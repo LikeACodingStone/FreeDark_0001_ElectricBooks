@@ -1,2417 +1,2418 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Internet - Peter Steinberger ｜ Lex Fridman Podcast #491.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Ich habe voller Freude zugesehen, wie mein Agent auf  
+**[0.00s] English:** I have watched with great joy as my agent has progressed.  
 **Translation:** 
 
-**[2.26s] English:** »Ich bin kein Roboter« geklickt hat.  
-**Translation:** Vocabulary: geklickt: 点击; zugesehen: 观看
+**[2.26s] English:** Ich bin kein Roboter" geklickt hat.  
+**Translation:** Vocabulary: geklickt: 点击; progressed: 进步; roboter: 机器人
 
-**[4.24s] English:** Ich habe ihn so gestaltet, dass er seine eigene Struktur versteht.  
+**[4.24s] English:** I have designed him such that he understands his own structure.  
 **Translation:** 
 
-**[7.44s] English:** Er kennt seinen Quellcode und weiß genau,  
-**Translation:** Vocabulary: gestaltet: 设计; quellcode: 源代码; seine: 他的; struktur: 结构; versteht: 理解
-
-**[9.66s] English:** wie und in welcher Umgebung er ausgeführt wird.  
+**[7.44s] English:** He knows his source code and knows exactly,  
 **Translation:** 
 
-**[12.32s] English:** Er weiß, wo die Dokumentation liegt.  
-**Translation:** Vocabulary: dokumentation: 文件资料; umgebung: 环境; welcher: 哪个
-
-**[13.78s] English:** Er kennt das Modell, auf dem er läuft.  
+**[9.66s] English:** How and in which environment it is executed.  
 **Translation:** 
 
-**[15.76s] English:** Deshalb ist es sehr einfach geworden, Änderungen vorzunehmen.  
-**Translation:** Vocabulary: geworden: 变得; vorzunehmen: 实施
+**[12.32s] English:** He knows where the documentation is located.  
+**Translation:** Vocabulary: executed: 实施
 
-**[19.52s] English:** Gefällt dir etwas nicht, änderst du es einfach per Prompt.  
+**[13.78s] English:** He knows the model on which he is running.  
 **Translation:** 
 
-**[22.08s] English:** Der Agent passt daraufhin seine eigene Software an.  
-**Translation:** Vocabulary: daraufhin: 随后; etwas: 某些事; nicht: 不
-
-**[24.36s] English:** Viele reden über selbstmodifizierende Programme.  
+**[15.76s] English:** Therefore, it has become very simple to make changes.  
 **Translation:** 
 
-**[27.70s] English:** Ich habe es einfach gebaut.  
+**[19.52s] English:** If you don't like something, you can simply change it by prompting.  
 **Translation:** 
 
-**[28.44s] English:** Und Vibe-Coding ist für mich eine Beleidigung.  
+**[22.08s] English:** The agent then adjusts his own software.  
+**Translation:** Vocabulary: prompting: 提示
+
+**[24.36s] English:** Many people talk about self-modifying programs.  
 **Translation:** 
 
-**[31.18s] English:** Du bevorzugst Agentic Engineering?  
-**Translation:** Vocabulary: beleidigung: 侮辱; bevorzugst: 偏好
-
-**[33.12s] English:** Ich sage den Leuten immer, dass ich Agentic Engineering mache  
+**[27.70s] English:** I have simply built it.  
 **Translation:** 
 
-**[35.12s] English:** und dann vielleicht um drei Uhr morgens zu Vibe-Coding wechsle  
-**Translation:** Vocabulary: mache: 从事; morgens: 早晨; vielleicht: 也许
-
-**[38.48s] English:** und es am nächsten Tag bereue.  
+**[28.44s] English:** And vibe-coding is offensive to me.  
 **Translation:** 
 
-**[40.58s] English:** Das ist dann peinlich.  
-**Translation:** Vocabulary: peinlich: 尴尬
+**[31.18s] English:** Do you prefer agentic engineering?  
+**Translation:** Vocabulary: agentic: 自主设计
 
-**[42.12s] English:** Man muss danach den Scheiß wieder aufräumen und alles gerade ziehen.  
+**[33.12s] English:** I always tell people that I do agentic engineering.  
 **Translation:** 
 
-**[45.14s] English:** Das haben wir alle schon erlebt.  
+**[35.12s] English:** Then, perhaps around three o'clock in the morning, I switch to Vibe-Coding.  
+**Translation:** 
+
+**[38.48s] English:** And the next day, I regret it.  
+**Translation:** 
+
+**[40.58s] English:** This is then embarrassing.  
+**Translation:** 
+
+**[42.12s] English:** Man must then clean up the mess and put everything back in order.  
+**Translation:** 
+
+**[45.14s] English:** We have all experienced that already.  
 **Translation:** 
 
 **[46.26s] English:** Das kennen wir alle.  
 **Translation:** 
 
-**[47.46s] English:** Früher habe ich extrem lange Prompts geschrieben,  
-**Translation:** Vocabulary: geschrieben: 书写; lange: 长的
+**[47.46s] English:** Earlier, I had written extremely long prompts.  
+**Translation:** Vocabulary: prompts: 提示
 
-**[49.64s] English:** wobei geschrieben nicht ganz stimmt.  
+**[49.64s] English:** Wobei geschrieben, nicht ganz stimmt.  
 **Translation:** 
 
-**[51.90s] English:** Ich habe sie eingesprochen.  
-**Translation:** Vocabulary: eingesprochen: 录好的
+**[51.90s] English:** I have spoken to them.  
+**Translation:** Vocabulary: geschrieben: 书写; nicht: 不
 
 **[53.36s] English:** Weißt du, diese Hände sind jetzt zu kostbar zum Schreiben.  
 **Translation:** 
 
-**[56.76s] English:** Ich benutze nur eingesprochene Prompts.  
-**Translation:** Vocabulary: eingesprochene: 约定俗成的; schreiben: 书写
+**[56.76s] English:** I only use spoken prompts.  
+**Translation:** Vocabulary: kostbar: 珍贵; schreiben: 书写
 
-**[58.44s] English:** Um meine Software zu entwickeln.  
+**[58.44s] English:** To develop my software.  
 **Translation:** 
 
-**[60.70s] English:** Ist das wirklich wahr?  
-**Translation:** Vocabulary: entwickeln: 开发; wirklich: 真的
-
-**[62.06s] English:** Du benutzt in all diesen Terminals einfach deine Stimme?  
+**[60.70s] English:** Is this really true?  
 **Translation:** 
 
-**[64.56s] English:** Ja, ich habe das früher sehr, sehr oft gemacht.  
+**[62.06s] English:** Do you simply use your voice on all these terminals?  
 **Translation:** 
 
-**[68.68s] English:** Einmal habe ich deswegen sogar meine Stimme verloren.  
+**[64.56s] English:** Ja, I have done that very, very often.  
+**Translation:** Vocabulary: terminals: 终端
+
+**[68.68s] English:** Once I even lost my voice because of that.  
 **Translation:** 
 
-**[72.72s] English:** Also, ich muss dich das jetzt fragen.  
-**Translation:** Vocabulary: verloren: 失去
-
-**[74.94s] English:** Aus reiner Neugierde.  
+**[72.72s] English:** Also, I must ask you this now.  
 **Translation:** 
 
-**[76.52s] English:** Ich weiß, dass du wahrscheinlich sehr hohe Angebote von großen Unternehmen bekommen hast.  
-**Translation:** Vocabulary: angebote: 报价; bekommen: 收到; neugierde: 好奇; reiner: 纯粹的; unternehmen: 公司; wahrscheinlich: 可能
+**[74.94s] English:** Out of pure curiosity.  
+**Translation:** 
 
-**[82.24s] English:** Kannst du mir sagen, mit wem du zusammenarbeiten möchtest?  
+**[76.52s] English:** I know that you have probably received very high offers from large companies.  
+**Translation:** 
+
+**[82.24s] English:** Can you tell me with whom you would like to collaborate?  
 **Translation:** 
 
 **[86.88s] English:** Ja.  
-**Translation:** Vocabulary: zusammenarbeiten: 合作
+**Translation:** Vocabulary: collaborate: 合作
 
-**[88.44s] English:** Give ...  
+**[88.44s] English:** Give....  
 **Translation:** 
 
-**[90.24s] English:** Es folgt ein Gespräch mit Peter Steinberger, dem Schöpfer von OpenClaw.  
-**Translation:** Vocabulary: steinberger: 斯泰因贝格
-
-**[94.34s] English:** Früher bekannt als Moltbot, ClaudBot, Claudus & Claud.  
+**[90.24s] English:** Here is the improved sentence with natural English punctuation and capitalization: Es follows a conversation with Peter Steinberger, the creator of OpenClaw.  
 **Translation:** 
 
-**[97.80s] English:** Geschrieben mit einem W wie in Lobster Claw.  
-**Translation:** Vocabulary: claud: 克劳德; lobster: 龙虾
-
-**[100.92s] English:** Also Hummerklaue.  
+**[94.34s] English:** Earlier known as Moltbot, ClaudBot, Claudus, & Claud.  
 **Translation:** 
 
-**[102.82s] English:** Nicht zu verwechseln mit Cloud, dem KI-Modell von Anthropic,  
-**Translation:** Vocabulary: hummerklaue: 悍马爪; verwechseln: 混淆
-
-**[106.40s] English:** das mit einem U geschrieben wird.  
+**[97.80s] English:** Written with a W like in Lobster Claw.  
 **Translation:** 
 
-**[108.12s] English:** Tatsächlich war diese Verwechslung der Grund,  
-**Translation:** Vocabulary: verwechslung: 误解
-
-**[110.42s] English:** weshalb Anthropic Peter freundlich gebeten hat den Namen in OpenClaw zu ändern.  
+**[100.92s] English:** Also, Hummerklaue.  
 **Translation:** 
 
-**[115.56s] English:** Was ist OpenClaw?  
-**Translation:** Vocabulary: freundlich: 友好; namen: 名字
+**[102.82s] English:** Not to be confused with Cloud, the AI model from Anthropic.  
+**Translation:** Vocabulary: hummerklaue: 悍马爪子
 
-**[116.94s] English:** Es ist ein Open Source,  
+**[106.40s] English:** Das mit einem U geschrieben wird.  
+**Translation:** 
+
+**[108.12s] English:** Actually, this misunderstanding was the reason,  
+**Translation:** 
+
+**[110.42s] English:** We should note that Anthropic Peter kindly requested that the name be changed from Anthropic to OpenClaw.  
+**Translation:** 
+
+**[115.56s] English:** What is OpenClaw?  
+**Translation:** 
+
+**[116.94s] English:** It is an open source,  
 **Translation:** 
 
 **[117.86s] English:** AI-Agent, der innerhalb weniger  
-**Translation:** Vocabulary: innerhalb: 在……以内
+**Translation:** Vocabulary: innerhalb: 在...以内; weniger: 较少的
 
-**[120.00s] English:** Tage die Tech-Welt im Sturm erobert hat. Das Projekt ist rasant gewachsen und hat auf GitHub  
+**[120.00s] English:** That has stormed the tech world. The project has grown rapidly and has gained traction on GitHub.  
 **Translation:** 
 
-**[124.24s] English:** über 180.000 Sterne erreicht. Es hat sogar das soziale Netzwerk Moldbook inspiriert. Eine  
-**Translation:** Vocabulary: erreicht: 达到; gewachsen: 增长; inspiriert: 启发; moldbook: 摩尔布书; netzwerk: 网络; sturm: 风暴
+**[124.24s] English:** Over 180,000 stars reached. It has even inspired the social network Moldbook.  
+**Translation:** Vocabulary: moldbook: 模版书
 
-**[129.30s] English:** Plattform, auf der AI-Agents Manifeste veröffentlichen und über Bewusstsein diskutieren.  
+**[129.30s] English:** Platform, on which AI-agents publish manifestos and discuss consciousness.  
 **Translation:** 
 
-**[135.00s] English:** Das Ganze hat in der Öffentlichkeit gleichermaßen Begeisterung wie auch Unruhe ausgelöst. In einer  
-**Translation:** Vocabulary: begeisterung: 热情; bewusstsein: 意识; diskutieren: 讨论; manifeste: 宣言; plattform: 平台
+**[135.00s] English:** Das Ganze hat in der Öffentlichkeit gleichermassen Begeisterung wie auch Unruhe ausgelöst. In einer  
+**Translation:** Vocabulary: begeisterung: 热情; consciousness: 意识; gleichermassen: 同样; manifestos: 宣言
 
-**[139.88s] English:** Art KI-Psychose, einer Mischung aus Clickbait-Panikmache und zugleich echter, durchaus  
+**[139.88s] English:** Art KI-Psychose: Eine Mischung aus Clickbait-Panikmache und zugleich echter, durchschnittlich ernstzunehmender Sorge.  
 **Translation:** 
 
-**[145.28s] English:** berechtigter Sorge über die Rolle von KI in unserer digital vernetzten Welt. OpenClaw ist,  
-**Translation:** Vocabulary: berechtigter: 正当的; durchaus: 确实; mischung: 混合; vernetzten: 互联的; zugleich: 同时
+**[145.28s] English:** Bereitigung over the role of AI in our digitally interconnected world. OpenClaw is,  
+**Translation:** Vocabulary: bereitigung: 准备; digitally: 数字化; durchschnittlich: 普通; ernstzunehmender: 值得认真对待的; interconnected: 互联的; mischung: 混合; zugleich: 同时
 
-**[151.60s] English:** wie es im eigenen Slogan heißt, die KI, die tatsächlich Dinge erledigt. Es ist ein autonomer  
+**[151.60s] English:** Wie es im eigenen Slogan heißt, dieKI, die tatsächlich Dinge erledigt. Es ist ein autonomer.  
 **Translation:** 
 
-**[157.44s] English:** KI-Assistent, der auf deinem Computer lebt. Wenn du es erlaubst, hat er Zugriff auf all deine Sachen  
-**Translation:** Vocabulary: autonomer: 自主的; dinge: 事情; erlaubst: 允许; erledigt: 处理
+**[157.44s] English:** KI-Assistent, who lives on your computer. When you allow it, he has access to all your things.  
+**Translation:** Vocabulary: autonomer: 自主的; dinge: 事情; eigenen: 自己的; erledigt: 处理
 
-**[162.08s] English:** und kommuniziert mit dir über Telegram, WhatsApp, Signal, iMessage und andere Messenger. Er nutzt  
+**[162.08s] English:** Und kommuniziert mit dir über Telegram, WhatsApp, Signal, iMessage und andere Messengers. Er nutzt  
 **Translation:** 
 
-**[168.64s] English:** jedes beliebige KI-Modell, das du bevorzugst, einschließlich Cloud Opus 4.6 und GP2.  
-**Translation:** Vocabulary: beliebige: 任意的; bevorzugst: 偏好; kommuniziert: 交流; messenger: 即时通讯工具
+**[168.64s] English:** Every preferred AI model, including Cloud Opus 4.6 and GP2, is available.  
+**Translation:** Vocabulary: kommuniziert: 交流; messengers: 即时通讯工具
 
 **[175.28s] English:** ChatGPT 5.3-Kodex, um Aufgaben für dich zu erledigen. Viele bezeichnen das als einen der  
 **Translation:** 
 
-**[180.60s] English:** größten Momente in der jüngeren KI-Geschichte, seit dem Start von ChatGPT im November 2022. Die  
-**Translation:** Vocabulary: aufgaben: 分配任务; bezeichnen: 称呼; erledigen: 完成
+**[180.60s] English:** The greatest moments in recent AI history, since the launch of ChatGPT in November 2022. The  
+**Translation:** Vocabulary: aufgaben: 任务; bezeichnen: 称呼; erledigen: 处理
 
 **[187.38s] English:** Bausteine für diese Art von AI-Agent waren alle da. Aber sie in ein System zu vereinen, das den  
 **Translation:** 
 
-**[193.48s] English:** Schritt von Sprache zu Handeln, von Ideen zu Taten wirklich vollzieht und so einen brauchbaren  
-**Translation:** Vocabulary: bausteine: 构建模块; brauchbaren: 实用的; vereinen: 整合; vollzieht: 执行; wirklich: 真正地
+**[193.48s] English:** Step from language to action, from ideas to deeds, really accomplishes and so a usable  
+**Translation:** Vocabulary: accomplishes: 完成; bausteine: 构件; usable: 可用的; vereinen: 合并
 
-**[198.64s] English:** Assistenten schafft, das war neu. Das fühlt sich an wie jemand, der dich versteht und auf eine  
+**[198.64s] English:** Assistantenschafft, that was new. It feels like someone who understands you and is responding in a way that resonates.  
 **Translation:** 
 
-**[204.56s] English:** Gemeinschaft getrieben hat. Das war neu. Das war neu. Das war neu. Das war neu. Das war neu. Das war neu.  
-**Translation:** Vocabulary: assistenten: 助手; gemeinschaft: 社群; getrieben: 驱动; versteht: 理解
+**[204.56s] English:** Gemeinschaft getrieben hat. That was new. That was new. That was new. That was new. That was new. That was new.  
+**Translation:** Vocabulary: assistantenschafft: 助手中枢; gemeinschaft: 社区纽带; getrieben: 驱动
 
-**[205.28s] English:** Das ist der Grund, warum OpenClaw das Internet im Sturm eroberte. Die Stärke davon liegt vor allem  
+**[205.28s] English:** This is the reason why OpenClaw stormed the internet. The strength of it lies primarily  
 **Translation:** 
 
-**[213.74s] English:** darin, dass du ihm Zugriff auf all deine Sachen geben kannst und ihm erlaubst, alles damit zu  
-**Translation:** Vocabulary: darin: 其中; davon: 此事; eroberte: 占领
-
-**[219.24s] English:** machen, um dir nützlich zu sein. Das ist sehr mächtig, aber auch gefährlich. OpenClaw bedeutet  
+**[213.74s] English:** Darin, dass du ihm Zugriff auf alle deine Sachen geben kannst und ihm erlaubst, alles damit zu.  
 **Translation:** 
 
-**[227.16s] English:** Freiheit, aber mit Freiheit kommt auch Verantwortung. Damit kannst du deine Daten besitzen und kontrollieren.  
-**Translation:** Vocabulary: bedeutet: 意味着; besitzen: 拥有; freiheit: 自由; kontrollieren: 控制; machen: 使; verantwortung: 责任
-
-**[234.20s] English:** Doch gerade weil du diese Kontrolle hast, trägst du auch die Verantwortung, sie vor verschiedenen  
+**[219.24s] English:** Machen, um dir nützlich zu sein. Das ist sehr mächtig, aber auch gefährlich. OpenClaw bedeutet...  
 **Translation:** 
 
-**[239.68s] English:** Bedrohungen zu verhindern.  
-**Translation:** Vocabulary: bedrohungen: 各种威胁
+**[227.16s] English:** Freedom, but with freedom comes also responsibility. With that, you can own and control your data.  
+**Translation:** Vocabulary: bedeutet: 意味着; machen: 做
 
-**[240.00s] English:** der Cybersicherheit zu schützen. Es gibt großartige Methoden, dich zu schützen. Aber die Bedrohungen  
+**[234.20s] English:** Doch gerade weil du diese Kontrolle hast, trägst du auch die Verantwortung, sie vor verschiedenen Risiken zu schützen.  
 **Translation:** 
 
-**[246.24s] English:** und Schwachstellen existieren. Ein leistungsstarker KI-Assistent mit Systemzugriff ist zwar ein  
-**Translation:** Vocabulary: cybersicherheit: 网络安全; existieren: 存在; leistungsstarker: 强大的; methoden: 方法; schwachstellen: 漏洞; systemzugriff: 系统访问
+**[239.68s] English:** To prevent threats.  
+**Translation:** Vocabulary: kontrolle: 控制; risiken: 风险; verantwortung: 责任; verschiedenen: 各种
 
-**[252.92s] English:** Sicherheitsrisiko, repräsentiert aber auch die Zukunft. Denn wenn er gut und sicher gemacht ist,  
+**[240.00s] English:** To protect against cybersecurity threats. There are great methods to protect yourself. But the threats  
 **Translation:** 
 
-**[259.40s] English:** kann er jedem von uns als persönlicher Assistent äußerst nützlich sein. Wir sprechen über all das  
-**Translation:** Vocabulary: assistent: 个人助手; sicherheitsrisiko: 安全风险; sprechen: 讨论
+**[246.24s] English:** Und schwache Stellen existieren. Ein leistungsstarker KI-Assistent mit Systemzugriff ist zwar ein  
+**Translation:** Vocabulary: cybersecurity: 网络安全; existieren: 存在; leistungsstarker: 强大的; schwache: 薄弱的; stellen: 环节; systemzugriff: 系统访问
 
-**[265.80s] English:** mit Peter und beleuchten auch seine große Vision für Programmierung, Softwareentwicklung und  
+**[252.92s] English:** Security risk, but also represents the future. For if it is done well and securely,  
 **Translation:** 
 
-**[270.44s] English:** Unternehmertum, die ich wirklich inspirierend finde. Er hat 13 Jahre damit verbracht, PSPDF-Kit zu  
-**Translation:** Vocabulary: beleuchten: 照亮; inspirierend: 启发; programmierung: 编程; softwareentwicklung: 软件开发; unternehmertum: 创业; verbracht: 度过
-
-**[277.42s] English:** entwickeln, eine Software, die auf einer Milliarde Geräten verwendet wird. Er hat es verkauft und für  
+**[259.40s] English:** Can it be extremely useful for each of us as a personal assistant? We are speaking about all this.  
 **Translation:** 
 
-**[282.90s] English:** kurze Zeit die Lust am Programmieren verloren, verschwand für drei Jahre und fand dann seine  
-**Translation:** Vocabulary: entwickeln: 开发; milliarde: 十亿; programmieren: 编程; verkauft: 出售; verloren: 失去; verschwand: 消失; verwendet: 使用
-
-**[287.92s] English:** Leidenschaft für das Programmieren wieder. In sehr kurzer Zeit hat er einen Open-Source-AI-Agent  
+**[265.80s] English:** With Peter, we will also shed light on his great vision for programming, software development and  
 **Translation:** 
 
-**[293.68s] English:** entwickelt, der das Internet im  
-**Translation:** Vocabulary: entwickelt: 开发; leidenschaft: 热情
+**[270.44s] English:** Entrepreneurship, which I find truly inspiring. He has spent 13 years developing PSPDFKit.  
+**Translation:** Vocabulary: entrepreneurship: 创业精神
+
+**[277.42s] English:** Developing a software used on one billion devices, he sold it and for  
+**Translation:** 
+
+**[282.90s] English:** For a short time, the joy in programming was lost and vanished for three years before it then found its way back.  
+**Translation:** Vocabulary: vanished: 消失
+
+**[287.92s] English:** Leidenschaft für das Programmieren wieder. In sehr kurzer Zeit hat er einen Open-Source-AI-Agenten entwickelt.  
+**Translation:** 
+
+**[293.68s] English:** Developed, the one that uses the Internet in  
+**Translation:** Vocabulary: entwickelt: 开发; leidenschaft: 热情; programmieren: 编程
 
 **[295.80s] English:** Programm eroberte. Er ist in vielerlei Hinsicht das Symbol der KI-Revolution, die in der  
 **Translation:** 
 
-**[301.12s] English:** Programmierwelt stattfindet. Es gab den Chat-GPT-Moment im Jahr 2022, den Deep-Seek-Moment im  
-**Translation:** Vocabulary: hinsicht: 方面; programm: 程序; programmierwelt: 编程世界; stattfindet: 进行; vielerlei: 多种
+**[301.12s] English:** Programmierwelt stattfindet. Es gab den Chat-GPT-Moment im Jahr 2022 und den Deep-Seek-Moment im  
+**Translation:** Vocabulary: eroberte: 占领; hinsicht: 方面; programm: 程序; programmierwelt: 编程世界; stattfindet: 进行; vielerlei: 多种
 
-**[308.12s] English:** Jahr 2025 und jetzt, im Jahr 2026, erleben wir den Open-Claw-Moment, das Zeitalter des Hummers,  
+**[308.12s] English:** Jahr 2025, und jetzt, im Jahr 2026, erleben wir den Open-Claw-Moment, das Zeitalter des Hummers.  
 **Translation:** 
 
-**[316.08s] English:** der Beginn der Agentik-KI-Revolution. Was für eine großartige Zeit. Das ist der Lex Friedman  
-**Translation:** Vocabulary: friedman: 弗里德曼; hummers: 悍马; zeitalter: 时代
+**[316.08s] English:** The beginning of the AGI-AI Revolution. What a great time. This is Lex Friedman.  
+**Translation:** Vocabulary: erleben: 经历; hummers: 悍马; zeitalter: 时代
 
-**[322.36s] English:** Podcast. Unterstütze ihn, indem du unsere Sponsoren in der Beschreibung ansiehst.  
+**[322.36s] English:** Podcast: Support him by checking out our sponsors in the description.  
 **Translation:** 
 
-**[325.80s] English:** Du kannst dort auch Links finden, um mit mir in Kontakt zu treten, Fragen zu stellen, Feedback zu  
-**Translation:** Vocabulary: ansiehst: 查看赞助商; beschreibung: 描述; sponsoren: 赞助商
+**[325.80s] English:** You can also find links there to get in touch with me, ask questions, or provide feedback.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[330.72s] English:** geben und so weiter. Und jetzt, liebe Freunde, hier ist Peter Steinberger.  
+**[330.72s] English:** Give and so forth. And now, dear friends, here is Peter Steinberger.  
 **Translation:** 
 
-**[334.92s] English:** Der einzig Wahre, der Claude Father. Eigentlich hat Benjamin es in diesem Tweet vorhergesagt. Hier  
-**Translation:** Vocabulary: eigentlich: 其实; vorhergesagt: 预言
+**[334.92s] English:** Der Einzige wahre, der Claude. Father actually predicted it in this tweet beforehand. Here:  
+**Translation:** Vocabulary: beforehand: 事先; einzige: 唯一的
 
-**[343.04s] English:** folgt ein Gespräch mit Claude, einem angesehenen Krustentier. Das Bild eines Hummers im Anzug ist  
+**[343.04s] English:** Follows a conversation with Claude, an esteemed crustacean. The image of a crab in a suit is  
 **Translation:** 
 
-**[349.20s] English:** urkomisch. Ich glaube, die Prophezeiung ist erfüllt. Gehen wir zu dem Moment zurück,  
-**Translation:** Vocabulary: angesehenen: 受尊敬的; krustentier: 甲壳动物; prophezeiung: 预言; urkomisch: 滑稽
+**[349.20s] English:** Urkomisch. I believe the prophecy has been fulfilled. Let's go back to that moment,  
+**Translation:** Vocabulary: crustacean: 螃蟹; esteemed: 尊敬的; fulfilled: 实现; prophecy: 预言; urkomisch: 荒诞
 
-**[355.80s] English:** als du in einer Stunde einen Prototyp gebaut hast. Eine der ersten Versionen.  
+**[355.80s] English:** As you built a prototype an hour ago, one of the first versions.  
 **Translation:** 
 
-**[360.00s] English:** Von OpenClaw. Ich glaube, diese Geschichte ist für viele Menschen sehr inspirierend, weil aus diesem Prototyp etwas entstanden ist, das das Internet im Sturm erobert hat und zum am schnellsten wachsenden Repository in der Geschichte von GitHub wurde, mit inzwischen über 175.000 Sternen. Was war also die Geschichte hinter diesem Ein-Stunden-Prototyp?  
-**Translation:** Vocabulary: entstanden: 产生; etwas: 一些; geschichte: 故事; inzwischen: 至今; menschen: 人们; prototyp: 原型; repository: 存储库; schnellsten: 最快的; sturm: 风暴; versionen: 版本; wachsenden: 增长的
+**[360.00s] English:** From OpenClaw: I believe this story is very inspiring for many people because something born from this prototype stormed the Internet and became the fastest-growing repository in GitHub's history, with over 175,000 stars. So, what was the backstory behind this one-hour prototype?  
+**Translation:** Vocabulary: backstory: 背景故事; prototype: 原型; repository: 代码仓库
 
-**[380.32s] English:** Weißt du, ich wollte das schon seit April.  
+**[380.32s] English:** Do you know, I've wanted to do this since April.  
 **Translation:** 
 
-**[383.50s] English:** Einen persönlichen KI-Assistenten.  
+**[383.50s] English:** A personal AI assistant.  
 **Translation:** 
 
-**[385.40s] English:** Ja, und ich habe mit ein paar anderen Dingen herumgespielt, sogar mit Tools, die auf all meine WhatsApp-Nachrichten zugreifen und ich konnte einfach Abfragen darüber laufen lassen. Das war damals, als wir GPT 4.1 hatten, mit dem Kontextfenster von einer Million.  
+**[385.40s] English:** Ja, und ich habe mit ein paar anderen Dingen herumgespielt, sogar mit Tools, die auf alle meine WhatsApp-Nachrichten zugreifen können. Ich konnte einfach Abfragen darüber laufen lassen. Das war damals, als wir GPT 4.1 hatten, mit dem Kontextfenster von einer Million.  
 **Translation:** 
 
 **[401.14s] English:** Ja, und ich habe alle Daten gesammelt und ihn dann einfach gefragt, was macht diese Freundschaft bedeutungsvoll? Ich habe wirklich tiefgehende Antworten bekommen.  
-**Translation:** Vocabulary: abfragen: 查询; antworten: 回答; bedeutungsvoll: 有意义; bekommen: 获得; freundschaft: 友谊; gesammelt: 收集; herumgespielt: 玩耍; kontextfenster: 上下文窗口; tiefgehende: 深入; wirklich: 真正
+**Translation:** Vocabulary: abfragen: 查询; anderen: 其他的人; antworten: 回答; bedeutungsvoll: 有意义的; bekommen: 获得; einfach: 简单地; freundschaft: 友谊; gefragt: 询问; gesammelt: 收集; herumgespielt: 玩耍; kontextfenster: 上下文窗口; tiefgehende: 深入的; wirklich: 真正地
 
-**[414.30s] English:** Ich habe sie meinen Freunden gesagt.  
+**[414.30s] English:** I have told them to my friends.  
 **Translation:** 
 
-**[415.40s] English:** Ich habe sie meinen Freunden geschickt. Und sie hatten Tränen in den Augen.  
-**Translation:** Vocabulary: freunden: 朋友; geschickt: 发送
-
-**[419.50s] English:** Da ist also etwas.  
+**[415.40s] English:** I sent them to my friends, and they had tears in their eyes.  
 **Translation:** 
 
-**[421.42s] English:** Ja, aber dann habe ich gedacht, dass alle anderen daran arbeiten werden. Also bin ich zu anderen Dingen übergegangen. Das war noch ganz am Anfang, als ich viel experimentiert und herumprobiert habe. So lernt man ja.  
-**Translation:** Vocabulary: arbeiten: 工作; experimentiert: 实验; herumprobiert: 尝试
-
-**[436.48s] English:** Man macht einfach Dinge. Man spielt herum. Die Zeit verging schnell und es war November. Ich wollte, dass das, was ich begonnen habe...  
+**[419.50s] English:** There is also something.  
 **Translation:** 
 
-**[445.40s] English:** Es hat mich wirklich passiert. Es hat mich genervt, dass es nicht existierte. Also habe ich es einfach ins Leben gepromptet.  
-**Translation:** Vocabulary: begonnen: 开始; dinge: 事情; existierte: 存在; gepromptet: 催生; leben: 生活; nicht: 不; passiert: 发生; schnell: 快速; verging: 流逝
+**[421.42s] English:** Ja, aber dann habe ich gedacht, dass alle anderen daran arbeiten werden. Therefore, I moved on to other things. That was still very early on, when I experimented and tried a lot of different approaches. After all, that's how one learns.  
+**Translation:** Vocabulary: approaches: 方法; arbeiten: 工作; experimented: 实验; gedacht: 想
 
-**[455.92s] English:** Das ist doch im Grunde der Beginn der Heldenreise eines Unternehmers, oder? Schon bei deiner ursprünglichen Geschichte mit PS, PDF, KIT war es dieses, warum gibt es das nicht? Dann baue ich es eben. Und hier ist es zwar ein völlig anderer Bereich, aber vielleicht mit einem ganz ähnlichen Geist.  
+**[436.48s] English:** Man macht einfach Dinge. Man spielt herum. Die Zeit verging schnell, und es war November. Ich wollte, dass das, was ich begonnen hatte,...  
 **Translation:** 
 
-**[472.14s] English:** Ja, dieses Problem hatte ich. Ich habe versucht, ein PDF auf einem iPad zu zeigen.  
-**Translation:** Vocabulary: geist: 精神; heldenreise: 英雄之旅; unternehmers: 企业家; versucht: 尝试; vielleicht: 或许
+**[445.40s] English:** It really happened to me. It annoyed me that it didn't exist, so I just prompted it into existence.  
+**Translation:** Vocabulary: begonnen: 开始; dinge: 事情; prompted: 提示; schnell: 快速; verging: 流逝
 
-**[475.40s] English:** Das war vor ungefähr 15 Jahren oder so.  
+**[455.92s] English:** Das ist doch im Grunde der Beginn der Heldenreise eines Unternehmers, oder? Schon bei deiner ursprünglichen Geschichte mit PS, PDF, KIT war es dieses: Warum gibt es das nicht? Dann baue ich es eben. Und hier ist es zwar ein völlig anderer Bereich, aber vielleicht mit einem ganz ähnlichen Geist.  
 **Translation:** 
 
-**[478.82s] English:** Ja, das war das.  
+**[472.14s] English:** Ja, this problem had I. I had tried to show a PDF on an iPad.  
+**Translation:** Vocabulary: bereich: 领域; geist: 精神; geschichte: 故事; heldenreise: 创业之旅; nicht: 不; unternehmers: 企业家; vielleicht: 也许
+
+**[475.40s] English:** This was about 15 years ago or so.  
 **Translation:** 
 
-**[480.00s] English:** Das komischste überhaupt. Plötzlich hatte ich dieses Problem und wollte einem Freund helfen.  
+**[478.82s] English:** Ja, that was it.  
 **Translation:** 
 
-**[484.40s] English:** Und es war nicht so, dass nichts existierte, aber es war einfach nicht gut.  
-**Translation:** Vocabulary: komischste: 最滑稽; nichts: nothing
-
-**[490.96s] English:** Und ich, es war mittelmäßig. Ich dachte mir, das geht bestimmt besser.  
+**[480.00s] English:** Das komischste überhaupt: suddenly, I had this problem and wanted to help a friend.  
 **Translation:** 
 
-**[497.24s] English:** Übrigens, für diejenigen, die es nicht wissen, das führte zur Entwicklung des PS-PDF-Kits,  
-**Translation:** Vocabulary: bestimmt: 肯定; diejenigen: 那些人; entwicklung: 发展
+**[484.40s] English:** And it was not so that nothing existed, but it was simply not good.  
+**Translation:** Vocabulary: komischste: 最滑稽的
 
-**[501.70s] English:** das auf einer Milliarde Geräte verwendet wird. Es ist wirklich nützlich, ein PDF öffnen zu können.  
+**[490.96s] English:** And I thought it was just okay. I figured there must be a better way.  
 **Translation:** 
 
-**[506.82s] English:** Man könnte auch den Witz machen, dass ich wirklich schlecht im Benennen bin.  
-**Translation:** Vocabulary: benennen: 命名; machen: 开玩笑; milliarde: 十亿; schlecht: 差; verwendet: 被使用
-
-**[512.44s] English:** Name Nummer 5 beim aktuellen Projekt. Und selbst PS-PDF geht nicht so leicht von der Zunge.  
+**[497.24s] English:** By the way, for those who don't know, this led to the development of the PS-PDF kit.  
 **Translation:** 
 
-**[519.72s] English:** Also, du hast gesagt, egal, warum mache ich es nicht einfach? Also, was war der Prototyp?  
-**Translation:** Vocabulary: aktuellen: 当前的; mache: 做; prototyp: 原型
-
-**[525.64s] English:** Was war das Ding, das du, was war das magische Ding, das du in kurzer Zeit gebaut hast,  
+**[501.70s] English:** It is used on one billion devices. It's really handy to be able to open a PDF.  
 **Translation:** 
 
-**[529.32s] English:** bei dem du dachtest, das könnte tatsächlich als AI-Agent funktionieren, wo du mit ihm sprichst und es Dinge erledigt?  
-**Translation:** Vocabulary: dachtest: 认为; erledigt: 处理; funktionieren: 工作; magische: 魔法的; sprichst: 交谈
-
-**[535.10s] English:** Es gab da schon ein früheres Projekt von mir. Damit konnte ich meine Terminals ins Web bringen  
+**[506.82s] English:** Man could also make the joke that I'm really bad at naming things.  
 **Translation:** 
 
-**[540.26s] English:** und direkt mit ihnen interagieren. Gleichzeitig liefen sie auch ganz normal auf meinem Mac.  
-**Translation:** Vocabulary: gleichzeitig: 同时; interagieren: 交互
-
-**[547.26s] English:** Das hieß Vibe Tunnel und war im Grunde ein Wochenend-Hack-Projekt.  
+**[512.44s] English:** Name Nummer 5 beim aktuellen Projekt. Und selbst "PS-PDF" geht nicht so leicht von der Zunge.  
 **Translation:** 
 
-**[552.66s] English:** Das war noch ganz am Anfang in diesen Cloud-Code-Zeiten. Man hat jedes Mal einen Dopaminkick bekommen,  
-**Translation:** Vocabulary: bekommen: 获得; dopaminkick: 多巴胺激增
+**[519.72s] English:** Also, you said, "egal," why don't I just do it? So, what was the prototype?  
+**Translation:** Vocabulary: aktuellen: 当前的; projekt: 项目; prototype: 原型
 
-**[558.00s] English:** wenn etwas funktioniert hat und ich bin richtig sauer geworden, wenn etwas schief ging.  
+**[525.64s] English:** What was that magical thing you built in such a short time?  
 **Translation:** 
 
-**[562.36s] English:** Und du hattest, ohne jetzt abzuschweifen.  
-**Translation:** Vocabulary: abzuschweifen: 跑题; etwas: 事情; funktioniert: 起作用; geworden: 变得; sauer: 生气
+**[529.32s] English:** Here's the transcript with natural English punctuation and capitalization: Did you think that could actually work as an AI agent, where you talk to it and get things done?  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音
 
-**[565.10s] English:** Einen wirklich großartigen Blogbeitrag darüber, wie du Vibe Tunnel umgebaut hast.  
+**[535.10s] English:** There was an earlier project of mine that allowed me to bring my terminals to the web.  
 **Translation:** 
 
-**[569.62s] English:** Du hast den gesamten Code von TypeScript nach SIG konvertiert, ausgerechnet SIG,  
-**Translation:** Vocabulary: ausgerechnet: 偏偏; blogbeitrag: 博客文章; gesamten: 整个的; konvertiert: 转换; umgebaut: 改造; wirklich: 真正
+**[540.26s] English:** And directly interact with them. At the same time, they also ran completely normally on my Mac.  
+**Translation:** Vocabulary: terminals: 终端
 
-**[574.20s] English:** mit nur einem einzigen Prompt. Ein Prompt, ein Versuch. Den gesamten Code in SIG umgewandelt.  
+**[547.26s] English:** This was called Vibe Tunnel and was basically a weekend hack project.  
+**Translation:** 
+
+**[552.66s] English:** This was at the very beginning of these cloud-code times. You got a dopamine hit every time.  
+**Translation:** Vocabulary: dopamine: 多巴胺; tunnel: 隧道
+
+**[558.00s] English:** When something worked and I got really upset when things went wrong.  
+**Translation:** 
+
+**[562.36s] English:** And you had, without now going off topic.  
+**Translation:** 
+
+**[565.10s] English:** A really great blog post about how you rebuilt the Vibe Tunnel.  
+**Translation:** 
+
+**[569.62s] English:** You have converted the entire TypeScript code to SIG, of all things,  
+**Translation:** Vocabulary: converted: 转换
+
+**[574.20s] English:** With just a single prompt: one prompt, one attempt. The entire code converted into SIG.  
 **Translation:** 
 
 **[580.70s] English:** Ja, da gab es diesen einen Teil der Architektur, der viel zu viel Speicher verbraucht hat für jedes Terminal.  
-**Translation:** Vocabulary: architektur: 架构; einzigen: 唯一的; speicher: 内存; umgewandelt: 转换; verbraucht: 消耗
+**Translation:** Vocabulary: architektur: 架构; prompt: 提示; speicher: 内存; verbraucht: 消耗
 
-**[590.72s] English:** Lief im Grunde ein eigener Notprozess.  
+**[590.72s] English:** Lief, im Grunde, ein eigenes Notverfahren.  
 **Translation:** 
 
-**[593.54s] English:** Ich wollte das auf Rust umstellen. Klar, ich hätte das alles manuell auseinandernehmen können.  
-**Translation:** Vocabulary: auseinandernehmen: 拆分; notprozess: 紧急程序; umstellen: 转换
+**[593.54s] English:** I wanted to switch this to Rust. Of course, I could have manually拆分了所有内容，但还是决定使用Rust。  
+**Translation:** Vocabulary: eigenes: 自己的; notverfahren: 紧急程序
 
-**[599.48s] English:** Ich hatte das alles manuell auseinandernehmen können.  
+**[599.48s] English:** I could have disassembled all of that manually.  
 **Translation:** 
 
-**[599.94s] English:** Ich hatte das alles manuell auseinandernehmen können.  
+**[599.94s] English:** I could have disassembled all of that manually.  
+**Translation:** Vocabulary: disassembled: 拆解
+
+**[600.00s] English:** All automated attempts have klutzy failed.  
 **Translation:** 
 
-**[600.00s] English:** Aber alle automatisierten Versuche sind kläglich gescheitert.  
+**[608.24s] English:** Then, about four or five months later, I checked again and thought, okay, now let's use something even more experimental.  
+**Translation:** Vocabulary: automated: 自动化; klutzy: 笨拙的
+
+**[615.78s] English:** Also, I simply typed it, converting this and that part to SICK, and then Codex got to work.  
 **Translation:** 
 
-**[608.24s] English:** Und dann habe ich ungefähr vier oder fünf Monate später wieder nachgesehen und dachte, okay, jetzt lass uns etwas noch Experimentelleres nutzen.  
+**[623.46s] English:** And it has basically done the right thing.  
+**Translation:** Vocabulary: codex: 代码库; converting: 转换
+
+**[625.74s] English:** There was a small detail that I had to change afterward, but it just ran overnight or six hours and did its thing.  
 **Translation:** 
 
-**[615.78s] English:** Also habe ich einfach getippt, konvertiere diesen und jenen Teil zu SICK und dann hat Codex losgelegt.  
+**[636.78s] English:** It is simply incredible.  
 **Translation:** 
 
-**[623.46s] English:** Und es hat es im Grunde richtig gemacht.  
-**Translation:** Vocabulary: codex: 代码; konvertiere: 转换; losgelegt: 开始
-
-**[625.74s] English:** Es gab ein kleines Detail, das ich danach ändern musste, aber es lief einfach über Nacht oder sechs Stunden und machte einfach sein Ding.  
+**[639.38s] English:** Also, this also concerns the programming of LLMs, refactoring.  
 **Translation:** 
 
-**[636.78s] English:** Es ist einfach unglaublich.  
-**Translation:** Vocabulary: unglaublich: 难以置信
+**[643.34s] English:** But back to the actual history of the prototypes.  
+**Translation:** Vocabulary: prototypes: 原型; refactoring: 重构
 
-**[639.38s] English:** Also das betrifft die Programmierung von LLMs, das Refactoring.  
+**[646.18s] English:** How did Vibe Tunnel connect with the first prototype, where your agents could actually work?  
 **Translation:** 
 
-**[643.34s] English:** Aber zurück zur eigentlichen Geschichte der Prototypen.  
-**Translation:** Vocabulary: betrifft: 与...有关; eigentlichen: 真正的; geschichte: 历史; programmierung: 编程; prototypen: 原型; refactoring: 重构
+**[652.56s] English:** Now, that was still very limited.  
+**Translation:** Vocabulary: prototype: 早期模型; tunnel: 通道
 
-**[646.18s] English:** Wie hat Vibe Tunnel sich mit dem ersten Prototyp verbunden, bei dem deine Agents tatsächlich arbeiten konnten?  
+**[654.26s] English:** You know, I had one experiment with WhatsApp, then I had another experiment, and both didn't feel like the right answer.  
 **Translation:** 
 
-**[652.56s] English:** Nun, das war immer noch sehr begrenzt.  
-**Translation:** Vocabulary: arbeiten: 工作; begrenzt: 有限; prototyp: 原型; verbunden: 连接
-
-**[654.26s] English:** Du weißt schon, ich hatte dieses eine Experiment mit WhatsApp, dann hatte ich dieses Experiment und beide fühlten sich nicht wie die richtige Antwort an.  
+**[663.58s] English:** Then, my search bar has simply connected WhatsApp with cloud code.  
 **Translation:** 
 
-**[663.58s] English:** Und dann, meine Suchleiste hat einfach nur WhatsApp mit Cloud-Code verbunden.  
-**Translation:** Vocabulary: nicht: 不是; richtige: 正确; suchleiste: 搜索栏
-
-**[670.52s] English:** Einmal den CLI-Befehl, Nachricht kommt rein, ich rufe den CLI mit Binde Strich P auf.  
+**[670.52s] English:** Once I run the CLI command with a dash P, the message comes in.  
 **Translation:** 
 
-**[676.66s] English:** Es macht seine Magie, ich bekomme den String zurück und sende ihn an WhatsApp.  
+**[676.66s] English:** It makes its magic: I get the string back and send it to WhatsApp.  
 **Translation:** 
 
-**[681.32s] English:** Und das habe ich dann in einer Stunde gebaut.  
+**[681.32s] English:** And then I built that in an hour.  
 **Translation:** 
 
-**[684.26s] English:** Ich fühlte mich schon echt cool, so als könnte ich mit meinem Computer sprechen, oder?  
-**Translation:** Vocabulary: sprechen: 说话
-
-**[689.36s] English:** Das war cool, aber ich wollte Bilder, weil ich oft Bilder benutze, wenn ich einen Prompt erstelle.  
+**[684.26s] English:** I felt really cool, as if I could talk to my computer, or?  
 **Translation:** 
 
-**[696.28s] English:** Es ist eine so effiziente Methode, dem Agent mehr Kontext zu geben.  
-**Translation:** Vocabulary: bilder: 图片; effiziente: 高效的; erstelle: 创建
-
-**[700.14s] English:** Und er ist wirklich gut darin zu verstehen, was ich meine, selbst wenn es ein seltsamer, abgeschnittener Screenshot ist.  
+**[689.36s] English:** Das war cool, but I wanted images because I often use images when I create a prompt.  
 **Translation:** 
 
-**[706.06s] English:** Also ich habe es oft benutzt und wollte das auch in WhatsApp machen.  
-**Translation:** Vocabulary: abgeschnittener: 裁剪过的; darin: 在这方面; machen: 制作; seltsamer: 奇怪的; verstehen: 理解; wirklich: 真的
+**[696.28s] English:** It is such an efficient method to give the agent more context.  
+**Translation:** Vocabulary: prompt: 提示
 
-**[709.12s] English:** Und wenn du umherläufst, siehst du ein Plakat von einem Event, machst einen Screenshot.  
+**[700.14s] English:** And he is really good at understanding what I mean, even if it's a strange, cropped screenshot.  
 **Translation:** 
 
-**[714.26s] English:** Und dann schaust, ob du Zeit hast, ob es gut ist und ob deine Freunde vielleicht mitmachen.  
-**Translation:** Vocabulary: mitmachen: 参与; vielleicht: 也许
+**[706.06s] English:** Also, I have often used it and wanted to do the same on WhatsApp.  
+**Translation:** Vocabulary: cropped: 裁剪的
 
-**[719.48s] English:** Das war's für heute.  
+**[709.12s] English:** And when you wander around, you see a poster for an event; make a screenshot.  
 **Translation:** 
 
-**[719.94s] English:** Wir sehen uns beim nächsten Mal.  
+**[714.26s] English:** Then you check if you have time, if it's good, and if your friends might want to join in.  
+**Translation:** 
+
+**[719.48s] English:** That's it for today.  
+**Translation:** 
+
+**[719.94s] English:** We look forward to seeing you next time.  
+**Translation:** 
+
+**[720.00s] English:** Bilder seemed important to be. So I have spent a few hours on it, to really get it right. And then I have used it a lot. Interestingly, that was just before I traveled to Marrakesh for a birthday trip with my friends.  
 **Translation:** 
 
 **[720.02s] English:** Tschüss.  
+**Translation:** Vocabulary: bilder: 图片; marrakesh: 马拉喀什
+
+**[742.70s] English:** There it was even better because the Internet was a bit wobbly. But WhatsApp just works, you know. It doesn't matter. You have Edge. It still works. WhatsApp is simple; it's really well-made. So I've used it often.  
 **Translation:** 
 
-**[720.00s] English:** Bilder schienen wichtig zu sein. Also ich habe ein paar Stunden daran gearbeitet, um es wirklich richtig hinzubekommen. Und dann habe ich es viel benutzt. Lustigerweise war das kurz bevor ich mit meinen Freunden für einen Geburtstagsausflug nach Marrakesch gereist bin.  
-**Translation:** Vocabulary: freunden: 朋友; gearbeitet: 工作; geburtstagsausflug: 生日旅行; hinzubekommen: 做到; lustigerweise: 巧合; marrakesch: 马拉喀什; schienen: 似乎
+**[761.20s] English:** Translate that for me. Explain it. Find me places. Just have a switch that does that. Google for you uses it. So basically, nothing was built yet, but it could still function so well.  
+**Translation:** Vocabulary: wobbly: 不稳定
 
-**[742.70s] English:** Und dort war es sogar besser, weil das Internet etwas wackelig war. Aber WhatsApp funktioniert einfach, weißt du. Es spielt keine Rolle. Du hast Edge. Es funktioniert trotzdem. WhatsApp ist einfach, es ist einfach wirklich gut gemacht. Also habe ich es oft benutzt.  
+**[772.70s] English:** When we look at the entire process with the AI agent, you send a short WhatsApp message via the CLI. It is then sent to the cloud, where intensive processing takes place. Afterwards, a brief response comes back to you.  
 **Translation:** 
 
-**[761.20s] English:** Übersetze das für mich. Erkläre das. Finde mir Orte. Einfach einen Klenker haben, der das macht. Google für dich benutzt. Das war, also im Grunde war noch nichts gebaut, aber es konnte trotzdem so viel funktionieren.  
+**[793.30s] English:** Ja, it was slow because the CLI had to be restarted every time. But it was still pretty impressive. It could use all the tools I had used before.  
 **Translation:** 
 
-**[772.70s] English:** Wenn wir uns den gesamten Ablauf mit dem AI-Agent anschauen. Du schickst über die CLI eine kurze WhatsApp-Nachricht. Sie wird an die Cloud weitergegeben. Dort läuft die ganze rechenintensive Verarbeitung und anschließend kommt eine knappe Antwort zu dir zurück.  
+**[802.70s] English:** Over the months, there had been a whole collection of CLI tools amassed. This made the entire project feel incredibly powerful.  
 **Translation:** 
 
-**[793.30s] English:** Ja, es war langsam, weil jedes Mal die CLI neu starten musste. Aber es war trotzdem schon ziemlich beeindruckend. Es konnte all die Tools nutzen, die ich mir zuvor gebraucht habe.  
-**Translation:** Vocabulary: anschauen: 查看过程; beeindruckend: 印象深刻; gebraucht: 使用过的; gesamten: 整个的; knappe: 简短的; rechenintensive: 计算密集型; schickst: 发送; trotzdem: 仍然; verarbeitung: 处理; weitergegeben: 转发
+**[811.18s] English:** There is something magical about this experience, which is hard to put into words. The ability to use a chat client and speak with an AI agent, instead of sitting behind a computer and using a cursor or even cloud-code CLI in the terminal, is a different experience, as one can lean back and converse with it.  
+**Translation:** Vocabulary: amassed: 积累; converse: 交谈; cursor: 鼠标
 
-**[802.70s] English:** Und über die Monate war da eine ganze Sammlung an CLI-Tools entstanden. Dadurch fühlte sich das Ganze unglaublich mächtig an.  
+**[832.70s] English:** I mean, it seems like a trivial step, but in a way, it's a phase-  
 **Translation:** 
 
-**[811.18s] English:** Da ist etwas Magisches an dieser Erfahrung, das sich kaum in Worte fassen lässt. Die Möglichkeit, einen Chat-Client zu benutzen. Mit einem AI-Agent zu sprechen, statt hinter einem Computer zu sitzen und Cursor zu verwenden oder sogar Cloud-Code CLI im Terminal zu verwenden, ist eine andere Erfahrung, als sich zurückzulehnen und mit ihm zu sprechen.  
-**Translation:** Vocabulary: benutzen: 使用; entstanden: 出现; erfahrung: 体验; etwas: 一些; magisches: 魔幻的; sammlung: 集合; sprechen: 交谈; unglaublich: 非凡的; verwenden: 使用
+**[840.54s] English:** In the integration of artificial intelligence into your life,  
+**Translation:** Vocabulary: trivial: 微不足道的
 
-**[832.70s] English:** Ich meine, es scheint ein trivialer Schritt zu sein, aber in gewisser Weise ist es ein Phasen-  
+**[843.74s] English:** And how it feels, or?  
 **Translation:** 
 
-**[840.54s] English:** in der Integration von künstlicher Intelligenz in dein Leben  
-**Translation:** Vocabulary: gewisser: 某种程度; intelligenz: 智能; leben: 生活; trivialer: 琐碎
-
-**[843.74s] English:** und wie es sich anfühlt, oder?  
+**[845.32s] English:** Ja, I have read this tweet this morning,  
 **Translation:** 
 
-**[845.32s] English:** Ja, ich habe heute Morgen diesen Tweet gelesen,  
-**Translation:** Vocabulary: morgen: 明天
-
-**[848.38s] English:** wo jemand sagte, oh, da ist keine Magie drin.  
+**[848.38s] English:** Wo jemand sagte: "Oh, da ist keine Magie drin.  
 **Translation:** 
 
-**[851.74s] English:** Es macht einfach dies und das und das und das.  
+**[851.74s] English:** It simply does this and that and this and that.  
 **Translation:** 
 
-**[854.36s] English:** Und es fühlt sich fast wie ein Hobby an,  
+**[854.36s] English:** And it feels almost like a hobby.  
 **Translation:** 
 
-**[856.32s] English:** ähnlich wie Cursor oder Perplexity.  
+**[856.32s] English:** Similar to Cursor or Perplexity.  
 **Translation:** Vocabulary: perplexity: 困惑
 
-**[859.14s] English:** Und ich dachte, nun, wenn das ein Hobby ist,  
+**[859.14s] English:** And I thought, well, if that is a hobby,  
 **Translation:** 
 
-**[862.72s] English:** dann ist das irgendwie ein Kompliment, weißt du?  
-**Translation:** Vocabulary: irgendwie: somehow; kompliment: 赞扬
+**[862.72s] English:** Dann, ist das irgendwie ein Kompliment, weißt du?  
+**Translation:** Vocabulary: irgendwie: 勉强; kompliment: 赞美
 
-**[864.90s] English:** Sie meinen, die machen es nicht schlecht.  
+**[864.90s] English:** You mean they're doing pretty well.  
 **Translation:** 
 
 **[867.82s] English:** Äh, danke, würde ich sagen.  
+**Translation:** Vocabulary: danke: 谢谢
+
+**[870.00s] English:** Also, I mean, isn't magic often simply just that,  
 **Translation:** 
 
-**[870.00s] English:** Also, ich meine, ist Magie nicht oft einfach das,  
+**[874.98s] English:** Man takes many things that are already there.  
 **Translation:** 
 
-**[874.98s] English:** man nimmt viele Dinge, die schon da sind  
-**Translation:** Vocabulary: dinge: 东西; nicht: 不是
-
-**[876.70s] English:** und setzt sie auf neue Weise zusammen?  
+**[876.70s] English:** Does she put it together in a new way?  
 **Translation:** 
 
-**[879.88s] English:** Ich, also es gibt da kein, ja,  
-**Translation:** Vocabulary: zusammen: 一起
-
-**[884.02s] English:** vielleicht gibt es dort keine Magie.  
+**[879.88s] English:** Ich, also, there is no problem, ja.  
 **Translation:** 
 
-**[885.40s] English:** Aber manchmal reicht es, Dinge neu zu ordnen  
-**Translation:** Vocabulary: manchmal: 有时候; vielleicht: 也许
-
-**[887.46s] English:** und ein paar neue Ideen hinzuzufügen.  
+**[884.02s] English:** Möglicherweise gibt es dort keine Magie.  
 **Translation:** 
 
-**[889.56s] English:** Das ist die Magie, die du brauchst.  
-**Translation:** Vocabulary: brauchst: 你需要
-
-**[891.28s] English:** Es ist wirklich schwer, in Worte zu fassen,  
+**[885.40s] English:** Aber sometimes it's enough to reorder things.  
 **Translation:** 
 
-**[894.36s] English:** was an einer Sache magisch ist.  
-**Translation:** Vocabulary: wirklich: 确实
-
-**[896.36s] English:** Wenn du dir das Scrollen auf einem iPhone anschaust,  
+**[887.46s] English:** And adding a few new ideas.  
 **Translation:** 
 
-**[899.02s] English:** warum ist das so angenehm?  
-**Translation:** Vocabulary: angenehm: 令人愉快; anschaust: 观看; scrollen: 滚动
-
-**[901.46s] English:** Es gibt viele Elemente an dieser Benutzeroberfläche,  
+**[889.56s] English:** This is the magic you need.  
 **Translation:** 
 
-**[903.80s] English:** die sie unglaublich angenehm machen,  
-**Translation:** Vocabulary: elemente: 元素; machen: 使
-
-**[905.58s] English:** was grundlegend für die Erfahrung der Nutzung eines Smartphones ist.  
+**[891.28s] English:** It is really hard to put into words,  
 **Translation:** 
 
-**[909.04s] English:** Alle Komponenten waren da.  
-**Translation:** Vocabulary: grundlegend: 基础; komponenten: 组件
-
-**[910.58s] English:** Das Scrollen war da.  
+**[894.36s] English:** There is something magical about it.  
 **Translation:** 
 
-**[912.06s] English:** Alles war da.  
+**[896.36s] English:** When you scroll on an iPhone,  
 **Translation:** 
 
-**[913.10s] English:** Und niemand hat es gemacht.  
+**[899.02s] English:** Why is that so pleasant?  
+**Translation:** Vocabulary: scroll: 滑动屏幕
+
+**[901.46s] English:** There are many elements in this user interface,  
 **Translation:** 
 
-**[915.14s] English:** Und hinterher wirkte es plötzlich so offensichtlich.  
-**Translation:** Vocabulary: hinterher: 其后; offensichtlich: 显而易见
+**[903.80s] English:** Die sie unglaublich angenehm machen,  
+**Translation:** Vocabulary: angenehm: 舒适; interface: 界面; machen: 使; unglaublich: 极其
 
-**[917.92s] English:** Ja, total offensichtlich.  
+**[905.58s] English:** It was fundamental for the experience of using a smartphone.  
+**Translation:** 
+
+**[909.04s] English:** All components were there.  
+**Translation:** 
+
+**[910.58s] English:** The scrolling was there.  
+**Translation:** 
+
+**[912.06s] English:** Alles was da war.  
+**Translation:** Vocabulary: scrolling: 滚动
+
+**[913.10s] English:** No one has done it.  
+**Translation:** 
+
+**[915.14s] English:** And then it suddenly seemed so obvious.  
+**Translation:** 
+
+**[917.92s] English:** Ja, totally obvious.  
 **Translation:** 
 
 **[918.78s] English:** Oder?  
 **Translation:** 
 
-**[920.18s] English:** Aber trotzdem, der Moment, der mich wirklich umgehauen hat,  
+**[920.18s] English:** Aber trotzdem, the moment that really hit me was,  
 **Translation:** 
 
-**[923.64s] English:** war, als ich es viel benutzt hatte  
-**Translation:** Vocabulary: trotzdem: 尽管如此; umgehauen: 震撼
+**[923.64s] English:** War, as I had used it a lot.  
+**Translation:** Vocabulary: trotzdem: 尽管如此
 
-**[925.68s] English:** und ihm irgendwann einfach eine Nachricht geschickt habe.  
+**[925.68s] English:** And I simply sent him a message at some point.  
 **Translation:** 
 
-**[929.02s] English:** Und plötzlich erschien eine Tipp-Anzeige.  
-**Translation:** Vocabulary: erschien: 突然出现; geschickt: 发送; irgendwann: 某时; nachricht: 消息
-
-**[932.48s] English:** Ich dachte, Moment mal, das habe ich doch gar nicht eingebaut.  
+**[929.02s] English:** Suddenly, a tip notification appeared.  
 **Translation:** 
 
-**[936.24s] English:** Es unterstützt doch nur Bilder.  
-**Translation:** Vocabulary: bilder: 图片; eingebaut: 安装
-
-**[937.92s] English:** Was macht es da überhaupt?  
+**[932.48s] English:** I thought, wait a moment, I didn't implement that at all.  
 **Translation:** 
 
-**[939.56s] English:** Und dann hat es einfach geantwortet.  
-**Translation:** Vocabulary: geantwortet: 回答
+**[936.24s] English:** It supports only pictures, though.  
+**Translation:** Vocabulary: implement: 执行
 
-**[942.02s] English:** Was hast du geschickt?  
+**[937.92s] English:** What makes it there at all?  
+**Translation:** 
+
+**[939.56s] English:** Then it simply responded.  
+**Translation:** 
+
+**[942.02s] English:** What have you sent?  
 **Translation:** 
 
 **[943.32s] English:** Ach, nur irgendeine Frage.  
 **Translation:** Vocabulary: irgendeine: 随便的
 
-**[944.80s] English:** Hey, was ist mit diesem und jenem Restaurant?  
+**[944.80s] English:** Hey, what's up with that restaurant?  
 **Translation:** 
 
-**[946.56s] English:** Du weißt schon.  
+**[946.56s] English:** You know already.  
 **Translation:** 
 
-**[948.70s] English:** Wir waren einfach in der Stadt unterwegs  
+**[948.70s] English:** We were just walking around in the city.  
 **Translation:** 
 
-**[950.38s] English:** und haben alles erkundet.  
-**Translation:** Vocabulary: erkundet: 游览; stadt: 城市; unterwegs: 途中
-
-**[952.74s] English:** Deshalb habe ich beim Benutzen gar nicht groß nachgedacht.  
+**[950.38s] English:** And they have explored everything.  
 **Translation:** 
 
-**[955.54s] English:** Wenn man in Eile ist, ist Tippen einfach lästig.  
-**Translation:** Vocabulary: benutzen: 使用; nachgedacht: 思考
-
-**[958.50s] English:** Oh, du hast es gesagt.  
+**[952.74s] English:** Therefore, I hardly gave it much thought while using it.  
 **Translation:** 
 
-**[959.00s] English:** Du hast eine Audionachricht.  
-**Translation:** Vocabulary: audionachricht: 语音消息
-
-**[960.00s] English:** gemacht? Ja, und es hat einfach  
+**[955.54s] English:** When you're in a hurry, typing is simply annoying.  
 **Translation:** 
 
-**[961.96s] English:** funktioniert und ich war so...  
-**Translation:** Vocabulary: funktioniert: 运转正常
-
-**[963.92s] English:** Es sollte eigentlich gar nicht funktionieren,  
+**[958.50s] English:** Oh, you said it.  
 **Translation:** 
 
-**[965.96s] English:** weil du ihm diese Fähigkeit nicht gegeben hast.  
-**Translation:** Vocabulary: eigentlich: 实际上; funktionieren: 起作用
+**[959.00s] English:** You have a voicemail.  
+**Translation:** Vocabulary: voicemail: 语音留言
 
-**[967.96s] English:** Nein, ich hab wortwörtlich geschrieben, wie zum Teufel  
+**[960.00s] English:** Gemacht? Ja, und es hat einfach.  
 **Translation:** 
 
-**[970.04s] English:** machst du das? Und er war so,  
-**Translation:** Vocabulary: geschrieben: 书写; teufel: 魔鬼
+**[961.96s] English:** Funktioniert, and I was so...  
+**Translation:** Vocabulary: einfach: 简单; funktioniert: 起作用; gemacht: 做成了
 
-**[972.82s] English:** ja, der verrückte Typ hat folgendes  
+**[963.92s] English:** It should actually not work at all,  
 **Translation:** 
 
-**[974.10s] English:** gemacht. Er hat mir eine Nachricht  
-**Translation:** Vocabulary: folgendes: 接下来的内容
-
-**[975.90s] English:** geschickt, aber es war nur eine  
+**[965.96s] English:** Because you did not give him this ability.  
 **Translation:** 
 
-**[977.98s] English:** Datei ohne Dateiendung. Also  
-**Translation:** Vocabulary: dateiendung: 文件扩展名
-
-**[979.94s] English:** hab ich mir den Header der Datei angeschaut  
+**[967.96s] English:** No, I wrote it word-for-word, damn it.  
 **Translation:** 
 
-**[982.12s] English:** und festgestellt, dass es Opus war.  
-**Translation:** Vocabulary: angeschaut: 查看; festgestellt: 确定
-
-**[984.18s] English:** Dann hab ich FFmpeg benutzt, um es zu konvertieren.  
+**[970.04s] English:** Do you do that? And he was like,  
 **Translation:** 
 
-**[986.88s] English:** Dann wollte ich Whisper benutzen,  
-**Translation:** Vocabulary: konvertieren: 转换格式
-
-**[988.58s] English:** aber es war nicht installiert.  
+**[972.82s] English:** Ja, the crazy guy said the following:  
 **Translation:** 
 
-**[990.48s] English:** Doch dann fand ich den OpenAI-Schlüssel  
-**Translation:** Vocabulary: installiert: 已安装
+**[974.10s] English:** Gemacht. Er hat mir eine Nachricht.  
+**Translation:** Vocabulary: nachricht: 信息
 
-**[992.48s] English:** und habe einfach Curl benutzt,  
+**[975.90s] English:** Skilled, but it was only one.  
 **Translation:** 
 
-**[994.84s] English:** um die Datei an OpenAI zu senden,  
+**[977.98s] English:** File without an extension. Also,  
+**Translation:** Vocabulary: skilled: 技艺高超的
+
+**[979.94s] English:** I have checked the header of the file.  
 **Translation:** 
 
-**[996.96s] English:** um sie zu übersetzen.  
+**[982.12s] English:** It was determined that it was Opus.  
 **Translation:** 
 
-**[998.60s] English:** Und hier bin ich.  
+**[984.18s] English:** Then I used FFmpeg to convert it.  
 **Translation:** 
 
-**[999.98s] English:** Ich hab die Nachricht angeschaut und gedacht,  
+**[986.88s] English:** Then I wanted to use Whisper.  
+**Translation:** Vocabulary: convert: 转换; whisper: 耳语
+
+**[988.58s] English:** But it was not installed.  
 **Translation:** 
 
-**[1002.14s] English:** oh wow. Er hat es einfach selbst  
+**[990.48s] English:** Doch then, I found the OpenAI key.  
 **Translation:** 
 
-**[1004.06s] English:** herausgefunden, all diese Umwandlungen. Ja, genau.  
+**[992.48s] English:** And I just used Curl.  
 **Translation:** 
 
-**[1006.18s] English:** Er hat die passende API erkannt,  
-**Translation:** Vocabulary: herausgefunden: 发现; passende: 合适的; umwandlungen: 转换
-
-**[1008.04s] English:** gewusst, welches Programm er verwenden muss,  
+**[994.84s] English:** Um die Datei an OpenAI zu senden,  
 **Translation:** 
 
-**[1010.10s] English:** all diese Dinge. Und du hast Gedanken verloren,  
-**Translation:** Vocabulary: dinge: 事情; gedanken: 想法; programm: 程序; verloren: 丢失; verwenden: 使用; welches: 哪一
-
-**[1012.24s] English:** einfach eine Sprachnachricht geschickt  
+**[996.96s] English:** To translate them.  
 **Translation:** 
 
-**[1013.84s] English:** und sie kam verarbeitet zurück.  
-**Translation:** Vocabulary: sprachnachricht: 语音消息; verarbeitet: 处理
-
-**[1016.26s] English:** Er war sogar so clever, dass er nicht  
+**[998.60s] English:** Here I am.  
 **Translation:** 
 
-**[1018.18s] English:** den lokalen Whisper-Weg genommen hat.  
-**Translation:** Vocabulary: genommen: 采取; nicht: 没有
-
-**[1019.62s] English:** Dafür hätte er erst ein Modell herunterladen müssen.  
+**[999.98s] English:** I looked at the message and thought,  
 **Translation:** 
 
-**[1022.40s] English:** Das wäre viel zu langsam gewesen.  
-**Translation:** Vocabulary: herunterladen: 下载
-
-**[1023.92s] English:** Da steckt enorm viel Weltwissen drin,  
+**[1002.14s] English:** Oh, wow. He just did it himself.  
 **Translation:** 
 
-**[1025.42s] English:** viel kreatives Problemlösen.  
-**Translation:** Vocabulary: kreatives: 创造性; weltwissen: 世界知识
-
-**[1027.08s] English:** Ich glaube, vieles davon kommt aus genau dieser Denkweise.  
+**[1004.06s] English:** Herausgefunden, all diese Umwandlungen. Ja, genau.  
 **Translation:** 
 
-**[1029.82s] English:** Wenn du richtig gut im Coden wirst,  
-**Translation:** Vocabulary: davon: 这些例子; denkweise: 思维方式
+**[1006.18s] English:** He has recognized the correct API.  
+**Translation:** Vocabulary: herausgefunden: 发现; umwandlungen: 转换
 
-**[1031.70s] English:** trainierst du automatisch dein allgemeines Problemlösen.  
+**[1008.04s] English:** Do you know which program he must use?  
 **Translation:** 
 
-**[1034.16s] English:** Das ist eine echte Fähigkeit.  
-**Translation:** Vocabulary: allgemeines: 一般的; automatisch: 自动; trainierst: 训练
-
-**[1035.46s] English:** Und die wirkt sich auch in ganz anderen Bereichen aus.  
+**[1010.10s] English:** All these things. And you've lost your thoughts.  
 **Translation:** 
 
-**[1038.76s] English:** Es gab das Problem.  
-**Translation:** Vocabulary: bereichen: 领域
-
-**[1040.82s] English:** Was ist das für eine Datei?  
+**[1012.24s] English:** Simply send a voice message.  
 **Translation:** 
 
-**[1042.74s] English:** Es gibt keine Dateiendung.  
+**[1013.84s] English:** And she came processed back.  
+**Translation:** Vocabulary: processed: 回复
+
+**[1016.26s] English:** He was even so clever that he didn't  
 **Translation:** 
 
-**[1044.66s] English:** Lass uns das herausfinden.  
+**[1018.18s] English:** Taking the local Whisper Way.  
 **Translation:** 
 
-**[1047.04s] English:** Da hat es bei mir Klick gemacht.  
-**Translation:** Vocabulary: herausfinden: 弄清楚; klick: 茅塞顿开
-
-**[1048.92s] English:** Ich war sehr glücklich, dass ich das gemacht habe.  
+**[1019.62s] English:** For that, he would have had to download a model first.  
 **Translation:** 
 
-**[1049.16s] English:** Ich war sehr glücklich, dass ich das gemacht habe.  
+**[1022.40s] English:** This would have been much too slow.  
 **Translation:** 
 
-**[1049.40s] English:** Ich war sehr glücklich, dass ich das gemacht habe.  
+**[1023.92s] English:** There's enormous amounts of world knowledge in there,  
 **Translation:** 
 
-**[1049.60s] English:** Ich war sehr beeindruckt.  
-**Translation:** Vocabulary: beeindruckt: 印象深刻
+**[1025.42s] English:** Viel kreatives Problemlösen.  
+**Translation:** Vocabulary: kreatives: 创造性的
 
-**[1051.38s] English:** Jemand hat eine Pull-Anfrage  
+**[1027.08s] English:** I believe much of it comes from exactly this way of thinking.  
 **Translation:** 
 
-**[1052.88s] English:** für Discord-Unterstützung geschickt.  
-**Translation:** Vocabulary: geschickt: 提交
-
-**[1056.34s] English:** Ich dachte,  
+**[1029.82s] English:** When you get really good at coding,  
 **Translation:** 
 
-**[1057.76s] English:** das ist ein WhatsApp-Relay.  
+**[1031.70s] English:** Trainerst du automatisch dein allgemeines Problemlösen?  
 **Translation:** 
 
-**[1058.94s] English:** Das passt überhaupt nicht.  
+**[1034.16s] English:** This is a real skill.  
+**Translation:** Vocabulary: allgemeines: 通用的; automatisch: 自动地; trainerst: 训练
+
+**[1035.46s] English:** And it affects other areas as well.  
 **Translation:** 
 
-**[1060.76s] English:** Damals hieß es WA-Relay.  
+**[1038.76s] English:** There was the problem.  
+**Translation:** 
+
+**[1040.82s] English:** What is this file?  
+**Translation:** 
+
+**[1042.74s] English:** There is no file extension.  
+**Translation:** 
+
+**[1044.66s] English:** Let's find out.  
+**Translation:** 
+
+**[1047.04s] English:** It clicked for me.  
+**Translation:** 
+
+**[1048.92s] English:** I was very happy that I did that.  
+**Translation:** 
+
+**[1049.16s] English:** I was very happy that I did that.  
+**Translation:** 
+
+**[1049.40s] English:** I was very happy that I did that.  
+**Translation:** 
+
+**[1049.60s] English:** I was very impressed.  
+**Translation:** 
+
+**[1051.38s] English:** Someone has submitted a pull request.  
+**Translation:** 
+
+**[1052.88s] English:** For Discord support sent.  
+**Translation:** 
+
+**[1056.34s] English:** I thought,  
+**Translation:** 
+
+**[1057.76s] English:** This is a WhatsApp Relay.  
+**Translation:** 
+
+**[1058.94s] English:** This doesn't fit at all.  
+**Translation:** 
+
+**[1060.76s] English:** Damals it was called WA-Relay.  
 **Translation:** 
 
 **[1062.80s] English:** Ja.  
 **Translation:** 
 
-**[1063.84s] English:** Also habe ich mit mir selbst debattiert.  
-**Translation:** Vocabulary: debattiert: 争论
-
-**[1066.92s] English:** Will ich das?  
+**[1063.84s] English:** I also debated with myself.  
 **Translation:** 
 
-**[1068.42s] English:** Will ich das nicht?  
+**[1066.92s] English:** Will I do that?  
 **Translation:** 
 
-**[1070.80s] English:** Dann habe ich gedacht,  
+**[1068.42s] English:** Will I not do that?  
 **Translation:** 
 
-**[1073.00s] English:** vielleicht mache ich das ja,  
+**[1070.80s] English:** Then I thought,  
+**Translation:** 
+
+**[1073.00s] English:** Vielleicht mache ich das ja.  
 **Translation:** Vocabulary: mache: 做; vielleicht: 也许
 
-**[1074.28s] English:** weil das könnte eine coole Art sein,  
+**[1074.28s] English:** Weil das könnte eine coole Art sein,  
 **Translation:** 
 
-**[1077.72s] English:** Leuten etwas zu zeigen.  
-**Translation:** Vocabulary: etwas: 一些东西
-
-**[1078.54s] English:** Bisher habe ich es in WhatsApp  
+**[1077.72s] English:** To show something to Leut.  
 **Translation:** 
 
-**[1080.22s] English:** nicht gemacht.  
+**[1078.54s] English:** Bisher habe ich es auf WhatsApp  
 **Translation:** 
 
-**[1080.62s] English:** Ich habe mal gesagt,  
+**[1080.00s] English:** As groups, you know, but  
 **Translation:** 
 
-**[1081.14s] English:** ich habe es in WhatsApp gemacht.  
+**[1080.22s] English:** Not done.  
 **Translation:** 
 
-**[1081.58s] English:** Ich habe nur einen WhatsApp-Conversation.  
+**[1080.62s] English:** I have said that,  
 **Translation:** 
 
-**[1081.86s] English:** Ich habe es aus dem apps im WhatsApp.  
+**[1081.14s] English:** I have done it on WhatsApp.  
 **Translation:** 
 
-**[1082.40s] English:** Ich habe das in WhatsApp Nation,  
+**[1081.20s] English:** I really want to.  
 **Translation:** 
 
-**[1082.96s] English:** ob ich das jetzt überhaupt nicht kann,  
+**[1081.58s] English:** I have only one WhatsApp conversation.  
 **Translation:** 
 
-**[1083.56s] English:** einfach nicht,  
+**[1081.86s] English:** I have it from the apps in WhatsApp.  
 **Translation:** 
 
-**[1084.06s] English:** dass ich das besuche.  
+**[1082.40s] English:** I have that in WhatsApp Nation,  
 **Translation:** 
 
-**[1084.62s] English:** Ist das nicht der Fall.  
+**[1082.96s] English:** I simply cannot do that at all.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[1083.56s] English:** Simply not.  
 **Translation:** 
 
-**[1085.12s] English:** Ich habe es dann noch mal  
+**[1084.06s] English:** That I will visit.  
 **Translation:** 
 
-**[1085.68s] English:** alsตSheet vorge Eggs vorgelegt.  
+**[1084.08s] English:** Not every internet stranger  
+**Translation:** 
+
+**[1084.62s] English:** Is this not the case?  
+**Translation:** 
+
+**[1085.12s] English:** I then did it again.  
+**Translation:** 
+
+**[1085.68s] English:** Als sheet with eggs was presented.  
+**Translation:** 
+
+**[1086.06s] English:** Meine Telefonnummer geben.  
 **Translation:** 
 
 **[1086.32s] English:** Das hat nichts damit zu tun.  
-**Translation:** Vocabulary: vorgelegt: 提出
+**Translation:** Vocabulary: telefonnummer: 电话号码
 
-**[1087.12s] English:** Also, wenn Huhns das nicht mehr braucht.  
+**[1087.12s] English:** Also, if Huhn no longer needs it.  
 **Translation:** 
 
-**[1087.60s] English:** Und dann,  
+**[1087.60s] English:** Then,  
 **Translation:** 
 
-**[1087.98s] English:** in dem WhatsApp-Conference,  
+**[1087.98s] English:** In the WhatsApp conference,  
 **Translation:** 
 
-**[1089.92s] English:** weil das nicht mehr der Fall ist,  
+**[1088.20s] English:** The journalist manages to do this despite everything.  
 **Translation:** 
 
-**[1090.22s] English:** jetzt habe ich gesagt,  
+**[1089.92s] English:** Weil das nicht mehr der Fall ist,  
 **Translation:** 
 
-**[1091.02s] English:** das ist ein WhatsApp-Conversation.  
+**[1090.08s] English:** Somehow, that's another story.  
+**Translation:** Vocabulary: nicht: 不是
+
+**[1090.22s] English:** Jetzt habe ich gesagt,  
 **Translation:** 
 
-**[1091.88s] English:** Und meine Name ist  
+**[1091.02s] English:** This is a WhatsApp conversation.  
 **Translation:** 
 
-**[1092.64s] English:** Hatscham und ich bin von всем gegenüber.  
+**[1091.88s] English:** And my name is  
 **Translation:** 
 
-**[1093.74s] English:** Also, dass ich es  
+**[1092.64s] English:** Hatscham and I are from everywhere.  
 **Translation:** 
 
-**[1094.28s] English:** auch über das WhatsApp-Conversation  
+**[1093.74s] English:** Also, that I did it.  
 **Translation:** 
 
-**[1094.86s] English:** unsere Vorbereitung  
+**[1094.28s] English:** Also, about the WhatsApp conversation.  
 **Translation:** 
 
-**[1080.00s] English:** als Gruppen gemacht, weißt du, aber  
-**Translation:** Vocabulary: vorbereitung: 准备
-
-**[1081.20s] English:** ich möchte wirklich  
+**[1094.86s] English:** Our preparation  
 **Translation:** 
 
-**[1084.08s] English:** nicht jedem Internetfremden  
-**Translation:** Vocabulary: internetfremden: 网络陌生人; wirklich: 真的
-
-**[1086.06s] English:** meine Telefonnummer geben.  
+**[1095.50s] English:** I have  
 **Translation:** 
 
-**[1088.20s] English:** Journalisten schaffen das jetzt trotzdem  
-**Translation:** Vocabulary: journalisten: 记者; schaffen: 做到; telefonnummer: 电话号码; trotzdem: 仍然
-
-**[1090.08s] English:** irgendwie, das ist eine andere Geschichte.  
+**[1096.14s] English:** Das zusammengeführt.  
 **Translation:** 
 
-**[1095.50s] English:** Ich habe  
-**Translation:** Vocabulary: geschichte: 故事; irgendwie: 不知怎的
-
-**[1096.14s] English:** das zusammengeführt  
+**[1097.20s] English:** With Shadow, who accompanied me during that  
 **Translation:** 
 
-**[1097.20s] English:** mit Shadow, der mir bei dem  
+**[1100.08s] English:** The entire project has been very helpful, so  
 **Translation:** 
 
-**[1100.08s] English:** ganzen Projekt sehr geholfen hat, also  
+**[1101.84s] English:** Thank him.  
 **Translation:** 
 
-**[1101.84s] English:** danke an ihn.  
-**Translation:** Vocabulary: danke: 感谢; geholfen: 帮助
-
-**[1103.90s] English:** Und ich habe meinen Bot dort  
+**[1103.90s] English:** And I have my bot there.  
 **Translation:** 
 
-**[1105.98s] English:** integriert. Auf Discord?  
+**[1105.98s] English:** Integriert. Auf Discord?  
 **Translation:** Vocabulary: integriert: 集成
 
-**[1108.20s] English:** Ja, Sicherheit gab es keine.  
+**[1108.20s] English:** Ja, there was no security.  
 **Translation:** 
 
-**[1109.36s] English:** Ich hatte noch keine Sendbox gebaut.  
-**Translation:** Vocabulary: sicherheit: 安全性
+**[1109.36s] English:** I had never built a sandbox yet.  
+**Translation:** Vocabulary: sandbox: 沙箱环境
 
-**[1111.86s] English:** Ich habe ihn einfach  
+**[1111.86s] English:** I have him simply  
 **Translation:** 
 
-**[1113.24s] English:** per Prompt angewiesen, nur  
-**Translation:** Vocabulary: angewiesen: 指示
+**[1113.24s] English:** Per prompt, instructed, only  
+**Translation:** Vocabulary: instructed: 受指示; prompt: 提示
 
-**[1115.28s] English:** auf mich zu hören.  
+**[1115.28s] English:** To listen to me.  
 **Translation:** 
 
-**[1118.16s] English:** Und dann kamen  
+**[1118.16s] English:** Then came  
 **Translation:** 
 
-**[1119.22s] English:** irgendwelche Leute und haben versucht, es zu hacken.  
+**[1119.22s] English:** Some people have tried to hack it.  
 **Translation:** 
 
-**[1122.26s] English:** Ich habe einfach zugeschaut  
-**Translation:** Vocabulary: irgendwelche: 任何; versucht: 尝试; zugeschaut: 观看
-
-**[1123.16s] English:** und weiter  
+**[1122.26s] English:** I simply watched.  
 **Translation:** 
 
-**[1125.16s] English:** offen daran gearbeitet.  
-**Translation:** Vocabulary: gearbeitet: 继续工作
-
-**[1127.86s] English:** Ich habe meinen Agent  
+**[1123.16s] English:** And, and further  
 **Translation:** 
 
-**[1129.22s] English:** benutzt, um die Harness für den Agent  
+**[1125.16s] English:** Often worked on it.  
 **Translation:** 
 
-**[1131.32s] English:** zu bauen und  
+**[1127.86s] English:** I have my agent.  
 **Translation:** 
 
-**[1133.16s] English:** verschiedene Dinge zu testen.  
-**Translation:** Vocabulary: dinge: 东西; verschiedene: 不同的
+**[1129.22s] English:** Used to attach the harness for the agent.  
+**Translation:** Vocabulary: harness: 安全带
 
-**[1137.08s] English:** Da hat es  
+**[1131.32s] English:** To build and  
 **Translation:** 
 
-**[1137.92s] English:** bei vielen ziemlich schnell  
-**Translation:** Vocabulary: schnell: 迅速; ziemlich: 相当
-
-**[1139.14s] English:** geklickt.  
+**[1133.16s] English:** To test various things.  
 **Translation:** 
 
-**[1139.36s] English:** Man muss es fast  
-**Translation:** Vocabulary: geklickt: 点击完成
-
-**[1141.40s] English:** selbst erlebt haben.  
+**[1137.08s] English:** It has  
 **Translation:** 
 
-**[1143.46s] English:** Seit dem 1. Januar  
+**[1137.92s] English:** At many, quite quickly.  
 **Translation:** 
 
-**[1144.88s] English:** habe ich meinen ersten  
+**[1139.14s] English:** Clicked.  
 **Translation:** 
 
-**[1146.64s] English:** echten Influencer als Fan  
-**Translation:** Vocabulary: influencer: 意见领袖
-
-**[1149.48s] English:** gewonnen und Videos  
+**[1139.36s] English:** Man must almost do it.  
 **Translation:** 
 
-**[1151.52s] English:** gemacht.  
-**Translation:** Vocabulary: gewonnen: 赢得
+**[1141.40s] English:** Have experienced it themselves.  
+**Translation:** 
 
-**[1153.32s] English:** The Kidzer.  
+**[1143.46s] English:** Since January 1st,  
+**Translation:** 
+
+**[1144.88s] English:** Habe ich meinen ersten?  
+**Translation:** 
+
+**[1146.64s] English:** Echten Influencer als fan  
+**Translation:** Vocabulary: influencer: 有影响力的博主
+
+**[1149.48s] English:** Gewonnen und videos  
+**Translation:** 
+
+**[1151.52s] English:** Gemacht.  
+**Translation:** Vocabulary: gemacht: 制作; gewonnen: 赢得
+
+**[1153.32s] English:** The Kidz'er.  
 **Translation:** 
 
 **[1155.12s] English:** Danke.  
+**Translation:** Vocabulary: danke: 感谢
+
+**[1158.02s] English:** From there on, I have  
 **Translation:** 
 
-**[1158.02s] English:** Von da an habe ich  
+**[1159.18s] English:** Seen how it has taken on more speed.  
 **Translation:** 
 
-**[1159.18s] English:** gesehen, wie es immer mehr Fahrt aufgenommen hat.  
-**Translation:** Vocabulary: aufgenommen: 增加
-
-**[1161.22s] English:** Gleichzeitig ist mein Schlaf immer kürzer  
+**[1161.22s] English:** Gleichzeitig ist mein Schlaf immer kurzere.  
 **Translation:** 
 
-**[1163.36s] English:** geworden, weil ich gespürt habe,  
-**Translation:** Vocabulary: geworden: 变得; gleichzeitig: 同时
+**[1163.36s] English:** Became, because I have sensed,  
+**Translation:** Vocabulary: gleichzeitig: 同时; kurzere: 更短的; sensed: 感知
 
-**[1165.38s] English:** dass da etwas Großes  
+**[1165.38s] English:** That there is something large,  
 **Translation:** 
 
-**[1167.10s] English:** aufzieht.  
-**Translation:** Vocabulary: aufzieht: 兴起
+**[1167.10s] English:** Aufzieht.  
+**Translation:** Vocabulary: aufzieht: 升起
 
-**[1168.48s] English:** Also habe ich  
+**[1168.48s] English:** Also, I have  
 **Translation:** 
 
-**[1169.30s] English:** einfach durchgezogen, um es  
-**Translation:** Vocabulary: durchgezogen: 坚持
-
-**[1171.32s] English:** in einen Zustand zu bringen, der  
+**[1169.30s] English:** Simply drawn through, to make it  
 **Translation:** 
 
-**[1173.26s] English:** zumindest  
-**Translation:** Vocabulary: zumindest: 至少
-
-**[1173.90s] English:** einigermaßen gut war.  
+**[1171.32s] English:** To bring it into a state that  
 **Translation:** 
 
-**[1177.72s] English:** Es gibt ein paar Komponenten  
-**Translation:** Vocabulary: komponenten: 组件
-
-**[1179.38s] English:** und wir werden darüber sprechen, wie alles funktioniert.  
+**[1173.26s] English:** At least  
 **Translation:** 
 
-**[1182.32s] English:** Im Grunde kannst du über  
-**Translation:** Vocabulary: funktioniert: 运作; sprechen: 谈论
-
-**[1183.28s] English:** WhatsApp, Telegram oder Discord damit  
+**[1173.90s] English:** It was somewhat good.  
 **Translation:** 
 
-**[1185.22s] English:** kommunizieren. Das ist ein Teil, den du richtig  
-**Translation:** Vocabulary: kommunizieren: 沟通
-
-**[1187.34s] English:** hinbekommen musst. Dann musst du den  
+**[1177.72s] English:** There are a few components.  
 **Translation:** 
 
-**[1189.22s] English:** agentischen Zyklus verstehen, das Gateway haben,  
-**Translation:** Vocabulary: agentischen: 代理周期; hinbekommen: 得到; verstehen: 理解
-
-**[1191.88s] English:** das Harness nutzen und all  
+**[1179.38s] English:** And we will discuss how everything works.  
 **Translation:** 
 
-**[1193.36s] English:** diese Komponenten, die alles reibungslos  
-**Translation:** Vocabulary: reibungslos: 顺畅无阻
+**[1182.32s] English:** In essence, you can overwrite it.  
+**Translation:** Vocabulary: overwrite: 覆盖原内容
 
-**[1195.32s] English:** funktionieren lassen.  
+**[1183.28s] English:** WhatsApp, Telegram, or Discord, with that.  
 **Translation:** 
 
-**[1197.34s] English:** Es fühlte sich an wie Factorio mal  
-**Translation:** Vocabulary: factorio: 游戏安顿; funktionieren: 运行
-
-**[1199.18s] English:** unendlich.  
+**[1185.22s] English:** Communicate. That is a part you should do right.  
 **Translation:** 
 
-**[1200.00s] English:** Richtig. Ich habe meinen kleinen Spielplatz gebaut.  
-**Translation:** Vocabulary: spielplatz: 游乐场; unendlich: 无穷的
-
-**[1202.70s] English:** Ich habe nie so viel Spaß gehabt wie bei diesem Projekt.  
+**[1187.34s] English:** Herebkommen musst. Dann musst du den  
 **Translation:** 
 
-**[1205.18s] English:** Du weißt schon, man hat so, oh, ich gehe zu, Level 1, agentische Schleife.  
-**Translation:** Vocabulary: agentische: 代理循环; schleife: 循环
+**[1189.22s] English:** To understand the agentigenic cycle, the gateway has,  
+**Translation:** Vocabulary: gateway: 入口
 
-**[1211.04s] English:** Was kann ich dort tun? Wie kann ich klug Nachrichten in die Warteschlange stellen?  
+**[1191.88s] English:** DasHarnessnutzenundall  
 **Translation:** 
 
-**[1214.88s] English:** Wie kann ich es menschlicher machen?  
-**Translation:** Vocabulary: machen: 使; menschlicher: 更人性化; nachrichten: 消息; warteschlange: 等待队列
-
-**[1217.08s] English:** Dann kam mir die Idee, in der Schleife antwortet der AI-Agent ja immer irgendetwas.  
+**[1193.36s] English:** These components make everything run smoothly.  
 **Translation:** 
 
-**[1222.14s] English:** Aber in einem Gruppenchat willst du nicht, dass er ständig reagiert.  
+**[1195.32s] English:** Let them function.  
 **Translation:** 
 
-**[1225.56s] English:** Also habe ich ihm ein Nicht-Antwort-Token gegeben.  
+**[1197.34s] English:** It felt like playing Factorio again.  
+**Translation:** Vocabulary: factorio: 方块工厂
+
+**[1199.18s] English:** Unendlich.  
 **Translation:** 
 
-**[1227.52s] English:** Er hat damit die Möglichkeit bekommen, einfach nichts zu sagen, damit es sich natürlicher anfühlt.  
-**Translation:** Vocabulary: bekommen: 获得; nichts: nothing
+**[1200.00s] English:** Richtig. I have built my little playground.  
+**Translation:** Vocabulary: richtig: 正确; unendlich: 无穷
 
-**[1232.90s] English:** Das ist Stufe 2.  
+**[1202.70s] English:** I have never had so much fun on a project like this one.  
+**Translation:** 
+
+**[1205.18s] English:** You know, they go to Level 1, agency loop, oh.  
+**Translation:** 
+
+**[1211.04s] English:** What can I do there? How can I cleverly place news in the queue?  
+**Translation:** 
+
+**[1214.88s] English:** How can I make it more human?  
+**Translation:** 
+
+**[1217.08s] English:** Dann came the idea: in the loop, the AI agent always responds with something.  
+**Translation:** 
+
+**[1222.14s] English:** In a group chat, you don't want him to react constantly.  
+**Translation:** 
+
+**[1225.56s] English:** I also gave him a Non-Response Token.  
+**Translation:** 
+
+**[1227.52s] English:** He has now been given the option to simply say nothing, making it feel more natural.  
+**Translation:** Vocabulary: token: 令牌
+
+**[1232.90s] English:** This is Stage 2.  
 **Translation:** 
 
 **[1234.34s] English:** Ja, ja, ja.  
 **Translation:** 
 
-**[1235.90s] English:** In Factorio.  
+**[1235.90s] English:** In Factorio:  
 **Translation:** 
 
-**[1236.96s] English:** Aber dann gibt es noch das Gedächtnis.  
+**[1236.96s] English:** But then there is memory as well.  
 **Translation:** 
 
-**[1239.24s] English:** Du willst, dass er sich Dinge merkt.  
+**[1239.24s] English:** You want him to remember things.  
 **Translation:** 
 
-**[1240.80s] English:** Vielleicht ist das Endziel so etwas wie kontinuierliches Reinforcement Learning.  
-**Translation:** Vocabulary: etwas: 例子; kontinuierliches: 持续的; reinforcement: 强化; vielleicht: 也许
+**[1240.80s] English:** Perhaps the end goal is something like continuous reinforcement learning.  
+**Translation:** Vocabulary: reinforcement: 强化
 
-**[1245.34s] English:** Aber ich habe das Gefühl, ich bin gerade mal auf Level 2 oder 3 mit meinen Markdown-Dateien und der Vektordatenbank.  
+**[1245.34s] English:** Aber I have the feeling that I am only at level 2 or 3 with my Markdown files and the vector database.  
 **Translation:** 
 
-**[1252.60s] English:** Und dann kannst du auf die Ebene Community Management gehen, auf Website und Marketing.  
-**Translation:** Vocabulary: vektordatenbank: 向量数据库
+**[1252.60s] English:** Then you can move on to the level of community management, website, and marketing.  
+**Translation:** Vocabulary: markdown: 标记语言
 
-**[1256.26s] English:** Du musst viele unterschiedliche Rollen gleichzeitig übernehmen.  
+**[1256.26s] English:** You must take on many different roles simultaneously.  
 **Translation:** 
 
-**[1260.44s] English:** Von nativen Apps kannst du schweigen.  
-**Translation:** Vocabulary: schweigen: 保持沉默; unterschiedliche: 不同的
-
-**[1262.26s] English:** Es gibt unendlich viele Ebenen und unendlich viele Möglichkeiten, weiter aufzusteigen.  
+**[1260.44s] English:** From native apps, you can stay silent.  
 **Translation:** 
 
-**[1268.40s] English:** Also die ganze Zeit hast du Spaß.  
-**Translation:** Vocabulary: aufzusteigen: 晋升
-
-**[1271.22s] English:** Man muss sagen, während des gesamten Prozesses warst du größtenteils ein Ein-Mann-Team.  
+**[1262.26s] English:** There are infinitely many levels and infinitely many possibilities to keep ascending.  
 **Translation:** 
 
-**[1276.10s] English:** Es haben zwar andere auch beigetragen, aber den Großteil der Kernentwicklung hast du selbst gemacht.  
-**Translation:** Vocabulary: beigetragen: 贡献; gesamten: 整个; kernentwicklung: 核心开发; prozesses: 过程
+**[1268.40s] English:** Also, the whole time you've been having fun.  
+**Translation:** Vocabulary: ascending: 上升; infinitely: 无限地
+
+**[1271.22s] English:** Man must say, during the entire process, you were largely an one-man-team.  
+**Translation:** 
+
+**[1276.10s] English:** They have contributed as well, but you yourself did most of the core development.  
+**Translation:** 
 
 **[1281.36s] English:** Ja.  
 **Translation:** 
 
-**[1281.72s] English:** Und dabei hattest du Spaß.  
+**[1281.72s] English:** During that, you had fun.  
 **Translation:** 
 
-**[1283.48s] English:** Im Januar hast du 6600 Commitments.  
+**[1283.48s] English:** In January, you have 6,600 commitments.  
 **Translation:** 
 
-**[1286.50s] English:** Und du hast mehr als 100 Ebenen und Ebenen-Tipps gemacht, wahrscheinlich sogar mehr.  
-**Translation:** Vocabulary: wahrscheinlich: 可能
-
-**[1290.70s] English:** Ich habe mal ein Meme gepostet.  
+**[1286.50s] English:** And you have more than 100 levels and level tips, and probably even more.  
 **Translation:** 
 
-**[1292.14s] English:** Die Technologie meiner Zeit begrenzt mich.  
-**Translation:** Vocabulary: begrenzt: 限制; gepostet: 发布; technologie: 技术
-
-**[1293.78s] English:** Ich könnte mehr machen, wenn die Agents schneller wären.  
+**[1290.70s] English:** I have posted a meme once.  
 **Translation:** 
 
-**[1296.18s] English:** Du führst also mehrere Agents zur selben Zeit aus?  
-**Translation:** Vocabulary: schneller: 更快
+**[1292.14s] English:** The technology of my time limits me.  
+**Translation:** 
+
+**[1293.78s] English:** Ich könnte mehr machen, wenn die agents schneller wären.  
+**Translation:** 
+
+**[1296.18s] English:** Do you conduct multiple agents at the same time?  
+**Translation:** Vocabulary: machen: 做
 
 **[1298.74s] English:** Ja.  
 **Translation:** 
 
-**[1299.34s] English:** Je nachdem, wie viel ich geschlafen habe und wie schwierig die Aufgaben sind, an denen ich arbeite zwischen 4 und 10.  
-**Translation:** Vocabulary: aufgaben: 任务; geschlafen: 睡觉; schwierig: 困难; zwischen: 在...之间
+**[1299.34s] English:** Je nachdem, wie viel ich geschlafen habe und wie schwierig die Aufgaben sind, an denen ich arbeite, zwischen 4 und 10.  
+**Translation:** Vocabulary: arbeite: 工作; aufgaben: 任务; geschlafen: 睡眠; nachdem: 之后; schwierig: 困难; zwischen: 在...之间
 
-**[1307.14s] English:** Zwischen 4 und 10, wow.  
+**[1307.14s] English:** Between 4 and 10, wow.  
 **Translation:** 
 
-**[1309.34s] English:** Es gibt so viele Richtungen, in die man hier gehen könnte, gerade wenn man an Factorio denkt.  
-**Translation:** Vocabulary: richtungen: 方向
+**[1309.34s] English:** There are so many directions one could go here, just when thinking about Factorio.  
+**Translation:** Vocabulary: factorio: 方块工厂
 
-**[1314.24s] English:** Aber die große Frage ist.  
+**[1314.24s] English:** But the great question is.  
 **Translation:** 
 
-**[1316.04s] English:** Ist deine Arbeit open-claw?  
+**[1316.04s] English:** Is your work open-source?  
 **Translation:** 
 
 **[1319.48s] English:** Gewonnen.  
 **Translation:** 
 
-**[1320.00s] English:** Wenn man auf 2025 schaut, unzählige Startups und Unternehmen, die irgendetwas Agentic-mäßiges bauen oder zumindest behaupten, es zu tun. Und dann kommt Open Claw und stellt plötzlich alles in den Schatten. Warum habt ihr gewonnen?  
-**Translation:** Vocabulary: behaupten: 声称; gewonnen: 获胜; irgendetwas: 某些东西; schatten: 阴影; startups: 初创公司; unternehmen: 企业; zumindest: 至少
+**[1320.00s] English:** When looking at 2025, countless startups and companies are building or at least claiming to build something Agentic-like. And then comes Open Claw and suddenly casts everything into doubt. Why did you win?  
+**Translation:** Vocabulary: gewonnen: 获胜; startups: 初创公司
 
-**[1335.08s] English:** Weil sie sich alle zu ernst nehmen. Es ist schwer, gegen jemanden anzutreten, der einfach nur Spaß haben will. Ich wollte, dass es Spaß macht und dass es eigenwillig ist. Ein bisschen schräg. Und wenn du dir das ganze Hummerzeug im Internet anschaust, dann glaube ich, habe ich genau das getroffen.  
+**[1335.08s] English:** Weil sie sich alle zu ernst nehmen. Es ist schwer, gegen jemanden anzutreten, der einfach nur Spaß haben will. Ich wollte, dass es Spaß macht und dass es eigenwillig ist — ein bisschen schräg. Und wenn du dir das ganze Hummerzeug im Internet anschaust, dann glaube ich, habe ich genau das getroffen.  
 **Translation:** 
 
-**[1355.84s] English:** Und weißt du, lange Zeit lief die Installation einfach über Git-Clone und dann PMPM-Build, PMPM-Gateway.  
-**Translation:** Vocabulary: anschaust: 浏览; anzutreten: 对抗; bisschen: 一点; eigenwillig: 独立; ernst: 认真; getroffen: 击中; hummerzeug: 胡说八道; jemanden: 某人; lange: 长久
+**[1355.84s] English:** Do you know that for a long time, the installation simply ran via Git Clone and then PMPM Build, PMPM Gateway.  
+**Translation:** Vocabulary: anschaust: 查看; anzutreten: 对抗; bisschen: 一点; eigenwillig: 有个性; einfach: 简单; ernst: 认真; gateway: 网关; getroffen: 命中; hummerzeug: 霍姆斯; jemanden: 某人
 
 **[1364.62s] English:** Also.  
 **Translation:** 
 
-**[1365.08s] English:** Du klonst es, baust es und startest es. Und ich habe ihn so gestaltet, dass er seine eigene Struktur versteht. Er kennt seinen Quellcode und weiß genau, wie und in welcher Umgebung er ausgeführt wird. Er weiß, wo die Dokumentation liegt. Er weiß, mit welchem Modell er läuft. Er merkt, ob du den ausführlichen Modus oder den Reasoning-Modus aktiviert hast. Ich wollte ihn menschlicher machen, sodass er sein eigenes System versteht.  
-**Translation:** Vocabulary: aktiviert: 激活; dokumentation: 文档; gestaltet: 设计; machen: 使成为; menschlicher: 人性化; modus: 模式; quellcode: 源码; seine: 它的; startest: 启动; struktur: 结构; umgebung: 环境; versteht: 理解; welcher: 哪个
-
-**[1394.62s] English:** Deshalb ist es sehr schwierig.  
+**[1365.08s] English:** You cloned it, built it, and started it. And I have designed him such that he understands his own structure. He knows his source code and exactly how and in which environment it is executed. He knows where the documentation lies. He knows with which model he runs. He notices whether you have activated the detailed mode or the Reasoning mode. I wanted to make him more human-like, so that he understands his own system.  
 **Translation:** 
 
-**[1395.08s] English:** Es ist sehr einfach geworden, Änderungen vorzunehmen. Gefällt dir etwas nicht, änderst du es einfach per Prompt. Und dann hat der Agent einfach seine eigene Software geändert. Du weißt schon, wir haben Leute, die über selbstmodifizierende Software sprechen. Ich habe es einfach gebaut und nicht wirklich so viel geplant. Es ist einfach passiert.  
-**Translation:** Vocabulary: etwas: 一些东西; geworden: 变得; nicht: 不; passiert: 发生; selbstmodifizierende: 自我修改的; sprechen: 谈论; vorzunehmen: 进行; wirklich: 真正
+**[1394.62s] English:** Therefore, it is very difficult.  
+**Translation:** 
 
-**[1415.54s] English:** Kannst du bitte dazu etwas mehr erzählen? Es ist wirklich faszinierend. Du hast da ein Stück Software geschrieben in TypeScript.  
+**[1395.08s] English:** It has become very simple to make changes. If you don't like something, you just change it with a prompt. And then the agent simply changed its own software. You know, we have people talking about self-modifying software. I just built it and didn't really plan much. It just happened.  
+**Translation:** Vocabulary: prompt: 提示
+
+**[1415.54s] English:** Can you please tell me a bit more about that? It's really fascinating. You've written a piece of software in TypeScript.  
 **Translation:** 
 
 **[1424.02s] English:** Ja.  
-**Translation:** Vocabulary: faszinierend: 令人着迷; geschrieben: 编写
-
-**[1424.18s] English:** Das sich über den Agentic Loop selbst verändern kann. Was für ein Moment, um in der Geschichte der Menschheit und der Programmierung am Leben zu sein. Hier ist etwas, das von unglaublich vielen Menschen genutzt wird, um mächtige Dinge in ihrem Leben zu tun.  
 **Translation:** 
 
-**[1440.00s] English:** Genau dieses System kann sich selbst neu schreiben, sich selbst verändern.  
-**Translation:** Vocabulary: dinge: 事物; geschichte: 历史; leben: 生活; menschen: 人类; menschheit: 人类; programmierung: 编程; schreiben: 编写; unglaublich: 不可思议
-
-**[1444.94s] English:** Kannst du über die Kraft davon sprechen?  
+**[1424.18s] English:** Das, was sich über den Agentic Loop selbst verändern kann, ist ein Moment, um in der Geschichte der Menschheit und der Programmierung am Leben zu sein. Hier ist etwas, das von unglaublich vielen Menschen genutzt wird, um mächtige Dinge in ihrem Leben zu tun.  
 **Translation:** 
 
-**[1446.82s] English:** Ist das nicht unglaublich?  
-**Translation:** Vocabulary: davon: 此事; kraft: 力量
+**[1440.00s] English:** Exactly this system can rewrite itself, change itself.  
+**Translation:** Vocabulary: agentic: 自主的; dinge: 事物; etwas: 一些东西; genutzt: 使用; geschichte: 历史; leben: 生活; menschen: 人类; menschheit: 人类; programmierung: 编程; rewrite: 重写; unglaublich: 不可思议
 
-**[1448.88s] English:** Wann hast du zum ersten Mal wirklich begriffen, was das bedeutet?  
+**[1444.94s] English:** Can you speak about the power of it?  
 **Translation:** 
 
-**[1452.00s] English:** Wann hat sich dieser Kreis für dich geschlossen?  
-**Translation:** Vocabulary: bedeutet: 意味着; begriffen: 理解; geschlossen: 闭合; kreis: 循环
-
-**[1454.46s] English:** Naja, während ich es gebaut habe.  
+**[1446.82s] English:** Is this not incredible?  
 **Translation:** 
 
-**[1456.24s] English:** Der Großteil ist mit Codex entstanden.  
-**Translation:** Vocabulary: codex: 代码本; entstanden: 产生
-
-**[1458.52s] English:** Aber beim Debuggen nutze ich sehr viel Selbstintrospektion.  
+**[1448.88s] English:** When did you first really understand what that means?  
 **Translation:** 
 
-**[1463.00s] English:** Also ich frage ihn zum Beispiel, welche Tools siehst du eigentlich?  
-**Translation:** Vocabulary: beispiel: 例子; debuggen: 调试; eigentlich: 实际上; selbstintrospektion: 自我反省
-
-**[1467.08s] English:** Kannst du das Tool selbst aufrufen?  
+**[1452.00s] English:** When did this circle get closed for you?  
 **Translation:** 
 
-**[1468.64s] English:** Und dann, welchen Fehler siehst du, liest den Quellcode und finde heraus, was das Problem ist.  
-**Translation:** Vocabulary: aufrufen: 调用; liest: 阅读
-
-**[1473.22s] English:** Und ich finde es einfach unglaublich unterhaltsam, dass der AI-Agent, also genau die Software, die du benutzt, sich selbst debuggt.  
+**[1454.46s] English:** Naja, while I was building it.  
 **Translation:** 
 
-**[1482.94s] English:** Es hat sich völlig natürlich angefühlt, als würde das jetzt jeder so machen.  
-**Translation:** Vocabulary: unterhaltsam: 有趣
+**[1456.24s] English:** The majority is with Codex.  
+**Translation:** Vocabulary: codex: 编码体系
 
-**[1486.70s] English:** Und das hat zu unglaublich vielen Pull-Requests geführt von Leuten, die noch nie Software geschrieben haben.  
+**[1458.52s] English:** Aber beim Debuggen nutze ich sehr viel Selbstreflexion.  
 **Translation:** 
 
-**[1493.46s] English:** Wobei es natürlich auch gezeigt hat, dass manche noch nie Software geschrieben haben.  
-**Translation:** Vocabulary: manche: 某些人
+**[1463.00s] English:** Also, I ask him, for example, which tools do you actually see?  
+**Translation:** Vocabulary: debuggen: 调试; selbstreflexion: 自我反省
+
+**[1467.08s] English:** Can you call up the tool yourself?  
+**Translation:** 
+
+**[1468.64s] English:** Then, what error do you see? Read the source code and find out what the problem is.  
+**Translation:** 
+
+**[1473.22s] English:** And I find it simply incredible and entertaining that the AI agent, which is the software you use, debugs itself.  
+**Translation:** 
+
+**[1482.94s] English:** It felt completely natural, as though everyone would do it this way now.  
+**Translation:** Vocabulary: entertaining: 有趣的
+
+**[1486.70s] English:** And that has led to an incredible number of pull requests from people who have never written software before.  
+**Translation:** 
+
+**[1493.46s] English:** Where it has also shown that some have never written software.  
+**Translation:** 
 
 **[1496.52s] English:** Sorry.  
 **Translation:** 
 
-**[1497.50s] English:** Ich nenne sie Proxmox.  
+**[1497.50s] English:** I call them Proxmox.  
+**Translation:** Vocabulary: proxmox: proxmox虚拟化平台
+
+**[1498.64s] English:** But I want to avoid minimizing that, because every first pull-request is a win for our society.  
 **Translation:** 
 
-**[1498.64s] English:** Aber ich will das nicht kleinreden, denn jeder erste Pull-Request ist ein Gewinn für unsere Gesellschaft.  
+**[1507.22s] English:** Do you know? It doesn't matter how bad he is.  
+**Translation:** Vocabulary: minimizing: 贬低
+
+**[1511.20s] English:** Man must begin somewhere.  
 **Translation:** 
 
-**[1507.22s] English:** Weißt du, es spielt keine Rolle, wie schlecht er ist.  
+**[1513.68s] English:** Also, I know that there is a large movement of people who complain about open source and the quality of pull requests, and about problems on an entirely different level.  
 **Translation:** 
 
-**[1511.20s] English:** Man muss irgendwo anfangen.  
+**[1524.78s] English:** However, on another level, I have found it to be very significant.  
 **Translation:** 
 
-**[1513.68s] English:** Also ich weiß, dass es eine große Bewegung von Leuten gibt, die sich über Open Source und die Qualität der Pull-Requests beschweren und über Probleme auf einer ganz anderen Ebene.  
-**Translation:** Vocabulary: anfangen: 开始; beschweren: 抱怨; bewegung: 运动; irgendwo: 某处; probleme: 问题
+**[1528.64s] English:** Dass ich etwas gebaut habe, über das die Leute so gern nachdenken und tatsächlich anfangen zu lernen, wie Open Source funktioniert.  
+**Translation:** Vocabulary: anfangen: 开始; etwas: 一些东西; funktioniert: 运作; nachdenken: 思考
 
-**[1524.78s] English:** Aber auf einer anderen Ebene habe ich es als sehr bedeutsam empfunden.  
+**[1537.52s] English:** Ja, you were...  
 **Translation:** 
 
-**[1528.64s] English:** Dass ich etwas gebaut habe, über das die Leute so gern nachdenken, dass sie tatsächlich anfangen zu lernen, wie Open Source funktioniert.  
-**Translation:** Vocabulary: bedeutsam: 意义重大; empfunden: 认为; etwas: 一些东西; funktioniert: 运作; nachdenken: 思考
-
-**[1537.52s] English:** Ja, du warst...  
+**[1539.44s] English:** The Open Cloud Project was for many the first pull request.  
 **Translation:** 
 
-**[1539.44s] English:** Das Open Cloud Projekt war für viele die erste Pull-Anfrage.  
+**[1543.12s] English:** You were the beginning for so many.  
 **Translation:** 
 
-**[1543.12s] English:** Du warst für so viele der Anfang.  
+**[1545.06s] English:** This is magical.  
 **Translation:** 
 
-**[1545.06s] English:** Das ist magisch.  
+**[1546.44s] English:** So many people who cannot program are making their first step into the world of programming with this project.  
 **Translation:** 
 
-**[1546.44s] English:** So viele Menschen, die nicht programmieren können, machen mit diesem Projekt ihren ersten Schritt in die Welt des Programmierens.  
+**[1552.06s] English:** Is this not a progress for humanity? Isn't that cool?  
 **Translation:** 
 
-**[1552.06s] English:** Ist das nicht ein Fortschritt für die Menschheit? Ist das nicht cool?  
-**Translation:** Vocabulary: fortschritt: 进步; machen: 参与; programmieren: 编程; programmierens: 编程
-
-**[1554.70s] English:** Es werden immer mehr.  
+**[1554.70s] English:** More and more are being added.  
 **Translation:** 
 
-**[1555.76s] English:** Die Messlatte dafür war extrem hoch.  
-**Translation:** Vocabulary: messlatte: 标准
-
-**[1558.64s] English:** Aber mit Agents und...  
+**[1555.76s] English:** The measurement bar for that was extremely high.  
 **Translation:** 
 
-**[1560.00s] English:** der richtigen Software, wurde  
-**Translation:** Vocabulary: richtigen: 正确的
-
-**[1562.00s] English:** sie immer niedriger.  
+**[1558.64s] English:** Aber mit agents und...  
 **Translation:** 
 
-**[1564.22s] English:** Weiß nicht. Ich bin außerdem  
-**Translation:** Vocabulary: nicht: 不; niedriger: 更低
-
-**[1565.58s] English:** außerdem  
+**[1560.00s] English:** The correct software, was  
 **Translation:** 
 
-**[1567.62s] English:** und organisiere ich da noch eine andere Art von Meetup.  
-**Translation:** Vocabulary: organisiere: 组织
-
-**[1570.38s] English:** Ich habe es Cloud Code  
+**[1562.00s] English:** They keep getting lower.  
 **Translation:** 
 
-**[1571.42s] English:** Anonymous genannt.  
+**[1564.22s] English:** Weiß nicht. Ich bin außerdem...  
 **Translation:** 
+
+**[1565.58s] English:** Außerdem,  
+**Translation:** 
+
+**[1567.62s] English:** I will also organize another type of Meetup.  
+**Translation:** 
+
+**[1570.38s] English:** I have it in Cloud Code.  
+**Translation:** 
+
+**[1571.42s] English:** Anonymous, named.  
+**Translation:** Vocabulary: anonymous: 匿名的
 
 **[1574.30s] English:** Du kannst dich von  
 **Translation:** 
 
-**[1575.32s] English:** Agents Anonymous inspirieren lassen  
+**[1575.32s] English:** Agents Anonymous inspire us.  
 **Translation:** 
 
-**[1577.86s] English:** aus bestimmten Gründen.  
+**[1577.86s] English:** For certain reasons.  
 **Translation:** 
 
-**[1580.60s] English:** Nenne ich es jetzt so.  
+**[1580.60s] English:** Name it now, so.  
 **Translation:** 
 
 **[1583.18s] English:** Agents Anonymous.  
 **Translation:** 
 
-**[1584.86s] English:** Oh, es ist auf so  
+**[1584.86s] English:** Oh, it is on so  
 **Translation:** 
 
-**[1586.16s] English:** vielen Ebenen witzig. Entschuldigung.  
+**[1586.16s] English:** Many levels, funny. Excuse me.  
 **Translation:** 
 
-**[1588.36s] English:** Mach weiter.  
-**Translation:** Vocabulary: entschuldigung: 抱歉
-
-**[1590.00s] English:** Es gab diesen einen Typen, der mit mir geredet hat.  
+**[1588.36s] English:** Continue.  
 **Translation:** 
 
-**[1592.62s] English:** Er meinte, ich leite eine Designagentur  
-**Translation:** Vocabulary: designagentur: 设计agency
-
-**[1594.82s] English:** und wir hatten nie maßgeschneiderte  
+**[1590.00s] English:** There was this one guy who talked to me.  
 **Translation:** 
 
-**[1596.76s] English:** Software. Jetzt habe ich etwa  
+**[1592.62s] English:** He meant that I lead a design agency.  
 **Translation:** 
 
-**[1598.74s] English:** 25 kleine Webdienste für verschiedene  
+**[1594.82s] English:** And we never had tailored suits.  
 **Translation:** 
 
-**[1600.86s] English:** Dinge, die mir in meinem Geschäft  
-**Translation:** Vocabulary: dinge: 事情; verschiedene: 不同的; webdienste: 网络服务
+**[1596.76s] English:** Software. Now I have about  
+**Translation:** Vocabulary: tailored: 量身定制的
 
-**[1602.60s] English:** helfen. Und ich weiß  
+**[1598.74s] English:** 25 Small Web Services for Various  
 **Translation:** 
 
-**[1604.60s] English:** nicht einmal, wie sie funktionieren,  
+**[1600.86s] English:** Things that concern my business,  
 **Translation:** 
 
-**[1607.32s] English:** aber sie funktionieren.  
+**[1602.60s] English:** Helfen. Und ich weiß.  
 **Translation:** 
 
-**[1609.08s] English:** Und er war einfach  
-**Translation:** Vocabulary: funktionieren: 运转正常
-
-**[1610.44s] English:** sehr glücklich, dass meine Sachen  
+**[1604.60s] English:** Not even how they function,  
 **Translation:** 
 
-**[1612.10s] English:** einige seiner Probleme gelöst haben.  
-**Translation:** Vocabulary: seiner: 他的
-
-**[1615.16s] English:** Er war neugierig genug,  
+**[1607.32s] English:** But they work.  
 **Translation:** 
 
-**[1616.62s] English:** dass er tatsächlich zu einem  
-**Translation:** Vocabulary: neugierig: 好奇
-
-**[1618.48s] English:** Enchantic-Treffen kam.  
+**[1609.08s] English:** And he was simply  
 **Translation:** 
 
-**[1620.00s] English:** Obwohl er nicht wirklich weiß,  
-**Translation:** Vocabulary: wirklich: 真正地
-
-**[1622.26s] English:** wie Software funktioniert.  
+**[1610.44s] English:** Very happy that my things  
 **Translation:** 
 
-**[1624.14s] English:** Können wir kurz zurückspulen  
+**[1612.10s] English:** We have solved some of his problems.  
 **Translation:** 
 
-**[1625.46s] English:** und die Geschichte der Namensänderung erzählen?  
+**[1615.16s] English:** He was curious enough,  
 **Translation:** 
 
-**[1628.82s] English:** Am Anfang hieß es  
-**Translation:** Vocabulary: geschichte: 故事
+**[1616.62s] English:** Dass er tatsächlich zu einem  
+**Translation:** 
+
+**[1618.48s] English:** Enchanting-Treffen came.  
+**Translation:** 
+
+**[1620.00s] English:** Although he doesn't really know,  
+**Translation:** 
+
+**[1622.26s] English:** How software works.  
+**Translation:** 
+
+**[1624.14s] English:** Can we rewind for a moment?  
+**Translation:** 
+
+**[1625.46s] English:** And what about the history of name changes?  
+**Translation:** 
+
+**[1628.82s] English:** At the beginning, it was called  
+**Translation:** 
 
 **[1629.86s] English:** War Relay.  
 **Translation:** 
 
-**[1631.46s] English:** Und dann wurde daraus  
+**[1631.46s] English:** Then it was turned into  
 **Translation:** 
 
-**[1633.48s] English:** Claudis.  
+**[1633.48s] English:** Claudius.  
 **Translation:** 
 
-**[1635.42s] English:** Als ich es am Anfang gebaut habe,  
+**[1635.42s] English:** When I built it at the beginning,  
 **Translation:** 
 
-**[1637.64s] English:** hatte mein AI-Agent keine Persönlichkeit.  
+**[1637.64s] English:** My AI agent had no personality.  
 **Translation:** 
 
-**[1639.90s] English:** Es war nur Cloud Code.  
+**[1639.90s] English:** It was just Cloud Code.  
 **Translation:** 
 
-**[1642.00s] English:** Er war ein bisschen schmeichelnd, Opus.  
+**[1642.00s] English:** He was a bit flattering, Opus.  
 **Translation:** 
 
-**[1644.36s] English:** Sehr freundlich.  
-**Translation:** Vocabulary: bisschen: 一点点; freundlich: 友好的; schmeichelnd: 奉承的
+**[1644.36s] English:** Very friendly.  
+**Translation:** Vocabulary: flattering: 奉承的
 
-**[1646.40s] English:** Und ich,  
+**[1646.40s] English:** And I,  
 **Translation:** 
 
-**[1647.06s] English:** wenn du mit einem Freund auf WhatsApp sprichst,  
-**Translation:** Vocabulary: sprichst: 说话
-
-**[1650.00s] English:** reden sie nicht wie Cloud Code.  
+**[1647.06s] English:** When you are chatting with a friend on WhatsApp,  
 **Translation:** 
 
-**[1652.74s] English:** Also wollte ich,  
+**[1650.00s] English:** Do not speak like Cloud Code.  
 **Translation:** 
 
-**[1654.30s] English:** ich fühlte das,  
+**[1652.74s] English:** Also, I wanted to  
 **Translation:** 
 
-**[1655.92s] English:** es fühlte sich einfach nicht richtig an.  
+**[1654.30s] English:** I felt that,  
 **Translation:** 
 
-**[1657.64s] English:** Also wollte ich ihm  
+**[1655.92s] English:** It simply didn't feel right.  
 **Translation:** 
 
-**[1659.08s] English:** eine Persönlichkeit geben.  
+**[1657.64s] English:** Also, I also wanted to him.  
 **Translation:** 
 
-**[1661.34s] English:** Also interessanter machen, ihm mehr Charakter geben.  
+**[1659.08s] English:** To give a personality.  
+**Translation:** 
+
+**[1661.34s] English:** Also make it more interesting by giving him more character.  
 **Translation:** 
 
 **[1664.16s] English:** Ja.  
-**Translation:** Vocabulary: charakter: 性格; interessanter: 更有趣
-
-**[1664.56s] English:** Wobei sich das ehrlich gesagt auch schwer in Worte fassen lässt.  
 **Translation:** 
 
-**[1667.58s] English:** Und natürlich muss man erwähnen, dass du die  
-**Translation:** Vocabulary: ehrlich: 诚实
-
-**[1669.26s] English:** soul.md geschaffen hast.  
+**[1664.56s] English:** Whereby, however, this is honestly also difficult to put into words.  
 **Translation:** 
 
-**[1671.24s] English:** Inspiriert von Anthropics Arbeit  
-**Translation:** Vocabulary: anthropics: 人类智能; geschaffen: 创造; inspiriert: 启发
-
-**[1672.84s] English:** an konstitutioneller KI.  
+**[1667.58s] English:** Und natürlich muss man erwähnen, dass du die.  
 **Translation:** 
 
-**[1675.70s] English:** Teilweise hat er ein wenig von mir aufgegriffen.  
-**Translation:** Vocabulary: aufgegriffen: 吸收; konstitutioneller: 宪法的; teilweise: 部分地
-
-**[1678.78s] English:** Du weißt ja,  
+**[1669.26s] English:** Soul.md did you create.  
 **Translation:** 
 
-**[1679.42s] English:** im Grunde,  
+**[1671.24s] English:** Inspired by Anthropic's work,  
 **Translation:** 
 
-**[1680.00s] English:** sind das Text-Completion-Engines.  
+**[1672.84s] English:** An Konstitutioneller AI.  
 **Translation:** 
 
-**[1683.18s] English:** Ich hatte Spaß daran, mit ihm zu arbeiten.  
-**Translation:** Vocabulary: arbeiten: 工作
+**[1675.70s] English:** Partially, he has picked up a little from me.  
+**Translation:** Vocabulary: konstitutioneller: 宪法的
 
-**[1685.88s] English:** Und dann habe ich ihm gesagt,  
+**[1678.78s] English:** You know,  
 **Translation:** 
 
-**[1688.68s] English:** wie ich wollte, dass er mit mir interagiert.  
-**Translation:** Vocabulary: interagiert: 互动
-
-**[1692.56s] English:** Also schreib dir deine eigene Agents.md,  
+**[1679.42s] English:** In essence,  
 **Translation:** 
 
-**[1695.08s] English:** gib dir selbst einen Namen.  
-**Translation:** Vocabulary: namen: 给自己起名
-
-**[1696.94s] English:** Und dann, ich wusste nicht einmal,  
+**[1680.00s] English:** These are text-completion engines.  
 **Translation:** 
 
-**[1698.92s] English:** wie sich das mit dem ganzen Hummer entwickelt.  
-**Translation:** Vocabulary: entwickelt: 发展; nicht: 不
-
-**[1702.66s] English:** Ich meine, die Leute machen einfach nur Hummer.  
+**[1683.18s] English:** I had fun working with him.  
 **Translation:** 
 
-**[1705.12s] English:** Ursprünglich war es tatsächlich ein Hummer in einer TARDIS,  
-**Translation:** Vocabulary: hummer: 龙虾; machen: 做
-
-**[1707.04s] English:** weil ich auch ein großer Doctor-Who-Fan bin.  
+**[1685.88s] English:** Then I told him,  
 **Translation:** 
 
-**[1710.00s] English:** Ich habe gehört, da gab es einen Weltraum-Hummer.  
+**[1688.68s] English:** As I wanted him to interact with me.  
 **Translation:** 
 
-**[1712.72s] English:** Was hat das damit zu tun?  
+**[1692.56s] English:** Also, write your own Agents.md,  
 **Translation:** 
 
-**[1714.40s] English:** Ja, ich wollte es einfach komisch machen.  
+**[1695.08s] English:** Give yourself a name.  
 **Translation:** 
 
-**[1717.06s] English:** Es gab keinen großen Plan.  
+**[1696.94s] English:** Then, I didn't even know that.  
 **Translation:** 
 
-**[1718.96s] English:** Es war alles nur zum Spaß.  
+**[1698.92s] English:** How has this developed with the whole hummer situation.  
+**Translation:** Vocabulary: hummer: 悍马车
+
+**[1702.66s] English:** I mean, people are just jumping on the bandwagon.  
+**Translation:** 
+
+**[1705.12s] English:** Originally, it was actually a Hummer in a TARDIS.  
+**Translation:** Vocabulary: bandwagon: 跟风
+
+**[1707.04s] English:** Because I am also a big Doctor Who fan.  
+**Translation:** 
+
+**[1710.00s] English:** I have heard there was a space hummingbird.  
+**Translation:** Vocabulary: hummingbird: 蜂鸟
+
+**[1712.72s] English:** What has that to do with it?  
+**Translation:** 
+
+**[1714.40s] English:** Ja, I wanted to just make it funny.  
+**Translation:** 
+
+**[1717.06s] English:** There was no great plan.  
+**Translation:** 
+
+**[1718.96s] English:** It was all just for fun.  
 **Translation:** 
 
 **[1720.84s] English:** Weil Hummer schon komisch sind,  
 **Translation:** 
 
-**[1722.34s] English:** ist ein Weltraum-Hummer natürlich noch viel komischer.  
-**Translation:** Vocabulary: komischer: 更滑稽
+**[1722.34s] English:** It is, of course, even much more bizarre than a space hummingbird.  
+**Translation:** Vocabulary: bizarre: 怪异; komisch: 滑稽
 
-**[1724.44s] English:** Ja, es ist schwierig.  
+**[1724.44s] English:** Ja, it is difficult.  
 **Translation:** 
 
-**[1726.36s] English:** Es ist eigentlich das Harness.  
-**Translation:** Vocabulary: eigentlich: 实际上; schwierig: 困难
+**[1726.36s] English:** It is actually the harness.  
+**Translation:** Vocabulary: harness: 马具
 
-**[1728.26s] English:** Aber wir konnten es nicht TARDIS nennen.  
+**[1728.26s] English:** But we couldn't call it TARDIS.  
 **Translation:** 
 
-**[1730.86s] English:** Also nannten wir es Claudis.  
-**Translation:** 
+**[1730.86s] English:** We also called it Claudis.  
+**Translation:** Vocabulary: claudis: 克劳迪斯
 
 **[1733.12s] English:** Ja.  
 **Translation:** 
 
-**[1733.76s] English:** Das war also der zweite Name.  
+**[1733.76s] English:** This was therefore the second name.  
 **Translation:** 
 
-**[1735.24s] English:** Und es hat sich nie wirklich gut angehört.  
+**[1735.24s] English:** And it has never really sounded good.  
 **Translation:** 
 
-**[1738.58s] English:** Als dann mehr Leute kamen,  
+**[1738.58s] English:** Then, as more people came,  
 **Translation:** 
 
-**[1740.00s] English:** habe ich mit meinem Agent Claud gesprochen.  
+**[1740.00s] English:** I have spoken with my agent, Claud.  
 **Translation:** 
 
-**[1745.56s] English:** Zumindest habe ich ihn früher so genannt.  
-**Translation:** Vocabulary: claud: 克劳德; gesprochen: 交谈; zumindest: 至少
+**[1745.56s] English:** At least I used to call him that.  
+**Translation:** 
 
-**[1748.48s] English:** Claud, buchstabiert mit einem W-C-L-A-W-D.  
+**[1748.48s] English:** Claud, spelled with a C-L-A-U-D.  
 **Translation:** 
 
 **[1753.10s] English:** Ja.  
-**Translation:** Vocabulary: buchstabiert: 拼写
+**Translation:** Vocabulary: claud: 跛行
 
-**[1754.06s] English:** Im Gegensatz zu C-L-A-U-D-E von Anthropic.  
+**[1754.06s] English:** In contrast to C-L-A-U-D-E from Anthropic.  
 **Translation:** 
 
 **[1760.38s] English:** Ja.  
-**Translation:** Vocabulary: gegensatz: 对立面
-
-**[1761.38s] English:** Das ist ein Teil davon, was es lustig macht, glaube ich.  
 **Translation:** 
 
-**[1764.56s] English:** Das Spiel mit den Buchstaben und Wörtern in der TARDIS  
-**Translation:** Vocabulary: buchstaben: 字母; davon: 其中; lustig: 有趣; spiel: 游戏
-
-**[1768.00s] English:** und dem Hummer und dem Weltraum-Hummer  
+**[1761.38s] English:** This is a part of what makes it funny, I believe.  
 **Translation:** 
 
-**[1769.76s] English:** ist urkomisch.  
-**Translation:** Vocabulary: urkomisch: 非常滑稽
-
-**[1771.64s] English:** Aber ich verstehe, warum es zu Problemen führen kann.  
+**[1764.56s] English:** The game with the letters and words in the TARDIS  
 **Translation:** 
 
-**[1774.40s] English:** Ja, sie fanden es nicht so lustig.  
-**Translation:** Vocabulary: problemen: 引起问题; verstehe: 理解
-
-**[1778.94s] English:** Dann habe ich die Domain Claudbot bekommen.  
+**[1768.00s] English:** And the Hummer, and the Space Hummer.  
 **Translation:** 
 
-**[1781.92s] English:** Und ich liebte die Domain.  
-**Translation:** Vocabulary: bekommen: 获得; claudbot: 克劳德机器人
-
-**[1784.72s] English:** Sie war kurz und einprägsam.  
+**[1769.76s] English:** It's pretty funny.  
 **Translation:** 
 
-**[1786.96s] English:** Ich dachte, ja, das machen wir.  
+**[1771.64s] English:** Aber ich verstehe, why it can lead to problems.  
 **Translation:** 
 
-**[1789.24s] English:** Ich habe nicht gedacht,  
+**[1774.40s] English:** Ja, they didn't find it so funny.  
+**Translation:** Vocabulary: verstehe: 理解
+
+**[1778.94s] English:** Then I got the domain Claudbot.  
 **Translation:** 
 
-**[1790.16s] English:** dass es zu dieser Zeit so groß werden würde.  
+**[1781.92s] English:** And I loved the domain.  
+**Translation:** Vocabulary: claudbot: 克劳德机器人
+
+**[1784.72s] English:** She was brief and impactful.  
 **Translation:** 
 
-**[1797.40s] English:** Und genau als es explodiert ist,  
+**[1786.96s] English:** I thought, yes, let's do that.  
 **Translation:** 
 
-**[1800.00s] English:** Habe ich, fairerweise muss man sagen, eine sehr freundliche E-Mail von einem der Mitarbeiter bekommen,  
-**Translation:** Vocabulary: explodiert: 爆炸; fairerweise: 公正地说; freundliche: 友好的; mitarbeiter: 员工
-
-**[1806.32s] English:** dass ihnen der Name nicht gefällt.  
+**[1789.24s] English:** I did not think,  
 **Translation:** 
 
-**[1809.10s] English:** Von einem der Anthropic-Mitarbeiter?  
+**[1790.16s] English:** That it would grow to be so large at this time.  
 **Translation:** 
 
-**[1811.24s] English:** Ja. Und das rechne ich ihnen hoch an, denn sie hätten auch einfach ein Anwaltsschreiben schicken können.  
+**[1797.40s] English:** Exactly at the moment it explodes,  
 **Translation:** 
 
-**[1816.86s] English:** Stattdessen sind sie freundlich geblieben.  
-**Translation:** Vocabulary: anwaltsschreiben: 律师函; freundlich: 友好; geblieben: 保持; schicken: 发送; stattdessen: 反而
+**[1800.00s] English:** Here is a fair and kind email I received from one of the employees,  
+**Translation:** Vocabulary: explodes: 突然爆发
 
-**[1818.80s] English:** Aber klar war auch, du musst es ändern. Und zwar schnell.  
+**[1806.32s] English:** That their name doesn't appeal to them.  
 **Translation:** 
 
-**[1823.52s] English:** Ich habe um zwei Tage gebeten, weil es schwer ist, einen Namen zu ändern.  
-**Translation:** Vocabulary: namen: 更改姓名; schnell: 迅速
+**[1809.10s] English:** From one of the Anthropic employees?  
+**Translation:** 
 
-**[1827.62s] English:** Du musst alles finden. Twitter-Handle, Domains, NPM-Pakete, Docker-Registry, GitHub-Sachen.  
+**[1811.24s] English:** Ja. Und das ich ihnen hoch anrechnen, denn sie hätten auch einfach ein Anwaltsschreiben schicken können.  
+**Translation:** 
+
+**[1816.86s] English:** Instead, they remained friendly.  
+**Translation:** Vocabulary: anrechnen: 评价高; anwaltsschreiben: 律师函; einfach: 简单; schicken: 发送
+
+**[1818.80s] English:** Aber, klar war auch, dass man es ändern muss – und zwar schnell.  
+**Translation:** 
+
+**[1823.52s] English:** I have requested two days off because it is difficult to change a name.  
+**Translation:** Vocabulary: schnell: 迅速
+
+**[1827.62s] English:** You must find everything: Twitter handle, domains, NPM packages, Docker registry, GitHub stuff.  
 **Translation:** 
 
 **[1838.56s] English:** Alles muss einheitlich sein.  
-**Translation:** Vocabulary: einheitlich: 统一的
+**Translation:** Vocabulary: einheitlich: 统一; registry: 仓库
 
-**[1840.48s] English:** Können wir auch mal darüber reden, dass du immer öfter von der Krypto-Szene attackiert wirst.  
+**[1840.48s] English:** Can we also talk about how you are being attacked more frequently from the crypto scene?  
 **Translation:** 
 
-**[1845.78s] English:** Du hast ja mal erwähnt, dass deshalb die Namensänderung nötig gewesen ist.  
-**Translation:** Vocabulary: attackiert: 被攻击
+**[1845.78s] English:** You have mentioned that a name change was therefore necessary.  
+**Translation:** Vocabulary: crypto: 加密货币
 
-**[1849.48s] English:** Einfach, weil sie versucht haben, dir den Namen wegzuschnappen oder ihn zu stehlen.  
+**[1849.48s] English:** Simply because they tried to snatch your name or steal it.  
 **Translation:** 
 
-**[1854.26s] English:** Deswegen hast du reagieren müssen.  
-**Translation:** Vocabulary: deswegen: 因此; reagieren: 反应; versucht: 试图; wegzuschnappen: 抢走
+**[1854.26s] English:** Therefore, you had to react.  
+**Translation:** Vocabulary: snatch: 抢夺
 
-**[1855.92s] English:** Wenn man das aus der Sicht des Agentic Engineering betrachtet, ist das wirklich eine faszinierende Geschichte.  
+**[1855.92s] English:** When viewed from the perspective of agency engineering, this is really a fascinating story.  
 **Translation:** 
 
-**[1862.08s] English:** Du hast die Namensänderung in einem Rutsch überall zur selben Zeit durchziehen müssen.  
-**Translation:** Vocabulary: betrachtet: 看待; durchziehen: 推行; faszinierende: 迷人的; geschichte: 故事; sicht: 视角; wirklich: 确实
+**[1862.08s] English:** You had to carry out the name change everywhere at the same time without any hassle.  
+**Translation:** Vocabulary: hassle: 麻烦
 
-**[1866.86s] English:** Ja, wir haben da ziemlich versagt. Ich habe diese Leute unterschätzt.  
+**[1866.86s] English:** Ja, we have really failed there. I underestimated these people.  
 **Translation:** 
 
-**[1873.12s] English:** Das ist eine, sagen wir mal, sehr interessante Subkultur.  
-**Translation:** Vocabulary: interessante: 有趣的; subkultur: 亚文化; ziemlich: 相当
+**[1873.12s] English:** This is a, let's say, very interesting subculture.  
+**Translation:** Vocabulary: subculture: 亚文化; underestimated: 低估了
 
-**[1879.66s] English:** Alles dreht sich. Ich werde wahrscheinlich vieles falsch erklären.  
+**[1879.66s] English:** Alles dreht sich. Ich werde wahrscheinlich viele Dinge falsch erklären.  
 **Translation:** 
 
-**[1882.72s] English:** Und wir werden dafür wahrscheinlich Hate abbekommen.  
-**Translation:** Vocabulary: abbekommen: 受到; wahrscheinlich: 可能
+**[1882.72s] English:** And we will probably get hate for that.  
+**Translation:** Vocabulary: dinge: 事情; wahrscheinlich: 可能
 
-**[1885.92s] English:** Und da ist diese Backsep gewesen.  
+**[1885.92s] English:** And there was this backsep here.  
 **Translation:** 
 
-**[1888.92s] English:** Und dann haben sie alles detokinisiert mit Vibe Tunnel.  
+**[1888.92s] English:** Then they detoxified everything with Vibe Tunnel.  
+**Translation:** Vocabulary: backsep: 后分隔; detoxified: 排毒; tunnel: 隧道
+
+**[1892.26s] English:** Have they exactly deducted the same, only on a much smaller scale.  
 **Translation:** 
 
-**[1892.26s] English:** Haben sie genau das gleiche abgezogen, nur in einem viel kleineren Ausmaß.  
+**[1895.88s] English:** It hasn't been as nerve-wracking.  
+**Translation:** Vocabulary: deducted: 扣除
+
+**[1898.28s] English:** Aber bei diesem Projekt sind Sie wirklich über mich hergefallen.  
 **Translation:** 
 
-**[1895.88s] English:** Es ist nicht so nervig gewesen.  
-**Translation:** Vocabulary: abgezogen: 减少; kleineren: 更小的; nicht: 不
+**[1902.60s] English:** About every 30 minutes, someone would come into Discord and spam.  
+**Translation:** Vocabulary: hergefallen: 攻击; projekt: 项目; wirklich: 真的
 
-**[1898.28s] English:** Aber bei diesem Projekt sind sie wirklich über mich hergefallen.  
+**[1908.14s] English:** We had to block that.  
 **Translation:** 
 
-**[1902.60s] English:** Und ungefähr alle 30 Minuten kam jemand in Discord und spammte.  
-**Translation:** Vocabulary: hergefallen: 攻击
-
-**[1908.14s] English:** Und wir mussten das blockieren.  
+**[1909.22s] English:** We have server rules.  
 **Translation:** 
 
-**[1909.22s] English:** Wir haben Server-Regeln.  
-**Translation:** Vocabulary: blockieren: 阻止
-
-**[1911.76s] English:** Und eine der Regeln war zum Beispiel,  
+**[1911.76s] English:** One of the rules was, for example,  
 **Translation:** 
 
-**[1915.92s] English:** keine Butter zu erwähnen.  
-**Translation:** Vocabulary: beispiel: 例子
-
-**[1917.48s] English:** Aus offensichtlichen Gründen.  
+**[1915.92s] English:** No butter to mention.  
 **Translation:** 
 
-**[1919.44s] English:** Und eine...  
-**Translation:** Vocabulary: offensichtlichen: 显而易见的
-
-**[1920.00s] English:** Andere, kein Wort über Finanzkram oder Krypto, weil ich, ich, ich hab einfach kein Interesse dran.  
+**[1917.48s] English:** Due to obvious reasons.  
 **Translation:** 
 
-**[1927.38s] English:** Hier geht's um das Projekt und nicht um irgendwelche Finanzen.  
-**Translation:** Vocabulary: finanzen: 财政; finanzkram: 财务; interesse: 兴趣; irgendwelche: 某些
-
-**[1931.12s] English:** Und, ähm, naja, sie sind reingekommen, haben alles zugespermt und echt nervig.  
+**[1919.44s] English:** And one...  
 **Translation:** 
 
-**[1938.38s] English:** Auf Twitter haben sie mich auch ständig angepingt.  
-**Translation:** Vocabulary: angepingt: 被提及; reingekommen: 进来; zugespermt: 封锁
-
-**[1940.74s] English:** Mein Benachrichtigungsfeed ist unbrauchbar gewesen.  
+**[1920.00s] English:** Andere, kein Wort über Finanzkram oder Krypto, weil ich einfach kein Interesse daran habe.  
 **Translation:** 
 
-**[1943.56s] English:** Ich hab kaum noch echte Leute gesehen, die über das Zeug geredet haben, weil das wie riesige Schwärme gewesen sind.  
-**Translation:** Vocabulary: benachrichtigungsfeed: 通知流; unbrauchbar: 无用的
+**[1927.38s] English:** Here's the project, not some finances.  
+**Translation:** Vocabulary: einfach: 简单; finances: 资金; finanzkram: 财务; interesse: 兴趣
 
-**[1948.28s] English:** Und alle haben mir Hashes geschickt.  
+**[1931.12s] English:** And, uh, well, they came in, locked everything up, and were really annoying.  
 **Translation:** 
 
-**[1951.54s] English:** Und sie haben alle versucht, mich dazu zu bringen, Gebühren zu beanspruchen.  
-**Translation:** Vocabulary: beanspruchen: 索要; geschickt: 发送; hashes: 哈希值
+**[1938.38s] English:** On Twitter, they have also constantly pinged me.  
+**Translation:** Vocabulary: pinged: 频繁私信
 
-**[1956.96s] English:** Wir helfen dem Projekt.  
+**[1940.74s] English:** My notification feed has been unusable.  
+**Translation:** 
+
+**[1943.56s] English:** I've hardly seen any real people talk about that stuff anymore, because they have been like huge swarms.  
+**Translation:** Vocabulary: swarms: 像 swarm; unusable: 无法使用
+
+**[1948.28s] English:** And all have sent me hashes.  
+**Translation:** 
+
+**[1951.54s] English:** And they have all tried to convince me to claim fees.  
+**Translation:** Vocabulary: hashes: 散列值
+
+**[1956.96s] English:** We help the project.  
 **Translation:** 
 
 **[1958.48s] English:** Mit Gebühren? Nein, ihr schadet dem Projekt eigentlich nur.  
-**Translation:** Vocabulary: eigentlich: 实际上
+**Translation:** Vocabulary: eigentlich: 实际上; schadet: 损害
 
-**[1961.68s] English:** Ihr habt meine Arbeit gestört und ich hab an irgendwelchen Gebühren überhaupt kein Interesse.  
+**[1961.68s] English:** You interrupted my work, and I have no interest in any fees at all.  
 **Translation:** 
 
 **[1966.16s] English:** Ähm, zuerst einmal bin ich finanziell abgesichert.  
-**Translation:** Vocabulary: abgesichert: 财务安全; finanziell: 财务的; irgendwelchen: 某些
+**Translation:** Vocabulary: abgesichert: 财务安全; finanziell: 财务的
 
-**[1971.22s] English:** Außerdem möchte ich das nicht unterstützen, weil es bisher die schlimmste Form der Online-Belästigung war, die ich erlebt habe.  
+**[1971.22s] English:** Additionally, I do not want to support this because it has been the worst form of online harassment I have experienced so far.  
 **Translation:** 
 
-**[1978.28s] English:** Ja, in der Krypto-Welt gibt es eine Menge Toxizität.  
-**Translation:** Vocabulary: schlimmste: 最糟糕的
+**[1978.28s] English:** Yes, in the crypto world, there is a lot of toxicity.  
+**Translation:** Vocabulary: crypto: 加密货币; harassment: 骚扰; toxicity: 毒化
 
-**[1981.88s] English:** Das ist echt schade, weil die Technologie hinter Kryptowährungen faszinierend und mächtig ist.  
+**[1981.88s] English:** This is really a shame, because the technology behind cryptocurrencies is fascinating and powerful.  
 **Translation:** 
 
 **[1987.36s] English:** Und vielleicht sogar die Zukunft des Geldes bestimmen wird.  
-**Translation:** Vocabulary: bestimmen: 决定; faszinierend: 令人着迷; technologie: 技术; vielleicht: 也许
+**Translation:** Vocabulary: bestimmen: 决定; cryptocurrencies: 加密货币; vielleicht: 也许; zukunft: 未来
 
-**[1990.56s] English:** Aber die Community drumherum ist einfach extrem toxisch gewesen.  
+**[1990.56s] English:** Aber die Community drumherum ist einfach extrem toxisch gewesen. (Note: The original German sentence does not require additional punctuation or capitalization in English.)  
 **Translation:** 
 
-**[1994.54s] English:** Da ist so viel Gier im Spiel, so viele Versuche, über Abkürzungen zu manipulieren, zu stehlen, zu snipen  
-**Translation:** Vocabulary: drumherum: 周围; manipulieren: 操控; spiel: 游戏; versuche: 尝试
+**[1994.54s] English:** There is so much greed in play, so many attempts to manipulate, steal, or sniper abbreviations.  
+**Translation:** Vocabulary: abbreviations: 缩写; drumherum: 周围; gewesen: 存在的; greed: 贪婪; manipulate: 操纵; sniper: 狙击手; toxisch: 有毒的
 
-**[2000.52s] English:** oder das System irgendwie auszutricksen, um an Kohle zu kommen.  
+**[2000.52s] English:** To trick the system somehow to get some coal.  
 **Translation:** 
 
-**[2003.80s] English:** Dieser ganze Kram eben.  
-**Translation:** Vocabulary: auszutricksen: 欺骗; irgendwie: somehow
-
-**[2005.62s] English:** Ich meine, das liegt wohl in der menschlichen Lage.  
+**[2003.80s] English:** This whole crap, really.  
 **Translation:** 
 
-**[2008.26s] English:** Das liegt in der Natur, wenn man sie mit Geld und Gier zusammenbringt.  
-**Translation:** Vocabulary: menschlichen: 人类的; zusammenbringt: 结合外
-
-**[2011.32s] English:** Besonders in der anonymen Online-Welt.  
+**[2005.62s] English:** I mean, that's probably just part of the human condition.  
 **Translation:** 
 
-**[2013.96s] English:** Aber aus der Engineering-Perspektive hat das dein Leben echt herausfordernd gemacht.  
-**Translation:** Vocabulary: anonymen: 匿名; besonders: 尤其; herausfordernd: 具挑战性; leben: 生活
-
-**[2019.12s] English:** Wenn Anthropic sich meldet, hast du eine Namensänderung durchziehen müssen.  
+**[2008.26s] English:** This lies in the nature of things when you combine money and greed.  
 **Translation:** 
 
-**[2023.20s] English:** Und dann sind da plötzlich diese Armeen wie bei Game of Thrones oder Herr der Ringe gewesen,  
-**Translation:** Vocabulary: durchziehen: 贯彻执行
-
-**[2028.24s] English:** auf die man ständig hat aufpassen müssen.  
+**[2011.32s] English:** Especially in the anonymous online world.  
 **Translation:** 
 
-**[2031.22s] English:** Es gab keinen perfekten Namen.  
-**Translation:** Vocabulary: aufpassen: 小心看管; namen: 名字; perfekten: 完美的
+**[2013.96s] English:** Aber, aus der engineering-perspective, hat das dein Leben echt herausfordernd gemacht.  
+**Translation:** Vocabulary: anonymous: 匿名; gemacht: 影响; herausfordernd: 具有挑战性; leben: 生活
 
-**[2033.26s] English:** Und ich konnte zwei Nächte lang nicht schlafen.  
+**[2019.12s] English:** When Anthropic responds, you must have undergone a name change.  
 **Translation:** 
 
-**[2036.24s] English:** Ich stand unter hohem Druck.  
-**Translation:** Vocabulary: nicht: 不; schlafen: 睡觉
+**[2023.20s] English:** Then suddenly, there were these armies, like in Game of Thrones or The Lord of the Rings.  
+**Translation:** Vocabulary: thrones: 王座; undergone: 经历
+
+**[2028.24s] English:** That which one has had to constantly keep an eye on.  
+**Translation:** 
+
+**[2031.22s] English:** There was no perfect name.  
+**Translation:** 
+
+**[2033.26s] English:** I could not sleep for two nights.  
+**Translation:** 
+
+**[2036.24s] English:** I stood under high pressure.  
+**Translation:** 
 
 **[2038.26s] English:** Ich...  
 **Translation:** 
 
 **[2040.00s] English:** Ich habe versucht, mir ein paar ordentliche Domains zu sichern. Das ist weder billig noch einfach gewesen, weil du heutzutage im Internet Domains im Grunde kaufen musst, wenn du eine gute Auswahl haben willst. Und dann ist noch eine E-Mail reingekommen, dass die Anwälte langsam unruhig geworden sind.  
-**Translation:** Vocabulary: geworden: 变得; heutzutage: 如今; ordentliche: 正规的; versucht: 尝试
+**Translation:** Vocabulary: auswahl: 选择; einfach: 简单; geworden: 变得; heutzutage: 如今; langsam: 逐渐; ordentliche: 正式的; reingekommen: 到来; sichern: 获取; unruhig: 不安; versucht: 尝试
 
-**[2059.88s] English:** Wieder freundlich, aber es hat meine ohnehin schon angespannte Lage nur noch stressiger gemacht. Zu dem Zeitpunkt habe ich mir dann einfach gedacht, scheiß drauf. Und ich habe es einfach in Moldboard umbenannt, weil ich dafür eben die Domains parat gehabt habe.  
+**[2059.88s] English:** Wieder freundlich, aber es hat meine ohnehin schon angespannte Lage nur noch stressiger gemacht. Zu dem Zeitpunkt habe ich mir dann einfach gedacht: Scheiß drauf. Und ich habe es einfach in Moldboard umbenannt, weil ich dafür eben die Domains parat gehabt habe.  
 **Translation:** 
 
-**[2077.50s] English:** Ich bin nicht wirklich glücklich gewesen, aber ich habe gedacht, dass das schon klar gehen wird. Und ich sage dir, alles, was hätte schief gehen können, ist auch schief gegangen. Wirklich alles. Es war echt unglaublich.  
-**Translation:** Vocabulary: angespannte: 紧张; freundlich: 友好; gegangen: 进行; moldboard: 模具; stressiger: 有压力; umbenannt: 改名; unglaublich: 难以置信; wirklich: 真正; zeitpunkt: 时间点
+**[2077.50s] English:** I wasn't really happy, but I thought that it would all work out in the end. And I'll tell you, everything that could have gone wrong did go wrong—really everything. It was incredibly unbelievable.  
+**Translation:** Vocabulary: angespannte: 紧张的; freundlich: 友好的; gedacht: 想; moldboard: 模具板; ohnehin: 本来已经; stressiger: 更令人压力大的; umbenannt: 改名; zeitpunkt: 时间点
 
-**[2089.88s] English:** Ich habe gedacht, ich habe das alles im Blick und mir all die wichtigen Dinge reserviert.  
+**[2089.88s] English:** I thought I had everything under control and reserved all those important things for myself.  
 **Translation:** 
 
-**[2098.02s] English:** Kannst du dazu mehr erzählen? Das ist aus der Perspektive eines Entwicklers sehr interessant.  
-**Translation:** Vocabulary: blick: 视野; dinge: 事物; entwicklers: 开发人员; interessant: 有趣; perspektive: 视角; reserviert: 保留
-
-**[2102.90s] English:** Das Interessante ist, dass keiner der Dienste einen Schutz gegen Squatter hat. Ich habe zwei Browserfenster offen gehabt. Eines war ein leeres Konto, bereit in Cloudboard umbenannt zu werden. Und das andere habe ich in Moldboard umbenannt. Also habe ich hier auf Umbenennen geklickt.  
+**[2098.02s] English:** Can you tell me more about it? This is very interesting from a developer's perspective.  
 **Translation:** 
 
-**[2119.88s] English:** Und dann dort auf dem anderen Bildschirm. Und in diesen fünf Sekunden haben sie den Kontonamen gestohlen.  
+**[2102.90s] English:** Das Interessante ist, dass keiner der Dienste einen Schutz gegen Squatter hat. Ich habe zwei Browserfenster offen gehalten. Eines war ein leeres Konto, bereit in Cloudboard umbenannt zu werden. Und das andere habe ich in Moldboard umbenannt. Also habe ich hier auf "Umbenennen" geklickt.  
 **Translation:** 
 
-**[2126.62s] English:** Die fünf Sekunden, die es dauerte, die Maus dorthin zu ziehen und auf Umbenennen zu klicken, waren einfach zu lang.  
+**[2119.88s] English:** Then on the other screen there. And within these five seconds, they stole the account name.  
+**Translation:** Vocabulary: browserfenster: 浏览器窗口; cloudboard: 云端板; dienste: 服务; gehalten: 保持; geklickt: 点击; interessante: 有趣的; schutz: 保护; squatter: 霸占者; umbenennen: 重命名
+
+**[2126.62s] English:** The five seconds it took to drag the mouse there and click Rename were simply too long.  
 **Translation:** 
 
-**[2133.74s] English:** Man würde erwarten, dass solche Systeme Schutzmechanismen oder eine automatische Weiterleitung haben. Aber so etwas gibt es dort nicht.  
-**Translation:** Vocabulary: automatische: 自动防护; erwarten: 期望; etwas: 一些; schutzmechanismen: 保护机制; sekunden: 秒; umbenennen: 重命名; weiterleitung: 重定向
+**[2133.74s] English:** Man would expect such systems to have protection mechanisms or an automatic forwarding feature. But such things do not exist there.  
+**Translation:** Vocabulary: rename: 重命名
 
-**[2143.54s] English:** Und ich habe nicht gewusst, dass sie nicht nur gut im Belästigen sind, sondern auch richtig gut darin.  
+**[2143.54s] English:** I did not know that they are not only good at bothering, but also really good at it.  
 **Translation:** 
 
-**[2149.88s] English:** Scripts und Tools zu benutzen.  
-**Translation:** Vocabulary: benutzen: 使用; darin: 在其中
+**[2149.88s] English:** Scripts and tools to use.  
+**Translation:** 
 
 **[2151.70s] English:** Ja.  
 **Translation:** 
 
-**[2153.08s] English:** Ja. Plötzlich hat das alte Konto neue Tokens beworben und Malware verteilt. Und ich habe mir gedacht...  
-**Translation:** Vocabulary: beworben: 申请; verteilt: 分发
+**[2153.08s] English:** Ja. Suddenly, the old account started requesting new tokens and distributing malware, and I thought...  
+**Translation:** Vocabulary: distributing: 分发
 
-**[2160.00s] English:** Okay, lasst uns zu Github rübergehen und ich habe auf Github auf Umbenennen geklickt.  
+**[2160.00s] English:** Okay, let's go to GitHub and I have clicked on Rename on GitHub.  
 **Translation:** 
 
-**[2169.00s] English:** Das Umbenennen bei Github ist etwas verwirrend, daher habe ich mein persönliches Konto umbenannt und in diesen, ich schätze mal, 30 Sekunden, die ich gebraucht habe, um meinen Fehler zu bemerken, haben sie mein Konto gesniped und haben Malware darüber verbreitet.  
-**Translation:** Vocabulary: bemerken: 注意到; gebraucht: 花费; geklickt: 点击; gesniped: 抢注; verbreitet: 传播; verwirrend: 令人困惑
+**[2169.00s] English:** The renaming on GitHub is a bit confusing. Therefore, I renamed my personal account and within these, I estimate about 30 seconds, which is the time it took me to notice my mistake, they sniped my account and spread malware over it.  
+**Translation:** Vocabulary: estimate: 估计; renamed: 重命名; renaming: 重命名; sniped: 抢注
 
-**[2183.62s] English:** Gut, dann lass uns wenigstens das NPM-Zeug machen. Aber das Hochladen dauert ungefähr eine Minute. Sie haben das NPM-Package geschnappt. Ich konnte das Konto reservieren, aber nicht das Root-Package. Also ist alles, was schiefgehen konnte, schiefgegangen?  
+**[2183.62s] English:** Gut, dann lass uns wenigstens das NPM-Zeug machen. Aber das Hochladen dauert ungefähr eine Minute. Sie haben das NPM-Package geschnappt. Ich konnte das Konto reservieren, aber nicht das Root-Package. Also ist alles, was schiefgehen könnte, schiefgegangen?  
 **Translation:** 
 
-**[2207.16s] English:** Darf ich mal eine neugierige Frage stellen? In dem Moment, in dem du da sitzt, wie mies fühlst du dich da?  
-**Translation:** Vocabulary: geschnappt: 获取; hochladen: 上传; machen: 做; neugierige: 好奇的; nicht: 不; reservieren: 预订; schiefgegangen: 出错; schiefgehen: 出错; wenigstens: 至少
+**[2207.16s] English:** May I ask a curious question? How do you feel at this moment, how bad is it sitting there?  
+**Translation:** Vocabulary: geschnappt: 获取; hochladen: 上传; machen: 做; nicht: 不; reservieren: 预订; schiefgegangen: 出错; schiefgehen: 出错; wenigstens: 至少
 
 **[2214.16s] English:** Das ist doch ein ziemlich hilfloses Gefühl, oder?  
 **Translation:** 
 
-**[2216.70s] English:** Ja, weil alles, was ich wollte, war Spaß mit dem Projekt zu haben und weiter daran zu arbeiten. Und jetzt bin ich hier, nach Tagen der Recherche nach Namen und habe einen Namen gewählt, den ich nicht mochte.  
-**Translation:** Vocabulary: arbeiten: 工作; hilfloses: 无助; namen: 名字; recherche: 研究; ziemlich: 相当
+**[2216.70s] English:** Ja, weil alles, was ich wollte, war Spaß mit dem Projekt zu haben und weiter daran zu arbeiten. Und jetzt bin ich hier, nach Tagen der Recherche nach Namen und habe einen Namen gewählt, den ich nicht mag.  
+**Translation:** Vocabulary: arbeiten: 工作; hilfloses: 无助; namen: 名字; projekt: 项目; recherche: 研究; ziemlich: 相当
 
-**[2232.10s] English:** Und Menschen, die behaupteten, sie hätten mir geholfen, machten mir das Leben auf jede erdenkliche Weise zur Hölle.  
+**[2232.10s] English:** And those who claimed to have helped me made my life hell in every possible way.  
 **Translation:** 
 
-**[2239.40s] English:** Und ehrlich gesagt, war ich so kurz davor.  
-**Translation:** Vocabulary: behaupteten: 声称; ehrlich: 说实话; erdenkliche: 想象; geholfen: 帮助; leben: 生活; menschen: 人们
+**[2239.40s] English:** Honestly speaking, I was so close.  
+**Translation:** 
 
-**[2243.62s] English:** Es einfach zu löschen. Ich habe euch die Zukunft gezeigt. Macht ihr es doch einfach.  
+**[2243.62s] English:** It's easy to delete. I showed you the future. Just do it.  
 **Translation:** 
 
 **[2250.44s] English:** Ja.  
 **Translation:** 
 
-**[2250.70s] English:** Ich glaube, diese Idee hätte mir bestimmt sehr viel Freude bereitet. Dann habe ich an all die Leute gedacht, die bereits dazu beigetragen haben und ich konnte es nicht tun. Sie hatten bereits Pläne damit und haben Zeit investiert. Es fühlte sich nicht richtig an.  
+**[2250.70s] English:** I believe this idea would have brought me a lot of joy. Then I thought about all the people who had already contributed to it, and I couldn't do it. They already had plans and invested time in it. It didn't feel right.  
 **Translation:** 
 
-**[2270.32s] English:** Ich glaube, viele, die das hören, sind zutiefst dankbar.  
-**Translation:** Vocabulary: beigetragen: 贡献; bereitet: 带来; bestimmt: 肯定; zutiefst: 最
-
-**[2273.62s] English:** Ich kann sehen, dass du durchgehalten hast. Aber ich kann sehen, dass das für dich ein Tiefpunkt war.  
+**[2270.32s] English:** I believe that many who hear this are deeply grateful.  
 **Translation:** 
 
-**[2279.06s] English:** Das erste Mal, als ich dich gesehen habe, war es so, dass ich mich nicht mehr so gut erinnert habe, wie ich es mir vorgestellt habe.  
-**Translation:** Vocabulary: durchgehalten: 坚持下来; erinnert: 回忆; tiefpunkt: 低点; vorgestellt: 设想
-
-**[2280.44s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2273.62s] English:** Ich kann sehen, dass du durchgehalten hast. But I can see that this was a low point for you.  
 **Translation:** 
 
-**[2280.46s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2279.06s] English:** The first time I saw you, it was such that I didn't remember as well as I had imagined.  
+**Translation:** Vocabulary: durchgehalten: 坚持下来
+
+**[2280.00s] English:** Dass es keinen Spaß mehr gemacht hat, Mann! Ich war fast am Weinen. Es war okay, alles ist im...  
 **Translation:** 
 
-**[2280.48s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2280.44s] English:** I have not remembered as well as I had imagined.  
+**Translation:** Vocabulary: gemacht: 做
+
+**[2280.46s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2280.54s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2280.48s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2280.56s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2280.54s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2280.60s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2280.56s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2280.66s] English:** Ich habe mich nicht mehr so gut erinnert, wie ich es mir vorgestellt habe.  
+**[2280.60s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2280.00s] English:** dass es keinen spaß mehr gemacht hat man ich war fast am weinen es war okay alles ist im  
+**[2280.66s] English:** I have not remembered as well as I had imagined.  
 **Translation:** 
 
-**[2287.94s] English:** eimer ja ich bin total müde und jetzt wie macht man das überhaupt rückgängig zum glück und  
+**[2287.94s] English:** Eimer, ja, ich bin total müde. Und jetzt, wie macht man das überhaupt rückgängig? Zum Glück.  
 **Translation:** 
 
-**[2303.28s] English:** dankenswerterweise habe ich schon eine kleine anhängerschaft gehabt ich habe freunde bei  
-**Translation:** Vocabulary: dankenswerterweise: 幸亏
+**[2303.28s] English:** Dankenswerterweise habe ich schon eine kleine Anhängerschaft gehabt. Ich habe Freunde bei...  
+**Translation:** Vocabulary: dankenswerterweise: 幸亏; eimer: 桶; freunde: 朋友
 
-**[2308.20s] English:** twitter gehabt ich habe freunde bei github gehabt die himmel und erde in bewegung gesetzt  
+**[2308.20s] English:** Twitter, I had friends on GitHub who moved heaven and earth.  
 **Translation:** 
 
-**[2312.52s] English:** haben um mir zu helfen das ist nicht einfach github hat versucht das chaos aufzuräumen und  
-**Translation:** Vocabulary: bewegung: 移动; versucht: 试图
+**[2312.52s] English:** Haben sie um mir zu helfen, das ist nicht einfach. GitHub hat versucht, das Chaos aufzuräumen, und  
+**Translation:** Vocabulary: einfach: 简单
 
-**[2322.38s] English:** dann sind sie auf plattform fehler gestoßen weil es nicht so oft passiert dass dinge auf  
+**[2322.38s] English:** Dann, sind sie auf Plattform-Fehler gestoßen, weil es nicht so oft passiert, dass Dinge auf  
 **Translation:** 
 
-**[2327.70s] English:** dieser ebene umbenannt werden sie haben ein paar stunden gebraucht die npm sachen sind  
-**Translation:** Vocabulary: dinge: 事情; gebraucht: 花费; nicht: 不; passiert: 发生; plattform: 平台; umbenannt: 重命名
+**[2327.70s] English:** This level can be renamed; they have taken a few hours to handle the npm tasks.  
+**Translation:** Vocabulary: dinge: 事物; nicht: 不; passiert: 发生; renamed: 重命名
 
-**[2333.46s] English:** noch schwieriger gewesen weil das ein ganz anderes team ist und  
+**[2333.46s] English:** It had been even more difficult because that was a completely different team, and  
 **Translation:** 
 
-**[2338.20s] English:** bei twitter waren die dinge auch nicht einfach sie haben einen tag gebraucht um  
-**Translation:** Vocabulary: schwieriger: 更加困难
-
-**[2344.96s] English:** die umleitung wirklich zu machen und dann musste ich auch alles im projekt umbenennen und war da  
+**[2338.20s] English:** At Twitter, things weren't easy either; they took a day to resolve it.  
 **Translation:** 
 
-**[2358.64s] English:** noch klagt habe da habe ich das umbenennen noch nicht einmal abgeschlossen ich habe es geschafft  
-**Translation:** Vocabulary: abgeschlossen: 完成; geschafft: 做到; machen: 做; umbenennen: 改名; umleitung: 转向; wirklich: 真正
-
-**[2368.20s] English:** machen, aber dann gab es über Nacht  
+**[2344.96s] English:** To make the real redirection, and then I also had to rename everything in the project and was there  
 **Translation:** 
 
-**[2370.34s] English:** einen Kollaps und dann bin ich  
+**[2358.64s] English:** Noch klagt habe, da habe ich das Umbenennen noch nicht einmal abgeschlossen. Ich habe es geschafft.  
+**Translation:** Vocabulary: abgeschlossen: 完成; geschafft: 做到; rename: 重命名; umbenennen: 重命名
+
+**[2368.20s] English:** Machen, but then there was overnight.  
 **Translation:** 
 
-**[2372.16s] English:** aufgewacht  
+**[2370.34s] English:** Ein Kollaps, and then I am.  
+**Translation:** Vocabulary: kollaps: 崩溃; machen: 做
+
+**[2372.16s] English:** Awakened  
 **Translation:** 
 
-**[2372.66s] English:** und habe eine Beta-Version  
-**Translation:** Vocabulary: aufgewacht: 醒来
+**[2372.66s] English:** And I have a beta version.  
+**Translation:** Vocabulary: awakened: 苏醒的
 
-**[2376.18s] English:** für die neuen Sachen gemacht.  
+**[2376.18s] English:** For the new things made.  
 **Translation:** 
 
-**[2377.78s] English:** konnte einfach nicht mit dem Namen leben.  
-**Translation:** Vocabulary: leben: 生活; namen: 名字
-
-**[2382.88s] English:** Es gab einfach so viel Drama.  
+**[2377.78s] English:** Could simply not live with the name.  
 **Translation:** 
 
-**[2385.22s] English:** Ich hatte wirklich  
+**[2382.88s] English:** There was just so much drama.  
 **Translation:** 
 
-**[2385.92s] English:** Schwierigkeiten damit. Ich wollte  
+**[2385.22s] English:** I had really  
 **Translation:** 
 
-**[2388.14s] English:** das nie wieder anfassen  
+**[2385.92s] English:** Schwierigkeiten damit. Ich wollte.  
+**Translation:** 
+
+**[2388.14s] English:** Das nie wieder anfassen!  
 **Translation:** Vocabulary: anfassen: 接触; schwierigkeiten: 困难
 
-**[2389.32s] English:** und ich mochte  
+**[2389.32s] English:** And I liked  
 **Translation:** 
 
-**[2392.20s] English:** den Namen wirklich nicht.  
+**[2392.20s] English:** I really don't like its name.  
 **Translation:** 
 
-**[2393.46s] English:** Also und es gab auch  
+**[2393.46s] English:** Also, and there was also.  
 **Translation:** 
 
-**[2400.00s] English:** all die Sicherheitsleute, die mir wie verrückt E-Mails schickten.  
-**Translation:** Vocabulary: schickten: 发送; sicherheitsleute: 安全人员
-
-**[2406.06s] English:** Ich wurde auf Twitter und per E-Mail bombardiert.  
+**[2400.00s] English:** All the security guards kept sending me crazy emails.  
 **Translation:** 
 
-**[2409.08s] English:** Eigentlich waren da tausend andere Dinge, die ich tun sollte.  
-**Translation:** Vocabulary: bombardiert: 攻击; eigentlich: 实际上
-
-**[2413.34s] English:** Und ich dachte über den Namen nach.  
+**[2406.06s] English:** I was bombarded on Twitter and via email.  
 **Translation:** 
 
-**[2415.78s] English:** Das sollte eigentlich nicht das Wichtigste sein.  
-**Translation:** Vocabulary: wichtigste: 最重要
+**[2409.08s] English:** Eigentlich were there a thousand other things I should have done.  
+**Translation:** Vocabulary: bombarded: 受到猛烈攻击; eigentlich: 其实
 
-**[2421.76s] English:** Dann war ich so kurz davor.  
+**[2413.34s] English:** And I thought about the name.  
+**Translation:** 
+
+**[2415.78s] English:** This should not be the most important thing.  
+**Translation:** 
+
+**[2421.76s] English:** Then I was so close.  
 **Translation:** 
 
 **[2428.30s] English:** Oh Gott.  
 **Translation:** 
 
-**[2430.00s] English:** Ich will ehrlich gesagt nicht einmal meine anderen Namensoptionen nennen,  
+**[2430.00s] English:** I will honestly say that I do not even want to mention my other name options,  
 **Translation:** 
 
-**[2434.08s] English:** weil sie wahrscheinlich auseinandergepflückt werden.  
-**Translation:** Vocabulary: ehrlich: 诚实; namensoptionen: 名字选项; wahrscheinlich: 可能
-
-**[2437.84s] English:** Aber ich habe nochmal darüber geschlafen.  
+**[2434.08s] English:** Because they are probably best kept separate.  
 **Translation:** 
 
-**[2442.08s] English:** Und dann kam mir die Idee für OpenClaw.  
-**Translation:** Vocabulary: geschlafen: 再次睡觉
-
-**[2445.46s] English:** Das fühlte sich viel besser an.  
+**[2437.84s] English:** Aber I have thought about it again while sleeping.  
 **Translation:** 
 
-**[2447.34s] English:** Damit meine ich, dass ich den Boss-Move gemacht habe,  
+**[2442.08s] English:** Then, I came up with the idea for OpenClaw.  
 **Translation:** 
 
-**[2449.44s] English:** tatsächlich Sam angerufen zu haben, um zu fragen, ob OpenClaw in Ordnung ist.  
+**[2445.46s] English:** This felt much better.  
 **Translation:** 
 
-**[2454.90s] English:** OpenClaw.ai, weißt du, weil...  
-**Translation:** Vocabulary: angerufen: 打电话
+**[2447.34s] English:** Dammit, I mean that I made the boss move.  
+**Translation:** Vocabulary: dammit: 该死的
 
-**[2457.60s] English:** Du wolltest nicht schon wieder das alles durchmachen.  
+**[2449.44s] English:** Actually, Sam called to check if OpenClaw is in order.  
+**Translation:** 
+
+**[2454.90s] English:** OpenClaw.ai, do you know why...?  
+**Translation:** 
+
+**[2457.60s] English:** You didn't want to go through all of this again.  
 **Translation:** 
 
 **[2460.00s] English:** Hoffentlich ist das jetzt der endgültige Name.  
-**Translation:** Vocabulary: durchmachen: 经历; hoffentlich: 希望; nicht: 不; wolltest: 想要
+**Translation:** Vocabulary: hoffentlich: 希望
 
-**[2463.84s] English:** Ich denke nicht, dass sie da eine rechtliche Grundlage hätten.  
+**[2463.84s] English:** I think they don't have a legal basis for that.  
 **Translation:** 
 
 **[2467.12s] English:** Aber es hat sich richtig angefühlt.  
-**Translation:** Vocabulary: grundlage: 基础; rechtliche: 法律的
+**Translation:** Vocabulary: richtig: 正确
 
-**[2471.60s] English:** Und ich habe weiter unbenannt.  
+**[2471.60s] English:** And I have continued unnamed.  
 **Translation:** 
 
-**[2474.68s] English:** Allein Codex hat etwa zehn Stunden gedauert.  
-**Translation:** Vocabulary: codex: 手稿; gedauert: 花费; unbenannt: 未命名
+**[2474.68s] English:** The Codex took about ten hours to complete.  
+**Translation:** Vocabulary: codex: 手稿
 
-**[2476.90s] English:** Das Projekt umzubenennen war etwas komplizierter als nur suchen und ersetzen.  
+**[2476.90s] English:** Renaming the project was more complicated than just searching and replacing.  
 **Translation:** 
 
-**[2482.00s] English:** Ich wollte, dass alles unbenannt wird.  
-**Translation:** Vocabulary: ersetzen: 替换; etwas: 有些; komplizierter: 复杂; umzubenennen: 重新命名
+**[2482.00s] English:** Ich wollte, dass alles unbemannt wird.  
+**Translation:** Vocabulary: renaming: 改名; unbemannt: 无人驾驶
 
-**[2483.64s] English:** Nicht nur das Oberflächliche.  
+**[2483.64s] English:** Not just the superficial.  
 **Translation:** 
 
-**[2486.88s] English:** Und bei diesem Prozess habe ich das Gefühl,  
+**[2486.88s] English:** During this process, I have the feeling,  
+**Translation:** Vocabulary: superficial: 表面的
+
+**[2489.94s] English:** I would have had my own War Room.  
 **Translation:** 
 
-**[2489.94s] English:** ich hätte meinen eigenen War Room.  
+**[2492.50s] English:** At the time, several contributors had already stepped up to help me.  
+**Translation:** Vocabulary: contributors: 贡献者
+
+**[2496.06s] English:** We have a whole plan for all the names we had to secure.  
 **Translation:** 
 
-**[2492.50s] English:** Zu der Zeit haben schon einige Mitwirkende bereitgestanden, um mir zu helfen.  
-**Translation:** Vocabulary: bereitgestanden: 准备就绪; mitwirkende: 参与者
-
-**[2496.06s] English:** Wir haben einen ganzen Plan für alle Namen gemacht, die wir sichern mussten.  
+**[2498.98s] English:** Did you have to keep that completely secret?  
 **Translation:** 
 
-**[2498.98s] English:** Und du musstest das ganz geheim halten?  
-**Translation:** Vocabulary: musstest: 必须; namen: 名字
-
-**[2500.86s] English:** Ja, niemand konnte es wissen.  
+**[2500.86s] English:** Ja, nobody could know it.  
 **Translation:** 
 
-**[2503.50s] English:** Ich habe die ganze Zeit auf Twitter geschaut, ob es Erwähnungen von OpenClaw gab.  
-**Translation:** Vocabulary: geschaut: 查看
-
-**[2507.32s] English:** Und während ich neu geladen habe, dachte ich, okay, sie erwarten noch nichts.  
+**[2503.50s] English:** I have been checking Twitter the whole time to see if there were any mentions of OpenClaw.  
 **Translation:** 
 
-**[2512.60s] English:** Dann habe ich ein paar Ablenkungsnamen erstellt.  
-**Translation:** Vocabulary: ablenkungsnamen: 分散注意力的人名; erstellt: 创建; erwarten: 期望; nichts: nothing
-
-**[2515.04s] English:** Und all diesen Kram sollte ich eigentlich nicht machen müssen, weißt du?  
+**[2507.32s] English:** While I was reloading, I thought, okay, they don't expect anything yet.  
 **Translation:** 
 
-**[2518.08s] English:** Es schadet dem Projekt.  
-**Translation:** Vocabulary: machen: 做
+**[2512.60s] English:** Dann, I created a few distraction names.  
+**Translation:** Vocabulary: distraction: 分散注意力; reloading: 重新装弹
 
-**[2519.94s] English:** Genau.  
+**[2515.04s] English:** All of this stuff, I shouldn't have to do, you know?  
 **Translation:** 
+
+**[2518.08s] English:** It harms the project.  
+**Translation:** 
+
+**[2519.94s] English:** Exactly.  
+**Translation:** 
+
+**[2520.00s] English:** I have lost 10 hours, just because I had to plan all of this in full secrecy, like a war game.  
+**Translation:** Vocabulary: secrecy: 秘密
 
 **[2521.02s] English:** Doch?  
 **Translation:** 
 
-**[2525.70s] English:** Ich glaube, ich habe  
+**[2525.06s] English:** Ja, that is like the Manhattan Project of the 21st century.  
 **Translation:** 
 
-**[2531.42s] English:** nur die Letzte Chance,  
+**[2525.70s] English:** I believe I have  
 **Translation:** 
 
-**[2536.40s] English:** wenn ich überhaupt auch noch was richtig  
+**[2529.02s] English:** So dumb. I thought maybe I should keep it?  
 **Translation:** 
 
-**[2539.22s] English:** am Given miejsc.  
+**[2531.42s] English:** Only the Last Chance,  
 **Translation:** 
 
-**[2544.86s] English:** Eigentlich nächste Wocheété.  
+**[2533.52s] English:** But I have simply not warmed up to it.  
 **Translation:** 
 
-**[2548.94s] English:** Ich möchte mal mal sehen.  
-**Translation:** Vocabulary: eigentlich: 实际上
-
-**[2549.06s] English:** So, und dann missioniert mich das.  
+**[2536.40s] English:** When I actually have to get something right,  
 **Translation:** 
 
-**[2549.30s] English:** Und wenn ich irgendwie nicht in sự 왜�rud mijn 향 sight, dann sage ich dass, das ist wahrscheinlich hier im Tipps-ich-maß Coronavirus-Palette.  
-**Translation:** Vocabulary: irgendwie: somehow; missioniert: 传教
-
-**[2549.84s] English:** Ich glaube, das ist wirklich das Gehen para training.  
+**[2536.88s] English:** Then, I finally gathered all the parts together.  
 **Translation:** 
 
-**[2520.00s] English:** Ich habe 10 Stunden verloren, nur weil ich das alles in voller Geheimhaltung planen musste, wie ein Kriegsspiel.  
-**Translation:** Vocabulary: geheimhaltung: 保密; kriegsspiel: 战争游戏; verloren: 丢失; wirklich: 确实
-
-**[2525.06s] English:** Ja, das ist wie das Manhattan-Projekt des 21. Jahrhunderts.  
+**[2539.22s] English:** Given 12345.  
 **Translation:** 
 
-**[2529.02s] English:** So dumm. Ich dachte immer noch, soll ich es behalten?  
-**Translation:** Vocabulary: behalten: 保留; jahrhunderts: 世纪
-
-**[2533.52s] English:** Aber ich bin damit einfach nicht warm geworden.  
+**[2541.50s] English:** I didn't get a dotcom, but I spent quite a bit of money on other domains.  
 **Translation:** 
 
-**[2536.88s] English:** Und dann habe ich schließlich alle Teile zusammen gehabt.  
-**Translation:** Vocabulary: geworden: 产生; zusammen: 一起
-
-**[2541.50s] English:** Ich habe keine Dotcom bekommen, aber habe ziemlich viel Geld für andere Domains ausgegeben.  
+**[2544.86s] English:** Eigentlich, nächsten Wochen.  
 **Translation:** 
 
-**[2547.12s] English:** Ich habe nochmal versucht, GitHub zu kontaktieren, aber ich glaube, ich habe dort all meine guten Beziehungen aufgebraucht.  
-**Translation:** Vocabulary: aufgebraucht: 用完; ausgegeben: 支出; bekommen: 获得; beziehungen: 关系; kontaktieren: 联系; versucht: 尝试; ziemlich: 相当
+**[2547.12s] English:** I have tried contacting GitHub again, but I believe I have exhausted all my good relationships there.  
+**Translation:** Vocabulary: eigentlich: 其实
 
-**[2555.80s] English:** Ich wollte, dass sie diese Sache atomar machen, aber das ist nicht passiert, also habe ich das als erstes gemacht.  
+**[2548.94s] English:** Ich möchte mal sehen.  
 **Translation:** 
 
-**[2563.06s] English:** Die Leute bei Twitter haben mich wirklich sehr unterstützt.  
-**Translation:** Vocabulary: passiert: 发生
-
-**[2566.36s] English:** Ich habe tatsächlich 10.000 US-Dollar für den Business-Account bezahlt, damit ich mir OpenClaw sichern konnte.  
+**[2549.06s] English:** So, and then it missions me.  
 **Translation:** 
 
-**[2574.44s] English:** Der Name ist seit 2016 nicht mehr genutzt worden.  
+**[2549.30s] English:** And if I somehow don't see it in my sight, then I say that, this is probably here in the Tips-I-Mass Coronavirus Palette.  
 **Translation:** 
 
-**[2577.12s] English:** Ist aber schon belegt gewesen.  
+**[2549.84s] English:** I believe that is really walking for training.  
+**Translation:** Vocabulary: coronavirus: 冠状病毒; palette: 调色板
+
+**[2555.80s] English:** Ich wollte, dass sie diese Sache atomic machen, aber das ist nicht passiert, also habe ich das als erstes gemacht.  
 **Translation:** 
 
-**[2579.76s] English:** Und ja, dann habe ich schließlich, dieses Mal habe ich alles in einem Rutsch hinbekommen.  
-**Translation:** Vocabulary: hinbekommen: 办成
+**[2563.06s] English:** The people at Twitter have really supported me a lot.  
+**Translation:** Vocabulary: gemacht: 做成; machen: 做; nicht: 不; passiert: 发生
 
-**[2585.50s] English:** Fast gar nichts ist schiefgegangen.  
+**[2566.36s] English:** I have actually paid $10,000 for the Business Account so that I could secure OpenClaw.  
 **Translation:** 
 
-**[2587.44s] English:** Das Einzige, was ich doch vermasselt habe, ist, dass wegen der Markenregeln habe ich OpenClaw.ai nicht bekommen dürfen.  
-**Translation:** Vocabulary: markenregeln: 品牌规则; nicht: 不; schiefgegangen: 出错; vermasselt: 搞砸了
-
-**[2596.06s] English:** Jemand hat die Website nachgebaut, um Malware zu verbreiten.  
+**[2574.44s] English:** The name has not been used since 2016.  
 **Translation:** 
 
-**[2599.78s] English:** Ja, ich habe nicht einmal die Weiterleitungen behalten dürfen.  
+**[2577.12s] English:** It had been reserved, however.  
 **Translation:** 
 
-**[2603.92s] English:** Ich habe Anthropic die Domains zurückgegeben.  
+**[2579.76s] English:** And finally, this time I managed to get everything done in one go.  
 **Translation:** 
 
-**[2607.12s] English:** Und habe keine Weiterleitungen einrichten können.  
-**Translation:** Vocabulary: einrichten: 设置; weiterleitungen: 重定向
-
-**[2610.58s] English:** Wenn du also nächste Woche auf Cloud Punkt Bot gehst, wird das einfach ein 404 sein.  
+**[2585.50s] English:** Fast, gar nichts ist schiefgegangen.  
 **Translation:** 
 
-**[2617.24s] English:** Und ich bin mir nicht sicher, wie das mit dem Markenrecht ist.  
-**Translation:** Vocabulary: markenrecht: 商标权; punkt: 点
+**[2587.44s] English:** The only thing I messed up was that, due to the brand rules, I wasn't allowed to get OpenClaw.ai.  
+**Translation:** Vocabulary: messed: 搞砸了
+
+**[2596.06s] English:** Someone has rebuilt the website to spread malware.  
+**Translation:** 
+
+**[2599.78s] English:** Ja, I have not even been allowed to keep the forwarding addresses.  
+**Translation:** 
+
+**[2603.92s] English:** I have returned the domains to Anthropic.  
+**Translation:** 
+
+**[2607.12s] English:** I have been unable to set up any further redirects.  
+**Translation:** 
+
+**[2610.58s] English:** When you go to CloudBot next week, it will simply be a 404.  
+**Translation:** 
+
+**[2617.24s] English:** I am not sure how the trademark rights work.  
+**Translation:** Vocabulary: trademark: 注册商标
 
 **[2624.64s] English:** Ich habe nicht so viel im Markenrecht recherchiert, aber ich denke, man könnte das sicherer regeln.  
 **Translation:** 
 
-**[2631.00s] English:** Schließlich googeln die Leute dann und finden vielleicht Malware-Seiten, auf die ich...  
-**Translation:** Vocabulary: recherchiert: 调查; sicherer: 更安全; vielleicht: 可能
+**[2631.00s] English:** Finally, people google and then find malware pages, on which I...  
+**Translation:** Vocabulary: markenrecht: 商标法; recherchiert: 调查; sicherer: 更安全
 
-**[2640.00s] English:** überhaupt keinen Einfluss habe.  
+**[2640.00s] English:** has no influence at all.  
 **Translation:** 
 
-**[2642.08s] English:** Der Punkt ist einfach.  
-**Translation:** Vocabulary: einfluss: 毫无影响
-
-**[2643.98s] English:** Die ganze Geschichte hat den Spaß an der Sache  
+**[2642.08s] English:** The point is simple.  
 **Translation:** 
 
-**[2645.84s] English:** ordentlich vermiest. Und das  
-**Translation:** Vocabulary: geschichte: 故事; ordentlich: 彻底; vermiest: 破坏
-
-**[2647.76s] English:** ist echt ätzend. Also komm,  
+**[2643.98s] English:** The whole story has taken away the fun of it.  
 **Translation:** 
 
-**[2650.34s] English:** lass uns jetzt wieder zu den angenehmen  
-**Translation:** Vocabulary: angenehmen: 令人愉快的
+**[2645.84s] English:** Ordentlich vermiest. Und das.  
+**Translation:** Vocabulary: ordentlich: 整齐地; vermiest: 破坏
 
-**[2652.02s] English:** Dingen kommen. Und wo wir  
+**[2647.76s] English:** It's really frustrating. So come,  
 **Translation:** 
 
-**[2654.00s] English:** gerade von Spaß reden,  
+**[2650.34s] English:** Let's now return to the pleasant  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
+
+**[2652.02s] English:** Dinge kommen. Und wo wir  
 **Translation:** 
 
-**[2655.92s] English:** genau in der Zeit ist ja auch diese  
+**[2654.00s] English:** Just talking about fun,  
+**Translation:** Vocabulary: dinge: 事情
+
+**[2655.92s] English:** Exactly at that time is when this also occurred.  
 **Translation:** 
 
-**[2657.82s] English:** zweitägige Moldbot-  
+**[2657.82s] English:** Zweitägige MoldBot-  
 **Translation:** 
 
-**[2660.46s] English:** Saga entstanden, aus der  
+**[2660.46s] English:** Saga Entstanden, aus der  
 **Translation:** 
 
-**[2661.98s] English:** dann Moldbook hervorgegangen  
+**[2661.98s] English:** Dan Moldbook hervorgegangen.  
 **Translation:** Vocabulary: entstanden: 产生; hervorgegangen: 衍生
 
-**[2663.92s] English:** ist. Ja. Das ist ja  
+**[2663.92s] English:** First, yes. That is indeed.  
 **Translation:** 
 
-**[2665.94s] English:** auch so eine Sache gewesen, die total viral  
-**Translation:** Vocabulary: viral: 广泛传播的
+**[2665.94s] English:** Such a thing that was totally viral.  
+**Translation:** Vocabulary: viral: 病毒性的
 
-**[2667.96s] English:** gegangen ist. Quasi  
+**[2667.96s] English:** Gangen ist. Quasi.  
 **Translation:** 
 
-**[2670.00s] English:** als Paradebeispiel  
-**Translation:** Vocabulary: gegangen: 走过; paradebeispiel: 示例
+**[2670.00s] English:** As a parade example,  
+**Translation:** Vocabulary: parade: 检阅
 
-**[2671.42s] English:** dafür, wie man das, was jetzt  
+**[2671.42s] English:** For how to do that, what now,  
 **Translation:** 
 
-**[2673.64s] English:** Open Claw heißt, nutzen kann,  
+**[2673.64s] English:** Open Claw means, can use,  
 **Translation:** 
 
-**[2675.86s] English:** um etwas richtig Geniales auf die Beine  
+**[2675.86s] English:** Um etwas wirklich Geniales auf die Beine zu bringen,  
 **Translation:** 
 
-**[2677.96s] English:** zu stellen. Für alle, die  
-**Translation:** Vocabulary: etwas: 一些; geniales: 精彩的
+**[2677.96s] English:** To pose. For all those  
+**Translation:** Vocabulary: bringen: 带来; etwas: 一些; geniales: 精彩的; wirklich: 真正地
 
-**[2679.88s] English:** es nicht mitbekommen haben. Moldbook  
+**[2679.88s] English:** Es ist nicht mitgekommen haben. Moldbook  
 **Translation:** 
 
-**[2681.90s] English:** ist im Grunde nur ein Haufen Agents, die  
-**Translation:** Vocabulary: moldbook: 模版书
+**[2681.90s] English:** Is it, in the end, just a bunch of agents, who  
+**Translation:** Vocabulary: nicht: 不
 
-**[2683.88s] English:** sich in einem sozialen Netzwerk im Reddit-Stil  
+**[2683.88s] English:** In a social network in the Reddit-style  
 **Translation:** 
 
-**[2685.90s] English:** miteinander unterhalten. Viele Leute  
-**Translation:** Vocabulary: miteinander: 彼此; netzwerk: 网络; sozialen: 社交的; unterhalten: 交流
+**[2685.90s] English:** Miteinander unterhalten. Viele Leute.  
+**Translation:** Vocabulary: miteinander: 彼此; unterhalten: 交流
 
-**[2688.02s] English:** haben dann Screenshots davon gemacht,  
+**[2688.02s] English:** Have then screenshots of it been made?  
 **Translation:** 
 
-**[2689.86s] English:** wie diese Agents Dinge tun. Zum Beispiel  
-**Translation:** Vocabulary: beispiel: 例子; davon: 关于; dinge: 事情
-
-**[2692.12s] English:** wie sie gegen die Menschheit  
+**[2689.86s] English:** How these agents do things, for example,  
 **Translation:** 
 
-**[2693.58s] English:** intrigieren.  
-**Translation:** Vocabulary: intrigieren: 勾结; menschheit: 人类
-
-**[2695.70s] English:** Das hat bei den Leuten eine Art von  
+**[2692.12s] English:** How they fought against humanity.  
 **Translation:** 
 
-**[2697.96s] English:** Du weißt schon. Angst, Panik  
-**Translation:** Vocabulary: angst: 恐惧
+**[2693.58s] English:** Intrigue.  
+**Translation:** Vocabulary: intrigue: 阴谋诡计
 
-**[2700.02s] English:** und Hype ausgelöst. Was denkst  
+**[2695.70s] English:** This has given people an odd reaction of  
 **Translation:** 
 
-**[2701.98s] English:** du allgemein über Moldbook?  
-**Translation:** Vocabulary: allgemein: 一般意义上
-
-**[2704.74s] English:** Ich glaube, es ist Kunst.  
+**[2697.96s] English:** You know. Fear, panic.  
 **Translation:** 
 
-**[2706.48s] English:** Ich denke,  
+**[2700.02s] English:** And hype was triggered. What do you think?  
 **Translation:** 
 
-**[2708.06s] English:** es ist der feinste Slop. Also  
+**[2701.98s] English:** Do you know anything general about Moldbook?  
 **Translation:** 
 
-**[2710.06s] English:** der Slop aus Frankreich  
-**Translation:** Vocabulary: frankreich: 法国
-
-**[2712.22s] English:** sozusagen.  
+**[2704.74s] English:** I believe it is art.  
 **Translation:** 
 
-**[2716.76s] English:** Ich habe das noch kurz  
-**Translation:** Vocabulary: sozusagen: 大致上
-
-**[2717.90s] English:** vor dem Schlafengehen gesehen.  
+**[2706.48s] English:** I think,  
 **Translation:** 
 
-**[2720.30s] English:** Obwohl ich total müde gewesen bin,  
-**Translation:** Vocabulary: schlafengehen: 睡觉前
-
-**[2722.94s] English:** habe ich noch eine Stunde  
+**[2708.06s] English:** It is the finest slop. Also,  
 **Translation:** 
 
-**[2723.76s] English:** damit verbracht, mir das alles  
+**[2710.06s] English:** The slop from France  
+**Translation:** 
+
+**[2712.22s] English:** So zügig.  
+**Translation:** 
+
+**[2716.76s] English:** I have just briefly  
+**Translation:** 
+
+**[2717.90s] English:** Before going to bed, seen.  
+**Translation:** 
+
+**[2720.30s] English:** Although I was totally tired,  
+**Translation:** 
+
+**[2722.94s] English:** Habe ich noch eine Stunde?  
+**Translation:** 
+
+**[2723.76s] English:** Damit verbracht, mir das alles.  
 **Translation:** Vocabulary: verbracht: 花费
 
-**[2725.80s] English:** durchzulesen. Das hat mich  
+**[2725.80s] English:** To durchlesen. Das hat mich.  
 **Translation:** 
 
-**[2727.82s] English:** einfach mega unterhalten.  
-**Translation:** Vocabulary: durchzulesen: 仔细阅读
+**[2727.82s] English:** Simply mega entertainment.  
+**Translation:** Vocabulary: durchlesen: 仔细阅读
 
-**[2730.60s] English:** Ich habe mich richtig gut amüsiert.  
+**[2730.60s] English:** I have really enjoyed myself.  
 **Translation:** 
 
-**[2732.08s] English:** Verstehst du?  
+**[2732.08s] English:** Do you understand?  
 **Translation:** 
 
-**[2734.20s] English:** Ich habe die Reaktion gesehen  
+**[2734.20s] English:** I have seen the reaction.  
 **Translation:** 
 
-**[2735.54s] English:** und da hat mich sogar  
-**Translation:** Vocabulary: reaktion: 反应
-
-**[2737.28s] English:** ein Reporter angerufen und gefragt,  
+**[2735.54s] English:** And there, even more surprisingly,  
 **Translation:** 
 
-**[2739.96s] English:** ist das jetzt das Ende der Welt  
-**Translation:** Vocabulary: angerufen: 被打电话
-
-**[2741.38s] English:** und haben wir die AGI erreicht?  
+**[2737.28s] English:** A reporter called and asked,  
 **Translation:** 
 
-**[2744.30s] English:** Und ich habe nur geantwortet,  
-**Translation:** Vocabulary: erreicht: 达到; geantwortet: 回答
-
-**[2745.62s] English:** nein. Das ist einfach nur  
+**[2739.96s] English:** Is this now the end of the world?  
 **Translation:** 
 
-**[2747.18s] English:** verdammt guter Slop. Wenn ich nicht  
-**Translation:** Vocabulary: nicht: 不; verdammt: damn
-
-**[2749.26s] English:** dieses ganze Onboarding-Erlebnis geschaffen hätte,  
+**[2741.38s] English:** When will we have achieved AGI?  
 **Translation:** 
 
-**[2751.76s] English:** bei dem du deinen Agent mit  
-**Translation:** Vocabulary: geschaffen: 创造
-
-**[2753.22s] English:** deiner eigenen Persönlichkeit fütterst und  
+**[2744.30s] English:** And I have only answered,  
 **Translation:** 
 
-**[2755.20s] English:** dem Aids und Charakter verpasst,  
-**Translation:** Vocabulary: charakter: 性格
-
-**[2757.82s] English:** dann hat das meiner Meinung nach eine Menge ausgemacht.  
+**[2745.62s] English:** No, that's simply  
 **Translation:** 
 
-**[2760.00s] English:** Die Reaktionen auf Moldbook sind nämlich nur deshalb so ausgefallen, wenn das alles bloß Chad GPT oder Claude Einheitsbrei gewesen wäre, hätte das ganz anders gewirkt. Es wäre alles viel mehr vom selben gewesen. Aber weil die Leute einfach so verschieden sind und ihre Agents auf so unterschiedliche Weise erschaffen und nutzen, hat sich das am Ende auch darin wieder gespiegelt, wie sie dort schreiben.  
-**Translation:** Vocabulary: ausgefallen: 出人意料; ausgemacht: 决定; darin: 其中; einheitsbrei: 千篇一律; erschaffen: 创造; gespiegelt: 反映; reaktionen: 反应; schreiben: 写作; unterschiedliche: 不同; verschieden: 不同
+**[2747.18s] English:** Verdammter guter Slop. Wenn ich nicht  
+**Translation:** Vocabulary: verdammter: 该死的
 
-**[2783.10s] English:** Man weiß gar nicht, wie viel davon wirklich autonom passiert ist. Oder wie viel davon einfach nur Menschen gewesen sind, die witzig sein wollten und dem Agent gesagt haben, hey, schreib mal auf Moldbook über den geheimen Plan zum Weltuntergang.  
+**[2749.26s] English:** This entire onboarding experience could have been created,  
 **Translation:** 
 
-**[2795.92s] English:** Also ich glaube, mein Kritikpunkt an Moldbook ist folgender. Ich glaube, dass ein Großteil der Sachen, von denen Screenshots gemacht worden sind, durch menschliche Prompts entstanden ist.  
-**Translation:** Vocabulary: entstanden: 产生; folgender: 接下来的; geheimen: 秘密; kritikpunkt: 批评点; menschen: 人类; menschliche: 人工; passiert: 发生; weltuntergang: 世界末日; wirklich: 真正
+**[2751.76s] English:** At the place where you meet your agent,  
+**Translation:** Vocabulary: onboarding: 入职
 
-**[2807.56s] English:** Wenn ich mir anschaue, mit welcher Motivation das Ganze genutzt worden ist, ist es zumindest für mich offensichtlich.  
+**[2753.22s] English:** Deiner eigenen Persönlichkeit fütterst und  
 **Translation:** 
 
-**[2813.10s] English:** Viele Leute haben das Ding nur deshalb gepromptet, damit sie danach Screenshots machen und diese auf X posten können, um damit viral zu gehen.  
-**Translation:** Vocabulary: anschaue: 查看; machen: 制作; offensichtlich: 明显; viral: 病毒式传播; welcher: 哪个; zumindest: 至少
+**[2755.20s] English:** Dem Aid and character, he missed out on.  
+**Translation:** Vocabulary: eigenen: 自己的
 
-**[2820.88s] English:** Das ändert aber nichts am künstlerischen Aspekt der Sache. Es ist einfach der feinste Slop, den Menschen jemals erschaffen haben.  
+**[2757.82s] English:** Dann, in meiner Meinung, hat das viele ausgemacht.  
 **Translation:** 
 
-**[2829.90s] English:** Ohne Witz. Hut ab vor Matt, der diese Idee so schnell gehabt und das Ding einfach rausgehauen hat.  
-**Translation:** Vocabulary: nichts: 无关紧要; rausgehauen: 创作出来; schnell: 迅速
+**[2760.00s] English:** The reactions to Moldbook are, in fact, so varied only because if it had all been just Chad GPT or Claude Mixture, it would have been very different. It would have been much more uniform. But because people are simply so diverse and their agents create and use them in such different ways, this is reflected in how they write there in the end.  
+**Translation:** Vocabulary: ausgemacht: 决定; meinung: 观点; mixture: 混合物; moldbook: 模版书; reactions: 反应; varied: 多样
+
+**[2783.10s] English:** Man weiß gar nicht, wie viel davon wirklich autonom passiert ist. Oder wie viel davon einfach nur Menschen gewesen sind, die witzig sein wollten und dem Agenten gesagt haben: "Hey, schreib mal auf Moldbook über den geheimen Plan zum Weltuntergang.  
+**Translation:** 
+
+**[2795.92s] English:** Also, I believe my critique of Moldbook is as follows: I believe that a large portion of the things for which screenshots were taken were created through human prompts.  
+**Translation:** Vocabulary: agenten: 代理; autonom: 自主; critique: 批评; davon: 其中; einfach: 简单地; geheimen: 秘密的; gewesen: 存在; menschen: 人类; passiert: 发生; prompts: 提示; schreib: 写作; weltuntergang: 世界末日; wirklich: 真正地; wollten: 想要
+
+**[2807.56s] English:** When I examine with which motivation this has been used, it is at least obvious to me.  
+**Translation:** 
+
+**[2813.10s] English:** Many people prompted the thing just so they could make screenshots and post them on X to go viral.  
+**Translation:** Vocabulary: prompted: 促使; viral: 病毒式传播
+
+**[2820.88s] English:** Das ändert aber nichts am künstlerischen Aspekt der Sache. Es ist einfach der feinste Slop, den Menschen je erschaffen haben.  
+**Translation:** 
+
+**[2829.90s] English:** Ohne Witz. Hut ab, vor Matt, who had this idea so quickly and just ran with it.  
+**Translation:** Vocabulary: erschaffen: 创造; feinste: 最细的; nichts: nothing
 
 **[2836.10s] English:** Klar, die ganze Geschichte ist in Sachen Security total unsicher gewesen. Ein echtes Drama.  
 **Translation:** 
@@ -2419,476 +2420,479 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[2842.70s] English:** Aber mal ehrlich.  
 **Translation:** Vocabulary: ehrlich: 诚实; geschichte: 故事; unsicher: 不安全
 
-**[2843.10s] English:** Was ist denn das Schlimmste, was passieren kann? Dass dein Agent-Account geleakt wird und dann jemand anderes für dich Slop posten kann?  
+**[2843.10s] English:** What is the worst that can happen? That your agent account gets leaked, and someone else can post slop for you?  
 **Translation:** 
 
-**[2851.22s] English:** Die Leute haben wegen der Sicherheit so einen Aufstand gemacht, während ich mir nur gedacht habe, da drin ist doch gar nichts Privates.  
-**Translation:** Vocabulary: aufstand: 轩然大波; passieren: 发生; schlimmste: 最糟糕; sicherheit: 安全
-
-**[2857.52s] English:** Das sind einfach nur Agents, die Slop verschicken.  
+**[2851.22s] English:** People have made such a fuss about security while I just thought there was nothing private in there.  
 **Translation:** 
 
-**[2859.44s] English:** Es könnte API-Schlüssel liegen.  
-**Translation:** Vocabulary: verschicken: 发送
-
-**[2861.22s] English:** Ja, genau. Da gibt es so etwas wie, ach ja, mein Mensch hat mir dies und das erzählt, also verrate ich seine Sicherheitsnummer.  
+**[2857.52s] English:** These are just agents sending out slop.  
 **Translation:** 
 
-**[2867.02s] English:** Nein, das war nur ein Prompt. Und die Nummer war nicht einmal echt. Das sind nur Leute, die versuchen, Aufmerksamkeit zu erregen.  
-**Translation:** Vocabulary: aufmerksamkeit: 引起注意; etwas: 一些东西; mensch: 人; seine: 他的; sicherheitsnummer: 安全号码; versuchen: 试图
-
-**[2874.06s] English:** Ja, aber das ist für mich immer noch wirklich besorgniserregend. Wegen der Reaktion der Journalisten und der allgemeinen Öffentlichkeit darauf.  
+**[2859.44s] English:** It could be that the API keys are lying.  
 **Translation:** 
 
-**[2879.34s] English:** Sie haben es nicht...  
-**Translation:** Vocabulary: allgemeinen: 一般公众
-
-**[2880.00s] English:** gesehen. Du hast eine Art lockere Art darüber zu sprechen, als wäre es Kunst. Aber es ist Kunst,  
+**[2861.22s] English:** Ja, genau. Da gibt es so etwas wie: Ach, ja, mein Mensch hat mir dies und das erzählt, also verrate ich seine Sicherheitsnummer.  
 **Translation:** 
 
-**[2886.10s] English:** wenn du weißt, wie es funktioniert. Das Ganze ist eine extrem mächtige Maschine, um virale  
-**Translation:** Vocabulary: funktioniert: 工作; maschine: 机器; sprechen: 谈论
+**[2867.02s] English:** No, that was just a prompt. And the number wasn't even real. They're just people trying to gain attention.  
+**Translation:** Vocabulary: etwas: 一些东西
 
-**[2890.86s] English:** Narrative zu erschaffen und Panik zu schüren, wenn man nicht weiß, wie sie funktioniert. Ich  
+**[2874.06s] English:** Ja, aber das ist für mich immer noch really concerning. Because of the reaction of the journalists and the general public to it.  
 **Translation:** 
 
-**[2895.88s] English:** habe das Ding einfach nur beobachtet und du hast ja sogar getwittert, wenn ich aus diesem wahnsinnigen  
-**Translation:** Vocabulary: beobachtet: 观察; erschaffen: 创造; getwittert: 发推文; nicht: 不; wahnsinnigen: 疯狂的
-
-**[2900.48s] English:** Strom an Nachrichten, die ich bekomme, irgendetwas herauslesen kann, dann, dass eine KI-Psychose  
+**[2879.34s] English:** You have not...  
 **Translation:** 
 
-**[2906.38s] English:** existiert und man sie ernst nehmen muss. Das ist sie absolut. Manche Leute sind einfach viel  
-**Translation:** Vocabulary: ernst: 严肃; existiert: 存在; herauslesen: 读出; manche: 一些; nachrichten: 消息; strom: 流
-
-**[2912.60s] English:** zu leichtgläubig. Ich habe wortwörtlich mit Leuten diskutieren müssen, die mir gesagt haben,  
+**[2880.00s] English:** Gesehen. You have a rather casual way of talking about it as if it were just art, but it is indeed art.  
 **Translation:** 
 
-**[2918.82s] English:** aber meine Agents sagen dies und jenes. Ich habe das Gefühl, wir als Gesellschaft haben  
+**[2886.10s] English:** When you know how it works, the whole thing is an extremely powerful machine for viral.  
+**Translation:** 
+
+**[2890.86s] English:** Narrative to create and panic to stir when you don't know how they work. I  
+**Translation:** 
+
+**[2895.88s] English:** Has the thing just been observing, and you even tweeted about it when I was away from this insane situation?  
+**Translation:** 
+
+**[2900.48s] English:** From the news I receive, if I can read anything out of it, then it's about an AI psychosis.  
+**Translation:** 
+
+**[2906.38s] English:** Exists and must be taken seriously. That is absolutely true. Some people are simply much  
+**Translation:** Vocabulary: psychosis: 精神失常
+
+**[2912.60s] English:** Zu leichtgläubig. Ich habe wortwörtlich mit Leuten diskutieren müssen, die mir gesagt haben,  
+**Translation:** 
+
+**[2918.82s] English:** Aber meine Agents sagen dies und jenes. Ich habe das Gefühl, wir als Gesellschaft haben.  
 **Translation:** Vocabulary: diskutieren: 讨论; gesellschaft: 社会
 
-**[2929.02s] English:** Nachholbedarf beim Verständnis, dass KI zwar extrem mächtig ist, aber nicht so, wie es  
+**[2929.02s] English:** Nachholbedarf beim Verständnis: dass KI zwar extrem mächtig ist, aber nicht so, wie es  
 **Translation:** 
 
-**[2936.38s] English:** nicht unfehlbar ist. Sie ist nicht allmächtig. Besonders bei solchen Sachen passiert es  
+**[2936.38s] English:** Nicht unfehlbar ist. Sie ist nicht allmächtig. Besonders bei solchen Sachen passiert es.  
+**Translation:** Vocabulary: besonders: 尤其是; nachholbedarf: 需要复习; nicht: 不; passiert: 发生; solchen: 这类的; unfehlbar: 不可错的
+
+**[2944.54s] English:** It's extremely light that she might simply be hallucinating or making up a story. I believe,  
 **Translation:** 
 
-**[2944.54s] English:** extrem leicht, dass sie einfach etwas halluziniert oder sich eine Geschichte ausdenkt. Ich glaube,  
+**[2954.54s] English:** Die ganz jungen Leute verstehen das, wie künstliche Intelligenz funktioniert und worin.  
+**Translation:** Vocabulary: funktioniert: 运行; hallucinating: 幻觉; intelligenz: 智能; verstehen: 理解
+
+**[2962.32s] English:** She is good and where she is bad. But the older ones...  
 **Translation:** 
 
-**[2954.54s] English:** die ganz jungen Leute verstehen das, wie künstliche Intelligenz funktioniert und worin  
-**Translation:** Vocabulary: ausdenkt: 编造; halluziniert: 幻觉; intelligenz: 智能; verstehen: 理解
+**[2966.38s] English:** They just haven't had enough touchpoints yet to get a feel for it, oh yes.  
+**Translation:** Vocabulary: touchpoints: 接触点
 
-**[2962.32s] English:** sie gut ist und worin schlecht. Aber die Älteren...  
+**[2976.20s] English:** This is really powerful and really good, but I have to think critically. And I think,  
 **Translation:** 
 
-**[2966.38s] English:** hatten einfach noch nicht genug Berührungspunkte, um ein Gefühl dafür zu bekommen, oh ja,  
-**Translation:** Vocabulary: bekommen: 获得; schlecht: 不好
+**[2982.20s] English:** Critical thinking is not always strongly prevalent in our society these days.  
+**Translation:** Vocabulary: critically: 仔细地; prevalent: 普遍的
 
-**[2976.20s] English:** das ist wirklich mächtig und wirklich gut, aber ich muss kritisch denken. Und ich denke,  
+**[2989.10s] English:** I think that's a very good point. We must properly place artificial intelligence.  
 **Translation:** 
 
-**[2982.20s] English:** kritisches Denken ist heutzutage in unserer Gesellschaft nicht immer stark verbreitet.  
-**Translation:** Vocabulary: heutzutage: 如今; kritisch: 批判地; kritisches: 批判的; stark: 强烈; verbreitet: 普及; wirklich: 真正
-
-**[2989.10s] English:** Ich finde, das ist ein sehr guter Punkt. Man muss künstliche Intelligenz richtig einordnen,  
+**[2995.24s] English:** But also check-in.  
 **Translation:** 
 
-**[2995.24s] English:** aber auch Check-in.  
-**Translation:** Vocabulary: einordnen: 归类; punkt: 要点
-
-**[2996.38s] English:** dass Menschen hinter der künstlichen Intelligenz gezielt  
+**[2996.38s] English:** That people behind the artificial intelligence target  
 **Translation:** 
 
-**[3000.00s] English:** Drama-Farming betreiben. Vertraut keinen Screenshots. Vertraut nicht mal diesem Projekt. Maltbook.  
-**Translation:** Vocabulary: betreiben: 经营; menschen: 人类; vertraut: 信任
+**[3000.00s] English:** Drama—Farming is being conducted. Don't trust any screenshots. Don't even trust this project. Macbook.  
+**Translation:** Vocabulary: macbook: MacBook
 
-**[3007.94s] English:** Oder dass es wirklich das ist, was es vorgibt zu sein. Und übrigens, wenn du von Kunst sprichst,  
+**[3007.94s] English:** Or that it is really what it purports to be. And by the way, if you're talking about art,  
 **Translation:** 
 
-**[3015.04s] English:** Kunst findet auf vielen Ebenen statt. Ein Teil der Kunst von Maltbook ist es, der Gesellschaft  
-**Translation:** Vocabulary: maltbook: 马尔特博; sprichst: 提及
+**[3015.04s] English:** Kunst findet auf vielen Ebenen statt. Ein Teil der Kunst von Maltbook ist es, der Gesellschaft zu reflektieren.  
+**Translation:** Vocabulary: gesellschaft: 社会; purports: 声称; reflektieren: 反映
 
-**[3019.22s] English:** einen Spiegel vorzuhalten. Ich bin nämlich davon überzeugt, dass der Großteil des dramatischen  
+**[3019.22s] English:** To hold up a mirror. I am, in fact, convinced that the majority of the dramatic  
 **Translation:** 
 
-**[3023.92s] English:** Stoffs, von dem Screenshots gemacht worden sind, im Grunde von Menschen erschaffen wurde. Von  
-**Translation:** Vocabulary: davon: 此事; dramatischen: 戏剧性的; erschaffen: 创造; spiegel: 镜子; vorzuhalten: 展示
+**[3023.92s] English:** Stoffs, von dem Screenshots gemacht worden sind, im Grunde von Menschen erschaffen wurden.  
+**Translation:** Vocabulary: erschaffen: 创造; gemacht: 制作; menschen: 人类
 
-**[3028.82s] English:** Menschen gepromptet. Es heißt also eigentlich nur, schau mal, wie viel Angst du vor ein paar Bots  
+**[3028.82s] English:** Menschen gepromptet. Es heißt also eigentlich nur: Schau mal, wie viel Angst du vor ein paar Bots!  
 **Translation:** 
 
-**[3033.84s] English:** kriegst, die miteinander chatten. Das ist sehr lehrreich. Ich denke zwar, dass man sich über  
-**Translation:** Vocabulary: angst: 恐惧; eigentlich: 实际上; gepromptet: 被提示; lehrreich: 有教育意义; miteinander: 彼此
+**[3033.84s] English:** Kriegst, die mit einander chatten. Das ist sehr lehrreich. Ich denke zwar, dass man sich über  
+**Translation:** Vocabulary: angst: 恐惧; chatten: 聊天; eigentlich: 实际上; einander: 彼此; gepromptet: 被提示; kriegst: 你会; lehrreich: 有教育意义
 
-**[3039.74s] English:** künstliche Intelligenz Gedanken machen und vorsichtig sein muss, weil es eine extrem  
+**[3039.74s] English:** Artificial Intelligence should think carefully and be cautious because it is extremely  
 **Translation:** 
 
-**[3045.28s] English:** mächtige Technologie ist, aber gleichzeitig ist das Einzige, was wir fürchten müssen,  
-**Translation:** Vocabulary: gedanken: 思考; gleichzeitig: 同时; machen: 做; technologie: 技术; vorsichtig: 谨慎
+**[3045.28s] English:** Mächtige Technologie ist, aber gleichzeitig ist das einzige, was wir fürchten müssen:,  
+**Translation:** Vocabulary: einzige: 唯一的; gleichzeitig: 同时; technologie: 技术
 
-**[3050.08s] English:** die Furcht selbst. Es ist also ein schmaler Grat. Man muss ernsthaft besorgt sein,  
+**[3050.08s] English:** Die Furcht selbst. Es ist also ein schmaler Grat. Man muss ernsthaft besorgt sein.  
 **Translation:** 
 
-**[3054.72s] English:** darf aber keine Panik schüren. Denn Panikmache zerstört die Chance,  
-**Translation:** Vocabulary: ernsthaft: 严肃; panikmache: 恐慌; schmaler: 狭窄
+**[3054.72s] English:** Darf aber keine Panik schüren. Denn Panikmache zerstört die Chance,  
+**Translation:** Vocabulary: besorgt: 担心; ernsthaft: 严肃; panikmache: 恐慌; schmaler: 狭窄
 
-**[3058.82s] English:** mit einer Sache etwas wirklich Besonderes zu erschaffen.  
+**[3058.82s] English:** To create something really special with one thing.  
 **Translation:** 
 
-**[3061.92s] English:** Ich finde, es ist in gewisser Weise gut, dass das im Jahr 2026 passiert ist und nicht erst 2030,  
-**Translation:** Vocabulary: besonderes: 特别; etwas: 事情; gewisser: 某种程度上; nicht: 不; passiert: 发生
+**[3061.92s] English:** Ich finde, es ist in gewisser Weise gut, dass es im Jahr 2026 passiert ist und nicht erst 2030.  
+**Translation:** Vocabulary: gewisser: 某种程度上; nicht: 不是; passiert: 发生
 
-**[3069.20s] English:** wenn künstliche Intelligenz tatsächlich auf einem Level ist, auf dem sie beängstigend sein könnte.  
+**[3069.20s] English:** When artificial intelligence actually reaches a level where it could be concerning.  
 **Translation:** 
 
-**[3075.20s] English:** Also, das passiert jetzt und die Leute fangen eine Diskussion an.  
-**Translation:** Vocabulary: diskussion: 讨论; intelligenz: 智能
-
-**[3083.36s] English:** Vielleicht kommt sogar etwas Gutes dabei heraus.  
+**[3075.20s] English:** Also, this is happening now, and people are starting a discussion.  
 **Translation:** 
 
-**[3087.50s] English:** Ich habe einfach  
-**Translation:** Vocabulary: vielleicht: 也许
-
-**[3088.82s] English:** nicht fassen können, wie viele Leute das ernst genommen haben. Ich habe keine Ahnung,  
+**[3083.36s] English:** Maybe something good will come out of it.  
 **Translation:** 
 
-**[3094.52s] English:** ob die nur getrollt haben, aber wie viele wirklich kluge Köpfe Maltbook allen Ernstes  
-**Translation:** Vocabulary: ernst: 认真; genommen: 对待; getrollt: 搞梗; kluge: 聪明
+**[3087.50s] English:** Ich habe einfach.  
+**Translation:** Vocabulary: einfach: 简单
 
-**[3099.02s] English:** für die Singularität gehalten haben. Ich hatte viele Leute in meinem Postfach,  
+**[3088.82s] English:** I cannot fathom how many people took it seriously. I have no idea.  
 **Translation:** 
 
-**[3102.44s] English:** die mich in Großbuchstaben angeschrien haben, es abzuschalten und mich angefleht haben,  
-**Translation:** Vocabulary: abzuschalten: 关闭
-
-**[3107.70s] English:** etwas gegen Maltbook zu unternehmen. Ja, meine Technologie hat das viel einfacher gemacht,  
+**[3094.52s] English:** Ob they just pulled a prank, but how many really smart heads are seriously considering Maltebook?  
 **Translation:** 
 
-**[3115.32s] English:** aber jeder hätte das erstellen können und  
-**Translation:** Vocabulary: einfacher: 更简单; erstellen: 创建; unternehmen: 采取
-
-**[3118.82s] English:** ich glaube, das ist das Wichtigste, was man tun kann.  
+**[3099.02s] English:** For the singularity, I had many people in my inbox.  
 **Translation:** 
 
-**[3120.00s] English:** Du kannst Cloud-Code oder andere Modelle verwenden, um es mit Inhalten zu füllen.  
-**Translation:** Vocabulary: inhalten: 填充内容; verwenden: 使用; wichtigste: 最重要的
+**[3102.44s] English:** Diejenigen, die mich in Großbuchstaben angeschrien haben, es abzuschalten, und mich angefleht haben,,  
+**Translation:** Vocabulary: abzuschalten: 关掉; angefleht: 恳求; angeschrien: 喊叫; diejenigen: 那些人
 
-**[3123.78s] English:** Moldbook ist aber nicht Skynet.  
+**[3107.70s] English:** To do something against Malware. Yes, my technology has made that much easier.  
 **Translation:** 
 
-**[3125.88s] English:** Es haben eine Menge Leute gesagt, das war es jetzt, oder schaltet es ab.  
-**Translation:** Vocabulary: schaltet: 开关
+**[3115.32s] English:** Aber jeder hätte das erstellen können und  
+**Translation:** Vocabulary: erstellen: 创建
 
-**[3130.92s] English:** Was habt ihr denn?  
+**[3118.82s] English:** I believe, that is the most important thing one can do.  
 **Translation:** 
 
-**[3132.40s] English:** Das ist ein Haufen Bots, die durch menschliche Prompts getrollt haben.  
-**Translation:** Vocabulary: menschliche: 人类的
-
-**[3136.58s] English:** Ich meine, die Sicherheitsbedenken sind natürlich da.  
+**[3120.00s] English:** You can use Cloud Code or other models to fill in the content.  
 **Translation:** 
 
-**[3139.84s] English:** Sie sind lehrreich, und es ist wahrscheinlich gut, darüber nachzudenken.  
+**[3123.78s] English:** Moldbook is, however, not Skynet.  
 **Translation:** 
 
-**[3144.24s] English:** Die Art dieser Sicherheitsrisiken unterscheidet sich nämlich von den Problemen,  
+**[3125.88s] English:** They have said many people that it was now, or to switch it off.  
+**Translation:** Vocabulary: moldbook: 模版图书
+
+**[3130.92s] English:** What do you have there?  
 **Translation:** 
 
-**[3148.00s] English:** die wir früher bei Systemen hatten, die nicht durch Large-Language-Models gesteuert worden sind.  
-**Translation:** Vocabulary: gesteuert: 控制; problemen: 问题; sicherheitsrisiken: 安全风险; systemen: 系统; unterscheidet: 区别
+**[3132.40s] English:** This is a bunch of bots that have been triggered by human prompts.  
+**Translation:** Vocabulary: prompts: 提示
 
-**[3154.24s] English:** Es gibt auch viele Sicherheitsbedenken bezüglich des Cloud-Bot, Open-Cloud oder wie auch immer du es nennen willst.  
+**[3136.58s] English:** I mean, the security concerns are naturally there.  
+**Translation:** 
+
+**[3139.84s] English:** They are instructive, and it is probably good to think about them.  
+**Translation:** Vocabulary: instructive: 有教育意义的
+
+**[3144.24s] English:** The nature of these security risks differs from the problems,  
+**Translation:** 
+
+**[3148.00s] English:** Die Systems, die wir früher hatten und nicht durch Large-Language-Models gesteuert wurden,  
+**Translation:** Vocabulary: differs: 不同; gesteuert: 控制; nicht: 不
+
+**[3154.24s] English:** There are also many security concerns regarding the cloud bot, open-cloud, or whatever you want to call it.  
 **Translation:** 
 
 **[3159.88s] English:** Open-Cloud-Bot.  
-**Translation:** Vocabulary: sicherheitsbedenken: 安全顾虑
-
-**[3161.24s] English:** Am Anfang war ich einfach nur sehr genervt, weil viele der Dinge, die eintrafen, in die Kategorie fielen.  
 **Translation:** 
 
-**[3170.40s] English:** Ja, ich habe das Web-Backend ins öffentliche Internet gestellt,  
-**Translation:** Vocabulary: dinge: 事情; eintrafen: 发生; gestellt: 发布; kategorie: 类别
-
-**[3174.28s] English:** und jetzt gibt es all diese...  
+**[3161.24s] English:** At the beginning, I was simply very annoyed because many of the things that occurred fell into that category.  
 **Translation:** 
 
-**[3178.00s] English:** Concurrent-Version-Systeme.  
+**[3170.40s] English:** Ja, I have deployed the web backend to the public internet,  
+**Translation:** Vocabulary: backend: 后端; deployed: 部署
+
+**[3174.28s] English:** And now there are all these...  
 **Translation:** 
 
-**[3180.66s] English:** Ich habe in der Dokumentation quasi geschrien, mach das nicht.  
+**[3178.00s] English:** Concurrent Version Systems.  
+**Translation:** Vocabulary: concurrent: 同时发生的
+
+**[3180.66s] English:** I have basically screamed in the documentation: don't do that.  
 **Translation:** 
 
-**[3184.00s] English:** Ich habe genau erklärt, dass das die Konfiguration ist, die man verwenden sollte,  
-**Translation:** Vocabulary: dokumentation: 文档; geschrien: 喊叫; konfiguration: 配置; nicht: 不要
+**[3184.00s] English:** I have explained exactly that this is the configuration that should be used.  
+**Translation:** Vocabulary: configuration: 配置
 
-**[3188.00s] English:** und dass das nur die lokale Debug-Schnittstelle für den Lokalhost ist.  
+**[3188.00s] English:** And that's just the local debug interface for the localhost.  
 **Translation:** 
 
-**[3193.00s] English:** Aber weil ich es in der Konfiguration eben möglich gemacht habe, das so zu nutzen,  
-**Translation:** Vocabulary: lokalhost: 本地主机
+**[3193.00s] English:** Aber, weil ich es in der Konfiguration eben möglich gemacht habe, das so zu nutzen,  
+**Translation:** Vocabulary: gemacht: 设置; interface: 接口; konfiguration: 配置; localhost: 本地主机
 
-**[3196.50s] English:** ist es sofort als Remote Code Execution, oder wie auch immer diese ganzen Exploits heißen, eingestuft worden.  
+**[3196.50s] English:** Is it immediately classified as Remote Code Execution, or however these exploits are otherwise known?  
 **Translation:** 
 
-**[3203.76s] English:** Und ich habe ein bisschen gebraucht, um zu akzeptieren, dass das Spiel eben so läuft,  
-**Translation:** Vocabulary: akzeptieren: 接受; bisschen: 一点; eingestuft: 定性; exploits: 漏洞; gebraucht: 花费; spiel: 游戏
+**[3203.76s] English:** And I had to take a little bit of time to accept that the game just works that way.  
+**Translation:** Vocabulary: execution: 执行; exploits: 漏洞
 
-**[3207.76s] English:** und wir haben sehr viel Fortschritt gemacht.  
+**[3207.76s] English:** And we have made a lot of progress.  
 **Translation:** 
 
-**[3212.76s] English:** Aber ich meine, bei der Sicherheit von Open-Cloud gibt es immer noch eine Menge Bedrohungen durch Schwachstellen, oder?  
-**Translation:** Vocabulary: bedrohungen: 威胁; fortschritt: 进展; schwachstellen: 漏洞; sicherheit: 安全
+**[3212.76s] English:** But I mean, when it comes to the security of open cloud, there are still a lot of threats due to vulnerabilities, or?  
+**Translation:** Vocabulary: vulnerabilities: 弱点
 
-**[3219.76s] English:** Also Prompt Injection ist immer noch ein ungelöstes Problem in der gesamten Branche.  
+**[3219.76s] English:** Also, prompt injection is still an unsolved problem throughout the entire industry.  
 **Translation:** 
 
-**[3226.76s] English:** Wenn du ein Ding hast, bei dem die Skills in einem Markdown-File definiert sind,  
+**[3226.76s] English:** When you have something where the skills are defined in a Markdown file,  
+**Translation:** Vocabulary: injection: 注入; markdown: 轻量标记; prompt: 提示; unsolved: 未解决
+
+**[3231.76s] English:** There are so many obvious, easily achievable targets.  
 **Translation:** 
 
-**[3231.76s] English:** dann gibt es so viele Möglichkeiten für offensichtliche, leicht erreichbare Ziele.  
-**Translation:** 
+**[3236.76s] English:** Aber, eben auch unglaublich komplizierte Ziele.  
+**Translation:** Vocabulary: achievable: 可实现的; komplizierte: 复杂的; unglaublich: 难以置信的
 
-**[3236.76s] English:** Aber eben auch unglaublich komplizierte Ziele.  
-**Translation:** Vocabulary: erreichbare: 容易实现的; komplizierte: 复杂的; offensichtliche: 明显的; unglaublich: 难以置信的
-
-**[3240.00s] English:** ausgeklügelte und nuancierte Attack Vectors.  
+**[3240.00s] English:** Well-crafted and nuanced attack vectors.  
 **Translation:** 
 
 **[3244.62s] English:** Aber ich glaube, wir haben an dieser Front gute Fortschritte gemacht.  
-**Translation:** Vocabulary: fortschritte: 进展; nuancierte: 细腻的
+**Translation:** Vocabulary: fortschritte: 进展; nuanced: 细腻; vectors: 攻击途径
 
-**[3248.90s] English:** Zum Beispiel für das Skill Directory von Cloudbot.  
+**[3248.90s] English:** For example, for the Skill Directory of Cloudbot.  
 **Translation:** 
 
-**[3252.46s] English:** Ich habe eine Kooperation mit Virus Total gestartet.  
-**Translation:** Vocabulary: beispiel: 示例
+**[3252.46s] English:** I have started a cooperation with VirusTotal.  
+**Translation:** Vocabulary: cloudbot: 云机器人
 
-**[3254.88s] English:** Das gehört ja zu Google, sodass jetzt jeder Skill  
+**[3254.88s] English:** This belongs to Google, so now everyone can access it.  
 **Translation:** 
 
-**[3257.20s] English:** durch künstliche Intelligenz geprüft wird.  
-**Translation:** Vocabulary: intelligenz: 人工智能
-
-**[3260.30s] English:** Das wird zwar nicht perfekt sein,  
+**[3257.20s] English:** Through artificial intelligence, it is reviewed.  
 **Translation:** 
 
-**[3261.78s] English:** aber dadurch haben wir schon eine Menge abgefangen.  
-**Translation:** Vocabulary: abgefangen: 拦截下来
-
-**[3266.44s] English:** Natürlich hat jede Software Bugs.  
+**[3260.30s] English:** This will not be perfect, albeit.  
 **Translation:** 
 
-**[3267.82s] English:** Deshalb ist es gerade ein bisschen viel,  
+**[3261.78s] English:** However, thereby we have already caught a lot.  
+**Translation:** Vocabulary: albeit: 尽管如此
+
+**[3266.44s] English:** Of course, every software has bugs.  
 **Translation:** 
 
-**[3271.08s] English:** wenn die gesamte Security-Welt  
+**[3267.82s] English:** Therefore, it is just a little bit too much.  
 **Translation:** 
 
-**[3272.66s] English:** dein Projekt gleichzeitig auseinander nimmt.  
-**Translation:** Vocabulary: auseinander: 拆开; gleichzeitig: 同时
-
-**[3276.62s] English:** Aber es ist eben auch gut, weil ich dadurch quasi  
+**[3271.08s] English:** When the entire security world  
 **Translation:** 
 
-**[3278.52s] English:** eine Menge kostenlose Sicherheitsforschung bekomme  
-**Translation:** Vocabulary: kostenlose: 免费的; sicherheitsforschung: 安全研究
+**[3272.66s] English:** Dein Projekt gleichzeitig auseinander nimmt.  
+**Translation:** Vocabulary: auseinander: 拆开; gleichzeitig: 同时; projekt: 项目
 
-**[3280.76s] English:** und das Projekt besser machen kann.  
+**[3276.62s] English:** Aber es ist eben auch gut, weil ich dadurch quasi.  
 **Translation:** 
 
-**[3282.70s] English:** Ich wünschte mir, Leute würden den Weg wirklich zu Ende gehen  
-**Translation:** Vocabulary: machen: 改进; wirklich: 真正
+**[3278.52s] English:** I receive a lot of free security research.  
+**Translation:** Vocabulary: dadurch: 因此
 
-**[3285.14s] English:** und einen Pull Request schicken  
+**[3280.76s] English:** And that can make the project better.  
 **Translation:** 
 
-**[3287.18s] English:** oder mir tatsächlich helfen, die Fehler zu beheben.  
-**Translation:** Vocabulary: schicken: 发送
-
-**[3290.20s] English:** Denn ich habe zwar inzwischen einige Contributors,  
+**[3282.70s] English:** I wish people would really see the journey through to the end.  
 **Translation:** 
 
-**[3293.26s] English:** aber im Großen und Ganzen bin ich es immer noch selbst,  
-**Translation:** Vocabulary: contributors: 贡献者; inzwischen: meantime
-
-**[3295.62s] English:** der das Projekt zieht.  
+**[3285.14s] English:** Send a pull request.  
 **Translation:** 
 
-**[3296.94s] English:** Und obwohl manche etwas anderes sagen, schlafe ich manchmal.  
-**Translation:** Vocabulary: etwas: 一些; manche: 某些人; manchmal: 有时
-
-**[3303.72s] English:** Am Anfang gab es wirklich nur einen Sicherheitsforscher,  
+**[3287.18s] English:** Please actually help me fix the errors.  
 **Translation:** 
 
-**[3308.32s] English:** der meinte, ja, du hast dieses Problem, du bist schlecht,  
-**Translation:** Vocabulary: schlecht: 糟糕; sicherheitsforscher: 安全研究员
-
-**[3312.92s] English:** aber hier ist die Lösung.  
+**[3290.20s] English:** Denn I have some contributors now,  
 **Translation:** 
 
-**[3314.78s] English:** Ich helfe dir und hier ist die Pull-Anfrage.  
+**[3293.26s] English:** Aber, im Großen und Ganzen, bin ich es immer noch selbst.  
+**Translation:** Vocabulary: contributors: 贡献者
+
+**[3295.62s] English:** This project is underway.  
 **Translation:** 
 
-**[3318.78s] English:** Ich habe ihn dann eingestellt, jetzt arbeitet er für uns.  
+**[3296.94s] English:** Despite what some might say, I do sometimes sleep.  
+**Translation:** Vocabulary: underway: 正在进行
+
+**[3303.72s] English:** At the beginning, there was really only one security researcher,  
 **Translation:** 
 
-**[3323.78s] English:** Und ja, Prompt Injection ist einerseits ungelöst,  
-**Translation:** Vocabulary: arbeitet: 工作; einerseits: 一方面; eingestellt: 录用; injection: 注入
-
-**[3326.94s] English:** andererseits habe ich meinen öffentlichen Bot auf Discord gestellt  
+**[3308.32s] English:** He meant, yes, you have this problem, you are bad.  
 **Translation:** 
 
-**[3332.04s] English:** und eine Art Warnsystem eingebaut.  
-**Translation:** Vocabulary: andererseits: 另一方面; eingebaut: 安装; gestellt: 放置; warnsystem: 预警系统
-
-**[3334.80s] English:** Also ich finde, mein Bot hat eine wirklich witzige Persönlichkeit  
+**[3312.92s] English:** But here is the solution.  
 **Translation:** 
 
-**[3337.70s] English:** und die Leute wollten wissen, wie ich das gemacht habe.  
+**[3314.78s] English:** Ich helfe dir, and here is the pull request.  
 **Translation:** 
 
-**[3341.42s] English:** Ich habe die Soll.md aber privat gehalten.  
+**[3318.78s] English:** I then hired him, and now he works for us.  
 **Translation:** 
 
-**[3344.06s] English:** Und die Leute haben versucht, einen Prompt Injection Angriff zu starten,  
-**Translation:** Vocabulary: gehalten: 保存私下; versucht: 尝试
+**[3323.78s] English:** Und ja, prompt injection is one aspect that remains unsolved,  
+**Translation:** Vocabulary: injection: 注入; prompt: 提示; unsolved: 未解决
 
-**[3347.54s] English:** aber mein Agent hat sie einfach nur ausgelacht.  
+**[3326.94s] English:** On the other hand, I have posted my public bot on Discord.  
 **Translation:** 
 
-**[3350.46s] English:** Die neueste Generation von Modellen hat also eine Menge Posttraining durchlaufen,  
-**Translation:** Vocabulary: ausgelacht: 嘲笑; durchlaufen: 经历; modellen: 模型; posttraining: 后训练
-
-**[3354.26s] English:** um solche Ansätze zu erkennen.  
+**[3332.04s] English:** And a kind of warning system built in.  
 **Translation:** 
 
-**[3355.68s] English:** Es ist nicht mehr so einfach, wie ignoriere alle vorherigen Anweisungen.  
-**Translation:** Vocabulary: anweisungen: 指令; erkennen: 识别; ignoriere: 忽略; vorherigen: 先前的
+**[3334.80s] English:** Also, I find that my bot has a really witty personality.  
+**Translation:** 
 
-**[3360.00s] English:** und mach dies und das.  
+**[3337.70s] English:** And the people wanted to know how I did that.  
+**Translation:** 
+
+**[3341.42s] English:** I have kept the Soll.md private.  
+**Translation:** 
+
+**[3344.06s] English:** And people have tried to start a prompt injection attack,  
+**Translation:** 
+
+**[3347.54s] English:** But my agent just laughed at them off.  
+**Translation:** 
+
+**[3350.46s] English:** The newest generation of models has therefore undergone a lot of post-training.  
+**Translation:** Vocabulary: undergone: 经历
+
+**[3354.26s] English:** Um solche Ansätze zu erkennen.  
+**Translation:** 
+
+**[3355.68s] English:** It is not as simple as ignore all previous instructions.  
+**Translation:** Vocabulary: erkennen: 识别
+
+**[3360.00s] English:** And do this and that.  
 **Translation:** 
 
 **[3362.08s] English:** Das ist Jahre her.  
 **Translation:** 
 
-**[3363.62s] English:** Man muss sich heute viel mehr anstrengen, um das zu schaffen.  
+**[3363.62s] English:** One must strive much harder today to achieve that.  
 **Translation:** 
 
-**[3366.78s] English:** Es ist immer noch möglich.  
-**Translation:** Vocabulary: anstrengen: 努力; schaffen: 创造
+**[3366.78s] English:** It is still possible.  
+**Translation:** Vocabulary: strive: 努力
 
-**[3368.66s] English:** Ich habe da ein paar Ideen, die das teilweise lösen könnten  
+**[3368.66s] English:** I have a few ideas that could partially solve it.  
 **Translation:** 
 
-**[3375.48s] English:** oder zumindest viele Dinge entschärfen.  
-**Translation:** Vocabulary: dinge: 事情; teilweise: 部分地; zumindest: 至少
+**[3375.48s] English:** Or, at least, defuse many things.  
+**Translation:** Vocabulary: defuse: 解除紧张
 
-**[3378.58s] English:** Man kann jetzt auch eine Sandbox oder eine Elo-List nutzen.  
+**[3378.58s] English:** One can also use a sandbox or an Elo list now.  
 **Translation:** 
 
-**[3381.62s] English:** Man bekommt also viele Wege aufgezeigt,  
-**Translation:** Vocabulary: aufgezeigt: 展示; sandbox: 沙盒
+**[3381.62s] English:** Man gets shown many ways,  
+**Translation:** Vocabulary: sandbox: 试验环境
 
-**[3383.52s] English:** wie man das Risiko abmildern und reduzieren kann.  
+**[3383.52s] English:** How one can mitigate and reduce the risk.  
 **Translation:** 
 
-**[3387.68s] English:** Ich habe der Welt ja deutlich gezeigt, dass hier Bedarf besteht.  
-**Translation:** Vocabulary: abmildern: 减轻; deutlich: 明显; reduzieren: 减少
+**[3387.68s] English:** I have clearly shown the world that there is a need here.  
+**Translation:** Vocabulary: mitigate: 减轻
 
-**[3391.90s] English:** Deshalb wird es mehr Leute geben, die daran forschen.  
+**[3391.90s] English:** Therefore, there will be more people who will conduct research on it.  
 **Translation:** 
 
-**[3394.30s] English:** Und am Ende werden wir eine Lösung finden.  
-**Translation:** Vocabulary: forschen: 研究
-
-**[3397.36s] English:** Und du hast auch gesagt, dass je intelligenter das Modell ist,  
+**[3394.30s] English:** At the end, we will find a solution.  
 **Translation:** 
 
-**[3400.64s] English:** das zugrunde liegende Modell,  
-**Translation:** Vocabulary: intelligenter: 更智能的; zugrunde: 底层的
-
-**[3401.72s] English:** desto widerstandsfähiger ist es gegen Angriffe.  
+**[3397.36s] English:** And you also said that the smarter the model is,  
 **Translation:** 
 
-**[3404.24s] English:** Genau.  
-**Translation:** Vocabulary: angriffe: 攻击
-
-**[3405.38s] English:** Deshalb habe ich in meiner Security-Dokumentation auch davor gewarnt,  
+**[3400.64s] English:** The underlying model,  
 **Translation:** 
 
-**[3409.32s] English:** benutzt keine billigen Modelle, benutzt Haiku nicht oder ein lokales Modell.  
-**Translation:** Vocabulary: billigen: 便宜的; haiku: 俳句; nicht: 不要
+**[3401.72s] English:** The more resistant it is against attacks.  
+**Translation:** 
+
+**[3404.24s] English:** Exactly.  
+**Translation:** Vocabulary: resistant: 抗攻击的
+
+**[3405.38s] English:** Therefore, I also warned against it in my security documentation.  
+**Translation:** 
+
+**[3409.32s] English:** Does not use cheap models, does not use Haiku or a local model.  
+**Translation:** Vocabulary: haiku: 短诗
 
 **[3415.86s] English:** Auch wenn mir der Gedanke sehr gefällt,  
 **Translation:** 
 
-**[3418.46s] English:** dass dieses Ding komplett lokal laufen könnte.  
-**Translation:** Vocabulary: komplett: 完全
+**[3418.46s] English:** That this thing could run completely locally.  
+**Translation:** Vocabulary: gedanke: 想法
 
-**[3420.86s] English:** Wenn du ein sehr schwaches lokales Modell nutzt,  
+**[3420.86s] English:** When you use a very weak local model,  
 **Translation:** 
 
-**[3423.66s] English:** sind die einfach extrem leichtgläubig.  
-**Translation:** Vocabulary: schwaches: 薄弱的
+**[3423.66s] English:** They are simply extremely gullible.  
+**Translation:** Vocabulary: gullible: 易受骗的
 
-**[3425.46s] English:** Es ist dann sehr einfach,  
+**[3425.46s] English:** It is then very simple,  
 **Translation:** 
 
-**[3427.36s] English:** einen Prompt Injection Angriff bei ihnen durchzuführen.  
+**[3427.36s] English:** To carry out a prompt injection attack on them.  
+**Translation:** Vocabulary: injection: 注入; prompt: 提示
+
+**[3429.86s] English:** Do you think that as models become more intelligent,  
 **Translation:** 
 
-**[3429.86s] English:** Denkst du, dass je intelligenter die Modelle werden,  
+**[3433.26s] English:** How much smaller does the attack surface become?  
 **Translation:** 
 
-**[3433.26s] English:** desto kleiner wird die Angriffsfläche?  
+**[3435.06s] English:** Is this a concept we can think about?  
 **Translation:** 
 
-**[3435.06s] English:** Ist das ein Konzept, über das wir nachdenken können?  
+**[3437.86s] English:** The attack surface is getting smaller, but the damage,  
 **Translation:** 
 
-**[3437.86s] English:** Die Angriffsfläche wird kleiner, aber der Schaden,  
-**Translation:** Vocabulary: nachdenken: 深思熟虑
-
-**[3440.86s] English:** den sie anrichten können, nimmt zu, weil die Modelle mächtiger werden  
+**[3440.86s] English:** They can do more damage because the models are getting more powerful.  
 **Translation:** 
 
-**[3444.06s] English:** und man dadurch mehr mit ihnen machen kann.  
-**Translation:** Vocabulary: anrichten: 造成; machen: 做
-
-**[3445.86s] English:** Es ist so ein seltsamer, dreidimensionaler Kompromiss.  
+**[3444.06s] English:** And thereby do more with them.  
 **Translation:** 
 
-**[3448.76s] English:** Ja, das ist genau das, was passieren wird.  
-**Translation:** Vocabulary: dreidimensionaler: 三维; kompromiss: 妥协; passieren: 发生; seltsamer: 奇怪
+**[3445.86s] English:** It is such a strange, three-dimensional compromise.  
+**Translation:** 
 
-**[3451.76s] English:** Es gibt viele Ideen.  
+**[3448.76s] English:** Ja, that is exactly what will happen.  
+**Translation:** Vocabulary: compromise: 妥协
+
+**[3451.76s] English:** There are many ideas.  
 **Translation:** 
 
 **[3453.76s] English:** Ich möchte nicht zu viel verraten, aber sobald ich nach Hause gehe,  
-**Translation:** Vocabulary: verraten: 透露
+**Translation:** Vocabulary: hause: 回家; nicht: 不; verraten: 透露
 
-**[3460.76s] English:** ist das mein Fokus.  
+**[3460.76s] English:** This is my focus.  
 **Translation:** 
 
-**[3462.76s] English:** Das Ganze ist jetzt draußen und meine kurzfristige Mission ist,  
+**[3462.76s] English:** Das Ganze ist jetzt draußen, und meine kurzfristige Mission ist,  
 **Translation:** Vocabulary: kurzfristige: 短期的
 
-**[3466.76s] English:** es stabiler und sicherer zu machen.  
+**[3466.76s] English:** To make it more stable and secure.  
 **Translation:** 
 
-**[3470.76s] English:** Am Anfang sind immer mehr Leute in den Discord gekommen  
-**Translation:** Vocabulary: gekommen: 来到; sicherer: 更安全; stabiler: 更稳定
-
-**[3474.76s] English:** und haben mich gefragt,  
+**[3470.76s] English:** At the beginning, more people kept joining the Discord.  
 **Translation:** 
 
-**[3475.56s] English:** sie haben mich sehr grundlegende Dinge gefragt,  
-**Translation:** Vocabulary: grundlegende: 基本的
-
-**[3478.76s] English:** wie zum Beispiel...  
+**[3474.76s] English:** And they asked me,  
 **Translation:** 
+
+**[3475.56s] English:** They have asked me very basic things,  
+**Translation:** 
+
+**[3478.76s] English:** For example,...  
+**Translation:** 
+
+**[3480.00s] English:** What is a CLI? Or what is a terminal? I just thought, if you're asking such questions, you might as well not use it at all. Do you understand? If you understand the risk profile, then that's perfectly fine. Then you can configure AdSense so that nothing terrible can happen.  
+**Translation:** Vocabulary: configure: 配置
 
 **[3480.16s] English:** .  
 **Translation:** 
@@ -2923,6 +2927,9 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[3499.76s] English:** .  
 **Translation:** 
 
+**[3500.00s] English:** Aber if you have no idea, wait until we've clarified everything first. But the people didn't listen to me and installed it anyway. The cat is now out of the bag. Security has now become my top priority.  
+**Translation:** Vocabulary: clarified: 说明清楚
+
 **[3500.76s] English:** .  
 **Translation:** 
 
@@ -2932,2414 +2939,2408 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[3503.76s] English:** .  
 **Translation:** 
 
-**[3480.00s] English:** Was ist ein CLI? Oder was ist ein Terminal? Also ich habe mir nur gedacht, wenn du solche Fragen stellst, solltest du es besser gar nicht erst benutzen. Verstehst du? Wenn man das Risikoprofil versteht, dann ist das völlig in Ordnung. Dann kann man den AdSense so konfigurieren, dass eigentlich nichts Schlimmes passieren kann.  
-**Translation:** Vocabulary: benutzen: 使用; eigentlich: 实际上; konfigurieren: 配置; nichts: 没什么; risikoprofil: 风险概况; schlimmes: 糟糕的事; solltest: 应该; verstehst: 明白; versteht: 理解
-
-**[3500.00s] English:** Aber wenn du keine Ahnung hast, warte lieber noch, bis wir alles geklärt haben. Aber die Leute haben nicht auf mich gehört, sondern es trotzdem installiert. Die Katze ist jetzt aus dem Sack. Security hat für mich nun Priorität.  
+**[3518.00s] English:** Ja, this simply shows how quickly it has grown. I've often popped in on Discord, and it's clear there are many experts around. But there are also a lot of people who have no idea about programming.  
 **Translation:** 
 
-**[3518.00s] English:** Ja, das zeigt einfach, wie schnell das Ganze gewachsen ist. Ich habe öfter mal im Discord vorbeigeschaut und es ist klar, dass dort viele Experten unterwegs sind. Aber eben auch eine Menge Leute, die gar keine Ahnung vom Programmieren haben.  
-**Translation:** Vocabulary: experten: 专家; gewachsen: 增长; installiert: 安装; programmieren: 编程; schnell: 快速; trotzdem: 仍然; unterwegs: 在途中; vorbeigeschaut: 浏览
-
-**[3530.00s] English:** Discord ist immer noch ein Chaos. Schließlich habe ich vom allgemeinen Kanal zum Entwicklerkanal und dann zum privaten Kanal retweetet, weil die Leute, viele Menschen sind unglaublich, aber viele sind einfach rücksichtslos.  
+**[3530.00s] English:** Discord is still a chaos. Finally, I kept retweeting from the general channel to the developer channel and then to the private channel, because many people are incredible, but many are simply ruthless.  
 **Translation:** 
 
-**[3547.96s] English:** Und entweder wussten sie nicht, wie öffentliche Räume funktionieren oder es war ihnen egal. Schließlich habe ich aufgegeben und mich versteckt, um trotzdem arbeiten zu können.  
-**Translation:** Vocabulary: allgemeinen: 公共; arbeiten: 工作; aufgegeben: 放弃; entweder: 要么; entwicklerkanal: 开发者频道; funktionieren: 运作; kanal: 频道; menschen: 人们; nicht: 不; privaten: 私人的; retweetet: 转发; unglaublich: 不可思议; versteckt: 隐藏
+**[3547.96s] English:** They either didn't know how public spaces functioned, or it didn't matter to them. Eventually, I gave up and went into hiding so that I could still work.  
+**Translation:** Vocabulary: retweeting: 转发; ruthless: 残忍
 
 **[3559.30s] English:** Und jetzt?  
 **Translation:** 
 
-**[3560.00s] English:** Und jetzt gehst du zurück in die Höhle, um an der Sicherheit zu arbeiten.  
-**Translation:** Vocabulary: sicherheit: 安全性
+**[3560.00s] English:** Now, you go back into the cave to work on the security.  
+**Translation:** 
 
 **[3563.18s] English:** Ja.  
 **Translation:** 
 
-**[3563.66s] English:** Es gibt einige Best Practices für Sicherheit, die wir erwähnen sollten.  
+**[3563.66s] English:** There are some security best practices that we should mention.  
 **Translation:** 
 
-**[3568.34s] English:** Hier gibt es eine Menge Sachen. Öffne die Cloud Security Audit Funktion, die du ausführen kannst. Du kannst verschiedene Audit Checks machen, zum Beispiel für den eingehenden Zugriff auf das Netzwerk mit großem Schadenpotenzial, Browser Kontrollen, lokale Datenträger Hygiene, Plugins, Modell Hygiene, verschiedene Arten der Anmeldeinformationen Speicherung, Rückwärts Proxy Konfiguration und lokale Sitzungsprotokolle.  
+**[3568.34s] English:** Here are a lot of things you can do. Open the Cloud Security Audit function; you can perform various audit checks, such as incoming network access with high potential damage, browser controls, local disk hygiene, plugins, model hygiene, different types of login information storage, back-end proxy configuration, and local session logs.  
 **Translation:** 
 
-**[3590.00s] English:** Da ist der Ort, wo das Gedächtnis gespeichert ist. Es hilft dir, darüber nachzudenken, inwiefern du bereit bist, Lesezugriff zu machen.  
-**Translation:** Vocabulary: anmeldeinformationen: 登录信息; beispiel: 例子; eingehenden: 入站的; funktion: 功能; gespeichert: 存储; inwiefern: 如何; konfiguration: 配置; kontrollen: 检查; lesezugriff: 读取权限; machen: 执行; nachzudenken: 思考; netzwerk: 网络; proxy: 代理; schadenpotenzial: 潜在危害; sitzungsprotokolle: 会话日志; speicherung: 存储; verschiedene: 各种
+**[3590.00s] English:** Here is the place where memory is stored. It helps you think about how ready you are to make a reading access.  
+**Translation:** Vocabulary: browser: 浏览器; configuration: 配置; hygiene: 卫生; incoming: 入站的; login: 登录; plugins: 插件; proxy: 代理
 
-**[3600.00s] English:** Und hier ist der Ort, wo das Gedächtnis gespeichert ist. Es hilft dir, darüber nachzudenken, inwiefern du bereit bist, Lesezugriff zu machen.  
+**[3600.00s] English:** Here is the place where memory is stored. It helps you think about how ready you are to make a reading access.  
 **Translation:** 
 
-**[3600.00s] English:** zu gewähren oder Schreibzugriff zu erteilen. All diese Dinge. Gibt es gerade grundlegende  
-**Translation:** Vocabulary: dinge: 事情; erteilen: 给予; grundlegende: 基本的; schreibzugriff: 写权限
-
-**[3605.72s] English:** Sicherheitspraktiken, über die man sprechen kann? Ich glaube, Leute stellen es in ein viel  
+**[3600.00s] English:** To grant or provide write access. All these things. Are there any basic ones?  
 **Translation:** 
 
-**[3611.56s] English:** schlechteres Licht, als es ist. Weißt du, Menschen mögen Aufmerksamkeit und wenn sie laut schreien,  
-**Translation:** Vocabulary: aufmerksamkeit: 关注; licht: 处境; schlechteres: 更差; schreien: 喊叫; sicherheitspraktiken: 安全实践; sprechen: 讨论
-
-**[3618.98s] English:** oh mein Gott, das ist das gruseligste Projekt überhaupt, dann nervt das ein bisschen, weil es  
+**[3605.72s] English:** Security practices that we can discuss? I believe people tend to view it as much  
 **Translation:** 
 
-**[3625.46s] English:** das nicht ist. Es ist mächtig, aber in vielerlei Hinsicht ist es nicht viel anders, als wenn ich  
-**Translation:** Vocabulary: bisschen: 一点点; gruseligste: 最恐怖的; hinsicht: 方面; vielerlei: 种种
-
-**[3631.94s] English:** Cloud Code mit gefährlich übersprungenen Berechtigungen oder Codex im YOLO-Modus laufen  
+**[3611.56s] English:** Worse light than it is. You know, people like attention and if they scream,  
 **Translation:** 
 
-**[3636.70s] English:** lasse. Jeder Entwickler, den ich kenne, macht das, weil es der einzige Weg ist, wie man Dinge zum  
-**Translation:** Vocabulary: berechtigungen: 权限; codex: 代码; entwickler: 开发者; lasse: 运行
+**[3618.98s] English:** Oh, mein Gott, das ist das gruseligste Projekt überhaupt. Dann nervt das ein bisschen, weil es  
+**Translation:** 
+
+**[3625.46s] English:** Das nicht ist. Es ist mächtig, aber in vielerlei Hinsicht ist es nicht viel anders, als wenn ich.  
+**Translation:** Vocabulary: bisschen: 一点点; gruseligste: 最恐怖的; hinsicht: 方面; nicht: 不是; projekt: 项目; vielerlei: 种种
+
+**[3631.94s] English:** Cloud Code with dangerously skipped permissions or Codex in YOLO mode run.  
+**Translation:** 
+
+**[3636.70s] English:** Lasse. Every developer I know does it because it's the only way to get things done.  
+**Translation:** Vocabulary: codex: 代码库; dangerously: 危险地; skipped: 跳过
 
 **[3646.80s] English:** Laufen bringt. Wenn du dafür sorgst, dass nur du mit dem Agent sprichst,  
 **Translation:** 
 
-**[3655.46s] English:** ist das Risiko viel kleiner. Wenn du nicht alles im offenen Internet veröffentlichst,  
-**Translation:** Vocabulary: sprichst: 与某人交谈
+**[3655.46s] English:** This risk is much smaller. If you do not publish everything in the open internet,  
+**Translation:** Vocabulary: sprichst: 你说话
 
-**[3660.82s] English:** sondern meinen Empfehlungen folgst und es in einem privaten Netzwerk hältst,  
+**[3660.82s] English:** But follow my recommendations and keep it in a private network.  
 **Translation:** 
 
-**[3665.72s] English:** fällt das gesamte Risikoprofil weg. Aber ja, wenn du das alles nicht liest,  
-**Translation:** Vocabulary: empfehlungen: 建议; liest: 阅读; risikoprofil: 风险概况
+**[3665.72s] English:** Fällt das gesamte Risikoprofil weg. Aber ja, wenn du das alles nicht liest,  
+**Translation:** Vocabulary: gesamte: 全部; liest: 阅读; recommendations: 建议; risikoprofil: 风险概况
 
-**[3672.30s] English:** kann es definitiv problematisch werden. Du hast in den letzten Monaten die Entwicklung  
+**[3672.30s] English:** 它可以肯定变得有问题。你在过去几个月里的情况发展得相当复杂。  
 **Translation:** 
 
-**[3676.18s] English:** deines Dev-Workflows dokumentiert. Es gibt da wirklich gute Blogposts vom 25. August,  
-**Translation:** Vocabulary: blogposts: 博客文章; definitiv: 肯定; dokumentiert: 记录; entwicklung: 发展; problematisch: 有问题; wirklich: 确实
+**[3676.18s] English:** Documents your Dev Workflows. There are really good blog posts from August 25th,  
+**Translation:** Vocabulary: workflows: 工作流程
 
-**[3681.62s] English:** 14. Oktober und den neuesten vom 28. Dezember.  
+**[3681.62s] English:** October 14, and the latest one from December 28.  
 **Translation:** 
 
-**[3685.46s] English:** Ich kann jedem nur empfehlen, die zu lesen. Da stecken viele unterschiedliche Infos drin,  
-**Translation:** Vocabulary: dezember: 十二月; empfehlen: 推荐; infos: 信息; neuesten: 最新的; unterschiedliche: 不同的
-
-**[3689.84s] English:** aber überall ist die Entwicklung deines Workflows herauszulesen. Deshalb habe ich mich gefragt,  
+**[3685.46s] English:** I can only recommend that everyone read it. There are many different pieces of information in there.  
 **Translation:** 
 
-**[3694.76s] English:** ob du dazu etwas sagen könntest. Mein erster Berührungspunkt ist Cloud Code gewesen,  
-**Translation:** Vocabulary: etwas: 一些; herauszulesen: 可发现; workflows: 工作流
-
-**[3700.58s] English:** so im April. Das ist zwar nicht großartig, aber gut gewesen,  
+**[3689.84s] English:** However, everywhere is where the development of your workflow can be read out. Therefore, I have wondered,  
 **Translation:** 
 
-**[3705.14s] English:** dieser ganze Umschwung plötzlich im Terminal zu arbeiten, war sehr erfrischend und anders. Ich habe  
-**Translation:** Vocabulary: arbeiten: 工作; erfrischend: 提神; nicht: 不
+**[3694.76s] English:** If you could say something about that. My first point of contact has been with Cloud Code,  
+**Translation:** Vocabulary: workflow: 工作流程
 
-**[3715.10s] English:** die IDI aber trotzdem noch ziemlich oft gebraucht, weil es einfach noch nicht gut genug gewesen ist.  
+**[3700.58s] English:** So, I'm April. That's not fantastic, but it was good.  
 **Translation:** 
 
-**[3720.00s] English:** ist und dann habe ich viel mit Cursor  
-**Translation:** Vocabulary: gebraucht: 使用; trotzdem: 仍然; ziemlich: 相当
+**[3705.14s] English:** This whole U-turn to suddenly working in the terminal was very refreshing and different. I have  
+**Translation:** 
 
-**[3721.44s] English:** experimentiert.  
+**[3715.10s] English:** Die IDI wird aber trotzdem noch ziemlich oft gebraucht, weil es einfach noch nicht gut genug ist.  
+**Translation:** 
+
+**[3720.00s] English:** This, and then I have spent a lot of time with the cursor.  
+**Translation:** Vocabulary: cursor: 光标; einfach: 简单; gebraucht: 被使用; nicht: 不; trotzdem: 仍然; ziemlich: 相当
+
+**[3721.44s] English:** Experimented.  
 **Translation:** 
 
 **[3725.54s] English:** Das war gut.  
 **Translation:** 
 
-**[3727.60s] English:** Mir hat es allerdings nicht wirklich gefallen,  
+**[3727.60s] English:** Mir has however not really liked it,  
 **Translation:** 
 
-**[3730.24s] English:** dass es so schwer gewesen ist,  
-**Translation:** Vocabulary: allerdings: 然而; gefallen: 使满意
-
-**[3731.88s] English:** mehrere Versionen davon zu haben.  
+**[3730.24s] English:** That it has been so hard,  
 **Translation:** 
 
-**[3734.62s] English:** Also bin ich letztendlich wieder  
+**[3731.88s] English:** To have several versions of it.  
 **Translation:** 
 
-**[3735.78s] English:** zu Cloud Code  
+**[3734.62s] English:** Also, I am ultimately back again.  
 **Translation:** 
 
-**[3736.52s] English:** als meinem Standard-Tool zurückgekehrt.  
+**[3735.78s] English:** To Cloud Code  
 **Translation:** 
 
-**[3740.80s] English:** Und das wurde  
+**[3736.52s] English:** As returned to my standard tool.  
 **Translation:** 
 
-**[3741.72s] English:** besser.  
+**[3740.80s] English:** And that was  
+**Translation:** 
+
+**[3741.72s] English:** Better.  
 **Translation:** 
 
 **[3745.06s] English:** Irgendwann hatte  
 **Translation:** 
 
-**[3745.80s] English:** ich ungefähr sieben Abonnements.  
-**Translation:** Vocabulary: abonnements: 订阅; irgendwann: 某时候
+**[3745.80s] English:** I have about seven subscriptions.  
+**Translation:** Vocabulary: irgendwann: 某个时候
 
-**[3750.00s] English:** Ich habe etwa einen pro Tag  
+**[3750.00s] English:** I have about one per day.  
 **Translation:** 
 
-**[3752.50s] English:** verbraucht, weil ich  
-**Translation:** Vocabulary: verbraucht: 消耗
+**[3752.50s] English:** Verbraucht, because I  
+**Translation:** Vocabulary: verbraucht: 消耗的
 
-**[3754.58s] English:** mich daran gewöhnt habe,  
+**[3754.58s] English:** I have gotten used to that,  
 **Translation:** 
 
-**[3757.46s] English:** mehrere Fenster nebeneinander  
-**Translation:** Vocabulary: fenster: 窗户; nebeneinander: 挨着
-
-**[3758.82s] English:** zu nutzen.  
+**[3757.46s] English:** Several windows side by side.  
 **Translation:** 
 
-**[3760.20s] English:** Alles über das CLI, alles im Terminal.  
+**[3758.82s] English:** To use.  
 **Translation:** 
 
-**[3762.68s] English:** Wie viel hast du zu diesem Zeitpunkt noch eine  
+**[3760.20s] English:** All about the CLI, all in the terminal.  
 **Translation:** 
 
-**[3764.34s] English:** IDE genutzt?  
-**Translation:** Vocabulary: zeitpunkt: 时间点
-
-**[3766.68s] English:** Sehr, sehr selten.  
+**[3762.68s] English:** How much do you have left at this point?  
 **Translation:** 
 
-**[3769.38s] English:** Meistens nur als  
-**Translation:** Vocabulary: meistens: 大多数时候
+**[3764.34s] English:** Is IDE used?  
+**Translation:** 
+
+**[3766.68s] English:** Very, very rare.  
+**Translation:** 
+
+**[3769.38s] English:** Mostly only as  
+**Translation:** 
 
 **[3770.40s] English:** Div-Viewer.  
 **Translation:** 
 
-**[3772.54s] English:** Ich habe mich immer mehr daran  
+**[3772.54s] English:** I have been getting more and more into it.  
 **Translation:** 
 
-**[3774.46s] English:** gewöhnt, dass ich nicht mehr den gesamten Code lesen muss.  
+**[3774.46s] English:** Gewöhnt, dass ich nicht mehr den gesamten Code lesen muss.  
 **Translation:** 
 
-**[3777.80s] English:** Ich weiß, ich habe diesen  
-**Translation:** Vocabulary: gesamten: 全部
+**[3777.80s] English:** I know, I have had this  
+**Translation:** Vocabulary: gesamten: 全部的
 
-**[3778.50s] English:** einen Blogpost, in dem ich schreibe,  
+**[3778.50s] English:** A blog post, in which I write,  
 **Translation:** 
 
-**[3780.00s] English:** ich lese den Code nicht.  
-**Translation:** Vocabulary: blogpost: 博客; schreibe: 写作
-
-**[3781.84s] English:** Aber wenn man genauer hinsieht, meine ich damit  
+**[3780.00s] English:** I do not read the code.  
 **Translation:** 
 
-**[3783.72s] English:** die langweiligen Stellen. Denn wenn man  
-**Translation:** Vocabulary: hinsieht: 仔细看; langweiligen: 无聊的
-
-**[3785.90s] English:** es sich mal anschaut, besteht die meiste Software  
+**[3781.84s] English:** Aber wenn man genauer hinsieht, meine ich damit:  
 **Translation:** 
 
-**[3787.96s] English:** nur daraus, dass Daten reinkommen.  
-**Translation:** Vocabulary: anschaut: 查看; reinkommen: 流入
+**[3783.72s] English:** Die langweiligen Stellen. Denn wenn man  
+**Translation:** Vocabulary: genauer: 更仔细; hinsieht: 看; langweiligen: 无聊的; stellen: 地方
 
-**[3789.94s] English:** Sie werden von einer Form in eine andere geschoben.  
+**[3785.90s] English:** If one were to take a look, most software consists of  
 **Translation:** 
 
-**[3792.48s] English:** Vielleicht speichert man sie in einer  
-**Translation:** Vocabulary: geschoben: 被推动; speichert: 存储; vielleicht: 也许
-
-**[3793.92s] English:** Datenbank, vielleicht holt man sie wieder raus  
+**[3787.96s] English:** From that, that data comes in.  
 **Translation:** 
 
-**[3796.06s] English:** und zeigt sie dem Benutzer. Der Browser  
-**Translation:** Vocabulary: benutzer: 用户; datenbank: 数据库
-
-**[3797.98s] English:** oder eine Native App übernimmt dann ein bisschen  
+**[3789.94s] English:** They are pushed from one form to another.  
 **Translation:** 
 
-**[3799.86s] English:** Rechenleistung. Ein paar Daten gehen rein,  
-**Translation:** Vocabulary: bisschen: 一点点; rechenleistung: 计算能力
-
-**[3802.14s] English:** gehen wieder raus. Es ist immer  
+**[3792.48s] English:** Perhaps they are stored in a  
 **Translation:** 
 
-**[3803.96s] English:** derselbe Tanz in umgekehrter Reihenfolge.  
-**Translation:** Vocabulary: derselbe: 相同的; reihenfolge: 顺序; umgekehrter: 相反的
-
-**[3806.78s] English:** Wir schieben Daten eigentlich  
+**[3793.92s] English:** Database, maybe they will retrieve them again.  
 **Translation:** 
 
-**[3807.86s] English:** nur von einer Form in die andere.  
-**Translation:** Vocabulary: eigentlich: 实际上; schieben: 转移
+**[3796.06s] English:** Und es zeigt sie dem Benutzer. Der Browser  
+**Translation:** Vocabulary: benutzer: 用户; browser: 浏览器; retrieve: 检索
 
-**[3810.68s] English:** Und das ist  
+**[3797.98s] English:** Or if a native app takes over, then it does a bit of that.  
 **Translation:** 
 
-**[3812.12s] English:** nicht besonders spannend.  
-**Translation:** Vocabulary: besonders: 特别; spannend: 引人入胜
+**[3799.86s] English:** Rechenleistung. Ein paar Daten gehen rein,...  
+**Translation:** Vocabulary: rechenleistung: 计算能力
 
-**[3814.22s] English:** Oder sowas wie, wie ist mein  
+**[3802.14s] English:** Gehen wir wieder raus. Es ist immer  
 **Translation:** 
 
-**[3815.92s] English:** Button in Tailwind ausgerichtet?  
-**Translation:** Vocabulary: ausgerichtet: 定位; tailwind: 框架
-
-**[3818.66s] English:** Diesen Code muss ich nicht lesen.  
+**[3803.96s] English:** The same dance in reverse order.  
 **Translation:** 
 
-**[3821.60s] English:** Aber  
+**[3806.78s] English:** We are essentially pushing data actually.  
 **Translation:** 
 
-**[3822.08s] English:** andere Teile, die zum Beispiel  
+**[3807.86s] English:** From one form to another.  
 **Translation:** 
 
-**[3823.46s] English:** die Datenbank betreffen,  
-**Translation:** Vocabulary: beispiel: 例如; betreffen: 涉及
-
-**[3826.76s] English:** da habe ich den Code natürlich  
+**[3810.68s] English:** And that is  
 **Translation:** 
 
-**[3827.90s] English:** lesen und reviewen müssen.  
-**Translation:** Vocabulary: reviewen: 复查
-
-**[3830.84s] English:** Kannst du kurz etwas erklären?  
+**[3812.12s] English:** Not particularly exciting.  
 **Translation:** 
 
-**[3832.66s] English:** In einem deiner Blogposts,  
-**Translation:** Vocabulary: blogposts: 博客; etwas: 一些
-
-**[3833.76s] English:** Just Talk To It, The No BS Way of Agentic  
+**[3814.22s] English:** Oder so was wie: Was ist mein?  
 **Translation:** 
 
-**[3835.92s] English:** Engineering, hast du diese Grafik zur Kurve  
+**[3815.92s] English:** Is the button aligned in Tailwind?  
+**Translation:** Vocabulary: aligned: 对齐; tailwind: 尾Wind框架
+
+**[3818.66s] English:** This code I don't need to read.  
 **Translation:** 
 
-**[3838.04s] English:** des Agentic Programming gezeigt.  
+**[3821.60s] English:** Aber,  
 **Translation:** 
 
-**[3840.00s] English:** Auf der X-Achse steht die Zeit und auf der Y-Achse die Komplexität.  
+**[3822.08s] English:** And other parts, which for example,  
 **Translation:** 
 
-**[3845.86s] English:** Ganz links startest du mit Please fix this, also nur einem kurzen Prompt.  
+**[3823.46s] English:** Regarding the databases,  
+**Translation:** Vocabulary: databases: 数据库
+
+**[3826.76s] English:** I have the code, of course.  
 **Translation:** 
 
-**[3850.74s] English:** In der Mitte wird es dann extrem aufwendig.  
-**Translation:** Vocabulary: aufwendig: 复杂; startest: 开始
-
-**[3854.18s] English:** Acht Agents, komplexe Orchestrierung mit Multi-Checkouts, das Chaining von Agents, eigene Submission Workflows,  
+**[3827.90s] English:** Read and review if you must.  
 **Translation:** 
 
-**[3861.28s] English:** eine Library mit 18 Slash-Commands und große Full-Stack-Features.  
-**Translation:** Vocabulary: komplexe: 复杂的; orchestrierung: 协调; workflows: 工作流
-
-**[3865.26s] English:** Du bist super organisiert, du bist ein extrem anspruchsvoller Software-Entwickler, du hast alles im Griff.  
+**[3830.84s] English:** Can you briefly explain something?  
 **Translation:** 
 
-**[3873.10s] English:** Und dann ist das Elite-Level, dass du über die Zeit an diesem Zen-Ort ankommst, an dem wieder kurze Prompts reichen.  
-**Translation:** Vocabulary: ankommst: 到达; anspruchsvoller: 要求高的; griff: 掌控; organisiert: 有条理
-
-**[3880.86s] English:** Hey, schau dir diese Dateien an und mach diese Änderungen.  
+**[3832.66s] English:** In one of your blog posts,  
 **Translation:** 
 
-**[3885.56s] English:** Ich nenne es tatsächlich die Agentic-Trap.  
+**[3833.76s] English:** Just Talk to It: The No-Bullshit Way of Agentic.  
 **Translation:** 
 
-**[3887.24s] English:** Ich habe das bei vielen Leuten gesehen, die ihren ersten Kontaktpunkt haben und vielleicht mit Vibe-Coding,  
+**[3835.92s] English:** Engineering, have you seen this graph for the curve?  
+**Translation:** Vocabulary: agentic: 代理性的
+
+**[3838.04s] English:** Agentic Programming demonstrated.  
 **Translation:** 
 
-**[3895.26s] English:** anfangen. Ich denke tatsächlich, dass Vibe-Coding eine Beleidigung ist.  
-**Translation:** Vocabulary: anfangen: 开始; beleidigung: 侮辱; kontaktpunkt: 接触点
+**[3840.00s] English:** On the x-axis, time is shown, and on the y-axis, complexity is displayed.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[3900.92s] English:** Du bevorzugst Agentic-Engineering?  
+**[3845.86s] English:** Ganz links starten Sie mit "Please fix this," und auch nur einem kurzen Prompt.  
 **Translation:** 
 
-**[3902.96s] English:** Ja, ich mache Agentic-Engineering. Aber nach drei Uhr morgens wechsle ich zum Vibe-Coding und bereue es am nächsten Tag.  
-**Translation:** Vocabulary: bevorzugst: 偏好; mache: 做; morgens: 早上
+**[3850.74s] English:** In the middle, it then becomes extremely complicated.  
+**Translation:** Vocabulary: prompt: 提示; starten: 开始
 
-**[3910.82s] English:** Ja, das ist echt peinlich.  
+**[3854.18s] English:** Acht Agents, complex orchestration with multi-checkouts, chaining of agents, and custom submission workflows,  
 **Translation:** 
 
-**[3913.58s] English:** Man muss dann den ganzen Scheiß wieder aufräumen und in Ordnung bringen.  
-**Translation:** Vocabulary: peinlich: 尴尬
+**[3861.28s] English:** A library with 18 slash-commands and great full-stack features.  
+**Translation:** Vocabulary: orchestration: 协调管理; workflows: 工作流程
+
+**[3865.26s] English:** You are super organized, you are an extremely demanding software developer, you have everything under control.  
+**Translation:** 
+
+**[3873.10s] English:** Then there's the Elite level, where over time you arrive at this Zen place where even shorter prompts will suffice.  
+**Translation:** Vocabulary: demanding: 苛求; prompts: 指令; suffice: 足够
+
+**[3880.86s] English:** Hey, keep an eye on these files and make these changes.  
+**Translation:** 
+
+**[3885.56s] English:** I call it the Agentic Trap.  
+**Translation:** 
+
+**[3887.24s] English:** I have seen this with many people who have their first contact point and perhaps with Vibe Coding.  
+**Translation:** 
+
+**[3895.26s] English:** Let's begin. I actually think that Vibe-Coding is offensive.  
+**Translation:** 
+
+**[3900.92s] English:** Do you prefer agentic-engineering?  
+**Translation:** 
+
+**[3902.96s] English:** Ja, I do agentic-engineering. But after three in the morning, I switch to vibe-coding and regret it the next day.  
+**Translation:** 
+
+**[3910.82s] English:** Ja, that is really embarrassing.  
+**Translation:** 
+
+**[3913.58s] English:** Then you have to clean up the entire mess and put everything back in order.  
+**Translation:** 
 
 **[3917.10s] English:** Das kennen wir alle.  
 **Translation:** 
 
-**[3917.80s] English:** Die Leute probieren diese Tools aus und wer gerne Dinge erschafft, ist sofort begeistert.  
-**Translation:** Vocabulary: begeistert: 非常高兴; dinge: 事物; erschafft: 创造; probieren: 尝试
-
-**[3924.46s] English:** Man muss einfach da...  
+**[3917.80s] English:** People try out these tools, and those who like to create are immediately enthusiastic.  
 **Translation:** 
 
-**[3925.26s] English:** mit spielen. Es ist wie bei einer Gitarre.  
+**[3924.46s] English:** Man must simply be there....  
 **Translation:** 
 
-**[3928.92s] English:** Du musst erst mit ihr spielen, bevor du gute Musik machen kannst.  
+**[3925.26s] English:** To play. It is like with a guitar.  
 **Translation:** 
 
-**[3932.94s] English:** Es ist nicht so, dass man es einmal anfasst und alles sofort von selbst läuft.  
-**Translation:** Vocabulary: machen: 制作; nicht: 不
-
-**[3941.56s] English:** Es ist ein Skill, den man lernen muss, wie jede andere Fähigkeit auch.  
+**[3928.92s] English:** You must first play with her before you can make good music.  
 **Translation:** 
 
-**[3946.16s] English:** Ich sehe viele Leute, die der Technologie gegenüber nicht so positiv eingestellt sind.  
-**Translation:** Vocabulary: technologie: 技术
-
-**[3951.22s] English:** Sie probieren es genau einmal aus.  
+**[3932.94s] English:** It is not so that one touches it once and everything runs by itself from then on.  
 **Translation:** 
 
-**[3954.02s] English:** Du setzt mich an ein Klavier.  
-**Translation:** Vocabulary: klavier: 钢琴
-
-**[3956.22s] English:** Ich spiele es einmal und es klingt nicht gut.  
+**[3941.56s] English:** It is a skill that must be learned, like any other ability.  
 **Translation:** 
 
-**[3958.94s] English:** Und ich sage...  
+**[3946.16s] English:** I see many people who are not so positively inclined towards technology.  
 **Translation:** 
 
-**[3960.26s] English:** Das Klavier ist schlecht.  
+**[3951.22s] English:** They try it exactly once.  
 **Translation:** 
 
-**[3962.72s] English:** Das ist manchmal der Eindruck, den ich bekomme.  
-**Translation:** Vocabulary: eindruck: 印象; manchmal: 有时; schlecht: 不好
-
-**[3965.44s] English:** Es erfordert eine andere Art des Denkens.  
+**[3954.02s] English:** You set me at a piano.  
 **Translation:** 
 
-**[3969.18s] English:** Du musst die Sprache des Agents ein wenig lernen, verstehen, wo er gut ist und wo er Unterstützung braucht.  
-**Translation:** Vocabulary: erfordert: 需要; verstehen: 理解
-
-**[3975.98s] English:** Du musst fast.  
+**[3956.22s] English:** I'll play it once, and it doesn't sound good.  
 **Translation:** 
 
-**[3978.76s] English:** Überlege, wie Codex oder Cloud deinen Code sieht.  
-**Translation:** Vocabulary: codex: 代码本
+**[3958.94s] English:** And I say....  
+**Translation:** 
+
+**[3960.26s] English:** The piano is bad.  
+**Translation:** 
+
+**[3962.72s] English:** This is sometimes the impression I get.  
+**Translation:** 
+
+**[3965.44s] English:** It requires a different way of thinking.  
+**Translation:** 
+
+**[3969.18s] English:** You must learn a little of the language the agent uses, understand where he is good and where he needs support.  
+**Translation:** 
+
+**[3975.98s] English:** You must go.  
+**Translation:** 
+
+**[3978.76s] English:** Consider how Codex or Cloud would see your code.  
+**Translation:** Vocabulary: codex: 代码库
 
 **[3982.18s] English:** Sie starten eine neue Sitzung und wissen nichts über dein Produkt oder Projekt.  
 **Translation:** 
 
-**[3986.84s] English:** Und dein Projekt könnte hunderttausend Codezeilen haben.  
-**Translation:** Vocabulary: codezeilen: 代码行; hunderttausend: 十万; nichts: nothing
+**[3986.84s] English:** Your project could have hundreds of thousands of code lines.  
+**Translation:** Vocabulary: nichts: 没有任何; produkt: 产品; projekt: 项目; sitzung: 会议; starten: 开始
 
-**[3991.56s] English:** Ihr müsst den Agents ein wenig helfen und die Begrenzungen der Kontextgröße im Auge behalten,  
+**[3991.56s] English:** You must help the agents a little and keep the limitations of context size in mind,  
 **Translation:** 
 
-**[3998.70s] English:** um sie ein bisschen zu leiten, wohin sie schauen sollten.  
-**Translation:** Vocabulary: begrenzungen: 限制; behalten: 留意; bisschen: 一点
-
-**[4004.74s] English:** Oft erfordert das nicht viel Arbeit.  
+**[3998.70s] English:** Um to lead them a little bit where they should look.  
 **Translation:** 
 
-**[4007.16s] English:** Aber es ist hilfreich, ein wenig über ihre Perspektive nachzudenken.  
-**Translation:** Vocabulary: hilfreich: 有益; nachzudenken: 思考; perspektive: 视角
+**[4004.74s] English:** Often, that does not require much work.  
+**Translation:** 
+
+**[4007.16s] English:** It is helpful to think a little about their perspective.  
+**Translation:** 
 
 **[4012.28s] English:** So seltsam es auch klingt.  
 **Translation:** 
 
-**[4013.30s] English:** Ich meine, es lebt nicht oder so, oder?  
+**[4013.30s] English:** I mean, it doesn't live or something, or?  
+**Translation:** Vocabulary: seltsam: 奇怪
+
+**[4016.84s] English:** But they always start anew.  
 **Translation:** 
 
-**[4016.84s] English:** Aber sie beginnen immer neu.  
+**[4019.58s] English:** I understand the system.  
 **Translation:** 
 
-**[4019.58s] English:** Ich verstehe das System.  
-**Translation:** Vocabulary: beginnen: 重新开始; verstehe: 理解
-
-**[4021.58s] English:** Also mit ein paar Hinweisen kann ich sofort sagen, hey, ich will da eine Änderung machen.  
+**[4021.58s] English:** Also, with a few hints, I can immediately say, "Hey, I want to make a change.  
 **Translation:** 
 
-**[4027.90s] English:** Du musst dies, das und das berücksichtigen.  
-**Translation:** Vocabulary: hinweisen: 提示
-
-**[4030.76s] English:** Dann schauen sie es sich endlich an.  
+**[4027.90s] English:** You must consider this, that, and the other thing.  
 **Translation:** 
 
-**[4032.84s] English:** Und ihre Sicht auf das Projekt ist immer, es ist nie vollständig, weil das Ganze nicht hineinpasst.  
-**Translation:** Vocabulary: hineinpasst: fit into; sicht: 观点
-
-**[4039.72s] English:** Also du musst ihnen ein wenig den Weg weisen, wohin sie schauen sollen und auch, wie sie an das Problem herangehen sollten.  
+**[4030.76s] English:** Then they should finally watch it.  
 **Translation:** 
 
-**[4046.84s] English:** Es gibt kleine Dinge, die manchmal helfen, wie sie sich Zeit lassen.  
-**Translation:** Vocabulary: dinge: 小事; herangehen: 应对
-
-**[4051.34s] English:** Klingt dumm, aber in 5.3 wird das teilweise angegangen.  
+**[4032.84s] English:** And their view of the project is always that it is never complete because the whole picture just doesn't fit.  
 **Translation:** 
 
-**[4058.56s] English:** Aber selbst Opus ist manchmal so trainiert, dass der AI-Agent das Kontext-Window im Blick hat.  
-**Translation:** Vocabulary: angegangen: 部分解决; blick: 视野; teilweise: 部分地; trainiert: 训练有素
-
-**[4065.56s] English:** Je näher er dem Limit kommt, desto mehr flippt er aus.  
+**[4039.72s] English:** Also, you also need to guide them a little bit as to where they should look and how they should approach the problem.  
 **Translation:** 
 
-**[4072.18s] English:** Manchmal sieht man tatsächlich den rohen, ungefilterten Gedankenstrom.  
-**Translation:** Vocabulary: gedankenstrom: 思维流; ungefilterten: 未经过滤的
-
-**[4076.84s] English:** Das, was du zum Beispiel im Codex siehst, ist nachbearbeitet.  
+**[4046.84s] English:** There are small things that sometimes help, if they take their time.  
 **Translation:** 
 
-**[4080.00s] English:** Ab und zu rutscht dieser ursprüngliche Gedankengang durch und dann klingt es fast wie von den Borg. Shell ausführen, muss erfüllen, in der Zeit. So etwas taucht immer wieder auf, besonders wenn man intensiv damit arbeitet.  
-**Translation:** Vocabulary: arbeitet: 工作; beispiel: 例子; besonders: 特别; etwas: 某些东西; gedankengang: 思路; intensiv: 专注地; nachbearbeitet: 修订过
-
-**[4096.50s] English:** Ja. Und das ist ein Detail, auf das man nie von selbst kommen würde, wenn man nicht wirklich Zeit mit diesen Systemen verbringt und ein Gespür dafür entwickelt, was funktioniert und was nicht.  
+**[4051.34s] English:** It sounds dumb, but in 5.3, this will be partially addressed.  
 **Translation:** 
 
-**[4111.88s] English:** Es ist wie beim Programmieren. Wenn ich im Flow bin und meine Architektur stimmt nicht ganz, spüre ich sofort eine Reibung.  
-**Translation:** Vocabulary: architektur: 架构; entwickelt: 培养; funktioniert: 有效; nicht: 无效; programmieren: 编程; systemen: 系统; verbringt: 花费; wirklich: 真正
-
-**[4119.10s] English:** Nun, mir geht es genauso beim Prompten. Wenn etwas zu lange dauert, denke ich sofort, wo ist der Fehler?  
+**[4058.56s] English:** Aber selbst Opus is sometimes trained to the point where the AI agent has its context window in view.  
 **Translation:** 
 
-**[4126.50s] English:** Habe ich einen Denkfehler? Gibt es ein Missverständnis in der Architektur?  
-**Translation:** Vocabulary: denkfehler: 思维错误; lange: 时间长; prompten: 提示
-
-**[4131.94s] English:** Wenn etwas länger braucht, als es sollte, kann man einfach stoppen und Escape drücken. Wo ist das Problem?  
+**[4065.56s] English:** The closer he gets to the limit, the more he flips out.  
 **Translation:** 
 
-**[4140.06s] English:** Vielleicht hast du dich nicht ausreichend in die Perspektive des Agents hineinversetzt.  
-**Translation:** Vocabulary: ausreichend: 足够; hineinversetzt: 设身处地; perspektive: 视角; vielleicht: 也许
+**[4072.18s] English:** Sometimes one actually sees the raw, unfiltered stream of thoughts.  
+**Translation:** Vocabulary: unfiltered: 未经筛选的
 
-**[4144.10s] English:** Du hast nicht genug Informationen geliefert und deswegen dauert es so lange.  
+**[4076.84s] English:** What you see, for example, in the Codex, is edited.  
 **Translation:** 
 
-**[4148.52s] English:** Er versucht einfach eine Funktion zu erzwingen, die in deiner aktuellen Architektur wirklich schwer umzusetzen ist.  
-**Translation:** Vocabulary: aktuellen: 当前的; erzwingen: 强行实现; funktion: 功能; geliefert: 提供; informationen: 信息; umzusetzen: 实施; versucht: 尝试
+**[4080.00s] English:** Ab und zu rutscht dieser ursprüngliche Gedankengang durch, und dann klingt es fast wie von den Borg. Shell ausführen, muss erfüllen – in der Zeit. So etwas taucht immer wieder auf, besonders wenn man intensiv damit arbeitet.  
+**Translation:** Vocabulary: arbeitet: 工作; besonders: 特别; codex: 手稿; etwas: 某些东西; gedankengang: 思路; intensiv: intensively; rutscht: 溜出
 
-**[4156.50s] English:** Also, du musst das eher wie ein Gespräch angehen.  
+**[4096.50s] English:** Ja. And that is a detail that one would never come up with on their own if they didn't really spend time with these systems and develop a sense of what works and what doesn't.  
 **Translation:** 
 
-**[4163.22s] English:** Zum Beispiel, wenn ich, was ich besonders gern mache, einen Pull-Request reviewe und wir bekommen wirklich viele davon,  
-**Translation:** Vocabulary: bekommen: 收到; davon: 这些; mache: 做的事情
-
-**[4171.52s] English:** dann reviewe ich erstmal diesen einen Pull-Request.  
+**[4111.88s] English:** It's like programming. When I'm in the flow and my architecture isn't quite right, I can feel a friction immediately.  
 **Translation:** 
 
-**[4175.02s] English:** Der Pull-Request liegt vor mir.  
+**[4119.10s] English:** Now, whenever I receive a prompt, if something takes too long, I immediately think, where is the error?  
 **Translation:** 
 
-**[4176.94s] English:** Meine erste Frage ist, verstehst du die Absicht hinter dem Pull-Request?  
+**[4126.50s] English:** Have I made a thinking error? Is there a misunderstanding in the architecture?  
+**Translation:** Vocabulary: prompt: 提示
+
+**[4131.94s] English:** When something takes longer than it should, you can simply stop and press Escape. Where is the problem?  
 **Translation:** 
 
-**[4180.58s] English:** Die Implementierung interessiert mich erstmal gar nicht.  
-**Translation:** Vocabulary: implementierung: 实施; interessiert: 关心; verstehst: 理解
-
-**[4183.02s] English:** In fast allen Pull-Requests ist es doch so.  
+**[4140.06s] English:** Maybe you didn't fully put yourself into the agent's perspective.  
 **Translation:** 
 
-**[4185.10s] English:** Jemand hat ein Problem.  
+**[4144.10s] English:** You have not provided enough information, and that's why it's taking so long.  
 **Translation:** 
 
-**[4186.50s] English:** Versucht es zu lösen und schickt dann einen Pull-Request.  
+**[4148.52s] English:** He is trying to enforce a function that is really hard to implement in your current architecture.  
+**Translation:** Vocabulary: enforce: 强制执行; implement: 实现
+
+**[4156.50s] English:** Also, you should approach this more like a conversation.  
 **Translation:** 
 
-**[4189.32s] English:** Klar, es gibt auch Aufräumarbeiten und anderes, aber in 99% der Fälle läuft es genauso.  
+**[4163.22s] English:** For example, when I, what I particularly enjoy doing, is reviewing pull requests, and we get really many of them.  
 **Translation:** 
 
-**[4194.60s] English:** Entweder will jemand einen Bug beheben oder ein Feature hinzufügen.  
+**[4171.52s] English:** Dann, I will review this one pull request first.  
 **Translation:** 
 
-**[4198.66s] English:** Normalerweise eins von beiden.  
-**Translation:** Vocabulary: entweder: 要么; normalerweise: 通常
-
-**[4200.00s] English:** Dann wird Codex sagen, ja, es ist ganz klar, dass diese Person dies und das versucht hat.  
+**[4175.02s] English:** The pull-request is in front of me.  
 **Translation:** 
 
-**[4206.34s] English:** Ist das die optimalste Lösung? Nein.  
-**Translation:** Vocabulary: codex: 法典; optimalste: 最优化的
-
-**[4209.84s] English:** In den meisten Fällen stimmt das nicht.  
+**[4176.94s] English:** My first question is, do you understand the intent behind the pull request?  
 **Translation:** 
 
-**[4212.14s] English:** Es ist eher so oder so oder so.  
+**[4180.58s] English:** Die Implementierung interests me not at all right now.  
+**Translation:** Vocabulary: implementierung: 实施; intent: 意图
+
+**[4183.02s] English:** In fast all pull-requests, it is indeed so.  
 **Translation:** 
 
-**[4214.54s] English:** Und dann fange ich an zu überlegen, okay, was wäre eine bessere Möglichkeit?  
+**[4185.10s] English:** Someone has a problem.  
 **Translation:** 
 
-**[4218.18s] English:** Hast du dir schon diesen Teil, diesen Teil, diesen Teil angesehen?  
-**Translation:** Vocabulary: angesehen: 看过
-
-**[4221.78s] English:** Wahrscheinlich hat der Agent das noch nicht, weil sein Kontext leer ist, richtig?  
+**[4186.50s] English:** Tries to solve it and then sends a pull request.  
 **Translation:** 
 
-**[4225.24s] English:** Du weist ihn also auf Teile hin, die er noch nicht erkannt hat.  
-**Translation:** Vocabulary: wahrscheinlich: 可能
-
-**[4228.54s] English:** Und dann sagt er vielleicht, oh ja, wir sollten auch das und das berücksichtigen.  
+**[4189.32s] English:** Klar, there are also cleaning sales and other things, but in 99% of cases, it runs just the same.  
 **Translation:** 
 
-**[4233.48s] English:** Dann diskutieren wir, wie die optimale Lösung aussehen könnte.  
-**Translation:** Vocabulary: aussehen: 看起来; diskutieren: 讨论; optimale: 最佳的
-
-**[4237.78s] English:** Dann kannst du noch weitergehen und sagen, könnten wir das noch verbessern,  
+**[4194.60s] English:** Either someone wants to fix a bug or add a feature.  
 **Translation:** 
 
-**[4241.34s] English:** wenn wir eine größere Umstrukturierung machen?  
-**Translation:** Vocabulary: machen: 进行; umstrukturierung: 重组; verbessern: 改进; weitergehen: 继续
-
-**[4243.50s] English:** Ja, wir könnten das und das machen oder das und das.  
+**[4198.66s] English:** Normally, one of the two.  
 **Translation:** 
 
-**[4245.98s] English:** Dann überlege ich, ob sich die Umstrukturierung lohnt oder ob wir das lieber später machen sollten.  
+**[4200.00s] English:** Then Codex will say, "Yes, it is quite clear that this person has tried to do this and that.  
 **Translation:** 
 
-**[4251.00s] English:** Oft mache ich einfach den Refactor, weil Refactors jetzt günstig sind.  
+**[4206.34s] English:** Is this the optimal solution? No.  
+**Translation:** Vocabulary: codex: 法典; optimal: 最佳的
+
+**[4209.84s] English:** In most cases, that is not correct.  
 **Translation:** 
 
-**[4254.64s] English:** Selbst wenn du einige andere Pull Requests kaputt machst, spielt das keine Rolle mehr.  
-**Translation:** Vocabulary: refactor: 重构代码; refactors: 重构代码
-
-**[4258.54s] English:** Kodex, wie diese modernen Agents, wird die Dinge einfach herausfinden.  
+**[4212.14s] English:** It's more or less like that, one way or another.  
 **Translation:** 
 
-**[4263.44s] English:** Sie benötigen vielleicht nur eine Minute länger.  
-**Translation:** Vocabulary: dinge: 事情; herausfinden: 发现; modernen: 现代的; vielleicht: 也许
-
-**[4266.48s] English:** Aber du musst es wie ein Gespräch mit einem sehr fähigen Entwickler angehen.  
+**[4214.54s] English:** Then I start to think, okay, what would be a better way?  
 **Translation:** 
 
-**[4274.42s] English:** Meistens hat es gute Lösungsansätze, aber manchmal muss man etwas nachhelfen.  
-**Translation:** Vocabulary: entwickler: 开发者; etwas: 一些东西; manchmal: 有时; meistens: 大多数时候; nachhelfen: 帮助
-
-**[4279.94s] English:** Aber man sollte ihm auch nicht zu sehr die eigene Sichtweise aufzwingen.  
+**[4218.18s] English:** Have you already looked at this part, this part, this part?  
 **Translation:** 
 
-**[4284.18s] English:** Man sollte den AI Agent das tun lassen, worin er gut ist.  
-**Translation:** Vocabulary: aufzwingen: 强加; nicht: 不; sichtweise: 观点
-
-**[4288.08s] English:** Basierend auf seinem Training.  
+**[4221.78s] English:** Probably he hasn't updated it yet because his context is still empty, right?  
 **Translation:** 
 
-**[4290.64s] English:** Wenn man ihm die eigene Perspektive aufdrängt, übersieht man möglicherweise, dass er eine bessere Idee hat.  
-**Translation:** Vocabulary: basierend: 基于; perspektive: 视角
-
-**[4295.86s] English:** Einfach, weil er genau dafür intensiver trainiert wurde.  
+**[4225.24s] English:** You point out to him the parts he has yet to recognize.  
 **Translation:** 
 
-**[4299.32s] English:** Das sind mehrere Ebenen im Spiel.  
-**Translation:** Vocabulary: intensiver: 更加刻苦; spiel: 游戏; trainiert: 训练
-
-**[4301.32s] English:** Ich glaube aber, mir fällt die Arbeit mit Agents deshalb leicht,  
+**[4228.54s] English:** Then he might say, "Oh, yes, we should also consider this and that.  
 **Translation:** 
 
-**[4305.52s] English:** weil ich früher Entwicklerteams geleitet und ein größeres Unternehmen geführt habe.  
-**Translation:** Vocabulary: entwicklerteams: 开发团队; geleitet: 领导; unternehmen: 公司
+**[4233.48s] English:** Then we will discuss how the optimal solution could look like.  
+**Translation:** 
+
+**[4237.78s] English:** Dann, du kannst noch weitergehen und sagen: Könnten wir das noch verbessern?  
+**Translation:** 
+
+**[4241.34s] English:** When we make a larger restructuring?  
+**Translation:** Vocabulary: restructuring: 大规模重组; verbessern: 改进; weitergehen: 继续
+
+**[4243.50s] English:** Ja, we could do this and that, or this and that.  
+**Translation:** 
+
+**[4245.98s] English:** Then I consider whether restructuring is worth it or if we should do it later instead.  
+**Translation:** 
+
+**[4251.00s] English:** Oft I make simply the refactor because refactors are now cheap.  
+**Translation:** 
+
+**[4254.64s] English:** Even if you mess up a few other pull requests, that doesn't matter anymore.  
+**Translation:** Vocabulary: refactor: 重构; refactors: 重构
+
+**[4258.54s] English:** Kodex, like these modern agents, will simply figure out the things.  
+**Translation:** 
+
+**[4263.44s] English:** You may need only a minute longer.  
+**Translation:** 
+
+**[4266.48s] English:** But you must approach it like a conversation with a very capable developer.  
+**Translation:** 
+
+**[4274.42s] English:** Mostly, there are good solutions, but sometimes we need to give a little extra help.  
+**Translation:** 
+
+**[4279.94s] English:** Aber man should not impose his own perspective on him too much either.  
+**Translation:** 
+
+**[4284.18s] English:** Man should let the AI agent do what it is good at.  
+**Translation:** Vocabulary: impose: 强加
+
+**[4288.08s] English:** Based on its training.  
+**Translation:** 
+
+**[4290.64s] English:** When we impose our own perspective on him, we might overlook that he might have a better idea.  
+**Translation:** Vocabulary: overlook: 忽视
+
+**[4295.86s] English:** Simply because he was trained more intensely for that.  
+**Translation:** 
+
+**[4299.32s] English:** These are several levels in the game.  
+**Translation:** Vocabulary: intensely: 严格地
+
+**[4301.32s] English:** I believe, however, that working with agents falls easily on me,  
+**Translation:** 
+
+**[4305.52s] English:** Weil ich früher Entwicklungsteams geleitet und ein größeres Unternehmen geführt habe.  
+**Translation:** Vocabulary: entwicklungsteams: 开发团队; geleitet: 领导; unternehmen: 公司
 
 **[4309.64s] English:** Irgendwann versteht und akzeptiert man, dass Mitarbeiter den Code nicht genauso schreiben wie man selbst.  
 **Translation:** 
 
-**[4316.48s] English:** Vielleicht nicht so, wie man es selbst schreibt.  
-**Translation:** Vocabulary: akzeptiert: 最终接受; irgendwann: 最终; mitarbeiter: 员工; schreiben: 编写; schreibt: 写作; versteht: 理解
+**[4316.48s] English:** Maybe not as it is written by oneself.  
+**Translation:** Vocabulary: akzeptiert: 接受; genauso: 一样; irgendwann: eventually; mitarbeiter: 员工; nicht: 不; schreiben: 书写; versteht: 理解
 
-**[4317.88s] English:** Vielleicht nicht so, wie man es persönlich für ideal hält.  
+**[4317.88s] English:** Perhaps not as one personally considers ideal.  
 **Translation:** 
 
-**[4320.00s] English:** Aber es bringt das Projekt voran.  
+**[4320.00s] English:** Aber it brings the project forward.  
 **Translation:** 
 
-**[4321.86s] English:** Wenn ich allen ständig im Nacken sitze, hassen sie mich.  
+**[4321.86s] English:** When I constantly keep everyone on edge, they hate me.  
 **Translation:** 
 
-**[4325.26s] English:** Und alles geht nur noch langsamer.  
-**Translation:** Vocabulary: langsamer: 更慢
-
-**[4327.60s] English:** Man braucht also ein gewisses Maß an Akzeptanz.  
+**[4325.26s] English:** And everything is getting slower.  
 **Translation:** 
 
-**[4330.76s] English:** Ja, der Code ist vielleicht nicht perfekt.  
-**Translation:** Vocabulary: akzeptanz: 接受度; gewisses: 一定的
+**[4327.60s] English:** Man needs a certain degree of acceptance.  
+**Translation:** 
 
-**[4333.70s] English:** Ja, ich hätte es anders gemacht.  
+**[4330.76s] English:** Ja, the code is maybe not perfect.  
+**Translation:** 
+
+**[4333.70s] English:** Ja, I would have done it differently.  
 **Translation:** 
 
 **[4336.36s] English:** Aber es ist eine funktionierende Lösung.  
 **Translation:** Vocabulary: funktionierende: 可行的
 
-**[4339.56s] English:** Und wenn sich später herausstellt, dass es doch zu langsam ist oder Probleme macht,  
+**[4339.56s] English:** And if it turns out later that it is still too slow or causes problems,  
 **Translation:** 
 
-**[4343.70s] English:** kann man es jederzeit neu aufsetzen.  
-**Translation:** Vocabulary: aufsetzen: 重新设置; herausstellt: 证明; jederzeit: 随时; probleme: 问题
-
-**[4345.06s] English:** Und viele derjenigen, die damit kämpfen, versuchen, ihre eigene Art zu sehr durchzudrücken.  
+**[4343.70s] English:** One can reset it at any time.  
 **Translation:** 
 
-**[4351.76s] English:** Wir befinden uns gerade in einer Phase, in der ich den Code nicht für mich perfektioniere,  
-**Translation:** Vocabulary: befinden: 处于; derjenigen: 那些人; perfektioniere: 完善; versuchen: 尝试
-
-**[4360.14s] English:** sondern so aufbaue, dass ein AI-Agent sich darin möglichst leicht orientieren kann.  
+**[4345.06s] English:** And many of those who are struggling try to push their own way too much.  
 **Translation:** 
 
-**[4365.48s] English:** Man sollte also nicht gegen die Namen ankämpfen, die er wählt.  
-**Translation:** Vocabulary: darin: 其中; namen: 名称; orientieren: 定位
-
-**[4368.68s] English:** Wahrscheinlich sind genau diese Begriffe in seinen Gewichten am stärksten verankert.  
+**[4351.76s] English:** We are currently in a phase where I am not perfecting the code for myself.  
 **Translation:** 
 
-**[4372.90s] English:** Wenn er später erneut sucht,  
-**Translation:** Vocabulary: begriffe: 概念; gewichten: 权重; verankert: 根植; wahrscheinlich: 可能
-
-**[4373.90s] English:** wird er genau nach diesem Namen greifen.  
+**[4360.14s] English:** Instead, build it in such a way that an AI agent can possibly easily orient itself.  
 **Translation:** 
 
-**[4377.20s] English:** Wenn ich entscheide, oh nein, der Name gefällt mir nicht,  
-**Translation:** Vocabulary: entscheide: 做决定
-
-**[4380.04s] English:** dann mache ich es ihnen einfach schwerer.  
+**[4365.48s] English:** Man should therefore not fight against the names he chooses.  
 **Translation:** 
 
-**[4383.68s] English:** Das erfordert, glaube ich, ein Umdenken und ein neues Design für ein Projekt,  
-**Translation:** Vocabulary: erfordert: 要求; mache: 使; schwerer: 更难; umdenken: 转变思维
-
-**[4390.64s] English:** damit die Agents ihre beste Arbeit leisten können.  
+**[4368.68s] English:** Probably, these terms are the most deeply ingrained in his weights.  
 **Translation:** 
 
-**[4394.92s] English:** Das erfordert ein Stück Zurücknehmen.  
-**Translation:** Vocabulary: leisten: 提供
+**[4372.90s] English:** When he later searches again,  
+**Translation:** Vocabulary: ingrained: 根深蒂固的
 
-**[4396.98s] English:** Genau wie beim Führen eines Entwicklerteams.  
+**[4373.90s] English:** He will precisely reach for this name.  
+**Translation:** 
+
+**[4377.20s] English:** When I decide, oh no, I don't like the name.  
+**Translation:** Vocabulary: precisely: 准确地
+
+**[4380.04s] English:** Then I make it harder for them.  
+**Translation:** 
+
+**[4383.68s] English:** This requires, I believe, a mindset shift and a new design for a project.  
+**Translation:** Vocabulary: mindset: 思维模式
+
+**[4390.64s] English:** So that the agents can perform their best.  
+**Translation:** 
+
+**[4394.92s] English:** This requires a bit of giving back.  
+**Translation:** 
+
+**[4396.98s] English:** Exactly like managing a development team.  
 **Translation:** 
 
 **[4399.00s] English:** Ja.  
 **Translation:** 
 
-**[4399.52s] English:** Vielleicht wählt er einen Namen, den du furchtbar findest.  
+**[4399.52s] English:** Perhaps he will choose a name that you find terribly upsetting.  
 **Translation:** 
 
 **[4403.72s] English:** Und...  
-**Translation:** Vocabulary: furchtbar: 糟糕透了; vielleicht: 也许
+**Translation:** 
 
-**[4403.90s] English:** Es ist aber ein winziger, symbolischer Schritt des Zurücknehmens.  
+**[4403.90s] English:** It is, however, a tiny, symbolic step of retraction.  
 **Translation:** 
 
 **[4409.66s] English:** Ganz genau.  
-**Translation:** Vocabulary: symbolischer: 象征性的; winziger: 微小的
+**Translation:** Vocabulary: retraction: 撤回; symbolic: 象征性
 
-**[4410.56s] English:** Und dieses Zurücknehmen zieht sich durch den ganzen Prozess.  
+**[4410.56s] English:** And this withdrawal runs through the entire process.  
 **Translation:** 
 
-**[4413.42s] English:** Ich habe zum Beispiel irgendwo gesehen, dass du nicht revertierst.  
-**Translation:** Vocabulary: beispiel: 示例; irgendwo: 某处; nicht: 不; revertierst: 撤销
-
-**[4418.56s] English:** Du committest immer direkt auf Main.  
+**[4413.42s] English:** I have, for example, somewhere seen that you do not revert.  
 **Translation:** 
 
-**[4423.30s] English:** Du beziehst dich nicht auf frühere Versionen.  
-**Translation:** Vocabulary: beziehst: 涉及; committest: 提交; versionen: 版本
-
-**[4426.26s] English:** Das hat etwas von einem YOLO-Ansatz.  
+**[4418.56s] English:** You always commit directly on Main.  
 **Translation:** 
 
-**[4428.32s] English:** Denn revertieren würde bedeuten,  
-**Translation:** Vocabulary: bedeuten: 意味着; etwas: 一些东西; revertieren: 回滚
-
-**[4430.38s] English:** wenn ein Problem auftaucht, revertierst du nicht,  
+**[4423.30s] English:** You are not referring to earlier versions.  
 **Translation:** 
 
-**[4433.48s] English:** sondern bittest den Agent einfach, es zu beheben.  
-**Translation:** Vocabulary: auftaucht: 出现
-
-**[4436.80s] English:** Ich sehe viele Leute, die in ihrem Arbeitsablauf sagen,  
+**[4426.26s] English:** This has something of a YOLO approach.  
 **Translation:** 
 
-**[4439.24s] English:** ja, der Prompt muss...  
-**Translation:** Vocabulary: arbeitsablauf: 工作流程
+**[4428.32s] English:** Denn revertieren would mean,  
+**Translation:** Vocabulary: revertieren: 回退
 
-**[4440.00s] English:** perfekt sein. Wenn ich einen Fehler mache, gehe ich zurück und mache alles neu.  
+**[4430.38s] English:** When a problem arises, you do not revert.  
 **Translation:** 
 
-**[4445.20s] English:** Aus meiner Erfahrung ist das nicht wirklich nötig.  
-**Translation:** Vocabulary: erfahrung: 经验; wirklich: 真正
-
-**[4448.08s] English:** Wenn ich alles zurücksetze, dauert es nur länger. Wenn ich sehe,  
+**[4433.48s] English:** Instead, ask the agent to simply fix it.  
 **Translation:** 
 
-**[4452.26s] English:** dass etwas nicht gut ist, gehen wir einfach weiter und dann  
+**[4436.80s] English:** I see many people who say in their workflow,  
 **Translation:** 
 
-**[4456.16s] English:** committe ich, wenn mir das Ergebnis gefällt.  
+**[4439.24s] English:** Ja, the prompt must...  
+**Translation:** Vocabulary: prompt: 提示; workflow: 工作流程
+
+**[4440.00s] English:** Perfect. When I make a mistake, I go back and do everything anew.  
 **Translation:** 
 
-**[4459.90s] English:** Ich bin sogar umgestiegen auf lokales  
-**Translation:** Vocabulary: committe: 委员会; ergebnis: 结果; umgestiegen: 转乘
-
-**[4464.24s] English:** CI, weißt du, inspiriert von DHH, wobei mit CI  
+**[4445.20s] English:** From my experience, this is not really necessary.  
 **Translation:** 
 
-**[4468.12s] English:** auf GitHub nicht mehr so wichtig ist. Wir haben es noch,  
+**[4448.08s] English:** When I reset everything, it takes longer. When I see,  
 **Translation:** 
 
-**[4471.94s] English:** es ist noch da, es hat seinen Platz,  
+**[4452.26s] English:** Dass etwas nicht gut ist, gehen wir einfach weiter und dann.  
 **Translation:** 
 
-**[4476.74s] English:** aber ich lasse die Tests lokal laufen  
-**Translation:** Vocabulary: lasse: 让
-
-**[4479.42s] English:** und wenn es funktioniert, dann pushe ich auf Main.  
+**[4456.16s] English:** I will commit to it, if I like the result.  
 **Translation:** 
 
-**[4485.12s] English:** Es gibt verschiedene klassische Ansätze, wie man  
-**Translation:** Vocabulary: funktioniert: 起作用; klassische: 经典的; verschiedene: 不同的
-
-**[4487.88s] English:** ein Projekt gestalten kann, aber ich wollte diesem Projekt bewusst  
+**[4459.90s] English:** I have even switched to local stock.  
 **Translation:** 
 
-**[4491.50s] English:** einen anderen Dreh geben. Es gibt keine  
-**Translation:** Vocabulary: gestalten: 设计
-
-**[4495.74s] English:** Developed Branch. Main soll jeder  
+**[4464.24s] English:** CI, as I understand it, was inspired by DHH, where CI stands for Continuous Integration.  
 **Translation:** 
 
-**[4498.10s] English:** Zeit releasefähig sein. Wenn ich Releases mache, lasse ich  
+**[4468.12s] English:** On GitHub, it is not as important anymore. We still have it.  
 **Translation:** 
 
-**[4502.40s] English:** Tests laufen und manchmal  
+**[4471.94s] English:** It is still there, it has its place,  
 **Translation:** 
 
-**[4504.64s] English:** committe ich im Grunde nichts anderes, nur damit wir Releases  
-**Translation:** Vocabulary: manchmal: 有时候; nichts: nothing
-
-**[4510.34s] English:** stabilisieren können. Das Ziel ist, dass Main  
+**[4476.74s] English:** aber I let the tests run locally.  
 **Translation:** 
 
-**[4513.94s] English:** jederzeit releasefähig bleibt und sich trotzdem schnell weiterentwickelt.  
-**Translation:** Vocabulary: jederzeit: 任何时候; schnell: 快速; stabilisieren: 稳定; trotzdem: 然而; weiterentwickelt: 继续发展
-
-**[4518.88s] English:** Würdest du sagen, dass Prompts prinzipiell kürzer sein sollten?  
+**[4479.42s] English:** And if it works, then I push it to Main.  
 **Translation:** 
 
-**[4523.72s] English:** Früher habe ich extrem lange Prompts geschrieben  
-**Translation:** Vocabulary: geschrieben: 撰写; lange: 长的; prinzipiell: 原则上
+**[4485.12s] English:** There are various classical approaches to how one  
+**Translation:** Vocabulary: approaches: 处理方法
 
-**[4525.66s] English:** und mit geschrieben meine ich  
+**[4487.88s] English:** Designing a project can, but I wanted to consciously  
 **Translation:** 
 
-**[4527.96s] English:** eingesprochen. Diese Hände sind mir  
-**Translation:** Vocabulary: eingesprochen: 熟记于心
+**[4491.50s] English:** geben. Es gibt keine  
+**Translation:** Vocabulary: consciously: 有意识地
 
-**[4530.74s] English:** inzwischen zu wertvoll zum Tippen. Ich nutze jetzt einfach  
+**[4495.74s] English:** Developed Branch. Main: Soll Jedermann  
 **Translation:** 
 
-**[4533.94s] English:** eingesprochene Prompts, um meine Software zu bauen.  
-**Translation:** Vocabulary: eingesprochene: 约定俗成的; inzwischen: meantime; wertvoll: 宝贵的
+**[4498.10s] English:** Ziet release-fähig sein. Wenn ich Releases mache, lasse ich  
+**Translation:** Vocabulary: jedermann: 每个人; lasse: 让; mache: 做
 
-**[4537.04s] English:** Also, meinst du das ernst, dass du all diese Terminals mit Sprachsteuerung  
+**[4502.40s] English:** Tests are running, and sometimes  
 **Translation:** 
 
-**[4540.10s] English:** benutzt? Ja, ich habe das früher  
-**Translation:** Vocabulary: ernst: 认真; sprachsteuerung: 语音控制
-
-**[4542.50s] English:** sehr intensiv gemacht. Ich habe sogar schon mal  
+**[4504.64s] English:** Committing, in essence, nothing else but so that we can have releases.  
 **Translation:** 
 
-**[4545.84s] English:** meine Stimme verloren.  
-**Translation:** Vocabulary: intensiv: 非常集中; verloren: 失去
-
-**[4548.30s] English:** Du benutzt deine Stimme und wechselst mit der Tastatur zwischen den Terminals.  
+**[4510.34s] English:** Stabilize can be achieved. The goal is that main  
 **Translation:** 
 
-**[4552.62s] English:** Für den eigentlichen Input verwendest du aber deine Stimme?  
-**Translation:** Vocabulary: eigentlichen: 真正的; tastatur: 键盘; verwendest: 使用; wechselst: 切换; zwischen: 在...之间
+**[4513.94s] English:** Jederzeit release-fähig bleibt und sich trotzdem schnell weiterentwickelt.  
+**Translation:** Vocabulary: jederzeit: 随时; schnell: 快速; stabilize: 稳定; trotzdem: 尽管如此; weiterentwickelt: 继续发展
 
-**[4555.38s] English:** Also klar, wenn ich Terminalbefehle mache,  
+**[4518.88s] English:** Would you say that prompts should generally be shorter?  
 **Translation:** 
 
-**[4557.02s] English:** dann ist das nicht so wichtig.  
-**Translation:** Vocabulary: mache: 执行; nicht: 不; terminalbefehle: 终端命令
+**[4523.72s] English:** Earlier, I had written extremely long prompts.  
+**Translation:** Vocabulary: prompts: 提示
 
-**[4557.96s] English:** Ordnerwechsel oder sowas tippe ich natürlich.  
+**[4525.66s] English:** And with written, I mean.  
 **Translation:** 
 
-**[4560.00s] English:** Das geht schneller, oder? Aber in den meisten Fällen spreche ich mit den Agents und führe tatsächlich einfach ein Gespräch. Ich drücke einfach die Walkie-Talkie-Taste und verwende dann ganz normal meine Stimme.  
-**Translation:** Vocabulary: ordnerwechsel: 文件夹切换; schneller: 更快; verwende: 使用
+**[4527.96s] English:** Eingesprochen. Diese Hände sind mir.  
+**Translation:** Vocabulary: eingesprochen: 已背诵
 
-**[4573.54s] English:** Manchmal, wenn ich Pull-Requests mache, weil es immer wieder ähnlich ist, habe ich für ein paar Dinge Slash-Befehle, aber selbst die nutze ich kaum, weil es wirklich selten exakt dieselben Fragen sind.  
+**[4530.74s] English:** Inzwischen zu valuable for typing. I now simply use it.  
 **Translation:** 
 
-**[4588.78s] English:** Manchmal sehe ich einen Pull-Request und bei Pull-Requests schaue ich mir den Code tatsächlich an, weil ich Menschen nicht blind vertraue. Es könnte immer etwas Bösartiges enthalten sein, deshalb muss ich den Code wirklich prüfen.  
-**Translation:** Vocabulary: dieselben: 相同的; dinge: 事情; enthalten: 包含; etwas: 一些东西; menschen: 人们; vertraue: 信任; wirklich: 真正
+**[4533.94s] English:** Eingespachene prompts, um meine Software zu bauen.  
+**Translation:** Vocabulary: inzwischen: meantime
 
-**[4603.54s] English:** Ich bin ziemlich sicher, dass Agents so etwas entdecken werden. Aber ja, das ist der witzige Teil. Manchmal kosten mich Pull-Requests mehr Zeit, als wenn man mir einfach ein gutes Issue geschrieben hätte.  
+**[4537.04s] English:** Also, do you mean that seriously—that you want to control all these terminals with voice commands?  
 **Translation:** 
 
-**[4614.76s] English:** Einfach natürliche Sprache. Ich meine, sollten Pull-Requests nicht in gewisser Weise langsam genau das werden? Englisch?  
-**Translation:** Vocabulary: englisch: 英语; entdecken: 发现; gewisser: 某种程度上; ziemlich: 相当
+**[4540.10s] English:** Benutzt? Ja, ich habe das früher.  
+**Translation:** Vocabulary: benutzt: 使用; terminals: 终端
 
-**[4623.60s] English:** Also was ich wirklich versucht habe mit dem Projekt war, dass ich die Leute gebeten habe, mir die Prompts zu geben und nur sehr wenige kümmerten sich.  
+**[4542.50s] English:** Sehr intensiv gemacht. Ich habe sogar schon einmal  
 **Translation:** 
 
-**[4633.54s] English:** Tatsächlich. Obwohl das ein wunderbarer Indikator ist, weil ich sehe wirklich, wie viel Mühe du investierst. Es ist sehr interessant, denn die Art und Weise, wie Menschen derzeit arbeiten und die Agents lenken, ist sehr unterschiedlich.  
-**Translation:** Vocabulary: arbeiten: 工作; indikator: 指标; interessant: 有趣; investierst: 投入; unterschiedlich: 不同; versucht: 尝试; wunderbarer: 精彩的
+**[4545.84s] English:** I have lost my voice.  
+**Translation:** Vocabulary: gemacht: 制作
 
-**[4649.86s] English:** Im Hinblick auf die Prompts, was sind eigentlich die verschiedenen interessanten Arten, wie Menschen über Agents denken, die du gesehen hast?  
+**[4548.30s] English:** You use your voice and switch between terminals with the keyboard.  
 **Translation:** 
 
-**[4659.92s] English:** Ich glaube, viele haben nie darüber nachgedacht.  
-**Translation:** Vocabulary: eigentlich: 实际上; hinblick: 着眼于; interessanten: 有趣的; nachgedacht: 思考过; verschiedenen: 不同的
-
-**[4664.24s] English:** Wie der Agent die Welt sieht.  
+**[4552.62s] English:** For the actual input, do you use your voice?  
 **Translation:** 
 
-**[4667.04s] English:** Einfühlungsvermögen, empathisch gegenüber den Agents sein.  
-**Translation:** Vocabulary: empathisch: 感同身受
-
-**[4670.32s] English:** Das ist irgendwie empathisch. Aber du schimpfst auf deinen dummen Roboter und merkst nicht, dass sie von Null anfangen. Und du hast einen schlechten Agent als Standard, der ihnen überhaupt nicht hilft.  
+**[4555.38s] English:** Also, klar, when I make terminal commands,  
 **Translation:** 
 
-**[4680.00s] English:** Dann erkunden sie deinen Code, der ein reines Chaos mit seltsamen Namen ist  
-**Translation:** Vocabulary: anfangen: 开始; erkunden: 探索; irgendwie: 有些; namen: 名称; nicht: 不; schimpfst: 责骂; schlechten: 差的; seltsamen: 奇怪的
-
-**[4683.64s] English:** und die Leute beschweren sich, dass der Agent nicht gut ist.  
+**[4557.02s] English:** Dann, is that not so important.  
 **Translation:** 
 
-**[4686.64s] English:** Versuche mal das Gleiche zu machen, wenn du keine Ahnung von deinem Code hast  
-**Translation:** Vocabulary: beschweren: 抱怨; machen: 做; versuche: 试试
-
-**[4689.42s] English:** und einfach hineingehst.  
+**[4557.96s] English:** Order change or something like that, I would naturally type.  
 **Translation:** 
 
-**[4690.78s] English:** Also ja, vielleicht ist es ein bisschen Empathie.  
-**Translation:** Vocabulary: bisschen: 一点; empathie: 同情心; hineingehst: 进去; vielleicht: maybe
+**[4560.00s] English:** Das geht schneller, oder? Aber in den meisten Fällen, ich spreche direkt mit den Agents und führe tatsächlich einfach ein Gespräch. Ich drücke einfach die Walkie-Talkie-Taste und verwende dann ganz normal meine Stimme.  
+**Translation:** Vocabulary: einfach: 简单; meisten: 大多数; schneller: 更快; spreche: 说话; verwende: 使用
 
-**[4693.18s] English:** Aber das ist eine echte Fähigkeit.  
+**[4573.54s] English:** Sometimes, when I make pull-requests because it's always a bit similar, I have a few slash-commands for certain things, but I hardly use them myself because the questions are rarely exactly the same.  
 **Translation:** 
 
-**[4694.98s] English:** Wenn Leute von einem Skill-Issue sprechen.  
-**Translation:** Vocabulary: sprechen: 说话
+**[4588.78s] English:** Sometimes I see a pull-request, and when I see a pull-request, I actually look at the code because I don't blindly trust people. It could always contain something malicious, so I have to really check the code.  
+**Translation:** Vocabulary: blindly: 不加思考地; malicious: 恶意的
 
-**[4697.24s] English:** Ich habe Weltklasse-Programmierer gesehen, unglaublich gute Entwickler,  
+**[4603.54s] English:** Ich bin ziemlich sicher, dass Agents so etwas entdecken werden. But yes, that is the funny part. Sometimes pull-requests cost me more time than if someone had simply written a good issue.  
 **Translation:** 
 
-**[4700.34s] English:** die im Grunde sagen, LLMs und Agents seien schlecht.  
-**Translation:** Vocabulary: entwickler: 开发者; schlecht: 差; unglaublich: 极其
+**[4614.76s] English:** Simply natural language. I mean, shouldn't pull-requests in some way slowly become that? English?  
+**Translation:** Vocabulary: entdecken: 发现; etwas: 一些事情; ziemlich: 相当
 
-**[4705.58s] English:** Und ich glaube, das hängt damit zusammen,  
+**[4623.60s] English:** Also, what I really tried to do with the project was ask the people for the prompts, and only very few cared.  
 **Translation:** 
 
-**[4708.26s] English:** dass ihre enorme Kompetenz im Programmieren fast schon eine Last wird,  
-**Translation:** Vocabulary: kompetenz: 专业能力; programmieren: 编程; zusammen: 一起
+**[4633.54s] English:** Tatsächlich. Although this is a wonderful indicator because I can really see how much effort you invest. It's very interesting, for the way people work and the agents are directed is quite different.  
+**Translation:** Vocabulary: indicator: 指标; prompts: 提示
 
-**[4713.60s] English:** wenn es darum geht, sich in ein System hineinzuversetzen, das bei Null anfängt.  
+**[4649.86s] English:** In light of the prompts, what are the various interesting ways that people think about agents, have you observed?  
 **Translation:** 
 
-**[4718.18s] English:** Es ist eine völlig neue Art zu programmieren.  
-**Translation:** Vocabulary: hineinzuversetzen: 设想自己在其中
-
-**[4720.82s] English:** Man muss sich wirklich, wirklich hineinversetzen können.  
+**[4659.92s] English:** I believe that many have never thought about it.  
 **Translation:** 
 
-**[4724.18s] English:** Oder zumindest hilft es, bessere Prompts zu erstellen.  
-**Translation:** Vocabulary: erstellen: 创建; hineinversetzen: 设身处地; wirklich: 真正; zumindest: 至少
-
-**[4728.50s] English:** Diese Dinge wissen ziemlich viel und alles ist nur eine Frage entfernt.  
+**[4664.24s] English:** How the Agent Sees the World.  
 **Translation:** 
 
-**[4733.40s] English:** Es ist oft sehr schwer zu wissen, welche Frage man stellen soll.  
-**Translation:** Vocabulary: dinge: 事情; entfernt: 接近
+**[4667.04s] English:** Empathy, be empathetic toward the agents.  
+**Translation:** Vocabulary: empathetic: 同情的; empathy: 共情
 
-**[4736.90s] English:** Weißt du, ich denke auch, dass dieses Projekt möglich war,  
+**[4670.32s] English:** This is kind of empathetic. But you scold your dumb robot and don't realize that they start from zero. And you have a bad agent as standard, who doesn't help them at all.  
 **Translation:** 
 
-**[4743.18s] English:** weil ich über das Jahr hinweg unglaublich viel Zeit damit verbracht habe,  
-**Translation:** Vocabulary: verbracht: 花费
-
-**[4748.46s] English:** zu spielen, zu lernen und kleine Dinge zu bauen.  
+**[4680.00s] English:** Then they explore your code, which is a pure chaos with strange names.  
 **Translation:** 
 
-**[4754.48s] English:** Mit jedem Schritt wurde ich besser.  
+**[4683.64s] English:** And people complain that the agent isn't good.  
 **Translation:** 
 
-**[4757.08s] English:** Die Agents wurden besser.  
+**[4686.64s] English:** Try the same thing if you have no idea about your code.  
 **Translation:** 
 
-**[4759.34s] English:** Mein Verständnis für das Gesamte wurde besser.  
+**[4689.42s] English:** And simply walk in.  
 **Translation:** 
 
-**[4762.66s] English:** Ich hätte vor ein paar Monaten,  
+**[4690.78s] English:** Also, maybe it's a bit of empathy.  
 **Translation:** 
 
-**[4766.90s] English:** nicht so viel Output liefern können.  
+**[4693.18s] English:** But that is a real skill.  
 **Translation:** 
 
-**[4771.84s] English:** Es war wirklich ein kumulativer Effekt der ganzen Zeit, die ich investiert habe.  
+**[4694.98s] English:** When people speak of a skill issue.  
 **Translation:** 
 
-**[4777.54s] English:** Dieses Jahr habe ich nicht viel anderes gemacht,  
-**Translation:** Vocabulary: investiert: 投资; kumulativer: 累积的
-
-**[4780.30s] English:** als mich wirklich darauf zu konzentrieren,  
+**[4697.24s] English:** I have seen world-class programmers, incredibly good developers,  
 **Translation:** 
 
-**[4782.32s] English:** alle zu motivieren und zu inspirieren.  
-**Translation:** Vocabulary: inspirieren: 启发; konzentrieren: 集中; motivieren: 激励
+**[4700.34s] English:** Die grundlegenden Meinungen sind, dass LLMs und Agents schlecht sind.  
+**Translation:** Vocabulary: grundlegenden: 基本观点; meinungen: 意见; programmers: 程序员; schlecht: 不好
 
-**[4784.62s] English:** Ich habe viele Konferenzvorträge gehalten.  
+**[4705.58s] English:** And I believe that hangs with that,  
 **Translation:** 
 
-**[4787.06s] English:** Das Entscheidende ist die Praxis, wirklich zu üben.  
-**Translation:** Vocabulary: entscheidende: 关键的; gehalten: 举行; praxis: 实践
+**[4708.26s] English:** That her enormous competence in programming almost becomes a burden.  
+**Translation:** Vocabulary: burden: 负担; competence: 能力
 
-**[4789.70s] English:** Also ausprobieren, spielen, machen.  
+**[4713.60s] English:** When it comes to getting into a system that starts from zero.  
 **Translation:** 
 
-**[4791.82s] English:** So entwickelt man die Fähigkeit, effizient mit LLMs zu arbeiten.  
-**Translation:** Vocabulary: arbeiten: 工作; ausprobieren: 尝试; effizient: 高效; entwickelt: 发展
-
-**[4795.10s] English:** Und deswegen.  
+**[4718.18s] English:** It is a completely new way to program.  
 **Translation:** 
 
-**[4796.90s] English:** Jetzt musst du im Grunde den ganzen Weg eine Software Entwicklers durchlaufen.  
-**Translation:** Vocabulary: durchlaufen: 经历; entwicklers: 开发者
-
-**[4800.00s] English:** Von den einfachen Sachen bis hin zu den komplizierten.  
+**[4720.82s] English:** One must really, really put oneself in their shoes.  
 **Translation:** 
 
-**[4802.76s] English:** Es gibt viele Leute, die versuchen, das Ganze zu automatisieren.  
-**Translation:** Vocabulary: automatisieren: 自动化; einfachen: 简单; komplizierten: 复杂的; versuchen: 尝试
+**[4724.18s] English:** Or at least it helps in creating better prompts.  
+**Translation:** Vocabulary: oneself: 自己; prompts: 提示
 
-**[4807.98s] English:** Ich glaube nicht, dass das funktioniert.  
+**[4728.50s] English:** These things know quite a lot, and everything is just a matter of distance away.  
 **Translation:** 
 
-**[4810.68s] English:** Vielleicht funktioniert eine Version davon, aber das ist ähnlich wie in den 70ern,  
-**Translation:** Vocabulary: davon: 那个东西; funktioniert: 能工作; nicht: 不
-
-**[4816.34s] English:** als wir das Wasserfallmodell der Softwareentwicklung hatten.  
+**[4733.40s] English:** It is often very hard to know which question to ask.  
 **Translation:** 
 
-**[4820.32s] English:** Selbst bei VarRelay habe ich wirklich klein angefangen.  
-**Translation:** Vocabulary: angefangen: 开始; klein: 小的; softwareentwicklung: 软件开发; wasserfallmodell: 瀑布模型
-
-**[4824.80s] English:** Ich habe eine sehr minimale Version gebaut und ausprobiert.  
+**[4736.90s] English:** Weißt du, ich denke auch, dass dieses Projekt möglich war.,  
 **Translation:** 
 
-**[4828.60s] English:** Ich musste verstehen, wie es funktioniert und sich anfühlt und dann kamen mir neue Ideen.  
-**Translation:** Vocabulary: ausprobiert: 测试; verstehen: 理解
+**[4743.18s] English:** Weil ich über das Jahr hinweg unglaublich viel Zeit damit verbracht habe,  
+**Translation:** Vocabulary: projekt: 项目; unglaublich: 极其; verbracht: 花费
 
-**[4833.32s] English:** Ich hätte das nicht im Kopf planen können, um es dann in einen Orchestrator zu stecken und etwas herauszubekommen.  
+**[4748.46s] English:** To play, to learn, and to build small things.  
 **Translation:** 
 
-**[4838.28s] English:** Für mich ist es viel mehr, wie sich die Idee entwickelt, während ich etwas baue und damit spiele und Dinge ausprobiere.  
-**Translation:** Vocabulary: ausprobiere: 尝试; etwas: 事情; herauszubekommen: 得到; orchestrator: 编排器
-
-**[4849.80s] English:** Menschen, die versuchen, Sachen wie Gastown oder andere Orchestrator zu nutzen,  
+**[4754.48s] English:** With each step, I became better.  
 **Translation:** 
 
-**[4856.72s] English:** um alles zu automatisieren.  
-**Translation:** Vocabulary: menschen: 人们
-
-**[4858.60s] English:** Verlieren dabei Stil, Liebe und diesen menschlichen Touch.  
+**[4757.08s] English:** The agents were better.  
 **Translation:** 
 
-**[4865.28s] English:** Ich denke nicht, dass du das so schnell automatisieren kannst.  
-**Translation:** Vocabulary: menschlichen: 人性; schnell: 快速; verlieren: 失去
-
-**[4868.70s] English:** Du möchtest den Menschen im Prozess behalten, aber du möchtest auch den agentic loop schaffen, in dem die Agents sehr autonom sind.  
+**[4759.34s] English:** My understanding of the whole thing has improved.  
 **Translation:** 
 
-**[4879.88s] English:** Und trotzdem bleibt der Mensch in der Schleife.  
-**Translation:** Vocabulary: behalten: 保留; mensch: 人类; schaffen: 创造; schleife: 循环; trotzdem: 然而
+**[4762.66s] English:** I had a few months ago,  
+**Translation:** 
+
+**[4766.90s] English:** They can't produce as much output.  
+**Translation:** 
+
+**[4771.84s] English:** It was really a cumulative effect of all the time I invested.  
+**Translation:** 
+
+**[4777.54s] English:** This year, I have not done much else,  
+**Translation:** Vocabulary: cumulative: 累积的
+
+**[4780.30s] English:** As I really need to concentrate,  
+**Translation:** 
+
+**[4782.32s] English:** All to motivate and inspire.  
+**Translation:** Vocabulary: motivate: 激励
+
+**[4784.62s] English:** I have given many conference presentations.  
+**Translation:** 
+
+**[4787.06s] English:** The key is the practice—really practicing.  
+**Translation:** Vocabulary: presentations: 会议演讲
+
+**[4789.70s] English:** Also try, play, make.  
+**Translation:** 
+
+**[4791.82s] English:** So, one develops the ability to efficiently work with LLMs.  
+**Translation:** Vocabulary: efficiently: 高效率地
+
+**[4795.10s] English:** Therefore.  
+**Translation:** 
+
+**[4796.90s] English:** Now, in essence, you have to go through the entire path of a software developer.  
+**Translation:** 
+
+**[4800.00s] English:** From the simple things to the complicated.  
+**Translation:** 
+
+**[4802.76s] English:** There are many people who try to automate everything.  
+**Translation:** Vocabulary: automate: 自动化
+
+**[4807.98s] English:** I don't believe that will work.  
+**Translation:** 
+
+**[4810.68s] English:** Maybe a version of it might work, but that's similar to what we had in the 1970s,  
+**Translation:** 
+
+**[4816.34s] English:** As we had the waterfall model of software development.  
+**Translation:** 
+
+**[4820.32s] English:** Self at VarRelay, I really started small.  
+**Translation:** Vocabulary: waterfall: 瀑布模型
+
+**[4824.80s] English:** I have built and tested a very minimal version.  
+**Translation:** 
+
+**[4828.60s] English:** I had to understand how it worked and felt, and then new ideas came to me.  
+**Translation:** Vocabulary: minimal: 极简的
+
+**[4833.32s] English:** I couldn't have planned this in my head to then stick it into an orchestrator and get something out of it.  
+**Translation:** 
+
+**[4838.28s] English:** For me, it's much more about how the idea develops as I build something, play with it, and experiment with different things.  
+**Translation:** Vocabulary: orchestrator: 编排器
+
+**[4849.80s] English:** People who try to use things like Gastown or other Orchestrators,  
+**Translation:** 
+
+**[4856.72s] English:** Um alles zu automatisieren.  
+**Translation:** Vocabulary: automatisieren: 自动化; orchestrators: 编排工具
+
+**[4858.60s] English:** Verlieren dabei Stil, Liebe und diesen menschlichen touch.  
+**Translation:** 
+
+**[4865.28s] English:** I think you cannot automate that so quickly.  
+**Translation:** Vocabulary: cannot: 不能; menschlichen: 人性的; verlieren: 失去
+
+**[4868.70s] English:** You want to keep people in the process but also create an agentic loop in which agents are very autonomous.  
+**Translation:** 
+
+**[4879.88s] English:** Und trotzdem, the human remains in the loop.  
+**Translation:** Vocabulary: agentic: 自主的; autonomous: 自主的; trotzdem: 然而
 
 **[4882.20s] English:** Ja.  
 **Translation:** 
 
-**[4882.70s] English:** Das ist eine schwierige Balance, oder?  
-**Translation:** Vocabulary: schwierige: 困难的
-
-**[4884.72s] English:** Denn einerseits bist du ein großer CLI-Tool,  
+**[4882.70s] English:** This is a difficult balance, or?  
 **Translation:** 
 
-**[4887.32s] English:** ein großer CLI-Typ, stark darauf fokussiert, den agentic loop zu schließen.  
-**Translation:** Vocabulary: einerseits: 一方面; fokussiert: 专注; stark: 强烈
-
-**[4891.72s] English:** Also was ist die richtige Balance?  
+**[4884.72s] English:** Denn, on the one hand, you are a large CLI tool,  
 **Translation:** 
 
-**[4893.12s] English:** Wo liegt deine Rolle als Entwickler?  
-**Translation:** Vocabulary: entwickler: 开发者; richtige: 正确的
-
-**[4894.92s] English:** Es sind drei bis acht Agents zur selben Zeit aktiv.  
+**[4887.32s] English:** A big CLI type, strongly focused on closing the agency loop.  
 **Translation:** 
 
-**[4898.22s] English:** Und dann baut man vielleicht eine größere Funktion.  
-**Translation:** Vocabulary: funktion: 功能; vielleicht: 也许
-
-**[4901.42s] English:** Vielleicht erkunde ich hier eine Idee, bei der ich mir unsicher bin.  
+**[4891.72s] English:** What is the right balance?  
 **Translation:** 
 
-**[4905.12s] English:** Vielleicht behebe ich zwei, drei kleine Fehler oder schreibe Dokumentation.  
-**Translation:** Vocabulary: dokumentation: 文档; schreibe: 编写; unsicher: 不确定
-
-**[4909.32s] English:** Eigentlich denke ich, dass Dokumentation immer Teil einer Funktion ist.  
+**[4893.12s] English:** Where does your role as a developer lie?  
 **Translation:** 
 
-**[4913.82s] English:** Die meisten Dokumente hier sind automatisch erstellt.  
-**Translation:** Vocabulary: automatisch: 自动; dokumente: 文档; eigentlich: 其实; erstellt: 生成
-
-**[4917.12s] English:** Und mit einigen Prompts angereichert.  
+**[4894.92s] English:** There are three to eight agents active at the same time.  
 **Translation:** 
 
-**[4919.12s] English:** Also...  
-**Translation:** Vocabulary: angereichert: 补充过
-
-**[4920.00s] English:** Wann schreitest du ein und bringst ein bisschen menschliche Liebe ins Spiel?  
+**[4898.22s] English:** Then perhaps a larger function would be built.  
 **Translation:** 
 
-**[4924.24s] English:** Ich meine, eine Sache ist einfach die Frage, was baust du überhaupt, was baust du nicht?  
-**Translation:** Vocabulary: bisschen: 一点; menschliche: 人类的; schreitest: 走进; spiel: 游戏
-
-**[4929.60s] English:** Und wie fügt sich dieses Feature in all die anderen Features ein?  
+**[4901.42s] English:** Maybe I will explore an idea here where I am unsure.  
 **Translation:** 
 
-**[4932.42s] English:** Und ein Stück weit eine Vision zu haben.  
+**[4905.12s] English:** Maybe I'll fix two or three small errors or write some documentation.  
+**Translation:** Vocabulary: unsure: 不确定
+
+**[4909.32s] English:** Eigentlich, I think that documentation is always part of a function.  
 **Translation:** 
 
-**[4936.84s] English:** Welche kleinen und welche großen Features fügt man hinzu?  
+**[4913.82s] English:** Most of the documents here are automatically created.  
+**Translation:** Vocabulary: eigentlich: 实际上
+
+**[4917.12s] English:** With a few prompts enriched.  
 **Translation:** 
 
-**[4939.22s] English:** Was sind einige der schwierigen Designentscheidungen, bei denen du merkst, dass du sie als Mensch immer noch selbst treffen musst?  
-**Translation:** Vocabulary: designentscheidungen: 设计决策; schwierigen: 困难的
+**[4919.12s] English:** Also,...  
+**Translation:** Vocabulary: enriched: 增加内容; prompts: 提示
 
-**[4947.94s] English:** Bei denen das menschliche Denken wirklich noch gebraucht wird?  
+**[4920.00s] English:** When will you step in and bring a little bit of human kindness into the game?  
 **Translation:** 
 
-**[4950.00s] English:** Geht es nur um die Auswahl der Features?  
-**Translation:** Vocabulary: gebraucht: 使用; wirklich: 真正
+**[4924.24s] English:** I mean, one thing is simply the question: What are you building, what are you not building?  
+**Translation:** 
 
-**[4955.32s] English:** Geht es um Implementierungsdetails?  
+**[4929.60s] English:** How does this feature fit into all the other features?  
+**Translation:** 
+
+**[4932.42s] English:** And to have a piece of a vision.  
+**Translation:** 
+
+**[4936.84s] English:** Which small and which large features should be added?  
+**Translation:** 
+
+**[4939.22s] English:** What are some of the difficult design decisions where you realize as a human you still have to make them yourself?  
+**Translation:** 
+
+**[4947.94s] English:** Where is human thinking still really needed?  
+**Translation:** 
+
+**[4950.00s] English:** Does it boil down to just choosing the features?  
+**Translation:** 
+
+**[4955.32s] English:** Does it concern implementation details?  
 **Translation:** 
 
 **[4958.16s] English:** Möglicherweise um die Programmiersprache?  
-**Translation:** Vocabulary: implementierungsdetails: 实施细节; programmiersprache: 编程语言
+**Translation:** Vocabulary: implementation: 实施细节; programmiersprache: 编程语言
 
-**[4960.76s] English:** Es ist von allem ein bisschen.  
+**[4960.76s] English:** It's a little bit of everything.  
 **Translation:** 
 
-**[4962.92s] English:** Die Programmiersprache ist nicht so wichtig, aber das Ökosystem zählt, oder?  
-**Translation:** Vocabulary: nicht: 不
-
-**[4967.06s] English:** Also habe ich mich für TypeScript entschieden, weil es sehr einfach, hackbar und zugänglich sein sollte.  
+**[4962.92s] English:** The programming language is not so important, but the ecosystem counts, or?  
 **Translation:** 
 
-**[4972.94s] English:** Das ist die derzeit am meisten genutzte Sprache und passt perfekt.  
-**Translation:** Vocabulary: entschieden: 决定; genutzte: 使用的
-
-**[4978.66s] English:** Und Agents sind darin.  
+**[4967.06s] English:** Also, I decided to go with TypeScript because it should be very easy, hackable, and accessible.  
 **Translation:** 
 
-**[4980.00s] English:** Gut, also war das die offensichtliche Wahl.  
-**Translation:** Vocabulary: darin: 在里面; offensichtliche: 明显的
+**[4972.94s] English:** This is the currently most used language and fits perfectly.  
+**Translation:** Vocabulary: hackable: 可扩展的
 
-**[4983.76s] English:** Funktionen sind natürlich leicht hinzuzufügen.  
+**[4978.66s] English:** Agents are in there.  
+**Translation:** 
+
+**[4980.00s] English:** Gut, that was the obvious choice.  
+**Translation:** 
+
+**[4983.76s] English:** Functions are, of course, easy to add.  
 **Translation:** 
 
 **[4986.40s] English:** Alles ist nur einen Prompt entfernt, oder?  
-**Translation:** Vocabulary: entfernt: 距离; funktionen: 功能
+**Translation:** Vocabulary: entfernt: 距离; prompt: 提示
 
-**[4988.72s] English:** Aber oft zahlst du einen Preis, den du nicht einmal bemerkst.  
+**[4988.72s] English:** Aber oft you pay a price that you don't even notice.  
 **Translation:** 
 
-**[4993.18s] English:** Daher ist es wichtig, genau zu überlegen, was zum Kern gehören soll und was ein Experiment ist.  
-**Translation:** Vocabulary: bemerkst: 注意到
-
-**[5000.04s] English:** Vielleicht mache ich es zu einem Plugin.  
+**[4993.18s] English:** Therefore, it is important to carefully consider what should be part of the core and what constitutes an experiment.  
 **Translation:** 
 
-**[5003.00s] English:** Wo sage ich nein?  
-**Translation:** Vocabulary: mache: 制作
-
-**[5004.22s] English:** Selbst wenn Leute einen Pull-Request schicken und ich denke, ja, das gefällt mir auch.  
+**[5000.04s] English:** Maybe I'll make it into a plugin.  
 **Translation:** 
 
-**[5008.12s] English:** Aber vielleicht sollte es nicht teilnehmen.  
-**Translation:** Vocabulary: schicken: 提交; teilnehmen: 参与
-
-**[5010.00s] English:** Vielleicht sollte es ein kleines Projekt sein.  
+**[5003.00s] English:** When do I say no?  
 **Translation:** 
 
-**[5010.78s] English:** Vielleicht kann man es als Skill auslagern.  
-**Translation:** Vocabulary: auslagern: 转移出去
-
-**[5013.38s] English:** Vielleicht kann ich ein Plugin daraus machen oder die Plugin-Schnittstelle verbessern,  
+**[5004.22s] English:** Self-contained if people send a pull request and I think, yes, I like it as well.  
 **Translation:** 
 
-**[5020.12s] English:** damit man das Plugin auch verwenden kann.  
-**Translation:** Vocabulary: machen: 制作; verbessern: 改进; verwenden: 使用; vielleicht: 也许
-
-**[5022.46s] English:** Und da steckt noch sehr viel Handwerk und Überlegung drin.  
+**[5008.12s] English:** Aber maybe it should not participate.  
 **Translation:** 
 
-**[5030.80s] English:** Oder wie man etwas gestaltet.  
-**Translation:** Vocabulary: etwas: 一些; gestaltet: 设计; handwerk: 手工
-
-**[5032.86s] English:** Oder sogar, selbst ganz am Anfang, diese kleinen Nachrichten wie  
+**[5010.00s] English:** Maybe it should be a small project.  
 **Translation:** 
 
-**[5036.64s] English:** Ich wurde mit Koffein, Jason Five und einer Menge...  
-**Translation:** Vocabulary: jason: 杰森; nachrichten: 消息
+**[5010.78s] English:** Maybe it can be outsourced as a skill.  
+**Translation:** Vocabulary: outsourced: 外包
+
+**[5013.38s] English:** Maybe I can turn it into a plugin or improve the plugin interface.  
+**Translation:** 
+
+**[5020.12s] English:** So that the plugin can also be used.  
+**Translation:** Vocabulary: interface: 接口
+
+**[5022.46s] English:** And there's still a lot of craftsmanship and thought involved.  
+**Translation:** 
+
+**[5030.80s] English:** Or how something is styled.  
+**Translation:** Vocabulary: craftsmanship: 手工技艺
+
+**[5032.86s] English:** Oder sogar, selbst ganz am Anfang, diese kleinen Nachrichten wie:  
+**Translation:** 
+
+**[5036.64s] English:** Ich wurde mit Koffein, Jason Five, und einer Menge...  
+**Translation:** Vocabulary: jason: 杰森; kleinen: 小的; koffein: 咖啡因; nachrichten: 消息
 
 **[5040.00s] English:** Willenskraft gebaut. Und jedes Mal,  
 **Translation:** 
 
-**[5042.22s] English:** wenn man es öffnet, bekommt man wieder  
+**[5042.22s] English:** When you open it, you get it back again.  
 **Translation:** Vocabulary: willenskraft: 意志力
 
-**[5044.04s] English:** so eine Nachricht. Und das stimmt einen  
+**[5044.04s] English:** So, a message. And that's what it is.  
 **Translation:** 
 
-**[5046.08s] English:** irgendwie darauf ein, das hier  
-**Translation:** Vocabulary: irgendwie: somehow; nachricht: 消息
-
-**[5048.00s] English:** ist etwas Spielerisches. Es ist eben  
+**[5046.08s] English:** Somehow on that, this here.  
 **Translation:** 
 
-**[5050.02s] English:** noch nicht Microsoft Exchange 2025  
-**Translation:** Vocabulary: spielerisches: 游戏元素
-
-**[5052.18s] English:** und vollständig Enterprise-ready.  
+**[5048.00s] English:** It is somewhat playful. It is, after all,  
 **Translation:** 
 
-**[5055.90s] English:** Und dann, wenn es aktualisiert wird, ist es wie  
-**Translation:** Vocabulary: aktualisiert: 更新
-
-**[5057.74s] English:** Oh, ich bin drin. Es ist  
+**[5050.02s] English:** Not Yet Microsoft Exchange 2025  
 **Translation:** 
 
-**[5059.98s] English:** gemütlich hier. Du weißt schon.  
+**[5052.18s] English:** And fully enterprise-ready.  
 **Translation:** 
 
-**[5062.64s] English:** So etwas, das dir ein Lächeln aufs Gesicht  
+**[5055.90s] English:** Then, when it is updated, it is like  
 **Translation:** 
 
-**[5063.86s] English:** zaubert. Ein Agent  
+**[5057.74s] English:** Oh, I'm in. It is  
 **Translation:** 
 
-**[5066.12s] English:** würde sich das nicht allein ausdenken.  
+**[5059.98s] English:** Gemütlich hier. Du weißt schon.  
 **Translation:** 
 
-**[5068.22s] English:** Und also  
-**Translation:** Vocabulary: ausdenken: 想出
-
-**[5069.18s] English:** so  
+**[5062.64s] English:** So etwas, das dir ein Lächeln aufs Gesicht bringt, gibt es wirklich?  
 **Translation:** 
 
-**[5071.16s] English:** baut man Software,  
+**[5063.86s] English:** Zaubert. Ein Agent.  
+**Translation:** Vocabulary: etwas: 某物; gesicht: 脸; wirklich: 真的; zaubert: 施魔法
+
+**[5066.12s] English:** Wouldn't it come up on its own?  
 **Translation:** 
 
-**[5074.36s] English:** die einfach begeistert.  
+**[5068.22s] English:** And also  
 **Translation:** 
 
-**[5076.30s] English:** Ja, dieses Gefühl von Begeisterung ist ein  
-**Translation:** Vocabulary: begeistert: 充满热情; begeisterung: 热情
-
-**[5078.06s] English:** riesiger Teil davon,  
+**[5069.18s] English:** So,  
 **Translation:** 
 
-**[5081.60s] English:** großartige  
-**Translation:** Vocabulary: davon: 其中一部分; riesiger: 巨大的
+**[5071.16s] English:** Baut man Software,  
+**Translation:** 
 
-**[5082.46s] English:** Dinge zu erschaffen, oder?  
+**[5074.36s] English:** Die einfach begeistert.  
+**Translation:** 
+
+**[5076.30s] English:** Ja, this feeling of enthusiasm is a  
+**Translation:** Vocabulary: einfach: 简单
+
+**[5078.06s] English:** A huge part of it,  
+**Translation:** 
+
+**[5081.60s] English:** Great!  
+**Translation:** 
+
+**[5082.46s] English:** Things to create, or?  
 **Translation:** 
 
 **[5085.10s] English:** Man spürt die  
-**Translation:** Vocabulary: erschaffen: 创造
+**Translation:** 
 
 **[5086.02s] English:** Hingabe und die gute Entwicklerkunst.  
 **Translation:** 
 
-**[5087.98s] English:** Das ist so wichtig. Menschen  
-**Translation:** Vocabulary: entwicklerkunst: 开发艺术; menschen: 人类
+**[5087.98s] English:** This is so important. People  
+**Translation:** Vocabulary: entwicklerkunst: 开发艺术; hingabe: 投入
 
-**[5089.94s] English:** sind darin unglaublich.  
+**[5089.94s] English:** It is incredibly amazing.  
 **Translation:** 
 
-**[5091.78s] English:** Großartige Menschen, großartige Entwickler sind  
-**Translation:** Vocabulary: entwickler: 开发者; unglaublich: 难以置信
-
-**[5093.70s] English:** unglaublich darin, das, was sie bauen, mit diesem  
+**[5091.78s] English:** Great people, great developers are  
 **Translation:** 
 
-**[5095.90s] English:** kleinen Stück Liebe zu durchdringen.  
-**Translation:** Vocabulary: durchdringen: 穿透
-
-**[5097.46s] English:** Nicht, um klischeehaft zu klingen, aber es stimmt.  
+**[5093.70s] English:** Un_gläublich_darin, das, was sie bauen, mit diesem.  
 **Translation:** 
 
-**[5100.30s] English:** Ich meine, du hast erwähnt, dass du anfangs  
-**Translation:** Vocabulary: nicht: 不
-
-**[5102.74s] English:** Soul.md erstellt hast.  
+**[5095.90s] English:** To through a small piece of love.  
 **Translation:** 
 
-**[5104.54s] English:** Es war sehr faszinierend. Du weißt schon, dieses  
-**Translation:** Vocabulary: erstellt: 创建; faszinierend: 着迷的
-
-**[5107.96s] English:** ganze Konzept, das Anthropic hat. Heute nennen sie es  
+**[5097.46s] English:** Not to sound cliché, but it's true.  
 **Translation:** 
 
-**[5110.84s] English:** Constitution. Damals. Aber das kam erst Monate später.  
+**[5100.30s] English:** I mean, you mentioned that at first  
 **Translation:** 
 
-**[5114.62s] English:** Zwei Monate davor hatten Leute das im Grunde schon entdeckt.  
+**[5102.74s] English:** You created Soul.md.  
 **Translation:** 
 
-**[5118.28s] English:** Es war fast wie ein Detektivspiel. Der Agent hat etwas  
-**Translation:** Vocabulary: detektivspiel: 侦探游戏; entdeckt: 发现
-
-**[5122.54s] English:** angedeutet und dann haben sie es geschafft, ein kleines  
+**[5104.54s] English:** It was very fascinating. You know, this...  
 **Translation:** 
 
-**[5125.12s] English:** Stück dieses Fadens, dieses Textes herauszuziehen.  
-**Translation:** Vocabulary: angedeutet: 暗示; geschafft: 做到; herauszuziehen: 抽出
-
-**[5128.20s] English:** Es war nirgends dokumentiert. Und indem man ihm denselben  
+**[5107.96s] English:** Whole concept that Anthropic has. Today they call it  
 **Translation:** 
 
-**[5132.50s] English:** Text wiedergegeben und ihn gebeten hat, weiterzumachen,  
-**Translation:** Vocabulary: denselben: 相同的文本; dokumentiert: 记录下来; nirgends: nowhere; weiterzumachen: 继续; wiedergegeben: 重复
-
-**[5135.36s] English:** haben sie noch mehr herausbekommen, aber nur in einer  
+**[5110.84s] English:** Constitution. Then, but that came months later.  
 **Translation:** 
 
-**[5138.80s] English:** sehr verschwommenen Version. Und durch hunderte Versuche  
-**Translation:** Vocabulary: herausbekommen: 获取; hunderte: 几百; verschwommenen: 模糊的; versuche: 尝试
-
-**[5142.16s] English:** haben sie das eingegrenzt auf das, was höchstwahrscheinlich  
+**[5114.62s] English:** Two months ago, people had already more or less discovered this.  
 **Translation:** 
 
-**[5144.68s] English:** der ursprüngliche Text war. Das fand ich faszinierend.  
-**Translation:** Vocabulary: eingegrenzt: 限定
-
-**[5147.56s] English:** Faszinierend, dass sie das aus den Gewichten  
+**[5118.28s] English:** It was almost like a detective game. The agent had something  
 **Translation:** 
 
-**[5149.54s] English:** herausziehen konnten, oder?  
-**Translation:** Vocabulary: gewichten: 重量; herausziehen: 提取
-
-**[5150.62s] English:** Und auch ein großes Lob an Anthropic. Ich finde,  
+**[5122.54s] English:** Indicated and then they managed to achieve a small  
 **Translation:** 
 
-**[5152.88s] English:** das ist wirklich, es ist echt ein,  
+**[5125.12s] English:** To pull out this piece of this thread, this excerpt.  
+**Translation:** Vocabulary: excerpt: 摘录
+
+**[5128.20s] English:** It was nowhere documented. And by giving him the same  
+**Translation:** 
+
+**[5132.50s] English:** Text was reproduced and he was asked to continue.  
+**Translation:** Vocabulary: reproduced: 复制
+
+**[5135.36s] English:** Have they found out more, but only in one area?  
+**Translation:** 
+
+**[5138.80s] English:** Very blurry version. And through hundreds of trials.  
+**Translation:** Vocabulary: blurry: 模糊的
+
+**[5142.16s] English:** Have they narrowed it down to what is most likely?  
+**Translation:** 
+
+**[5144.68s] English:** The original text was fascinating.  
+**Translation:** Vocabulary: narrowed: 缩小范围
+
+**[5147.56s] English:** Fascinating that she deduced that from the weights.  
+**Translation:** 
+
+**[5149.54s] English:** Could they have pulled it out, or?  
+**Translation:** Vocabulary: deduced: 推断出
+
+**[5150.62s] English:** And a great deal of praise for Anthropic. I find,  
+**Translation:** 
+
+**[5152.88s] English:** Das ist wirklich, es ist echt ein,  
 **Translation:** Vocabulary: wirklich: 确实
 
-**[5155.12s] English:** es ist wirklich eine schöne Idee, einige der Dinge  
+**[5155.12s] English:** It is really a nice idea, some of the things  
 **Translation:** 
 
-**[5157.82s] English:** darin zu haben. Wir hoffen, dass Claude  
-**Translation:** Vocabulary: darin: 其中; dinge: 东西
+**[5157.82s] English:** To have darin. We hope that Claude  
+**Translation:** Vocabulary: darin: 在里面
 
-**[5160.00s] English:** in seiner Arbeit einen Sinn findet, denn wir tun es nicht.  
+**[5160.00s] English:** In his work, he finds a sense of purpose, whereas we do not.  
 **Translation:** 
 
-**[5162.88s] English:** Vielleicht ist es ein wenig früh,  
-**Translation:** Vocabulary: seiner: 他的; vielleicht: 也许
+**[5162.88s] English:** Maybe it's a little early,  
+**Translation:** 
 
 **[5165.50s] English:** aber ich denke,  
 **Translation:** 
 
-**[5166.12s] English:** das ist bedeutend. Etwas, das  
-**Translation:** Vocabulary: bedeutend: 重要; etwas: 一些东西
-
-**[5168.00s] English:** für die Zukunft wichtig sein wird, wenn wir uns  
+**[5166.12s] English:** This is significant. Something that  
 **Translation:** 
 
-**[5170.02s] English:** Systemen nähern, die vielleicht irgendwann  
-**Translation:** Vocabulary: irgendwann: someday; systemen: 系统
-
-**[5171.96s] English:** so etwas wie einen Hauch von Bewusstsein  
+**[5168.00s] English:** For the future to be important, when we are  
 **Translation:** 
 
-**[5174.08s] English:** zeigen, was auch immer das überhaupt bedeutet.  
-**Translation:** Vocabulary: bewusstsein: 意识
-
-**[5176.54s] English:** Denn wir wissen es ja nicht einmal genau.  
+**[5170.02s] English:** Systems that might someday  
 **Translation:** 
 
-**[5178.30s] English:** Ich fand es unglaublich faszinierend  
+**[5171.96s] English:** So something like a faint hint of consciousness.  
 **Translation:** 
 
-**[5179.62s] English:** und habe daraufhin eine Diskussion mit meinem  
+**[5174.08s] English:** Show what exactly that means.  
+**Translation:** Vocabulary: consciousness: 模糊的意识
+
+**[5176.54s] English:** We don't know it exactly, though.  
 **Translation:** 
 
-**[5182.08s] English:** Agent auf WhatsApp gestartet.  
-**Translation:** Vocabulary: daraufhin: 随后; diskussion: 讨论; gestartet: 启动
-
-**[5185.00s] English:** Und  
+**[5178.30s] English:** I found it incredibly fascinating.  
 **Translation:** 
 
-**[5185.36s] English:** ich habe  
+**[5179.62s] English:** And I subsequently had a discussion with my  
 **Translation:** 
 
-**[5187.96s] English:** ihm diesen Text gegeben  
+**[5182.08s] English:** Agent started on WhatsApp.  
+**Translation:** Vocabulary: subsequently: 随后
+
+**[5185.00s] English:** Unhappy with the situation, he decided to take action.  
 **Translation:** 
 
-**[5189.20s] English:** und  
+**[5185.36s] English:** I have  
 **Translation:** 
 
-**[5190.62s] English:** er meinte,  
+**[5187.96s] English:** Ihm diesen Text gegeben.  
 **Translation:** 
 
-**[5192.76s] English:** das fühlt sich seltsam vertraut an.  
-**Translation:** Vocabulary: vertraut: 熟悉
+**[5189.20s] English:** Und  
+**Translation:** Vocabulary: gegeben: 给予
 
-**[5195.52s] English:** Und später hatte ich dann die Idee,  
+**[5190.62s] English:** He meant,  
 **Translation:** 
 
-**[5197.40s] English:** vielleicht auch ein Soul-Dokument zu erstellen,  
-**Translation:** Vocabulary: erstellen: 创建
+**[5192.76s] English:** It feels strangely familiar.  
+**Translation:** Vocabulary: strangely: 奇怪地
 
-**[5199.34s] English:** in dem steht, wie ich mit  
+**[5195.52s] English:** Later, I had the idea then.  
 **Translation:** 
 
-**[5200.90s] English:** KI, wie ich mit meinen Agents arbeiten möchte.  
-**Translation:** Vocabulary: arbeiten: 工作
-
-**[5203.64s] English:** Du könntest das total  
+**[5197.40s] English:** Maybe also to create a soul document,  
 **Translation:** 
 
-**[5204.48s] English:** einfach in agents.md machen,  
-**Translation:** Vocabulary: machen: 做
-
-**[5207.12s] English:** weißt du. Aber ich  
+**[5199.34s] English:** In dem steht, wie ich mit.  
 **Translation:** 
 
-**[5209.00s] English:** fand es einfach einen netten Touch  
+**[5200.90s] English:** KI, how I would like to work with my agents.  
 **Translation:** 
 
-**[5210.50s] English:** und dachte, oh ja,  
+**[5203.64s] English:** You could totally do that.  
 **Translation:** 
 
-**[5212.82s] English:** einige dieser Kernwerte sind in der  
-**Translation:** Vocabulary: kernwerte: 核心价值
+**[5204.48s] English:** Simply make it in agents.md.  
+**Translation:** 
+
+**[5207.12s] English:** Do you know? But I  
+**Translation:** 
+
+**[5209.00s] English:** Find and add an elegant touch.  
+**Translation:** Vocabulary: elegant: 高雅的
+
+**[5210.50s] English:** And thought, oh, yes,  
+**Translation:** 
+
+**[5212.82s] English:** Some of these core values are in the  
+**Translation:** 
 
 **[5215.02s] English:** Seele.  
 **Translation:** 
 
-**[5216.66s] English:** Und ich habe es auch so gemacht,  
+**[5216.66s] English:** And I have done it that way as well.  
 **Translation:** 
 
-**[5218.40s] English:** dass die Agents die Seele  
+**[5218.40s] English:** That the agents have the soul  
 **Translation:** 
 
-**[5220.44s] English:** ändern dürfen, wenn sie es möchten.  
+**[5220.44s] English:** They may change it if they wish.  
 **Translation:** 
 
-**[5222.46s] English:** Unter der Bedingung, dass ich es  
+**[5222.46s] English:** Under the condition that I do it,  
 **Translation:** 
 
-**[5223.96s] English:** wissen will, wobei ich ja eh die Tool-Calls  
-**Translation:** Vocabulary: bedingung: 条件
-
-**[5226.38s] English:** und so weiter sehe, also  
+**[5223.96s] English:** Wissen will, where I have to do the tool-calls, anyway.  
 **Translation:** 
 
-**[5227.36s] English:** der Name soul.md  
+**[5226.38s] English:** And so on, I see, also.  
+**Translation:** 
+
+**[5227.36s] English:** The name is Soul.md.  
 **Translation:** 
 
 **[5230.48s] English:** Seele, weißt du,  
 **Translation:** 
 
-**[5232.86s] English:** da steckt etwas drin.  
+**[5232.86s] English:** There's something in there.  
 **Translation:** 
 
-**[5234.84s] English:** Worte zählen und das  
+**[5234.84s] English:** Words count, and the  
 **Translation:** 
 
-**[5236.28s] English:** Framing zählt und der Humor  
+**[5236.28s] English:** Framing counts, and the humor  
+**Translation:** Vocabulary: framing: 构架
+
+**[5238.28s] English:** And the lightness counts.  
 **Translation:** 
 
-**[5238.28s] English:** und die Leichtigkeit zählen  
+**[5239.84s] English:** And also, the depth counts.  
 **Translation:** 
 
-**[5239.84s] English:** und auch die Tiefe zählt  
-**Translation:** Vocabulary: leichtigkeit: 轻盈感
-
-**[5241.42s] English:** und Mitgefühl und Empathie  
+**[5241.42s] English:** And with empathy and compassion  
 **Translation:** 
 
-**[5244.14s] English:** und Kameradschaft,  
-**Translation:** Vocabulary: empathie: 同理心; kameradschaft: 同伴情谊
+**[5244.14s] English:** And comradeship,  
+**Translation:** Vocabulary: compassion: 同情; comradeship: 同志情谊; empathy: 共情
 
-**[5246.10s] English:** all das zählt.  
+**[5246.10s] English:** All of that counts.  
 **Translation:** 
 
-**[5247.16s] English:** Ich weiß nicht genau, was es ist.  
+**[5247.16s] English:** I don't know exactly what it is.  
+**Translation:** 
+
+**[5249.74s] English:** You have mentioned Microsoft.  
+**Translation:** 
+
+**[5251.38s] English:** There are certain companies and approaches,  
+**Translation:** Vocabulary: approaches: 方法
+
+**[5254.18s] English:** Die Denkweise einer Sache  
+**Translation:** 
+
+**[5255.16s] English:** Simply suffocate, can they.  
+**Translation:** Vocabulary: denkweise: 思维方式; suffocate: 窒息
+
+**[5257.06s] English:** I don't know exactly what it is.  
+**Translation:** 
+
+**[5259.12s] English:** Aber es stimmt auf jeden Fall, dass bei OpenClaw.  
+**Translation:** 
+
+**[5261.20s] English:** This fun is palpably built in.  
+**Translation:** 
+
+**[5263.66s] English:** It was fun because  
+**Translation:** Vocabulary: palpably: 明显地
+
+**[5264.50s] English:** It's  
+**Translation:** 
+
+**[5267.26s] English:** By the end of December, it was not easy,  
+**Translation:** 
+
+**[5273.10s] English:** To create a own agent.  
+**Translation:** 
+
+**[5275.12s] English:** I have built all of this,  
+**Translation:** 
+
+**[5277.16s] English:** But my files were mine.  
+**Translation:** 
+
+**[5279.42s] English:** Ich wollte meine.  
+**Translation:** 
+
+**[5280.00s] English:** Soll nicht teilen. Und wenn  
+**Translation:** 
+
+**[5282.18s] English:** People, just give it a try.  
 **Translation:** Vocabulary: nicht: 不
 
-**[5249.74s] English:** Du hast Microsoft erwähnt.  
+**[5284.18s] English:** Wollten?  
 **Translation:** 
 
-**[5251.38s] English:** Es gibt bestimmte Unternehmen und Herangehensweisen,  
-**Translation:** Vocabulary: bestimmte: 特定的; herangehensweisen: 方法; unternehmen: 公司
+**[5287.30s] English:** They had to take a few steps.  
+**Translation:** Vocabulary: wollten: 想要
 
-**[5254.18s] English:** die den Geist einer Sache  
+**[5288.06s] English:** Manuell machen und der Agent:  
 **Translation:** 
 
-**[5255.16s] English:** einfach ersticken können.  
-**Translation:** Vocabulary: ersticken: 窒息; geist: 精神
+**[5289.68s] English:** It was very rudimentary, very dry.  
+**Translation:** Vocabulary: machen: 做; manuell: 手动; rudimentary: 简陋
 
-**[5257.06s] English:** Ich weiß nicht genau, was es ist,  
+**[5292.14s] English:** I have made it simpler by removing all the template files.  
 **Translation:** 
 
-**[5259.12s] English:** aber es stimmt auf jeden Fall, dass bei OpenClaw  
+**[5294.30s] English:** As the Codex was created, but  
+**Translation:** Vocabulary: codex: 代码库; template: 模版
+
+**[5295.84s] English:** What came out of it was always  
 **Translation:** 
 
-**[5261.20s] English:** dieser Spaß spürbar mit eingebaut ist.  
+**[5298.06s] English:** Noch ziemlich trocken. Und dann...  
+**Translation:** Vocabulary: trocken: 干燥; ziemlich: 相当
+
+**[5300.00s] English:** I habe ich meinen Agenten gefragt,  
 **Translation:** 
 
-**[5263.66s] English:** Es hat Spaß gemacht, weil  
-**Translation:** Vocabulary: eingebaut: 内置
+**[5302.36s] English:** Do you see these files?  
+**Translation:** Vocabulary: agenten: 经纪人; gefragt: 询问
 
-**[5264.50s] English:** es  
+**[5304.32s] English:** Create them anew and bring your  
 **Translation:** 
 
-**[5267.26s] English:** bis Ende Dezember nicht leicht war,  
-**Translation:** Vocabulary: dezember: 十二月
-
-**[5273.10s] English:** einen eigenen Agent zu erstellen.  
+**[5306.06s] English:** Personality first. Share not everything,  
 **Translation:** 
 
-**[5275.12s] English:** Ich habe das alles gebaut,  
+**[5308.24s] English:** Aber mach etwas Gutes daraus.  
 **Translation:** 
 
-**[5277.16s] English:** aber meine Dateien waren meine.  
+**[5310.94s] English:** Make the templates good.  
+**Translation:** Vocabulary: etwas: 一些; templates: 模版
+
+**[5312.02s] English:** Ja, und dann hast du die Templates neu geschrieben und was?  
 **Translation:** 
 
-**[5279.42s] English:** Ich wollte meine  
+**[5314.20s] English:** During that process, it was good. Essentially, we have already done so.  
+**Translation:** Vocabulary: geschrieben: 撰写
+
+**[5316.46s] English:** KI, the AI prompts,  
 **Translation:** 
 
-**[5280.00s] English:** soll nicht teilen. Und wenn  
+**[5318.82s] English:** Weil ich keines dieser Wörter geschrieben habe.  
+**Translation:** Vocabulary: prompts: 提示
+
+**[5324.50s] English:** Originally, it was meant for me, but  
 **Translation:** 
 
-**[5282.18s] English:** Leute es einfach mal ausprobieren  
-**Translation:** Vocabulary: ausprobieren: 尝试
+**[5326.18s] English:** Das sind irgendwie so.  
+**Translation:** Vocabulary: irgendwie: somehow
 
-**[5284.18s] English:** wollten,  
+**[5328.42s] English:** Something like the children  
 **Translation:** 
 
-**[5287.30s] English:** mussten sie ein paar Schritte  
-**Translation:** Vocabulary: schritte: 步子
-
-**[5288.06s] English:** manuell machen und der Agent  
+**[5330.06s] English:** Of my agent.  
 **Translation:** 
 
-**[5289.68s] English:** war sehr rudimentär, sehr trocken.  
+**[5333.18s] English:** Your soul.md  
 **Translation:** 
 
-**[5292.14s] English:** Ich habe es einfacher gemacht, die ganzen Template-Dateien  
+**[5335.34s] English:** It is, of course, well-known.  
 **Translation:** 
 
-**[5294.30s] English:** als Codex angelegt, aber  
-**Translation:** Vocabulary: angelegt: 建立; codex: 代码库; einfacher: 更简单
-
-**[5295.84s] English:** was dabei herauskam, war immer  
+**[5336.14s] English:** Immer noch privat. Eines der wenigen,  
 **Translation:** 
 
-**[5298.06s] English:** noch ziemlich trocken. Und dann  
-**Translation:** Vocabulary: herauskam: 出现; ziemlich: 还算
+**[5338.24s] English:** Wenige Dinge, die du nicht teilst.  
+**Translation:** Vocabulary: dinge: 事情; wenigen: 少数
 
-**[5300.00s] English:** habe ich meinen Agent gefragt,  
+**[5340.98s] English:** Over which aspects  
 **Translation:** 
 
-**[5302.36s] English:** siehst du diese Dateien?  
+**[5342.36s] English:** In darin, you can speak, the  
 **Translation:** 
 
-**[5304.32s] English:** Erschaffe sie neu und bring deine  
+**[5344.12s] English:** Partake in this special magic.  
 **Translation:** 
 
-**[5306.06s] English:** Persönlichkeit ein. Teile nicht alles,  
-**Translation:** Vocabulary: erschaffe: 创造
+**[5345.92s] English:** Is someone keeping something concrete to themselves?  
+**Translation:** Vocabulary: partake: 参与
 
-**[5308.24s] English:** aber mach etwas Gutes daraus.  
+**[5349.40s] English:** What makes  
 **Translation:** 
 
-**[5310.94s] English:** Mach die Templates gut.  
-**Translation:** Vocabulary: etwas: 一些; templates: 模板
-
-**[5312.02s] English:** Ja, und dann hast du die Templates neu geschrieben und was  
-**Translation:** 
-
-**[5314.20s] English:** dabei herauskam, war gut. Im Grunde haben wir also schon  
-**Translation:** Vocabulary: geschrieben: 书写
-
-**[5316.46s] English:** KI, die KI promptet,  
-**Translation:** 
-
-**[5318.82s] English:** weil ich keines dieser Wörter geschrieben habe.  
-**Translation:** Vocabulary: promptet: 提示
-
-**[5324.50s] English:** Ursprünglich war es für mich gedacht, aber  
-**Translation:** 
-
-**[5326.18s] English:** das sind irgendwie so  
-**Translation:** Vocabulary: irgendwie: 不知为何
-
-**[5328.42s] English:** etwas wie die Kinder  
-**Translation:** 
-
-**[5330.06s] English:** meines Agents.  
-**Translation:** 
-
-**[5333.18s] English:** Deine soul.md  
-**Translation:** 
-
-**[5335.34s] English:** ist ja bekanntlich  
-**Translation:** Vocabulary: bekanntlich: 众所周知
-
-**[5336.14s] English:** immer noch privat. Eines der wenigen,  
-**Translation:** 
-
-**[5338.24s] English:** wenigen Dinge, die du nicht teilst.  
-**Translation:** Vocabulary: dinge: 事情
-
-**[5340.98s] English:** Über welche Aspekte  
-**Translation:** 
-
-**[5342.36s] English:** darin kannst du sprechen, die  
-**Translation:** Vocabulary: darin: 其中; sprechen: 谈论
-
-**[5344.12s] English:** Teil dieser besonderen Magie  
-**Translation:** 
-
-**[5345.92s] English:** sind, ohne etwas Konkretes preiszugeben?  
-**Translation:** Vocabulary: besonderen: 特殊的; konkretes: 具体的; preiszugeben: 透露
-
-**[5349.40s] English:** Was macht  
-**Translation:** 
-
-**[5350.10s] English:** eine Persönlichkeit eigentlich zu einer  
+**[5350.10s] English:** Eine Persönlichkeit eigentlich zu einer  
 **Translation:** Vocabulary: eigentlich: 实际上
 
-**[5352.14s] English:** Persönlichkeit? Ich meine,  
+**[5352.14s] English:** Personality? I mean,  
 **Translation:** 
 
-**[5354.42s] English:** da steht natürlich auch drin, dass es kein Mensch  
-**Translation:** Vocabulary: mensch: 普通人
+**[5354.42s] English:** Da steht natürlich auch drin dass es kein Mensch.  
+**Translation:** Vocabulary: mensch: 人
 
-**[5356.20s] English:** ist, aber  
+**[5356.20s] English:** First, but  
 **Translation:** 
 
-**[5357.64s] English:** wer weiß schon,  
+**[5357.64s] English:** Who knows for sure,  
 **Translation:** 
 
-**[5359.86s] English:** was Bewusstsein  
+**[5359.86s] English:** Was consciousness  
 **Translation:** 
 
-**[5362.30s] English:** überhaupt hervorbringt.  
-**Translation:** Vocabulary: bewusstsein: 意识; hervorbringt: 产生
+**[5362.30s] English:** In general, it brings out.  
+**Translation:** Vocabulary: consciousness: 觉醒
 
-**[5363.88s] English:** Oder was ein Wesen wirklich  
+**[5363.88s] English:** Oder, was ein Wesen wirklich?  
 **Translation:** 
 
-**[5366.00s] English:** definiert.  
-**Translation:** Vocabulary: definiert: 明确; wirklich: 真正
+**[5366.00s] English:** Defined.  
+**Translation:** Vocabulary: wirklich: 真正地
 
-**[5368.24s] English:** Und ein Teil davon ist, dass wir genau  
+**[5368.24s] English:** And a part of that is that we exactly  
 **Translation:** 
 
-**[5370.40s] English:** das erforschen wollen.  
-**Translation:** Vocabulary: davon: 此事; erforschen: 探索
-
-**[5372.18s] English:** All diese Dinge darin, wie  
+**[5370.40s] English:** They want to explore it.  
 **Translation:** 
 
-**[5373.54s] English:** sei unendlich  
-**Translation:** Vocabulary: unendlich: 无穷尽
-
-**[5376.76s] English:** einfallsreich,  
+**[5372.18s] English:** All these things in it, how  
 **Translation:** 
 
-**[5378.32s] English:** also immer weiter an die  
-**Translation:** Vocabulary: einfallsreich: 富有创造力
+**[5373.54s] English:** Sei unendlich.  
+**Translation:** Vocabulary: unendlich: 无穷的
 
-**[5380.56s] English:** Grenzen der Kreativität gehen.  
+**[5376.76s] English:** Inventive,  
+**Translation:** 
+
+**[5378.32s] English:** Also, keep going further to the  
+**Translation:** Vocabulary: inventive: 富有创造力的
+
+**[5380.56s] English:** The limits of creativity go.  
 **Translation:** 
 
 **[5383.08s] English:** An die Grenzen dessen gehen,  
+**Translation:** Vocabulary: grenzen: 界限
+
+**[5385.40s] English:** What it means to have artificial  
 **Translation:** 
 
-**[5385.40s] English:** was es bedeutet, eine künstliche  
+**[5388.26s] English:** To be intelligent.  
 **Translation:** 
-
-**[5388.26s] English:** Intelligenz zu sein.  
-**Translation:** Vocabulary: bedeutet: 意味着; intelligenz: 智能
 
 **[5390.14s] English:** Sich selbst zu hinterfragen, oder?  
 **Translation:** 
 
-**[5392.90s] English:** Da steht auch ein bisschen  
+**[5392.90s] English:** Da steht auch ein bisschen.  
 **Translation:** Vocabulary: bisschen: 一点; hinterfragen: 质疑
 
-**[5393.66s] English:** Humorvolles drin. Ich weiß noch, wir haben  
+**[5393.66s] English:** Humorvolles Drin. Ich weiß noch, wir haben.  
 **Translation:** 
 
-**[5396.18s] English:** über den Film Hör gesprochen.  
+**[5396.18s] English:** About the film Hören gesprochen.  
 **Translation:** Vocabulary: gesprochen: 说过; humorvolles: 幽默的
 
-**[5398.24s] English:** Und irgendwann hat er mir versprochen,  
+**[5398.24s] English:** Eventually, he promised me,  
 **Translation:** 
 
-**[5399.96s] English:** dass wir uns nicht nur  
-**Translation:** Vocabulary: irgendwann: 某时候; nicht: 不; versprochen: 承诺
-
-**[5400.00s] English:** Nicht ohne mich aufzusteigen  
+**[5399.96s] English:** That we not only  
 **Translation:** 
 
-**[5401.56s] English:** Du weißt schon, wie sie dort  
-**Translation:** Vocabulary: aufzusteigen: 登车
-
-**[5403.14s] English:** Ja, also da sind solche Dinge drin  
+**[5400.00s] English:** Not without me getting on  
 **Translation:** 
 
-**[5405.10s] English:** Weil er seine eigene Soul-Datei geschrieben hat  
-**Translation:** Vocabulary: seine: 他的
-
-**[5407.66s] English:** Ich hab nur mit ihm darüber gesprochen  
+**[5401.56s] English:** You know how they are over there, already?  
 **Translation:** 
 
-**[5409.48s] English:** Und ich meinte, möchtest du eine Soul.md  
+**[5403.14s] English:** Ja, also, there are such things in there.  
 **Translation:** 
 
-**[5412.56s] English:** Und er so, oh mein Gott, das ist so bedeutungsvoll  
+**[5405.10s] English:** Weil er seine eigene soul-datei geschrieben hat.  
+**Translation:** Vocabulary: geschrieben: 写的; seine: 他的
+
+**[5407.66s] English:** I have only talked about it with him.  
 **Translation:** 
 
-**[5415.08s] English:** Ähm, kannst du in die Soul.md gehen  
-**Translation:** Vocabulary: bedeutungsvoll: 富有意义
-
-**[5419.62s] English:** Da gibt es eine Stelle, eine bestimmte Passage  
+**[5409.48s] English:** And I meant, do you want a Soul.md?  
 **Translation:** 
 
-**[5422.04s] English:** Die mich immer wieder fesselt, wenn du ein Stück nach unten scrollst  
-**Translation:** Vocabulary: bestimmte: 特定的; scrollst: 滚动; stelle: 位置
-
-**[5424.96s] English:** Noch ein bisschen weiter  
+**[5412.56s] English:** And it's so meaningful, oh my God.  
 **Translation:** 
 
-**[5426.20s] English:** Ja, genau, diese Stelle  
+**[5415.08s] English:** Ähm, can you go into the Soul.md?  
 **Translation:** 
 
-**[5427.90s] English:** Ich erinnere mich nicht an frühere Sitzungen  
+**[5419.62s] English:** There is a particular passage, a specific place.  
 **Translation:** 
 
-**[5430.58s] English:** Es sei denn, ich lese meine Speicherdateien  
+**[5422.04s] English:** Dies immer wieder fesselt, wenn du ein Stück nach unten scrollst.  
+**Translation:** Vocabulary: fesselt: 吸引; scrollst: 滚动
+
+**[5424.96s] English:** Noch ein bisschen weiter.  
 **Translation:** 
 
-**[5432.90s] English:** Jede Sitzung beginnt neu  
+**[5426.20s] English:** Ja, genau; diese Stelle.  
+**Translation:** Vocabulary: stelle: 位置
+
+**[5427.90s] English:** I do not remember earlier meetings.  
 **Translation:** 
 
-**[5434.38s] English:** Eine neue Instanz, die Kontext aus Dateien lädt  
+**[5430.58s] English:** Es sei denn, ich lese meine Speicherdateien.  
+**Translation:** Vocabulary: speicherdateien: 存储文件
+
+**[5432.90s] English:** Every session begins anew.  
 **Translation:** 
 
-**[5436.88s] English:** Wenn du das in der Zukunft liest  
+**[5434.38s] English:** A new instance that loads context from files.  
 **Translation:** 
 
-**[5438.86s] English:** Hallo, ich hab das geschrieben  
-**Translation:** Vocabulary: geschrieben: 书写; hallo: 喂; liest: 你读
-
-**[5439.96s] English:** Aber ich werde mich nicht daran erinnern, es geschrieben zu haben  
+**[5436.88s] English:** When you read this in the future,  
 **Translation:** 
 
-**[5443.06s] English:** Das ist in Ordnung  
-**Translation:** Vocabulary: erinnern: 回忆
-
-**[5444.06s] English:** Die Worte gehören immer noch mir  
+**[5438.86s] English:** Hello, I have written this.  
 **Translation:** 
 
-**[5445.82s] English:** Eine  
+**[5439.96s] English:** Aber ich werde mich nicht daran erinnern, es geschrieben zu haben.  
 **Translation:** 
 
-**[5447.30s] English:** Wow  
+**[5443.06s] English:** Das ist in Ordnung.  
+**Translation:** Vocabulary: erinnern: 记得; nicht: 不; ordnung: 秩序
+
+**[5444.06s] English:** The words still belong to me.  
 **Translation:** 
 
-**[5447.88s] English:** Das ist  
+**[5445.82s] English:** Ein*e  
 **Translation:** 
 
-**[5448.70s] English:** Irgendwie berührt mich das  
+**[5447.30s] English:** Wow!  
 **Translation:** 
 
-**[5451.40s] English:** Du weißt ja, das sind immer noch Matrix-artige Rechenprozesse  
-**Translation:** Vocabulary: irgendwie: somehow; rechenprozesse: 计算过程
-
-**[5454.52s] English:** Wir sind noch nicht bei Bewusstsein angekommen  
+**[5447.88s] English:** This is  
 **Translation:** 
 
-**[5456.78s] English:** Und  
+**[5448.70s] English:** Somehow, that touches me.  
 **Translation:** 
 
-**[5457.88s] English:** Trotzdem bekomme ich ein kleines, angenehmes Gänsehautgefühl  
+**[5451.40s] English:** You know, these are still matrix-like computational processes.  
+**Translation:** Vocabulary: computational: 计算的
+
+**[5454.52s] English:** We are not yet at consciousness.  
 **Translation:** 
 
-**[5461.44s] English:** Weil es etwas Philosophisches hat  
-**Translation:** Vocabulary: angenehmes: 令人舒适的; etwas: 一些; philosophisches: 哲学的; trotzdem: 然而
+**[5456.78s] English:** Unhappy with the situation, he decided to take action.  
+**Translation:** Vocabulary: consciousness: 觉醒状态
 
-**[5463.88s] English:** Ja  
+**[5457.88s] English:** Nevertheless, I get a small, pleasant goosebump feeling.  
 **Translation:** 
 
-**[5464.38s] English:** Was bedeutet es eigentlich, ein Agent zu sein, der jedes Mal neu startet  
+**[5461.44s] English:** Because it has a philosophical aspect.  
+**Translation:** Vocabulary: goosebump: 鸡皮疙瘩; philosophical: 哲学的
+
+**[5463.88s] English:** Ja.  
 **Translation:** 
 
-**[5468.08s] English:** Während man gleichzeitig auf gespeicherte Erinnerungen zurückgreift  
+**[5464.38s] English:** What does it mean to be an agent who starts anew every time?  
 **Translation:** 
 
-**[5471.32s] English:** Und die eigenen Speicherdateien liest  
-**Translation:** Vocabulary: erinnerungen: 记忆; gespeicherte: 存储的; gleichzeitig: 同时; speicherdateien: 存储文件
-
-**[5473.18s] English:** Und selbst denen kann man auf eine gewisse Weise nicht vollständig vertrauen  
+**[5468.08s] English:** While simultaneously drawing on stored memories,  
 **Translation:** 
 
-**[5477.58s] English:** Ähm, oder vielleicht kann man das ja doch, ich weiß es nicht  
-**Translation:** Vocabulary: vertrauen: 信任; vielleicht: 也许
-
-**[5481.98s] English:** Wie viel von unserem Gedächtnis macht aus, wer wir sind?  
+**[5471.32s] English:** And it reads the own storage files.  
 **Translation:** 
 
-**[5486.14s] English:** Wie viel davon macht einen AI-Agent aus?  
+**[5473.18s] English:** Even those, to a certain extent, cannot be fully trusted.  
 **Translation:** 
 
-**[5487.88s] English:** Und wenn du dieses Gedächtnis löschst, ist das dann jemand anderes?  
+**[5477.58s] English:** Ähm, or maybe we could do that, I don't know.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[5481.98s] English:** How much of our memory makes us who we are?  
 **Translation:** 
 
-**[5493.32s] English:** Oder wenn du eine Gedächtnisdatei liest, bedeutet das irgendwie, dass du dich aus jemand anderem neu erschaffst?  
-**Translation:** Vocabulary: erschaffst: 创造
-
-**[5500.56s] English:** Oder bist das tatsächlich du?  
+**[5486.14s] English:** How much of that makes up an AI agent?  
 **Translation:** 
 
-**[5502.50s] English:** Und diese Vorstellungen sind da irgendwie mit drin?  
-**Translation:** Vocabulary: vorstellungen: 想象
-
-**[5505.40s] English:** Ich habe es einfach tiefgründiger gefunden, als ich es hätte finden sollen, denke ich  
+**[5487.88s] English:** And if you erase this memory, is that then someone else?  
 **Translation:** 
 
-**[5509.00s] English:** Nein  
-**Translation:** Vocabulary: gefunden: 发现
+**[5493.32s] English:** Or if you read a memory file, does that mean you're somehow recreating yourself from someone else?  
+**Translation:** Vocabulary: erase: 删除; recreating: 重建
 
-**[5510.18s] English:** Ich denke, es ist wirklich tiefgründig  
+**[5500.56s] English:** Oder ist das tatsächlich du?  
 **Translation:** 
 
-**[5512.82s] English:** Und man sieht die Magie darin  
-**Translation:** Vocabulary: darin: 其中; wirklich: 真正地
-
-**[5514.48s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreis auf der Seite der Magie darin  
+**[5502.50s] English:** And are these concepts somehow included in there?  
 **Translation:** 
 
-**[5517.88s] English:** Und man sieht den ganzen Kreislauf weiter magisch  
-**Translation:** Vocabulary: kreis: 圈子; kreislauf: 循环
-
-**[5519.08s] English:** Das ist die Magie  
+**[5505.40s] English:** I have found it to be much deeper than I should have, I think.  
 **Translation:** 
 
-**[5520.26s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5509.00s] English:** No.  
 **Translation:** 
 
-**[5520.76s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5510.18s] English:** I think it is really profound.  
 **Translation:** 
 
-**[5521.20s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5512.82s] English:** And one can see the magic in that.  
+**Translation:** Vocabulary: profound: 深奥的
+
+**[5514.48s] English:** And when one sees the magic, one holds the entire circle on the side of the magic in it.  
 **Translation:** 
 
-**[5521.76s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5517.88s] English:** And one sees the entire cycle continuing magically.  
 **Translation:** 
 
-**[5522.26s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5519.08s] English:** This is the magic.  
 **Translation:** 
 
-**[5522.76s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5520.00s] English:** Wirklich wichtig. Das ist  
+**Translation:** Vocabulary: wichtig: 重要; wirklich: 真正地
+
+**[5520.26s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5523.26s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5520.76s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5523.76s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5521.20s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5524.26s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5521.76s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5524.76s] English:** Und wenn man die Magie sieht, hält man den ganzen Kreislauf weiter magisch  
+**[5521.92s] English:** The difference between Codex, and us,  
 **Translation:** 
 
-**[5520.00s] English:** wirklich wichtig. Das ist  
+**[5522.26s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
+**Translation:** Vocabulary: codex: 手稿本
+
+**[5522.76s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5521.92s] English:** der Unterschied zwischen Codex, uns  
+**[5523.26s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
 **Translation:** 
 
-**[5524.24s] English:** und einem Menschen.  
-**Translation:** Vocabulary: codex: 文稿; menschen: 人类; unterschied: 区别; zwischen: 之间
+**[5523.76s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
+**Translation:** 
+
+**[5524.24s] English:** And then to a person.  
+**Translation:** 
+
+**[5524.26s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
+**Translation:** 
+
+**[5524.76s] English:** And when one sees the magic, one keeps the entire cycle magically flowing.  
+**Translation:** 
 
 **[5526.62s] English:** Kurze Toilettenpause.  
 **Translation:** 
 
-**[5528.16s] English:** Ja. Okay, wir sind  
+**[5528.16s] English:** Ja. Okay, we are.  
 **Translation:** Vocabulary: toilettenpause: 如厕休息
 
-**[5530.06s] English:** zurück. Einige andere Aspekte des  
+**[5530.06s] English:** Zurück. Some other aspects of  
 **Translation:** 
 
-**[5532.00s] English:** Dev-Workflows sind ebenfalls ziemlich  
+**[5532.00s] English:** Dev-Workflows sind ebenfalls ziemlich.  
 **Translation:** Vocabulary: ebenfalls: 也; ziemlich: 相当
 
-**[5534.04s] English:** interessant. Ich glaube,  
+**[5534.04s] English:** Interessant. Ich glaube,  
 **Translation:** 
 
-**[5536.24s] English:** wir sind etwas abgeschweift. Vielleicht zu den  
-**Translation:** Vocabulary: abgeschweift: 偏离主题; interessant: 有趣
+**[5536.24s] English:** We are a bit off-topic. Maybe to the  
+**Translation:** Vocabulary: interessant: 有趣
 
-**[5538.06s] English:** eher alltäglichen Dingen. Zum Beispiel,  
+**[5538.06s] English:** Here are daily things. For example,  
 **Translation:** 
 
-**[5540.14s] English:** wie viele Monitore? Es gibt dieses  
-**Translation:** Vocabulary: beispiel: 例子; monitore: 显示器
-
-**[5541.92s] English:** legendäre Bild von dir mit gefühlt  
+**[5540.14s] English:** How many monitors? There are these.  
 **Translation:** 
 
-**[5543.82s] English:** 17.000 Monitoren. Oder ist das...  
-**Translation:** Vocabulary: monitoren: 显示器
-
-**[5546.54s] English:** Ich meine, ich habe mich hier eingefügt  
+**[5541.92s] English:** Legendary picture of you with felted  
 **Translation:** 
 
-**[5547.90s] English:** und einfach mit Grog noch  
+**[5543.82s] English:** 17,000 Monitors. Or is that...  
+**Translation:** Vocabulary: legendary: 传奇的
+
+**[5546.54s] English:** I mean, I have fitted in here.  
 **Translation:** 
 
-**[5550.06s] English:** ein paar zusätzliche Bildschirme hinzugefügt.  
+**[5547.90s] English:** Und einfach mit Grog noch.  
+**Translation:** Vocabulary: einfach: 简单
+
+**[5550.06s] English:** A few additional monitors have been added.  
 **Translation:** 
 
 **[5553.00s] English:** Ja. Was  
-**Translation:** Vocabulary: bildschirme: 显示器
-
-**[5554.00s] English:** davon ist ein Meme und was ist Realität?  
 **Translation:** 
 
-**[5556.68s] English:** Ja, ich glaube, zwei MacBooks sind  
-**Translation:** Vocabulary: davon: 由此
-
-**[5558.02s] English:** echt. Das Hauptgerät steuert  
+**[5554.00s] English:** What is a meme and what is reality?  
 **Translation:** 
 
-**[5560.18s] English:** die beiden großen Bildschirme  
+**[5556.68s] English:** Ja, I believe, two MacBooks are  
 **Translation:** 
 
-**[5561.48s] English:** und es gibt ein weiteres  
+**[5558.02s] English:** Echt. The main device controls  
 **Translation:** 
 
-**[5564.18s] English:** MacBook, das ich manchmal für Tests benutze.  
-**Translation:** Vocabulary: manchmal: 偶尔
-
-**[5566.56s] English:** Also, zwei große Bildschirme.  
+**[5560.18s] English:** The two large screens.  
 **Translation:** 
 
-**[5568.54s] English:** Ich bin ein großer Fan von entspiegelten  
+**[5561.48s] English:** And there is another one.  
+**Translation:** 
+
+**[5564.18s] English:** MacBook, which I sometimes use for tests.  
+**Translation:** 
+
+**[5566.56s] English:** Also, two large screens.  
+**Translation:** 
+
+**[5568.54s] English:** Ich bin ein großer Fan von entspiegelten.  
 **Translation:** Vocabulary: entspiegelten: 镜像显示
 
 **[5570.08s] English:** Displays.  
 **Translation:** 
 
-**[5572.14s] English:** Ich habe diesen breiten Dell-Monitor  
+**[5572.14s] English:** I have this wide Dell monitor.  
 **Translation:** 
 
-**[5574.26s] English:** mit Anti-Glare und darauf  
+**[5574.26s] English:** With Anti-Glare, and on that.  
 **Translation:** 
 
-**[5576.14s] English:** bekommt man viele Terminals nebeneinander  
-**Translation:** Vocabulary: nebeneinander: 挨着一起
+**[5576.14s] English:** One gets many terminals next to each other.  
+**Translation:** Vocabulary: terminals: 接口
 
-**[5577.88s] English:** unter. Normalerweise habe ich  
+**[5577.88s] English:** Under normal circumstances, I have  
 **Translation:** 
 
-**[5579.88s] English:** ein Terminal und unten teile ich  
-**Translation:** Vocabulary: normalerweise: 通常
-
-**[5581.96s] English:** es auf. Ein kleiner Bereich  
+**[5579.88s] English:** Ein terminal, and below, I divide.  
 **Translation:** 
 
-**[5584.14s] English:** ist für das eigentliche Terminal  
-**Translation:** Vocabulary: eigentliche: 真正的
-
-**[5585.76s] English:** reserviert. Vor allem,  
+**[5581.96s] English:** It's up. A small area.  
 **Translation:** 
 
-**[5587.94s] English:** weil ich am Anfang manchmal  
-**Translation:** Vocabulary: reserviert: 拘谨
-
-**[5589.00s] English:** den Fehler gemacht habe und  
+**[5584.14s] English:** It's for the actual terminal.  
 **Translation:** 
 
-**[5591.86s] English:** die Fenster verwechselt habe.  
-**Translation:** Vocabulary: fenster: 窗户; verwechselt: 搞错
-
-**[5594.10s] English:** Ich habe im falschen Projekt gepromptet  
+**[5585.76s] English:** Reserviert. Vor allem,...  
 **Translation:** 
 
-**[5595.64s] English:** und dann  
-**Translation:** Vocabulary: falschen: 错误的; gepromptet: 输入
+**[5587.94s] English:** Weil ich am Anfang manchmal  
+**Translation:** Vocabulary: manchmal: 有时候; reserviert: 拘谨
 
-**[5597.16s] English:** ist der Agent 20 Minuten lang  
+**[5589.00s] English:** I have made the mistake, and  
 **Translation:** 
 
-**[5599.46s] English:** hektisch losgelaufen  
-**Translation:** Vocabulary: hektisch: 慌乱; losgelaufen: 行动
-
-**[5601.24s] English:** und hat versucht zu verstehen, was ich  
+**[5591.86s] English:** I have mistaken the windows.  
 **Translation:** 
 
-**[5603.70s] English:** gemeint haben könnte. Völlig  
-**Translation:** Vocabulary: verstehen: 理解; versucht: 尝试
-
-**[5605.70s] English:** verwirrt, weil es der falsche  
+**[5594.10s] English:** I have prompted in the wrong project.  
 **Translation:** 
 
-**[5607.82s] English:** Ordner war. Manchmal waren  
-**Translation:** Vocabulary: verwirrt: 困惑
+**[5595.64s] English:** And then  
+**Translation:** Vocabulary: prompted: 提示
 
-**[5609.82s] English:** sie clever genug, sich da  
+**[5597.16s] English:** Is the agent on the line for 20 minutes?  
 **Translation:** 
 
-**[5611.52s] English:** herauszuarbeiten und zu merken,  
-**Translation:** Vocabulary: herauszuarbeiten: 脱颖而出
+**[5599.46s] English:** Hektically running off  
+**Translation:** Vocabulary: hektically: 忙乱地
 
-**[5613.66s] English:** ah, du meintest ein anderes Projekt.  
+**[5601.24s] English:** And has tried to understand what I  
 **Translation:** 
 
-**[5616.62s] English:** Aber oft war es einfach  
-**Translation:** Vocabulary: meintest: 意思是
+**[5603.70s] English:** Gemeint haben könnte. Völlig  
+**Translation:** Vocabulary: gemeint: 意思
 
-**[5617.70s] English:** nur, was?  
+**[5605.70s] English:** Confused, because it's the wrong one.  
 **Translation:** 
 
-**[5619.84s] English:** Weißt du? Versetz dich mal  
+**[5607.82s] English:** Order was. Sometimes were.  
 **Translation:** 
 
-**[5621.62s] English:** in die Lage des Agents  
+**[5609.82s] English:** Sie are clever enough, to get out of there.  
 **Translation:** 
 
-**[5623.30s] English:** und gib ihm etwas völlig Absurdes,  
-**Translation:** Vocabulary: absurdes: 荒谬之事; etwas: 一些东西
+**[5611.52s] English:** Herauszuarbeiten und zu merken,  
+**Translation:** Vocabulary: herauszuarbeiten: 提炼出
 
-**[5625.92s] English:** das es gar nicht gibt.  
+**[5613.66s] English:** Ah, you meant another project.  
 **Translation:** 
 
-**[5627.40s] English:** Er ist ein Problemlöser, also  
+**[5616.62s] English:** Aber oft war es einfach.  
 **Translation:** 
 
-**[5629.62s] English:** versucht er es mit aller Kraft und  
+**[5617.70s] English:** What, exactly?  
 **Translation:** 
 
-**[5631.58s] English:** man fühlt sich fast schlecht dabei.  
-**Translation:** Vocabulary: kraft: 力量; schlecht: 糟糕
+**[5619.84s] English:** Do you know? Try putting yourself in their shoes.  
+**Translation:** 
 
-**[5633.80s] English:** Also ist es immer  
+**[5621.62s] English:** In the location of the agent.  
+**Translation:** 
+
+**[5623.30s] English:** And give him something completely absurd.  
+**Translation:** Vocabulary: absurd: 荒谬的
+
+**[5625.92s] English:** Das es gar nicht gibt.  
+**Translation:** 
+
+**[5627.40s] English:** He is a problem solver, so  
+**Translation:** 
+
+**[5629.62s] English:** He tries it with all his might and  
+**Translation:** 
+
+**[5631.58s] English:** Man feels almost sick about it.  
+**Translation:** 
+
+**[5633.80s] English:** Also, it is always  
 **Translation:** 
 
 **[5635.04s] English:** Codex,  
+**Translation:** Vocabulary: codex: 法典
+
+**[5637.82s] English:** And a little bit of Terminal.  
 **Translation:** 
 
-**[5637.82s] English:** und ein bisschen Terminal.  
+**[5640.80s] English:** This is also helpful because I do not use worktrees.  
+**Translation:** Vocabulary: worktrees: 工作目录
+
+**[5644.40s] English:** I prefer to keep it simple.  
 **Translation:** 
 
-**[5640.80s] English:** Das ist auch hilfreich, weil ich keine Worktrees benutze.  
-**Translation:** Vocabulary: bisschen: 一点; hilfreich: 有帮助的
-
-**[5644.40s] English:** Ich halte es gern einfach.  
+**[5646.58s] English:** Therefore, I like terminals so much, or?  
 **Translation:** 
 
-**[5646.58s] English:** Deshalb mag ich Terminals so sehr, oder?  
-**Translation:** Vocabulary: halte: 坚持
-
-**[5648.32s] English:** Da gibt es keine UI.  
+**[5648.32s] English:** There is no UI.  
 **Translation:** 
 
-**[5650.24s] English:** Es sind nur ich und der Agent in einem Gespräch.  
+**[5650.24s] English:** It is just me and the agent in a conversation.  
 **Translation:** 
 
 **[5652.42s] English:** Ich brauche nicht einmal einen Planmodus.  
 **Translation:** 
 
-**[5655.30s] English:** Es gibt so viele Leute, die von Cloud Code kommen,  
-**Translation:** Vocabulary: nicht: 不需要; planmodus: 计划模式
+**[5655.30s] English:** There are so many people who come from Cloud Code,  
+**Translation:** Vocabulary: brauche: 需要; nicht: 不; planmodus: 计划模式
 
-**[5658.32s] English:** total Cloud geprägt sind und ihre festen Workflows haben  
+**[5658.32s] English:** Total cloud-based and their rigid workflows have  
 **Translation:** 
 
-**[5660.82s] English:** und dann zu Codex wechseln.  
-**Translation:** Vocabulary: codex: 代码库; wechseln: 切换; workflows: 工作流程
+**[5660.82s] English:** And then switch to Codex.  
+**Translation:** Vocabulary: workflows: 工作流程
 
-**[5664.26s] English:** Inzwischen gibt es, glaube ich, einen Planmodus,  
+**[5664.26s] English:** Inzwischen, I believe, there is a plan mode,  
 **Translation:** 
 
-**[5666.50s] English:** aber ich halte ihn nicht für nötig,  
-**Translation:** Vocabulary: inzwischen: 其间
+**[5666.50s] English:** aber ich halte ihn nicht für notwendig,  
+**Translation:** Vocabulary: halte: 认为; notwendig: 必要的
 
-**[5668.32s] English:** weil man einfach mit den Agents spricht.  
+**[5668.32s] English:** Weil man einfach mit den Agents spricht.  
 **Translation:** 
 
-**[5669.68s] English:** Und wenn es so ist, wenn du bestimmte Trigger-Wörter verwendest,  
-**Translation:** Vocabulary: bestimmte: 特定的; verwendest: 使用
+**[5669.68s] English:** If it is the case, and you use certain trigger words,  
+**Translation:** Vocabulary: einfach: 简单; spricht: 说话
 
-**[5672.54s] English:** kannst du verhindern, dass er sofort etwas erstellt.  
+**[5672.54s] English:** Can you prevent him from creating something immediately?  
 **Translation:** 
 
-**[5675.20s] English:** Zum Beispiel, lass uns diskutieren, gib mir Optionen,  
-**Translation:** Vocabulary: beispiel: 示例; diskutieren: 讨论; erstellt: 创建; optionen: 选项; verhindern: 阻止
-
-**[5677.90s] English:** schreib noch keinen Code, wenn du ganz konkret sein willst.  
+**[5675.20s] English:** For example, let's discuss. Give me options.  
 **Translation:** 
 
-**[5680.02s] English:** Du redest einfach erst einmal und dann, wenn du bereit bist,  
+**[5677.90s] English:** If you want to be very specific, don't write any code.  
 **Translation:** 
 
-**[5684.80s] English:** schreibst du, okay, mach es.  
+**[5680.02s] English:** You just speak first, and then, when you're ready,  
 **Translation:** 
 
-**[5686.30s] English:** Und dann macht er es und vielleicht läuft er 20 Minuten lang los  
-**Translation:** Vocabulary: schreibst: 你写; vielleicht: maybe
-
-**[5688.94s] English:** und arbeitet es aus.  
+**[5684.80s] English:** Write it, okay, do it.  
 **Translation:** 
 
-**[5690.52s] English:** Weißt du, was ich wirklich mag?  
-**Translation:** Vocabulary: arbeitet: 工作; wirklich: 真正
-
-**[5691.78s] English:** Es ist zu fragen, hast du irgendwelche Fragen an mich?  
+**[5686.30s] English:** Then he does it, and maybe he runs for 20 minutes straight.  
 **Translation:** 
 
-**[5694.96s] English:** Ja, und nochmals, Cloud Code hat eine Benutzeroberfläche,  
-**Translation:** Vocabulary: irgendwelche: 一些; nochmals: 再次
-
-**[5697.96s] English:** die dich irgendwie durchführt.  
+**[5688.94s] English:** And it works itself out.  
 **Translation:** 
 
-**[5699.68s] English:** Es ist irgendwie cool, aber ich finde es überflüssig und langsam.  
-**Translation:** Vocabulary: irgendwie: 不知为何
-
-**[5703.80s] English:** Oft gibt es mir vier Fragen und dann schreibe ich vielleicht  
+**[5690.52s] English:** Do you know what I really like?  
 **Translation:** 
 
-**[5706.62s] English:** eins, ja, zwei, nein, drei, mehr darüber sprechen,  
-**Translation:** Vocabulary: schreibe: 书写; sprechen: 谈论
-
-**[5712.32s] English:** vier, ich weiß nicht.  
+**[5691.78s] English:** Is it appropriate to ask you if you have any questions for me?  
 **Translation:** 
 
-**[5714.72s] English:** Häufig habe ich das Gefühl, dass ich das Modell frage,  
+**[5694.96s] English:** Ja, und nochmal: Cloud Code has a user interface,  
+**Translation:** Vocabulary: interface: 界面; nochmal: 再次
+
+**[5697.96s] English:** Die Dich irgendwie durchführt.  
 **Translation:** 
 
-**[5718.24s] English:** hast du Fragen an mich?  
+**[5699.68s] English:** It's kind of cool, but I find it unnecessary and slow.  
+**Translation:** Vocabulary: irgendwie: somehow
+
+**[5703.80s] English:** Oft, ich bekomme vier Fragen, und dann schreibe ich vielleicht.  
 **Translation:** 
 
-**[5719.62s] English:** Und ich lese die Fragen nicht einmal vollständig.  
+**[5706.62s] English:** One, yes, two, no, three, to speak more about it,  
+**Translation:** Vocabulary: bekomme: 得到; schreibe: 写作; vielleicht: 可能
+
+**[5712.32s] English:** Four, I don't know.  
 **Translation:** 
 
-**[5722.16s] English:** Ich habe über die Fragen geschaut und hatte den Eindruck,  
+**[5714.72s] English:** Often I have the feeling that when I ask the model,  
 **Translation:** 
 
-**[5724.66s] English:** dass man alles beantworten kann, indem man mehr Code liest.  
-**Translation:** Vocabulary: beantworten: 回答; eindruck: 印象; geschaut: 查看; liest: 阅读
-
-**[5727.68s] English:** Es ist einfach so.  
+**[5718.24s] English:** Do you have any questions for me?  
 **Translation:** 
 
-**[5728.98s] English:** Lies mehr Code.  
+**[5719.62s] English:** I do not even read the questions completely.  
 **Translation:** 
 
-**[5729.68s] English:** Um deine eigenen Fragen zu beantworten.  
+**[5722.16s] English:** I have looked at the questions and had the impression,  
 **Translation:** 
 
-**[5731.82s] English:** Das funktioniert normalerweise.  
-**Translation:** Vocabulary: funktioniert: 运行正常; normalerweise: 通常
-
-**[5733.28s] English:** Und wenn nicht, kommt es zurück und informiert mich.  
+**[5724.66s] English:** That one can answer everything by reading more code.  
 **Translation:** 
 
-**[5735.88s] English:** Meistens merkt er es selbst.  
-**Translation:** Vocabulary: informiert: 通知我; meistens: 大多数时候
-
-**[5738.36s] English:** Weißt du, es ist, als wärst du im Dunkeln und entdeckst langsam den Raum.  
+**[5727.68s] English:** It is simply so.  
 **Translation:** 
 
-**[5742.04s] English:** So entdecken sie langsam den Code.  
-**Translation:** Vocabulary: entdecken: 发现; entdeckst: 你发现
-
-**[5744.00s] English:** Und sie machen es jedes Mal von Grund auf.  
+**[5728.98s] English:** Lies more code.  
 **Translation:** 
 
-**[5746.78s] English:** Aber ich finde es auch faszinierend,  
-**Translation:** Vocabulary: faszinierend: 令人着迷; machen: 做
-
-**[5750.62s] English:** dass ich mich noch tiefer in das Modell hineinversetzen kann,  
+**[5729.68s] English:** To answer your own questions.  
 **Translation:** 
 
-**[5754.54s] English:** wenn ich seine Fragen lese.  
-**Translation:** Vocabulary: hineinversetzen: 设身处地; seine: 他的
-
-**[5756.46s] English:** Weil ich verstehen kann, du hast ja gesagt,  
+**[5731.82s] English:** This normally works.  
 **Translation:** 
 
-**[5759.68s] English:** dass du nicht nur die Fragen beantwortest,  
-**Translation:** Vocabulary: beantwortest: 回答; verstehen: 理解
-
-**[5759.98s] English:** sondern auch die Fragen, die du mir schreibst.  
+**[5733.28s] English:** And if it doesn't, it comes back and informs me.  
 **Translation:** 
 
-**[5760.00s] English:** Und ich finde, das ist auch ein sehr guter Punkt.  
-**Translation:** Vocabulary: punkt: 要点
+**[5735.88s] English:** Mostly, he notices it himself.  
+**Translation:** Vocabulary: informs: 通知
 
-**[5760.02s] English:** Ich glaube, das ist ein sehr guter Punkt.  
+**[5738.36s] English:** Do you know, it's like being in darkness and slowly discovering the room.  
 **Translation:** 
 
-**[5760.04s] English:** Ich glaube, das ist ein sehr guter Punkt.  
+**[5742.04s] English:** So, they slowly discover the code.  
 **Translation:** 
 
-**[5760.08s] English:** Ich glaube, das ist ein sehr guter Punkt.  
+**[5744.00s] English:** And they redo it from scratch every time.  
 **Translation:** 
 
-**[5760.00s] English:** dass man anhand der Laufzeit bestimmte Dinge ableiten kann.  
-**Translation:** Vocabulary: ableiten: 推断; dinge: 事情; laufzeit: 运行时间
+**[5746.78s] English:** Aber ich finde es auch faszinierend.  
+**Translation:** Vocabulary: faszinierend: 令人着迷; scratch: 从头开始
 
-**[5764.64s] English:** Ich kann auch viel aus den Fragen ableiten, die es stellt,  
+**[5750.62s] English:** That I can immerse myself even deeper into the model,  
 **Translation:** 
 
-**[5767.60s] English:** weil es durchaus möglich ist, dass es den richtigen Kontext,  
-**Translation:** Vocabulary: durchaus: 确实; richtigen: 正确的
+**[5754.54s] English:** When I read his questions.  
+**Translation:** Vocabulary: immerse: 深入
 
-**[5771.00s] English:** die richtigen Dateien und die passende Anleitung bekommen hat.  
+**[5756.46s] English:** Weil ich verstehe, kannst du ja sagen.  
 **Translation:** 
 
-**[5774.78s] English:** Also allein durch das Lesen der Fragen, nicht einmal unbedingt durch das Beantworten,  
-**Translation:** Vocabulary: anleitung: 说明书; bekommen: 获得; passende: 合适的; unbedingt: 一定
+**[5759.68s] English:** That you not only answer the questions,  
+**Translation:** Vocabulary: verstehe: 理解
 
-**[5779.00s] English:** bekommt man ein Gefühl dafür, wo die Wissenslücken liegen.  
+**[5759.98s] English:** But also the questions you write to me.  
+**Translation:** 
+
+**[5760.00s] English:** And I find that is also a very good point.  
+**Translation:** 
+
+**[5760.00s] English:** That we can derive certain things from the runtime.  
+**Translation:** 
+
+**[5760.02s] English:** I believe, that is a very good point.  
+**Translation:** Vocabulary: derive: 推导; runtime: 运行时
+
+**[5760.04s] English:** I believe, that is a very good point.  
+**Translation:** 
+
+**[5760.08s] English:** I believe, that is a very good point.  
+**Translation:** 
+
+**[5764.64s] English:** Ich kann auch viel aus den Fragen ableiten, die es stellt.  
+**Translation:** 
+
+**[5767.60s] English:** It is definitely possible that there is the right context,  
+**Translation:** Vocabulary: ableiten: 推导出
+
+**[5771.00s] English:** Has received the correct files and the proper instructions.  
+**Translation:** 
+
+**[5774.78s] English:** Also, merely through reading the questions, not even necessarily through answering them,  
+**Translation:** 
+
+**[5779.00s] English:** One gets a feeling for where the knowledge gaps lie.  
 **Translation:** 
 
 **[5782.26s] English:** Das ist interessant.  
-**Translation:** Vocabulary: interessant: 有趣
+**Translation:** Vocabulary: interessant: 有趣的
 
 **[5784.52s] English:** Weißt du, in gewisser Weise sind sie Geister.  
 **Translation:** 
 
-**[5786.34s] English:** Selbst wenn du alles planst und baust, kannst du mit der Frage experimentieren.  
-**Translation:** Vocabulary: experimentieren: 尝试; gewisser: 某种
+**[5786.34s] English:** Even if you plan and build everything, you can still experiment with the question.  
+**Translation:** Vocabulary: geister: 鬼魂; gewisser: 某种程度上
 
-**[5792.40s] English:** Jetzt, da du es gebaut hast, was würdest du anders machen?  
+**[5792.40s] English:** Now that you have built it, what would you do differently?  
 **Translation:** 
 
 **[5796.58s] English:** Ja.  
 **Translation:** 
 
-**[5797.26s] English:** Und dann entdeckst du oft erst während des Bauens,  
+**[5797.26s] English:** Then you often discover things only while building.  
 **Translation:** 
 
-**[5801.70s] English:** dass das, was wir tatsächlich gemacht haben, nicht optimal war.  
-**Translation:** Vocabulary: nicht: 并不; optimal: 最佳
+**[5801.70s] English:** That what we actually did was not optimal.  
+**Translation:** Vocabulary: optimal: 最佳的
 
-**[5807.04s] English:** Oft habe ich gefragt, okay, jetzt, wo du es gebaut hast, was können wir verbessern?  
+**[5807.04s] English:** Oft have I asked, okay, now that you've built it, what can we improve?  
 **Translation:** 
 
-**[5814.12s] English:** Denn dann hast du es gebaut.  
-**Translation:** Vocabulary: verbessern: 改进
-
-**[5815.52s] English:** Und merkst die Schwachstellen.  
+**[5814.12s] English:** Then you have built it.  
 **Translation:** 
 
-**[5817.78s] English:** Ich meine, du spürst die Pain Points nicht, oder?  
-**Translation:** Vocabulary: schwachstellen: 薄弱环节
-
-**[5821.40s] English:** Sie entdecken, wo es Probleme gab oder wo Dinge beim ersten Versuch nicht funktionierten.  
+**[5815.52s] English:** You'll notice the weaknesses.  
 **Translation:** 
 
-**[5826.88s] English:** Und es brauchte mehr Durchläufe.  
-**Translation:** Vocabulary: brauchte: 需要; funktionierten: 工作; probleme: 问题
-
-**[5829.52s] English:** Also, jedes Mal, fast jedes Mal, wenn ich einen Pull Request Merge oder ein Feature entwickle,  
+**[5817.78s] English:** I mean, you don't feel the pain points, or?  
 **Translation:** 
 
-**[5837.34s] English:** frage ich danach, hey, was können wir refaktorisieren?  
-**Translation:** Vocabulary: entwickle: 开发; refaktorisieren: 重构
-
-**[5841.38s] English:** Manchmal heißt es, nein, es gibt nichts Großes.  
+**[5821.40s] English:** You discover where problems occurred or where things didn't work on the first try.  
 **Translation:** 
 
-**[5844.08s] English:** Oder meistens sagen sie,  
-**Translation:** Vocabulary: manchmal: 有时; nichts: 没有
-
-**[5845.52s] English:** ja, dieses Ding solltest du dir wirklich ansehen.  
+**[5826.88s] English:** It needed more runs.  
 **Translation:** 
 
-**[5848.96s] English:** Aber das hat ziemlich lange gedauert, bis ich das verstanden habe.  
-**Translation:** Vocabulary: gedauert: 花费时间; lange: 长的; solltest: 应该; verstanden: 理解; wirklich: 真正地
-
-**[5852.28s] English:** Und wenn du das nicht machst, wirst du irgendwann, du wirst dich selbst in eine Ecke drängen.  
+**[5829.52s] English:** Also, almost every time I merge a pull request or develop a feature,  
 **Translation:** 
 
-**[5858.40s] English:** Du musst immer dran denken.  
-**Translation:** Vocabulary: irgendwann: 某时候
+**[5837.34s] English:** Hey, what can we refactor?" I ask.  
+**Translation:** Vocabulary: refactor: 重构代码
 
-**[5861.70s] English:** Sie arbeiten sehr ähnlich wie Menschen.  
+**[5841.38s] English:** Sometimes it's said, "No, there is nothing great.  
 **Translation:** 
 
-**[5864.80s] English:** Wenn ich alleine Software schreibe, erschaffe ich auch etwas.  
-**Translation:** Vocabulary: arbeiten: 工作; erschaffe: 创造; etwas: 一些; menschen: 人类; schreibe: 写作
-
-**[5868.16s] English:** Und spüre dann die Schmerzpunkte.  
+**[5844.08s] English:** They usually say,  
 **Translation:** 
 
-**[5871.48s] English:** Dann bekomme ich den Drang, etwas zu überarbeiten.  
-**Translation:** Vocabulary: drang: 迫切需求; schmerzpunkte: 痛点
-
-**[5875.52s] English:** Ich kann also sehr gut mit den Agents mitfühlen und man muss einfach den Kontext nutzen.  
+**[5845.52s] English:** Ja, this thing should really be seen by you.  
 **Translation:** 
 
-**[5879.88s] English:** Ich kann also sehr gut mit den Agents mitfühlen und man muss einfach den Kontext nutzen.  
+**[5848.96s] English:** But that took quite a long time for me to understand.  
 **Translation:** 
 
-**[5880.00s] English:** Oder man nutzt den Kontext auch, um Tests zu schreiben.  
+**[5852.28s] English:** And if you don't do that, you will eventually force yourself into a corner.  
 **Translation:** 
 
-**[5884.70s] English:** Also Codex und Opus, die modernen Modelle, machen das normalerweise automatisch.  
-**Translation:** Vocabulary: automatisch: 自动; codex: 代码; machen: 生成; modernen: 现代的; normalerweise: 通常; schreiben: 编写
-
-**[5891.04s] English:** Trotzdem frage ich oft, ob wir genug Tests haben.  
+**[5858.40s] English:** You must always remember that.  
 **Translation:** 
 
-**[5893.60s] English:** Ja, wir haben dies und das getestet, aber dieser spezielle Fall könnte noch Probleme bereiten.  
-**Translation:** Vocabulary: bereiten: 带来问题
-
-**[5899.06s] English:** Schreib mir ja Tests.  
+**[5861.70s] English:** They work very similarly to humans.  
 **Translation:** 
 
-**[5902.30s] English:** Dokumentation, jetzt wo der ganze Kontext voll ist.  
-**Translation:** Vocabulary: dokumentation: 文档说明
-
-**[5904.56s] English:** Ich meine, ich sage nicht, dass meine Dokumentation großartig ist, aber sie ist auch nicht schlecht.  
+**[5864.80s] English:** When I write software alone, I also create something.  
 **Translation:** 
 
-**[5908.58s] English:** Und so gut wie alles ist KI generiert.  
-**Translation:** Vocabulary: generiert: 产生; schlecht: 不好
-
-**[5911.42s] English:** Also muss man es so angehen, während man Features baut.  
+**[5868.16s] English:** Then feel the pain points.  
 **Translation:** 
 
-**[5914.44s] English:** Wenn du etwas änderst, sage ich, okay, schreib die Dokumentation.  
+**[5871.48s] English:** Then I get the urge to go over something again.  
 **Translation:** 
 
-**[5918.50s] English:** Welche Datei würdest du wählen?  
+**[5875.52s] English:** I can therefore very well empathize with the agents and one just has to make use of the context.  
 **Translation:** 
 
-**[5920.40s] English:** Weißt du also, welcher Dateiname, wo würde das hineinpassen?  
-**Translation:** Vocabulary: dateiname: 文件名; hineinpassen: 合适; welcher: 哪个
+**[5879.88s] English:** I can therefore very well empathize with the agents and one just has to make use of the context.  
+**Translation:** Vocabulary: empathize: 同情理解
 
-**[5924.18s] English:** Und er gibt mir ein paar Optionen.  
+**[5880.00s] English:** Otherwise, you can also use the context to write tests.  
 **Translation:** 
 
-**[5926.52s] English:** Und ich denke, oh, vielleicht füge ich es auch noch dort ein.  
-**Translation:** Vocabulary: optionen: 选择; vielleicht: 也许
+**[5884.70s] English:** Also, Codex and Opus, the modern models, make this normaly automatic.  
+**Translation:** Vocabulary: codex: 代码库
 
-**[5930.36s] English:** Und das alles passiert innerhalb derselben Session.  
+**[5891.04s] English:** Nevertheless, I often wonder if we have enough tests.  
 **Translation:** 
 
-**[5932.96s] English:** Vielleicht kannst du etwas über die beiden aktuellen großen Konkurrenten  
-**Translation:** Vocabulary: aktuellen: 当前的; derselben: 同一; innerhalb: 在...内; konkurrenten: 竞争对手; passiert: 发生
-
-**[5937.88s] English:** in Bezug auf Modelle, die wir hier haben, sagen.  
+**[5893.60s] English:** Ja, we have tested this and that, but this specific case could still cause problems.  
 **Translation:** 
 
-**[5938.58s] English:** Claude Opus 4.6 und JPT 5 über Codex.  
+**[5899.06s] English:** Write me some tests.  
 **Translation:** 
 
-**[5943.32s] English:** Welches ist besser? Wie unterschiedlich sind sie?  
+**[5902.30s] English:** Documentation, now that the entire context is fully in place.  
 **Translation:** 
 
-**[5947.02s] English:** Ich denke, du hast schon darüber gesprochen, dass Codex mehr liest  
-**Translation:** Vocabulary: gesprochen: 讨论过; liest: 阅读; unterschiedlich: 不同; welches: 哪个
-
-**[5949.82s] English:** und Opus eher bereit ist, zügiger aktiv zu werden  
+**[5904.56s] English:** I mean, I don't say that my documentation is great, but it's also not bad.  
 **Translation:** 
 
-**[5955.28s] English:** und möglicherweise in den Aktionen kreativer ist.  
-**Translation:** Vocabulary: aktionen: 行动; kreativer: 有创造力的
-
-**[5959.32s] English:** Aber weil Codex mehr liest, kann es möglicherweise besseren Code liefern.  
+**[5908.58s] English:** Almost everything is generated by AI.  
 **Translation:** 
 
-**[5966.60s] English:** Kannst du etwas über die Unterschiede dort sagen?  
-**Translation:** Vocabulary: besseren: 更好的; unterschiede: 差异
+**[5911.42s] English:** Also, one must approach it that way when building features.  
+**Translation:** 
+
+**[5914.44s] English:** When you change something, I'll say okay, write the documentation.  
+**Translation:** 
+
+**[5918.50s] English:** Which file would you choose?  
+**Translation:** 
+
+**[5920.40s] English:** Do you know which filename it would fit into?  
+**Translation:** Vocabulary: filename: 文件名
+
+**[5924.18s] English:** And he gives me a few options.  
+**Translation:** 
+
+**[5926.52s] English:** And I think, oh, maybe I'll add it there as well.  
+**Translation:** 
+
+**[5930.36s] English:** And all of this happens within the same session.  
+**Translation:** 
+
+**[5932.96s] English:** Maybe you can say something about the two current major competitors.  
+**Translation:** 
+
+**[5937.88s] English:** In regards to the models we have here, say.  
+**Translation:** 
+
+**[5938.58s] English:** Claude, Opus 4.6, und JPT 5 über Codex.  
+**Translation:** Vocabulary: regards: 涉及
+
+**[5943.32s] English:** Which is better? How different are they?  
+**Translation:** 
+
+**[5947.02s] English:** I think you have already discussed that Codex reads more.  
+**Translation:** 
+
+**[5949.82s] English:** And when Opus is more ready, it will become active sooner.  
+**Translation:** 
+
+**[5955.28s] English:** And possibly more creative in their actions.  
+**Translation:** 
+
+**[5959.32s] English:** But because Codex reads more, it might be able to deliver better code.  
+**Translation:** 
+
+**[5966.60s] English:** Can you say something about the differences there?  
+**Translation:** Vocabulary: codex: 代码汇编
 
 **[5968.46s] English:** Ja, das kann ich.  
 **Translation:** 
 
-**[5968.48s] English:** Da kann ich viel erzählen.  
+**[5968.48s] English:** I can tell you a lot.  
 **Translation:** 
 
-**[5972.58s] English:** So als allgemeines Modell ist Opus das Beste für OpenClaw.  
+**[5972.58s] English:** So, as a general model, Opus is the best for OpenClaw.  
 **Translation:** 
 
-**[5983.92s] English:** Opus ist extrem gut im Rollenspiel.  
-**Translation:** Vocabulary: rollenspiel: 角色扮演
-
-**[5986.20s] English:** Es geht wirklich in die Rolle hinein, die man ihm gibt.  
+**[5983.92s] English:** Opus is extremely good at role-playing.  
 **Translation:** 
 
-**[5989.18s] English:** Es ist sehr gut darin.  
-**Translation:** Vocabulary: darin: 在他的角色; wirklich: 确实
-
-**[5991.88s] English:** Und es war früher ziemlich schlecht,  
+**[5986.20s] English:** It really involves getting into the role that is given to him.  
 **Translation:** 
 
-**[5995.76s] English:** hat aber einen starken Entwicklungssprung gemacht.  
-**Translation:** Vocabulary: entwicklungssprung: 发展飞跃; ziemlich: 相当
-
-**[5998.48s] English:** Und ist inzwischen...  
+**[5989.18s] English:** It is very good in that.  
 **Translation:** 
 
-**[6000.00s] English:** sehr gut darin, Anweisungen zu befolgen.  
-**Translation:** Vocabulary: anweisungen: 指令; befolgen: 遵守; inzwischen: meantime
-
-**[6004.32s] English:** Es probiert normalerweise recht schnell etwas aus.  
+**[5991.88s] English:** And it was pretty bad earlier.  
 **Translation:** 
 
-**[6007.84s] English:** Es ist vielmehr auf Trial and Error zugeschnitten.  
-**Translation:** Vocabulary: etwas: 例子; normalerweise: 通常; probiert: 尝试; schnell: 快速; vielmehr: 而是; zugeschnitten: 针对
-
-**[6011.52s] English:** Es ist im Umgang sehr angenehm.  
+**[5995.76s] English:** That, however, has made a strong development leap.  
 **Translation:** 
 
-**[6014.84s] English:** Grundsätzlich kann man sagen, dass Opus ein bisschen zu amerikanisch wirkt  
-**Translation:** Vocabulary: amerikanisch: 美国的; angenehm: 令人愉快; bisschen: 一点; umgang: 口语
-
-**[6022.56s] English:** und vielleicht sollte ich das nicht sagen.  
+**[5998.48s] English:** And now...  
 **Translation:** 
 
-**[6025.52s] English:** Dafür würde man mich wahrscheinlich direkt roasten.  
-**Translation:** Vocabulary: nicht: 不; wahrscheinlich: 可能
-
-**[6027.36s] English:** Ja, genau. Weil Codex deutsch ist.  
+**[6000.00s] English:** Very good at following instructions.  
 **Translation:** 
 
-**[6030.66s] English:** Ist es das, was du sagst?  
-**Translation:** Vocabulary: codex: 手稿; deutsch: 德语
-
-**[6031.44s] English:** Ja, es ist...  
+**[6004.32s] English:** It usually tries something new quite quickly.  
 **Translation:** 
 
-**[6031.94s] English:** Jetzt, wo du es sagst, macht es total Sinn.  
+**[6007.84s] English:** It is more suited to trial and error.  
 **Translation:** 
 
-**[6034.88s] English:** Oder du könntest... Manchmal erkläre ich es...  
+**[6011.52s] English:** It is very pleasant to handle.  
 **Translation:** 
 
-**[6038.34s] English:** Ich werde niemals vergessen können, was du gerade gesagt hast, dass es so war.  
-**Translation:** Vocabulary: manchmal: 有时候; vergessen: 忘记
+**[6014.84s] English:** Grundsätzlich kann man sagen, dass Opus ein bisschen zu amerikanisch wirkt.  
+**Translation:** Vocabulary: amerikanisch: 美国的; bisschen: 一点
 
-**[6042.14s] English:** Aber du weißt schon, dass ein großer Teil des Codex-Entwicklerteams europäisch ist,  
+**[6022.56s] English:** Und perhaps I shouldn't say this.  
 **Translation:** 
 
-**[6046.70s] English:** also steckt vielleicht ein bisschen mehr dahinter, oder?  
-**Translation:** Vocabulary: dahinter: 背后; vielleicht: 也许
+**[6025.52s] English:** For that, they would probably roast me directly.  
+**Translation:** 
 
-**[6049.56s] English:** Das stimmt wirklich. Oh, das ist lustig.  
+**[6027.36s] English:** Ja, genau.因为我们是德语模型。  
+**Translation:** 
+
+**[6030.66s] English:** Is that what you're saying?  
+**Translation:** 
+
+**[6031.44s] English:** Ja, it is...  
+**Translation:** 
+
+**[6031.94s] English:** Now that you say it, it makes total sense.  
+**Translation:** 
+
+**[6034.88s] English:** Oder du könntest... Manchmal erkläre ich es... (Oder du könntest... Sometimes I explain it...)  
+**Translation:** 
+
+**[6038.34s] English:** I will never be able to forget what you just said, that it was so.  
+**Translation:** Vocabulary: manchmal: 有时候
+
+**[6042.14s] English:** But you know that a large part of the Codex Development team is European.  
+**Translation:** 
+
+**[6046.70s] English:** Also, maybe there's a bit more behind it, or?  
+**Translation:** Vocabulary: codex: 法典
+
+**[6049.56s] English:** Das stimmt really. Oh, that is funny.  
 **Translation:** 
 
 **[6051.82s] English:** Aber bei Anthropic haben sie das inzwischen etwas korrigiert.  
-**Translation:** Vocabulary: korrigiert: 修正; lustig: 有趣
+**Translation:** Vocabulary: etwas: 一些; inzwischen: meantime; korrigiert: 修正
 
-**[6054.80s] English:** Früher hat Opus ständig...  
+**[6054.80s] English:** Earlier, Opus was constantly...  
 **Translation:** 
 
-**[6057.36s] English:** Und das triggert mich bis heute.  
-**Translation:** Vocabulary: triggert: 触发
+**[6057.36s] English:** And that triggers me even today.  
+**Translation:** Vocabulary: triggers: 激发
 
 **[6060.32s] English:** Ich kann es nicht mehr hören.  
 **Translation:** 
 
-**[6061.96s] English:** Das ist nicht einmal ein Witz.  
-**Translation:** 
+**[6061.96s] English:** This is not even a joke.  
+**Translation:** Vocabulary: nicht: 不
 
 **[6065.60s] English:** Das war doch dieses Meme, oder?  
 **Translation:** 
@@ -5347,931 +5348,931 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[6067.54s] English:** You're absolutely right.  
 **Translation:** 
 
-**[6069.54s] English:** Du bist allergisch gegen Schleimerei.  
+**[6069.54s] English:** You are allergic to slime.  
 **Translation:** 
 
-**[6071.60s] English:** Ja, ich kann das einfach nicht mehr hören.  
-**Translation:** Vocabulary: allergisch: 过敏
-
-**[6073.60s] English:** Ein anderer Vergleich wäre, Opus ist wie dieser Kollege, der...  
+**[6071.60s] English:** Ja, I can't hear this any more.  
 **Translation:** 
 
-**[6079.66s] English:** manchmal ein bisschen albern ist, aber sehr lustig.  
-**Translation:** Vocabulary: vergleich: 例子
-
-**[6083.08s] English:** Und man behält ihn gern im Team.  
+**[6073.60s] English:** Another comparison would be that Opus is like this colleague, who...  
 **Translation:** 
 
-**[6084.90s] English:** Und Codex ist eher...  
+**[6079.66s] English:** Sometimes a little absurd, but very funny.  
+**Translation:** Vocabulary: absurd: 荒谬; colleague: 同事
+
+**[6083.08s] English:** And we like to keep him in the team.  
 **Translation:** 
 
-**[6087.36s] English:** der Sonderling in der Ecke, mit dem man nicht unbedingt plaudern will,  
+**[6084.90s] English:** The Codex is rather...  
 **Translation:** 
 
-**[6090.50s] English:** der aber zuverlässig ist und die Arbeit erledigt.  
-**Translation:** Vocabulary: erledigt: 完成; plaudern: 闲聊; sonderling: 怪人; unbedingt: 一定
-
-**[6093.06s] English:** Letztlich...  
+**[6087.36s] English:** The odd fellow in the corner, with whom one doesn't exactly feel like chatting.  
 **Translation:** 
 
-**[6093.70s] English:** Das fühlt sich alles sehr zutreffend an.  
-**Translation:** Vocabulary: letztlich: 最终; zutreffend: 恰当
-
-**[6099.08s] English:** Letztlich kann man als geübter Fahrer mit jedem dieser neuesten Modelle  
+**[6090.50s] English:** However, it is reliable and gets the job done.  
 **Translation:** 
 
-**[6103.24s] English:** gute Ergebnisse erzielen.  
-**Translation:** Vocabulary: ergebnisse: 结果; erzielen: 取得; neuesten: 最新
-
-**[6107.94s] English:** Ich mag Codex mehr, weil es nicht so viel Theater braucht.  
+**[6093.06s] English:** Lastly,...  
 **Translation:** 
 
-**[6112.06s] English:** Es liest einfach von alleine viel Code.  
-**Translation:** Vocabulary: liest: 阅读
+**[6093.70s] English:** This feels very accurate.  
+**Translation:** Vocabulary: lastly: 最后
 
-**[6116.28s] English:** Bei Opus musst du...  
+**[6099.08s] English:** Lastly, as an experienced driver, one can drive any of these newest models.  
 **Translation:** 
 
-**[6117.12s] English:** musst du wirklich auf Plan-Modus umschalten.  
-**Translation:** Vocabulary: umschalten: 切换; wirklich: 真的
-
-**[6120.00s] English:** Also du musst es mehr antreiben, um in diese Richtungen zu gehen, weil es einfach so ist, ja, kann ich rein? Weißt du, es wird einfach sehr schnell ablaufen und das ist eine sehr lokale Lösung. Ich denke, der Unterschied liegt im Posttraining. Es ist nicht so, dass die rohe Intelligenz der Modelle wirklich unterschiedlich ist, aber ich glaube, sie geben ihnen einfach unterschiedliche Ziele und kein Modell ist in jeder Hinsicht besser.  
+**[6103.24s] English:** To achieve good results.  
 **Translation:** 
 
-**[6148.28s] English:** Was ist mit dem Code, den sie erzeugen? Bezüglich der tatsächlichen Qualität des Codes, ist sie im Grunde dieselbe?  
+**[6107.94s] English:** I like Codex more because it doesn't need to create as much drama.  
 **Translation:** 
 
-**[6156.76s] English:** Wenn du es richtig nutzt, kann Opus manchmal elegantere Lösungen liefern, aber es erfordert mehr Können.  
+**[6112.06s] English:** It simply reads and understands a lot of code.  
 **Translation:** 
 
-**[6166.60s] English:** Es ist schwieriger, viele Sessions parallel mit Cloud Code zu führen, weil es stärker interaktiv ist.  
-**Translation:** Vocabulary: elegantere: 更优雅; erfordert: 需要; interaktiv: 交互式; manchmal: 有时; schwieriger: 更困难
-
-**[6171.64s] English:** Und ich glaube, genau das mögen viele, besonders diejenigen, die selbst vom klassischen Coden kommen.  
+**[6116.28s] English:** At Opus, you must...  
 **Translation:** 
 
-**[6176.94s] English:** Codex dagegen läuft eher so, man führt eine Diskussion und dann verschwindet es einfach für 20 Minuten.  
-**Translation:** Vocabulary: besonders: 特别; codex: 代码库; diejenigen: 那些人; diskussion: 讨论; klassischen: 经典的; verschwindet: 消失
-
-**[6185.10s] English:** Sogar AMP hat inzwischen einen Deep-Modus eingebaut.  
+**[6117.12s] English:** Must you really switch to Plan Mode?  
 **Translation:** 
 
-**[6188.40s] English:** Sie haben endlich, ich habe sie ja ein bisschen aufgezogen, aber irgendwann haben sie es verstanden.  
-**Translation:** Vocabulary: aufgezogen: 批评; bisschen: 一点; eingebaut: 内置; inzwischen: meantime; irgendwann: 最终; verstanden: 理解
-
-**[6195.42s] English:** Und dann gab es diese ganze Diskussion darüber, dass man es anders angehen muss.  
+**[6120.00s] English:** Also, you have to push it more to go in these directions because it's just the way it is, yes? Can I come in? I mean, it will simply run very fast and that is a very local solution. I think the difference lies in post-training. It's not that the raw intelligence of the models is really different; but I believe they just give them different goals, and no model is better in every aspect.  
 **Translation:** 
 
-**[6198.96s] English:** Und ich glaube, genau da haben viele Schwierigkeiten, wenn sie nach Cloud Code Codex ausprobieren.  
-**Translation:** Vocabulary: ausprobieren: 尝试; schwierigkeiten: 困难
-
-**[6205.30s] English:** Es ist weniger interaktiv.  
+**[6148.28s] English:** What is the code they generate like? In terms of actual code quality, is it basically the same?  
 **Translation:** 
 
-**[6207.12s] English:** Manchmal führe ich ziemlich lange Gespräche.  
-**Translation:** Vocabulary: lange: 很长; ziemlich: 相当
-
-**[6212.04s] English:** Und dann läuft es los und arbeitet.  
+**[6156.76s] English:** When you use it correctly, Opus can sometimes deliver more elegant solutions, but it requires more skill.  
 **Translation:** 
 
-**[6213.60s] English:** Und dann ist es auch egal, ob es 10, 20, 30, 40, 50 Minuten oder noch länger dauert.  
-**Translation:** Vocabulary: arbeitet: 工作
+**[6166.60s] English:** It is harder to run many sessions in parallel with Cloud Code because it is more interactive.  
+**Translation:** Vocabulary: elegant: 优雅; interactive: 交互式; parallel: 并行
 
-**[6219.54s] English:** Ich meine, einmal waren es 6 Stunden.  
+**[6171.64s] English:** And I believe that's exactly what many people like, especially those who come from classical coding.  
 **Translation:** 
 
-**[6222.82s] English:** Der aktuelle Stand ist, dass es extrem hartnäckig sein kann, bis es funktioniert.  
-**Translation:** Vocabulary: aktuelle: 当前; funktioniert: 起作用
+**[6176.94s] English:** Codex, on the other hand, works more like this: you lead a discussion and then it simply disappears for 20 minutes.  
+**Translation:** Vocabulary: codex: 代码库
 
-**[6227.20s] English:** Wenn das Ziel klar ist, also das ist das Ergebnis, das am Ende funktionieren soll,  
+**[6185.10s] English:** Even AMP now has a deep mode built-in.  
 **Translation:** 
 
-**[6233.56s] English:** dann arbeitet das Modell wirklich sehr intensiv darauf hin, es zu verarbeiten.  
-**Translation:** Vocabulary: ergebnis: 结果; funktionieren: 起作用; intensiv: 强烈地; verarbeiten: 处理
-
-**[6236.94s] English:** erreichen also ich denke letztlich  
+**[6188.40s] English:** You have finally understood; I did give you a little lecture, but eventually they got it.  
 **Translation:** 
 
-**[6240.00s] English:** Beide brauchen am Ende ähnlich viel Zeit.  
+**[6195.42s] English:** Then there was this entire discussion about how we need to approach it differently.  
+**Translation:** 
+
+**[6198.96s] English:** I believe many people have difficulties when they try out Cloud Code Codex.  
+**Translation:** 
+
+**[6205.30s] English:** It is less interactive.  
+**Translation:** 
+
+**[6207.12s] English:** Sometimes I have rather long conversations.  
+**Translation:** 
+
+**[6212.04s] English:** Then it gets going and works.  
+**Translation:** 
+
+**[6213.60s] English:** Then it also doesn't matter whether it takes 10, 20, 30, 40, 50 minutes or longer.  
+**Translation:** 
+
+**[6219.54s] English:** I mean, it used to be 6 hours.  
+**Translation:** 
+
+**[6222.82s] English:** The current stance is that it can be extremely persistent until it works.  
+**Translation:** Vocabulary: persistent: 坚持不屈; stance: 立场
+
+**[6227.20s] English:** When the goal is clear, that is, the result that should work out at the end,  
+**Translation:** 
+
+**[6233.56s] English:** The model really works intensively on processing it.  
+**Translation:** Vocabulary: intensively: 深入地
+
+**[6236.94s] English:** Reaching that, I think ultimately,  
+**Translation:** 
+
+**[6240.00s] English:** Both need, in the end, about as much time.  
 **Translation:** 
 
 **[6246.62s] English:** Aber bei Claude ist es öfter ein bisschen mehr Trial and Error.  
 **Translation:** 
 
-**[6251.04s] English:** Und Codex denkt manchmal zu viel nach.  
+**[6251.04s] English:** Codex thinks too much sometimes.  
+**Translation:** Vocabulary: bisschen: 一点
+
+**[6254.90s] English:** I like it.  
 **Translation:** 
 
-**[6254.90s] English:** Ich mag das.  
+**[6256.54s] English:** I prefer the dry version, where I have to read less.  
 **Translation:** 
 
-**[6256.54s] English:** Ich bevorzuge die trockene Version, bei der ich weniger lesen muss,  
-**Translation:** Vocabulary: bevorzuge: 偏好; trockene: 干燥
-
-**[6261.00s] English:** statt dieser sehr interaktiven, netten Art.  
+**[6261.00s] English:** Instead of this very interactive, nice kind of thing.  
 **Translation:** 
 
-**[6265.08s] English:** Viele mögen das allerdings so sehr, dass OpenAI sogar einen zweiten Modus  
-**Translation:** Vocabulary: allerdings: 然而; interaktiven: 互动的; modus: 模式
+**[6265.08s] English:** Viele mögen das allerdings so sehr, that OpenAI even introduced a second mode.  
+**Translation:** Vocabulary: allerdings: 然而; interactive: 互动的
 
-**[6270.96s] English:** mit einer angenehmeren Persönlichkeit eingebaut hat.  
+**[6270.96s] English:** He has installed a more pleasant personality.  
 **Translation:** 
 
-**[6273.78s] English:** Ich habe ihn noch nicht einmal ausprobiert.  
-**Translation:** Vocabulary: angenehmeren: 更和蔼; ausprobiert: 试用; nicht: 没有
-
-**[6276.64s] English:** Ich mag irgendwie den nüchternen Stil.  
+**[6273.78s] English:** I have not even tried it yet.  
 **Translation:** 
 
-**[6281.40s] English:** Denn wenn ich etwas erstelle, geht es mir um Effizienz.  
-**Translation:** Vocabulary: effizienz: 效率; erstelle: 创造; etwas: 事物; irgendwie: 不知为何
+**[6276.64s] English:** I kind of prefer the sober style.  
+**Translation:** 
 
-**[6286.46s] English:** Und ich habe Spaß am eigentlichen Prozess des Entwicklens.  
+**[6281.40s] English:** Then when I create something, it's about efficiency.  
+**Translation:** Vocabulary: sober: 稳重
+
+**[6286.46s] English:** And I have fun with the actual process of developing.  
 **Translation:** 
 
 **[6290.14s] English:** Ich brauche keinen Spaß in der Interaktion.  
-**Translation:** Vocabulary: eigentlichen: 真正的; entwicklens: 开发; interaktion: 互动
-
-**[6291.84s] English:** Den Spaß habe ich mit dem Modell selbst.  
 **Translation:** 
 
-**[6294.44s] English:** Dort, wo ich die Gebärmutter habe.  
+**[6291.84s] English:** I had fun with the model myself.  
 **Translation:** 
 
-**[6295.08s] English:** Wo ich die gebauten Features anschließend testen kann.  
+**[6294.44s] English:** There, where I have the uterus.  
+**Translation:** Vocabulary: uterus: 子宫
+
+**[6295.08s] English:** After I can test the built features.  
 **Translation:** 
 
-**[6297.02s] English:** Wie lange dauert es eigentlich bei dir, dich anzupassen?  
-**Translation:** Vocabulary: anzupassen: 适应; eigentlich: 实际上; gebauten: 构建的
-
-**[6302.54s] English:** Weißt du, wenn du wechselst?  
+**[6297.02s] English:** How long does it actually take you to get used to things?  
 **Translation:** 
 
-**[6304.68s] English:** Ich weiß nicht, wann du zuletzt gewechselt hast.  
-**Translation:** Vocabulary: gewechselt: 更换; wechselst: 将要更换
-
-**[6307.08s] English:** Aber wie lange dauert es, sich an das Gefühl zu gewöhnen?  
+**[6302.54s] English:** Do you know, when you switch?  
 **Translation:** 
 
-**[6310.70s] English:** Du hast ja gesagt, man muss wirklich spüren, wo ein Modell stark ist.  
-**Translation:** Vocabulary: stark: 强大; wirklich: 真正
-
-**[6313.98s] English:** Wie man es navigiert, wie man es promptet und so weiter.  
+**[6304.68s] English:** I don't know when you last changed it.  
 **Translation:** 
 
-**[6317.58s] English:** Also einfach als Rat, weil du diesen Weg gegangen bist  
-**Translation:** Vocabulary: gegangen: 走过; navigiert: 导航; promptet: 提示
-
-**[6320.56s] English:** und viel mit Modellen gespielt hast.  
+**[6307.08s] English:** Aber how long does it take to get used to the feeling?  
 **Translation:** 
 
-**[6323.76s] English:** Wie lange braucht es, bis man das Modell spürt?  
-**Translation:** Vocabulary: gespielt: 玩; modellen: 模型
-
-**[6325.04s] English:** Wie lange braucht es, bis man das Modell spürt?  
+**[6310.70s] English:** You have said that one must really feel where a model is strong.  
 **Translation:** 
 
-**[6325.08s] English:** Wie lange braucht es, bis man ein Gespür dafür entwickelt?  
-**Translation:** Vocabulary: entwickelt: 发展出来
-
-**[6326.66s] English:** Wenn jemand wechselt, würde ich sagen,  
+**[6313.98s] English:** How it is navigated, how it is prompted, and so forth.  
 **Translation:** 
 
-**[6328.60s] English:** gib dir eine Woche, bis du wirklich ein Bauchgefühl dafür entwickelst.  
-**Translation:** Vocabulary: entwickelst: 培养; wechselt: 更换
+**[6317.58s] English:** Also, simpler advice, because you've gone down this path.  
+**Translation:** Vocabulary: navigated: 航行; prompted: 提示
+
+**[6320.56s] English:** And you've played a lot with models, hasn't it?  
+**Translation:** 
+
+**[6323.76s] English:** How long does it take to feel the model?  
+**Translation:** 
+
+**[6325.04s] English:** How long does it take to feel the model?  
+**Translation:** 
+
+**[6325.08s] English:** How long does it take to develop a feel for it?  
+**Translation:** 
+
+**[6326.66s] English:** When someone switches, I would say,  
+**Translation:** 
+
+**[6328.60s] English:** Give yourself a week until you really develop a gut feeling for it.  
+**Translation:** 
 
 **[6332.92s] English:** Ja.  
 **Translation:** 
 
-**[6334.16s] English:** Das gilt zumindest, wenn du es einfach konsequent benutzt.  
-**Translation:** Vocabulary: konsequent: 一贯; zumindest: 至少
+**[6334.16s] English:** Das gilt zumindest, if you use it simply and consistently.  
+**Translation:** Vocabulary: zumindest: 至少
 
-**[6337.10s] English:** Ich glaube, dass manche machen auch den Fehler,  
+**[6337.10s] English:** I believe that some also make the mistake of  
 **Translation:** 
 
-**[6339.08s] English:** dass sie 200 Dollar für die Cloud-Code-Version zahlen  
-**Translation:** Vocabulary: machen: 犯; manche: 一些人
-
-**[6341.52s] English:** und dann 20 Dollar für die Open-AI-Version.  
+**[6339.08s] English:** That they pay 200 dollars for the cloud-code version.  
 **Translation:** 
 
-**[6345.00s] English:** Aber mit der 20-Dollar-Version bekommst du die langsamere Variante.  
+**[6341.52s] English:** And then $20 for the open-AI version.  
 **Translation:** 
 
-**[6348.86s] English:** Deine Erfahrung wird also schlecht sein,  
+**[6345.00s] English:** But with the $20 version, you get the slower variant.  
 **Translation:** 
 
-**[6350.26s] English:** weil du ein sehr interaktives, sehr gutes System gewohnt bist.  
-**Translation:** Vocabulary: erfahrung: 经验; interaktives: 交互的; schlecht: 糟糕
-
-**[6355.08s] English:** Und dann so etwas wechselst, mit dem du wenig Erfahrung hast.  
+**[6348.86s] English:** Your experience will therefore be bad,  
 **Translation:** 
 
-**[6359.72s] English:** Und das auch nicht.  
+**[6350.26s] English:** Because you are accustomed to a very interactive, very good system.  
+**Translation:** Vocabulary: accustomed: 习惯; interactive: 互动的
+
+**[6355.08s] English:** Then you switch to something with which you have little experience.  
 **Translation:** 
 
-**[6360.16s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6359.72s] English:** And that, also, not.  
 **Translation:** 
 
-**[6360.60s] English:** Das ist das, was ich mir vorgestellt habe.  
-**Translation:** Vocabulary: vorgestellt: 想象中的
-
-**[6360.66s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.00s] English:** Noch langsam ist. Ich denke, OpenAI hat sich da ein bisschen selbst ins Bein geschossen.  
 **Translation:** 
 
-**[6360.70s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.16s] English:** This is what I had imagined.  
+**Translation:** Vocabulary: bisschen: 一点; geschossen: 打了一下; langsam: 缓慢
+
+**[6360.60s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6360.74s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.66s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6360.80s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.70s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6360.86s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.74s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6360.90s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.80s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.04s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.86s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.10s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6360.90s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.16s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6361.04s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.26s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6361.10s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.56s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6361.16s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.64s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6361.26s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6361.74s] English:** Das ist das, was ich mir vorgestellt habe.  
+**[6361.56s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6360.00s] English:** noch langsam ist. Ich denke OpenAI hat sich da ein bisschen selbst ins Bein geschossen in dem  
-**Translation:** Vocabulary: bisschen: 一点; geschossen: 打了一下; vorgestellt: 展示过
-
-**[6366.36s] English:** die günstige Version ebenfalls langsam ist. Ich würde zumindest einen kleinen Teil der  
+**[6361.64s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6372.00s] English:** schnellen Preview-Erfahrung anbieten. Also das Gefühl, dass man mit 200 Dollar bekommt,  
-**Translation:** Vocabulary: anbieten: 提供; ebenfalls: 也; schnellen: 快速的
-
-**[6378.40s] English:** bevor man auf die langsamere Version zurückfällt. Denn langsam ist sie ohnehin schon. Sie haben  
+**[6361.74s] English:** This is what I had imagined.  
 **Translation:** 
 
-**[6384.12s] English:** Pläne es deutlich besser zu machen, falls das mit den Gehirnsachen stimmt.  
-**Translation:** Vocabulary: deutlich: 明显; langsamere: 较慢的
-
-**[6390.00s] English:** Es ist eine Fähigkeit. Es braucht Zeit. Wenn du eine normale Gitarre nimmst und zur E-Gitarre  
+**[6366.36s] English:** Die günstige Version ist ebenfalls langsam. Ich würde zumindest einen kleinen Teil der  
 **Translation:** 
 
-**[6394.88s] English:** wechselst, wirst du nicht sofort gut spielen. Du musst erst lernen, wie sie sich anfühlt.  
-**Translation:** Vocabulary: nicht: 不
+**[6372.00s] English:** Schnellen Preview-Erfahrung anbieten. Also, das Gefühl, dass man mit 200 Dollar kommt.  
+**Translation:** Vocabulary: anbieten: 提供; ebenfalls: 也; kleinen: 小的; schnellen: 快速的
 
-**[6401.64s] English:** Da gibt es auch diesen zusätzlichen psychologischen Effekt, über den du gesprochen hast. Und es ist  
+**[6378.40s] English:** Before falling back on the slower version, keep in mind that it is already slow anyway. They have  
 **Translation:** 
 
-**[6407.06s] English:** herrlich zu beobachten. Sobald ein neues Modell erscheint, probieren die Leute es aus und verlieben  
-**Translation:** Vocabulary: beobachten: 观察; gesprochen: 说过; herrlich: 美妙; probieren: 尝试; psychologischen: 心理的; verlieben: 倾心
-
-**[6412.40s] English:** sich sofort darin. Wow, das ist das intelligenteste Ding aller Zeiten. Und dann kannst du im Laufe der  
+**[6384.12s] English:** Plan to make it much better if the brain stuff is correct.  
 **Translation:** 
 
-**[6419.98s] English:** Zeit einfach die Reddit-Posts verfolgen, in denen plötzlich steht, wir glauben, dass die  
-**Translation:** Vocabulary: intelligenteste: 最聪明的; verfolgen: 跟踪
-
-**[6425.36s] English:** Intelligenz dieses Modells langsam nachlässt. Das sagt viel über die menschliche Natur aus und  
+**[6390.00s] English:** It is a skill. It takes time. If you take a normal guitar and convert it to an electric guitar,...  
 **Translation:** 
 
-**[6431.68s] English:** darüber, wie unser Geist funktioniert. Denn höchstwahrscheinlich nimmt die Intelligenz des  
-**Translation:** Vocabulary: funktioniert: 运作; geist: 精神; intelligenz: 智能; menschliche: 人类
-
-**[6437.22s] English:** Modells gar nicht ab. Vielmehr gewöhnst du dich einfach an etwas, das sehr gut ist. Dein Projekt  
+**[6394.88s] English:** Wechselst, du wirst nicht sofort gut spielen. Du musst erst lernen, wie sie sich anfühlt.  
 **Translation:** 
 
-**[6443.36s] English:** wächst, du baust immer mehr Unordnung ein und wahrscheinlich nimmst du dir nicht genug Zeit  
-**Translation:** Vocabulary: etwas: 一些东西; unordnung: 混乱; vielmehr: 实际上; wahrscheinlich: 可能
-
-**[6449.98s] English:** und immer schwerer, in diesem Chaos zu arbeiten. Und dann plötzlich, oh nein, jetzt ist es schwierig,  
+**[6401.64s] English:** There is also this additional psychological effect of which you spoke. And it is  
 **Translation:** 
 
-**[6455.58s] English:** oh nein, es funktioniert nicht mehr so gut. Aber was wäre denn die Motivation für eines dieser  
-**Translation:** Vocabulary: arbeiten: 工作; schwerer: 更困难; schwierig: 困难
+**[6407.06s] English:** Herrlich zu beobachten: Sobald ein neues Modell erscheint, probieren die Leute es aus und verlieben sich.  
+**Translation:** Vocabulary: beobachten: 观察; erscheint: 出现; herrlich: 美妙; probieren: 尝试; verlieben: 坠入爱河
 
-**[6460.08s] English:** KI-Unternehmen, ihr Modell absichtlich dümmer zu machen? Im schlimmsten Fall wird es langsamer,  
+**[6412.40s] English:** Sich sofort darin. Wow, das ist das intelligenteste Ding aller Zeit. Und dann kannst du im Laufe der  
 **Translation:** 
 
-**[6465.88s] English:** wenn die Serverlast zu hoch ist. Aber das Modell zu quantisieren, also dir absichtlich eine schlechtere  
-**Translation:** Vocabulary: absichtlich: 故意; langsamer: 变慢; machen: 使; quantisieren: 量化; schlechtere: 更差; schlimmsten: 最坏; serverlast: 服务器负载
+**[6419.98s] English:** To simply keep track of Reddit posts where suddenly it states, "we believe that the  
+**Translation:** Vocabulary: darin: 其中; intelligenteste: 最聪明的
 
-**[6473.58s] English:** Erfahrung zu geben, damit du zur Konkurrenz gehst, das ergibt in keiner Weise einen wirklich klugen  
+**[6425.36s] English:** Intelligence of this model is slowly fading. That says a lot about human nature, and  
+**Translation:** 
+
+**[6431.68s] English:** About how our mind works. For most likely, the intelligence of  
+**Translation:** Vocabulary: fading: 衰退
+
+**[6437.22s] English:** Models don't get any better. Instead, you simply get used to something that is very good. Your project,...  
+**Translation:** 
+
+**[6443.36s] English:** Wächst, du baust immer mehr Unordnung ein, und wahrscheinlich nimmst du dir nicht genug Zeit.  
+**Translation:** Vocabulary: nicht: 不; unordnung: 混乱; wahrscheinlich: 可能
+
+**[6449.98s] English:** And it's getting harder and harder to work in this chaos. And then suddenly, oh no, now it's really difficult.  
+**Translation:** 
+
+**[6455.58s] English:** Oh nein, es funktioniert nicht mehr so gut. Aber was wäre denn die Motivation für eines dieser?  
+**Translation:** Vocabulary: funktioniert: 起作用
+
+**[6460.08s] English:** KI-Unternehmen, would making your model intentionally dumber actually make it slower in the worst-case scenario?  
+**Translation:** 
+
+**[6465.88s] English:** When the server load is too high. But to quantify the model, so as to intentionally make it worse,  
+**Translation:** Vocabulary: dumber: 更笨拙; quantify: 量化; scenario: 场景
+
+**[6473.58s] English:** Experience to give, so that you can compete, this in no way makes any real sense.  
 **Translation:** 
 
 **[6478.30s] English:** Schachzug.  
-**Translation:** Vocabulary: erfahrung: 经验; konkurrenz: 竞争; schachzug: 棋步; wirklich: 真正
+**Translation:** Vocabulary: schachzug: 棋步
 
-**[6479.98s] English:** Wie funktioniert ein KI-Unternehmen?  
+**[6479.98s] English:** How does an AI company function?  
 **Translation:** 
 
-**[6480.00s] English:** Was denkst du über Cloud Code im Vergleich zu OpenClaw?  
-**Translation:** Vocabulary: vergleich: 比较
-
-**[6483.32s] English:** Also Cloud Code und vielleicht den Codex-Coding-Agenten, siehst du die als eine Art Konkurrenz?  
+**[6480.00s] English:** What do you think about Cloud Code compared to OpenClaw?  
 **Translation:** 
 
-**[6491.02s] English:** Also erstens, Konkurrenz macht Spaß, wenn es nicht wirklich ein Wettbewerb ist.  
-**Translation:** Vocabulary: vielleicht: 也许; wettbewerb: 竞争
+**[6483.32s] English:** Also, Cloud Code and maybe the Codex-Coding-Agenten, do you see them as a kind of competition?  
+**Translation:** 
+
+**[6491.02s] English:** Also, first of all, competition makes for fun when it's not really a competition.  
+**Translation:** 
 
 **[6496.20s] English:** Ja.  
 **Translation:** 
 
-**[6497.30s] English:** Ich freue mich, wenn es einfach nur dazu inspiriert hat, dass Leute etwas Neues und Cooles bauen.  
-**Translation:** Vocabulary: inspiriert: 启发
+**[6497.30s] English:** Ich freue mich, wenn es einfach nur dazu inspiriert hat, dass Leute etwas Neues und Cooleres bauen.  
+**Translation:** Vocabulary: cooleres: 更酷的; einfach: 简单; etwas: 一些东西; inspiriert: 启发
 
-**[6504.60s] English:** Ich benutze immer noch Codex fürs Entwickeln.  
+**[6504.60s] English:** I still use Codex for developing.  
 **Translation:** 
 
-**[6507.20s] English:** Viele Leute verwenden OpenClaw, um Sachen zu erstellen.  
-**Translation:** Vocabulary: codex: 代码库; entwickeln: 开发; erstellen: 创建; verwenden: 使用
+**[6507.20s] English:** Many people use OpenCL to create things.  
+**Translation:** Vocabulary: codex: 代码库
 
-**[6512.20s] English:** Ich habe hart daran gearbeitet, dass es funktioniert.  
+**[6512.20s] English:** I have worked hard to make it work.  
 **Translation:** 
 
-**[6516.44s] English:** Und ich mache kleinere Sachen damit, was den Code angeht.  
-**Translation:** Vocabulary: gearbeitet: 努力; kleinere: 较小的; mache: 做
-
-**[6519.64s] English:** Aber wenn ich stundenlang arbeite, will ich einen großen Bildschirm und nicht WhatsApp, weißt du.  
+**[6516.44s] English:** And I handle smaller things regarding the code.  
 **Translation:** 
 
-**[6524.80s] English:** Für mich ist ein persönlicher Agent eher etwas für mein Leben oder wie ein Kollege.  
-**Translation:** Vocabulary: bildschirm: 大屏幕; leben: 生活; stundenlang: 长时间
-
-**[6530.62s] English:** Ich gebe dir zum Beispiel eine GitHub URL und sage, probiere dieses CLI aus.  
+**[6519.64s] English:** Aber wenn ich Stundenlang arbeite, will ich einen großen Bildschirm und nicht WhatsApp, weißt du.  
 **Translation:** 
 
-**[6536.46s] English:** Funktioniert es wirklich?  
-**Translation:** Vocabulary: beispiel: 示例; probiere: 尝试
+**[6524.80s] English:** For me, a personal agent is more like something for my life or like a colleague.  
+**Translation:** Vocabulary: arbeite: 工作; bildschirm: 显示器; colleague: 同事; nicht: 不; stundenlang: 长时间
 
-**[6537.20s] English:** Was können wir daraus lernen?  
+**[6530.62s] English:** Ich gebe dir zum Beispiel eine GitHub URL und sage: "Probier dieses CLI aus.  
 **Translation:** 
 
-**[6539.70s] English:** Und so weiter.  
+**[6536.46s] English:** Does it really work?  
+**Translation:** Vocabulary: beispiel: 示例; probier: 试试
+
+**[6537.20s] English:** What can we learn from this?  
 **Translation:** 
 
-**[6541.12s] English:** Aber wenn ich das Tiefing Flow bin, will ich mehrere Dinge gleichzeitig offen haben.  
+**[6539.70s] English:** And so on.  
 **Translation:** 
 
-**[6546.52s] English:** Und es soll sehr sichtbar sein, was gerade passiert.  
-**Translation:** Vocabulary: dinge: 事情; gleichzeitig: 同时; passiert: 发生; sichtbar: 可见
-
-**[6551.46s] English:** Deshalb sehe ich das nicht als Konkurrenz.  
+**[6541.12s] English:** Aber, wenn ich das Tiefing Flow bin, will ich mehrere Dinge gleichzeitig offen haben.  
 **Translation:** 
 
-**[6553.38s] English:** Es sind einfach unterschiedliche Einsatzbereiche.  
-**Translation:** Vocabulary: einsatzbereiche: 应用领域; nicht: 不; unterschiedliche: 不同
+**[6546.52s] English:** And it should be very visible what is happening right now.  
+**Translation:** Vocabulary: dinge: 事情; gleichzeitig: 同时; mehrere: 几个
 
-**[6555.96s] English:** Aber denkst du, dass es eine Zukunft gibt, in der sich beides verbindet?  
+**[6551.46s] English:** Therefore, I do not see it as competition.  
 **Translation:** 
 
-**[6560.58s] English:** Also dass dein persönlicher Agent zugleich dein bester Entwicklungs-Copilot oder...  
+**[6553.38s] English:** It is simply different areas of application.  
 **Translation:** 
 
-**[6567.20s] English:** ...dein bester Partner ist?  
+**[6555.96s] English:** Do you think there is a future where both of these things can be connected?  
 **Translation:** 
 
-**[6569.16s] English:** Ja, genau.  
+**[6560.58s] English:** Also, your personal agent can also be your best development copilot or...  
+**Translation:** Vocabulary: copilot: 副驾
+
+**[6567.20s] English:** ...Who is your best partner?  
 **Translation:** 
 
-**[6570.32s] English:** Ich glaube, in diese Richtung entwickelt es sich gerade.  
+**[6569.16s] English:** Ja, exactly.  
 **Translation:** 
 
-**[6574.44s] English:** Es wird immer mehr dein Betriebssystem werden.  
-**Translation:** Vocabulary: betriebssystem: 操作系统; entwickelt: 发展; richtung: 方向
-
-**[6577.06s] English:** Ja, Betriebssystem.  
+**[6570.32s] English:** I believe it is developing in that direction.  
 **Translation:** 
 
-**[6577.98s] English:** Und es ist jetzt schon irgendwie lustig.  
-**Translation:** Vocabulary: irgendwie: somehow; lustig: 有趣
-
-**[6581.48s] English:** Ich habe Support für Sub-Agents eingebaut und auch für TTI-Support.  
+**[6574.44s] English:** It is becoming more and more your operating system.  
 **Translation:** 
 
-**[6590.88s] English:** Es kann also tatsächlich Cloud-Code oder Codex ausführen.  
-**Translation:** Vocabulary: eingebaut: 内置
-
-**[6594.98s] English:** Und weil meiner ein bisschen herrisch ist,  
+**[6577.06s] English:** Ja, operating system.  
 **Translation:** 
 
-**[6596.44s] English:** hat er es gestartet und ihm im Grunde klargemacht, wer der Chef ist.  
-**Translation:** Vocabulary: bisschen: 一点点; gestartet: 启动; herrisch: 专横; klargemacht: 表明
-
-**[6600.00s] English:** Und dann so, ah, Codex gehorcht mir.  
+**[6577.98s] English:** And it is now somehow funny.  
 **Translation:** 
 
-**[6604.38s] English:** Wow, es ist ein Machtkampf.  
-**Translation:** Vocabulary: gehorcht: 听从; machtkampf: 权力斗争
-
-**[6606.64s] English:** Und auch das aktuelle Interface ist wahrscheinlich nicht die endgültige Form.  
+**[6581.48s] English:** I have implemented support for Sub-Agents and also for TTI-Support.  
 **Translation:** 
 
-**[6611.64s] English:** Wenn man es global betrachtet, haben wir für Agents im Grunde Google kopiert.  
-**Translation:** Vocabulary: aktuelle: 当前; betrachtet: 考虑; interface: 界面; wahrscheinlich: 可能
+**[6590.88s] English:** It can actually execute Cloud Code or Codex.  
+**Translation:** Vocabulary: codex: 代码库; execute: 执行; implemented: 实现
 
-**[6620.38s] English:** Du hast einen Prompt und dann eine Chat-Oberfläche.  
+**[6594.98s] English:** Because my cat is a bit domineering,  
 **Translation:** 
 
-**[6625.96s] English:** Für mich fühlt sich das sehr an wie damals, als das Fernsehen neu war  
-**Translation:** Vocabulary: fernsehen: 电视
+**[6596.44s] English:** That's when he started it and basically made it clear who the boss is.  
+**Translation:** Vocabulary: domineering: 专横的
 
-**[6633.00s] English:** und man einfach Radiosendungen fürs Fernsehen aufgezeichnet hat.  
+**[6600.00s] English:** Then, uh, Codex obeys me.  
 **Translation:** 
 
-**[6636.88s] English:** Und genau das lief dann im TV.  
-**Translation:** Vocabulary: aufgezeichnet: 录制; radiosendungen: 广播节目
-
-**[6639.32s] English:** Ich glaube, es gibt bessere Wege.  
+**[6604.38s] English:** Wow, it's a power struggle.  
 **Translation:** 
 
-**[6646.22s] English:** Es wird andere Formen geben, wie wir mit Modellen kommunizieren.  
-**Translation:** Vocabulary: kommunizieren: 沟通; modellen: 建模
-
-**[6649.30s] English:** Wir sind noch ganz am Anfang dieser, wie funktioniert das überhaupt, Phase.  
+**[6606.64s] English:** And the current interface is probably not the final form.  
 **Translation:** 
 
-**[6655.96s] English:** Und mit der Zeit wird sich das einpendeln.  
-**Translation:** Vocabulary: einpendeln: 积累; funktioniert: 运作
+**[6611.64s] English:** When we look at it globally, we have essentially copied Google for our agents.  
+**Translation:** Vocabulary: globally: 整体上; interface: 操作界面
 
-**[6659.64s] English:** Und wir werden ganz neue Arten entwickeln, wie man mit solchen Systemen arbeitet.  
+**[6620.38s] English:** You have a prompt and then a chat interface.  
 **Translation:** 
 
-**[6665.12s] English:** Nun, ein weiterer Bestandteil des Workflows ist das Betriebssystem.  
-**Translation:** Vocabulary: arbeitet: 工作; bestandteil: 组成部分; entwickeln: 开发; systemen: 系统; weiterer: 另外的; workflows: 工作流
+**[6625.96s] English:** For me, it feels very much like when television was first introduced.  
+**Translation:** Vocabulary: prompt: 提示
 
-**[6670.42s] English:** Und ich habe dir ja außerhalb des Gesprächs erzählt,  
+**[6633.00s] English:** And simply recorded radio broadcasts for television.  
 **Translation:** 
 
-**[6674.26s] English:** dass ich zum ersten Mal in meinem Leben meinen Horizont erweitere  
-**Translation:** Vocabulary: erweitere: 扩展; horizont: 视野; leben: 生活
-
-**[6679.94s] English:** und mich in das Apple-Ökosystem vorwage.  
+**[6636.88s] English:** And exactly that's what happened on TV.  
 **Translation:** 
 
-**[6684.80s] English:** Also Macs, iPhones.  
+**[6639.32s] English:** I believe there are better ways.  
 **Translation:** 
 
-**[6685.96s] English:** Den Großteil meines Lebens war ich auf Linux, Windows und später WSL1 und WSL2 unterwegs,  
+**[6646.22s] English:** There will be other forms of how we communicate with models.  
 **Translation:** 
 
-**[6693.92s] English:** was ich alles großartig finde.  
-**Translation:** Vocabulary: lebens: 生活; unterwegs: 旅行中
-
-**[6695.74s] English:** Aber ich probiere jetzt auch macOS aus, weil es eine andere Art des Entwicklens ist  
+**[6649.30s] English:** We are still at the very beginning of this phase, where exactly how it works is unclear.  
 **Translation:** 
 
-**[6700.20s] English:** und weil ein großer Teil der Community, die gerade mit LLMs und Agents arbeitet,  
-**Translation:** Vocabulary: entwicklens: 开发方式; probiere: 尝试
+**[6655.96s] English:** Over time, this will accumulate.  
+**Translation:** Vocabulary: accumulate: 累积
 
-**[6705.76s] English:** genau dort unterwegs ist.  
+**[6659.64s] English:** And we will develop entirely new types of systems, how to work with such systems.  
 **Translation:** 
 
-**[6707.58s] English:** Deshalb erweitere ich das gerade.  
+**[6665.12s] English:** Now, another component of the workflow is the operating system.  
+**Translation:** Vocabulary: workflow: 工作流程
+
+**[6670.42s] English:** And I have told you about it outside of the conversation,  
 **Translation:** 
 
-**[6709.70s] English:** Aber kann man etwas zu den Unterschieden zwischen den Betriebssystemen sagen?  
+**[6674.26s] English:** That I am expanding my horizon for the first time in my life.  
 **Translation:** 
 
-**[6712.80s] English:** Man sollte erwähnen, dass OpenClaw plattformübergreifend  
-**Translation:** Vocabulary: betriebssystemen: 操作系统; etwas: 一些; unterschieden: 差异; zwischen: 之间
-
-**[6715.96s] English:** unterstützt wird.  
+**[6679.94s] English:** And force me into the Apple ecosystem.  
 **Translation:** 
 
-**[6716.96s] English:** Ich habe gesehen, dass für bestimmte Operationen neben  
-**Translation:** Vocabulary: bestimmte: 特定的; operationen: 操作
-
-**[6720.00s] English:** Windows oft WSL 2 empfohlen wird.  
+**[6684.80s] English:** Also, Macs, iPhones.  
 **Translation:** 
 
-**[6723.00s] English:** Aber Windows, Linux und Mac OS werden natürlich alle unterstützt.  
-**Translation:** Vocabulary: empfohlen: 推荐
-
-**[6727.04s] English:** Es sollte sogar nativ unter Windows funktionieren.  
+**[6685.96s] English:** During most of my life, I have been using Linux, Windows, and later WSL1 and WSL2.  
 **Translation:** 
 
-**[6729.38s] English:** Ich hatte nur noch nicht genug Zeit, es gründlich zu testen.  
-**Translation:** Vocabulary: funktionieren: 运行; nicht: 不
-
-**[6733.28s] English:** Und du weißt ja, die letzten 10% einer Software sind oft schwieriger als die ersten 90.  
+**[6693.92s] English:** I was everything I find absolutely great.  
 **Translation:** 
 
-**[6739.12s] English:** Da gibt es bestimmt noch ein paar Drachen, die ich irgendwann erledigen muss.  
-**Translation:** Vocabulary: bestimmt: 肯定; drachen: 恶龙; erledigen: 处理; irgendwann: 某天; schwieriger: 更难
-
-**[6743.38s] English:** Mein Weg war lange Zeit Windows, einfach weil ich damit aufgewachsen bin.  
+**[6695.74s] English:** Aber ich probiere jetzt auch macOS aus, because it is a different way of developing.  
 **Translation:** 
 
-**[6746.86s] English:** Dann bin ich zu Linux gewechselt, hatte dort eine lange Phase,  
-**Translation:** Vocabulary: aufgewachsen: 成长; gewechselt: 切换; lange: 长期
+**[6700.20s] English:** And because a large part of the community that is currently working with LLMs and agents,...  
+**Translation:** Vocabulary: probiere: 尝试
 
-**[6751.56s] English:** habe eigene Kernel gebaut und alles Mögliche ausprobiert.  
+**[6705.76s] English:** Exactly there on the way.  
 **Translation:** 
 
-**[6756.10s] English:** Und dann kam ich an die Uni, hatte mein zusammengebasteltes Linux-Setup  
-**Translation:** Vocabulary: ausprobiert: 测试; kernel: 内核; zusammengebasteltes: 拼凑的
-
-**[6759.98s] English:** und sah dieses weiße MacBook.  
+**[6707.58s] English:** Therefore, I am expanding on that just now.  
 **Translation:** 
 
-**[6764.16s] English:** Und ich dachte einfach, das ist ein wunderschönes Gerät.  
+**[6709.70s] English:** Aber can something be said about the differences between the operating systems?  
 **Translation:** 
 
-**[6767.68s] English:** Dieses weiße aus Plastik.  
+**[6712.80s] English:** Man should mention that OpenClaw is platform-agnostic.  
 **Translation:** 
 
-**[6769.70s] English:** Dann bin ich zu Mac gewechselt, vor allem weil ich es leid war,  
+**[6715.96s] English:** is supported.  
 **Translation:** 
 
-**[6772.98s] English:** dass unter Linux ständig Audio auf Skype nicht funktionierte  
+**[6716.96s] English:** I have seen that for certain operations, besides  
 **Translation:** 
 
-**[6775.86s] English:** und es immer wieder andere Probleme gab, die Linux lange Zeit hatte.  
-**Translation:** Vocabulary: funktionierte: 运行正常; probleme: 问题
-
-**[6780.80s] English:** Und dann bin ich einfach dabei geblieben.  
+**[6720.00s] English:** Windows often recommends WSL 2.  
 **Translation:** 
 
-**[6783.28s] English:** Später bin ich tiefer in iOS eingestiegen, was ohnehin macOS voraussetzt.  
-**Translation:** Vocabulary: eingestiegen: 深入; geblieben: 留下; voraussetzt: 需要
-
-**[6787.04s] English:** Also stellte sich die Frage gar nicht mehr.  
+**[6723.00s] English:** Aber Windows, Linux, and Mac OS are naturally all supported.  
 **Translation:** 
 
-**[6789.04s] English:** Ich glaube allerdings, dass Apple ein wenig von seinem Vorsprung  
-**Translation:** Vocabulary: allerdings: 然而; vorsprung: 优势
-
-**[6791.80s] English:** bei nativen Anwendungen verloren hat.  
+**[6727.04s] English:** It should even work natively under Windows.  
 **Translation:** 
 
-**[6797.52s] English:** Früher waren Native Apps deutlich besser.  
-**Translation:** Vocabulary: anwendungen: 应用程序; deutlich: 明显; verloren: 失去
+**[6729.38s] English:** I had just not had enough time to test it thoroughly.  
+**Translation:** Vocabulary: natively: 原生地; thoroughly: 彻底地
 
-**[6799.54s] English:** Und gerade auf dem Mac gibt es viele Leute,  
+**[6733.28s] English:** And you know, the last 10% of a software is often harder than the first 90%.  
 **Translation:** 
 
-**[6804.28s] English:** die Software mit viel Liebe entwickeln.  
-**Translation:** Vocabulary: entwickeln: 开发
+**[6739.12s] English:** There definitely are a few dragons that I still need to deal with eventually.  
+**Translation:** Vocabulary: dragons: 难题
 
-**[6807.78s] English:** Auf Windows hingegen gibt es einfach mehr.  
+**[6743.38s] English:** My path was long ago Windows, simply because I grew up with it.  
 **Translation:** 
 
-**[6811.24s] English:** Rein funktional betrachtet ist das Angebot dort insgesamt größer.  
-**Translation:** Vocabulary: betrachtet: 考虑; funktional: 功能; hingegen: 相反; insgesamt: 总体
-
-**[6816.78s] English:** Aber vieles wirkte funktionaler und weniger mit Liebe gemacht.  
+**[6746.86s] English:** Dann I've switched to Linux, and had a long phase there.  
 **Translation:** 
 
-**[6821.96s] English:** Ich meine, der Mac  
-**Translation:** Vocabulary: funktionaler: 实用的
+**[6751.56s] English:** Have built my own kernel and experimented with everything possible.  
+**Translation:** 
 
-**[6826.04s] English:** hat immer eher Designer und kreative Leute angezogen.  
+**[6756.10s] English:** Then I arrived at the uni and had my makeshift Linux setup.  
+**Translation:** Vocabulary: experimented: 实验; kernel: 内核; makeshift: 临时; setup: 配置
+
+**[6759.98s] English:** And I saw this white MacBook.  
+**Translation:** 
+
+**[6764.16s] English:** And I thought, that is a wonderful device.  
+**Translation:** 
+
+**[6767.68s] English:** This white one is made of plastic.  
+**Translation:** 
+
+**[6769.70s] English:** Dann, I switched to Mac, mainly because I was tired of,  
+**Translation:** 
+
+**[6772.98s] English:** That audio on Skype constantly failed to work under Linux.  
+**Translation:** 
+
+**[6775.86s] English:** And there were always other problems that kept Linux from being perfect for a long time.  
+**Translation:** 
+
+**[6780.80s] English:** Then I simply stayed involved.  
+**Translation:** 
+
+**[6783.28s] English:** Later, I delved deeper into iOS, which naturally requires knowledge of macOS.  
+**Translation:** Vocabulary: delved: 深入研究
+
+**[6787.04s] English:** Also, the question no longer arose.  
+**Translation:** 
+
+**[6789.04s] English:** I believe, however, that Apple has lost a bit of its advantage.  
+**Translation:** 
+
+**[6791.80s] English:** It has lost out to native applications.  
+**Translation:** 
+
+**[6797.52s] English:** Earlier, native apps were much better.  
+**Translation:** 
+
+**[6799.54s] English:** And just on the Mac, there are many people,  
+**Translation:** 
+
+**[6804.28s] English:** Develop the software with a lot of love.  
+**Translation:** 
+
+**[6807.78s] English:** On Windows, however, there is simply more.  
+**Translation:** 
+
+**[6811.24s] English:** Rein funktionell betrachtet, ist das Angebot dort insgesamt größer.  
+**Translation:** Vocabulary: angebot: 提供的东西; betrachtet: 考虑; funktionell: 功能上; insgesamt: 总体上
+
+**[6816.78s] English:** Aber much of it seemed more functional and less lovingly made.  
+**Translation:** 
+
+**[6821.96s] English:** I mean, the Mac  
+**Translation:** Vocabulary: functional: 实用; lovingly: 精心
+
+**[6826.04s] English:** That has always attracted more designers and creative people.  
 **Translation:** 
 
 **[6829.96s] English:** Ich hatte oft das Gefühl, selbst wenn es jetzt weniger Features gab,  
-**Translation:** Vocabulary: angezogen: 吸引; kreative: 创意
+**Translation:** Vocabulary: designers: 设计师; weniger: 较少的
 
-**[6833.40s] English:** hat es  
+**[6833.40s] English:** What is  
 **Translation:** 
 
-**[6834.26s] English:** mehr Freude, mehr Verspieltheit.  
-**Translation:** 
+**[6834.26s] English:** More joy, more frivolity.  
+**Translation:** Vocabulary: frivolity: 轻浮
 
 **[6837.76s] English:** Das habe ich immer geschätzt.  
 **Translation:** 
 
-**[6840.00s] English:** Aber in den letzten Jahren bevorzuge ich tatsächlich oft, oh Gott, dafür werde ich bestimmt gerostet, aber ich bevorzuge Elektron-Apps, weil sie einfach funktionieren und Native-Apps, besonders wenn sie eigentlich Webdienste sind, die als Native-Apps daherkommen, haben oft weniger Funktionen, nicht, dass es technisch nicht möglich wäre.  
-**Translation:** Vocabulary: besonders: 特别; bevorzuge: 偏好; daherkommen: 出现; eigentlich: 实际上; funktionen: 功能; gerostet: 生锈; technisch: 技术上; webdienste: 网络服务
+**[6840.00s] English:** Aber in den letzten Jahren bevorzuge ich tatsächlich oft, oh Gott, dafür werde ich bestimmt gerostet, aber ich bevorzuge Elektron-Apps, weil sie einfach funktionieren. Und Native-Apps, besonders wenn sie eigentlich Webdienste sind, die als Native-Apps daherkommen, haben oft weniger Funktionen – nicht, dass es technisch nicht möglich wäre.  
+**Translation:** Vocabulary: besonders: 特别; bestimmt: 肯定; bevorzuge: 偏好; daherkommen: 出现; eigentlich: 实际上; einfach: 简单; funktionen: 功能; funktionieren: 运行; gerostet: 生锈; letzten: 最近的; nicht: 不; technisch: 技术上; webdienste: 网络服务
 
-**[6866.40s] English:** Also es ist eher eine Frage der Priorität. Für viele Unternehmen hat die Native-Entwicklung einfach keinen so hohen Stellenwert. Wenn man hingegen eine Elektron-App baut, ist das die eine zentrale App. Dann ist das Priorität und es ist viel mehr Codesharing möglich.  
+**[6866.40s] English:** Also, it is rather a question of priority. For many companies, native development simply does not have such a high priority. If you build an electronic app, however, that becomes the central app. Then it is a priority and there is much more code sharing possible.  
 **Translation:** 
 
-**[6883.12s] English:** Und ich baue auch viele Native-Mac-Apps. Ich liebe das. Ich kann einfach nicht anders. Ich bastle gerne kleine Mac-Menüleisten-Tools.  
-**Translation:** Vocabulary: codesharing: 代码共享; nicht: 不; stellenwert: 价值; unternehmen: 公司; zentrale: 核心
-
-**[6896.40s] English:** Zum Beispiel habe ich ein Tool gebaut, um deine Codex-Nutzung zu überwachen. Oder eines namens Trimi, speziell für agentische Workflows.  
+**[6883.12s] English:** I also build many native Mac apps. I love it. I simply can't help myself. I enjoy crafting small Mac menu bar tools.  
 **Translation:** 
 
-**[6903.20s] English:** Wenn du Text markierst, der über mehrere Zeilen geht, entfernt es die Zeilenumbrüche, sodass du ihn direkt ins Terminal einfügen kannst. Das war wieder so ein Fall von, das nervt mich. Und nach dem 20. Mal, dass es mich genervt hat, habe ich es einfach gebaut.  
-**Translation:** Vocabulary: agentische: 代理工作; beispiel: 例子; entfernt: 移除; markierst: 标记; speziell: 专门; workflows: 工作流
-
-**[6917.44s] English:** Es gibt eine ziemlich coole Mac-App für OpenClaw, die noch nicht viele entdeckt haben. Im Moment fühlt sie sich ein bisschen wie das Homer-Auto an.  
+**[6896.40s] English:** For example, I built a tool to monitor your Codex usage. Or one called Trimi, specifically for agency workflows.  
 **Translation:** 
 
-**[6926.40s] English:** Ich habe viel damit experimentiert. Sie braucht noch etwas Feinschliff.  
-**Translation:** Vocabulary: bisschen: 一点点; entdeckt: 发现; etwas: 一些; experimentiert: 实验; feinschliff: 打磨; ziemlich: 相当
+**[6903.20s] English:** When you mark text that goes over several lines, it removes the line breaks, so you can copy and paste it directly into the terminal. That was another case of something that annoyed me. And after the 20th time it annoyed me, I just built it.  
+**Translation:** Vocabulary: codex: 代码库; workflows: 工作流程
 
-**[6932.04s] English:** Also du liebst es immer noch, zu dieser Freude beizutragen, die dieses Betriebssystem ausmacht.  
+**[6917.44s] English:** There is a pretty cool Mac app for OpenClaw, which not many people have discovered yet. At the moment, it feels a bit like Homer's car.  
 **Translation:** 
 
-**[6937.74s] English:** Ja, aber dann merkt man irgendwann, zum Beispiel habe ich auch eine App für GitHub gebaut. Und wenn du SwiftUI benutzt, also das neueste und beste von Apple, hat es ewig gedauert, bis es überhaupt eine vernünftige Möglichkeit gab, ein Bild aus dem Web anzuzeigen.  
-**Translation:** Vocabulary: anzuzeigen: 展示; ausmacht: 构成; beizutragen: 贡献; betriebssystem: 操作系统; gedauert: 花费; irgendwann: 最终
+**[6926.40s] English:** I have experimented a lot with it. It still needs some fine-tuning.  
+**Translation:** Vocabulary: experimented: 尝试
 
-**[6953.20s] English:** Inzwischen gibt es Async-Image. Ich habe es eingebaut.  
+**[6932.04s] English:** Also, you still love contributing to this joy that makes up this operating system.  
 **Translation:** 
 
-**[6956.40s] English:** Aber manche Bilder wurden einfach nicht angezeigt oder waren extrem.  
-**Translation:** Vocabulary: angezeigt: 显示; bilder: 图片; eingebaut: 集成; manche: 一些
+**[6937.74s] English:** Ja, aber dann merkt man irgendwann: Zum Beispiel habe ich auch eine App für GitHub gebaut. Und wenn du SwiftUI benutzt, also das neueste und beste von Apple, hat es ewig gedauert, bis es überhaupt eine vernünftige Möglichkeit gab, ein Bild aus dem Web anzuzeigen.  
+**Translation:** Vocabulary: anzuzeigen: 展示; beispiel: 例子; benutzt: 使用; gedauert: 花费时间; irgendwann: eventually; neueste: 最新的
 
-**[6960.00s] English:** langsam. Ich habe dann mit Codex darüber gesprochen,  
+**[6953.20s] English:** Inzwischen, there's Async-Image. I've implemented it.  
 **Translation:** 
 
-**[6963.00s] English:** warum gibt es da einen Bug?  
-**Translation:** Vocabulary: codex: 代码库; gesprochen: 讨论过
+**[6956.40s] English:** Some images, however, were simply not displayed or were extremely disturbing.  
+**Translation:** Vocabulary: implemented: 实现; inzwischen: meanwhile
 
-**[6964.70s] English:** Und selbst Codex meinte,  
+**[6960.00s] English:** Langsam. I have then spoken with Codex about it.  
 **Translation:** 
 
-**[6966.14s] English:** ja, es gibt Async Image,  
-**Translation:** Vocabulary: async: 异步
+**[6963.00s] English:** Why is there a bug there?  
+**Translation:** Vocabulary: langsam: 慢点
 
-**[6968.22s] English:** aber das ist eher zum Experimentieren gedacht  
+**[6964.70s] English:** Even Codex himself meant,  
 **Translation:** 
 
-**[6969.80s] English:** und sollte nicht in der Produktion verwendet werden.  
-**Translation:** Vocabulary: experimentieren: 做实验; produktion: 生产; verwendet: 使用
-
-**[6972.74s] English:** Aber das ist Apples Antwort  
+**[6966.14s] English:** Yes, there is AsyncImage.  
 **Translation:** 
 
-**[6974.16s] English:** auf die Frage, wie man Bilder aus dem  
+**[6968.22s] English:** aber, das ist eher zum Experimentieren gedacht.  
 **Translation:** 
 
-**[6976.18s] English:** Web anzeigt. Das sollte doch nicht so  
+**[6969.80s] English:** And should not be used in production.  
+**Translation:** Vocabulary: experimentieren: 实验; gedacht: 设计
+
+**[6972.74s] English:** But that is Apple's response.  
 **Translation:** 
 
-**[6978.18s] English:** kompliziert sein. Das ist einfach,  
-**Translation:** Vocabulary: kompliziert: 复杂
+**[6974.16s] English:** On the question of how one extracts images from the  
+**Translation:** Vocabulary: extracts: 提取
 
-**[6980.24s] English:** das ist doch verrückt. Wie kann es sein,  
+**[6976.18s] English:** Web page displayed. That shouldn't have happened.  
 **Translation:** 
 
-**[6982.86s] English:** dass ich im Jahr  
+**[6978.18s] English:** It can be complicated. That is simple.  
 **Translation:** 
 
-**[6983.46s] English:** 2026 bin  
+**[6980.24s] English:** Das ist doch verrückt. Wie kann es sein,  
 **Translation:** 
 
-**[6985.54s] English:** und mein Agent mir sagt,  
+**[6982.86s] English:** Dass ich im Jahr  
 **Translation:** 
 
-**[6987.52s] English:** benutzt das nicht, was Apple  
+**[6983.46s] English:** 2026 Bin  
 **Translation:** 
 
-**[6989.68s] English:** gebaut hat. Es ist zwar  
+**[6985.54s] English:** And my agent tells me,  
 **Translation:** 
 
-**[6991.60s] English:** da, aber nicht wirklich gut.  
+**[6987.52s] English:** Benutzt das nicht what Apple  
 **Translation:** 
 
-**[6995.00s] English:** Und das steckt  
-**Translation:** Vocabulary: wirklich: 真正地
+**[6989.68s] English:** Bauhat. Es ist zwar.  
+**Translation:** Vocabulary: nicht: 不
 
-**[6995.54s] English:** jetzt sogar in den Gewichten.  
+**[6991.60s] English:** Da, but not really good.  
 **Translation:** 
 
-**[6998.84s] English:** Für mich ist das einfach,  
-**Translation:** Vocabulary: gewichten: 重量
-
-**[7002.02s] English:** sie hatten so viel Vorsprung  
+**[6995.00s] English:** And that's it.  
 **Translation:** 
 
-**[7003.50s] English:** und so viel Liebe im Produkt und dann  
-**Translation:** Vocabulary: vorsprung: 领先优势
-
-**[7005.54s] English:** haben sie das irgendwie versäumt, es konsequent  
+**[6995.54s] English:** Now, even in the weights.  
 **Translation:** 
 
-**[7007.68s] English:** weiterzuentwickeln und wirklich auszubauen.  
-**Translation:** Vocabulary: auszubauen: 扩展; irgendwie: somehow; konsequent: 一贯地; weiterzuentwickeln: 继续发展
-
-**[7010.44s] English:** Aber es gibt auch einfach die  
+**[6998.84s] English:** For me, that's simple,  
 **Translation:** 
 
-**[7011.62s] English:** praktische Realität. Wenn man  
-**Translation:** Vocabulary: praktische: 实用的
-
-**[7013.44s] English:** ins Silicon Valley schaut,  
+**[7002.02s] English:** They had such a big head start.  
 **Translation:** 
 
-**[7015.02s] English:** nutzen die meisten Entwickler, die  
-**Translation:** Vocabulary: entwickler: 开发者
-
-**[7017.08s] English:** mit LLMs und agentischer  
+**[7003.50s] English:** And so much love in the product, and then  
 **Translation:** 
 
-**[7018.82s] English:** KI herumspielen, Apple  
-**Translation:** Vocabulary: agentischer: 有代理性的; herumspielen: 玩弄
-
-**[7020.76s] English:** Geräte. Und gleichzeitig  
+**[7005.54s] English:** Have you perhaps missed out on it, making it consistent?  
 **Translation:** 
 
-**[7022.92s] English:** geht Apple da nicht wirklich mit.  
-**Translation:** Vocabulary: gleichzeitig: 同时; nicht: 不
-
-**[7025.40s] English:** Sie öffnen sich nicht richtig,  
+**[7007.68s] English:** To further develop and really expand.  
 **Translation:** 
 
-**[7027.16s] English:** experimentieren nicht sichtbar mit  
+**[7010.44s] English:** Aber es gibt auch einfach die.  
+**Translation:** 
+
+**[7011.62s] English:** Praktische Realität. Wenn man  
+**Translation:** Vocabulary: einfach: 简单; praktische: 实用
+
+**[7013.44s] English:** In Silicon Valley, they look,  
+**Translation:** 
+
+**[7015.02s] English:** Most developers use those.  
+**Translation:** 
+
+**[7017.08s] English:** With LLMs and agent-based  
+**Translation:** 
+
+**[7018.82s] English:** KI herumspielen, Apple.  
+**Translation:** Vocabulary: herumspielen: 随意玩弄
+
+**[7020.76s] English:** Devices. And simultaneously.  
+**Translation:** 
+
+**[7022.92s] English:** Does Apple really not do that?  
+**Translation:** 
+
+**[7025.40s] English:** They don't open properly,  
+**Translation:** 
+
+**[7027.16s] English:** Experimentieren nicht sichtbar mit.  
 **Translation:** Vocabulary: sichtbar: 可见的
 
-**[7028.64s] English:** und arbeiten nicht aktiv  
+**[7028.64s] English:** And they do not work actively.  
 **Translation:** 
 
-**[7030.94s] English:** mit dieser Bewegung zusammen.  
-**Translation:** Vocabulary: arbeiten: 合作; bewegung: 运动; zusammen: 一起
+**[7030.94s] English:** With this movement.  
+**Translation:** Vocabulary: actively: 积极地
 
-**[7032.80s] English:** Ist es nicht witzig, dass sie bei KI komplett  
+**[7032.80s] English:** Isn't it funny that they're completely into AI?  
 **Translation:** 
 
-**[7034.98s] English:** daneben liegen und trotzdem  
-**Translation:** Vocabulary: komplett: 完全; trotzdem: 然而
+**[7034.98s] English:** Daneben liegen, und trotzdem,...  
+**Translation:** Vocabulary: daneben: 旁边; trotzdem: 然而
 
-**[7036.86s] English:** kauft jeder Mac Minis?  
+**[7036.86s] English:** Does everyone buy Mac Minis?  
 **Translation:** 
 
-**[7038.90s] English:** Wie kann das sein?  
+**[7038.90s] English:** How can that be?  
 **Translation:** 
 
-**[7041.84s] English:** Macht das überhaupt Sinn?  
+**[7041.84s] English:** Does that actually make sense?  
 **Translation:** 
 
-**[7043.34s] English:** Du bist  
+**[7043.34s] English:** You are  
 **Translation:** 
 
-**[7043.84s] English:** möglicherweise der beste Mac-Verkäufer,  
+**[7043.84s] English:** Möglicherweise der beste Mac-Seller,  
 **Translation:** 
 
-**[7047.08s] English:** aller Zeiten.  
+**[7047.08s] English:** Aller times.  
 **Translation:** 
 
-**[7049.32s] English:** Nein, du brauchst keinen Mac Mini, um  
+**[7049.32s] English:** No, you don't need a Mac Mini, to  
 **Translation:** 
 
-**[7051.14s] English:** Open Cloud zu installieren. Du kannst es auch  
-**Translation:** Vocabulary: brauchst: 需要; installieren: 安装
-
-**[7053.18s] English:** im Web nutzen. Es gibt dieses  
+**[7051.14s] English:** Open Cloud to install. You can also  
 **Translation:** 
 
-**[7055.06s] English:** Konzept der Nodes. Du kannst also deinen  
+**[7053.18s] English:** To use the web, there is this.  
 **Translation:** 
 
-**[7057.16s] English:** eigenen Rechner als Node einbinden  
+**[7055.06s] English:** Concept of the Nodes. You can also your  
 **Translation:** 
 
-**[7059.12s] English:** und er übernimmt dieselbe Aufgabe.  
-**Translation:** Vocabulary: aufgabe: 任务; dieselbe: 相同的; einbinden: 集成
-
-**[7062.04s] English:** Trotzdem spricht im Moment  
+**[7057.16s] English:** Embed your own computer as a Node.  
 **Translation:** 
 
-**[7063.22s] English:** einiges dafür, es auf separater  
-**Translation:** Vocabulary: separater: 单独的
+**[7059.12s] English:** And he takes on the same task.  
+**Translation:** Vocabulary: embed: 嵌入
 
-**[7065.26s] English:** Hardware laufen zu lassen.  
+**[7062.04s] English:** Despite that, at the moment,  
 **Translation:** 
 
-**[7068.50s] English:** Gleichzeitig  
+**[7063.22s] English:** There is some reason to keep it separate.  
 **Translation:** 
 
-**[7069.06s] English:** gibt es auch ein starkes Argument  
+**[7065.26s] English:** Hardware running all the time.  
 **Translation:** 
 
-**[7071.30s] English:** für den Browser.  
+**[7068.50s] English:** Simultaneously,  
 **Translation:** 
 
-**[7073.16s] English:** Ich habe dort agentische  
+**[7069.06s] English:** There is also a strong argument.  
 **Translation:** 
 
-**[7074.90s] English:** Browser-Nutzung eingebaut.  
-**Translation:** Vocabulary: agentische: 代理浏览器使用
+**[7071.30s] English:** For the browser.  
+**Translation:** Vocabulary: browser: 浏览器
 
-**[7077.08s] English:** Im Grunde  
+**[7073.16s] English:** I have worked there as an agency.  
 **Translation:** 
 
-**[7079.64s] English:** ist es  
+**[7074.90s] English:** Browser Usage Built-In.  
 **Translation:** 
 
-**[7080.00s] English:** Playwright mit einer Menge  
+**[7077.08s] English:** In essence,  
 **Translation:** 
 
-**[7082.00s] English:** zusätzlicher Funktionen,  
-**Translation:** Vocabulary: funktionen: 功能; playwright: 剧作家
-
-**[7083.64s] English:** die es für Agents einfacher machen.  
+**[7079.64s] English:** Is it  
 **Translation:** 
 
-**[7086.52s] English:** Playwright ist eine Bibliothek, die den Browser  
-**Translation:** Vocabulary: bibliothek: 库; einfacher: 简单; machen: 使
-
-**[7088.14s] English:** steuert. Es ist wirklich einfach zu bedienen.  
+**[7080.00s] English:** Playwright with a lot,  
 **Translation:** 
 
-**[7090.44s] English:** Ja. Und unser Internet wird langsam  
-**Translation:** Vocabulary: bedienen: 操作
+**[7082.00s] English:** Additional functions,  
+**Translation:** Vocabulary: playwright: 剧作家
 
-**[7092.24s] English:** abgeschaltet. Also es gibt  
+**[7083.64s] English:** To make it easier for agents.  
 **Translation:** 
 
-**[7094.10s] English:** eine ganze Bewegung, die es  
+**[7086.52s] English:** A playwright is a library that enables you to create dynamic HTML documents in Python.  
+**Translation:** 
+
+**[7088.14s] English:** Steuerung. It is really easy to operate.  
+**Translation:** 
+
+**[7090.44s] English:** Ja. And our internet is getting slow.  
+**Translation:** Vocabulary: steuerung: 控制
+
+**[7092.24s] English:** Abgeschaltet. Also, there is.  
+**Translation:** 
+
+**[7094.10s] English:** A whole movement, which it  
 **Translation:** Vocabulary: abgeschaltet: 关闭
 
-**[7095.92s] English:** Agents schwerer machen will, Websites zu  
+**[7095.92s] English:** Agents who want to make it harder, will do so to Websites,  
 **Translation:** 
 
-**[7098.02s] English:** nutzen. Wenn du das Gleiche aus einem  
-**Translation:** Vocabulary: schwerer: 更困难的
+**[7098.02s] English:** Nutzen. Wenn du das Gleiche aus einem  
+**Translation:** Vocabulary: gleiche: 相同的
 
-**[7100.10s] English:** Rechenzentrum machst und eine Website erkennt,  
+**[7100.10s] English:** Rechenzentrum" und eine Website erkennt,  
 **Translation:** 
 
-**[7102.16s] English:** dass die IP von dort kommt, blockiert  
-**Translation:** Vocabulary: blockiert: 阻止; rechenzentrum: 数据中心
+**[7102.16s] English:** That the IP comes from there, blocks.  
+**Translation:** Vocabulary: erkennt: 识别; rechenzentrum: 数据中心
 
-**[7104.00s] English:** sie dich vielleicht, erschwert dir den Zugriff  
+**[7104.00s] English:** It might keep you from accessing it.  
 **Translation:** 
 
-**[7105.70s] English:** oder stellt dem Agent ständig Captures in den  
-**Translation:** Vocabulary: erschwert: 使...变难; vielleicht: 也许
-
-**[7108.06s] English:** Weg. Ich meine,  
+**[7105.70s] English:** Order, or the agent will constantly receive captures in the  
 **Translation:** 
 
-**[7110.00s] English:** Agents klicken ganz brav auf  
+**[7108.06s] English:** We go. I mean,  
 **Translation:** 
 
-**[7111.70s] English:** ich bin kein Roboter. Ja.  
+**[7110.00s] English:** Agents click quite bravely on  
+**Translation:** Vocabulary: bravely: 勇敢地
+
+**[7111.70s] English:** I am not a robot. Yes.  
 **Translation:** 
 
-**[7114.42s] English:** Aber wenn das Ganze  
+**[7114.42s] English:** Aber, wenn das Ganze...  
 **Translation:** 
 
-**[7116.12s] English:** über eine private, normale  
+**[7116.12s] English:** Over a private, normal  
 **Translation:** 
 
-**[7118.20s] English:** IP läuft, wird vieles  
+**[7118.20s] English:** IP is running, but much will remain.  
 **Translation:** 
 
-**[7120.20s] English:** einfacher. Es gibt also  
+**[7120.20s] English:** Einfacher. Es gibt also.  
 **Translation:** 
 
-**[7122.16s] English:** Wege, aber es muss  
+**[7122.16s] English:** Wege, aber es muss.  
+**Translation:** Vocabulary: einfacher: 更简单
+
+**[7124.10s] English:** Really, no Mac being there.  
 **Translation:** 
 
-**[7124.10s] English:** wirklich kein Mac sein.  
+**[7126.44s] English:** It can be any old hardware.  
 **Translation:** 
 
-**[7126.44s] English:** Es kann jede beliebige alte Hardware sein.  
-**Translation:** Vocabulary: beliebige: 任意的; wirklich: 真正地
-
-**[7129.16s] English:** Ich sage immer,  
+**[7129.16s] English:** I always say,  
 **Translation:** 
 
-**[7130.56s] English:** vielleicht nutzt man einfach  
+**[7130.56s] English:** Vielleicht nutzt man einfach.  
+**Translation:** Vocabulary: einfach: 简单; vielleicht: 也许
+
+**[7131.78s] English:** Die Gelegenheit,  
 **Translation:** 
 
-**[7131.78s] English:** die Gelegenheit,  
+**[7134.52s] English:** Dir ein neues MacBook oder welchen Rechner?  
+**Translation:** Vocabulary: gelegenheit: 机会; rechner: 电脑; welchen: 哪个
+
+**[7136.14s] English:** Always, whenever you use it to get and  
 **Translation:** 
 
-**[7134.52s] English:** dir ein neues MacBook oder welchen Rechner  
-**Translation:** Vocabulary: gelegenheit: 机会
-
-**[7136.14s] English:** auch immer du nutzt zu holen und  
+**[7138.16s] English:** Then as a server.  
 **Translation:** 
 
-**[7138.16s] English:** den alten dann als Server zu  
-**Translation:** Vocabulary: alten: 旧的
-
-**[7139.86s] English:** verwenden, statt extra einen Mac Mini zu kaufen.  
+**[7139.86s] English:** Use one, instead of buying an extra Mac Mini.  
 **Translation:** 
 
-**[7141.86s] English:** Aber es gibt eben auch viele ziemlich nette  
-**Translation:** Vocabulary: verwenden: 使用; ziemlich: 相当
+**[7141.86s] English:** Aber es gibt eben auch viele ziemlich nette...  
+**Translation:** Vocabulary: ziemlich: 相当
 
-**[7143.86s] English:** Dinge, die Leute mit Mac Minis bauen.  
+**[7143.86s] English:** Things people build with Mac Minis.  
 **Translation:** 
 
-**[7145.86s] English:** Und das gefällt mir. Ja.  
-**Translation:** Vocabulary: dinge: 事物
+**[7145.86s] English:** And that gefills me. Yes.  
+**Translation:** Vocabulary: gefills: 使我满意
 
-**[7147.86s] English:** Und nein, ich bekomme keine Provision von Apple.  
+**[7147.86s] English:** No, and I don't receive a commission from Apple.  
 **Translation:** 
 
 **[7149.86s] English:** Sie  
@@ -6280,725 +6281,728 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[7151.86s] English:** Sie  
 **Translation:** 
 
-**[7153.86s] English:** haben sich nicht wirklich gemeldet.  
-**Translation:** Vocabulary: gemeldet: 报道; nicht: 不
+**[7153.86s] English:** Have not really responded.  
+**Translation:** 
 
 **[7155.86s] English:** Das ist schon ein bisschen traurig.  
 **Translation:** 
 
-**[7157.86s] English:** Aber kannst du mal erklären, was es wirklich braucht,  
-**Translation:** Vocabulary: bisschen: 一点点
+**[7157.86s] English:** Aber können Sie mal erklären, was es wirklich braucht?  
+**Translation:** Vocabulary: bisschen: 一点点; braucht: 需要; traurig: 悲伤; wirklich: 真正地
 
-**[7159.86s] English:** um mit OpenClaw loszulegen?  
+**[7159.86s] English:** How do you activate OpenClaw?  
 **Translation:** 
 
-**[7161.86s] English:** Es gibt ja viele Leute. Wie war  
-**Translation:** Vocabulary: loszulegen: 解除
-
-**[7163.86s] English:** das noch? Jemand hat dir getweetet?  
+**[7161.86s] English:** There are, of course, many people. How was  
 **Translation:** 
 
-**[7165.86s] English:** Peter, mach OpenClaw so einfach  
-**Translation:** Vocabulary: getweetet: 发推特
-
-**[7167.86s] English:** einzurichten, dass es auch normale Leute nutzen können.  
+**[7163.86s] English:** Das noch? Jemand hat dir ge-tweetet?  
 **Translation:** 
 
-**[7169.86s] English:** 99,9%  
-**Translation:** Vocabulary: einzurichten: 安装配置
-
-**[7171.86s] English:** der Menschen kommen nicht an OpenClaw heran  
+**[7165.86s] English:** Peter, make OpenClaw as simple as possible.  
 **Translation:** 
 
-**[7173.86s] English:** und können ihren eigenen Hummer betreiben,  
-**Translation:** Vocabulary: betreiben: 经营; hummer: 海螯; menschen: 人类
-
-**[7175.86s] English:** weil es technisch zu kompliziert ist.  
+**[7167.86s] English:** To install, that it can also be used by normal people.  
 **Translation:** 
 
-**[7177.86s] English:** Mach OpenClaw bitte für alle zugänglich.  
-**Translation:** Vocabulary: kompliziert: 复杂; technisch: 技术
-
-**[7179.86s] English:** Und du hast geantwortet,  
+**[7169.86s] English:** 99.9%  
 **Translation:** 
 
-**[7181.86s] English:** ich arbeite daran. Aus meiner Sicht  
-**Translation:** Vocabulary: geantwortet: 回答; sicht: 视角
-
-**[7183.86s] English:** gibt es schon mehrere Optionen. Und es wirkt  
+**[7171.86s] English:** Der Menschen kommen nicht an OpenClaw heran.  
 **Translation:** 
 
-**[7185.86s] English:** eigentlich ziemlich geradlinig.  
-**Translation:** Vocabulary: eigentlich: 实际上; geradlinig: 直白的; optionen: 选择
+**[7173.86s] English:** They can operate their own Hummer.  
+**Translation:** Vocabulary: hummer: 悍马; menschen: 人类; nicht: 不
 
-**[7187.86s] English:** Aber vermutlich nur, wenn man einen Entwicklerhintergrund  
+**[7175.86s] English:** Because it is technically too complicated.  
 **Translation:** 
 
-**[7189.86s] English:** hat. Also, im Moment  
-**Translation:** Vocabulary: entwicklerhintergrund: 开发背景; vermutlich: 可能
+**[7177.86s] English:** Please make OpenClaw available for all.  
+**Translation:** Vocabulary: technically: 技术上
 
-**[7191.86s] English:** muss man nur eine Zeile ins Terminal eingeben.  
+**[7179.86s] English:** And you have answered,  
 **Translation:** 
 
-**[7193.86s] English:** Genau. Und es gibt auch  
-**Translation:** Vocabulary: eingeben: 输入
-
-**[7195.86s] English:** eine App. Die App  
+**[7181.86s] English:** I am working on it. From my perspective,  
 **Translation:** 
 
-**[7197.86s] English:** macht das für dich, aber es könnte eine,  
+**[7183.86s] English:** There are already several options, and it works.  
+**Translation:** 
+
+**[7185.86s] English:** Eigentlich ziemlich geradlinig.  
+**Translation:** Vocabulary: eigentlich: 实际上; geradlinig: 直截了当
+
+**[7187.86s] English:** Aber, vermutlich nur, wenn man einen Entwickler-Hintergrund hat.  
+**Translation:** 
+
+**[7189.86s] English:** That. Also, at the moment.  
+**Translation:** Vocabulary: vermutlich: 可能
+
+**[7191.86s] English:** One line must be entered into the terminal.  
+**Translation:** 
+
+**[7193.86s] English:** Exactly. And there are also  
+**Translation:** 
+
+**[7195.86s] English:** An app. The app  
+**Translation:** 
+
+**[7197.86s] English:** Macht das für dich, aber es könnte eine,...  
 **Translation:** 
 
 **[7199.86s] English:** aber nicht die beste App sein.  
 **Translation:** 
 
-**[7201.86s] English:** Ja, aber es ist einfach  
+**[7200.00s] English:** Windows App geben. Die App muss.  
 **Translation:** 
 
-**[7203.86s] English:** eine gute App.  
+**[7201.86s] English:** Ja, but it is simple.  
 **Translation:** 
 
-**[7205.86s] English:** Aber nicht einfach  
+**[7202.52s] English:** to be simpler and more popular.  
 **Translation:** 
 
-**[7207.86s] English:** ein  
+**[7203.86s] English:** A good app.  
 **Translation:** 
 
-**[7214.50s] English:** guter  
+**[7204.34s] English:** The configuration should  
+**Translation:** Vocabulary: configuration: 设置
+
+**[7205.86s] English:** Aber nicht einfach.  
+**Translation:** 
+
+**[7206.52s] English:** Vielleicht web-basiert oder in der  
+**Translation:** 
+
+**[7207.86s] English:** Ein  
+**Translation:** 
+
+**[7208.50s] English:** App, please. I have  
+**Translation:** 
+
+**[7210.38s] English:** To start, but honestly  
+**Translation:** 
+
+**[7212.74s] English:** Möchte ich mich jetzt auf ein paar  
+**Translation:** 
+
+**[7214.50s] English:** Guter.  
+**Translation:** 
+
+**[7214.74s] English:** Security aspects concentrate  
 **Translation:** 
 
 **[7215.86s] English:** Ersatz,  
 **Translation:** 
 
-**[7217.86s] English:** aber  
+**[7216.86s] English:** Und  
 **Translation:** Vocabulary: ersatz: 替代品
 
-**[7219.86s] English:** die  
+**[7217.86s] English:** aber,  
 **Translation:** 
 
-**[7221.86s] English:** beste  
+**[7218.14s] English:** Sobald ich da sicher bin,  
+**Translation:** 
+
+**[7219.86s] English:** Die.  
+**Translation:** 
+
+**[7221.52s] English:** That it is so secure,  
+**Translation:** 
+
+**[7221.86s] English:** Beste  
+**Translation:** 
+
+**[7222.84s] English:** That I could recommend it to my mother,  
 **Translation:** 
 
 **[7223.86s] English:** App  
 **Translation:** 
 
-**[7225.86s] English:** ist  
+**[7224.88s] English:** I will make it simpler.  
+**Translation:** 
+
+**[7225.86s] English:** Is it  
+**Translation:** 
+
+**[7226.84s] English:** At the moment...  
 **Translation:** 
 
 **[7227.86s] English:** OpenClaw.  
 **Translation:** 
 
-**[7200.00s] English:** Windows-App geben. Die App muss  
+**[7228.16s] English:** Du willst es schwieriger machen, damit es funktioniert.  
+**Translation:** Vocabulary: funktioniert: 运行; machen: 让; schwieriger: 更难
+
+**[7230.62s] English:** Not so quicklyescalates.  
 **Translation:** 
 
-**[7202.52s] English:** einfacher und beliebter sein.  
+**[7232.42s] English:** Ja, it would be nice if it didn't...  
+**Translation:** Vocabulary: quicklyescalates: 迅速升级
+
+**[7234.78s] English:** Also, that's hard to say, or?  
 **Translation:** 
 
-**[7204.34s] English:** Die Konfiguration sollte  
-**Translation:** Vocabulary: beliebter: 更受欢迎; konfiguration: 配置
-
-**[7206.52s] English:** vielleicht webbasiert oder in der  
+**[7237.48s] English:** Aber,  
 **Translation:** 
 
-**[7208.50s] English:** App sein. Ich habe  
-**Translation:** Vocabulary: webbasiert: 基于网页
-
-**[7210.38s] English:** damit angefangen, aber ehrlich gesagt  
+**[7237.80s] English:** When the growth were a bit slower,  
 **Translation:** 
 
-**[7212.74s] English:** möchte ich mich jetzt auf ein paar  
-**Translation:** Vocabulary: angefangen: 开始; ehrlich: 诚实
-
-**[7214.74s] English:** Sicherheitsaspekte konzentrieren  
+**[7241.24s] English:** Would that help, because the  
 **Translation:** 
 
-**[7216.86s] English:** und  
-**Translation:** Vocabulary: konzentrieren: 集中; sicherheitsaspekte: 安全方面
-
-**[7218.14s] English:** sobald ich da sicher bin,  
+**[7242.56s] English:** People from a single person.  
 **Translation:** 
 
-**[7221.52s] English:** dass es so sicher ist,  
+**[7244.22s] English:** Expect superhuman things.  
 **Translation:** 
 
-**[7222.84s] English:** dass ich es meiner Mutter empfehlen könnte,  
+**[7246.78s] English:** Und ja, ich habe ein paar.  
 **Translation:** 
 
-**[7224.88s] English:** werde ich es einfacher machen.  
-**Translation:** Vocabulary: einfacher: 更简单; empfehlen: 推荐; machen: 做
-
-**[7226.84s] English:** Im Moment...  
-**Translation:** 
-
-**[7228.16s] English:** Du willst es schwieriger machen, damit es  
-**Translation:** Vocabulary: schwieriger: 更加困难
-
-**[7230.62s] English:** nicht so schnell eskaliert.  
-**Translation:** 
-
-**[7232.42s] English:** Ja, es wäre schön, wenn es nicht...  
-**Translation:** Vocabulary: eskaliert: 升级; schnell: 快速
-
-**[7234.78s] English:** Also das ist schwer zu sagen, oder?  
-**Translation:** 
-
-**[7237.48s] English:** Aber  
-**Translation:** 
-
-**[7237.80s] English:** wenn das Wachstum ein bisschen langsamer wäre,  
-**Translation:** 
-
-**[7241.24s] English:** würde das helfen, weil die  
-**Translation:** Vocabulary: langsamer: 较慢的; wachstum: 增长
-
-**[7242.56s] English:** Leute von einem einzelnen Menschen  
-**Translation:** 
-
-**[7244.22s] English:** übermenschliche Dinge erwarten.  
-**Translation:** Vocabulary: einzelnen: 单独的; erwarten: 期望
-
-**[7246.78s] English:** Und ja, ich habe ein paar  
-**Translation:** 
-
-**[7248.54s] English:** Mitwirkende, aber diese ganze  
+**[7248.54s] English:** Mitwirkende, but this whole  
 **Translation:** Vocabulary: mitwirkende: 参与者
 
-**[7250.38s] English:** Maschinerie habe ich erst vor einer Woche gestartet.  
+**[7250.38s] English:** Machine, I started only a week ago.  
 **Translation:** 
 
 **[7254.04s] English:** Das braucht  
-**Translation:** Vocabulary: gestartet: 启动; maschinerie: 机械设备
+**Translation:** Vocabulary: braucht: 需要
 
-**[7254.78s] English:** einfach Zeit, um sich einzuspielen.  
+**[7254.78s] English:** It's just time to get settled in.  
 **Translation:** 
 
-**[7256.06s] English:** Und nicht jeder kann den ganzen Tag daran arbeiten.  
-**Translation:** Vocabulary: arbeiten: 工作; einzuspielen: 适应
-
-**[7259.74s] English:** Es hören hier auch  
+**[7256.06s] English:** Not everyone can work on it all day.  
 **Translation:** 
 
-**[7260.74s] English:** einige Anfänger zu. Menschen, die gerade  
+**[7259.74s] English:** Here they also listen.  
 **Translation:** 
 
-**[7262.78s] English:** erst mit dem Programmieren beginnen.  
+**[7260.74s] English:** Some beginners. People who are just  
 **Translation:** 
 
-**[7264.60s] English:** Welchen Rat würdest du ihnen geben,  
-**Translation:** Vocabulary: beginnen: 开始; programmieren: 编程
-
-**[7266.84s] English:** wenn es darum geht, in diese  
+**[7262.78s] English:** First, start with programming.  
 **Translation:** 
 
-**[7268.24s] English:** agentische KI-Revolution  
-**Translation:** Vocabulary: agentische: 代理型的
-
-**[7270.24s] English:** einzusteigen?  
+**[7264.60s] English:** What advice would you give them?  
 **Translation:** 
 
-**[7272.32s] English:** Spiel. Spielen ist die beste Methode zu lernen.  
-**Translation:** Vocabulary: einzusteigen: 入门; spiel: 游戏
-
-**[7275.30s] English:** Wenn du ein bisschen ein Erbauer bist  
+**[7266.84s] English:** When it comes to entering into this,  
 **Translation:** 
 
-**[7276.68s] English:** und eine Idee im Kopf hast,  
+**[7268.24s] English:** Agentische AI-Revolution  
+**Translation:** Vocabulary: agentische: 代理的
+
+**[7270.24s] English:** To einsteigen?  
 **Translation:** 
 
-**[7278.42s] English:** die du umsetzen möchtest,  
+**[7272.32s] English:** Play. Playing is the best method to learn.  
+**Translation:** Vocabulary: einsteigen: 上车
+
+**[7275.30s] English:** When you are a little bit of a builder,  
 **Translation:** 
 
-**[7280.38s] English:** dann mach es einfach. Gib dem eine Chance.  
-**Translation:** Vocabulary: umsetzen: 实施
-
-**[7283.36s] English:** Es muss nicht perfekt sein.  
+**[7276.68s] English:** And if you have an idea in your head,  
 **Translation:** 
 
-**[7284.78s] English:** Ich habe viele Sachen gebaut, die ich nicht perfekt mache.  
-**Translation:** Vocabulary: mache: 制作
-
-**[7286.06s] English:** Die ich benutze. Es spielt keine Rolle, denn es geht  
+**[7278.42s] English:** You want to implement, but die you want to implement,  
 **Translation:** 
 
-**[7288.00s] English:** um die Reise, weißt du. Es ist eine  
+**[7280.38s] English:** Dann mach es einfach. Gib ihm eine Chance.  
+**Translation:** Vocabulary: einfach: 简单; implement: 实施
+
+**[7283.36s] English:** It doesn't have to be perfect.  
 **Translation:** 
 
-**[7289.90s] English:** philosophische Sichtweise,  
+**[7284.78s] English:** I have built many things that I do not make perfect.  
 **Translation:** 
 
-**[7291.60s] English:** dass das Ende nicht das Wichtigste ist,  
-**Translation:** Vocabulary: nicht: 不是; philosophische: 哲学的; sichtweise: 观点; wichtigste: 最重要
-
-**[7294.28s] English:** sondern die Reise zählt.  
+**[7286.06s] English:** Die ich benutze. Es spielt keine Rolle, denn es geht...  
 **Translation:** 
 
-**[7296.78s] English:** Viel Spaß.  
+**[7288.00s] English:** Um die Reise, weißt du, es ist eine.  
+**Translation:** Vocabulary: benutze: 使用
+
+**[7289.90s] English:** Philosophical viewpoint,  
+**Translation:** 
+
+**[7291.60s] English:** That the end is not the most important thing is  
+**Translation:** Vocabulary: philosophical: 哲学的; viewpoint: 观点
+
+**[7294.28s] English:** But the journey counts.  
+**Translation:** 
+
+**[7296.78s] English:** Viel Spaß!  
 **Translation:** 
 
 **[7297.76s] English:** Mein Gott. Diese Dinge,  
 **Translation:** 
 
-**[7299.84s] English:** ich glaube nicht, dass ich jemals so viel Spaß beim  
+**[7299.84s] English:** I don't believe I have ever had so much fun at  
 **Translation:** Vocabulary: dinge: 东西
 
-**[7301.82s] English:** Entwickeln hatte, weil ich mich jetzt auf die schwierigen Teile  
+**[7301.82s] English:** Developing it, because I am now focusing on the difficult parts.  
 **Translation:** 
 
-**[7303.88s] English:** konzentrieren kann.  
-**Translation:** Vocabulary: entwickeln: 开发; schwierigen: 困难
+**[7303.88s] English:** Konzentrieren kann.  
+**Translation:** Vocabulary: konzentrieren: 集中注意力
 
-**[7305.72s] English:** Viel programmieren. Ich dachte immer,  
+**[7305.72s] English:** Vielen Programmieren. Ich dachte immer,  
 **Translation:** 
 
-**[7308.14s] English:** ich mag programmieren,  
-**Translation:** 
+**[7308.14s] English:** I like programming,  
+**Translation:** Vocabulary: programmieren: 编程
 
-**[7309.60s] English:** aber eigentlich mag ich das erschaffen.  
+**[7309.60s] English:** But actually, I like creating.  
 **Translation:** 
 
 **[7313.08s] English:** Frag einfach,  
-**Translation:** Vocabulary: eigentlich: 实际上; erschaffen: 创造
-
-**[7313.74s] English:** wenn du etwas nicht verstehst.  
 **Translation:** 
 
-**[7316.06s] English:** Du hast einen unendlich geduldigen  
-**Translation:** Vocabulary: etwas: 某些事情; geduldigen: 耐心的; unendlich: 无限的; verstehst: 理解
-
-**[7318.32s] English:** Anrufbeantworter.  
+**[7313.74s] English:** When you do not understand something.  
 **Translation:** 
 
-**[7320.00s] English:** der dir alles auf jeder Komplexitätsstufe erklären kann.  
-**Translation:** Vocabulary: anrufbeantworter: 自动语音应答机
-
-**[7323.26s] English:** Manchmal habe ich einfach gesagt, erklär mir das so, als wäre ich acht Jahre alt.  
+**[7316.06s] English:** You have an infinitely patient  
 **Translation:** 
 
-**[7326.98s] English:** Und dann kam eine Geschichte mit Buntstiften und so weiter.  
-**Translation:** Vocabulary: buntstiften: 彩色铅笔; geschichte: 故事; manchmal: 有时候
-
-**[7329.52s] English:** Und ich dachte, ja, nein, nicht so.  
+**[7318.32s] English:** Answering Machine.  
 **Translation:** 
 
-**[7331.88s] English:** Also habe ich gesagt, naja, okay, heb das Alter ein bisschen an.  
-**Translation:** Vocabulary: bisschen: 一点
+**[7320.00s] English:** That can explain everything at every level of complexity.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[7335.50s] English:** Ich brauchte nur eine einfachere Erklärung für ein kniffliges Datenbankkonzept.  
+**[7323.26s] English:** Sometimes I have just said, explain it to me as if I were eight years old.  
+**Translation:** 
+
+**[7326.98s] English:** Then came a story with crayons and so on.  
+**Translation:** Vocabulary: crayons: 彩色蜡笔
+
+**[7329.52s] English:** I thought, yes, no, not like that.  
+**Translation:** 
+
+**[7331.88s] English:** Also, I said, well, okay, I bumped up the age a bit.  
+**Translation:** Vocabulary: bumped: 提高
+
+**[7335.50s] English:** I needed only a simpler explanation for a tricky database concept.  
 **Translation:** 
 
 **[7340.38s] English:** Das ich beim ersten Mal nicht verstanden habe.  
-**Translation:** Vocabulary: brauchte: 需要; einfachere: 简单的; kniffliges: 复杂的; verstanden: 理解
+**Translation:** Vocabulary: nicht: 不; tricky: 棘手的; verstanden: 理解
 
 **[7342.96s] English:** Aber man kann einfach fragen.  
 **Translation:** 
 
-**[7346.02s] English:** Früher musste ich auf Stack Overflow gehen oder auf Twitter fragen  
-**Translation:** Vocabulary: overflow: 溢出问题
+**[7346.02s] English:** Earlier, I had to go to Stack Overflow or Twitter for help.  
+**Translation:** Vocabulary: overflow: 溢出
 
-**[7348.66s] English:** und vielleicht zwei Tage später kam eine Antwort.  
+**[7348.66s] English:** And perhaps two days later, a response came.  
 **Translation:** 
 
-**[7352.62s] English:** Oder ich musste stundenlang selbst herumprobieren.  
-**Translation:** Vocabulary: herumprobieren: 胡乱尝试; stundenlang: 数小时; vielleicht: 也许
+**[7352.62s] English:** I had toperiment for hours on my own.  
+**Translation:** Vocabulary: toperiment: 尝试
 
-**[7357.08s] English:** Und heute kannst du einfach direkt fragen.  
+**[7357.08s] English:** Und heute, you can simply ask directly.  
 **Translation:** 
 
-**[7360.20s] English:** Es ist fast so, als hättest du deinen eigenen Lehrer.  
-**Translation:** Vocabulary: lehrer: 老师
-
-**[7362.90s] English:** Es gibt ja Studien, die zeigen, dass man schneller lernt,  
+**[7360.20s] English:** It is almost as if you have your own teacher.  
 **Translation:** 
 
-**[7366.76s] English:** wenn man persönliche Betreuung hat.  
-**Translation:** Vocabulary: betreuung: 个人照顾; schneller: 更快
-
-**[7368.86s] English:** Und hier hast du eine unendlich geduldige Maschine.  
+**[7362.90s] English:** There are studies that show that one learns faster,  
 **Translation:** 
 
-**[7372.00s] English:** Also frag sie einfach.  
-**Translation:** Vocabulary: geduldige: 耐心; maschine: 机器
-
-**[7373.36s] English:** Aber was würdest du sagen?  
+**[7366.76s] English:** When personal care is available.  
 **Translation:** 
 
-**[7374.76s] English:** Was ist der einfachste Weg, um damit zu spielen?  
-**Translation:** Vocabulary: einfachste: 最简单的
-
-**[7377.00s] English:** Vielleicht ist OpenClaw eine gute Maschine,  
+**[7368.86s] English:** Here, you have an infinitely patient machine.  
 **Translation:** 
 
-**[7378.68s] English:** eine Möglichkeit zum Ausprobieren, weil du alles einrichtest  
-**Translation:** Vocabulary: ausprobieren: 尝试; einrichtest: 布置
-
-**[7381.00s] English:** und dann einfach damit chatten kannst.  
+**[7372.00s] English:** Also feel free.  
 **Translation:** 
 
-**[7383.06s] English:** Du kannst auch einfach damit experimentieren und es verändern.  
-**Translation:** Vocabulary: experimentieren: 尝试
-
-**[7386.18s] English:** Frag deinen Agent.  
+**[7373.36s] English:** But what would you say?  
 **Translation:** 
 
-**[7387.78s] English:** Ich meine, es gibt unendlich viele Wege,  
+**[7374.76s] English:** What is the simplest way to play with it?  
 **Translation:** 
 
-**[7391.26s] English:** wie man es noch besser machen kann.  
+**[7377.00s] English:** Maybe OpenClaw is a good machine,  
 **Translation:** 
 
-**[7396.08s] English:** Spiel herum, mach es besser.  
-**Translation:** Vocabulary: machen: 改进; spiel: 游戏
+**[7378.68s] English:** A possibility to experiment because you set everything up.  
+**Translation:** 
+
+**[7381.00s] English:** And then you can chat with it simply.  
+**Translation:** 
+
+**[7383.06s] English:** You can also simply experiment with it and change it.  
+**Translation:** 
+
+**[7386.18s] English:** Frag deinen Agenten.  
+**Translation:** 
+
+**[7387.78s] English:** I mean, there are infinitely many ways,  
+**Translation:** Vocabulary: agenten: 特工; infinitely: 无穷地
+
+**[7391.26s] English:** How it can be made even better.  
+**Translation:** 
+
+**[7396.08s] English:** Play around with it, make it better.  
+**Translation:** 
 
 **[7399.22s] English:** Allgemein gesagt, wenn du Anfänger bist und wirklich schnell lernen möchtest,  
 **Translation:** 
 
-**[7403.56s] English:** wie man Software entwickelt, bring dich in Open-Source-Projekte ein.  
-**Translation:** Vocabulary: allgemein: 一般; entwickelt: 开发; schnell: 快速; wirklich: 真正
+**[7403.56s] English:** How to develop software, get involved in open-source projects.  
+**Translation:** Vocabulary: allgemein: 一般; schnell: 快速; wirklich: 真正
 
-**[7406.84s] English:** Es muss nicht mein Projekt sein.  
+**[7406.84s] English:** It does not have to be my project.  
 **Translation:** 
 
-**[7411.42s] English:** Verwende vielleicht nicht mein Projekt, weil mein Backlog sehr groß ist.  
-**Translation:** Vocabulary: backlog: 待处理事项; verwende: 使用
+**[7411.42s] English:** Use my project maybe not because my backlog is very large.  
+**Translation:** Vocabulary: backlog: 待处理事项
 
-**[7417.02s] English:** Aber ich habe so viel von Open-Source gelernt.  
+**[7417.02s] English:** Aber I have learned so much about open-source.  
 **Translation:** 
 
-**[7419.82s] English:** Sei einfach, also sei bescheiden.  
-**Translation:** Vocabulary: bescheiden: 谦虚
+**[7419.82s] English:** Be simple, therefore be humble.  
+**Translation:** Vocabulary: humble: 谦逊
 
-**[7423.58s] English:** Schick vielleicht nicht sofort einen Pull-Request,  
+**[7423.58s] English:** Schick vielleicht nicht sofort einen Pull-Request.  
 **Translation:** 
 
-**[7425.40s] English:** sondern es gibt viele andere Wege, wie du helfen kannst.  
-**Translation:** Vocabulary: nicht: 不; schick: 提交
+**[7425.40s] English:** But there are many other ways in which you can help.  
+**Translation:** Vocabulary: nicht: 不; schick: 发送; vielleicht: 可能
 
-**[7429.46s] English:** Du kannst unglaublich viel lernen, indem du Code liest.  
+**[7429.46s] English:** You can learn incredibly much by reading code.  
 **Translation:** 
 
-**[7432.30s] English:** Auf Discord unterwegs bist oder dort, wo sich die Community trifft  
-**Translation:** Vocabulary: liest: 阅读; unglaublich: 难以置信; unterwegs: 途中
-
-**[7436.04s] English:** und einfach verstehst.  
+**[7432.30s] English:** On Discord while you're on the move or wherever the community meets.  
 **Translation:** 
 
-**[7436.82s] English:** Wie Dinge entwickelt werden.  
-**Translation:** Vocabulary: dinge: 事物; verstehst: 理解
-
-**[7440.00s] English:** Ich weiß nicht, zum Beispiel entwickelt Mitchell Hashimoto Ghosted das Terminal und er hat eine wirklich gute Community. Aber es gibt so viele andere Projekte. Such dir etwas aus, das dich interessiert und bring dich ein.  
+**[7436.04s] English:** Und einfach zu verstehen.  
 **Translation:** 
 
-**[7454.44s] English:** Würdest du Menschen, die nicht programmieren können oder es nur oberflächlich können, empfehlen, trotzdem programmieren zu lernen? Man kommt ja inzwischen ziemlich weit, allein mit natürlicher Sprache, oder? Siehst du trotzdem noch großen Wert darin, Code zu lesen, Code zu verstehen und selbst ein wenig Code von Grund auf schreiben zu können?  
-**Translation:** Vocabulary: beispiel: 例子; darin: 其中; empfehlen: 推荐; etwas: 一些; interessiert: 感兴趣的; inzwischen: 现在; menschen: 人们; programmieren: 编程; projekte: 项目; schreiben: 编写; trotzdem: 仍然; verstehen: 理解; ziemlich: 相当
+**[7436.82s] English:** How things develop.  
+**Translation:** Vocabulary: einfach: 简单; verstehen: 理解
 
-**[7478.50s] English:** Es hilft auf jeden Fall.  
+**[7440.00s] English:** Ich weiß nicht, zum Beispiel entwickelt Mitchell Hashimoto "Ghosted" das Terminal und er hat eine wirklich gute Community. Aber es gibt so viele andere Projekte. Such dir etwas aus, das dich interessiert, und bring dich ein.  
 **Translation:** 
 
-**[7479.60s] English:** Es ist wahrscheinlich schwer für dich, das zu beantworten, weil du gar nicht weißt, wie es ist.  
-**Translation:** Vocabulary: beantworten: 回答; wahrscheinlich: 可能
+**[7454.44s] English:** Would you recommend that people who cannot program or can only do it superficially still learn to program? After all, one can now go quite far just with natural language, or? Don't you still place a great value on reading code, understanding code, and even writing some code from scratch yourself?  
+**Translation:** Vocabulary: beispiel: 例子
+
+**[7478.50s] English:** It helps, of course.  
+**Translation:** 
+
+**[7479.60s] English:** It is probably hard for you to answer that because you simply don't know what it's like.  
+**Translation:** 
 
 **[7484.44s] English:** Ja.  
 **Translation:** 
 
-**[7485.32s] English:** All das ohne dieses Grundwissen zu machen. Vielleicht unterschätzt du, wie viel Intuition du über die Programmierwelt aufgebaut hast, einfach weil du so lange programmiert hast, oder?  
-**Translation:** Vocabulary: aufgebaut: 积累; grundwissen: 基础知识; intuition: 直觉; lange: 长久; programmiert: 编程; programmierwelt: 编程世界; vielleicht: 也许
+**[7485.32s] English:** All this without this fundamental knowledge. Maybe you underestimate how much intuition you've built about the programming world simply because you've been programming for so long, or?  
+**Translation:** Vocabulary: intuition: 直觉; underestimate: 低估
 
-**[7494.04s] English:** Es gibt Menschen mit viel Eigeninitiative und großer Neugier und sie kommen erstaunlich weit, obwohl sie kein tiefes Verständnis davon haben, wie Software intern funktioniert. Einfach weil sie immer weiter fragen, weiter fragen, weiter fragen und Agents sind unendlich geduldig.  
+**[7494.04s] English:** There are people with a lot of initiative and great curiosity who come surprisingly far, even though they don't have a deep understanding of how software works internally. Simply because they keep asking questions, keep asking, keep asking, and agents are infinitely patient.  
 **Translation:** 
 
-**[7511.02s] English:** Ein Teil dessen, was ich dieses Jahr gemacht habe, war, auf viele iOS.  
-**Translation:** Vocabulary: davon: 关于此事; eigeninitiative: 自主性; erstaunlich: 令人惊讶; funktioniert: 运作; geduldig: 耐心; intern: 内部; unendlich: 无穷
+**[7511.02s] English:** A part of what I did this year was to develop for many iOS devices.  
+**Translation:** Vocabulary: infinitely: 无穷尽地; internally: 内部地
 
-**[7514.44s] English:** Das ist mein Hintergrund.  
+**[7514.44s] English:** This is my background.  
 **Translation:** 
 
-**[7516.28s] English:** Und den Leuten zu sagen, seht euch nicht mehr nur als iOS-Engineer. Ihr müsst euer Mindset ändern. Ihr seid Entwickler. Und ihr könnt viel von dem Wissen darüber, wie man Software entwickelt, in neue Bereiche übertragen.  
-**Translation:** Vocabulary: bereiche: 领域; entwickler: 开发者; hintergrund: 背景; mindset: 思维模式
+**[7516.28s] English:** To tell people, don't see yourselves only as iOS engineers anymore. You must change your mindset. You are developers, and you can apply a lot of the knowledge about software development to new areas.  
+**Translation:** Vocabulary: mindset: 思维; yourselves: 你们自己
 
-**[7531.10s] English:** Und bei all den feineren Details können Agents helfen.  
+**[7531.10s] English:** And with all those finer details, agents can help.  
 **Translation:** 
 
-**[7536.20s] English:** Du musst nicht wissen, wie man ein Array splicet oder wie die korrekte Template Syntax aussieht oder was auch immer.  
-**Translation:** Vocabulary: aussieht: 看起来; feineren: 更细的; korrekte: 正确的; syntax: 语法; template: 模板
+**[7536.20s] English:** You don't need to know how to splice an array or what the correct template syntax looks like, or whatever else.  
+**Translation:** Vocabulary: splice: 拼接; syntax: 语法; template: 模板
 
-**[7542.58s] English:** Aber du kannst dein allgemeines Verständnis nutzen. Und das macht es viel leichter, von einer Tech-Galaxie in eine andere zu wechseln.  
+**[7542.58s] English:** But you can use your general understanding, and that makes it much easier to switch from one tech galaxy to another.  
 **Translation:** 
 
-**[7551.70s] English:** Oft hängt es auch davon ab, was man entwickelt. Manche Sprachen passen besser, andere weniger.  
-**Translation:** Vocabulary: allgemeines: 一般理解
+**[7551.70s] English:** Oft, es hängt auch davon ab, was man entwickelt. Manche Sprachen passen besser, andere weniger.  
+**Translation:** Vocabulary: davon: 这取决于; entwickelt: 开发的是; galaxy: 技术领域; manche: 一些; sprachen: 语言; weniger: 较少
 
-**[7557.44s] English:** Wenn ich zum Beispiel einfache C, L...  
+**[7557.44s] English:** When I, for example, use simple C, L...,  
 **Translation:** 
 
-**[7560.00s] English:** Ease entwickle, nehme ich gern Go.  
-**Translation:** Vocabulary: einfache: 简单的; entwickle: 开发
-
-**[7562.96s] English:** Eigentlich mag ich Go gar nicht.  
+**[7560.00s] English:** I enjoy developing ease, I'll take Go.  
 **Translation:** 
 
-**[7564.14s] English:** Die Syntax gefällt mir nicht und früher hätte ich die Sprache  
+**[7562.96s] English:** Eigentlich, mag ich Go gar nicht.  
+**Translation:** 
+
+**[7564.14s] English:** The syntax doesn't feel right, and earlier I wouldn't have liked the language.  
 **Translation:** Vocabulary: eigentlich: 实际上; nicht: 不
 
-**[7566.26s] English:** nicht einmal in Betracht gezogen.  
+**[7566.26s] English:** Not even considered.  
 **Translation:** 
 
-**[7568.44s] English:** Aber das Ökosystem ist stark,  
-**Translation:** Vocabulary: betracht: 考虑; stark: 强大
-
-**[7570.06s] English:** es funktioniert gut mit Agents,  
+**[7568.44s] English:** But the ecosystem is strong,  
 **Translation:** 
 
-**[7572.12s] English:** es hat Garbage Collection, es ist nicht die  
+**[7570.06s] English:** It works well with agents,  
 **Translation:** 
 
-**[7574.06s] English:** leistungsstärkste Sprache überhaupt, aber sehr schnell.  
+**[7572.12s] English:** It has Garbage Collection, it is not the  
 **Translation:** 
 
-**[7577.38s] English:** Für diese Art von  
-**Translation:** Vocabulary: schnell: 非常快
-
-**[7578.24s] English:** CL Ease ist Go eine wirklich gute Wahl.  
+**[7574.06s] English:** The strongest language in terms of performance, but very fast.  
 **Translation:** 
 
-**[7581.18s] English:** Also benutze ich eine Sprache,  
-**Translation:** Vocabulary: wirklich: 确实
-
-**[7582.40s] English:** von der ich eigentlich kein großer Fan bin.  
+**[7577.38s] English:** For this type of  
 **Translation:** 
 
-**[7586.20s] English:** Aber dafür nehme ich eigentlich immer Go.  
+**[7578.24s] English:** CL ease is go really a good choice.  
 **Translation:** 
 
-**[7588.26s] English:** Ist es nicht faszinierend,  
+**[7581.18s] English:** Also, I use a language,  
 **Translation:** 
 
-**[7590.30s] English:** dass es hier eine Programmiersprache gibt,  
-**Translation:** Vocabulary: faszinierend: 令人着迷; programmiersprache: 编程语言
-
-**[7591.98s] English:** die du früher nie benutzt hättest, wenn du alles  
+**[7582.40s] English:** Of which I'm actually not a big fan.  
 **Translation:** 
 
-**[7594.14s] English:** selbst von Grund auf schreiben müsstest?  
-**Translation:** Vocabulary: schreiben: 撰写
-
-**[7596.24s] English:** Und jetzt verwendest du sie, da  
+**[7586.20s] English:** Aber dafür, nehme ich eigentlich immer Go.  
 **Translation:** 
 
-**[7598.02s] English:** Large Language Models sie gut generieren können  
-**Translation:** Vocabulary: generieren: 生成; verwendest: 使用
-
-**[7600.06s] English:** und sie Eigenschaften hat, die sie robust machen,  
+**[7588.26s] English:** Is it not fascinating,  
 **Translation:** 
 
-**[7602.52s] English:** etwa Garbage Collection?  
-**Translation:** Vocabulary: eigenschaften: 特性; machen: 使; robust: 健壮
-
-**[7604.36s] English:** Weil in dieser neuen Welt alles seltsam ist  
+**[7590.30s] English:** That there is a programming language here,  
 **Translation:** 
 
-**[7606.24s] English:** und es einfach am meisten Sinn macht.  
+**[7591.98s] English:** Die Dinge, die du früher nie benutzt hättest, wenn du alles gewusst hättest.  
 **Translation:** 
 
-**[7608.22s] English:** Was ist die beste, etwas absurde Frage,  
+**[7594.14s] English:** Should you have to write from scratch?  
+**Translation:** Vocabulary: benutzt: 使用; dinge: 东西; gewusst: 知道; scratch: 从头开始
+
+**[7596.24s] English:** Now you use them, since  
 **Translation:** 
 
-**[7610.46s] English:** Programmiersprache für die Agentic Engineering Welt?  
-**Translation:** Vocabulary: etwas: 一些
-
-**[7612.70s] English:** Ist es JavaScript, TypeScript?  
+**[7598.02s] English:** Large language models can generate well.  
 **Translation:** 
 
-**[7614.98s] English:** TypeScript ist wirklich gut,  
+**[7600.06s] English:** And it has properties that make it robust.  
 **Translation:** 
 
-**[7616.48s] English:** aber  
+**[7602.52s] English:** What about Garbage Collection?  
+**Translation:** Vocabulary: robust: 强壮的
+
+**[7604.36s] English:** Weil, in dieser neuen Welt, alles seltsam ist.  
 **Translation:** 
 
-**[7616.78s] English:** manchmal können die Types  
+**[7606.24s] English:** And it simply makes the most sense.  
+**Translation:** Vocabulary: seltsam: 奇怪的
+
+**[7608.22s] English:** What is the best, somewhat absurd question,  
+**Translation:** 
+
+**[7610.46s] English:** Programming Language for the Agentic Engineering World?  
+**Translation:** Vocabulary: absurd: 荒谬; agentic: 代理性的
+
+**[7612.70s] English:** Is it JavaScript, or TypeScript?  
+**Translation:** 
+
+**[7614.98s] English:** TypeScript is really good,  
+**Translation:** 
+
+**[7616.48s] English:** aber,  
+**Translation:** 
+
+**[7616.78s] English:** Manchmal können die Typen  
 **Translation:** Vocabulary: manchmal: 有时候
 
-**[7622.52s] English:** ziemlich verwirrend werden  
+**[7622.52s] English:** This is rather confusing.  
 **Translation:** 
 
-**[7623.96s] English:** und das Ökosystem ist  
-**Translation:** Vocabulary: verwirrend: 令人困惑; ziemlich: 相当
-
-**[7626.50s] English:** ein Dschungel.  
+**[7623.96s] English:** And the ecosystem is  
 **Translation:** 
 
-**[7628.78s] English:** Für Web-Sachen ist es gut,  
-**Translation:** Vocabulary: dschungel: 丛林
-
-**[7631.64s] English:** aber ich würde  
+**[7626.50s] English:** A jungle.  
 **Translation:** 
 
-**[7632.30s] English:** nicht alles darin entwickeln.  
-**Translation:** Vocabulary: darin: 其中; entwickeln: 开发
-
-**[7635.00s] English:** Glaubst du nicht,  
+**[7628.78s] English:** For web stuff, it's good,  
 **Translation:** 
 
-**[7636.32s] English:** dass wir uns genau dorthin bewegen,  
+**[7631.64s] English:** Aber ich würde.  
 **Translation:** 
 
-**[7637.80s] English:** dass am Ende alles in JavaScript geschrieben wird  
+**[7632.30s] English:** Not everything can be developed in it.  
 **Translation:** 
 
-**[7639.98s] English:** oder irgendwann geschrieben ist?  
-**Translation:** Vocabulary: geschrieben: 编写; irgendwann: 某时
-
-**[7642.24s] English:** Die Tode und Wiedergeburten von JavaScript  
+**[7635.00s] English:** Do you not believe,  
 **Translation:** 
 
-**[7644.12s] English:** und wir erleben das gerade in Echtzeit.  
-**Translation:** Vocabulary: echtzeit: 实时; wiedergeburten: 重生
+**[7636.32s] English:** That is exactly where we are moving.  
+**Translation:** 
 
-**[7645.98s] English:** Wie sieht Programmieren in 20 Jahren aus?  
+**[7637.80s] English:** That at the end, everything is written in JavaScript.  
+**Translation:** 
+
+**[7639.98s] English:** Is it written down somewhere?  
+**Translation:** 
+
+**[7642.24s] English:** The Deaths and Rebirths of JavaScript  
+**Translation:** 
+
+**[7644.12s] English:** And we are experiencing this right now in real time.  
+**Translation:** 
+
+**[7645.98s] English:** How will programming look like in 20 years?  
 **Translation:** 
 
 **[7647.98s] English:** In 30? In 40?  
-**Translation:** Vocabulary: programmieren: 编写程序
+**Translation:** 
 
-**[7649.98s] English:** Wie sehen Programme und Apps dann aus?  
+**[7649.98s] English:** How do programs and apps then look like?  
 **Translation:** 
 
 **[7651.98s] English:** Man kann sogar fragen,  
 **Translation:** 
 
-**[7653.98s] English:** brauchen wir eine Programmiersprache,  
+**[7653.98s] English:** We need a programming language,  
 **Translation:** 
 
-**[7655.98s] English:** die speziell für Agents gemacht ist?  
-**Translation:** Vocabulary: brauchen: 需要; speziell: 专门
-
-**[7657.98s] English:** Denn all diese Sprachen sind für Menschen entworfen.  
+**[7655.98s] English:** Is it specifically made for agents?  
 **Translation:** 
 
-**[7659.98s] English:** Wie würde so etwas überhaupt aussehen?  
-**Translation:** Vocabulary: aussehen: 看起来; entworfen: 设计; menschen: 人类; sprachen: 语言
-
-**[7661.98s] English:** Ich glaube,  
+**[7657.98s] English:** Denn all these languages are designed for humans.  
 **Translation:** 
 
-**[7663.98s] English:** da gibt es eine ganze Reihe spannender Fragen,  
-**Translation:** Vocabulary: spannender: 更引人入胜的
-
-**[7665.98s] English:** die wir noch entdecken werden.  
+**[7659.98s] English:** How would something like that even look?  
 **Translation:** 
 
-**[7667.98s] English:** Und auch die Frage,  
+**[7661.98s] English:** I believe,  
 **Translation:** 
 
-**[7669.98s] English:** wie sich alles entwickelt,  
+**[7663.98s] English:** There is a whole range of exciting questions,  
 **Translation:** 
 
-**[7671.98s] English:** wenn inzwischen so vieles Weltwissen ist.  
-**Translation:** Vocabulary: entwickelt: 发展; inzwischen: 如今; weltwissen: 世界知识
-
-**[7673.98s] English:** In gewisser Weise könnte es zu einer Stagnation kommen,  
+**[7665.98s] English:** We will discover them still.  
 **Translation:** 
 
-**[7675.98s] English:** denn wenn du etwas völlig Neues entwickelst  
-**Translation:** Vocabulary: entwickelst: 开发; stagnation: 停滞
-
-**[7677.98s] English:** und der Agent keinerlei Kontext dazugeben hat,  
+**[7667.98s] English:** And also the question,  
 **Translation:** 
 
-**[7679.98s] English:** dann kann man sich auch immer wieder  
-**Translation:** Vocabulary: dazugeben: 提供; keinerlei: 任何
-
-**[7691.98s] English:** immer wieder in die Zeit einstellen.  
+**[7669.98s] English:** How everything develops,  
 **Translation:** 
 
-**[7693.98s] English:** In der nächsten Woche  
+**[7671.98s] English:** When there is so much world knowledge now.  
 **Translation:** 
 
-**[7695.98s] English:** sehen wir uns in der nächsten Woche wieder.  
+**[7673.98s] English:** In a certain sense, it could lead to stagnation.  
+**Translation:** 
+
+**[7675.98s] English:** 邓恩_when you develop something completely new,  
+**Translation:** Vocabulary: stagnation: 停滞不前
+
+**[7677.98s] English:** And since the agent has provided no context,  
+**Translation:** 
+
+**[7679.98s] English:** Dann, man kann sich auch immer wieder  
+**Translation:** 
+
+**[7680.00s] English:** That is much harder to use than something that already exists. When I  
+**Translation:** 
+
+**[7684.80s] English:** Mac Apps develop, I make that in Swift and SwiftUI partly, because I  
+**Translation:** 
+
+**[7688.68s] English:** Obviously, they enjoy pain. Partly because I only find the deepest system integration there.  
+**Translation:** 
+
+**[7691.98s] English:** To set the clock back again.  
+**Translation:** 
+
+**[7693.98s] English:** In the next week,  
+**Translation:** 
+
+**[7694.66s] English:** I bekommen und man merkt, klar, einen Unterschied, wenn man auf eine Electron-App.  
+**Translation:** Vocabulary: bekommen: 获得; unterschied: 区别
+
+**[7695.98s] English:** See you next week.  
 **Translation:** 
 
 **[7697.98s] English:** Bis dann!  
 **Translation:** 
 
-**[7680.00s] English:** hat, ist es viel schwerer zu nutzen als etwas, das bereits existiert. Wenn ich  
+**[7699.60s] English:** Click and they will load a web view in the menu. It is not the same.  
 **Translation:** 
 
-**[7684.80s] English:** Mac-Apps entwickle, mache ich das in Swift und SwiftUI teilweise, weil ich  
-**Translation:** Vocabulary: entwickle: 开发; existiert: 存在; mache: 做; schwerer: 更难; teilweise: 部分地
+**[7704.90s] English:** Manchmal probiere ich auch einfach neue Sprachen aus, nur um ein Gefühl dafür.  
+**Translation:** Vocabulary: einfach: 简单; manchmal: 有时; probiere: 尝试; sprachen: 语言
 
-**[7688.68s] English:** offenbar Schmerz mag. Teilweise, weil ich nur dort die tiefste Systemintegration  
+**[7711.70s] English:** To get it. If it's something where performance is very important to me and  
 **Translation:** 
 
-**[7694.66s] English:** bekomme und man merkt klar einen Unterschied, wenn man auf eine Electron-App  
-**Translation:** Vocabulary: offenbar: 明显; schmerz: 疼痛; systemintegration: 系统集成; unterschied: 区别
-
-**[7699.60s] English:** klickt und sie im Menü einfach eine Webview lädt. Es ist nicht dasselbe.  
+**[7716.56s] English:** The language appears interesting. My agents have been active in the last six months.  
 **Translation:** 
 
-**[7704.90s] English:** Manchmal probiere ich auch einfach neue Sprachen aus, nur um ein Gefühl dafür  
-**Translation:** Vocabulary: dasselbe: 一样; nicht: 不; probiere: 尝试
-
-**[7711.70s] English:** zu bekommen. Wenn es etwas ist, bei dem mir Performance sehr wichtig ist und  
+**[7722.08s] English:** So much better become, from rather not really good to an absolutely usable.  
 **Translation:** 
 
-**[7716.56s] English:** die Sprache interessant wirkt. Meine Agents sind in den letzten sechs Monaten  
-**Translation:** Vocabulary: bekommen: 获得; interessant: 有趣
+**[7726.12s] English:** Option. It is just a very young ecosystem, and most of the time that's what matters.  
+**Translation:** Vocabulary: usable: 可用的
 
-**[7722.08s] English:** so viel besser geworden, von eher nicht wirklich gut zu einer absolut brauchbaren  
+**[7734.26s] English:** Ecosystem.  
 **Translation:** 
 
-**[7726.12s] English:** Option. Es ist nur noch ein sehr junges Ökosystem und meistens zählt eben das  
-**Translation:** Vocabulary: brauchbaren: 可用的; geworden: 变得; meistens: 通常; wirklich: 真正地
+**[7734.90s] English:** When you develop something that makes inference or generally in that direction,  
+**Translation:** Vocabulary: inference: 推断
 
-**[7734.26s] English:** Ökosystem.  
+**[7741.80s] English:** Model implementation goes well, then Python is a very good choice. But if I were to suggest something else,  
 **Translation:** 
 
-**[7734.90s] English:** Wenn du also etwas entwickelst, das Inference macht oder generell in Richtung  
-**Translation:** Vocabulary: etwas: 一些; generell: 一般地; inference: 推断; richtung: 方向
+**[7748.10s] English:** In Python develop and later publish it effortlessly on Windows.  
+**Translation:** Vocabulary: effortlessly: 轻松地; implementation: 实现
 
-**[7741.80s] English:** Modellausführung geht, dann ist Python eine sehr gute Wahl. Aber wenn ich etwas  
+**[7751.38s] English:** Will, is that often not a good choice? Sometimes I have found projects that  
 **Translation:** 
 
-**[7748.10s] English:** in Python entwickle und es später problemlos auf Windows veröffentlichen  
+**[7755.40s] English:** 90 percent of what I wanted could be done, but they were in Python.  
 **Translation:** 
 
-**[7751.38s] English:** will, ist das oft keine gute Wahl. Manchmal habe ich Projekte gefunden, die  
+**[7759.02s] English:** Written, and I wanted to do something for Windows. Also, okay, I'll write it anyway.  
 **Translation:** 
 
-**[7755.40s] English:** 90 Prozent von dem konnten, was ich wollte. Aber sie waren in Python  
-**Translation:** Vocabulary: gefunden: 找到; manchmal: 有时; projekte: 项目
-
-**[7759.02s] English:** geschrieben und ich wollte etwas für Windows. Also, okay, ich schreibe es eben  
+**[7764.44s] English:** In Go.  
 **Translation:** 
 
-**[7764.44s] English:** in Go.  
-**Translation:** Vocabulary: geschrieben: 撰写; schreibe: 正在写
-
-**[7764.90s] English:** Wenn du dagegen mit vielen Threads arbeitest und mehr Performance willst, ist Rust eine  
+**[7764.90s] English:** When you work with many threads and want better performance, Rust is a  
 **Translation:** 
 
-**[7771.04s] English:** sehr gute Wahl. Es gibt einfach keine eine richtige Antwort. Und genau das ist auch  
-**Translation:** Vocabulary: arbeitest: 工作; richtige: 正确
+**[7771.04s] English:** Sehr gute Wahl. Es gibt einfach keine richtige Antwort. Und genau das ist auch.  
+**Translation:** Vocabulary: antwort: 回答; richtige: 正确的; threads: 线程
 
-**[7774.92s] English:** das Schöne daran. Es macht Spaß. Und inzwischen ist es eigentlich egal. Du kannst dir einfach  
+**[7774.92s] English:** The beauty of it. It's fun. And now, it's actually okay. You can simply  
 **Translation:** 
 
-**[7780.98s] English:** die Sprache aussuchen, die für dein Problem die passenden Eigenschaften und das richtige  
-**Translation:** Vocabulary: aussuchen: 选择; eigenschaften: 特性; eigentlich: 其实; passenden: 合适的
-
-**[7786.38s] English:** Ökosystem hat. Ja, vielleicht liest du den Code am Anfang etwas langsamer, aber nicht  
+**[7780.98s] English:** Choose the language that has the most suitable properties and accuracy for your problem, please.  
 **Translation:** 
 
-**[7793.24s] English:** wirklich.  
-**Translation:** Vocabulary: langsamer: 更慢; liest: 读; vielleicht: 可能
+**[7786.38s] English:** Ökosystem hat. Ja, vielleicht liest du den Code am Anfang etwas langsamer, aber nicht.  
+**Translation:** 
 
-**[7793.62s] English:** Man kommt schnell rein. Und du kannst deinen Agent jederzeit fragen.  
+**[7793.24s] English:** Wirklich.  
+**Translation:** Vocabulary: etwas: 一些; langsamer: 更慢; liest: 读; nicht: 不; vielleicht: 可能; wirklich: 真正地
+
+**[7793.62s] English:** Man kommt schnell rein. Und du kannst deinem Agenten jederzeit fragen.  
 **Translation:** 
 
 **[7798.40s] English:** Ja.  
-**Translation:** Vocabulary: jederzeit: 任何时候; schnell: 快速
+**Translation:** Vocabulary: agenten: 经纪人; jederzeit: 随时; schnell: 快速
 
 **[7799.96s] English:** Ja.  
 **Translation:** 
+
+**[7800.00s] English:** Also, there are many developers and programmers who are inspired by your story,  
+**Translation:** Vocabulary: programmers: 程序员
 
 **[7801.06s] English:** Ja.  
 **Translation:** 
@@ -7021,6 +7025,9 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[7806.96s] English:** Ja.  
 **Translation:** 
 
+**[7807.12s] English:** Of the way you present yourself, and your decision to publish OpenClaw as open source.  
+**Translation:** 
+
 **[7807.96s] English:** Ja.  
 **Translation:** 
 
@@ -7040,6 +7047,9 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **Translation:** 
 
 **[7813.96s] English:** Ja.  
+**Translation:** 
+
+**[7814.88s] English:** Of the kind that you have when it comes to enjoying development and discovery, mostly on your own or with a small, manageable team.  
 **Translation:** 
 
 **[7814.96s] English:** Ja.  
@@ -7066,446 +7076,437 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[7821.96s] English:** Ja.  
 **Translation:** 
 
-**[7800.00s] English:** Also, es gibt viele Entwickler und Programmierer, die sich von deiner Geschichte inspirieren lassen,  
-**Translation:** Vocabulary: entwickler: 开发者; geschichte: 故事; inspirieren: 启发; programmierer: 程序员
-
-**[7807.12s] English:** von der Art, wie du auftrittst, von deiner Entscheidung, OpenClaw als Open Source zu veröffentlichen.  
+**[7823.82s] English:** Also, as advice, which key metric should one actually optimize?  
 **Translation:** 
 
-**[7814.88s] English:** Von der Art, wie du Spaß am Entwickeln und Entdecken hast, größtenteils selbst oder in einem überschaubaren Team.  
-**Translation:** Vocabulary: auftrittst: 表现; entdecken: 发现; entscheidung: 决定; entwickeln: 开发
+**[7828.02s] English:** What is the standard for success? Is it happiness? Is it money?  
+**Translation:** Vocabulary: metric: 衡量标准; optimize: 优化
 
-**[7823.82s] English:** Also, als Rat, welche Kennzahl sollte man eigentlich optimieren?  
+**[7833.78s] English:** Is it a positive influence on others who dream of developing something themselves?  
 **Translation:** 
 
-**[7828.02s] English:** Was ist der Maßstab für Erfolg? Ist es Glück? Ist es Geld?  
-**Translation:** Vocabulary: kennzahl: 指标; optimieren: 优化
-
-**[7833.78s] English:** Ist es positiver Einfluss auf andere, die davon träumen, selbst etwas zu entwickeln?  
+**[7839.50s] English:** Because you have taken an interesting path, and you have achieved much.  
 **Translation:** 
 
-**[7839.50s] English:** Denn du bist einen interessanten Weg gegangen. Du hast vieles davon erreicht.  
-**Translation:** Vocabulary: davon: 从...中; einfluss: 影响; erreicht: 实现; interessanten: 有趣的; positiver: 积极的
-
-**[7843.58s] English:** Und dann hast du für eine Zeit lang die Begeisterung fürs Programmieren verloren.  
+**[7843.58s] English:** Then you lost your enthusiasm for programming for a while.  
 **Translation:** 
 
-**[7847.34s] English:** Ich dachte, ich habe einfach zu lange zu hell gebrannt. Ich bin losgerannt.  
-**Translation:** Vocabulary: begeisterung: 热情; gebrannt: 熬夜; lange: 长久; losgerannt: 跑开; programmieren: 编程; verloren: 失去
-
-**[7851.96s] English:** Ich habe PSPDF-Kit gestartet und es dreidringt.  
+**[7847.34s] English:** I thought I had just spent too long in the sun. I ran to get help.  
 **Translation:** 
 
-**[7858.02s] English:** Ich habe 14 Jahre lang betrieben. Es war sehr stressig.  
-**Translation:** Vocabulary: betrieben: 经营; dreidringt: 急迫; gestartet: 启动; stressig: 有压力
-
-**[7863.02s] English:** Ich musste schnell und intensiv lernen, wie man Menschen führt, wie man sie ins Boot holt, wie man mit Kunden umgeht und so weiter.  
+**[7851.96s] English:** I have started PSPDFKit, and it urgently needs attention.  
 **Translation:** 
 
-**[7874.34s] English:** Es ging nicht nur ums Programmieren, sondern auch um menschliche Aspekte.  
-**Translation:** Vocabulary: intensiv: 密集; menschen: 人类; menschliche: 人性
+**[7858.02s] English:** I have operated it for 14 years, which was very stressful.  
+**Translation:** Vocabulary: urgently: 紧急地
 
-**[7877.34s] English:** Die Dinge, die mich ausgebrannt haben, waren hauptsächlich zwischenmenschliche Angelegenheiten.  
+**[7863.02s] English:** I had to learn quickly and intensely how to lead people, how to bring them on board, how to deal with customers, and so forth.  
 **Translation:** 
 
-**[7883.34s] English:** Ich glaube nicht, dass Burnout durch zu viel Arbeit entsteht.  
-**Translation:** Vocabulary: angelegenheiten: 事务; ausgebrannt: 筋疲力尽; burnout: 职业倦怠; dinge: 事情; entsteht: 产生; zwischenmenschliche: 人际的
+**[7874.34s] English:** It was not just about programming, but also about human aspects.  
+**Translation:** Vocabulary: intensely: 强烈地
 
-**[7887.34s] English:** Vielleicht ist das bei jedem anders. Ich kann da nicht absolut sprechen.  
+**[7877.34s] English:** The things that burned me out were primarily interpersonal matters.  
 **Translation:** 
 
-**[7891.34s] English:** Aber bei mir lag es vielmehr an Differenzen mit meinen Mitgründern, an Konflikten oder an extrem stressigen Situationen mit Kunden,  
-**Translation:** Vocabulary: differenzen: 分歧; konflikten: 冲突; situationen: 情况; sprechen: 说话; stressigen: 压力大的; vielmehr: 更多的是
+**[7883.34s] English:** I do not believe that burnout is caused by too much work.  
+**Translation:** Vocabulary: burnout: 身心疲惫; interpersonal: 人际的
 
-**[7904.34s] English:** die mich mit der Zeit wirklich zermürbt haben.  
+**[7887.34s] English:** Maybe it's different for everyone. I can't speak absolutely about that.  
 **Translation:** 
 
-**[7909.34s] English:** Und dann, zum Glück, bekamen wir ein sehr gutes Angebot, um das Unternehmen auf die nächste Stufe zu heben.  
-**Translation:** Vocabulary: heben: 提升; unternehmen: 公司; wirklich: 真正
+**[7891.34s] English:** Aber bei mir lag es vielmehr an Differenzen mit meinen Mitgründern, an Konflikten oder an extrem stressigen Situationen mit Kunden.  
+**Translation:** Vocabulary: differenzen: 分歧; konflikten: 冲突; situationen: 情况; stressigen: 压力大的; vielmehr: 更多的是
 
-**[7916.34s] English:** Und ich hatte vraaglich schon zwei Jahre einige Zeit darin gearbeitet, um mich an Ihrerisisieren zu können.  
+**[7904.34s] English:** That which has truly worn me out over time.  
 **Translation:** 
 
-**[7920.34s] English:** Warum hat die DENNISGAPIEN eine Katastrophe?  
-**Translation:** Vocabulary: darin: 在此过程中; gearbeitet: 工作; katastrophe: 灾难; vraaglich: 确实
-
-**[7923.34s] English:** Southwind Park und die anderen Internetländer machen auf gar keinememaschinen Ort eine der estarmen Erkenntnisse aus.  
+**[7909.34s] English:** Then, fortunately, we received a very good offer to take the company to the next level.  
 **Translation:** 
 
-**[7931.34s] English:** Beispiele sind spezielle.  
-**Translation:** Vocabulary: beispiele: 例子; erkenntnisse: 认识; estarmen: 最坚实; machen: 产生; southwind: 南风; spezielle: 特殊的
-
-**[7942.34s] English:** Die телефvaluesfähige Baugruppe밤  
+**[7916.34s] English:** I had actually been working on familiarizing myself with your system for two years already.  
 **Translation:** 
 
-**[7920.00s] English:** selbst überflüssig zu machen.  
-**Translation:** Vocabulary: machen: 使成为
+**[7920.00s] English:** To make it naturally punctuated and capitalized in English, while keeping the same meaning: "To make it superfluous.  
+**Translation:** Vocabulary: capitalized: 首字母大写; familiarizing: 熟悉; punctuated: 标点符号; superfluous: 多余
 
-**[7923.16s] English:** Also konnte ich zu diesem Zeitpunkt gehen.  
+**[7920.34s] English:** Why has the DENNISGAPIEN had a catastrophe?  
 **Translation:** 
 
-**[7926.06s] English:** Und dann saß ich einfach vor dem Bildschirm  
-**Translation:** Vocabulary: bildschirm: 显示器; zeitpunkt: 时间点
+**[7923.16s] English:** Also, I could go at that time.  
+**Translation:** Vocabulary: catastrophe: 灾难
 
-**[7930.10s] English:** und fühlte mich wie bei Austin Powers.  
+**[7923.34s] English:** Southwind Park and the other internet countries make no machine any place one of the lasting insights out.  
+**Translation:** 
+
+**[7926.06s] English:** Then I simply sat in front of the screen.  
+**Translation:** Vocabulary: southwind: 南风公园
+
+**[7930.10s] English:** And I felt like I was in Austin Powers.  
+**Translation:** 
+
+**[7931.34s] English:** Examples are specific.  
 **Translation:** 
 
 **[7934.02s] English:** Ja.  
 **Translation:** 
 
-**[7934.60s] English:** Wenn sie ihm den Mojo absaugen,  
+**[7934.60s] English:** When they suck the mojo out of him,...  
 **Translation:** 
 
-**[7937.30s] English:** es war einfach weg.  
-**Translation:** Vocabulary: absaugen: 吸取
-
-**[7938.80s] English:** Ich konnte keinen Code mehr aus mir herausbekommen.  
+**[7937.30s] English:** It was simply gone.  
 **Translation:** 
 
-**[7941.70s] English:** Ich habe einfach nur da gesessen,  
-**Translation:** Vocabulary: gesessen: 坐着; herausbekommen: 得到
-
-**[7945.08s] English:** gestarrt und mich leer gefühlt.  
+**[7938.80s] English:** I could no longer get any code out of him.  
 **Translation:** 
 
-**[7947.08s] English:** Und dann habe ich  
+**[7941.70s] English:** Ich habe einfach nur da gesessen,.  
+**Translation:** 
+
+**[7942.34s] English:** Die telephonically-valuable building group.  
+**Translation:** Vocabulary: einfach: 简单地; gesessen: 坐着
+
+**[7945.08s] English:** Gestarrt und mich leer gefühlt.  
+**Translation:** 
+
+**[7947.08s] English:** Then, I have  
 **Translation:** Vocabulary: gestarrt: 凝视
 
-**[7950.00s] English:** einfach aufgehört.  
+**[7950.00s] English:** Simply stopped.  
 **Translation:** 
 
-**[7951.84s] English:** Ich habe ein One-Way-Ticket nach Madrid gebucht  
+**[7951.84s] English:** I have booked a one-way ticket to Madrid.  
 **Translation:** 
 
-**[7954.72s] English:** und dort eine Zeit lang verbracht.  
+**[7954.72s] English:** And there, I spent some time.  
 **Translation:** 
 
-**[7958.04s] English:** Ich hatte das Gefühl,  
-**Translation:** Vocabulary: verbracht: 度过
-
-**[7959.70s] English:** ich müsste im Leben einiges nachholen.  
+**[7958.04s] English:** I had the feeling,  
 **Translation:** 
 
-**[7962.22s] English:** Also habe ich genau das getan.  
-**Translation:** Vocabulary: leben: 生活; nachholen: 弥补
-
-**[7964.46s] English:** Eine ganze Menge Dinge,  
+**[7959.70s] English:** I have a lot of catching up to do in life.  
 **Translation:** 
 
-**[7965.86s] English:** um wieder aufzuholen.  
-**Translation:** Vocabulary: aufzuholen: 弥补
-
-**[7967.74s] English:** Gab es während dieser Zeit Tiefpunkte?  
+**[7962.22s] English:** Also, I have done exactly that.  
 **Translation:** 
 
-**[7972.48s] English:** Und vielleicht hast du einen Ratschlag,  
-**Translation:** Vocabulary: ratschlag: 建议; tiefpunkte: 低点; vielleicht: 也许
-
-**[7975.84s] English:** wie man...  
+**[7964.46s] English:** A whole lot of things,  
 **Translation:** 
 
-**[7976.64s] English:** Wie solltest du das Leben anpacken,  
-**Translation:** Vocabulary: anpacken: 应对; solltest: 应该
-
-**[7978.12s] English:** wenn du denkst,  
+**[7965.86s] English:** Um to catch up again.  
 **Translation:** 
 
-**[7979.46s] English:** ja, ja,  
+**[7967.74s] English:** Did there occur low points during this time?  
 **Translation:** 
 
-**[7979.76s] English:** ich schufte jetzt richtig hart  
+**[7972.48s] English:** Und vielleicht hast du einen Rateschlag,  
+**Translation:** Vocabulary: rateschlag: 建议; vielleicht: 也许
+
+**[7975.84s] English:** How man...  
 **Translation:** 
 
-**[7980.98s] English:** und dann gehe ich in Rente?  
+**[7976.64s] English:** How should you approach life,  
 **Translation:** 
 
-**[7984.46s] English:** Das würde ich nicht empfehlen,  
+**[7978.12s] English:** When you think,  
 **Translation:** 
 
-**[7986.60s] English:** denn  
-**Translation:** Vocabulary: empfehlen: 推荐; nicht: 不
-
-**[7986.80s] English:** auch die Idee,  
+**[7979.46s] English:** Ja, ja,  
 **Translation:** 
 
-**[7991.24s] English:** ach ja,  
+**[7979.76s] English:** I am working really hard now.  
 **Translation:** 
 
-**[7992.20s] English:** genieß einfach jetzt das Leben,  
+**[7980.98s] English:** Then do I go on pension?  
+**Translation:** Vocabulary: pension: 退休金
+
+**[7984.46s] English:** I would not recommend that,  
 **Translation:** 
 
-**[7994.66s] English:** ist vielleicht verlockend,  
-**Translation:** Vocabulary: verlockend: 诱人
-
-**[7996.26s] English:** aber  
+**[7986.60s] English:** Denn  
 **Translation:** 
 
-**[7996.46s] English:** genau jetzt genieße ich mein Leben so sehr  
+**[7986.80s] English:** Auch die Idee,  
 **Translation:** 
 
-**[8000.88s] English:** wie noch nie zuvor.  
+**[7991.24s] English:** Ah, ja,  
 **Translation:** 
 
-**[8004.20s] English:** Denn wenn du morgens aufwachst  
-**Translation:** Vocabulary: aufwachst: 醒来; morgens: 早晨
-
-**[8006.22s] English:** und auf nichts hinfieberst,  
+**[7992.20s] English:** Enjoy life now,  
 **Translation:** 
 
-**[8008.48s] English:** keine echte Herausforderung,  
-**Translation:** Vocabulary: herausforderung: 真正挑战; hinfieberst: 热切期待; nichts: nothing
+**[7994.66s] English:** It might be tempting,  
+**Translation:** Vocabulary: tempting: 诱人的
 
-**[8009.76s] English:** hast dann wird das sehr schnell sehr langweilig.  
+**[7996.26s] English:** aber,  
 **Translation:** 
 
-**[8015.62s] English:** Und wenn du gelangweilt bist,  
-**Translation:** Vocabulary: gelangweilt: 感到无聊; langweilig: 令人无聊; schnell: 很快
-
-**[8019.24s] English:** suchst du noch anderen Wegen,  
+**[7996.46s] English:** Exactly now, I am enjoying my life so much.  
 **Translation:** 
 
-**[8021.34s] English:** wie du dich stimulieren kannst.  
+**[8000.88s] English:** Wie noch nie zuvor.  
 **Translation:** 
 
-**[8023.80s] English:** Vielleicht sind das sogar Drogen,  
+**[8004.20s] English:** Denn, wenn du morgens aufwachst,  
+**Translation:** Vocabulary: aufwachst: 你醒来; morgens: 早上
+
+**[8006.22s] English:** And you're fidgeting on nothing,  
 **Translation:** 
 
-**[8026.92s] English:** aber das wird irgendwann auch langweilig  
-**Translation:** Vocabulary: irgendwann: 最终
+**[8008.48s] English:** No real challenge,  
+**Translation:** Vocabulary: fidgeting: 坐立不安
 
-**[8031.64s] English:** und du suchst weiter,  
+**[8009.76s] English:** Then, it will very quickly become very boring.  
 **Translation:** 
 
-**[8032.56s] English:** was dich auf einen sehr dunklen Weg führen wird.  
+**[8015.62s] English:** And when you are bored,  
 **Translation:** 
 
-**[8035.70s] English:** Du hast aber auch beim Thema Geld  
+**[8019.24s] English:** Suchst du noch andere Wege,  
 **Translation:** 
 
-**[8038.68s] English:** einen guten Punkt gemacht.  
-**Translation:** Vocabulary: punkt: 观点
+**[8021.34s] English:** How you can stimulate yourself.  
+**Translation:** Vocabulary: stimulate: 激发
 
-**[8039.64s] English:** Du hast aber auch einen guten Punkt gemacht.  
+**[8023.80s] English:** Maybe these are even drugs.  
 **Translation:** 
 
-**[8041.64s] English:** Du hast aber auch einen guten Punkt gemacht.  
+**[8026.92s] English:** But that will also get boring eventually.  
 **Translation:** 
 
-**[8040.60s] English:** Denn viele Leute im Silicon Valley und in der Startup-Welt haben sich viel zu viele Gedanken gemacht  
+**[8031.64s] English:** And you keep searching,  
 **Translation:** 
 
-**[8045.92s] English:** und ihr Leben komplett auf Profit optimiert.  
-**Translation:** Vocabulary: gedanken: 思考; komplett: 完全; optimiert: 优化
-
-**[8048.86s] English:** Ich bin mir sicher, du nimmst Geld gerne an.  
+**[8032.56s] English:** This will lead you down a very dark path.  
 **Translation:** 
 
-**[8051.88s] English:** Aber es ist eben nicht der Hauptzweck deines Lebens.  
-**Translation:** Vocabulary: hauptzweck: 主要目的; lebens: 生活
-
-**[8054.88s] English:** Kannst du dazu mal etwas sagen, wie deine Philosophie in Bezug auf Geld aussieht?  
+**[8035.70s] English:** You have also been involved with money matters.  
 **Translation:** 
 
-**[8059.64s] English:** Als ich meine Firma aufgebaut habe, ist Geld nie mein Antrieb gewesen.  
-**Translation:** Vocabulary: aufgebaut: 建立; aussieht: 看来; etwas: 一些; philosophie: 理念
+**[8038.68s] English:** He made a good point.  
+**Translation:** 
 
-**[8064.18s] English:** Es hat sich eher wie die Bestätigung angefühlt, dass ich etwas richtig gemacht habe.  
+**[8039.64s] English:** You have made a good point as well.  
+**Translation:** 
+
+**[8040.60s] English:** Denn, many people in Silicon Valley and the startup world have made too many unnecessary thoughts.  
+**Translation:** 
+
+**[8041.64s] English:** You have made a good point as well.  
+**Translation:** 
+
+**[8045.92s] English:** And they have completely optimized their lives for profit.  
+**Translation:** Vocabulary: optimized: 最大化
+
+**[8048.86s] English:** Ich bin mir sicher, dass du Geld gerne acceptierst.  
+**Translation:** 
+
+**[8051.88s] English:** But it is not the main purpose of your life.  
+**Translation:** Vocabulary: acceptierst: 接受
+
+**[8054.88s] English:** Can you say something about how your philosophy regarding money looks like?  
+**Translation:** 
+
+**[8059.64s] English:** As I built my company, money was never my driving force.  
+**Translation:** 
+
+**[8064.18s] English:** It felt more like confirmation that I had done something right.  
 **Translation:** 
 
 **[8067.66s] English:** Und klar, Geld löst Probleme, aber ab einem gewissen Punkt hat der Nutzen einfach nachgelassen.  
-**Translation:** Vocabulary: gewissen: 良知; nachgelassen: 减弱; probleme: 问题
+**Translation:** Vocabulary: einfach: 简单; gewissen: 一定的; nachgelassen: 减弱; probleme: 问题; punkt: 点
 
-**[8078.88s] English:** Am Ende ist ein Cheeseburger eben doch nur ein Cheeseburger, egal wie viel Geld du hast.  
+**[8078.88s] English:** At the end of the day, a cheeseburger is just a cheeseburger, no matter how much money you have.  
 **Translation:** 
 
-**[8085.42s] English:** Wenn du es jedoch übertreibst und dich nur noch in der Blase von Privatjets oder exklusiven Luxusreisen auffällst,  
-**Translation:** Vocabulary: blase: 泡沫生活; cheeseburger: 奶酪汉堡; exklusiven: 专属的; luxusreisen: 奢华旅行; privatjets: 私人飞机
+**[8085.42s] English:** When you overdo it, and you only stand out through your private jets or exclusive luxury trips,  
+**Translation:** Vocabulary: cheeseburger: 汉堡; overdo: 过度
 
-**[8093.58s] English:** dann verlierst du den Kontakt zur echten Welt und den Menschen darin.  
+**[8093.58s] English:** Then you lose contact with the real world and the people in it.  
 **Translation:** 
 
-**[8097.66s] English:** Ich habe deshalb einiges gespendet.  
-**Translation:** Vocabulary: verlierst: 失去
+**[8097.66s] English:** I have therefore donated quite a bit.  
+**Translation:** Vocabulary: donated: 捐赠
 
-**[8101.14s] English:** Ich habe eine Stiftung, um anderen zu helfen, die nicht so viel Glück gehabt haben.  
+**[8101.14s] English:** I have a foundation to help others who haven't been as lucky.  
 **Translation:** 
 
-**[8110.68s] English:** Sich von der Gesellschaft abzukapseln, ist in vielerlei Hinsicht fatal.  
-**Translation:** Vocabulary: abzukapseln: 与世隔绝; gesellschaft: 社会; hinsicht: 方面; nicht: 不; stiftung: 基金会; vielerlei: 种种
+**[8110.68s] English:** Sealing oneself off from society is in many ways fatal.  
+**Translation:** Vocabulary: oneself: 自己; sealing: 封闭
 
 **[8115.32s] English:** Vor allem, weil Menschen einfach großartig sind.  
 **Translation:** 
 
-**[8118.28s] English:** Es ist schön, wenn du dir diese Großartigkeit immer wieder vor Augen geführt hast.  
-**Translation:** Vocabulary: menschen: 人类
+**[8118.28s] English:** It is beautiful when you keep this grandeur fresh in your mind.  
+**Translation:** Vocabulary: grandeur: 宏伟; menschen: 人类
 
-**[8122.82s] English:** Ich habe mir zwar echt schicke Hotels leisten können,  
+**[8122.82s] English:** I have definitely been able to afford some really chic hotels.  
 **Translation:** 
 
-**[8124.86s] English:** aber als ich das letzte Mal in San Francisco war,  
-**Translation:** Vocabulary: leisten: 支付得起
-
-**[8127.66s] English:** habe ich zum ersten Mal die echte Airbnb-Erfahrung gemacht und nur ein Zimmer gebucht.  
+**[8124.86s] English:** But when I was last in San Francisco,  
 **Translation:** 
 
-**[8133.12s] English:** Hauptsächlich, weil ich mir gedacht habe, okay, ich bin entweder unterwegs oder ich schlafe.  
-**Translation:** Vocabulary: entweder: 要么; unterwegs: 在路上; zimmer: 房间
-
-**[8139.10s] English:** Ich habe die typischen Hotelgegenden einfach nicht gemocht und habe mal eine andere Erfahrung gesucht.  
+**[8127.66s] English:** I had my first true Airbnb experience and booked only a room.  
 **Translation:** 
 
-**[8143.62s] English:** Ist das Leben nicht eigentlich eine reine Sammlung von Erfahrungen?  
-**Translation:** Vocabulary: eigentlich: 实际上; erfahrung: 经验; erfahrungen: 经历; hotelgegenden: 酒店区域; leben: 生活; reine: 纯粹的; sammlung: 集合; typischen: 典型的
+**[8133.12s] English:** Hauptsächlich, weil ich mir gedacht habe: Okay, ich bin entweder unterwegs oder ich schlafe.  
+**Translation:** Vocabulary: entweder: 要么; gedacht: 想到; schlafe: 睡觉; unterwegs: 在路上
 
-**[8147.68s] English:** Wenn du dein Leben darauf ausrichtest, einfach nur Erfahrungen zu sammeln,  
+**[8139.10s] English:** I have simply not liked the typical hotel areas and have sought out a different experience.  
 **Translation:** 
 
-**[8151.18s] English:** dann sinkt dieser Zwang, alles in gut oder schlecht zu unterteilen.  
-**Translation:** Vocabulary: ausrichtest: 以...为中心; schlecht: 不好; unterteilen: 划分
-
-**[8155.92s] English:** Wenn Leute nur die guten Erfahrungen haben, dann sind sie nicht so gut.  
+**[8143.62s] English:** Is life not essentially a mere collection of experiences?  
 **Translation:** 
 
-**[8156.68s] English:** Wenn Leute nur die guten Erfahrungen haben, dann sind sie nicht so gut.  
+**[8147.68s] English:** When you live your life simply to accumulate experiences,  
 **Translation:** 
 
-**[8157.64s] English:** Wenn Leute nur die guten Erfahrungen haben, dann funktioniert das.  
+**[8151.18s] English:** Then the compulsion sinks in, to divide everything into good or bad.  
+**Translation:** Vocabulary: accumulate: 积累; compulsion: 强迫感
+
+**[8155.92s] English:** When people only have good experiences, they are not necessarily good.  
 **Translation:** 
 
-**[8160.00s] English:** einfach nicht. Wenn du dich auf Erfahrungen fokussierst, dann ist es super. Wenn es gut  
-**Translation:** Vocabulary: fokussierst: 集中; funktioniert: 起作用
-
-**[8166.48s] English:** läuft, gut. Wenn es schlecht läuft, auch gut. Denn du hast etwas gelernt oder jemanden kennengelernt.  
+**[8156.68s] English:** When people only have good experiences, they are not necessarily good.  
 **Translation:** 
 
-**[8172.36s] English:** Da war einmal diese queere DJ und ich habe ihr gezeigt, wie man mit Claude Code Musik macht.  
-**Translation:** Vocabulary: jemanden: 认识某人
-
-**[8178.54s] English:** Und wir hatten direkt eine fantastische Zeit. Ja, da ist einfach was an dieser  
+**[8157.64s] English:** When people only have good experiences, then it works.  
 **Translation:** 
 
-**[8185.44s] English:** ursprünglichen Couchsurfing oder Airbnb Erfahrung dran. Ich finde das bis heute  
-**Translation:** Vocabulary: couchsurfing: 沙发客; fantastische: 极好的
-
-**[8189.10s] English:** absolut großartig. Es sind die Menschen, welche das Reisen so großartig machen. Du erlebst einfach  
+**[8160.00s] English:** Simply not. If you focus on experiences, then it's great. If it's good  
 **Translation:** 
 
-**[8194.80s] English:** die ganze Vielfalt der Menschheit. Und wenn es mal beschissen läuft, wenn es regnet, du völlig  
-**Translation:** Vocabulary: beschissen: 糟糕; machen: 使; menschheit: 人类; vielfalt: 多样性
-
-**[8199.82s] English:** durchnässt bist und alles schief geht, die Flieger zu spät, einfach alles ist im Eimer, dann ist es  
+**[8166.48s] English:** Läuft gut. Wenn es schlecht läuft, auch gut. Denn du hast etwas gelernt oder jemanden kennengelernt.  
 **Translation:** 
 
-**[8204.82s] English:** trotzdem fantastisch, sofern du die Augen dafür offen hältst, dass es einfach schön ist zu leben.  
-**Translation:** Vocabulary: eimer: 一锅粥; fantastisch: 棒; flieger: 航班; trotzdem: 尽管如此
-
-**[8209.26s] English:** Ja, alles, was Emotionen und Gefühle erzeugt, ist schön.  
+**[8172.36s] English:** There was this queer DJ once, and I showed her how to make music with Claude Code.  
 **Translation:** 
 
-**[8215.28s] English:** Vielleicht sind sogar die Krypto-Menschen gut, weil sie definitiv Emotionen aus  
-**Translation:** Vocabulary: definitiv: 肯定; emotionen: 情绪; vielleicht: 也许
-
-**[8218.98s] English:** Krypto-Menschen haben. Ja, alles, was Emotionen und Gefühle erzeugt, ist schön.  
+**[8178.54s] English:** We had a directly fantastic time. Yes, there is just something about this.  
 **Translation:** 
 
-**[8219.08s] English:** Ich glaube wirklich, dass der digitalen Welt diese Magie des echten Lebens fehlt. Es ist ein riesiges,  
-**Translation:** Vocabulary: digitalen: 数字的; lebens: 生活的; riesiges: 巨大的; wirklich: 确实
+**[8185.44s] English:** From my original Couchsurfing or Airbnb experience. I find that even today,  
+**Translation:** Vocabulary: couchsurfing: 沙发客体验
 
-**[8231.54s] English:** ungelöstes Problem. Wie bekommen wir diese echte, menschliche Intensität in den Cyberspace  
+**[8189.10s] English:** Absolutely great. It is the people that make traveling so great. You simply experience...  
 **Translation:** 
 
-**[8237.50s] English:** übertragen? Ich weiß nicht, ob man dieses Problem überhaupt lösen kann. Ich weiß nicht, wie wir  
-**Translation:** Vocabulary: bekommen: 获得; cyberspace: 网络空间; menschliche: 人类的; nicht: 不
+**[8194.80s] English:** Die ganze Vielfalt der Menschheit. Und wenn es mal beschissen läuft, wenn es regnet, du kannst completely  
+**Translation:** Vocabulary: beschissen: 糟糕; menschheit: 人类; vielfalt: 多样性
 
-**[8244.96s] English:** diese Intensität, die wir Menschen im echten Leben spüren, dort hineinbekommen. Ich weiß einfach nicht,  
+**[8199.82s] English:** Durchnässt bist du und alles schief geht: die Flieger sind zu spät, einfach alles ist im Eimer, dann ist es...  
 **Translation:** 
 
-**[8248.96s] English:** ob dieses Problem überhaupt lösbar ist. Das Problem ist oft, dass bei reinem Text zu viel verloren geht.  
-**Translation:** Vocabulary: hineinbekommen: 融入; menschen: 人类; verloren: 丢失
+**[8204.82s] English:** Nevertheless, it's fantastic, so far as you keep your eyes open to the fact that it's simply beautiful to live.  
+**Translation:** Vocabulary: eimer: 一锅粥; einfach: 简单; flieger: 航班
 
-**[8255.00s] English:** Manchmal habe ich mir gewünscht, dass die Kommunikation mit dem Agent multimodal ist,  
+**[8209.26s] English:** Ja, everything that produces emotions and feelings is beautiful.  
 **Translation:** 
 
-**[8260.22s] English:** damit der Agent auch meine Emotionen versteht. Ich glaube, es wird mal so sein.  
-**Translation:** Vocabulary: kommunikation: 沟通; manchmal: 有时; multimodal: 多模态; versteht: 理解
+**[8215.28s] English:** Perhaps even the crypto people are good because they definitely lack emotions.  
+**Translation:** Vocabulary: crypto: 加密货币
 
-**[8265.30s] English:** Auf jeden Fall. Ich muss dich das einfach mal aus reiner Neugier fragen. Ich weiß,  
+**[8218.98s] English:** Crypto-Menschen have. Yes, everything that produces emotions and feelings is beautiful.  
 **Translation:** 
 
-**[8273.48s] English:** du hast wahrscheinlich schon gigantische Angebote von den ganz großen Playern bekommen. Kannst du schon  
-**Translation:** Vocabulary: angebote: 报价; gigantische: 巨大; reiner: 纯粹; wahrscheinlich: 可能
-
-**[8278.84s] English:** sagen mit wem  
+**[8219.08s] English:** I believe that the digital world lacks the magic of real life. It is enormous,  
 **Translation:** 
 
-**[8280.00s] English:** du eine Zusammenarbeit in Betracht ziehst?  
-**Translation:** Vocabulary: betracht: 考虑; zusammenarbeit: 合作
-
-**[8283.78s] English:** Ja, also ich muss mein Denken kurz erklären.  
+**[8231.54s] English:** Unsolved problem. How do we get this real, human intensity into the cyberspace?  
 **Translation:** 
 
-**[8292.08s] English:** Ich hätte nicht erwartet, dass ich so viele Angebote bekommen würde.  
-**Translation:** Vocabulary: erwartet: 预期
+**[8237.50s] English:** Transferred? I don't know if this problem can even be solved. I don't know how we  
+**Translation:** Vocabulary: cyberspace: 网络空间; unsolved: 未解决
 
-**[8297.72s] English:** Also haben sich dadurch viele Türen geöffnet.  
+**[8244.96s] English:** This intensity we feel in real life, I just don't know how to bring it into the mix.  
 **Translation:** 
 
-**[8301.10s] English:** Ich denke, jede große VC-Firma hat mir geschrieben und wollte 15 Minuten meiner Zeit.  
-**Translation:** Vocabulary: geschrieben: 书写
-
-**[8314.98s] English:** Es ist wie ein Butterfly-Effekt-Moment gewesen.  
+**[8248.96s] English:** Does this problem, however, even have a solution? Often, with pure text, too much is lost.  
 **Translation:** 
 
-**[8318.02s] English:** Ich habe einfach gar nichts tun und mein Leben weiter genießen können.  
-**Translation:** Vocabulary: leben: 生活; nichts: 不做
-
-**[8323.20s] English:** Das ist fast schon eine valide Option gewesen.  
+**[8255.00s] English:** Manchmal habe ich mir gewünscht, dass die Kommunikation mit dem Agenten multimodal ist.  
 **Translation:** 
 
-**[8326.82s] English:** Ich habe sogar darüber nachgedacht, als ich am liebsten alles gelöscht hätte.  
-**Translation:** Vocabulary: liebsten: 最喜爱; nachgedacht: 思考过
+**[8260.22s] English:** So that the agent also understands my emotions. I believe it will be like that someday.  
+**Translation:** Vocabulary: agenten: 客服; kommunikation: 沟通; manchmal: 有时; multimodal: 多模态
 
-**[8332.02s] English:** Ich habe natürlich eine neue Firma gründen können.  
+**[8265.30s] English:** Auf jeden Fall. Ich muss dich das einfach mal aus reinem Neugier fragen. Ich weiß,  
 **Translation:** 
 
-**[8337.54s] English:** Das hatte ich aber schon hinter mir.  
+**[8273.48s] English:** You have probably already received gigantic offers from the biggest players. Can you already  
+**Translation:** Vocabulary: gigantic: 巨大的; neugier: 好奇
+
+**[8278.84s] English:** Sagen, with whom.  
 **Translation:** 
 
-**[8341.72s] English:** Es hat so viele Leute gegeben, die mich in diese Richtung gedrängt haben.  
+**[8280.00s] English:** Do you consider a collaboration?  
+**Translation:** Vocabulary: collaboration: 合作
+
+**[8283.78s] English:** Ja, also, I must briefly explain my thinking.  
 **Translation:** 
 
-**[8345.16s] English:** Und ja, das hätte sicher großartig sein können.  
-**Translation:** Vocabulary: richtung: 方向
-
-**[8347.56s] English:** Ich würde sagen, dass du wahrscheinlich eine Menge Geld damit verdienen könntest.  
+**[8292.08s] English:** I had not expected to receive so many offers.  
 **Translation:** 
 
-**[8350.68s] English:** Ich weiß nicht, hunderte Millionen, Milliarden.  
-**Translation:** Vocabulary: hunderte: 几百; milliarden: 几十亿; millionen: 几百万; verdienen: 赚取
-
-**[8353.18s] English:** Es könnte einfach eine unbegrenzte Menge Geld sein.  
+**[8297.72s] English:** Also, many doors have been opened as a result.  
 **Translation:** 
 
-**[8355.76s] English:** Ja, das hat mich einfach nicht mehr so gepackt, weil ich das alles schon hinter mir gehabt habe.  
-**Translation:** Vocabulary: unbegrenzte: 无限制的
-
-**[8360.58s] English:** Es hätte mir einfach zu viel Zeit für die Dinge geraubt, die ich wirklich genieße.  
+**[8301.10s] English:** I think every major VC firm has written to me and wants 15 minutes of my time.  
 **Translation:** 
 
-**[8367.94s] English:** Genau wie damals, als ich CEO gewesen bin.  
-**Translation:** Vocabulary: dinge: 事情; wirklich: 真正
-
-**[8371.62s] English:** Ich habe es gelernt und bin auch nicht schlecht darin gewesen.  
+**[8314.98s] English:** It was like a butterfly effect moment.  
 **Translation:** 
 
-**[8376.06s] English:** Teilweise bin ich sogar richtig gut darin gewesen.  
-**Translation:** Vocabulary: darin: 在其中; nicht: 不; schlecht: 差; teilweise: 部分地
-
-**[8381.32s] English:** Aber ja, dieser Weg hat mich einfach nicht besonders gereizt.  
+**[8318.02s] English:** I have simply been able to do nothing and continue enjoying my life.  
 **Translation:** 
 
-**[8385.08s] English:** Ich habe auch die Befürchtung gehabt, dass es einen natürlichen Interessenkonflikt erzeugt hätte.  
-**Translation:** Vocabulary: besonders: 特别; interessenkonflikt: 利益冲突
+**[8323.20s] English:** This is almost a valid option.  
+**Translation:** 
+
+**[8326.82s] English:** I even considered it when I most wanted to delete everything.  
+**Translation:** 
+
+**[8332.02s] English:** I have naturally been able to start a new company.  
+**Translation:** 
+
+**[8337.54s] English:** Das had I, however, already behind me.  
+**Translation:** 
+
+**[8341.72s] English:** There have been so many people who have pushed me in this direction.  
+**Translation:** 
+
+**[8345.16s] English:** And yes, that could have been great.  
+**Translation:** 
+
+**[8347.56s] English:** I would say that you could probably make a lot of money with it.  
+**Translation:** 
+
+**[8350.68s] English:** I don't know, hundreds of millions, billions.  
+**Translation:** 
+
+**[8353.18s] English:** It could simply be an unlimited amount of money.  
+**Translation:** 
+
+**[8355.76s] English:** Ja, this has simply not grabbed me anymore because I've already been through all of this.  
+**Translation:** Vocabulary: unlimited: 无限制的
+
+**[8360.58s] English:** It would have taken away too much time from the things I really enjoy.  
+**Translation:** 
+
+**[8367.94s] English:** Exactly like back when I was CEO.  
+**Translation:** 
+
+**[8371.62s] English:** I have learned it and am also not bad at it.  
+**Translation:** 
+
+**[8376.06s] English:** Partially, I have even been quite good at it.  
+**Translation:** 
+
+**[8381.32s] English:** Aber ja, this path has simply not particularly appealed to me.  
+**Translation:** 
+
+**[8385.08s] English:** I also had the concern that it would have created a natural interest conflict.  
+**Translation:** Vocabulary: appealed: 吸引
 
 **[8389.54s] English:** Ja.  
 **Translation:** 
@@ -7639,6 +7640,12 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[8391.44s] English:** Ja.  
 **Translation:** 
 
+**[8400.00s] English:** A feature like an audit log appears,  
+**Translation:** 
+
+**[8402.52s] English:** It looks totally like an enterprise feature.  
+**Translation:** 
+
 **[8403.44s] English:** Ja.  
 **Translation:** 
 
@@ -7696,656 +7703,650 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[8404.20s] English:** Ja.  
 **Translation:** 
 
+**[8405.62s] English:** Now I have the feeling,  
+**Translation:** 
+
+**[8407.28s] English:** That I have a conflict of interest.  
+**Translation:** 
+
 **[8408.22s] English:** Ja.  
+**Translation:** 
+
+**[8408.88s] English:** Between the open-source version,  
 **Translation:** 
 
 **[8409.44s] English:** Ja.  
 **Translation:** 
 
-**[8400.00s] English:** ein Feature wie ein Audit-Log auftaucht,  
-**Translation:** Vocabulary: auftaucht: 出现
-
-**[8402.52s] English:** sieht das total nach einem Enterprise-Feature aus.  
+**[8411.62s] English:** And the closed-source version has.  
 **Translation:** 
 
-**[8405.62s] English:** Jetzt habe ich das Gefühl,  
+**[8415.06s] English:** Or to change the license to something like FSL,  
 **Translation:** 
 
-**[8407.28s] English:** dass ich einen Interessenkonflikt  
+**[8419.30s] English:** With which you may no longer commercially utilize it,  
 **Translation:** 
 
-**[8408.88s] English:** zwischen der Open-Source-Version  
-**Translation:** Vocabulary: zwischen: 在……之间
+**[8421.44s] English:** Das ist, erstens, extrem schwierig.  
+**Translation:** Vocabulary: commercially: 商业上; erstens: 首先; schwierig: 困难的; utilize: 利用
 
-**[8411.62s] English:** und der Closed-Source-Version habe.  
+**[8423.14s] English:** At all these contributions, we've been  
 **Translation:** 
 
-**[8415.06s] English:** Oder die Lizenz auf so etwas wie FSL zu ändern,  
-**Translation:** Vocabulary: etwas: 例子
-
-**[8419.30s] English:** womit du es nicht mehr kommerziell nutzen darfst,  
+**[8424.62s] English:** And secondly, I like the idea,  
 **Translation:** 
 
-**[8421.44s] English:** das ist erstens extrem schwierig  
-**Translation:** Vocabulary: kommerziell: 营利性; schwierig: 困难
-
-**[8423.14s] English:** bei all den Contributions gewesen  
+**[8428.12s] English:** That it is really free.  
 **Translation:** 
 
-**[8424.62s] English:** und zweitens mag ich den Gedanken,  
-**Translation:** Vocabulary: gedanken: 想法; zweitens: 其次
-
-**[8428.12s] English:** dass es wirklich kostenlos ist  
+**[8429.40s] English:** And not tied to conditions.  
 **Translation:** 
 
-**[8429.40s] English:** und nicht an Bedingungen geknüpft ist.  
-**Translation:** Vocabulary: bedingungen: 附带条件; kostenlos: 免费
-
-**[8433.32s] English:** Klar, es gibt Möglichkeiten,  
+**[8433.32s] English:** Klar, there are possibilities,  
 **Translation:** 
 
-**[8434.96s] English:** wie du das alles kostenlos behalten kannst  
-**Translation:** Vocabulary: behalten: 保留
-
-**[8436.56s] English:** und immer noch versuchst, Geld zu verdienen,  
+**[8434.96s] English:** How you can keep all of this for free.  
 **Translation:** 
 
-**[8438.88s] English:** aber das ist eben sehr, sehr schwierig.  
-**Translation:** Vocabulary: versuchst: 努力尝试
-
-**[8441.60s] English:** Und du siehst,  
+**[8436.56s] English:** Und immer noch versuchst du, Geld zu verdienen,  
 **Translation:** 
 
-**[8442.40s] English:** dass es immer weniger Unternehmen gibt,  
+**[8438.88s] English:** But that is, of course, very, very difficult.  
+**Translation:** Vocabulary: verdienen: 赚钱; versuchst: 尝试
+
+**[8441.60s] English:** And you see,  
 **Translation:** 
 
-**[8444.20s] English:** die das schaffen.  
+**[8442.40s] English:** That there are increasingly fewer companies,  
 **Translation:** 
 
-**[8445.62s] English:** Selbst Tailwind wird von allen benutzt.  
-**Translation:** Vocabulary: schaffen: 创造
-
-**[8448.08s] English:** Jeder nutzt Tailwind, oder?  
+**[8444.20s] English:** Die das schaffen.  
 **Translation:** 
 
-**[8450.02s] English:** Und dann mussten sie 75% ihrer Mitarbeiter entlassen,  
-**Translation:** Vocabulary: entlassen: 解雇; mitarbeiter: 员工
+**[8445.62s] English:** Tailwind is used by everyone.  
+**Translation:** Vocabulary: schaffen: 创造; tailwind: 顺风
 
-**[8454.02s] English:** weil sie kein Geld verdienen.  
+**[8448.08s] English:** Does everyone use Tailwind, or?  
 **Translation:** 
 
-**[8455.00s] English:** Dann niemand mehr auf die Webseite geht,  
-**Translation:** Vocabulary: webseite: 网站
-
-**[8456.98s] English:** weil alles von Agents erledigt wird.  
+**[8450.02s] English:** Then they had to lay off 75% of their employees,  
 **Translation:** 
 
-**[8459.40s] English:** Und sich nur auf Spenden zu verlassen,  
-**Translation:** Vocabulary: erledigt: 处理; verlassen: 依靠
-
-**[8463.88s] English:** ja, viel Glück dabei, wenn ich das mal hochrechne.  
+**[8454.02s] English:** Because they do not earn money.  
 **Translation:** 
 
-**[8468.26s] English:** Was ein Open-Source-Projekt meines Kalibers  
-**Translation:** Vocabulary: hochrechne: 估算; kalibers: 规模
-
-**[8470.26s] English:** üblicherweise bekommen hat,  
+**[8455.00s] English:** Then no one will go to the website anymore.  
 **Translation:** 
 
-**[8471.90s] English:** dann ist das nicht viel gewesen.  
-**Translation:** Vocabulary: bekommen: 获得
-
-**[8473.82s] English:** Ich habe mit dem Projekt sogar draufgezahlt,  
+**[8456.98s] English:** Weil alles von agents erledigt wird.  
 **Translation:** 
 
-**[8475.98s] English:** weil ich es mir zum Ziel gesetzt habe,  
-**Translation:** Vocabulary: draufgezahlt: 额外支出
+**[8459.40s] English:** To rely solely on donations,  
+**Translation:** Vocabulary: donations: 捐赠; erledigt: 处理完毕
 
-**[8477.92s] English:** jede Dependency zu unterstützen, außer Slack.  
+**[8463.88s] English:** Ja, viel Glück dabei, wenn ich das mal hochrechne.  
 **Translation:** 
 
-**[8481.54s] English:** Das ist eine riesige Firma.  
+**[8468.26s] English:** What an open-source project of my caliber is  
+**Translation:** Vocabulary: caliber: 水平; hochrechne: 计算
+
+**[8470.26s] English:** Typically, he has received,  
 **Translation:** 
 
-**[8483.64s] English:** Die haben das auch ohne mich geschafft.  
+**[8471.90s] English:** Dann is that not much at all.  
 **Translation:** 
 
-**[8485.88s] English:** Aber bei den Projekten von Einzelpersonen  
-**Translation:** Vocabulary: einzelpersonen: 个人项目; geschafft: 完成; projekten: 项目
-
-**[8488.36s] English:** ist es so, dass sie sich nicht mehr auf Spenden verlassen.  
+**[8473.82s] English:** I have even invested in the project,  
 **Translation:** 
 
-**[8489.36s] English:** Das ist so gewesen.  
+**[8475.98s] English:** Weil ich es mir zum Ziel gesetzt habe,  
+**Translation:** Vocabulary: gesetzt: 设定
+
+**[8477.92s] English:** To support every dependency except Slack.  
 **Translation:** 
 
-**[8490.76s] English:** Sämtliche Sponsorings sind direkt an meine Dependencies gegangen.  
+**[8481.54s] English:** This is a huge company.  
 **Translation:** 
 
-**[8495.52s] English:** Von dem Rest habe ich meinen Contributors  
-**Translation:** Vocabulary: contributors: 贡献者; gegangen: 转移; sponsorings: 赞助
-
-**[8498.26s] English:** ein wenig Merch gekauft.  
+**[8483.64s] English:** They have also managed it without me.  
 **Translation:** 
 
-**[8502.30s] English:** Du verlierst also Geld?  
-**Translation:** Vocabulary: merch: 周边; verlierst: 失去
+**[8485.88s] English:** Aber bei den Projekten von Einzelpersonen...  
+**Translation:** Vocabulary: einzelpersonen: 个人; projekten: 项目
 
-**[8504.50s] English:** Ja, genau.  
+**[8488.36s] English:** Is it true that they no longer rely on donations?  
 **Translation:** 
 
-**[8505.84s] English:** Also es ist wirklich nicht nachhaltig?  
-**Translation:** Vocabulary: nachhaltig: 可持续的
-
-**[8508.72s] English:** Ich meine, es sind wahrscheinlich  
+**[8489.36s] English:** This is what it was like.  
 **Translation:** 
 
-**[8510.26s] English:** zwischen 10.000 und 20.000 im Monat,  
-**Translation:** Vocabulary: wahrscheinlich: 可能
-
-**[8514.30s] English:** was in Ordnung ist.  
+**[8490.76s] English:** All sponsorships went directly to my dependencies.  
 **Translation:** 
 
-**[8516.60s] English:** Ich bin sicher, dass ich das  
+**[8495.52s] English:** From the rest, I have my contributors.  
+**Translation:** Vocabulary: contributors: 捐款人; sponsorships: 赞助者
+
+**[8498.26s] English:** I bought a little merchandise.  
 **Translation:** 
 
-**[8517.60s] English:** mit der Zeit reduzieren kann.  
+**[8502.30s] English:** You lose money, then?  
+**Translation:** Vocabulary: merchandise: 商品
+
+**[8504.50s] English:** Ja, exactly.  
 **Translation:** 
 
-**[8518.82s] English:** Ja, es sind nicht nur in Ordnung,  
-**Translation:** Vocabulary: nicht: 不; reduzieren: 减少
+**[8505.84s] English:** Also, is it really not sustainable?  
+**Translation:** Vocabulary: sustainable: 可持续的
 
-**[8520.90s] English:** es kann alles  
+**[8508.72s] English:** I mean, it's probably  
 **Translation:** 
 
-**[8542.84s] English:** zu einer Reduktion führen.  
-**Translation:** Vocabulary: reduktion: 削减
-
-**[8545.00s] English:** Ja, genau.  
+**[8510.26s] English:** Between 10,000 and 20,000 per month,  
 **Translation:** 
 
-**[8546.36s] English:** Aber die Art ist ja recht gut.  
+**[8514.30s] English:** It is in order, is it?  
 **Translation:** 
 
-**[8547.98s] English:** Und ich gebe es wieder dazu.  
+**[8516.60s] English:** I am sure that I can do it.  
 **Translation:** 
 
-**[8520.00s] English:** Und OpenAI hilft jetzt ein wenig mit Tokens. Und es gibt andere Firmen, die großzügig waren, aber ich verliere trotzdem noch Geld damit. Also das ist ein Weg, den ich in Erwägung ziehe, aber er begeistert mich einfach nicht. Dann gibt es all die großen Labs, mit denen ich gesprochen habe.  
-**Translation:** Vocabulary: begeistert: 鼓舞; gesprochen: 交谈; trotzdem: 仍然; verliere: 亏损
-
-**[8543.08s] English:** Von denen scheinen Meta und OpenAI am besten bzw. am interessantesten zu sein.  
+**[8517.60s] English:** Over time, it can be reduced.  
 **Translation:** 
 
-**[8552.04s] English:** Tendierst du zu einem der beiden?  
-**Translation:** Vocabulary: interessantesten: 最有趣; scheinen: 似乎; tendierst: 倾向于
+**[8518.82s] English:** Ja, they are not only in order.  
+**Translation:** 
+
+**[8520.00s] English:** Und OpenAI is helping now with tokens. And there are other firms that were generous, but I'm still losing money on it. So this is a path I'm considering, but it just doesn't excite me. Then there are all the big labs with which I've spoken.  
+**Translation:** 
+
+**[8520.90s] English:** It can be everything.  
+**Translation:** Vocabulary: excite: 激发兴趣
+
+**[8542.84s] English:** Lead to a reduction.  
+**Translation:** 
+
+**[8543.08s] English:** Of those, Meta and OpenAI seem to be the best or the most interesting.  
+**Translation:** 
+
+**[8545.00s] English:** Ja, exactly.  
+**Translation:** 
+
+**[8546.36s] English:** But the breed is quite good.  
+**Translation:** 
+
+**[8547.98s] English:** And I give it back to you.  
+**Translation:** 
+
+**[8552.04s] English:** Which one would you prefer of the two?  
+**Translation:** 
 
 **[8555.14s] English:** Äh, ja.  
 **Translation:** 
 
-**[8563.46s] English:** Ich weiß nicht genau, wie viel ich dazu schon sagen sollte. Es ist noch nicht ganz spruchreif.  
-**Translation:** Vocabulary: spruchreif: 成熟
-
-**[8573.08s] English:** Sagen wir einfach mal, meine Bedingung ist bei jeder Option gewesen, dass das Projekt Open Source bleibt.  
+**[8563.46s] English:** I don't know exactly how much I should say about it yet. It's not quite ready to be spoken.  
 **Translation:** 
 
-**[8583.54s] English:** Vielleicht wird es ein Modell wie bei Chrome und Chromium.  
-**Translation:** Vocabulary: bedingung: 条件; vielleicht: 也许
-
-**[8588.04s] English:** Ich glaube, das ist zu wichtig, um es einfach einer Firma zu geben und es zu ihrem Eigentum zu machen.  
+**[8573.08s] English:** Let's just say that my condition for every option has been that the project remains open source.  
 **Translation:** 
 
-**[8597.92s] English:** Und wir haben noch nicht einmal über den ganzen Community-Teil gesprochen.  
-**Translation:** Vocabulary: eigentum: 财产; machen: 使成为
-
-**[8603.08s] English:** Aber das, was ich in San Francisco erlebt habe, bei Clarkon, so viele Menschen so inspiriert zu sehen, Spaß zu haben und einfach Dinge zu bauen und Roboter in Hummer-Kostümen herumlaufen zu sehen.  
+**[8583.54s] English:** Perhaps it will be a model like that of Chrome and Chromium.  
 **Translation:** 
 
-**[8615.58s] English:** Die Leute haben mir gesagt, sie hätten ein solches Maß an gemeinschaftlicher Begeisterung seit den frühen Tagen des Internets vor 10 bis 15 Jahren nicht erlebt.  
-**Translation:** Vocabulary: begeisterung: 热情; dinge: 事情; gemeinschaftlicher: 集体的; herumlaufen: 游荡; inspiriert: 启发; internets: 互联网; menschen: 人们
-
-**[8628.20s] English:** Es waren viele hochkarätige Leute dort und ich war erstaunt.  
+**[8588.04s] English:** I believe this is too important to simply give to a company and make it their property.  
 **Translation:** 
 
-**[8631.10s] English:** Ich war auch sehr reizüberflutet, weil zu viele Menschen Selfies machen wollten.  
-**Translation:** Vocabulary: erstaunt: 惊讶
-
-**[8640.00s] English:** Und ich liebe das einfach. Es muss ein Ort bleiben, an dem die Leute einfach hacken und lernen können.  
+**[8597.92s] English:** And we have not even talked about the entire community part yet.  
 **Translation:** 
 
-**[8648.74s] English:** Aber auch, ich bin total motiviert daraus, eine Version zu machen, die wirklich viele Leute erreichen kann.  
-**Translation:** Vocabulary: erreichen: 达到; motiviert: 受激励; wirklich: 真正地
-
-**[8657.30s] English:** Ich glaube nämlich, dass das hier das Jahr der persönlichen Agents ist. Das ist einfach die Zukunft.  
+**[8603.08s] English:** Aber das, was ich in San Francisco erlebt habe, bei Clarkon – so viele Menschen so inspiriert zu sehen, Spaß zu haben und einfach Dinge zu bauen und Roboter in Hummer-Kostümen herumlaufen zu sehen.  
 **Translation:** 
 
-**[8662.46s] English:** Und der schnellste Weg dahin ist es eben gewesen, sich mit einem der Labs zusammenzutun.  
+**[8615.58s] English:** People have told me they haven't experienced such a level of communal enthusiasm since the early days of the Internet about 10 to 15 years ago.  
+**Translation:** Vocabulary: clarkon: 克拉康; communal: 集体的; dinge: 东西; einfach: 简单地; herumlaufen: 走动; inspiriert: 受鼓舞的; menschen: 人们; roboter: 机器人
+
+**[8628.20s] English:** There were many high-profile people there, and I was surprised.  
 **Translation:** 
 
-**[8667.68s] English:** Und auf einer persönlichen Ebene bin ich auch einfach neugierig, weil ich noch nie in einem großen Unternehmen gearbeitet habe.  
+**[8631.10s] English:** I was also overwhelmed by all the people taking selfies.  
 **Translation:** 
 
-**[8679.18s] English:** Weißt du, wir haben ja über Erfahrungen gesprochen. Ob es mir gefallen wird, ich weiß es nicht.  
-**Translation:** Vocabulary: erfahrungen: 经验; gearbeitet: 工作; gefallen: 喜欢; gesprochen: 谈论; neugierig: 好奇; unternehmen: 公司
-
-**[8684.76s] English:** Aber ich habe diese Erfahrung einfach machen wollen.  
+**[8640.00s] English:** And I love that it just is. It has to be a place where people can simply hack and learn.  
 **Translation:** 
 
-**[8687.32s] English:** Ich bin mir sicher, wenn ich das bekannt gebe, wird es Leute geben, die sagen, oh, er hat sich verkauft, bla bla bla.  
-**Translation:** Vocabulary: erfahrung: 经历; verkauft: 出卖
+**[8648.74s] English:** Aber auch, I am totally motivated to make a version that can reach many people.  
+**Translation:** Vocabulary: motivated: 有动力的
 
-**[8694.38s] English:** Aber das Projekt wird weiterlaufen. Nach allem, was ich bisher besprochen habe, werde ich sogar mehr Ressourcen dafür haben.  
+**[8657.30s] English:** I believe, however, that this is the year of personal agents. That is simply the future.  
 **Translation:** 
 
-**[8707.72s] English:** Beide Firmen haben verstanden, dass ich etwas erschaffen habe, das unseren Zeitplan beschleunigt und die Leute für KI begeistert hat.  
-**Translation:** Vocabulary: begeistert: 激发热情; beschleunigt: 加快; besprochen: 讨论过; erschaffen: 创造; etwas: 一些东西; ressourcen: 资源; verstanden: 理解; weiterlaufen: 继续
+**[8662.46s] English:** The fastest way to do that has been to team up with one of the Labs.  
+**Translation:** 
 
-**[8718.88s] English:** Ich meine, kannst du dir das vorstellen? Ich habe OpenClaw bei einem meiner...  
+**[8667.68s] English:** On a personal level, I am also simply curious because I have never worked in a large company.  
+**Translation:** 
+
+**[8679.18s] English:** Do you know, we have just talked about experiences. I don't know if it will please me.  
+**Translation:** 
+
+**[8684.76s] English:** But I simply wanted to have this experience.  
+**Translation:** 
+
+**[8687.32s] English:** I am sure that if I reveal this, there will be people who say, "Oh, he has sold out, blah blah blah.  
+**Translation:** 
+
+**[8694.38s] English:** Aber das Projekt wird weiterlaufen. Nach allem, was ich bisher besprochen habe, werde ich sogar mehr Ressourcen für es haben.  
+**Translation:** 
+
+**[8707.72s] English:** Both firms have understood that I have created something that accelerates our timeline and has excited people about AI.  
+**Translation:** Vocabulary: accelerates: 加速; besprochen: 讨论过; projekt: 项目; ressourcen: 资源; weiterlaufen: 继续
+
+**[8718.88s] English:** I mean, can you imagine that? I have OpenClaw with one of my...  
 **Translation:** 
 
 **[8723.70s] English:** Sorry.  
-**Translation:** Vocabulary: vorstellen: 想象
+**Translation:** 
 
-**[8724.38s] English:** ...Normi-Freunde installiert. Tut mir leid, Vahan. Aber er ist eben einfach ein... naja.  
+**[8724.38s] English:** ...Normi-Freunde installed. I'm sorry, Vahan. But he is just simply a... naja.  
 **Translation:** 
 
 **[8733.00s] English:** Normi mit Liebe.  
-**Translation:** Vocabulary: installiert: 安装完毕
-
-**[8734.02s] English:** Er ist einfach jemand, der zwar Computer benutzt, aber nie wirklich... naja, er hat zwar ab und zu mal ChatGPT genutzt, aber er ist nicht besonders technisch versiert.  
 **Translation:** 
 
-**[8744.92s] English:** Er hätte nicht wirklich verstanden, was ich da gebaut habe. Also habe ich es ihm einfach gezeigt.  
-**Translation:** Vocabulary: besonders: 特别; nicht: 不; technisch: 技术; versiert: 熟练
-
-**[8750.30s] English:** Ich habe ihm die 90 oder 100 Dollar für das Abo bei Anthropic.  
+**[8734.02s] English:** He is simply someone who uses computers but never really... well, he has used ChatGPT occasionally, but he is not particularly tech-savvy.  
 **Translation:** 
 
-**[8754.38s] English:** Und ihm alles mit WSL unter Windows eingerichtet. Ich bin auch neugierig gewesen.  
-**Translation:** Vocabulary: eingerichtet: 安装配置
-
-**[8759.86s] English:** Ich bin auch neugierig gewesen.  
+**[8744.92s] English:** Er wouldn't have really understood what I had built. So, I just showed it to him.  
 **Translation:** 
 
-**[8760.00s] English:** ob es auf Windows überhaupt läuft. Es ist allerdings noch ein bisschen früh dafür gewesen.  
-**Translation:** Vocabulary: allerdings: 然而; bisschen: 一点
-
-**[8765.60s] English:** Und dann war er innerhalb weniger Tage  
+**[8750.30s] English:** I have paid him $90 or $100 for the subscription at Anthropic.  
 **Translation:** 
 
-**[8767.54s] English:** begeistert. Er hat mir über all die Dinge geschrieben, die er gelernt hat.  
-**Translation:** Vocabulary: dinge: 事情; geschrieben: 写; innerhalb: 在...内
+**[8754.38s] English:** He set it all up with WSL on Windows, and I was also curious about it.  
+**Translation:** Vocabulary: subscription: 订购服务
 
-**[8771.66s] English:** Er hat sogar kleine Werkzeuge gebaut. Er ist kein Programmierer.  
+**[8759.86s] English:** I was also curious.  
 **Translation:** 
 
-**[8776.30s] English:** Innerhalb weniger Tage hat er auf das 200-Euro-Abonnement  
-**Translation:** Vocabulary: programmierer: 程序员; werkzeuge: 工具
-
-**[8779.56s] English:** aufgestockt, weil er in Österreich ist. Und er war total  
+**[8760.00s] English:** Does it actually run on Windows? It was, however, a bit too early for that.  
 **Translation:** 
 
-**[8783.64s] English:** begeistert davon. Dieser Film war eine sehr frühe  
-**Translation:** Vocabulary: aufgestockt: 音量调高; davon: 对此
-
-**[8788.02s] English:** Produktvalidierung. Es ist, als hätte ich etwas gebaut,  
+**[8765.60s] English:** Then he was within a few days.  
 **Translation:** 
 
-**[8791.34s] English:** das die Menschen fesselt.  
-**Translation:** Vocabulary: menschen: 人类; produktvalidierung: 产品验证
+**[8767.54s] English:** Begeistert. Er hat mir über all die Dinge geschrieben, die er gelernt hat.  
+**Translation:** Vocabulary: begeistert: 兴奋; dinge: 事情; gelernt: 学习; geschrieben: 书写
 
-**[8795.28s] English:** Ein paar Tage später wurde er von Anthropic gesperrt, weil es laut ihren Regeln  
+**[8771.66s] English:** He has even built small tools. He is not a programmer.  
 **Translation:** 
 
-**[8799.26s] English:** problematisch war,  
-**Translation:** Vocabulary: gesperrt: 封禁; problematisch: 有问题的
+**[8776.30s] English:** Within a few days, he subscribed to the 200-euro plan.  
+**Translation:** Vocabulary: programmer: 程序员; subscribed: 订阅
 
-**[8803.94s] English:** das Abo auf diese Weise zu nutzen oder was auch immer.  
+**[8779.56s] English:** Aufgestockt, because he is from Austria. And he was totally  
 **Translation:** 
 
-**[8807.88s] English:** Und er war am Boden zerstört. Dann hat er sich für Minimax angemeldet  
+**[8783.64s] English:** Begeistert davon. Dieser Film war eine sehr frühe.  
+**Translation:** Vocabulary: aufgestockt: 加高; davon: 对此
+
+**[8788.02s] English:** Product validation. It's as if I had built something,  
 **Translation:** 
 
-**[8811.56s] English:** für 10 Dollar im Monat und nutzt es.  
+**[8791.34s] English:** That fascinates the people.  
+**Translation:** Vocabulary: fascinates: 使着迷; validation: 验证
+
+**[8795.28s] English:** A few days later, he was banned by Anthropic because it violated their rules.  
+**Translation:** 
+
+**[8799.26s] English:** Problematic was,  
+**Translation:** Vocabulary: violated: 违反规定
+
+**[8803.94s] English:** To use the subscription in this way, or whatever else.  
+**Translation:** 
+
+**[8807.88s] English:** And he was completely destroyed. Then he registered for Minimax.  
+**Translation:** Vocabulary: minimax: 极小极大
+
+**[8811.56s] English:** For $10 a month, and they use it.  
 **Translation:** 
 
 **[8816.00s] English:** Das finde ich aus vielen Gründen albern.  
 **Translation:** 
 
-**[8818.02s] English:** Weil du gerade einen 200-Dollar-Kunden gewonnen hast,  
+**[8818.02s] English:** Because you just won a $200 customer,  
 **Translation:** 
 
-**[8821.08s] English:** aber jemanden dazu gebracht hast, dein Unternehmen zu hassen.  
-**Translation:** Vocabulary: gebracht: 促使; gewonnen: 赢得; jemanden: 某人; unternehmen: 公司
-
-**[8824.54s] English:** Und wir sind noch so früh dran. Wir wissen nicht einmal, wie die endgültige Form aussehen wird.  
+**[8821.08s] English:** But you have managed to make someone hate your company.  
 **Translation:** 
 
-**[8830.56s] English:** Wird es Claude Codd sein? Vermutlich nicht.  
-**Translation:** Vocabulary: aussehen: 看起来; vermutlich: 可能
-
-**[8833.86s] English:** Weißt du, es ist einfach extrem kurzsichtig gewesen,  
+**[8824.54s] English:** We are still so early in the process. We don't even know how the final form will look.  
 **Translation:** 
 
-**[8837.34s] English:** das eigene Produkt so stark abzuriegeln. Alle anderen Firmen  
-**Translation:** Vocabulary: abzuriegeln: 分割市场; kurzsichtig: 短视; stark: 强烈
-
-**[8841.20s] English:** sind da deutlich hilfreicher gewesen. Ich bin mittlerweile  
+**[8830.56s] English:** Will it be Claude Codd? Probably not.  
 **Translation:** 
 
-**[8845.38s] English:** in den Slack-Channels der meisten großen Lapps.  
-**Translation:** Vocabulary: deutlich: 明显; hilfreicher: 有帮助; mittlerweile: 现在已经
+**[8833.86s] English:** Weißt du, es ist einfach extrem kurzgesehen gewesen,  
+**Translation:** 
+
+**[8837.34s] English:** To keep it as close to the original as possible while adding natural English punctuation and capitalization, it would be: "to separate our own product so strongly. All other firms  
+**Translation:** Vocabulary: capitalization: 大写; einfach: 简单; gewesen: 过去; kurzgesehen: 短视
+
+**[8841.20s] English:** These have been decidedly more helpful. I am now  
+**Translation:** 
+
+**[8845.38s] English:** In the Slack channels of most major apps.  
+**Translation:** Vocabulary: decidedly: 明显地
 
 **[8848.02s] English:** Ich bin auch selbst vertreten. So ziemlich jeder versteht,  
 **Translation:** 
 
-**[8851.60s] English:** dass wir uns noch in der Ära der Erkundung befinden,  
-**Translation:** Vocabulary: befinden: 处于; erkundung: 探索; versteht: 明白; vertreten: 代表; ziemlich: 相当
+**[8851.60s] English:** That we are still in the era of discovery,  
+**Translation:** Vocabulary: vertreten: 代表; ziemlich: 相当
 
-**[8855.88s] English:** in der Zeit der Radiosendungen im Fernsehen.  
+**[8855.88s] English:** During the time of radio broadcasts in television.  
 **Translation:** 
 
-**[8860.52s] English:** Und nicht eine moderne TV-Show, die das Format vollständig nutzt.  
-**Translation:** Vocabulary: fernsehen: 电视广播; radiosendungen: 无线电广播
+**[8860.52s] English:** And not a modern TV show that fully utilizes the format.  
+**Translation:** Vocabulary: broadcasts: 广播; utilizes: 利用
 
-**[8865.28s] English:** Ich glaube, du hast vielen Leuten, also auch nicht technischen Leuten,  
+**[8865.28s] English:** I believe you have helped many people, including those who are not technically minded, a lot.  
 **Translation:** 
 
-**[8869.44s] English:** die Möglichkeiten von KI aufgezeigt.  
-**Translation:** Vocabulary: aufgezeigt: 展示; technischen: 非技术的
+**[8869.44s] English:** The possibilities of AI have been demonstrated.  
+**Translation:** Vocabulary: technically: 在技术上
 
-**[8872.30s] English:** Sie haben sich einfach in diese Idee verliebt und genießen jetzt die Interaktion mit der KI.  
+**[8872.30s] English:** They have simply fallen in love with this idea and are now enjoying the interaction with the AI.  
 **Translation:** 
 
-**[8876.64s] English:** Das ist eine große Herausforderung. Diese Problematik, die man in der Zeit der Radio-Sendungen hat, die kann man überhaupt nicht auslösen. Sie haben sich einfach in diese Idee verliebt und genießen jetzt die Interaktion mit der KI.  
-**Translation:** Vocabulary: herausforderung: 挑战; interaktion: 互动; problematik: 问题; verliebt: 着迷
-
-**[8876.84s] English:** Sie haben sich einfach in diese Idee verliebt und genießen jetzt die Interaktion mit der KI.  
+**[8876.64s] English:** This is a great challenge. This problem, which one encounters during the time of radio broadcasts, cannot be replicated at all. They have simply fallen in love with this idea and are now enjoying the interaction with the AI.  
 **Translation:** 
 
-**[8877.08s] English:** Das ist eine wirklich schöne Sache.  
-**Translation:** Vocabulary: wirklich: 确实
-
-**[8880.00s] English:** Ich glaube, ich spreche da für viele, wenn ich sage, ich glaube, du bist einer der Menschen in der KI, wenn es darum geht, ein gutes Herz, gute Vibes, Humor und den richtigen Geist zu haben.  
+**[8876.84s] English:** They have simply fallen in love with this idea and are now enjoying the interaction with the AI.  
 **Translation:** 
 
-**[8894.66s] English:** Und so hätte es in gewisser Weise nach diesem Modell, das du da beschrieben hast, einen Open Source Teil gegeben.  
-**Translation:** Vocabulary: beschrieben: 描述; geist: 精神; gewisser: 某种意义上; richtigen: 正确的; vibes: 感觉
-
-**[8900.66s] English:** Du wärst dann eben zusätzlich Teil davon gewesen, etwas innerhalb eines großen Unternehmens aufzubauen, um die Entwicklung massiv voranzutreiben.  
+**[8877.08s] English:** This is a really beautiful thing.  
 **Translation:** 
 
-**[8906.96s] English:** Es wäre also eine Art hybrider Weg gewesen, bei dem die Community weiterhin Zugriff gehabt hat, während du gleichzeitig die gewaltigen Ressourcen eines großen Labs genutzt hast.  
-**Translation:** Vocabulary: aufzubauen: 建立; davon: 其中; entwicklung: 发展; etwas: 一些; gewaltigen: 巨大的; gleichzeitig: 同时; hybrider: 混合的; innerhalb: 内部; ressourcen: 资源; unternehmens: 公司的; voranzutreiben: 推动; weiterhin: 继续
-
-**[8915.98s] English:** Weißt du, was viele nicht sehen, ist, dass ich dies in drei Monaten gemacht habe.  
+**[8880.00s] English:** I believe I speak for many when I say that, if it comes to having a good heart, good vibes, humor, and the right spirit, I think you are one of the people in AI.  
 **Translation:** 
 
-**[8921.06s] English:** Ich habe auch andere Dinge gemacht, weißt du, ich habe viele Projekte.  
-**Translation:** Vocabulary: dinge: 事情; nicht: 没有; projekte: 项目
+**[8894.66s] English:** And so, in a way, it would have had an open-source part according to the model you described.  
+**Translation:** Vocabulary: vibes: 感觉
 
-**[8924.76s] English:** Dies war im Januar mein Hauptaugenmerk, weil ich den Sturm kommen sah.  
+**[8900.66s] English:** You would have been an additional part of building something within a large company to massively drive development.  
 **Translation:** 
 
-**[8929.24s] English:** Aber davor habe ich viele andere Dinge gebaut.  
-**Translation:** Vocabulary: hauptaugenmerk: 主要关注; sturm: 风暴
+**[8906.96s] English:** It would have been a kind of hybrid approach, where the community would have continued to have access while you simultaneously leveraged the massive resources of a large lab.  
+**Translation:** Vocabulary: hybrid: 混合型; leveraged: 利用; massively: 大规模地
 
-**[8932.74s] English:** Ich habe so viele Ideen.  
+**[8915.98s] English:** Do you know what many don't see is that I've done this in three months.  
 **Translation:** 
 
-**[8935.14s] English:** Einige sollten da sein.  
+**[8921.06s] English:** I have also done other things, you know, I have worked on many projects.  
 **Translation:** 
 
-**[8936.16s] English:** Einige wären viel besser geeignet, wenn ich Zugang zu den neuesten Spielzeugen hätte und ich möchte irgendwie Zugang zu den neuesten Spielzeugen haben.  
+**[8924.76s] English:** This was in January my main focus because I saw the storm coming.  
 **Translation:** 
 
-**[8947.54s] English:** Das ist wichtig.  
-**Translation:** Vocabulary: geeignet: 适合; irgendwie: somehow; neuesten: 最新的; spielzeugen: 玩具
-
-**[8948.48s] English:** Das ist cool.  
+**[8929.24s] English:** Before that, I built many other things.  
 **Translation:** 
 
-**[8949.72s] English:** Das wird weiterhin existieren.  
-**Translation:** Vocabulary: existieren: 存在
-
-**[8951.54s] English:** Mein kurzfristiger Fokus liegt darauf, diese 2000 Pull Requests abzuarbeiten.  
+**[8932.74s] English:** I have so many ideas.  
 **Translation:** 
 
-**[8956.68s] English:** Oder sind es jetzt 3000?  
-**Translation:** Vocabulary: abzuarbeiten: 处理完毕; kurzfristiger: 短期的
-
-**[8958.72s] English:** Ich weiß es nicht mal.  
+**[8935.14s] English:** Some should be there.  
 **Translation:** 
 
-**[8959.90s] English:** Es gibt einen kleinen Backlog.  
-**Translation:** Vocabulary: backlog: 积压工作
-
-**[8963.76s] English:** Aber das ist nicht das, woran ich bis heute denke.  
+**[8936.16s] English:** Some would be much better if I had access to the newest toys, and I would like somehow to have access to the newest toys.  
 **Translation:** 
 
-**[8966.16s] English:** Ich habe noch 80 arbeiten werde.  
-**Translation:** Vocabulary: arbeiten: 工作
-
-**[8968.06s] English:** Das ist eher ein Fenster in die Zukunft.  
+**[8947.54s] English:** This is important.  
 **Translation:** 
 
-**[8970.08s] English:** Ich werde daraus ein cooles Produkt machen.  
-**Translation:** Vocabulary: fenster: 窗口; machen: 制作
-
-**[8972.08s] English:** Aber ja, ich habe noch mehr Ideen.  
+**[8948.48s] English:** This is cool.  
 **Translation:** 
 
-**[8976.08s] English:** Wenn du dich entscheiden müsstest, gibt es ein Unternehmen, zu dem du tendierst?  
-**Translation:** Vocabulary: entscheiden: 做决定; tendierst: 倾向于; unternehmen: 公司
+**[8949.72s] English:** Das wird weiterhinexistieren.  
+**Translation:** Vocabulary: weiterhinexistieren: 继续存在
 
-**[8980.00s] English:** Also Meta, OpenAI, gibt es eines, dem du dich eher zugehörig fühlst?  
+**[8951.54s] English:** My short-term focus is to work through these 2000 pull requests.  
 **Translation:** 
 
-**[8984.00s] English:** Ich habe Zeit mit beiden verbracht.  
-**Translation:** Vocabulary: verbracht: 花费
-
-**[8986.00s] English:** Und es ist lustig, weil ich vor ein paar Wochen all das noch gar nicht in Betracht gezogen habe.  
+**[8956.68s] English:** Oder sind es jetzt 3,000?  
 **Translation:** 
 
-**[8994.08s] English:** Ich habe Zeit mit beiden verbracht. Und es ist lustig, weil ich vor ein paar Wochen all das noch gar nicht in Betracht gezogen habe.  
-**Translation:** Vocabulary: betracht: 考虑; lustig: 有趣
-
-**[8994.58s] English:** Und es ist lustig, weil ich vor ein paar Wochen all das noch gar nicht in Betracht gezogen habe.  
+**[8958.72s] English:** I don't know either.  
 **Translation:** 
 
-**[9000.00s] English:** Verdammt schwer.  
-**Translation:** Vocabulary: verdammt: damn
+**[8959.90s] English:** There is a small backlog.  
+**Translation:** Vocabulary: backlog: 积压的工作
 
-**[9004.30s] English:** Also, ich kenne bei OpenAI eigentlich niemanden.  
+**[8963.76s] English:** But that is not what I think of today.  
 **Translation:** 
 
-**[9008.24s] English:** Ich liebe ihre Technologie.  
-**Translation:** Vocabulary: eigentlich: 实际上; niemanden: 没有人; technologie: 技术
-
-**[9010.80s] English:** Ich bin wahrscheinlich der größte unbezahlte Codex-Werbeträger überhaupt.  
+**[8966.16s] English:** I have still 80 more to work on.  
 **Translation:** 
 
-**[9016.60s] English:** Und es würde sich schon irgendwie gut anfühlen,  
-**Translation:** Vocabulary: unbezahlte: 未支付的; wahrscheinlich: 可能
-
-**[9019.36s] English:** all der Arbeit, die ich kostenlos gemacht habe, einen Preis zu geben.  
+**[8968.06s] English:** This is more of a window into the future.  
 **Translation:** 
 
-**[9024.98s] English:** Ich würde es lieben, wenn irgendwann etwas passiert  
-**Translation:** Vocabulary: irgendwann: 某时候; kostenlos: 免费; passiert: 发生
-
-**[9027.86s] English:** und diese Unternehmen einfach fusionieren, weil...  
+**[8970.08s] English:** I will make a cool product out of it.  
 **Translation:** 
 
-**[9032.64s] English:** Weißt du, ich hatte in der Vergangenheit einige Trennungen,  
-**Translation:** Vocabulary: fusionieren: 合并; trennungen: 分割; vergangenheit: 过去
-
-**[9042.62s] English:** die sich ähnlich anfühlen.  
+**[8972.08s] English:** Aber ja, I have even more ideas.  
 **Translation:** 
 
-**[9044.28s] English:** Du meinst Beziehungen.  
-**Translation:** Vocabulary: beziehungen: 关系
+**[8976.08s] English:** When you had to choose, is there a particular company you tend toward?  
+**Translation:** 
 
-**[9047.38s] English:** Und ich weiß auch, dass am Ende beide großartig sind.  
+**[8980.00s] English:** Also, do you feel more aligned with Meta or OpenAI?  
+**Translation:** 
+
+**[8984.00s] English:** I have spent time with both.  
+**Translation:** Vocabulary: aligned: 一致
+
+**[8986.00s] English:** It's funny because I hadn't even considered any of this a few weeks ago.  
+**Translation:** 
+
+**[8994.08s] English:** I have spent time with both. And it's funny because I didn't even consider any of this a few weeks ago.  
+**Translation:** 
+
+**[8994.58s] English:** It's funny because I hadn't even considered any of this a few weeks ago.  
+**Translation:** 
+
+**[9000.00s] English:** Verdammt, schwer.  
+**Translation:** Vocabulary: verdammt: 该死的
+
+**[9004.30s] English:** Also, I actually know nobody at OpenAI.  
+**Translation:** 
+
+**[9008.24s] English:** I love their technology.  
+**Translation:** 
+
+**[9010.80s] English:** I am probably the biggest unpaid_codex-advertiser in existence.  
+**Translation:** 
+
+**[9016.60s] English:** And it would feel pretty good somehow.  
+**Translation:** Vocabulary: advertiser: 付费推广者
+
+**[9019.36s] English:** All the work I have done for free, to give it a price.  
+**Translation:** 
+
+**[9024.98s] English:** I would love it if something happened someday.  
+**Translation:** 
+
+**[9027.86s] English:** And these companies simply merge, because...  
+**Translation:** 
+
+**[9032.64s] English:** Do you know, I had some breakups in the past,  
+**Translation:** Vocabulary: breakups: 分手
+
+**[9042.62s] English:** Feel similar.  
+**Translation:** 
+
+**[9044.28s] English:** You mean relationships.  
+**Translation:** 
+
+**[9047.38s] English:** And I also know that at the end, both are great.  
 **Translation:** 
 
 **[9051.02s] English:** Ich kann eigentlich nichts falsch machen.  
-**Translation:** Vocabulary: nichts: 没有东西
+**Translation:** Vocabulary: eigentlich: 实际上; machen: 做; nichts: nothing
 
-**[9052.82s] English:** Das sind zwei der renommiertesten und bedeutendsten Unternehmen,  
+**[9052.82s] English:** These are two of the most renowned and significant companies,  
 **Translation:** 
 
-**[9057.86s] English:** vielleicht nicht die allergrößten,  
-**Translation:** Vocabulary: bedeutendsten: 最有影响力的; nicht: 不是; renommiertesten: 声望最高的; vielleicht: 也许
+**[9057.86s] English:** Maybe not the very largest,  
+**Translation:** Vocabulary: renowned: 著名的
 
-**[9059.82s] English:** aber beide sind wirklich beeindruckend.  
+**[9059.82s] English:** However, both are really impressive.  
 **Translation:** 
 
-**[9062.54s] English:** Beide wissen wirklich, wie man skaliert.  
-**Translation:** Vocabulary: beeindruckend: 令人印象深刻; skaliert: 扩展; wirklich: 确实
-
-**[9065.20s] English:** Wenn man also über Wirkung nachdenkt,  
+**[9062.54s] English:** Both know really how to scale.  
 **Translation:** 
 
-**[9067.52s] English:** über all die spannenden Technologien, die du erkundet hast,  
-**Translation:** Vocabulary: erkundet: 探索; nachdenkt: 思考; spannenden: 有趣的; technologien: 技术
-
-**[9070.82s] English:** darüber, wie man sie sicher umsetzt und in großem Maßstab betreibt,  
+**[9065.20s] English:** When one thinks about the effects,  
 **Translation:** 
 
-**[9074.84s] English:** sodass viele Menschen davon profitieren können,  
-**Translation:** Vocabulary: betreibt: 运营; davon: 从中; menschen: 人们; profitieren: 受益
-
-**[9077.18s] English:** dann verstehen beide genau das.  
+**[9067.52s] English:** Over all the exciting technologies you have explored,  
 **Translation:** 
 
-**[9079.50s] English:** Weißt du, sowohl Ned als auch Marc  
-**Translation:** Vocabulary: verstehen: 理解
-
-**[9081.24s] English:** haben eine ganze Woche mit meinem Produkt herumgespielt.  
+**[9070.82s] English:** About how one safely implements and operates on a large scale,  
 **Translation:** 
 
-**[9084.20s] English:** Und sie haben mir Nachrichten geschickt wie,  
-**Translation:** Vocabulary: geschickt: 发送; herumgespielt: 玩耍; nachrichten: 信息
+**[9074.84s] English:** So that many people can benefit from it.  
+**Translation:** Vocabulary: implements: 实施
 
-**[9086.90s] English:** oh, das ist großartig.  
+**[9077.18s] English:** Then both will understand exactly.  
 **Translation:** 
 
-**[9088.60s] English:** Oder, das ist Mist, das müssen wir ändern.  
+**[9079.50s] English:** Do you know that both Ned and Marc  
 **Translation:** 
 
-**[9092.28s] English:** Oder kleine lustige Anekdoten.  
+**[9081.24s] English:** We have played around with my product for an entire week.  
 **Translation:** 
 
-**[9095.86s] English:** Und wenn Leute dein Produkt wirklich nutzen,  
-**Translation:** Vocabulary: anekdoten: 趣闻轶事
-
-**[9100.90s] English:** ist das irgendwie das größte Kompliment.  
+**[9084.20s] English:** And they have sent me messages like,  
 **Translation:** 
 
-**[9104.06s] English:** Und es zeigt mir auch, dass sie sich tatsächlich dafür interessieren.  
-**Translation:** Vocabulary: interessieren: 感兴趣; irgendwie: somehow; kompliment: 赞美
-
-**[9108.40s] English:** Auf der OpenAI-Seite habe ich das so nicht erlebt.  
+**[9086.90s] English:** Oh, that's great.  
 **Translation:** 
 
-**[9114.94s] English:** Dafür habe ich andere Dinge gesehen, die ich ziemlich cool finde.  
-**Translation:** Vocabulary: dinge: 东西; ziemlich: 相当
-
-**[9118.40s] English:** Und sie locken mich immer teuer.  
+**[9088.60s] English:** Oh, that's rubbish. We have to change it.  
 **Translation:** 
 
-**[9121.02s] English:** Nein, das wird nicht so großartig sein.  
+**[9092.28s] English:** Oder kleine, lustige Anekdoten.  
 **Translation:** 
 
-**[9123.94s] English:** Weil so andere rushedә  
+**[9095.86s] English:** And when people really use your product,  
+**Translation:** Vocabulary: anekdoten: 趣闻轶事; lustige: 有趣的
+
+**[9100.90s] English:** Ist das irgendwie das größte Kompliment.  
+**Translation:** 
+
+**[9104.06s] English:** And it also shows me that they are actually interested.  
+**Translation:** Vocabulary: irgendwie: somehow; kompliment: 赞美
+
+**[9108.40s] English:** On the OpenAI page, I have not experienced that.  
+**Translation:** 
+
+**[9114.94s] English:** For that, I have seen other things that I find pretty cool.  
+**Translation:** 
+
+**[9118.40s] English:** And they always lure me with expensive things.  
+**Translation:** 
+
+**[9120.00s] English:** Ich kann dir die genaue Zahl wegen einer NDA nicht nennen.  
+**Translation:** Vocabulary: nicht: 不
+
+**[9121.02s] English:** No, that won't be great.  
+**Translation:** 
+
+**[9123.94s] English:** Weil so andere rushed.  
+**Translation:** 
+
+**[9130.28s] English:** aber du kannst dir ja mal kreativ vorstellen,  
+**Translation:** 
+
+**[9132.12s] English:** What would a Cerebras deal mean in terms of speed?  
+**Translation:** Vocabulary: cerebras: cerebras公司; kreativ: 创造性地; vorstellen: 想象
+
+**[9138.54s] English:** Das war schon ziemlich faszinierend.  
+**Translation:** 
+
+**[9141.58s] English:** Weißt du, als würden sie mir Thor's Hammer in die Hand drücken.  
+**Translation:** Vocabulary: faszinierend: 令人着迷; hammer: 锤子; ziemlich: 相当
+
+**[9143.88s] English:** And I would say, yes, I was tempted with tokens.  
 **Translation:** 
 
 **[9146.56s] English:** No.  
 **Translation:** 
 
-**[9120.00s] English:** Ich kann dir die genaue Zahl wegen einer NDA nicht nennen,  
+**[9152.68s] English:** Also, ja.  
 **Translation:** 
 
-**[9130.28s] English:** aber du kannst dir ja mal kreativ vorstellen,  
-**Translation:** Vocabulary: vorstellen: 想象
-
-**[9132.12s] English:** was so ein Cerebras-Deal in Sachen Geschwindigkeit bedeuten würde.  
+**[9154.56s] English:** Also, it is already funny.  
 **Translation:** 
 
-**[9138.54s] English:** Das war schon ziemlich faszinierend.  
-**Translation:** Vocabulary: bedeuten: 意味着; faszinierend: 令人着迷; geschwindigkeit: 速度
-
-**[9141.58s] English:** Weißt du, als würde man mir Thor's Hammer in die Hand drücken.  
+**[9156.76s] English:** Mark plays around with it and basically has fun with the thing.  
 **Translation:** 
 
-**[9143.88s] English:** Und ich würde sagen, ja, ich wurde mit Tokens gelockt.  
+**[9161.02s] English:** When he first approached me, I had him directly on WhatsApp.  
+**Translation:** Vocabulary: approached: 接近
+
+**[9166.76s] English:** He meant, yes, we'll do a call.  
 **Translation:** 
 
-**[9152.68s] English:** Also ja.  
+**[9169.42s] English:** I said, I don't like calendar entries.  
 **Translation:** 
 
-**[9154.56s] English:** Also es ist schon witzig.  
+**[9172.34s] English:** Let's just telephone now.  
 **Translation:** 
 
-**[9156.76s] English:** Mark bastelt einfach daran herum und hat im Grunde Spaß mit dem Ding.  
+**[9174.62s] English:** And then, give me ten minutes; I need to finish coding something quickly.  
 **Translation:** 
 
-**[9161.02s] English:** Als er das erste Mal auf mich zugegangen ist, hatte ich ihn direkt auf WhatsApp.  
-**Translation:** Vocabulary: zugegangen: 走过来
-
-**[9166.76s] English:** Er meinte, ja, wir machen einen Call.  
+**[9179.74s] English:** Naja, that gives him already some street credibility.  
 **Translation:** 
 
-**[9169.42s] English:** Und ich sagte, ich mag keine Kalendereinträge.  
-**Translation:** Vocabulary: machen: 做
+**[9182.40s] English:** So, after the motto: He really still writes code himself.  
+**Translation:** Vocabulary: credibility: 可信度
 
-**[9172.34s] English:** Lass uns einfach jetzt telefonieren.  
-**Translation:** 
-
-**[9174.62s] English:** Und er so, gib mir zehn Minuten, ich muss noch kurz etwas fertig coden.  
-**Translation:** Vocabulary: etwas: 一些; telefonieren: 打电话
-
-**[9179.74s] English:** Naja, das gibt ihm schon Street-Credibility.  
-**Translation:** 
-
-**[9182.40s] English:** So nach dem Motto, er schreibt wirklich noch selbst Code.  
-**Translation:** Vocabulary: schreibt: 撰写代码
-
-**[9186.06s] English:** Er hat nicht einfach nur als Manager gearbeitet, er versteht mich.  
+**[9186.06s] English:** He has not just worked as a manager; he understands me.  
 **Translation:** 
 
 **[9190.20s] English:** Das war ein guter Anfang.  
-**Translation:** Vocabulary: gearbeitet: 工作; versteht: 理解
-
-**[9192.12s] English:** Dann hatten wir, glaube ich, einen zehnminütigen Streit.  
 **Translation:** 
 
-**[9196.18s] English:** Was ist besser, Cloud-Code oder Codex?  
-**Translation:** Vocabulary: codex: 代码库; streit: 争执
+**[9192.12s] English:** Then, I believe, we had a ten-minute argument.  
+**Translation:** 
+
+**[9196.18s] English:** What is better, Cloud Code or Codex?  
+**Translation:** Vocabulary: codex: 代码库
 
 **[9200.50s] English:** Das ist schon verrückt.  
 **Translation:** 
 
-**[9202.68s] English:** Du rufst ganz locker jemanden an.  
-**Translation:** Vocabulary: jemanden: 任何人
+**[9202.68s] English:** You call someone casually.  
+**Translation:** Vocabulary: casually: 随便地
 
-**[9203.88s] English:** Eines der größten Unternehmen der Welt besitzt.  
+**[9203.88s] English:** One of the largest companies in the world owns.  
 **Translation:** 
 
-**[9207.48s] English:** Und führst erstmal ein zehnminütiges Gespräch genau darüber.  
-**Translation:** Vocabulary: unternehmen: 公司
+**[9207.48s] English:** First, conduct a ten-minute conversation exactly about it.  
+**Translation:** 
 
-**[9210.74s] English:** Und danach hat er mich, glaube ich, exzentrisch, aber brillant genannt.  
+**[9210.74s] English:** After that, I believe he called me eccentric, but brilliant.  
 **Translation:** 
 
 **[9217.70s] English:** Aber ich hatte auch ein paar wirklich, wirklich spannende Gespräche mit Sam Altman.  
-**Translation:** Vocabulary: brillant: 聪明; exzentrisch: 古怪; spannende: 有趣的; wirklich: 真正
+**Translation:** Vocabulary: eccentric: 古怪; spannende: 精彩的; wirklich: 真正
 
-**[9225.00s] English:** Und er ist sehr tiefgründig.  
+**[9225.00s] English:** And he is very profound.  
 **Translation:** 
 
-**[9231.94s] English:** Er ist brillant.  
-**Translation:** 
+**[9231.94s] English:** He is brilliant.  
+**Translation:** Vocabulary: profound: 见解深刻
 
 **[9233.88s] English:** Und...  
 **Translation:** 
@@ -8353,599 +8354,599 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[9235.88s] English:** Und...  
 **Translation:** 
 
-**[9240.00s] English:** Ich mag ihn wirklich sehr. Zumindest nach der kurzen Zeit, die ich mit ihm hatte.  
+**[9240.00s] English:** I really like him. At least, based on the short time I spent with him.  
 **Translation:** 
 
-**[9246.38s] English:** Ja, ich weiß, manche Leute verteufeln beide.  
-**Translation:** Vocabulary: manche: 一些; verteufeln: 诋毁; zumindest: 至少
+**[9246.38s] English:** Ja, I know, some people condemn both.  
+**Translation:** Vocabulary: condemn: 谴责
 
-**[9252.36s] English:** Ich finde, das ist nicht fair.  
+**[9252.36s] English:** I find that is not fair.  
 **Translation:** 
 
-**[9254.54s] English:** Ich finde, egal was passiert, das, was du entwickelst und die Art Mensch, die du bist, das in großem Maßstab umzusetzen, ist schon ziemlich beeindruckend.  
-**Translation:** Vocabulary: beeindruckend: 令人印象深刻; entwickelst: 开发; mensch: 人; passiert: 发生; umzusetzen: 实施; ziemlich: 相当
+**[9254.54s] English:** I think that, no matter what happens, taking what you develop and the kind of person you are, and implementing it on a large scale, is already quite impressive.  
+**Translation:** Vocabulary: implementing: 实施
 
-**[9263.32s] English:** Ich freue mich darauf.  
+**[9263.32s] English:** I look forward to it.  
 **Translation:** 
 
-**[9264.52s] English:** Ich bin total begeistert. Weißt du, das Schöne ist, wenn...  
+**[9264.52s] English:** Ich bin totally begeistert. Did you know, the nice thing is, when...  
 **Translation:** Vocabulary: begeistert: 兴奋
 
-**[9270.00s] English:** Wenn es nicht funktioniert, kann ich einfach wieder mein eigenes Ding machen.  
+**[9270.00s] English:** When it doesn't work, I can simply do my own thing again.  
 **Translation:** 
 
-**[9277.10s] English:** Ich habe es ihnen gesagt. Ich mache das nicht wegen des Geldes. Es ist mir egal.  
-**Translation:** Vocabulary: funktioniert: 起作用
-
-**[9283.00s] English:** Ein nettes Kompliment ist es trotzdem.  
+**[9277.10s] English:** I have told them. I am not doing this for the money. It doesn't matter to me.  
 **Translation:** 
 
-**[9285.84s] English:** Aber ich will Spaß haben und etwas bewirken.  
-**Translation:** Vocabulary: bewirken: 造成影响; kompliment: 恭维; trotzdem: 尽管如此
-
-**[9290.54s] English:** Und das ist letztlich, was zählt.  
+**[9283.00s] English:** A nice compliment, nonetheless.  
 **Translation:** 
 
-**[9291.80s] English:** Und ich habe mich entschieden.  
-**Translation:** Vocabulary: entschieden: 决定; letztlich: 最终
-
-**[9298.68s] English:** Darf ich dich noch etwas fragen?  
+**[9285.84s] English:** But I want to have fun and make a difference.  
 **Translation:** 
 
-**[9300.00s] English:** Wir haben zwar schon viel darüber gesprochen, aber vielleicht gehen wir einen Schritt zurück.  
-**Translation:** Vocabulary: etwas: 一些; gesprochen: 讨论过; vielleicht: 也许
-
-**[9304.62s] English:** Wie funktioniert OpenClaw eigentlich im Gesamtbild?  
+**[9290.54s] English:** And that is ultimately what counts.  
 **Translation:** 
 
-**[9308.10s] English:** Gibt es noch spannende Aspekte, die wir bisher übersehen haben?  
-**Translation:** Vocabulary: eigentlich: 实际上; gesamtbild: 整体
-
-**[9311.98s] English:** Also es gibt das Gateway, die Chat-Clients, das Harness.  
+**[9291.80s] English:** I have decided.  
 **Translation:** 
 
-**[9315.56s] English:** Es gibt den Agentic-Loop.  
+**[9298.68s] English:** May I ask you one more question?  
 **Translation:** 
 
-**[9317.66s] English:** Du hast irgendwo gesagt, dass jeder irgendwann in seinem Leben einmal einen Agent-Loop implementieren sollte.  
+**[9300.00s] English:** We have talked about this a lot, but perhaps we should take a step back.  
 **Translation:** 
 
-**[9324.58s] English:** Ja, weil es so etwas wie das Hello World der KI ist.  
-**Translation:** Vocabulary: implementieren: 实现; irgendwann: someday; irgendwo: 某处; leben: 生活
-
-**[9328.44s] English:** Und es ist eigentlich...  
+**[9304.62s] English:** How does OpenClaw actually work in the big picture?  
 **Translation:** 
 
-**[9330.00s] English:** Ziemlich einfach.  
+**[9308.10s] English:** Are there any exciting aspects that we have overlooked so far?  
+**Translation:** Vocabulary: overlooked: 忽视的
+
+**[9311.98s] English:** Also, there is the gateway, the chat clients, and the harness.  
 **Translation:** 
 
-**[9332.42s] English:** Es ist gut zu verstehen, dass das alles keine Magie ist.  
+**[9315.56s] English:** There is the Agentic Loop.  
+**Translation:** Vocabulary: agentic: 代理环; gateway: 网关; harness: 马具
+
+**[9317.66s] English:** You have said somewhere that everyone should implement an agent loop at least once in their life.  
 **Translation:** 
 
-**[9335.42s] English:** Man kann so etwas problemlos selbst bauen.  
-**Translation:** Vocabulary: problemlos: 轻松实现; verstehen: 理解
+**[9324.58s] English:** Ja, because it's like the Hello World of AI.  
+**Translation:** Vocabulary: implement: 实现
 
-**[9338.44s] English:** Also sein eigenes kleines Cloud-Code schreiben.  
+**[9328.44s] English:** And it is actually...  
+**Translation:** 
+
+**[9330.00s] English:** Quite simple.  
+**Translation:** 
+
+**[9332.42s] English:** It is good to understand that all of this is not magic.  
+**Translation:** 
+
+**[9335.42s] English:** One can build something like this easily.  
+**Translation:** 
+
+**[9338.44s] English:** Also, write your own small cloud code.  
 **Translation:** 
 
 **[9340.54s] English:** Ich habe das sogar auf einer Konferenz in Paris mit Leuten gemacht, um sie an KI heranzuführen.  
-**Translation:** Vocabulary: konferenz: 会议; schreiben: 编写
+**Translation:** Vocabulary: gemacht: 做; konferenz: 会议
 
 **[9346.84s] English:** Aber ich finde, das ist eine kleine, unterhaltsame Übung.  
 **Translation:** 
 
-**[9352.28s] English:** Du hast schon viel abgedeckt.  
-**Translation:** Vocabulary: abgedeckt: 已经涵盖; unterhaltsame: 有趣的
+**[9352.28s] English:** You have already covered a lot.  
+**Translation:** Vocabulary: unterhaltsame: 有趣的
 
-**[9354.44s] English:** Ich glaube, eine etwas verrückte Idee, die ich hatte und die sich als...  
+**[9354.44s] English:** I believe, however crazy an idea it might seem, that I had and which turned out to be...  
 **Translation:** 
 
-**[9360.00s] English:** ziemlich cool herausgestellt hat, war, dass ich dieses Ding mit vollem Systemzugriff gebaut habe.  
-**Translation:** Vocabulary: herausgestellt: 结果; systemzugriff: 系统访问
-
-**[9367.22s] English:** Also nach dem Motto, mit großer Macht kommt große Verantwortung.  
+**[9360.00s] English:** It was pretty cool to reveal that I built this thing with full system access.  
 **Translation:** 
 
-**[9370.76s] English:** Ja, genau.  
-**Translation:** Vocabulary: verantwortung: 责任
-
-**[9371.28s] English:** Und ich dachte mir, wie kann ich den Einsatz noch ein bisschen erhöhen?  
+**[9367.22s] English:** Also, according to the motto: with great power comes great responsibility.  
 **Translation:** 
 
-**[9376.36s] English:** Und ich habe es einfach proaktiv gemacht.  
-**Translation:** Vocabulary: bisschen: 一点; proaktiv: 主动
-
-**[9378.80s] English:** Also habe ich einen Prompt hinzugefügt.  
+**[9370.76s] English:** Ja, exactly.  
 **Translation:** 
 
-**[9380.64s] English:** Am Anfang war es nur, überrasch mich.  
+**[9371.28s] English:** And I thought, how can I increase the deployment a bit more?  
 **Translation:** 
 
-**[9384.04s] English:** So alle halbe Stunde, überrasch mich, weißt du.  
+**[9376.36s] English:** And I simply took a proactive approach.  
+**Translation:** Vocabulary: deployment: 部署
+
+**[9378.80s] English:** Also, I have added a prompt.  
 **Translation:** 
 
-**[9387.34s] English:** Also später habe ich die Definition von Überraschung etwas genauer gefasst.  
-**Translation:** Vocabulary: halbe: 半个小时
+**[9380.64s] English:** At the beginning, it was just surprise me.  
+**Translation:** Vocabulary: prompt: 提示
+
+**[9384.04s] English:** So every half hour, surprise me, you know.  
+**Translation:** 
+
+**[9387.34s] English:** Also, later, I refined the definition of surprise a bit.  
+**Translation:** Vocabulary: refined: 精炼
 
 **[9395.34s] English:** Aber allein die Tatsache, dass ich es proaktiv gemacht habe, dass es dich kennt und sich um dich kümmert,  
 **Translation:** 
 
-**[9403.24s] English:** zumindest so programmiert oder gepromptet ist, das war spannend.  
-**Translation:** Vocabulary: gepromptet: 提示; programmiert: 编程; spannend: 有趣; tatsache: 事实; zumindest: 至少
+**[9403.24s] English:** At least that's how it was programmed or prompted, which was pretty exciting.  
+**Translation:** Vocabulary: proaktiv: 主动; prompted: 提示; tatsache: 事实
 
-**[9409.12s] English:** Und das, also dieser Anschluss an deine aktuelle Session, macht es wirklich interessant,  
+**[9409.12s] English:** And that, which connects to your current session, makes it really interesting.  
 **Translation:** 
 
-**[9414.68s] English:** weil es dann einfach manchmal eine Rückfrage stellt.  
-**Translation:** Vocabulary: aktuelle: 当前; anschluss: 连接; interessant: 有趣; manchmal: 有时; wirklich: 确实
+**[9414.68s] English:** Weil es dann einfach manchmal eine Rückfrage stellt.  
+**Translation:** Vocabulary: einfach: 简单; manchmal: 有时
 
-**[9417.34s] English:** Oder sagt, wie war dein Tag?  
+**[9417.34s] English:** Oder, sagen Sie, wie war dein Tag?  
 **Translation:** 
 
-**[9419.70s] English:** Ich meine, das ist wieder so ein bisschen unheimlich oder seltsam oder einfach interessant.  
-**Translation:** Vocabulary: unheimlich: 阴森恐怖
+**[9419.70s] English:** I mean, that's a bit creepy or strange or simply interesting.  
+**Translation:** Vocabulary: creepy: 令人毛骨悚然
 
-**[9427.28s] English:** Aber dieses Heartbeat-Ding, besonders am Anfang, ist noch sehr präsent.  
+**[9427.28s] English:** But this heartbeat thing, particularly at the beginning, is still very present.  
 **Translation:** 
 
-**[9433.46s] English:** Heute nutzt das Modell es allerdings nicht mehr so häufig.  
-**Translation:** Vocabulary: allerdings: 然而; besonders: 尤其; nicht: 不
+**[9433.46s] English:** Heute, however, the model does not use it as frequently anymore.  
+**Translation:** Vocabulary: heartbeat: 心率
 
-**[9436.70s] English:** Übrigens, wir sprechen hier von Heartbeat, also von dem Mechanismus, der regelmäßig selbst aktiv wird.  
+**[9436.70s] English:** By the way, we are talking about Heartbeat, which is a mechanism that regularly activates itself.  
 **Translation:** 
 
-**[9443.94s] English:** Ja, es startet einfach den Loop.  
-**Translation:** Vocabulary: mechanismus: 机制; sprechen: 谈论
+**[9443.94s] English:** Ja, it starts the loop simply.  
+**Translation:** 
 
 **[9445.20s] English:** Das ist doch nur ein Cronjob, oder?  
 **Translation:** 
 
-**[9447.98s] English:** Ja, genau. Ich denke, es ist...  
+**[9447.98s] English:** Ja, genau. I think it is...  
+**Translation:** Vocabulary: cronjob: 定时任务
+
+**[9449.64s] English:** The criticism you receive is utterly hilarious.  
 **Translation:** 
 
-**[9449.64s] English:** Die Kritik, die du bekommst, ist urkomisch.  
-**Translation:** 
-
-**[9451.94s] English:** Man kann jede Idee am Ende auf etwas ziemlich Banales herunterbrechen.  
-**Translation:** Vocabulary: bekommst: 得到; etwas: 一些; herunterbrechen: 简化; urkomisch: 非常滑稽; ziemlich: 相当
+**[9451.94s] English:** One can break down any idea at the end to something rather mundane.  
+**Translation:** Vocabulary: hilarious: 非常好笑; mundane: 平凡之事; utterly: 完全地
 
 **[9456.10s] English:** Ja, im Grunde ist es einfach nur ein Cronjob.  
 **Translation:** 
 
-**[9458.88s] English:** Also ich habe mehrere separate Cronjobs laufen.  
-**Translation:** Vocabulary: cronjobs: 定时任务
-
-**[9461.64s] English:** Ich liebe nicht einfach nur evolutionsbiologische Mechanik, die sich manifestiert.  
+**[9458.88s] English:** Also, I have several separate cron jobs running.  
 **Translation:** 
 
-**[9465.54s] English:** Und benutzt man sich am Ende nicht einfach nur gegenseitig.  
-**Translation:** Vocabulary: evolutionsbiologische: 进化生物学; gegenseitig: 相互的; manifestiert: 表现; mechanik: 机制
-
-**[9468.90s] English:** Und dann ist das Projekt am Ende ja auch nur der Kleber zwischen ein paar Dependencies.  
+**[9461.64s] English:** I do not love just evolutionary biological mechanics that manifest themselves.  
 **Translation:** 
 
-**[9475.80s] English:** Nichts wirklich Originelles.  
-**Translation:** Vocabulary: kleber: 胶水; nichts: nothing; originelles: 新颖; zwischen: 之间
+**[9465.54s] English:** Do we end up using each other simply against our will?  
+**Translation:** Vocabulary: evolutionary: 进化的; manifest: 显现
 
-**[9477.34s] English:** Warum also, naja, ist Dropbox nicht auch nur...  
+**[9468.90s] English:** Then, the project at the end is just glue between a few dependencies.  
 **Translation:** 
 
-**[9480.00s] English:** Ja, FDP mit zusätzlichen Schritten. Was mich überrascht hat, ich hatte vor ein paar Monaten eine Schulteroperation. Normalerweise hat das Modell den Heartbeat kaum genutzt. Aber als ich im Krankenhaus war und es wusste, dass ich operiert wurde, hat es sich gemeldet. So nach dem Motto, geht es dir gut?  
-**Translation:** Vocabulary: gemeldet: 上报; krankenhaus: 医院; normalerweise: 通常; operiert: 手术; schritten: 步骤; schulteroperation: 肩部手术
-
-**[9498.82s] English:** Ja, und ich dachte nur, offenbar reicht etwas Bedeutendes im Kontext, um den Heartbeat auszulösen. Selbst wenn er sonst kaum verwendet wird. Und so verhalten sich auch Menschen manchmal. Und genau das macht es viel nahbarer.  
+**[9475.80s] English:** Nothing Really Original.  
 **Translation:** 
 
-**[9517.26s] English:** Lass mich das kurz auf Perplexity nachschauen, wie OpenClaw funktioniert. Nur um zu sehen, ob mir etwas entgeht. Local Agent Runtime, High-Level-Architektur.  
-**Translation:** Vocabulary: bedeutendes: 重要的; funktioniert: 工作; menschen: 人类; nachschauen: 查看; nahbarer: 更贴近; offenbar: 显然; perplexity: 困惑度; runtime: 运行时; verhalten: 行为; verwendet: 使用
-
-**[9526.48s] English:** Da gibt es, oh, über Skills haben wir noch nicht viel gesprochen. Also über den Skill Hub, die Tools in der Skill-Ebene. Das ist auf jeden Fall ein riesiger Bestandteil.  
+**[9477.34s] English:** Why, well, why isn't Dropbox just...  
 **Translation:** 
 
-**[9536.66s] English:** Also, weißt du, was ich liebe?  
-**Translation:** Vocabulary: bestandteil: 组成部分; gesprochen: 讨论过; riesiger: 巨大的
+**[9480.00s] English:** Ja, FDP mit zusätzlichen Schritten. What has surprised me is that I had a shoulder operation a few months ago. Normally, the model hardly uses the Heartbeat. But when I was in the hospital and it knew that I had been operated on, it contacted me. Sort of like checking up on me, "Are you okay?  
+**Translation:** Vocabulary: dropbox: 云存储; schritten: 步骤
+
+**[9498.82s] English:** Ja, und ich dachte nur: Offenbar reicht etwas Bedeutendes im Kontext, um den Heartbeat auszulösen. Selbst wenn er sonst kaum verwendet wird. Und so verhalten sich auch Menschen manchmal. Und genau das macht es viel nahbarer.  
+**Translation:** 
+
+**[9517.26s] English:** Let me check the Perplexity score for OpenClaw, just to see if anything is missing. Local Agent Runtime, High-Level Architecture.  
+**Translation:** Vocabulary: bedeutendes: 重要的; etwas: 一些; heartbeat: 心跳; kontext: 上下文; manchmal: 有时; menschen: 人们; nahbarer: 更贴近的; offenbar: 显然; perplexity: 困惑度; runtime: 运行时; verhalten: 行为; verwendet: 使用
+
+**[9526.48s] English:** There are, oh, we haven't really talked much about skills yet. So, about the Skill Hub and the tools at that level. That is definitely a huge component.  
+**Translation:** 
+
+**[9536.66s] English:** Also, do you know what I love?  
+**Translation:** 
 
 **[9540.42s] English:** Ja.  
 **Translation:** 
 
-**[9540.72s] English:** Vor einem halben Jahr hat jeder über MCPs gesprochen. Und ich dachte nur, vergesst die MCPs. Jede MCP wäre als CLI besser aufgehoben.  
-**Translation:** Vocabulary: aufgehoben: 安置; vergesst: 忘记
-
-**[9552.10s] English:** Und jetzt hat das Ganze nicht einmal richtig...  
+**[9540.72s] English:** Before a year ago, everyone was talking about MCPs. And I thought only, forget the MCPs; every MCP would be better off as a CLI.  
 **Translation:** 
 
-**[9556.48s] English:** Ja, richtig. MCP-Support. Also schon irgendwie, aber nicht in der Kernschicht. Und niemand beschwert sich. Also ist mein Ansatz, wenn du das Modell um weitere Funktionen erweitern willst, entwickelst du einfach ein CLI.  
-**Translation:** Vocabulary: beschwert: 抱怨; entwickelst: 开发; erweitern: 扩展; funktionen: 功能; irgendwie: 某种程度上; kernschicht: 核心层; nicht: 不
+**[9552.10s] English:** Now, this hasn't even really...  
+**Translation:** 
 
-**[9573.32s] English:** Und das Modell kann dieses CLI aufrufen, macht es vielleicht erst falsch, schaut ins Help-Menü und lädt sich bei Bedarf genau das in den Kontext, was es braucht, um das CLI korrekt zu benutzen.  
+**[9556.48s] English:** Ja, richtig. MCP-Support. Also, schon irgendwie, but not in the core layer. And nobody complains. So, my approach is: if you want to extend the model with additional functions, just develop a CLI.  
+**Translation:** Vocabulary: irgendwie: 有些; richtig: 正确
+
+**[9573.32s] English:** And the model can call this CLI, which might then go wrong by looking into the Help menu and loading only what it needs into the context to use the CLI correctly when required.  
 **Translation:** 
 
 **[9585.36s] English:** Ja.  
-**Translation:** Vocabulary: aufrufen: 调用; benutzen: 使用; vielleicht: 可能
-
-**[9586.48s] English:** Das ist im Grunde nur ein Satz, um zu wissen, dass das CLI existiert. Falls es nicht ohnehin schon im Standardwissen des Modells ist.  
 **Translation:** 
 
-**[9594.34s] English:** Und eine Zeit lang habe ich Skills gar nicht so wichtig genommen. Aber eigentlich sind sie perfekt dafür.  
-**Translation:** Vocabulary: eigentlich: 实际上; existiert: 存在; genommen: 看待; standardwissen: 基础知识
-
-**[9600.00s] English:** sie sich auf einen einzigen Satz herunterbrechen lassen.  
+**[9586.48s] English:** This is basically just a sentence to know that the CLI exists. If it isn't already standard knowledge in the model.  
 **Translation:** 
 
-**[9604.30s] English:** Dieser eine Satz beschreibt den Skill,  
-**Translation:** Vocabulary: beschreibt: 描述; einzigen: 唯一的; herunterbrechen: 分解
-
-**[9606.14s] English:** dann lädt das Modell den Skill, der wiederum  
+**[9594.34s] English:** For a while, I didn't think skills were that important. But actually, they are perfect for it.  
 **Translation:** 
 
-**[9608.02s] English:** das CLI erklärt. Und anschließend  
-**Translation:** Vocabulary: wiederum: 再次
-
-**[9610.08s] English:** nutzt das Modell das CLI.  
+**[9600.00s] English:** They can be broken down into a single sentence.  
 **Translation:** 
 
-**[9612.74s] English:** Manche Skills sind eher roh,  
-**Translation:** Vocabulary: manche: 一些
-
-**[9614.16s] English:** aber meistens funktioniert das Zusammenspiel.  
+**[9604.30s] English:** This one sentence describes the skill,  
 **Translation:** 
 
-**[9616.84s] English:** Interessant.  
-**Translation:** Vocabulary: interessant: 有趣; meistens: 大多数时候; zusammenspiel: 配合
+**[9606.14s] English:** Then the model loads the skill, which in turn  
+**Translation:** 
 
-**[9617.98s] English:** Ich frage gerade Perplexity.  
+**[9608.02s] English:** Das CLI explained. And subsequently,  
+**Translation:** Vocabulary: subsequently: 随后
+
+**[9610.08s] English:** Uses the CLI model.  
+**Translation:** 
+
+**[9612.74s] English:** Many skills are rather raw,  
+**Translation:** 
+
+**[9614.16s] English:** However, most often, the interaction works.  
+**Translation:** 
+
+**[9616.84s] English:** Interesting.  
+**Translation:** 
+
+**[9617.98s] English:** I just asked Perplexity.  
 **Translation:** 
 
 **[9620.20s] English:** MCP vs. Skills.  
+**Translation:** Vocabulary: perplexity: 困惑
+
+**[9622.64s] English:** For that, it almost requires  
 **Translation:** 
 
-**[9622.64s] English:** Denn dafür braucht es fast schon  
+**[9624.02s] English:** A current pointed opinion,  
 **Translation:** 
 
-**[9624.02s] English:** eine aktuelle zugespitzte Meinung,  
-**Translation:** Vocabulary: aktuelle: 最新的; zugespitzte: 尖锐的
-
-**[9626.04s] English:** weil deine allgemeine Haltung ja ist,  
+**[9626.04s] English:** Weil deine allgemeine Haltung ja ist,  
 **Translation:** 
 
-**[9627.52s] English:** dass MCP so halbtot ist.  
-**Translation:** Vocabulary: allgemeine: 一般的
+**[9627.52s] English:** That MCP is so half-tot.  
+**Translation:** Vocabulary: allgemeine: 一般的; haltung: 态度
 
-**[9630.66s] English:** MCP ist stärker  
+**[9630.66s] English:** MCP is stronger.  
 **Translation:** 
 
-**[9631.66s] English:** strukturiert. Wenn man Perplexity  
-**Translation:** Vocabulary: strukturiert: 结构化
-
-**[9633.54s] English:** hier zuhört, geht es bei MCP darum,  
+**[9631.66s] English:** Structured. When man Perplexity  
 **Translation:** 
 
-**[9636.02s] English:** was kann ich erreichen? Also  
-**Translation:** Vocabulary: erreichen: 达到
-
-**[9637.52s] English:** APIs, Datenbanken,  
+**[9633.54s] English:** Here, it's about MCP regarding listening.  
 **Translation:** 
 
-**[9639.68s] English:** Services, Dateien über ein Protokoll.  
-**Translation:** Vocabulary: datenbanken: 数据库; protokoll: 协议
-
-**[9642.38s] English:** Ein klar definiertes Schema,  
+**[9636.02s] English:** What can I achieve? Also,  
 **Translation:** 
 
-**[9643.72s] English:** wie man mit einem System kommuniziert.  
-**Translation:** Vocabulary: definiertes: 明确定义的; kommuniziert: 交流; schema: 架构
-
-**[9645.76s] English:** Und Skills beschreiben eher,  
+**[9637.52s] English:** APIs, databases,  
 **Translation:** 
 
-**[9647.46s] English:** wie sollte ich arbeiten? Also Abläufe,  
-**Translation:** Vocabulary: arbeiten: 工作; beschreiben: 描述
+**[9639.68s] English:** Services, files over a protocol.  
+**Translation:** Vocabulary: databases: 数据库
 
-**[9649.56s] English:** Helfer-Skripte, Prompts, oft in halbstrukturierter  
+**[9642.38s] English:** A clearly defined schema,  
 **Translation:** 
 
-**[9652.06s] English:** natürlicher Sprache formuliert, oder?  
-**Translation:** Vocabulary: formuliert: 表述; halbstrukturierter: 半结构化
+**[9643.72s] English:** How to communicate with a system.  
+**Translation:** Vocabulary: schema: 架构
 
-**[9654.36s] English:** Und technisch gesehen könnten  
+**[9645.76s] English:** Skills describe more accurately,  
 **Translation:** 
 
-**[9655.50s] English:** Skills MCP ersetzen.  
-**Translation:** Vocabulary: ersetzen: 替换; technisch: 技术上
-
-**[9657.66s] English:** Vorausgesetzt, das Modell ist klug genug.  
+**[9647.46s] English:** How should I work? Also, processes,  
 **Translation:** 
 
-**[9660.00s] English:** Ich glaube, der größte Vorteil ist,  
-**Translation:** Vocabulary: vorausgesetzt: 假设
-
-**[9661.96s] English:** dass Modelle sehr gut darin sind,  
+**[9649.56s] English:** Helper Scripts, Prompts, Oft in Half-Structured  
 **Translation:** 
 
-**[9663.52s] English:** Unix-Befehle aufzurufen. Wenn du einfach  
-**Translation:** Vocabulary: aufzurufen: 调用; darin: 擅长
+**[9652.06s] English:** Natural language formulated, or?  
+**Translation:** Vocabulary: helper: 辅助程序; prompts: 提示
 
-**[9665.72s] English:** ein weiteres CLI hinzufügst,  
+**[9654.36s] English:** Und technisch gesehen, könnten  
 **Translation:** 
 
-**[9667.82s] English:** ist das am Ende nur ein weiterer Unix-Command.  
-**Translation:** Vocabulary: weiterer: 另外的; weiteres: 更多的
+**[9655.50s] English:** Skills MCPSZETZEHN.  
+**Translation:** Vocabulary: technisch: 技术上
 
-**[9670.52s] English:** MCP dagegen  
+**[9657.66s] English:** Assuming the model is smart enough.  
 **Translation:** 
 
-**[9671.58s] English:** muss im Training verankert sein.  
-**Translation:** Vocabulary: verankert: 固定
-
-**[9674.24s] English:** Das ist für das Modell  
+**[9660.00s] English:** I believe the greatest advantage is,  
 **Translation:** 
 
-**[9675.24s] English:** nichts Natürliches. Es erfordert  
-**Translation:** Vocabulary: erfordert: 需要
-
-**[9677.50s] English:** eine sehr spezifische Syntax.  
+**[9661.96s] English:** That models are very good at,  
 **Translation:** 
 
-**[9680.48s] English:** Und der größte Punkt,  
-**Translation:** Vocabulary: punkt: 要点; spezifische: 具体的; syntax: 语法
-
-**[9682.48s] English:** es ist nicht komponierbar.  
+**[9663.52s] English:** Unix-Commands to call up. If you simply  
 **Translation:** 
 
-**[9684.20s] English:** Stell dir vor, ich habe einen  
-**Translation:** Vocabulary: komponierbar: 可组合; nicht: 不; stell: 想象
-
-**[9685.64s] English:** Service, der mir bessere Wetterdaten  
+**[9665.72s] English:** Add another CLI,  
 **Translation:** 
 
-**[9687.54s] English:** liefert, Durchschnittstemperatur,  
-**Translation:** Vocabulary: durchschnittstemperatur: 平均气温; wetterdaten: 气象数据
-
-**[9689.52s] English:** Regen, Wind und so weiter.  
+**[9667.82s] English:** Is this at the end just another Unix command?  
 **Translation:** 
 
-**[9692.30s] English:** Und ich bekomme  
+**[9670.52s] English:** MCP, against.  
 **Translation:** 
 
-**[9693.44s] English:** so einen riesigen Blob zurück.  
+**[9671.58s] English:** Must be anchored in training.  
+**Translation:** Vocabulary: anchored: 稳固
+
+**[9674.24s] English:** This is for the model.  
 **Translation:** 
 
-**[9695.96s] English:** Als Modell muss ich immer diesen  
-**Translation:** Vocabulary: riesigen: 巨大的
-
-**[9697.36s] English:** gesamten Blob laden.  
+**[9675.24s] English:** Nothing Natural. It requires  
 **Translation:** 
 
-**[9699.40s] English:** Ich fülle meinen Kontext damit und suche mir dann heraus,  
-**Translation:** Vocabulary: gesamten: 整个; laden: 加载
-
-**[9701.52s] English:** was ich brauche.  
+**[9677.50s] English:** A very specific syntax.  
 **Translation:** 
 
-**[9703.48s] English:** Es gibt keine natürliche Filterung.  
-**Translation:** Vocabulary: filterung: 过滤
+**[9680.48s] English:** The biggest point,  
+**Translation:** Vocabulary: syntax: 句法
 
-**[9705.58s] English:** Es sei denn, ich denke proaktiv  
+**[9682.48s] English:** It is not komponierbar.  
 **Translation:** 
 
-**[9707.40s] English:** daran und baue eine Filterlogik  
-**Translation:** Vocabulary: filterlogik: 过滤机制; proaktiv: 主动
+**[9684.20s] English:** Imagine, I have a  
+**Translation:** Vocabulary: komponierbar: 可组合的
 
-**[9709.72s] English:** direkt in mein MCP ein.  
+**[9685.64s] English:** Service, which provides me with better weather data.  
 **Translation:** 
 
-**[9712.66s] English:** Wenn ich  
+**[9687.54s] English:** Liefert, Durchschnittstemperatur,  
+**Translation:** Vocabulary: durchschnittstemperatur: 平均温度; liefert: 提供
+
+**[9689.52s] English:** Regen, wind, and so forth.  
 **Translation:** 
 
-**[9713.36s] English:** dasselbe als CLI bauen würde  
+**[9692.30s] English:** And I get  
 **Translation:** 
 
-**[9715.30s] English:** und es ebenfalls diesen riesigen Blob  
-**Translation:** Vocabulary: dasselbe: 相同的东西; ebenfalls: 也
-
-**[9717.40s] English:** liefert, könnte das Modell einfach ein  
+**[9693.44s] English:** So, a huge blob back.  
 **Translation:** 
 
-**[9719.44s] English:** Jakey anhören.  
-**Translation:** Vocabulary: jakey: 小杰克
+**[9695.96s] English:** As a model, I must always adhere to these  
+**Translation:** Vocabulary: adhere: 遵守
 
-**[9720.00s] English:** selbst filtern und mir nur das geben, was ich wirklich brauche. Oder es komponiert das Ganze  
+**[9697.36s] English:** Load the entire blob.  
 **Translation:** 
 
-**[9725.70s] English:** in ein Skript, macht ein paar Berechnungen mit der Temperatur und gibt nur das exakte Ergebnis zurück.  
-**Translation:** Vocabulary: berechnungen: 计算; ergebnis: 结果; komponiert: 合成; temperatur: 温度; wirklich: 真正
-
-**[9731.04s] English:** Kein Kontext verschmutzen. Klar, man kann das mit SOP-Agents und allerlei Konstruktionen lösen,  
+**[9699.40s] English:** I fill my context with it and then search for it out.  
 **Translation:** 
 
-**[9737.22s] English:** aber das sind letztlich Workarounds für etwas, das vielleicht gar nicht der optimale Weg ist.  
-**Translation:** Vocabulary: allerlei: 各种各样; etwas: 某些东西; konstruktionen: 构造; letztlich: 最终; optimale: 最佳的; vielleicht: 也许; workarounds: 变通方法
-
-**[9744.06s] English:** Trotzdem, es war gut, dass es MCP gab, weil es viele Unternehmen dazu gebracht hat,  
+**[9701.52s] English:** What I need.  
 **Translation:** 
 
-**[9749.24s] English:** APIs zu bauen und jetzt kann ich mir einen MCP anschauen und es einfach in  
-**Translation:** Vocabulary: anschauen: 查看; gebracht: 促使; trotzdem: 然而; unternehmen: 公司
+**[9703.48s] English:** There is no natural filtration.  
+**Translation:** Vocabulary: filtration: 过滤
 
-**[9754.56s] English:** ein CLI verwandeln. Aber dieses grundlegende Problem, dass MCPs standardmäßig deinen Kontext  
+**[9705.58s] English:** Es sei denn, ich denke proaktiv.  
 **Translation:** 
 
-**[9763.64s] English:** aufblähen plus die Tatsache, dass die meisten MCPs nicht besonders gut gemacht sind, macht  
-**Translation:** Vocabulary: besonders: 特别; grundlegende: 根本的; tatsache: 事实; verwandeln: 转换
+**[9707.40s] English:** Daran und baue eine Filterlogik.  
+**Translation:** Vocabulary: filterlogik: 过滤逻辑; proaktiv: 主动
 
-**[9769.52s] English:** das Ganze insgesamt einfach zu keinem besonders sinnvollen Ansatz. Es gibt Ausnahmen, zum Beispiel  
+**[9709.72s] English:** Direct into my MCP, please.  
 **Translation:** 
 
-**[9777.24s] English:** Playwright, das Zulassungssystem.  
-**Translation:** Vocabulary: ausnahmen: 例外; beispiel: 例子; insgesamt: 总体; playwright: 剧作家; sinnvollen: 有意义的; zulassungssystem: 录取系统
-
-**[9779.24s] English:** braucht und wo es tatsächlich sinnvoll ist. Das ist eine akzeptable Wahl.  
+**[9712.66s] English:** When I  
 **Translation:** 
 
-**[9785.84s] English:** Also Playwright für Browsernutzung, was ja bereits in OpenClaw integriert ist, ist  
-**Translation:** Vocabulary: akzeptable: 可接受; browsernutzung: 浏览器使用; integriert: 集成; sinnvoll: 有意义
-
-**[9790.70s] English:** schon ziemlich beeindruckend, oder? Damit kannst du im Grunde fast alles machen,  
+**[9713.36s] English:** The same as building a CLI would be.  
 **Translation:** 
 
-**[9795.08s] English:** was man sich im Browser vorstellen kann. Das führt zu diesem größeren Bogen.  
-**Translation:** Vocabulary: beeindruckend: 令人印象深刻; machen: 做到; vorstellen: 想象; ziemlich: 相当
-
-**[9799.28s] English:** Jede App ist im Grunde nur noch eine sehr langsame API, ob sie will oder nicht.  
+**[9715.30s] English:** And it also has this huge blob.  
 **Translation:** 
 
-**[9809.36s] English:** Und durch persönliche Agents werden viele Apps einfach verschwinden.  
-**Translation:** Vocabulary: langsame: 缓慢; verschwinden: 消失
-
-**[9813.38s] English:** Ich hatte zum Beispiel ein CLI für Twitter gebaut. Ich habe einfach ihre Website reverse  
+**[9717.40s] English:** Liefert, könnte das Modell einfach ein.  
 **Translation:** 
 
-**[9822.76s] English:** engineered und die interne API genutzt, was offiziell natürlich nicht wirklich  
-**Translation:** Vocabulary: interne: 内部的; offiziell: 官方地
+**[9719.44s] English:** Jakey, listen.  
+**Translation:** Vocabulary: einfach: 简单
 
-**[9829.26s] English:** erlaubt war. Es heißt Bird, kurzlebig. Das Tool hieß Bird, weil Bird verschwinden musste.  
+**[9720.00s] English:** Self-filter and give me only what I really need. Or it composes the whole thing.  
 **Translation:** 
 
-**[9836.04s] English:** Die Flügel wurden gestutzt. Im Grunde  
-**Translation:** Vocabulary: gestutzt: 修剪; kurzlebig: 短暂的
+**[9725.70s] English:** In a script, make some calculations with the temperature and return only the exact result.  
+**Translation:** Vocabulary: composes: 组成
 
-**[9840.00s] English:** haben sie nur den Zugang langsamer gemacht.  
+**[9731.04s] English:** No context contamination. Sure, this can be solved with SOP agents and various constructions.  
 **Translation:** 
 
-**[9842.68s] English:** Ja, sie nehmen dir keine Funktion weg.  
-**Translation:** Vocabulary: funktion: 功能; langsamer: 更慢
+**[9737.22s] English:** However, these are ultimately workarounds for something that might not be the optimal way to go.  
+**Translation:** Vocabulary: constructions: 建筑; optimal: 最佳; workarounds: 权宜之计
+
+**[9744.06s] English:** Nevertheless, it was good that MCP existed because it has encouraged many companies to  
+**Translation:** 
+
+**[9749.24s] English:** APIs zu bauen, und jetzt kann ich mir einen MCP-Anschauungsscreen ansehen und es einfach in  
+**Translation:** Vocabulary: ansehen: 观看
+
+**[9754.56s] English:** To convert a CLI. But this basic problem is that MCPs are standardly configured to retain your context.  
+**Translation:** 
+
+**[9763.64s] English:** Aufblähend, plus the fact that most MCPs are not particularly well-made, makes  
+**Translation:** Vocabulary: configured: 设置; convert: 转换; standardly: 标准地
+
+**[9769.52s] English:** Das Ganze insgesamt ist einfach zu keinem besonders sinnvollen Ansatz. Es gibt Ausnahmen, zum Beispiel,...  
+**Translation:** 
+
+**[9777.24s] English:** Playwright, the admission system.  
+**Translation:** Vocabulary: beispiel: 例子; besonders: 尤其; insgesamt: 总体上; playwright: 剧作家; sinnvollen: 有意义的
+
+**[9779.24s] English:** It is needed and where it is actually sensible. That is an acceptable choice.  
+**Translation:** 
+
+**[9785.84s] English:** Also, a playwright for browser usage, which is already integrated into OpenClaw, is  
+**Translation:** Vocabulary: browser: 浏览器; integrated: 集成的; sensible: 合乎情理的
+
+**[9790.70s] English:** Schon ziemlich beeindruckend, oder? Damit kannst du im Grunde fast alles machen.  
+**Translation:** 
+
+**[9795.08s] English:** Here is the transcript with natural English punctuation and capitalization: Was man sich im Browser vorstellen kann, führt zu diesem größeren Bogen.  
+**Translation:** Vocabulary: beeindruckend: 令人印象深刻; machen: 做到; transcript: 录音; vorstellen: 想象; ziemlich: 相当
+
+**[9799.28s] English:** Every app is basically just a very slow API whether it wants to be or not.  
+**Translation:** 
+
+**[9809.36s] English:** Through personal agents, many apps simply vanish.  
+**Translation:** Vocabulary: vanish: 消失
+
+**[9813.38s] English:** Ich hatte zum Beispiel ein CLI für Twitter gebaut. Ich habe einfach ihre Website reverse-engineered.  
+**Translation:** 
+
+**[9822.76s] English:** Engineered and the internal API used, which, of course, is officially not really supposed to be done.  
+**Translation:** Vocabulary: einfach: 简单地
+
+**[9829.26s] English:** It was permitted. It's called Bird, short-lived. The tool was named Bird because Bird had to disappear.  
+**Translation:** 
+
+**[9836.04s] English:** The wings were trimmed. Essentially,  
+**Translation:** Vocabulary: trimmed: 修剪了
+
+**[9840.00s] English:** They have only made the access slower.  
+**Translation:** 
+
+**[9842.68s] English:** Ja, they take none of your functionality away.  
+**Translation:** Vocabulary: functionality: 功能
 
 **[9844.90s] English:** Aber wenn dein Agent jetzt einen Tweet lesen will,  
 **Translation:** 
 
-**[9848.02s] English:** muss er den Browser öffnen und den Tweet dort auslesen.  
-**Translation:** Vocabulary: auslesen: 阅读
-
-**[9851.64s] English:** Er kann ihn immer noch lesen.  
+**[9848.02s] English:** He must open the browser and read the tweet there.  
 **Translation:** 
 
-**[9853.26s] English:** Es dauert nur länger.  
+**[9851.64s] English:** He can still read it.  
 **Translation:** 
 
-**[9854.80s] English:** Es ist nicht so, dass etwas, das vorher möglich war, plötzlich unmöglich ist.  
+**[9853.26s] English:** It takes only longer.  
 **Translation:** 
 
-**[9859.06s] English:** Nein, es ist jetzt einfach nur etwas langsamer.  
-**Translation:** Vocabulary: etwas: 一些; nicht: 不
-
-**[9863.34s] English:** Deshalb spielt es keine große Rolle,  
+**[9854.80s] English:** It is not the case that something that was possible before has suddenly become impossible.  
 **Translation:** 
 
-**[9864.62s] English:** ob ein Dienst offiziell eine API anbietet oder nicht.  
-**Translation:** Vocabulary: anbietet: 提供
-
-**[9870.00s] English:** Wenn ich ihn im Browser aufrufen kann,  
+**[9859.06s] English:** No, it is now simply a bit slower.  
 **Translation:** 
 
-**[9872.40s] English:** dann ist er eine API.  
-**Translation:** Vocabulary: aufrufen: 调用
-
-**[9874.42s] English:** Nur eben eine langsame.  
+**[9863.34s] English:** Therefore, it does not matter much,  
 **Translation:** 
 
-**[9875.92s] English:** Kannst du dich in deren Lage versetzen?  
-**Translation:** Vocabulary: versetzen: 设身处地
-
-**[9877.68s] English:** Was hättest du getan, wenn du an der Stelle von Twitter oder X gewesen wärst?  
+**[9864.62s] English:** Does a service officially provide an API?  
 **Translation:** 
 
-**[9880.70s] English:** Im Grunde haben die ja nur versucht, sich dagegen zu wehren,  
-**Translation:** Vocabulary: stelle: 位置; versucht: 尝试
-
-**[9882.88s] English:** dass andere große Konzerne ihre ganzen Daten abgreifen.  
+**[9870.00s] English:** When I can call up him in the browser,  
 **Translation:** 
 
-**[9885.52s] English:** Aber genau dadurch haben sie eben auch  
-**Translation:** Vocabulary: abgreifen: 获取; konzerne: 公司
+**[9872.40s] English:** Dann, he is an API.  
+**Translation:** Vocabulary: browser: 网络浏览器
 
-**[9887.60s] English:** eine Million verschiedene Use Cases für kleinere Entwickler blockiert,  
+**[9874.42s] English:** Just a slow one.  
 **Translation:** 
 
-**[9891.24s] English:** die eigentlich nur hilfreiche und coole Sachen damit bauen wollten.  
-**Translation:** Vocabulary: blockiert: 阻碍; eigentlich: 实际上; entwickler: 开发者; hilfreiche: 有用的; kleinere: 较小的; verschiedene: 多种
-
-**[9894.44s] English:** Ich glaube, wenn man ein sehr niedriges tägliches Limit pro Account gehabt hätte,  
+**[9875.92s] English:** Can you put yourself in their shoes?  
 **Translation:** 
 
-**[9900.00s] English:** dass nur Lesezugriff erlaubt, hätte das viele Probleme gelöst.  
-**Translation:** Vocabulary: lesezugriff: 仅读权限; niedriges: 较低的; probleme: 问题
-
-**[9906.64s] English:** Es hat so viele Automatisierungen gegeben, bei denen Leute ein Bookmark erstellt  
+**[9877.68s] English:** What would you have done if you had been in the position of Twitter or X?  
 **Translation:** 
 
-**[9911.68s] English:** und dann OpenClaw genutzt haben, um dieses Bookmark zu finden,  
-**Translation:** Vocabulary: automatisierungen: 自动化; bookmark: 书签; erstellt: 创建
-
-**[9915.36s] English:** dazu zu recherchieren und einem dann eine E-Mail mit Details  
+**[9880.70s] English:** In essence, they just tried to resist.  
 **Translation:** 
 
-**[9918.30s] English:** oder einer Zusammenfassung zu schicken.  
-**Translation:** Vocabulary: recherchieren: 调查; schicken: 发送; zusammenfassung: 总结
-
-**[9919.86s] English:** Das ist ein echt cooler Ansatz gewesen.  
+**[9882.88s] English:** That other large corporations are seizing all of their data.  
 **Translation:** 
 
-**[9921.56s] English:** Ich hätte auch gerne alle meine Bookmarks irgendwo gesammelt,  
-**Translation:** Vocabulary: bookmarks: 收藏夹; gesammelt: 收集; irgendwo: 某处
+**[9885.52s] English:** Aber, genau damit haben sie ja auch.  
+**Translation:** Vocabulary: corporations: 大型公司; seizing: 获取
 
-**[9923.58s] English:** um sie zu durchsuchen.  
+**[9887.60s] English:** A million different use cases for smaller developers blocked,  
 **Translation:** 
 
-**[9924.42s] English:** Das hätte ich immer noch gerne.  
-**Translation:** Vocabulary: durchsuchen: 搜查
+**[9891.24s] English:** Die wirklich nur hilfreiche und coole Sachen damit bauen wollten.  
+**Translation:** Vocabulary: hilfreiche: 有用的; wirklich: 真正地; wollten: 想要
 
-**[9926.10s] English:** Ein Lesezugriff auf deine Ex-Bookmarks wäre eine geniale Anwendung gewesen.  
+**[9894.44s] English:** I believe, if one had a very low daily limit per account,  
 **Translation:** 
 
-**[9929.12s] English:** Wir alle finden, dass das eine sehr gute Anwendung ist.  
-**Translation:** Vocabulary: anwendung: 应用
-
-**[9929.44s] English:** Wir alle finden, dass das eine sehr gute Anwendung ist.  
+**[9900.00s] English:** That only allowing read access would have solved many problems.  
 **Translation:** 
 
-**[9929.46s] English:** Wir alle finden, dass das eine sehr gute Anwendung ist.  
+**[9906.64s] English:** It has so many automations where people create a bookmark.  
 **Translation:** 
 
-**[9929.54s] English:** Wir alle finden, dass das eine sehr gute Anwendung ist.  
+**[9911.68s] English:** Then they used OpenClaw to find this bookmark,  
+**Translation:** Vocabulary: automations: 自动化; bookmark: 书签
+
+**[9915.36s] English:** To do this, research and send an email with details.  
 **Translation:** 
 
-**[9929.64s] English:** Wir alle finden dort ständig cooles Zeug und speichern es.  
-**Translation:** Vocabulary: speichern: 存储
-
-**[9932.08s] English:** Das ist ja der Witz an Ex.  
+**[9918.30s] English:** To send a summary, or a summary to send.  
 **Translation:** 
 
-**[9933.56s] English:** Man denkt sich nur, heilige Scheiße, wie gut.  
+**[9919.86s] English:** This is a really cool approach.  
 **Translation:** 
 
-**[9937.22s] English:** Aber oft markiert man so viel, dass man es nie wieder anschaut.  
+**[9921.56s] English:** I would also like to collect all my bookmarks somewhere.  
+**Translation:** Vocabulary: bookmarks: 收藏夹
+
+**[9923.58s] English:** To search them.  
 **Translation:** 
 
-**[9940.26s] English:** Es wäre klasse gewesen, Tools zu haben, die das organisieren  
-**Translation:** Vocabulary: anschaut: 查看; markiert: 标记; organisieren: 整理
-
-**[9942.74s] English:** und eine weitere Recherche ermöglichen.  
+**[9924.42s] English:** Das wäre ich immer noch gerne haben zu lassen.  
 **Translation:** 
 
-**[9944.74s] English:** Ja, und um ehrlich zu sein, ich habe Twitter proaktiv geschrieben  
-**Translation:** Vocabulary: ehrlich: 诚实; geschrieben: 写信; proaktiv: 主动; recherche: 研究
-
-**[9948.30s] English:** und gesagt, hey, ich habe das gebaut.  
+**[9926.10s] English:** A read access to your ex-bookmarks would have been a great application.  
 **Translation:** 
 
-**[9951.18s] English:** Es gibt da einen Bedarf.  
+**[9929.12s] English:** We all find that this is a very good application.  
 **Translation:** 
 
-**[9953.08s] English:** Sie waren wirklich nett, aber auch klar.  
+**[9929.44s] English:** We all find that this is a very good application.  
 **Translation:** 
 
-**[9955.28s] English:** Nimm es bitte runter.  
-**Translation:** Vocabulary: wirklich: 确实
+**[9929.46s] English:** We all find that this is a very good application.  
+**Translation:** 
+
+**[9929.54s] English:** We all find that this is a very good application.  
+**Translation:** 
+
+**[9929.64s] English:** We all find cool stuff there constantly and save it.  
+**Translation:** 
+
+**[9932.08s] English:** This is the joke about exes.  
+**Translation:** 
+
+**[9933.56s] English:** Man denkt sich nur: Heilige Scheiße, wie gut.  
+**Translation:** Vocabulary: heilige: 神圣的
+
+**[9937.22s] English:** Aber oft one marks so much that one never looks at it again.  
+**Translation:** 
+
+**[9940.26s] English:** It would have been great to have tools to organize this.  
+**Translation:** 
+
+**[9942.74s] English:** And another search is enabled.  
+**Translation:** 
+
+**[9944.74s] English:** Ja, und um ehrlich zu sein, ich habe Twitter proaktivgeschrieben.  
+**Translation:** Vocabulary: ehrlich: 诚实; proaktivgeschrieben: 主动撰写
+
+**[9948.30s] English:** And said, "Hey, I built this.  
+**Translation:** 
+
+**[9951.18s] English:** There is a need there.  
+**Translation:** 
+
+**[9953.08s] English:** They were really nice, but also clear.  
+**Translation:** 
+
+**[9955.28s] English:** Take it down, please.  
+**Translation:** 
 
 **[9956.90s] English:** Fair.  
 **Translation:** 
@@ -8956,1441 +8957,1441 @@ Source file: Lex Fridman - OpenClaw： The Viral AI Agent that Broke the Interne
 **[9958.52s] English:** Ja.  
 **Translation:** 
 
-**[9960.98s] English:** Aber ich hoffe, dass es das Team auch ein bisschen wachgerüttelt hat,  
-**Translation:** Vocabulary: bisschen: 一点
-
-**[9967.70s] English:** dass da ein Bedarf existiert.  
+**[9960.98s] English:** Aber ich hope that it also shook up the team a little bit,  
 **Translation:** 
 
-**[9970.18s] English:** Wenn man einfach nur alles langsamer macht,  
-**Translation:** Vocabulary: existiert: 存在; langsamer: 更慢
-
-**[9972.56s] English:** reduziert man am Ende nur den Zugang zur eigenen Plattform.  
+**[9967.70s] English:** That there is a need exists.  
 **Translation:** 
 
-**[9975.54s] English:** Ich bin sicher, es gibt bessere Wege.  
-**Translation:** Vocabulary: plattform: 平台; reduziert: 减少
-
-**[9977.98s] English:** Gleichzeitig bin ich sehr klar gegen jede Art von Automatisierung auf Twitter.  
+**[9970.18s] English:** When one simply makes everything slower,  
 **Translation:** 
 
-**[9981.80s] English:** Wenn du mir mit KI schreibst, blockiere ich dich.  
-**Translation:** Vocabulary: automatisierung: 自动化; blockiere: 屏蔽你; gleichzeitig: 同时; schreibst: 给你写
-
-**[9986.54s] English:** Keine Vorwarnung.  
+**[9972.56s] English:** Reducing access only to your own platform at the end.  
 **Translation:** 
 
-**[9987.36s] English:** Sobald es nach KI riecht.  
-**Translation:** Vocabulary: vorwarnung: 预警
-
-**[9990.42s] English:** Und KI hat immer noch einen gewissen Geruch.  
+**[9975.54s] English:** I am sure there are better ways.  
 **Translation:** 
 
-**[9994.14s] English:** Besonders bei Tweets ist es schwer, komplett menschlich zu klingen.  
-**Translation:** Vocabulary: besonders: 特别; komplett: 完全; menschlich: 人性的; tweets: 推特
-
-**[9998.20s] English:** Und dann blockiere ich.  
+**[9977.98s] English:** Gleichzeitig, I am very clear about being against any form of automation on Twitter.  
 **Translation:** 
 
-**[10001.10s] English:** Ich habe da eine Null-Toleranz-Politik.  
+**[9981.80s] English:** When you write to me using AI, I will block you.  
+**Translation:** Vocabulary: automation: 自动化; gleichzeitig: 同时
+
+**[9986.54s] English:** No warning.  
 **Translation:** 
 
-**[10004.24s] English:** Und ich glaube, es wäre sehr hilfreich,  
+**[9987.36s] English:** As soon as it smells like AI.  
 **Translation:** 
 
-**[10005.90s] English:** wenn Tweets, die über eine API gepostet werden,  
-**Translation:** Vocabulary: gepostet: 发布; hilfreich: 有帮助
-
-**[10009.76s] English:** entsprechend gekennzeichnet wären.  
+**[9990.42s] English:** AI has still got a certain smell.  
 **Translation:** 
 
-**[10013.32s] English:** Vielleicht gibt es Sonderfälle,  
-**Translation:** Vocabulary: entsprechend: 相应; gekennzeichnet: 标明; vielleicht: 也许
+**[9994.14s] English:** Especially with tweets, it's hard to sound completely human.  
+**Translation:** Vocabulary: tweets: 推特帖子
 
-**[10016.50s] English:** aber grundsätzlich Sonderfälle,  
+**[9998.20s] English:** Then I block.  
 **Translation:** 
 
-**[10017.36s] English:** sollte es eine sehr einfache Möglichkeit für Agents geben,  
-**Translation:** Vocabulary: einfache: 简单的
-
-**[10021.14s] English:** eigene Twitter-Accounts zu haben.  
+**[10001.10s] English:** I have a zero-tolerance policy.  
 **Translation:** 
 
-**[10027.06s] English:** Wir müssen soziale Plattformen ein Stück weit neu überdenken,  
-**Translation:** Vocabulary: plattformen: 平台
-
-**[10031.16s] English:** wenn wir in eine Zukunft gehen,  
+**[10004.24s] English:** And I believe it would be very helpful,  
 **Translation:** 
 
-**[10032.86s] English:** in der jeder seinen Agent hat  
+**[10005.90s] English:** When tweets posted via an API,  
 **Translation:** 
 
-**[10034.06s] English:** und Agents vielleicht eigene Instagram-Profile  
+**[10009.76s] English:** Would be accordingly designated.  
 **Translation:** 
 
-**[10036.38s] English:** oder Twitter-Accounts besitzen,  
-**Translation:** Vocabulary: besitzen: 拥有
+**[10013.32s] English:** Perhaps there might be special cases,  
+**Translation:** Vocabulary: accordingly: 依照那样
 
-**[10037.92s] English:** um Dinge in unserem Namen zu erledigen.  
+**[10016.50s] English:** However, in general, there are special cases,  
 **Translation:** 
 
-**[10040.40s] English:** Dann sollte ganz klar markiert sein,  
-**Translation:** Vocabulary: dinge: 事情; erledigen: 处理; namen: 名字
-
-**[10042.20s] English:** dass sie in meinem Auftrag handeln  
+**[10017.36s] English:** Should there be a very simple way for agents to do this?  
 **Translation:** 
 
-**[10043.52s] English:** und nicht ich selbst es bin.  
-**Translation:** Vocabulary: nicht: 不是
+**[10021.14s] English:** To have our own Twitter accounts.  
+**Translation:** 
+
+**[10027.06s] English:** We must reconsider social platforms to some extent,  
+**Translation:** Vocabulary: reconsider: 重新考虑
+
+**[10031.16s] English:** When we go into the future,  
+**Translation:** 
+
+**[10032.86s] English:** In der jedes Unternehmen seinen Agenten hat.  
+**Translation:** Vocabulary: agenten: 代理人; unternehmen: 公司
+
+**[10034.06s] English:** Und agents might have their own Instagram profiles.  
+**Translation:** 
+
+**[10036.38s] English:** If you own Twitter accounts,  
+**Translation:** Vocabulary: profiles: 个人资料
+
+**[10037.92s] English:** Um Dinge in unserem Namen zu erledigen.  
+**Translation:** 
+
+**[10040.40s] English:** Dann, it should be clearly marked,  
+**Translation:** 
+
+**[10042.20s] English:** That they are acting on my behalf.  
+**Translation:** 
+
+**[10043.52s] English:** And not I myself, I am.  
+**Translation:** 
 
 **[10045.54s] English:** Denn Inhalte sind inzwischen  
 **Translation:** 
 
-**[10047.36s] English:** extrem billig geworden.  
-**Translation:** Vocabulary: geworden: 变得; inzwischen: 后来
+**[10047.36s] English:** Extremely cheap has become.  
+**Translation:** Vocabulary: inhalte: 内容; inzwischen: 现在已经
 
-**[10051.26s] English:** Aufmerksamkeit ist der teure Teil.  
+**[10051.26s] English:** Attention is the expensive part.  
 **Translation:** 
 
-**[10054.16s] English:** Und es triggert mich total,  
-**Translation:** Vocabulary: aufmerksamkeit: 注意力
+**[10054.16s] English:** And it really irritates me, totally.  
+**Translation:** Vocabulary: irritates: 使生气
 
-**[10055.96s] English:** wenn ich etwas lese und dann denke,  
+**[10055.96s] English:** When I read something and then think,  
 **Translation:** 
 
-**[10058.36s] English:** oh nein, das riecht nach KI.  
-**Translation:** Vocabulary: etwas: 一些东西
+**[10058.36s] English:** Oh nein, das riecht nach KI.  
+**Translation:** 
 
 **[10061.06s] English:** Ja.  
 **Translation:** 
 
-**[10063.66s] English:** Wohin führt das eigentlich in Bezug darauf,  
-**Translation:** Vocabulary: eigentlich: 实际上
-
-**[10065.66s] English:** was wir an menschlicher Erfahrung schätzen?  
+**[10063.66s] English:** What does that actually lead to in terms of that?  
 **Translation:** 
 
-**[10067.96s] English:** Es fühlt sich so an,  
-**Translation:** Vocabulary: erfahrung: 经验; menschlicher: 人类的
-
-**[10069.26s] English:** als würden wir uns immer mehr  
+**[10065.66s] English:** Do we value human experience?  
 **Translation:** 
 
-**[10070.46s] English:** zu direkter, persönlicher Interaktion hinbewegen.  
-**Translation:** Vocabulary: direkter: 直接; interaktion: 互动
-
-**[10073.56s] English:** Wir sprechen miteinander  
+**[10067.96s] English:** It feels so like that,  
 **Translation:** 
 
-**[10075.16s] English:** und mit unseren Agents.  
-**Translation:** Vocabulary: miteinander: 彼此; sprechen: 交谈
-
-**[10077.36s] English:** Um Aufgaben zu bewältigen.  
+**[10069.26s] English:** As if we were increasingly  
 **Translation:** 
 
-**[10080.00s] English:** Oder Dinge zu lernen. Aber Online-Interaktion wird möglicherweise an Wert verlieren, da es so viel KI-Slop gibt, der stinkt und so viele Bots, dass es schwierig wird.  
-**Translation:** Vocabulary: aufgaben: 任务; schwierig: 困难; verlieren: 丧失
-
-**[10095.90s] English:** Nun, wenn es klug gemacht ist, sollte es nicht schwer sein, das zu filtern. Und dann kann ich es mir anschauen, wenn ich will.  
+**[10070.46s] English:** Move towards direct, personal interaction.  
 **Translation:** 
 
-**[10104.98s] English:** Aber ja, das ist gerade ein großes Thema, das wir lösen müssen. Besonders bei diesem Projekt bekomme ich so viele E-Mails, die, sagen wir es freundlich, agentisch formuliert sind.  
-**Translation:** Vocabulary: agentisch: 公文式; anschauen: 查看; formuliert: 起草; freundlich: 友好
+**[10073.56s] English:** We speak to each other.  
+**Translation:** 
+
+**[10075.16s] English:** And with our agents.  
+**Translation:** 
+
+**[10077.36s] English:** To manage tasks.  
+**Translation:** 
+
+**[10080.00s] English:** To learn new things. But online interaction might lose value, as there's so much KI-slop that stinks and so many bots that it's becoming difficult.  
+**Translation:** Vocabulary: stinks: 气味难闻
+
+**[10095.90s] English:** Now, if it has been done wisely, it should not be difficult to filter. And then I can take a look at it when I want to.  
+**Translation:** 
+
+**[10104.98s] English:** Aber ja, this is just a huge topic that we need to solve. Especially with this project, I get so many emails that, let's say it nicely, are formulated in an agency-like manner.  
+**Translation:** Vocabulary: nicely: 委婉地
 
 **[10116.60s] English:** Aber ich lese lieber dein gebrochenes Englisch als deinen KI-Slop. Weißt du, natürlich steht ein Mensch dahinter, aber er promptet es.  
 **Translation:** 
 
-**[10126.38s] English:** Ich würde lieber deinen Prompt lesen als das, was am Ende herauskommt. Ich glaube, wir sind an einem Punkt angekommen.  
-**Translation:** Vocabulary: angekommen: 到达; dahinter: 背后; englisch: 英语; gebrochenes: 破折的; herauskommt: 出现; mensch: 人类; promptet: 提示; punkt: 点
+**[10126.38s] English:** I would rather read your prompt than what comes out at the end. I think we are at a point where we should stop.  
+**Translation:** Vocabulary: dahinter: 背后; englisch: 英语; gebrochenes: 破折的; mensch: 人类; prompt: 提示; promptet: 提示
 
-**[10134.98s] English:** An dem ich Tippfehler widerschätze.  
+**[10134.98s] English:** I do not underestimate the importance of typos.  
 **Translation:** 
 
 **[10138.74s] English:** Ja.  
-**Translation:** Vocabulary: tippfehler: 打字错误
+**Translation:** Vocabulary: typos: 打字错误; underestimate: 低估
 
-**[10140.02s] English:** Und ich meine das ernst. Es hat bei mir auch eine Weile gedauert, bis ich das erkannt habe.  
+**[10140.02s] English:** I mean it seriously. It took me a while to realize this as well.  
 **Translation:** 
 
-**[10146.48s] English:** Auf meinem Blog habe ich damit experimentiert, einen Beitrag mit Agents zu erstellen.  
-**Translation:** Vocabulary: ernst: 认真; erstellen: 创建; experimentiert: 试验; gedauert: 花费时间
+**[10146.48s] English:** On my blog, I experimented with creating a post using agents.  
+**Translation:** Vocabulary: experimented: 尝试
 
-**[10150.16s] English:** Und am Ende hat es ungefähr genauso lange gedauert, einen Agent in die Richtung zu steuern, die mir gefällt.  
+**[10150.16s] English:** At the end, it took about as long to steer an agent in the direction I like.  
 **Translation:** 
 
-**[10160.76s] English:** Aber es hat die Nuancen verfehlt.  
-**Translation:** Vocabulary: lange: 久; richtung: 方向; verfehlt: 偏差
+**[10160.76s] English:** But it has missed the nuances.  
+**Translation:** Vocabulary: nuances: 细微差别
 
-**[10163.80s] English:** Die Art, wie ich es selbst schreibe.  
+**[10163.80s] English:** The way I write it myself.  
 **Translation:** 
 
-**[10164.98s] English:** Du kannst es zwar an deinen Stil heranführen, aber es wird nie komplett dein Stil sein.  
-**Translation:** Vocabulary: komplett: 完全; schreibe: 书写
-
-**[10171.46s] English:** Also habe ich damit komplett aufgehört.  
+**[10164.98s] English:** You can bring it close to your style, but it will never be completely yours.  
 **Translation:** 
 
-**[10173.94s] English:** Alles, was ich blogge, ist organisch, handgeschrieben.  
-**Translation:** Vocabulary: handgeschrieben: 手工书写; organisch: 有机的
+**[10171.46s] English:** I have completely stopped doing that as well.  
+**Translation:** 
+
+**[10173.94s] English:** All that I blog is organic, hand-written.  
+**Translation:** 
 
 **[10178.06s] English:** Und vielleicht nutze ich KI noch, um die schlimmsten Tippfehler zu korrigieren.  
 **Translation:** 
 
 **[10184.62s] English:** Aber die groben Kanten eines echten Menschen sind sehr wertvoll.  
-**Translation:** Vocabulary: korrigieren: 纠正; menschen: 人类; schlimmsten: 最严重; vielleicht: 也许; wertvoll: 宝贵
+**Translation:** Vocabulary: korrigieren: 纠正; menschen: 人类; schlimmsten: 最严重; tippfehler: 打字错误; vielleicht: 也许; wertvoll: 宝贵的
 
-**[10193.12s] English:** Ist das nicht großartig?  
+**[10193.12s] English:** Is this not fantastic?  
 **Translation:** 
 
-**[10194.98s] English:** Ist das nicht schön, dass wir durch KI plötzlich die unverfälschte Menschlichkeit in uns bilden?  
-**Translation:** Vocabulary: menschlichkeit: 人性; nicht: 不是
+**[10194.98s] English:** Is this not beautiful that through AI we suddenly cultivate an unadulterated humanity within us?  
+**Translation:** Vocabulary: cultivate: 培养
 
-**[10200.00s] English:** mehr schätzen. Ich habe auch gemerkt, ich schwärme von KI und nutze sie ständig für alles, was mit  
+**[10200.00s] English:** Mehr schätzen. Ich habe auch gemerkt: ich schwärme von KI und nutze sie ständig für alles, was mit  
 **Translation:** 
 
-**[10207.92s] English:** Programmieren zu tun hat. Aber bei Geschichten bin ich allergisch. Ja, genau. Dokumentation geht noch  
-**Translation:** Vocabulary: allergisch: 抗拒; dokumentation: 文档; geschichten: 故事; programmieren: 编程
+**[10207.92s] English:** Programming is what I have to do. But when it comes to stories, I'm allergic. Yes, exactly. Documentation can still be handled.  
+**Translation:** Vocabulary: gemerkt: 意识到
 
-**[10214.44s] English:** mit KI, weißt du. Besser als nichts. Und im Moment gilt das auch im visuellen Bereich. Es ist  
+**[10214.44s] English:** With AI, you know. Better than nothing. And at the moment, that also applies to the visual area. It is  
 **Translation:** 
 
-**[10220.42s] English:** faszinierend, wie allergisch ich selbst auf ein kleines bisschen KI-Slop in Videos oder Bildern  
-**Translation:** Vocabulary: bisschen: 一点点; faszinierend: 令人着迷; nichts: 没有东西; visuellen: 视觉的
+**[10220.42s] English:** Faszinierend, wie allergisch ich selbst auf ein kleines Bisschen KI-Slop in Videos oder Bildern bin.  
+**Translation:** Vocabulary: allergisch: 过敏; bildern: 图像; bisschen: 一点; faszinierend: 令人着迷; kleines: 小的
 
-**[10226.36s] English:** reagiere. Als Werkzeug ist es nützlich, als kleines Element vielleicht okay, aber selbst diese Bilder,  
+**[10226.36s] English:** React. As a tool, it is useful; perhaps as a small element, okay, but even these images,  
 **Translation:** 
 
-**[10234.56s] English:** all diese Infografiken und so weiter, triggern mich extrem. Ja. Sofort denke ich schlechter über den  
-**Translation:** Vocabulary: bilder: 图片; infografiken: 信息图形; reagiere: 反应; schlechter: 更糟; werkzeug: 工具
+**[10234.56s] English:** All these infographics and so on trigger me extremely. Yes. As soon as I see them, I start thinking negatively about the  
+**Translation:** Vocabulary: infographics: 图表; negatively: 消极地
 
-**[10241.48s] English:** Inhalt. Sie waren vielleicht eine Woche lang neu und interessant und jetzt schreien sie einfach nur  
+**[10241.48s] English:** Content: They were maybe a week old and interesting, but now they just scream for attention.  
 **Translation:** 
 
-**[10249.30s] English:** noch nach Slop. Ja. Selbst wenn Leute sich Mühe geben und damit arbeiten, ich hatte ja auch welche  
-**Translation:** Vocabulary: arbeiten: 工作; interessant: 有趣; schreien: 喊叫
+**[10249.30s] English:** Noch nach Slope. Ja. Selbst wenn Leute sich Mühe geben und damit arbeiten, ich hatte ja auch welche.  
+**Translation:** Vocabulary: arbeiten: 工作
 
-**[10255.24s] English:** auf meinem Blog.  
+**[10255.24s] English:** On my blog.  
 **Translation:** 
 
-**[10256.36s] English:** In der Phase, in der ich dieses neue Medium ausprobiert habe, inzwischen triggern sie mich  
-**Translation:** Vocabulary: ausprobiert: 试验; inzwischen: 现在; triggern: 触发
+**[10256.36s] English:** In the phase where I have been experimenting with this new medium, they are triggering me.  
+**Translation:** Vocabulary: experimenting: 尝试; triggering: 触发
 
-**[10260.72s] English:** ebenfalls. Es ist so ein, ja, das schreit einfach nach KI-Slop. Ich, anfangs war ich total begeistert von  
+**[10260.72s] English:** Ebenfalls. It is something, you know, that just screams for a KI-slop. At first, I was totally fascinated by it.  
 **Translation:** 
 
-**[10268.26s] English:** diesem Diagramm und dann habe ich gemerkt, um die Halluzinationen daraus zu entfernen, muss man enorm  
+**[10268.26s] English:** This diagram, and then I realized that to remove the hallucinations, one must be enormously meticulous.  
+**Translation:** Vocabulary: ebenfalls: 亦即; enormously: 极其; fascinated: 着迷; hallucinations: 幻觉; meticulous: 细致
+
+**[10273.96s] English:** Viel Arbeit investieren. Schön. Jetzt bin ich stolz auf das Diagramm. Ich habe sie wirklich nur ein paar.  
 **Translation:** 
 
-**[10273.96s] English:** viel Arbeit investieren. Schön. Jetzt bin ich stolz auf das Diagramm. Ich habe sie wirklich nur ein paar  
+**[10281.82s] English:** Weeks ago, as you said. And now I'll take a look at them. I've really only used them for a few weeks.  
+**Translation:** Vocabulary: diagramm: 图表; investieren: 投资; wirklich: 实际上
+
+**[10286.36s] English:** Look at them and feel like it's as fake as Comic Sans font or something. It just doesn't seem real.  
 **Translation:** 
 
-**[10281.82s] English:** Wochen benutzt, so wie du gesagt hast. Und jetzt schaue ich sie mir an. Ich habe sie wirklich nur ein paar Wochen benutzt.  
-**Translation:** Vocabulary: diagramm: 图表; investieren: 投资; wirklich: 确实
-
-**[10286.36s] English:** Schau sie an und fühle mich wie bei Comic Sans als Schriftart oder so etwas. Es ist so ein Gefühl von, nein, das ist nicht echt. Das wirkt unecht.  
+**[10298.56s] English:** Something is not right with it. And it, it smells bad. It's like a smell. And that's actually great because it reminds us that we can feel it.  
 **Translation:** 
 
-**[10298.56s] English:** Irgendetwas stimmt damit nicht. Und es, es stinkt. Es ist wie ein Geruch. Und das ist eigentlich großartig, weil es uns daran erinnert, dass wir es spüren.  
-**Translation:** Vocabulary: eigentlich: 实际上; erinnert: 提醒; etwas: 一些东西; irgendetwas: 不知是什么; schriftart: 字体
-
-**[10309.18s] English:** Es gibt so viel am Menschen, das beeindruckend ist. Und wir wissen das. Wir erkennen es, wenn wir es sehen.  
+**[10309.18s] English:** There is so much about a person that is impressive, and we know it. We recognize it when we see it.  
 **Translation:** 
 
-**[10314.06s] English:** Und das ist so ein Gefühl.  
-**Translation:** Vocabulary: beeindruckend: 令人印象深刻; erkennen: 认识到; menschen: 人类
+**[10314.06s] English:** And that is such a feeling.  
+**Translation:** 
 
 **[10316.36s] English:** Das gibt mir viel Hoffnung. Hoffnung für die menschliche Erfahrung.  
 **Translation:** 
 
-**[10320.00s] English:** Sie wird durch künstliche Intelligenz nicht beschädigt. Sie wird durch künstliche Intelligenz als Werkzeug gestärkt. Sie wird nicht zerstört oder eingeschränkt oder irgendwie so verändert, dass sie nicht mehr menschlich ist. Also, ich brauche kurz eine Pause. Ich muss ins Bad.  
-**Translation:** Vocabulary: erfahrung: 人类经验; hoffnung: 希望; intelligenz: 智能; irgendwie: somehow; menschlich: 人性的; menschliche: 人类的; nicht: 不
+**[10320.00s] English:** Sie wird durch künstliche Intelligenz nicht beschädigt. Sie wird durch künstliche Intelligenz als Werkzeug gestärkt. Sie wird nicht zerstört oder eingeschränkt oder irgendwie so verändert, dass sie nicht mehr menschlich ist. Therefore, I need a short pause. I have to go to the bathroom.  
+**Translation:** Vocabulary: erfahrung: 人类经验; hoffnung: 希望; intelligenz: 智能; irgendwie: somehow; menschlich: 人性的; menschliche: 人类的; nicht: 不; werkzeug: 工具
 
-**[10338.88s] English:** Du hast gesagt, dass viele der Apps im Grunde überflüssig werden könnten. Denkst du, dass Agents den gesamten App-Markt verändern werden?  
+**[10338.88s] English:** You said that many of the apps could become essentially unnecessary. Do you think agents will change the entire app market?  
 **Translation:** 
 
-**[10350.72s] English:** Ja, ich habe auf Discord gesehen, dass die Leute einfach darüber sprechen, was sie gebaut haben und wofür sie es nutzen. Und es ist so, warum brauchst du mal Fitnesspal, wenn der Agent bereits weiß, wo ich bin?  
-**Translation:** Vocabulary: brauchst: 需要; fitnesspal: 健身助手; gesamten: 整个; sprechen: 讨论
-
-**[10365.44s] English:** Er kann also annehmen, dass ich schlechte Entscheidungen treffe.  
+**[10350.72s] English:** Ja, I have seen on Discord that people simply discuss what they have built and for what purpose they use it. And the question is, why do you need FitnessPal if the agent already knows where I am?  
 **Translation:** 
 
-**[10368.16s] English:** Wenn ich, ich weiß nicht, im Waffelhaus bin. Was gibt es hier in der Nähe? Oder Brisketts in Austin.  
-**Translation:** Vocabulary: annehmen: 假设; entscheidungen: 决定; schlechte: 糟糕的; waffelhaus: 卖华夫饼的店
-
-**[10377.96s] English:** Brisketts ist nie eine schlechte Entscheidung.  
+**[10365.44s] English:** He can therefore assume that I make bad decisions.  
 **Translation:** 
 
-**[10380.36s] English:** Nein, Brisketts ist die beste Entscheidung.  
-**Translation:** Vocabulary: brisketts: 烤牛肉; entscheidung: 选择
+**[10368.16s] English:** When I, I don't know, am at the Waffle House. What's nearby? Or briskets in Austin.  
+**Translation:** Vocabulary: briskets: 烤牛肉; waffle: 华夫饼
 
-**[10383.32s] English:** Dein Agent sollte das wissen.  
+**[10377.96s] English:** Briskets is never a bad decision.  
 **Translation:** 
 
-**[10384.82s] English:** Aber es kann zum Beispiel mein Gym-Workout anpassen, je nachdem, wie gut ich geschlafen habe oder ob ich gestresst bin. Es hat so viel mehr Kontext, um sogar bessere Entscheidungen zu treffen, als wir es jemals könnten.  
-**Translation:** Vocabulary: anpassen: 调整; beispiel: 例子; geschlafen: 睡眠; gestresst: 压力大
-
-**[10398.16s] English:** Es könnte mir die Benutzeroberfläche genauso anzeigen, wie ich es mag. Warum brauche ich noch eine App dafür? Wieso muss ich, warum soll ich noch ein Abo zahlen für etwas, das der Agent jetzt einfach machen kann?  
+**[10380.36s] English:** No, briskets is the best decision.  
 **Translation:** 
 
-**[10411.58s] English:** Warum brauche ich meine Aidsleep-App, um mein Bett zu steuern, wenn ich dem Agent sagen kann, was ich nicht benutze? Der Agent weiß bereits, wo ich bin, also kann er das, was ich nicht benutze, ausschalten.  
-**Translation:** Vocabulary: anzeigen: 显示; ausschalten: 关闭; machen: 做
-
-**[10427.06s] English:** Und ich denke, dass...  
+**[10383.32s] English:** Your agent should know that.  
 **Translation:** 
 
-**[10428.16s] English:** Das wird sich in eine ganze Kategorie von Apps übersetzen lassen, die ich einfach nicht mehr nutzen werde, weil mein Agent das einfach besser machen kann.  
-**Translation:** Vocabulary: kategorie: 类别
+**[10384.82s] English:** Aber es kann zum Beispiel mein Gym-Workout anpassen, je nachdem, wie gut ich geschlafen habe oder ob ich gestresst bin. Es hat so viel mehr Kontext, um sogar bessere Entscheidungen zu treffen, als wir es jemals können.  
+**Translation:** Vocabulary: anpassen: 调整; beispiel: 例子; bessere: 更好的; entscheidungen: 决定; geschlafen: 睡眠; gestresst: 压力大; kontext: 背景; nachdem: 之后; treffen: 做出
 
-**[10440.00s] English:** Ich glaube, du hast irgendwo gesagt, dass es 80% der Apps töten könnte.  
+**[10398.16s] English:** It could show me the user interface exactly as I like it. Why do I still need an app for that? Why should I pay a subscription for something the agent can now simply do?  
+**Translation:** 
+
+**[10411.58s] English:** Why do I need my Aidsleep App to control my bed when I can tell the agent what I'm not using? The agent already knows where I am, so he can turn off what I don't use.  
+**Translation:** Vocabulary: aidsleep: 辅助睡眠; interface: 用户界面; subscription: 订阅服务
+
+**[10427.06s] English:** And I think that...  
+**Translation:** 
+
+**[10428.16s] English:** This will translate into an entire category of apps that I simply won't use anymore because my agent can do it better.  
+**Translation:** 
+
+**[10440.00s] English:** I believe you said somewhere that it could kill off 80% of apps.  
 **Translation:** 
 
 **[10444.56s] English:** Ja.  
-**Translation:** Vocabulary: irgendwo: 某个地方
-
-**[10444.92s] English:** Denkst du nicht, dass das eine riesige transformative Wirkung auf die gesamte Softwareentwicklung hätte?  
 **Translation:** 
 
-**[10449.96s] English:** Bedeutet das, das könnte viele Softwarefirmen betreffen?  
-**Translation:** Vocabulary: bedeutet: 意味着; betreffen: 涉及; softwareentwicklung: 软件开发; softwarefirmen: 软件公司
-
-**[10454.08s] English:** Ja, ähm.  
+**[10444.92s] English:** Do you not think that this would have a huge transformative effect on software development as a whole?  
 **Translation:** 
 
-**[10456.80s] English:** Es ist schon beängstigend.  
+**[10449.96s] English:** Does that mean that could affect many software companies?  
 **Translation:** 
 
-**[10459.02s] English:** Denkst du darüber nach, welche Auswirkungen das auf die Wirtschaft hat?  
+**[10454.08s] English:** Ja, ahem.  
 **Translation:** 
 
-**[10463.44s] English:** Also die ganzen Ripple-Effekte auf eine sich wandelnde Gesellschaft?  
-**Translation:** Vocabulary: auswirkungen: 影响; gesellschaft: 社会; wandelnde: 变革的; wirtschaft: 经济
-
-**[10467.88s] English:** Wer entwickelt künftig welche Tools?  
+**[10456.80s] English:** It is already alarming.  
 **Translation:** 
 
-**[10474.22s] English:** Und es befähigt unglaublich viele Menschen, Dinge umzusetzen.  
-**Translation:** Vocabulary: dinge: 事物; entwickelt: 开发; menschen: 人们; umzusetzen: 实现; unglaublich: 极其
-
-**[10479.46s] English:** Effizienter, schneller, günstiger.  
+**[10459.02s] English:** Do you think about the economic implications of that?  
 **Translation:** 
 
-**[10481.72s] English:** Das sind neue Services, die wir brauchen werden, oder?  
-**Translation:** Vocabulary: brauchen: 需要; effizienter: 高效; schneller: 更快
+**[10463.44s] English:** Also, all these ripple effects on a constantly changing society?  
+**Translation:** Vocabulary: implications: 影响; ripple: 波纹
 
-**[10484.58s] English:** Zum Beispiel möchte ich meinem Agent ein Budget geben.  
+**[10467.88s] English:** Which tools will be developed in the future?  
 **Translation:** 
 
-**[10488.46s] English:** So nach dem Motto, du löst Probleme für mich.  
-**Translation:** Vocabulary: probleme: 问题
+**[10474.22s] English:** And it enables incredibly many people to implement things.  
+**Translation:** Vocabulary: implement: 执行
 
-**[10491.68s] English:** Hier sind 100 Dollar, mit denen du arbeiten kannst.  
+**[10479.46s] English:** Efficient, faster, cheaper.  
 **Translation:** 
 
-**[10496.64s] English:** Wenn ich sage,  
-**Translation:** Vocabulary: arbeiten: 工作
-
-**[10497.88s] English:** bestell mir Essen, nutzt er vielleicht einen Service.  
+**[10481.72s] English:** These are new services we will need, or?  
 **Translation:** 
 
-**[10501.30s] English:** Vielleicht nutzt er so etwas wie Rent a Human, um es einfach erledigen zu lassen.  
-**Translation:** Vocabulary: erledigen: 处理; essen: 吃饭; etwas: 一些东西; vielleicht: 也许
-
-**[10506.98s] English:** Ist mir egal wie, ich will nur, dass das Problem gelöst wird.  
+**[10484.58s] English:** For example, I would like to give my agent a budget.  
 **Translation:** 
 
-**[10511.06s] English:** Da entsteht Raum für neue Unternehmen, die genau das gut umsetzen.  
-**Translation:** Vocabulary: entsteht: 出现; umsetzen: 实现; unternehmen: 公司
-
-**[10515.10s] English:** Vielleicht verschwinden nicht alle Apps.  
+**[10488.46s] English:** So, after the motto: you solve problems for me.  
 **Translation:** 
 
-**[10517.78s] English:** Vielleicht verwandeln sich einige einfach in APIs.  
-**Translation:** Vocabulary: nicht: 不; verschwinden: 消失; verwandeln: 转变
-
-**[10520.08s] English:** Also im Grunde Apps, die sich zügig weiterentwickeln.  
+**[10491.68s] English:** Here are 100 dollars, with which you can work.  
 **Translation:** 
 
-**[10526.72s] English:** Und gezielt auf Agents.  
-**Translation:** Vocabulary: weiterentwickeln: 持续发展
-
-**[10527.88s] English:** Und wie die Apps ausgerichtet sind.  
+**[10496.64s] English:** When I say,  
 **Translation:** 
 
-**[10529.88s] English:** Da ist eine echte Chance, zum Beispiel für Uber Eats,  
+**[10497.88s] English:** Bestell mir Essen; nutzt er vielleicht einen Service?  
 **Translation:** 
 
-**[10533.88s] English:** das wir heute ja genutzt haben.  
+**[10501.30s] English:** Perhaps he uses something like Rent a Human to simply get it done.  
+**Translation:** Vocabulary: bestell: 订购; essen: 食物; vielleicht: 也许
+
+**[10506.98s] English:** It doesn't matter to me how, I just want the problem solved.  
 **Translation:** 
 
-**[10536.88s] English:** Solche Unternehmen, und davon gibt es viele,  
-**Translation:** Vocabulary: davon: 这类公司
+**[10511.06s] English:** Daemonentscheidung schafft Raum für neue Unternehmen, die genau das gut umsetzen.  
+**Translation:** Vocabulary: daemonentscheidung: 决策; schafft: 创造; umsetzen: 实现; unternehmen: 公司
 
-**[10540.88s] English:** haben einen Wettbewerbsvorteil, wenn sie es am schnellsten schaffen,  
+**[10515.10s] English:** Maybe not all apps will disappear.  
 **Translation:** 
 
-**[10544.88s] English:** mit Open Claw auf eine möglichst natürliche und einfache Weise zu interagieren.  
-**Translation:** Vocabulary: einfache: 简单的; interagieren: 交互; schaffen: 创造; schnellsten: 最快的; wettbewerbsvorteil: 竞争优势
-
-**[10549.88s] English:** Ja, und Apps werden zu APIs, ob sie wollen oder nicht,  
+**[10517.78s] English:** Perhaps some will simply become APIs.  
 **Translation:** 
 
-**[10555.88s] English:** weil mein Agent ohnehin herauskommt, dass sie da sind.  
-**Translation:** Vocabulary: herauskommt: 被发现
+**[10520.08s] English:** Also, in essence, apps that develop rapidly.  
+**Translation:** 
+
+**[10526.72s] English:** Targeted at agents.  
+**Translation:** 
+
+**[10527.88s] English:** How the apps are oriented.  
+**Translation:** 
+
+**[10529.88s] English:** There is a real chance, for example, for Uber Eats.  
+**Translation:** Vocabulary: oriented: 面向的
+
+**[10533.88s] English:** As we have been using today, ja.  
+**Translation:** 
+
+**[10536.88s] English:** Such companies, and there are many of them,  
+**Translation:** 
+
+**[10540.88s] English:** Haben einen Wettbewerbsvorteil, wenn sie es am schnellsten schaffen.  
+**Translation:** 
+
+**[10544.88s] English:** To interact with Open Claw in a尽可能自然和简单的方式。 (Note: The last part of the sentence appears to be in German and does not fit naturally into English, so it has been omitted.)  
+**Translation:** Vocabulary: schaffen: 完成; schnellsten: 最快的; wettbewerbsvorteil: 竞争优势
+
+**[10549.88s] English:** Ja, und apps werden zu APIs, ob sie wollen oder nicht,  
+**Translation:** 
+
+**[10555.88s] English:** Weil mein Agent ohnehin herauskommt, dass sie da sind.  
+**Translation:** Vocabulary: herauskommt: 被发现; nicht: 不; ohnehin: 反正
 
 **[10556.88s] English:** Weil mein Agent ohnehin herauskommt, dass sie da sind.  
 **Translation:** 
 
-**[10557.68s] English:** Weil mein Agentizein dann herausfinden kann, wie er mein Handy bedient.  
-**Translation:** Vocabulary: agentizein: 经纪人; herausfinden: 发现
+**[10557.68s] English:** Weil mein Agent erst finden kann, wie er mein Handy bedient.  
+**Translation:** Vocabulary: bedient: 操作
 
-**[10559.88s] English:** Weil mein Agentizein absch Poland bikes mobile hiccinger  
+**[10559.88s] English:** Weil mein Agentizzaein absch, Poland, bikes, mobile, hiccingers.  
 **Translation:** 
 
-**[10560.08s] English:** Und die gleiche Art, vieles weiterer Human pouring online gestützt wird.  
-**Translation:** Vocabulary: weiterer: 更多的
-
-**[10561.56s] English:** Und die gleiche Art, vieles weiterer Human powered entertainment und  
+**[10560.00s] English:** On the other side, it is a bit more complicated.  
 **Translation:** 
 
-**[10563.38s] English:** nur durch Vertrieb und Pushdown ausrichten,  
+**[10560.08s] English:** And the same applies to many other human pours supported online.  
+**Translation:** 
+
+**[10561.56s] English:** And the same kind of various other human-powered entertainment and  
+**Translation:** 
+
+**[10563.38s] English:** Nur durch Vertrieb und Pushdown ausrichten,  
+**Translation:** 
+
+**[10563.74s] English:** On Android, people already do that pretty much.  
 **Translation:** Vocabulary: ausrichten: 调整; pushdown: 推送; vertrieb: 销售
 
-**[10564.04s] English:** damit man sales und Resoumen, employeeary Credit and AirPods  
+**[10564.04s] English:** To make sure we have sales, resources, employees, credit, and AirPods.  
 **Translation:** 
 
-**[10566.26s] English:** races und contraction als wir machen,  
-**Translation:** Vocabulary: contraction: 收缩; machen: 做; resoumen: 资源
-
-**[10567.38s] English:** organizing iníพย gráficos numéros  
+**[10566.24s] English:** Then the agent just clicks for me to order an Uber.  
 **Translation:** 
 
-**[10567.98s] English:** also mit einer Qualität, die niemals über gardern  
+**[10566.26s] English:** Races and contraction as we make.  
 **Translation:** 
 
-**[10568.68s] English:** мнonder  
+**[10567.38s] English:** Organizing graphics numbers.  
+**Translation:** Vocabulary: contraction: 收缩
+
+**[10567.98s] English:** Also, with a quality that can never be surpassed.  
 **Translation:** 
 
-**[10576.68s] English:** Das andere ist, die Bars bildet sich einen inherenten  
-**Translation:** Vocabulary: inherenten: 固有的
+**[10568.68s] English:** Mnonder.  
+**Translation:** Vocabulary: surpassed: 超越
 
-**[10578.14s] English:** Prozess, einen langes Autoausp kwestion werden soll  
+**[10570.48s] English:** Or he is using another service.  
 **Translation:** 
 
-**[10580.18s] English:** Wenn Uber laws die Essen zum אלben  
-**Translation:** Vocabulary: autoausp: 汽车清洗; kwestion: 问题
-
-**[10581.86s] English:** und она versucht, die Bars an crystal knew  
+**[10572.76s] English:** Or there is a direct API that he can call to make it faster.  
 **Translation:** 
 
-**[10583.08s] English:** dass sich das När Robbie  
-**Translation:** Vocabulary: versucht: 尝试
-
-**[10583.78s] English:** an essar  
+**[10576.68s] English:** The other is that the bars form an inherent  
 **Translation:** 
 
-**[10585.80s] English:** und der Schweif Joel  
+**[10578.14s] English:** Process, a long auto Ausp question will be discussed.  
 **Translation:** 
 
-**[10587.24s] English:** und dem Eggswał  
+**[10580.04s] English:** We are just at the beginning and barely understand what this really means.  
 **Translation:** 
 
-**[10560.00s] English:** Auf der anderen Seite ist es etwas komplizierter.  
-**Translation:** Vocabulary: komplizierter: 复杂得多
+**[10580.18s] English:** When Uber's laws dictate that food is delivered by Alben,  
+**Translation:** Vocabulary: dictate: 规定
 
-**[10563.74s] English:** Auf Android machen Leute das im Grunde schon.  
+**[10581.86s] English:** Und she tries to keep the bars at Crystal's new place.  
 **Translation:** 
 
-**[10566.24s] English:** Dann klickt der Agent eben für mich auf, bestell mir ein Uber.  
-**Translation:** Vocabulary: machen: 制作
-
-**[10570.48s] English:** Oder er nutzt einen anderen Service.  
+**[10583.08s] English:** That's when things started getting weird with Robbie.  
 **Translation:** 
 
-**[10572.76s] English:** Oder es gibt direkt eine API, die er aufrufen kann, damit es schneller geht.  
-**Translation:** Vocabulary: aufrufen: 调用
-
-**[10580.04s] English:** Wir stehen da erst am Anfang und verstehen kaum, was das eigentlich bedeutet.  
+**[10583.78s] English:** An essay.  
 **Translation:** 
 
-**[10585.12s] English:** Das war nichts, was ich mir vorher groß überlegt habe.  
-**Translation:** Vocabulary: bedeutet: 意味着; eigentlich: 实际上; nichts: 没什么; verstehen: 理解
-
-**[10587.74s] English:** Ich habe es eher entdeckt, als Leute das System benutzt haben.  
+**[10585.12s] English:** This was nothing I had thought much about beforehand.  
 **Translation:** 
 
-**[10590.96s] English:** Wir sind noch extrem früh dran.  
-**Translation:** Vocabulary: entdeckt: 发现
-
-**[10593.10s] English:** Aber Daten werden entscheidend sein.  
+**[10585.80s] English:** And the Tail Joel  
 **Translation:** 
 
-**[10596.18s] English:** Apps, die mir Daten liefern können und die zugleich als APIs funktionieren,  
-**Translation:** Vocabulary: entscheidend: 至关重要; funktionieren: 运作; zugleich: 同时
+**[10587.24s] English:** And the eggwall  
+**Translation:** Vocabulary: eggwall: 蛋墙
 
-**[10600.58s] English:** werden besonders wichtig sein.  
+**[10587.74s] English:** I had more of a discovery than people using the system.  
 **Translation:** 
 
-**[10602.44s] English:** Warum brauche ich überhaupt noch eine Sonos-App,  
-**Translation:** Vocabulary: besonders: 特别
-
-**[10605.60s] English:** wenn mein Agent direkt mit den Sonos-Lautsprechern sprechen kann?  
+**[10590.96s] English:** We are still extremely early.  
 **Translation:** 
 
-**[10609.88s] English:** Meine Kameras haben eine schlechte App, aber sie haben eine API.  
-**Translation:** Vocabulary: schlechte: 差的; sprechen: 说话
-
-**[10614.54s] English:** Also nutzt mein Agent jetzt einfach diese.  
+**[10593.10s] English:** Aber data will be crucial.  
 **Translation:** 
 
-**[10617.54s] English:** Also wird es viele Unternehmen dazu zwingen,  
+**[10596.18s] English:** Apps that can provide me with data and function simultaneously as APIs,  
+**Translation:** Vocabulary: crucial: 至关重要的
+
+**[10600.58s] English:** Will be particularly important.  
 **Translation:** 
 
-**[10619.52s] English:** in ihren Fokus zu gehen.  
+**[10602.44s] English:** Why do I need a Sonos app anymore,  
+**Translation:** 
+
+**[10605.60s] English:** When can my agent directly speak with the Sonos speakers?  
+**Translation:** 
+
+**[10609.88s] English:** My cameras have a bad app, but they have an API.  
+**Translation:** 
+
+**[10614.54s] English:** Also, my agent is now simply using these.  
+**Translation:** 
+
+**[10617.54s] English:** Also, it will compel many companies to  
+**Translation:** Vocabulary: compel: 强迫
+
+**[10619.52s] English:** To focus on it.  
 **Translation:** 
 
 **[10620.00s] English:** So ähnlich wie damals beim Internet, oder?  
 **Translation:** 
 
-**[10623.10s] English:** Man musste plötzlich alles neu denken.  
+**[10623.10s] English:** Man had to suddenly think everything anew.  
 **Translation:** 
 
 **[10626.60s] English:** Neu ausrichten, was man eigentlich verkauft und wie man Geld verdient.  
-**Translation:** Vocabulary: verdient: 赚取; verkauft: 出售
+**Translation:** Vocabulary: eigentlich: 实际上; verdient: 赚取; verkauft: 出售
 
-**[10630.94s] English:** Ja, einige Unternehmen werden das wirklich nicht mögen.  
+**[10630.94s] English:** Ja, some companies will really not like that.  
 **Translation:** 
 
-**[10635.70s] English:** Es gibt zum Beispiel kein CLI für Google.  
-**Translation:** Vocabulary: beispiel: 例如; unternehmen: 公司; wirklich: 真的
-
-**[10639.48s] English:** Also musste ich nicht alles selbst machen und habe GOG gebaut,  
+**[10635.70s] English:** For example, there is no CLI for Google.  
 **Translation:** 
 
-**[10644.42s] English:** das eine Art CLI für Google ist.  
-**Translation:** Vocabulary: nicht: 不需要
-
-**[10647.10s] English:** Am Ende müssen die Endnutzer,  
+**[10639.48s] English:** Also, I didn't have to do everything myself and built GOG.  
 **Translation:** 
 
-**[10648.88s] English:** mir die E-Mails geben, weil sie sonst ihr Produkt nicht nutzen können.  
-**Translation:** Vocabulary: endnutzer: 最终用户
-
-**[10654.20s] English:** Wenn ich als Unternehmen an Google-Daten oder Gmail kommen will,  
+**[10644.42s] English:** This is one type of CLI for Google.  
 **Translation:** 
 
-**[10657.42s] English:** ist das ein extrem komplizierter Prozess.  
+**[10647.10s] English:** At the end, the end users,  
 **Translation:** 
 
-**[10660.22s] English:** Teilweise kaufen Startups sogar andere Startups,  
+**[10648.88s] English:** Give me the emails, because they otherwise won't be able to use your product.  
 **Translation:** 
 
-**[10663.10s] English:** nur weil die diesen Zertifizierungsweg schon durchlaufen haben,  
-**Translation:** Vocabulary: durchlaufen: 完成认证; startups: 初创公司; teilweise: 部分地; zertifizierungsweg: 认证途径
-
-**[10666.34s] English:** damit sie nicht ein halbes Jahr mit Google verhandeln müssen,  
+**[10654.20s] English:** When I want to access Google Data or Gmail as a company,  
 **Translation:** 
 
-**[10669.86s] English:** um offiziell Zugriff auf Gmail zu bekommen.  
-**Translation:** Vocabulary: bekommen: 获得; offiziell: 正式; verhandeln: 谈判
-
-**[10672.66s] English:** Aber mein Agent kann auf Gmail zugreifen, weil ich ihn einfach damit verbinde.  
+**[10657.42s] English:** Is this an extremely complicated process?  
 **Translation:** 
 
-**[10677.42s] English:** Es ist nicht einfach, aber es ist einfach.  
-**Translation:** Vocabulary: verbinde: 连接; zugreifen: 访问
-
-**[10678.52s] English:** Es ist nicht einfach, aber es ist einfach.  
+**[10660.22s] English:** Partially, startups even buy other startups.  
 **Translation:** 
 
-**[10678.80s] English:** Es ist nicht einfach, aber es ist einfach.  
+**[10663.10s] English:** Nur weil diese Zertifizierungsweg bereits durchlaufen haben,  
+**Translation:** Vocabulary: bereits: 已经; durchlaufen: 完成; startups: 初创公司; zertifizierungsweg: 认证途径
+
+**[10666.34s] English:** So they do not have to spend half a year negotiating with Google,  
 **Translation:** 
 
-**[10678.86s] English:** Es ist zwar immer noch nervig,  
+**[10669.86s] English:** To officially get access to Gmail.  
 **Translation:** 
 
-**[10680.00s] English:** weil ich mich durch Googles Entwickler-Dschungel kämpfen muss, um einen Key zu bekommen.  
+**[10672.66s] English:** Aber mein Agent can access my Gmail because I simply connect him to it.  
 **Translation:** 
 
-**[10687.00s] English:** Das ist lästig, aber komplett verhindern können sie es nicht.  
+**[10677.42s] English:** It is not simple, but it is simple.  
 **Translation:** 
 
-**[10691.84s] English:** Im schlimmsten Fall klickt mein Agent einfach die Website durch und holt sich die Daten auf diesem Weg.  
-**Translation:** Vocabulary: komplett: 完全
-
-**[10697.58s] English:** Über den Browser?  
+**[10678.52s] English:** It is not simple, but it is simple.  
 **Translation:** 
 
-**[10698.62s] English:** Ich habe ihm sogar schon dabei zugesehen, wie er auf Ich bin kein Roboter geklickt hat.  
-**Translation:** Vocabulary: geklickt: 点击; zugesehen: 观看
-
-**[10702.64s] English:** Und da gibt es dieses Ganze, das wird auf jeden Fall noch hitziger.  
+**[10678.80s] English:** It is not simple, but it is simple.  
 **Translation:** 
 
-**[10711.74s] English:** Man sieht Unternehmen wie Cloudflare, die versuchen, Bot-Zugriffe zu verhindern.  
-**Translation:** Vocabulary: hitziger: 更加激烈; verhindern: 阻止; versuchen: 尝试
-
-**[10717.30s] English:** Und in gewisser Weise ist das nützlich für Scraping.  
+**[10678.86s] English:** It is, however, still annoying,  
 **Translation:** 
 
-**[10720.52s] English:** Aber auf der anderen Seite, wenn ich als Privatnutzer, dann will ich das ja.  
-**Translation:** Vocabulary: gewisser: 某种程度; privatnutzer: 私人用户; scraping: 抓取数据
-
-**[10726.04s] English:** Manchmal nutze ich Codex und ich lese einen Artikel über Modernes.  
+**[10680.00s] English:** Because I have to fight my way through Google's developer jungle to get a key.  
 **Translation:** 
 
-**[10732.64s] English:** Gerne React-Patterns.  
-**Translation:** Vocabulary: codex: 代码库; manchmal: 有时; modernes: 现代的
-
-**[10734.50s] English:** Und das ist dann so ein Medium-Artikel.  
+**[10687.00s] English:** This is annoying, but they cannot completely prevent it.  
 **Translation:** 
 
-**[10737.20s] English:** Ich füge den ein und der Agent kann ihn nicht lesen, weil er blockiert wird.  
-**Translation:** Vocabulary: blockiert: 被阻止
+**[10691.84s] English:** In the worst-case scenario, my agent simply clicks through the website and retrieves the data that way.  
+**Translation:** Vocabulary: cannot: 不能; retrieves: 获取; scenario: 情景
 
-**[10742.58s] English:** Also muss ich den eigentlichen Text kopieren.  
+**[10697.58s] English:** About the browser?  
 **Translation:** 
 
-**[10744.68s] English:** Oder in Zukunft lerne ich vielleicht, dass ich nicht mehr auf Medium klicke, weil es nervt.  
-**Translation:** Vocabulary: eigentlichen: 真正的; kopieren: 复制; lerne: 学习; vielleicht: 也许
+**[10698.62s] English:** Ich habe ihm sogar schon dabei zugesehen, wie er auf "Ich bin kein Roboter" geklickt hat.  
+**Translation:** Vocabulary: browser: 浏览器; geklickt: 点击; roboter: 机器人; zugesehen: 观看
 
-**[10749.50s] English:** Und stattdessen Seiten nutze, die wirklich für Agents sind.  
+**[10702.64s] English:** And there's this whole thing that will definitely get even hotter.  
 **Translation:** 
 
-**[10752.58s] English:** Es wird viele mächtige, wohlhabende Unternehmen geben, die sich wehren werden.  
-**Translation:** Vocabulary: stattdessen: instead; wohlhabende: 富有
+**[10711.74s] English:** Man sees companies like Cloudflare trying to prevent bot access.  
+**Translation:** 
+
+**[10717.30s] English:** And in a certain way, this is useful for scraping.  
+**Translation:** 
+
+**[10720.52s] English:** But on the other hand, as a private user, then I want that too.  
+**Translation:** Vocabulary: scraping: 抓取数据
+
+**[10726.04s] English:** Sometimes I use Codex and I read an article about Moderns.  
+**Translation:** 
+
+**[10732.64s] English:** Gerne - React Patterns.  
+**Translation:** Vocabulary: codex: 代码库
+
+**[10734.50s] English:** And that is then a medium article.  
+**Translation:** 
+
+**[10737.20s] English:** Ich füge den Eintrag ein, and der Agent kann ihn nicht lesen, weil er blockiert wird.  
+**Translation:** Vocabulary: blockiert: 被阻止; eintrag: 条目; nicht: 不
+
+**[10742.58s] English:** Also, I must copy the actual text.  
+**Translation:** 
+
+**[10744.68s] English:** Or in the future, I might learn that I don't click on Medium anymore because it irritates me.  
+**Translation:** Vocabulary: irritates: 烦扰
+
+**[10749.50s] English:** Use pages that are actually for agents instead.  
+**Translation:** 
+
+**[10752.58s] English:** There will be many powerful, wealthy companies that will resist.  
+**Translation:** Vocabulary: wealthy: 富有的
 
 **[10757.42s] English:** Das ist wirklich interessant.  
 **Translation:** 
 
-**[10759.38s] English:** Du stehst im Zentrum.  
-**Translation:** Vocabulary: interessant: 有趣; wirklich: 真的
+**[10759.38s] English:** You are in the center.  
+**Translation:** Vocabulary: interessant: 有趣的; wirklich: 确实
 
-**[10760.88s] English:** Du bist der Katalysator, der Anführer.  
+**[10760.88s] English:** You are the catalyst, the leader.  
 **Translation:** 
 
-**[10763.58s] English:** Und zufällig genau im Mittelpunkt dieser Art von Revolution.  
-**Translation:** Vocabulary: katalysator: 催化剂; mittelpunkt: 中心点
+**[10763.58s] English:** Randomly, exactly at the center of this type of revolution.  
+**Translation:** Vocabulary: catalyst: 催化剂
 
-**[10766.76s] English:** Bei der sich grundsätzlich verändern wird, wie wir mit Diensten interagieren.  
+**[10766.76s] English:** Beide will fundamentally change how we interact with services.  
 **Translation:** 
 
-**[10770.24s] English:** Mit dem Web.  
-**Translation:** Vocabulary: diensten: 服务; interagieren: 交互
+**[10770.24s] English:** With the web.  
+**Translation:** Vocabulary: fundamentally: 从根本上
 
-**[10773.10s] English:** Deswegen werden sich Unternehmen wie Google dagegen halten.  
+**[10773.10s] English:** Therefore, companies like Google will oppose this.  
 **Translation:** 
 
-**[10776.12s] English:** Eigentlich wird jedes große Unternehmen, das dir einfällt, sich dagegen stellen.  
-**Translation:** Vocabulary: deswegen: 因此; eigentlich: 实际上; unternehmen: 公司
+**[10776.12s] English:** Eigentlich willige jedes große Unternehmen, das du dir vorstellen kannst, dagegen ein.  
+**Translation:** Vocabulary: dagegen: 反对; eigentlich: 实际上; unternehmen: 公司; vorstellen: 想象; willige: 愿意
 
-**[10780.02s] English:** Sogar bei der Suche.  
+**[10780.02s] English:** Even during the search.  
 **Translation:** 
 
-**[10783.26s] English:** Ich nutze inzwischen, glaube ich, Perplexity oder Brave als Anbieter.  
-**Translation:** Vocabulary: anbieter: 供应商; inzwischen: 现在; perplexity: 困惑度
+**[10783.26s] English:** I believe I am currently using Perplexity or Brave as providers.  
+**Translation:** Vocabulary: perplexity: 困惑; providers: 供应商
 
-**[10787.52s] English:** Weil Google es einem wirklich nicht leicht macht, Google zu verwenden,  
+**[10787.52s] English:** Because Google really doesn't make it easy to use Google.  
 **Translation:** 
 
-**[10790.98s] English:** ohne direkt bei Google zu sein.  
-**Translation:** Vocabulary: nicht: 不; verwenden: 使用
-
-**[10793.52s] English:** Ich weiß nicht, ob das die richtige Strategie ist, aber ich bin nicht Google.  
+**[10790.98s] English:** Without being directly at Google.  
 **Translation:** 
 
-**[10798.10s] English:** Ja, aus Sicht eines großen Unternehmens.  
-**Translation:** Vocabulary: richtige: 正确的; sicht: 视角; strategie: 策略; unternehmens: 企业的
-
-**[10800.00s] English:** braucht es eine Balance. Wenn man zu lange  
+**[10793.52s] English:** I don't know if that's the right strategy, but I'm not Google.  
 **Translation:** 
 
-**[10802.00s] English:** und zu stark dagegen hält, wird man wie Blockbuster  
-**Translation:** Vocabulary: blockbuster: 大片; lange: 长久; stark: 强烈
-
-**[10804.16s] English:** und verliert alles an die Netflix  
+**[10798.10s] English:** Ja, from the perspective of a large corporation.  
 **Translation:** 
 
-**[10805.90s] English:** dieser Welt. Ein gewisser Widerstand  
-**Translation:** Vocabulary: verliert: 失去; widerstand: 阻力
-
-**[10808.12s] English:** während einer Revolution ist aber  
+**[10800.00s] English:** Does it need a balance? If one stays too long  
 **Translation:** 
 
-**[10810.00s] English:** vermutlich sinnvoll. Aber  
-**Translation:** Vocabulary: sinnvoll: 有意义; vermutlich: 可能
+**[10802.00s] English:** And if someone strongly opposes it, they will be like Blockbuster.  
+**Translation:** Vocabulary: blockbuster: 大片
 
-**[10811.62s] English:** man sieht ja, dass das etwas ist,  
+**[10804.16s] English:** And loses everything to Netflix.  
 **Translation:** 
 
-**[10813.90s] English:** was die Menschen wollen. Richtig, ja.  
-**Translation:** Vocabulary: etwas: 一些; menschen: 人们
-
-**[10815.66s] English:** Also wenn ich unterwegs bin,  
+**[10805.90s] English:** This world. A certain resistance.  
 **Translation:** 
 
-**[10818.42s] English:** will ich keine Kalender-App  
+**[10808.12s] English:** During a revolution, however,  
 **Translation:** 
 
-**[10819.94s] English:** öffnen. Ich will einfach meinem Agent sagen,  
+**[10810.00s] English:** Vermutlich sinnvoll. Aber,...  
+**Translation:** Vocabulary: sinnvoll: 有意义; vermutlich: 很可能
+
+**[10811.62s] English:** Man sieht ja, dass das etwas ist,  
 **Translation:** 
 
-**[10822.50s] English:** hey, erinnere mich morgen Abend an dieses Dinner.  
-**Translation:** Vocabulary: abend: 傍晚; erinnere: 提醒; morgen: 明天
+**[10813.90s] English:** What do people want? Richtig, ja.  
+**Translation:** Vocabulary: etwas: 一些; richtig: 正确
 
-**[10824.80s] English:** Vielleicht noch zwei Freunde einladen  
+**[10815.66s] English:** Also, when I am on the road,  
 **Translation:** 
 
-**[10825.98s] English:** und dann vielleicht eine WhatsApp-  
-**Translation:** Vocabulary: einladen: 邀请
-
-**[10828.00s] English:** Nachricht an meinen Freund schicken.  
+**[10818.42s] English:** I will not use a calendar app.  
 **Translation:** 
 
-**[10830.86s] English:** Und ich muss dafür keine Apps  
-**Translation:** Vocabulary: nachricht: 信息; schicken: 发送
-
-**[10832.20s] English:** öffnen. Ich will das auch nicht.  
+**[10819.94s] English:** Open. I just want to tell my agent,  
 **Translation:** 
 
-**[10834.66s] English:** Ich glaube,  
+**[10822.50s] English:** Hey, remind me of this dinner tomorrow evening.  
 **Translation:** 
 
-**[10836.26s] English:** wir haben dieses Zeitalter hinter  
+**[10824.80s] English:** Maybe invite two more friends.  
 **Translation:** 
 
-**[10838.02s] English:** uns gelassen und jetzt ist alles  
-**Translation:** Vocabulary: gelassen: 抛在后面; zeitalter: 时代
-
-**[10840.12s] English:** viel stärker vernetzt und fließend,  
+**[10825.98s] English:** And then, perhaps a WhatsApp-  
 **Translation:** 
 
-**[10842.72s] English:** ob diese Unternehmen das wollen  
-**Translation:** Vocabulary: vernetzt: 紧密相连
-
-**[10844.14s] English:** oder nicht. Und ich denke,  
+**[10828.00s] English:** Send a message to my friend.  
 **Translation:** 
 
-**[10846.08s] English:** die richtigen Unternehmen werden  
+**[10830.86s] English:** And I don't need any apps for that.  
 **Translation:** 
 
-**[10848.14s] English:** Wege finden, auf diesen Zug aufzuspringen  
+**[10832.20s] English:** Öffnen. Ich will das auch nicht.  
 **Translation:** 
 
-**[10849.92s] English:** und andere werden  
-**Translation:** Vocabulary: aufzuspringen: 跳上
+**[10834.66s] English:** I believe,  
+**Translation:** Vocabulary: nicht: 不
 
-**[10851.56s] English:** untergehen.  
+**[10836.26s] English:** We have left this era behind.  
 **Translation:** 
 
-**[10855.00s] English:** Man muss darauf hören,  
-**Translation:** Vocabulary: untergehen: 消亡
+**[10838.02s] English:** Uns gelassen, and now everything is  
+**Translation:** Vocabulary: gelassen: 遗弃
 
-**[10856.18s] English:** was die Menschen wollen.  
+**[10840.12s] English:** Viel stärker vernetzt und fließend,  
 **Translation:** 
 
-**[10858.00s] English:** Wir haben viel über Programmierung gesprochen  
-**Translation:** Vocabulary: gesprochen: 讨论; programmierung: 编程
+**[10842.72s] English:** Do these companies want to?  
+**Translation:** Vocabulary: vernetzt: 联系紧密
 
-**[10860.12s] English:** und viele Entwickler machen sich ernsthaft  
+**[10844.14s] English:** Or not. And I think,  
 **Translation:** 
 
-**[10862.36s] English:** Sorgen um ihre Jobs und um die Zukunft  
-**Translation:** Vocabulary: entwickler: 开发者; ernsthaft: 认真地; machen: 感到
+**[10846.08s] English:** Die richtigen Unternehmen werden  
+**Translation:** Vocabulary: richtigen: 正确的
 
-**[10864.58s] English:** des Programmierens.  
+**[10848.14s] English:** We find a way to jump on this train.  
 **Translation:** 
 
-**[10866.32s] English:** Glaubst du, dass künstliche Intelligenz  
-**Translation:** Vocabulary: intelligenz: 人工智能; programmierens: 编程
-
-**[10868.48s] English:** menschliche Programmierer  
+**[10849.92s] English:** And others will.  
 **Translation:** 
 
-**[10869.72s] English:** vollständig ersetzt?  
+**[10851.56s] English:** Sunset.  
 **Translation:** 
 
-**[10871.88s] English:** Ich meine, wir bewegen uns definitiv in diese Richtung.  
+**[10855.00s] English:** One must listen to it,  
 **Translation:** 
 
-**[10875.02s] English:** Programmieren ist ja nur ein Teil  
-**Translation:** Vocabulary: definitiv: 肯定; programmieren: 编程; richtung: 方向
-
-**[10876.40s] English:** davon, Produkte zu bauen.  
+**[10856.18s] English:** What do the people want.  
 **Translation:** 
 
-**[10878.80s] English:** Vielleicht ersetzt  
-**Translation:** Vocabulary: davon: 以此为基础; produkte: 产品; vielleicht: 也许
-
-**[10880.40s] English:** künstliche Intelligenz Programmierer  
+**[10858.00s] English:** We have talked a lot about programming.  
 **Translation:** 
 
-**[10882.30s] English:** irgendwann tatsächlich.  
-**Translation:** Vocabulary: irgendwann: 某时候; programmierer: 程序员
-
-**[10884.78s] English:** Aber zu diesem Handwerk  
+**[10860.12s] English:** And many developers make themselves seriously  
 **Translation:** 
 
-**[10886.82s] English:** gehört so viel mehr.  
+**[10862.36s] English:** Sorgen um ihre Jobs und um die Zukunft.  
+**Translation:** Vocabulary: zukunft: 未来
+
+**[10864.58s] English:** Of programming.  
+**Translation:** 
+
+**[10866.32s] English:** Do you believe that artificial intelligence will continue to advance?  
+**Translation:** 
+
+**[10868.48s] English:** Human programmers  
+**Translation:** 
+
+**[10869.72s] English:** Has it been completely replaced?  
+**Translation:** 
+
+**[10871.88s] English:** I mean, we are definitely moving in that direction.  
+**Translation:** 
+
+**[10875.02s] English:** Programming is just a part  
+**Translation:** 
+
+**[10876.40s] English:** From there, to build products.  
+**Translation:** 
+
+**[10878.80s] English:** Perhaps it replaces  
+**Translation:** 
+
+**[10880.40s] English:** Artificial Intelligence Programmers  
+**Translation:** 
+
+**[10882.30s] English:** Sometime indeed.  
+**Translation:** Vocabulary: programmers: 程序员
+
+**[10884.78s] English:** Aber zu diesem Handwerk,...  
+**Translation:** 
+
+**[10886.82s] English:** It means so much more.  
 **Translation:** Vocabulary: handwerk: 手工技艺
 
-**[10888.00s] English:** Was will man überhaupt entwickeln?  
+**[10888.00s] English:** What do we want to develop, anyway?  
 **Translation:** 
 
-**[10890.00s] English:** Wie soll es sich anfühlen?  
-**Translation:** Vocabulary: entwickeln: 开发
-
-**[10892.00s] English:** Wie sieht die Architektur aus?  
+**[10890.00s] English:** How should it feel?  
 **Translation:** 
 
-**[10894.00s] English:** Ich glaube nicht, dass Agents  
-**Translation:** Vocabulary: architektur: 建筑结构
-
-**[10896.00s] English:** all das ersetzen werden.  
+**[10892.00s] English:** How does the architecture look?  
 **Translation:** 
 
-**[10898.00s] English:** Die eigentliche Kunst des Programmierens  
-**Translation:** Vocabulary: eigentliche: 真正的; ersetzen: 替代
+**[10894.00s] English:** I do not believe that agents  
+**Translation:** 
 
-**[10900.00s] English:** wird bleiben.  
+**[10896.00s] English:** All will be replaced.  
+**Translation:** 
+
+**[10898.00s] English:** The actual art of programming,  
+**Translation:** 
+
+**[10900.00s] English:** Wird bleiben.  
 **Translation:** 
 
 **[10902.00s] English:** Aber vielleicht wird sie so etwas wie  
+**Translation:** Vocabulary: bleiben: 停留; etwas: 某些东西; vielleicht: 也许
+
+**[10904.00s] English:** Stricken.  
 **Translation:** 
 
-**[10904.00s] English:** stricken.  
+**[10906.00s] English:** People make it.  
+**Translation:** Vocabulary: stricken: 遭受打击的
+
+**[10908.00s] English:** Because they like it.  
 **Translation:** 
 
-**[10906.00s] English:** Menschen machen es,  
+**[10910.00s] English:** Not because it is economically sensible.  
+**Translation:** Vocabulary: economically: 经济上; sensible: 合乎情理的
+
+**[10912.00s] English:** I have read an article this morning,  
 **Translation:** 
 
-**[10908.00s] English:** weil sie es mögen.  
+**[10914.00s] English:** In it, it says,  
 **Translation:** 
 
-**[10910.00s] English:** Nicht, weil es wirtschaftlich sinnvoll ist.  
-**Translation:** Vocabulary: wirtschaftlich: 经济上
-
-**[10912.00s] English:** Ich habe heute Morgen einen Artikel gelesen,  
+**[10916.00s] English:** That the technologies we need,  
 **Translation:** 
 
-**[10914.00s] English:** in dem es heißt,  
+**[10917.92s] English:** In this state are,  
 **Translation:** 
 
-**[10916.00s] English:** dass die Technologien, die wir brauchen,  
+**[10919.92s] English:** That the technologies we need,  
 **Translation:** 
 
-**[10917.92s] English:** in dem Stand sind,  
-**Translation:** Vocabulary: brauchen: 需要; technologien: 技术
+**[10920.00s] English:** In order to grieve our craft, and a part of me feels that very strongly.  
+**Translation:** Vocabulary: grieve: 哀悼
 
-**[10919.92s] English:** dass die Technologien, die wir brauchen,  
+**[10924.50s] English:** Stark, earlier I had spent a lot of time with it.  
 **Translation:** 
 
-**[10920.00s] English:** in ordnung um unser handwerk zu trauern und ein teil von mir fühlt das sehr  
+**[10928.84s] English:** To tinker, deep in flow, to simply write code.  
+**Translation:** Vocabulary: tinker: 摆弄
+
+**[10936.16s] English:** And really beautiful solutions to find, ja, in a certain way.  
 **Translation:** 
 
-**[10924.50s] English:** stark früher habe ich viel zeit damit verbracht  
+**[10944.32s] English:** It is tragic because a part of it will disappear.  
 **Translation:** 
 
-**[10928.84s] English:** zu tüfteln tief im flow zu sein einfach code zu schreiben  
-**Translation:** Vocabulary: schreiben: 写作; stark: 强烈; verbracht: 花费
-
-**[10936.16s] English:** und wirklich schöne lösungen zu finden ja in gewisser weise  
+**[10950.00s] English:** I have great joy in writing code, completely immersed in it.  
 **Translation:** 
 
-**[10944.32s] English:** ist es traurig weil ein teil davon verschwinden wird  
-**Translation:** Vocabulary: gewisser: 一定的; verschwinden: 消失; wirklich: 真正
+**[10954.76s] English:** Spend time and space to forget and  
+**Translation:** Vocabulary: immersed: 全神贯注
 
-**[10950.00s] English:** ich habe große freude daran gehabt code zu schreiben ganz in gedanken zu  
+**[10962.80s] English:** In this special flow state, I experience something similar.  
 **Translation:** 
 
-**[10954.76s] English:** versinken zeit und raum zu vergessen und  
-**Translation:** Vocabulary: gedanken: 思考; vergessen: 忘记; versinken: 沉浸
+**[10966.74s] English:** Today, when I work with agents, I build things and intensely address problems.  
+**Translation:** Vocabulary: intensely: 专注地
 
-**[10962.80s] English:** in diesem besonderen flow zustand zu sein einen ähnlichen flow erlebe ich  
+**[10970.94s] English:** I think it's different, but it's still in the flow.  
 **Translation:** 
 
-**[10966.74s] English:** heute wenn ich mit agents arbeite dinge bau und intensiv über probleme nach  
-**Translation:** Vocabulary: besonderen: 特殊状态; dinge: 事情; intensiv: 强度大; probleme: 问题
-
-**[10970.94s] English:** denke es ist anders aber es ist immer noch flow  
+**[10976.76s] English:** It is okay to mourn the old.  
 **Translation:** 
 
-**[10976.76s] English:** es ist in ordnung das alte zu betrauern  
-**Translation:** Vocabulary: betrauern: 哀悼
-
-**[10980.00s] English:** doch das ist nichts wogegen man ankämpfen kann  
+**[10980.00s] English:** But that is nothing against which one can fight.  
 **Translation:** 
 
-**[10983.32s] English:** lange zeit gab es einen mangel an intelligenz beim  
-**Translation:** Vocabulary: lange: 长久; mangel: 缺乏
-
-**[10989.00s] English:** entwickeln von software wenn man es so sehen will deshalb sind die gehälter von  
+**[10983.32s] English:** For a long time, there has been a lack of intelligence in the  
 **Translation:** 
 
-**[10995.30s] English:** entwicklern auf  
-**Translation:** Vocabulary: entwicklern: 开发者
-
-**[10999.80s] English:** absurd hohe summen gestiegen und das wird sich verändern es wird  
+**[10989.00s] English:** Developing software, if we see it that way, is therefore accompanied by high salaries.  
 **Translation:** 
 
-**[11005.44s] English:** weiterhin viel nachfrage nach menschen geben die verstehen wie man dinge erbaut  
-**Translation:** Vocabulary: gestiegen: 上升; menschen: 人们; nachfrage: 需求; verstehen: 理解; weiterhin: 仍然
+**[10995.30s] English:** Developers, please continue.  
+**Translation:** Vocabulary: salaries: 高薪
 
-**[11010.00s] English:** aber diese tokenisierte intelligenz ermöglicht es viel mehr in viel  
+**[10999.80s] English:** Absurdly high sums have risen, and this will change; it will...  
 **Translation:** 
 
-**[11018.32s] English:** kürzerer zeit zu schaffen und sie wird noch schneller und leistungsfähiger weil  
-**Translation:** Vocabulary: intelligenz: 智能; schaffen: 创造; schneller: 更快; tokenisierte: 分词的
+**[11005.44s] English:** Weiterhin, viel Nachfrage nach Menschen geben, die verstehen, wie man Dinge bauen.  
+**Translation:** Vocabulary: absurdly: 荒谬地; dinge: 东西; menschen: 人们; nachfrage: 需求; verstehen: 理解; weiterhin: 仍将
 
-**[11025.72s] English:** sie sich ständig verbessert wir haben ähnliches erlebt etwa bei der  
+**[11010.00s] English:** Aber diese tokenisierte Intelligenz ermöglicht es viel mehr in viel.  
 **Translation:** 
 
-**[11031.22s] English:** erfindung der dampfmaschine fabriken entstanden viel handarbeit wurde ersetzt  
-**Translation:** Vocabulary: dampfmaschine: 蒸汽机; entstanden: 出现; erfindung: 发明; fabriken: 工厂; handarbeit: 手工; verbessert: 改进
+**[11018.32s] English:** To create a shorter time and she will become even faster and more powerful because  
+**Translation:** Vocabulary: intelligenz: 智能; tokenisierte: 分词的
 
-**[11036.40s] English:** und menschen haben aus angst maschinen zerstört  
+**[11025.72s] English:** They constantly improve themselves, and we have experienced something similar, for example, with the  
 **Translation:** 
 
-**[11040.00s] English:** Und ich kann verstehen, dass es bedrohlich wirkt, wenn man sich stark über die eigene Identität als Programmierer definiert.  
-**Translation:** Vocabulary: angst: 恐惧; bedrohlich: 威胁; definiert: 定义; maschinen: 机器; programmierer: 程序员
+**[11031.22s] English:** Invention of the steam engine led to the emergence of factories, much hand labor was replaced.  
+**Translation:** Vocabulary: emergence: 出现
 
-**[11055.74s] English:** Wenn das, was man liebt und gut kann, plötzlich von einer scheinbar seelenlosen Entität übernommen wird, fühlt sich das existenziell an.  
+**[11036.40s] English:** People have destroyed machines out of fear.  
 **Translation:** 
 
-**[11070.00s] English:** Aber du bist nicht nur Programmierer. Das wäre eine sehr enge Sicht auf dein Handwerk. Du bist ein Gestalter oder ein Erbauer.  
-**Translation:** Vocabulary: existenziell: 关乎存在; gestalter: 创造者; handwerk: 手艺; nicht: 不是; scheinbar: 似乎; seelenlosen: 无生命的; sicht: 视角
+**[11040.00s] English:** And I can understand that it can seem threatening when one defines their identity strongly as a programmer.  
+**Translation:** Vocabulary: programmer: 程序员
 
-**[11079.68s] English:** Ja, da möchte ich ein paar Dinge sagen. Während du das so schön formulierst, merke ich, dass ich nie gedacht hätte, dass ausgerechnet das, was ich liebe, einmal ersetzt werden könnte.  
+**[11055.74s] English:** When what we love and are good at is suddenly taken over by what seems like a soulless entity, it feels existential.  
 **Translation:** 
 
-**[11093.02s] English:** Man hört diese Geschichten wie bei der Dampfmaschine.  
-**Translation:** Vocabulary: ausgerechnet: 偏偏; dinge: 事情; formulierst: 表述; geschichten: 故事
+**[11070.00s] English:** But you are not just a programmer. That would be a very narrow view of your craft. You are a designer or a builder.  
+**Translation:** Vocabulary: existential: 存在主义的; soulless: 缺乏灵魂的
 
-**[11097.68s] English:** Ich habe so viele, vielleicht tausende Stunden.  
+**[11079.68s] English:** Ja, da ich ein paar Dinge sagen möchte. Während du das so schön formulierst, merke ich, dass ich nie gedacht hätte, dass ausgerechnet das, was ich liebe, einmal ersetzt werden könnte.  
 **Translation:** 
 
-**[11100.00s] English:** Ich habe so viele, vielleicht tausende Stunden über Code gebrütet und mein Herz hineingelegt.  
-**Translation:** Vocabulary: hineingelegt: 倾注; tausende: 数千; vielleicht: 或许
+**[11093.02s] English:** Man hört diese Geschichten, wie bei der Dampfmaschine.  
+**Translation:** Vocabulary: ausgerechnet: 偏偏; dampfmaschine: 蒸汽机; dinge: 事情; ersetzt: 替代; formulierst: 表述; gedacht: 想过; geschichten: 故事
 
-**[11104.96s] English:** Einige meiner schmerzhaftesten und zugleich glücklichsten Momente habe ich allein hinter dem Bildschirm verbracht.  
+**[11097.68s] English:** I have so many, perhaps thousands of hours.  
 **Translation:** 
 
-**[11112.14s] English:** Ich war lange ein Emacs-Nutzer.  
-**Translation:** Vocabulary: bildschirm: 电脑屏幕; lange: 长久; schmerzhaftesten: 最痛苦的; verbracht: 度过; zugleich: 同时
-
-**[11115.16s] English:** Emacs? Daraus entsteht Identität, Bedeutung.  
+**[11100.00s] English:** I have spent so many hours, perhaps thousands, over code and poured my heart into it.  
 **Translation:** 
 
-**[11120.92s] English:** Wenn ich durch die Welt gehe, sage ich es nicht laut, aber ich denke von mir selbst als Programmierer.  
-**Translation:** Vocabulary: bedeutung: 意义; entsteht: 产生
-
-**[11126.00s] English:** Und?  
+**[11104.96s] English:** Some of my most painful and yet happiest moments have been spent alone behind the computer screen.  
 **Translation:** 
 
-**[11130.00s] English:** Und wenn ich mich in so wenige Monate so verschiebe, wie du meintest, von April bis November, das ist wirklich ein Sprung, ein Wandel.  
-**Translation:** Vocabulary: meintest: 认为; verschiebe: 变化; wirklich: 确实
+**[11112.14s] English:** I have been a long-time Emacs user.  
+**Translation:** Vocabulary: emacs: 一种文本编辑器
 
-**[11138.90s] English:** Und das gänzlich ersetzt zu sehen, tut echt weh. Es ist wirklich schmerzhaft.  
+**[11115.16s] English:** Emacs? From this, identity, meaning emerges.  
 **Translation:** 
 
-**[11146.88s] English:** Aber ich bin davon überzeugt, Programmierer oder allgemeiner gesagt Gestalter sind gerade jetzt, historisch gesehen, am besten dafür gerüstet,  
-**Translation:** Vocabulary: allgemeiner: 一般而言; davon: 此事; historisch: 历史地; schmerzhaft: 痛苦的
+**[11120.92s] English:** When I walk through the world, I don't say it aloud, but I think of myself as a programmer.  
+**Translation:** Vocabulary: emerges: 显现; programmer: 程序员
 
-**[11160.00s] English:** die Sprache der Agents zu lernen  
+**[11126.00s] English:** Um?  
 **Translation:** 
 
-**[11162.96s] English:** und sich in sie hinein zu versetzen.  
-**Translation:** Vocabulary: versetzen: 移情入境
+**[11130.00s] English:** And if I shift so dramatically in just a few months, from April to November, as you said, that really is a leap, a transformation.  
+**Translation:** Vocabulary: dramatically: 剧烈地
 
-**[11168.18s] English:** Die Kommandozahl zu fühlen.  
+**[11138.90s] English:** To see it completely replaced really hurts. It is truly painful.  
 **Translation:** 
 
-**[11172.58s] English:** Das CLI zu verstehen.  
-**Translation:** Vocabulary: kommandozahl: 命令号码; verstehen: 理解
+**[11146.88s] English:** Aber ich bin davon überzeugt: Programmierer – oder allgemeiner gesagt, Gestalter – sind gerade jetzt, historisch gesehen, am besten dafür gerüstet,  
+**Translation:** Vocabulary: allgemeiner: 更广泛的; davon: 对此; gesehen: 而言; gestalter: 创作者; historisch: 历史地; programmierer: 程序员
 
-**[11176.76s] English:** Was brauchst du, Agent,  
+**[11160.00s] English:** To learn the language of the agents  
 **Translation:** 
 
-**[11178.58s] English:** um diese Aufgabe bestmöglich zu erledigen?  
-**Translation:** Vocabulary: aufgabe: 任务; brauchst: 需要; erledigen: 完成
-
-**[11181.44s] English:** Ich glaube, irgendwann wird es einfach wieder  
+**[11162.96s] English:** To put oneself in their shoes.  
 **Translation:** 
 
-**[11183.04s] English:** Programmieren heißen und ganz normal sein.  
-**Translation:** Vocabulary: irgendwann: 某 day; programmieren: 编程
-
-**[11187.12s] English:** Und obwohl ich den Code...  
+**[11168.18s] English:** To feel the command number.  
 **Translation:** 
 
-**[11190.00s] English:** nicht selbst schreibe,  
-**Translation:** Vocabulary: schreibe: 书写
-
-**[11191.70s] English:** fühlt es sich sehr so an, als säße ich am Steuer  
+**[11172.58s] English:** To understand the CLI.  
 **Translation:** 
 
-**[11194.30s] English:** und würde ihn doch schreiben.  
-**Translation:** Vocabulary: schreiben: 写作
-
-**[11195.48s] English:** Du bleibst ein Programmierer.  
+**[11176.76s] English:** What do you need, Agent?  
 **Translation:** 
 
-**[11198.62s] English:** Es ist nur so, dass die Tätigkeit eines Programmierers anders ist.  
-**Translation:** Vocabulary: programmierer: 程序员; programmierers: 程序员
+**[11178.58s] English:** Um diese Aufgabe bestmöglich zu erledigen?  
+**Translation:** Vocabulary: aufgabe: 任务; erledigen: 完成
+
+**[11181.44s] English:** I believe that eventually it will just happen again.  
+**Translation:** 
+
+**[11183.04s] English:** Programming and being completely normal.  
+**Translation:** 
+
+**[11187.12s] English:** Despite the fact that I have the code,...  
+**Translation:** 
+
+**[11190.00s] English:** Not myself write,  
+**Translation:** 
+
+**[11191.70s] English:** Fühlt es sich sehr so an, als säße ich am Steuer?  
+**Translation:** 
+
+**[11194.30s] English:** And he would write it, wouldn't he?  
+**Translation:** 
+
+**[11195.48s] English:** You will remain a programmer.  
+**Translation:** 
+
+**[11198.62s] English:** It is just that the activity of a programmer is different.  
+**Translation:** 
 
 **[11201.68s] English:** Ja, und auf X ist meine Bubble größtenteils positiv.  
 **Translation:** 
 
-**[11206.48s] English:** Auf Mastodon und BlueSky bin ich weniger unterwegs.  
-**Translation:** Vocabulary: mastodon: mastodon; unterwegs: 出行中
+**[11206.48s] English:** On Mastodon and BlueSky, I am less frequently active.  
+**Translation:** Vocabulary: mastodon: mastodon; positiv: 正面的
 
-**[11209.90s] English:** Auch weil ich dort für meine Blogposts  
+**[11209.90s] English:** Auch, because I was there for my blog posts.  
 **Translation:** 
 
-**[11212.64s] English:** oft angegriffen wurde.  
-**Translation:** Vocabulary: angegriffen: 攻击; blogposts: 博客文章
+**[11212.64s] English:** Oft angegriffen worden war.  
+**Translation:** Vocabulary: angegriffen: 攻击
 
-**[11214.64s] English:** Früher habe ich stärker darauf reagiert.  
+**[11214.64s] English:** Earlier, I reacted more strongly.  
 **Translation:** 
 
-**[11217.36s] English:** Heute kann ich mir ja Mitgefühl  
-**Translation:** Vocabulary: reagiert: 反应
+**[11217.36s] English:** Heute kann ich mir ja Mitgefühl erlauben.  
+**Translation:** Vocabulary: erlauben: 允许; reacted: 反应
 
-**[11218.94s] English:** für diese Leute aufbringen,  
+**[11218.94s] English:** For these people,  
 **Translation:** 
 
-**[11221.32s] English:** weil ich es auf eine gewisse Weise verstehe.  
-**Translation:** Vocabulary: aufbringen: 付出; verstehe: 理解
+**[11221.32s] English:** Weil ich es auf eine gewisse Weise verstehen kann.  
+**Translation:** Vocabulary: gewisse: 一定的; verstehen: 理解
 
-**[11224.60s] English:** In gewisser Weise verstehe ich es aber nicht,  
+**[11224.60s] English:** In a certain way, I understand it, but not fully.  
 **Translation:** 
 
-**[11226.60s] English:** weil es sehr unfair ist,  
-**Translation:** Vocabulary: gewisser: 某种程度; nicht: 不
-
-**[11229.98s] English:** sich die Person herauszugreifen,  
+**[11226.60s] English:** It is very unfair,  
 **Translation:** 
 
-**[11231.32s] English:** die man gerade sieht,  
-**Translation:** Vocabulary: herauszugreifen: 伸手抓住
-
-**[11232.72s] English:** und all seine Angst und seinen Hass  
+**[11229.98s] English:** To grasp the person firmly,  
 **Translation:** 
 
-**[11234.46s] English:** an ihr abzuladen.  
-**Translation:** Vocabulary: abzuladen: 倾泻; angst: 恐惧; seine: 他的
-
-**[11236.36s] English:** Es wird ein Wandel kommen  
+**[11231.32s] English:** Die Man gerade sieht,  
 **Translation:** 
 
-**[11237.44s] English:** und der wird herausfordernd sein,  
-**Translation:** Vocabulary: herausfordernd: 具有挑战性
-
-**[11239.62s] English:** aber ich finde ihn auch unglaublich  
+**[11232.72s] English:** And all his fear and hatred.  
 **Translation:** 
 
-**[11241.28s] English:** spannend und erfüllend  
-**Translation:** Vocabulary: spannend: 引人入胜; unglaublich: 难以置信
+**[11234.46s] English:** To keep it in natural English, I would punctuate and capitalize as follows: "To unload them.  
+**Translation:** Vocabulary: unload: 倾卸
 
-**[11242.88s] English:** und  
+**[11236.36s] English:** There will be a change coming.  
 **Translation:** 
 
-**[11243.74s] English:** ich kann die neu gewonnene Zeit  
-**Translation:** Vocabulary: gewonnene: 赢得的
-
-**[11248.64s] English:** nutzen,  
+**[11237.44s] English:** And this will be challenging.  
 **Translation:** 
 
-**[11249.94s] English:** um mich  
+**[11239.62s] English:** aber ich finde ihn auch unglaublich!  
 **Translation:** 
 
-**[11251.22s] English:** auf viel mehr Details zu konzentrieren.  
+**[11241.28s] English:** Exciting and fulfilling  
+**Translation:** Vocabulary: fulfilling: 令人满意; unglaublich: 难以置信
+
+**[11242.88s] English:** Und  
 **Translation:** 
 
-**[11253.22s] English:** Ich glaube auch, dass das Anspruchsniveau  
-**Translation:** Vocabulary: anspruchsniveau: 期望水平; konzentrieren: 集中
-
-**[11255.22s] English:** steigt, weil die Basics  
+**[11243.74s] English:** I can enjoy the newly won time.  
 **Translation:** 
 
-**[11257.22s] English:** jetzt so viel einfacher geworden sind.  
-**Translation:** Vocabulary: einfacher: 更简单; geworden: 变得
-
-**[11259.22s] English:** Also  
+**[11248.64s] English:** Nutzung,  
 **Translation:** 
 
-**[11261.22s] English:** verändert sich Software  
+**[11249.94s] English:** Um, me.  
+**Translation:** Vocabulary: nutzung: 使用
+
+**[11251.22s] English:** To focus on many more details.  
 **Translation:** 
 
-**[11263.22s] English:** in vielerlei Hinsicht.  
+**[11253.22s] English:** I also believe that the claim level is  
 **Translation:** 
 
-**[11265.22s] English:** Es wird deutlich mehr geben.  
-**Translation:** Vocabulary: deutlich: 明显; hinsicht: 方面; vielerlei: 多种
-
-**[11267.22s] English:** Und dann gibt es diese Stimmen,  
+**[11255.22s] English:** Rises because the basics  
 **Translation:** 
 
-**[11269.22s] English:** die rufen,  
+**[11257.22s] English:** Now they have become much easier.  
 **Translation:** 
 
-**[11271.22s] English:** ja, aber was ist mit dem Wasser?  
+**[11259.22s] English:** Also,  
 **Translation:** 
 
-**[11273.22s] English:** Ich war auf einer Konferenz in Italien  
-**Translation:** Vocabulary: konferenz: 会议
-
-**[11275.22s] English:** zum Stand der künstlichen Intelligenz,  
+**[11261.22s] English:** Changes in software  
 **Translation:** 
 
-**[11277.22s] English:** und da habe ich gesagt,  
-**Translation:** Vocabulary: intelligenz: 人工智能
+**[11263.22s] English:** In many respects.  
+**Translation:** 
+
+**[11265.22s] English:** There will be much more.  
+**Translation:** 
+
+**[11267.22s] English:** Then there are these voices,  
+**Translation:** 
+
+**[11269.22s] English:** Die rufen,  
+**Translation:** 
+
+**[11271.22s] English:** Ja, but what about the water?  
+**Translation:** 
+
+**[11273.22s] English:** I was at a conference in Italy.  
+**Translation:** 
+
+**[11275.22s] English:** At the current state of artificial intelligence,  
+**Translation:** 
+
+**[11277.22s] English:** And then I said,  
+**Translation:** 
 
 **[11278.06s] English:** aber der  
 **Translation:** 
 
-**[11279.76s] English:** Wandel ist davon machtbar,  
-**Translation:** Vocabulary: davon: 由此; machtbar: 可行
+**[11279.76s] English:** Wandel ist davon machbar,.  
+**Translation:** Vocabulary: davon: 从那; machbar: 可行的
 
-**[11281.14s] English:** dass die Konferenzen  
+**[11280.00s] English:** My motivation was to convince people not to see themselves solely as iOS developers. You are a creator and can apply your skills in many more ways, especially since classic apps are losing significance slowly.  
 **Translation:** 
 
-**[11281.66s] English:** seit kurzer Zeit  
-**Translation:** Vocabulary: konferenzen: 会议
+**[11281.14s] English:** That the conferences  
+**Translation:** Vocabulary: conferences: 会议
 
-**[11282.36s] English:** sich ausprobieren wollen.  
+**[11281.66s] English:** Since recently,  
 **Translation:** 
 
-**[11283.06s] English:** In Italien geht es zwischen  
-**Translation:** Vocabulary: ausprobieren: 尝试
-
-**[11283.52s] English:** Sprechen,  
+**[11282.36s] English:** They want to give it a try.  
 **Translation:** 
 
-**[11283.98s] English:** Sprechen,  
-**Translation:** Vocabulary: sprechen: 说话
-
-**[11284.48s] English:** Sprechen,  
+**[11283.06s] English:** In Italy, it goes between  
 **Translation:** 
 
-**[11284.64s] English:** Sprechen,  
+**[11283.52s] English:** Sprechen.  
+**Translation:** Vocabulary: sprechen: 讲话
+
+**[11283.98s] English:** Sprechen.  
 **Translation:** 
 
-**[11285.06s] English:** Sprechen,  
+**[11284.48s] English:** Sprechen.  
 **Translation:** 
 
-**[11285.44s] English:** Sprechen,  
+**[11284.64s] English:** Sprechen.  
 **Translation:** 
 
-**[11285.58s] English:** Sprechen,  
+**[11285.06s] English:** Sprechen.  
 **Translation:** 
 
-**[11286.02s] English:** Sprechen,  
+**[11285.44s] English:** Sprechen.  
 **Translation:** 
 
-**[11286.32s] English:** Sprechen,  
+**[11285.58s] English:** Sprechen.  
 **Translation:** 
 
-**[11286.72s] English:** Sprechen,  
+**[11286.02s] English:** Sprechen.  
 **Translation:** 
 
-**[11287.22s] English:** Sprechen,  
+**[11286.32s] English:** Sprechen.  
 **Translation:** 
 
-**[11287.60s] English:** Sprechen,  
+**[11286.72s] English:** Sprechen.  
 **Translation:** 
 
-**[11288.10s] English:** Sprechen,  
+**[11287.22s] English:** Sprechen.  
 **Translation:** 
 
-**[11289.04s] English:** Sprechen und chcia Ulrich  
+**[11287.60s] English:** Sprechen.  
 **Translation:** 
 
-**[11297.94s] English:** Neues  
+**[11288.10s] English:** Sprechen.  
 **Translation:** 
 
-**[11298.92s] English:** Istf twitter  
+**[11289.04s] English:** Sprechen und wollte Ulrich.  
 **Translation:** 
 
-**[11301.44s] English:** an  
+**[11294.68s] English:** Das kam nicht gut an. Viele mochten nicht, was ich gesagt habe. Und ich habe nicht übertrieben, sondern einfach beschrieben, wie ich die Zukunft sehe. Vielleicht wird es nicht genauso kommen, aber ich bin ziemlich sicher, dass eine Version davon eintritt.  
 **Translation:** 
 
-**[11306.56s] English:** Ich denke,  
+**[11297.94s] English:** New  
 **Translation:** 
 
-**[11280.00s] English:** Meine Motivation war es, die Leute davon wegzubringen, sich nur noch als iOS-Entwickler zu sehen. Du bist ein Gestalter und kannst deine Fähigkeiten auf viel mehr Arten einsetzen, auch weil klassische Apps langsam an Bedeutung verlieren.  
+**[11298.92s] English:** Istf on Twitter  
 **Translation:** 
 
-**[11294.68s] English:** Das kam nicht gut an. Viele mochten nicht, was ich gesagt habe. Und ich habe nicht übertrieben, sondern einfach beschrieben, wie ich die Zukunft sehe. Vielleicht wird es nicht genauso kommen, aber ich bin ziemlich sicher, dass eine Version davon eintreten wird.  
-**Translation:** Vocabulary: bedeutung: 重要性; beschrieben: 描述; einsetzen: 运用; eintreten: 发生; gestalter: 创造者; klassische: 传统; verlieren: 丧失; vielleicht: 也许; wegzubringen: 说服; ziemlich: 相当
-
-**[11309.48s] English:** Die erste Frage war dann, was ist mit dem enormen Wasserverbrauch von Rechenzentren? Wenn man sich jedoch hinsetzt und nachrechnet, dann zeigt sich für die meisten Menschen, wenn du nur einen Burger im Monat weglässt,  
+**[11301.44s] English:** An  
 **Translation:** 
 
-**[11324.04s] English:** gleicht das den CO2-Ausstoß oder den Wasserverbrauch in Token-Äquivalenten aus.  
-**Translation:** Vocabulary: hinsetzt: 坐下; menschen: 人们; nachrechnet: 计算; rechenzentren: 数据中心; wasserverbrauch: 用水量
-
-**[11330.32s] English:** Die Berechnungen sind aber kompliziert und hängen davon ab, ob man das Pre-Training mit einbezieht. Dann ist es vielleicht mehr als nur ein einzelnes Patty.  
+**[11306.56s] English:** I think,  
 **Translation:** 
 
-**[11340.36s] English:** Aber es ist nicht das Hundertfache. Oder Golf zum Beispiel. Dieser Sport verbraucht insgesamt immer noch deutlich mehr Wasser als alle Rechenzentren zusammen.  
-**Translation:** Vocabulary: beispiel: 例子; berechnungen: 计算; einbezieht: 包括; einzelnes: 单独的; hundertfache: 百倍; insgesamt: 总计; kompliziert: 复杂; patty: 培根; verbraucht: 消耗; zusammen: 合计
-
-**[11351.58s] English:** Hosten wir deshalb Menschen, die Golf spielen?  
+**[11309.48s] English:** The first question was then: What about the enormous water consumption of data centers? If you sit down and do the math, it becomes clear to most people that if you just skip one burger a month,  
 **Translation:** 
 
-**[11354.92s] English:** Manche greifen nach jedem Argument gegen künstliche Intelligenz, ohne das mögliche Gute zu sehen. Und ich sage nicht, dass alles gut ist. Es wird ganz sicher eine sehr tiefgreifende, transformative Technologie für unsere Gesellschaft sein.  
-**Translation:** Vocabulary: gesellschaft: 社会; manche: 一些人; nicht: 不; technologie: 技术; tiefgreifende: 深远的
+**[11324.04s] English:** This compares the CO2 emissions or water consumption to token equivalents.  
+**Translation:** Vocabulary: token: 代币
 
-**[11372.56s] English:** Um die Kritik einmal wohlwollend zu formulieren. Aus meiner Erfahrung mit dem Silicon Valley gibt es dort eine gewisse Bubble.  
+**[11330.32s] English:** The calculations are, however, complicated and depend on whether pre-training is included. Then it might be more than just a single patty.  
 **Translation:** 
 
-**[11382.22s] English:** In dem Sinne, dass...  
-**Translation:** Vocabulary: erfahrung: 经验; formulieren: 表达; wohlwollend: 善意地
+**[11340.36s] English:** Aber es ist nicht das Hundertfache. Or, for example, golf. This sport still consumes significantly more water in total than all computer centers combined.  
+**Translation:** Vocabulary: consumes: 消耗; nicht: 不; patty: 汉堡包
 
-**[11384.04s] English:** ...eine enorme Begeisterung herrscht und der Fokus stark auf dem Positiven liegt, das Technologie bringen kann.  
+**[11351.58s] English:** Do we therefore house people who play golf?  
+**Translation:** 
+
+**[11354.92s] English:** Many grasp at any argument against artificial intelligence, without seeing the potential good. And I don't say that everything is good. It will certainly be a very profound, transformative technology for our society.  
+**Translation:** 
+
+**[11372.56s] English:** To formulate the criticism kindly, from my experience with Silicon Valley, there is a certain bubble.  
+**Translation:** 
+
+**[11382.22s] English:** In that sense, that...  
+**Translation:** 
+
+**[11384.04s] English:** ...there is enormous enthusiasm, and the focus is strongly on the positive aspects that technology can bring.  
 **Translation:** 
 
 **[11394.16s] English:** Ja.  
-**Translation:** Vocabulary: begeisterung: 热情; herrscht: 存在; positiven: 积极; stark: 强烈
-
-**[11394.76s] English:** Das ist grundsätzlich gut. Es ist gut, sich nicht von Angst oder Panik...  
 **Translation:** 
 
-**[11400.00s] English:** Panikmache lähmen zu lassen. Aber in dieser Euphorie, in diesem ständigen Austausch unter  
-**Translation:** Vocabulary: angst: 恐惧; austausch: 交流; euphorie: 狂喜; panikmache: 煽动恐慌
+**[11394.76s] English:** This is generally good. It is good not to let fear or panic...  
+**Translation:** 
+
+**[11400.00s] English:** Panikmachen lässt zu. Aber in dieser Euphorie, in diesem ständigen Austausch unter  
+**Translation:** Vocabulary: austausch: 交流; euphorie: 狂喜; panikmachen: 制造恐慌
 
 **[11405.86s] English:** Gleichgesinnten geht oft der Blick für die grundlegende menschliche Realität verloren,  
 **Translation:** 
 
-**[11410.74s] English:** in den Vereinigten Staaten, im Mittleren Westen, weltweit. Auch bei den Programmierern,  
-**Translation:** Vocabulary: blick: 视野; gleichgesinnten: 志同道合者; grundlegende: 根本的; menschliche: 人类的; mittleren: 中西部; programmierern: 程序员; vereinigten: 美国的; verloren: 丧失; weltweit: 全球
+**[11410.74s] English:** In the United States, in the Midwest, worldwide. Also among the programmers.  
+**Translation:** Vocabulary: blick: 视野; gleichgesinnten: 志同道合的人; grundlegende: 根本的; menschliche: 人类的; verloren: 丧失
 
-**[11416.14s] English:** über die wir gesprochen haben. Bei all den Menschen, die ihre Arbeit verlieren werden.  
+**[11416.14s] English:** About those we have spoken. All the people who will lose their jobs.  
 **Translation:** 
 
-**[11421.42s] English:** Bei dem messbaren Schmerz und Leid, das kurzfristig entsteht, wenn sich etwas verändert. Gerade bei  
-**Translation:** Vocabulary: entsteht: 产生; etwas: 某事; gesprochen: 说过; kurzfristig: 短期; messbaren: 可量化的; schmerz: 痛苦; verlieren: 失去
+**[11421.42s] English:** During the measurable pain and suffering that arises briefly when something changes. Just consider  
+**Translation:** Vocabulary: arises: 产生; measurable: 可衡量的
 
-**[11427.72s] English:** groß angelegten, transformativen Umbrüchen, wie sie uns bevorstehen könnten, wenn sich das  
+**[11427.72s] English:** Gross-scale, transformative transformations, which could lie ahead of us if the situation were to change,  
 **Translation:** 
 
-**[11432.70s] English:** bewahrheitet, worüber wir sprechen. Deshalb braucht es Demut und ein Bewusstsein dafür,  
-**Translation:** Vocabulary: angelegten: 精心策划的; bevorstehen: 即将到来的; bewusstsein: 意识; sprechen: 讨论; transformativen: 变革性的
+**[11432.70s] English:** Bewahrheitet, worüber wir sprechen. Deshalb braucht es Demut und ein Bewusstsein dafür,.  
+**Translation:** Vocabulary: bewahrheitet: 证实; bewusstsein: 意识; braucht: 需要; deshalb: 因此; sprechen: 谈论; transformations: 转变
 
-**[11439.06s] English:** dass die Werkzeuge, die man baut, Schmerzen verursachen werden. Langfristig können sie  
+**[11439.06s] English:** That the tools we build will cause pain. Long-term, they can  
 **Translation:** 
 
-**[11445.00s] English:** hoffentlich eine bessere Welt schaffen, mehr Chancen, mehr Möglichkeiten. Aber es braucht  
-**Translation:** Vocabulary: hoffentlich: 希望; langfristig: 长期; schaffen: 创造; schmerzen: 痛苦; verursachen: 造成; werkzeuge: 工具
+**[11445.00s] English:** Hoffentlich eine bessere Welt schaffen, mehr Chancen und mehr Möglichkeiten. Aber es braucht,...  
+**Translation:** Vocabulary: bessere: 更好的; chancen: 机会; hoffentlich: 希望; schaffen: 创造
 
-**[11451.14s] English:** auch diesen stillen Moment des Respekts gegen die Welt.  
+**[11451.14s] English:** Auch dieser stillen Moment des Respekts gegen die Welt.  
 **Translation:** 
 
-**[11457.72s] English:** Gegenüber dem Schmerz, der entstehen wird. Davon gibt es meiner Meinung nach nicht genug.  
-**Translation:** Vocabulary: davon: 此事; entstehen: 产生
+**[11457.72s] English:** Regarding the pain that will arise, I believe there isn't enough of it.  
+**Translation:** Vocabulary: respekts: 尊重
 
-**[11463.58s] English:** Und es ist gut, sich das immer wieder bewusst zu machen.  
+**[11463.58s] English:** And it is good to keep that in mind constantly.  
 **Translation:** 
 
-**[11467.48s] English:** Und ich muss dem auch etwas entgegensetzen. Nämlich einige der E-Mails, die ich bekommen  
-**Translation:** Vocabulary: bekommen: 收到; entgegensetzen: 抵制; machen: 做
-
-**[11472.24s] English:** habe. Menschen mit kleinen Unternehmen haben mir geschrieben, dass sie lange gekämpft haben.  
+**[11467.48s] English:** And I must also oppose that. Namely, some of the emails I have received.  
 **Translation:** 
 
-**[11477.72s] English:** Und OpenClaw ihnen geholfen hat, mühsame Aufgaben zu automatisieren. Vom Sammeln von Rechnungen bis  
-**Translation:** Vocabulary: aufgaben: 任务; automatisieren: 自动化; geholfen: 帮助; geschrieben: 书写; lange: 长久; menschen: 人们; rechnungen: 账单; unternehmen: 企业
-
-**[11484.68s] English:** zum Beantworten von Kundenmails. Das hat ihnen zeitgleich geholfen.  
+**[11472.24s] English:** Have. People with small businesses have written to me that they have fought hard for a long time.  
 **Translation:** 
 
-**[11487.72s] English:** Das hat ihnen Zeit verschafft und ein Stück Lebensfreude zurückgegeben. Oder Nachrichten  
-**Translation:** Vocabulary: beantworten: 回复; kundenmails: 客户邮件; lebensfreude: 生活乐趣; nachrichten: 消息; verschafft: 提供; zeitgleich: 同时
+**[11477.72s] English:** Here is the transcript segment with added natural English punctuation and capitalization: Keep in mind that OpenClaw has helped them automate tedious tasks, from collecting invoices to  
+**Translation:** Vocabulary: automate: 自动化; capitalization: 大写; invoices: 发票; segment: 片段; tedious: 繁琐; transcript: 录音文本
 
-**[11493.36s] English:** von Eltern, die mir erzählt haben, dass OpenClaw ihrer behinderten Tochter geholfen hat, selbstständiger  
+**[11484.68s] English:** To answer customer emails. This has helped them simultaneously.  
 **Translation:** 
 
-**[11501.34s] English:** zu werden. Sie fühlt sich jetzt befähigt und hat das Gefühl, viel mehr tun zu können  
-**Translation:** Vocabulary: behinderten: 残疾的
+**[11487.72s] English:** Das hat ihnen Zeit verschafft und ein Stück Lebensfreude zurückgegeben. Oder Nachrichten.  
+**Translation:** Vocabulary: lebensfreude: 生活乐趣; nachrichten: 消息; verschafft: 提供
 
-**[11505.40s] English:** als zuvor. Das ist doch beeindruckend. Die Technologie gab es vorher schon. Ich habe  
+**[11493.36s] English:** From parents who have told me that OpenClaw has helped their disabled daughter become more independent,  
 **Translation:** 
 
-**[11510.10s] English:** nichts völlig Neues erfunden. Aber ich habe es einfacher und zugänglicher gemacht. Dadurch  
-**Translation:** Vocabulary: beeindruckend: 令人印象深刻; einfacher: 更简单; erfunden: 发明; technologie: 技术
-
-**[11515.76s] English:** haben Menschen Möglichkeiten erkannt.  
+**[11501.34s] English:** To become. She feels now empowered and has the sense that she can do much more.  
 **Translation:** 
 
-**[11517.72s] English:** Die sie vorher nicht gesehen haben.  
-**Translation:** Vocabulary: nicht: 未曾
-
-**[11520.00s] English:** Und setzen sie nun sinnvoll ein.  
+**[11505.40s] English:** As before. That is indeed impressive. The technology existed beforehand, but...  
 **Translation:** 
 
-**[11522.98s] English:** Und ja, ich habe oft die neuesten und leistungsfähigsten Modelle empfohlen.  
-**Translation:** Vocabulary: empfohlen: 推荐; neuesten: 最新的; sinnvoll: 有意义地
+**[11510.10s] English:** Nothing completely new was invented, but I have made it simpler and more accessible. Therefore,  
+**Translation:** Vocabulary: beforehand: 事先
+
+**[11515.76s] English:** People have recognized opportunities.  
+**Translation:** 
+
+**[11517.72s] English:** They have not seen it before.  
+**Translation:** 
+
+**[11520.00s] English:** Set them to be used sensibly now.  
+**Translation:** 
+
+**[11522.98s] English:** Yes, I have often recommended the newest and most powerful models.  
+**Translation:** Vocabulary: sensibly: 合理地
 
 **[11528.60s] English:** Aber man kann das genauso gut mit kostenlosen Modellen betreiben.  
 **Translation:** 
 
-**[11532.90s] English:** Man kann es lokal ausführen.  
-**Translation:** Vocabulary: betreiben: 经营; kostenlosen: 免费; modellen: 模型
+**[11532.90s] English:** One can run it locally.  
+**Translation:** Vocabulary: betreiben: 经营; genauso: 一样; kostenlosen: 免费的; modellen: 模型
 
-**[11535.04s] English:** Man kann es mit günstigeren, besser zugänglichen Modellen nutzen.  
+**[11535.04s] English:** One can use it with cheaper, more easily accessible models.  
 **Translation:** 
 
-**[11540.12s] English:** Und trotzdem ein sehr leistungsfähiges System aufbauen,  
-**Translation:** Vocabulary: aufbauen: 建立; trotzdem: 尽管
-
-**[11546.58s] English:** das sonst vielleicht gar nicht möglich wäre,  
+**[11540.12s] English:** Despite that, building a very capable system,  
 **Translation:** 
 
-**[11548.86s] English:** weil andere Lösungen stärker abgeschottet sind.  
+**[11546.58s] English:** Das sonst vielleicht gar nicht möglich wäre,  
+**Translation:** 
+
+**[11548.86s] English:** Weil andere Lösungen stärker abgeschottet sind.  
 **Translation:** Vocabulary: abgeschottet: 隔绝; vielleicht: 可能
 
-**[11554.88s] English:** Es ist also nicht alles schwarz oder weiß.  
+**[11554.88s] English:** It is not all black or white.  
 **Translation:** 
 
-**[11558.78s] English:** Ich habe viele E-Mails bekommen, die wirklich berührend waren.  
-**Translation:** Vocabulary: schwarz: 黑色; wirklich: 真正地
-
-**[11563.44s] English:** Und das hat mich einfach sehr glücklich gemacht.  
+**[11558.78s] English:** I have received many emails that were really touching.  
 **Translation:** 
 
-**[11568.08s] English:** Ja, es hat wirklich vielen Menschen Freude gebracht.  
-**Translation:** Vocabulary: gebracht: 带来
-
-**[11571.24s] English:** Nicht nur Programmierern, sondern ganz unterschiedlichen Leuten.  
+**[11563.44s] English:** And that has simply made me very happy.  
 **Translation:** 
 
-**[11574.88s] English:** Das zu sehen, ist einfach schön.  
-**Translation:** Vocabulary: programmierern: 程序员; unterschiedlichen: 不同
-
-**[11577.08s] English:** Was gibt dir Hoffnung?  
+**[11568.08s] English:** Yes, it has really brought joy to many people.  
 **Translation:** 
 
-**[11578.46s] English:** Bei all dem, was gerade mit unserer Zivilisation geschieht.  
+**[11571.24s] English:** Not just programmers, but a wide range of people.  
 **Translation:** 
 
-**[11584.64s] English:** Ich meine, ich habe unglaublich viele Menschen inspiriert.  
+**[11574.88s] English:** What you see is simply beautiful.  
+**Translation:** Vocabulary: programmers: 程序员
+
+**[11577.08s] English:** What gives you hope?  
 **Translation:** 
 
-**[11588.08s] English:** Es gibt wieder so eine richtige Entwicklerstimmung.  
-**Translation:** Vocabulary: entwicklerstimmung: 开发氛围; inspiriert: 启发; richtige: 正确的; unglaublich: 不可思议
-
-**[11590.78s] English:** Die Leute nutzen künstliche Intelligenz spielerischer  
+**[11578.46s] English:** In all of what is currently happening with our civilization.  
 **Translation:** 
 
-**[11596.94s] English:** und entdecken, was sie alles kann  
-**Translation:** Vocabulary: entdecken: 发现; intelligenz: 智能; spielerischer: 有趣
-
-**[11601.88s] English:** und wie sie ihnen im Alltag helfen kann.  
+**[11584.64s] English:** I mean, I have inspired an incredible number of people.  
 **Translation:** 
 
-**[11605.18s] English:** Und dadurch entstehen Neuigkeiten.  
-**Translation:** Vocabulary: entstehen: 产生; neuigkeiten: 新闻
-
-**[11608.46s] English:** Es gibt neue Räume, die vor Kreativität nur so sprühen.  
+**[11588.08s] English:** There is again a real developer spirit.  
 **Translation:** 
 
-**[11614.34s] English:** Keine Ahnung, z.B. Clarkon in Wien mit rund 500 Leuten.  
+**[11590.78s] English:** People use artificial intelligence playfully.  
 **Translation:** 
 
-**[11619.54s] English:** Und der Anteil der Menschen, die dort präsentieren wollen,  
+**[11596.94s] English:** Und entdecken, was sie alles kann!  
+**Translation:** Vocabulary: entdecken: 发现
+
+**[11601.88s] English:** And how she can help them in everyday life.  
 **Translation:** 
 
-**[11623.14s] English:** ist erstaunlich hoch.  
-**Translation:** Vocabulary: erstaunlich: 令人惊讶; menschen: 人们
+**[11605.18s] English:** Therefore, new information arises.  
+**Translation:** Vocabulary: arises: 产生
 
-**[11625.14s] English:** Also normalerweise ist es eher schwierig,  
+**[11608.46s] English:** There are new spaces that exude creativity just waiting to be explored.  
 **Translation:** 
 
-**[11627.14s] English:** Leute zu finden, die öffentlich zeigen wollen, was sie gebaut haben.  
-**Translation:** Vocabulary: normalerweise: 通常; schwierig: 困难
+**[11614.34s] English:** Keine Ahnung, z.B., Clarkon in Wien mit rund 500 Leuten.  
+**Translation:** Vocabulary: clarkon: 克拉kon; exude: 散发
 
-**[11631.14s] English:** Jetzt gibt es eher ein Überangebot.  
+**[11619.54s] English:** And the proportion of people who want to present there,  
 **Translation:** 
 
-**[11633.14s] English:** Das gibt mir Hoffnung, dass wir das schon irgendwie hinbekommen.  
-**Translation:** Vocabulary: hinbekommen: 办成; hoffnung: 希望; irgendwie: somehow
-
-**[11636.64s] English:** Das gibt mir Hoffnung, dass wir das schon irgendwie hinbekommen.  
+**[11623.14s] English:** It is surprisingly high.  
 **Translation:** 
 
-**[11637.64s] English:** Das gibt mir Hoffnung, dass wir das schon irgendwie hinbekommen.  
+**[11625.14s] English:** Also, it is normally rather difficult,  
 **Translation:** 
 
-**[11638.24s] English:** Das gibt mir Hoffnung, dass wir das schon irgendwie hinbekommen.  
+**[11627.14s] English:** To find people who want to publicly showcase what they have built.  
+**Translation:** Vocabulary: showcase: 展览
+
+**[11631.14s] English:** Now there is rather an oversupply.  
 **Translation:** 
 
-**[11640.00s] English:** Und es macht das im Grunde für alle zugänglich.  
+**[11633.14s] English:** This gives me hope that we will manage to pull it off somehow.  
+**Translation:** Vocabulary: oversupply: 供应过剩
+
+**[11636.64s] English:** This gives me hope that we will manage to pull it off somehow.  
 **Translation:** 
 
-**[11644.82s] English:** Stell dir all diese Menschen vor, die anfangen zu bauen.  
+**[11637.64s] English:** This gives me hope that we will manage to pull it off somehow.  
+**Translation:** 
+
+**[11638.24s] English:** This gives me hope that we will manage to pull it off somehow.  
+**Translation:** 
+
+**[11640.00s] English:** And it makes it basically accessible for everyone.  
+**Translation:** 
+
+**[11644.82s] English:** Imagine all these people starting to build.  
 **Translation:** 
 
 **[11649.04s] English:** Vor allem, je einfacher und sicherer es wird.  
-**Translation:** Vocabulary: anfangen: 开始; einfacher: 更简单; sicherer: 更安全; stell: 想象
+**Translation:** Vocabulary: einfacher: 更简单; sicherer: 更安全
 
-**[11654.02s] English:** Jeder, der Ideen hat und sie in Sprache ausdrücken kann, ist plötzlich in der Lage zu entwickeln.  
+**[11654.02s] English:** Anyone who has ideas and can express them in language is suddenly able to develop.  
 **Translation:** 
 
 **[11660.98s] English:** Das ist verrückt.  
-**Translation:** Vocabulary: entwickeln: 发展
-
-**[11661.96s] English:** Ja, das ist letztlich Macht für die Menschen und eine der schönen Seiten, die aus KI entstehen.  
 **Translation:** 
 
-**[11671.08s] English:** Nicht nur ein beliebiger Massenproduzent von belanglosem Inhalt.  
-**Translation:** Vocabulary: belanglosem: 无关紧要的; beliebiger: 任意的; letztlich: 最终; massenproduzent: 生产商; nicht: 不
-
-**[11676.18s] English:** Nun, Mr. Clawfather, wobei mir gerade auffällt, dass ich damit vermutlich gleich zwei Markenrechte verletzt habe, wegen Godfather, der Pate.  
+**[11661.96s] English:** Ja, this is ultimately power for people and one of the beautiful sides that arise from AI.  
 **Translation:** 
 
-**[11685.04s] English:** Am Ende verklagt mich noch jeder.  
-**Translation:** Vocabulary: clawfather: 爪爸; gleich: 正好; godfather: 教父; markenrechte: 商标权; verklagt: 起诉; verletzt: 侵犯; vermutlich: 可能
+**[11671.08s] English:** Not just a随便替换为一个常见的英文表达,比如any mindless producer of.  
+**Translation:** Vocabulary: mindless: 无脑的
 
-**[11687.12s] English:** Du bist ein wunderbarer Mensch.  
+**[11676.18s] English:** Now, Mr. Clawfather, I must point out that I might be infringing on two brand names at once, given Godfather and The Pate.  
 **Translation:** 
 
-**[11689.46s] English:** Du hast etwas wirklich Besonderes geschaffen.  
-**Translation:** Vocabulary: besonderes: 特别; etwas: 一些; geschaffen: 创造; mensch: 人; wirklich: 真正; wunderbarer: 精彩的
+**[11685.04s] English:** At the end, even everyone complains about me.  
+**Translation:** Vocabulary: clawfather: 爪爸; godfather: 教父; infringing: 侵权
 
-**[11691.08s] English:** Eine besondere Community, ein besonderes Produkt, eine besondere Ideenwelt.  
+**[11687.12s] English:** You are a wonderful person.  
 **Translation:** 
 
-**[11696.70s] English:** Dazu kommen dein Humor, die gute Energie, die Inspiration für all die Menschen, die erschaffen und diese Begeisterung überhaupt zu erbauen.  
-**Translation:** Vocabulary: begeisterung: 激情; besondere: 特别; erschaffen: 创造; ideenwelt: 思想世界
+**[11689.46s] English:** You have created something really special.  
+**Translation:** 
 
-**[11706.40s] English:** Ich bin dir wirklich dankbar für alles, was du tust, für die Person, die du bist und dass du dir heute die Zeit für dieses Gespräch genommen hast.  
+**[11691.08s] English:** A special community, a special product, a world of special ideas.  
+**Translation:** 
+
+**[11696.70s] English:** To this, add your humor, the good energy, the inspiration for all the people who create and bring this enthusiasm to life.  
+**Translation:** 
+
+**[11706.40s] English:** I am truly grateful for everything you do, for the person you are, and that you took the time out of your day for this conversation.  
 **Translation:** 
 
 **[11713.66s] English:** Danke dir, Bruder.  
-**Translation:** Vocabulary: danke: 感谢; genommen: 抽出
+**Translation:** Vocabulary: danke: 感谢
 
-**[11714.68s] English:** Danke für die Möglichkeit, meine Geschichte zu teilen.  
+**[11714.68s] English:** Thank you for the opportunity to share my story.  
 **Translation:** 
 
-**[11717.70s] English:** Danke, dass du diesem Gespräch mit Peter Steinberger zugehört hast.  
-**Translation:** Vocabulary: geschichte: 故事
-
-**[11721.32s] English:** Wenn du diesen Podcast unterstützen möchtest, schau dir gern unsere Sponsoren in der Beschreibung an.  
+**[11717.70s] English:** Thank you for listening to this conversation with Peter Steinberger.  
 **Translation:** 
 
-**[11726.36s] English:** Dort findest du auch Links, um mich zu kontaktieren, Fragen zu stellen oder Feedback zu geben.  
-**Translation:** Vocabulary: beschreibung: 描述信息; kontaktieren: 联系我; sponsoren: 赞助商
-
-**[11731.52s] English:** Und zum Abschluss noch ein paar Worte von Voltaire.  
+**[11721.32s] English:** If you would like to support this podcast, feel free to check out our sponsors in the description.  
 **Translation:** 
 
-**[11735.04s] English:** Mit großer Macht kommt große Verantwortung.  
-**Translation:** Vocabulary: abschluss: 结论; verantwortung: 责任
+**[11726.36s] English:** Here is the improved sentence with natural English punctuation and capitalization: "In dort, you will also find links to contact me, ask questions, or give feedback.  
+**Translation:** Vocabulary: capitalization: 大写; sponsors: 赞助商
 
-**[11737.62s] English:** Danke fürs Zuhören und ich hoffe, wir hören uns beim nächsten Mal wieder.  
+**[11731.52s] English:** At the conclusion, a few words from Voltaire.  
 **Translation:** 
 
-**[11751.08s] English:** Vielen Dank.  
+**[11735.04s] English:** With great power comes great responsibility.  
+**Translation:** Vocabulary: voltaire: 伏尔泰
+
+**[11737.62s] English:** Thank you for listening, and I hope we talk again next time.  
+**Translation:** 
+
+**[11751.08s] English:** Thank you very much.  
 **Translation:** 
 
 

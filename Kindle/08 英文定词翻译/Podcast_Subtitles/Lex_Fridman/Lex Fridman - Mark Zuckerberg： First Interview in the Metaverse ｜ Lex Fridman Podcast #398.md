@@ -1,41 +1,42 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse ｜ Lex Fridman Podcast #398.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The following is a conversation with Mark Zuckerberg, inside the metaverse.  
+**[0.00s] English:** The following is a conversation with Mark Zuckerberg, inside the Metaverse.  
 **Translation:** 
 
 **[5.78s] English:** Mark and I are hundreds of miles apart from each other in physical space, but it feels  
-**Translation:** Vocabulary: metaverse: 虚拟世界
+**Translation:** Vocabulary: metaverse: 虚拟宇宙
 
-**[10.88s] English:** like we're in the same room, because we appear to each other as photorealistic codec avatars  
+**[10.88s] English:** Like we're in the same room, because we appear to each other as photorealistic codec avatars.  
 **Translation:** 
 
-**[16.08s] English:** in 3D with spatial audio.  
+**[16.08s] English:** In 3D with spatial audio.  
 **Translation:** Vocabulary: avatars: 虚拟化身; photorealistic: 照片般逼真; spatial: 三维空间的
 
-**[19.44s] English:** This technology is incredible, and I think it's the future of how human beings connect  
+**[19.44s] English:** This technology is incredible, and I think it's the future of how human beings connect.  
 **Translation:** 
 
-**[24.40s] English:** to each other in a deeply meaningful way on the internet.  
+**[24.40s] English:** To each other in a deeply meaningful way on the Internet.  
 **Translation:** 
 
-**[27.30s] English:** These avatars can capture many of the nuances of facial expressions that we humans use to  
+**[27.30s] English:** These avatars can capture many of the nuances of facial expressions that we humans use to.  
 **Translation:** 
 
-**[35.72s] English:** communicate emotion to each other.  
+**[35.72s] English:** Communicate emotions to each other.  
 **Translation:** Vocabulary: facial: 面部; nuances: 细微表情
 
 **[38.26s] English:** Now, I just need to work on upgrading my emotion-expressing capabilities of the underlying human.  
 **Translation:** 
 
-**[46.12s] English:** This is the Lex Friedman Podcast, and now, dear friends, here's Mark Zuckerberg.  
-**Translation:** Vocabulary: friedman: 弗里德曼; upgrading: 升级; zuckerberg: 扎克伯格
-
-**[57.30s] English:** This is the Lex Friedman Podcast, and now, dear friends, here's Mark Zuckerberg.  
+**[46.12s] English:** This is the Lex Friedman Podcast, and now, dear friends: here's Mark Zuckerberg.  
 **Translation:** 
 
-**[87.30s] English:** I don't know if people can see this, but this is incredible.  
+**[57.30s] English:** This is the Lex Friedman Podcast, and now, dear friends: here's Mark Zuckerberg.  
 **Translation:** 
+
+**[87.30s] English:** I don't know if people can see this, but this is incredible!  
+**Translation:** Vocabulary: friedman: 弗里德曼; zuckerberg: 扎克伯格
 
 **[92.64s] English:** The realism here is just incredible.  
 **Translation:** 
@@ -55,7 +56,7 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[101.12s] English:** No, I mean this place.  
 **Translation:** 
 
-**[103.26s] English:** We're shrouded by darkness with ultra-realistic face, and it just feels like we're in the same room.  
+**[103.26s] English:** We're shrouded by darkness, with an ultra-realistic face, and it just feels like we're in the same room.  
 **Translation:** 
 
 **[111.44s] English:** This is really the most incredible thing I've ever seen, and sorry to be in your personal space.  
@@ -64,154 +65,154 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[116.00s] English:** I'm in.  
 **Translation:** 
 
-**[117.30s] English:** I've done jiu-jitsu before.  
-**Translation:** 
+**[117.30s] English:** I've done jiujitsu before.  
+**Translation:** Vocabulary: jiujitsu: 柔道
 
 **[118.38s] English:** Yeah, no, I was commenting to the team.  
 **Translation:** 
 
-**[120.00s] English:** before that even that i feel like we've choked each other from further distances than it feels  
-**Translation:** Vocabulary: commenting: 发表评论
+**[120.00s] English:** Before that, I feel like we've choked each other into farther distances than it feels.  
+**Translation:** Vocabulary: choked: 窒息; commenting: 评论
 
-**[126.70s] English:** like we are right now i mean this is just really incredible i don't know how to describe it with  
+**[126.70s] English:** Like we are right now, I mean, this is just really incredible. I don't know how to describe it.  
 **Translation:** 
 
-**[131.60s] English:** words it really feels like it feels like we're in the same room yeah feels like the future  
+**[131.60s] English:** Words, it really feels like it feels like we're in the same room, yeah, feels like the future.  
 **Translation:** 
 
-**[138.72s] English:** this is truly truly incredible i just wanted to take it in i'm still getting used to it's like  
+**[138.72s] English:** This is truly incredible. I just wanted to take it all in; I'm still getting used to it. It's like,  
 **Translation:** 
 
-**[144.54s] English:** it's you it's really you but you're not here with me right you're there wearing a headset  
-**Translation:** Vocabulary: headset: 耳机
-
-**[152.58s] English:** and i'm wearing a headset it's it's really really incredible so what um can you describe what it  
+**[144.54s] English:** It's you! It's really you, but you're not here with me, right? You're there wearing a headset.  
 **Translation:** 
 
-**[158.36s] English:** takes currently for us to appear so photorealistic to each other yeah so i mean for for background  
-**Translation:** Vocabulary: photorealistic: 照片般逼真
-
-**[165.72s] English:** we both did these scans for uh this research project that that we have at meta called codec  
+**[152.58s] English:** And I'm wearing a headset; it's really, really incredible. So, what, um, can you describe what it's like?  
 **Translation:** 
 
-**[173.26s] English:** avatars  
-**Translation:** Vocabulary: avatars: 虚拟化身
+**[158.36s] English:** It takes currently for us to appear so photorealistic to each other, yeah, so I mean, for the background.  
+**Translation:** Vocabulary: headset: 耳机; photorealistic: 照片般逼真
 
-**[174.54s] English:** and the idea is that instead of actually instead of our avatars being cartoony um and instead of  
+**[165.72s] English:** We both did these scans for this research project that we have at Meta called Codec.  
 **Translation:** 
 
-**[181.32s] English:** actually transmitting a video what it does is we've sort of scanned ourselves and a lot of  
-**Translation:** Vocabulary: cartoony: 卡通的; transmitting: 传输
+**[173.26s] English:** Avatars  
+**Translation:** Vocabulary: avatars: 虚拟角色
 
-**[187.58s] English:** different expressions and we've built a computer model of sort of each of our faces and and bodies  
+**[174.54s] English:** And the idea is that instead of our avatars being cartoony, and instead of  
 **Translation:** 
 
-**[196.04s] English:** and the different expressions that we make and collapse that into a codec that then when you  
+**[181.32s] English:** Actually, transmitting a video does what it says: we've sort of scanned ourselves, and a lot of...  
 **Translation:** 
 
-**[202.70s] English:** have the headset on your head  
+**[187.58s] English:** Different expressions, and we've built a computer model of sorts for each of our faces and bodies.  
 **Translation:** 
 
-**[203.92s] English:** you're you're you're you're you're you're you're you're you're you're you're you're you're you're  
+**[196.04s] English:** And the different expressions that we make, and collapse that into a codec. That then when you  
+**Translation:** Vocabulary: collapse: 压缩
+
+**[202.70s] English:** Have the headset on your head.  
 **Translation:** 
 
-**[204.52s] English:** it can it sees your face it sees your expression and it can basically send um an encoded version of  
+**[203.92s] English:** You're, you're, you're, you're, you're, you're, you're, you're.  
 **Translation:** 
 
-**[212.66s] English:** what you're supposed to look like over the wire so um so in addition to being photorealistic  
-**Translation:** Vocabulary: encoded: 编码后的
-
-**[216.86s] English:** it's also actually much more bandwidth efficient than transmitting a a full video or especially a  
+**[204.52s] English:** It can see your face, it sees your expression, and it can basically send an encoded version of...  
 **Translation:** 
 
-**[224.34s] English:** 3d immersive video of a whole scene like this and it captures everything like the flaws like to me  
-**Translation:** Vocabulary: bandwidth: 带宽; immersive: 沉浸式
+**[212.66s] English:** What you're supposed to look like over the wire, so, um, in addition to being photorealistic.  
+**Translation:** Vocabulary: encoded: 编码过的
 
-**[232.50s] English:** the subtleties of the human face like you've  
+**[216.86s] English:** It's also actually much more bandwidth-efficient than transmitting a full video, or especially a high-definition one.  
 **Translation:** 
 
-**[234.52s] English:** even the flaws that's like that's all amazing it makes you uh it makes it so much more  
+**[224.34s] English:** A 3D immersive video of a whole scene like this, and it captures everything, like the flaws, to me.  
+**Translation:** Vocabulary: immersive: 身临其境; transmitting: 传输
+
+**[232.50s] English:** The subtleties of the human face, like you've  
+**Translation:** 
+
+**[234.52s] English:** Even the flaws make it amazing; they make it so much more.  
 **Translation:** Vocabulary: subtleties: 细微之处
 
-**[240.00s] English:** immersive it makes you realize that like perfection isn't the thing that leads to  
+**[240.00s] English:** Immersive, it makes you realize that like perfection isn't the thing that leads to.  
 **Translation:** 
 
-**[244.54s] English:** immersion it's like the little subtle flaws like freckles and like variations in color and  
-**Translation:** Vocabulary: freckles: 雀斑; immersion: 沉浸感
+**[244.54s] English:** Immersion is like the little subtle flaws, like freckles, and like variations in color and  
+**Translation:** Vocabulary: freckles: 雀斑; immersion: 沉浸; subtle: 细微; variations: 变化
 
-**[250.18s] English:** just yeah wrinkles all stuff about noses yeah asymmetry and just the different like the corners  
+**[250.18s] English:** Just, yeah, wrinkles, all stuff about noses—yeah, asymmetry, and just the different like the corners.  
 **Translation:** 
 
-**[257.00s] English:** of the eyes like what your eyes do when you smile all that kind of stuff yeah eyes are a huge part  
+**[257.00s] English:** Of the eyes, like what your eyes do when you smile — all that kind of stuff. Yeah, eyes are a huge part.  
 **Translation:** Vocabulary: asymmetry: 不对称; wrinkles: 皱纹
 
-**[261.92s] English:** of it yeah i mean there's all the studies that most of communication even when people are speaking  
+**[261.92s] English:** Of it, yeah. I mean, there's all the studies that show even when people are speaking,  
 **Translation:** 
 
-**[268.00s] English:** is not actually the words that they're saying right it's kind of the expression and all that  
+**[268.00s] English:** Is not actually the words that they're saying, right? It's kind of the expression and all that.  
 **Translation:** 
 
-**[272.40s] English:** so and we try to capture that with the kind of classical um expressive avatar system that we  
+**[272.40s] English:** So, and we try to capture that with the kind of classical, expressive avatar system that we.  
 **Translation:** 
 
-**[279.10s] English:** have that's the kind of more cartoon designed one you can you can kind of put those kind of  
-**Translation:** Vocabulary: avatar: 化身; expressive: 表情丰富
+**[279.10s] English:** That's the kind of more cartoon-designed one you can kind of put together.  
+**Translation:** Vocabulary: avatar: 化身; expressive: 富有表现力的
 
-**[283.20s] English:** expressions on those faces as well but there's obviously a certain realism that comes with  
+**[283.20s] English:** Expressions on those faces, as well, but there's obviously a certain realism that comes with.  
 **Translation:** 
 
-**[287.56s] English:** delivering kind of this photorealistic experience that um i don't know i just think it's really  
+**[287.56s] English:** Delivering a kind of photorealistic experience, um, I don't know; I just think it's really  
+**Translation:** Vocabulary: photorealistic: 照片般的逼真
+
+**[292.40s] English:** Magical—I mean, this gets to kind of the core of what the vision around virtual and augmented is all about.  
 **Translation:** 
 
-**[292.40s] English:** magical i mean this gets to kind of the core of what the vision around virtual and augmented  
+**[298.00s] English:** Reality is all about delivering a sense of presence, as if you're there together, no matter where you are.  
+**Translation:** Vocabulary: augmented: 增强现实
+
+**[302.38s] English:** Actually, what we're experiencing in the world and I mean, this is a good embodiment of that.  
 **Translation:** 
 
-**[298.00s] English:** reality is of like delivering a sense of presence as if you're there together no matter where you  
-**Translation:** Vocabulary: augmented: 增强的
-
-**[302.38s] English:** actually are in the world and i mean this this uh experience i think is a good embodiment of that  
-**Translation:** 
-
-**[307.62s] English:** where it's like i mean we're in two completely different states halfway across the country  
+**[307.62s] English:** Where it's like, I mean, we're in two completely different states, halfway across the country.  
 **Translation:** Vocabulary: embodiment: 体现; halfway: 中途
 
-**[311.20s] English:** and it just like you know looks like you're just sitting right in front of me it's uh it's pretty  
+**[311.20s] English:** And it just looks like you're just sitting right in front of me; it's uh, pretty.  
 **Translation:** 
 
-**[315.60s] English:** wild yeah yeah i can't it's i'm almost getting emotional it's like it feels like a totally  
+**[315.60s] English:** Wild, yeah, yeah, I can't. It's, I'm almost getting emotional. It feels like it's totally...  
 **Translation:** 
 
-**[321.56s] English:** it's fundamentally a new experience like for me to have this kind of conversation with loved ones  
+**[321.56s] English:** It's fundamentally a new experience, like having this kind of conversation with loved ones.  
 **Translation:** 
 
-**[328.00s] English:** it would just change everything maybe just to elaborate so the i went to pittsburgh and went  
-**Translation:** Vocabulary: elaborate: 详细说明; fundamentally: 从根本上
+**[328.00s] English:** It would just change everything. Maybe, just to elaborate: so I went to Pittsburgh and went.  
+**Translation:** Vocabulary: elaborate: 详述; fundamentally: 本质上
 
-**[334.32s] English:** through the whole scanning procedure which has so much incredible uh technology so software and  
+**[334.32s] English:** Through the entire scanning procedure, which has so much incredible technology—software and  
 **Translation:** 
 
-**[340.00s] English:** hardware going on but it is a lengthy process so what's your vision for the future of this  
-**Translation:** Vocabulary: scanning: 扫描
+**[340.00s] English:** Hardware installation is ongoing, but it is a lengthy process. So, what's your vision for the future of this?  
+**Translation:** Vocabulary: lengthy: 冗长的; scanning: 扫描
 
-**[347.44s] English:** in terms of making this more accessible to people you know it starts off  
+**[347.44s] English:** In terms of making this more accessible to people, you know, it starts off  
 **Translation:** 
 
-**[351.92s] English:** with a small number of people doing these um very detailed scans right which is this  
+**[351.92s] English:** With a small number of people doing these very detailed scans, which is this.  
 **Translation:** 
 
-**[358.00s] English:** that's the version that you did and that i did  
+**[358.00s] English:** That's the version that you did, and that I did.  
 **Translation:** 
 
-**[360.00s] English:** And, you know, before there are a lot of people who we've done this kind of a scan for, we probably need to kind of over collect expressions when we're doing the scanning because we haven't figured out how much we can reduce that down to a really streamlined process and extrapolate from the scans that have already been done.  
+**[360.00s] English:** And, you know, before there are a lot of people who we've done this kind of scan for, we probably need to kind of over-collect expressions when we're doing the scanning because we haven't figured out how much we can reduce that down to a really streamlined process and extrapolate from the scans that have already been done.  
 **Translation:** Vocabulary: extrapolate: 推断; streamlined: 简化
 
-**[381.44s] English:** But, you know, the goal, and we have a project that's working on this already, is just to do a very quick scan with your cell phone where you just take your phone, kind of wave it in front of your face for a couple of minutes, you know, say a few sentences, make a bunch of expressions, but overall have the whole process just be two to three minutes and then produce something that's of the quality of what we have right now.  
+**[381.44s] English:** But, you know, the goal, and we have a project that's working on this already, is just to do a very quick scan with your cell phone, where you just take your phone, kind of wave it in front of your face for a couple of minutes. You know, say a few sentences, make a bunch of expressions, but overall, have the whole process just be two to three minutes and then produce something that's of the quality of what we have right now.  
 **Translation:** 
 
-**[404.68s] English:** So I think that that's one of the big challenges that remains.  
+**[404.68s] English:** So, I think that's one of the big challenges that remains.  
 **Translation:** 
 
-**[408.24s] English:** And right now we have the ability to do the scans if you have.  
+**[408.24s] English:** And right now, we have the ability to do the scans if you have.  
 **Translation:** 
 
 **[411.44s] English:** Hours to sit for one.  
@@ -221,24 +222,24 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **Translation:** 
 
 **[418.42s] English:** It's a product that's kind of for sale now.  
+**Translation:** Vocabulary: headset: 耳机
+
+**[421.02s] English:** You can drive them with that.  
 **Translation:** 
 
-**[421.02s] English:** You can drive these with that.  
+**[423.26s] English:** But the production of these scans in a very efficient way is one of the last pieces that we still need to really nail.  
 **Translation:** 
 
-**[423.26s] English:** But the production of of these scans in a very efficient way is one of the last pieces that we still need to really nail.  
+**[433.14s] English:** And then, obviously, there are all the experiences around it.  
 **Translation:** 
 
-**[433.14s] English:** And then obviously there's all the experiences around it.  
-**Translation:** 
-
-**[435.30s] English:** I mean, right now we're kind of sitting in a dark room, which is familiar for your podcast.  
+**[435.30s] English:** I mean, right now, we're kind of sitting in a dark room, which is familiar for your podcast.  
 **Translation:** 
 
 **[441.22s] English:** But.  
 **Translation:** 
 
-**[441.44s] English:** I think part of the vision for this over time is is, you know, not just having this be like a video call.  
+**[441.44s] English:** I think part of the vision for this over time is to make it more than just a video call.  
 **Translation:** 
 
 **[449.02s] English:** I mean, that's fine.  
@@ -247,13 +248,13 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[450.18s] English:** It's cool.  
 **Translation:** 
 
-**[451.06s] English:** It feels like it's immersive.  
+**[451.06s] English:** It feels very immersive.  
 **Translation:** 
 
-**[452.56s] English:** But, you know, you can you can do a video call on your phone.  
-**Translation:** Vocabulary: immersive: 身临其境
+**[452.56s] English:** But, you know, you can do a video call on your phone.  
+**Translation:** Vocabulary: immersive: 身临其境的
 
-**[455.48s] English:** The thing that you can do in the metaverse that is different from what you can do on a phone is like doing stuff where you're physically there together and participating in things together.  
+**[455.48s] English:** The thing you can do in the metaverse that is different from what you can do on a phone is like doing stuff where you're physically there together and participating in things together.  
 **Translation:** 
 
 **[464.18s] English:** And we could play games like this.  
@@ -265,595 +266,595 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[470.32s] English:** Once you mix.  
 **Translation:** 
 
-**[471.44s] English:** Once you get mixed reality and augmented reality, we could have codec avatars like this and go into a meeting and have some people physically there and have some people show up.  
+**[471.44s] English:** Once you get mixed reality and augmented reality, we could have codec avatars like this, and go into a meeting and have some people physically there and have some people show up.  
 **Translation:** 
 
 **[479.90s] English:** And.  
-**Translation:** Vocabulary: augmented: 增强; avatars: 化身
+**Translation:** Vocabulary: augmented: 增强; avatars: 虚拟角色
 
-**[480.00s] English:** this photorealistic form uh superimposed on the on the physical environment i think that stuff  
+**[480.00s] English:** This photorealistic form, uh, superimposed on the physical environment, I think that stuff.  
 **Translation:** 
 
-**[486.16s] English:** like that is going to be super powerful so we got to still build out all those kind of applications  
+**[486.16s] English:** Like that is going to be super powerful, so we've got to still build out all those kinds of applications.  
 **Translation:** Vocabulary: photorealistic: 照片级真实; superimposed: 叠加在上面
 
-**[490.32s] English:** and the use cases around it but i don't know i think it's going to be a pretty wild uh next few  
+**[490.32s] English:** And the use cases around it, but I don't know; I think it's going to be a pretty wild few years.  
 **Translation:** 
 
-**[494.88s] English:** years around this i mean i just i i'm actually almost at a loss of words this is just so  
+**[494.88s] English:** Years around this, I mean, I'm actually at a loss for words. This is just so...  
 **Translation:** 
 
-**[499.56s] English:** incredible this is truly incredible i i hope that people like watching this can get a glimpse of  
+**[499.56s] English:** Incredible! This is truly incredible. I hope that people who like watching this can get a glimpse of.  
 **Translation:** 
 
-**[505.34s] English:** like how incredible it is it really feels like we're in the same room like there is that um i  
+**[505.34s] English:** Like how incredible it is; it really feels like we're in the same room, like there is that... um,...  
 **Translation:** 
 
-**[510.34s] English:** guess there's an uncanny valley that seems to have been crossed here like it looks like you  
+**[510.34s] English:** Guess there's an uncanny valley that seems to have been crossed here; like, it looks like you.  
 **Translation:** 
 
-**[516.36s] English:** yeah i mean i think there's still a bunch of tuning that i think we'll want to do where  
-**Translation:** Vocabulary: uncanny: 怪异
+**[516.36s] English:** Yeah, I mean, I think there's still a bunch of tuning that we'll want to do where  
+**Translation:** Vocabulary: uncanny: 怪异的
 
-**[522.10s] English:** different people emote to different extents right so i think one of the big questions  
+**[522.10s] English:** Different people emote to different extents, right? So I think one of the big questions is  
 **Translation:** 
 
-**[528.04s] English:** is you know like when you smile how wide is your smile and how wide do you want your smile to be  
-**Translation:** Vocabulary: emote: 表达情绪
+**[528.04s] English:** Is, you know, like when you smile, how wide is your smile, and how wide do you want your smile to be?  
+**Translation:** Vocabulary: emote: 表达情感; extents: 程度
 
-**[534.92s] English:** um  
+**[534.92s] English:** Um.  
 **Translation:** 
 
-**[535.88s] English:** and i think getting that to be tuned on a per person basis is um is going to be one of the  
+**[535.88s] English:** And I think getting that to be tuned on a per-person basis is going to be one of the  
 **Translation:** 
 
-**[542.22s] English:** things that we that we're going to need to figure out um you know it's like to what extent do you  
+**[542.22s] English:** Things that we're going to need to figure out, um, you know, it's like to what extent do you  
 **Translation:** 
 
-**[547.02s] English:** want to give people control over that um you know some people might try to you know might might  
+**[547.02s] English:** Want to give people control over that, um, you know, some people might try to, you know, might, might.  
 **Translation:** 
 
-**[552.68s] English:** prefer a version of themselves that's more emotive in their avatar than their actual faces you know  
+**[552.68s] English:** Prefer a version of themselves that's more emotive in their avatar than their actual faces, you know.  
 **Translation:** 
 
-**[557.42s] English:** so for example you know i i always get a lot of um critique and and shit for um for for having like  
-**Translation:** Vocabulary: avatar: 化身; critique: 批评; emotive: 情感丰富
+**[557.42s] English:** So, for example, you know, I always get a lot of criticism and crap for having like  
+**Translation:** Vocabulary: avatar: 化身; emotive: 富有情感的
 
-**[563.48s] English:** a relatively stiff uh  
+**[563.48s] English:** A relatively stiff, uh  
 **Translation:** 
 
-**[565.34s] English:** expression but you know i mean i might i might feel pretty happy but just make a pretty small  
+**[565.34s] English:** Expression, but you know, I mean, I might, I might feel pretty happy, but just make a pretty small difference.  
 **Translation:** 
 
-**[570.60s] English:** smile so i mean maybe you know for me i would it's actually you know it's like i'd want to have  
+**[570.60s] English:** Smile, so I mean, maybe you know, for me, I would—it's actually, you know, like I'd want to have.  
 **Translation:** 
 
-**[575.50s] English:** my avatar really be able to better express um like how i'm feeling than than what then how i  
+**[575.50s] English:** My avatar really be able to better express, um, like how I'm feeling than what I  
 **Translation:** 
 
-**[581.52s] English:** can do physically so i think that there's a question about how you want to tune that but  
+**[581.52s] English:** Can we do it physically? So, I think there's a question about how you want to tune that, but  
 **Translation:** 
 
-**[584.48s] English:** uh but overall yeah i mean you we want to start from the baseline of capturing how people actually  
+**[584.48s] English:** Uh, but overall, yeah, I mean, you know, we want to start from the baseline of capturing how people actually  
 **Translation:** Vocabulary: baseline: 基础水平
 
-**[589.38s] English:** emote and express themselves and i mean i think the the initial version of this is has been pretty  
+**[589.38s] English:** Emote and express themselves, and I mean, I think the initial version of this has been pretty.  
 **Translation:** 
 
-**[594.18s] English:** impressive and like you said  
+**[594.18s] English:** Impressive, and as you said,  
 **Translation:** 
 
-**[595.18s] English:** um i do think we're we're kind of beyond the the uncanny valley here  
+**[595.18s] English:** Um, I do think we're kind of beyond the uncanny valley here.  
 **Translation:** 
 
-**[600.00s] English:** and it does feel like you it doesn't feel uh it doesn't feel weird or anything like that  
+**[600.00s] English:** And it does feel like you; it doesn't feel weird or anything like that.  
+**Translation:** Vocabulary: uncanny: 奇怪的
+
+**[604.16s] English:** I mean, that's going to be the meme: the two most monotone people are in a metaverse together.  
 **Translation:** 
 
-**[604.16s] English:** i mean that's going to be the meme that the two most monotone people are in a metaverse together  
+**[610.10s] English:** But I think that actually makes it more difficult. The amazing thing here is that the  
+**Translation:** Vocabulary: metaverse: 虚拟宇宙; monotone: 单调乏味
+
+**[616.78s] English:** Subtleties of the expression in the eyes, you know. People say I'm monotone and emotionless, but I'm  
 **Translation:** 
 
-**[610.10s] English:** but i think that actually makes it more difficult like the the amazing thing here is that the  
-**Translation:** Vocabulary: metaverse: 虚拟世界; monotone: 单调乏味
+**[622.36s] English:** Not, it's just that maybe my expression of emotion is more subtle, usually like with the eyes and  
+**Translation:** Vocabulary: emotionless: 无情感; subtle: 微妙; subtleties: 细微之处
 
-**[616.78s] English:** subtleties of the expression of the eyes you know people say i'm monotone and emotionless but i'm  
+**[629.50s] English:** That's one of the things I've noticed is just how expressive the subtle movement of the corners of  
 **Translation:** 
 
-**[622.36s] English:** not it's just this maybe my expression of emotion is more subtle usually like with the eyes and  
-**Translation:** Vocabulary: emotionless: 没有情感; subtleties: 细微之处
+**[634.78s] English:** The eyes are, in terms of displaying happiness or boredom or all that kind of stuff, I am curious to.  
+**Translation:** Vocabulary: boredom: 无聊; expressive: 表情丰富
 
-**[629.50s] English:** that's one of the things i've noticed is just how expressive the subtle movement of the corners of  
+**[639.82s] English:** See, just I've never done one of these before. I've never done a podcast like this.  
 **Translation:** 
 
-**[634.78s] English:** the eyes are in terms of displaying happiness or boredom or all that kind of stuff i am curious to  
-**Translation:** Vocabulary: expressive: 表情丰富
+**[644.16s] English:** Avatars, um, and I'm curious to see what people think of it because, you know, one of  
+**Translation:** Vocabulary: avatars: 虚拟角色
 
-**[639.82s] English:** see just i've never done one of these before i've never done a podcast as as one of these codec  
+**[650.50s] English:** The issues we've had in some VR and mixed reality work is that it tends to feel a lot  
 **Translation:** 
 
-**[644.16s] English:** avatars um and i'm curious to see what what how what people think of it because you know one of  
-**Translation:** Vocabulary: avatars: 化身
+**[655.92s] English:** More profound when you're in it than the 2D videos capturing.  
+**Translation:** Vocabulary: profound: 深刻的
 
-**[650.50s] English:** the issues that we've had in some of the vr and and mixed reality work is it tends to feel a lot  
+**[659.44s] English:** It and it tends to feel a lot more profound when you're in it than the 2D videos capturing it.  
 **Translation:** 
 
-**[655.92s] English:** more profound when you're in it than the 2d videos capturing  
-**Translation:** Vocabulary: profound: 深刻
-
-**[659.44s] English:** it and it tends to feel a lot more profound when you're in it than the 2d videos capturing it  
-**Translation:** 
-
-**[659.48s] English:** experience so i think that this one because it's photorealistic um may look kind of as amazing  
+**[659.48s] English:** Experience, so I think that this one, because it's photorealistic, may look kind of amazing.  
 **Translation:** Vocabulary: photorealistic: 照片般逼真
 
-**[665.08s] English:** in 2d for people watching it as it as it feels i think to be in it um but we've certainly had this  
+**[665.08s] English:** In 2D, for people watching it, as it feels, I think to be in it; but we've certainly had this.  
 **Translation:** 
 
-**[670.74s] English:** this um this issue where a lot of the other things just it's like you feel the sense of  
+**[670.74s] English:** This, um, issue where a lot of the other things just feel like you have a sense of...  
 **Translation:** 
 
-**[675.36s] English:** immersion when you're in it that that doesn't quite translate to a 2d screen but i don't know  
+**[675.36s] English:** Immersion when you're in it is that thing that doesn't quite translate to a 2D screen, but I don't know.  
 **Translation:** 
 
-**[679.32s] English:** i'm curious i'm curious to see to see what people think yeah i'm curious to see if people could see  
-**Translation:** Vocabulary: immersion: 沉浸体验
-
-**[683.22s] English:** that um like my heart is actually beating fast now this is super interesting  
-**Translation:** 
-
-**[689.48s] English:** like the that such intimacy of conversation can be achieved remotely there's been you know i don't  
-**Translation:** Vocabulary: intimacy: 亲密; remotely: 远程
-
-**[696.16s] English:** do remote podcasts for this reason and this is like breaks all of that this feels like just an  
-**Translation:** 
-
-**[702.54s] English:** incredible transition to something else to the different kind of communication breaks all barriers  
-**Translation:** Vocabulary: barriers: 障碍
-
-**[708.72s] English:** like geographic physical barriers uh what you mentioned would you have a sense of timeline  
-**Translation:** 
-
-**[714.58s] English:** in terms of how many difficult things have to be solved um make this more accessible  
-**Translation:** 
-
-**[719.42s] English:** for  
-**Translation:** 
-
-**[720.00s] English:** like scanning with a smartphone yeah i mean i think we'll probably roll this out progressively  
-**Translation:** Vocabulary: progressively: 逐步; scanning: 扫描
-
-**[725.58s] English:** over time so it's not gonna be like we roll it out and one day everyone has a codec avatar  
-**Translation:** 
-
-**[729.14s] English:** we want to get more people scanned and into the system and then we want to start uh integrating  
-**Translation:** Vocabulary: avatar: 虚拟角色; integrating: 整合
-
-**[735.76s] English:** it into each one of our apps right making it so that you know i think that for a lot of the work  
-**Translation:** 
-
-**[741.60s] English:** style things productivity i think that this is going to make a ton of sense in a lot of game  
-**Translation:** 
-
-**[745.74s] English:** environments i mean this could be fine but games tend to have their own style right where you  
-**Translation:** 
-
-**[749.94s] English:** almost want to fit more with the aesthetic style of the of the game um but i think for doing  
-**Translation:** Vocabulary: aesthetic: 审美; environments: 环境
-
-**[755.36s] English:** meetings and one of the things that we get a lot of feedback on workrooms where you know people  
-**Translation:** 
-
-**[760.66s] English:** are pretty blown away by the experience and this feeling that you can like be remote but feel like  
-**Translation:** Vocabulary: workrooms: 会议室
-
-**[766.62s] English:** you're physically there around a table with people but then you know we get some feedback  
-**Translation:** 
-
-**[770.56s] English:** that people have a hard time with the fact that the avatars are so expressive and and and don't  
-**Translation:** Vocabulary: avatars: 虚拟角色; expressive: 表情丰富
-
-**[775.68s] English:** feel you know as as realistic in that environment so i think something like this  
-**Translation:** 
-
-**[779.94s] English:** could make a very big difference for those remote meetings and especially with quest three coming  
-**Translation:** 
-
-**[784.24s] English:** out which is going to be the first mainstream mixed reality product right where you're really  
-**Translation:** 
-
-**[787.86s] English:** taking digital um you know expressions of either a person or or objects and overlaying them on the  
-**Translation:** Vocabulary: mainstream: 主流; overlaying: 叠加
-
-**[794.90s] English:** physical world um i think the ability to do kind of remote meetings and and things like that where  
-**Translation:** 
-
-**[800.70s] English:** you're like just remote hang sessions with friends i mean i think that that's going to be very  
-**Translation:** 
-
-**[805.06s] English:** exciting so yeah rolling it out over the next over the next few years it's not ready to be like a a  
-**Translation:** 
-
-**[809.94s] English:** kind of mainstream product yet but um we just want to we'll keep tuning in keep getting more scans in  
-**Translation:** 
-
-**[815.18s] English:** there and keep you know and kind of rolling it out into more of the features but yeah i mean  
-**Translation:** 
-
-**[818.54s] English:** definitely in the next in the next um few years you'll be seeing a bunch more experiences like  
-**Translation:** 
-
-**[823.66s] English:** this yeah i would love to see some celebrities scanned and some non-celebrities uh and just  
-**Translation:** 
-
-**[830.56s] English:** just more people to experience this i would love to see that this is something i mean  
-**Translation:** 
-
-**[835.28s] English:** my mind is blown i'm literally at a loss of words because it's very difficult to  
-**Translation:** 
-
-**[839.94s] English:** i'm literally at a loss of words because i'm literally at a loss of words because it's very difficult to  
-**Translation:** 
-
-**[840.00s] English:** convey how incredible this is how how like how i feel the emotion how i feel the presence how i  
-**Translation:** 
-
-**[847.44s] English:** feel like the subtleties of the emotion in terms of like work meetings or any kind of in terms of  
-**Translation:** Vocabulary: subtleties: 细微之处
-
-**[852.74s] English:** podcasts this is like this is awesome and i don't even need your arms or legs is that well we got  
-**Translation:** 
-
-**[857.70s] English:** we got we got to get that i mean that's that's its own challenge um and and part of the question  
-**Translation:** 
-
-**[863.42s] English:** is also so you have the scan then it takes a certain amount of compute to go drive that both  
-**Translation:** 
-
-**[869.54s] English:** for the sensors on the headset and um and then rendering it so one of the things that we're  
-**Translation:** 
-
-**[874.94s] English:** working through is what is the level of fidelity that is optimal right you could do the full body  
-**Translation:** 
-
-**[880.18s] English:** in in kind of a codec and that can be quite intensive but um but one of the things that  
-**Translation:** Vocabulary: fidelity: 清晰度; optimal: 最佳的
-
-**[887.64s] English:** we're we're thinking about is like all right maybe you can kind of stitch a somewhat lower  
-**Translation:** 
-
-**[892.52s] English:** fidelity version of your body but still still have the main kind of the major movements um but  
-**Translation:** 
-
-**[899.54s] English:** uh but but your face is really the thing that we have the most resolution on right in terms of  
-**Translation:** 
-
-**[904.14s] English:** being able to read and express emotions i mean like you said if you move your you know eyebrows  
-**Translation:** 
-
-**[910.00s] English:** like a millimeter i mean that really changes the expression and what you're you're emoting whereas  
-**Translation:** 
-
-**[914.62s] English:** you know i mean moving your your arm like a an inch probably doesn't matter quite as much so  
-**Translation:** Vocabulary: emoting: 表情演绎; millimeter: 毫米
-
-**[921.22s] English:** so yeah so i think that we'll we do want to get all of that into here and and that'll be some of  
-**Translation:** 
-
-**[925.66s] English:** the work over the next period as well so you mentioned quest three  
-**Translation:** 
-
-**[929.54s] English:** that's coming out i've gotten a chance to try that too that's awesome so the how'd you pull  
-**Translation:** 
-
-**[934.02s] English:** off the mixer so it's not just virtual reality it's mixed reality yeah i mean i think it's going  
-**Translation:** 
-
-**[938.20s] English:** to be it's going to be the first mainstream um mixed reality device i mean obviously we shipped  
-**Translation:** 
-
-**[942.88s] English:** quest pro um last year but it was fifteen hundred dollars um and well part of what i'm super proud  
-**Translation:** 
-
-**[949.94s] English:** of is you know we try to innovate not just on pushing the state of the art and delivering new  
-**Translation:** 
-
-**[954.28s] English:** capabilities but making it so it can be available to everyone and you know we have this and it's  
-**Translation:** Vocabulary: innovate: 创新
-
-**[959.54s] English:** coming out  
-**Translation:** 
-
-**[960.00s] English:** it's $500. And in some ways, I think the mixed reality is actually better in Quest 3 than it was  
-**Translation:** 
-
-**[966.34s] English:** than what we're using right now in Quest Pro. So I'm really proud of the team for being able to  
-**Translation:** 
-
-**[971.88s] English:** deliver that kind of an innovation and get it out. But some of this is just software you tune over  
-**Translation:** 
-
-**[978.60s] English:** time and get to be better. Part of it is you put together a product and you figure out what are  
-**Translation:** 
-
-**[983.78s] English:** the bottlenecks in terms of making it a good experience. So we got the resolution for the  
-**Translation:** Vocabulary: bottlenecks: 瓶颈
-
-**[987.84s] English:** mixed reality cameras and sensors to be multiple times better in Quest 3. And we just figured that  
-**Translation:** 
-
-**[993.70s] English:** that made a very big difference when we saw the experience that we were able to put together for  
-**Translation:** 
-
-**[997.32s] English:** Quest Pro. And part of it is also that Qualcomm just came out with their next generation chipset  
-**Translation:** 
-
-**[1003.88s] English:** for VR and MR that we worked with them on a kind of custom version of it. But that was available  
-**Translation:** Vocabulary: qualcomm: 高通
-
-**[1009.76s] English:** this year for Quest 3, and it wasn't available in Quest Pro. So in a way, Quest 3, even though it's  
-**Translation:** 
-
-**[1015.52s] English:** not the Pro product.  
-**Translation:** 
-
-**[1017.84s] English:** It actually has a stronger chipset in it than the Pro line at a third of the cost. So I'm really  
-**Translation:** 
-
-**[1024.06s] English:** excited to get this in people's hands. It does all the VR stuff that Quest 2 and the others have  
-**Translation:** 
-
-**[1028.84s] English:** done too. It does it better because the display is better and the chip is better, so you'll get  
-**Translation:** 
-
-**[1034.86s] English:** better graphics. It's 40% thinner, so it's just more comfortable as well. But the MR is really  
-**Translation:** 
-
-**[1042.64s] English:** the big capability shift. And part of what's exciting about the whole space right now is  
-**Translation:** 
-
-**[1047.32s] English:** that it's a little bit more comfortable. It's a little bit more comfortable, but it's a little  
-**Translation:** Vocabulary: capability: 能力
-
-**[1047.82s] English:** bit more comfortable. This isn't like smartphones where companies put out a new smartphone every  
-**Translation:** 
-
-**[1051.86s] English:** year and you can almost barely tell the difference between that and the one the year before it.  
-**Translation:** 
-
-**[1056.34s] English:** Now for this, each time we put out a new headset, it has a major new capability. And the big one  
-**Translation:** 
-
-**[1062.20s] English:** now is mixed reality, the ability to basically take digital representations of people or objects  
-**Translation:** 
-
-**[1069.44s] English:** and superimpose them on the world. And basically, there's one version of this is you're going to  
-**Translation:** 
-
-**[1076.72s] English:** have these augments. You're going to have these little little little little little little little  
-**Translation:** Vocabulary: augments: 增强功能; superimpose: 叠加
-
-**[1077.82s] English:** little little little little little little little little little little little little little little  
-**Translation:** 
-
-**[1078.82s] English:** little little little little little little little little little little little little little little  
-**Translation:** 
-
-**[1079.10s] English:** holograms. And  
-**Translation:** 
-
-**[1080.00s] English:** and experiences that you can kind of bring into your living room or a meeting space or office  
-**Translation:** Vocabulary: holograms: 全息图
-
-**[1084.82s] English:** another thing that i just think is going to be a much kind of simpler innovation is that there are  
-**Translation:** 
-
-**[1092.40s] English:** a lot of vr experiences today that don't need to be fully immersive and you know if you're playing  
-**Translation:** Vocabulary: immersive: 沉浸式
-
-**[1096.92s] English:** a shooter game or you're doing a fitness experience and sometimes people get worried about swinging  
-**Translation:** 
-
-**[1102.00s] English:** their arms around like am i going to hit a lamp or something you know it's and and am i going to  
-**Translation:** Vocabulary: swinging: 挥动
-
-**[1106.82s] English:** run into something so having that in mixed reality actually is just a lot more comfortable  
-**Translation:** 
-
-**[1111.90s] English:** for people right you you kind of still get the immersion and the 3d experience um and you can  
+**[679.32s] English:** I'm curious to see what people think, yeah. I'm curious to see if people can see.  
 **Translation:** Vocabulary: immersion: 沉浸感
 
-**[1116.72s] English:** you can have an experience that just wouldn't be possible in the physical world alone but by being  
+**[683.22s] English:** That, um, like my heart is actually beating fast now; this is super interesting.  
 **Translation:** 
 
-**[1120.76s] English:** anchored to and being able to see the physical world around you it's like it just feels so much  
-**Translation:** Vocabulary: anchored: 与现实相连
+**[689.48s] English:** Like the kind of intimacy of conversation can be achieved remotely, there's been you know, I don't  
+**Translation:** Vocabulary: intimacy: 亲密; remotely: 远程
 
-**[1124.82s] English:** safer and more secure and i think a lot of people are really going to enjoy that too so yeah i'm  
+**[696.16s] English:** Do remote podcasts for this reason, and this is like breaking all of that. This feels like just an  
 **Translation:** 
 
-**[1129.30s] English:** really excited to see how people use it but yeah quest 3 coming out um later this fall yeah and i  
+**[702.54s] English:** Incredible transition to something else breaks all barriers in a different kind of communication.  
+**Translation:** Vocabulary: barriers: 障碍
+
+**[708.72s] English:** Like geographic physical barriers, for example. What you mentioned, would you have a sense of timeline?  
 **Translation:** 
 
-**[1135.06s] English:** got to experience it with other people sitting around me and i was like oh my god i'm going to  
+**[714.58s] English:** In terms of how many difficult things have to be solved, make this more accessible.  
+**Translation:** Vocabulary: geographic: 地理的
+
+**[719.42s] English:** For  
 **Translation:** 
 
-**[1136.80s] English:** around and there's a lot of furniture and so you get to see that furniture and get to see those  
+**[720.00s] English:** Like scanning with a smartphone, yeah. I mean, I think we'll probably roll this out progressively.  
+**Translation:** Vocabulary: progressively: 逐步地; scanning: 扫描
+
+**[725.58s] English:** Over time, so it's not going to be like we roll it out and one day everyone has a codec avatar.  
 **Translation:** 
 
-**[1140.36s] English:** people and you get to see those people like enjoy the ridiculousness of you like swinging your arms  
+**[729.14s] English:** We want to get more people scanned and into the system, and then we want to start integrating.  
+**Translation:** Vocabulary: avatar: 虚拟角色; integrating: 整合; scanned: 扫描
+
+**[735.76s] English:** It will be integrated into each one of our apps, making it so that, I think, for a lot of the work.  
 **Translation:** 
 
-**[1146.68s] English:** i mean presumably they're friends of yours even if they make fun of you they uh there's a lot of  
+**[741.60s] English:** Style, things, productivity: I think that this is going to make a ton of sense in a lot of games.  
+**Translation:** Vocabulary: integrated: 整合
+
+**[745.74s] English:** Environments, I mean, this could be fine, but games tend to have their own style, right? Where you  
+**Translation:** 
+
+**[749.94s] English:** Almost, I want to fit more with the aesthetic style of the game, um, but I think for doing [rest of the sentence is unclear]  
+**Translation:** Vocabulary: aesthetic: 审美; environments: 环境
+
+**[755.36s] English:** Meetings, and one of the things we get a lot of feedback on are workrooms where you know people  
+**Translation:** 
+
+**[760.66s] English:** Are they pretty blown away by the experience and this feeling that you can, like, be remote but feel connected?  
+**Translation:** Vocabulary: workrooms: 会议室
+
+**[766.62s] English:** You're physically there around a table with people, but then we get some feedback.  
+**Translation:** 
+
+**[770.56s] English:** That people have a hard time with the fact that the avatars are so expressive and don't  
+**Translation:** Vocabulary: avatars: 虚拟角色; expressive: 表情丰富
+
+**[775.68s] English:** Feel like something more realistic in that environment, so I think something like this.  
+**Translation:** 
+
+**[779.94s] English:** Could make a very big difference for those remote meetings, and especially with Quest Three coming.  
+**Translation:** 
+
+**[784.24s] English:** Out, which is going to be the first mainstream mixed reality product, right where you're really  
+**Translation:** 
+
+**[787.86s] English:** Taking digital expressions, whether of a person or objects, and overlaying them on the  
+**Translation:** Vocabulary: mainstream: 主流; overlaying: 叠加
+
+**[794.90s] English:** Physical world, I think the ability to do kind of remote meetings and things like that, where  
+**Translation:** 
+
+**[800.70s] English:** You're like just remote hang sessions with friends. I mean, I think that's going to be very  
+**Translation:** 
+
+**[805.06s] English:** Exciting, so yeah, we're rolling it out over the next few years. It's not ready to be like a [a].  
+**Translation:** 
+
+**[809.94s] English:** Kind of a mainstream product yet, but um, we just want to keep tuning in and get more scans in.  
+**Translation:** 
+
+**[815.18s] English:** There, and keep you know, and kind of rolling it out into more of the features, but yeah, I mean.  
+**Translation:** 
+
+**[818.54s] English:** Definitely, in the next few years, you'll be seeing a bunch more experiences like.  
+**Translation:** 
+
+**[823.66s] English:** This, yeah, I would love to see some celebrities scanned and some non-celebrities, too. And just...  
+**Translation:** 
+
+**[830.56s] English:** Just more people to experience this—I would love to see that. This is something I mean.  
+**Translation:** 
+
+**[835.28s] English:** My mind is blown; I'm literally at a loss for words because it's very difficult to  
+**Translation:** 
+
+**[839.94s] English:** I'm literally at a loss for words because it's very difficult to  
+**Translation:** 
+
+**[840.00s] English:** Convey how incredible this is, how I feel the emotion, and how I feel the presence.  
+**Translation:** 
+
+**[847.44s] English:** Feel like the subtleties of the emotion in terms of, like, work meetings or any kind of interaction.  
+**Translation:** Vocabulary: subtleties: 细微之处
+
+**[852.74s] English:** Podcasts, this is like, this is awesome! And I don't even need your arms or legs. Is that well, we got...  
+**Translation:** 
+
+**[857.70s] English:** We've got to get that, I mean, that's its own challenge, um, and part of the question.  
+**Translation:** 
+
+**[863.42s] English:** Is also, so you have the scan; then it takes a certain amount of compute to go and drive that, both...  
+**Translation:** 
+
+**[869.54s] English:** For the sensors on the headset, and then rendering it. One of the things that we're  
+**Translation:** Vocabulary: compute: 计算; headset: 耳机; sensors: 传感器
+
+**[874.94s] English:** Working through, what is the level of fidelity that is optimal? Right; you could do the full-body version, but...  
+**Translation:** 
+
+**[880.18s] English:** In a kind of codec, and that can be quite intensive, but one of the things that  
+**Translation:** Vocabulary: fidelity: 清晰度; optimal: 最佳的
+
+**[887.64s] English:** We're thinking about maybe stitching something a bit lower.  
+**Translation:** 
+
+**[892.52s] English:** Fidelity version of your body, but still can have the main kinds of major movements, um,...  
+**Translation:** 
+
+**[899.54s] English:** Uh, but but your face is really the thing that we have the most resolution on, right, in terms of  
+**Translation:** 
+
+**[904.14s] English:** Being able to read and express emotions—I mean, like you said, if you move your eyebrows,  
+**Translation:** 
+
+**[910.00s] English:** Like a millimeter, I mean, that really changes the expression and what you're emoting, whereas.  
+**Translation:** 
+
+**[914.62s] English:** You know, I mean, moving your arm even an inch probably doesn't matter quite as much so.  
+**Translation:** Vocabulary: emoting: 表达情感; millimeter: 毫米
+
+**[921.22s] English:** So, yeah, so I think we do want to get all of that in here, and that'll be some of it.  
+**Translation:** 
+
+**[925.66s] English:** The work over the next period, as well. So, you mentioned Quest Three.  
+**Translation:** 
+
+**[929.54s] English:** That's coming out; I've gotten a chance to try that, too. That's awesome! So, how'd you pull it off?  
+**Translation:** 
+
+**[934.02s] English:** Off the mixer, so it's not just virtual reality; it's mixed reality, yeah. I mean, I think it's going...  
+**Translation:** 
+
+**[938.20s] English:** To be, it's going to be the first mainstream, um, mixed-reality device. I mean, obviously, we shipped.  
+**Translation:** 
+
+**[942.88s] English:** Quest Pro for a UM last year, but it was $1,500. Um, and well, part of what I'm super proud  
+**Translation:** Vocabulary: mainstream: 主流的
+
+**[949.94s] English:** Of course, you know, we try to innovate not just by pushing the state of the art and delivering new.  
+**Translation:** 
+
+**[954.28s] English:** Capabilities, but making it so it can be available to everyone. And you know, we have this, and it's  
+**Translation:** Vocabulary: capabilities: 能力; innovate: 创新
+
+**[959.54s] English:** Coming out.  
+**Translation:** 
+
+**[960.00s] English:** It's $500. And in some ways, I think the mixed reality is actually better in the Quest 3 than it was.  
+**Translation:** 
+
+**[966.34s] English:** Than what we're using right now in Quest Pro. So, I'm really proud of the team for being able to.  
+**Translation:** 
+
+**[971.88s] English:** Deliver that kind of innovation and get it out. But some of this is just software you tune over.  
+**Translation:** 
+
+**[978.60s] English:** Time and get to be better. Part of it is that you put together a product, and you figure out what are  
+**Translation:** 
+
+**[983.78s] English:** The bottlenecks in terms of making it a good experience. So, we got the resolution for the  
+**Translation:** Vocabulary: bottlenecks: 瓶颈
+
+**[987.84s] English:** Mixed-reality cameras and sensors will be multiple times better in Quest 3, and we just figured that.  
+**Translation:** 
+
+**[993.70s] English:** That made a very big difference when we saw the experience that we were able to put together for.  
+**Translation:** Vocabulary: sensors: 传感器
+
+**[997.32s] English:** Quest Pro. And part of it is also that Qualcomm just came out with their next-generation chipset.  
+**Translation:** 
+
+**[1003.88s] English:** For VR and MR, we worked with them on a kind of custom version of it. But that was available.  
+**Translation:** Vocabulary: chipset: 芯片组; qualcomm: 高通
+
+**[1009.76s] English:** This year, for Quest 3, and it wasn't available in Quest Pro. So, in a way, Quest 3, even though it's  
+**Translation:** 
+
+**[1015.52s] English:** Not the Pro product.  
+**Translation:** 
+
+**[1017.84s] English:** It actually has a stronger chipset in it than the Pro line at a third of the cost. So, I'm really  
+**Translation:** 
+
+**[1024.06s] English:** Excited to get this in people's hands. It does all the VR stuff that Quest 2 and the others have.  
+**Translation:** 
+
+**[1028.84s] English:** Done too. It does it better because the display is better and the chip is better, so you'll get.  
+**Translation:** 
+
+**[1034.86s] English:** Better graphics. It's 40% thinner, so it's just more comfortable as well. But the MR is really...  
+**Translation:** 
+
+**[1042.64s] English:** The big capability shift. And part of what's exciting about the whole space right now is  
+**Translation:** 
+
+**[1047.32s] English:** That's a little bit more comfortable. It's a little bit more comfortable, but it's a little  
+**Translation:** Vocabulary: capability: 能力
+
+**[1047.82s] English:** It's a bit more comfortable. This isn't like smartphones, where companies put out a new model every  
+**Translation:** 
+
+**[1051.86s] English:** Year, and you can almost barely tell the difference between that and the one from the year before it.  
+**Translation:** 
+
+**[1056.34s] English:** Now, for this, each time we put out a new headset, it has a major new capability. And the big one,  
+**Translation:** 
+
+**[1062.20s] English:** Now, mixed reality is the ability to basically take digital representations of people or objects.  
+**Translation:** Vocabulary: headset: 耳机; representations: 表现
+
+**[1069.44s] English:** And superimpose them on the world. And basically, there's one version of this: you're going to  
+**Translation:** 
+
+**[1076.72s] English:** Have these augmentations. You're going to have these little, little, little, little, little, little, little ones.  
+**Translation:** Vocabulary: augmentations: 增强功能; superimpose: 叠加
+
+**[1077.82s] English:** Little, little, little, little, little, little, little, little, little, little, little, little, little, little.  
+**Translation:** 
+
+**[1078.82s] English:** Little, little, little, little, little, little, little, little, little, little, little, little, little, little.  
+**Translation:** 
+
+**[1079.10s] English:** Holograms. And  
+**Translation:** 
+
+**[1080.00s] English:** And experiences that you can kind of bring into your living room, or a meeting space, or office.  
+**Translation:** Vocabulary: holograms: 全息图
+
+**[1084.82s] English:** Another thing that I just think is going to be a much simpler innovation is that there are  
+**Translation:** 
+
+**[1092.40s] English:** A lot of VR experiences today don't need to be fully immersive, and you know, if you're playing,...  
+**Translation:** Vocabulary: immersive: 沉浸式的
+
+**[1096.92s] English:** A shooter game, or you're doing a fitness experience, and sometimes people get worried about swinging.  
+**Translation:** 
+
+**[1102.00s] English:** Their arms are around me, like am I going to hit a lamp or something, you know? It's and and am I going to...  
+**Translation:** Vocabulary: swinging: 摇晃
+
+**[1106.82s] English:** Run into something, so having that in mixed reality is actually just a lot more comfortable.  
+**Translation:** 
+
+**[1111.90s] English:** For people, right? You kind of still get the immersion and the 3D experience, um, and you can.  
+**Translation:** Vocabulary: immersion: 沉浸感
+
+**[1116.72s] English:** You can have an experience that just wouldn't be possible in the physical world alone, but by being  
+**Translation:** 
+
+**[1120.76s] English:** Anchored to and being able to see the physical world around you, it's like it just feels so much.  
+**Translation:** Vocabulary: anchored: 固定在某处
+
+**[1124.82s] English:** Safer and more secure, and I think a lot of people are really going to enjoy that, too. So, yeah, I'm  
+**Translation:** 
+
+**[1129.30s] English:** Really excited to see how people use it, but yeah, Quest 3 is coming out later this fall. Yeah, and I...  
+**Translation:** 
+
+**[1135.06s] English:** Got to experience it with other people sitting around me, and I was like, "Oh my God, I'm going to...  
+**Translation:** 
+
+**[1136.80s] English:** Around, and there's a lot of furniture, and so you get to see that furniture and those.  
+**Translation:** 
+
+**[1140.36s] English:** People, and you get to see those people enjoying the ridiculousness of you like swinging your arms.  
+**Translation:** 
+
+**[1146.68s] English:** I mean, presumably they're friends of yours, even if they make fun of you; there's a lot of  
 **Translation:** Vocabulary: presumably: 大概; ridiculousness: 荒谬
 
-**[1151.36s] English:** love behind that and that you got to experience that so that's a really fundamentally different  
+**[1151.36s] English:** Love behind that, and that you get to experience that, so that's a really fundamentally different.  
 **Translation:** 
 
-**[1155.70s] English:** experience than just pure vr with like with zombies coming out of walls and yeah it's like  
+**[1155.70s] English:** Experience is more than just pure VR with zombies coming out of walls, and yeah, it's like  
 **Translation:** Vocabulary: fundamentally: 根本上; zombies: 僵尸
 
-**[1160.84s] English:** someone shooting at you and you hide behind your real couch in order to duck the fire yeah it's  
+**[1160.84s] English:** Someone shooting at you, and you hide behind your real couch in order to duck the fire. Yeah, it's  
 **Translation:** 
 
-**[1166.80s] English:** how it's all integrated but also like subtle stuff like in a room with no windows you can add  
+**[1166.80s] English:** How it's all integrated, but also, like, subtle stuff: in a room with no windows, you can add.  
+**Translation:** Vocabulary: integrated: 融合; subtle: 微妙
+
+**[1171.92s] English:** Windows to it, and you can look outside as the zombies run toward you, but it's still nice.  
 **Translation:** 
 
-**[1171.92s] English:** windows to it and you can look outside as the zombies run towards you but like it's still nice  
+**[1177.10s] English:** View outside, you know, yeah, it's just really amazing, and so that's pulled off by having cameras on the  
 **Translation:** 
 
-**[1177.10s] English:** view outside you know yeah it's just it's really and so that's pulled off by having cameras on the  
+**[1182.46s] English:** Outside of the headset that does the pass-through, uh, in that technology is incredible to do that.  
 **Translation:** 
 
-**[1182.46s] English:** outside of the headset that do the pass-through uh in that technology is incredible to do that  
+**[1188.28s] English:** On a headset, and it's not just the cameras; you basically need multiple cameras to.  
 **Translation:** 
 
-**[1188.28s] English:** on a headset and it's not just the cameras you basically need to you need multiple cameras to  
-**Translation:** Vocabulary: headset: 耳机外置
-
-**[1194.04s] English:** capture the different angles and and sort of the different angles and the different angles and  
+**[1194.04s] English:** Capture the different angles, and sort of the different angles, and the different angles, and  
 **Translation:** 
 
-**[1196.80s] English:** the three-dimensional space and then it's a  
+**[1196.80s] English:** The three-dimensional space, and then it's a  
 **Translation:** 
 
-**[1200.00s] English:** pretty complex compute problem and AI problem to map that to your perspective, right? Because the  
+**[1200.00s] English:** Pretty complex compute problem and AI problem to map that to your perspective, right? Because the...  
 **Translation:** 
 
-**[1205.30s] English:** cameras aren't exactly where your eyes are because no two people's eyes are, you're not going to be  
+**[1205.30s] English:** Cameras aren't exactly where your eyes are because no two people's eyes are, and you're not going to be.  
+**Translation:** Vocabulary: compute: 计算
+
+**[1208.96s] English:** In exactly the same place. You kind of need to get that to line up and then do.  
 **Translation:** 
 
-**[1208.96s] English:** in exactly the same place. You kind of need to, to, to get that to, to, to line up and then do  
+**[1214.74s] English:** That basically happens in real time, and then generates something that looks and feels natural.  
+**Translation:** Vocabulary: generates: 产生
+
+**[1219.54s] English:** And then, superimpose whatever digital objects you want to put there. So, it's yeah, it's a  
 **Translation:** 
 
-**[1214.74s] English:** that basically in real time and then generate something that looks, that kind of feels natural  
-**Translation:** 
-
-**[1219.54s] English:** and then superimpose whatever digital objects you want to put there. So it's, yeah, it's a  
-**Translation:** 
-
-**[1225.50s] English:** very interesting technical challenge and I think we'll continue tuning this for, for the years to  
+**[1225.50s] English:** Very interesting technical challenge, and I think we'll continue tuning this for the years to come.  
 **Translation:** Vocabulary: superimpose: 叠加
 
-**[1231.56s] English:** come as well. But, but I'm pretty excited to, to get this out because I think Quest 3 is going to  
+**[1231.56s] English:** Come on over as well. But, I'm pretty excited to get this out because I think Quest 3 is going to  
 **Translation:** 
 
-**[1237.42s] English:** be the first device like this with, that millions of people are going to get that's mixed reality.  
+**[1237.42s] English:** Be the first device like this, that millions of people are going to get, that's mixed reality.  
 **Translation:** 
 
-**[1241.56s] English:** And it's only when you have millions of people using something that you start getting the whole  
+**[1241.56s] English:** And it's only when you have millions of people using something that you start getting the whole thing working smoothly.  
 **Translation:** 
 
-**[1245.70s] English:** developer community really starting to experiment and build stuff because now there are going to be  
+**[1245.70s] English:** The developer community is really starting to experiment and build stuff because now there are going to be  
 **Translation:** 
 
-**[1250.28s] English:** people who actually use it. So I think we'll get, you know, we got some of that flywheel going with  
+**[1250.28s] English:** People who actually use it. So I think we'll get, you know, some of that flywheel going.  
 **Translation:** 
 
 **[1255.28s] English:** Quest 3.  
 **Translation:** Vocabulary: flywheel: 飞轮效应
 
-**[1255.50s] English:** But I think it'll really get accelerated once Quest 3 gets out there. So yeah, I'm, I'm pretty  
+**[1255.50s] English:** But I think it'll really get accelerated once Quest 3 gets out there. So, yeah, I'm pretty  
 **Translation:** 
 
-**[1260.96s] English:** excited about this one. Plus there's hand tracking without, so you don't need to have a control. So  
+**[1260.96s] English:** Excited about this one. Plus, there's hand tracking, so you don't need to use a controller. So,  
+**Translation:** Vocabulary: accelerated: 加快
+
+**[1265.62s] English:** This camera, the cameras aren't just doing a pass-through of the entire physical reality around.  
 **Translation:** 
 
-**[1265.62s] English:** this camera, the cameras aren't just doing the pass through of the entire physical reality around  
+**[1271.48s] English:** You: It's also tracking the details of your hands in order to use that for gesture recognition.  
 **Translation:** 
 
-**[1271.48s] English:** you. It's also tracking the details of your hands in order to use that for like gesture recognition,  
+**[1276.86s] English:** This kind of stuff. Yeah, we've been able to get way further with hand recognition in a shorter period.  
 **Translation:** 
 
-**[1276.86s] English:** this kind of stuff. Yeah. We've been able to get way further on hand recognition in a shorter  
+**[1281.80s] English:** A period of time than I expected. So that's been pretty cool. I don't know. Did you see the,  
 **Translation:** 
 
-**[1281.80s] English:** period of time than I expected. So that's been pretty cool. I don't know. Did you see the,  
+**[1285.50s] English:** The demo experience that we built around, you know, like, playing the piano.  
 **Translation:** 
 
-**[1285.50s] English:** the demo, um, experience that we built around, um, you know, like, yeah, the piano learning to play  
+**[1291.26s] English:** Piano.  
 **Translation:** 
 
-**[1291.26s] English:** piano.  
+**[1292.06s] English:** Yeah, it's incredible. You're basically playing piano on a table, and it's—that's without any  
 **Translation:** 
 
-**[1292.06s] English:** Yeah, it's incredible. You're basically playing piano on a table and it's, that's without any  
-**Translation:** 
-
-**[1296.54s] English:** controller and like how well it matches physical reality with no latency. And it's not, it's  
+**[1296.54s] English:** Controller and like how well it matches physical reality with no latency. And it's not.  
 **Translation:** Vocabulary: latency: 延迟
 
-**[1303.98s] English:** tracking your hands with no latency and it's tracking all the people around you with no  
+**[1303.98s] English:** Tracking your hands with no latency, and it's tracking all the people around you with no.  
 **Translation:** 
 
-**[1308.50s] English:** latency, integrating physical reality and digital reality. Obviously that connects exactly to this  
+**[1308.50s] English:** Latency, integrating physical reality and digital reality. Obviously, that connects exactly to this.  
 **Translation:** Vocabulary: integrating: 融合
 
-**[1314.96s] English:** Kodak app.  
+**[1314.96s] English:** Kodak App.  
 **Translation:** 
 
-**[1315.50s] English:** The avatar, which is in parallel, allows us to have  
-**Translation:** Vocabulary: avatar: 化身
+**[1315.50s] English:** The avatar, which is in parallel, allows us to have.  
+**Translation:** Vocabulary: avatar: 化身; parallel: 并行
 
-**[1320.00s] English:** have ultra-realistic copies of ourselves in this mixed reality.  
+**[1320.00s] English:** We can have ultra-realistic copies of ourselves in this mixed reality.  
 **Translation:** 
 
-**[1326.14s] English:** So it's all converging towards an incredible digital experience in the metaverse.  
+**[1326.14s] English:** So, it's all converging toward an incredible digital experience in the metaverse.  
 **Translation:** Vocabulary: converging: 汇聚; metaverse: 元宇宙
 
 **[1331.76s] English:** To me, obviously, I love the intimacy of conversation, so even this is awesome.  
 **Translation:** 
 
-**[1335.58s] English:** Do you have other ideas of what this unlocks,  
-**Translation:** Vocabulary: intimacy: 亲密
+**[1335.58s] English:** Do you have any other ideas of what this unlocks?  
+**Translation:** Vocabulary: intimacy: 亲密; unlocks: 解锁
 
-**[1340.44s] English:** of something like Codec Avatar unlocks in terms of applications,  
+**[1340.44s] English:** Of something like Codec Avatar, in terms of applications,...  
 **Translation:** 
 
-**[1345.00s] English:** in terms of things we're able to do?  
+**[1345.00s] English:** In terms of things we're able to do?  
 **Translation:** 
 
-**[1347.66s] English:** Well, there's what you can do with avatars overall  
+**[1347.66s] English:** Well, there's what you can do with avatars overall.  
 **Translation:** 
 
-**[1351.34s] English:** in terms of superimposing digital objects on the physical world.  
-**Translation:** Vocabulary: avatars: 虚拟化身; superimposing: 叠加
+**[1351.34s] English:** In terms of superimposing digital objects on the physical world.  
+**Translation:** Vocabulary: avatars: 虚拟角色; superimposing: 叠加
 
-**[1355.90s] English:** And then there's psychologically, what does having photorealistic do?  
+**[1355.90s] English:** And then, there's psychologically: what does having photorealistic do?  
 **Translation:** 
 
-**[1361.18s] English:** So I think we're moving towards a world where we're going to have  
-**Translation:** Vocabulary: photorealistic: 照片般逼真; psychologically: 心理上
+**[1361.18s] English:** So, I think we're moving towards a world where we're going to have  
+**Translation:** Vocabulary: psychologically: 心理上
 
-**[1365.72s] English:** something that looks like normal glasses,  
+**[1365.72s] English:** Something that looks like normal glasses,  
 **Translation:** 
 
-**[1368.70s] English:** where you can just see the physical world, but you also see holograms.  
+**[1368.70s] English:** Where you can just see the physical world, but you also see holograms.  
 **Translation:** Vocabulary: holograms: 全息图
 
-**[1373.42s] English:** And in that world, I think that there are going to be  
+**[1373.42s] English:** And in that world, I think that there are going to be.  
 **Translation:** 
 
-**[1376.52s] English:** not too far off, maybe by the end of this decade,  
+**[1376.52s] English:** Not too far off, maybe by the end of this decade.  
 **Translation:** 
 
-**[1381.58s] English:** we'll be living in a world where there are as many holograms  
+**[1381.58s] English:** We'll be living in a world where there are as many holograms  
 **Translation:** 
 
-**[1384.72s] English:** when you walk into a room as there are physical objects.  
+**[1384.72s] English:** When you walk into a room, there are physical objects.  
 **Translation:** 
 
-**[1387.36s] English:** And it really raises this interesting question about what are...  
+**[1387.36s] English:** And it really raises this interesting question about what are....  
 **Translation:** 
 
-**[1393.04s] English:** A lot of people have this phrase where they call the physical world the real world.  
+**[1393.04s] English:** A lot of people have this phrase, where they call the physical world "the real world.  
 **Translation:** 
 
-**[1399.66s] English:** And I kind of think increasingly, the physical world is super important,  
+**[1399.66s] English:** And I kind of think increasingly, the physical world is super important.  
 **Translation:** 
 
-**[1403.82s] English:** but I actually think the real world is the combination,  
+**[1403.82s] English:** But I actually think the real world is the combination,  
 **Translation:** 
 
-**[1406.52s] English:** of the physical world and the digital worlds coming together.  
+**[1406.52s] English:** Of the physical world and the digital worlds coming together.  
 **Translation:** 
 
 **[1409.16s] English:** But until this technology, they were sort of separate, right?  
@@ -862,346 +863,346 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[1413.84s] English:** It's like you access the digital world through a screen, right?  
 **Translation:** 
 
-**[1416.62s] English:** And maybe it's a small screen that you carry around,  
+**[1416.62s] English:** And maybe it's a small screen that you carry around.  
 **Translation:** 
 
-**[1419.12s] English:** or it's a bigger screen where you sit down at your desk  
+**[1419.12s] English:** Or it's a bigger screen where you sit down at your desk.  
 **Translation:** 
 
-**[1421.20s] English:** and strap in for a long session.  
+**[1421.20s] English:** And strap in for a long session.  
 **Translation:** Vocabulary: strap: 固定带
 
 **[1423.18s] English:** But they're kind of fundamentally divorced and disconnected.  
 **Translation:** 
 
-**[1427.24s] English:** And I think part of what this technology is going to do  
-**Translation:** Vocabulary: fundamentally: 从根本上
+**[1427.24s] English:** And I think part of what this technology is going to do.  
+**Translation:** Vocabulary: disconnected: 不相连; fundamentally: 从根本上
 
-**[1429.42s] English:** is bring those together into a single coherent experience  
+**[1429.42s] English:** Is bringing those together into a single, coherent experience.  
 **Translation:** 
 
-**[1433.04s] English:** of what the modern real world is, which is,  
+**[1433.04s] English:** Of what the modern real world is, which is,  
 **Translation:** Vocabulary: coherent: 连贯的
 
-**[1435.66s] English:** you know, it's got to be...  
+**[1435.66s] English:** You know, it's got to be....  
 **Translation:** 
 
-**[1436.52s] English:** Physical, because we're physical beings.  
+**[1436.52s] English:** Physical, because we are physical beings.  
 **Translation:** 
 
-**[1438.60s] English:** So the physical world is...  
+**[1438.60s] English:** So, the physical world is...  
 **Translation:** 
 
-**[1440.00s] English:** always going to be super important but but increasingly i think a lot of the things that we  
+**[1440.00s] English:** Always going to be super important, but I think increasingly a lot of the things that we  
 **Translation:** 
 
-**[1444.52s] English:** kind of think of um can be digital holograms i mean any screen that you have can be a hologram  
+**[1444.52s] English:** Kind of think of it: any screen that you have can be a hologram, I mean, digital holograms included.  
 **Translation:** 
 
-**[1451.08s] English:** um you know any media um in any book art um you know it can basically be just as effective as a  
-**Translation:** Vocabulary: hologram: 全息图
+**[1451.08s] English:** Um, you know, any media—in any book or art—um, you know, it can basically be just as effective as a  
+**Translation:** Vocabulary: hologram: 全息图; holograms: 全息图
 
-**[1458.26s] English:** hologram as a physical object any game um that you're playing a board game or um or any kind  
+**[1458.26s] English:** Hologram as a physical object—any game, such as a board game, or any kind.  
 **Translation:** 
 
-**[1463.82s] English:** of physical game cards um you know ping pong things like that they're they're often a lot  
+**[1463.82s] English:** Of physical game cards, such as ping-pong cards, they're often a lot.  
 **Translation:** 
 
-**[1468.18s] English:** better as holograms because you could just kind of snap your fingers and instantiate them and have  
+**[1468.18s] English:** Better as holograms, because you could just kind of snap your fingers and instantiate them and have.  
 **Translation:** 
 
-**[1471.92s] English:** them um show up you know it's like you have a ping pong table show up in your living room but  
-**Translation:** Vocabulary: instantiate: 实例化
+**[1471.92s] English:** They, um, show up; you know, it's like having a ping-pong table show up in your living room, but  
+**Translation:** Vocabulary: instantiate: 实现
 
-**[1477.18s] English:** then you can snap your fingers and have it be gone um so that's super powerful um so i think  
+**[1477.18s] English:** Then you can snap your fingers and have it be gone; um, so that's super powerful. Um, so I think.  
 **Translation:** 
 
-**[1483.30s] English:** that it's actually an amazing thought experiment of like how many physical things we have today  
+**[1483.30s] English:** That's actually an amazing thought experiment of how many physical things we have today.  
 **Translation:** 
 
-**[1489.02s] English:** that could actually be better as interactive holograms but then beyond that i think the  
+**[1489.02s] English:** That could actually be better as interactive holograms, but then beyond that, I think the  
 **Translation:** 
 
-**[1494.22s] English:** the most important thing obviously is people  
-**Translation:** Vocabulary: holograms: 全息图; interactive: 互动的
+**[1494.22s] English:** The most important thing, obviously, is people.  
+**Translation:** Vocabulary: interactive: 交互的
 
-**[1497.22s] English:** so the ability to  
+**[1497.22s] English:** So, the ability to  
 **Translation:** 
 
-**[1498.18s] English:** you know have these mixed hangouts whether they're social or meetings where you show up to a  
+**[1498.18s] English:** You know, have these mixed hangouts, whether they're social or meetings, where you show up to a  
 **Translation:** Vocabulary: hangouts: 聚会场所
 
-**[1505.32s] English:** conference room you're wearing glasses um or a headset in the very near term but you know hopefully  
+**[1505.32s] English:** In the conference room, you're wearing glasses—or a headset—in the very near term, but you know, hopefully.  
 **Translation:** 
 
-**[1510.20s] English:** by you know over the next five years glasses or so and um and you know you're there physically  
-**Translation:** Vocabulary: headset: 耳机
+**[1510.20s] English:** By, you know, over the next five years or so, and you know, you're there physically.  
+**Translation:** Vocabulary: headset: 耳麦
 
-**[1515.98s] English:** some people are there physically um but other people are just there as holograms and it feels  
+**[1515.98s] English:** Some people are there physically, um, but other people are just there as holograms, and it feels  
 **Translation:** 
 
-**[1521.06s] English:** like it's them um who are right there and and also by the way another thing that i think is  
+**[1521.06s] English:** Like it's them, um, who are right there, and, by the way, another thing that I think is  
 **Translation:** 
 
-**[1525.62s] English:** going to be fascinating about being able to blend together  
+**[1525.62s] English:** Going to be fascinating about being able to blend together.  
 **Translation:** 
 
-**[1527.56s] English:** the  
+**[1527.56s] English:** The  
 **Translation:** 
 
-**[1528.18s] English:** digital and physical worlds in this way is we're also going to be able to embody um  
+**[1528.18s] English:** Digital and physical worlds in this way is that we're also going to be able to embody, um  
 **Translation:** 
 
-**[1535.24s] English:** ais as well so i think you'll also have meetings in the future where you're basically you know  
+**[1535.24s] English:** AI is as well, so I think you'll also have meetings in the future where you're basically known to be involved.  
 **Translation:** Vocabulary: embody: 体现
 
-**[1540.96s] English:** maybe you're sitting there physically and then you have you know a couple of other people who  
+**[1540.96s] English:** Maybe you're sitting there physically, and then you have a couple of other people who  
 **Translation:** 
 
-**[1544.84s] English:** are there as holograms and then you have like bob the ai who's an engineer on your team who's helping  
+**[1544.84s] English:** Are there any holograms, and then you have, like, Bob the AI, who's an engineer on your team and is helping?  
+**Translation:** Vocabulary: holograms: 全息图
+
+**[1550.14s] English:** With things, and he can now be embodied as a realistic avatar as well.  
 **Translation:** 
 
-**[1550.14s] English:** with things and he can now be embodied as a um you know as as a realistic avatar as well and  
-**Translation:** 
-
-**[1556.70s] English:** just join the meeting um and you know i think that's a really important thing to do and i think  
+**[1556.70s] English:** Just join the meeting, um, and you know, I think that's a really important thing to do, and I think  
 **Translation:** Vocabulary: avatar: 虚拟化身; embodied: 体现
 
-**[1558.18s] English:** that's a really important thing to do and i think that's a really important thing to do in that way so i think  
+**[1558.18s] English:** That's a really important thing to do, and I think that's a really important thing to do in that way, so I think.  
 **Translation:** 
 
-**[1558.96s] English:** that that  
+**[1558.96s] English:** That, that  
 **Translation:** 
 
-**[1560.00s] English:** that's going to be pretty compelling um as well so then okay so what can you do with photorealistic  
+**[1560.00s] English:** That's going to be pretty compelling, um, as well. So then, okay, so what can you do with photorealistic?  
 **Translation:** 
 
-**[1565.42s] English:** avatars compared to um kind of the more expressive ones that we have today well i think a lot of this  
-**Translation:** Vocabulary: avatars: 虚拟角色; compelling: 有说服力; expressive: 表情丰富; photorealistic: 照片般真实
+**[1565.42s] English:** Avatars, compared to the more expressive ones we have today, well, I think a lot of this  
+**Translation:** Vocabulary: avatars: 虚拟角色; compelling: 有说服力的; expressive: 表情丰富的; photorealistic: 照片级真实的
 
-**[1572.82s] English:** actually comes down to acceptance of the technology um and because all the stuff that we're doing i  
+**[1572.82s] English:** Actually, it comes down to the acceptance of the technology, um, and because all the stuff that we're doing, I  
 **Translation:** 
 
-**[1581.14s] English:** mean the the motion of your eyebrows the motion of your eyes the cheeks and and all of that there's  
+**[1581.14s] English:** Mean the motion of your eyebrows, the motion of your eyes, the cheeks, and all of that; there's  
 **Translation:** 
 
-**[1586.80s] English:** actually no reason why you couldn't do that on an expressive avatar too i mean it wouldn't look  
+**[1586.80s] English:** Actually, there's no reason why you couldn't do that on an expressive avatar, too. I mean, it wouldn't look  
 **Translation:** 
 
-**[1590.82s] English:** exactly like you but i mean you can make a cartoon version of yourself and still have it be um almost  
+**[1590.82s] English:** Exactly, like you, but I mean you can make a cartoon version of yourself and still have it be almost  
 **Translation:** 
 
-**[1596.98s] English:** as expressive but i i do think that there's this bridge between the current state of of most our  
+**[1596.98s] English:** As expressive, but I do think that there's this bridge between the current state of most of our  
 **Translation:** 
 
-**[1604.44s] English:** interactions in the physical world and where we're getting in the future with this kind of hybrid  
+**[1604.44s] English:** Interactions in the physical world, and where we're headed in the future with this kind of hybrid.  
+**Translation:** Vocabulary: hybrid: 混合体
+
+**[1608.70s] English:** Um, in the physical and digital world, I think it's going to be a lot easier for people to  
 **Translation:** 
 
-**[1608.70s] English:** um physical and digital world where i think it's going to be a lot easier for people to  
+**[1614.82s] English:** It  
 **Translation:** 
 
-**[1614.82s] English:** it  
+**[1616.80s] English:** Kind of take some of these experiences seriously, starting with photorealistic avatars.  
 **Translation:** 
 
-**[1616.80s] English:** kind of take some of these experiences seriously with the photorealistic avatars to start and then  
+**[1622.08s] English:** I'm actually really curious to see where it goes longer-term. I could see a world where.  
 **Translation:** 
 
-**[1622.08s] English:** i'm actually really curious to see where it goes longer term i could see a world where  
+**[1625.52s] English:** People stick to the photorealistic style, and maybe they modify them to make them a little bit more.  
 **Translation:** 
 
-**[1625.52s] English:** people stick to the photorealistic and maybe they modify them to make them a little bit more  
-**Translation:** 
-
-**[1629.84s] English:** interesting but maybe fundamentally we like photorealistic things um but i can also see a  
-**Translation:** Vocabulary: fundamentally: 从根本上
-
-**[1636.16s] English:** world that once people get used to the photo the photorealistic avatars and they get used to these  
-**Translation:** 
-
-**[1640.80s] English:** experiences that i i actually think that there could be a world where people actually prefer  
-**Translation:** 
-
-**[1646.80s] English:** um being able to express themselves in kind of non you know ways that aren't so tied to their  
-**Translation:** 
-
-**[1654.46s] English:** physical reality and so i that's one of the things that i'm really curious about and i don't know in  
-**Translation:** 
-
-**[1659.88s] English:** a bunch of our internal experiments on this one of the things that has i thought was psychologically  
-**Translation:** 
-
-**[1665.04s] English:** pretty interesting is people have no issues blending photorealistic stuff and not so you  
-**Translation:** Vocabulary: blending: 混合; psychologically: 心理上
-
-**[1671.26s] English:** know we can have a you know for this specific scene that we're in now we we happen to sort of  
-**Translation:** 
-
-**[1676.68s] English:** be in a world where we're able to express ourselves in a way that's not so tied to their physical reality  
-**Translation:** 
-
-**[1676.80s] English:** in a dark room um i think part of that is  
-**Translation:** 
-
-**[1680.00s] English:** aesthetic decision i think was based on the way you like to do your podcast but we've we've done  
-**Translation:** Vocabulary: aesthetic: 审美
-
-**[1684.22s] English:** experiences like this um where you have like a cartoony background but photorealistic people  
-**Translation:** 
-
-**[1692.40s] English:** who you're talking to and we seem to like people just seem to just think that that is completely  
-**Translation:** Vocabulary: cartoony: 卡通风格; photorealistic: 照片级真实
-
-**[1698.44s] English:** normal right it doesn't bother you it doesn't feel like it's weird um another thing that that  
-**Translation:** 
-
-**[1702.86s] English:** we've experienced with is um is basically you have a photorealistic avatar that you're talking to  
-**Translation:** Vocabulary: avatar: 虚拟角色
-
-**[1708.08s] English:** and then right next to them you have an expressive kind of cartoon avatar and that actually is pretty  
-**Translation:** 
-
-**[1714.26s] English:** normal too right it's it's like it's not that weird right to to basically being interacting  
-**Translation:** Vocabulary: expressive: 表情丰富
-
-**[1719.92s] English:** with with different people in different modes like that so i'm not sure i think it'll be an  
-**Translation:** 
-
-**[1724.02s] English:** interesting question to what extent these photorealistic avatars are like a key part of  
-**Translation:** Vocabulary: avatars: 虚拟化身
-
-**[1730.08s] English:** just transitioning from being comfortable in the physical world to this kind of new modern real  
-**Translation:** 
-
-**[1735.14s] English:** world that that kind of includes both the digital and physical  
-**Translation:** Vocabulary: transitioning: 转变
-
-**[1738.08s] English:** or if this is like the long-term way that it stays um that's that's a i mean i think that  
-**Translation:** 
-
-**[1743.16s] English:** they're going to be useless for both the expressive and the photorealistic over time i just don't know  
-**Translation:** 
-
-**[1746.40s] English:** what the balance is going to be yeah it's a really good interesting philosophical question but to me  
-**Translation:** 
-
-**[1751.16s] English:** in the short term the photorealistic is amazing to where i would prefer like you said the workroom  
-**Translation:** Vocabulary: philosophical: 哲学的; workroom: 工作室
-
-**[1757.62s] English:** but like on a beach with a beer just to see a buddy of mine remotely on a chair next to me  
-**Translation:** 
-
-**[1763.96s] English:** drinking a beer i mean that as realistic  
-**Translation:** Vocabulary: remotely: 远程地
-
-**[1768.08s] English:** possible is an incredible experience so i don't want any fake hats on him i don't want any just  
-**Translation:** 
-
-**[1773.52s] English:** chilling with it with a friend drinking beer looking at the ocean while not being in the  
-**Translation:** Vocabulary: chilling: 闲逛
-
-**[1778.02s] English:** same place together i mean that yeah that experience is just it's a fundamentally uh  
-**Translation:** 
-
-**[1785.98s] English:** it's just a high quality experience of friendship whatever we seek in friendship it seems to be  
+**[1629.84s] English:** Interesting, but maybe fundamentally we like photorealistic things, um, but I can also see a  
 **Translation:** Vocabulary: fundamentally: 本质上
 
-**[1791.14s] English:** present there in the same kind of realism i'm seeing right now this is this is totally a game  
+**[1636.16s] English:** World: That once people get used to the photorealistic avatars, and they get used to these,...  
 **Translation:** 
 
-**[1795.88s] English:** changer so to me this is i can see why i'm not going to be in the same place together with a  
+**[1640.80s] English:** Experiences that I actually think that there could be a world where people actually prefer.  
 **Translation:** 
 
-**[1798.08s] English:** friend and i can see myself sticking with this for a long time  
+**[1646.80s] English:** Um, being able to express themselves in kind of non-verbal ways that aren't so tied to their words.  
 **Translation:** 
 
-**[1800.00s] English:** long time yeah and and i mean it's also it's novel and it's also a technological feat right  
+**[1654.46s] English:** Physical reality, and so I that's one of the things I'm really curious about, and I don't know if...  
+**Translation:** 
+
+**[1659.88s] English:** A bunch of our internal experiments on this—one of the things that I thought was psychologically.  
+**Translation:** 
+
+**[1665.04s] English:** Pretty interesting is that people have no issues blending photorealistic stuff with things that aren't, you know.  
+**Translation:** Vocabulary: blending: 混合; experiments: 实验; photorealistic: 照片级真实的; psychologically: 心理上
+
+**[1671.26s] English:** Know, we can have a, you know, for this specific scene that we're in now. We happen to sort of  
+**Translation:** 
+
+**[1676.68s] English:** Be in a world where we're able to express ourselves in a way that's not so tied to their physical reality.  
+**Translation:** 
+
+**[1676.80s] English:** In a dark room, um, I think part of that is  
+**Translation:** 
+
+**[1680.00s] English:** An aesthetic decision, I think, was based on the way you like to do your podcast, but we've we've done  
+**Translation:** Vocabulary: aesthetic: 审美
+
+**[1684.22s] English:** Experiences like this, where you have a cartoony background but photorealistic people.  
+**Translation:** 
+
+**[1692.40s] English:** Who you're talking to, and we seem to like people just seem to think that that is completely  
+**Translation:** Vocabulary: cartoony: 卡通的
+
+**[1698.44s] English:** Normal, right? It doesn't bother you; it doesn't feel weird, um, another thing that...  
+**Translation:** 
+
+**[1702.86s] English:** We've experienced that it's basically a photorealistic avatar that you're talking to.  
+**Translation:** Vocabulary: avatar: 虚拟角色
+
+**[1708.08s] English:** And then, right next to them, you have an expressive kind of cartoon avatar, and that actually is pretty.  
+**Translation:** 
+
+**[1714.26s] English:** Normal, too, right? It's not that weird, right? To basically be interacting.  
+**Translation:** Vocabulary: expressive: 表情丰富; interacting: 互动
+
+**[1719.92s] English:** With different people in different modes, like that, so I'm not sure; I think it'll be an.  
+**Translation:** 
+
+**[1724.02s] English:** An interesting question is to what extent these photorealistic avatars are like a key part of.  
+**Translation:** Vocabulary: avatars: 虚拟化身
+
+**[1730.08s] English:** Just transitioning from being comfortable in the physical world to this kind of new, modern realm.  
+**Translation:** 
+
+**[1735.14s] English:** World that kind of includes both the digital and physical.  
+**Translation:** Vocabulary: transitioning: 转变
+
+**[1738.08s] English:** Or, if this is how it stays in the long term, that's that's a lot to consider, I mean.  
+**Translation:** 
+
+**[1743.16s] English:** They're going to be useless for both the expressive and the photorealistic over time, I just don't know.  
+**Translation:** 
+
+**[1746.40s] English:** What will the balance be? Yeah, it's a really good, interesting philosophical question, but to me,  
+**Translation:** 
+
+**[1751.16s] English:** In the short term, the photorealistic is amazing, but I would prefer, as you said, the Workroom.  
+**Translation:** Vocabulary: philosophical: 哲学的; photorealistic: 照片级真实的; workroom: 工作区
+
+**[1757.62s] English:** But, like on a beach with a beer, just to see a buddy of mine remotely on a chair next to me.  
+**Translation:** 
+
+**[1763.96s] English:** Drinking a beer, I mean that as realistic.  
+**Translation:** Vocabulary: remotely: 远程地
+
+**[1768.08s] English:** Possible is an incredible experience, so I don't want any fake hats on him; I don't want any.  
+**Translation:** 
+
+**[1773.52s] English:** Chilling with a friend, drinking beer, looking at the ocean while not being in the  
+**Translation:** Vocabulary: chilling: 闲聊
+
+**[1778.02s] English:** Same place, together. I mean, that experience is just fundamentally...  
+**Translation:** 
+
+**[1785.98s] English:** It's just a high-quality experience of friendship; whatever we seek in friendship, it seems to be.  
+**Translation:** Vocabulary: fundamentally: 本质上
+
+**[1791.14s] English:** Present, there in the same kind of realism I'm seeing right now, this is totally a game.  
+**Translation:** 
+
+**[1795.88s] English:** changer, so to me, this is why I'm not going to be in the same place together with a  
+**Translation:** 
+
+**[1798.08s] English:** Friend and I can see ourselves sticking with this for a long time.  
+**Translation:** 
+
+**[1800.00s] English:** Long time, yeah, and I mean, it's also novel and it's also a technological feat, right?  
 **Translation:** Vocabulary: sticking: 坚持
 
-**[1806.26s] English:** it's like being able to pull this off is like it's a it's like a pretty impressive and i i think to  
+**[1806.26s] English:** It's like being able to pull this off is pretty impressive, and I think that's really cool.  
 **Translation:** 
 
-**[1811.10s] English:** some degree it's just this kind of like awesome experience yeah um but i'm already sorry to  
+**[1811.10s] English:** Some degree, it's just this kind of awesome experience, yeah. Um, but I'm already sorry to.  
 **Translation:** 
 
-**[1815.92s] English:** interrupt i'm already forgetting that you're not real like this really so i am novel it's this is  
+**[1815.92s] English:** Interrupt, I'm already forgetting that you're not real, like this, really. So, I am novel; it's this, is it?  
 **Translation:** 
 
-**[1824.44s] English:** just a an avatar version of me but it's a philosophical question yes but i mean but  
-**Translation:** Vocabulary: avatar: 化身
+**[1824.44s] English:** Just an avatar version of me, but it's a philosophical question, yes, but I mean, but  
+**Translation:** Vocabulary: avatar: 虚拟化身; interrupt: 打断
 
-**[1829.48s] English:** here's some of the so i put this on this morning and i was like all right like it's like okay so  
+**[1829.48s] English:** Here's some of the stuff. So, I put this on this morning, and I was like, "All right, like, it's like, okay, so...  
 **Translation:** 
 
-**[1835.64s] English:** this my hair is a little shorter in this than my physical hair is right now i probably need to go  
+**[1835.64s] English:** This is my hair, which is a little shorter than my current physical hair. I probably need to go get it cut.  
 **Translation:** 
 
-**[1839.62s] English:** get a haircut um and like and i actually i did happen to shave this morning but but if i hadn't  
+**[1839.62s] English:** Get a haircut, um, and like, I actually did happen to shave this morning, but if I hadn't...  
 **Translation:** 
 
-**[1845.90s] English:** you know i could still have this photorealistic avatar that is that is more cleanly shaven right  
-**Translation:** Vocabulary: photorealistic: 照片般逼真
+**[1845.90s] English:** You know, I could still have this photorealistic avatar that is more cleanly shaven, right?  
+**Translation:** Vocabulary: photorealistic: 照片般逼真; shaven: 剃光的
 
-**[1850.92s] English:** even if i'm you know a few days in um physically so i do think that they're going to start to be  
+**[1850.92s] English:** Even if I'm, you know, a few days in, physically, so I do think that they're going to start to be.  
 **Translation:** 
 
-**[1857.48s] English:** these subtle questions  
+**[1857.48s] English:** These subtle questions.  
+**Translation:** Vocabulary: subtle: 细微的
+
+**[1859.48s] English:** That seeps in where the avatar is realistic, um, in the sense that this is kind of what you  
 **Translation:** 
 
-**[1859.48s] English:** that seep in where the the avatar is realistic um in in the sense of this is kind of what you  
+**[1865.64s] English:** Looked like at the time of capture, but it's not necessarily temporarily accurate to exactly what.  
+**Translation:** Vocabulary: seeps: 渗透; temporarily: 暂时
+
+**[1871.90s] English:** You look like in this moment, and I think that they're going to end up being a bunch of.  
 **Translation:** 
 
-**[1865.64s] English:** looked like at the time of capture but it's not necessarily temporarily accurate to exactly what  
-**Translation:** Vocabulary: temporarily: 暂时
-
-**[1871.90s] English:** you look like in this moment and i think that they're going to end up being um a bunch of  
+**[1877.18s] English:** Questions that come from that over time, I think, are going to be fascinating too. You mean?  
 **Translation:** 
 
-**[1877.18s] English:** questions that come from that over time that i think are going to be fascinating too you mean  
+**[1882.60s] English:** Just like the nature of our identity as who we are, are we, the people, you know, how people do like.  
 **Translation:** 
 
-**[1882.60s] English:** just like the nature of identity of who we are are we the people you know how people do like  
+**[1889.48s] English:** Our body will need the people to be for the scan; they'll try to lose some weight and look their best.  
 **Translation:** 
 
-**[1889.48s] English:** our body will the people be for the scan they'll try to lose some weight and look their best and  
+**[1894.04s] English:** Sexiest with the nice hair and everything, I mean, it does um, it does raise the question.  
 **Translation:** 
 
-**[1894.04s] English:** sexiest with the nice hair and everything like that i mean it does um it does raise the question  
+**[1901.00s] English:** Of course, if a lot of people are interacting with the digital version of ourselves, who are we really?  
+**Translation:** Vocabulary: interacting: 交互; sexiest: 最迷人
+
+**[1906.76s] English:** Are we, the entity, driving the avatar, or are we the avatar? Well, I mean, I think our physical  
 **Translation:** 
 
-**[1901.00s] English:** of you know if a lot of people interacting with the digital version of ourselves who are we really  
+**[1913.30s] English:** Bodies also fluctuate and change over time, too. So, I think there's a similar question of like:  
+**Translation:** Vocabulary: avatar: 化身; fluctuate: 波动
+
+**[1918.40s] English:** Which version of that?  
 **Translation:** 
 
-**[1906.76s] English:** are we the the entity driving the avatar or are we the avatar well i mean i think our physical  
+**[1919.48s] English:** Are we?  
 **Translation:** 
 
-**[1913.30s] English:** bodies also fluctuate and change over time too so i think there's a similar question of like  
-**Translation:** Vocabulary: fluctuate: 波动
-
-**[1918.40s] English:** which version of that  
+**[1920.00s] English:** Right. There's, there's like the, I mean, it's an interesting identity question because, all right, it's like weight fluctuates or things like that. It's like I think most people don't tend to think of themselves as, well, I don't know, it's an interesting psychological question. Some maybe do, some maybe a lot of people do think about themselves as the kind of worst version. But you know, but I think a lot of people probably think about themselves as the best version.  
 **Translation:** 
 
-**[1919.48s] English:** are we?  
+**[1945.80s] English:** And, and, and then it's like what you are on a day-to-day basis doesn't necessarily map to either of those. So I know that, yeah, there will definitely be a bunch of social scientists and folks will have to, you know, and psychologists are really going to have to understand a lot about how our perception of ourselves and others has shifted from this.  
+**Translation:** Vocabulary: fluctuates: 波动; perception: 认知; shifted: 转变
+
+**[1971.08s] English:** Well, this might be a bit of a complicated and dark question.  
 **Translation:** 
 
-**[1920.00s] English:** Right. There's, there's like the, I mean, it's, and it's interesting identity question because, all right, it's like, I don't know, it's like weight fluctuates or things like that. It's like, I think most people don't tend to think of themselves as the, well, I don't know, it's an interesting psychological question. Some, maybe some people, maybe a lot of people do think about themselves as the kind of worst version. But, you know, but I think a lot of people probably think about themselves as the best version.  
+**[1975.16s] English:** But one of the first feelings I had experiencing this is that I would love to talk to loved ones.  
 **Translation:** 
 
-**[1945.80s] English:** And, and, and then it's like what you are on a day-to-day basis doesn't necessarily map to, to, to either of those. So I know that's, yeah, there will definitely be a bunch of, a bunch of social scientists and folks will have to, you know, and psychologists are really, there's gonna be a lot to understand about how our perception of ourselves and others has shifted from this.  
-**Translation:** Vocabulary: fluctuates: 波动
-
-**[1971.08s] English:** Well, this might be a bit of a complicated and a dark question.  
+**[1981.86s] English:** And the next question I have is: I would love to talk to people who are no longer here and their loved ones.  
 **Translation:** 
 
-**[1975.16s] English:** But one of the first feelings I had experiencing this is I would love to talk to loved ones.  
-**Translation:** 
+**[1987.30s] English:** So, like, if you look into the future, do you think about whether people who pass away could still exist in the metaverse?  
+**Translation:** Vocabulary: metaverse: 多元宇宙
 
-**[1981.86s] English:** And the next question I have is I would love to talk to people who are no longer here, their loved ones.  
-**Translation:** 
-
-**[1987.30s] English:** So, like, if you look into the future, is that something you think about when people pass away, but they can still exist in the metaverse?  
-**Translation:** Vocabulary: metaverse: 虚拟世界
-
-**[1994.68s] English:** You could still have, you know, talk to your father, talk to your grandfather and grandmother and a mother once they pass away.  
+**[1994.68s] English:** You could still have, you know, talk to your father, talk to your grandfather and grandmother—and even speak with a mother once they pass away.  
 **Translation:** 
 
 **[2001.78s] English:** The power of that experience.  
@@ -1213,151 +1214,151 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2010.62s] English:** Yeah, I think that there are a lot of norms and things that people have to figure out around that.  
 **Translation:** 
 
-**[2016.22s] English:** There's probably some balance where, you know, if someone has lost a loved one and is grieving, there may be ways in which, you know, being able to interact or relive certain memories could be helpful.  
+**[2016.22s] English:** There's probably some balance where, if someone has lost a loved one and is grieving, there may be ways in which being able to interact or relive certain memories could be helpful.  
 **Translation:** 
 
-**[2030.78s] English:** But then there's also probably an extent to which it could become unhealthy.  
+**[2030.78s] English:** But then, there's also probably an extent to which it could become unhealthy.  
 **Translation:** Vocabulary: grieving: 悲伤; relive: 重温
 
 **[2035.32s] English:** And I mean, I'm not an expert in that.  
 **Translation:** 
 
-**[2037.50s] English:** So I think we'd have to study that and understand.  
+**[2037.50s] English:** So, I think we'd have to study that and understand.  
 **Translation:** 
 
-**[2040.00s] English:** it in more detail we have you know a fair amount of experience with how to handle death and identity  
+**[2040.00s] English:** It in more detail, we have you know a fair amount of experience with how to handle death and identity.  
 **Translation:** 
 
-**[2047.52s] English:** and people's digital content through social media already unfortunately right whether you know  
+**[2047.52s] English:** And people's digital content through social media is already, unfortunately, a right that we must acknowledge.  
 **Translation:** 
 
-**[2053.04s] English:** there's um you know unfortunately you know people who use our services die every day and their  
+**[2053.04s] English:** There's, um, you know, unfortunately, you know, people who use our services die every day, and their  
 **Translation:** 
 
-**[2059.16s] English:** families you know often want to have access to their profiles and we have whole protocols that  
+**[2059.16s] English:** Families, you know, often want to have access to their profiles, and we have whole protocols that  
 **Translation:** Vocabulary: profiles: 个人资料
 
-**[2064.26s] English:** we go through where you know there are certain parts of it that um that we try to memorialize  
+**[2064.26s] English:** We go through where you know there are certain parts of it that we try to memorialize.  
 **Translation:** 
 
-**[2069.46s] English:** so that way the the family can can get access to it so that way the account doesn't just go away  
-**Translation:** Vocabulary: memorialize: 追忆纪念
-
-**[2073.88s] English:** immediately but then there are other things that are you know important kind of private things that  
+**[2069.46s] English:** So, that way the family can get access to it, so that the account doesn't just go away.  
 **Translation:** 
 
-**[2078.22s] English:** that person has like we're not going to give the family access to someone's messages you know for  
+**[2073.88s] English:** Immediately, but then there are other things that are, you know, important and kind of private things that.  
 **Translation:** 
 
-**[2081.78s] English:** example so um so yeah i think that there's there's some best practices i think from the current  
+**[2078.22s] English:** That person has; we're not going to give the family access to someone's messages, you know?  
 **Translation:** 
 
-**[2088.48s] English:** digital world that will carry over but um but yeah i think that this will enable some different  
+**[2081.78s] English:** Example, so, um, so yeah, I think that there are some best practices I think from the current  
 **Translation:** 
 
-**[2093.94s] English:** things another version of this is is how this intersects with ais right because  
+**[2088.48s] English:** Digital world that will carry over, but, um, yeah, I think that this will enable some different.  
 **Translation:** 
 
-**[2099.46s] English:** i mean one of the the things that that we're really focused on is you know we we want there to  
-**Translation:** Vocabulary: intersects: 交集
-
-**[2107.10s] English:** we want the world to evolve in a way where there isn't like a single ai super intelligence but  
+**[2093.94s] English:** Things: Another version of this is how it intersects with AIS, right? Because  
 **Translation:** 
 
-**[2111.86s] English:** where you know a lot of people are empowered by having ai tools to to do their jobs and you know  
-**Translation:** Vocabulary: empowered: 赋能
+**[2099.46s] English:** I mean, one of the things that we're really focused on is that we want there to  
+**Translation:** Vocabulary: intersects: 相交
 
-**[2117.92s] English:** make their lives better and if you're a creator right and if you run a you know podcast like you  
+**[2107.10s] English:** We want the world to evolve in a way where there isn't, like, a single AI superintelligence, but  
 **Translation:** 
 
-**[2124.88s] English:** do then you know you have a big community of people who are super interested in doing this and  
+**[2111.86s] English:** Where you know a lot of people are empowered by having AI tools to do their jobs, and you know,  
 **Translation:** 
 
-**[2129.46s] English:** i know you'd love to you know cultivate that community and you interact with them online  
+**[2117.92s] English:** Make their lives better, and if you're a creator, right? And if you run a podcast, like you.  
 **Translation:** 
 
-**[2134.60s] English:** outside of the the podcast as well but i mean there's way more demand both to interact with you  
+**[2124.88s] English:** Do then, you know, you have a big community of people who are super interested in doing this, and  
+**Translation:** 
+
+**[2129.46s] English:** I know you'd love to, you know, cultivate that community and interact with them online.  
+**Translation:** 
+
+**[2134.60s] English:** Outside of the podcast as well, but I mean, there's way more demand both to interact with you.  
 **Translation:** Vocabulary: cultivate: 培养
 
-**[2139.78s] English:** and i'm sure you'd love to interact with the community more but you just are limited by the  
+**[2139.78s] English:** And I'm sure you'd love to interact with the community more, but you're just limited by the  
 **Translation:** 
 
-**[2144.48s] English:** number of hours in the day so you know at some point i think making it so that you could build  
+**[2144.48s] English:** Number of hours in the day, so you know, at some point I think making it so that you could build...  
 **Translation:** 
 
-**[2150.68s] English:** um an ai version of yourself that could interact with people you know not after you die but but  
+**[2150.68s] English:** Um, an AI version of yourself that could interact with people you know—not after you die, but  
 **Translation:** 
 
-**[2157.34s] English:** while you're here to help um you know  
+**[2157.34s] English:** While you're here to help, um, you know.  
 **Translation:** 
 
-**[2159.46s] English:** yeah  
+**[2159.46s] English:** Yeah.  
 **Translation:** 
 
-**[2160.00s] English:** help help people kind of fulfill this desire to to interact with you and your desire to build a  
+**[2160.00s] English:** Help people fulfill this desire to interact with you, and your desire to build a  
+**Translation:** Vocabulary: fulfill: 满足
+
+**[2164.86s] English:** Community, and there are a lot of interesting questions around that. Um, and you know, that's  
 **Translation:** 
 
-**[2164.86s] English:** community and there's a a lot of interesting questions around that um and you know that's  
+**[2171.36s] English:** Obviously, it's not just in the metaverse. I think we'd want to make that work.  
+**Translation:** Vocabulary: metaverse: 元宇宙
+
+**[2175.36s] English:** You know, across all the messaging platforms — WhatsApp, Messenger, and Instagram Direct.  
 **Translation:** 
 
-**[2171.36s] English:** obviously it's not just in in the metaverse i think you know we'd want to make that work  
-**Translation:** Vocabulary: metaverse: 虚拟世界
+**[2180.56s] English:** But you know, there's certainly a version of that where if you could have an avatar version,...  
+**Translation:** Vocabulary: avatar: 虚拟角色; messenger: 即时通讯工具
 
-**[2175.36s] English:** you know across all the messaging platforms you know whatsapp and messenger and instagram direct  
+**[2185.58s] English:** Of yourself in the metaverse, that people can interact with, and you could define that sort of  
 **Translation:** 
 
-**[2180.56s] English:** but you know there's certainly you know a version of that where if you could have an avatar version  
-**Translation:** Vocabulary: avatar: 虚拟化身; messenger: 即时通讯
+**[2189.42s] English:** An AI, um, version where people know that they're interacting with an AI — that it's not me.  
+**Translation:** Vocabulary: interacting: 互动
 
-**[2185.58s] English:** of yourself in the metaverse that people can interact with and you could define that sort of  
+**[2194.52s] English:** Know the physical version of you, but maybe that AI, even if they know it's an AI, is the  
 **Translation:** 
 
-**[2189.42s] English:** an ai um version where you know people know that they're interacting with an ai that it's not you  
+**[2199.58s] English:** Next, the best thing because they're probably not going to get to interact with you necessarily.  
 **Translation:** 
 
-**[2194.52s] English:** know the the kind of physical version of you but maybe that ai even if they know it's an ai is the  
+**[2203.38s] English:** Um, directly, I think that could be a really compelling experience. There's a lot of things.  
 **Translation:** 
 
-**[2199.58s] English:** next best thing because they're probably not gonna you know necessarily all get to interact with you  
-**Translation:** 
-
-**[2203.38s] English:** um directly i i think that could be a really compelling experience there's a lot of things  
-**Translation:** 
-
-**[2208.98s] English:** that we need to get right about it um that you know it's we're not ready to release the the  
+**[2208.98s] English:** That we need to get right about it is that we're not ready to release it yet.  
 **Translation:** Vocabulary: compelling: 有说服力的
 
-**[2215.00s] English:** version that a creator can can kind of build a version of themselves yet but we're starting to  
+**[2215.00s] English:** Version that a creator can kind of build a version of themselves, yet but we're starting to.  
 **Translation:** 
 
-**[2219.16s] English:** explore it and it's it's it's a great it's a great it's a great it's a great it's a great it's a great  
+**[2219.16s] English:** Explore it, and it's great! It's great! It's great! It's great! It's great!  
 **Translation:** 
 
-**[2219.40s] English:** experiment with it in terms of releasing a number of AIs that people can interact with  
+**[2219.40s] English:** Experiment with it in terms of releasing a number of AIs that people can interact with.  
 **Translation:** 
 
-**[2224.00s] English:** in different ways.  
+**[2224.00s] English:** In different ways.  
 **Translation:** 
 
-**[2225.96s] English:** And I think that that is also just going to be a very powerful set of capabilities that  
+**[2225.96s] English:** And I think that that is also going to be a very powerful set of capabilities that.  
 **Translation:** 
 
-**[2231.74s] English:** people have over time.  
+**[2231.74s] English:** People have, over time.  
+**Translation:** Vocabulary: capabilities: 能力
+
+**[2234.02s] English:** So, you've made major strides in developing these early AI personalities, with the idea  
 **Translation:** 
 
-**[2234.02s] English:** So you've made major strides in developing these early AI personalities with the idea  
+**[2241.86s] English:** Where you can talk to them across Meta apps and have interesting, unique kinds of conversations.  
+**Translation:** Vocabulary: strides: 显著进展
+
+**[2247.18s] English:** Conversations.  
 **Translation:** 
 
-**[2241.86s] English:** where you can talk to them across the meta apps and have interesting, unique kind of  
+**[2249.74s] English:** Can you describe your vision there in these early days, and what are some technical challenges you faced?  
 **Translation:** 
 
-**[2247.18s] English:** conversations.  
-**Translation:** 
-
-**[2249.74s] English:** Can you describe your vision there in these early strides and what are some technical  
-**Translation:** 
-
-**[2253.22s] English:** challenges there?  
+**[2253.22s] English:** Challenges there?  
 **Translation:** 
 
 **[2254.22s] English:** Yeah.  
@@ -1366,13 +1367,13 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2255.22s] English:** So, I mean, a lot of the vision comes from this idea that, you know, I don't think we  
 **Translation:** 
 
-**[2260.88s] English:** necessarily want there to be like one big super intelligence.  
+**[2260.88s] English:** Necessarily, we don't want there to be like one big superintelligence.  
+**Translation:** Vocabulary: superintelligence: 超级智能
+
+**[2264.16s] English:** We want to empower everyone to have more fun and accomplish their business goals.  
 **Translation:** 
 
-**[2264.16s] English:** We want to empower everyone to both have more fun, accomplish their business goals, you  
-**Translation:** 
-
-**[2269.48s] English:** know, just everything that they're trying to do.  
+**[2269.48s] English:** Know, just everything that they're trying to do.  
 **Translation:** Vocabulary: empower: 赋予权力
 
 **[2272.52s] English:** And you know, we don't tend to have one person that we work with on everything.  
@@ -1381,256 +1382,256 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2276.18s] English:** And I don't think in the future.  
 **Translation:** 
 
-**[2277.18s] English:** We're going to have, you know, one AI that we work with.  
+**[2277.18s] English:** We're going to have, you know, one AI that we'll work with.  
 **Translation:** 
 
-**[2280.00s] English:** you're going to want of a variety of these. So there are a bunch of different uses. Some will be  
+**[2280.00s] English:** You're going to want a variety of these. So, there are a bunch of different uses, and some will be  
 **Translation:** 
 
-**[2288.56s] English:** kind of more assistant oriented. There's a sort of the kind of plain and simple one that we're  
+**[2288.56s] English:** Kind of more assistant-oriented. There's a sort of plain and simple one that we're  
 **Translation:** 
 
-**[2293.84s] English:** building is called just Meta AI. It's simple. You can chat with it in any of your threads.  
+**[2293.84s] English:** Building is called just Meta AI. It's simple: you can chat with it in any of your threads.  
+**Translation:** Vocabulary: threads: 主题
+
+**[2300.24s] English:** It doesn't have a face, right? It's just kind of more vanilla and neutral and kind of factual.  
 **Translation:** 
 
-**[2300.24s] English:** It doesn't have a face, right? It's just kind of more vanilla and neutral and kind of factual,  
+**[2307.60s] English:** But it can help you with a bunch of stuff. Then there are a bunch of cases that are more  
+**Translation:** Vocabulary: vanilla: 普通的
+
+**[2314.42s] English:** Kind of business-oriented. So, let's say you want to contact a small business. Similarly,  
 **Translation:** 
 
-**[2307.60s] English:** but it can help you with a bunch of stuff. Then there are a bunch of cases that are more  
-**Translation:** Vocabulary: vanilla: 普通
-
-**[2314.42s] English:** kind of business oriented. So let's say you want to contact a small business. Similarly,  
+**[2320.96s] English:** That business probably doesn't want to have to staff someone to man the phones, and you probably  
 **Translation:** 
 
-**[2320.96s] English:** that business probably doesn't want to have to staff someone to man the phones and you probably  
-**Translation:** Vocabulary: oriented: 导向的
-
-**[2325.92s] English:** don't want to wait on the phone to talk to someone, but having someone who you can just  
+**[2325.92s] English:** Don't want to wait on the phone to talk to someone, but having someone who you can just  
 **Translation:** 
 
-**[2329.08s] English:** talk to in a natural way who can help you if you're having an issue with a product or if you  
+**[2329.08s] English:** Talk to someone in a natural way who can help you if you're having an issue with a product, or if you  
 **Translation:** 
 
-**[2334.06s] English:** want to make a reservation or if you want to buy something online.  
+**[2334.06s] English:** Want to make a reservation, or if you want to buy something online.  
 **Translation:** 
 
-**[2338.12s] English:** Having the ability to do that and have a natural conversation rather than navigate some website or  
+**[2338.12s] English:** Having the ability to do that and have a natural conversation, rather than navigate some website or  
 **Translation:** Vocabulary: navigate: 浏览
 
-**[2343.12s] English:** have to call someone and wait on hold is going to be really good both for the businesses and for  
+**[2343.12s] English:** Having to call someone and wait on hold is going to be really good for both the businesses and for  
 **Translation:** 
 
-**[2348.16s] English:** normal people who want to interact with businesses. So I think stuff like that makes sense.  
+**[2348.16s] English:** Normal people who want to interact with businesses. So, I think stuff like that makes sense.  
 **Translation:** 
 
-**[2354.00s] English:** Then there are going to be a bunch of use cases that I think are just  
+**[2354.00s] English:** Then, there are going to be a bunch of use cases that I think are just  
 **Translation:** 
 
-**[2356.54s] English:** fun, right? So I think people are going to, I think that there will be AIs that can tell jokes.  
+**[2356.54s] English:** Fun, right? So, I think people are going to have AI that can tell jokes.  
 **Translation:** 
 
-**[2363.38s] English:** You can put them into chat thread with friends. I mean, I think a lot of this, because we're like  
+**[2363.38s] English:** You can put them into a chat thread with friends. I mean, I think a lot of this, because we're like,  
 **Translation:** 
 
-**[2367.20s] English:** a social.  
+**[2367.20s] English:** A social.  
 **Translation:** 
 
-**[2368.16s] English:** I mean, we're fundamentally around helping people connect in different ways. And part of what I'm  
+**[2368.16s] English:** I mean, we're fundamentally about helping people connect in different ways. And part of what I'm  
 **Translation:** 
 
-**[2374.00s] English:** excited about is how do you enable these kind of AIs to facilitate connection between two people  
+**[2374.00s] English:** Excited about is how you enable these kinds of AIs to facilitate connections between two people.  
 **Translation:** Vocabulary: facilitate: 促进; fundamentally: 本质上
 
-**[2381.06s] English:** or more, put them in a group chat, make the group chat more interesting around whatever your  
+**[2381.06s] English:** Or more, put them in a group chat. Make the group chat more interesting around whatever your  
 **Translation:** 
 
-**[2386.90s] English:** interests are, sports, fashion, trivia, video games. I love the idea of playing. I think you  
-**Translation:** Vocabulary: trivia: 冷知识
+**[2386.90s] English:** Interests are sports, fashion, trivia, and video games. I love the idea of playing; I think you  
+**Translation:** Vocabulary: trivia: 琐碎知识
 
-**[2394.68s] English:** mentioned Baldur's Gate, an incredible game.  
+**[2394.68s] English:** Mentioned Baldur's Gate, an incredible game.  
 **Translation:** 
 
 **[2397.60s] English:** Just having an AI that you  
 **Translation:** 
 
-**[2400.00s] English:** play together with you i mean that could that seems like a small thing but it could deeply  
+**[2400.00s] English:** Play together with you—I mean, that could seem like a small thing, but it could deeply  
 **Translation:** 
 
-**[2405.54s] English:** enrich the like gaming experience i do think that ais will be will make the npc is a lot better in  
+**[2405.54s] English:** Enrich the gaming experience by making AI make NPCs a lot better.  
+**Translation:** Vocabulary: enrich: 使更加丰富
+
+**[2411.68s] English:** Games, too, so that's a separate thing that I'm pretty excited about, but, um, yeah, I mean, one.  
 **Translation:** 
 
-**[2411.68s] English:** games too so that's a a separate thing that i'm pretty excited about but um but yeah i mean one  
+**[2417.98s] English:** Of the one AI system that we've built, that just in our internal testing people have loved the most.  
 **Translation:** 
 
-**[2417.98s] English:** of the one of the ais that we've built that just in our internal testing people have loved the most  
+**[2422.28s] English:** Is like an adventure, text-based, um, like a dungeon master. Um, nice and... I think...  
 **Translation:** 
 
-**[2422.28s] English:** is like a like an adventure text-based um like a dungeon master um nice and and i i think um  
-**Translation:** 
-
-**[2432.48s] English:** you know part of what what has been fun and we talked about this a bit but we've gotten some  
-**Translation:** 
-
-**[2437.66s] English:** like real kind of cultural figures to play a bunch of these folks and be the embodiment and  
-**Translation:** 
-
-**[2442.88s] English:** the avatar of them so um so snoop dog is the dungeon master which i think is just hilarious  
-**Translation:** 
-
-**[2448.00s] English:** in terms of the next steps of you know  
-**Translation:** 
-
-**[2452.28s] English:** you mentioned snoop to create a snoop ai so basically ai personality replica  
-**Translation:** 
-
-**[2457.68s] English:** a copy or not a copy maybe um inspired by snoop what are the some of the technical challenges of  
-**Translation:** 
-
-**[2466.04s] English:** that what does that experience look like for snoop to be able to yeah so that so starting off  
-**Translation:** Vocabulary: snoop: 宋普达
-
-**[2472.28s] English:** creating new personas is easier because it doesn't need to stick exactly to what you know  
-**Translation:** 
-
-**[2481.90s] English:** that physical loads of different things we're going to be able to create new personas  
-**Translation:** 
-
-**[2482.26s] English:** you know that physical loads of different kinds of things we're going to be able to create new  
-**Translation:** 
-
-**[2482.28s] English:** physical person would want how they'd want to be represented right it's like it's just a new  
-**Translation:** 
-
-**[2485.62s] English:** character that we created so even though this is snoop in that case is you know he's um you know  
-**Translation:** 
-
-**[2490.50s] English:** he's basically an actor right he's playing the the dungeon master but it's not snoop dog right it's  
+**[2432.48s] English:** You know, part of what has been fun is what we talked about a bit, but we've gotten some  
 **Translation:** Vocabulary: dungeon: 地牢
 
-**[2494.86s] English:** it's um you know whoever the the dungeon master is um if you want to actually make it so that  
+**[2437.66s] English:** Like real cultural figures to play a bunch of these folks and be the embodiment of...  
 **Translation:** 
 
-**[2501.10s] English:** you have an ai embodying a real creator there's a whole set of things that you need to do to make  
+**[2442.88s] English:** The avatar of them, so, um, Snoop Dog is the Dungeon Master, which I think is just hilarious.  
+**Translation:** Vocabulary: avatar: 化身; embodiment: 体现; hilarious: 好笑; snoop: 斯noop
+
+**[2448.00s] English:** In terms of the next steps, you know,  
+**Translation:** 
+
+**[2452.28s] English:** You mentioned creating an AI personality replica of Snoop Dogg, so basically an AI version with his personality.  
+**Translation:** Vocabulary: replica: 复制品
+
+**[2457.68s] English:** A copy, or not a copy? Maybe inspired by Snoop—what are some of the technical challenges of?  
+**Translation:** 
+
+**[2466.04s] English:** That, what does that experience look like for Snoop to be able to? Yeah, so starting off...  
+**Translation:** 
+
+**[2472.28s] English:** Creating new personas is easier because it doesn't need to stick exactly to what you know.  
+**Translation:** 
+
+**[2481.90s] English:** That physical loads of different things we're going to be able to create new personas.  
+**Translation:** 
+
+**[2482.26s] English:** You know, that physical loads of different kinds of things we're going to be able to create new.  
+**Translation:** 
+
+**[2482.28s] English:** A physical person would want how they'd want to be represented, right? It's just a new.  
+**Translation:** 
+
+**[2485.62s] English:** Character that we created, so even though this is Snoop in that case, he's, you know,  
+**Translation:** 
+
+**[2490.50s] English:** He's basically an actor, right? He's playing the dungeon master, but it's not Snoop Dog, right?  
+**Translation:** 
+
+**[2494.86s] English:** It's, um, you know, whoever the dungeon master is. If you want to actually make it so that  
+**Translation:** 
+
+**[2501.10s] English:** You have an AI embodying a real creator; there's a whole set of things that you need to do to make  
 **Translation:** Vocabulary: embodying: 化身
 
-**[2507.78s] English:** sure that that ai is not going to say things that the creator doesn't want right and um and that  
+**[2507.78s] English:** Sure, that AI is not going to say things that the creator doesn't want, right? And um, and that  
 **Translation:** 
 
-**[2516.14s] English:** the ai is going to you know know things and be  
+**[2516.14s] English:** The AI is going to know things and be  
 **Translation:** 
 
-**[2520.00s] English:** to represent things in the way that the creator would want um the way that the creator would know  
+**[2520.00s] English:** To represent things in the way that the creator would want, um, the way that the creator would know.  
 **Translation:** 
 
-**[2524.38s] English:** um so i think that it's less of a it's less of a question around like having the avatar express  
+**[2524.38s] English:** Um, so I think that it's less of a question around whether the avatar expresses  
 **Translation:** Vocabulary: avatar: 化身
 
-**[2534.76s] English:** them i mean that that i think we're you know it's like well we have our kind of v1 of that that  
+**[2534.76s] English:** They, I mean, that I think we're you know, it's like, well, we have our kind of v1 of that.  
 **Translation:** 
 
-**[2539.34s] English:** we'll release soon um is after connect but you know that'll get better over time but a lot of  
+**[2539.34s] English:** We'll release it soon, but it's after Connect, and you know, that'll get better over time, but a lot of  
 **Translation:** 
 
-**[2545.48s] English:** this is really just about continuing to make the the models for these ais it's that they're just  
+**[2545.48s] English:** This is really just about continuing to make the models for these AIs; it's that they're just  
 **Translation:** 
 
-**[2550.60s] English:** more and more i don't know you could say like reliable or predictable in terms of what they'll  
+**[2550.60s] English:** More and more, I don't know; you could say like reliable or predictable in terms of what they'll do.  
 **Translation:** Vocabulary: predictable: 可预测的
 
-**[2556.60s] English:** communicate so that way you know when you want to create the lex um assistant ai that that your  
+**[2556.60s] English:** Communicate so that way, you know, when you want to create the lex um assistant AI, that that's  
 **Translation:** 
 
-**[2563.04s] English:** community can talk to um you can you know it's you don't program them like normal computers you're  
+**[2563.04s] English:** Community can talk to them, you know; you don't program them like normal computers, you're  
 **Translation:** 
 
-**[2569.38s] English:** training them they're ai models not not not um kind of normal computer programs but um but you  
+**[2569.38s] English:** Training them; they're AI models, not exactly normal computer programs, but...  
 **Translation:** 
 
-**[2575.08s] English:** want to get to the point where you can get to the point where you can get to the point where you  
+**[2575.08s] English:** Want to get to the point where you can get there?  
 **Translation:** 
 
-**[2575.46s] English:** get it to be predictable enough so that way you can set some parameters for it and even if it  
+**[2575.46s] English:** Get it to be predictable enough so that you can set some parameters for it, and even if it  
 **Translation:** 
 
-**[2580.84s] English:** isn't perfect all the time um you want to generally be able to stay within those bounds so that's a  
+**[2580.84s] English:** Isn't perfect all the time, um, you want to generally be able to stay within those bounds, so that's a  
+**Translation:** Vocabulary: bounds: 范围
+
+**[2587.44s] English:** A lot of, um, what I think we need to nail for the creators, and that's why that one's actually  
 **Translation:** 
 
-**[2587.44s] English:** lot of um what what i think we need to nail for for the creators and that's why that one's actually  
+**[2594.28s] English:** A much harder problem, I think, than starting with new characters that you're creating.  
 **Translation:** 
 
-**[2594.28s] English:** a much harder problem i think than starting with with uh with new characters that you're creating  
+**[2599.00s] English:** From scratch, so that one, I think will probably start releasing sometime next year, um.  
 **Translation:** 
 
-**[2599.00s] English:** from scratch so that one i think will probably um start releasing sometime next year um  
+**[2605.46s] English:** Not this year, but experimenting with existing characters, the assistant, and games and a  
+**Translation:** Vocabulary: experimenting: 尝试; scratch: 从头开始
+
+**[2610.76s] English:** A bunch of different personalities, and experimenting with some small businesses. Um, I think that that  
 **Translation:** 
 
-**[2605.46s] English:** not this year but experimenting with existing characters and the assistant and games and a  
-**Translation:** Vocabulary: experimenting: 尝试
-
-**[2610.76s] English:** bunch of different personalities and experimenting with some small businesses um i think that that  
+**[2616.70s] English:** Stuff will be ready to do this year, and we're rolling it out you know basically right after.  
 **Translation:** 
 
-**[2616.70s] English:** stuff will be ready to do this year and we're rolling it out you know basically right after  
+**[2620.48s] English:** Connect, yeah. I'm deeply entertained by the possibility of sitting down with myself.  
 **Translation:** 
 
-**[2620.48s] English:** connect yeah i'm deeply entertained by the possibility of me sitting down with myself  
+**[2626.46s] English:** And saying, "Hey, man—like, you need to stop with the dad jokes, or whatever—the idea of a podcast between you and...  
+**Translation:** Vocabulary: entertained: 感到有趣
+
+**[2635.46s] English:** AI Assistant Lex Podcast  
 **Translation:** 
 
-**[2626.46s] English:** and saying hey man like you need to stop the dad jokes or whatever the idea of a podcast between you  
-**Translation:** 
+**[2640.00s] English:** I mean, there is just the experience of a Kodak Avatar, where you can freeze yourself and basically mimic yourself.  
+**Translation:** Vocabulary: avatar: 化身
 
-**[2635.46s] English:** ai assistant lex podcast  
-**Translation:** 
-
-**[2640.00s] English:** I mean, there is just even the experience of a Kodak Avatar, being able to freeze yourself, like basically first mimic yourself.  
-**Translation:** 
-
-**[2648.10s] English:** So everything you do, you get to see yourself do it.  
+**[2648.10s] English:** So, everything you do, you get to see yourself do it.  
 **Translation:** 
 
 **[2650.66s] English:** That's a surreal experience.  
 **Translation:** Vocabulary: surreal: 超现实的
 
-**[2652.26s] English:** It feels like if I was like an ape looking in a mirror for the first time, realizing like, oh, that's you.  
+**[2652.26s] English:** It feels like if I were an ape looking in a mirror for the first time, realizing, oh, that's you.  
 **Translation:** 
 
-**[2658.62s] English:** But then freezing that and being able to look around like I'm looking at you.  
+**[2658.62s] English:** But then, freezing that and being able to look around as if I'm looking at you.  
 **Translation:** 
 
-**[2663.64s] English:** It's a I don't know how to put it into words, but it just feels like a fundamentally new experience.  
+**[2663.64s] English:** It's a bit hard to put into words, but it just feels like a fundamentally new experience.  
 **Translation:** 
 
 **[2669.00s] English:** Like I'm seeing maybe color for the first time.  
-**Translation:** Vocabulary: fundamentally: 从根本上
+**Translation:** Vocabulary: fundamentally: 根本上
 
-**[2671.76s] English:** I'm seeing I'm experiencing a new way of seeing the world for the first time because it's physical reality, but it's digital.  
+**[2671.76s] English:** I'm seeing and experiencing a new way of seeing the world for the first time because it's physical reality, but it's digital.  
 **Translation:** 
 
-**[2682.56s] English:** Like and realizing that that's possible is just it's blowing my mind.  
+**[2682.56s] English:** Like and realizing that that's possible is just blowing my mind.  
 **Translation:** 
 
-**[2688.34s] English:** It's just really exciting because I live most of my life, you know, before the Internet and experiencing the Internet, experiencing voice communication and video communication.  
+**[2688.34s] English:** It's just really exciting because I lived most of my life, you know, before the Internet, and experienced it after, including voice and video communication.  
 **Translation:** 
 
-**[2699.00s] English:** And you think like, well, there's a ceiling to this, but this is making me feel like there might not be.  
+**[2699.00s] English:** And you think, like, well, there's a ceiling to this, but this is making me feel like there might not be.  
+**Translation:** Vocabulary: ceiling: 上限
+
+**[2705.78s] English:** There might be a blend of physical reality and digital reality.  
 **Translation:** 
 
-**[2705.78s] English:** There might be that blend of physical reality and digital reality.  
-**Translation:** 
-
-**[2709.34s] English:** It's actually what the future is.  
+**[2709.34s] English:** It's actually what the future will be.  
 **Translation:** 
 
 **[2712.38s] English:** Yeah, I think it's a weird experience.  
 **Translation:** 
 
-**[2713.96s] English:** It feels like the early days of like a totally new way of living.  
+**[2713.96s] English:** It feels like the early days of a totally new way of living.  
 **Translation:** 
 
-**[2720.16s] English:** And like there's a lot of people that kind of complain.  
+**[2720.16s] English:** And, like, there are a lot of people who kind of complain.  
 **Translation:** 
 
-**[2722.04s] English:** Well, you know, the Internet is not that's not reality.  
+**[2722.04s] English:** Well, you know, the Internet is not that; it's not reality.  
 **Translation:** 
 
 **[2726.78s] English:** You need to turn all that off and go.  
@@ -1639,22 +1640,22 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2729.00s] English:** You know, in nature.  
 **Translation:** 
 
-**[2729.92s] English:** But this feels like this will make those people happy.  
+**[2729.92s] English:** But this feels like it will make those people happy.  
 **Translation:** 
 
-**[2733.58s] English:** I feel like because it feels real.  
+**[2733.58s] English:** I feel like it feels real.  
 **Translation:** 
 
-**[2735.92s] English:** The flaws and everything.  
+**[2735.92s] English:** The flaws, and everything.  
 **Translation:** 
 
 **[2737.52s] English:** Yeah.  
 **Translation:** 
 
-**[2737.72s] English:** Well, I mean, a big part of how we're trying to design this, these new computing products is that they should be physical.  
+**[2737.72s] English:** Well, I mean, a big part of how we're trying to design these new computing products is that they should be physical.  
 **Translation:** 
 
-**[2744.72s] English:** I think that's a big part of the issue with computers and TVs and even phones is like, yeah, I mean, maybe you can interact with them in different places, but they're fundamentally like you're sitting, you're still.  
+**[2744.72s] English:** I think that's a big part of the issue with computers and TVs, and even phones: yeah, I mean, maybe you can interact with them in different places, but they're fundamentally like—you're still sitting, you're still.  
 **Translation:** Vocabulary: computing: 计算
 
 **[2756.76s] English:** And I mean, people are just not meant to be that way.  
@@ -1663,53 +1664,53 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2759.00s] English:** I mean, I think you and I.  
 **Translation:** 
 
-**[2760.00s] English:** I have this shared passion for sports and martial arts and doing stuff like that.  
+**[2760.00s] English:** I have this shared passion for sports and martial arts, and doing stuff like that.  
 **Translation:** 
 
 **[2765.34s] English:** We're just moving around.  
 **Translation:** Vocabulary: martial: 武术
 
-**[2766.44s] English:** It's like so much of what makes us people is like, you know, you move around.  
+**[2766.44s] English:** It's like so much of what makes us people is, you know, just moving around.  
 **Translation:** 
 
-**[2770.24s] English:** You're not, we're not just like a brain in a tank, right?  
+**[2770.24s] English:** You're not just like a brain in a tank, right?  
 **Translation:** 
 
-**[2772.40s] English:** It's the, where, you know, the human experience is a physical one.  
+**[2772.40s] English:** It's the place where, you know, the human experience is a physical one.  
 **Translation:** 
 
-**[2776.36s] English:** And so it's not just about having the immersive expression of the digital world.  
-**Translation:** Vocabulary: immersive: 身临其境
+**[2776.36s] English:** And so, it's not just about having the immersive expression of the digital world.  
+**Translation:** Vocabulary: immersive: 沉浸式的
 
 **[2781.50s] English:** It's about being able to really natively bring that together.  
 **Translation:** 
 
-**[2784.26s] English:** And, and it, I do really think that the, the real world is this mix of the physical and the digital, right?  
-**Translation:** Vocabulary: natively: 本源地
+**[2784.26s] English:** And, and I do really think that the real world is this mix of the physical and the digital, right?  
+**Translation:** Vocabulary: natively: 天生地
 
-**[2791.26s] English:** The digital is, there's too much digital at this point for it to just be solid to a small screen, but the physical is too important.  
+**[2791.26s] English:** The digital is too much at this point for it to just be solid on a small screen, but the physical is too important.  
 **Translation:** 
 
-**[2797.38s] English:** So you don't want to just sit down all day long at a desk.  
+**[2797.38s] English:** So, you don't want to just sit down all day long at a desk.  
 **Translation:** 
 
-**[2801.46s] English:** So I think that this is a, yeah, I do think that this is the future.  
+**[2801.46s] English:** So, I think that this is the future, yeah. I do think that this is the future.  
 **Translation:** 
 
-**[2806.10s] English:** This is, I think the kind of philosophical way that I would want the world to work in the future is a much more coherently blended physical.  
-**Translation:** Vocabulary: coherently: 条理清晰; philosophical: 哲学的
+**[2806.10s] English:** This is, I think, the kind of philosophical way that I would want the world to work in the future: a much more coherently blended physical.  
+**Translation:** Vocabulary: blended: 融合; coherently: 连贯地; philosophical: 哲学的
 
-**[2814.26s] English:** And digital world, there might be some difficult philosophical and unethical questions we have to figure out as a society.  
+**[2814.26s] English:** And in the digital world, there might be some difficult philosophical and ethical questions we have to figure out as a society.  
 **Translation:** 
 
 **[2822.74s] English:** Maybe you can comment on this.  
-**Translation:** Vocabulary: unethical: 不道德的
-
-**[2824.66s] English:** So the, the metaverse seems to enable sort of unlock a lot of experiences that we don't have in the physical world.  
 **Translation:** 
 
-**[2833.46s] English:** And the question is like, what is, and isn't allowed in the metaverse?  
-**Translation:** Vocabulary: metaverse: 元宇宙
+**[2824.66s] English:** So the metaverse seems to enable and unlock a lot of experiences that we don't have in the physical world.  
+**Translation:** 
+
+**[2833.46s] English:** And the question is: What is, and isn't allowed in the metaverse?  
+**Translation:** Vocabulary: metaverse: 元宇宙; unlock: 解锁
 
 **[2838.80s] English:** You know, in video games, we allow all kinds of crazy stuff.  
 **Translation:** 
@@ -1717,7 +1718,7 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2845.14s] English:** And in physical reality, you know, a lot of that is illegal.  
 **Translation:** 
 
-**[2849.82s] English:** So where's that line?  
+**[2849.82s] English:** So, where's that line?  
 **Translation:** 
 
 **[2851.30s] English:** Where's that gray area between video game and physical reality?  
@@ -1726,175 +1727,175 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[2854.46s] English:** Do you have a sense of that?  
 **Translation:** 
 
-**[2856.86s] English:** Well, I think, I mean, there are, there are content policies and things like that, right?  
+**[2856.86s] English:** Well, I think I mean, there are content policies and things like that, right?  
 **Translation:** 
 
-**[2860.30s] English:** In terms of what, what people are allowed to create.  
+**[2860.30s] English:** In terms of what people are allowed to create.  
 **Translation:** 
 
-**[2862.74s] English:** But I mean, a lot of the rules around physical, I think you try to have a society that is as free as possible, meaning that people can do as much of what they want, unless you're going to do damage to other people.  
+**[2862.74s] English:** But I mean, a lot of the rules around physical activity, I think you try to have a society that is as free as possible, meaning that people can do as much of what they want, unless you're going to do damage to other people.  
 **Translation:** 
 
-**[2874.26s] English:** And, and infringe on, on their rights.  
+**[2874.26s] English:** And, and infringe upon their rights.  
 **Translation:** 
 
 **[2877.50s] English:** And the idea of damage is somewhat different.  
 **Translation:** Vocabulary: infringe: 侵犯
 
-**[2880.00s] English:** in a in a digital environment i mean when i get into you know some world with my friends the the  
+**[2880.00s] English:** In a digital environment, I mean when I get into, you know, some world with my friends, the  
 **Translation:** 
 
-**[2886.88s] English:** first thing we start doing is shooting each other which obviously we would not do in the physical  
+**[2886.88s] English:** First, we start doing is shooting each other, which obviously we would not do in the physical world.  
 **Translation:** 
 
-**[2890.04s] English:** world because you'd hurt each other um but in in a game that's like just it's almost you know it's  
+**[2890.04s] English:** World, because you'd hurt each other, um, but in a game, that's like just—it's almost, you know.  
 **Translation:** 
 
-**[2896.46s] English:** like just fun and um and even like the lobby of a game right it's like it's just it's not even  
+**[2896.46s] English:** Like, just for fun, and even in the lobby of a game, it's like—it's not even.  
 **Translation:** 
 
-**[2902.16s] English:** bearing on the game it's just kind of like a funny um sort of humorous thing to do so it's like is  
+**[2902.16s] English:** Bearing on the game, it's just kind of like a funny, um, sort of humorous thing to do, so it's like "is  
 **Translation:** 
 
-**[2907.32s] English:** that is that problematic i don't think so because it's it's fundamentally it's not you're not  
-**Translation:** Vocabulary: fundamentally: 本质上
+**[2907.32s] English:** That is problematic. I don't think so, because it's fundamentally not something you're required to do.  
+**Translation:** Vocabulary: bearing: 关联; fundamentally: 本质上; humorous: 幽默
 
-**[2911.34s] English:** causing harm in that world so i think that the um part of the question that i think we need to  
+**[2911.34s] English:** Causing harm in that world, so I think that the um part of the question that we need to  
 **Translation:** 
 
-**[2916.76s] English:** figure out is what are the ways where things could have been harmful in the physical world  
+**[2916.76s] English:** The figure out is what are the ways in which things could have been harmful in the physical world.  
 **Translation:** 
 
-**[2922.92s] English:** that will now be freed from that and therefore there should be fewer restrictions in the digital  
+**[2922.92s] English:** That will now be freed from that, and therefore, there should be fewer restrictions in the digital.  
 **Translation:** 
 
-**[2926.52s] English:** world um and then there might be new ways in which there could be harm in the digital world that  
+**[2926.52s] English:** World, um, and then there might be new ways in which there could be harm in the digital world that.  
 **Translation:** 
 
-**[2932.76s] English:** there weren't the case before so there's more anonymity right it's um you know when you when  
+**[2932.76s] English:** There weren't any cases like this before, so there's more anonymity now. It's kind of like when  
 **Translation:** 
 
-**[2937.16s] English:** you shoot each other it's like it's like it's like it's like it's like it's like it's like it's  
+**[2937.16s] English:** You shoot each other; it's like, it's like, it's like, it's like, it's like.  
 **Translation:** Vocabulary: anonymity: 匿名性
 
-**[2937.30s] English:** show up to a you know a restaurant or something it's like all the norms where you pay the bill at  
+**[2937.30s] English:** Show up to a restaurant or something, it's like all the norms where you pay the bill at.  
 **Translation:** 
 
-**[2941.84s] English:** the end it's because you know you you uh you have one identity and you know the you know if you if  
+**[2941.84s] English:** The end; it's because you know, you know, you have one identity, and you know, if you  
 **Translation:** 
 
-**[2947.88s] English:** you stiff them then like you know life is a repeat game and that's not going to work out well for you  
+**[2947.88s] English:** You'll stiff them, then, like you know, life is a repeat game, and that's not going to work out well for you.  
 **Translation:** 
 
-**[2953.22s] English:** but you know in a digital world where you can be anonymous and show up in different ways um i think  
+**[2953.22s] English:** But, you know, in a digital world where you can be anonymous and show up in different ways, um, I think  
+**Translation:** Vocabulary: anonymous: 匿名
+
+**[2958.80s] English:** The incentive to act like a good citizen can be a lot less, and that causes a lot of issues.  
 **Translation:** 
 
-**[2958.80s] English:** the incentive to act like a good citizen can be a lot less and that causes a lot of issues and  
+**[2963.78s] English:** Toxic behavior, so that needs to get sorted out, um.  
+**Translation:** Vocabulary: incentive: 动机; sorted: 整理
+
+**[2967.30s] English:** So, I think in terms of what is allowed, I think you want to just look at what, what, and what are the  
 **Translation:** 
 
-**[2963.78s] English:** toxic behavior so that needs to get sorted out um  
-**Translation:** Vocabulary: incentive: 动机
-
-**[2967.30s] English:** so i think in terms of what is allowed i think you want to just look at what what what are the  
+**[2972.24s] English:** The damages, but then there are also other things that are not related to any kind of harm, you know.  
 **Translation:** 
 
-**[2972.24s] English:** the damages but then there's also other things that are not related to kind of harm you know  
+**[2978.46s] English:** Less about what should be allowed, and more about what will be possible, that are more about the laws.  
 **Translation:** 
 
-**[2978.46s] English:** less about what should be allowed and more about what will be possible that are more about the laws  
+**[2983.36s] English:** Of physics, right? It's like if you wanted to travel to see me in person, you'd have to get on a plane.  
 **Translation:** 
 
-**[2983.36s] English:** of physics right it's like if you wanted to travel uh to see me in person you'd have to get on a plane  
+**[2989.46s] English:** And that would take a few hours to get here, whereas we could just jump in.  
 **Translation:** 
 
-**[2989.46s] English:** and and that would like you know take a few hours to get here whereas you know we could just jump in  
+**[2995.98s] English:** A conference room, and you know, you could just jump in a conference room, and you know,  
 **Translation:** 
 
-**[2995.98s] English:** a conference room and you know you could just jump in a conference room and you know you could  
+**[2997.30s] English:** You know, put on these headsets, and we  
 **Translation:** 
 
-**[2997.30s] English:** you know put on these headsets and we  
+**[3000.00s] English:** Basically, we were teleported into a space where it feels like we're together, so that's a very  
+**Translation:** Vocabulary: headsets: 耳机; teleported: 被传送
+
+**[3005.84s] English:** A novel experience that, um, breaks down some things that previously would have defied the  
 **Translation:** 
 
-**[3000.00s] English:** basically teleported into a space where we're you know it feels like we're together so that's a very  
-**Translation:** Vocabulary: headsets: 耳机; teleported: 传送
+**[3012.32s] English:** Laws of physics for what it would take to get together, and I think that will create a lot.  
+**Translation:** Vocabulary: defied: 违背
 
-**[3005.84s] English:** novel experience that um that it it breaks down some things that previously would have defied the  
+**[3016.38s] English:** Of new opportunities, right? So, um, and one of the things I'm curious about is, you know, there...  
 **Translation:** 
 
-**[3012.32s] English:** laws of physics for what it would take to get together and i think that that will create a lot  
+**[3021.40s] English:** Are all these debates right now about, you know, remote work or people being together, and you know,  
 **Translation:** 
 
-**[3016.38s] English:** of new opportunities right so um and one of the things that i'm curious about is you know there  
+**[3026.36s] English:** I think this gets us a lot closer to being able to work physically in different places, but actually  
 **Translation:** 
 
-**[3021.40s] English:** are all these debates right now about you know remote work or people being together and you know  
+**[3031.46s] English:** Have it feel like we're together, um, so you know, I think that the dream is that people will.  
 **Translation:** 
 
-**[3026.36s] English:** i think this gets us a lot closer to being able to work physically in different places but actually  
+**[3037.04s] English:** One day, we will be able to just work wherever we want, but we'll still have all the same opportunities because  
 **Translation:** 
 
-**[3031.46s] English:** have it feel like we're together um so you know i think that the dream is that is that people will  
+**[3041.60s] English:** You'll be able to feel like you're physically together. I think we're not there today, though.  
 **Translation:** 
 
-**[3037.04s] English:** one day be able to just work wherever they want but we'll have all the same opportunities because  
+**[3045.08s] English:** With just video conferencing and the basic technologies that we have, but I think part of the  
 **Translation:** 
 
-**[3041.60s] English:** you'll be able to feel like you're physically together i think we're not there today with  
-**Translation:** 
-
-**[3045.08s] English:** with um with just video conferencing and the basic technologies that we have but i think part of the  
-**Translation:** 
-
-**[3050.04s] English:** idea is that with something like this over time you could get closer to that and that would open  
+**[3050.04s] English:** The idea is that, with something like this over time, you could get closer to that, and that would open  
 **Translation:** Vocabulary: conferencing: 会议
 
-**[3054.08s] English:** up a lot of opportunities right because then people could live  
+**[3054.08s] English:** Up a lot of opportunities, right? Because then people could live  
 **Translation:** 
 
-**[3056.34s] English:** physically where they want while still being able to get the benefits of being physically or kind  
+**[3056.34s] English:** Physically where they want, while still being able to get the benefits of being physically active or kind.  
 **Translation:** 
 
-**[3062.34s] English:** of feeling like you're together um with people at work all the ways that that helps to build more  
+**[3062.34s] English:** Of feeling like you're together, um, with people at work—all the ways that that helps to build more.  
 **Translation:** 
 
-**[3067.84s] English:** culture and build better relationships and build trust um which i think are real issues that if  
+**[3067.84s] English:** Culture and build better relationships and build trust, um, which I think are real issues that if  
 **Translation:** 
 
-**[3073.20s] English:** you're not seeing people you know in in person ever so yeah i don't know i think it's going to  
+**[3073.20s] English:** You're not seeing people, you know, in person ever so often, so yeah, I don't know, I think it's going to...  
 **Translation:** 
 
-**[3078.24s] English:** be it's very hard from first principles to think about all the implications of um of a technology  
+**[3078.24s] English:** It's very hard from first principles to think about all the implications of a technology.  
+**Translation:** Vocabulary: implications: 影响
+
+**[3086.06s] English:** Like that, so I think it's going to be.  
 **Translation:** 
 
-**[3086.06s] English:** like that so i think it's going to be it's going to be it's going to be it's going to be  
+**[3086.32s] English:** Like this, and you know, all the good things and the things that you need to mitigate, so you try to.  
 **Translation:** 
 
-**[3086.32s] English:** like this and you know all the good and and and the things that you need to mitigate so you try to  
-**Translation:** Vocabulary: mitigate: 减轻
-
-**[3091.42s] English:** do your best to kind of envision what things are going to be like and accentuate the things that  
+**[3091.42s] English:** Do your best to kind of envision what things are going to be like, and accentuate the things that  
 **Translation:** 
 
-**[3095.98s] English:** they're going to be awesome and hopefully mitigate some of the the downside things but i you know it's  
-**Translation:** Vocabulary: accentuate: 强调; downside: 负面; envision: 想象
+**[3095.98s] English:** They're going to be awesome and hopefully mitigate some of the downside things, but I, you know, it's  
+**Translation:** Vocabulary: accentuate: 强调; downside: 负面; envision: 想象; mitigate: 减轻
 
-**[3100.78s] English:** the reality is that we're going to be building this out one year at a time it's going to take  
+**[3100.78s] English:** The reality is that we're going to be building this out one year at a time; it's going to take  
 **Translation:** 
 
-**[3104.20s] English:** a while um so we're going to just get to see how how it evolves and what developers and different  
+**[3104.20s] English:** A while ago, um, so we're going to just get to see how it evolves and what developers and different approaches bring to the table.  
+**Translation:** Vocabulary: approaches: 方法; evolves: 发展
+
+**[3110.14s] English:** Folks, do with it, uh, if you could comment, this might be a bit of a very specific.  
 **Translation:** 
 
-**[3110.14s] English:** folks do with it uh if you could comment this might be a a bit of a very specific  
-**Translation:** 
-
-**[3116.32s] English:** technical question but llama 2 is incredible it's the  
+**[3116.32s] English:** Technical question: but Llama 2 is incredible; it's the  
 **Translation:** Vocabulary: llama: 羊驼
 
 **[3120.00s] English:** You've released it recently.  
 **Translation:** 
 
-**[3123.76s] English:** There's already been a lot of exciting developments around it.  
+**[3123.76s] English:** There have already been a lot of exciting developments around it.  
 **Translation:** 
 
 **[3127.90s] English:** What's your sense about its release?  
@@ -1903,29 +1904,29 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[3130.42s] English:** And is there a Lama 3 in the future?  
 **Translation:** 
 
-**[3134.94s] English:** Yeah, I mean, I think on the last podcast that we did together, we were talking about the debate that we were having around open sourcing Lama 2.  
+**[3134.94s] English:** Yeah, I mean, I think on the last podcast that we did together, we were talking about the debate we were having around open-sourcing Lama 2.  
 **Translation:** 
 
 **[3141.82s] English:** And I'm glad that we did.  
-**Translation:** Vocabulary: sourcing: 采购
-
-**[3144.38s] English:** I think at this point, the value of open sourcing a foundation model like Lama 2 is significantly greater than the risks, in my view.  
 **Translation:** 
 
-**[3157.34s] English:** I mean, we spent a lot of time doing a very rigorous assessment of that and red teaming it.  
-**Translation:** Vocabulary: rigorous: 严谨的
+**[3144.38s] English:** I think, at this point, the value of open-sourcing a foundation model like LAMA 2 is significantly greater than the risks, in my view.  
+**Translation:** 
+
+**[3157.34s] English:** I mean, we spent a lot of time doing a very rigorous assessment of that and red-teaming it.  
+**Translation:** Vocabulary: rigorous: 严格的
 
 **[3162.68s] English:** But I'm very glad that we released Lama 2.  
 **Translation:** 
 
-**[3165.02s] English:** I think the reception has been, it's just been really exciting to see how excited people have been about it.  
+**[3165.02s] English:** I think the reception has been really exciting to see how excited people have been about it.  
 **Translation:** 
 
 **[3172.46s] English:** And it's gotten way more downloads and usage than I would have even expected.  
 **Translation:** 
 
 **[3178.68s] English:** And I was pretty optimistic about it.  
-**Translation:** 
+**Translation:** Vocabulary: downloads: 下载; optimistic: 乐观
 
 **[3181.62s] English:** That's been great.  
 **Translation:** 
@@ -1933,406 +1934,406 @@ Source file: Lex Fridman - Mark Zuckerberg： First Interview in the Metaverse �
 **[3185.40s] English:** Lama 3, I mean, there's always another model that we're training.  
 **Translation:** 
 
-**[3191.28s] English:** So, I mean, for right now, we train Lama 2 and we released it as an open source model.  
+**[3191.28s] English:** So, I mean, for now, we train LAMA 2 and we've released it as an open-source model.  
 **Translation:** 
 
 **[3198.08s] English:** And right now, the priority is building that into a bundle.  
-**Translation:** Vocabulary: bundle: 打包发布
+**Translation:** Vocabulary: bundle: 捆绑包
 
-**[3202.46s] English:** A bunch of the consumer products, all the different AIs and a bunch of different products that we're basically building as consumer products.  
+**[3202.46s] English:** A bunch of consumer products, all the different AIs, and a bunch of other products that we're basically building as consumer products.  
 **Translation:** 
 
-**[3210.74s] English:** Because Lama 2 by itself, it's not a consumer product, right?  
+**[3210.74s] English:** Because Lama 2 by itself is not a consumer product, right?  
 **Translation:** 
 
 **[3213.06s] English:** It's more of a piece of infrastructure that people could build things with.  
 **Translation:** 
 
-**[3216.44s] English:** So that's been the big priority is kind of continuing to fine tune and kind of just get Lama 2 and its little branches that we've built off of it ready for consumer products that hopefully,  
+**[3216.44s] English:** So that's been the big priority: to continue to fine-tune and just get LAMA 2 and its little branches that we've built off of it ready for consumer products, that hopefully,  
 **Translation:** 
 
-**[3232.46s] English:** you know, hundreds of millions of people will enjoy using those products and billions one day.  
+**[3232.46s] English:** You know, hundreds of millions of people will enjoy using those products, and billions one day.  
 **Translation:** 
 
-**[3238.30s] English:** But yeah, I mean, we're also working.  
+**[3238.30s] English:** But, yeah, I mean, we're also working.  
 **Translation:** 
 
-**[3240.00s] English:** on on the future foundation models and um and i don't have anything new or news news on that i  
+**[3240.00s] English:** On the future of foundation models, and I don't have anything new or news on that yet.  
 **Translation:** 
 
-**[3248.84s] English:** don't know and i don't know exactly when it's going to be ready um i think just like we had a  
+**[3248.84s] English:** Don't know, and I don't know exactly when it's going to be ready. Um, I think just like we had a  
 **Translation:** 
 
-**[3253.64s] English:** debate around llama 2 and open sourcing it um i think we'll we'll need to have a similar debate  
+**[3253.64s] English:** Debate around Llama 2 and open-sourcing it, I think we'll need to have a similar debate.  
 **Translation:** 
 
-**[3260.34s] English:** and process to red team this and make sure that this is safe but and my hope is that we'll be  
+**[3260.34s] English:** And we will process this through the red team to make sure it's safe, but my hope is that we'll be  
 **Translation:** Vocabulary: llama: 羊驼
 
-**[3264.88s] English:** able to to open source this next version when it's ready too but um but that's not that we're not  
+**[3264.88s] English:** Able to open source this next version when it's ready, too, but um, but that's not that we're not.  
 **Translation:** 
 
-**[3269.74s] English:** we're not you know close to doing that this month i mean this is um that's just it's a thing that  
+**[3269.74s] English:** We're not, you know, close to doing that this month. I mean, that's just it's a thing that...  
 **Translation:** 
 
-**[3274.46s] English:** we're we're still somewhat early in working on well in general thank you so much for open sourcing  
+**[3274.46s] English:** We're still somewhat early in working on it, generally. Thank you so much for open sourcing.  
 **Translation:** 
 
-**[3280.22s] English:** llama 2 and for being transparent about all the exciting developments around ai i feel like that's  
-**Translation:** Vocabulary: sourcing: 采购; transparent: 透明
+**[3280.22s] English:** Llama 2, and for being transparent about all the exciting developments around AI, I feel like that's  
+**Translation:** Vocabulary: sourcing: 开源; transparent: 透明的
 
-**[3287.96s] English:** contributing to a really awesome conversation about where we go with ai and obviously it's  
+**[3287.96s] English:** Contributing to a really awesome conversation about where we go with AI, and obviously it's  
 **Translation:** 
 
-**[3293.44s] English:** really interesting to see all the same kind of technology integrated into these personalized  
+**[3293.44s] English:** It's really interesting to see all the same kind of technology integrated into these personalized solutions.  
+**Translation:** Vocabulary: integrated: 融合
+
+**[3298.48s] English:** AI systems  
 **Translation:** 
 
-**[3298.48s] English:** ai systems  
+**[3299.74s] English:** Uh, with the AI personas, which I think will, when you put them in people's hands and they get...  
 **Translation:** 
 
-**[3299.74s] English:** uh with the with the ai personas which i think will when you put in people's hands and they get  
+**[3305.28s] English:** To have conversations with these AI personas, you get to see some interesting failure cases like.  
 **Translation:** 
 
-**[3305.28s] English:** to have conversations with these ai personas you get to see like interesting failure cases like  
+**[3311.64s] English:** Where the things are dumb, or they go into weird directions, and we get to learn as a society.  
 **Translation:** 
 
-**[3311.64s] English:** where the things are dumb or they go into weird directions or and we get to learn as a society  
+**[3316.72s] English:** Together, what's too far? What's interesting? What's fun? How much personalization is good? How  
 **Translation:** 
 
-**[3316.72s] English:** together what's what's too far what's interesting what's fun how much personalization is good how  
+**[3324.04s] English:** Much of it is good, and we get to learn all of this. You probably don't know this yourself.  
 **Translation:** 
 
-**[3324.04s] English:** much generic is good and we get to learn all of this and you probably don't know this yourself  
+**[3327.84s] English:** Like, we have to all figure it out by  
 **Translation:** 
 
-**[3327.84s] English:** like we have to all figure it out by  
+**[3329.74s] English:** Using it right, yeah. I mean, part of what we're trying to do with the initial...  
 **Translation:** 
 
-**[3329.74s] English:** using it right yeah i mean part of what we're trying to do with the initial  
+**[3333.78s] English:** AI's launch is, um, having a diversity of different use cases just so that people can try different ones.  
 **Translation:** 
 
-**[3333.78s] English:** ai's launch is um having a diversity of different use cases just so that people can try different  
+**[3341.04s] English:** Things because I don't know what's going to work. I mean, are people going to like playing?  
 **Translation:** 
 
-**[3341.04s] English:** things because i don't know what's going to work i mean are people going to like playing  
+**[3343.76s] English:** In the text-based adventure games, or are they going to now have a comedian who can  
 **Translation:** 
 
-**[3343.76s] English:** in the text-based adventure games or are they going to now like having a comedian who who can  
+**[3350.76s] English:** Add jokes to threads, or they can want to interact with historical figures, you know.  
+**Translation:** Vocabulary: threads: 情节线
+
+**[3357.00s] English:** We made one of Jane Austen, and one of Eddie Kaulick, who's been the director of the  
 **Translation:** 
 
-**[3350.76s] English:** add jokes um to threads or they can want to interact with historical figures um you know  
+**[3357.74s] English:** Jane Austen Project, and the Jane Austen Project is out in the works; will it be released soon? (in the description)  
+**Translation:** Vocabulary: austen: 简·奥斯汀; kaulick: 埃迪·考利克
+
+**[3357.92s] English:** There are all kinds of upcoming projects and really exciting adventures taking place, and  
 **Translation:** 
 
-**[3357.00s] English:** we made we made one of jane austen and one of eddie kaulick who's been the director of the  
+**[3358.42s] English:** Other things that are going to be added to the project; you're going to wake up, it's going to be a  
+**Translation:** Vocabulary: upcoming: 即将发生的
+
+**[3359.50s] English:** A little bit of thinking about the things that are going to be added to it, where they are going to bet on each.  
 **Translation:** 
 
-**[3357.74s] English:** jane austen project and the jane austen project is out in the worksrill us and in the description  
-**Translation:** Vocabulary: austen: 简·奥斯汀; eddie: 埃迪
-
-**[3357.92s] English:** there's all kinds of upcoming projects really exciting adventures that are taking place and  
+**[3359.74s] English:** Of  
 **Translation:** 
 
-**[3358.42s] English:** other things that are going to be added to the project you're going to wake up it's going to be a  
-**Translation:** Vocabulary: upcoming: 即将来临的
-
-**[3359.50s] English:** little bit of a thinking of the things that are going to be added to it where the are going to bet on each  
+**[3360.00s] English:** Marcus Aurelius, and I'm curious to see how that goes. Uh, I'm excited for both; yeah, as a big fan.  
 **Translation:** 
 
-**[3359.74s] English:** of  
-**Translation:** 
-
-**[3360.00s] English:** marcus aurelius and i'm curious to see how that goes uh i'm excited for both yeah as a big fan  
-**Translation:** 
-
-**[3366.48s] English:** i'm excited for both i have conversations with them i mean yeah that's yeah you know and and  
+**[3366.48s] English:** I'm excited for both. I have conversations with them, you know. Yeah, that's definitely something I look forward to.  
 **Translation:** Vocabulary: aurelius: 奥勒留; marcus: 马库斯
 
-**[3371.66s] English:** i am also excited to see you know the internet i don't know if you heard can get kind of weird  
+**[3371.66s] English:** I am also excited to see you know, the Internet. I don't know if you heard, but it can get kind of weird.  
 **Translation:** 
 
-**[3375.60s] English:** um and i applaud them for it so i get that yeah yeah so it'd be it'd be nice to see how weird  
+**[3375.60s] English:** Um, and I applaud them for it. So, I get that, yeah, yeah. So, it'd be nice to see how weird.  
+**Translation:** Vocabulary: applaud: 鼓掌称赞
+
+**[3382.36s] English:** They take it, what kind of memes are generated from this, and I think all of it is, especially,...  
 **Translation:** 
 
-**[3382.36s] English:** they take it what kind of memes are generated from this and i think all of it is uh especially  
+**[3387.26s] English:** In these early stages of development, as we progress toward AGI, it's good to learn by:  
 **Translation:** 
 
-**[3387.26s] English:** in these early stages of development as we progress towards agi it's good to learn by  
+**[3392.90s] English:** By playing with those systems and interacting with them at a large scale, as you said.  
 **Translation:** 
 
-**[3392.90s] English:** by playing with those systems and interacting with them at like a large scale like you said  
+**[3397.90s] English:** Yeah, totally. I mean, that's why once we're starting out with a set, and then we're also working on...  
+**Translation:** Vocabulary: interacting: 交互
+
+**[3404.82s] English:** This platform, which we call AI Studio, is going to make it so that, over time, anyone will be able  
 **Translation:** 
 
-**[3397.90s] English:** yeah totally i mean that's why once we're starting out with a set and then um we're also working on  
+**[3411.00s] English:** To create, if one of these AI systems is almost like creating any other UGC content across the  
 **Translation:** 
 
-**[3404.82s] English:** this platform that we call ai studio that's going to make it so that over time anyone will be able  
+**[3417.26s] English:** Platform, so I'm excited about that. I think that to some degree, we're not going to see the full  
 **Translation:** 
 
-**[3411.00s] English:** to create if one of these ai is almost like they create any other ugc content across the  
+**[3422.74s] English:** Potential of this, until you have the full creativity of the entire community being able to  
 **Translation:** 
 
-**[3417.26s] English:** platform so i'm excited about that i think that to some degree we're not going to see the full  
+**[3428.00s] English:** Build stuff, but there's a lot of stuff that we need to get right, so um, so I'm excited.  
 **Translation:** 
 
-**[3422.74s] English:** potential of this until you just have the full creativity of the whole community being able to  
+**[3433.64s] English:** To take this in stages, I don't think anyone out there is really doing what we're doing.  
 **Translation:** 
 
-**[3428.00s] English:** build stuff but there's a lot of a lot of stuff that we need to get right so um so i'm excited  
+**[3440.62s] English:** Here, I think that there are people who are doing kind of like fictional or  
 **Translation:** 
 
-**[3433.64s] English:** to take this in stages i don't i don't think anyone out there is really doing what we're doing  
-**Translation:** 
-
-**[3440.62s] English:** here i think that there are there are people who are who are doing kind of like fictional or  
-**Translation:** 
-
-**[3444.60s] English:** consumer-oriented character type stuff but  
+**[3444.60s] English:** Consumer-oriented character types, stuff but  
 **Translation:** Vocabulary: fictional: 虚构的
 
-**[3447.26s] English:** the extent to which we're building it out with the um you know avatars and expressiveness and  
+**[3447.26s] English:** The extent to which we're building it out with the um, you know, avatars and expressiveness and  
 **Translation:** 
 
-**[3454.82s] English:** and making it so that they can interact across um you know all the different apps and um they'll  
+**[3454.82s] English:** And making it so that they can interact across, um, all the different apps and they'll  
 **Translation:** Vocabulary: avatars: 虚拟角色
 
-**[3460.66s] English:** have profiles and you know we'll be able to engage people on instagram and facebook i i think it's  
+**[3460.66s] English:** Have profiles, and you know, we'll be able to engage people on Instagram and Facebook. I think it's  
 **Translation:** 
 
-**[3465.46s] English:** it's just it's um it's going to be really fun well i'm still so we're talking about ai but i'm  
+**[3465.46s] English:** It's just, um, it's going to be really fun. Well, I'm still excited—we're talking about AI, but I'm  
 **Translation:** Vocabulary: profiles: 个人档案
 
-**[3471.84s] English:** still blown away this entire time that i'm talking to mark zuckerberg and you're not here  
+**[3471.84s] English:** Still, I'm blown away that I'm talking to Mark Zuckerberg, and you're not here.  
 **Translation:** 
 
-**[3477.26s] English:** but you feel like you're here i've done  
-**Translation:** Vocabulary: zuckerberg: 扎克伯格
-
-**[3480.72s] English:** quite a few intimate conversations with people alone in a room and this feels like that  
+**[3477.26s] English:** But you feel like you're here, I've done.  
 **Translation:** 
 
-**[3485.76s] English:** so i keep forgetting for long stretches of time that like we're not in the same room and for me  
+**[3480.72s] English:** Quite a few intimate conversations with people alone in a room, and this feels like that.  
+**Translation:** 
+
+**[3485.76s] English:** So, I keep forgetting for long stretches of time that we're not in the same room, and for me,  
 **Translation:** Vocabulary: intimate: 私密的
 
-**[3491.52s] English:** to imagine a future where i can with a snap of a finger do that with anyone in my life the way we  
+**[3491.52s] English:** To imagine a future where I can, with a snap of a finger, do that with anyone in my life the way we  
 **Translation:** 
 
-**[3497.04s] English:** can just call right now and have this kind of shallow 2d experience uh to have this experience  
+**[3497.04s] English:** Can just call right now and have this kind of shallow 2D experience, or to have this experience?  
 **Translation:** 
 
-**[3504.16s] English:** like we're sitting next to each other it's like i i don't i don't think i can i don't think we can  
+**[3504.16s] English:** Like we're sitting next to each other, it's like I don't think I can, I don't think we can.  
 **Translation:** 
 
-**[3509.84s] English:** even imagine what how that changes things where you can immediately have intimate one-on-one  
+**[3509.84s] English:** Even imagine what that changes things: where you can immediately have intimate, one-on-one.  
 **Translation:** 
 
-**[3516.64s] English:** conversations with anyone that's that might like in a way we might not even predict change  
+**[3516.64s] English:** Conversations with anyone that might, in a way we might not even predict, change.  
 **Translation:** 
 
-**[3522.32s] English:** civilization well i mean this is a lot of the thesis behind the whole metaverse is giving  
-**Translation:** Vocabulary: metaverse: 多元宇宙
+**[3522.32s] English:** Civilization: Well, I mean, this is a lot of the thesis behind the whole metaverse is giving.  
+**Translation:** Vocabulary: metaverse: 多元宇宙; thesis: 论点
 
-**[3527.52s] English:** people the ability to feel like you're present with someone i mean this is like the main thing  
+**[3527.52s] English:** People the ability to feel like you're present with someone — I mean, this is the main thing.  
 **Translation:** 
 
-**[3531.68s] English:** i talk about all the time but i i do think that there's a lot to to process about it i mean  
+**[3531.68s] English:** I talk about it all the time, but I do think that there's a lot to process about it. I mean,  
 **Translation:** 
 
-**[3536.56s] English:** from my perspective i mean i i'm definitely here we're just not  
+**[3536.56s] English:** From my perspective, I mean, I'm definitely here; we're just not.  
 **Translation:** 
 
-**[3539.84s] English:** we're we're not physically in the same place it's not like you're you know you're not talking to an  
+**[3539.84s] English:** We're not physically in the same place; it's not like you're talking to an  
 **Translation:** 
 
-**[3544.00s] English:** ai right you're you know this is um so i think the the thing that's novel is the ability to convey  
+**[3544.00s] English:** AI, right. You're probably aware that what's novel here is the ability to convey.  
 **Translation:** 
 
-**[3551.12s] English:** through technology a sense of almost physical presence um so the the thing that is not  
+**[3551.12s] English:** Through technology, a sense of almost physical presence can be achieved, um, so the thing that is not  
 **Translation:** 
 
-**[3558.40s] English:** physically real is um is us being in the same physical place but uh but but kind of everything  
+**[3558.40s] English:** Physically being in the same physical place, but kind of everything else...  
 **Translation:** 
 
-**[3565.92s] English:** else is and i think that that gets to this somewhat philosophical  
+**[3565.92s] English:** Else, it is, and I think that gets to this somewhat philosophical.  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[3569.84s] English:** question about what is the nature of kind of the modern real world and i just think that that's  
+**[3569.84s] English:** A question about what is the nature of the modern, real world, and I just think that's  
 **Translation:** 
 
-**[3575.68s] English:** it really is this combination of a physical world and the presence that we feel but also being able  
+**[3575.68s] English:** It really is this combination of a physical world and the presence that we feel, but also being able  
 **Translation:** 
 
-**[3582.96s] English:** to combine that with this increasingly rich and powerful and capable digital world that we have  
+**[3582.96s] English:** To combine that with this increasingly rich, powerful, and capable digital world that we have.  
 **Translation:** 
 
-**[3588.32s] English:** and and and all of the the innovation that's getting created there so um i think it's super  
+**[3588.32s] English:** And, and, and all of the innovation that's getting created there—so, um, I think it's super.  
 **Translation:** 
 
-**[3594.08s] English:** exciting because i mean the the digital world is just is just increasing um in in its capability  
+**[3594.08s] English:** Exciting because I mean, the digital world is just increasing in its capability.  
 **Translation:** 
 
-**[3599.84s] English:** um and i think it's super exciting because i mean the the digital world is just is just increasing  
+**[3599.84s] English:** Um, and I think it's super exciting because I mean, the digital world is just increasing.  
 **Translation:** Vocabulary: capability: 能力
 
-**[3600.00s] English:** ability to do awesome things but the physical world is so profound and that's a lot of what  
+**[3600.00s] English:** Ability to do awesome things, but the physical world is so profound, and that's a lot of what.  
 **Translation:** 
 
-**[3604.16s] English:** makes us human is is that we're we're physical beings so i don't think we want to run away from  
+**[3604.16s] English:** What makes us human is that we're physical beings, so I don't think we want to run away from.  
 **Translation:** Vocabulary: profound: 深奥的
 
-**[3608.78s] English:** that and just spend all day on a screen and that's like you know it's one of the reasons why i care  
+**[3608.78s] English:** That and just spend all day on a screen. That's like, you know, it's one of the reasons why I care.  
 **Translation:** 
 
-**[3613.40s] English:** so much about about helping to shape and accelerate the these future computing platforms i just think  
+**[3613.40s] English:** So much about helping to shape and accelerate these future computing platforms, I just think.  
 **Translation:** Vocabulary: accelerate: 加速; computing: 计算
 
-**[3618.56s] English:** this is so powerful and it's it's you know even though the current version of this is like you're  
+**[3618.56s] English:** This is so powerful, and it's, you know, even though the current version of this is like,  
 **Translation:** 
 
-**[3623.80s] English:** wearing a headset um i just think this is going to be by far the most human and social computing  
+**[3623.80s] English:** Wearing a headset, um, I just think this is going to be, by far, the most human and social computing.  
 **Translation:** 
 
-**[3630.10s] English:** platform that has ever existed and uh that that's what what makes me excited yeah i i think just to  
+**[3630.10s] English:** Platform that has ever existed, and that's what makes me excited, yeah. I think just to  
 **Translation:** 
 
-**[3638.00s] English:** linger on this kind of changing nature of reality like of what is real maybe shifting it towards  
-**Translation:** Vocabulary: shifting: 变化
+**[3638.00s] English:** Linger on this kind of changing nature of reality, like what is real, maybe shifting it towards.  
+**Translation:** Vocabulary: linger: 停留; shifting: 转变
 
-**[3645.50s] English:** the sort of consciousness so what is real is the subjective experience of a thing that makes  
+**[3645.50s] English:** The sort of consciousness: so, what is real is the subjective experience of a thing that makes.  
 **Translation:** 
 
-**[3653.72s] English:** it real and what is real is the subjective experience of a thing that makes it real  
+**[3653.72s] English:** It's real, and what is real is the subjective experience of a thing that makes it real.  
+**Translation:** Vocabulary: consciousness: 主观体验
+
+**[3653.80s] English:** Feel real, versus necessarily being in the same physical space, because it feels like we're in  
 **Translation:** 
 
-**[3653.80s] English:** feel real versus necessarily being in the same physical space because it feels like we're in the  
+**[3659.64s] English:** Same physical space, yeah, and that the conscious experience of it—that's probably what is real.  
 **Translation:** 
 
-**[3659.64s] English:** same physical space yeah and that the conscious experience of it that's probably what is real  
+**[3665.32s] English:** Not like that; the space-time, like the physics of it — you're basically breaking physics.  
 **Translation:** 
 
-**[3665.32s] English:** not like that the space-time like the physics of it like you're basically breaking physics  
+**[3671.18s] English:** And focusing on consciousness—that's what's real; it's whatever's going on inside my head.  
 **Translation:** 
 
-**[3671.18s] English:** and focusing on the consciousness that's what's real it's whatever's going on inside my head  
+**[3676.86s] English:** But there are a lot of social and psychological things that go along with that.  
 **Translation:** 
 
-**[3676.86s] English:** but there are a lot of social and psychological things that go along with that  
+**[3682.72s] English:** Experience that  
 **Translation:** 
 
-**[3682.72s] English:** experience that  
+**[3683.56s] English:** Work.  
 **Translation:** 
 
-**[3683.56s] English:** work  
-**Translation:** 
-
-**[3683.72s] English:** was previously only physical presence right i think that there's like an intimacy  
+**[3683.72s] English:** Was previously only physical presence, right? I think that there's like an intimacy.  
 **Translation:** Vocabulary: intimacy: 亲密感
 
-**[3687.56s] English:** a trust um you know there's a a level of communication because so much of communication  
+**[3687.56s] English:** A trust, um, you know, there's a level of communication because so much of communication...  
 **Translation:** 
 
-**[3693.64s] English:** is non-verbal and it's based on expressions that you're kind of you know you're you're sharing  
+**[3693.64s] English:** Is non-verbal, and it's based on expressions that you're kind of knowing you're sharing.  
 **Translation:** 
 
-**[3699.32s] English:** with with someone when you're in this kind of environment and before those things would have  
+**[3699.32s] English:** With someone when you're in this kind of environment, and before those things would have  
 **Translation:** 
 
-**[3704.66s] English:** only been possible you know had you know i'd gotten on a plane and and flown to austin and  
+**[3704.66s] English:** Only been possible, you know, if I'd gotten on a plane and flown to Austin and.  
 **Translation:** 
 
-**[3710.04s] English:** and sat you know physically with you in the same place so i think that's a lot of communication  
+**[3710.04s] English:** And sat, you know, physically with you in the same place, so I think that's a lot of communication.  
 **Translation:** 
 
-**[3713.48s] English:** i think we're we're basically short-cutting those laws of physics and delivering the social  
+**[3713.48s] English:** I think we're basically shortcutting those laws of physics and delivering the social.  
+**Translation:** Vocabulary: shortcutting: 省略步骤
+
+**[3720.00s] English:** Social and psychological benefits of being able to be present and feel like you're there with.  
 **Translation:** 
 
-**[3720.00s] English:** social and psychological benefits of being able to be present and and feel like you're there with  
+**[3725.46s] English:** Another person, which I think are real benefits, um, to anyone in the world, and I think that that.  
 **Translation:** 
 
-**[3725.46s] English:** another person which i think are real benefits um to anyone in the world and i i think that that  
+**[3731.78s] English:** Like you said, I mean, I think that is going to be a very profound thing, um, and that a lot of that is  
 **Translation:** 
 
-**[3731.78s] English:** like you said i mean i think that is going to be a very profound thing um and that a lot of that is  
+**[3736.22s] English:** That's the promise of the metaverse, and what you know, why you know, I just think that.  
+**Translation:** Vocabulary: metaverse: 虚拟宇宙; profound: 深刻的
+
+**[3743.22s] English:** That's the next frontier for what we're working on, you know. I started working on social networks.  
 **Translation:** 
 
-**[3736.22s] English:** that's the promise of of the metaverse and what you know why you know i i just well i think that  
-**Translation:** Vocabulary: metaverse: 元宇宙; profound: 深远
+**[3747.74s] English:** When they were primarily text, or in the first version of Facebook, your profile, you know,  
+**Translation:** Vocabulary: frontier: 未开发领域
 
-**[3743.22s] English:** that's the next frontier for for what we're working on you know i started working on social networks  
+**[3752.16s] English:** Had one photo, and the rest of it was like lists of things that you were interested in, and then  
 **Translation:** 
 
-**[3747.74s] English:** when they were primarily text or the first version of facebook your profile you know you  
-**Translation:** Vocabulary: frontier: 未知领域
-
-**[3752.16s] English:** had one photo and the rest of it was like lists of things that you were interested in and and then  
+**[3757.08s] English:** We kind of went through the period when we were doing photos, and you know, now we're kind of in the period.  
 **Translation:** 
 
-**[3757.08s] English:** we kind of went through the period we were doing photos and you know now we're kind of in the period  
+**[3761.34s] English:** Where most of the content is video, but there's a clear trend where, over time, the way that  
 **Translation:** 
 
-**[3761.34s] English:** where most of the content is video but there's a clear trend where you know over time the way that  
+**[3767.72s] English:** We want to express ourselves and get insights and content about the world around us.  
 **Translation:** 
 
-**[3767.72s] English:** we want to express ourselves and and kind of get insight and content about the world around us  
+**[3773.86s] English:** Gets increasingly rich and more vivid.  
 **Translation:** 
 
-**[3773.86s] English:** gets increasingly just richer and more vivid  
+**[3777.74s] English:** And I think the ability to be immersed and feel present with the people around you.  
+**Translation:** Vocabulary: immersed: 全神贯注
+
+**[3782.64s] English:** Or, for the people you care about, is, from my perspective, clearly the next frontier.  
 **Translation:** 
 
-**[3777.74s] English:** and i think the ability to be immersed and feel present with the people around you  
-**Translation:** Vocabulary: immersed: 身临其境
-
-**[3782.64s] English:** or the people who you care about is from my perspective clearly the next frontier it just  
-**Translation:** 
-
-**[3788.38s] English:** so happens that it's incredibly technologically difficult right it requires building up these new  
+**[3788.38s] English:** So, it happens that it's incredibly technologically difficult; it requires building up these new  
 **Translation:** Vocabulary: technologically: 技术上
 
-**[3793.60s] English:** computing platforms and completely new software stacks to deliver that but i mean i kind of feel  
+**[3793.60s] English:** Computing platforms and completely new software stacks to deliver that, but I mean, I kind of feel...  
 **Translation:** 
 
-**[3798.56s] English:** like that's what we're here to do as a company well i really love the connection you have to  
-**Translation:** Vocabulary: computing: 计算平台
+**[3798.56s] English:** Like, that's what we're here to do as a company. Well, I really love the connection you have to.  
+**Translation:** Vocabulary: computing: 计算; stacks: 堆栈
 
-**[3804.86s] English:** the conversation and so for me this photo  
+**[3804.86s] English:** The conversation, and so for me, this photo.  
 **Translation:** 
 
-**[3807.74s] English:** is really really exciting i'm i'm uh really excited for this future and um thank you for  
+**[3807.74s] English:** It's really, really exciting. I'm so excited for this future, and thank you!  
 **Translation:** 
 
-**[3814.70s] English:** building it thanks to you and thanks to the amazing uh meta teams that i've met uh the the  
+**[3814.70s] English:** Building it, thanks to you and thanks to the amazing Meta teams that I've met.  
 **Translation:** 
 
-**[3820.32s] English:** engineers and just everybody i've met here thank you for helping to build this future and uh thank  
+**[3820.32s] English:** Engineers and everyone I've met here, thank you for helping to build this future.  
 **Translation:** 
 
-**[3827.92s] English:** you mark for talking to me inside the metaverse this is blowing my mind i can't quite express  
+**[3827.92s] English:** You marked me for talking to me inside the Metaverse; this is blowing my mind. I can't quite express it.  
 **Translation:** 
 
-**[3833.80s] English:** i would love to measure my heart rate this whole time would be hilarious if you're actually  
+**[3833.80s] English:** I would love to measure my heart rate the whole time; would be hilarious if you're actually  
+**Translation:** Vocabulary: hilarious: 滑稽; metaverse: 元宇宙
+
+**[3837.74s] English:** Like sitting on a beach right now.  
 **Translation:** 
 
-**[3837.74s] English:** like sitting on a beach right now  
+**[3840.00s] English:** I'm not; I'm at a beach, and if I'm not wearing any pants, I'm  
 **Translation:** 
 
-**[3840.00s] English:** i'm not i'm in a conference room okay well i'm at a beach and if i'm not wearing any pants i'm  
+**[3846.02s] English:** Really sorry about that. For anyone else who's watching me in physical space, anyway, thank you.  
 **Translation:** 
 
-**[3846.02s] English:** really sorry about that for anyone else who's watching me in physical space anyway thank you  
+**[3850.56s] English:** So much for talking today. This is really blown my mind; it's one of the most incredible.  
 **Translation:** 
 
-**[3850.56s] English:** so much for talking today this is this this really blew my mind it's one of the most incredible  
+**[3854.90s] English:** Experiences in my life, so thank you for giving that to me. Awesome! Awesome! Glad you got to check.  
 **Translation:** 
 
-**[3854.90s] English:** experiences in my life so thank you for giving that to me awesome awesome glad you got to check  
+**[3858.64s] English:** It's out, and it's always fun to talk! All right, I'll catch you soon. See ya, see you later. This is so...  
 **Translation:** 
 
-**[3858.64s] English:** it out and it's always fun to talk all right i'll catch you soon see ya see you later this is so  
+**[3865.04s] English:** So amazing, man! This is so amazing.  
 **Translation:** 
 
-**[3865.04s] English:** so amazing man this is so amazing  
-**Translation:** 
-
-**[3870.00s] English:** you  
+**[3870.00s] English:** You.  
 **Translation:** 
 
 

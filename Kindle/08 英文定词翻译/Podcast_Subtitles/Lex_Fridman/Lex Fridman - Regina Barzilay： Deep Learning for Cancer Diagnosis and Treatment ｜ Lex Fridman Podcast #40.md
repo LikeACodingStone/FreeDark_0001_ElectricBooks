@@ -1,487 +1,488 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis and Treatment ｜ Lex Fridman Podcast #40.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** The following is a conversation with Regina Barsley.  
 **Translation:** 
 
-**[3.24s] English:** She's a professor at MIT and a world-class researcher  
+**[3.24s] English:** She's a professor at MIT and a world-class researcher.  
 **Translation:** 
 
-**[6.76s] English:** in natural language processing and applications  
+**[6.76s] English:** In natural language processing and applications,  
 **Translation:** 
 
-**[9.12s] English:** of deep learning to chemistry and oncology,  
+**[9.12s] English:** Of deep learning to chemistry and oncology,  
 **Translation:** Vocabulary: oncology: 肿瘤学
 
-**[12.48s] English:** or the use of deep learning for early diagnosis, prevention,  
+**[12.48s] English:** For the use of deep learning in early diagnosis and prevention,  
 **Translation:** 
 
-**[16.32s] English:** and treatment of cancer.  
+**[16.32s] English:** And the treatment of cancer.  
+**Translation:** Vocabulary: prevention: 预防
+
+**[18.36s] English:** She has also been recognized for teaching.  
 **Translation:** 
 
-**[18.36s] English:** She has also been recognized for teaching  
+**[21.06s] English:** Of several successful AI-related courses at MIT,  
 **Translation:** 
 
-**[21.06s] English:** of several successful AI-related courses at MIT,  
+**[24.76s] English:** Including the popular "Introduction to Machine  
 **Translation:** 
 
-**[24.76s] English:** including the popular Introduction to Machine  
-**Translation:** 
-
-**[27.32s] English:** Learning course.  
+**[27.32s] English:** Learning Course.  
 **Translation:** 
 
 **[28.96s] English:** This is the Artificial Intelligence Podcast.  
 **Translation:** 
 
-**[32.24s] English:** If you enjoy it, subscribe on YouTube,  
+**[32.24s] English:** If you enjoy it, subscribe on YouTube.  
 **Translation:** Vocabulary: subscribe: 订阅
 
-**[34.60s] English:** give it five stars on iTunes, support it on Patreon,  
+**[34.60s] English:** Give it five stars on iTunes, support it on Patreon.  
 **Translation:** 
 
-**[37.88s] English:** or simply connect with me on Twitter at Lex Friedman,  
+**[37.88s] English:** Or simply connect with me on Twitter at @LexFriedman.  
+**Translation:** Vocabulary: patreon: 支持者
+
+**[40.92s] English:** Spelled F-R-I-D-M-A-N. And now, here's my conversation.  
 **Translation:** 
 
-**[40.92s] English:** spelled F-R-I-D-M-A-N. And now, here's my conversation  
+**[46.00s] English:** With Regina Barsley.  
+**Translation:** Vocabulary: regina: 莉吉亚
+
+**[48.88s] English:** In an interview, you've mentioned,  
 **Translation:** 
 
-**[46.00s] English:** with Regina Barsley.  
-**Translation:** Vocabulary: regina: 女王
-
-**[48.88s] English:** In an interview, you've mentioned  
+**[50.32s] English:** That if there's one course you would take,  
 **Translation:** 
 
-**[50.32s] English:** that if there's one course you would take,  
+**[52.00s] English:** It would be a literature course with a friend of yours.  
 **Translation:** 
 
-**[52.00s] English:** it would be a literature course with a friend of yours  
+**[54.62s] English:** That your friend teaches.  
 **Translation:** 
 
-**[54.62s] English:** that a friend of yours teaches.  
+**[56.42s] English:** Just out of curiosity, because I couldn't...  
 **Translation:** 
 
-**[56.42s] English:** Just out of curiosity, because I couldn't  
-**Translation:** 
-
-**[58.52s] English:** find any of your courses.  
+**[58.52s] English:** Find any of your courses.  
 **Translation:** 
 
 **[58.96s] English:** I didn't find anything on it.  
 **Translation:** 
 
-**[60.34s] English:** Are there books or ideas that had profound impact  
+**[60.34s] English:** Are there any books or ideas that had a profound impact?  
 **Translation:** Vocabulary: profound: 深远的
 
-**[64.48s] English:** on your life journey, books and ideas  
+**[64.48s] English:** On your life journey, books and ideas,  
 **Translation:** 
 
-**[66.84s] English:** perhaps outside of computer science  
+**[66.84s] English:** Perhaps outside of computer science.  
 **Translation:** 
 
-**[68.74s] English:** and the technical fields?  
+**[68.74s] English:** And the technical fields?  
 **Translation:** 
 
-**[71.86s] English:** I think because I'm spending a lot of my time at MIT  
+**[71.86s] English:** I think, because I'm spending a lot of my time at MIT,  
 **Translation:** 
 
-**[74.80s] English:** and previously in other institutions  
+**[74.80s] English:** And previously, in other institutions,  
 **Translation:** 
 
-**[76.66s] English:** where I was a student, I have a limited ability  
+**[76.66s] English:** Where I was a student, I had a limited ability.  
 **Translation:** 
 
-**[79.60s] English:** to interact with people.  
+**[79.60s] English:** To interact with people.  
 **Translation:** 
 
-**[81.08s] English:** So a lot of what I know about the world  
+**[81.08s] English:** So, a lot of what I know about the world,...  
 **Translation:** 
 
-**[82.70s] English:** actually comes from books.  
+**[82.70s] English:** Actually, it comes from books.  
 **Translation:** 
 
-**[85.30s] English:** And there were quite a number of books that had profound impact  
+**[85.30s] English:** And there were quite a number of books that had a profound impact.  
 **Translation:** 
 
-**[88.90s] English:** on me and how I view the world.  
+**[88.90s] English:** On Me and How I View the World.  
 **Translation:** 
 
 **[91.36s] English:** Let me just give you one example of such a book.  
 **Translation:** 
 
-**[95.84s] English:** I've maybe a year ago read a book called  
+**[95.84s] English:** I've maybe read a book called one year ago.  
 **Translation:** 
 
 **[99.94s] English:** The Emperor of All Melodies.  
 **Translation:** Vocabulary: melodies: 曲调
 
-**[102.52s] English:** It's a book about, it's kind of a history of science book  
+**[102.52s] English:** It's a book about; it's kind of a history of science book.  
 **Translation:** 
 
-**[105.74s] English:** on how the treatments and drugs for cancer were developed.  
+**[105.74s] English:** On how the treatments and drugs for cancer were developed.  
 **Translation:** 
 
-**[110.78s] English:** And that book, despite the fact that I  
+**[110.78s] English:** And that book, despite the fact that I,  
 **Translation:** 
 
-**[113.82s] English:** am in the business of science, really opened my eyes on how,  
+**[113.82s] English:** I am in the business of science, which really opened my eyes on how,  
 **Translation:** 
 
-**[118.78s] English:** in precise and  
+**[118.78s] English:** In precise and  
 **Translation:** 
 
-**[120.00s] English:** imperfect the discovery process is and how imperfect our current solutions and what makes  
+**[120.00s] English:** Imperfect the discovery process is, and how imperfect our current solutions are—and what makes  
 **Translation:** 
 
-**[127.98s] English:** science succeed and be implemented and sometimes it's actually not the strengths of the idea but  
+**[127.98s] English:** Science succeeds and is implemented, and sometimes it's actually not the strength of the idea but  
 **Translation:** 
 
-**[134.28s] English:** devotion of the person who wants to see it implemented. So this is one of the books that  
+**[134.28s] English:** Devotion of the person who wants to see it implemented. So, this is one of the books that.  
+**Translation:** Vocabulary: implemented: 付诸实施
+
+**[139.10s] English:** You know, at least for the last year, it's quite changed the way I'm thinking about the scientific process just.  
 **Translation:** 
 
-**[139.10s] English:** you know at least for the last year quite changed the way I'm thinking about scientific process just  
+**[145.08s] English:** From a historical perspective, and what do I need to do to make my ideas really implemented?  
 **Translation:** 
 
-**[145.08s] English:** from the historical perspective and what do I need to do to make my ideas really implemented.  
+**[153.40s] English:** Let me give you an example of a book which is not, kind of, a fiction book.  
 **Translation:** 
 
-**[153.40s] English:** Let me give you an example of a book which is not kind of which is a fiction book  
+**[159.36s] English:** Is a book called "Americana," and this is a book about a young female student who comes from  
 **Translation:** 
 
-**[159.36s] English:** is a book called Americana and this is a book about a young female student who comes from  
+**[169.88s] English:** Africa to study in the United States, and it describes  
 **Translation:** 
 
-**[169.88s] English:** Africa to study in the United States and it describes  
+**[175.06s] English:** Her path, you know, within her studies and her life transformation in a new country.  
 **Translation:** 
 
-**[175.06s] English:** her path you know within her studies and her life transformation that you know in a new country  
+**[183.22s] English:** And, kind of, adaptation to a new culture. And when I read this book, I saw myself in many different ways.  
 **Translation:** 
 
-**[183.22s] English:** and kind of adaptation to a new culture and when I read this book I saw myself in many different  
+**[192.34s] English:** Points of it, but it also kind of gave me a lens on different events and some events that I never.  
+**Translation:** Vocabulary: adaptation: 适应新文化
+
+**[201.08s] English:** Actually, one of the funny stories in this book is  
 **Translation:** 
 
-**[192.34s] English:** points of it but it also kind of gave me the lens on different events and some events that I never  
-**Translation:** Vocabulary: adaptation: 适应
-
-**[201.08s] English:** actually paid attention one of the funny stories in this book is  
+**[205.06s] English:** How she arrives at the new college and she starts.  
 **Translation:** 
 
-**[205.06s] English:** how she arrives to the new college and she starts  
+**[211.08s] English:** Speaking in English, and she had this beautiful British accent, because that's  
 **Translation:** 
 
-**[211.08s] English:** speaking in English and she had this beautiful British accent because that's  
+**[215.92s] English:** How she was educated in her country.  
+**Translation:** Vocabulary: educated: 受教育
+
+**[219.28s] English:** This is not my case, and then she notices that the person who  
 **Translation:** 
 
-**[215.92s] English:** how she was educated in her country  
+**[223.66s] English:** Talks to her, you know, in a very funny way and in a very slow way.  
 **Translation:** 
 
-**[219.28s] English:** this is not my case and then she notices that the person who  
+**[228.44s] English:** She's thinking that this woman is disabled, and she's also trying to  
 **Translation:** 
 
-**[223.66s] English:** talks to her you know talks to her in a very funny way in a very slow way  
+**[233.30s] English:** Kind of accommodate her, and then after a while, this other woman responded very enthusiastically.  
+**Translation:** Vocabulary: accommodate: 照顾; enthusiastically: 热情地
+
+**[234.98s] English:** And now, I'm just checking this to see if I'll fly or if someone else will. That's because this was said by a friend of mine who was at university, so I'm kind of trying to accommodate her on that. Then after,...  
 **Translation:** 
 
-**[228.44s] English:** she's thinking that this woman is disabled and she's also trying to  
+**[235.06s] English:** While she finishes her discussion with this officer from her college.  
 **Translation:** 
 
-**[233.30s] English:** kind of accommodate her and then after a while this other woman responds very jumping madeục  
+**[240.00s] English:** Sees how she interacts with other students, with American students, and she discovers.  
 **Translation:** 
 
-**[234.98s] English:** and now I'm just checking this to see if I fly or is somebody else that that said that this was a friend of mine who was at University so I'm kind of trying to kind of just accommodate her on that. Then after  
-**Translation:** 
-
-**[235.06s] English:** while when she finishes her discussion with this officer from her college.  
-**Translation:** 
-
-**[240.00s] English:** sees how she interacts with other students, with American students, and she discovers  
-**Translation:** 
-
-**[245.20s] English:** that actually she talked to her this way because she saw that she doesn't understand English.  
+**[245.20s] English:** That actually, she talked to her that way because she saw that she doesn't understand English.  
 **Translation:** Vocabulary: interacts: 交往
 
 **[252.24s] English:** And I thought, wow, this is a fun experience.  
 **Translation:** 
 
-**[255.20s] English:** And literally within a few weeks, I went to LA to a conference and I asked somebody in  
+**[255.20s] English:** And, literally, within a few weeks, I went to LA for a conference and I asked someone if  
 **Translation:** 
 
-**[263.32s] English:** the airport, you know, how to find like a cab or something.  
+**[263.32s] English:** The airport: you know, how to find a cab or something.  
 **Translation:** 
 
 **[266.46s] English:** And then I noticed that this person is talking in a very strange way.  
 **Translation:** 
 
-**[270.34s] English:** And my first thought was that this person have some, you know, pronunciation issues  
+**[270.34s] English:** And my first thought was that this person has some, you know, pronunciation issues.  
 **Translation:** 
 
-**[274.40s] English:** or something.  
+**[274.40s] English:** Or something.  
 **Translation:** 
 
 **[275.30s] English:** And I'm trying to talk very slowly to him.  
 **Translation:** 
 
-**[277.20s] English:** And I was with another professor, Ernst Frankel, and he's like laughing because it's funny  
+**[277.20s] English:** And I was with another professor, Ernst Frankel, and he's laughing because it's funny.  
 **Translation:** 
 
-**[282.92s] English:** that I don't get that the guy is talking in this way because he thinks that I cannot speak.  
+**[282.92s] English:** That I don't get that the guy is talking in this way because he thinks that I can't speak.  
 **Translation:** 
 
-**[287.02s] English:** So it was really kind of mirroring experience.  
-**Translation:** Vocabulary: cannot: 不能
-
-**[289.98s] English:** And it let me think a lot about my own experiences moving, you know, from different  
+**[287.02s] English:** So, it was really kind of a mirroring experience.  
 **Translation:** 
 
-**[296.32s] English:** countries.  
+**[289.98s] English:** And it let me think a lot about my own experiences moving, you know, from different places.  
 **Translation:** 
 
-**[296.46s] English:** So I think that books play a big role in my understanding of the world.  
+**[296.32s] English:** Countries.  
 **Translation:** 
 
-**[302.92s] English:** On the science question, you mentioned that it made you discover that personalities of  
+**[296.46s] English:** So, I think that books play a big role in my understanding of the world.  
 **Translation:** 
 
-**[308.86s] English:** human beings are more important than perhaps ideas.  
+**[302.92s] English:** On the science question, you mentioned that it made you discover the personalities of  
+**Translation:** 
+
+**[308.86s] English:** Human beings are more important than perhaps ideas.  
 **Translation:** 
 
 **[312.44s] English:** Is that what I heard?  
 **Translation:** 
 
-**[313.64s] English:** It's not necessarily that they are more important than ideas, but I think that ideas on their  
+**[313.64s] English:** It's not necessarily that they are more important than ideas, but I think that ideas, on their own, are crucial.  
 **Translation:** 
 
-**[318.54s] English:** own are not sufficient.  
+**[318.54s] English:** Own are not sufficient.  
+**Translation:** Vocabulary: crucial: 至关重要
+
+**[320.14s] English:** And many times, at least in the local horizon, it's the personalities.  
 **Translation:** 
 
-**[320.14s] English:** And many times, at least at the local horizon, it's the personalities.  
+**[325.82s] English:** And their devotion to their ideas is really what locally changes the landscape.  
 **Translation:** 
 
-**[325.82s] English:** And their devotion to their ideas is really that locally changes the landscape.  
+**[332.98s] English:** Now, if you're looking at AI, like, 30 years ago, you know, it was in the dark ages of  
 **Translation:** 
 
-**[332.98s] English:** Now, if you're looking at AI, like, let's say, 30 years ago, you know, dark ages of  
+**[338.40s] English:** AI or whatever, what is symbolic time? You can use any word.  
+**Translation:** Vocabulary: symbolic: 象征性的时间
+
+**[342.40s] English:** You know, there were some people, now we're looking at a lot of that work, and we are...  
 **Translation:** 
 
-**[338.40s] English:** AI or whatever, what is symbolic times, you can use any word.  
-**Translation:** Vocabulary: symbolic: 符号化的
-
-**[342.40s] English:** You know, there were some people, now we're looking at a lot of that work, and we are  
+**[346.98s] English:** Kind of thinking this wasn't really that relevant work.  
 **Translation:** 
 
-**[346.98s] English:** kind of thinking this was not really maybe a relevant work.  
+**[350.50s] English:** But you can see that some people managed to take it and make it so shiny.  
 **Translation:** 
 
-**[350.50s] English:** But you can see that some people managed to take it and to make it so shiny.  
+**[354.32s] English:** And dominate the academic world, you know.  
+**Translation:** Vocabulary: dominate: 占据主导地位
+
+**[360.00s] English:** Make it the standard. If you look at the area of natural language processing,  
 **Translation:** 
 
-**[354.32s] English:** And dominate the, you know, the academic world.  
-**Translation:** Vocabulary: dominate: 占据主导
-
-**[360.00s] English:** make it to be the standard. If you look at the area of natural language processing,  
+**[366.44s] English:** It is a well-known fact that the reason statistics in NLP took such a long time to  
 **Translation:** 
 
-**[366.44s] English:** it is a well-known fact that the reason that statistics in NLP took such a long time to  
+**[371.96s] English:** Become mainstream, because there were quite a number of personalities who didn't believe.  
 **Translation:** 
 
-**[371.96s] English:** become mainstream, because there were quite a number of personalities which didn't believe  
+**[377.58s] English:** In this idea, and didn't stop research progress in this area. So, I don't think that, you know,  
+**Translation:** Vocabulary: mainstream: 主流
+
+**[385.74s] English:** Kind of asymptotically, maybe personality matters, but I think locally, it does make.  
 **Translation:** 
 
-**[377.58s] English:** in this idea and didn't stop research progress in this area. So I do not think that, you know,  
+**[392.28s] English:** Quite a bit of impact. And it's generally known to speed up the rate of adoption of the new.  
+**Translation:** Vocabulary: adoption: 新事物接受
+
+**[400.20s] English:** Ideas. Yeah. And the other interesting question is, in the early days of a particular discipline,  
 **Translation:** 
 
-**[385.74s] English:** kind of asymptotically, maybe personalities matters, but I think locally, it does make  
-**Translation:** 
+**[406.50s] English:** I think you mentioned in that book that it is ultimately a book about cancer?  
+**Translation:** Vocabulary: discipline: 专业领域
 
-**[392.28s] English:** quite a bit of impact. And it's generally, you know, speeds up the rate of adoption of the new  
-**Translation:** Vocabulary: asymptotically: 渐近地
-
-**[400.20s] English:** ideas. Yeah. And the other interesting question is, in the early days of particular discipline,  
-**Translation:** 
-
-**[406.50s] English:** I think you mentioned in that book was, is ultimately a book of cancer?  
-**Translation:** 
-
-**[412.06s] English:** It's called The Emperor of All Melodies.  
+**[412.06s] English:** It's called "The Emperor of All Melodies.  
 **Translation:** 
 
 **[415.14s] English:** Yeah.  
 **Translation:** Vocabulary: melodies: 曲调
 
-**[415.74s] English:** The, yeah, and those melodies included the trying to, the medicine, was it centered around?  
+**[415.74s] English:** The, yeah, and those melodies included the one that was trying to, was it centered around the medicine?  
 **Translation:** 
 
-**[420.52s] English:** So it was actually centered on, you know, how people thought of curing cancer. Like,  
+**[420.52s] English:** So it was actually centered on, you know, how people thought about curing cancer. Like,  
+**Translation:** Vocabulary: curing: 治疗
+
+**[427.56s] English:** For me, it was really a discovery of how people use the science of chemistry behind drugs.  
 **Translation:** 
 
-**[427.56s] English:** for me, it was really a discovery how people, what was the science of chemistry behind drug  
+**[433.54s] English:** Development that actually grew up out of the dyeing industry, like the coloring industry, that people  
 **Translation:** 
 
-**[433.54s] English:** development, that it actually grew up out of dyeing, like coloring industry, that people  
+**[439.26s] English:** Who developed chemistry in the 19th century in Germany and Britain?  
 **Translation:** 
 
-**[439.26s] English:** who develop chemistry in 19th century in Germany and Britain to do,  
+**[445.74s] English:** You know, the really new dyes; they looked at the molecules and identified that they do certain  
 **Translation:** 
 
-**[445.74s] English:** you know, the really new dyes, they looked at the molecules and identified that they do certain  
+**[450.70s] English:** Things move to cells, and from there, the process started. And, you know, historically speaking,  
 **Translation:** 
 
-**[450.70s] English:** things to cells. And from there, the process started. And, you know, like historically saying,  
+**[455.74s] English:** Yeah, this is fascinating that they managed to make the connection and look under the microscope.  
+**Translation:** Vocabulary: microscope: 显微镜
+
+**[460.18s] English:** And do all this discovery. But as you continue reading about it, and you read about how  
 **Translation:** 
 
-**[455.74s] English:** yeah, this is fascinating that they managed to make the connection and look under the microscope  
-**Translation:** Vocabulary: historically: 历史上; microscope: 显微镜
+**[466.96s] English:** Chemotherapy drugs, which were developed in Boston, and some of them were developed, and  
+**Translation:** Vocabulary: chemotherapy: 化疗
 
-**[460.18s] English:** and do all this discovery. But as you continue reading about it, and you read about how  
+**[472.68s] English:** The Farber, Dr. Farber.  
 **Translation:** 
 
-**[466.96s] English:** chemotherapy drugs, which were developed in Boston, and some of them were developed, and  
+**[475.74s] English:** From Dana Farber, you know, how the experiments were done.  
+**Translation:** Vocabulary: experiments: 实验
+
+**[480.00s] English:** That, you know, there was some miscalculation; let's put it that way.  
 **Translation:** 
 
-**[472.68s] English:** the Farber, Dr. Farber,  
-**Translation:** 
-
-**[475.74s] English:** from Dana Farber, you know, how the experiments were done,  
-**Translation:** Vocabulary: farber: 法伯
-
-**[480.00s] English:** that, you know, there was some miscalculation, let's put it this way,  
-**Translation:** 
-
-**[484.42s] English:** and they tried it on the patients, and those were children with leukemia, and they died.  
+**[484.42s] English:** And they tried it on the patients, and those were children with leukemia, and they died.  
 **Translation:** Vocabulary: leukemia: 白血病; miscalculation: 计算错误
 
 **[490.04s] English:** And then they tried another modification.  
 **Translation:** 
 
-**[491.62s] English:** You look at the process, how imperfect is this process?  
+**[491.62s] English:** You look at the process; how imperfect is this process?  
 **Translation:** Vocabulary: modification: 修改
 
-**[495.18s] English:** And, you know, like if we're again looking back like 60 years ago, 70 years ago,  
+**[495.18s] English:** And, you know, like if we're looking back 60 or 70 years ago,  
 **Translation:** 
 
-**[499.10s] English:** you can kind of understand it.  
+**[499.10s] English:** You can kind of understand it.  
 **Translation:** 
 
 **[500.76s] English:** But some of the stories in this book, which were really shocking to me,  
 **Translation:** 
 
-**[504.70s] English:** were really happening, you know, maybe decades ago.  
+**[504.70s] English:** What was really happening, you know, maybe decades ago.  
 **Translation:** 
 
-**[507.76s] English:** And we still don't have a vehicle to do it much more fast and effective and, you know,  
+**[507.76s] English:** And we still don't have a vehicle to do it much faster and more effective, you know.  
 **Translation:** 
 
-**[515.14s] English:** scientific the way I'm thinking computer science scientific.  
+**[515.14s] English:** Scientific, the way I'm thinking: computer science, scientific.  
 **Translation:** 
 
-**[517.88s] English:** So from the perspective of computer science,  
+**[517.88s] English:** So, from the perspective of computer science,  
 **Translation:** 
 
-**[520.36s] English:** you've gotten a chance to work the application to cancer and to medicine in general.  
+**[520.36s] English:** You've gotten a chance to work the application of this to cancer and to medicine in general.  
 **Translation:** 
 
-**[524.88s] English:** From a perspective of an engineer and a computer scientist,  
+**[524.88s] English:** From the perspective of an engineer and a computer scientist,  
 **Translation:** 
 
-**[528.38s] English:** how far along are we from understanding the human body, biology,  
+**[528.38s] English:** How far along are we in understanding the human body and biology?  
 **Translation:** 
 
-**[532.64s] English:** of being able to manipulate it in a way we can cure some of the maladies?  
+**[532.64s] English:** Of being able to manipulate it in a way that we can cure some of the maladies?  
 **Translation:** 
 
 **[537.98s] English:** Some of the diseases?  
 **Translation:** Vocabulary: maladies: 疾病; manipulate: 操控
 
-**[539.76s] English:** So this is very interesting question.  
+**[539.76s] English:** So, this is a very interesting question.  
 **Translation:** 
 
 **[543.50s] English:** And if you're thinking as a computer scientist about this problem,  
 **Translation:** 
 
-**[548.20s] English:** I think one of the reasons that we succeeded in the areas we as a computer scientist succeeded,  
+**[548.20s] English:** I think one of the reasons that we succeeded in the areas we, as computer scientists, succeeded,  
 **Translation:** 
 
-**[554.04s] English:** is because we don't have, we're not trying to understand in some ways.  
+**[554.04s] English:** It is because we don't have it, and we're not trying to understand it in some ways.  
 **Translation:** 
 
-**[559.00s] English:** Like if you're thinking about like e-commerce, Amazon, Amazon doesn't really understand you.  
+**[559.00s] English:** Like, if you're thinking about e-commerce, Amazon, Amazon doesn't really understand you.  
 **Translation:** 
 
 **[564.28s] English:** And that's why it recommends you certain books.  
 **Translation:** 
 
-**[567.76s] English:** Or certain products, correct?  
+**[567.76s] English:** Or for certain products, correct?  
 **Translation:** 
 
-**[570.78s] English:** And in, you know, traditionally, when people were thinking about marketing,  
+**[570.78s] English:** And, in traditionally, when people were thinking about marketing,  
 **Translation:** 
 
-**[576.20s] English:** you know, they divided the population to different kind of subgroups,  
+**[576.20s] English:** You know, they divided the population into different kinds of subgroups.  
 **Translation:** 
 
-**[579.88s] English:** identify the features of this subgroup and come up with a strategy which is specific to that subgroup.  
+**[579.88s] English:** Identify the features of this subgroup and come up with a strategy that is specific to that subgroup.  
 **Translation:** 
 
-**[585.36s] English:** If you're looking about recommendations system, they're not claiming that they're understanding somebody,  
+**[585.36s] English:** If you're looking for recommendations systems, they're not claiming that they're understanding anyone.  
 **Translation:** 
 
-**[590.64s] English:** they're just managing to from the patterns of your behavior to recommend you a product.  
-**Translation:** 
+**[590.64s] English:** They're just managing to use the patterns of your behavior to recommend a product to you.  
+**Translation:** Vocabulary: recommendations: 推荐
 
 **[597.58s] English:** Right?  
 **Translation:** 
 
-**[597.74s] English:** Now, if you look at the traditional biology, obviously,  
+**[597.74s] English:** Now, if you look at traditional biology, obviously,  
 **Translation:** 
 
-**[600.00s] English:** I wouldn't say that I am in any way educated in this field, but what I see there is really  
+**[600.00s] English:** I wouldn't say that I am in any way educated in this field, but what I see there is really.  
 **Translation:** 
 
-**[607.62s] English:** a lot of emphasis on mechanistic understanding, and it was very surprising to me coming from  
-**Translation:** Vocabulary: mechanistic: 机械的
+**[607.62s] English:** A lot of emphasis on mechanistic understanding, and it was very surprising to me coming from  
+**Translation:** Vocabulary: educated: 受教育的; mechanistic: 机械的
 
-**[612.92s] English:** computer science how much emphasis is on this understanding.  
+**[612.92s] English:** Computer science: How much emphasis is placed on this understanding?  
 **Translation:** 
 
-**[618.04s] English:** And given the complexity of the system, maybe the deterministic full understanding of these  
-**Translation:** Vocabulary: complexity: 复杂性; deterministic: 确定性
+**[618.04s] English:** And, given the complexity of the system, maybe a deterministic, full understanding of these...  
+**Translation:** Vocabulary: complexity: 复杂性; deterministic: 决定论的
 
-**[623.38s] English:** processes is beyond our capacity.  
+**[623.38s] English:** Processes are beyond our capacity.  
 **Translation:** 
 
-**[627.80s] English:** And the same way as in computer science, when we're doing recognition, when you do recommendation  
+**[627.80s] English:** And the same way as in computer science, when we're doing recognition, when you do recommendations,...  
 **Translation:** 
 
-**[631.48s] English:** in many other areas, it's just probabilistic matching process.  
+**[631.48s] English:** In many other areas, it's just a probabilistic matching process.  
 **Translation:** 
 
-**[636.40s] English:** And in some way, maybe in certain cases, we shouldn't even attempt to understand, or we  
+**[636.40s] English:** And, in some ways, maybe in certain cases, we shouldn't even attempt to understand, or we  
 **Translation:** Vocabulary: probabilistic: 概率性的
 
-**[643.12s] English:** can attempt to understand, but in parallel, we can actually do this kind of matching that  
+**[643.12s] English:** Can we attempt to understand, but in parallel, we can actually do this kind of matching that  
 **Translation:** 
 
-**[648.10s] English:** would help us to find QO, to do early diagnostics, and so on.  
-**Translation:** Vocabulary: diagnostics: 早期诊断
+**[648.10s] English:** Would help us to find QO, to do early diagnostics, and so on.  
+**Translation:** Vocabulary: diagnostics: 早期诊断; parallel: 并行
 
 **[654.44s] English:** And I know that in these communities, it's really important to understand.  
 **Translation:** 
 
-**[657.78s] English:** But I'm sometimes wondering, what exactly does it mean to understand here?  
+**[657.78s] English:** But I'm sometimes wondering what exactly it means to understand here.  
 **Translation:** 
 
-**[662.74s] English:** Well, there's stuff that works, but that can be, like you said, separate from this deep  
+**[662.74s] English:** Well, there's stuff that works, but that can be, as you said, separate from this deep.  
 **Translation:** 
 
-**[669.46s] English:** human desire to uncover the mysteries of the universe, of science, of the way the body  
+**[669.46s] English:** Human's desire to uncover the mysteries of the universe, of science, and of the way the body,...  
+**Translation:** Vocabulary: uncover: 揭开
+
+**[676.04s] English:** Works, the way the mind works.  
 **Translation:** 
 
-**[676.04s] English:** works, the way the mind works.  
-**Translation:** 
-
-**[677.80s] English:** It's the dream of symbolic AI, of being able to reduce human knowledge into logic, and  
+**[677.80s] English:** It's the dream of symbolic AI—to be able to reduce human knowledge into logic, and  
 **Translation:** Vocabulary: symbolic: 符号化的
 
-**[685.40s] English:** be able to play with that logic in a way that's...  
+**[685.40s] English:** Be able to play with that logic in a way that's...  
 **Translation:** 
 
 **[687.46s] English:** That's very explainable and understandable for us humans.  
@@ -490,19 +491,19 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[690.08s] English:** I mean, that's a beautiful dream.  
 **Translation:** 
 
-**[691.88s] English:** So I understand it, but it seems that what seems to work today, and we'll talk about  
+**[691.88s] English:** So, I understand it, but it seems that what works today, and we'll talk about it, seems to be constantly changing.  
 **Translation:** 
 
-**[697.00s] English:** it more, is as much as possible, reduce stuff into data, reduce whatever problem you're  
+**[697.00s] English:** It's better to reduce stuff into data as much as possible, and reduce whatever problem you're facing into data.  
 **Translation:** 
 
-**[702.76s] English:** interested in to data, and try to apply statistical methods, apply machine learning to that.  
+**[702.76s] English:** Interested in data, and try to apply statistical methods and machine learning to that.  
 **Translation:** 
 
 **[709.46s] English:** On a personal note, you were diagnosed with breast cancer in 2014.  
 **Translation:** 
 
-**[715.60s] English:** Would it facing your mortality make you think?  
+**[715.60s] English:** Would facing your mortality make you think?  
 **Translation:** 
 
 **[717.42s] English:** How did it change you?  
@@ -511,526 +512,526 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[720.00s] English:** You know, this is a great question.  
 **Translation:** 
 
-**[721.90s] English:** And I think that I was interviewed many times and nobody actually asked me this question.  
+**[721.90s] English:** And I think that I was interviewed many times, and nobody actually asked me this question.  
 **Translation:** 
 
 **[725.64s] English:** I think I was 43 at the time.  
 **Translation:** 
 
-**[729.74s] English:** And the first time I realized in my life that I may die.  
+**[729.74s] English:** And the first time in my life that I realized I might die.  
 **Translation:** 
 
 **[732.56s] English:** And I never thought about it before.  
 **Translation:** 
 
-**[734.76s] English:** And there was a long time since you're diagnosed until you actually know what you have and how severe is your disease.  
+**[734.76s] English:** And there was a long time between when you're diagnosed and when you actually know what you have and how severe your disease is.  
 **Translation:** 
 
 **[740.18s] English:** For me, it was like maybe two and a half months.  
 **Translation:** 
 
-**[742.78s] English:** And I didn't know where I am during this time because I was getting different tests.  
+**[742.78s] English:** And I didn't know where I was during this time because I was getting different tests.  
 **Translation:** 
 
-**[750.70s] English:** And one would say it's bad and I would say, no, it is not.  
+**[750.70s] English:** And one would say it's bad, and I would say, no, it is not.  
 **Translation:** 
 
-**[753.40s] English:** So until I knew where I am, I really was thinking about all these different possible outcomes.  
+**[753.40s] English:** So, until I knew where I was, I was really thinking about all these different possible outcomes.  
 **Translation:** 
 
-**[758.30s] English:** Were you imagining the worst or were you trying to be optimistic?  
-**Translation:** 
+**[758.30s] English:** Were you imagining the worst, or were you trying to be optimistic?  
+**Translation:** Vocabulary: optimistic: 乐观; outcomes: 结果
 
-**[761.76s] English:** It would be really, I don't remember, you know, what was my thinking.  
+**[761.76s] English:** It would be really interesting, I don't remember, you know, what was my thinking.  
 **Translation:** 
 
 **[767.20s] English:** It was really a mixture with many components at the time.  
-**Translation:** 
+**Translation:** Vocabulary: mixture: 混合物
 
-**[771.02s] English:** Speaking, you know, in action.  
+**[771.02s] English:** Speaking; you know, in action.  
 **Translation:** 
 
 **[772.82s] English:** Our terms.  
 **Translation:** 
 
-**[774.40s] English:** And one thing that I remember, and, you know, every test comes and then you're saying, oh, it could be this or it may not be this.  
+**[774.40s] English:** And one thing that I remember: and, you know, with each test, you're saying, "Oh, it could be this, or it may not be this.  
 **Translation:** 
 
-**[783.28s] English:** And you're hopeful and then you're desperate.  
+**[783.28s] English:** And you're hopeful, and then you're desperate.  
 **Translation:** 
 
-**[784.74s] English:** So it's like there is a whole, you know, slew of emotions that goes through you.  
+**[784.74s] English:** So it's like there is a whole slew of emotions that go through you.  
 **Translation:** 
 
-**[789.96s] English:** But what I remember is that when I came back to MIT, I was kind of going the whole time through the treatment to MIT, but my brain was not really there.  
+**[789.96s] English:** But what I remember is that when I came back to MIT, I was kind of going through the treatment the whole time, but my brain was not really there.  
 **Translation:** 
 
-**[799.80s] English:** But when I came back, really finished my treatment and I was here.  
+**[799.80s] English:** But when I came back, really finished my treatment, and I was here.  
 **Translation:** 
 
-**[802.54s] English:** Teaching and everything, you know, I look back at what my group was doing, what other groups was doing, and I saw these trivialities.  
-**Translation:** Vocabulary: trivialities: 琐事
-
-**[810.76s] English:** It's like people are building their careers on improving some parts, around two or three percent or whatever.  
+**[802.54s] English:** Teaching and everything, you know, I look back at what my group was doing, what other groups were doing, and I saw these trivialities.  
 **Translation:** 
 
-**[816.82s] English:** I was like, seriously, I did a work on how to decipher Ugaritic, like a language that nobody speak and whatever.  
+**[810.76s] English:** It's like people are building their careers on improving some parts—around two or three percent, or whatever.  
+**Translation:** 
+
+**[816.82s] English:** I was like, "seriously, I did some work on how to decipher Ugaritic—a language that nobody speaks.  
 **Translation:** Vocabulary: decipher: 破译; ugaritic: 乌加里特语
 
-**[822.78s] English:** Like, what is significance when all of a sudden, you know, I walked out of MIT, which is, you know, when people really do care, you know, what happened to you.  
+**[822.78s] English:** Like, what is the significance when all of a sudden I walked out of MIT, which is, you know, when people really do care what happened to you.  
 **Translation:** 
 
-**[832.16s] English:** I clear paper, you know, what is your next publication, to ACL, to the world where people, you know.  
+**[832.16s] English:** I cleared the paper, you know. What is your next publication going to be? To ACL, to the world where people know.  
 **Translation:** 
 
-**[840.00s] English:** people, you see a lot of suffering that I'm kind of totally shielded on it on daily basis. And it's  
+**[840.00s] English:** People, you see a lot of suffering that I'm kind of totally shielded from on a daily basis. And it's  
 **Translation:** 
 
-**[845.20s] English:** like the first time I've seen like real life and real suffering. And I was thinking, why are we  
-**Translation:** Vocabulary: shielded: 保护外罩
+**[845.20s] English:** Like the first time I've seen real life and real suffering. And I was thinking, "Why are we?  
+**Translation:** Vocabulary: shielded: 保护外
 
-**[851.38s] English:** trying to improve the parser or deal with some trivialities when we have capacity to really make  
+**[851.38s] English:** Trying to improve the parser or deal with some trivialities when we have the capacity to really make  
 **Translation:** 
 
-**[859.62s] English:** a change? And it was really challenging to me because on one hand, you know, I have my graduate  
-**Translation:** Vocabulary: parser: 解析器
+**[859.62s] English:** A change? And it was really challenging for me because, on one hand, you know, I have my graduate  
+**Translation:** Vocabulary: parser: 解析器; trivialities: 琐事
 
-**[865.20s] English:** students who really want to do their papers and their work. And they want to continue to do what  
+**[865.20s] English:** Students who really want to do their papers and their work. And they want to continue to do what?  
 **Translation:** 
 
-**[870.02s] English:** they were doing, which was great. And then it was me who really kind of re-evaluated what is  
+**[870.02s] English:** They were doing, which was great. And then it was me who really kind of re-evaluated what is  
 **Translation:** 
 
-**[876.86s] English:** important. And also at that point, because I had to take some break, I look back into like my years  
+**[876.86s] English:** Important. And also at that point, because I had to take a break, I looked back on my years.  
 **Translation:** 
 
-**[886.46s] English:** in science. And I was thinking, you know, like 10 years ago, this was the biggest thing. I don't  
+**[886.46s] English:** In science, and I was thinking—你知道，大约十年前，这还是最大的话题。我如今  
 **Translation:** 
 
-**[891.88s] English:** know, topic models. We have like millions of papers on topic models.  
+**[891.88s] English:** Know about topic models? We have millions of papers on topic models.  
 **Translation:** 
 
-**[895.20s] English:** And variation of topic models now is totally like irrelevant. And you start looking at this,  
-**Translation:** Vocabulary: irrelevant: 无关的
+**[895.20s] English:** And variation of topic models is totally irrelevant. And you start looking at this,  
+**Translation:** Vocabulary: variation: 变化形式
 
-**[901.34s] English:** you know, what do you perceive as important at different point of time and how, you know,  
+**[901.34s] English:** You know, what do you perceive as important at different points in time, and how, you know,  
 **Translation:** 
 
-**[905.94s] English:** it fades over time. And since we have a limited time, all of us have limited time on Earth,  
+**[905.94s] English:** It fades over time. And since we have limited time, all of us have limited time on Earth.  
 **Translation:** Vocabulary: perceive: 感知
 
-**[914.92s] English:** it's really important to prioritize things that really matter to you, maybe matter to you at that  
+**[914.92s] English:** It's really important to prioritize things that really matter to you, maybe matter to you at that point in time.  
 **Translation:** 
 
-**[920.94s] English:** particular point. But it's important to take some time and understand,  
-**Translation:** Vocabulary: prioritize: 优先考虑
+**[920.94s] English:** Particular point. But it's important to take some time and understand,  
+**Translation:** Vocabulary: prioritize: 优先处理
 
-**[925.20s] English:** what matters to you, which may not necessarily be the same as what matters to the rest of your  
+**[925.20s] English:** What matters to you, which may not necessarily be the same as what matters to the rest of your  
 **Translation:** 
 
-**[930.60s] English:** scientific community and pursue that vision. So that moment, did it make you cognizant?  
+**[930.60s] English:** The scientific community and pursue that vision. At that moment, did it make you cognizant?  
 **Translation:** Vocabulary: cognizant: 意识到的
 
-**[938.04s] English:** You mentioned suffering of just the general amount of suffering in the world. Is that what  
+**[938.04s] English:** You mentioned the suffering of just the general amount of suffering in the world. Is that what?  
 **Translation:** 
 
-**[944.74s] English:** you're referring to? So as opposed to topic models and specific detailed problems in NLP,  
+**[944.74s] English:** You're referring to? So, as opposed to topic models and specific, detailed problems in NLP,  
 **Translation:** 
 
-**[951.04s] English:** did you start to think about other people who,  
+**[951.04s] English:** Did you start to think about other people who,  
 **Translation:** 
 
-**[955.20s] English:** have been diagnosed with cancer? Is that the way you started to see the world perhaps?  
+**[955.20s] English:** Have you been diagnosed with cancer? Is that how it changed the way you saw the world, perhaps?  
 **Translation:** 
 
-**[960.00s] English:** Oh, absolutely. And it actually creates, because like, for instance, you know, there's parts of  
+**[960.00s] English:** Oh, absolutely. And it actually creates, because, for instance, you know, there are parts of  
 **Translation:** 
 
-**[965.58s] English:** the treatment where you need to go to the hospital every day. And you see, you know,  
+**[965.58s] English:** The treatment where you need to go to the hospital every day. And you see, you know,  
 **Translation:** 
 
-**[969.72s] English:** the community of people that you see, and many of them are much worse than I was at a time. And  
+**[969.72s] English:** The community of people that you see, and many of them are much worse than I was at a time. And  
 **Translation:** 
 
-**[976.52s] English:** you all of a sudden see it all. And people who are happier someday just because they feel better.  
+**[976.52s] English:** You'll suddenly see it all, and people who are happier someday just because they feel better.  
 **Translation:** 
 
-**[985.14s] English:** And for people who are in our normal realm, you take it totally for granted that you feel well,  
+**[985.14s] English:** And for people who are in our normal realm, you take it totally for granted that you feel well.  
 **Translation:** 
 
-**[990.82s] English:** that if you decide to go running, you can go running. And you can, you know, you're pretty  
+**[990.82s] English:** That if you decide to go running, you can go running. And you can, you know, you're pretty  
 **Translation:** 
 
-**[995.36s] English:** much free to do whatever you want with your body. Like, I saw like a community, my community became  
+**[995.36s] English:** Much is free to do whatever you want with your body. Like, I saw a community; my community became  
 **Translation:** 
 
-**[1001.22s] English:** those people. And I remember one of my friends, Dina Katabi, took me to Prudential to buy me a  
+**[1001.22s] English:** Those people. And I remember one of my friends, Dina Katabi, took me to Prudential to buy me a  
 **Translation:** 
 
-**[1009.38s] English:** gift for my birthday. And it was like the first time in months that I went to kind of to see other  
+**[1009.38s] English:** A gift for my birthday. And it was like the first time in months that I went out to see other people.  
 **Translation:** 
 
-**[1014.56s] English:** people. And I was like, oh, my God, I'm so happy. And I was like, oh, my God, I'm so happy. And I  
+**[1014.56s] English:** People. And I was like, "Oh, my God, I'm so happy." And I was like, "Oh, my God, I'm so happy." And I  
 **Translation:** 
 
-**[1015.12s] English:** was like, wow. First of all, these people, you know, they're happy, and they're laughing. And  
+**[1015.12s] English:** Was like, wow. First of all, these people, you know, they're happy and they're laughing. And  
 **Translation:** 
 
-**[1019.92s] English:** they're very different from these other my people. And second thing, I think it's totally crazy.  
+**[1019.92s] English:** They're very different from these other people. And, secondly, I think it's totally crazy.  
 **Translation:** 
 
-**[1024.66s] English:** They're like laughing and wasting their money on some stupid gifts. And, you know, they may die,  
+**[1024.66s] English:** They're like laughing and wasting their money on some stupid gifts. And, you know, they may die.  
 **Translation:** 
 
-**[1032.52s] English:** they already may have cancer, and they don't understand it. So you can really see how the mind  
+**[1032.52s] English:** They already may have cancer, and they don't understand it. So you can really see how the mind works.  
 **Translation:** 
 
-**[1038.86s] English:** changes that you can see that, you know, before that you can, as didn't you know that you're  
+**[1038.86s] English:** Changes that you can see, that you know, before that you can, didn't you know that you're.  
 **Translation:** 
 
-**[1044.00s] English:** going to die? Of course, I knew.  
+**[1044.00s] English:** Going to die? Of course, I knew.  
 **Translation:** 
 
 **[1045.12s] English:** But it was kind of a theoretical notion. It wasn't something which was concrete.  
 **Translation:** 
 
-**[1051.14s] English:** And at that point, when you really see it, and see how little means sometimes the system  
+**[1051.14s] English:** And at that point, when you really see it and see how little means sometimes the system.  
 **Translation:** 
 
-**[1057.32s] English:** has to help them, you really feel that we need to take a lot of  
+**[1057.32s] English:** Has to help them; you really feel that we need to take a lot of.  
 **Translation:** 
 
-**[1061.94s] English:** our brilliance that we have here at MIT and translate it into something useful.  
-**Translation:** Vocabulary: brilliance: 卓越才能
+**[1061.94s] English:** Our brilliance here at MIT and translate it into something useful.  
+**Translation:** Vocabulary: brilliance: 才智
 
-**[1068.04s] English:** Yeah. And useful can have a lot of definitions, but of course, alleviating, suffering, alleviating,  
+**[1068.04s] English:** Yeah. And "useful" can have a lot of definitions, but of course, it often involves alleviating suffering.  
 **Translation:** 
 
-**[1073.34s] English:** trying to cure cancer.  
+**[1073.34s] English:** Trying to cure cancer.  
 **Translation:** Vocabulary: alleviating: 减轻
 
-**[1075.12s] English:** Is a beautiful mission. So I, of course, know the theory.  
+**[1075.12s] English:** It's a beautiful mission. So, of course, I know the theory.  
 **Translation:** 
 
-**[1080.00s] English:** theoretically, the notion of cancer, but just reading more and more about it, 1.7 million  
+**[1080.00s] English:** Theoretically, the notion of cancer, but just reading more and more about it, 1.7 million.  
 **Translation:** Vocabulary: theoretically: 理论上
 
-**[1086.58s] English:** new cancer cases in the United States every year, 600,000 cancer-related deaths every year.  
+**[1086.58s] English:** New cancer cases in the United States every year, 600,000 cancer-related deaths every year.  
 **Translation:** 
 
-**[1093.40s] English:** So this has a huge impact, United States globally. When broadly, before we talk about how  
-**Translation:** Vocabulary: globally: 全世界
+**[1093.40s] English:** So, this has a huge impact on the United States globally. When broadly speaking, before we talk about how  
+**Translation:** Vocabulary: broadly: 广泛地; globally: 全球地
 
-**[1102.84s] English:** machine learning, how MIT can help, when do you think we as a civilization will cure cancer?  
+**[1102.84s] English:** Machine learning, how MIT can help, when do you think we as a civilization will cure cancer?  
 **Translation:** 
 
-**[1111.94s] English:** How hard of a problem is it from everything you've learned from it recently?  
+**[1111.94s] English:** How hard of a problem is it, from everything you've learned about it recently?  
 **Translation:** 
 
-**[1116.76s] English:** I cannot really assess it. What I do believe will happen with the advancement in machine  
+**[1116.76s] English:** I cannot really assess it. What I do believe will happen with the advancement in machine learning is that it will continue to transform various industries.  
 **Translation:** 
 
-**[1122.56s] English:** learning is that a lot of types of cancer, we will be able to predict way early and more  
-**Translation:** Vocabulary: advancement: 进步; cannot: 不能
+**[1122.56s] English:** Learning is that a lot of types of cancer we will be able to predict way earlier and more accurately.  
+**Translation:** Vocabulary: advancement: 进步; assess: 评价; cannot: 不能
 
-**[1128.92s] English:** effectively utilize existing treatments.  
+**[1128.92s] English:** Effectively utilize existing treatments.  
 **Translation:** 
 
 **[1132.84s] English:** I think, I hope at least, that with all the advancements in AI and drug discovery,  
-**Translation:** Vocabulary: advancements: 进步
+**Translation:** Vocabulary: advancements: 进步; utilize: 利用
 
-**[1139.56s] English:** we would be able to much faster find relevant molecules. What I'm not sure about is how long  
+**[1139.56s] English:** We would be able to much faster find relevant molecules. What I'm not sure about is how long.  
 **Translation:** 
 
-**[1147.24s] English:** it will take the medical establishment and regulatory bodies to kind of catch up and  
+**[1147.24s] English:** It will take the medical establishment and regulatory bodies to kind of catch up and  
+**Translation:** Vocabulary: regulatory: 监管的
+
+**[1153.72s] English:** To implement it, I think this is a very big piece of the puzzle that is currently not addressed.  
 **Translation:** 
 
-**[1153.72s] English:** to implement it. And I think this is a very big piece of puzzle that is currently not addressed.  
+**[1160.10s] English:** That's a really interesting question. So, first,  
+**Translation:** Vocabulary: implement: 实施
+
+**[1162.84s] English:** A small detail, and I think the answer is yes, but is cancer one of the diseases that?  
 **Translation:** 
 
-**[1160.10s] English:** That's a really interesting question. So first,  
+**[1171.14s] English:** When detected earlier, it significantly improves the outcomes. Because we will talk about,  
+**Translation:** Vocabulary: detected: 发现; outcomes: 结果
+
+**[1179.66s] English:** There's the cure, and then there is detection. And I think where machine learning can really  
 **Translation:** 
 
-**[1162.84s] English:** a small detail, and I think the answer is yes, but is cancer one of the diseases that  
-**Translation:** 
-
-**[1171.14s] English:** when detected earlier, that significantly improves the outcomes? Because we will talk about,  
-**Translation:** 
-
-**[1179.66s] English:** there's the cure, and then there is detection. And I think where machine learning can really  
-**Translation:** 
-
-**[1184.90s] English:** help is earlier detection. So does detection help?  
+**[1184.90s] English:** Help is in earlier detection. So, does detection help?  
 **Translation:** Vocabulary: detection: 早期发现
 
 **[1188.58s] English:** Detection is crucial. For instance, the vast majority of pancreatic,  
 **Translation:** 
 
-**[1192.84s] English:** cancer patients are detected at the stage that they are incurable. That's why they have such a  
-**Translation:** Vocabulary: detected: 被发现; incurable: 无法治愈; pancreatic: 胰腺的
+**[1192.84s] English:** Cancer patients are often detected at a stage when they are incurable. That's why they have such a  
+**Translation:** Vocabulary: crucial: 至关重要; incurable: 无法治愈; pancreatic: 胰腺的
 
-**[1200.00s] English:** you know terrible survival rate it's like just few percent over five years is pretty much today  
+**[1200.00s] English:** You know, the terrible survival rate is just a few percent over five years, and that's pretty much where we are today.  
 **Translation:** 
 
-**[1208.48s] English:** the sentence but if you can discover this disease early there are mechanisms to treat it and in fact  
+**[1208.48s] English:** The sentence, but if you can discover this disease early, there are mechanisms to treat it, and in fact,  
 **Translation:** 
 
-**[1217.20s] English:** i know a number of people who were diagnosed and saved just because they had food poisoning they  
+**[1217.20s] English:** I know a number of people who were diagnosed and saved just because they had food poisoning.  
 **Translation:** 
 
-**[1223.60s] English:** had terrible food poisoning they went to er they go scan there were early signs on the scan and  
-**Translation:** Vocabulary: diagnosed: 确诊; poisoning: 中毒
+**[1223.60s] English:** They had terrible food poisoning. They went to ER, got a scan, and there were early signs on the scan.  
+**Translation:** Vocabulary: diagnosed: 被诊断; poisoning: 中毒
 
-**[1231.44s] English:** that would save their lives but this wasn't really an accidental case so as we become better  
+**[1231.44s] English:** That would save their lives, but this wasn't really an accidental case. So, as we become better,...  
 **Translation:** 
 
-**[1238.64s] English:** we would be able to help too many more people that have you know that are likely to develop  
+**[1238.64s] English:** We would be able to help too many more people who are likely to develop.  
 **Translation:** 
 
-**[1245.84s] English:** diseases and i just want to say that as i got more into this field i realized that you know  
+**[1245.84s] English:** Diseases, and I just want to say that as I got more into this field, I realized that you know.  
 **Translation:** 
 
-**[1251.92s] English:** cancer is of course terrible disease  
+**[1251.92s] English:** Cancer, of course, is a terrible disease.  
 **Translation:** 
 
-**[1253.60s] English:** there are really the whole slew of terrible diseases out there  
+**[1253.60s] English:** There are really a whole slew of terrible diseases out there.  
 **Translation:** 
 
-**[1258.16s] English:** like neurodegenerative diseases and others so we of course a lot of us are fixated on  
+**[1258.16s] English:** Like neurodegenerative diseases and others, so we of course a lot of us are fixated on.  
+**Translation:** Vocabulary: neurodegenerative: 神经系统退行性疾病
+
+**[1264.08s] English:** Cancer, just because it's so prevalent in our society, and you see these people when there  
 **Translation:** 
 
-**[1264.08s] English:** cancer just because it's so prevalent in our society and you see these people when there  
+**[1267.60s] English:** There are a lot of patients with neurodegenerative diseases and the kinds of aging diseases.  
+**Translation:** Vocabulary: prevalent: 普遍存在的
+
+**[1272.40s] English:** That we still don't have a good solution for, and I felt as a computer scientist, we  
 **Translation:** 
 
-**[1267.60s] English:** are a lot of patients with neurodegenerative diseases and the kind of aging diseases  
-**Translation:** Vocabulary: neurodegenerative: 神经系统退行性; prevalent: 普遍存在的
-
-**[1272.40s] English:** that we still don't have a good solution for and we you know and i felt as a computer scientist we  
+**[1283.20s] English:** Kind of  
 **Translation:** 
 
-**[1283.20s] English:** kind of  
+**[1283.60s] English:** Decided that it's other people's job to treat these diseases, uh, because it's like traditionally.  
 **Translation:** 
 
-**[1283.60s] English:** decided that it's other people's job to treat these diseases uh because it's like traditionally  
+**[1289.28s] English:** People in biology, chemistry, or MDS are the ones who are thinking about it.  
 **Translation:** 
 
-**[1289.28s] English:** people in biology or in chemistry or mds are the ones who are thinking about it  
+**[1295.44s] English:** And after kind of starting to pay attention, I think that it's really a wrong assumption, and we all  
 **Translation:** 
 
-**[1295.44s] English:** and after kind of start paying attention i think that it's really a wrong assumption and we all  
-**Translation:** 
-
-**[1300.80s] English:** need to join the battle so how it seems like in cancer specifically that there's a lot of ways  
+**[1300.80s] English:** Need to join the battle, so it seems like in cancer, specifically, there are a lot of ways.  
 **Translation:** Vocabulary: assumption: 假设
 
-**[1307.28s] English:** that machine learning can help so what's what's the role of machine learning in the diagnosis  
+**[1307.28s] English:** That machine learning can help so, what's the role of machine learning in the diagnosis?  
 **Translation:** 
 
-**[1312.64s] English:** of cancer so for many cancers today we really don't know what is  
+**[1312.64s] English:** Of cancer, so for many cancers today, we really don't know what it is.  
+**Translation:** Vocabulary: cancers: 多种癌症
+
+**[1320.00s] English:** Is your likelihood to get cancer, and for the vast majority of patients, especially on the younger side?  
 **Translation:** 
 
-**[1320.00s] English:** is your likelihood to get cancer and for the vast majority of patients especially on the younger  
+**[1327.36s] English:** Patients, it really comes as a surprise, like, for instance, that 80 percent of breast cancers are found through mammograms.  
+**Translation:** Vocabulary: likelihood: 可能性; mammograms: 乳腺X线摄影
+
+**[1332.24s] English:** Patients are often the first in their families to be diagnosed, like me, and I never saw that I had any increased risk.  
 **Translation:** 
 
-**[1327.36s] English:** patients it really comes as a surprise like for instance for breast cancer 80 percent of the  
-**Translation:** Vocabulary: likelihood: 可能性
-
-**[1332.24s] English:** patients are first in their families it's like me and i never saw that i had any increased risk  
+**[1338.48s] English:** Because you know, nobody had it in my family, and for some reason in my head it was kind of  
 **Translation:** 
 
-**[1338.48s] English:** because you know nobody had it in my family and for some reason in my head it was kind of  
+**[1343.52s] English:** Inherited disease, but even if I would pay attention to the models that currently  
 **Translation:** 
 
-**[1343.52s] English:** inherited disease but even if i would pay attention the the models that currently  
-**Translation:** 
-
-**[1350.16s] English:** these very simplistic statistical models that are currently used in clinical practice they  
+**[1350.16s] English:** These very simplistic statistical models that are currently used in clinical practice, they  
 **Translation:** Vocabulary: inherited: 遗传; simplistic: 简单的
 
-**[1354.48s] English:** really don't give you an answer so you don't know and the same true for pancreatic cancer  
+**[1354.48s] English:** Really, don't give you an answer, so you don't know, and the same is true for pancreatic cancer.  
 **Translation:** 
 
-**[1360.24s] English:** the same true for non-smoking lung cancer and many others so what machine learning can do here  
+**[1360.24s] English:** The same is true for non-smoking lung cancer, and many others. So, what machine learning can do here.  
 **Translation:** 
 
-**[1367.20s] English:** is utilize all this data to tell us ellie who is likely to be susceptible and the  
+**[1367.20s] English:** Is it possible to utilize all this data to tell us who, like Ellie, is likely to be susceptible?  
 **Translation:** 
 
-**[1373.52s] English:** using all the information that is already there be it imaging uh be it your other tests and you  
-**Translation:** Vocabulary: susceptible: 易感的
-
-**[1380.40s] English:** know eventually uh liquid biopsies and others where the signal itself is not sufficiently  
+**[1373.52s] English:** Using all the information that is already there, whether it's imaging or your other tests, and you  
 **Translation:** 
 
-**[1387.68s] English:** strong for human eye to do good discrimination because the signal may be weak but by combining  
+**[1380.40s] English:** Know, eventually, however, liquid biopsies and others, where the signal itself is not sufficiently  
+**Translation:** 
+
+**[1387.68s] English:** Strong for the human eye to do good discrimination, because the signal may be weak, but by combining  
 **Translation:** Vocabulary: biopsies: 活检; sufficiently: 足够地
 
-**[1393.92s] English:** many sources a machine which is trained on large volumes of data can really  
+**[1393.92s] English:** Many sources indicate that a machine trained on large volumes of data can really  
 **Translation:** 
 
-**[1399.36s] English:** uh detect it early and that's what we've seen with breast cancer and people are reporting  
+**[1399.36s] English:** Uh, detect it early, and that's what we've seen with breast cancer; people are reporting.  
+**Translation:** Vocabulary: detect: 早期发现
+
+**[1403.52s] English:** It's also relevant in other diseases, as it really boils down to data, and in the different kinds.  
 **Translation:** 
 
-**[1403.52s] English:** it in other diseases as well that really boils down to data right and in the different kinds  
+**[1409.28s] English:** Of sources of data, and you mentioned regulatory challenges. So, what are the challenges in gathering?  
+**Translation:** Vocabulary: regulatory: 监管
+
+**[1416.88s] English:** Large data sets in the space: again, another great question! So, it took me, after I decided that I wanted...  
 **Translation:** 
 
-**[1409.28s] English:** of sources of data and you mentioned regulatory challenges so what are the challenges in gathering  
+**[1424.72s] English:** To work on it for two years to get access to any data, like a significant amount, like right now.  
 **Translation:** 
 
-**[1416.88s] English:** large data sets in the space again another great question so it took me after i decided that i want  
+**[1432.56s] English:** In this country,  
 **Translation:** 
 
-**[1424.72s] English:** to work on it two years to get access to data any data like any significant amount like right now  
-**Translation:** 
-
-**[1432.56s] English:** in this country  
-**Translation:** 
-
-**[1433.52s] English:** there is no publicly available data set of modern mammograms that you can just go on your computer  
+**[1433.52s] English:** There is no publicly available data set of modern mammograms that you can just go on your computer.  
 **Translation:** Vocabulary: mammograms: 乳腺X光片
 
-**[1440.00s] English:** document and get it it just doesn't exist i mean you know obviously every hospital has its own  
+**[1440.00s] English:** Document and get it—it just doesn't exist. I mean, you know, obviously, every hospital has its own.  
 **Translation:** 
 
-**[1445.86s] English:** collection of mammograms there are data that come out that came out of clinical trials but we're  
+**[1445.86s] English:** Collection of mammograms: There are data that came out of clinical trials, but we're  
 **Translation:** 
 
-**[1451.60s] English:** talking about you as a computer scientist who just want to run his or her model and see how it works  
+**[1451.60s] English:** Talking about a computer scientist who just wants to run their model and see how it works.  
 **Translation:** 
 
-**[1458.50s] English:** this data like image net doesn't exist and they you know there is an set which is called like  
+**[1458.50s] English:** This data, like ImageNet, doesn't exist, and they you know there is a set which is called like  
 **Translation:** 
 
-**[1467.64s] English:** florida data set which is a film mammogram from 90s which is totally not representative of the  
+**[1467.64s] English:** Florida dataset, which is a film mammogram from the 1990s, which is totally not representative of the  
 **Translation:** 
 
-**[1472.76s] English:** current developments whatever you're learning on them doesn't scale up this is the only resource  
-**Translation:** Vocabulary: mammogram: 乳腺X光片
+**[1472.76s] English:** Current developments: whatever you're learning on them doesn't scale up. This is the only resource.  
+**Translation:** Vocabulary: dataset: 数据集; mammogram: 乳腺X光片
 
-**[1477.06s] English:** that is available and uh today there are many agencies that govern access to data like the  
+**[1477.06s] English:** That is available, and today there are many agencies that govern access to data like the  
 **Translation:** 
 
-**[1484.78s] English:** hospital holds your data and the hospital decides whether they would give it to the researcher to  
+**[1484.78s] English:** Hospital holds your data, and the hospital decides whether they will give it to the researcher.  
+**Translation:** Vocabulary: govern: 管理
+
+**[1491.04s] English:** Work with this data, an individual hospital, so, like, yeah, I mean, the hospital may, you know, issue  
 **Translation:** 
 
-**[1491.04s] English:** work with this data an individual hospital so like yeah i mean the hospital may you know issue  
+**[1497.46s] English:** Me.  
 **Translation:** 
 
-**[1497.46s] English:** me  
+**[1497.62s] English:** You're doing research collaboration, you can submit, you know, there is a proper approval process guided.  
 **Translation:** 
 
-**[1497.62s] English:** you're doing research collaboration you can submit you know there is a proper approval process guided  
+**[1503.78s] English:** By RB, and you, if you go through all the processes, you can eventually get access to the data, but  
+**Translation:** Vocabulary: collaboration: 合作; submit: 提交
+
+**[1510.74s] English:** If you yourself know our AI community, there aren't that many people who actually ever got  
 **Translation:** 
 
-**[1503.78s] English:** by rb and you if you go through all the processes you can eventually get access to the data but  
+**[1515.62s] English:** Access to data because it's a very challenging process, and uh, sorry, just a quick comment.  
 **Translation:** 
 
-**[1510.74s] English:** if you you yourself know our ai community there are not that many people who actually ever got  
+**[1521.78s] English:** MGH, or any kind of hospital, are they scanning the data? Are they digitally storing it? Oh, it  
 **Translation:** 
 
-**[1515.62s] English:** access to data because it's very challenging process and uh sorry just in a quick comment  
+**[1530.10s] English:** Is already digitally stored; you don't need to do any extra processing steps. It's already there.  
+**Translation:** Vocabulary: digitally: 以数字形式; scanning: 扫描
+
+**[1535.30s] English:** The right form is that, right now, there are a lot of issues that govern access to the data.  
 **Translation:** 
 
-**[1521.78s] English:** mgh or any kind of hospital are they scanning the data are they digitally storing it oh it  
+**[1541.06s] English:** Because the hospital is legally responsible for the data, and you know, they have a lot to lose.  
 **Translation:** 
 
-**[1530.10s] English:** is already digitally stored you don't need to do any extra processing steps it's already there in  
-**Translation:** Vocabulary: digitally: 以数字方式; scanning: 扫描
-
-**[1535.30s] English:** the right form it is that right now there are a lot of issues that govern access to the data  
+**[1550.98s] English:** If they give that,  
 **Translation:** 
 
-**[1541.06s] English:** because the hospital is legally responsible for for the data and you know they have a lot to lose  
+**[1551.78s] English:** Data to the wrong person, but they may not have a lot to gain if they give it at a hospital.  
 **Translation:** 
 
-**[1550.98s] English:** if they give that  
+**[1557.28s] English:** As a legal entity.  
 **Translation:** 
 
-**[1551.78s] English:** data to the wrong person, but they may not have a lot to gain if they give it as a hospital,  
+**[1560.00s] English:** Is giving it to you.  
 **Translation:** 
 
-**[1557.28s] English:** as a legal entity.  
+**[1561.00s] English:** And, you know, what I would imagine happening in the future is the same thing.  
 **Translation:** 
 
-**[1560.00s] English:** is giving it to you.  
-**Translation:** 
-
-**[1561.00s] English:** And the way, you know, what I would imagine happening in the future is the same thing  
-**Translation:** 
-
-**[1564.76s] English:** that happens when you're getting your driving license.  
+**[1564.76s] English:** That happens when you're getting your driving license.  
 **Translation:** 
 
 **[1566.92s] English:** You can decide whether you want to donate your organs.  
 **Translation:** 
 
-**[1569.98s] English:** You can imagine that whenever a person goes to the hospital, they, it should be easy for  
+**[1569.98s] English:** You can imagine that whenever a person goes to the hospital, it should be easy for them.  
+**Translation:** Vocabulary: donate: 捐赠
+
+**[1575.32s] English:** They can donate their data for research, and it can be different kinds of data. Do they only give?  
 **Translation:** 
 
-**[1575.32s] English:** them to donate their data for research and it can be different kind of do they only give  
+**[1580.06s] English:** You have test results, or only imaging data, or the whole medical record? Because at the end,  
 **Translation:** 
 
-**[1580.06s] English:** you a test results or only imaging data or the whole medical record because at the end  
+**[1590.00s] English:** Of the day, we will all benefit from all these insights, and it's like you say: I want.  
 **Translation:** 
 
-**[1590.00s] English:** of the day, we all will benefit from all this insights and it's like you say, I want  
+**[1594.96s] English:** To keep my data private, but I would really love to get it— you know—from other people.  
 **Translation:** 
 
-**[1594.96s] English:** to keep my data private, but I would really love to get it, you know, from other people  
+**[1598.78s] English:** Because other people think in the same way.  
 **Translation:** 
 
-**[1598.78s] English:** because other people think in the same way.  
-**Translation:** 
-
-**[1600.94s] English:** So if there is a mechanism to do this donation and the patient has an ability to say how  
+**[1600.94s] English:** So, if there is a mechanism to do this donation, and the patient has the ability to say how  
 **Translation:** Vocabulary: donation: 捐赠
 
-**[1608.46s] English:** they want to use their data for research, it would be really a game changer.  
+**[1608.46s] English:** They want to use their data for research; it would be really a game changer.  
 **Translation:** 
 
-**[1614.36s] English:** People when they think about this problem, there's a, it depends on the population, depends  
+**[1614.36s] English:** People, when they think about this problem, there's a lot that depends on the population, and it also depends  
 **Translation:** 
 
-**[1618.88s] English:** on the demographics.  
+**[1618.88s] English:** On the demographics.  
 **Translation:** 
 
-**[1619.88s] English:** But there's some privacy concerns generally, not just medical data, just any kind of data.  
+**[1619.88s] English:** But there are some privacy concerns generally, not just with medical data, but with any kind of data.  
 **Translation:** Vocabulary: demographics: 人口统计
 
-**[1626.04s] English:** It's what you said, my data, it should belong kind of to me.  
+**[1626.04s] English:** It's what you said: my data should kind of belong to me.  
 **Translation:** 
 
-**[1629.64s] English:** I'm worried how it's going to be misused.  
-**Translation:** Vocabulary: misused: 误用
+**[1629.64s] English:** I'm worried how it will be misused.  
+**Translation:** Vocabulary: misused: 被滥用
 
 **[1633.32s] English:** How do we alleviate those concerns?  
 **Translation:** 
 
-**[1636.00s] English:** Because that seems like a problem that needs to be, that problem of trust, of transparency  
+**[1636.00s] English:** Because that seems like a problem that needs to be addressed—the problem of trust and transparency.  
 **Translation:** Vocabulary: alleviate: 减轻
 
-**[1641.58s] English:** needs to be solved before we build large data sets that help detect cancer, help save those  
+**[1641.58s] English:** Needs to be solved before we build large data sets that help detect cancer and save those lives.  
 **Translation:** 
 
-**[1648.04s] English:** very people in the future.  
+**[1648.04s] English:** Very few people in the future.  
+**Translation:** Vocabulary: detect: 发现
+
+**[1649.74s] English:** So, I think there are two things that could.  
 **Translation:** 
 
-**[1649.74s] English:** So I think there are two things that could  
+**[1651.50s] English:** It's been done.  
 **Translation:** 
 
-**[1651.50s] English:** be done.  
+**[1652.50s] English:** There are technical solutions, and there are societal solutions.  
 **Translation:** 
 
-**[1652.50s] English:** There is a technical solutions and there are societal solutions.  
-**Translation:** 
-
-**[1658.38s] English:** So on the technical end, we today have ability to improve disambiguation.  
+**[1658.38s] English:** So, on the technical end, we today have the ability to improve disambiguation.  
 **Translation:** Vocabulary: disambiguation: 消除歧义; societal: 社会的
 
-**[1668.38s] English:** Like for instance, for imaging, it's, for, you know, for imaging, you can do it pretty  
+**[1668.38s] English:** Like, for instance, for imaging, you can do it pretty  
 **Translation:** 
 
-**[1674.34s] English:** well.  
+**[1674.34s] English:** Well.  
 **Translation:** 
 
 **[1675.34s] English:** What's disambiguation?  
@@ -1043,108 +1044,108 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **Translation:** 
 
 **[1678.34s] English:** What's disambiguation?  
-**Translation:** 
+**Translation:** Vocabulary: identification: 身份识别
 
 **[1679.34s] English:** Removing the identification.  
 **Translation:** 
 
-**[1680.00s] English:** moving the names of the people.  
+**[1680.00s] English:** Moving the names of the people.  
 **Translation:** 
 
 **[1682.00s] English:** There are other data, like if it is a raw text,  
 **Translation:** 
 
-**[1684.82s] English:** you cannot really achieve 99.9%,  
-**Translation:** Vocabulary: cannot: 不能
-
-**[1687.94s] English:** but there are all these techniques  
+**[1684.82s] English:** You cannot really achieve 99.9%.  
 **Translation:** 
 
-**[1689.98s] English:** that actually some of them are developed at MIT,  
+**[1687.94s] English:** But there are all these techniques.  
 **Translation:** 
 
-**[1692.48s] English:** how you can do learning on the encoded data  
+**[1689.98s] English:** That actually, some of them are developed at MIT.  
 **Translation:** 
 
-**[1695.38s] English:** where you locally encode the image,  
+**[1692.48s] English:** How can you learn from the encoded data?  
+**Translation:** 
+
+**[1695.38s] English:** Where you locally encode the image,  
 **Translation:** Vocabulary: encode: 编码; encoded: 已编码
 
-**[1697.46s] English:** you train a network which only works on the encoded images,  
+**[1697.46s] English:** You train a network which only works on the encoded images.  
 **Translation:** 
 
-**[1702.38s] English:** and then you send the outcome back to the hospital  
+**[1702.38s] English:** And then you send the outcome back to the hospital.  
 **Translation:** 
 
-**[1704.44s] English:** and you can open it up.  
+**[1704.44s] English:** And you can open it up.  
 **Translation:** 
 
-**[1706.62s] English:** So those are the technical solutions.  
+**[1706.62s] English:** So, those are the technical solutions.  
 **Translation:** 
 
-**[1707.92s] English:** There are a lot of people who are working in this space  
+**[1707.92s] English:** There are a lot of people who are working in this space.  
 **Translation:** 
 
-**[1710.14s] English:** where the learning happens in the encoded form.  
+**[1710.14s] English:** Where the learning happens in the encoded form.  
 **Translation:** 
 
-**[1713.64s] English:** We are still early,  
+**[1713.64s] English:** We are still early.  
 **Translation:** 
 
-**[1715.76s] English:** but this is an interesting research area  
+**[1715.76s] English:** But this is an interesting research area.  
 **Translation:** 
 
-**[1719.10s] English:** where I think we'll make more progress.  
+**[1719.10s] English:** Where I think we'll make more progress.  
 **Translation:** 
 
-**[1723.30s] English:** There is a lot of work in the natural language processing community  
+**[1723.30s] English:** There is a lot of work in the natural language processing community.  
 **Translation:** 
 
-**[1725.94s] English:** how to do de-identification better.  
+**[1725.94s] English:** How to Do De-Identification Better.  
 **Translation:** 
 
-**[1730.20s] English:** But even today, there are already a lot of data  
+**[1730.20s] English:** But even today, there are already a lot of data.  
 **Translation:** 
 
-**[1733.78s] English:** which can be de-identified perfectly,  
+**[1733.78s] English:** Which can be de-identified perfectly,  
 **Translation:** 
 
-**[1735.78s] English:** like your test data, for instance.  
+**[1735.78s] English:** Like your test data, for instance.  
 **Translation:** 
 
-**[1737.92s] English:** There is a lot of work in the natural language processing community  
+**[1737.92s] English:** There is a lot of work in the natural language processing community.  
 **Translation:** 
 
-**[1740.28s] English:** where you can just, you know, the name of the patient,  
+**[1740.28s] English:** Where you can just, you know, put the name of the patient,  
 **Translation:** 
 
-**[1740.98s] English:** you just want to extract the part with the numbers.  
+**[1740.98s] English:** You just want to extract the part with the numbers.  
 **Translation:** 
 
 **[1744.42s] English:** The big problem here is, again,  
+**Translation:** Vocabulary: extract: 提取
+
+**[1748.34s] English:** Hospitals don't see much incentive.  
 **Translation:** 
 
-**[1748.34s] English:** hospitals don't see much incentive  
-**Translation:** 
-
-**[1750.22s] English:** to give this data away on one hand,  
+**[1750.22s] English:** To give this data away on one hand,  
 **Translation:** Vocabulary: incentive: 动力
 
-**[1752.58s] English:** and then there is general concern.  
+**[1752.58s] English:** And then there is a general concern.  
 **Translation:** 
 
-**[1754.22s] English:** Now, when I'm talking about societal benefits  
+**[1754.22s] English:** Now, when I'm talking about societal benefits,...  
+**Translation:** Vocabulary: societal: 社会的
+
+**[1757.48s] English:** And, about the education,  
 **Translation:** 
 
-**[1757.48s] English:** and about the education,  
+**[1759.56s] English:** The public needs to understand.  
 **Translation:** 
 
-**[1759.56s] English:** the public needs to understand  
+**[1763.48s] English:** That I think that there are situations,  
 **Translation:** 
 
-**[1763.48s] English:** that I think that there are situations,  
-**Translation:** 
-
-**[1767.74s] English:** you know, in the natural language processing community,  
+**[1767.74s] English:** You know, in the natural language processing community,  
 **Translation:** 
 
 **[1767.90s] English:** I still remember myself when I really needed an answer.  
@@ -1159,10 +1160,10 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[1775.28s] English:** You're just guessing.  
 **Translation:** 
 
-**[1776.80s] English:** And at that moment, you feel that your life is at the stake,  
+**[1776.80s] English:** And at that moment, you feel that your life is at stake.  
 **Translation:** 
 
-**[1780.74s] English:** but you just don't have information to make the choice.  
+**[1780.74s] English:** But you just don't have information to make the choice.  
 **Translation:** 
 
 **[1784.90s] English:** And many times when I give talks,  
@@ -1171,118 +1172,118 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[1787.98s] English:** I get emails from women who say,  
 **Translation:** 
 
-**[1791.36s] English:** you know, I'm in this situation.  
+**[1791.36s] English:** You know, I'm in this situation.  
 **Translation:** 
 
-**[1792.68s] English:** Can you please run statistics and see what are the outcomes?  
+**[1792.68s] English:** Can you please run the statistics and see what the outcomes are?  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[1797.02s] English:** We get.  
 **Translation:** 
 
-**[1797.02s] English:** We get,  
-**Translation:** 
-
-**[1797.90s] English:** almost every week in mammograms,  
+**[1797.90s] English:** Almost every week, in mammograms,  
 **Translation:** Vocabulary: mammograms: 乳腺X光检查
 
-**[1800.00s] English:** that comes by mail to my office at MIT, I'm serious, that people ask to run because they  
+**[1800.00s] English:** That comes by mail to my office at MIT, I'm serious: people ask to run because they  
 **Translation:** 
 
-**[1806.62s] English:** need to make, you know, life-changing decisions. And of course, you know, I'm not planning to open  
+**[1806.62s] English:** Need to make life-changing decisions, you know. And of course, I'm not planning to open, you know.  
 **Translation:** 
 
-**[1812.14s] English:** a clinic here, but we do run and give them the results for their doctors. But the point that I'm  
+**[1812.14s] English:** A clinic here, but we do run and give them the results for their doctors. But the point that I'm  
 **Translation:** 
 
-**[1818.78s] English:** trying to make that we all at some point or our loved ones will be in the situation where you need  
+**[1818.78s] English:** Trying to make sure that, at some point or another, we or our loved ones will be in the situation where you need  
 **Translation:** 
 
-**[1825.76s] English:** information to make the best choice. And if this information is not available, you would feel  
+**[1825.76s] English:** Information to make the best choice. And if this information is not available, you would feel  
 **Translation:** 
 
-**[1832.66s] English:** vulnerable and unprotected. And then the question is, you know, what do I care more? Because at the  
-**Translation:** Vocabulary: unprotected: 没有保护
+**[1832.66s] English:** Vulnerable and unprotected. And then the question is: You know, what do I care more about? Because at the  
+**Translation:** Vocabulary: unprotected: 没有保护; vulnerable: 易受攻击
 
-**[1838.32s] English:** end, everything is a trade-off, correct? Yeah, exactly. Just out of curiosity,  
+**[1838.32s] English:** End; everything is a trade-off, correct? Yeah, exactly. Just out of curiosity,  
 **Translation:** 
 
-**[1843.20s] English:** it seems like one possible solution, I'd like to see what you think of it,  
+**[1843.20s] English:** It seems like one possible solution. I'd like to see what you think of it.  
 **Translation:** 
 
-**[1848.10s] English:** based on what you just said, based on wanting to know answers for when you're yourself in that  
+**[1848.10s] English:** Based on what you just said, based on wanting to know answers for when you're yourself in that situation,  
 **Translation:** 
 
-**[1854.18s] English:** situation. Is it possible for...  
+**[1854.18s] English:** Situation: Is it possible for...  
 **Translation:** 
 
-**[1855.76s] English:** Is it possible for patients to own their data as opposed to hospitals owning their data? Of course,  
+**[1855.76s] English:** Is it possible for patients to own their data, as opposed to hospitals owning their data? Of course.  
 **Translation:** 
 
-**[1861.44s] English:** theoretically, I guess patients own their data, but can you walk out there with a USB stick  
+**[1861.44s] English:** Theoretically, I guess patients own their data, but can you walk out there with a USB stick?  
 **Translation:** Vocabulary: theoretically: 理论上
 
-**[1866.42s] English:** containing everything or upload it to the cloud where a company, you know, I remember Microsoft  
+**[1866.42s] English:** Containing everything or upload it to the cloud, where a company, you know, I remember Microsoft,...  
 **Translation:** 
 
-**[1874.18s] English:** had a service, like I try, I was really excited about, and Google Health was there. I tried to  
+**[1874.18s] English:** Had a service, like I tried and was really excited about, and Google Health was there. I tried to  
 **Translation:** 
 
-**[1879.74s] English:** give, I was excited about it. Basically, companies helping you upload your data to the cloud,  
+**[1879.74s] English:** I was excited about it. Basically, companies help you upload your data to the cloud.  
 **Translation:** 
 
-**[1885.76s] English:** so that you can move from hospital to hospital, from doctor to doctor. Do you see a promise of  
+**[1885.76s] English:** So that you can move from hospital to hospital, from doctor to doctor. Do you see a promise of?  
 **Translation:** 
 
-**[1890.28s] English:** that kind of possibility? I absolutely think this is, you know, the right way to exchange  
+**[1890.28s] English:** That kind of possibility? I absolutely think this is, you know, the right way to exchange.  
 **Translation:** 
 
-**[1897.42s] English:** the data. I don't know now who's the biggest player in this field, but I can clearly see that  
+**[1897.42s] English:** The data. I don't know now who's the biggest player in this field, but I can clearly see that.  
 **Translation:** 
 
-**[1903.30s] English:** even for totally selfish health reasons, when you are going to a new facility, and many of us are  
+**[1903.30s] English:** Even for totally selfish health reasons, when you are going to a new facility, and many of us are.  
 **Translation:** 
 
-**[1910.06s] English:** sent to some specialized treatment, they don't easily have access to your data.  
+**[1910.06s] English:** Sent to some specialized treatment, they don't easily have access to your data.  
 **Translation:** 
 
-**[1915.76s] English:** And today, you know, we would want to send this mammogram need to go to the  
+**[1915.76s] English:** And today, we would want to send this mammogram to go to the  
 **Translation:** 
 
-**[1920.00s] English:** A hospital finds some small office, which gives them the CD and they ship as a CD.  
-**Translation:** Vocabulary: mammogram: 乳腺X光检查
+**[1920.00s] English:** A hospital finds a small office, which gives them the CD, and they ship it as a CD.  
+**Translation:** Vocabulary: mammogram: 乳腺X光摄影
 
-**[1924.82s] English:** So you can imagine we're looking at kind of decades old mechanism of data exchange.  
+**[1924.82s] English:** So, you can imagine we're looking at a rather outdated mechanism of data exchange.  
 **Translation:** 
 
-**[1930.88s] English:** So I definitely think this is an area where hopefully all the right regulatory and technical forces will align and we will see it actually implemented.  
-**Translation:** Vocabulary: align: 协调一致
+**[1930.88s] English:** So, I definitely think this is an area where hopefully all the right regulatory and technical forces will align, and we will see it actually implemented.  
+**Translation:** Vocabulary: align: 协调; implemented: 实施; outdated: 过时; regulatory: 监管
 
-**[1942.62s] English:** It's sad because unfortunately, and I need to research why that happened, but I'm pretty sure Google Health and Microsoft Health Vault or whatever it's called both closed down.  
+**[1942.62s] English:** It's sad because, unfortunately, and I need to research why that happened, but I'm pretty sure Google Health and Microsoft HealthVault (or whatever it's called) both closed down.  
 **Translation:** 
 
-**[1954.36s] English:** Which means that there was either regulatory pressure or there's not a business case or there's challenges from hospitals, which is very disappointing.  
-**Translation:** Vocabulary: vault: 金库
-
-**[1963.24s] English:** So when you say you don't know what the biggest players are, the two biggest that I was aware of closed their doors.  
+**[1954.36s] English:** Which means that there was either regulatory pressure, or there isn't a business case, or there are challenges from hospitals, which is very disappointing.  
 **Translation:** 
 
-**[1970.04s] English:** So I'm hoping.  
+**[1963.24s] English:** So, when you say you don't know what the biggest players are, the two biggest that I was aware of closed their doors.  
 **Translation:** 
 
-**[1971.24s] English:** I'd love to see why and I'd love to see who else can come up.  
+**[1970.04s] English:** So, I'm hoping.  
 **Translation:** 
 
-**[1974.62s] English:** It seems like one of those Elon Musk style problems that are obvious needs to be solved and somebody needs to step up and actually do this large scale data collection.  
+**[1971.24s] English:** I'd love to see why, and I'd love to see who else can come up.  
 **Translation:** 
 
-**[1987.28s] English:** I know there is an initiative in Massachusetts, I think it should be led by the governor to try to create this kind of health exchange system,  
+**[1974.62s] English:** It seems like one of those Elon Musk-style problems: something that's obviously needs to be solved, and somebody needs to step up and actually do this large-scale data collection.  
 **Translation:** 
 
-**[1995.56s] English:** at least to help people who can if you show up in emergency room and there is no information about what are your allergies.  
+**[1987.28s] English:** I know there is an initiative in Massachusetts. I think it should be led by the governor to try to create this kind of health exchange system.  
+**Translation:** 
+
+**[1995.56s] English:** At least, to help people who can: if you show up in an emergency room and there is no information about your allergies.  
 **Translation:** Vocabulary: allergies: 过敏反应
 
 **[2001.24s] English:** And other things.  
 **Translation:** 
 
-**[2003.14s] English:** So I don't know how far it will go.  
+**[2003.14s] English:** So, I don't know how far it will go.  
 **Translation:** 
 
 **[2006.20s] English:** But another thing that you said, and I find it very interesting, is actually who are the successful players in this space and the whole implementation?  
@@ -1291,13 +1292,13 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2016.24s] English:** How does it go?  
 **Translation:** Vocabulary: implementation: 实施方案
 
-**[2017.28s] English:** To me, it is from the anthropological perspective.  
+**[2017.28s] English:** To me, it is from an anthropological perspective.  
 **Translation:** 
 
-**[2020.12s] English:** It's more fascinating that AI that today goes in healthcare.  
-**Translation:** Vocabulary: anthropological: 人类学的; healthcare: 医疗卫生
+**[2020.12s] English:** It's more fascinating that AI goes into healthcare today.  
+**Translation:** Vocabulary: anthropological: 人类学的; healthcare: 医疗保健
 
-**[2024.24s] English:** You know, we've seen so many, you know, attempts and so very little successes.  
+**[2024.24s] English:** You know, we've seen so many attempts, and so very little success.  
 **Translation:** 
 
 **[2029.46s] English:** And it's interesting.  
@@ -1306,196 +1307,196 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2031.20s] English:** It's interesting.  
 **Translation:** 
 
-**[2031.24s] English:** It's interesting to understand that I have by no means, you know, have knowledge to assess why we are in the position where we are.  
-**Translation:** 
+**[2031.24s] English:** It's interesting to understand that I have, you know, by no means the knowledge to assess why we are in the position where we are.  
+**Translation:** Vocabulary: assess: 评价
 
 **[2039.64s] English:** Yeah.  
 **Translation:** 
 
-**[2040.00s] English:** interesting is data is really fuel for a lot of successful applications. And when that data  
+**[2040.00s] English:** Interesting is that data is really fuel for a lot of successful applications. And when that data...  
 **Translation:** 
 
-**[2045.74s] English:** requires regulatory approval, like the FDA or any kind of approval, it seems that the computer  
+**[2045.74s] English:** Requires regulatory approval, like the FDA, or any kind of approval, it seems that the computer.  
 **Translation:** 
 
-**[2055.24s] English:** scientists are not quite there yet in being able to play the regulatory game, understanding the  
+**[2055.24s] English:** Scientists are not quite there yet in being able to play the regulatory game, understanding the  
+**Translation:** Vocabulary: regulatory: 监管的
+
+**[2059.52s] English:** Fundamentals of IT. I think that in many cases, when even people do have data, we still don't  
 **Translation:** 
 
-**[2059.52s] English:** fundamentals of it. I think that in many cases, when even people do have data, we still don't  
-**Translation:** 
-
-**[2067.52s] English:** know what exactly do you need to demonstrate to change the standard of care. Like, let me give  
+**[2067.52s] English:** Know what exactly you need to demonstrate to change the standard of care. Like, let me give  
 **Translation:** Vocabulary: fundamentals: 基础原则
 
-**[2076.24s] English:** you an example related to my breast cancer research. So, in traditional breast cancer  
+**[2076.24s] English:** You know, an example related to my breast cancer research. So, in traditional breast cancer,  
 **Translation:** 
 
-**[2083.78s] English:** risk assessment, there is something called density, which determines the likelihood of a  
+**[2083.78s] English:** Risk assessment: There is something called density, which determines the likelihood of an event occurring.  
+**Translation:** Vocabulary: density: 密度; likelihood: 可能性
+
+**[2089.12s] English:** Woman getting cancer. And this pretty much says how much white you see on the mammogram. The  
 **Translation:** 
 
-**[2089.12s] English:** woman to get cancer. And this pretty much says how much white do you see on the mammogram. The  
-**Translation:** 
-
-**[2094.36s] English:** whiter it is, the more likely the tissue is to get cancer. And the more likely the tissue is to get  
+**[2094.36s] English:** White it is, the more likely the tissue is to get cancer. And the more likely the tissue is to get  
 **Translation:** Vocabulary: mammogram: 乳腺X光摄影
 
-**[2097.50s] English:** cancer. And the more likely the tissue is to get cancer. And the more likely the tissue is to get  
+**[2097.50s] English:** Cancer. And the more likely the tissue is to get cancer. And the more likely the tissue is to get...  
 **Translation:** 
 
-**[2097.52s] English:** cancer. And the more likely the tissue is to get cancer. And the idea behind density, it's not a  
+**[2097.52s] English:** Cancer. And the more likely the tissue is to get cancer. And the idea behind density: it's not a  
 **Translation:** 
 
-**[2103.16s] English:** bad idea. In 1967, a radiologist called Wolf decided to look back at women who were diagnosed  
+**[2103.16s] English:** Bad idea. In 1967, a radiologist named Wolf decided to look back at women who were diagnosed.  
 **Translation:** 
 
-**[2109.28s] English:** and see what is special in their images. Can we look back and say that they're likely to develop?  
+**[2109.28s] English:** And see what is special in their images. Can we look back and say that they are likely to develop?  
 **Translation:** 
 
-**[2114.72s] English:** So, he come up with some patterns. It was the best that his human eye can identify. Then it was kind  
+**[2114.72s] English:** So, he came up with some patterns. It was the best that his human eye could identify. Then it was kind  
 **Translation:** 
 
-**[2121.30s] English:** of formalized and coded into four categories. And that's what we are using today. And, you know,  
+**[2121.30s] English:** Of formalized and coded into four categories, and that's what we are using today. And, you know,  
 **Translation:** 
 
-**[2127.50s] English:** today, this density assessment is actually a federal law from 2019, approved by President  
+**[2127.50s] English:** Today, this density assessment is actually a federal law from 2019, approved by President.  
 **Translation:** 
 
-**[2135.52s] English:** Trump and for the previous FDA commissioner, where women are supposed to be advised by their  
+**[2135.52s] English:** Trump, and for the previous FDA commissioner, where women are supposed to be advised by their  
 **Translation:** 
 
-**[2142.88s] English:** providers if they have high density, putting them into higher risk category. And in some states,  
+**[2142.88s] English:** Providers, if they have high density, are put into a higher-risk category. And in some states,  
 **Translation:** 
 
-**[2149.42s] English:** you can actually get supplementary screening paid by your insurance because you're in this  
-**Translation:** Vocabulary: density: 密度; supplementary: 补充的
+**[2149.42s] English:** You can actually get supplementary screening paid by your insurance because you're in this.  
+**Translation:** Vocabulary: providers: 供应商; supplementary: 补充的
 
-**[2153.24s] English:** category. Now, you can say, how much science do we have behind it? Whatever,  
+**[2153.24s] English:** Category. Now, you can ask, "How much science do we have behind it?" Whatever.  
 **Translation:** 
 
-**[2157.12s] English:** biological science or epidemiological evidence.  
+**[2157.12s] English:** Biological science or epidemiological evidence.  
 **Translation:** Vocabulary: epidemiological: 流行病学的
 
-**[2160.00s] English:** So it turns out that between 40% and 50% of women have dense breasts.  
+**[2160.00s] English:** So, it turns out that between 40% and 50% of women have dense breasts.  
 **Translation:** 
 
-**[2166.64s] English:** So about 40% of patients are coming out of their screening and somebody tells them, you are in high risk.  
+**[2166.64s] English:** So, about 40% of patients are coming out of their screening and somebody tells them, "You are in high risk.  
 **Translation:** 
 
-**[2175.12s] English:** Now, what exactly does it mean if you as half of the population in high risk?  
+**[2175.12s] English:** Now, what exactly does it mean if you are half of the population in a high-risk group?  
 **Translation:** 
 
-**[2179.70s] English:** It's from saying, maybe I'm not, you know, or what do I really need to do with it?  
+**[2179.70s] English:** It's from saying, "Maybe I'm not, you know, or what do I really need to do with it?  
 **Translation:** 
 
-**[2183.66s] English:** Because the system doesn't provide me a lot of the solutions because there are so many people like me, we cannot really provide very expensive solutions for them.  
+**[2183.66s] English:** Because the system doesn't provide me with a lot of solutions because there are so many people like me; we cannot really afford to provide very expensive solutions for them.  
 **Translation:** 
 
-**[2194.60s] English:** And the reason this whole density became this big deal, it's actually advocated by the patients who felt very unprotected because many women went and did the mammograms, which were normal.  
-**Translation:** Vocabulary: advocated: 提倡; cannot: 不能; mammograms: 乳腺X线摄影; unprotected: 受保护
+**[2194.60s] English:** And the reason this whole density became such a big deal is that it's actually advocated by patients who felt very unprotected, because many women went and did the mammograms, which were normal.  
+**Translation:** Vocabulary: advocated: 提倡; cannot: 不能; density: 密度; mammograms: 乳腺X线摄影; unprotected: 受保护
 
-**[2205.88s] English:** And then it turns out that they already had cancer, quite developed cancer.  
+**[2205.88s] English:** And then it turns out that they already had cancer—quite a developed cancer.  
 **Translation:** 
 
-**[2210.48s] English:** So they didn't have a way to know who is.  
+**[2210.48s] English:** So, they didn't have a way to know who it was.  
 **Translation:** 
 
-**[2213.66s] English:** And what is the likelihood that when the doctor tells you, you're okay, you're not okay.  
+**[2213.66s] English:** And what is the likelihood that, when the doctor tells you you're okay, you're not okay?  
 **Translation:** 
 
-**[2218.12s] English:** So at the time, and it was, you know, 15 years ago, this maybe was the best piece of science that we had.  
+**[2218.12s] English:** So, at the time, and it was, you know, 15 years ago, this might have been the best piece of science that we had.  
 **Translation:** Vocabulary: likelihood: 可能性
 
-**[2226.96s] English:** And it took, you know, quite 15, 16 years to make it federal law.  
+**[2226.96s] English:** And it took, you know, quite 15 to 16 years to make it a federal law.  
 **Translation:** 
 
-**[2232.22s] English:** But now that this is, this is a standard.  
+**[2232.22s] English:** But now that this is a standard.  
 **Translation:** 
 
-**[2235.34s] English:** Now with a deep learning model, we can so much more accurately predict who is going to develop breast cancer just because you're trained on a large core.  
+**[2235.34s] English:** Now, with a deep learning model, we can so much more accurately predict who is going to develop breast cancer, just because you're trained on a large corpus.  
 **Translation:** 
 
 **[2243.24s] English:** And instead of describing how much white and what kind of white machine can systematically identify the patterns,  
+**Translation:** Vocabulary: corpus: 大量文本
+
+**[2250.00s] English:** Which was the original idea behind the thought of the radiologist?  
 **Translation:** 
 
-**[2250.00s] English:** which was the original idea behind the thought of the radiologist,  
-**Translation:** 
-
-**[2253.74s] English:** machines can do it much more systematically and predict the risk when you're training the machine to look at the image and to say the risk in one to five years.  
+**[2253.74s] English:** Machines can do it much more systematically, and predict the risk when you're training the machine to look at the image and to say the risk in one to five years.  
 **Translation:** Vocabulary: radiologist: 放射科医生
 
-**[2261.84s] English:** Now you can ask me how long it will take to substitute this density, which is broadly used across the country.  
+**[2261.84s] English:** Now, you can ask me how long it will take to substitute this density, which is broadly used across the country.  
 **Translation:** 
 
-**[2268.44s] English:** And really it's not helping to bring this new model.  
-**Translation:** 
+**[2268.44s] English:** And really, it's not helping to bring in this new model.  
+**Translation:** Vocabulary: broadly: 广泛地; substitute: 替代
 
 **[2273.24s] English:** And I would say it's not a matter of the algorithm.  
 **Translation:** 
 
-**[2276.64s] English:** Algorithms already orders of magnitude better than what is currently in practice.  
-**Translation:** Vocabulary: algorithm: 算法
+**[2276.64s] English:** Algorithms are already orders of magnitude better than what is currently in practice.  
+**Translation:** Vocabulary: algorithm: 计算方法
 
-**[2280.00s] English:** I think it's really the question, who do you need to convince?  
+**[2280.00s] English:** I think it's really the question: who do you need to convince?  
 **Translation:** 
 
 **[2284.56s] English:** How many hospitals do you need to run the experiment?  
 **Translation:** 
 
-**[2288.78s] English:** All this mechanism of adoption, and how do you explain to patients and to women across  
+**[2288.78s] English:** All this mechanism of adoption, and how do you explain it to patients and to women across?  
 **Translation:** 
 
-**[2296.94s] English:** the country that this is really a better measure?  
-**Translation:** 
+**[2296.94s] English:** The country that this is really a better measure?  
+**Translation:** Vocabulary: adoption: 收养
 
 **[2300.62s] English:** And again, I don't think it's an AI question.  
 **Translation:** 
 
-**[2302.78s] English:** We can work more and make the algorithm even better, but I don't think that this is the  
+**[2302.78s] English:** We can work more and make the algorithm even better, but I don't think that this is the right approach.  
 **Translation:** 
 
-**[2307.32s] English:** current barrier.  
+**[2307.32s] English:** Current barrier.  
 **Translation:** 
 
-**[2310.08s] English:** The barrier is really this other piece that for some reason is not really explored.  
-**Translation:** 
+**[2310.08s] English:** The barrier is really this other piece that, for some reason, is not really explored.  
+**Translation:** Vocabulary: barrier: 障碍
 
-**[2315.32s] English:** It's like anthropological piece.  
+**[2315.32s] English:** It's like an anthropological piece.  
 **Translation:** 
 
 **[2317.14s] English:** And coming back to your question about books, there is a book that I'm reading.  
 **Translation:** Vocabulary: anthropological: 人类学的
 
-**[2323.12s] English:** It's called American Sickness by Elizabeth Rosenthal.  
+**[2323.12s] English:** It's called "American Sickness" by Elizabeth Rosenthal.  
 **Translation:** 
 
 **[2328.52s] English:** And I got this book from my clinical collaborator, Dr. Connie Lehman.  
 **Translation:** Vocabulary: collaborator: 合作者; lehman: 李汉曼; rosenthal: 罗森塔尔
 
-**[2333.26s] English:** And I said, I know everything that I need to know about American health system, but  
+**[2333.26s] English:** And I said, "I know everything I need to know about the American health system," but  
 **Translation:** 
 
-**[2336.54s] English:** every page doesn't.  
+**[2336.54s] English:** Every page doesn't.  
 **Translation:** 
 
 **[2337.30s] English:** It doesn't fail to surprise me.  
 **Translation:** 
 
-**[2339.56s] English:** And I think there is a lot of interesting and really deep lessons for people like us  
+**[2339.56s] English:** And I think there are a lot of interesting and really deep lessons for people like us.  
 **Translation:** 
 
-**[2346.80s] English:** from computer science who are coming into this field to really understand how complex  
+**[2346.80s] English:** From computer science who are coming into this field to really understand how complex it can be.  
 **Translation:** 
 
-**[2351.54s] English:** is the system of incentives in the system to understand how you really need to play  
+**[2351.54s] English:** Is the system of incentives in the system to understand how you really need to play?  
 **Translation:** Vocabulary: incentives: 激励机制
 
-**[2357.50s] English:** to drive adoption.  
+**[2357.50s] English:** To drive adoption.  
 **Translation:** 
 
-**[2359.92s] English:** You just said it's complex, but if we're trying to simplify it, who do you think most likely  
+**[2359.92s] English:** You just said it's complex, but if we're trying to simplify it, who do you think is most likely  
 **Translation:** Vocabulary: simplify: 简化
 
-**[2365.86s] English:** would be successful?  
+**[2365.86s] English:** Would it be successful?  
 **Translation:** 
 
 **[2367.10s] English:** If we push on this group of people?  
@@ -1507,22 +1508,22 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2370.66s] English:** Is it the hospitals?  
 **Translation:** 
 
-**[2371.92s] English:** Is it the governments or policy makers?  
+**[2371.92s] English:** Is it the government or policymakers?  
 **Translation:** 
 
-**[2374.44s] English:** Is it the individual patients, consumers who needs to be inspired to most likely lead to  
-**Translation:** 
+**[2374.44s] English:** Is it the individual patients or consumers who need to be inspired, most likely leading to?  
+**Translation:** Vocabulary: policymakers: 政策制定者
 
-**[2383.24s] English:** adoption?  
+**[2383.24s] English:** Adoption?  
 **Translation:** 
 
 **[2384.24s] English:** Or is there no simple answer?  
+**Translation:** Vocabulary: adoption: 收养
+
+**[2386.44s] English:** There's no simple answer, but I think there are a lot of good people in medical.  
 **Translation:** 
 
-**[2386.44s] English:** There's no simple answer, but I think there is a lot of good people in medical  
-**Translation:** 
-
-**[2391.44s] English:** system who do want to make a change.  
+**[2391.44s] English:** System: Who do you want to make a change?  
 **Translation:** 
 
 **[2396.42s] English:** Yeah.  
@@ -1543,199 +1544,199 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2397.50s] English:** I think a lot of power will come.  
 **Translation:** 
 
-**[2400.00s] English:** from us as consumers, because we all are consumers or future consumers of healthcare services.  
+**[2400.00s] English:** From us as consumers, because we are all consumers or future consumers of healthcare services.  
 **Translation:** 
 
-**[2406.48s] English:** And I think we can do so much more in explaining the potential and not in the hype terms,  
-**Translation:** Vocabulary: healthcare: 医疗卫生
+**[2406.48s] English:** And I think we can do so much more in explaining the potential—and not in hype terms.  
+**Translation:** Vocabulary: healthcare: 医疗服务
 
-**[2415.36s] English:** and not saying that we now killed all Alzheimer and, you know, I'm really sick of reading this  
+**[2415.36s] English:** And not saying that we've now cured all Alzheimer's; you know, I'm really sick of reading this.  
 **Translation:** 
 
-**[2419.52s] English:** kind of articles which make these claims, but really to show with some examples what this  
+**[2419.52s] English:** Kind of articles which make these claims, but really to show with some examples what this is about.  
 **Translation:** 
 
-**[2425.04s] English:** implementation does and how it changes the care. Because I can't imagine, it doesn't matter what  
+**[2425.04s] English:** Implementation does and how it changes the care. Because I can't imagine; it doesn't matter what.  
 **Translation:** 
 
-**[2430.56s] English:** kind of politician it is, you know, we all are susceptible to these diseases. There is no one  
-**Translation:** Vocabulary: implementation: 执行; susceptible: 易感
+**[2430.56s] English:** Kind of politician it is, you know, we all are susceptible to these diseases. There is no one...  
+**Translation:** Vocabulary: implementation: 执行; susceptible: 易感的
 
-**[2436.00s] English:** who is free. And eventually, you know, we all are humans and we are looking for a way  
+**[2436.00s] English:** Who is free? And eventually, you know, we are all humans and we are looking for a way.  
 **Translation:** 
 
-**[2442.56s] English:** to alleviate the suffering. And this is one possible way where we currently are underutilizing,  
-**Translation:** Vocabulary: alleviate: 减轻; underutilizing: 利用不足
+**[2442.56s] English:** To alleviate the suffering, and this is one possible way where we are currently underutilizing.  
+**Translation:** Vocabulary: alleviate: 减轻; underutilizing: 未充分利用
 
-**[2449.20s] English:** which I think can help. So it sounds like the biggest problems are outside of AI.  
+**[2449.20s] English:** Which I think can help. So, it sounds like the biggest problems are outside of AI.  
 **Translation:** 
 
-**[2455.04s] English:** In terms of the biggest impact at this point. But are there any open problems in the application  
+**[2455.04s] English:** In terms of the biggest impact at this point, are there any open problems in the application?  
 **Translation:** 
 
-**[2461.12s] English:** of ML to oncology in general? So improving the detection or any other creative methods,  
+**[2461.12s] English:** Of machine learning to oncology in general? So, improving the detection, or any other creative methods,  
 **Translation:** 
 
-**[2467.36s] English:** whether it's on the detection segmentation, so the vision perception side, or some other clever  
+**[2467.36s] English:** Whether it's in the detection and segmentation, or some other clever  
 **Translation:** Vocabulary: detection: 检测; oncology: 肿瘤学; segmentation: 分割
 
-**[2474.88s] English:** inference? Yeah, what in general in your view are the open problems in this space?  
+**[2474.88s] English:** Inference? Yeah, in general, what are the open problems in this space from your view?  
 **Translation:** 
 
-**[2480.16s] English:** Yeah, I just want to mention that beside detection, another area where I'm kind of quite  
-**Translation:** Vocabulary: inference: 推断
+**[2480.16s] English:** Yeah, I just want to mention that besides detection, another area where I'm kind of quite  
+**Translation:** Vocabulary: inference: 推理
 
-**[2484.24s] English:** active and  
+**[2484.24s] English:** Active and  
 **Translation:** 
 
 **[2485.04s] English:** I think it's really an increasingly important area in healthcare is drug design.  
 **Translation:** 
 
-**[2492.80s] English:** Because, you know, it's fine if you detect something early, but you still need  
+**[2492.80s] English:** Because, you know, it's fine if you detect something early, but you still need to address it properly.  
 **Translation:** 
 
-**[2498.32s] English:** to get, you know, to get drugs and new drugs for these conditions. And today, all of the drug  
+**[2498.32s] English:** To get, you know, drugs and new drugs for these conditions. And today, all of the drugs  
+**Translation:** Vocabulary: detect: 早期发现
+
+**[2506.16s] English:** Design: If ML is non-existent, then we don't have any drug developed by an ML model or even  
 **Translation:** 
 
-**[2506.16s] English:** design, ML is non-existent then. We don't have any drug that was developed by the ML model or even  
+**[2514.00s] English:** Not developed, but  
 **Translation:** 
 
-**[2514.00s] English:** not developed, but  
+**[2515.04s] English:** At least, even you, the ML model plays some significant role. I think  
 **Translation:** 
 
-**[2515.04s] English:** at least even you, the ML model plays some significant role. I think  
+**[2520.00s] English:** This area, with all the new abilities to generate molecules with desired properties, is doing  
 **Translation:** 
 
-**[2520.00s] English:** this area with all the new ability to generate molecules with desired properties to do  
+**[2526.28s] English:** In silicosis screening is really a big open area. To be totally honest with you, when we are doing  
 **Translation:** 
 
-**[2526.28s] English:** in silica screening is really a big open area. To be totally honest with you, when we are doing  
+**[2533.34s] English:** Diagnostics and imaging: primarily taking the ideas that were developed for other areas and  
+**Translation:** Vocabulary: diagnostics: 诊断; silicosis: 硅肺病
+
+**[2538.34s] English:** Applying them with some adaptation, the area of drug design is really technically interesting.  
 **Translation:** 
 
-**[2533.34s] English:** diagnostics and imaging, primarily taking the ideas that were developed for other areas and  
-**Translation:** Vocabulary: diagnostics: 诊断; silica: 硅质
+**[2546.68s] English:** And it's an exciting area. You need to work a lot with graphs and capture various 3D properties. There  
+**Translation:** Vocabulary: adaptation: 调整; graphs: 图表; technically: 从技术上
 
-**[2538.34s] English:** applying them with some adaptation, the area of drug design is really technically interesting  
+**[2554.70s] English:** There are lots and lots of opportunities to be technically creative, and I think there are a  
 **Translation:** 
 
-**[2546.68s] English:** and exciting area. You need to work a lot with graphs and capture various 3D properties. There  
-**Translation:** Vocabulary: adaptation: 调整
-
-**[2554.70s] English:** are lots and lots of opportunities to be technically creative. And I think there are a  
+**[2563.00s] English:** There are a lot of open questions in this area. We're already getting a lot of successes, even with the first.  
 **Translation:** 
 
-**[2563.00s] English:** lot of open questions in this area. We're already getting a lot of successes even with the first  
+**[2570.62s] English:** Generation of these models, but there is much more new and creative things that you can do.  
 **Translation:** 
 
-**[2570.62s] English:** generation of these models, but there is much more new creative things that you can do.  
+**[2576.68s] English:** And what's very nice to see is that, actually, the more powerful and more interesting models,  
 **Translation:** 
 
-**[2576.68s] English:** And what's very nice to see is that actually the more powerful, the more interesting models  
+**[2584.10s] English:** Actually, we can do better. So, there is a place to innovate in machine learning in this area.  
 **Translation:** 
 
-**[2584.10s] English:** actually do do better. So, there is a place to innovate in machine learning in this area.  
-**Translation:** 
-
-**[2593.70s] English:** And some of these techniques are really unique to, let's say, to graph generation and other things.  
+**[2593.70s] English:** And some of these techniques are really unique to graph generation and other things.  
 **Translation:** Vocabulary: innovate: 创新
 
-**[2599.50s] English:** So, what, just to interrupt really quick, I'm sorry, graph generation or graphs,  
+**[2599.50s] English:** So, what, just to interrupt really quickly, I'm sorry, graph generation or graphs,  
 **Translation:** 
 
-**[2606.68s] English:** this drug discovery in general, how do you discover a drug? Is this chemistry? Is this  
+**[2606.68s] English:** This drug discovery in general: How do you discover a drug? Is it chemistry?  
+**Translation:** Vocabulary: interrupt: 打断
+
+**[2613.66s] English:** Trying to predict different chemical reactions? Or is it something like what do graphs even mean?  
 **Translation:** 
 
-**[2613.66s] English:** trying to predict different chemical reactions? Or is it some kind of, what do graphs even  
+**[2620.48s] English:** Represent in this space? And what's a drug?  
+**Translation:** Vocabulary: reactions: 反应
+
+**[2625.26s] English:** Okay. So, let's say you're thinking that there are many different types of drugs, but let's say  
 **Translation:** 
 
-**[2620.48s] English:** represent in this space? And what's a drug?  
+**[2628.90s] English:** You're going to talk about small molecules, because I think today the majority of drugs.  
 **Translation:** 
 
-**[2625.26s] English:** Okay. So, let's say you're thinking there are many different types of drugs, but let's say  
+**[2632.74s] English:** Are small molecules. So, a small molecule is a graph. The molecule is just,  
 **Translation:** 
 
-**[2628.90s] English:** you're going to talk about small molecules, because I think today the majority of drugs  
+**[2636.68s] English:** Where the node in the graph is an atom.  
+**Translation:** Vocabulary: molecule: 分子
+
+**[2640.00s] English:** And then you have the bonds, so it's really a graph representation if you look at it in 2D.  
 **Translation:** 
 
-**[2632.74s] English:** are small molecules. So, small molecule is a graph. The molecule is just,  
+**[2644.48s] English:** Correct? You can do it in 3D, but let's say—well, let's keep it simple and stick to 2D.  
 **Translation:** 
 
-**[2636.68s] English:** where the node in the graph is an atom.  
+**[2651.44s] English:** So, pretty much, my understanding today is how it is done at scale in the companies.  
 **Translation:** 
 
-**[2640.00s] English:** and then you have the bonds, so it's really a graph representation if you look at it in 2D,  
+**[2658.48s] English:** Without machine learning, you have high-throughput screening. So, you know that you are interested in  
 **Translation:** 
 
-**[2644.48s] English:** correct? You can do it in 3D, but let's say, well, let's keep it simple and stick in 2D.  
+**[2663.68s] English:** Get certain biological activity over the compound, so you scan a lot of compounds.  
 **Translation:** 
 
-**[2651.44s] English:** So, pretty much my understanding today, how it is done at scale in the companies,  
+**[2668.72s] English:** Like maybe hundreds of thousands, or even a really big number of compounds.  
 **Translation:** 
 
-**[2658.48s] English:** without machine learning, you have high throughput screening. So, you know that you are interested to  
-**Translation:** Vocabulary: throughput: 高通量
-
-**[2663.68s] English:** get certain biological activity over the compound, so you scan a lot of compounds,  
+**[2672.80s] English:** You identify some compounds that have the right activity, and then at this point, you know,  
 **Translation:** 
 
-**[2668.72s] English:** like maybe hundreds of thousands, some really big number of compounds,  
-**Translation:** 
-
-**[2672.80s] English:** you identify some compounds which have the right activity, and then at this point, you know,  
-**Translation:** 
-
-**[2677.68s] English:** the chemists come and they're trying to now to optimize this original heat to different  
+**[2677.68s] English:** The chemists come, and they're trying to optimize this original heat for different applications.  
 **Translation:** Vocabulary: chemists: 化学家; optimize: 优化
 
-**[2684.72s] English:** properties that you want it to be, maybe soluble, you want it to decrease toxicity, you want it to  
+**[2684.72s] English:** Properties that you want it to have, maybe soluble, you want it to decrease toxicity, you want it to  
 **Translation:** 
 
-**[2689.68s] English:** decrease the side effects. Are those, sorry again to interrupt,  
-**Translation:** Vocabulary: soluble: 可溶性; toxicity: 毒性
+**[2689.68s] English:** Decrease the side effects. Are those, sorry again to interrupt,  
+**Translation:** Vocabulary: soluble: 溶解; toxicity: 毒性
 
-**[2693.92s] English:** can that be done in simulation or just by looking at the molecules, or do you need to  
+**[2693.92s] English:** Can that be done in simulation, or just by looking at the molecules, or do you need to?  
 **Translation:** 
 
-**[2698.40s] English:** actually...  
-**Translation:** Vocabulary: simulation: 模拟
+**[2698.40s] English:** Actually,...  
+**Translation:** 
 
 **[2698.72s] English:** Do you run reactions in real labs with lab coats and stuff?  
 **Translation:** 
 
-**[2702.40s] English:** So, when you do high throughput screening, you really do  
-**Translation:** 
+**[2702.40s] English:** So, when you do high-throughput screening, you really do  
+**Translation:** Vocabulary: reactions: 化学反应
 
-**[2705.52s] English:** screening. It's in the lab. It's really the lab screening. You screen the molecules, correct?  
+**[2705.52s] English:** Screening is in the lab. It's really the lab screening. You screen the molecules, correct?  
 **Translation:** 
 
 **[2710.88s] English:** I don't know what screening is.  
 **Translation:** 
 
-**[2712.32s] English:** The screening is just check them for certain property.  
+**[2712.32s] English:** The screening is just to check them for a certain property.  
 **Translation:** 
 
-**[2714.96s] English:** Like in the physical space, in the physical world, like actually there's a machine probably  
+**[2714.96s] English:** Like in the physical space or in the physical world, there's actually probably a machine.  
 **Translation:** 
 
-**[2718.64s] English:** that's doing some, that's actually running the reaction.  
+**[2718.64s] English:** That's doing some of the work, that's actually running the reaction.  
 **Translation:** 
 
-**[2721.36s] English:** Actually running the reactions, yeah. So, there is a process where you can run,  
+**[2721.36s] English:** Actually, running the reactions, yeah. So, there is a process where you can run,...  
 **Translation:** 
 
-**[2725.28s] English:** and that's why it's called high throughput, that, you know, it becomes cheaper,  
+**[2725.28s] English:** And that's why it's called high-throughput; that is, you know, it becomes cheaper.  
 **Translation:** 
 
-**[2727.84s] English:** and faster to do it in very big number of molecules. You run the screening, you identify  
+**[2727.84s] English:** And it's faster to do it with a very large number of molecules. You run the screening, you identify,...  
 **Translation:** 
 
-**[2738.56s] English:** potential good starts, and then where the chemists come in who, you know, have done it many times,  
+**[2738.56s] English:** Potential good starts, and then, where the chemists come in—who, you know, have done it many times.  
 **Translation:** 
 
-**[2743.92s] English:** and then they can try to look at it and say, how can you change the molecule to get the desired  
-**Translation:** 
+**[2743.92s] English:** And then they can try to look at it and say, "How can you change the molecule to get the desired  
+**Translation:** Vocabulary: molecule: 分子
 
-**[2750.96s] English:** profile in terms of all other properties? So, maybe how do I make it more bioactive and so on?  
+**[2750.96s] English:** Profile in terms of all other properties? So, maybe how do I make it more bioactive, and so on?  
 **Translation:** 
 
 **[2756.48s] English:** And there, you know, the...  
@@ -1744,94 +1745,94 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2757.68s] English:** The creativity of the chemists really,  
 **Translation:** 
 
-**[2760.00s] English:** is the one that determines the success of this design  
+**[2760.00s] English:** Is the one that determines the success of this design.  
+**Translation:** Vocabulary: chemists: 化学家
+
+**[2764.96s] English:** Because, again, they have a lot of domain knowledge.  
 **Translation:** 
 
-**[2764.96s] English:** because, again, they have a lot of domain knowledge  
+**[2769.18s] English:** Of what works, how do you decrease toxicity, and so on?  
 **Translation:** 
 
-**[2769.18s] English:** of what works, how do you decrease toxicity, and so on,  
+**[2772.88s] English:** And that's what they do.  
 **Translation:** 
 
-**[2772.88s] English:** and that's what they do.  
+**[2775.04s] English:** So, all the drugs that are currently FDA-approved,  
 **Translation:** 
 
-**[2775.04s] English:** So all the drugs that are currently in the FDA-approved drugs  
+**[2780.14s] English:** Or even drugs that are in clinical trials,  
 **Translation:** 
 
-**[2780.14s] English:** or even drugs that are in clinical trials,  
+**[2781.98s] English:** They are designed using these domain experts.  
 **Translation:** 
 
-**[2781.98s] English:** they are designed using these domain experts  
+**[2786.84s] English:** Which go through this combinatorial space of molecules, or graphs, or whatever.  
 **Translation:** 
 
-**[2786.84s] English:** which go through this combinatorial space of molecules or graphs or whatever  
-**Translation:** 
-
-**[2791.58s] English:** and find the right one or adjust it to be the right one.  
-**Translation:** Vocabulary: combinatorial: 组合搜索
+**[2791.58s] English:** And find the right one, or adjust it to be the right one.  
+**Translation:** Vocabulary: combinatorial: 组合的; graphs: 图形
 
 **[2795.06s] English:** It sounds like the breast density heuristic from 67, the same echoes.  
 **Translation:** 
 
 **[2800.50s] English:** It's not necessarily that.  
-**Translation:** Vocabulary: density: 乳房密度; heuristic: 启发法
+**Translation:** Vocabulary: density: 乳房密度; echoes: 回声; heuristic: 启发式
 
-**[2802.64s] English:** It's really driven by deep understanding.  
+**[2802.64s] English:** It's really driven by a deep understanding.  
 **Translation:** 
 
 **[2805.40s] English:** It's not like they just observe it.  
 **Translation:** 
 
-**[2806.90s] English:** I mean, they do deeply understand chemistry,  
+**[2806.90s] English:** I mean, they do deeply understand chemistry.  
 **Translation:** 
 
-**[2808.44s] English:** and they do understand how different groups  
+**[2808.44s] English:** And they do understand how different groups  
 **Translation:** 
 
-**[2810.34s] English:** and how does it change the properties.  
+**[2810.34s] English:** And how does it change the properties?  
 **Translation:** 
 
-**[2813.16s] English:** So there is a lot of science that gets into it,  
+**[2813.16s] English:** So, there is a lot of science that gets into it.  
 **Translation:** 
 
-**[2816.62s] English:** and a lot of kind of simulation, how do you want it to behave.  
+**[2816.62s] English:** And a lot of kinds of simulation: how do you want it to behave?  
 **Translation:** 
 
 **[2821.98s] English:** It's very, very complex.  
-**Translation:** Vocabulary: simulation: 模拟
+**Translation:** 
 
 **[2823.80s] English:** So they're quite effective at this design, obviously.  
 **Translation:** 
 
-**[2826.14s] English:** Now, effective, yeah, we have drugs.  
+**[2826.14s] English:** Now, we have effective drugs, yeah.  
 **Translation:** 
 
-**[2828.80s] English:** Depending on how do you measure effective,  
+**[2828.80s] English:** Depending on how you measure effectiveness,  
 **Translation:** 
 
-**[2830.76s] English:** if you measure it in terms of cost, it's prohibitive.  
-**Translation:** Vocabulary: prohibitive: 代价高昂
+**[2830.76s] English:** If you measure it in terms of cost, it's prohibitive.  
+**Translation:** Vocabulary: effectiveness: 效果; prohibitive: 代价高昂
 
-**[2833.92s] English:** If you measure it in terms of times,  
+**[2833.92s] English:** If you measure it in terms of time,  
 **Translation:** 
 
-**[2835.36s] English:** we have lots of diseases for which we don't have any drugs,  
+**[2835.36s] English:** We have lots of diseases for which we don't have any drugs.  
 **Translation:** 
 
-**[2838.40s] English:** and we don't even know how to approach.  
+**[2838.40s] English:** And we don't even know how to approach it.  
 **Translation:** 
 
-**[2840.14s] English:** I don't need to mention a few drugs or neurodegenerative disease drugs that fail.  
+**[2840.14s] English:** I don't need to mention a few drugs, or neurodegenerative disease drugs, that fail.  
 **Translation:** 
 
-**[2846.62s] English:** So there are lots of trials that fail in later stages,  
+**[2846.62s] English:** So, there are lots of trials that fail in later stages.  
 **Translation:** 
 
-**[2852.00s] English:** which is really catastrophic from the financial perspective.  
+**[2852.00s] English:** Which is really catastrophic from a financial perspective.  
 **Translation:** Vocabulary: catastrophic: 灾难性的
 
-**[2855.38s] English:** So is it the effective, the most effective mechanism?  
+**[2855.38s] English:** So, is it the most effective mechanism?  
 **Translation:** 
 
 **[2859.56s] English:** Absolutely no, but this is the only one that currently works.  
@@ -1840,10 +1841,10 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2864.34s] English:** And I was closely interacting with people in the pharmaceutical industry.  
 **Translation:** 
 
-**[2869.26s] English:** I was really fascinated on how sharp  
-**Translation:** Vocabulary: fascinated: 着迷; pharmaceutical: 制药
+**[2869.26s] English:** I was really fascinated by how sharp  
+**Translation:** Vocabulary: fascinated: 着迷; interacting: 互动; pharmaceutical: 制药的
 
-**[2871.24s] English:** and what a deep understanding of the domain do they have.  
+**[2871.24s] English:** And what a deep understanding of the domain do they have.  
 **Translation:** 
 
 **[2875.20s] English:** It's not observation-driven.  
@@ -1855,77 +1856,77 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[2876.60s] English:** There is really a lot of science behind what they do.  
 **Translation:** 
 
-**[2880.00s] English:** but if you ask me can machine learning change it i firmly believe yes because even the most  
+**[2880.00s] English:** But if you ask me, can machine learning change it? I firmly believe yes, because even the most  
 **Translation:** 
 
-**[2886.40s] English:** experienced chemists cannot you know hold in their memory and understanding everything that  
-**Translation:** Vocabulary: cannot: 不能; chemists: 化学家
-
-**[2891.44s] English:** you can learn you know from millions of molecules and reactions and and the space of graphs is a  
+**[2886.40s] English:** Experienced chemists cannot, you know, hold in their memory and understanding everything that  
 **Translation:** 
 
-**[2898.32s] English:** totally new space i mean it's a it's a really interesting space for machine learning to explore  
+**[2891.44s] English:** You can learn, you know, from millions of molecules and reactions, and the space of graphs is a  
 **Translation:** 
 
-**[2903.04s] English:** graph generation yeah so there's a lot of things that you can do here so we do a lot of work so  
+**[2898.32s] English:** Totally new space; I mean, it's a really interesting space for machine learning to explore.  
+**Translation:** Vocabulary: graphs: 图形; reactions: 反应
+
+**[2903.04s] English:** Graph generation, yeah. So, there are a lot of things you can do here, and we do a lot of work on it.  
 **Translation:** 
 
-**[2908.88s] English:** the first tool that we started with was the tool that can predict properties of the molecules so  
+**[2908.88s] English:** The first tool that we started with was the tool that can predict properties of the molecules, so  
 **Translation:** 
 
-**[2916.40s] English:** you can just give the molecule molecule and the property it can be by activity property  
+**[2916.40s] English:** You can just give the molecule, and it will provide the property by activity.  
 **Translation:** 
 
-**[2921.28s] English:** or it can be some other property and you train the molecules and  
+**[2921.28s] English:** Or it can be some other property, and you train the molecules and  
+**Translation:** Vocabulary: molecule: 分子
+
+**[2928.08s] English:** You can now take a new molecule and predict this property. Now, when people started working in this field,...  
 **Translation:** 
 
-**[2928.08s] English:** you can now take a new molecule and predict this property now when people started working in this  
+**[2934.56s] English:** Area, they did something very simple: they used kind of existing, you know, fingerprints, which is kind of.  
+**Translation:** Vocabulary: fingerprints: 现有特征
+
+**[2938.88s] English:** Of handcrafted features of the molecule, when you break the graph into substructures and then you run  
 **Translation:** 
 
-**[2934.56s] English:** area they did something very simple they do kind of existing you know fingerprints which is kind  
-**Translation:** Vocabulary: fingerprints: 现有方法
+**[2943.52s] English:** It's in a feed-forward neural network, and what was interesting to see is that clearly, you know, this was  
+**Translation:** Vocabulary: handcrafted: 手工制作; neural: 神经; substructures: 子结构
 
-**[2938.88s] English:** of handcrafted features of the molecule when you break the graph to substructures and then you run  
+**[2948.80s] English:** Not the most effective way to proceed, and you need to have much more complex models that can induce.  
 **Translation:** 
 
-**[2943.52s] English:** it in a feed forward neural network and what was interesting to see that clearly you know this was  
-**Translation:** Vocabulary: handcrafted: 手工制作; neural: 神经网络; substructures: 子结构
+**[2955.12s] English:** The representation that can translate this graph into embeddings and perform these predictions so  
+**Translation:** Vocabulary: embeddings: 嵌入表示; induce: 推导出
 
-**[2948.80s] English:** not the most effective way to proceed and you need to have much more complex models that can induce  
+**[2961.28s] English:** This is one direction, then another direction, which is kind of related, is not only to stop by looking.  
 **Translation:** 
 
-**[2955.12s] English:** the representation which can translate this graph into the embeddings and do these predictions so  
-**Translation:** Vocabulary: embeddings: 嵌入表示
-
-**[2961.28s] English:** this is one direction then another direction which is kind of related is not only to stop by looking  
+**[2968.88s] English:** At the data itself, but actually modify it to produce better molecules. So you can think about it.  
 **Translation:** 
 
-**[2968.88s] English:** at the data itself but actually modify it to produce better molecules so you can think about it  
+**[2975.52s] English:** As a machine translation, you can start with a molecule, and then there is an improved version.  
 **Translation:** 
 
-**[2975.52s] English:** as machine translation that you can start with a molecule and then there is an improved version  
+**[2980.48s] English:** Of a molecule, and you can again use an encoder to translate it into the hidden space and then  
 **Translation:** 
 
-**[2980.48s] English:** of molecule and you can again with encoder translate it into the hidden space and then  
+**[2985.04s] English:** Learn how to modify it to improve the version of the molecules, so that's it's kind.  
 **Translation:** 
 
-**[2985.04s] English:** learn how to modify it to improve the in some ways version of the molecules so that's it's kind  
+**[2991.76s] English:** Of really exciting, we have already seen that the property prediction works pretty well, and now we  
 **Translation:** 
 
-**[2991.76s] English:** of really exciting we already have seen that the property prediction works pretty well and now we  
+**[2997.76s] English:** Are  
 **Translation:** 
 
-**[2997.76s] English:** are  
+**[2998.88s] English:** Going to talk a little bit more about some of the other things we are going to talk about in  
 **Translation:** 
 
-**[2998.88s] English:** going to talk a little bit more about some of the other things that we are going to talk about in  
+**[3000.00s] English:** And there are actually labs which are manufacturing this molecule,  
 **Translation:** 
 
-**[3000.00s] English:** And there is actually labs which are manufacturing this molecule,  
-**Translation:** 
-
-**[3004.24s] English:** so we'll see where it will get to us.  
-**Translation:** 
+**[3004.24s] English:** So, we'll see where it will take us.  
+**Translation:** Vocabulary: molecule: 分子
 
 **[3006.32s] English:** Okay, that's really exciting.  
 **Translation:** 
@@ -1936,505 +1937,505 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[3008.86s] English:** Speaking of machine translation and embeddings,  
 **Translation:** 
 
-**[3011.86s] English:** you have done a lot of really great research in NLP, natural language processing.  
+**[3011.86s] English:** You have done a lot of really great research in NLP, natural language processing.  
 **Translation:** 
 
-**[3018.84s] English:** Can you tell me your journey through NLP?  
+**[3018.84s] English:** Can you tell me about your journey through NLP?  
 **Translation:** 
 
-**[3021.24s] English:** What ideas, problems, approaches were you working on?  
-**Translation:** 
+**[3021.24s] English:** What ideas, problems, and approaches were you working on?  
+**Translation:** Vocabulary: approaches: 方法
 
-**[3025.12s] English:** Were you fascinated with?  
+**[3025.12s] English:** Were you fascinated by anything?  
 **Translation:** 
 
 **[3026.42s] English:** Did you explore?  
-**Translation:** Vocabulary: fascinated: 着迷
+**Translation:** Vocabulary: fascinated: 着迷的
 
-**[3027.24s] English:** Or before this magic of deep learning re-emerged and after?  
+**[3027.24s] English:** Or, before this magic of deep learning re-emerged, or after?  
 **Translation:** 
 
-**[3033.90s] English:** So when I started my work in NLP, it was in 97.  
+**[3033.90s] English:** So, when I started my work in NLP, it was in 1997.  
 **Translation:** 
 
 **[3037.76s] English:** This was a very interesting time.  
 **Translation:** 
 
-**[3039.46s] English:** It was exactly the time that I came to ACL.  
+**[3039.46s] English:** It was exactly the time when I came to ACL.  
 **Translation:** 
 
 **[3043.42s] English:** At the time, I could barely understand English.  
 **Translation:** 
 
-**[3045.76s] English:** But it was exactly like the transition point  
+**[3045.76s] English:** But it was exactly like the transition point.  
 **Translation:** 
 
-**[3048.40s] English:** because half of the papers were really rule-based approaches  
+**[3048.40s] English:** Because half of the papers were really rule-based approaches.  
 **Translation:** 
 
-**[3053.18s] English:** where people took more kind of heavy linguistic approaches for small domains.  
+**[3053.18s] English:** Where people took a more kind of heavy linguistic approach for small domains.  
 **Translation:** Vocabulary: linguistic: 语言学的
 
-**[3057.24s] English:** And tried to build up from there.  
+**[3057.24s] English:** And we tried to build up from there.  
 **Translation:** 
 
-**[3059.80s] English:** And then there were the first generation of papers which were corpus-based papers.  
+**[3059.80s] English:** And then there were the first-generation papers, which were corpus-based papers.  
 **Translation:** 
 
-**[3064.42s] English:** And they were very simple in our terms when you collect some statistics  
+**[3064.42s] English:** And they were very simple, in our terms, when you collect some statistics.  
 **Translation:** 
 
-**[3067.86s] English:** and do prediction based on them.  
+**[3067.86s] English:** And we do predictions based on them.  
 **Translation:** 
 
 **[3070.00s] English:** But I found it really fascinating that, you know,  
 **Translation:** 
 
-**[3072.26s] English:** one community can think so very differently about, you know, about the problem.  
+**[3072.26s] English:** One community can think so very differently about the problem, you know.  
 **Translation:** 
 
-**[3079.18s] English:** And I remember my first paper that I wrote, it didn't have a single formula.  
+**[3079.18s] English:** And I remember my first paper that I wrote; it didn't have a single formula.  
 **Translation:** 
 
-**[3084.40s] English:** It didn't have evaluation.  
-**Translation:** 
+**[3084.40s] English:** It didn't have an evaluation.  
+**Translation:** Vocabulary: evaluation: 评估
 
 **[3085.70s] English:** It just had examples.  
 **Translation:** 
 
 **[3087.24s] English:** Of outputs.  
+**Translation:** Vocabulary: outputs: 输出
+
+**[3088.32s] English:** And this was a standard in the field at the time.  
 **Translation:** 
 
-**[3088.32s] English:** And this was a standard of the field at the time.  
+**[3091.74s] English:** In some ways, I mean, people may have simply started emphasizing the empirical evaluation.  
+**Translation:** Vocabulary: emphasizing: 强调; empirical: 基于事实的
+
+**[3097.88s] English:** But, for many applications like summarization, you just show some examples of outputs.  
 **Translation:** 
 
-**[3091.74s] English:** In some ways, I mean, people maybe just started emphasizing the empirical evaluation.  
-**Translation:** Vocabulary: emphasizing: 强调; empirical: 实证
+**[3102.86s] English:** And then, increasingly, you can see how statistical approaches dominated the field.  
+**Translation:** Vocabulary: approaches: 方法; dominated: 占据; summarization: 摘要
 
-**[3097.88s] English:** But for many applications like summarization, you just show some examples of outputs.  
-**Translation:** 
-
-**[3102.86s] English:** And then increasingly, you can see that how the statistical approaches dominated the field.  
-**Translation:** Vocabulary: summarization: 摘要生成
-
-**[3108.04s] English:** And we've seen, you know, increased performance across many basic tasks.  
+**[3108.04s] English:** And we've seen increased performance across many basic tasks, you know.  
 **Translation:** 
 
 **[3115.82s] English:** The third.  
 **Translation:** 
 
-**[3117.24s] English:** The third part of the story may be that if you look.  
+**[3117.24s] English:** The third part of the story may be that, if you look.  
 **Translation:** 
 
-**[3120.00s] English:** again through this journey we see that the role of linguistics in some ways greatly diminishes and  
+**[3120.00s] English:** Again, through this journey, we see that the role of linguistics in some ways greatly diminishes and  
 **Translation:** Vocabulary: diminishes: 减少; linguistics: 语言学
 
-**[3129.60s] English:** i think that you really need to look through the whole proceeding to do to find one  
+**[3129.60s] English:** I think that you really need to look through the whole proceeding to find one.  
 **Translation:** 
 
-**[3133.76s] English:** two papers which make some interesting linguistic references it's really today  
+**[3133.76s] English:** Two papers which make some interesting linguistic references; it's really today.  
+**Translation:** Vocabulary: linguistic: 语言学的; proceeding: 过程
+
+**[3138.32s] English:** Today, this was definitely about things like syntactic trees, just basically against.  
 **Translation:** 
 
-**[3138.32s] English:** today today this was definitely things like syntactic trees just even basically against  
-**Translation:** 
-
-**[3143.52s] English:** our conversation about human understanding of language which i guess what linguistics would be  
+**[3143.52s] English:** Our conversation about human understanding of language, which I guess would be what linguistics would be.  
 **Translation:** Vocabulary: syntactic: 句法的
 
-**[3150.24s] English:** structured hierarchical represent representing language in a way that's human explainable  
+**[3150.24s] English:** Structured hierarchical representation of language in a way that's human-explainable.  
 **Translation:** 
 
-**[3155.68s] English:** understandable is missing today i don't know if it is what is explainable and understandable  
-**Translation:** Vocabulary: hierarchical: 层次分明的; understandable: 容易理解的
+**[3155.68s] English:** Understandable is missing today. I don't know if it is explainable and understandable.  
+**Translation:** Vocabulary: hierarchical: 层次结构的
 
-**[3163.52s] English:** in the end you know we perform functions and it's okay to have machine which performs a function  
+**[3163.52s] English:** In the end, you know, we perform functions, and it's okay to have a machine that performs a function.  
 **Translation:** 
 
-**[3170.08s] English:** like when you're thinking about your calculator correct your calculator can call the calculation  
+**[3170.08s] English:** Like when you're thinking about your calculator, it can perform the calculations correctly.  
+**Translation:** Vocabulary: calculator: 计算器
+
+**[3175.36s] English:** Very different from what you would do, the calculation is effective in it, and this is fine.  
 **Translation:** 
 
-**[3175.36s] English:** very different from you would do the calculation but it's very effective in it and this is fine  
+**[3179.68s] English:** If  
 **Translation:** 
 
-**[3179.68s] English:** if  
+**[3180.00s] English:** Can achieve certain tasks with high accuracy, it doesn't necessarily mean that it has to understand.  
 **Translation:** 
 
-**[3180.00s] English:** can achieve certain tasks with high accuracy it doesn't necessarily mean that it has to understand  
-**Translation:** 
-
-**[3187.04s] English:** it the same way as we understand in some ways it's even naive to request because you have so many  
+**[3187.04s] English:** It's the same way as we understand, but in some ways, it's even naive to request because you have so many.  
 **Translation:** Vocabulary: naive: 幼稚
 
-**[3192.32s] English:** other sources of information uh that are absent when you are training your system so it's okay  
+**[3192.32s] English:** Other sources of information, uh, that are absent when you are training your system; so it's okay.  
 **Translation:** 
 
-**[3199.04s] English:** as it delivers it and i would tell you one application this is really fascinating in 97 when  
+**[3199.04s] English:** As it delivers it, I would tell you one application: this is really fascinating. In '97,  
 **Translation:** 
 
-**[3203.44s] English:** it came to acl there were some papers on machine translation they were like primitive like people  
+**[3203.44s] English:** It came to ACL, where there were some papers on machine translation; they were like primitive, like those from early days.  
 **Translation:** 
 
-**[3207.68s] English:** were trying really hard to understand the application and they were trying to understand the  
+**[3207.68s] English:** We were really trying hard to understand the application, and they were trying to understand it as well.  
 **Translation:** 
 
-**[3209.84s] English:** application so it was really really really simple and the feeling my feeling was that you know to  
+**[3209.84s] English:** Application, so it was really, really, really simple, and the feeling was that you know, to  
 **Translation:** 
 
-**[3216.48s] English:** make real machine translation system it's like to fly at the moon and build a house there and  
+**[3216.48s] English:** Make a real machine translation system is like flying to the moon and building a house there.  
 **Translation:** 
 
-**[3221.12s] English:** the garden and live happily ever after i mean it's like impossible i never could imagine that within  
+**[3221.12s] English:** The garden and live happily ever after—I mean, it's like impossible. I never could have imagined that within.  
 **Translation:** 
 
-**[3226.32s] English:** you know 10 years we would already see the system working and now you know nobody is even surprised  
+**[3226.32s] English:** You know, in 10 years we would already see the system working, and now, you know, nobody is even surprised.  
 **Translation:** 
 
-**[3232.24s] English:** to utilize the system on daily basis so this was like a huge huge progress saying that people for  
+**[3232.24s] English:** To utilize the system on a daily basis, so this was like a huge, huge progress, saying that people for  
 **Translation:** 
 
-**[3237.76s] English:** very long time try to solve using  
+**[3237.76s] English:** Very long time, we've tried to solve using  
+**Translation:** Vocabulary: utilize: 使用
+
+**[3239.52s] English:** Are the mechs ready?  
 **Translation:** 
 
-**[3239.52s] English:** are the mech  
+**[3240.00s] English:** Mechanisms, and they were unable to solve it. That's why I'm coming back to a question about.  
 **Translation:** 
 
-**[3240.00s] English:** mechanisms and they were unable to solve it. That's why I'm coming back to a question about  
+**[3244.86s] English:** Biology, that is, in linguistics, people try to go this way and try to write the syntactic.  
 **Translation:** 
 
-**[3244.86s] English:** biology that, you know, in linguistics, people try to go this way and try to write the syntactic  
+**[3252.70s] English:** Trees, and try to abstract it and find the right representation. And, you know, they couldn't get.  
+**Translation:** Vocabulary: linguistics: 语言学; syntactic: 句法
+
+**[3261.56s] English:** Very far with this understanding, while these models, using other sources, actually  
 **Translation:** 
 
-**[3252.70s] English:** trees and try to abstract it and to find the right representation. And, you know, they couldn't get  
-**Translation:** Vocabulary: linguistics: 语言学
-
-**[3261.56s] English:** very far with this understanding while these models using, you know, other sources actually  
+**[3269.06s] English:** Capable of making a lot of progress. Now, I'm not naive to think that we are in this paradise space.  
 **Translation:** 
 
-**[3269.06s] English:** capable to make a lot of progress. Now, I'm not naive to think that we are in this paradise space  
+**[3275.94s] English:** In NLP, and I'm sure as you know, that when we slightly change the domain and when we decrease  
 **Translation:** 
 
-**[3275.94s] English:** in NLP. And I'm sure as you know, that when we slightly change the domain and when we decrease  
+**[3281.74s] English:** The amount of training it has received can make it do some really bizarre and funny things. But I think that's just  
+**Translation:** Vocabulary: bizarre: 怪异的
+
+**[3285.56s] English:** A matter of improving generalization capacity, which is just a technical question.  
 **Translation:** 
 
-**[3281.74s] English:** the amount of training, it can do like really bizarre and funny thing. But I think it's just  
-**Translation:** 
-
-**[3285.56s] English:** a matter of improving generalization capacity, which is just a technical question.  
-**Translation:** 
-
-**[3291.54s] English:** Wow. So that's the question. How much of language understanding can be solved with  
+**[3291.54s] English:** Wow. So, that's the question: how much of language understanding can be solved with?  
 **Translation:** Vocabulary: generalization: 泛化能力
 
-**[3297.92s] English:** deep neural networks?  
+**[3297.92s] English:** Deep neural networks?  
 **Translation:** 
 
-**[3299.06s] English:** In your intuition, I mean, it's unknown, I suppose. But as we start to creep towards  
+**[3299.06s] English:** In your intuition, I mean, it's unknown, I suppose. But as we start to creep towards...  
 **Translation:** Vocabulary: creep: 缓慢进展; intuition: 直觉; neural: 神经的
 
-**[3305.46s] English:** romantic notions of the spirit of the Turing test and conversation and dialogue and something that  
+**[3305.46s] English:** Romantic notions of the spirit of the Turing Test, conversation, and dialogue, and something that  
 **Translation:** 
 
-**[3315.84s] English:** maybe to me or to us, so the humans feels like it needs real understanding. How much can that  
-**Translation:** Vocabulary: turing: 图灵测试
+**[3315.84s] English:** Maybe to me or to us, so humans feel like it needs real understanding. How much can that be?  
+**Translation:** Vocabulary: notions: 观念; turing: 图灵
 
-**[3322.66s] English:** be achieved with these neural networks or statistical methods?  
+**[3322.66s] English:** Can it be achieved with these neural networks or statistical methods?  
 **Translation:** 
 
-**[3327.58s] English:** So I guess,  
+**[3327.58s] English:** So, I guess,  
 **Translation:** 
 
-**[3329.06s] English:** I am very much driven by the outcomes, can we achieve the performance, which would be  
+**[3329.06s] English:** I am very much driven by the outcomes. Can we achieve the desired performance?  
 **Translation:** 
 
-**[3335.94s] English:** satisfactory for us for different tasks. Now, if you again, look at machine translation systems,  
-**Translation:** Vocabulary: satisfactory: 令人满意的
+**[3335.94s] English:** Satisfactory for us for different tasks. Now, if you look at machine translation systems again,  
+**Translation:** Vocabulary: outcomes: 结果; satisfactory: 令人满意的
 
-**[3342.90s] English:** which are, you know, trained on large amounts of data, they really can do a remarkable job  
+**[3342.90s] English:** Which are, you know, trained on large amounts of data, they really can do a remarkable job.  
 **Translation:** 
 
-**[3348.74s] English:** relatively to where they've been a few years ago. And if you project into the future, if it will be  
+**[3348.74s] English:** Relatively to where they've been a few years ago, and if you project into the future, if it will be  
 **Translation:** 
 
-**[3355.06s] English:** the same speed of improvement,  
+**[3355.06s] English:** The same speed of improvement,  
 **Translation:** 
 
-**[3359.06s] English:** you know, this is great.  
+**[3359.06s] English:** You know, this is great.  
 **Translation:** 
 
-**[3360.00s] English:** now does it bother me that it's not doing the same translation as we are doing now if you go  
+**[3360.00s] English:** Now, does it bother me that it's not doing the same translation as we are doing now? If you go,...  
 **Translation:** 
 
-**[3365.56s] English:** to cognitive science we still don't really understand what we are doing uh i mean there  
+**[3365.56s] English:** To cognitive science, we still don't really understand what we are doing; uh, I mean, there.  
 **Translation:** 
 
-**[3370.76s] English:** are a lot of theories and there is obviously a lot of progress in studying but our understanding  
+**[3370.76s] English:** There are a lot of theories, and there is obviously a lot of progress in studying, but our understanding...  
 **Translation:** 
 
-**[3374.88s] English:** what exactly goes on you know in our brains when we process language is still not crystal clear  
+**[3374.88s] English:** What exactly goes on, you know, in our brains when we process language is still not crystal clear.  
 **Translation:** 
 
-**[3380.92s] English:** and precise that we can translate it into machines what does bother me is that um you know again  
+**[3380.92s] English:** And yet, precisely because we can translate it into machines, what bothers me is that...  
 **Translation:** 
 
-**[3389.56s] English:** that machines can be extremely brittle when you go out of your comfort zone of the when there is a  
-**Translation:** Vocabulary: brittle: 易碎的
+**[3389.56s] English:** That machines can be extremely brittle when you go out of your comfort zone, especially when there is a  
+**Translation:** Vocabulary: brittle: 易碎
 
-**[3395.04s] English:** distributional shift between training and testing and it have been years and years every year when  
+**[3395.04s] English:** Distributional shift between training and testing, and it has been years and years—every year when  
 **Translation:** 
 
-**[3399.52s] English:** i teach an lp class you know i show them some examples of translation from some newspaper  
-**Translation:** Vocabulary: distributional: 分布差异
+**[3399.52s] English:** I teach an LP class; you know, I show them some examples of translation from some newspapers.  
+**Translation:** Vocabulary: distributional: 分布的
 
-**[3404.54s] English:** in hebrew whatever it was perfect and then i have a recipe that tommy yakala system sent me  
+**[3404.54s] English:** In Hebrew, whatever it was, it was perfect, and then I have a recipe that Tommy Yakala System sent me.  
 **Translation:** 
 
-**[3411.78s] English:** a while ago and it was written in finnish of carillion pies and it's just a terrible translation  
-**Translation:** Vocabulary: carillion: 千利; finnish: 芬兰语; tommy: 汤米
+**[3411.78s] English:** A while ago, and it was written in Finnish about Carillion pies, and it's just a terrible translation.  
+**Translation:** Vocabulary: carillion: 卡里leon破产; finnish: 芬兰语; hebrew: 希伯来文; recipe: 食谱; tommy: 汤米
 
-**[3419.12s] English:** you cannot  
+**[3419.12s] English:** You cannot.  
 **Translation:** 
 
-**[3419.54s] English:** understand anything what it does it's not like some syntactic mistakes it's just terrible  
+**[3419.54s] English:** Understand anything? What it does, it's not like some syntactic mistakes; it's just terrible.  
 **Translation:** Vocabulary: cannot: 不能; syntactic: 句法的
 
-**[3423.84s] English:** and year after year i try it and will translate in the end after year it does this terrible work  
+**[3423.84s] English:** And year after year, I try it, and in the end, it does this terrible work.  
 **Translation:** 
 
-**[3428.90s] English:** because i guess you know the recipes are not big part of their training repertoire  
-**Translation:** Vocabulary: repertoire: 技能范围
+**[3428.90s] English:** Because, I guess, you know, the recipes aren't a big part of their training repertoire.  
+**Translation:** Vocabulary: recipes: 食谱; repertoire: 技能范围
 
-**[3434.12s] English:** so but in terms of outcomes that's a really clean good way to look at it i guess the question i was  
+**[3434.12s] English:** So, but in terms of outcomes, that's a really clean and good way to look at it. I guess the question I was.  
 **Translation:** 
 
-**[3442.26s] English:** asking is um do you think imagine a future do you think uh the current approach to the  
+**[3442.26s] English:** Asking: Is it possible that you think, in the future, the current approach might change?  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[3449.54s] English:** A neural network would be to just pass the Turing test in the best possible formulation.  
 **Translation:** 
 
-**[3449.54s] English:** neural network would be to just pass the turing test in the way the in the best possible formulation  
+**[3456.10s] English:** Of the Turing test, which is: Would you want to have a conversation with a neural network for an hour?  
+**Translation:** Vocabulary: neural: 神经网络; turing: 图灵测试
+
+**[3462.18s] English:** Oh, God, no, no. There aren't that many people I would want to spend an hour with, but there are some.  
 **Translation:** 
 
-**[3456.10s] English:** of the turing test which is would you want to have a conversation with a neural network for an hour  
-**Translation:** Vocabulary: neural: 神经网络
-
-**[3462.18s] English:** oh god no no there are not that many people that i would want to for an hour uh but there are some  
+**[3468.90s] English:** People in this world, alive or not, that you would like to talk to for an hour—could a neural network  
 **Translation:** 
 
-**[3468.90s] English:** people in this world alive or not that you would like to talk to for an hour could a neural network  
+**[3474.82s] English:** Achieve that outcome, uh, so I think it would be really hard to create a  
 **Translation:** 
 
-**[3474.82s] English:** achieve that outcome uh so i think it would be really hard to create a  
+**[3479.54s] English:** Successful  
 **Translation:** 
 
-**[3479.54s] English:** successful  
+**[3480.00s] English:** Training set, which would enable it to have a conversational tone and contextual conversations.  
 **Translation:** 
 
-**[3480.00s] English:** training set, which would enable it to have a conversational point, to contextual conversation  
+**[3484.88s] English:** For an hour.  
+**Translation:** Vocabulary: conversational: 对话式的
+
+**[3485.88s] English:** So, you think it's a problem of data, perhaps?  
 **Translation:** 
 
-**[3484.88s] English:** for an hour.  
-**Translation:** Vocabulary: conversational: 对话交流
-
-**[3485.88s] English:** So you think it's a problem of data, perhaps?  
+**[3488.08s] English:** I think, in some ways, it's not a problem of data.  
 **Translation:** 
 
-**[3488.08s] English:** I think in some ways it's not a problem of data.  
+**[3490.08s] English:** It's a problem both of data and the problem of the way we're training our systems.  
 **Translation:** 
 
-**[3490.08s] English:** It's a problem both of data and the problem of the way we're training our systems, their  
+**[3496.14s] English:** Ability to truly generalize, to be very compositional.  
+**Translation:** Vocabulary: compositional: 组合性的; generalize: 泛化的
+
+**[3499.34s] English:** In some ways, it's limited, you know. In the current capacity, at least, we can  
 **Translation:** 
 
-**[3496.14s] English:** ability to truly to generalize, to be very compositional.  
-**Translation:** Vocabulary: compositional: 组合性; generalize: 泛化
+**[3506.54s] English:** Translate well, we can find information well; we can also extract it.  
+**Translation:** Vocabulary: extract: 提取
 
-**[3499.34s] English:** In some ways it's limited, you know, in the current capacity, at least, you know, we can  
+**[3512.58s] English:** So, there are many capacities in which it's doing very well.  
 **Translation:** 
 
-**[3506.54s] English:** translate well, we can, you know, find information well, we can extract information.  
-**Translation:** 
-
-**[3512.58s] English:** So there are many capacities in which it's doing very well.  
-**Translation:** 
-
-**[3515.32s] English:** And you can ask me, would you trust the machine to translate for you and use it as a source?  
+**[3515.32s] English:** And you can ask me: Would you trust the machine to translate for you and use it as a source?  
 **Translation:** Vocabulary: capacities: 能力
 
-**[3519.78s] English:** I would say absolutely, especially if we're talking about newspaper data or other data,  
+**[3519.78s] English:** I would say absolutely, especially if we're talking about newspaper data or other data.  
 **Translation:** 
 
-**[3524.26s] English:** which is in the realm of its own training set, I would say yes.  
+**[3524.26s] English:** Which is in the realm of its own training set, I would say yes.  
 **Translation:** 
 
-**[3529.22s] English:** But you know, having conversations with the machine, it's not something that I would choose  
+**[3529.22s] English:** But you know, having conversations with the machine is not something I would choose.  
 **Translation:** 
 
-**[3535.60s] English:** to do.  
+**[3535.60s] English:** To do.  
 **Translation:** 
 
-**[3536.54s] English:** But you know, I will tell you something, talking about Turing test and about all this kind  
+**[3536.54s] English:** But you know, I will tell you something: talking about the Turing test and all this kind of thing,  
 **Translation:** 
 
-**[3540.40s] English:** of ELISA conversations, I remember visiting Tencent in China and they have this chat board  
-**Translation:** Vocabulary: turing: 图灵测试
+**[3540.40s] English:** Of ELISA conversations, I remember visiting Tencent in China, and they have this chat board.  
+**Translation:** Vocabulary: tencent: 腾讯; turing: 图灵
 
-**[3546.84s] English:** and they claim it is like really humongous amount of the local population, which like  
+**[3546.84s] English:** And they claim it is a really humongous amount of the local population, which, like,...  
 **Translation:** 
 
-**[3551.12s] English:** for hours talks to the chat board.  
+**[3551.12s] English:** For hours, they talked on the chat board.  
 **Translation:** Vocabulary: humongous: 巨大的
 
-**[3552.98s] English:** To me it was, I cannot believe it, but apparently it's like documented that there are some people  
+**[3552.98s] English:** To me, it was: I cannot believe it, but apparently it's documented that there are some people.  
 **Translation:** 
 
-**[3557.88s] English:** who enjoy this conversation and, you know, it brought to me another MIT story about ELISA  
+**[3557.88s] English:** Who enjoy this conversation and, you know, it brought to me another MIT story about ELISA.  
 **Translation:** 
 
-**[3565.50s] English:** and Waze.  
+**[3565.50s] English:** And Waze.  
 **Translation:** 
 
 **[3566.50s] English:** I don't know if you're familiar with the story.  
 **Translation:** 
 
-**[3569.40s] English:** So Waze was a professor at MIT and when he developed this ELISA, which was just doing  
+**[3569.40s] English:** So, Waze was a professor at MIT, and when he developed this ELISA, which was just doing  
 **Translation:** 
 
-**[3573.68s] English:** string matching, very trivial, like restating of what you said with very few rules, no syntax.  
-**Translation:** Vocabulary: restating: 重述; syntax: 句法
+**[3573.68s] English:** String matching is very trivial, like restating what you said with very few rules and no syntax.  
+**Translation:** Vocabulary: restating: 重复表达; syntax: 语法规则; trivial: 简单平凡
 
-**[3581.80s] English:** Apparently there were secretaries at MIT that would sit for hours and converse with this  
+**[3581.80s] English:** Apparently, there were secretaries at MIT who would sit for hours and converse with this.  
 **Translation:** 
 
-**[3586.82s] English:** trivial thing.  
+**[3586.82s] English:** Trivial thing.  
 **Translation:** Vocabulary: converse: 交谈
 
-**[3588.34s] English:** And at the time there was no beautiful interfaces, so you actually need to go through the pain  
+**[3588.34s] English:** And at the time, there were no beautiful interfaces, so you actually had to go through the pain.  
 **Translation:** 
 
-**[3591.72s] English:** of communicating.  
+**[3591.72s] English:** Of communicating.  
 **Translation:** Vocabulary: interfaces: 用户界面
 
 **[3593.80s] English:** And Waze himself was so horrified by this phenomenon.  
 **Translation:** 
 
-**[3596.16s] English:** That people can believe enough to the machine that you just need to give them a little bit  
-**Translation:** Vocabulary: horrified: 惊恐
+**[3596.16s] English:** That people can believe enough in the machine; you just need to give them a little bit.  
+**Translation:** Vocabulary: horrified: 惊恐的
 
-**[3600.00s] English:** him the hint that machine understands you and you can complete the rest that he kind of stopped  
+**[3600.00s] English:** He got the hint that the machine understands him, and he can complete the rest; that he kind of stopped.  
 **Translation:** 
 
-**[3604.70s] English:** this research and went into kind of trying to understand what this artificial intelligence can  
+**[3604.70s] English:** This research and went into kind of trying to understand what this artificial intelligence can.  
 **Translation:** 
 
-**[3610.26s] English:** do to our brains so my point is you know how much it's not how good is the technology it's how  
+**[3610.26s] English:** Do to our brains, so my point is: you know, how much it's not about how good the technology is; it's about how  
 **Translation:** 
 
-**[3620.02s] English:** ready we are to believe that it delivers the goods that we are trying to get  
+**[3620.02s] English:** Ready, we are to believe that it delivers the goods that we are trying to get.  
 **Translation:** 
 
-**[3624.90s] English:** that's a really beautiful way to put it i i by the way i'm not horrified by that possibility  
+**[3624.90s] English:** That's a really beautiful way to put it. I, by the way, am not horrified by that possibility.  
 **Translation:** 
 
-**[3629.64s] English:** but inspired by it because i mean um human connection whether it's through language or  
+**[3629.64s] English:** But inspired by it, because I mean, um, human connection, whether it's through language or  
 **Translation:** 
 
-**[3637.16s] English:** through love it uh it seems like it's uh very amenable to machine learning and the rest is just  
+**[3637.16s] English:** Through love, it seems like it's very amenable to machine learning, and the rest is just  
 **Translation:** 
 
-**[3645.90s] English:** um challenges of psychology like you said the secretaries who enjoy spending hours i would say  
-**Translation:** Vocabulary: amenable: 易于接受
+**[3645.90s] English:** Um, challenges of psychology, like you said, the secretaries who enjoy spending hours, I would say.  
+**Translation:** Vocabulary: amenable: 易于处理的
 
-**[3652.88s] English:** i would describe most of our lives as enjoying spending hours with those we love for very silly  
+**[3652.88s] English:** I would describe most of our lives as enjoying spending hours with those we love for very silly reasons.  
 **Translation:** 
 
-**[3659.26s] English:** relationships  
+**[3659.26s] English:** Relationships.  
 **Translation:** 
 
-**[3659.64s] English:** reasons all we're doing is keyword matching as well so i i'm not sure how much intelligence we  
+**[3659.64s] English:** Reasons, all we're doing is keyword matching as well, so I'm not sure how much intelligence we have.  
 **Translation:** 
 
-**[3665.22s] English:** exhibit to each other in with the people we love that we're close with so it's a very interesting  
+**[3665.22s] English:** Exhibit to each other, in interactions with the people we love and are close with, so it's a very interesting phenomenon.  
 **Translation:** Vocabulary: keyword: 关键词
 
-**[3670.70s] English:** point of what it means to pass the turing test with language i think you're right in terms of  
+**[3670.70s] English:** Point: What it means to pass the Turing Test with language, I think you're right in terms of  
 **Translation:** 
 
-**[3677.10s] English:** conversation i think machine translation is a has very clear performance and improvement right  
+**[3677.10s] English:** Conversation: I think machine translation has a very clear performance and improvement, right?  
 **Translation:** Vocabulary: turing: 图灵测试
 
-**[3683.98s] English:** what it means to have a fulfilling conversation is very  
+**[3683.98s] English:** What it means to have a fulfilling conversation is very  
 **Translation:** 
 
-**[3688.76s] English:** very  
+**[3688.76s] English:** Very  
 **Translation:** Vocabulary: fulfilling: 令人满意的
 
-**[3689.26s] English:** very person dependent and context dependent and so on that's uh yeah it's very well put so but  
+**[3689.26s] English:** Very person-dependent and context-dependent, and so on—that's, uh, yeah, it's very well put. So, but  
 **Translation:** 
 
-**[3696.52s] English:** in your view what's a benchmark in natural language a test that's just out of reach right  
+**[3696.52s] English:** In your view, what's a benchmark in natural language? A test that's just out of reach, right?  
 **Translation:** Vocabulary: benchmark: 参考标准
 
-**[3703.10s] English:** now but we might be able to that's exciting is it in machine isn't perfecting machine translation  
+**[3703.10s] English:** Now, but we might be able to—that's exciting—is it in machine perfection of machine translation?  
 **Translation:** 
 
-**[3708.76s] English:** or is there other is it summarization what's what's out there just goes across specific  
-**Translation:** Vocabulary: summarization: 摘要生成
+**[3708.76s] English:** Or is there anything else for summarization? What's out there just goes across specific.  
+**Translation:** Vocabulary: summarization: 摘要
 
-**[3714.84s] English:** application it's more about the ability to learn from few examples and to learn from a few examples  
+**[3714.84s] English:** Application is more about the ability to learn from few examples and to learn from a few examples.  
 **Translation:** 
 
-**[3719.26s] English:** for real  
+**[3719.26s] English:** For real.  
 **Translation:** 
 
-**[3720.00s] English:** what we call few short learning and all these cases, because, you know, the way we publish  
+**[3720.00s] English:** What we call "few-shot" learning, and all these cases: because, you know, the way we publish.  
 **Translation:** 
 
-**[3724.88s] English:** these papers today, we say, if we have like naively, we get 55, but now we had a few example  
-**Translation:** Vocabulary: naively: 天真地
+**[3724.88s] English:** These papers today, we say, if we have gotten 55 naively, but now we have a few examples.  
+**Translation:** Vocabulary: naively: 粗略地
 
-**[3731.24s] English:** and we can move to 65.  
+**[3731.24s] English:** And we can move to 65.  
 **Translation:** 
 
-**[3732.54s] English:** None of these methods actually realistically doing anything useful.  
+**[3732.54s] English:** None of these methods are actually doing anything useful.  
 **Translation:** 
 
 **[3736.04s] English:** You cannot use them today.  
 **Translation:** 
 
-**[3738.54s] English:** And the ability to be able to generalize and to move or to be autonomous in finding the  
+**[3738.54s] English:** And the ability to generalize and to move, or to be autonomous in finding the  
 **Translation:** Vocabulary: autonomous: 自主; cannot: 不能; generalize: 概括
 
-**[3748.52s] English:** data that you need to learn to be able to perfect new task or new language.  
+**[3748.52s] English:** Data that you need to learn to be able to perfect a new task or a new language.  
 **Translation:** 
 
-**[3755.34s] English:** This is an area where I think we really need to move forward to.  
+**[3755.34s] English:** This is an area where I think we really need to move forward on.  
 **Translation:** 
 
 **[3760.82s] English:** And we are not yet there.  
 **Translation:** 
 
-**[3763.12s] English:** Are you at all excited, curious by the possibility of creating human level intelligence?  
+**[3763.12s] English:** Are you at all excited or curious about the possibility of creating human-level intelligence?  
 **Translation:** 
 
-**[3769.62s] English:** Is this because you've been very in your discussion.  
+**[3769.62s] English:** Is this because you've been very involved in your discussion?  
 **Translation:** 
 
-**[3772.64s] English:** So if we look at oncology, you're trying to use machine learning to help the world in  
+**[3772.64s] English:** So, if we look at oncology, you're trying to use machine learning to help the world in.  
 **Translation:** Vocabulary: oncology: 肿瘤学
 
-**[3778.20s] English:** terms of.  
+**[3778.20s] English:** Terms of.  
 **Translation:** 
 
 **[3778.52s] English:** Alleviating suffering.  
 **Translation:** Vocabulary: alleviating: 减轻
 
-**[3779.74s] English:** If you look at natural language processing, you're focused on the outcomes of improving  
+**[3779.74s] English:** If you look at natural language processing, you're focused on the outcomes of improving.  
 **Translation:** 
 
-**[3784.20s] English:** practical things like machine translation.  
+**[3784.20s] English:** Practical things, like machine translation.  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[3786.92s] English:** But, you know, human-level intelligence is a thing our civilization has dreamed about.  
 **Translation:** 
 
-**[3786.92s] English:** But, you know, human level intelligence is a thing that our civilization is dreamed about  
-**Translation:** 
-
-**[3792.26s] English:** creating super human level intelligence.  
+**[3792.26s] English:** Creating superhuman-level intelligence.  
 **Translation:** 
 
 **[3795.72s] English:** Do you think about this?  
@@ -2443,22 +2444,22 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[3796.94s] English:** Do you think it's at all within our reach?  
 **Translation:** 
 
-**[3799.98s] English:** So as you said yourself earlier, talking about, you know, how do you perceive, you know, our  
+**[3799.98s] English:** So, as you said yourself earlier, talking about how you perceive, you know, our  
 **Translation:** 
 
-**[3807.34s] English:** communications with humans?  
+**[3807.34s] English:** Communications with humans?  
 **Translation:** Vocabulary: perceive: 感知
 
-**[3808.98s] English:** And how do you how do you see humans being able to interact with us in the human space,  
+**[3808.98s] English:** And how do you see humans being able to interact with us in the human space?  
 **Translation:** 
 
-**[3813.14s] English:** the human level?  
+**[3813.14s] English:** The human level?  
 **Translation:** 
 
 **[3813.54s] English:** And what do you see humans doing in human relationships?  
 **Translation:** 
 
-**[3814.82s] English:** Yeah, I think we are a powerful relationship.  
+**[3814.82s] English:** Yeah, I think we have a powerful relationship.  
 **Translation:** 
 
 **[3815.56s] English:** And so.  
@@ -2470,76 +2471,76 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[3816.20s] English:** The relationship.  
 **Translation:** 
 
-**[3816.28s] English:** And I would say we are going to be saying that we are on a par with each other that, you know,  
+**[3816.28s] English:** And I would say we are going to be saying that we are on a par with each other, you know.  
 **Translation:** 
 
-**[3818.66s] English:** we're matching keywords in certain behaviors and so on.  
+**[3818.66s] English:** We're matching keywords in certain behaviors, and so on.  
 **Translation:** 
 
-**[3818.80s] English:** So and then whenever one assesses, let's say, relations with another person, you have a  
+**[3818.80s] English:** So, and then whenever one assesses, let's say, relations with another person, you have a  
 **Translation:** Vocabulary: assesses: 评估; keywords: 关键词
 
-**[3818.94s] English:** separate kind of measurements and outcomes inside your head that determine, you know,  
+**[3818.94s] English:** Separate kinds of measurements and outcomes inside your head that determine, you know,  
 **Translation:** 
 
-**[3820.14s] English:** who's going to be the, you know, who's the best anderever of the relationship.  
+**[3820.14s] English:** Who's going to be the best mediator of the relationship?  
+**Translation:** Vocabulary: mediator: 调解人
+
+**[3820.28s] English:** What's the status of the relationship?  
 **Translation:** 
 
-**[3820.28s] English:** Or you know, what's the status of the relationship?  
-**Translation:** 
-
-**[3822.26s] English:** You know, what's the status of the relation?  
+**[3822.26s] English:** You know, what's the status of the relationship?  
 **Translation:** 
 
 **[3822.40s] English:** And I think a good example of that is that people have to, you know, what are the  
 **Translation:** 
 
-**[3825.90s] English:** So one way, this is this classical dilemma, what is the intelligence?  
+**[3825.90s] English:** So, one way to look at this is the classical dilemma: what is intelligence?  
+**Translation:** Vocabulary: dilemma: 两难问题
+
+**[3829.62s] English:** Is it the fact that now we are going to do the same way as humans do when we don't  
 **Translation:** 
 
-**[3829.62s] English:** Is it the fact that now we are going to do the same way as human is doing when we don't  
+**[3833.38s] English:** Even can we understand what the human is doing?  
 **Translation:** 
 
-**[3833.38s] English:** even understand what the human is doing?  
+**[3835.42s] English:** Or we now have the ability to deliver these outcomes, but not all at once.  
 **Translation:** 
 
-**[3835.42s] English:** Or we now have an ability to deliver these outcomes, but not in one.  
+**[3840.00s] English:** Area, not just for translating or answering questions, but across many, many areas that  
+**Translation:** Vocabulary: translating: 翻译
+
+**[3845.50s] English:** We can achieve the functionalities that humans can achieve, with the ability to learn and  
 **Translation:** 
 
-**[3840.00s] English:** area, not just to translate or just to answer questions, but across many, many areas that  
-**Translation:** 
-
-**[3845.50s] English:** we can achieve the functionalities that humans can achieve with the ability to learn and  
-**Translation:** 
-
-**[3851.18s] English:** do other things.  
+**[3851.18s] English:** Do other things.  
 **Translation:** Vocabulary: functionalities: 功能
 
-**[3851.98s] English:** I think this is, and this we can actually measure how far we are.  
+**[3851.98s] English:** I think this is something, and this is what we can actually measure to see how far we are.  
 **Translation:** 
 
 **[3857.68s] English:** And that's what makes me excited that we, you know, in my lifetime, at least so far,  
 **Translation:** 
 
-**[3863.20s] English:** what we've seen is like tremendous progress across the different functionalities.  
+**[3863.20s] English:** What we've seen is tremendous progress across different functionalities.  
 **Translation:** 
 
-**[3867.84s] English:** And I think it will be really exciting to see where we will be.  
+**[3867.84s] English:** And I think it will be really exciting to see where we'll be.  
 **Translation:** 
 
-**[3875.36s] English:** And again, one way to think about it, there are machines which are improving their functionality.  
+**[3875.36s] English:** And again, one way to think about it is that there are machines which are improving their functionality.  
 **Translation:** 
 
-**[3881.86s] English:** Another one is to think about us with our brains, which are imperfect, how they can  
+**[3881.86s] English:** Another one is to think about us, with our imperfect brains, how they can  
 **Translation:** Vocabulary: functionality: 功能
 
-**[3887.18s] English:** be accelerated by this technology as it becomes stronger and stronger.  
+**[3887.18s] English:** Be accelerated by this technology as it becomes stronger and stronger.  
 **Translation:** 
 
 **[3895.54s] English:** Coming back to another book that I...  
 **Translation:** Vocabulary: accelerated: 加速
 
-**[3897.84s] English:** Love Flowers for Algernon.  
+**[3897.84s] English:** Love "Flowers for Algernon.  
 **Translation:** 
 
 **[3900.66s] English:** Have you read this book?  
@@ -2548,259 +2549,259 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[3902.08s] English:** Yes.  
 **Translation:** 
 
-**[3902.46s] English:** So there is this point that the patient gets this miracle cure, which changes his brain  
+**[3902.46s] English:** So, there is a point where the patient gets this miracle cure, which changes his brain.  
 **Translation:** 
 
-**[3907.92s] English:** and all of a sudden they see life in a different way and can do certain things better, but  
+**[3907.92s] English:** And all of a sudden, they see life in a different way and can do certain things better, but  
 **Translation:** 
 
-**[3913.44s] English:** certain things much worse.  
+**[3913.44s] English:** Certain things are much worse.  
 **Translation:** 
 
-**[3916.14s] English:** So you can imagine this kind of computer augmented cognition where it can bring you that now  
+**[3916.14s] English:** So, you can imagine this kind of computer-augmented cognition where it can bring you that now.  
 **Translation:** 
 
-**[3924.14s] English:** in the same way as, you know, the cars enable us to get to places.  
-**Translation:** Vocabulary: augmented: 增强; cognition: 认知
+**[3924.14s] English:** In the same way that cars enable us to get to places, you know.  
+**Translation:** Vocabulary: cognition: 认知
 
-**[3927.84s] English:** Where we've never been before, can we think differently?  
+**[3927.84s] English:** Where have we never been before? Can we think differently?  
 **Translation:** 
 
 **[3931.54s] English:** Can we think faster?  
 **Translation:** 
 
-**[3932.70s] English:** So, and we already see a lot of it happening in how it impacts us, but I think we have  
+**[3932.70s] English:** So, and we already see a lot of it happening, impacting us in many ways, but I think we have  
 **Translation:** 
 
-**[3940.02s] English:** a long way to go there.  
+**[3940.02s] English:** A long way to go, there.  
 **Translation:** 
 
-**[3942.08s] English:** So that's sort of artificial intelligence and technology affecting our, augmenting our  
+**[3942.08s] English:** So, that's sort of artificial intelligence and technology affecting our lives, augmenting our capabilities.  
 **Translation:** 
 
-**[3948.10s] English:** intelligence as humans.  
-**Translation:** Vocabulary: augmenting: 增强
+**[3948.10s] English:** Intelligence, as humans perceive it.  
+**Translation:** Vocabulary: augmenting: 增强; capabilities: 能力; perceive: 感知
 
-**[3950.34s] English:** Yesterday, a company called Neuralink announced, they did this whole demonstration.  
+**[3950.34s] English:** Yesterday, a company called Neuralink announced they did this whole demonstration.  
 **Translation:** 
 
 **[3956.66s] English:** I don't know if you saw it.  
 **Translation:** 
 
-**[3957.84s] English:** It's, they demonstrated brain...  
+**[3957.84s] English:** It's they demonstrated brain....  
 **Translation:** 
 
-**[3960.00s] English:** computer brain machine interface where there's like a sewing machine for the brain do you uh  
+**[3960.00s] English:** Computer-brain machine interface: where there's something like a sewing machine for the brain, do you understand?  
 **Translation:** Vocabulary: interface: 接口
 
-**[3967.18s] English:** you know a lot of that is uh quite out there in terms of things that some people would say are  
+**[3967.18s] English:** You know, a lot of that is quite out there in terms of things that some people would say are.  
 **Translation:** 
 
-**[3974.14s] English:** impossible but they're dreamers and want to engineer systems like that do you see  
+**[3974.14s] English:** Impossible, but they're dreamers and want to engineer systems like that. Do you see?  
 **Translation:** 
 
-**[3978.58s] English:** based on what you just said a hope for that more direct interaction with the brain  
+**[3978.58s] English:** Based on what you just said, there's a hope for more direct interaction with the brain.  
 **Translation:** 
 
-**[3983.50s] English:** i i think there are different ways one is a direct interaction with the brain and again  
+**[3983.50s] English:** I think there are different ways. One is a direct interaction with the brain, and again,  
 **Translation:** 
 
-**[3989.28s] English:** there are lots of companies that work in this space and i think there will be a lot of developments  
+**[3989.28s] English:** There are lots of companies that work in this space, and I think there will be a lot of developments.  
 **Translation:** 
 
-**[3994.14s] English:** but i'm just thinking that many times we are not aware of our feelings of motivation what drives  
+**[3994.14s] English:** But I'm just thinking that many times we are not aware of our feelings of motivation; what drives us.  
 **Translation:** 
 
-**[4000.42s] English:** us like let me give you a trivial example our attention there are a lot of studies that  
+**[4000.42s] English:** Us, like, let me give you a trivial example: our attention; there are a lot of studies that  
 **Translation:** 
 
-**[4006.64s] English:** demonstrate that it takes a while to a person to understand that they are not attentive anymore  
-**Translation:** Vocabulary: attentive: 注意的
+**[4006.64s] English:** Demonstrate that it takes a while for a person to understand that they are not being attentive anymore.  
+**Translation:** Vocabulary: attentive: 注意的; trivial: 琐碎的
 
-**[4010.50s] English:** and we know that there are people who really have strong capacity to hold attention there  
+**[4010.50s] English:** And we know that there are people who really have a strong capacity to hold attention there.  
 **Translation:** 
 
-**[4014.64s] English:** are another end of the spectrum people with add and other issues that they have problem to regulate  
-**Translation:** Vocabulary: regulate: 调节
+**[4014.64s] English:** At the other end of the spectrum, people with ADD and other issues have trouble regulating.  
+**Translation:** Vocabulary: regulating: 调节
 
-**[4019.28s] English:** their attention imagine to yourself that you have like a cognitive aid that just alerts you based  
+**[4019.28s] English:** Their attention: Imagine to yourself that you have, like, a cognitive aid that just alerts you based,...  
 **Translation:** 
 
-**[4024.86s] English:** on your gaze that your attention is now not on what you are doing and instead of writing a paper  
+**[4024.86s] English:** On your gaze, that your attention is now not on what you are doing, and instead of writing a paper.  
+**Translation:** Vocabulary: alerts: 提示; cognitive: 认知
+
+**[4030.50s] English:** You're now dreaming of what you're going to do in the evening, so even this kind of simple measurement...  
 **Translation:** 
 
-**[4030.50s] English:** you're now dreaming of what you're going to do in the evening so even this kind of simple measurement  
+**[4035.82s] English:** Things can change us, and I see it even in simple ways with myself; I have my "zone" up from.  
 **Translation:** 
 
-**[4035.82s] English:** things how they can change us and i see it even in simple ways with myself i have my zone up from  
+**[4045.14s] English:** That I go to an MT gym, it kind of records, you know, how much did you run, and you have  
 **Translation:** 
 
-**[4045.14s] English:** that i go to an mt gym it kind of records you know how much did you run and you have  
+**[4049.28s] English:** Some points, and you can get some status, whatever. Like I said, what is this ridiculous thing?  
 **Translation:** 
 
-**[4049.28s] English:** some points and you can get some status whatever like i said what is this ridiculous thing who  
+**[4056.12s] English:** Would you ever care about some status in some arm? Guess what, so to maintain the status quo, you have.  
 **Translation:** 
 
-**[4056.12s] English:** would ever care about some status in some arm guess what so to maintain the status you have  
+**[4061.94s] English:** To do a certain number of points every month, and not only is that what I do every single month for...  
 **Translation:** 
 
-**[4061.94s] English:** to do certain number of points every month and not only is that i do it every single month for  
+**[4068.36s] English:** The last 18 months it went to the point that I was running, and when I could...  
 **Translation:** 
 
-**[4068.36s] English:** the last uh 18 months it went to the point that i was running that i was injured and when i could  
+**[4075.32s] English:** Run again in two days.  
 **Translation:** 
 
-**[4075.32s] English:** run again i in two days  
+**[4079.28s] English:** I did.  
 **Translation:** 
 
-**[4079.28s] English:** i did  
-**Translation:** 
-
-**[4080.00s] English:** like some humongous amount of running just to complete the point it was like really not safe  
+**[4080.00s] English:** Like some humongous amount of running, just to complete the point; it was like really not safe.  
 **Translation:** Vocabulary: humongous: 巨大的
 
-**[4085.50s] English:** it's like i'm not going to lose my status because i want to get there so you can already see that  
+**[4085.50s] English:** It's like I'm not going to lose my status because I want to get there, so you can already see that.  
 **Translation:** 
 
-**[4092.02s] English:** this direct measurement and the feedback is you know we're looking at video games and see why  
+**[4092.02s] English:** This direct measurement and the feedback is that we're looking at video games to see why.  
 **Translation:** 
 
-**[4096.90s] English:** you know the addiction aspect of it but you can imagine that the same idea can be expanded to many  
+**[4096.90s] English:** You know, the addiction aspect of it, but you can imagine that the same idea can be expanded to many.  
 **Translation:** 
 
-**[4101.56s] English:** other areas of our life when we really can get feedback and imagine in your case in relations  
+**[4101.56s] English:** Other areas of our life, when we can really get feedback, and imagine—in your case, in relationships—  
+**Translation:** Vocabulary: addiction: 上瘾
+
+**[4108.16s] English:** When we are doing keyword matching, imagine that the person who is generating  
 **Translation:** 
 
-**[4108.16s] English:** when we are doing keyword matching imagine that the person who is generating  
-**Translation:** 
-
-**[4112.90s] English:** the keywords that person gets direct feedback before the whole thing explodes  
+**[4112.90s] English:** The keywords that a person gets direct feedback on before the whole thing explodes.  
 **Translation:** Vocabulary: explodes: 爆发; keyword: 关键词; keywords: 关键词
 
-**[4119.16s] English:** is it maybe at this happy point we are going in the wrong direction maybe it will be really a  
+**[4119.16s] English:** Is it maybe at this happy point that we are going in the wrong direction? Maybe it will be really a  
 **Translation:** 
 
-**[4126.12s] English:** behavior modifying moment so yeah it's a relationship management too so yeah that's  
-**Translation:** Vocabulary: modifying: 改变的
-
-**[4131.98s] English:** that's a fascinating whole area of psychology actually as well of seeing how our behavior  
+**[4126.12s] English:** Behavior-modifying moment, so yeah, it's also about relationship management, too, so yeah, that's  
 **Translation:** 
 
-**[4137.44s] English:** has changed  
+**[4131.98s] English:** That's a fascinating whole area of psychology, actually, as well of seeing how our behavior  
 **Translation:** 
 
-**[4138.14s] English:** with basically all human relations now have other non-human entities helping us out  
+**[4137.44s] English:** Has changed.  
 **Translation:** 
 
-**[4145.22s] English:** so you've uh you teach a large a huge machine learning course here at mit  
+**[4138.14s] English:** With basically all human relationships, now have other non-human entities helping us out.  
 **Translation:** 
 
-**[4152.18s] English:** i can ask you a million questions but you've seen a lot of students what ideas do students  
+**[4145.22s] English:** So, you've taught a huge machine learning course here at MIT.  
 **Translation:** 
 
-**[4158.72s] English:** struggle with the most as they first enter this world of machine learning  
+**[4152.18s] English:** I can ask you a million questions, but you've seen a lot of students. What ideas do students have?  
 **Translation:** 
 
-**[4165.56s] English:** actually this year was the first time  
+**[4158.72s] English:** Struggle the most as they first enter this world of machine learning.  
 **Translation:** 
 
-**[4167.96s] English:** actually this year was the first time i was in a machine learning course  
+**[4165.56s] English:** Actually, this year was the first time.  
 **Translation:** 
 
-**[4168.12s] English:** i started teaching a small machine learning class and it came as a result of what i saw in my  
+**[4167.96s] English:** Actually, this year was the first time I was in a machine learning course.  
 **Translation:** 
 
-**[4173.92s] English:** big machine learning class at tommy yackle and i built maybe six years ago um what we've seen that  
+**[4168.12s] English:** I started teaching a small machine learning class, and it came as a result of what I saw in my  
 **Translation:** 
 
-**[4180.48s] English:** as this area become more and more popular more and more people at mit want to take this class  
+**[4173.92s] English:** Big machine learning class at Tommy Yackle and I built maybe six years ago; what we've seen is that  
 **Translation:** 
 
-**[4186.88s] English:** and while we designed it for computer science majors there were a lot of people who really  
+**[4180.48s] English:** As this area becomes more and more popular, more and more people at MIT want to take this class.  
 **Translation:** 
 
-**[4191.36s] English:** are interested to learn it but unfortunately their background was not enabling them to do well in the  
+**[4186.88s] English:** And while we designed it for computer science majors, there were a lot of people who really  
 **Translation:** 
 
-**[4198.10s] English:** in the class and many of them associated with machine learning  
+**[4191.36s] English:** Are interested to learn it, but unfortunately, their background was not enabling them to do well in the  
 **Translation:** 
 
-**[4199.96s] English:** but unfortunately their background was not enabling them to do well in the  
+**[4198.10s] English:** In the class, and many of them were associated with machine learning.  
 **Translation:** 
 
-**[4200.10s] English:** in the class and many of them associated with machine learning  
+**[4199.96s] English:** But unfortunately, their background was not enabling them to do well in the  
 **Translation:** 
 
-**[4200.00s] English:** machine learning with the words struggle and failure, primarily for non-majors.  
+**[4200.00s] English:** Machine learning with the words "struggle" and "failure," primarily for non-majors.  
 **Translation:** 
 
-**[4206.02s] English:** And that's why we actually started a new class, which we call Machine Learning from  
+**[4200.10s] English:** In the class, and many of them were associated with machine learning.  
 **Translation:** 
 
-**[4211.16s] English:** Algorithms to Modeling, which emphasizes more the modeling aspects of it and focuses on  
+**[4206.02s] English:** And that's why we actually started a new class, which we call "Machine Learning," from  
 **Translation:** 
 
-**[4218.76s] English:** it has majors and non-majors.  
+**[4211.16s] English:** Algorithms to Modeling, which emphasizes more the modeling aspects of it and focuses on:  
 **Translation:** 
 
-**[4221.76s] English:** So we kind of try to extract the relevant parts and make it more accessible because  
+**[4218.76s] English:** It has majors and non-majors.  
+**Translation:** Vocabulary: emphasizes: 强调
+
+**[4221.76s] English:** So, we kind of try to extract the relevant parts and make it more accessible because...  
 **Translation:** 
 
-**[4227.52s] English:** the fact that we're teaching 20 classifiers in standard machine learning class is really  
+**[4227.52s] English:** The fact that we're teaching 20 classifiers in a standard machine learning class is really  
+**Translation:** Vocabulary: extract: 提取
+
+**[4231.40s] English:** A big question we really needed.  
 **Translation:** 
 
-**[4231.40s] English:** a big question we really needed.  
+**[4233.96s] English:** But it was interesting to see this from the first-generation of students, you know, when they  
 **Translation:** 
 
-**[4233.96s] English:** But it was interesting to see this from first generation of students, you know, when they  
+**[4238.64s] English:** Came back from their internships and jobs, what different and exciting things!  
 **Translation:** 
 
-**[4238.64s] English:** came back from their internships and from their jobs, what different and exciting things  
+**[4246.98s] English:** They can do that—I would never think that you can even apply machine learning to.  
 **Translation:** 
 
-**[4246.98s] English:** they can do that I would never think that you can even apply machine learning to.  
+**[4250.84s] English:** Some of them are like matching, you know, their relationships, and other things like variety.  
 **Translation:** 
 
-**[4250.84s] English:** Some of them are like matching, you know, their relations and other things like variety  
-**Translation:** 
-
-**[4255.30s] English:** of different applications.  
+**[4255.30s] English:** Of different applications.  
 **Translation:** 
 
 **[4255.94s] English:** Everything is amenable to machine learning.  
 **Translation:** 
 
-**[4257.80s] English:** You know, that actually brings up an interesting point of computer science in general.  
-**Translation:** Vocabulary: amenable: 易于处理
+**[4257.80s] English:** You know, that actually brings up an interesting point about computer science in general.  
+**Translation:** Vocabulary: amenable: 易于处理的
 
 **[4262.48s] English:** It almost seems, maybe I'm crazy, but it almost seems like everybody needs to learn how to  
 **Translation:** 
 
-**[4268.68s] English:** program these days.  
+**[4268.68s] English:** Programs these days.  
 **Translation:** 
 
-**[4269.94s] English:** If you're 20 years old or if you're starting school, even if you're an English major, it  
+**[4269.94s] English:** If you're 20 years old, or if you're just starting school, even if you're an English major, it  
 **Translation:** 
 
-**[4276.04s] English:** seems like programming unlocks so much possibility in this world.  
+**[4276.04s] English:** It seems like programming unlocks so much possibility in this world.  
+**Translation:** Vocabulary: unlocks: 开启可能性
+
+**[4281.92s] English:** So, when you interacted with those non-majors, are there skills that they were simply, you  
 **Translation:** 
 
-**[4281.92s] English:** So when you interacted with those non-majors, is there skills that they were simply, you  
+**[4287.52s] English:** Know, though, that at the time they wished they had and that they learned in high school.  
+**Translation:** Vocabulary: interacted: 交流
+
+**[4293.58s] English:** And so on?  
 **Translation:** 
 
-**[4287.52s] English:** know, lacking at the time that you wish they had and that they learned in high school  
-**Translation:** Vocabulary: interacted: 交流互动
-
-**[4293.58s] English:** and so on?  
+**[4294.60s] English:** How should education change in this computerized world that we live in?  
 **Translation:** 
 
-**[4294.60s] English:** Like how should education change in this computerized world that we live in?  
+**[4301.24s] English:** I think because they knew that there is a Python component in the class, they were a bit nervous.  
 **Translation:** 
 
-**[4301.24s] English:** I think because they knew that there is a Python component in the class, you know, their  
-**Translation:** 
-
-**[4304.96s] English:** Python skills were okay and the class isn't really heavy on programming.  
+**[4304.96s] English:** Python skills were okay, and the class isn't really heavy on programming.  
 **Translation:** 
 
 **[4309.18s] English:** They primarily kind of add parts to the programs.  
@@ -2809,124 +2810,124 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[4311.88s] English:** I think it was more of the mathematical barriers and the class, again, with the design on the,  
 **Translation:** Vocabulary: barriers: 障碍; mathematical: 数学的
 
-**[4317.52s] English:** the majors was using the notation.  
+**[4317.52s] English:** The major was using the notation.  
 **Translation:** 
 
-**[4320.00s] English:** big O for complexity and others, people who come from different backgrounds just don't  
+**[4320.00s] English:** Big O for complexity and others, people who come from different backgrounds just don't.  
 **Translation:** 
 
-**[4324.90s] English:** have it in the lexicon, so necessarily very challenging notion, but they were just not  
+**[4324.90s] English:** Have it in the lexicon, so necessarily a very challenging notion, but they were just not.  
 **Translation:** 
 
-**[4330.72s] English:** aware.  
-**Translation:** Vocabulary: lexicon: 词典
-
-**[4332.02s] English:** So, I think that, you know, kind of linear algebra and probability, the basics, the  
+**[4330.72s] English:** Aware.  
 **Translation:** 
 
-**[4337.02s] English:** calculus, Monteverdi's calculus are things that can help.  
+**[4332.02s] English:** So, I think that, you know, the basics of linear algebra and probability,  
 **Translation:** 
 
-**[4340.98s] English:** What advice would you give to students interested in machine learning, interested, you've  
+**[4337.02s] English:** Calculus, Monteverdi's calculus, are things that can help.  
 **Translation:** 
 
-**[4347.22s] English:** talked about detecting, curing cancer, drug design, if they want to get into that field,  
-**Translation:** Vocabulary: detecting: 检测
+**[4340.98s] English:** What advice would you give to students interested in machine learning? You've  
+**Translation:** 
 
-**[4353.20s] English:** what should they do?  
+**[4347.22s] English:** Talked about detecting, curing cancer, drug design—if they want to get into that field,  
+**Translation:** Vocabulary: curing: 治疗; detecting: 检测
+
+**[4353.20s] English:** What should they do?  
 **Translation:** 
 
 **[4356.06s] English:** Get into it and succeed as researchers and entrepreneurs.  
+**Translation:** Vocabulary: entrepreneurs: 企业家
+
+**[4362.86s] English:** The first good piece of news is that, right now, there are lots of resources that, you  
 **Translation:** 
 
-**[4362.86s] English:** The first good piece of news is that right now there are lots of resources that, you  
+**[4368.44s] English:** Know that they are created at different levels, and you can find them online or in your school classes.  
 **Translation:** 
 
-**[4368.44s] English:** know, are created at different levels and you can find online or in your school classes  
+**[4374.68s] English:** Which are more mathematical and more applied.  
 **Translation:** 
 
-**[4374.68s] English:** which are more mathematical, more applied.  
-**Translation:** 
-
-**[4376.90s] English:** So, you can find a kind of preacher which preaches your own language where you can enter  
+**[4376.90s] English:** So, you can find a kind of preacher who preaches in your own language, where you can enter.  
 **Translation:** Vocabulary: preacher: 布道者; preaches: 布道
 
-**[4383.96s] English:** the field and you can make many different types of contribution depending of, you know,  
+**[4383.96s] English:** The field, and you can make many different types of contributions, depending on, you know,  
 **Translation:** 
 
-**[4388.32s] English:** what is your strengths.  
+**[4388.32s] English:** What is your strength?  
 **Translation:** 
 
-**[4390.46s] English:** And the second point, I think it's really important to find some area which you really  
+**[4390.46s] English:** And the second point: I think it's really important to find an area which you really  
 **Translation:** 
 
-**[4396.72s] English:** care about and it can motivate your learning.  
+**[4396.72s] English:** Care about it, and it can motivate your learning.  
+**Translation:** Vocabulary: motivate: 激励
+
+**[4400.26s] English:** And it can be for somebody curing cancer, or doing self-driving cars, or whatever, but to  
 **Translation:** 
 
-**[4400.26s] English:** And it can be for somebody curing cancer or doing self-driving cars or whatever, but to  
+**[4406.12s] English:** Find an area.  
 **Translation:** 
 
-**[4406.12s] English:** find an area.  
+**[4406.88s] English:** Where, you know, there is data where you believe there are strong patterns, and we should be  
 **Translation:** 
 
-**[4406.88s] English:** Where, you know, there is data where you believe there are strong patterns and we should be  
+**[4411.84s] English:** Doing it, and we're still not doing it, or you can do it better and just start there.  
 **Translation:** 
 
-**[4411.84s] English:** doing it and we're still not doing it or you can do it better and just start there and  
+**[4418.12s] English:** See where it can bring you.  
 **Translation:** 
 
-**[4418.12s] English:** see where it can bring you.  
-**Translation:** 
-
-**[4420.46s] English:** So, you've been very successful in many directions in life, but you also mentioned Flowers of  
+**[4420.46s] English:** So, you've been very successful in many directions in life, but you also mentioned flowers of  
 **Translation:** 
 
 **[4428.04s] English:** Argonon.  
 **Translation:** 
 
-**[4430.86s] English:** And I think I've read or listened to you mention somewhere that researchers often get lost  
+**[4430.86s] English:** And I think I've read or listened to you mention somewhere that researchers often get lost.  
 **Translation:** 
 
-**[4435.22s] English:** in the details of their work.  
+**[4435.22s] English:** In the details of their work.  
 **Translation:** 
 
 **[4436.60s] English:** Yeah.  
 **Translation:** 
 
-**[4436.88s] English:** This is per our original discussion with cancer and so on.  
+**[4436.88s] English:** This is per our original discussion, especially regarding cancer and so on.  
 **Translation:** 
 
-**[4440.00s] English:** And don't look at the bigger picture, bigger questions of meaning and so on.  
+**[4440.00s] English:** And don't look at the bigger picture or bigger questions of meaning and so on.  
 **Translation:** 
 
-**[4445.18s] English:** So let me ask you the impossible question of what's the meaning of this thing, of life, of your life, of research.  
+**[4445.18s] English:** So, let me ask you the impossible question: what is the meaning of this thing—of life, of your life, of research.  
 **Translation:** 
 
-**[4456.20s] English:** Why do you think we, descendant of great apes, are here on this spinning ball?  
-**Translation:** Vocabulary: descendant: 后代; spinning: 旋转
+**[4456.20s] English:** Why do you think we, descendants of great apes, are here on this spinning ball?  
+**Translation:** Vocabulary: descendants: 后代; spinning: 旋转
 
-**[4464.10s] English:** You know, I don't think that I have really a global answer.  
+**[4464.10s] English:** You know, I don't think I have a really global answer.  
 **Translation:** 
 
-**[4470.30s] English:** You know, maybe that's why I didn't go to humanities.  
+**[4470.30s] English:** You know, maybe that's why I didn't go into humanities.  
+**Translation:** Vocabulary: humanities: 人文学科
+
+**[4473.24s] English:** I didn't take any humanities classes in my undergraduate years.  
 **Translation:** 
 
-**[4473.24s] English:** I didn't take humanities classes in my undergrad.  
-**Translation:** 
-
-**[4479.52s] English:** But the way I'm thinking about it, each one of us inside of them have their own set of, you know, things that we believe are important.  
-**Translation:** Vocabulary: undergrad: 本科学生
+**[4479.52s] English:** But the way I'm thinking about it, each one of us has our own set of things that we believe are important.  
+**Translation:** Vocabulary: undergraduate: 大学本科生
 
 **[4489.88s] English:** And it just happens that we are busy with achieving very...  
 **Translation:** 
 
-**[4494.38s] English:** ...various goals, busy listening to others and to kind of try to conform and to be part of the crowd.  
-**Translation:** 
+**[4494.38s] English:** ...for various goals, they were busy listening to others and trying to conform and be part of the crowd.  
+**Translation:** Vocabulary: conform: 遵从外在规范
 
 **[4500.58s] English:** That we don't listen to that part.  
 **Translation:** 
 
-**[4504.76s] English:** And, you know, we all should find some time to understand what is our own individual missions.  
+**[4504.76s] English:** And, you know, we all should find some time to understand what our own individual missions are.  
 **Translation:** 
 
 **[4511.80s] English:** And we may have very different missions.  
@@ -2941,46 +2942,46 @@ Source file: Lex Fridman - Regina Barzilay： Deep Learning for Cancer Diagnosis
 **[4524.68s] English:** To satisfy our own mission.  
 **Translation:** 
 
-**[4528.56s] English:** And if I look over my time, when I was younger, most of these missions, you know, I was primarily driven by the external stimulus, you know, to achieve this or to be that.  
+**[4528.56s] English:** And if I look back over my time, when I was younger, most of these missions were primarily driven by external stimuli—to achieve this or to be that.  
 **Translation:** 
 
-**[4541.64s] English:** And now a lot of what I do is driven by really thinking what is important for me to achieve independently of the external recognition.  
-**Translation:** Vocabulary: independently: 独立自主; stimulus: 刺激
+**[4541.64s] English:** And now, a lot of what I do is driven by really thinking about what is important for me to achieve independently of external recognition.  
+**Translation:** Vocabulary: independently: 自主地; stimuli: 刺激
 
-**[4554.10s] English:** And, you know, I don't mind to be viewed in certain ways.  
+**[4554.10s] English:** And, you know, I don't mind being viewed in certain ways.  
 **Translation:** 
 
-**[4560.00s] English:** uh the most important thing for me is to be true to myself to what i think is right  
+**[4560.00s] English:** Uh, the most important thing for me is to be true to myself and to what I think is right.  
 **Translation:** 
 
-**[4567.36s] English:** how long did it take how hard was it to find the you that you have to be true to  
+**[4567.36s] English:** How long did it take? How hard was it to find the you that you have to be true to?  
 **Translation:** 
 
-**[4574.08s] English:** so it takes time and even now sometimes you know the vanity and the triviality can take  
-**Translation:** Vocabulary: triviality: 琐碎之事
+**[4574.08s] English:** So, it takes time, and even now, sometimes the vanity and the triviality can take over.  
+**Translation:** Vocabulary: triviality: 琐碎之事; vanity: 虚荣
 
-**[4580.00s] English:** uh you know at mit um yeah it can everywhere if you know it's just the vanity at mt is different  
+**[4580.00s] English:** Uh, you know, at MIT, um, yeah, it can be everywhere if you know—it's just the vanity there is different.  
 **Translation:** 
 
-**[4586.80s] English:** the vanity in different places but we all have our piece of vanity but i think actually  
+**[4586.80s] English:** The vanity in different places, but we all have our piece of vanity, but I think actually.  
 **Translation:** 
 
-**[4594.24s] English:** for me the many times the place to to get back to it is um you know when i  
+**[4594.24s] English:** For me, the many times the place to get back to it is, um, you know, when I  
 **Translation:** 
 
-**[4602.56s] English:** when i'm alone and also when i read and i think by selecting the right books you can get  
+**[4602.56s] English:** When I'm alone, and also when I read and think, by selecting the right books, you can get  
 **Translation:** Vocabulary: selecting: 挑选
 
-**[4608.40s] English:** the right questions and learn from what you read so but again it's  
+**[4608.40s] English:** The right questions and learn from what you read, so but again, it's  
 **Translation:** 
 
-**[4616.80s] English:** it's not perfect like vanity something else dominates well that's a beautiful  
+**[4616.80s] English:** It's not perfect; like vanity, something else dominates. Well, that's a beautiful  
 **Translation:** Vocabulary: dominates: 占据主导
 
-**[4623.92s] English:** way to end thank you so much for talking today thank you that was fun oh it was fun  
+**[4623.92s] English:** Way to end! Thank you so much for talking today. Thank you, that was fun. Oh, it was fun!  
 **Translation:** 
 
-**[4646.80s] English:** you  
+**[4646.80s] English:** You.  
 **Translation:** 
 
 

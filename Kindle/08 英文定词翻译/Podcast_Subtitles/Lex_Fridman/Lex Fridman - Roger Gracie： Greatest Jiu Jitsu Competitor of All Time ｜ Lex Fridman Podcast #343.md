@@ -1,7 +1,8 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All Time ｜ Lex Fridman Podcast #343.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** In my mind, I have to tap everybody else.  
+**[0.00s] English:** In my mind, I have to tap everyone else.  
 **Translation:** 
 
 **[3.04s] English:** Winning is not enough.  
@@ -10,7 +11,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6.28s] English:** The following is a conversation with Hadjer Gracie,  
 **Translation:** 
 
-**[10.04s] English:** widely considered to be the greatest jiu-jitsu competitor of all time.  
+**[10.04s] English:** Widely considered to be the greatest Jiu-Jitsu competitor of all time.  
 **Translation:** Vocabulary: gracie: 格雷西
 
 **[15.32s] English:** This is the Lex Friedman Podcast.  
@@ -22,10 +23,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[20.10s] English:** And now, dear friends, here's Hadjer Gracie.  
 **Translation:** 
 
-**[24.86s] English:** Let's start with possibly the greatest match in jiu-jitsu history,  
+**[24.86s] English:** Let's start with what might be the greatest match in Jiu-Jitsu history,  
 **Translation:** 
 
-**[28.56s] English:** your second match against Puchesha.  
+**[28.56s] English:** Your second match against Puchesha.  
 **Translation:** 
 
 **[30.74s] English:** Let's go through the details.  
@@ -34,7 +35,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[32.34s] English:** Let's go through the whole thing.  
 **Translation:** 
 
-**[33.66s] English:** So the walk leading up to it.  
+**[33.66s] English:** So, the walk leading up to it.  
 **Translation:** 
 
 **[35.84s] English:** You always do this walk.  
@@ -49,7 +50,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[39.78s] English:** Henzo posted that on Instagram.  
 **Translation:** 
 
-**[41.48s] English:** This calm walk towards the mat.  
+**[41.48s] English:** This calm walk toward the mat.  
 **Translation:** 
 
 **[45.02s] English:** Let's go to that match in particular.  
@@ -61,10 +62,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[48.34s] English:** You've been away from competition, facing probably one of the greatest,  
 **Translation:** 
 
-**[52.38s] English:** and at that time, many people considered the greatest jiu-jitsu competitor  
+**[52.38s] English:** And at that time, many people considered the greatest Jiu-Jitsu competitor.  
 **Translation:** 
 
-**[56.42s] English:** of all time in Puchesha.  
+**[56.42s] English:** Of all time in Puchesha.  
 **Translation:** 
 
 **[58.56s] English:** Here's the old man, the old-timer, getting back out there.  
@@ -73,83 +74,83 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[62.46s] English:** What were you thinking?  
 **Translation:** 
 
-**[63.74s] English:** Yeah, I think that's the first time since probably I got my black belt  
+**[63.74s] English:** Yeah, I think that's the first time since probably I got my black belt.  
 **Translation:** 
 
-**[68.62s] English:** that I wasn't the favorite walking to a fight, I have to say.  
+**[68.62s] English:** That I wasn't the favorite going into a fight, I have to say.  
 **Translation:** 
 
-**[71.82s] English:** Like a lot of people thought, considered him the favorite.  
+**[71.82s] English:** Like a lot of people thought, they considered him the favorite.  
 **Translation:** 
 
-**[76.24s] English:** I mean, understandable, you know, I was out of competition for a while.  
+**[76.24s] English:** I mean, understandable—you know—I was out of competition for a while.  
 **Translation:** Vocabulary: understandable: 可以理解的
 
 **[79.98s] English:** He was just winning everything.  
 **Translation:** 
 
-**[82.88s] English:** So, you know, saying about the walk, like for me, you know, the fight starts way  
+**[82.88s] English:** So, you know, saying about the walk, like for me, the fight starts way  
 **Translation:** 
 
-**[88.14s] English:** before the referee say go, you know.  
+**[88.14s] English:** Before the referee says "go," you know.  
 **Translation:** 
 
-**[91.04s] English:** It's all the focus and concentration that I think is very important for me to start  
+**[91.04s] English:** It's all about the focus and concentration, which I think is very important for me to start.  
 **Translation:** 
 
-**[96.68s] English:** before, like, you know, I almost walked blind to the mat.  
+**[96.68s] English:** Before, like, you know, I almost walked blindly to the mat.  
 **Translation:** 
 
-**[101.28s] English:** Many times I passed, like, great friends and I couldn't see anyone, you know,  
+**[101.28s] English:** Many times, I passed by great friends, and I couldn't see anyone, you know.  
 **Translation:** 
 
-**[105.14s] English:** they're trying to talk to you and I'm like, I'm 100% focused on my opponent already,  
+**[105.14s] English:** They're trying to talk to you, and I'm like, I'm 100% focused on my opponent already.  
 **Translation:** 
 
-**[110.10s] English:** even though that I cannot even see him in front of me.  
+**[110.10s] English:** Even though I cannot even see him in front of me.  
 **Translation:** 
 
-**[112.62s] English:** So I think that's for me was always very important to try to clear my mind out,  
+**[112.62s] English:** So, I think that's something that has always been very important to me to try to clear my mind.  
 **Translation:** 
 
-**[118.14s] English:** from everything.  
+**[118.14s] English:** From everything.  
 **Translation:** 
 
-**[120.00s] English:** visualizing the opponent or just clearing not at that time right is there what's what's in your  
+**[120.00s] English:** Visualizing the opponent, or just clearing — not at that time, right? Is there what's in your  
 **Translation:** 
 
-**[125.32s] English:** head is it like a calm river with birds chirping what it's blank just blank darkness yeah darkness  
-**Translation:** Vocabulary: visualizing: 想象
+**[125.32s] English:** Head, is it like a calm river with birds chirping? What it's blank, just blank darkness, yeah, darkness.  
+**Translation:** Vocabulary: opponent: 对手; visualizing: 想象
 
-**[132.26s] English:** okay and that's what we see in that calmness it's just blankness how hard is it to achieve  
+**[132.26s] English:** Okay, and that's what we see in that calmness—it's just blankness. How hard is it to achieve?  
 **Translation:** 
 
-**[137.04s] English:** that blankness it's difficult to say because i think i don't remember when i'll say probably  
+**[137.04s] English:** That blankness is difficult to say because I think I don't remember when; I'll probably say it sometime.  
 **Translation:** Vocabulary: calmness: 平静
 
-**[144.32s] English:** as a black belt i try to focus like that not to think because it's probably something you learn  
+**[144.32s] English:** As a black belt, I try to focus like that—not to think, because it's probably something you learn.  
 **Translation:** 
 
-**[152.16s] English:** is the more you think the more nervous you get and there's nothing that you're gonna gain by  
+**[152.16s] English:** Is the more you think, the more nervous you get, and there's nothing that you're going to gain by it.  
 **Translation:** 
 
-**[157.42s] English:** thinking of the fight or the possibilities what you know what you can't do what can go wrong what  
+**[157.42s] English:** Thinking of the fight, or the possibilities—what you know, what you can't do, what can go wrong—  
 **Translation:** 
 
-**[162.06s] English:** can't go right because it's unpredictable you have absolutely no idea it's impossible to predict  
+**[162.06s] English:** Can't go right because it's unpredictable; you have absolutely no idea, and it's impossible to predict.  
+**Translation:** Vocabulary: unpredictable: 不可预测的
+
+**[167.84s] English:** The fight, and you discover that if you just let those nervous feelings go and empty your mind,...  
 **Translation:** 
 
-**[167.84s] English:** the fight and you discover that if you just let those nervous feelings go and empty your mind  
+**[174.16s] English:** You're going to be able to do what you're doing, and if you get rid of that, it's a covenant.  
+**Translation:** Vocabulary: covenant: 盟约
+
+**[174.30s] English:** I think that's quite an important discovery, and I think that's quite an important discovery in my mind that,  
 **Translation:** 
 
-**[174.16s] English:** you're going to be able to do what you're doing and and if you get rid of that it's covenant you  
-**Translation:** Vocabulary: covenant: 协议
-
-**[174.30s] English:** I think that's quite an importaunt была and i think that's quite an Discovery in my mind that,  
+**[174.32s] English:** It actually is pretty effective.  
 **Translation:** 
-
-**[174.32s] English:** it actually is pretty effective.  
-**Translation:** Vocabulary: importaunt: 重要的
 
 **[175.82s] English:** It is.  
 **Translation:** 
@@ -157,37 +158,37 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[176.42s] English:** It makes you feel better.  
 **Translation:** 
 
-**[178.00s] English:** It's, you know, you kind of control your emotion,  
+**[178.00s] English:** It's, you know, you kind of control your emotions,  
 **Translation:** 
 
-**[180.36s] English:** control the adrenaline on your body up to a level.  
-**Translation:** 
+**[180.36s] English:** Control the adrenaline in your body up to a level.  
+**Translation:** Vocabulary: adrenaline: 肾上腺素
 
 **[183.22s] English:** So it absolutely helps you, you know, focus in the fight.  
 **Translation:** 
 
-**[187.24s] English:** I've learned that in jiu-jitsu and in general in life,  
+**[187.24s] English:** I've learned that in jiu-jitsu, and in general in life,  
 **Translation:** 
 
-**[190.84s] English:** that whenever something feels really shitty,  
+**[190.84s] English:** That whenever something feels really shitty,  
 **Translation:** 
 
-**[193.42s] English:** you can just, like, take that thought and not think about it.  
-**Translation:** Vocabulary: shitty: 糟糕透了
+**[193.42s] English:** You can just, like, take that thought and not think about it.  
+**Translation:** Vocabulary: shitty: 糟糕的
 
-**[196.98s] English:** Like, I do that, like, on long runs or, like, a fast run.  
+**[196.98s] English:** Like, I do that on long runs or, like, a fast run.  
 **Translation:** 
 
-**[200.10s] English:** Or, yeah, in jiu-jitsu, especially when I'm getting older, out of shape,  
+**[200.10s] English:** Or, yeah, in jiu-jitsu, especially when I'm getting older and out of shape,  
 **Translation:** 
 
-**[203.28s] English:** like, that feeling of exhaustion.  
+**[203.28s] English:** Like, that feeling of exhaustion.  
 **Translation:** 
 
 **[205.28s] English:** Well, you can always get to the feeling of exhaustion.  
-**Translation:** Vocabulary: exhaustion: 精疲力尽
+**Translation:** Vocabulary: exhaustion: 疲惫感
 
-**[207.36s] English:** You can just not think about it, not think about being exhausted.  
+**[207.36s] English:** You can just not think about it and not think about being exhausted.  
 **Translation:** 
 
 **[211.46s] English:** Yeah.  
@@ -196,229 +197,229 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[212.30s] English:** And that somehow relaxes you.  
 **Translation:** 
 
-**[214.36s] English:** I think maybe in the face of exhaustion, all the fears start to creep in.  
+**[214.36s] English:** I think, maybe, in the face of exhaustion, all the fears start to creep in.  
 **Translation:** Vocabulary: creep: 悄悄出现
 
 **[218.36s] English:** Maybe your muscles tighten up.  
 **Translation:** 
 
 **[219.70s] English:** I don't know.  
-**Translation:** 
+**Translation:** Vocabulary: tighten: 变紧
 
-**[220.30s] English:** This is for the amateur jiu-jitsu person.  
+**[220.30s] English:** This is for the amateur jiu-jitsu practitioner.  
 **Translation:** 
 
 **[225.22s] English:** But it's kind of funny how you can just take that thought and let go of it.  
-**Translation:** Vocabulary: amateur: 业余爱好者
+**Translation:** Vocabulary: amateur: 初学者; practitioner: 练习者
 
-**[229.80s] English:** So you get, as a black belt competitor, you get used to,  
+**[229.80s] English:** So, as a black belt competitor, you get used to,  
 **Translation:** 
 
-**[232.72s] English:** you get good at letting go of any thoughts.  
+**[232.72s] English:** You get good at letting go of any thoughts.  
 **Translation:** 
 
 **[235.56s] English:** Yeah.  
 **Translation:** 
 
-**[236.14s] English:** When you mention to exhaustion, that's another good example.  
+**[236.14s] English:** When you mention exhaustion, that's another good example.  
 **Translation:** 
 
-**[240.00s] English:** of it it's you know there's a lot of times in the fight you're getting tired and you're getting  
+**[240.00s] English:** Of it, it's you know, there are lots of times in the fight when you're getting tired and you're getting  
 **Translation:** 
 
-**[244.86s] English:** pretty tired so it's like the last thing you want to think of it is how tired you are it doesn't  
+**[244.86s] English:** Pretty tired, so it's like the last thing you want to think about is how tired you are; it doesn't  
 **Translation:** 
 
-**[251.00s] English:** matter because it doesn't what are you going to quit i mean it doesn't matter it's how tired you  
+**[251.00s] English:** Matter because it doesn't. What are you going to quit? I mean, it doesn't matter; it's how tired you.  
 **Translation:** 
 
-**[257.46s] English:** are it's yeah there's no value thinking about it there's no value it's you just have to go through  
+**[257.46s] English:** It's true; there's no value in thinking about it. You just have to go through it.  
 **Translation:** 
 
-**[261.18s] English:** it so when you're like uh you know many minutes into the match and you're slowly moving as you  
+**[261.18s] English:** It's so frustrating when you're, you know, many minutes into the match and you're slowly moving as you  
 **Translation:** 
 
-**[268.36s] English:** sometimes do tying your belt catching your breath you're not thinking about anything you're trying  
+**[268.36s] English:** Sometimes, when you're tying your belt or catching your breath, you're not thinking about anything; you're just trying.  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
+
+**[271.94s] English:** To let go of thinking I'm trying to save everything, to fight like nothing goes to waste.  
 **Translation:** 
 
-**[271.94s] English:** to let go of thinking i'm trying to like to save everything to the fight like nothing goes to waste  
-**Translation:** 
-
-**[280.54s] English:** it's you know every move unnecessarily it's it's just going to make you more tired or it's going  
+**[280.54s] English:** It's you know, every move unnecessarily is just going to make you more tired, or it's going to...  
 **Translation:** Vocabulary: unnecessarily: 多余地
 
-**[287.06s] English:** to take something out of you like you know i try to calculate every single move i make save as much  
+**[287.06s] English:** To take something out of you, like I know; I try to calculate every single move I make and save as much.  
 **Translation:** 
 
-**[293.20s] English:** energy as i can so i can fully you know be focused 100 percent  
+**[293.20s] English:** Energy, as I can, so I can fully be focused 100 percent.  
 **Translation:** 
 
-**[297.98s] English:** you  
+**[297.98s] English:** You.  
 **Translation:** 
 
-**[298.36s] English:** in the fight with no way especially energy-wise and that's instinctual like uh minimizing the  
+**[298.36s] English:** In the fight, with no way out especially energy-wise, and that's instinctual — like, minimizing the  
 **Translation:** Vocabulary: instinctual: 本能的; minimizing: 减少
 
-**[304.46s] English:** amount of moves you're not like explicitly thinking should i do this or not it's just  
+**[304.46s] English:** Amount of moves, you're not like explicitly thinking, "Should I do this or not." It's just  
 **Translation:** 
 
-**[309.72s] English:** just don't move unless it's absolutely required yeah because fight is you cannot really there's  
-**Translation:** Vocabulary: cannot: 不能; explicitly: 明确地
+**[309.72s] English:** Just don't move unless it's absolutely required, yeah. Because in a fight, you can't really...  
+**Translation:** Vocabulary: explicitly: 明确地
 
-**[316.96s] English:** not really time to think much you know so it's just your instincts are playing it's like it's  
+**[316.96s] English:** Not really time to think much, you know? So it's just your instincts playing. It's like it's  
 **Translation:** 
 
-**[322.20s] English:** you know you already have your you know your weapons let's say you know the things that you  
+**[322.20s] English:** You know, you already have your weapons, let's say, the things that you  
 **Translation:** Vocabulary: instincts: 直觉
 
-**[327.38s] English:** do it's just  
+**[327.38s] English:** It's just.  
 **Translation:** 
 
-**[328.36s] English:** just you wait for the perfect moment the beauty of it is you know that's the right moment to  
+**[328.36s] English:** Just wait for the perfect moment; the beauty of it is, you know, that's the right moment to.  
 **Translation:** 
 
-**[334.36s] English:** everything if you feel one second too late it doesn't work no you get messy so it's you know  
+**[334.36s] English:** Everything; if you feel even a second too late, it doesn't work. No, you get messy, so it's you know.  
 **Translation:** 
 
-**[339.30s] English:** you're trying to catch that moment that's it's you know and for that you have to be  
+**[339.30s] English:** You're trying to catch that moment; that's it. And for that, you have to be  
 **Translation:** 
 
-**[344.76s] English:** fully focused in what you're doing because one second is you out it won't work but you're you're  
+**[344.76s] English:** Fully focused on what you're doing because one second can make all the difference; it won't work if you're not.  
 **Translation:** 
 
-**[350.98s] English:** not exactly known as somebody that moves super quickly so the so the moment it's not about the  
+**[350.98s] English:** Not exactly known as somebody that moves super quickly, so the moment is not about speed.  
 **Translation:** 
 
 **[358.36s] English:** It's not about how quickly you move.  
 **Translation:** 
 
-**[360.00s] English:** uh the right moment so you move slowly yeah yeah it's not like it's speed it's not like you have  
+**[360.00s] English:** Uh, the right moment; so you move slowly, yeah. Yeah, it's not like it's about speed; it's not like you have to rush.  
 **Translation:** 
 
-**[368.36s] English:** to move the speed of light it's it's the move itself at that precise moment it doesn't have  
+**[368.36s] English:** To move the speed of light, it's the move itself at that precise moment; it doesn't have  
 **Translation:** 
 
-**[373.78s] English:** to be super fast because your opponent's not moving super fast you know so it's a combination  
+**[373.78s] English:** To be super fast, because your opponent isn't moving super fast, you know. So it's a combination.  
+**Translation:** Vocabulary: opponent: 对手
+
+**[379.02s] English:** Of moving between you and him, I mean the same thing happens in judo, and the movement can be  
 **Translation:** 
 
-**[379.02s] English:** of moving between you and him i mean the same thing happens in judo and the movement can be  
-**Translation:** 
-
-**[384.78s] English:** really small yeah it's just judo is a is a bit more explosiveness you know it's just the moves  
+**[384.78s] English:** Really small, yeah. It's just that judo has a bit more explosiveness, you know, it's just the moves.  
 **Translation:** Vocabulary: explosiveness: 爆发力
 
-**[390.78s] English:** are slightly faster so it you know it does require a bit more explosiveness in judo but even just  
+**[390.78s] English:** Are they slightly faster, so it requires a bit more explosiveness in judo, but even just  
 **Translation:** 
 
-**[397.08s] English:** the right timing for an off balance yeah just a little tough yeah yeah it's not that that you  
+**[397.08s] English:** The right timing for an off-balance move, yeah. Just a little tough, yeah. Yeah, it's not that easy.  
+**Translation:** Vocabulary: timing: 时机
+
+**[403.54s] English:** Know, moving the speed is not going to count that much; yeah, it's the timing that you initiate that.  
 **Translation:** 
 
-**[403.54s] English:** know moving the speed is not going to count that much yeah it's the timing that you initiate that  
+**[408.92s] English:** Move, you see that with foot sweeps, there's nothing more beautiful than at Olympic level.  
+**Translation:** Vocabulary: initiate: 开始; sweeps: 扫腿
+
+**[414.02s] English:** Athlete  
 **Translation:** 
 
-**[408.92s] English:** move you see that with foot sweeps there's nothing more beautiful than not like a olympic level  
-**Translation:** Vocabulary: initiate: 开始
-
-**[414.02s] English:** athlete  
+**[414.78s] English:** Going for it in the Olympics, and a perfect performance — it's just amazing to see one man's life flash.  
 **Translation:** 
 
-**[414.78s] English:** going at it in the olympics and a perfect somebody and it's just and you see one man's life flash  
+**[422.86s] English:** Before his eyes, and realize: I'm supposed to be one of the top three people in the world, but I just  
 **Translation:** 
 
-**[422.86s] English:** before his eyes and realize like i'm supposed to be the top three person in the world that i just  
+**[428.40s] English:** Find that they don't have this look on their face; like, I don't know what just happened. It's beautiful.  
 **Translation:** 
 
-**[428.40s] English:** find they don't they have this look on their face like i don't know what just happened it's beautiful  
+**[432.80s] English:** To see, you don't see that; I guess you see that in boxing knockouts and stuff like that, you don't.  
 **Translation:** 
 
-**[432.80s] English:** to see you don't see that i guess you see that in boxing knockouts and stuff like that you don't  
-**Translation:** 
-
-**[437.26s] English:** know what the hell just happened yeah is that precise moment of movement that you get caught  
+**[437.26s] English:** Know what the hell just happened? Yeah, it's that precise moment of movement that you get caught.  
 **Translation:** Vocabulary: knockouts: 击倒
 
-**[443.42s] English:** like is is that  
+**[443.42s] English:** Like, is that?  
 **Translation:** 
 
-**[444.78s] English:** one split second that's it do you get that in jiu-jitsu at all because judo has  
+**[444.78s] English:** One split second—that's it. Do you get that in jiu-jitsu at all, because judo has  
 **Translation:** 
 
-**[450.36s] English:** because of the explosiveness because of the point scoring system that incentivizes these giant  
+**[450.36s] English:** Because of the explosiveness, because of the point-scoring system that incentivizes these giants,...  
 **Translation:** 
 
-**[456.46s] English:** throws um has these moments where everything just turns in a single moment do you have that in  
+**[456.46s] English:** Throws, um, has these moments where everything just turns in a single moment. Do you have that?  
 **Translation:** Vocabulary: incentivizes: 激励
 
-**[462.10s] English:** jiu-jitsu not really because then it's points yes you get like you know two points so it's  
+**[462.10s] English:** Jiu-jitsu is not really like that, because then it's points-based; yes, you get like two points, so it's  
 **Translation:** 
 
-**[468.24s] English:** because i think regarding the submission it's not just one precise movement that  
+**[468.24s] English:** Because I think, regarding the submission, it's not just one precise movement.  
 **Translation:** 
 
-**[474.78s] English:** everything i think judo is the takedown that counts as a submission like he  
+**[474.78s] English:** Everything, I think, Judo is the takedown that counts as a submission, like he  
 **Translation:** 
 
-**[480.00s] English:** on fight over jiu-jitsu you don't have that so you will you will score points but i think in terms of  
+**[480.00s] English:** On fight over Jiu-Jitsu, you don't have that, so you'll score points, but I think in terms of  
 **Translation:** Vocabulary: takedown: 摔倒
 
-**[486.40s] English:** submission you need to get to uh you know dominant position first and then the submission will come  
+**[486.40s] English:** Submission, you need to get to a dominant position first, and then the submission will come.  
 **Translation:** 
 
-**[494.08s] English:** slowly it's a process yeah okay let's go back to that guy with with his mind so actually in the  
+**[494.08s] English:** Slowly, it's a process, yeah. Okay, let's go back to that guy with his mind. So, actually, in the  
+**Translation:** Vocabulary: dominant: 优势的
+
+**[500.32s] English:** Weeks leading up to it, in the days, in the hours, and in the minutes—is there some fear in you?  
 **Translation:** 
 
-**[500.32s] English:** weeks leading up to it in the days in the hours in the minutes is there some fear in you leading  
-**Translation:** 
-
-**[508.40s] English:** up to this i mean i'm not gonna say you know that i'm fearless because everybody fears something you  
+**[508.40s] English:** Up to this point, I mean, I'm not going to say that I'm fearless because everybody fears something, you know?  
 **Translation:** Vocabulary: fearless: 无所畏惧
 
-**[515.92s] English:** know the fear is there but it's like how much you let that controlled you i think i was a lot more  
+**[515.92s] English:** Know the fear is there, but it's like how much you let that control you. I think I was a lot more.  
 **Translation:** 
 
-**[521.44s] English:** confident than fearful for sure walk into that fight like i i was pretty confident that i could  
+**[521.44s] English:** Confident, not fearful for sure. Walk into that fight like I was pretty confident that I could.  
+**Translation:** Vocabulary: fearful: 害怕的
+
+**[528.64s] English:** Beat him? Where's the source of that confidence? My belief in me—this, okay? I can take the word.  
 **Translation:** 
 
-**[528.64s] English:** beat him where's the source of that confidence my belief on me this okay i can take the word  
+**[538.00s] English:** You can.  
 **Translation:** 
 
-**[538.00s] English:** you can  
+**[538.40s] English:** Take anyone in the world, but is there a specific strategic approach, like, you know, talking to Donna? Her  
 **Translation:** 
 
-**[538.40s] English:** take anyone in the world but is there specific strategic like uh you know talking to donna her  
+**[545.60s] English:** He believes that there's no such thing as confidence, like or rather, the way you get.  
+**Translation:** Vocabulary: donna: donna
+
+**[550.48s] English:** Confidence is through data, like that, you have proven yourself effective in previous.  
 **Translation:** 
 
-**[545.60s] English:** he believes that there's no such thing as confidence like or rather the way you get  
-**Translation:** Vocabulary: donna: 女士
-
-**[550.48s] English:** confidence is through data like that you have proven yourself effective uh in previous  
+**[558.64s] English:** Situations, but with Buchacha, you don't have much data; it was a very  
 **Translation:** 
 
-**[558.64s] English:** situations but with buchacha you don't you don't have much data it was a very  
+**[564.40s] English:** The first time you faced him was a very tough moment. That was also one of the greatest.  
 **Translation:** 
 
-**[564.40s] English:** the first time you faced him was a very tough that was also one of the greatest  
+**[568.40s] English:** Matches of all time, it was very tough, so doesn't that creep in like doubt because you know.  
+**Translation:** Vocabulary: creep: 渗透
+
+**[573.76s] English:** You don't have enough data to be confident, based on, uh, yeah, I mean.  
 **Translation:** 
 
-**[568.40s] English:** matches of all time it was very tough so doesn't that creep in like that doubt because you know  
-**Translation:** Vocabulary: creep: 悄悄进入
-
-**[573.76s] English:** you don't have enough data to be confident based on uh yeah i mean  
+**[582.56s] English:** Okay, if I've never fought before, you know, suddenly walking into a fight with someone like that.  
 **Translation:** 
 
-**[582.56s] English:** okay if i never have fought before you know suddenly walk into a fight with someone like that  
+**[587.68s] English:** Then, would I be that confident? I mean, probably not. You know, so that history of what you know, what  
 **Translation:** 
 
-**[587.68s] English:** then would i be that confident i mean probably no you know so that history of what you know what  
+**[594.32s] English:** We've been doing what we've been achieving, which gives you confidence. I didn't think that was mine.  
 **Translation:** 
 
-**[594.32s] English:** we've been doing what we've been achieving does gives you confidence i didn't think that was my  
+**[598.24s] English:** First fight ever.  
 **Translation:** 
 
-**[598.24s] English:** first fight ever  
-**Translation:** 
-
-**[600.00s] English:** I wouldn't, probably I wouldn't be there.  
+**[600.00s] English:** I wouldn't be there, probably.  
 **Translation:** 
 
 **[601.80s] English:** But the time off?  
@@ -433,13 +434,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[606.94s] English:** Doesn't matter.  
 **Translation:** 
 
-**[607.84s] English:** You don't have the fear or the actual physical experience, the psychological experience of being rusty, of being out of the competition?  
+**[607.84s] English:** You don't have the fear or the actual physical experience, the psychological experience of being rusty and out of the competition?  
 **Translation:** 
 
-**[614.78s] English:** That will come out on training.  
+**[614.78s] English:** That will come out in training.  
 **Translation:** 
 
-**[617.06s] English:** So you, okay, so you simulate some aspect of that in the training?  
+**[617.06s] English:** So, you okay, so you simulate some aspect of that during the training?  
 **Translation:** 
 
 **[619.82s] English:** Yeah, I mean, the training will tell you how you are.  
@@ -451,22 +452,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[623.46s] English:** Did you increase the intensity of the training leading up to this?  
 **Translation:** 
 
-**[626.98s] English:** Yeah, I mean, I train normal.  
+**[626.98s] English:** Yeah, I mean, I train normally.  
 **Translation:** 
 
-**[628.88s] English:** You know, let's say compared to the first fight, the second one was a lot more confidence because, you know, like I said on training, the training for the first fight, it was terrible.  
+**[628.88s] English:** You know, let's say compared to the first fight, the second one was a lot more confident because, you know, like I said, the training for the first fight was terrible.  
 **Translation:** 
 
 **[640.00s] English:** What do you mean?  
 **Translation:** 
 
-**[641.58s] English:** I think I was focused on MMA for a while, for a couple of months, and I wasn't really focused on the gi.  
+**[641.58s] English:** I think I was focused on MMA for a while—about a couple of months—and I wasn't really focused on the gi.  
 **Translation:** 
 
-**[647.12s] English:** And, you know, by the time I accepted the fight and started training, like all my responses on training were off.  
+**[647.12s] English:** And, you know, by the time I accepted the fight and started training, all of my responses to training were off.  
 **Translation:** 
 
-**[653.44s] English:** Like all my training partners that I used to train with that I destroyed.  
+**[653.44s] English:** Like all my training partners that I used to train with, I destroyed them.  
 **Translation:** 
 
 **[657.66s] English:** I mean, now they're like...  
@@ -475,11 +476,11 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[658.88s] English:** They're beating me.  
 **Translation:** 
 
-**[660.60s] English:** You know, it's like I cannot beat them the way I was used to.  
+**[660.60s] English:** You know, I can't beat them the way I used to.  
 **Translation:** 
 
-**[664.80s] English:** But, you know, so I knew something was not right for the first fight.  
-**Translation:** Vocabulary: cannot: 不能
+**[664.80s] English:** But, you know, so I knew something wasn't right for the first fight.  
+**Translation:** 
 
 **[669.60s] English:** But then it's, you know, no points.  
 **Translation:** 
@@ -490,7 +491,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[675.00s] English:** Yeah, for people who don't know, it was in Mud and Morris, which is a 20-minute match, submission only.  
 **Translation:** 
 
-**[679.86s] English:** So there's no...  
+**[679.86s] English:** So, there's no...  
 **Translation:** 
 
 **[680.58s] English:** The winner is determined only by submission.  
@@ -499,7 +500,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[682.14s] English:** Otherwise, it's a draw.  
 **Translation:** 
 
-**[683.50s] English:** So physically, I wasn't myself on that fight.  
+**[683.50s] English:** So, physically, I wasn't myself on that fight.  
 **Translation:** 
 
 **[687.32s] English:** I was tired.  
@@ -508,22 +509,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[688.88s] English:** My body wasn't responding.  
 **Translation:** 
 
-**[690.56s] English:** Anyway, so the confidence was different from the first and the second.  
+**[690.56s] English:** Anyways, so the confidence was different from the first and the second.  
 **Translation:** 
 
 **[694.14s] English:** I think I was confident enough that I wouldn't get tapped out on the first.  
 **Translation:** 
 
-**[698.22s] English:** That I was still going to fight because he had to tap me out to beat me.  
+**[698.22s] English:** That I was still going to fight, because he had to tap me out to beat me.  
 **Translation:** 
 
-**[702.34s] English:** And I trust on my defense.  
+**[702.34s] English:** And I trust in my defense.  
 **Translation:** 
 
-**[704.14s] English:** I'm confident enough on my defense that he would not tap me out.  
+**[704.14s] English:** I'm confident enough in my defense that he wouldn't tap me out.  
 **Translation:** 
 
-**[707.80s] English:** But in terms of winning, you know, walking to the second fight, I was a lot more confident.  
+**[707.80s] English:** But in terms of winning, you know, walking into the second fight, I was a lot more confident.  
 **Translation:** 
 
 **[715.96s] English:** What can you say about that feeling when something's not right?  
@@ -535,49 +536,49 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[719.92s] English:** Thanks for watching!  
 **Translation:** 
 
-**[720.00s] English:** It's weird breaks. It's weird. Like people crack, they give up. It's a big test because it's like being really tired. It's the same thing. It's like a lot of people crack because they just feel they cannot give in more. They have nothing more to give. So they just like give up. It's too hard.  
+**[720.00s] English:** It's weird, those breaks. It's weird. Like, people crack; they give up. It's a big test because it's like being really tired. It's the same thing. It's like a lot of people crack because they just feel they can't give in more. They have nothing more to give. So they just give up. It's too hard.  
 **Translation:** 
 
-**[740.94s] English:** So what do you do? Just again, take the thoughts out?  
+**[740.94s] English:** So, what do you do? Just again, take the thoughts out?  
 **Translation:** 
 
-**[743.34s] English:** There is no giving up. I mean, I don't mind. I don't care. Like just giving up is not an option. It's not.  
+**[743.34s] English:** There is no giving up. I mean, I don't mind. I don't care. Like, just giving up is not an option. It's not.  
 **Translation:** 
 
 **[752.06s] English:** That's always the way you thought about jiu-jitsu?  
 **Translation:** 
 
-**[755.12s] English:** Yeah. I've never gave up. I mean, I tapped. It's, you know, not giving up is not tapping. That's just stupid.  
+**[755.12s] English:** Yeah. I've never given up. I mean, I tapped. It's, you know, not giving up is not tapping—that's just stupid.  
 **Translation:** 
 
-**[763.18s] English:** Especially, you know, doing training. Like I get caught, I tap. I've never ever hurt myself by not tapping.  
+**[763.18s] English:** Especially, you know, when doing training. Like, I get caught, I tap. I've never ever hurt myself by not tapping.  
+**Translation:** Vocabulary: tapped: 认输
+
+**[770.80s] English:** I get that you get angry. Train hard, improve, and make yourself better. You got caught.  
 **Translation:** 
 
-**[770.80s] English:** I get, you get angry, you know, train hard, you know, improve, make yourself better. You got caught.  
-**Translation:** 
+**[777.24s] English:** Accept that you made a mistake, give up, tap, then try harder. So, you know, not tapping is sacrificing your body, and you'll never be the same.  
+**Translation:** Vocabulary: sacrificing: 作出牺牲
 
-**[777.24s] English:** Accept that you made a mistake, give up, tap, then try harder. So, you know, not tapping, it's, you're sacrificing your body and, you know, you'll never be the same.  
-**Translation:** Vocabulary: sacrificing: 牺牲身体
-
-**[789.32s] English:** Like if you let your elbow pop, the elbow will never, ever be the same, ever.  
+**[789.32s] English:** Like, if you let your elbow pop, the elbow will never, ever be the same, ever.  
 **Translation:** 
 
 **[793.78s] English:** Yeah.  
 **Translation:** 
 
-**[793.94s] English:** You let yourself go to sleep, your resistance drops.  
+**[793.94s] English:** You let yourself go to sleep; your resistance drops.  
 **Translation:** 
 
-**[796.92s] English:** So, it's, everybody has a, has a limit of resistance until they, you know, to resist a choke before you pass out.  
+**[796.92s] English:** So, it's that everyone has a limit of resistance until they, you know, lose consciousness from a choke.  
+**Translation:** Vocabulary: consciousness: 清醒状态
+
+**[804.76s] English:** The moment you go to sleep, that resistance will drop.  
 **Translation:** 
 
-**[804.76s] English:** The moment that you, you, you, you, you go to sleep, that resistance will drop.  
+**[810.54s] English:** I've never heard anyone say that. That's awesome! That's true. So, tap. So, that's the reason because people usually say it's possible.  
 **Translation:** 
 
-**[810.54s] English:** I've never heard anyone say that. That's awesome. That's true. So, tap. So, that's the reason, because people usually say it's, you can.  
-**Translation:** 
-
-**[817.56s] English:** No. It's the same or you're getting knocked out. You get knocked out the first time, your resistance drops. Your jaw gets weaker.  
+**[817.56s] English:** No. It's the same, or you're getting knocked out. You get knocked out the first time, and your resistance drops. Your jaw gets weaker.  
 **Translation:** 
 
 **[824.18s] English:** Just for the record, I've never gone to sleep again.  
@@ -625,10 +626,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[870.00s] English:** Because you used to just spar.  
 **Translation:** 
 
-**[872.46s] English:** When you spar, like, it's difficult to be in bad positions a lot.  
+**[872.46s] English:** When you spar, it's difficult to be in bad positions a lot.  
 **Translation:** 
 
-**[876.92s] English:** You train with better people, but, I mean, let's say five, six minute rows.  
+**[876.92s] English:** You train with better people, but, I mean, let's say five to six-minute rows.  
 **Translation:** 
 
 **[881.52s] English:** How long are you going to be in a really bad position?  
@@ -637,13 +638,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[883.52s] English:** Not long, right?  
 **Translation:** 
 
-**[884.32s] English:** So you don't really have time to develop.  
+**[884.32s] English:** So, you don't really have time to develop.  
 **Translation:** 
 
-**[886.90s] English:** That's why people, they don't, you know, they don't train being in bad positions.  
+**[886.90s] English:** That's why people don't train being in bad positions, you know.  
 **Translation:** 
 
-**[892.04s] English:** Because you have to start there over and over again to be used to it.  
+**[892.04s] English:** Because you have to start there over and over again to get used to it.  
 **Translation:** 
 
 **[897.44s] English:** Yeah, or put yourself there.  
@@ -652,10 +653,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[898.60s] English:** I just didn't have that mindset.  
 **Translation:** 
 
-**[900.00s] English:** I think, I think you start, I mean, part of the fun of jiu-jitsu is as you get better and better, you have certain people you go with, you have these puzzles that you've figured out, that you're playing very specific details, you're working out, you're trying to improve your main, like, techniques and so on.  
-**Translation:** Vocabulary: mindset: 思维定式
+**[900.00s] English:** I think I think you start. I mean, part of the fun of jiu-jitsu is that as you get better and better, you have certain people you go with; you have these puzzles that you've figured out. You're playing very specific details, working out, trying to improve your main techniques and so on.  
+**Translation:** Vocabulary: mindset: 思维; puzzles: 难题
 
-**[916.00s] English:** But, yeah, just the percentage of time you spend being submitted or being, or trying, even going against, like, lower ranks, trying to escape basic submissions is low.  
+**[916.00s] English:** But, yeah, just the percentage of time you spend being submitted to or being tried to escape, or going against lower ranks, trying to escape basic submissions, is low.  
 **Translation:** 
 
 **[925.24s] English:** I don't know if that's true for most people.  
@@ -664,19 +665,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[927.40s] English:** Probably is, right?  
 **Translation:** 
 
-**[928.50s] English:** Most people have very bad defense.  
+**[928.50s] English:** Most people have a very bad defense.  
 **Translation:** 
 
 **[930.18s] English:** Yeah.  
 **Translation:** 
 
-**[930.48s] English:** Because they don't allow themselves to be there because, I mean, who wants to get tapped?  
-**Translation:** 
+**[930.48s] English:** Because they don't allow themselves to be there; I mean, who wants to get tapped?  
+**Translation:** Vocabulary: tapped: 被选中
 
 **[935.50s] English:** Because you will.  
 **Translation:** 
 
-**[936.80s] English:** Until you, you know, until you work on your defense, of course you're going to get tapped.  
+**[936.80s] English:** Until you work on your defense, of course you're going to get tapped.  
 **Translation:** 
 
 **[941.42s] English:** Or, you know, you're not going to escape.  
@@ -685,46 +686,46 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[942.56s] English:** You're going to struggle to escape.  
 **Translation:** 
 
-**[944.28s] English:** So people, they don't want to be there.  
+**[944.28s] English:** So, people don't want to be there.  
 **Translation:** 
 
 **[948.24s] English:** I regret it most because of the effect it clearly had on how I competed.  
-**Translation:** 
+**Translation:** Vocabulary: competed: 比赛
 
 **[955.24s] English:** It was clear that my competition was constantly driven by it.  
 **Translation:** 
 
-**[960.00s] English:** conservative thinking like don't take risks i think because of a weak defense honestly and i  
+**[960.00s] English:** Conservative thinking, like not taking risks, I think, is due to a weak defense, honestly, and I  
 **Translation:** 
 
-**[967.74s] English:** think uh a lot of the any of the fear like uh for example exhaustion was accompanied by fear  
+**[967.74s] English:** Think, however, that a lot of the fear was accompanied by exhaustion.  
 **Translation:** 
 
-**[974.42s] English:** because of weak defense i think if i were to psychoanalyze myself and i regret it i regret it  
+**[974.42s] English:** Because of weak defense, I think. If I were to psychoanalyze myself, I regret it, and I regret it.  
 **Translation:** Vocabulary: exhaustion: 疲劳; psychoanalyze: 心理分析
 
-**[980.20s] English:** a lot um but speaking of which i don't think anyone's ever submitted you in competition  
+**[980.20s] English:** A lot, um, but speaking of which, I don't think anyone's ever submitted you in competition.  
 **Translation:** 
 
-**[989.10s] English:** so you're well while i was a juvenile yes yes so so when you were a young person yeah  
+**[989.10s] English:** So, you're well. While I was a juvenile, yes, yes. So, when you were a young person, yeah.  
 **Translation:** Vocabulary: juvenile: 少年时期
 
-**[997.22s] English:** six that still haunt you i know it's first i was winning that fight by a large i mean i think by  
+**[997.22s] English:** Six that still haunt you? I know; it's first; I was winning that fight by a large margin, I mean, I think by  
 **Translation:** 
 
-**[1006.22s] English:** six points or four something like that but i was like i was gonna remember it though huh by the  
+**[1006.22s] English:** Six points, or four, something like that, but I was like, I was gonna remember it, though, huh? By the  
+**Translation:** Vocabulary: margin: 差距
+
+**[1010.90s] English:** Details, yeah. You ever beat him again? He never did.  
 **Translation:** 
 
-**[1010.90s] English:** details yeah you ever beat him again he never  
+**[1019.08s] English:** Never beat him again. He never beat him again. He never beat him again. He never beat him again. He never.  
 **Translation:** 
 
-**[1019.08s] English:** never beat him again he never beat him again he never beat him again he never beat him again he never  
+**[1019.10s] English:** I'll complete it again.  
 **Translation:** 
 
-**[1019.10s] English:** I'll compete it again.  
-**Translation:** 
-
-**[1024.96s] English:** Whoever you are, please, let's do a podcast.  
+**[1024.96s] English:** Whoever you are, please let's do a podcast.  
 **Translation:** 
 
 **[1027.62s] English:** We'll talk shit about Hadja the whole time.  
@@ -736,10 +737,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1032.14s] English:** You're saying you're confident that the top of the world,  
 **Translation:** 
 
-**[1037.30s] English:** the number one Puchesha would not submit you.  
-**Translation:** 
+**[1037.30s] English:** The number one Puchesha would not submit you.  
+**Translation:** Vocabulary: submit: 屈服
 
-**[1041.34s] English:** So where is that confidence grounded?  
+**[1041.34s] English:** So, where is that confidence grounded?  
 **Translation:** 
 
 **[1043.02s] English:** And what do you attribute the fact that nobody was able to submit you?  
@@ -754,98 +755,98 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1053.66s] English:** My defense is good because I practice over and over again.  
 **Translation:** 
 
-**[1057.94s] English:** As much as I practice all my offensive positions.  
+**[1057.94s] English:** As much as I practice all my offensive positions,  
 **Translation:** 
 
-**[1061.82s] English:** So you have to train both equally.  
+**[1061.82s] English:** So, you have to train both equally.  
 **Translation:** 
 
 **[1064.66s] English:** It's not just being in a good position.  
 **Translation:** 
 
-**[1066.44s] English:** You have to be in bad.  
+**[1066.44s] English:** You have to be kidding.  
 **Translation:** 
 
-**[1067.86s] English:** So I think that's a very strong part of my game.  
+**[1067.86s] English:** So, I think that's a very strong part of my game.  
 **Translation:** 
 
 **[1071.34s] English:** To be a complete fighter, a complete martial artist,  
 **Translation:** 
 
-**[1076.76s] English:** you have to be good in every single position.  
+**[1076.76s] English:** You have to be good in every single position.  
 **Translation:** Vocabulary: martial: 武术的
 
-**[1080.00s] English:** every single one those that you're not you have a weakness so it's you know to be complete you  
+**[1080.00s] English:** Every single one of them; those that you're not, you have a weakness. So, it's you know, to be complete, you  
 **Translation:** 
 
-**[1086.16s] English:** should have no weakness so that was always my you know i was always very uh particular on that like  
+**[1086.16s] English:** Should have no weakness, so that was always my belief. I was always very particular about that.  
 **Translation:** 
 
-**[1093.68s] English:** it's where my weakness where am i what i don't feel good at it if you put me in a position where  
+**[1093.68s] English:** It's where my weakness is. Where am I, what I don't feel good at? If you put me in a position where  
 **Translation:** 
 
-**[1098.80s] English:** struggle how do i escape how do i get out everything any submission locked penny position  
+**[1098.80s] English:** Struggle: How do I escape? How do I get out? Anything—any submission, locked penny position.  
 **Translation:** 
 
-**[1104.64s] English:** you know back mount everything it's doesn't matter which position i practice over and over  
+**[1104.64s] English:** You know, back mount—everything; it doesn't matter which position I practice; I over and over.  
 **Translation:** 
 
-**[1111.54s] English:** again so that when i if i get there in a fighting situation i will know how to get out at least i'll  
+**[1111.54s] English:** Again, so that when I get there in a fighting situation, I will know how to get out—at least, I'll.  
 **Translation:** 
 
-**[1117.98s] English:** have a direction you know i will know this is my way out do you practice both escaping the bad  
+**[1117.98s] English:** Have a direction, you know? I'll know this is my way out. Do you practice both escaping the bad...  
 **Translation:** 
 
-**[1124.98s] English:** position and always the transition into the bad position avoiding it because that's how it happens  
+**[1124.98s] English:** Position, and always the transition into a bad position, avoiding it because that's how it happens.  
 **Translation:** 
 
-**[1133.16s] English:** you know jiu-jitsu  
+**[1133.16s] English:** You know, Jiu-Jitsu.  
 **Translation:** 
 
-**[1134.64s] English:** you start in a neutral position  
+**[1134.64s] English:** You start in a neutral position.  
 **Translation:** 
 
-**[1137.28s] English:** no the transition then it then becomes that the fight itself it's it's being there is the most  
+**[1137.28s] English:** No, the transition then it becomes that the fight itself is being there is the most.  
 **Translation:** 
 
-**[1142.40s] English:** important is when you're there then you have to know how to get out that that's your weakness how  
+**[1142.40s] English:** Important is when you're there, then you have to know how to get out—that's your weakness. How  
 **Translation:** 
 
-**[1149.92s] English:** stopping the person getting there is something different they're two different things  
+**[1149.92s] English:** Stopping the person from getting there is something different; they're two different things.  
 **Translation:** 
 
-**[1153.52s] English:** it's you it's you either you practice one or the other so but both are important i guess but the  
+**[1153.52s] English:** It's you; it's you. Either you practice one or the other, so but both are important, I guess, but the...  
 **Translation:** 
 
-**[1159.20s] English:** the stopping the person is easier to practice because that comes naturally in training yeah  
+**[1159.20s] English:** The stopping technique is easier to practice because that comes naturally in training, yeah.  
 **Translation:** 
 
-**[1164.00s] English:** what was  
+**[1164.00s] English:** What was?  
 **Translation:** 
 
-**[1164.64s] English:** uh the actual process like what was your biggest weakness throughout your  
+**[1164.64s] English:** Uh, the actual process—like, what was your biggest weakness throughout your?  
 **Translation:** 
 
-**[1168.48s] English:** like you just remember remembering what was annoying to you to figure out  
+**[1168.48s] English:** Like, you just remember remembering what was annoying to you to figure out.  
 **Translation:** 
 
-**[1172.72s] English:** uh i mean now side control is always is the bottom of seconds bottom it's regardless how  
+**[1172.72s] English:** Uh, I mean, now, side control is always the bottom position in seconds; it's regardless how.  
 **Translation:** 
 
-**[1177.92s] English:** much you you practice it's not ever easy you'll never be easy but it's so annoying it makes no  
+**[1177.92s] English:** Much of it isn't ever easy; you'll never make it easy, but it's so annoying that it makes no sense.  
 **Translation:** 
 
-**[1184.96s] English:** sense yeah someone pins you down he doesn't want to move much he's a big and strong guy  
+**[1184.96s] English:** Sense, yeah. Someone pins you down; he doesn't want to move much. He's a big and strong guy.  
 **Translation:** 
 
-**[1189.36s] English:** regardless of who he's not going to be easy to escape so some situations are just hard there must be a problem with that  
+**[1189.36s] English:** Regardless, he's not going to be easy to escape in some situations. There must be a problem with that.  
 **Translation:** 
 
-**[1194.64s] English:** be the sorry to interrupt i'm interrupting hajju grace he's discussing but  
+**[1194.64s] English:** I apologize to interrupt. I'm interrupting Hajju Grace, who is discussing something.  
 **Translation:** 
 
-**[1200.00s] English:** You just made me realize, if you're really good, if you're going against, like, the perfect jiu-jitsu competitor, probably side control might be one of the hardest positions to escape.  
-**Translation:** 
+**[1200.00s] English:** You just made me realize: If you're really good, and you're going against, like, a perfect Jiu-Jitsu competitor, side control might be one of the hardest positions to escape.  
+**Translation:** Vocabulary: interrupt: 打断; interrupting: 正在打断
 
 **[1212.92s] English:** Is it the hardest position to escape?  
 **Translation:** 
@@ -853,29 +854,29 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1214.48s] English:** It's one of them.  
 **Translation:** 
 
-**[1215.50s] English:** If the person doesn't want to progress, he's just concerned about all pinning.  
+**[1215.50s] English:** If the person doesn't want to progress, he's just concerned with all the pinning.  
 **Translation:** 
 
-**[1218.14s] English:** So if they're stolen, yeah.  
-**Translation:** 
+**[1218.14s] English:** So, if they're stolen, yeah.  
+**Translation:** Vocabulary: pinning: 固定不动
 
 **[1219.74s] English:** Like, the best pinners in the world.  
 **Translation:** 
 
-**[1221.46s] English:** I mean, partially because I've just seen judo people that know how to pin.  
-**Translation:** 
+**[1221.46s] English:** I mean, partially because I've just seen judo people who know how to pin.  
+**Translation:** Vocabulary: pinners: 贴图高手
 
 **[1225.16s] English:** Yeah.  
 **Translation:** 
 
-**[1225.72s] English:** They go escape their side control.  
+**[1225.72s] English:** They go for an escape from side control.  
 **Translation:** 
 
 **[1227.80s] English:** It's a nightmare.  
 **Translation:** 
 
 **[1228.94s] English:** It's a nightmare.  
-**Translation:** 
+**Translation:** Vocabulary: nightmare: 噩梦
 
 **[1230.00s] English:** It doesn't matter how much you practice.  
 **Translation:** 
@@ -892,22 +893,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1236.02s] English:** Yeah.  
 **Translation:** 
 
-**[1236.74s] English:** I think, I guess it is also frustrating because a lot of people in that position will be about maintaining control, not progressing.  
-**Translation:** 
+**[1236.74s] English:** I think it is also frustrating because a lot of people in that position will be more focused on maintaining control than on progressing.  
+**Translation:** Vocabulary: progressing: 发展
 
 **[1243.46s] English:** Yeah.  
 **Translation:** 
 
-**[1244.06s] English:** And usually people, when they're in back control, are usually trying to progress towards a submission, which opens up opportunities for escape.  
+**[1244.06s] English:** And usually, when people are in back control, they are usually trying to progress towards a submission, which opens up opportunities for escape.  
 **Translation:** 
 
 **[1252.72s] English:** Yeah.  
 **Translation:** 
 
-**[1253.26s] English:** So what's the actual process of just time and time again putting yourself in side control?  
+**[1253.26s] English:** So, what's the actual process of just time and time again putting yourself in "side control"?  
 **Translation:** 
 
-**[1259.62s] English:** And bottom side control?  
+**[1259.62s] English:** And bottom-side control?  
 **Translation:** 
 
 **[1260.90s] English:** Yeah.  
@@ -935,7 +936,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **Translation:** 
 
 **[1268.28s] English:** Any situation outside that, stop.  
-**Translation:** 
+**Translation:** Vocabulary: mounts: 困扰
 
 **[1270.08s] English:** Start again.  
 **Translation:** 
@@ -952,14 +953,14 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1275.42s] English:** Because it's the repetition that will teach you.  
 **Translation:** 
 
-**[1277.94s] English:** You know, if you train like three minutes on top, you have time to, you know, one thing.  
+**[1277.94s] English:** You know, if you train for three minutes at the top, you have time to do one thing, you know.  
 **Translation:** Vocabulary: repetition: 重复
 
-**[1282.52s] English:** And then time out.  
+**[1282.52s] English:** And then timeout.  
 **Translation:** 
 
-**[1283.80s] English:** It's the repetition there over and over again.  
-**Translation:** 
+**[1283.80s] English:** It's the repetition there, over and over again.  
+**Translation:** Vocabulary: timeout: 暂停
 
 **[1286.16s] English:** You know, when you try the same move over and over again, then you'll see what?  
 **Translation:** 
@@ -967,670 +968,670 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[1289.68s] English:** It can go wrong.  
 **Translation:** 
 
-**[1291.74s] English:** And is it understanding the details of the movement or actually doing the movement and feeling it?  
+**[1291.74s] English:** And is it understanding the details of the movement, or actually doing the movement and feeling it?  
 **Translation:** 
 
 **[1296.70s] English:** It's both.  
 **Translation:** 
 
-**[1297.98s] English:** First, you have to understand the movement and then practice.  
+**[1297.98s] English:** First, you have to understand the movement, and then practice.  
 **Translation:** 
 
-**[1302.16s] English:** But most important thing is defense.  
+**[1302.16s] English:** But, most important, is defense.  
 **Translation:** 
 
-**[1307.16s] English:** Escape coming second.  
+**[1307.16s] English:** Escape coming up next.  
 **Translation:** 
 
 **[1309.70s] English:** Because, you know, he's attacking you.  
 **Translation:** 
 
-**[1312.16s] English:** The one thing is if he's not trying to submit you, but the other one, if it is.  
+**[1312.16s] English:** The one thing is: if he's not trying to submit you, but the other one, if it is.  
 **Translation:** 
 
-**[1315.04s] English:** Let's say if a person is very good, has a very good attack.  
-**Translation:** 
+**[1315.04s] English:** Let's say if a person is very good and has a very good attack.  
+**Translation:** Vocabulary: submit: 投降
 
 **[1318.12s] English:** The first thing is.  
 **Translation:** 
 
-**[1320.00s] English:** defense not just escape and expose yourself to an even worse position because that is is is very  
+**[1320.00s] English:** Defense, not just to escape and expose yourself to an even worse position, because that is very  
 **Translation:** 
 
-**[1327.16s] English:** risky when you're trying to escape you'll always expose yourself to a worse position  
+**[1327.16s] English:** Risky when you're trying to escape; you'll always expose yourself to a worse position.  
 **Translation:** 
 
-**[1331.24s] English:** so avoiding that it's you know first is defense not getting caught and then when you're escaping  
+**[1331.24s] English:** So, avoiding that: it's you know, first is defense, not getting caught, and then when you're escaping.  
 **Translation:** 
 
-**[1337.84s] English:** don't be in a worse position so defense uh in jiu-jitsu when you're wearing a gi what does  
+**[1337.84s] English:** Don't be in a worse position; so, defense in Brazilian Jiu-Jitsu when you're wearing a gi, what does  
 **Translation:** 
 
-**[1344.02s] English:** defense entail is it mostly grips is it mostly the positioning of your hips and legs it's  
-**Translation:** Vocabulary: entail: 包含
+**[1344.02s] English:** Defense entails: Is it mostly about grips? Is it mostly the positioning of your hips and legs?  
+**Translation:** Vocabulary: entails: 包括
 
-**[1349.98s] English:** it's everything together because it's a whole body movement it's you know it's a constantly  
+**[1349.98s] English:** It's everything together because it's a whole-body movement. It's, you know, a constantly...  
 **Translation:** 
 
-**[1353.88s] English:** moving your your arms legs body it's it they you know they they have to everything works together  
+**[1353.88s] English:** Moving your arms, legs, and body; it's all interconnected and has to work together.  
+**Translation:** Vocabulary: interconnected: 相互连接
+
+**[1361.20s] English:** Going back to the mind of that guy, uh, so confident, no fear at this point.  
 **Translation:** 
 
-**[1361.20s] English:** going back to the mind of that guy uh so confident no fear at this point  
+**[1369.92s] English:** Is there a bit of ego in there, too? Yes, like I say; no, I'm not gonna say I'm fearful—I'm fearless.  
+**Translation:** Vocabulary: fearful: 害怕; fearless: 无所畏惧
+
+**[1377.60s] English:** Of course, this concerns  
 **Translation:** 
 
-**[1369.92s] English:** is there a bit of ego in there too yes like like i say no i'm not gonna say i'm fearful i'm fearless  
-**Translation:** Vocabulary: fearless: 无所畏惧
-
-**[1377.60s] English:** of course this concerns  
+**[1379.98s] English:** That fight, I would have to say, was probably the one where I got the most nervous walking into it.  
 **Translation:** 
 
-**[1379.98s] English:** that fight i would have to say was probably the fight that i got nervous the most walking  
+**[1387.00s] English:** In because I knew what that meant—that fight means everything to me, all my legacy.  
 **Translation:** 
 
-**[1387.00s] English:** in because i knew what that meant that fight they mean everything for me all my legacy  
+**[1394.36s] English:** It was on the line because if I lost that fight, I'd forever be number two — yeah, forever.  
 **Translation:** 
 
-**[1394.36s] English:** was on the line because if i lost that fight i'll forever be number two yeah forever and  
+**[1403.50s] English:** I mean, Bushish is a great guy and a great competitor. Jiu-jitsu is very good, but you  
 **Translation:** 
 
-**[1403.50s] English:** i mean bushish is a great great guy great competitor jiu-jitsu is very good but you  
+**[1409.98s] English:** I know I'm better than him. I knew that he was competing non-stop at that point, and he's still doing it.  
+**Translation:** Vocabulary: bushish: 布什
+
+**[1415.26s] English:** A great competitor, you know. Taking nothing out of him, he's super tough — very, very tough.  
 **Translation:** 
 
-**[1409.98s] English:** know i'm better than him i knew that he's competing non-stop at that point he's a he's  
+**[1420.62s] English:** Very good; it's probably the best competitor in Jiu-Jitsu, and he won 13 times the world.  
 **Translation:** 
 
-**[1415.26s] English:** a great competitor you know taking nothing out of him he's super tough very very tough  
+**[1426.46s] English:** Championship: I won 10. So, as a competitor, you know, he has more titles than I do, so...  
 **Translation:** 
 
-**[1420.62s] English:** very good it's probably the best competitor in jiu-jitsu and he won 13 times the world  
+**[1434.40s] English:** In terms of analyzing the game, I consider that technically better than him.  
+**Translation:** Vocabulary: technically: 技术上
+
+**[1439.98s] English:** And I'm really proud of him, and I know it. And I'm an athlete, so I'm definitely proud.  
 **Translation:** 
 
-**[1426.46s] English:** championship i won 10. so as a competitor you know he has more titles than i do so but  
+**[1440.00s] English:** So, knowing all that, everything I've built and all my legacy—it's as if I were riding in this match.  
 **Translation:** 
 
-**[1434.40s] English:** in terms of you know analyzing the game i consider that technically better than him  
+**[1444.40s] English:** Of Jiu-Jitsu, I don't know why I don't take him into consideration, but I think he's really  
 **Translation:** 
 
-**[1439.98s] English:** and i'm really proud of him and i know it and i'm an athlete so i'm definitely proud  
+**[1448.80s] English:** If I lose this fight, I'm forever number two, and none of that is going through your mind.  
 **Translation:** 
 
-**[1444.40s] English:** of jiu-jitsu i don't know why i don't take him into consideration but i think he's really  
+**[1449.36s] English:** Re: ballerina, you know, I think he's a very good competitor. He's good; he's easy to deal with.  
 **Translation:** 
 
-**[1449.36s] English:** ре ballerina you know i think he's a very good competitor he's good he's easy to deal  
+**[1454.18s] English:** With that in mind, he's still really good to play, and I think he's going to win today, and I'm really hoping so.  
 **Translation:** 
 
-**[1454.18s] English:** with so he's still really good to play and i think he's going to win today and i'm really  
+**[1455.52s] English:** I know; I knew. I mean, it's not at that moment that I already knew that. I remember just before you.  
 **Translation:** 
 
-**[1460.02s] English:** proud of him and i'm very proud of him i think jiu-jitsu has become more of a big thing in  
+**[1460.02s] English:** Proud of him, and I'm very proud of him. I think jiu-jitsu has become more of a big thing in  
 **Translation:** 
 
-**[1465.50s] English:** my life for me so i'm really proud of him and i think we go far ahead of him on the  
+**[1462.18s] English:** Know, the curtains are open. I'm standing, and before they call my name, my legs were like.  
 **Translation:** 
 
-**[1440.00s] English:** so knowing all that everything that i build all my legacy it's if i was riding in this match  
+**[1465.50s] English:** My life for me, so I'm really proud of him, and I think we've gone far beyond him on the  
+**Translation:** Vocabulary: curtains: 窗帘外
+
+**[1468.22s] English:** I feel the adrenaline kicking in on my legs, and I'm like, "You know, I'm hitting the legs. Wake up!  
 **Translation:** 
 
-**[1448.80s] English:** if i lose this fight i'm forever number two and none of that is going going through your mind  
+**[1476.08s] English:** You know, get off, get the adrenaline off me. You know, it's so intense; it was, it was intense.  
+**Translation:** Vocabulary: adrenaline: 肾上腺素
+
+**[1482.32s] English:** Intense, and this was in Rio — that was in Rio, so my hometown. So, this is, I mean, and you know, Rio.  
 **Translation:** 
 
-**[1455.52s] English:** i know i knew i mean it's not at that moment that i i already knew that i remember just before you  
+**[1491.14s] English:** Is not exactly known for its calmness among its fans, so this is like  
 **Translation:** 
 
-**[1462.18s] English:** know the curtains open i'm standing and before they call my name and i mean my legs were like  
+**[1497.04s] English:** Wow!  
 **Translation:** 
 
-**[1468.22s] English:** i feel the adrenaline kicking on my legs and i'm like you know i'm hitting the legs i'm like wake up  
+**[1497.92s] English:** Wherever  
 **Translation:** 
 
-**[1476.08s] English:** you know get off get the adrenaline off me you know it's so it's it was it was intense it was  
+**[1498.20s] English:** You are.  
 **Translation:** 
 
-**[1482.32s] English:** intense and this was in rio that was in rio so my hometown so this is i mean and you know rio  
+**[1498.22s] English:** They hosted the Olympics the year before, yeah. So, this is like... I mean, this is basically...  
 **Translation:** 
 
-**[1491.14s] English:** is not exactly known for its calmness in its fans so this is like  
+**[1507.36s] English:** The martial arts community is watching this, yeah. I mean, was Henzo there? Yeah.  
 **Translation:** 
 
-**[1497.04s] English:** wow  
+**[1516.12s] English:** So, people are just... I mean, there's a tension. It's also, I mean, I don't know if you felt that, too.  
 **Translation:** 
 
-**[1497.92s] English:** wherever  
+**[1523.66s] English:** But you're also fighting for the Gracie name, yeah? In our hometown, the Greatest, where.  
 **Translation:** 
 
-**[1498.20s] English:** you are  
-**Translation:** 
-
-**[1498.22s] English:** they hosted the olympics the year before yeah so this is like i mean this like the whole basically  
-**Translation:** 
-
-**[1507.36s] English:** martial arts community is watching this yeah i mean is there some uh was henzo there yeah  
-**Translation:** 
-
-**[1516.12s] English:** so people are just i mean there's a tension it's also i mean i don't know if you felt that in part  
-**Translation:** 
-
-**[1523.66s] English:** but you're also fighting for the gracie name yeah in the in our hometown the greatest where  
-**Translation:** 
-
-**[1530.86s] English:** the gracie really gracie competitor of all time arguably in the hometown yeah i mean okay all my  
+**[1530.86s] English:** The Gracie's really had a great competitor of all time, arguably in their hometown, yeah. I mean, okay, all my.  
 **Translation:** Vocabulary: arguably: 或许; gracie: 格雷西
 
-**[1539.52s] English:** family my best friends my friends everybody watching everybody there there was a lot of  
+**[1539.52s] English:** Family, my best friends, my friends, everybody watching, everyone: there were a lot of.  
 **Translation:** 
 
-**[1544.82s] English:** pressure a lot and then were you thinking that you would be able to submit him no it's at that  
+**[1544.82s] English:** Pressure a lot, and then were you thinking that you would be able to submit him? No, it's at that.  
+**Translation:** Vocabulary: submit: 提交
+
+**[1553.60s] English:** Point.  
 **Translation:** 
 
-**[1553.60s] English:** point  
+**[1553.64s] English:** Like, I don't predict how the fight will go; that I never did because it is unpredictable. It's...  
+**Translation:** Vocabulary: unpredictable: 不可预测的
+
+**[1560.00s] English:** Never tried to set any strategy for any fight; I think, oh, okay, that I did, but that was the only one.  
 **Translation:** 
 
-**[1553.64s] English:** like i don't predict how the fight will go that i never did because it is unpredictable it's i  
+**[1568.10s] English:** Time that I set any strategy into a fight, there was a 15-minute fight, and for I said, "First,  
 **Translation:** 
 
-**[1560.00s] English:** never tried to set any strategy for any fight i think oh okay that i did but that was the only  
+**[1576.30s] English:** Five minutes, I'm gonna play defense. He's bigger, stronger, younger. I don't want to play his game.  
 **Translation:** 
 
-**[1568.10s] English:** time that i set any strategy into a fight there was a 15 minutes fight there and for i said first  
+**[1581.56s] English:** And I know he comes in very fast in every single fight; he's always very aggressive.  
 **Translation:** 
 
-**[1576.30s] English:** five minutes i'm gonna play defense he's bigger stronger younger i don't want to play his game  
+**[1586.42s] English:** So, my strategy is to walk into the fight, saying I'll play defense for five minutes—I'm not going to  
 **Translation:** 
 
-**[1581.56s] English:** and i know he comes in very fast every single fight he had you know he comes very aggressive  
+**[1592.78s] English:** Try to attack, I'm not gonna try to match his pace; I already expected, you know, maybe I'm gonna start.  
 **Translation:** 
 
-**[1586.42s] English:** so my strategy walk into the fight i say five minutes i'm gonna play defense i'm not gonna  
+**[1598.28s] English:** Losing the fight because you know, if he comes in, there's a risk of me maybe getting taken down.  
 **Translation:** 
 
-**[1592.78s] English:** try to attack i'm not gonna try to match his pace i already expected you know maybe i'm gonna start  
+**[1602.72s] English:** You know, something happened, I'm like, I'm gonna stick to the game plan for five minutes, I'm gonna  
 **Translation:** 
 
-**[1598.28s] English:** losing the fight because you know if he comes in there's a risk of me maybe getting takedown  
+**[1610.14s] English:** Start picking up the pace because there's 10 minutes to go, which feels like a long fight so far.  
 **Translation:** 
 
-**[1602.72s] English:** you know something happened i'm like i'm gonna stick to the game plan five minutes i'm gonna  
-**Translation:** Vocabulary: takedown: 摔倒
-
-**[1610.14s] English:** start picking up the pace because there's 10 minutes to go which 10 minutes a long fight so  
+**[1613.92s] English:** I don't need to start fast, but I'm gonna start being more  
 **Translation:** 
 
-**[1613.92s] English:** i don't need to start fast but i'm gonna start being more  
+**[1616.42s] English:** Aggressive, and then you know, try to take him down or pull guard. You know, but by then, I'm like  
 **Translation:** 
 
-**[1616.42s] English:** aggressive and then you know try to take him down or pull guard you know but by then i'm like  
+**[1621.98s] English:** That's as far as the strategy goes. There's no specific instruction to stay on your feet. Were you comfortable being?  
 **Translation:** 
 
-**[1621.98s] English:** that's as far as strategy goes there's no specific uh stay on the feet were you comfortable being  
+**[1628.28s] English:** Both bottom and top: in this, yeah, strategically, I'm always comfortable being either bottom or top.  
 **Translation:** 
 
-**[1628.28s] English:** both bottom and top in this yeah strategically i'm always comfortable being bottom top i prefer  
-**Translation:** 
-
-**[1633.12s] English:** to be on top because being in the bottom the person on top dictates the pace of the fight  
+**[1633.12s] English:** To be on top, because being at the bottom, the person on top dictates the pace of the fight.  
 **Translation:** Vocabulary: dictates: 决定节奏; strategically: 战略性地
 
-**[1640.24s] English:** because he's on top over you so i always prefer to be on top because i can dictate the pace  
+**[1640.24s] English:** Because he's on top of me, so I always prefer to be on top because I can dictate the pace.  
 **Translation:** 
 
-**[1645.06s] English:** i can implement my  
-**Translation:** Vocabulary: dictate: 决定速度
+**[1645.06s] English:** I can implement my  
+**Translation:** Vocabulary: dictate: 决定; implement: 执行
 
-**[1646.40s] English:** own pace and being the bottom they can slow me down so it's harder so if i can choose i will  
+**[1646.40s] English:** Own pace and being the bottom, they can slow me down, so it's harder. So, if I can choose, I will.  
 **Translation:** 
 
-**[1654.38s] English:** always be on top but i think by then i was like it's you know five minutes hit it i'm like he's  
+**[1654.38s] English:** Always be on top, but I think by then I was like, "It's you know, five minutes hit it," I'm like.  
 **Translation:** 
 
-**[1661.86s] English:** pretty big and strong i'm gonna spend a lot of energy taking him down i forgot how did it how  
+**[1661.86s] English:** Pretty big and strong; I'm gonna spend a lot of energy taking him down. I forgot how did it, how.  
 **Translation:** 
 
-**[1667.80s] English:** did it feel so here you're stepping in by the way puzzle math this is old school as old school as it  
+**[1667.80s] English:** Did it feel so here? You're stepping in, by the way. Puzzle math — this is old school, as old school as it gets.  
 **Translation:** 
 
-**[1676.40s] English:** is so calm and relaxed here for people just listening we're watching the early  
+**[1676.40s] English:** Is it so calm and relaxed here? For people just listening, we're watching the early  
 **Translation:** 
 
-**[1680.00s] English:** minutes of the match yeah so just feeling it out he seems pretty calm too he must be nervous too  
+**[1680.00s] English:** Minutes of the match, yeah. So, just feeling it out; he seems pretty calm too. He must be nervous too.  
 **Translation:** 
 
-**[1684.94s] English:** i wonder how do you ever talk to him you guys are friends yeah yeah we're friends  
+**[1684.94s] English:** I wonder how you ever talk to him. You guys are friends, right? Yeah, we're friends.  
 **Translation:** 
 
-**[1688.22s] English:** did he ever say how nervous he was no we never spoke about that fight no no  
+**[1688.22s] English:** Did he ever say how nervous he was? No, we never spoke about that fight. No, no.  
 **Translation:** 
 
-**[1693.92s] English:** he probably lays uh late at night thinking about it maybe i don't know that sob yeah i mean so you  
+**[1693.92s] English:** He probably lays it up late at night thinking about it, maybe I don't know. That sort of thing, yeah. I mean, so you?  
 **Translation:** 
 
-**[1705.44s] English:** see the first five minutes no he kept i knew what he was going to do in my study his game  
+**[1705.44s] English:** See, in the first five minutes, no, he kept trying to guess what I was doing in my study; his game got obvious.  
 **Translation:** 
 
-**[1711.84s] English:** his stand-up is most basic is basic in takedowns uh leg attacks double leg so he goes single or  
+**[1711.84s] English:** His stand-up is most basic, in takedowns, uh, leg attacks, double-leg takedowns. So he goes for single or  
 **Translation:** 
 
-**[1720.96s] English:** double and he charges in that is pretty much his stand-up game so you try you get you get a grip  
-**Translation:** Vocabulary: takedowns: 摔倒技术
+**[1720.96s] English:** Double, and he charges in — that is pretty much his stand-up game. So, you try to get a grip.  
+**Translation:** Vocabulary: takedowns: 摔倒
 
-**[1728.64s] English:** yeah that we got penalized so do you like to uh use the do you like to post  
+**[1728.64s] English:** Yeah, that we got penalized. So, do you like to... uh, use the?  
 **Translation:** 
 
-**[1735.44s] English:** right uh you have a right foot forward usually you're righty right i'm ready but i know he wants  
-**Translation:** Vocabulary: penalized: 受罚; righty: 右利手
+**[1735.44s] English:** Right, uh, you have your right foot forward usually. You're probably right-handed, right? I'm ready, but I know he wants  
+**Translation:** Vocabulary: penalized: 受到处罚
 
-**[1740.72s] English:** my leg so i'm i'm playing my stance just because of his game oh you know all my grips at that  
+**[1740.72s] English:** My leg, so I'm playing my stance just because of his game. Oh, you know, all my grips are at that.  
 **Translation:** 
 
-**[1748.00s] English:** the first five minutes was to kind of try to neutralize his attacks so he wants to get your  
-**Translation:** Vocabulary: neutralize: 中和; stance: 姿势
+**[1748.00s] English:** The first five minutes was to kind of try to neutralize his attacks, so he wants to get you.  
+**Translation:** Vocabulary: neutralize: 中和; stance: 站位
 
-**[1753.04s] English:** left leg yeah uh yeah right there yeah so how hard is that to stop that i mean he felt pretty strong  
+**[1753.04s] English:** Left leg, yeah, uh, yeah, right there. Yeah, so how hard is it to stop that? I mean, he felt pretty strong.  
 **Translation:** 
 
-**[1763.36s] English:** so i'm you know pushing the head down trying to play it um let's go i'm gonna go back to kicking the leg  
+**[1763.36s] English:** So, I'm pushing the head down, trying to play it. Um, let's go; I'm gonna go back to kicking the leg.  
 **Translation:** 
 
-**[1765.44s] English:** with his balance yeah well if if you if you see it there was a pause go back there he charged in  
+**[1765.44s] English:** With his balance, yeah. Well, if you see it, there was a pause; go back there, he charged in.  
 **Translation:** 
 
-**[1775.68s] English:** there's a pause me standing in front of him yeah i did that on purpose what do you mean  
+**[1775.68s] English:** There's a pause. Me standing in front of him. "Yeah, I did that on purpose. What do you mean?  
 **Translation:** 
 
-**[1782.96s] English:** just uh in front of him because you know he tried yeah and i'm like you fail i'm here  
+**[1782.96s] English:** Just in front of him, because you know, he tried, yeah, and I'm like, "You fail; I'm here.  
 **Translation:** 
 
-**[1788.72s] English:** there's a okay so you could feel the frustration i could feel his frustration  
+**[1788.72s] English:** There's okay, so you could feel the frustration; I could feel his frustration.  
 **Translation:** 
 
-**[1796.80s] English:** his frustration not be able to take me down  
+**[1796.80s] English:** His frustration at not being able to take me down.  
 **Translation:** 
 
-**[1800.00s] English:** okay so now and this is just psychological battles and you see me walking straight into  
+**[1800.00s] English:** Okay, so now, and this is just psychological battles, and you see me walking straight into.  
 **Translation:** 
 
-**[1805.52s] English:** the middle of the mat and he's circling out yeah see i'm going very slow recovering and he's  
+**[1805.52s] English:** The middle of the mat, and he's circling out. Yeah, see, I'm going very slow recovering, and he's  
 **Translation:** 
 
-**[1812.10s] English:** computing like shit yeah okay because he just made a you know effort trying to take me down  
+**[1812.10s] English:** Computing like shit, yeah, okay. Because he just made an effort trying to take me down.  
 **Translation:** Vocabulary: computing: 计算
 
-**[1816.82s] English:** he needs to recover and i mean you you need to recover the other guys they are waiting for you  
+**[1816.82s] English:** He needs to recover, and I mean, you need to recover the others; they are waiting for you.  
 **Translation:** 
 
-**[1822.42s] English:** and do i do i go for another takedown because this one failed yeah do i need to recalculate  
+**[1822.42s] English:** And do I go for another takedown because this one failed? Yeah, do I need to recalculate?  
 **Translation:** Vocabulary: recalculate: 重新计算; takedown: 突袭
 
-**[1829.42s] English:** the strategy yeah and he kept trying over and over again and keep failing i think that  
+**[1829.42s] English:** The strategy, yeah, and he kept trying over and over again and kept failing; I think that.  
 **Translation:** 
 
-**[1835.48s] English:** frustrate him a lot on that fight i felt i felt him kind of slowing down suddenly because he was  
+**[1835.48s] English:** Frustrate him a lot on that fight; I felt I felt him kind of slowing down suddenly because he was.  
 **Translation:** Vocabulary: frustrate: 挫败
 
-**[1843.08s] English:** getting nowhere so we're five minutes in yeah he keeps so he never got that takedown in the in the  
+**[1843.08s] English:** Getting nowhere, so we're five minutes in. Yeah, he keeps trying, but he never got that takedown in there.  
 **Translation:** 
 
-**[1852.42s] English:** early no  
+**[1852.42s] English:** Early, no.  
 **Translation:** 
 
-**[1853.34s] English:** let's see  
+**[1853.34s] English:** Let's see.  
 **Translation:** 
 
-**[1859.06s] English:** so at this point do you pull guard yeah okay so that's when i felt like he's he's  
+**[1859.06s] English:** So, at this point, do you pull guard? Yeah, okay. So that's when I felt like he's.  
 **Translation:** 
 
-**[1867.00s] English:** mentally he's he's not he's worried now did you try to pull close guard here no i knew he's gonna  
+**[1867.00s] English:** Mentally, he's not; he's worried now. Did you try to pull close guard here? No, I knew he's gonna.  
 **Translation:** 
 
-**[1874.10s] English:** bring danny in okay because that's the defense against pulling close guard yeah but i like that  
+**[1874.10s] English:** Bring Danny in, okay? Because that's the defense against pulling close guard, yeah, but I like that.  
 **Translation:** Vocabulary: danny: 丹尼
 
-**[1880.56s] English:** what do you i like people bringing danny between my legs because see i'm gonna close my guard even  
+**[1880.56s] English:** What do you, I like people bringing Danny between my legs because, see, I'm gonna close my guard even.  
 **Translation:** 
 
-**[1889.06s] English:** in okay he's he's he's stopping the cl well this is this is awkward but because i was holding his  
+**[1889.06s] English:** In okay, he's stopping the clf. Well, this is awkward, but because I was holding his  
 **Translation:** 
 
-**[1896.82s] English:** arm that's why he felt he had no hand to post got it but still it puts a leg in but you're able to  
+**[1896.82s] English:** That's why he felt he had no hand to post. Got it, but still it puts a leg in, but you're able to.  
 **Translation:** 
 
-**[1903.78s] English:** close your guard around you're okay with that i do that really well i sweep people from that  
+**[1903.78s] English:** Close your guard around you; I'm okay with that. I do that really well, and I sweep people from that.  
 **Translation:** 
 
-**[1908.34s] English:** position a lot what's the sweep i guess it's just pushed okay it's just like to your left side yeah  
+**[1908.34s] English:** Position a lot; what's the sweep? I guess it's just pushed okay. It's just like to your left side, yeah.  
 **Translation:** 
 
-**[1915.22s] English:** okay because he has no oh it's almost like uh you mean you're basically around his  
+**[1915.22s] English:** Okay, because he has no, oh, it's almost like—uh, you mean you're basically around his?  
 **Translation:** 
 
-**[1920.00s] English:** back a little bit and drags he knew that like i swept a lot of people with that sweep so you see  
+**[1920.00s] English:** Back a little bit and drags; he knew that, like, I swept a lot of people with that sweep, so you see.  
 **Translation:** 
 
-**[1925.32s] English:** he kept leaning to his left to my right yeah so i want to push them to my left so you see him  
+**[1925.32s] English:** He kept leaning to his left, while I was on his right. So, I want to push him to my left, so you see him.  
 **Translation:** 
 
-**[1932.46s] English:** leaning over to my right a lot what's the right answer for him to like roll or something no i  
+**[1932.46s] English:** Leaning over to my right a lot, what's the right answer for him to like roll or something? No, I...  
 **Translation:** 
 
-**[1936.96s] English:** mean he's stuck he does not really he's stuck there but the one thing he did he kept off me  
+**[1936.96s] English:** Mean, he's stuck; he does not really want to be there, but the one thing he did was keep his distance from me.  
+**Translation:** Vocabulary: leaning: 倾斜
+
+**[1943.64s] English:** Completely, he seems to be leaning back as if he's too afraid of my attack now, because he...  
 **Translation:** 
 
-**[1943.64s] English:** completely see that he's leaning to like he's too afraid of my attack now because he that you know  
+**[1950.16s] English:** He should lean on me, yeah. You know, you should bring the fight to me, so when I feel him, you know.  
 **Translation:** 
 
-**[1950.16s] English:** he should lean on me yeah you know you should bring the fight to me so when i fell him you know  
+**[1956.28s] English:** Like, I knew he was, like, he's too worried about my attacks now. Oh, yeah, that's right, so he can't.  
 **Translation:** 
 
-**[1956.28s] English:** like i knew he was like he's too worried about my attacks now oh yeah that's right so he can't  
+**[1962.60s] English:** Yeah, he goes back to the center. He has no interest at that time; he's not engaging. He's a hundred percent focused on something else.  
 **Translation:** 
 
-**[1962.60s] English:** yeah he goes back to the center he has no so he's not engaging at that time he's a hundred  
+**[1967.32s] English:** Percent just defending, so I felt that he doesn't want to engage.  
 **Translation:** 
 
-**[1967.32s] English:** percent just defending so i felt that i'm like he doesn't want to engage  
+**[1971.58s] English:** Yeah.  
 **Translation:** 
 
-**[1971.58s] English:** yeah  
+**[1973.64s] English:** And he's looking; I knew at that point he wants my foot, because in our first fight, I had this like  
 **Translation:** 
 
-**[1973.64s] English:** and he's looking i knew at that point he wants my foot because our first fight i had this like  
+**[1980.34s] English:** The same position; I wasn't holding his arm, and he went to attack my foot, which he did, you know.  
 **Translation:** 
 
-**[1980.34s] English:** the same position i wasn't holding his arm and he went to attack my foot which he did you know  
+**[1985.18s] English:** He got like a toe-hold, or what? Okay, yeah, so I knew he was looking at my foot—which foot, sorry.  
 **Translation:** 
 
-**[1985.18s] English:** he got like a toe hold or what okay yeah so i knew he's looking at my foot which foot sorry  
+**[1991.54s] English:** The left my right, yeah, my right foot. Okay, and so I'm holding his arm. I'm holding his arm.  
 **Translation:** 
 
-**[1991.54s] English:** the left my right yeah my right foot okay and so i'm holding his arm i'm holding his arm  
+**[1998.10s] English:** And now, you're going to the back as an arm drag-type thing. So, the moment I came off,...  
 **Translation:** 
 
-**[1998.10s] English:** and now you're going to the back as an arm drag type of thing so the moment that i came off  
+**[2003.22s] English:** My  
 **Translation:** 
 
-**[2003.22s] English:** my  
+**[2003.64s] English:** Here, I'm holding his arm so he cannot come up. So you know, I'm holding his left arm so he cannot.  
 **Translation:** 
 
-**[2003.64s] English:** arm here i'm holding his arm so he cannot come up so you know i'm holding his left arm so he cannot  
-**Translation:** 
-
-**[2010.02s] English:** post a hand on the floor and come up and he's holding your right to try to get you yeah  
+**[2010.02s] English:** Post a hand on the floor and come up, and he's holding your right to try to get you, yeah.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[2015.42s] English:** basically to prevent you from attacking yeah  
+**[2015.42s] English:** Basically, to prevent you from attacking, yeah.  
 **Translation:** 
 
-**[2019.78s] English:** oh that's interesting and he rolls yeah he tried to he tried to get me off balance so see now i'm  
+**[2019.78s] English:** Oh, that's interesting. And he rolls his eyes, yeah. He tried to get me off balance, so see now I'm  
 **Translation:** 
 
-**[2026.02s] English:** switching i switched the grip on his arm so i can free my left arm can i ask you a question like uh  
+**[2026.02s] English:** Switching, I switched the grip on his arm so I could free my left arm. Can I ask you a question, like, uh,...  
 **Translation:** 
 
-**[2033.64s] English:** was there a chance he sweeps you here i mean there's always a chance but like that yeah but  
+**[2033.64s] English:** Was there a chance he'd sweep you here? I mean, there's always a chance, but like, that's yeah, but.  
 **Translation:** 
 
-**[2039.28s] English:** see my  
+**[2039.28s] English:** See, my  
 **Translation:** 
 
-**[2040.00s] English:** left arm is free oh so you can post yeah why was your left arm free oh because you're using it you  
+**[2040.00s] English:** Left arm is free, oh, so you can post? Yeah, why was your left arm free? Oh, because you're using it.  
 **Translation:** 
 
-**[2045.72s] English:** got it got it okay so i tried the hook now you will see still got your arm yeah but when i knew  
+**[2045.72s] English:** Got it, got it. Okay, so I tried the hook. Now you'll see—still got your arm, yeah, but when I knew.  
 **Translation:** 
 
-**[2055.72s] English:** he's he's panicking because he did a move that he completely opened himself up like i'm holding his  
+**[2055.72s] English:** He's panicking because he did a move that completely opened himself up; I'm holding his  
 **Translation:** Vocabulary: panicking: 惊慌
 
-**[2064.26s] English:** left arm so by holding their arm he's that prevents him from defending the hook on that side  
+**[2064.26s] English:** Left arm held, so by holding his arm, he prevents him from defending the hook on that side.  
 **Translation:** 
 
-**[2071.02s] English:** because his arm is being held across so the arm cannot block the hook and i mean the hook with  
+**[2071.02s] English:** Because his arm is being held across, so the arm cannot block the hook, and I mean the hook with...  
 **Translation:** 
 
-**[2078.98s] English:** your left leg yeah so you'll see when he come up but i would say i mean that's my guess but bushish  
+**[2078.98s] English:** Your left leg, yeah. So you'll see when he comes up, but I would say — I mean, that's my guess, but Bushish.  
 **Translation:** 
 
-**[2084.58s] English:** is he's he's a big guy you know he's like 110 kilos 112 something like that which is 245 yeah  
+**[2084.58s] English:** Is he's he's a big guy, you know? He's like 110 kilos, 112, something like that, which is 245 pounds, yeah.  
+**Translation:** Vocabulary: bushish: 估计
+
+**[2092.66s] English:** All right, yeah, so  
 **Translation:** 
 
-**[2092.66s] English:** all right yeah so  
+**[2094.06s] English:** What were you, uh, less than 220? Yeah, 220—nice and slim, around 100 kilograms. Okay, yeah, so  
 **Translation:** 
 
-**[2094.06s] English:** what were you at the time uh less 220 yeah 220 a nice slim 100 kilo okay yeah so  
+**[2104.60s] English:** You know, his defense isn't amazing; he's good, but you know, he's not known to have amazing ones.  
 **Translation:** 
 
-**[2104.60s] English:** you know he's his defense are not amazing he's good but you know he's not known to have amazing  
+**[2112.26s] English:** Defense, so he could be the big guy in the room when you train; you used to get out of situations.  
 **Translation:** 
 
-**[2112.26s] English:** defense so he by being the big guy in the room when you train you used to get out of situations  
+**[2118.00s] English:** Because of your size, you shake people off. You know, it's because of your size that you shake.  
 **Translation:** 
 
-**[2118.00s] English:** because of your size you shake people off you know it's it's because of your size you shake  
+**[2123.44s] English:** They're getting less and less and less and less and less and less and less and less.  
 **Translation:** 
 
-**[2123.44s] English:** them off you're getting less and less and less and less and less and less and less and less and  
+**[2124.04s] English:** Get off those bad positions, you can. I mean, I could feel it on the first fight; I was in side control, you know.  
 **Translation:** 
 
-**[2124.04s] English:** get off some bad positions you can i mean i could feel on the first fight i'm side control you know  
+**[2130.22s] English:** He explodes out so you know, I've seen him do that in a few of his fights, not necessarily in all of them.  
+**Translation:** Vocabulary: explodes: 爆发
+
+**[2137.32s] English:** Most technical, I'm getting out, and he did because of his size, so and he did the same.  
 **Translation:** 
 
-**[2130.22s] English:** he explode out so you know you i've seen him doing that a few of his fights not not in the  
+**[2144.10s] English:** Thing is, like, he tried to stand up when I'm on his back; he completely opened up the hooks, he will.  
 **Translation:** 
 
-**[2137.32s] English:** most technical way just i'm getting out and he did because of his size so and he did the same  
+**[2150.44s] English:** See, the next move is going to be when his head comes up, and he's gonna try to get off the floor. So, basically,  
 **Translation:** 
 
-**[2144.10s] English:** thing like he tried to stood up when i'm on his back he completely opened up the hooks he will  
+**[2155.30s] English:** Come up, shake you off, and there was no difference. For the hooks, I put both of them in.  
 **Translation:** 
 
-**[2150.44s] English:** see the next move his head gonna come up and he's gonna try to get off the floor so basically  
+**[2160.00s] English:** Straight away, oh, his arm is — yeah, I'm off-balance. Yeah, see, that I didn't bring him up; he came up.  
 **Translation:** 
 
-**[2155.30s] English:** come up shake you off and there was no difference for the hooks i put both hooks in  
+**[2167.28s] English:** Yeah, and now I'm attacking his neck, and he's worried about the hooks.  
 **Translation:** 
 
-**[2160.00s] English:** straight away oh his arm is yeah i'm off balance yeah see that i didn't bring him up he came up  
+**[2173.78s] English:** That's a fatal mistake. That's like defense—always come first. Remember what I just said now.  
 **Translation:** 
 
-**[2167.28s] English:** yeah and now i'm attacking his neck and he's worried about the hooks  
+**[2180.86s] English:** Defense first, cape second; so he's not worried more about the points than his neck.  
 **Translation:** 
 
-**[2173.78s] English:** that's fatal mistake that's like defense always come first remember what i just said now  
+**[2186.86s] English:** So, it was like a progression of mistakes that's why I think he got frustrated.  
 **Translation:** 
 
-**[2180.86s] English:** defense first cape second so he's not worried more about the points than his neck  
+**[2194.62s] English:** When he couldn't take me down, and then when I pulled guard, he was frustrated that.  
+**Translation:** Vocabulary: progression: 顺序
+
+**[2199.84s] English:** The fight wasn't going his way, you know. He's very good at taking down, but he tried over and  
 **Translation:** 
 
-**[2186.86s] English:** so it was like a a progression of mistakes that's why i think he did he got frustrated  
+**[2204.10s] English:** Over again for five minutes, and here he was, frustrated about the hooks. So he's like, "It's...  
 **Translation:** 
 
-**[2194.62s] English:** when he couldn't take me down and then when i pull guard he was he was he was frustrated that  
-**Translation:** Vocabulary: progression: 发展过程
-
-**[2199.84s] English:** the fight wasn't going his way you know he's very good about taking down he tried over and  
+**[2208.48s] English:** Almost like the frustration, things like "no, no, these hooks shouldn't be here" — like I pull guard.  
 **Translation:** 
 
-**[2204.10s] English:** over again for five minutes and here he was frustrated about the hooks so he's like it's  
+**[2212.76s] English:** On the grips that I want, he's not comfortable inside my guard; he's not in a position that he  
 **Translation:** 
 
-**[2208.48s] English:** almost like the frustration things like no no these hooks shouldn't be here like i pull guard  
+**[2216.84s] English:** Wants to be; he's over-leaning to his left, you know, to to to not; he's not engaging or trying to.  
 **Translation:** 
 
-**[2212.76s] English:** on the grips that i want he's not comfortable inside my guard he's not in a position that he  
+**[2223.32s] English:** He's trying to get the foot, but his arm is trapped. He's gonna get nowhere, and then when I  
 **Translation:** 
 
-**[2216.84s] English:** wants to be he's over leaning to his left you know to to to not he's not engaging or trying to  
+**[2229.06s] English:** Swept him, sounded his words starting to collapse. You know, he couldn't take me down. I pulled guard; I'm  
 **Translation:** 
 
-**[2223.32s] English:** pass he's trying to get the foot but his arm is trapped he's gonna get nowhere and then when i  
+**[2234.60s] English:** Swept in, he tried to roll me over. No, it didn't get me anywhere. The first movement that he tried,...  
+**Translation:** Vocabulary: collapse: 崩溃
+
+**[2241.92s] English:** To escape, I'm on his back. I mean, now he's lost, yeah.  
 **Translation:** 
 
-**[2229.06s] English:** swept him sounded his words start collapsing you know he couldn't take me down i pull guard i'm  
+**[2246.84s] English:** That if you just go back to him standing up.  
 **Translation:** 
 
-**[2234.60s] English:** swept in he tried to roll me over no it didn't get me anywhere the first movement that he tried  
-**Translation:** Vocabulary: collapsing: 坍塌
-
-**[2241.92s] English:** to escape i'm on his back i mean now he's lost yeah  
+**[2251.64s] English:** See, both hooks went in; no defense, like there was nothing on the way of those hooks.  
 **Translation:** 
 
-**[2246.84s] English:** that if you just go back to him standing up  
+**[2258.44s] English:** Because he tried to come up, he's coming up; you're high enough on him to where the weight was.  
 **Translation:** 
 
-**[2251.64s] English:** see both hook goes in no defense like there was nothing on the way of those hooks  
+**[2264.44s] English:** Just, probably, immense. It just felt too heavy. I mean, you've already got to...  
 **Translation:** 
 
-**[2258.44s] English:** because he tried to come up he's coming up you're you're high enough on him to where the weight was  
+**[2272.04s] English:** You're already going for the choke; of course, there's no time to lose.  
+**Translation:** Vocabulary: immense: 巨大的
+
+**[2276.84s] English:** Look at that! Yeah, so you're not like  
 **Translation:** 
 
-**[2264.44s] English:** just probably immense it just felt too heavy i mean you gotta you already got you're already  
+**[2280.00s] English:** Worried I'm gonna get shaken off, you're going for the chip, okay? You've got your right hand — no shaking.  
+**Translation:** Vocabulary: shaken: 摇晃
+
+**[2283.92s] English:** Me, off! I'm on your back now. We're in this together, okay? And your right hand is  
 **Translation:** 
 
-**[2272.04s] English:** you're already going for the choke of course there's no time to lose  
-**Translation:** Vocabulary: immense: 巨大
-
-**[2276.84s] English:** look at that yeah so you're not like  
-**Translation:** 
-
-**[2280.00s] English:** worried i'm gonna get shaken off you're going for the chip okay you got your right hand no shaking  
-**Translation:** 
-
-**[2283.92s] English:** me off i'm on your back now we're in this together okay and your your right hand is  
-**Translation:** 
-
-**[2289.98s] English:** opening up the lapel my right hand is holding his arm i'm still holding oh sorry yeah like  
+**[2289.98s] English:** Opening up the lapel, my right hand is holding his arm. I'm still holding... Oh, sorry, yeah, like.  
 **Translation:** Vocabulary: lapel: 衣領
 
-**[2295.32s] English:** you're holding the sleeve but holding the sleeve and i'm already going for the neck  
+**[2295.32s] English:** You're holding the sleeve, but I'm already going for the neck.  
 **Translation:** 
 
-**[2298.74s] English:** because it's timing at which point do you let go of the sleeve and open up help with the lapel or  
+**[2298.74s] English:** Because it's timing, at which point do you let go of the sleeve and open up the lapel?  
+**Translation:** Vocabulary: timing: 时机
+
+**[2305.66s] English:** Do you not need it? No, I did that, but first I want to try to make a grip like, then I need to.  
 **Translation:** 
 
-**[2305.66s] English:** do you not need it no i did that but first i want to try to make a grip like then i need to  
+**[2311.88s] English:** Establish control before I let go; his arm got it, so I kept holding that a bit longer, and then when  
 **Translation:** 
 
-**[2311.88s] English:** establish control before i let go his arm got it so i kept holding that a bit longer and then when  
+**[2319.90s] English:** I fell okay; I have a good control over it, then I let go. Do you okay? So you have like a light.  
 **Translation:** 
 
-**[2319.90s] English:** i fell okay i have a good control over the back then i let go do you okay so you have like a light  
+**[2327.56s] English:** Grip on his lapel, but you're thinking, "You know, I need to adjust that." You need to adjust it.  
 **Translation:** 
 
-**[2327.56s] English:** grip on his lapel but you're thinking you know i need to adjust that you need to adjust it you're  
+**[2333.32s] English:** Like holding it there, and you're thinking, "Okay, at some point,  
 **Translation:** 
 
-**[2333.32s] English:** like holding it there and you're thinking okay at some point  
+**[2335.66s] English:** I need to adjust it. All I need is to get under his chin, then I know it's right.  
 **Translation:** 
 
-**[2335.66s] English:** i need to adjust all i need all i want is to get under his chin then i know it's it's i mean it's  
+**[2340.46s] English:** Now I can't go for it because if it's over, there's no choke. Right? I need the wrist to be under.  
 **Translation:** 
 
-**[2340.46s] English:** now i can't go for it because if it's over there's no choke right i need the wrist needs to be under  
+**[2345.82s] English:** Can you choke Buchesha over the no? I can't. That's just not right, okay? And it's not right or it...  
+**Translation:** Vocabulary: buchesha: 布奇沙
+
+**[2351.50s] English:** Doesn't work; they both aren't right, and it doesn't work. I mean, would you tap to choke on?  
 **Translation:** 
 
-**[2345.82s] English:** can you choke buchesha over the no i can't that's just not right okay and it's not right or it  
+**[2356.46s] English:** Your chin — no, it's just pressure. You're hurting, but it's not going to choke you out. I don't know.  
 **Translation:** 
 
-**[2351.50s] English:** doesn't work they both it's not right and it doesn't work i mean would you tap to choke on  
+**[2361.90s] English:** I don't know; I'm not going to argue this. I love arguing with Roger Grace.  
 **Translation:** 
 
-**[2356.46s] English:** your chin no it's just pressure you hurt but it's not going to choke you out i don't know  
+**[2365.66s] English:** About jokes, this is great, okay? Like, "clock choke" — is it always interesting to me because...  
 **Translation:** 
 
-**[2361.90s] English:** i don't know i'm not let me argue this i love this arguing with roger grace  
+**[2370.54s] English:** Judo: It's illegal to have the gear on the face, and so it was kind of liberating for me to be allowed.  
 **Translation:** 
 
-**[2365.66s] English:** about jokes this is great okay like clock choke is it was always interesting to me because in  
+**[2378.14s] English:** To have a gear on the face, no; it's just liberating. No, then you don't have to worry about it like that.  
+**Translation:** Vocabulary: liberating: 令人解脱
+
+**[2385.10s] English:** Of course, it's more effective to go under the chin, but I'm surprised just because of problems and  
 **Translation:** 
 
-**[2370.54s] English:** judo it's illegal to have the gear on the face and so it was kind of liberating for me to be allowed  
+**[2388.64s] English:** Amount of pressure, it's all about how much you can take. It you can take a lot, it feels like no.  
 **Translation:** 
 
-**[2378.14s] English:** to have a gear on the face no it's just liberating no then you don't have to worry about it like  
+**[2393.82s] English:** Doesn't feel comfortable; I'm gonna take it, but it doesn't feel comfortable. I mean, sometimes on your  
 **Translation:** 
 
-**[2385.10s] English:** of course it's more effective to go under the chin but i'm surprised just beca problems an  
+**[2395.62s] English:** Your mouth—it cuts your mouth now. You're bleeding; it feels horrible, but it feels like that's not the  
 **Translation:** 
 
-**[2388.64s] English:** amount of pressure it's all about how much you can take it you can take a lot it feels like no it  
+**[2399.66s] English:** Feeling  
 **Translation:** 
 
-**[2393.82s] English:** doesn't feel comfortable i'm gonna take it but it doesn't feel comfortable i mean sometimes on your  
+**[2400.00s] English:** Feeling it might not be a joke, but the feeling like it's a pressure; everything's just...  
 **Translation:** 
 
-**[2395.62s] English:** your mouth it cuts your mouth now you're bleeding it feels horrible but it feels that's not the  
+**[2404.96s] English:** Closing in, but it doesn't take you anywhere. Like, you're not going to go to sleep; you might not go.  
 **Translation:** 
 
-**[2399.66s] English:** feeling  
+**[2409.28s] English:** To sleep, so it's just pressure, yes. So, pressure hurts; it's uncomfortable, but it's not going to  
 **Translation:** 
 
-**[2400.00s] English:** feeling it might not be a joke but the feeling like like it's a pressure that everything's just  
+**[2417.60s] English:** Break your face, and it's not going to put you to sleep. So, if I don't get the neck, I don't go for it.  
 **Translation:** 
 
-**[2404.96s] English:** closing in but it doesn't take you anywhere like you're not going to go to sleep you might not go  
+**[2422.24s] English:** The kill, okay. I'm like, I'm holding his collar. You know, my wrist is almost under.  
 **Translation:** 
 
-**[2409.28s] English:** to sleep so it's just pressure yes so pressure it hurts it's uncomfortable but it it's not going to  
+**[2431.84s] English:** It's you know, I'm trying to kind of dig in. If I can dig in, then I would just call.  
 **Translation:** 
 
-**[2417.60s] English:** break your face and it's not going to put you to sleep so if i don't get the neck i don't go for  
+**[2438.08s] English:** But first, I need to dig in. I dig in first, then adjust. But can you do all that with one hand?  
 **Translation:** 
 
-**[2422.24s] English:** the kill okay i'm like i'm i'm holding the the his collar you know my my wrist is almost under  
+**[2442.96s] English:** I did it so you can tighten the choke with just one hand. No, I need the second one to open the lever.  
 **Translation:** 
 
-**[2431.84s] English:** it's you know i'm i'm trying to kind of dig in if if i can dig in then i would just call  
+**[2451.36s] English:** But you're like digging.  
+**Translation:** Vocabulary: lever: 杠杆; tighten: 拧紧
+
+**[2452.24s] English:** In with one hand, I'm digging in under the chin. Under is under now, I need to go deeper.  
 **Translation:** 
 
-**[2438.08s] English:** but first i need to dig in i dig in first then adjust but can you do all that with one hand or no  
+**[2457.20s] English:** But that going deeper requires a second hand; it does, okay. It does, and that requires you.  
 **Translation:** 
 
-**[2442.96s] English:** i did so you can tighten the choke with just one hand no i need the second one to open the level  
+**[2463.52s] English:** Letting go of the other hand, yeah. I have to let go eventually, yeah. See, all right, yeah, well, that's.  
 **Translation:** 
 
-**[2451.36s] English:** but you're like digging  
+**[2469.60s] English:** Over, yeah, because I'm already under his -- the first hand got under the chin. Do you need the?  
 **Translation:** 
 
-**[2452.24s] English:** in with one hand i'm digging in under the chin under the under is under now i need to go deeper  
+**[2476.64s] English:** Uh, hand on the second lapel of course; otherwise, he turns and he's out—that's the control for the turning.  
 **Translation:** 
 
-**[2457.20s] English:** but that the going deeper requires a second hand it does okay it does and but that requires you  
-**Translation:** 
-
-**[2463.52s] English:** letting go of the other hand yeah i have to let go eventually yeah see all right yeah well that's  
-**Translation:** 
-
-**[2469.60s] English:** over yeah because i'm already under his like the first hand got under the chin do you need the  
-**Translation:** 
-
-**[2476.64s] English:** uh hand on the second lapel of course otherwise he turns and he's out that's the control the turning  
-**Translation:** 
-
-**[2482.24s] English:** tightening of the choke yeah it does both it helps tight the net the collar and stop the person  
+**[2482.24s] English:** Tightening of the choke, yeah, it does both: it helps tighten the net, the collar, and stop the person.  
 **Translation:** Vocabulary: lapel: 衣領; tightening: 緊縮
 
-**[2488.08s] English:** rolling out were you feeling pretty good about this position yes i just felt it's getting tighter  
+**[2488.08s] English:** Rolling out, were you feeling pretty good about this position? Yes, I just felt it's getting tighter.  
 **Translation:** 
 
-**[2504.88s] English:** tighter tighter tighter because it wasn't super tight from the beginning it wasn't like the perfect  
+**[2504.88s] English:** Tighter, tighter, tighter because it wasn't super tight from the beginning; it wasn't like the perfect.  
 **Translation:** 
 
-**[2510.64s] English:** choke so we're still tight from the beginning it wasn't like the perfect choke so we're still  
+**[2510.64s] English:** Choke? So, we're still tight from the beginning; it wasn't like a perfect choke, so we're still...  
 **Translation:** 
 
-**[2512.56s] English:** i mean i knew it was like it's very close to the end but you know you  
+**[2512.56s] English:** I mean, I knew it was very close to the end, but you know.  
 **Translation:** 
 
-**[2515.44s] English:** i still need to just there was still the risk of maybe escaping is it possible for us to  
+**[2515.44s] English:** I still need to just make sure there was still the risk of maybe escaping. Is it possible for us to...  
 **Translation:** 
 
-**[2520.00s] English:** slip out? It's possible,  
+**[2520.00s] English:** Slip out? It's possible.  
 **Translation:** 
 
-**[2522.10s] English:** yes. But I'm closing  
+**[2522.10s] English:** Yes, but I'm closing.  
 **Translation:** 
 
-**[2523.84s] English:** that gap.  
+**[2523.84s] English:** That gap.  
 **Translation:** 
 
 **[2526.70s] English:** Yeah.  
@@ -1645,7 +1646,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[2532.30s] English:** Relief? Relief.  
 **Translation:** 
 
-**[2533.82s] English:** Like, awesome.  
+**[2533.82s] English:** Like, awesome!  
 **Translation:** 
 
 **[2535.74s] English:** Amazing.  
@@ -1654,82 +1655,82 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[2537.70s] English:** Somebody on Reddit asked,  
 **Translation:** 
 
-**[2539.54s] English:** ask him about the cross grip  
+**[2539.54s] English:** Ask him about the cross grip.  
 **Translation:** 
 
-**[2541.38s] English:** he used to sweep, followed  
+**[2541.38s] English:** He used to sweep, followed  
 **Translation:** 
 
-**[2543.40s] English:** with a genius grip switch  
+**[2543.40s] English:** With a genius grip switch.  
 **Translation:** 
 
-**[2544.90s] English:** when Buccescia was inverted. Did you use a  
+**[2544.90s] English:** When Buccescia was inverted, did you use a  
 **Translation:** 
 
-**[2547.34s] English:** cross grip when you sweeped?  
-**Translation:** Vocabulary: inverted: 倒置
+**[2547.34s] English:** Cross-grip when you swept?  
+**Translation:** Vocabulary: inverted: 倒立
 
-**[2548.80s] English:** I guess the cross grip in the arm, that must be it.  
+**[2548.80s] English:** I guess the cross grip in the arm—that must be it.  
 **Translation:** 
 
 **[2551.24s] English:** Oh, that's the cross grip. Okay.  
 **Translation:** 
 
-**[2554.32s] English:** What's the genius  
+**[2554.32s] English:** What's the genius?  
 **Translation:** 
 
-**[2555.18s] English:** behind that? Or was that just the...  
+**[2555.18s] English:** Behind that? Or was that just the...?  
 **Translation:** 
 
-**[2557.44s] English:** Do you like that kind of  
+**[2557.44s] English:** Do you like that kind of?  
 **Translation:** 
 
-**[2558.70s] English:** grip? Yeah, because  
+**[2558.70s] English:** Grip? Yeah, because.  
 **Translation:** 
 
 **[2561.06s] English:** I always like close guard.  
 **Translation:** 
 
-**[2563.06s] English:** And no one wants to be in  
+**[2563.06s] English:** And no one wants to be in.  
 **Translation:** 
 
-**[2565.06s] English:** anyone's close guard, right? It's open guard.  
+**[2565.06s] English:** Anyone's close guard, right? It's open guard.  
 **Translation:** 
 
 **[2567.24s] English:** It's the step to pass.  
 **Translation:** 
 
-**[2569.66s] English:** So, everybody,  
+**[2569.66s] English:** So, everyone,  
 **Translation:** 
 
-**[2571.16s] English:** when you try to close the guard, they bring the knee  
+**[2571.16s] English:** When you try to close the guard, they bring the knee.  
 **Translation:** 
 
-**[2572.86s] English:** in the middle. Like, if you're  
+**[2572.86s] English:** In the middle. Like, if you're  
 **Translation:** 
 
-**[2575.86s] English:** not standing, if you're lower  
+**[2575.86s] English:** Not standing, if you're lower.  
 **Translation:** 
 
-**[2577.00s] English:** on the ground, and they're open,  
+**[2577.00s] English:** On the ground, and they're open.  
 **Translation:** 
 
-**[2578.80s] English:** open guard, if you're close to me, you need that  
+**[2578.80s] English:** Open guard, if you're close to me, you need that.  
 **Translation:** 
 
-**[2580.78s] English:** knee between. So, it's a must.  
+**[2580.78s] English:** Knee between. So, it's a must.  
 **Translation:** 
 
-**[2583.12s] English:** That's when I start  
+**[2583.12s] English:** That's when I start.  
 **Translation:** 
 
-**[2583.98s] English:** developing the attack. You know, I  
+**[2583.98s] English:** Developing the attack. You know, I,...  
 **Translation:** 
 
-**[2586.54s] English:** managed to have long legs to close  
+**[2586.54s] English:** Managed to have long legs to close.  
 **Translation:** 
 
-**[2588.28s] English:** my legs around people, even with that.  
+**[2588.28s] English:** My legs around people, even with that.  
 **Translation:** 
 
 **[2590.96s] English:** And then I just developed that sweep.  
@@ -1738,19 +1739,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[2593.50s] English:** When did you start developing that?  
 **Translation:** 
 
-**[2595.30s] English:** I don't remember when,  
+**[2595.30s] English:** I don't remember when.  
 **Translation:** 
 
-**[2596.72s] English:** but I would say before black belt.  
+**[2596.72s] English:** But I would say before the black belt.  
 **Translation:** 
 
-**[2599.18s] English:** Okay, so  
+**[2599.18s] English:** Okay, so...  
 **Translation:** 
 
-**[2599.88s] English:** your answer to that is not  
+**[2599.88s] English:** Your answer to that is not  
 **Translation:** 
 
-**[2602.70s] English:** to figure out how to prevent them from putting the knee in.  
+**[2602.70s] English:** To figure out how to prevent them from putting the knee in.  
 **Translation:** 
 
 **[2605.86s] English:** Is there an answer to that?  
@@ -1768,16 +1769,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[2612.92s] English:** That's not possible.  
 **Translation:** 
 
-**[2613.82s] English:** Well, maybe off-balance them enough to where it's not.  
+**[2613.82s] English:** Well, maybe we can keep them off-balance enough so that it doesn't become a problem.  
 **Translation:** 
 
-**[2615.96s] English:** No. I mean, you can try,  
+**[2615.96s] English:** No. I mean, you can try.  
 **Translation:** 
 
-**[2618.86s] English:** but it's hard. If you can off-balance them,  
+**[2618.86s] English:** But it's hard. If you can off-balance them,...  
 **Translation:** 
 
-**[2620.86s] English:** you sweep them.  
+**[2620.86s] English:** You sweep them.  
 **Translation:** 
 
 **[2622.30s] English:** Right. So, you're going to have to solve that problem.  
@@ -1789,328 +1790,328 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[2626.70s] English:** Because that's  
 **Translation:** 
 
-**[2627.76s] English:** extremely common, to have that.  
+**[2627.76s] English:** Extremely common to have that.  
 **Translation:** 
 
 **[2631.40s] English:** I mean, if I'm on your guard,  
 **Translation:** 
 
-**[2633.30s] English:** open guard,  
+**[2633.30s] English:** Open guard,  
 **Translation:** 
 
-**[2634.64s] English:** if you have your legs, if I'm between  
+**[2634.64s] English:** If you have your legs, if I'm between them.  
 **Translation:** 
 
-**[2636.76s] English:** both of your legs in the open guard, my knee will be  
+**[2636.76s] English:** Both of your legs in the open guard; my knee will be  
 **Translation:** 
 
-**[2638.74s] English:** between your legs, because it's  
+**[2638.74s] English:** Between your legs, because it's  
 **Translation:** 
 
-**[2640.00s] English:** a must my knee cannot be on the floor since hanzo was there what do you tell you before i think just  
+**[2640.00s] English:** A must, my knee cannot be on the floor since Hanzo was there. What do you tell me? Before, I think just.  
 **Translation:** 
 
-**[2647.12s] English:** motivate you i think that's hanzo always did that fantastically well to motivate me like before in  
-**Translation:** Vocabulary: cannot: 不能; fantastically: 非常出色
+**[2647.12s] English:** Motivate you? I think that's Hanzo's always did that fantastically well—to motivate me, like before in.  
+**Translation:** Vocabulary: cannot: 不能; fantastically: 非常; motivate: 激励
 
-**[2654.32s] English:** fight a match i think that you know the confidence you know his you know his energy being around you  
+**[2654.32s] English:** Fight a match, I think that you know, the confidence; you know, his energy being around you.  
 **Translation:** 
 
-**[2661.20s] English:** it's i think that's the is is the great thing to have hands on your corner it is the motivation  
+**[2661.20s] English:** It's I think that's the great thing to have hands in your corner; it is the motivation.  
 **Translation:** 
 
-**[2666.64s] English:** that he gives you what did you learn about jiu-jitsu in life from hanzo gracie we got to  
+**[2666.64s] English:** That he gives you what did you learn about Jiu-Jitsu in life from Hanzo Gracie? We got to.  
 **Translation:** 
 
-**[2671.84s] English:** hang out with him in vegas a little bit he's a character he's one of the uh historic coaches  
+**[2671.84s] English:** Hang out with him in Vegas for a little bit — he's a character, and he's one of the historic coaches.  
 **Translation:** Vocabulary: gracie: 格雷西; vegas: 拉斯维加斯
 
-**[2677.60s] English:** and jiu-jitsu competitors but also personalities in the martial arts world in in the world in  
+**[2677.60s] English:** And jiujitsu competitors, but also personalities in the martial arts world.  
 **Translation:** 
 
-**[2682.88s] English:** general there's very few like him hans is a fantastic person it's it's you know what i've  
+**[2682.88s] English:** General, there are very few like him. Hans is a fantastic person; it's, you know, what I've  
+**Translation:** Vocabulary: jiujitsu: 柔道; martial: 武术
+
+**[2690.24s] English:** Learned most from him is like, it's you know, you can take any challenge; it's you know, it doesn't matter.  
 **Translation:** 
 
-**[2690.24s] English:** learned most from him is like it's you know you can take any challenge it's you know doesn't matter  
+**[2696.40s] English:** Where  
 **Translation:** 
 
-**[2696.40s] English:** where  
+**[2696.64s] English:** And where, well, you know, who it is — you know, you have to be ready, and you know, with that war.  
 **Translation:** 
 
-**[2696.64s] English:** and where well you know who it's you know you have to be ready and you know with that war  
+**[2704.32s] English:** Spirit that he has; he, you know, he always took any challenge, ready or not.  
 **Translation:** 
 
-**[2704.32s] English:** spirit that he has he you know he always took any challenge ready or not ready  
+**[2711.76s] English:** Was it you that said it, or did he say it? Where, uh, not until you go in and do something.  
 **Translation:** 
 
-**[2711.76s] English:** was it you that said it or he said it where uh not until you go in you know to do something  
+**[2721.60s] English:** It's difficult to discover the strength that you have, so, like, if you really think about it.  
 **Translation:** 
 
-**[2721.60s] English:** difficult do you discover the strength that you have so like like if you really think about it  
+**[2726.40s] English:** You might think that you don't feel good enough, you don't have the strength to take on  
 **Translation:** 
 
-**[2726.40s] English:** you might think that you don't you're not good enough you don't have the strength to take on  
+**[2732.00s] English:** Something difficult, I fully agree that I think we are measured not when we're on the strongest.  
 **Translation:** 
 
-**[2732.00s] English:** something difficult i fully agree that i think we are measured not when we're on the strongest  
+**[2737.28s] English:** But when we are at our weakest, that's when we truly measure ourselves or our character—who we are.  
 **Translation:** 
 
-**[2737.28s] English:** but when we are in the weakest that's when we truly measure ourselves or character who we are  
+**[2743.52s] English:** We're not in a position of power when we're in a position of weakness. Have you surprised yourself?  
 **Translation:** 
 
-**[2743.52s] English:** not we're in a position of power when we're in a position of weakness have you surprised yourself  
+**[2748.96s] English:** Like, how damn good you are? Is this really how good I am in this situation?  
 **Translation:** 
 
-**[2748.96s] English:** like how damn good you are like is this is this really how good i am in this situation where in  
-**Translation:** 
-
-**[2756.16s] English:** retrospect you might think how the hell was able to accomplish this not  
+**[2756.16s] English:** In retrospect, you might think how in hell I was able to accomplish this.  
 **Translation:** Vocabulary: retrospect: 回顾
 
-**[2760.00s] English:** how good i am because otherwise i wouldn't be there so you know being there in the first place  
+**[2760.00s] English:** How good I am, because otherwise I wouldn't be there at all, so you know, being there in the first place.  
 **Translation:** 
 
-**[2766.80s] English:** it's it's already not a great thing but i say you know i've every single time i found myself there  
+**[2766.80s] English:** It's already not a great thing, but I say, you know, every single time I find myself there.  
 **Translation:** 
 
-**[2774.94s] English:** i was super proud that i've never cracked like i've never gave up ever any second any fight  
+**[2774.94s] English:** I was super proud that I've never cracked; I've never given up, ever—any second, any fight.  
 **Translation:** 
 
-**[2783.56s] English:** never never been broken in competition never even it's not about winning or losing it's about  
+**[2783.56s] English:** Never, never been broken in competition. It's not about winning or losing; it's about...  
+**Translation:** Vocabulary: cracked: 破裂
+
+**[2789.98s] English:** You giving up? I've never doubted myself; I always fought to the very end, always what I'm most proud of.  
 **Translation:** 
 
-**[2789.98s] English:** you giving up i've never doubted myself i always fought to the very end always that i'm most proud  
+**[2798.06s] English:** Of course, because there were moments where you know, it's like you're in a terrible position, mainly like there.  
+**Translation:** Vocabulary: doubted: 怀疑自己
+
+**[2804.88s] English:** Was there moments that I was super tired, but like, exhausting tired? When you know, it was easy to  
 **Translation:** 
 
-**[2798.06s] English:** of because there was moments you know it's you're in a terrible position you know mainly like there  
+**[2811.14s] English:** Give up, like I had nothing more to give, but I pushed. I took energy out of my soul.  
+**Translation:** Vocabulary: exhausting: 精疲力尽的
+
+**[2819.48s] English:** I was  
 **Translation:** 
 
-**[2804.88s] English:** was moments that i was super tired but like exhaustive tired when you know it was easy to  
+**[2819.96s] English:** I have to say because when my body felt empty, you know, my spirit or soul was what pulled me out.  
 **Translation:** 
 
-**[2811.14s] English:** give up like i had nothing more to give but i pushed i took energy out of my soul  
+**[2826.34s] English:** Is that, in part, just not allowing yourself to ever quit? Yes.  
 **Translation:** 
 
-**[2819.48s] English:** i was  
+**[2834.76s] English:** I have one other thing I regret. I remember, like, a blue belt match.  
 **Translation:** 
 
-**[2819.96s] English:** have to say because when my body had zero my you know my spirit my soul pull it out  
+**[2840.52s] English:** I remember I'm not gonna say who it was against, but um, I remember just being extremely exhausted.  
 **Translation:** 
 
-**[2826.34s] English:** is that in part just not allowing yourself to have um to have to ever ever quit yeah  
+**[2848.42s] English:** And, um, just constantly fighting; a guy was really good at mount and really good at guard passing.  
 **Translation:** 
 
-**[2834.76s] English:** i have um one other thing i regret i remember like a blue belt match  
+**[2854.58s] English:** And I just remember him eventually passing my guard, so it's kind of like the finals of one.  
 **Translation:** 
 
-**[2840.52s] English:** i remember i'm not gonna say who it was against but um i remember just being extremely exhausted  
+**[2861.62s] English:** Of the abbij tournaments, and then right away going to mount—and just, I don't know, I...  
 **Translation:** 
 
-**[2848.42s] English:** and um just constantly fighting a guy was really good mount really good guard passing  
+**[2871.78s] English:** Level of frustration; I mean, I quit at that point because I remember that still — it's not about...  
 **Translation:** 
 
-**[2854.58s] English:** and i just remember um him passing my guard eventually so it's just like a finals of one  
+**[2878.42s] English:** Winning or losing, but I just remember,...  
 **Translation:** 
 
-**[2861.62s] English:** of the abjj tournaments and then right away going to mount and just i don't know i the  
+**[2880.00s] English:** Remember, I was like, teary-eyed, frustrated, and then I knew there was a lot of  
 **Translation:** 
 
-**[2871.78s] English:** level of frustration i mean i quit at that point because i remember that still like i it's not about  
+**[2886.00s] English:** Fights still left, even in there somewhere, and I quit—and I regret that to this day.  
 **Translation:** 
 
-**[2878.42s] English:** winning or losing, but I just remember  
+**[2891.00s] English:** Because, uh, I think the reason I regret that is because it gave me an option.  
 **Translation:** 
 
-**[2880.00s] English:** remember i was like like i was like teary-eyed frustrated and then i knew there was a lot of  
+**[2895.12s] English:** To quit in every other aspect of life like that is an option, yeah. It is, but it sucks.  
 **Translation:** 
 
-**[2886.00s] English:** fights still left even in there somewhere and i i quit and i regret that to this day  
+**[2904.00s] English:** Yeah, it teaches you. You know, it makes us stronger. It's like I think it made me stronger.  
 **Translation:** 
 
-**[2891.00s] English:** because uh i think the reason i regret that is because it gave me an option  
+**[2911.16s] English:** Uh, yeah, it makes you stronger that you did that to learn that; don't do that again. Um, but still.  
 **Translation:** 
 
-**[2895.12s] English:** to to now quit in every other aspect of life like that this is an option yeah it is it sucks  
+**[2918.06s] English:** Like you said, just going to sleep in training—I do think it made me weaker. It did make me weaker.  
 **Translation:** 
 
-**[2904.00s] English:** yeah it teaches you you know it makes us stronger it's like i think it made you stronger  
+**[2924.22s] English:** In the rest of my life, too, I've quit a few times on small things.  
 **Translation:** 
 
-**[2911.16s] English:** uh yeah it makes you stronger that you did that to learn that don't do that again um but still  
+**[2929.34s] English:** And you realize, okay, it's not that big of a deal; it's fine—like, who cares?  
 **Translation:** 
 
-**[2918.06s] English:** like you said just going to sleep in training i do think it made me weaker it did make me weaker  
+**[2933.66s] English:** You.  
 **Translation:** 
 
-**[2924.22s] English:** in the rest of my life too that those you know i've quit a few times in my life on small things  
+**[2934.00s] English:** Um, but that what you learn over time is that voice always comes there, like uh.  
 **Translation:** 
 
-**[2929.34s] English:** and you realize okay it's not that big of a deal it's fine like who cares  
+**[2938.64s] English:** Obviously, maybe it does for you too, at the highest level.  
 **Translation:** 
 
-**[2933.66s] English:** you  
+**[2943.12s] English:** Of, like, it's not that big of a deal. It's okay to quit here.  
 **Translation:** 
 
-**[2934.00s] English:** um but that what you learn over time is that voice always comes there like uh  
+**[2946.48s] English:** Like it makes sense; everybody would understand, um, you know, in some sense, like you're, you know.  
 **Translation:** 
 
-**[2938.64s] English:** obviously maybe it does for you too at the even at the highest level  
+**[2955.62s] English:** Many people would say you're past your prime in this match, with its procession-like pace making it so.  
 **Translation:** 
 
-**[2943.12s] English:** of like it's not that big of a deal like it's okay to quit here  
+**[2959.80s] English:** It makes sense you've been focusing on MMA, no?  
 **Translation:** 
 
-**[2946.48s] English:** like it makes sense everybody would understand um you know in some sense like you're uh you know  
+**[2962.70s] English:** You.  
 **Translation:** 
 
-**[2955.62s] English:** many people would say you're past your prime in this match with the procession like it makes  
+**[2964.00s] English:** Sense to lose, yeah. Uh, I don't know—that's a weird voice, and in some sense, it's that voice.  
 **Translation:** 
 
-**[2959.80s] English:** sense you've been focusing on mma makes sense no  
-**Translation:** Vocabulary: procession: 行列
-
-**[2962.70s] English:** you  
+**[2971.02s] English:** And a voice that says, "Why are you doing this? Like, this is silly; does it make any sense?  
 **Translation:** 
 
-**[2964.00s] English:** sense to lose yeah uh i don't know that that's a weird voice and in some sense uh it's that voice  
+**[2976.66s] English:** Just stop, just stop, just stop. And shut that voice down, and never allowing yourself to  
 **Translation:** 
 
-**[2971.02s] English:** and a voice that says like why are you doing this like this is silly does make any sense  
+**[2984.38s] English:** Quit—that's a really powerful thing. Like, everybody I've met; everybody that's successful, um, yeah, down.  
 **Translation:** 
 
-**[2976.66s] English:** just stop just stop just stop and uh shutting that voice down and never allowing yourself to  
+**[2992.22s] English:** To the even engineers,  
 **Translation:** 
 
-**[2984.38s] English:** quit that's a really powerful thing like everybody i've met everybody that's successful um yeah down  
+**[2994.00s] English:** CEOs like Elon Musk just never quit, like when everybody around you is giving up.  
 **Translation:** 
 
-**[2992.22s] English:** to the even engineers  
+**[3000.00s] English:** Quit never, quitting—it's weird. I don't know what that is; might be genetic, or it might be like...  
 **Translation:** 
 
-**[2994.00s] English:** ceos elon musk just never quitting like when everybody around you is  
+**[3005.88s] English:** Using the stubbornness to just never allow yourself to, um, develop that—it's basically  
 **Translation:** 
 
-**[3000.00s] English:** quit never quitting it's weird i don't know what that is might be genetic it might be like  
-**Translation:** 
-
-**[3005.88s] English:** using the stubbornness to just never allow yourself to um develop that it's basically  
-**Translation:** 
-
-**[3012.98s] English:** developing a calluses to that voice that tries to tell you to quit you never quit huh what would  
+**[3012.98s] English:** Developing a callus to that voice that tries to tell you to quit. You never quit, huh? What would?  
 **Translation:** Vocabulary: stubbornness: 固执
 
-**[3019.70s] English:** you attribute that to it's like how much you want to get to the destination you chose like you know  
+**[3019.70s] English:** You attribute that to it's like how much you want to get to the destination you chose, you know?  
 **Translation:** 
 
-**[3028.22s] English:** how badly you want to get there it's if you quit you're never going to get there  
+**[3028.22s] English:** How badly you want to get there; it's if you quit, you're never going to get there.  
 **Translation:** Vocabulary: attribute: 归因
 
-**[3033.48s] English:** and you always wanted to i always wanted to is there some thing you remember from that match  
+**[3033.48s] English:** And you always wanted to; I always wanted to. Is there something you remember from that match?  
 **Translation:** 
 
-**[3040.54s] English:** some things that happened before and after this stand out to you just since in rio yeah there  
+**[3040.54s] English:** Some things that happened before and after this stand out to you, just since in Rio, yeah?  
 **Translation:** 
 
-**[3045.24s] English:** was an interview you know like prior to the fight you know there was a big fight we were doing like  
+**[3045.24s] English:** Was there an interview, you know, like prior to the fight? You know, there was a big fight we were doing like  
 **Translation:** 
 
-**[3050.50s] English:** media every day before we were meeting me and him we were meeting for media and  
+**[3050.50s] English:** Media every day before we were meeting, me and him. We were meeting for media.  
 **Translation:** 
 
-**[3055.68s] English:** it's like five  
+**[3055.68s] English:** It's like five.  
 **Translation:** 
 
-**[3058.10s] English:** days  
+**[3058.10s] English:** Days.  
 **Translation:** 
 
-**[3058.20s] English:** five days  
+**[3058.20s] English:** Five days.  
 **Translation:** 
 
-**[3058.22s] English:** before you know five six days before i'm quite chatty it's you know the closer we get to the  
+**[3058.22s] English:** Before you know it, a few days before, I'm quite chatty. It's you know, the closer we get to the  
 **Translation:** Vocabulary: chatty: 健谈的
 
-**[3063.30s] English:** fight the more focus i get the less i talk i stop joke around playing you know with people  
+**[3063.30s] English:** Fight the more focused I get, the less I talk. I stop joking around and playing with people.  
 **Translation:** 
 
-**[3069.10s] English:** but i remember i think it was maybe three or four days before we were doing an interview together  
+**[3069.10s] English:** But I remember; I think it was maybe three or four days before we were doing an interview together.  
 **Translation:** 
 
-**[3074.18s] English:** i think my cousin kira was there she was doing one of the interviews with us and  
+**[3074.18s] English:** I think my cousin Kira was there; she was doing one of the interviews with us, and  
 **Translation:** 
 
-**[3080.60s] English:** i don't remember exactly what we were talking about but i just remember we'll talk about the  
+**[3080.60s] English:** I don't remember exactly what we were talking about, but I just remember we'll talk about the  
 **Translation:** 
 
-**[3086.44s] English:** fight of course and then it was you know  
+**[3086.44s] English:** Fight, of course, and then it was, you know,  
 **Translation:** 
 
-**[3088.20s] English:** we're standing beside each other and i'm like and then i you know suddenly i jump in and grab him by  
+**[3088.20s] English:** We're standing beside each other, and I'm like, "And then I," you know, suddenly I jump in and grab him by.  
 **Translation:** 
 
-**[3094.86s] English:** the neck i say i'm gonna tap you by the neck and then he's like you know very shy yeah and then i  
+**[3094.86s] English:** The neck: I say, "I'm gonna tap you by the neck," and then he's like, "You know, very shy, yeah," and then I...  
 **Translation:** 
 
-**[3100.40s] English:** let go i see you're not gonna grab tap you by the arm and i could feel he was like he wasn't  
+**[3100.40s] English:** Let go, I see you're not gonna grab me by the arm, and I could feel he wasn't.  
 **Translation:** 
 
-**[3105.34s] English:** comfortable you know with being there it was you know me saying that i'm gonna tap him out there  
+**[3105.34s] English:** Comfortable, you know, with being there, it was like me saying I'm gonna tap him out there.  
 **Translation:** 
 
-**[3110.72s] English:** was like i was so relaxed joking about it but i'm joking that i'm gonna tap him out in a fight that  
+**[3110.72s] English:** It was like I was so relaxed, joking about it, but I'm just joking that I'm gonna tap him out in a fight.  
 **Translation:** 
 
-**[3116.88s] English:** we're gonna have him for this time  
+**[3116.88s] English:** We're gonna have him for this time.  
 **Translation:** 
 
-**[3118.18s] English:** and  
+**[3118.18s] English:** And  
 **Translation:** 
 
-**[3120.00s] English:** Yeah, I felt he was like not comfortable at all  
+**[3120.00s] English:** Yeah, I felt he was not at all comfortable.  
 **Translation:** 
 
-**[3124.02s] English:** Do you think you got in this head a little bit to give you a little bit of confidence?  
+**[3124.02s] English:** Do you think you've gotten in your head a little bit to give you a little bit of confidence?  
 **Translation:** 
 
-**[3127.32s] English:** Yeah, you said that jiu-jitsu is a reflection of your personality. So both your jiu-jitsu and your personality. There's a calmness  
+**[3127.32s] English:** Yeah, you said that Jiu-Jitsu is a reflection of your personality. So both your Jiu-Jitsu and your personality. There's a calmness.  
 **Translation:** 
 
-**[3134.00s] English:** What is that? Why are you so calm? Is there in like an ocean underneath that's boiling?  
-**Translation:** Vocabulary: calmness: 平静
+**[3134.00s] English:** What is that? Why are you so calm? Is there, in fact, an ocean underneath that's boiling?  
+**Translation:** Vocabulary: boiling: 沸腾; calmness: 镇静; underneath: 在……下面
 
-**[3138.74s] English:** Is this developed or is this your personality?  
+**[3138.74s] English:** Is this developed, or is this your personality?  
 **Translation:** 
 
-**[3141.26s] English:** Are you basically leveraging who you are already to develop a game around the jiu-jitsu or did the jiu-jitsu make you calm?  
+**[3141.26s] English:** Are you basically leveraging who you are already to develop a game around jiu-jitsu, or did the jiu-jitsu make you calm?  
 **Translation:** 
 
-**[3148.52s] English:** I think both I was always very calm since I was a kid, you know since very young I was never very, you know fiery  
+**[3148.52s] English:** I think I was always very calm since I was a kid; you know, since very young, I was never very fiery.  
 **Translation:** 
 
-**[3156.38s] English:** Person so that is a reflection, you know, you reflected on my jiu-jitsu in my life on my fight  
+**[3156.38s] English:** Person, so that is a reflection. You know, you reflected on my jiu-jitsu in my life and my fight.  
 **Translation:** Vocabulary: fiery: 易怒的
 
-**[3161.94s] English:** It's the way I fight. So it's a direct influence of my personality  
+**[3161.94s] English:** It's the way I fight. So, it's a direct influence of my personality.  
 **Translation:** 
 
-**[3167.00s] English:** and I think is also in the day, you know you  
+**[3167.00s] English:** And I think it's also during the day, you know, you  
 **Translation:** 
 
-**[3170.44s] English:** Develop the more the more you practice the more you fight  
+**[3170.44s] English:** Develop the skill; the more you practice, the more you improve.  
 **Translation:** 
 
-**[3173.92s] English:** It's like, you know, you don't want to get nervous. You don't want that adrenaline  
+**[3173.92s] English:** It's like, you know, you don't want to get nervous. You don't want that adrenaline.  
 **Translation:** Vocabulary: adrenaline: 肾上腺素
 
-**[3178.18s] English:** and  
+**[3178.18s] English:** And  
 **Translation:** 
 
-**[3178.52s] English:** And so you just learn how to shut that off from your mind.  
+**[3178.52s] English:** And so, you just learn how to shut that off from your mind.  
 **Translation:** 
 
-**[3182.84s] English:** So the less I thought about it, you know, it's like how many times I fought.  
+**[3182.84s] English:** So, the less I thought about it, you know, it's like how many times I fought.  
 **Translation:** 
 
-**[3186.88s] English:** You know, let's say the week before the fight, that's when you start more, when you're concerned the most.  
+**[3186.88s] English:** You know, let's say the week before the fight—that's when you start to ramp up more, and that's when you're most concerned.  
 **Translation:** 
 
 **[3193.38s] English:** Because now it's getting very close.  
@@ -2119,34 +2120,34 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3195.04s] English:** Before, it's just far away.  
 **Translation:** 
 
-**[3196.74s] English:** You know, it's normal to think of the tournament.  
+**[3196.74s] English:** You know, it's normal to think about the tournament.  
 **Translation:** 
 
-**[3198.96s] English:** You get a bit nervous, but it goes away quick.  
+**[3198.96s] English:** You get a bit nervous, but it goes away quickly.  
 **Translation:** 
 
-**[3201.68s] English:** But the fight, you know, the week before, now you're constantly thinking of that day.  
+**[3201.68s] English:** But the fight, you know, the week before, now you're constantly thinking about that day.  
 **Translation:** 
 
-**[3205.94s] English:** And every time you think, adrenaline pumps in, your heart accelerates.  
+**[3205.94s] English:** And every time you think, adrenaline pumps in, and your heart accelerates.  
 **Translation:** 
 
-**[3210.84s] English:** You know, it doesn't, you know, it makes it, it's like, why am I feeling this?  
+**[3210.84s] English:** You know, it doesn't make sense. It's like, why am I feeling this?  
 **Translation:** 
 
 **[3214.44s] English:** What difference will it make?  
 **Translation:** 
 
-**[3215.66s] English:** So you're kind of, you're shutting that thought out of your mind.  
+**[3215.66s] English:** So, you're kind of shutting that thought out of your mind.  
 **Translation:** 
 
 **[3218.86s] English:** Because you don't want to feel that adrenaline, your heart accelerating.  
 **Translation:** 
 
-**[3222.52s] English:** It's not going to add you anything.  
+**[3222.52s] English:** It's not going to add anything to you.  
 **Translation:** 
 
-**[3224.36s] English:** So it's, you know, it's the practice also that I think it helped me to shut that off my mind.  
+**[3224.36s] English:** So it's the practice, you know, that I think it helped me to shut that off in my mind.  
 **Translation:** 
 
 **[3231.10s] English:** Has that helped you in regular life?  
@@ -2155,76 +2156,76 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3232.70s] English:** Yeah, of course.  
 **Translation:** 
 
-**[3234.06s] English:** It's, you know, it's suddenly when you...  
+**[3234.06s] English:** It's, you know, it's sudden when you...  
 **Translation:** 
 
 **[3235.94s] English:** Going to any situation that might be stressful.  
 **Translation:** 
 
-**[3240.00s] English:** like an important meeting or super whatever it is it's like how much would you worry about that  
+**[3240.00s] English:** Like an important meeting, or super whatever it is, it's like, how much would you worry about that?  
 **Translation:** 
 
-**[3246.20s] English:** before worry is not going to help you anywhere it's the opposite just going to make you more  
+**[3246.20s] English:** Before, worrying is not going to help you anywhere; it's the opposite — just going to make you more stressed.  
+**Translation:** Vocabulary: worrying: 忧虑
+
+**[3250.98s] English:** Nervous, your heart rate accelerates, and your ability to think clearly will be damaged by that.  
 **Translation:** 
 
-**[3250.98s] English:** nervous your heart accelerate your ability to think clearly is going to be damaged by that  
+**[3256.50s] English:** So, it's like the more calm and relaxed you are, the better you can think. Do you ever get?  
+**Translation:** Vocabulary: accelerates: 加快
+
+**[3264.38s] English:** Angry, yeah, like in traffic. You ever get like not calm, just like you're screaming? Not, not in a  
 **Translation:** 
 
-**[3256.50s] English:** so it's like the more calm the more relaxed you are the better you can think of do you ever get  
+**[3272.22s] English:** Screaming, sitting—no, but just angry? But what does angry look like? Is it still calm, yeah, like you?  
 **Translation:** 
 
-**[3264.38s] English:** angry yeah like in traffic you ever get like not calm just like you're screaming not not in a  
+**[3280.10s] English:** Know a few seconds of complaining, but then it goes away. Have you ever, like, thrown a cell phone?  
 **Translation:** 
 
-**[3272.22s] English:** screaming sit no but just angry but what does angry look like is it still calm yeah like you  
+**[3284.18s] English:** At a wall, or something like that, I think. No, I never get that angry because that's just silly.  
 **Translation:** 
 
-**[3280.10s] English:** know a few seconds of complaining but then it goes away have you ever like thrown a cell phone  
+**[3290.22s] English:** It's like, if I had done that,...  
 **Translation:** 
 
-**[3284.18s] English:** at a wall or something like that i think no i never get that angry because that's just silly  
+**[3293.92s] English:** I.  
 **Translation:** 
 
-**[3290.22s] English:** it's like it's it's it's if i would have done that  
+**[3294.38s] English:** Would not be able to control my emotions prior to a fight; that would be a reflection of letting yourself.  
 **Translation:** 
 
-**[3293.92s] English:** i  
+**[3301.24s] English:** Lose, yeah, uh, losing control—that will reflect other times. Do you think it has, in part?  
 **Translation:** 
 
-**[3294.38s] English:** would not be able to control my emotions prior to fight that would be a reflection letting yourself  
+**[3311.42s] English:** Made you more emotionally closed off from the world, like you're really trying to protect yourself, and it's harder for you to.  
 **Translation:** 
 
-**[3301.24s] English:** lose yeah uh losing control that will reflect other times do you think it has uh make in part  
+**[3316.14s] English:** Be vulnerable to others, probably, yeah, but I've heard that a few times. I'm emotionally closed.  
+**Translation:** Vocabulary: vulnerable: 易受伤的
+
+**[3323.60s] English:** It's  
 **Translation:** 
 
-**[3311.42s] English:** made you more emotionally closed off from the world like you're you're it's harder for you to  
+**[3323.92s] English:** Yeah, maybe that I think influences. Yeah, have you ever cried in a movie? Yeah, for not many.  
 **Translation:** 
 
-**[3316.14s] English:** be vulnerable to others probably yeah but i i heard that a few times i'm emotionally closed  
+**[3331.46s] English:** Years before, I think maybe I'm getting older. Do you remember the movie "Something's Gotta Give"?  
 **Translation:** 
 
-**[3323.60s] English:** it's  
+**[3337.94s] English:** Is it a notebook? I mean, I would say that in the last few years, I've been crying more than before.  
 **Translation:** 
 
-**[3323.92s] English:** yeah maybe that i think that influences yeah have you ever cried in a movie yeah for not for many  
+**[3345.90s] English:** For some reason, I don't know why, like silly movies — for no apparent reason at all — suddenly bring tears to my eyes.  
 **Translation:** 
 
-**[3331.46s] English:** years before i think maybe i'm getting older do you remember the movie something i mean it's  
+**[3351.58s] English:** Yeah, well, I really already just  
 **Translation:** 
 
-**[3337.94s] English:** is it a notebook i mean i would say the last few years i've been crying more than before  
+**[3353.92s] English:** Having met you and interacted with you, I can see that you're kind of opening your heart or mind to the world.  
 **Translation:** 
 
-**[3345.90s] English:** for some reason i don't know why like silly movies like nothing suddenly brings tears to my eyes  
-**Translation:** 
-
-**[3351.58s] English:** yeah well i really i already just  
-**Translation:** 
-
-**[3353.92s] English:** Having met you and interacted with you. I can see that you're kind of opening your heart or mind to the world  
-**Translation:** 
-
-**[3360.00s] English:** You could see, like, here's this historically great athlete.  
+**[3360.00s] English:** You could see: like, here's this historically great athlete.  
 **Translation:** Vocabulary: historically: 历史上; interacted: 互动过
 
 **[3367.00s] English:** Now, like, the wars have been fought, and you're now, like, waking up to the world.  
@@ -2233,7 +2234,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3371.28s] English:** It's cool to see.  
 **Translation:** 
 
-**[3372.36s] English:** Probably I'm bringing my guard down now.  
+**[3372.36s] English:** Probably, I'm bringing my guard down now.  
 **Translation:** 
 
 **[3374.06s] English:** I don't have to keep it up all the time.  
@@ -2242,7 +2243,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3377.50s] English:** You can even do some podcasts.  
 **Translation:** 
 
-**[3380.48s] English:** You said you watched, like, movies beforehand sometimes.  
+**[3380.48s] English:** You said you watch, like, movies beforehand sometimes.  
 **Translation:** Vocabulary: beforehand: 事先
 
 **[3383.40s] English:** You mentioned Braveheart.  
@@ -2251,17 +2252,17 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3384.58s] English:** What were you doing?  
 **Translation:** Vocabulary: braveheart: 勇敢的心
 
-**[3385.36s] English:** Did you watch something beforehand, like, the day before?  
+**[3385.36s] English:** Did you watch anything beforehand, like the day before?  
 **Translation:** 
 
 **[3387.78s] English:** I used to, yeah.  
 **Translation:** 
 
-**[3388.86s] English:** There was, like, I think Braveheart and Gladiator.  
+**[3388.86s] English:** There were, like, Braveheart and Gladiator.  
 **Translation:** 
 
-**[3396.34s] English:** I mean, there's a few others that I've always watched the day before.  
-**Translation:** Vocabulary: gladiator: 角斗士电影
+**[3396.34s] English:** I mean, there are a few others that I've always watched the day before.  
+**Translation:** Vocabulary: gladiator: 勇士
 
 **[3399.76s] English:** Because the day before, I used to do nothing.  
 **Translation:** 
@@ -2275,7 +2276,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3407.50s] English:** So, it's like, I just want to save energy.  
 **Translation:** 
 
-**[3409.76s] English:** I don't want to waste my energy going out, going around.  
+**[3409.76s] English:** I don't want to waste my energy going out or around.  
 **Translation:** 
 
 **[3413.02s] English:** So, you know, those are the movies that I always like to watch.  
@@ -2287,31 +2288,31 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3417.78s] English:** You know, hyper excitement.  
 **Translation:** Vocabulary: hyper: 过度的
 
-**[3420.42s] English:** Like, you know, I'm getting ready to war tomorrow.  
+**[3420.42s] English:** Like, you know, I'm getting ready for war tomorrow.  
 **Translation:** 
 
-**[3422.58s] English:** So, I'm like, let me watch some movies that, like, brought that, you know, that war spirit into me.  
+**[3422.58s] English:** So, I'm like, let me watch some movies that, like, brought that war spirit into me.  
 **Translation:** 
 
 **[3429.32s] English:** Yeah, what is that about human nature?  
 **Translation:** 
 
-**[3430.84s] English:** Braveheart, I love even more.  
+**[3430.84s] English:** Braveheart, I love it even more.  
 **Translation:** 
 
-**[3433.74s] English:** Should you put your life on the line for a thing that matters or run away just so you can live?  
+**[3433.74s] English:** Should you put your life on the line for something that matters, or run away just so you can live?  
 **Translation:** 
 
-**[3440.60s] English:** It's like, running, you may live.  
+**[3440.60s] English:** It's like: running, you may live.  
 **Translation:** 
 
 **[3442.84s] English:** But, like, years from now, when you look back at this moment,  
 **Translation:** 
 
-**[3445.62s] English:** would you trade all the days just to come back to this moment?  
+**[3445.62s] English:** Would you trade all the days just to come back to this moment?  
 **Translation:** 
 
-**[3452.04s] English:** And tell the English.  
+**[3452.04s] English:** And tell me in English.  
 **Translation:** 
 
 **[3453.50s] English:** You could take our lives, but you can't take our freedom.  
@@ -2320,14 +2321,14 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3456.82s] English:** I mean, oh, man, what is that about human nature?  
 **Translation:** 
 
-**[3462.00s] English:** Is there some aspect of, like, the glory you were able to achieve being more important than anything else?  
+**[3462.00s] English:** Is there some aspect of, like, the glory you were able to achieve that was more important than anything else?  
 **Translation:** 
 
-**[3470.80s] English:** There's some aspect of that, that's greatness, you know?  
+**[3470.80s] English:** There's some aspect of that that's greatness, you know?  
 **Translation:** 
 
 **[3475.30s] English:** Yeah.  
-**Translation:** Vocabulary: greatness: 伟大
+**Translation:** Vocabulary: greatness: 卓越
 
 **[3475.50s] English:** Yeah, I never pursued glory.  
 **Translation:** 
@@ -2335,181 +2336,181 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3478.24s] English:** So, it just came.  
 **Translation:** 
 
-**[3480.00s] English:** you know it is it came with it but that was never my goal i never cared for glory were you able to  
+**[3480.00s] English:** You know, it came with it, but that was never my goal. I never cared for glory. Were you able to?  
 **Translation:** 
 
-**[3487.76s] English:** experience like like i'm at the height of this thing whatever whatever humanity is able to  
+**[3487.76s] English:** Experience, like, I'm at the height of this thing—whatever humanity is able to.  
 **Translation:** 
 
-**[3494.72s] English:** achieve in various things holy i'm flying i fell like no one can touch me i can destroy  
+**[3494.72s] English:** Achieve in various things, holy! I'm flying; I feel like no one can touch me; I can destroy.  
 **Translation:** 
 
-**[3504.88s] English:** people yeah prolonged periods of time or just momentarily i i always knew you know from be  
+**[3504.88s] English:** People, yeah, prolonged periods of time or just momentarily; I always knew, you know.  
 **Translation:** Vocabulary: momentarily: 短暂地
 
-**[3514.48s] English:** before i got to a black belt like i i you know it's i can be great because my pro you know i  
+**[3514.48s] English:** Before I got to a black belt, like I said, it's something that can be great because my professor always emphasized.  
 **Translation:** 
 
-**[3520.16s] English:** used to train with the best in the world i used to you know for many years and i used to see my  
+**[3520.16s] English:** Used to train with the best in the world, I used to do it for many years, and I used to see my  
 **Translation:** 
 
-**[3524.88s] English:** progression with and everybody else so i i knew i was getting somewhere i know i could be the best  
+**[3524.88s] English:** Progression with everyone else, so I knew I was getting somewhere. I know I could be the best.  
 **Translation:** 
 
-**[3534.08s] English:** and that was  
-**Translation:** Vocabulary: progression: 进步
+**[3534.08s] English:** And that was.  
+**Translation:** Vocabulary: progression: 进展
 
-**[3535.04s] English:** that was always my goal since very very young and i always believed that i could be and that  
+**[3535.04s] English:** That was always my goal since I was very, very young, and I always believed that I could be.  
 **Translation:** 
 
-**[3542.00s] English:** over the years that kept telling me over and over again because i'm getting better and better faster  
+**[3542.00s] English:** Over the years, they kept telling me over and over again because I'm getting better and better, faster.  
 **Translation:** 
 
-**[3549.12s] English:** than everybody else so it's i just need to carry on with what i'm doing but i think you've said  
+**[3549.12s] English:** Than everybody else, so it's I just need to carry on with what I'm doing, but I think you've said.  
 **Translation:** 
 
-**[3555.20s] English:** that you wanted to and maybe you thought you could be the greatest of all time  
+**[3555.20s] English:** That you wanted to, and maybe you thought you could be the greatest of all time.  
 **Translation:** 
 
-**[3561.44s] English:** like at the very beginning like when you sucked  
+**[3561.44s] English:** Like at the very beginning, like when you sucked.  
 **Translation:** 
 
-**[3564.88s] English:** yeah  
+**[3564.88s] English:** Yeah.  
+**Translation:** Vocabulary: sucked: 吸吮
+
+**[3566.32s] English:** Yeah, not the greatest of all time, because, and I never really thought about that.  
 **Translation:** 
 
-**[3566.32s] English:** yeah not not the greatest of all time because and i never really thought about that  
+**[3571.76s] English:** But I thought I'm gonna be the best in the world when I saw it, when I thought, okay, so what is that?  
 **Translation:** 
 
-**[3571.76s] English:** but i thought i'm gonna be the best in the world when i saw it when i thought okay so what is that  
+**[3594.88s] English:** With that, because I don't know, but you think you decided to, I decided to, I decided to be and I.  
 **Translation:** 
 
-**[3594.88s] English:** with that because i don't know but you think you decided to i decided to i decided to be and i  
+**[3600.00s] English:** You think there was like a day, somewhere when you were young, where you're like, "Huh? You're sitting  
 **Translation:** 
 
-**[3600.00s] English:** you think there was like a day somewhere when you were young where you're like huh you're sitting  
+**[3605.10s] English:** On a couch, eating Cheetos, I don't think it was a day—like a moment, because  
 **Translation:** 
 
-**[3605.10s] English:** on a couch eating cheetos i don't think it was a day like a moment because  
+**[3611.42s] English:** For many years, I wasn't really training much as a child. You know, I've done a bit of everything, though.  
+**Translation:** Vocabulary: cheetos: 奇多爆米花
+
+**[3619.52s] English:** Train and then stop. Done a bit of Judo, never stay away from it much, but until you know, like.  
 **Translation:** 
 
-**[3611.42s] English:** for many years is i wasn't really training much as a child you know i've done a bit of i used to  
+**[3626.08s] English:** Like from 10 to 14, I barely trained jiu-jitsu much. I used to go there, but there was no great school nearby.  
 **Translation:** 
 
-**[3619.52s] English:** train and then stop done a bit of judo never stay away from it much but until you know like  
+**[3634.16s] English:** Where I used to live, and I was doing, there was a jiujitsu/judo school that I used to go to twice a week.  
 **Translation:** 
 
-**[3626.08s] English:** like from 10 to 14 i barely trained jiu-jitsu much i used to there was no great school near  
+**[3640.92s] English:** I went to a jiu-jitsu tournament. I lost in five seconds, left crying. The guy pulled me in five.  
+**Translation:** Vocabulary: jiujitsu: 柔道
+
+**[3648.08s] English:** Seconds, anyway, so when I was 14, I went to the south of Brazil to see my uncle William.  
 **Translation:** 
 
-**[3634.16s] English:** where i used to live and i was doing there was a jiu-jitsu judo school i used to go twice a week  
+**[3656.08s] English:** To spend like summer holidays, I was there for about four weeks, I think, and when I got there,...  
 **Translation:** 
 
-**[3640.92s] English:** i went to a jiu-jitsu tournament i lost in five seconds left crying the guy he pulled me in five  
+**[3660.96s] English:** My cousin Hollis was living with him. Hollis is bigger than me, and I think he's about four years older.  
 **Translation:** 
 
-**[3648.08s] English:** seconds anyway so when i was 14 i went to the south of brazil to see my uncle hilliam  
+**[3666.72s] English:** Four years older, so I was 14. It was already 18 (17-18), a purple belt competitor, and I think that was  
+**Translation:** Vocabulary: hollis: 霍利斯
+
+**[3675.16s] English:** The first time in my life, I felt what it meant to be a Gracie in terms of  
 **Translation:** 
 
-**[3656.08s] English:** to spend like summer holidays i was there for like four weeks i think and i when i got there  
+**[3682.34s] English:** Having a school teaching training, you know, living...  
+**Translation:** Vocabulary: gracie: 格雷西武术
+
+**[3686.08s] English:** That you know, Jiu-Jitsu is a lifestyle, what being a Gracie means to me, and I've just loved that I was.  
 **Translation:** 
 
-**[3660.96s] English:** my cousin hollis was living with him hollis like bigger than me it was i think it's four years  
+**[3691.98s] English:** Out of shape, my uncle was like, you know, incentivizing me to lose weight and train, but  
+**Translation:** Vocabulary: incentivizing: 激励
+
+**[3698.48s] English:** You're not training, though. You know, it's like you've got a shape, you need to diet, so I used to run.  
 **Translation:** 
 
-**[3666.72s] English:** four years older so i was 14 it was already 18 17 18 purple belt competitor and i think that was  
-**Translation:** Vocabulary: hollis: 表兄弟
-
-**[3675.16s] English:** the first time in my life that i felt what it mean what it meant to be a gracie in terms of  
+**[3703.48s] English:** Every day, I was eating super well. I started doing that when I began changing my routine, so when I go...  
 **Translation:** 
 
-**[3682.34s] English:** having a school teaching training you know living  
-**Translation:** Vocabulary: gracie: 格雷西武道
-
-**[3686.08s] English:** that you know jiu-jitsu lifestyle what a gracie mean to be and i've just i've loved that i was  
+**[3708.46s] English:** Back to Rio was super motivated to follow up, carry on, and he, you know, invited me to go back there.  
 **Translation:** 
 
-**[3691.98s] English:** out of shape my uncle was like you know incentivizing me to lose weight to train but  
+**[3716.08s] English:** With him, but I couldn't; it was too soon, and  
+**Translation:** Vocabulary: motivated: 有动力的
+
+**[3720.00s] English:** To change schools, and everything, my mom said, "No, but maybe next year if you want to go, you can.  
 **Translation:** 
 
-**[3698.48s] English:** you're not training why you know it's like you've got a shape you need to diet so i used to run  
+**[3725.60s] English:** I kept that in mind. Next year, I moved to the South to live with him; I was 15, and it was him.  
 **Translation:** 
 
-**[3703.48s] English:** every day i was eating super well i start you know i start that when i start changing so when i go  
+**[3733.44s] English:** My uncle Helen and my Uncle Crawling used to live very close to each other, and they also  
 **Translation:** 
 
-**[3708.46s] English:** back to rio was super motivated to follow up carry on and he you know he invited me to go back there  
-**Translation:** 
-
-**[3716.08s] English:** with him but i couldn't it was too soon and  
-**Translation:** 
-
-**[3720.00s] English:** to change schools and everything my mom said no but maybe next year if you want to go you can so  
-**Translation:** 
-
-**[3725.60s] English:** i kept that in my mind next year i moved to the south to live with him i was 15. and it was him  
-**Translation:** 
-
-**[3733.44s] English:** my uncle helen and my uncle crawling they both used to live very close to each other they also  
-**Translation:** 
-
-**[3738.96s] English:** have their own schools close to each other so i was with both and i stayed there for almost a year  
+**[3738.96s] English:** They have their own schools close to each other, so I was with both and stayed there for almost a year.  
 **Translation:** Vocabulary: crawling: 爬行
 
-**[3744.80s] English:** i mean i was the youngest in the academy there was some you know blue purple bells normal guy  
+**[3744.80s] English:** I mean, I was the youngest in the academy. There was some, you know, blue and purple bells, normal guy.  
 **Translation:** 
 
-**[3750.56s] English:** but they're already competing training ahead of me and i just joined the group of training  
+**[3750.56s] English:** But they're already competing, training ahead of me, and I just joined the group of training.  
 **Translation:** 
 
-**[3756.48s] English:** i didn't compete while i was there because there was no competition that then  
+**[3756.48s] English:** I didn't compete while I was there because there was no competition then.  
 **Translation:** 
 
-**[3760.24s] English:** and i wasn't really ready but it's not about competing it's more about the training  
+**[3760.24s] English:** And I wasn't really ready, but it's not about competing; it's more about the training.  
 **Translation:** 
 
-**[3763.92s] English:** and i start training every day start improving and year after that when i came back to rio i  
+**[3763.92s] English:** And I started training every day, starting to improve. Year after year, when I came back to Rio, I  
 **Translation:** 
 
-**[3769.52s] English:** was already on a mission i was like i love this i'm just carry on training every day  
+**[3769.52s] English:** It was already on a mission, I was like, "I love this; I'm just carrying on training every day.  
 **Translation:** 
 
-**[3774.48s] English:** because  
+**[3774.48s] English:** Because  
 **Translation:** 
 
-**[3774.80s] English:** my uncle carlos carlos gracie junior gracie bar and the one i got there i was training a little  
-**Translation:** Vocabulary: carlos: 卡洛斯
+**[3774.80s] English:** My uncle Carlos, Carlos Gracie Jr., Gracie Bar: the one I got there; I was training a little.  
+**Translation:** Vocabulary: carlos: 卡洛斯; gracie: 格雷西
 
-**[3780.72s] English:** bit that before but just 14 15 but when i got there there was a you know there was one of  
+**[3780.72s] English:** That bit before, but just 14 or 15. But when I got there, there was a, you know, one of...  
 **Translation:** 
 
-**[3786.72s] English:** that was one of the most competitors one of the biggest jiu jitsu schools at the time there was  
+**[3786.72s] English:** That was one of the most competitive, one of the biggest Jiu-Jitsu schools at the time, there was.  
 **Translation:** 
 
-**[3792.00s] English:** so many high level world champions competitors in every single belt it's saying i've kind of  
+**[3792.00s] English:** So, there are so many high-level world champion competitors in every single belt. It's saying I've kind of...  
 **Translation:** 
 
-**[3799.36s] English:** joined in with that and i've carried i don't remember when but i remember  
+**[3799.36s] English:** Joined in with that, and I've carried on ever since — I don't remember exactly when, but I do remember it.  
 **Translation:** 
 
-**[3805.52s] English:** you know looking and saying i'm gonna be the best in the world but i used to be i was at the bottom  
+**[3805.52s] English:** You know, looking and saying, "I'm gonna be the best in the world," but I used to be; I was at the bottom.  
 **Translation:** 
 
-**[3812.16s] English:** of the stairs you know no one really believed me i didn't shout you know  
+**[3812.16s] English:** Of the stairs, you know, no one really believed me. I didn't shout, you know.  
 **Translation:** 
 
-**[3815.92s] English:** to disguise but you know i told a few people i'm like i'm gonna be the best  
+**[3815.92s] English:** To disguise, but you know, I told a few people, "I'm gonna be the best.  
 **Translation:** 
 
-**[3820.40s] English:** and that's i think i was just losing but i've never ever doubt i've never diverged from that  
-**Translation:** Vocabulary: disguise: 伪装; diverged: 偏离
+**[3820.40s] English:** And that's, I think, I was just losing, but I've never ever doubted; I've never diverged from that.  
+**Translation:** Vocabulary: diverged: 偏离; doubted: 怀疑
 
-**[3828.80s] English:** mission i would say did anyone believe you when you said you'd be great nobody didn't matter didn't i'm  
+**[3828.80s] English:** Mission: I would say, did anyone believe you when you said you'd be great? Nobody, didn't matter, didn't. I'm  
 **Translation:** 
 
-**[3834.64s] English:** matter i don't care i don't need even people that like love you everybody my mom my  
+**[3834.64s] English:** Matter, I don't care; I don't need even people who love you, like my mom.  
 **Translation:** 
 
-**[3840.00s] English:** I mean, no one thought, no one in my family thought I was going to be here today.  
+**[3840.00s] English:** I mean, no one thought—no one in my family thought—I'd be here today.  
 **Translation:** 
 
 **[3845.78s] English:** Nobody.  
@@ -2524,10 +2525,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3854.14s] English:** I was a chubby kid that didn't barely train.  
 **Translation:** 
 
-**[3857.74s] English:** I mean, people used to look at me, just another grace.  
-**Translation:** Vocabulary: chubby: 体胖的
+**[3857.74s] English:** I mean, people used to look at me just another grace.  
+**Translation:** Vocabulary: chubby: 胖乎乎的
 
-**[3860.00s] English:** There's, you know, one more.  
+**[3860.00s] English:** There's one more, you know.  
 **Translation:** 
 
 **[3862.88s] English:** What do you learn from that?  
@@ -2542,16 +2543,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3871.94s] English:** Yeah.  
 **Translation:** 
 
-**[3872.20s] English:** I think if those that need approval, yes.  
+**[3872.20s] English:** I think if those who need approval, yes.  
 **Translation:** 
 
-**[3877.92s] English:** I see you shouldn't have approval.  
+**[3877.92s] English:** I see; you shouldn't have approval.  
 **Translation:** 
 
 **[3879.46s] English:** I never need approval from anyone.  
 **Translation:** 
 
-**[3881.92s] English:** I don't care if you believe me or not, if you're not my problem.  
+**[3881.92s] English:** I don't care if you believe me or not; if you're not my problem.  
 **Translation:** 
 
 **[3886.74s] English:** It's tough.  
@@ -2560,19 +2561,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3887.46s] English:** It's tough.  
 **Translation:** 
 
-**[3888.60s] English:** I don't need approval, but you're surrounded by people older, wiser, better than you.  
+**[3888.60s] English:** I don't need approval, but you're surrounded by people who are older, wiser, and better than you.  
 **Translation:** 
 
 **[3896.50s] English:** And they're kind of directly.  
 **Translation:** 
 
-**[3898.72s] English:** Indirectly or indirectly saying, you stop being silly kid.  
+**[3898.72s] English:** Indirectly or directly, you stop being a silly kid.  
 **Translation:** 
 
-**[3902.24s] English:** No, no one ever told me that because that was not something that I used to say all the time.  
+**[3902.24s] English:** No, no one ever told me that because that was not something I used to say all the time.  
 **Translation:** 
 
-**[3907.66s] English:** I maybe said this very, very few times.  
+**[3907.66s] English:** I may have said this very few times.  
 **Translation:** 
 
 **[3910.74s] English:** I just, well, you know, maybe that's the secret.  
@@ -2581,34 +2582,34 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3912.92s] English:** Of course.  
 **Translation:** 
 
-**[3913.42s] English:** I mean, if you start shouting, then you're just being silly, then it's not what you really want.  
+**[3913.42s] English:** I mean, if you start shouting, then you're just being silly; then it's not what you really want.  
 **Translation:** 
 
-**[3918.18s] English:** Then you saying that for another reasons, if you say it over and over again, because you shouldn't, I mean, why?  
+**[3918.18s] English:** Then you're saying that for other reasons, if you say it over and over again, because you shouldn't. I mean, why?  
 **Translation:** 
 
 **[3924.84s] English:** Well, to push back, one of the reasons you might want to say it.  
 **Translation:** 
 
-**[3928.68s] English:** Is to find the right people that believe in you.  
+**[3928.68s] English:** It is to find the right people who believe in you.  
 **Translation:** 
 
-**[3930.86s] English:** Yeah, but no, if you say over and over again, then it's just, then you're just bragging.  
+**[3930.86s] English:** Yeah, but no, if you say it over and over again, then it's just bragging.  
 **Translation:** 
 
 **[3936.36s] English:** Sure.  
 **Translation:** Vocabulary: bragging: 吹嘘
 
-**[3937.26s] English:** Because one thing is to say it, but the other one is to do it.  
+**[3937.26s] English:** Because one thing is to say it, but the other is to do it.  
 **Translation:** 
 
-**[3942.54s] English:** So it's, you know, you say that once or very few times, but now you have to do it.  
+**[3942.54s] English:** So it's something you say once or very few times, but now you have to do it.  
 **Translation:** 
 
 **[3947.40s] English:** Saying is not helping you get in there.  
 **Translation:** 
 
-**[3950.34s] English:** Was there sacrifices you had to make?  
+**[3950.34s] English:** Were there sacrifices you had to make?  
 **Translation:** 
 
 **[3952.38s] English:** Everything.  
@@ -2635,625 +2636,625 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[3959.62s] English:** Yeah.  
 **Translation:** 
 
-**[3960.00s] English:** career paths yeah everything and as from 14 15 16 as you get better and better and better and  
+**[3960.00s] English:** Career paths, yeah, everything and as you get better and better and better from 14 to 15 to 16.  
 **Translation:** 
 
-**[3969.00s] English:** better it was just becoming sharper the focus on this thing yeah it's just over and over again  
-**Translation:** 
+**[3969.00s] English:** Better, it was just becoming sharper. The focus on this thing—yeah, it's just over and over again.  
+**Translation:** Vocabulary: sharper: 更清晰
 
-**[3975.28s] English:** over and over again it's you know it's just training training training and i mean how many  
+**[3975.28s] English:** Over and over again, it's you know, it's just training, training, training. And I mean, how many?  
 **Translation:** 
 
-**[3982.06s] English:** times i lost i i have no clue so on the mat you were getting beat up i'm getting smashed by  
-**Translation:** 
+**[3982.06s] English:** Times I lost, I have no clue. So on the mat, you were getting beat up, and I was getting smashed by.  
+**Translation:** Vocabulary: smashed: 被砸碎
 
-**[3988.94s] English:** everybody people my age i was chubby i was physically weak i mean i'm tall but physically  
+**[3988.94s] English:** Everybody my age, I was chubby and physically weak. I mean, I'm tall, but physically...  
 **Translation:** 
 
-**[3995.42s] English:** i'm not physically strong i'm normally strong for my size but physically if you want to measure  
-**Translation:** 
+**[3995.42s] English:** I'm not physically strong; I'm normally strong for my size, but physically, if you want to measure.  
+**Translation:** Vocabulary: chubby: 体态丰满的
 
-**[4002.46s] English:** strength i'm weak because you know we can measure strength living with lifting weight i'm weak i  
+**[4002.46s] English:** Strength, I'm weak because, you know, we can measure strength by lifting weights. I'm weak.  
 **Translation:** 
 
-**[4009.68s] English:** don't lift i lift weight same as people much lighter than me everybody my weight lives have  
+**[4009.68s] English:** Don't lift; I lift weights, just like people much lighter than me. Everybody's weight lives have.  
 **Translation:** 
 
-**[4017.24s] English:** heavier weight and then people that train with  
+**[4017.24s] English:** Heavier weight, and then people that train with  
 **Translation:** 
 
-**[4018.88s] English:** you  
+**[4018.88s] English:** You.  
 **Translation:** 
 
-**[4018.92s] English:** you often talk about how strong you are super strong yeah because i generate a lot of strength  
+**[4018.92s] English:** You often talk about how strong you are, super strong, yeah, because I generate a lot of strength.  
 **Translation:** 
 
-**[4024.02s] English:** i can create i i put myself in the right angles so that i can be strong i'm not strong and the  
+**[4024.02s] English:** I can create the right angles to make myself strong, but I'm not strong yet.  
 **Translation:** 
 
-**[4032.24s] English:** only person who i listen to saying that is uh comprito one guy that i fought rodrigo medeiros  
+**[4032.24s] English:** Only person who I listen to saying that is uh, Comprito. One guy that I fought, Rodrigo Medeiros.  
 **Translation:** 
 
-**[4040.10s] English:** i fought him a few times and he's the only one that i heard saying about me that's like no  
-**Translation:** Vocabulary: comprito: 矮个子; rodrigo: 若热
+**[4040.10s] English:** I fought him a few times, and he's the only one I've heard say something like "no.  
+**Translation:** Vocabulary: comprito: 计算好的; rodrigo: 罗德里戈
 
-**[4046.22s] English:** roger's not strong he's not  
+**[4046.22s] English:** Roger's not strong; he's not.  
 **Translation:** 
 
-**[4048.86s] English:** he's technical and he's he can create strength but he's not strong he meant that as a compliment  
+**[4048.86s] English:** He's technical and he can create strength, but he's not strong. He meant that as a compliment.  
 **Translation:** 
 
-**[4054.04s] English:** yeah i think so no i think he was honest because he i think he's the only one who could see that  
+**[4054.04s] English:** Yeah, I think so. No, I think he was honest because I think he's the only one who could see that.  
 **Translation:** 
 
-**[4061.48s] English:** yes so i think that's a compliment so he's technically really strong so you had incredible  
-**Translation:** 
+**[4061.48s] English:** Yes, so I think that's a compliment. So he's technically really strong, so you had an incredible.  
+**Translation:** Vocabulary: technically: 在技术上
 
-**[4066.36s] English:** matches with him yeah is there um insight you have about how you went from a person  
+**[4066.36s] English:** Matches with him, yeah. Is there any insight you have about how you went from a person  
 **Translation:** 
 
-**[4075.48s] English:** uh who was not very good  
+**[4075.48s] English:** Uh, who was not very good.  
 **Translation:** 
 
-**[4078.86s] English:** but had a  
+**[4078.86s] English:** But had a  
 **Translation:** 
 
-**[4080.00s] English:** a dream a confident dream a vision to somebody that was actually good was there something to  
+**[4080.00s] English:** A dream, a confident dream, a vision—to somebody that was actually good: was there something to  
 **Translation:** 
 
-**[4088.66s] English:** the practice sessions were you getting reps on the specific techniques i'd never done anything  
+**[4088.66s] English:** The practice sessions were where we got reps on the specific techniques; I'd never done anything like them before.  
 **Translation:** 
 
-**[4095.00s] English:** special because i mean you know i'm in a gym training equally with everybody else so i've never  
+**[4095.00s] English:** Special because I mean, you know, I'm in a gym training equally with everybody else, so I've never  
 **Translation:** 
 
-**[4099.40s] English:** did anything on the side different than anybody else so you know i was in the school training  
+**[4099.40s] English:** Did I do anything on the side different from anyone else? So, you know, I was in the school training.  
 **Translation:** 
 
-**[4105.78s] English:** exactly the same way as everybody else well in terms of schedule yes but what was can you  
+**[4105.78s] English:** Exactly, the same way as everybody else. Well, in terms of schedule, yes, but what was can you?  
 **Translation:** 
 
-**[4110.70s] English:** reverse engineer what was going through your mind because there's so many different ways to actually  
+**[4110.70s] English:** Reverse-engineer what was going through your mind, because there are so many different ways to actually  
 **Translation:** 
 
-**[4115.48s] English:** mentally approach the same exact training session i'm gonna try to beat you okay so in some part it's  
+**[4115.48s] English:** Mentally approach the same exact training session; I'm gonna try to beat you, okay? So, in some part, it's  
 **Translation:** 
 
-**[4122.50s] English:** competitive yeah like at the core of it is i want to be better than these particular people you're  
+**[4122.50s] English:** Competitive, yeah. Like, at the core of it, I want to be better than these particular people you're.  
 **Translation:** 
 
-**[4129.60s] English:** gonna keep beating me i'm gonna keep coming back at you and to do that i have to solve problems i  
+**[4129.60s] English:** Gonna keep beating me, I'm gonna keep coming back at you. And to do that, I have to solve problems. I  
 **Translation:** 
 
-**[4134.46s] English:** have to figure out how to do stuff  
+**[4134.46s] English:** Have to figure out how to do stuff.  
 **Translation:** 
 
-**[4135.70s] English:** yeah  
+**[4135.70s] English:** Yeah.  
 **Translation:** 
 
-**[4135.76s] English:** you catch me once i'm gonna keep on coming trying to not get get caught that at which point did you  
+**[4135.76s] English:** You catch me, once I'm gonna keep on coming, trying not to get caught. At what point did you?  
 **Translation:** 
 
-**[4143.56s] English:** develop a game that was basically the white the famous white belt game of the very basics the  
+**[4143.56s] English:** Develop a game that was basically like the famous white-belt game, covering the very basics.  
 **Translation:** 
 
-**[4150.22s] English:** very fundamentals of jiu-jitsu like saying i'm going to beat you never there was never there  
+**[4150.22s] English:** Very basic fundamentals of jiu-jitsu, like saying "I'm going to beat you" — never, there was never any such thing.  
 **Translation:** 
 
-**[4158.00s] English:** was never a conscious decision to to try the you know to have a basic jiu-jitsu first i think  
-**Translation:** Vocabulary: fundamentals: 基础
+**[4158.00s] English:** Was never a conscious decision to try, you know, to have a basic jiu-jitsu first; I think.  
+**Translation:** 
 
-**[4164.90s] English:** there's a big miscommunication  
+**[4164.90s] English:** There's a big miscommunication.  
 **Translation:** 
 
-**[4165.68s] English:** there okay my jiu-jitsu is not basic it's not right it's not basic it's not old school  
-**Translation:** Vocabulary: miscommunication: 误解
+**[4165.68s] English:** There, okay. My jiujitsu is not basic; it's not right; it's not basic; it's not old school.  
+**Translation:** Vocabulary: jiujitsu: 柔道; miscommunication: 沟通误解
 
-**[4172.48s] English:** i think people they just don't see that it's extremely complex in a way that is people they  
+**[4172.48s] English:** I think people just don't see that it's extremely complex, in a way that is, people they  
 **Translation:** 
 
-**[4181.82s] English:** cannot copy i teach people you know i can teach you the cross-collar joke but the one thing that  
-**Translation:** 
+**[4181.82s] English:** Cannot copy; I teach people, you know, I can teach you the cross-collared joke, but the one thing that  
+**Translation:** Vocabulary: cannot: 不能
 
-**[4188.40s] English:** people they don't realize is not the move is you need to practice the movement you learn  
+**[4188.40s] English:** People don't realize that it's not just the move; you need to practice the movement you learn.  
 **Translation:** 
 
-**[4195.68s] English:** is the practice over and over again like it took me years  
+**[4195.68s] English:** Is the practice over and over again, like it took me years?  
 **Translation:** 
 
-**[4200.00s] English:** when i say years i'm like years after i was a black belt i was able to choke people out with  
+**[4200.00s] English:** When I say "years," I mean years after I was a black belt, I was able to choke people out with.  
 **Translation:** 
 
-**[4206.86s] English:** a cross-collar choking them out effectively years after i got my black belt so that's something that  
-**Translation:** 
+**[4206.86s] English:** A cross-collar chokeholding them out effectively, years after I got my black belt, so that's something that  
+**Translation:** Vocabulary: chokeholding: 扼颈
 
-**[4212.56s] English:** you learn first day first week so i can teach you it makes no difference you you know the theory  
+**[4212.56s] English:** You learn on the first day, first week, so I can teach you; it makes no difference; you know the theory.  
 **Translation:** 
 
-**[4219.50s] English:** but until you apply it i mean you help you of course the more details you learn you know the  
+**[4219.50s] English:** But until you apply it, I mean, you help—you, of course—get more details, you know.  
 **Translation:** 
 
-**[4224.68s] English:** the more tools you have to practice but it's still very complex because it's not about the  
+**[4224.68s] English:** The more tools you have to practice, but it's still very complex because it's not about the  
 **Translation:** 
 
-**[4231.14s] English:** move itself it's about how can you control the movement of the other person he's resisting you  
-**Translation:** 
+**[4231.14s] English:** Move yourself; it's about how you can control the movement of the other person, who is resisting you.  
+**Translation:** Vocabulary: resisting: 抵抗
 
-**[4237.20s] English:** blocking you cannot predict what he would do and he's doing a whole bunch of moves to to block you  
+**[4237.20s] English:** Blocking, you cannot predict what he would do, and he's doing a whole bunch of moves to block you.  
 **Translation:** 
 
-**[4241.86s] English:** every single move you do a step of the way because it's a is it's a progression of move  
-**Translation:** Vocabulary: cannot: 不能; progression: 进展
+**[4241.86s] English:** Every single move you do, a step of the way, because it's a progression of moves.  
+**Translation:** Vocabulary: progression: 进展
 
-**[4248.50s] English:** from beginning to end till i apply the choke it's a progression of move and there's not one  
+**[4248.50s] English:** From beginning to end, until I apply the choke, it's a progression of moves, and there's not one  
 **Translation:** 
 
-**[4254.50s] English:** way to do it it's a progression of move from beginning to end till i apply the choke  
+**[4254.50s] English:** A way to do it is a progression, moving from beginning to end until I apply the choke.  
 **Translation:** 
 
-**[4254.66s] English:** to get that there's many ways because how many ways can you blocked you can put your arm in every  
+**[4254.66s] English:** To get that, there are many ways because how many ways can you block it? You can put your arm in every way.  
 **Translation:** 
 
-**[4259.92s] English:** single angle we have both arms you can bridge so it's dealing with all that that is the  
+**[4259.92s] English:** Single angle, we have both arms. You can bridge, so it's dealing with all of that.  
 **Translation:** 
 
-**[4264.92s] English:** that is the complex complexity of the position but that goes for everything like every single move  
+**[4264.92s] English:** That is the complex complexity of the position, but that goes for everything—like every single move.  
 **Translation:** 
 
-**[4273.04s] English:** my strong moves i would say it took me years developing them years so it's and you're going  
+**[4273.04s] English:** My strong moves, I would say, it took me years to develop them. Years, so it's and you're going...  
 **Translation:** 
 
-**[4281.26s] English:** to tell me that's basic so go try and do it what the other  
+**[4281.26s] English:** To tell me that's basic? So go try and do it, what the other?  
 **Translation:** 
 
-**[4284.48s] English:** person is defending that's the thing because most of the things that i do i've been doing them for  
+**[4284.48s] English:** The person is defending that's the thing because most of the things I do, I've been doing them for  
 **Translation:** 
 
-**[4290.32s] English:** years and i they know that i'm going to do and i can still get it most of the times that's the  
+**[4290.32s] English:** Years and I, they know that I'm going to do, and I can still get it most of the time—that's the  
 **Translation:** 
 
-**[4297.92s] English:** hardest is when they know what's coming and you can still do it and you said that the way you're  
+**[4297.92s] English:** Hardest is when they know what's coming, and you can still do it. You said that the way you're  
 **Translation:** 
 
-**[4304.98s] English:** able to do that you just have to do it right yeah what do you learn by doing all the steps along the  
+**[4304.98s] English:** Able to do that, you just have to do it right, yeah. What do you learn by doing all the steps along the way?  
 **Translation:** 
 
-**[4313.42s] English:** way and just  
+**[4313.42s] English:** Way, and just.  
 **Translation:** 
 
-**[4314.48s] English:** for people who don't know cross collar choke from the mount so jiu jitsu starts  
+**[4314.48s] English:** For people who don't know, the cross-collar choke from the mount is where jiu-jitsu starts.  
 **Translation:** 
 
-**[4320.00s] English:** a neutral place there's people on their feet and then you either then you get to the ground somehow  
+**[4320.00s] English:** A neutral place: there are people on their feet, and then you either get to the ground somehow.  
 **Translation:** 
 
-**[4324.84s] English:** and then there's the person on top and on bottom and then there's a guard with the legs between the  
+**[4324.84s] English:** And then there's the person on top, and on bottom, and then there's a guard with the legs between the  
 **Translation:** 
 
-**[4329.60s] English:** two people and then you can get past the guard as you get past the guard and you uh into side  
+**[4329.60s] English:** Two people, and then you can get past the guard as you get past the guard, and you're into the side.  
 **Translation:** 
 
-**[4335.72s] English:** control and so on you get more and more and more dominant positions and so mount is considered to  
+**[4335.72s] English:** Control and so on, you get more and more and more dominant positions, and so Mount is considered to  
 **Translation:** 
 
-**[4341.30s] English:** be one of the most dominant positions it's when you're past their legs sitting on top of their  
-**Translation:** 
+**[4341.30s] English:** Be one of the most dominant positions; it's when you're past their legs, sitting on top of their  
+**Translation:** Vocabulary: dominant: 占据优势地位的
 
-**[4346.64s] English:** stomach um putting pressure on them and cross collar choke is using their jacket to um how would  
+**[4346.64s] English:** Stomach: um, putting pressure on them, and a cross-collar choke is using their jacket to, um, how would  
 **Translation:** 
 
-**[4354.10s] English:** you explain that to to have the colors i put my both hands on your colors and when i squeeze it  
-**Translation:** 
+**[4354.10s] English:** You explain that to have the colors, I put both hands on your colors and when I squeeze it.  
+**Translation:** Vocabulary: squeeze: 挤压
 
-**[4361.10s] English:** it's you press your neck so it blocks the vein you go to sleep so it's a you you choke people  
+**[4361.10s] English:** It's where you press your neck so it blocks the vein, you go to sleep, so it's a way you choke people.  
 **Translation:** 
 
-**[4366.78s] English:** with your hands in the wrist you put them you know you grab the collar so you get the wrist  
-**Translation:** 
+**[4366.78s] English:** With your hands on the wrists, you put them there. You know, you grab the collar so you can get a hold of the wrists.  
+**Translation:** Vocabulary: wrists: 手腕
 
-**[4370.92s] English:** around people's neck and you squeeze yeah the discovery of that is fascinating i mean because  
+**[4370.92s] English:** Around people's necks, and you squeeze. Yeah, the discovery of that is fascinating. I mean, because  
 **Translation:** 
 
-**[4375.84s] English:** it's it's interesting  
+**[4375.84s] English:** It's interesting.  
 **Translation:** 
 
-**[4376.62s] English:** it's like um you know you can imagine there's all kinds of ways to choke a human being  
+**[4376.62s] English:** It's like, you know, you can imagine there are all kinds of ways to choke a human being.  
 **Translation:** 
 
-**[4383.12s] English:** what animals do with their like mouth right they put like their jaws around the and the fact that  
+**[4383.12s] English:** What animals do with their mouths, right? They put their jaws around the prey, and the fact that  
 **Translation:** 
 
-**[4390.76s] English:** you can kind of discover this methodology of the right kind of positioning and then it becomes an  
+**[4390.76s] English:** You can kind of discover this methodology of the right kind of positioning, and then it becomes an  
 **Translation:** 
 
-**[4395.12s] English:** art form like of why this why not this right or why not this or something like to figure out  
+**[4395.12s] English:** An art form like this, why not this one instead, or why not something like it—to figure out.  
 **Translation:** Vocabulary: methodology: 方法论
 
-**[4403.08s] English:** we practice that will come easy over time you figure out  
+**[4403.08s] English:** We practice, and that will come easy over time; you'll figure it out.  
 **Translation:** 
 
-**[4406.62s] English:** what works or not you and then and then more further and further details and subtleties start  
-**Translation:** Vocabulary: subtleties: 细微差别
+**[4406.62s] English:** What works or doesn't work, and then more detailed and subtle nuances start to emerge.  
+**Translation:** Vocabulary: nuances: 细微差别; subtle: 微妙的
 
-**[4412.54s] English:** to emerge anyway on that process of beating of being able to beat some of the best people in  
+**[4412.54s] English:** To emerge, anyway, on that process of beating—being able to beat some of the best people in.  
 **Translation:** 
 
-**[4418.54s] English:** the world and the thing they know is coming what is what's the difference between the white belt  
+**[4418.54s] English:** The world and the thing they know is coming — what is the difference between the white belt and  
 **Translation:** 
 
-**[4424.38s] English:** doing that and hydrogracy doing that the thing that's so hard to explain what do you think you're  
+**[4424.38s] English:** Doing that and hydrography: doing that. The thing that's so hard to explain, what do you think you're?  
 **Translation:** 
 
-**[4429.10s] English:** picking up is it some tiny tiny details and muscle movements it is it's uh many tiny details because  
+**[4429.10s] English:** Picking up on that, it's some tiny, tiny details and muscle movements—it is, in fact, many tiny details because  
+**Translation:** Vocabulary: hydrography: 水文测量
+
+**[4436.62s] English:** It is the whole movement itself.  
 **Translation:** 
 
-**[4436.62s] English:** it is is the whole movement itself is  
+**[4440.00s] English:** The perception is important and precise from beginning to end, like every step of that movement.  
+**Translation:** Vocabulary: perception: 感知
+
+**[4446.64s] English:** So, it's true that if you miss just one detail in the way you collapse, so when I say with the black belt,...  
 **Translation:** 
 
-**[4440.00s] English:** the perception from beginning to end like every step of that movement it's important and precise  
+**[4453.36s] English:** The black belt has no control over the whole movement; he's thinking beginning and end, so he...  
+**Translation:** Vocabulary: collapse: 倒塌
+
+**[4459.70s] English:** Goes straight, you know, straight to your neck, regardless of whether he can read the other person.  
 **Translation:** 
 
-**[4446.64s] English:** so it's you know you miss one one detail on the way you collapse so when i say with the black belt  
+**[4464.14s] English:** If it's time to let go, or if it's time to go for a neck (I mean "nec"), should I be pushing?  
 **Translation:** 
 
-**[4453.36s] English:** the black belt has no control over the whole movement he's thinking beginning and end so he  
+**[4469.64s] English:** Here, before I get my hand in, you know, is this the right time to go deep or should I deal with  
 **Translation:** 
 
-**[4459.70s] English:** goes straight you know straight to your neck regardless he cannot read the other person  
+**[4475.46s] English:** This is first, before the second hand that's at the beginning, so it's at the white belt.  
 **Translation:** 
 
-**[4464.14s] English:** if it's you know if it's time to let go if it's the time to go for a neck it should i be pushing  
-**Translation:** Vocabulary: cannot: 不能
-
-**[4469.64s] English:** here before i get my hand in you know is this the right time to go deep or should i deal with  
+**[4479.10s] English:** Yeah, at the very beginning of the journey—like when you're wearing a white belt—you just think you'll finish it quickly.  
 **Translation:** 
 
-**[4475.46s] English:** this first before the second hand that's at the beginning so it's at the white belt  
+**[4484.48s] English:** And then, as you progress, you see that there's like this.  
 **Translation:** 
 
-**[4479.10s] English:** yeah at the very beginning of the journey yeah the white belt you just think finish yeah  
+**[4490.54s] English:** Giant tree of possibilities that you're almost feeling your way down. I mean, would you be able?  
 **Translation:** 
 
-**[4484.48s] English:** and then as you get progressed you see that there's like this  
+**[4497.06s] English:** To teach  
 **Translation:** 
 
-**[4490.54s] English:** giant tree of possibilities that you're almost feeling your way down i mean would you be able  
+**[4497.70s] English:** You.  
 **Translation:** 
 
-**[4497.06s] English:** to teach  
+**[4499.64s] English:** , do you even know what you're doing by the details? Okay, but it's hard to convert into words.  
+**Translation:** Vocabulary: convert: 转换
+
+**[4506.24s] English:** Probably, uh, no, it's possible. Then you don't know what you're doing, okay? So, what are  
 **Translation:** 
 
-**[4497.70s] English:** you  
-**Translation:** 
-
-**[4499.64s] English:** , do you even know what you're doing by the details okay but it's hard to convert into words  
-**Translation:** 
-
-**[4506.24s] English:** probably uh no it's possible then you don't know what you're doing okay uh so what is what what are  
-**Translation:** 
-
-**[4515.40s] English:** some most important details that you could say maybe positioning of the hand the gripping is it  
+**[4515.40s] English:** Some of the most important details that you could say might include the positioning of the hand and the gripping. Is it  
 **Translation:** Vocabulary: gripping: 握持方式
 
-**[4523.40s] English:** the positioning of your body the posture is there some interesting like insights it's a it's a  
+**[4523.40s] English:** The positioning of your body, the posture: is there anything interesting or insightful about it? It's a  
 **Translation:** 
 
-**[4527.96s] English:** combination because  
+**[4527.96s] English:** Combination, because  
 **Translation:** 
 
-**[4529.64s] English:** first you have to put your body in a very strong position that you don't require your hands to  
+**[4529.64s] English:** First, you have to put your body in a very strong position that you don't require your hands to.  
 **Translation:** 
 
-**[4534.54s] English:** hold them out so the choke is that that's first because  
+**[4534.54s] English:** Hold them out so the choke is that it's first, because  
 **Translation:** 
 
-**[4538.94s] English:** it i cannot use i cannot use my hands on the floor to stop you escaping yeah so if i had to my body  
+**[4538.94s] English:** It's impossible for me to use my hands on the floor to stop you from escaping, yeah? So if I had to, my entire body would be needed.  
 **Translation:** 
 
-**[4545.14s] English:** has to handle that the way i position myself i have to do it in a way that don't require my hands  
+**[4545.14s] English:** Has to handle that the way I position myself, I have to do it in a way that doesn't require my hands.  
 **Translation:** 
 
-**[4551.54s] English:** for balance okay why is the mouse at your dominant position it doesn't make any sense right like  
+**[4551.54s] English:** For balance, okay? Why is the mouse at your dominant position? It doesn't make any sense, right? Like,  
 **Translation:** 
 
-**[4556.90s] English:** you're just sitting on top of the stomach of a person it makes all sense  
+**[4556.90s] English:** You're just sitting on top of the stomach of a person, and it makes perfect sense.  
+**Translation:** Vocabulary: dominant: 主要的
+
+**[4559.64s] English:** If you  
 **Translation:** 
 
-**[4559.64s] English:** if you  
+**[4560.00s] English:** Think, what's forgotten? Fighting, Jiu-Jitsu—like you've never trained was the.  
 **Translation:** 
 
-**[4560.00s] English:** think what's forgot forget fighting forget jiu-jitsu like you've never trained was the  
+**[4566.00s] English:** One position is the most dominant position you can get over another human being—one of the most.  
 **Translation:** 
 
-**[4566.00s] English:** one position the most dominant position you can get over another human being one the most  
+**[4573.98s] English:** For you, which one is the most dominant position that you can get over another human being?  
 **Translation:** 
 
-**[4573.98s] English:** for you which one it is like the most dominant position that you can get over another human being  
+**[4581.56s] English:** So, if we were just to put myself in a six, seven, or eight.  
 **Translation:** 
 
-**[4581.56s] English:** so if we were just because the way i think about it is putting myself in like a six seven eight  
-**Translation:** 
-
-**[4587.86s] English:** year old self without knowing any martial arts and i had an older brother who beat the shit out  
+**[4587.86s] English:** Year-old self, without knowing any martial arts, and I had an older brother who beat the shit out of me.  
 **Translation:** Vocabulary: martial: 武术
 
-**[4592.72s] English:** of me um yeah it probably was mount it what but well yes okay so we both didn't know but if we  
+**[4592.72s] English:** Of me, um, yeah, it probably was mounted, but well, yes, okay, so we both didn't know, but if we  
 **Translation:** 
 
-**[4603.78s] English:** knew something it'd probably be back control if in the back control you're under the other person  
+**[4603.78s] English:** Knew something; it'd probably be back control, if in the back control, you're under the other person.  
 **Translation:** 
 
-**[4608.50s] English:** the thing being under is the most dominant position it can be over another person  
+**[4608.50s] English:** The thing being in the most dominant position can be over another person.  
 **Translation:** 
 
-**[4612.00s] English:** you mean like a back control if i'm on your back oh like that you can  
+**[4612.00s] English:** You mean like a back control, if I'm on your back? Oh, like that, you can...  
 **Translation:** 
 
-**[4617.76s] English:** move  
+**[4617.76s] English:** Move.  
 **Translation:** 
 
-**[4617.86s] English:** you can roll i cannot stop you rolling yeah you maybe you can even stand up how dominant is that  
+**[4617.86s] English:** You can roll; I cannot stop you from rolling, yeah. You maybe you can even stand up—how dominant is that?  
 **Translation:** Vocabulary: cannot: 不能
 
-**[4624.24s] English:** yeah but if we're the same size both untrained if it doesn't matter have you seen kids do they do  
+**[4624.24s] English:** Yeah, but if we're the same size and both untrained, if it doesn't matter, have you seen kids do? They do.  
 **Translation:** 
 
-**[4630.16s] English:** that okay mount looks and feels like dominance when you're two eight-year-olds fighting okay i  
-**Translation:** Vocabulary: dominance: 支配地位
+**[4630.16s] English:** That's okay; Mount looks and feels like dominance when you're two 8-year-olds fighting, okay?  
+**Translation:** Vocabulary: dominance: 优势
 
-**[4638.16s] English:** don't know i don't know why it feels that way it could be some animalistic thing maybe it is actual  
+**[4638.16s] English:** Don't know. I don't know why it feels that way. It could be some animalistic thing, maybe it is.  
 **Translation:** 
 
-**[4642.64s] English:** dominance i don't know but it feels like if you're untrained you can just buck your way out of it it  
-**Translation:** Vocabulary: animalistic: 动物本能
+**[4642.64s] English:** Dominance, I don't know, but it feels like if you're untrained, you can just buck your way out of it.  
+**Translation:** Vocabulary: animalistic: 像动物一样的
 
-**[4647.76s] English:** feels unstable it feels unstable to hold them out unless you know what you're doing right no if you  
+**[4647.76s] English:** Feels unstable. It feels unstable to hold them out, unless you know what you're doing, right? No, if you  
 **Translation:** 
 
-**[4653.52s] English:** if you want to put both of your hands on the floor yeah just your hands just think it's easy to take  
+**[4653.52s] English:** If you want to put both of your hands on the floor, yeah, just your hands. Just think it's easy to take.  
 **Translation:** Vocabulary: unstable: 不稳固
 
-**[4658.64s] English:** somebody off yeah maybe not do you think it's easy to remove the hand and bring them out the  
+**[4658.64s] English:** Somebody off, yeah, maybe not. Do you think it's easy to remove the hand and bring them out?  
 **Translation:** 
 
-**[4664.64s] English:** hands on the floor i'm straight i'm leaning in yeah you're right it's hard i mean you don't need  
+**[4664.64s] English:** Hands on the floor, I'm straight. I'm leaning in. Yeah, you're right; it's hard. I mean, you don't need  
+**Translation:** Vocabulary: leaning: 倾斜
+
+**[4670.56s] English:** To know fighting, to hold yourself: that's yeah, but you're right. When you take the arms off and balance, then it gets  
 **Translation:** 
 
-**[4670.56s] English:** to know fighting to hold yourself that yeah but you're right when you take the arms off and balancing then it gets  
+**[4677.76s] English:** Tricky is when you're trying to.  
+**Translation:** Vocabulary: tricky: 棘手的
+
+**[4680.00s] English:** I think what happens; I'm thinking back to when I was eight years old, because my brother is five years younger.  
 **Translation:** 
 
-**[4677.76s] English:** tricky is when you're trying to  
-**Translation:** Vocabulary: balancing: 保持平衡
-
-**[4680.00s] English:** I think what happens, I'm thinking back to eight-year-old, because my brother's five years  
+**[4685.68s] English:** Older than me, and he would do the usual, like, stop hitting yourself. And I think he would.  
 **Translation:** 
 
-**[4685.68s] English:** older than me, and he would do the usual, like, stop hitting yourself thing. And I think he would  
+**[4690.34s] English:** Be in Mount, like, hitting me with my own hands, out of place of love, of course. I love him.  
 **Translation:** 
 
-**[4690.34s] English:** be in mount, like, hitting me with my own hands, out of place of love, of course. I love him  
+**[4697.72s] English:** Deeply, and it was a very formative and positive experience for me. Okay, I think. Yeah.  
 **Translation:** 
 
-**[4697.72s] English:** deeply, and it was a very formative and positive experience for me. Okay, I think, yeah, the  
+**[4704.52s] English:** Weakness is when he takes, well, when the person who has you in a mount takes their arms off to.  
 **Translation:** 
 
-**[4704.52s] English:** weakness is when he takes, well, when the person who has you in mount takes their arms off to  
+**[4710.88s] English:** Do something. But even if you keep your hands up in the air, when I'm falling? Yeah, you can.  
 **Translation:** 
 
-**[4710.88s] English:** do something. But even if you keep your hands up in the air, when I'm falling? Yeah, you can. When  
+**[4716.94s] English:** I'm falling? So, I'm speaking about untrained people. I feel like they get greedy. They try,...  
 **Translation:** 
 
-**[4716.94s] English:** I'm falling? So. I'm speaking about untrained people. I feel like they get greedy. They try  
+**[4722.94s] English:** To do stuff, the other day, I watched my nine-year-old daughter. Yeah, we're in a friend's.  
 **Translation:** 
 
-**[4722.94s] English:** to do stuff. The other day, I watched my nine-year-old daughter. Yeah. We're in a friend's  
+**[4727.66s] English:** House. There's a whole bunch of kids there. They're playing. And when I looked, she was mounting.  
 **Translation:** 
 
-**[4727.66s] English:** house. There's a whole bunch of kids there. They're playing. And when I looked, she's mounting  
+**[4733.62s] English:** The boy. Hurry.  
 **Translation:** 
 
-**[4733.62s] English:** the boy. Hurry.  
-**Translation:** Vocabulary: mounting: 骑在某人身上
-
-**[4734.52s] English:** Her feet, her thighs. He cannot escape. Wow. She's probably seen some footage. No, she trained. She's been training for, I would say, a year and a half. Okay. But she's not much. I mean, she's a nine-year-old daughter, a girl over a boy. Has she seen footage of you? Maybe she picked up from that. No, but she's been training for a year and a half, so she has an idea of what mount is. But, I mean, it tells about skills. I don't never taught her the mount. Yeah. She has, you know, she had lessons at the academy, like any other kid.  
+**[4734.52s] English:** Her feet, her thighs. He cannot escape. Wow. She's probably seen some footage. No, she trained. She's been training for, I would say, a year and a half. Okay. But she's not much. I mean, she's a nine-year-old daughter—a girl over a boy. Has she seen footage of you? Maybe she picked up from that. No, but she's been training for a year and a half, so she has an idea of what mount is. But, I mean, it tells about skills—I don't never taught her the mount. Yeah. She has, you know, had lessons at the academy like any other kid.  
 **Translation:** 
 
 **[4763.76s] English:** Did she make them?  
-**Translation:** Vocabulary: cannot: 不能
+**Translation:** Vocabulary: cannot: 不能; thighs: 大腿
 
-**[4764.52s] English:** No, but he couldn't escape. Which other position would she be able to hold that boy? In the back, he would roll it out. That's true. He couldn't come out from underneath her. They're kids. There is no other most dominant position that you can pin the other person. Couldn't you argue from that perspective, side control? No. No? Because side control, you have to hold the other person. And you're not free. You can't  
+**[4764.52s] English:** No, but he couldn't escape. Which other position would she be able to hold that boy? In the back, he would roll it out. That's true. He couldn't come out from underneath her. They're kids. There is no other most dominant position that you can pin the other person. Couldn't you argue from that perspective—side control? No. No? Because side control, you have to hold the other person, and you're not free. You can't  
 **Translation:** 
 
 **[4794.52s] English:** But in side control, your hips are not on top of theirs.  
+**Translation:** Vocabulary: dominant: 主导; underneath: 在下方
+
+**[4800.00s] English:** So, they can't buck you off, right? Because if you're holding them a little bit.  
 **Translation:** 
 
-**[4800.00s] English:** so they can't buck you off right because you if you're holding them a little bit  
+**[4807.86s] English:** And they get him with one hand, but his head is here; you're gonna hurt him there.  
 **Translation:** 
 
-**[4807.86s] English:** and they get him with one hand but his head is here you're gonna hurt him here  
+**[4813.68s] English:** But the time you're doing that, but then he has his arms free, and if you turn...  
 **Translation:** 
 
-**[4813.68s] English:** but the time you're doing that but then he has his arms free and if you turn  
+**[4818.24s] English:** Towards your legs, then he's away from your arms. You know, even has the perfect.  
 **Translation:** 
 
-**[4818.24s] English:** towards your legs then he's away from your arms you know even has the perfect  
+**[4823.46s] English:** Angle; I mean, it is a good position—you can hit, you can dominate, but it's not  
 **Translation:** 
 
-**[4823.46s] English:** angle I mean it is a good position you can hit you can dominate but it's not  
+**[4828.00s] English:** The best position to be over the other person; he can knee you in the head at any moment.  
+**Translation:** Vocabulary: dominate: 控制
+
+**[4834.68s] English:** The same time you punch him, then there's a knee coming to your head. I love playing.  
 **Translation:** 
 
-**[4828.00s] English:** the best position to be over the other person he can knee you in the head at  
-**Translation:** Vocabulary: dominate: 占据优势
-
-**[4834.68s] English:** the same time you punch him then there's a knee coming to your head I love playing  
-**Translation:** 
-
-**[4838.86s] English:** devil's advocate with hadja grace about two eight-year-olds fighting you and you  
+**[4838.86s] English:** Devil's advocate with Hadja Grace about two 8-year-olds fighting, you and you.  
 **Translation:** Vocabulary: advocate: 辩护者
 
-**[4843.18s] English:** your head is closer to his hand yeah maybe he can give throw you a punch all  
+**[4843.18s] English:** Your head is closer to his hand, yeah. Maybe he can give you a punch. All  
 **Translation:** 
 
-**[4847.56s] English:** right so we do two would you choose to be inside control of a month getting in  
+**[4847.56s] English:** Right, so we do two. Would you choose to be inside, controlling it for a month, getting in?  
 **Translation:** 
 
-**[4852.54s] English:** the head well for a person who in competition prefers knee on belly over  
+**[4852.54s] English:** The headlock, for a person who in competition prefers knee on belly over  
 **Translation:** 
 
-**[4856.98s] English:** mouth  
+**[4856.98s] English:** Mouth  
+**Translation:** Vocabulary: headlock: 头部锁住
+
+**[4858.00s] English:** But that's my weakness, that's my failures—like a human being holding mountains.  
 **Translation:** 
 
-**[4858.00s] English:** but that's my weakness that's my failures a human being holding mountains  
+**[4862.54s] English:** It can be tricky; it's very hard, of course. But what is easy? I  
+**Translation:** Vocabulary: tricky: 棘手的
+
+**[4868.94s] English:** Control and knee on belly is easier, but to see your belly is easy. I'm not.  
 **Translation:** 
 
-**[4862.54s] English:** is can be tricky it's very hard of course it's hard but what is easy I  
+**[4875.34s] English:** Saying "black," but let's level; I'm saying, or maybe even "black." But let's say for what?  
 **Translation:** 
 
-**[4868.94s] English:** control and knee on belly is easier but to see your belly is easy easier I'm not  
+**[4879.32s] English:** To hold somebody to make them squirm and hurt to create an opening—I'm gonna do that.  
 **Translation:** 
 
-**[4875.34s] English:** saying black but level I'm saying or maybe even black but let's say for what  
-**Translation:** 
-
-**[4879.32s] English:** to hold somebody to make them squirm and hurt to create opening I'm gonna do that  
-**Translation:** 
-
-**[4886.52s] English:** was a big guy yeah  
+**[4886.52s] English:** Was a big guy, yeah.  
 **Translation:** Vocabulary: squirm: 扭动
 
-**[4888.00s] English:** you can't you can't yeah he's gonna push you back and come up in the mount he can't sit up  
+**[4888.00s] English:** You can't, you can't. Yeah, he's gonna push you back and come up in the mount. He can't sit up.  
 **Translation:** 
 
-**[4895.20s] English:** not when you mounted him the thing is also about mount is people on the bottom of mount panic more  
+**[4895.20s] English:** Not when you mounted him; the thing is, it's also about people at the bottom of Mount Panic more.  
+**Translation:** Vocabulary: mounted: 骑在...身上
+
+**[4901.20s] English:** So, they fight, they panic, and they expose. Yeah, it's the most exposure you can get.  
 **Translation:** 
 
-**[4901.20s] English:** so they fight they panic they they expose yeah it's the most exposure you you have  
-**Translation:** 
-
-**[4908.72s] English:** because the post arms are free you cannot touch him his head is too high there's nothing he can  
-**Translation:** 
-
-**[4915.44s] English:** do his legs won't get you anywhere he might touch your lower back it's like nothing  
-**Translation:** 
-
-**[4920.00s] English:** you do you do you most expose being in the mouth already you hold me side  
-**Translation:** 
-
-**[4926.28s] English:** control a thousand times the amount of me having to look up with your face come  
-**Translation:** 
-
-**[4930.50s] English:** down yeah side control I hug you you cannot hurt me okay you hold me but I'm  
-**Translation:** 
-
-**[4938.22s] English:** hugging you if I hug you tight what can you do against me hold it seems maybe  
-**Translation:** 
-
-**[4944.00s] English:** it's just from and again I'm arguing just for the fun of it but it seems like  
-**Translation:** 
-
-**[4951.26s] English:** a more difficult skill to learn to apply a huge amount of pressure and weight  
-**Translation:** 
-
-**[4957.86s] English:** from out you don't have to apply pressure and weight from out or not  
-**Translation:** 
-
-**[4962.12s] English:** apply pressure but be heavy right you don't necessarily need to be heavy you  
-**Translation:** 
-
-**[4966.98s] English:** don't know what why do you as people say you feel extremely heavy if I'm putting  
-**Translation:** 
-
-**[4973.88s] English:** you in a situation where you feel extremely heavy if I'm putting you in a  
-**Translation:** 
-
-**[4973.98s] English:** situation where you feel extremely heavy if I'm putting you in a situation  
-**Translation:** 
-
-**[4974.00s] English:** if I'm being heavy I cannot attack I guess I have to choose I can be heavy  
-**Translation:** 
-
-**[4980.54s] English:** if I'm being heavy I cannot attack I guess I have to choose I can be heavy  
+**[4908.72s] English:** Because the post arms are free, you cannot touch him; his head is too high, and there's nothing he can do about it.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[4980.56s] English:** if I'm being heavy I cannot attack I guess I have to choose I can be heavy just to panel I you know just to pin them  
+**[4915.44s] English:** Do his legs won't get you anywhere; he might touch your lower back—it's like nothing.  
 **Translation:** 
 
-**[4985.14s] English:** just to panel I you know just to pin them  
+**[4920.00s] English:** You do, you do, you mostly expose yourself when you're in my mouth. Already, you hold me by the side.  
 **Translation:** 
 
-**[4985.16s] English:** just to panel I you know just to pin them take the energy out not to make them  
+**[4926.28s] English:** Control a thousand times the amount; make sure I don't have to look up, with your face coming close.  
 **Translation:** 
 
-**[4987.22s] English:** take the energy out not to make them  
+**[4930.50s] English:** Down, yeah. Side control. I hug you; you cannot hurt me, okay? You hold me, but I'm  
 **Translation:** 
 
-**[4987.24s] English:** take the energy out not to make them suffer but the moment that I decide to  
+**[4938.22s] English:** Hugging you, if I hug you tight, what can you do against me? Hold it. Seems maybe.  
 **Translation:** 
 
-**[4989.50s] English:** suffer but the moment that I decide to  
+**[4944.00s] English:** It's just from, and again, I'm arguing just for the fun of it, but it seems like  
+**Translation:** Vocabulary: hugging: 拥抱
+
+**[4951.26s] English:** A more difficult skill to learn is applying a huge amount of pressure and weight.  
 **Translation:** 
 
-**[4989.52s] English:** suffer but the moment that I decide to attack I can only be having if I'm  
+**[4957.86s] English:** From out, you don't have to apply pressure or weight.  
 **Translation:** 
 
-**[4992.10s] English:** attack I can only be having if I'm  
+**[4962.12s] English:** Apply pressure, but be heavy, right? You don't necessarily need to be heavy, you.  
 **Translation:** 
 
-**[4992.12s] English:** attack I can only be having if I'm sitting up straight that's when my all my  
+**[4966.98s] English:** Don't know what you mean by saying you feel extremely heavy if I'm putting.  
 **Translation:** 
 
-**[4994.82s] English:** sitting up straight that's when my all my  
+**[4973.88s] English:** You're in a situation where you feel extremely heavy. If I'm putting you in a  
 **Translation:** 
 
-**[4994.84s] English:** weight can drop down if i'm high then i'm sitting on your chest and on your on your solar plexus  
+**[4973.98s] English:** Situation where you feel extremely heavy, if I'm putting you in a situation.  
 **Translation:** 
 
-**[5000.00s] English:** that's the worst position to be seated on the person because that's where he breathed so you're  
+**[4974.00s] English:** If I'm being heavy, I cannot attack. I guess I have to choose: I can be heavy.  
+**Translation:** 
+
+**[4980.54s] English:** If I'm being heavy, I cannot attack. I guess I have to choose: I can be heavy.  
+**Translation:** 
+
+**[4980.56s] English:** If I'm being heavy, I cannot attack. I guess I have to choose: I can be heavy just to panel or pin them.  
+**Translation:** 
+
+**[4985.14s] English:** Just to pin them, panel I, you know.  
+**Translation:** 
+
+**[4985.16s] English:** Just to pin them, I mean, just to take the energy out, not to make them.  
+**Translation:** 
+
+**[4987.22s] English:** Take the energy out, not to make them.  
+**Translation:** 
+
+**[4987.24s] English:** Take the energy out, not to make them suffer, but the moment that I decide to.  
+**Translation:** 
+
+**[4989.50s] English:** Suffer, but the moment that I decide to  
+**Translation:** 
+
+**[4989.52s] English:** Suffer, but the moment that I decide to attack, I can only be having...  
+**Translation:** 
+
+**[4992.10s] English:** Attack; I can only be having if I'm  
+**Translation:** 
+
+**[4992.12s] English:** Attack; I can only be having if I'm sitting up straight. That's when all my.  
+**Translation:** 
+
+**[4994.82s] English:** Sitting up straight, that's when my back starts to hurt.  
+**Translation:** 
+
+**[4994.84s] English:** Weight can drop down if I'm high, then I'm sitting on your chest and on your solar plexus.  
+**Translation:** 
+
+**[5000.00s] English:** That's the worst position to be seated on the person, because that's where he breathed, so you're  
 **Translation:** Vocabulary: plexus: 膻中穴
 
-**[5005.44s] English:** in a high mount sitting up straight that's when you can i can be very heavy i can make people  
+**[5005.44s] English:** In a high-mount sitting up straight, that's when I can be very heavy; I can make people  
 **Translation:** 
 
-**[5010.78s] English:** you know feel my weight and you know be very uncomfortable but i'm not in a position to attack  
+**[5010.78s] English:** You know, feeling my weight and being very uncomfortable, but I'm not in a position to attack.  
 **Translation:** 
 
-**[5015.66s] English:** the moment that i want to attack my body has to lean forward i have to approach the you know the  
+**[5015.66s] English:** The moment I want to attack, my body has to lean forward; I have to approach, you know,  
 **Translation:** 
 
-**[5020.62s] English:** neck or the arms the moment that i do that my weight comes off my hips it goes to my knees  
+**[5020.62s] English:** Neck or the arms: the moment that I do that, my weight comes off my hips and goes to my knees.  
 **Translation:** 
 
-**[5025.96s] English:** the weight is off you but at that point if you have now i'm attacking i'm no longer heavy on you  
+**[5025.96s] English:** The weight is off you, but at that point, if I'm now attacking, I'm no longer heavy on you.  
 **Translation:** 
 
-**[5032.26s] English:** but you want to be at that point to remove any of the defenses they have or  
+**[5032.26s] English:** But you want to be at that point to remove any of their defenses, or  
 **Translation:** 
 
-**[5036.20s] English:** some of the defenses by getting there now i'm like either get  
+**[5036.20s] English:** Some of the defenses, by getting there now. I'm like, either get  
 **Translation:** 
 
-**[5040.00s] English:** and trying to get your collar or bringing your elbow across to attack the arm lock.  
+**[5040.00s] English:** And trying to get your collar or bringing your elbow across to attack the arm lock.  
 **Translation:** 
 
-**[5043.66s] English:** So what are some interesting details along the way that are tough to get, to figure out?  
+**[5043.66s] English:** So, what are some interesting details along the way that are tough to get and figure out?  
 **Translation:** 
 
-**[5048.12s] English:** What were the big leaps for you from white belt to the best in the world?  
+**[5048.12s] English:** What were the big leaps for you, from white belt to the best in the world?  
 **Translation:** 
 
 **[5054.96s] English:** You're trying to attack the neck, you know, putting one hand in the collar.  
 **Translation:** 
 
-**[5058.24s] English:** You're priving yourself that hand to place it on the floor.  
+**[5058.24s] English:** You're privating yourself of that hand to place it on the floor.  
+**Translation:** Vocabulary: privating: 剥夺自己
+
+**[5061.04s] English:** So now you're vulnerable to getting breached, to being rolled over.  
 **Translation:** 
 
-**[5061.04s] English:** So now you're vulnerable to get breached, to get rolled over.  
-**Translation:** 
+**[5063.72s] English:** Because, if your hands are free and trying to roll you over, you'll be stopped.  
+**Translation:** Vocabulary: breached: 被攻击; vulnerable: 易受攻击
 
-**[5063.72s] English:** Because if your hands are free trying to roll you over, you're stopped.  
-**Translation:** Vocabulary: breached: 被攻击
-
-**[5066.50s] English:** The moment that you put your hand in the person's collar, now you have to be very careful with your body positioning.  
+**[5066.50s] English:** The moment you put your hand in the person's collar, now you have to be very careful with your body positioning.  
 **Translation:** 
 
 **[5073.28s] English:** Very careful.  
@@ -3262,22 +3263,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5073.74s] English:** The distribution of the weight.  
 **Translation:** 
 
-**[5075.16s] English:** Yeah, and how, you know, how high you sit, you know, how tall your upper body goes.  
+**[5075.16s] English:** Yeah, and how, you know, how high you sit; you know, how tall your upper body goes.  
 **Translation:** 
 
-**[5081.28s] English:** And then the biggest challenge comes as you're trying the second hand.  
+**[5081.28s] English:** And then, the biggest challenge comes when you're trying the second hand.  
 **Translation:** 
 
-**[5085.34s] English:** That's the, you know, for the choke, that's the biggest challenge, the second hand.  
+**[5085.34s] English:** That's the, you know, for the choke, that's the biggest challenge: the second hand.  
 **Translation:** 
 
 **[5090.02s] English:** Because you already have, you know, you already don't have one hand.  
 **Translation:** 
 
-**[5093.84s] English:** Now you are trying the second.  
+**[5093.84s] English:** Now, you are trying the second one.  
 **Translation:** 
 
-**[5096.70s] English:** And if one of my hand is in, you are defending yourself.  
+**[5096.70s] English:** And if one of my hands is in, you are defending yourself.  
 **Translation:** 
 
 **[5103.38s] English:** You have two hands.  
@@ -3310,7 +3311,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5123.80s] English:** But I also have two hands.  
 **Translation:** 
 
-**[5126.50s] English:** On the bottom, I have two hands and I can also turn and do all kinds of stuff.  
+**[5126.50s] English:** On the bottom, I have two hands, and I can also turn and do all kinds of stuff.  
 **Translation:** 
 
 **[5130.64s] English:** Yeah.  
@@ -3331,13 +3332,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5137.56s] English:** Very hard.  
 **Translation:** 
 
-**[5138.58s] English:** Is there an art to getting the first hand into a place where you…  
+**[5138.58s] English:** Is there an art to getting your first hand into a place where you...?  
 **Translation:** 
 
 **[5142.72s] English:** It's less of an art because it's easier.  
 **Translation:** 
 
-**[5145.68s] English:** I would say most times I get my first hand in is when you're trying some move.  
+**[5145.68s] English:** I would say that most of the time, I get my first hand in is when you're trying some move.  
 **Translation:** 
 
 **[5151.16s] English:** You're trying to escape.  
@@ -3346,37 +3347,37 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5152.08s] English:** You're pushing.  
 **Translation:** 
 
-**[5153.30s] English:** I get the first hand in as an opportunity.  
+**[5153.30s] English:** I get the firsthand in as an opportunity.  
 **Translation:** 
 
 **[5156.50s] English:** And it's going to sit there for a while.  
 **Translation:** 
 
-**[5159.26s] English:** And then…  
+**[5159.26s] English:** And then...  
 **Translation:** 
 
-**[5159.68s] English:** And…  
+**[5159.68s] English:** And...  
 **Translation:** 
 
 **[5160.00s] English:** I go as deep as I can.  
 **Translation:** 
 
-**[5161.42s] English:** So the first hand, because the second hand is the hardest,  
+**[5161.42s] English:** So, the first hand is because the second hand is the hardest.  
 **Translation:** 
 
 **[5164.68s] English:** I have to compensate the first hand to be as deep as I can.  
 **Translation:** Vocabulary: compensate: 弥补
 
-**[5168.36s] English:** If I cannot get the first hand in deep, I won't try the second.  
+**[5168.36s] English:** If I cannot get the first-hand information in depth, I won't try the second.  
 **Translation:** 
 
-**[5173.08s] English:** I need that first hand deep, then I go for the second.  
+**[5173.08s] English:** I need that first-hand information, deep, then I'll go for the second.  
 **Translation:** 
 
-**[5175.72s] English:** And it's deep and everything is super tight?  
+**[5175.72s] English:** And it's deep, and everything is super tight?  
 **Translation:** 
 
-**[5178.62s] English:** Super tight.  
+**[5178.62s] English:** Super tight!  
 **Translation:** 
 
 **[5179.68s] English:** The first hand has to be super tight.  
@@ -3385,37 +3386,37 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5181.62s] English:** Otherwise, the chance of failing is very big.  
 **Translation:** 
 
-**[5185.04s] English:** Does the opponent usually feel like they're screwed at that point also?  
+**[5185.04s] English:** Does the opponent usually feel like they're screwed at that point, too?  
 **Translation:** 
 
 **[5188.18s] English:** Not as you put the first hand in.  
+**Translation:** Vocabulary: opponent: 对手
+
+**[5190.64s] English:** The moment that I position myself just prior to attempting the second hand,  
 **Translation:** 
 
-**[5190.64s] English:** The moment that I position myself just prior to attempt the second hand,  
+**[5196.34s] English:** I think the way my body is positioned, the way I'm collapsing under my weight,  
+**Translation:** Vocabulary: collapsing: 垮下来
+
+**[5201.20s] English:** And they feel like this is terrible.  
 **Translation:** 
 
-**[5196.34s] English:** I think the way my body is positioned, the way I'm collapsing with my weight,  
-**Translation:** Vocabulary: collapsing: 体重下垂
+**[5205.54s] English:** How long did it take you to figure out how to reposition your weight?  
+**Translation:** Vocabulary: reposition: 重新定位
 
-**[5201.20s] English:** and they feel like this is terrible.  
-**Translation:** 
-
-**[5205.54s] English:** How long did it take you to figure out how to reposition your weight  
-**Translation:** 
-
-**[5208.30s] English:** once the first hand is in?  
+**[5208.30s] English:** Once the first hand is in?  
 **Translation:** 
 
 **[5210.38s] English:** Very quickly, because I get breached out.  
-**Translation:** Vocabulary: breached: 被攻破
+**Translation:** Vocabulary: breached: 被突破
 
-**[5213.90s] English:** So there's a good feedback loop there.  
+**[5213.90s] English:** So, there's a good feedback loop there.  
 **Translation:** 
 
-**[5216.14s] English:** Because one mistake you're out.  
+**[5216.14s] English:** Because one mistake, and you're out.  
 **Translation:** 
 
-**[5218.18s] English:** One off positioning, you're out.  
+**[5218.18s] English:** One-off positioning: you're out.  
 **Translation:** 
 
 **[5222.34s] English:** But you still have to do that against the best people in the world.  
@@ -3427,40 +3428,40 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5228.26s] English:** If you were in Mount against Bouchesha,  
 **Translation:** 
 
-**[5230.66s] English:** or some of the best defenses in the world?  
+**[5230.66s] English:** Or is it one of the best defenses in the world?  
 **Translation:** 
 
-**[5234.44s] English:** The way out is to defend themselves  
+**[5234.44s] English:** The way out is for them to defend themselves.  
 **Translation:** 
 
-**[5238.54s] English:** and prevent the first hand to get deep.  
+**[5238.54s] English:** And prevent the first hand from getting deep.  
 **Translation:** 
 
-**[5242.30s] English:** And I'll say the best thing that they could do  
+**[5242.30s] English:** And I'll say: the best thing that they could do.  
 **Translation:** 
 
-**[5246.58s] English:** is try to...  
+**[5246.58s] English:** Is it trying to...?  
 **Translation:** 
 
-**[5248.18s] English:** change my positioning on the mount  
+**[5248.18s] English:** Change my positioning on the mountain.  
 **Translation:** 
 
-**[5250.94s] English:** in a way that, you know, push me to a very low mount.  
+**[5250.94s] English:** In a way that, you know, it pushed me to a very low point.  
 **Translation:** 
 
-**[5253.94s] English:** You know, try to change the way I'm dominating you,  
-**Translation:** Vocabulary: dominating: 控制
-
-**[5257.94s] English:** not to be, you know, get me off the high mount, pretty much.  
+**[5253.94s] English:** You know, try to change the way I'm dominating you.  
 **Translation:** 
 
-**[5260.94s] English:** Are you always, is it a slow, is it a fast thing to go from low to fast mount?  
+**[5257.94s] English:** Not to be, you know, get me off the high mount, pretty much.  
+**Translation:** 
+
+**[5260.94s] English:** Are you always a slow thing to go from low to fast mount? Is it a fast thing?  
 **Translation:** 
 
 **[5264.94s] English:** Slow, slow, slow.  
 **Translation:** 
 
-**[5265.94s] English:** A high mount.  
+**[5265.94s] English:** A high mountain.  
 **Translation:** 
 
 **[5266.94s] English:** Slow, very slow.  
@@ -3475,13 +3476,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5269.94s] English:** And the arms need to come out.  
 **Translation:** 
 
-**[5271.94s] English:** It's a slow, it's a slow process.  
+**[5271.94s] English:** It's a slow, slow process.  
 **Translation:** 
 
 **[5273.94s] English:** Okay.  
 **Translation:** 
 
-**[5274.94s] English:** And you just, is there like a...  
+**[5274.94s] English:** And you just: Is there like a...  
 **Translation:** 
 
 **[5276.94s] English:** Yeah.  
@@ -3493,83 +3494,83 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5278.94s] English:** So I use my legs against your arms.  
 **Translation:** 
 
-**[5280.00s] English:** yeah so it's my legs pushing your arms but how do you get them how do you get your legs into the  
+**[5280.00s] English:** Yeah, so it's my legs pushing your arms, but how do you get them? How do you get your legs into the  
 **Translation:** 
 
-**[5286.02s] English:** elbows as long as this you know it has to come under the tip of your elbow because now the legs  
+**[5286.02s] English:** Elbows as long as this, you know, it has to come under the tip of your elbow because now the legs...  
+**Translation:** Vocabulary: elbows: 肘关节
+
+**[5291.92s] English:** Will start forcing your arms up, so your legs aren't like spread out there; no, they're in your  
 **Translation:** 
 
-**[5291.92s] English:** will start forcing your arms up so your legs aren't like spread out there no they're in your  
+**[5297.12s] English:** Elbow cannot get inside my leg because, that means I'm in a very low position, and then I  
 **Translation:** 
 
-**[5297.12s] English:** elbow cannot get inside my leg because because that means i'm in a very low amount and then i  
+**[5304.16s] English:** Cannot attack because I cannot ignore that; the moment I attack, that will  
+**Translation:** 
+
+**[5308.50s] English:** It will start pushing my leg to push me up. What's the secret to getting the second hand in?  
 **Translation:** Vocabulary: cannot: 不能
 
-**[5304.16s] English:** cannot attack because i cannot ignore that because the moment that i attack that will  
+**[5314.20s] English:** There are two ways: either you go four fingers inside, which is the hardest because the moment  
 **Translation:** 
 
-**[5308.50s] English:** it will start pushing my leg to push me up what's the secret to getting the second hand in  
+**[5320.18s] English:** That your two hands are defending; you'll be blocking the way, and I cannot.  
 **Translation:** 
 
-**[5314.20s] English:** there's two ways either you go four fingers inside which is the hardest because the moment  
+**[5327.64s] English:** Clear and attack, two hands against one. So I go with my thumb and I go behind the ear, yeah. So my grip...  
 **Translation:** 
 
-**[5320.18s] English:** that your two hands are defending you'll be blocking the the you know the way and i cannot  
+**[5336.16s] English:** Because, for you to defend,...  
 **Translation:** 
 
-**[5327.64s] English:** clear and attack two hands against one so i go thumb and i go behind the ear yeah so my my grip  
+**[5337.80s] English:** You need to get there, yeah, and when you get there, you elevate your elbow and expose the arm lock.  
 **Translation:** 
 
-**[5336.16s] English:** because for you to defend  
+**[5343.88s] English:** So, it's hard. So you put the thumb in, and then there's the uh, dreaded moment when the other person...  
+**Translation:** Vocabulary: dreaded: 令人恐惧的; elevate: 抬高
+
+**[5351.82s] English:** Just wait for you to loop the arm over, yeah, but that's once you get the thumb in; it's  
 **Translation:** 
 
-**[5337.80s] English:** you need to get there yeah and when you get there you elevate your elbow expose the arm lock  
+**[5359.86s] English:** Over, okay, no, but when I'm there, it's because they're bridging, you know?  
 **Translation:** 
 
-**[5343.88s] English:** so it's hard so you put the thumb in and then there's the uh dreaded like the other person  
-**Translation:** Vocabulary: elevate: 抬高
-
-**[5351.82s] English:** just waits for you to loop the arm over yeah but that this over it's once you get the thumb in it's  
+**[5367.80s] English:** I'm not using their hand to pose now. Your head is very close to the floor when I've  
 **Translation:** 
 
-**[5359.86s] English:** over okay no but when i'm there it's if i get that it because they're bridging you know they  
+**[5373.24s] English:** Tried to bridge, and you know, my forehead will touch the floor—that will be used as a hand—but  
 **Translation:** 
 
-**[5367.80s] English:** i'm not using their hand to pose now your head is my head is very close to the floor when i've  
+**[5376.82s] English:** It's not on the floor, not necessarily okay, because if it's on the floor, my body's collapsed over you.  
 **Translation:** 
 
-**[5373.24s] English:** tried to bridge and you know my forehead will touch the floor that will be used as a hand but  
+**[5383.18s] English:** Yeah, so there's no place for my hand to work on your neck, so I need some space between us.  
+**Translation:** Vocabulary: collapsed: 身体垮下来
+
+**[5388.10s] English:** Us, so I don't completely. Maybe you can bob up and down, yeah, but I try to keep a gap between us.  
 **Translation:** 
 
-**[5376.82s] English:** it's not on the floor not necessarily okay because if it's on the floor my body's collapsed over you  
+**[5393.94s] English:** Okay, so that pursuit that takes many  
+**Translation:** Vocabulary: pursuit: 追求
+
+**[5397.80s] English:** Many, many, many years.  
 **Translation:** 
 
-**[5383.18s] English:** yeah so there's no place for my hand for me to work on your neck so i need some space between  
-**Translation:** Vocabulary: collapsed: 身体垮下
-
-**[5388.10s] English:** us so i don't completely maybe you can bob up and down yeah but i try to keep a gap between us  
-**Translation:** 
-
-**[5393.94s] English:** okay so that pursuit that takes many  
-**Translation:** 
-
-**[5397.80s] English:** many many many years  
-**Translation:** 
-
-**[5400.00s] English:** I don't know if you've seen Jiro Dreams of Sushi.  
+**[5400.00s] English:** I don't know if you've seen "Jiro Dreams of Sushi.  
 **Translation:** Vocabulary: sushi: 寿司
 
-**[5402.66s] English:** Doing the simple thing that's not so simple, but it kind of looks simple,  
+**[5402.66s] English:** Doing the simple thing that's not so simple, but it kind of looks simple.  
 **Translation:** 
 
-**[5409.72s] English:** over and over and over and over and over,  
+**[5409.72s] English:** Over, and over, and over, and over, and over.  
 **Translation:** 
 
-**[5411.58s] English:** and presumably getting much better with simple.  
+**[5411.58s] English:** And presumably getting much better with simplicity.  
 **Translation:** 
 
 **[5414.34s] English:** It becomes very simple.  
-**Translation:** 
+**Translation:** Vocabulary: simplicity: 简单性
 
 **[5415.10s] English:** But you're picking up details probably along the way.  
 **Translation:** 
@@ -3580,40 +3581,40 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5419.36s] English:** What is that?  
 **Translation:** 
 
-**[5419.94s] English:** Is that there's like lessons that you just kind of accumulate over time.  
-**Translation:** Vocabulary: accumulate: 积累
+**[5419.94s] English:** Is that there are lessons that you just kind of accumulate over time.  
+**Translation:** Vocabulary: accumulate: 累积
 
-**[5426.54s] English:** Like one training session, you'll see maybe like the positioning of the thumb,  
+**[5426.54s] English:** Like one training session, you'll see, maybe, like, the positioning of the thumb.  
 **Translation:** 
 
-**[5436.32s] English:** like this detailed positioning of the thumb or something like this.  
+**[5436.32s] English:** Like this, with detailed positioning of the thumb, or something like this.  
 **Translation:** 
 
 **[5439.42s] English:** And then you're like, okay.  
 **Translation:** 
 
-**[5441.04s] English:** You like load that in.  
+**[5441.04s] English:** You like to load that in.  
 **Translation:** 
 
-**[5443.20s] English:** That will be very basic because there is not that many different ways.  
+**[5443.20s] English:** That will be very basic, because there aren't that many different ways.  
 **Translation:** 
 
 **[5446.96s] English:** Maybe one, two.  
 **Translation:** 
 
-**[5448.72s] English:** I just do one.  
+**[5448.72s] English:** I just did one.  
 **Translation:** 
 
-**[5450.06s] English:** Any other is not as strong because it's about getting a strong grip on your collar.  
+**[5450.06s] English:** Any other method is not as strong, because it's all about getting a good, strong grip on your collar.  
 **Translation:** 
 
 **[5455.20s] English:** I mean, the sun is.  
 **Translation:** 
 
-**[5457.08s] English:** It's the thumb goes inside.  
+**[5457.08s] English:** It's the thumb that goes inside.  
 **Translation:** 
 
-**[5459.00s] English:** You know, is it the thumb in or four fingers in?  
+**[5459.00s] English:** You know, is it the thumb in, or four fingers in?  
 **Translation:** 
 
 **[5461.80s] English:** But it's getting a strong grip on the collar.  
@@ -3622,25 +3623,25 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5464.56s] English:** As long as, you know, this is just holding and feeling strong.  
 **Translation:** 
 
-**[5469.10s] English:** So that's just two options.  
+**[5469.10s] English:** So, that's just two options.  
 **Translation:** 
 
-**[5470.54s] English:** So it's the dynamic stuff along the way.  
+**[5470.54s] English:** So, it's the dynamic stuff along the way.  
 **Translation:** 
 
 **[5473.22s] English:** Yeah.  
 **Translation:** 
 
-**[5473.84s] English:** And then some of that is timing too.  
+**[5473.84s] English:** And then some of that is timing, too.  
 **Translation:** 
 
 **[5475.98s] English:** It's timing.  
+**Translation:** Vocabulary: timing: 时机
+
+**[5476.92s] English:** Are you also like making people feel surprised or fooled?  
 **Translation:** 
 
-**[5476.92s] English:** Are you also like making people, like faking them out,  
-**Translation:** 
-
-**[5480.38s] English:** making them think about something else?  
+**[5480.38s] English:** Making them think about something else?  
 **Translation:** 
 
 **[5481.74s] English:** No, not at that point.  
@@ -3649,34 +3650,34 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5483.48s] English:** That's not because I cannot fake anything.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[5486.54s] English:** I can't do anything else at that point because I will have to change my positioning to, maybe to fake an arm lock.  
+**[5486.54s] English:** I can't do anything else at that point because I will have to change my positioning to, maybe, to fake an arm lock.  
 **Translation:** 
 
 **[5492.96s] English:** Then I have to move out from that.  
 **Translation:** 
 
-**[5495.30s] English:** So then I will lose the control I have.  
+**[5495.30s] English:** So, then I will lose the control I have.  
 **Translation:** 
 
-**[5497.66s] English:** So what's the process towards mastery?  
-**Translation:** 
+**[5497.66s] English:** So, what's the process toward mastery?  
+**Translation:** Vocabulary: mastery: 精通
 
 **[5499.66s] English:** If you were to convert that to something that generalizes beyond jiu-jitsu, how can you get that good at a simple thing?  
 **Translation:** 
 
 **[5507.66s] English:** Practice.  
-**Translation:** Vocabulary: generalizes: 泛化
+**Translation:** Vocabulary: convert: 转换; generalizes: 概括
 
-**[5509.92s] English:** That simple.  
+**[5509.92s] English:** That's simple.  
 **Translation:** 
 
-**[5510.72s] English:** The same exact thing over and over.  
+**[5510.72s] English:** The same exact thing, over and over.  
 **Translation:** 
 
 **[5513.48s] English:** It's just a matter of how long it would take you.  
 **Translation:** 
 
-**[5516.54s] English:** So all, that's true.  
+**[5516.54s] English:** So, all that's true.  
 **Translation:** 
 
 **[5520.00s] English:** That's true.  
@@ -3688,14 +3689,14 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5523.82s] English:** People give up along the way.  
 **Translation:** 
 
-**[5526.22s] English:** There is intricacies to that journey towards perfection.  
+**[5526.22s] English:** There are intricacies to that journey towards perfection.  
 **Translation:** Vocabulary: intricacies: 复杂性
 
-**[5531.42s] English:** There's a lot of people that do jiu-jitsu for decades and don't get better.  
+**[5531.42s] English:** There are a lot of people who do jiujitsu for decades and don't get better.  
 **Translation:** 
 
 **[5537.50s] English:** No, because they don't train the way they should.  
-**Translation:** 
+**Translation:** Vocabulary: jiujitsu: 柔道
 
 **[5539.42s] English:** They don't train to get better.  
 **Translation:** 
@@ -3706,16 +3707,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5542.10s] English:** There's a big difference.  
 **Translation:** 
 
-**[5543.86s] English:** Most people, they train to get tough, so they are tough.  
+**[5543.86s] English:** Most people train to get tough, so they are tough.  
 **Translation:** 
 
-**[5546.24s] English:** You know, like we were talking before, they don't practice their weakness.  
+**[5546.24s] English:** You know, like we were talking before, they don't practice their weaknesses.  
 **Translation:** 
 
-**[5550.40s] English:** You want to be good at, you want to be really good at jiu-jitsu,  
+**[5550.40s] English:** You want to be good at, you want to be really good at jiu-jitsu.  
 **Translation:** 
 
-**[5554.34s] English:** you have to practice your weakness, not your strength.  
+**[5554.34s] English:** You have to practice your weaknesses, not your strengths.  
 **Translation:** 
 
 **[5558.68s] English:** You have to practice everything, but you have to be equally strong in every position.  
@@ -3724,49 +3725,49 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5562.86s] English:** They're all exactly the same.  
 **Translation:** 
 
-**[5564.60s] English:** You know, your guard, top, bottom, side control, top, bottom, turtle, half guard, mount, back.  
+**[5564.60s] English:** You know, your guard: top, bottom, side control, top, bottom, turtle, half guard, mount, back.  
 **Translation:** 
 
-**[5571.42s] English:** I mean, you pick, take down.  
+**[5571.42s] English:** I mean, you pick; take down.  
 **Translation:** 
 
 **[5574.52s] English:** And then you get into deep.  
 **Translation:** 
 
-**[5576.24s] English:** You get into details of escaping triangle, applying the triangle, escaping arm lock,  
+**[5576.24s] English:** You get into the details of escaping from a triangle, applying the triangle, and escaping an arm lock.  
 **Translation:** 
 
-**[5583.46s] English:** different scenarios of, you know, the one thing is defending the arm lock when you have your arms  
+**[5583.46s] English:** Different scenarios include, you know, the one thing is defending an arm lock when you have your arms  
 **Translation:** Vocabulary: scenarios: 情景; triangle: 三角锁
 
-**[5590.24s] English:** very close to your body.  
+**[5590.24s] English:** Very close to your body.  
 **Translation:** 
 
-**[5591.62s] English:** The other thing is to defend the arms when your arm is, you know, almost getting.  
+**[5591.62s] English:** The other thing is to defend the arm when your arm is almost getting hit.  
 **Translation:** 
 
-**[5595.76s] English:** And then when he got your arm.  
+**[5595.76s] English:** And then, when he got a hold of your arm.  
 **Translation:** 
 
-**[5597.68s] English:** So there's so many things to practice that you need to repeat them over and over again  
+**[5597.68s] English:** So, there are so many things to practice that you need to repeat them over and over again.  
 **Translation:** 
 
-**[5603.96s] English:** until you're confident enough that when you get there,  
+**[5603.96s] English:** Until you're confident enough, that when you get there,  
 **Translation:** 
 
-**[5606.24s] English:** you have a chance and you can do the same kind of thing for even the final stages of a cross choke from everything.  
+**[5606.24s] English:** You have a chance, and you can do the same kind of thing for even the final stages of a cross-choke from everywhere.  
 **Translation:** 
 
-**[5612.80s] English:** I mean, of course, like you don't practice escaping the arm lock with a full arm straight because, you know, that's gone.  
+**[5612.80s] English:** I mean, of course, like you don't practice escaping the arm lock with a fully extended arm because, you know, that's gone.  
 **Translation:** 
 
-**[5622.32s] English:** I mean, you practice, you know, you practice escaping the arm lock when he takes your arm.  
+**[5622.32s] English:** I mean, you practice—like, you know, you practice escaping the arm lock when he takes your arm.  
 **Translation:** 
 
-**[5628.52s] English:** You have, you know, you have a chance of trying to escape, but you don't practice.  
+**[5628.52s] English:** You have, you know, a chance of trying to escape, but you don't practice.  
 **Translation:** 
 
-**[5632.62s] English:** You know, OK, take my arm.  
+**[5632.62s] English:** You know, okay, take my arm.  
 **Translation:** 
 
 **[5633.92s] English:** When I say go, go.  
@@ -3778,19 +3779,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5636.24s] English:** You pop the arm.  
 **Translation:** 
 
-**[5637.76s] English:** That is like you get injured doing that.  
+**[5637.76s] English:** That is like getting injured doing that.  
 **Translation:** 
 
-**[5640.00s] English:** Escaping the cross-collar choke, it's, I mean, escape not letting the person get there.  
+**[5640.00s] English:** Escaping the cross-collar choke, it's, I mean, to escape not letting the person get there.  
 **Translation:** 
 
-**[5646.76s] English:** You can escape, you can practice escaping triangles because, you know, it's like,  
+**[5646.76s] English:** You can escape; you can practice escaping triangles, because, you know, it's like,  
 **Translation:** Vocabulary: triangles: 三角形
 
-**[5651.02s] English:** you have a way better chance of escaping triangle than, okay, mount on me, put both hands in my neck.  
+**[5651.02s] English:** You have a much better chance of escaping from a triangle than, okay, mount on me and put both hands in my neck.  
 **Translation:** 
 
-**[5657.90s] English:** I mean, it's over, you know, don't be there.  
+**[5657.90s] English:** I mean, it's over, you know; don't be there.  
 **Translation:** 
 
 **[5661.06s] English:** What's the best submission in Jiu-Jitsu?  
@@ -3805,16 +3806,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5666.18s] English:** If I gave you a billion dollars to start in a position, like in a submission,  
 **Translation:** 
 
-**[5677.86s] English:** and you only get the billion, if you get the submission, which one would you start?  
+**[5677.86s] English:** And you only get the billion if you get the submission. Which one would you start?  
 **Translation:** 
 
 **[5681.72s] English:** Cross-collar choking them up.  
+**Translation:** Vocabulary: choking: 窒息
+
+**[5683.02s] English:** Cross-collar choking them; not from the back.  
 **Translation:** 
 
-**[5683.02s] English:** Cross-collar choking them, not from the back.  
-**Translation:** 
-
-**[5686.52s] English:** No, you have a better chance escaping from the back.  
+**[5686.52s] English:** No, you have a better chance of escaping from the back.  
 **Translation:** 
 
 **[5690.34s] English:** Really?  
@@ -3826,7 +3827,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5691.70s] English:** Even with the hooks?  
 **Translation:** 
 
-**[5692.88s] English:** Even with everything.  
+**[5692.88s] English:** Even with everything,  
 **Translation:** 
 
 **[5693.78s] English:** Do you think some people disagree with you?  
@@ -3838,10 +3839,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5696.16s] English:** I don't care.  
 **Translation:** 
 
-**[5696.62s] English:** I have a better chance escaping from the back than if you mount on me, put my hands on my neck.  
+**[5696.62s] English:** I have a better chance of escaping from behind than if you mount on me and put your hands on my neck.  
 **Translation:** 
 
-**[5702.02s] English:** So, if you were facing yourself, and I would give you a billion dollars to escape, you would pick?  
+**[5702.02s] English:** So, if you were facing yourself, and I would give you a billion dollars to escape, which one would you pick?  
 **Translation:** 
 
 **[5710.20s] English:** From the back.  
@@ -3856,7 +3857,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5713.92s] English:** No comparison.  
 **Translation:** 
 
-**[5714.56s] English:** You have like, with hooks, with like a triangle?  
+**[5714.56s] English:** You have ones, like with hooks, or like a triangle?  
 **Translation:** Vocabulary: triangle: 三角形
 
 **[5717.10s] English:** It doesn't matter.  
@@ -3883,13 +3884,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5724.10s] English:** No question.  
 **Translation:** 
 
-**[5724.84s] English:** So, to you, the mount is a super...  
+**[5724.84s] English:** So, to you, the mountain is a super...  
 **Translation:** 
 
-**[5726.16s] English:** It's a super controlling position.  
+**[5726.16s] English:** It's a super-controlling position.  
 **Translation:** 
 
-**[5727.16s] English:** It's not just...  
+**[5727.16s] English:** It's not just....  
 **Translation:** 
 
 **[5729.18s] English:** Because cross-collar choking the mount, the moment that you put both hands on my neck, you know, you have to...  
@@ -3904,10 +3905,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5741.38s] English:** So, that means there's very little escape space for you to work on your escape.  
 **Translation:** 
 
-**[5747.12s] English:** And the moment that you cannot bridge, let's suppose I have...  
+**[5747.12s] English:** And the moment that you cannot bridge it, let's suppose I have...  
 **Translation:** Vocabulary: cannot: 不能
 
-**[5750.58s] English:** You know, the person has a good mount, so you cannot bridge him off.  
+**[5750.58s] English:** You know, the person has a good mount, so you can't bridge them off.  
 **Translation:** 
 
 **[5753.34s] English:** What else?  
@@ -3922,121 +3923,121 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[5758.00s] English:** Being in the back, I have...  
 **Translation:** 
 
-**[5760.00s] English:** all the space around me to work on my defense in my arms i have the mobility to bring them anywhere  
-**Translation:** Vocabulary: mobility: 行动自由
+**[5760.00s] English:** All the space around me to work on my defense; in my arms, I have the mobility to bring them anywhere.  
+**Translation:** Vocabulary: mobility: 行动能力
 
-**[5766.32s] English:** so i because of that it gives you and me a much better chance and yeah you cannot i can move my  
+**[5766.32s] English:** So, I because of that, it gives you and me a much better chance, and yeah, you cannot; I can move my.  
 **Translation:** 
 
-**[5775.44s] English:** body if you you feel my back you you cannot pin me you might i cannot take you off my back first  
+**[5775.44s] English:** Body, if you try to feel my back, you cannot pin me. You might not be able to take me off my back first.  
 **Translation:** 
 
-**[5782.88s] English:** i need to defend the choke but you have no control over my body so that means there's still a lot of  
+**[5782.88s] English:** I need to defend the choke, but you have no control over my body, so that means there's still a lot of  
 **Translation:** 
 
-**[5789.12s] English:** movement that i can try to use to escape in the mount there's no movement i'm pinned down i cannot  
+**[5789.12s] English:** Movement that I can try to use to escape in the mount, there's no movement; I'm pinned down, I cannot.  
+**Translation:** Vocabulary: pinned: 被压制
+
+**[5796.16s] English:** Move, and I have no space between us to escape. Well, the argument against that is this is great.  
 **Translation:** 
 
-**[5796.16s] English:** move and i have no space between us to escape well the argument against that this is great  
+**[5802.72s] English:** Is that on the bottom of Mount I? The uh, I do have my hands between, so you're saying they're...  
 **Translation:** 
 
-**[5802.72s] English:** is that on the bottom of mount i the uh i do have my hands between so you're saying they're  
+**[5809.92s] English:** Pinned, there's nothing between where I mean; you could get them in theory, you could somehow.  
 **Translation:** 
 
-**[5809.92s] English:** pinned there's nothing between where i mean you could get them in theory you could somehow  
+**[5814.96s] English:** You could, but there's no space; they'll be none.  
 **Translation:** 
 
-**[5814.96s] English:** you could but there's no you can but then there's no space they'll be  
+**[5819.12s] English:** Squeezed between our bodies, if it's an incredible mount, no, it does not mount.  
 **Translation:** 
 
-**[5819.12s] English:** squeezed between our bodies if it's an incredible if it's an incredible mount no it does not mount  
+**[5824.24s] English:** Like, how standing, if I put both hands on your neck, if I'm going to go for a cross-collar choke.  
+**Translation:** Vocabulary: squeezed: 被挤压
+
+**[5830.40s] English:** After I get my hands on the next step is to pull you close to me, so it's this: my arms need to be  
 **Translation:** 
 
-**[5824.24s] English:** like how standing if i put both hands on your neck if i'm going to go for the cross collar choke  
-**Translation:** Vocabulary: squeezed: 挤压
-
-**[5830.40s] English:** after i get my hands in the next step is to pull you close to me so it's this my arms needs to be  
+**[5835.84s] English:** Close, but I can put: There's the hands that could do something; they can come in, but there's...  
 **Translation:** 
 
-**[5835.84s] English:** close but i can put there's the hands that could do something they can come in but there's they  
+**[5842.08s] English:** Are there very limited spaces between us? Yes, yes, no. I mean to push your body away to only standing not.  
 **Translation:** 
 
-**[5842.08s] English:** are very limited space between us yes yes no i mean to push your body away to only standing not  
+**[5849.12s] English:** Floor, okay. The argument against the mount is, or the argument for back controls being the most...  
 **Translation:** 
 
-**[5849.12s] English:** floor okay the argument against the mount is uh or the argument for back controls being the most  
+**[5855.84s] English:** A dominant position is even though I have hands, I can't really use them effectively.  
 **Translation:** 
 
-**[5855.84s] English:** dominant position is even though i have hands i can't really use them effectively as effective  
+**[5861.44s] English:** Not in the mountain; there's no space. There's just no space. You can try, I mean, you can, but it won't work.  
+**Translation:** Vocabulary: dominant: 优势的
+
+**[5867.68s] English:** Squeeze my hand; I mean, there's still things that you could do, but they're so limited.  
 **Translation:** 
 
-**[5861.44s] English:** not in the mount there's no space there's no there's no space you can try i mean you can  
+**[5873.12s] English:** So, if you pulled the top 100 best competitors of all time,  
+**Translation:** Vocabulary: squeeze: 挤压
+
+**[5879.12s] English:** I think they would answer.  
 **Translation:** 
 
-**[5867.68s] English:** squeeze your hand in i mean there's there's still things that you could do but they're so limited  
+**[5880.00s] English:** That do you think most would agree with? I don't care; it's just going to show me theirs.  
 **Translation:** 
 
-**[5873.12s] English:** so if you pulled the 100 best competitors of all time  
+**[5891.60s] English:** Skills: the ability to see, okay. So, the perfect mount versus the perfect back control, there's  
 **Translation:** 
 
-**[5879.12s] English:** think they would answer  
+**[5896.94s] English:** No question, okay. There's no question for me; I mean, argue with me or show me because I'm not.  
 **Translation:** 
 
-**[5880.00s] English:** that do you think most would agree with you i don't care it's i mean it will show me their  
+**[5903.32s] English:** I'm not being stubborn because I've been scientific, exactly. So, explain it to me why.  
 **Translation:** 
 
-**[5891.60s] English:** skills the ability to see okay so the perfect mount versus the perfect back control there's  
+**[5910.30s] English:** The back; it would be harder, but it would be better to your position to finish the mount if you can.  
 **Translation:** 
 
-**[5896.94s] English:** no question okay there's no question for me i mean argue with me like show me because i'm not  
+**[5916.96s] English:** Explain it to me why I might change my mind. I was trying to, but uh, I don't, I don't have the  
 **Translation:** 
 
-**[5903.32s] English:** i'm not being stubborn because i'm being i've been scientific exactly so explain it to me why  
-**Translation:** 
-
-**[5910.30s] English:** the back it would be harder it would be better to your position to finish the mount if if you can  
-**Translation:** 
-
-**[5916.96s] English:** explain it to me why i might change my mind i was trying to but uh it's i don't i don't have the  
-**Translation:** 
-
-**[5925.36s] English:** cred uh i'm like a middle school science student trying to talk to einstein here  
+**[5925.36s] English:** Cred, uh, I'm like a middle school science student trying to talk to Einstein here.  
 **Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[5932.88s] English:** okay besides you who do you think is the greatest jiu-jitsu competitor of all time  
+**[5932.88s] English:** Okay, besides you, who do you think is the greatest Jiu-Jitsu competitor of all time?  
 **Translation:** 
 
-**[5938.36s] English:** can you make the case for some of them marcelo buchesha  
-**Translation:** Vocabulary: buchesha: 布赫沙; marcelo: 马塞洛
-
-**[5944.14s] English:** leandro low i'll have to go with buchesha because look at the how many titles he has i mean  
+**[5938.36s] English:** Can you make the case for some of them, Marcelo Buchesha?  
 **Translation:** 
 
-**[5953.06s] English:** he has by far more than marcelo marcelo stopped quite early  
+**[5944.14s] English:** Leandro, low I'll have to go with Buchesha because look at how many titles he has; I mean,  
 **Translation:** 
 
-**[5956.42s] English:** leandro has eight but buchesha is better than him what do you think makes buchesha so good  
+**[5953.06s] English:** He has, by far, more than Marcelo. Marcelo stopped quite early.  
+**Translation:** Vocabulary: buchesha: 书籍多; marcelo: 马塞洛
+
+**[5956.42s] English:** Leandro has eight, but Buchesha is better than him. What do you think makes Buchesha so good?  
 **Translation:** 
 
-**[5962.88s] English:** he's a heavyweight that moves like a lightweight he moves very fast but he's very agile for his  
-**Translation:** Vocabulary: agile: 灵活; heavyweight: 重量级; lightweight: 轻量级
-
-**[5969.24s] English:** size so the uh the agility combined with aggression yeah so it's very hard to control him  
+**[5962.88s] English:** He's a heavyweight that moves like a lightweight; he moves very fast, but he's very agile for his size.  
 **Translation:** 
 
-**[5977.58s] English:** because he moves fast and he's 112 kilos 115 sometimes or 110 i'm not sure but he's about  
+**[5969.24s] English:** Size, so the agility combined with aggression — yeah, so it's very hard to control him.  
+**Translation:** 
+
+**[5977.58s] English:** Because he moves fast and he's 112 kilos, sometimes 115 or 110; I'm not sure, but he's about  
 **Translation:** Vocabulary: aggression: 攻击性; agility: 灵活性
 
-**[5987.00s] English:** around that so 240 in pounds so when you when you're agile  
+**[5987.00s] English:** Around that, so 240 pounds. So, when you're agile,...  
 **Translation:** 
 
-**[5992.88s] English:** 200 240 pounds that makes it very hard to control you what about making the case for some others  
-**Translation:** 
+**[5992.88s] English:** 200-240 pounds that makes it very hard to control. You, what about making the case for some others?  
+**Translation:** Vocabulary: agile: 灵活
 
 **[6000.00s] English:** What about the little guys?  
 **Translation:** 
 
-**[6000.96s] English:** What about Marcelo, if you were to make the case for him being the strongest?  
+**[6000.96s] English:** What about Marcelo? If you were to make the case for him being the strongest?  
 **Translation:** 
 
 **[6004.20s] English:** What makes Marcelo good?  
@@ -4045,22 +4046,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6005.94s] English:** Marcelo Garcia is extremely technical.  
 **Translation:** 
 
-**[6008.14s] English:** I mean, I think he's one of my favorite Jiu-Jitsu fighters  
+**[6008.14s] English:** I mean, I think he's one of my favorite Jiu-Jitsu fighters.  
 **Translation:** 
 
-**[6011.42s] English:** because in a technical way, I think he's probably one of the best.  
+**[6011.42s] English:** Because, in a technical way, I think he's probably one of the best.  
 **Translation:** 
 
-**[6018.34s] English:** Because raw technique and a bunch of different positions and submissions.  
+**[6018.34s] English:** Because of raw technique, and a bunch of different positions and submissions.  
 **Translation:** 
 
 **[6021.58s] English:** He's not very powerful.  
 **Translation:** 
 
-**[6025.42s] English:** Physically, he's not very strong, but he can make himself very strong,  
+**[6025.42s] English:** Physically, he's not very strong, but he can make himself very strong.  
 **Translation:** 
 
-**[6029.62s] English:** and his technique is very, very high level.  
+**[6029.62s] English:** And his technique is very, very high-level.  
 **Translation:** 
 
 **[6032.12s] English:** Have you ever trained with him?  
@@ -4078,8 +4079,8 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6039.26s] English:** What happened in those matches?  
 **Translation:** 
 
-**[6040.80s] English:** The first fight, I tapped him, I think, five minutes.  
-**Translation:** 
+**[6040.80s] English:** The first fight, I tapped him—I think—in five minutes.  
+**Translation:** Vocabulary: tapped: 认输
 
 **[6044.20s] English:** In which submission?  
 **Translation:** 
@@ -4090,8 +4091,8 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6047.04s] English:** Collar choke from the back.  
 **Translation:** 
 
-**[6048.94s] English:** And the second time, I beat him by points, but a very large.  
-**Translation:** 
+**[6048.94s] English:** And the second time, I beat him by points, but a very large margin.  
+**Translation:** Vocabulary: margin: 差距
 
 **[6052.74s] English:** I think 12-2.  
 **Translation:** 
@@ -4099,10 +4100,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6056.16s] English:** Actually, just to continue.  
 **Translation:** 
 
-**[6059.62s] English:** I wonder if John Donahoe would agree with you about Mount and back.  
+**[6059.62s] English:** I wonder if John Donahoe would agree with you about mount and back.  
 **Translation:** 
 
-**[6065.14s] English:** I can't wait to hear.  
+**[6065.14s] English:** I can't wait to hear!  
 **Translation:** 
 
 **[6065.78s] English:** This is a bear versus a lion conversation.  
@@ -4138,14 +4139,14 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6089.20s] English:** Because people panic when I'm out.  
 **Translation:** 
 
-**[6092.36s] English:** They turn the back.  
+**[6092.36s] English:** They turned their backs.  
 **Translation:** 
 
 **[6093.92s] English:** I choked him out.  
 **Translation:** 
 
 **[6094.76s] English:** That's one explanation.  
-**Translation:** 
+**Translation:** Vocabulary: choked: 扼住咽喉
 
 **[6096.52s] English:** But for people, it is interesting that, of course, this doesn't capture.  
 **Translation:** 
@@ -4156,301 +4157,301 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6102.50s] English:** And we should say that you've submitted most of your opponents.  
 **Translation:** 
 
-**[6105.84s] English:** So you rarely win on points.  
-**Translation:** 
+**[6105.84s] English:** So, you rarely win on points.  
+**Translation:** Vocabulary: opponents: 对手
 
-**[6107.38s] English:** You usually win submissions.  
+**[6107.38s] English:** You usually win the submissions.  
 **Translation:** 
 
-**[6110.54s] English:** Choke from back is most of them.  
+**[6110.54s] English:** Choke from behind is most of them.  
 **Translation:** 
 
-**[6112.46s] English:** Then cross choke from Mount.  
+**[6112.46s] English:** Then, cross-choke from Mount.  
 **Translation:** 
 
-**[6114.16s] English:** Arm bar is a lot, too.  
+**[6114.16s] English:** An arm bar is a lot, too.  
 **Translation:** 
 
-**[6115.32s] English:** So 18 from choke from back.  
+**[6115.32s] English:** So, 18 from choke from back.  
 **Translation:** 
 
-**[6117.86s] English:** 12 cross choke.  
+**[6117.86s] English:** 12 Cross Choke.  
 **Translation:** 
 
-**[6119.20s] English:** 10 arm bar.  
+**[6119.20s] English:** 10 Arm Bar.  
 **Translation:** 
 
-**[6120.00s] English:** 5 RNC rear naked  
+**[6120.00s] English:** 5 RNC Rear Naked  
 **Translation:** 
 
-**[6122.52s] English:** it's for no gi  
+**[6122.52s] English:** It's for no gi.  
 **Translation:** 
 
-**[6123.36s] English:** so Ezekiel  
+**[6123.36s] English:** So, Ezekiel,...  
 **Translation:** 
 
-**[6125.68s] English:** is very powerful  
+**[6125.68s] English:** Is very powerful.  
 **Translation:** 
 
-**[6127.42s] English:** it's a strong weapon  
+**[6127.42s] English:** It's a strong weapon.  
 **Translation:** 
 
-**[6129.46s] English:** also for mount  
+**[6129.46s] English:** Also, for Mount  
 **Translation:** 
 
-**[6131.20s] English:** that's when you can't get  
+**[6131.20s] English:** That's when you can't get.  
 **Translation:** 
 
-**[6134.66s] English:** the one handed  
+**[6134.66s] English:** The one-handed  
 **Translation:** 
-
-**[6135.24s] English:** no because the Ezekiel most times  
-**Translation:** Vocabulary: ezekiel: 以西結
 
-**[6138.62s] English:** I use against people  
+**[6135.24s] English:** No, because Ezekiel most times  
 **Translation:** 
 
-**[6140.08s] English:** is the attack  
+**[6138.62s] English:** I use against people.  
 **Translation:** 
 
-**[6142.58s] English:** that as soon as I get to the mount  
+**[6140.08s] English:** Is the attack  
 **Translation:** 
 
-**[6144.52s] English:** when they're trying to escape the open up  
+**[6142.58s] English:** That as soon as I get to the mountain,  
 **Translation:** 
 
-**[6146.88s] English:** and I get them  
+**[6144.52s] English:** When they're trying to escape, they open up.  
 **Translation:** 
 
-**[6148.14s] English:** it has to be at that initial  
+**[6146.88s] English:** And I get them.  
 **Translation:** 
 
-**[6150.14s] English:** timing  
+**[6148.14s] English:** It has to be at that initial.  
 **Translation:** 
 
-**[6151.50s] English:** so it's not a thing you use to bother them  
+**[6150.14s] English:** Timing.  
 **Translation:** 
 
-**[6153.72s] English:** either I get it right away  
-**Translation:** 
+**[6151.50s] English:** So, it's not something you use to bother them.  
+**Translation:** Vocabulary: timing: 时机
 
-**[6156.70s] English:** or I don't bother trying much  
+**[6153.72s] English:** Either I get it right away.  
 **Translation:** 
 
-**[6158.54s] English:** because you need to keep  
+**[6156.70s] English:** Or I don't bother trying much.  
 **Translation:** 
 
-**[6160.70s] English:** one hand behind the head  
+**[6158.54s] English:** Because you need to keep  
 **Translation:** 
 
-**[6161.76s] English:** and  
+**[6160.70s] English:** One hand behind the head.  
 **Translation:** 
 
-**[6163.12s] English:** you're naturally on that position as soon as you mount  
+**[6161.76s] English:** And  
 **Translation:** 
 
-**[6166.80s] English:** most of the times  
+**[6163.12s] English:** You're naturally in that position as soon as you mount.  
 **Translation:** 
 
-**[6167.94s] English:** and the moment that you mount someone  
+**[6166.80s] English:** Most of the time.  
 **Translation:** 
 
-**[6170.40s] English:** no one accepts that they go mounted  
+**[6167.94s] English:** And the moment that you mount someone,...  
 **Translation:** 
 
-**[6171.76s] English:** they're going to explode to get out  
+**[6170.40s] English:** No one accepts that they go mounted.  
 **Translation:** 
 
-**[6173.10s] English:** so holding the head  
+**[6171.76s] English:** They're going to explode to get out.  
+**Translation:** Vocabulary: explode: 爆炸
+
+**[6173.10s] English:** So, holding the head.  
 **Translation:** 
 
-**[6174.48s] English:** it gives you a better way  
+**[6174.48s] English:** It gives you a better way.  
 **Translation:** 
 
-**[6176.34s] English:** to dominate them  
+**[6176.34s] English:** To dominate them.  
 **Translation:** 
 
-**[6178.14s] English:** initially  
-**Translation:** Vocabulary: dominate: 占据优势
+**[6178.14s] English:** Initially,  
+**Translation:** Vocabulary: dominate: 统治
 
-**[6178.98s] English:** you know to deal with that  
+**[6178.98s] English:** You know, to deal with that.  
 **Translation:** 
 
-**[6180.44s] English:** explosiveness on the beginning  
-**Translation:** Vocabulary: explosiveness: 爆发性
+**[6180.44s] English:** Explosiveness on the beginning.  
+**Translation:** Vocabulary: explosiveness: 爆炸性
 
-**[6182.44s] English:** on the initial  
+**[6182.44s] English:** On the initial  
 **Translation:** 
 
-**[6183.34s] English:** on the beginning  
+**[6183.34s] English:** At the beginning,  
 **Translation:** 
 
-**[6184.04s] English:** and then but then you have to let go to try  
+**[6184.04s] English:** And then, but then you have to let go to try.  
 **Translation:** 
 
-**[6186.66s] English:** you're very limited holding the head  
+**[6186.66s] English:** You're very limited holding the head.  
 **Translation:** 
 
-**[6188.90s] English:** in terms of GOATS  
+**[6188.90s] English:** In terms of GOATS,  
 **Translation:** 
 
-**[6191.52s] English:** Shonji  
+**[6191.52s] English:** Shonji.  
 **Translation:** 
 
-**[6193.32s] English:** I feel like he doesn't get enough credit  
+**[6193.32s] English:** I feel like he doesn't get enough credit.  
 **Translation:** 
 
-**[6195.94s] English:** that he deserves  
+**[6195.94s] English:** That he deserves  
 **Translation:** 
 
-**[6197.26s] English:** he had an extremely dominant performance  
+**[6197.26s] English:** He had an extremely dominant performance.  
 **Translation:** 
 
-**[6199.64s] English:** in competition  
-**Translation:** 
+**[6199.64s] English:** In competition.  
+**Translation:** Vocabulary: dominant: 优势明显的
 
-**[6200.64s] English:** what about Salo and Shonji Hibero  
+**[6200.64s] English:** What about Salo and Shonji Hibero?  
 **Translation:** 
 
-**[6202.64s] English:** what are your thoughts about what makes them  
+**[6202.64s] English:** What are your thoughts about what makes them?  
 **Translation:** 
 
-**[6204.64s] English:** so good  
+**[6204.64s] English:** So good!  
 **Translation:** 
 
-**[6205.54s] English:** he had a bunch of tough matches with Shonji  
+**[6205.54s] English:** He had a bunch of tough matches with Shonji.  
 **Translation:** 
 
-**[6208.14s] English:** yeah  
+**[6208.14s] English:** Yeah.  
 **Translation:** 
 
-**[6208.64s] English:** and Salo  
+**[6208.64s] English:** And Salo.  
 **Translation:** 
 
-**[6209.14s] English:** eight times  
+**[6209.14s] English:** Eight times.  
 **Translation:** 
 
-**[6209.64s] English:** yeah  
+**[6209.64s] English:** Yeah.  
 **Translation:** 
 
-**[6211.52s] English:** for eight times  
+**[6211.52s] English:** For eight times.  
 **Translation:** 
 
-**[6212.52s] English:** Shonji  
+**[6212.52s] English:** Shonji.  
 **Translation:** 
 
-**[6213.02s] English:** I fought Salo once  
+**[6213.02s] English:** I fought Salo once.  
 **Translation:** 
 
-**[6214.26s] English:** what  
+**[6214.26s] English:** What?  
 **Translation:** 
 
-**[6217.52s] English:** I think I'm bringing up a sore point  
+**[6217.52s] English:** I think I'm bringing up a sore point.  
 **Translation:** 
 
-**[6220.84s] English:** oh did Shonji tap  
+**[6220.84s] English:** Oh, did Shonji tap?  
 **Translation:** 
 
-**[6224.60s] English:** when you  
+**[6224.60s] English:** When you  
 **Translation:** 
 
-**[6225.20s] English:** or did the time run out  
+**[6225.20s] English:** Or did the time run out?  
 **Translation:** 
 
-**[6227.62s] English:** and that  
+**[6227.62s] English:** And that  
 **Translation:** 
 
-**[6228.08s] English:** was the last time you guys faced each other  
+**[6228.08s] English:** Was the last time you guys faced each other?  
 **Translation:** 
 
-**[6230.46s] English:** yeah 2008  
+**[6230.46s] English:** Yeah, 2008.  
 **Translation:** 
 
-**[6231.80s] English:** that was incredible to watch  
+**[6231.80s] English:** That was incredible to watch!  
 **Translation:** 
 
-**[6233.52s] English:** also  
+**[6233.52s] English:** Also,  
 **Translation:** 
 
-**[6235.06s] English:** I think you pulled out a lot of time  
+**[6235.06s] English:** I think you pulled out a lot of time.  
 **Translation:** 
 
-**[6237.98s] English:** I think you pulled out a lot of time  
+**[6237.98s] English:** I think you pulled out a lot of time.  
 **Translation:** 
 
-**[6238.14s] English:** I think you pulled out a lot of time  
+**[6238.14s] English:** I think you pulled out a lot of time.  
 **Translation:** 
 
-**[6240.00s] English:** towards attacking i mean it's it's probably very tough to to get anything and uh for people who  
+**[6240.00s] English:** Towards attacking, I mean, it's probably very tough to get anything done, and uh, for people who  
 **Translation:** 
 
-**[6245.68s] English:** don't know time ran out you had uh something that looked like an arm lock and uh shanji  
+**[6245.68s] English:** Don't know; time ran out. You had something that looked like an arm lock, and uh, Shanji.  
 **Translation:** 
 
-**[6253.02s] English:** looked like he may be tapping but it looked like he might be just celebrating  
+**[6253.02s] English:** Looked like he may be tapping, but it looked like he might just be celebrating.  
 **Translation:** 
 
-**[6257.68s] English:** which is most likely i'm not sure i'm not sure it was i'm not sure because  
+**[6257.68s] English:** Which is most likely, I'm not sure; I'm not sure; it was, I'm not sure, because.  
 **Translation:** 
 
-**[6263.90s] English:** i think his arm just just straight his arm time finish yeah so i'm not sure if it was tapping  
+**[6263.90s] English:** I think his arm just straightened out at that time, and the action finished, yeah. So, I'm not sure if it was tapping.  
 **Translation:** 
 
-**[6271.74s] English:** to you know to let go time time time's up or because of the outside most likely the time was  
+**[6271.74s] English:** To you, I guess, it's time to let go. Time's up, or because of the outside pressure; most likely, it was time.  
 **Translation:** 
 
-**[6279.68s] English:** up yeah and also there's a thing where you start you realize there's only three two seconds left  
+**[6279.68s] English:** Up, yeah, and also, there's a thing where you start to realize there are only two seconds left.  
 **Translation:** 
 
-**[6284.98s] English:** used to kind of start celebrating you realize that um hadji's not going to be able to finish  
+**[6284.98s] English:** Used to kind of start celebrating, you realize that Hadji's not going to be able to finish.  
 **Translation:** 
 
-**[6290.14s] English:** this arm bar in the time left so you start celebrating  
+**[6290.14s] English:** This arm bar in the time left, so you start celebrating.  
 **Translation:** 
 
-**[6293.60s] English:** you  
+**[6293.60s] English:** You.  
 **Translation:** 
 
-**[6293.90s] English:** i think it's up to say the time is up the time is up anyway what do you think like the longevity  
+**[6293.90s] English:** I think it's up to say the time is up. The time is up, anyway. What do you think about the longevity?  
 **Translation:** 
 
-**[6300.16s] English:** especially is impressive with with uh with shanji how long i think he doesn't get credit as much as  
-**Translation:** Vocabulary: longevity: 长寿
+**[6300.16s] English:** Especially, Shanji is impressive. How long I think he doesn't get as much credit as he should.  
+**Translation:** Vocabulary: longevity: 寿命
 
-**[6307.34s] English:** he deserves because he pushed his career very far and the last few years he was on his best  
+**[6307.34s] English:** He deserves it because he pushed his career very far, and in the last few years, he was on his best.  
 **Translation:** 
 
-**[6314.62s] English:** so he's if you would have stopped before you know you would people would remember him on  
+**[6314.62s] English:** So, he's if you had stopped, you know, people would have remembered him more.  
 **Translation:** 
 
-**[6323.90s] English:** his highest but he kind of pushed more than his peak let's say how hard is it for you to walk away  
+**[6323.90s] English:** His highest, but he kind of pushed more than his peak. Let's say, how hard is it for you to walk away?  
 **Translation:** 
 
-**[6335.18s] English:** we'll talk about the journey into mma as well but you basically especially with the second  
+**[6335.18s] English:** We'll talk about the journey into MMA as well, but you basically, especially with the second.  
 **Translation:** 
 
-**[6341.24s] English:** match against puchashi basically walked away on top um beating arguably the greatest competitor  
+**[6341.24s] English:** Match against Puchashi basically walked away on top, beating arguably the greatest competitor.  
 **Translation:** 
 
-**[6349.20s] English:** of all time um and just walking away  
+**[6349.20s] English:** Of all time, um, and just walking away.  
 **Translation:** Vocabulary: arguably: 可能说
 
-**[6353.90s] English:** it wasn't that hard to be honest because that was something that i was considering for a while  
+**[6353.90s] English:** It wasn't that hard, to be honest, because that was something I had been considering for a while.  
 **Translation:** 
 
-**[6360.00s] English:** Because the last few years of my career, let's say, it was fighting MMA at the same time as fighting Jiu-Jitsu.  
+**[6360.00s] English:** Because in the last few years of my career, let's say, I was fighting MMA at the same time as Jiu-Jitsu.  
 **Translation:** 
 
 **[6368.48s] English:** And it's very challenging to do both.  
 **Translation:** 
 
-**[6371.38s] English:** Like, I don't, there's not another person who ever did that.  
+**[6371.38s] English:** Like, I don't think there's another person who ever did that.  
 **Translation:** 
 
-**[6375.08s] English:** Because the training is a confliction with the way you train.  
+**[6375.08s] English:** Because the training is in conflict with the way you train.  
 **Translation:** 
 
-**[6379.78s] English:** Everybody who start doing MMA, start focusing MMA, their Jiu-Jitsu gets worse.  
+**[6379.78s] English:** Everybody who starts doing MMA or focuses on MMA, their Jiu-Jitsu gets worse.  
 **Translation:** 
 
 **[6386.16s] English:** Because they stop training with the gi.  
@@ -4465,47 +4466,47 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6393.56s] English:** No, because I made sure I kept training with the gi.  
 **Translation:** 
 
-**[6397.16s] English:** And I kept fighting at least the world championship once a year.  
+**[6397.16s] English:** And I kept fighting—at least once a year, in a world championship.  
 **Translation:** 
 
 **[6401.60s] English:** That was my goal.  
 **Translation:** 
 
-**[6402.80s] English:** I'm like, I'm going to go for MMA.  
+**[6402.80s] English:** I'm going to go for MMA.  
 **Translation:** 
 
-**[6404.60s] English:** But I love Jiu-Jitsu and I still want to fight the highest level.  
+**[6404.60s] English:** But I love Jiu-Jitsu, and I still want to fight at the highest level.  
 **Translation:** 
 
-**[6409.38s] English:** So I kept fighting once a year for a few years.  
+**[6409.38s] English:** So, I kept fighting once a year for a few years.  
 **Translation:** 
 
 **[6412.64s] English:** It was a challenge.  
 **Translation:** 
 
-**[6414.56s] English:** Especially because the two or three times...  
+**[6414.56s] English:** Especially because the two or three times....  
 **Translation:** 
 
-**[6417.96s] English:** When I competed at the Worlds, it was right after MMA fight I had.  
-**Translation:** 
+**[6417.96s] English:** When I competed at the Worlds, it was right after an MMA fight I had.  
+**Translation:** Vocabulary: competed: 参赛
 
 **[6423.90s] English:** And no gi, you don't have the grips.  
 **Translation:** 
 
-**[6427.76s] English:** So my grips, it made a big difference on my grips.  
+**[6427.76s] English:** So, my grip: it made a big difference in my grips.  
 **Translation:** 
 
-**[6431.22s] English:** So I was weaker grip-wise.  
+**[6431.22s] English:** So, I was weaker grip-wise.  
 **Translation:** 
 
-**[6433.52s] English:** So I felt that.  
+**[6433.52s] English:** So, I felt that.  
 **Translation:** 
 
-**[6434.52s] English:** So I knew it was like, it's a necessary risk.  
+**[6434.52s] English:** So I knew it was a necessary risk.  
 **Translation:** 
 
-**[6438.36s] English:** Because if I cannot be 100%, so why am I doing this?  
-**Translation:** 
+**[6438.36s] English:** Because if I cannot be 100%, why am I doing this?  
+**Translation:** Vocabulary: cannot: 不能
 
 **[6442.40s] English:** But I'm stubborn.  
 **Translation:** 
@@ -4519,7 +4520,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6446.76s] English:** I love fighting.  
 **Translation:** 
 
-**[6447.70s] English:** Jiu-Jitsu.  
+**[6447.70s] English:** Jiu-jitsu.  
 **Translation:** 
 
 **[6448.64s] English:** I never loved MMA.  
@@ -4528,31 +4529,31 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6450.30s] English:** I've liked it.  
 **Translation:** 
 
-**[6451.06s] English:** But I think if it was Gracia, I wouldn't have done it.  
-**Translation:** Vocabulary: gracia: 格拉西
+**[6451.06s] English:** But I think if it were Gracia, I wouldn't have done it.  
+**Translation:** Vocabulary: gracia: 格拉齐
 
-**[6455.06s] English:** So the thing you felt the most is the grips.  
+**[6455.06s] English:** So, the thing you felt the most is the grip.  
 **Translation:** 
 
 **[6459.22s] English:** Yeah.  
 **Translation:** 
 
-**[6461.06s] English:** Because you won a gi world championship without gripping.  
+**[6461.06s] English:** Because you won a GI World Championship without gripping.  
 **Translation:** 
 
 **[6466.52s] English:** No.  
-**Translation:** Vocabulary: gripping: 握持
+**Translation:** Vocabulary: gripping: 握紧
 
-**[6467.42s] English:** Like, just pretending it's no gi match.  
+**[6467.42s] English:** Like, just pretending it's a No-Gi match.  
 **Translation:** 
 
-**[6469.80s] English:** They get to grip you, but you don't.  
+**[6469.80s] English:** They get a grip on you, but you don't.  
 **Translation:** 
 
 **[6471.72s] English:** No.  
 **Translation:** 
 
-**[6472.16s] English:** So grips are essential.  
+**[6472.16s] English:** So, grips are essential.  
 **Translation:** 
 
 **[6473.30s] English:** Of course.  
@@ -4564,34 +4565,34 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6474.98s] English:** Like, if your grips are weak,  
 **Translation:** 
 
-**[6477.58s] English:** your forearms will fatigue.  
+**[6477.58s] English:** Your forearms will fatigue.  
 **Translation:** Vocabulary: fatigue: 疲劳; forearms: 前臂
 
-**[6480.00s] English:** and then you will have no power,  
+**[6480.00s] English:** And then you will have no power.  
 **Translation:** 
 
-**[6482.58s] English:** and then you cannot do anything.  
-**Translation:** Vocabulary: cannot: 无能为力
+**[6482.58s] English:** And then, you cannot do anything.  
+**Translation:** 
 
 **[6484.42s] English:** Yeah.  
 **Translation:** 
 
-**[6485.44s] English:** You could still arm lock.  
+**[6485.44s] English:** You could still arm-lock.  
 **Translation:** 
 
-**[6488.42s] English:** So I meant more not for the submission,  
+**[6488.42s] English:** So, I meant more not for the submission.  
 **Translation:** 
 
-**[6490.92s] English:** but for the control of the game of it.  
+**[6490.92s] English:** But for the control of the game, it.  
 **Translation:** 
 
 **[6492.84s] English:** But you need to grip to get there.  
 **Translation:** 
 
-**[6495.24s] English:** To get there.  
+**[6495.24s] English:** To get there,  
 **Translation:** 
 
-**[6496.68s] English:** And if your grip's so weak...  
+**[6496.68s] English:** And if your grip is so weak,...  
 **Translation:** 
 
 **[6498.56s] English:** But you also have grips in Nogi.  
@@ -4606,16 +4607,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6502.68s] English:** It's a thought experiment.  
 **Translation:** 
 
-**[6504.06s] English:** So I'm trying to understand how essential...  
+**[6504.06s] English:** So, I'm trying to understand how essential...  
 **Translation:** 
 
-**[6506.06s] English:** When I get a Nogi guy go fight with a Gide,  
+**[6506.06s] English:** When I get a Nogi guy going to fight with a Gide,  
 **Translation:** 
 
-**[6508.72s] English:** they panic.  
+**[6508.72s] English:** They panic.  
 **Translation:** 
 
-**[6510.00s] English:** They panic?  
+**[6510.00s] English:** They panic!  
 **Translation:** 
 
 **[6510.54s] English:** Of course.  
@@ -4624,13 +4625,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6511.14s] English:** Everyone panics.  
 **Translation:** 
 
-**[6512.34s] English:** A bear panics when they're in the water with a shark,  
-**Translation:** Vocabulary: shark: 鲨鱼
+**[6512.34s] English:** A bear panics when they're in the water with a shark.  
+**Translation:** Vocabulary: panics: 惊慌; shark: 鲨鱼
 
-**[6514.58s] English:** but that doesn't mean the bear can't still win  
+**[6514.58s] English:** But that doesn't mean the bear can't still win.  
 **Translation:** 
 
-**[6516.40s] English:** when it stops panicking and relaxes.  
+**[6516.40s] English:** When it stops panicking and relaxes.  
 **Translation:** Vocabulary: panicking: 恐慌
 
 **[6519.00s] English:** It's not possible.  
@@ -4642,19 +4643,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6521.50s] English:** Can a bear beat a shark in the water?  
 **Translation:** 
 
-**[6526.68s] English:** Actually, I need to...  
+**[6526.68s] English:** Actually, I need to....  
 **Translation:** 
 
-**[6527.76s] English:** Maybe a polar bear,  
+**[6527.76s] English:** Maybe a polar bear.  
 **Translation:** 
 
-**[6528.54s] English:** because they're pretty good at swimming.  
-**Translation:** 
+**[6528.54s] English:** Because they're pretty good at swimming.  
+**Translation:** Vocabulary: polar: 极地的
 
 **[6529.82s] English:** Okay.  
 **Translation:** 
 
-**[6530.50s] English:** I say not possible for the Nogi guy to win.  
+**[6530.50s] English:** I say it's not possible for the Nogi guy to win.  
 **Translation:** 
 
 **[6533.48s] English:** The bear is a further discussion.  
@@ -4663,88 +4664,88 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6536.38s] English:** What was, to you,  
 **Translation:** 
 
-**[6537.46s] English:** the biggest difference between mixed martial arts  
+**[6537.46s] English:** The biggest difference between mixed martial arts  
 **Translation:** 
 
-**[6539.42s] English:** and...  
+**[6539.42s] English:** And...  
+**Translation:** Vocabulary: martial: 军事的
+
+**[6540.00s] English:** Jiu-jitsu?  
 **Translation:** 
 
-**[6540.00s] English:** Jiu-Jitsu?  
+**[6542.16s] English:** What are some interesting differences?  
 **Translation:** 
 
-**[6542.16s] English:** What are some interesting differences,  
+**[6543.62s] English:** Some interesting insights.  
 **Translation:** 
 
-**[6543.62s] English:** some interesting insights,  
-**Translation:** 
-
-**[6544.90s] English:** even just about the grappling within both sports?  
+**[6544.90s] English:** Even just about the grappling within both sports?  
 **Translation:** Vocabulary: grappling: 摔跤
 
-**[6548.06s] English:** So the biggest difference for me  
+**[6548.06s] English:** So, the biggest difference for me  
 **Translation:** 
 
-**[6549.90s] English:** between MMA and Jiu-Jitsu  
+**[6549.90s] English:** Between MMA and Jiu-Jitsu  
 **Translation:** 
 
-**[6552.12s] English:** is first is the speed.  
+**[6552.12s] English:** The first thing is the speed.  
 **Translation:** 
 
 **[6555.06s] English:** Like Jiu-Jitsu,  
 **Translation:** 
 
-**[6556.48s] English:** you know, like a 10-minute match,  
+**[6556.48s] English:** You know, like a 10-minute match.  
 **Translation:** 
 
 **[6558.10s] English:** I can take my time.  
 **Translation:** 
 
-**[6559.92s] English:** There's no dangers  
+**[6559.92s] English:** There's no dangers.  
 **Translation:** 
 
-**[6560.82s] English:** that forces me to move fast.  
+**[6560.82s] English:** That forces me to move fast.  
 **Translation:** 
 
-**[6564.72s] English:** MMA, you have to be 100% sharp  
+**[6564.72s] English:** MMA, you have to be 100% sharp.  
 **Translation:** 
 
-**[6567.46s] English:** and fast  
+**[6567.46s] English:** And fast.  
 **Translation:** 
 
-**[6569.04s] English:** from the beginning.  
+**[6569.04s] English:** From the beginning.  
 **Translation:** 
 
-**[6570.00s] English:** You have to be 100% sharp  
+**[6570.00s] English:** You have to be 100% sharp.  
 **Translation:** 
 
-**[6571.00s] English:** from the first second of the fight.  
+**[6571.00s] English:** From the first second of the fight.  
 **Translation:** 
 
 **[6572.44s] English:** Because punches are coming.  
 **Translation:** 
 
-**[6573.32s] English:** You can get knocked out any time.  
+**[6573.32s] English:** You can get knocked out anytime.  
 **Translation:** 
 
 **[6575.04s] English:** One mistake,  
+**Translation:** Vocabulary: anytime: 随时
+
+**[6576.06s] English:** You're out.  
 **Translation:** 
 
-**[6576.06s] English:** you're out.  
-**Translation:** 
-
-**[6577.62s] English:** Jiu-Jitsu, you don't have that.  
+**[6577.62s] English:** Jiu-jitsu, you don't have that.  
 **Translation:** 
 
 **[6579.38s] English:** Like it's...  
 **Translation:** 
 
-**[6580.36s] English:** I don't have to worry about quick submission  
+**[6580.36s] English:** I don't have to worry about a quick submission.  
 **Translation:** 
 
-**[6581.86s] English:** because it's all about  
+**[6581.86s] English:** Because it's all about.  
 **Translation:** 
 
-**[6583.64s] English:** the way my body is positioned.  
+**[6583.64s] English:** The way my body is positioned.  
 **Translation:** 
 
 **[6585.84s] English:** You know, my grips.  
@@ -4756,31 +4757,31 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6587.76s] English:** It's easier to see it coming.  
 **Translation:** 
 
-**[6590.44s] English:** It's like a quick submission,  
+**[6590.44s] English:** It's like a quick submission.  
 **Translation:** 
 
-**[6592.38s] English:** a surprise.  
+**[6592.38s] English:** A surprise.  
 **Translation:** 
 
 **[6593.38s] English:** It only works if you make a mistake.  
 **Translation:** 
 
-**[6595.62s] English:** If you're not correct positionally.  
+**[6595.62s] English:** If you're not correctly positioned.  
 **Translation:** 
 
 **[6598.84s] English:** Otherwise, it's impossible.  
-**Translation:** Vocabulary: positionally: 按位置地
+**Translation:** 
 
 **[6599.84s] English:** It's impossible.  
 **Translation:** 
 
-**[6600.00s] English:** So it's extremely difficult.  
+**[6600.00s] English:** So, it's extremely difficult.  
 **Translation:** 
 
 **[6602.42s] English:** MMA is not.  
 **Translation:** 
 
-**[6604.20s] English:** I mean, one split-second mistake, and when the person comes, you have to respond.  
+**[6604.20s] English:** I mean, one split-second mistake, and when the person comes, you have to respond immediately.  
 **Translation:** 
 
 **[6612.28s] English:** You have to match his pace.  
@@ -4789,16 +4790,16 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6614.38s] English:** I mean, you can slow down, but it's like you're forced to respond.  
 **Translation:** 
 
-**[6617.94s] English:** So it's a much faster.  
+**[6617.94s] English:** So, it's much faster.  
 **Translation:** 
 
-**[6618.72s] English:** It's a lot more physical, a lot more.  
+**[6618.72s] English:** It's a lot more physical, a lot more intense.  
 **Translation:** 
 
-**[6623.82s] English:** And you need to be physically in much better condition and faster.  
+**[6623.82s] English:** And you need to be physically in much better condition, and faster.  
 **Translation:** 
 
-**[6628.60s] English:** So it's explosiveness.  
+**[6628.60s] English:** So, it's explosiveness.  
 **Translation:** Vocabulary: explosiveness: 爆发力
 
 **[6630.66s] English:** It's much harder.  
@@ -4810,20 +4811,20 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6636.00s] English:** If they change the rules, yeah.  
 **Translation:** 
 
-**[6637.84s] English:** Five-minute rules, no.  
+**[6637.84s] English:** Five-minute rules, No.  
 **Translation:** 
 
 **[6640.30s] English:** Ah, I see.  
 **Translation:** 
 
-**[6641.92s] English:** So I just meant actually technically speaking,  
-**Translation:** 
+**[6641.92s] English:** So, I just meant actually, technically speaking,  
+**Translation:** Vocabulary: technically: 从技术上说
 
-**[6645.10s] English:** is there ways to take an opponent that's being exceptionally aggressive?  
+**[6645.10s] English:** Is there a way to take an opponent that's being exceptionally aggressive?  
 **Translation:** 
 
 **[6650.20s] English:** You can.  
-**Translation:** Vocabulary: exceptionally: 特别
+**Translation:** 
 
 **[6650.90s] English:** Clinch.  
 **Translation:** 
@@ -4837,7 +4838,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6653.14s] English:** He keeps moving.  
 **Translation:** 
 
-**[6654.62s] English:** So it's hard to control that pace.  
+**[6654.62s] English:** So, it's hard to control that pace.  
 **Translation:** 
 
 **[6658.60s] English:** You can.  
@@ -4846,7 +4847,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6659.94s] English:** If you play defense, you save more energy than if you try to be the aggressor and respond.  
 **Translation:** 
 
-**[6666.28s] English:** And even getting to the clinch is very difficult.  
+**[6666.28s] English:** And, even getting to the clinch is very difficult.  
 **Translation:** Vocabulary: aggressor: 攻击者
 
 **[6668.10s] English:** Yeah.  
@@ -4855,10 +4856,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6668.60s] English:** You have no way to hold yourself there.  
 **Translation:** 
 
-**[6671.52s] English:** So that was the biggest challenge for me in MMA is the speed.  
+**[6671.52s] English:** So, that was the biggest challenge for me in MMA: the speed.  
 **Translation:** 
 
-**[6674.86s] English:** Because I'm a very slow start fighter.  
+**[6674.86s] English:** Because I'm a very slow starter.  
 **Translation:** 
 
 **[6677.70s] English:** If you look at my matches, I start very slow.  
@@ -4867,7 +4868,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6680.00s] English:** Because if I go hard, I fatigue faster.  
 **Translation:** Vocabulary: fatigue: 疲劳
 
-**[6684.10s] English:** So for me, that was the hardest part.  
+**[6684.10s] English:** So, for me, that was the hardest part.  
 **Translation:** 
 
 **[6686.80s] English:** It's to start fast.  
@@ -4876,7 +4877,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6690.08s] English:** What about on the ground?  
 **Translation:** 
 
-**[6691.16s] English:** Is there something different, more challenging on the ground?  
+**[6691.16s] English:** Is there anything different or more challenging on the ground?  
 **Translation:** 
 
 **[6695.18s] English:** Being in the bottom?  
@@ -4885,17 +4886,17 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6696.12s] English:** Yes.  
 **Translation:** 
 
-**[6696.72s] English:** There's punches.  
+**[6696.72s] English:** There's some punches.  
 **Translation:** 
 
 **[6697.70s] English:** Punch coming.  
-**Translation:** 
+**Translation:** Vocabulary: punches: 打击
 
 **[6698.46s] English:** How fundamentally different is jiu-jitsu with punches on the ground?  
 **Translation:** 
 
 **[6701.26s] English:** It changes everything.  
-**Translation:** Vocabulary: fundamentally: 从根本上
+**Translation:** Vocabulary: fundamentally: 根本上
 
 **[6702.84s] English:** Everything.  
 **Translation:** 
@@ -4907,213 +4908,213 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **Translation:** 
 
 **[6708.72s] English:** The techniques that you choose to apply.  
-**Translation:** 
+**Translation:** Vocabulary: opponent: 对手
 
-**[6711.64s] English:** You know, you have to...  
+**[6711.64s] English:** You know, you have to....  
 **Translation:** 
 
 **[6715.22s] English:** Your body has to be aware.  
 **Translation:** 
 
-**[6716.80s] English:** Aware of the punches and, you know, you are a lot more limited.  
+**[6716.80s] English:** Aware of the punches, and you know, you are a lot more limited.  
 **Translation:** 
 
-**[6720.00s] English:** On your attacks like so you're you're known for your close guards. How does your close guard have to adjust?  
+**[6720.00s] English:** On your attacks, like so—you're known for your close guards. How do your close guard techniques need to adjust?  
 **Translation:** 
 
-**[6725.18s] English:** How does the positioning of your hands have to adjust when you're on the bottom of close guard?  
+**[6725.18s] English:** How does the positioning of your hands have to adjust when you're on the bottom in closed guard?  
 **Translation:** 
 
-**[6729.32s] English:** So in the guide, especially the close guard you you have to keep the person very close to you or you have to kick him away  
+**[6729.32s] English:** So, in the guide, especially for close guard, you have to keep the person very close to you, or you have to kick him away.  
 **Translation:** 
 
-**[6737.62s] English:** That's the in the guard is either I'm hugging you or get away from any jiu-jitsu. You're allowed to have a middle  
+**[6737.62s] English:** That's the guard: either I'm hugging you, or get away. From any jiu-jitsu, you're allowed to have a middle.  
 **Translation:** 
 
-**[6743.88s] English:** Yeah, I'm did you see there's a lot of you can allow the person to be  
-**Translation:** 
+**[6743.88s] English:** Yeah, I'm did you see there's a lot you can allow the person to be.  
+**Translation:** Vocabulary: hugging: 拥抱
 
-**[6747.28s] English:** What about getting a arm lock or a triangle submissions from the from the guard is  
+**[6747.28s] English:** What about getting an arm lock or a triangle submission from the guard?  
 **Translation:** 
 
 **[6755.00s] English:** Is that fundamentally different?  
-**Translation:** Vocabulary: triangle: 三角锁
-
-**[6758.42s] English:** Because you don't have the middle game  
 **Translation:** 
 
-**[6760.58s] English:** It's much harder  
+**[6758.42s] English:** Because you don't have the middle game.  
 **Translation:** 
 
-**[6762.68s] English:** There's barely no open guard in MMA very little  
+**[6760.58s] English:** It's much harder.  
 **Translation:** 
 
-**[6768.26s] English:** Because the open guard there's a distance between you and him. Yeah, there's a distance see how you cannot control  
-**Translation:** Vocabulary: cannot: 不能
-
-**[6774.66s] English:** it's much harder to control that punch coming and  
+**[6762.68s] English:** There's barely any open guard in MMA; very little.  
 **Translation:** 
 
-**[6777.28s] English:** I  
+**[6768.26s] English:** Because in the open guard, there's a distance between you and your opponent. Yeah, there's a distance; see how you cannot control.  
 **Translation:** 
 
-**[6778.00s] English:** Have to position myself a way to block that and it limited my attacks my options of attacks. Is there a reason?  
+**[6774.66s] English:** It's much harder to control that punch coming in.  
 **Translation:** 
 
-**[6785.84s] English:** Correct me if I'm wrong, but I don't think you do open guard much in jiu-jitsu and no gi  
+**[6777.28s] English:** I.  
+**Translation:** 
+
+**[6778.00s] English:** I had to position myself in a way to block that, which limited my attack options. Is there a reason?  
+**Translation:** 
+
+**[6785.84s] English:** Correct me if I'm wrong, but I don't think you do open guard much in jiu-jitsu or no-gi.  
 **Translation:** 
 
 **[6791.92s] English:** Is there a reason for that?  
 **Translation:** 
 
-**[6793.96s] English:** It's harder  
+**[6793.96s] English:** It's harder.  
 **Translation:** 
 
-**[6795.56s] English:** with the explosive  
+**[6795.56s] English:** With the explosive  
 **Translation:** 
 
-**[6798.38s] English:** Explosive person because it's not when they're moving fast, then you have to try to slow them down  
-**Translation:** Vocabulary: explosive: 易爆物品
+**[6798.38s] English:** Explosive person; because it's not when they're moving fast, then you have to try to slow them down.  
+**Translation:** Vocabulary: explosive: 易爆炸的
 
-**[6803.88s] English:** So you like guards that allow you to control the person?  
+**[6803.88s] English:** So, you like guards that allow you to control the person?  
 **Translation:** 
 
-**[6807.28s] English:** and  
+**[6807.28s] English:** And  
 **Translation:** 
 
-**[6808.18s] English:** Close guard is the ultimate control. Yeah  
+**[6808.18s] English:** Close guard is the ultimate control. Yeah.  
 **Translation:** 
 
-**[6811.22s] English:** It's not ultimate control but close guard puts in a position that I'm attacking in your defending  
+**[6811.22s] English:** It's not ultimate control, but close guard puts me in a position to attack while you're defending.  
 **Translation:** 
 
-**[6816.44s] English:** You cannot attack me from my close guard  
+**[6816.44s] English:** You cannot attack me from my close guard!  
 **Translation:** 
 
-**[6820.34s] English:** We can aggregate that there's might be one or two attacks, but it's like  
-**Translation:** Vocabulary: aggregate: 汇总
+**[6820.34s] English:** We can aggregate that there might be one or two attacks, but it's like  
+**Translation:** Vocabulary: aggregate: 汇总; cannot: 不能
 
-**[6824.32s] English:** very very very limited and  
+**[6824.32s] English:** Very, very, very limited and  
 **Translation:** 
 
 **[6827.62s] English:** Depends on who you're fighting against. I  
 **Translation:** 
 
-**[6830.42s] English:** Hate the close guard like being on top. Well against a good close guard is very one likes this is terrible. It's horrible  
+**[6830.42s] English:** Hate the close guard; it's like being on top. Well, against a good close guard, it's very one likes this—is terrible. It's horrible.  
 **Translation:** 
 
-**[6837.28s] English:** It's one-sided. Yeah, so even the guard  
+**[6837.28s] English:** It's one-sided. Yeah, so even the guard.  
 **Translation:** 
 
-**[6840.00s] English:** and he's one-sided.  
+**[6840.00s] English:** And he's one-sided.  
 **Translation:** 
 
-**[6841.10s] English:** The person at the bottom  
+**[6841.10s] English:** The person at the bottom.  
 **Translation:** 
 
-**[6841.80s] English:** has the advantage.  
+**[6841.80s] English:** Has the advantage.  
 **Translation:** 
 
-**[6842.90s] English:** I can be completely relaxed  
+**[6842.90s] English:** I can be completely relaxed.  
 **Translation:** 
 
-**[6844.08s] English:** in my close guard  
+**[6844.08s] English:** In my close guard.  
 **Translation:** 
 
-**[6844.88s] English:** and I cannot be completely relaxed.  
+**[6844.88s] English:** And I cannot be completely relaxed.  
 **Translation:** 
 
 **[6847.52s] English:** You know what the most annoying thing is?  
 **Translation:** 
 
-**[6849.12s] English:** It's somebody who is both good  
+**[6849.12s] English:** It's somebody who is both good.  
 **Translation:** 
 
-**[6850.70s] English:** and extremely confident  
+**[6850.70s] English:** And they were extremely confident.  
 **Translation:** 
 
-**[6851.76s] English:** with the close guard  
+**[6851.76s] English:** With the close guard.  
 **Translation:** 
 
-**[6852.56s] English:** because they have that smug energy  
+**[6852.56s] English:** Because they have that smug energy.  
 **Translation:** 
 
-**[6854.88s] English:** about them.  
+**[6854.88s] English:** About them.  
 **Translation:** 
 
-**[6856.04s] English:** They know how much unpleasant,  
+**[6856.04s] English:** They know how much unpleasant.  
 **Translation:** 
 
-**[6857.78s] English:** how much work it takes  
+**[6857.78s] English:** How much work it takes.  
 **Translation:** 
 
-**[6858.82s] English:** to pass this.  
+**[6858.82s] English:** To pass this,  
 **Translation:** 
 
 **[6860.24s] English:** Anyway,  
 **Translation:** 
 
-**[6861.56s] English:** especially people with longer legs.  
+**[6861.56s] English:** Especially people with longer legs.  
 **Translation:** 
 
-**[6865.22s] English:** Is there something you  
+**[6865.22s] English:** Is there something you want to talk about?  
 **Translation:** 
 
-**[6866.58s] English:** wish you did differently  
+**[6866.58s] English:** Wish you had done it differently.  
 **Translation:** 
 
-**[6868.50s] English:** in how you started training at MMA  
+**[6868.50s] English:** In how you started training in MMA,  
 **Translation:** 
 
-**[6870.76s] English:** in that trajectory  
+**[6870.76s] English:** In that trajectory.  
 **Translation:** 
 
-**[6871.96s] English:** in figuring out how to train,  
+**[6871.96s] English:** In figuring out how to train,  
 **Translation:** Vocabulary: trajectory: 轨迹
 
-**[6874.56s] English:** how to get good?  
+**[6874.56s] English:** How to get good?  
 **Translation:** 
 
-**[6875.90s] English:** What have you learned  
+**[6875.90s] English:** What have you learned?  
 **Translation:** 
 
-**[6876.72s] English:** about getting good at MMA  
+**[6876.72s] English:** About getting good at MMA.  
 **Translation:** 
 
-**[6877.98s] English:** from having done it?  
+**[6877.98s] English:** From having done it?  
 **Translation:** 
 
 **[6880.48s] English:** If you were to start now,  
 **Translation:** 
 
-**[6881.96s] English:** for example.  
+**[6881.96s] English:** For example.  
 **Translation:** 
 
 **[6883.62s] English:** I think I would have to dedicate it more.  
 **Translation:** 
 
 **[6886.34s] English:** I didn't dedicate enough.  
+**Translation:** Vocabulary: dedicate: 献身于
+
+**[6888.14s] English:** Both literally, it's time.  
 **Translation:** 
 
-**[6888.14s] English:** Both literally time,  
+**[6890.18s] English:** Number of training sessions,  
 **Translation:** 
 
-**[6890.18s] English:** number of training sessions,  
-**Translation:** 
-
-**[6891.58s] English:** but also mental.  
+**[6891.58s] English:** But also, mental.  
 **Translation:** 
 
 **[6892.50s] English:** Training-wise,  
 **Translation:** 
 
-**[6892.98s] English:** physical.  
+**[6892.98s] English:** Physical.  
 **Translation:** 
 
-**[6893.76s] English:** I think a lot more  
+**[6893.76s] English:** I think a lot more.  
 **Translation:** 
 
-**[6894.84s] English:** the physical part of it.  
+**[6894.84s] English:** The physical part of it.  
 **Translation:** 
 
 **[6896.42s] English:** The strikes?  
@@ -5131,34 +5132,34 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6902.40s] English:** I love Jiu-Jitsu.  
 **Translation:** 
 
-**[6903.82s] English:** I truly love  
+**[6903.82s] English:** I truly love.  
 **Translation:** 
 
-**[6905.06s] English:** all the aspects of it.  
+**[6905.06s] English:** All the aspects of it.  
 **Translation:** 
 
-**[6907.60s] English:** Fighting,  
+**[6907.60s] English:** Fighting,...  
 **Translation:** 
 
-**[6908.24s] English:** training,  
+**[6908.24s] English:** Training,  
 **Translation:** 
 
-**[6909.10s] English:** the practice,  
+**[6909.10s] English:** The practice,  
 **Translation:** 
 
-**[6910.10s] English:** the competition.  
+**[6910.10s] English:** The competition.  
 **Translation:** 
 
 **[6911.60s] English:** I don't have that for MMA.  
 **Translation:** 
 
-**[6913.72s] English:** So it's hard to give your heart to it,  
+**[6913.72s] English:** So it's hard to give your heart to it.  
 **Translation:** 
 
-**[6916.12s] English:** something that you don't have  
+**[6916.12s] English:** Something that you don't have.  
 **Translation:** 
 
-**[6917.12s] English:** the passion to it.  
+**[6917.12s] English:** The passion to it.  
 **Translation:** 
 
 **[6918.38s] English:** Like Jiu-Jitsu,  
@@ -5182,40 +5183,40 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6926.74s] English:** So,  
 **Translation:** 
 
-**[6927.36s] English:** that's why it was...  
+**[6927.36s] English:** That's why it was...  
 **Translation:** 
 
-**[6929.36s] English:** I won't say it was wrong for me to do it,  
+**[6929.36s] English:** I won't say it was wrong for me to do it.  
 **Translation:** 
 
-**[6934.64s] English:** because I don't regret doing it.  
+**[6934.64s] English:** Because I don't regret doing it.  
 **Translation:** 
 
 **[6936.76s] English:** I always,  
 **Translation:** 
 
-**[6937.96s] English:** you know,  
+**[6937.96s] English:** You know,  
 **Translation:** 
 
-**[6938.22s] English:** looking back as a kid  
+**[6938.22s] English:** Looking back as a kid,  
 **Translation:** 
 
-**[6940.02s] English:** when I decided to,  
+**[6940.02s] English:** When I decided to,  
 **Translation:** 
 
-**[6941.08s] English:** you know,  
+**[6941.08s] English:** You know,  
 **Translation:** 
 
-**[6941.46s] English:** to be,  
+**[6941.46s] English:** To be,  
 **Translation:** 
 
-**[6942.20s] English:** to take Jiu-Jitsu for life,  
+**[6942.20s] English:** To take Jiu-Jitsu for life,  
 **Translation:** 
 
-**[6944.72s] English:** I already knew  
+**[6944.72s] English:** I already knew.  
 **Translation:** 
 
-**[6946.48s] English:** that at some point  
+**[6946.48s] English:** That at some point,  
 **Translation:** 
 
 **[6947.66s] English:** I would have to do MMA.  
@@ -5224,724 +5225,724 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[6949.20s] English:** It's almost like  
 **Translation:** 
 
-**[6950.00s] English:** that's the path of a Gracie.  
+**[6950.00s] English:** That's the path of a Gracie.  
 **Translation:** Vocabulary: gracie: 格雷西
 
 **[6952.38s] English:** You know,  
 **Translation:** 
 
-**[6952.80s] English:** when you're ready,  
+**[6952.80s] English:** When you're ready,  
 **Translation:** 
 
-**[6954.28s] English:** you go do MMA.  
+**[6954.28s] English:** You go do MMA.  
 **Translation:** 
 
 **[6956.26s] English:** So,  
 **Translation:** 
 
-**[6956.70s] English:** there was,  
+**[6956.70s] English:** There was,  
 **Translation:** 
 
-**[6957.36s] English:** like a duty versus a love.  
+**[6957.36s] English:** Like a duty versus a love.  
 **Translation:** 
 
 **[6959.38s] English:** Yeah.  
 **Translation:** 
 
-**[6960.00s] English:** that was not a choice that was like i have to that's just the life i took he will lead that way  
+**[6960.00s] English:** That was not a choice; that's just the life I took. He'll lead that way.  
 **Translation:** 
 
-**[6968.24s] English:** are you proud of that step you know go against the natural love and towards more duty i think  
+**[6968.24s] English:** Are you proud of that step, you know, going against the natural love and toward more duty? I think.  
 **Translation:** 
 
-**[6976.88s] English:** i don't regret it because if i hadn't done it i would feel there was something missing  
+**[6976.88s] English:** I don't regret it because if I hadn't done it, I would feel there was something missing.  
 **Translation:** 
 
-**[6983.20s] English:** yeah so i don't regret doing i would regret not doing  
+**[6983.20s] English:** Yeah, so I don't regret doing it; I would regret not doing it.  
 **Translation:** 
 
-**[6990.00s] English:** the the tricky thing is the choice to go to mma could have compromised your ability to  
-**Translation:** Vocabulary: compromised: 损害
+**[6990.00s] English:** The tricky thing is, the choice to go into MMA could have compromised your ability to.  
+**Translation:** Vocabulary: compromised: 损害; tricky: 棘手
 
-**[6996.08s] English:** win against buchesha and it didn't and it's um it's a fascinating case study it still doesn't  
+**[6996.08s] English:** Win against BucheSHA, and it didn't. And it's a fascinating case study; it still doesn't.  
 **Translation:** 
 
-**[7004.48s] English:** make sense to me they after all those years you're able to come back and go against the  
+**[7004.48s] English:** It makes sense to me that after all those years, you're able to come back and go against them.  
 **Translation:** 
 
-**[7009.04s] English:** best person in the world and beat him yeah and i had to because the first fight we had  
+**[7009.04s] English:** Best person in the world, and beat him, yeah. And I had to, because the first fight we had.  
 **Translation:** 
 
-**[7016.80s] English:** i had something stuck in my throat for a long time  
+**[7016.80s] English:** I had something stuck in my throat for a long time.  
 **Translation:** 
 
-**[7020.08s] English:** i had you think so you think about that oh yeah i'm like as soon as that first fight finished  
+**[7020.08s] English:** I had you think so? You think about that. Oh, yeah, I'm like, as soon as that first fight finished,...  
 **Translation:** 
 
-**[7028.32s] English:** i had said that got stuck in my throat that i already at that point i knew  
+**[7028.32s] English:** I had said that got stuck in my throat, that I already knew at that point.  
 **Translation:** 
 
-**[7033.52s] English:** i'm gonna have to fight him again i knew i always knew because there's no choice i have to oh man  
+**[7033.52s] English:** I'm gonna have to fight him again. I knew I always knew, because there's no choice. I have to. Oh man.  
 **Translation:** 
 
-**[7042.16s] English:** all right well in terms of nogi who do you think is the best nogi competitor of all time there's no  
+**[7042.16s] English:** All right, well, in terms of Nogi, who do you think is the best Nogi competitor of all time? There's no  
 **Translation:** 
 
-**[7050.00s] English:** question you know it's gordon is i mean it's i don't think he's right to say the best competitor  
+**[7050.00s] English:** Question, you know, it's Gordon. I mean, I don't think he's right to say the best competitor.  
 **Translation:** 
 
-**[7057.28s] English:** of all time because he's still very young i think that's something that he can be i or in the end of  
+**[7057.28s] English:** Of all time, because he's still very young. I think that's something he can be, or in the end.  
 **Translation:** 
 
-**[7062.00s] English:** when the person you don't want to get lazy you know what i mean but you cannot praise someone  
+**[7062.00s] English:** When the person you don't want to get lazy, you know what I mean, but you cannot praise someone.  
 **Translation:** 
 
-**[7067.36s] English:** in the middle of his career you know so it's you cannot call him the best ever he's 26 or 27.  
+**[7067.36s] English:** In the middle of his career, you know, so you can't call him the best ever; he's 26 or 27.  
 **Translation:** 
 
-**[7074.48s] English:** so it's i mean he's he's great he's very good he's ahead of all her  
+**[7074.48s] English:** So, it's true. He is great; he's very good, and he's ahead of her.  
 **Translation:** 
 
-**[7080.00s] English:** all of other competitors i think and i mean he's having an amazing career you know he's doing  
+**[7080.00s] English:** All of the other competitors, I think, and I mean, he's having an amazing career; you know, he's doing  
 **Translation:** 
 
-**[7087.12s] English:** amazingly well so i mean when he's when he finished when he finally retired then you can  
+**[7087.12s] English:** Amazingly, it was well done. So, I mean, when he finally finished and retired, then you could see  
 **Translation:** 
 
-**[7093.52s] English:** argue like you know what there's wisdom in that it matters how you finish right of course it's  
+**[7093.52s] English:** Argue like you know what? There's wisdom in that; it matters how you finish, right? Of course, it's  
 **Translation:** 
 
-**[7100.80s] English:** very interesting i think the nogi is relatively new that nogi scene there was not there wasn't  
+**[7100.80s] English:** Very interesting. I think NOGI is relatively new; that no gi scene wasn't there before.  
 **Translation:** 
 
-**[7109.84s] English:** a scene before i think he started now on his generation you know his time because before  
+**[7109.84s] English:** A scene before I think he started, now on his generation—known as his time—because before.  
 **Translation:** 
 
-**[7117.36s] English:** like when i was competing nogi was just adcc there's nothing else every two years and first  
+**[7117.36s] English:** Like when I was competing, NOGI was just ADCC; there's nothing else every two years, and first.  
 **Translation:** 
 
-**[7123.84s] English:** was only in the emirates you know you should have you had to go there to compete so there was not  
+**[7123.84s] English:** Was only in the Emirates that you should have gone there to compete, so there wasn't.  
+**Translation:** Vocabulary: emirates: 阿拉伯联合酋长国
+
+**[7129.12s] English:** Even a scene there was like this one.  
 **Translation:** 
 
-**[7129.12s] English:** even a scene there was like this one  
+**[7130.80s] English:** Tournament that gives a lot of money to, you know, competitors/fighters and brings in fighters.  
 **Translation:** 
 
-**[7130.80s] English:** tournament that gives a lot of money to you know to competitors to fighters and brings fighters  
+**[7138.80s] English:** From other modalities, you know, Mark Van Narsdale; you know, some wrestlers, Greco-Roman, you know.  
 **Translation:** 
 
-**[7138.80s] English:** from other modalities you know mark van narsdale you know some wrestlers greco-roman you know  
+**[7148.72s] English:** That can compete against each other and they, you know, they create that set of rules try not.  
+**Translation:** Vocabulary: modalities: 方式; wrestlers: 摔跤手
+
+**[7154.64s] English:** To favor anyone would be inappropriate, so that was it. So, you cannot be called the greatest Doge.  
 **Translation:** 
 
-**[7148.72s] English:** that can compete against each other and they you know they create that set of rules try not  
-**Translation:** Vocabulary: modalities: 运动形式; wrestlers: 摔跤手
+**[7160.80s] English:** Of all time, if you only have one tournament every two years, only in Emirates they have to be invited.  
+**Translation:** Vocabulary: inappropriate: 不合适的
 
-**[7154.64s] English:** to favor anyone so that was it so you cannot be called the greatest doge  
+**[7167.12s] English:** To be honest, I think now you know it has grown a lot. Now we have so many different tournaments.  
 **Translation:** 
 
-**[7160.80s] English:** of all time if you only have one tournament every two years only in emirates they have to be invited  
-**Translation:** Vocabulary: cannot: 不能; emirates: 酋长国
-
-**[7167.12s] English:** to but i think now you know it grew a lot now we have so many different tournaments now we  
+**[7174.32s] English:** Have a scene where you have people who are solely dedicated to training nogi, then you have  
 **Translation:** 
 
-**[7174.32s] English:** have a scene you have people that only train nogi they're fully dedicated to nogi then you have  
+**[7180.24s] English:** Supervised different tournaments, so now I say there's now, you know, it's professionally.  
 **Translation:** 
 
-**[7180.24s] English:** supervised different tournaments so now i say there's now you know now it's professionally  
+**[7186.16s] English:** You can do just no Gina, which before was unheard of, because you have one or two tournaments.  
+**Translation:** Vocabulary: supervised: 监督; unheard: 闻所未闻
+
+**[7190.80s] English:** If you cannot be called a nogi fighter, fighting once or twice, once every two years, twice every two years.  
 **Translation:** 
 
-**[7186.16s] English:** you can do just no gina which before was unheard of it because you you have one or two tournaments  
+**[7197.84s] English:** Years, yeah. Now, there's an entire  
 **Translation:** 
 
-**[7190.80s] English:** if you cannot be called a nogi fighter fighting once or two once every two years twice every two  
+**[7200.00s] English:** Are there systems that are optimized for no-gi that could be fundamentally different? What do you think?  
 **Translation:** 
 
-**[7197.84s] English:** years yeah now there's an entire  
-**Translation:** 
-
-**[7200.00s] English:** are systems that are optimized for nogi that could be fundamentally different like what do you think  
-**Translation:** 
-
-**[7204.80s] English:** about the body lock like this passing with the body lock i i don't know if you get an  
+**[7204.80s] English:** About the body lock, like this passing with the body lock—I don't know if you get it.  
 **Translation:** Vocabulary: fundamentally: 从根本上; optimized: 优化
 
-**[7210.56s] English:** understanding of it yeah that i think it's okay it's a it's a popular way to um what is it to  
+**[7210.56s] English:** Understanding of it, yeah. I think it's okay; it's a popular way to, um, what is it to?  
 **Translation:** 
 
-**[7222.80s] English:** maybe to apply to stay tight to stay very close to your parent your your opponent so he can't push  
+**[7222.80s] English:** Maybe you should stay tight and stay very close to your opponent so he can't push you.  
+**Translation:** Vocabulary: opponent: 对手
+
+**[7229.28s] English:** Create distance, he can push away, but somehow it uh shuts down the hips as well, yeah, makes it more.  
 **Translation:** 
 
-**[7229.28s] English:** create distance he can push away but somehow it uh shuts down the hips as well yeah makes it more  
+**[7237.28s] English:** Difficult to, yeah, trap your legs. You'd see your back get stuck against the floor. Are you like?  
 **Translation:** 
 
-**[7237.28s] English:** difficult to yeah trap your legs you'd see your back get stuck on against the floor are you like  
+**[7244.64s] English:** Scientifically curious about these new developments, do you think you have?  
 **Translation:** 
 
-**[7244.64s] English:** scientifically curious about these new developments do you think do you do you have  
-**Translation:** 
-
-**[7250.80s] English:** answers in your head to them most so body lock is one interesting one obviously foot locks is  
+**[7250.80s] English:** Answers in your head to them, most so. Body lock is one interesting one; obviously, foot locks is.  
 **Translation:** Vocabulary: scientifically: 科学地
 
-**[7258.72s] English:** another  
+**[7258.72s] English:** Another  
 **Translation:** 
 
-**[7259.28s] English:** and that'll mean just the foot locks but the whole like control aspect of foot locks  
+**[7259.28s] English:** And that'll mean just the foot locks, but the whole control aspect of foot locks.  
 **Translation:** 
 
-**[7265.68s] English:** that's interesting and there's other there's other interesting stuff john is really into uh  
+**[7265.68s] English:** That's interesting, and there's other interesting stuff John is really into, uh,...  
 **Translation:** 
 
-**[7270.16s] English:** um the wrestling aspect but not wrestling wrestling but wrestling everywhere  
+**[7270.16s] English:** Um, the wrestling aspect, but not just in wrestling; wrestling everywhere.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[7277.76s] English:** jiu jitsu at all levels of the plane um that's that's very interesting because you know  
+**[7277.76s] English:** Jiu-jitsu at all levels of the plane, um, that's very interesting because, you know,...  
 **Translation:** 
 
-**[7282.88s] English:** obviously jesus has not really been you know unlike like freestyle wrestling and so on has  
+**[7282.88s] English:** Obviously, Jesus hasn't really been, you know, unlike, like freestyle wrestling, and so on, has he?  
 **Translation:** Vocabulary: freestyle: 自由式
 
-**[7289.28s] English:** been this like a systematic scientific rigorous exploration of wrestling it's like you're on your  
+**[7289.28s] English:** This has been more like a systematic, scientific, rigorous exploration of wrestling; it's like you're on your  
 **Translation:** 
 
-**[7294.56s] English:** feet and you're on the ground not not into mix there's a lot of interest john is academic he  
-**Translation:** Vocabulary: rigorous: 严谨
+**[7294.56s] English:** Feet, and you're on the ground—not mixed up there. There's a lot of interest. John is academic, he  
+**Translation:** Vocabulary: rigorous: 严谨的
 
-**[7300.24s] English:** tried to you know numbers mathematic everything but you kind of are too yeah no i mean i  
+**[7300.24s] English:** Tried to, you know, numbers, mathematics, everything, but you kind of are, too. Yeah, no, I mean, I.  
 **Translation:** 
 
-**[7310.88s] English:** i am because you have to understand what you're doing you know  
+**[7310.88s] English:** I am, because you have to understand what you're doing, you know.  
 **Translation:** 
 
-**[7314.08s] English:** usually there's a everything there's a step-by-step  
+**[7314.08s] English:** Usually, there's a step-by-step process.  
 **Translation:** 
 
-**[7318.80s] English:** like low  
+**[7318.80s] English:** Like low,  
 **Translation:** 
 
-**[7319.12s] English:** logistic like  
+**[7319.12s] English:** Logistic, like  
 **Translation:** 
 
-**[7320.00s] English:** details every single move there's a reason for it you know there's things around that happens it's  
-**Translation:** Vocabulary: logistic: 物流的
+**[7320.00s] English:** Details every single move; there's a reason for it, you know. There are things that happen around it.  
+**Translation:** Vocabulary: logistic: 物流
 
-**[7326.96s] English:** the more you know the better you are right the more knowledgeable compared or whatever  
+**[7326.96s] English:** The more you know, the better you are, right? The more knowledgeable, compared to others or whatever.  
 **Translation:** 
 
-**[7333.52s] English:** so i think with the foot locks with the nogi like if you look back you know if you think of  
-**Translation:** Vocabulary: knowledgeable: 见多识广
+**[7333.52s] English:** So, I think with the foot locks in no-gi, if you look back, you know, if you think of  
+**Translation:** Vocabulary: knowledgeable: 有知识的
 
-**[7341.44s] English:** used to be seen as a really bad thing to attack the foot it wasn't seen as a good options of attack  
+**[7341.44s] English:** Used to be seen as a really bad thing to attack the foot; it wasn't seen as one of the good options of attack.  
 **Translation:** 
 
-**[7348.08s] English:** mainly what is that respectable gentleman don't attack the leg or what no because if you look back  
+**[7348.08s] English:** Mainly, what is that respectable gentleman not attacking the leg for? Or is it because if you look back...  
 **Translation:** 
 
-**[7355.04s] English:** you know the tournaments that when they were created all the rules and everything else was  
+**[7355.04s] English:** You know, in the tournaments that were created, all the rules and everything else were also established.  
 **Translation:** 
 
-**[7359.80s] English:** to simulate a real fight with no punches when i was having a gi i mean if you ask what is jiu-jitsu  
-**Translation:** Vocabulary: simulate: 模拟
+**[7359.80s] English:** To simulate a real fight with no punches, when I was having a gi, I mean, if you ask what is jiu-jitsu?  
+**Translation:** Vocabulary: punches: 拳击; simulate: 模拟
 
-**[7366.54s] English:** like what are you trying what's the main goal of jiu-jitsu to dominate your opponent what's the  
+**[7366.54s] English:** Like, what are you trying? What's the main goal of jiu-jitsu—to dominate your opponent? What's the  
 **Translation:** 
 
-**[7371.44s] English:** main goal of fighting it's we're fighting it's of course submission is the ultimate goal  
-**Translation:** Vocabulary: dominate: 压制
+**[7371.44s] English:** The main goal of fighting, of course, is submission—the ultimate goal.  
+**Translation:** Vocabulary: dominate: 压制; opponent: 对手
 
-**[7378.24s] English:** but the you know before that the main goal is to dominate you  
+**[7378.24s] English:** But the main goal is to dominate, you know, before that.  
 **Translation:** 
 
-**[7382.72s] English:** like we're fighting i have to dominate you and then the submission comes  
+**[7382.72s] English:** Like we're fighting; I have to dominate you, and then the submission comes.  
 **Translation:** 
 
-**[7387.52s] English:** and foot locks it's i don't require any domination on you i don't i i don't need to be in a dominant  
+**[7387.52s] English:** And foot locks; it's just that I don't require any domination from you. I don't need to be in a dominant position.  
 **Translation:** 
 
-**[7395.92s] English:** position to attack your foot and is this if i attack your foot you're still free to knock me out  
-**Translation:** Vocabulary: domination: 支配权
+**[7395.92s] English:** Position to attack your foot, and is this: if I attack your foot, you're still free to knock me out.  
+**Translation:** Vocabulary: dominant: 支配的; domination: 支配
 
-**[7402.40s] English:** if your body goes down to my foot i can still come close to you or stand up and i'll punch you so it's  
+**[7402.40s] English:** If your body goes down to my foot, I can still come close to you, or stand up and punch you, so it's  
 **Translation:** 
 
-**[7408.08s] English:** a good position to be in a real fight yeah to attack in the foot i mean how many times you've  
+**[7408.08s] English:** A good position to be in a real fight, yeah—to attack in the foot. I mean, how many times have you  
 **Translation:** 
 
-**[7414.00s] English:** seen that going bad that going bad in a in an mma fight i mean of course you had so you know some  
+**[7414.00s] English:** Seen that going bad, that going bad in an MMA fight; I mean, of course, you had to know some.  
 **Translation:** 
 
-**[7420.88s] English:** sort of success with the hooker it's no questions but how many times went wrong people were knocked  
+**[7420.88s] English:** Sort of success with the hooker; it's no questions, but how many times went wrong? People were knocked.  
 **Translation:** 
 
-**[7426.56s] English:** out attacking the foot so you can't say it's the best position to be it's it's okay to go but it's  
+**[7426.56s] English:** Out attacking the foot, so you can't say it's the best position to be. It's okay to go, but it's  
 **Translation:** 
 
-**[7432.24s] English:** a very high risky position to go so that's why it's not in a real situation it's not seen as a  
+**[7432.24s] English:** A very high-risk position to go, so that's why it's not seen as a realistic situation.  
 **Translation:** 
 
-**[7438.08s] English:** thing so when you translate  
+**[7438.08s] English:** Things to keep in mind when you translate:  
 **Translation:** 
 
-**[7440.00s] English:** that to jiu-jitsu when attacking the foot is not seen as a good thing because when you reflect that  
-**Translation:** 
-
-**[7444.66s] English:** to a real situation it's not going to go down well so it was always seen as a as an easy way out you  
-**Translation:** 
-
-**[7452.48s] English:** know easy cut you're trying you're trying to the easy path you can't pass my guard you can't  
-**Translation:** 
-
-**[7456.60s] English:** dominate me and then you're trying to attack my foot that's why it was always seen as a you know  
-**Translation:** 
-
-**[7462.58s] English:** it's not as the best a great submission a way to win but the sad side effect of that is it was  
-**Translation:** 
-
-**[7468.10s] English:** completely underdeveloped because of that exactly of course so people never really developed that  
-**Translation:** 
-
-**[7475.48s] English:** but now the the tournaments the fighting it got completely not completely but it got some  
-**Translation:** Vocabulary: underdeveloped: 发育不足
-
-**[7482.20s] English:** it's not longer seen as you know as a simulation of the real thing now is a now is a sport it's  
-**Translation:** 
-
-**[7489.44s] English:** only seen as a sport so now it doesn't matter if you attack my foot you cannot punch me  
-**Translation:** Vocabulary: cannot: 不允许; simulation: 模拟
-
-**[7493.98s] English:** so why is it bad now to attack the foot  
-**Translation:** 
-
-**[7496.86s] English:** this is not  
-**Translation:** 
-
-**[7498.10s] English:** seen as a bad thing anymore and it now it got really developed i don't know that's another  
-**Translation:** 
-
-**[7504.84s] English:** bear versus shark question but you know there is um in a street self-defense situation it's  
-**Translation:** 
-
-**[7513.86s] English:** possible to imagine where foot locks would be effective for highly but i guess if you invest  
-**Translation:** 
-
-**[7519.36s] English:** 10 000 hours it's better to invest it in chokes yeah to dominate if i'm you know if we're fighting  
-**Translation:** Vocabulary: dominate: 支配
-
-**[7526.76s] English:** it's  
-**Translation:** 
-
-**[7528.10s] English:** really better for me to be on your side control on the mount where i can pin you'll be completely  
-**Translation:** 
-
-**[7532.36s] English:** safe then to stay inside your legs trying to attack your foot what people would argue that  
-**Translation:** 
-
-**[7538.48s] English:** there's a lot of very dominant controlling positions in the whole foot log game right it  
-**Translation:** 
-
-**[7543.20s] English:** is but it can go bad very quickly yeah just no it i mean this there's some great ways to control  
-**Translation:** 
-
-**[7549.74s] English:** someone that he cannot escape yeah but it can go bad very quickly that's the thing  
-**Translation:** 
-
-**[7554.80s] English:** well even back control  
-**Translation:** 
-
-**[7558.10s] English:** can go bad very quickly on the street  
-**Translation:** 
-
-**[7560.00s] English:** so mount i don't know is mount a really good position but then there's no good position then  
-**Translation:** 
-
-**[7566.02s] English:** there's no there's every every position there's a risk okay attacking the foot is a way higher risk  
-**Translation:** 
-
-**[7574.28s] English:** than side control mount back as i'm saying the back is not the best way to pin someone unless  
-**Translation:** 
-
-**[7581.94s] English:** you underneath me because i if you try to rotate i can sacrifice the back and just allow you push  
-**Translation:** Vocabulary: rotate: 转动; sacrifice: 牺牲
-
-**[7591.34s] English:** being the mount okay there you go would you prefer mount or back mount where they're flattened  
-**Translation:** 
+**[7440.00s] English:** That in jiujitsu, attacking the foot is not seen as a good thing because when you reflect that  
+**Translation:** Vocabulary: jiujitsu: 柔道
 
-**[7598.68s] English:** like uh still mount sorry i thought i'd get you  
-**Translation:** Vocabulary: flattened: 压平
-
-**[7604.32s] English:** so yeah going back to gordon what do you think makes that guy so good we were just a  
-**Translation:** 
-
-**[7611.68s] English:** a  
-**Translation:** 
-
-**[7611.92s] English:** get to see him historically dominant performance his dedication the way he trains and how much he  
-**Translation:** 
-
-**[7620.28s] English:** trains and of course you have to add his mind his belief to really try to be good the best so you  
-**Translation:** Vocabulary: dedication: 专注; historically: 历史上
-
-**[7629.18s] English:** know i don't know what his goals are but i know he tried to be better than his opponents so his  
-**Translation:** 
-
-**[7634.56s] English:** belief are very strong his dedication he probably trains more than everybody else i mean i'm  
-**Translation:** 
-
-**[7642.24s] English:** i haven't seen first-handed but from what i hear interviews with him and everybody else training  
-**Translation:** 
-
-**[7647.96s] English:** i you know the way everybody trains yeah you know trying to for my uh little knowledge i have  
-**Translation:** 
-
-**[7655.66s] English:** i'll bet he trains more than everybody else and most important how he trains and when i i kind of  
-**Translation:** 
-
-**[7663.64s] English:** already knew but when i heard john podcast with you the other day john was explaining the preparation  
-**Translation:** 
-
-**[7670.72s] English:** the training for the day you know i hope that you enjoy nutty life you can run the all-day run on the  
-**Translation:** 
-
-**[7671.42s] English:** crazy stay and the first one is running around the world and the  
-**Translation:** Vocabulary: nutty: 古怪的
-
-**[7671.50s] English:** last one is more comfortable over there and he usually does run oh my god he's got a medical shelf you  
-**Translation:** 
-
-**[7671.54s] English:** ADCC and that kind of gave me a very strong idea how they've been training all these years so you  
-**Translation:** 
-
-**[7679.34s] English:** know when we said  
-**Translation:** 
-
-**[7680.88s] English:** it's you have to work on your weakness so you have no weakness he trains a lot on his weakness which  
-**Translation:** 
-
-**[7688.64s] English:** not everyone does that you know if you look although i'm not going to name but you know  
-**Translation:** 
-
-**[7693.76s] English:** other main schools when like very strong competitors great competitors super tough people  
-**Translation:** 
-
-**[7700.88s] English:** but super tough not great because they train they spar very hard that makes them tough  
-**Translation:** 
-
-**[7707.92s] English:** if you want to be good you have to work on your weakness because when you spar like we're saying  
-**Translation:** 
-
-**[7715.36s] English:** how many times you're going to practice escaping a bad position like a submission hold or a pinning  
+**[7444.66s] English:** To a real situation, it's not going to go down well, so it was always seen as an easy way out.  
 **Translation:** 
 
-**[7722.40s] English:** position side control mount or it's very little the amount time you get to spend on those positions if  
+**[7452.48s] English:** Know, easy cut—you're trying to take the easy path. You can't pass my guard. You can't.  
 **Translation:** 
 
-**[7729.68s] English:** you don't start there so that he's very smart the way he trains and part of that is also cerebral  
+**[7456.60s] English:** Dominate me, and then you're trying to attack my foot—that's why it was always seen as a, you know,  
 **Translation:** 
 
-**[7737.20s] English:** it's not just because he's very smart he's very smart he's very smart he's very smart he's very  
-**Translation:** Vocabulary: cerebral: 脑力的
+**[7462.58s] English:** It's not the best way to win, but the sad side effect of that is it was  
+**Translation:** Vocabulary: dominate: 控制
 
-**[7737.92s] English:** putting yourself in those positions but talking through different ideas like they they talk  
+**[7468.10s] English:** Completely underdeveloped because of that, exactly. Of course, so people never really developed that.  
 **Translation:** 
 
-**[7744.72s] English:** they like experiment it's very like at at first glance it's like philosophical almost  
-**Translation:** Vocabulary: philosophical: 哲学性的
+**[7475.48s] English:** But now, the tournaments and the fighting have gotten somewhat different.  
+**Translation:** Vocabulary: underdeveloped: 开发不足
 
-**[7752.24s] English:** because you're trying to create systems constantly you're trying to understand how  
+**[7482.20s] English:** It's no longer seen as just a simulation of the real thing now; it's a sport.  
 **Translation:** 
 
-**[7755.36s] English:** this fits into this big picture and and then it goes back to what is jiu-jitsu what is fighting  
+**[7489.44s] English:** Only seen as a sport, so now it doesn't matter if you attack my foot; you cannot punch me.  
 **Translation:** 
 
-**[7762.88s] English:** he's fighting for dominance you know he's fighting for their ultimate dominance positions  
+**[7493.98s] English:** So, why is it now considered bad to attack the foot?  
 **Translation:** 
 
-**[7767.68s] English:** which  
-**Translation:** Vocabulary: dominance: 支配地位
-
-**[7767.92s] English:** is back and mount there's no others and from that you finish so if you look back at his you know over  
-**Translation:** 
-
-**[7774.00s] English:** the years of you know of his past fights before he used to mainly focus in legs and over the past  
-**Translation:** 
-
-**[7781.84s] English:** few years now he's mainly focusing in finishing from the mountain back but that's when he became  
-**Translation:** 
-
-**[7788.32s] English:** really good uh so part of that is mr john donahue what do you think you've you've you've known john  
-**Translation:** Vocabulary: donahue: 唐纳休
-
-**[7796.72s] English:** for a long time what makes the difference between the two of you and what makes the difference between  
-**Translation:** 
-
-**[7797.84s] English:** the two of you and what makes that guy uh interesting  
+**[7496.86s] English:** This is not.  
 **Translation:** 
 
-**[7800.00s] English:** special and good what have you learned about jiu-jitsu in life from john donahue he's super  
+**[7498.10s] English:** Seen as a bad thing anymore, and it now has really developed. I don't know; that's another...  
 **Translation:** 
-
-**[7806.86s] English:** smart i mean eccentric and he lives through jiu-jitsu he's 24 7 thinking better ways to teach  
-**Translation:** Vocabulary: eccentric: 行为怪异
 
-**[7816.32s] English:** how to make his competitors better and that as a coach when you have that dedication as a coach  
+**[7504.84s] English:** Bear versus Shark question, but you know, in a street self-defense situation, it's  
 **Translation:** 
 
-**[7823.16s] English:** that it makes the most difference of your athletes like which other big team you have  
-**Translation:** Vocabulary: dedication: 奉献精神
-
-**[7828.10s] English:** that coach with that motivation all the other schools is either someone that competes that  
+**[7513.86s] English:** Possible to imagine where foot locks would be effective for highly, but I guess if you invest,  
 **Translation:** 
 
-**[7834.84s] English:** push the training like andre galvan it's not he's one of the competitors so he brings the hype in  
-**Translation:** Vocabulary: andre: 加尔凡; competes: 竞争; galvan: 加尔凡
+**[7519.36s] English:** 10,000 hours is better to invest it in chokeholds, yeah, to dominate. If I'm you, and if we're fighting,...  
+**Translation:** Vocabulary: chokeholds: 扼颈技
 
-**[7840.92s] English:** everyone else but he doesn't have the time he doesn't spend the time working individually i  
+**[7526.76s] English:** It's  
 **Translation:** 
 
-**[7846.50s] English:** mean i'm sure he does but he's limited because he's also a competitor and you know looking  
-**Translation:** Vocabulary: individually: 单独地
+**[7528.10s] English:** Really, it's better for me to be on your side-control on the mount where I can pin; you'll be completely helpless.  
+**Translation:** Vocabulary: helpless: 毫无办法
 
-**[7851.70s] English:** in most of the other big schools like you don't have that now they  
+**[7532.36s] English:** Safe, then, to stay inside your legs, trying to attack your foot—what people would argue is that.  
 **Translation:** 
 
-**[7857.76s] English:** a  
-**Translation:** 
+**[7538.48s] English:** There are a lot of very dominant, controlling positions in the whole Footlog game, right?  
+**Translation:** Vocabulary: dominant: 支配的; footlog: 脚踪游戏
 
-**[7858.10s] English:** all the leaders the the main coaches for the other big schools they have other things other things in  
+**[7543.20s] English:** Is, but it can go bad very quickly. Yeah, just no; I mean, this: there are some great ways to control.  
 **Translation:** 
 
-**[7863.62s] English:** their lives they cannot don't fully dedicated to the athletes join us you know look at the  
+**[7549.74s] English:** Someone that he cannot escape; yeah, but it can go bad very quickly—that's the thing.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[7869.46s] English:** interview he spends hours and hours a day studying how can await the system you know to make his  
+**[7554.80s] English:** Well, even back control.  
 **Translation:** 
 
-**[7877.78s] English:** athletes better look at the results i enjoy just sending back and forth you can actually just get  
+**[7558.10s] English:** Can go bad very quickly on the street.  
 **Translation:** 
 
-**[7884.82s] English:** him you control him essentially by sending interesting videos and you could just see his mind  
+**[7560.00s] English:** So, Mount... I don't know if it's a really good position, but then there's no good position then.  
 **Translation:** 
 
-**[7891.14s] English:** he's going to do research on that because i kept sending him videos of bears because he claimed  
+**[7566.02s] English:** There's no such thing as a completely safe position, okay. Attacking the foot is a much higher risk.  
 **Translation:** 
 
-**[7896.66s] English:** that a lion would beat a bear because i'd love to get your take on this okay so the bear is much  
+**[7574.28s] English:** Than side control, mount, or back, as I'm saying, the back is not the best way to pin someone, unless  
 **Translation:** 
 
-**[7905.14s] English:** bigger much stronger but his take is that the bears don't have experience of fighting to the  
+**[7581.94s] English:** You're underneath me because I, if you try to rotate, I can sacrifice the back and just let you push.  
+**Translation:** Vocabulary: rotate: 转动; sacrifice: 牺牲; underneath: 在下面
+
+**[7591.34s] English:** Being the mount, okay. There you go. Would you prefer mount or back mount, where they're flattened?  
 **Translation:** 
 
-**[7913.14s] English:** death that's not part of the culture they're  
+**[7598.68s] English:** Like, uh, still mounting? Sorry, I thought I'd gotten you.  
+**Translation:** Vocabulary: flattened: 压平; mounting: 骑乘
+
+**[7604.32s] English:** So, yeah, going back to Gordon, what do you think makes that guy so good? We were just a  
 **Translation:** 
 
-**[7914.82s] English:** more scared in fact he keeps sending me footage of like even like a small mountain  
+**[7611.68s] English:** A  
 **Translation:** 
 
-**[7920.00s] English:** lion scaring a bear away because they're they don't want to fight uh so his idea is that it  
+**[7611.92s] English:** Get to see him: historically dominant performance, his dedication, the way he trains, and how much he  
 **Translation:** 
 
-**[7927.58s] English:** really matters your life experience how much you fight it's not necessarily the skill um like the  
+**[7620.28s] English:** Trains, and of course, you have to add his mind and his belief to really try to be the best, so you.  
+**Translation:** Vocabulary: dedication: 奉献; dominant: 主导; historically: 历史上
+
+**[7629.18s] English:** Know, I don't know what his goals are, but I know he tried to be better than his opponents, so his  
 **Translation:** 
 
-**[7934.02s] English:** dimensions the the characteristics you have uh but then i send them i'll show you  
+**[7634.56s] English:** Belief is very strong, and his dedication is probably what makes him train more than everybody else. I'm  
+**Translation:** Vocabulary: opponents: 竞争对手
+
+**[7642.24s] English:** I haven't seen it firsthand, but from what I've heard, there are interviews with him and everyone else training.  
 **Translation:** 
 
-**[7939.24s] English:** people should um google this it's bears fighting of any kind and it's it's pretty much the most  
-**Translation:** Vocabulary: dimensions: 尺寸
+**[7647.96s] English:** I, you know, the way everybody trains—yeah, you know, trying to use my little bit of knowledge I have.  
+**Translation:** Vocabulary: firsthand: 亲身经历
 
-**[7950.54s] English:** epic thing ever here i'll show you like look at these guys the cardio though is interesting  
+**[7655.66s] English:** I'll bet he trains more than everybody else, and most important, how he trains and when. I kind of  
 **Translation:** 
 
-**[7956.76s] English:** you know it's funny i was gonna mention that because i was you know flipping to internet i've  
+**[7663.64s] English:** Already knew, but when I heard John's podcast with you the other day, John was explaining the preparation.  
 **Translation:** 
 
-**[7961.80s] English:** came i came around that video look how big these guys are no they're huge but they don't bite each  
+**[7670.72s] English:** The training for the day, you know; I hope that you enjoy "Nutty Life." You can run the all-day run on the  
 **Translation:** 
 
-**[7969.10s] English:** other  
+**[7671.42s] English:** Crazy stay, and the first one is running around the world and the  
+**Translation:** Vocabulary: nutty: 疯狂的
+
+**[7671.50s] English:** The last one is more comfortable over there, and he usually does run. Oh, my God! He's got a medical shelf!  
 **Translation:** 
 
-**[7970.12s] English:** you think it's just play trying to no intimidating because they don't want to get hurt  
+**[7671.54s] English:** ADCC, and that kind of gave me a very strong idea how they've been training all these years, so you  
 **Translation:** 
 
-**[7973.90s] English:** so they try to size each other up you know they've they do see the whole fighting  
-**Translation:** Vocabulary: intimidating: 恐吓的
-
-**[7979.10s] English:** is sizing each other up there's a lot of pushing and the the the fur is so thick so the cloth  
+**[7679.34s] English:** Know when we said,  
 **Translation:** 
 
-**[7985.76s] English:** doesn't really damage much and they're using the tree so maybe they they yeah they're i mean they  
+**[7680.88s] English:** It's true; you have to work on your weaknesses so you have no weaknesses. He trains a lot on his weaknesses, which  
 **Translation:** 
 
-**[7991.98s] English:** there is bites but see there's very little so the whole time they're trying to  
+**[7688.64s] English:** Not everyone does that, you know. If you look, although I'm not going to name anyone, you know.  
 **Translation:** 
 
-**[7999.24s] English:** intimidate the other one like winning the fight by their size  
+**[7693.76s] English:** Other main schools were like very strong competitors—great competitors, super tough people.  
+**Translation:** 
+
+**[7700.88s] English:** But it's super tough, not great because they train and spar very hard, which makes them tough.  
+**Translation:** 
+
+**[7707.92s] English:** If you want to be good, you have to work on your weaknesses because when you spar, like we're saying,  
+**Translation:** 
+
+**[7715.36s] English:** How many times are you going to practice escaping a bad position, like a submission hold or a pinning?  
+**Translation:** 
+
+**[7722.40s] English:** Position, side control, mount — or it's very little amount of time you get to spend on those positions if.  
+**Translation:** Vocabulary: pinning: 锁喉
+
+**[7729.68s] English:** You don't start there, so that he's very smart about the way he trains, and part of that is also cerebral.  
+**Translation:** 
+
+**[7737.20s] English:** It's not just because he's very smart; he's very smart, very smart, very smart, and very smart.  
+**Translation:** Vocabulary: cerebral: 脑力的
+
+**[7737.92s] English:** Putting yourself in those positions, but talking through different ideas, like they do.  
+**Translation:** 
+
+**[7744.72s] English:** They like to experiment; it's very much like, at first glance, it's almost philosophical.  
+**Translation:** Vocabulary: philosophical: 哲学般的
+
+**[7752.24s] English:** Because you're trying to create systems constantly, you're trying to understand how  
+**Translation:** 
+
+**[7755.36s] English:** This fits into this big picture, and then it goes back to what is jiu-jitsu, what is fighting.  
+**Translation:** 
+
+**[7762.88s] English:** He's fighting for dominance, you know—he's fighting for their ultimate dominant positions.  
+**Translation:** 
+
+**[7767.68s] English:** Which  
+**Translation:** Vocabulary: dominance: 支配地位; dominant: 占优势的
+
+**[7767.92s] English:** Is back, and there's no others. And from that, you finish. So if you look back at his, you know, over.  
+**Translation:** 
+
+**[7774.00s] English:** The years of his past fights before he used to mainly focus on legs, and over the past  
+**Translation:** 
+
+**[7781.84s] English:** Few years ago, he's mainly focused on finishing climbs from the mountains back, but that's when he became  
+**Translation:** 
+
+**[7788.32s] English:** Really good, uh. So, part of that is Mr. John Donahue. What do you think? You've you've known John, haven't you?  
+**Translation:** Vocabulary: donahue: 唐纳休
+
+**[7796.72s] English:** For a long time, what makes the difference between the two of you, and what makes the difference between  
+**Translation:** 
+
+**[7797.84s] English:** The two of you, and what makes that guy particularly interesting.  
+**Translation:** 
+
+**[7800.00s] English:** Special and good, what have you learned about jiu-jitsu in life from John Donahue? He's super.  
+**Translation:** 
+
+**[7806.86s] English:** Smart—I mean, eccentric—and he lives and breathes jiujitsu; he's 24/7 thinking of better ways to teach.  
+**Translation:** Vocabulary: eccentric: 古怪; jiujitsu: 柔术
+
+**[7816.32s] English:** How can we make his competitors better, and that as a coach, when you have that dedication as a coach?  
+**Translation:** 
+
+**[7823.16s] English:** That makes the most difference for your athletes, like which other big team you have.  
+**Translation:** Vocabulary: dedication: 奉献精神
+
+**[7828.10s] English:** That coach, with that motivation, is either someone who competes or that.  
+**Translation:** 
+
+**[7834.84s] English:** Push the training, like Andre Galvan. It's not; he's one of the competitors, so he brings the hype in.  
+**Translation:** Vocabulary: andre: 加尔万; competes: 参赛; galvan: 加尔万
+
+**[7840.92s] English:** Everyone else, but he doesn't have the time; he doesn't spend the time working individually.  
+**Translation:** 
+
+**[7846.50s] English:** Mean, I'm sure he does, but he's limited because he's also a competitor and you know, looking...  
+**Translation:** Vocabulary: individually: 单独地
+
+**[7851.70s] English:** In most of the other big schools, like, you don't have that now; they  
+**Translation:** 
+
+**[7857.76s] English:** A  
+**Translation:** 
+
+**[7858.10s] English:** All the leaders, the main coaches for the other big schools, have other things to do.  
+**Translation:** 
+
+**[7863.62s] English:** Their lives; they cannot be fully dedicated to the athletes. Join us, you know, and look at the  
+**Translation:** 
+
+**[7869.46s] English:** Interview: He spends hours and hours a day studying how to await the system, you know, to make his.  
+**Translation:** 
+
+**[7877.78s] English:** Athletes, better look at the results. I enjoy just sending back and forth; you can actually just get.  
+**Translation:** 
+
+**[7884.82s] English:** He seems to be controlled essentially by sending him interesting videos, and you could just see his mind wandering.  
+**Translation:** 
+
+**[7891.14s] English:** He's going to do research on that because I kept sending him videos of bears, because he claimed...  
+**Translation:** 
+
+**[7896.66s] English:** That a lion would beat a bear, because I'd love to get your take on this. Okay, so the bear is much  
+**Translation:** 
+
+**[7905.14s] English:** Bigger, much stronger, but his take is that the bears don't have experience of fighting to the  
+**Translation:** 
+
+**[7913.14s] English:** Death that's not part of the culture they're  
+**Translation:** 
+
+**[7914.82s] English:** More scared, in fact, he keeps sending me footage of, like, even a small mountain.  
+**Translation:** 
+
+**[7920.00s] English:** Lion scaring a bear away because they don't want to fight; uh, so his idea is that it  
+**Translation:** 
+
+**[7927.58s] English:** Really, what matters in your life is how much you fight it's not necessarily the skill, um,...  
+**Translation:** Vocabulary: scaring: 吓唬
+
+**[7934.02s] English:** Dimensions, the characteristics you have, but then I'll show you.  
+**Translation:** 
+
+**[7939.24s] English:** People should Google this; it's bears fighting of any kind, and it's pretty much the most intense thing you'll find.  
+**Translation:** Vocabulary: characteristics: 特征; dimensions: 维度
+
+**[7950.54s] English:** Epic thing, ever! Here I'll show you. Look at these guys—the cardio, though, is interesting.  
+**Translation:** 
+
+**[7956.76s] English:** You know, it's funny; I was going to mention that because I was, you know, flipping through the internet and I've...  
+**Translation:** 
+
+**[7961.80s] English:** I came around that video, look how big these guys are! No, they're huge, but they don't bite, each one.  
+**Translation:** 
+
+**[7969.10s] English:** Other.  
+**Translation:** 
+
+**[7970.12s] English:** You think it's just play, trying to be non-intimidating because they don't want to get hurt?  
+**Translation:** 
+
+**[7973.90s] English:** So, they try to size each other up, you know, they do see the whole fight.  
+**Translation:** 
+
+**[7979.10s] English:** Is sizing each other up, there's a lot of pushing. And the fur is so thick that it almost seems like cloth.  
+**Translation:** 
+
+**[7985.76s] English:** Doesn't really damage much, and they're using the tree, so maybe they, you know, they are? I mean, they...  
+**Translation:** 
+
+**[7991.98s] English:** There are some bites, but see, there's very little, so the whole time they're trying to  
+**Translation:** 
+
+**[7999.24s] English:** Intimidate the other one, like winning the fight by their size.  
 **Translation:** Vocabulary: intimidate: 恐吓
 
-**[8004.32s] English:** and mostly about like the way drunk college kids fight which is like some kind of display  
+**[8004.32s] English:** And mostly about the way drunk college kids fight, which is some kind of display.  
 **Translation:** 
 
-**[8013.48s] English:** of dominance versus actual yeah they're not fighting to kill and bear or tiger you know they  
-**Translation:** Vocabulary: dominance: 支配地位
+**[8013.48s] English:** Of dominance versus actual: they're not fighting to kill, like bears or tigers, you know?  
+**Translation:** Vocabulary: dominance: 优势
 
-**[8021.10s] English:** they fight to finish unless the other one runs away like one will die yeah the lions and tigers  
+**[8021.10s] English:** They fight to finish, unless the other one runs away; like one will die, yeah. The lions and tigers.  
 **Translation:** 
 
-**[8027.68s] English:** yeah i uh  
+**[8027.68s] English:** Yeah, I uh  
 **Translation:** 
 
-**[8029.24s] English:** but look at the cardio look how bad their cardio is i wonder how  
+**[8029.24s] English:** But look at the cardio; look how bad their cardio is. I wonder how.  
 **Translation:** 
 
-**[8032.78s] English:** um my favorite part is when one of them just like stands behind a tree it says all right  
+**[8032.78s] English:** Um, my favorite part is when one of them just like stands behind a tree and it says "all right.  
 **Translation:** 
 
-**[8039.52s] English:** he's  
+**[8039.52s] English:** He's  
 **Translation:** 
 
-**[8040.00s] English:** hold it she's getting my breath he sits down it's like all right you can't it's over it's like  
+**[8040.00s] English:** Hold it! She's getting my breath away. He sits down. It's like, "All right, you can't do it." It's over.  
 **Translation:** 
 
-**[8051.70s] English:** it's the equivalent in the in the in the forest tapping out all right all right you got me let  
+**[8051.70s] English:** It's the equivalent of tapping out "all right, all right," you got me.  
 **Translation:** 
 
-**[8057.76s] English:** me just yeah look they're both like uh just shot and but see the thing is that i was trying to  
+**[8057.76s] English:** Me, just yeah, look; they're both like, uh, just shot. But, see, the thing is that I was trying to...  
 **Translation:** 
 
-**[8068.56s] English:** make an argument for is that we get this rare footage it's not rare i mean there's like hundreds  
+**[8068.56s] English:** Make an argument for is that we get this rare footage; it's not rare, I mean, there's like hundreds.  
 **Translation:** 
 
-**[8073.34s] English:** of videos but it's not millions of videos because there's a huge number of bears and i was trying to  
+**[8073.34s] English:** Of videos, but it's not millions of videos because there's a huge number of bears, and I was trying to  
 **Translation:** 
 
-**[8077.84s] English:** say that there's some badass bear we don't know about because he just goes in there and just does  
+**[8077.84s] English:** Say that there's some badass bear we don't know about, because he just goes in there and just does.  
 **Translation:** 
 
-**[8084.12s] English:** work and we just don't know about it because he's like everyone see the thing is if you kill a lot  
-**Translation:** Vocabulary: badass: 牛逼的熊
+**[8084.12s] English:** Work, and we just don't know about it because he's like everyone; see, the thing is, if you kill a lot,...  
+**Translation:** Vocabulary: badass: 牛逼的
 
-**[8091.14s] English:** of other animals you probably have a territory that nobody's going to mess with you so it's  
+**[8091.14s] English:** Of course, for other animals, you probably have a territory that nobody's going to mess with you, so it's  
 **Translation:** 
 
-**[8095.28s] English:** very hard to catch the uh the um  
+**[8095.28s] English:** Very hard to catch the uh, the um.  
 **Translation:** 
 
-**[8098.56s] English:** like the hadja gracie of bears you know he's just gonna be sitting there doing nothing  
+**[8098.56s] English:** Like the Gracie of bears, you know, he's just gonna be sitting there doing nothing.  
 **Translation:** 
 
-**[8105.40s] English:** so i don't know i don't know i feel like of course when you corner him john will say that  
-**Translation:** Vocabulary: gracie: 格雷西
+**[8105.40s] English:** So, I don't know. I don't know. I feel like, of course, when you corner him, John will say that.  
+**Translation:** Vocabulary: gracie: 格蕾丝
 
-**[8111.84s] English:** if you put a bear and a lion in a cage the bear will win if it's like if it's the if  
+**[8111.84s] English:** If you put a bear and a lion in a cage, the bear will win, if it's like that is.  
 **Translation:** 
 
-**[8117.00s] English:** if they're forced to be to the death but i don't know oh let me ask you another ridiculous thing  
+**[8117.00s] English:** If they're forced to be to the death, but I don't know. Oh, let me ask you another ridiculous thing.  
 **Translation:** 
 
-**[8122.14s] English:** before i ask you serious questions um so joe rogan thinks that a tie  
+**[8122.14s] English:** Before I ask you any serious questions, um, so Joe Rogan thinks that a tie  
 **Translation:** 
 
-**[8128.56s] English:** um is an effective way to attack somebody i don't know i i can't believe i haven't in the time in  
+**[8128.56s] English:** Um, it's an effective way to attack somebody. I don't know; I can't believe I haven't done it in the time I've had.  
 **Translation:** 
 
-**[8136.32s] English:** vegas i didn't talk to you about this i think it's not have you ever explored this as the best  
+**[8136.32s] English:** Vegas, I didn't talk to you about this. I think it's not something you've ever explored as the best?  
 **Translation:** 
 
-**[8141.62s] English:** choker in the world have you ever explored the use because like jiu-jitsu has the jacket but the tie  
-**Translation:** Vocabulary: choker: 项圈
+**[8141.62s] English:** Chokers: In the world, have you ever explored their use? Because, like Jiu-Jitsu, it has the jacket but the tie.  
+**Translation:** Vocabulary: chokers: 紧颈饰
 
-**[8149.16s] English:** to me is a pretty shitty uh way to choke somebody like intuitively he thinks like it's a good way  
+**[8149.16s] English:** To me, that's a pretty shitty way to choke somebody. Intuitively, he thinks like it's a good way.  
 **Translation:** 
 
-**[8156.58s] English:** but it can slide around it's  
+**[8156.58s] English:** But it can slide around; it's  
 **Translation:** Vocabulary: intuitively: 直觉上; shitty: 糟糕的
 
-**[8158.56s] English:** it feels like if  
+**[8158.56s] English:** It feels like if  
 **Translation:** 
 
-**[8160.00s] English:** feels like there's no uh there's no way to really pin you would need to right so you use it the way  
+**[8160.00s] English:** Feels like there's no real way to pin it down; you'd need to write it out so you can use it the way.  
 **Translation:** 
 
-**[8166.24s] English:** you use a belt yeah essentially yeah but then i would guess so yeah i don't i don't think it's  
+**[8166.24s] English:** You use a belt, yeah. Essentially, yeah. But then I would guess so, yeah. I don't think it's.  
 **Translation:** 
 
-**[8173.60s] English:** and i think if it gives you it actually has the reverse effect which it gives you the  
+**[8173.60s] English:** And I think if it gives you, it actually has the reverse effect; which it gives you the  
 **Translation:** 
 
-**[8179.52s] English:** the false sense of confidence that you can use it and instead it will just distract you so he  
+**[8179.52s] English:** The false sense of confidence that you can use it, and instead it will just distract you, so he  
 **Translation:** 
 
-**[8184.72s] English:** think is a stronger way than the collar or just a strong way yeah stronger than the collar yeah yeah  
-**Translation:** Vocabulary: distract: 分散注意力
+**[8184.72s] English:** Think is a stronger way than the collar, or just a strong way, yeah. Stronger than the collar, yeah, yeah.  
+**Translation:** Vocabulary: distract: 分心
 
-**[8190.72s] English:** i don't see how maybe just like well in a street fight scenario right like um but by the time you  
+**[8190.72s] English:** I don't see how that might work, kind of like in a street fight scenario, right? Like, but by the time you  
 **Translation:** 
 
-**[8196.88s] English:** grab the tie the guy goes punch your nose yeah what uh what george st pierre thinks is the best  
+**[8196.88s] English:** Grab the tie, the guy goes, punch your nose? Yeah, what, uh, what George St. Pierre thinks is the best.  
+**Translation:** Vocabulary: pierre: 乔治·圣皮耶尔; scenario: 情景
+
+**[8203.60s] English:** The use of the ties to actually, like, uh, um, what do you call that? So basically, to off-balance them.  
 **Translation:** 
 
-**[8203.60s] English:** use of the ties to actually like uh um what do you call that so basically to off balance them  
+**[8210.96s] English:** Which is an interesting point, I mean, that can be used too.  
 **Translation:** 
 
-**[8210.96s] English:** which is an interesting point to like i mean that can be used too  
+**[8214.32s] English:** Yeah.  
 **Translation:** 
 
-**[8214.32s] English:** yeah  
+**[8214.72s] English:** Well, you could use the jacket for the same kind of thing, yeah. I don't know; I haven't really fully...  
 **Translation:** 
 
-**[8214.72s] English:** well you could use the jacket for the same kind of thing yeah i don't know i haven't really fully  
+**[8219.04s] English:** Dusted, it's a jacket or tie for that perspective of unbalancing or off-balancing the.  
 **Translation:** 
 
-**[8219.04s] English:** dusted it it's a i'll say jacket or tie for that perspective of unbalancing off balancing the  
+**[8224.40s] English:** Person, it can be yeah, because you know, you have control of the person's neck and the collar, you know.  
+**Translation:** Vocabulary: unbalancing: 不平衡
+
+**[8230.40s] English:** The jacket moves, so for the purpose of off-balancing the person, I would agree with George.  
 **Translation:** 
 
-**[8224.40s] English:** person it can be yeah because you know you have control of the person's neck the collar you know  
-**Translation:** Vocabulary: balancing: 平衡; unbalancing: 失衡
+**[8236.64s] English:** See, the thing is, that's the thing about martial arts: you can say all kinds of things, but  
+**Translation:** Vocabulary: martial: 军事的
 
-**[8230.40s] English:** the jacket moves so for the purpose of off balancing the person i would agree with george  
+**[8242.40s] English:** Until you really test it.  
 **Translation:** 
 
-**[8236.64s] English:** see the thing is that's the thing about martial arts is you can say all kinds of but  
-**Translation:** Vocabulary: martial: 武术
-
-**[8242.40s] English:** until you really test it  
+**[8243.68s] English:** Yeah.  
 **Translation:** 
 
-**[8243.68s] English:** yeah  
+**[8244.64s] English:** In um, over a period of years, the competition—you won't really know.  
 **Translation:** 
 
-**[8244.64s] English:** in um over a period of years the competition you won't really know  
+**[8248.88s] English:** I think, like, that's where my gut says—just how easily the time moves.  
 **Translation:** 
 
-**[8248.88s] English:** i think like that's where my gut says um just how easily the time moves  
+**[8255.92s] English:** My gut says the collar there is something really powerful about the jacket—there's like the way it  
 **Translation:** 
 
-**[8255.92s] English:** my gut says the collar there is something really powerful about the jacket there's like the way it  
-**Translation:** 
-
-**[8261.44s] English:** sits i mean the fact that the arms trap it from rotating yeah like it's a weird piece of clothing  
+**[8261.44s] English:** Sits; I mean, the fact that the arms trap it from rotating, yeah—like it's a weird piece of clothing.  
 **Translation:** Vocabulary: rotating: 旋转
 
-**[8268.24s] English:** it's a really dangerous piece of clothing that we put on ourselves yeah like and it's kind of like  
+**[8268.24s] English:** It's a really dangerous piece of clothing that we put on ourselves, yeah. Like, and it's kind of like  
 **Translation:** 
 
-**[8273.66s] English:** kind of cool that we've developed this whole martial arts system that allows you to use that to  
+**[8273.66s] English:** Kind of cool that we've developed this whole martial arts system that allows you to use that to.  
 **Translation:** 
 
-**[8277.82s] English:** to do a lot of damage so interesting  
+**[8277.82s] English:** To do a lot of damage, so interesting.  
 **Translation:** 
 
-**[8280.00s] English:** So when we're saying something that you develop over the years or practice over and over again, going back to the efficiency of the mount or back, by experience of attacking people, people always had a much higher chance of escaping from the back than from my mount.  
+**[8280.00s] English:** So, when we're saying something that you develop over the years or practice over and over again, going back to the efficiency of the mount or back—by experience of attacking people, people always had a much higher chance of escaping from the back than from my mount.  
 **Translation:** 
 
-**[8301.28s] English:** So I feel if I mount and you get both my hands on your neck, you cannot escape.  
+**[8301.28s] English:** So I feel that if I mount you and get both my hands on your neck, you cannot escape.  
 **Translation:** 
 
 **[8306.64s] English:** If my hands are deep, it's over.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[8309.76s] English:** I don't remember anyone escaping, but I do remember if my hands are deep on your collar or even a real naked choke, it's still a hassle.  
+**[8309.76s] English:** I don't remember anyone escaping, but I do remember: if my hands are deep on your collar, or even in a real naked choke, it's still a hassle.  
 **Translation:** 
 
 **[8319.42s] English:** It's not clean.  
@@ -5950,31 +5951,31 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8320.62s] English:** You have some data on this.  
 **Translation:** 
 
-**[8322.50s] English:** Is there some aspect to how your body is, the characteristics of your body, that fits a particular set of techniques?  
-**Translation:** 
+**[8322.50s] English:** Is there any aspect of how your body is or the characteristics of your body that fits a particular set of techniques?  
+**Translation:** Vocabulary: characteristics: 身体特征
 
-**[8330.52s] English:** So if we just look at jiu-jitsu broadly, do you see most techniques being able?  
+**[8330.52s] English:** So, if we just look at jiu-jitsu broadly, do you see most techniques being applicable?  
 **Translation:** 
 
 **[8336.86s] English:** Does it work for most people?  
-**Translation:** 
+**Translation:** Vocabulary: broadly: 广泛地
 
-**[8338.56s] English:** Like what you're saying about mount versus back control, is it possible for a different body type the mount is not as effective?  
+**[8338.56s] English:** Like what you're saying about mount versus back control, is it possible that for a different body type, the mount is not as effective?  
 **Translation:** 
 
 **[8345.80s] English:** Yeah, of course.  
 **Translation:** 
 
-**[8348.26s] English:** I'll say very big people, they should mount.  
+**[8348.26s] English:** I'll say that very big people should mount.  
 **Translation:** 
 
 **[8351.62s] English:** You don't think of yourself as big?  
 **Translation:** 
 
-**[8353.66s] English:** Not big, I mean fat.  
+**[8353.66s] English:** Not big; I mean, fat.  
 **Translation:** 
 
-**[8356.82s] English:** They should stay off the mount.  
+**[8356.82s] English:** They should stay off the mountain.  
 **Translation:** 
 
 **[8358.66s] English:** Why is that?  
@@ -5983,22 +5984,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8359.40s] English:** That's a counterintuitive notion.  
 **Translation:** 
 
-**[8360.46s] English:** Because it's mobility, it's like it's, I think that, you know, you don't see any, you know, like there was a few ways,  
+**[8360.46s] English:** Because of its mobility, it's like you don't see any other options. You know, there were only a few ways,  
 **Translation:** 
 
-**[8365.76s] English:** like 160 kg.  
-**Translation:** Vocabulary: mobility: 移动性
+**[8365.76s] English:** Like 160 kg.  
+**Translation:** Vocabulary: mobility: 灵活性
 
 **[8366.86s] English:** Like, you know, in pounds, I don't know, 270 pounds of a lot of fat.  
 **Translation:** 
 
-**[8373.54s] English:** It's, you need a bit of mobility and that would, it would play against you.  
+**[8373.54s] English:** It's; you need a bit of mobility, and that would play against you.  
 **Translation:** 
 
 **[8379.90s] English:** Even back.  
 **Translation:** 
 
-**[8381.38s] English:** A great mount requires mobility.  
+**[8381.38s] English:** A great mountain requires mobility.  
 **Translation:** 
 
 **[8383.92s] English:** Yeah.  
@@ -6007,22 +6008,22 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8384.74s] English:** Okay.  
 **Translation:** 
 
-**[8385.34s] English:** So even though it doesn't look like you're moving very much when you're doing a mount, that requires mobility?  
+**[8385.34s] English:** So, even though it doesn't look like you're moving very much when you're doing a mount, that requires a lot of mobility?  
 **Translation:** 
 
 **[8389.76s] English:** Yeah.  
 **Translation:** 
 
-**[8390.32s] English:** Because you have to reposition and weight redistribution.  
+**[8390.32s] English:** Because you have to reposition and redistribute weight.  
 **Translation:** 
 
 **[8392.98s] English:** Constantly adjusting your body.  
-**Translation:** Vocabulary: redistribution: 重新分配; reposition: 重新定位
+**Translation:** 
 
 **[8394.58s] English:** All right.  
 **Translation:** 
 
-**[8395.46s] English:** The legend goes.  
+**[8395.46s] English:** The legend goes:  
 **Translation:** 
 
 **[8396.34s] English:** You got very good by training mostly with lower ranks.  
@@ -6031,163 +6032,163 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8399.90s] English:** Well.  
 **Translation:** 
 
-**[8400.00s] English:** was your training like in that environment so when i first moved to london i was 20 years old  
+**[8400.00s] English:** Was your training like that in that environment? So, when I first moved to London, I was 20 years old.  
 **Translation:** 
 
-**[8407.04s] English:** i opened my school there and i had nobody to train with i had one guy that was  
+**[8407.04s] English:** I opened my school there, and I had nobody to train with. I had one guy that was  
 **Translation:** 
 
-**[8415.62s] English:** teaching with me a black belt middleweight he was good  
+**[8415.62s] English:** Teaching with me, a black belt in middleweight—he was good.  
 **Translation:** 
 
-**[8421.00s] English:** and that's it brawley was he moved to the same they said he moved to england the same time as i  
+**[8421.00s] English:** And that's it. Brawley was; he moved to England the same time as I did.  
 **Translation:** Vocabulary: middleweight: 中量级
 
-**[8428.70s] English:** did but he was in birmingham so we did got together you know maybe twice a week closer  
+**[8428.70s] English:** Did, but he was in Birmingham, so we did get together—you know, maybe twice a week—closer.  
 **Translation:** 
 
-**[8435.00s] English:** you know when we were preparing for something if not then not very often as often as we could but  
+**[8435.00s] English:** You know, when we were preparing for something, if not, then not very often, as often as we could, but  
 **Translation:** 
 
-**[8441.40s] English:** let's say not that often and i had just color belt students there was no one high level there  
+**[8441.40s] English:** Let's say not that often, and I had just color belt students; there was no one high-level there.  
 **Translation:** 
 
-**[8448.72s] English:** was no one world champion in any belt to train then you need to create a scenario that simulates  
-**Translation:** Vocabulary: simulates: 模拟情景
+**[8448.72s] English:** There was no world champion in any belt to train, so then you need to create a scenario that simulates.  
+**Translation:** Vocabulary: scenario: 情景; simulates: 模拟
 
-**[8457.00s] English:** that can simulate  
+**[8457.00s] English:** That can simulate  
 **Translation:** 
 
-**[8457.80s] English:** you know like a realistic fighting so i think on that aspect you know when people  
+**[8457.80s] English:** You know, like a realistic fight. So I think on that aspect, when people  
 **Translation:** Vocabulary: simulate: 模拟
 
-**[8465.62s] English:** said you know people ask why do i have such a basic game i think that also influenced  
+**[8465.62s] English:** Said, "You know, people ask why I have such a basic game. I think that also influenced.  
 **Translation:** 
 
-**[8471.70s] English:** me sharpen up all my skills when i moved there because you know when i'm when if you practice  
+**[8471.70s] English:** Me, I had to sharpen up all my skills when I moved there because, you know, when you practice...  
+**Translation:** Vocabulary: sharpen: 磨练
+
+**[8477.94s] English:** With people you know who are lower-level than you, there's nothing to learn from them.  
 **Translation:** 
 
-**[8477.94s] English:** with people you know lower level than you you cannot there's nothing to to learn from them  
+**[8485.88s] English:** Or, you know, you can learn things from them, and you can learn from them, and you can learn from them.  
 **Translation:** 
 
-**[8485.88s] English:** or you know you can learn things from them and you can learn from them and you can learn from them  
+**[8487.80s] English:** And practice with them, but I would say that very complex things are not handled well, so it's  
 **Translation:** 
 
-**[8487.80s] English:** and practice with them but i would say very complex things on them it is not the best so it's  
+**[8494.36s] English:** I'll sharpen up all my skills so you know that when I really improve everything I already know.  
 **Translation:** 
 
-**[8494.36s] English:** i sharpen up all my skills so you know that when i really improved everything that i already knew  
+**[8500.60s] English:** To a higher level, but how can you sharpen something if the resistance is much?  
 **Translation:** 
 
-**[8500.60s] English:** to a higher level but how can you sharpen something if the resistance is much  
+**[8505.40s] English:** Lower level, then a purple belt can make it very hard for you to skip side control; doesn't have to.  
 **Translation:** 
 
-**[8505.40s] English:** lower level then a purple belt can makes it very hard for you to skip side control doesn't have to  
+**[8510.20s] English:** To be a world champion black belt, it's known that if it's one person holding you, it can be very hard.  
 **Translation:** 
 
-**[8510.20s] English:** be a world champion black belt it's you know if it's one is holding you it can be very hard what  
+**[8516.60s] English:** About on the attack.  
 **Translation:** 
 
-**[8516.60s] English:** about on the attack  
+**[8517.80s] English:** How do you become  
 **Translation:** 
 
-**[8517.80s] English:** how do you how do you become  
+**[8520.00s] English:** Literally, by far, the best person at the cross-choke from mount by training with purple belts.  
 **Translation:** 
 
-**[8520.00s] English:** literally by far the best person at the cross choke from mount by training with purple belts  
+**[8525.10s] English:** It's sometimes a purple belt's defense that's better than a black belt's, okay? See, a lot of people are listening.  
 **Translation:** 
 
-**[8525.10s] English:** it's sometimes purple belts defense way better than black belts okay see a lot of people listening  
-**Translation:** 
-
-**[8531.98s] English:** to that would be like that makes no sense hadjo gracie how does that make any sense because like  
+**[8531.98s] English:** To that, it would be like, "That makes no sense," Hadjo Gracie. How does that make any sense because, like,...  
 **Translation:** Vocabulary: gracie: 格雷西
 
-**[8537.76s] English:** a lot of the black belts even world champion they get to the black belt they're really good  
+**[8537.76s] English:** A lot of the black belts, even world champions, get to the black belt level and they're really good.  
 **Translation:** 
 
-**[8541.94s] English:** in what in what they do let's say in the guard you know on top or in the bottom position but  
+**[8541.94s] English:** In what they do, let's say, in the guard, you know, on top or in the bottom position, but...  
 **Translation:** 
 
-**[8547.68s] English:** their defense are not like very very few people high level have a very good defense because they  
+**[8547.68s] English:** Their defense is not like very, very few people at high levels who have a very good defense because they  
 **Translation:** 
 
-**[8554.44s] English:** don't practice yeah then that goes back to how you train you know you can be very tough very  
+**[8554.44s] English:** Don't practice, yeah? Then that goes back to how you train. You know, you can be very tough, very  
 **Translation:** 
 
-**[8560.30s] English:** tough you'll make you terrible defense because you're not going to practice your weakness so  
+**[8560.30s] English:** It's tough you'll make a terrible defense because you're not going to practice your weaknesses so.  
 **Translation:** 
 
-**[8565.44s] English:** your weakness still going to be terrible you're going to have the best guard in the world impossible  
+**[8565.44s] English:** Your weakness is still going to be terrible. You're going to have the best guard in the world, but it's impossible.  
 **Translation:** 
 
-**[8569.88s] English:** to pass the day people pass your guard you're nothing like it's your guard is high the highest  
+**[8569.88s] English:** To pass the day, people pass your guard; you're nothing like it. Your guard is high and the highest.  
 **Translation:** 
 
-**[8577.66s] English:** level but your side control defense are not your mount defense are not so some purple bells  
+**[8577.66s] English:** Level, but your side-control defense aren't as good as your mount defense; you need some purple belts.  
 **Translation:** 
 
-**[8584.12s] English:** they practice this you know the mount way more than that black belt dead so the naturally the  
+**[8584.12s] English:** They practice this, you know, the mount way more than that black belt. Dead or not, the naturally,...  
 **Translation:** 
 
-**[8590.72s] English:** defense is better so they they get to experience the defensive position much much much more and  
+**[8590.72s] English:** Defense is better, so they get to experience the defensive position much, much, much more.  
 **Translation:** 
 
-**[8595.32s] English:** especially training with you they get really good at defending yeah and then over and over again you  
+**[8595.32s] English:** Especially when trained with you, they get really good at defending, yeah, and then over and over again, you.  
 **Translation:** 
 
-**[8600.42s] English:** attack them with the same thing over and over again they know what's coming they will block  
+**[8600.42s] English:** Attack them with the same thing over and over again; they know what's coming, and they will block.  
 **Translation:** 
 
-**[8603.88s] English:** they will develop a defense over that yeah  
+**[8603.88s] English:** They will develop a defense over that, yeah.  
 **Translation:** 
 
-**[8607.66s] English:** better than most other high level black belts so both put yourself into really bad positions with  
+**[8607.66s] English:** Better than most other high-level black belts, so both put yourselves into really bad positions with  
+**Translation:** Vocabulary: yourselves: 你们自己
+
+**[8613.58s] English:** Lower ranks, and just keep attacking the same way over and over and over, yeah, yeah, and with that.  
 **Translation:** 
 
-**[8613.58s] English:** lower ranks and just keep attacking the same way over and over and over yeah yeah and with that  
+**[8621.34s] English:** You're able to be at the top of the world at the World Championships, yeah? I mean, can you give some?  
 **Translation:** 
 
-**[8621.34s] English:** you're able to be at the top of the world at the world championships yeah i mean can you give some  
+**[8628.78s] English:** What was the preparation like for a world championship with lower-ranked players? I mean,  
 **Translation:** 
 
-**[8628.78s] English:** what was the preparation like to a world championship with lower ranks i mean  
+**[8633.82s] English:** I did a lot of boxing and a lot of conditioning.  
 **Translation:** 
 
-**[8633.82s] English:** i did a lot of boxing a lot of conditioning  
+**[8637.66s] English:** But the conditioning is a big part of it, but they won't.  
 **Translation:** 
 
-**[8637.66s] English:** but the conditioning is a big part of it but they won't  
-**Translation:** 
-
-**[8640.00s] English:** One thing that helped me extremely living in England, in London, was training judo at the Borough Choir in London.  
-**Translation:** 
+**[8640.00s] English:** One thing that really helped me while living in England, in London, was training judo at the Borough Judo Club in London.  
+**Translation:** Vocabulary: borough: 区
 
 **[8648.32s] English:** That helped me massively because it gave me the motivation to learn something new.  
 **Translation:** 
 
-**[8654.82s] English:** Because, you know, by then at the Borough Choir, you know, the stand-up was, I'm sure today it is too, but by then it was even higher than it is today.  
-**Translation:** Vocabulary: massively: 非常
+**[8654.82s] English:** Because, you know, by then at the Borough Choir, the stand-up was even higher than it is today, and I'm sure it is still that way now.  
+**Translation:** Vocabulary: massively: 极大程度上
 
-**[8664.58s] English:** Like, there was some very high-level judo guys training there.  
+**[8664.58s] English:** Like, there were some very high-level judo guys training there.  
 **Translation:** 
 
 **[8667.88s] English:** And, I mean, the first time I went there, my stand-up was terrible compared to theirs.  
 **Translation:** 
 
-**[8674.90s] English:** I mean, it was bad, but compared to them, it was terrible.  
+**[8674.90s] English:** I mean, it was bad, but compared to theirs, it was terrible.  
 **Translation:** 
 
-**[8678.04s] English:** So, I was getting thrown like a child.  
+**[8678.04s] English:** So, I was being thrown around like a child.  
 **Translation:** 
 
 **[8680.84s] English:** And that motivated me to keep coming back and get better.  
 **Translation:** 
 
-**[8686.64s] English:** So, that made my jiu-jitsu much stronger.  
-**Translation:** 
+**[8686.64s] English:** So, that made my jiujitsu much stronger.  
+**Translation:** Vocabulary: jiujitsu: 巴西柔术; motivated: 激励
 
-**[8689.80s] English:** I became, my base got better, my top game improved, my pressure game improved.  
+**[8689.80s] English:** I became stronger at my base, my top game improved, and my pressure game improved.  
 **Translation:** 
 
 **[8696.56s] English:** Does Neil Adams train?  
@@ -6197,7 +6198,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **Translation:** 
 
 **[8699.52s] English:** Ray Stevens.  
-**Translation:** 
+**Translation:** Vocabulary: stevens: 史蒂文斯
 
 **[8700.12s] English:** No, I've never met Neil Adams.  
 **Translation:** 
@@ -6205,7 +6206,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8702.00s] English:** Have you met Neil Adams?  
 **Translation:** 
 
-**[8703.82s] English:** He's the voice of judo.  
+**[8703.82s] English:** He's the voice of Judo.  
 **Translation:** 
 
 **[8705.24s] English:** I don't know if you watched the tournaments.  
@@ -6220,7 +6221,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8708.14s] English:** Ray Stevens is a silver medalist in the Olympics.  
 **Translation:** 
 
-**[8712.80s] English:** He won European.  
+**[8712.80s] English:** He won the European championship.  
 **Translation:** 
 
 **[8713.68s] English:** He won a lot.  
@@ -6229,19 +6230,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8714.70s] English:** So, you did some judo training.  
 **Translation:** 
 
-**[8715.86s] English:** What's your favorite throw?  
+**[8715.86s] English:** What's your favorite thing to throw?  
 **Translation:** 
 
 **[8716.96s] English:** Like a Soto?  
 **Translation:** 
 
-**[8718.22s] English:** Uchimata, I would say.  
+**[8718.22s] English:** Uchimata; I would say.  
 **Translation:** 
 
 **[8719.06s] English:** Uchimata.  
 **Translation:** Vocabulary: uchimata: 插入抱膝摔
 
-**[8719.48s] English:** If I would pick one.  
+**[8719.48s] English:** If I were to pick one.  
 **Translation:** 
 
 **[8720.50s] English:** So, that made you better at jiu-jitsu as well?  
@@ -6256,172 +6257,172 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8723.90s] English:** Okay.  
 **Translation:** 
 
-**[8724.66s] English:** And back then, like for the first…  
+**[8724.66s] English:** And back then, like for the first time...  
 **Translation:** 
 
 **[8727.80s] English:** I would say maybe three years, maybe four.  
 **Translation:** 
 
-**[8730.86s] English:** I went to Brazil for like two months before every major tournament.  
+**[8730.86s] English:** I went to Brazil for about two months before every major tournament.  
 **Translation:** 
 
 **[8735.20s] English:** Got it.  
 **Translation:** 
 
-**[8735.58s] English:** So, I said, you know, I'd move away from the school and I really focused.  
+**[8735.58s] English:** So, I said, "You know, I'd move away from the school," and I really focused.  
 **Translation:** 
 
-**[8738.68s] English:** So, I was really well prepared with my judo and everything else, sharpening up my skills  
+**[8738.68s] English:** So, I was really well-prepared with my judo and everything else, sharpening up my skills.  
 **Translation:** 
 
-**[8743.20s] English:** and then going to Brazil to train with like really high-level people.  
+**[8743.20s] English:** And then going to Brazil to train with really high-level people.  
 **Translation:** Vocabulary: sharpening: 磨练
 
-**[8748.74s] English:** So, that way I would manage to compete in the highest level.  
+**[8748.74s] English:** So, that way, I would manage to compete at the highest level.  
 **Translation:** 
 
-**[8753.14s] English:** What advice would you give to, let's start with a complete beginner?  
+**[8753.14s] English:** What advice would you give to someone who is a complete beginner?  
 **Translation:** 
 
-**[8757.80s] English:** So, you know…  
+**[8757.80s] English:** So, you know...  
 **Translation:** 
 
-**[8760.00s] English:** a bunch of people come up to me they still want to start doing jiu-jitsu what advice would you  
+**[8760.00s] English:** A bunch of people come up to me, they still want to start doing jiu-jitsu. What advice would you give?  
 **Translation:** 
 
-**[8764.80s] English:** give them try to absorb as much technique as you can and try to be as relaxed as you can don't  
+**[8764.80s] English:** Give them a try to absorb as much technique as you can, and try to be as relaxed as you can. Don't  
 **Translation:** 
 
-**[8774.88s] English:** you know don't desperately try to fight so hard like learn and move slow  
+**[8774.88s] English:** You know, don't desperately try to fight so hard; learn and move slow.  
 **Translation:** Vocabulary: desperately: 拼命地
 
-**[8782.96s] English:** move slow and relax that's the hardest thing to do the hardest you know you know what i find with  
+**[8782.96s] English:** Move slow and relax—that's the hardest thing to do. The hardest, you know, what I find with.  
 **Translation:** 
 
-**[8792.00s] English:** people it seems like it's hard to even know that you're not relaxed it's it's like the introspection  
+**[8792.00s] English:** People, it seems like it's hard to even know that you're not relaxed. It's almost like the introspection.  
 **Translation:** Vocabulary: introspection: 内省
 
-**[8799.68s] English:** they don't even know what it feels like to relax not even know they tense yeah right they try to  
+**[8799.68s] English:** They don't even know what it feels like to relax. Not even know they're tense, yeah, right? They try to.  
 **Translation:** 
 
-**[8804.88s] English:** relax you look at you see what what do you mean relax i'm relaxed exactly exactly the arms are  
+**[8804.88s] English:** Relax, you look at you see what? What do you mean, "relax"? I'm relaxed, exactly. Exactly, the arms are...  
 **Translation:** 
 
-**[8810.40s] English:** shaking you feel it  
+**[8810.40s] English:** Shaking, you feel it.  
 **Translation:** 
 
-**[8813.28s] English:** and in terms of going slow they're like yeah well i am going slow no you're you're not yeah  
+**[8813.28s] English:** And in terms of going slow, they're like, "Yeah, well, I am going slow. No, you're not. Yeah.  
 **Translation:** 
 
-**[8817.84s] English:** uh yeah there's there's a there's a grace and elegance of movement that you can probably pick  
+**[8817.84s] English:** Uh, yeah, there's a grace and elegance of movement that you can probably pick up.  
 **Translation:** 
 
-**[8823.12s] English:** up from a lot of other disciplines like for me i think that came from just learning piano piano at  
+**[8823.12s] English:** Up from a lot of other disciplines, like for me, I think that came from just learning piano. Piano.  
 **Translation:** Vocabulary: disciplines: 学科; elegance: 优雅
 
-**[8828.56s] English:** a young age is for um i think any mobility thing to learn how to move efficiently you have to know  
+**[8828.56s] English:** At a young age, I think any mobility thing should learn how to move efficiently; you have to know.  
 **Translation:** 
 
-**[8835.92s] English:** how to relax it's just the fact that you can like the body can be tense or it could be relaxed just  
-**Translation:** Vocabulary: efficiently: 高效地; mobility: 移动性
+**[8835.92s] English:** How to relax? It's just the fact that you can; the body can be tense, or it could be relaxed just  
+**Translation:** Vocabulary: efficiently: 高效地; mobility: 移动
 
-**[8842.32s] English:** knowing that fact  
+**[8842.32s] English:** Knowing that fact,  
 **Translation:** 
 
-**[8842.96s] English:** now imagine you show the stance yeah do you think you play piano well no yeah everything has  
+**[8842.96s] English:** Now, imagine you show your stance. Yeah, do you think you play the piano well? No, yeah, everything has.  
 **Translation:** Vocabulary: stance: 态度
 
-**[8848.72s] English:** to be relaxed i guess some of that is mind too but just knowing that and being self-aware and you but  
+**[8848.72s] English:** To be relaxed, I guess some of that is mental, too, but just knowing that and being self-aware really helps.  
 **Translation:** 
 
-**[8854.40s] English:** see like even me um you know approaching a thing i'm not i don't know anything about being a  
+**[8854.40s] English:** See, like, even me — you know, approaching a thing I don't know anything about being a...  
+**Translation:** Vocabulary: approaching: 靠近
+
+**[8862.72s] English:** Beginner, you're going to tense up no matter how much you like it. Actually, it takes a conscious effort to avoid it.  
 **Translation:** 
 
-**[8862.72s] English:** beginner you're going to tense up no matter and like it actually takes a conscious effort to  
+**[8867.36s] English:** Think to relax; I mean, that's massively why learning things as an adult is much more important.  
+**Translation:** Vocabulary: massively: 非常重要
+
+**[8869.28s] English:** Massively, that's why learning things as an adult is much more important.  
 **Translation:** 
 
-**[8867.36s] English:** think to relax i mean that's massively that's why learning things as an adult is much more important  
-**Translation:** Vocabulary: massively: 非常
-
-**[8869.28s] English:** massively that's why learning things as an adult is much more important  
+**[8871.28s] English:** That's why learning things as an adult is much more important.  
 **Translation:** 
 
-**[8871.28s] English:** that's why learning things as an adult is much more important  
+**[8872.96s] English:** Harder than as a child; it's very hard, and as an adult, it's like getting to the highest level.  
 **Translation:** 
 
-**[8872.96s] English:** harder than as a child like it's very hard and as an adult it's like to get to the highest level  
+**[8879.44s] English:** It's not possible.  
 **Translation:** 
 
-**[8879.44s] English:** it's not possible  
+**[8880.00s] English:** Because you will never relax food the way you should, yeah, relax in the way.  
 **Translation:** 
 
-**[8880.00s] English:** because you will never relax food the way you should yeah relax in the way  
-**Translation:** 
-
-**[8886.30s] English:** that you become like water but then you solidify in the right places yeah yeah  
+**[8886.30s] English:** That you become like water, but then you solidify in the right places, yeah, yeah.  
 **Translation:** Vocabulary: solidify: 凝固
 
-**[8894.34s] English:** is there advice you can give to an adult so like somebody that has a job like a  
+**[8894.34s] English:** Is there any advice you can give to an adult, like someone who has a job, like a  
 **Translation:** 
 
-**[8899.44s] English:** hobbyist like how to progress how do you I mean have I did train this is just  
+**[8899.44s] English:** Hobbyists like how to progress. How do you, I mean, have I, did I train this is just.  
 **Translation:** 
 
-**[8904.36s] English:** need to train as much as you can not you know five seven days a week because you  
+**[8904.36s] English:** Need to train as much as you can—not, you know, five or seven days a week, because you  
 **Translation:** 
 
-**[8909.46s] English:** get it we're gonna get injured I mean two three times a week to start is the  
+**[8909.46s] English:** Get it? We're gonna get injured—I mean, two or three times a week to start—is the  
 **Translation:** 
 
-**[8914.44s] English:** best way to just you know to to initiate your jiu-jitsu journey and practice the  
+**[8914.44s] English:** The best way to just know to initiate your jiu-jitsu journey and practice is  
 **Translation:** 
 
-**[8920.62s] English:** same thing over and over again when they don't work it's just because you're not  
+**[8920.62s] English:** The same thing over and over again when they don't work is just because you're not  
 **Translation:** Vocabulary: initiate: 开始
 
-**[8924.40s] English:** doing well not because you know you have to learn something else do you see some  
+**[8924.40s] English:** Doing well, not because you know you have to learn something else, do you see some?  
 **Translation:** 
 
-**[8929.32s] English:** value in just picking a set of techniques that seem to seem to draw  
+**[8929.32s] English:** Value in just picking a set of techniques that seem to draw  
 **Translation:** 
 
-**[8932.70s] English:** your heart in like for example I'll give you an example you'll get a yell at me  
+**[8932.70s] English:** Your heart, in, for example: I'll give you an example—you'll get a yell at me.  
 **Translation:** 
 
-**[8936.72s] English:** but  
+**[8936.72s] English:** But  
 **Translation:** 
 
-**[8939.46s] English:** I never learned the close guard well it just never connected with me you could  
+**[8939.46s] English:** I never learned the close guard well; it just never connected with me, you could say.  
 **Translation:** 
 
-**[8947.70s] English:** say it's body mechanics whatever it doesn't matter the point is it's just  
+**[8947.70s] English:** Say, it's body mechanics, whatever; it doesn't matter. The point is, it's just  
 **Translation:** 
 
-**[8950.78s] English:** like my heart never connected with it you know the way I justified it to  
+**[8950.78s] English:** Like, my heart never really connected with it, you know, the way I justified it to myself.  
 **Translation:** 
 
-**[8955.58s] English:** myself is I felt like when you're bad you're using the closed guard just think  
+**[8955.58s] English:** Myself, I felt like when you're bad, you're using the closed guard; just think.  
 **Translation:** 
 
-**[8959.54s] English:** you could use the half guard to stall so I was really drawn to the butterfly guard  
+**[8959.54s] English:** You could use the half guard to stall, so I was really drawn to the butterfly guard.  
 **Translation:** 
 
-**[8963.92s] English:** as a beginner because I thought that I haven't or open guard in general and I'm not the one that is going to do it.  
+**[8963.92s] English:** As a beginner, I thought that I wouldn't open guard in general, and I'm not the one who is going to do it.  
 **Translation:** 
 
 **[8969.46s] English:** I have no options to stall, so I'm going to learn.  
 **Translation:** 
 
-**[8972.44s] English:** My thinking was, let me do the guard that enforces me to learn.  
+**[8972.44s] English:** My thinking was: let me do the guard that enforces me to learn.  
 **Translation:** 
 
-**[8977.26s] English:** And then I fell in love with the butterfly guard and the open guard and so on.  
+**[8977.26s] English:** And then I fell in love with the butterfly guard and the open guard, and so on.  
 **Translation:** 
 
 **[8980.20s] English:** And I never really understood the close guard.  
 **Translation:** 
 
-**[8984.22s] English:** And the other thinking was, do I really need to understand the close guard?  
+**[8984.22s] English:** And the other thought was, do I really need to understand the close guard?  
 **Translation:** 
 
 **[8988.80s] English:** Because it's always by choice that I go there.  
@@ -6439,70 +6440,70 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[8998.12s] English:** In this life, yes.  
 **Translation:** 
 
-**[9000.00s] English:** make you complete that means you have you want to be complete as a this is the question how  
+**[9000.00s] English:** Make you complete? That means you have you want to be complete, as this is the question: how.  
 **Translation:** 
 
-**[9005.38s] English:** valuable is it to be complete to get good depends how good you want to be okay let's go uh well  
+**[9005.38s] English:** Valuable is it to be complete? To get good, it depends how good you want to be. Okay, let's go! Well.  
 **Translation:** 
 
-**[9015.34s] English:** there's several questions there yeah okay like to be the best in the world do you need to be  
+**[9015.34s] English:** There are several questions there, yeah. Okay, like, to be the best in the world, do you need to?  
 **Translation:** 
 
-**[9019.68s] English:** complete of course the best in the world of course you have to be complete otherwise you  
+**[9019.68s] English:** Complete, of course, the best in the world. Of course, you have to be complete; otherwise, you...  
 **Translation:** 
 
-**[9025.36s] English:** somebody's gonna be better than you but what about like to so to understand to defend you  
+**[9025.36s] English:** Somebody's gonna be better than you, but what about liking someone so to understand and defend them?  
 **Translation:** 
 
-**[9031.56s] English:** have to be also good at the offense and in every single position otherwise you you have a weakness  
+**[9031.56s] English:** You have to be good at both defense and offense, and in every single position; otherwise, you have a weakness.  
+**Translation:** Vocabulary: offense: 进攻
+
+**[9036.84s] English:** And someone can capitalize on that weakness, okay? What about being like a hobbyist, and you don't?  
 **Translation:** 
 
-**[9036.84s] English:** and someone can capitalize on that weakness okay what about to be like a hobbyist and you don't  
-**Translation:** 
-
-**[9043.76s] English:** have to but can you or is it still bad i mean it's not bad i mean nothing is bad i mean if you  
+**[9043.76s] English:** Have to, but can you, or is it still bad? I mean, it's not bad. I mean, nothing is bad, I mean, if you...  
 **Translation:** Vocabulary: capitalize: 利用弱点
 
-**[9050.08s] English:** as a hobbyist you start late i mean it's it doesn't matter how far you're gonna get  
+**[9050.08s] English:** As a hobbyist, you start late. I mean, it doesn't matter how far you're going to get.  
 **Translation:** 
 
-**[9055.36s] English:** as long as you enjoy it just train as much as you can if it's twice a week twice a week it is  
+**[9055.36s] English:** As long as you enjoy it, just train as much as you can. If it's twice a week, twice a week it is.  
 **Translation:** 
 
-**[9060.96s] English:** you you'll be limited how good you will be training twice a week of course then the guy  
+**[9060.96s] English:** You'll be limited in how good you'll be if you train only twice a week, of course. Then the guy,...  
 **Translation:** 
 
-**[9066.72s] English:** that trains twice a day you know it's just the more you train the better you get but you have  
+**[9066.72s] English:** That trains twice a day; you know, it's just that the more you train, the better you get, but you have.  
 **Translation:** 
 
-**[9072.14s] English:** to select what you train that's what i'm asking so i don't know yes but like for how long like  
+**[9072.14s] English:** To select what you train, that's what I'm asking. So, I don't know; yes, but like for how long, like?  
 **Translation:** 
 
-**[9076.96s] English:** there's some point in your life that you might try something see if you like it you know there's  
+**[9076.96s] English:** There's some point in your life that you might try something to see if you like it, you know.  
 **Translation:** 
 
-**[9082.58s] English:** some point in your life that you might okay let me try close guard  
+**[9082.58s] English:** Some point in your life, you might okay, let me try close guard.  
 **Translation:** 
 
-**[9085.36s] English:** you might not like it now maybe in two three years from now still don't like it i kept trying it  
+**[9085.36s] English:** You might not like it now; maybe, in two or three years from now, you still don't like it. I kept trying it.  
 **Translation:** 
 
-**[9092.10s] English:** listen because listen it's very difficult to get any respect in jiu-jitsu is get it's hard to get  
+**[9092.10s] English:** Listen, because it's very difficult to get any respect in jiujitsu; it's hard to get.  
 **Translation:** 
 
-**[9097.94s] English:** to black belt and beyond in jiu-jitsu at a respectable place and not have a good close  
+**[9097.94s] English:** To black belt and beyond in Jiu-Jitsu at a respectable place, and not have a good closing.  
+**Translation:** Vocabulary: jiujitsu: 柔道
+
+**[9105.70s] English:** Guard, close guard—is i mean, it's then don't do it; it's not necessary. I'm being a rebel? No, no, it's  
 **Translation:** 
 
-**[9105.70s] English:** guard close guard is i mean it's then don't do it it's not necessary i'm being a rebel no no it's  
+**[9112.32s] English:** It's not a position, it's not a position, it's not a position.  
 **Translation:** 
 
-**[9112.32s] English:** not it's i'll say because it's not it's not a position it's not a position it's not a position  
+**[9115.36s] English:** That you want the pressure that if you don't know, you'll be in trouble.  
 **Translation:** 
 
-**[9115.36s] English:** that you want the pressure that if you don't know you'll be in trouble  
-**Translation:** 
-
-**[9120.54s] English:** You're not going to be in trouble not to know the close guard.  
+**[9120.54s] English:** You're not going to be in trouble for not knowing the close guard.  
 **Translation:** 
 
 **[9122.76s] English:** You're just going to go straight for open guard.  
@@ -6511,17 +6512,17 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[9124.90s] English:** It's not a problem.  
 **Translation:** 
 
-**[9125.80s] English:** The main limitation is if you don't do close guard a lot, that you don't quite, you don't get a full complete picture of understanding how to attack close guard when somebody puts you into a close guard when you're on top.  
+**[9125.80s] English:** The main limitation is: if you don't do close guard a lot, you don't quite get a full, complete picture of understanding how to attack close guard when somebody puts you into a close guard from the top.  
 **Translation:** 
 
-**[9139.38s] English:** So it's nice to know both sides if it's just to understand.  
+**[9139.38s] English:** So, it's nice to know both sides if it's just to understand.  
 **Translation:** 
 
-**[9141.76s] English:** Yeah, but you can have a pretty good understanding of how to defend from the top and not having any bottom.  
+**[9141.76s] English:** Yeah, but you can have a pretty good understanding of how to defend from the top, and not having any bottom.  
 **Translation:** 
 
 **[9148.66s] English:** I mean, some of it is also just like the length of legs and just the geometry of your body.  
-**Translation:** Vocabulary: geometry: 身体几何
+**Translation:** Vocabulary: geometry: 身体的形状
 
 **[9154.34s] English:** Nick, I'm sure Marcel Garcia has a good close guard.  
 **Translation:** 
@@ -6535,52 +6536,52 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[9163.06s] English:** In theory, you can imagine it.  
 **Translation:** 
 
-**[9166.32s] English:** But for a hobbyist, I think it's interesting to think of that.  
+**[9166.32s] English:** But for a hobbyist, I think it's interesting to think about that.  
 **Translation:** 
 
 **[9169.86s] English:** Like, is it possible to focus on a small set of techniques?  
 **Translation:** 
 
-**[9178.66s] English:** That help you to develop still into a good jiu-jitsu player and still enjoy and still be able to be.  
+**[9178.66s] English:** That helps you to develop into a good jiu-jitsu player and still enjoy it.  
 **Translation:** 
 
-**[9184.98s] English:** Most people's hobbies in the jiu-jitsu world, 99%.  
+**[9184.98s] English:** Most people's hobbies in the jiu-jitsu world are 99%.  
 **Translation:** 
 
-**[9189.82s] English:** I mean, people that compete.  
+**[9189.82s] English:** I mean, people who compete.  
 **Translation:** 
 
-**[9191.72s] English:** Even the people that compete.  
+**[9191.72s] English:** Even the people who compete.  
 **Translation:** 
 
-**[9193.14s] English:** 1% max.  
+**[9193.14s] English:** 1% Max.  
 **Translation:** 
 
-**[9194.38s] English:** And you have high level competitors.  
+**[9194.38s] English:** And you have high-level competitors.  
 **Translation:** 
 
-**[9198.48s] English:** Have no clue what close guard is.  
+**[9198.48s] English:** I have no clue what close guard is.  
 **Translation:** 
 
-**[9200.24s] English:** Okay, thank you for me.  
+**[9200.24s] English:** Okay, thank you for that.  
 **Translation:** 
 
 **[9201.66s] English:** No, I think you would say that most people don't have.  
 **Translation:** 
 
-**[9204.82s] English:** Close guard is such a difficult position.  
+**[9204.82s] English:** Close Guard is such a difficult position.  
 **Translation:** 
 
-**[9208.66s] English:** To understand, for me.  
+**[9208.66s] English:** To understand, for me,  
 **Translation:** 
 
 **[9210.54s] English:** Maybe one day we'll brainwash.  
-**Translation:** 
+**Translation:** Vocabulary: brainwash: 洗脑
 
 **[9212.14s] English:** Yeah, good.  
 **Translation:** 
 
-**[9213.26s] English:** I felt it's too easy to stall versus attack.  
+**[9213.26s] English:** I felt it's too easy to stall rather than attack.  
 **Translation:** 
 
 **[9219.82s] English:** That was my main concern.  
@@ -6589,17 +6590,17 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[9221.24s] English:** I want to be forced in every way to always be attacking, to always be moving, to always be.  
 **Translation:** 
 
-**[9229.00s] English:** And it felt like if I got really good.  
+**[9229.00s] English:** And it felt like, if I got really good.  
 **Translation:** 
 
-**[9232.06s] English:** I've seen it happen with half guard too.  
+**[9232.06s] English:** I've seen it happen with half guard, too.  
 **Translation:** 
 
-**[9234.84s] English:** It's like when people get really good at half guard, it just feels stall-y.  
+**[9234.84s] English:** It's like when people get really good at half guard; it just feels stale.  
 **Translation:** 
 
 **[9238.18s] English:** If you just.  
-**Translation:** 
+**Translation:** Vocabulary: stale: 陈旧乏味
 
 **[9238.66s] English:** Look at this.  
 **Translation:** 
@@ -6607,455 +6608,455 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[9239.64s] English:** It's.  
 **Translation:** 
 
-**[9240.00s] English:** matches and so on it's you slow things down to a thing that's not you don't get reps on learning  
+**[9240.00s] English:** Matches and so on, it's you slowing things down to something that's not where you get reps on learning.  
 **Translation:** 
 
-**[9246.74s] English:** you don't get action in interesting ways so that was my worry that i'll get old and fat and just  
+**[9246.74s] English:** You don't get action in interesting ways, so that was my worry: that I'll get old and fat and just...  
 **Translation:** 
 
-**[9253.78s] English:** sitting in close guard all day holding on to the white belts trying to kill me because it's also i  
+**[9253.78s] English:** Sitting in close guard all day, holding on to the white belts trying to kill me, because it's also I,...  
 **Translation:** 
 
-**[9260.72s] English:** mean that's the other thing for hobbyists and for everyone is to like when you first start i think  
+**[9260.72s] English:** That means the other thing for hobbyists and everyone is to, like, when you first start, I think.  
 **Translation:** 
 
-**[9266.54s] English:** you have to relax in the face of the fact that you're just getting your ass kicked non-stop  
+**[9266.54s] English:** You have to relax in the face of the fact that you're just getting your ass kicked non-stop.  
 **Translation:** 
 
-**[9272.96s] English:** yeah that can also be really tough on the ego i think probably the right way to see that is  
+**[9272.96s] English:** Yeah, that can also be really tough on the ego. I think probably the right way to see that is  
 **Translation:** 
 
-**[9277.84s] English:** you're growing as a person you see that clearly when they are like in a bad position let's say  
+**[9277.84s] English:** You're growing as a person, and you see that clearly when they are, for example, in a bad position.  
 **Translation:** 
 
-**[9284.02s] English:** side mount or mount like a beginner he will never relax on those positions the moment that you say  
+**[9284.02s] English:** Side mount or mount like a beginner, he will never relax in those positions the moment that you say.  
 **Translation:** 
 
-**[9291.40s] English:** go they like trying to push you out and  
+**[9291.40s] English:** They like trying to push you out and  
 **Translation:** 
 
-**[9296.54s] English:** there's no relaxation and work on the defense it's like no it's a out and go until i have  
+**[9296.54s] English:** There's no relaxation, and we keep working on the defense. It's like, no, it's an out-and-go strategy until I have.  
 **Translation:** Vocabulary: relaxation: 放松
 
-**[9303.62s] English:** zero to give until i'm exhausted my arms cannot move  
+**[9303.62s] English:** Zero to give until I'm exhausted; my arms cannot move.  
 **Translation:** 
 
-**[9308.38s] English:** it's kind of fun to watch actually what's the role of drilling  
+**[9308.38s] English:** It's kind of fun to watch, actually. What's the role of drilling?  
 **Translation:** Vocabulary: cannot: 不能
 
-**[9312.96s] English:** do you do you like drilling i do not like drilling but i'll tell you why i think  
+**[9312.96s] English:** Do you like drilling? I do not like drilling, but I'll tell you why.  
 **Translation:** 
 
-**[9320.64s] English:** fighting is mechanic right so it's  
+**[9320.64s] English:** Fighting is mechanical, right? So it's  
 **Translation:** 
 
-**[9326.54s] English:** it's very important to drill a move until you learn the mechanic of course it's important if  
+**[9326.54s] English:** It's very important to drill a move until you learn the mechanics, of course; it's important if...  
 **Translation:** 
 
-**[9332.66s] English:** someone want to teach you an arm lock you want to practice that movement until you learn the  
+**[9332.66s] English:** Someone wants to teach you an arm lock. You want to practice that movement until you learn the  
 **Translation:** 
 
-**[9338.26s] English:** mechanic of it but the guy is not resisting so it's easy to apply it right so you apply as many  
+**[9338.26s] English:** Mechanic of it, but the guy is not resisting, so it's easy to apply it. Right? So, you apply as many...  
 **Translation:** 
 
-**[9345.28s] English:** times as you have to until you know the mechanic of the moves until you can apply the mechanics  
+**[9345.28s] English:** Times, as you have to until you know the mechanics of the moves until you can apply them.  
+**Translation:** Vocabulary: resisting: 抵抗
+
+**[9350.56s] English:** The moment you know how to apply it, there's no more point in drilling; now you have to practice.  
 **Translation:** 
 
-**[9350.56s] English:** the moment that you know how to apply there's no more point in drilling now you have to practice  
+**[9356.54s] English:** Now, we have to practice with resistance, of course, you know.  
 **Translation:** 
 
-**[9356.54s] English:** now we have to practice with resistance of course you know  
+**[9360.00s] English:** Going to practice with the guy who is fully resisting is better than you, because he's not going to.  
 **Translation:** 
 
-**[9360.00s] English:** going to practice with the guy fully resisting the guy's better than you because he's not going  
+**[9364.08s] English:** To give you a chance to practice that move, but you have to practice with resistance. So, where  
 **Translation:** 
 
-**[9364.08s] English:** to give you a chance to practice that move but you have to practice with resistance so where  
+**[9368.92s] English:** This drilling comes on, and that is mostly what people, you know, flow-drill and everything I think.  
 **Translation:** 
 
-**[9368.92s] English:** this drilling comes on that is most of people you know they flow drill and everything i think  
+**[9376.78s] English:** Whatever you do, you condition in your body to do something is the thing you know you do and repeat.  
 **Translation:** 
 
-**[9376.78s] English:** whatever you do you condition in your body to do something is the you know you do you repeat the  
+**[9383.34s] English:** Same move over and over again; your body's conditioning to apply that movement or the  
 **Translation:** 
 
-**[9383.34s] English:** same move over over and over again your body's conditioning to apply that movement or the  
+**[9387.38s] English:** Technique drilling is not realistic because the other person is not resisting, you know, the flow.  
 **Translation:** 
 
-**[9387.38s] English:** technique drilling is not realistic because the other person is not resisting you know the flow  
+**[9393.58s] English:** Movement, or whatever, after you go beyond what you already know about the mechanics of the drilling.  
 **Translation:** 
 
-**[9393.58s] English:** movement or whatever after you go beyond you when you already know that the mechanics the drilling  
+**[9400.38s] English:** With no resistance, you are not going to learn anything because you will never know how to.  
 **Translation:** 
 
-**[9400.38s] English:** with no resistance is not going to teach you anything because you will never know if how to  
+**[9405.50s] English:** Apply the movement with resistance; it's pointless to carry on drilling after you learn.  
 **Translation:** 
 
-**[9405.50s] English:** apply the movement with resistance so it's pointless to carry on drilling after you learn  
+**[9410.68s] English:** The mechanics see, but you're making it sound easy to learn the mechanics. I would argue.  
+**Translation:** Vocabulary: pointless: 毫无意义的
+
+**[9417.16s] English:** You.  
 **Translation:** 
 
-**[9410.68s] English:** the mechanics see but you're making it sound easy to learn the mechanics i would argue  
+**[9417.36s] English:** You can drill as many times; I'm not limiting how much you drill. Yes, you can drill as much as you need.  
 **Translation:** 
 
-**[9417.16s] English:** you  
+**[9424.80s] English:** Long as you had to, I mean it doesn't matter how long; the benefit of drilling, I'm just playing.  
 **Translation:** 
 
-**[9417.36s] English:** you can drill as many times i'm not limiting how much you drill yes you drill as much as  
+**[9430.38s] English:** Devil's advocate, with you, the benefit of drilling is that you can more efficiently get a higher.  
+**Translation:** Vocabulary: advocate: 提倡; efficiently: 高效地
+
+**[9435.82s] English:** Number of reps? In so, what are you going to gain with those reps, understanding the mechanics of?  
 **Translation:** 
 
-**[9424.80s] English:** long as you had to i mean it doesn't matter how long the benefit of drilling i'm just playing  
+**[9443.02s] English:** The movement, and what I would like to argue is that you don't necessarily need to.  
 **Translation:** 
 
-**[9430.38s] English:** devil's advocate with you the benefit of drilling is that you can more efficiently get a higher  
-**Translation:** Vocabulary: advocate: 辩护; efficiently: 高效地
-
-**[9435.82s] English:** number of reps in so what are you going to gain with those reps understanding the mechanics of  
+**[9447.14s] English:** Resistance to deeply understanding the mechanics of something? No, I don't know; there's some... no, for [end of segment]  
 **Translation:** 
 
-**[9443.02s] English:** the movement and what i would like to argue is you don't necessarily need to  
+**[9453.22s] English:** There are some moves, like I bet you could drill your way to an incredible amount, like  
+**Translation:** Vocabulary: segment: 部分
+
+**[9463.14s] English:** Mountains are a good example of that; you don't really need resistance. I can imagine a world,  
 **Translation:** 
 
-**[9447.14s] English:** resistance to deeply understand the mechanics of something no i don't know there's some no for  
+**[9468.42s] English:** In which the resisting opponent is not essential for developing some of the very fine details.  
+**Translation:** Vocabulary: opponent: 对手; resisting: 抵抗的
+
+**[9474.82s] English:** Of the mechanics, which one because I don't know it.  
 **Translation:** 
 
-**[9453.22s] English:** there's some moves like i bet you you could drill your way to an incredible amount like  
+**[9477.14s] English:** You say Mount  
 **Translation:** 
 
-**[9463.14s] English:** mountain is a good example of that you don't really need a resist one i can imagine a world  
+**[9478.98s] English:** Yes.  
 **Translation:** 
 
-**[9468.42s] English:** in which the resisting opponent is not essential for developing some of the very fine details  
+**[9480.00s] English:** What are you going to achieve by resisting when you can drill with no resistance afterward?  
 **Translation:** 
 
-**[9474.82s] English:** of the mechanics which one because i don't know it  
+**[9486.02s] English:** Learn the mechanics, email, but see what I'm trying to tell you about the learning the  
 **Translation:** 
 
-**[9477.14s] English:** you say mount  
+**[9489.58s] English:** Mechanics isn't a thing where you get a certificate and you're done; you're gonna  
+**Translation:** Vocabulary: certificate: 证书
+
+**[9493.18s] English:** Learn the fine details of the way you redistribute your weight; you're going to  
 **Translation:** 
 
-**[9478.98s] English:** yes  
+**[9497.56s] English:** Learn how to move your insides in a dead body; I don't understand what.  
+**Translation:** Vocabulary: insides: 内脏; redistribute: 重新分配
+
+**[9501.70s] English:** Yeah, like everything you do is a slow process and timing. You do you tell me?  
 **Translation:** 
 
-**[9480.00s] English:** what what you're gonna achieve by resist by drilling with no resistance after you  
+**[9506.62s] English:** You have to understand, moving okay—it's the guy's resistance; he's not buying it.  
+**Translation:** Vocabulary: timing: 时机
+
+**[9511.78s] English:** Not gonna grab you and apply the movement; I need to grab you and feel.  
 **Translation:** 
 
-**[9486.02s] English:** learn the mechanics email but see what I'm trying to tell you the learning the  
+**[9516.04s] English:** When is the right time to do that? He only comes when you're with him.  
 **Translation:** 
 
-**[9489.58s] English:** mechanics isn't a thing where you get a certificate and you're done you're gonna  
+**[9520.90s] English:** Movement, if you're not fully resistant, how would I know you couldn't infer?  
 **Translation:** 
 
-**[9493.18s] English:** learn the fine details of the way you redistribute your weight you're going to  
+**[9527.02s] English:** Through it, it's like with no movement and no resistance; there's something strange.  
+**Translation:** Vocabulary: resistant: 抵抗力强的
+
+**[9532.50s] English:** Resistance: I'm looking. Let's see. I'm looking. Okay, okay. Let's say you've been.  
 **Translation:** 
 
-**[9497.56s] English:** learn how to move your I don't understand my inside a dead body what  
-**Translation:** Vocabulary: redistribute: 重新分配
-
-**[9501.70s] English:** yeah like everything you do is a slow process and timing you do you tell me  
+**[9536.60s] English:** Drilling for a week, yeah, five hours a day—you should be an expert by now.  
 **Translation:** 
 
-**[9506.62s] English:** you have to understand moving okay it's the guy's resistant like he's not I'm  
-**Translation:** Vocabulary: resistant: 抗拒的
-
-**[9511.78s] English:** not gonna grab you and apply the movement I need to grab you and feel  
+**[9541.24s] English:** Mechanics, but now, how are you gonna carry on with drilling with no resistance?  
 **Translation:** 
 
-**[9516.04s] English:** when is the right time to do like that that he only comes it when you with  
+**[9548.30s] English:** No, yeah, yes. After that week, drilling five times a day for five hours each time, the arm.  
 **Translation:** 
 
-**[9520.90s] English:** movement if you're not fully resistant how would I know you couldn't infer  
+**[9554.00s] English:** Lock, you still have no clue how to apply the arm lock against a resisting opponent.  
 **Translation:** 
 
-**[9527.02s] English:** through it it's like with no movement with no resistance like there's some  
+**[9558.24s] English:** Opponent, no clue, zero: yeah, so don't know the.  
+**Translation:** Vocabulary: opponent: 对手; resisting: 抵抗
+
+**[9561.36s] English:** Movement, you know, the mechanic, which is kind of like how long you have to.  
 **Translation:** 
 
-**[9532.50s] English:** resistance I'm look let's see I'm look okay okay let's say you've been  
+**[9566.46s] English:** Drill, and how that doesn't matter; it's all about the person you're working with. You can do it for a month, after that...  
 **Translation:** 
 
-**[9536.60s] English:** drilling for a week yeah five hours a day you should be an expert with the  
+**[9572.42s] English:** The month is over; you should understand how the mechanic works. You still have no clue how to.  
 **Translation:** 
 
-**[9541.24s] English:** mechanics but now how are you gonna carry on with drilling with no resistance  
+**[9577.54s] English:** Apply the movement against a resisting opponent; you will never know how until you apply it.  
 **Translation:** 
 
-**[9548.30s] English:** no yeah yes after that week drilling five times five hours a day the the arm  
+**[9583.12s] English:** A fully resisting opponent—that's the only way to really learn a movement, yes. Well, put.  
 **Translation:** 
 
-**[9554.00s] English:** lock you still have no clue how to apply the arm lock against a resisting  
+**[9590.88s] English:** But the question is: Can you have a small percentage of time when you go against the  
 **Translation:** 
 
-**[9558.24s] English:** opponent no clue zero yeah so don't know the  
+**[9596.00s] English:** Resisting an opponent to get the wisdom and the insight of what it takes to perform that.  
 **Translation:** 
 
-**[9561.36s] English:** movement you know the mechanic which is you know it's like how long you have to  
+**[9600.00s] English:** Movement, and you spend a large percentage of your other time just practicing the mechanics of it, so like  
 **Translation:** 
 
-**[9566.46s] English:** drill and how that doesn't matter it's it varies of the person you can do for a month after that  
+**[9606.36s] English:** Do you need to drift away completely as you get better and better at the technique?  
 **Translation:** 
 
-**[9572.42s] English:** month is over you should understand how the mechanic works you still have no clue how to  
+**[9614.42s] English:** From drilling and more into the sparring, I'd like to drill less. No, I don't.  
+**Translation:** Vocabulary: drift: 漂移; sparring: 对练
+
+**[9621.36s] English:** Like drilling, I see. I well, yes, I like drilling. I would say, uh, but I just see it always bothers me.  
 **Translation:** 
 
-**[9577.54s] English:** apply the movement against a resisting opponent you will never ever know how until you apply with  
+**[9626.64s] English:** In the jiu-jitsu community, how few people really saw the value of drilling I've seen.  
 **Translation:** 
 
-**[9583.12s] English:** a fully resisting opponent that's the only way to know to to really learn a movement yes well put  
+**[9631.16s] English:** Wrestling, especially in the Russian style of wrestling, like the value of drilling, I don't  
 **Translation:** 
 
-**[9590.88s] English:** but the question is can you have a small percentage of time when you go against the  
-**Translation:** 
-
-**[9596.00s] English:** resisting opponent to get the wisdom and the insight of what it takes to perform that  
-**Translation:** 
-
-**[9600.00s] English:** movement and you spend a large percentage of other time just practicing the mechanics of it so like  
-**Translation:** 
-
-**[9606.36s] English:** do you need to as you get better and better at technique to basically drift away completely  
-**Translation:** 
-
-**[9614.42s] English:** from drilling and more into the the sparring i i'd like to i just you like drilling no i don't  
-**Translation:** Vocabulary: drift: 逐渐远离; sparring: 对打
-
-**[9621.36s] English:** like drilling i see i well yes i like drilling i would say uh but i just see it always bothered  
-**Translation:** 
-
-**[9626.64s] English:** me in the jiu-jitsu community how few people really saw the value of drilling i've seen in  
-**Translation:** Vocabulary: bothered: 烦扰
-
-**[9631.16s] English:** wrestling especially in the in the russian style of wrestling like the value of drilling i don't  
-**Translation:** 
-
-**[9636.10s] English:** necessarily mean that it's like a dead body or like a dummy or something like that but just  
+**[9636.10s] English:** Necessarily mean that it's like a dead body or like a dummy or something like that, but just  
 **Translation:** Vocabulary: dummy: 木偶; wrestling: 摔跤
 
-**[9640.78s] English:** getting the reps in really focusing on the high amount of reps i agreed in wrestling and judo  
+**[9640.78s] English:** Getting the reps in, really focusing on the high amount of reps I agreed to in wrestling and judo.  
 **Translation:** 
 
-**[9648.88s] English:** i agree the drilling is very important initial drill a thousand times each move yeah judo is a  
+**[9648.88s] English:** I agree; the drilling is very important. Initial drills, a thousand times each move—yeah, judo is a  
 **Translation:** 
 
-**[9653.40s] English:** really big one for that it is because  
+**[9653.40s] English:** Really big, one for that it is, because.  
 **Translation:** 
 
-**[9656.64s] English:** it's is is the movement the timing you know is the precision of the movement yeah it has to be  
+**[9656.64s] English:** It's the movement, the timing, you know, is the precision of the movement. Yeah, it has to be.  
+**Translation:** Vocabulary: timing: 时机
+
+**[9663.28s] English:** Perfectly, because it's one movement, then you learn about the timing of the movement.  
 **Translation:** 
 
-**[9663.28s] English:** perfectly because it's one movement then is you you learn about the timing of the movement when  
+**[9668.90s] English:** You're fighting, but doing fighting, you only need to know the time because your body movement is  
 **Translation:** 
 
-**[9668.90s] English:** you're fighting but doing fighting you only need to know the time because your body movement is  
+**[9674.06s] English:** Exactly, the same thing happens when you drill it. That's really well put. Yeah, the mechanics are much more important.  
 **Translation:** 
 
-**[9674.06s] English:** exactly the same when you drill that's really well put yeah the mechanics is much more important  
+**[9678.94s] English:** Yeah, but it's completely different for jiu-jitsu because, let's say, from a jiu-jitsu armlock.  
+**Translation:** Vocabulary: armlock: 手臂锁
+
+**[9686.64s] English:** Use that as an example. Let's see: From the close guard, even my close guard—before I go for the...  
 **Translation:** 
 
-**[9678.94s] English:** yeah but it's completely different for jiu-jitsu because let's say from jiu-jitsu like the armlock  
-**Translation:** Vocabulary: armlock: 锁臂
-
-**[9686.64s] English:** use that as an example let's see from the close guard even my close guard before i go for the  
+**[9691.18s] English:** Armlock: I need to have a set of grips. Let's say I have your collar in my arm, and then you  
 **Translation:** 
 
-**[9691.18s] English:** armlock i need to have a set of grips let's say i have your collar in your arm right and then you  
+**[9697.14s] English:** Know, when you're drilling, I'm going to grab your arm, I'm going to grab your collar, and I'm going to...  
 **Translation:** 
 
-**[9697.14s] English:** know when you're drilling i'm going to grab your arm i'm going to grab your collar and i'm going  
+**[9701.16s] English:** To drill my body until I can apply the armlock and finish, and I can do that a thousand times.  
 **Translation:** 
 
-**[9701.16s] English:** to drill my body until i can apply the armlock and finish and i can do that a thousand times  
+**[9705.86s] English:** Okay, now we're fighting. We start with the grip. The moment I initiate the armlock attack, we're in action.  
 **Translation:** 
 
-**[9705.86s] English:** okay now we're fighting we start with the grip the moment that i initiate the armlock attack  
-**Translation:** 
-
-**[9711.76s] English:** you will defend the armlock will not work so it's not the one movement that will get you to do that  
+**[9711.76s] English:** You will defend the armlock; it will not work, so it's not the one movement that will get you to do that.  
 **Translation:** Vocabulary: initiate: 开始
 
-**[9716.64s] English:** you need to attack the arm there's a there's a combination of all  
+**[9716.64s] English:** You need to attack the arm. There's a combination of techniques there.  
 **Translation:** 
 
-**[9720.00s] English:** things that i need to do i need to feel about your weight you know i need to get you close to me  
+**[9720.00s] English:** Things that I need to do, I need to feel how much you weigh, you know, I need to get you close to me.  
 **Translation:** 
 
-**[9725.12s] English:** there's so many other things involved that i need to feel that only comes with life life with a  
+**[9725.12s] English:** There are so many other things involved that I need to feel, and that only comes with life, life with a  
 **Translation:** 
 
-**[9731.96s] English:** fully resistant opponent yeah so pretty quickly it has to be live yeah and then it comes how you  
-**Translation:** Vocabulary: resistant: 顽强抵抗的
+**[9731.96s] English:** Fully resistant, opponent? Yeah, so pretty quickly, it has to be live, yeah, and then it comes—how you?  
+**Translation:** Vocabulary: opponent: 对手
 
-**[9742.66s] English:** practice how you train you're starting on that position and just saying let's go and the moment  
+**[9742.66s] English:** Practice how you train; you're starting in that position, and just saying, "Let's go" at the moment.  
 **Translation:** 
 
-**[9750.04s] English:** that we disengage from that position we go back that's when you really learn because everything  
+**[9750.04s] English:** That, when we disengage from that position, we go back. That's when you really learn, because everything  
 **Translation:** Vocabulary: disengage: 脱离
 
-**[9755.20s] English:** that you do wrong you're going to go back there and you're going to try again try again try again  
+**[9755.20s] English:** That you do wrong, you're going to go back there and try again, try again, try again.  
 **Translation:** 
 
-**[9759.56s] English:** and the repetition it will teach you have a feeling of timing when to go if there's a you  
-**Translation:** Vocabulary: repetition: 重复
+**[9759.56s] English:** And the repetition will teach you a feeling of timing when to go; if there's a you.  
+**Translation:** Vocabulary: repetition: 重复; timing: 时机
 
-**[9767.44s] English:** know there's other combinations which you always has to go with it  
+**[9767.44s] English:** Know there are other combinations, which you always have to go with it.  
 **Translation:** 
 
-**[9772.10s] English:** you  
+**[9772.10s] English:** You.  
 **Translation:** 
 
-**[9772.66s] English:** uh by the way for the internet that's currently yelling at me for arguing with hadja gracie about  
+**[9772.66s] English:** Uh, by the way, for the Internet that's currently yelling at me, for arguing with Hadja Gracie about...  
 **Translation:** 
 
-**[9778.36s] English:** drilling that that's called you know uh playing devil's advocate to strengthen to explore ideas  
-**Translation:** Vocabulary: advocate: 辩护者
+**[9778.36s] English:** Drilling that, that's called you know, uh, playing devil's advocate to strengthen and explore ideas.  
+**Translation:** Vocabulary: advocate: 辩护; yelling: 喊叫
 
-**[9784.68s] English:** i'm not actually arguing okay i forgot to ask you um if you had to fight against the bear lion  
+**[9784.68s] English:** I'm not actually arguing, okay. I forgot to ask you: if you had to fight against the bear or the lion.  
 **Translation:** 
 
-**[9793.90s] English:** gorilla or anaconda to the death um which one would you choose and would you be able actually  
+**[9793.90s] English:** Gorilla or anaconda to the death? Which one would you choose, and would you be able actually?  
+**Translation:** Vocabulary: anaconda: 蟒蛇; gorilla: 大猩猩
+
+**[9801.60s] English:** To win against any of them.  
 **Translation:** 
 
-**[9801.60s] English:** to win against any of them  
+**[9802.66s] English:** A bear, a lion, a tiger, another tiger, an anaconda—oh, and a gorilla too! You can go, gorilla.  
 **Translation:** 
 
-**[9802.66s] English:** a bear a lion a tiger a tiger anaconda oh a gorilla too gorilla you can go gorilla  
-**Translation:** Vocabulary: anaconda: 大蟒蛇
-
-**[9811.18s] English:** i'll probably choose the anaconda  
+**[9811.18s] English:** I'll probably choose the Anaconda.  
 **Translation:** 
 
-**[9814.74s] English:** let's see  
+**[9814.74s] English:** Let's see.  
 **Translation:** 
 
-**[9816.76s] English:** i mean you're not allowed to run away though so you're in a cage  
+**[9816.76s] English:** I mean, you're not allowed to run away, though; you're in a cage.  
 **Translation:** 
 
-**[9823.06s] English:** do you have to kill still the anaconda  
+**[9823.06s] English:** Do you still have to kill the anaconda?  
 **Translation:** 
 
-**[9828.38s] English:** okay so the other one look i think i have no chance i guess  
+**[9828.38s] English:** Okay, so the other one: I think I have no chance, I guess.  
 **Translation:** 
 
-**[9832.66s] English:** any other one zero chance what's with john thing i think i have a tiny little i guess  
+**[9832.66s] English:** Any other one-zero chance? What's with John? I think I have a tiny, little... I guess.  
 **Translation:** 
 
-**[9837.48s] English:** the anaconda  
+**[9837.48s] English:** The anaconda  
 **Translation:** 
 
-**[9840.00s] English:** just wait it out you don't you don't think it's possible to be i just um  
+**[9840.00s] English:** Just wait it out. You don't think it's possible, is it? I just, um,...  
 **Translation:** 
 
-**[9846.08s] English:** it it feels like technique can do something against these animals but they have so much  
+**[9846.08s] English:** It feels like techniques could do something against these animals, but they have so much.  
 **Translation:** 
 
-**[9853.06s] English:** strength so much aggression you know that the real naked choke translating to portuguese  
-**Translation:** Vocabulary: aggression: 攻击性; portuguese: 葡萄牙语
+**[9853.06s] English:** Strength, so much aggression, you know—that's the real naked choke, translating to Portuguese.  
+**Translation:** Vocabulary: aggression: 攻击性; translating: 翻译
 
-**[9858.62s] English:** is kill the lion so ever since i was a kid i always thought that maybe if i get behind a lion  
+**[9858.62s] English:** Is killing the lion something you've ever considered? So, since I was a kid, I always thought that maybe if I got behind a lion,...  
 **Translation:** 
 
-**[9867.78s] English:** the real naked choke which you know in portuguese it says mata leon so mata leon means kill the lion  
+**[9867.78s] English:** The real naked choke, which you know in Portuguese is "mata-leão," so "mata-leão" means "kill the lion.  
+**Translation:** Vocabulary: portuguese: 葡萄牙语
+
+**[9875.52s] English:** So, I always thought that was the only way to kill a lion or, you know, if you're fighting.  
 **Translation:** 
 
-**[9875.52s] English:** so i always thought that that's the only way to kill a lion or to you know if you're fighting  
+**[9881.42s] English:** Against a lion, go behind and put the real naked choke; I think you put him to sleep or the name.  
 **Translation:** 
 
-**[9881.42s] English:** against a lion go behind and put the real naked choke i think you put him to sleep or the name  
+**[9886.92s] English:** Mata Leon, yeah, it's like "kill the lion." Yeah, someone came up with the name. Why does somebody have to?  
 **Translation:** 
 
-**[9886.92s] English:** mata leon yeah it's like kill the lion yeah someone came up with the name why somebody must  
+**[9892.86s] English:** Maybe someone is going to a fight with their life. There you go, John. There you go.  
 **Translation:** 
 
-**[9892.86s] English:** maybe someone going to a fight with their life there you go john there you go  
+**[9897.78s] English:** I honestly do. You think so, actually? Yeah, you understand controlling positions.  
 **Translation:** 
 
-**[9897.78s] English:** i i honestly do you think so actually yeah you you understand controlling positions  
+**[9902.68s] English:** Do you think, like, an animal like a gorilla or a lion would shake you off if you had back fur?  
+**Translation:** Vocabulary: gorilla: 大猩猩
+
+**[9908.76s] English:** You're locked in. Well, I would say the one that will have the biggest chance of staying there is the  
 **Translation:** 
 
-**[9902.68s] English:** do you think like um animal like a gorilla or a lion would shake you off if you had back full  
+**[9915.50s] English:** Lion, because he's just in their body; yeah, he's smaller than a tiger, I guess. I think tigers are...  
 **Translation:** 
 
-**[9908.76s] English:** you locked in well i would say the one that will have the biggest chance of staying there is the  
+**[9920.36s] English:** Bigger, yes. So, do you think they can shake you off? Though I think I'll have a bigger chance of.  
 **Translation:** 
 
-**[9915.50s] English:** lion because he's just in their body yeah he's smaller than a tiger i guess i think tigers are  
+**[9926.86s] English:** Staying against  
 **Translation:** 
 
-**[9920.36s] English:** bigger yes so so do you think they can shake you off though i think i'll have a bigger chance of  
+**[9927.78s] English:** A lion's back is still not answering the question; do you think you have a  
 **Translation:** 
 
-**[9926.86s] English:** staying against  
+**[9932.80s] English:** Chance: If I start on the back and start full locked in, full controls—let's say it's a small...  
 **Translation:** 
 
-**[9927.78s] English:** a lion's back than any other animal still not answering the question do you think you have a  
+**[9938.98s] English:** Enough, line you can actually have a full one, I'll guess so. I mean, I would like to believe so, okay?  
 **Translation:** 
 
-**[9932.80s] English:** chance if i start on the back and start full locked in full controls let's say it's a small  
+**[9944.46s] English:** Well, like you said, somebody must have been able to do it throughout your journey, hasn't it?  
 **Translation:** 
 
-**[9938.98s] English:** enough line you can actually have a full i'll guess so i mean i i would like to believe so okay  
+**[9950.18s] English:** Jiu-jitsu, have there been low points? Like, has there been any points where you really doubted yourself?  
 **Translation:** 
 
-**[9944.46s] English:** well like just like you said somebody must have been able to do it throughout your journey in  
+**[9954.76s] English:** No, I've never really doubted myself.  
+**Translation:** Vocabulary: doubted: 怀疑自己
+
+**[9957.78s] English:** There are low points in defeat.  
 **Translation:** 
 
-**[9950.18s] English:** jiu-jitsu have there been low points like has there been points where you really doubted yourself  
+**[9960.00s] English:** That was, those are the low points. When I lost, how did you deal with defeat? I just  
 **Translation:** 
 
-**[9954.76s] English:** no i've never really doubted myself  
+**[9966.40s] English:** Went back to the gym next week and say, "I need to get better every time I  
 **Translation:** 
 
-**[9957.78s] English:** there's low points in defeat  
+**[9971.28s] English:** I'm lost. I need to get better because I need to choke them out.  
 **Translation:** 
 
-**[9960.00s] English:** that was those are the low points when I lost how did you deal with defeat I just  
+**[9975.88s] English:** To submit them, because you know, winning by points is as a black belt, I have very  
 **Translation:** 
 
-**[9966.40s] English:** went back to the gym next week and say I need to get better that every time I  
+**[9982.86s] English:** Very little, I would say. I mean, I don't like to sound like a crime baby.  
+**Translation:** Vocabulary: submit: 提交
+
+**[9990.08s] English:** But I'll say that most of those losses were very controversial, and it wasn't a  
 **Translation:** 
 
-**[9971.28s] English:** lost I'm like I need to get better because I need to choke them out I need  
+**[9995.90s] English:** Dominant, clear performance: this has been about referees and points and so on.  
+**Translation:** Vocabulary: dominant: 优势明显的; referees: 裁判
+
+**[9999.90s] English:** Everything knows this was very young. I always fought against my opponent in the  
 **Translation:** 
 
-**[9975.88s] English:** to submit them because you know win by points it's as a black belt I have very  
+**[10004.52s] English:** Referee, like it's if there was ever in my whole life since I was a kid, there  
+**Translation:** Vocabulary: opponent: 对手
+
+**[10010.20s] English:** Was there ever any doubt they?  
 **Translation:** 
 
-**[9982.86s] English:** very little lost I would say I mean I don't like to sound like a crime baby  
+**[10012.86s] English:** Always go to my opponent; always, always.  
 **Translation:** 
 
-**[9990.08s] English:** but I'll say most most of those loss was very very controversial it was not a  
+**[10015.46s] English:** That was just something I had to do my whole life.  
 **Translation:** 
 
-**[9995.90s] English:** dominant clear performance this has about referees and points and so on  
-**Translation:** Vocabulary: referees: 裁判
-
-**[9999.90s] English:** everything knows this was very young I always fought against my opponent in the  
+**[10017.86s] English:** What's the motivation behind?  
 **Translation:** 
 
-**[10004.52s] English:** referee like it's if there was ever in my whole life since I was a kid there  
+**[10019.94s] English:** What led to the fact that you win most of your matches?  
 **Translation:** 
 
-**[10010.20s] English:** was ever a doubt they  
+**[10022.22s] English:** By submission or in dominance?  
+**Translation:** Vocabulary: dominance: 优势
+
+**[10023.86s] English:** Are you chasing?  
 **Translation:** 
 
-**[10012.86s] English:** Always go to my opponent, always, always.  
-**Translation:** 
-
-**[10015.46s] English:** That was just something that I had to do my whole life.  
-**Translation:** 
-
-**[10017.86s] English:** What's the motivation behind,  
-**Translation:** 
-
-**[10019.94s] English:** what led to the fact that you win most of your matches  
-**Translation:** 
-
-**[10022.22s] English:** by submission or in dominance?  
-**Translation:** 
-
-**[10023.86s] English:** Like are you chasing?  
-**Translation:** 
-
-**[10025.42s] English:** Because that's the only way to prove you better.  
-**Translation:** 
+**[10025.42s] English:** Because that's the only way to prove you're better.  
+**Translation:** Vocabulary: chasing: 追赶
 
 **[10028.62s] English:** And I never fought to win tournaments.  
 **Translation:** 
@@ -7066,25 +7067,25 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10033.60s] English:** That was the consequence of me trying to be the best.  
 **Translation:** 
 
-**[10036.94s] English:** Like I don't care how many titles I have.  
+**[10036.94s] English:** Like, I don't care how many titles I have.  
 **Translation:** 
 
-**[10040.12s] English:** I care about, I need to beat all my opponents  
+**[10040.12s] English:** I care about; I need to beat all my opponents.  
 **Translation:** 
 
-**[10044.16s] English:** and not win because win is not enough.  
-**Translation:** 
+**[10044.16s] English:** And not win, because win is not enough.  
+**Translation:** Vocabulary: opponents: 竞争对手
 
 **[10048.46s] English:** I have to submit them.  
 **Translation:** 
 
-**[10050.14s] English:** That's the only way to prove I'm the best, to submit them.  
+**[10050.14s] English:** That's the only way to prove I'm the best—to submit them.  
 **Translation:** 
 
 **[10054.36s] English:** If I win by advantage or a point,  
 **Translation:** 
 
-**[10057.36s] English:** that means I was better than them that day.  
+**[10057.36s] English:** That means I was better than them that day.  
 **Translation:** 
 
 **[10059.18s] English:** That does not mean I'm better than them.  
@@ -7093,313 +7094,313 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10062.76s] English:** If they top, if I take you down,  
 **Translation:** 
 
-**[10067.16s] English:** pass your guard, mount and submit you,  
+**[10067.16s] English:** Pass your guard, mount and submit you.  
 **Translation:** 
 
-**[10069.62s] English:** there is, there is no way for me to win.  
-**Translation:** 
+**[10069.62s] English:** There is no way for me to win.  
+**Translation:** Vocabulary: submit: 投降
 
-**[10070.10s] English:** Zero questions who's the best.  
+**[10070.10s] English:** Zero questions: Who's the best.  
 **Translation:** 
 
 **[10072.48s] English:** Like there's nothing you can say about it.  
 **Translation:** 
 
-**[10074.72s] English:** If I foot sweep you, you put your butt on the floor,  
+**[10074.72s] English:** If I foot-sweep you, you put your butt on the floor.  
 **Translation:** 
 
 **[10078.34s] English:** I get an advantage.  
 **Translation:** 
 
-**[10080.00s] English:** carrying a fighting in a win means nothing not even means i'm better than you and if that happened  
+**[10080.00s] English:** Carring a fight in a win means nothing; not even means I'm better than you, and if that happened,...  
 **Translation:** 
 
-**[10087.36s] English:** that would haunt you it is for me it's not enough i wouldn't be happy what advice would you give  
+**[10087.36s] English:** That would haunt you. It is for me. It's not enough; I wouldn't be happy. What advice would you give?  
 **Translation:** 
 
-**[10095.42s] English:** to young folks who look at you with able to accomplish from a place where you're not very  
+**[10095.42s] English:** To young folks who look at you with a sense of ability to accomplish from a place where you're not there yet.  
 **Translation:** 
 
-**[10102.20s] English:** good to becoming the best in the world at a thing what advice would you give them to um have a  
+**[10102.20s] English:** Good to become the best in the world at a thing. What advice would you give them to stay there?  
 **Translation:** 
 
-**[10109.26s] English:** journey like that to have a journey where they could be successful in their career and their life  
+**[10109.26s] English:** A journey like that, so they could have a journey where they could be successful in their career and their life.  
 **Translation:** 
 
-**[10113.14s] English:** to to such a high level determination is the most important thing you need to know where you're going  
+**[10113.14s] English:** To achieve such a high level of determination is the most important thing; you need to know where you're going.  
 **Translation:** 
 
-**[10122.32s] English:** to get there so you need to have a goal which whatever that goal is like you need to set the  
+**[10122.32s] English:** To get there, so you need to have a goal, which, whatever that goal is, like you need to set the  
 **Translation:** 
 
-**[10129.08s] English:** goal for yourself so you know where you want to go and to have the determination to get there and  
+**[10129.08s] English:** Goal for yourself, so you know where you want to go, and to have the determination to get there.  
 **Translation:** 
 
-**[10138.32s] English:** be sure that  
+**[10138.32s] English:** Be sure that  
 **Translation:** 
 
-**[10139.24s] English:** you will fail many times like you cannot let your failures brings you down because you you will fail  
-**Translation:** Vocabulary: cannot: 不能
-
-**[10147.40s] English:** many times everybody does so you said you didn't look to external sources of uh belief you just  
+**[10139.24s] English:** You will fail many times, but you shouldn't let your failures bring you down because you will fail.  
 **Translation:** 
 
-**[10156.12s] English:** believed in yourself yeah is there something to that where um you have to try to like  
+**[10147.40s] English:** Many times, everybody does so. You said you didn't look to external sources of belief; you just  
 **Translation:** 
 
-**[10163.88s] English:** be your own source of belief flame the fire within yourself was that was that something  
+**[10156.12s] English:** Believed in yourself, yeah? Is there something to that? Where do you have to try to like  
 **Translation:** 
 
-**[10173.00s] English:** difficult to do like um but that was just very natural for me i said you know you can surround  
+**[10163.88s] English:** Be your own source of belief. Flame the fire within yourself. Was that something?  
 **Translation:** 
 
-**[10180.52s] English:** yourself with great people that is extremely important don't surround yourself with failures  
+**[10173.00s] English:** It's difficult to do, like um, but that was just very natural for me. I said, "You can surround...  
 **Translation:** 
 
-**[10188.44s] English:** because they will they're not going to push you to  
+**[10180.52s] English:** Yourself with great people is extremely important; don't surround yourself with failures.  
 **Translation:** 
 
-**[10193.56s] English:** you know  
+**[10188.44s] English:** Because they won't push you to.  
 **Translation:** 
 
-**[10193.88s] English:** they don't know what it is how to get there i mean everybody knows but it's when you're so  
+**[10193.56s] English:** You know,  
 **Translation:** 
 
-**[10200.00s] English:** yourself with winners you know you know what it took them to get there use them  
+**[10193.88s] English:** They don't know what it is or how to get there. I mean, everybody knows, but it's when you're so...  
 **Translation:** 
 
-**[10205.10s] English:** as an example yeah there's a certain kind of aura to people that just achieve  
+**[10200.00s] English:** Yourself with winners; you know, you know what it took them to get there. Use them.  
 **Translation:** 
 
-**[10210.98s] English:** great things and being around them but it's still it's hard to find people that  
+**[10205.10s] English:** As an example, yeah, there's a certain kind of aura to people that just achieve.  
 **Translation:** 
 
-**[10214.62s] English:** especially at that early stage any any area yeah any area that's right yeah  
+**[10210.98s] English:** Great things and being around them, but it's still hard to find people who  
 **Translation:** 
 
-**[10221.56s] English:** greatness has a certain I think it's almost humbling just to see okay any  
+**[10214.62s] English:** Especially at that early stage, any area is right, yeah.  
 **Translation:** 
 
-**[10225.72s] English:** human like at least that's a lesson I learned almost any human can do can be  
+**[10221.56s] English:** Greatness has a certain quality, I think, that's almost humbling just to see.  
+**Translation:** 
+
+**[10225.72s] English:** Human-like, at least that's a lesson I learned: almost any human can do it.  
 **Translation:** Vocabulary: greatness: 伟大; humbling: 令人谦卑
 
-**[10230.76s] English:** great I mean one I've used Muhammad Ali as a great example look at his belief  
+**[10230.76s] English:** Great. I mean, one I've used Muhammad Ali as a great example: look at his beliefs.  
 **Translation:** 
 
-**[10236.36s] English:** look at how much he believed himself before he was Muhammad Ali look at the  
+**[10236.36s] English:** Look at how much he believed himself before he was Muhammad Ali. Look at the  
 **Translation:** 
 
-**[10242.24s] English:** you know determination he had the way the confidence he had fighting even on  
+**[10242.24s] English:** You know, he had determination and confidence. He fought even when the odds were against him.  
 **Translation:** 
 
-**[10247.42s] English:** his loss they never changed him no when he fought Foreman George Foreman I not  
+**[10247.42s] English:** His loss against George Foreman never changed him, no. When he fought Foreman, George Foreman, I didn't.  
+**Translation:** Vocabulary: foreman: 工头
+
+**[10255.50s] English:** Not.  
 **Translation:** 
 
-**[10255.50s] English:** not  
+**[10255.70s] English:** Not one person in the world thought he was gonna win that fight by himself, he  
 **Translation:** 
 
-**[10255.70s] English:** , not one person in the world thought he was gonna win that fight by himself he  
+**[10261.40s] English:** Never doubt himself; everybody else did. He won, overcoming all odds against him. So it's:  
 **Translation:** 
 
-**[10261.40s] English:** never doubt himself everybody else did he won over all odds against so it's I  
+**[10270.22s] English:** Meaning, when you look at people like that, you don't have to be a  
+**Translation:** Vocabulary: overcoming: 克服困难
+
+**[10273.44s] English:** Boxer to try to, you know, follow his example.  
 **Translation:** 
 
-**[10270.22s] English:** mean you when you look at people like that you can you don't have to be a  
+**[10277.98s] English:** But see, those are like epic, giant battles, but I feel like you fight the  
 **Translation:** 
 
-**[10273.44s] English:** boxer to try to you know follow his example  
+**[10282.52s] English:** Same kind of battle when you're young, and your parents tell you that.  
 **Translation:** 
 
-**[10277.98s] English:** but see those are like epic giant battles but I feel like you fight the  
+**[10285.48s] English:** You know, just with their whole energy, they think this is silly. Don't be silly.  
 **Translation:** 
 
-**[10282.52s] English:** same kind of battle when you're young and your parents tell you that  
+**[10289.74s] English:** Don't be silly; the chase is harder, it's just harder, but as a kid, it's even harder to deal with.  
 **Translation:** 
 
-**[10285.48s] English:** you know just with their whole energy that this is silly don't be silly don't  
+**[10296.42s] English:** With that, because I mean to go against it, adults often tell children to be special.  
 **Translation:** 
 
-**[10289.74s] English:** don't be silly the chase it's harder it is harder but as a kid is harder to deal  
+**[10301.52s] English:** Otherwise, like, the amount of strength you need is enormous; I don't even...  
 **Translation:** 
 
-**[10296.42s] English:** with that because I mean to go against adult special parents tell any  
+**[10308.36s] English:** Know how much strength you need because I don't know my case, so I can understand.  
 **Translation:** 
 
-**[10301.52s] English:** otherwise like the amount of strength you need is I심 gigantic I don't even  
+**[10314.24s] English:** How much strength you need, I don't know. Because that was not my case, so I can understand what you have to say. People need priorities, and stress is not my case, so I can understand what you have to go through.  
 **Translation:** 
 
-**[10308.36s] English:** know how much strength you need because I don't know my case so I can understand  
-**Translation:** Vocabulary: gigantic: 巨大的
-
-**[10314.24s] English:** how much youétatereateade 살 선생 têm thể dám kหector você querer dizer que não hai needse quanto장을'ah wystíточ фไป ف priorities you need I don't know how much strength you need because that was not my case so I can understand what you have to people need it is a k assets stress is not my case so ican understand what have to  
-**Translation:** 
-
-**[10315.48s] English:** go through with the with the force of your parents telling you you know otherwise but  
+**[10315.48s] English:** Go through with it, despite the force of your parents telling you otherwise.  
 **Translation:** Vocabulary: priorities: 优先事项
 
-**[10320.00s] English:** it's how much you want it will dictate how far you're gonna go where you're  
+**[10320.00s] English:** It's how much you want it will dictate how far you're gonna go, where you're  
 **Translation:** 
 
-**[10326.82s] English:** gonna go so it's you know if you can break through that you get nowhere it's  
+**[10326.82s] English:** Gonna go, so it's you know, if you can break through that, you get nowhere; it's  
 **Translation:** Vocabulary: dictate: 决定
 
-**[10331.50s] English:** that simple and actually one of the really nice things the internet does  
+**[10331.50s] English:** That's simple, and actually, one of the really nice things the Internet does.  
 **Translation:** 
 
-**[10336.02s] English:** that I would give advice to young people is like you can find even even if your  
+**[10336.02s] English:** That I would give advice to young people is like, you can find, even even if your  
 **Translation:** 
 
-**[10341.18s] English:** parents are not a source of that your teachers your community you can find  
+**[10341.18s] English:** Parents are not a source of that; you can find it from your teachers, your community.  
 **Translation:** 
 
-**[10344.84s] English:** people on the internet will believe in you yeah it's kind of cool it's kind of  
+**[10344.84s] English:** People on the internet will believe in you, yeah; it's kind of cool. It's kind of  
 **Translation:** 
 
-**[10348.02s] English:** cool how the internet opens the possibility of like a community of like  
+**[10348.02s] English:** Cool how the Internet opens the possibility of a community of like-minded people.  
 **Translation:** 
 
-**[10352.04s] English:** 10 11 year olds like building shit I see this all the time engineering the in a I  
+**[10352.04s] English:** 10-11-year-olds like building shit. I see this all the time, engineering it in a I.  
 **Translation:** 
 
-**[10358.34s] English:** mean they're fueled by belief they want to they want to be like they want to  
+**[10358.34s] English:** Mean, they're fueled by belief; they want to be like them, but they want to.  
 **Translation:** 
 
-**[10365.20s] English:** create the next trillion dollar company right there there's that fire in their  
-**Translation:** Vocabulary: trillion: 万亿
+**[10365.20s] English:** Create the next trillion-dollar company, right there—there's that fire in their  
+**Translation:** Vocabulary: fueled: 驱动
 
-**[10370.02s] English:** eyes and not for the money obviously but to do something really impactful and I  
+**[10370.02s] English:** Eyes, and not for the money, obviously, but to do something really impactful, and I  
 **Translation:** 
 
-**[10374.36s] English:** think that fire is extinguished often by teachers and  
+**[10374.36s] English:** Think that fire is often extinguished by teachers and  
 **Translation:** Vocabulary: extinguished: 扑灭
 
-**[10377.96s] English:** and I think that fire is extinguished often by teachers and I think that fire is extinguished often by teachers and I  
+**[10377.96s] English:** And I think that fire is often extinguished by teachers, and I think that fire is often extinguished by teachers, and I  
 **Translation:** 
 
-**[10378.00s] English:** and I think that fire is extinguished often by teachers and I parents because I think the logic that parents  
+**[10378.00s] English:** And I think that fire is often extinguished by teachers and I parents, because I think the logic that parents  
 **Translation:** 
 
-**[10382.34s] English:** have and teachers they look at a kid and they don't on the surface level they  
+**[10382.34s] English:** Have you ever noticed how teachers look at a kid, and on the surface level, they don't seem to see anything special?  
 **Translation:** 
 
-**[10389.50s] English:** don't see greatness right they just see kind of mediocrity and so to them it's  
+**[10389.50s] English:** Don't see greatness, right? They just see kind of mediocrity, and so to them, it's  
 **Translation:** Vocabulary: greatness: 卓越; mediocrity: 平庸
 
-**[10396.06s] English:** like no right the world is more complicated than that in order to get  
+**[10396.06s] English:** Like, no; the world is more complicated than that. In order to get  
 **Translation:** 
 
-**[10399.60s] English:** great you have to like like they somehow kind of always try to be reasonable with  
+**[10399.60s] English:** Great, you have to kind of always try to be reasonable with them.  
 **Translation:** 
 
-**[10405.12s] English:** you and in so doing extinguish the flame it's weird  
+**[10405.12s] English:** You and, in doing so, extinguish the flame. It's weird.  
 **Translation:** 
 
-**[10407.94s] English:** you have to like like they somehow kind of always try to be reasonable with  
-**Translation:** Vocabulary: extinguish: 熄灭
+**[10407.94s] English:** You have to, like, they somehow always try to be reasonable with.  
+**Translation:** Vocabulary: extinguish: 扑灭
 
-**[10408.00s] English:** you and in so doing extinguish the flame it's weird I think most people afraid so to  
+**[10408.00s] English:** You and, in doing so, extinguish the flame. It's weird; I think most people are afraid so to.  
 **Translation:** 
 
-**[10412.28s] English:** I think most people afraid so to  
+**[10412.28s] English:** I think most people are afraid of doing that.  
 **Translation:** 
 
-**[10412.30s] English:** I think most people afraid so to even try so you can call them cowards for not  
+**[10412.30s] English:** I think most people are afraid to even try, so you can call them cowards for not.  
 **Translation:** 
 
-**[10415.74s] English:** even try so you can call them cowards for not  
+**[10415.74s] English:** Even try, so you can call them cowards for not.  
+**Translation:** Vocabulary: cowards: 胆小鬼
+
+**[10415.76s] English:** Even try, so you can call them cowards for not trying, because you are a coward for.  
 **Translation:** 
 
-**[10415.76s] English:** even try so you can call them cowards for not trying because you are a coward for  
+**[10419.00s] English:** Trying, because you are a coward.  
+**Translation:** Vocabulary: coward: 胆小鬼
+
+**[10419.02s] English:** Trying, because you are a coward for not trying and not putting yourself at risk.  
 **Translation:** 
 
-**[10419.00s] English:** trying because you are a coward for  
+**[10420.62s] English:** Not trying; not putting yourself at risk.  
 **Translation:** 
 
-**[10419.02s] English:** trying because you are a coward for not trying not putting yourself for risk  
+**[10420.64s] English:** Not trying, not putting yourself at risk, right? So, I would say a big part of  
 **Translation:** 
 
-**[10420.62s] English:** not trying not putting yourself for risk  
+**[10425.36s] English:** Right, so I would say a big part of  
 **Translation:** 
 
-**[10420.64s] English:** not trying not putting yourself for risk right so I would say a big part of  
+**[10425.38s] English:** Right, so I would say a big part of society fears trying something new and never doing it.  
 **Translation:** 
 
-**[10425.36s] English:** right so I would say a big part of  
+**[10429.68s] English:** Society is full of cowards who never try.  
 **Translation:** 
 
-**[10425.38s] English:** right so I would say a big part of society a cowards for never trying never  
+**[10429.70s] English:** Society is a coward for never trying and never pursuing what they really want, is so  
 **Translation:** 
 
-**[10429.68s] English:** society a cowards for never trying never  
+**[10433.24s] English:** Pursuing what they really want is so  
 **Translation:** 
 
-**[10429.70s] English:** society a cowards for never trying never pursuing what they really want is so  
+**[10433.26s] English:** So there is, you know, a weight and a pressure on everyone—most people.  
 **Translation:** 
 
-**[10433.24s] English:** pursuing what they really want is so  
-**Translation:** 
-
-**[10433.26s] English:** So there is, you know, a weight, a pressure, everyone, most people.  
-**Translation:** 
-
-**[10440.00s] English:** a lot of people i'll say around you that because they were afraid to try they they don't incentivize  
+**[10440.00s] English:** A lot of people I'll say around you that, because they were afraid to try, they don't incentivize.  
 **Translation:** Vocabulary: incentivize: 激励
 
-**[10448.22s] English:** people to do so because they want everybody to be like them because imagine if everybody around you  
+**[10448.22s] English:** People do it because they want everybody to be like them, because imagine if everybody around you  
 **Translation:** 
 
-**[10455.46s] English:** suddenly are not afraid and everyone is trying and you look yourself in the mirror  
+**[10455.46s] English:** Suddenly, they are not afraid, and everyone is trying their best. You look at yourself in the mirror.  
 **Translation:** 
 
-**[10460.06s] English:** and say i was too scared i've never tried so you feel really bad about yourself so it's easier to  
+**[10460.06s] English:** And say, "I was too scared; I've never tried," so you feel really bad about yourself, so it's easier to  
 **Translation:** 
 
-**[10466.30s] English:** have people around you that think exactly like you than otherwise so that reflect a lot on the kids  
+**[10466.30s] English:** Have people around you who think exactly like you, then otherwise so that they can reflect a lot on the kids.  
 **Translation:** 
 
-**[10473.60s] English:** it's you know society almost like pressed them down to be like everybody else to have a normal  
+**[10473.60s] English:** It's you know, society almost likes to press them down to be like everybody else and have a normal life.  
 **Translation:** 
 
-**[10481.08s] English:** life normal job it's you know don't take risk because you can't lose it all i mean that's the  
+**[10481.08s] English:** Life is normal, so just keep a job. It's you know, don't take risks because you can't lose it all. I mean, that's the  
 **Translation:** 
 
-**[10488.16s] English:** worst thing you can tell everybody take all the risks lose it all a few times that's how you're  
+**[10488.16s] English:** The worst thing you can do is tell everyone, take all the risks, lose it all a few times — that's how you're  
 **Translation:** 
 
-**[10493.36s] English:** going to build things especially when you're young yes  
+**[10493.36s] English:** Going to build things, especially when you're young, yes.  
 **Translation:** 
 
-**[10496.30s] English:** exactly what's what's the what's the point of not trying you should try and you see and you will  
+**[10496.30s] English:** Exactly, what's the point of not trying? You should try, and you'll see.  
 **Translation:** 
 
-**[10502.28s] English:** lose everything doesn't matter what's what's what what it matters to lose everything it does matter  
+**[10502.28s] English:** Lose everything doesn't matter, what's what? What matters is that losing everything does matter.  
 **Translation:** 
 
-**[10509.28s] English:** you will teach you resilience you know try harder go after you know it's don't don't live a normal  
+**[10509.28s] English:** You'll teach you resilience, you know, try harder and go after it. Don't just live a normal life.  
 **Translation:** 
 
-**[10517.96s] English:** life because otherwise you mean what we're here for yeah take big risks take a lot of them fail  
-**Translation:** Vocabulary: resilience: 坚强意志
+**[10517.96s] English:** Life, because otherwise, what are we here for? Yeah, take big risks; take a lot of them; fail.  
+**Translation:** Vocabulary: resilience: 韧性
 
-**[10524.26s] English:** and fail and fail and fail you a thousand times  
+**[10524.26s] English:** And fail, and fail, and fail you a thousand times.  
 **Translation:** 
 
-**[10526.30s] English:** until you succeed and then you're gonna you'll be the most proud of yourself like it's this  
+**[10526.30s] English:** Until you succeed, and then you'll be the proudest of yourself, like it's this.  
+**Translation:** Vocabulary: proudest: 最自豪的
+
+**[10533.52s] English:** There's that they're not priceless; it's that then we'll change the world. It is true that most.  
 **Translation:** 
 
-**[10533.52s] English:** there's that they're not be priceless it's that then we'll change the world it is true that most  
+**[10539.82s] English:** People are not necessarily cowards, but have cowardice in them; it's most people are just.  
+**Translation:** Vocabulary: cowardice: 胆怯; cowards: 胆小的人
+
+**[10545.86s] English:** Afraid to try, you know, and a lot of it comes from a place of love, because, um,...  
 **Translation:** 
 
-**[10539.82s] English:** people are not necessarily cowards but have cowardice in them it's most people are just  
-**Translation:** Vocabulary: cowardice: 怯懦; priceless: 无价
-
-**[10545.86s] English:** afraid to try you know and a lot of it comes from a place of love because um  
+**[10550.26s] English:** You know, if you try and fail, you get hurt.  
 **Translation:** 
 
-**[10550.26s] English:** you know if you try and you fail you get hurt  
-**Translation:** 
-
-**[10556.30s] English:** um and it hurts i mean  
+**[10556.30s] English:** Um, and it hurts. I mean,...  
 **Translation:** 
 
 **[10560.00s] English:** No, it's not a pleasant thing to fail.  
@@ -7408,20 +7409,20 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10562.34s] English:** I mean, you feel terrible to think, you know,  
 **Translation:** 
 
-**[10564.98s] English:** when I lost any tournament was a good thing.  
+**[10564.98s] English:** When I lost any tournament, it was a good thing.  
 **Translation:** 
 
-**[10567.88s] English:** You know, and think when I was getting beat up at the gym over and over again  
+**[10567.88s] English:** You know, I kept thinking when I was getting beaten up at the gym over and over again.  
 **Translation:** 
 
-**[10571.30s] English:** was a good thing.  
-**Translation:** 
+**[10571.30s] English:** It was a good thing.  
+**Translation:** Vocabulary: beaten: 被打
 
-**[10572.28s] English:** When I was getting there and getting smashed by all the good guys.  
+**[10572.28s] English:** When I was getting there, I got smashed by all the good guys.  
 **Translation:** 
 
 **[10575.30s] English:** I think I liked it.  
-**Translation:** 
+**Translation:** Vocabulary: smashed: 撞上
 
 **[10576.76s] English:** Well, I hate it.  
 **Translation:** 
@@ -7432,8 +7433,8 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10582.64s] English:** I think I like to get tapped.  
 **Translation:** 
 
-**[10584.36s] English:** Well, I'm one of the most competitive persons you know.  
-**Translation:** 
+**[10584.36s] English:** Well, I'm one of the most competitive people you know.  
+**Translation:** Vocabulary: tapped: 被轻拍
 
 **[10587.90s] English:** I hate to lose.  
 **Translation:** 
@@ -7450,7 +7451,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10599.74s] English:** I've never screamed.  
 **Translation:** 
 
-**[10600.90s] English:** No one never saw me screaming, shouting that, you know, I got robbed.  
+**[10600.90s] English:** No one has ever seen me screaming, shouting that I got robbed.  
 **Translation:** 
 
 **[10604.90s] English:** You know, I should have won.  
@@ -7474,19 +7475,19 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10616.40s] English:** Because I don't want to be in that position ever again.  
 **Translation:** 
 
-**[10619.00s] English:** So when I fight, if I'm better, if I tapped him, there's no question.  
+**[10619.00s] English:** So, when I fight, if I'm better and I tap him, there's no question.  
 **Translation:** 
 
-**[10624.82s] English:** I don't need to wait for the referee to decide that there's points or no points.  
+**[10624.82s] English:** I don't need to wait for the referee to decide whether there are any points or not.  
 **Translation:** 
 
-**[10629.74s] English:** If, you know, his interpretation, that made me better.  
-**Translation:** 
+**[10629.74s] English:** If, you know, his interpretation, it made me better.  
+**Translation:** Vocabulary: interpretation: 解释
 
 **[10633.76s] English:** Because I was even more determined to be better.  
 **Translation:** 
 
-**[10637.38s] English:** In my mind, I have to tap everybody else.  
+**[10637.38s] English:** In my mind, I have to tap everyone else.  
 **Translation:** 
 
 **[10640.46s] English:** Winning is not enough.  
@@ -7498,13 +7499,13 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10644.74s] English:** What you learn the most from is really...  
 **Translation:** 
 
-**[10649.00s] English:** Really wanting to succeed and then failing.  
+**[10649.00s] English:** Really wanting to succeed, and then failing.  
 **Translation:** 
 
 **[10653.66s] English:** And doing that often.  
 **Translation:** 
 
-**[10655.38s] English:** That's the reality from a parent, from a teacher perspective, from anybody.  
+**[10655.38s] English:** That's the reality, from a parent's, teacher's, and anyone's perspective.  
 **Translation:** 
 
 **[10658.74s] English:** From people you love.  
@@ -7516,7 +7517,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10664.42s] English:** If you think they're going to fail, good.  
 **Translation:** 
 
-**[10666.42s] English:** Help them do that faster so they fail faster.  
+**[10666.42s] English:** Help them do that faster, so they can fail faster.  
 **Translation:** 
 
 **[10668.86s] English:** Of course.  
@@ -7525,7 +7526,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10669.30s] English:** They're going to learn.  
 **Translation:** 
 
-**[10670.48s] English:** The only way to succeed is failing.  
+**[10670.48s] English:** The only way to succeed is to fail.  
 **Translation:** 
 
 **[10672.36s] English:** There is no other way.  
@@ -7540,31 +7541,31 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10679.00s] English:** Thank you.  
 **Translation:** 
 
-**[10680.00s] English:** Since you've gotten a little softer, a little more emotionally open,  
+**[10680.00s] English:** Since you've gotten a little softer and a little more emotionally open,  
 **Translation:** 
 
-**[10685.22s] English:** what's the role of love in the human condition, Hadjo Gracie?  
+**[10685.22s] English:** What's the role of love in the human condition, Hadjo Gracie?  
 **Translation:** 
 
 **[10688.38s] English:** Probably the most important thing.  
 **Translation:** 
 
-**[10691.58s] English:** That's the basic of everything, right?  
+**[10691.58s] English:** That's the basics of everything, right?  
 **Translation:** 
 
-**[10694.26s] English:** I mean, love brings the best of us.  
+**[10694.26s] English:** I mean, love brings out the best in us.  
 **Translation:** 
 
 **[10697.10s] English:** If we had more love and compassion from the other person,  
 **Translation:** 
 
 **[10701.92s] English:** I think we would be a more evolved species.  
-**Translation:** Vocabulary: compassion: 同情之心
+**Translation:** Vocabulary: compassion: 同情; evolved: 进化
 
 **[10706.50s] English:** The world would be a much better place than it is now.  
 **Translation:** 
 
-**[10708.30s] English:** Did friends, family help you along the way?  
+**[10708.30s] English:** Did friends and family help you along the way?  
 **Translation:** 
 
 **[10711.12s] English:** Yeah, a lot.  
@@ -7579,10 +7580,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10716.54s] English:** I never got here by myself.  
 **Translation:** 
 
-**[10719.06s] English:** I had a lot of people who loved me, believed in me,  
+**[10719.06s] English:** I had a lot of people who loved me and believed in me.  
 **Translation:** 
 
-**[10723.08s] English:** and helped me get to be here today.  
+**[10723.08s] English:** And helped me get to be here today.  
 **Translation:** 
 
 **[10726.16s] English:** Well, I'm glad they did, and I'm glad you're here today.  
@@ -7594,10 +7595,10 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10730.14s] English:** It was an honor to meet you.  
 **Translation:** 
 
-**[10731.72s] English:** It was an honor to hang out with you in Vegas,  
+**[10731.72s] English:** It was an honor to hang out with you in Vegas.  
 **Translation:** Vocabulary: vegas: 拉斯维加斯
 
-**[10734.20s] English:** to hang out with you again today.  
+**[10734.20s] English:** To hang out with you again today.  
 **Translation:** 
 
 **[10736.02s] English:** I've just been a huge fan for a long time.  
@@ -7624,7 +7625,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10747.22s] English:** To support this podcast,  
 **Translation:** 
 
-**[10748.84s] English:** please check out our sponsors in the description.  
+**[10748.84s] English:** Please check out our sponsors in the description.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
 **[10751.48s] English:** And now, let me leave you with some words from Haja Gracie himself.  
@@ -7636,7 +7637,7 @@ Source file: Lex Fridman - Roger Gracie： Greatest Jiu Jitsu Competitor of All 
 **[10758.24s] English:** You just have to do it right.  
 **Translation:** 
 
-**[10760.78s] English:** Thank you for listening, and hope to see you next time.  
+**[10760.78s] English:** Thank you for listening, and I hope to see you next time.  
 **Translation:** 
 
 **[10768.30s] English:** Thank you.  

@@ -1,7 +1,8 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on the Internet ｜ Lex Fridman Podcast #496.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The important is, is your code good?  
+**[0.00s] English:** The important thing is: is your code good?  
 **Translation:** 
 
 **[2.64s] English:** We care about excellent code.  
@@ -10,7 +11,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4.68s] English:** We don't care who you are.  
 **Translation:** 
 
-**[6.04s] English:** Like maybe you're a dog.  
+**[6.04s] English:** Like, maybe you're a dog.  
 **Translation:** 
 
 **[7.24s] English:** I don't care, right?  
@@ -22,28 +23,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9.92s] English:** I need to look at your code.  
 **Translation:** 
 
-**[11.72s] English:** Oh yeah, but I'm engineer at this very large company  
+**[11.72s] English:** Oh, yeah, but I'm an engineer at this very large company.  
 **Translation:** 
 
-**[14.20s] English:** in Italy, in Germany, in the US.  
+**[14.20s] English:** In Italy, in Germany, and in the U.S.  
 **Translation:** 
 
 **[16.88s] English:** We don't care.  
 **Translation:** 
 
-**[18.48s] English:** We care about the quality of your code  
+**[18.48s] English:** We care about the quality of your code.  
 **Translation:** 
 
-**[20.44s] English:** because this is what defines our community.  
+**[20.44s] English:** Because this is what defines our community.  
 **Translation:** 
 
-**[23.54s] English:** And which means that we have a lot of people  
+**[23.54s] English:** And which means that we have a lot of people.  
 **Translation:** 
 
-**[25.24s] English:** who contribute who are some very different backgrounds  
+**[25.24s] English:** Who contribute, who are from very different backgrounds.  
 **Translation:** 
 
-**[27.70s] English:** and very introverts, sure.  
+**[27.70s] English:** And for very introverts, sure.  
 **Translation:** 
 
 **[30.42s] English:** But that's okay, right?  
@@ -55,13 +56,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[35.00s] English:** Everything we've just said in the past couple of minutes,  
 **Translation:** 
 
-**[38.12s] English:** every sentence is someone's lifetime's work.  
+**[38.12s] English:** Every sentence is someone's lifetime's work.  
 **Translation:** 
 
 **[40.20s] English:** There are books about every sentence.  
 **Translation:** 
 
-**[41.84s] English:** So the level of complexity in many cases is inordinate.  
+**[41.84s] English:** So, the level of complexity in many cases is inordinate.  
 **Translation:** 
 
 **[45.78s] English:** FFmpeg has 100,000 lines of assembly for all the codecs.  
@@ -73,19 +74,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[53.36s] English:** Every cycle matters.  
 **Translation:** 
 
-**[55.82s] English:** We are talking about probably  
+**[55.82s] English:** We are talking about probably...  
 **Translation:** 
 
-**[57.08s] English:** three, four, five, six, seven, eight, nine, ten, ten.  
+**[57.08s] English:** Three, four, five, six, seven, eight, nine, ten, ten.  
 **Translation:** 
 
-**[57.68s] English:** Three billion devices which are going to decode video nonstop  
+**[57.68s] English:** Three billion devices, which are going to decode video non-stop, will be in use.  
 **Translation:** 
 
-**[61.78s] English:** because, for example, 30% of the video from Netflix  
+**[61.78s] English:** Because, for example, 30% of the video from Netflix.  
 **Translation:** 
 
-**[64.48s] English:** are now in everyone, 50% of YouTube.  
+**[64.48s] English:** Are we now at 50% of YouTube for everyone?  
 **Translation:** 
 
 **[67.94s] English:** This is what peak video codecs should look like.  
@@ -94,20 +95,20 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[71.32s] English:** 79.9% assembly, 90.6% C, and 0.5% other.  
 **Translation:** 
 
-**[78.82s] English:** And what's incredible is with those tweets,  
+**[78.82s] English:** And what's incredible is, with those tweets,...  
 **Translation:** Vocabulary: tweets: 微博
 
-**[81.24s] English:** which is factual, people get crazy.  
+**[81.24s] English:** Which is factual, people get crazy.  
 **Translation:** 
 
-**[85.56s] English:** For the last two years, they go crazy.  
+**[85.56s] English:** For the last two years, they have gone crazy.  
 **Translation:** 
 
 **[86.74s] English:** No.  
 **Translation:** 
 
 **[86.98s] English:** Intrinsics is fine.  
-**Translation:** Vocabulary: intrinsics: 内在特性
+**Translation:** Vocabulary: intrinsics: 固有特性
 
 **[88.02s] English:** The compiler.  
 **Translation:** 
@@ -115,23 +116,23 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[88.64s] English:** You can optimize your compiler.  
 **Translation:** Vocabulary: optimize: 优化
 
-**[90.34s] English:** Auto vectorization is your fault.  
+**[90.34s] English:** Auto-vectorization is your fault.  
 **Translation:** 
 
 **[92.38s] English:** You don't understand.  
-**Translation:** Vocabulary: vectorization: 向量优化
+**Translation:** 
 
 **[93.34s] English:** And we've tried that forever, right?  
 **Translation:** 
 
-**[95.50s] English:** For two years and two years later,  
+**[95.50s] English:** For two years, and then two years later,  
 **Translation:** 
 
-**[97.10s] English:** showing hundreds of examples of handwritten assembly.  
+**[97.10s] English:** Showing hundreds of examples of handwritten assembly.  
 **Translation:** 
 
 **[101.30s] English:** No, no, no.  
-**Translation:** 
+**Translation:** Vocabulary: handwritten: 手写
 
 **[101.84s] English:** You're doing it wrong.  
 **Translation:** 
@@ -139,10 +140,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[102.54s] English:** The compiler can do this.  
 **Translation:** 
 
-**[103.68s] English:** The intelligence agencies tried to like,  
+**[103.68s] English:** The intelligence agencies tried to, like,  
 **Translation:** 
 
-**[106.42s] English:** say, can you put a backdoor in VLC?  
+**[106.42s] English:** Say, can you put a backdoor in VLC?  
 **Translation:** Vocabulary: backdoor: 后门
 
 **[108.52s] English:** Yes.  
@@ -160,28 +161,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[112.24s] English:** I was a lot less polite.  
 **Translation:** 
 
-**[114.62s] English:** Basically saying, hell no.  
+**[114.62s] English:** Basically, saying, "Hell no.  
 **Translation:** 
 
 **[115.98s] English:** No.  
 **Translation:** 
 
 **[116.04s] English:** Like, if we had to compromise our software,  
-**Translation:** 
+**Translation:** Vocabulary: compromise: 妥协
 
-**[118.46s] English:** we would shut it down.  
+**[118.46s] English:** We would shut it down.  
 **Translation:** 
 
 **[119.50s] English:** This is clear.  
 **Translation:** 
 
-**[120.00s] English:** Any tweets carrying your regret?  
+**[120.00s] English:** Any tweets carrying your regrets?  
 **Translation:** 
 
 **[123.92s] English:** Any tweets I regret?  
 **Translation:** 
 
-**[125.54s] English:** Or is it like that?  
+**[125.54s] English:** Is it like that, or is it not?  
 **Translation:** 
 
 **[126.46s] English:** How does the French song go?  
@@ -196,28 +197,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[131.06s] English:** No, it's because regrets are a tax on your mind.  
 **Translation:** 
 
-**[136.50s] English:** The following is a conversation all about FFmpeg and VLC  
+**[136.50s] English:** The following is a conversation all about FFmpeg and VLC.  
 **Translation:** 
 
-**[140.72s] English:** with Jean-Baptiste Kempf and Karen Cunha.  
+**[140.72s] English:** With Jean-Baptiste Kempf and Karen Cunha.  
 **Translation:** 
 
-**[145.74s] English:** FFmpeg is an open source software system  
+**[145.74s] English:** FFmpeg is an open-source software system.  
 **Translation:** 
 
-**[148.46s] English:** that is the invisible backbone behind YouTube,  
+**[148.46s] English:** That is the invisible backbone behind YouTube.  
 **Translation:** 
 
 **[152.52s] English:** Netflix, Chrome, VLC, Discord,  
-**Translation:** Vocabulary: backbone: 支撑体系
+**Translation:** Vocabulary: backbone: 支撑体系; invisible: 看不见的
 
-**[154.54s] English:** and basically every platform that touches video or audio on the Internet.  
+**[154.54s] English:** And basically, every platform that touches video or audio on the Internet.  
 **Translation:** 
 
-**[161.34s] English:** It can decode, encode, transcode, stream, and play  
+**[161.34s] English:** It can decode, encode, transcode, stream, and play.  
 **Translation:** Vocabulary: encode: 编码; transcode: 转码
 
-**[165.78s] English:** almost any video or audio format ever created.  
+**[165.78s] English:** Almost any video or audio format ever created.  
 **Translation:** 
 
 **[170.36s] English:** To me, it is one of the most incredible software systems ever developed.  
@@ -227,15 +228,15 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[179.18s] English:** VLC is also a legendary piece of software.  
+**Translation:** Vocabulary: legendary: 传奇的
+
+**[182.84s] English:** It is an open-source media player.  
 **Translation:** 
 
-**[182.84s] English:** It is an open source media player  
+**[184.40s] English:** That plays basically anything you throw at it.  
 **Translation:** 
 
-**[184.40s] English:** that plays basically anything you throw at it.  
-**Translation:** 
-
-**[187.74s] English:** Any format, any platform, no ads, no tracking.  
+**[187.74s] English:** Any format, any platform; no ads, no tracking.  
 **Translation:** 
 
 **[191.44s] English:** It has been downloaded over 6 billion times.  
@@ -247,91 +248,91 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[200.18s] English:** With the most legendary logo,  
 **Translation:** 
 
-**[201.94s] English:** which I, of course, had to honor in this conversation  
+**[201.94s] English:** Which I, of course, had to honor in this conversation.  
 **Translation:** 
 
-**[204.50s] English:** by wearing the VLC trademark.  
+**[204.50s] English:** By wearing the VLC trademark.  
 **Translation:** Vocabulary: trademark: 注册商标
 
-**[208.46s] English:** The traffic cone hat the whole time.  
+**[208.46s] English:** The traffic cone was on the whole time.  
 **Translation:** 
 
-**[211.58s] English:** So again, above all else,  
+**[211.58s] English:** So, again, above all else,  
 **Translation:** 
 
-**[213.64s] English:** thank you to the incredible volunteer engineers  
+**[213.64s] English:** Thank you to the incredible volunteer engineers!  
 **Translation:** 
 
-**[215.70s] English:** who put their heart and soul into this code  
+**[215.70s] English:** Who put their heart and soul into this code?  
 **Translation:** 
 
-**[218.16s] English:** that has been used and loved by billions of people.  
+**[218.16s] English:** That has been used and loved by billions of people.  
 **Translation:** 
 
 **[222.26s] English:** Thank you.  
 **Translation:** 
 
-**[223.72s] English:** And about the two great engineers and human beings  
+**[223.72s] English:** And about the two great engineers and human beings.  
 **Translation:** 
 
-**[226.88s] English:** I'm talking to in this episode,  
+**[226.88s] English:** I'm talking to someone in this episode,  
 **Translation:** 
 
-**[229.98s] English:** Jean-Baptiste is the president of VideoLan  
+**[229.98s] English:** Jean-Baptiste is the president of VideoLAN.  
 **Translation:** 
 
-**[233.14s] English:** and is a key figure behind VLC and FFmpeg.  
+**[233.14s] English:** And he is a key figure behind VLC and FFmpeg.  
 **Translation:** 
 
 **[238.08s] English:** Karen,  
 **Translation:** 
 
-**[238.46s] English:** is a long-time coach  
+**[238.46s] English:** Is a long-time coach.  
 **Translation:** 
 
-**[240.00s] English:** engineer, FFmpeg contributor, and the man behind the now infamous FFmpeg account on Twitter,  
+**[240.00s] English:** Engineer, FFmpeg contributor, and the man behind the now-infamous FFmpeg account on Twitter,  
 **Translation:** 
 
-**[247.42s] English:** X, that I recommend everybody follow for the memes and for the unapologetic celebration of  
-**Translation:** Vocabulary: contributor: 贡献者; infamous: 臭名昭著的; unapologetic: 毫不道歉的
+**[247.42s] English:** X, that I recommend everybody follow for the memes and for the unapologetic celebration of...  
+**Translation:** Vocabulary: contributor: 贡献者; unapologetic: 毫不歉疚的
 
-**[254.82s] English:** open source and great low-level software engineering. Let me also say that it's inspiring  
+**[254.82s] English:** Open-source and great low-level software engineering. Let me also say that it's inspiring.  
 **Translation:** 
 
-**[262.06s] English:** and humbling that so much of modern civilization rests on software built by people who are not  
-**Translation:** Vocabulary: humbling: 令人谦卑
+**[262.06s] English:** And it is both humbling and remarkable that so much of modern civilization rests on software built by people who are not.  
+**Translation:** Vocabulary: humbling: 令人谦卑的
 
-**[268.82s] English:** chasing fame or money, but are obsessed with the craft of engineering. We live in a world where  
+**[268.82s] English:** Chasing fame or money, but they are obsessed with the craft of engineering. We live in a world where  
 **Translation:** 
 
-**[275.86s] English:** billions of people consume video every day without ever thinking about the invisible machinery  
-**Translation:** Vocabulary: machinery: 机械设备
+**[275.86s] English:** Billions of people consume video every day without ever thinking about the invisible machinery.  
+**Translation:** Vocabulary: chasing: 追求; invisible: 看不见的; machinery: 机器; obsessed: 痴迷于
 
-**[280.50s] English:** underneath it. But that machinery matters. Open source infrastructure matters. It is one of the  
+**[280.50s] English:** Underneath it, but that machinery matters. Open-source infrastructure matters. It is one of the  
 **Translation:** 
 
-**[287.44s] English:** great examples of human beings quietly collaborating across borders to build something useful, durable,  
-**Translation:** Vocabulary: collaborating: 合作; durable: 耐用
+**[287.44s] English:** Great examples of human beings quietly collaborating across borders to build something useful and durable,  
+**Translation:** Vocabulary: collaborating: 合作; durable: 耐用; underneath: 在下面
 
-**[293.56s] English:** and elegant for the rest of us.  
+**[293.56s] English:** And it's elegant for the rest of us.  
 **Translation:** 
 
 **[297.54s] English:** And so, this conversation...  
+**Translation:** Vocabulary: elegant: 优雅
+
+**[298.82s] English:** Is not just about codecs and media pipelines. It is also about the deeper spirit of engineering.  
 **Translation:** 
 
-**[298.82s] English:** is not just about codecs and media pipelines. It is also about the deeper spirit of engineering  
-**Translation:** 
-
-**[306.14s] English:** and generosity that makes projects like FFmpeg possible. Again, I can never say it enough.  
+**[306.14s] English:** And it is the generosity that makes projects like FFmpeg possible. Again, I can never say it enough.  
 **Translation:** Vocabulary: generosity: 慷慨; pipelines: 管道
 
 **[314.60s] English:** Thank you.  
 **Translation:** 
 
-**[316.70s] English:** This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description  
+**[316.70s] English:** This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description.  
 **Translation:** Vocabulary: friedman: 弗里德曼; sponsors: 赞助商
 
-**[321.76s] English:** where you can also find links to contact me, ask questions, give feedback, and so on. And  
+**[321.76s] English:** Where you can also find links to contact me, ask questions, give feedback, and so on. And  
 **Translation:** 
 
 **[327.54s] English:** I'll see you next time.  
@@ -340,46 +341,46 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[328.82s] English:** Now, dear friends, here's Jean-Baptiste Kempf and Kieran Cunha.  
 **Translation:** 
 
-**[335.58s] English:** So, the legend goes, VLC can open everything. What's the weirdest thing that you know that it can  
+**[335.58s] English:** So, the legend goes, VLC can open everything. What's the weirdest thing that you know it can open?  
 **Translation:** Vocabulary: weirdest: 最奇怪的东西
 
-**[341.66s] English:** open?  
+**[341.66s] English:** Open?  
 **Translation:** 
 
 **[342.74s] English:** You know, there is a ton of people who are using VLC to record VHS videos, right? Like,  
 **Translation:** 
 
-**[347.98s] English:** it's just like you plug it with a capture card and you can basically record VHS video.  
+**[347.98s] English:** It's just like you plug it in with a capture card, and you can basically record VHS video.  
 **Translation:** 
 
 **[352.26s] English:** Well, how does that work?  
 **Translation:** 
 
-**[353.40s] English:** Basically, it's, you know, those type of capture cards where you can put a peritel in,  
+**[353.40s] English:** Basically, it's those types of capture cards where you can plug in a PCI card.  
 **Translation:** 
 
-**[357.58s] English:** or RGN.  
+**[357.58s] English:** Or RGN.  
 **Translation:** 
 
 **[358.82s] English:** And you put that.  
 **Translation:** 
 
-**[360.00s] English:** And actually, VLC can play those type of cards.  
+**[360.00s] English:** And actually, VLC can play those types of files.  
 **Translation:** 
 
-**[362.18s] English:** And there is a module which allows to control directly those VCR camcorders.  
+**[362.18s] English:** And there is a module which allows you to control those VCR camcorders directly.  
 **Translation:** 
 
-**[367.82s] English:** We support DVD audios lately, right?  
-**Translation:** Vocabulary: camcorders: 录像机; module: 模块
+**[367.82s] English:** We support DVD audio lately, right?  
+**Translation:** Vocabulary: camcorders: 摄像机; module: 模块
 
 **[369.66s] English:** We spent the summer working on DVD audio support.  
 **Translation:** 
 
-**[373.48s] English:** And, like, there is no one making any DVD audio support.  
+**[373.48s] English:** And, like, there is no one making any DVD-Audio support.  
 **Translation:** 
 
-**[377.12s] English:** There is a custom encryption schemes.  
+**[377.12s] English:** There is a custom encryption scheme.  
 **Translation:** 
 
 **[378.98s] English:** What about Lucasfilm?  
@@ -388,25 +389,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[380.06s] English:** Oh, yeah.  
 **Translation:** 
 
-**[380.40s] English:** And there is, of course, all the weird codecs, game codecs supported by FFmpeg.  
+**[380.40s] English:** And there are, of course, all the weird codecs and game codecs supported by FFmpeg.  
 **Translation:** 
 
-**[385.36s] English:** The one Star Wars video game, the first 10-second opening sequence,  
+**[385.36s] English:** The one Star Wars video game: the first 10-second opening sequence,  
 **Translation:** 
 
-**[388.48s] English:** someone has gone and implemented that and made sure that's a bit exact  
+**[388.48s] English:** Someone has gone and implemented that, and made sure it's a bit more exact.  
+**Translation:** Vocabulary: implemented: 执行
+
+**[391.40s] English:** On one disc, that existed at one time, there was one little sequence in the game.  
 **Translation:** 
 
-**[391.40s] English:** on one disc that existed at one time of one little sequence in the game.  
-**Translation:** 
-
-**[396.40s] English:** And then, funnily, at one Videoland conference,  
+**[396.40s] English:** And then, funny enough, at one Videoland conference,  
 **Translation:** Vocabulary: videoland: 视频乐园
 
-**[400.02s] English:** we made a competition to make the weirdest and most horrible file ever  
+**[400.02s] English:** We made a competition to make the weirdest and most horrible file ever.  
 **Translation:** 
 
-**[403.82s] English:** and see if VLC could play it.  
+**[403.82s] English:** And see if VLC could play it.  
 **Translation:** 
 
 **[406.20s] English:** What did it end up being?  
@@ -415,43 +416,43 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[407.26s] English:** What's the file?  
 **Translation:** 
 
-**[408.02s] English:** It was an MKV file made by Derek,  
+**[408.02s] English:** It was an MKV file made by Derek.  
 **Translation:** 
 
-**[412.14s] English:** which each of the frames was changing resolution, aspect ratio, rotation,  
+**[412.14s] English:** Which frame was changing resolution, aspect ratio, and rotation,  
 **Translation:** Vocabulary: derek: 制作人
 
-**[417.58s] English:** and everything.  
+**[417.58s] English:** And everything.  
 **Translation:** 
 
-**[418.60s] English:** It was, like, did it work?  
+**[418.60s] English:** It was like, did it work?  
 **Translation:** 
 
 **[420.12s] English:** Yes.  
 **Translation:** 
 
-**[421.12s] English:** And there was another one where the whole video was actually animated subtitles,  
+**[421.12s] English:** And there was another one where the whole video was actually animated subtitles.  
 **Translation:** 
 
-**[426.80s] English:** right, SSA, right?  
+**[426.80s] English:** Right, SSA, right?  
 **Translation:** 
 
-**[428.12s] English:** Yeah, I remember that, yeah.  
+**[428.12s] English:** Yeah, I remember that, yes.  
 **Translation:** 
 
 **[429.44s] English:** So each frame was a black frame, but on top of that,  
 **Translation:** 
 
-**[433.64s] English:** there was a subtitle that was animated for each frame.  
+**[433.64s] English:** There was a subtitle that was animated for each frame.  
 **Translation:** Vocabulary: subtitle: 字幕
 
-**[436.68s] English:** There was a file that's a valid zip and a valid MP3 at the same time  
+**[436.68s] English:** There was a file that is both a valid ZIP and a valid MP3 at the same time.  
 **Translation:** 
 
-**[439.52s] English:** or something like that.  
+**[439.52s] English:** Or something like that.  
 **Translation:** 
 
-**[440.56s] English:** So, yeah, we'd made a competition of stupid files.  
+**[440.56s] English:** So, yeah, we made a competition out of stupid files.  
 **Translation:** 
 
 **[443.70s] English:** And it worked.  
@@ -469,7 +470,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[448.48s] English:** For people who are not familiar, I am wearing a hat.  
 **Translation:** 
 
-**[451.72s] English:** Would it be fair to say this is the best, worst logo of all time, the cone?  
+**[451.72s] English:** Would it be fair to say this is the best, or worst, logo of all time: the Cone?  
 **Translation:** 
 
 **[456.72s] English:** Yeah, by far, right?  
@@ -478,10 +479,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[457.92s] English:** The logo of VLC is so iconic, right?  
 **Translation:** 
 
-**[460.52s] English:** Like, we are a team with a small number of people, and the icon is known everywhere.  
-**Translation:** 
+**[460.52s] English:** Like, we are a small team, and our icon is known everywhere.  
+**Translation:** Vocabulary: iconic: 标志性的
 
-**[465.64s] English:** I go to middle of nowhere in India or in China, people know the cone, right?  
+**[465.64s] English:** I go to the middle of nowhere in India or China, and people know the cone, right?  
 **Translation:** 
 
 **[469.64s] English:** And 25% of the website traffic that comes to our main website is cone player, right?  
@@ -499,22 +500,22 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[480.00s] English:** Google Force, Cone Player.  
 **Translation:** 
 
-**[481.70s] English:** Yeah, they go on Google and they put Cone Player and they download VLC, right?  
+**[481.70s] English:** Yeah, they go on Google and they put "Cone Player" and they download VLC, right?  
 **Translation:** 
 
-**[485.38s] English:** So that's iconic.  
+**[485.38s] English:** So, that's iconic.  
 **Translation:** 
 
 **[486.70s] English:** And once we tried to change it as a joke, right?  
 **Translation:** 
 
 **[489.02s] English:** We said it was going to be a type of caterpillar construction.  
-**Translation:** Vocabulary: caterpillar: 蚯蚓式坦克
+**Translation:** Vocabulary: caterpillar: 蚯蚓车
 
 **[495.32s] English:** And we said that during April 1st.  
 **Translation:** 
 
-**[497.48s] English:** And we had around 10,000 emails saying, no, don't change the logo and so on, right?  
+**[497.48s] English:** And we had around 10,000 emails saying, "No, don't change the logo," and so on, right?  
 **Translation:** 
 
 **[501.80s] English:** So it's so iconic, right?  
@@ -551,9 +552,9 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[518.72s] English:** And it's hilarious.  
-**Translation:** 
+**Translation:** Vocabulary: absurd: 荒谬; hilarious: 滑稽
 
-**[519.46s] English:** It becomes meme and meme becomes culture.  
+**[519.46s] English:** It becomes a meme, and a meme becomes culture.  
 **Translation:** 
 
 **[521.66s] English:** And you keep it.  
@@ -562,19 +563,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[522.50s] English:** And you know about it.  
 **Translation:** 
 
-**[523.46s] English:** And you know that in 20 years, like you still have going to have the cones and remember,  
+**[523.46s] English:** And you know that in 20 years, you'll still have the cones, and remember,  
 **Translation:** 
 
-**[528.16s] English:** oh, yeah, that was a video player.  
+**[528.16s] English:** Oh, yeah, that was a video player.  
 **Translation:** 
 
 **[529.42s] English:** Yeah.  
 **Translation:** 
 
-**[529.74s] English:** And we'll talk about, you know, the mission of FFmpeg being a kind of the archival aspect of it.  
+**[529.74s] English:** And we'll talk about, you know, the mission of FFmpeg being a kind of archival aspect of it.  
 **Translation:** 
 
-**[536.10s] English:** So you can think about a thousand years from now, we'll have all these videos.  
+**[536.10s] English:** So, you can think about a thousand years from now; we'll have all these videos.  
 **Translation:** Vocabulary: archival: 档案保存
 
 **[539.12s] English:** They've...  
@@ -586,20 +587,20 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[541.02s] English:** Human civilization has already destroyed itself multiple times.  
 **Translation:** 
 
-**[545.30s] English:** And the only thing that will remain is this, like, you know, the cockroaches will be crawling around.  
+**[545.30s] English:** And the only thing that will remain is this: you know, the cockroaches will be crawling around.  
 **Translation:** Vocabulary: cockroaches: 蟑螂; crawling: 爬行
 
-**[550.00s] English:** It'll be the VLC logo with some of the archival footage that VLC can open.  
+**[550.00s] English:** It'll be the VLC logo, with some of the archival footage that VLC can open.  
 **Translation:** 
 
-**[554.96s] English:** And the aliens will show up and they'll press play and they'll get to see all this.  
-**Translation:** 
+**[554.96s] English:** And the aliens will show up, and they'll press play and get to see all this.  
+**Translation:** Vocabulary: aliens: 外星人
 
 **[558.50s] English:** Well, we really hope so, right?  
 **Translation:** 
 
-**[559.46s] English:** But there is also so many memes where people say, well, I'm sure I can put a pancake inside my DVD drive and VLC will play it.  
-**Translation:** 
+**[559.46s] English:** But there are also many memes where people say, "Well, I'm sure I can put a pancake inside my DVD drive and VLC will play it.  
+**Translation:** Vocabulary: pancake: 煎饼
 
 **[565.42s] English:** Can they?  
 **Translation:** 
@@ -613,7 +614,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[568.08s] English:** But we actually have a video.  
 **Translation:** 
 
-**[569.28s] English:** If us trying that didn't work.  
+**[569.28s] English:** If ours trying that didn't work.  
 **Translation:** 
 
 **[571.46s] English:** A codec for physical reality.  
@@ -629,19 +630,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[577.92s] English:** Like the ones we distribute as goodies.  
-**Translation:** Vocabulary: goodies: 小礼物
+**Translation:** 
 
-**[580.28s] English:** And inside he puts an RFID chip, which was his way of playing a movie, right?  
+**[580.28s] English:** And inside, he puts an RFID chip, which was his way of playing a movie, right?  
 **Translation:** 
 
 **[586.52s] English:** And so he puts this on the RFID player.  
 **Translation:** 
 
-**[589.06s] English:** And when he put that, it was playing like the last Star Wars and so on.  
+**[589.06s] English:** And when he put that on, it was playing like the last Star Wars, and so on.  
 **Translation:** 
 
-**[592.04s] English:** So instead of having like DVD boxes, he had like VLC cones all around and he plugged that.  
-**Translation:** 
+**[592.04s] English:** So instead of having like DVD boxes, he had VLC cones all around, and he plugged them in.  
+**Translation:** Vocabulary: plugged: 插入
 
 **[597.42s] English:** And that was like physical objects.  
 **Translation:** 
@@ -649,385 +650,385 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[599.28s] English:** So.  
 **Translation:** 
 
-**[600.00s] English:** the thing that we're talking about is everything around video codecs video encoding video decoding  
+**[600.00s] English:** The thing we're talking about is everything around video codecs, video encoding, and video decoding.  
 **Translation:** 
 
-**[605.70s] English:** video streaming video player client that i'm wearing on my head the entire ecosystem enabling  
+**[605.70s] English:** Video streaming, video player, client that I'm wearing on my head—the entire ecosystem enabling.  
+**Translation:** Vocabulary: encoding: 编码
+
+**[611.72s] English:** Free media, we'll talk about FFmpeg, we'll talk about VideoLAN, VLC, and all the other incredible...  
 **Translation:** 
 
-**[611.72s] English:** free media we'll talk about ffmpeg we'll talk about video land vlc and all the other incredible  
+**[618.26s] English:** Video technology, uh, that is used probably by billions of people; so, JB, you're the lead developer.  
 **Translation:** 
 
-**[618.26s] English:** video technology uh that is used probably by billions of people so jb you're the lead developer  
+**[626.96s] English:** Behind the legendary VLC player, Kieran, among many other things, was your lead developer.  
 **Translation:** 
 
-**[626.96s] English:** behind the legendary vlc player kieran amongst many other things your lead developer behind the  
+**[633.00s] English:** Legendary FFmpeg handles on Twitter, and both of you have spicy opinions—I would say so. Today, I want to  
+**Translation:** Vocabulary: kieran: 基里安; legendary: 传奇的
+
+**[641.24s] English:** Talk about FFmpeg and VLC, for context for people who are not aware, and I'm sure basically,...  
 **Translation:** 
 
-**[633.00s] English:** legendary ffmpeg handle on twitter and both of you have spicy opinions i would say so today i want to  
-**Translation:** Vocabulary: kieran: 凯利安
-
-**[641.24s] English:** talk about ffmpeg and vlc uh for context for people who are not aware and i'm sure basically  
+**[649.74s] English:** Everybody listening to this has probably used these two technologies regularly without  
 **Translation:** 
 
-**[649.74s] English:** everybody listening to this have used these two technologies probably regularly without  
+**[656.80s] English:** Nothing.  
 **Translation:** 
 
-**[656.80s] English:** nothing  
+**[656.96s] English:** Knowing it, FFmpeg underlies basically most video on the Internet, including YouTube and Netflix.  
 **Translation:** 
 
-**[656.96s] English:** knowing it so ffmpeg underlies basically most video on the internet including youtube netflix  
+**[663.12s] English:** Chrome, Firefox, of course, VLC, and countless other video platforms; it is estimated that over 90 percent.  
 **Translation:** 
 
-**[663.12s] English:** chrome firefox of course vlc and countless other video platforms it is estimated that over 90 percent  
-**Translation:** 
-
-**[670.66s] English:** of video processing workflows online and offline involve ffmpeg vlc has been downloaded at least  
+**[670.66s] English:** Of video processing workflows, both online and offline, involve FFmpeg; VLC has been downloaded at least.  
 **Translation:** Vocabulary: workflows: 工作流程
 
-**[677.82s] English:** 6.5 billion times but likely that number because it's impossible to really count the number  
+**[677.82s] English:** 6.5 billion times, but it's likely that this number because it's impossible to really count the number.  
 **Translation:** 
 
-**[685.58s] English:** uh is much higher than the number of videos that are being downloaded on ffmpeg  
+**[685.58s] English:** Uh, the number of views is much higher than the number of videos being downloaded using FFmpeg.  
 **Translation:** 
 
-**[686.96s] English:** it's much higher than that virtually any operating system supports virtually any media format  
+**[686.96s] English:** It's much higher than that. Virtually any operating system supports virtually any media format.  
 **Translation:** 
 
-**[693.92s] English:** the limitation being it can't open pancakes so uh can we just lay out some of the basics  
-**Translation:** Vocabulary: pancakes: 煎饼
-
-**[701.80s] English:** so to help people understand what's involved in all of this so when we press play on a video  
+**[693.92s] English:** The limitation is that it can't open pancakes. So, can we just lay out some of the basics?  
 **Translation:** 
 
-**[709.06s] English:** player like vlc what happens what how does it go from the the file or the stream to the pixels on  
-**Translation:** Vocabulary: pixels: 像素
-
-**[716.58s] English:** the screen and what happens when you press play on a video player like vlc what happens when you  
+**[701.80s] English:** So, to help people understand what's involved in all of this, when we press play on a video,...  
 **Translation:** 
 
-**[716.96s] English:** press play on one file when you press play on a video player like vlc what happens when you  
+**[709.06s] English:** Player, like VLC, what happens and how does it go from the file or the stream to the pixels on the screen?  
+**Translation:** Vocabulary: pixels: 屏幕上的点
+
+**[716.58s] English:** The screen and what happens when you press play on a video player, like VLC. What happens when you  
 **Translation:** 
 
-**[717.74s] English:** press play on one file when you press play on one file into an audio és the higher the plastic  
+**[716.96s] English:** Press "Play" on one file. When you press "Play" on a video player like VLC, what happens?  
 **Translation:** 
 
-**[719.60s] English:** happens when you press play on a video player like vlc what happens when you press play on a video  
+**[717.74s] English:** Press play on one file when you press play on one file, and into an audio, the higher the plastic.  
 **Translation:** 
 
-**[721.56s] English:** player like vlc there's an area provided at the bottom of the video player that provides you  
+**[719.60s] English:** What happens when you press play on a video player, like VLC?  
 **Translation:** 
 
-**[722.72s] English:** a very wide the position of the правильно speaking the filter for the sound from the  
+**[720.00s] English:** To be aware of? So there are several stages, right? The first stage is to get from an address:  
 **Translation:** 
 
-**[723.62s] English:** audio loader working what are the big stages  
+**[721.56s] English:** Player, like VLC, there's an area provided at the bottom of the video player that provides you  
 **Translation:** 
 
-**[724.22s] English:** audience  
+**[722.72s] English:** A very wide position of the correctly speaking, the filter for the sound from the  
 **Translation:** 
 
-**[735.06s] English:** I want you to understand that at some point you'll get a screen infected with micro-computer  
+**[723.62s] English:** Audio loader: Working. What are the big stages?  
+**Translation:** Vocabulary: loader: 加载器
+
+**[724.22s] English:** Audience  
 **Translation:** 
 
-**[736.20s] English:** devices that have happened to the touch screen which is leading you off all of your  
+**[726.12s] English:** Right, which is the type of URL to give you a byte of streams, right? So this would be:  
 **Translation:** 
 
-**[738.74s] English:** live video player apnesis one added something called v ELM  
+**[732.28s] English:** For example, HTTP, file, DVD, right? You give the pass to the media and get a stream of data.  
 **Translation:** 
 
-**[740.66s] English:** on it unfortunately absolutely no sound in the camera  
+**[735.06s] English:** I want you to understand that at some point, you'll get a screen infected with micro-computer viruses.  
+**Translation:** Vocabulary: infected: 被感染的
+
+**[736.20s] English:** Devices that have happened to the touch screen, which is leading you all off of your  
 **Translation:** 
 
-**[742.32s] English:** side and it can't be structured  
+**[738.74s] English:** Live Video Player Apnea's one added something called V-ELM.  
 **Translation:** 
 
-**[744.46s] English:** they're you can't be set in its subsidiary  
-**Translation:** Vocabulary: subsidiary: 子公司
-
-**[720.00s] English:** to be aware of? So there are several stages, right? The first stage is to get from an address,  
+**[739.40s] English:** The stream needs to be cut up by what's known as the container, the demultiplexer (or demux).  
 **Translation:** 
 
-**[726.12s] English:** right, which is the type of URL to give you a byte of streams, right? So this would be,  
-**Translation:** 
-
-**[732.28s] English:** for example, HTTP, file, DVD, right? You give the pass to the media and give you a stream of data.  
-**Translation:** 
-
-**[739.40s] English:** The stream needs to be cut up by what's known as the container, the demultiplexer or demux.  
+**[740.66s] English:** On it, unfortunately; absolutely no sound in the camera.  
 **Translation:** Vocabulary: demultiplexer: 解复用器
 
-**[744.44s] English:** We'll try and keep the jargon light throughout this, but it needs to go and start demarcating  
+**[742.32s] English:** Side, and it can't be structured.  
 **Translation:** 
 
-**[749.10s] English:** video and audio frames. So it just gets data from the operating system blocks at a time and  
-**Translation:** Vocabulary: demarcating: 划分边界; jargon: 行话
+**[744.44s] English:** We'll try and keep the jargon light throughout this, but it needs to start demarcating.  
+**Translation:** Vocabulary: demarcating: 划分; jargon: 行话
 
-**[753.04s] English:** needs to start cutting these frames up into compressed data. It then needs to start doing  
+**[744.46s] English:** They're you can't be set in stone, its subsidiary.  
 **Translation:** 
 
-**[758.56s] English:** simple parsing of the video frames, mainly to figure out whether that codec is GPU decodable  
-**Translation:** Vocabulary: compressed: 压缩; decodable: 可解码; parsing: 解析
+**[749.10s] English:** Video and audio frames. So it just gets data from the operating system, block by block, and  
+**Translation:** Vocabulary: subsidiary: 子公司
 
-**[764.98s] English:** or needs to fall back to software. We're very sort of used to assuming the GPU will play all  
+**[753.04s] English:** Needs to start cutting these frames up into compressed data. It then needs to start doing.  
 **Translation:** 
 
-**[771.10s] English:** of these things. There'll be hardware acceleration. I think it's up to 45% of files are not GPU  
-**Translation:** Vocabulary: acceleration: 硬件加速
+**[758.56s] English:** Simple parsing of the video frames, mainly to figure out whether that codec is GPU-decodable.  
+**Translation:** Vocabulary: compressed: 压缩; parsing: 解析
 
-**[775.82s] English:** decodable. So these need to be probed. They need to be detected.  
+**[764.98s] English:** Or it might need to fall back to software. We're very much used to assuming the GPU will play all the parts.  
+**Translation:** 
+
+**[771.10s] English:** Of these things, there will be hardware acceleration. I think it's up to 45%, but not all files are GPU-accelerated.  
+**Translation:** Vocabulary: acceleration: 加速
+
+**[775.82s] English:** Decodable. So, these need to be probed. They need to be detected.  
 **Translation:** 
 
 **[779.10s] English:** There can be variants of a given codec, some of which are decodable on the GPU.  
-**Translation:** Vocabulary: detected: 被发现
+**Translation:** Vocabulary: decodable: 可解码的; detected: 检测到的; probed: 探测过的
 
-**[784.10s] English:** Different vendors of GPU might have different capabilities. So those need to be detected.  
+**[784.10s] English:** Different vendors of GPU might have different capabilities. So, those need to be detected.  
 **Translation:** 
 
-**[788.94s] English:** So if it's GPU capable, you pass it through to the GPU black box.  
+**[788.94s] English:** So, if it's GPU-capable, you pass it through to the GPU black box.  
+**Translation:** Vocabulary: capabilities: 能力; vendors: 供应商
+
+**[793.08s] English:** So, now if there's a software fallback, that means in the beginning it is first to do  
 **Translation:** 
 
-**[793.08s] English:** So now if there's a software fallback, that means in the beginning is to first do  
+**[798.28s] English:** De-entropy coding. So, removing the mathematical coding of the bitstream. So, this uses  
+**Translation:** Vocabulary: bitstream: 位流; fallback: 后备方案; mathematical: 数学的
+
+**[802.80s] English:** Capabilities such as Huffman coding or arithmetic coding to actually decompress the mathematical  
 **Translation:** 
 
-**[798.28s] English:** de-entropy coding. So removing the mathematical coding of the bitstream. So this uses  
-**Translation:** Vocabulary: bitstream: 比特流; fallback: 后备方案; mathematical: 数学的
+**[809.10s] English:** Layer of the bitstream. We then need to start reading the syntax elements for intra-prediction.  
+**Translation:** Vocabulary: arithmetic: 算术; decompress: 解压; huffman: 哈夫曼; syntax: 语法
 
-**[802.80s] English:** capabilities such as Hoffman coding or arithmetic coding to actually decompress the mathematical  
+**[814.24s] English:** So, intra-prediction is like still images of the video, such as I-frames. This works:  
 **Translation:** 
 
-**[809.10s] English:** layer of the bitstream. We then need to start reading the syntax elements for intra-prediction.  
-**Translation:** Vocabulary: arithmetic: 算术编码
-
-**[814.24s] English:** So intra-prediction are like still images of the video, so your iframes. So this works  
-**Translation:** 
-
-**[820.60s] English:** and operates in the spatial domain. So you do your intra-prediction in the spatial domain,  
+**[820.60s] English:** And it operates in the spatial domain. So you do your intra-prediction in the spatial domain.  
 **Translation:** Vocabulary: spatial: 空间的
 
-**[824.98s] English:** you have a residual because your prediction isn't quite matching that of reality. So you've  
+**[824.98s] English:** You have a residual because your prediction isn't quite matching reality. So you've  
 **Translation:** 
 
-**[829.10s] English:** made a prediction, but then there's a little bit left, and that's what's known as the residual.  
+**[829.10s] English:** Made a prediction, but then there's a little bit left, and that's what's known as the residual.  
 **Translation:** Vocabulary: residual: 剩余误差
 
-**[833.88s] English:** This is stored in the frequency domain, and these are quantized to decompound their space.  
+**[833.88s] English:** This is stored in the frequency domain, and these are quantized to decompose their space.  
 **Translation:** 
 
 **[839.10s] English:** We then need to do  
-**Translation:** Vocabulary: decompound: 分解; quantized: 量化
+**Translation:** Vocabulary: decompose: 分解; quantized: 量化
 
-**[840.00s] English:** the inverse transform to bring them back to the spatial domain and apply these residuals so a lot  
+**[840.00s] English:** The inverse transform to bring them back to the spatial domain and apply these residuals; so, a lot.  
 **Translation:** 
 
-**[846.42s] English:** of the process of the decoding is this thing is compressed yes yes and you have to predict the  
-**Translation:** Vocabulary: inverse: 逆变换; residuals: 残差
+**[846.42s] English:** Of the process of decoding, this thing is compressed, yes, and you have to predict the.  
+**Translation:** Vocabulary: compressed: 压缩; inverse: 逆变换; residuals: 残差
 
-**[852.26s] English:** highest quality thing that's supposed to go there iframe is the best representation you have spatially  
+**[852.26s] English:** The highest quality thing that's supposed to go there is the best representation you have, spatially.  
 **Translation:** 
 
-**[858.50s] English:** yes and then you and then there's a lot of temporal compression that can happen depending  
-**Translation:** Vocabulary: compression: 压缩; spatially: 空间上; temporal: 时间上
+**[858.50s] English:** Yes, and then there's a lot of temporal compression that can happen depending.  
+**Translation:** Vocabulary: compression: 时间压缩; spatially: 空间上; temporal: 时间上的
 
-**[863.26s] English:** on the codec and then you're predicting you're predicting what the reality that was captured in  
+**[863.26s] English:** On the codec, and then you're predicting what the reality that was captured is.  
 **Translation:** 
 
-**[868.60s] English:** the straws form yeah because what people don't realize is that the compression on video and audio  
+**[868.60s] English:** The straws form, yeah, because what people don't realize is that the compression on video and audio...  
+**Translation:** Vocabulary: straws: 吸管
+
+**[874.52s] English:** Is 100 times right? Like, people don't realize how compressed we do right for audio; you move.  
 **Translation:** 
 
-**[874.52s] English:** is 100 times right like people don't realize how compressed we we do right for audio you move  
+**[882.10s] English:** You compress by when you go from normal audio to MP3, you compress by 10 times, right? When you move,...  
+**Translation:** Vocabulary: compress: 压缩
+
+**[888.16s] English:** To video, you need 100 times 200 times, right? So, you need to remove all the details but that you.  
 **Translation:** 
 
-**[882.10s] English:** you compress by when you go from normal audio to mp3 you compress by 10 times right when you move  
-**Translation:** Vocabulary: compress: 压缩; compressed: 已压缩
-
-**[888.16s] English:** to video you need 100 times 200 times right so you need to remove all the details but that you  
-**Translation:** 
-
-**[895.06s] English:** don't care about because all the compressions that we do and that's very important  
+**[895.06s] English:** Don't care about it because all the compressions that we do are very important.  
 **Translation:** Vocabulary: compressions: 压缩
 
-**[898.60s] English:** people forget about that is to be viewed by humans right so all the codecs either for audio mimic  
+**[898.60s] English:** People forget that it is meant to be viewed by humans, so all the codecs either for audio or video mimic  
 **Translation:** 
 
-**[905.26s] English:** basically how your ear works right and and a lot of things about like the the the response on the  
+**[905.26s] English:** Basically, how your ear works, right? And a lot of things about the response on the  
 **Translation:** 
 
-**[910.66s] English:** ear and same for for your eyes right and and so for example on video we don't work on rgb right  
+**[910.66s] English:** Ear, and the same for your eyes, right? And so, for example, on video, we don't work on RGB, right?  
 **Translation:** 
 
-**[917.14s] English:** everyone expects to work in rgb we don't right we move to yuv which is basically one is luminance  
+**[917.14s] English:** Everyone expects to work in RGB, we don't, right? We move to YUV, which is basically luminance.  
 **Translation:** Vocabulary: luminance: 亮度
 
-**[924.16s] English:** brightness and the other are colors and this matches your eyes where inside your eyes you're  
+**[924.16s] English:** Brightness, and the other are colors, and this matches your eyes. Where inside your eyes, you're  
 **Translation:** 
 
-**[928.60s] English:** you have the cones and the buttons right with some of them look on brightness and more on the other  
+**[928.60s] English:** You have the cones and the buttons, right? With some of them, look for brightness, and others for more specific functions.  
 **Translation:** 
 
-**[932.92s] English:** on colors right so we need to compress a lot and so we need to degrade but in order to degrade we  
+**[932.92s] English:** On colors, right? So, we need to compress a lot, and so we need to degrade. But, in order to degrade, we  
 **Translation:** 
 
-**[939.46s] English:** need to match the human perception and this is why it's so difficult and then we need to use the  
-**Translation:** Vocabulary: degrade: 降低质量
+**[939.46s] English:** Need to match the human perception, and this is why it's so difficult. Then, we need to use the  
+**Translation:** Vocabulary: degrade: 降低质量; perception: 感知
 
-**[944.56s] English:** maximum power mathematical power uh very complex technologies uh we move to the frequency domain  
+**[944.56s] English:** Maximum power, mathematical power, uh, very complex technologies. We move to the frequency domain.  
 **Translation:** 
 
-**[950.56s] English:** as kieran said we do a ton of the quantizing and in order to get the best compression but it still  
-**Translation:** Vocabulary: mathematical: 数学运算; quantizing: 量化
+**[950.56s] English:** As Kieran said, we do a ton of the quantizing, and in order to get the best compression, but it still  
+**Translation:** Vocabulary: compression: 压缩; mathematical: 数学的; quantizing: 量化
 
-**[958.60s] English:** you're trying to compress in  
+**[958.60s] English:** You're trying to compress it in  
 **Translation:** 
 
-**[960.00s] English:** order to maximize the highest quality thing for human perception. That is correct. And that is  
+**[960.00s] English:** To maximize the highest quality for human perception, that is correct. And that is  
 **Translation:** Vocabulary: maximize: 最大化
 
-**[966.14s] English:** correct. And this is very important, right? Compression is not like a zip, right? A zip,  
+**[966.14s] English:** Correct. And this is very important, right? Compression is not like a ZIP, right?  
 **Translation:** 
 
-**[970.62s] English:** you have data in, you get data out, right? And you try with all the zip compression to arrive with  
+**[970.62s] English:** You have data in, you get data out, right? And you try with all the zip compression to arrive at  
 **Translation:** 
 
-**[976.60s] English:** the limit. Here, we are degrading the signal, right? And so we need to degrade both the audio  
+**[976.60s] English:** The limit. Here, we are degrading the signal, right? And so we need to degrade both the audio.  
 **Translation:** 
 
-**[982.42s] English:** and the video signal in the best way possible. And we can do that, but it involves first a lot  
-**Translation:** Vocabulary: degrading: 降低质量
+**[982.42s] English:** And we can do that, but it involves first a lot.  
+**Translation:** Vocabulary: degrading: 降低
 
-**[988.98s] English:** of theoretical knowledge about how it works, the eye works, but a lot of mathematical change,  
+**[988.98s] English:** Of theoretical knowledge about how it works, the eye works, but a lot of mathematical change,  
 **Translation:** 
 
-**[995.44s] English:** a lot of mathematical tricks, right? For example, when you move to RGB and you go to YUV, for  
+**[995.44s] English:** A lot of mathematical tricks, right? For example, when you move from RGB to YUV, for  
 **Translation:** 
 
-**[1001.38s] English:** example, what we do very often is that we scale down the resolution of the color compared to the  
+**[1001.38s] English:** Example, what we do very often is that we scale down the resolution of the color compared to the  
 **Translation:** 
 
-**[1007.08s] English:** brightness. And most of the time, and just this without compression, it divides the size by two,  
-**Translation:** Vocabulary: compression: 压缩
-
-**[1013.54s] English:** but most people don't see it, right? And so on and so on, right? And then,  
+**[1007.08s] English:** Brightness. And most of the time, and just like that without compression, it divides the size by two.  
 **Translation:** 
 
-**[1019.14s] English:** you go to very complex mathematical change. So of course, Fourier transform, which de facto are  
+**[1013.54s] English:** But most people don't see it, right? And so on and so on, right? And then,...  
+**Translation:** 
+
+**[1019.14s] English:** You go to very complex mathematical changes. So, of course, the Fourier transform, which de facto are.  
 **Translation:** Vocabulary: facto: 实际上; fourier: 傅里叶变换
 
-**[1025.52s] English:** not Fourier transform, they are like discrete continuous transform, but that's the same idea.  
+**[1025.52s] English:** Not Fourier transform, they are like discrete-continuous transforms, but that's the same idea.  
 **Translation:** 
 
-**[1030.12s] English:** So frequency domain, we split the video by blocks, right? So that's why when it's wrongly  
-**Translation:** Vocabulary: discrete: 离散的
+**[1030.12s] English:** So, in the frequency domain, we split the video into blocks, right? That's why when it's wrongly  
+**Translation:** Vocabulary: transforms: 变换; wrongly: 错误地
 
-**[1036.10s] English:** decoded, you see those blocks and badly encoded, you see those blocks and so on to arrive to  
+**[1036.10s] English:** Decoded, you see those blocks; and badly encoded, you see those blocks, and so on to arrive at.  
 **Translation:** 
 
-**[1041.40s] English:** compression states that are insanely high, right? And each generation of the codec is like 30% less.  
-**Translation:** Vocabulary: encoded: 编码后的
+**[1041.40s] English:** Compression states that are insanely high, right? And each generation of the codec is about 30% less.  
+**Translation:** Vocabulary: compression: 压缩; decoded: 解码; encoded: 编码
 
-**[1048.98s] English:** For the same quality, right? And this requires amount of power, of computational power that are  
+**[1048.98s] English:** For the same quality, right? And this requires an amount of power, of computational power that are  
 **Translation:** 
 
-**[1055.26s] English:** huge.  
+**[1055.26s] English:** Huge.  
 **Translation:** Vocabulary: computational: 计算的
 
-**[1055.90s] English:** No, but you should elaborate. It's 30% better, but an order of magnitude, perhaps even two orders  
+**[1055.90s] English:** No, but you should elaborate. It's 30% better, but an order of magnitude—perhaps even two orders—of improvement.  
 **Translation:** 
 
-**[1061.94s] English:** of magnitude, more compression power. That's the big difference.  
+**[1061.94s] English:** Of magnitude, more compression power. That's the big difference.  
 **Translation:** Vocabulary: elaborate: 详细说明
 
 **[1065.64s] English:** What do you mean by compression power?  
 **Translation:** 
 
-**[1067.04s] English:** Sorry, CPU power to achieve that level of compression.  
+**[1067.04s] English:** Sorry, but CPU power is needed to achieve that level of compression.  
 **Translation:** 
 
-**[1069.38s] English:** Oh, yeah. So you have to be able to leverage the CPU and sometimes GPU, like you mentioned.  
+**[1069.38s] English:** Oh, yeah. So, you have to be able to leverage the CPU, and sometimes the GPU, as you mentioned.  
 **Translation:** 
 
 **[1073.60s] English:** And then we should mention that a lot of this programming is done,  
 **Translation:** Vocabulary: leverage: 充分利用
 
-**[1078.98s] English:** at the lowest.  
+**[1078.98s] English:** At the lowest.  
 **Translation:** 
 
-**[1080.00s] English:** possible stack whether it's c and of course as as the legendary twitter handle um re-emphasizes  
+**[1080.00s] English:** Possible stack; whether it's C, and of course, as the legendary Twitter handle @um_re emphasizes.  
+**Translation:** Vocabulary: emphasizes: 强调; legendary: 传奇的
+
+**[1087.92s] English:** Over and over, a lot of assembly. So, what happens is globally that you have an address, right?  
 **Translation:** 
 
-**[1087.92s] English:** over and over a lot of assembly so what happens is globally is that you have an address right  
-**Translation:** 
-
-**[1092.54s] English:** which gives you uh with the operating system a stream of bytes a stream of data right and this  
+**[1092.54s] English:** Which gives you, with the operating system, a stream of bytes, a stream of data, right? And this,...  
 **Translation:** Vocabulary: bytes: 字节; globally: 全球地
 
-**[1097.40s] English:** is the first step and the second step arise with demuxing where you're going to separate audio  
+**[1097.40s] English:** Is the first step, and the second step arises with demultiplexing, where you're going to separate audio.  
 **Translation:** 
 
-**[1101.96s] English:** video subtitle in type of different tracks and then on each of those tracks you're going to  
-**Translation:** Vocabulary: demuxing: 解多路; subtitle: 字幕
+**[1101.96s] English:** Video subtitles come in different tracks, and then on each of those tracks, you're going to  
+**Translation:** Vocabulary: demultiplexing: 信号解复用; subtitles: 字幕
 
-**[1107.00s] English:** decompress and decode them either audio with an audio codec video to video codec and subtitle to  
+**[1107.00s] English:** Decompress and decode them: either audio with an audio codec, video to a video codec, and subtitles to  
 **Translation:** 
 
-**[1112.68s] English:** subtitle codec and once you've decompressed those type of things you have raw images raw  
-**Translation:** Vocabulary: decompress: 解压; decompressed: 已解压
+**[1112.68s] English:** Subtitle codec, and once you've decompressed those types of things, you have raw images.  
+**Translation:** Vocabulary: decompress: 解压; decompressed: 已解压; subtitle: 字幕
 
-**[1118.68s] English:** and then you're going to talk to with your graphic card in your screen and display that and same for  
+**[1118.68s] English:** And then you're going to talk to your graphics card, which will display it on your screen, and the same for  
 **Translation:** 
 
-**[1123.34s] English:** the audio you're going to talk to your audio card which then is going to go in analog to to your  
+**[1123.34s] English:** The audio you're going to talk to your audio card, which then is going to go in analog to your  
 **Translation:** Vocabulary: analog: 模拟的
 
-**[1129.12s] English:** audio speakers and everything we've just said in the past couple of minutes every sentence is  
+**[1129.12s] English:** Audio speakers, and everything we've just said in the past couple of minutes—every sentence is  
 **Translation:** 
 
-**[1134.52s] English:** someone's lifetime's work there are books about every sentence  
+**[1134.52s] English:** Someone's lifetime's work; there are books about every sentence.  
 **Translation:** 
 
-**[1136.98s] English:** so the level of complexity in many cases is inordinate you know it's it's every sentence  
+**[1136.98s] English:** So, the level of complexity in many cases is inordinate. You know, it's like every sentence.  
 **Translation:** 
 
-**[1143.18s] English:** has thousands of people working on this in in industry as a whole books written about it so  
+**[1143.18s] English:** Has thousands of people working on this in the industry as a whole, with books written about it so.  
 **Translation:** Vocabulary: complexity: 复杂性; inordinate: 过度的
 
-**[1150.84s] English:** there's a lot of detail there's a lot of subtleties there's a lot of both  
+**[1150.84s] English:** There's a lot of detail, there are a lot of subtleties, and there's a lot of both.  
 **Translation:** 
 
-**[1155.12s] English:** academic and practical realities um both of which matter uh we mentioned codecs but i don't think  
-**Translation:** Vocabulary: subtleties: 细微差别
+**[1155.12s] English:** Academic and practical realities, both of which matter. Um, we mentioned codecs, but I don't think  
+**Translation:** Vocabulary: realities: 实际情况; subtleties: 细微差别
 
-**[1162.46s] English:** you mentioned containers so what what's the actual  
+**[1162.46s] English:** You mentioned containers, so what's the actual  
 **Translation:** 
 
-**[1166.72s] English:** container  
+**[1166.72s] English:** Container  
 **Translation:** 
 
-**[1166.96s] English:** for some of the stuff we're talking about so people are familiar with mp4 uh mov mkv so anyway  
+**[1166.96s] English:** For some of the stuff we're talking about, so people are familiar with MP4, .MOV, MKV, so anyway.  
 **Translation:** 
 
-**[1176.46s] English:** what what are containers versus uh the thing that goes inside so the container is what we call also  
+**[1176.46s] English:** What are containers, versus the thing that goes inside? So, the container is what we call it as well.  
 **Translation:** 
 
-**[1182.78s] English:** the muxer right when i said demuxing it means decontinizing right so actually if you look  
+**[1182.78s] English:** The muxer, right? When I said demuxing, it means de-continizing, right? So, actually, if you look,...  
 **Translation:** 
 
-**[1188.30s] English:** mux multiplexer and demultiplexer right mux and demux are those and same codec is actually coder  
-**Translation:** Vocabulary: demultiplexer: 解复用器; multiplexer: 复用器
+**[1188.30s] English:** Mux, multiplexer, and demultiplexer: right, mux and demux are those, and same codec is actually coder.  
+**Translation:** Vocabulary: demultiplexer: 解复用器; demuxing: 解复用; multiplexer: 复用器
 
-**[1196.52s] English:** decoder right um and um so  
+**[1196.52s] English:** Decoder, right? Um, and so...  
 **Translation:** 
 
-**[1200.00s] English:** So containers are this collection of multiple tracks, right?  
+**[1200.00s] English:** So, containers are this collection of multiple tracks, right?  
+**Translation:** Vocabulary: decoder: 解码器
+
+**[1204.02s] English:** So, it's what normal people call the file format.  
 **Translation:** 
 
-**[1204.02s] English:** So it's what normal people call the file format,  
-**Translation:** 
+**[1207.24s] English:** But it's a bit more subtle than that.  
+**Translation:** Vocabulary: subtle: 微妙
 
-**[1207.24s] English:** but it's a bit more subtle than that.  
-**Translation:** 
-
-**[1210.36s] English:** But the most known one, of course, is MP4.  
+**[1210.36s] English:** But the most well-known one, of course, is MP4.  
 **Translation:** 
 
 **[1212.92s] English:** But when I started, it was AVI, right?  
@@ -1036,31 +1037,31 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1215.62s] English:** AVI was the video format from Microsoft.  
 **Translation:** 
 
-**[1219.18s] English:** And MOV, M-O-V, which became MP4, was a format from Apple.  
+**[1219.18s] English:** And MOV (M-O-V), which became MP4, was a format from Apple.  
 **Translation:** 
 
-**[1224.06s] English:** In the open source community,  
+**[1224.06s] English:** In the open-source community,  
 **Translation:** 
 
-**[1225.34s] English:** one of the persons that is still active on Videoland  
-**Translation:** Vocabulary: videoland: 视频乐园
+**[1225.34s] English:** One of the persons who is still active on Videoland.  
+**Translation:** Vocabulary: videoland: 视频之地
 
-**[1227.64s] English:** is called Steve Lom and started this Matroska format,  
+**[1227.64s] English:** Is called Steve Lom, and he started this Matroska format.  
 **Translation:** 
 
-**[1231.48s] English:** which is a bit more complex and more feature-proof.  
-**Translation:** Vocabulary: matroska: 矩阵块
+**[1231.48s] English:** Which is a bit more complex and more feature-rich.  
+**Translation:** Vocabulary: matroska: 矩阵块容器格式
 
 **[1235.86s] English:** And there are so many others.  
 **Translation:** 
 
-**[1238.56s] English:** So, I mean, it's a pretty common thing,  
+**[1238.56s] English:** So, I mean, it's a pretty common thing.  
 **Translation:** 
 
-**[1240.58s] English:** and maybe it'll even happen in this conversation,  
+**[1240.58s] English:** And maybe it'll even happen in this conversation.  
 **Translation:** 
 
-**[1243.18s] English:** that people confuse container and the codec, right?  
+**[1243.18s] English:** That people confuse containers and codecs, right?  
 **Translation:** 
 
 **[1246.82s] English:** So they confuse MP4 and H.264, for example.  
@@ -1072,148 +1073,148 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1251.56s] English:** No, it's not.  
 **Translation:** 
 
-**[1252.24s] English:** Because technically, the name of H.264 is MPEG-4,  
+**[1252.24s] English:** Because technically, the name of H.264 is MPEG-4.  
+**Translation:** Vocabulary: technically: 实际上
+
+**[1257.64s] English:** Part 10: Because MPEG-4 is actually a meta-specification,  
 **Translation:** 
 
-**[1257.64s] English:** part 10, because MPEG-4 is actually a meta-specification,  
+**[1262.40s] English:** Which has several things in it, right?  
 **Translation:** 
 
-**[1262.40s] English:** which has several things in it, right?  
+**[1265.10s] English:** There is Part 2, so there are like audio codecs, right?  
 **Translation:** 
 
-**[1265.10s] English:** There is the part 2, so there is like audio codecs, right?  
+**[1269.30s] English:** AAC: The factor is MP4 audio, something.  
 **Translation:** 
 
-**[1269.30s] English:** AAC, the factor is MP4 audio, something.  
+**[1272.38s] English:** There are actually several video codecs, right?  
 **Translation:** 
 
-**[1272.38s] English:** There is actually several video codecs, right,  
-**Translation:** 
-
-**[1274.80s] English:** inside the MPEG-4 specification.  
+**[1274.80s] English:** Inside the MPEG-4 specification.  
 **Translation:** Vocabulary: specification: 规范
 
-**[1277.04s] English:** One of them is MPEG-4 part 10, called also AVC,  
+**[1277.04s] English:** One of them is MPEG-4 Part 10, also called AVC.  
 **Translation:** 
 
-**[1280.92s] English:** called also H.264, right?  
+**[1280.92s] English:** Called also H.264, right?  
 **Translation:** 
 
-**[1283.46s] English:** So it's completely the fault of the industry to make things,  
+**[1283.46s] English:** So, it's completely the fault of the industry to make things.  
 **Translation:** 
 
-**[1287.64s] English:** difficult to understand.  
+**[1287.64s] English:** Difficult to understand.  
 **Translation:** 
 
-**[1289.02s] English:** So that's very difficult, so that people then don't understand  
+**[1289.02s] English:** So that's very difficult, so that people don't understand.  
 **Translation:** 
 
-**[1292.60s] English:** why sometimes you talk about MPEG-4 part 10,  
+**[1292.60s] English:** Why do you sometimes talk about MPEG-4 Part 10?  
 **Translation:** 
 
-**[1295.32s] English:** where you mean H.264, and why it's not MP4.  
+**[1295.32s] English:** Where you mean H.264, and why it's not MP4.  
 **Translation:** 
 
-**[1298.32s] English:** So you can technically shove in all kinds of different codecs  
+**[1298.32s] English:** So, you can technically shove in all kinds of different codecs.  
 **Translation:** Vocabulary: shove: 硬塞
 
-**[1301.74s] English:** inside containers, and horribly so.  
+**[1301.74s] English:** Inside containers, and horribly so.  
 **Translation:** 
 
-**[1304.40s] English:** But broadly speaking, though, MP4 is understood to generally be  
-**Translation:** Vocabulary: horribly: 极其糟糕地
+**[1304.40s] English:** But, broadly speaking, MP4 is understood to generally be  
+**Translation:** Vocabulary: broadly: 大致上
 
 **[1309.08s] English:** H.264 plus AAC audio.  
 **Translation:** 
 
-**[1311.46s] English:** 99% of the time, that's that and that.  
+**[1311.46s] English:** 99% of the time, that's it and that.  
 **Translation:** 
 
-**[1314.80s] English:** The rest are de minimis, the small effects, you know,  
+**[1314.80s] English:** The rest are de minimis—the small effects, you know.  
 **Translation:** 
 
-**[1317.22s] English:** edge effects, really, compared to that.  
+**[1317.22s] English:** Edge effects, really, compared to that.  
 **Translation:** 
 
-**[1318.80s] English:** So it's not the end.  
+**[1318.80s] English:** So, it's not the end.  
 **Translation:** 
 
-**[1320.00s] English:** of the world that there are people who do get annoyed by that but also in reality something  
+**[1320.00s] English:** Of the world, that there are people who do get annoyed by that, but also in reality, something.  
 **Translation:** 
 
-**[1324.60s] English:** like vlc just to point out the file may say dot mp4 but it may be something completely different  
+**[1324.60s] English:** Like VLC, just to point out that a file might say ".mp4" but it may be something completely different.  
 **Translation:** 
 
-**[1330.26s] English:** and that's one of the challenges both ffmpeg and vlc have is the real world is a completely  
+**[1330.26s] English:** And that's one of the challenges both FFmpeg and VLC face: the real world is a completely  
 **Translation:** 
 
-**[1334.82s] English:** different place to a three-letter file format and this is very important to say right like  
+**[1334.82s] English:** Different places use a three-letter file format, and this is very important to say right away.  
 **Translation:** 
 
-**[1339.34s] English:** for example in vlc and ffmpeg we discard the file format right we we look into the file to  
+**[1339.34s] English:** For example, in VLC and FFmpeg, we discard the file format; we look into the file to  
 **Translation:** 
 
-**[1346.36s] English:** understand what's in it because so many people like they say oh it's a video it should must be  
+**[1346.36s] English:** Understand what's in it, because so many people, like they say, "oh, it's a video; it should be easy to follow.  
 **Translation:** 
 
-**[1351.52s] English:** mp4 but technically it's an mov or maybe it's a mkv right so we analyze in real time everything  
+**[1351.52s] English:** MP4, but technically it's an MOV or maybe it's an MKV, right? So we analyze in real time, everything.  
+**Translation:** Vocabulary: technically: 实际上
+
+**[1358.84s] English:** That we have, and we don't trust the format. So, what information does the fact that...  
 **Translation:** 
 
-**[1358.84s] English:** that we have and we don't trust uh the the format so what information does the fact that  
+**[1364.46s] English:** Is ".mp4" give you a hint, right? It helps, just like "oh, it's finished with .mp4.  
 **Translation:** 
 
-**[1364.46s] English:** is dot mp4 give you it helps right it gives you a hint right just like oh it's finished by dot mp4  
+**[1370.78s] English:** I will start first by opening and probing it with the MP4.  
 **Translation:** 
 
-**[1370.78s] English:** i will start first by opening probing it with the mp4  
+**[1376.18s] English:** Format  
+**Translation:** Vocabulary: probing: 试探
+
+**[1376.36s] English:** Container demuxer: To see, well, it should be that, but I don't trust it, and if I'm lost, I say okay.  
 **Translation:** 
 
-**[1376.18s] English:** format  
+**[1381.98s] English:** Maybe I'm going to try it, so it bumps the priority of the module. So, how do you get to?  
+**Translation:** Vocabulary: demuxer: 解复用器; module: 模块
+
+**[1388.16s] English:** Just to take a bit of a tangent, there. You know, the dumb thing is if you try the MP4, but it turns...  
 **Translation:** 
 
-**[1376.36s] English:** container demuxer to see well it should be that but i don't trust it and if i'm lost i say okay  
-**Translation:** 
-
-**[1381.98s] English:** maybe i'm going to try it so it bumps the priority of the module so how do you get to  
-**Translation:** 
-
-**[1388.16s] English:** just to take a bit of a tangent there you know the dumb thing is if you try the mp4 but it turns  
-**Translation:** 
-
-**[1395.68s] English:** out it's a different codec than you would have expected uh most players just break there yes  
+**[1395.68s] English:** It's a different codec than you would have expected. Most players just give up there, yes.  
 **Translation:** Vocabulary: tangent: 旁枝逸出
 
-**[1401.96s] English:** yes so how do you not break there's just a philosophically  
+**[1401.96s] English:** Yes, so how do you not break? There's just a philosophically  
 **Translation:** 
 
-**[1405.60s] English:** i'm sure you've heard of it but it's a different codec than you would have expected  
+**[1405.60s] English:** I'm sure you've heard of it, but it's a different codec than you would have expected.  
 **Translation:** Vocabulary: philosophically: 从哲学角度
 
-**[1406.34s] English:** sure there's a bunch of stumbling blocks along the way where you it's easy to just break and  
+**[1406.34s] English:** Sure, there are a bunch of stumbling blocks along the way where it's easy to just give up.  
 **Translation:** 
 
-**[1411.52s] English:** stop freak out that's it how does vlc not this is why vlc is popular um but the reason is because  
+**[1411.52s] English:** Stop, don't freak out. That's it. How come VLC isn't doing this? This is why VLC is popular, though. But the reason is because  
 **Translation:** Vocabulary: stumbling: 绊脚石
 
-**[1418.30s] English:** actually vlc was is just a client of a streaming solution called video land from from from very  
+**[1418.30s] English:** Actually, VLC is just a client of a streaming solution called Video Land from very.  
 **Translation:** 
 
-**[1426.24s] English:** long time ago from the late 90s and when you're playing video which are on udp right in network  
+**[1426.24s] English:** Long time ago, from the late 90s, and when you're playing videos that are on UDP over the network.  
 **Translation:** 
 
-**[1432.96s] English:** they might be damaged right so you don't trust your inputs and this is the reason why vlc is so popular  
+**[1432.96s] English:** They might be damaged, right? So, you don't trust your inputs, and this is the reason why VLC is so popular.  
 **Translation:** 
 
-**[1436.34s] English:** it's very important into the security is that you don't trust your inputs so  
+**[1436.34s] English:** It's very important for security that you don't trust your inputs so  
+**Translation:** Vocabulary: inputs: 输入内容
+
+**[1440.00s] English:** Everything in VLC is prepared to work with broken files.  
 **Translation:** 
 
-**[1440.00s] English:** everything in VLC is prepared to work with broken files.  
-**Translation:** 
+**[1446.26s] English:** And it's a philosophical idea from the beginning.  
+**Translation:** Vocabulary: philosophical: 哲学上的
 
-**[1446.26s] English:** And it's a philosophical idea from the beginning,  
-**Translation:** Vocabulary: philosophical: 哲学理念
-
-**[1449.94s] English:** and everything is engineered into that.  
+**[1449.94s] English:** And everything is engineered into that.  
 **Translation:** 
 
 **[1452.66s] English:** And it's a culture, right?  
@@ -1222,34 +1223,34 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1454.02s] English:** And so, for example,  
 **Translation:** 
 
-**[1455.54s] English:** and VLC became very popular on that  
+**[1455.54s] English:** And VLC became very popular on that.  
 **Translation:** 
 
-**[1457.28s] English:** because a long time ago when people were pirating content,  
+**[1457.28s] English:** Because a long time ago, when people were pirating content,  
 **Translation:** 
 
-**[1460.48s] English:** which they do a lot less today.  
-**Translation:** Vocabulary: pirating: 非法复制
+**[1460.48s] English:** Which they do a lot less today.  
+**Translation:** Vocabulary: pirating: 盗版
 
-**[1463.36s] English:** And none of us ever have.  
+**[1463.36s] English:** And none of us have ever.  
 **Translation:** 
 
 **[1464.68s] English:** No, of course not.  
 **Translation:** 
 
-**[1466.52s] English:** The metadata to place on files like AVI  
+**[1466.52s] English:** The metadata to place on files, like AVI,  
 **Translation:** 
 
-**[1469.04s] English:** is at the end of the file, right?  
-**Translation:** Vocabulary: metadata: 文件信息
+**[1469.04s] English:** Is it at the end of the file, right?  
+**Translation:** Vocabulary: metadata: 文件元数据
 
 **[1472.22s] English:** And when you're downloading, you don't have that, right?  
 **Translation:** 
 
-**[1474.52s] English:** So VLC was just like, hey, this file is broken,  
+**[1474.52s] English:** So, VLC was just like, "Hey, this file is broken,  
 **Translation:** 
 
-**[1477.14s] English:** but I'm still going to try to interpret it.  
+**[1477.14s] English:** But I'm still going to try to interpret it.  
 **Translation:** 
 
 **[1479.38s] English:** And this was very useful.  
@@ -1258,16 +1259,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1481.30s] English:** We hinted at the awesomeness of the various different stages.  
 **Translation:** 
 
-**[1485.34s] English:** We hinted at the awesomeness of codecs,  
-**Translation:** Vocabulary: awesomeness: 惊人的特性
+**[1485.34s] English:** We hinted at the awesomeness of codecs.  
+**Translation:** Vocabulary: awesomeness: 非凡之处; hinted: 暗示
 
-**[1487.64s] English:** the depth and the richness and the complexity  
+**[1487.64s] English:** The depth, and the richness, and the complexity.  
 **Translation:** 
 
-**[1489.52s] English:** of everything involved there.  
+**[1489.52s] English:** Of everything involved there.  
 **Translation:** Vocabulary: complexity: 复杂性
 
-**[1491.40s] English:** Let's try to define what is a video codec?  
+**[1491.40s] English:** Let's try to define what a video codec is?  
 **Translation:** 
 
 **[1495.70s] English:** What's involved there?  
@@ -1276,76 +1277,76 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1496.76s] English:** What does it mean to compress something?  
 **Translation:** 
 
-**[1498.24s] English:** You already started to hint at it,  
-**Translation:** Vocabulary: compress: 压缩
-
-**[1499.68s] English:** but can we elaborate a little bit more?  
+**[1498.24s] English:** You've already started to hint at it.  
 **Translation:** 
 
-**[1501.84s] English:** So there's a huge amount of redundancy in any video,  
-**Translation:** Vocabulary: elaborate: 详细说明; redundancy: 重复内容
-
-**[1505.08s] English:** both spatial and temporal.  
+**[1499.68s] English:** But, can we elaborate a little bit more?  
 **Translation:** 
 
-**[1507.04s] English:** And the point of any video codec  
+**[1501.84s] English:** So, there's a huge amount of redundancy in any video.  
+**Translation:** Vocabulary: elaborate: 详述; redundancy: 重复
+
+**[1505.08s] English:** Both spatial and temporal.  
+**Translation:** 
+
+**[1507.04s] English:** And the point of any video codec is  
 **Translation:** Vocabulary: spatial: 空间; temporal: 时间
 
-**[1508.68s] English:** is to remove this redundant data,  
+**[1508.68s] English:** Is to remove this redundant data.  
 **Translation:** 
 
-**[1510.92s] English:** use mathematical properties  
+**[1510.92s] English:** Use mathematical properties.  
 **Translation:** Vocabulary: mathematical: 数学的; redundant: 多余的
 
-**[1512.04s] English:** as part of this reduction process.  
+**[1512.04s] English:** As part of this reduction process.  
 **Translation:** 
 
-**[1514.38s] English:** So more often than not,  
+**[1514.38s] English:** So, more often than not,  
 **Translation:** 
 
-**[1515.56s] English:** using several orders of magnitude more compute to compress  
+**[1515.56s] English:** Using several orders of magnitude more compute to compress,...  
 **Translation:** 
 
-**[1518.40s] English:** because that's more costly versus,  
+**[1518.40s] English:** Because that's more costly versus,  
+**Translation:** Vocabulary: compress: 压缩; compute: 计算; costly: 昂贵
+
+**[1520.84s] English:** Both costly, both financially and in CPU resources.  
 **Translation:** 
 
-**[1520.84s] English:** both costly both financially and in CPU resources,  
-**Translation:** 
-
-**[1523.66s] English:** versus the decompression.  
+**[1523.66s] English:** Versus the decompression.  
 **Translation:** Vocabulary: decompression: 解压缩; financially: 经济上
 
-**[1525.10s] English:** So it's asymmetric in that respect.  
+**[1525.10s] English:** So, it's asymmetric in that respect.  
 **Translation:** 
 
-**[1527.42s] English:** Often the case is,  
+**[1527.42s] English:** Often, the case is,  
 **Translation:** Vocabulary: asymmetric: 不对称
 
-**[1528.22s] English:** because compression is done once,  
+**[1528.22s] English:** Because compression is done once,  
 **Translation:** 
 
-**[1529.84s] English:** but there could be lots of viewers of another file.  
+**[1529.84s] English:** But there could be lots of viewers of another file.  
+**Translation:** Vocabulary: compression: 压缩; viewers: 观众
+
+**[1533.16s] English:** So, to take that information and compress it by 100x or 200x,...  
 **Translation:** 
 
-**[1533.16s] English:** So to take that information and compress it by 100x, 200x,  
+**[1537.78s] English:** Removing redundant information.  
 **Translation:** 
 
-**[1537.78s] English:** removing redundant information  
+**[1540.00s] English:** And using mathematical properties to make that small.  
 **Translation:** 
 
-**[1540.00s] English:** and using mathematical properties to make that small,  
+**[1542.18s] English:** But also, it has properties such as error resilience.  
+**Translation:** Vocabulary: resilience: 抗压性
+
+**[1545.10s] English:** So, as JB suggested, VLC in the beginning was used to play  
 **Translation:** 
 
-**[1542.18s] English:** but also have properties such as error resilience.  
-**Translation:** Vocabulary: resilience: 抗干扰性
+**[1549.72s] English:** UDP network feeds, and UDP network feeds can lose packets.  
+**Translation:** Vocabulary: packets: 数据包
 
-**[1545.10s] English:** So as JB suggested, VLC in the beginning was used to play  
-**Translation:** 
-
-**[1549.72s] English:** UDP network feeds and UDP network feeds lose packets.  
-**Translation:** 
-
-**[1553.42s] English:** And so some of the design goals of a codec is also to be recoverable.  
+**[1553.42s] English:** And so, one of the design goals of a codec is also to be recoverable.  
 **Translation:** 
 
 **[1557.66s] English:** Mm-hmm.  
@@ -1360,7 +1361,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1561.22s] English:** You need to join, get on the decoding process, and start decoding.  
 **Translation:** 
 
-**[1566.18s] English:** And to give a more image to people who are not familiar, right?  
+**[1566.18s] English:** And to give people a clearer image of those who are not familiar, right?  
 **Translation:** 
 
 **[1571.46s] English:** Like when you're going to see any type of movie, right?  
@@ -1372,34 +1373,34 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1576.90s] English:** And travel.  
 **Translation:** 
 
-**[1578.04s] English:** And you realize that, for example, all the background is the same for like a minute, right?  
+**[1578.04s] English:** And you realize that, for example, all the background is the same for about a minute, right?  
 **Translation:** 
 
 **[1583.24s] English:** Or 30 seconds, right?  
 **Translation:** 
 
-**[1584.44s] English:** So you can reuse the cloud that you see on the background.  
+**[1584.44s] English:** So, you can reuse the cloud that you see in the background.  
 **Translation:** Vocabulary: reuse: 重复使用
 
-**[1588.22s] English:** You can reuse that from a frame to another, right?  
+**[1588.22s] English:** You can reuse that from one frame to another, right?  
 **Translation:** 
 
-**[1591.02s] English:** And so it gets the more memory you have, the more power, the more comparisons you can make, right?  
+**[1591.02s] English:** And so, it gets the more memory you have, the more power, the more comparisons you can make, right?  
 **Translation:** 
 
-**[1598.66s] English:** And so the more compressed you can be.  
+**[1598.66s] English:** And so, the more compressed you can be.  
 **Translation:** 
 
 **[1600.86s] English:** And most of the modern codecs are basically doing that.  
 **Translation:** Vocabulary: compressed: 压缩
 
-**[1604.70s] English:** So just to make it even more explicit.  
+**[1604.70s] English:** So, just to make it even more explicit.  
 **Translation:** 
 
-**[1607.34s] English:** So what is video?  
+**[1607.34s] English:** So, what is video?  
 **Translation:** Vocabulary: explicit: 明确的
 
-**[1608.84s] English:** Video is a bunch of pixels off an RGB.  
+**[1608.84s] English:** Video is a bunch of pixels from an RGB source.  
 **Translation:** 
 
 **[1613.38s] English:** You have three values.  
@@ -1411,41 +1412,41 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1617.76s] English:** And you have...  
 **Translation:** 
 
-**[1618.22s] English:** Let's say 24, 30, or 60 frames a second.  
+**[1618.22s] English:** Let's say 24, 30, or 60 frames per second.  
 **Translation:** 
 
 **[1623.98s] English:** And you just have all these pixels repeating and showing different stuff 30 times a second.  
 **Translation:** 
 
-**[1630.22s] English:** And so the question, the philosophical, the technical question is,  
+**[1630.22s] English:** And so the question—philosophical and technical—is:  
 **Translation:** 
 
-**[1634.62s] English:** how can I compress all of that, store all of that at 100x?  
+**[1634.62s] English:** How can I compress all of that and store it at 100x?  
 **Translation:** Vocabulary: compress: 压缩; philosophical: 哲学的
 
-**[1640.68s] English:** Or 1000x, right?  
+**[1640.68s] English:** Or 1,000x, right?  
 **Translation:** 
 
-**[1642.08s] English:** 1000x.  
+**[1642.08s] English:** 1,000x.  
 **Translation:** 
 
-**[1642.72s] English:** The target is 1000x, right?  
+**[1642.72s] English:** The target is 1,000x, right?  
 **Translation:** 
 
-**[1644.26s] English:** And the goal is, when you say redundancy,  
-**Translation:** Vocabulary: redundancy: 多余
+**[1644.26s] English:** And the goal is: when you say redundancy,  
+**Translation:** Vocabulary: redundancy: 多余的组件
 
-**[1647.76s] English:** what is redundant, meaning stuff at best that humans wouldn't notice if it was missing?  
+**[1647.76s] English:** What is redundant, meaning stuff at best that humans wouldn't notice if it was missing?  
 **Translation:** 
 
 **[1655.40s] English:** So, for example, you have a picture of a cloud, right?  
-**Translation:** 
+**Translation:** Vocabulary: redundant: 多余的
 
 **[1658.36s] English:** And from the next frame, they're still going to be the same cloud.  
 **Translation:** 
 
-**[1661.14s] English:** So it's redundant.  
-**Translation:** Vocabulary: redundant: 多余
+**[1661.14s] English:** So, it's redundant.  
+**Translation:** 
 
 **[1661.86s] English:** You could just put it once and not do it, right?  
 **Translation:** 
@@ -1453,10 +1454,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1664.24s] English:** Or you have a black background behind me, for example.  
 **Translation:** 
 
-**[1667.48s] English:** The black is the same on the whole picture, right?  
+**[1667.48s] English:** The black is the same throughout the entire picture, right?  
 **Translation:** 
 
-**[1669.30s] English:** So you can say, well, you know, in this picture, take the pixels that you have on the top left.  
+**[1669.30s] English:** So, you can say, "Well, you know, in this picture, take the pixels that you have on the top left.  
 **Translation:** 
 
 **[1674.08s] English:** And the one on the top right, I'm not going to give the value.  
@@ -1471,407 +1472,407 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[1679.42s] English:** And then you can.  
 **Translation:** 
 
-**[1680.00s] English:** say for frame one reuse something from the previous frame or the previous previous frame and so on and  
+**[1680.00s] English:** Say, for frame one, reuse something from the previous frame, or the previous, previous frame, and so on.  
 **Translation:** 
 
-**[1686.52s] English:** so on right so you could basically it's unlimited but then it's limited in terms of memory or in  
+**[1686.52s] English:** So, on the one hand, it's basically unlimited, but then it's limited in terms of memory or in  
+**Translation:** Vocabulary: reuse: 重复使用; unlimited: 无限制
+
+**[1693.92s] English:** Terms of compute power, because, for example, if you need to compare pixels on 200 frames in the past.  
 **Translation:** 
 
-**[1693.92s] English:** terms of compute power because for example if you need to compare pixels on 200 frames in the past  
+**[1700.14s] English:** On 4K resolutions, it's a huge amount of compute, and then when you're showing it, you have to do  
+**Translation:** Vocabulary: compute: 计算; pixels: 像素; resolutions: 分辨率
+
+**[1708.14s] English:** The decompression of all of that: is it the codec that has the encoding and decoding?  
 **Translation:** 
 
-**[1700.14s] English:** on 4k resolutions it's a huge amount of compute and then when you're showing it you have to do  
-**Translation:** Vocabulary: resolutions: 分辨率
+**[1715.54s] English:** There's a coupled process that you're developing, exactly right, and those are two different ones, um  
+**Translation:** Vocabulary: decompression: 减压; encoding: 编码
 
-**[1708.14s] English:** the decompress of all of that so is it the codec the has the encoding and the decoding is that  
+**[1720.66s] English:** Trade-offs, right? Are you going to compress more, but then it might be more difficult to...  
 **Translation:** 
 
-**[1715.54s] English:** there's a coupled process that you're developing exactly right and those are two different um  
-**Translation:** Vocabulary: decompress: 解压; encoding: 编码
+**[1726.86s] English:** Decode: Um, are you going to come up with a codec that is more complex to encode and easier?  
+**Translation:** Vocabulary: compress: 压缩; encode: 编码
 
-**[1720.66s] English:** trade-offs right are you going to compress more uh but then it might be more difficult to to to  
+**[1732.80s] English:** To decode, are you going to make a codec that is easier to encode because you need to be fast?  
 **Translation:** 
 
-**[1726.86s] English:** decode um are you going to come to make it a codec that is more complex to encode and easier  
-**Translation:** Vocabulary: encode: 编码
-
-**[1732.80s] English:** to decode are you going to make a codec that is easier to encode because you need to be fast  
+**[1737.06s] English:** But then the  
 **Translation:** 
 
-**[1737.06s] English:** but then the  
+**[1738.14s] English:** Client-side, the player is going to spend more time, which is why you have so many different types.  
 **Translation:** 
 
-**[1738.14s] English:** client side the player is going to spend more time that's why you have so many different type  
+**[1742.90s] English:** Of codecs, it's not always easy, and to make it even more complex, modern codecs like AV1 and AV2.  
 **Translation:** 
 
-**[1742.90s] English:** of codecs is that it's not always easy and to make it even more complex modern codecs like av1 av2  
+**[1750.18s] English:** Or, VVC are actually not codecs; they are a collection of tools. There are multiple tools.  
 **Translation:** 
 
-**[1750.18s] English:** or vvc are actually not codecs they are a collection of tools right there are multiple tools  
-**Translation:** 
-
-**[1755.82s] English:** multiple codecs in the same codec to depending on the image get the more compression so just to  
+**[1755.82s] English:** Multiple codecs in the same container can be used to achieve more compression, depending on the image. So, just to  
 **Translation:** Vocabulary: compression: 压缩
 
-**[1762.34s] English:** elaborate codecs like av1 vvc have a much wide have a wide audience it could be a screen share  
+**[1762.34s] English:** Elaborate codecs like AV1 and VVC have a much wider audience, it could be for screen sharing.  
 **Translation:** 
 
-**[1770.30s] English:** content it could be video it could be animation all of these require different coding tools  
-**Translation:** Vocabulary: elaborate: 复杂
+**[1770.30s] English:** Content: It could be video, it could be animation, all of these require different coding tools.  
+**Translation:** Vocabulary: elaborate: 复杂的
 
-**[1776.88s] English:** so what happens these days is a collection of tools are put in and called av1 and called av2  
+**[1776.88s] English:** So, what happens these days is that a collection of tools are put in and called AV1 and AV2.  
 **Translation:** 
 
-**[1783.48s] English:** called vvc to allow for different use cases so you may be on zoom and sharing your powerpoint  
-**Translation:** Vocabulary: powerpoint: 演示文稿
-
-**[1789.78s] English:** and then you need to show the audience a video  
+**[1783.48s] English:** Called VVC to allow for different use cases, so you may be on Zoom and sharing your PowerPoint.  
 **Translation:** 
 
-**[1791.58s] English:** that  
+**[1789.78s] English:** And then, you need to show the audience a video.  
 **Translation:** 
 
-**[1792.34s] English:** needs to start changing its tool set depending on the content to compress in a different way  
+**[1791.58s] English:** That  
 **Translation:** 
 
-**[1800.00s] English:** Like you said, there's a bunch of incredible engineers behind each part of that,  
-**Translation:** Vocabulary: compress: 压缩
+**[1792.34s] English:** Needs to start changing its tool set, depending on the content to compress in a different way.  
+**Translation:** 
 
-**[1803.64s] English:** each part of the tools that make up AV1, for example.  
+**[1800.00s] English:** Like you said, there's a bunch of incredible engineers behind each part of that.  
+**Translation:** 
+
+**[1803.64s] English:** Each part of the tools that make up AV1, for example.  
 **Translation:** 
 
 **[1805.74s] English:** Sure.  
 **Translation:** 
 
-**[1806.44s] English:** So we've kind of danced around it.  
+**[1806.44s] English:** So, we've kind of danced around it.  
 **Translation:** 
 
-**[1808.94s] English:** We talked about VLC, the logo, the hat.  
+**[1808.94s] English:** We talked about VLC, the logo, and the hat.  
 **Translation:** 
 
 **[1812.88s] English:** Let's talk about FFmpeg.  
 **Translation:** 
 
-**[1814.50s] English:** What is FFmpeg exactly?  
+**[1814.50s] English:** What is FFmpeg, exactly?  
 **Translation:** 
 
-**[1817.48s] English:** FFmpeg is basically the low-level libraries for codec,  
+**[1817.48s] English:** FFmpeg is basically the low-level libraries for codecs,  
 **Translation:** 
 
-**[1824.90s] English:** so compressions and decompression, muxes and demuxes and filters.  
-**Translation:** Vocabulary: compressions: 压缩; decompression: 解压
+**[1824.90s] English:** So, compressions and decompressions, muxes and demuxes, and filters.  
+**Translation:** Vocabulary: compressions: 压缩; decompressions: 解压; demuxes: 解多路复用
 
-**[1829.48s] English:** The core is this, and then you have several tools  
+**[1829.48s] English:** The core is this, and then you have several tools.  
 **Translation:** 
 
-**[1832.96s] English:** which allow you to create a type of pipeline to process any type of video files.  
-**Translation:** Vocabulary: pipeline: 数据管道
+**[1832.96s] English:** Which allows you to create a type of pipeline to process any type of video files.  
+**Translation:** Vocabulary: pipeline: 处理管道
 
-**[1838.22s] English:** And it's used as a library absolutely inside everything,  
+**[1838.22s] English:** And it's used as a library absolutely inside everything.  
 **Translation:** 
 
-**[1842.48s] English:** from VLC to Chrome to your smart TVs to basically any video that you see online.  
+**[1842.48s] English:** From VLC to Chrome to your smart TVs, to basically any video that you see online.  
 **Translation:** 
 
 **[1848.34s] English:** You usually use FFmpeg.  
 **Translation:** 
 
-**[1850.68s] English:** And FFmpeg in it has all those type of tools  
+**[1850.68s] English:** And FFmpeg has all those types of tools.  
 **Translation:** 
 
-**[1854.32s] English:** and sometimes depends on other libraries like x264, LibView,  
+**[1854.32s] English:** And sometimes it depends on other libraries like x264, LibView.  
 **Translation:** 
 
 **[1859.48s] English:** DPX and others, right?  
 **Translation:** 
 
-**[1860.98s] English:** So it's really now the de facto tool to process images.  
+**[1860.98s] English:** So, it's really now the de facto tool to process images.  
 **Translation:** 
 
 **[1866.00s] English:** From a philosophical level, I think it's incredible that your home videos,  
-**Translation:** Vocabulary: facto: 实际上; philosophical: 哲学的
+**Translation:** Vocabulary: facto: 实际上; philosophical: 哲学上
 
-**[1870.92s] English:** your grandmother's home videos and trillion-dollar corporations  
+**[1870.92s] English:** Your grandmother's home videos and trillion-dollar corporations.  
 **Translation:** 
 
-**[1874.50s] English:** effectively are on a level playing field using the same technology stack.  
-**Translation:** 
+**[1874.50s] English:** Effectively, they are on a level playing field, using the same technology stack.  
+**Translation:** Vocabulary: corporations: 大公司
 
 **[1880.52s] English:** It wouldn't be a surprise.  
 **Translation:** 
 
-**[1882.60s] English:** These big companies just have 3,000-line FFmpeg commands.  
+**[1882.60s] English:** These big companies just use 3,000-line FFmpeg commands.  
 **Translation:** 
 
-**[1887.20s] English:** There are some that use the API,  
+**[1887.20s] English:** There are some who use the API.  
 **Translation:** 
 
-**[1888.76s] English:** but there are some that just have long command lines.  
+**[1888.76s] English:** But there are some that just have long command lines.  
 **Translation:** 
 
-**[1891.88s] English:** So, yeah, there's a bunch of tools, like literally command line tool,  
+**[1891.88s] English:** So, yeah, there are a bunch of tools, like literally command-line tools,  
 **Translation:** 
 
-**[1895.54s] English:** FFmpeg, of course, FFprobe.  
+**[1895.54s] English:** FFmpeg, of course, and FFprobe.  
 **Translation:** 
 
-**[1898.32s] English:** There's libraries, LibAV Codec, LibAV Format, LibAV Filter.  
+**[1898.32s] English:** There are libraries: LibAV Codec, LibAV Format, and LibAV Filter.  
 **Translation:** 
 
-**[1903.44s] English:** But the FFmpeg on the command line is like legendary  
+**[1903.44s] English:** But the FFmpeg on the command line is like a legend.  
 **Translation:** 
 
-**[1908.48s] English:** because you can cut, there's so many parameters,  
+**[1908.48s] English:** Because you can cut, there are so many parameters.  
 **Translation:** 
 
-**[1912.00s] English:** you can customize everything to help.  
+**[1912.00s] English:** You can customize everything to help.  
 **Translation:** 
 
 **[1913.44s] English:** It's a language. It's an actual language.  
 **Translation:** 
 
-**[1915.12s] English:** It's an actual, yeah, you could think of it as a programming language.  
+**[1915.12s] English:** It's an actual programming language, yeah. You could think of it that way.  
 **Translation:** 
 
 **[1917.84s] English:** Yeah, of course, I'm sure.  
 **Translation:** 
 
-**[1918.76s] English:** Because, so most of...  
+**[1918.76s] English:** Because, so, most of...  
 **Translation:** 
 
-**[1920.00s] English:** people they're going to take ffmpeg file in file out and specify the format right but you can we've  
+**[1920.00s] English:** People are going to take an FFmpeg file, input it into File Out, and specify the format, right? But you can also do this.  
 **Translation:** 
 
-**[1925.92s] English:** seen thousands of characters and we've seen also like people like doing um programming um uh  
+**[1925.92s] English:** We've seen thousands of characters, and we've also seen people like doing programming, um, uh,...  
+**Translation:** Vocabulary: specify: 指定格式
+
+**[1933.08s] English:** Generation of common lines to make FFmpeg: there is a ton of people who are using AI to.  
 **Translation:** 
 
-**[1933.08s] English:** generation of common lines to to to make ffmpeg there is a ton of people who are using ai to  
+**[1938.34s] English:** Generate common lines for FFmpeg, because you have no idea what it is, but you can specify so many.  
 **Translation:** 
 
-**[1938.34s] English:** generate common lines for ffmpeg because you have no idea what it is but you can specify so many  
+**[1942.96s] English:** Filters are right on the common line, so FFmpeg is this collection of tools for multimedia.  
 **Translation:** 
 
-**[1942.96s] English:** filters right uh on common line right so um ffmpeg is this collection of toolbox for multimedia  
+**[1949.98s] English:** Processing that everyone uses, and everyone who is watching your videos are also.  
+**Translation:** Vocabulary: multimedia: 多种媒体
+
+**[1956.82s] English:** Using right, you're on YouTube. Well, it's FFmpeg on the client side, and your server-side setup is also using FFmpeg.  
 **Translation:** 
 
-**[1949.98s] English:** processing that everyone everyone uses and everyone that is watching your videos are also  
-**Translation:** Vocabulary: multimedia: 多种媒体; toolbox: 工具箱
+**[1962.98s] English:** Server-side, the client side is probably Chrome. Well, you're using FFmpeg, too, and you're  
+**Translation:** Vocabulary: setup: 配置
 
-**[1956.82s] English:** using right you you're on youtube well it's ffmpeg on on the client side well your server side on the  
+**[1967.78s] English:** Using OBS to record, well, it's FFmpeg, right? You're using a ton of important stuff, like big boxes.  
 **Translation:** 
 
-**[1962.98s] English:** server side the client side is probably chrome well you're using ffmpeg also and and you're  
+**[1972.78s] English:** Properties, and you're using FFmpeg to record. Well, it's FFmpeg, right? You're using a ton of它似乎被截断了，请提供完整的句子以便我进行修正。  
 **Translation:** 
 
-**[1967.78s] English:** using obs to record well it's ffmpeg right you're using a ton of important like big box  
+**[1972.94s] English:** Boxes, well, it's very possible that inside some part of FFmpeg is running. I mean, there's like so  
 **Translation:** 
 
-**[1972.78s] English:** properties and you're using ffmpeg to record well it's ffmpeg right you're using a ton of  
+**[1978.98s] English:** Many just to give people an idea: I use FFmpeg a lot for everything, just trivial stuff like  
+**Translation:** Vocabulary: trivial: 琐碎的事物
+
+**[1985.12s] English:** Take a video, add an intro video and an outro video, and fade one into the other, like... Uh, what?  
 **Translation:** 
 
-**[1972.94s] English:** boxes well it's very possible that inside some part of ffmpeg is running i mean there's like so  
-**Translation:** 
-
-**[1978.98s] English:** many just to give people an idea like i use ffmpeg a lot on everything just trivial stuff like  
-**Translation:** 
-
-**[1985.12s] English:** take a video add an intro video and an outro video and fade one into the other like uh what  
-**Translation:** 
-
-**[1993.48s] English:** is it called dip to black like where it dips and then shows the next video and does the same thing  
+**[1993.48s] English:** Is it called "dip" to black, like where it dips, and then shows the next video and does the same thing?  
 **Translation:** Vocabulary: intro: 开场视频
 
-**[1999.50s] English:** with audio uh there's like a cross dissolve of  
+**[1999.50s] English:** With audio, there's a cross-dissolve effect.  
 **Translation:** 
 
-**[2002.76s] English:** the audio it's a quiet it quiets the audio and makes it loud again and then there's a bunch of  
+**[2002.76s] English:** The audio: It's a quiet effect that quiets the audio and makes it loud again, and then there's a bunch of...  
 **Translation:** 
 
-**[2007.98s] English:** stuff like uh showing the captions on screen card like baking the captions in you can customize the  
+**[2007.98s] English:** Stuff like, uh, showing the captions on-screen card, like baking the captions in—you can customize the...  
 **Translation:** 
 
-**[2015.50s] English:** font you can do all kinds of layering of audio and video there's a million things and of course  
+**[2015.50s] English:** Font, you can do all kinds of layering of audio and video. There's a million things, and of course,  
 **Translation:** Vocabulary: captions: 字幕; layering: 叠加
 
-**[2022.56s] English:** all of that works like magically with basically any codec like anything you can shove in on the  
+**[2022.56s] English:** All of that works like magic with basically any codec; like, anything you can shove in will work.  
 **Translation:** 
 
-**[2031.52s] English:** audio and the video side it works it works it works it works it works it works it works it works it  
+**[2031.52s] English:** Audio and video, it works! It works! It works! It works! It works!  
 **Translation:** Vocabulary: shove: 强行插入
 
-**[2032.76s] English:** but it's like if you if you look at for example you can do things that you would do with adobe after effects  
+**[2032.76s] English:** But it's like, if you look at, for example, you can do things that you would do with Adobe After Effects.  
 **Translation:** 
 
-**[2040.00s] English:** come online on ffmpeg right it's it's very interesting because for example for for for  
+**[2040.00s] English:** Come online on FFmpeg, right? It's very interesting because, for example,  
 **Translation:** 
 
-**[2045.00s] English:** images there is not such tool there is a few tools but not with the breadth of ffmpeg so image magic  
+**[2045.00s] English:** Images: There is not such tool; there are a few tools, but they do not have the breadth of functionality that FFmpeg offers. So, ImageMagick falls short in this regard.  
 **Translation:** 
 
-**[2051.44s] English:** has a similar kind of yes but you will not do some filters complex filters you don't have the  
+**[2051.44s] English:** Has a similar kind of "yes, but" — you won't be able to use some complex filters; you don't have the  
+**Translation:** Vocabulary: functionality: 功能
+
+**[2057.42s] English:** The equivalent of Photoshop is coming online, right? But for video, you have FFmpeg, come online, yeah.  
 **Translation:** 
 
-**[2057.42s] English:** equivalent of photoshop in come online right but you for video you have ffmpeg in come online yeah  
+**[2062.86s] English:** It's incredible; I mean, it's like an example of what happens when a bunch of great people get together.  
 **Translation:** 
 
-**[2062.86s] English:** it's incredible i mean it's like it's an example of a thing when a bunch of great people get  
+**[2067.62s] English:** Together, they get a vision and stick by that vision for many years, which is incredible.  
 **Translation:** 
 
-**[2067.62s] English:** together and they get a vision and they stick by that vision for many years which is incredible  
+**[2073.52s] English:** And the vision behind VLC and FFmpeg is that we make everything that is  
 **Translation:** 
 
-**[2073.52s] English:** and the vision behind and the same for vlc and ffmpeg is that we make every everything that is  
+**[2080.66s] English:** Very complex, yet easy to use for normal people and everyone, right? Our goal is to make something.  
 **Translation:** 
 
-**[2080.66s] English:** very complex easy to use for the normal people for everyone right our goal is to make something  
+**[2087.06s] English:** That is insanely complex technically, and make it easy to use, right? And people use VLC, they  
+**Translation:** Vocabulary: technically: 在技术上
+
+**[2093.24s] English:** Drop a file; they don't realize how complex the file is, but they play it.  
 **Translation:** 
 
-**[2087.06s] English:** that is insanely complex technically and make it easy to use right and and people they use vlc they  
+**[2097.62s] English:** Or, people can put any type of thing inside FFmpeg with complex filters, and it just works like  
 **Translation:** 
 
-**[2093.24s] English:** drop a file they don't realize how complex the file is but they play it  
+**[2103.08s] English:** Magically, it's right, and people: and this is our mission—to make very complex things, or we wouldn't be here.  
 **Translation:** 
 
-**[2097.62s] English:** or people put any type of thing inside ffmpeg with complex filters and it just works like  
+**[2109.02s] English:** And you wouldn't be here if this required, you know, a traditional television studio setup.  
+**Translation:** Vocabulary: setup: 搭建
+
+**[2115.24s] English:** It's tools like FFmpeg that democratize this podcast and streaming revolution, YouTube.  
 **Translation:** 
 
-**[2103.08s] English:** magically right and people and this is our mission right make very complex things we wouldn't be here  
+**[2121.04s] English:** The revolution was caused, you know, FFmpeg was a big player in that because it democratized this.  
+**Translation:** Vocabulary: democratize: 使大众化; democratized: 已经使大众化
+
+**[2127.62s] English:** It was once in the 1990s, for example, you needed equipment that cost hundreds of thousands.  
 **Translation:** 
 
-**[2109.02s] English:** and you wouldn't be here if this required you know a traditional television studio setup  
-**Translation:** Vocabulary: setup: 设备配置
-
-**[2115.24s] English:** it's tools like ffmpeg that democratize this the the podcast and streaming revolution the youtube  
-**Translation:** 
-
-**[2121.04s] English:** revolution was caused you know ffmpeg was a big player in that because it democratized this  
-**Translation:** Vocabulary: democratize: 使大众化; democratized: 使大众化
-
-**[2127.62s] English:** it was once in the in the 90s for example you needed equipment that cost hundreds of thousands  
-**Translation:** 
-
-**[2133.50s] English:** of dollars to do compression it was the size of a car and now everybody has that at almost an exact  
+**[2133.50s] English:** Of dollars to do compression, it was the size of a car, and now everybody has that at almost an exact.  
 **Translation:** Vocabulary: compression: 压缩
 
-**[2139.66s] English:** level playing field and that's something that's so remarkable it gave voice to a lot of people  
+**[2139.66s] English:** A level playing field, and that's something so remarkable it gave voice to a lot of people.  
 **Translation:** 
 
-**[2144.18s] English:** and we just to clarify we say you you wouldn't be here not the human but the podcast  
+**[2144.18s] English:** And we just want to clarify: we say you wouldn't be here, not the human, but the podcast.  
+**Translation:** Vocabulary: clarify: 澄清
+
+**[2148.96s] English:** VLC did not have anything to do on the biological level.  
 **Translation:** 
 
-**[2148.96s] English:** vlc did not have anything to do on the biological level  
+**[2154.54s] English:** Creating me as a human, you realize?  
 **Translation:** 
 
-**[2154.54s] English:** creating me as a human you realize  
+**[2157.62s] English:** So, everything moved from text to  
 **Translation:** 
 
-**[2157.62s] English:** so everything moved from text to  
+**[2160.00s] English:** Images and images to video, right? Look how look at social networks; video is everywhere, it's the most  
 **Translation:** 
 
-**[2160.00s] English:** images and images to video right look look at social networks video is everywhere it's the most  
+**[2165.74s] English:** Powerful, um, medium — there is, right? And when you see shorts and in reels and on TikTok, right?  
 **Translation:** 
 
-**[2165.74s] English:** powerful um medium there is right and and when you see shorts and and in reels and in tiktok right  
-**Translation:** 
-
-**[2172.84s] English:** it's amazingly powerful to to to give video is amazing for that right but the complexity is  
+**[2172.84s] English:** It's amazingly powerful to give video a chance, especially for that purpose, right? But the complexity is...  
 **Translation:** Vocabulary: complexity: 复杂性; reels: 短视频
 
-**[2179.42s] English:** important it's what people don't realize i mean this is really it gave power to the individual  
+**[2179.42s] English:** Important; it's what people don't realize. I mean, this is really what gave power to the individual.  
 **Translation:** 
 
-**[2186.58s] English:** all across the world it's real freedom and i think i can't believe it but we still haven't  
+**[2186.58s] English:** All across the world, it's real freedom, and I think I can't believe it, but we still haven't.  
 **Translation:** 
 
-**[2191.48s] English:** mentioned the actual obvious thing for people who are not familiar which it's open source and  
+**[2191.48s] English:** Mentioned the actual, obvious thing for people who are not familiar: it's open source and  
 **Translation:** 
 
-**[2198.24s] English:** there's a open source community of users and developers behind it so it's really it's a  
+**[2198.24s] English:** There's an open-source community of users and developers behind it, so it's really a  
 **Translation:** 
 
-**[2205.00s] English:** movement so like we'll talk a bunch in a bunch of different ways about the community behind it but  
+**[2205.00s] English:** Movement: So, like, we'll talk a bunch in a bunch of different ways about the community behind it, but...  
 **Translation:** 
 
-**[2209.80s] English:** uh can you speak to the open source element so when we say what is ffmpeg it's an open source  
+**[2209.80s] English:** Uh, can you speak to the open-source element? So, when we say what is FFmpeg, it's an open-source project.  
 **Translation:** 
 
-**[2216.58s] English:** project yeah so ffmpeg vlc x264 video and everything we do is fully open source and for  
+**[2216.58s] English:** Project, yeah, so FFmpeg, VLC, x264, video—and everything we do—is fully open source and free.  
 **Translation:** 
 
-**[2223.30s] English:** the people who don't understand how open source is my usual analogy is about a chocolate cheesecake  
-**Translation:** Vocabulary: cheesecake: 蛋糕例子
+**[2223.30s] English:** The people who don't understand how open source works often use the analogy of a chocolate cheesecake.  
+**Translation:** Vocabulary: analogy: 类比; cheesecake: 奶酪蛋糕
 
-**[2227.80s] English:** right um usually for you when you want to buy your cheesecake you go to a bakery they give you the  
+**[2227.80s] English:** Right, um, usually when you want to buy a cheesecake, you go to a bakery, and they give you the  
 **Translation:** 
 
-**[2232.84s] English:** cheesecake um the other one way of having a cheesecake is have your grandma give you a  
+**[2232.84s] English:** Cheesecake: Um, the other way of having a cheesecake is to have your grandma give you one.  
+**Translation:** Vocabulary: bakery: 面包房
+
+**[2237.50s] English:** Recipe of how to make it: when we do open source, we give you the chocolate cake and we give you  
 **Translation:** 
 
-**[2237.50s] English:** recipe of how to make that when we do open source we give you the chocolate cake and we give you  
+**[2243.28s] English:** The recipe to actually remake the same cake.  
+**Translation:** Vocabulary: recipe: 做法; remake: 重新制作
+
+**[2246.58s] English:** But at the same time, tell you how to build the oven and also how you are allowed to modify it.  
 **Translation:** 
 
-**[2243.28s] English:** the recipe to actually remake the same cake  
-**Translation:** Vocabulary: remake: 重新制作
+**[2252.94s] English:** Recipe and resell it to someone else, yeah, and this is because software is just a very long recipe of instructions.  
+**Translation:** Vocabulary: resell: 重新出售
 
-**[2246.58s] English:** but at the same time tell you how to build the oven and also how you're allowed to modify the  
+**[2258.88s] English:** Small instructions: Computers are not very clever; they go very, very fast. So, a normal program has  
 **Translation:** 
 
-**[2252.94s] English:** recipe and resell it to someone else yeah and this is because software is just a very long recipe of  
-**Translation:** Vocabulary: resell: 重新销售
-
-**[2258.88s] English:** small instruction computers are not very clever they go very very fast so a normal program has  
+**[2265.12s] English:** Tens of billions of instructions, instead of just "tens," when you have your chocolate recipe, so  
 **Translation:** 
 
-**[2265.12s] English:** tens of billions of instruction instead of the tens when you have your chocolate recipe so  
+**[2270.64s] English:** A lot of the software industry was about selling software, like where you just have the final product.  
 **Translation:** 
 
-**[2270.64s] English:** a lot of the software industry was about selling software like where you just have like the final  
-**Translation:** 
-
-**[2276.58s] English:** step and that's what we have here in open source we make we give you everything  
+**[2276.58s] English:** Step, and that's what we have here in open source: we make and give you everything.  
 **Translation:** 
 
 **[2280.00s] English:** And that managed to get a lot of people to work together, right?  
 **Translation:** 
 
-**[2284.52s] English:** Because then you decide that you're going to make the best program,  
+**[2284.52s] English:** Because then you decide that you're going to make the best program.  
 **Translation:** 
 
-**[2287.72s] English:** the best recipe for video, and you create communities.  
+**[2287.72s] English:** The best recipe for video, and you can create communities.  
 **Translation:** 
 
-**[2291.42s] English:** In FFmpeg, since the beginning of FFmpeg,  
+**[2291.42s] English:** In FFmpeg, since the beginning of FFmpeg:  
 **Translation:** 
 
-**[2294.42s] English:** probably 2,000 to 3,000 people have contributed from the beginning, right?  
+**[2294.42s] English:** Probably 2,000 to 3,000 people have contributed from the beginning, right?  
 **Translation:** 
 
 **[2299.50s] English:** And then it's exactly like the Linux kernel, right?  
-**Translation:** 
+**Translation:** Vocabulary: kernel: 内核
 
 **[2301.82s] English:** The Linux kernel has probably 10,000 people contributing everywhere.  
 **Translation:** 
 
 **[2305.52s] English:** And they get together, well, mostly online, right?  
-**Translation:** Vocabulary: kernel: 内核
-
-**[2309.42s] English:** So they virtually get together to create the best tool for something.  
 **Translation:** 
 
-**[2314.48s] English:** And on FFmpeg and VLC, it's just like, well, this codec doesn't work.  
+**[2309.42s] English:** So, they virtually get together to create the best tool for something.  
 **Translation:** 
 
-**[2320.20s] English:** So I'm going to work on the codec,  
+**[2314.48s] English:** And on FFmpeg and VLC, it's just like, "well, this codec doesn't work.  
+**Translation:** Vocabulary: virtually: 实际上
+
+**[2320.20s] English:** So, I'm going to work on the codec.  
 **Translation:** 
 
-**[2321.92s] English:** and I'm going to add the support for this file inside FFmpeg  
+**[2321.92s] English:** And I'm going to add support for this file inside FFmpeg.  
 **Translation:** 
 
-**[2325.50s] English:** so it will be beneficial to everyone.  
+**[2325.50s] English:** So, it will be beneficial to everyone.  
 **Translation:** 
 
-**[2328.06s] English:** Because again, we work for the greater good.  
-**Translation:** 
+**[2328.06s] English:** Because, again, we work for the greater good.  
+**Translation:** Vocabulary: beneficial: 有益的
 
 **[2329.98s] English:** We work for everyone.  
 **Translation:** 
@@ -1882,14 +1883,14 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2334.12s] English:** And we should mention, depending on the licensing,  
 **Translation:** 
 
-**[2337.66s] English:** you could probably build it.  
+**[2337.66s] English:** You could probably build it.  
 **Translation:** 
 
-**[2339.58s] English:** You could build a billion-dollar, maybe even a trillion-dollar company  
+**[2339.58s] English:** You could build a billion-dollar, maybe even a trillion-dollar company.  
 **Translation:** 
 
-**[2343.16s] English:** around this as a wrapper.  
-**Translation:** 
+**[2343.16s] English:** Around this, use it as a wrapper.  
+**Translation:** Vocabulary: wrapper: 包装外层
 
 **[2347.20s] English:** Well, yes, people do.  
 **Translation:** 
@@ -1897,71 +1898,71 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2349.00s] English:** People do, right?  
 **Translation:** 
 
-**[2349.84s] English:** There was a lot of problems with mostly cloud providers  
+**[2349.84s] English:** There were a lot of problems with mostly cloud providers.  
 **Translation:** 
 
-**[2354.22s] English:** who are basically running some open source tools in the cloud  
+**[2354.22s] English:** Who are basically running some open-source tools in the cloud?  
+**Translation:** Vocabulary: providers: 供应商
+
+**[2358.90s] English:** And just give you the API to access that.  
 **Translation:** 
 
-**[2358.90s] English:** and just give you the API to access to that.  
+**[2362.34s] English:** And there were a lot of databases, like MongoDB or Elasticsearch.  
+**Translation:** Vocabulary: databases: 数据库; elasticsearch: 搜索引擎
+
+**[2367.44s] English:** Who changed their license in order to avoid...?  
 **Translation:** 
 
-**[2362.34s] English:** And there was a lot of databases like Mongo or Elastic  
-**Translation:** Vocabulary: databases: 数据库; elastic: 弹性; mongo: MongoDB
-
-**[2367.44s] English:** who changed their license in order to avoid...  
-**Translation:** 
-
-**[2369.42s] English:** to avoid those type of scenarios.  
+**[2369.42s] English:** To avoid those types of scenarios.  
 **Translation:** Vocabulary: scenarios: 情景
 
-**[2371.54s] English:** This is a question we get a lot in FFmpeg is,  
+**[2371.54s] English:** This is a question we get a lot in FFmpeg:  
 **Translation:** 
 
-**[2374.00s] English:** why don't you do that?  
+**[2374.00s] English:** Why don't you do that?  
 **Translation:** 
 
 **[2375.70s] English:** And you can't.  
 **Translation:** 
 
-**[2376.42s] English:** We have thousands of contributors,  
+**[2376.42s] English:** We have thousands of contributors.  
 **Translation:** Vocabulary: contributors: 贡献者
 
-**[2377.84s] English:** some of whom aren't even alive anymore.  
+**[2377.84s] English:** Some of whom, however, are no longer alive.  
 **Translation:** 
 
 **[2380.38s] English:** You would need all of their agreement to do that.  
 **Translation:** 
 
-**[2382.86s] English:** And JB will go maybe a bit later and talk about  
+**[2382.86s] English:** And JB will go maybe a bit later and talk about.  
 **Translation:** 
 
-**[2384.88s] English:** how challenging that process was in VLC to do the relicensing.  
+**[2384.88s] English:** How challenging that process was in VLC to do the relicensing.  
 **Translation:** Vocabulary: relicensing: 重新授权
 
-**[2389.24s] English:** The license is a social contract in terms of Rousseau,  
+**[2389.24s] English:** The license is a social contract, in terms of Rousseau.  
 **Translation:** 
 
-**[2393.18s] English:** de facto, of the community.  
+**[2393.18s] English:** De facto, it is part of the community.  
 **Translation:** Vocabulary: facto: 实际上; rousseau: 卢梭
 
-**[2395.28s] English:** The community does not agree on much,  
+**[2395.28s] English:** The community does not agree on much.  
 **Translation:** 
 
-**[2398.78s] English:** besides the license,  
+**[2398.78s] English:** Besides the license,  
 **Translation:** 
 
-**[2399.42s] English:** people...  
+**[2399.42s] English:** People...  
 **Translation:** 
 
-**[2400.00s] English:** People go around, discuss around because of the license.  
+**[2400.00s] English:** People go around and discuss around because of the license.  
 **Translation:** 
 
 **[2404.64s] English:** And that also allows those license forks, right?  
 **Translation:** 
 
-**[2406.88s] English:** Sometimes the community splits, but it's possible because of the license then to merge back.  
-**Translation:** 
+**[2406.88s] English:** Sometimes the community splits, but it's possible to merge back because of the license.  
+**Translation:** Vocabulary: splits: 分裂
 
 **[2412.10s] English:** And we've seen that so many times, right?  
 **Translation:** 
@@ -1972,13 +1973,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2417.92s] English:** We have seen, for example, all the web browsers, right?  
 **Translation:** 
 
-**[2420.24s] English:** They started as KHML, which becomes WebKit, and then which becomes Blink, right?  
+**[2420.24s] English:** They started as KHML, which becomes WebKit, and then becomes Blink, right?  
 **Translation:** Vocabulary: browsers: 浏览器
 
-**[2424.78s] English:** So, open source license is like the core of the community.  
+**[2424.78s] English:** So, an open-source license is like the core of the community.  
 **Translation:** 
 
-**[2430.82s] English:** And people are coming from all around the world, very different type of religion, political borders.  
+**[2430.82s] English:** And people are coming from all around the world, very different types of religions and political borders.  
 **Translation:** 
 
 **[2439.72s] English:** They work in the same way on a project to solve a specific problem.  
@@ -1987,34 +1988,34 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2445.44s] English:** And the specific problem we're working on is to make multimedia easy for everyone.  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[2450.16s] English:** Looking it up on Proplexity here, looking at the different open source licenses.  
+**[2450.16s] English:** Looking it up on Proplexity here, I'm looking at the different open-source licenses.  
 **Translation:** 
 
-**[2453.64s] English:** Most major open source licenses fall into two buckets.  
+**[2453.64s] English:** Most major open-source licenses fall into two buckets.  
 **Translation:** 
 
-**[2458.22s] English:** Permissive, very few conditions, and copy left.  
+**[2458.22s] English:** Permissive, very few conditions, and copyleft.  
 **Translation:** 
 
-**[2461.56s] English:** Share alike requirements for derivatives.  
-**Translation:** Vocabulary: derivatives: 派生作品; permissive: 宽松的
+**[2461.56s] English:** Share-Alike Requirements for Derivatives.  
+**Translation:** Vocabulary: copyleft: 允许自由使用的版权; derivatives: 衍生作品; permissive: 宽松的
 
-**[2464.02s] English:** Below is a brief practical summary of the main ones you'll see in the wild.  
+**[2464.02s] English:** Below is a brief, practical summary of the main ones you'll see in the wild.  
 **Translation:** 
 
-**[2468.52s] English:** MIT license, BSD, ISC, Apache, GNU GPL, GNU AGPL.  
-**Translation:** 
+**[2468.52s] English:** MIT License, BSD, ISC, Apache, GNU GPL, GNU AGPL.  
+**Translation:** Vocabulary: apache: 阿帕奇许可
 
-**[2479.96s] English:** Where's LGPL?  
+**[2479.96s] English:** Where's the LGPL?  
 **Translation:** 
 
 **[2480.72s] English:** Yeah, LGPL.  
 **Translation:** 
 
-**[2483.64s] English:** There's the Mozilla public license.  
+**[2483.64s] English:** There's the Mozilla Public License.  
 **Translation:** 
 
-**[2486.02s] English:** There's Eclipse public license.  
+**[2486.02s] English:** There's the Eclipse Public License.  
 **Translation:** Vocabulary: eclipse: 日食
 
 **[2487.78s] English:** It goes on.  
@@ -2023,7 +2024,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2488.74s] English:** There's a lot of variety.  
 **Translation:** 
 
-**[2489.98s] English:** I mean, I think the really popular ones is MIT, GPL, LGPL.  
+**[2489.98s] English:** I mean, I think the really popular ones are MIT, GPL, and LGPL.  
 **Translation:** 
 
 **[2494.80s] English:** And BSD.  
@@ -2032,14 +2033,14 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2495.54s] English:** And BSD, Apache, sometimes you'll see.  
 **Translation:** 
 
-**[2498.18s] English:** Apache as well.  
-**Translation:** Vocabulary: apache: Apache软件
+**[2498.18s] English:** Apache, as well.  
+**Translation:** 
 
 **[2498.88s] English:** On license, that's an option.  
 **Translation:** 
 
 **[2500.44s] English:** Attempts to dedicate code to the public domain with a fallback permissive license.  
-**Translation:** Vocabulary: fallback: 备用方案
+**Translation:** Vocabulary: dedicate: 献给公共领域; fallback: 备选许可
 
 **[2503.84s] English:** There are many licenses for many different things.  
 **Translation:** 
@@ -2050,73 +2051,73 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2511.26s] English:** So, it's all the...  
 **Translation:** 
 
-**[2513.64s] English:** The open source licensing use the copyright law, right?  
+**[2513.64s] English:** The open-source licensing uses copyright law, right?  
 **Translation:** 
 
-**[2517.48s] English:** The international copyright law in order to give...  
+**[2517.48s] English:** The international copyright law, in order to give,...  
 **Translation:** 
 
-**[2520.00s] English:** rights on how you use the software or how you modify it's de facto a copyright license contract  
+**[2520.00s] English:** Rights on how you use the software or how you modify it's de facto a copyright license contract.  
 **Translation:** Vocabulary: facto: 实际上
 
-**[2527.04s] English:** that you give to the end user or to the developer and so you have like the first one which are  
+**[2527.04s] English:** That you give to the end user or to the developer, and so you have the first one, which are  
 **Translation:** 
 
-**[2532.18s] English:** basically very permissive mit bsd you give the code and basically you do whatever you want right  
+**[2532.18s] English:** Basically, it's a very permissive MIT/BSD license: you give the code, and basically you can do whatever you want, right?  
 **Translation:** 
 
-**[2537.98s] English:** you take it you want you modify you do what you want um and this is popular for uh javascript  
+**[2537.98s] English:** You can take it, modify it, do what you want, and this is popular for JavaScript.  
 **Translation:** 
 
-**[2545.82s] English:** and the type of bsd operating system so some of them one of the parameters is whether they  
+**[2545.82s] English:** And the type of BSD operating system; so, some of them have one of the parameters is whether they  
 **Translation:** 
 
-**[2552.02s] English:** require attribution meaning if you use the code you have to say yes so in those type of permissive  
+**[2552.02s] English:** Require attribution: meaning, if you use the code, you have to say "yes." So, in those types of permissive licenses,...  
 **Translation:** 
 
-**[2557.96s] English:** license some you need to say if you use it which is called attribution and some you don't and then  
-**Translation:** Vocabulary: attribution: 出处说明
+**[2557.96s] English:** License: Some you need to say if you use it, which is called attribution, and some you don't, and then...  
+**Translation:** Vocabulary: attribution: 出处; permissive: 许可的
 
-**[2562.92s] English:** there is a the other part of license which are copy left where you need to give back to the  
+**[2562.92s] English:** There is another part of the license that involves copyleft, where you need to give back to the community.  
 **Translation:** 
 
-**[2569.30s] English:** community your modifications and with different string attached um some weak uh copy left  
-**Translation:** Vocabulary: modifications: 修改
+**[2569.30s] English:** Community, your modifications and with different strings attached; um, some weak copy-left.  
+**Translation:** Vocabulary: copyleft: copyleft条款; modifications: 修改
 
-**[2575.64s] English:** license and then you need to give back to the community your modifications and with different  
+**[2575.64s] English:** License, and then you need to give back to the community your modifications, and with different  
 **Translation:** 
 
-**[2575.80s] English:** license like um the mozilla public license to some which are a bit stronger uh like gpl or even  
+**[2575.80s] English:** License, like, um, the Mozilla Public License to some that are a bit stronger, uh, like GPL or even  
 **Translation:** 
 
-**[2582.44s] English:** very strong like a gpl so all of those are different um type of licensing that depends on  
+**[2582.44s] English:** Very strong, like a GPL. So, all of those are different types of licensing that depend on  
 **Translation:** 
 
-**[2588.80s] English:** what your goal are and how you want to structure your community which is why i spoke about social  
+**[2588.80s] English:** What are your goals, and how do you want to structure your community? That's why I spoke about social.  
 **Translation:** 
 
-**[2593.16s] English:** contract because this is very important to understand ffmpeg and vlc are mostly gpl or  
+**[2593.16s] English:** Contract, because this is very important to understand: FFmpeg and VLC are mostly GPL or  
 **Translation:** 
 
-**[2600.56s] English:** lgpl the linux kernel is gpl but android is  
+**[2600.56s] English:** LGPL, the Linux kernel is GPL, but Android is  
 **Translation:** Vocabulary: kernel: 内核
 
-**[2605.62s] English:** apache uh a ton of uh javascript framework that are using mostly mit um all the bsd kernels open  
+**[2605.62s] English:** Apache, a ton of JavaScript frameworks that are using mostly MIT, and all the BSD kernels are open-source.  
 **Translation:** 
 
-**[2614.46s] English:** bsd netbsd are of course bsd um and and so the it's philosophical change on how you want people  
-**Translation:** Vocabulary: kernels: 内核; philosophical: 哲学的
+**[2614.46s] English:** BSD, NetBSD are of course BSD, um, and so the it's a philosophical change on how you want people.  
+**Translation:** Vocabulary: apache: 阿帕奇; kernels: 内核; philosophical: 哲学性的
 
-**[2622.36s] English:** to contribute back basically so there's uh i think you talked about that uh you've moved at  
+**[2622.36s] English:** To contribute back, basically, so there's, I think you talked about that; you've moved at  
 **Translation:** 
 
-**[2629.90s] English:** one point from gpl to lgpl on certain parts of the project what what can you describe the  
+**[2629.90s] English:** One point from GPL to LGPL on certain parts of the project: What can you describe?  
 **Translation:** 
 
-**[2635.62s] English:** difference between the two and what does it take to move to i guess a more permissive  
+**[2635.62s] English:** The difference between the two, and what does it take to move to, I guess, a more permissive environment?  
 **Translation:** 
 
-**[2640.00s] English:** So that direction is more permissive.  
+**[2640.00s] English:** So, that direction is more permissive.  
 **Translation:** Vocabulary: permissive: 宽容的
 
 **[2642.06s] English:** LGPL is more permissive than GPL.  
@@ -2125,46 +2126,46 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2643.92s] English:** Yeah.  
 **Translation:** 
 
-**[2644.20s] English:** So you have to realize that you can always go from more permissive to less permissive, right?  
+**[2644.20s] English:** So, you have to realize that you can always go from more permissive to less permissive, right?  
 **Translation:** 
 
 **[2650.84s] English:** Because, of course, those licenses are basically statements.  
 **Translation:** 
 
-**[2654.98s] English:** So if you restrict, you can always restrict more, right?  
+**[2654.98s] English:** So, if you restrict, you can always restrict more, right?  
 **Translation:** 
 
-**[2657.76s] English:** So in a GPL project, you can take MIT code, but you cannot do the opposite, right?  
-**Translation:** Vocabulary: cannot: 不能
+**[2657.76s] English:** So, in a GPL project, you can take MIT code, but you cannot do the opposite, right?  
+**Translation:** Vocabulary: cannot: 不允许
 
 **[2663.42s] English:** Because there are more constraints to match.  
 **Translation:** 
 
 **[2665.28s] English:** In fact, I changed the core of libVLC, which is the engine of VLC, from GPL to LGPL.  
-**Translation:** Vocabulary: constraints: 限制条件
+**Translation:** Vocabulary: constraints: 限制
 
-**[2677.72s] English:** And there were two reasons to do that.  
+**[2677.72s] English:** And there were two reasons for that.  
 **Translation:** 
 
-**[2680.02s] English:** The first one is that so people can use the VLC engine, libVLC, into third-party applications.  
+**[2680.02s] English:** The first one is that people can use the VLC engine, libVLC, in third-party applications.  
 **Translation:** 
 
-**[2686.32s] English:** So a lot of applications which are playing video on your phone or on your tablet are actually VLC engine in it, which is calling FFmpeg in it.  
+**[2686.32s] English:** So, a lot of applications which are playing video on your phone or on your tablet are actually using the VLC engine, which calls FFmpeg.  
 **Translation:** 
 
 **[2694.42s] English:** Yeah.  
 **Translation:** 
 
-**[2695.28s] English:** So that was one of the ways to create one of the companies I created, which is doing consulting and integration of those types of applications where you integrate VLC into third-party solutions, like inside game engines or stuff like that.  
+**[2695.28s] English:** So, that was one of the ways to create one of the companies I created, which is doing consulting and integration of those types of applications, where you integrate VLC into third-party solutions, like inside game engines or stuff like that.  
 **Translation:** 
 
-**[2710.48s] English:** With GPL, you couldn't do that because that means you needed to open source everything.  
-**Translation:** 
+**[2710.48s] English:** With GPL, you couldn't do that because that means you needed to open-source everything.  
+**Translation:** Vocabulary: consulting: 咨询; integrate: 整合
 
 **[2714.38s] English:** And those are for a lot of commercial companies who don't want that.  
 **Translation:** 
 
-**[2717.96s] English:** So you can create a company with LGPL.  
+**[2717.96s] English:** So, you can create a company with an LGPL license.  
 **Translation:** 
 
 **[2720.76s] English:** You can create a company around it.  
@@ -2173,49 +2174,49 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2722.34s] English:** You can do a commercial thing.  
 **Translation:** 
 
-**[2723.34s] English:** You don't have to open source it.  
+**[2723.34s] English:** You don't have to open-source it.  
 **Translation:** 
 
-**[2724.34s] English:** So that's a big, big.  
+**[2724.34s] English:** So that's a big, big thing.  
 **Translation:** 
 
-**[2725.34s] English:** So you could play video in your game.  
+**[2725.34s] English:** So, you could play videos in your game.  
 **Translation:** 
 
 **[2727.18s] English:** Yes.  
 **Translation:** 
 
-**[2727.60s] English:** The problem is I'm a game developer and I want to play some videos and I don't want to be forced to open source the entire game just to play those videos.  
+**[2727.60s] English:** The problem is, I'm a game developer and I want to play some videos without being forced to open-source the entire game just to do so.  
 **Translation:** 
 
-**[2735.88s] English:** So that's where the consulting business, the libVLC LGPL, allows you to do that.  
+**[2735.88s] English:** So, that's where the consulting business, the libVLC LGPL, allows you to do that.  
 **Translation:** 
 
-**[2741.14s] English:** The LGPL, the library GPL, as it used to be known, allows you to do that.  
+**[2741.14s] English:** The LGPL, the library GPL as it used to be known, allows you to do that.  
 **Translation:** 
 
 **[2744.72s] English:** And FFmpeg is exactly the same.  
 **Translation:** 
 
-**[2748.08s] English:** LGPL forces you to give back what you change on this component, this library, which is why it's library GPL.  
+**[2748.08s] English:** LGPL forces you to give back what you change in this component or library, which is why it's called "Library GPL.  
 **Translation:** 
 
-**[2755.28s] English:** And so you can use FFmpeg as LGPL into any type of application.  
+**[2755.28s] English:** And so, you can use FFmpeg as LGPL in any type of application.  
 **Translation:** 
 
-**[2760.00s] English:** even non-open source, but you need to give back the modification you did on FFmpeg, same  
+**[2760.00s] English:** Even if it's not open-source, you still need to give back any modifications you make to FFmpeg. Same  
 **Translation:** 
 
-**[2765.18s] English:** on libvlc.  
-**Translation:** Vocabulary: modification: 修改
+**[2765.18s] English:** On libvlc.  
+**Translation:** Vocabulary: modifications: 修改
 
-**[2766.18s] English:** Is it limiting from an open source perspective to go GPL?  
+**[2766.18s] English:** Is it limiting from an open-source perspective to go GPL?  
 **Translation:** 
 
-**[2770.68s] English:** Because if your library, if your code is GPL, it means you're basically discouraging companies  
-**Translation:** Vocabulary: discouraging: 阻碍合作
+**[2770.68s] English:** Because, if your library or code is GPL, it means you're basically discouraging companies from using it.  
+**Translation:** Vocabulary: discouraging: 阻碍使用
 
-**[2780.78s] English:** from building a business around it, right?  
+**[2780.78s] English:** From building a business around it, right?  
 **Translation:** 
 
 **[2782.84s] English:** Is that fair to say?  
@@ -2227,73 +2228,73 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2784.84s] English:** It depends on the company, but the company whose business model requires the application  
 **Translation:** 
 
-**[2789.52s] English:** to be closed source, yes, it's limited.  
+**[2789.52s] English:** To be closed-source, yes, it's limited.  
 **Translation:** 
 
-**[2792.00s] English:** So that's why, for example, I moved to LGPL.  
+**[2792.00s] English:** So, that's why, for example, I moved to LGPL.  
 **Translation:** 
 
-**[2793.94s] English:** The second reason is a bit more obscure, is that the terms of condition of the app store,  
+**[2793.94s] English:** The second reason is a bit more obscure, as it involves the terms and conditions of the app store.  
 **Translation:** 
 
-**[2800.96s] English:** the Apple app store for iOS makes it very complex to have GPL application on it, while  
+**[2800.96s] English:** The Apple App Store for iOS makes it very complex to have a GPL application on it, while  
 **Translation:** Vocabulary: obscure: 不明显
 
-**[2806.70s] English:** it's easier to have LGPL applications on it.  
+**[2806.70s] English:** It's easier to have LGPL applications on it.  
 **Translation:** 
 
-**[2809.46s] English:** So VLC on Windows and on Mac and on Linux is GPL, the core is LGPL, but on iOS, the  
+**[2809.46s] English:** So, VLC on Windows and on Mac and on Linux is GPL; the core is LGPL, but on iOS, the  
 **Translation:** 
 
-**[2817.78s] English:** iPhone version and the Apple TV version, it's GPL.  
+**[2817.78s] English:** iPhone version and the Apple TV version are both GPL.  
 **Translation:** 
 
-**[2819.50s] English:** And the iPhone version is a type of different license called the MPL.  
+**[2819.50s] English:** And the iPhone version is a type of different license, called the MPL.  
 **Translation:** 
 
-**[2824.02s] English:** And yes, I went and changed the license and it was a long story.  
+**[2824.02s] English:** And yes, I went and changed the license, and it was a long story.  
 **Translation:** 
 
 **[2828.00s] English:** Yeah.  
 **Translation:** 
 
-**[2829.00s] English:** So I think basically to change the license, you have to contact all the contributors.  
+**[2829.00s] English:** So, I think basically, to change the license, you have to contact all the contributors.  
 **Translation:** 
 
 **[2832.74s] English:** Yes.  
 **Translation:** Vocabulary: contributors: 贡献者
 
-**[2833.74s] English:** It's very important to understand that open source projects are what we call in the US  
+**[2833.74s] English:** It's very important to understand that open-source projects are what we call "in the U.S.  
 **Translation:** 
 
-**[2838.68s] English:** copyright law, joint work, or in civil law, collective works or collaborative works, is  
-**Translation:** Vocabulary: collaborative: 合作创作
+**[2838.68s] English:** Copyright law, joint work, or in civil law, collective works or collaborative works, is  
+**Translation:** Vocabulary: collaborative: 合作的
 
-**[2845.98s] English:** that you work all together in terms of the same goal.  
+**[2845.98s] English:** That you work all together in terms of the same goal.  
 **Translation:** 
 
-**[2849.02s] English:** And then it creates one software, which is one release.  
+**[2849.02s] English:** And then it creates one piece of software, which is one release.  
 **Translation:** 
 
 **[2852.52s] English:** But the copyright is kept by all the individuals.  
 **Translation:** 
 
-**[2856.42s] English:** Some open source projects don't do that, they force copyright assignment, but this is not  
+**[2856.42s] English:** Some open-source projects don't do that; they force copyright assignment, but this is not  
 **Translation:** 
 
-**[2859.78s] English:** what we do with communities.  
+**[2859.78s] English:** What we do with communities.  
 **Translation:** 
 
-**[2861.70s] English:** So everyone has basically copyright on what they changed.  
+**[2861.70s] English:** So, everyone has basically copyright on what they changed.  
 **Translation:** 
 
-**[2865.94s] English:** And this copyright stays even if at the end your contribution was deleted because the  
+**[2865.94s] English:** And this copyright stays, even if at the end your contribution was deleted, because the  
 **Translation:** 
 
-**[2871.52s] English:** new contribution was based on your previous one, right?  
+**[2871.52s] English:** New contribution was based on your previous one, right?  
 **Translation:** 
 
-**[2874.58s] English:** So if you want to properly relicense, you need to find all the contributors.  
+**[2874.58s] English:** So, if you want to properly relicense, you need to find all the contributors.  
 **Translation:** 
 
 **[2878.26s] English:** Yeah.  
@@ -2362,70 +2363,70 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[2879.78s] English:** Yeah.  
 **Translation:** 
 
-**[2880.00s] English:** contact more than 350 people and sometimes well they are just an email right so it's you need to  
+**[2880.00s] English:** Contact more than 350 people, and sometimes, they are just an email, right? So, you need to  
 **Translation:** 
 
-**[2886.18s] English:** actually track down i actually like travel to some place to go somewhere that i was like sorry  
+**[2886.18s] English:** Actually, I like to track down a place to travel to somewhere that I've been before. Sorry.  
 **Translation:** 
 
-**[2891.78s] English:** that i found online to see how to go to their job and say well you licensed that can you do you want  
+**[2891.78s] English:** That I found online to see how to go to their job and say, "Well, you licensed that. Can you do it?  
 **Translation:** 
 
-**[2898.84s] English:** to change from gpl to lgpl most of the times they don't even care they wanted to help vlt but also  
+**[2898.84s] English:** To change from GPL to LGPL, most of the time they don't even care; they just wanted to help VLT.  
 **Translation:** 
 
-**[2904.16s] English:** it brought me to very complex situation i arrived to the work of a person who was a factory worker  
+**[2904.16s] English:** It brought me to a very complex situation. I arrived at the work of a person who was a factory worker.  
 **Translation:** 
 
-**[2910.04s] English:** and i said well i need to you to sign that because it was his son who died who actually  
+**[2910.04s] English:** And I said, "Well, I need you to sign that because it was his son who died.  
 **Translation:** 
 
-**[2918.74s] English:** wrote the code right so i had to explain all those type of open source meaning and no i was  
+**[2918.74s] English:** Wrote the code right, so I had to explain all those types of open-source stuff. No, I was  
 **Translation:** 
 
-**[2924.68s] English:** not a company trying to rip out the two lines or five lines that that guy did but was useful and  
+**[2924.68s] English:** Not a company trying to rip out the two lines or five lines that that guy did, but was useful and  
 **Translation:** 
 
-**[2930.32s] English:** the whole community agreed on that and he had no idea i was a  
+**[2930.32s] English:** The whole community agreed on that, and he had no idea I was a  
 **Translation:** 
 
-**[2934.14s] English:** factory worker this and i was a lot younger right like it was 14 years ago and like like i was  
+**[2934.14s] English:** Factory worker: This, and I was a lot younger, right? Like, it was 14 years ago, and like, I was  
 **Translation:** 
 
-**[2941.36s] English:** almost in tears right it's we very difficult right we are talking about life of people and he  
+**[2941.36s] English:** Almost in tears, right? It's very difficult, right? We are talking about the lives of people, and he...  
 **Translation:** 
 
-**[2945.40s] English:** explaining and we went to talk about the photo of this guy right so it's important to do it right  
+**[2945.40s] English:** Explaining, and we went to talk about the photo of this guy. It's important to do it right.  
 **Translation:** 
 
-**[2951.68s] English:** and to do it correctly um but yes that means tracking down everything because every contribution  
+**[2951.68s] English:** And to do it correctly, um, but yes, that means tracking down everything because every contribution.  
 **Translation:** 
 
-**[2957.34s] English:** works there are some projects who don't respect that and we do relicensing a bit like aggressively  
+**[2957.34s] English:** There are some projects that don't respect that, and we do relicensing a bit like aggressively.  
 **Translation:** 
 
-**[2963.14s] English:** but as a  
+**[2963.14s] English:** But as a  
 **Translation:** Vocabulary: aggressively: 猛烈地; relicensing: 重新授权
 
-**[2964.14s] English:** said it destroyed the heart of the community because it's we only agree on this on this  
+**[2964.14s] English:** Said it destroyed the heart of the community because, "it's we only agree on this, on this.  
 **Translation:** 
 
-**[2969.10s] English:** license so that's important i would emphasize the community is such a wide-ranging group of people  
+**[2969.10s] English:** License, so that's important. I would emphasize that the community is such a wide-ranging group of people.  
 **Translation:** 
 
-**[2975.06s] English:** there's people in the syrian war zone with electricity part-time there's there's all  
+**[2975.06s] English:** There are people in the Syrian war zone with electricity part-time, there's just not much of it.  
 **Translation:** 
 
-**[2982.80s] English:** people from all walks of life rich poor young old um so it's quite remarkable to get you know a  
-**Translation:** Vocabulary: syrian: 叙利亚人
+**[2982.80s] English:** People from all walks of life, rich, poor, young, old — so it's quite remarkable to get them all involved.  
+**Translation:** Vocabulary: syrian: 叙利亚的
 
-**[2991.20s] English:** group of people aligned on something and that's an achievement in itself yeah it's incredible and  
+**[2991.20s] English:** A group of people aligned on something, and that's an achievement in itself. Yeah, it's incredible, and  
 **Translation:** 
 
-**[2996.94s] English:** a lot of them are introverts so you  
-**Translation:** Vocabulary: aligned: 齐心协力; introverts: 内向人士
+**[2996.94s] English:** A lot of them are introverts, so you  
+**Translation:** Vocabulary: aligned: 一致; introverts: 内向的人
 
-**[3000.00s] English:** Coming to find them and getting them and getting them to answer an email might be quite difficult.  
+**[3000.00s] English:** Coming to find them, and getting them, and getting them to answer an email might be quite difficult.  
 **Translation:** 
 
 **[3005.40s] English:** Most of us are introverts, right?  
@@ -2434,8 +2435,8 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3007.08s] English:** You need to be more precise.  
 **Translation:** 
 
-**[3008.64s] English:** You are extremely introverts, extremely, extremely introverts and introverts, right?  
-**Translation:** 
+**[3008.64s] English:** You are extremely introverted, extremely, extremely introverted and introverted, right?  
+**Translation:** Vocabulary: introverted: 内向
 
 **[3012.64s] English:** It's just like a whole spectrum of different people.  
 **Translation:** 
@@ -2443,7 +2444,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3015.28s] English:** It doesn't matter.  
 **Translation:** 
 
-**[3016.62s] English:** The important is, is your code good?  
+**[3016.62s] English:** The important thing is: is your code good?  
 **Translation:** 
 
 **[3019.34s] English:** Is your code great?  
@@ -2458,13 +2459,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3023.84s] English:** We don't care who you are.  
 **Translation:** 
 
-**[3025.46s] English:** Sorry, it's just like we have no idea to check.  
+**[3025.46s] English:** Sorry, it's just that we have no idea how to check.  
 **Translation:** 
 
 **[3027.78s] English:** We cannot check, right?  
 **Translation:** 
 
-**[3028.90s] English:** Like maybe you're a dog.  
+**[3028.90s] English:** Like, maybe you're a dog.  
 **Translation:** 
 
 **[3030.62s] English:** I don't care, right?  
@@ -2479,49 +2480,49 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3035.02s] English:** And this is important because people don't understand that.  
 **Translation:** 
 
-**[3037.90s] English:** And they come to the community and send them some patches and they get rejected.  
+**[3037.90s] English:** And they come to the community and send them some patches, and they get rejected.  
 **Translation:** 
 
-**[3042.34s] English:** And they don't like that because, I mean, you're just like, sorry, it's not up to our standards.  
-**Translation:** 
+**[3042.34s] English:** And they don't like that because, I mean, you're just like, "Sorry, it's not up to our standards.  
+**Translation:** Vocabulary: patches: 补丁
 
-**[3047.50s] English:** Oh, yeah, but I'm an engineer at this very large company in Italy, in Germany, in the US.  
+**[3047.50s] English:** Oh, yeah, but I'm an engineer at this very large company in Italy, Germany, and the U.S.  
 **Translation:** 
 
 **[3052.78s] English:** We don't care.  
 **Translation:** 
 
-**[3053.90s] English:** We care about the quality of your code because this is what defines our community.  
+**[3053.90s] English:** We care about the quality of your code because this defines our community.  
 **Translation:** 
 
-**[3058.90s] English:** And which means that we have a lot of people who contribute who are some very different backgrounds and very introverts.  
+**[3058.90s] English:** And, which means that we have a lot of people who contribute from very different backgrounds and include some very introverted individuals.  
 **Translation:** 
 
 **[3065.88s] English:** Sure, but that's okay, right?  
 **Translation:** 
 
-**[3067.62s] English:** So one of the legends of the community is, of course, Linus Torvalds, who created Linux and is a longtime maintainer of the Linux kernel.  
-**Translation:** Vocabulary: kernel: 内核; longtime: 长期; maintainer: 维护者
+**[3067.62s] English:** So, one of the legends of the community is, of course, Linus Torvalds, who created Linux and is a longtime maintainer of the Linux kernel.  
+**Translation:** Vocabulary: kernel: 内核; legends: 传说; longtime: 长期; maintainer: 维护者; torvalds: 托瓦尔
 
-**[3079.06s] English:** As the legend goes, he can be pretty harsh on this meritocratic process of reviewing the code and saying it's not good enough.  
+**[3079.06s] English:** As the legend goes, he can be pretty harsh on the meritocratic process of reviewing the code and saying it's not good enough.  
 **Translation:** 
 
-**[3085.38s] English:** Can you just speak to the legend of Linus Torvalds?  
-**Translation:** Vocabulary: meritocratic: 功绩至上的
+**[3085.38s] English:** Can you just speak about the legend of Linus Torvalds?  
+**Translation:** Vocabulary: meritocratic: 按 merit 确定的
 
 **[3088.90s] English:** Well, Linus is one of a kind, right?  
 **Translation:** 
 
-**[3092.64s] English:** And I would even go and say that what he did on Git is more interesting than what he did on the Linux kernel.  
+**[3092.64s] English:** And I would even say that what he did on Git is more interesting than what he did on the Linux kernel.  
 **Translation:** 
 
-**[3099.56s] English:** He's very harsh, but what people don't see is usually when he's harsh, too, it's people who are maintainers of part of the kernel, right?  
+**[3099.56s] English:** He's very harsh, but what people don't see is that, usually, when he's harsh, too, it's people who are maintainers of part of the kernel, right?  
 **Translation:** 
 
 **[3108.04s] English:** So they know him, right?  
 **Translation:** Vocabulary: maintainers: 代码维护者
 
-**[3109.50s] English:** So he's not very harsh like that to everyone.  
+**[3109.50s] English:** So, he's not very harsh with everyone.  
 **Translation:** 
 
 **[3112.02s] English:** The thing is, what he created in his room is basically powering every server online, right?  
@@ -2533,73 +2534,73 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3118.90s] English:** At Microsoft Cloud.  
 **Translation:** 
 
+**[3120.00s] English:** Called Azure. I'm quite sure 70-80% of the servers are running Linux. All your Android phones are.  
+**Translation:** 
+
 **[3120.56s] English:** Yeah.  
 **Translation:** 
 
-**[3120.00s] English:** called Azure. I'm quite sure 70-80% of the servers are running Linux. All your Android phones are  
+**[3126.34s] English:** Running Linux. What he did with the power of a boot source is amazing. And yes, the quality,...  
 **Translation:** 
 
-**[3126.34s] English:** running Linux. What he did with the power of a boot source, sure, is amazing. And yes, the quality  
+**[3135.20s] English:** Of the Linux kernel is very high. And yes, it's difficult. But we cannot compromise on that. We  
+**Translation:** Vocabulary: cannot: 不能; compromise: 妥协
+
+**[3142.56s] English:** Cannot compromise on quality. Because, in the end, and you have to understand that, the core community  
 **Translation:** 
 
-**[3135.20s] English:** of the Linux kernel is very high. And yes, it's difficult. But we cannot compromise on that. We  
-**Translation:** Vocabulary: cannot: 不能
-
-**[3142.56s] English:** cannot compromise on quality. Because in the end, and you have to understand that, the core community  
+**[3148.70s] English:** Of VLC, there are five people. The core community of FFmpeg is 10 to 15, and we are the ones who are  
 **Translation:** 
 
-**[3148.70s] English:** of VLC is five people. The core community of FFmpeg is 10 to 15. And we are the ones who are  
+**[3156.14s] English:** Going to maintain your code, right? Because there are 1,000 contributors in the timeline and just 10 things.  
 **Translation:** 
 
-**[3156.14s] English:** going to maintain your code, right? Because 1,000 contributors in the timeline and just 10 things,  
-**Translation:** 
-
-**[3161.74s] English:** 1% chance that someone comes and stays. 1%. So you will have change of job, change of wife,  
+**[3161.74s] English:** 1% chance that someone comes and stays. 1%. So, you'll have a change of job, change of wife.  
 **Translation:** Vocabulary: contributors: 贡献者
 
-**[3169.52s] English:** you have children, you have accident in life, you're going to change jobs, whatever. You're  
+**[3169.52s] English:** You have children, you have an accident in life, you're going to change jobs—whatever. You're  
 **Translation:** 
 
-**[3173.66s] English:** not going to come back. It's most likely. So we are the ones going to  
+**[3173.66s] English:** Not going to come back. It's most likely. So, we are the ones going to  
 **Translation:** 
 
-**[3178.64s] English:** maintain your code.  
+**[3178.64s] English:** Maintain your code.  
 **Translation:** 
 
-**[3178.70s] English:** It needs to be maintainable. It needs to be excellent. And yes, sometimes that means that  
+**[3178.70s] English:** It needs to be maintainable. It needs to be excellent. And, yes, sometimes that means that  
 **Translation:** Vocabulary: maintainable: 易于维护的
 
-**[3186.62s] English:** you need to rework your work because it was good, but it's not excellent. And we need excellence  
+**[3186.62s] English:** You need to rework your work because it was good, but it's not excellent. And we need excellence.  
 **Translation:** 
 
-**[3190.96s] English:** because we have very few to maintain something that is critical for the whole.  
+**[3190.96s] English:** Because we have very few resources, we need to maintain something that is critical for the whole.  
 **Translation:** 
 
-**[3195.80s] English:** But we should also mention that there's some spiciness, some harshness to the language  
+**[3195.80s] English:** But we should also mention that there's some spiciness, some harshness in the language.  
 **Translation:** 
 
-**[3200.06s] English:** that's sometimes used when you're keeping this high bar of excellence.  
-**Translation:** Vocabulary: harshness: 辛辣性; spiciness: 尖锐性
+**[3200.06s] English:** That's sometimes used when you're maintaining this high bar of excellence.  
+**Translation:** Vocabulary: harshness: 尖锐; spiciness: 辛辣
 
-**[3205.80s] English:** Is there something to say to that?  
+**[3205.80s] English:** Is there anything to say to that?  
 **Translation:** 
 
 **[3207.12s] English:** It's true, right?  
 **Translation:** 
 
-**[3208.70s] English:** It's also the fact that, for example, what we're doing is low level. It's extremely technical.  
+**[3208.70s] English:** It's also the fact that, for example, what we're doing is low-level and extremely technical.  
 **Translation:** 
 
-**[3213.66s] English:** You get into this community. The tone gets very like a type of, it's a subculture, right? So people  
-**Translation:** Vocabulary: subculture: 亚文化
+**[3213.66s] English:** You get into this community, and the tone gets very much like a type of subculture, right? So people...  
+**Translation:** Vocabulary: subculture: 亚文化圈
 
-**[3221.52s] English:** who arrive from the external are basically not known to the subculture. Most of those people  
+**[3221.52s] English:** Who arrive from the external are basically not known to the subculture. Most of those people,  
 **Translation:** 
 
-**[3227.42s] English:** around FFmpeg and VLC, we do VideoLand Dev Days, VDD every year. They are so fun in real life and  
+**[3227.42s] English:** Around FFmpeg and VLC, we do VideoLand Dev Days (VDD) every year. They are so fun in real life and  
 **Translation:** 
 
-**[3234.20s] English:** they love it. But it's true that you're online and sometimes like the tone, you don't know how to do it.  
+**[3234.20s] English:** They love it. But it's true that you're online, and sometimes like the tone, you don't know how to do it.  
 **Translation:** 
 
 **[3238.68s] English:** You don't realize how it is.  
@@ -2620,46 +2621,46 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3247.36s] English:** And everyone understands that the way you show love and respect just looks different in different communities.  
 **Translation:** 
 
-**[3253.12s] English:** Sometimes people, it depends.  
+**[3253.12s] English:** Sometimes people; it depends.  
 **Translation:** 
 
 **[3255.44s] English:** If it's a book club, usually people are going to be much sweeter.  
 **Translation:** 
 
-**[3258.62s] English:** If it's an open source project that's very high stakes and used by millions of people.  
+**[3258.62s] English:** If it's an open-source project that's very high-stakes and used by millions of people.  
 **Translation:** 
 
-**[3264.66s] English:** But it's very not often insults that you see, for example, in the gaming, right?  
+**[3264.66s] English:** But it's very uncommon to see insults, for example, in the gaming community, right?  
 **Translation:** 
 
-**[3269.38s] English:** And so Linus' tone is a bit unusual, even for the open source community.  
-**Translation:** 
+**[3269.38s] English:** And so Linus's tone is a bit unusual, even for the open-source community.  
+**Translation:** Vocabulary: insults: 侮辱; uncommon: 不常见
 
-**[3273.82s] English:** It's more like, it's more harsh on the result saying, no, this is not good.  
+**[3273.82s] English:** It's more like it's harsher on the result, saying, "No, this is not good.  
 **Translation:** 
 
 **[3277.50s] English:** This is crap.  
+**Translation:** Vocabulary: harsher: 更严厉的
+
+**[3278.30s] English:** Those types of things that you will see.  
 **Translation:** 
 
-**[3278.30s] English:** Those type of things that you will see.  
-**Translation:** 
-
-**[3280.34s] English:** Try not to make it about the person, make it about the code.  
+**[3280.34s] English:** Try not to make it about the person; make it about the code.  
 **Translation:** 
 
 **[3282.64s] English:** Yes.  
 **Translation:** 
 
-**[3283.14s] English:** It's very matter of fact.  
+**[3283.14s] English:** It's very matter-of-fact.  
 **Translation:** 
 
-**[3284.58s] English:** And I think you've got to look at it in terms of, you know, the famous FFmpeg is developed almost entirely by volunteers.  
+**[3284.58s] English:** And I think you've got to look at it in terms of the famous FFmpeg, which is developed almost entirely by volunteers.  
 **Translation:** 
 
 **[3290.02s] English:** And that's true.  
 **Translation:** 
 
-**[3290.78s] English:** And you've got to imagine someone's on a hard day's work at their day job.  
+**[3290.78s] English:** And you've got to imagine someone who's on a hard day's work at their day job.  
 **Translation:** 
 
 **[3294.26s] English:** They come home.  
@@ -2669,30 +2670,30 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[3298.22s] English:** And that's not.  
-**Translation:** Vocabulary: terseness: 言简意赅
+**Translation:** 
 
 **[3299.38s] English:** That's not something to take personally.  
 **Translation:** 
 
-**[3301.82s] English:** You're tired, you're busy, but you still care about this open source stuff.  
+**[3301.82s] English:** You're tired, you're busy, but you still care about this open-source stuff.  
 **Translation:** 
 
-**[3305.62s] English:** But you may not be able to explain and handhold someone on every subtle detail.  
+**[3305.62s] English:** But you may not be able to explain and handhold someone through every subtle detail.  
 **Translation:** 
 
 **[3310.28s] English:** And also, you have to realize that most people don't speak English as a native language.  
-**Translation:** Vocabulary: handhold: 扶持
+**Translation:** Vocabulary: handhold: 扶持; subtle: 细微的
 
-**[3317.00s] English:** And this is especially for open source projects like FFmpeg and VLC, which are mostly sent out of Europe.  
+**[3317.00s] English:** And this is especially true for open-source projects like FFmpeg and VLC, which are mostly developed outside of Europe.  
 **Translation:** 
 
-**[3323.62s] English:** Sometimes, like, people who are from the U.S.  
+**[3323.62s] English:** Sometimes, like, people who are from the U.S.,  
 **Translation:** 
 
-**[3327.88s] English:** or just like...  
+**[3327.88s] English:** Or, just like...  
 **Translation:** 
 
-**[3329.38s] English:** are very not happy about the tone.  
+**[3329.38s] English:** Are they very unhappy about the tone?  
 **Translation:** 
 
 **[3331.48s] English:** But most of the time, it's also like they don't know better, right?  
@@ -2701,31 +2702,31 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3334.36s] English:** It's difficult.  
 **Translation:** 
 
-**[3334.96s] English:** The language is English is a difficult language.  
+**[3334.96s] English:** The language is English; it is a difficult language.  
 **Translation:** 
 
-**[3337.00s] English:** There is so many subtleties and tone and so on that you don't have, right?  
+**[3337.00s] English:** There are so many subtleties and tone, and so on, that you don't have, right?  
 **Translation:** Vocabulary: subtleties: 细微差别
 
-**[3340.48s] English:** So often, it's also difficult in those type of community about like different cultures and languages.  
+**[3340.48s] English:** So, it's often difficult in those types of communities, dealing with different cultures and languages.  
 **Translation:** 
 
-**[3346.32s] English:** So as the legend goes, JB, you repeatedly turned down millions of dollars to keep VLC open source free for everyone without ads.  
+**[3346.32s] English:** So, as the legend goes, JB, you repeatedly turned down millions of dollars to keep VLC open-source and free for everyone without ads.  
 **Translation:** 
 
-**[3359.38s] English:** So as the legend goes, JB, you repeatedly turned down millions of dollars to keep VLC open source free for everyone without ads.  
+**[3359.38s] English:** So, as the legend goes, JB, you repeatedly turned down millions of dollars to keep VLC open-source and free for everyone without ads.  
 **Translation:** 
 
-**[3360.00s] English:** So take me through the reasoning behind that decision of leaving millions of dollars on the table.  
+**[3360.00s] English:** So, take me through the reasoning behind that decision to leave millions of dollars on the table.  
 **Translation:** 
 
-**[3366.44s] English:** Yeah, that's like almost a meme, right, on Reddit?  
+**[3366.44s] English:** Yeah, that's almost a meme, right, on Reddit?  
 **Translation:** 
 
 **[3369.24s] English:** There literally is a meme on Reddit.  
 **Translation:** 
 
-**[3371.64s] English:** 9gog and, yeah, yeah, I see there's you looking like a wizard in the VLC hat on Reddit.  
+**[3371.64s] English:** 9gog, and yeah, yeah, I see there's you looking like a wizard in the VLC hat on Reddit.  
 **Translation:** 
 
 **[3380.30s] English:** This is JB, the creator of VLC Media Player.  
@@ -2740,16 +2741,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3391.48s] English:** You can even summon him on Reddit.  
 **Translation:** 
 
-**[3393.62s] English:** Yeah, and usually, if you see, right, it's usually like people tag me, right, and then there is me.  
+**[3393.62s] English:** Yeah, and usually, if you see, right? It's usually like people tag me, right?, and then there I am.  
 **Translation:** Vocabulary: summon: 召唤
 
-**[3398.66s] English:** And then I say, good morning, I got 24k upvotes, which is great, right?  
+**[3398.66s] English:** And then I say, "Good morning! I got 24K upvotes, which is great, right?  
 **Translation:** 
 
-**[3402.38s] English:** My karma on Reddit is amazing, at least on that account.  
-**Translation:** Vocabulary: karma: 积分
+**[3402.38s] English:** My karma on Reddit is amazing—at least, on that account.  
+**Translation:** Vocabulary: karma: 声誉; upvotes: 点赞
 
-**[3406.84s] English:** So the question needs to be answered first.  
+**[3406.84s] English:** So, the question needs to be answered first.  
 **Translation:** 
 
 **[3410.48s] English:** What is the story about VLC, right?  
@@ -2770,178 +2771,178 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3420.12s] English:** Yes, I could be a multimillionaire and be somewhere on the beach.  
 **Translation:** 
 
-**[3423.62s] English:** But I did not do it because I thought it was not moral and it was not the right thing to do.  
+**[3423.62s] English:** But I did not do it because I thought it was not moral, and it was not the right thing to do.  
 **Translation:** Vocabulary: multimillionaire: 亿万富翁
 
-**[3429.64s] English:** And this is very important for myself is to be like I work for the greater good.  
+**[3429.64s] English:** And this is very important for me, as I work for the greater good.  
 **Translation:** 
 
-**[3435.40s] English:** I work for people and I don't want it's not just by myself.  
+**[3435.40s] English:** I work for people, and I don't want it to be just by myself.  
 **Translation:** 
 
-**[3439.42s] English:** But the reason is also because I did not feel that I'm completely legitimate to do that.  
+**[3439.42s] English:** But the reason is also because I didn't feel that I was completely legitimate to do that.  
 **Translation:** 
 
-**[3444.72s] English:** And let me explain you why.  
-**Translation:** 
+**[3444.72s] English:** And let me explain to you why.  
+**Translation:** Vocabulary: legitimate: 正当的
 
-**[3446.36s] English:** VLC story is a very weird.  
+**[3446.36s] English:** The VLC story is a very weird one.  
 **Translation:** 
 
 **[3447.76s] English:** Weird story.  
 **Translation:** 
 
-**[3449.08s] English:** In France, we have university and we have a type of top colleges and those top of excellency schools are engineering school, business schools and basically lawyers and medical.  
+**[3449.08s] English:** In France, we have universities, and we also have a type of top colleges. These top schools of excellence include engineering schools, business schools, and basically law and medicine.  
 **Translation:** 
 
 **[3462.84s] English:** Right.  
 **Translation:** 
 
-**[3463.06s] English:** But they're outside of university.  
+**[3463.06s] English:** But they're outside of the university.  
 **Translation:** 
 
-**[3464.88s] English:** And in order to enter those, you spend two years working like crazy mass physics to enter those best engineering school.  
+**[3464.88s] English:** And, in order to enter those programs, you spend two years working like crazy on mass physics to enter the best engineering schools.  
 **Translation:** 
 
-**[3472.86s] English:** One of the school is called the Ecole Centrale Paris.  
+**[3472.86s] English:** One of the schools is called École Centrale Paris.  
 **Translation:** 
 
-**[3475.48s] English:** It has changed name since, but it was called the Ecole Centrale.  
-**Translation:** Vocabulary: ecole: 中学
-
-**[3477.76s] English:** Ecole Centrale Paris and because it was.  
+**[3475.48s] English:** It has changed its name since, but it was called the École Centrale.  
 **Translation:** 
 
-**[3480.00s] English:** central they had to move it because it was too small after the world war ii and and they moved  
+**[3477.76s] English:** Ecole Centrale Paris, and because it was.  
 **Translation:** 
 
-**[3485.04s] English:** it they wanted to move it to the central of france in a place called clermont ferrand and the alumni  
+**[3480.00s] English:** Central, they had to move it because it was too small after World War II, and they moved it.  
+**Translation:** Vocabulary: ecole: 学校
+
+**[3485.04s] English:** It, if they wanted to move it to the center of France in a place called Clermont-Ferrand, and the alumni.  
 **Translation:** 
 
-**[3490.32s] English:** decided that this was not okay right it is a the school that eiffel right the one who did the eiffel  
-**Translation:** Vocabulary: alumni: 校友; clermont: 克勒蒙; eiffel: 埃菲尔; ferrand: 费朗
+**[3490.32s] English:** Decided that this was not okay. Right, it's the school named after Eiffel—the man who did the Eiffel Tower.  
+**Translation:** Vocabulary: alumni: 校友; eiffel: 埃菲尔
 
-**[3496.48s] English:** tower attended to right so they said no no we are amazing great school we cannot do that and so they  
+**[3496.48s] English:** Tower attended to the right, so they said, "No, no, we are an amazing, great school. We cannot do that.  
 **Translation:** 
 
-**[3501.40s] English:** bought a piece of land south of paris uh very near paris um and it was a campus managed by a non-profit  
-**Translation:** Vocabulary: cannot: 不能
+**[3501.40s] English:** Bought a piece of land south of Paris, uh, very near Paris, um, and it was a campus managed by a nonprofit.  
+**Translation:** Vocabulary: cannot: 不能; nonprofit: 非盈利的
 
-**[3509.34s] English:** of the alumnis okay because of that everything on the campus was managed by students the university  
+**[3509.34s] English:** Of the alumni, okay, because of that, everything on the campus was managed by students, the university.  
 **Translation:** 
 
-**[3516.48s] English:** did nothing right so uh radio tv uh supermarket uh library um defining who was going into which  
+**[3516.48s] English:** Did nothing right, so, uh, radio, TV, supermarket, uh, library, um, defining who was going into which.  
 **Translation:** 
 
-**[3525.38s] English:** rooms um everything was managed by that's amazing that's an amazing experiment that it all didn't go  
+**[3525.38s] English:** Rooms—um, everything was managed by that's amazing—that's an amazing experiment; that it all didn't go  
 **Translation:** 
 
-**[3532.48s] English:** to hell quickly it somehow flourished it worked great and i learned so much in my life  
+**[3532.48s] English:** To hell with it; it somehow flourished, it worked great, and I learned so much in my life.  
 **Translation:** Vocabulary: flourished: 蓬勃发展
 
-**[3539.34s] English:** doing those side activities right because you're you're 22 and you need to run your campus else you  
+**[3539.34s] English:** Doing those side activities, right? Because you're 22 and you need to run your campus, else you  
 **Translation:** 
 
-**[3543.98s] English:** don't have electricity right so you care about that right but anyway in the 80s and they did  
+**[3543.98s] English:** Don't have electricity, right? So you care about that, right? But anyway, in the '80s, and they did.  
 **Translation:** 
 
-**[3549.60s] English:** a full experiment of deploying a network mostly sponsored by ibm and 3com which was a token ring  
+**[3549.60s] English:** A full experiment of deploying a network, mostly sponsored by IBM and 3Com, which was a token ring.  
 **Translation:** 
 
-**[3556.34s] English:** network so token ring is something that probably almost no one knows about anymore it's a networking  
-**Translation:** Vocabulary: deploying: 部署; token: 令牌
+**[3556.34s] English:** Network; so, Token Ring is something that probably almost no one knows about anymore. It's a networking technology.  
+**Translation:** Vocabulary: deploying: 部署; sponsored: 赞助; token: 令牌
 
-**[3563.66s] English:** technology where you don't have routers right everyone is linked um it's like  
+**[3563.66s] English:** Technology, where you don't have routers, right? Everyone is linked, um... it's like  
 **Translation:** 
 
-**[3569.34s] English:** really a ring and when you want to send a message you talk to your neighbor who's going to put the  
+**[3569.34s] English:** Really, it's a ring, and when you want to send a message, you talk to your neighbor, who's going to pass it along.  
 **Translation:** Vocabulary: routers: 路由器
 
-**[3573.90s] English:** message to the next one who's going to put the things to the next one in terms of ring the issue  
+**[3573.90s] English:** Message to the next one who's going to pass on the information, in terms of ringing the issue.  
 **Translation:** 
 
-**[3579.48s] English:** with token ring is of course is that it's very slow because every computer on the network needs  
+**[3579.48s] English:** With token ring, of course, is that it's very slow because every computer on the network needs  
 **Translation:** 
 
-**[3584.94s] English:** to open the message see if it's okay is it for me no it's not and then send it back like a token  
+**[3584.94s] English:** To open the message, see if it's okay. Is it for me? No, it's not, and then send it back like a token.  
 **Translation:** 
 
-**[3590.58s] English:** which is traveling around the ring in the 80s you're doing some telnet and sending mails as  
+**[3590.58s] English:** Which is traveling around the ring in the '80s, you're doing some Telnet and sending mail as  
 **Translation:** 
 
-**[3597.48s] English:** university that's okay right  
+**[3597.48s] English:** University, that's okay, right?  
 **Translation:** 
 
-**[3599.34s] English:** but starts  
+**[3599.34s] English:** But it starts  
 **Translation:** 
 
-**[3600.00s] English:** the 90s and the 90s um and start video games and when you have high latency video games basically  
+**[3600.00s] English:** The '90s and the '90s, um, and started with video games. When you have high latency, video games basically...  
 **Translation:** 
 
-**[3606.50s] English:** you die right so in 1994 1995 around doom and nukem coming around they want a faster network  
+**[3606.50s] English:** You die, right? So, in 1994-1995, around when Doom and Nukem came out, they wanted a faster network.  
 **Translation:** Vocabulary: latency: 网络延迟
 
-**[3613.06s] English:** so the students go and see the university and say you know what we want a faster network we need to  
+**[3613.06s] English:** So, the students go and see the university and say, "You know what? We want a faster network; we need to...  
 **Translation:** 
 
-**[3618.60s] English:** work you should also play video games um and the university tells them that basically oh i'm sorry  
+**[3618.60s] English:** Work, you should also play video games, um. The university tells them that, basically. Oh, I'm sorry.  
 **Translation:** 
 
-**[3625.12s] English:** we cannot help you because you understand the campus is not ours you manage it so do something  
+**[3625.12s] English:** We cannot help you because you understand the campus is not ours; you manage it, so do something.  
 **Translation:** 
 
-**[3632.04s] English:** and you should see some basically partners of the university and basically go away and they go  
-**Translation:** Vocabulary: cannot: 不能
-
-**[3638.64s] English:** and they actually go and see um the the the cio of uh buig which is a large uh french company  
+**[3632.04s] English:** And you should see some basic partners of the university basically go away, and they go.  
 **Translation:** 
 
-**[3645.24s] English:** and who's doing some tvs in france and he says well you know what the future of video is satellite  
+**[3638.64s] English:** And they actually go and see the CIO of Big, which is a large French company.  
 **Translation:** 
 
-**[3651.84s] English:** well today we know it's not but at least it was a good idea  
+**[3645.24s] English:** And who's doing TVs in France and he says, "Well, you know what, the future of video is satellite.  
 **Translation:** 
 
-**[3655.12s] English:** in 1995 the first of satellite dish and he says that instead of having like one satellite dish  
+**[3651.84s] English:** Well, today we know it's not, but at least it was a good idea.  
 **Translation:** 
 
-**[3661.38s] English:** and a big decoder for each of the students which are 1500 what about you build like you put an  
+**[3655.12s] English:** In 1995, the first of satellite dishes was installed, and he says that instead of having just one satellite dish,  
 **Translation:** 
 
-**[3668.90s] English:** enormous dish and only one decoder and you send the video directly  
+**[3661.38s] English:** And a big decoder for each of the students, which are 1,500. What about you? Build something like that, or do you put an?  
 **Translation:** 
 
-**[3673.38s] English:** on the network and that required a very fast network today it's obvious but at the time was  
+**[3668.90s] English:** Enormous dish, and only one decoder; and you send the video directly.  
+**Translation:** Vocabulary: decoder: 解码器
+
+**[3673.38s] English:** On the network, and that required a very fast network. Today, it's obvious, but at the time, it was  
 **Translation:** 
 
-**[3680.00s] English:** like the first to do video streaming so they built this project which was called network to  
+**[3680.00s] English:** Like the first to do video streaming, so they built this project, which was called Network to.  
 **Translation:** 
 
-**[3685.06s] English:** tell you what the future of video streaming is and they built this project which was called  
+**[3685.06s] English:** Tell you what: the future of video streaming is here, and they built this project, which was called  
 **Translation:** 
 
-**[3685.10s] English:** to tell you what the future of video streaming is and they built this project which was called  
+**[3685.10s] English:** To tell you what the future of video streaming is, they built this project, which was called  
 **Translation:** 
 
-**[3685.12s] English:** 2000 of course we're in the 90s right everything is futuristic is called 2000 2000 yeah and so they  
+**[3685.12s] English:** Of course, we're in the '90s, right? Everything is futuristic and called "2000." 2000, yeah, and so they...  
 **Translation:** 
 
-**[3692.66s] English:** do the network 2000 project it's completely hacked it crashes after 45 seconds that's okay the demo  
-**Translation:** Vocabulary: futuristic: 未来主义; hacked: 被黑客攻击
+**[3692.66s] English:** Do the Network 2000 project? It's completely hacked; it crashes after 45 seconds. That's okay for the demo.  
+**Translation:** Vocabulary: futuristic: 未来主义的; hacked: 被黑客攻击的
 
-**[3698.90s] English:** is 40 seconds it's leaks memory that's okay they put 64 megabytes of ram instead of the 8 or 16 you  
+**[3698.90s] English:** It's 40 seconds, and it's leaking memory — that's okay. They put 64 megabytes of RAM instead of the 8 or 16 you  
 **Translation:** 
 
-**[3704.96s] English:** have and the demo should have stopped there and that was a network 2000 project by the students  
-**Translation:** Vocabulary: megabytes: 兆字节
+**[3704.96s] English:** Have, and the demo should have stopped there. That was a Network 2000 project by the students.  
+**Translation:** Vocabulary: leaking: 泄漏; megabytes: 兆字节
 
-**[3709.54s] English:** what was the format of the video that they had to work with mpeg-2 because satellite is mpeg-2  
+**[3709.54s] English:** What was the format of the video that they had to work with? MPEG-2, because satellite uses MPEG-2.  
 **Translation:** 
 
-**[3714.10s] English:** ts for translation and it's a network 2000 project and it's completely hacked it crashes after 45  
+**[3714.10s] English:** For translation, and it's a Network 2000 project. It's completely hacked; it crashes after 45.  
 **Translation:** 
 
-**[3715.10s] English:** seconds but you've been able to reach a second network that's called mpeg-2 so far i'll show you  
+**[3715.10s] English:** Seconds, but you've been able to reach a second network that's called MPEG-2. So far, I'll show you.  
 **Translation:** 
 
 **[3720.00s] English:** The project should have stopped there.  
@@ -2950,7 +2951,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3721.50s] English:** Everyone was happy.  
 **Translation:** 
 
-**[3722.50s] English:** They had like amazing ATM network at 155 megabits per second.  
+**[3722.50s] English:** They had an amazing ATM network at 155 megabits per second.  
 **Translation:** 
 
 **[3727.82s] English:** They had probably one of the best networks in Europe at that time.  
@@ -2959,13 +2960,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3731.12s] English:** And they stopped the project.  
 **Translation:** 
 
-**[3732.20s] English:** Six months or a year later, two students arrive and say, well, you know what?  
+**[3732.20s] English:** Six months or a year later, two students arrive and say, "Well, you know what?  
 **Translation:** 
 
-**[3736.62s] English:** Maybe other people care about video streamed on a local network.  
-**Translation:** Vocabulary: streamed: 直播
+**[3736.62s] English:** Maybe other people care about videos streamed on a local network.  
+**Translation:** Vocabulary: streamed: 流式传输
 
-**[3740.22s] English:** And they create the VideoLan project, VideoLan.  
+**[3740.22s] English:** And they create the VideoLAN project, VideoLAN.  
 **Translation:** 
 
 **[3744.14s] English:** And one of them is called Christophe Mathieu.  
@@ -2980,28 +2981,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3750.62s] English:** It's not even open source yet.  
 **Translation:** 
 
-**[3752.86s] English:** And they spend around three years to get the school to agree to make it open source.  
+**[3752.86s] English:** And they spent around three years to get the school to agree to make it open source.  
 **Translation:** 
 
-**[3758.12s] English:** Because the university wanted to get, because of the IP and copyright of the students,  
+**[3758.12s] English:** Because the university wanted to get, because of the IP and copyright issues of the students,  
 **Translation:** 
 
-**[3763.34s] English:** wanted to basically monetize these MPEG-2 decoders.  
-**Translation:** Vocabulary: decoders: 解码器; monetize: 变现
+**[3763.34s] English:** Wanted to basically monetize these MPEG-2 decoders.  
+**Translation:** Vocabulary: decoders: 解码器; monetize: 商业化
 
-**[3767.12s] English:** Just to be clear, so what's the main application streaming on a local network?  
+**[3767.12s] English:** Just to be clear: So, what's the main application streaming on a local network?  
 **Translation:** 
 
 **[3770.88s] English:** It was streaming on a local network.  
 **Translation:** 
 
-**[3772.52s] English:** By the way, that's just like to state the obvious.  
+**[3772.52s] English:** By the way, that's just stating the obvious.  
 **Translation:** 
 
 **[3774.68s] English:** This is before YouTube.  
 **Translation:** 
 
-**[3775.90s] English:** This is before...  
+**[3775.90s] English:** This is before....  
 **Translation:** 
 
 **[3776.64s] English:** This is 10 years before YouTube.  
@@ -3011,39 +3012,39 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[3778.78s] English:** You have a Pentium 60 or 75, right?  
-**Translation:** 
+**Translation:** Vocabulary: pentium: 奔腾
 
 **[3780.76s] English:** The main machine was 4886DX at 33 megahertz, right?  
 **Translation:** 
 
-**[3784.54s] English:** Bear in mind, television was the main form of video at the time.  
+**[3784.54s] English:** Bear in mind; television was the main form of video at the time.  
 **Translation:** 
 
 **[3788.18s] English:** You could get new channels.  
 **Translation:** 
 
-**[3789.22s] English:** In the 90s, having even one new channel when you grew up with four channels,  
+**[3789.22s] English:** In the '90s, having even one new channel when you grew up with just four channels,  
 **Translation:** 
 
-**[3793.04s] English:** having a fifth or a sixth was a big deal.  
+**[3793.04s] English:** Having a fifth or a sixth child was a big deal.  
 **Translation:** 
 
-**[3795.16s] English:** And so having this satellite service with, you know, dozens, even hundreds of channels was so groundbreaking.  
-**Translation:** Vocabulary: groundbreaking: 划时代
+**[3795.16s] English:** And so, having this satellite service with dozens, even hundreds of channels, was so groundbreaking.  
+**Translation:** Vocabulary: groundbreaking: 开创性的
 
 **[3801.90s] English:** Especially because this is a university where you had a ton of different nationalities, right?  
 **Translation:** 
 
-**[3806.00s] English:** So there was a ton of people who wanted...  
+**[3806.00s] English:** So, there were tons of people who wanted...  
 **Translation:** 
 
-**[3808.64s] English:** So in the end, they had like several dishes on different type of satellite, right?  
+**[3808.64s] English:** So, in the end, they had several dishes on different types of satellites, right?  
 **Translation:** 
 
 **[3812.18s] English:** Because, for example, a lot of people were coming from the Maghreb or the Middle East.  
-**Translation:** Vocabulary: maghreb: 北非地区
+**Translation:** Vocabulary: maghreb: 北非西部地区
 
-**[3816.14s] English:** And so they went to different type of satellites.  
+**[3816.14s] English:** And so they went to different types of satellites.  
 **Translation:** 
 
 **[3820.78s] English:** Anyway, the solution worked great.  
@@ -3052,256 +3053,256 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[3823.40s] English:** And they started the VideoLand project.  
 **Translation:** 
 
-**[3825.64s] English:** The VideoLand project has several and some are completely crazy solutions.  
+**[3825.64s] English:** The VideoLand project has several solutions, and some are completely crazy.  
 **Translation:** 
 
-**[3830.02s] English:** Like one, how to create multicast on a unicast network.  
+**[3830.02s] English:** Like in one scenario, how to create multicast on a unicast network.  
 **Translation:** 
 
 **[3834.38s] English:** But let's not come to that.  
-**Translation:** Vocabulary: multicast: 组播
+**Translation:** Vocabulary: multicast: 组播; scenario: 场景; unicast: 单播
 
 **[3835.74s] English:** It's too complex.  
 **Translation:** 
 
-**[3837.30s] English:** But VideoLand client...  
+**[3837.30s] English:** But, VideoLand client,...  
 **Translation:** 
 
-**[3838.64s] English:** The client part is...  
+**[3838.64s] English:** The client part is....  
 **Translation:** 
 
-**[3840.00s] English:** became vlc actually they basically strong-armed the the university to force it to open source  
+**[3840.00s] English:** Became VLC, actually, they basically strong-armed the university to force it to open source.  
 **Translation:** 
 
-**[3846.96s] English:** because university did not understand that and in 2001 it's still early but basically yes the  
+**[3846.96s] English:** Because the university did not understand that, and in 2001, it's still early, but basically, yes.  
 **Translation:** 
 
-**[3852.48s] English:** university agreed early 2001 to make it open source i joined the project in 2003 because  
+**[3852.48s] English:** University agreed in early 2001 to make it open source. I joined the project in 2003 because  
 **Translation:** 
 
-**[3858.56s] English:** that's when i joined the university so the first thing is i'm not the one who created vlc because  
+**[3858.56s] English:** That's when I joined the university, so the first thing is that I'm not the one who created VLC because  
 **Translation:** 
 
-**[3864.48s] English:** actually no one did right just kind of naturally emerged from the video land project and we should  
+**[3864.48s] English:** Actually, no one did; right? Just kind of naturally emerged from the Video Land project, and we should.  
 **Translation:** 
 
-**[3869.12s] English:** mention that like again you you said it just but to make it clear video land as what it became was  
+**[3869.12s] English:** Mention that, like again, you said it "just," but to make it clear, VideoLand is what it became.  
 **Translation:** 
 
-**[3876.80s] English:** at the time is a set of technologies around video the vlc what you called the client that's the  
+**[3876.80s] English:** At the time, there was a set of technologies around video; VLC, which you called the client, that's the  
 **Translation:** 
 
-**[3883.04s] English:** thing that most normies uh that is correct and think of like as the thing which is like the thing  
+**[3883.04s] English:** The thing that most normies think is correct, and they often refer to it as "the thing.  
 **Translation:** 
 
-**[3890.32s] English:** that pops up when you click on video and you play it so i arrive in 2003 and then i will create the  
+**[3890.32s] English:** That pops up when you click on "video" and you play it. So I arrive in 2003, and then I will create the  
+**Translation:** Vocabulary: normies: 普通人的看法
+
+**[3897.28s] English:** Open source, um  
 **Translation:** 
 
-**[3897.28s] English:** open source um  
+**[3899.12s] English:** A non-profit organization called Video Land, and I took everything out of the university to create it.  
 **Translation:** 
 
-**[3899.12s] English:** non-profit organization called video land and i took everything out of the university to create it  
+**[3904.24s] English:** In a non-profit project, and some six months—it's true that I spent more time than  
 **Translation:** 
 
-**[3904.24s] English:** in a non-profit project and some six sustainable it's yes it's true that i spent more time than  
+**[3910.00s] English:** Anyone on VLC and Video Land that is sure, but it's a continuation of a previous project, Video Land.  
+**Translation:** Vocabulary: continuation: 延续
+
+**[3917.12s] English:** The student project, which is a community of Network 2000, is a continuation of that.  
 **Translation:** 
 
-**[3910.00s] English:** anyone on vlc and video land that is sure um but it's a continuity of a previous project video land  
-**Translation:** Vocabulary: continuity: 连续性
-
-**[3917.12s] English:** the student project which is a community of the network 2000 project which is a continuity of that  
+**[3922.16s] English:** Inside, I'm sure there are moments along the way where you were thinking, "What is the future?  
 **Translation:** 
 
-**[3922.16s] English:** inside i'm sure there's moments along the way there you were thinking like what is the future  
+**[3929.12s] English:** Of VLC, so I think this is a part of the project, and I'll tell you what it is. Um, I think that one.  
 **Translation:** 
 
-**[3929.12s] English:** of vlc so i think this is a part of the project and i'll tell you what it is um i think that one  
+**[3934.00s] English:** An aspect that I had an issue with was that we couldn't create such beauty, and I think it  
 **Translation:** 
 
-**[3934.00s] English:** aspect that i had an issue with was that we couldn't create such a beauty and i think it  
+**[3938.24s] English:** Was the project itself the reason it ran so well? So I think that one aspect has been.  
 **Translation:** 
 
-**[3938.24s] English:** was the project itself was the reason it ran so well so i think that one aspect has been  
+**[3941.52s] English:** Changed, and I think that part of the reason I was able to use VLC or VideoLAN is because.  
 **Translation:** 
 
-**[3941.52s] English:** changed and i think that part of the reason i was able to use vlc or video land is because  
+**[3946.16s] English:** I think that was the thing I was able to use with VLC, though, and that was part of the  
 **Translation:** 
 
-**[3946.16s] English:** i think that was the thing that i was able to be able to use with vlc um and that was part of the  
+**[3949.92s] English:** The reason VLC was built into Video Land, but the second one, I had to experiment with.  
 **Translation:** 
 
-**[3949.92s] English:** reason that vlc was built into video land but the second one the second one i had to experiment with  
+**[3953.12s] English:** I was able to process that, and that was kind of the answer to the question of how I can give people.  
 **Translation:** 
 
-**[3953.12s] English:** i was able to process that and that was kind of the answer to the question of how can i give people  
-**Translation:** 
-
-**[3957.12s] English:** better ideas of how to do a better video land project i have to solve all the problems and i'm still  
+**[3957.12s] English:** Better ideas of how to do a better video land project; I have to solve all the problems, and I'm still...  
 **Translation:** 
 
 **[3959.02s] English:** My, my, my.  
 **Translation:** 
 
-**[3960.00s] English:** life and my time. And I made that to grow from a few hundreds of thousands of users, millions of  
+**[3960.00s] English:** Life and my time. And I made it grow from a few hundred thousand users to millions of users.  
 **Translation:** 
 
-**[3966.90s] English:** users to what we have now, which is probably billions of versions of VLC around the world  
+**[3966.90s] English:** Users to what we have now, which is probably billions of versions of VLC around the world.  
 **Translation:** 
 
-**[3972.70s] English:** and used everywhere. So that's a bit the story of VLC. There is a ton of very funny stories around  
+**[3972.70s] English:** And it's used everywhere. So, that's a bit the story of VLC. There are tons of very funny stories around.  
 **Translation:** 
 
-**[3979.82s] English:** that. Many people from around the world working on it, like you said, in Syria or middle of nowhere  
+**[3979.82s] English:** That. Many people from around the world are working on it, as you said, in Syria or in the middle of nowhere.  
 **Translation:** 
 
-**[3986.32s] English:** in India. But along the way, I got several offers which were either to bundle toolbars, right? You  
+**[3986.32s] English:** In India. But along the way, I got several offers, which were either to bundle toolbars, right?  
 **Translation:** Vocabulary: bundle: 捆绑软件; toolbars: 工具栏
 
-**[3994.36s] English:** remember those horrible toolbars, which are basically spyware or changing your web browser  
+**[3994.36s] English:** Remember those horrible toolbars, which are basically spyware or changing your web browser.  
 **Translation:** 
 
-**[4000.08s] English:** or your search engine or even like advertisement inside VLC. And I didn't like that, right?  
-**Translation:** 
+**[4000.08s] English:** Or in your search engine, or even inside VLC advertisements. And I didn't like that, right?  
+**Translation:** Vocabulary: browser: 浏览器; spyware: 间谍软件
 
 **[4007.42s] English:** And people don't understand that I'm not against money, right? I'm very happy to make money.  
 **Translation:** 
 
-**[4013.30s] English:** I created several startups and one.  
+**[4013.30s] English:** I created several startups, and one.  
 **Translation:** Vocabulary: startups: 创业公司
 
-**[4015.82s] English:** I hope that is going to work very well. It's the fact that I believe that you need to win money  
+**[4015.82s] English:** I hope that's going to work very well. It's the fact that I believe you need to win money.  
 **Translation:** 
 
-**[4022.32s] English:** ethically. There is the right way of doing that. And doing sneaky advertisement or stealing data  
-**Translation:** Vocabulary: ethically: 合乎道德地
+**[4022.32s] English:** Ethically, there is the right way to do that. And doing sneaky advertisements or stealing data.  
+**Translation:** Vocabulary: ethically: 道德上; sneaky: 狡猾的
 
-**[4028.26s] English:** is not the correct way, right? For example, if Netflix arrived at some point and say, well,  
+**[4028.26s] English:** Is not the correct way, right? For example, if Netflix arrived at some point and said, well,  
 **Translation:** 
 
-**[4032.92s] English:** we want to put Netflix inside VLC, probably the story would have been different, right? But they  
+**[4032.92s] English:** We wanted to put Netflix inside VLC, probably the story would have been different, right? But they...  
 **Translation:** 
 
-**[4037.56s] English:** didn't. The only people who came to us were shady ads company. And if I do that, right, I would have  
+**[4037.56s] English:** Didn't. The only people who came to us were shady ad companies. And if I did that, right, I would have  
 **Translation:** 
 
-**[4044.00s] English:** a ton of money, right? And then  
+**[4044.00s] English:** A ton of money, right? And then,...  
 **Translation:** Vocabulary: shady: 可疑的
 
-**[4045.82s] English:** three years later, the project is gone, right? Someone forks it and something else happens.  
+**[4045.82s] English:** Three years later, the project is gone, right? Someone forks it, and something else happens.  
 **Translation:** 
 
-**[4051.76s] English:** So it's not even necessarily ads or any of that. It's the shadiness of the dishonesty of the...  
+**[4051.76s] English:** So, it's not necessarily about ads or anything like that. It's more about the shadiness and dishonesty of...  
 **Translation:** Vocabulary: dishonesty: 不诚实; shadiness: 可疑
 
-**[4057.24s] English:** So you had a good radar, you had a good threshold of like, no, this compromises the spirit of what  
+**[4057.24s] English:** So, you had a good radar, you had a good threshold of, no, this compromises the spirit of what?  
 **Translation:** 
 
-**[4064.32s] English:** this is supposed to represent.  
-**Translation:** Vocabulary: compromises: 损害; threshold: 门槛
+**[4064.32s] English:** This is supposed to represent.  
+**Translation:** Vocabulary: compromises: 妥协; threshold: 门槛
 
-**[4065.84s] English:** But also it's for me, right? I'm like very selfishly, I need to go to bed at night and be  
+**[4065.84s] English:** But also, it's for me, right? I'm very selfishly thinking I need to go to bed at night and be  
 **Translation:** 
 
-**[4071.68s] English:** happy about what I've done, right? Maybe it's my upbringing.  
+**[4071.68s] English:** Happy about what I've done, right? Maybe it's my upbringing.  
 **Translation:** Vocabulary: upbringing: 教育背景
 
-**[4075.82s] English:** Maybe it's my parents' fault or whatever, right? But I believe there is...  
+**[4075.82s] English:** Maybe it's my parents' fault, or whatever, right? But I believe there is...  
 **Translation:** 
 
-**[4080.00s] English:** right and wrong right and this was the right decision at the time it still is i want to be  
+**[4080.00s] English:** Right and wrong: right, and this was the right decision at the time; it still is. I want to be...  
 **Translation:** 
 
-**[4086.40s] English:** proud of what i've been doing and like if i had sold out i would have betrayed so many other  
+**[4086.40s] English:** Proud of what I've been doing, and if I had sold out, I would have betrayed so many others.  
 **Translation:** 
 
-**[4093.20s] English:** people working yeah well i should say me and uh mostly internet thank you for that decision  
-**Translation:** Vocabulary: betrayed: 背叛
+**[4093.20s] English:** People working, yeah. Well, I should say, "me and mostly internet." Thank you for that decision.  
+**Translation:** Vocabulary: betrayed: 出卖
 
-**[4099.52s] English:** it's inspiring uh for others uh i think that um that are pushing open source movement forward  
+**[4099.52s] English:** It's inspiring for others, I think, who are pushing the open-source movement forward.  
 **Translation:** 
 
-**[4107.28s] English:** that it's okay to do these kinds of huge sacrifices if you believe it's right and i  
+**[4107.28s] English:** That it's okay to do these kinds of huge sacrifices if you believe it's right, and I  
 **Translation:** 
 
-**[4114.34s] English:** think in that case it was right and it was the reason that vlc became as successful as it was  
+**[4114.34s] English:** Think; in that case, it was right, and it was the reason why VLC became as successful as it was.  
 **Translation:** 
 
-**[4118.14s] English:** because it it's an embodiment it's a symbol of like you know freedom and what the open source  
+**[4118.14s] English:** Because it is an embodiment and a symbol of, like you know, freedom and what open source represents.  
 **Translation:** Vocabulary: embodiment: 体现
 
-**[4125.00s] English:** community can create yeah and be a service for so many people around the world and this is important  
+**[4125.00s] English:** The community can create, yes, and be a service for so many people around the world, and this is important.  
 **Translation:** 
 
-**[4130.08s] English:** we should emphasize in the 2000s it was really normal to download a program and it secretly  
+**[4130.08s] English:** We should emphasize that, in the 2000s, it was really normal to download a program and it secretly  
+**Translation:** Vocabulary: emphasize: 强调
+
+**[4134.62s] English:** Installed some spyware, yeah. It was very  
 **Translation:** 
 
-**[4134.62s] English:** installed some spyware yeah it was it was very  
+**[4137.28s] English:** In very faint text, or in the license text box that nobody reads, at the bottom: Oh, I'll  
+**Translation:** Vocabulary: spyware: 偷窥软件
+
+**[4143.46s] English:** Be installing this toolbar and changing all these things, and it was very common to have to.  
 **Translation:** 
 
-**[4137.28s] English:** in very faint text or in the license text box that nobody reads that at the bottom oh i will  
+**[4147.64s] English:** You know, you install a program to do something at the time of any sort to put yourself in the  
+**Translation:** Vocabulary: toolbar: 工具栏
+
+**[4152.32s] English:** Mind of a developer at that time, I think it's very easy for everybody listening to this.  
 **Translation:** 
 
-**[4143.46s] English:** be installing this toolbar and changing all these things and it was it was very common to have to  
+**[4158.34s] English:** Very easy at that time to convince yourself to take a few thousand dollars, a few thousand dollars.  
 **Translation:** 
 
-**[4147.64s] English:** you know you install a program to do something at the time of any sort to put yourself in the  
+**[4165.04s] English:** To do it, to say.  
 **Translation:** 
 
-**[4152.32s] English:** mind of a developer at that time i think it's very easy to everybody listening to this it's  
+**[4167.16s] English:** Yeah.  
 **Translation:** 
 
-**[4158.34s] English:** very easy at that time to convince yourself to take a few thousand dollars a few thousand dollars  
+**[4167.28s] English:** To have much more money takes guts and takes vision. The last offer I had was obscene.  
 **Translation:** 
 
-**[4165.04s] English:** to do it to to say  
+**[4177.16s] English:** And they say, "Yeah, but imagine with all that money, you could build something new and open-source, right?  
+**Translation:** Vocabulary: obscene: 离谱的
+
+**[4183.54s] English:** It was like the mind trick; it was difficult, but for me, it was just like, "No, this doesn't work.  
 **Translation:** 
 
-**[4167.16s] English:** yeah  
+**[4190.30s] English:** Like that, or this isn't the right thing, so I don't do it, and again, it's not that I don't.  
 **Translation:** 
 
-**[4167.28s] English:** to much more money takes guts and takes vision the last offer i had was obscene  
+**[4196.12s] English:** Like money or  
 **Translation:** 
 
-**[4177.16s] English:** and they say yeah but imagine with all that money you could build something new open source right  
-**Translation:** Vocabulary: obscene: 荒谬的
-
-**[4183.54s] English:** it was like the mind trick was it was difficult but for me it was just like no this doesn't work  
+**[4197.16s] English:** Or, whatever; it just wasn't right.  
 **Translation:** 
 
-**[4190.30s] English:** like that or this is not the right thing so i don't do it and again right it's not that i don't  
+**[4200.72s] English:** Well, once again, thank you from me and from the rest of the internet.  
 **Translation:** 
 
-**[4196.12s] English:** like money or  
+**[4204.84s] English:** Let me talk a little bit more about the open source movement.  
 **Translation:** 
 
-**[4197.16s] English:** or whatever it's just like it wasn't right  
+**[4207.88s] English:** About the fact that, as you say, over and over again,  
 **Translation:** 
 
-**[4200.72s] English:** Well, once again, thank you from me and from the rest of the Internet.  
+**[4211.74s] English:** FFMPEG and many open-source projects are built by volunteers.  
 **Translation:** 
 
-**[4204.84s] English:** Let me talk a little bit more about the open source movement,  
+**[4217.60s] English:** So, there's been a bit of drama recently, Karen, on the interwebs—on Twitter.  
 **Translation:** 
 
-**[4207.88s] English:** about the fact that, as you say, over and over and over and over,  
-**Translation:** 
-
-**[4211.74s] English:** FFMPEG and many open source projects are built by volunteers.  
-**Translation:** 
-
-**[4217.60s] English:** So there's a bit of drama recently, Karen, on the interwebs, on Twitter.  
-**Translation:** 
-
-**[4224.10s] English:** You have a spicy style on Twitter that I think articulates  
+**[4224.10s] English:** You have a spicy style on Twitter that I think articulates.  
 **Translation:** Vocabulary: articulates: 表达; interwebs: 互联网
 
-**[4229.56s] English:** and celebrates all the incredible developers and development  
+**[4229.56s] English:** And it celebrates all the incredible developers and development.  
 **Translation:** 
 
-**[4233.12s] English:** and the code, especially assembly, that's involved in building some of these codecs  
+**[4233.12s] English:** And the code, especially assembly, that's involved in building some of these codecs.  
 **Translation:** 
 
-**[4239.38s] English:** and building some of this incredible technology.  
+**[4239.38s] English:** And building some of this incredible technology.  
 **Translation:** 
 
 **[4241.60s] English:** But that brings us to a bit of a debacle that happened.  
@@ -3310,20 +3311,20 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4245.26s] English:** Tell me the full saga of what happened with the Google security engineers.  
 **Translation:** 
 
-**[4250.18s] English:** Just to be clear, Google are one of the biggest supporters of open source out there.  
+**[4250.18s] English:** Just to be clear, Google is one of the biggest supporters of open source out there.  
 **Translation:** 
 
 **[4254.12s] English:** They have been for a long time.  
 **Translation:** 
 
-**[4255.74s] English:** It's just, I think, some things kind of went a bit overboard this time.  
-**Translation:** Vocabulary: overboard: 太过分了
+**[4255.74s] English:** It's just that I think some things kind of went a bit overboard this time.  
+**Translation:** Vocabulary: overboard: 过度了
 
-**[4260.18s] English:** So FFMPEG itself, and this is not like a secret, it's on the homepage,  
+**[4260.18s] English:** So, FFmpeg itself, and this is not a secret; it's on the homepage,  
 **Translation:** 
 
-**[4264.40s] English:** it processes untrusted data.  
-**Translation:** Vocabulary: untrusted: 不可信
+**[4264.40s] English:** It processes untrusted data.  
+**Translation:** Vocabulary: untrusted: 不可信的
 
 **[4267.86s] English:** There can be security issues when you pass untrusted data.  
 **Translation:** 
@@ -3331,22 +3332,22 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4270.42s] English:** That's very normal.  
 **Translation:** 
 
-**[4271.48s] English:** But recently what changed was Google started using AI to create security reports  
+**[4271.48s] English:** But recently, what changed was that Google started using AI to create security reports.  
 **Translation:** 
 
-**[4275.60s] English:** on an open source project, FFMPEG.  
+**[4275.60s] English:** On an open-source project, FFmpeg.  
 **Translation:** 
 
 **[4279.04s] English:** Volunteers had to deal with that.  
 **Translation:** 
 
-**[4281.14s] English:** They provided very limited funding,  
+**[4281.14s] English:** They provided very limited funding.  
 **Translation:** 
 
-**[4282.92s] English:** and they even went to the media first announcing how good their AI was  
+**[4282.92s] English:** And they even went to the media first, announcing how good their AI was.  
 **Translation:** 
 
-**[4286.70s] English:** before the issues could be fixed.  
+**[4286.70s] English:** Before the issues could be fixed.  
 **Translation:** 
 
 **[4289.54s] English:** And this is in the public forum.  
@@ -3355,13 +3356,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4291.48s] English:** Yeah.  
 **Translation:** 
 
-**[4291.92s] English:** So reporting an issue, using AI to find an issue in the code,  
+**[4291.92s] English:** So, reporting an issue using AI to find an issue in the code,  
 **Translation:** 
 
-**[4295.70s] English:** which is a security vulnerability,  
-**Translation:** Vocabulary: vulnerability: 安全漏洞
+**[4295.70s] English:** Which is a security vulnerability.  
+**Translation:** Vocabulary: vulnerability: 安全隐患
 
-**[4297.90s] English:** and then reporting that publicly before you're able to fix it.  
+**[4297.90s] English:** And then reporting that publicly before you are able to fix it.  
 **Translation:** 
 
 **[4300.48s] English:** Yeah.  
@@ -3370,104 +3371,104 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4300.90s] English:** It's announcing how good their AI is.  
 **Translation:** 
 
-**[4303.06s] English:** They provided a standard 90-day industry deadline  
+**[4303.06s] English:** They provided a standard 90-day industry deadline.  
 **Translation:** 
 
-**[4308.74s] English:** without really understanding the nature of volunteer-driven development.  
+**[4308.74s] English:** Without really understanding the nature of volunteer-driven development.  
 **Translation:** 
 
-**[4312.92s] English:** In addition, this vulnerability was on an obscure 1990s game codec.  
-**Translation:** Vocabulary: obscure: 冷门
+**[4312.92s] English:** In addition, this vulnerability was in an obscure 1990s game codec.  
+**Translation:** Vocabulary: obscure: 不知名
 
-**[4320.00s] English:** the way and let's look at it from their standpoint to begin with let's um you know  
+**[4320.00s] English:** The way, and let's look at it from their standpoint to begin with. Let's, um, you know.  
 **Translation:** 
 
-**[4324.82s] English:** yeah can you steal me on their case yeah sure they have substantial resources working on the  
+**[4324.82s] English:** Yeah, can you steal me on their case? Yeah, sure. They have substantial resources working on the  
 **Translation:** Vocabulary: standpoint: 立场
 
-**[4329.18s] English:** security of open source projects that you know are ubiquitous and they've used you know a lot  
+**[4329.18s] English:** Security of open-source projects that you know are ubiquitous and they've been used a lot.  
 **Translation:** 
 
-**[4335.16s] English:** of compute to do that and very expensive and very capable security researchers um to do that and  
-**Translation:** Vocabulary: ubiquitous: 无处不在
+**[4335.16s] English:** Of course, it would be computationally intensive and very expensive, and even then, very capable security researchers would have to do that.  
+**Translation:** Vocabulary: computationally: 计算上; ubiquitous: 无处不在的
 
-**[4340.78s] English:** that's their viewpoint is they are contributing by doing that but i think that's where  
+**[4340.78s] English:** That's their viewpoint; they are contributing by doing that, but I think that's where.  
 **Translation:** 
 
-**[4346.18s] English:** their opinions differ um it opened up a lot of interesting fishes i would say um  
+**[4346.18s] English:** Their opinions differ, um, it opened up a lot of interesting possibilities, I would say, um,  
+**Translation:** Vocabulary: viewpoint: 观点
+
+**[4354.98s] English:** It does seem that there's a portion of the security community that looks at themselves,...  
 **Translation:** 
 
-**[4354.98s] English:** it does seem that there's a portion of the security community that um look at themselves  
+**[4361.68s] English:** A bit like building architects that never have to go to the site, you know; going to the site is something  
 **Translation:** 
 
-**[4361.68s] English:** a bit like building architects that never have to go to site you know going to site is something  
+**[4366.48s] English:** That is a little bit beneath them. The actual day-to-day construction; they're there to do.  
 **Translation:** 
 
-**[4366.48s] English:** that is a little bit beneath them the actual day-to-day construction they're there to do  
+**[4370.66s] English:** Security things, and it's someone else's problem. The security industry also kind of has.  
 **Translation:** 
 
-**[4370.66s] English:** security things and it's someone else's problem the security industry also kind of has  
+**[4376.08s] English:** A very aggressive tone towards things; the language they use is extremely aggressive.  
 **Translation:** 
 
-**[4376.08s] English:** a very aggressive tone towards things the language they use is extremely aggressive  
+**[4381.84s] English:** They use very strong language, like "you'll get popped," and to Joe Public, "get popped," you know it.  
 **Translation:** 
 
-**[4381.84s] English:** they use very strong language like you will get popped and to Joe Public get popped you know it  
+**[4388.12s] English:** Means something quite bad for them; it means to get hacked. The way I would look at it, personally.  
 **Translation:** 
 
-**[4388.12s] English:** means something quite bad for them it means to get hacked the way I would look at it personally  
-**Translation:** 
-
-**[4392.86s] English:** is a little bit like the padlock on your home not everyone that padlock on your home or you know  
+**[4392.86s] English:** It's a little bit like the padlock on your home. Not everyone has the key to that padlock, or you know.  
 **Translation:** Vocabulary: hacked: 被黑客攻击; padlock: 门锁
 
-**[4400.40s] English:** the lock on your home is there to to protect against the capabilities of of what it's there  
+**[4400.40s] English:** The lock on your home is there to protect against the capabilities of what it's designed for.  
 **Translation:** 
 
-**[4407.56s] English:** to protect it's not there to protect nuclear secrets it's not there to protect Fort Knox and  
+**[4407.56s] English:** To protect, it's not there to protect nuclear secrets; it's not there to protect Fort Knox, and  
+**Translation:** Vocabulary: capabilities: 防盗能力
+
+**[4412.62s] English:** It could be looked at that they're using AI at a level of scale to go and pick those locks and  
 **Translation:** 
 
-**[4412.62s] English:** it could be looked at that they're using AI at a level of scale to go and pick those locks and  
+**[4419.24s] English:** Then, say, "Hey, your lock isn't secure; you need to deal with this." Whereas, actually, they're  
 **Translation:** 
 
-**[4419.24s] English:** then say hey your locks your locks not secure you need to deal with this whereas actually they're  
+**[4424.44s] English:** The ones with the resources to be able to fix this, but that seems to not be.  
 **Translation:** 
 
-**[4424.44s] English:** the ones with resources to be able to fix this but that seems to not be  
+**[4430.38s] English:** Something; either they'll contribute to in terms of patches, or in terms of financial support, and if the  
+**Translation:** Vocabulary: patches: 补丁
+
+**[4435.40s] English:** The scale of AI is kind of the issue; the bug reports are very wordy.  
 **Translation:** 
 
-**[4430.38s] English:** something either they'll contribute to in terms of patches or in terms of financially and if the  
-**Translation:** Vocabulary: financially: 经济上
+**[4440.00s] English:** They're very, very close to a denial-of-service attack.  
+**Translation:** Vocabulary: wordy: 啰嗦的
 
-**[4435.40s] English:** scale of AI is kind of the issue that the the bug reports are very wordy  
+**[4442.84s] English:** By AI-generated bug reports on very niche codecs.  
 **Translation:** 
 
-**[4440.00s] English:** They're very, very, it's almost a denial of service  
-**Translation:** Vocabulary: wordy: 啰嗦
+**[4447.78s] English:** And the other issue the security community has:  
+**Translation:** Vocabulary: niche: 专门领域
 
-**[4442.84s] English:** by AI-generated bug reports on very niche codecs.  
-**Translation:** 
-
-**[4447.78s] English:** And the other issue the security community has  
-**Translation:** Vocabulary: niche: 细分市场
-
-**[4449.88s] English:** is everything is marked high priority.  
+**[4449.88s] English:** Is everything marked high priority?  
 **Translation:** 
 
 **[4452.10s] English:** You're going to, you know,  
 **Translation:** 
 
-**[4453.16s] English:** this is the most important thing in the world,  
+**[4453.16s] English:** This is the most important thing in the world.  
 **Translation:** 
 
-**[4454.58s] English:** and you need to deal with this.  
+**[4454.58s] English:** And you need to deal with this.  
 **Translation:** 
 
-**[4455.66s] English:** High, high, high, vulnerable, scary, scary, scary  
+**[4455.66s] English:** High, high, high, vulnerable, scary, scary, scary.  
 **Translation:** 
 
-**[4457.58s] English:** on a game codec used on one disk in 1993.  
-**Translation:** 
+**[4457.58s] English:** On a game codec used on one disk in 1993.  
+**Translation:** Vocabulary: vulnerable: 易受攻击的
 
 **[4463.32s] English:** Yeah.  
 **Translation:** 
@@ -3478,445 +3479,445 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[4466.60s] English:** Going around telling everyone that their padlocks  
 **Translation:** 
 
-**[4469.46s] English:** are not safe, well, that's a hobby project of somebody.  
+**[4469.46s] English:** Are not safe, well, that's a hobby project of somebody.  
 **Translation:** 
 
-**[4473.30s] English:** The safety of that codec is consummate  
+**[4473.30s] English:** The safety of that codec is consummate.  
 **Translation:** 
 
-**[4475.86s] English:** to what that person thinks.  
+**[4475.86s] English:** To what that person thinks.  
 **Translation:** Vocabulary: consummate: 完美的
 
 **[4477.62s] English:** It's their hobby.  
 **Translation:** 
 
-**[4478.22s] English:** It's good that they're security analyzing it,  
+**[4478.22s] English:** It's good that they're security analyzing it.  
 **Translation:** 
 
-**[4479.88s] English:** but it doesn't need a big, scary warning.  
+**[4479.88s] English:** But it doesn't need a big, scary warning.  
 **Translation:** 
 
 **[4481.96s] English:** This is a critical vulnerability.  
-**Translation:** 
+**Translation:** Vocabulary: vulnerability: 弱点
 
-**[4484.34s] English:** You may recently also see that there was another  
+**[4484.34s] English:** You may recently also see that there was another.  
 **Translation:** 
 
 **[4488.30s] English:** quote-unquote vulnerability.  
-**Translation:** Vocabulary: vulnerability: 安全漏洞
-
-**[4489.96s] English:** It wasn't a Google in this case,  
 **Translation:** 
 
-**[4491.36s] English:** but a filter could overflow and have an integer overflow,  
+**[4489.96s] English:** It wasn't a Google search in this case.  
+**Translation:** 
+
+**[4491.36s] English:** But a filter could overflow and cause an integer overflow.  
 **Translation:** Vocabulary: integer: 整数; overflow: 溢出
 
-**[4496.46s] English:** and one of your pixels could be the wrong color.  
+**[4496.46s] English:** And one of your pixels could be the wrong color.  
 **Translation:** 
 
 **[4499.46s] English:** And this was marked high, 7.5 severity in red.  
 **Translation:** Vocabulary: pixels: 像素; severity: 严重程度
 
-**[4505.58s] English:** And at some point, the security industry needs to realize  
+**[4505.58s] English:** And at some point, the security industry needs to realize.  
 **Translation:** 
 
-**[4508.22s] English:** you can't keep crying wolf like this,  
+**[4508.22s] English:** You can't keep crying wolf like this.  
 **Translation:** 
 
-**[4510.02s] English:** because this just leads to people, you know,  
+**[4510.02s] English:** Because this just leads to people, you know,  
 **Translation:** 
 
-**[4511.68s] English:** the equivalent thereof of putting password stickers on their PC.  
-**Translation:** Vocabulary: thereof: 其中的
+**[4511.68s] English:** The equivalent thereof is putting password stickers on their PC.  
+**Translation:** Vocabulary: stickers: 贴纸; thereof: 其等
 
 **[4515.60s] English:** You know, you can't just keep crying wolf every day.  
 **Translation:** 
 
-**[4517.62s] English:** And I appreciate, you know, that's their modus operandi  
-**Translation:** Vocabulary: operandi: 惯用法
-
-**[4520.94s] English:** is to create as much scared and fear.  
+**[4517.62s] English:** And I appreciate, you know, that's their modus operandi.  
 **Translation:** 
 
-**[4524.30s] English:** But from the Google standpoint, at the end of the day, they need  
+**[4520.94s] English:** Is to create as much scare and fear.  
+**Translation:** 
+
+**[4524.30s] English:** But, from a Google standpoint, at the end of the day, they need  
 **Translation:** Vocabulary: standpoint: 立场
 
-**[4529.34s] English:** to contribute either financially or with patches.  
+**[4529.34s] English:** To contribute, either financially or with patches.  
 **Translation:** 
 
-**[4532.52s] English:** Google uses FFmpeg, and a scale probably you or I  
-**Translation:** 
+**[4532.52s] English:** Google uses FFmpeg, and a scale, probably, you or I.  
+**Translation:** Vocabulary: financially: 捐款; patches: 修复
 
-**[4535.88s] English:** couldn't even contemplate, millions of CPU cores.  
+**[4535.88s] English:** Could not even contemplate millions of CPU cores.  
 **Translation:** 
 
 **[4540.32s] English:** And yes, they contribute in areas mostly regarding their own products.  
 **Translation:** Vocabulary: contemplate: 考虑
 
-**[4544.28s] English:** So VP9, AV1, but in a wider sense, there's a disproportionate  
+**[4544.28s] English:** So, VP9, AV1, but in a wider sense, there's a disproportionate  
 **Translation:** 
 
-**[4552.02s] English:** level of contribution.  
-**Translation:** Vocabulary: disproportionate: 不相称
+**[4552.02s] English:** Level of contribution.  
+**Translation:** Vocabulary: disproportionate: 不相称的
 
 **[4552.86s] English:** Yes, they fund students.  
 **Translation:** 
 
-**[4554.14s] English:** Yes, they fund Summer of Code.  
+**[4554.14s] English:** Yes, they fund the Summer of Code.  
 **Translation:** 
 
-**[4557.30s] English:** And I think, so Alex Strange is a,  
+**[4557.30s] English:** And I think, so Alex Strange is a.  
 **Translation:** 
 
-**[4559.34s] English:** former FFmpeg,  
+**[4559.34s] English:** Former FFmpeg,  
 **Translation:** 
 
-**[4560.00s] English:** fake developer. I think posting in a personal capacity. So he posted about security engineers  
+**[4560.00s] English:** Fake developer: I think posting in a personal capacity. So he posted about security engineers.  
 **Translation:** 
 
-**[4565.92s] English:** on Hacker News. His post reads, the problem with security reports in general is security people  
+**[4565.92s] English:** On Hacker News, his post reads: "The problem with security reports in general is security people,  
 **Translation:** Vocabulary: hacker: 黑客
 
-**[4572.74s] English:** are rampant self-promoters. Linus once called them something worse. Imagine you're a humble  
+**[4572.74s] English:** Are rampant self-promoters. Linus once called them something worse. Imagine you're a humble  
 **Translation:** 
 
-**[4581.02s] English:** volunteer open source developer. If a security researcher finds a bug in your code, they're  
+**[4581.02s] English:** Volunteer open-source developer: if a security researcher finds a bug in your code, they're  
+**Translation:** Vocabulary: rampant: 猖獗
+
+**[4588.34s] English:** Going to make up a cute name for it, start a website with a logo. Google is going to give  
 **Translation:** 
 
-**[4588.34s] English:** going to make up a cute name for it, start a website with a logo. Google is going to give  
-**Translation:** 
-
-**[4594.30s] English:** them a million dollar bounty. They're going to go to DEF CON and get a prize. And I assume  
+**[4594.30s] English:** They'll get a million-dollar bounty. They're going to go to DEF CON and get a prize, and I assume  
 **Translation:** Vocabulary: bounty: 奖金
 
-**[4600.18s] English:** some kind of secret security people orgy where everyone is dressed like they're in the matrix.  
+**[4600.18s] English:** Some kind of secret security people orgy, where everyone is dressed like they're in The Matrix.  
 **Translation:** 
 
 **[4607.58s] English:** Nobody's going to do any of this for you when you fix it.  
-**Translation:** Vocabulary: matrix: 仿真世界
+**Translation:** Vocabulary: matrix: 矩阵
 
-**[4614.34s] English:** Basically commenting on the sort of the incentives.  
+**[4614.34s] English:** Basically, commenting on the sorts of incentives.  
 **Translation:** 
 
-**[4617.24s] English:** For the different people involved, they're misaligned.  
+**[4617.24s] English:** For the different people involved, they are misaligned.  
 **Translation:** Vocabulary: commenting: 评论; incentives: 激励; misaligned: 不一致
 
-**[4621.72s] English:** The problem here is a disproportion of means on discovery compared to patching it, right?  
+**[4621.72s] English:** The problem here is a disproportion between means spent on discovery compared to patching it, right?  
 **Translation:** 
 
 **[4630.20s] English:** And this is the biggest issue, right? And after that debacle, Google did some changes.  
 **Translation:** Vocabulary: debacle: 灾难; disproportion: 失衡; patching: 打补丁
 
-**[4635.26s] English:** They are now starting to send patches, which is...  
+**[4635.26s] English:** They are now starting to send patches, which is great.  
 **Translation:** 
 
-**[4637.22s] English:** And they also now have reward tools for fixing issues. So it has changed a bit because of that  
+**[4637.22s] English:** And they also now have reward tools for fixing issues. So, it has changed a bit because of that.  
+**Translation:** Vocabulary: patches: 补丁
+
+**[4643.16s] English:** Debacle. So it's good, right? But we've seen, and we talk about Google,  
 **Translation:** 
 
-**[4643.16s] English:** debacle. So it's good, right? But we've seen, and we talk about Google,  
+**[4647.24s] English:** But we have seen, like, some other large companies saying, "Oh, you need to fix this bug because it's  
 **Translation:** 
 
-**[4647.24s] English:** but we have seen like some other large companies saying, oh, you need to fix this bug because it's  
+**[4652.60s] English:** Critical in our product. Can you explain the XZ fiasco? The FFmpeg tweet reads:  
 **Translation:** 
 
-**[4652.60s] English:** critical in our product. Can you explain the XZ fiasco? The FFmpeg tweet reads,  
-**Translation:** 
-
-**[4659.80s] English:** the XZ fiasco has shown how a dependence on unpaid volunteers can cause major problems.  
+**[4659.80s] English:** The XZ fiasco has shown how a dependence on unpaid volunteers can cause major problems.  
 **Translation:** Vocabulary: fiasco: 灾难性失败
 
-**[4666.86s] English:** Trillion dollar corporations expect free and urgent support from volunteers. Microsoft teams posted  
+**[4666.86s] English:** Trillion-dollar corporations expect free and urgent support from volunteers. Microsoft Teams posted  
 **Translation:** 
 
-**[4674.82s] English:** on a bug tracker full of...  
-**Translation:** Vocabulary: trillion: 万亿
+**[4674.82s] English:** On a bug tracker, full of...  
+**Translation:** Vocabulary: corporations: 大型企业; tracker: 跟踪器
 
 **[4677.24s] English:** ...volunteers that their issue is hype.  
 **Translation:** 
 
-**[4680.00s] English:** priority. After politely requesting a support contract from Microsoft for long-term maintenance,  
+**[4680.00s] English:** Priority. After politely requesting a support contract from Microsoft for long-term maintenance,  
 **Translation:** 
 
-**[4686.28s] English:** they offered a one-time payment of a few thousand dollars instead. This is unacceptable. We didn't  
+**[4686.28s] English:** They offered a one-time payment of a few thousand dollars instead. This is unacceptable. We didn't  
 **Translation:** 
 
-**[4692.24s] English:** make it up. This is what Microsoft teams actually did. And then you give the image and the details  
-**Translation:** Vocabulary: unacceptable: 无法接受
+**[4692.24s] English:** Make it up. This is what Microsoft Teams actually did, and then you give the image and the details.  
+**Translation:** Vocabulary: unacceptable: 不能接受
 
-**[4698.58s] English:** and all that kind of stuff, showing that these trillion dollar companies are not giving much  
+**[4698.58s] English:** And all that kind of stuff, showing that these trillion-dollar companies are not giving much.  
 **Translation:** 
 
-**[4703.14s] English:** money, not giving much support. They think an open source project is a traditional vendor that  
+**[4703.14s] English:** Money, not giving much support. They think an open-source project is a traditional vendor that  
+**Translation:** Vocabulary: vendor: 供应商
+
+**[4707.76s] English:** They have an SLA. They think a public bug tracker is actually a third-party vendor's.  
 **Translation:** 
 
-**[4707.76s] English:** they have an SLA. They think a public bug tracker is actually a third-party vendor's  
+**[4713.84s] English:** Jira, where you can do all of these things. It's not; it's there to report bugs. I think the thing  
 **Translation:** 
 
-**[4713.84s] English:** Jira where you can do all of these things. It's not. It's there to report bugs. I think the thing  
+**[4719.32s] English:** That made this particularly heinous was the name-dropping of Microsoft, the name-dropping that this involved.  
 **Translation:** 
 
-**[4719.32s] English:** that made this particularly heinous was the name dropping of Microsoft, the name dropping that this  
+**[4724.60s] English:** Is a visible product. If this was just a general bug report, I think that would have made it a lot less confusing.  
+**Translation:** Vocabulary: heinous: 极其恶劣
+
+**[4730.76s] English:** Better. Yeah, so they literally said, "This is a big deal because a lot of people are using it.  
 **Translation:** 
 
-**[4724.60s] English:** is a visible product. If this was just a general bug report, I think that would have made it a lot  
-**Translation:** Vocabulary: heinous: 罪大恶极
-
-**[4730.76s] English:** better. Yeah, so they literally said like, this is a big deal because a lot of people are using it  
+**[4736.64s] English:** In Microsoft.  
 **Translation:** 
 
-**[4736.64s] English:** in Microsoft.  
+**[4737.76s] English:** I wonder what happens psychologically. So, I think what happens in these companies,...  
 **Translation:** 
 
-**[4737.76s] English:** I wonder what happens psychologically. So I think what happens in these companies,  
-**Translation:** 
-
-**[4742.60s] English:** maybe you can correct me, is they, you're right, they just think of FFmpeg as like a vendor  
+**[4742.60s] English:** Maybe you can correct me, but they're right; they just think of FFmpeg as a vendor.  
 **Translation:** Vocabulary: psychologically: 心理上
 
-**[4749.40s] English:** that Microsoft surely is paying a huge amount of money to. They kind of assume that in their  
+**[4749.40s] English:** That Microsoft surely is paying a huge amount of money to. They kind of assume that, in their  
 **Translation:** 
 
-**[4757.02s] English:** interaction and nobody anywhere on the stack is going like, wait a minute, shouldn't we be giving  
+**[4757.02s] English:** Interaction, and nobody anywhere on the stack is going, "Wait a minute, shouldn't we be giving...  
 **Translation:** 
 
-**[4763.14s] English:** millions of dollars to FFmpeg? And this is a very big problem in  
+**[4763.14s] English:** Millions of dollars to FFmpeg? And this is a very big problem.  
 **Translation:** 
 
-**[4766.98s] English:** large companies.  
+**[4766.98s] English:** Large companies.  
 **Translation:** 
 
-**[4767.92s] English:** Like we're talking about some companies, but it's the same everywhere, right? A lot of those  
+**[4767.92s] English:** Like we're talking about some companies, but it's the same everywhere, right? A lot of those...  
 **Translation:** 
 
-**[4773.08s] English:** companies, like when we talked to that person, right, he was just like a manager on one project  
+**[4773.08s] English:** Companies, like when we talked to that person, right? He was just a manager on one project.  
 **Translation:** 
 
-**[4779.42s] English:** in Microsoft Teams, right? He had like never really discussed with open source community. He  
+**[4779.42s] English:** In Microsoft Teams, right? He had never really discussed it with the open-source community. He  
 **Translation:** 
 
-**[4785.00s] English:** had no idea, right? It was like, and, but the problem is that usually there is what we call  
+**[4785.00s] English:** Had no idea, right? It was like, and, but the problem is that, usually, there is what we call,...  
 **Translation:** 
 
-**[4791.06s] English:** OSPOS, right? Open source program offices in those type of companies. And they are the ones who are  
+**[4791.06s] English:** OSPOS, right? Open-source program offices in those types of companies. And they are the ones who are  
 **Translation:** 
 
-**[4796.44s] English:** supposed to discuss with open source. And they are the ones who are supposed to discuss with open  
+**[4796.44s] English:** Supposed to discuss with open source. And they are the ones who are supposed to discuss with open-source communities.  
 **Translation:** 
 
-**[4797.72s] English:** source. And they are the ones who are supposed to discuss with open source.  
+**[4797.72s] English:** Source. And they are the ones who are supposed to discuss with open source.  
 **Translation:** 
 
-**[4797.76s] English:** And I think that that is the whole point of having open source vendors.  
+**[4797.76s] English:** And I think that is the whole point of having open-source vendors.  
+**Translation:** Vocabulary: vendors: 供应商
+
+**[4800.00s] English:** Open-source communities, but like they often don't explain that correctly internally, right? And here.  
 **Translation:** 
 
-**[4800.00s] English:** open source communities but like they often don't explain that correctly internally right and here  
-**Translation:** 
-
-**[4806.24s] English:** is just like we are not your supplier if you want me to be a supplier i'm very happy right i will  
+**[4806.24s] English:** It's just like, we're not your supplier. If you want me to be a supplier, I'm very happy. Right? I'll  
 **Translation:** Vocabulary: internally: 内部; supplier: 供应商
 
-**[4813.12s] English:** send you a contract and slas like i created five companies who are doing that around open source  
+**[4813.12s] English:** Send you a contract and SLA, like I created five companies who are doing that around open source.  
 **Translation:** 
 
-**[4818.48s] English:** projects so that's okay we should say that some some of the spicy tweets that karen you're behind  
+**[4818.48s] English:** Projects, so that's okay. We should say that some of the spicy tweets that Karen wrote—you're behind.  
 **Translation:** Vocabulary: tweets: 推特
 
-**[4824.24s] English:** and some of the debacle produce results positive results donations have increased substantially  
+**[4824.24s] English:** And some of the debacle has produced positive results: donations have increased substantially.  
 **Translation:** 
 
-**[4832.32s] English:** they're still not enough to cover even a single full-time developer but  
-**Translation:** Vocabulary: debacle: 灾难性失败
+**[4832.32s] English:** They're still not enough to cover even a single full-time developer, but  
+**Translation:** Vocabulary: debacle: 灾难; donations: 捐款
 
-**[4836.48s] English:** on both a you know awareness level and a technical level there's substantially more technical  
+**[4836.48s] English:** On both a known awareness level and a technical level, there's substantially more technical advancements.  
 **Translation:** 
 
-**[4842.48s] English:** awareness and sort of awareness of the importance of ffmpeg as a result as a result of x and and  
+**[4842.48s] English:** Awareness and, to some extent, awareness of the importance of FFmpeg as a result of X and and  
+**Translation:** Vocabulary: advancements: 进步
+
+**[4848.56s] English:** What's happened, I can say, you know, it solved its purpose. People realize the level of  
 **Translation:** 
 
-**[4848.56s] English:** what's happened i can say you know it it solved its purpose people realize the level of the  
+**[4854.16s] English:** Level, level, level, level, level, level, level, level.  
 **Translation:** 
 
-**[4854.16s] English:** level of the level of the level of the level of the level of the level of the level of the level of  
+**[4854.22s] English:** Importance FFmpeg has, and on video, it's the same, right? Like, for example, a very simple example for  
 **Translation:** 
 
-**[4854.22s] English:** importance ffmpeg has and on video it's the same right like for example a very simple example for  
+**[4861.32s] English:** More than a year, we couldn't update VLC on Android because of a bug on the Play Store for Android.  
 **Translation:** 
 
-**[4861.32s] English:** more than a year we couldn't update vlc on android because of a bug on the play store on android play  
+**[4868.92s] English:** Store, right? The only way we got someone to answer was to put a very spicy (as you say) um tweet saying...  
 **Translation:** 
 
-**[4868.92s] English:** store right the only way we got someone to answer was to put a very spicy as you say um tweet saying  
+**[4877.92s] English:** That we were going to stop distributing VLC for Android, right? And we have around 100 million.  
+**Translation:** Vocabulary: distributing: 分发
+
+**[4884.14s] English:** People using that, um, and now, then, someone from Android actually came and discussed with us.  
 **Translation:** 
 
-**[4877.92s] English:** that we were going to stop distributing vlc for android right and we have around 100 million  
+**[4891.34s] English:** Um, we had the same issue with Microsoft or like saying that we were going to stop distributing.  
 **Translation:** 
 
-**[4884.14s] English:** people using that um and now then someone from android actually came and discussed to us right  
+**[4897.98s] English:** VLC on the Windows Store, and unfortunately, we are so small that the only very strong power we have.  
 **Translation:** 
 
-**[4891.34s] English:** um we had the same issue with with microsoft or like saying that we were going to stop distributing  
+**[4906.22s] English:** To solve those issues, is blaming on social networks because it's noble, and now they're listening to us, but  
 **Translation:** 
 
-**[4897.98s] English:** vlc on the windows store and unfortunately we are so small that the only very strong power we have  
+**[4913.66s] English:** So,  
 **Translation:** 
 
-**[4906.22s] English:** to solve those issues is blaming on social network because it's nobles and now they listen to us but  
+**[4914.06s] English:** Large companies often have difficulty talking to us, as for example, VLC.  
 **Translation:** 
 
-**[4913.66s] English:** so  
+**[4920.00s] English:** Is probably one of the top 10 software used on Windows. I am not part of Microsoft ISV.  
 **Translation:** 
 
-**[4914.06s] English:** large companies often have difficulty talking to us like for example vlc  
+**[4928.08s] English:** Programs, right? I don't have a point of contact at Microsoft, right? Well, I'm sure any other software...  
 **Translation:** 
 
-**[4920.00s] English:** is probably one of the top 10 software used on windows i am not part of microsoft isv  
+**[4934.54s] English:** Adobe Spotify has a point of contact; I don't have that, so raising awareness works it's.  
 **Translation:** 
 
-**[4928.08s] English:** programs right i don't have a point of contact at microsoft right well i'm sure any other software  
+**[4942.68s] English:** Sometimes, very spicy; a lot of drama. Well, X and Twitter are okay for that, but it's efficient.  
 **Translation:** 
 
-**[4934.54s] English:** adobe spotify has a point of contact i don't have that right so raising awareness works it's  
+**[4949.08s] English:** So, everyone listening to this should go and follow FFmpeg on Twitter, X, and VideoLand.  
 **Translation:** 
 
-**[4942.68s] English:** sometimes very spicy a lot of drama well x and twitter are okay for that but it's efficient  
+**[4959.32s] English:** On Twitter, on X, uh, go donate to FFmpeg. Thank you, Lex. Over the years, several years, you've  
+**Translation:** Vocabulary: donate: 捐款
+
+**[4967.88s] English:** Been a supporter of, you know, FFmpeg and Video Land on X, you know, giving us shout-outs and appreciating.  
 **Translation:** 
 
-**[4949.08s] English:** uh so everybody listening to this should go uh follow ffmpeg on twitter on x follow video land  
+**[4974.30s] English:** You know, what we do is use FFmpeg for life, and for example, like Team Sweden.  
 **Translation:** 
 
-**[4959.32s] English:** on twitter on x uh go donate donate to ffmpeg thank you lex over the years several years you've  
+**[4979.06s] English:** CarMark and a few others, like very high-level people, have also raised awareness about this.  
 **Translation:** 
 
-**[4967.88s] English:** been a supporter of you know ffmpeg and video land on x you know giving us shout outs appreciating  
+**[4985.78s] English:** X-accounts, and that helped a lot. Also, Carpathy, yeah. I mean, outside of the fact,  
 **Translation:** 
 
-**[4974.30s] English:** you know what we do ffmpeg for life and for example like um team sweden  
+**[4994.06s] English:** That so many people use it; it's so impactful on the world, and it's also a great representation of a  
 **Translation:** 
 
-**[4979.06s] English:** carmark and a few others like very high level people have raised also the awareness on on our  
+**[4999.12s] English:** Great open-source project like the value of Assembly and C, and making sure that, like, you take  
 **Translation:** 
 
-**[4985.78s] English:** x accounts and that helped a lot also carpathy yeah i mean also you know outside of the fact  
+**[5009.06s] English:** In the real world, systems are not just something we'll talk about later; I'm sure they're quite complex and involve assembly at various points.  
 **Translation:** 
 
-**[4994.06s] English:** that so many people use it it's so impactful on the world it's also a great representation of a  
+**[5013.64s] English:** Topic in itself, but it's also celebrating people like Andreas Reinhart who do maintenance; it's...  
 **Translation:** 
 
-**[4999.12s] English:** great open source project like the value of assembly and c and making sure that like you take  
+**[5020.50s] English:** I believe, as a volunteer, he's doing massive refactoring work. Andreas Reinhart and Anton.  
 **Translation:** 
 
-**[5009.06s] English:** real world systems it's not just that we'll talk about assembly later i'm sure that's its whole  
+**[5026.56s] English:** Kern of rewriting ffmpeg.c with threading, celebrating those guys celebrating the untold.  
+**Translation:** Vocabulary: andreas: 安德烈亚斯; anton: 安东; refactoring: 重构; reinhart: 雷恩哈特; rewriting: 重写; threading: 线程
+
+**[5032.72s] English:** Labor that's gone into this that actually doesn't change anything from the user standpoint: the files.  
 **Translation:** 
 
-**[5013.64s] English:** topic in itself but it's also celebrating people like andreas reinhart who do maintenance it's i  
-**Translation:** 
+**[5039.06s] English:** Don't change anything; it's just that, it's it's it's it's it's it's it's it's it's it's it's it's it's it's.  
+**Translation:** Vocabulary: standpoint: 立场
 
-**[5020.50s] English:** believe unpaid i believe as a volunteer he's doing massive refactorings uh andreas reinhart and anton  
-**Translation:** 
-
-**[5026.56s] English:** kern of rewriting ffmpeg.c with threading celebrating those guys celebrating the untold  
-**Translation:** Vocabulary: andreas: 安德烈; anton: 安东; refactorings: 重构; reinhart: 雷哈特; rewriting: 重写; threading: 线程
-
-**[5032.72s] English:** labor that's gone into this that actually doesn't change anything from the user standpoint the files  
-**Translation:** 
-
-**[5039.06s] English:** don't change anything it's just that it's it's it's it's it's it's it's it's it's it's it's it's it's it's  
-**Translation:** Vocabulary: standpoint: 用户视角
-
-**[5040.00s] English:** wow, the airplane has been rebuilt whilst it's in the air.  
+**[5040.00s] English:** Wow, the airplane has been rebuilt while it's in the air.  
 **Translation:** 
 
 **[5043.58s] English:** Christian Garcia said,  
 **Translation:** 
 
-**[5044.50s] English:** as a teenager running this account,  
+**[5044.50s] English:** As a teenager, I was running this account.  
 **Translation:** 
 
-**[5046.26s] English:** referring to the FFmpeg account,  
+**[5046.26s] English:** Referring to the FFmpeg account,  
 **Translation:** 
 
-**[5048.08s] English:** and you responded,  
+**[5048.08s] English:** And you responded,  
 **Translation:** 
 
-**[5048.92s] English:** teenagers have written more assembly in FFmpeg  
+**[5048.92s] English:** Teenagers have written more assembly in FFmpeg.  
 **Translation:** 
 
-**[5052.38s] English:** than Google engineers,  
+**[5052.38s] English:** Than Google engineers,  
 **Translation:** 
 
-**[5054.40s] English:** but also just pointing out  
+**[5054.40s] English:** But also, just pointing out,...  
 **Translation:** 
 
-**[5056.72s] English:** that there's a lot of incredible contributors  
+**[5056.72s] English:** That there are a lot of incredible contributors.  
 **Translation:** 
 
-**[5058.34s] English:** who are teenagers.  
+**[5058.34s] English:** Who are teenagers?  
 **Translation:** Vocabulary: contributors: 贡献者
 
 **[5059.70s] English:** Like JB said,  
 **Translation:** 
 
-**[5061.08s] English:** we don't care who you are,  
+**[5061.08s] English:** We don't care who you are.  
 **Translation:** 
 
-**[5062.22s] English:** where you're from,  
+**[5062.22s] English:** Where are you from?  
 **Translation:** 
 
-**[5063.16s] English:** what you do.  
+**[5063.16s] English:** What you do.  
 **Translation:** 
 
-**[5064.70s] English:** Teenagers have written thousands of lines of assembly  
+**[5064.70s] English:** Teenagers have written thousands of lines of assembly code.  
 **Translation:** 
 
-**[5068.24s] English:** over the years.  
+**[5068.24s] English:** Over the years.  
 **Translation:** 
 
-**[5070.66s] English:** Give a shout out back in the days to Daniel Kang.  
+**[5070.66s] English:** Give a shout-out back in the days to Daniel Kang.  
 **Translation:** 
 
-**[5073.78s] English:** So also highlighting the work of people like Rukai Peng,  
-**Translation:** Vocabulary: highlighting: 突出显示
+**[5073.78s] English:** So, too, highlighting the work of people like Rukai Peng,  
+**Translation:** Vocabulary: highlighting: 强调
 
-**[5076.18s] English:** this is a 16-year-old,  
+**[5076.18s] English:** This is a 16-year-old.  
 **Translation:** 
 
-**[5077.30s] English:** some of his first contributions to FFmpeg,  
+**[5077.30s] English:** Some of his first contributions to FFmpeg,  
 **Translation:** 
 
-**[5080.64s] English:** actually doing and putting some of these  
+**[5080.64s] English:** Actually, doing and putting some of these...  
 **Translation:** 
 
-**[5082.54s] English:** quote-unquote security researchers to shame  
+**[5082.54s] English:** Quote-unquote" security researchers to shame  
 **Translation:** 
 
-**[5084.44s] English:** by actually finding issues and fixing them  
+**[5084.44s] English:** By actually finding issues and fixing them.  
 **Translation:** 
 
-**[5087.48s] English:** and being 16.  
+**[5087.48s] English:** And being 16.  
 **Translation:** 
 
 **[5089.56s] English:** There's no barriers.  
 **Translation:** 
 
-**[5090.32s] English:** There's no barriers to you have to study at college  
+**[5090.32s] English:** There are no barriers to having to study at college.  
 **Translation:** Vocabulary: barriers: 障碍
 
-**[5092.74s] English:** under this person and understand these.  
+**[5092.74s] English:** Under this person, and understand these.  
 **Translation:** 
 
 **[5094.62s] English:** If you can learn C,  
 **Translation:** 
 
-**[5096.44s] English:** and let's be honest,  
+**[5096.44s] English:** And let's be honest,  
 **Translation:** 
 
-**[5097.14s] English:** it's from the K&R book,  
+**[5097.14s] English:** It's from the K&R book.  
 **Translation:** 
 
-**[5099.42s] English:** learn C,  
+**[5099.42s] English:** Learn C,  
 **Translation:** 
 
-**[5100.84s] English:** you can learn assembly.  
+**[5100.84s] English:** You can learn assembly.  
 **Translation:** 
 
 **[5101.78s] English:** We'll talk about that maybe a bit later.  
@@ -3928,91 +3929,97 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5106.42s] English:** In VLC,  
 **Translation:** 
 
-**[5107.88s] English:** one of the oldest contributors is called Felix.  
+**[5107.88s] English:** One of the oldest contributors is called Felix.  
 **Translation:** Vocabulary: felix: 菲利克斯
 
 **[5111.18s] English:** He's the one doing everything on Mac and iOS.  
 **Translation:** 
 
-**[5113.84s] English:** He's starting working on VLC.  
+**[5113.84s] English:** He's starting to work on VLC.  
 **Translation:** 
 
 **[5115.42s] English:** He was 16.  
 **Translation:** 
 
-**[5116.78s] English:** We had a guy called Edward Wong,  
+**[5116.78s] English:** We had a guy called Edward Wong.  
 **Translation:** 
 
-**[5119.52s] English:** who used to be a Google Summer of Code student  
+**[5119.52s] English:** Who used to be a Google Summer of Code student?  
 **Translation:** 
 
-**[5121.94s] English:** who stayed for three years around VideoLan.  
+**[5121.94s] English:** Who stayed for three years around VideoLan?  
 **Translation:** 
 
 **[5124.90s] English:** He was 14, right?  
 **Translation:** 
 
-**[5126.72s] English:** And part of Google Summer of Code  
+**[5126.72s] English:** And part of Google Summer of Code.  
 **Translation:** 
 
-**[5129.08s] English:** and Google Coding,  
+**[5129.08s] English:** And Google Coding,  
 **Translation:** 
 
-**[5130.00s] English:** which were programs where basically we have students  
+**[5130.00s] English:** Which were programs where, basically, we have students.  
 **Translation:** 
 
-**[5132.90s] English:** or high school.  
+**[5132.90s] English:** Or in high school.  
 **Translation:** 
 
-**[5134.22s] English:** We wrote a ton of assembly for x264  
+**[5134.22s] English:** We wrote a ton of assembly for x264.  
 **Translation:** 
 
-**[5137.02s] English:** and for VLC and for FFmpeg, right?  
+**[5137.02s] English:** And for VLC and for FFmpeg, right?  
 **Translation:** 
 
-**[5139.58s] English:** So everyone can contribute.  
+**[5139.58s] English:** So, everyone can contribute.  
 **Translation:** 
 
-**[5141.52s] English:** And he also did a good job  
+**[5141.52s] English:** And he also did a good job.  
 **Translation:** 
 
-**[5142.32s] English:** because he didn't play the alarmist CVE heist,  
+**[5142.32s] English:** Because he didn't play the alarmist CVE heist.  
 **Translation:** Vocabulary: heist: 抢劫
 
-**[5146.14s] English:** create a CVE,  
+**[5146.14s] English:** Create a CVE.  
 **Translation:** 
 
-**[5147.30s] English:** which is like a public exposure of security  
+**[5147.30s] English:** Which is like a public exposure of security vulnerabilities.  
+**Translation:** Vocabulary: vulnerabilities: 安全隐患
+
+**[5150.44s] English:** And do these big, scary, red 7.5-priority items.  
 **Translation:** 
 
-**[5150.44s] English:** and do these big, scary, red 7.5 priority.  
+**[5155.50s] English:** He just fixed an issue in Git after three days.  
 **Translation:** 
 
-**[5155.50s] English:** He just fixed an issue in Git after three days  
+**[5157.86s] English:** And just fixed it.  
 **Translation:** 
 
-**[5157.86s] English:** and just fixed it.  
+**[5159.08s] English:** He didn't need to.  
 **Translation:** 
 
-**[5159.08s] English:** He didn't need to,  
+**[5160.00s] English:** Go and play a big security drama about it, and I think I posted: you know, the kids are all right.  
 **Translation:** 
 
-**[5160.10s] English:** he was good, he was great.  
+**[5160.10s] English:** He was good; he was great.  
 **Translation:** 
 
-**[5161.22s] English:** We had all these players  
+**[5161.22s] English:** We had all these players.  
 **Translation:** 
 
-**[5162.54s] English:** and he was a good man.  
+**[5162.54s] English:** And he was a good man.  
 **Translation:** 
 
-**[5163.88s] English:** And it was just the first thing  
+**[5163.88s] English:** And it was just the first thing.  
 **Translation:** 
 
-**[5165.96s] English:** that made me look at Google  
+**[5164.58s] English:** Whereas, there's you know, there is a thing where I'm not saying all security people do this, but  
 **Translation:** 
 
-**[5166.92s] English:** and like, oh my God,  
+**[5165.96s] English:** That made me look at Google.  
+**Translation:** 
+
+**[5166.92s] English:** And, like, oh my God,  
 **Translation:** 
 
 **[5167.68s] English:** I'm in this game.  
@@ -4021,7 +4028,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5168.48s] English:** It was really easy working on IT.  
 **Translation:** 
 
-**[5169.82s] English:** I was like, oh, I am going to do this.  
+**[5169.76s] English:** There is a portion of the security community, as Alex said, that likes to hype themselves up by  
+**Translation:** 
+
+**[5169.82s] English:** I was like, "Oh, I'm going to do this.  
 **Translation:** 
 
 **[5171.12s] English:** I think it's going to be great.  
@@ -4030,178 +4040,169 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5172.34s] English:** I think it's going to be a big success.  
 **Translation:** 
 
-**[5173.82s] English:** Now it's been a really hard process  
+**[5173.82s] English:** Now, it's been a really hard process.  
 **Translation:** 
 
-**[5175.34s] English:** in my life.  
+**[5174.52s] English:** Creating drama, they would have happily raised this as a high-priority CVE 8.0 or whatever on a.  
+**Translation:** 
+
+**[5175.34s] English:** In my life.  
 **Translation:** 
 
 **[5176.14s] English:** I think I got really bad at it.  
 **Translation:** 
 
-**[5177.08s] English:** I think I am going to go places  
+**[5177.08s] English:** I think I am going to go places.  
 **Translation:** 
 
-**[5177.56s] English:** that I should go.  
+**[5177.56s] English:** That I should go.  
 **Translation:** 
 
-**[5180.90s] English:** I know I figured it out,  
+**[5180.90s] English:** I know; I figured it out.  
 **Translation:** 
 
-**[5182.32s] English:** but I am going to go to the end.  
+**[5181.38s] English:** On an issue that actually was in Git—it wasn't even in a release; it was in development—and three  
 **Translation:** 
 
-**[5183.92s] English:** I don't think it's going to work,  
+**[5182.32s] English:** But I am going to go to the end.  
 **Translation:** 
 
-**[5184.88s] English:** but I've been working for so long  
+**[5183.92s] English:** I don't think it's going to work.  
 **Translation:** 
 
-**[5186.52s] English:** and I'm going to try.  
+**[5184.88s] English:** But I've been working for so long.  
 **Translation:** 
 
-**[5188.18s] English:** It's going to be somewhat of an issue,  
+**[5186.24s] English:** Days later, it was fixed. Well, I just want to put a little bit of love out there, even to the bigger.  
 **Translation:** 
 
-**[5160.00s] English:** go and play a big security drama about it and i think i posted you know the kids are all right  
+**[5186.52s] English:** And I'm going to try.  
 **Translation:** 
 
-**[5164.58s] English:** whereas there's there's there's you know there is a i'm not saying all security people do this but  
+**[5188.18s] English:** It's going to be somewhat of an issue.  
 **Translation:** 
 
-**[5169.76s] English:** there is a portion of the security community as alex said that likes to hype themselves up by  
+**[5191.78s] English:** Community, much love and respect to Google engineers—like you said, they're some of  
 **Translation:** 
 
-**[5174.52s] English:** creating drama they would have happily raised this is a high priority cve 8.0 or whatever on a  
+**[5200.04s] English:** The best software engineers in the world do contribute a lot, even on the security front.  
 **Translation:** 
 
-**[5181.38s] English:** on an issue that actually was in git it wasn't even in a release it was in development and three  
+**[5204.32s] English:** And also, you know, I'm a big fan of Theo — I much love Theo; he was part of this.  
 **Translation:** 
 
-**[5186.24s] English:** days later was fixed well i just want to put a little bit of love out there even to the bigger  
+**[5209.48s] English:** Debacle and drama, a little bit, I think, when you just zoom out.  
+**Translation:** Vocabulary: debacle: 灾难
+
+**[5213.76s] English:** On the grand RS,  
 **Translation:** 
 
-**[5191.78s] English:** community uh much love and respect to google engineers like you said they're uh uh some of  
+**[5216.24s] English:** The arc of human history has shown that the drama contributed positively to everybody involved, with donations going.  
+**Translation:** Vocabulary: donations: 捐款
+
+**[5221.30s] English:** Up, it brought more attention to the topic and allowed everyone to bicker in a way that ultimately...  
 **Translation:** 
 
-**[5200.04s] English:** the the best software engineers in the world they do contribute a lot even on the security front  
-**Translation:** 
-
-**[5204.32s] English:** and also you know i'm a big fan of theo much love to theo he was part of this  
-**Translation:** 
-
-**[5209.48s] English:** debacle and drama a little bit i think when you just zoom out  
-**Translation:** Vocabulary: debacle: 灾难性失败
-
-**[5213.76s] English:** on the grand rs  
-**Translation:** 
-
-**[5216.24s] English:** arc of human history the drama contributed positively to everybody involved donations went  
-**Translation:** 
-
-**[5221.30s] English:** up it brought more attention to the topic allowed uh everybody to bicker in a way that ultimately  
-**Translation:** 
-
-**[5228.66s] English:** got them to figure out whatever fan peg is all about so the way the way we looked at this is  
+**[5228.66s] English:** Got them to figure out whatever "fan gate" is. So, the way we looked at this is:  
 **Translation:** Vocabulary: bicker: 争吵
 
-**[5233.46s] English:** like it's a rap battle at the end of the day nobody did it we say stuff we say stuff yeah  
+**[5233.46s] English:** Like it's a rap battle, at the end of the day, nobody did it. We just say stuff, we say stuff, yeah.  
 **Translation:** 
 
-**[5239.26s] English:** but we can we can leave it on the x is a perfect place for you know international rap battle  
+**[5239.26s] English:** But we can leave it on the X — it's a perfect place, you know, for an international rap battle.  
 **Translation:** 
 
-**[5243.74s] English:** you say stuff i say stuff about your mama but  
+**[5243.74s] English:** You say stuff, I say stuff about your mama, but  
 **Translation:** 
 
-**[5246.24s] English:** doesn't mean you know i have an actual personal issue with her yeah and that's what it looks like  
+**[5246.24s] English:** Doesn't mean you know; I have an actual personal issue with her, yeah. And that's what it looks like.  
 **Translation:** 
 
-**[5250.74s] English:** the theo situation you know jb can maybe expand went a little bit too far and there was a little  
+**[5250.74s] English:** The Theo situation, you know, JB can maybe have expanded a little bit too far, and there was a little  
 **Translation:** 
 
-**[5254.78s] English:** but you know it's just a bit of fun it's just a bit of rap battle it's a bit it's wwe you know  
+**[5254.78s] English:** But you know, it's just a bit of fun; it's just a bit of rap battle, it's a bit like WWE, you know.  
 **Translation:** 
 
-**[5260.82s] English:** everyone's having a bit of fun on x it doesn't need to be taken seriously you know the teenagers  
+**[5260.82s] English:** Everyone's having a bit of fun on X; it doesn't need to be taken seriously, you know, the teenagers.  
 **Translation:** 
 
-**[5265.98s] English:** thing you know that so that that guy was a google employee say hey you know there are other ways to  
+**[5265.98s] English:** Thing is, you know, that so that guy who was a Google employee said, "Hey, you know, there are other ways to...  
 **Translation:** 
 
-**[5270.64s] English:** run an open source business you know go and just have a bit of fun you know that's what the point  
+**[5270.64s] English:** Run an open-source business, you know, go and just have a bit of fun—you know—that's what the point.  
 **Translation:** 
 
-**[5276.24s] English:** and furthermore if you can teach people about the ways of  
+**[5276.24s] English:** And furthermore, if you can teach people about the ways of  
 **Translation:** 
 
-**[5280.00s] English:** open source projects, assembly, et cetera, by doing that, I think there's a lot to be offered  
+**[5280.00s] English:** Open-source projects, assembly, and so on, by doing that, I think there's a lot to be offered.  
 **Translation:** 
 
-**[5283.88s] English:** here. It's not dunking on people for dunking sake. It's showing actually the story that I  
-**Translation:** Vocabulary: cetera: 等等; dunking: 羞辱
-
-**[5288.74s] English:** think X learned is these are not big corporate open source projects. This is not Kubernetes  
+**[5283.88s] English:** Here, it's not about dunking on people for the sake of dunking. It's about actually telling the story that I  
 **Translation:** 
 
-**[5292.62s] English:** where there's, you know, hundreds, maybe thousands of people paid to develop this stuff. These are  
+**[5288.74s] English:** Think X: Learned that these are not big corporate open-source projects. This is not Kubernetes.  
+**Translation:** 
+
+**[5292.62s] English:** Where there's, you know, hundreds — maybe thousands — of people paid to develop this stuff, these are  
 **Translation:** Vocabulary: kubernetes: 容器编排系统
 
-**[5297.32s] English:** just people in their basements in their spare time. And if you can address that topic in a fun  
+**[5297.32s] English:** Just people in their basements, in their spare time. And if you can address that topic in a fun,  
 **Translation:** 
 
-**[5301.98s] English:** and entertaining way, I think that that that's the good thing. And that's, that's the value of X  
-**Translation:** Vocabulary: basements: 地下室
+**[5301.98s] English:** And in an entertaining way, I think that's the good thing. That's the value of X.  
+**Translation:** Vocabulary: basements: 地下室; entertaining: 有趣的
 
-**[5307.34s] English:** and in the reach we have. And to be honest, right, like, even on Google, Google is  
+**[5307.34s] English:** And in the reach, we have. And to be honest, right—like, even on Google, Google is  
 **Translation:** 
 
-**[5312.72s] English:** one entity, but so many different people, right? And some, and there is a ton of Google engineer  
+**[5312.72s] English:** One entity, but so many different people, right? And some, and there is a ton of Google engineers.  
 **Translation:** 
 
-**[5319.48s] English:** we work with all the time. And even like Google from YouTube to Chrome, to Chrome media, to the  
+**[5319.48s] English:** We work with them all the time. And even, like, Google—from YouTube to Chrome to Chrome Media.  
 **Translation:** 
 
-**[5327.34s] English:** rest of Google, those are very different type of entities. But what we do is efficient. And for  
+**[5327.34s] English:** Of the rest of Google, these are very different types of entities. But what we do is efficient, and for  
 **Translation:** 
 
-**[5332.96s] English:** example, for Theo, right, it went a bit too far. I had him, like, I call him,  
+**[5332.96s] English:** For example, for Theo, it went a bit too far. I had him; I call him,  
 **Translation:** 
 
-**[5337.34s] English:** everyone down, I had him on the phone, we say, okay, like, this goes too far, and so on. But in  
+**[5337.34s] English:** Everyone, down. I had him on the phone. We said, "Okay, this goes too far," and so on. But in  
 **Translation:** 
 
-**[5342.86s] English:** the end, yeah, it's a hard battle, but it's positive for the project. It's like the awareness  
+**[5342.86s] English:** At the end, yeah, it's a hard battle, but it's positive for the project. It's like the awareness,...  
 **Translation:** 
 
-**[5348.20s] English:** we have on open source. And I mean, true open source from communities, right? Not is increased  
+**[5348.20s] English:** We have true open-source software from communities, right? Not just any kind of increased openness.  
 **Translation:** 
 
-**[5355.22s] English:** dramatically in the last two years. And this is useful.  
+**[5355.22s] English:** Dramatically in the last two years, and this is useful.  
 **Translation:** 
 
 **[5359.08s] English:** What do you think motivates all the incredible contributors that we've been talking about? Like,  
 **Translation:** Vocabulary: contributors: 贡献者; dramatically: 大幅度地; motivates: 激励
 
-**[5363.82s] English:** what's the engine? It's so interesting to see. Like you said, they're sitting  
+**[5363.82s] English:** What's the engine? It's so interesting to see. As you said, they're sitting...  
 **Translation:** 
 
-**[5367.32s] English:** in the basement, what's the driver? What's the engine there?  
+**[5367.32s] English:** In the basement, what's the driver? What's the engine there?  
 **Translation:** 
 
-**[5369.44s] English:** There are many drivers. But weirdly, the main one is that what we do in multimedia plays videos,  
+**[5369.44s] English:** There are many drivers. But oddly, the main one is that what we do in multimedia plays videos.  
 **Translation:** 
 
-**[5376.90s] English:** and video is cool, right? And, and, for example, we have so many people in the community who arrive  
-**Translation:** Vocabulary: multimedia: 多种媒体
+**[5376.90s] English:** And video is cool, right? And, for example, we have so many people in the community who arrive.  
+**Translation:** Vocabulary: multimedia: 多媒体
 
-**[5383.56s] English:** because they loved watching anime, right? And this is like the advice when people ask me,  
+**[5383.56s] English:** Because they loved watching anime, right? And this is like the advice when people ask me,  
 **Translation:** 
 
-**[5389.68s] English:** what should I work on in open source? How do I start? And my question, my answer is always the  
+**[5389.68s] English:** What should I work on in open source? How do I start? And my question: my answer is always the  
 **Translation:** Vocabulary: anime: 动画
 
-**[5393.96s] English:** same. Work on something you love. I,  
+**[5393.96s] English:** Same. Work on something you love. I,  
 **Translation:** 
 
 **[5397.32s] English:** I'm working on VLC because I love movies, right?  
@@ -4216,20 +4217,20 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5407.12s] English:** Because it's a topic that you like, right?  
 **Translation:** 
 
-**[5409.52s] English:** That's the first thing where people come to, usually, to VLC and FFmpeg.  
+**[5409.52s] English:** That's the first thing where people come to, usually, with VLC and FFmpeg.  
 **Translation:** 
 
 **[5413.94s] English:** The second thing is that, technically, because we search for excellence, this is the best school ever, right?  
 **Translation:** 
 
-**[5421.98s] English:** This is the best school ever of programming.  
+**[5421.98s] English:** This is the best school ever for programming.  
+**Translation:** Vocabulary: technically: 从技术上说
+
+**[5424.74s] English:** If you're good in C, in FFmpeg, and if you know how to write assembly, I assure you, you're going to be one of the best programmers ever, even if you're working on writing TypeScript, because this is the most amazing thing to do.  
 **Translation:** 
 
-**[5424.74s] English:** If you're good in C, in FFmpeg, if you know how to write assembly, I assure you, you're going to be one of the best programmers ever, even if you're working on writing TypeScript, because this is the most amazing thing to do.  
-**Translation:** 
-
-**[5438.96s] English:** And you will, like, have to get reviews by some of the most seasoned programmers ever who are going to look at every part of your code and tell you why it's not great.  
-**Translation:** Vocabulary: programmers: 程序员
+**[5438.96s] English:** And you will, like, have to get reviews from some of the most seasoned programmers ever who are going to look at every part of your code and tell you why it's not great.  
+**Translation:** Vocabulary: assure: 保证; programmers: 程序员; seasoned: 经验丰富的
 
 **[5449.40s] English:** It's like we are the best teachers that you've ever had in programming, right?  
 **Translation:** 
@@ -4240,10 +4241,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5454.32s] English:** He was an FFmpeg.  
 **Translation:** 
 
-**[5454.74s] English:** He was an FFmpeg developer and started Zig after his FFmpeg school.  
+**[5454.74s] English:** He was an FFmpeg developer and started Zig after his "FFmpeg school.  
 **Translation:** 
 
-**[5458.56s] English:** I mean, it's the place to learn so many aspects of programming in the real world, in a thing used by billions of people.  
+**[5458.56s] English:** I mean, it's the place to learn so many aspects of programming in the real world, in a tool used by billions of people.  
 **Translation:** 
 
 **[5466.42s] English:** You have nowhere to hide.  
@@ -4253,123 +4254,123 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[5472.68s] English:** And what is also interesting in multimedia is that you have 16 milliseconds to display a frame.  
+**Translation:** Vocabulary: milliseconds: 千分之一秒; multimedia: 多媒体
+
+**[5479.20s] English:** It's not like a game engine, where you can basically slow down and wait a frame.  
 **Translation:** 
 
-**[5479.20s] English:** It's not like a game engine where you can basically slow down and wait a frame.  
-**Translation:** 
-
-**[5483.58s] English:** Like, so it's you need to be good, right?  
+**[5483.58s] English:** Like, so you need to be good, right?  
 **Translation:** 
 
 **[5485.90s] English:** There is no choice else.  
 **Translation:** 
 
-**[5486.80s] English:** You don't have your video in and because of how codecs, if you miss a frame, you're going to destroy the look of the video, right?  
+**[5486.80s] English:** You don't have your video input enabled, and because of how codecs work, if you miss a frame, you're going to destroy the look of the video, right?  
 **Translation:** 
 
-**[5493.34s] English:** So you need to be good.  
+**[5493.34s] English:** So, you need to be good.  
 **Translation:** 
 
 **[5495.32s] English:** You need to be perfect to have the right thing.  
 **Translation:** 
 
-**[5498.00s] English:** But also is that it's not just pure programming in the mathematical fence, right?  
+**[5498.00s] English:** But also, it's not just pure programming in the mathematical sense, right?  
 **Translation:** 
 
 **[5503.54s] English:** A lot of people don't understand.  
-**Translation:** Vocabulary: mathematical: 数学的
+**Translation:** Vocabulary: mathematical: 数学上的
 
-**[5505.36s] English:** But in order to program correctly on the open source multimedia community, you need to understand how  
+**[5505.36s] English:** But in order to program correctly within the open-source multimedia community, you need to understand how  
 **Translation:** 
 
-**[5512.68s] English:** computer works and and when you write assembly, you need to understand about CPU pipelining, right?  
-**Translation:** Vocabulary: multimedia: 多媒体; pipelining: 流水线
+**[5512.68s] English:** Computer works, and when you write assembly, you need to understand CPU pipelining, right?  
+**Translation:** 
 
 **[5519.50s] English:** You need to understand.  
 **Translation:** 
 
-**[5520.00s] English:** how SIMD works, how the ALU works, right?  
+**[5520.00s] English:** How does SIMD work, how does the ALU work, right?  
 **Translation:** 
 
-**[5523.10s] English:** You need to understand how IO works, right?  
+**[5523.10s] English:** You need to understand how I/O works, right?  
 **Translation:** 
 
-**[5525.84s] English:** And this is what I think that is missing  
+**[5525.84s] English:** And this is what I think is missing.  
 **Translation:** 
 
-**[5528.46s] English:** to a lot of engineers and software engineers today  
+**[5528.46s] English:** To many engineers and software engineers today,  
 **Translation:** 
 
-**[5530.76s] English:** is understanding what we call computer architecture.  
+**[5530.76s] English:** Is understanding what we call computer architecture.  
 **Translation:** 
 
-**[5534.74s] English:** And seriously, some of the debate is like,  
+**[5534.74s] English:** And seriously, some of the debate is like:  
 **Translation:** 
 
-**[5537.18s] English:** should we use this assembly call or this one?  
+**[5537.18s] English:** Should we use this assembly call, or this one?  
 **Translation:** 
 
-**[5539.48s] English:** And people say, well, no, it's going to be  
+**[5539.48s] English:** And people say, "Well, no, it's going to be...  
 **Translation:** 
 
-**[5541.56s] English:** like three cycle on this type of CPU and this one  
+**[5541.56s] English:** Like three cycles on this type of CPU and this one.  
 **Translation:** 
 
-**[5544.62s] English:** and has massive impact on the output, right?  
+**[5544.62s] English:** And it has a massive impact on the output, right?  
 **Translation:** 
 
 **[5547.56s] English:** We should expand.  
 **Translation:** 
 
-**[5548.16s] English:** And FFmpeg is probably one of the biggest CPU users  
+**[5548.16s] English:** And FFmpeg is probably one of the biggest CPU users.  
 **Translation:** 
 
-**[5550.92s] English:** in the world.  
+**[5550.92s] English:** In the world.  
 **Translation:** 
 
-**[5551.56s] English:** It's probably running, as we speak,  
+**[5551.56s] English:** It's probably running, as we speak.  
 **Translation:** 
 
-**[5555.32s] English:** easily a hundred, order of magnitude, a hundred million,  
+**[5555.32s] English:** Easily a hundred; order of magnitude, a hundred million.  
 **Translation:** 
 
-**[5557.96s] English:** maybe even a billion CPUs as we speak.  
+**[5557.96s] English:** Maybe, even a billion CPUs as we speak.  
 **Translation:** 
 
-**[5560.46s] English:** So every instruction matters.  
+**[5560.46s] English:** So, every instruction matters.  
 **Translation:** 
 
-**[5563.26s] English:** There's not, the impact, at least in terms of CPU,  
+**[5563.26s] English:** There's not much impact, at least in terms of CPU.  
 **Translation:** 
 
-**[5567.94s] English:** is massive for everything that we do.  
+**[5567.94s] English:** It is massive for everything that we do.  
 **Translation:** 
 
-**[5571.22s] English:** So first you come because it's an interesting subject,  
+**[5571.22s] English:** So, first, you come because it's an interesting subject.  
 **Translation:** 
 
-**[5574.04s] English:** then you stay because it's excellent.  
+**[5574.04s] English:** Then you stay because it's excellent.  
 **Translation:** 
 
-**[5575.98s] English:** And in the end, you're very proud  
+**[5575.98s] English:** And in the end, you're very proud.  
 **Translation:** 
 
-**[5578.16s] English:** of it because it's on the end of everyone.  
+**[5578.16s] English:** Of it, because it's on the end of everyone.  
 **Translation:** 
 
-**[5581.84s] English:** Like so many people like, oh, I'm working  
+**[5581.84s] English:** Like so many people, oh, I'm working.  
 **Translation:** 
 
-**[5584.76s] English:** for whatever consulting company  
+**[5584.76s] English:** For whatever consulting company,  
 **Translation:** 
 
-**[5587.12s] English:** and I'm doing some portal to download invoices  
+**[5587.12s] English:** And I'm doing a portal to download invoices.  
 **Translation:** 
 
-**[5592.08s] English:** for your PG&E.  
+**[5592.08s] English:** For your PG&E.  
 **Translation:** Vocabulary: invoices: 账单
 
-**[5593.64s] English:** Wow, great.  
+**[5593.64s] English:** Wow, great!  
 **Translation:** 
 
 **[5594.66s] English:** Like so many jobs are like that.  
@@ -4381,11 +4382,11 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5599.62s] English:** But if you go to see your grandma and say,  
 **Translation:** 
 
-**[5601.28s] English:** I do this so that you can play video on your laptop,  
+**[5601.28s] English:** I do this so that you can play videos on your laptop,  
 **Translation:** 
 
-**[5604.04s] English:** they understand.  
-**Translation:** 
+**[5604.04s] English:** They understand.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
 **[5604.72s] English:** And this is very important, right?  
 **Translation:** 
@@ -4393,251 +4394,251 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5606.32s] English:** Because you're working on VLC, FFmpeg,  
 **Translation:** 
 
-**[5608.16s] English:** X264, it's in the end of hundreds of millions of people  
+**[5608.16s] English:** X264, it's at the end of hundreds of millions of people.  
 **Translation:** 
 
-**[5611.98s] English:** and you have an impact.  
+**[5611.98s] English:** And you have an impact.  
 **Translation:** 
 
-**[5613.76s] English:** And so you can be proud of yourself.  
+**[5613.76s] English:** And so, you can be proud of yourself.  
 **Translation:** 
 
-**[5615.94s] English:** And so I think that in addition to doing a great resume,  
-**Translation:** 
+**[5615.94s] English:** And so, I think that in addition to doing a great resume,  
+**Translation:** Vocabulary: resume: 简历
 
-**[5619.46s] English:** all those things are why people contribute.  
+**[5619.46s] English:** All those things are why people contribute.  
 **Translation:** 
 
 **[5622.00s] English:** Yeah, those are side effects.  
 **Translation:** 
 
-**[5623.20s] English:** My favorite quote on this topic is John Collinson.  
+**[5623.20s] English:** My favorite quote on this topic is by John Collinson.  
 **Translation:** 
 
-**[5625.50s] English:** He said, the world is a museum of passion projects.  
+**[5625.50s] English:** He said, "The world is a museum of passion projects.  
 **Translation:** Vocabulary: collinson: 科尔林森
 
-**[5628.46s] English:** You know, everything out there is a passion project  
+**[5628.46s] English:** You know, everything out there is a passion project.  
 **Translation:** 
 
-**[5630.96s] English:** and open source multimedia and open source in general,  
+**[5630.96s] English:** And open-source multimedia and open source in general,  
+**Translation:** Vocabulary: multimedia: 多种媒体
+
+**[5634.34s] English:** You can just do that so much faster.  
 **Translation:** 
 
-**[5634.34s] English:** you can just do that so much faster.  
-**Translation:** 
-
-**[5636.60s] English:** There's such a faster network.  
+**[5636.60s] English:** There's such a fast network.  
 **Translation:** 
 
 **[5637.90s] English:** In fact, you know, I can open.  
 **Translation:** 
 
-**[5640.00s] English:** in a cafe and that can be my passion project but i have to get building code i have to build a  
+**[5640.00s] English:** In a café, and that can be my passion project, but I have to get the building code first and build a  
 **Translation:** 
 
-**[5643.54s] English:** building i have to find a find a location i have to do all the you know all sorts of things well  
+**[5643.54s] English:** Building, I have to find a location. I have to do all sorts of things, you know. Well.  
 **Translation:** 
 
-**[5648.24s] English:** in the software world that passion project can be can move quickly it can be amplified  
-**Translation:** Vocabulary: amplified: 放大
+**[5648.24s] English:** In the software world, that passion project can move quickly and be amplified.  
+**Translation:** Vocabulary: amplified: 扩大
 
-**[5653.34s] English:** by the network effect and that amplification can be more than the the sum of the sum of the parts  
+**[5653.34s] English:** By the network effect, and that amplification can be more than the sum of the parts.  
 **Translation:** 
 
-**[5659.78s] English:** you know you can be you can find people interested in extremely obscure things and have a network  
-**Translation:** Vocabulary: amplification: 放大效应
+**[5659.78s] English:** You know, you can find people interested in extremely obscure things and have a network.  
+**Translation:** Vocabulary: amplification: 放大; obscure: 冷门
 
-**[5667.54s] English:** effect and make something that is truly amazing and uh on that topic of passion projects uh tim  
+**[5667.54s] English:** Effect and make something that is truly amazing, and on that topic of passion projects, Tim...  
 **Translation:** 
 
-**[5674.52s] English:** sweeney actually said in a reply to a tweet that was uh complimenting jb he said quote many things  
+**[5674.52s] English:** Sweeney actually said, in a reply to a tweet that was complimenting JB, he said, "Many things.  
 **Translation:** Vocabulary: complimenting: 称赞
 
-**[5683.00s] English:** in the world only happen because an awesome person decides to do it this is the case with vlc and that  
+**[5683.00s] English:** In the world, only things happen because an awesome person decides to do it. This is the case with VLC, and that  
 **Translation:** 
 
-**[5689.66s] English:** speaks to something interesting to me that does seem that a small number of people sometimes one  
+**[5689.66s] English:** Speaks to something interesting to me that does seem that a small number of people, sometimes just one,  
 **Translation:** 
 
-**[5694.38s] English:** person can create  
+**[5694.38s] English:** A person can create.  
 **Translation:** 
 
-**[5697.54s] English:** something incredible in the software world like you said this over and over and over i think  
+**[5697.54s] English:** Something incredible in the software world, like you said, over and over and over again. I think.  
 **Translation:** 
 
-**[5702.94s] English:** javascript is an incredible thing created by by uh initially a single person some of the  
+**[5702.94s] English:** JavaScript is an incredible thing, created by a single person initially.  
 **Translation:** 
 
-**[5707.90s] English:** programming languages like python and c and java like this one person has this vision has the design  
+**[5707.90s] English:** Programming languages like Python and C, and Java: like this, one person has this vision and has the design.  
 **Translation:** 
 
-**[5714.54s] English:** and brings it sometimes over a weekend is the initial spark yes linus built git in two weeks  
+**[5714.54s] English:** And bringing it sometimes over a weekend is the initial spark. Yes, Linus built Git in just two weeks.  
 **Translation:** 
 
-**[5721.50s] English:** wow yeah it changed the world kit i mean it really changed the world linus passion for hey  
+**[5721.50s] English:** Wow, yeah, it changed the world, Kit. I mean, it really did change the world. Linus's passion for it is incredible.  
 **Translation:** 
 
-**[5726.74s] English:** uploading the  
+**[5726.74s] English:** Uploading the  
 **Translation:** 
 
-**[5727.54s] English:** starboard to an ftp like deal with it but for me it's not just in software right and i believe in  
-**Translation:** Vocabulary: uploading: 上传
+**[5727.54s] English:** Starboard to an FTP-like deal with it, but for me, it's not just in software, right? And I believe in  
+**Translation:** Vocabulary: starboard: 右舷; uploading: 上传
 
-**[5734.02s] English:** in individuals that are going to change the world right and it's with a good as you said vision  
+**[5734.02s] English:** In individuals that are going to change the world, right? And it's with a good vision, as you said.  
 **Translation:** 
 
-**[5739.54s] English:** right i want to do that um it is useful it will be useful and whether it's going to like build  
+**[5739.54s] English:** Right; I want to do that. It is useful, and it will be useful. Whether it's going to...  
 **Translation:** 
 
-**[5745.78s] English:** train or cars or rockets or something like i believe people who believe in themselves and  
+**[5745.78s] English:** Train, or cars, or rockets—or something like that. I believe people who believe in themselves and  
 **Translation:** 
 
-**[5751.86s] English:** have a vision can have a huge impact for humanity let's say actually  
+**[5751.86s] English:** Having a vision can have a huge impact for humanity. Let's say, actually.  
+**Translation:** Vocabulary: rockets: 火箭
+
+**[5757.54s] English:** You already have a vision level.  
 **Translation:** 
 
-**[5757.54s] English:** you already have a vision level  
+**[5760.00s] English:** Going up and down the stack, so, you know, we've been talking back and forth between VLC and FFmpeg.  
 **Translation:** 
 
-**[5786.42s] English:** before we zoom back in we'll just keep  
+**[5766.04s] English:** Karen, you said that FFmpeg and Videoland VLC coexist, and there's no central point of importance.  
 **Translation:** 
 
-**[5787.42s] English:** go  
+**[5774.34s] English:** It's a kind of what you call the binary star system, yeah? They succeed because of each other.  
+**Translation:** Vocabulary: binary: 双星系统; coexist: 共存; videoland: 视频之地
+
+**[5780.66s] English:** Can you explain the difference, how they interact, what they are? Are they competitors? I don't know.  
 **Translation:** 
 
-**[5760.00s] English:** going up and down the stack so uh you know we've been talking back and forth vlc and ffmpeg  
+**[5786.42s] English:** Before we zoom back in, we'll just keep  
 **Translation:** 
 
-**[5766.04s] English:** karen you said that ffmpeg and videoland vlc coexist and there's no central point of importance  
+**[5786.74s] English:** I think they're competitors. I think the simple answer is the short answer before I go.  
 **Translation:** 
 
-**[5774.34s] English:** it's a kind of what you call the binary star system yeah uh they succeed because of each other  
-**Translation:** Vocabulary: binary: 双星系统; coexist: 共存; videoland: 视频陆
-
-**[5780.66s] English:** can you explain the difference how they interact what is the are they competitors i don't i don't  
+**[5787.42s] English:** Go.  
 **Translation:** 
 
-**[5786.74s] English:** think they're competitors i think i think the simple answer is the short answer before i go  
+**[5791.04s] English:** Into detail, VLC is to FFmpeg as Android is to Linux, so they depend on each other but they...  
 **Translation:** 
 
-**[5791.04s] English:** into detail is vlc is to ffmpeg as android is to linux so they depend on each other but they  
+**[5797.96s] English:** Coexist because of each other, so they are a binary star system—is the analogy I used.  
+**Translation:** Vocabulary: analogy: 类比
+
+**[5802.28s] English:** By the way, I feel horrible that I just recently learned that Alpha Centauri  
 **Translation:** 
 
-**[5797.96s] English:** coexist because of each other so they are a binary star system is the analogy i used  
+**[5807.48s] English:** The closest star system to us is a triple star system, and when you start doing the physics,...  
+**Translation:** Vocabulary: alpha: 阿尔法; centauri: 半人马座; triple: 三重的
+
+**[5812.02s] English:** It's a nightmare, right? Yeah, but like, hence the three-body problem, but anyway.  
 **Translation:** 
 
-**[5802.28s] English:** by the way i feel horrible that i just recently learned that alpha centauri  
+**[5816.74s] English:** So, a lot of FFmpeg pipelines involve the x264 project, which is a video land project I would put.  
+**Translation:** Vocabulary: nightmare: 噩梦; pipelines: 管道
+
+**[5824.34s] English:** A finger in the air, that's saying 80-plus percent of those pipelines are dependent on Videoland.  
 **Translation:** 
 
-**[5807.48s] English:** the closest star system to us is a triple star system and and when you start doing the physics  
-**Translation:** Vocabulary: alpha: 阿尔法; centauri: 半人马; triple: 三重的
-
-**[5812.02s] English:** it's a nightmare right yeah but but like hence the three-body problem but anyway  
+**[5829.24s] English:** Project VLC: Obviously, we've discussed a Videoland project that uses FFmpeg to give it reach and exposure.  
 **Translation:** 
 
-**[5816.74s] English:** so a lot of ffmpeg pipelines involve the x264 project which is a videoland project i would put  
-**Translation:** Vocabulary: pipelines: 工作流程
-
-**[5824.34s] English:** a finger in the air that's say 80 plus percent of those pipelines are dependent on a videoland  
+**[5837.52s] English:** Weird files, historically, used some donation money to fund FFmpeg development, and we'll  
 **Translation:** 
 
-**[5829.24s] English:** project vlc obviously we've discussed a videoland project uses ffmpeg gives it reach exposure to  
+**[5843.78s] English:** Talk a bit, maybe, about some of the reverse engineering later.  
+**Translation:** Vocabulary: donation: 捐款; historically: 历史上
+
+**[5846.74s] English:** So, it's a binary star system where they work and feed off each other. Many of the developers are shared.  
 **Translation:** 
 
-**[5837.52s] English:** weird files uh historically used some donation money to fund ffmpeg fmpeg development and we'll  
+**[5851.54s] English:** There's no central location; it's a virtuous cycle working together, and we should mention that (x264).  
+**Translation:** Vocabulary: virtuous: 互利的
+
+**[5858.46s] English:** Is the encoder for H.264 video standard, so H.264 is the standard, yes. X264 is the implementation.  
 **Translation:** 
 
-**[5843.78s] English:** talk a bit maybe about some of the reverse engineering later  
-**Translation:** Vocabulary: donation: 捐赠; historically: 历史上
+**[5866.88s] English:** An open-source implementation of the standards that is used by basically everyone for everything.  
+**Translation:** Vocabulary: implementation: 实现
 
-**[5846.74s] English:** so it's a binary star system they work and feed off each other many of the developers are shared  
+**[5871.58s] English:** Yeah, so that is the main driver of this when you think of an MP4 file.  
 **Translation:** 
 
-**[5851.54s] English:** there's no central location it's a virtuous cycle working together and we should mention that x264  
-**Translation:** Vocabulary: virtuous: 互利循环
-
-**[5858.46s] English:** is the encoder for h264 video standard so h264 is the standard yes x264 is the implementation  
-**Translation:** 
-
-**[5866.88s] English:** open source implementation of the standards that's used by basically everybody for everything  
-**Translation:** Vocabulary: implementation: 实现方式
-
-**[5871.58s] English:** yeah so that is the main driver of this when you think of an mp4 file  
-**Translation:** 
-
-**[5876.74s] English:** it has h264 codec in it if it if it  
+**[5876.74s] English:** It has H.264 codec in it, if it does.  
 **Translation:** 
 
 **[5880.00s] English:** If it came from a software environment, like a data center or somewhere, the chances are it was created with x264.  
 **Translation:** 
 
-**[5885.94s] English:** And that's under the flag of VideoLan.  
+**[5885.94s] English:** And that's under the flag of VideoLAN.  
 **Translation:** 
 
-**[5889.30s] English:** That's a VideoLan project.  
+**[5889.30s] English:** That's a VideoLAN project.  
 **Translation:** 
 
-**[5890.48s] English:** So in the VideoLan graphic, it sits in the VideoLan world.  
+**[5890.48s] English:** So, in the VideoLAN graphic, it sits in the VideoLAN world.  
 **Translation:** 
 
-**[5893.64s] English:** And VideoLan has a bunch of stuff in it.  
+**[5893.64s] English:** And VideoLAN has a bunch of stuff in it.  
 **Translation:** 
 
-**[5896.84s] English:** Go to the VideoLan website, there's a bunch of icons.  
+**[5896.84s] English:** Go to the VideoLAN website; there are a bunch of icons.  
 **Translation:** 
 
 **[5901.32s] English:** Like, if you look, there are so many libraries, right?  
 **Translation:** 
 
-**[5903.54s] English:** LibDVDCSS, LibDVDNav, LibDVDPSI, LibVLC, of course, VLC Unity, LibBluway.  
+**[5903.54s] English:** LibDvDCSS, LibDVDNav, LibDVDPSI, LibVLC, of course, VLC Unity, LibBluWay.  
 **Translation:** 
 
 **[5917.94s] English:** Yeah.  
 **Translation:** 
 
-**[5918.78s] English:** And there is so many more, right?  
+**[5918.78s] English:** And there are so many more, right?  
 **Translation:** 
 
-**[5920.36s] English:** Like, lately, the David project that we might talk about is the last project from VideoLan.  
+**[5920.36s] English:** Like, lately, the David project that we might talk about is the latest project from VideoLAN.  
 **Translation:** 
 
 **[5926.40s] English:** It's everywhere, right?  
 **Translation:** 
 
-**[5927.86s] English:** And we have a LibSpatialAudio lately that we announced.  
+**[5927.86s] English:** And we have a LibSpatialAudio recently that we announced.  
 **Translation:** 
 
-**[5931.36s] English:** CheckISM.  
+**[5931.36s] English:** Check ISM.  
 **Translation:** 
 
-**[5932.66s] English:** CheckISM.  
+**[5932.66s] English:** Check ISM.  
 **Translation:** 
 
-**[5933.44s] English:** CheckISM.  
+**[5933.44s] English:** Check ISM.  
 **Translation:** 
 
-**[5933.50s] English:** CheckISM.  
+**[5933.50s] English:** Check ISM.  
 **Translation:** 
 
-**[5933.52s] English:** CheckISM.  
+**[5933.52s] English:** Check ISM.  
 **Translation:** 
 
 **[5933.54s] English:** It's like an insane project, but amazing.  
 **Translation:** 
 
-**[5937.26s] English:** So, and x264 is one of those VideoLan projects.  
+**[5937.26s] English:** So, and x264 is one of those VideoLAN projects.  
 **Translation:** 
 
-**[5940.86s] English:** And my opinion, for example, is that x264 was the most amazing encoder ever designed.  
+**[5940.86s] English:** And, in my opinion, for example, is that x264 was the most amazing encoder ever designed.  
 **Translation:** 
 
 **[5948.76s] English:** And this helped the adoption of FFmpeg.  
-**Translation:** 
+**Translation:** Vocabulary: adoption: 接纳
 
 **[5951.60s] English:** A lot of people and large companies went through FFmpeg because they wanted to use x264.  
 **Translation:** 
 
-**[5957.30s] English:** And x264 increased the popularity on FFmpeg.  
-**Translation:** 
+**[5957.30s] English:** And x264 increased the popularity of FFmpeg.  
+**Translation:** Vocabulary: popularity: 知名度
 
 **[5960.24s] English:** But also, VLC had its properties.  
 **Translation:** 
@@ -4645,19 +4646,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[5963.24s] English:** Popularity, because it's played so many files that were done by FFmpeg, right?  
 **Translation:** 
 
-**[5967.02s] English:** So, it's many projects that are interweaved and work together.  
+**[5967.02s] English:** So, it's many projects that are intertwined and work together.  
 **Translation:** 
 
 **[5972.72s] English:** Yeah.  
-**Translation:** Vocabulary: interweaved: 错综复杂的
+**Translation:** Vocabulary: intertwined: 错综复杂的
 
-**[5972.94s] English:** Unfortunately, there's a thing on X where VLC is mentioned and there's people.  
+**[5972.94s] English:** Unfortunately, there's a thing on X where VLC is mentioned, and there are people.  
 **Translation:** 
 
 **[5977.38s] English:** A quick reminder that it's FFmpeg inside doing the actual work.  
-**Translation:** 
+**Translation:** Vocabulary: reminder: 提醒
 
-**[5980.40s] English:** And that's, like I said, it's not, that's not the case.  
+**[5980.40s] English:** And that's, like I said, it's not; that's not the case.  
 **Translation:** 
 
 **[5984.56s] English:** We work together.  
@@ -4673,633 +4674,633 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[5993.82s] English:** One million of those are inside the VLC repository.  
-**Translation:** Vocabulary: repository: 代码仓库
+**Translation:** Vocabulary: repository: 代码库
 
-**[5997.64s] English:** And FFmpeg in total is probably two.  
+**[5997.64s] English:** And FFmpeg, in total, is probably around 2 million lines of code.  
 **Translation:** 
 
-**[6000.00s] English:** around two right but so it means that so many dependencies are outside and if you also look at  
+**[6000.00s] English:** Around two-thirds, but that means so many dependencies are outside, and if you also look at  
 **Translation:** 
 
-**[6005.64s] English:** ffmpeg per se ffmpeg also is integrating third-party libraries like x264 butlib opus  
+**[6005.64s] English:** FFmpeg, per se, integrates third-party libraries like x264, butlib, and Opus.  
 **Translation:** 
 
-**[6012.08s] English:** and so many others right so we all depend on each other uh yeah that's why i was uh hoping to do  
-**Translation:** Vocabulary: integrating: 整合
+**[6012.08s] English:** And so many others, right? So, we all depend on each other, uh-huh. That's why I was hoping to do...  
+**Translation:** Vocabulary: integrates: 整合
 
-**[6017.74s] English:** this episode as we are doing they just uh kind of joins ffmpeg and vlc because it's really it's  
+**[6017.74s] English:** This episode, as we are doing, they just kind of join ffmpeg and VLC because it's really  
 **Translation:** 
 
-**[6024.24s] English:** really two two of the same like i said binary star system and we're all just orbiting it  
+**[6024.24s] English:** Really, two of the same—like I said, a binary star system, and we're all just orbiting it.  
 **Translation:** Vocabulary: binary: 双星系统; orbiting: 围绕
 
-**[6029.42s] English:** uh can we give a shout out to some of the people along the way we didn't really quite talk about  
+**[6029.42s] English:** Uh, can we give a shout-out to some of the people along the way? We didn't really quite talk about them.  
 **Translation:** 
 
-**[6035.06s] English:** the history of ffmpeg so uh maybe can you tell me about fabrice can you tell me about  
+**[6035.06s] English:** The history of FFmpeg, so, uh, maybe you could tell me about it? Can you tell me about Fabrice?  
+**Translation:** Vocabulary: fabrice: 法布里斯
+
+**[6042.20s] English:** Michael Nidermeyer, can you tell me about some of the key figures in each era of FMPEG?  
 **Translation:** 
 
-**[6042.20s] English:** michael nidermeyer can you tell me about some of the key figures here about the eras of fmpeg  
+**[6047.92s] English:** Because there are key eras and key people that made this possible, such as Fabrice Ballard, as you mentioned.  
+**Translation:** Vocabulary: ballard: 巴尔达
+
+**[6055.52s] English:** Creating the concept, and then, in the 2000s, I would call it the  
 **Translation:** 
 
-**[6047.92s] English:** because there's key eras and key people that made this possible uh fabrice ballard as you mentioned  
-**Translation:** Vocabulary: ballard: 巴拉德
+**[6059.42s] English:** The era's tool for FFmpeg was Michael Niedermayer in the 2000s. Key things he got done:  
+**Translation:** Vocabulary: niedermayer: 尼德迈耶
 
-**[6055.52s] English:** creating the concept and then probably in the 2000s era i would call it the  
+**[6067.14s] English:** Was exhaustive support for DivX and XVID at the time, and all sorts of weird variants of what's  
 **Translation:** 
 
-**[6059.42s] English:** era era's tool of fmpeg is that the 2000s era was michael nidermeyer so key things he got done  
-**Translation:** Vocabulary: nidermeyer: 尼德迈耶
+**[6073.20s] English:** Known as MPEG-4 Part 2, so this predates the MPEG-4 Part 10 that we use now, so this was  
+**Translation:** Vocabulary: exhaustive: 全面的; predates: 早于
 
-**[6067.14s] English:** was exhaustive support for divx and xvid at the time and all sorts of weird variants of what's  
+**[6079.42s] English:** In the 2000s, there were a variety of weird and wonderful video codecs and decoders.  
 **Translation:** 
 
-**[6073.20s] English:** known as mpeg4 part 2 so this predates the mpeg4 part 10 that we used to so this was  
-**Translation:** Vocabulary: exhaustive: 详尽; predates: 早于
-
-**[6079.42s] English:** 2000s era video codecs where there were flavor after flavor of weird weird decoders  
-**Translation:** 
-
-**[6085.76s] English:** at the time in the 2000s you needed a new player to play the game and you needed a new player to  
+**[6085.76s] English:** At the time in the 2000s, you needed a new player to play the game, and you needed a new player to  
 **Translation:** Vocabulary: decoders: 解码器
 
-**[6089.42s] English:** play every different type of file format so there was windows media player to play windows  
+**[6089.42s] English:** Play every different type of file format, so there was Windows Media Player to play Windows.  
 **Translation:** 
 
-**[6093.38s] English:** media formats there was real player to play real media formats and those were the other the other  
+**[6093.38s] English:** Media formats, there was RealPlayer to play Real Media formats, and those were the others.  
 **Translation:** 
 
-**[6098.60s] English:** key thing in ffmpeg at the time were native decoders for those i actually do remember being  
+**[6098.60s] English:** The key thing in FFmpeg at the time were native decoders, for those I actually do remember being.  
 **Translation:** 
 
-**[6103.10s] English:** a teenager i must have been figuring out there was this one player that could play  
+**[6103.10s] English:** A teenager, I must have been figuring out there was this one player that could play.  
 **Translation:** 
 
-**[6108.60s] English:** could decode these files without having separate bloated players because at the time when you  
+**[6108.60s] English:** Could decode these files without having separate, bloated players, because at the time, you  
 **Translation:** 
 
-**[6114.18s] English:** downloaded real player there was a ton of other stuff in there a ton of ads a ton of other things  
-**Translation:** Vocabulary: bloated: 体积大
+**[6114.18s] English:** Downloaded Real Player; there was a ton of other stuff in there, a ton of ads, and a ton of other things.  
+**Translation:** Vocabulary: bloated: 体积大的
 
-**[6119.42s] English:** and so that was a huge hit for me and i'm looking forward to their release so that's that for now  
+**[6119.42s] English:** And so, that was a huge hit for me, and I'm looking forward to their release. So, that's that for now.  
 **Translation:** 
 
-**[6124.66s] English:** i put a link to the logo in the description and i'll see you all in the future with the sari  
+**[6120.00s] English:** That was fast; it led to that, and then I think 2008 onwards.  
+**Translation:** Vocabulary: onwards: 从那时起
+
+**[6124.66s] English:** I put a link to the logo in the description, and I'll see you all in the future with the sari.  
 **Translation:** 
 
-**[6129.10s] English:** if you enjoyed this video make sure you like it and hit the subscribe button and hit the bell for  
-**Translation:** 
-
-**[6132.44s] English:** all the latest updates we have from youtube i'm gregory peter and i hope you guys enjoyed the  
-**Translation:** Vocabulary: subscribe: 订阅
-
-**[6139.06s] English:** video and i'll see you in the next video peace out yall  
-**Translation:** 
-
-**[6120.00s] English:** that was fast led to that and then i think 2008 was a 2008 onwards  
-**Translation:** Vocabulary: onwards: 往后
-
-**[6126.16s] English:** was a big change because that's when h.264 got its maturity and i think something hopefully  
-**Translation:** 
-
-**[6134.80s] English:** we'll talk about a bit more this was the beginning of high definition video so h.264 was the key  
+**[6126.16s] English:** It was a big change because that's when H.264 got its maturity, and I think something hopefully followed.  
 **Translation:** Vocabulary: maturity: 成熟
 
-**[6140.80s] English:** decoder of that so i'd call that the late 2000 and 2010s and that's when the big reverse engineers  
+**[6129.10s] English:** If you enjoyed this video, make sure you like it, and hit the subscribe button and hit the bell for notifications.  
 **Translation:** 
 
-**[6146.60s] English:** came along and really did astonishing work the beginning was a single player that could play  
-**Translation:** Vocabulary: astonishing: 令人惊讶的
+**[6132.44s] English:** All the latest updates we have from YouTube. I'm Gregory Peter, and I hope you guys enjoyed the.  
+**Translation:** Vocabulary: subscribe: 订阅
 
-**[6152.84s] English:** xvid divx windows media and real player was already in a massive achievement in itself  
+**[6134.80s] English:** We'll talk about a bit more. This was the beginning of high-definition video, so H.264 was the key.  
 **Translation:** 
 
-**[6158.54s] English:** without codec packs without weird stuff you had to download that had weird ads and weird spyware  
+**[6139.06s] English:** Video, and I'll see you in the next video. Peace out, y'all!  
 **Translation:** 
 
-**[6163.58s] English:** vlc 1.0 was out on those times 2000 2009 2010 yeah and this is like where it exploded  
+**[6140.80s] English:** Decoder of that, so I'd call that the late 2000s and 2010s, and that's when the big reverse engineers.  
 **Translation:** 
 
-**[6172.38s] English:** yeah without codec packs it just works across all these  
+**[6146.60s] English:** Came along and really did astonishing work. The beginning was a single player that could play.  
+**Translation:** Vocabulary: astonishing: 令人惊讶; decoder: 解码器
+
+**[6152.84s] English:** XviD, DivX, Windows Media, and RealPlayer were already a massive achievement in themselves.  
+**Translation:** 
+
+**[6158.54s] English:** Without codec packs, without weird stuff you had to download that had weird ads and weird spyware.  
+**Translation:** Vocabulary: spyware: 恶意软件
+
+**[6163.58s] English:** VLC 1.0 was out during those times (2000-2009, 2010), and this is where it really exploded.  
+**Translation:** 
+
+**[6172.38s] English:** Yeah, without codec packs, it just works across all these.  
 **Translation:** Vocabulary: exploded: 迅速流行
 
-**[6176.46s] English:** different platforms and it's just like it's like it's like it's like it's like it's like  
+**[6176.46s] English:** Different platforms, and it's just like it's like it's like it's like it's like.  
 **Translation:** 
 
-**[6176.58s] English:** it's like it's like it's like it's like it's like it's like it's like it's like it's like it's like  
+**[6176.58s] English:** It's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like.  
 **Translation:** 
 
-**[6176.60s] English:** the fact so it's just like all the codec packs are ffmpeg inside vlc plus we have other modules  
+**[6176.60s] English:** The fact is, so it's just like all the codec packs are FFMPEG inside VLC, plus we have other modules.  
 **Translation:** 
 
-**[6182.78s] English:** for all the type of at the time that wasn't is there were weird in the 2000s there were weird  
+**[6182.78s] English:** For all the types of things at the time, that wasn't really there; there were just weird things in the 2000s.  
+**Translation:** Vocabulary: modules: 模块
+
+**[6187.62s] English:** Codec packs with DLLs coming from this place with spyware—what do you know? It wasn't reliable.  
 **Translation:** 
 
-**[6187.62s] English:** codec packs with dlls coming from this place with spyware with you know what it wasn't reliable  
-**Translation:** 
-
-**[6193.88s] English:** you didn't know and having a single player that was open source or single playback module  
+**[6193.88s] English:** You didn't know, and having a single player that was open-source or single playback module.  
 **Translation:** Vocabulary: module: 模块; playback: 播放
 
-**[6198.36s] English:** slash player that could do this that was open source but i think the thing to emphasize is  
+**[6198.36s] English:** Slash, player that could do this that was open source, but I think the thing to emphasize is:  
 **Translation:** 
 
-**[6203.24s] English:** this task in the 2000s that michael did was was  
+**[6203.24s] English:** This task in the 2000s that Michael did was  
+**Translation:** Vocabulary: emphasize: 强调
+
+**[6206.58s] English:** Really, the number of edge cases are poor beyond comprehension in terms of how you could have a.  
 **Translation:** 
 
-**[6206.58s] English:** really the number of edge cases are poor beyond comprehension in terms of you could have a  
+**[6213.54s] English:** Chinese CCTV system that used one weird variant of MPEG-4 Part 2 was known as MPEG-4 ASP and  
+**Translation:** Vocabulary: comprehension: 理解
+
+**[6220.42s] English:** That was a weird variant, and you had to fix that without breaking everyone else.  
 **Translation:** 
 
-**[6213.54s] English:** chinese cctv system that did one weird variant of mpeg-4 part two was known as mpeg-4 asp and  
-**Translation:** Vocabulary: comprehension: 理解能力
-
-**[6220.42s] English:** that was a weird variant and you had to fix that without breaking everybody else  
+**[6223.92s] English:** Times a million, so that's uh, so you said that's where a lot of the reverse engineering.  
 **Translation:** 
 
-**[6223.92s] English:** times a million so that's uh so you said that that's where a lot of the reverse engineering  
+**[6228.62s] English:** It was happening, starting in the 2000s with the Windows Media stuff because  
 **Translation:** 
 
-**[6228.62s] English:** was happening it started it started in the 2000s with the windows media stuff because  
-**Translation:** 
-
-**[6232.52s] English:** that was proprietary it started with the real media so with benjamin larson  
+**[6232.52s] English:** That was proprietary; it started with Real Media, so with Benjamin Larson.  
 **Translation:** Vocabulary: proprietary: 专有技术
 
-**[6236.58s] English:** kosciuszko that era those were the key that was the key  
+**[6236.58s] English:** Kosciuszko: That era; those were the keys. That was the key.  
 **Translation:** 
 
-**[6240.00s] English:** groundwork and then in in the 2010s was kind of the poor mahal kostya era building doing doing  
-**Translation:** Vocabulary: groundwork: 基础工作; mahal: 玛哈勒
+**[6240.00s] English:** Groundwork and then, in the 2010s, was kind of the "Mahal Kostya" era: building, doing, doing.  
+**Translation:** Vocabulary: groundwork: 基础; mahal: 重视
 
-**[6247.60s] English:** some of the most difficult codecs jb maybe can talk about go to meeting four and go to meeting  
+**[6247.60s] English:** Some of the most difficult codecs, JB maybe can talk about, go to Meeting Four and go to Meeting.  
 **Translation:** 
 
-**[6252.26s] English:** five and what these are what's the good so so so like let's talk about this amazing ukrainian guy  
+**[6252.26s] English:** Five and what these are, what's the good, so, so, like, let's talk about this amazing Ukrainian guy.  
 **Translation:** 
 
-**[6260.26s] English:** called kostya who was at a time living in germany and who was in love with sweden right  
+**[6260.26s] English:** Called Kostya, who was at one time living in Germany and who was in love with Sweden, right?  
 **Translation:** 
 
-**[6268.54s] English:** and the guy was the most he's like like like a lot of the people in the community are very clever  
+**[6268.54s] English:** And the guy was the most clever, like a lot of the people in the community are very clever.  
 **Translation:** 
 
-**[6277.12s] English:** he's one of those who are like borderline geniuses right he was able to reverse engineering extremely  
+**[6277.12s] English:** He's one of those who are like borderline geniuses, right? He was able to reverse-engineer it extremely.  
 **Translation:** 
 
-**[6283.86s] English:** complex codecs um and he does that and we do a bit of engineers with kieran but clearly not at  
-**Translation:** Vocabulary: borderline: 边缘的; geniuses: 天才
+**[6283.86s] English:** Complex codecs, um, and he does that, and we do a bit of engineering with Kieran, but clearly not at  
+**Translation:** Vocabulary: borderline: 边缘; geniuses: 天才
 
-**[6290.20s] English:** this level no no um he reverse engineered binary blobs which are 20 megabytes yeah so just for  
+**[6290.20s] English:** This level, no, no, um, he reverse-engineered binary blobs which are 20 megabytes, yeah, so just for.  
 **Translation:** 
 
-**[6297.04s] English:** reference uh  
-**Translation:** Vocabulary: binary: 二进制; blobs: 数据块; megabytes: 兆字节
+**[6297.04s] English:** Reference, uh  
+**Translation:** Vocabulary: binary: 二进制; blobs: 块; megabytes: 兆字节
 
-**[6298.54s] English:** one megabyte binary blob to reverse engineers probably order of magnitude a month of work and  
+**[6298.54s] English:** One megabyte binary blob to reverse-engineers probably orders of magnitude a month of work, and  
 **Translation:** 
 
-**[6303.64s] English:** this guy is doing 20 30 megabyte blobs maybe we'll talk about that in a minute about the  
+**[6303.64s] English:** This guy is doing 20-30 megabyte blobs. Maybe we'll talk about that in a minute.  
 **Translation:** Vocabulary: megabyte: 兆字节
 
-**[6308.30s] English:** subtleties of how you do that but this guy is doing it for very difficult and very obscure codecs  
+**[6308.30s] English:** Subtleties of how you do that, but this guy is doing it for very difficult and very obscure codecs.  
 **Translation:** 
 
-**[6312.92s] English:** and and did that for fun right and yeah and um so go to meeting uh was a big problem with vlc  
+**[6312.92s] English:** And I did that for fun, right? And yeah, and um, so going to meetings was a big problem with VLC.  
 **Translation:** Vocabulary: obscure: 冷门; subtleties: 细微之处
 
-**[6319.70s] English:** because that's what like the number half number one uh feature request for a long time so i put  
+**[6319.70s] English:** Because that's what, like, the number one or two feature request for a long time, so I put  
 **Translation:** 
 
-**[6325.00s] English:** a bounty and the guy at some point said okay jb  
+**[6325.00s] English:** A bounty, and the guy at some point said, "Okay, JB.  
 **Translation:** Vocabulary: bounty: 悬赏
 
-**[6328.54s] English:** i'm going to do it and in a matter of two months and then he explained how he did it he was just  
+**[6328.54s] English:** I'm going to do it, and in a matter of two months, and then he explained how he did it; he was just  
 **Translation:** 
 
-**[6334.12s] English:** like oh i looked at the code like this looked like a dct that i used to see on wmv and so on  
+**[6334.12s] English:** Like, oh, I looked at the code, and it looked like a DCT that I used to see in WMV and so on.  
 **Translation:** 
 
-**[6340.10s] English:** he did that and the funniest part is that the code is written is a ton of jokes and there is  
+**[6340.10s] English:** He did that, and the funniest part is that the code is written with a ton of jokes, and there is  
 **Translation:** 
 
-**[6347.84s] English:** there is a ton of jb right my name and and kemp and kemp and kostia jokes inside the code the code  
+**[6347.84s] English:** There is a ton of JB, right? My name and Kemp and Kemp and Kostia jokes inside the code. The code.  
 **Translation:** 
 
-**[6355.42s] English:** is beautiful right so one of these uh i'm going to do it in a matter of two months and then he  
+**[6355.42s] English:** Is beautiful, right? So, one of these, uh, I'm going to do it in a matter of two months, and then he  
 **Translation:** 
 
-**[6358.54s] English:** i want to comment is uh  
+**[6358.54s] English:** I want to comment, is uh  
 **Translation:** 
 
-**[6360.00s] English:** I've gotten a chance to speak to some of the developers,  
+**[6360.00s] English:** I've gotten a chance to speak to some of the developers.  
 **Translation:** 
 
-**[6362.76s] English:** some of the assembly language level people,  
+**[6362.76s] English:** Some of the assembly language-level people,  
 **Translation:** 
 
-**[6366.14s] English:** and they all always make everything sound like it's kind of easy.  
+**[6366.14s] English:** And they always make everything sound like it's kind of easy.  
 **Translation:** 
 
-**[6370.10s] English:** There's a kind of humility  
+**[6370.10s] English:** There's a kind of humility.  
 **Translation:** Vocabulary: humility: 谦逊
 
-**[6371.92s] English:** because maybe just the level of what's required to do this stuff  
+**[6371.92s] English:** Because, maybe, just the level of what's required to do this stuff.  
 **Translation:** 
 
-**[6378.24s] English:** is so high that everything else seems easy,  
+**[6378.24s] English:** It is so high that everything else seems easy.  
 **Translation:** 
 
-**[6380.72s] English:** I guess is the lesson to take away from that.  
+**[6380.72s] English:** I guess the lesson to take away from that is.  
 **Translation:** 
 
-**[6383.48s] English:** So in the community,  
+**[6383.48s] English:** So, in the community,  
 **Translation:** 
 
-**[6384.46s] English:** like some of the most impressive people  
+**[6384.46s] English:** Like some of the most impressive people.  
 **Translation:** 
 
-**[6386.60s] English:** are the ones doing reverse engineering  
+**[6386.60s] English:** Are the ones doing reverse engineering?  
 **Translation:** 
 
-**[6387.98s] English:** and the other ones doing the assembly folks, right?  
+**[6387.98s] English:** And the others are doing the assembly, right?  
 **Translation:** 
 
-**[6391.58s] English:** And both of those type of people are amazing.  
+**[6391.58s] English:** And both of those types of people are amazing.  
 **Translation:** 
 
-**[6397.30s] English:** x264, for example, became amazing  
+**[6397.30s] English:** X264, for example, became amazing.  
 **Translation:** 
 
-**[6399.06s] English:** because of a guy called Lorraine Merritt,  
-**Translation:** Vocabulary: lorraine: 洛林; merritt: 梅里特
+**[6399.06s] English:** Because of a guy called Lorraine Merritt,  
+**Translation:** 
 
-**[6402.16s] English:** who was from the University of Washington, I think.  
+**[6402.16s] English:** Who was from the University of Washington, I think.  
 **Translation:** 
 
 **[6404.60s] English:** At the time, yeah.  
 **Translation:** 
 
-**[6405.28s] English:** And who made everything great and fast  
+**[6405.28s] English:** And who made everything great and fast?  
 **Translation:** 
 
-**[6409.52s] English:** doing a ton of assembly.  
+**[6409.52s] English:** Doing a ton of assembly.  
 **Translation:** 
 
-**[6412.04s] English:** Yeah, so this is like the golden era, I guess,  
+**[6412.04s] English:** Yeah, so this is like the golden era, I guess.  
 **Translation:** 
 
-**[6416.22s] English:** where so many things got done.  
+**[6416.22s] English:** Where so many things got done.  
 **Translation:** 
 
 **[6417.54s] English:** Yeah, if you look at Colt,  
 **Translation:** 
 
-**[6417.96s] English:** for example, he looked at the world as a binary specification.  
+**[6417.96s] English:** For example, he looked at the world as a binary specification.  
 **Translation:** Vocabulary: binary: 二进制; specification: 规范
 
-**[6421.10s] English:** He didn't need documentation or anything.  
+**[6421.10s] English:** He didn't need any documentation or anything.  
 **Translation:** 
 
-**[6423.46s] English:** It's, I have a binary and I can figure all of this out.  
+**[6423.46s] English:** It's fine; I have a binary, and I can figure all of this out.  
 **Translation:** 
 
-**[6426.18s] English:** And he regularly used the phrase binary specification.  
+**[6426.18s] English:** And he regularly used the phrase "binary specification.  
 **Translation:** 
 
 **[6429.66s] English:** I know it's not a problem.  
 **Translation:** 
 
-**[6430.72s] English:** And he went and he would go away and he would come back  
+**[6430.72s] English:** And he went, and he would go away, and he would come back.  
 **Translation:** 
 
-**[6432.50s] English:** and he would do interesting stuff.  
+**[6432.50s] English:** And he would do interesting stuff.  
 **Translation:** 
 
-**[6435.16s] English:** Can you actually speak to the details  
+**[6435.16s] English:** Can you actually speak to the details?  
 **Translation:** 
 
-**[6437.12s] English:** or any add color and texture  
+**[6437.12s] English:** Or, add some color and texture.  
 **Translation:** 
 
-**[6439.14s] English:** to what it takes to reverse engineer a blob?  
+**[6439.14s] English:** To what it takes to reverse-engineer a blob?  
 **Translation:** 
 
-**[6442.06s] English:** Yeah, so let's look at GoToMeeting, for example,  
+**[6442.06s] English:** Yeah, so let's look at GoToMeeting, for example.  
 **Translation:** 
 
-**[6444.18s] English:** is a good one because I record a meeting.  
+**[6444.18s] English:** It's a good one because I record the meeting.  
 **Translation:** 
 
-**[6447.96s] English:** So on GoToMeeting, for example,  
+**[6447.96s] English:** So, on GoToMeeting, for example,  
 **Translation:** 
 
-**[6450.04s] English:** how do I play it back without needing this GoToMeeting player?  
+**[6450.04s] English:** How do I play it back without needing this GoToMeeting player?  
 **Translation:** 
 
 **[6454.30s] English:** They may not even be a player.  
 **Translation:** 
 
-**[6455.98s] English:** I may need to send a recording of a meeting to someone  
+**[6455.98s] English:** I may need to send a recording of a meeting to someone.  
 **Translation:** 
 
-**[6458.30s] English:** that doesn't have a player or whatever.  
+**[6458.30s] English:** That doesn't have a player, or whatever.  
 **Translation:** 
 
-**[6460.62s] English:** So first of all, there's a ton of other stuff there.  
+**[6460.62s] English:** So, first of all, there's a ton of other stuff there.  
 **Translation:** 
 
-**[6463.42s] English:** There's an actual video conferencing client.  
-**Translation:** Vocabulary: conferencing: 会议通话
-
-**[6465.26s] English:** You need to go and find, it may be easy,  
+**[6463.42s] English:** There's an actual video-conferencing client.  
 **Translation:** 
 
-**[6467.08s] English:** it may not be easy to find the actual module  
+**[6465.26s] English:** You need to go and find; it may be easy.  
+**Translation:** 
+
+**[6467.08s] English:** It may not be easy to find the actual module.  
 **Translation:** Vocabulary: module: 模块
 
-**[6468.92s] English:** doing the decompression.  
+**[6468.92s] English:** Doing the decompression.  
 **Translation:** 
 
 **[6471.60s] English:** You need a way to actually dump the YUV data from the module.  
-**Translation:** Vocabulary: decompression: 减压解压
+**Translation:** Vocabulary: decompression: 减压过程
 
-**[6475.52s] English:** So often it involves opening in a distance,  
+**[6475.52s] English:** So often, it involves opening up at a distance,  
 **Translation:** 
 
-**[6477.10s] English:** it involves opening in a disassembler,  
-**Translation:** Vocabulary: disassembler: 反汇编器
+**[6477.10s] English:** It involves opening in a disassembler.  
+**Translation:** Vocabulary: disassembler: 拆解者
 
-**[6478.48s] English:** trying to guess where the hook.  
+**[6478.48s] English:** Trying to guess where the hook is.  
 **Translation:** 
 
-**[6480.00s] English:** are to incorporate that module and run that module natively to decode a sample file so figure out  
-**Translation:** Vocabulary: incorporate: 合并; natively: 本地
+**[6480.00s] English:** Are we to incorporate that module and run it natively to decode a sample file, so as to figure out?  
+**Translation:** Vocabulary: incorporate: 合并; natively: 本地地
 
-**[6487.44s] English:** where this module is doing the decoding process and and find a way to hook in and output the raw  
+**[6487.44s] English:** Where this module is doing the decoding process, and find a way to hook in and output the raw.  
 **Translation:** 
 
-**[6494.10s] English:** YUV data because you will need that as a point of comparison for when you actually do the reverse  
+**[6494.10s] English:** YUV data, because you will need that as a point of comparison for when you actually do the reverse.  
 **Translation:** 
 
-**[6499.28s] English:** engineering because you'll need to be bit exact or in some cases close to bit exact and then you  
+**[6499.28s] English:** Engineering, because you'll need to be bit exact, or in some cases, close to bit exact, and then you  
 **Translation:** 
 
-**[6505.48s] English:** open up your disassembler use a lot of intuition to go and figure out you know where the dct is  
+**[6505.48s] English:** Open up your disassembler and use a lot of intuition to go and figure out where the DCT is.  
 **Translation:** Vocabulary: intuition: 直觉
 
-**[6511.64s] English:** where's entropy coding there is a kind of not a rule book but there's always a pattern of some  
+**[6511.64s] English:** Where's entropy coding? There isn't a rule book, but there's always a pattern of some sort.  
 **Translation:** 
 
-**[6517.34s] English:** sort um for example go to meeting you know it will be a lot of screen codec tools there's also  
-**Translation:** Vocabulary: entropy: 混乱程度
+**[6517.34s] English:** Sort of, for example, going to a meeting—you know, there will be a lot of screen codec tools there, as well.  
+**Translation:** Vocabulary: entropy: 混乱度
 
-**[6523.30s] English:** different variants so often i think there's what's go to meeting four five two three four i think two  
+**[6523.30s] English:** Different variants are so often, I think. There's going to be Meeting 45234, I think, two.  
 **Translation:** 
 
-**[6527.98s] English:** three four yeah so as you mentioned here going to perplexity go to meeting uses its own proprietary  
+**[6527.98s] English:** Three, four. Yeah, so as you mentioned here, going to perplexity, go to meeting, uses its own proprietary...  
 **Translation:** Vocabulary: perplexity: 困惑; proprietary: 专有
 
-**[6533.10s] English:** codec for older recorded sessions  
+**[6533.10s] English:** Codec for older recorded sessions.  
 **Translation:** 
 
-**[6535.32s] English:** historically stored in wmv files that require a special decoder to play properly on windows  
-**Translation:** Vocabulary: historically: 历史上
+**[6535.32s] English:** Historically, they have been stored in WMV files, which require a special decoder to play properly on Windows.  
+**Translation:** Vocabulary: decoder: 解码器; historically: 历史上
 
-**[6541.58s] English:** without this decoder installed windows media player and some editors cannot decode the video  
+**[6541.58s] English:** Without this decoder installed, Windows Media Player and some editors cannot decode the video.  
 **Translation:** 
 
-**[6548.14s] English:** track so you may only hear audio or see a black screen boy do i remember that but this is reverse  
-**Translation:** Vocabulary: cannot: 不能
+**[6548.14s] English:** Track, so you may only hear audio or see a black screen. Boy, do I remember that, but this is reversed.  
+**Translation:** Vocabulary: cannot: 不能; reversed: 相反的
 
-**[6555.16s] English:** engineering that this is key right because the go to meeting is something that not many people  
+**[6555.16s] English:** Engineering that this is key, right? Because the go-to meeting is something that not many people  
 **Translation:** 
 
-**[6560.38s] English:** know anymore right well you know about zoom and and teams and so on but like now let's fast forward  
+**[6560.38s] English:** Know anything more about Zoom and Teams, and so on? But like, now, let's fast-forward.  
 **Translation:** 
 
-**[6565.20s] English:** to the go to meeting part two of the go to meeting part two of the go to meeting part two of the  
+**[6565.20s] English:** To the Go-to-Meeting, Part Two of the Go-to-Meeting, Part Two of the Go-to-Meeting, Part Two  
 **Translation:** 
 
-**[6565.32s] English:** 10 years 15 years and like this is a go to meeting.exe for windows 32 bits right which is  
+**[6565.32s] English:** 10 years, 15 years, and like this is a "go-to-meeting.exe" for Windows 32-bit, right?  
 **Translation:** 
 
-**[6571.84s] English:** like oh yeah but i'm on android i'm on an ipad i'm somewhere else right how are you going to do that  
+**[6571.84s] English:** Like, oh yeah, but I'm on Android, I'm on an iPad, I'm somewhere else, right? How are you going to do that?  
 **Translation:** 
 
-**[6576.96s] English:** i'm going to be on risk 5 on arm those are blocked but there are tons of files we need to  
+**[6576.96s] English:** I'm going to be on Risk 5 on ARM; those are blocked, but there are tons of files we need to.  
 **Translation:** 
 
-**[6582.30s] English:** support for the future and this is why those type of work are  
+**[6582.30s] English:** Support for the future, and this is why those types of work are  
 **Translation:** 
 
-**[6586.38s] English:** exceptionally useful for humanity i just have to say though that reverse engineering process  
+**[6586.38s] English:** Exceptionally useful for humanity, I just have to say, though, that reverse-engineering process.  
 **Translation:** Vocabulary: exceptionally: 特别地
 
-**[6594.24s] English:** is mind-blowing  
+**[6594.24s] English:** It's mind-blowing.  
 **Translation:** 
 
-**[6595.32s] English:** it's crazy it's like it's a kind of like you know  
+**[6595.32s] English:** It's crazy; it's like, you know, kind of like that.  
 **Translation:** 
 
-**[6600.00s] English:** know I've been reading a lot in the interview archaeologists I mean you you  
+**[6600.00s] English:** I know; I've been reading a lot about interviews with archaeologists. I mean, you get the idea.  
 **Translation:** 
 
-**[6604.20s] English:** just have so little signal yes yes you know over time you get so much  
+**[6604.20s] English:** Just have so little signal, yes. Yes, you know, over time, you get so much.  
 **Translation:** Vocabulary: archaeologists: 考古学家
 
-**[6609.06s] English:** experience you understand the structure of the original code so you can kind of  
+**[6609.06s] English:** Experience, you understand the structure of the original code, so you can kind of.  
 **Translation:** 
 
-**[6612.18s] English:** start inferring basics yeah but you're like I would like it was like an  
+**[6612.18s] English:** Start inferring the basics, yeah, but you're like, I would have thought it was more like an  
 **Translation:** Vocabulary: inferring: 推断
 
-**[6617.68s] English:** archaeologist with a little brush trying to reconstruct the entire human so he  
+**[6617.68s] English:** Archaeologist with a little brush, trying to reconstruct the entire human so he  
 **Translation:** 
 
-**[6622.20s] English:** is too humble but Karen has done some reversing of Cineform yeah at the time  
-**Translation:** Vocabulary: archaeologist: 考古学家; reconstruct: 重建; reversing: 反转
+**[6622.20s] English:** Is too humble, but Karen has done some reversing of CineForm, yeah, at the time.  
+**Translation:** Vocabulary: archaeologist: 考古学家; humble: 谦逊; reconstruct: 重建; reversing: 逆向操作
 
-**[6626.38s] English:** Cineform nice yeah at the time before actually led to the open sourcing of  
+**[6626.38s] English:** CineForm was nice, yeah, at the time, before actually leading to the open-sourcing of  
 **Translation:** 
 
-**[6630.64s] English:** that work so in parallel to doing the binary side you obviously have samples  
+**[6630.64s] English:** That works so well in parallel to doing the binary side, you obviously have samples.  
+**Translation:** Vocabulary: binary: 二进制; parallel: 并行
+
+**[6635.38s] English:** In many cases, you don't have many samples, so you have to figure out what  
 **Translation:** 
 
-**[6635.38s] English:** in many cases you don't have many samples so you have to figure out what  
+**[6640.00s] English:** All the different flavors are, and you may have a CineForm, for example.  
+**Translation:** Vocabulary: flavors: 种类
+
+**[6643.46s] English:** Actually, it's a collection of different approaches and toolkits within that.  
 **Translation:** 
 
-**[6640.00s] English:** all the different flavors are and you may have a Cineform for example is  
-**Translation:** Vocabulary: cineform: 电影格式
+**[6646.90s] English:** Codec, because often it grows naturally, and the hard part is...  
+**Translation:** Vocabulary: approaches: 方法; toolkits: 工具包
 
-**[6643.46s] English:** actually a collection of different approaches and toolkits within that  
+**[6650.68s] English:** Finding the sample that gets you, kind of, somewhere to start without having to  
 **Translation:** 
 
-**[6646.90s] English:** codec because often it it grows naturally and and the hard part is  
-**Translation:** Vocabulary: toolkits: 工具包
-
-**[6650.68s] English:** finding the sample that gets you kind of somewhere to start without having to  
-**Translation:** 
-
-**[6655.66s] English:** implement  
-**Translation:** 
+**[6655.66s] English:** Implement  
+**Translation:** Vocabulary: implement: 执行
 
 **[6656.00s] English:** 10  
 **Translation:** 
 
-**[6656.36s] English:** , 10 different other things so start there I think thankfully at the time I  
+**[6656.36s] English:** , 10 different other things; so start there, I think. Thankfully, at the time, I  
 **Translation:** 
 
-**[6660.68s] English:** found a sample by pure chance I had a lot of flat blocks it was animation so  
+**[6660.68s] English:** Found a sample by pure chance. I had a lot of flat blocks, it was animation so.  
 **Translation:** 
 
-**[6664.52s] English:** that really helped a lot because it wasn't using particularly complex coding  
+**[6664.52s] English:** That really helped a lot because it wasn't using particularly complex coding.  
 **Translation:** 
 
-**[6668.78s] English:** tools Etc and you could kind of get somewhere and then and then build up and  
+**[6668.78s] English:** Tools, etc., and you could kind of get somewhere, and then build up.  
 **Translation:** 
 
-**[6672.20s] English:** build up until you figure hey here's a few bits here I miss this I miss this  
+**[6672.20s] English:** Build up until you figure, "Hey, here's a few bits. Here I miss this, I miss this.  
 **Translation:** 
 
-**[6675.74s] English:** this if branch that it does and go oh so when we say samples you mean sample  
+**[6675.74s] English:** This if branch, that it does, and go. Oh, so when we say "samples," you mean sample?  
 **Translation:** 
 
-**[6679.40s] English:** videos and then and then you're tracking trying to infer like what is this codec  
+**[6679.40s] English:** Videos, and then you're tracking, trying to infer like what is this codec?  
 **Translation:** 
 
-**[6684.56s] English:** doing yes by observing  
+**[6684.56s] English:** Doing: Yes, by observing.  
 **Translation:** 
 
-**[6685.98s] English:** observing the sample and then looking at what at the at the machine the machine  
+**[6685.98s] English:** Observing the sample, and then looking at what the machine is doing.  
 **Translation:** 
 
-**[6691.38s] English:** code saying I have this bite is six take this branch and then a different sample  
+**[6691.38s] English:** Code: Saying "I have this bite, is six; take this branch, and then a different sample.  
 **Translation:** 
 
-**[6696.30s] English:** oh it's nuts man and and so you see this is not then you go to things like go to  
+**[6696.30s] English:** Oh, it's nuts, man! And so, you see, this is not then; you go to things like...  
 **Translation:** 
 
-**[6702.12s] English:** me it's like mine was easy right imagine yeah right two order of magnitude of more  
+**[6702.12s] English:** It's like mine was easy, right? Imagine, yeah, right—two orders of magnitude more.  
 **Translation:** 
 
-**[6708.60s] English:** complexity a guy alone somewhere in Germany doing that yeah and for a long time you work  
+**[6708.60s] English:** Complexity: A guy alone somewhere in Germany doing that, yeah, and for a long time, you work.  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[6715.60s] English:** You're in a black box because a decoder for a long time, because there are so many steps involved.  
 **Translation:** 
 
-**[6715.60s] English:** you're in a black box because a decoder for a long time because there is so many steps from the  
+**[6720.00s] English:** Entropy decoding, the intra prediction, the motion prediction, the IDCT, and so on for a long time, you.  
+**Translation:** Vocabulary: decoder: 解码器
+
+**[6726.24s] English:** Don't see anything right, so you're debugging purely by memory, guessing and you.  
 **Translation:** 
 
-**[6720.00s] English:** entropy decoding the intra prediction the motion prediction the idct and so on for a long time you  
-**Translation:** Vocabulary: entropy: 熵解码; intra: 内插预测
+**[6730.96s] English:** May have the buffer that the coefficients are stored in completely wrong, and so you may be.  
+**Translation:** Vocabulary: buffer: 缓冲区; coefficients: 系数
 
-**[6726.24s] English:** don't see anything right so you're debugging purely in memory debugging guesswork and you  
+**[6735.28s] English:** Going down a complete rabbit hole, thinking it's this, and then oh, damn—that's not that's  
 **Translation:** 
 
-**[6730.96s] English:** may have the buffer that the coefficients are stored in completely wrong and so you may be  
-**Translation:** Vocabulary: buffer: 缓冲区; coefficients: 系数; guesswork: 猜测
-
-**[6735.28s] English:** going down a complete rabbit hole thinking it's this and then oh damn that's not that's  
-**Translation:** 
-
-**[6739.84s] English:** that's something else and and you're doing that on binaries that are tens of megabytes  
+**[6739.84s] English:** That's something else, and you're doing that with binaries that are tens of megabytes.  
 **Translation:** Vocabulary: binaries: 二进制文件; megabytes: 兆字节
 
-**[6744.64s] English:** millions of instructions right so you're stepping through the debugger like one by one you know  
+**[6744.64s] English:** Millions of instructions, right? So you're stepping through the debugger, one by one, you know.  
 **Translation:** 
 
-**[6750.64s] English:** instruction by instruction going hey this instruction changes this this does this  
+**[6750.64s] English:** Instruction by instruction, going: "Hey, this instruction changes this. This does this.  
 **Translation:** 
 
-**[6754.36s] English:** pausing the program on the cpu level on the cpu level watching what's going on trying to figure  
+**[6754.36s] English:** Pausing the program on the CPU level, we watch what's going on and try to figure out what's happening.  
 **Translation:** 
 
-**[6758.96s] English:** out sometimes you need to like be in a vm so yes you can pause the vm yeah pause the vm dump the  
+**[6758.96s] English:** Sometimes, you need to be in a VM, so yes, you can pause the VM. Yeah, pause the VM, dump,...  
+**Translation:** Vocabulary: pausing: 暂停
+
+**[6764.10s] English:** Memory, because it could; some of the codecs could have encryption, there could be, um, like DRM on.  
 **Translation:** 
 
-**[6764.10s] English:** memory because it could some of the codecs could have encryption there could be um like a drm on  
-**Translation:** 
-
-**[6768.90s] English:** there so you need to dump the memory from a virtual machine like when i join they call central paris  
+**[6768.90s] English:** There, so you need to dump the memory from a virtual machine, like when I join, they call Central Paris.  
 **Translation:** Vocabulary: encryption: 加密
 
-**[6774.42s] English:** to take a look at the codecs and i'm like oh my god what's going on here what's going on here  
+**[6774.42s] English:** To take a look at the codecs, and I'm like, "Oh my god, what's going on here? What's going on here?  
 **Translation:** 
 
-**[6774.62s] English:** 2003 john lesh johansson basically broke the dvd specification and created dcss  
-**Translation:** Vocabulary: johansson: 约翰松; specification: 规范
+**[6774.62s] English:** In 2003, John LeSh侬松 (Johansson) basically broke the DVD specification and created DCSS.  
+**Translation:** Vocabulary: specification: 规范
 
-**[6780.56s] English:** showed us how he was breaking a drm which was mp4 fair play from apple what he did on his  
+**[6780.56s] English:** Showed us how he was breaking DRM, which was MP4 FairPlay from Apple. What he did on his  
 **Translation:** 
 
-**[6787.98s] English:** laptop and i was young i was 21 was just like mind-blowing because he was basically debugging  
+**[6787.98s] English:** Laptop, and I was young—I was 21—and it was just like mind-blowing because he was basically debugging.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
+
+**[6793.00s] English:** Windows inside a type of VM? With, like, wow! It's incredible, it's mind-blowing, and inspiring. Does  
 **Translation:** 
 
-**[6793.00s] English:** windows inside a type of vm with like wow it's incredible it's mind-blowing and inspiring does  
+**[6801.18s] English:** It gets like that from your experience and from what you've seen in the community, doesn't it?  
 **Translation:** 
 
-**[6801.18s] English:** it get like from your experience and from what you've seen in the community does it get  
+**[6804.60s] English:** Discouraging, does it? Get people to help you? People send you samples? People are keen.  
 **Translation:** 
 
-**[6804.60s] English:** discouraging does it get people help you people send you samples people are keen  
-**Translation:** 
-
-**[6808.94s] English:** sometimes you don't have access to an encoder so this is even more difficult because you just  
+**[6808.94s] English:** Sometimes, you don't have access to an encoder, so this is even more difficult because you just  
 **Translation:** Vocabulary: discouraging: 令人灰心
 
-**[6814.44s] English:** you just ask and you have to ask for samples i remember video land used to tweet for samples  
+**[6814.44s] English:** You just ask, and you have to ask for samples. I remember Video Land used to tweet for samples.  
 **Translation:** 
 
-**[6819.76s] English:** at one stage hey i need this obscure sample and for a long time i was oh i need this codec and i  
+**[6819.76s] English:** At one stage, I needed an obscure sample, and for a long time, I was like, "I need this codec," and I  
 **Translation:** Vocabulary: obscure: 冷门的
 
-**[6824.24s] English:** need this codec and and if you were really lucky you would find like if you were if you were unlucky  
+**[6824.24s] English:** Need this codec, and if you were really lucky, you would find it. And if you were unlucky, you wouldn't.  
 **Translation:** 
 
-**[6828.74s] English:** you'd get like one or two you'd get nothing or you get one or two and then they would sometimes  
+**[6828.74s] English:** You'd get like one or two; you'd get nothing, or you'd get one or two, and then they would sometimes...  
+**Translation:** Vocabulary: unlucky: 倒霉的
+
+**[6832.38s] English:** You'd find a gold mine like, yeah. My company has a home codec, and I need this, and I need that.  
 **Translation:** 
 
-**[6832.38s] English:** you'd find a gold mine like yeah my company has a home codec and i need this codec and i need this  
+**[6834.60s] English:** Codec, and they'll give you thousands of these files because we depended on it for some.  
 **Translation:** 
 
-**[6834.60s] English:** codec and they'll give you like an thousands of these files because we depended on it for some  
+**[6836.90s] English:** Reason, and so those are kind of the best.  
 **Translation:** 
 
-**[6836.90s] English:** reason and so those are those are kind of the best  
+**[6840.00s] English:** Because then they can test bit-exactness across the huge range of coding tools.  
 **Translation:** 
-
-**[6840.00s] English:** Because then they can test bit exactness across the huge range of coding tools.  
-**Translation:** Vocabulary: exactness: 精确性
 
 **[6846.02s] English:** Can you explain bit exactness?  
 **Translation:** 
 
-**[6847.80s] English:** Bit exactness.  
+**[6847.80s] English:** Bit Exactness.  
 **Translation:** 
 
-**[6849.00s] English:** So most but not all video codecs, certainly from about the 2000s onwards, have a bit exact definition.  
+**[6849.00s] English:** So, most but not all video codecs, certainly from about the 2000s onwards, have a bit-exact definition.  
 **Translation:** 
 
-**[6857.54s] English:** So every implementation must produce exactly the same bits, bit for bits, in exactly the same data that comes out of a decoder.  
-**Translation:** Vocabulary: implementation: 实现; onwards: 以后
+**[6857.54s] English:** So, every implementation must produce exactly the same bits, bit-for-bit, in exactly the same data that comes out of a decoder.  
+**Translation:** Vocabulary: decoder: 解码器; implementation: 实现; onwards: 从那时起
 
-**[6866.58s] English:** For like a large number of samples?  
+**[6866.58s] English:** For a large number of samples?  
 **Translation:** 
 
 **[6868.70s] English:** For a given sample.  
 **Translation:** 
 
-**[6869.46s] English:** So Lex's implementation, JB's implementation, and my implementation of H.264 must match bit exactly.  
+**[6869.46s] English:** So, Lex's implementation, JB's implementation, and my implementation of H.264 must match bit-exactly.  
 **Translation:** 
 
-**[6875.76s] English:** That wasn't the case in the 90s of MPEG-2.  
+**[6875.76s] English:** That wasn't the case in the 1990s for MPEG-2.  
 **Translation:** 
 
 **[6878.22s] English:** Probably, fair to say, one of the biggest mistakes the video industry made.  
 **Translation:** 
 
-**[6883.08s] English:** And I think people who were in the room in 92, most of both of us were in diapers, I suspect, have acknowledged.  
-**Translation:** 
+**[6883.08s] English:** And I think people who were in the room in '92; most of us were in diapers, I suspect—have acknowledged.  
+**Translation:** Vocabulary: diapers: 尿布
 
-**[6889.68s] English:** I would give a shout out to Yuri Reznik.  
+**[6889.68s] English:** I would give a shout-out to Yuri Reznik.  
 **Translation:** 
 
 **[6892.88s] English:** He's acknowledged that was one of the big mistakes of the era.  
@@ -5309,25 +5310,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[6899.02s] English:** And then the bit exactness.  
-**Translation:** Vocabulary: encoders: 编码器
+**Translation:** Vocabulary: encoders: 编码器; exactness: 精确性
 
 **[6902.54s] English:** I mean, that's a nice thing to guarantee.  
 **Translation:** 
 
-**[6904.60s] English:** Like, there's a parallel sort of development here on the way the web browser works, which is, you know, takes HTML and displays it.  
+**[6904.60s] English:** Like, there's a parallel sort of development here in how web browsers work, which is that they take HTML and display it.  
+**Translation:** Vocabulary: browsers: 浏览器; parallel: 并行
+
+**[6912.76s] English:** And there's no bit of exactness there across the different engines.  
 **Translation:** 
 
-**[6912.76s] English:** And there's no bit exactness there across the different engines.  
-**Translation:** 
-
-**[6915.90s] English:** I would point out, actually, FFmpeg is unique in the sense that it has been a win-it-takes-all scenario.  
-**Translation:** 
+**[6915.90s] English:** I would point out that, actually, FFmpeg is unique in the sense that it has been a win-it-takes-all scenario.  
+**Translation:** Vocabulary: scenario: 局面
 
 **[6922.70s] English:** Browsers is a good analogy because it has to parse a lot of different content and render it in a particular way, like a decoder.  
 **Translation:** 
 
-**[6929.02s] English:** But there still are multiple browser engines.  
-**Translation:** Vocabulary: browsers: 浏览器; parse: 解析; render: 渲染
+**[6929.02s] English:** But there are still multiple browser engines.  
+**Translation:** Vocabulary: analogy: 类比; browser: 浏览器; parse: 解析; render: 渲染
 
 **[6930.94s] English:** There's Firefox's one.  
 **Translation:** 
@@ -5335,13 +5336,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[6931.98s] English:** There's Chrome's one.  
 **Translation:** 
 
-**[6932.76s] English:** There's a few Japanese ones that are pretty decent.  
+**[6932.76s] English:** There are a few Japanese ones that are pretty decent.  
 **Translation:** 
 
-**[6935.16s] English:** That's not been the case in multimedia in general across a wide range of codecs.  
+**[6935.16s] English:** That's not been the case in multimedia, in general, across a wide range of codecs.  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[6940.38s] English:** FFmpeg is kind of one-it-all, I suppose, in a sense, because of the fact that you can get every new codec added is actually worth more than the value of that codec itself because it makes the whole thing better.  
+**[6940.38s] English:** FFmpeg is kind of an all-in-one solution, I suppose, in a sense, because of the fact that you can get every new codec added, and it's actually worth more than the value of that codec itself because it makes the whole thing better.  
 **Translation:** 
 
 **[6952.34s] English:** Man, this is really cool.  
@@ -5350,28 +5351,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[6954.22s] English:** Going to Perplexity, Yuri Reznik is a multimedia and signal processing researcher.  
 **Translation:** 
 
-**[6957.94s] English:** Got his Ph.D. in computer science.  
+**[6957.94s] English:** Got his Ph.D. in Computer Science.  
 **Translation:** Vocabulary: perplexity: 困惑程度
 
-**[6960.00s] English:** from Kyiv University  
+**[6960.00s] English:** From Kyiv University  
 **Translation:** 
 
-**[6961.04s] English:** with over 150 papers  
+**[6961.04s] English:** With over 150 papers,  
 **Translation:** 
 
-**[6962.90s] English:** and more than 80  
+**[6962.90s] English:** And more than 80.  
 **Translation:** 
 
-**[6963.78s] English:** granted U.S. patents,  
+**[6963.78s] English:** Granted U.S. patents,  
 **Translation:** 
 
-**[6965.80s] English:** contributor to major  
+**[6965.80s] English:** Contributor to major  
 **Translation:** 
 
-**[6967.08s] English:** multimedia standards  
-**Translation:** 
+**[6967.08s] English:** Multimedia Standards  
+**Translation:** Vocabulary: contributor: 主要多媒体标准的贡献者
 
-**[6967.98s] English:** including issue 64,  
+**[6967.98s] English:** Including Issue 64,  
 **Translation:** 
 
 **[6970.12s] English:** MPEG-4,  
@@ -5392,145 +5393,145 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[6977.24s] English:** G.718 is telco stuff.  
 **Translation:** 
 
-**[6978.80s] English:** And so he was more  
+**[6978.80s] English:** And so, he was more.  
 **Translation:** 
 
-**[6980.24s] English:** connected to companies.  
+**[6980.24s] English:** Connected to companies.  
 **Translation:** 
 
 **[6981.24s] English:** Real audio,  
 **Translation:** 
 
-**[6982.02s] English:** real video, right?  
+**[6982.02s] English:** Real video, right?  
 **Translation:** 
 
-**[6982.84s] English:** That was very important  
+**[6982.84s] English:** That was very important.  
 **Translation:** 
 
-**[6984.82s] English:** at that time.  
+**[6984.82s] English:** At that time.  
 **Translation:** 
 
 **[6985.40s] English:** Zencoder,  
-**Translation:** Vocabulary: zencoder: 编码器
+**Translation:** 
 
 **[6985.86s] English:** Brightcove,  
 **Translation:** 
 
-**[6986.50s] English:** Context.  
+**[6986.50s] English:** Context:  
 **Translation:** 
 
-**[6987.40s] English:** Man,  
+**[6987.40s] English:** Man:  
 **Translation:** 
 
-**[6988.10s] English:** I need to hang out  
+**[6988.10s] English:** I need to hang out.  
 **Translation:** 
 
-**[6988.82s] English:** with Yuri.  
+**[6988.82s] English:** With Yuri.  
 **Translation:** 
 
 **[6989.30s] English:** He's legit.  
 **Translation:** Vocabulary: legit: 正经的
 
-**[6990.58s] English:** And he's like  
+**[6990.58s] English:** And he's like:  
 **Translation:** 
 
-**[6991.34s] English:** one of the most  
+**[6991.34s] English:** One of the most  
 **Translation:** 
 
-**[6992.00s] English:** nice person ever,  
+**[6992.00s] English:** Nice person ever,  
 **Translation:** 
 
-**[6993.98s] English:** right?  
+**[6993.98s] English:** Right?  
 **Translation:** 
 
 **[6994.78s] English:** Like,  
 **Translation:** 
 
-**[6995.60s] English:** for example,  
+**[6995.60s] English:** For example,  
 **Translation:** 
 
-**[6996.08s] English:** for my startup  
+**[6996.08s] English:** For my startup  
 **Translation:** 
 
-**[6997.78s] English:** that I'm doing right now  
+**[6997.78s] English:** That I'm doing right now.  
 **Translation:** 
 
-**[6999.34s] English:** called Kyber,  
+**[6999.34s] English:** Called Kyber,  
 **Translation:** 
 
-**[7000.02s] English:** right?  
+**[7000.02s] English:** Right?  
 **Translation:** 
 
-**[7000.20s] English:** I met Yuri  
+**[7000.20s] English:** I met Yuri.  
 **Translation:** 
 
-**[7000.74s] English:** because I met him  
+**[7000.74s] English:** Because I met him.  
 **Translation:** 
 
-**[7001.92s] English:** every year  
+**[7001.92s] English:** Every year  
 **Translation:** 
 
-**[7002.44s] English:** at the Mile High  
+**[7002.44s] English:** At the Mile High  
 **Translation:** 
 
-**[7003.20s] English:** video conference  
+**[7003.20s] English:** Video Conference  
 **Translation:** 
 
-**[7004.38s] English:** which is in Denver.  
+**[7004.38s] English:** Which is in Denver.  
 **Translation:** Vocabulary: denver: Denver市
 
-**[7006.28s] English:** And he gave me  
+**[7006.28s] English:** And he gave me.  
 **Translation:** 
 
-**[7007.58s] English:** like so much  
+**[7007.58s] English:** Like so much.  
 **Translation:** 
 
-**[7008.16s] English:** good ideas  
+**[7008.16s] English:** Good ideas.  
 **Translation:** 
 
-**[7009.82s] English:** and good things.  
+**[7009.82s] English:** And good things.  
 **Translation:** 
 
 **[7010.84s] English:** He's like  
 **Translation:** 
 
-**[7011.22s] English:** really amazing person.  
+**[7011.22s] English:** Really amazing person.  
 **Translation:** 
 
-**[7012.58s] English:** He tells us  
+**[7012.58s] English:** He tells us.  
 **Translation:** 
 
-**[7013.18s] English:** how,  
+**[7013.18s] English:** How,  
 **Translation:** 
 
-**[7013.56s] English:** you know,  
+**[7013.56s] English:** You know,  
 **Translation:** 
 
-**[7014.92s] English:** how great it is  
+**[7014.92s] English:** How great it is!  
 **Translation:** 
 
-**[7015.58s] English:** to be,  
+**[7015.58s] English:** To be,  
 **Translation:** 
 
-**[7016.10s] English:** you know,  
+**[7016.10s] English:** You know,  
 **Translation:** 
 
-**[7016.30s] English:** even know us.  
+**[7016.30s] English:** Even if they don't know us.  
 **Translation:** 
 
 **[7017.02s] English:** And,  
 **Translation:** 
 
-**[7017.16s] English:** you know,  
+**[7017.16s] English:** You know,  
 **Translation:** 
 
-**[7017.86s] English:** you look at that  
+**[7017.86s] English:** You look at that.  
 **Translation:** 
 
-**[7018.44s] English:** and I think  
+**[7018.44s] English:** And I think  
 **Translation:** 
 
-**[7019.18s] English:** it's,  
+**[7019.18s] English:** It's,  
 **Translation:** 
 
 **[7019.42s] English:** I think,  
@@ -5539,136 +5540,136 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7019.64s] English:** I think,  
 **Translation:** 
 
-**[7020.00s] English:** I think it's the other  
+**[7020.00s] English:** I think it's the other.  
 **Translation:** 
 
-**[7020.32s] English:** way around, Yuri.  
+**[7020.32s] English:** Way around, Yuri.  
 **Translation:** 
 
-**[7021.64s] English:** That reminds me  
+**[7021.64s] English:** That reminds me.  
 **Translation:** 
 
-**[7022.56s] English:** of a thing  
+**[7022.56s] English:** Of a thing.  
 **Translation:** 
 
-**[7022.96s] English:** that you mentioned  
+**[7022.96s] English:** That you mentioned.  
 **Translation:** 
 
-**[7024.02s] English:** to me about  
+**[7024.02s] English:** To me, about  
 **Translation:** 
 
-**[7024.66s] English:** FFmpeg testing  
+**[7024.66s] English:** FFmpeg testing.  
 **Translation:** 
 
-**[7025.44s] English:** and like the  
+**[7025.44s] English:** And, like the  
 **Translation:** 
 
-**[7026.22s] English:** insanely vigorous  
+**[7026.22s] English:** Insanely Vigorous  
 **Translation:** 
 
-**[7027.30s] English:** process that's used  
-**Translation:** Vocabulary: vigorous: 精力充沛
+**[7027.30s] English:** Process that's used:  
+**Translation:** Vocabulary: vigorous: 精力充沛的
 
-**[7028.56s] English:** to test everything  
+**[7028.56s] English:** To test everything.  
 **Translation:** 
 
-**[7030.10s] English:** that's incorporated  
+**[7030.10s] English:** That's incorporated.  
+**Translation:** Vocabulary: incorporated: 合并的
+
+**[7030.82s] English:** Into FFmpeg.  
 **Translation:** 
 
-**[7030.82s] English:** into FFmpeg.  
+**[7033.00s] English:** Can you take me?  
 **Translation:** 
 
-**[7033.00s] English:** Can you take me  
+**[7033.64s] English:** Through the testing,  
 **Translation:** 
 
-**[7033.64s] English:** through the testing  
+**[7034.16s] English:** Process?  
 **Translation:** 
 
-**[7034.16s] English:** process?  
+**[7034.86s] English:** Yeah.  
 **Translation:** 
 
-**[7034.86s] English:** Yeah,  
+**[7035.04s] English:** So, FFmpeg  
 **Translation:** 
 
-**[7035.04s] English:** so FFmpeg  
+**[7035.78s] English:** Has a system.  
 **Translation:** 
 
-**[7035.78s] English:** has a system  
+**[7036.34s] English:** Called FFmpeg  
 **Translation:** 
 
-**[7036.34s] English:** called FFmpeg  
+**[7037.38s] English:** Automated Testing  
 **Translation:** 
 
-**[7037.38s] English:** automated testing  
+**[7038.18s] English:** Environment.  
+**Translation:** Vocabulary: automated: 自动化的
+
+**[7039.04s] English:** Because FFmpeg,...  
 **Translation:** 
 
-**[7038.18s] English:** environment.  
-**Translation:** Vocabulary: automated: 自动化测试环境
-
-**[7039.04s] English:** Because FFmpeg  
+**[7040.04s] English:** Runs on so many.  
 **Translation:** 
 
-**[7040.04s] English:** runs on so many  
+**[7041.38s] English:** Different OSs  
 **Translation:** 
 
-**[7041.38s] English:** different OSs  
-**Translation:** 
-
-**[7042.16s] English:** and can be compiled  
+**[7042.16s] English:** And it can be compiled.  
 **Translation:** Vocabulary: compiled: 编译过的
 
-**[7042.88s] English:** with so many  
+**[7042.88s] English:** With so many,  
 **Translation:** 
 
-**[7043.42s] English:** different compilers,  
+**[7043.42s] English:** Different compilers,  
 **Translation:** Vocabulary: compilers: 编译器
 
-**[7044.68s] English:** there's been a crazy  
+**[7044.68s] English:** There's been a crazy  
 **Translation:** 
 
-**[7046.56s] English:** number of configurations.  
+**[7046.56s] English:** Number of configurations.  
 **Translation:** Vocabulary: configurations: 配置方式
 
 **[7048.14s] English:** So,  
 **Translation:** 
 
-**[7048.38s] English:** you can see the  
+**[7048.38s] English:** You can see the  
 **Translation:** 
 
-**[7050.00s] English:** absurd combination  
+**[7050.00s] English:** Absurd combination.  
 **Translation:** 
 
-**[7051.36s] English:** of compiler variants,  
+**[7051.36s] English:** Of compiler variants,  
+**Translation:** Vocabulary: absurd: 荒谬的
+
+**[7054.78s] English:** Operating system variants,  
 **Translation:** 
 
-**[7054.78s] English:** operating system variants,  
+**[7056.46s] English:** Instruction sets.  
 **Translation:** 
 
-**[7056.46s] English:** instruction sets.  
+**[7058.06s] English:** You can see.  
 **Translation:** 
 
-**[7058.06s] English:** You can see  
-**Translation:** 
-
-**[7058.44s] English:** at the top,  
+**[7058.44s] English:** At the top,  
 **Translation:** 
 
 **[7058.84s] English:** macOS has tons  
 **Translation:** 
 
-**[7059.78s] English:** of different variants  
+**[7059.78s] English:** Of different variants.  
 **Translation:** 
 
-**[7060.50s] English:** because it has iOS,  
+**[7060.50s] English:** Because it has iOS,  
 **Translation:** 
 
-**[7061.66s] English:** it has tvOS.  
+**[7061.66s] English:** It has tvOS.  
 **Translation:** 
 
-**[7062.62s] English:** I'm looking at a page,  
+**[7062.62s] English:** I'm looking at a page.  
 **Translation:** 
 
-**[7063.60s] English:** fate.ffmpeg.org,  
+**[7063.60s] English:** fate.ffmpeg.org,.  
 **Translation:** 
 
 **[7067.00s] English:** 81 minutes ago,  
@@ -5677,59 +5678,59 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7068.56s] English:** 76 minutes ago,  
 **Translation:** 
 
-**[7070.24s] English:** looking at the  
+**[7070.24s] English:** Looking at the  
 **Translation:** 
 
-**[7071.12s] English:** different architectures,  
+**[7071.12s] English:** Different architectures,  
 **Translation:** 
 
-**[7072.08s] English:** the operating systems,  
+**[7072.08s] English:** The operating systems,  
 **Translation:** 
 
-**[7073.00s] English:** the different compilers,  
+**[7073.00s] English:** The different compilers,  
 **Translation:** 
 
 **[7074.04s] English:** Apple,  
 **Translation:** 
 
-**[7074.46s] English:** Clang,  
+**[7074.46s] English:** clang.  
 **Translation:** Vocabulary: clang: 金属撞击声
 
-**[7075.64s] English:** version,  
+**[7075.64s] English:** Version:  
 **Translation:** 
 
-**[7077.22s] English:** combinations,  
+**[7077.22s] English:** Combinations,  
 **Translation:** 
 
-**[7078.28s] English:** the combination  
+**[7078.28s] English:** The combination  
 **Translation:** 
 
-**[7079.06s] English:** is insane.  
+**[7079.06s] English:** It is insane.  
 **Translation:** 
 
-**[7080.00s] English:** These are all run by volunteers, so these are all volunteer systems.  
+**[7080.00s] English:** These are all run by volunteers, so they are all volunteer systems.  
 **Translation:** 
 
-**[7083.20s] English:** The ones at the top, for example, the Macs I host in my office, for example,  
+**[7083.20s] English:** The ones at the top, for example, the Macs I host in my office, for example:  
 **Translation:** 
 
-**[7087.74s] English:** host all sorts of different stuff.  
+**[7087.74s] English:** Hosts can all sorts of different stuff.  
 **Translation:** 
 
 **[7089.24s] English:** Other people host other things.  
 **Translation:** 
 
-**[7091.38s] English:** So it's really there to make sure,  
+**[7091.38s] English:** So, it's really there to make sure,  
 **Translation:** 
 
-**[7093.72s] English:** because FFmpeg does quite complex C code, for example,  
+**[7093.72s] English:** Because FFmpeg does quite complex C code, for example,  
 **Translation:** 
 
-**[7097.00s] English:** you do have miscompilations.  
+**[7097.00s] English:** You do have miscompilations.  
 **Translation:** 
 
-**[7098.68s] English:** So the compiler will sometimes compile C code incorrectly, for example.  
-**Translation:** Vocabulary: miscompilations: 错误编译
+**[7098.68s] English:** So, the compiler will sometimes compile C code incorrectly, for example.  
+**Translation:** Vocabulary: compile: 编译; miscompilations: 编译错误
 
 **[7103.58s] English:** This happens once in a while.  
 **Translation:** 
@@ -5740,19 +5741,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7108.26s] English:** Yeah, log of all the compilations, all the tests.  
 **Translation:** 
 
-**[7110.64s] English:** I think one of the other ones will show all the tests passing.  
+**[7110.64s] English:** I think one of the others will show all the tests passing.  
 **Translation:** 
 
-**[7112.90s] English:** If you click, you can see all the tests back, all tests successful.  
+**[7112.90s] English:** If you click, you can see all the tests back, and they are all tests successful.  
 **Translation:** 
 
-**[7117.64s] English:** And logs tests, yeah.  
+**[7117.64s] English:** And log tests, yeah.  
 **Translation:** 
 
-**[7119.26s] English:** So you see all those tests are passing of all the different codecs,  
+**[7119.26s] English:** So, you see, all those tests are passing for all the different codecs.  
 **Translation:** 
 
-**[7124.30s] English:** all the different filter transformations.  
+**[7124.30s] English:** All the different filter transformations.  
 **Translation:** 
 
 **[7127.52s] English:** The level of scale is quite crazy.  
@@ -5770,103 +5771,103 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7136.88s] English:** And it's a key part.  
 **Translation:** 
 
-**[7138.08s] English:** It's a key part of what we do,  
+**[7138.08s] English:** It's a key part of what we do.  
 **Translation:** 
 
-**[7138.62s] English:** because you may be able to test something locally,  
+**[7138.62s] English:** Because you may be able to test something locally.  
 **Translation:** 
 
-**[7142.18s] English:** you make a change,  
+**[7142.18s] English:** You make a change.  
 **Translation:** 
 
-**[7142.98s] English:** but actually that breaks GCC version 11 on Mac or something like that,  
+**[7142.98s] English:** But actually, that breaks GCC version 11 on Mac, or something like that.  
 **Translation:** 
 
-**[7148.62s] English:** and you're able to then fix that.  
+**[7148.62s] English:** And you're able to then fix that.  
 **Translation:** 
 
 **[7150.40s] English:** We also have miscompilation.  
 **Translation:** 
 
-**[7151.92s] English:** So the C code, sometimes the compiler can have a bug in it  
+**[7151.92s] English:** So, the C code: sometimes, the compiler can have a bug in it.  
 **Translation:** Vocabulary: miscompilation: 编译错误
 
-**[7154.36s] English:** where it creates the wrong output.  
+**[7154.36s] English:** Where it creates the wrong output.  
 **Translation:** 
 
-**[7156.24s] English:** And that can have quite a big effect sometimes on a video  
+**[7156.24s] English:** And that can have quite a big effect sometimes on a video.  
 **Translation:** 
 
-**[7159.26s] English:** because of the way frames have dependencies.  
+**[7159.26s] English:** Because of the way frames have dependencies.  
 **Translation:** 
 
 **[7162.18s] English:** Even a small change in the output can cascade to actually quite big glitches.  
-**Translation:** Vocabulary: glitches: 错误
+**Translation:** Vocabulary: cascade: 连锁反应; glitches: 故障
 
 **[7168.08s] English:** You see PowerPC, you see RISC, you see ARM.  
 **Translation:** 
 
-**[7170.84s] English:** There was PowerPC, there was RISC, there was weird stuff in the past, like DEC Alpha.  
-**Translation:** Vocabulary: alpha: DEC Alpha
+**[7170.84s] English:** There was PowerPC, there was RISC, and there was weird stuff in the past, like the DEC Alpha.  
+**Translation:** Vocabulary: alpha: DEC阿尔法
 
-**[7175.00s] English:** You see Visual Studio, different versions of Chrome,  
+**[7175.00s] English:** You see, Visual Studio, different versions of Chrome,  
 **Translation:** 
 
 **[7178.20s] English:** Intel Compiler, Apple Clang, you name it.  
-**Translation:** 
+**Translation:** Vocabulary: clang: 苹果编译器
 
 **[7180.84s] English:** What are some of the pain points?  
 **Translation:** 
 
-**[7183.00s] English:** Like maybe do you have emotional triggers,  
+**[7183.00s] English:** Like, maybe, do you have emotional triggers?  
+**Translation:** Vocabulary: triggers: 触发点
+
+**[7187.00s] English:** Maybe nightmares about a particular operating system.  
 **Translation:** 
 
-**[7187.00s] English:** maybe nightmares about a particular operating system,  
-**Translation:** 
-
-**[7190.70s] English:** a particular container, codec, combination?  
+**[7190.70s] English:** A particular container, codec, or combination?  
 **Translation:** Vocabulary: nightmares: 噩梦
 
-**[7193.46s] English:** For me, it's really easy because I have a day job, my company builds.  
+**[7193.46s] English:** For me, it's really easy because I have a day job, and my company builds.  
 **Translation:** 
 
-**[7198.08s] English:** At the company I started builds,  
+**[7198.08s] English:** At the company I started to build,  
 **Translation:** 
 
-**[7200.00s] English:** equipment for broadcasting sports matches between TV stadiums and studios, for example.  
+**[7200.00s] English:** Equipment for broadcasting sports matches between TV, stadiums, and studios, for example.  
 **Translation:** 
 
 **[7205.22s] English:** We have to work with 10-bit video, and 10-bit video has a set of challenges that  
+**Translation:** Vocabulary: broadcasting: 电视直播
+
+**[7210.52s] English:** You can't process 10-bit data natively on a CPU. So, that means you have to stick it in 16 bits.  
 **Translation:** 
 
-**[7210.52s] English:** you can't process 10-bit data natively on a CPU. So that means you have to stick it in 16 bits.  
+**[7218.92s] English:** So, that means you have six wasted bits. So, there are different packing formats to actually  
+**Translation:** Vocabulary: natively: 本机地
+
+**[7223.30s] English:** Pack the data more efficiently, because when you send that over a network, you lose bandwidth.  
 **Translation:** 
 
-**[7218.92s] English:** So that means you have six wasted bits. So there's different packing formats to actually  
-**Translation:** Vocabulary: natively: 本机处理
-
-**[7223.30s] English:** pack the data more efficiently, because when you send that over a network, you lose, because you  
-**Translation:** 
-
-**[7228.26s] English:** need to save that 40%. For example, on PCI Express, you may only have bus bandwidth to do  
+**[7228.26s] English:** Need to save that 40%. For example, on PCI Express, you may only have bus bandwidth to do  
 **Translation:** Vocabulary: bandwidth: 带宽; efficiently: 高效地
 
-**[7233.28s] English:** that. And so I think internally we have about... Some are industry ones, and some are internal to  
+**[7233.28s] English:** That. And so I think internally we have about... Some are industry ones, and some are internal to.  
 **Translation:** 
 
-**[7238.76s] English:** our own hardware that we build. We have, I think, a 5x5 or 6x6 matrix of every single format to  
-**Translation:** Vocabulary: internally: 内部地
+**[7238.76s] English:** Our own hardware that we build. We have, I think, a 5x5 or 6x6 matrix of every single format to.  
+**Translation:** Vocabulary: internally: 内部; matrix: 矩阵
 
-**[7246.20s] English:** every single other format conversion. In fact, one of them I sent you, and they're all written  
+**[7246.20s] English:** Every single other format conversion. In fact, one of them I sent you, and they're all written,...  
 **Translation:** 
 
-**[7250.80s] English:** in handwritten assembly, and they all support different CPU generations. So this is really  
-**Translation:** Vocabulary: handwritten: 手工编写
+**[7250.80s] English:** In handwritten assembly, and they all support different CPU generations. So, this is really  
+**Translation:** Vocabulary: conversion: 转换; handwritten: 手工编写
 
-**[7257.98s] English:** traumatic.  
+**[7257.98s] English:** Traumatic.  
 **Translation:** 
 
-**[7258.26s] English:** Handling all these different combinations, times a million.  
+**[7258.26s] English:** Handling all these different combinations—times a million.  
 **Translation:** Vocabulary: traumatic: 创伤性的
 
 **[7262.30s] English:** By the way, the company you're talking about is Open Broadcast Systems.  
@@ -5878,172 +5879,172 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7267.52s] English:** Yeah, yeah.  
 **Translation:** 
 
-**[7268.38s] English:** But JB and I have started companies, broadly speaking, around the FFmpeg VLC ethos. So that's  
-**Translation:** Vocabulary: ethos: 精神内涵
+**[7268.38s] English:** But JB and I have started companies, broadly speaking, around the FFmpeg/VLC ethos. So that's  
+**Translation:** Vocabulary: broadly: 大致; ethos: 精神
 
-**[7274.88s] English:** really low-level work. So in most companies, this wouldn't be written in assembly. It would be  
+**[7274.88s] English:** Really low-level work. So, in most companies, this wouldn't be written in assembly. It would be  
 **Translation:** 
 
-**[7280.60s] English:** accepted that C is fast. As you can see from that, C is not fast.  
+**[7280.60s] English:** Accepted that C is fast. As you can see from that, C is not fast.  
 **Translation:** 
 
-**[7286.60s] English:** So here it says 60...  
+**[7286.60s] English:** So, here it says 60....  
 **Translation:** 
 
-**[7288.26s] English:** 62 times faster than C.  
+**[7288.26s] English:** 62 Times Faster Than C.  
 **Translation:** 
 
-**[7290.94s] English:** Yeah. So it's taking those... The ethos of doing low-level programming, real-time programming,  
+**[7290.94s] English:** Yeah. So it's taking those... the ethos of doing low-level programming, real-time programming,  
 **Translation:** 
 
-**[7298.62s] English:** and using that for commercial applications. And JB and I have started companies around that,  
+**[7298.62s] English:** And we've used it for commercial applications. And JB and I have started companies around that.  
 **Translation:** 
 
-**[7303.84s] English:** in many cases hiring developers from the open-source community,  
+**[7303.84s] English:** In many cases, hiring developers from the open-source community,  
 **Translation:** 
 
-**[7306.38s] English:** to use that ethos. And so that's a great example of some of the things we're doing.  
+**[7306.38s] English:** To use that ethos, and so that's a great example of some of the things we're doing.  
 **Translation:** 
 
-**[7314.60s] English:** In most companies, it would be, I'll write this in C, and it's fast, and we're done. But actually,  
+**[7314.60s] English:** In most companies, it would be: "I'll write this in C, and it's fast," and we're done. But actually,  
 **Translation:** 
 
-**[7318.28s] English:** you can get a lot better.  
+**[7318.28s] English:** You can get a lot better.  
 **Translation:** 
 
-**[7319.86s] English:** Formula...  
+**[7319.86s] English:** Formula:  
+**Translation:** 
+
+**[7320.00s] English:** Me, like some of the headaches we have, is around operating systems that are difficult to support, right? Because  
+**Translation:** 
+
+**[7327.88s] English:** If you look at VLC, and thanks to FATE and FFmpeg, we run on the latest version of VLC for Windows.  
 **Translation:** 
 
 **[7329.02s] English:** .  
 **Translation:** 
 
-**[7320.00s] English:** me like some of the headaches we have is around some os that are difficult to support right because  
+**[7337.68s] English:** XP and still runs there, and it runs on Windows 11. We work on Mac OS 10.7 to the latest Mac OS, whatever.  
 **Translation:** 
 
-**[7327.88s] English:** if you look at vlc and thanks to fate and ffmpeg we run on the last version of vlc runs on windows  
+**[7348.26s] English:** It is correct that we have been working on iOS since iOS 9, where we are actually at iOS 16 right now. We support  
 **Translation:** 
 
-**[7337.68s] English:** xp and still run there and runs on windows 11 we work on mac os 10.7 to the latest mac os whatever  
+**[7356.28s] English:** We support many types of Linux, BSD, Solaris. The latest version still runs on OS/2, right?  
 **Translation:** 
 
-**[7348.26s] English:** it is right 26 we work on ios since ios 9 where we are actually ios 26 right we support  
+**[7365.34s] English:** There are maybe 10 users of OS/2 in the world, and one of them is maintaining VLC, then you realize.  
+**Translation:** Vocabulary: solaris: 太阳操作系统
+
+**[7371.12s] English:** That is a very small team around VLC, and they use FFmpeg codecs and all the others to support.  
 **Translation:** 
 
-**[7356.28s] English:** we support many types of linux's bsd solaris the last version still runs on os2 right like  
+**[7377.28s] English:** More.  
 **Translation:** 
 
-**[7365.34s] English:** there is maybe 10 users of os2 in the world and one of them is maintaining vlc then you realize  
+**[7378.24s] English:** They have more power and resources than Microsoft, Google, or Apple, and they have an infinite amount of them.  
 **Translation:** 
 
-**[7371.12s] English:** that this very small team around vlc and using ffmpeg codecs and and all the other ones support  
+**[7386.78s] English:** But, for example, the worst is iOS: Um, for in order to build on iOS 9, we need to do some very clever.  
+**Translation:** Vocabulary: infinite: 无穷的
+
+**[7395.70s] English:** Mixing several versions of the Xcode IDE and SDK from Apple from several versions and do a type.  
 **Translation:** 
 
-**[7377.28s] English:** more  
+**[7403.78s] English:** Of the Frankenstein version of that, so that we can still support iOS.  
+**Translation:** Vocabulary: frankenstein: 怪兽拼凑版
+
+**[7408.12s] English:** 9:00  
 **Translation:** 
 
-**[7378.24s] English:** os's than microsoft or google or apple and they have infinite amount of uh of power and resources  
+**[7408.24s] English:** Which is not supported at all by the compiler of Apple, in order to still run on ARM 32.  
 **Translation:** 
 
-**[7386.78s] English:** but for example the worst is ios um for in order to build on ios 9 we need to do some very clever  
+**[7417.20s] English:** On iOS 9, and you've seen in Fate that it was still supporting iOS 9, right? So, my headaches are...  
 **Translation:** 
 
-**[7395.70s] English:** mixing of several version of the xcode ide and sdk from apple from several version and do a type  
+**[7424.24s] English:** Mostly related to the support of so many OS's, and it's important because like we receive so many.  
 **Translation:** 
 
-**[7403.78s] English:** of frankenstein version of that so that we can still support ios  
-**Translation:** Vocabulary: frankenstein: 拼凑版
-
-**[7408.12s] English:** 9  
+**[7431.04s] English:** People are saying, "Hey, thank you! I still have my iPad 2 to watch movies, and it still works on iOS 9, right?  
 **Translation:** 
 
-**[7408.24s] English:** which is not supported at all by the the compiler of uh of uh apple in order to still run on arm 32  
-**Translation:** 
-
-**[7417.20s] English:** on ios 9 and you've seen on fate that it was still supporting ios 9 right so so um my headaches are  
-**Translation:** 
-
-**[7424.24s] English:** mostly related to the the support of so many os's and it's important because like we receive so many  
-**Translation:** 
-
-**[7431.04s] English:** people saying hey thank you i still have my ipad 2 to watch movies and it still works on ios 9 right  
-**Translation:** 
-
-**[7438.08s] English:** so it can't just you can't do it right so like you know and for those of us who can learn to use it  
-**Translation:** 
-
-**[7440.32s] English:** um we'd like to encourage you just to make sure that you're doing something reasonable and easy  
-**Translation:** 
-
-**[7445.10s] English:** and it's also an impact of like we're you know i'm a json and i'm a json  
-**Translation:** 
-
-**[7452.92s] English:** i'm not a json to you know i'm not an json kind of like i'm i'm not an from a big beaks  
-**Translation:** 
-
-**[7455.52s] English:** or something so like if you don't care about what you're doing it's not gonna be helpful in any way  
-**Translation:** 
-
-**[7457.64s] English:** so if you don't care about what you're doing it's not gonna be helpful in any way  
-**Translation:** 
-
-**[7458.88s] English:** so i think i hope we've made it clear that we didn't need any of this stuff at all so i think  
-**Translation:** 
-
-**[7463.92s] English:** today we're doing the most important thing which is it's going to be about the  
+**[7438.08s] English:** So, it can't just be done right; you can't do it like that. For those of us who can learn to use it,...  
 **Translation:** 
 
 **[7440.00s] English:** Like not forcing people to buy new hardware when it works fine.  
 **Translation:** 
 
-**[7443.24s] English:** If you optimize it correctly, which brings us to what we were saying about assembly,  
+**[7440.32s] English:** Um, we'd like to encourage you just to make sure that you're doing something reasonable and easy.  
 **Translation:** 
 
-**[7448.30s] English:** it's also fighting the fact that you need to buy something new nonstop  
+**[7443.24s] English:** If you optimize it correctly, which brings us to what we were saying about assembly:  
+**Translation:** 
+
+**[7445.10s] English:** And it's also an impact that, like, we're you know, I'm a JSON and I'm a JSON.  
 **Translation:** Vocabulary: optimize: 优化
 
-**[7453.00s] English:** while you could optimize more, which is a lost art.  
+**[7448.30s] English:** It's also fighting the fact that you need to buy something new non-stop.  
 **Translation:** 
 
-**[7458.24s] English:** You got to tell me about this lost art or the carriers of the flame of assembly.  
+**[7452.92s] English:** I'm not a JSON, you know? I'm not that kind of thing, like I'm not from a big beaks.  
+**Translation:** 
+
+**[7453.00s] English:** While you could optimize more, which is a lost art.  
+**Translation:** 
+
+**[7455.52s] English:** Or, something like if you don't care about what you're doing, it's not going to be helpful in any way.  
+**Translation:** 
+
+**[7457.64s] English:** So, if you don't care about what you're doing, it's not going to be helpful in any way.  
+**Translation:** 
+
+**[7458.24s] English:** You've got to tell me about this lost art or the carriers of the flame of assembly.  
+**Translation:** 
+
+**[7458.88s] English:** So, I think, and I hope, we've made it clear that we didn't need any of this stuff at all. So, I think,  
+**Translation:** 
+
+**[7463.92s] English:** Today, we're doing the most important thing, which is going to be about the  
 **Translation:** 
 
 **[7467.04s] English:** What is assembly? Why is it beautiful? Why is it challenging? How does it work?  
 **Translation:** 
 
-**[7474.32s] English:** So when you write assembly code, you write this using the instructions  
+**[7474.32s] English:** So, when you write assembly code, you write it using the instructions.  
 **Translation:** 
 
-**[7478.04s] English:** the actual processor is using directly.  
+**[7478.04s] English:** The actual processor is using directly.  
 **Translation:** 
 
-**[7480.74s] English:** So most of the time you would write in a language.  
+**[7480.74s] English:** So, most of the time, you would write in a language.  
 **Translation:** Vocabulary: processor: 处理器
 
 **[7483.18s] English:** Let's take C as a good example.  
 **Translation:** 
 
-**[7484.70s] English:** The compiler would use that to create assembly language  
+**[7484.70s] English:** The compiler would use that to create assembly language.  
 **Translation:** 
 
-**[7488.98s] English:** and machine code instructions for you based off your C code.  
+**[7488.98s] English:** And it will generate machine-code instructions for you, based off your C code.  
 **Translation:** 
 
 **[7493.14s] English:** And there's a specific flavor of assembly that we use in FFmpeg.  
 **Translation:** 
 
-**[7496.70s] English:** That's called SIMD, SIMD, single instruction multiple data.  
+**[7496.70s] English:** That's called SIMD, SIMD: Single Instruction Multiple Data.  
 **Translation:** 
 
-**[7501.28s] English:** So this means, for example, say I want to add five to a number in scalar assembly.  
-**Translation:** Vocabulary: scalar: 标量运算
+**[7501.28s] English:** So, this means, for example, if I want to add five to a number in scalar assembly.  
+**Translation:** Vocabulary: scalar: 标量的
 
-**[7508.64s] English:** So this is what's known as you work on an individual element.  
+**[7508.64s] English:** So, this is what's known as working on an individual element.  
 **Translation:** 
 
-**[7511.16s] English:** So I want to have a number of number 10 and I want to add five.  
+**[7511.16s] English:** So, I want to have the number 10 and I want to add five.  
 **Translation:** 
 
-**[7513.96s] English:** I use the add instruction and I add five to 10 and I get 15.  
+**[7513.96s] English:** I use the add-instruction and I add 5 to 10, and I get 15.  
 **Translation:** 
 
 **[7519.24s] English:** With SIMD, I can have a whole vector of 16 different numbers that could all be different.  
@@ -6052,7 +6053,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7524.36s] English:** If I want to add five to that, I can.  
 **Translation:** 
 
-**[7526.70s] English:** I can run one instruction and that one instruction sums all 16 elements.  
+**[7526.70s] English:** I can run one instruction, and that one instruction sums all 16 elements.  
 **Translation:** 
 
 **[7534.44s] English:** And that, as you can imagine, lends itself very well to video.  
@@ -6061,73 +6062,73 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7537.36s] English:** Video is a pixel grid, so I can perform operations on multiple pixels at the same time.  
 **Translation:** Vocabulary: pixel: 像素; pixels: 像素
 
-**[7545.48s] English:** The key thing that we do differently in FFmpeg is we don't use any abstractions  
+**[7545.48s] English:** The key thing that we do differently in FFmpeg is that we don't use any abstractions.  
 **Translation:** 
 
-**[7549.52s] English:** or any major abstractions on top of that.  
+**[7549.52s] English:** Or any major abstractions on top of that.  
 **Translation:** Vocabulary: abstractions: 抽象层
 
-**[7551.44s] English:** So there's a part of the world that uses what's known as intrinsics.  
+**[7551.44s] English:** So, there's a part of the world that uses what's known as intrinsics.  
 **Translation:** 
 
-**[7555.28s] English:** So these are C functions.  
-**Translation:** Vocabulary: intrinsics: 内在特性
+**[7555.28s] English:** So, these are C functions.  
+**Translation:** Vocabulary: intrinsics: 内在优化函数
 
-**[7556.30s] English:** That behave very similarly, but not quite the same.  
+**[7556.30s] English:** That behaves very similarly, but not quite the same.  
 **Translation:** 
 
-**[7560.00s] English:** writing assembly by hand so the registers that data is stored in on the cpu the compiler allocates  
-**Translation:** Vocabulary: allocates: 分配
+**[7560.00s] English:** Writing assembly by hand, so the registers that data is stored in on the CPU, the compiler allocates.  
+**Translation:** Vocabulary: allocates: 分配; behaves: 表现; registers: 寄存器
 
-**[7568.56s] English:** those for you and so the key thing to understand was when we write simd is we have a 10x and not  
+**[7568.56s] English:** Those are for you, and so the key thing to understand is that when we write SIMD, we have a 10x improvement.  
 **Translation:** 
 
-**[7575.52s] English:** percentage 10x to 50x speed improvement that that function is 62x that's nuts on the ffmpeg account  
+**[7575.52s] English:** Percentage: 10x to 50x speed improvement. That function is 62x—nuts on the FFmpeg account.  
 **Translation:** 
 
-**[7583.92s] English:** as you know posts and tweets a lot about that to try and say hey we're doing this stuff you are a  
+**[7583.92s] English:** As you know, they post and tweet a lot about that to try and say, "Hey, we're doing this stuff." You are  
 **Translation:** 
 
-**[7589.76s] English:** person who sees the beauty in assembly but it's also extremely useful for these kinds of  
-**Translation:** Vocabulary: tweets: 发推特
-
-**[7594.16s] English:** applications to actually significantly outperform even c which is crazy it is necessary yes right  
+**[7589.76s] English:** A person who sees the beauty in assembly, but it's also extremely useful for these kinds of  
 **Translation:** 
 
-**[7602.16s] English:** because like one of the projects um that we need to talk about is called david right so  
+**[7594.16s] English:** Applications to actually significantly outperform even C, which is crazy; it is necessary, yes, right?  
 **Translation:** 
 
-**[7608.00s] English:** david is a decoder for the format uh that was done by aliens for open media  
+**[7602.16s] English:** Because, like, one of the projects we need to talk about is called David, right? So  
 **Translation:** 
 
-**[7614.96s] English:** which is a video decoder called av1 so if people don't know  
+**[7608.00s] English:** David is a decoder for the format, uh, that was done by aliens for open media.  
 **Translation:** 
 
-**[7619.76s] English:** we've been talking about h.264 av1 is another hugely popular standard and codec that is  
+**[7614.96s] English:** Which is a video decoder called AV1, so if people don't know,  
+**Translation:** Vocabulary: aliens: 外星人; decoder: 解码器
+
+**[7619.76s] English:** We've been talking about H.264, AV1 is another hugely popular standard and codec that is  
 **Translation:** 
 
-**[7628.72s] English:** increasingly taking over uh the internet and when this format was launched uh many people said  
+**[7628.72s] English:** Increasingly taking over the internet, and when this format was launched, many people said  
+**Translation:** Vocabulary: hugely: 非常
+
+**[7635.92s] English:** Especially, even from the alliance of Open Media, which includes Google, Netflix, Amazon, and Mozilla, I say.  
 **Translation:** 
 
-**[7635.92s] English:** especially even from the alliance from open media right which is google netflix amazon mozilla i say  
+**[7641.92s] English:** Well, this format is so complex that it must be done in hardware to decode, right? And well, I arrived, uh,...  
 **Translation:** 
 
-**[7641.92s] English:** well this format is so complex it must be done in hardware to do decoding right and well i arrived uh  
+**[7649.76s] English:** With a few other people, mostly Henrik and Martin, who said we need to have an  
 **Translation:** 
 
-**[7649.76s] English:** with a few other people uh mostly um ronald uh henrik and martin who said we need to have an  
-**Translation:** 
-
-**[7656.56s] English:** extremely good software decoder uh because it's going to take time to have hardware and so  
+**[7656.56s] English:** Extremely good software decoder, uh, because it's going to take time to develop the hardware and so.  
 **Translation:** Vocabulary: henrik: 亨里克
 
-**[7662.48s] English:** we wrote this project which is beyond insane um we are talking about 30 000 lines of c  
+**[7662.48s] English:** We wrote this project, which is beyond insane. We are talking about 30,000 lines of C.  
 **Translation:** 
 
-**[7671.44s] English:** but 240 000 lines of handwritten assembly right hand written assembly two hundred  
-**Translation:** Vocabulary: handwritten: 手工编写
+**[7671.44s] English:** But 240,000 lines of handwritten assembly, right? Two hundred thousand.  
+**Translation:** Vocabulary: handwritten: 手工编写的
 
-**[7679.76s] English:** forty  
+**[7679.76s] English:** Forty  
 **Translation:** 
 
 **[7680.00s] English:** 40,000 lines.  
@@ -6136,10 +6137,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7682.10s] English:** That's incredible.  
 **Translation:** 
 
-**[7683.40s] English:** I mean, some of the stuff we're talking about is probably the biggest assembly code bases.  
-**Translation:** 
+**[7683.40s] English:** I mean, some of the stuff we're talking about is probably the biggest assembly codebases.  
+**Translation:** Vocabulary: codebases: 代码库
 
-**[7689.84s] English:** To give you an idea, and Kieran can correct me, but I think the FFmpeg has 100,000 lines of assembly for all the codecs.  
+**[7689.84s] English:** To give you an idea, and Kieran can correct me, but I think FFmpeg has 100,000 lines of assembly for all the codecs.  
 **Translation:** 
 
 **[7697.14s] English:** All codecs.  
@@ -6151,23 +6152,23 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7700.84s] English:** It's a VideoLand project, of course.  
 **Translation:** 
 
-**[7702.78s] English:** And it is optimized at the maximum because the motto when we're starting the project is every cycle matters, right?  
+**[7702.78s] English:** And it is optimized to the maximum because the motto when we're starting the project is: "Every cycle matters," right?  
 **Translation:** 
 
 **[7713.92s] English:** Every cycle matters because David is used in VLC and in some software AV1 playback stacks.  
-**Translation:** Vocabulary: optimized: 优化; playback: 回放
+**Translation:** Vocabulary: optimized: 最优化; playback: 回放; stacks: 堆栈
 
-**[7720.64s] English:** We are talking about probably 3 billion devices which are going to decode video nonstop.  
+**[7720.64s] English:** We are talking about probably 3 billion devices which are going to decode video non-stop.  
 **Translation:** 
 
-**[7726.76s] English:** Because, for example, 30% of the video from Netflix are now in AV1.  
+**[7726.76s] English:** Because, for example, 30% of the videos from Netflix are now in AV1.  
 **Translation:** 
 
 **[7730.82s] English:** 50% of YouTube.  
 **Translation:** 
 
-**[7732.78s] English:** And you often don't have a hardware decoder because not many devices have a hardware decoder.  
-**Translation:** 
+**[7732.78s] English:** And you often don't have a hardware decoder, because not many devices have one.  
+**Translation:** Vocabulary: decoder: 解码器
 
 **[7739.02s] English:** And with David, we realized that with one or two cores, you were able to decode 720p correctly.  
 **Translation:** 
@@ -6190,19 +6191,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7760.48s] English:** 19.6% C.  
 **Translation:** 
 
-**[7762.50s] English:** And...  
+**[7762.50s] English:** And,...  
 **Translation:** 
 
-**[7762.78s] English:** And 0.5% other.  
+**[7762.78s] English:** And 0.5%, other.  
 **Translation:** 
 
-**[7765.60s] English:** And what's incredible is with those tweets, which is factual, people get crazy.  
-**Translation:** Vocabulary: tweets: 微博
+**[7765.60s] English:** And what's incredible is that, with those tweets—which are factual—people get crazy.  
+**Translation:** Vocabulary: tweets: 推特
 
 **[7772.32s] English:** They are unhappy, right?  
 **Translation:** 
 
-**[7773.52s] English:** They say, for the last two years, they go crazy.  
+**[7773.52s] English:** They say that for the last two years, they've gone crazy.  
 **Translation:** 
 
 **[7775.24s] English:** No, intrinsics is fine.  
@@ -6214,8 +6215,8 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7777.28s] English:** Oh, there you go.  
 **Translation:** 
 
-**[7777.78s] English:** You can optimize your compiler, auto vectorization.  
-**Translation:** Vocabulary: optimize: 优化; vectorization: 向量化的过程
+**[7777.78s] English:** You can optimize your compiler for auto-vectorization.  
+**Translation:** 
 
 **[7780.72s] English:** It's your fault.  
 **Translation:** 
@@ -6226,8 +6227,8 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7782.46s] English:** And we've tried that forever, right?  
 **Translation:** 
 
-**[7784.64s] English:** For two years and two years later, showing hundreds of examples of handwritten assembly.  
-**Translation:** 
+**[7784.64s] English:** For two years, and two years later, showing hundreds of examples of handwritten assembly.  
+**Translation:** Vocabulary: handwritten: 手写
 
 **[7790.44s] English:** No, no, no.  
 **Translation:** 
@@ -6241,14 +6242,17 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7792.74s] English:** So, we should actually just articulate a little clearer.  
 **Translation:** Vocabulary: articulate: 表达清晰
 
-**[7795.50s] English:** So, the intuition there from the software engineering folks, when you have code like...  
+**[7795.50s] English:** So, the intuition there from the software engineering folks is that when you have code like...  
 **Translation:** 
 
 **[7799.40s] English:** Okay, let's just...  
 **Translation:** Vocabulary: intuition: 直觉
 
-**[7800.08s] English:** Okay.  
+**[7800.00s] English:** An example in C++: There's a compiler that's doing a lot of the optimization, yes, and the  
 **Translation:** 
+
+**[7800.08s] English:** Okay.  
+**Translation:** Vocabulary: optimization: 优化
 
 **[7801.08s] English:** Okay.  
 **Translation:** 
@@ -6265,6 +6269,9 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7806.08s] English:** Okay.  
 **Translation:** 
 
+**[7806.88s] English:** Presumption is: if you have a good enough compiler, and if you continue to improve the compiler, you're  
+**Translation:** 
+
 **[7807.08s] English:** Okay.  
 **Translation:** 
 
@@ -6278,6 +6285,9 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[7811.08s] English:** Okay.  
+**Translation:** 
+
+**[7811.36s] English:** Going to generate code, yeah, they can perform like optimal performance—you cannot possibly beat it.  
 **Translation:** 
 
 **[7812.08s] English:** Okay.  
@@ -6301,6 +6311,9 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7818.08s] English:** Okay.  
 **Translation:** 
 
+**[7818.40s] English:** And you're consistently challenging that thought: if my orders of magnitude by orders of  
+**Translation:** 
+
 **[7819.08s] English:** Okay.  
 **Translation:** 
 
@@ -6313,328 +6326,316 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[7822.08s] English:** Okay.  
 **Translation:** 
 
-**[7800.00s] English:** an example c plus plus there's a compiler that's doing a lot of the optimization yes and the  
+**[7822.80s] English:** Magnitude, handcrafted assembly can outperform C. The two things that they tell us is: yeah, but.  
 **Translation:** 
 
-**[7806.88s] English:** presumption is if you have a good enough compiler if you continue to improve the compiler you're  
-**Translation:** Vocabulary: optimization: 优化
+**[7829.92s] English:** Modern compilers have auto-vectorization, right? Because SIMD that we're doing is vectorization.  
+**Translation:** Vocabulary: compilers: 编译器; handcrafted: 手工制作; vectorization: 向量优化
 
-**[7811.36s] English:** going to generate code yeah they can perform like optimal performance you cannot possibly beat it  
+**[7835.44s] English:** And, like, it's not even close, right? It's not like five or ten percent.  
 **Translation:** 
 
-**[7818.40s] English:** and you're consistently challenging that thought that if my orders of magnitude by orders of  
-**Translation:** Vocabulary: cannot: 不可能; optimal: 最佳
-
-**[7822.80s] English:** magnitude handcrafted assembly can outperform c the two things that they tell us is yeah but  
-**Translation:** 
-
-**[7829.92s] English:** modern compilers have auto vectorization right because simd that we're doing is vectorization  
-**Translation:** Vocabulary: compilers: 编译器; handcrafted: 手工制作
-
-**[7835.44s] English:** and like it's not even close right it's not even close right it's not like five percent ten percent  
-**Translation:** 
-
-**[7841.28s] English:** slower it's multiple times slower so can we i don't know if you can say something philosophically  
+**[7841.28s] English:** Slower, it's multiple times slower. So, can we? I don't know if you can say something philosophically.  
 **Translation:** Vocabulary: philosophically: 哲学地
 
-**[7845.84s] English:** because there's a lot of there's a lot of great software engineers great engineers great machine  
+**[7845.84s] English:** Because there are a lot of great software engineers and great machine learning experts.  
 **Translation:** 
 
-**[7850.88s] English:** learning people karpathy will listen to this and say what's the intuition he's supposed to get from  
-**Translation:** Vocabulary: karpathy: 卡普雷
-
-**[7855.84s] English:** this what are we supposed to he learned assembly because of the tweets by the way i just he's  
+**[7850.88s] English:** Learning, people; Karpathy will listen to this and say, "What's the intuition he's supposed to get from?  
 **Translation:** 
 
-**[7859.92s] English:** he's like oh i think this is like let me figure out and you know the way he documents his work and  
+**[7855.84s] English:** This: What are we supposed to learn from assembly, because of the tweets? By the way, he's  
 **Translation:** 
 
-**[7864.88s] English:** so philosophically what's important to realize is that we passed the time where hardware was going  
+**[7859.92s] English:** He's like, "Oh, I think this is like, let me figure it out, and you know, the way he documents his work,  
+**Translation:** Vocabulary: tweets: 推特
+
+**[7864.88s] English:** So, philosophically, what's important to realize is that we've passed the time where hardware was going  
 **Translation:** 
 
-**[7872.00s] English:** so much faster right we at the end of the more low we have limitation for uh for ai for memory  
+**[7872.00s] English:** So much faster, right? We're at the end of the line for our limitations when it comes to AI and memory.  
 **Translation:** 
 
-**[7878.40s] English:** you need to go down in the stack and optimize more to get more power from what you have  
+**[7878.40s] English:** You need to go down in the stack and optimize more to get more power from what you have.  
 **Translation:** 
 
-**[7884.00s] English:** because our requests for power cpu power gpu power are  
+**[7884.00s] English:** Because our requests for power (CPU, GPU, and CPU power) are  
+**Translation:** Vocabulary: optimize: 优化
+
+**[7889.52s] English:** Exploding while the hardware is not exploding in speed, right? So, what people do is that they  
 **Translation:** 
 
-**[7889.52s] English:** exploding while the hardware is not exploding in speed right so you what people do is that they  
-**Translation:** 
-
-**[7897.12s] English:** add more calls right but that's basically like at some point you can have 250 calls right so what we  
+**[7897.12s] English:** Add more calls, right? But that's basically like, at some point, you can have 250 calls, right? So what we  
 **Translation:** Vocabulary: exploding: 爆炸性
 
-**[7903.36s] English:** do is to take every inch of the machine not just that not just that we abuse the machine we go and  
+**[7903.36s] English:** Do is to take every inch of the machine—not just that; we don't abuse the machine; we go and  
 **Translation:** 
 
-**[7909.92s] English:** use we use the machine in ways that the the creator didn't expect sometimes we use an  
+**[7909.92s] English:** We use machines in ways that the creator didn't expect. Sometimes we use them to do things completely different from what they were originally designed for.  
 **Translation:** 
 
-**[7915.12s] English:** instruction that's completely unrelated to what we do we use a cryptography instruction  
+**[7915.12s] English:** Instruction that's completely unrelated to what we do; we use a cryptography instruction.  
 **Translation:** 
 
-**[7919.52s] English:** video  
-**Translation:** Vocabulary: cryptography: 密码学
+**[7919.52s] English:** Video  
+**Translation:** Vocabulary: cryptography: 加密指令
 
-**[7920.00s] English:** to do nothing related and one of the other things that we do for example in david which is a bit  
+**[7920.00s] English:** To do nothing related, and one of the other things we do, for example, in David, which is a bit...  
 **Translation:** 
 
-**[7925.72s] English:** crazy is that we don't use the function calling convention from the operating system we should  
+**[7925.72s] English:** Crazy is that we don't use the function calling convention from the operating system; we should.  
 **Translation:** 
 
-**[7933.68s] English:** explain that that is extremely complex but basically usually when you do move from one  
+**[7933.68s] English:** Explain that that is extremely complex, but basically, usually when you do move from one  
 **Translation:** 
 
-**[7938.38s] English:** function in code to another there is a way to save the registry the state of the cpu to enter  
-**Translation:** Vocabulary: registry: 寄存器状态
-
-**[7944.86s] English:** another function and this is like standard it's a bit complex i would i would simplify this a bit  
+**[7938.38s] English:** There is a function in code to save the state of the CPU and register to enter another mode.  
 **Translation:** 
 
-**[7950.22s] English:** so so david does things to abuse the calling convention you could define the calling convention  
+**[7944.86s] English:** Another function, and this is like standard; it's a bit complex. I would simplify this a bit.  
+**Translation:** 
+
+**[7950.22s] English:** So, David does things that abuse the calling convention. You could define the calling convention.  
 **Translation:** Vocabulary: simplify: 简化
 
-**[7955.52s] English:** as i've written a function and i want to call another function how is the data shared between  
+**[7955.52s] English:** As I've written a function and I want to call another function, how is the data shared between them?  
 **Translation:** 
 
-**[7961.44s] English:** the functions because there's a convention what's known as a calling convention and what david does  
+**[7961.44s] English:** The functions, because there's a convention known as a calling convention, and what David does.  
 **Translation:** 
 
-**[7966.70s] English:** for optimal reasons is create its own calling convention sometimes so if i want to call  
+**[7966.70s] English:** For optimal reasons, it is sometimes created with its own calling convention. So, if I want to call  
 **Translation:** 
 
-**[7973.04s] English:** lex friedman's library we got  
+**[7973.04s] English:** Lex Friedman's library; we got it.  
 **Translation:** Vocabulary: optimal: 最佳的
 
-**[7974.76s] English:** you  
+**[7974.76s] English:** You.  
 **Translation:** 
 
-**[7974.86s] English:** got to agree on a convention so that i can share data with you in the assembly language space and  
+**[7974.86s] English:** Got to agree on a convention so that I can share data with you in the assembly language space and...  
 **Translation:** 
 
-**[7980.58s] English:** one of the challenges in assembly is every operating well not every operating system but  
+**[7980.58s] English:** One of the challenges in assembly is that, every operating system, not just every operating well, but  
 **Translation:** 
 
-**[7984.14s] English:** there are at least four that i can think of on x86 linux 32-bit windows 32-bit windows 64 linux 64  
+**[7984.14s] English:** There are at least four that I can think of: x86 Linux (32-bit), Windows (32-bit), Windows (64-bit), Linux (64-bit).  
 **Translation:** 
 
-**[7990.96s] English:** they all have their own calling conventions and so one of the amazing things lauren merritt did  
+**[7990.96s] English:** They all have their own calling conventions, and so one of the amazing things Lauren Merritt did was  
 **Translation:** 
 
-**[7996.16s] English:** who we talked about before was create a very lightweight abstraction layer so you could write  
+**[7996.16s] English:** Who we talked about before was to create a very lightweight abstraction layer, so you could write  
 **Translation:** Vocabulary: abstraction: 抽象层; conventions: 调用约定; lightweight: 轻量级
 
-**[7999.92s] English:** your assembly code once and it handled all the calling convention stuff for you  
+**[7999.92s] English:** Your assembly code once, and it handled all the calling convention stuff for you.  
 **Translation:** 
 
-**[8004.86s] English:** which is always a problem because you had to manage four different variants but david takes  
+**[8004.86s] English:** Which is always a problem because you had to manage four different variants, but David takes  
 **Translation:** 
 
-**[8010.20s] English:** this even further for speed reasons it does its own calling convention um within itself  
+**[8010.20s] English:** This is done even further for speed reasons, as it uses its own calling convention within itself.  
 **Translation:** 
 
-**[8015.92s] English:** to bypass the kind of rules the rules of the rules of sort of functions and say okay actually i'm  
-**Translation:** Vocabulary: bypass: 绕过
+**[8015.92s] English:** To bypass the kind of rules, the rules of the rules of sort of functions, and say, "Okay, actually I'm...  
+**Translation:** Vocabulary: bypass: 绕过规则
 
-**[8021.76s] English:** going to call a function this way because i know it's within my library does there have to be special  
+**[8021.76s] English:** Going to call a function this way because I know it's within my library, but does there have to be special?  
 **Translation:** 
 
-**[8026.28s] English:** to every single operating system well if it's custom no but the the challenge is in general  
+**[8026.28s] English:** To every single operating system, well, if it's custom, no, but the challenge is, in general,  
 **Translation:** 
 
-**[8032.24s] English:** yes and in terms of in terms of each of the functions that are in the library and the  
+**[8032.24s] English:** Yes, and in terms of each of the functions that are in the library, and  
 **Translation:** 
 
-**[8034.86s] English:** instruction set so the thing to also emphasize is we do this on every instruction set so every  
+**[8034.86s] English:** Instruction set: So, the thing to also emphasize is that we do this on every instruction set, so every  
+**Translation:** Vocabulary: emphasize: 强调
+
+**[8039.54s] English:** Instruction:  
 **Translation:** 
 
-**[8039.54s] English:** instruction  
-**Translation:** 
-
-**[8040.00s] English:** has its own handwritten assembly which is even more crazy and that that that has um that matrix  
+**[8040.00s] English:** Has its own handwritten assembly, which is even more crazy, and that matrix.  
 **Translation:** Vocabulary: handwritten: 手写; matrix: 矩阵
 
-**[8045.84s] English:** has got bigger in recent years because of risk 5 because of arm 64 because of the new sve there's  
+**[8045.84s] English:** Has got bigger in recent years because of risk factor 5, because of ARM 64, and because of the new SVE.  
 **Translation:** 
 
-**[8052.44s] English:** sme x86 has avx 512 avx so we do runtime processor detection we see what the machine ffmpeg is  
+**[8052.44s] English:** SME x86 has AVX 512 and AVX, so we do runtime processor detection to see what the machine supports.ffmpeg is  
 **Translation:** Vocabulary: detection: 检测; processor: 处理器; runtime: 运行时
 
-**[8061.40s] English:** running on or david's running on is capable of because you could be on a laptop from 2008 where  
+**[8061.40s] English:** Running on, or David's running on, is capable of because you could be on a laptop from 2008 where  
 **Translation:** 
 
-**[8066.52s] English:** this isn't there runtime detection we set function pointers accordingly and then from then on off you  
-**Translation:** Vocabulary: accordingly: 相应地
+**[8066.52s] English:** This isn't about runtime detection; we set function pointers accordingly, and then from that point on, it's smooth sailing.  
+**Translation:** Vocabulary: accordingly: 相应地; laptop: 便携式电脑
 
-**[8073.60s] English:** go or you could be on a machine with risk 5 yes and in all that we don't even respect the calling  
+**[8073.60s] English:** Go, or you could be on a machine with risk level 5, yes. And in all of that, we don't even respect the calling.  
 **Translation:** 
 
-**[8079.80s] English:** convention of the operating system in order to be faster because we know that we are going to be  
+**[8079.80s] English:** Convention of the operating system in order to be faster, because we know that we are going to be  
 **Translation:** 
 
-**[8084.86s] English:** called from within our binary so we can share data without saving all the registry in the common way  
+**[8084.86s] English:** Called from within our binary, so we can share data without saving all the registry in the common way.  
 **Translation:** 
 
-**[8090.30s] English:** because that can lead to loading and saving registry on the l1 and l2 cpu and  
-**Translation:** Vocabulary: binary: 二进制; registry: 注册表
+**[8090.30s] English:** Because that can lead to loading and saving registry on the L1 and L2 CPU, and  
+**Translation:** Vocabulary: binary: 二进制程序; registry: 注册表
 
-**[8096.50s] English:** gets us faster so that's why i said that understanding cpu architecture computer  
+**[8096.50s] English:** Gets us faster, so that's why I said that understanding CPU architecture is important for computers.  
 **Translation:** 
 
-**[8103.36s] English:** architecture is key and this is also why it's handwritten i don't know anyone i've never heard  
+**[8103.36s] English:** Architecture is key, and this is also why it's handwritten. I don't know anyone I've never heard  
 **Translation:** 
 
-**[8108.22s] English:** any other project than david doing that this is what kiran calls he calls it an art right it is  
+**[8108.22s] English:** Any other project than David doing that? This is what Kiran calls "it." He calls it an art, right?  
 **Translation:** 
 
-**[8113.92s] English:** an art i think i think in in a mass world there isn't something on billions of devices i know  
+**[8113.92s] English:** An art, I think. I think in a mass world, there isn't something on billions of devices that I know.  
 **Translation:** 
 
-**[8118.52s] English:** there are some specialist industries i know in high frequency trading they take this really  
+**[8118.52s] English:** There are some specialist industries, I know in high-frequency trading, they take this really  
 **Translation:** 
 
-**[8122.32s] English:** seriously where they're receiving feeds from a market and they need to react within  
+**[8122.32s] English:** Seriously, where they're receiving feeds from a market and they need to react within  
 **Translation:** 
 
-**[8126.50s] English:** x number of microseconds and so the instructions matter but that's not a mass you know a mass  
+**[8126.50s] English:** X number of microseconds, and so the instructions matter, but that's not a mass, you know.  
 **Translation:** 
 
-**[8131.74s] English:** produced thing that's on a billion devices that's hyper specialized running on hyper specialized  
-**Translation:** Vocabulary: hyper: 过度; microseconds: 微秒
-
-**[8135.42s] English:** hardware we're running on all hardware from sorry to linger on it but like that's a really  
+**[8131.74s] English:** Produced thing that's on a billion devices, that's hyper-specialized, running on hyper-specialized hardware.  
 **Translation:** 
 
-**[8142.30s] English:** counterintuitive almost like revolutionary idea here that there's a huge amount of value to  
-**Translation:** Vocabulary: counterintuitive: 逆常理的
-
-**[8149.60s] English:** assembly like what are we supposed to take away from that like what you know there's a bunch of  
+**[8135.42s] English:** Hardware: we're running on all hardware, from sorry to linger on it, but like that's a really  
 **Translation:** 
 
-**[8153.78s] English:** people listening to this they're basically like  
+**[8142.30s] English:** Counterintuitive, almost like a revolutionary idea, is that there's a huge amount of value to  
+**Translation:** Vocabulary: counterintuitive: 逆常理的; linger: 逗留; revolutionary: 革命性的
+
+**[8149.60s] English:** Assembly: Like, what are we supposed to take away from that? You know, there's a bunch of...  
 **Translation:** 
 
-**[8156.50s] English:** sorry from myself included you know i program  
+**[8153.78s] English:** People listening to this, they're basically like  
 **Translation:** 
 
-**[8160.00s] English:** for many, many years in C, C++,  
+**[8156.50s] English:** Sorry, from myself, included, you know, I program.  
 **Translation:** 
 
-**[8162.28s] English:** going up the standards of C++,  
+**[8160.00s] English:** For many, many years in C, C++.  
 **Translation:** 
 
-**[8164.30s] English:** fell in love with C++, even the Meta program and so on,  
+**[8162.28s] English:** Going up the standards of C++.  
 **Translation:** 
 
-**[8166.66s] English:** and then transitioned more and more  
+**[8164.30s] English:** Fell in love with C++, even meta-programming and so on.  
 **Translation:** 
 
-**[8168.16s] English:** because of machine learning about 15 years ago to Python.  
+**[8166.66s] English:** And then transitioned more and more.  
+**Translation:** 
+
+**[8168.16s] English:** Because of machine learning, about 15 years ago, Python became popular.  
 **Translation:** Vocabulary: transitioned: 转变
 
-**[8172.08s] English:** And so, like, for me in this Python world,  
+**[8172.08s] English:** And so, for me in this Python world,  
 **Translation:** 
 
-**[8175.04s] English:** JavaScript world, now vibe coding  
+**[8175.04s] English:** JavaScript world, now vibes coding.  
+**Translation:** Vocabulary: vibes: 感觉
+
+**[8178.46s] English:** Where I'm just using natural language,  
 **Translation:** 
 
-**[8178.46s] English:** where I'm just using natural language,  
-**Translation:** 
-
-**[8180.08s] English:** sitting in my jacuzzi, drinking a drink,  
+**[8180.08s] English:** Sitting in my jacuzzi, drinking a drink,  
 **Translation:** Vocabulary: jacuzzi: 泡澡盆
 
-**[8182.28s] English:** and just talking to the computer,  
+**[8182.28s] English:** And just talking to the computer,  
 **Translation:** 
 
-**[8184.44s] English:** like, record stops.  
+**[8184.44s] English:** Like, record stops.  
 **Translation:** 
 
-**[8187.06s] English:** Why is the value to go back  
+**[8187.06s] English:** Why is the value of going back?  
 **Translation:** 
 
-**[8189.46s] English:** all the way down to the low level?  
+**[8189.46s] English:** All the way down to the low level?  
 **Translation:** 
 
 **[8191.50s] English:** Because you can get more power per dollar invested, right?  
 **Translation:** 
 
-**[8196.46s] English:** And sometimes it's going to be a problem  
+**[8196.46s] English:** And sometimes it's going to be a problem.  
 **Translation:** 
 
-**[8199.16s] English:** that is limited by your hardware.  
+**[8199.16s] English:** That is limited by your hardware.  
 **Translation:** 
 
 **[8201.40s] English:** A good analogy is what you see in quantization in LLMs, right?  
-**Translation:** Vocabulary: quantization: 量化过程
+**Translation:** Vocabulary: analogy: 类比; quantization: 量化
 
-**[8206.86s] English:** And people are doing, oh, I'm going to do that in FP8  
+**[8206.86s] English:** And people are doing; oh, I'm going to do that in FP8.  
 **Translation:** 
 
-**[8209.50s] English:** or FP4 or some crazy things like Microsoft Fear  
+**[8209.50s] English:** Or FP4, or some crazy things like Microsoft Fear.  
 **Translation:** 
 
-**[8213.72s] English:** who did it in 1.5  
+**[8213.72s] English:** Who did it in 1.5?  
 **Translation:** 
 
-**[8215.42s] English:** because you're constrained  
-**Translation:** Vocabulary: constrained: 受到限制
+**[8215.42s] English:** Because you're constrained.  
+**Translation:** Vocabulary: constrained: 受到限制的
 
-**[8216.94s] English:** by memory, because you're constrained  
+**[8216.94s] English:** By memory, because you're constrained.  
 **Translation:** 
 
-**[8218.72s] English:** by the machine you can run,  
+**[8218.72s] English:** By the machine, you can run.  
 **Translation:** 
 
-**[8220.50s] English:** because at some point we are doing real time.  
+**[8220.50s] English:** Because, at some point, we are doing real-time processing.  
 **Translation:** 
 
-**[8223.60s] English:** And I believe this is going to happen  
+**[8223.60s] English:** And I believe this is going to happen.  
 **Translation:** 
 
-**[8225.24s] English:** on AI inference also,  
+**[8225.24s] English:** On AI inference, as well,  
 **Translation:** 
 
-**[8227.00s] English:** is that at some point you need to get faster  
-**Translation:** Vocabulary: inference: 推理
+**[8227.00s] English:** Is that at some point you need to get faster?  
+**Translation:** Vocabulary: inference: 推断
 
-**[8229.34s] English:** and you cannot always get harder,  
+**[8229.34s] English:** And you cannot always get harder.  
 **Translation:** 
 
-**[8231.30s] English:** more powerful hardware, right?  
+**[8231.30s] English:** More powerful hardware, right?  
 **Translation:** Vocabulary: cannot: 不能
 
-**[8233.28s] English:** So you need to analyze code  
+**[8233.28s] English:** So, you need to analyze code.  
 **Translation:** 
 
-**[8235.86s] English:** and see where, like,  
+**[8235.86s] English:** And see where, like,  
 **Translation:** 
 
-**[8237.50s] English:** where is the mission critical?  
+**[8237.50s] English:** Where is the mission-critical information?  
 **Translation:** 
 
-**[8239.10s] English:** Where is the things that are called non-stops?  
+**[8239.10s] English:** Where are the things called "non-stop"?  
 **Translation:** 
 
 **[8241.68s] English:** And, for example, David is a good example.  
 **Translation:** 
 
-**[8244.08s] English:** It's going to be run billions  
+**[8244.08s] English:** It's going to be run in the billions.  
 **Translation:** 
 
-**[8246.50s] English:** of hours per day.  
+**[8246.50s] English:** Of hours per day.  
 **Translation:** 
 
 **[8248.54s] English:** That makes sense.  
 **Translation:** 
 
-**[8249.88s] English:** It doesn't make sense to be on the glue  
+**[8249.88s] English:** It doesn't make sense to be on the glue.  
 **Translation:** 
 
-**[8252.00s] English:** of FFmpeg CLI.  
+**[8252.00s] English:** Of FFmpeg CLI.  
 **Translation:** 
 
 **[8254.26s] English:** It makes sense over there.  
@@ -6643,571 +6644,571 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[8255.58s] English:** Yeah, this has to do,  
 **Translation:** 
 
-**[8256.54s] English:** also we'll talk about it more,  
+**[8256.54s] English:** Also, we'll talk about it more.  
 **Translation:** 
 
-**[8257.76s] English:** but your new F, your new company Kyber  
+**[8257.76s] English:** But your new F, your new company, Kyber.  
 **Translation:** 
 
-**[8260.56s] English:** is doing that kind of thing  
+**[8260.56s] English:** Is doing that kind of thing.  
 **Translation:** 
 
-**[8263.08s] English:** for ultra low latency.  
-**Translation:** Vocabulary: latency: 延迟; ultra: 超乎寻常的
+**[8263.08s] English:** For ultra-low latency.  
+**Translation:** Vocabulary: latency: 延迟
 
-**[8264.82s] English:** So the slogan being every millisecond counts.  
+**[8264.82s] English:** So, the slogan is: "Every millisecond counts.  
 **Translation:** 
 
 **[8267.48s] English:** And when you're actually  
 **Translation:** Vocabulary: millisecond: 毫秒
 
-**[8268.18s] English:** extremely highly constrained  
+**[8268.18s] English:** Extremely highly constrained.  
 **Translation:** 
 
-**[8270.58s] English:** in some dimension.  
+**[8270.58s] English:** In some dimension.  
 **Translation:** Vocabulary: dimension: 维度
 
-**[8273.14s] English:** We are also arriving at a point  
+**[8273.14s] English:** We are also arriving at a point.  
 **Translation:** 
 
-**[8274.74s] English:** where we've done everything  
+**[8274.74s] English:** Where we've done everything,  
 **Translation:** 
 
-**[8277.20s] English:** So many great things,  
+**[8277.20s] English:** So many great things!  
 **Translation:** 
 
-**[8278.60s] English:** but the hardware is getting  
+**[8278.60s] English:** But the hardware is getting.  
 **Translation:** 
 
-**[8280.00s] English:** back to us right because cost is increasing because we need more power and so you're limited  
+**[8280.00s] English:** Back to us, right? Because costs are increasing because we need more power, and so you're limited.  
 **Translation:** 
 
-**[8285.60s] English:** by either your cpu your ram or your networking and you need to optimize and this is where  
+**[8285.60s] English:** By either your CPU, your RAM, or your networking, and you need to optimize. This is where.  
 **Translation:** Vocabulary: optimize: 优化
 
-**[8293.04s] English:** value is going to be especially because like doing ai is going to help do the programming of like  
+**[8293.04s] English:** Value is going to be especially important because, like, doing AI is going to help with the programming of like  
 **Translation:** 
 
-**[8299.52s] English:** business right and so the core thing that you will not be able to vibe code are optimization  
+**[8299.52s] English:** Business rights, and so the core thing you won't be able to vibe code is optimization.  
+**Translation:** Vocabulary: optimization: 优化
+
+**[8307.60s] English:** For the whole way out to be as fast as possible, I'd love to talk to you about who and how.  
 **Translation:** 
 
-**[8307.60s] English:** for the all the way out to be as fast as possible i'd love to talk to you about who and how  
+**[8314.48s] English:** Should we learn assembly? But first, I think we need a bathroom break.  
 **Translation:** 
 
-**[8314.48s] English:** should learn assembly but first i think we need a bathroom break  
+**[8318.80s] English:** Quick 10-second thank you to our sponsors. Check them out in the description—it really is the best!  
 **Translation:** 
 
-**[8318.80s] English:** quick 10 second thank you to our sponsors check them out in the description it really is the best  
-**Translation:** 
-
-**[8323.44s] English:** way to support this podcast go to alexfriedman.com sponsors and now back to the episode all right and  
+**[8323.44s] English:** Way to support this podcast, go to alexfriedman.com/sponsors. And now back to the episode. All right, and  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[8331.84s] English:** we're back there's this uh nice repo with the assembly lessons first of all do you  
+**[8331.84s] English:** We're back. There's this nice repo with the assembly lessons. First of all, do you  
 **Translation:** 
 
-**[8337.52s] English:** think you're going to be able to do a lot of things in the next couple of weeks or do you  
+**[8337.52s] English:** Think you're going to be able to do a lot of things in the next couple of weeks, or do you?  
 **Translation:** 
 
-**[8337.56s] English:** think you're going to be able to do a lot of things in the next couple of weeks or do you  
+**[8337.56s] English:** Think you're going to be able to do a lot of things in the next couple of weeks, or do you?  
 **Translation:** 
 
-**[8337.58s] English:** think you're going to be able to do a lot of things in the next couple of weeks or do you think you're  
+**[8337.58s] English:** Do you think you're going to be able to do a lot of things in the next couple of weeks, or do you think you're  
 **Translation:** 
 
-**[8337.60s] English:** think you're going to be able to do a lot of things in the next couple of weeks or do you think developers should learn how to program an assembly and how would you go about learning it what is this asm dash lessons so i personally wasn't happy with the way assembly is taught in books and online because it's very grammar focused and you don't in general learn a language from learning the grammar and the structure you learn a language by asking someone what their name is and you start from there and you go and solve real problems  
+**[8337.60s] English:** Think you're going to be able to do a lot of things in the next couple of weeks, or do you think developers should learn how to program in assembly? And how would you go about learning it? What is this "asm lessons," anyway? So, I personally wasn't happy with the way assembly is taught in books and online because it's very grammar-focused. You don't, in general, learn a language from learning the grammar and the structure; you learn a language by asking someone what their name is and you start from there, and you go on to solve real problems.  
 **Translation:** 
 
-**[8367.58s] English:** you don't you don't learn sentence structure this is the interrogative and the adverb and all the assembly books seem to be doing like going through every instruction even ones that aren't really relevant explaining what they all do and how they actually doesn't really change much so and the other problem that we have in our community is assembly is taught sort of hand to hand like person to person like blacksmithing one by one that's the only logical sort of analogy and that doesn't really scale online it doesn't um the other thing so  
-**Translation:** Vocabulary: blacksmithing: 手工锻造; interrogative: 疑问词
+**[8367.58s] English:** You don't learn sentence structure this way. This is the interrogative and the adverb, and all the assembly books seem to be doing—going through every instruction, even ones that aren't really relevant, explaining what they all do and how they actually don't really change much. So, and the other problem we have in our community is that assembly is taught sort of hand-to-hand, like person to person, like blacksmithing, one by one—that's the only logical sort of analogy—and that doesn't really scale online; it doesn't, um, the other thing so  
+**Translation:** Vocabulary: adverb: 副词; analogy: 类比; blacksmithing: 打铁; interrogative: 疑问代词
 
-**[8397.56s] English:** this this this this i started  
+**[8397.56s] English:** This, this, this, this: I started.  
 **Translation:** 
 
-**[8400.00s] English:** a set of assembly lessons in the in the way it's done in ffmpeg which is a little bit different to  
+**[8400.00s] English:** A set of assembly lessons, in the way it's done in FFmpeg, which is a little bit different to  
 **Translation:** 
 
-**[8404.68s] English:** the way assembly in general for i'm trying to think the other good big use case of assembly  
+**[8404.68s] English:** The way assembly, in general, is that I'm trying to think— the other good big use case of assembly is...  
 **Translation:** 
 
-**[8411.16s] English:** is in embedded devices in really really low power cheap devices and that's completely different to  
+**[8411.16s] English:** Is it embedded in devices in really, really low-power, cheap devices? And that's completely different to...  
 **Translation:** 
 
-**[8416.10s] English:** what we're doing here i think it would be good if you could highlight the requirements which are  
+**[8416.10s] English:** What we're doing here, I think it would be good if you could highlight the requirements which are  
 **Translation:** 
 
-**[8419.84s] English:** quite simple it's high school mathematics and c and actually not even c really really it's pointers  
+**[8419.84s] English:** Quite simple; it's high school mathematics, and actually, not even C, really—it's pointers.  
+**Translation:** Vocabulary: highlight: 强调
+
+**[8425.02s] English:** To emphasize, yes, we've talked about how brilliant this stuff is, but high schoolers like Daniel Kang  
 **Translation:** 
 
-**[8425.02s] English:** to emphasize yes we've talked about how brilliant this stuff is but high schoolers like daniel kang  
+**[8430.74s] English:** I have written some assembly for FFmpeg, I think there have been contributions because of these lessons.  
+**Translation:** Vocabulary: emphasize: 强调; schoolers: 中学生
+
+**[8436.80s] English:** So, it's really about trying to get this dying art to continue, because we've shown it's possible.  
 **Translation:** 
 
-**[8430.74s] English:** have written um assembly in ffmpeg i think there's been contributions because of these lessons  
-**Translation:** Vocabulary: schoolers: 中学生
-
-**[8436.80s] English:** so it's really about trying to get this dying art to continue because we've shown it's possible  
+**[8444.02s] English:** With David, to produce something amazing, there's still a lot of codecs in FFmpeg that are only  
 **Translation:** 
 
-**[8444.02s] English:** with david to produce something amazing there's still a lot of codecs in ffmpeg that are only  
+**[8448.84s] English:** Maybe partially assembled, UM, assembly-optimized, and so it really does start with basics.  
 **Translation:** 
 
-**[8448.84s] English:** maybe partially assembly um assembly optimized and so it really it really starts with basic  
+**[8455.02s] English:** And it continues to explain a lot of the jargon and syntax, but it doesn't really try and explain to...  
+**Translation:** Vocabulary: assembled: 组装; jargon: 行话; syntax: 语法
+
+**[8460.76s] English:** You know, interrupt handlers, interrupt instructions, and all of these different jumps.  
 **Translation:** 
 
-**[8455.02s] English:** and continues explains a lot of the jargon a lot of the syntax it doesn't really try and explain to  
-**Translation:** Vocabulary: jargon: 行话; optimized: 优化; syntax: 语法
+**[8465.78s] English:** Targets: It actually makes this really vector-focused and describes all kinds of registers.  
+**Translation:** Vocabulary: interrupt: 中断; registers: 寄存器
 
-**[8460.76s] English:** you you know interrupt handlers and interrupt instructions and all of these different jump  
+**[8470.92s] English:** General-purpose registers, vector registers — really nice examples. This is cool; it's a classic.  
 **Translation:** 
 
-**[8465.78s] English:** targets it actually makes this really vector focused and uh describes all kinds of registers  
+**[8479.02s] English:** A classic example of FFmpeg, but some of this assembly language is really beautiful, and I  
 **Translation:** 
 
-**[8470.92s] English:** general purpose registers vector registers uh really nice examples this is cool it's a classic  
+**[8484.28s] English:** I think it's beautiful, and I think it's beautiful, and I think it's beautiful, and I think it's beautiful.  
 **Translation:** 
 
-**[8479.02s] English:** classic example of ffmpeg but um some of this assembly language is is really beautiful and i  
+**[8485.02s] English:** Because it's kind of like flying a Spitfire; it's really aviation at its purest, but also pushing.  
+**Translation:** Vocabulary: purest: 最纯粹; spitfire: 喷火战斗机
+
+**[8491.76s] English:** The aircraft beyond what the designer thought was possible, so we're abusing, for example, sometimes.  
 **Translation:** 
 
-**[8484.28s] English:** think it's beautiful and i think it's beautiful and i think it's beautiful and i think it's beautiful  
+**[8497.74s] English:** Cryptography: instructions to do certain things, and there's a level of beauty and art where.  
+**Translation:** Vocabulary: abusing: 过度使用; cryptography: 密码学
+
+**[8503.02s] English:** It's really just you and the processor; there's nothing in between. It's you and the processor.  
 **Translation:** 
 
-**[8485.02s] English:** because it's kind of like flying a spitfire it's really aviation at its purest but also pushing  
-**Translation:** Vocabulary: spitfire: 喷火战斗机
-
-**[8491.76s] English:** the aircraft beyond what the designer thought was possible so we're abusing for example sometimes  
-**Translation:** 
-
-**[8497.74s] English:** cryptography instructions to do certain things and there's a level of beauty and art where  
-**Translation:** Vocabulary: cryptography: 加密技术
-
-**[8503.02s] English:** it's really you and the processor there's there's there's nothing in between it's you and the the  
-**Translation:** 
-
-**[8509.96s] English:** joystick of the cockpit and you move that joystick and it's physically collected to the earlier ones  
+**[8509.96s] English:** Joystick of the cockpit, and you move that joystick, and it's physically connected to the earlier ones.  
 **Translation:** Vocabulary: cockpit: 驾驶舱; joystick: 操纵杆; processor: 处理器
 
-**[8514.14s] English:** and you can push that plane beyond what it can normally do and there's a level of  
+**[8514.14s] English:** And you can push that plane beyond what it can normally do, and there's a level of  
 **Translation:** 
 
-**[8520.00s] English:** yeah beauty and amazingness to go that but i don't think the sort of person by person assembly  
-**Translation:** Vocabulary: amazingness: 惊奇之处
+**[8520.00s] English:** Yeah, there's beauty and amazingness to go for that, but I don't think the sort of person-by-person assembly.  
+**Translation:** Vocabulary: amazingness: 令人惊叹的程度
 
-**[8527.24s] English:** that someone taught me and i've taught multiple people is gonna work long run because of the  
+**[8527.24s] English:** That someone taught me, and I've taught multiple people, is going to work in the long run because of the  
 **Translation:** 
 
-**[8534.36s] English:** particular flavor and the way that we do it it's literally uh no i should i was gonna say  
+**[8534.36s] English:** Particular flavor, and the way that we do it; it's literally, uh, no, I should've said.  
 **Translation:** 
 
-**[8540.16s] English:** wizards handing it down i realized i look like a wizard wearing this hat but you're basically  
+**[8540.16s] English:** Wizards handing it down, I realized I look like a wizard wearing this hat, but you're basically  
 **Translation:** 
 
-**[8544.96s] English:** just like the sages the wise sages handing down the craft can i ask about llms like can they help  
+**[8544.96s] English:** Just like the wise sages handing down a craft, can I ask if LLMs like them can help?  
+**Translation:** Vocabulary: wizards: 巫师
+
+**[8552.04s] English:** They had more of an understanding than I expected, but they are still; I've asked it questions and it  
 **Translation:** 
 
-**[8552.04s] English:** they had more of an understanding than i expected but they are still i've asked it questions and it  
-**Translation:** 
-
-**[8557.68s] English:** still goes and starts hallucinating not hallucinating but making modifications and then i  
+**[8557.68s] English:** Still, he goes and starts making modifications instead of hallucinating, and then I  
 **Translation:** Vocabulary: modifications: 修改
 
-**[8563.18s] English:** go is it bit exact no fix it and then it just goes and does the same thing and it's going it there  
+**[8563.18s] English:** Go, is it bit exact? No, fix it, and then it just goes and does the same thing. It's going, it's there.  
 **Translation:** 
 
-**[8569.12s] English:** isn't the corpus of information like stack overflow to work on there is not enough data to train on  
-**Translation:** Vocabulary: overflow: 溢出问题
+**[8569.12s] English:** Isn't the corpus of information, like Stack Overflow, too small to train on?  
+**Translation:** Vocabulary: corpus: 文本集合; overflow: 溢出
 
-**[8574.94s] English:** um and this is the biggest issue um i started my career actually doing some uh assembly for  
+**[8574.94s] English:** Um, and this is the biggest issue. Um, I started my career actually doing some assembly for  
 **Translation:** 
 
-**[8582.70s] English:** titanium right so the titanium is a dead um processor type right which was done by intel  
-**Translation:** Vocabulary: titanium: 钛金属
+**[8582.70s] English:** Titanium, right? So, the Titanium is a dead processor type, which was done by Intel.  
+**Translation:** Vocabulary: titanium: 钛
 
-**[8588.00s] English:** a long time ago when they wanted to do 64 bits uh well they lost and then we got amd who did it  
+**[8588.00s] English:** A long time ago, when they wanted to do 64-bit processing, uh, well, they lost, and then we got AMD who did it.  
 **Translation:** 
 
-**[8594.58s] English:** amd 64 which became x64 but titanium was extremely interesting in the sense that  
+**[8594.58s] English:** AMD 64, which became x64, but Titanium was extremely interesting in the sense that  
 **Translation:** 
 
-**[8601.56s] English:** those were processors who had a ton of computing  
+**[8601.56s] English:** Those were processors who had a ton of computing power.  
 **Translation:** 
 
-**[8604.94s] English:** power to do floats fmas which is similar to what we need now for for llms right and you could pack  
+**[8604.94s] English:** Power to do FMA operations, which is similar to what we need now for LLMs, right? And you could pack.  
 **Translation:** Vocabulary: computing: 计算; processors: 处理器
 
-**[8613.04s] English:** three operations per line that could be loaded so basically you had an output of basically six  
+**[8613.04s] English:** Three operations per line that could be loaded, so basically, you had an output of six.  
 **Translation:** 
 
-**[8619.74s] English:** billion of operation per second but the bus um the memory bus only allowed 1.5 right so your cpu was  
+**[8619.74s] English:** Billion of operations per second, but the memory bus only allowed 1.5 GHz, so your CPU was  
 **Translation:** 
 
-**[8629.24s] English:** four times faster so you had to do crazy things to to pack things in memory reuse the  
+**[8629.24s] English:** Four times faster, so you had to do crazy things to pack things in memory and reuse them.  
 **Translation:** 
 
-**[8634.94s] English:** cpu was registered and those type of semantics no language could do that right so um  
-**Translation:** Vocabulary: reuse: 重复使用; semantics: 语义
+**[8634.94s] English:** CPU was registered, and those types of semantics: no language could do that, right? So, um,...  
+**Translation:** Vocabulary: reuse: 重复使用; semantics: 语义规则
 
-**[8640.00s] English:** like i i have the italian programming uh book because intel did amazing books but that's  
+**[8640.00s] English:** Like, I have the Italian programming book because Intel did an amazing job, but that's  
 **Translation:** 
 
-**[8647.06s] English:** exactly what kieran says if you don't know what you're you're going to do it's impossible to read  
+**[8647.06s] English:** Exactly, what Kieran says: if you don't know what you're going to do, it's impossible to read.  
 **Translation:** Vocabulary: kieran: 凯利安
 
-**[8653.14s] English:** right it's a ton of jargon and so on while those lessons are amazing because they are targeted to  
+**[8653.14s] English:** Right, it's a ton of jargon and so on. While those lessons are amazing because they are targeted to  
 **Translation:** 
 
-**[8659.60s] English:** a real problem and you can do it yourself people have people have their patches and i studied your  
-**Translation:** Vocabulary: jargon: 行话
+**[8659.60s] English:** A real problem, and you can do it yourself. People have their patches, and I studied your.  
+**Translation:** Vocabulary: jargon: 行话; patches: 补丁
 
-**[8664.32s] English:** lessons and here's my first changes that's amazing and part of that in the lessons is a framework  
+**[8664.32s] English:** Lessons, and here's my first change: that's amazing. And part of that in the lessons is a framework.  
 **Translation:** 
 
-**[8670.48s] English:** called x86 inc written by lauren when we was working on x264 and it allows you to do more  
+**[8670.48s] English:** Called X86 Inc., written by Lauren when we were working on x264, and it allows you to do more.  
+**Translation:** Vocabulary: lauren: 劳伦
+
+**[8678.10s] English:** Things about that to create a type of, like, not caring too much about different calling conventions.  
 **Translation:** 
 
-**[8678.10s] English:** things about that to create a type of like not caring too much about different calling convention  
+**[8683.80s] English:** And we had a lot of students who gave code to x264, using that a long time ago, right?  
+**Translation:** Vocabulary: conventions: 规范
+
+**[8692.16s] English:** It's really doable and  
 **Translation:** 
 
-**[8683.80s] English:** and we had a lot of students who gave code to x264 using uh that a long time ago right so  
-**Translation:** 
-
-**[8692.16s] English:** it's really doable and  
-**Translation:** 
-
-**[8694.16s] English:** i  
+**[8694.16s] English:** I.  
 **Translation:** Vocabulary: doable: 可行的
 
-**[8694.30s] English:** believe it's um necessarily to understand uh assembly language even if you don't do it much  
+**[8694.30s] English:** Believe it's not necessarily to understand assembly language, even if you don't do it much.  
 **Translation:** 
 
-**[8701.90s] English:** to understand what's going on inside your computer and that will make you a better programmer  
+**[8701.90s] English:** To understand what's going on inside your computer, and that will make you a better programmer.  
 **Translation:** 
 
-**[8707.02s] English:** and i assure you that because doing that you will understand some of the  
+**[8707.02s] English:** And I assure you that, by doing that, you will understand some of the  
 **Translation:** 
 
-**[8710.78s] English:** architecture of the memory inside your your computer right understanding register at one  
+**[8710.78s] English:** Architecture of the memory inside your computer, right? Understanding registers at one.  
+**Translation:** Vocabulary: assure: 保证; registers: 寄存器
+
+**[8715.90s] English:** L203 Rams, SSDs, disks, and so on, which are very important because then you have a good program.  
 **Translation:** 
 
-**[8715.90s] English:** l203 rams ssds disk and so on which are very important because then you have a good program  
-**Translation:** 
-
-**[8724.14s] English:** programming culture that will make you a better programmer uh what do you think about the rust  
+**[8724.14s] English:** Programming culture that will make you a better programmer—what do you think about Rust?  
 **Translation:** Vocabulary: programmer: 程序员
 
-**[8728.62s] English:** programming language because that's a bit of a meme we have very different opinions with kieran i think  
+**[8728.62s] English:** Programming language, because that's a bit of a meme. We have very different opinions with Kieran; I think.  
 **Translation:** 
 
-**[8733.66s] English:** it's valuable what they're doing in terms of memory safety as a concept can you achieve this some of  
+**[8733.66s] English:** It's valuable what they're doing in terms of memory safety as a concept. Can you achieve this somehow?  
 **Translation:** 
 
-**[8739.98s] English:** the speed up that assembly achieves not assembly by hand no i think that's a given c potentially  
+**[8739.98s] English:** The speedup that assembly achieves, not assembly by hand, I think that's a given; C potentially, too.  
 **Translation:** 
 
-**[8745.82s] English:** but i see it very it has a very big esperanto vibe about it it's like we're gonna solve this and  
-**Translation:** Vocabulary: esperanto: 人造语言
+**[8745.82s] English:** But I see it as having a very big Esperanto vibe to it; it's like we're gonna solve this and...  
+**Translation:** Vocabulary: esperanto: 乌托邦; speedup: 加速
 
-**[8752.46s] English:** we're doing this in a particular way  
+**[8752.46s] English:** We're doing this in a particular way.  
 **Translation:** 
 
-**[8754.46s] English:** meaning it's a bit too utopian so there's a lot of focus on the  
+**[8754.46s] English:** Meaning, it's a bit too utopian, so there's a lot of focus on the  
 **Translation:** Vocabulary: utopian: 空想的
 
-**[8757.58s] English:** self-importance rather than solving real-world problems  
+**[8757.58s] English:** Self-importance, rather than solving real-world problems,  
 **Translation:** 
 
-**[8760.00s] English:** problems it reminds me of the Sinclair C5 Sir Clive Sinclair of Sinclair Computers built a car  
+**[8760.00s] English:** Problems—it reminds me of the Sinclair C5. Sir Clive Sinclair, of Sinclair Computers, built a car.  
+**Translation:** Vocabulary: sinclair: 示例
+
+**[8765.80s] English:** And he said, "Oh, everyone will be traveling around in one of these electric cars," and it was...  
 **Translation:** 
 
-**[8765.80s] English:** and he said oh everyone will be traveling around in in one of these electric cars and it was um  
+**[8772.18s] English:** Frost reminds me of those moments where I think the community doesn't quite understand.  
 **Translation:** 
 
-**[8772.18s] English:** Frost reminds me of that where I think the community doesn't the community doesn't quite  
+**[8777.40s] English:** Understand that, in order to get people to move, you have to build something that's as good as  
 **Translation:** 
 
-**[8777.40s] English:** understand that in order to get people to move you have to build something that's as good as  
-**Translation:** 
-
-**[8782.44s] English:** if not better than what you have now um yes people are doing Rust rewrites but if they're  
+**[8782.44s] English:** If not better than what you have now, um, yes, people are doing Rust rewrites, but if they're  
 **Translation:** Vocabulary: rewrites: 重写代码
 
-**[8788.52s] English:** if they only if they only do 85 90 percent of the feature set of what what we need like things  
+**[8788.52s] English:** If they only do 85-90 percent of the feature set of what we need, like things.  
 **Translation:** 
 
-**[8795.24s] English:** like core utils that last one percent takes 99 percent of the time um to use Elon's famous quote  
+**[8795.24s] English:** Like core utilities, that last 1%, takes 99% of the time—um—to use Elon's famous quote.  
+**Translation:** Vocabulary: utilities: 公共设施
+
+**[8801.50s] English:** Prototypes are easy, like this kind of stuff is easy, but to get a real electric car you have  
 **Translation:** 
 
-**[8801.50s] English:** prototypes are easy like this kind of stuff is easy but this to get a real electric car you have  
-**Translation:** 
-
-**[8805.88s] English:** to make a car as good as if not better than what we have now and Rust isn't in that stage yet I  
+**[8805.88s] English:** To make a car as good as, if not better than, what we have now, and Rust isn't in that stage yet.  
 **Translation:** Vocabulary: prototypes: 样品
 
-**[8811.08s] English:** think we I don't think anyone would object to seeing Rust code in FFmpeg but it needs to work  
+**[8811.08s] English:** I don't think anyone would object to seeing Rust code in FFmpeg, but it needs to work.  
 **Translation:** 
 
-**[8817.70s] English:** as well and support it and I think that's a big part of it and I think that's a big part of it  
+**[8817.70s] English:** As well, and support it. I think that's a big part of it.  
 **Translation:** 
 
-**[8818.52s] English:** and I think that's a big part of it and I think that's a big part of it and I think that's a big part  
+**[8818.52s] English:** And I think that's a big part of it, and I think that's a big part of it, and I think that's a big part.  
 **Translation:** 
 
-**[8818.56s] English:** of it and I think that's a big part of it and I think that's a big part of it and I think it's  
+**[8818.56s] English:** Of it, and I think that's a big part of it. And I think it's  
 **Translation:** 
 
-**[8819.52s] English:** important to support the same unit testing as everything else it needs to be flawless it can't  
+**[8819.52s] English:** It's important to support the same unit testing as everything else; it needs to be flawless, it can't.  
 **Translation:** 
 
-**[8822.64s] English:** just randomly break they can't just randomly break ABI when they want to it needs to it needs to have  
+**[8822.64s] English:** Just randomly breaking ABI is not acceptable; it needs to follow proper procedures.  
 **Translation:** Vocabulary: flawless: 完美无缺
 
-**[8828.16s] English:** I think more I think you know it still has only one compiler implementation yes so it's got to be  
+**[8828.16s] English:** I think, you know, it still has only one compiler implementation, so it's got to be that way.  
 **Translation:** 
 
-**[8834.74s] English:** as good as if not better and saying hey here's my utopia of memory safety isn't enough even though  
+**[8834.74s] English:** As good as, if not better, and saying "Hey, here's my utopia of memory safety" isn't enough, even though...  
 **Translation:** Vocabulary: implementation: 实现; utopia: 乌托邦
 
-**[8841.00s] English:** we probably all agree that that's the goal so um I've done a ton of Rust in the two major  
+**[8841.00s] English:** We probably all agree that that's the goal, so um, I've done a ton of Rust in the last two major  
 **Translation:** 
 
-**[8848.52s] English:** I had was adding Rust modules inside VLC.  
+**[8848.52s] English:** I had been adding Rust modules inside VLC.  
+**Translation:** Vocabulary: modules: 模块
+
+**[8852.30s] English:** One of the reasons VLC got popular.  
 **Translation:** 
 
-**[8852.30s] English:** One of the reasons VLC got popular  
+**[8854.68s] English:** And which was one of the main architecture decisions.  
 **Translation:** 
 
-**[8854.68s] English:** and which was one of the main architecture decision  
+**[8857.62s] English:** Is that true that VLC has a very small core and a ton of modules?  
 **Translation:** 
 
-**[8857.62s] English:** is that VLC is a very small core and a ton of modules, right?  
+**[8861.28s] English:** And so, you can write modules in C++ and in Objective-C.  
 **Translation:** 
 
-**[8861.28s] English:** And so you can write modules in C++, in Objective-C  
+**[8867.24s] English:** And anything that is basically interoperable with C.  
 **Translation:** 
 
-**[8867.24s] English:** and anything that is basically interoperable with C.  
-**Translation:** 
-
-**[8870.40s] English:** And so we did some Rust modules.  
+**[8870.40s] English:** And so, we did some Rust modules.  
 **Translation:** Vocabulary: interoperable: 可以互操作的
 
-**[8874.04s] English:** And so I have experience on that and I wrote some of it.  
+**[8874.04s] English:** And so, I have experience with that, and I wrote some of it.  
 **Translation:** 
 
-**[8877.08s] English:** And also like my new startup called Kyber is an open-  
+**[8877.08s] English:** And also, like my new startup called Kyber is an open-  
 **Translation:** 
 
-**[8880.00s] English:** source project mainly done in rust um what rust is extremely good in in the sense that um  
+**[8880.00s] English:** Source project mainly done in Rust. Um, what Rust is extremely good in the sense that,  
 **Translation:** 
 
-**[8888.58s] English:** it's a better c++ that cares about memory and allows you to do things about memory ownership  
+**[8888.58s] English:** It's a better C++ that cares about memory and allows you to do things with memory ownership.  
 **Translation:** 
 
-**[8895.26s] English:** that no one else can do so far however it's great when you start a new project from scratch and you  
+**[8895.26s] English:** That no one else can do so far, however, it's great when you start a new project from scratch and you  
 **Translation:** 
 
-**[8903.16s] English:** do everything in rust but it's very not good when you interrupt with the existing part and  
+**[8903.16s] English:** Do everything in Rust, but it's very not good when you interrupt with the existing part and...  
+**Translation:** Vocabulary: interrupt: 打断; scratch: 从零开始
+
+**[8909.82s] English:** Some part of the Rust community believes that they need to rewrite everything, and everything will be  
 **Translation:** 
 
-**[8909.82s] English:** some part of the rust community believe that they need to rewrite everything and everything will be  
+**[8914.54s] English:** Better with Rust, and the answer is: no. Like, I'm almost always and all my years of being...  
+**Translation:** Vocabulary: rewrite: 重写代码
+
+**[8922.40s] English:** Engineer, manager, city of startup, and so on—don't rewrite; that's the way it is.  
 **Translation:** 
 
-**[8914.54s] English:** better with rust and and the answer is like no like i'm almost always and all my years of being  
+**[8929.48s] English:** Initial instinct for a lot of people when they show up to a codebase:  
+**Translation:** Vocabulary: codebase: 代码库; instinct: 直觉
+
+**[8932.78s] English:** Probably, before LLMs, is like probably because they don't understand the wisdom of the  
 **Translation:** 
 
-**[8922.40s] English:** engineer manager city of startup and so on don't rewrite right is that that's the that's the  
+**[8940.90s] English:** Way things have been done in the past, to say, "We need to rewrite it," is hence why there are a thousand.  
 **Translation:** 
 
-**[8929.48s] English:** initial instinct for a lot of people when they show up to a code base  
-**Translation:** Vocabulary: instinct: 初始反应
-
-**[8932.78s] English:** probably before llms is like probably because they don't understand the the the wisdom of the  
+**[8945.12s] English:** JavaScript frameworks, but the reason is the following, and this is very important to understand.  
 **Translation:** 
 
-**[8940.90s] English:** way things have been done in the past to say well we need to rewrite it hence why there's a thousand  
+**[8950.60s] English:** It is an order of magnitude easier to write code than read code, yeah, and you see that also with...  
 **Translation:** 
 
-**[8945.12s] English:** javascript frameworks but the reason is the following and this is very important to understand  
+**[8957.86s] English:** They can wipe code, but analyzing is a lot more complex.  
 **Translation:** 
 
-**[8950.60s] English:** it is an order of magnitude easier to write code than read code yeah and you see that also with  
+**[8962.76s] English:** Difficult, and so when you arrive at a very complex piece of code, right?  
 **Translation:** 
 
-**[8957.86s] English:** llm they can wipe code that analyzing is a lot more  
+**[8969.46s] English:** You don't understand it right, um, because it's so much more effort to understand the code from  
 **Translation:** 
 
-**[8962.76s] English:** difficult and so when you arrive and when you arrive to a very complex piece of code right you  
+**[8974.92s] English:** Someone else, because you don't have the thought process. Um, and often I joke about, um, some.  
 **Translation:** 
 
-**[8969.46s] English:** you don't understand it right um because it's so much more effort to understand the code from  
+**[8981.50s] English:** Languages, mostly, such as Pearl, for example, which has very complex syntax, and imagine I am at my  
 **Translation:** 
 
-**[8974.92s] English:** someone else because you don't have the thought process um and often i joke about um some some  
-**Translation:** 
-
-**[8981.50s] English:** languages mostly uh pearl for example um which has very complex syntax and imagine i am at my  
-**Translation:** 
-
-**[8988.54s] English:** maximum intellectual efficiency in programming right  
+**[8988.54s] English:** Maximum intellectual efficiency in programming, right?  
 **Translation:** Vocabulary: syntax: 语法规则
 
-**[8992.76s] English:** and i write the best code ever i will not be able to understanding myself six months later right  
+**[8992.76s] English:** And I write the best code ever, but I won't be able to understand myself six months later, right?  
 **Translation:** 
 
-**[8998.52s] English:** because reading code  
+**[8998.52s] English:** Because reading code  
 **Translation:** 
 
-**[9000.00s] English:** is more difficult. So, very often you arrive, you don't understand all the wisdom, all the  
+**[9000.00s] English:** It is more difficult. So, very often, when you arrive, you don't understand all the wisdom, all the  
 **Translation:** 
 
-**[9005.44s] English:** business logic, the reasons that were done that is maybe not documented. And you say, well, I'm  
+**[9005.44s] English:** Business logic, the reasons why those decisions were made might not be documented. And you say, "Well, I'm  
 **Translation:** 
 
-**[9010.48s] English:** going to rewrite it. And the thing is, no, you don't, right? Because that's, as Kiran said,  
+**[9010.48s] English:** Going to rewrite it. And the thing is, no, you don't, right? Because that's, as Kiran said,  
 **Translation:** 
 
-**[9015.56s] English:** right, I'm going to rewrite core utils in Rust. And then, of course, you arrive very quickly at  
+**[9015.56s] English:** Right, I'm going to rewrite Core Utils in Rust. And then, of course, you soon arrive at  
+**Translation:** Vocabulary: rewrite: 重写
+
+**[9020.20s] English:** 80%, then 90%, takes a bit more time, and then you get the last ones, right? On the other side,  
 **Translation:** 
 
-**[9020.20s] English:** 80%, then 90%, takes a bit more time, and then you got the last ones, right? On the other side,  
-**Translation:** 
-
-**[9028.38s] English:** so for new projects, it's great. Everything related to parsing files, networking, because of  
+**[9028.38s] English:** So, for new projects, it's great. Everything related to parsing files and networking, because of  
 **Translation:** Vocabulary: parsing: 解析
 
-**[9035.18s] English:** the memory checker, memory checker, it's amazing and there is nothing else. To answer a bit  
+**[9035.18s] English:** The memory checker—it's amazing, and there is nothing else. To answer a bit,...  
 **Translation:** 
 
-**[9040.96s] English:** differently for us, imagine I take a piece of software like David or x264, right, which has a  
+**[9040.96s] English:** Differently for us, imagine I take a piece of software like David or x264, right, which has a  
 **Translation:** 
 
-**[9049.70s] English:** ton of runtime in assembly, right? I rewrite the C part in Rust, right? So, it's more secure. Yes,  
+**[9049.70s] English:** A ton of runtime in assembly, right? I'll rewrite the C part in Rust, right? So, it's more secure. Yes.  
 **Translation:** 
 
-**[9056.86s] English:** but then you arrive into the...  
+**[9056.86s] English:** But then you arrive into the...  
+**Translation:** Vocabulary: runtime: 运行时
+
+**[9058.38s] English:** Assembly, and you can jump anywhere in the memory because we are doing handwritten assembly. So,  
 **Translation:** 
 
-**[9058.38s] English:** assembly and you can jump anywhere in the memory because we are doing handwritten assembly. So,  
+**[9064.08s] English:** Even if I rewrite the C part in Rust for security reasons, you break all the security when you  
+**Translation:** Vocabulary: handwritten: 手工编写的
+
+**[9072.78s] English:** Write handwritten assembly because we can jump anywhere. So, in my opinion, we need to do.  
 **Translation:** 
 
-**[9064.08s] English:** even if I rewrite the C part in Rust for security reason, you break all the security when you  
-**Translation:** Vocabulary: handwritten: 手工编写
+**[9078.28s] English:** Something that is secure assembly, right? So, which is compiled at compile-time and checks the assembly, which?  
+**Translation:** Vocabulary: compiled: 编译好的
 
-**[9072.78s] English:** write handwritten assembly because we can jump anywhere. So, in my opinion, we need to do  
-**Translation:** 
-
-**[9078.28s] English:** something that is secure assembly, right? So, which is compile time, check the assembly, which  
-**Translation:** 
-
-**[9085.24s] English:** is similar to the check assembly project that we're doing.  
+**[9085.24s] English:** It is similar to the check assembly project that we're doing.  
 **Translation:** 
 
 **[9088.38s] English:** Yeah.  
 **Translation:** 
 
-**[9089.20s] English:** on David and x264 with Video LAN, is to start instrumenting your assembly at compile time to  
+**[9089.20s] English:** On David and x264 with VideoLAN, the goal is to start instrumenting your assembly at compile time to.  
 **Translation:** 
 
-**[9097.24s] English:** check that it's not jumping anywhere in the memory. Because else you might rewrite a part of C in Rust,  
+**[9097.24s] English:** Check that it's not jumping anywhere in the memory. Because else, you might rewrite a part of C in Rust.  
+**Translation:** Vocabulary: compile: 编译; rewrite: 重写
+
+**[9102.96s] English:** But if you want to have the same performance, you're going to have to use inline assembly, and so you  
 **Translation:** 
 
-**[9102.96s] English:** but if you want to have the same performances, you're going to have inline assembly, and so you  
-**Translation:** 
-
-**[9106.44s] English:** destroy your whole security model. So, that's a bit what I think about Rust.  
+**[9106.44s] English:** Destroy your whole security model. So, that's a bit what I think about Rust.  
 **Translation:** Vocabulary: inline: 嵌入式
 
-**[9111.34s] English:** I just want to... I would say on a personal level, I am so in awe about assembly. I actually  
+**[9111.34s] English:** I just want to... On a personal level, I am so in awe of assembly. I actually  
 **Translation:** 
 
-**[9116.38s] English:** . . .  
+**[9116.38s] English:** ...  
 **Translation:** 
 
-**[9117.38s] English:** once in a while it never gets old the speed  
+**[9117.38s] English:** Once in a while, it never gets old the speed.  
 **Translation:** 
 
-**[9120.00s] English:** improvements to show 62x uh there are months on a personal level i run our internal test suite at  
+**[9120.00s] English:** Improvements to show 62x: There are months, on a personal level, where I run our internal test suite at  
 **Translation:** 
 
-**[9127.46s] English:** work and just see i'm still in awe of the gains we have there's a source of joy and happiness  
+**[9127.46s] English:** Work and just see; I'm still in awe of the gains we've made. There's a source of joy and happiness.  
 **Translation:** 
 
-**[9132.44s] English:** programming for different reasons but i think one of the greatest happinesses is in the optimization  
-**Translation:** Vocabulary: happinesses: 幸福感; optimization: 优化
+**[9132.44s] English:** Programming for different reasons, but I think one of the greatest joys is in optimization.  
+**Translation:** Vocabulary: optimization: 优化
 
-**[9140.02s] English:** of code and it sounds like you're like at the cutting edge of that that was cool in the community  
+**[9140.02s] English:** Of code, and it sounds like you're at the cutting edge of that. That was cool in the community.  
 **Translation:** 
 
-**[9146.46s] English:** i want to speak about two people who are wizards of assembly right the two of them are actually  
+**[9146.46s] English:** I want to speak about two people who are wizards of assembly. Right, the two of them are actually  
+**Translation:** Vocabulary: wizards: 高手
+
+**[9153.98s] English:** Working and living in the north of Europe, in Sweden and Finland, Henrik Gramner knows so much.  
 **Translation:** 
 
-**[9153.98s] English:** working uh living in north of europe uh sweden in finland and um henrik gramner knows so much  
+**[9164.46s] English:** About Intel X86 Assembly, that when we ask questions at Intel about things, they tell  
+**Translation:** Vocabulary: finland: 芬兰
+
+**[9172.18s] English:** Like, why are you asking us for intel? You have Henrik; Henrik knows better.  
 **Translation:** 
 
-**[9164.46s] English:** about intel x86 assembly that when we ask questions at intel about things they tell  
-**Translation:** 
-
-**[9172.18s] English:** like why are you asking us intel you have henrik henrik knows better  
-**Translation:** 
-
-**[9176.46s] English:** he knows all the cycles of almost all the simd instruction by all the cpu generation oh yes this  
+**[9176.46s] English:** He knows all the cycles of almost all SIMD instructions across all CPU generations, oh, yes, this.  
 **Translation:** Vocabulary: henrik: 亨里克
 
-**[9184.82s] English:** is a p4 this is a nehalem this is a core 2 etc that person is like the best person on assembly  
+**[9184.82s] English:** This is a P4, this is a Nehalem, this is a Core 2, etc. That person is like the best person at assembly.  
 **Translation:** 
 
-**[9191.40s] English:** in the world and he's the nicest person that you've seen like you're very he arrived you don't  
+**[9191.40s] English:** In the world, and he's the nicest person that you've ever seen. Like, you're very lucky he arrived; you don't  
+**Translation:** Vocabulary: nehalem: nehalem架构的处理器
+
+**[9199.34s] English:** See, he's amazing, and the other one is called Martin Stossio, and he's the  
 **Translation:** 
 
-**[9199.34s] English:** see he's amazing and the other one is is called martin martin stossio and he's the  
+**[9206.46s] English:** The best person in the world, and he's doing mostly the same on ARM, right? So, NEON, right? And iPhones, and  
+**Translation:** Vocabulary: stossio: 斯托西奥
+
+**[9211.92s] English:** Android, and so on. He codes in assembly on his phone, editing it with the crappy, uh, keyboard.  
 **Translation:** 
 
-**[9206.46s] English:** best person in the world and he's doing mostly the same on arm right so neon right and iphones and  
+**[9223.66s] English:** Like a virtual keyboard, you have while watching his kids play in the playground, right? Like, like  
+**Translation:** Vocabulary: crappy: 糟糕的; editing: 编辑
+
+**[9229.58s] English:** This is just like wizard-level, so those two people are like, "Yes.  
 **Translation:** 
 
-**[9211.92s] English:** android and so on and he codes in assembly on his phone editing it with the crappy uh uh keyboard  
+**[9236.46s] English:** Apart, when you're programming in assembly at that high level.  
 **Translation:** 
 
-**[9223.66s] English:** like virtual keyboard you have while watching his kids play in the playground right like like  
-**Translation:** Vocabulary: crappy: 糟糕的键盘
-
-**[9229.58s] English:** this is just like wizard level so those two people are like yes  
+**[9240.00s] English:** A part of that is knowing the architecture.  
 **Translation:** 
 
-**[9236.46s] English:** apart when you're programming assembly at that high level  
+**[9242.10s] English:** That you're programming on.  
 **Translation:** 
 
-**[9240.00s] English:** a part of that is knowing the architecture  
+**[9243.02s] English:** On ARM, in particular, yes.  
 **Translation:** 
 
-**[9242.10s] English:** that you're programming on.  
-**Translation:** 
-
-**[9243.02s] English:** On ARM in particular, yes.  
-**Translation:** 
-
-**[9244.82s] English:** ARM in particular.  
+**[9244.82s] English:** ARM, in particular.  
 **Translation:** 
 
 **[9246.60s] English:** But these are complicated architectures, right?  
 **Translation:** 
 
-**[9249.28s] English:** Yeah, but ARM in some ways is more...  
+**[9249.28s] English:** Yeah, but ARM, in some ways, is more...  
 **Translation:** 
 
-**[9252.34s] English:** x86 with out-of-order execution is not so bad.  
+**[9252.34s] English:** X86 with out-of-order execution is not so bad.  
 **Translation:** 
 
-**[9255.42s] English:** ARM, you really need to understand  
+**[9255.42s] English:** ARM, you really need to understand.  
+**Translation:** Vocabulary: execution: 执行
+
+**[9256.76s] English:** All the different generations of ARM processors.  
 **Translation:** 
 
-**[9256.76s] English:** all the different generations of ARM processor  
-**Translation:** 
+**[9259.16s] English:** Because they're all different.  
+**Translation:** Vocabulary: processors: 处理器
 
-**[9259.16s] English:** because they're all different.  
-**Translation:** 
-
-**[9260.24s] English:** There's A72, et cetera, et cetera.  
+**[9260.24s] English:** There's A72, etc., etc.  
 **Translation:** 
 
 **[9263.12s] English:** And there's the Apple variant.  
@@ -7219,37 +7220,37 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9264.94s] English:** And you need to write code that works efficiently on all of them.  
 **Translation:** Vocabulary: efficiently: 高效地
 
-**[9268.28s] English:** x86, well, broadly speaking, you have Intel AMD,  
+**[9268.28s] English:** X86, well, broadly speaking, you have Intel and AMD.  
 **Translation:** 
 
-**[9271.10s] English:** you have sub-variants,  
+**[9271.10s] English:** You have sub-variants.  
+**Translation:** Vocabulary: broadly: 大致上
+
+**[9272.10s] English:** But generally speaking,  
 **Translation:** 
 
-**[9272.10s] English:** but generally speaking,  
+**[9274.60s] English:** There's something fast that's going to remain fast.  
 **Translation:** 
 
-**[9274.60s] English:** there's something fast that's going to remain fast  
+**[9277.78s] English:** On all of the variants,  
 **Translation:** 
 
-**[9277.78s] English:** on all of the variants,  
+**[9279.14s] English:** Whereas in ARM, it's a completely much more complicated ballgame.  
+**Translation:** Vocabulary: ballgame: 比赛
+
+**[9283.14s] English:** We're taking a nonlinear journey through history here.  
 **Translation:** 
 
-**[9279.14s] English:** whereas in ARM, it's a completely much more complicated ballgame.  
-**Translation:** Vocabulary: ballgame: 复杂局面
-
-**[9283.14s] English:** We're taking a nonlinear journey through history here,  
-**Translation:** 
-
-**[9286.42s] English:** but we're talking about Michael Niedermeyer.  
+**[9286.42s] English:** But we're talking about Michael Niedermayer.  
 **Translation:** 
 
 **[9290.34s] English:** I wanted to ask about this.  
 **Translation:** 
 
-**[9294.00s] English:** For a time, there was a split in FFmpeg  
+**[9294.00s] English:** For a time, there was a split in FFmpeg.  
 **Translation:** 
 
-**[9298.04s] English:** and...  
+**[9298.04s] English:** And...  
 **Translation:** 
 
 **[9298.28s] English:** LibAV.  
@@ -7258,37 +7259,37 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9300.48s] English:** Yes.  
 **Translation:** 
 
-**[9300.98s] English:** So in open-source projects,  
+**[9300.98s] English:** So, in open-source projects,  
 **Translation:** 
 
-**[9304.46s] English:** sometimes you disagree, right?  
+**[9304.46s] English:** Sometimes you disagree, right?  
 **Translation:** 
 
 **[9310.14s] English:** That's such a nice way of putting it, yeah.  
 **Translation:** 
 
-**[9312.28s] English:** And the good thing is because of the license,  
+**[9312.28s] English:** And the good thing is, because of the license,  
 **Translation:** 
 
-**[9314.38s] English:** you're allowed to basically do your own, right?  
+**[9314.38s] English:** You're allowed to basically do your own, right?  
 **Translation:** 
 
-**[9317.62s] English:** And this is normal,  
+**[9317.62s] English:** And this is normal.  
 **Translation:** 
 
-**[9319.16s] English:** and this has happened all the time, right?  
+**[9319.16s] English:** And this has happened all the time, right?  
 **Translation:** 
 
-**[9321.10s] English:** At the point, there was GCC at the time of GCC2 and EGCS,  
+**[9321.10s] English:** At the point, there was GCC (at the time of GCC2 and EGCS).  
 **Translation:** 
 
-**[9326.64s] English:** which became then...  
+**[9326.64s] English:** Which became then...  
 **Translation:** 
 
 **[9328.28s] English:** GCC3, right?  
 **Translation:** 
 
-**[9329.38s] English:** There is what we told KHTML with WebKit, with Blink.  
+**[9329.38s] English:** There is what we told KHTML, with WebKit, and Blink.  
 **Translation:** 
 
 **[9333.64s] English:** It is a sane process.  
@@ -7297,304 +7298,304 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9335.76s] English:** And also, like, when I want to do a new feature today in VLC,  
 **Translation:** 
 
-**[9339.14s] English:** I fork, I do my thing on my own,  
+**[9339.14s] English:** I fork; I do my thing on my own.  
 **Translation:** 
 
-**[9341.00s] English:** and then I merge back to the community.  
+**[9341.00s] English:** And then I merge back into the community.  
 **Translation:** 
 
-**[9343.12s] English:** So there was a split in the open-source community on FFmpeg,  
+**[9343.12s] English:** So, there was a split in the open-source community regarding FFmpeg.  
 **Translation:** 
 
-**[9346.06s] English:** which become LibAV and FFmpeg.  
+**[9346.06s] English:** Which became LibAV and FFmpeg.  
 **Translation:** 
 
-**[9348.24s] English:** And after a few years, well, the community merged back  
+**[9348.24s] English:** And after a few years, well, the community merged back.  
 **Translation:** 
 
-**[9351.02s] English:** and people moved on.  
+**[9351.02s] English:** And people moved on.  
+**Translation:** Vocabulary: merged: 合并
+
+**[9352.32s] English:** It's a bit of drama that is normal in the open-source community.  
 **Translation:** 
 
-**[9352.32s] English:** It's a bit drama that is normal in open-source community,  
+**[9357.76s] English:** But, folks are even...  
 **Translation:** 
 
-**[9357.76s] English:** but folks are even...  
+**[9360.00s] English:** Important because they change the status quo of a community. Not talking about FFmpeg and eBV here.  
 **Translation:** 
 
-**[9360.00s] English:** important because they change the status quo of a community. Not talking about FFmpeg and eBV here,  
+**[9368.88s] English:** But the GCC fork made GCC a lot better because some people wanted to change the architecture.  
 **Translation:** 
 
-**[9368.88s] English:** but the GCC fork made GCC a ton better because some people wanted to change the architecture  
+**[9376.16s] English:** Fundamentally, we need to make it faster. And, of course, it's always a question of people, and so on.  
 **Translation:** 
 
-**[9376.16s] English:** fundamentally to make it faster. And of course, it's always a question of people and so on,  
-**Translation:** 
-
-**[9381.92s] English:** but in the end, you realize that FFmpeg today is better than it was before the fork.  
+**[9381.92s] English:** But in the end, you realize that FFmpeg today is better than it was before the fork.  
 **Translation:** Vocabulary: fundamentally: 从根本上
 
 **[9388.24s] English:** And now, well, we're back all together, right? And I spend a lot of time in the community.  
 **Translation:** 
 
-**[9397.60s] English:** It's not often, to be honest, very well explained because a ton of the reasons are not very public,  
+**[9397.60s] English:** It's not often, to be honest, very well-explained because a lot of the reasons are not very public.  
 **Translation:** 
 
-**[9405.68s] English:** but I think that's normal and that's good. Yeah. I mean, you're making it sound really  
+**[9405.68s] English:** But I think that's normal and that's good. Yeah. I mean, you're making it sound really  
 **Translation:** 
 
-**[9411.20s] English:** nice, but there's pretty heated battles inside open-source projects. I mean,  
+**[9411.20s] English:** Nice, but there are pretty heated battles inside open-source projects. I mean,  
 **Translation:** 
 
-**[9415.04s] English:** it is a very passionate community and you're kind of an  
+**[9415.04s] English:** It is a very passionate community, and you're kind of an  
 **Translation:** 
 
-**[9418.16s] English:** open-source community and you're kind of an open-source community and you're kind of an  
+**[9418.16s] English:** Open-source community, and you're kind of part of it.  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[9418.22s] English:** Open-source community, and you're kind of part of it.  
 **Translation:** 
 
-**[9418.22s] English:** open-source community and you're kind of an open-source community and you're kind of an  
+**[9418.24s] English:** Open-source community, and you're kind of part of it.  
 **Translation:** 
 
-**[9418.24s] English:** open-source community and you're kind of an open-source community and you're kind of an  
+**[9418.26s] English:** Open-source community, and you're kind of part of it.  
 **Translation:** 
 
-**[9418.26s] English:** open-source community and you're kind of an open-source community and you're kind of an  
+**[9418.30s] English:** Distributed systems have to define the direction of things.  
 **Translation:** 
 
-**[9418.30s] English:** distributed way have to define the direction of things.  
+**[9421.58s] English:** Distributed systems have to define the direction of things.  
 **Translation:** 
 
-**[9421.58s] English:** distributed way have to define the direction of things.  
-**Translation:** 
-
-**[9421.62s] English:** distributed way have to define the direction of things. So here, looking at perplexity,  
+**[9421.62s] English:** Distributed systems have to define the direction of things. So, here, looking at perplexity,  
 **Translation:** Vocabulary: perplexity: 困惑程度
 
-**[9424.10s] English:** So here, looking at perplexity,  
+**[9424.10s] English:** So, here, looking at perplexity,  
 **Translation:** 
 
-**[9424.14s] English:** So here, looking at perplexity, FFmpeg and LibAV split in 2011,  
+**[9424.14s] English:** So, here, looking at perplexity, FFmpeg and LibAV split in 2011.  
 **Translation:** 
 
-**[9427.10s] English:** FFmpeg and LibAV split in 2011,  
+**[9427.10s] English:** FFmpeg and LibAV split in 2011.  
 **Translation:** 
 
-**[9427.14s] English:** FFmpeg and LibAV split in 2011, mainly over project governance,  
+**[9427.14s] English:** FFmpeg and LibAV split in 2011, mainly over project governance.  
 **Translation:** Vocabulary: governance: 管理方式
 
-**[9428.50s] English:** mainly over project governance,  
+**[9428.50s] English:** Mainly over project governance.  
 **Translation:** 
 
-**[9428.54s] English:** mainly over project governance, leadership style and development  
+**[9428.54s] English:** Mainly over project governance, leadership style, and development.  
 **Translation:** 
 
-**[9429.82s] English:** leadership style and development  
+**[9429.82s] English:** Leadership Style and Development  
 **Translation:** 
 
-**[9429.86s] English:** leadership style and development processes not because of a fundamental  
+**[9429.86s] English:** Leadership style and development processes, not because of a fundamental  
 **Translation:** 
 
-**[9431.50s] English:** processes not because of a fundamental  
+**[9431.50s] English:** Processes are not because of a fundamental  
 **Translation:** 
 
-**[9431.52s] English:** processes not because of a fundamental technical disagreement.  
+**[9431.52s] English:** Processes are not due to a fundamental technical disagreement.  
+**Translation:** Vocabulary: disagreement: 根本分歧
+
+**[9433.66s] English:** Technical disagreement.  
 **Translation:** 
 
-**[9433.66s] English:** technical disagreement.  
+**[9433.68s] English:** FFmpeg effectively absorbed Libav's work while Libav withered, leaving most distributions to abandon it.  
+**Translation:** Vocabulary: distributions: 软件发行版
+
+**[9440.08s] English:** Developers moved back to FFmpeg, yeah. That was a weird transition from a user's perspective.  
 **Translation:** 
 
-**[9433.68s] English:** ffmpeg effectively absorbed libav's work while libav withered their most distributions and  
+**[9445.28s] English:** That was a weird experience because, you know, I'm a Linux user, so you know, whether it's a Bantu...  
 **Translation:** 
 
-**[9440.08s] English:** developers moved back to ffmpeg yeah that was a that was a weird that was from a user's perspective  
+**[9450.64s] English:** So, all of a sudden, I think for a little bit, Bantu — I feel like am I remembering correctly?  
 **Translation:** 
 
-**[9445.28s] English:** that was a weird experience because you know i'm a linux user so you know whether it's a bantu and  
+**[9457.44s] English:** Switched to Libav 12, 14, something like that, yeah, something like that, and then they switched back.  
 **Translation:** 
 
-**[9450.64s] English:** so on all of a sudden i think for for for a little bit bantu i feel like am i remembering correctly  
+**[9462.00s] English:** To FFmpeg, I was like, "What is happening?" So, on the sort of thing, you get to feel the ripple effects.  
 **Translation:** 
 
-**[9457.44s] English:** switched to libav 12 14 something like that yeah something like that and then they switched back  
-**Translation:** Vocabulary: bantu: 班图人
-
-**[9462.00s] English:** to ffmpeg i was like what is happening so on the sort of you you get to feel the ripple effects  
-**Translation:** 
-
-**[9469.60s] English:** of the different internal debates that are happening to be fair on apple when you type gcc  
+**[9469.60s] English:** Of the different internal debates that are happening, to be fair, on Apple when you type "gcc".  
 **Translation:** Vocabulary: ripple: 波纹效应
 
-**[9475.20s] English:** you get c lang like they did something like that as well so yeah so to me  
+**[9475.20s] English:** You get C++, like they did something like that as well, so yeah. To me,  
 **Translation:** 
 
-**[9480.00s] English:** It's like the fork was like heated drama,  
+**[9480.00s] English:** It's like the fork was heated drama.  
 **Translation:** 
 
-**[9484.16s] English:** but most of the development from Libby was merged back into FFmpeg, right?  
+**[9484.16s] English:** But most of the development from Libby was merged back into FFmpeg, right?  
 **Translation:** 
 
-**[9488.80s] English:** So de facto, FFmpeg got a superset around Libby.  
-**Translation:** Vocabulary: facto: 实际上; libby: 利比
+**[9488.80s] English:** So, de facto, FFmpeg got a superset around Libby.  
+**Translation:** Vocabulary: facto: 实际上; libby: 利比; merged: 合并
 
-**[9492.78s] English:** And so that gave the user, because in the end,  
+**[9492.78s] English:** And so, that gave the user, because in the end,  
 **Translation:** 
 
-**[9495.34s] English:** we worked for the users, a larger set of features  
+**[9495.34s] English:** We worked for the users, a larger set of features.  
 **Translation:** 
 
-**[9498.62s] English:** and a ton of things that were discussed.  
+**[9498.62s] English:** And a ton of things were discussed.  
 **Translation:** 
 
 **[9502.58s] English:** For example, the debate on reviews and on how we push  
 **Translation:** 
 
-**[9506.00s] English:** are something that now is completely settled in FFmpeg  
+**[9506.00s] English:** Are they something that is now completely settled in FFmpeg?  
 **Translation:** 
 
-**[9509.50s] English:** and is following mostly what everyone in the community agrees, right?  
+**[9509.50s] English:** And it's following mostly what everyone in the community agrees, right?  
 **Translation:** 
 
-**[9515.06s] English:** So de facto, everyone who was active on Libby came back  
+**[9515.06s] English:** So, de facto, everyone who was active on Libby came back.  
 **Translation:** 
 
-**[9519.58s] English:** and worked on FFmpeg because the disagreements were fixed.  
+**[9519.58s] English:** And we worked on FFmpeg because the disagreements were fixed.  
 **Translation:** Vocabulary: disagreements: 分歧
 
 **[9524.50s] English:** And in the end, FFmpeg is stronger than it was before, right?  
 **Translation:** 
 
-**[9528.94s] English:** And I know people love drama, but...  
+**[9528.94s] English:** And I know people love drama, but....  
 **Translation:** 
 
-**[9532.12s] English:** Well, my main concern, I understand,  
+**[9532.12s] English:** Well, my main concern is, I understand,  
 **Translation:** 
 
-**[9535.44s] English:** and I think looking at the long history,  
+**[9535.44s] English:** And I think looking at the long history,  
 **Translation:** 
 
-**[9539.00s] English:** it's all...  
+**[9539.00s] English:** It's all...  
 **Translation:** 
 
 **[9539.50s] English:** It's all for the good.  
 **Translation:** 
 
-**[9541.88s] English:** But I am concerned because there's so few humans  
+**[9541.88s] English:** But I am concerned because there are so few humans.  
 **Translation:** 
 
-**[9545.48s] English:** that are critical to the success of open source projects  
+**[9545.48s] English:** That are critical to the success of open source projects.  
 **Translation:** 
 
-**[9549.46s] English:** that I have seen it be a psychological toll on folks  
+**[9549.46s] English:** That I have seen it be a psychological toll on folks.  
 **Translation:** 
 
-**[9555.06s] English:** and sometimes leads to burnout.  
+**[9555.06s] English:** And sometimes it leads to burnout.  
+**Translation:** Vocabulary: burnout: 职业倦怠
+
+**[9558.34s] English:** So, you have these incredible people.  
 **Translation:** 
 
-**[9558.34s] English:** So you have these incredible people  
+**[9559.72s] English:** That are at the core of open source projects.  
 **Translation:** 
 
-**[9559.72s] English:** that are at the core of open source projects.  
+**[9562.48s] English:** There is a moment that happens:  
 **Translation:** 
 
-**[9562.48s] English:** There is a moment that happens  
+**[9563.92s] English:** Because what is the motivation for doing it?  
 **Translation:** 
 
-**[9563.92s] English:** because what is the motivation of doing it?  
+**[9566.16s] English:** Ultimately, it's because you're passionate about it.  
 **Translation:** 
 
-**[9566.16s] English:** Ultimately, it's because you're passionate about it  
+**[9568.02s] English:** And it makes you happy.  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[9568.90s] English:** And at a certain point, you wake up, and it's like,  
 **Translation:** 
 
-**[9568.02s] English:** and it makes you happy.  
+**[9571.10s] English:** This has been a bit too much heat from the drama.  
 **Translation:** 
 
-**[9568.90s] English:** And at a certain point, you wake up and it's like,  
+**[9574.84s] English:** So, at the project level,  
 **Translation:** 
 
-**[9571.10s] English:** this has been a bit too much heat from the drama.  
-**Translation:** 
-
-**[9574.84s] English:** So at the project level,  
-**Translation:** 
-
-**[9577.46s] English:** the project continues and often flourishes.  
+**[9577.46s] English:** The project continues and often flourishes.  
 **Translation:** Vocabulary: flourishes: 蓬勃发展
 
-**[9579.94s] English:** But sometimes there's these individual humans  
+**[9579.94s] English:** But sometimes there are these individual humans.  
 **Translation:** 
 
-**[9582.28s] English:** that are just like, I've had enough.  
+**[9582.28s] English:** That are just like, "I've had enough.  
 **Translation:** 
 
 **[9585.20s] English:** Yeah, but it's not just about folks, right?  
 **Translation:** 
 
-**[9586.88s] English:** So it's very...  
+**[9586.88s] English:** So, it's very...  
 **Translation:** 
 
-**[9588.24s] English:** What you are referring to  
+**[9588.24s] English:** What you are referring to?  
 **Translation:** 
 
-**[9591.16s] English:** is one of the most challenging  
+**[9591.16s] English:** Is one of the most challenging.  
 **Translation:** 
 
-**[9593.40s] English:** and most interesting part of open source today  
+**[9593.40s] English:** And, most interesting part of open source today:  
 **Translation:** 
 
-**[9596.06s] English:** is maintainers' burden.  
-**Translation:** Vocabulary: maintainers: 维护者
+**[9596.06s] English:** Is the maintainers' burden.  
+**Translation:** Vocabulary: burden: 负担; maintainers: 维护者
 
 **[9598.90s] English:** Burnout, right?  
 **Translation:** 
 
 **[9599.74s] English:** Mm-hmm.  
-**Translation:** Vocabulary: burnout: 职业倦怠
+**Translation:** 
 
 **[9600.00s] English:** And AI is a problem because of that.  
 **Translation:** 
 
-**[9603.46s] English:** And Daniel Steinberg, which is the maintainer of Curl, who's probably one of the best promoters of open source in the world.  
+**[9603.46s] English:** And Daniel Steinberg, who is the maintainer of Curl and who's probably one of the best promoters of open source in the world.  
 **Translation:** Vocabulary: maintainer: 维护者; promoters: 推广者
 
 **[9612.42s] English:** He's, by the way, a member of the European Open Source Academy with me.  
 **Translation:** 
 
-**[9616.00s] English:** So I'm very, like, humble to be on the same community as him, right?  
-**Translation:** 
+**[9616.00s] English:** So, I'm very humble to be in the same community as him, right?  
+**Translation:** Vocabulary: humble: 谦逊
 
 **[9619.22s] English:** He's against what he called AI slop, right?  
 **Translation:** 
 
-**[9621.78s] English:** Because it gives a ton of fake reports or bad reports, bad patches.  
+**[9621.78s] English:** Because it gives a ton of fake reports or bad patches.  
+**Translation:** Vocabulary: patches: 补丁
+
+**[9628.46s] English:** And then, many maintainers have a lot of burdens to maintain the software.  
 **Translation:** 
 
-**[9628.46s] English:** And then a lot of maintainers have a lot of burden to maintain the software.  
-**Translation:** 
+**[9634.38s] English:** And this is straining the minds of open-source developers much more than folks.  
+**Translation:** Vocabulary: burdens: 负担; straining: 困扰
 
-**[9634.38s] English:** And this is straining the mind of open source developers much more than folks.  
-**Translation:** Vocabulary: straining: 耗费脑力
-
-**[9642.74s] English:** And for example, the XZ fiasco was because there was one guy maintaining it.  
+**[9642.74s] English:** And, for example, the XZ fiasco was because there was one guy maintaining it.  
 **Translation:** 
 
 **[9647.94s] English:** And he got basically hammered by two attackers who were asking him questions nonstop at weird times at night to block him.  
-**Translation:** Vocabulary: fiasco: 灾难; hammered: 打击
+**Translation:** Vocabulary: fiasco: 失败; hammered: 攻击
 
-**[9655.58s] English:** And at some point, he got fed up and said, OK, I can't do that.  
+**[9655.58s] English:** And at some point, he got fed up and said, "OK, I can't do that.  
 **Translation:** 
 
-**[9658.46s] English:** And gave the commit access to the attackant.  
-**Translation:** Vocabulary: attackant: 攻击者
+**[9658.46s] English:** And gave commit access to the attacker.  
+**Translation:** 
 
-**[9662.10s] English:** So burnout in open source community is something that exists.  
+**[9662.10s] English:** So, burnout in the open-source community is something that exists.  
 **Translation:** 
 
 **[9667.20s] English:** But mostly it's about maintaining things, right?  
-**Translation:** 
+**Translation:** Vocabulary: burnout: 过度劳累
 
 **[9671.42s] English:** No, for sure.  
 **Translation:** 
 
-**[9672.06s] English:** I wonder how we would help that because those people are so important.  
+**[9672.06s] English:** I wonder how we would help them, because those people are so important.  
 **Translation:** 
 
 **[9675.90s] English:** The human beings are so important.  
@@ -7603,13 +7604,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9677.54s] English:** The core of these projects.  
 **Translation:** 
 
-**[9679.02s] English:** So, for example, now I am maintaining a ton of multimedia and non-multimedia library as maintainer because the maintainers got fed up, right?  
+**[9679.02s] English:** So, for example, now I am maintaining a ton of multimedia and non-multimedia libraries as a maintainer because the original maintainers got fed up, right?  
 **Translation:** 
 
-**[9688.62s] English:** Some on Videoland, some outside of Videoland, because it's sometimes you need a tough skin, right?  
-**Translation:** Vocabulary: multimedia: 多媒体; videoland: 视频之地
+**[9688.62s] English:** Some are on Videoland, some are outside of Videoland, because it's sometimes you need a tough skin, right?  
+**Translation:** Vocabulary: maintainer: 维护者; maintainers: 维护者们; multimedia: 多媒体; videoland: 视频地带
 
-**[9696.32s] English:** Because you get like, it's not really attacks, but, oh, this is not working.  
+**[9696.32s] English:** Because you get, it's not really attacks, but oh, this isn't working.  
 **Translation:** 
 
 **[9700.42s] English:** This is not working.  
@@ -7618,259 +7619,259 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[9701.16s] English:** And you feel it personally.  
 **Translation:** 
 
-**[9702.70s] English:** And this is also why resources or the Google fiasco is, was a problem, right?  
+**[9702.70s] English:** And this is also why resources, or the Google fiasco, was a problem, right?  
 **Translation:** 
 
-**[9709.24s] English:** They don't realize that in the end you have, you know, it's like the same graph where you see like everything and it's just like one random open source project that is made.  
+**[9709.24s] English:** They don't realize that in the end, you have, you know, it's like the same graph where you see everything, and it's just like one random open-source project that is made.  
 **Translation:** 
 
 **[9718.10s] English:** He's maintaining the whole thing.  
 **Translation:** 
 
-**[9720.00s] English:** internet you see the one right yeah this is the meme i mean it applies to a lot of projects but  
+**[9720.00s] English:** Internet, you see, the one right there, yeah. This is the meme I mean; it applies to a lot of projects, but...  
 **Translation:** 
 
-**[9725.94s] English:** this is the all modern digital multimedia infrastructure and then that thing at the  
+**[9725.94s] English:** This is the fully modern digital multimedia infrastructure, and then that thing at the  
 **Translation:** 
 
-**[9731.38s] English:** very bottom that everything relies on is ffmpeg it's true and then there's usually you know a  
+**[9731.38s] English:** At the very bottom, everything relies on FFmpeg — it's true. And then there's usually something else on top of that.  
 **Translation:** 
 
-**[9737.62s] English:** handful of folks that are maintaining that and ffmpeg or vlc right you have a community of 10  
+**[9737.62s] English:** A handful of folks are maintaining that, and FFmpeg or VLC, right? You have a community of 10.  
 **Translation:** 
 
-**[9743.24s] English:** 15 core developers are not the worst open source project exe which is even in more installations  
+**[9743.24s] English:** 15 core developers are not the worst open-source project, which is even in more installations.  
 **Translation:** 
 
-**[9749.82s] English:** is one person right there is one guy libxml is yeah libxml right there was a big stop no one is  
+**[9749.82s] English:** Is one person right there? Is one guy, libxml? Yeah, libxml. Right there was a big stop. No one is.  
 **Translation:** 
 
-**[9756.38s] English:** maintaining libxml anymore which is like past the only library that is able to pass xml everywhere  
+**[9756.38s] English:** Maintaining libxml anymore, which is like past the only library that is able to parse XML everywhere.  
 **Translation:** 
 
-**[9761.26s] English:** all the crazy edge cases of xml under ridiculous circumstances and they get attacked by security  
+**[9761.26s] English:** All the crazy edge cases of XML under ridiculous circumstances, and they get attacked by security.  
+**Translation:** Vocabulary: parse: 解析
+
+**[9767.04s] English:** Researchers, because there's one other crazy edge case that they haven't thought of, yeah, but...  
 **Translation:** 
 
-**[9767.04s] English:** researchers because there's one other crazy edge case that they haven't thought of yeah but  
+**[9771.84s] English:** The body of knowledge to actually resolve that is massive; there is one guy maintaining all the  
 **Translation:** 
 
-**[9771.84s] English:** the body of knowledge to actually resolve that is massive there is one guy maintaining all the  
+**[9778.16s] English:** Time zones for everyone who  
 **Translation:** 
 
-**[9778.16s] English:** time zones for everyone who  
+**[9779.82s] English:** Is in the middle of, I think it was Nebraska or South Dakota—like the mental health of the open.  
+**Translation:** Vocabulary: nebraska: 内布拉斯加州
+
+**[9786.92s] English:** Source maintainers is something that large corporations don't care about or don't see as important.  
 **Translation:** 
 
-**[9779.82s] English:** is in the middle of i think was it nebraska or south dakota like the mental health of the open  
-**Translation:** 
-
-**[9786.92s] English:** source maintainers is something that large corporations don't care or don't see right  
-**Translation:** 
-
-**[9792.30s] English:** it's just like oh yeah i'm just doing an open source uh report and so on some of it is financial  
+**[9792.30s] English:** It's just like, oh, yeah. I'm just doing an open-source report, and so on. Some of it is financial.  
 **Translation:** Vocabulary: maintainers: 维护者
 
-**[9797.80s] English:** but some of it and people should definitely support open source financially all across the  
+**[9797.80s] English:** But some of it, and people should definitely support open source financially, all across the board.  
 **Translation:** 
 
-**[9803.72s] English:** board but some of it is also like spiritual on a basic human level there's something that happens  
+**[9803.72s] English:** Board, but some of it is also like spiritual — on a basic human level, there's something that happens.  
 **Translation:** Vocabulary: financially: 经济上
 
-**[9809.82s] English:** like with this image of a ffmpeg and so much of the internet depending on it where people almost  
+**[9809.82s] English:** Like with this image of FFmpeg, and so much of the Internet depending on it, where people almost  
 **Translation:** 
 
-**[9815.10s] English:** like talk down to the folks who are carrying these projects forward and maintaining the security  
+**[9815.10s] English:** Like, don't talk down to the folks who are carrying these projects forward and maintaining the security.  
 **Translation:** 
 
-**[9821.40s] English:** community they certainly did that was one of that was one of the things i think that argument came  
+**[9821.40s] English:** Community, they certainly did that. That was one of the things I think that argument came from.  
 **Translation:** 
 
-**[9825.56s] English:** out is there was there was a portion of the security communities like no these guys write  
+**[9825.56s] English:** Out, there was a portion of the security community that didn't believe these guys wrote  
 **Translation:** 
 
-**[9830.66s] English:** crap code they need to fix their crap code i'm like no no no this is a guy's hobby project  
+**[9830.66s] English:** Crap code, they need to fix their crap code. I'm like, "No, no, no, this is a guy's hobby project.  
 **Translation:** 
 
-**[9834.98s] English:** you've you've have a security bot that's gone and found some ai generated stuff  
+**[9834.98s] English:** You've got a security bot that's gone and found some AI-generated stuff.  
 **Translation:** 
 
-**[9839.82s] English:** that  
+**[9839.82s] English:** That  
 **Translation:** 
 
-**[9840.00s] English:** guy didn't write crap code it's just an edge case to the 99.99999 percentile he didn't think about  
+**[9840.00s] English:** Guy didn't write crap code; it's just an edge case to the 99.99999th percentile—he didn't think about it.  
 **Translation:** Vocabulary: percentile: 百分位数
 
-**[9847.44s] English:** because it's his hobby project decoding star wars games i get the hobby project aspect of it it's  
+**[9847.44s] English:** Because it's his hobby project, decoding Star Wars games, I get the hobby project aspect of it.  
 **Translation:** 
 
-**[9853.20s] English:** it's just hard work and it's it's beautiful and there's like the right approach there's to  
+**[9853.20s] English:** It's just hard work, and it's beautiful. There's a right approach there.  
 **Translation:** 
 
-**[9857.36s] English:** celebrate people for doing incredible incredible work it's just incredible that humans step up  
+**[9857.36s] English:** Celebrate people for doing incredible, incredible work; it's just incredible that humans step up!  
 **Translation:** 
 
-**[9864.48s] English:** sure not getting really paid at first or maybe ever and then they're doing it out  
+**[9864.48s] English:** Sure, not getting really paid at first, or maybe ever, and then they're doing it out.  
 **Translation:** 
 
-**[9869.68s] English:** of the love of it and we need to like human civilization runs on people like that we need  
+**[9869.68s] English:** Of the love of it, and we need to recognize that. Like, human civilization runs on people like that; we need them.  
 **Translation:** 
 
-**[9874.88s] English:** to celebrate them to give you an idea i received death threats on video land right and um you  
+**[9874.88s] English:** To celebrate them, to give you an idea, I received death threats on video land, right? And, um,...  
 **Translation:** 
 
-**[9880.32s] English:** mentioned that to me like what was what is behind that so that must be what 2009 2010 right um  
+**[9880.32s] English:** Mentioned that to me, like what was behind that, so that must be what in 2009-2010, right? Um,...  
 **Translation:** 
 
-**[9888.00s] English:** apple is moving from power pc to core duos um that's probably in 2006 and  
+**[9888.00s] English:** Apple is moving from Power PC to Core Duo processors, um, that's probably in 2006 and  
+**Translation:** Vocabulary: processors: 处理器
+
+**[9894.24s] English:** By the way, this was in 2009-2010. There was a time where they were basically, you know,  
 **Translation:** 
 
-**[9894.24s] English:** by the way this was this was in 2009-2010 there was a time where they were basically you know  
+**[9894.48s] English:** In 2009 or 2010, I decided that we are not going to do new versions of VLC for Power PC at that time.  
 **Translation:** 
 
-**[9894.48s] English:** 2009 or 2010 i decided that we are not going to do new versions of vlc for power pc at that time like  
+**[9903.12s] English:** VLC: We were close to the number 1.0 release. We were four of us, right? Just like...  
 **Translation:** 
 
-**[9903.12s] English:** vlc we were close to the number one dot zero release we were four of us right like just like  
+**[9909.20s] English:** No, this is not possible. So, I received a death threat with some powder in it, right? Remember?  
 **Translation:** 
 
-**[9909.20s] English:** no this is not possible so i received a death threat with some powder in it right it remember  
+**[9914.72s] English:** There were some anthrax threats at that time, right? Um, and it was because I had taken the decision to  
 **Translation:** 
 
-**[9914.72s] English:** there was some anthrax threats at that time right um and it was because i had taken the decision to  
-**Translation:** 
-
-**[9922.96s] English:** not maintain the power pc port anymore and of course it wasn't anthrax of course it was some  
+**[9922.96s] English:** Not maintaining the PowerPC port anymore, and of course, it wasn't Anthrax; it was some...  
 **Translation:** Vocabulary: anthrax: 炭疽病
 
-**[9928.56s] English:** type of floor and so on but i received that as a with the later of like uh your piece of  
+**[9928.56s] English:** Type of floor, and so on, but I received that as a with the latest of, like, your piece of.  
 **Translation:** 
 
-**[9935.44s] English:** you should die uh power pc forever and so on and was 2009 or 2010 right i was i was  
+**[9935.44s] English:** You should die, uh, Power PC forever and so on. Was that around 2009 or 2010, right? I was...  
 **Translation:** 
 
-**[9943.60s] English:** i was young i was just like why what did i do right they can break your spirit it's like why  
+**[9943.60s] English:** I was young, I was just like, "Why? What did I do wrong?" They can break your spirit; it's like, "Why?  
 **Translation:** 
 
-**[9949.76s] English:** my mother freaked out right we had to go see the police  
+**[9949.76s] English:** My mother freaked out; we had to go see the police.  
+**Translation:** Vocabulary: freaked: 惊慌
+
+**[9952.96s] English:** And so on, and now, like, I'm going to say that I'm quite happy that.  
 **Translation:** 
 
-**[9952.96s] English:** and so on and now like i i'm going to say that i'm quite happy that  
+**[9957.20s] English:** This happened at that time, and it forged me a lot.  
+**Translation:** Vocabulary: forged: 锤炼
+
+**[9960.00s] English:** Right, I am. I can see that I can take a lot of hate on me, and I'm okay with it. It sucks, though.  
 **Translation:** 
 
-**[9957.20s] English:** this happened at that time it it forged me a lot  
+**[9968.04s] English:** That is part of reality because all the people who love VLC, and all the people who love FFmpeg.  
 **Translation:** 
 
-**[9960.00s] English:** right i am i i can see i can take a lot of uh of hate on me i'm i'm okay with it right it sucks  
+**[9973.24s] English:** Like me, you know, I've legitimately smiled at least 100, maybe thousands of times in my life.  
 **Translation:** 
 
-**[9968.04s] English:** that that's part of reality because all the people that love vlc all the people that love ffmpeg  
+**[9983.08s] English:** Face, because FFmpeg made me happy. Period. And how many times did I get a chance to say that?  
+**Translation:** Vocabulary: legitimately: 真诚地
+
+**[9988.86s] English:** Zero, until I realized there's a Twitter account, and every once in a while I'm like messaging it.  
 **Translation:** 
 
-**[9973.24s] English:** like me you know i i legitimately 100 probably thousands of times in my life had a smile on my  
+**[9995.28s] English:** One of the things I like on the Reddit meme about me, which I don't like for a lot of  
 **Translation:** 
 
-**[9983.08s] English:** face because ffmpeg made me happy period and how many times did i get a chance to say that  
-**Translation:** Vocabulary: legitimately: 真正地
-
-**[9988.86s] English:** zero until i realized there's a twitter account and every once in a while i'm like messaging it  
+**[10000.06s] English:** Reasons, but and someone says, "Oh, JB is on Reddit," which I am, right? And I say, "Hello.  
 **Translation:** 
 
-**[9995.28s] English:** one of the things i like on the reddit meme about me which i don't like this meme for a lot of  
+**[10005.70s] English:** Right, and then I got so many people who say, "Oh, thank you for VLC," and like, I take pictures.  
 **Translation:** 
 
-**[10000.06s] English:** reasons but and someone says oh jb is on is on reddit which i am right and i say and say hello  
+**[10010.96s] English:** Then I shared that to the Signal to IRC. Yes, we use IRC. I saw.  
 **Translation:** 
 
-**[10005.70s] English:** right and then i got so many people who say oh thank you for vlc and like i take pictures and  
+**[10018.54s] English:** You.  
 **Translation:** 
 
-**[10010.96s] English:** then i shared that to to to the signal to irc uh yes we use irc on on i saw  
+**[10018.86s] English:** As a quick tangent, you mentioned IRC is like Slack for old people, so you still use IRC, of course, yeah.  
 **Translation:** 
 
-**[10018.54s] English:** you  
+**[10024.06s] English:** I have it on my phone as well. Of course, it works fine every day. Wow, it works fine! You have to power it off sometimes.  
+**Translation:** Vocabulary: tangent: 旁枝逸出
+
+**[10029.42s] English:** With the crank, no, but there's no tracking; there's nothing like that, uh.  
 **Translation:** 
 
-**[10018.86s] English:** as a quick tangent you mentioned irc is like slack for old people so you still use irc of course yeah  
+**[10036.14s] English:** The biggest issue, to be honest, is that it right now compared to Slack is that it  
+**Translation:** Vocabulary: crank: 摇柄
+
+**[10039.42s] English:** Doesn't have threads, that's annoying. It doesn't have emojis for reactions sometimes.  
 **Translation:** 
 
-**[10024.06s] English:** i have it on my phone as well of course every day works fine wow it works fine you have to power  
-**Translation:** Vocabulary: tangent: 旁白
+**[10045.42s] English:** Yes, v3, but no one does it, and you cannot edit your messages.  
+**Translation:** Vocabulary: cannot: 不能; reactions: 反应; threads: 主题
 
-**[10029.42s] English:** with the crank no but there's no there's no there's no tracking there's nothing like it's uh  
+**[10048.86s] English:** Right, and the rest works perfectly fine. How do you communicate without emojis?  
 **Translation:** 
 
-**[10036.14s] English:** the biggest issue to be honest right compared to slack is that it  
-**Translation:** Vocabulary: crank: 曲柄
-
-**[10039.42s] English:** doesn't have threads that's annoying it doesn't have emojis for reaction sometimes  
+**[10053.58s] English:** Well, that's why I said it's for old people, old people, and we do use emojis with like you.  
 **Translation:** 
 
-**[10045.42s] English:** yes v3 but no one does it and you cannot edit your messages  
-**Translation:** Vocabulary: cannot: 不能
-
-**[10048.86s] English:** right and the rest it works perfectly fine how do you communicate without emojis  
+**[10059.02s] English:** Know the columns, and yeah, exactly. So, anyway, you're communicating on IRC. What were you even talking about?  
 **Translation:** 
 
-**[10053.58s] English:** well that's that's why i said it's for old people old people and we do we do emojis with like you  
+**[10066.70s] English:** Yeah, we were talking about death threats, and but having people thanking you, and sometimes  
 **Translation:** 
 
-**[10059.02s] English:** know the columns and yeah exactly so anyway you're communicating irc what were you even talking about  
+**[10071.58s] English:** They got people who send me a message, and oh, thank you for VLC! I always answer because I want to.  
 **Translation:** 
 
-**[10066.70s] English:** yeah we were talking about death threats and but having people thanking you and sometimes  
-**Translation:** 
-
-**[10071.58s] English:** they got people who send me a message and oh thank you for vlc and i always answer because i want to  
-**Translation:** 
-
-**[10078.86s] English:** to to validate  
+**[10078.86s] English:** To validate  
 **Translation:** Vocabulary: validate: 确认有效
 
-**[10080.00s] English:** It's the fact that you need to thank  
+**[10080.00s] English:** It's the fact that you need to thank.  
 **Translation:** 
 
-**[10081.40s] English:** the open source community.  
+**[10081.40s] English:** The open-source community.  
 **Translation:** 
 
 **[10083.56s] English:** Yeah, please, everybody listening to this,  
 **Translation:** 
 
-**[10086.10s] English:** celebrate  
+**[10086.10s] English:** Celebrate!  
 **Translation:** 
 
-**[10086.58s] English:** FFmpegs, celebrate  
+**[10086.58s] English:** FFmpeg, celebrate!  
 **Translation:** 
 
-**[10089.78s] English:** VLC, celebrate all the incredible  
+**[10089.78s] English:** VLC, celebrate all the incredible!  
 **Translation:** 
 
-**[10091.88s] English:** open source projects,  
+**[10091.88s] English:** Open-source projects,  
 **Translation:** 
 
-**[10094.00s] English:** Linux, everything. There's so many.  
+**[10094.00s] English:** Linux: everything. There are so many.  
 **Translation:** 
 
-**[10096.30s] English:** There's so many. And you know what?  
+**[10096.30s] English:** There are so many. And you know what?  
 **Translation:** 
 
 **[10098.00s] English:** I mean, even outside of open source,  
 **Translation:** 
 
-**[10100.34s] English:** just celebrate companies  
+**[10100.34s] English:** Just celebrate companies!  
 **Translation:** 
 
-**[10101.72s] English:** that create software  
+**[10101.72s] English:** That creates software.  
 **Translation:** 
 
-**[10103.76s] English:** that you use a lot  
+**[10103.76s] English:** That you use a lot.  
 **Translation:** 
 
-**[10105.84s] English:** and love. Celebrate human endeavor.  
+**[10105.84s] English:** And love. Celebrate human endeavor.  
 **Translation:** Vocabulary: endeavor: 努力
 
 **[10108.00s] English:** Celebrate the human effort to not just  
 **Translation:** 
 
-**[10110.00s] English:** build something that's okay.  
+**[10110.00s] English:** Build something that's okay.  
 **Translation:** 
 
 **[10111.62s] English:** Build something that is damn good.  
@@ -7879,37 +7880,37 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10114.26s] English:** Yeah, this is important, right? Because  
 **Translation:** 
 
-**[10115.62s] English:** as we said, we work for  
+**[10115.62s] English:** As we said, we work for  
 **Translation:** 
 
-**[10117.60s] English:** technology. We do something  
+**[10117.60s] English:** Technology. We do something.  
 **Translation:** 
 
-**[10120.10s] English:** very complex for  
+**[10120.10s] English:** Very complex for  
 **Translation:** 
 
-**[10121.36s] English:** the normal people.  
+**[10121.36s] English:** The normal people.  
 **Translation:** 
 
-**[10124.30s] English:** We want our excellence  
+**[10124.30s] English:** We want our excellence.  
 **Translation:** 
 
-**[10126.30s] English:** in tech to be useful for  
+**[10126.30s] English:** In tech, to be useful for,...  
 **Translation:** 
 
-**[10127.92s] English:** everyone. And this is why  
+**[10127.92s] English:** Everyone, and this is why.  
 **Translation:** 
 
-**[10129.66s] English:** we work. This is why  
+**[10129.66s] English:** We work. This is why.  
 **Translation:** 
 
-**[10132.14s] English:** I wake up in the morning. It's because I want  
+**[10132.14s] English:** I wake up in the morning. It's because I want to.  
 **Translation:** 
 
-**[10133.88s] English:** people to use our stuff  
+**[10133.88s] English:** People to use our stuff.  
 **Translation:** 
 
-**[10135.20s] English:** because it's making everyone's life easier.  
+**[10135.20s] English:** Because it's making everyone's life easier.  
 **Translation:** 
 
 **[10138.04s] English:** I want to solve our problems.  
@@ -7924,22 +7925,22 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10143.04s] English:** We're engineers. We love to build things.  
 **Translation:** 
 
-**[10144.76s] English:** When I was young, very early, I knew I wanted  
+**[10144.76s] English:** When I was young, very early, I knew I wanted.  
 **Translation:** 
 
-**[10147.02s] English:** to be an engineer. I wanted to  
+**[10147.02s] English:** To be an engineer, I wanted to.  
 **Translation:** 
 
-**[10148.96s] English:** do cars, right? Maybe at some point, I will  
+**[10148.96s] English:** Do cars, right? Maybe at some point, I will.  
 **Translation:** 
 
-**[10150.98s] English:** go back to cars, right?  
+**[10150.98s] English:** Go back to cars, right?  
 **Translation:** 
 
-**[10153.54s] English:** We want to  
+**[10153.54s] English:** We want to.  
 **Translation:** 
 
-**[10155.12s] English:** build things that are cool and useful.  
+**[10155.12s] English:** Build things that are cool and useful.  
 **Translation:** 
 
 **[10157.42s] English:** And they need to be challenging, right?  
@@ -7948,25 +7949,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10159.20s] English:** Because you want your brain to turn on.  
 **Translation:** 
 
-**[10161.42s] English:** When did the two of you first  
+**[10161.42s] English:** When did the two of you first?  
 **Translation:** 
 
-**[10162.66s] English:** fall in love with programming, with  
+**[10162.66s] English:** Fall in love with programming, with  
 **Translation:** 
 
-**[10164.64s] English:** building, with engineering?  
+**[10164.64s] English:** Building, with engineering?  
 **Translation:** 
 
-**[10166.66s] English:** When is the first time you programmed, Kieran?  
+**[10166.66s] English:** When was the first time you programmed, Kieran?  
 **Translation:** 
 
 **[10168.58s] English:** Microsoft QBasic.  
 **Translation:** 
 
-**[10170.66s] English:** I was on Windows 3.1 and Windows  
+**[10170.66s] English:** I was on Windows 3.1 and Windows.  
 **Translation:** 
 
-**[10172.74s] English:** 95, Microsoft QBasic.  
+**[10172.74s] English:** Microsoft QBasic.  
 **Translation:** 
 
 **[10174.80s] English:** Wow. What did you build?  
@@ -7978,49 +7979,49 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10178.30s] English:** Just counting loops, like 10, 20, 30, 40.  
 **Translation:** 
 
-**[10180.78s] English:** Nice. Then I thought I could do  
+**[10180.78s] English:** Nice. Then I thought I could do.  
 **Translation:** 
 
-**[10182.48s] English:** everything after that. I jumped from doing  
+**[10182.48s] English:** Everything after that, I jumped from doing  
 **Translation:** 
 
-**[10184.48s] English:** that to, I want to create a  
+**[10184.48s] English:** That's great! I want to create a  
 **Translation:** 
 
-**[10186.36s] English:** soccer, no, a football, soccer video game.  
+**[10186.36s] English:** Soccer? No, a football. Soccer video game.  
 **Translation:** 
 
 **[10188.32s] English:** And I drew everything out.  
 **Translation:** 
 
-**[10190.28s] English:** I didn't quite grasp that actually  
+**[10190.28s] English:** I didn't quite grasp that, actually.  
 **Translation:** 
 
-**[10192.76s] English:** I didn't grasp that actually it's a massive piece of work to  
+**[10192.76s] English:** I didn't realize that it's actually a massive piece of work to.  
 **Translation:** 
 
-**[10196.38s] English:** jump from basic and drawing some pictures  
+**[10196.38s] English:** Jump from basic and draw some pictures.  
 **Translation:** 
 
-**[10198.34s] English:** to a video game, but there we go.  
+**[10198.34s] English:** To a video game, but there we go.  
 **Translation:** 
 
-**[10200.00s] English:** I think I did also Basics and then Turbo Pascal when I was, yeah, end of elementary school.  
+**[10200.00s] English:** I think I also learned the basics and then Turbo Pascal when I was, yeah, at the end of elementary school.  
 **Translation:** 
 
-**[10211.30s] English:** But mostly the first time I actually did some serious programming was the first year of, you call that middle school when you're 11?  
-**Translation:** Vocabulary: pascal: 帕斯卡; turbo: turbo
+**[10211.30s] English:** But mostly, the first time I actually did some serious programming was in the first year of middle school when you're 11, right?  
+**Translation:** Vocabulary: pascal: 帕斯卡; turbo: Turbo
 
-**[10221.92s] English:** I lived in Italy for a year in Florence and it was an amazing year.  
+**[10221.92s] English:** I lived in Italy for a year in Florence, and it was an amazing year.  
 **Translation:** 
 
-**[10228.12s] English:** And, like, the math teacher told us to work in a programming language called Logo, where you had a turtle that was designing things on the screen and you would turn left and right.  
+**[10228.12s] English:** And, like, the math teacher told us to work in a programming language called Logo, where you had a turtle that was designing things on the screen, and you would turn left and right.  
 **Translation:** Vocabulary: florence: 佛罗伦萨
 
 **[10240.22s] English:** And in the end, we used that to do very complex programming because, of course, you could do things.  
 **Translation:** 
 
-**[10245.76s] English:** And this changed, like, as I knew I wanted to do things with computers and program.  
+**[10245.76s] English:** And this changed, like, as I knew I wanted to do things with computers and programming.  
 **Translation:** 
 
 **[10251.34s] English:** I don't think we quite talked about x264 properly.  
@@ -8035,307 +8036,307 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10257.52s] English:** Sure.  
 **Translation:** 
 
-**[10257.66s] English:** Let's backtrack a little bit to x264, this thing that powers basically all of the video on the Internet.  
+**[10257.66s] English:** Let's backtrack a little bit to x264, which is the thing that powers basically all of the video on the Internet.  
 **Translation:** 
 
-**[10264.44s] English:** So can you tell me the story of x264?  
+**[10264.44s] English:** So, can you tell me the story of x264?  
 **Translation:** Vocabulary: backtrack: 回顾
 
 **[10269.44s] English:** And, Kieran, you're actually a contributor to x264.  
 **Translation:** 
 
-**[10272.20s] English:** So x264 is a video encoder for the H.264 video standard.  
+**[10272.20s] English:** So, x264 is a video encoder for the H.264 video standard.  
 **Translation:** Vocabulary: contributor: 贡献者
 
-**[10277.42s] English:** It dominates Internet video, but also other areas such as Blu-ray discs.  
+**[10277.42s] English:** It dominates internet video, but also other areas such as Blu-ray discs.  
 **Translation:** 
 
-**[10281.18s] English:** And Blu-ray discs are interesting because the people that make them really want the highest quality.  
-**Translation:** Vocabulary: dominates: 占据主导
+**[10281.18s] English:** And Blu-ray discs are interesting because the people who make them really want the highest quality.  
+**Translation:** Vocabulary: dominates: 占据主导地位
 
-**[10285.66s] English:** And there's some really cool high-end films.  
+**[10285.66s] English:** And there are some really cool, high-end films.  
 **Translation:** 
 
-**[10287.66s] English:** They've been encoded broadcasting and all sorts of other areas.  
-**Translation:** Vocabulary: broadcasting: 广播; encoded: 编码
+**[10287.66s] English:** They've been encoded for broadcasting and all sorts of other areas.  
+**Translation:** Vocabulary: broadcasting: 电视台播送; encoded: 编码过
 
-**[10291.28s] English:** x264 was a big step change because it kind of happened at the right time as well.  
+**[10291.28s] English:** X264 was a big step change because it kind of happened at the right time, as well.  
 **Translation:** 
 
 **[10296.84s] English:** A lot of the development took place when HD video was coming out.  
 **Translation:** 
 
-**[10300.90s] English:** Intel Core 2 and Nihil MCPUs were getting fast.  
+**[10300.90s] English:** Intel Core 2 and AMD CPUs were getting fast.  
 **Translation:** 
 
 **[10303.60s] English:** You could do real-time video.  
 **Translation:** 
 
-**[10305.20s] English:** But the most important thing was a key sort of focus on visual metrics.  
+**[10305.20s] English:** But the most important thing was a key focus on visual metrics.  
 **Translation:** 
 
-**[10312.92s] English:** So industry and academia for 20 years before was obsessed with.  
-**Translation:** Vocabulary: academia: 学术界
+**[10312.92s] English:** So, for 20 years before, industry and academia were obsessed with.  
+**Translation:** Vocabulary: academia: 学术界; metrics: 指标; obsessed: 痴迷于
 
-**[10317.66s] English:** Mathematical metrics.  
+**[10317.66s] English:** Mathematical Metrics.  
 **Translation:** 
 
-**[10320.00s] English:** known as peak signal to noise ratio so mean squared error logarithm of mean squared error  
+**[10320.00s] English:** Known as Peak Signal-to-Noise Ratio, so Mean Squared Error (logarithm of Mean Squared Error).  
 **Translation:** Vocabulary: logarithm: 对数; mathematical: 数学的
 
-**[10324.28s] English:** and that led to tons of issues because mean squared error um leads to blurring because you  
+**[10324.28s] English:** And that led to tons of issues because mean squared error, um, leads to blurring because you  
 **Translation:** 
 
-**[10329.30s] English:** actually want to you want to minimize you want to add a little bit of error to everything  
+**[10329.30s] English:** Actually, you want to minimize errors in everything.  
 **Translation:** Vocabulary: blurring: 模糊
 
-**[10332.20s] English:** to reduce the mean squared error as opposed to having a big error and that led to loads and  
+**[10332.20s] English:** To reduce the mean squared error, as opposed to having a big error, and that led to lots of improvements.  
 **Translation:** 
 
-**[10336.06s] English:** loads of blurring so but hobbyists bucked that trend it was for their own personal videos mostly  
+**[10336.06s] English:** Loads of blurring, so but, hobbyists bucked that trend; it was for their own personal videos, mostly.  
 **Translation:** Vocabulary: bucked: 违背
 
-**[10340.76s] English:** anime so there were two there were two things they did differently and there's a big iterative  
+**[10340.76s] English:** Anime: So, there were two things they did differently, and there's a big iterative.  
 **Translation:** 
 
-**[10345.54s] English:** feedback loop with the community they did some stuff differently um two two big things  
-**Translation:** Vocabulary: anime: 动画; iterative: 迭代
+**[10345.54s] English:** Feedback loop with the community: they did some stuff differently. Two big things:  
+**Translation:** Vocabulary: anime: 日本动画; iterative: 迭代的
 
-**[10351.34s] English:** psychovisual rate distortion so using block energy trying to compensate for human perception when  
+**[10351.34s] English:** Psychovisual Rate Distortion: So, using block energy to try to compensate for human perception when  
 **Translation:** 
 
-**[10357.46s] English:** making decisions so the psychovisual distortion that's the critical yeah thing that's the thing  
-**Translation:** Vocabulary: compensate: 补偿; distortion: 失真; psychovisual: 心理视觉
-
-**[10364.06s] English:** i mean it's kind of revolutionary like that we can like rethink don't don't make it like this  
+**[10357.46s] English:** Making decisions is so crucial because the psychovisual distortion is the key thing, yeah.  
 **Translation:** 
 
-**[10371.98s] English:** kind of theoretic thing of compression make it all  
-**Translation:** Vocabulary: compression: 压缩; theoretic: 理论
-
-**[10375.52s] English:** about being pleasing visually to the eye yeah yeah so compressing in a way that loses the least  
+**[10364.06s] English:** I mean, it's kind of revolutionary, like we can rethink and not make it like this.  
 **Translation:** 
 
-**[10381.42s] English:** amount of information for the stuff that matters for us humans yes exactly as opposed to what  
-**Translation:** Vocabulary: compressing: 压缩
+**[10371.98s] English:** Kind of a theoretical thing about compression, make it all clear.  
+**Translation:** Vocabulary: compression: 压缩; revolutionary: 革命性的
 
-**[10386.42s] English:** industry some parts of industry are still obsessed by this which is mathematical numbers that don't  
+**[10375.52s] English:** About being pleasing visually to the eye, yeah, yeah, so compressing in a way that loses the least.  
 **Translation:** 
 
-**[10391.42s] English:** look um good in reality and then adaptive quantization was the other big one where  
-**Translation:** Vocabulary: adaptive: 自适应; quantization: 量化
+**[10381.42s] English:** Amount of information for the stuff that matters for us humans, yes, exactly—as opposed to what?  
+**Translation:** Vocabulary: compressing: 压缩; visually: 视觉上
 
-**[10395.70s] English:** it was biasing bits against um complex areas and redistributing them to less complex areas  
+**[10386.42s] English:** Industry, some parts of industry are still obsessed with these mathematical numbers that don't  
 **Translation:** 
 
-**[10403.02s] English:** like grass grass has some  
-**Translation:** Vocabulary: redistributing: 重新分配
+**[10391.42s] English:** Look, um, good in reality, and then adaptive quantization was the other big one where  
+**Translation:** Vocabulary: adaptive: 自适应的; quantization: 量化
 
-**[10405.52s] English:** high frequencies but it's kind of it's less complex overall compared to more complicated  
+**[10395.70s] English:** It was biasing bits against more complex areas and redistributing them to less complex areas.  
 **Translation:** 
 
-**[10409.98s] English:** things and this came around by um park joy so park joy was really the canonical sample that was  
-**Translation:** Vocabulary: canonical: 典范样本
+**[10403.02s] English:** Like grass, grass has some.  
+**Translation:** Vocabulary: biasing: 偏向; redistributing: 重新分配
 
-**[10416.18s] English:** it's the running around in the park yeah so this guy was really the um  
+**[10405.52s] English:** High frequencies, but it's kind of less complex overall compared to more complicated.  
 **Translation:** 
 
-**[10420.86s] English:** so this this was created by swedish television in um the beginning of hd and it was done on film  
+**[10409.98s] English:** Things, and this came around by way of Park Joy. So, Park Joy was really the canonical sample that was.  
+**Translation:** Vocabulary: canonical: 标准样本
+
+**[10416.18s] English:** It's the running around in the park, yeah. So this guy was really the um  
+**Translation:** 
+
+**[10420.86s] English:** So, this was created by Swedish television at the beginning of HD, and it was done on film.  
 **Translation:** Vocabulary: swedish: 瑞典的
 
-**[10428.24s] English:** and it was no expense spared in terms of production quality and it was given away for free this was  
+**[10428.24s] English:** And it was no expense spared in terms of production quality, and it was given away for free; this was.  
 **Translation:** 
 
-**[10433.70s] English:** really and this is the  
+**[10433.70s] English:** Really, and this is the  
+**Translation:** Vocabulary: spared: 不计成本
+
+**[10435.52s] English:** Sample really shows the difference between the men and the boys, as it has so many challenges with the  
 **Translation:** 
 
-**[10435.52s] English:** sample really that sorts the men from the boys in terms of it has so many challenges with the  
+**[10440.00s] English:** Trees, with the water, with the grass, with the motion—I don't think there's anything else.  
 **Translation:** 
 
-**[10440.00s] English:** trees with the water with the grass with the motion with the i don't think there's there's  
+**[10445.80s] English:** Still, there hasn't been any public test sequence as good as that these days, so for people who are just  
 **Translation:** 
 
-**[10445.80s] English:** still been any any public test sequence as good as that these days so for people who are just  
+**[10452.48s] English:** Listening, we're looking at a bunch of humans running along a river, and as you have the reflection.  
 **Translation:** 
 
-**[10452.48s] English:** listening we're looking at a bunch of humans running along a river as you have the reflection  
+**[10459.12s] English:** A lot of really high-information textures everywhere, on the leaves and the lighting playing.  
 **Translation:** 
 
-**[10459.12s] English:** a lot of really high information textures everywhere the leaves and the lighting playing  
+**[10465.46s] English:** On the leaves, and in all of this, you could show clearly that encoders with high PSNR will blur.  
+**Translation:** Vocabulary: encoders: 编码器; lighting: 照明
+
+**[10471.20s] English:** Everything will blur, everything, and you could see. Actually, I could turn on psychovisual stuff; I could.  
 **Translation:** 
 
-**[10465.46s] English:** on the leaves and all of this you could show clearly that encoders with high psnr will blur  
-**Translation:** Vocabulary: encoders: 编码器
+**[10474.96s] English:** Turn off adaptive quantization, and it would just look so much better, but your metrics and  
+**Translation:** Vocabulary: adaptive: 自适应; metrics: 指标; psychovisual: 心理视觉; quantization: 量化
 
-**[10471.20s] English:** everything will blur everything and you could see actually i could turn on psychovisual stuff i could  
+**[10480.40s] English:** These metrics are, at the time, what were considered so holy, yeah; these are the holy.  
 **Translation:** 
 
-**[10474.96s] English:** turn off adaptive quantization and it would just look so much better but your your metrics and  
+**[10484.70s] English:** Metrics that are untouchable, PSNR is the most important thing. Can you speak to how do you?  
 **Translation:** 
 
-**[10480.40s] English:** these metrics are at the time what at the time were considered so holy yeah these are the holy  
+**[10490.44s] English:** Measure psychovisual stuff, like how pleasing.  
 **Translation:** 
 
-**[10484.70s] English:** metrics that are untouchable psnr is uh the most important thing uh can you speak to how do you  
+**[10495.18s] English:** You can you speak to how you measure psychovisual stuff, like how do you turn  
 **Translation:** 
 
-**[10490.44s] English:** measure psychovisual stuff like how do you turn how pleasing  
+**[10495.44s] English:** A compression is for a human eye into a number—is that even possible? That's what.  
 **Translation:** 
 
-**[10495.18s] English:** you can you speak to how do you measure psychovisual stuff like how do you turn  
-**Translation:** Vocabulary: psychovisual: 心理视觉
+**[10500.62s] English:** Netflix has been trying to do with VMath; they said they've used a machine learning model.  
+**Translation:** Vocabulary: compression: 压缩
 
-**[10495.44s] English:** a compression is for a human eye into a number is that even possible that's what that's what  
+**[10504.28s] English:** That's a more recent thing, but back in the day when x86 was being developed, that's by eye it was by eye.  
 **Translation:** 
 
-**[10500.62s] English:** netflix have been trying to do with vmath they said they've used a machine learning model  
+**[10510.82s] English:** It was developers on their laptops, so it's not like even with big companies with professional setups.  
+**Translation:** Vocabulary: laptops: 便携电脑; setups: 工作环境
+
+**[10515.40s] English:** Screens, or anything like that, is and that was actually one of the goals, which was: I don't think the developers  
 **Translation:** 
 
-**[10504.28s] English:** that's a more recent thing but back in when x86 was being developed that's by eye it was by eye  
+**[10520.22s] English:** At the time, Lauren Merit, in particular, is; I don't want to test this on a 30,000-screen system. I want  
+**Translation:** Vocabulary: lauren: 拉uren; merit: 功绩
+
+**[10525.24s] English:** This is to be a machine learning model, and I don't want to test this on a 30,000-screen setup. I want  
 **Translation:** 
 
-**[10510.82s] English:** it was developers on their laptops so it's not like even with big companies with professional  
+**[10525.42s] English:** This is to be a machine learning model, and I don't want to test this on a 30,000-screen setup. I want  
+**Translation:** Vocabulary: setup: 测试环境
+
+**[10525.44s] English:** Look good on someone's laptop at home, yeah! Brilliant, and there is another sample which is  
 **Translation:** 
 
-**[10515.40s] English:** screens or anything it's and that was actually one of the goals which was i don't the developers  
+**[10530.68s] English:** Um, a sample that is a "planet-killer" sample that I absolutely love, and you were going to see.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
+
+**[10538.60s] English:** Why, right? It's a ton of birds, flying, and the more it goes, the more there are birds.  
 **Translation:** 
 
-**[10520.22s] English:** at the time lauren merit in particular is i don't want to test this on a 30 000 screen it's i want  
+**[10548.36s] English:** And at the end, right? It's almost like you have millions of birds; it's the most complex thing.  
 **Translation:** 
 
-**[10525.24s] English:** this to be a machine learning model and i don't want to test this on a 30 000 screen it's i want  
+**[10555.22s] English:** Ever to encode, right? And if you're watching it on YouTube, you see how bad.  
 **Translation:** 
 
-**[10525.42s] English:** this to be a machine learning model and i don't want to test this on a 30 000 screen it's i want  
-**Translation:** 
-
-**[10525.44s] English:** look good on someone's laptop at home yeah brilliant and there is another sample which is  
-**Translation:** 
-
-**[10530.68s] English:** um a sample that is a planet earth killer sample that i absolutely love and you were going to see  
-**Translation:** 
-
-**[10538.60s] English:** why right um it's a ton of birds right flying and the more it goes the more there are birds  
-**Translation:** 
-
-**[10548.36s] English:** and at the end right it's almost like you have millions of birds it's the most complex thing  
-**Translation:** 
-
-**[10555.22s] English:** ever to encode right and well you're watching it on youtube and you see how bad  
-**Translation:** 
-
-**[10560.00s] English:** the youtube encoding is actually right um and this is like phenomenal to to optimize and get  
+**[10560.00s] English:** The YouTube encoding is actually right, um, and this is like phenomenal to optimize and get.  
 **Translation:** Vocabulary: encode: 编码; encoding: 编码; optimize: 优化; phenomenal: 非凡的
 
-**[10567.92s] English:** um perfect quality in a constant bitrate um there was a lot of optimization mostly by lauren also  
+**[10567.92s] English:** Um, perfect quality in a constant bitrate; there was a lot of optimization, mostly by Lauren, also.  
 **Translation:** 
 
-**[10575.02s] English:** on anime right for a long time anime was very badly encoded because there was a ton of bending  
-**Translation:** Vocabulary: anime: 动画; encoded: 编码; optimization: 优化
+**[10575.02s] English:** On anime, right? For a long time, anime was very badly encoded because there was a ton of bandwidth issues.  
+**Translation:** Vocabulary: anime: 日本动画; bandwidth: 带宽; bitrate: 比特率; encoded: 编码; optimization: 优化
 
-**[10581.44s] English:** right and you see those um those issue and there was a ton of things um so x264 is like and today  
+**[10581.44s] English:** Right, and you see those kinds of issues, and there were tons of them. So, x264 is like, and today,...  
 **Translation:** 
 
-**[10589.70s] English:** it's still the reference to any encoder new encoder av1 av2 vvc hvc everyone compares to  
+**[10589.70s] English:** It's still the reference for any encoder, new ones like AV1, AV2, VVC, and HVC that everyone compares to.  
 **Translation:** 
 
-**[10597.12s] English:** x264 one of my favorite films um cinema paradiso i know the engineer who created the blu-ray and  
+**[10597.12s] English:** X264, one of my favorite films, is "Cinema Paradiso." I know the engineer who created the Blu-ray.  
 **Translation:** 
 
-**[10603.68s] English:** he showed me the comparisons of x264 versus others and uh that's completely different and i think  
-**Translation:** Vocabulary: paradiso: 天堂影院
+**[10603.68s] English:** He showed me the comparisons of x264 versus others, and that's completely different. I think,...  
+**Translation:** Vocabulary: paradiso: 天堂
 
-**[10609.84s] English:** a bunch a bunch of guys in the blu-ray world started using x264 um i think the big one was  
+**[10609.84s] English:** A bunch of guys in the Blu-ray world started using x264, I think the big one was...  
 **Translation:** 
 
-**[10614.86s] English:** chris henderson from warner brothers he did the whole french box set with that's a quite like a  
-**Translation:** Vocabulary: henderson: 亨德森
+**[10614.86s] English:** Chris Henderson from Warner Brothers. He did the whole French box set. That's a pretty impressive feat.  
+**Translation:** Vocabulary: henderson: 亨德森; warner: 华纳
 
-**[10619.22s] English:** thing  
+**[10619.22s] English:** Thing.  
 **Translation:** 
 
-**[10619.70s] English:** a person on the street actually watches and wants to look good and so they kind of took a risk in  
+**[10619.70s] English:** A person on the street actually watches and wants to look good, and so they kind of took a risk in.  
 **Translation:** 
 
-**[10623.92s] English:** their jobs doing that because they're in a big company that big company can buy whatever they  
+**[10623.92s] English:** Their jobs are doing that because they're in a big company, that big company can buy whatever they need.  
 **Translation:** 
 
-**[10627.72s] English:** want and they said no no i want to use this free and open source thing so that things look good for  
+**[10627.72s] English:** Want, and they said, "No, no, I want to use this free and open-source thing so that things look good.  
 **Translation:** 
 
-**[10632.76s] English:** my customers and build the best and to this day i personally still try and avoid watching the most  
+**[10632.76s] English:** My customers, and build the best. To this day, I personally still try and avoid watching the most.  
 **Translation:** 
 
-**[10639.62s] English:** cinematic films on streaming services and buy the physical discs because they look they look good  
+**[10639.62s] English:** Cinematic films on streaming services, and buy the physical discs because they look good.  
 **Translation:** Vocabulary: cinematic: 电影般的
 
-**[10645.36s] English:** without even having to buy an expensive tv i think that's the key thing and x264  
+**[10645.36s] English:** Without even having to buy an expensive TV, I think that's the key thing, and X264.  
 **Translation:** 
 
-**[10649.70s] English:** is yet another example of open source project it was started by laurent emar when he was at the  
+**[10649.70s] English:** Is yet another example of an open-source project. It was started by Laurent Emar when he was at the  
 **Translation:** 
 
-**[10654.68s] English:** ecole centrale paris where vlc was born and then you got a generation of people like lauren like  
+**[10654.68s] English:** Ecole Centrale Paris, where VLC was born, and then you got a generation of people like Lauren, like  
 **Translation:** 
 
-**[10660.04s] English:** jason like mons like uh so many henrik and henrik and this is anton and this is where the assembly  
-**Translation:** Vocabulary: anton: 安东; ecole: 学校; henrik: 亨里克; jason: 杰森; lauren: 劳伦
+**[10660.04s] English:** Jason likes Mons, like so many Henrik and Henrik. And this is Anton, and this is where the assembly.  
+**Translation:** Vocabulary: anton: 安托万; ecole: 学校; henrik: 亨里克; jason: 杰森; lauren: 劳伦
 
-**[10669.16s] English:** thing that we use now on ffm peg david and so on was born right so x264 is like amazing project  
+**[10669.16s] English:** The thing we use now, such as FFmpeg and David, and so on, was born, right? So, X264 is an amazing project.  
 **Translation:** 
 
-**[10674.80s] English:** with people who were really all over the world and i think most of them never met each other  
+**[10674.80s] English:** With people who were really all over the world, and I think most of them never met each other.  
 **Translation:** 
 
-**[10679.70s] English:** but  
+**[10679.70s] English:** But  
 **Translation:** 
 
 **[10680.00s] English:** But all of them, according to Kieran, or a large percentage, love anime.  
+**Translation:** Vocabulary: anime: 动画
+
+**[10685.30s] English:** There are several things I've never gotten into, and one of them is anime.  
 **Translation:** 
 
-**[10685.30s] English:** There's several things I've never got into, and one of them is anime.  
+**[10688.52s] English:** I watch anime so much, especially back then.  
 **Translation:** 
 
-**[10688.52s] English:** I watch anime so much, especially at the time.  
-**Translation:** 
-
-**[10694.28s] English:** Like, at the time, it was like a lot of anime content doesn't exist commercially, right?  
+**[10694.28s] English:** Like, at the time, it was like a lot of anime content didn't exist commercially, right?  
 **Translation:** 
 
 **[10701.10s] English:** We are before Crunchyroll, right?  
-**Translation:** Vocabulary: anime: 动画; crunchyroll: Crunchy卷
+**Translation:** Vocabulary: commercially: 商业化; crunchyroll: crunchyroll
 
-**[10702.62s] English:** So what happens is usually people who love anime, who take some things, some DVDs in Japan, and rip them because there is no commercial offering.  
+**[10702.62s] English:** So, what happens is that usually people who love anime, who take some DVDs from Japan and rip them because there is no commercial offering.  
 **Translation:** 
 
-**[10713.12s] English:** And some of the people who are what we call fan subbers are basically translating themselves to make subtitles, right?  
-**Translation:** Vocabulary: subtitles: 字幕
+**[10713.12s] English:** And some of the people who are what we call fan subbers are basically translating to make subtitles, right?  
+**Translation:** Vocabulary: subbers: 字幕组; subtitles: 字幕; translating: 翻译
 
-**[10720.16s] English:** And at that time, you download completely illegally.  
+**[10720.16s] English:** And at that time, you downloaded it completely illegally.  
 **Translation:** 
 
 **[10723.36s] English:** It was the only way to do that, right?  
 **Translation:** 
 
-**[10725.24s] English:** And so all of that was handcrafted, and it fits the open source community, right?  
+**[10725.24s] English:** And so, all of that was handcrafted, and it fits the open-source community, right?  
 **Translation:** 
 
-**[10730.44s] English:** Because they needed tools to encode, to do.  
+**[10730.44s] English:** Because they needed tools to encode, to do so.  
 **Translation:** Vocabulary: encode: 编码; handcrafted: 手工制作
 
-**[10732.62s] English:** One of the most amazing open source projects for subtitles is called AEG Sub, and it's a subtitle.  
+**[10732.62s] English:** One of the most amazing open-source projects for subtitles is called AEG Sub, and it's a subtitle editor.  
 **Translation:** 
 
-**[10740.88s] English:** It's done for anime, for South Asian and Japanese languages.  
+**[10740.88s] English:** It's done for anime, as well as for South Asian and Japanese languages.  
 **Translation:** Vocabulary: subtitle: 字幕
 
-**[10746.98s] English:** There are weird textures in anime that I don't think you get in real life content.  
+**[10746.98s] English:** There are weird textures in anime that I don't think you get in real-life content.  
 **Translation:** 
 
 **[10752.12s] English:** I think that was a key one, which was optimizing these weird textures that you get, because anime is not done in a normal fashion.  
-**Translation:** Vocabulary: optimizing: 优化
+**Translation:** 
 
-**[10757.52s] English:** Yeah, the way you produce it is not, you mostly produce it like on screens, right?  
+**[10757.52s] English:** Yeah, the way you produce it is not; you mostly produce it like on screens, right?  
 **Translation:** 
 
 **[10762.58s] English:** Yeah.  
@@ -8344,109 +8345,109 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10762.60s] English:** Since a bit of time.  
 **Translation:** 
 
-**[10763.88s] English:** And you have all those gradients, right, in colors, because they are very easy to produce digitally, very complex to produce in real life.  
+**[10763.88s] English:** And you have all those gradients, right, in colors, because they are very easy to produce digitally and very complex to produce in real life.  
 **Translation:** Vocabulary: digitally: 电子地; gradients: 渐变
 
-**[10772.86s] English:** And the subtitles also are very complex, because you need to have often the Japanese, and then you need to have the diacritics, right?  
+**[10772.86s] English:** And the subtitles are also very complex, because you need to have often Japanese, and then you need to have the diacritics, right?  
 **Translation:** 
 
 **[10781.16s] English:** What we call the Uribe, right?  
 **Translation:** Vocabulary: diacritics: 标音符号
 
-**[10782.64s] English:** Which is the Hiragana and the Katakana for the kanji.  
+**[10782.64s] English:** Which is the Hiragana and the Katakana for the kanji?  
 **Translation:** 
 
-**[10785.64s] English:** And then, because of course, so that you have the official subtitling, but you also need the English subtitles or the French subtitles.  
+**[10785.64s] English:** And then, because of course, you need both the official subtitling and the English or French subtitles.  
 **Translation:** Vocabulary: hiragana: 平假名; kanji: 漢字; katakana: 片假名; subtitling: 字幕
 
 **[10792.56s] English:** Because you want to learn that, right?  
 **Translation:** 
 
-**[10794.78s] English:** And there is so many things crazy on subtitles.  
+**[10794.78s] English:** And there are so many crazy things in the subtitles.  
+**Translation:** Vocabulary: subtitles: 字幕
+
+**[10797.90s] English:** And we had some crazy samples on subtitles.  
 **Translation:** 
 
-**[10797.90s] English:** And we had like crazy samples on subtitles.  
+**[10800.00s] English:** Titles that we've seen all around, so, um, this is an important part of the culture, but also because.  
 **Translation:** 
 
-**[10800.00s] English:** titles that we've seen all around so um this is an important part of the culture but also because  
+**[10807.38s] English:** There was no official offering, and there was no way of doing that. Can you speak to the difference?  
 **Translation:** 
 
-**[10807.38s] English:** there was no official offering there was no way of doing that uh can you speak to the difference  
+**[10813.08s] English:** In H.264 and AV1, and then X264 and David: this is a big step. Can you help people understand?  
 **Translation:** 
 
-**[10813.08s] English:** in h264 and av1 and then x264 and david this is this big step can you help people understand  
+**[10821.78s] English:** Are some of the streaming sites moving more towards that direction with AV1? Let's be honest.  
 **Translation:** 
 
-**[10821.78s] English:** are some of the streaming sites moving more towards that direction of av1 let's be honest  
-**Translation:** 
-
-**[10827.58s] English:** all of those codecs since mpeg2 video are the same concepts the same concept about inverse  
+**[10827.58s] English:** All of those codecs, since MPEG-2 video, are based on the same concepts—the same concept about inverse.  
 **Translation:** Vocabulary: inverse: 相反的
 
-**[10838.12s] English:** transform about intra prediction motion composite entropy coding all of them however each generation  
+**[10838.12s] English:** Transforming about intra-prediction, motion compensation, and entropy coding—all of them, however, each generation.  
 **Translation:** 
 
-**[10845.64s] English:** gives you a bump between 25 and 50 percent more compression for the same quality  
-**Translation:** Vocabulary: composite: 合成; compression: 压缩; entropy: 熵; intra: 内间
+**[10845.64s] English:** Gives you a bump between 25 and 50 percent more compression for the same quality.  
+**Translation:** Vocabulary: compression: 压缩; entropy: 熵
 
-**[10853.72s] English:** um and so you had the mpeg2 you had the  
+**[10853.72s] English:** Um, and so you had MPEG-2, you had the  
 **Translation:** 
 
-**[10857.58s] English:** devics area you have h264 which was like changing right h264 improved so much and then  
+**[10857.58s] English:** Devices, area: You have H.264, which was like a game changer. H.264 improved so much, and then  
 **Translation:** 
 
-**[10865.22s] English:** you had more right you had hevc um you had vp9 at the same time of hevc vp9 is a bit similar to  
+**[10865.22s] English:** You had both HEVC and VP9 at the same time. VP9 is a bit similar to, but different from, HEVC.  
 **Translation:** 
 
-**[10873.54s] English:** hevc in terms of quality compression but it's royalty free because in multimedia there is ton  
+**[10873.54s] English:** HEVC, in terms of quality and compression, but it's royalty-free, because in multimedia, there is a ton.  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[10879.72s] English:** of patents and the licensing after h264 became out of hand right and could cost hundreds of  
+**[10879.72s] English:** Of patents and the licensing after H.264 became out of hand, right, and could cost hundreds of.  
 **Translation:** 
 
-**[10886.42s] English:** millions of dollars per year  
+**[10886.42s] English:** Millions of dollars per year.  
 **Translation:** 
 
-**[10887.58s] English:** so it made no sense so google did this vp9 and the alliance for open media did this new codec called  
+**[10887.58s] English:** So, it made no sense. Google did this with VP9, and the Alliance for Open Media did this new codec called  
 **Translation:** 
 
-**[10894.24s] English:** av1 um so you can imagine that av1 saves between 40 and 60 percent less bandwidth than h264 for  
+**[10894.24s] English:** AV1, um, so you can imagine that AV1 saves between 40 and 60 percent less bandwidth than H.264 for.  
 **Translation:** Vocabulary: bandwidth: 带宽
 
-**[10905.40s] English:** for the same quality visual quality at a given bit rate at a given bit rate right so that's really  
+**[10905.40s] English:** For the same quality of visual quality at a given bit rate, right? So that's really  
 **Translation:** 
 
-**[10911.34s] English:** like you increase the quality either you you set the bit rate and you increase the quality or you  
+**[10911.34s] English:** Like, you can increase the quality either by setting the bit rate and increasing it, or you  
 **Translation:** 
 
-**[10917.58s] English:** increase your bit rate but because now you move from  
+**[10917.58s] English:** Increase your bit rate, but because now you move from  
 **Translation:** 
 
-**[10920.00s] English:** from SD to HD, and HD to 4K, and 4K to 4K HDR,  
+**[10920.00s] English:** From SD to HD, and HD to 4K, and 4K to 4K HDR,  
 **Translation:** 
 
-**[10925.48s] English:** like, you're increasing the size by, like, two, factor two, three, four, right?  
+**[10925.48s] English:** Like, you're increasing the size by, like, a factor of two, three, four, right?  
 **Translation:** 
 
-**[10930.62s] English:** So you need to have better compression to keep it in terms of something that is manageable.  
+**[10930.62s] English:** So, you need to have better compression to keep it in terms of something that is manageable.  
+**Translation:** Vocabulary: compression: 压缩
+
+**[10936.88s] English:** It's more coding tools, more bigger blocks.  
 **Translation:** 
 
-**[10936.88s] English:** It's more coding tools, more bigger blocks,  
-**Translation:** 
-
-**[10940.08s] English:** lots more sub-partitions in each block, it's just exponentially more complex.  
-**Translation:** Vocabulary: exponentially: 成倍地
+**[10940.08s] English:** Lots more sub-partitions in each block; it's just exponentially more complex.  
+**Translation:** Vocabulary: exponentially: 成指数地
 
 **[10943.46s] English:** It's more complex because the encoder needs to search more possibilities, right?  
 **Translation:** 
 
-**[10949.16s] English:** So, for example, one of the things that is easy to understand  
+**[10949.16s] English:** So, for example, one of the things that is easy to understand.  
 **Translation:** 
 
-**[10952.68s] English:** is to predict a block, a color block to another, you have directions, right?  
+**[10952.68s] English:** Is it to predict a block, a color block, to another? You have directions, right?  
 **Translation:** 
 
-**[10958.54s] English:** So you can go left, right, bottom, up, and then in terms of, like, the other quadrants, right?  
+**[10958.54s] English:** So, you can go left, right, bottom, up, and then, in terms of the other quadrants, right?  
 **Translation:** Vocabulary: quadrants: 四个象限
 
 **[10965.42s] English:** What I call north, east, northwest, and so on, right?  
@@ -8455,28 +8456,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[10968.66s] English:** But that's eight directions.  
 **Translation:** 
 
-**[10970.04s] English:** Then you can do more direction.  
+**[10970.04s] English:** Then you can do more directions.  
 **Translation:** 
 
 **[10971.26s] English:** You can do 16, or 69, or 128, right?  
 **Translation:** 
 
-**[10974.92s] English:** You can, and every time your encoder is going to spend more time to see,  
+**[10974.92s] English:** You can; and every time your encoder will spend more time to see,  
 **Translation:** 
 
-**[10979.16s] English:** well, this block is exactly this one, and those type of tools that you can bring,  
+**[10979.16s] English:** Well, this block is exactly this one, and those types of tools that you can bring,  
 **Translation:** 
 
-**[10984.90s] English:** and the encoder needs to check which of the tools are going to compress you better.  
+**[10984.90s] English:** And the encoder needs to check which of the tools are going to compress them better.  
 **Translation:** 
 
-**[10990.00s] English:** And so I guess that AV1 encoding is two order of magnitudes more than H.264  
-**Translation:** Vocabulary: compress: 压缩; encoding: 编码; magnitudes: 数量级
+**[10990.00s] English:** And so, I guess that AV1 encoding is two orders of magnitude more efficient than H.264.  
+**Translation:** Vocabulary: compress: 压缩; encoding: 编码
 
-**[10997.12s] English:** in terms of CPU cycle, right?  
+**[10997.12s] English:** In terms of CPU cycles, right?  
 **Translation:** 
 
-**[10999.56s] English:** Order of magnitudes, right?  
+**[10999.56s] English:** Orders of magnitude, right?  
 **Translation:** 
 
 **[11001.44s] English:** And as we discussed, CPUs are not getting faster.  
@@ -8488,184 +8489,184 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11005.58s] English:** But also, it's the fact that you encode once,  
 **Translation:** 
 
-**[11008.18s] English:** and you have hundreds of cores.  
+**[11008.18s] English:** And you have hundreds of cores.  
 **Translation:** Vocabulary: encode: 编码
 
 **[11009.16s] English:** You have millions of users, right?  
 **Translation:** 
 
-**[11010.74s] English:** So, for example, YouTube, a very good example.  
+**[11010.74s] English:** So, for example, YouTube—a very good example.  
 **Translation:** 
 
-**[11013.38s] English:** YouTube encodes almost everything in H.264,  
+**[11013.38s] English:** YouTube encodes almost everything in H.264.  
 **Translation:** 
 
-**[11016.26s] English:** but the popular video gets re-encoded in AV1  
+**[11016.26s] English:** But the popular video gets re-encoded in AV1.  
+**Translation:** Vocabulary: encodes: 编码
+
+**[11019.74s] English:** Because it costs more, of course, to encode.  
 **Translation:** 
 
-**[11019.74s] English:** because it costs more, of course, to encode,  
+**[11023.40s] English:** But you encode it once, and you send that to millions, right?  
 **Translation:** 
 
-**[11023.40s] English:** but you encode once, and you send that to millions, right?  
+**[11026.08s] English:** So, it's a trade-off between encoding time and complexity.  
 **Translation:** 
 
-**[11026.08s] English:** So it's a trade-off between encoding time and complexity  
+**[11029.96s] English:** And CPU usage on the server side and on the client side.  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[11034.22s] English:** Because, at the end of the day, if you're distributing a video,...  
 **Translation:** 
 
-**[11029.96s] English:** and CPU usage on the server side and on the client side  
+**[11037.42s] English:** To hundreds of thousands of people,  
+**Translation:** Vocabulary: distributing: 分发
+
+**[11039.16s] English:** And the size is...  
 **Translation:** 
 
-**[11034.22s] English:** because at the end, if you're distributing a video  
+**[11040.00s] English:** Half of the others, then it's better. It's better for your battery; it's better for your modem.  
 **Translation:** 
 
-**[11037.42s] English:** to hundreds of thousands of people,  
+**[11045.18s] English:** Etc., etc., so we can lay out, let's say, the top five codec-container combos would be AVI, MP4, WebM, MKV, and FLV.  
 **Translation:** 
 
-**[11039.16s] English:** and the size is...  
+**[11055.40s] English:** Inside MP4 containers (AV1), inside MP4, WebM containers, ProRes for non-linear editing.  
+**Translation:** Vocabulary: combos: 组合; editing: 编辑
+
+**[11066.26s] English:** Inside MOV containers, so for people who don't know, I guess Pro Res is Apple's codec for editing.  
 **Translation:** 
 
-**[11040.00s] English:** half of the other then it's better it's better for your battery is better for your modem  
+**[11074.30s] English:** Originally, it is designed for Final Cut Pro and is intended to be fast to decode and fast to seek, because an editor.  
 **Translation:** 
 
-**[11045.18s] English:** etc etc so we can lay out let's say the top five codec container combos would be asia 64  
+**[11079.90s] English:** Will need to move very quickly, so it's a different use case from the distribution element. There's no  
 **Translation:** 
 
-**[11055.40s] English:** inside mp4 containers av1 inside mp4 webm containers pro res for non-linear editing  
-**Translation:** Vocabulary: combos: 组合
+**[11085.70s] English:** Or, for very minimal, almost no temporal compression; there's none in progress, so you can cut freely.  
+**Translation:** Vocabulary: compression: 压缩; minimal: 最少; temporal: 时间
 
-**[11066.26s] English:** inside mov containers so for people who don't know i guess pro res is apple's codec for editing  
+**[11091.24s] English:** You can do cuts; this is what we call "intra-only" codecs, right? So I'm  
 **Translation:** 
 
-**[11074.30s] English:** originally for final cut pro and it's designed to be fast to decode fast to seek because an editor  
+**[11096.26s] English:** Going to explain quickly what IPB frames are, yes. So, iframes often refer to keyframes, but...  
+**Translation:** Vocabulary: iframes: 内嵌框架; keyframes: 关键帧
+
+**[11105.22s] English:** Is complete, frames it's like an image; it's a JPEG, right? You have, you can start, and see everything.  
 **Translation:** 
 
-**[11079.90s] English:** will need to move very quickly so it's a different use case to the distribution element there's no  
+**[11111.72s] English:** Right, um, and then you can have the next image as a P-frame, which is a predicted frame, so you take  
 **Translation:** 
 
-**[11085.70s] English:** or very minimal uh temporal compression there's none there's none in progress so you can cut so  
-**Translation:** Vocabulary: compression: 压缩; temporal: 时间
-
-**[11091.24s] English:** you can do cuts this is what we call intra only codecs right so i'm  
+**[11119.96s] English:** Some part of the previous image said, "Well, I need blocks 5, 7, and 42.  
 **Translation:** 
 
-**[11096.26s] English:** going to explain quickly what is ipb frames yes um so iframes often keyframes but  
-**Translation:** Vocabulary: intra: 内部编码; keyframes: 关键帧
-
-**[11105.22s] English:** is complete frames it's like an image it's a jpeg right you have you can start you see everything  
+**[11124.90s] English:** And you?  
 **Translation:** 
 
-**[11111.72s] English:** right um and then you the next image can be a p frame which is a predicted frame so you take  
+**[11126.26s] English:** You replace it, and then you just give the extra information, right? But that means that in order to...  
 **Translation:** 
 
-**[11119.96s] English:** some part of the previous image saying well i need the block 5 and 7 and 42  
+**[11131.04s] English:** Decode this P-frame, you need to have access to previous I-frame, right, and then of course you  
 **Translation:** 
 
-**[11124.90s] English:** and you  
+**[11136.66s] English:** Have a more complex one, which are B-frames, which are B-predicted UM frames, which can be dependent on  
 **Translation:** 
 
-**[11126.26s] English:** you replace it and then you just give the extra information right but that means that in order to  
+**[11143.98s] English:** Different types of frames, some in the past, some in the future, um, and so Pro Res is an intra-only.  
 **Translation:** 
 
-**[11131.04s] English:** decode this p frame you need to have access to previous i frame right and then of course you  
+**[11152.12s] English:** Codec for the people who can see this is a very good one, right? So I  
 **Translation:** 
 
-**[11136.66s] English:** have more complex one which are b frames which are b predicted um frames which can be depend on  
+**[11156.26s] English:** Think iFrames are complete frames, um, P-frame basic.  
 **Translation:** 
 
-**[11143.98s] English:** different type of frames some in the past some in the future um and so pro res is an intra only  
+**[11160.00s] English:** Uh, depends only on iframes, and B-frames can depend on those in front, and this GOP group of pictures.  
 **Translation:** 
 
-**[11152.12s] English:** codec for the people who can see this is a very good one right so i  
+**[11166.96s] English:** I think the default for actually FFmpeg for issue 64 is, like, 250 frames, something like this, yes.  
 **Translation:** 
 
-**[11156.26s] English:** think iframes are complete frames um uh p frame basic  
+**[11179.36s] English:** And to me, it's just like magic — you can predict it, and you can have a complete frame every time.  
 **Translation:** 
 
-**[11160.00s] English:** uh depend only on iframe and b frames can depend on in front and this uh gop group of pictures  
+**[11185.96s] English:** Several seconds—that means several seconds—and then you could still have this chain.  
 **Translation:** 
 
-**[11166.96s] English:** i think the default for actually ffmpeg for issue 64 is uh like 250 frames something like this yes  
+**[11191.54s] English:** Of predictions you make, and the fact that you can; the fact that somebody like me can use.  
 **Translation:** 
 
-**[11179.36s] English:** and to me it's just it's like magic like you can predict that you can have a complete frame every  
-**Translation:** 
-
-**[11185.96s] English:** several seconds that means several seconds and then you could still you could have this chain  
-**Translation:** 
-
-**[11191.54s] English:** of predictions you make and the fact that you can the fact that somebody like me can can use  
-**Translation:** 
-
-**[11197.26s] English:** ffmpeg to compress something and not notice that the result still plays back smoothly  
+**[11197.26s] English:** FFmpeg to compress something, and not notice that the result still plays back smoothly.  
 **Translation:** Vocabulary: compress: 压缩
 
-**[11202.12s] English:** it's like magic you can even have and we use that in terms on kyber is what we call intra refresh  
+**[11202.12s] English:** It's like magic; you can even have, and we use that in terms of Kyber, which is what we call intra-refresh.  
 **Translation:** 
 
-**[11210.00s] English:** where basically it's there is no iframe you have no if you have one at the beginning  
+**[11210.00s] English:** Where basically, there is no iframe; you have none at the beginning.  
 **Translation:** 
 
-**[11215.94s] English:** and you never send an iframe how does that work what is it you build up an iframe gradually  
+**[11215.94s] English:** And you never send an iframe. How does that work? What is it you build up an iframe gradually?  
 **Translation:** 
 
-**[11220.78s] English:** across as the stream continues so you refresh certain parts of the image but so you never  
+**[11220.78s] English:** Across, as the stream continues, so you refresh certain parts of the image, but so you never  
+**Translation:** Vocabulary: refresh: 刷新
+
+**[11226.36s] English:** Have an iframe like this: it's intra-refresh, that we use, right? But for me, the biggest...  
 **Translation:** 
 
-**[11226.36s] English:** have an iframe like this is intra refresh that we use right but for me for me the the biggest  
+**[11231.90s] English:** Mind blown when I started, was the B-frames. Yeah, B-frames mean "be-predicted" frames and can depend...  
 **Translation:** 
 
-**[11231.90s] English:** mind blown when i started was the b frames yeah b frames means be predicted frames can depend  
-**Translation:** Vocabulary: intra: 内部
-
-**[11239.12s] English:** on frames that are coming in the future that means that in order to decode  
+**[11239.12s] English:** On frames that are coming in the future, that means that in order to decode,...  
 **Translation:** 
 
-**[11245.54s] English:** these  
+**[11245.54s] English:** These  
 **Translation:** 
 
-**[11245.94s] English:** b frame you need to wait for the next frame that is dependent but for that decode that one  
+**[11245.94s] English:** In a frame, you need to wait for the next frame that is dependent, but for that, you need to decode that one.  
 **Translation:** 
 
-**[11253.28s] English:** so that you can decode the b frame right so the the way you decode the frame the decoding order  
+**[11253.28s] English:** So, that you can decode the B-frame correctly, the decoding order is important.  
 **Translation:** 
 
-**[11259.88s] English:** is not the same as the display order right that means the encoder needs to be very clever and  
+**[11259.88s] English:** Is not the same as the display order, right? That means the encoder needs to be very clever and  
 **Translation:** 
 
-**[11266.40s] English:** decide that well you know i'm going to depend on things like in the future so this is like  
+**[11266.40s] English:** Decide that, well, you know, I'm going to depend on things like in the future, so this is like  
 **Translation:** 
 
-**[11271.40s] English:** mind-blowing yeah the fact it works so smoothly every day is  
+**[11271.40s] English:** Mind-blowing, yeah. The fact that it works so smoothly every day is  
 **Translation:** 
 
-**[11275.62s] English:** is  
+**[11275.62s] English:** Is  
 **Translation:** 
 
-**[11275.94s] English:** kind of miraculous in some ways it works so you can have a stream that works  
+**[11275.94s] English:** Kind of miraculous, in some ways, it works so you can have a stream that works.  
 **Translation:** 
 
-**[11280.00s] English:** across the world on their decoder versus one in the US versus one here  
-**Translation:** Vocabulary: miraculous: 奇迹般
+**[11280.00s] English:** Across the world, on their decoder; versus one in the U.S.; versus one here.  
+**Translation:** Vocabulary: decoder: 解码器; miraculous: 奇迹般的
 
-**[11284.90s] English:** of different manufacturers, and they produce bit for bit exactly the same material.  
+**[11284.90s] English:** Of different manufacturers, and they produce bit-for-bit exactly the same material.  
 **Translation:** 
 
-**[11290.26s] English:** That's quite remarkable, and do quite complex things,  
+**[11290.26s] English:** That's quite remarkable, and does some very complex things.  
 **Translation:** 
 
-**[11292.90s] English:** and getting more and more complex, and still be bit exact.  
+**[11292.90s] English:** And it's getting more and more complex, and still be quite precise.  
 **Translation:** 
 
 **[11296.46s] English:** There's a lot of work that goes into that.  
 **Translation:** 
 
-**[11298.36s] English:** There's a lot of knobs you can control in this whole process.  
+**[11298.36s] English:** There are a lot of knobs you can control in this whole process.  
 **Translation:** 
 
-**[11301.02s] English:** There's a lot of really fascinating parameters that I've gotten to know more and more  
+**[11301.02s] English:** There are a lot of really fascinating parameters that I've gotten to know more and more.  
 **Translation:** Vocabulary: knobs: 旋钮
 
-**[11304.68s] English:** over the years that FFmpeg gives you complete access to.  
+**[11304.68s] English:** Over the years, FFmpeg gives you complete access to.  
 **Translation:** 
 
 **[11308.46s] English:** Maybe you can speak to some of those.  
@@ -8680,16 +8681,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11313.90s] English:** We can use different kinds of codecs, as we mentioned, from H.264 to AV1.  
 **Translation:** 
 
-**[11319.30s] English:** There's ways to tune the tradeoff between bit rate and quality, as we've spoken to.  
+**[11319.30s] English:** There are ways to tune the tradeoff between bit rate and quality, as we've spoken to.  
 **Translation:** Vocabulary: tradeoff: 权衡
 
 **[11325.54s] English:** You could do constant bit rate.  
 **Translation:** 
 
-**[11327.12s] English:** You can do constant quality, say, RFCQ, QP.  
+**[11327.12s] English:** You can do constant quality, such as RFCQ or QP.  
 **Translation:** 
 
-**[11330.94s] English:** You can do the longer or shorter group of pictures, GOP, that we mentioned.  
+**[11330.94s] English:** You can do the longer or shorter group of pictures (GOP) that we mentioned.  
 **Translation:** 
 
 **[11337.16s] English:** I mean, all that kind of stuff.  
@@ -8704,25 +8705,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11340.72s] English:** Yeah.  
 **Translation:** 
 
-**[11341.04s] English:** What is crazy is that a ton of people's job is to optimize those parameters.  
+**[11341.04s] English:** What is crazy is that a ton of people's jobs is to optimize those parameters.  
 **Translation:** Vocabulary: optimize: 优化
 
 **[11349.10s] English:** A ton of people that you see at YouTube, at Netflix, at Meta, and so on,  
 **Translation:** 
 
-**[11353.48s] English:** they're not writing codecs.  
+**[11353.48s] English:** They're not writing codecs.  
 **Translation:** 
 
-**[11354.68s] English:** They're just finding the right parameters for the file they have, for the format they have.  
+**[11354.68s] English:** They're just finding the right parameters for the file they have, and for the format they have.  
 **Translation:** 
 
 **[11361.90s] English:** Because something that is for a movie, or something that is user-generated content from your phone,  
 **Translation:** 
 
-**[11367.74s] English:** or a screen recording.  
+**[11367.74s] English:** For a screen recording.  
 **Translation:** 
 
-**[11369.00s] English:** Or something that you're going to video edit.  
+**[11369.00s] English:** Or something that you're going to video-edit.  
 **Translation:** 
 
 **[11371.30s] English:** You don't want the same things.  
@@ -8735,169 +8736,169 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[11379.68s] English:** Hats off to them.  
-**Translation:** 
+**Translation:** Vocabulary: wizards: 施魔法的人
 
-**[11382.18s] English:** YouTube, to deliver all the streaming sites, actually.  
+**[11382.18s] English:** YouTube, to deliver content from all the streaming sites, actually.  
 **Translation:** 
 
 **[11385.46s] English:** To deliver at scale.  
 **Translation:** 
 
-**[11387.14s] English:** And YouTube is really magical, because it's not just doing what Netflix does, which is one-way broadcasting type thing.  
+**[11387.14s] English:** And YouTube is really magical, because it's not just doing what Netflix does—which is a one-way broadcasting type thing.  
 **Translation:** 
 
 **[11395.92s] English:** It also has to upload videos.  
 **Translation:** Vocabulary: broadcasting: 单向传播
 
-**[11400.00s] English:** from all the places so they're also doing encoding at scale for videos they're going to be watched by  
+**[11400.00s] English:** From all the places, so they're also doing encoding at scale for videos they're going to be watched by.  
 **Translation:** 
 
-**[11405.66s] English:** like five people and it still has to deliver them like at a moment's notice no no delay nothing  
+**[11405.66s] English:** Like five people, and it still has to deliver them, like at a moment's notice; no delays, nothing.  
 **Translation:** Vocabulary: encoding: 编码
 
-**[11412.68s] English:** no late i mean very minimal latency and and also serve it in all different resolutions  
+**[11412.68s] English:** No, late; I mean very minimal latency, and also serve it in all different resolutions.  
 **Translation:** 
 
-**[11420.14s] English:** like youtube is basically the web version of vlc well actually it's funny because like  
-**Translation:** Vocabulary: latency: 延迟; resolutions: 分辨率
+**[11420.14s] English:** Like YouTube is basically the web version of VLC, well, actually, it's funny because like  
+**Translation:** Vocabulary: latency: 延迟; minimal: 最小的; resolutions: 分辨率
 
-**[11427.56s] English:** google video which was something they did before they acquired youtube was actually using the vlc  
+**[11427.56s] English:** Google Video, which was something they did before they acquired YouTube, was actually using VLC.  
 **Translation:** 
 
-**[11435.06s] English:** plugin so that you could run vlc inside the web browser using the activix plugin and so it worked  
+**[11435.06s] English:** Plugin, so that you could run VLC inside the web browser using the ActiveX plugin, and it worked.  
+**Translation:** Vocabulary: browser: 浏览器
+
+**[11442.50s] English:** In Internet Explorer, and you were actually running VLC inside your browser, which is funny because  
 **Translation:** 
 
-**[11442.50s] English:** in internet explorer and you were actually running vlc inside your browser which is funny because  
+**[11450.48s] English:** Today, we have the opposite, where we have VLC WebAssembly, where we compile all of VLC and FFmpeg into  
+**Translation:** Vocabulary: compile: 编译; explorer: 资源管理器
+
+**[11456.06s] English:** To run VLC,  
 **Translation:** 
 
-**[11450.48s] English:** today we have the opposite where we have vlc web assembly where we compile all vlc and ffmpeg to  
-**Translation:** Vocabulary: explorer: 浏览器
+**[11457.50s] English:** In terms of what happens inside the JavaScript virtual machine, um, with WebAssembly, okay, there's this legendary  
+**Translation:** Vocabulary: legendary: 传奇的
 
-**[11456.06s] English:** to run vlc  
+**[11466.06s] English:** The story that you pointed me to—that was discovered via WikiLeaks' release of all  
 **Translation:** 
 
-**[11457.50s] English:** in type of inside the javascript virtual machine um with web assembly okay there's this legendary  
+**[11473.98s] English:** Seven documents the CIA was using a modified version of VLC, uh, to basically try and trick.  
 **Translation:** 
 
-**[11466.06s] English:** story that you pointed me to that uh it was discovered uh via wikileaks release of all  
+**[11480.14s] English:** People want to steal their data, yes, exactly. So, can you explain what the heck happened?  
 **Translation:** 
 
-**[11473.98s] English:** seven documents the cia was using a modified version of vlc uh to basically try and trick  
+**[11487.50s] English:** So, this was a surprise, right? Um, because at some point WikiLeaks mentioned some documents.  
 **Translation:** 
 
-**[11480.14s] English:** people what to steal their data yes exactly so can you explain what the heck happened what  
+**[11492.86s] English:** There were a few ones with something related to Blu-rays and VLC, but the most interesting...  
 **Translation:** 
 
-**[11487.50s] English:** so so this was a surprise right um because at some point wikileaks uh mentioned some documents  
-**Translation:** 
-
-**[11492.86s] English:** there were a few ones with uh something related to blu-rays and vlc but the the most interesting  
-**Translation:** 
-
-**[11498.06s] English:** one was the cia vault 7 which if i understand correctly um was the cia had like a custom version  
+**[11498.06s] English:** One was the CIA Vault 7, which, if I understand correctly, was the CIA's custom version,  
 **Translation:** Vocabulary: vault: 金库
 
-**[11506.14s] English:** of vlc uh where they had a specific plugin yeah exactly this is like we had to write a press  
+**[11506.14s] English:** Of VLC, uh, where they had a specific plugin, yeah, exactly. This is like we had to write a press.  
 **Translation:** 
 
-**[11512.54s] English:** release on that uh video land wrote a press release saying the only safe source for getting  
+**[11512.54s] English:** Release on that, uh, video land wrote a press release saying the only safe source for getting  
 **Translation:** 
 
-**[11517.34s] English:** vlc media player is the official video  
+**[11517.34s] English:** VLC Media Player is the official video  
 **Translation:** 
 
-**[11520.00s] English:** on that website i mean i suppose that's a security vulnerability for basically any piece of open  
-**Translation:** Vocabulary: vulnerability: 安全漏洞
+**[11520.00s] English:** On that website, I mean, I suppose that's a security vulnerability for basically any piece of open-source software.  
+**Translation:** Vocabulary: vulnerability: 安全隐患
 
-**[11526.70s] English:** source software somebody can trick you to download in a fake website or targeted advertisement right  
+**[11526.70s] English:** Source software somebody can trick you to download in a fake website or targeted advertisement, right?  
 **Translation:** 
 
-**[11533.98s] English:** that was a targeted advertisement to watch a specific file you need to watch with this custom  
+**[11533.98s] English:** That was a targeted advertisement to watch a specific file. You need to watch it with this custom...  
 **Translation:** 
 
-**[11539.92s] English:** version of vlc and it was the normal binaries of vlc except they added one dll i think it was  
+**[11539.92s] English:** Version of VLC, and it was the normal binaries of VLC, except they added one DLL; I think it was.  
 **Translation:** 
 
-**[11545.60s] English:** ps api.dll which was basically reading your your document folder encrypting that and sell sending  
+**[11545.60s] English:** PS API.dll, which was basically reading your document folder, encrypting that, and selling it.  
 **Translation:** Vocabulary: binaries: 可执行文件; encrypting: 加密
 
-**[11554.86s] English:** that and the thing is this is very clever to be honest because once you're watching a movie right  
+**[11554.86s] English:** That, and the thing is, this is very clever to be honest because once you're watching a movie, right?  
 **Translation:** 
 
-**[11560.38s] English:** you're going to do that for two hours and you're not going to touch your computer and sometimes  
+**[11560.38s] English:** You're going to do that for two hours, and you're not going to touch your computer — sometimes,  
 **Translation:** 
 
-**[11564.56s] English:** it's normal because it's hd that your your fans are going up and say and there is ton of tpu usage  
+**[11564.56s] English:** It's normal because it's HD that your fans are going up, and there is tons of TPU usage.  
 **Translation:** 
 
-**[11570.28s] English:** because you're using vlc right that's normal but the thing is what you don't see is that actually a  
+**[11570.28s] English:** Because you're using VLC, right? That's normal, but the thing is, what you don't see is that actually a  
 **Translation:** 
 
-**[11575.18s] English:** a  
+**[11575.18s] English:** A  
 **Translation:** 
 
-**[11575.48s] English:** a  
+**[11575.48s] English:** A  
 **Translation:** 
 
-**[11575.58s] English:** A powered version of vlc that is used by cia um we had exactly the same problem  
+**[11575.58s] English:** A powered version of VLC that is used by CIA. Um, we had exactly the same problem.  
 **Translation:** 
 
-**[11582.10s] English:** with chinese hackers that were targeting indian people and that got vlc banned from india until  
+**[11582.10s] English:** With Chinese hackers that were targeting Indian people, VLC got banned in India until  
 **Translation:** Vocabulary: hackers: 黑客
 
-**[11590.66s] English:** i had to to fight in courts in india the indian government to unban vlc they didn't use vlc they  
+**[11590.66s] English:** I had to fight in courts in India against the Indian government to unban VLC. They didn't use VLC, though.  
 **Translation:** 
 
-**[11598.24s] English:** took just one dll because we signed the dll correctly and they used that dll to do a  
+**[11598.24s] English:** Took just one DLL because we signed the DLL correctly, and they used that DLL to do a  
 **Translation:** 
 
-**[11605.46s] English:** another program uh so you had a vlc.exe and was calling lip vlc but it was calling it into a fake  
+**[11605.46s] English:** Another program, uh, so you had vlc.exe and were calling it LipVLC, but it was calling it into a fake.  
 **Translation:** 
 
-**[11612.54s] English:** one and they used that to target um there is not much we can do actually to to to block those type  
+**[11612.54s] English:** One, and they used that to target. There is not much we can do, actually, to block those types.  
 **Translation:** 
 
-**[11618.84s] English:** of hacks yeah i think people should for all open source software for all software in general people  
+**[11618.84s] English:** Of hacks, yeah, I think people should keep an eye on all open-source software, and in general, all software.  
 **Translation:** 
 
-**[11624.78s] English:** should pay attention where they download the thing yes because that means that they were not downloading  
-**Translation:** Vocabulary: hacks: 漏洞
+**[11624.78s] English:** Should pay attention where they download the thing, yes, because that means they were not downloading from a trusted source.  
+**Translation:** Vocabulary: hacks: 黑客攻击
 
-**[11629.04s] English:** it from our website do the search engines help you no they don't just to clarify because you can you  
+**[11629.04s] English:** It's from our website, right? Do the search engines help you? No, they don't. Just to clarify: because you can't.  
 **Translation:** 
 
-**[11634.92s] English:** know to prevent  
+**[11634.92s] English:** Know how to prevent  
+**Translation:** Vocabulary: clarify: 澄清
+
+**[11635.34s] English:** Threats from people manipulating,  
 **Translation:** 
 
-**[11635.34s] English:** threats from people manipulating  
-**Translation:** 
-
-**[11637.96s] English:** SEO to get up there on the link.  
-**Translation:** 
+**[11637.96s] English:** SEO to get up there in the rankings.  
+**Translation:** Vocabulary: manipulating: 操控
 
 **[11640.00s] English:** Absolutely not, right?  
 **Translation:** 
 
-**[11641.54s] English:** We have a big issue for like more than 10 years is that there is a fake version of VLC in Germany that was reported for now for 12 years.  
+**[11641.54s] English:** We have had a big issue for over 10 years: there is a fake version of VLC in Germany that has been reported for now for 12 years.  
 **Translation:** 
 
-**[11652.02s] English:** And Google basically decides to not, they know what's in it, but the binary is too big for their virus analyzer to analyze it.  
+**[11652.02s] English:** And Google basically decides to not analyze it because they know what's in it, but the binary is too big for their virus analyzer.  
 **Translation:** 
 
-**[11660.52s] English:** And so, well, if you're in Germany, you can go to a website that is a fake version of VLC with a custom installer.  
+**[11660.52s] English:** And so, if you're in Germany, you can go to a website that is a fake version of VLC with a custom installer.  
 **Translation:** Vocabulary: analyzer: 病毒分析器; binary: 可执行文件; installer: 安装程序
 
-**[11667.20s] English:** And it's very popular in Germany because their website is in German and Google mentioned that before VideoLan.  
+**[11667.20s] English:** And it's very popular in Germany because their website is in German, and Google mentioned that before VideoLan.  
 **Translation:** 
 
-**[11673.80s] English:** And the weirdest thing is that it doesn't do anything on your machine for three weeks because that's how they do the detection.  
+**[11673.80s] English:** And the weirdest thing is that it doesn't do anything on your machine for three weeks, because that's how they do the detection.  
 **Translation:** Vocabulary: detection: 检测; weirdest: 最奇怪的事
 
-**[11681.34s] English:** And after three weeks, there is a small program that is a service that's installed at the same time that wakes up after three weeks and starts downloading spyware and adware.  
+**[11681.34s] English:** And after three weeks, there is a small program that is a service, which is installed at the same time and wakes up after three weeks to start downloading spyware and adware.  
 **Translation:** 
 
 **[11689.38s] English:** And Google knows about it.  
-**Translation:** 
+**Translation:** Vocabulary: spyware: 间谍软件
 
 **[11690.68s] English:** They've decided not to do anything.  
 **Translation:** 
@@ -8905,59 +8906,59 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11692.20s] English:** The guys use dark SEO in Germany to do that.  
 **Translation:** 
 
-**[11696.64s] English:** Add some.  
+**[11696.64s] English:** Add some, please.  
 **Translation:** 
 
 **[11697.20s] English:** And this is very damaging, right?  
 **Translation:** 
 
-**[11701.68s] English:** Because one of the things that they are downloading is actually something that is replacing your ads inside your machine, right?  
+**[11701.68s] English:** Because one of the things they are downloading is actually something that is replacing your ads inside your machine, right?  
 **Translation:** 
 
 **[11708.24s] English:** It's actually quite surprisingly effective.  
 **Translation:** 
 
-**[11711.72s] English:** Whoever is doing it with Twitter and X with X, I'll get emails about your X account has been hacked.  
+**[11711.72s] English:** Whoever is doing it with Twitter and X (with X), I'll get emails about your X account has been hacked.  
 **Translation:** 
 
-**[11719.22s] English:** And however they phrase it, it gets me to like at least click on the email not to follow the thing.  
-**Translation:** Vocabulary: hacked: 被盗号
+**[11719.22s] English:** And however they phrase it, it gets me to at least click on the email — not to follow the thing.  
+**Translation:** Vocabulary: hacked: 被盗取
 
-**[11726.46s] English:** And then you're like.  
+**[11726.46s] English:** And then you're like:  
 **Translation:** 
 
-**[11727.24s] English:** Man, whatever they're doing with the psychology to try to trick you, they're quite good.  
+**[11727.24s] English:** Man, whatever they're doing with psychology to try to trick you, they're quite good.  
 **Translation:** 
 
-**[11732.44s] English:** There is a security version of VLC, right?  
+**[11732.44s] English:** Is there a security version of VLC, right?  
 **Translation:** 
 
-**[11734.88s] English:** You received an email saying, hey, there is a security version.  
+**[11734.88s] English:** You received an email saying, "Hey, there's a security update.  
 **Translation:** 
 
 **[11737.70s] English:** He updates on VLC.  
 **Translation:** 
 
-**[11738.82s] English:** Think about updating right now because it can hack your computer.  
+**[11738.82s] English:** Think about updating right now, because it can hack your computer.  
 **Translation:** 
 
-**[11741.92s] English:** You come, it's a website that looks decent and and you download it's a new version of VLC.  
+**[11741.92s] English:** You come to the website, which looks decent, and you download the new version of VLC.  
 **Translation:** 
 
 **[11747.14s] English:** Great.  
 **Translation:** 
 
-**[11747.60s] English:** You don't know a month later you're hacked.  
+**[11747.60s] English:** You don't know; a month later, you're hacked.  
 **Translation:** 
 
-**[11749.34s] English:** You have no idea you're part of a botnet.  
+**[11749.34s] English:** You have no idea that you're part of a botnet.  
 **Translation:** 
 
 **[11750.88s] English:** Yeah.  
 **Translation:** 
 
-**[11752.00s] English:** So make, make sure wherever you're downloading stuff, it's legitimate.  
-**Translation:** 
+**[11752.00s] English:** So make sure wherever you're downloading stuff is legitimate.  
+**Translation:** Vocabulary: legitimate: 正当的
 
 **[11756.32s] English:** I'm part of a botnet.  
 **Translation:** 
@@ -8968,20 +8969,20 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11758.20s] English:** Uh, speaking of which, so, uh.  
 **Translation:** 
 
-**[11760.00s] English:** You've mentioned that VLC sandboxing is something you're working on,  
+**[11760.00s] English:** You've mentioned that VLC sandboxing is something you're working on.  
 **Translation:** Vocabulary: sandboxing: 沙盒技术
 
-**[11764.82s] English:** and it's actually something quite challenging.  
+**[11764.82s] English:** And it's actually something quite challenging.  
 **Translation:** 
 
 **[11766.84s] English:** Why is it important? Why is it hard?  
 **Translation:** 
 
-**[11769.00s] English:** So VLC is a core with around 500 plugins, right?  
+**[11769.00s] English:** So, VLC is a core with around 500 plugins, right?  
 **Translation:** 
 
 **[11774.44s] English:** One of them is FFmpeg, but we support so many other formats.  
-**Translation:** 
+**Translation:** Vocabulary: plugins: 插件
 
 **[11778.58s] English:** We support new protocols.  
 **Translation:** 
@@ -8993,9 +8994,9 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[11784.28s] English:** And in this release of VLC, you have modules that are going to call your drivers, right?  
-**Translation:** 
+**Translation:** Vocabulary: modules: 模块
 
-**[11791.46s] English:** Mostly the hardware decoders, which are going to call your Intel, your NVIDIA, your IMD driver.  
+**[11791.46s] English:** Mostly, the hardware decoders, which will call upon your Intel, NVIDIA, or AMD drivers.  
 **Translation:** 
 
 **[11799.76s] English:** And all calling FFmpeg, right?  
@@ -9013,35 +9014,35 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11812.74s] English:** The issue is that you're running...  
 **Translation:** 
 
-**[11814.28s] English:** In VLC, like every other program, like Adobe, right?  
+**[11814.28s] English:** In VLC, like every other program, such as Adobe, right?  
 **Translation:** 
 
 **[11818.22s] English:** You're running it on your machine, and it has access to all your documents, right?  
 **Translation:** 
 
-**[11823.40s] English:** So the idea is to be sure that you do a sandbox so that we can protect from ourselves.  
+**[11823.40s] English:** So, the idea is to be sure that you do a sandbox so that we can protect ourselves.  
 **Translation:** 
 
-**[11830.26s] English:** Because inside the VLC process is running some code that is not even ours.  
+**[11830.26s] English:** Because inside the VLC process, there is some code running that is not even ours.  
 **Translation:** Vocabulary: sandbox: 隔离环境
 
-**[11834.82s] English:** Either it's open source for other projects that we integrate in VLC,  
+**[11834.82s] English:** Either it's open-source for other projects that we integrate into VLC.  
 **Translation:** 
 
-**[11838.14s] English:** or it's your GPU driver or something that is provided by someone else inside.  
-**Translation:** Vocabulary: integrate: 整合
+**[11838.14s] English:** Or it's your GPU driver, or something that is provided by someone else.  
+**Translation:** Vocabulary: integrate: 合并
 
-**[11843.88s] English:** And so when...  
+**[11843.88s] English:** And so, when...  
 **Translation:** 
 
 **[11844.28s] English:** When we crash, we want to not allow people to do bad things, right?  
 **Translation:** 
 
-**[11849.18s] English:** Because one of the common way of hacking people is to crash a program, very often done with a web browser,  
+**[11849.18s] English:** Because one of the common ways of hacking people is to crash a program, which is very often done with a web browser.  
 **Translation:** 
 
-**[11855.24s] English:** very often done with PDF files, less often with multimedia, but that could happen.  
-**Translation:** Vocabulary: hacking: 黑客攻击; multimedia: 多媒体
+**[11855.24s] English:** Very often done with PDF files, less often with multimedia, but that could happen.  
+**Translation:** Vocabulary: browser: 浏览器; hacking: 黑客攻击; multimedia: 多媒体
 
 **[11859.80s] English:** And when you crash, you launch something on the machine of the person.  
 **Translation:** 
@@ -9049,29 +9050,29 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11864.38s] English:** Could be a ransomware, could be a botnet, right?  
 **Translation:** Vocabulary: ransomware: 勒索软件
 
-**[11866.82s] English:** So security of desktop application is important.  
+**[11866.82s] English:** So, the security of desktop applications is important.  
 **Translation:** 
 
-**[11870.32s] English:** On mobile, it's a bit different because most of the mobile applications are running  
+**[11870.32s] English:** On mobile, it's a bit different because most of the mobile applications are running.  
+**Translation:** Vocabulary: desktop: 桌面
+
+**[11874.08s] English:** On their own inside sandbox, but for VLC, we could run it inside one sandbox.  
 **Translation:** 
 
-**[11874.08s] English:** on inside their own sandbox, but for VLC, we could run it inside one sandbox.  
+**[11880.00s] English:** But the problem is that we need access to so many things; it's basically as if we would have all the permissions, right?  
 **Translation:** 
 
-**[11880.00s] English:** But the problem is that we need access to so many things that it's basically we would have all the permissions, right?  
+**[11888.78s] English:** And so, if you have a sandbox and you put holes everywhere, it defeats the purpose, right?  
 **Translation:** 
 
-**[11888.78s] English:** And so if you have a sandbox and you put some holes everywhere, it defeats the purpose, right?  
+**[11894.28s] English:** So, what we are trying to do—and we're actually doing—is splitting VLC into several processes.  
+**Translation:** Vocabulary: defeats: 违背
+
+**[11900.48s] English:** One is decoding, one is demuxing, and one is filtering.  
 **Translation:** 
 
-**[11894.28s] English:** So what we are trying to do and we're actually doing is splitting VLC into several processings.  
-**Translation:** Vocabulary: processings: 处理单元
-
-**[11900.48s] English:** One is decoding, one is demuxing, one is filters.  
-**Translation:** 
-
-**[11904.06s] English:** And all of them run into their own sandbox so that the whole VLC, a part of VLC crash, like Chrome crashes on some tab, right?  
-**Translation:** Vocabulary: demuxing: 解复用
+**[11904.06s] English:** And all of them run into their own sandbox, so that if a part of VLC crashes, it doesn't bring down the whole application, just like Chrome might crash on some tab, right?  
+**Translation:** Vocabulary: demuxing: 解复用; filtering: 过滤
 
 **[11915.58s] English:** It crashes, but it did not crash the whole program.  
 **Translation:** 
@@ -9079,37 +9080,37 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11919.06s] English:** And this is what we're trying to do.  
 **Translation:** 
 
-**[11920.56s] English:** And it's difficult because it's a sandbox that needs to sustain gigabits per second of mem copies.  
+**[11920.56s] English:** And it's difficult because it's a sandbox that needs to sustain gigabits per second of memory copies.  
 **Translation:** 
 
-**[11927.58s] English:** Now, it's not a website which is five megabytes or 10 megabytes.  
-**Translation:** Vocabulary: gigabits: 吉比特; megabytes: 兆字节
+**[11927.58s] English:** Now, it's not a website that is five megabytes or 10 megabytes.  
+**Translation:** 
 
 **[11930.34s] English:** We're talking about hundreds of megabits per second.  
 **Translation:** 
 
-**[11932.58s] English:** So this is why.  
+**[11932.58s] English:** So, this is why.  
 **Translation:** 
 
 **[11934.06s] English:** It is quite challenging.  
 **Translation:** 
 
-**[11935.38s] English:** And this is a research topic that we we are working on in order to have multimedia player that is secure.  
+**[11935.38s] English:** And this is a research topic that we are working on in order to have a secure multimedia player.  
+**Translation:** Vocabulary: multimedia: 多种媒体
+
+**[11943.38s] English:** This is all the kind of stuff you have to think about when millions of people are using it.  
 **Translation:** 
 
-**[11943.38s] English:** This is all the kind of stuff you have to think about when millions of people are using.  
+**[11946.82s] English:** You mentioned something somewhere where, like, all the different features of VLC,  
 **Translation:** 
 
-**[11946.82s] English:** You mentioned something somewhere where like all the different features of VLC,  
+**[11952.58s] English:** When you have that many people using it, somebody will use every single feature, and they will tell you about it.  
 **Translation:** 
 
-**[11952.58s] English:** when you have that many people using it, somebody will use every single feature and they will tell you about it.  
+**[11960.18s] English:** The best feature in VLC is called the Puzzle Filter, right?  
 **Translation:** 
 
-**[11960.18s] English:** Best feature in VLC is called the puzzle filter, right?  
-**Translation:** 
-
-**[11964.26s] English:** So you click the puzzle filter and it transforms your video into a jigsaw puzzle, right?  
+**[11964.26s] English:** So, you click the puzzle filter, and it transforms your video into a jigsaw puzzle, right?  
 **Translation:** 
 
 **[11970.58s] English:** And you can click and move the pieces, right?  
@@ -9121,16 +9122,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11974.38s] English:** It's very, very useful when you're watching a French movie, right?  
 **Translation:** 
 
-**[11977.38s] English:** You're bored and because it's like like very long things or a love triangle, right?  
+**[11977.38s] English:** You're bored, and because it's like a very long thing or a love triangle, right?  
 **Translation:** 
 
 **[11982.90s] English:** We've seen that so many times, right?  
 **Translation:** 
 
-**[11984.38s] English:** But but you need to watch it because someone, your wife or told you to do that or your boyfriend told you to do that.  
+**[11984.38s] English:** But you need to watch it because someone—your wife, or your boyfriend—told you to do that.  
 **Translation:** 
 
-**[11991.38s] English:** So you're doing that, right?  
+**[11991.38s] English:** So, are you doing that, right?  
 **Translation:** 
 
 **[11992.38s] English:** Yeah.  
@@ -9148,7 +9149,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[11999.78s] English:** For.  
 **Translation:** 
 
-**[12000.00s] English:** It was done by a math teacher in high school in South of France to teach his students about  
+**[12000.00s] English:** It was done by a math teacher in the south of France in high school to teach his students about  
 **Translation:** 
 
 **[12006.62s] English:** Bezier curves, which is something that everyone should know about, right?  
@@ -9160,43 +9161,43 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[12011.38s] English:** But the code was clean.  
 **Translation:** 
 
-**[12012.84s] English:** So it got in VLC.  
+**[12012.84s] English:** So, it got into VLC.  
 **Translation:** 
 
 **[12013.84s] English:** It was merged in 2010.  
 **Translation:** 
 
-**[12015.98s] English:** Five years later, I received an email saying, hello, JB, I have a problem with VLC.  
-**Translation:** 
+**[12015.98s] English:** Five years later, I received an email saying, "Hello, JB, I have a problem with VLC.  
+**Translation:** Vocabulary: merged: 合并
 
 **[12020.70s] English:** The puzzle is too simple.  
 **Translation:** 
 
-**[12022.74s] English:** And I was just like, what?  
+**[12022.74s] English:** And I was just like, "What?  
 **Translation:** 
 
-**[12024.62s] English:** And yes, the puzzle was in the UI maximized by 16 by 16, right?  
+**[12024.62s] English:** And yes, the puzzle was in the UI, maximized by 16 by 16, right?  
 **Translation:** 
 
 **[12029.62s] English:** Only 256 pieces.  
 **Translation:** Vocabulary: maximized: 最大化
 
-**[12032.24s] English:** And he says, I'm sorry, but in a movie, I love puzzles.  
+**[12032.24s] English:** And he says, "I'm sorry, but in a movie, I love puzzles.  
 **Translation:** 
 
 **[12035.68s] English:** This is too simple, right?  
+**Translation:** Vocabulary: puzzles: 谜题
+
+**[12037.02s] English:** So, there is a commit of me.  
 **Translation:** 
 
-**[12037.02s] English:** So there is a commit of me.  
-**Translation:** 
-
-**[12038.10s] English:** You can check it online, which is JB changing that the dimensions are 256 by 256.  
+**[12038.10s] English:** You can check it online, which is JB changing the dimensions to 256 by 256.  
 **Translation:** Vocabulary: dimensions: 尺寸
 
-**[12045.04s] English:** But my point is, so many use features are used by a few people, right?  
+**[12045.04s] English:** But my point is, so many of these features are used by a few people, right?  
 **Translation:** 
 
-**[12051.56s] English:** There is a way to watch VLC movies in common line without any UI, right?  
+**[12051.56s] English:** Is there a way to watch VLC movies in the command line without any UI, right?  
 **Translation:** 
 
 **[12057.76s] English:** I saw that you can do ASCII.  
@@ -9214,22 +9215,22 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[12062.98s] English:** Imagine you're debugging a multicast network, right?  
 **Translation:** 
 
-**[12067.08s] English:** You have thousands, very complex networking stack, right?  
-**Translation:** Vocabulary: multicast: 组播
+**[12067.08s] English:** You have thousands of very complex networking stacks, right?  
+**Translation:** Vocabulary: multicast: 组播; stacks: 协议栈
 
-**[12071.84s] English:** You can SSH to all of the routers and put VLC on it with no UI.  
+**[12071.84s] English:** You can SSH to all of the routers, and put VLC on it with no UI.  
 **Translation:** 
 
 **[12076.94s] English:** And you're going to see whether it's black or it's not black, right?  
 **Translation:** Vocabulary: routers: 路由器
 
-**[12079.34s] English:** So you see if it's all green or not all green, right?  
+**[12079.34s] English:** So, you see, if it's all green or not all green, right?  
 **Translation:** 
 
-**[12082.08s] English:** So you can see.  
+**[12082.08s] English:** So, you can see.  
 **Translation:** 
 
-**[12084.04s] English:** People don't realize there is so many things in VLC that are useful.  
+**[12084.04s] English:** People don't realize there are so many useful things in VLC.  
 **Translation:** 
 
 **[12089.28s] English:** Right?  
@@ -9247,13 +9248,13 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[12089.62s] English:** And they have users.  
 **Translation:** 
 
-**[12093.30s] English:** Because once you have hundreds of millions of users, you have people who use every feature.  
+**[12093.30s] English:** Because, once you have hundreds of millions of users, you have people who use every feature.  
 **Translation:** 
 
-**[12099.72s] English:** I would love to sort of zoom in and talk a little bit more about the distinction between kind of downloading a file and watching it offline versus streaming.  
+**[12099.72s] English:** I would love to sort of zoom in and talk a little bit more about the distinction between, kind of, downloading a file and watching it offline versus streaming.  
 **Translation:** 
 
-**[12111.50s] English:** So the complexities, the challenges of streaming.  
+**[12111.50s] English:** So, the complexities and challenges of streaming.  
 **Translation:** 
 
 **[12114.58s] English:** Is there something we could say about what it takes to stream?  
@@ -9262,11 +9263,14 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[12119.80s] English:** Inside DFL?  
 **Translation:** 
 
-**[12119.98s] English:** резult  
+**[12119.98s] English:** Result  
+**Translation:** 
+
+**[12120.00s] English:** Because we've been talking about codecs, and I think a lot of that implies encoding and decoding.  
 **Translation:** 
 
 **[12120.10s] English:** In DFL?  
-**Translation:** 
+**Translation:** Vocabulary: encoding: 编码; implies: 意味着
 
 **[12120.54s] English:** In DFL?  
 **Translation:** 
@@ -9289,643 +9293,640 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[12121.92s] English:** In DFL?  
 **Translation:** 
 
-**[12122.20s] English:** in IDFL?  
+**[12122.20s] English:** In IDFL?  
 **Translation:** 
 
-**[12122.38s] English:** auto  
+**[12122.38s] English:** Auto.  
 **Translation:** 
 
-**[12123.02s] English:** changes  
+**[12123.02s] English:** Changes.  
 **Translation:** 
 
-**[12123.14s] English:** its  
+**[12123.14s] English:** It's  
 **Translation:** 
 
-**[12123.28s] English:** in DFL?  
+**[12123.28s] English:** In DFL?  
 **Translation:** 
 
-**[12123.52s] English:** order  
+**[12123.52s] English:** Order.  
 **Translation:** 
 
-**[12130.94s] English:** speed  
+**[12128.00s] English:** Uh, without having to communicate over the network, sure, sure. So, can you elaborate?  
+**Translation:** Vocabulary: elaborate: 详细说明
+
+**[12130.94s] English:** Speed.  
 **Translation:** 
 
-**[12131.48s] English:** speed  
+**[12131.48s] English:** Speed.  
 **Translation:** 
 
-**[12134.72s] English:** more  
+**[12134.00s] English:** Like what's required for network stuff, yeah, but it is less complex than it seems compared to.  
 **Translation:** 
 
-**[12135.12s] English:** in DFL?  
+**[12134.72s] English:** More.  
 **Translation:** 
 
-**[12135.70s] English:** in case  
+**[12135.12s] English:** In DFL?  
 **Translation:** 
 
-**[12137.22s] English:** you  
+**[12135.70s] English:** In case  
 **Translation:** 
 
-**[12137.80s] English:** can  
+**[12137.22s] English:** You.  
 **Translation:** 
 
-**[12138.14s] English:** continue  
+**[12137.80s] English:** Can  
 **Translation:** 
 
-**[12138.44s] English:** check  
+**[12138.14s] English:** Continue.  
+**Translation:** 
+
+**[12138.44s] English:** Check.  
+**Translation:** 
+
+**[12139.60s] English:** Everything that we've talked about, um, especially because the most complex thing is not about.  
 **Translation:** 
 
 **[12143.80s] English:** Don't talk bad about me!  
 **Translation:** 
 
+**[12145.68s] English:** Streaming, in terms of streaming services, but it was what was done to  
+**Translation:** 
+
 **[12146.66s] English:** I still  
 **Translation:** 
 
-**[12148.40s] English:** sit  
+**[12148.40s] English:** Sit.  
 **Translation:** 
 
-**[12148.64s] English:** have  
+**[12148.64s] English:** Have  
 **Translation:** 
 
 **[12148.94s] English:** I still  
 **Translation:** 
 
-**[12149.10s] English:** need  
+**[12149.10s] English:** Need.  
 **Translation:** 
 
-**[12149.42s] English:** spit  
+**[12149.42s] English:** Spit.  
 **Translation:** 
 
-**[12149.52s] English:** olon  
+**[12149.52s] English:** Pole  
 **Translation:** 
 
-**[12120.00s] English:** because we've been talking about codecs and i think a lot of that implies encoding and decoding  
-**Translation:** Vocabulary: encoding: 编码
-
-**[12128.00s] English:** uh without the having to communicate over the network sure sure so can you can you elaborate  
+**[12152.40s] English:** Actually, it is broadcast through satellites, um, because in most of the modern  
 **Translation:** 
 
-**[12134.00s] English:** like what's required to do over network stuff yeah but it is less complex than it seems compared to  
-**Translation:** Vocabulary: elaborate: 详细说明
-
-**[12139.60s] English:** everything that we've talked about um especially because the most complex thing is not about  
-**Translation:** 
-
-**[12145.68s] English:** streaming in terms of um uh streaming services but it was was what was done to  
-**Translation:** 
-
-**[12152.40s] English:** actually broadcast through satellites um because in in most of the modern uh  
-**Translation:** 
-
-**[12158.64s] English:** broadcasting services you can pause and you can go on but when you're sending live streaming whether  
+**[12158.64s] English:** Broadcasting services, you can pause and you can go on, but when you're sending live streaming, whether  
 **Translation:** Vocabulary: broadcasting: 广播
 
-**[12164.24s] English:** it's broadcast or live for streaming services which are live this is much more difficult  
+**[12164.24s] English:** It's broadcast or live for streaming services, which are live. This is much more difficult.  
 **Translation:** 
 
-**[12169.28s] English:** because you need to encode in real time you when you go on a satellite you have a specific size  
+**[12169.28s] English:** Because you need to encode in real time, when you go on a satellite, you have a specific size.  
 **Translation:** Vocabulary: encode: 编码
 
-**[12175.44s] English:** of the network that you are using to broadcast to the network that you are using to broadcast to  
+**[12175.44s] English:** Of the network that you are using to broadcast, to the network that you are using to broadcast:  
 **Translation:** 
 
-**[12175.68s] English:** the link right you cannot have a burst of bandwidth even for a second right because you don't have the  
+**[12175.68s] English:** The link: right, you cannot have a burst of bandwidth even for a second, right, because you don't have the  
 **Translation:** Vocabulary: bandwidth: 带宽; cannot: 不能
 
-**[12181.76s] English:** space for that in your your total file however there is different types of challenges which are  
+**[12181.76s] English:** Space for that in your total file, however, there are different types of challenges which are  
 **Translation:** 
 
-**[12187.92s] English:** interesting challenges but i think they are less complex than the one we've seen with um  
+**[12187.92s] English:** Interesting challenges, but I think they are less complex than the ones we've seen so far.  
 **Translation:** 
 
-**[12193.28s] English:** late 90s and early 2000s about broadcasting and streaming so satellite they're different  
+**[12193.28s] English:** In the late 1990s and early 2000s, broadcasting and streaming were different, with satellite being a key component.  
 **Translation:** 
 
-**[12198.16s] English:** they're control systems challenges whereas whereas some are more mathematical i think  
-**Translation:** Vocabulary: mathematical: 数学相关的
+**[12198.16s] English:** They're control systems challenges, whereas some are more mathematical, I think.  
+**Translation:** Vocabulary: mathematical: 数学的
 
-**[12202.08s] English:** there's a difference in the streaming world what you have is called what we call adaptive  
+**[12202.08s] English:** There's a difference in the streaming world: what you have is called what we call adaptive.  
 **Translation:** 
 
-**[12206.00s] English:** streaming because the difficulty and it's not really a video problem it's mostly a cdn problem  
-**Translation:** Vocabulary: adaptive: 自适应
+**[12206.00s] English:** Streaming because the difficulty is not really a video problem; it's mostly a CDN problem.  
+**Translation:** Vocabulary: adaptive: 自适应的
 
-**[12211.36s] English:** is that you might have too many people watching the same thing at the same time and it's a congestion  
+**[12211.36s] English:** Is that you might have too many people watching the same thing at the same time, and it's a congestion?  
 **Translation:** 
 
-**[12216.16s] English:** of the network right so your player has difficulty downloading things fast enough to play them  
+**[12216.16s] English:** Of the network, right? So your player has difficulty downloading things fast enough to play them.  
 **Translation:** Vocabulary: congestion: 网络拥堵
 
-**[12222.88s] English:** so what happens is that locally the player is going to read a lower resolution of it  
+**[12222.88s] English:** So, what happens is that locally the player is going to read a lower-resolution version of it.  
 **Translation:** 
 
-**[12232.08s] English:** but there are some very clever algorithms to do that but most of it is quite basics to be honest  
+**[12232.08s] English:** But there are some very clever algorithms to do that, but most of it is quite basic, to be honest.  
 **Translation:** 
 
-**[12240.00s] English:** on the buffering side is pretty basic yeah you you start you download a segment what we call a  
+**[12240.00s] English:** On the buffering side, it's pretty basic. Yeah, you start by downloading a segment, which we call a...  
 **Translation:** 
 
-**[12246.20s] English:** segment and then you you time right and if you if it takes more than 50 percent of the time to  
-**Translation:** Vocabulary: buffering: 缓冲
+**[12246.20s] English:** Segment, and then you have time right? And if it takes more than 50 percent of the time to...  
+**Translation:** Vocabulary: buffering: 缓冲; segment: 片段
 
-**[12251.36s] English:** download the segment you go down to right and the difficulty is more about when do you go up in  
+**[12251.36s] English:** Download the segment; you go down to the right, and the difficulty is more about when you go up.  
 **Translation:** 
 
-**[12257.38s] English:** bandwidth in quality but this is not very complex to do when you encode you're going to encode seven  
+**[12257.38s] English:** Bandwidth in quality, but this is not very complex to do when you encode; you're going to encode seven.  
+**Translation:** Vocabulary: bandwidth: 带宽; encode: 编码
+
+**[12263.28s] English:** Resolutions, right? And you're going to give the bitrate. The difficulty is to have your encoder.  
 **Translation:** 
 
-**[12263.28s] English:** resolutions right and and you're going to give the bitrate the difficulty is to have your encoder  
+**[12268.80s] English:** Gives the same bitrate, but it's not as strict as it used to be, so probably YouTube has to figure this out.  
+**Translation:** Vocabulary: bitrate: 比特率; resolutions: 分辨率
+
+**[12276.12s] English:** How do you know how pissed off you get when it's very low bit?  
 **Translation:** 
 
-**[12268.80s] English:** gives the same bitrate but it's not as strict as it used to be so probably youtube has to figure  
-**Translation:** Vocabulary: resolutions: 分辨率
+**[12285.10s] English:** Rate and, uh, how long should it wait before increasing the bitrate, even though the connection...  
+**Translation:** Vocabulary: pissed: 愤怒
 
-**[12276.12s] English:** out how the human psychology side of that like how pissed off do you get when it's like very low bit  
+**[12292.24s] English:** Is better because maybe the changes in the bitrate affect you psychologically.  
 **Translation:** 
 
-**[12285.10s] English:** rate and uh how long should it wait before it increases the bitrate even though the connection  
-**Translation:** Vocabulary: pissed: 生气
-
-**[12292.24s] English:** is better because maybe the changes in the bitrate is what like affects you psychologically  
-**Translation:** 
-
-**[12298.80s] English:** i think actually the interesting one is the audio that's true that you can kind of notice when they  
+**[12298.80s] English:** I think actually, the interesting one is the audio. That's true; you can kind of notice when they  
 **Translation:** Vocabulary: psychologically: 心理上
 
-**[12303.18s] English:** move from um full fat aac to the um there are compressed versions of aac that use spectral  
+**[12303.18s] English:** Move from full-fat AAC to the fact that there are compressed versions of AAC that use spectral  
 **Translation:** 
 
-**[12310.00s] English:** band replication you can kind of see it goes a bit tinny and that up and down is very jarring  
-**Translation:** Vocabulary: compressed: 压缩; spectral: 频谱; tinny: 刺耳
+**[12310.00s] English:** Band replication, you can kind of see it goes a bit tinny, and that up and down is very jarring.  
+**Translation:** Vocabulary: compressed: 压缩; jarring: 刺耳; spectral: 频谱; tinny: 尖细
 
-**[12314.64s] English:** the video side is a lot smoother and there's less notice it's really the audio you can you can  
+**[12314.64s] English:** The video side is a lot smoother, and there's less noticeable issues. It's really the audio you can hear.  
 **Translation:** 
 
-**[12319.62s] English:** definitely you can definitely feel it from when it's moved you from a different audio profile to  
+**[12319.62s] English:** Definitely, you can definitely feel it from when it's moved you from a different audio profile to.  
 **Translation:** 
 
-**[12323.46s] English:** one or the other i don't know we're surprisingly tolerant at skipping audio glitches i i don't know  
+**[12323.46s] English:** One or the other, I don't know. We're surprisingly tolerant of skipping audio glitches, I suppose.  
 **Translation:** 
 
-**[12328.80s] English:** i'm surprised people i know who are not video engineers how tolerant they are how tolerant  
-**Translation:** Vocabulary: glitches: 错误; skipping: 跳过; tolerant: 宽容
+**[12328.80s] English:** I'm surprised by how tolerant people I know who are not video engineers are.  
+**Translation:** Vocabulary: glitches: 错误; skipping: 跳过; tolerant: 宽容的
 
-**[12333.82s] English:** they are to watching sports at 30 fps for example whereas it should really be 60 the world is a lot  
+**[12333.82s] English:** They are watching sports at 30 FPS, for example, whereas it should really be 60. The world is a lot  
 **Translation:** 
 
-**[12340.24s] English:** more tolerant to that but audio people are very there's it's an immediate feedback mechanism of  
+**[12340.24s] English:** More tolerant to that, but audio people are very much so; there's an immediate feedback mechanism.  
 **Translation:** 
 
-**[12344.64s] English:** if you hear a glitch you realize it directly yeah i get to fully realize that i suppose one of the  
+**[12344.64s] English:** If you hear a glitch, you realize it directly. Yeah, I get to fully realize that. I suppose one of the  
 **Translation:** 
 
-**[12350.22s] English:** things i'm afraid of when i listen to audio more and more that i get to notice every single tiny  
+**[12350.22s] English:** Things I'm afraid of when I listen to audio more and more that I get to notice every single tiny  
 **Translation:** Vocabulary: glitch: 故障
 
-**[12354.92s] English:** detail and that you can over obsess when uh people are not able to hear it and i'm not able to hear  
+**[12354.92s] English:** Details and that you can over-obsess when people are not able to hear it, and I'm not able to hear.  
 **Translation:** 
 
-**[12358.80s] English:** people people in general  
+**[12358.80s] English:** People, in general,  
 **Translation:** 
 
-**[12360.00s] English:** are able to kind of kind of blur their consumption they can they can look past certain imperfections  
+**[12360.00s] English:** Are able to kind of blur their consumption; they can look past certain imperfections.  
 **Translation:** 
 
-**[12368.16s] English:** but then when you combine like um an event that is for example a sport event that is probably going  
+**[12368.16s] English:** But then, when you combine, for example, a sports event that is probably going  
 **Translation:** 
 
-**[12375.52s] English:** through satellite or somewhere else and goes to a central place for encoding and then you need to  
+**[12375.52s] English:** Through satellite, or somewhere else, and goes to a central place for encoding, and then you need to.  
 **Translation:** 
 
-**[12381.76s] English:** encode this older resolution in real time you don't have time for qa you need to push that to  
+**[12381.76s] English:** Encode this older resolution in real time; you don't have time for QA, you need to push that to  
 **Translation:** Vocabulary: encode: 编码; encoding: 编码
 
-**[12387.36s] English:** cdns you need to add probably drm or protection you need to have that over a ton of different  
+**[12387.36s] English:** CDNs: You need to add probably DRM or protection. You need to have that over a ton of different...  
 **Translation:** 
 
-**[12394.88s] English:** devices then yes it is complex um but and also like you in the web browser or in very much  
+**[12394.88s] English:** Devices, then, yes, it is complex. Um, but and also, like you in the web browser or in very much.  
+**Translation:** Vocabulary: browser: 浏览器
+
+**[12403.84s] English:** Different devices that you use for TV, where you had like a defined set of box or cable box that  
 **Translation:** 
 
-**[12403.84s] English:** different devices that you use for tv where you had like a defined set of box or cable box that  
+**[12410.64s] English:** That you know, where you control end-to-end; um, so it's a challenge, but it's less of an issue than I thought.  
 **Translation:** 
 
-**[12410.64s] English:** that you know where you control end to end um so it's a challenge but it's less i think the  
+**[12416.16s] English:** Networking Part:  
 **Translation:** 
 
-**[12416.16s] English:** networking part  
-**Translation:** 
-
-**[12417.36s] English:** while you agree to have 10 20 seconds of latency i don't think this is very difficult speaking of  
+**[12417.36s] English:** While you agree to have 10-20 seconds of latency, I don't think this is very difficult. Speaking of...  
 **Translation:** Vocabulary: latency: 延迟
 
-**[12425.60s] English:** networking and latency so your new effort as we mentioned is kyber which is aimed at ultra low  
+**[12425.60s] English:** Networking and latency: so, your new effort, as we mentioned, is Kyber, which is aimed at ultra-low.  
 **Translation:** 
 
-**[12435.12s] English:** latency as you say every millisecond counts and uh you're applying that to remote control  
-**Translation:** Vocabulary: millisecond: 毫秒; ultra: 超凡
+**[12435.12s] English:** Latency, as you say, every millisecond counts, and you're applying that to remote control.  
+**Translation:** Vocabulary: millisecond: 毫秒
 
-**[12441.76s] English:** machines like robots drones computers can you tell me about it sure um if you start  
+**[12441.76s] English:** Machines like robots, drones, and computers — can you tell me about them? Sure, um, if you start...  
 **Translation:** 
 
-**[12447.36s] English:** from where we used to be right you used to use fmpeg to encode files right and then we used fmpeg  
-**Translation:** Vocabulary: drones: 无人驾驶飞行器
+**[12447.36s] English:** From where we used to be, right? You used to use FFMPEG to encode files, right? And then we used FFMPEG.  
+**Translation:** Vocabulary: drones: 无人机
 
-**[12453.92s] English:** and vlc to encode in streaming services right and then you need to go lower and lower and the  
+**[12453.92s] English:** And VLC to encode for streaming services, right? And then you need to go lower and lower, and  
 **Translation:** 
 
-**[12462.02s] English:** question was where up to where we can can we go and this question is very important because there  
+**[12462.02s] English:** The question was where up to where we can go, and this question is very important because there.  
+**Translation:** Vocabulary: encode: 编码
+
+**[12468.16s] English:** There are many use cases where you need to be fast, and it's when you have feedback interaction, right?  
 **Translation:** 
 
-**[12468.16s] English:** are many use cases where you need to be fast and it's when you have feedback interaction right we  
+**[12475.12s] English:** Are not just listening to something; you're actually controlling it, right? Because that's a big deal.  
 **Translation:** 
 
-**[12475.12s] English:** are not just listening to something you're actually controlling it right because and that's a big  
+**[12480.00s] English:** Difference that compared to what we've done so far is that I need video to have feedback on.  
 **Translation:** 
 
-**[12480.00s] English:** difference that compared to what we've done so far is that I need video to have a feedback on  
-**Translation:** 
-
-**[12486.56s] English:** something that is happening live, whether it's a drone flying, whether it's controlling a humanoid  
+**[12486.56s] English:** Something that is happening live, whether it's a drone flying, or whether it's controlling a humanoid.  
 **Translation:** Vocabulary: drone: 无人机; humanoid: 类人机器人
 
-**[12492.96s] English:** robot from distance, whether it's controlling a hover, whether it's playing a video game in the  
+**[12492.96s] English:** Robot from a distance, whether it's controlling a hover, whether it's playing a video game,  
 **Translation:** 
 
-**[12498.88s] English:** cloud gaming, because this is what I did on a previous job, right? I was CTO of a cloud gaming  
+**[12498.88s] English:** Cloud gaming, because this is what I did on a previous job, right? I was CTO of a cloud gaming company.  
 **Translation:** 
 
-**[12505.04s] English:** startup. And this is a very interesting topic because you push to the limit the network. You  
+**[12505.04s] English:** Startup. And this is a very interesting topic because you push the network to the limit. You  
 **Translation:** 
 
-**[12512.70s] English:** need to care not about the quality like we've done on video and we've talked about with X264.  
+**[12512.70s] English:** Need to care not about the quality, like we've done with video and we've talked about with X264.  
 **Translation:** 
 
-**[12519.60s] English:** You care about latency because a millisecond is meaningful when you're controlling a car,  
+**[12519.60s] English:** You care about latency because a millisecond is meaningful when you're controlling a car.  
 **Translation:** 
 
-**[12528.34s] English:** right? Well, you've seen, you've used Waymos, right? When Waymos don't work, and that happens  
+**[12528.34s] English:** Right? Well, you've seen, you've used Waymo, right? When Waymo doesn't work, and that happens,  
+**Translation:** Vocabulary: latency: 网络延迟; millisecond: 毫秒
+
+**[12534.18s] English:** Even if one...  
 **Translation:** 
 
-**[12534.18s] English:** even if one...  
+**[12535.04s] English:** 1% of the time, there is someone who is basically remote controlling that. And this is exactly the  
 **Translation:** 
 
-**[12535.04s] English:** 1% of the time, there is someone that is basically remote controlling that. And this is exactly the  
+**[12541.60s] English:** Stuff we're building is really an SDK platform to do end-to-end control of machines.  
 **Translation:** 
 
-**[12541.60s] English:** stuff that we're building. It's really an SDK platform to do end-to-end control of machines.  
+**[12550.00s] English:** So, this comes up quite a lot in many different contexts in robotics. Obviously,  
+**Translation:** Vocabulary: robotics: 机器人技术
+
+**[12555.12s] English:** Teleoperation (teleop) is becoming more and more important, including for training.  
 **Translation:** 
 
-**[12550.00s] English:** So, this comes up quite a lot in a lot of different contexts in robotics. So, obviously,  
-**Translation:** 
-
-**[12555.12s] English:** teleoperation, teleop is becoming more and more important, including for training  
-**Translation:** 
-
-**[12563.20s] English:** robots via machine learning.  
+**[12563.20s] English:** Robots via machine learning.  
 **Translation:** Vocabulary: teleoperation: 远程操作
 
-**[12565.04s] English:** Yes. And what we do is a bit different from everyone else, is that we take only one socket,  
+**[12565.04s] English:** Yes. And what we do is a bit different from everyone else: we take only one socket.  
 **Translation:** 
 
-**[12571.52s] English:** one connection, which is a quick protocol based on UDP, which is interesting because it's done for  
-**Translation:** Vocabulary: socket: 接口
+**[12571.52s] English:** One connection, which is a quick protocol based on UDP, which is interesting because it's done for  
+**Translation:** Vocabulary: socket: 插孔
 
-**[12578.24s] English:** low latency. It doesn't have two of the, what we call the TCP end-of-line problem and the  
+**[12578.24s] English:** Low latency. It doesn't have two of the, what we call the TCP end-of-line problem, and the  
 **Translation:** 
 
-**[12582.32s] English:** HTTP end-of-line problem. It's sifted by default, but on the same wire, we send multiple streams,  
-**Translation:** Vocabulary: latency: 低延迟; sifted: 过滤
+**[12582.32s] English:** HTTP end-of-line problem. It's filtered by default, but on the same wire, we send multiple streams.  
+**Translation:** Vocabulary: filtered: 经过筛选的
 
-**[12588.32s] English:** like multiple strikes. We send audio, we send video, but we also send the commands, right?  
+**[12588.32s] English:** Like multiple strikes, we send audio, we send video, but we also send the commands, right?  
 **Translation:** 
 
-**[12592.64s] English:** Mouse, keyboard, gamepad, and so on. And we do that while maintaining coherence, right?  
-**Translation:** Vocabulary: coherence: 连贯性
+**[12592.64s] English:** Mice, keyboards, gamepads, and so on. And we do that while maintaining coherence, right?  
+**Translation:** Vocabulary: coherence: 连贯性; gamepads: 游戏手柄; keyboards: 键盘
 
-**[12600.00s] English:** synchronization because what people don't realize is that all the clocks actually drift and when  
+**[12600.00s] English:** Synchronization, because what people don't realize is that all the clocks actually drift, and when  
 **Translation:** 
 
-**[12607.26s] English:** you're controlling a robot a robot is going to have like two cameras five cameras ten cameras  
+**[12607.26s] English:** You're controlling a robot, which is going to have like two, five, or ten cameras.  
 **Translation:** Vocabulary: drift: 偏差; synchronization: 同步
 
-**[12611.98s] English:** a ton of captors gps and so on and if you want to train correctly your robotic ai model you need to  
+**[12611.98s] English:** A ton of captor GPS, and so on. If you want to train your robotic AI model correctly, you need to  
 **Translation:** 
 
-**[12618.24s] English:** have all those that are in sync and currents and what we've done and it's all the stuff that we  
-**Translation:** Vocabulary: captors: 传感器
+**[12618.24s] English:** Have all those that are in sync, and currents, and what we've done. It's all the stuff that we  
+**Translation:** Vocabulary: captor: 传感器; currents: 电流; robotic: 机器人
 
-**[12624.12s] English:** learn on vlc in broadcast in real time and mpeg ts that currents know well is that we account for  
+**[12624.12s] English:** Learn about VLC in broadcasting in real-time, and MPEG-TS. That's currently well-known because we account for it.  
 **Translation:** 
 
-**[12630.94s] English:** clock drifting and so when i record a kyber stream a robot i am sure that it's going to be predictive  
-**Translation:** Vocabulary: drifting: 时钟漂移; predictive: 具有预测性
+**[12630.94s] English:** Clock drifting, and so when I record a Kyber stream, a robot, I am sure that it's going to be predictive.  
+**Translation:** Vocabulary: broadcasting: 广播; drifting: 漂移; predictive: 预测性的
 
-**[12638.98s] English:** in the way you play it back and so when you're going to do recording and training of your ai  
+**[12638.98s] English:** In the way you play it back, and so when you're going to do recording and training of your AI,...  
 **Translation:** 
 
-**[12644.86s] English:** model you need to be sure that every time you retrain based on the data the data is going to  
+**[12644.86s] English:** Model, you need to be sure that every time you retrain based on the data, the data is going to  
 **Translation:** 
 
-**[12650.38s] English:** stay coherent and clocks actually drift  
+**[12650.38s] English:** Stay coherent, and clocks actually drift.  
 **Translation:** 
 
-**[12653.64s] English:** you need to be sure that every time you retrain based on the data the data is going to stay  
-**Translation:** Vocabulary: coherent: 条理清晰
+**[12653.64s] English:** You need to be sure that every time you retrain based on the data, the data is going to stay consistent.  
+**Translation:** Vocabulary: coherent: 连贯的
 
-**[12654.10s] English:** coherent and clocks actually drift like the existing solution works with one camera once  
+**[12654.10s] English:** Coherent and clocks actually drift, like the existing solution, which works with one camera at a time.  
 **Translation:** 
 
-**[12657.22s] English:** you're going to a five or say it's more complex so you want to make sure that the visual snapshot  
+**[12657.22s] English:** You're going to a five, or say it's more complex, so you want to make sure that the visual snapshot  
 **Translation:** Vocabulary: snapshot: 快照
 
-**[12665.54s] English:** perfectly matches the time it actually happened exactly and also if you're going to control right  
+**[12665.54s] English:** Perfectly matches the time it actually happened exactly, and also if you're going to control right.  
 **Translation:** 
 
-**[12670.66s] English:** i do something on robot i need to be sure that it is actually happening at that precise time right  
+**[12670.66s] English:** I do something on the robot, and I need to be sure that it is actually happening at that precise time, right?  
 **Translation:** 
 
-**[12676.34s] English:** and so we have on the the server which would be a robot a time of like  
+**[12676.34s] English:** And so, we have on the server, which would be a robot, a time of, like,  
 **Translation:** 
 
-**[12680.82s] English:** re-time stamping mechanism accounting for clock drift for that  
-**Translation:** Vocabulary: stamping: 时间戳
-
-**[12684.10s] English:** right so that's one of the use case um of kyber to to control robots um i also think like remote  
+**[12680.82s] English:** Re-timestamping Mechanism Accounting for Clock Drift for That.  
 **Translation:** 
 
-**[12691.46s] English:** drones remote whether it's defense or non-defense remote cars remote submarines there is many places  
-**Translation:** Vocabulary: drones: 遥控无人机; submarines: 遥控潜艇
-
-**[12699.06s] English:** industry or remote surgery where the experts cannot go everywhere the machine is because  
+**[12684.10s] English:** Right, so that's one of the use cases for Kyber to control robots. I also think it could be used for remote operations.  
 **Translation:** 
 
-**[12706.74s] English:** either dangerous or it's too costly right so you you allow people to have machines next to you right  
+**[12691.46s] English:** Drones, remote-controlled cars, and submarines—whether it's for defense or non-defense purposes, there are many places.  
+**Translation:** Vocabulary: drones: 无人机; submarines: 潜艇
+
+**[12699.06s] English:** Industry or remote surgery, where the experts cannot go everywhere the machine is because  
 **Translation:** 
 
-**[12714.10s] English:** so you you allow people to have machines next to you right so you you allow people to have machines next to you right  
+**[12706.74s] English:** Either it's dangerous or it's too costly, right? So, you allow people to have machines next to you, right?  
 **Translation:** 
 
-**[12714.42s] English:** the goal of kyber is to make distance disappear because it's either projection of skills or  
-**Translation:** Vocabulary: projection: 投影
-
-**[12720.00s] English:** projection of power right so imagine we are all like you've seen the meta reban and everyone else  
+**[12714.10s] English:** So, you allow people to have machines next to you, right?  
 **Translation:** 
 
-**[12726.46s] English:** right you need to stream there right because you're not going to run anything over there right  
+**[12714.42s] English:** The goal of Kyber is to make distance disappear, because it's either a projection of skills or  
+**Translation:** Vocabulary: projection: 投射
+
+**[12720.00s] English:** Projection of power, right? So imagine we're all like you've seen in the Meta reban and everyone else.  
 **Translation:** 
 
-**[12730.38s] English:** so you need gpu power that's on the cloud on the phone to stream that and so all of these use cases  
+**[12726.46s] English:** Right, you need to stream there, right? Because you're not going to run anything over there, right?  
 **Translation:** 
 
-**[12735.62s] English:** needs to be not about extremely low latency but real-time latency for video and so that means you  
+**[12730.38s] English:** So, you need GPU power that's either on the cloud or on the phone to stream that, and so all of these use cases.  
+**Translation:** 
+
+**[12735.62s] English:** Needs to be not about extremely low latency, but real-time latency for video, and so that means you  
 **Translation:** Vocabulary: latency: 延迟
 
-**[12742.74s] English:** need we're toying with the encoders so that the encoders encode a frame in four milliseconds and  
+**[12742.74s] English:** We're toying with the encoders so that they encode a frame in four milliseconds.  
 **Translation:** 
 
-**[12749.28s] English:** and kiran with his company also goes under those type of lights of latency because you need to  
+**[12749.28s] English:** And Kiran, with his company, also goes under those types of lights of latency because you need to  
 **Translation:** Vocabulary: encode: 编码; encoders: 编码器; milliseconds: 毫秒
 
-**[12757.12s] English:** optimize at max the local latency right because it's decoder the encoder and so on because this  
+**[12757.12s] English:** Optimize at max the local latency, right? Because it's the decoder, the encoder, and so on, because this...  
 **Translation:** 
 
-**[12768.32s] English:** time is going to be added to your networking time so and it's not just about low latency it's also  
-**Translation:** Vocabulary: optimize: 优化
+**[12768.32s] English:** Time will be added to your networking time, so it's not just about low latency; it's also  
+**Translation:** Vocabulary: decoder: 解码器; optimize: 优化
 
-**[12774.62s] English:** about like reliability we do clever things like  
+**[12774.62s] English:** About reliability, we do clever things like  
 **Translation:** 
 
-**[12778.76s] English:** you  
+**[12778.76s] English:** You.  
 **Translation:** 
 
-**[12779.28s] English:** forward error correction right so for other correction is you over transmit a bit of data  
+**[12779.28s] English:** Forward error correction, right? So, for error correction, you transmit a bit more data.  
 **Translation:** 
 
-**[12784.78s] English:** right a few percent um and while over transmit you allow to lose some packets because all of that is  
-**Translation:** Vocabulary: transmit: 发送
+**[12784.78s] English:** Right, a few percent. And while transmitting, you allow for some packet loss because all of that is  
+**Translation:** Vocabulary: packet: 数据包; transmit: 发送; transmitting: 正在发送
 
-**[12792.48s] English:** very difficult over a internet network where you're going to do things very far away and  
+**[12792.48s] English:** Very difficult over an Internet network where you're going to do things very far away and  
 **Translation:** 
 
-**[12799.48s] English:** if you check that all packets are delivered you add a ton of latency if you don't want latency  
+**[12799.48s] English:** If you check that all packets are delivered, you add a ton of latency. If you don't want latency,  
+**Translation:** Vocabulary: packets: 数据包
+
+**[12805.20s] English:** What we do is that we over-transmit some data that you don't want to transmit.  
 **Translation:** 
 
-**[12805.20s] English:** what we do is that we over transmit some data that you don't want to transmit  
-**Translation:** 
-
-**[12809.28s] English:** you can retrans reconstruct on the client side when there is um things that are broken right so  
+**[12809.28s] English:** You can reconstruct on the client side when there are things that are broken, right?  
 **Translation:** Vocabulary: reconstruct: 重新构建
 
-**[12815.20s] English:** um and we um if you a few days weeks ago we are uh doing the demo around uh las vegas for the ces  
+**[12815.20s] English:** Um, and we, um, if you a few days or weeks ago, we were doing the demo around Las Vegas for CES.  
 **Translation:** 
 
-**[12822.32s] English:** about we had a rover that is fully 3 printed it's very simple it's a carroright a small car with a  
-**Translation:** Vocabulary: carroright: 小汽车; rover: 火星车
+**[12822.32s] English:** About, we had a rover that is fully 3D-printed. It's very simple: it's a small car with a  
+**Translation:** Vocabulary: rover: 火星车; vegas: 拉斯维加斯
 
-**[12829.60s] English:** telescopic arm and it was actually controlled from france right and the the video uh was uh with a  
+**[12829.60s] English:** Telescopic arm, and it was actually controlled from France, right? And the video, uh, was with a  
 **Translation:** 
 
-**[12836.32s] English:** webcam and a very small server rated small small piece  
+**[12836.32s] English:** Webcam and a very small, server-rated, small-piece.  
 **Translation:** Vocabulary: telescopic: 伸缩臂
 
-**[12840.00s] English:** PCB but basically running and send that to someone that is on the other side of the planet  
+**[12840.00s] English:** PCB, but basically, run it and send that to someone on the other side of the planet.  
 **Translation:** 
 
-**[12844.62s] English:** and so there is so many use cases you can also think about having AI who are going to control  
+**[12844.62s] English:** And so, there are so many use cases you can also think about having AI who are going to control.  
 **Translation:** 
 
-**[12851.50s] English:** many drones and so on and the technically we need to be amazing in video we need to be amazing at  
+**[12851.50s] English:** Many drones, and so on. The technically, we need to be amazing in video; we need to be amazing at  
 **Translation:** 
 
-**[12857.84s] English:** networking we need to care about any milliseconds in networking in encoding time in decoding time  
-**Translation:** Vocabulary: drones: 无人机; encoding: 编码
+**[12857.84s] English:** Networking: we need to care about any milliseconds in networking, in encoding and decoding time.  
+**Translation:** Vocabulary: drones: 无人机; encoding: 编码; milliseconds: 毫秒; technically: 技术上
 
-**[12863.76s] English:** and also you need to integrate very low level so sync everything together well but how like what  
+**[12863.76s] English:** And also, you need to integrate at a very low level to sync everything together well, but how do we go about doing that?  
 **Translation:** 
 
-**[12869.80s] English:** kind of latency can you get to like why when you say milliseconds what what's the goal so my goal  
-**Translation:** Vocabulary: integrate: 整合; latency: 延迟; milliseconds: 毫秒
+**[12869.80s] English:** Kind of latency can you get? Like, why when you say milliseconds, what's the goal? So, my goal...  
+**Translation:** Vocabulary: integrate: 低级别整合; latency: 毫秒延迟
 
-**[12875.54s] English:** is four milliseconds glass to glass latency um what's glass to glass so it's easy right you have  
+**[12875.54s] English:** Is four milliseconds glass-to-glass latency? Um, what's glass-to-glass, so it's easy, right? You have  
 **Translation:** 
 
-**[12881.22s] English:** a computer which is running a program right probably a video game and this one is actually  
+**[12881.22s] English:** A computer which is running a program, right? Probably a video game, and this one is actually.  
 **Translation:** 
 
-**[12886.06s] English:** running right it could be it's an example of a robot right and you have the replicate that is  
+**[12886.06s] English:** Running right, it could be an example of a robot, right? And you have the replicate that is.  
 **Translation:** 
 
-**[12892.54s] English:** done through the network and you want if you take a 1000 hertz camera you can  
-**Translation:** Vocabulary: hertz: 频率
-
-**[12899.50s] English:** take a 1000 hertz camera and you can take a 1000 hertz camera and you can take a 1000 hertz camera  
+**[12892.54s] English:** Done through the network, and if you take a 1,000 Hz camera, you can  
 **Translation:** 
 
-**[12899.78s] English:** and you can take a picture and you want that to be at four milliseconds four milliseconds means 240  
+**[12899.50s] English:** Take a 1,000 Hz camera, and you can take a 1,000 Hz camera, and you can take a 1,000 Hz camera.  
 **Translation:** 
 
-**[12904.44s] English:** hertz right yeah it's not um so far we we achieve um seven milliseconds from a windows to windows or  
+**[12899.78s] English:** And you can take a picture, and you want that to be at four milliseconds. Four milliseconds means 240.  
 **Translation:** 
 
-**[12913.34s] English:** window to mac um and if you look in the timing most there is around 3.5 milliseconds inside the  
+**[12904.44s] English:** Hertz, right? Yeah, it's not so far off—we've achieved about seven milliseconds from Windows to Windows, or  
 **Translation:** 
 
-**[12921.50s] English:** nvidia uh hardware encoder and around two milliseconds on the intel decoder right so  
+**[12913.34s] English:** Window to Mac, um, and if you look in the timing, most of it is around 3.5 milliseconds inside the  
+**Translation:** Vocabulary: hertz: 赫兹; timing: 延迟
+
+**[12921.50s] English:** NVIDIA hardware encoder, and around two milliseconds on the Intel decoder, right? So,  
 **Translation:** 
 
-**[12928.06s] English:** like the encoder has to be at 4 milliseconds and if you look in the timing most there is around  
+**[12928.06s] English:** Like the encoder has to be at 4 milliseconds, and if you look in the timing, most are around  
+**Translation:** Vocabulary: decoder: 解码器
+
+**[12929.78s] English:** 3.5 milliseconds, and if you look in the timing, most of it is around 3.5 milliseconds, and if you look  
 **Translation:** 
 
-**[12929.78s] English:** 3.5 milliseconds and if you look in the timing most there is around 3.5 milliseconds and if you look  
+**[12929.84s] English:** Plus, the decoder is already six milliseconds; so, in order to go down, we need either to have  
 **Translation:** 
 
-**[12929.84s] English:** plus the decoder is already six milliseconds right so in order to go down we need either to have  
+**[12934.80s] English:** Some other type of codecs, or some better encoder that are faster, but four milliseconds.  
 **Translation:** 
 
-**[12934.80s] English:** some other type of codecs um or some better encoder that are faster uh but four milliseconds  
+**[12942.92s] English:** It would be the Grail, that's pretty nuts. I love it, though I don't think anyone's ever achieved that.  
+**Translation:** Vocabulary: grail: 圣杯; milliseconds: 毫秒
+
+**[12948.46s] English:** Right, that's fast. You can achieve that with custom hardware, with SDI, or with professional hardware, but...  
 **Translation:** 
 
-**[12942.92s] English:** is would be the graal that's pretty nuts i love it though i don't think anyone's ever achieved that  
-**Translation:** Vocabulary: graal: 理想解
-
-**[12948.46s] English:** right that's fast you can achieve that with custom hardware with sdi with professional hardware but  
+**[12955.90s] English:** I want that to work over the internet. I want that.  
 **Translation:** 
 
-**[12955.90s] English:** i want that to work over the internet i want that  
+**[12959.78s] English:** The  
 **Translation:** 
 
-**[12959.78s] English:** the  
+**[12960.00s] English:** To work with any robots where you're going to have a small Jetson Nano in it, or an NVIDIA Jetson N150, right?  
 **Translation:** 
 
-**[12960.00s] English:** to work with any robots where you're going to have a small jetson nano in it or or n150 right  
-**Translation:** Vocabulary: jetson: 杰森系列
-
-**[12966.18s] English:** i want that because there is going to be millions of robots or drones are just rolling robots or  
+**[12966.18s] English:** I want that because there are going to be millions of robots or drones, just rolling robots or  
 **Translation:** 
 
-**[12973.16s] English:** flying robots or swimming robots right it's just you a machine that you control and in order either  
+**[12973.16s] English:** Flying robots, or swimming robots—right? It's just a machine that you control, and in order to...  
+**Translation:** Vocabulary: drones: 无人驾驶飞行器
+
+**[12980.10s] English:** You need to teleoperate them, or when everything will be fully autonomous, you need to tele-observe.  
 **Translation:** 
 
-**[12980.10s] English:** you need to teleoperate them or when everything will be fully autonomous you need to tele observe  
-**Translation:** 
-
-**[12987.06s] English:** them right you need to check what's happening yeah and in my view in the future like all those  
+**[12987.06s] English:** They're right; you need to check what's happening, yeah, and in my view, in the future, like all those.  
 **Translation:** Vocabulary: autonomous: 自主
 
-**[12992.96s] English:** remote cars will be tele observer observed by an ai model which is just going to say well  
+**[12992.96s] English:** Remote cars will be tele-observed by an AI model, which is just going to say, "well,  
 **Translation:** 
 
-**[12999.02s] English:** everything is going good and when it's not good say hey there is a problem and then you have an  
+**[12999.02s] English:** Everything is going good, and when it's not good, say, "Hey, there is a problem," and then you have an  
 **Translation:** 
 
-**[13003.64s] English:** operator right and this is going to be about safety right when you have your humanoid taking  
+**[13003.64s] English:** Operator, right, and this is going to be about safety when you have your humanoid taking.  
 **Translation:** 
 
-**[13007.86s] English:** care of your grandma or my grandma i want to be sure that everything goes well and i'm not in  
-**Translation:** Vocabulary: humanoid: 类人形机器人
+**[13007.86s] English:** Care of your grandma or my grandma, I want to be sure that everything goes well and I'm not in.  
+**Translation:** Vocabulary: humanoid: 类人机器人
 
-**[13012.88s] English:** those type of horrible scenarios where the robot is dangerous or when i'm  
+**[13012.88s] English:** Those types of horrible scenarios, where the robot is dangerous, or when I am  
 **Translation:** 
 
-**[13017.06s] English:** driving i want like the car to to stop when it should stop and if needed someone takes care of  
+**[13017.06s] English:** Driving, I want the car to stop when it should stop, and if needed, someone takes care of it.  
 **Translation:** Vocabulary: scenarios: 情景
 
-**[13023.66s] English:** that right and so there is so many cases scenarios about real time and so the goal of kyber is to make  
+**[13023.66s] English:** That's right, and so there are so many case scenarios involving real-time data. The goal of Kyber is to make  
 **Translation:** 
 
-**[13030.54s] English:** real-time control of machine distance disappear it's it's incredible and some of the same  
+**[13030.54s] English:** Real-time control of machine distance disappears; it's incredible, and some of the time.  
 **Translation:** 
 
-**[13037.50s] English:** technologies some of the same ideas we've been talking about is is connected to what you're  
+**[13037.50s] English:** Technologies, some of the same ideas we've been talking about, is connected to what you're  
 **Translation:** 
 
-**[13041.86s] English:** and for for me it's amazingly challenging right because i would say that on video i'm doing a  
+**[13041.86s] English:** And for me, it's amazingly challenging, right? Because I would say that on video, I'm doing a  
 **Translation:** 
 
-**[13047.54s] English:** but networking i have so much more to learn right it's uh um about like congestion protocols  
+**[13047.54s] English:** But networking, I have so much more to learn, right? It's kind of like congestion protocols.  
 **Translation:** 
 
-**[13053.70s] English:** bit rate adaptation in real time um but it's it's quite funny and and so i created this project and  
-**Translation:** Vocabulary: adaptation: 适应性; congestion: 拥塞
+**[13053.70s] English:** Bit-rate adaptation in real time, um, but it's quite funny, and so I created this project and  
+**Translation:** Vocabulary: adaptation: 适应; congestion: 拥塞
 
-**[13060.82s] English:** and we we have fundraised in the us of course but it's open source right this is important  
+**[13060.82s] English:** And we have fundraised in the US, of course, but it's open-source, right? This is important.  
 **Translation:** 
 
-**[13065.78s] English:** right like we've not said that right but everything on kyber is open source how do you make money  
+**[13065.78s] English:** Right, like we haven't said that before, but everything on Kyber is open-source. How do you make money?  
 **Translation:** Vocabulary: fundraised: 募集资金
 
-**[13071.30s] English:** it's a dual license commercial and agpl right you remember what you said about about uh  
+**[13071.30s] English:** It's a dual license, commercial and AGPL. Right? You remember what you said about that, right?  
 **Translation:** 
 
-**[13077.06s] English:** licenses. Basically, if you want  
+**[13077.06s] English:** Licenses. Basically, if you want.  
 **Translation:** 
 
-**[13080.00s] English:** to use kyber in your product you must have your full product open source if you want to use this  
+**[13080.00s] English:** To use Kyber in your product, you must have your full product open source if you want to use this.  
 **Translation:** 
 
-**[13085.50s] English:** amazing technology but not open source you pay the commercial license right so the small people or  
+**[13085.50s] English:** Amazing technology, but it's not open source; you have to pay for the commercial license, so the smaller companies can't afford it.  
 **Translation:** 
 
-**[13091.48s] English:** the the the hobbyist and the the very small guys who want to do that they can use the technology  
+**[13091.48s] English:** The hobbyist and the very small guys who want to do that can use the technology.  
 **Translation:** 
 
-**[13096.86s] English:** they build something that is open source and cool and if you're a large company you're going to have  
+**[13096.86s] English:** They build something that is open-source and cool, and if you're a large company, you're going to have  
 **Translation:** 
 
-**[13101.36s] English:** the support all the ip the right modification and so on so um yeah it's really cool and and  
+**[13101.36s] English:** The support is great for all IP rights, modifications, and so on. So, um, yeah, it's really cool and...  
 **Translation:** 
 
-**[13108.64s] English:** and also i'm building robots and i love that right like yeah like the the rover we have is  
-**Translation:** Vocabulary: modification: 修改; rover: 火星车
+**[13108.64s] English:** And also, I'm building robots, and I love that. Right? Like, yeah, like the rover we have is  
+**Translation:** Vocabulary: modifications: 修改; rover: 探测车
 
-**[13113.74s] English:** 3d printed um we are finishing a demo where it's an actual wing right like a type of drone wings  
+**[13113.74s] English:** 3D-printed: We are finishing a demo where it's an actual wing, like a type of drone wing.  
 **Translation:** 
 
-**[13119.84s] English:** that is also fully 3d printed um we are trying to do a sailboat that is uh 3d printed uh and and  
-**Translation:** Vocabulary: drone: 无人驾驶飞行器; sailboat: 帆船
+**[13119.84s] English:** That is also fully 3D printed. We are trying to do a sailboat that is 3D printed, and...  
+**Translation:** Vocabulary: drone: 无人机; sailboat: 帆船
 
-**[13128.40s] English:** and we'll work on some humanoids of course they are not going to be very good robots right it's  
+**[13128.40s] English:** And we'll work on some humanoids, of course; they are not going to be very good robots, right?  
 **Translation:** 
 
-**[13133.08s] English:** not our job but we're here for everyone to make robots cool uh you're talking to the right  
+**[13133.08s] English:** Not our job, but we're here for everyone to make robots cool. Uh, you're talking to the right people.  
 **Translation:** Vocabulary: humanoids: 类人机器人
 
-**[13138.62s] English:** guy i love robots there's a bunch of them upstairs uh and teleop is going to be really  
+**[13138.62s] English:** Guy, I love robots; there's a bunch of them upstairs. Uh, and teleop is going to be really...  
 **Translation:** 
 
-**[13143.66s] English:** really important especially as the number of robots kills across the world so 100 let's talk  
+**[13143.66s] English:** Really important, especially as the number of robot killings across the world increases. Let's talk.  
+**Translation:** Vocabulary: killings: 杀人事件
+
+**[13148.24s] English:** About the future of multimedia, FFmpeg, VLC, but some of the codecs we didn't really mention were AV1.  
 **Translation:** 
 
-**[13148.24s] English:** about the future of um multimedia ffmpeg vlc but some of the codecs we didn't really mention av2  
+**[13156.96s] English:** So, can we just lay out what AV1 is, what the hopes are for it, and what H.265 and H.266 are? So, AV1 is this codec, right?  
+**Translation:** Vocabulary: multimedia: 多种媒体
+
+**[13167.76s] English:** That he's done.  
 **Translation:** 
 
-**[13156.96s] English:** so can we just lay out what is av2 what is the hope for it what is h265 h266 so av1 is this codec  
+**[13168.60s] English:** By the aliens, for open media, right where there is, uh, Google, Netflix, Amazon, Apple, and video land.  
+**Translation:** Vocabulary: aliens: 外星人
+
+**[13175.48s] English:** Where we try to make a royalty-free, very good codec; right? And now it's being deployed, but  
 **Translation:** 
 
-**[13167.76s] English:** that he's done  
-**Translation:** 
-
-**[13168.60s] English:** by the aliens for open media right where there is uh google netflix amazon apple uh video land  
-**Translation:** 
-
-**[13175.48s] English:** where we try to make a royalty free very good codec right and now it's being deployed but  
-**Translation:** 
-
-**[13180.98s] English:** actually the codec was finished in 2018 but a codec takes years to be used in wide scenarios  
+**[13180.98s] English:** Actually, the codec was finished in 2018, but it takes years for a codec to be used in wide scenarios.  
 **Translation:** Vocabulary: deployed: 部署; scenarios: 应用场景
 
-**[13190.74s] English:** right so av2 is the next generation of this codec it's 30 better right so if you keep  
+**[13190.74s] English:** Right, so AV2 is the next generation of this codec; it's 30% better. So if you keep  
 **Translation:** 
 
-**[13198.58s] English:** the same uh quality  
+**[13198.58s] English:** The same quality, uh,  
 **Translation:** 
 
-**[13200.00s] English:** you got 30% bandwidth reduction compared to AV1.  
+**[13200.00s] English:** You got a 30% bandwidth reduction compared to AV1.  
 **Translation:** 
 
-**[13203.24s] English:** What's the connection with the David and AV2?  
+**[13203.24s] English:** What's the connection with David and AV2?  
 **Translation:** Vocabulary: bandwidth: 带宽
 
-**[13206.56s] English:** We are going to do a David 2, right?  
+**[13206.56s] English:** We are going to do David 2, right?  
 **Translation:** 
 
 **[13208.86s] English:** That I call DeVid, because De is 2 in French.  
@@ -9937,11 +9938,11 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13213.84s] English:** And you have to know that David is an actual,  
 **Translation:** 
 
-**[13216.14s] English:** what we call a recursive acronym, right?  
+**[13216.14s] English:** What we call a recursive acronym, right?  
 **Translation:** 
 
 **[13218.32s] English:** Because it means D, David, is an AV1 decoder, right?  
-**Translation:** Vocabulary: recursive: 递归的
+**Translation:** Vocabulary: acronym: 首字母缩略词; decoder: 解码器
 
 **[13223.24s] English:** Oh, nice, nice.  
 **Translation:** 
@@ -9955,7 +9956,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13229.52s] English:** Yes.  
 **Translation:** 
 
-**[13230.14s] English:** And so DeVid 2.  
+**[13230.14s] English:** And so, DeVid 2.  
 **Translation:** 
 
 **[13232.36s] English:** It's going to be spelled with a 2.  
@@ -9967,25 +9968,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13236.30s] English:** Sorry, I don't know how you pronounce that.  
 **Translation:** 
 
-**[13238.42s] English:** And again, we did a demo at the CES of VLC  
+**[13238.42s] English:** And again, we did a demo at the CES of VLC.  
 **Translation:** 
 
-**[13242.38s] English:** running the first demo of AV2.  
+**[13242.38s] English:** Running the first demo of AV2.  
 **Translation:** 
 
-**[13244.42s] English:** So can you clarify to me the specification of AV2  
+**[13244.42s] English:** So, can you clarify to me the specification of AV2?  
 **Translation:** 
 
-**[13249.16s] English:** and then the encoding and the decoding?  
-**Translation:** Vocabulary: encoding: 编码; specification: 规范
+**[13249.16s] English:** And then, what about the encoding and decoding?  
+**Translation:** Vocabulary: clarify: 澄清; encoding: 编码; specification: 规范
 
 **[13252.52s] English:** Sure.  
 **Translation:** 
 
-**[13253.18s] English:** So the specification is like the document  
+**[13253.18s] English:** So, the specification is like the document.  
 **Translation:** 
 
-**[13256.84s] English:** who explains how the codec is supposed to work, right?  
+**[13256.84s] English:** Who explains how the codec is supposed to work, right?  
 **Translation:** 
 
 **[13259.88s] English:** Yes.  
@@ -10003,25 +10004,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13264.94s] English:** Then you have an encoder.  
 **Translation:** 
 
-**[13266.98s] English:** The current encoder is called AVM  
+**[13266.98s] English:** The current encoder is called AVM.  
 **Translation:** 
 
-**[13269.22s] English:** and there will probably be other encoders,  
+**[13269.22s] English:** And there will probably be other encoders.  
 **Translation:** Vocabulary: encoders: 编码器
 
-**[13271.88s] English:** probably one called SVT-AV2.  
+**[13271.88s] English:** Probably one called SVT-AV2.  
 **Translation:** 
 
-**[13274.10s] English:** And those are the encoder.  
+**[13274.10s] English:** And those are the encoders.  
 **Translation:** 
 
-**[13275.36s] English:** The same way X.264 is an encoder to H.264.  
+**[13275.36s] English:** The same way that X.264 is an encoder for H.264.  
 **Translation:** 
 
 **[13278.82s] English:** The same way that X.265 is an encoder for the H.265 codec.  
 **Translation:** 
 
-**[13284.82s] English:** And the decoders for AV1 is David.  
+**[13284.82s] English:** And the decoders for AV1 are David's.  
 **Translation:** 
 
 **[13290.00s] English:** The decoder for AV2 is David2.  
@@ -10031,18 +10032,18 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **Translation:** 
 
 **[13300.46s] English:** The decoder for HEVC is FF.HEVC inside FFmpeg.  
+**Translation:** Vocabulary: decoder: 解码器
+
+**[13306.36s] English:** And there is a next-generation codec from the MPEG world.  
 **Translation:** 
 
-**[13306.36s] English:** And there is a next generation codec from the MPEG world  
+**[13311.48s] English:** After H.264, H.265.  
 **Translation:** 
 
-**[13311.48s] English:** after H.264, H.265.  
+**[13313.76s] English:** There is one called H.266, also known as VVC.  
 **Translation:** 
 
-**[13313.76s] English:** There is one that is called H.266, also known as VVC.  
-**Translation:** 
-
-**[13319.26s] English:** So H.EVC.  
+**[13319.26s] English:** So, HEVC.  
 **Translation:** 
 
 **[13320.00s] English:** VVC is H.265.  
@@ -10051,19 +10052,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13322.78s] English:** VVC is H.266.  
 **Translation:** 
 
-**[13326.42s] English:** Why is H.266 super sexy so much better?  
+**[13326.42s] English:** Why is H.266 so sexy and much better?  
 **Translation:** 
 
-**[13329.86s] English:** So the question often we have is why are they two names?  
+**[13329.86s] English:** So, the question often asked is: Why are there two names?  
 **Translation:** 
 
-**[13333.70s] English:** Because most of the time it is a conjunct work from the ISO world and the ITU, which is the International Telecommunication Union.  
+**[13333.70s] English:** Because most of the time, it is a joint effort between the ISO world and the ITU, which is the International Telecommunication Union.  
 **Translation:** 
 
-**[13344.32s] English:** These are these two regulatory bodies.  
-**Translation:** Vocabulary: conjunct: 联合; telecommunication: 电信
+**[13344.32s] English:** These are the two regulatory bodies.  
+**Translation:** Vocabulary: regulatory: 监管; telecommunication: 电信
 
-**[13346.08s] English:** One is a private entity and one is the United Nations.  
+**[13346.08s] English:** One is a private entity, and one is the United Nations.  
 **Translation:** 
 
 **[13348.70s] English:** Which one is the private?  
@@ -10072,7 +10073,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13349.68s] English:** ISO is private.  
 **Translation:** 
 
-**[13350.54s] English:** In theory, H.264 is MPEG-4 part 10 H.264 slash AVC.  
+**[13350.54s] English:** In theory, H.264 is MPEG-4 Part 10, also known as AVC.  
 **Translation:** 
 
 **[13361.76s] English:** And this is the full name.  
@@ -10081,19 +10082,19 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13363.86s] English:** Nice.  
 **Translation:** 
 
-**[13364.32s] English:** So it's the concatenation of the ISO name and the ITU name.  
+**[13364.32s] English:** So, it's the concatenation of the ISO name and the ITU name.  
 **Translation:** 
 
 **[13368.00s] English:** Yeah.  
-**Translation:** Vocabulary: concatenation: 连接
+**Translation:** 
 
 **[13368.44s] English:** Even though they work together.  
 **Translation:** 
 
-**[13369.98s] English:** This is politics, historical.  
+**[13369.98s] English:** This is political history.  
 **Translation:** 
 
-**[13372.88s] English:** And for HEVC, it's MPEG-H H.265 HEVC.  
+**[13372.88s] English:** And for HEVC, it's MPEG-H H. 265 (HEVC).  
 **Translation:** 
 
 **[13378.66s] English:** Got it.  
@@ -10105,16 +10106,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13379.66s] English:** There is H.266, which is also named VVC.  
 **Translation:** 
 
-**[13382.90s] English:** Is there a high-level thing to say about the improvement?  
+**[13382.90s] English:** Is there a high-level thing to say about the improvements?  
 **Translation:** 
 
 **[13385.54s] English:** 30% each generation is the best summary.  
 **Translation:** 
 
-**[13389.14s] English:** This is true both for the AV products and the H.264, 5, 6.  
+**[13389.14s] English:** This is true both for the AV products and H.264, H.265, and H.266.  
 **Translation:** 
 
-**[13394.98s] English:** So the professionals who are listening to us are going to kill us because they say, no, it's 35%, 25%.  
+**[13394.98s] English:** So, the professionals who are listening to us are going to kill us because they say: no, it's 35%, 25%.  
 **Translation:** 
 
 **[13400.64s] English:** It's 50, it's 50, it's blah, blah, blah.  
@@ -10129,22 +10130,22 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13409.66s] English:** H.265.  
 **Translation:** 
 
-**[13410.06s] English:** Because there are so many cases and so many scenarios.  
+**[13410.06s] English:** Because there are so many cases and scenarios.  
 **Translation:** 
 
 **[13412.76s] English:** For example, there are cases, especially for screen recording, where the gains are humongous.  
 **Translation:** Vocabulary: humongous: 巨大; scenarios: 情况
 
-**[13420.20s] English:** Because you arrive, you have the right tool that is done for that.  
+**[13420.20s] English:** Because you've arrived, you have the right tool for that.  
 **Translation:** 
 
-**[13423.38s] English:** And so for a specific video, a new generation is going to give you 70% gain or 80% gain.  
+**[13423.38s] English:** And so, for a specific video, a new generation is going to give you a 70% gain or an 80% gain.  
 **Translation:** 
 
 **[13430.64s] English:** But there used to be a ton more codecs.  
 **Translation:** 
 
-**[13432.92s] English:** But now the two main codecs for transmission are the H.264, H.265, H.266.  
+**[13432.92s] English:** But now, the two main codecs for transmission are H.264, H.265, and H.266.  
 **Translation:** 
 
 **[13438.44s] English:** And the other is AV1.  
@@ -10153,11 +10154,11 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13440.00s] English:** And I guess the major difference would be the cost of encoding.  
 **Translation:** Vocabulary: encoding: 编码
 
-**[13444.78s] English:** Yes, and the royalty of the patents.  
+**[13444.78s] English:** Yes, and the royalties on the patents.  
 **Translation:** 
 
-**[13447.94s] English:** And this is the reason why you see the AV version of Codex is because they try to be as royalty-free, which means no cost for the patents as much as possible.  
-**Translation:** Vocabulary: codex: 法典
+**[13447.94s] English:** And this is the reason why you see the AV version of Codex; it's because they try to be as royalty-free as possible, which means no cost for the patents.  
+**Translation:** Vocabulary: codex: 法典; royalties: 版税
 
 **[13459.50s] English:** Because what you need to know, and we've not talked about that so far, is that multimedia is what we call a patent minefield.  
 **Translation:** 
@@ -10165,37 +10166,37 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13466.82s] English:** There are two places where you have the most patents.  
 **Translation:** Vocabulary: minefield: 专利雷区
 
-**[13470.72s] English:** It's everything related to 3G, 4G, 5G, RF, and multimedia, because it's very mathematical and you can get great gains and so on.  
+**[13470.72s] English:** It's everything related to 3G, 4G, 5G, RF, and multimedia, because it's very mathematical and you can get great gains, and so on.  
 **Translation:** 
 
-**[13480.86s] English:** So Google and Meta and Netflix wanted something where it was royalty-free.  
+**[13480.86s] English:** So, Google and Meta and Netflix wanted something that was royalty-free.  
 **Translation:** Vocabulary: mathematical: 数学相关的; multimedia: 多媒体的
 
 **[13486.78s] English:** There are people who say that they have patents outside, but they are fringe patents, right?  
 **Translation:** 
 
-**[13490.70s] English:** So it's mostly true that it's patent-free.  
-**Translation:** Vocabulary: fringe: 边缘专利
+**[13490.70s] English:** So, it's mostly true that it's patent-free.  
+**Translation:** Vocabulary: fringe: 边缘的
 
-**[13493.36s] English:** We should extend patent checking was done.  
+**[13493.36s] English:** We should extend the patent-checking process.  
 **Translation:** 
 
 **[13496.82s] English:** As part of the standardization process in AV1, AV2, whereas patents are not even discussed in the MPEG world.  
-**Translation:** Vocabulary: patent: 专利; standardization: 标准化
+**Translation:** Vocabulary: standardization: 标准化
 
-**[13506.40s] English:** Patents are off-topic completely.  
+**[13506.40s] English:** Patents are totally off-topic.  
 **Translation:** 
 
-**[13508.36s] English:** Can you educate me at the patents side?  
+**[13508.36s] English:** Can you educate me on the patent side?  
+**Translation:** Vocabulary: patent: 专利
+
+**[13510.50s] English:** So, usually, MPEG does a format, right?  
 **Translation:** 
 
-**[13510.50s] English:** So usually, so MPEG does a format, right?  
+**[13513.04s] English:** And then there is, everyone comes around and says, "Well, I have all those patents or formats.  
 **Translation:** 
 
-**[13513.04s] English:** And then there is, everyone comes around and say, well, I have all those patents or formats.  
-**Translation:** 
-
-**[13518.38s] English:** And they do usually a union called, what's called MPEG LA, MPEG Licensing Association.  
+**[13518.38s] English:** And they usually form a union called what's known as MPEG LA, MPEG Licensing Association.  
 **Translation:** 
 
 **[13525.50s] English:** And you put all those.  
@@ -10207,16 +10208,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13531.64s] English:** Wait, can you elaborate?  
 **Translation:** Vocabulary: elaborate: 详细说明
 
-**[13532.82s] English:** What does it mean to have a patent of a codec?  
+**[13532.82s] English:** What does it mean to have a patent on a codec?  
 **Translation:** 
 
-**[13534.44s] English:** Why is there many patents?  
+**[13534.44s] English:** Why are there many patents?  
 **Translation:** 
 
 **[13537.56s] English:** Imagine I'm doing something where I'm going to, instead of doing blocks, which are square, I'm going to do rectangles, right?  
 **Translation:** 
 
-**[13544.10s] English:** Oh, so every idea.  
+**[13544.10s] English:** Oh, so every idea!  
 **Translation:** Vocabulary: rectangles: 长方形
 
 **[13545.58s] English:** Yes.  
@@ -10237,7 +10238,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13551.84s] English:** Oh, man.  
 **Translation:** 
 
-**[13553.34s] English:** People and how many lawyers are there?  
+**[13553.34s] English:** People, and how many lawyers are there?  
 **Translation:** 
 
 **[13556.82s] English:** I mean, it pays for a lot of lawyers, right?  
@@ -10246,52 +10247,52 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13558.04s] English:** The biggest issue is not the following, right?  
 **Translation:** 
 
-**[13560.00s] English:** Because at the time of H.264, the patents were, let's call it, like, sane.  
+**[13560.00s] English:** Because, at the time of H.264, the patents were, let's call it, more or less, sane.  
 **Translation:** 
 
-**[13564.64s] English:** But there was so much money in that, that for HEVC, there were a ton of things that were pushed inside the specification, which are not useful in 99.9% of the time, but just one could add a patent on it.  
+**[13564.64s] English:** But there was so much money in that; for HEVC, there were a ton of things pushed inside the specification, which are not useful in 99.9% of the time, but just one could add a patent on it.  
 **Translation:** 
 
-**[13582.20s] English:** And so it became that for HEVC licensing, there was MPEG-LA plus another patent pool called HEVC Advance, plus, I think, was Nokia was outside of the patent pool.  
+**[13582.20s] English:** And so it became that for HEVC licensing, there was MPEG LA, plus another patent pool called HEVC Advance, and I think Nokia was outside of the patent pool.  
 **Translation:** Vocabulary: specification: 规范
 
-**[13594.54s] English:** Yeah, a few of them are outside and some other one.  
+**[13594.54s] English:** Yeah, a few of them are outside, and some others are inside.  
 **Translation:** 
 
-**[13596.88s] English:** And so it was impossible to license, right?  
+**[13596.88s] English:** And so, it was impossible to license, right?  
 **Translation:** 
 
-**[13599.00s] English:** And I think that several months ago, HP decided that they were going to remove support from HEVC in their Windows laptops because the cost was increasing of those patents.  
+**[13599.00s] English:** And I think that several months ago, HP decided that they were going to remove support for HEVC in their Windows laptops because the cost of those patents was increasing.  
 **Translation:** 
 
-**[13610.90s] English:** And it arrived at a point where, and there was uncapped pad.  
+**[13610.90s] English:** And it arrived at a point where there was an uncapped pad.  
+**Translation:** Vocabulary: laptops: 笔记本电脑
+
+**[13616.32s] English:** And so, for YouTube or Netflix, we could talk about hundreds of millions of dollars in licensing fees per year.  
 **Translation:** 
 
-**[13616.32s] English:** And so for YouTube or Netflix, we could talk about hundreds of millions of dollars of licensing for patents per year.  
-**Translation:** 
-
-**[13624.88s] English:** And they said, you know what, at 100 million per year, you know, I could create my own codec.  
+**[13624.88s] English:** And they said, "You know what? At $100 million per year, I could create my own codec.  
 **Translation:** 
 
 **[13630.18s] English:** And this is what they did.  
 **Translation:** 
 
-**[13631.04s] English:** And so that's why we have the Open Media Alliance, Alliance for Open Media, where we are part of, that is, that created AV1 and creates AV2.  
+**[13631.04s] English:** And so, that's why we have the Open Media Alliance, also known as the Alliance for Open Media, where we are a part of it, and which created AV1 and is creating AV2.  
 **Translation:** 
 
-**[13639.54s] English:** We create also audio codecs.  
+**[13639.54s] English:** We also create audio codecs.  
 **Translation:** 
 
 **[13643.16s] English:** But, yes, so the main difference would be that.  
 **Translation:** 
 
-**[13646.26s] English:** And because you need to work around the patents or go do some things that are not patented, a lot of things are different, right?  
+**[13646.26s] English:** And because you need to work around the patents—or go do some things that are not patented—a lot of things are different, right?  
 **Translation:** 
 
 **[13653.98s] English:** The basic things that were done in MPEG-2 30 years ago are, of course, out of patents.  
 **Translation:** 
 
-**[13659.98s] English:** But so, for example, there is things like Golden Frame, S-Frame or different type of…  
+**[13659.98s] English:** But, for example, there are things like Golden Frame, S-Frame, or different types of...  
 **Translation:** 
 
 **[13666.82s] English:** These are all patented ideas.  
@@ -10303,58 +10304,58 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13669.44s] English:** It's not butter.  
 **Translation:** 
 
-**[13670.06s] English:** I can't believe it's not a B-Frame.  
+**[13670.06s] English:** I can't believe it's not a B-frame.  
 **Translation:** 
 
 **[13672.46s] English:** I mean, it's kind of what it is.  
 **Translation:** 
 
-**[13674.02s] English:** In some ways, it's like a…  
+**[13674.02s] English:** In some ways, it's like a...  
 **Translation:** 
 
-**[13675.38s] English:** Oh, so it's a different variant of a B-Frame.  
+**[13675.38s] English:** Oh, so it's a different variant of a B-frame.  
 **Translation:** 
 
 **[13677.40s] English:** Yeah, that's to try and sidestep.  
 **Translation:** 
 
-**[13679.66s] English:** I think…  
-**Translation:** Vocabulary: sidestep: 绕开
+**[13679.66s] English:** I think...  
+**Translation:** Vocabulary: sidestep: 避开
 
-**[13680.00s] English:** And so you need to have double creativity, right? Creativity in terms of being more efficient, but creativity of being sure that you don't infringe existing patents. And so, for example, VVC has all the patents of HEVC plus new ones, right? That's why AV2 tries to be as royalty-free as possible.  
+**[13680.00s] English:** And so, you need to have double creativity, right? Creativity in terms of being more efficient, but creativity in ensuring that you don't infringe existing patents. And so, for example, VVC has all the patents of HEVC plus new ones, right? That's why AV2 tries to be as royalty-free as possible.  
 **Translation:** 
 
-**[13700.78s] English:** To what degree does FFmpeg and VLC have to think about this kind of stuff?  
+**[13700.78s] English:** To what degree do FFmpeg and VLC have to think about this kind of stuff?  
 **Translation:** 
 
-**[13703.96s] English:** We don't. And one of the reasons why VLC was in France is that France rejects software patents.  
+**[13703.96s] English:** We don't, and one of the reasons why VLC was in France is that France rejects software patents.  
 **Translation:** 
 
-**[13711.18s] English:** So most of those patents are illegal in France.  
-**Translation:** 
+**[13711.18s] English:** So, most of those patents are illegal in France.  
+**Translation:** Vocabulary: rejects: 拒绝
 
-**[13715.30s] English:** Because I once made the calculus that if I had to pay all the licensing fee for VLC, I needed to pay more than 200 euros per user, right?  
+**[13715.30s] English:** Because I once calculated that if I had to pay all the licensing fees for VLC, I would need to pay more than 200 euros per user, right?  
 **Translation:** 
 
 **[13727.30s] English:** The same in dollars.  
-**Translation:** Vocabulary: calculus: 计算
-
-**[13728.68s] English:** But most of those patents are invalid in Europe because those are called VLCs.  
 **Translation:** 
 
-**[13733.96s] English:** It's basically mathematical patents or idea patents, and they are not valid in Europe.  
-**Translation:** Vocabulary: mathematical: 数学的
-
-**[13739.78s] English:** Let me just at a high level, just out of curiosity.  
+**[13728.68s] English:** But most of those patents are invalid in Europe because they are called VLCs.  
 **Translation:** 
 
-**[13743.52s] English:** So the meme online and the interwebs on X and Twitter and so on.  
+**[13733.96s] English:** It's basically about mathematical patents or idea patents, and they are not valid in Europe.  
+**Translation:** Vocabulary: invalid: 无效; mathematical: 数学的
+
+**[13739.78s] English:** Let me just give you a high-level overview, just out of curiosity.  
+**Translation:** 
+
+**[13743.52s] English:** So, the meme online and on the interwebs on X and Twitter, and so on.  
 **Translation:** Vocabulary: interwebs: 互联网
 
-**[13748.38s] English:** And my own friends in Europe, the sense is that Europe is not friendly to entrepreneurship.  
+**[13748.38s] English:** And my own friends in Europe have the sense that Europe is not very friendly to entrepreneurship.  
 **Translation:** 
 
-**[13757.34s] English:** They over-regulate, there's too much bureaucracy and so on.  
+**[13757.34s] English:** They over-regulate, there's too much bureaucracy, and so on.  
 **Translation:** Vocabulary: bureaucracy: 官僚主义; entrepreneurship: 创业
 
 **[13761.88s] English:** Is there anything positive?  
@@ -10369,379 +10370,379 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[13772.00s] English:** Just look at the two of us, right?  
 **Translation:** 
 
-**[13773.36s] English:** It's notable that there's two people from the European continent on this podcast talking about video.  
+**[13773.36s] English:** It's notable that there are two people from the European continent on this podcast talking about video.  
 **Translation:** 
 
 **[13779.68s] English:** It's fair to say the community has waited heavily.  
 **Translation:** 
 
-**[13782.32s] English:** What you probably don't see yet is that there is a new generation of entrepreneurs in Europe and mostly in France.  
+**[13782.32s] English:** What you probably don't see yet is that there is a new generation of entrepreneurs in Europe, and mostly in France.  
 **Translation:** 
 
-**[13791.98s] English:** UK has done it since a long time.  
+**[13791.98s] English:** The UK has done it for a long time.  
 **Translation:** Vocabulary: entrepreneurs: 企业家
 
 **[13793.84s] English:** Because it's been a long time.  
 **Translation:** 
 
-**[13793.96s] English:** Because, well, it's more Anglo-Saxon type of business, look at business.  
+**[13793.96s] English:** Because, well, it's more Anglo-Saxon-type of business. Look at the business.  
 **Translation:** 
 
-**[13800.00s] English:** but especially like what happened in france and of course sometimes a bit overdone with everything  
+**[13800.00s] English:** But especially like what happened in France, and of course, sometimes it can be a bit overdone with everything.  
 **Translation:** 
 
-**[13805.44s] English:** called french tech but today most of the people who come on the market wants to create a startups  
+**[13805.44s] English:** Called French Tech, but today, most of the people who come on the market want to create startups.  
 **Translation:** Vocabulary: overdone: 过度炒作; startups: 初创企业
 
-**[13811.76s] English:** 15 years ago it wasn't the case everyone wanted to work on big companies because when you failed  
+**[13811.76s] English:** 15 years ago, it wasn't the case that everyone wanted to work for big companies because when you failed,  
 **Translation:** 
 
-**[13818.00s] English:** in in france for example 20 years ago 15 years ago and you destroy your company which is normal  
+**[13818.00s] English:** In France, for example, 20 years ago or 15 years ago, and you destroy your company—which is normal.  
 **Translation:** 
 
-**[13824.72s] English:** for startup right you you were not allowed to create a new company right there was a lot of  
+**[13824.72s] English:** For startups, right? You weren't allowed to create a new company, right? There was a lot of  
 **Translation:** 
 
-**[13829.04s] English:** stigma this team is gone um there is so many things happening on ai in france and so on right  
+**[13829.04s] English:** Stigma: This team is gone. Um, there are so many things happening in AI in France and so on, right?  
 **Translation:** 
 
-**[13835.68s] English:** so there is sure over regulations i i know that right but it has some good things also i mean  
+**[13835.68s] English:** So, there is surely over-regulation, I know that for sure, but it has some good things too, I mean.  
 **Translation:** 
 
-**[13846.08s] English:** is there some paralyzing aspects you know if i look at the case of somebody i've uh  
+**[13846.08s] English:** Is there some paralyzing aspects? You know, if I look at the case of somebody I've...  
 **Translation:** Vocabulary: paralyzing: 使人瘫痪的
 
-**[13851.68s] English:** become close with paul durov you know he was uh uh blamed directly by the french government  
+**[13851.68s] English:** Become close with Paul Durov, you know; he was directly blamed by the French government.  
 **Translation:** 
 
-**[13859.92s] English:** for the kind of things his quote platform was hosting i could see the same kind of stuff  
+**[13859.92s] English:** For the kind of things his platform was hosting, I could see the same kind of stuff.  
 **Translation:** 
 
-**[13867.36s] English:** basically just as an example vlc being blamed for the kind of videos that people are watching right  
+**[13867.36s] English:** Basically, just as an example, VLC being blamed for the kind of videos that people are watching, right?  
 **Translation:** 
 
-**[13874.00s] English:** right like we had we like we we had issues like we like i mean is that that's the pressure that  
+**[13874.00s] English:** Right, like we had issues, like we, you know, that's the pressure that  
 **Translation:** 
 
-**[13880.40s] English:** people worry about because if you have to think about that kind of stuff when you're kind of  
+**[13880.40s] English:** People worry about because if you have to think about that kind of stuff when you're kind of  
 **Translation:** 
 
-**[13884.72s] English:** just obsessed about well you don't think about it and that's that's okay right  
+**[13884.72s] English:** Just obsessed about it, but you don't think about it, and that's okay, right?  
+**Translation:** Vocabulary: obsessed: 着迷
+
+**[13889.04s] English:** Like, but what if they come in when/if they show up and there is no office? Fiddleland doesn't have.  
 **Translation:** 
 
-**[13889.04s] English:** like but what if they come in when if they show up and there is no office fiddleland doesn't have  
+**[13893.36s] English:** Office—I mean, this is what happened with Paula; they arrested him, right? So, they arrested him for...  
 **Translation:** 
 
-**[13893.36s] English:** office i mean this is what happened with paula they arrested him right so arrested him for  
-**Translation:** Vocabulary: fiddleland: 虚构之地
-
-**[13897.52s] English:** particular videos or or a particular content that's being shared on the platform sure i don't  
+**[13897.52s] English:** Particular videos or content that's being shared on the platform? Sure, I don't  
 **Translation:** 
 
-**[13902.40s] English:** have any platform everything is on the client side yeah but they're they can still arrest you  
+**[13902.40s] English:** Have any platform, everything is on the client side. Yeah, but they can still arrest you.  
 **Translation:** 
 
-**[13907.28s] English:** on what ground i'm not sharing anything i'm not the content doesn't go through my my stuff for  
+**[13907.28s] English:** On what grounds am I not sharing anything? I'm not the one filtering the content that goes through my stuff.  
 **Translation:** 
 
-**[13912.08s] English:** sure but it's still lawyer fees that's the problem yes that's correct it's paperwork so they actually  
+**[13912.08s] English:** Sure, but it's still the lawyer fees that's the problem. Yes, that's correct. It's paperwork, so they actually.  
+**Translation:** Vocabulary: filtering: 筛选
+
+**[13919.04s] English:** They have to do it, and they're not going to be able to do it because they're not going to be able to do it.  
 **Translation:** 
 
-**[13919.04s] English:** have to do it and they're not going to be able to do it because they're not going to be able to do it  
+**[13920.00s] English:** You would win easily because you're on the right side, but the thing is, there is a degree to which  
 **Translation:** 
 
-**[13920.00s] English:** you would win easily because you're on the right side but the thing is there is a degree to which  
+**[13930.06s] English:** They suffocate you with paperwork—that's the downside of bureaucracy through paperwork.  
 **Translation:** 
 
-**[13930.06s] English:** they suffocate you with paperwork that's that's the downside of bureaucracy through paperwork  
+**[13934.22s] English:** Through the process, yes, you know, it's Kafkaesque. You have to realize that one of the good  
+**Translation:** Vocabulary: bureaucracy: 官僚主义; downside: 缺点; kafkaesque: 荒诞的; suffocate: 窒息
+
+**[13939.82s] English:** Things, for example, in France or most of Europe, is that the answering to a court order does  
 **Translation:** 
 
-**[13934.22s] English:** through process yes you know it's the kafka you have to to realize that one of the good  
-**Translation:** Vocabulary: bureaucracy: 官僚主义; downside: 缺点; kafka: 卡夫卡; suffocate: 窒息
+**[13948.70s] English:** Not make you bankrupt, right? It's not like in the U.S., where it can actually bankrupt you, right?  
+**Translation:** Vocabulary: bankrupt: 破产
 
-**[13939.82s] English:** things for example um in france or most of europe is that the the answering to a court order does  
+**[13953.70s] English:** There is the way the legal system works: I receive lawyer's letters every week, right?  
 **Translation:** 
 
-**[13948.70s] English:** not make you bankrupt right it's not like in the u.s where it can actually bankrupt you right  
+**[13963.14s] English:** And I can tell you that the cost of lawyer fees for Video Land is less than ten thousand dollars.  
 **Translation:** 
 
-**[13953.70s] English:** there is the way the law system work is that like i i receive lawyers letters every week right  
+**[13970.66s] English:** Per year, right? Right, so that's not really scary. I mean, similar with Paul and the intelligence agencies.  
 **Translation:** 
 
-**[13963.14s] English:** and i can tell you that the cost of lawyer fees for video land is less than ten thousand dollars  
+**[13976.04s] English:** Tried to say, "Can you put it back.  
 **Translation:** 
 
-**[13970.66s] English:** per year right right so that's not really scary i mean similar with paul the intelligence agencies  
+**[13978.54s] English:** Do it.  
 **Translation:** 
 
-**[13976.04s] English:** tried to like say can you put it back  
+**[13978.70s] English:** Yes, two of them. What do you say? No, I was a lot less polite. I see you; uh, yeah, yeah, you're  
 **Translation:** 
 
-**[13978.54s] English:** do it  
+**[13987.78s] English:** Basically, they're saying "hell no." Like, if we had to compromise our software, we would shut it down.  
 **Translation:** 
 
-**[13978.70s] English:** yes two of them what do you say no i was a lot less polite i see you uh yeah yeah you're  
+**[13992.74s] English:** This is clear, and what's the definition of compromise, like allowing a government to do a  
+**Translation:** Vocabulary: compromise: 妥协
+
+**[13998.62s] English:** Backdoor: There is no code that gets into VLC that we don't control, and the way we compile VLC, you  
 **Translation:** 
 
-**[13987.78s] English:** basically saying hell no like if we had to compromise our software we would shut it down  
+**[14005.58s] English:** Would call me completely paranoid, like  
+**Translation:** Vocabulary: backdoor: 后门; compile: 编译; paranoid: 多疑的
+
+**[14008.70s] English:** We compile on boxes that are offline, where we start by compiling the compiler. We do everything else after that.  
 **Translation:** 
 
-**[13992.74s] English:** this is clear and what's the definition of compromise like allowing a government to do a  
-**Translation:** 
-
-**[13998.62s] English:** backdoor there is no code that gets into vlc that we don't control and the way we compile vlc you  
-**Translation:** 
-
-**[14005.58s] English:** would call me completely paranoid like  
-**Translation:** Vocabulary: backdoor: 后门; paranoid: 多疑
-
-**[14008.70s] English:** we compile on boxes that are offline where we start by compiling the compiler we do everything  
-**Translation:** 
-
-**[14015.94s] English:** offline on on places that have never been connected to the internet uh we the way we do  
+**[14015.94s] English:** Offline in places that have never been connected to the Internet, uh, we the way we do.  
 **Translation:** Vocabulary: compiling: 编译
 
-**[14022.20s] English:** signing there is double signature um especially because for example we've seen and we believe it's  
+**[14022.20s] English:** Signing requires a double signature, especially because, for example, we've seen and believe it's  
 **Translation:** 
 
-**[14028.90s] English:** a it's a governmental agency that is not from uh the western world to try to push a fake binary  
-**Translation:** Vocabulary: binary: 二元对立; governmental: 政府机构
+**[14028.90s] English:** It's a governmental agency that is not from the Western world to try to push a fake binary.  
+**Translation:** Vocabulary: binary: 二元; governmental: 政府的
 
-**[14035.08s] English:** into our own servers and that scared us a lot  
+**[14035.08s] English:** Into our own servers, and that scared us a lot.  
 **Translation:** 
 
-**[14038.70s] English:** and video land  
+**[14038.70s] English:** And video land.  
 **Translation:** 
 
-**[14040.00s] English:** is open source how can you kill it like i moved to where right i moved to malta i moved to uh  
+**[14040.00s] English:** Is open source, how can you "kill" it? Like, I moved to... Where, right? I moved to Malta.  
 **Translation:** 
 
-**[14047.04s] English:** i don't know cayman islands and i changed the domain name and i i start again right like  
-**Translation:** Vocabulary: cayman: 开曼群岛; malta: 马耳他
+**[14047.04s] English:** I don't know about the Cayman Islands, and I changed the domain name; I started again from scratch.  
+**Translation:** Vocabulary: cayman: 开曼群岛; malta: 马耳他; scratch: 从头开始
 
-**[14054.24s] English:** vlc is a tool um it's a tool that is going to help people doing things uh we are not a platform  
+**[14054.24s] English:** VLC is a tool, um, it's a tool that is going to help people doing things; uh, we are not a platform.  
 **Translation:** 
 
-**[14061.92s] English:** um and for patents well i'm sorry but most of the patents like you shouldn't be able to patent math  
+**[14061.92s] English:** Um, and for patents, well, I'm sorry, but most of the patents—like, you shouldn't be able to patent math.  
 **Translation:** Vocabulary: patent: 专利
 
-**[14069.52s] English:** and matrixes like this is wrong does vlc ever like censor the kind of videos it can play and  
+**[14069.52s] English:** And matrices like this are wrong. Does VLC ever censor the kind of videos it can play, and  
 **Translation:** 
 
-**[14076.56s] English:** not based on the content of the video no never we never do that because like a vlc is completely  
-**Translation:** Vocabulary: censor: 审查
+**[14076.56s] English:** Not based on the content of the video, no, never. We never do that because, like VLC, is completely...  
+**Translation:** Vocabulary: censor: 审查; matrices: 矩阵
 
-**[14084.88s] English:** offline doesn't talk to any server so we don't know anything that you're using the software for  
+**[14084.88s] English:** Offline doesn't talk to any server, so we don't know anything you're using the software for.  
 **Translation:** 
 
-**[14089.68s] English:** so again there's no government that can say you know like the french government come in and say  
+**[14089.68s] English:** So, again, there's no government that can say, you know, like the French government coming in and say,  
 **Translation:** 
 
-**[14095.76s] English:** we don't want uh i think anime is destructive to  
+**[14095.76s] English:** We don't want, I think anime is destructive to.  
 **Translation:** 
 
-**[14099.52s] English:** society we don't want any anime not a lot of people no they cannot they cannot do that and  
+**[14099.52s] English:** Society: We don't want any anime; not a lot of people can do that, and they cannot.  
 **Translation:** Vocabulary: anime: 动画; cannot: 不能
 
-**[14104.24s] English:** also what they tried is to say hey i want to know if that person watched that type of video  
+**[14104.24s] English:** Also, what they tried is to say, "Hey, I want to know if that person watched that type of video.  
 **Translation:** 
 
-**[14109.36s] English:** and the answer is like no idea so no on that too so for surveillance no no no because the  
+**[14109.36s] English:** And the answer is, like, no idea, so no on that, too. So for surveillance, no, no, no, because the  
+**Translation:** Vocabulary: surveillance: 监视
+
+**[14115.28s] English:** Only infrastructure we have is a downloading infrastructure; there is no telemetry in VLC.  
 **Translation:** 
 
-**[14115.28s] English:** only infrastructure we have is a downloading infrastructure there is no telemetry in vlc  
-**Translation:** 
-
-**[14120.16s] English:** right it would be difficult because of the international nature it would be difficult  
+**[14120.16s] English:** Right; it would be difficult because of the international nature. It would be difficult.  
 **Translation:** Vocabulary: telemetry: 遥测系统
 
-**[14124.56s] English:** for you to incorporate that code because there would be someone in the uk and someone in germany  
+**[14124.56s] English:** For you to incorporate that code, because there would be someone in the UK and someone in Germany.  
 **Translation:** 
 
-**[14129.52s] English:** in the us as part of video and who'd be able to see that it would be extremely difficult the only  
+**[14129.52s] English:** In the U.S., as part of video, and who'd be able to see that it would be extremely difficult; the only  
 **Translation:** Vocabulary: incorporate: 吸收
 
-**[14133.76s] English:** thing that we can do which happened is like we had the issue we had the case with some police  
+**[14133.76s] English:** The thing that we could do, which happened, is that we had an issue with a case involving some police.  
 **Translation:** 
 
-**[14138.48s] English:** in the us who said we have a murder case right and the file is destructed or doesn't play in  
-**Translation:** Vocabulary: destructed: 损毁的文件
-
-**[14144.40s] English:** that version of vlc could you help us right we never have access to the video it's like  
+**[14138.48s] English:** In the U.S., someone said, "We have a murder case, right? And the file is destroyed or doesn't play.  
 **Translation:** 
 
-**[14148.40s] English:** a normal support right oh it's really about playing the file yes and like i remember in  
+**[14144.40s] English:** That version of VLC could you help us? We never have access to the video; it's like...  
 **Translation:** 
 
-**[14153.36s] English:** the middle of the afghan war right i received an email from someone in the army right i had  
+**[14148.40s] English:** A normal support request, right? It's really about playing the file, yes, and like I remember in...  
 **Translation:** 
 
-**[14159.52s] English:** don't remember  
+**[14153.36s] English:** The middle of the Afghan War; right, I received an email from someone in the Army. Right, I had  
+**Translation:** 
+
+**[14159.52s] English:** Don't remember.  
 **Translation:** Vocabulary: afghan: 阿富汗的
 
-**[14160.00s] English:** the grades right it was just like we have a big issue with the latest version of vlc  
+**[14160.00s] English:** The grades were just like we have a big issue with the latest version of VLC.  
 **Translation:** 
 
-**[14164.96s] English:** because it doesn't play correctly the file on an rtsp server that we have where there is all the  
+**[14164.96s] English:** Because it doesn't play the file correctly from an RTSP server that we have, where there is all the  
 **Translation:** 
 
-**[14171.76s] English:** the movies and he says vlc is very important for the moral on the troop on the ground right  
+**[14171.76s] English:** The movie, and he says VLC is very important for the morale on the ground, right?  
 **Translation:** 
 
-**[14176.48s] English:** because at night i think it might be boring right so they have a collection of videos to watch  
+**[14176.48s] English:** Because at night, I think it might be boring, so they have a collection of videos to watch.  
+**Translation:** Vocabulary: morale: 士气
+
+**[14180.40s] English:** Or movies over there, right? And, of course, I did an update, and I broke some RTSP support.  
 **Translation:** 
 
-**[14180.40s] English:** or movies over there right and and of course i did an update and i broke some support of rtsp  
+**[14186.80s] English:** Right, so I gave them another version just for them, because it was important and because...  
 **Translation:** 
 
-**[14186.80s] English:** right so i gave them another version just for them right because it was important and because  
+**[14192.16s] English:** VLC is completely open-source. I think it is allowed on U.S. Army laptops, right? Because the  
 **Translation:** 
 
-**[14192.16s] English:** vlc is completely open source i think it is allowed on the u.s army laptops right because the  
+**[14198.48s] English:** I guess someone in the U.S. military actually looked at it and said, "Well, okay, this is...  
+**Translation:** Vocabulary: laptops: 笔记本电脑
+
+**[14204.40s] English:** Okay, right, and the way we document how we process that was okay, right? So, the only way we work...  
 **Translation:** 
 
-**[14198.48s] English:** i guess someone in in the in the u.s military actually looked at it and say well okay this is  
+**[14209.52s] English:** With authorities is to help them, uh, doing support—that's amazing; that's really an amazing story.  
 **Translation:** 
 
-**[14204.40s] English:** okay right and the way we document how we process that was okay right so the only way we we work  
+**[14215.92s] English:** Yeah, we don't.  
 **Translation:** 
 
-**[14209.52s] English:** with authorities is to help them uh doing support that's amazing that's really that's amazing story  
+**[14216.80s] English:** See anything happening on how people use VLC, and this is strong. Do you feel the stress of this?  
 **Translation:** 
 
-**[14215.92s] English:** yeah we don't  
+**[14223.20s] English:** So, first of all, millions of people are using it. Second of all, the military might use it sometimes.  
 **Translation:** 
 
-**[14216.80s] English:** see anything happening on how people use vlc and this is strong do you feel the stress of this  
+**[14229.60s] English:** Pressure from governments is that? Does that make it a small team, right? Yeah, how big is VLC?  
 **Translation:** 
 
-**[14223.20s] English:** so first of all millions of people using it second of all the military using it maybe sometimes  
+**[14237.68s] English:** Country, like the core, contributes how many six-eight, but everything else is only legal—and that's it.  
 **Translation:** 
 
-**[14229.60s] English:** pressure from governments is that does that that's a that's a small team right yeah how big is vlc  
+**[14246.40s] English:** Everything.  
 **Translation:** 
 
-**[14237.68s] English:** country like the core contribute how many six eight but and and everything legally is only me  
+**[14246.80s] English:** That is legal, is only me. You're not stressed about this; I used to stress about that a lot.  
 **Translation:** 
 
-**[14246.40s] English:** everything  
+**[14252.00s] English:** Yeah, but the thing is, we're doing what we can for everyone—for the greater good. We work  
 **Translation:** 
 
-**[14246.80s] English:** that is legal is only me you're not stressed about this i used to stress about that a lot  
+**[14259.04s] English:** That we make some extremely complex technology easy for everyone, we're a tool, and every tool.  
 **Translation:** 
 
-**[14252.00s] English:** yeah but the thing is we're doing what we can for everyone for the greater good we we work  
+**[14265.84s] English:** Is going to be used for great things and for bad things, right? You cannot blame a tool, I think.  
 **Translation:** 
 
-**[14259.04s] English:** that we make some extremely complex technology easy for everyone we're a tool and every tool  
+**[14272.24s] English:** And this is very important for us.  
 **Translation:** 
 
-**[14265.84s] English:** is going to be used for great things and for bad things right you cannot blame a tool i think  
+**[14275.20s] English:** Um, I used to be a lot more stressed. I'm not anymore, right?  
 **Translation:** 
 
-**[14272.24s] English:** and and this is like very important for us  
+**[14280.00s] English:** What's the secret to your son? I mean, over and over in the chats I've had with you, uh,...  
 **Translation:** 
 
-**[14275.20s] English:** um i used to be a lot in a lot of stress i'm not anymore right  
+**[14281.92s] English:** You.  
 **Translation:** 
 
-**[14281.92s] English:** you  
+**[14287.96s] English:** Conversation today about every even tense topic? You're very Zen. What's the source?  
 **Translation:** 
 
-**[14280.00s] English:** what's the secret to your son i mean over and over in the chats i've had with you uh in the  
+**[14292.90s] English:** Of Zen, I have a way of thinking about what is the worst-case scenario — it's always right, and the  
+**Translation:** Vocabulary: scenario: 情景
+
+**[14302.74s] English:** The answer is at the end: If I take, like, a chess player—right, in the end, am I dead? Yes or no?  
 **Translation:** 
 
-**[14287.96s] English:** conversation today about every even tense topic you're very zen what's the uh what's the source  
-**Translation:** 
-
-**[14292.90s] English:** of zen i have a way of um thinking about what is the worst case scenario always right and the  
-**Translation:** 
-
-**[14302.74s] English:** answer is at the end if i take like like a chess player right in the end am i dead yes or no  
-**Translation:** 
-
-**[14309.52s] English:** right and and i do that non-stop right and that's also how i do my my startups right is that i'm  
+**[14309.52s] English:** Right, and I do that non-stop. Right, and that's also how I do my startups. Right, is that I'm  
 **Translation:** Vocabulary: startups: 创业项目
 
-**[14317.22s] English:** here to get something right what is the worst case it goes bankrupt that's life a company lives a  
+**[14317.22s] English:** Here, to get something right: what is the worst-case scenario? It goes bankrupt—that's life; a company lives.  
 **Translation:** 
 
-**[14323.26s] English:** company dies that's okay right like and so my moral way is always like am i dying in the end  
+**[14323.26s] English:** Company dies—that's okay, right? Like, and so my moral way is always: Am I dying in the end?  
 **Translation:** 
 
-**[14329.24s] English:** am i hurting someone if i'm the answer is no then too bad right like oh some lawyers are not going  
+**[14329.24s] English:** Am I hurting someone? If the answer is no, then too bad, right? Like, oh, some lawyers aren't going.  
 **Translation:** 
 
-**[14335.90s] English:** to be unhappy what are they going to do take all the money off video landings  
+**[14335.90s] English:** To be unhappy, what are they going to do? Take all the money off video landings?  
+**Translation:** Vocabulary: landings: 着陆
+
+**[14339.52s] English:** Wow, they're going to have $50,000—amazing, right? What are they going to do with that?  
 **Translation:** 
 
-**[14339.52s] English:** wow they're going to have 50 grand amazing right what are they going to do is that the  
+**[14344.76s] English:** Cuts the source code; it's out there, it's not stoppable. Also, because what we do is good.  
+**Translation:** Vocabulary: stoppable: 可阻止的
+
+**[14350.38s] English:** And it's done for everyone; that's beautiful, uh. Karen, you said that there's an active  
 **Translation:** 
 
-**[14344.76s] English:** cuts the source code is out there it's not stoppable also because what we do is good  
-**Translation:** Vocabulary: stoppable: 可停止的
-
-**[14350.38s] English:** and it's done for everyone that's beautiful uh karen you you said that there's an active  
-**Translation:** 
-
-**[14357.60s] English:** archiving uh preservation community i think that's super fascinating you wrote that  
+**[14357.60s] English:** Archiving, uh, preservation — community: I think that's super fascinating. You wrote that.  
 **Translation:** Vocabulary: archiving: 归档
 
-**[14362.80s] English:** they're stretching budget but they see the extreme importance of ffmpeg as a rosetta stone  
+**[14362.80s] English:** They're stretching their budget, but they see the extreme importance of FFmpeg as a Rosetta Stone.  
 **Translation:** 
 
-**[14369.52s] English:** media can be played a thousand years from now i mean that's a beautiful way to see ffmpeg vlc  
-**Translation:** Vocabulary: rosetta: 石碑对照
+**[14369.52s] English:** Media can be played a thousand years from now, I mean that's a beautiful way to see FFmpeg and VLC.  
+**Translation:** Vocabulary: rosetta: 石碑
 
-**[14376.46s] English:** as a tool for preserving visual knowledge yes it's one of the coolest communities um in open  
+**[14376.46s] English:** As a tool for preserving visual knowledge, yes, it's one of the coolest communities out there.  
 **Translation:** 
 
-**[14384.88s] English:** source multimedia mainly led by someone called dave rice i'll give him a shout out i think from  
+**[14384.88s] English:** Source multimedia, mainly led by someone called Dave Rice; I'll give him a shout-out. I think it's from  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[14389.28s] English:** um city university of new york is the archiving community they've done so much stuff that they  
+**[14389.28s] English:** Um, City University of New York is the archiving community; they've done so much stuff that they  
 **Translation:** 
 
-**[14394.90s] English:** value that they value open source one because yes they lack budgets but two they see the  
+**[14394.90s] English:** Value that they value open source, one because yes, they lack budgets, but two, they see the  
 **Translation:** 
 
-**[14399.52s] English:** fact that  
+**[14399.52s] English:** The fact that  
 **Translation:** 
 
-**[14400.00s] English:** but archiving video is important for the world,  
+**[14400.00s] English:** But archiving video is important for the world.  
 **Translation:** 
 
-**[14404.92s] English:** but being able to play that is a big problem.  
+**[14404.92s] English:** But being able to play that is a big problem.  
 **Translation:** 
 
-**[14407.96s] English:** Famously in the UK, there was something called the New Doomsday Book,  
+**[14407.96s] English:** Famously, in the UK, there was something called the New Doomsday Book.  
 **Translation:** Vocabulary: doomsday: 世界末日
 
-**[14411.72s] English:** and they archived lots of stuff on BBC microcomputers.  
+**[14411.72s] English:** And they archived lots of stuff on BBC Microcomputers.  
 **Translation:** 
 
 **[14415.18s] English:** Within 10 to 15 years, no one had the right software to play that.  
-**Translation:** Vocabulary: archived: 归档; microcomputers: 微型计算机
+**Translation:** Vocabulary: archived: 存档; microcomputers: 微型计算机
 
-**[14419.00s] English:** I think it was 20 years or something like that,  
+**[14419.00s] English:** I think it was 20 years or something like that.  
 **Translation:** 
 
-**[14420.92s] English:** and someone had to go and reverse engineer this,  
+**[14420.92s] English:** And someone had to go and reverse-engineer this.  
 **Translation:** 
 
-**[14422.72s] English:** and that was for 20 years. Imagine that in 1,000 years.  
+**[14422.72s] English:** And that was for 20 years. Imagine that in 1,000 years.  
 **Translation:** 
 
-**[14426.40s] English:** I think one of the great things about FFmpeg is it's written in C,  
+**[14426.40s] English:** I think one of the great things about FFmpeg is that it's written in C,  
 **Translation:** 
 
-**[14429.58s] English:** and C is the closest to mathematics you're probably going to get,  
+**[14429.58s] English:** And C is the closest to mathematics you're probably going to get.  
 **Translation:** 
 
-**[14433.44s] English:** the closest to logic.  
+**[14433.44s] English:** The closest to logic.  
 **Translation:** 
 
-**[14434.52s] English:** Do you think in 1,000 years we'll still have C compilers?  
+**[14434.52s] English:** Do you think, in 1,000 years, we'll still have C compilers?  
 **Translation:** 
 
 **[14437.12s] English:** Yes, we have languages that exist that haven't changed too much.  
@@ -10753,28 +10754,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14443.90s] English:** It will be like Latin. C will be like Latin.  
 **Translation:** Vocabulary: mathematical: 数学的
 
-**[14445.54s] English:** It will be a thing that you learn from the past,  
+**[14445.54s] English:** It will be a thing that you learn from the past.  
 **Translation:** 
 
-**[14448.32s] English:** but it will still be usable in certain contexts.  
+**[14448.32s] English:** But it will still be usable in certain contexts.  
 **Translation:** Vocabulary: usable: 可用的
 
-**[14451.16s] English:** The archiving community are really great, practically.  
+**[14451.16s] English:** The archiving community is really great, practically.  
 **Translation:** 
 
-**[14453.90s] English:** They, again, limited funds.  
+**[14453.90s] English:** They again limited funds.  
+**Translation:** Vocabulary: archiving: 文件归档; practically: 实际上
+
+**[14455.92s] English:** They funded the development of the FFv1 codec.  
 **Translation:** 
 
-**[14455.92s] English:** They funded the development of the FFv1 codec,  
-**Translation:** 
-
-**[14458.46s] English:** so that's a lossless codec.  
+**[14458.46s] English:** So, that's a lossless codec.  
 **Translation:** Vocabulary: lossless: 无损的
 
-**[14459.58s] English:** The archiving community is really scared  
+**[14459.58s] English:** The archiving community is really scared.  
 **Translation:** 
 
-**[14462.50s] English:** about the act of compression losing things.  
+**[14462.50s] English:** About the act of compression, losing things.  
 **Translation:** Vocabulary: compression: 压缩
 
 **[14464.90s] English:** They have a fair point in this.  
@@ -10783,229 +10784,229 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14468.00s] English:** If they compress too hard, it could change the view of the material.  
 **Translation:** Vocabulary: compress: 压缩
 
-**[14473.12s] English:** There could be something slightly different here and there,  
+**[14473.12s] English:** There could be something slightly different here and there.  
 **Translation:** 
 
-**[14475.32s] English:** so they're really concerned about things need to be not just compressed well,  
+**[14475.32s] English:** So they're really concerned that things need to be not just compressed well,  
 **Translation:** Vocabulary: compressed: 压缩
 
-**[14479.20s] English:** but lossless and be fast.  
+**[14479.20s] English:** But it needs to be both lossless and fast.  
 **Translation:** 
 
-**[14481.24s] English:** They worked with FFmpeg to develop a whole new codec  
+**[14481.24s] English:** They worked with FFmpeg to develop a whole new codec.  
 **Translation:** 
 
-**[14484.66s] English:** designed for fast software-based encoding.  
+**[14484.66s] English:** Designed for fast software-based encoding.  
 **Translation:** 
 
-**[14487.64s] English:** They're really concerned about resilience  
+**[14487.64s] English:** They're really concerned about resilience.  
 **Translation:** Vocabulary: encoding: 编码; resilience: 韧性
 
-**[14489.58s] English:** so if they're storing on tapes or other hard disks,  
+**[14489.58s] English:** So, if they're storing on tapes or other hard disks,  
 **Translation:** 
 
-**[14494.08s] English:** I lose some bits, I need to recover quickly,  
+**[14494.08s] English:** I lose some bits. I need to recover quickly.  
 **Translation:** 
 
-**[14496.12s] English:** I can't lose a whole GOP because I've lost a bit,  
+**[14496.12s] English:** I can't lose the entire GOP because I've already lost a bit.  
 **Translation:** 
 
-**[14499.12s] English:** something like that.  
+**[14499.12s] English:** Something like that.  
 **Translation:** 
 
-**[14501.20s] English:** So they're a really great bunch of people.  
+**[14501.20s] English:** So, they're a really great bunch of people.  
 **Translation:** 
 
 **[14502.28s] English:** They funded GPU encoding in FFmpeg to make FFv1 encode faster.  
 **Translation:** Vocabulary: encode: 编码
 
-**[14507.00s] English:** And it's really about preserving the world's multimedia heritage  
+**[14507.00s] English:** And it's really about preserving the world's multimedia heritage.  
 **Translation:** 
 
-**[14512.16s] English:** in a way that's usable.  
+**[14512.16s] English:** In a way that's usable.  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[14514.16s] English:** And there's a lot of great teams and a lot of archival groups across the world  
+**[14514.16s] English:** And there are a lot of great teams and archival groups across the world.  
 **Translation:** 
 
-**[14519.50s] English:** that have chosen FFmpeg.  
-**Translation:** Vocabulary: archival: 档案馆
+**[14519.50s] English:** That have chosen FFmpeg.  
+**Translation:** Vocabulary: archival: 档案保存的
 
-**[14520.00s] English:** ffmpeg and ffv1 as their archiving solution and they can really provide us also super specialist  
+**[14520.00s] English:** FFmpeg and FFV1 as their archiving solution, and they can really provide us with some superb specialists.  
 **Translation:** 
 
-**[14527.16s] English:** advice they can explain ah in the 1950s colorimetry was done like this on this certain type of  
-**Translation:** Vocabulary: archiving: 存档; colorimetry: 色彩测量
+**[14527.16s] English:** Advice they can explain: In the 1950s, colorimetry was done like this for this certain type of...  
+**Translation:** Vocabulary: colorimetry: 颜色测量; superb: 出色
 
-**[14534.26s] English:** tape and so there is a this special case that you need to handle and you'll never get this  
+**[14534.26s] English:** Tape, and so there is a special case that you need to handle, and you'll never get this.  
 **Translation:** 
 
-**[14539.98s] English:** anywhere else you see they know things on video like we don't yes like every time i talk to  
+**[14539.98s] English:** Anywhere else, you see, they know things on video that we don't, yes. Like every time I talk to...  
 **Translation:** 
 
-**[14546.00s] English:** was it dave rice or the people from the british uh british film film it's just like every time i  
+**[14546.00s] English:** Was it Dave Rice or the people from the British film? It's just like every time I  
 **Translation:** 
 
-**[14551.46s] English:** just learn something new and i've been doing video for 20 years they they have especially on  
+**[14551.46s] English:** Just learn something new, and I've been doing videos for 20 years—they have, especially on  
 **Translation:** 
 
-**[14556.66s] English:** colorimetry and colors storage these other things i mean they have a deep deep appreciation of the  
+**[14556.66s] English:** Colorimetry and color storage; these other things, I mean, they have a deep, deep appreciation of the.  
 **Translation:** 
 
-**[14563.56s] English:** content itself of the video itself and like especially when you're thinking lossless  
+**[14563.56s] English:** Content itself of the video, and like, especially when you're thinking lossless.  
+**Translation:** Vocabulary: lossless: 无损的
+
+**[14568.38s] English:** They're terrified of losing something essential about the thing, and in so doing, they're deeply  
 **Translation:** 
 
-**[14568.38s] English:** they're terrified of losing something essential about the thing and in so doing they're deeply  
+**[14575.24s] English:** Understanding  
 **Translation:** 
 
-**[14575.24s] English:** understanding  
+**[14576.00s] English:** The thing that is to be preserved, which you sometimes might not be thinking about when you're  
 **Translation:** 
 
-**[14576.00s] English:** the thing that is to be preserved which you sometimes might not be thinking about when you're  
+**[14580.56s] English:** Obsessing about the actual technology of the encoding, and so on, and when you enter the habit.  
+**Translation:** Vocabulary: encoding: 编码; obsessing: 痴迷
+
+**[14585.44s] English:** Hole in film scanners, right? So, you take those things to make them digital. It's like  
 **Translation:** 
 
-**[14580.56s] English:** obsessing about the actual technology of the encoding and so on and when you enter the habit  
-**Translation:** 
-
-**[14585.44s] English:** hole of film scanners right so you take those those things to make to digital life it's like  
-**Translation:** 
-
-**[14592.88s] English:** a huge topic that like would take another five hours of podcast just on that film and there's  
+**[14592.88s] English:** A huge topic that, like, would take another five hours of podcast just on that film, and there's  
 **Translation:** Vocabulary: scanners: 扫描仪
 
-**[14599.34s] English:** a lot of film that needs to be archived film is degrading it's maybe not stored in the right  
+**[14599.34s] English:** A lot of film that needs to be archived is degrading; it's maybe not stored in the right way.  
 **Translation:** 
 
-**[14603.08s] English:** environment the other thing is they can what they also do is  
-**Translation:** Vocabulary: archived: 已归档; degrading: 退化
+**[14603.08s] English:** Environment: The other thing is, they can also do is...  
+**Translation:** Vocabulary: archived: 已归档的; degrading: 退化
 
-**[14605.90s] English:** you can you can you can you can you can you can you can you can you can you can you can  
+**[14605.90s] English:** You can, you can, you can, you can, you can, you can, you can, you can, you can, you can, you can.  
 **Translation:** 
 
-**[14605.98s] English:** because it's open source they give this away their workflows to countries who can't afford to  
+**[14605.98s] English:** Because it's open source, they give these workflows away to countries who can't afford to.  
 **Translation:** Vocabulary: workflows: 工作流程
 
-**[14610.66s] English:** have archiving institutions where archiving is done by volunteers it's done by other things  
+**[14610.66s] English:** Have archiving institutions where archiving is done by volunteers; it's also done by other means.  
 **Translation:** 
 
-**[14615.38s] English:** they go and teach you know in india they teach children to do to do ffmpeg commands they're  
+**[14615.38s] English:** They go and teach; you know, in India, they teach children how to do FFmpeg commands.  
+**Translation:** Vocabulary: archiving: 归档
+
+**[14620.82s] English:** Really great; they're really, uh, the model community when it comes to the ethos of what we're aiming for.  
 **Translation:** 
 
-**[14620.82s] English:** really great they're really uh they're really the model community the model ethos of what we're  
+**[14625.96s] English:** Trying to achieve that, they are such a great bunch of people so interested in participating.  
+**Translation:** Vocabulary: aiming: 目标; ethos: 精神
+
+**[14631.84s] English:** And being part of something much bigger, because they realize the work they're doing.  
 **Translation:** 
 
-**[14625.96s] English:** trying to achieve that they are such a great bunch of people so interested in participating  
-**Translation:** Vocabulary: ethos: 行为准则
-
-**[14631.84s] English:** and being part of something much bigger because they realize the work they're doing  
+**[14635.98s] English:** In a thousand years, that will tell a lot, you know. In a thousand years,...  
 **Translation:** 
 
-**[14635.98s] English:** in a thousand years is going to tell a lot you know in a thousand years  
+**[14640.00s] English:** Years, we may be drowning in AI slop. This stuff needs to be important and you know, archived well.  
 **Translation:** 
 
-**[14640.00s] English:** years we may be drowning in ai slop this stuff needs to be important and you know archived well  
+**[14645.20s] English:** What was life like, yeah? It feels like capturing the 20th century in the 21st century is  
 **Translation:** 
 
-**[14645.20s] English:** what was the what was life like yeah it feels like capturing the 20th century in the 21st century is  
+**[14650.84s] English:** Essential because it feels like a transition point where we went from scarcity of data to  
 **Translation:** 
 
-**[14650.84s] English:** essential because it feels like a transition point where we went from scarcity of data to  
+**[14658.50s] English:** Sloshing oceans of slop, and that transition point is good to archive. People don't realize we are losing.  
+**Translation:** Vocabulary: archive: 归档; scarcity: 稀缺; sloshing: 数据泛滥
+
+**[14667.12s] English:** Today, there's a ton of films from the 30s, the 40s, and the 50s.  
 **Translation:** 
 
-**[14658.50s] English:** slop oceans of slop and that transition point is good to archive people don't realize we are losing  
-**Translation:** Vocabulary: scarcity: 匮乏
-
-**[14667.12s] English:** today a ton of films there is a ton of things from the 30s from the 40s and the 50s that where  
+**[14675.28s] English:** There is no value, and tape from the 70s and 80s. There's tape, but there's not enough tape heads in the  
 **Translation:** 
 
-**[14675.28s] English:** there is no value and tape 70s and 80s there's tape and there's not enough tape heads in the  
+**[14681.02s] English:** World, to read all the types of readers, so they have to decide what they want to archive and  
 **Translation:** 
 
-**[14681.02s] English:** world to read all the types of readers so they have to decide what they want to archive and  
+**[14684.86s] English:** Throw away the rest of the tapes; there's huge moral hazard, I guess, for want of a better phrase.  
 **Translation:** 
 
-**[14684.86s] English:** throw away the rest of the tapes there's huge moral hazard i guess for want of a better phrase  
+**[14690.00s] English:** Around this topic, because this is a digital record of human history and they have to make decisions.  
 **Translation:** 
 
-**[14690.00s] English:** around this topic because this is a digital record of human history and they have to make decisions  
+**[14697.12s] English:** And there's digital stewardship, I suppose. For one to have, I made that phrase up; that's not a real thing.  
+**Translation:** Vocabulary: stewardship: 管理责任
+
+**[14701.12s] English:** Phrase, um, to make sure the world can have this information in something that's playable by...  
 **Translation:** 
 
-**[14697.12s] English:** and there's digital stewardship i suppose for one to have i made that phrase up that's not a real  
-**Translation:** Vocabulary: stewardship: 数字保管
-
-**[14701.12s] English:** phrase um to make sure the world can have this information in something that's playable by  
+**[14706.88s] English:** Everybody can't play on some device that doesn't exist anymore, and then there's like  
 **Translation:** 
 
-**[14706.88s] English:** everybody not playable on some device that doesn't exist anymore and then there's like  
+**[14713.98s] English:** Realistically, speaking, there's a needle in a haystack where there's a lot of value in.  
 **Translation:** 
 
-**[14713.98s] English:** realistically speaking there's a needle in a haystack where there's a lot of value in  
+**[14718.88s] English:** In archiving all that footage, and then over time finding the gems that we don't know are there.  
 **Translation:** 
 
-**[14718.88s] English:** in archiving all that footage and then over time finding the gems that we don't know are there  
-**Translation:** Vocabulary: archiving: 归档; haystack: haystack
-
-**[14725.02s] English:** hey there was something in that corner  
+**[14725.02s] English:** Hey, there was something in that corner.  
 **Translation:** 
 
-**[14727.12s] English:** that we just did yeah and now that would have been compressed away because some little thing  
+**[14727.12s] English:** That we just did, yeah, and now that would have been compressed away because of some little thing.  
 **Translation:** Vocabulary: compressed: 压缩
 
-**[14731.60s] English:** oh wow there's something there and that's they've made sure that it's lost us they can prove  
+**[14731.60s] English:** Oh, wow! There's something there, and that's they've made sure that it's lost us; they can prove it.  
 **Translation:** 
 
-**[14736.56s] English:** mathematically that it's lossless they can run different trade-offs for if there's bit  
-**Translation:** Vocabulary: lossless: 无损的; mathematically: 数学上
+**[14736.56s] English:** Mathematically, that it's lossless, they can run different trade-offs for if there's bit.  
+**Translation:** Vocabulary: lossless: 无损的; mathematically: 从数学上
 
-**[14741.84s] English:** for they lose a bit a single bit flips i can make sure that i only lose a portion of a given frame  
+**[14741.84s] English:** For they lose a bit, a single bit flips. I can make sure that I only lose a portion of a given frame.  
 **Translation:** 
 
-**[14747.36s] English:** we can do error they can do error recovery on previous frames they could do all sorts  
+**[14747.36s] English:** We can do error recovery, they can do error recovery on previous frames, and they could do all sorts of things.  
 **Translation:** 
 
-**[14750.96s] English:** of different things do you think uh vlc and ffmpeg will be here 100 years from now  
+**[14750.96s] English:** Of all the things, do you think VLC and FFmpeg will still be around 100 years from now?  
 **Translation:** 
 
-**[14757.12s] English:** fmpeg yes yep we'll see  
+**[14757.12s] English:** Fmpeg: Yes, yep, we'll see.  
 **Translation:** 
 
 **[14760.00s] English:** Maybe.  
 **Translation:** 
 
-**[14761.04s] English:** What's the future of, where is FFmpeg going?  
+**[14761.04s] English:** What's the future of FFmpeg, and where is it going?  
 **Translation:** 
 
 **[14765.02s] English:** Where is VLC going?  
 **Translation:** 
 
-**[14766.36s] English:** Like in the next, if you think about like five years, 10 years, 20 years.  
+**[14766.36s] English:** Like in the next five years, ten years, twenty years.  
 **Translation:** 
 
-**[14770.54s] English:** Five years, 10 years is easy.  
+**[14770.54s] English:** Five years, ten years is easy.  
 **Translation:** 
 
 **[14772.06s] English:** The question is after that, right?  
 **Translation:** 
 
-**[14775.12s] English:** The question is, do we arrive at something called holograms, right?  
+**[14775.12s] English:** The question is: Do we arrive at something called holograms, right?  
 **Translation:** 
 
-**[14779.38s] English:** Yeah, so will VLC and FFmpeg expand to whatever multimedia?  
+**[14779.38s] English:** Yeah, so will VLC and FFmpeg expand to whatever multimedia formats?  
 **Translation:** Vocabulary: holograms: 全息图; multimedia: 多媒体
 
-**[14786.80s] English:** Multimedia might become, sorry for the pothead expansion of topic,  
+**[14786.80s] English:** Multimedia might become—sorry for the pothead expansion of topic.  
 **Translation:** 
 
-**[14792.20s] English:** but if you look at something like Neuralink with brain-computer interfaces,  
+**[14792.20s] English:** But if you look at something like Neuralink with brain-computer interfaces,  
 **Translation:** Vocabulary: interfaces: 接口
 
-**[14798.48s] English:** it's very possible that we start to consume what multimedia means  
+**[14798.48s] English:** It's very possible that we start to consume what multimedia means.  
 **Translation:** 
 
-**[14802.40s] English:** is whatever codec, whatever data that our brain wants to consume  
+**[14802.40s] English:** Is whatever codec, whatever data that our brain wants to consume.  
 **Translation:** 
 
-**[14808.40s] English:** through the brain-computer interfaces.  
+**[14808.40s] English:** Through the brain-computer interfaces.  
 **Translation:** 
 
 **[14810.44s] English:** That's one.  
@@ -11032,10 +11033,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14821.88s] English:** Of course.  
 **Translation:** 
 
-**[14823.88s] English:** I mean, today there is like, there are new codecs for, for example,  
+**[14823.88s] English:** I mean, today there are new codecs, for example.  
 **Translation:** 
 
-**[14828.24s] English:** what we call point cloud, right?  
+**[14828.24s] English:** What we call a point cloud, right?  
 **Translation:** 
 
 **[14830.00s] English:** Or volumetric videos, right?  
@@ -11044,16 +11045,16 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14831.74s] English:** There is a ton of research on what we call RGBD, right?  
 **Translation:** 
 
-**[14834.84s] English:** So codecs for depth that is useful for robotics and for 3D things.  
-**Translation:** 
+**[14834.84s] English:** So, codecs for depth that is useful for robotics and for 3D things.  
+**Translation:** Vocabulary: robotics: 机器人技术
 
 **[14839.22s] English:** There is a ton of codecs for compression of 3D elements.  
 **Translation:** 
 
-**[14842.64s] English:** Compression for astronomy.  
+**[14842.64s] English:** Compression for Astronomy.  
 **Translation:** Vocabulary: astronomy: 天文学; compression: 压缩
 
-**[14843.90s] English:** For example, on VLC, we also have already a VR.  
+**[14843.90s] English:** For example, on VLC, we also have VR already.  
 **Translation:** 
 
 **[14846.80s] English:** An XR version of VLC.  
@@ -11065,28 +11066,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14850.06s] English:** We talk about Kyber.  
 **Translation:** 
 
-**[14850.92s] English:** On Kyber, we also like do streaming of XR content  
+**[14850.92s] English:** On Kyber, we also like to do streaming of XR content.  
 **Translation:** 
 
-**[14853.60s] English:** for the glasses who cannot have enough power  
-**Translation:** Vocabulary: cannot: 不能
-
-**[14857.18s] English:** or inside the Apple Vision or the Quest.  
+**[14853.60s] English:** For the glasses who cannot have enough power.  
 **Translation:** 
 
-**[14859.90s] English:** So we already work on streaming 3D, XR, interactive, low latency.  
-**Translation:** Vocabulary: interactive: 交互性; latency: 延迟
-
-**[14866.90s] English:** There is something called volumetric video, point cloud videos.  
+**[14857.18s] English:** Or inside the Apple Vision or the Quest.  
 **Translation:** 
 
-**[14870.40s] English:** So it's not stopping.  
+**[14859.90s] English:** So, we already work on streaming 3D, XR, interactive, low-latency content.  
+**Translation:** Vocabulary: interactive: 交互的
+
+**[14866.90s] English:** There is something called volumetric video and point cloud videos.  
 **Translation:** 
 
-**[14872.02s] English:** And yes, at some point, we'll manage 3D data inside VLC and FFmpeg,  
+**[14870.40s] English:** So, it's not stopping.  
 **Translation:** 
 
-**[14876.74s] English:** right?  
+**[14872.02s] English:** And yes, at some point, we'll manage 3D data inside VLC and FFmpeg.  
+**Translation:** 
+
+**[14876.74s] English:** Right?  
 **Translation:** 
 
 **[14876.80s] English:** It's obvious.  
@@ -11095,301 +11096,301 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[14878.04s] English:** So that's where it is moving, like the community.  
 **Translation:** 
 
-**[14880.00s] English:** it is open not everyone in the community sees that but like as kiran and i we are we are  
+**[14880.00s] English:** It is open, but not everyone in the community sees that. Like Kiran and I, we are...  
 **Translation:** 
 
-**[14886.22s] English:** entrepreneurs we know where it's going we see that right so i suppose that there is a tension  
+**[14886.22s] English:** Entrepreneurs, we know where it's going; we see that right. So, I suppose there is a tension.  
 **Translation:** Vocabulary: entrepreneurs: 企业家
 
-**[14891.78s] English:** probably inside of a fan pack it's like hey listen folks we're really good at doing video and audio  
+**[14891.78s] English:** Probably, inside of a fan pack, it's like, "Hey, listen, folks; we're really good at doing video and audio.  
 **Translation:** 
 
-**[14899.24s] English:** so like why expand like let's do the thing we're really good at doing in order to answer that  
+**[14899.24s] English:** So, like, why expand? Let's do the thing we're really good at doing instead.  
 **Translation:** 
 
-**[14905.92s] English:** question we need to answer the definition of what is multimedia yeah and multimedia is a digital  
+**[14905.92s] English:** Question: We need to answer the definition of what is multimedia? Yeah, and multimedia is a digital  
 **Translation:** 
 
-**[14915.08s] English:** representation of several streams for the human senses and we will do that right so imagine there  
+**[14915.08s] English:** Representation of several streams for the human senses, and we will do that right. So, imagine there:  
+**Translation:** Vocabulary: multimedia: 多种媒体的数字表示
+
+**[14925.72s] English:** Is now a way to not have a microphone but have an outdoor sensor and a diffuser? It will get into  
 **Translation:** 
 
-**[14925.72s] English:** is now a way to not have a mic but have a outdoor sensor and a diffuser of others it will get into  
+**[14933.72s] English:** So, you're demox.  
+**Translation:** Vocabulary: diffuser: 扩散器; microphone: 麦克风; sensor: 传感器
+
+**[14935.08s] English:** Yes.  
 **Translation:** 
 
-**[14933.72s] English:** so you're demox  
-**Translation:** Vocabulary: diffuser: 扩散器; sensor: 传感器
-
-**[14935.08s] English:** yes  
+**[14935.80s] English:** Yes, of course. Your demoXer has a new track type that is basically "others," and you already  
 **Translation:** 
 
-**[14935.80s] English:** yes of course your demoxer has a new track type that is basically others right and you already  
+**[14941.98s] English:** Have you touched it? It's like audio; you'll have a left and right stereo track, and you have a left and right audio.  
 **Translation:** 
 
-**[14941.98s] English:** have touch it's like audio you'll have a left and right nose track you have a left and right audio  
-**Translation:** 
-
-**[14946.24s] English:** pair it's easy yes of course the stereo smell so in vlc for example we already have a plugin for  
+**[14946.24s] English:** Pairing it's easy, yes, of course. The stereo smell, so in VLC, for example, we already have a plugin for.  
 **Translation:** Vocabulary: stereo: 立体声
 
-**[14952.96s] English:** aptic it's mostly for what we call 4d cinemas right you know those ones on hydraulic i don't  
+**[14952.96s] English:** Aptic, it's mostly for what we call 4D cinemas, right? You know, those ones with hydraulic effects. I don't  
 **Translation:** 
 
-**[14958.96s] English:** know how you say that hydraulic arms and where everything is moving like you have uh in theme  
-**Translation:** Vocabulary: hydraulic: 液压系统
+**[14958.96s] English:** Know how you say that hydraulic arms, and where everything is moving, like you have in theme parks?  
+**Translation:** Vocabulary: hydraulic: 液压的
 
-**[14964.90s] English:** parks right  
+**[14964.90s] English:** Parks right.  
 **Translation:** 
 
-**[14965.80s] English:** and there is a data feed synchronized which is basically transporting this information is there  
-**Translation:** Vocabulary: synchronized: 同步; transporting: 传输
+**[14965.80s] English:** And there is a data feed that is synchronized, which is basically transporting this information, isn't there?  
+**Translation:** Vocabulary: synchronized: 同步的; transporting: 传输
 
-**[14972.46s] English:** yet a standard there are many standards right um you make me so happy and so of course like we have  
+**[14972.46s] English:** Yet, a standard—there are many standards, right? Um, you make me so happy, and of course, like, we have...  
 **Translation:** 
 
-**[14980.74s] English:** a plug-in which is not in the normal version of vlc that is basically transporting those type of  
+**[14980.74s] English:** A plugin, which is not in the normal version of VLC, is basically transporting those types of  
 **Translation:** 
 
-**[14986.08s] English:** movements which is physical movements which is haptic movements right it is a human sense so it  
+**[14986.08s] English:** Movements, which are physical and haptic movements, are a human sense, so it is.  
 **Translation:** 
 
-**[14992.98s] English:** will get in that's such an exciting future  
-**Translation:** Vocabulary: haptic: 触觉反馈
+**[14992.98s] English:** Will get in—that's such an exciting future!  
+**Translation:** Vocabulary: haptic: 触觉的
 
-**[14995.80s] English:** was it I mean it's a small community of developers  
+**[14995.80s] English:** Was it, I mean, it's a small community of developers.  
 **Translation:** 
 
-**[15000.00s] English:** pull that off like if you're a contributor to ffmpeg or vlc it feels stressful like it's just  
+**[15000.00s] English:** Pull that off, like if you're a contributor to FFmpeg or VLC, it feels stressful, like it's just  
 **Translation:** Vocabulary: contributor: 贡献者
 
-**[15007.24s] English:** looking at twitter it's like it's a huge amount of work to make it work on all these different  
+**[15007.24s] English:** Looking at Twitter, it's like it's a huge amount of work to make it work on all these different platforms.  
 **Translation:** 
 
-**[15015.26s] English:** operating systems an incredible effort no see it in the other direction we are not the contributors  
+**[15015.26s] English:** Operating systems: an incredible effort, no? See it in the other direction, and we are not the contributors.  
 **Translation:** Vocabulary: contributors: 贡献者
 
-**[15021.76s] English:** we are the maintainers right so we maintain for everyone meaning that for example every year  
+**[15021.76s] English:** We are the maintainers, right? So we maintain for everyone, meaning that, for example, every year.  
 **Translation:** 
 
-**[15029.98s] English:** there is around 150 people who contribute to vlc and maybe 300 on ffmpeg right our goal as a small  
+**[15029.98s] English:** There are around 150 people who contribute to VLC, and maybe 300 on FFmpeg. Our goal, as a small team, is...  
 **Translation:** Vocabulary: maintainers: 维护者
 
-**[15038.00s] English:** team is to get all the contribution in so if there is more usage there will be more contributions  
+**[15038.00s] English:** The team is to get all the contributions in, so if there is more usage, there will be more contributions.  
 **Translation:** 
 
-**[15044.94s] English:** and those people will do the right module the new formats and so on we care about the architecture  
+**[15044.94s] English:** And those people will do the right module, the new formats, and so on. We care about the architecture.  
 **Translation:** Vocabulary: module: 模块
 
-**[15051.40s] English:** of vlc the architecture of ffmpeg right now we're doing things in vlc which is a special audio right  
+**[15051.40s] English:** Of VLC, the architecture of FFmpeg: right now, we're doing things in VLC which is a special audio format.  
 **Translation:** 
 
-**[15058.26s] English:** we did the demo not not long ago  
+**[15058.26s] English:** We did the demo not too long ago.  
 **Translation:** 
 
-**[15059.98s] English:** there was changes needed on the architecture and we did the first special audio module  
+**[15059.98s] English:** There were changes needed in the architecture, and we did the first special audio module.  
 **Translation:** 
 
-**[15066.76s] English:** when it's going to add the second one it's going to be easy or the third one is going to be easy  
+**[15066.76s] English:** When it's going to add the second one, it's going to be easy, or the third one is going to be easy.  
 **Translation:** 
 
-**[15070.36s] English:** right our goal ends is going to be the same for orders or haptic right we need to work the  
+**[15070.36s] English:** Right, our goal will be the same for both orders and Haptic: we need to work on it.  
 **Translation:** 
 
-**[15076.00s] English:** architecture so that's modules can be added to add future capabilities so yes we are going we  
+**[15076.00s] English:** Architecture, so that's modules that can be added to add future capabilities, so yes, we are going to do that.  
+**Translation:** Vocabulary: capabilities: 功能; haptic: 触觉; modules: 模块
+
+**[15083.12s] English:** Are multimedia frameworks, so that's not just audio and video; it's everything that is timed and  
 **Translation:** 
 
-**[15083.12s] English:** are multimedia frameworks so that's not just audio and video it's everything that is timed and  
-**Translation:** 
-
-**[15089.98s] English:** ийн фич 來  
+**[15089.98s] English:** I'm sorry, but "ийн фич 来" doesn't seem to be a complete or coherent phrase in English or any language I recognize. Could you please provide more context or clarify the intended meaning?  
 **Translation:** Vocabulary: multimedia: 多种媒体
 
-**[15090.62s] English:** represent  
+**[15090.62s] English:** Represent  
 **Translation:** 
 
-**[15091.30s] English:** it's  
+**[15091.30s] English:** It's  
 **Translation:** 
 
-**[15092.26s] English:** what you can give your users  
+**[15092.26s] English:** What you can give your users.  
 **Translation:** 
 
-**[15107.38s] English:** a  
+**[15107.38s] English:** A  
 **Translation:** 
 
-**[15117.90s] English:** very  
+**[15117.90s] English:** Very  
 **Translation:** 
 
-**[15118.46s] English:** good  
+**[15118.46s] English:** Good.  
 **Translation:** 
 
-**[15119.40s] English:** product  
+**[15119.40s] English:** Product  
 **Translation:** 
 
-**[15119.84s] English:** a  
+**[15119.84s] English:** A  
 **Translation:** 
 
 **[15119.98s] English:** Thank you.  
 **Translation:** 
 
-**[15120.00s] English:** via brain computer interfaces or for robots with haptic by experience what happens is always the  
-**Translation:** Vocabulary: haptic: 触觉反馈; interfaces: 接口
+**[15120.00s] English:** Via brain-computer interfaces, or for robots with haptic feedback, by experience, what happens is always the  
+**Translation:** Vocabulary: interfaces: 接口
 
-**[15127.54s] English:** same right you start it's a new topic there is like five different standards because everyone  
+**[15127.54s] English:** Same; right, you start it's a new topic, there are like five different standards because everyone  
 **Translation:** 
 
-**[15133.00s] English:** starts to do this the hype goes down because every time the hype goes down then people start to say  
+**[15133.00s] English:** Starts to do this, the hype goes down because every time the hype goes down, then people start to say,...  
 **Translation:** 
 
-**[15138.60s] English:** well you know what we need to do a standard people because two or three companies usually not the  
+**[15138.60s] English:** Well, you know, what we need to do is establish a standard for people because two or three companies usually aren't enough.  
 **Translation:** 
 
-**[15143.48s] English:** leader but the two or three followers do a standard and then we implement the standard and  
+**[15143.48s] English:** Leader, but the two or three followers do a standard, and then we implement the standard and  
+**Translation:** Vocabulary: followers: 跟随者; implement: 执行
+
+**[15149.16s] English:** And then it's the end of the curves; it starts to be more pepper, and then the leader is kind of...  
 **Translation:** 
 
-**[15149.16s] English:** and then it's the end of the curves it starts to be more pepper and then the leader is kind of  
+**[15153.88s] English:** Pressed into it because it's better to do a standard example 3D audio, right? Yeah, six or seven.  
 **Translation:** 
 
-**[15153.88s] English:** pressured into it because it is better to do a standard example 3d audio right yeah six or seven  
+**[15159.70s] English:** Years ago, it was all about 3D. You went from having cardboard boxes on Android to something else, yeah.  
 **Translation:** 
 
-**[15159.70s] English:** years ago it was everything about 3d you go you had the cardboard on android yeah you had two  
-**Translation:** 
-
-**[15164.26s] English:** two audio formats they're all dead right and now it's coming back with actual use cases and we  
+**[15164.26s] English:** Two audio formats—they're all dead right now, and now it's coming back with actual use cases and we  
 **Translation:** Vocabulary: cardboard: 纸板
 
-**[15170.58s] English:** learn from the mistakes of the past standard so it will be the same everywhere and not try to avoid  
+**[15170.58s] English:** Learn from the mistakes of the past, standardize so it will be the same everywhere, and not try to avoid.  
 **Translation:** 
 
-**[15178.02s] English:** closed  
+**[15178.02s] English:** Closed.  
+**Translation:** Vocabulary: standardize: 统一规定
+
+**[15179.16s] English:** I saw somewhere you didn't have too many nice things to say about Dolby.  
 **Translation:** 
 
-**[15179.16s] English:** i saw somewhere you you didn't have too many nice things to say about dolby  
-**Translation:** 
-
-**[15182.86s] English:** no i don't what is uh can you educate uh me on why where they went what would they do bad  
+**[15182.86s] English:** No, I don't. What is uh, can you educate me on why they went there and what they would do that would be bad?  
 **Translation:** Vocabulary: dolby: 杜比
 
-**[15191.16s] English:** that made you mad it used to be an amazing company doing tons of great things with amazing engineers  
+**[15191.16s] English:** That made you mad? It used to be an amazing company, doing tons of great things with amazing engineers.  
 **Translation:** 
 
-**[15200.12s] English:** they define what sound was and now it's mostly like lawyers and licensing things oh so they're  
+**[15200.12s] English:** They defined what "sound" was, and now it's mostly like lawyers and licensing things; oh, so they're  
 **Translation:** 
 
-**[15207.62s] English:** yeah they're closed  
+**[15207.62s] English:** Yeah, they're closed.  
 **Translation:** 
 
-**[15209.16s] English:** they're closing stuff off they're trying it's just like they don't innovate as much as they did and so on it's a bit like i'm sorry to say right like hp race  
+**[15209.16s] English:** They're closing stuff off. They're trying, but it's just like they don't innovate as much as they did. And so on; it's a bit like I'm sorry to say, right? Like HP Race.  
 **Translation:** Vocabulary: innovate: 创新
 
-**[15216.32s] English:** oh since we talked about twitter a bunch in a bunch of different contexts do you have a do a favorite  
+**[15216.32s] English:** Oh, since we've talked about Twitter a bunch in a bunch of different contexts, do you have a favorite?  
 **Translation:** 
 
-**[15225.06s] English:** your and least favorite most embarrassing tweet i need a video land off the fan page twitters  
-**Translation:** Vocabulary: twitters: 微博
-
-**[15232.38s] English:** the two my two favorites are talk is cheap send patches i think that that embodies a lot of the  
+**[15225.06s] English:** Your and least favorite, most embarrassing tweet? I need a video from the fan page, Twitter.  
 **Translation:** 
 
-**[15239.16s] English:** stuff doesn't get as  
-**Translation:** Vocabulary: embodies: 体现
-
-**[15240.00s] English:** we've talked about stuff doesn't get built unless someone does it it doesn't just appear from the  
+**[15232.38s] English:** The two of my favorite mottos are "talk is cheap; send patches." I think that embodies a lot of the  
 **Translation:** 
 
-**[15244.32s] English:** ether uh the other one that i like is um ffmpeg nothing is beyond our reach i think that comes  
+**[15239.16s] English:** Stuff doesn't get as  
+**Translation:** Vocabulary: embodies: 体现; mottos: 格言; patches: 补丁
+
+**[15240.00s] English:** We've talked about stuff doesn't get built unless someone does it; it doesn't just appear from the  
 **Translation:** 
 
-**[15250.96s] English:** from a u.s military satellite patch where i think they invented some kind of um monitoring system  
+**[15244.32s] English:** Ether, uh, the other one that I like is FFmpeg. Nothing is beyond our reach, I think, that comes.  
+**Translation:** Vocabulary: ether: 以太
+
+**[15250.96s] English:** From a U.S. military satellite patch, where I think they invented some kind of monitoring system.  
 **Translation:** 
 
-**[15257.12s] English:** they could see the whole world and this was released wasn't there something where ffmpeg  
+**[15257.12s] English:** They could see the whole world, and this was released: wasn't there something with FFmpeg?  
 **Translation:** 
 
-**[15260.56s] English:** was running on a hover on mars yeah so ffmpeg is used by the mars rover uh the mars 2020  
+**[15260.56s] English:** Was running on a hover on Mars, yeah? So, FFmpeg is used by the Mars 2020 rover, uh.  
 **Translation:** 
 
-**[15266.16s] English:** rover to compress uh pictures and they really wanted um they wrote a paper about it and they  
+**[15266.16s] English:** Rover to compress the pictures, and they really wanted to write a paper about it and they did.  
 **Translation:** Vocabulary: compress: 压缩; rover: 探测车
 
-**[15271.76s] English:** really wanted to use as much commercial off-the-shelf technology as possible  
+**[15271.76s] English:** Really, we wanted to use as much commercial-off-the-shelf technology as possible.  
 **Translation:** 
 
-**[15274.88s] English:** ffmpeg runs on mars so we are we are a multi-planetary open source library nice  
+**[15274.88s] English:** FFmpeg runs on Mars, so we are a multi-planetary open-source library—nice!  
 **Translation:** 
 
-**[15281.60s] English:** very often we've seen tweets for people using vlt in weird places a lot of the people doing  
+**[15281.60s] English:** Very often, we've seen tweets for people using VLT in weird places. A lot of the people doing  
 **Translation:** 
 
-**[15290.88s] English:** formula ones are in all the paddocks they use vlc to play the live feed we've seen  
-**Translation:** Vocabulary: paddocks: 赛车场地; tweets: 推特帖子
+**[15290.88s] English:** Formula One cars are in all the paddocks; they use VLC to play the live feed, and we've seen.  
+**Translation:** Vocabulary: paddocks: 赛车区域; tweets: 推文
 
-**[15296.16s] English:** uh the european space agency we've seen space six like monitoring the the launches with with vlc and  
+**[15296.16s] English:** Uh, the European Space Agency we've seen Space X like monitoring the launches with VLC and  
 **Translation:** 
 
-**[15302.88s] English:** like this like fills you with joy right i've seen a particle accelerator oh yeah yeah we had one of  
+**[15302.88s] English:** Like, this fills you with joy, right? I've seen a particle accelerator; oh, yeah, yeah, we had one of those.  
 **Translation:** Vocabulary: accelerator: 加速器; particle: 粒子
 
-**[15309.68s] English:** the most amazing thing that i went for was to go to the cern at the lhc because they were using vlc  
+**[15309.68s] English:** The most amazing thing I went for was to visit CERN at the LHC because they were using VLC.  
 **Translation:** 
 
-**[15317.52s] English:** to monitor all the captors on the ring because the ring is 27 kilometers and so they had some analog  
-**Translation:** Vocabulary: analog: 模拟; captors: 探测器
+**[15317.52s] English:** To monitor all the captors on the ring, because the ring is 27 kilometers, and so they had some analog systems.  
+**Translation:** Vocabulary: analog: 模拟; captors: 传感器
 
-**[15326.16s] English:** cameras and they were using some of the capture cards to go to analog to vlc so vlc could stream  
+**[15326.16s] English:** Cameras, and they were using some of the capture cards to go from analog to VLC, so VLC could stream.  
 **Translation:** 
 
-**[15332.56s] English:** on their multicast network for the whole cern to access to that and like i visited that in 2010  
+**[15332.56s] English:** On their multicast network, for the whole CERN to access it, and like I visited that in 2010.  
 **Translation:** Vocabulary: multicast: 组播
 
-**[15340.08s] English:** with laurent and and and like we fixed their issue in an hour or something like that right because  
+**[15340.08s] English:** With Laurent, and like we fixed their issue in an hour or so, right? Because  
 **Translation:** 
 
-**[15346.88s] English:** with some parameters uh maybe not well documented at that time and he said okay for the whole day  
+**[15346.88s] English:** With some parameters, uh, maybe not well-documented at that time, and he said, "Okay," for the whole day.  
 **Translation:** 
 
-**[15352.88s] English:** what do you want to do and we visited everything like things were  
+**[15352.88s] English:** What do you want to do? And we visited everything, like things were.  
 **Translation:** 
 
-**[15356.16s] English:** always anti-matter and and and colliders and so  
+**[15356.16s] English:** Always, anti-matter and colliders, and so on.  
 **Translation:** Vocabulary: colliders: 对撞机
 
-**[15360.00s] English:** And that was like one of the most amazing day of my,  
+**[15360.00s] English:** And that was one of the most amazing days of my life.  
 **Translation:** 
 
-**[15363.90s] English:** my physique background.  
-**Translation:** Vocabulary: physique: 体格
+**[15363.90s] English:** My physical background.  
+**Translation:** 
 
 **[15366.16s] English:** Yeah.  
 **Translation:** 
 
-**[15366.72s] English:** It's used like everywhere.  
+**[15366.72s] English:** It's used everywhere.  
 **Translation:** 
 
 **[15368.42s] English:** Uh,  
 **Translation:** 
 
-**[15368.92s] English:** any,  
+**[15368.92s] English:** Any,  
 **Translation:** 
 
-**[15369.50s] English:** any tweets,  
+**[15369.50s] English:** Any tweets?  
 **Translation:** 
 
-**[15370.58s] English:** uh,  
+**[15370.58s] English:** Uh,  
 **Translation:** 
 
-**[15371.10s] English:** carrying your regret?  
+**[15371.10s] English:** Carring your regret?  
 **Translation:** 
 
-**[15372.92s] English:** No tweets or regret.  
-**Translation:** 
+**[15372.92s] English:** No tweets, or regret.  
+**Translation:** Vocabulary: tweets: 微博
 
-**[15374.24s] English:** Or is it like that?  
+**[15374.24s] English:** Is it like that, or is it not?  
 **Translation:** 
 
 **[15375.46s] English:** Well,  
 **Translation:** 
 
-**[15375.56s] English:** how's the French song go?  
+**[15375.56s] English:** How's the French song going?  
 **Translation:** 
 
 **[15377.10s] English:** Regret nothing.  
@@ -11398,10 +11399,10 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15379.00s] English:** Yes.  
 **Translation:** 
 
-**[15379.42s] English:** That's very important for me,  
+**[15379.42s] English:** That's very important for me.  
 **Translation:** 
 
-**[15380.90s] English:** right?  
+**[15380.90s] English:** Right?  
 **Translation:** 
 
 **[15381.66s] English:** Don't regret anything.  
@@ -11410,25 +11411,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15384.10s] English:** No,  
 **Translation:** 
 
-**[15384.26s] English:** it's because regrets are a tax on your mind,  
+**[15384.26s] English:** It's because regrets are a tax on your mind.  
 **Translation:** 
 
-**[15387.70s] English:** right?  
+**[15387.70s] English:** Right?  
 **Translation:** 
 
-**[15387.90s] English:** So learn from your mistakes,  
+**[15387.90s] English:** So, learn from your mistakes.  
 **Translation:** 
 
-**[15389.48s] English:** but don't regret because you've done it.  
+**[15389.48s] English:** But don't regret because you've done it.  
 **Translation:** 
 
-**[15392.90s] English:** So except if you have a time machine to go back in time,  
+**[15392.90s] English:** So, except if you have a time machine to go back in time,...  
 **Translation:** 
 
-**[15396.60s] English:** don't regret,  
+**[15396.60s] English:** Don't regret.  
 **Translation:** 
 
-**[15398.10s] English:** right?  
+**[15398.10s] English:** Right?  
 **Translation:** 
 
 **[15398.28s] English:** It's going to just tax your brain.  
@@ -11446,28 +11447,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15403.48s] English:** It's like,  
 **Translation:** 
 
-**[15404.12s] English:** it reminds me,  
+**[15404.12s] English:** It reminds me,  
 **Translation:** 
 
-**[15404.98s] English:** it's beautiful.  
+**[15404.98s] English:** It's beautiful.  
 **Translation:** 
 
 **[15405.54s] English:** It's a tax on your brain.  
 **Translation:** 
 
-**[15406.64s] English:** It reminds me of the Johnny Depp quote I saw where he was saying,  
+**[15406.64s] English:** It reminds me of the Johnny Depp quote I saw, where he was saying,  
 **Translation:** 
 
-**[15410.70s] English:** hate,  
+**[15410.70s] English:** Hate,  
 **Translation:** Vocabulary: johnny: 强尼·德普
 
-**[15411.10s] English:** you know,  
+**[15411.10s] English:** You know,  
 **Translation:** 
 
 **[15411.42s] English:** I don't hate.  
 **Translation:** 
 
-**[15412.66s] English:** That's hate is a very expensive emotion.  
+**[15412.66s] English:** That's hate: it's a very expensive emotion.  
 **Translation:** 
 
 **[15415.88s] English:** Are you comparing me to Johnny Depp?  
@@ -11479,25 +11480,25 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15419.64s] English:** Well,  
 **Translation:** 
 
-**[15420.76s] English:** gentlemen,  
+**[15420.76s] English:** Gentlemen,  
 **Translation:** 
 
-**[15421.58s] English:** like I said,  
+**[15421.58s] English:** Like I said,  
 **Translation:** 
 
-**[15422.50s] English:** I'm internally grateful for the software that the two of you and the bigger  
+**[15422.50s] English:** I'm internally grateful for the software that the two of you and the bigger team have developed.  
 **Translation:** 
 
-**[15428.24s] English:** community have been part of building with FFMPEG and VLC and everything else.  
+**[15428.24s] English:** The community has been part of building with FFmpeg and VLC, and everything else.  
 **Translation:** Vocabulary: internally: 内心地
 
 **[15432.68s] English:** I'm eternally grateful for the spicy tweets.  
 **Translation:** 
 
 **[15436.00s] English:** Never stop.  
-**Translation:** Vocabulary: eternally: 永恒地
+**Translation:** Vocabulary: eternally: 永远地
 
-**[15437.42s] English:** And I'm grateful that you would talk with me today and give me this sexy hat.  
+**[15437.42s] English:** And I'm grateful that you would talk to me today and give me this sexy hat.  
 **Translation:** 
 
 **[15444.40s] English:** I feel like a wizard.  
@@ -11512,7 +11513,7 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15449.22s] English:** I get a chance to talk and celebrate the piece of software that brought me so much joy over the years.  
 **Translation:** 
 
-**[15453.40s] English:** So thank you for everything.  
+**[15453.40s] English:** So, thank you for everything.  
 **Translation:** 
 
 **[15454.86s] English:** And thank you for talking today.  
@@ -11530,28 +11531,28 @@ Source file: Lex Fridman - FFmpeg： The Incredible Technology Behind Video on t
 **[15463.12s] English:** To support this podcast,  
 **Translation:** 
 
-**[15464.20s] English:** please check out our sponsors in the description where you can also find links to contact me,  
+**[15464.20s] English:** Please check out our sponsors in the description, where you can also find links to contact me.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[15469.00s] English:** ask questions,  
+**[15469.00s] English:** Ask questions,  
 **Translation:** 
 
-**[15469.98s] English:** give feedback and so on.  
+**[15469.98s] English:** Give feedback, and so on.  
 **Translation:** 
 
-**[15471.68s] English:** And now let me leave you with some words from the legendary Linus Torvalds.  
+**[15471.68s] English:** And now, let me leave you with some words from the legendary Linus Torvalds.  
 **Translation:** 
 
-**[15477.20s] English:** Most good programmers do programs.  
-**Translation:** Vocabulary: programmers: 程序员
+**[15477.20s] English:** Most good programmers write programs.  
+**Translation:** 
 
 **[15479.22s] English:** Okay, me.  
 **Translation:** 
 
-**[15480.00s] English:** not because they expect to get paid or get adulation by the public,  
+**[15480.00s] English:** Not because they expect to get paid or get adulation from the public,  
 **Translation:** Vocabulary: adulation: 赞美
 
-**[15484.86s] English:** but because it is fun to program.  
+**[15484.86s] English:** But because it is fun to program.  
 **Translation:** 
 
 **[15488.40s] English:** Thank you for listening, and I hope to see you next time.  

@@ -1,91 +1,92 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridman Podcast #377.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** It is the most important right that Americans have.  
 **Translation:** 
 
 **[3.90s] English:** It's not a coincidence or an accident that it's named in the First Amendment to the Constitution.  
-**Translation:** Vocabulary: coincidence: 巧合
+**Translation:** 
 
-**[12.80s] English:** Without it, no democratic society can be democratic for long.  
+**[12.80s] English:** Without it, no democratic society can be truly democratic for long.  
 **Translation:** 
 
 **[18.20s] English:** And I'm an absolutist.  
 **Translation:** Vocabulary: absolutist: 绝对主义者
 
-**[21.00s] English:** That is, I believe that, for example, people say to me, but what about hate speech?  
+**[21.00s] English:** That is, I believe that, for example, people say to me, "But what about hate speech?  
 **Translation:** 
 
 **[27.06s] English:** Well, hate speech is much more important than love speech.  
 **Translation:** 
 
-**[31.24s] English:** And the reason is, I'm much more interested in knowing whom I should not turn my back on than I am interested in figuring out who loves me.  
+**[31.24s] English:** And the reason is, I'm much more interested in knowing whom I should not turn my back on than I am in figuring out who loves me.  
 **Translation:** 
 
-**[42.72s] English:** The following is a conversation with Harvey Silverglate, a legendary free speech advocate, co-founder of FIRE, the Foundation for Individual Rights and Expression,  
-**Translation:** Vocabulary: advocate: 倡导者
-
-**[51.24s] English:** and the author of several books on the freedom of speech and criminal justice,  
+**[42.72s] English:** The following is a conversation with Harvey Silverglate, a legendary free-speech advocate, co-founder of FIRE (the Foundation for Individual Rights and Expression),  
 **Translation:** 
 
-**[56.46s] English:** including  
+**[51.24s] English:** And the author of several books on freedom of speech and criminal justice,  
 **Translation:** 
 
-**[56.90s] English:** The Shadow University, The Betrayal of Liberty on America's Campuses.  
+**[56.46s] English:** Including  
 **Translation:** 
 
-**[62.42s] English:** Harvey is running to be on the Harvard Board of Overseers this year with a write-in campaign,  
+**[56.90s] English:** The Shadow University: The Betrayal of Liberty on America's Campuses.  
+**Translation:** 
+
+**[62.42s] English:** Harvey is running to be on the Harvard Board of Overseers this year with a write-in campaign.  
 **Translation:** Vocabulary: betrayal: 背叛; overseers: 监督者
 
-**[68.24s] English:** so you have to spell his name correctly, Silverglate,  
+**[68.24s] English:** So, you have to spell his name correctly: Silverglate.  
 **Translation:** 
 
-**[72.12s] English:** promising to advocate for free speech and to push for reducing the size of Harvard's administration bureaucracy.  
-**Translation:** Vocabulary: bureaucracy: 官僚主义
+**[72.12s] English:** Promising to advocate for free speech and to push for reducing the size of Harvard's administrative bureaucracy.  
+**Translation:** Vocabulary: advocate: 提倡; bureaucracy: 官僚主义
 
-**[79.30s] English:** Election is over this Tuesday, May 16th at 5 p.m. Eastern.  
+**[79.30s] English:** Election is over on this Tuesday, May 16th, at 5 p.m. Eastern.  
 **Translation:** 
 
-**[83.86s] English:** To vote, you have to be Harvard alumni.  
-**Translation:** Vocabulary: alumni: 校友
+**[83.86s] English:** To vote, you have to be a Harvard alumnus.  
+**Translation:** Vocabulary: alumnus: 哈佛校友
 
-**[86.54s] English:** So if you have to vote, you have to vote.  
+**[86.54s] English:** So, if you have to vote, you have to vote.  
 **Translation:** 
 
-**[86.88s] English:** If you happen to be one, please vote online.  
-**Translation:** 
+**[86.88s] English:** If you happen to be eligible, please vote online.  
+**Translation:** Vocabulary: eligible: 有资格的
 
 **[89.42s] English:** It's a good way to support freedom of speech on Harvard campus.  
 **Translation:** 
 
-**[93.30s] English:** Instructions how to do so are in the description.  
+**[93.30s] English:** Instructions on how to do so are in the description.  
 **Translation:** 
 
 **[96.80s] English:** As a side note, please allow me to say that since there are several controversial conversations coming up,  
 **Translation:** 
 
-**[102.92s] English:** I tried to make sure that this podcast is a platform for free discourse where ideas are not censored but explored,  
+**[102.92s] English:** I tried to make sure that this podcast is a platform for free discourse, where ideas are not censored but explored.  
 **Translation:** Vocabulary: censored: 审查; discourse: 讨论
 
-**[110.00s] English:** and if necessary, challenged in a thoughtful and pathetic way.  
+**[110.00s] English:** And if necessary, challenged in a thoughtful and poignant way.  
 **Translation:** 
 
 **[114.16s] English:** As by having such difficult conversations,  
-**Translation:** Vocabulary: pathetic: 可怜; thoughtful: 深思熟虑
+**Translation:** Vocabulary: poignant: 深刻感人的; thoughtful: 深思熟虑的
 
-**[116.88s] English:** not by avoiding them,  
+**[116.88s] English:** Not by avoiding them,  
 **Translation:** 
 
-**[118.46s] English:** that we can begin to heal divides,  
+**[118.46s] English:** That we can begin to heal divides,  
 **Translation:** 
 
-**[119.96s] English:** and to make sure that we can continue to do so.  
+**[119.96s] English:** And to make sure that we can continue to do so.  
+**Translation:** 
+
+**[120.00s] English:** And to shed light on the dark parts of human history and human nature.  
 **Translation:** 
 
 **[120.04s] English:** Thank you.  
-**Translation:** 
-
-**[120.00s] English:** and to shed light on the dark parts of human history and human nature.  
 **Translation:** 
 
 **[125.12s] English:** This is the Lex Friedman Podcast.  
@@ -94,22 +95,22 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[127.32s] English:** To support it, please check out our sponsors in the description.  
 **Translation:** 
 
-**[130.78s] English:** And now, dear friends, here's Harvey Silverglate.  
+**[130.78s] English:** And now, dear friends: here's Harvey Silverglate.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[135.16s] English:** You co-founded the Foundation for Individual Rights and Expression,  
+**[135.16s] English:** You co-founded the Foundation for Individual Rights and Expression.  
 **Translation:** 
 
-**[139.92s] English:** also known as FIRE,  
+**[139.92s] English:** Also known as FIRE,  
 **Translation:** 
 
-**[141.54s] English:** a legendary organization that fights for the freedom of speech for all Americans  
+**[141.54s] English:** A legendary organization that fights for the freedom of speech for all Americans.  
 **Translation:** 
 
-**[145.12s] English:** in our courtrooms, on our campuses, and in our culture.  
-**Translation:** Vocabulary: courtrooms: 法庭
+**[145.12s] English:** In our courtrooms, on our campuses, and in our culture.  
+**Translation:** Vocabulary: courtrooms: 法庭; legendary: 传奇的
 
-**[149.16s] English:** So let's start with a big question.  
+**[149.16s] English:** So, let's start with a big question.  
 **Translation:** 
 
 **[151.44s] English:** What is freedom of speech?  
@@ -118,61 +119,61 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[153.64s] English:** First of all, the organization, when I co-founded it in 1999,  
 **Translation:** 
 
-**[160.78s] English:** was called the Foundation for Individual Rights in Education.  
+**[160.78s] English:** Was called the Foundation for Individual Rights in Education.  
 **Translation:** 
 
 **[165.64s] English:** It focused on free speech issues on college campuses in academia.  
 **Translation:** 
 
-**[173.06s] English:** And only earlier this year did we decide to expand our reach beyond the campuses.  
+**[173.06s] English:** And only earlier this year, did we decide to expand our reach beyond the campuses.  
 **Translation:** Vocabulary: academia: 学术界
 
 **[179.16s] English:** This is why the name, or the acronym, FIRE, remains.  
 **Translation:** 
 
 **[183.48s] English:** It's now the Foundation for Individual Rights and Expression.  
-**Translation:** Vocabulary: acronym: 首字母缩写
+**Translation:** Vocabulary: acronym: 缩写词
 
-**[187.68s] English:** The E used to be education.  
+**[187.68s] English:** The "E" used to be "education.  
 **Translation:** 
 
-**[189.14s] English:** The E used to be education. It's now expression.  
+**[189.14s] English:** The "E" used to be Education. It's now Expression.  
 **Translation:** 
 
 **[192.22s] English:** And we basically do a lot of the cases the ACLU used to do.  
 **Translation:** 
 
-**[195.92s] English:** The ACLU now more is a progressive organization rather than a civil liberties organization.  
+**[195.92s] English:** The ACLU is now more of a progressive organization rather than a civil liberties organization.  
 **Translation:** 
 
-**[204.14s] English:** And we've taken the role of dealing with free speech,  
+**[204.14s] English:** And we've taken the role of dealing with free speech.  
 **Translation:** 
 
-**[209.16s] English:** and we've taken the role of dealing with freedom of speech in the society generally.  
+**[209.16s] English:** And we've taken the role of dealing with freedom of speech in society generally.  
 **Translation:** 
 
-**[213.16s] English:** And now this is a particularly, an era prone to censorship.  
+**[213.16s] English:** And now, this is an era particularly prone to censorship.  
 **Translation:** 
 
-**[217.60s] English:** Everybody thinks they're right and that people who disagree with them  
-**Translation:** Vocabulary: censorship: 审查制度; prone: 易受
+**[217.60s] English:** Everybody thinks they're right, and that people who disagree with them are wrong.  
+**Translation:** Vocabulary: censorship: 审查; prone: 易受
 
-**[222.40s] English:** should not be able to voice their views.  
+**[222.40s] English:** Should not be able to voice their views.  
 **Translation:** 
 
-**[225.20s] English:** It's a very difficult period right now, both on campus and off campus.  
+**[225.20s] English:** It's a very difficult period right now, both on campus and off-campus.  
 **Translation:** 
 
 **[230.00s] English:** It's about as intolerant an era as I can remember.  
 **Translation:** 
 
-**[233.96s] English:** I'm going to be 81 May 10th.  
+**[233.96s] English:** I'll be 81 on May 10th.  
 **Translation:** Vocabulary: intolerant: 不容忍的
 
 **[236.32s] English:** I was born on Mother's Day, 1942.  
 **Translation:** 
 
-**[239.16s] English:** And I'm going to be 81 May 10th.  
+**[239.16s] English:** And I'm going to be 81 on May 10th.  
 **Translation:** 
 
 **[240.00s] English:** I can't remember it being this bad.  
@@ -181,67 +182,67 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[242.16s] English:** I was born during the McCarthy era.  
 **Translation:** 
 
-**[246.14s] English:** So that says a lot.  
+**[246.14s] English:** So, that says a lot.  
 **Translation:** 
 
 **[247.66s] English:** And it sort of reminds me of that.  
 **Translation:** 
 
-**[250.90s] English:** Well, let's start with that, almost a philosophical question, a legal question, a human question.  
+**[250.90s] English:** Well, let's start with that: almost a philosophical question, a legal question, and a human question.  
 **Translation:** 
 
-**[256.56s] English:** What is this freedom that you care so much about, that you fought for so much, freedom of speech?  
+**[256.56s] English:** What is this freedom that you care so much about—that you fought for so much—freedom of speech?  
 **Translation:** Vocabulary: philosophical: 哲学的
 
 **[261.74s] English:** It is the most important right that Americans have.  
 **Translation:** 
 
 **[265.20s] English:** It's not a coincidence or an accident that it's named in the First Amendment to the Constitution.  
-**Translation:** Vocabulary: coincidence: 巧合
+**Translation:** 
 
-**[274.64s] English:** Without it, no democratic society can be democratic for long.  
+**[274.64s] English:** Without it, no democratic society can be truly democratic for long.  
 **Translation:** 
 
 **[280.06s] English:** And I'm an absolutist.  
 **Translation:** Vocabulary: absolutist: 绝对主义者
 
-**[282.88s] English:** That is, I believe that, for example, people say to me, but what about hate speech?  
+**[282.88s] English:** That is, I believe that, for example, people say to me, "But what about hate speech?  
 **Translation:** 
 
 **[289.88s] English:** Well, hate speech is much more important than love speech.  
 **Translation:** 
 
-**[292.72s] English:** And the reason is I'm much more interested.  
+**[292.72s] English:** And the reason is, I'm much more interested.  
 **Translation:** 
 
-**[295.20s] English:** I'm more interested in knowing whom I should not turn my back on than I am interested in figuring out who loves me or who likes me.  
+**[295.20s] English:** I'm more interested in knowing whom I should not turn my back on than I am in figuring out who loves me or who likes me.  
 **Translation:** 
 
-**[305.08s] English:** So hate speech is the most important, in my view.  
+**[305.08s] English:** So, hate speech is the most important, in my view.  
 **Translation:** 
 
-**[308.82s] English:** And yet it's banned in, for example, schools.  
+**[308.82s] English:** And yet, it's banned, for example, in schools.  
 **Translation:** 
 
 **[312.42s] English:** It's unbelievable.  
 **Translation:** 
 
-**[314.82s] English:** Kids are not schooled into understanding the glory of the First Amendment when schools say to them  
+**[314.82s] English:** Kids are not schooled into understanding the glory of the First Amendment when schools tell them  
 **Translation:** 
 
-**[323.22s] English:** that they shouldn't say things that are going to make somebody feel bad.  
+**[323.22s] English:** That they shouldn't say things that are going to make somebody feel bad.  
 **Translation:** 
 
 **[325.20s] English:** I mean, the purpose of speech is to express honest views that people have.  
 **Translation:** 
 
-**[334.00s] English:** And so I believe hate speech is as important as love speech.  
+**[334.00s] English:** And so, I believe that hate speech is as important as love speech.  
 **Translation:** 
 
 **[338.52s] English:** And my view is more important.  
 **Translation:** 
 
-**[341.74s] English:** So it should be brought to the surface rather than operate in the shadows.  
+**[341.74s] English:** So, it should be brought to the surface rather than operate in the shadows.  
 **Translation:** 
 
 **[345.60s] English:** Absolutely.  
@@ -256,61 +257,61 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[351.88s] English:** Well, in a free society,  
 **Translation:** 
 
-**[354.32s] English:** thoughts start in the brain and then they come out the mouth.  
+**[354.32s] English:** Thoughts start in the brain, and then they come out the mouth.  
 **Translation:** 
 
 **[359.98s] English:** Thank you.  
 **Translation:** 
 
-**[360.00s] English:** so there are different ends of the same spectrum so do you the censorship of speech eventually  
+**[360.00s] English:** So, there are different ends of the same spectrum. So, do you think the censorship of speech eventually will lead to something?  
 **Translation:** Vocabulary: censorship: 言论审查
 
-**[367.98s] English:** leads to a censorship of thought of course censorship of the mode by which other people  
+**[367.98s] English:** Leads to a censorship of thought, of course, censorship of the mode by which other people.  
 **Translation:** 
 
-**[373.32s] English:** know what you're thinking so there's some aspect of our society that is uh the thinking is done  
+**[373.32s] English:** Know what you're thinking? So, there's some aspect of our society where the thinking is done.  
 **Translation:** 
 
-**[379.20s] English:** collectively and without being able to speak to each other we cannot do this kind of collect  
+**[379.20s] English:** Collectively, and without being able to speak to each other, we cannot do this kind of collective task.  
 **Translation:** 
 
-**[383.40s] English:** ranking and out of speed the theory is that ultimately out of speech comes truth that  
-**Translation:** Vocabulary: cannot: 不能
-
-**[389.00s] English:** isn't necessarily so but i do think that when there's free speech better decisions are made  
+**[383.40s] English:** Ranking and out of speed, the theory is that ultimately, out of speech comes truth.  
 **Translation:** 
 
-**[395.66s] English:** because people put their views on the table in a frank accurate way and then those views  
+**[389.00s] English:** Isn't necessarily so, but I do think that when there's free speech, better decisions are made.  
 **Translation:** 
 
-**[404.24s] English:** mix together and clash and out of that usually comes the better the better decision  
+**[395.66s] English:** Because people put their views on the table in a frank and accurate way, and then those views  
 **Translation:** 
 
-**[413.12s] English:** um not always but usually or more more often than not  
+**[404.24s] English:** Mix together and clash, and out of that, usually comes the better decision.  
+**Translation:** 
+
+**[413.12s] English:** Um, not always, but usually, or more often than not.  
 **Translation:** Vocabulary: clash: 冲突
 
-**[418.18s] English:** but of course  
+**[418.18s] English:** But of course.  
 **Translation:** 
 
-**[419.00s] English:** if somebody is not allowed to be a you know sit at the table of decision making  
+**[419.00s] English:** If somebody is not allowed to sit at the table of decision-making, you know.  
 **Translation:** 
 
-**[424.24s] English:** then the decision making process is poorer um less robust less diverse and ultimately less  
+**[424.24s] English:** Then, the decision-making process is poorer, um, less robust, less diverse, and ultimately less effective.  
 **Translation:** 
 
-**[434.06s] English:** successful so can you uh elaborate on the idea of free speech absolutism so hate speech  
+**[434.06s] English:** Successful, so can you uh elaborate on the idea of free speech absolutism, and so hate speech?  
 **Translation:** Vocabulary: absolutism: 绝对主义; elaborate: 阐述; robust: 稳健
 
-**[442.90s] English:** can be quite painful to quite a large number of people does this worry you  
+**[442.90s] English:** Can be quite painful to quite a large number of people. Does this worry you?  
 **Translation:** 
 
-**[449.00s] English:** does this worry you  
+**[449.00s] English:** Does this worry you?  
 **Translation:** 
 
-**[473.84s] English:** um  
+**[473.84s] English:** Um.  
 **Translation:** 
 
-**[474.80s] English:** you  
+**[474.80s] English:** You.  
 **Translation:** 
 
 **[476.80s] English:** Alternatives are worse.  
@@ -319,65 +320,65 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[478.50s] English:** Nobody ever promised us.  
 **Translation:** 
 
-**[480.00s] English:** rose garden we're lucky to be in a country that has the first amendment it's also the own it's  
+**[480.00s] English:** Rose Garden: We're lucky to be in a country that has the First Amendment. It's also own.  
 **Translation:** 
 
-**[486.96s] English:** the most diverse country in the world because of immigration i mean my my grandparents my father's  
+**[486.96s] English:** The most diverse country in the world because of immigration. I mean, my grandparents, my father's...  
 **Translation:** 
 
-**[495.88s] English:** side came over from russia my mother's side came over from poland i'm very happy that my  
+**[495.88s] English:** Side came over from Russia, my mother's side came over from Poland. I'm very happy that my  
 **Translation:** 
 
-**[501.82s] English:** grandparents came in from russia i would not want to be in russia today i'd probably be  
+**[501.82s] English:** Grandparents came in from Russia. I would not want to be in Russia today; I'd probably be  
 **Translation:** 
 
-**[507.36s] English:** sharing a cell with a wall street journal reporter um so um i'm i'm thankful that  
+**[507.36s] English:** Sharing a cell with a Wall Street Journal reporter, um, so, I'm thankful that.  
 **Translation:** 
 
-**[514.90s] English:** they came in and um this is a great country it's got troubles right now but our country doesn't  
+**[514.90s] English:** They came in, and um, this is a great country. It's got troubles right now, but our country doesn't.  
 **Translation:** 
 
-**[522.00s] English:** and we've had before we had a civil war we had segregation uh we had the decimation of the  
+**[522.00s] English:** And we've had, before we had a Civil War, we had segregation, and we had the decimation of...  
 **Translation:** 
 
-**[530.02s] English:** indians we're not perfect but it's the best place in the world for somebody who values liberty  
+**[530.02s] English:** Indians, we're not perfect, but it's the best place in the world for somebody who values liberty.  
 **Translation:** Vocabulary: decimation: 大规模杀戮; segregation: 隔离
 
-**[536.50s] English:** so  
+**[536.50s] English:** So,  
 **Translation:** 
 
-**[537.36s] English:** you don't think that hate speech can empower large groups that um eventually lead to physical  
+**[537.36s] English:** You don't think that hate speech can empower large groups that eventually lead to physical violence?  
 **Translation:** Vocabulary: empower: 赋予权力
 
-**[546.48s] English:** action to physical harm to others no i don't i think that that um we have developed a culture  
+**[546.48s] English:** Action to physical harm to others: No, I don't. I think that we have developed a culture,...  
 **Translation:** 
 
-**[553.26s] English:** in which um it's understood that if you don't like what you hear you you talk back  
+**[553.26s] English:** In which it is understood that if you don't like what you hear, you talk back.  
 **Translation:** 
 
-**[558.50s] English:** um you write you write something um um we don't punch each other we insult each other  
+**[558.50s] English:** Um, you write something, you know, we don't punch each other; we insult each other.  
 **Translation:** 
 
-**[567.36s] English:** um it's insulting great well i don't know it's okay i used to as a kid in brooklyn where i was  
-**Translation:** Vocabulary: insulting: 侮辱
+**[567.36s] English:** Um, it's insulting, great. Well, I don't know; it's okay. I used to do that as a kid in Brooklyn where I was.  
+**Translation:** Vocabulary: brooklyn: 布鲁克林; insult: 侮辱; insulting: 令人侮辱的
 
-**[575.50s] English:** born i was born and raised in bensonhurst we used to say sticks and stones can break my bones but  
+**[575.50s] English:** Born, I was born and raised in Bensonhurst. We used to say, "Sticks and stones can break my bones," but  
 **Translation:** 
 
-**[581.28s] English:** names can never harm me and it's absolutely true what was true when i was five is true when i'm  
-**Translation:** Vocabulary: bensonhurst: 贝森纳赫斯
+**[581.28s] English:** Names can never harm me, and it's absolutely true; what was true when I was five is true when I'm [insert age or present tense].  
+**Translation:** Vocabulary: bensonhurst: Bensonhurst; sticks: 棍子
 
-**[587.16s] English:** i'm almost 81 so i've lived a long time i've seen it all and i'm talking from experience as well as  
+**[587.16s] English:** I'm almost 81, so I've lived a long time; I've seen it all, and I'm talking from experience as well as...  
 **Translation:** 
 
-**[594.98s] English:** theory it's what happens when you  
+**[594.98s] English:** Theory: It's what happens when you.  
 **Translation:** 
 
-**[597.36s] English:** reach your 80s  
+**[597.36s] English:** Reach your 80s.  
 **Translation:** 
 
-**[600.00s] English:** I read that you had this line that you cannot be protected from being called an asshole.  
-**Translation:** Vocabulary: asshole: 混蛋; cannot: 不能
+**[600.00s] English:** I read that you have this line: "You can't be protected from being called an asshole.  
+**Translation:** Vocabulary: asshole: 混蛋
 
 **[604.86s] English:** Correct.  
 **Translation:** 
@@ -385,7 +386,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[606.12s] English:** Especially if you're an asshole.  
 **Translation:** 
 
-**[608.66s] English:** Well, that's, but you don't have to be an asshole to be called an asshole.  
+**[608.66s] English:** Well, that's true, but you don't have to be an asshole to be called one.  
 **Translation:** 
 
 **[613.08s] English:** That's correct.  
@@ -394,16 +395,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[613.84s] English:** And I think the Internet has taught me that.  
 **Translation:** 
 
-**[616.34s] English:** Well, the Internet has posed a particular challenge to free speech absolutists because of some of the stuff that's on there is God awful.  
+**[616.34s] English:** Well, the Internet has posed a particular challenge to free-speech absolutists because of some of the stuff that's on there—is God-awful.  
 **Translation:** Vocabulary: absolutists: 绝对主义者
 
-**[624.40s] English:** But I have no different rule for freedom of speech on the Internet than I have in newspapers or in lectures or in classrooms or conversations among people.  
+**[624.40s] English:** But I have no different rule for freedom of speech on the Internet than I have in newspapers, or in lectures, or in classrooms, or conversations among people.  
 **Translation:** 
 
-**[637.78s] English:** What do you think about the tension between freedom of speech and freedom of reach, as is kind of sometimes termed?  
-**Translation:** 
+**[637.78s] English:** What do you think about the tension between freedom of speech and freedom of reach, as it is sometimes termed?  
+**Translation:** Vocabulary: termed: 称为
 
-**[645.44s] English:** So the Internet really challenges that aspect.  
+**[645.44s] English:** So, the Internet really challenges that aspect.  
 **Translation:** 
 
 **[647.70s] English:** It allows speech to become viral and spread very quickly to a very large number of people.  
@@ -421,13 +422,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[667.78s] English:** Radio and television posed a new challenge.  
 **Translation:** 
 
-**[673.74s] English:** The FCC tried, but ultimately gave up the attempt to control obscenity, for example.  
+**[673.74s] English:** The FCC tried, but ultimately gave up its attempt to control obscenity, for example.  
 **Translation:** 
 
 **[684.40s] English:** And the Supreme Court has been pretty close.  
 **Translation:** Vocabulary: obscenity: 淫秽内容
 
-**[689.48s] English:** The one thing that liberal and conservative Supreme Courts right now, we're in a conservative era due to Trump nominations during much of my life, the Warren Court, it was William O.  
+**[689.48s] English:** The one thing that liberal and conservative Supreme Courts have in common right now is that we're in a conservative era due to Trump's nominations during much of my life. The Warren Court, by contrast, was led by William O.  
 **Translation:** 
 
 **[705.18s] English:** Douglas, Brennan, the liberal court.  
@@ -451,17 +452,17 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[725.52s] English:** And I want to have objective, clear rules so that when I'm in the minority, I'm able to voice my opinion.  
 **Translation:** Vocabulary: ascendance: 上升
 
-**[733.88s] English:** And so it's one of the few things that both sides of the political spectrum agree on.  
+**[733.88s] English:** And so, it's one of the few things that both sides of the political spectrum agree on.  
 **Translation:** 
 
-**[740.44s] English:** The only people who don't are the people way over on the right that I call the fascists and the people way over on the left who are the communists.  
+**[740.44s] English:** The only people who don't are the people way over on the right, that I call the fascists, and the people way over on the left, who are the communists.  
 **Translation:** 
 
-**[749.96s] English:** But with respect to most people in this, on the political spectrum, Republicans, Democrats, socialists, libertarians, they agree on the primacy of free speech because it protects them when protection is needed.  
+**[749.96s] English:** But, with respect to most people on the political spectrum—including Republicans, Democrats, socialists, and libertarians—they agree on the primacy of free speech because it protects them when protection is needed.  
 **Translation:** 
 
-**[768.18s] English:** So to you, even on the Internet.  
-**Translation:** Vocabulary: democrats: 民主党人; libertarians: 自由主义者; primacy: 首要地位
+**[768.18s] English:** So, to you, even on the Internet.  
+**Translation:** Vocabulary: democrats: 民主党; libertarians: 自由主义者; primacy: 首要地位; socialists: 社会主义者
 
 **[771.40s] English:** Free speech absolutism should rule.  
 **Translation:** 
@@ -472,13 +473,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[775.40s] English:** Nobody's going to die.  
 **Translation:** 
 
-**[777.06s] English:** Remember, death threats are not protected.  
+**[777.06s] English:** Remember: Death threats are not protected.  
 **Translation:** 
 
 **[781.70s] English:** Nobody's going to die.  
 **Translation:** 
 
-**[783.76s] English:** So people are going to be a little bit insulted.  
+**[783.76s] English:** So, people are going to be a little bit insulted.  
 **Translation:** Vocabulary: insulted: 受侮辱的
 
 **[786.06s] English:** That's the price you pay for living in a free society.  
@@ -490,7 +491,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[793.08s] English:** Some people don't have as tough a hide as others.  
 **Translation:** 
 
-**[796.06s] English:** Well, then develop it.  
+**[796.06s] English:** Well, then, develop it.  
 **Translation:** 
 
 **[798.68s] English:** I don't mean to.  
@@ -505,7 +506,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[805.14s] English:** Develop a tough hide.  
 **Translation:** 
 
-**[807.46s] English:** So that's the cost of living in a free society.  
+**[807.46s] English:** So, that's the cost of living in a free society.  
 **Translation:** 
 
 **[810.68s] English:** Yep.  
@@ -514,8 +515,8 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[811.12s] English:** There's a cost.  
 **Translation:** 
 
-**[812.22s] English:** The thing is that it can really hurt at scale to be cyber bullied, to be attacked for the ideas you express or maybe ideas you didn't express, but that somebody decided to lie about you and use that to attack you.  
-**Translation:** 
+**[812.22s] English:** The thing is that it can really hurt at scale to be cyberbullied, to be attacked for the ideas you express—or maybe ideas you didn't express, but that somebody decided to lie about you and use that to attack you.  
+**Translation:** Vocabulary: cyberbullied: 网络欺凌
 
 **[828.28s] English:** Well, first of all, there are.  
 **Translation:** 
@@ -527,12 +528,15 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[836.68s] English:** The.  
-**Translation:** Vocabulary: libel: 诽谤; slander: 口头诽谤
+**Translation:** 
 
 **[838.68s] English:** The.  
 **Translation:** 
 
 **[839.68s] English:** The.  
+**Translation:** 
+
+**[840.00s] English:** Threats, or an exception—you know, if you say, "such and such," I will murder you—that is not  
 **Translation:** 
 
 **[840.68s] English:** The.  
@@ -552,6 +556,9 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 
 **[846.68s] English:** The.  
 **Translation:** 
+
+**[846.84s] English:** Lawful if you say that somebody, um, if you say about somebody, oh, you know, um, you beat your wife.  
+**Translation:** Vocabulary: lawful: 合法的
 
 **[847.68s] English:** The.  
 **Translation:** 
@@ -577,6 +584,9 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[854.68s] English:** The.  
 **Translation:** 
 
+**[854.80s] English:** Um, that is not lawful if, in fact, the person knows you don't beat your wife.  
+**Translation:** 
+
 **[855.68s] English:** The.  
 **Translation:** 
 
@@ -592,187 +602,178 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[859.68s] English:** The.  
 **Translation:** 
 
+**[859.70s] English:** There are some limits, such as defamation or direct threats, but it's not absolutely this.  
+**Translation:** 
+
 **[860.18s] English:** The.  
 **Translation:** 
 
-**[840.00s] English:** threats or an exception you know if you if you say such and such i will murder you that is not  
+**[869.06s] English:** Is not the first limit; it is not absolute, but this is, it's more absolute than it is in any other.  
 **Translation:** 
 
-**[846.84s] English:** lawful if you say that somebody um if you say about somebody oh you know um you beat your wife  
+**[875.00s] English:** Society and it's pretty near absolute, um, for example, fraud—if you will sell somebody a car.  
 **Translation:** 
 
-**[854.80s] English:** um that that is not lawful if in fact the person knows you don't beat your wife  
+**[884.70s] English:** And you say, "Oh, this is in great running shape," and in fact, it's an old jalopy, and it's not going to.  
 **Translation:** 
 
-**[859.70s] English:** there are some limits defamation is one direct threats or another um so it's not absolutely this  
-**Translation:** Vocabulary: defamation: 诽谤
-
-**[869.06s] English:** is not the first limit is not absolute but this is it's more absolute than it is in any other  
-**Translation:** 
-
-**[875.00s] English:** society and it's pretty near absolute um for example fraud if you will sell somebody a car  
-**Translation:** 
-
-**[884.70s] English:** and you say oh this is in great running shape and in fact it's an old jalopy and it's not going to  
-**Translation:** 
-
-**[889.58s] English:** make it more than 10 miles that's fraud that's not free speech um so free speech is not absolute  
+**[889.58s] English:** Make it more than 10 miles, that's fraud; that's not free speech, um, so free speech is not absolute.  
 **Translation:** Vocabulary: jalopy: 破旧汽车
 
-**[897.68s] English:** there are these limits  
+**[897.68s] English:** There are these limits.  
 **Translation:** 
 
-**[899.06s] English:** but they're very narrow specific categories of limits but uh there's gray area here because  
+**[899.06s] English:** But they're very narrow, specific categories of limits, but there's a gray area here because.  
 **Translation:** 
 
-**[905.26s] English:** while legally you're not allowed to defame a person in the court of public opinion especially  
+**[905.26s] English:** While legally you're not allowed to defame a person in the court of public opinion, especially  
 **Translation:** 
 
-**[911.50s] English:** with the aid of anonymity on the internet rumors can spread at scale thousands hundreds of  
+**[911.50s] English:** With the aid of anonymity on the Internet, rumors can spread at scale, reaching thousands and hundreds of people.  
 **Translation:** Vocabulary: anonymity: 匿名; defame: 诽谤
 
-**[919.16s] English:** thousands of people can make up things about you you have to defend yourself using more speech  
+**[919.16s] English:** Thousands of people can make up things about you; you have to defend yourself with more speech.  
 **Translation:** 
 
-**[925.58s] English:** we're big we're through freedom of speech and we're big boys and  
+**[925.58s] English:** We're big, we're through with freedom of speech, and we're big boys.  
 **Translation:** 
 
-**[929.06s] English:** girls um you have to defend yourself um you know in in in some societies if you say something um  
+**[929.06s] English:** Girls, um, you have to defend yourself, um, you know, in some societies, if you say something, um,  
 **Translation:** 
 
-**[936.74s] English:** if you right now if you say something nasty about putin you'll end up in the gulag  
+**[936.74s] English:** If you say something nasty about Putin, you'll end up in the gulag.  
 **Translation:** Vocabulary: gulag: 劳改营
 
-**[942.14s] English:** um if you say something nasty about um biden you end up in the new york times where would you rather  
+**[942.14s] English:** Um, if you say something nasty about Biden, you end up in the New York Times. Where would you rather?  
 **Translation:** 
 
-**[948.78s] English:** be well let's talk about the thing you've done for over 20 years which is fight for the freedom  
+**[948.78s] English:** Let's talk about the thing you've been doing for over 20 years, which is fighting for freedom.  
 **Translation:** 
 
-**[956.02s] English:** of speech on college campuses uh so why is it that you're not allowed to defend yourself  
+**[956.02s] English:** Of speech on college campuses, uh, so why is it that you're not allowed to defend yourself?  
 **Translation:** 
 
-**[959.06s] English:** you're not allowed to defend yourself you're not allowed to defend yourself you're not allowed to defend  
+**[959.06s] English:** You're not allowed to defend yourself. You're not allowed to defend yourself. You're not allowed to defend yourself.  
 **Translation:** 
 
-**[960.00s] English:** on college campuses well it's important everywhere in the society but it's most important on college  
+**[960.00s] English:** On college campuses, well, it's important everywhere in society, but it's most important on college campuses.  
 **Translation:** 
 
-**[965.68s] English:** campuses why because that's where we educate our young citizens and if you are educated  
+**[965.68s] English:** Campuses, why? Because that's where we educate our young citizens, and if you are educated,...  
+**Translation:** Vocabulary: educated: 受教育的
+
+**[975.04s] English:** Under the notion that some dean can call you on the carpet because you say something which  
 **Translation:** 
 
-**[975.04s] English:** under a notion that some dean can can call you on the carpet because you say something which  
+**[983.28s] English:** Is considered racist, or you can say something that is considered, you know, dangerous.  
 **Translation:** 
 
-**[983.28s] English:** is considered racist or you can say something which is uh considered uh then you know dangerous  
+**[989.92s] English:** To promote social cohesion, it's not a liberal arts college now, um, the theory,...  
 **Translation:** 
 
-**[989.92s] English:** to uh to social cohesion um then it's not a liberal arts college now um the um the theory  
-**Translation:** 
-
-**[999.84s] English:** that i used in in the shadow university a book you've written the shadow university 1998 1998  
+**[999.84s] English:** That I used in The Shadow University: A Book You've Written (1998).  
 **Translation:** Vocabulary: cohesion: 凝聚力
 
-**[1009.68s] English:** you were ahead of a lot of these things i was i'm afraid that as as a  
+**[1009.68s] English:** You were ahead of a lot of these things. I was afraid that as as a  
 **Translation:** 
 
-**[1013.28s] English:** pessimist i always saw the bad side of things betrayal of liberty on america's campus is the  
-**Translation:** Vocabulary: betrayal: 出卖; pessimist: 悲观者
+**[1013.28s] English:** Pessimist, I always saw the bad side of things. Betrayal of liberty on America's campus is the  
+**Translation:** Vocabulary: betrayal: 背叛; pessimist: 悲观者
 
-**[1019.60s] English:** shadow university that a book you co-authored with alan charles yes one of my princeton classmates  
+**[1019.60s] English:** Shadow University: That's a book you co-authored with Alan Charles, yes, one of my Princeton classmates.  
 **Translation:** 
 
-**[1025.28s] English:** alan charles kors who's now an emeritus professor of enlightenment history at the university of  
-**Translation:** Vocabulary: emeritus: 荣休教授; enlightenment: 启蒙; princeton: 普林斯顿
+**[1025.28s] English:** Alan Charles Kors, who is now an emeritus professor of Enlightenment History at the University of  
+**Translation:** Vocabulary: emeritus: 退休的; enlightenment: 启蒙; princeton: 普林斯顿大学
 
-**[1030.72s] English:** pennsylvania i only taught for one semester and i can go into that later the other reason i did not  
+**[1030.72s] English:** Pennsylvania: I only taught for one semester, and I can go into that later. The other reason I did not...  
 **Translation:** 
 
-**[1038.00s] English:** continue to teach in colleges um it was harvard law school i i taught  
+**[1038.00s] English:** Continue to teach in colleges, such as Harvard Law School, where I taught.  
 **Translation:** 
 
-**[1043.28s] English:** course in the mid-1980s um but in any event um the college campuses are one of the most important  
+**[1043.28s] English:** Course, in the mid-1980s, but in any event, the college campuses are one of the most important.  
 **Translation:** 
 
-**[1051.52s] English:** for for free speech this is where people get education and if you don't really get a good  
+**[1051.52s] English:** For free speech, this is where people get their education, and if you don't really get a good start,  
 **Translation:** 
 
-**[1058.48s] English:** education if certain points of view are not allowed to be expressed because education comes  
+**[1058.48s] English:** Education, if certain points of view are not allowed to be expressed, because education comes  
 **Translation:** 
 
-**[1064.40s] English:** from the clash of ideas and you then have to decide this is the this is how you become a  
-**Translation:** Vocabulary: clash: 观点碰撞
+**[1064.40s] English:** From the clash of ideas, and you then have to decide: this is how you become a  
+**Translation:** Vocabulary: clash: 冲突
 
-**[1073.28s] English:** leader and you have to decide which ideas make more sense to you which ones you're going to follow  
+**[1073.28s] English:** Leader, and you have to decide which ideas make more sense to you, which ones you're going to follow.  
 **Translation:** 
 
-**[1080.00s] English:** is transformative. And if there is censorship on campuses, it's highly destructive of the  
-**Translation:** Vocabulary: censorship: 言论审查
+**[1080.00s] English:** Is transformative. And if there is censorship on campuses, it's highly destructive of the  
+**Translation:** Vocabulary: censorship: 审查
 
-**[1088.68s] English:** educational enterprise and ultimately to the entire society. You know, we have in the sciences,  
+**[1088.68s] English:** Educational enterprises and ultimately to the entire society. You know, we have in the sciences,...  
 **Translation:** 
 
-**[1097.38s] English:** we have a scientific method. Scientific method is you try experiments and you see which ones work  
+**[1097.38s] English:** We have a scientific method. Scientific method is: you try experiments, and you see which ones work.  
+**Translation:** Vocabulary: enterprises: 企业; experiments: 实验
+
+**[1106.44s] English:** And then you develop theories based upon the results of experiments. Well, this is not much.  
 **Translation:** 
 
-**[1106.44s] English:** and then you develop theories based upon the results of experiments. Well, this is not much  
+**[1111.66s] English:** Different from every other aspect of life, you have to entertain different views on different subjects.  
 **Translation:** 
 
-**[1111.66s] English:** different from every other aspect of life. You have to entertain different views on different  
+**[1116.72s] English:** Subjects. You hear all the views, and you make a decision as to which ones are accurate, which ones  
 **Translation:** 
 
-**[1116.72s] English:** subjects. You hear all the views and you make a decision as to which one's accurate, which one's  
-**Translation:** 
-
-**[1121.88s] English:** not. So a scientific method I apply to non-science, to history, to journalism, to all of these things.  
-**Translation:** 
+**[1121.88s] English:** Not so. I apply the scientific method to non-science, to history, to journalism, and to all of these things.  
+**Translation:** Vocabulary: journalism: 新闻业
 
 **[1132.90s] English:** So that scientific method includes ideas,  
 **Translation:** 
 
-**[1136.44s] English:** hateful ideas also.  
+**[1136.44s] English:** Hateful ideas, as well.  
 **Translation:** 
 
-**[1137.54s] English:** Correct. If you don't allow hateful ideas, I mean, when scientists do experiments,  
+**[1137.54s] English:** Correct. If you don't allow hateful ideas, I mean, when scientists do experiments,...  
 **Translation:** 
 
-**[1143.44s] English:** nobody says to them, oh, you know, don't do that experiment because it would be very bad  
+**[1143.44s] English:** Nobody says to them, "Oh, you know, don't do that experiment because it would be very bad.  
 **Translation:** 
 
-**[1148.70s] English:** if that turns out to be accurate, you know, that outcome. That's not the way it works.  
+**[1148.70s] English:** If that turns out to be accurate, you know, that outcome. That's not how it works.  
 **Translation:** 
 
 **[1155.44s] English:** Every point of view is thrown into the marketplace, whether it's science or whether it's  
 **Translation:** Vocabulary: marketplace: 观点市场
 
-**[1161.64s] English:** a, you know, non-science.  
+**[1161.64s] English:** A, you know, non-science.  
 **Translation:** 
 
-**[1165.24s] English:** And that includes...  
+**[1165.24s] English:** And that includes....  
 **Translation:** 
 
-**[1166.44s] English:** The kind of ideas and the kind of discourse that might actually lead to an increase in hate on campuses.  
+**[1166.44s] English:** The kinds of ideas and the kinds of discourse that might actually lead to an increase in hate on campuses.  
 **Translation:** 
 
-**[1172.94s] English:** The First Amendment prohibits speech which is liable to produce imminent, imminent violence.  
+**[1172.94s] English:** The First Amendment prohibits speech that is likely to produce imminent violence.  
 **Translation:** Vocabulary: discourse: 言论; prohibits: 禁止
 
 **[1183.24s] English:** Yeah.  
 **Translation:** 
 
-**[1183.66s] English:** So, for example, you know, the exception is yelling falsely, falsely yelling fire in a crowded movie theater.  
-**Translation:** Vocabulary: falsely: 虚假地
+**[1183.66s] English:** So, for example, you know, the exception is yelling "fire" falsely in a crowded movie theater.  
+**Translation:** Vocabulary: falsely: 虚假地; yelling: 喊叫
 
 **[1194.36s] English:** A lot of people misstate it.  
 **Translation:** 
 
-**[1196.44s] English:** They say, well, the exception is yelling fire in a movie theater.  
+**[1196.44s] English:** They say the exception is yelling "fire" in a movie theater.  
 **Translation:** Vocabulary: misstate: 说错
 
-**[1200.00s] English:** If there's really a fire, you're forming a real important function by yelling fire.  
+**[1200.00s] English:** If there's really a fire, you're forming an important function by yelling "fire.  
 **Translation:** 
 
-**[1205.46s] English:** But it's falsely yelling fire.  
+**[1205.46s] English:** But it's falsely yelling "fire.  
 **Translation:** 
 
 **[1207.68s] English:** You could start a riot.  
@@ -781,25 +782,25 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1208.82s] English:** People would be crushed trying to get out.  
 **Translation:** 
 
-**[1211.74s] English:** So that's one of the exceptions of the First Amendment as the Supreme Court has defined it.  
+**[1211.74s] English:** So, that's one of the exceptions to the First Amendment, as the Supreme Court has defined it.  
 **Translation:** 
 
 **[1219.72s] English:** There are very few exceptions.  
-**Translation:** Vocabulary: exceptions: 例外
+**Translation:** Vocabulary: exceptions: 特例
 
 **[1222.96s] English:** And defamation is an exception.  
 **Translation:** 
 
 **[1225.10s] English:** I'm not a fan of that exception, frankly.  
-**Translation:** Vocabulary: defamation: 诽谤
+**Translation:** Vocabulary: defamation: 诽谤; frankly: 坦白地说
 
-**[1227.92s] English:** But if you say something about somebody that has serious implications in their life, in their ability to earn a living,  
+**[1227.92s] English:** But if you say something about somebody that has serious implications in their life, in their ability to earn a living,...  
 **Translation:** 
 
-**[1239.28s] English:** if you accuse somebody of being a pedophile when it's not true, that person can sue you.  
-**Translation:** Vocabulary: pedophile: 恋童癖者
+**[1239.28s] English:** If you accuse someone of being a pedophile when it's not true, that person can sue you.  
+**Translation:** Vocabulary: implications: 影响; pedophile: 恋童癖者
 
-**[1246.70s] English:** My own view is I think that's an unfortunate exception, but I'm not on the Supreme Court.  
+**[1246.70s] English:** My own view is that I think that's an unfortunate exception, but I'm not on the Supreme Court.  
 **Translation:** 
 
 **[1253.76s] English:** I think that I'm with...  
@@ -808,14 +809,14 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1257.00s] English:** A friend of mine was Nat Hentoff.  
 **Translation:** 
 
-**[1260.46s] English:** Nat Hentoff, who wrote for decades for the Village Voice in New York, he was a friend of mine.  
+**[1260.46s] English:** Nat Hentoff, who wrote for decades for the Village Voice in New York, was a friend of mine.  
+**Translation:** Vocabulary: hentoff: 亨特福德
+
+**[1268.36s] English:** He was a free-speech absolutist.  
 **Translation:** 
 
-**[1268.36s] English:** He was a free speech absolutist.  
-**Translation:** 
-
-**[1271.12s] English:** And he wrote a fabulous book called Free Speech for Me, But Not for Thee.  
-**Translation:** Vocabulary: absolutist: 绝对主义者
+**[1271.12s] English:** And he wrote a fabulous book called "Free Speech for Me, But Not for Thee.  
+**Translation:** Vocabulary: absolutist: 绝对主义者; fabulous: 极好的
 
 **[1277.76s] English:** And he was an absolutist, and I'm with Nat Hentoff.  
 **Translation:** 
@@ -826,106 +827,106 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1283.36s] English:** I mean, I agree with you in some sense, just practically speaking.  
 **Translation:** 
 
-**[1287.00s] English:** It seems like that the best way in the public sphere to defend against defamation is with more speech.  
-**Translation:** 
+**[1287.00s] English:** It seems that the best way in the public sphere to defend against defamation is with more speech.  
+**Translation:** Vocabulary: practically: 实际上
 
 **[1297.12s] English:** Correct.  
 **Translation:** 
 
-**[1298.08s] English:** And through authenticity, through authentic communication of the truth as you see it.  
+**[1298.08s] English:** And through authenticity, through the authentic communication of the truth as you see it.  
 **Translation:** Vocabulary: authentic: 真实的; authenticity: 真实性
 
 **[1305.38s] English:** Yeah.  
 **Translation:** 
 
-**[1305.66s] English:** You know, at times the Boston Globe has said something about me that hasn't been accurate.  
+**[1305.66s] English:** You know, at times the Boston Globe has said something about me that hasn't been entirely accurate.  
 **Translation:** 
 
 **[1310.46s] English:** They have invariably published my letter to the editor.  
 **Translation:** 
 
 **[1314.88s] English:** I'm also not...  
-**Translation:** Vocabulary: invariably: 始终
+**Translation:** Vocabulary: invariably: 总是
 
 **[1317.00s] English:** Bashful about getting in touch with the reporter.  
 **Translation:** 
 
 **[1319.86s] English:** They...  
-**Translation:** Vocabulary: bashful: 羞涩
+**Translation:** Vocabulary: bashful: 害羞
 
-**[1320.00s] English:** end of every column they give the reporters email address and I know  
+**[1320.00s] English:** At the end of every column, they give the reporters' email address, and I know.  
 **Translation:** 
 
-**[1326.06s] English:** people say that I I have more access to the media than most people but all that  
+**[1326.06s] English:** People say that I have more access to the media than most people, but all that  
 **Translation:** 
 
-**[1333.74s] English:** means is I get the fame more than most people can we also comment on from the  
+**[1333.74s] English:** Means is that I get the fame more than most people. Can we also comment on this?  
 **Translation:** 
 
-**[1338.54s] English:** individual consumer of speech there's a kind of sense that freedom of speech  
+**[1338.54s] English:** Individual consumers of speech, there's a kind of sense that freedom of speech  
 **Translation:** 
 
-**[1346.22s] English:** means you should be forced to read all of it freedom of speech versus freedom  
+**[1346.22s] English:** Means you should be forced to read all of it, freedom of speech versus freedom.  
 **Translation:** 
 
-**[1351.50s] English:** of reach we as consumers of speech do we have the right to select what we read we  
+**[1351.50s] English:** Of reach, we as consumers of speech, do we have the right to select what we read?  
 **Translation:** 
 
-**[1357.42s] English:** do and that nobody can force us to sit in the room and listen to a radio  
+**[1357.42s] English:** Do, and that nobody can force us to sit in the room and listen to the radio.  
 **Translation:** 
 
-**[1362.72s] English:** program that we don't want to listen to nobody can force us to read a book that  
+**[1362.72s] English:** A program that we don't want to listen to; nobody can force us to read a book that.  
 **Translation:** 
 
-**[1366.92s] English:** we don't want to read the whole motion of freedom of speech means that people  
+**[1366.92s] English:** We don't want to read the whole motion; it means that people  
 **Translation:** 
 
-**[1373.22s] English:** have autonomy on their choices  
+**[1373.22s] English:** Have autonomy over their choices.  
 **Translation:** Vocabulary: autonomy: 自主权
 
-**[1376.20s] English:** in order to form a complete mind and complete human being there's a kind of  
+**[1376.20s] English:** In order to form a complete mind and complete human being, there's a kind of  
 **Translation:** 
 
-**[1380.98s] English:** tension of that autonomy versus consuming as many varied perspectives  
-**Translation:** Vocabulary: perspectives: 观点
+**[1380.98s] English:** Tension between autonomy and consuming as many varied perspectives.  
+**Translation:** Vocabulary: perspectives: 观点; varied: 多样的
 
-**[1387.62s] English:** as possible which is underlying the ethic of free speech so on college  
+**[1387.62s] English:** As possible, which is underlying the ethic of free speech, so on college.  
 **Translation:** 
 
-**[1392.38s] English:** campuses it seems like a good way to develop the mind is to get as many  
+**[1392.38s] English:** Campuses: It seems like a good way to develop the mind is to get as many.  
 **Translation:** 
 
-**[1398.02s] English:** perspectives as possible even if you don't really want to well that's that is  
+**[1398.02s] English:** Perspectives as possible, even if you don't really want to; well, that's that is  
 **Translation:** 
 
-**[1403.80s] English:** the theory academic freedom of speech  
+**[1403.80s] English:** The theory of academic freedom of speech.  
 **Translation:** 
 
-**[1406.16s] English:** well that's that is the theory academic freedom of speech  
+**[1406.16s] English:** Well, that is the theory of academic freedom of speech.  
 **Translation:** 
 
-**[1406.18s] English:** is the is supposed to be the highest degree of free speech yeah you should be  
+**[1406.18s] English:** Is the supposed to be the highest degree of free speech? Yeah, you should be.  
 **Translation:** 
 
-**[1414.16s] English:** able to entertain all kinds of hateful threatening ideas and and the way I put  
+**[1414.16s] English:** Able to entertain all kinds of hateful, threatening ideas, and the way I put it is:  
 **Translation:** 
 
-**[1421.76s] English:** it is there's something wrong when you can say something with complete abandon  
+**[1421.76s] English:** It is wrong when you can say something with complete abandon.  
 **Translation:** 
 
-**[1427.98s] English:** without any fear in Harvard Square where is on the other side of the fence you  
+**[1427.98s] English:** Without any fear, in Harvard Square, where it's on the other side of the fence, you  
 **Translation:** 
 
-**[1432.88s] English:** can't say it in Harvard Yard it should be the opposite and what happens is  
+**[1432.88s] English:** Can't say it in Harvard Yard; it should be the opposite, and what happens is:  
 **Translation:** 
 
-**[1439.02s] English:** University  
+**[1439.02s] English:** University:  
 **Translation:** 
 
-**[1440.00s] English:** from the best to the worst, from the most famous to the least well-known, have been  
+**[1440.00s] English:** From the best to the worst, from the most famous to the least well-known, have been  
 **Translation:** 
 
-**[1445.92s] English:** taken over by administrators.  
+**[1445.92s] English:** Taken over by administrators.  
 **Translation:** 
 
 **[1450.16s] English:** Administrators do not really subsume academic values.  
@@ -943,175 +944,175 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1459.28s] English:** They feel that their job is to keep order.  
 **Translation:** 
 
-**[1463.08s] English:** And so they develop speech codes, kangaroo courts to enforce the speech codes.  
+**[1463.08s] English:** And so they develop speech codes and kangaroo courts to enforce the speech codes.  
 **Translation:** 
 
 **[1470.00s] English:** And these are very dire developments.  
-**Translation:** Vocabulary: kangaroo: 袋鼠
+**Translation:** Vocabulary: enforce: 强制; kangaroo: 伪公审
 
-**[1472.64s] English:** I wrote about them in The Shadow University in 98 and tried to deal with them in 1999  
+**[1472.64s] English:** I wrote about them in "The Shadow University" in 1998, and tried to deal with them in 1999.  
 **Translation:** 
 
-**[1480.00s] English:** when I started FIRE, co-started FIRE.  
+**[1480.00s] English:** When I started FIRE, I co-started it.  
 **Translation:** 
 
-**[1484.34s] English:** And I would FIRE, the reason I'm running currently for the Harvard Board of Overseers is what  
+**[1484.34s] English:** And I would fire—the reason I'm running currently for the Harvard Board of Overseers is what  
 **Translation:** 
 
-**[1492.98s] English:** I'd like to do is convince the Harvard Corporation, the so-called president and fellows of Harvard  
-**Translation:** Vocabulary: overseers: 监督委员会
+**[1492.98s] English:** I would like to convince the Harvard Corporation, the so-called president and fellows of Harvard,  
+**Translation:** Vocabulary: fellows: 校董; overseers: 监督者
 
 **[1498.64s] English:** College.  
 **Translation:** 
 
-**[1499.64s] English:** The chief governing board of the university with the real power, the Board of Overseers  
+**[1499.64s] English:** The chief governing board of the university, with the real power, is the Board of Overseers.  
 **Translation:** 
 
-**[1505.16s] English:** is a secondary body, but quite influential, to FIRE 95% of the administrators.  
+**[1505.16s] English:** Is a secondary body, but quite influential, to fire 95% of the administrators.  
 **Translation:** 
 
 **[1513.76s] English:** It would have a salutary effect on the academics of the university.  
-**Translation:** Vocabulary: salutary: 有益的
+**Translation:** Vocabulary: influential: 有影响力的; salutary: 有益的
 
 **[1518.14s] English:** It would have a salutary effect on free speech and academic freedom.  
 **Translation:** 
 
-**[1522.02s] English:** It would cut tuitions by about 40%, and it would create a whole different atmosphere  
-**Translation:** Vocabulary: tuitions: 学费
+**[1522.02s] English:** It would cut tuition by about 40%, and it would create a whole different atmosphere.  
+**Translation:** Vocabulary: tuition: 学费
 
-**[1528.28s] English:** on the campus.  
+**[1528.28s] English:** On the campus.  
 **Translation:** 
 
-**[1529.32s] English:** And the same could be said of MIT or any other place.  
+**[1529.32s] English:** And the same could be said of MIT, or any other place.  
 **Translation:** 
 
 **[1534.76s] English:** I think administrators are a very bad influence on American higher education.  
 **Translation:** 
 
-**[1543.82s] English:** Can you sort of elaborate the intuition of why this thing that you call administrative  
-**Translation:** Vocabulary: elaborate: 详细阐述; intuition: 直觉
+**[1543.82s] English:** Can you sort of elaborate on the intuition behind why you call this thing "administrative"?  
+**Translation:** Vocabulary: elaborate: 详述; intuition: 直觉
 
-**[1550.64s] English:** bloat is such a bad thing for a university?  
+**[1550.64s] English:** Is bloat such a bad thing for a university?  
 **Translation:** 
 
-**[1553.04s] English:** Well, first of all, just in terms of the cost of maintaining.  
-**Translation:** Vocabulary: bloat: 膨胀
+**[1553.04s] English:** Well, first of all, just in terms of the cost of maintenance.  
+**Translation:** Vocabulary: bloat: 过度膨胀
 
 **[1557.84s] English:** Yeah.  
 **Translation:** 
 
-**[1558.84s] English:** There are many reasons why administrators are bad.  
+**[1558.84s] English:** There are many reasons why administrators are perceived as bad.  
+**Translation:** Vocabulary: perceived: 被感知
+
+**[1560.00s] English:** Administrators in American higher education, and there are faculty members.  
 **Translation:** 
 
-**[1560.00s] English:** administrators in American higher education and there are faculty members  
+**[1563.78s] English:** The course is enormous.  
 **Translation:** 
 
-**[1563.78s] English:** The course is enormous  
+**[1566.04s] English:** Number Two.  
 **Translation:** 
 
-**[1566.04s] English:** number two  
-**Translation:** 
-
-**[1567.80s] English:** they are inimical to the  
+**[1567.80s] English:** They are inimical to the  
 **Translation:** Vocabulary: inimical: 有害的
 
-**[1571.40s] English:** the the teaching enterprise and and  
+**[1571.40s] English:** The teaching enterprise and and  
 **Translation:** 
 
-**[1574.70s] English:** They feel that their job is to control things to make sure there are no problems and nobody's feelings are hurt  
+**[1574.70s] English:** They feel that their job is to control things to make sure there are no problems, and nobody's feelings are hurt.  
 **Translation:** 
 
-**[1583.64s] English:** Being called, you know be before a Dean because you said something  
+**[1583.64s] English:** Being called, you know, be before a dean because you said something.  
 **Translation:** 
 
-**[1588.12s] English:** That insulted somebody is something that shouldn't happen in American higher education yet  
+**[1588.12s] English:** That insulted somebody is something that shouldn't happen in American higher education, yet.  
 **Translation:** Vocabulary: insulted: 侮辱
 
-**[1594.24s] English:** It happens because you have these administrators who think it's their job  
+**[1594.24s] English:** It happens because you have these administrators who think it's their job.  
 **Translation:** 
 
-**[1597.86s] English:** To protect people from being insulted you you insult a black student you insult a woman  
-**Translation:** 
+**[1597.86s] English:** To protect people from being insulted, you insult a black student or you insult a woman.  
+**Translation:** Vocabulary: insult: 侮辱
 
-**[1605.20s] English:** There's a disciplinary hearing. Well, there shouldn't be  
+**[1605.20s] English:** There's a disciplinary hearing. Well, there shouldn't be.  
 **Translation:** 
 
 **[1610.12s] English:** Black people are  
-**Translation:** Vocabulary: disciplinary: 纪律处分的
+**Translation:** Vocabulary: disciplinary: 处分的
 
-**[1612.52s] English:** Accustomed to being insulted Jews are custom the custom beings of women are  
+**[1612.52s] English:** Accustomed to being insulted, Jews are, by custom, the beings of women are.  
 **Translation:** 
 
-**[1618.12s] English:** Customs being sold him and it's very good to know who doesn't like you. It's useful  
+**[1618.12s] English:** Customs are being sold, and it's very good to know who doesn't like you. It's useful.  
+**Translation:** Vocabulary: accustomed: 习惯的
+
+**[1624.66s] English:** It is very essential information to know who doesn't like you if.  
 **Translation:** 
 
-**[1624.66s] English:** It is very you it's essential information to know who doesn't like you if  
+**[1630.16s] English:** Everybody is forced to say "I love you," and nobody can say "I hate you.  
 **Translation:** 
 
-**[1630.16s] English:** Everybody is forced to say I love you and nobody can say I hate you  
+**[1633.36s] English:** You get a false view of what life is all about outside of the university, outside the university. I mean, you do graduate eventually.  
 **Translation:** 
 
-**[1633.36s] English:** You get a false view of what life is all about outside of the university outside the university. I mean you do graduate eventually  
+**[1643.52s] English:** And that's ultimately the mission of the university: to prepare you to make.  
 **Translation:** 
 
-**[1643.52s] English:** And that's ultimately the mission of the university is to prepare you to make you  
+**[1648.12s] English:** A great human being can become a great leader who can take on the problems of the world.  
 **Translation:** 
 
-**[1648.12s] English:** A great human being into a great leader that can take on the problems of the world  
+**[1651.36s] English:** Correct, and you don't do it by treating her like a little flower.  
 **Translation:** 
 
-**[1651.36s] English:** Correct, and you don't do it by by treating you like a like a little flower  
+**[1656.30s] English:** About What Role Does the University Have in Protecting Students, Particularly Women?  
 **Translation:** 
 
-**[1656.30s] English:** About what role does the university have to protect students to women?  
+**[1661.00s] English:** African Americans.  
 **Translation:** 
 
-**[1661.00s] English:** African Americans  
+**[1663.08s] English:** Anybody, Jews or anyone who gets targeted, could be a victim of hate speech.  
 **Translation:** 
 
-**[1663.08s] English:** Anybody Jews anybody who gets can get you could be victim of hate speech  
-**Translation:** 
-
-**[1667.06s] English:** They they they protect you from physical assault if somebody physically assaults you  
+**[1667.06s] English:** They protect you from physical assault if somebody physically assaults you.  
 **Translation:** Vocabulary: assaults: 攻击
 
-**[1672.80s] English:** then they  
+**[1672.80s] English:** Then they  
 **Translation:** 
 
-**[1674.40s] English:** They get punished, but they shouldn't and so they  
+**[1674.40s] English:** They get punished, but they shouldn't, and so they  
 **Translation:** 
 
-**[1678.12s] English:** Shouldn't protect you against insult  
+**[1678.12s] English:** Shouldn't protect you from insult.  
 **Translation:** 
 
-**[1680.00s] English:** because that is a violation of academic freedom,  
-**Translation:** 
+**[1680.00s] English:** Because that is a violation of academic freedom.  
+**Translation:** Vocabulary: insult: 侮辱
 
-**[1683.26s] English:** the freedom of the insulter to insult you.  
+**[1683.26s] English:** The freedom of the insulter to insult you.  
 **Translation:** 
 
 **[1686.02s] English:** And also, as I said, it's very useful to know who doesn't like you.  
 **Translation:** Vocabulary: insulter: 侮辱者
 
-**[1690.42s] English:** It's useful for the so-called victim.  
+**[1690.42s] English:** It's useful for what is called the victim.  
 **Translation:** 
 
 **[1693.28s] English:** I think it's to say, I want to know who doesn't like me.  
 **Translation:** 
 
-**[1697.36s] English:** It's as important to me as knowing who likes me.  
+**[1697.36s] English:** It's just as important to me as knowing who likes me.  
 **Translation:** 
 
-**[1700.60s] English:** But do you also believe in this open space of discourse  
-**Translation:** Vocabulary: discourse: 言论交流
+**[1700.60s] English:** But, do you also believe in this open space of discourse?  
+**Translation:** 
 
-**[1705.10s] English:** that the insulter will eventually lose?  
+**[1705.10s] English:** That the insulter will eventually lose?  
 **Translation:** 
 
 **[1707.68s] English:** I think that's true.  
 **Translation:** 
 
-**[1708.96s] English:** I think that the insulter eventually will wear out his or her welcome.  
+**[1708.96s] English:** I think that the insulter will eventually wear out his or her welcome.  
 **Translation:** 
 
 **[1714.62s] English:** I do.  
@@ -1126,154 +1127,154 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1722.18s] English:** Yeah.  
 **Translation:** 
 
-**[1722.56s] English:** And usually, by the way, my experience has been  
+**[1722.56s] English:** And, usually, by the way, my experience has been,  
 **Translation:** 
 
-**[1725.86s] English:** that the insulters have generally not been as smart as the people they've insulted.  
+**[1725.86s] English:** That the insulters have generally not been as smart as the people they've insulted.  
 **Translation:** 
 
-**[1730.22s] English:** And that's probably one of the reasons they insult them,  
+**[1730.22s] English:** And that's probably one of the reasons they insult them.  
 **Translation:** Vocabulary: insulted: 被侮辱; insulters: 侮辱者
 
-**[1733.24s] English:** because they feel inferior.  
+**[1733.24s] English:** Because they feel inferior.  
 **Translation:** 
 
 **[1735.36s] English:** I mean, I'm not trying to be a psychoanalyst.  
-**Translation:** Vocabulary: inferior: 不如别人; psychoanalyst: 心理分析师
+**Translation:** Vocabulary: inferior: 不如对方; psychoanalyst: 心理分析师
 
-**[1738.96s] English:** But a lot of the people who are the haters  
+**[1738.96s] English:** But a lot of the people who are the haters,...  
 **Translation:** 
 
-**[1741.90s] English:** are pretty low down in the intellectual scale.  
+**[1741.90s] English:** Are pretty low down on the intellectual scale.  
 **Translation:** 
 
 **[1746.22s] English:** Anyway, 95% of administration,  
 **Translation:** 
 
-**[1750.18s] English:** you would fire, you're calling to fire 95% of the administration.  
+**[1750.18s] English:** You would be firing 95% of the administration by calling for it.  
 **Translation:** 
 
 **[1756.34s] English:** People should know.  
 **Translation:** 
 
-**[1757.68s] English:** I think people that don't really think about the structure,  
+**[1757.68s] English:** I think people who don't really think about the structure,  
 **Translation:** 
 
-**[1762.36s] English:** the way the universities work,  
+**[1762.36s] English:** The way the universities work,  
 **Translation:** 
 
-**[1764.08s] English:** are not familiar, I think, with the fact that administration,  
+**[1764.08s] English:** Are you not familiar, I think, with the fact that administration,  
 **Translation:** 
 
-**[1768.14s] English:** there's a huge...  
+**[1768.14s] English:** There's a huge...  
 **Translation:** 
 
 **[1768.92s] English:** There's a huge...  
 **Translation:** 
 
-**[1768.94s] English:** There's a huge bloat of administration.  
+**[1768.94s] English:** There's a huge bloated administration.  
 **Translation:** 
 
 **[1771.16s] English:** You know, when you think about what makes a great university,  
-**Translation:** Vocabulary: bloat: 冗余
+**Translation:** Vocabulary: bloated: 臃肿的
 
-**[1773.48s] English:** it's about the students, it's about the faculty,  
+**[1773.48s] English:** It's about the students, it's about the faculty.  
 **Translation:** 
 
-**[1775.42s] English:** it's about the people that do research,  
+**[1775.42s] English:** It's about the people who do research.  
 **Translation:** 
 
-**[1776.96s] English:** if it's a research university.  
+**[1776.96s] English:** If it's a research university.  
 **Translation:** 
 
-**[1779.18s] English:** They don't think about the bureaucracy of meetings and committees and rules  
+**[1779.18s] English:** They don't think about the bureaucracy of meetings and committees and rules.  
 **Translation:** Vocabulary: bureaucracy: 官僚主义
 
-**[1783.78s] English:** and paperwork and all that,  
+**[1783.78s] English:** And paperwork and all that,  
 **Translation:** 
 
-**[1786.12s] English:** and all the people that are involved with pushing that kind of paper.  
+**[1786.12s] English:** And all the people involved with pushing that kind of paper.  
 **Translation:** 
 
-**[1789.30s] English:** And there's a huge cost to that,  
+**[1789.30s] English:** And there's a huge cost to that.  
 **Translation:** 
 
-**[1791.00s] English:** but it also slows down and suppresses the beautiful variety  
+**[1791.00s] English:** But it also slows down and suppresses the beautiful variety.  
 **Translation:** Vocabulary: suppresses: 压制
 
-**[1796.48s] English:** that makes a university great,  
+**[1796.48s] English:** That makes a university great,  
 **Translation:** 
 
-**[1798.64s] English:** which is...  
+**[1798.64s] English:** Which is...  
 **Translation:** 
 
-**[1798.90s] English:** Which is the teaching.  
+**[1798.90s] English:** Which is the teaching?  
 **Translation:** 
 
-**[1799.84s] English:** Which is the teaching.  
+**[1799.84s] English:** Which is the teaching?  
 **Translation:** 
 
-**[1800.00s] English:** the student life the protests the the the clubs all the fun that you can have in university all  
+**[1800.00s] English:** The student life, the protests, the clubs—all the fun that you can have in university!  
 **Translation:** 
 
-**[1807.86s] English:** the very kind of exploration which you can't really do once you graduate correct it's the  
+**[1807.86s] English:** The very kind of exploration which you can't really do once you graduate; it's the  
+**Translation:** Vocabulary: protests: 示威活动
+
+**[1812.16s] English:** The university is a place to really explore in every single way, so let me just talk about this.  
 **Translation:** 
 
-**[1812.16s] English:** the university is a place to really explore in every single way so let me just talk about this  
+**[1819.78s] English:** An important thing because, uh, I'm very fortunate to have contacted you almost by accident in a very  
 **Translation:** 
 
-**[1819.78s] English:** important thing because uh i'm very fortunate to have contacted you almost by accident in a very  
+**[1825.86s] English:** An important moment in your life: you're running for the Harvard Board of Overseers. Uh, what is this?  
 **Translation:** 
 
-**[1825.86s] English:** important moment in your life you're running for the harvard board of overseers uh what is this  
+**[1833.48s] English:** Board, how much power does it have? Uh, and what would you do if elected? Okay, first of all, I have...  
+**Translation:** Vocabulary: overseers: 监督委员会成员
+
+**[1840.30s] English:** Have a prediction: Yes, that in about five years they're going to probably change the name because.  
 **Translation:** 
 
-**[1833.48s] English:** board how much power does it have uh and what would you do if elected okay first of all i have a i  
-**Translation:** Vocabulary: overseers: 监督委员会
+**[1844.68s] English:** Overseers remind people of the slavery era, and we're in such a politically correct era now.  
+**Translation:** Vocabulary: politically: 政治上
 
-**[1840.30s] English:** have a prediction yes that in about five years they're going to probably change the name because  
+**[1851.38s] English:** That the English language is being restricted and corrupted as well.  
 **Translation:** 
 
-**[1844.68s] English:** overseers reminds people of the slavery era and we're in a such a politically correct era now  
+**[1855.86s] English:** I put it because certain words are, uh, forbidden. We have some problems with this.  
+**Translation:** Vocabulary: corrupted: 被污染
+
+**[1862.92s] English:** Country, and I think part of the problem is that the educational system has lost the sense of its purpose.  
 **Translation:** 
 
-**[1851.38s] English:** that the english language is being restricted corrupted as well  
+**[1868.86s] English:** Academic freedom and free speech are all about, and I think it's essential that.  
 **Translation:** 
 
-**[1855.86s] English:** i put it because certain words are uh are forbidden we we have some problems in this  
-**Translation:** Vocabulary: corrupted: 污染
-
-**[1862.92s] English:** country and i think part of the problem is the educational system has lost the sense of what  
+**[1876.24s] English:** The educational system began to take more seriously what free speech and negative freedom mean.  
 **Translation:** 
 
-**[1868.86s] English:** academic freedom and free speech are all about and um and and um i think it's essential that  
+**[1882.44s] English:** Really, that's why I'm running for the Harvard Board of.  
 **Translation:** 
 
-**[1876.24s] English:** the educational system begin to take more seriously what free speech and negative freedom  
+**[1885.84s] English:** Overseers, so let me just link on the role of the administration in protecting free speech.  
 **Translation:** 
 
-**[1882.44s] English:** really are that's why i'm running for the harvard board of  
+**[1893.98s] English:** So, what often happens, I think you've written about this, is that there are going to be a few  
 **Translation:** 
 
-**[1885.84s] English:** overseers so let me just link on the uh the role of the administration in protecting free speech  
+**[1898.22s] English:** Maybe a small number of hypersensitive students and faculty protest so, how does Harvard?  
 **Translation:** 
 
-**[1893.98s] English:** so what often happens i think you've written about this is there's going to be a few  
+**[1904.32s] English:** Administration resists the influence of those hypersensitive protesters in protecting speech.  
+**Translation:** Vocabulary: resists: 抵制
+
+**[1912.78s] English:** And protecting even hate speech.  
 **Translation:** 
 
-**[1898.22s] English:** maybe a small number of hypersensitive students and faculty that protest so how does harvard  
+**[1915.84s] English:** Harvard has done fairly well under the presidency.  
 **Translation:** 
 
-**[1904.32s] English:** administration resist the influence of those hypersensitive protesters in protecting speech  
-**Translation:** Vocabulary: hypersensitive: 过于敏感
-
-**[1912.78s] English:** and protecting even hate speech  
-**Translation:** 
-
-**[1915.84s] English:** harvard has done fairly well under the presidency  
-**Translation:** 
-
-**[1920.00s] English:** of Lawrence Bacow.  
+**[1920.00s] English:** Of Lawrence Bacow.  
 **Translation:** 
 
 **[1922.26s] English:** I have had a couple of meetings with Bacow.  
@@ -1283,24 +1284,24 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[1928.96s] English:** I have donated to Harvard a print of my late wife,  
+**Translation:** Vocabulary: donated: 捐赠
+
+**[1934.68s] English:** Took a picture of Bob Dylan and Allen Ginsberg.  
 **Translation:** 
 
-**[1934.68s] English:** took a picture of Bob Dylan and Allen Ginsberg  
-**Translation:** 
-
-**[1937.18s] English:** when the Rolling Thunder Review got to Harvard Square.  
+**[1937.18s] English:** When the Rolling Thunder Review got to Harvard Square.  
 **Translation:** Vocabulary: dylan: 鲍勃·迪伦; ginsberg: 艾伦·金斯伯格
 
 **[1941.64s] English:** And it's sort of an iconic photograph.  
 **Translation:** 
 
-**[1944.78s] English:** She called it the music lesson  
+**[1944.78s] English:** She called it the music lesson.  
+**Translation:** Vocabulary: iconic: 具有象征意义的
+
+**[1946.34s] English:** Because it's got Dylan teaching Ginsberg.  
 **Translation:** 
 
-**[1946.34s] English:** because it's got Dylan teaching Ginsberg  
-**Translation:** 
-
-**[1948.72s] English:** how to play the guitar.  
+**[1948.72s] English:** How to play the guitar.  
 **Translation:** 
 
 **[1950.62s] English:** And I donated one of those to Harvard.  
@@ -1312,28 +1313,28 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1956.92s] English:** He, the new president, Claudine Gay,  
 **Translation:** 
 
-**[1960.62s] English:** is not known for respecting academic freedom  
+**[1960.62s] English:** Is not known for respecting academic freedom.  
+**Translation:** Vocabulary: respecting: 尊重
+
+**[1963.36s] English:** And free speech.  
 **Translation:** 
 
-**[1963.36s] English:** and free speech.  
+**[1964.94s] English:** People have said to me, "Well, give her a chance.  
 **Translation:** 
 
-**[1964.94s] English:** People have said to me, well, give her a chance.  
+**[1966.94s] English:** Well, I'm willing to give her a chance.  
 **Translation:** 
 
-**[1966.94s] English:** Well, I'm willing to give her a chance,  
-**Translation:** 
-
-**[1969.00s] English:** but she does have a record.  
+**[1969.00s] English:** But she does have a record.  
 **Translation:** 
 
 **[1971.18s] English:** And she's a bureaucrat.  
 **Translation:** 
 
-**[1973.44s] English:** I don't think she believes in free speech  
+**[1973.44s] English:** I don't think she believes in free speech.  
 **Translation:** Vocabulary: bureaucrat: 官僚
 
-**[1975.66s] English:** and academic freedom.  
+**[1975.66s] English:** And academic freedom.  
 **Translation:** 
 
 **[1977.02s] English:** I think she's a progressive, not a liberal.  
@@ -1342,25 +1343,25 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[1980.62s] English:** I'm not happy with the appointment of Claudine Gay.  
 **Translation:** 
 
-**[1987.58s] English:** And it has made more essential  
+**[1987.58s] English:** And it has made more essential.  
 **Translation:** 
 
-**[1989.32s] English:** my attempt to get on the Board of Overseers.  
+**[1989.32s] English:** My attempt to get on the Board of Overseers.  
 **Translation:** 
 
-**[1992.80s] English:** So let's talk about the Board of Overseers  
+**[1992.80s] English:** So, let's talk about the Board of Overseers.  
 **Translation:** Vocabulary: overseers: 监督委员会成员
 
-**[1994.98s] English:** and your run for it.  
+**[1994.98s] English:** And your run for it.  
 **Translation:** 
 
 **[1998.14s] English:** The specifics, actually.  
 **Translation:** 
 
-**[1999.56s] English:** It would be nice because I think you're a write-in candidate  
+**[1999.56s] English:** It would be nice because I think you're a write-in candidate.  
 **Translation:** 
 
-**[2004.42s] English:** and the election is over on May 16th.  
+**[2004.42s] English:** And the election is over on May 16th.  
 **Translation:** 
 
 **[2009.42s] English:** Yes.  
@@ -1372,124 +1373,124 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2012.30s] English:** I'll probably give them in the intro.  
 **Translation:** 
 
-**[2014.24s] English:** I'll give links to people,  
-**Translation:** Vocabulary: intro: 开场白
-
-**[2015.40s] English:** but the specifics are complicated.  
+**[2014.24s] English:** I'll give links to people.  
 **Translation:** 
 
-**[2017.50s] English:** Let me just mention that you have to be Harvard alumni.  
-**Translation:** Vocabulary: alumni: 哈佛校友
-
-**[2022.74s] English:** So I've graduated from Harvard.  
+**[2015.40s] English:** But the specifics are complicated.  
 **Translation:** 
 
-**[2024.72s] English:** You have to, in order to run and in order to vote.  
+**[2017.50s] English:** Let me just mention that you have to be a Harvard alumnus.  
+**Translation:** Vocabulary: alumnus: 哈佛校友
+
+**[2022.74s] English:** So, I've graduated from Harvard.  
 **Translation:** 
 
-**[2027.22s] English:** In order to vote.  
+**[2024.72s] English:** You have to, in order to run, and in order to vote.  
 **Translation:** 
 
-**[2028.30s] English:** And the process, I imagine, is not trivial,  
+**[2027.22s] English:** In order to vote,  
 **Translation:** 
 
-**[2031.12s] English:** but this is done online.  
+**[2028.30s] English:** And the process, I imagine, is not trivial.  
+**Translation:** Vocabulary: trivial: 琐碎的
+
+**[2031.12s] English:** But this is done online.  
 **Translation:** 
 
-**[2035.20s] English:** And if you're an alumni,  
+**[2035.20s] English:** And if you're an alumnus,  
 **Translation:** 
 
-**[2036.62s] English:** you should have received an email  
+**[2036.62s] English:** You should have received an email.  
 **Translation:** 
 
-**[2037.76s] English:** from a particular email address,  
+**[2037.76s] English:** From a particular email address,  
 **Translation:** 
 
-**[2040.00s] English:** at mgelectionservicescorp.com  
+**[2040.00s] English:** At MG Election Services Corp. com  
 **Translation:** 
 
-**[2042.96s] English:** and presumably there's a way  
-**Translation:** Vocabulary: presumably: 大概
-
-**[2045.28s] English:** to get some validation number  
+**[2042.96s] English:** And presumably, there's a way.  
 **Translation:** 
 
-**[2047.36s] English:** from that email  
+**[2045.28s] English:** To get some validation numbers,  
+**Translation:** 
+
+**[2047.36s] English:** From that email,  
 **Translation:** Vocabulary: validation: 验证号码
 
-**[2048.42s] English:** and then you go online,  
+**[2048.42s] English:** And then you go online.  
 **Translation:** 
 
-**[2049.92s] English:** you enter that validation number  
+**[2049.92s] English:** You enter that validation number.  
 **Translation:** 
 
-**[2051.18s] English:** and you vote.  
+**[2051.18s] English:** And you vote.  
 **Translation:** 
 
-**[2052.42s] English:** And to vote for Harvey,  
+**[2052.42s] English:** And to vote for Harvey,...  
+**Translation:** Vocabulary: harvey: 哈维
+
+**[2053.98s] English:** You have to enter his name.  
 **Translation:** 
 
-**[2053.98s] English:** you have to enter his name  
+**[2056.10s] English:** Correctly,  
 **Translation:** 
 
-**[2056.10s] English:** correctly,  
+**[2058.30s] English:** Harvey Silverglate.  
 **Translation:** 
 
-**[2058.30s] English:** Harvey Silverglate  
+**[2059.84s] English:** And spell it correctly.  
+**Translation:** Vocabulary: silverglate: 西尔弗格莱特
+
+**[2062.28s] English:** Obviously, I'm imagining this.  
 **Translation:** 
 
-**[2059.84s] English:** and spell it correctly.  
+**[2064.30s] English:** Because I'm from MIT, not Harvard.  
 **Translation:** 
 
-**[2062.28s] English:** Obviously, I'm imagining this  
+**[2066.68s] English:** So, I'm imagining the process.  
 **Translation:** 
 
-**[2064.30s] English:** because I'm MIT, not Harvard.  
+**[2068.04s] English:** Is not trivial.  
 **Translation:** 
 
-**[2066.68s] English:** So I'm imagining the process  
+**[2068.92s] English:** You have to click on things.  
 **Translation:** 
 
-**[2068.04s] English:** is not trivial.  
+**[2070.98s] English:** You have to sort of follow instructions.  
 **Translation:** 
 
-**[2068.92s] English:** You have to click on things,  
+**[2074.78s] English:** That are not trivial.  
 **Translation:** 
 
-**[2070.98s] English:** you have to sort of follow instructions  
+**[2077.86s] English:** And I'll also provide an email.  
 **Translation:** 
 
-**[2074.78s] English:** that are not trivial.  
+**[2079.76s] English:** If the process is painful,  
 **Translation:** 
 
-**[2077.86s] English:** And I'll also provide an email  
+**[2081.92s] English:** It doesn't work for you.  
 **Translation:** 
 
-**[2079.76s] English:** if the process is painful,  
+**[2082.80s] English:** That you can email.  
 **Translation:** 
 
-**[2081.92s] English:** it doesn't work for you,  
+**[2083.80s] English:** Email Harvard and complain.  
 **Translation:** 
 
-**[2082.80s] English:** that you can email.  
-**Translation:** 
-
-**[2083.80s] English:** Email harvard and complain,  
-**Translation:** 
-
-**[2085.60s] English:** ithelp at harvard.edu and so on.  
+**[2085.60s] English:** With help at harvard.edu, and so on.  
 **Translation:** 
 
 **[2088.28s] English:** I'll provide all the links.  
 **Translation:** 
 
-**[2089.66s] English:** But is there something else  
+**[2089.66s] English:** But is there something else?  
 **Translation:** 
 
-**[2090.44s] English:** you can say about the voting process,  
+**[2090.44s] English:** You can say something about the voting process.  
 **Translation:** 
 
-**[2093.56s] English:** what you're running on?  
+**[2093.56s] English:** What are you running on?  
 **Translation:** 
 
 **[2095.38s] English:** This is my second run.  
@@ -1501,205 +1502,205 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2097.88s] English:** The first,  
 **Translation:** 
 
-**[2098.92s] English:** I got enough signatures  
+**[2098.92s] English:** I got enough signatures.  
 **Translation:** 
 
-**[2100.96s] English:** to get on the ballot.  
+**[2100.96s] English:** To get on the ballot.  
+**Translation:** Vocabulary: ballot: 选票
+
+**[2103.18s] English:** Then, the Harvard Alumni Association  
 **Translation:** 
 
-**[2103.18s] English:** Then the Harvard Alumni Association  
+**[2107.12s] English:** Sent out a letter.  
+**Translation:** Vocabulary: alumni: 校友
+
+**[2110.10s] English:** To all living Harvard alumni,  
 **Translation:** 
 
-**[2107.12s] English:** sent out a letter  
+**[2113.22s] English:** Recommending that they vote,  
+**Translation:** Vocabulary: recommending: 建议
+
+**[2116.80s] English:** For the officially nominated candidates  
 **Translation:** 
 
-**[2110.10s] English:** to all living Harvard alums  
+**[2119.66s] English:** That excluded two petition candidates.  
+**Translation:** Vocabulary: excluded: 被排除; nominated: 被提名
+
+**[2123.32s] English:** Of whom I was one.  
 **Translation:** 
 
-**[2113.22s] English:** recommending that they vote  
-**Translation:** Vocabulary: alums: 哈佛校友
-
-**[2116.80s] English:** for the officially nominated candidates  
+**[2125.98s] English:** And I wrote to the alumni.  
 **Translation:** 
 
-**[2119.66s] English:** that excluded two petition candidates  
-**Translation:** Vocabulary: excluded: 排除; nominated: 提名
-
-**[2123.32s] English:** of whom I was one.  
+**[2128.92s] English:** Association, and I said,  
 **Translation:** 
 
-**[2125.98s] English:** And I wrote to the alumni  
+**[2131.16s] English:** You have now sent out.  
 **Translation:** 
 
-**[2128.92s] English:** association and I said,  
+**[2132.78s] English:** The curriculum vitae's  
 **Translation:** 
 
-**[2131.16s] English:** you have now sent out  
+**[2134.96s] English:** And the policy positions,  
 **Translation:** 
 
-**[2132.78s] English:** the curricula vitaes  
+**[2137.40s] English:** Of all the officially  
 **Translation:** 
 
-**[2134.96s] English:** and the policy positions  
-**Translation:** Vocabulary: curricula: 简历
-
-**[2137.40s] English:** of all the officially  
+**[2138.88s] English:** Nominated candidates.  
 **Translation:** 
 
-**[2138.88s] English:** nominated candidates.  
+**[2140.44s] English:** There are two petition candidates.  
 **Translation:** 
 
-**[2140.44s] English:** There are two petition candidates  
+**[2142.48s] English:** On the ballot.  
 **Translation:** 
 
-**[2142.48s] English:** on the ballot.  
+**[2143.76s] English:** I would like to be able.  
 **Translation:** 
 
-**[2143.76s] English:** I would like to be able  
+**[2145.44s] English:** To send out my positions.  
 **Translation:** 
 
-**[2145.44s] English:** to send out my positions  
-**Translation:** 
-
-**[2149.26s] English:** to the voters.  
+**[2149.26s] English:** To the voters.  
 **Translation:** 
 
 **[2152.06s] English:** They wrote me back saying,  
 **Translation:** 
 
-**[2154.34s] English:** our policy is to only send out  
+**[2154.34s] English:** Our policy is to only send out  
 **Translation:** 
 
-**[2157.22s] English:** the policy positions  
+**[2157.22s] English:** The policy positions  
 **Translation:** 
 
-**[2158.92s] English:** and the platform.  
+**[2158.92s] English:** And the platform.  
 **Translation:** 
 
-**[2160.00s] English:** forms of officially nominated candidates. Can you believe that? Well, this is a liberal arts college,  
+**[2160.00s] English:** Forms of officially nominated candidates. Can you believe that? Well, this is a liberal arts college,  
 **Translation:** 
 
-**[2166.94s] English:** right? Where from the clash of ideas, truth emerges. Well, really? This is what I call  
+**[2166.94s] English:** Right? Where truth emerges from the clash of ideas, well, really? This is what I call  
 **Translation:** 
 
-**[2175.48s] English:** Harvard's not-so-subtle means of candidate suppression, not voter suppression, candidate  
-**Translation:** Vocabulary: clash: 思想碰撞; suppression: 候选人压制
+**[2175.48s] English:** Harvard's not-so-subtle means of candidate suppression, not voter suppression, candidate.  
+**Translation:** Vocabulary: clash: 冲突; emerges: 出现; suppression: 压制
 
-**[2182.36s] English:** suppression. And everybody can vote, but not everybody can run. It ill becomes a liberal arts  
+**[2182.36s] English:** Suppression. And everybody can vote, but not everybody can run. It ill becomes a liberal arts.  
 **Translation:** 
 
-**[2194.46s] English:** college where, you know, the clash of ideas will produce the truth. We'll worry about the  
+**[2194.46s] English:** College, where the clash of ideas will produce the truth. We'll worry about the  
 **Translation:** 
 
-**[2198.54s] English:** clash of ideas of the board of overseers. The board of overseers is important. It doesn't  
+**[2198.54s] English:** Clash of ideas among the Board of Overseers. The Board of Overseers is important. It doesn't  
 **Translation:** 
 
-**[2204.14s] English:** have the same power and authority as the Harvard Corporation, the so-called president and fellows  
-**Translation:** Vocabulary: overseers: 监督委员会
-
-**[2209.90s] English:** of Harvard College. But it's very important.  
+**[2204.14s] English:** Have the same power and authority as the Harvard Corporation, the so-called "President and Fellows,  
 **Translation:** 
 
-**[2212.36s] English:** It's very influential and very important. And it would be a great perch for me to  
-**Translation:** Vocabulary: perch: 立足点
-
-**[2217.78s] English:** try to exert influence for the university to get back to where it was before it was taken  
+**[2209.90s] English:** Of Harvard College. But it's very important.  
 **Translation:** 
 
-**[2224.08s] English:** over by the administrators. Well, I'm pretty sure that most of Harvard alumni, most of the students  
-**Translation:** Vocabulary: alumni: 校友; exert: 施加
+**[2212.36s] English:** It's very influential and very important. And it would be a great perch for me to.  
+**Translation:** Vocabulary: influential: 有影响力; perch: 立足点
 
-**[2230.04s] English:** currently going to Harvard, most of the faculty at Harvard probably stand behind the ideas and  
+**[2217.78s] English:** Try to exert influence for the university to get back to where it was before it was taken.  
 **Translation:** 
 
-**[2235.66s] English:** the ideals that you stand behind. Yep. The people that love Harvard and what it stands for.  
+**[2224.08s] English:** Over by the administrators, well, I'm pretty sure that most of the Harvard alumni, and most of the students,  
+**Translation:** Vocabulary: exert: 施加
+
+**[2230.04s] English:** Currently, I'm going to Harvard, and most of the faculty there probably stand behind the ideas and  
 **Translation:** 
 
-**[2241.10s] English:** So yeah, the alumni.  
+**[2235.66s] English:** The ideals that you stand behind. Yep. The people who love Harvard and what it stands for.  
 **Translation:** 
 
-**[2242.36s] English:** The alumni were educated in an era when these concepts were taken more seriously and before  
+**[2241.10s] English:** So, yeah, the alumni.  
 **Translation:** 
 
-**[2248.44s] English:** the administration, the administrators took over. So I do think if I get my message out,  
+**[2242.36s] English:** The alumni were educated in an era when these concepts were taken more seriously, and before  
+**Translation:** Vocabulary: alumni: 校友; educated: 受教育的
+
+**[2248.44s] English:** The administration, the administrators took over. So, I do think if I get my message out,  
 **Translation:** 
 
-**[2254.28s] English:** I'm going to win the seat. And if I win a seat, I will have a great perch for trying to convince  
+**[2254.28s] English:** I'm going to win the seat. And if I win, I'll have a great perch for trying to convince.  
 **Translation:** 
 
-**[2262.76s] English:** the real power that be, which is the Harvard Corporation to do the things that I'm suggesting,  
+**[2262.76s] English:** The real power that be, which is the Harvard Corporation, would need to do the things that I'm suggesting.  
 **Translation:** 
 
-**[2268.20s] English:** you know, get rid of 95% of the administrators, get rid of the speech codes,  
+**[2268.20s] English:** You know, get rid of 95% of the administrators, get rid of the speech codes,  
 **Translation:** 
 
-**[2272.36s] English:** reduce tuition by 40%. All of these salutary benefits. Can you  
+**[2272.36s] English:** Reduce tuition by 40%. All of these salutary benefits. Can you?  
 **Translation:** 
 
-**[2280.00s] English:** imagine if harvard became the most affordable college in the united states well the affordability  
-**Translation:** Vocabulary: affordability: 可负担性; salutary: 有益的
-
-**[2286.40s] English:** is another aspect but i think before that the just the freedom of expression freedom of speech  
+**[2280.00s] English:** Imagine if Harvard became the most affordable college in the United States. Well, the affordability...  
 **Translation:** 
 
-**[2292.78s] English:** freedom of thought yeah it's america's greatest universities i think is something that everybody  
+**[2286.40s] English:** Is another aspect, but I think before that, the freedom of expression/freedom of speech.  
 **Translation:** 
 
-**[2297.76s] English:** would agree on it would have a it would have a tremendous effect on the whole country  
+**[2292.78s] English:** Freedom of thought, yeah. It's America's greatest universities, I think, is something that everybody  
 **Translation:** 
 
-**[2303.74s] English:** and uh is there something to say about the details of how difficult it is for alumni to vote  
+**[2297.76s] English:** Would agree that it would have a tremendous effect on the whole country.  
 **Translation:** 
 
-**[2313.10s] English:** well experience with this the you could vote online or you can vote by paper ballot you  
+**[2303.74s] English:** And, uh, is there something to say about the details of how difficult it is for alumni to vote?  
 **Translation:** 
 
-**[2319.24s] English:** can request the paper ballot um and all i could say is that the the hard part is getting the  
+**[2313.10s] English:** Well, experience with this, you could vote online, or you can vote by paper ballot.  
 **Translation:** 
 
-**[2325.38s] English:** message out um my name doesn't appear on the ballot because i couldn't get enough signatures  
+**[2319.24s] English:** Can request the paper ballot, um, and all I could say is that the hard part is getting the  
+**Translation:** Vocabulary: ballot: 选票
+
+**[2325.38s] English:** Message out: Um, my name doesn't appear on the ballot because I couldn't get enough signatures.  
 **Translation:** 
 
-**[2330.54s] English:** um well harvey harvey  
+**[2330.54s] English:** Um, well, Harvey.  
 **Translation:** 
 
-**[2333.74s] English:** silver glate s-i-l-v-e-r-g-l-a-t you know when my grandparents arrived from russia yeah um the uh  
+**[2333.74s] English:** Silver glade: S-I-L-V-E-R-G-L-A-D-E. You know, when my grandparents arrived from Russia, yeah, um, the  
 **Translation:** 
 
-**[2343.82s] English:** the the the name in russia was something like zilbaglit yeah and the immigration officer had  
+**[2343.82s] English:** The name in Russia was something like Zilbaglit, yeah, and the immigration officer had  
+**Translation:** Vocabulary: zilbaglit: 泽尔巴格利特
+
+**[2350.26s] English:** Several choices; he could have said, "Silver Gate, yeah? Gate is a real silver, and gates are real.  
 **Translation:** 
 
-**[2350.26s] English:** several choices he could have said silver gate yeah gate is a real silver and gate are real  
+**[2356.66s] English:** English words, yeah. He could have said Silver Glen—G-L-E-N—but those are real English words.  
 **Translation:** 
 
-**[2356.66s] English:** english words yeah he could have said silver glade g-l-a-d-e those are real english words  
+**[2363.00s] English:** That's how.  
 **Translation:** 
 
-**[2363.00s] English:** that's how  
+**[2363.72s] English:** My name is often spelled "Silver Gate" or "Silver Glade." "Silver Glate" is a nonsensical variation.  
+**Translation:** Vocabulary: variation: 变化
+
+**[2370.52s] English:** And why the immigration officer chose to transliterate "silver zilbaglit" as "silver glade.  
 **Translation:** 
 
-**[2363.72s] English:** my name is often dispelled either silver gate or silver glade silver glate is a nonsense syllable  
-**Translation:** Vocabulary: dispelled: 消除; syllable: 音节
-
-**[2370.52s] English:** and why the immigration officer chose to transliterate silver zilbaglit as silver glade  
+**[2379.32s] English:** I'll never understand, and it is the cause of endless mistakes in my name. Well, the uh  
 **Translation:** 
 
-**[2379.32s] English:** i'll never understand and it is the cause of endless mistakes in my name well the uh  
-**Translation:** Vocabulary: zilbaglit: 银色草地
-
-**[2386.36s] English:** the fundamental absurdity of life yes is also the source of its beauty yes anyway we shall  
+**[2386.36s] English:** The fundamental absurdity of life, yes, is also the source of its beauty, yes. Anyway, we shall...  
 **Translation:** 
 
-**[2393.72s] English:** spell it out and we shall get uh yell loud and wide  
+**[2393.72s] English:** Spell it out, and we shall get them to yell loud and wide.  
 **Translation:** Vocabulary: absurdity: 荒谬
 
-**[2400.00s] English:** that everybody who has ever graduated from Harvard should vote for you  
+**[2400.00s] English:** That everybody who has ever graduated from Harvard should vote for you.  
 **Translation:** 
 
-**[2403.42s] English:** if they believe in the ideals of the great American universities,  
+**[2403.42s] English:** If they believe in the ideals of the great American universities,  
 **Translation:** 
 
-**[2406.90s] English:** which I think most people do.  
+**[2406.90s] English:** Which, I think, most people do.  
 **Translation:** 
 
 **[2410.20s] English:** Let me also ask about diversity, inclusion, and equity programs.  
@@ -1738,16 +1739,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2441.62s] English:** Why?  
 **Translation:** 
 
-**[2442.60s] English:** Because one of the roles of college is to challenge all the beliefs that they grew up with,  
+**[2442.60s] English:** Because one of the roles of college is to challenge all the beliefs they grew up with,  
 **Translation:** 
 
-**[2448.00s] English:** which mostly are the beliefs inculcated by parents and by elementary school teachers.  
+**[2448.00s] English:** Which, mostly, are the beliefs inculcated by parents and elementary school teachers.  
 **Translation:** 
 
 **[2454.86s] English:** And the idea is to be able to challenge those.  
 **Translation:** Vocabulary: inculcated: 灌输
 
-**[2459.10s] English:** Thoughts, those ideas.  
+**[2459.10s] English:** Thoughts: those ideas.  
 **Translation:** 
 
 **[2461.52s] English:** And if you don't have free speech and academic freedom, those views get reified.  
@@ -1756,7 +1757,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2467.28s] English:** They do not get challenged.  
 **Translation:** 
 
-**[2469.74s] English:** So it violates the fundamental role of higher educational institutions to have any restrictions at all.  
+**[2469.74s] English:** So, it violates the fundamental role of higher educational institutions to have any restrictions at all.  
 **Translation:** Vocabulary: violates: 违反
 
 **[2481.00s] English:** That's number one.  
@@ -1765,19 +1766,19 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2483.36s] English:** Number two, as I think I said earlier,  
 **Translation:** 
 
-**[2487.14s] English:** if people, students,  
+**[2487.14s] English:** If people, students,  
 **Translation:** 
 
-**[2488.74s] English:** are not allowed to be frank with one another,  
+**[2488.74s] English:** Are not allowed to be frank with one another.  
 **Translation:** 
 
-**[2491.30s] English:** they don't really learn about one another.  
+**[2491.30s] English:** They don't really learn about one another.  
 **Translation:** 
 
 **[2494.84s] English:** And, you know, I've given a lot of lectures in which I have said,  
 **Translation:** 
 
-**[2502.16s] English:** and I think students now understand it,  
+**[2502.16s] English:** And I think students now understand it.  
 **Translation:** 
 
 **[2506.58s] English:** I'm much more interested in hearing from the people who hate me than the people who love me.  
@@ -1792,86 +1793,86 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2518.74s] English:** And that's how they learn.  
 **Translation:** 
 
-**[2520.00s] English:** learn the clash of ideas which is the theory behind the first amendment that truth will  
+**[2520.00s] English:** Learn about the clash of ideas, which is the theory behind the First Amendment, that truth will  
 **Translation:** Vocabulary: clash: 冲突
 
-**[2528.32s] English:** somehow emerge or if not truth at least a better truth a truer truth a more useful truth if ideas  
+**[2528.32s] English:** Somehow, they emerge—or, if not truth, at least a better truth, a truer truth, a more useful truth—if ideas.  
 **Translation:** 
 
-**[2537.26s] English:** are allowed to clash especially in the structure of a university where at least i would say there's  
+**[2537.26s] English:** Are allowed to clash, especially in the structure of a university, where at least I would say there's  
 **Translation:** 
 
-**[2543.06s] English:** some set of rules some set of civility i think i would rather read mein kampf to understand  
+**[2543.06s] English:** Some set of rules, some set of civility. I think I would rather read Mein Kampf to understand.  
 **Translation:** 
 
-**[2549.86s] English:** people that hate there is also quality uh to disagreement that we should strive for and i  
-**Translation:** Vocabulary: civility: 礼貌
+**[2549.86s] English:** People who hate may also have valid qualities in their disagreement that we should strive for, and I.  
+**Translation:** Vocabulary: civility: 礼貌; disagreement: 分歧; strive: 努力
 
-**[2556.32s] English:** think a university is a place where when uh disagreement and even hate is allowed it's done  
+**[2556.32s] English:** Think a university is a place where, when disagreement and even hate are allowed, it's done  
 **Translation:** 
 
-**[2562.16s] English:** in a high effort way you know somebody asked me once about what books i would well i have is  
+**[2562.16s] English:** In a high-effort way, you know, somebody asked me once about what books I would recommend, and I have.  
 **Translation:** 
 
-**[2569.50s] English:** required reading in in literature courses and i listed mein kampf and they were horrified and i  
+**[2569.50s] English:** Required reading in literature courses, and I listed *Mein Kampf*, and they were horrified, and I...  
 **Translation:** 
 
-**[2577.04s] English:** said well it's one of the most important books of the 20th century  
-**Translation:** Vocabulary: horrified: 极为震惊
+**[2577.04s] English:** Said, "Well, it's one of the most important books of the 20th century.  
+**Translation:** Vocabulary: horrified: 惊恐的
 
-**[2579.86s] English:** six million jews died an enormous number of other people died because one guy wrote a book called  
+**[2579.86s] English:** Six million Jews died, an enormous number of other people died, because one guy wrote a book called...  
 **Translation:** 
 
-**[2587.70s] English:** mein kampf and took it seriously it's one of the most important books ever written how can  
+**[2587.70s] English:** Mein Kampf, and I took it seriously; it's one of the most important books ever written. How can  
 **Translation:** 
 
-**[2593.02s] English:** how can an educated person not have at least breezed through mein kampf and um it's not a  
+**[2593.02s] English:** How can an educated person not have at least skimmed through Mein Kampf? And it's not a  
 **Translation:** 
 
-**[2601.30s] English:** read though it's not a great read he was not a great writer but you you do get a sense for the  
+**[2601.30s] English:** Read though; it's not a great read. He was not a great writer, but you do get a sense for the  
+**Translation:** Vocabulary: educated: 受过教育的; skimmed: 略读
+
+**[2609.86s] English:** Right, Hitler did indeed act on the words he wrote. Yes, and it was there for all to see.  
 **Translation:** 
 
-**[2609.86s] English:** right of hitler yes because he really acted on the words that he wrote yeah and it was there and if  
+**[2616.46s] English:** People took that work seriously, correct? They would have understood it's one of the most.  
+**Translation:** Vocabulary: hitler: 希特勒
+
+**[2621.38s] English:** Important books of the 20th century, and it's politically incorrect to read it; it's crazy.  
 **Translation:** 
 
-**[2616.46s] English:** people took that work seriously correct they they would have understood it's one of the most  
+**[2627.58s] English:** But can you speak to the efforts to increase diversity in universities, which I think  
+**Translation:** Vocabulary: politically: 涉及政治
+
+**[2637.82s] English:** Is it embodied in this, uh, d  
 **Translation:** 
 
-**[2621.38s] English:** important books of the 20th century and it's politically incorrect to read it it's crazy  
-**Translation:** 
-
-**[2627.58s] English:** but can you uh speak to the um the efforts to increase diversity in universities which i think  
-**Translation:** Vocabulary: politically: 政治上
-
-**[2637.82s] English:** is embodied in this uh d  
-**Translation:** 
-
-**[2639.86s] English:** i  
+**[2639.86s] English:** I.  
 **Translation:** Vocabulary: embodied: 体现
 
-**[2640.00s] English:** i.e. effort of diversity, inclusion, and equity programs?  
+**[2640.00s] English:** I.e., the effort of diversity, inclusion, and equity programs?  
 **Translation:** 
 
-**[2644.10s] English:** Where do they go right?  
+**[2644.10s] English:** Where do they go wrong?  
 **Translation:** 
 
 **[2646.10s] English:** Where do they go wrong?  
 **Translation:** 
 
-**[2647.34s] English:** Okay, let me tell you, first of all, this may surprise a lot of people.  
+**[2647.34s] English:** Okay, let me tell you: first of all, this may surprise a lot of people.  
 **Translation:** 
 
 **[2652.08s] English:** I am opposed to affirmative action.  
 **Translation:** 
 
-**[2657.06s] English:** And I think that what it does is it labels people by their race, by their religion, and by their national origin.  
+**[2657.06s] English:** And I think that what it does is label people by their race, by their religion, and by their national origin.  
 **Translation:** Vocabulary: affirmative: 肯定的
 
 **[2670.92s] English:** Precisely what we don't want people to do is be pigeonholed in those categories.  
 **Translation:** 
 
-**[2677.14s] English:** The reason that affirmative action has become the way that universities decide on who gets admitted is because historically, people in what's called marginalized groups, blacks, gays, Hispanics, have been discriminated against in the admissions process.  
-**Translation:** Vocabulary: discriminated: 遭受歧视; hispanics: 西班牙裔; historically: 历史上; marginalized: 边缘化; pigeonholed: 被定性
+**[2677.14s] English:** The reason that affirmative action has become the way that universities decide on who gets admitted is because, historically, people in what's called marginalized groups—blacks, gays, Hispanics—have been discriminated against in the admissions process.  
+**Translation:** Vocabulary: discriminated: 遭受歧视; hispanics: 西班牙裔; historically: 历史上; marginalized: 边缘化群体; pigeonholed: 被刻板定义; precisely: 确切地
 
 **[2700.00s] English:** Now, what I have suggested is that instead of affirmative action, and by the way, here's a prediction.  
 **Translation:** 
@@ -1883,9 +1884,9 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[2714.32s] English:** It's a Harvard case.  
-**Translation:** Vocabulary: pending: 待决
+**Translation:** Vocabulary: pending: 待决的
 
-**[2718.06s] English:** There are two cases joined together, one of a public university and one of a private university.  
+**[2718.06s] English:** There are two cases joined together: one involving a public university and one involving a private university.  
 **Translation:** 
 
 **[2723.78s] English:** The private university is Harvard.  
@@ -1894,116 +1895,116 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2727.08s] English:** I predict that the Supreme Court will vote 6-3.  
 **Translation:** 
 
-**[2730.00s] English:** 6-3 to abolish affirmative action.  
-**Translation:** 
+**[2730.00s] English:** 6-3 to Abolish Affirmative Action.  
+**Translation:** Vocabulary: abolish: 废除
 
-**[2732.62s] English:** It is, on its face, it is a violation of equal protection of the law.  
+**[2732.62s] English:** It is, on its face, a violation of equal protection of the law.  
 **Translation:** 
 
 **[2739.40s] English:** Some groups are favored because of race or ethnicity.  
 **Translation:** Vocabulary: ethnicity: 种族
 
-**[2744.64s] English:** It is a classic violation of equal protection clause.  
+**[2744.64s] English:** It is a classic violation of the Equal Protection Clause.  
 **Translation:** 
 
-**[2748.92s] English:** When affirmative action was approved, the deciding vote was Justice Sandra Day O'Connor.  
-**Translation:** 
+**[2748.92s] English:** When affirmative action was approved, the deciding vote was by Justice Sandra Day O'Connor.  
+**Translation:** Vocabulary: affirmative: 支持的; clause: 条款
 
 **[2756.38s] English:** She wrote a very famous opinion in which she said,  
 **Translation:** 
 
-**[2760.00s] English:** edge um i am hesitate to vote to up to keep up dear to affirm the notion of affirmative action  
-**Translation:** Vocabulary: affirm: 确认
+**[2760.00s] English:** Edge, um, I am hesitant to vote to uphold the notion of affirmative action, dear.  
+**Translation:** Vocabulary: hesitant: 犹豫
 
-**[2767.24s] English:** because it's such an obvious violation of equal protection but we have an urgent problem in the  
+**[2767.24s] English:** Because it's such an obvious violation of equal protection, but we have an urgent problem in the  
 **Translation:** 
 
-**[2772.98s] English:** society we are not educating our um members of racial and ethnic minorities and we have to try  
+**[2772.98s] English:** Society: We are not educating our members of racial and ethnic minorities, and we have to try.  
+**Translation:** Vocabulary: educating: 教育
+
+**[2783.28s] English:** To get them into our colleges, um, so I think it should be approved for 25 years, um, and um.  
 **Translation:** 
 
-**[2783.28s] English:** to get them into our colleges um so i'm i think it should be approved for 25 years um and um it  
+**[2792.92s] English:** Will, uh, it should be that in 25 years it should have performed its role well. It hasn't.  
 **Translation:** 
 
-**[2792.92s] English:** will uh it should be it should in 25 years it should have performed its role well it hasn't  
+**[2800.44s] English:** And, um, the 25 years is coming up; I think there are three or four years left. The Supreme Court is...  
 **Translation:** 
 
-**[2800.44s] English:** and um the 25 years is coming up i think it's three or four years left the supreme court is  
+**[2808.14s] English:** Going to abolish it, you can take my word for that, because it's such an obvious violation.  
 **Translation:** 
 
-**[2808.14s] English:** going to abolish it you can take my word for that because it's such an obvious violation  
+**[2813.28s] English:** Of equal protection, why did affirmative action come into play because of the secondary  
 **Translation:** 
 
-**[2813.28s] English:** of equal protection why do why did affirmative action come into play because the secondary  
+**[2820.52s] English:** And elementary schools are so bad, public secondary and elementary schools are so bad.  
 **Translation:** 
 
-**[2820.52s] English:** and elementary schools are so bad public secondary and elementary schools are so bad  
-**Translation:** Vocabulary: affirmative: 肯定的
-
-**[2826.64s] English:** why are they so bad partly because of the control that the teachers union  
+**[2826.64s] English:** Why are they so bad? Partly because of the control that the teachers' union has.  
 **Translation:** 
 
-**[2831.28s] English:** has randy weingarten runs the public school system in the united states  
+**[2831.28s] English:** Randy Weingarten runs the public school system in the United States.  
 **Translation:** 
 
-**[2836.78s] English:** and what i have suggested is that  
+**[2836.78s] English:** And what I have suggested is that  
 **Translation:** 
 
-**[2841.26s] English:** the  
+**[2841.26s] English:** The  
 **Translation:** 
 
-**[2843.28s] English:** effort should be  
+**[2843.28s] English:** Effort should be  
 **Translation:** 
 
-**[2845.08s] English:** to uh this is an emergency national emergency  
+**[2845.08s] English:** To uh, this is an emergency; national emergency.  
 **Translation:** 
 
-**[2849.94s] English:** to improve  
+**[2849.94s] English:** To improve,  
 **Translation:** 
 
-**[2853.06s] English:** the quality of elementary and secondary education  
+**[2853.06s] English:** The quality of elementary and secondary education  
 **Translation:** 
 
-**[2858.64s] English:** and one way to do it is to hire teachers who are fabulous teachers rather than necessarily  
+**[2858.64s] English:** And one way to do it is to hire teachers who are fabulous teachers, rather than necessarily  
 **Translation:** 
 
-**[2865.04s] English:** members of the union  
+**[2865.04s] English:** Members of the union  
+**Translation:** Vocabulary: fabulous: 卓越的
+
+**[2867.40s] English:** I have come to oppose.  
 **Translation:** 
 
-**[2867.40s] English:** i have come to oppose  
+**[2871.46s] English:** Public Workers Unions  
 **Translation:** 
 
-**[2871.46s] English:** public workers unions  
+**[2873.28s] English:** I am a very strong supporter of unions in the private sector.  
 **Translation:** 
 
-**[2873.28s] English:** i am a very strong supporter of unions in the private sector  
+**[2880.00s] English:** Why do I think there is such a difference between unions in the public sector and the private sector?  
 **Translation:** 
 
-**[2880.00s] English:** Why do I think there's such a difference between unions in the public sector and the private sector?  
-**Translation:** 
-
-**[2886.36s] English:** In the private sector, management is arguing, bargaining with its own money and with the money of shareholders.  
+**[2886.36s] English:** In the private sector, management is arguing and bargaining with its own money and with the money of shareholders.  
 **Translation:** 
 
 **[2895.52s] English:** In the public sector, there's only one side.  
+**Translation:** Vocabulary: bargaining: 协商; shareholders: 股东
+
+**[2899.34s] English:** There is the teachers' union, and then there's a school committee that is dealing with the taxpayers' money—not their own.  
 **Translation:** 
 
-**[2899.34s] English:** There is the teacher's union, and then there's a school committee that is dealing with the taxpayers' money, not their own.  
-**Translation:** 
+**[2905.26s] English:** And so, it's a very skewed power balance.  
+**Translation:** Vocabulary: skewed: 偏向的
 
-**[2905.26s] English:** And so it's a very skewed power balance.  
-**Translation:** Vocabulary: skewed: 偏向
-
-**[2912.10s] English:** So as supportive as I am of private sector unions, I am in opposition of public sector unions.  
+**[2912.10s] English:** So, as supportive as I am of private-sector unions, I am in opposition to public-sector unions.  
 **Translation:** 
 
 **[2920.22s] English:** They're very destructive.  
 **Translation:** 
 
-**[2922.14s] English:** And I think without the teacher's union, teachers who are really skilled will be able to get jobs.  
+**[2922.14s] English:** And I think, without the teacher's union, teachers who are really skilled will be able to get jobs.  
 **Translation:** 
 
-**[2929.68s] English:** They would not have to worry about the seniority of teachers who long since have given up.  
-**Translation:** 
+**[2929.68s] English:** They would not have to worry about the seniority of teachers who, long since, have given up.  
+**Translation:** Vocabulary: skilled: 技艺高超的
 
 **[2935.08s] English:** They're really creative teaching, and we have to improve the public educational system.  
 **Translation:** 
@@ -2011,13 +2012,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2943.28s] English:** I had, my late wife and I, had a classmate.  
 **Translation:** 
 
-**[2951.14s] English:** We have a son who's now 44 who went to the public schools in Cambridge.  
+**[2951.14s] English:** We have a son who is now 44, who went to the public schools in Cambridge.  
 **Translation:** 
 
-**[2956.06s] English:** He has a friend, first name Eugene, who was a black kid from Roxbury,  
-**Translation:** Vocabulary: roxbury: 罗克斯伯里
+**[2956.06s] English:** He has a friend, first name Eugene, who was a black kid from Roxbury.  
+**Translation:** Vocabulary: eugene: 尤金; roxbury: 罗克斯伯里
 
-**[2962.66s] English:** whose mother understood.  
+**[2962.66s] English:** Whose mother understood.  
 **Translation:** 
 
 **[2965.08s] English:** If the schools in Roxbury were terrible, the schools in Cambridge were pretty good.  
@@ -2026,14 +2027,14 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[2969.38s] English:** He lived in our house Monday to Friday, and he went to school with Isaac in the Cambridge public schools.  
 **Translation:** 
 
-**[2980.00s] English:** Elsa and I would show up to school committee meetings when there was bargaining between the teacher's union and the school committee.  
-**Translation:** 
+**[2980.00s] English:** Elsa and I would show up to school committee meetings when there was bargaining between the teachers' union and the school committee.  
+**Translation:** Vocabulary: bargaining: 谈判
 
 **[2989.76s] English:** The teacher's union objected to our being there.  
 **Translation:** 
 
 **[2993.76s] English:** We argued.  
-**Translation:** 
+**Translation:** Vocabulary: objected: 反对
 
 **[2995.08s] English:** We're taxpayers.  
 **Translation:** 
@@ -2050,20 +2051,20 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3007.56s] English:** And the school committee walked out of the bargaining session.  
 **Translation:** 
 
-**[3013.60s] English:** The city council then reconsidered its vote, and they voted that citizens, taxpayers, parents of kids in the school could not show up to these negotiation sessions.  
+**[3013.60s] English:** The city council then reconsidered its vote, and they voted that citizens, taxpayers, and parents of kids in the school could not show up to these negotiation sessions.  
 **Translation:** 
 
 **[3027.66s] English:** I thought that was absolutely outrageous.  
 **Translation:** 
 
-**[3031.56s] English:** But I understood why, because these contracts are crazy.  
-**Translation:** Vocabulary: outrageous: 荒谬至极
+**[3031.56s] English:** But I understood why; because these contracts are crazy.  
+**Translation:** Vocabulary: outrageous: 荒谬的
 
 **[3037.18s] English:** No sane municipality should enter into some of these contracts.  
 **Translation:** 
 
-**[3044.68s] English:** And so I have become an opponent of the National Teachers Association, the Cambridge Teachers Association.  
-**Translation:** Vocabulary: municipality: 城市政府
+**[3044.68s] English:** And so I have become an opponent of the National Teachers' Association, the Cambridge Teachers' Association.  
+**Translation:** Vocabulary: municipality: 市府; opponent: 反对者
 
 **[3055.64s] English:** I don't think there should be.  
 **Translation:** 
@@ -2074,49 +2075,49 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3064.50s] English:** And I think that the public school system will never be improved as long as the teachers are unionized.  
 **Translation:** 
 
-**[3073.54s] English:** So that, to you, is at the core of the problem that results in the kind of inequality of opportunity that affirmative action is designed to solve.  
-**Translation:** Vocabulary: inequality: 不平等; unionized: 工会化
+**[3073.54s] English:** So, that is at the core of the problem that results in the kind of inequality of opportunity that affirmative action is designed to solve.  
+**Translation:** Vocabulary: inequality: 不公平; unionized: 工会化
 
-**[3084.16s] English:** If the educational system in the elementary...  
+**[3084.16s] English:** If the educational system in the elementary school is not reformed, ...  
 **Translation:** 
 
-**[3087.66s] English:** In the elementary and high school levels is improved, we wouldn't need affirmative action.  
-**Translation:** 
+**[3087.66s] English:** In the elementary and high school levels are improved, we wouldn't need affirmative action.  
+**Translation:** Vocabulary: reformed: 改革
 
 **[3092.68s] English:** These kids would get good educations.  
 **Translation:** 
 
-**[3095.04s] English:** So from all backgrounds, poor kids in the United States will get good education if public unions are abolished.  
-**Translation:** 
+**[3095.04s] English:** So, from all backgrounds, poor kids in the United States will get a good education if public unions are abolished.  
+**Translation:** Vocabulary: abolished: 废除
 
 **[3105.20s] English:** Correct.  
 **Translation:** 
 
-**[3106.98s] English:** And but do you...  
+**[3106.98s] English:** And, but, do you...  
 **Translation:** 
 
 **[3107.90s] English:** And incidentally, the Postal Service would probably work better, too.  
 **Translation:** 
 
 **[3112.60s] English:** That's a whole other conversation.  
-**Translation:** 
+**Translation:** Vocabulary: postal: 邮政
 
 **[3114.28s] English:** Yes.  
 **Translation:** 
 
-**[3114.78s] English:** But do you...  
+**[3114.78s] English:** But, do you...  
 **Translation:** 
 
-**[3115.34s] English:** At the core of the problem of inequality...  
+**[3115.34s] English:** At the core of the problem of inequality,...  
 **Translation:** 
 
-**[3117.66s] English:** At the core of the problem of inequality in universities.  
+**[3117.66s] English:** At the core of the problem of inequality in universities:  
 **Translation:** 
 
-**[3120.00s] English:** that diversity, inclusion, and equity programs are trying to solve  
+**[3120.00s] English:** That diversity, inclusion, and equity programs are trying to solve.  
 **Translation:** 
 
-**[3124.62s] English:** is the public education system of secondary education.  
+**[3124.62s] English:** The public education system for secondary education.  
 **Translation:** 
 
 **[3128.68s] English:** Yes, correct.  
@@ -2128,25 +2129,25 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3130.86s] English:** Elementary and secondary education.  
 **Translation:** 
 
-**[3132.80s] English:** Well, then, is there use?  
+**[3132.80s] English:** Well, then, is there any use?  
 **Translation:** 
 
 **[3135.16s] English:** What is the benefit?  
 **Translation:** 
 
-**[3136.72s] English:** What is the drawback of DIE,  
-**Translation:** Vocabulary: drawback: 缺点
+**[3136.72s] English:** What is the drawback of DIE?  
+**Translation:** 
 
-**[3140.38s] English:** diversity, inclusion, and equity programs at universities like Harvard?  
+**[3140.38s] English:** Diversity, inclusion, and equity programs at universities like Harvard?  
 **Translation:** 
 
 **[3143.84s] English:** It's an affirmative action, basically.  
-**Translation:** Vocabulary: affirmative: 肯定的措施
+**Translation:** Vocabulary: affirmative: 肯定的
 
-**[3146.36s] English:** And what it does is it allows the system of elementary and secondary education to be bad  
+**[3146.36s] English:** And what it does is allow the system of elementary and secondary education to be bad.  
 **Translation:** 
 
-**[3154.60s] English:** because they could say, oh, we got our kids into Harvard.  
+**[3154.60s] English:** Because they could say, "Oh, we got our kids into Harvard.  
 **Translation:** 
 
 **[3158.08s] English:** Yes, but you haven't educated them.  
@@ -2155,7 +2156,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3161.02s] English:** And it covers up the wound.  
 **Translation:** 
 
-**[3164.74s] English:** And I think it will never improve as long as we're able to cover up the wound.  
+**[3164.74s] English:** And I think it will never improve as long as we are able to cover up the wound.  
 **Translation:** 
 
 **[3169.46s] English:** And as I said, affirmative action is going to be abolished by the Supreme Court.  
@@ -2164,16 +2165,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3173.44s] English:** It's a clear violation of equal protection.  
 **Translation:** 
 
-**[3176.36s] English:** It's what Sanford Day O'Connor understood but ignored intentionally,  
+**[3176.36s] English:** It's what Sanford Day O'Connor understood, but ignored intentionally.  
 **Translation:** 
 
-**[3183.06s] English:** but as an experiment.  
+**[3183.06s] English:** But, as an experiment.  
 **Translation:** 
 
-**[3185.72s] English:** And I believe it's going to be abolished,  
+**[3185.72s] English:** And I believe it's going to be abolished.  
 **Translation:** 
 
-**[3188.08s] English:** and that's going to force the elementary and high schools to get serious.  
+**[3188.08s] English:** And that's going to force elementary and high schools to get serious.  
 **Translation:** 
 
 **[3195.46s] English:** Do you see the same issues that you discuss now at Harvard, at MIT?  
@@ -2185,7 +2186,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3203.62s] English:** You've written about MIT.  
 **Translation:** 
 
-**[3205.44s] English:** I'm a—  
+**[3205.44s] English:** I'm a —  
 **Translation:** 
 
 **[3206.36s] English:** It's a university I love.  
@@ -2200,28 +2201,28 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3211.44s] English:** Yes, I do.  
 **Translation:** 
 
-**[3212.58s] English:** Do you remember—can you explain the case of Dorian Abbott lecture that was canceled at MIT?  
-**Translation:** Vocabulary: abbott: 院长; dorian: 多里安
+**[3212.58s] English:** Do you remember—can you explain the case of Dorian Abbott's lecture that was canceled at MIT?  
+**Translation:** 
 
 **[3217.86s] English:** Yeah, well, you know, this is not the only incident.  
 **Translation:** 
 
-**[3224.94s] English:** There have been incidents all around the country of academics, professors,  
+**[3224.94s] English:** There have been incidents all around the country involving academics and professors.  
 **Translation:** 
 
-**[3231.36s] English:** who have views that don't comport with the—as the great Lillian Hellman,  
+**[3231.36s] English:** Who have views that don't comport with the way the great Lillian Hellman saw things,  
 **Translation:** 
 
-**[3236.36s] English:** another friend of my late wife, said they—  
-**Translation:** Vocabulary: comport: 符合; lillian: 莉莲
+**[3236.36s] English:** Another friend of my late wife said they—  
+**Translation:** Vocabulary: comport: 一致; lillian: 莉莲
 
 **[3240.00s] English:** She said she refused to cut her garments in order to fit the fashions of the day.  
 **Translation:** 
 
-**[3247.18s] English:** Dorian Abbott didn't cut his suit to fit the fashions of the day in his intellectual suit.  
-**Translation:** 
+**[3247.18s] English:** Dorian Abbott didn't cut his suit to fit the fashions of the day—in his intellectual suit.  
+**Translation:** Vocabulary: garments: 衣服
 
-**[3254.48s] English:** And so this has happened at Princeton.  
+**[3254.48s] English:** And so, this has happened at Princeton.  
 **Translation:** 
 
 **[3257.64s] English:** This has happened at Harvard.  
@@ -2230,8 +2231,8 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3258.84s] English:** This has happened at MIT.  
 **Translation:** 
 
-**[3260.06s] English:** The great universities in the country have decided that the clash of ideas is not such a good idea because some people's feelings will be hurt.  
-**Translation:** Vocabulary: clash: 思想碰撞
+**[3260.06s] English:** The great universities in the country have decided that the clash of ideas is not such a good idea, because some people's feelings will be hurt.  
+**Translation:** Vocabulary: clash: 冲突
 
 **[3271.64s] English:** Well, there was quite a revolt against it.  
 **Translation:** 
@@ -2239,11 +2240,11 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3276.04s] English:** Fire sounded the alarm.  
 **Translation:** Vocabulary: revolt: 起义
 
-**[3280.70s] English:** And then in the end, the universities were, I believe Abbott was invited to come back.  
+**[3280.70s] English:** And then, in the end, the universities were invited to come back, I believe, with Abbott.  
 **Translation:** 
 
 **[3285.58s] English:** I think he turned him down.  
-**Translation:** 
+**Translation:** Vocabulary: abbott: abbott
 
 **[3288.80s] English:** He shouldn't have turned him down.  
 **Translation:** 
@@ -2254,8 +2255,8 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3293.48s] English:** And when the light is cast upon these situations, the universities back down because they're so embarrassed.  
 **Translation:** 
 
-**[3302.12s] English:** And the newspapers, because newspapers depend on the First Amendment in order to exist, newspapers tend to give pretty good publicity to these cases of censorship.  
-**Translation:** Vocabulary: censorship: 言论审查; publicity: 报道
+**[3302.12s] English:** And the newspapers, because they depend on the First Amendment in order to exist, tend to give pretty good publicity to these cases of censorship.  
+**Translation:** Vocabulary: censorship: 审查; publicity: 报道
 
 **[3311.82s] English:** So they grill the universities.  
 **Translation:** 
@@ -2263,13 +2264,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3313.58s] English:** Yes.  
 **Translation:** 
 
-**[3314.22s] English:** So they really emphasize, they catalyze the embarrassment.  
+**[3314.22s] English:** So they really emphasize and catalyze the embarrassment.  
 **Translation:** 
 
 **[3318.04s] English:** Yes.  
-**Translation:** Vocabulary: catalyze: 促进
+**Translation:** Vocabulary: catalyze: 促进; emphasize: 强调
 
-**[3318.34s] English:** So is that one of the ways?  
+**[3318.34s] English:** So, is that one of the ways?  
 **Translation:** 
 
 **[3319.78s] English:** Is that the best way to fight all of this?  
@@ -2279,7 +2280,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[3322.04s] English:** Sunshine is the best disinfectant.  
-**Translation:** Vocabulary: disinfectant: 消毒剂
+**Translation:** Vocabulary: disinfectant: 杀菌剂
 
 **[3324.66s] English:** You've written about MIT's connection to Jeffrey Epstein.  
 **Translation:** 
@@ -2297,121 +2298,121 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[3341.46s] English:** I believe that universities, if somebody wants to, for example, donate to a university and donates on the...  
+**Translation:** Vocabulary: donate: 捐赠; donates: 捐赠
+
+**[3349.78s] English:** If someone does this and is fighting for a policy, there's also the requirement that the building be named after them.  
 **Translation:** 
 
-**[3349.78s] English:** If somebody does this and is fighting for policy, there's also the requirement that the building be named after them.  
+**[3353.78s] English:** If the university is taking donations, and a person is funding a building.  
+**Translation:** Vocabulary: donations: 捐款
+
+**[3360.00s] English:** And he wants the building named after him.  
 **Translation:** 
 
-**[3353.78s] English:** If the university is taking donations and a person is funding a building.  
+**[3363.00s] English:** The building should be named after him, Humber, or them.  
+**Translation:** Vocabulary: humber: 汉伯
+
+**[3364.42s] English:** Members of the Schengen Institute of...  
 **Translation:** 
 
-**[3364.42s] English:** Members of the Schengen Institute of했습니다.  
-**Translation:** 
+**[3366.22s] English:** Harvard is facing this now with the Sackler Building.  
+**Translation:** Vocabulary: sackler: 萨克勒; schengen: 申根
 
 **[3367.84s] English:** Ready.  
 **Translation:** 
 
-**[3368.90s] English:** ote  
-**Translation:** 
-
-**[3378.68s] English:** a  
-**Translation:** 
-
-**[3360.00s] English:** and wants the building named after him,  
-**Translation:** 
-
-**[3363.00s] English:** the building should be named after him, Humber, or them.  
-**Translation:** Vocabulary: humber: 汉伯
-
-**[3366.22s] English:** Harvard is facing this now with the Sackler building  
-**Translation:** 
-
-**[3368.58s] English:** because the Sacklers have become now a persona non grata  
+**[3368.58s] English:** Because the Sacklers have become a persona non grata.  
 **Translation:** Vocabulary: sacklers: 萨克勒家族
 
-**[3373.44s] English:** because of their role in producing the opioids  
+**[3368.90s] English:** Note  
 **Translation:** 
 
-**[3376.36s] English:** that caused the huge, scandalous opioid addiction.  
-**Translation:** Vocabulary: opioid: 阿片类药物; opioids: 阿片类药物; scandalous: 丑闻般的
+**[3373.44s] English:** Because of their role in producing the opioids,  
+**Translation:** Vocabulary: opioids: 阿片类药物
 
-**[3381.88s] English:** There are people who want to remove the name Sackler  
+**[3376.36s] English:** That caused the huge, scandalous opioid addiction.  
 **Translation:** 
 
-**[3385.22s] English:** from the Sackler Art Museum at Harvard.  
+**[3378.68s] English:** A  
+**Translation:** Vocabulary: addiction: 上瘾; opioid: 阿片类药物; scandalous: 丑闻般的
+
+**[3381.88s] English:** There are people who want to remove the name Sackler.  
+**Translation:** 
+
+**[3385.22s] English:** From the Sackler Art Museum at Harvard.  
 **Translation:** 
 
 **[3386.96s] English:** Larry Bacow, the president of Harvard,  
 **Translation:** 
 
-**[3390.94s] English:** to his credit, has refused to do that.  
+**[3390.94s] English:** To his credit, he has refused to do that.  
 **Translation:** 
 
-**[3396.88s] English:** And if it reminds people that the money was earned  
+**[3396.88s] English:** And if it reminds people that the money was earned.  
 **Translation:** 
 
-**[3401.84s] English:** through selling opioids, that's good.  
+**[3401.84s] English:** Through selling opioids, that's good.  
 **Translation:** 
 
-**[3405.62s] English:** That's good that people understand  
+**[3405.62s] English:** That's good that people understand.  
 **Translation:** 
 
-**[3407.22s] English:** that that's where the Sacklers got their money.  
+**[3407.22s] English:** That's where the Sacklers got their money.  
 **Translation:** 
 
 **[3409.22s] English:** They should be reminded.  
 **Translation:** 
 
-**[3411.24s] English:** In my undergraduate alma mater, Princeton,  
+**[3411.24s] English:** At my undergraduate alma mater, Princeton,  
 **Translation:** Vocabulary: princeton: 普林斯顿大学; undergraduate: 本科生
 
-**[3416.96s] English:** there's a movement to remove the name Woodrow Wilson  
+**[3416.96s] English:** There's a movement to remove the name Woodrow Wilson.  
 **Translation:** 
 
-**[3419.76s] English:** because Woodrow Wilson was president of Princeton  
+**[3419.76s] English:** Because Woodrow Wilson was president of Princeton.  
 **Translation:** Vocabulary: woodrow: 伍德罗
 
-**[3422.74s] English:** before he became governor of New Jersey,  
+**[3422.74s] English:** Before he became Governor of New Jersey,  
 **Translation:** 
 
-**[3424.80s] English:** before he became president of the United States.  
+**[3424.80s] English:** Before he became President of the United States.  
 **Translation:** 
 
-**[3426.90s] English:** How he got to be governor of New Jersey  
+**[3426.90s] English:** How did he get to be governor of New Jersey?  
 **Translation:** 
 
-**[3428.52s] English:** was he was so insufferable that the trustees of Princeton  
+**[3428.52s] English:** He was so insufferable that the trustees of Princeton  
 **Translation:** Vocabulary: insufferable: 难以忍受的
 
-**[3431.44s] English:** got him the nomination to run for governor of New Jersey.  
+**[3431.44s] English:** Got him the nomination to run for governor of New Jersey.  
 **Translation:** 
 
-**[3435.28s] English:** They had said, we got to get this guy out of here.  
+**[3435.28s] English:** They had said, "We've got to get this guy out of here.  
 **Translation:** Vocabulary: nomination: 提名
 
-**[3439.10s] English:** And not because he was anti-black and anti-Semitic,  
+**[3439.10s] English:** And not because he was anti-Black and anti-Semitic,  
 **Translation:** 
 
-**[3443.14s] English:** because the trustees were as well,  
+**[3443.14s] English:** Because the trustees were as well.  
 **Translation:** 
 
-**[3444.58s] English:** but because he just was insufferable.  
+**[3444.58s] English:** But because he was just insufferable.  
 **Translation:** 
 
 **[3446.96s] English:** He drove the faculty crazy, and they got him out.  
 **Translation:** 
 
-**[3452.52s] English:** And so Princeton was thinking of changing the name.  
+**[3452.52s] English:** And so, Princeton was thinking of changing the name.  
 **Translation:** 
 
-**[3457.00s] English:** I wrote a letter to President Eisgruber at Princeton saying,  
+**[3457.00s] English:** I wrote a letter to President Eisgruber at Princeton, saying,  
 **Translation:** 
 
-**[3460.88s] English:** you know, this is part of the university's history.  
+**[3460.88s] English:** You know, this is part of the university's history.  
 **Translation:** 
 
-**[3464.02s] English:** You don't want to, you want to rewrite history falsely?  
-**Translation:** Vocabulary: falsely: 错误地
+**[3464.02s] English:** You don't want to rewrite history falsely; you want to keep it accurate?  
+**Translation:** 
 
 **[3468.84s] English:** Woodrow Wilson was the president of this institution.  
 **Translation:** 
@@ -2419,172 +2420,172 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3471.60s] English:** He was one of your predecessors.  
 **Translation:** Vocabulary: predecessors: 前任
 
-**[3473.36s] English:** He never answered me either.  
+**[3473.36s] English:** He never answered me, either.  
 **Translation:** 
 
 **[3475.70s] English:** I think these people,  
 **Translation:** 
 
-**[3476.94s] English:** you know, they know they have no answer.  
+**[3476.94s] English:** You know, they know they have no answer.  
 **Translation:** 
 
-**[3480.00s] English:** reason i didn't get a response from president eisgruber is the same as the reason i didn't get  
+**[3480.00s] English:** Reason I didn't get a response from President Eisgruber is the same as the reason I didn't get  
 **Translation:** 
 
-**[3485.26s] English:** a response from the headmaster of milton academy they understand that what they're doing is  
+**[3485.26s] English:** A response from the headmaster of Milton Academy: They understand that what they're doing is  
 **Translation:** 
 
-**[3490.94s] English:** violative of the fundamental precepts of academic institutions they're ashamed they that they feel  
+**[3490.94s] English:** Violative of the fundamental precepts of academic institutions, they're ashamed, and they feel  
 **Translation:** Vocabulary: headmaster: 校长; precepts: 基本原则; violative: 违反的
 
-**[3498.54s] English:** they have no choice because they feel that they would be criticized for racism homophobia blah  
+**[3498.54s] English:** They have no choice because they feel that they would be criticized for racism, homophobia, blah.  
 **Translation:** 
 
-**[3504.74s] English:** blah blah blah blah criticized by how many people well they feel that they would be criticized by  
-**Translation:** Vocabulary: homophobia: 恐同症
+**[3504.74s] English:** Blah, blah, blah, blah, criticized by how many people? Well, they feel that they would be criticized by...  
+**Translation:** Vocabulary: homophobia: 异性恋偏见; racism: 种族主义
 
-**[3511.02s] English:** students and parents and donors i disagree with that i actually think there are more people out  
+**[3511.02s] English:** Students, parents, and donors—I disagree with that. I actually think there are more people out.  
 **Translation:** 
 
-**[3517.04s] English:** there that agree with me than agree with them yeah by a large margin by a large margin in what i call  
+**[3517.04s] English:** There are more people who agree with me than agree with them, yeah, by a large margin. In what I call,...  
+**Translation:** Vocabulary: margin: 差距
+
+**[3523.88s] English:** The real world, which is the world outside the campus, but academics are afraid they'd be criticized.  
 **Translation:** 
 
-**[3523.88s] English:** the real world which is the world outside the campus but academics are afraid they'd be criticized  
+**[3529.74s] English:** They're incredibly thin-skinned. When I say academics, I mean academic administrators.  
 **Translation:** 
 
-**[3529.74s] English:** they're incredibly thin skin when i say academics i mean academic administrators  
+**[3534.38s] English:** You.  
 **Translation:** 
 
-**[3534.38s] English:** you  
+**[3534.74s] English:** They're very thin-skinned, politically correct, and holier-than-thou. Um, as I said, I would fire 90-95 percent.  
+**Translation:** Vocabulary: politically: 涉及政治
+
+**[3542.98s] English:** Of them, and I would be more careful in who I elected to lead these institutions, so I said.  
 **Translation:** 
 
-**[3534.74s] English:** they're very thin skin politically correct holier than thou um as i said i would fire 90 95 percent  
-**Translation:** Vocabulary: politically: 政治上
-
-**[3542.98s] English:** of them and i would be more careful in who i elected to lead these institutions so i said  
+**[3550.08s] English:** Pauline Gay is probably going to be a disaster at Harvard, so it takes guts and courage to be  
 **Translation:** 
 
-**[3550.08s] English:** pauline gay is probably going to be a disaster at harvard so it takes guts it takes courage to be  
-**Translation:** Vocabulary: pauline: 保罗琳
-
-**[3556.90s] English:** in the administration when the task of protecting the freedom of speech is there and also  
+**[3556.90s] English:** In the administration, when the task of protecting the freedom of speech is there and also,  
 **Translation:** 
 
-**[3562.84s] English:** um which  
+**[3562.84s] English:** Um, which  
 **Translation:** 
 
-**[3564.74s] English:** in part requires you to admit and to uphold the mistakes you have done in the past correct not to  
+**[3564.74s] English:** In part, it requires you to admit and uphold the mistakes you have done in the past, not to correct them.  
 **Translation:** 
 
-**[3572.02s] English:** hide them correct and that to you to you i mean jeffrey epstein for harvard and for mit is a very  
+**[3572.02s] English:** Hide them correctly, and that to you, I mean Jeffrey Epstein for Harvard and MIT is a very  
 **Translation:** Vocabulary: epstein: 埃普斯坦; jeffrey: 杰弗里
 
-**[3578.74s] English:** recent mistake well there's a debate whether it's a mistake they took money from him yes okay  
+**[3578.74s] English:** Recent mistake? Well, there's a debate whether it's a mistake; they took money from him, yes, okay.  
 **Translation:** 
 
-**[3586.18s] English:** is it a mistake to take money from bad people do you have to do a morals test of a potential donor  
+**[3586.18s] English:** Is it a mistake to take money from bad people? Do you have to do a morals test of a potential donor?  
+**Translation:** Vocabulary: morals: 道德
+
+**[3594.74s] English:** I don't think so. Um, it's complicated because if there are no  
 **Translation:** 
 
-**[3594.74s] English:** i don't think so um it's complicated because if there are no  
+**[3600.00s] English:** Conditions attached to it, I think it's emotionally complicated. I don't think it is rationally.  
 **Translation:** 
 
-**[3600.00s] English:** conditions attached to it i think it's emotionally complicated i don't think that it is rationally  
+**[3605.84s] English:** Complicated. Um, it's emotionally complicated. It's particularly complicated if they want naming.  
 **Translation:** 
 
-**[3605.84s] English:** complicated um it's emotionally complicated it's particularly complicated if they want naming  
+**[3612.96s] English:** Rights, yes, you know, the Jeffrey Epstein biological laboratory, um, that would be  
 **Translation:** 
 
-**[3612.96s] English:** rights yes you know the jeff jeffrey epstein biological laboratory um that that would be  
+**[3621.52s] English:** A problem for most universities, I don't think that naming rights have to be given.  
 **Translation:** 
 
-**[3621.52s] English:** a problem for most universities um i don't think that naming rights have to be given  
+**[3628.24s] English:** To somebody that you don't think is worthy of having their name, I think the university  
 **Translation:** 
 
-**[3628.24s] English:** to somebody that you that you don't think is worthy of having their name i think the university  
+**[3633.68s] English:** Has the right to say no. We'll take your money, but we will not name the building after.  
 **Translation:** 
 
-**[3633.68s] English:** has the right to say no we'll we'll take your money but we will not name the building after  
-**Translation:** 
-
-**[3638.80s] English:** you i think they have a right to do that there's some degree in which you whitewash the name though  
+**[3638.80s] English:** You, I think, they have a right to do that. There's some degree in which you whitewash the name, though.  
 **Translation:** Vocabulary: whitewash: 粉饰
 
-**[3644.08s] English:** if you not not with naming rights but if you take the money if you take the money it allows the  
+**[3644.08s] English:** If you take the money, if you take the money, it allows the  
 **Translation:** 
 
-**[3652.00s] English:** person in uh public discourse to say that they're collaborating they're working together  
+**[3652.00s] English:** Person in public discourse to say that they're collaborating and working together.  
 **Translation:** Vocabulary: collaborating: 合作; discourse: 讨论
 
-**[3658.10s] English:** with you  
+**[3658.10s] English:** With you.  
 **Translation:** 
 
-**[3658.24s] English:** with harvard and with mit well i have a problem with universities making morals tests of donors  
+**[3658.24s] English:** With Harvard and MIT, I have a problem with universities making morality tests for donors.  
+**Translation:** Vocabulary: morality: 道德
+
+**[3665.26s] English:** Because not every donor is as bad as Epstein, but some of the donors made their money in industry.  
 **Translation:** 
 
-**[3665.26s] English:** because not every donor is as bad as epstein but some of the donors made their money in industry  
+**[3673.00s] English:** By being rapacious, by paying low wages, by exploiting people, you can make the case that.  
 **Translation:** 
 
-**[3673.00s] English:** by being rapacious by paying low wages by exploiting people you can uh make the case that  
-**Translation:** Vocabulary: exploiting: 剥削
-
-**[3683.64s] English:** uh accepting money from the department of defense from darpa  
+**[3683.64s] English:** Uh, accepting money from the Department of Defense from DARPA.  
 **Translation:** 
 
-**[3687.16s] English:** from  
+**[3687.16s] English:** From:  
 **Translation:** 
 
-**[3688.10s] English:** the united states organizations that uh contributed  
+**[3688.10s] English:** The United States organizations that contributed,  
 **Translation:** 
 
-**[3691.14s] English:** to waging war and killing hundreds of thousands of civilians over the past few decades correct  
+**[3691.14s] English:** To wage war and kill hundreds of thousands of civilians over the past few decades, is correct.  
 **Translation:** 
 
-**[3696.50s] English:** um folks like the tenured professor noam chomsky will make the case that that  
+**[3696.50s] English:** Um, folks like the tenured professor Noam Chomsky will make the case that that  
 **Translation:** 
 
-**[3701.22s] English:** is far more evil than accepting money from jeffrey epstein yes  
+**[3701.22s] English:** Is far more evil than accepting money from Jeffrey Epstein, yes.  
 **Translation:** Vocabulary: chomsky: 乔姆斯基; epstein: 埃普斯坦; jeffrey: 杰弗里
 
-**[3707.94s] English:** still jeffrey epstein is a known pedophile yes so that's why i say i would i would not give him  
+**[3707.94s] English:** Still, Jeffrey Epstein is a known pedophile, yes, so that's why I would not give him anything.  
 **Translation:** 
 
-**[3715.94s] English:** naming rights i think the university should be making more money than accepting money from  
-**Translation:** Vocabulary: pedophile: 恋童癖者
+**[3715.94s] English:** Naming rights: I think the university should be making more money than accepting money from.  
+**Translation:** Vocabulary: pedophile: 娈童犯
 
-**[3717.12s] English:** the university and the state but so far the university has not been making anything from the  
+**[3717.12s] English:** The university and the state, but so far the university has not been making anything from the  
 **Translation:** 
 
 **[3717.90s] English:** I think the university has the autonomy to know.  
 **Translation:** Vocabulary: autonomy: 自主权
 
-**[3720.00s] English:** not give naming rights.  
+**[3720.00s] English:** Not to give naming rights.  
 **Translation:** 
 
-**[3722.14s] English:** But I think that giving morals tests to donors is a Pandora's box.  
+**[3722.14s] English:** But I think that giving morality tests to donors is a Pandora's box.  
 **Translation:** 
 
 **[3728.32s] English:** What do you think about the aftermath of the Jeffrey Epstein saga?  
 **Translation:** 
 
-**[3731.32s] English:** It feels like, I'm not familiar with Harvard's response,  
+**[3731.32s] English:** It feels like; I'm not familiar with Harvard's response.  
 **Translation:** Vocabulary: aftermath: 后果
 
-**[3735.36s] English:** but MIT's response seemed to fire a few scapegoats,  
+**[3735.36s] English:** But MIT's response seemed to fire a few scapegoats.  
 **Translation:** 
 
-**[3740.58s] English:** and it didn't seem like a genuine response to the evils that human beings are capable of,  
+**[3740.58s] English:** And it didn't seem like a genuine response to the evils that human beings are capable of.  
 **Translation:** Vocabulary: scapegoats: 替罪羊
 
-**[3749.28s] English:** sort of rising to the surface, the description in a fully transparent way  
+**[3749.28s] English:** Sort of rising to the surface, the description was given in a fully transparent way.  
 **Translation:** 
 
-**[3755.34s] English:** of all the interactions that happened with Jeffrey Epstein,  
+**[3755.34s] English:** Of all the interactions that happened with Jeffrey Epstein,  
+**Translation:** Vocabulary: transparent: 公开的
+
+**[3757.50s] English:** And what that means about the role of money in universities,  
 **Translation:** 
 
-**[3757.50s] English:** and what that means about the role of money in universities,  
-**Translation:** 
-
-**[3764.14s] English:** what that means about just human beings in power.  
+**[3764.14s] English:** What that means about just human beings in power.  
 **Translation:** 
 
 **[3766.66s] English:** Money is essential to run a university.  
@@ -2593,40 +2594,40 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3770.84s] English:** One of the reasons it's essential is because the university artificially requires  
 **Translation:** Vocabulary: artificially: 人为地
 
-**[3778.60s] English:** human beings to run a university.  
+**[3778.60s] English:** Human beings to run a university.  
 **Translation:** 
 
-**[3779.28s] English:** There's huge amounts of money, and that's probably because of the administrative army  
+**[3779.28s] English:** There's huge amounts of money, and that's probably because of the administrative army.  
 **Translation:** 
 
-**[3783.02s] English:** that they support, and they would be less dependent on the Jeffrey Epsteins of the world  
+**[3783.02s] English:** That they support, and they would be less dependent on the Jeffrey Epstein-type individuals in the world.  
 **Translation:** 
 
-**[3791.90s] English:** if they didn't have, so it's sort of all part of the same circle.  
+**[3791.90s] English:** If they didn't have it, so it's sort of all part of the same circle.  
 **Translation:** 
 
 **[3798.66s] English:** But there's a tension here.  
 **Translation:** 
 
-**[3799.92s] English:** You're saying we shouldn't be putting a morals test on money,  
+**[3799.92s] English:** You're saying we shouldn't be putting a morals test on money.  
+**Translation:** Vocabulary: morals: 道德
+
+**[3803.28s] English:** But actually, if you expand the amount of money needed to run the university,  
 **Translation:** 
 
-**[3803.28s] English:** but actually if you expand the amount of money needed to run the university,  
+**[3809.28s] English:** You're going to make less and less ethical decisions in terms of accepting money.  
 **Translation:** 
 
-**[3809.28s] English:** you're going to make less and less, more and more unethical decisions in terms of accepting money.  
-**Translation:** Vocabulary: unethical: 不道德的
-
-**[3814.46s] English:** Correct. And as I said, I am flexible enough to say that I don't think I would name a building  
+**[3814.46s] English:** Correct. And as I said, I am flexible enough to say that I don't think I would name a building.  
 **Translation:** 
 
-**[3818.98s] English:** after somebody who is truly evil.  
-**Translation:** 
+**[3818.98s] English:** After somebody who is truly evil.  
+**Translation:** Vocabulary: flexible: 有弹性的
 
 **[3820.74s] English:** I think the university has the right to limit the naming rights for a donor.  
 **Translation:** 
 
-**[3829.80s] English:** If I was an absolutist, I would not even say that.  
+**[3829.80s] English:** If I were an absolutist, I would not even say that.  
 **Translation:** Vocabulary: absolutist: 绝对主义者
 
 **[3833.52s] English:** I'm not an absolutist.  
@@ -2638,13 +2639,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3837.82s] English:** And that's one of them.  
 **Translation:** 
 
-**[3840.00s] English:** The Jeffrey Epstein Biological Laboratory, it's a little bit much.  
+**[3840.00s] English:** The Jeffrey Epstein Biological Laboratory—it's a little bit much.  
 **Translation:** Vocabulary: epstein: 艾普斯坦; jeffrey: 杰弗里
 
 **[3845.50s] English:** It feels like there should be more requirements on who to accept money from.  
 **Translation:** 
 
-**[3853.48s] English:** But the question is, the concern you have is about who gets to decide.  
+**[3853.48s] English:** But the question is: the concern you have is about who gets to decide.  
 **Translation:** 
 
 **[3857.88s] English:** And what's the alternative?  
@@ -2656,16 +2657,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3860.32s] English:** I think there is no alternative.  
 **Translation:** 
 
-**[3861.86s] English:** I think that turning down donation because you don't approve of the conduct of the donor,  
+**[3861.86s] English:** I think that turning down a donation because you don't approve of the conduct of the donor,  
 **Translation:** Vocabulary: donation: 捐赠
 
-**[3869.60s] English:** it's a Pandora's box.  
+**[3869.60s] English:** It's a Pandora's box.  
 **Translation:** 
 
-**[3875.74s] English:** But I'm just sickened by the fact that an evil human being was allowed to walk in the halls of a university I love.  
+**[3875.74s] English:** But I'm just sickened by the fact that an evil human being was allowed to walk the halls of a university I love.  
 **Translation:** 
 
-**[3884.58s] English:** So what do we do with that?  
+**[3884.58s] English:** So, what do we do with that?  
 **Translation:** 
 
 **[3886.10s] English:** Well, are you telling me that none of the students are evil?  
@@ -2677,40 +2678,40 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3890.92s] English:** Are you telling me none of the administrators are evil?  
 **Translation:** 
 
-**[3895.04s] English:** But that doesn't...  
+**[3895.04s] English:** But that doesn't....  
 **Translation:** 
 
 **[3896.78s] English:** Sure, sure.  
 **Translation:** 
 
-**[3898.52s] English:** So say...  
+**[3898.52s] English:** So, say...  
 **Translation:** 
 
-**[3899.60s] English:** Scapegoating, saying that Jeffrey Epstein is evil can help us forget,  
+**[3899.60s] English:** Scapegoating, saying that Jeffrey Epstein is evil, can help us forget,  
 **Translation:** Vocabulary: scapegoating: 替罪羊
 
-**[3904.46s] English:** can aid us in forgetting that there is other evil in the world.  
+**[3904.46s] English:** Can aid us in forgetting that there is other evil in the world.  
 **Translation:** 
 
-**[3907.88s] English:** And some of it might be roaming still, the halls of MIT and Harvard.  
+**[3907.88s] English:** And some of it might still be roaming the halls of MIT and Harvard.  
+**Translation:** Vocabulary: roaming: 游荡
+
+**[3913.52s] English:** Hey, listen; I won't tell you the name.  
 **Translation:** 
 
-**[3913.52s] English:** Hey, listen, I won't tell you the name,  
+**[3915.68s] English:** But I represented somebody in the MIT administration a few years ago.  
 **Translation:** 
 
-**[3915.68s] English:** but I represented somebody in the MIT administration a few years ago  
-**Translation:** 
-
-**[3920.00s] English:** who was charged with sexual improprieties against students.  
+**[3920.00s] English:** Who was charged with sexual improprieties against students.  
 **Translation:** 
 
 **[3927.70s] English:** And as a lawyer, I represented that.  
-**Translation:** Vocabulary: improprieties: 不适当行为
+**Translation:** Vocabulary: improprieties: 不适当的行为
 
 **[3929.60s] English:** I represented that person.  
 **Translation:** 
 
-**[3931.46s] English:** People say, how could you represent...  
+**[3931.46s] English:** People say, "How could you represent...?  
 **Translation:** 
 
 **[3933.34s] English:** Some of the people I represented are bad people.  
@@ -2719,22 +2720,22 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3936.62s] English:** Say, how can you represent them?  
 **Translation:** 
 
-**[3938.26s] English:** I say, well, if I was a cardiologist and this person had a heart attack on the street  
+**[3938.26s] English:** I say, well, if I were a cardiologist and this person had a heart attack on the street.  
 **Translation:** 
 
-**[3942.74s] English:** and I didn't deliver CPR, I would have my license taken away.  
-**Translation:** 
+**[3942.74s] English:** And if I didn't deliver CPR, I would have my license taken away.  
+**Translation:** Vocabulary: cardiologist: 心脏病专家
 
 **[3947.56s] English:** I'm a lawyer.  
 **Translation:** 
 
-**[3949.02s] English:** The only difference between my obligation and the doctor's obligation  
+**[3949.02s] English:** The only difference between my obligation and the doctor's obligation is...  
 **Translation:** 
 
-**[3951.80s] English:** is the Constitution gives people the right to assistance of counsel.  
+**[3951.80s] English:** Is the Constitution gives people the right to assistance of counsel?  
 **Translation:** 
 
-**[3955.90s] English:** They don't have...  
+**[3955.90s] English:** They don't have....  
 **Translation:** 
 
 **[3956.60s] English:** The Constitution says nothing about the assistance of cardiologists.  
@@ -2752,8 +2753,8 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3969.82s] English:** The university should not have a morals test.  
 **Translation:** 
 
-**[3973.76s] English:** Who's money to take?  
-**Translation:** 
+**[3973.76s] English:** Whose money to take?  
+**Translation:** Vocabulary: morals: 道德
 
 **[3976.36s] English:** I do draw a line about naming rights of buildings.  
 **Translation:** 
@@ -2761,29 +2762,29 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[3981.78s] English:** And I say that's an inconsistency with my absolutism.  
 **Translation:** Vocabulary: absolutism: 绝对主义
 
-**[3985.76s] English:** But I just emotionally, I just can't deal with having, you know, as I said, the Jeffrey Epstein Biological Laboratory.  
+**[3985.76s] English:** But I just emotionally can't deal with having, you know, as I said, the Jeffrey Epstein Biological Laboratory.  
 **Translation:** 
 
-**[3993.98s] English:** Well, for me, emotionally, there's nothing that sickens me more in the university than the abuse of power.  
+**[3993.98s] English:** Well, for me, emotionally, there's nothing that sickens me more at the university than the abuse of power.  
 **Translation:** Vocabulary: epstein: 艾伯特; jeffrey: 杰弗里
 
 **[4000.46s] English:** Right.  
 **Translation:** 
 
-**[4001.02s] English:** And there's an awful lot of people who abuse power at the university.  
+**[4001.02s] English:** And there are a lot of people who abuse power at the university.  
 **Translation:** 
 
-**[4004.50s] English:** And especially when it comes to abuse power of students.  
+**[4004.50s] English:** And, especially, when it comes to abusing power over students.  
 **Translation:** 
 
 **[4007.44s] English:** Correct.  
+**Translation:** Vocabulary: abusing: 滥用职权
+
+**[4007.92s] English:** So, sexual harassment.  
 **Translation:** 
 
-**[4007.92s] English:** So sexual harassment.  
-**Translation:** 
-
-**[4009.32s] English:** So in the realm of sexual abuse of power and all kinds of other abuses of power.  
-**Translation:** Vocabulary: harassment: 骚扰
+**[4009.32s] English:** So, in the realm of sexual abuse of power and all kinds of other abuses of power.  
+**Translation:** Vocabulary: abuses: 滥用职权; harassment: 性骚扰
 
 **[4015.40s] English:** Crime.  
 **Translation:** 
@@ -2809,148 +2810,148 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4031.86s] English:** And there's an emotional response that I have.  
 **Translation:** 
 
-**[4035.04s] English:** You are a good lawyer and perhaps a good man to want to defend some folks who are evil in this world.  
+**[4035.04s] English:** You are a good lawyer, and perhaps a good man to want to defend some folks who are evil in this world.  
 **Translation:** 
 
 **[4042.96s] English:** I don't think I have that emotional fortitude.  
-**Translation:** Vocabulary: fortitude: 坚强意志
+**Translation:** Vocabulary: fortitude: 坚强
 
-**[4045.76s] English:** Well, then you shouldn't be a criminal defense lawyer or a cardiologist.  
+**[4045.76s] English:** Well, then, you shouldn't be a criminal defense lawyer or a cardiologist.  
 **Translation:** 
 
 **[4049.76s] English:** I think you're right.  
 **Translation:** Vocabulary: cardiologist: 心脏病医生
 
-**[4052.44s] English:** I'm still deeply sickened by Jeffrey Epstein and the faculty, the administration that still might be in these great American universities that are abusing their power in small ways and big ways.  
+**[4052.44s] English:** I'm still deeply sickened by Jeffrey Epstein and the faculty and administration that might still be abusing their power, in both small and big ways, at these great American universities.  
 **Translation:** 
 
 **[4065.18s] English:** But that's human nature.  
 **Translation:** 
 
-**[4066.76s] English:** You get a little bit of power and you're a bad man or a bad woman and you take advantage of it.  
+**[4066.76s] English:** You get a little bit of power, and you're a bad man or a bad woman; you take advantage of it.  
 **Translation:** 
 
 **[4072.58s] English:** Yep.  
 **Translation:** 
 
-**[4073.10s] English:** We see that in the smallest of ways and in the biggest of ways.  
+**[4073.10s] English:** We see that in the smallest of ways, and in the biggest of ways.  
 **Translation:** 
 
 **[4075.76s] English:** And institutions and...  
 **Translation:** 
 
-**[4080.00s] English:** regimes all across the world ah boy harvey it's a complicated situation well it's a complicated  
+**[4080.00s] English:** Regimes all across the world, ah, boy, Harvey. It's a complicated situation. Well, it's a complicated  
 **Translation:** 
 
-**[4087.92s] English:** world and it's complicated to be a human being and this is nothing new and we should talk about it  
+**[4087.92s] English:** The world and it's complicated to be a human being, and this is nothing new. We should talk about it.  
+**Translation:** Vocabulary: regimes: 政权
+
+**[4094.06s] English:** Without restriction, all right—just to linger on liberal arts in 2014, and probably still today.  
 **Translation:** 
 
-**[4094.06s] English:** without restriction all right just to linger on liberal arts in 2014 and probably still today  
+**[4102.22s] English:** You wrote that liberals are killing the liberal arts, yes. So, can you explain? Yes, the problem with...  
+**Translation:** Vocabulary: liberals: 自由派; linger: 逗留; restriction: 限制
+
+**[4108.58s] English:** I'm a political liberal, but the problem with the political left is that it has become divided.  
 **Translation:** 
 
-**[4102.22s] English:** you wrote that liberals are killing the liberal arts yes so can you explain yes the problem with  
+**[4118.40s] English:** Between what's called progressives and liberals, liberals are people of the left who believe in  
 **Translation:** 
 
-**[4108.58s] English:** i'm a political liberal the problem with the the political left is that it has divided  
+**[4128.46s] English:** The first amendment, an absolute right, and due process of law, and um  
 **Translation:** 
 
-**[4118.40s] English:** between what's called progressives and liberals liberals are people of the left who believe in  
+**[4135.74s] English:** The problem.  
 **Translation:** 
 
-**[4128.46s] English:** the first amendment an absolute first amendment and in due process of law and um  
+**[4138.58s] English:** With what progressives now in the pursuit of equality, what they view as equality.  
 **Translation:** 
 
-**[4135.74s] English:** the the problem  
+**[4146.16s] English:** They're willing to bend those rules, and this movement actually started at Brandeis.  
+**Translation:** Vocabulary: pursuit: 追求
+
+**[4153.00s] English:** Um, the critical race theory—it's the critical race theory. It started with Herbert Marcuse, was a  
 **Translation:** 
 
-**[4138.58s] English:** with what progressives now in the pursuit of equality what they view as equality  
+**[4162.50s] English:** Professor at Brandeis, and he came up with this theory. The theory was this; now, this is right.  
+**Translation:** Vocabulary: herbert: 赫伯特; marcuse: 马尔库塞
+
+**[4168.58s] English:** Out of Warwell, in order to create true equality in a society where you have some downtrodden and  
 **Translation:** 
 
-**[4146.16s] English:** they're willing to bend those rules and this movement actually started in brandeis  
+**[4175.68s] English:** Some argue that in order to create real equality, you have to reduce the rights of those who are already privileged, like Uber drivers.  
+**Translation:** Vocabulary: downtrodden: 受压迫的人; privileged: 享有特权的
+
+**[4185.70s] English:** Of the upper classes, and artificially increase the rights of the lower classes, and that will.  
 **Translation:** 
 
-**[4153.00s] English:** um the um the critical it's the critical race theory uh it started herbert marcuso was a  
-**Translation:** 
-
-**[4162.50s] English:** professor at brandeis and he came up with this theory the theory was this now this is right  
-**Translation:** 
-
-**[4168.58s] English:** out of warwell in order to create true equality in a society where you have some downtrodden and  
-**Translation:** 
-
-**[4175.68s] English:** some who are the uber mention in order to create real um equality you have to reduce the rights  
-**Translation:** Vocabulary: downtrodden: 受压迫者
-
-**[4185.70s] English:** of the upper classes and artificially increase the rights of the lower classes and um that will  
-**Translation:** 
-
-**[4195.96s] English:** produce  
+**[4195.96s] English:** Produce.  
 **Translation:** Vocabulary: artificially: 人为地
 
-**[4196.60s] English:** a  
+**[4196.60s] English:** A  
 **Translation:** 
 
-**[4198.58s] English:** aro aro  
+**[4198.58s] English:** Aro, aro.  
 **Translation:** 
 
-**[4200.00s] English:** unequal treatment, true equality will be attained. This is nonsense.  
+**[4200.00s] English:** Unequal treatment will never lead to true equality. This is nonsense.  
 **Translation:** 
 
-**[4208.64s] English:** The idea of discrimination producing true equality is nonsense. My view is,  
+**[4208.64s] English:** The idea of discrimination producing true equality is nonsense. My view is:,  
 **Translation:** Vocabulary: unequal: 不平等
 
-**[4217.94s] English:** as I've said earlier in our discussion, that the way to increase the opportunities  
+**[4217.94s] English:** As I've said earlier in our discussion, the way to increase the opportunities,...  
 **Translation:** 
 
-**[4227.58s] English:** for the lower classes is to give them real educations. Until we do that, it's not going  
+**[4227.58s] English:** For the lower classes, it is essential to give them real educations. Until we do that, it's not going  
 **Translation:** 
 
-**[4236.82s] English:** to happen. In order to do that, we have to overcome the problem of the teacher's unions  
+**[4236.82s] English:** To happen, in order to do that, we have to overcome the problem of teachers' unions.  
 **Translation:** 
 
-**[4244.40s] English:** at the elementary and secondary school levels. Until we're willing to do that honestly and  
+**[4244.40s] English:** At the elementary and secondary school levels. Until we're willing to do that honestly and  
 **Translation:** 
 
-**[4252.46s] English:** improve those schools, we're going to have a problem of  
+**[4252.46s] English:** To improve those schools, we're going to have a problem of  
 **Translation:** 
 
-**[4257.16s] English:** the lower classes.  
+**[4257.16s] English:** The lower classes.  
 **Translation:** 
 
-**[4257.58s] English:** There's a large number of uneducated people who need a boost because we haven't given  
+**[4257.58s] English:** There's a large number of uneducated people who need a boost, because we haven't given  
 **Translation:** 
 
-**[4263.42s] English:** them proper educations.  
+**[4263.42s] English:** They received proper education.  
 **Translation:** Vocabulary: uneducated: 未受教育的
 
-**[4264.74s] English:** What do you think about some of the more controversial faculty in the world? An example  
+**[4264.74s] English:** What do you think about some of the more controversial faculty members in the world? An example:  
 **Translation:** 
 
-**[4269.84s] English:** of somebody I've spoken with many times on mic and offline is Jordan Peterson. I'm not  
-**Translation:** Vocabulary: peterson: 佩顿
+**[4269.84s] English:** Of someone I've spoken with many times, both on and off mic, is Jordan Peterson. I'm not  
+**Translation:** Vocabulary: peterson: 乔丹·本森
 
-**[4274.36s] English:** sure if you're familiar with his work, but he is an outspoken critic or proponent of  
+**[4274.36s] English:** Sure, if you're familiar with his work, but he is an outspoken critic or proponent of.  
 **Translation:** 
 
-**[4279.64s] English:** free speech on campus, and he's been attacked quite a bit. He's a controversial figure.  
+**[4279.64s] English:** Free speech on campus, and he's been attacked quite a bit. He's a controversial figure.  
 **Translation:** Vocabulary: proponent: 支持者
 
-**[4285.60s] English:** What's the role of the university to protect  
+**[4285.60s] English:** What's the role of the university to protect?  
 **Translation:** 
 
-**[4287.58s] English:** the Jordan Petersons of the world?  
-**Translation:** Vocabulary: petersons: 支持者
+**[4287.58s] English:** The Jordans Petersons of the world?  
+**Translation:** Vocabulary: jordans: 琼斯; petersons: 佩特森
 
-**[4289.12s] English:** I think the university has an absolute, absolute, not relative, not bordered, absolute  
+**[4289.12s] English:** I think the university has an absolute, absolute, not relative, not bounded, absolute.  
 **Translation:** 
 
-**[4295.16s] English:** role or obligation to protect the academic freedom of even the most controversial faculty  
-**Translation:** Vocabulary: bordered: 有限的; obligation: 责任
+**[4295.16s] English:** Role or obligation to protect the academic freedom of even the most controversial faculty.  
+**Translation:** Vocabulary: obligation: 责任
 
-**[4302.82s] English:** members. You can imagine, on a university campus, you have more people who are outliers  
+**[4302.82s] English:** Members, you can imagine: on a university campus, you have more people who are outliers.  
 **Translation:** 
 
-**[4310.90s] English:** than you do in the general population.  
+**[4310.90s] English:** Than you do in the general population.  
 **Translation:** 
 
 **[4313.20s] English:** That's the hope, at least.  
@@ -2971,13 +2972,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4325.50s] English:** They can't be fired.  
 **Translation:** 
 
-**[4326.52s] English:** They can't be disabled from spewing their views, whether they're considered racist, whether they're considered to be, you know, promote an idea of human society that's considered obnoxious.  
+**[4326.52s] English:** They can't be disabled from spewing their views, whether they're considered racist, whether they're considered to be, you know, promoting an idea of human society that's considered obnoxious.  
 **Translation:** 
 
 **[4342.32s] English:** It doesn't matter.  
-**Translation:** Vocabulary: obnoxious: 令人厌恶; spewing: 喷涌
+**Translation:** Vocabulary: obnoxious: 令人厌恶; spewing: 狂喷
 
-**[4343.78s] English:** If you can't have freedom of thought on the college campuses, where can you?  
+**[4343.78s] English:** If you can't have freedom of thought on college campuses, where can you?  
 **Translation:** 
 
 **[4351.32s] English:** You know, then we're lost as a society.  
@@ -2998,28 +2999,28 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4364.18s] English:** And we should also remember that the outlier might also be the only bearer of truth.  
 **Translation:** 
 
-**[4369.50s] English:** So in Nazi Germany, speaking against the fascism.  
+**[4369.50s] English:** So, in Nazi Germany, speaking against the fascism.  
 **Translation:** Vocabulary: fascism: 法西斯主义
 
 **[4373.28s] English:** Fascist.  
 **Translation:** 
 
 **[4373.78s] English:** Fascist regime.  
-**Translation:** Vocabulary: fascist: 法西斯主义
+**Translation:** Vocabulary: fascist: 法西斯主义的
 
-**[4374.98s] English:** And communist Soviet Union speaking against communism.  
+**[4374.98s] English:** And the communist Soviet Union speaking against communism.  
 **Translation:** 
 
 **[4378.40s] English:** They might hold the key to solving the ailments of that society.  
-**Translation:** Vocabulary: ailments: 疾病; communism: 共产主义
+**Translation:** Vocabulary: ailments: 社会问题; communism: 共产主义
 
 **[4383.72s] English:** Absolutely.  
 **Translation:** 
 
 **[4384.90s] English:** And some of the most important discoveries in science, for example, were mocked at the beginning.  
-**Translation:** 
+**Translation:** Vocabulary: mocked: 嘲笑
 
-**[4393.78s] English:** I mean, think of poor Charlie Darwin.  
+**[4393.78s] English:** I mean, think of poor Charles Darwin.  
 **Translation:** 
 
 **[4396.36s] English:** Charlie.  
@@ -3028,25 +3029,25 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4397.70s] English:** I see he is on nickname levels with you.  
 **Translation:** 
 
-**[4401.46s] English:** Well, because we're talking about these big.  
+**[4401.46s] English:** Well, because we're talking about these big things.  
 **Translation:** 
 
-**[4403.78s] English:** Topics of sexism, racism and hate, we should not forget about the smaller topics, which might even have the much bigger impact, which is what you're speaking to, which is outlier ideas in science.  
+**[4403.78s] English:** Topics of sexism, racism, and hate—we should not forget about the smaller topics, which might even have a much bigger impact, which is what you're speaking to, such as outlier ideas in science.  
 **Translation:** 
 
-**[4418.46s] English:** So basically, welcoming controversial ideas in science and by controversial, I mean, just stuff that that most of the community doesn't agree on, it doesn't actually harm anyone at all.  
-**Translation:** 
+**[4418.46s] English:** So, basically, welcoming controversial ideas in science (and by controversial, I mean stuff that most of the community doesn't agree on) doesn't actually harm anyone at all.  
+**Translation:** Vocabulary: racism: 种族主义; sexism: 性别歧视
 
 **[4430.78s] English:** But even then, there's always pressure.  
 **Translation:** 
 
-**[4432.64s] English:** One of the things I'm really concerned about is how little power young faculty have, that there's a kind of hierarchy seen.  
+**[4432.64s] English:** One of the things I'm really concerned about is how little power young faculty have—that there's a kind of hierarchy seen.  
 **Translation:** Vocabulary: hierarchy: 等级制度
 
-**[4440.00s] English:** seniority that universities have, empowered by the administration, where the young faculty  
+**[4440.00s] English:** Seniority that universities have, empowered by the administration, where the young faculty  
 **Translation:** 
 
-**[4446.84s] English:** that come in, they're kind of...  
+**[4446.84s] English:** That come in, they're kind of...  
 **Translation:** 
 
 **[4449.38s] English:** Pre-tenure.  
@@ -3058,22 +3059,22 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4452.38s] English:** There's a process in chasing tenure where you're kind of supposed to behave, and there's  
 **Translation:** 
 
-**[4458.98s] English:** an incentive to kind of fit in and to not be an outcast.  
-**Translation:** Vocabulary: incentive: 动机
+**[4458.98s] English:** An incentive to kind of fit in and to not be an outcast.  
+**Translation:** Vocabulary: chasing: 追求; incentive: 动力; outcast: 异类
 
-**[4463.56s] English:** And that's a really huge problem, because oftentimes the youth is when the craziest,  
+**[4463.56s] English:** And that's a really huge problem, because oftentimes the youth is when the craziest things happen.  
 **Translation:** 
 
-**[4470.48s] English:** the biggest ideas, the revolutionary ideas come.  
-**Translation:** Vocabulary: oftentimes: 经常
+**[4470.48s] English:** The biggest ideas, the revolutionary ideas come.  
+**Translation:** Vocabulary: oftentimes: 经常; revolutionary: 革命性的
 
 **[4472.70s] English:** And if you're forced to behave and fit in and not speak out, then even in the realm  
 **Translation:** 
 
-**[4478.24s] English:** of science, the innovation is stifled.  
-**Translation:** Vocabulary: stifled: 压抑
+**[4478.24s] English:** In science, innovation is stifled.  
+**Translation:** Vocabulary: stifled: 受抑制
 
-**[4481.50s] English:** Well, now you trigger my having to tell you this story.  
+**[4481.50s] English:** Well, now you've triggered me into telling you this story.  
 **Translation:** 
 
 **[4485.96s] English:** You're triggered.  
@@ -3083,49 +3084,49 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[4488.08s] English:** In the mid-1980s, I decided to take a four-month sabbatical from my law practice.  
-**Translation:** Vocabulary: sabbatical: 休假进修
+**Translation:** Vocabulary: sabbatical: 休假留职
 
 **[4493.56s] English:** Yes.  
 **Translation:** 
 
-**[4495.06s] English:** Professor James Vorenberg, who was at the time dean of the Harvard Law School, heard  
+**[4495.06s] English:** Professor James Vorenberg, who was at the time Dean of the Harvard Law School, heard  
 **Translation:** 
 
-**[4500.12s] English:** about it.  
+**[4500.12s] English:** About it.  
 **Translation:** 
 
-**[4500.98s] English:** Heard about it from his wife, Elizabeth Betty Vorenberg, whom I was very friendly with because  
+**[4500.98s] English:** Heard about it from his wife, Elizabeth Betty Vorenberg, whom I was very friendly with, because  
 **Translation:** Vocabulary: betty: 贝蒂; vorenberg: 沃伦伯格
 
-**[4506.96s] English:** we were both on the ACLU, the ACLU of Massachusetts Board at the time.  
+**[4506.96s] English:** We were both on the ACLU, the ACLU of Massachusetts Board at the time.  
 **Translation:** 
 
 **[4512.80s] English:** And Betty told Jim that Harvey was taking a sabbatical.  
+**Translation:** Vocabulary: harvey: 哈维
+
+**[4519.36s] English:** Jim called Harvey and asked if he would like to teach.  
 **Translation:** 
 
-**[4519.36s] English:** Jim called Harvey and asked Harvey if he would like to teach.  
+**[4523.56s] English:** And Harvey said, "Of course, at the Harvard Law School," because there was nobody who  
 **Translation:** 
 
-**[4523.56s] English:** And Harvey said, of course, at the Harvard Law School, because there was nobody who  
-**Translation:** 
-
-**[4527.84s] English:** had teaching criminal law from the perspective of somebody who actually was in court, litigated.  
+**[4527.84s] English:** Had teaching on criminal law from the perspective of someone who actually was in court and litigated.  
 **Translation:** 
 
 **[4535.62s] English:** It was all theoretical.  
 **Translation:** Vocabulary: litigated: 打过官司
 
-**[4537.84s] English:** I said, sure, I'll do it.  
+**[4537.84s] English:** I said, "Sure, I'll do it.  
 **Translation:** 
 
-**[4540.20s] English:** So I taught a semester at Harvard Law School.  
+**[4540.20s] English:** So, I taught a semester at Harvard Law School.  
 **Translation:** 
 
 **[4544.12s] English:** The student evaluations were fabulous.  
 **Translation:** 
 
 **[4546.50s] English:** Why?  
-**Translation:** Vocabulary: evaluations: 评估结果
+**Translation:** Vocabulary: evaluations: 评估; fabulous: 极好
 
 **[4546.86s] English:** Because it was really interesting.  
 **Translation:** 
@@ -3139,109 +3140,109 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4553.56s] English:** I did some of the classes.  
 **Translation:** 
 
-**[4556.08s] English:** And so Jim called me and said, Harvey, the students love you.  
+**[4556.08s] English:** And so Jim called me and said, "Harvey, the students love you.  
 **Translation:** 
 
-**[4560.00s] English:** this course i'd like to offer you a tenure track position at the law school you'd have to give up  
+**[4560.00s] English:** This course, I'd like to offer you a tenure-track position at the law school. You'd have to give up  
 **Translation:** 
 
-**[4565.76s] English:** your law practice i turned him down he said did you just say no i said yes i said no he said how  
+**[4565.76s] English:** Your law practice: I turned him down. He said, "Did you just say no?" I said, "Yes," I said no. He said, "How?  
 **Translation:** 
 
-**[4574.00s] English:** come he says nobody ever has ever in my administration has ever turned down a tenure  
+**[4574.00s] English:** Come, he says. Nobody, ever, has ever in my administration has ever turned down a tenure.  
 **Translation:** 
 
-**[4579.84s] English:** track offer at harvard law school i said because i could see that i'm not a good fit that the  
+**[4579.84s] English:** Track offer at Harvard Law School, I said, because I could see that I'm not a good fit that the  
 **Translation:** 
 
-**[4587.76s] English:** administrators are over run the place that faculty members especially untenured who are  
+**[4587.76s] English:** Administrators are overrun the place, that faculty members, especially untenured ones, are.  
+**Translation:** Vocabulary: untenured: 无固定教职的
+
+**[4595.12s] English:** Afraid to say things that might not get them help in the tenure quest, um, it's not a good fit.  
 **Translation:** 
 
-**[4595.12s] English:** afraid to say things that might not get help them in the tenure quest um it's um it's not a good fit  
+**[4604.64s] English:** For me, you saw this in the mid-1980s, all right? Yes, 1985. And I went back to my law practice.  
 **Translation:** 
 
-**[4604.64s] English:** for me you saw this in the mid 1980s all right yes 1985 and um i went back to my law practice  
+**[4613.76s] English:** I didn't want to get into this meat grinder.  
 **Translation:** 
 
-**[4613.76s] English:** i i did not want to get into this meat grinder  
-**Translation:** 
-
-**[4617.76s] English:** that i saw actually i had i started to see it before the turn of the century because i co-authored  
+**[4617.76s] English:** That I saw actually, I had started to see it before the turn of the century, because I co-authored  
 **Translation:** Vocabulary: grinder: 肉磨
 
-**[4624.96s] English:** the shadow university in 98 and then co-founded fire in 99 i'm an early student of this phenomenon  
+**[4624.96s] English:** The Shadow University in '98, and then co-founded Fire in '99; I'm an early student of this phenomenon.  
 **Translation:** 
 
-**[4635.52s] English:** what are some other aspects of this uh the book the shadow university  
+**[4635.52s] English:** What are some other aspects of this, uh, the book "The Shadow University"?  
 **Translation:** 
 
-**[4639.44s] English:** that we may have not covered well let me let me tell you a story i believe i tell it the  
+**[4639.44s] English:** That, we may not have covered well, let me tell you a story. I believe I tell it the  
 **Translation:** 
 
-**[4644.48s] English:** shadow university because it was part of i'm loving these stories  
+**[4644.48s] English:** Shadow University, because it was part of. I'm loving these stories!  
 **Translation:** 
 
-**[4648.24s] English:** the stories are fabulous let me tell you a story of um um i i i did a tour of the country go  
+**[4648.24s] English:** The stories are fabulous. Let me tell you a story: I did a tour of the country, go!  
 **Translation:** 
 
-**[4656.08s] English:** visiting campuses i visited a college called hamline university i believe it was in indiana  
-**Translation:** Vocabulary: hamline: 汉姆林大学
+**[4656.08s] English:** Visiting campuses, I visited a college called Hamline University; I believe it was in Minnesota.  
+**Translation:** Vocabulary: fabulous: 精彩的; hamline: 哈姆林大学
 
-**[4663.76s] English:** or illinois somewhere in the midwest and i i attended a freshman orientation now listen to this  
+**[4663.76s] English:** Or, in Illinois, somewhere in the Midwest, and I attended a freshman orientation. Now, listen to this.  
 **Translation:** 
 
-**[4672.88s] English:** this was a freshman orientation the administrators  
-**Translation:** Vocabulary: orientation: 入学介绍会
+**[4672.88s] English:** This was a freshman orientation; the administrators  
+**Translation:** Vocabulary: orientation: 入学引导
 
-**[4677.76s] English:** the deans and the dean  
+**[4677.76s] English:** The deans, and the dean.  
 **Translation:** 
 
-**[4680.00s] English:** and the deputy assistant deans and deanettes and the third deputy assistant deans and deanettes  
+**[4680.00s] English:** And the deputy assistant deans, deanettes, and the third deputy assistant deans, deanettes.  
 **Translation:** Vocabulary: deanettes: 副院长
 
-**[4686.02s] English:** lined the students up according to their skin hues oh boy the the blonde blue-eyed white folks  
+**[4686.02s] English:** Lined the students up according to their skin hues. Oh, boy. The blonde, blue-eyed white folks.  
 **Translation:** 
 
-**[4694.16s] English:** were at one end the darkest um you know african-americans who had whose bloodlines had  
+**[4694.16s] English:** Were at one end the darkest, um, you know, African-Americans who had whose bloodlines had  
 **Translation:** 
 
-**[4704.56s] English:** not yet mixed with any of the whites on the one the other end and the exercise was you had to tell  
+**[4704.56s] English:** Not yet mixed with any of the whites on the one; the other end, and the exercise was you had to tell.  
 **Translation:** 
 
-**[4712.48s] English:** how your race affected your success in life up until that point  
+**[4712.48s] English:** How did your race affect your success in life up until that point?  
 **Translation:** 
 
-**[4718.48s] English:** i thought it was the most demeaning thing that i could imagine demeaning i thought to myself  
+**[4718.48s] English:** I thought it was the most demeaning thing that I could imagine; demeaning, I thought to myself.  
 **Translation:** 
 
-**[4729.52s] English:** they could do the same about sexual orientation they could do the same about religion  
+**[4729.52s] English:** They could do the same about sexual orientation; they could do the same about religion.  
 **Translation:** 
 
-**[4734.56s] English:** they could listen about national origin it would be demeaning no matter what yeah and and the  
+**[4734.56s] English:** They could listen about national origin; it would be demeaning, no matter what. Yes, and...  
 **Translation:** 
 
-**[4741.86s] English:** students actually verbalized how their race had either been a plus or a minus they did they did  
+**[4741.86s] English:** Students actually verbalized how their race had either been a plus or a minus; they did.  
 **Translation:** Vocabulary: verbalized: 表达
 
-**[4751.80s] English:** and i thought it was so demeaning it just confirmed all of my distaste for this kind of  
+**[4751.80s] English:** And I thought it was so demeaning; it just confirmed all of my distaste for this kind of.  
 **Translation:** 
 
-**[4759.48s] English:** this kind of approach uh let me ask you from the interviewer seat so i get to do this podcast  
+**[4759.48s] English:** This kind of approach, uh, let me ask you from the interviewer's seat; so I get to do this podcast.  
 **Translation:** Vocabulary: distaste: 厌恶
 
-**[4767.56s] English:** and i often have to think about giving a large platform and having a conversation with very  
+**[4767.56s] English:** And I often have to think about giving a large platform and having a conversation with very  
 **Translation:** 
 
-**[4775.50s] English:** controversial figures and the the level of controversy has been slowly increasing uh what's  
+**[4775.50s] English:** Controversial figures, and the level of controversy has been slowly increasing. Uh, what's  
+**Translation:** Vocabulary: controversy: 争议
+
+**[4782.26s] English:** The role of this medium to you, uh, this medium of speech between two people.  
 **Translation:** 
 
-**[4782.26s] English:** the role of this medium to to you uh this medium of speech between two people  
+**[4789.48s] English:** And I'm speaking with a controversial figure, either me or some other interviewer.  
 **Translation:** 
 
-**[4789.48s] English:** and me speaking with a controversial figure me or some other interviewer  
-**Translation:** 
-
-**[4793.60s] English:** what's the role of uh giving platform to controversial figures say members of the  
+**[4793.60s] English:** What's the role of giving a platform to controversial figures, such as members of the  
 **Translation:** 
 
 **[4800.00s] English:** KKK, or dictators, people who are seen as evil?  
@@ -3251,12 +3252,12 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[4809.54s] English:** And the reality is that there are some unpleasantnesses in the world.  
-**Translation:** Vocabulary: unpleasantnesses: 不愉快之事
+**Translation:** Vocabulary: unpleasantnesses: 不愉快的事情
 
 **[4815.84s] English:** Running from genocide right through to ordinary discrimination, to offensiveness.  
 **Translation:** 
 
-**[4823.44s] English:** It's the real world as we know it exists.  
+**[4823.44s] English:** It's the real world, as we know it exists.  
 **Translation:** Vocabulary: genocide: 种族灭绝; offensiveness: 冒犯性
 
 **[4826.90s] English:** Are we afraid to say it?  
@@ -3268,16 +3269,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4833.92s] English:** Where those animosities don't exist?  
 **Translation:** 
 
-**[4837.66s] English:** The answer is no.  
+**[4837.66s] English:** The answer is: no.  
 **Translation:** 
 
-**[4839.18s] English:** But you can whitewash, you can normalize the use of those words,  
+**[4839.18s] English:** But you can whitewash; you can normalize the use of those words.  
 **Translation:** 
 
-**[4842.00s] English:** and you can whitewash the acceptability of certain leaders.  
+**[4842.00s] English:** And you can whitewash the acceptability of certain leaders.  
 **Translation:** Vocabulary: whitewash: 粉饰
 
-**[4845.86s] English:** So, for example, interviewing Hitler in 1938, 1935, 1936, 1937, 1938.  
+**[4845.86s] English:** So, for example, interviewing Hitler in 1935, 1936, 1937, 1938.  
 **Translation:** 
 
 **[4852.08s] English:** Those are all different dynamics there.  
@@ -3286,7 +3287,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4853.64s] English:** But you can normalize this person.  
 **Translation:** 
 
-**[4857.24s] English:** And in so doing, create...  
+**[4857.24s] English:** And in doing so, create....  
 **Translation:** 
 
 **[4858.22s] English:** Enormous harm.  
@@ -3304,352 +3305,352 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[4868.22s] English:** Franklin Roosevelt would have acted much sooner.  
 **Translation:** 
 
-**[4872.22s] English:** He only got us into the war,  
+**[4872.22s] English:** He only got us into the war.  
 **Translation:** 
 
-**[4875.22s] English:** asked Congress to get us into the war,  
+**[4875.22s] English:** Asked Congress to get us into the war.  
 **Translation:** 
 
-**[4877.22s] English:** when the Japanese made the mistake of attacking Pearl Harbor.  
+**[4877.22s] English:** When the Japanese made the mistake of attacking Pearl Harbor.  
 **Translation:** 
 
 **[4882.22s] English:** But there were some people in the State Department,  
 **Translation:** 
 
-**[4885.22s] English:** there were some people in the administration,  
+**[4885.22s] English:** There were some people in the administration,  
 **Translation:** 
 
-**[4887.22s] English:** who were trying,  
+**[4887.22s] English:** Who were trying,  
 **Translation:** 
 
-**[4888.22s] English:** trying to get Roosevelt to see what Hitler was really like.  
-**Translation:** 
+**[4888.22s] English:** Trying to get Roosevelt to see what Hitler was really like.  
+**Translation:** Vocabulary: hitler: 希特勒; roosevelt: 罗斯福
 
 **[4893.22s] English:** And he was blind to it.  
 **Translation:** 
 
-**[4895.22s] English:** This was one of the greatest Presidents the United States ever had.  
+**[4895.22s] English:** This was one of the greatest presidents the United States has ever had.  
 **Translation:** 
 
 **[4899.22s] English:** He was blind to it until the Japanese attacked Pearl Harbor.  
 **Translation:** 
 
-**[4905.22s] English:** So I think that words, unpleasant ideas, as expressed by words,  
+**[4905.22s] English:** So, I think that words, unpleasant ideas, as expressed by words,  
 **Translation:** 
 
-**[4912.22s] English:** are essential for communicating fact and truth and reality.  
+**[4912.22s] English:** Are essential for communicating fact, truth, and reality.  
 **Translation:** 
 
-**[4917.22s] English:** And that's why I...  
+**[4917.22s] English:** And that's why I....  
 **Translation:** 
 
-**[4920.00s] English:** think that we should not whitewash language we should not whitewash the  
+**[4920.00s] English:** Think that we should not whitewash language; we should not whitewash the  
 **Translation:** 
 
-**[4925.22s] English:** fact that Jeffrey Epstein was pretty close MIT and Harvard and Harvard and  
-**Translation:** Vocabulary: epstein: 埃普斯坦; jeffrey: 杰弗里
+**[4925.22s] English:** The fact that Jeffrey Epstein was pretty close to MIT and Harvard.  
+**Translation:** Vocabulary: epstein: 埃普斯坦; jeffrey: 杰弗里; whitewash: 粉饰
 
-**[4931.96s] English:** your reality reality actually means something yeah but from the role of the  
+**[4931.96s] English:** Your reality actually means something, yeah, but from the role of the  
 **Translation:** 
 
-**[4938.30s] English:** interviewer that's something I have to think a lot about whether interviewing  
+**[4938.30s] English:** Interviewer, that's something I have to think a lot about whether interviewing.  
 **Translation:** 
 
-**[4942.50s] English:** Hitler you said exposing I think it's hard to know what Hitler's like in a  
+**[4942.50s] English:** Hitler—you said, exposing—I think it's hard to know what Hitler was really like in a  
 **Translation:** 
 
-**[4949.12s] English:** room but it's also hard to know I've never met Jeffrey Epstein it's hard to  
+**[4949.12s] English:** Room, but it's also hard to know—I've never met Jeffrey Epstein; it's hard to  
 **Translation:** 
 
-**[4953.68s] English:** know what Jeffrey Epstein is like in a room but I imagine to some degree they're  
+**[4953.68s] English:** Know what Jeffrey Epstein is like in a room, but I imagine to some degree they're  
 **Translation:** 
 
-**[4958.24s] English:** charismatic figures so exposing them in the interview setting is not an easy  
+**[4958.24s] English:** Charismatic figures, so exposing them in the interview setting is not an easy task.  
 **Translation:** Vocabulary: charismatic: 有魅力的
 
-**[4963.62s] English:** task well interviewing is not an easy all right job yeah um it's it's not a  
+**[4963.62s] English:** Task: Well, interviewing is not an easy task, right? Job; yeah, it's not a  
 **Translation:** 
 
-**[4971.80s] English:** good idea to have an interview would be an idiot  
+**[4971.80s] English:** A good idea to have an interview would be an idiot.  
 **Translation:** 
 
-**[4975.92s] English:** I  
+**[4975.92s] English:** I.  
 **Translation:** 
 
-**[4979.12s] English:** know exactly what you're saying and I know why you're looking at me directly  
+**[4979.12s] English:** Know exactly what you're saying, and I know why you're looking at me directly.  
 **Translation:** 
 
-**[4982.18s] English:** as you say it I appreciate that Harvey all right let me ask about your your  
+**[4982.18s] English:** As you say it, I appreciate that, Harvey. All right, let me ask about your your  
 **Translation:** 
 
-**[4988.00s] English:** friend your colleague Alan Dershowitz and I'll also ask about your review of  
+**[4988.00s] English:** Friend, your colleague Alan Dershowitz, and I'll also ask about your review of.  
 **Translation:** Vocabulary: colleague: 同事
 
-**[4994.30s] English:** his most recent book but before then it'd be interesting to ask what you  
+**[4994.30s] English:** His most recent book, but before then, it would be interesting to ask what you  
 **Translation:** 
 
-**[4999.34s] English:** think of him as a human being as a lawyer he's a quite an interesting case  
+**[4999.34s] English:** Think of him as a human being, as a lawyer; he's quite an interesting case.  
 **Translation:** 
 
-**[5003.84s] English:** he's represented some of the most controversial figures in history  
+**[5003.84s] English:** He's represented some of the most controversial figures in history.  
 **Translation:** 
 
-**[5006.42s] English:** including Jeffrey Epstein including Jeffrey Epstein my  
+**[5006.42s] English:** Including Jeffrey Epstein, including Jeffrey Epstein, my...  
+**Translation:** Vocabulary: epstein: 艾伯特; jeffrey: 杰弗里
+
+**[5009.12s] English:** Tyson, Julian Assange, Jim Baker, and Jeffrey Epstein—and even Donald Trump, so  
 **Translation:** 
 
-**[5009.12s] English:** Tyson Julian Assange Jim Baker and Jeffrey Epstein and even Donald Trump so  
+**[5016.50s] English:** He's an interesting figure. What do you think about that class from Bulow?  
+**Translation:** Vocabulary: assange: 维基解密创始人; tyson: 拳击手泰森
+
+**[5021.74s] English:** Do you think, what do you think about him as a human being, as a lawyer?  
 **Translation:** 
 
-**[5016.50s] English:** he's an interesting figure what do you think about that class from Bulow what  
-**Translation:** Vocabulary: bulow: 布卢斯; tyson: 泰森
-
-**[5021.74s] English:** do you think what do you think about him as a human being as a lawyer what he  
+**[5025.56s] English:** Represents in terms of values and ideals, well, he's a criminal defense lawyer, and  
 **Translation:** 
 
-**[5025.56s] English:** represents in terms of values and ideals well he's a criminal defense lawyer and  
+**[5030.80s] English:** The job of a criminal defense lawyer is to represent accused criminals. He is a  
 **Translation:** 
 
-**[5030.80s] English:** the job of a criminal defense lawyer is to represent accused criminals he he is a  
+**[5039.12s] English:** Criminal defense lawyer in PR, pursuant to their rights, and he thought they are.  
+**Translation:** Vocabulary: criminals: 犯罪嫌疑人; pursuant: 依照
+
+**[5040.00s] English:** Long Democrat, he didn't represent Trump because he agrees with him politically, and voted for Hillary.  
 **Translation:** 
 
-**[5039.12s] English:** criminal defense lawyer in pra pursuant to their rights and he thought they are  
-**Translation:** Vocabulary: pursuant: 依照
+**[5041.08s] English:** Going to be  
+**Translation:** Vocabulary: democrat: 民主党人; hillary: 希拉里; politically: 在政治上
 
-**[5041.08s] English:** going to be  
+**[5045.92s] English:** I believe you wrote he voted for Hillary, yes? That's what he says, and I absolutely believe it.  
 **Translation:** 
 
-**[5057.32s] English:** actually  
+**[5050.58s] English:** He's a liberal Democrat, um, but he's also a criminal defense lawyer and a professor.  
 **Translation:** 
 
-**[5059.12s] English:** happen  
+**[5056.90s] English:** And, um, I've represented some very nasty people in my career. I wouldn't go out for coffee with them.  
 **Translation:** 
 
-**[5064.80s] English:** I  
+**[5057.32s] English:** Actually,  
 **Translation:** 
 
-**[5068.18s] English:** if  
+**[5059.12s] English:** Happen.  
 **Translation:** 
 
-**[5068.54s] English:** we  
+**[5064.80s] English:** I.  
 **Translation:** 
 
-**[5040.00s] English:** long democrat he didn't represent trump because he agrees with him politically voted for hillary  
+**[5066.66s] English:** With them, but they have the constitutional right to representation, and you take that very seriously.  
 **Translation:** 
 
-**[5045.92s] English:** i believe you wrote he voted for hillary yes that's what he says and i absolutely believe it  
-**Translation:** Vocabulary: democrat: 民主党人; politically: 在政治上
-
-**[5050.58s] English:** he's a he's a liberal democrat um but he's a criminal defense lawyer as well as a professor  
+**[5068.18s] English:** If  
 **Translation:** 
 
-**[5056.90s] English:** and um i've represented some very nasty people uh in in my career um i wouldn't go out for coffee  
+**[5068.54s] English:** We  
 **Translation:** 
 
-**[5066.66s] English:** with them but they have the constitutional rights to representation and you take that very  
+**[5073.12s] English:** Seriously, yes. You notice something that people don't understand about Dershowitz. He was asked:  
+**Translation:** Vocabulary: dershowitz: 戴斯霍茨
+
+**[5079.82s] English:** By Trump to represent him in the second impeachment, as well, he turned him down. Why do you think he did that?  
 **Translation:** 
 
-**[5073.12s] English:** seriously yes you notice something that people don't understand about dershowitz he was asked  
-**Translation:** Vocabulary: dershowitz: 戴斯海茨
-
-**[5079.82s] English:** by trump to represent him in the second impeachment as well he turned him down why do you think he  
-**Translation:** 
-
-**[5086.84s] English:** turned down so people should know he represented trump in the first impeachment he represented  
+**[5086.84s] English:** Turned down, so people should know that he represented Trump in the first impeachment; he represented.  
 **Translation:** Vocabulary: impeachment: 弹劾
 
-**[5090.98s] English:** only in the first and he was successful and when trump was impeached the second time he asked alan  
+**[5090.98s] English:** Only in the first impeachment, and he was successful. When Trump was impeached a second time, he asked Alan.  
 **Translation:** 
 
-**[5096.64s] English:** to represent him alan has had a lifelong policy of only representing somebody once  
-**Translation:** Vocabulary: impeached: 弹劾
+**[5096.64s] English:** To represent him, Alan has had a lifelong policy of only representing somebody once.  
+**Translation:** Vocabulary: impeached: 被弹劾
 
-**[5103.48s] English:** never twice why because he never wanted to be house counsel to the mafia  
+**[5103.48s] English:** Never twice, why? Because he never wanted to be house counsel to the mafia.  
 **Translation:** 
 
-**[5109.22s] English:** and so he early on had this position he only represents somebody once the mafia wants a lawyer  
+**[5109.22s] English:** And so, he early on had this position: he only represents someone once the Mafia wants a lawyer.  
 **Translation:** Vocabulary: mafia: 黑帮
 
-**[5119.86s] English:** who's an in-house counsel who represents them in all their cases so that's the  
+**[5119.86s] English:** Who's an in-house counsel who represents them in all their cases? So, that's the  
 **Translation:** 
 
-**[5126.62s] English:** reason and alan never publicly explained that i know it's a fact because i've known  
+**[5126.62s] English:** Reason and Alan never publicly explained that; I know it's a fact because I've known.  
 **Translation:** 
 
-**[5130.40s] English:** from the day that we met at harvard law school 1964 he was a first-year professor  
+**[5130.40s] English:** From the day that we met at Harvard Law School in 1964, he was a first-year professor.  
 **Translation:** 
 
-**[5135.24s] English:** i was a first-year student we both had bergland accents and we hit it off  
-**Translation:** Vocabulary: bergland: 贝格兰德
+**[5135.24s] English:** I was a first-year student, we both had Bergland accents, and we hit it off.  
+**Translation:** Vocabulary: accents: 口音
 
-**[5140.18s] English:** we've been close friends ever since so there's some kind of unethical line that's crossed when  
+**[5140.18s] English:** We've been close friends ever since, so there's some kind of unethical line that's crossed when.  
 **Translation:** 
 
-**[5145.88s] English:** you continuously represent a client yeah he thought it was not so much an ethical line you  
+**[5145.88s] English:** You continuously represented a client, yeah. He thought it wasn't so much an ethical line.  
 **Translation:** Vocabulary: unethical: 不道德的
 
-**[5152.70s] English:** have a right to represent mafia people but he didn't want to be house counsel  
+**[5152.70s] English:** He had a right to represent mafia people, but he didn't want to be house counsel.  
 **Translation:** 
 
-**[5156.62s] English:** he didn't want to be you know have them ask  
+**[5156.62s] English:** He didn't want to be, you know, have them ask.  
 **Translation:** 
 
-**[5160.00s] English:** him for advice in advance of what they were doing yeah he he was willing to represent somebody once  
+**[5160.00s] English:** He was willing to give them advice in advance of what they were doing, and yes, he was willing to represent someone once.  
 **Translation:** 
 
-**[5165.98s] English:** no matter how awful i mean klaus von bulow was accused of killing his wife these are pretty  
-**Translation:** Vocabulary: bulow: 布洛; klaus: Klaus
+**[5165.98s] English:** No matter how awful, I mean, Klaus von Bulow was accused of killing his wife; these are pretty  
+**Translation:** Vocabulary: bulow: 布洛; klaus: 克劳斯
 
-**[5171.70s] English:** nasty people um but he didn't want to be house counsel to any of them so you wrote a review of  
+**[5171.70s] English:** Nasty people, um, but he didn't want to be house counsel to any of them, so you wrote a review of.  
 **Translation:** 
 
-**[5182.28s] English:** alan dershowitz's new book yes on donald trump the title of that book is get trump the threat  
+**[5182.28s] English:** Alan Dershowitz's new book, "Yes on Donald Trump: The Title of That Book Is 'Get Trump: The Threat  
 **Translation:** 
 
-**[5187.84s] English:** to civil liberties due process and our constitutional rule of law can you summarize this book and your  
+**[5187.84s] English:** To civil liberties, due process, and our constitutional rule of law: Can you summarize this book and your findings?  
 **Translation:** 
 
-**[5194.04s] English:** review of it yes by the way i co-authored it with my research assistant who's sitting right here  
+**[5194.04s] English:** Review of it, yes. By the way, I co-authored it with my research assistant, who's sitting right here.  
 **Translation:** 
 
-**[5199.36s] English:** emily yes um and um i thought that the book was another example of the fact that everybody is  
+**[5199.36s] English:** Emily: Yes, um, and I thought that the book was another example of the fact that everyone is  
 **Translation:** 
 
-**[5209.62s] English:** entitled to a defense and that alan's um being involved with trump was purely professional it  
+**[5209.62s] English:** Entitled to a defense, and that Alan's being involved with Trump was purely professional. It  
 **Translation:** 
 
-**[5217.40s] English:** was not  
+**[5217.40s] English:** Was not  
 **Translation:** 
 
-**[5217.80s] English:** um  
+**[5217.80s] English:** Um.  
 **Translation:** 
 
-**[5217.82s] English:** I thought that the fact that he was being um uh criticized he was being shunned  
+**[5217.82s] English:** I thought that the fact that he was being, um, criticized, he was being shunned.  
 **Translation:** 
 
-**[5227.30s] English:** uh because of his connection to trump i found very interesting that this is a guy who represented  
-**Translation:** Vocabulary: shunned: 避而远之
+**[5227.30s] English:** Uh, because of his connection to Trump, I found it very interesting that this is a guy who represented  
+**Translation:** Vocabulary: shunned: 冷落
 
-**[5234.46s] English:** such um i call them distasteful figures as klaus von bulow uh as uh um mike tyson  
+**[5234.46s] English:** Such um, I call them distasteful figures, like Klaus von Bulow, and uh, like um, Mike Tyson.  
 **Translation:** 
 
-**[5247.04s] English:** uh as uh o.j simpson as sheldon siegel uh when he was considered to be um a skillful  
-**Translation:** Vocabulary: distasteful: 令人不快; siegel: 西格尔; skillful: 技艺高超; tyson: 泰森
+**[5247.04s] English:** Uh, as O.J. Simpson as Sheldon Siegel, when he was considered to be a skilled  
+**Translation:** Vocabulary: bulow: 布洛夫; distasteful: 令人反感的; klaus: 克劳斯; sheldon: 舍伦; siegel: 西格尔; simpson: 辛普森; skilled: 有技巧的; tyson: 泰森
 
-**[5258.38s] English:** lawyer made his reputation and then he represents to donald trump who to my knowledge never killed  
+**[5258.38s] English:** The lawyer made his reputation, and then he represents Donald Trump, who, to my knowledge, has never killed.  
 **Translation:** 
 
-**[5266.62s] English:** anybody um and he's suddenly shunned i thought the hypocrisy of it the political preening  
-**Translation:** Vocabulary: hypocrisy: 虚伪; preening: 自鸣得意
+**[5266.62s] English:** Anybody, um, and he's suddenly shunned. I thought the hypocrisy of it; the political preening.  
+**Translation:** Vocabulary: preening: 自鸣得意
 
-**[5275.88s] English:** mm-hmm  
+**[5275.88s] English:** Mm-hmm.  
 **Translation:** 
 
-**[5277.04s] English:** it was um very distasteful  
+**[5277.04s] English:** It was, um, very distasteful.  
 **Translation:** 
 
-**[5280.00s] English:** to me um and it was not only because he was my friend if he wasn't my friend i think i'd have  
+**[5280.00s] English:** To me, um, and it was not only because he was my friend; if he weren't my friend, I think I'd still have  
 **Translation:** 
 
-**[5285.86s] English:** the same view um the holier than thou nonsense uh the hypocrisy of it um you know they wouldn't  
+**[5285.86s] English:** The same view, um, the "holier than thou" nonsense, uh, the hypocrisy of it, um, you know, they wouldn't  
+**Translation:** Vocabulary: holier: 比别人更圣洁; hypocrisy: 虚伪
+
+**[5296.06s] English:** Talk to him through Alan, though Alan and I are different. I'm not so sensitive; I'm someone who...  
 **Translation:** 
 
-**[5296.06s] English:** talk to him off his vian though alan and i are different i'm not so sensitive i'm someone doesn't  
+**[5302.88s] English:** Want to talk to me? No problem, no problem at all. Um, but Alan is considering how controversial his statement might be.  
 **Translation:** 
 
-**[5302.88s] English:** want to talk to me no problem no problem at all um but alan is considering how controversial his  
+**[5312.10s] English:** Life has been somewhat sensitive for him, and I'm telling you, you know.  
 **Translation:** 
 
-**[5312.10s] English:** life has been he's somewhat sensitive he's somewhat sensitive and i'm telling you you know  
+**[5317.66s] English:** Alan, don't let it get to you. You know, hey, I can relate. I can definitely relate to taking on.  
 **Translation:** 
 
-**[5317.66s] English:** alan don't let it get to you you know hey i can relate i can i can definitely relate taking on  
+**[5322.66s] English:** Some controversial conversations still wear my heart on my sleeve; it hurts, all of it. Yep.  
 **Translation:** 
 
-**[5322.66s] English:** some controversial conversations still wear my heart on my sleeve it hurts all of it hurts yep  
+**[5326.96s] English:** But maybe the pain makes you a better, uh, student of human nature. Yep, maybe that's the case.  
 **Translation:** 
 
-**[5326.96s] English:** but maybe the pain makes you a better uh student of human nature yep maybe that's the case for  
+**[5332.86s] English:** He, nevertheless, the book makes a complicated and, I think, an interesting point.  
 **Translation:** 
 
-**[5332.86s] English:** him nevertheless the book has a makes a a complicated and i think an interesting point  
-**Translation:** 
-
-**[5338.78s] English:** he opens the pair he opens the book with now that donald trump has announced his candidacy for  
+**[5338.78s] English:** He opens the pair, he opens the book with, now that Donald Trump has announced his candidacy for.  
 **Translation:** Vocabulary: candidacy: 参选资格
 
-**[5345.08s] English:** re-election as president the unremitting efforts by his political opponents to quote get him to  
+**[5345.08s] English:** Re-election as president, the unremitting efforts by his political opponents to get him to  
 **Translation:** 
 
-**[5352.06s] English:** stop him from running at any cost will only increase these efforts may pose the most  
-**Translation:** Vocabulary: unremitting: 坚持不懈
+**[5352.06s] English:** Stop him from running at any cost will only increase these efforts, which may pose the most  
+**Translation:** Vocabulary: opponents: 反对者; unremitting: 不屈不挠的
 
-**[5357.26s] English:** significant threat to civil liberty since mccarthyism so is he right he's absolutely right  
+**[5357.26s] English:** Significant threat to civil liberty since McCarthyism: so, is he right? He's absolutely right.  
 **Translation:** 
 
-**[5362.72s] English:** he's absolutely right  
+**[5362.72s] English:** He's absolutely right.  
 **Translation:** 
 
-**[5362.86s] English:** because these attempted pros for example the prosecution the the one prosecution that has  
+**[5362.86s] English:** Because these attempted pros, for example, the prosecution—the one prosecution—that has  
 **Translation:** 
 
-**[5369.78s] English:** been brought now alvin bragg in in the manhattan i have looked at that and i don't believe that  
+**[5369.78s] English:** Been brought now, Alvin Bragg, in Manhattan. I have looked at that, and I don't believe that.  
 **Translation:** 
 
-**[5375.98s] English:** trump has committed a crime and yet bragg was pressured to bring that people in his office  
+**[5375.98s] English:** Trump has committed a crime, and yet Bragg was pressured to bring those people in his office.  
 **Translation:** 
 
-**[5382.56s] English:** were threatening to quit if he didn't indict wholly improper wholly unethical um and he's  
-**Translation:** Vocabulary: bragg: 布雷格; indict: 起诉; unethical: 不道德
+**[5382.56s] English:** Were threatening to quit if he didn't indict, wholly improper and wholly unethical. Um, and he's  
+**Translation:** Vocabulary: bragg: 布雷格; improper: 不恰当; indict: 起诉; unethical: 不道德
 
-**[5388.80s] English:** going to lose the case has trump committed crimes yes  
+**[5388.80s] English:** Going to lose the case, has Trump committed crimes? Yes.  
 **Translation:** 
 
-**[5392.86s] English:** most of their tax crimes um if his uh he has cheated on taxes his whole career  
+**[5392.86s] English:** Most of their tax crimes, if he has cheated on taxes throughout his entire career,/umdah  
+**Translation:** Vocabulary: cheated: 欺骗
+
+**[5400.00s] English:** As far as I could tell, he could easily be indicted for state and federal taxes, but those that they're  
 **Translation:** 
 
-**[5400.00s] English:** as far as i could tell he could easily be indicted for state and federal taxes but those that they're  
-**Translation:** 
-
-**[5407.60s] English:** not as sexy and um i think that um he's become a target um by ambitious politicians ambitious  
+**[5407.60s] English:** Not as sexy, and I think that he's become a target by ambitious politicians.  
 **Translation:** Vocabulary: indicted: 被起诉
 
-**[5418.64s] English:** prosecutors he has gotten some sympathy which he doesn't deserve and um a lot of it is is you'll  
+**[5418.64s] English:** Producers have gotten some sympathy, which he doesn't deserve, and a lot of it is because, you'll  
 **Translation:** 
 
-**[5427.28s] English:** pardon the phrase political correctness the better people are not supposed to be trumpers  
-**Translation:** Vocabulary: correctness: 正确性; prosecutors: 检察官; trumpers: 吹鼓手
-
-**[5434.56s] English:** um i i had an interesting experience about trump i had two interesting experiences the  
+**[5427.28s] English:** Pardon the phrase, but politically correct people are not supposed to be hypocrites.  
 **Translation:** 
 
-**[5441.36s] English:** more recent one was i was in the house of laurence summers the former president of harvard who was  
+**[5434.56s] English:** Um, I had an interesting experience with Trump. I had two interesting experiences.  
 **Translation:** 
 
-**[5449.84s] English:** driven out by political correctness by the way he insulted women biologists um i was in  
+**[5441.36s] English:** More recent, it was in the house of Lawrence Summers, the former President of Harvard, who was  
 **Translation:** 
 
-**[5457.28s] English:** his house when he was still president of harvard uh when the trump hillary clinton contest took  
-**Translation:** Vocabulary: biologists: 生物学家; hillary: 希拉里; insulted: 侮辱
-
-**[5467.36s] English:** place and i was with elsa um we were invited to summer's house in brookline and um it looked like  
+**[5449.84s] English:** Driven out by political correctness, by the way he insulted women biologists, um, I was in.  
 **Translation:** 
 
-**[5481.84s] English:** hillary was going to win and the harvard faculty members they were all celebrating they were all  
-**Translation:** Vocabulary: brookline: 布鲁克林
+**[5457.28s] English:** His house, when he was still president of Harvard, uh, when the Trump-Hillary Clinton contest took place.  
+**Translation:** Vocabulary: biologists: 生物学家; correctness: 正确性; insulted: 侮辱
 
-**[5487.28s] English:** figuring out what their cabinet positions were going to be blah blah blah blah and then about  
+**[5467.36s] English:** Place, and I was with Elsa. We were invited to Summer's house in Brookline, and it looked like  
 **Translation:** 
 
-**[5492.64s] English:** 11 30 at night all of a sudden it was announced that in terms of electoral votes trump had just  
+**[5481.84s] English:** Hillary was going to win, and the Harvard faculty members were all celebrating; they were all  
+**Translation:** Vocabulary: brookline: 布鲁克林; hillary: 希拉里
+
+**[5487.28s] English:** Figuring out what their cabinet positions were going to be, blah, blah, blah, and then about  
 **Translation:** 
 
-**[5498.96s] English:** eked out of victory that hillary beat him in the popular vote but he had won the electoral  
+**[5492.64s] English:** At 11:30 at night, all of a sudden it was announced that in terms of electoral votes, Trump had just  
+**Translation:** Vocabulary: electoral: 选举的
+
+**[5498.96s] English:** Extracted from victory, Hillary beat him in the popular vote, but he had won the electoral.  
 **Translation:** 
 
-**[5506.56s] English:** college and um there was immediate depression and um that was like quiet over the room the room was  
+**[5506.56s] English:** College, and there was an immediate depression. And that was quite quiet over the room; the room was  
 **Translation:** 
 
-**[5517.28s] English:** absolutely stone solid  
+**[5517.28s] English:** Absolutely stone-solid.  
 **Translation:** 
 
 **[5520.00s] English:** And they were all, you know, disappointed.  
@@ -3671,13 +3672,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[5547.16s] English:** I think it blinds people to reality.  
-**Translation:** Vocabulary: preening: 自我炫耀
+**Translation:** Vocabulary: blinds: 使盲目; preening: 自鸣得意
 
 **[5550.42s] English:** And the resulting arrogance from such ambition.  
 **Translation:** 
 
 **[5552.56s] English:** And the arrogance, yes.  
-**Translation:** Vocabulary: arrogance: 傲慢
+**Translation:** Vocabulary: arrogance: 自大
 
 **[5554.40s] English:** It's one of the reasons I didn't accept Jim Vorenberg's offer to be part of the academic community.  
 **Translation:** 
@@ -3703,10 +3704,10 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5575.16s] English:** I thought that it was not good for me.  
 **Translation:** 
 
-**[5577.92s] English:** And not good for the institution.  
+**[5577.92s] English:** And it's not good for the institution.  
 **Translation:** 
 
-**[5579.16s] English:** And not good for the institution either.  
+**[5579.16s] English:** And it's not good for the institution, either.  
 **Translation:** 
 
 **[5581.16s] English:** A culture that can breed arrogance.  
@@ -3721,7 +3722,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5585.16s] English:** Yep.  
 **Translation:** 
 
-**[5586.16s] English:** And in a sense, the election of Donald Trump was a big F.U. to such characters.  
+**[5586.16s] English:** And, in a sense, the election of Donald Trump was a big F.U. to such characters.  
 **Translation:** 
 
 **[5592.16s] English:** Correct.  
@@ -3736,14 +3737,14 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5604.16s] English:** What do you think about the mass surveillance programs by the NSA?  
 **Translation:** 
 
-**[5607.16s] English:** And also probably by other organizations?  
-**Translation:** 
+**[5607.16s] English:** And also, probably by other organizations?  
+**Translation:** Vocabulary: surveillance: 监视
 
-**[5608.66s] English:** CIA, FBI and others.  
+**[5608.66s] English:** CIA, FBI, and others.  
 **Translation:** 
 
 **[5610.66s] English:** And broadly, what do you think about the importance of privacy for the American citizen?  
-**Translation:** 
+**Translation:** Vocabulary: broadly: 广泛地
 
 **[5619.66s] English:** Okay.  
 **Translation:** 
@@ -3763,13 +3764,28 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5638.66s] English:** That it is impossible.  
 **Translation:** 
 
-**[5639.66s] English:** That it is no longer possible to counsel on Channel 6's  
+**[5639.66s] English:** That it is no longer possible to counsel on Channel 6's.  
 **Translation:** 
 
-**[5665.36s] English:** website.  
+**[5640.00s] English:** To reform the FBI, to make its agents honest, to force them to obey the Constitution,  
+**Translation:** 
+
+**[5649.74s] English:** The First, Fourth, and Fifth Amendments, especially.  
+**Translation:** 
+
+**[5655.44s] English:** And it's a culture that cannot be changed.  
+**Translation:** 
+
+**[5660.32s] English:** Hoover established the culture, and no FBI director since has been able to change it.  
+**Translation:** 
+
+**[5665.36s] English:** Website.  
 **Translation:** 
 
 **[5666.38s] English:** J. Edgar Hoover.  
+**Translation:** 
+
+**[5666.44s] English:** If you go online, I did find a video on YouTube for the ACLU of Massachusetts.  
 **Translation:** 
 
 **[5667.10s] English:** On CNN.  
@@ -3778,25 +3794,10 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5667.26s] English:** J. Edgar Hoover.  
 **Translation:** 
 
-**[5640.00s] English:** to reform the FBI, to make its agents honest, to force them to obey the Constitution,  
-**Translation:** 
-
-**[5649.74s] English:** the First, Fourth, and Fifth Amendments especially.  
-**Translation:** 
-
-**[5655.44s] English:** And it's a culture that cannot be changed.  
-**Translation:** Vocabulary: cannot: 不能
-
-**[5660.32s] English:** Hoover established the culture, and no FBI director since has been able to change it.  
-**Translation:** 
-
-**[5666.44s] English:** If you go online, I did on YouTube a video for the ACLU of Massachusetts.  
-**Translation:** 
-
 **[5675.78s] English:** It was when I was on the board.  
 **Translation:** 
 
-**[5677.06s] English:** It was probably when I was president of the board.  
+**[5677.06s] English:** It was probably when I was President of the Board.  
 **Translation:** 
 
 **[5678.98s] English:** I was president of the board for two years.  
@@ -3817,13 +3818,13 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5697.50s] English:** Yes.  
 **Translation:** Vocabulary: intuition: 直觉
 
-**[5698.08s] English:** Why not to talk to an FBI agent?  
+**[5698.08s] English:** Why not talk to an FBI agent?  
 **Translation:** 
 
 **[5699.24s] English:** They have a system.  
 **Translation:** 
 
-**[5701.24s] English:** When they come in and interview you, two agents show up, never one.  
+**[5701.24s] English:** When they come in and interview you, two agents show up—never one.  
 **Translation:** 
 
 **[5707.26s] English:** One asks the question.  
@@ -3835,281 +3836,281 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[5709.80s] English:** The note-taking agent takes notes.  
 **Translation:** 
 
-**[5711.84s] English:** And then goes back to the office and types up a report called a Form 302, which is the official record of what was asked and answered.  
+**[5711.84s] English:** And then he goes back to the office and types up a report called a Form 302, which is the official record of what was asked and answered.  
 **Translation:** 
 
-**[5723.54s] English:** So when I have a client interviewed by the FBI, I show up, and I always agree, almost always agree to the interview.  
+**[5723.54s] English:** So, when I have a client interviewed by the FBI, I show up, and I always agree—almost always—to the interview.  
 **Translation:** 
 
-**[5739.60s] English:** But I bring a tape recorder, and I say, all right, I'm going to tape this.  
+**[5739.60s] English:** But I bring a tape recorder, and I say, "All right, I'm going to tape this.  
 **Translation:** 
 
-**[5745.06s] English:** And they say, well, by regulation, we're not allowed to do the interview if it's taped.  
+**[5745.06s] English:** And they say, "Well, by regulation, we're not allowed to do the interview if it's taped.  
 **Translation:** 
 
-**[5751.16s] English:** The record is the 302.  
+**[5751.16s] English:** The record is 302.  
 **Translation:** 
 
 **[5753.54s] English:** The agent is taking notes.  
 **Translation:** 
 
-**[5755.60s] English:** I say, well, I have a policy, too.  
+**[5755.60s] English:** I say, "Well, I have a policy, too.  
 **Translation:** 
 
 **[5758.82s] English:** My policy is to never talk to an FBI agent.  
 **Translation:** 
 
-**[5760.00s] English:** allow a client to be interviewed unless it's recorded so it's unfortunate but we're going  
+**[5760.00s] English:** Allow a client to be interviewed unless it's recorded, so it's unfortunate, but we're going.  
 **Translation:** 
 
-**[5765.90s] English:** to have to end this meeting and the agents get up and leave and the i've never seen a form 302  
+**[5765.90s] English:** To have to end this meeting, and the agents get up and leave, and I've never seen a Form 302.  
 **Translation:** 
 
-**[5774.72s] English:** that i considered to be accurate the agents write down what they wish you had said yeah  
+**[5774.72s] English:** That I considered to be accurate, the agents write down what they wish you had said, yeah.  
 **Translation:** 
 
-**[5782.72s] English:** rather than what you said it is a wholly corrupt organization that has not gotten any better since  
+**[5782.72s] English:** Rather than what you said, it is a wholly corrupt organization that has not gotten any better since.  
+**Translation:** Vocabulary: corrupt: 贪污的
+
+**[5790.56s] English:** The Hoover died, and fundamentally, the corruption is in the culture that is, uh, resisting.  
 **Translation:** 
 
-**[5790.56s] English:** the hoover died and fundamentally the the corruption is in the culture that is uh resisting  
+**[5797.26s] English:** The Constitution of the United States corrects the first, Fourth, and Fifth Amendments.  
+**Translation:** Vocabulary: fundamentally: 本质上; resisting: 抵制
+
+**[5802.50s] English:** It's not financial corruption; it is, um, corruption of the mission.  
 **Translation:** 
 
-**[5797.26s] English:** the the the constitution of the united states correct the first and fourth and fifth correct  
-**Translation:** Vocabulary: fundamentally: 从根本上; hoover: 霍华德
+**[5809.20s] English:** And, um, I think it should be abolished.  
+**Translation:** Vocabulary: abolished: 废除
 
-**[5802.50s] English:** it's not it's not financial corruption it is um it is corruption of the mission  
+**[5812.72s] English:** And if we need a federal investigative agency,  
 **Translation:** 
 
-**[5809.20s] English:** and um i think it should be abolished  
-**Translation:** 
-
-**[5812.72s] English:** and if we need a federal investigative agency  
-**Translation:** 
-
-**[5815.54s] English:** should be a new name a new culture wholly new members a new director and um it's it's impossible  
+**[5815.54s] English:** Should be a new name, a new culture, wholly new members, a new director, and, um, it's impossible.  
 **Translation:** Vocabulary: investigative: 调查的
 
-**[5825.06s] English:** to uh to reform the fbi can you elaborate on what exactly is broken about the fbi is it the  
+**[5825.06s] English:** To reform the FBI, can you elaborate on what exactly is broken about the FBI? Is it the...  
 **Translation:** 
 
-**[5831.66s] English:** the the famous saying um from uh stalin's kg uh kgb head uh barry uh show me the man and i'll  
+**[5831.66s] English:** The famous saying, from Stalin's KGB head, was, "Show me the man, and I'll show you the crime.  
 **Translation:** Vocabulary: elaborate: 详细说明
 
-**[5839.64s] English:** show you the crime right is it that kind of process  
+**[5839.64s] English:** Show you the crime, right? Is it that kind of process?  
 **Translation:** 
 
-**[5842.46s] English:** it's  
+**[5842.46s] English:** It's  
 **Translation:** 
 
-**[5842.70s] English:** it's that kind of process they decide who's guilty and then they go about concocting a case against  
+**[5842.70s] English:** It's that kind of process they decide who's guilty, and then they go about concocting a case against.  
 **Translation:** 
 
-**[5847.88s] English:** the person who's who who they want to get so the goal is not to find the truth or uh to solve the  
+**[5847.88s] English:** The person they want to get. The goal is not to find the truth or to solve the  
 **Translation:** Vocabulary: concocting: 编造证据
 
-**[5856.08s] English:** solve the case and close it and enhance their reputations but to show that an innocent man  
+**[5856.08s] English:** Solve the case and close it, and enhance their reputations, but to show that an innocent man  
 **Translation:** 
 
-**[5862.72s] English:** is guilty is also solving the case from their perspective so to falsely convict or falsely in  
-**Translation:** Vocabulary: convict: 定罪; falsely: 错误地; reputations: 声誉
+**[5862.72s] English:** Is guilty, is also solving the case from their perspective, so to falsely convict or falsely incarcerate someone.  
+**Translation:** Vocabulary: convict: 定罪; enhance: 提升; falsely: 错误地; incarcerate: 监禁; reputations: 声誉
 
-**[5871.92s] English:** prison i don't know i don't know i don't know i don't know i don't know i don't know i don't know  
+**[5871.92s] English:** Prison? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.  
 **Translation:** 
 
-**[5872.44s] English:** i don't know i don't know i don't know i don't know i don't know i don't know i don't know i don't know  
+**[5872.44s] English:** I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know.  
 **Translation:** 
 
-**[5872.90s] English:** an innocent man is also solving the case well it closes the case if they falsely imprison an  
+**[5872.90s] English:** An innocent man is also solving the case. Well, it closes the case if they falsely imprison him.  
 **Translation:** 
 
-**[5878.32s] English:** innocent man there is  
+**[5878.32s] English:** Innocent man, there is.  
 **Translation:** Vocabulary: imprison: 关押
 
-**[5880.00s] English:** in closing cases so that's the fbi but uh broadly speaking about the surveillance aspect of this  
+**[5880.00s] English:** In closing, cases so that's the FBI, but, broadly speaking, about the surveillance aspect of this.  
 **Translation:** 
 
-**[5887.04s] English:** what are your views on the the the right that an american citizen has to privacy  
+**[5887.04s] English:** What are your views on the right that an American citizen has to privacy?  
+**Translation:** Vocabulary: broadly: 大致; surveillance: 监视
+
+**[5893.68s] English:** Well, wiretapping and electronic surveillance are very, very intrusive, and I think that the  
 **Translation:** 
 
-**[5893.68s] English:** well wiretapping and electronic surveillance are very very intrusive and i think that the  
+**[5903.04s] English:** Circumstances that these tools are used should be narrowed, for example, they're used in a lot of drug-related applications.  
+**Translation:** Vocabulary: intrusive: 侵犯隐私; narrowed: 缩小范围; wiretapping: 窃听
+
+**[5912.32s] English:** Cases, since I don't think drugs should be illegal in any event, I certainly think that it's a terrible  
 **Translation:** 
 
-**[5903.04s] English:** circumstances that these tools are used should be narrowed for example they're used in a lot of drug  
-**Translation:** Vocabulary: intrusive: 侵犯隐私; narrowed: 限制使用; wiretapping: 窃听
-
-**[5912.32s] English:** cases since i don't think drugs should be illegal in any event i certainly think that it's a terrible  
+**[5918.96s] English:** Violation of privacy to use wiretapping in a drug case, I could see it. In cases of murder, too.  
 **Translation:** 
 
-**[5918.96s] English:** violation of privacy to to use wiretapping in a drug case i could see it in cases of murder  
+**[5931.44s] English:** Possibly, in  
 **Translation:** 
 
-**[5931.44s] English:** possibly in  
+**[5933.04s] English:** Cases of serious extortion, but on other kinds of crimes with a wiretap, especially drug cases.  
+**Translation:** Vocabulary: extortion: 敲诈; wiretap: 窃听
+
+**[5941.84s] English:** I believe drugs should all be legalized, anyway. I think it's, um, the  
 **Translation:** 
 
-**[5933.04s] English:** cases of serious extortion but on other kinds of crimes with a wiretap especially drug cases  
-**Translation:** Vocabulary: extortion: 敲诈; wiretap: 监听
-
-**[5941.84s] English:** i believe drugs should all be legalized anyway um i think it's um the the the  
-**Translation:** 
-
-**[5949.28s] English:** the price we pay as a society is not worth it there's uh on the wikipedia page for nothing to  
+**[5949.28s] English:** The price we pay as a society is not worth it. There's, uh, on the Wikipedia page for "nothing,  
 **Translation:** Vocabulary: legalized: 合法化
 
-**[5955.44s] English:** hide you're cited in fact your book that you gave me today three felonies a day is cited  
+**[5955.44s] English:** Hide: You're cited, in fact. Your book that you gave me today, "Three Felonies a Day," is cited.  
 **Translation:** 
 
-**[5961.20s] English:** so nothing to hide argument that's  
-**Translation:** Vocabulary: cited: 引用; felonies: 罪行
+**[5961.20s] English:** So, "nothing to hide" argument, that's  
+**Translation:** Vocabulary: cited: 被引用; felonies: 罪行
 
-**[5963.04s] English:** an argument that uh if you're a well-behaved citizen you have nothing to hide and therefore  
+**[5963.04s] English:** An argument that, if you're a well-behaved citizen, you have nothing to hide, and therefore  
 **Translation:** 
 
-**[5969.04s] English:** your privacy can be violated well the problem is that under the federal criminal code  
+**[5969.04s] English:** Your privacy can be violated, and the problem is that under the federal criminal code,  
 **Translation:** Vocabulary: violated: 侵犯
 
-**[5975.92s] English:** particularly the federal criminal code  
+**[5975.92s] English:** Particularly, the Federal Criminal Code.  
 **Translation:** 
 
-**[5980.96s] English:** it is very easy to be charged with a crime now why  
+**[5980.96s] English:** It is very easy to be charged with a crime now, why?  
 **Translation:** 
 
-**[5986.72s] English:** under the constitution the federal government does not have plenary criminal  
+**[5986.72s] English:** Under the Constitution, the federal government does not have plenary criminal authority.  
 **Translation:** 
 
-**[5993.04s] English:** jurisdiction that's up to the states how is it that the feds  
-**Translation:** Vocabulary: plenary: 全权的
+**[5993.04s] English:** Jurisdiction that's up to the states. How is it that the Feds handle this?  
+**Translation:** Vocabulary: plenary: 全面的
 
-**[6000.00s] English:** indict in so many areas of american life it's because the supreme court has allowed the  
+**[6000.00s] English:** In so many areas of American life, it's because the Supreme Court has allowed the  
 **Translation:** 
 
-**[6006.80s] English:** following absolutely insane situation to prevail anything can be made a federal crime if in the  
-**Translation:** Vocabulary: indict: 起诉
-
-**[6017.44s] English:** course of the commission of the crime the means of interstate communication or travel are used  
+**[6006.80s] English:** Following an absolutely insane situation, anything can be made a federal crime if in the  
 **Translation:** 
 
-**[6026.88s] English:** that means that if you commit a crime which was ordinarily would be a state crime and you use the  
+**[6017.44s] English:** During the course of the commission of the crime, the means of interstate communication or travel are used.  
+**Translation:** 
+
+**[6026.88s] English:** That means that if you commit a crime which is ordinarily a state crime, and you use the  
 **Translation:** Vocabulary: interstate: 跨州的; ordinarily: 通常
 
-**[6034.86s] English:** telephone or you send a letter it suddenly becomes federal that means that the limitation that the  
+**[6034.86s] English:** Telephone, or you send a letter; it suddenly becomes federal, which means that the limitations...  
 **Translation:** 
 
-**[6044.46s] English:** founding fathers who wrote the constitution intended to keep the feds out of daily life  
+**[6044.46s] English:** Founding Fathers who wrote the Constitution intended to keep the feds out of daily life.  
 **Translation:** Vocabulary: founding: 创立
 
-**[6052.62s] English:** and to give that jurisdiction to the state  
+**[6052.62s] English:** And to give that jurisdiction to the state.  
 **Translation:** 
 
-**[6056.88s] English:** has been completely thwarted because i can't think of a case where somebody doesn't use a telephone  
+**[6056.88s] English:** Has been completely thwarted because I can't think of a case where somebody doesn't use a telephone.  
 **Translation:** Vocabulary: thwarted: 受阻
 
-**[6066.16s] English:** in the course of planning discussing something that's arguably criminal  
+**[6066.16s] English:** In the course of planning and discussing something that is arguably criminal,  
 **Translation:** 
 
-**[6074.00s] English:** and so this limited authority the federal government  
-**Translation:** Vocabulary: arguably: 或许
+**[6074.00s] English:** And so, this limited authority of the federal government,...  
+**Translation:** Vocabulary: arguably: 似乎合法地
 
-**[6080.40s] English:** to bring charges in criminal cases is illusory feds can  
+**[6080.40s] English:** To bring charges in criminal cases is illusory; feds can't.  
 **Translation:** 
 
-**[6086.88s] English:** indict a ham sandwich so basically everybody's guilty and if uh if if the if the feds want to  
+**[6086.88s] English:** Indict a ham sandwich, so basically everybody's guilty, and if the feds want to...  
+**Translation:** Vocabulary: indict: 起诉
+
+**[6095.44s] English:** Bring them in, and they can find a way to terrorize people who are dissidents.  
 **Translation:** 
 
-**[6095.44s] English:** bring you in they can find a way and that allows them to terrorize people who are dissidents  
-**Translation:** 
-
-**[6102.88s] English:** yeah what is broken what works about the american criminal justice system from your perspective from  
+**[6102.88s] English:** Yeah, what is broken, what works about the American criminal justice system from your perspective?  
 **Translation:** Vocabulary: dissidents: 反对派; terrorize: 恐吓
 
-**[6110.48s] English:** the jury the jury system the jury system yes you like the jury system everyday citizens representing  
+**[6110.48s] English:** The jury, the jury system—yes, you like the jury system, with everyday citizens representing  
 **Translation:** 
 
-**[6116.88s] English:** 12 ordinary people have to  
+**[6116.88s] English:** 12 ordinary people have to.  
 **Translation:** 
 
-**[6120.00s] English:** unanimously in order to convict what do you think about the highest court in the  
+**[6120.00s] English:** Unanimously, in order to convict, what do you think about the highest court in the  
 **Translation:** 
 
-**[6127.56s] English:** land the Supreme Court what works and what is broken about the Supreme Court  
+**[6127.56s] English:** Land the Supreme Court: What Works and What Is Broken About the Supreme Court  
 **Translation:** Vocabulary: convict: 定罪; unanimously: 一致
 
-**[6130.98s] English:** as an institution what are its strengths and weaknesses well the Supreme Court is  
+**[6130.98s] English:** As an institution, what are its strengths and weaknesses? Well, the Supreme Court is  
 **Translation:** 
 
-**[6135.60s] English:** is is unfortunately fairly political and the current Supreme Court is overruling  
+**[6135.60s] English:** Is it unfortunately fairly political, and the current Supreme Court is overruling?  
 **Translation:** 
 
-**[6145.50s] English:** precedents which are it's really improper in precedence cannot should not  
+**[6145.50s] English:** Precedents which are really improper in precedence cannot should not.  
 **Translation:** 
 
-**[6152.22s] English:** be overruled so easily it's about to overrule the affirmative action now I'm  
-**Translation:** Vocabulary: affirmative: 肯定行动; cannot: 不可以; overrule: 推翻; overruled: 被推翻; precedence: 优先权; precedents: 先例
+**[6152.22s] English:** It's been overruled so easily; it's about to overrule the affirmative action now, I'm  
+**Translation:** Vocabulary: affirmative: 肯定的; cannot: 不可以; improper: 不恰当的; overrule: 推翻; overruled: 已被推翻; precedence: 优先权; precedents: 先例
 
-**[6161.26s] English:** opposed to affirmative action I think I made that clear earlier in our discussion  
+**[6161.26s] English:** Opposed to affirmative action, I think I made that clear earlier in our discussion.  
 **Translation:** 
 
-**[6165.54s] English:** but still it's a precedent and it should be given some respect but in order to in  
+**[6165.54s] English:** But still, it's a precedent and it should be given some respect. But, in order to,  
 **Translation:** Vocabulary: precedent: 先例
 
-**[6174.74s] English:** order to  
+**[6174.74s] English:** To  
 **Translation:** 
 
-**[6175.34s] English:** to  
+**[6175.34s] English:** To  
 **Translation:** 
 
-**[6175.46s] English:** to  
+**[6175.46s] English:** To  
 **Translation:** 
 
-**[6175.48s] English:** a in order to propagate a more conservative  
+**[6175.48s] English:** A: In order to propagate a more conservative  
 **Translation:** Vocabulary: propagate: 传播
 
-**[6181.54s] English:** agenda the court is treating precedent as if it doesn't have any any role and that's a huge  
+**[6181.54s] English:** Agenda: The court is treating precedent as if it doesn't have any role, and that's a huge issue.  
 **Translation:** 
 
-**[6190.82s] English:** mistake some of the congressmen on the democratic side are looking to enlarge the court in order to  
-**Translation:** Vocabulary: congressmen: 国会议员; enlarge: 扩大
+**[6190.82s] English:** Mistake: Some of the congressmen on the Democratic side are looking to enlarge the court in order to  
+**Translation:** Vocabulary: congressmen: 众议员; enlarge: 扩大; treating: 对待
 
-**[6199.72s] English:** basically do what Franklin Roosevelt was not able to do  
+**[6199.72s] English:** Basically, do what Franklin D. Roosevelt was not able to do.  
 **Translation:** 
 
-**[6203.70s] English:** change the court's philosophy but I think that's very short-sighted because  
+**[6203.70s] English:** Change the court's philosophy, but I think that's very short-sighted because  
 **Translation:** 
 
-**[6214.60s] English:** this is a long game this is a republic we have here and anyone who tries to for example enlarge  
+**[6214.60s] English:** This is a long game. This is a republic, and anyone who tries, for example, to enlarge...  
 **Translation:** 
 
-**[6225.46s] English:** the court from nine to twelve in order to get more liberals on the court then some other administration  
+**[6225.46s] English:** The court from nine to twelve, in order to get more liberals on the court, then some other administration.  
+**Translation:** Vocabulary: liberals: 自由派
+
+**[6233.66s] English:** Will try to enlarge it from 12 to 15 to get more liberals on the court; you have a  
 **Translation:** 
 
-**[6233.66s] English:** will try to enlarge it from 12 to 15 to get more liberals in the court you have a  
-**Translation:** 
+**[6240.00s] English:** Constant fiddling with a very important institution.  
+**Translation:** Vocabulary: fiddling: 无端改动
 
-**[6240.00s] English:** constant fiddling with a very important institution.  
-**Translation:** Vocabulary: fiddling: 随意调整
-
-**[6246.38s] English:** So the law should have more lasting power than the political bickering of the day.  
+**[6246.38s] English:** So, the law should have more lasting power than the political bickering of the day.  
 **Translation:** 
 
 **[6251.34s] English:** Correct.  
-**Translation:** Vocabulary: bickering: 争吵不休
+**Translation:** Vocabulary: bickering: 争吵
 
-**[6252.24s] English:** Let me ask you, you've lived one heck of a life  
+**[6252.24s] English:** Let me ask you; you've lived one heck of a life.  
 **Translation:** 
 
-**[6256.50s] English:** and fought a lot of battles and you continue to do so with the Harvard Board of Overseers.  
+**[6256.50s] English:** And they fought a lot of battles, and you continue to do so with the Harvard Board of Overseers.  
 **Translation:** Vocabulary: overseers: 监督委员会
 
 **[6263.34s] English:** First of all, thank you for that.  
 **Translation:** 
 
-**[6265.96s] English:** But we're all human, we're all mortal.  
-**Translation:** 
+**[6265.96s] English:** But we're all human; we're all mortal.  
+**Translation:** Vocabulary: mortal: 凡人
 
 **[6270.22s] English:** Do you ponder your death?  
 **Translation:** 
 
 **[6271.58s] English:** Do you ponder your mortality?  
-**Translation:** 
+**Translation:** Vocabulary: ponder: 深思
 
 **[6272.90s] English:** Are you afraid of it?  
 **Translation:** 
@@ -4123,22 +4124,22 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6277.08s] English:** He died because he smoked.  
 **Translation:** 
 
-**[6278.56s] English:** He died at 48 because he smoked four packs of camels a day.  
+**[6278.56s] English:** He died at 48 because he smoked four packs of Camels a day.  
 **Translation:** 
 
 **[6282.22s] English:** He got a massive heart attack at 43.  
+**Translation:** Vocabulary: camels: 骆驼牌香烟
+
+**[6285.14s] English:** He continued to smoke, despite dying at 48.  
 **Translation:** 
 
-**[6285.14s] English:** He continued to smoke despite that he died at 48.  
-**Translation:** 
-
-**[6289.74s] English:** So I did not expect to live this long because I thought it was genetic.  
+**[6289.74s] English:** So, I did not expect to live this long because I thought it was genetic.  
 **Translation:** 
 
 **[6293.54s] English:** It turns out it was cigarettes.  
 **Translation:** 
 
-**[6296.08s] English:** So here I am.  
+**[6296.08s] English:** So, here I am.  
 **Translation:** 
 
 **[6297.42s] English:** I'm going to be 81.  
@@ -4147,16 +4148,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6299.24s] English:** I'm 81.  
 **Translation:** 
 
-**[6300.00s] English:** I was born on May 10th, 1942, which is Mother's Day coincidentally.  
+**[6300.00s] English:** I was born on May 10th, 1942, which is Mother's Day, coincidentally.  
 **Translation:** 
 
 **[6306.34s] English:** And I realize I'm not going to live forever.  
 **Translation:** Vocabulary: coincidentally: 恰好
 
-**[6309.68s] English:** I also take pride in the fact that I have demonstrated that a lawyer does not have to go to a law firm in order to manage to make it.  
+**[6309.68s] English:** I also take pride in the fact that I have demonstrated that a lawyer does not have to go to a law firm in order to make it.  
 **Translation:** 
 
-**[6319.60s] English:** You can make your own, write your own, what's the word, write your own ticket.  
+**[6319.60s] English:** You can make your own, write your own, what's the word? Write your own ticket.  
 **Translation:** 
 
 **[6325.34s] English:** I've done that.  
@@ -4177,37 +4178,37 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6339.78s] English:** You need to work hard.  
 **Translation:** 
 
-**[6342.06s] English:** But you shouldn't put yourself in a place where you're not going to feel comfortable and, what's the word, empowered.  
+**[6342.06s] English:** But you shouldn't put yourself in a place where you're not going to feel comfortable and empowered.  
 **Translation:** 
 
-**[6348.88s] English:** Like I refuse to take Javor and Berg's invitation for a telly track position at Harvard Law School.  
-**Translation:** Vocabulary: empowered: 受权赋能
+**[6348.88s] English:** Like, I refuse to take Javor and Berg's invitation for a TV track position at Harvard Law School.  
+**Translation:** Vocabulary: empowered: 受赋能的
 
-**[6360.00s] English:** I'll tell you one other story that illustrates this.  
+**[6360.00s] English:** I'll tell you one other story that illustrates this:  
 **Translation:** 
 
-**[6368.12s] English:** I was originally pre-med, my freshman sophomore years at Princeton, I was in the pre-med program.  
-**Translation:** Vocabulary: illustrates: 举例说明; princeton: 普林斯顿大学
+**[6368.12s] English:** I was originally pre-med, during my freshman and sophomore years at Princeton, I was in the pre-med program.  
+**Translation:** Vocabulary: illustrates: 举例说明; princeton: 普林斯顿大学; sophomore: 大二学生
 
 **[6374.76s] English:** Why?  
 **Translation:** 
 
 **[6376.14s] English:** Because my parents wanted me to marry the daughter of our family physician.  
+**Translation:** Vocabulary: physician: 家庭医生
+
+**[6384.32s] English:** And the idea was, I was going to go to medical school, and I was going to go into medicine.  
 **Translation:** 
 
-**[6384.32s] English:** And the idea was, I was going to go to medical school, and I was going to go into medical  
+**[6390.42s] English:** Practice with him in Hackensack, New Jersey.  
+**Translation:** Vocabulary: hackensack: 哈肯塞克
+
+**[6395.14s] English:** We had moved from Brooklyn at the time. Long story why we had to move from Brooklyn, had  
 **Translation:** 
 
-**[6390.42s] English:** practice with him in Hackensack, New Jersey.  
-**Translation:** 
+**[6399.46s] English:** To do with my father's having a problem with the Furries Union and having his life threatened.  
+**Translation:** Vocabulary: brooklyn: 布鲁克林; furries: 毛茸茸的
 
-**[6395.14s] English:** We had moved from Brooklyn at the time, long story why we had to move from Brooklyn had  
-**Translation:** 
-
-**[6399.46s] English:** to do with my father's having a problem with the furries union and having his life threatened.  
-**Translation:** 
-
-**[6406.62s] English:** And we moved to Maywood, New Jersey, because he got a job in a fur shop in Passaic, New  
+**[6406.62s] English:** And we moved to Maywood, New Jersey, because he got a job in a fur shop in Passaic, New Jersey.  
 **Translation:** 
 
 **[6410.78s] English:** Jersey.  
@@ -4223,33 +4224,33 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[6420.88s] English:** I went to Pagoda High School, both in North Bergen County.  
-**Translation:** Vocabulary: bergen: 北贝根; hackensack: 哈肯萨克; pagoda: 宝塔高中
+**Translation:** Vocabulary: bergen: 北贝根; pagoda: 宝塔
 
-**[6427.04s] English:** And the idea was that she and I were going to marry.  
+**[6427.04s] English:** And the idea was that she and I were going to get married.  
 **Translation:** 
 
-**[6431.98s] English:** I was going to become, I was going to go to medical school, I was going to take, become  
+**[6431.98s] English:** I was going to become a doctor, I was going to go to medical school, and I was going to take all the necessary pre-med courses.  
 **Translation:** 
 
-**[6436.52s] English:** a partner of her father in his medical practice in Hackensack.  
+**[6436.52s] English:** A partner of her father in his medical practice in Hackensack.  
 **Translation:** 
 
 **[6442.14s] English:** When he retired, I was going to inherit the practice.  
-**Translation:** 
+**Translation:** Vocabulary: inherit: 继承
 
 **[6444.10s] English:** This scenario was concocted by Carolyn's mother and my mother.  
 **Translation:** 
 
 **[6452.46s] English:** In my sophomore year at Princeton, I won a fellowship to spend that summer, which will  
-**Translation:** Vocabulary: concocted: 策划; fellowship: 奖学金
+**Translation:** Vocabulary: concocted: 策划; fellowship: 奖学金; princeton: 普林斯顿大学; scenario: 情景; sophomore: 大二学生
 
-**[6459.00s] English:** be my sophomore and junior year in Paris.  
+**[6459.00s] English:** Be my sophomore and junior year in Paris.  
 **Translation:** 
 
 **[6462.00s] English:** I was fluent by then.  
-**Translation:** 
+**Translation:** Vocabulary: fluent: 流利
 
-**[6464.68s] English:** I had taken accelerated French course my freshman and sophomore year, and I went to Paris.  
+**[6464.68s] English:** I had taken an accelerated French course during my freshman and sophomore years, and I went to Paris.  
 **Translation:** 
 
 **[6468.26s] English:** It was my first time in Paris.  
@@ -4264,14 +4265,14 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6473.26s] English:** We lived together.  
 **Translation:** 
 
-**[6474.10s] English:** time out of the country and um i  
+**[6474.10s] English:** Time out of the country, and um, I  
 **Translation:** 
 
-**[6480.00s] English:** I spent the entire summer working, supporting myself, participating in the airfare, and I earned money for room and board.  
+**[6480.00s] English:** I spent the entire summer working, supporting myself, participating in the airfare, and earning money for room and board.  
 **Translation:** 
 
-**[6492.62s] English:** And I thought about my life, and I decided, number one, I didn't want to be a physician.  
-**Translation:** Vocabulary: airfare: 飞机票
+**[6492.62s] English:** And I thought about my life, and I decided: number one, I didn't want to be a physician.  
+**Translation:** Vocabulary: airfare: 飞机票; physician: 医生
 
 **[6497.32s] English:** I wanted to be a lawyer.  
 **Translation:** 
@@ -4289,7 +4290,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[6510.82s] English:** Who was, by that time, at the school at Douglas, right down the road from Princeton.  
-**Translation:** Vocabulary: carolyn: 卡罗琳; princeton: 普林斯顿
+**Translation:** Vocabulary: carolyn: 卡罗琳
 
 **[6514.98s] English:** She had followed me.  
 **Translation:** 
@@ -4300,16 +4301,16 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6520.26s] English:** And my life suddenly took a wholly different turn.  
 **Translation:** 
 
-**[6526.74s] English:** So that summer in Paris, Paris had an outsized effect on my life.  
+**[6526.74s] English:** So, that summer in Paris, Paris had an outsized effect on my life.  
 **Translation:** 
 
-**[6536.34s] English:** Every year, the Bravo Theater shows Casablanca.  
+**[6536.34s] English:** Every year, the Bravo Theater shows "Casablanca.  
 **Translation:** 
 
 **[6540.00s] English:** Casablanca, where Bogart has this great line.  
-**Translation:** Vocabulary: bogart: 博加特; bravo: Bravo; casablanca: 卡萨布兰卡
+**Translation:** Vocabulary: bogart: 博加特; bravo: Bravo剧院; casablanca: 卡萨布兰卡电影
 
-**[6544.24s] English:** He says, we'll always have Paris.  
+**[6544.24s] English:** He says, "We'll always have Paris.  
 **Translation:** 
 
 **[6547.68s] English:** And I think to myself, I always used to say to Elsa, we used to see Casablanca every Valentine's Day.  
@@ -4333,7 +4334,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6570.00s] English:** And if Isaac was this high and this high, they were hanging up in the house.  
 **Translation:** 
 
-**[6576.14s] English:** And so I always, even after Elsa's death, I've seen Casablanca twice now.  
+**[6576.14s] English:** And so, I have always seen Casablanca twice now, even after Elsa's death.  
 **Translation:** 
 
 **[6585.30s] English:** She died in 2020.  
@@ -4349,15 +4350,15 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[6600.00s] English:** Like I said, I hope you're very successful in your run for the Harvard Board of Overseers.  
-**Translation:** Vocabulary: overseers: 监督委员会
+**Translation:** Vocabulary: overseers: 监督者
 
-**[6606.80s] English:** I think what you stand for in the realm of freedom of speech is, I think, the thing that makes these universities great institutions in American culture.  
+**[6606.80s] English:** I think what you stand for in the realm of freedom of speech is the thing that makes these universities great institutions in American culture.  
 **Translation:** 
 
 **[6618.24s] English:** And I'll do everything I can to help you succeed.  
 **Translation:** 
 
-**[6622.24s] English:** And I just am really grateful for all the work you've done.  
+**[6622.24s] English:** And I am just really grateful for all the work you've done.  
 **Translation:** 
 
 **[6625.14s] English:** And I'm grateful that you would talk with me today.  
@@ -4379,7 +4380,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **Translation:** 
 
 **[6641.10s] English:** Once a government is committed to the principle of silencing the voice of the opposition, it has only one way to go.  
-**Translation:** Vocabulary: truman: 杜鲁门
+**Translation:** 
 
 **[6647.98s] English:** And that is down the path of increasingly repressive measures.  
 **Translation:** 
@@ -4387,7 +4388,7 @@ Source file: Lex Fridman - Harvey Silverglate： Freedom of Speech ｜ Lex Fridm
 **[6651.78s] English:** Until it becomes the source of terror to all its citizens and creates a country where everyone lives in fear.  
 **Translation:** Vocabulary: repressive: 压迫的
 
-**[6658.64s] English:** Thank you for listening and hope to see you next time.  
+**[6658.64s] English:** Thank you for listening, and I hope to see you next time.  
 **Translation:** 
 
 

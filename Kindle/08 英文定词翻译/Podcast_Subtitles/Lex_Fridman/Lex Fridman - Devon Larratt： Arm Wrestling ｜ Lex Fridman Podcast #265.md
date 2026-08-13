@@ -1,22 +1,23 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcast #265.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** I get so passionate about it.  
 **Translation:** 
 
-**[1.78s] English:** I get so angry, you know, because there's the saying like, oh, can you beat him at a hook?  
-**Translation:** 
+**[1.78s] English:** I get so angry, you know, because there's that saying, "Can you beat him at a hook?  
+**Translation:** Vocabulary: passionate: 热情的
 
-**[6.62s] English:** Can you beat, man, win, win.  
+**[6.62s] English:** Can you beat, man? Win, win.  
 **Translation:** 
 
 **[9.86s] English:** That's it.  
 **Translation:** 
 
-**[10.60s] English:** Just win and don't talk to me about anything else.  
+**[10.60s] English:** Just win, and don't talk to me about anything else.  
 **Translation:** 
 
-**[13.30s] English:** You believe the match is finished, and I wonder if that gets in the head of the other person.  
+**[13.30s] English:** You believe the match is finished, and I wonder if that gets into the head of the other person.  
 **Translation:** 
 
 **[19.56s] English:** You see this?  
@@ -35,69 +36,69 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[34.72s] English:** This is the Lex Friedman Podcast.  
-**Translation:** Vocabulary: friedman: 莱克斯·弗里德曼; wrestlers: 摔跤手
+**Translation:** Vocabulary: friedman: 莱克斯·弗里德曼; larratt: 拉特; wrestlers: 摔跤手
 
 **[37.04s] English:** To support it, please check out our sponsors in the description.  
 **Translation:** 
 
-**[40.40s] English:** And now, dear friends, here's Devin Larratt.  
+**[40.40s] English:** And now, dear friends: here's Devin Larratt.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[45.18s] English:** You are considered to be one of the greatest arm wrestlers in history, plus are one of  
+**[45.18s] English:** You are considered to be one of the greatest arm wrestlers in history, and are one of  
 **Translation:** 
 
-**[51.50s] English:** the most charismatic and fun people to watch in arm wrestling.  
-**Translation:** Vocabulary: charismatic: 魅力十足; wrestling: 摔跤
+**[51.50s] English:** The most charismatic and fun people to watch in arm wrestling.  
+**Translation:** Vocabulary: charismatic: 有魅力的; wrestling: 摔跤
 
 **[54.46s] English:** But let me first start with the ridiculous, the controversial opinion.  
 **Translation:** 
 
-**[58.88s] English:** I actually really enjoy Over the Top, the movie with Sylvester Stallone, where he's a trucker.  
+**[58.88s] English:** I actually really enjoy "Over the Top," the movie with Sylvester Stallone, where he's a trucker.  
 **Translation:** Vocabulary: stallone: 史泰龙
 
 **[65.98s] English:** It's like a father-son movie.  
 **Translation:** 
 
 **[68.58s] English:** It's, you know, like a bunch of sports have the definitive movie.  
-**Translation:** Vocabulary: definitive: 权威性的
+**Translation:** Vocabulary: definitive: 权威的
 
-**[72.20s] English:** Boxing has Rocky, maybe folk style.  
+**[72.20s] English:** Boxing has Rocky, maybe folk-style.  
 **Translation:** 
 
-**[75.98s] English:** Collegiate wrestling has Vision Quest.  
+**[75.98s] English:** Collegiate wrestling has "Vision Quest.  
 **Translation:** Vocabulary: collegiate: 大学的
 
 **[79.56s] English:** What else is there?  
 **Translation:** 
 
-**[80.60s] English:** Billiards has Color of Money.  
+**[80.60s] English:** Billiards has "Color of Money.  
 **Translation:** Vocabulary: billiards: 台球
 
 **[81.76s] English:** Yeah.  
 **Translation:** 
 
-**[82.48s] English:** This is the sort of movie for arm wrestling.  
+**[82.48s] English:** This is the sort of movie for arm-wrestling.  
 **Translation:** 
 
-**[86.66s] English:** So what did Over the Top get right?  
+**[86.66s] English:** So, what did Over the Top get right?  
 **Translation:** 
 
 **[88.88s] English:** What did he get wrong about arm wrestling?  
 **Translation:** 
 
-**[91.40s] English:** That was actually based off of a real story.  
+**[91.40s] English:** That was actually based on a real story.  
 **Translation:** 
 
 **[94.20s] English:** A lot of people don't know that.  
 **Translation:** 
 
-**[95.62s] English:** Yeah, the Over the Top movie, I mean, to a certain degree, that's actually real life.  
+**[95.62s] English:** Yeah, the "Over the Top" movie—I mean, to a certain degree—that's actually real life.  
 **Translation:** 
 
 **[101.92s] English:** Like that tournament, Over the Top, was real.  
 **Translation:** 
 
-**[104.32s] English:** It was literally named Over the Top.  
+**[104.32s] English:** It was literally named "Over the Top.  
 **Translation:** 
 
 **[105.84s] English:** Yes, yes.  
@@ -106,19 +107,19 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[106.68s] English:** There was a trucker division, and the guy actually won a truck for real.  
 **Translation:** 
 
-**[110.14s] English:** His name's John Brzezink.  
+**[110.14s] English:** His name is John Brzezinski.  
 **Translation:** 
 
 **[110.98s] English:** You know who that is, right?  
 **Translation:** 
 
-**[112.32s] English:** So the actual Over the Top tournament, the trucker division, was won by John.  
+**[112.32s] English:** So, the actual Over-the-Top tournament, the trucker division, was won by John.  
 **Translation:** 
 
-**[115.68s] English:** Who is John Brzezink?  
+**[115.68s] English:** Who is John Brzezinski?  
 **Translation:** 
 
-**[117.36s] English:** He is...  
+**[117.36s] English:** He is....  
 **Translation:** 
 
 **[118.22s] English:** A lot of people talk about him.  
@@ -127,11 +128,11 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[118.88s] English:** They talk about him.  
 **Translation:** 
 
-**[120.00s] English:** As like a legend and one of, if not the greatest, arm wrestlers of all time.  
+**[120.00s] English:** As if he were a legend and one of, if not the greatest, arm wrestlers of all time.  
 **Translation:** 
 
-**[124.76s] English:** John Brzezink is every arm wrestler's father to a certain degree.  
-**Translation:** 
+**[124.76s] English:** John Brzezinski is every arm wrestler's father, to a certain degree.  
+**Translation:** Vocabulary: brzezinski: 布热津斯基; wrestlers: 摔跤手
 
 **[132.78s] English:** All of us.  
 **Translation:** 
@@ -139,17 +140,17 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[134.22s] English:** The entire sport looks up to him.  
 **Translation:** 
 
-**[139.54s] English:** It's incredible what he's done.  
+**[139.54s] English:** It's incredible what he has done.  
 **Translation:** 
 
-**[141.72s] English:** I mean, at 18, he won over the top.  
+**[141.72s] English:** I mean, at 18, he won it outright.  
 **Translation:** 
 
-**[144.62s] English:** At 57, he just competed with me a couple months ago.  
+**[144.62s] English:** At 57, he just competed with me a couple of months ago.  
 **Translation:** 
 
 **[148.84s] English:** Still at the world level.  
-**Translation:** 
+**Translation:** Vocabulary: competed: 比赛
 
 **[151.52s] English:** That's 40 years of being at the top of a sport.  
 **Translation:** 
@@ -157,16 +158,16 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[155.58s] English:** It's incredible.  
 **Translation:** 
 
-**[156.92s] English:** He's hailed as the greatest of all time in the sport of arm wrestling.  
+**[156.92s] English:** He's hailed as the greatest of all time in the sport of arm-wrestling.  
 **Translation:** 
 
 **[161.18s] English:** And he's beaten some monsters.  
-**Translation:** 
+**Translation:** Vocabulary: beaten: 打败; hailed: 誉为
 
 **[164.20s] English:** Oh, yeah.  
 **Translation:** 
 
-**[165.26s] English:** And he doesn't...  
+**[165.26s] English:** And he doesn't....  
 **Translation:** 
 
 **[166.68s] English:** I mean, when you talk about the evolution of the sport, he's responsible for so much of it.  
@@ -175,41 +176,41 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[176.38s] English:** When you talk about...  
 **Translation:** 
 
-**[178.84s] English:** A lot of times, when you go back like 20 years, 30 years, a lot of us looked at arm wrestling, I think, as something you could kind of do.  
+**[178.84s] English:** A lot of times, when you go back 20 or 30 years, a lot of us looked at arm wrestling as something you could kind of do.  
 **Translation:** 
 
-**[189.38s] English:** And he's the first guy who's like, if you want to get better at arm wrestling, you got to arm wrestle.  
+**[189.38s] English:** And he's the first guy who's like: "If you want to get better at arm wrestling, you've got to arm wrestle.  
 **Translation:** Vocabulary: wrestle: 摔跤; wrestling: 摔跤
 
 **[193.34s] English:** And it seems so simple.  
 **Translation:** 
 
-**[195.10s] English:** But he answered so many questions that all of us had about techniques in the sport.  
+**[195.10s] English:** But he answered so many questions that we all had about techniques in the sport.  
 **Translation:** 
 
-**[203.08s] English:** Back, you know, pre-video internet.  
+**[203.08s] English:** Back, you know, in the pre-video Internet days.  
 **Translation:** 
 
 **[207.96s] English:** Yeah.  
 **Translation:** 
 
-**[208.44s] English:** He's been everybody's target for like 40 years.  
+**[208.44s] English:** He's been everybody's target for about 40 years.  
 **Translation:** 
 
-**[211.64s] English:** So, in terms of strength, in terms of power, in terms of skill, what did he teach the sport of arm wrestling?  
+**[211.64s] English:** So, in terms of strength, power, and skill, what did he teach the sport of arm wrestling?  
 **Translation:** 
 
-**[215.98s] English:** So, if you look, how did the sport change from 80s, 90s to the aughts?  
+**[215.98s] English:** So, if you look, how did the sport change from the 1980s, 1990s to the 2000s?  
 **Translation:** 
 
 **[221.36s] English:** You were at the top of the world for many years.  
 **Translation:** 
 
-**[223.94s] English:** You know, many argue you're still at the very top of the world.  
+**[223.94s] English:** You know, many argue that you're still at the very top of the world.  
 **Translation:** 
 
-**[228.02s] English:** But, like, you were very dominant, both left and right hand in, I don't know, 2008 to 2013, something like that.  
-**Translation:** 
+**[228.02s] English:** But, like, you were very dominant with both your left and right hand from around 2008 to 2013, or something like that.  
+**Translation:** Vocabulary: dominant: 优势明显的
 
 **[236.26s] English:** Yeah.  
 **Translation:** 
@@ -220,13 +221,13 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[238.44s] English:** How did that sport evolve to today?  
 **Translation:** 
 
-**[240.00s] English:** So, it's hard for me to comment, you know, prior to, you know, when I came to the sport was kind of mid-90s.  
+**[240.00s] English:** So, it's hard for me to comment, you know—prior to when I came to the sport, which was kind of in the mid-90s.  
+**Translation:** Vocabulary: evolve: 演变
+
+**[248.60s] English:** Like, I've been arm-wrestling my whole life, but I wasn't really involved in the sport to a major degree until probably the mid-1990s.  
 **Translation:** 
 
-**[248.60s] English:** Like, I've been arm wrestling my whole life, but I wasn't really involved in the sport to a major degree until probably, you know, mid-90s.  
-**Translation:** 
-
-**[257.98s] English:** But I'll say that before the mid-90s, it was really hard to get good at arm wrestling.  
+**[257.98s] English:** But I'll say that before the mid-1990s, it was really hard to get good at arm wrestling.  
 **Translation:** 
 
 **[265.46s] English:** Very difficult.  
@@ -239,7 +240,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[275.46s] English:** It was very underground, you know.  
-**Translation:** Vocabulary: wrestlers: 摔跤手
+**Translation:** Vocabulary: technically: 技术上; wrestlers: 摔跤手
 
 **[277.82s] English:** When I got into the sport, it was a flyer that came in the mail.  
 **Translation:** 
@@ -247,10 +248,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[281.90s] English:** You had to know somebody who knew somebody who knew somebody.  
 **Translation:** 
 
-**[285.24s] English:** And then you go to a club and you can't do anything with these people.  
+**[285.24s] English:** And then, you go to a club and you can't do anything with these people.  
 **Translation:** 
 
-**[289.58s] English:** And they knew how to arm wrestle.  
+**[289.58s] English:** And they knew how to arm-wrestle.  
 **Translation:** 
 
 **[292.38s] English:** They did.  
@@ -259,10 +260,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[293.12s] English:** But real masters were rare.  
 **Translation:** 
 
-**[296.80s] English:** And, you know, then internet.  
+**[296.80s] English:** And, you know, then there's the Internet.  
 **Translation:** 
 
-**[299.16s] English:** Internet helped everybody.  
+**[299.16s] English:** The Internet has helped everybody.  
 **Translation:** 
 
 **[300.82s] English:** Communication.  
@@ -271,17 +272,17 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[302.80s] English:** The transfer of knowledge became so much faster.  
 **Translation:** 
 
-**[306.72s] English:** People became technically, you know, invested.  
+**[306.72s] English:** People became technically invested, you know.  
 **Translation:** 
 
 **[310.92s] English:** People started to train, sharing ideas.  
 **Translation:** 
 
-**[314.94s] English:** By, I'd say, 2000 and, well, probably around the turn of the millennia,  
+**[314.94s] English:** By the year 2000, and well, probably around the turn of the millennium,  
 **Translation:** 
 
 **[322.80s] English:** I'd say that professional leagues started to slowly pick up.  
-**Translation:** Vocabulary: millennia: 千年
+**Translation:** Vocabulary: millennium: 千年
 
 **[327.04s] English:** More organized.  
 **Translation:** 
@@ -301,499 +302,499 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[341.74s] English:** A little bit more money.  
 **Translation:** 
 
-**[343.60s] English:** By 2015, more major media.  
+**[343.60s] English:** By 2015, more major media outlets were present.  
 **Translation:** 
 
 **[347.48s] English:** Like, people were investing a lot of money.  
-**Translation:** 
+**Translation:** Vocabulary: outlets: 媒体渠道
 
-**[349.86s] English:** Like, you know, millionaires, billionaires type of people were organizing events, setting up leagues.  
+**[349.86s] English:** Like, you know, millionaires and billionaires were organizing events and setting up leagues.  
 **Translation:** 
 
 **[356.16s] English:** And, yeah.  
 **Translation:** Vocabulary: billionaires: 亿万富翁; millionaires: 百万富翁
 
-**[357.24s] English:** Yeah, I mean, the past five years, it's just blown.  
+**[357.24s] English:** Yeah, I mean, the past five years have just been amazing.  
 **Translation:** 
 
-**[360.00s] English:** up uh the techniques i mean if if i was to go back to when i started uh you know what what took me  
+**[360.00s] English:** Up, uh, the techniques I mean. If I was to go back to when I started, uh, you know, what took me...  
 **Translation:** 
 
-**[368.04s] English:** 10 or 15 years to learn i mean new guys are showing up and they've got it down in like a year  
+**[368.04s] English:** 10 or 15 years to learn; I mean, new guys are showing up and they've got it down in like a year.  
 **Translation:** 
 
-**[373.28s] English:** yeah yeah well the thing about it the development of the sport is it's like i was telling you off  
+**[373.28s] English:** Yeah, yeah, well, the thing about it—the development of the sport—is kind of like I was telling you off-screen.  
 **Translation:** 
 
-**[380.54s] English:** mike it's a battle of one versus one yeah and then that can turn into battle of nations which  
+**[380.54s] English:** Mike, it's a battle of one versus one, yeah, and then that can turn into a battle of nations, which  
 **Translation:** 
 
-**[390.60s] English:** you know there is there's canada there's the united states there's all the eastern europe  
+**[390.60s] English:** You know, there's Canada, there's the United States, and there's all of Eastern Europe.  
 **Translation:** 
 
-**[397.68s] English:** russia georgia all that that that's what makes some of the greatest sports in olympics  
+**[397.68s] English:** Russia vs. Georgia: All that, that, that's what makes some of the greatest sports in the Olympics.  
 **Translation:** 
 
-**[404.50s] English:** great like weightlifting it's a battle of nations not just a battle of individuals and it's almost  
+**[404.50s] English:** Great, like weightlifting—it's a battle of nations, not just a battle of individuals, and it's almost  
 **Translation:** Vocabulary: weightlifting: 举重比赛
 
-**[409.30s] English:** like these two humans  
+**[409.30s] English:** Like these two humans.  
 **Translation:** 
 
-**[410.54s] English:** represent the two nations and i see that very much we'll talk about your matches coming up but  
+**[410.54s] English:** Represent the two nations, and I see that very much. We'll talk about your matches coming up, but  
 **Translation:** 
 
-**[415.54s] English:** there is um that battle between north america and that other part of the world yeah yeah north  
+**[415.54s] English:** There is, um, that battle between North America and that other part of the world, yeah, yeah, North.  
 **Translation:** 
 
-**[422.78s] English:** america is very prized you know the north american champion is always highly sought after  
+**[422.78s] English:** America is very prized, you know; the North American champion is always highly sought after.  
+**Translation:** Vocabulary: prized: 珍贵的
+
+**[428.76s] English:** Because they're typically the most famous, you know, even still, when you know, quite arguably.  
 **Translation:** 
 
-**[428.76s] English:** because they're typically the most famous you know even still when you know quite arguably  
+**[435.76s] English:** There's always somebody in Eastern Europe who's just monstrous.  
+**Translation:** Vocabulary: arguably: 或许; monstrous: 可怕的
+
+**[439.80s] English:** You know,  
 **Translation:** 
 
-**[435.76s] English:** there's always somebody in eastern europe who's just monstrous  
-**Translation:** Vocabulary: arguably: 可以说; monstrous: 可怕的
-
-**[439.80s] English:** you know  
+**[440.54s] English:** It's typically the North American athlete who's more recognized, by the way. Oh, yeah, we'll have a  
 **Translation:** 
 
-**[440.54s] English:** it's typically the north american athlete who's more recognized by the way oh yeah we'll have a  
+**[446.60s] English:** Cup here with some maple syrup, cheers! Which is, should probably show you, you just down that.  
 **Translation:** 
 
-**[446.60s] English:** cup here with some maple syrup cheers which is should probably show you you just down that  
-**Translation:** 
-
-**[454.06s] English:** whole thing no no no i'm gonna sip it i'm gonna sip it you know but by all means  
+**[454.06s] English:** Whole thing, no, no, no. I'm gonna sip it; I'm gonna sip it. You know, but by all means.  
 **Translation:** Vocabulary: syrup: 枫糖浆
 
-**[459.10s] English:** it's really good right yeah yeah that is uh maple syrup yeah that's a uh perfect july day  
+**[459.10s] English:** It's really good, right? Yeah, yeah. That is, uh, maple syrup. Yeah, that's a perfect July day.  
 **Translation:** 
 
-**[469.38s] English:** from canada  
+**[469.38s] English:** From Canada.  
 **Translation:** 
 
-**[470.54s] English:** in a bottle yeah so you're uh on a on a totally uh on a total tangent you are known for appreciating  
+**[470.54s] English:** In a bottle, yeah. So, you're kind of on a totally different tangent. You are known for appreciating,  
 **Translation:** 
 
-**[478.62s] English:** food in all kinds of ways  
-**Translation:** Vocabulary: tangent: 离题
+**[478.62s] English:** Food in all kinds of ways.  
+**Translation:** Vocabulary: tangent: 旁枝逸出
 
-**[480.00s] English:** one of the things you're known for is pancakes that is uh yeah that's gone to a crazy place in  
+**[480.00s] English:** One of the things you're known for is pancakes. That is, uh, yeah, that's gone to a crazy place, hasn't it?  
 **Translation:** 
 
-**[486.32s] English:** the sport but yeah like where did that originate so um where that originated when it went from like  
+**[486.32s] English:** The sport, but yeah, like where did that originate? So, um, where that originated when it went from like  
 **Translation:** Vocabulary: originate: 起源于; originated: 起源于; pancakes: 煎饼
 
-**[493.70s] English:** your actual love for pancakes to the meme yeah so so i think what happened was uh  
+**[493.70s] English:** Your actual love for pancakes to the meme, yeah. So, I think what happened was...  
 **Translation:** 
 
-**[500.42s] English:** um so i had a match with michael todd big match uh michael great champion um he's another guy  
+**[500.42s] English:** Um, so I had a match with Michael Todd; it was a big match. He's a great champion, you know? Um, he's another guy.  
 **Translation:** 
 
-**[510.98s] English:** who's you know he's never gonna get off the horse uh you know he's uh jesus his elbow is  
+**[510.98s] English:** Who's, you know, he's never gonna get off the horse, uh, you know, he's... Jesus, his elbow is.  
 **Translation:** 
 
-**[517.24s] English:** a complete disaster um probably one of the most loved and hated guys in the sport right now  
+**[517.24s] English:** A complete disaster, um, probably one of the most loved and hated guys in the sport right now.  
 **Translation:** 
 
-**[523.96s] English:** is it because of the king's move yeah one of the yeah the king's move brings him a lot of hate  
+**[523.96s] English:** Is it because of the king's move? Yeah, one of the king's moves brings him a lot of hate.  
 **Translation:** 
 
-**[529.62s] English:** um  
+**[529.62s] English:** Um.  
 **Translation:** 
 
-**[530.42s] English:** not from me not from a lot of people but um a lot of observers have a big problem with the king's  
+**[530.42s] English:** Not from me, not from a lot of people, but um, a lot of observers have a big problem with the king's.  
 **Translation:** 
 
-**[536.64s] English:** move what's wrong with being a little bit controversial that's fun you know i get so  
+**[536.64s] English:** Move what's wrong with being a little bit controversial? That's fun, you know. I get so  
 **Translation:** Vocabulary: observers: 观察者
 
-**[542.10s] English:** passionate about it i get so angry you know because there's this saying like oh can you  
+**[542.10s] English:** Passionate about it, I get so angry, you know, because there's this saying, "Oh, can you...  
 **Translation:** 
 
-**[547.30s] English:** beat him in a hook can you be man win yeah win that's all that matters that's it just win and  
+**[547.30s] English:** Beat him in a hook, can you be a man? Win! Yeah, win. That's all that matters. That's it; just win.  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[553.04s] English:** Don't talk to me about anything else. If you can win with style, win with style, but don't talk to me about it.  
 **Translation:** 
 
-**[553.04s] English:** don't talk to me about anything else if you can win with style win with style but don't talk to  
+**[559.16s] English:** About anything, me?  
 **Translation:** 
 
-**[559.16s] English:** me about anything  
+**[560.42s] English:** But winning is the priority, so you had this match with Michael Todd, yeah? I was in a  
 **Translation:** 
 
-**[560.42s] English:** but winning other it's that's the priority so you had this match with michael todd yeah so i was in a  
+**[567.18s] English:** Terrible place. Um, I guess it was. I get so screwed up with years; it's 2022 now, right? No, it's 2030.  
 **Translation:** 
 
-**[567.18s] English:** terrible place um i guess it was i get so screwed up with years it's 2022 now right no it's 2030  
+**[574.16s] English:** What are you talking about? Yeah, that's right; I think it is actually 2030. We're way ahead of schedule.  
 **Translation:** 
 
-**[574.16s] English:** what are you talking about yeah that's right i think it is actually 2030 we're way ahead of  
+**[578.96s] English:** Schedule, yeah, oh man, that's right. So, when was this? This is like a decade ago, or no, no, this is, uh, like  
 **Translation:** 
 
-**[578.96s] English:** schedule yeah oh man that's right so when was this this is like a decade ago or no no this is uh like  
+**[584.80s] English:** A year and a bit ago, so this is very recent. Yeah, so  
 **Translation:** 
 
-**[584.80s] English:** a year and a bit ago so this is very recent very recent yeah so  
+**[590.42s] English:** I got really sick, like, yeah, this is the match, right? Okay, awesome match, uh, so this is this.  
 **Translation:** 
 
-**[590.42s] English:** i got really sick like yeah this is the match right okay awesome match uh so this is this  
+**[597.74s] English:** The match is for the legacy hammer, so  
 **Translation:** 
 
-**[597.74s] English:** match is for the legacy hammer so  
+**[600.00s] English:** We invented this thing called the Legacy Hammer, and Michael took it from me, and I think it was in 2018.  
+**Translation:** Vocabulary: hammer: 锤子
+
+**[604.52s] English:** And then Kovid shut everything down, and Michael went overseas to try and set it up because at that  
 **Translation:** 
 
-**[600.00s] English:** we invented this thing called the legacy hammer and michael took it from me and i think 2018  
-**Translation:** 
-
-**[604.52s] English:** and then kovid shut everything down and michael went overseas to try and set up because at that  
-**Translation:** 
-
-**[612.14s] English:** time michael was a north american champion he beat me and he went to dubai and he organized  
+**[612.14s] English:** Time, Michael was a North American champion; he beat me, and he went to Dubai and organized...  
 **Translation:** Vocabulary: dubai: 迪拜
 
-**[619.30s] English:** this great big match with levon and the whole thing fell apart organizers leagues wouldn't  
+**[619.30s] English:** This great big match with Levon and the whole thing fell apart; organizers and leagues wouldn't.  
 **Translation:** 
 
-**[624.86s] English:** let it happen but the there was still an ability to have a match of significance happen so michael's  
-**Translation:** Vocabulary: levon: 列文; organizers: 组织者
+**[624.86s] English:** Let it happen, but there was still an ability to have a match of significance happen, so Michael's.  
+**Translation:** Vocabulary: organizers: 主办方
 
-**[630.94s] English:** like who do you want and like let's give devon a rematch and i'm like yes and i was really sick  
+**[630.94s] English:** Like, who do you want? And let's give Devon a rematch. I was like, "Yes," and I was really sick.  
 **Translation:** 
 
-**[637.32s] English:** at the time uh i had dvt i had pulmonary embolism i was mentally in a terrible place  
-**Translation:** Vocabulary: devon: 德文; embolism: 血栓; pulmonary: 肺部
+**[637.32s] English:** At the time, I had DVT and a pulmonary embolism. I was mentally in a terrible place.  
+**Translation:** Vocabulary: devon: 德文; embolism: 血栓; pulmonary: 肺部的
 
-**[644.80s] English:** and i got offered the match and i just totally turned my life around and i committed  
+**[644.80s] English:** And I got offered the match, and I just totally turned my life around, and I committed.  
 **Translation:** 
 
-**[652.92s] English:** really hard  
+**[652.92s] English:** It was really hard.  
 **Translation:** 
 
-**[654.86s] English:** yeah and uh what happened in this match by the way oh i just totally destroyed him  
+**[654.86s] English:** Yeah, and uh, what happened in this match, by the way? Oh, I just totally destroyed him.  
 **Translation:** 
 
-**[661.58s] English:** yeah i just beat the piss out of him yeah um michael's a good friend of mine but uh  
+**[661.58s] English:** Yeah, I just beat the piss out of him. Yeah, um, Michael's a good friend of mine, but uh,...  
 **Translation:** 
 
-**[670.70s] English:** yeah there's a lot of camaraderie yeah you guys talked afterwards yeah but we fight like like  
+**[670.70s] English:** Yeah, there's a lot of camaraderie, yeah. You guys talked afterwards, yeah, but we fight like  
 **Translation:** 
 
-**[676.12s] English:** brothers you know like so we let each other really fight hard against each other but so i was i knew  
-**Translation:** Vocabulary: camaraderie: 同僚情谊
+**[676.12s] English:** Brothers, you know, like, so we let each other really fight hard against each other, but so I was, I knew.  
+**Translation:** Vocabulary: camaraderie: 同伴情谊
 
-**[682.94s] English:** i mean strength and mass they go hand in hand with each other and i was like yeah i'm gonna  
+**[682.94s] English:** I mean, strength and mass go hand in hand with each other, and I was like, "Yeah, I'm gonna...  
 **Translation:** 
 
-**[684.86s] English:** do this i'm gonna do this i'm gonna do this i'm gonna do this i'm gonna do this i'm gonna do this  
+**[684.86s] English:** Do this. I'm gonna do this. I'm gonna do this. I'm gonna do this. I'm gonna do this. I'm gonna do this.  
 **Translation:** 
 
-**[685.42s] English:** and i committed to just getting as big and as strong as i could and literally i was eating  
+**[685.42s] English:** And I committed to just getting as big and as strong as I could, and literally, I was eating.  
 **Translation:** 
 
-**[692.28s] English:** pancakes every day bacon pancakes every sloppy bit of garbage food i could eat i was trying to  
-**Translation:** Vocabulary: pancakes: 煎饼
+**[692.28s] English:** Pancakes every day, bacon, pancakes—every sloppy bit of garbage food I could eat. I was trying to.  
+**Translation:** Vocabulary: pancakes: 煎饼; sloppy: 狼吞虎咽
 
-**[699.14s] English:** eat healthy also but if there was garbage food i'd eat it what do you mean bacon and pancakes  
+**[699.14s] English:** Eat healthy, but if there was garbage food, I'd eat it. What do you mean, bacon and pancakes?  
 **Translation:** 
 
-**[703.22s] English:** isn't healthy what are you talking about exactly uh people should go watch there's a video where  
+**[703.22s] English:** Isn't that unhealthy? What are you talking about, exactly? People should go watch; there's a video where  
 **Translation:** 
 
-**[708.80s] English:** you make like the the canadian meal of um bacon with some bacon  
+**[708.80s] English:** You make it like the Canadian meal of bacon with some bacon.  
 **Translation:** 
 
-**[714.86s] English:** cooking tips water that was interesting yeah and then um and then obviously pancakes  
+**[714.86s] English:** Cooking tips: water that was interesting, yeah, and then, um, and then obviously, pancakes.  
 **Translation:** 
 
-**[720.00s] English:** and maple syrup all over the whole thing yeah yeah you're making me very hungry i i've caused  
+**[720.00s] English:** And maple syrup all over the whole thing, yeah. Yeah, you're making me very hungry. I've caused.  
 **Translation:** 
 
-**[725.84s] English:** more diabetes than uh you know probably gonna get in trouble karmically for making the world obese  
-**Translation:** Vocabulary: diabetes: 糖尿病; obese: 肥胖; syrup: 糖浆
+**[725.84s] English:** More diabetes than you know, probably gonna get in trouble karmically for making the world obese.  
+**Translation:** Vocabulary: diabetes: 糖尿病; karmically: 因果报应; obese: 肥胖; syrup: 糖浆
 
-**[732.44s] English:** you should probably write a like like a book the pancake diet yeah devon larrett yep i think i will  
+**[732.44s] English:** You should probably write a book, like the Pancake Diet, yeah? Devon Larrett, yep, I think I will.  
 **Translation:** 
 
-**[737.60s] English:** do that one day so you said uh mass and strength go hand in hand just at a big level about arm  
+**[737.60s] English:** Do that one day, so you said, 'Uh, mass and strength go hand in hand just at a big level,' about arms.  
+**Translation:** Vocabulary: pancake: 煎饼
+
+**[743.70s] English:** Wrestling: What's more important—strength, power, endurance, skill, strategy, or mental toughness?  
 **Translation:** 
 
-**[743.70s] English:** wrestling what's more important strength power endurance skill strategy or mental toughness like  
+**[752.04s] English:** What/how do these components all come into play in arm wrestling? They're all important, you can  
 **Translation:** 
 
-**[752.04s] English:** what how do these components all come into play in arm wrestling they're all important you can  
-**Translation:** Vocabulary: endurance: 耐力; toughness: 坚韧; wrestling: 摔跤
-
-**[758.88s] English:** use everything and you can adjust your strategy based off of the tools that you have uh i would  
+**[758.88s] English:** Use everything, and you can adjust your strategy based off of the tools that you have. I would.  
 **Translation:** 
 
-**[765.30s] English:** say if i i could pick ever just one thing to have more of uh i would i would say that it would be  
+**[765.30s] English:** Say, if I could pick just one thing to have more of, uh, I would say that it would be  
 **Translation:** 
 
-**[772.48s] English:** strength  
+**[772.48s] English:** Strength.  
 **Translation:** 
 
-**[772.98s] English:** gained while fighting while actually arm wrestling so not off the off the no no no so you  
+**[772.98s] English:** Gained while fighting, while actually arm-wrestling, so not off the table, no, no, no, so you  
 **Translation:** 
 
-**[779.94s] English:** get stronger from arm wrestling how do you get stronger from arm wrestling like in jujitsu and  
+**[779.94s] English:** To get stronger from arm wrestling, like in jujitsu, how do you get stronger from arm wrestling?  
 **Translation:** 
 
-**[784.92s] English:** grappling you can get good by training with people much uh technically worse than you so  
-**Translation:** Vocabulary: grappling: 摔跤; jujitsu: 柔术
+**[784.92s] English:** Grappling: You can get good by training with people much more technically worse than you, so  
+**Translation:** Vocabulary: grappling: 格斗训练; jujitsu: 柔术; technically: 技术上; wrestling: 摔跤
 
-**[791.20s] English:** white with white belts and blue belts yeah it's actually beneficial agree because you get to work  
+**[791.20s] English:** White with white belts and blue belts; yeah, it's actually beneficial, agree, because you get to work.  
 **Translation:** 
 
-**[795.18s] English:** stuff out right but i wouldn't say it develops like that intensity  
+**[795.18s] English:** Stuff doesn't develop like that intensity, but I wouldn't say it.  
+**Translation:** Vocabulary: beneficial: 有益的
+
+**[802.58s] English:** And  
 **Translation:** 
 
-**[802.58s] English:** and  
+**[802.98s] English:** And the power required to go against someone at your level: so, how do you balance that? Do you...  
 **Translation:** 
 
-**[802.98s] English:** and power required to go against um people at your level so what how do you balance that do you is it  
+**[810.28s] English:** Okay, it's not advisable to go against people who are much weaker than you, or that you really have to go against.  
 **Translation:** 
 
-**[810.28s] English:** okay to go against people that are much weaker than you or um that you really have to go against  
+**[815.96s] English:** People at the same level, I think that a blended strategy is probably the best. Um, I'd say kind.  
+**Translation:** Vocabulary: advisable: 值得推荐; blended: 综合的
+
+**[825.96s] English:** Of a rule, is whatever you do; you get better at it, right? So, you want to be kind of as precise as possible.  
 **Translation:** 
 
-**[815.96s] English:** people at the same level i think that a blended strategy is probably the best um i i'd say kind  
+**[832.94s] English:** Possible, you don't want to get hurt, um, and it's just about investment and.  
 **Translation:** 
 
-**[825.96s] English:** of a rule is whatever you do you get better at right so you want to be kind of as precise as  
+**[840.00s] English:** The answer is not always the same. Things are going to change. I am currently a big believer.  
 **Translation:** 
 
-**[832.94s] English:** possible you don't want to get hurt um and it's just about investment and  
+**[846.86s] English:** In what I call "tower building," right? So, you have to do a lot of volume to build a great tower.  
+**Translation:** Vocabulary: believer: 信仰者
+
+**[855.46s] English:** You need to have a ton—a ton—of volume. So, when you look at how to best build volume,  
 **Translation:** 
 
-**[840.00s] English:** The answer is not always the same. Things are going to change. I am currently a big believer  
+**[862.66s] English:** You want to do workouts that aren't particularly challenging to make you feel good, and do them.  
+**Translation:** Vocabulary: workouts: 锻炼
+
+**[869.98s] English:** So, when you add them all together, you get the biggest number. So, many easy workouts a day.  
 **Translation:** 
 
-**[846.86s] English:** in what I call tower building, right? So you have to do a lot of volume to build a great tower.  
+**[878.42s] English:** That, as specific as possible, in my opinion, is the best way to lay the foundation for an extreme.  
 **Translation:** 
 
-**[855.46s] English:** You need to have a ton, a ton of volume. So when you look at how to best build volume,  
+**[886.08s] English:** Peak and precision, right? Like, there's no more precise way to get strong at arm wrestling than  
 **Translation:** 
 
-**[862.66s] English:** you want to do workouts that aren't particularly challenging to make you feel good and do them  
-**Translation:** 
-
-**[869.98s] English:** so that when you add them all together, you get the biggest number. So many easy workouts a day  
-**Translation:** 
-
-**[878.42s] English:** that are specific as possible, in my opinion, is the best way to lay the foundation for an extreme  
-**Translation:** 
-
-**[886.08s] English:** peak and precision, right? Like there's no more precise way to get strong at arm wrestling than  
-**Translation:** 
-
-**[894.70s] English:** arm wrestle. So how often can you arm wrestle?  
+**[894.70s] English:** Arm wrestle. So, how often can you arm wrestle?  
 **Translation:** Vocabulary: wrestle: 摔跤; wrestling: 摔跤
 
-**[899.98s] English:** What's your training regimen? You've talked about this as the climb, right? What is the  
+**[899.98s] English:** What's your training regimen? You've talked about this as "the climb," right? What is it exactly?  
 **Translation:** 
 
-**[908.34s] English:** training process to get great at arm wrestling? Well, again, it's going to depend on what level  
+**[908.34s] English:** Training process to get great at arm wrestling? Well, again, it's going to depend on what level  
 **Translation:** Vocabulary: regimen: 训练计划
 
-**[915.70s] English:** you're at. The answer at the beginning might not be the same. For me, a guy who's been doing it  
+**[915.70s] English:** You're at. The answer at the beginning might not be the same. For me, a guy who's been doing it,...  
 **Translation:** 
 
-**[923.86s] English:** almost 30 years, I have to harvest. I have to harvest energy from clubs.  
+**[923.86s] English:** Almost 30 years, I have to harvest. I have to harvest energy from clubs.  
 **Translation:** 
 
-**[929.98s] English:** I call it cosmic punch. Sorry to interrupt. You were here in Austin, Texas. You are in Austin,  
+**[929.98s] English:** I call it cosmic punch. Sorry to interrupt. You were here in Austin, Texas. You are in Austin.  
 **Translation:** 
 
-**[935.28s] English:** Texas, but you were at the, what was it called? The water tank. Yeah. And you had an awesome  
-**Translation:** Vocabulary: cosmic: 宇宙级; texas: 德克萨斯州
+**[935.28s] English:** Texas, but you were at the water tank, weren't you? Yeah, and you had an awesome experience there.  
+**Translation:** Vocabulary: cosmic: 宇宙的; interrupt: 打断; texas: 德克萨斯州
 
-**[940.76s] English:** crowd. It was great. I get to watch. I got to interact with a lot of those guys.  
+**[940.76s] English:** Crowd: It was great. I got to watch, and I got to interact with a lot of those guys.  
 **Translation:** 
 
-**[946.50s] English:** Just amazing community, amazing human beings. I got to talk to Dimitri in Russian and  
+**[946.50s] English:** Just an amazing community, amazing human beings. I got to talk to Dimitri in Russian and...  
 **Translation:** Vocabulary: dimitri: 迪米特里
 
-**[951.50s] English:** in English. He's an engineer. His wife is an engineer. So he's a brilliant dude, but also  
+**[951.50s] English:** In English, he's an engineer. His wife is an engineer. So, he's a brilliant guy, but also  
 **Translation:** 
 
-**[958.58s] English:** one of the toughest.  
+**[958.58s] English:** One of the toughest.  
 **Translation:** Vocabulary: toughest: 最坚韧的人
 
 **[959.98s] English:** Thank you.  
 **Translation:** 
 
-**[960.00s] English:** guys you faced there yeah but you faced i don't know how many people must have been hundreds of  
+**[960.00s] English:** Guys, you faced there, yeah, but you faced—I don't know how many people; must have been hundreds of.  
 **Translation:** 
 
-**[964.94s] English:** matches so the bar was full yeah and that that for me is a perfect training scenario yeah so if i go  
+**[964.94s] English:** Matches, so the bar was full, yeah, and that, for me, is a perfect training scenario, yeah, so if I go.  
 **Translation:** 
 
-**[971.50s] English:** in and just kind of be i'm like a lightning rod and i just absorb everything that i can get from  
+**[971.50s] English:** In, and just kind of be—I'm like a lightning rod, and I just absorb everything that I can get from.  
 **Translation:** 
 
-**[979.14s] English:** people you know all their effort uh that's perfect that's perfect but i'm lucky because i'm in a  
+**[979.14s] English:** People you know, all their effort — that's perfect, that's perfect. But I'm lucky because I'm in a  
 **Translation:** 
 
-**[986.40s] English:** place that i can handle it you know if i was losing or failing this would not be optimal  
+**[986.40s] English:** Place that I can handle it, you know; if I was losing or failing, this wouldn't be optimal.  
 **Translation:** Vocabulary: optimal: 最佳的
 
-**[994.38s] English:** but because i'm i'm strong enough i've been doing it long enough that i can kind of absorb it without  
+**[994.38s] English:** But because I'm strong enough, I've been doing it long enough that I can kind of absorb it without  
 **Translation:** 
 
-**[999.72s] English:** damaging me this is perfect this is perfect i typically when i'm training up for a very serious  
+**[999.72s] English:** Damaging me, this is perfect. This is perfect. I typically, when I'm training up for a very serious  
 **Translation:** 
 
-**[1006.56s] English:** match i'll try and do that uh three or four times a week and then the days in between i will just do  
+**[1006.56s] English:** Match: I'll try and do that, uh, three or four times a week, and then on the days in between, I'll just do  
 **Translation:** 
 
-**[1015.44s] English:** blood flow  
+**[1015.44s] English:** Blood flow  
 **Translation:** 
 
-**[1016.40s] English:** rehab blood flow rehab i will never hit a pr a record i'll never do it anymore i don't do it  
+**[1016.40s] English:** Rehab: Blood flow, rehab. I will never hit a PR (personal record) again. I won't do it anymore; I don't do it.  
 **Translation:** 
 
-**[1023.74s] English:** i used to a lot of things change that's why i say like there's a lot of ways to do it  
-**Translation:** Vocabulary: rehab: 康复治疗
+**[1023.74s] English:** I used to a lot of things change, that's why I say like there are lots of ways to do it.  
+**Translation:** Vocabulary: rehab: 康复
 
-**[1028.12s] English:** this is currently a system that's working very well for me so when you say pr you're not  
+**[1028.12s] English:** This is currently a system that's working very well for me, so when you say "PR," you're not  
 **Translation:** 
 
-**[1035.08s] English:** aggressively chasing a peak you're just building and building and building yeah my only peak that  
+**[1035.08s] English:** Aggressively chasing a peak, you're just building and building and building. Yeah, my only peak that.  
+**Translation:** Vocabulary: aggressively: 猛烈地; chasing: 追求
+
+**[1040.98s] English:** I care about June 25th for this cycle; that's my only PR.  
 **Translation:** 
 
-**[1040.98s] English:** i care about is for this cycle the 25th of june that's my only pr  
-**Translation:** 
-
-**[1046.38s] English:** let's talk about the 25th of june oh yeah let's talk about levon  
+**[1046.38s] English:** Let's talk about June 25th, oh, yeah, let's talk about Levon.  
 **Translation:** Vocabulary: levon: 莱文
 
-**[1053.08s] English:** siganishvilli the georgian hulk yeah uh question number one is it possible to beat him he is widely  
+**[1053.08s] English:** Siganishvilli, the Georgian Hulk: Yeah, uh, Question Number One: Is it possible to beat him? He is widely...  
 **Translation:** 
 
-**[1063.46s] English:** acknowledged as uh the most powerful person in arm wrestling today is he beatable and if so how  
+**[1063.46s] English:** Acknowledged as the most powerful person in arm wrestling today, is he beatable, and if so, how?  
 **Translation:** Vocabulary: beatable: 可战胜的; georgian: 格鲁吉亚的; wrestling: 摔跤
 
-**[1074.82s] English:** everybody's beatable  
+**[1074.82s] English:** Everybody's beatable.  
 **Translation:** 
 
-**[1076.38s] English:** levon is incredible he's uh he  
+**[1076.38s] English:** Levon is incredible. He's uh, he  
 **Translation:** 
 
-**[1080.00s] English:** is what this modern peak of arm wrestling represents so for people who are just listening  
+**[1080.00s] English:** This is what this modern peak of arm wrestling represents, so for people who are just listening.  
 **Translation:** 
 
-**[1088.64s] English:** we we also have an overlay of a video of levon going against vitalio ledin um another top three  
+**[1088.64s] English:** We also have an overlay of a video of Levon going against Vitalio Ledin, another top-three rider.  
+**Translation:** Vocabulary: overlay: 叠加视频; vitalio: 维塔利
+
+**[1096.68s] English:** Person in the world, perhaps, yeah, in arm wrestling. And the guy on the right is just big.  
 **Translation:** 
 
-**[1096.68s] English:** person in the world perhaps yeah in arm wrestling and the uh levon's the guy in the right just big  
+**[1103.54s] English:** I love it, and the aggression—uh, I mean, actually, sort of underneath it all, it seems.  
+**Translation:** Vocabulary: aggression: 攻击; underneath: 在下面
+
+**[1110.38s] English:** To be a teddy bear, but when he turns it on, yeah, yeah, it's uh, it's raw power; he's the full package.  
 **Translation:** 
 
-**[1103.54s] English:** i love it and the the aggression uh i mean actually sort of underneath it all is it seems  
-**Translation:** Vocabulary: aggression: 攻击性
+**[1117.60s] English:** Levon is uh, he represents the pinnacle. Um, there's Dennis in the background; he's like, "I want to be.  
+**Translation:** Vocabulary: dennis: 邓尼斯; pinnacle: 巅峰; teddy: 泰迪熊
 
-**[1110.38s] English:** to be a teddy bear but when he turns it on yeah yeah it's uh it's raw power he's the full package  
+**[1125.12s] English:** Back in there, yeah. Levon has a lot of bases covered. He's, I mean, he's curling 300 pounds.  
 **Translation:** 
 
-**[1117.60s] English:** levon is uh he represents the pinnacle um there's dennis in the background he's like i want to be  
-**Translation:** Vocabulary: pinnacle: 顶峰; teddy: 泰迪熊
+**[1133.00s] English:** With one arm.  
+**Translation:** Vocabulary: curling: 举重
 
-**[1125.12s] English:** back in there yeah levon has a lot of bases covered uh he's i mean he's curling 300 pounds  
+**[1133.54s] English:** I mean, the strength that he shows in arm wrestling is so far ahead of the field.  
 **Translation:** 
 
-**[1133.00s] English:** with one arm  
+**[1142.84s] English:** Is it very, very strong? But it's absolutely possible—it's absolutely possible—the one thing...  
 **Translation:** 
 
-**[1133.54s] English:** i mean the strength that he shows for arm wrestling is is is so far ahead of the field  
+**[1152.08s] English:** That I'm confident about: well, I'd say there are two things, the two things I'm confident about.  
 **Translation:** 
 
-**[1142.84s] English:** is is very very strong um but it's absolutely possible it's absolutely possible the one thing  
+**[1157.62s] English:** Is that I have more experience than he does, and experience counts for nothing.  
 **Translation:** 
 
-**[1152.08s] English:** that i'm confident about well i'd say there's two things the two things i'm confident about  
+**[1163.54s] English:** For a lot of people, the other thing is my ability to breathe and recover, so if ever there's an  
 **Translation:** 
 
-**[1157.62s] English:** is that i have more experience than he does and experience counts for nothing  
+**[1174.70s] English:** Opportunity for the tide to turn — that's, I think, where he'll never get it back. So, I think if I can.  
 **Translation:** 
 
-**[1163.54s] English:** for a lot the other thing is uh my ability to breathe and recover so if ever there's an  
+**[1181.52s] English:** Somehow find a hole in his game, then uh, yeah, you want to hold off the initial assault.  
 **Translation:** 
 
-**[1174.70s] English:** opportunity for the tide to turn that's i think where he'll never get it back so i think if i can  
+**[1190.24s] English:** Power, and that, and then wear them out, and then you're going to have to do it again, and then you're  
 **Translation:** 
 
-**[1181.52s] English:** somehow find a hole in his game then uh yeah you you want to hold off the initial like assault of  
+**[1193.54s] English:** Going to have to do it again, and then you're going to have to do it again, and then you're going to have to do it again.  
 **Translation:** 
 
-**[1190.24s] English:** power and that and then wear them out and then you're going to have to do it again and then you're  
+**[1193.80s] English:** And to find the hole, and then how much of that is  
 **Translation:** 
 
-**[1193.54s] English:** going to have to do it again and then you're going to have to do it again and then you're going to have to do it again  
+**[1200.00s] English:** Mental, how much of it is just the physical ability for your muscles to have the  
 **Translation:** 
 
-**[1193.80s] English:** and to find the hole and then how much of that is  
-**Translation:** 
-
-**[1200.00s] English:** mental, how much of it is just the physical ability to do for your muscles to have the  
-**Translation:** 
-
-**[1204.82s] English:** endurance to hold off? I like to make the sport bigger. And a lot of things that most arm wrestlers  
+**[1204.82s] English:** Endurance to hold off? I like to make the sport bigger. And a lot of things that most arm wrestlers  
 **Translation:** Vocabulary: endurance: 耐力; wrestlers: 摔跤手
 
-**[1215.90s] English:** believe the sport is, I always try and push those boundaries. So there is definitely a mental aspect  
+**[1215.90s] English:** Believe the sport is, I always try and push those boundaries. So, there is definitely a mental aspect.  
 **Translation:** 
 
-**[1225.42s] English:** to it when you're faced with something that you've never seen before. That's when things  
+**[1225.42s] English:** To it when you're faced with something that you've never seen before. That's when things  
 **Translation:** 
 
-**[1231.52s] English:** like experience comes in. He can become surprised where what's a surprise for him is routine for me.  
+**[1231.52s] English:** Like experience comes in, he can become surprised where what's a surprise for him is routine for me.  
 **Translation:** 
 
-**[1240.12s] English:** So my adjustments will be more precise, more accurate. Yeah, that's how I get in.  
+**[1240.12s] English:** So, my adjustments will be more precise and more accurate. Yeah, that's how I get in.  
 **Translation:** Vocabulary: adjustments: 调整
 
-**[1247.68s] English:** That's how I get in. Yeah, I play a dirty game. So some of it, how important is confidence in  
+**[1247.68s] English:** That's how I get in. Yeah, I play a dirty game. So, some of it—how important is confidence in?  
 **Translation:** 
 
-**[1255.32s] English:** the whole thing?  
+**[1255.32s] English:** The whole thing?  
 **Translation:** 
 
-**[1255.42s] English:** In the progression of the match, is there ups and downs of confidence? Like, holy shit, I actually  
+**[1255.42s] English:** In the progression of the match, are there ups and downs of confidence? Like, holy shit, I actually  
 **Translation:** 
 
-**[1264.52s] English:** have a chance to win this. Holy shit, I'm winning this. You're done. There's some of my favorite  
-**Translation:** Vocabulary: progression: 进程
+**[1264.52s] English:** Have a chance to win this. Holy shit, I'm winning this. You're done. There's some of my favorite.  
+**Translation:** Vocabulary: progression: 比赛进程
 
-**[1269.72s] English:** moments. I don't know if those are fake or not in terms of your expressions, if it's fake until you  
+**[1269.72s] English:** Moments. I don't know if those are fake or not in terms of your expressions; if it's fake until you.  
 **Translation:** 
 
-**[1274.62s] English:** make it. But whenever you shake your head or whatever, you make it apparent that you believe  
+**[1274.62s] English:** Make it. But whenever you shake your head or whatever, you make it apparent that you believe.  
 **Translation:** 
 
-**[1281.52s] English:** the match is finished. And I wonder if that gets in the  
+**[1281.52s] English:** The match is finished. And I wonder if that gets in the  
 **Translation:** 
 
-**[1285.32s] English:** head of the other person. When you start to actually, so I'm sure you're doing things in  
+**[1285.32s] English:** Head of the other person. When you start to actually, so I'm sure you're doing things in.  
 **Translation:** 
 
-**[1292.26s] English:** like precise, detailed things with your hands to also indicate that you believe they're finished.  
+**[1292.26s] English:** Like precise, detailed things with your hands, to also indicate that you believe they're finished.  
 **Translation:** 
 
 **[1298.38s] English:** But you're facially just... See this? Yeah.  
 **Translation:** 
 
-**[1303.34s] English:** Quit. Oh, that's right, because it's facing the other.  
+**[1303.34s] English:** Quit. Oh, that's right, because it's facing the other way.  
 **Translation:** 
 
-**[1309.00s] English:** So that's ultimately what the battle is about. It's like, you're done. You might as well give up.  
+**[1309.00s] English:** So, that's ultimately what the battle is about. It's like, you're done. You might as well give up.  
 **Translation:** 
 
 **[1315.32s] English:** Commitment is so important in anything that you do, right?  
 **Translation:** 
 
-**[1320.00s] English:** Like, I always kind of try and bring things to a level of commitment that's uncommon.  
-**Translation:** Vocabulary: uncommon: 不常见
+**[1320.00s] English:** Like, I always try and bring things to a level of commitment that's uncommon.  
+**Translation:** Vocabulary: uncommon: 不寻常的
 
-**[1328.42s] English:** I think that that's a lot of reasons why I do well.  
+**[1328.42s] English:** I think that's a lot of reasons why I do well.  
 **Translation:** 
 
 **[1331.54s] English:** It's because I just get so committed in the whole process.  
@@ -802,25 +803,25 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[1335.78s] English:** And by the time that I actually show up to fight, I sometimes just wish that they would kill me.  
 **Translation:** 
 
-**[1341.82s] English:** You know, I wish that they would because that's how far I want to go.  
+**[1341.82s] English:** You know, I wish they would because that's how far I want to go.  
 **Translation:** 
 
-**[1346.46s] English:** Like, people talk about, like, how committed are you to the match?  
+**[1346.46s] English:** Like, people talk about how committed you are to the match?  
 **Translation:** 
 
 **[1350.14s] English:** Like, if you're committed to the match and you lose, you should be hurt.  
 **Translation:** 
 
-**[1353.66s] English:** Like, I'm often unhappy when I lose a match and I don't have an injury.  
+**[1353.66s] English:** Like, I'm often unhappy when I lose a match, and I don't have an injury.  
 **Translation:** 
 
-**[1360.42s] English:** I'm like, damn, I'm like, what the fuck?  
+**[1360.42s] English:** I'm like, damn. I'm like, what the fuck?  
 **Translation:** 
 
 **[1361.94s] English:** Like, I feel like I didn't commit, you know?  
 **Translation:** 
 
-**[1367.48s] English:** I don't know if you know Dan Gable is the wrestler.  
+**[1367.48s] English:** I don't know if you know that Dan Gable is the wrestler.  
 **Translation:** Vocabulary: wrestler: 摔跤手
 
 **[1370.24s] English:** Oh, yeah, he was on the podcast?  
@@ -829,43 +830,43 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[1372.84s] English:** Yeah, yeah, yeah.  
 **Translation:** 
 
-**[1375.14s] English:** He talked about his whole.  
+**[1375.14s] English:** He talked about his whole experience.  
 **Translation:** 
 
-**[1376.46s] English:** His whole career, he dreamed of working so hard that he can't get off the mat by himself.  
+**[1376.46s] English:** His whole career, he dreamed of working so hard that he couldn't get off the mat by himself.  
 **Translation:** 
 
-**[1383.76s] English:** And he's disappointed, ultimately, at the end of his career because he was always able to get off the mat on his own accord.  
+**[1383.76s] English:** And he's disappointed, ultimately, at the end of his career, because he was always able to get off the mat on his own accord.  
 **Translation:** 
 
 **[1391.62s] English:** So he wants to, yeah, leave it all on the mat just from exhaustion.  
-**Translation:** Vocabulary: accord: 自行
+**Translation:** Vocabulary: accord: 一致
 
-**[1397.02s] English:** So that's what commitment looks like.  
+**[1397.02s] English:** So, that's what commitment looks like.  
 **Translation:** 
 
 **[1398.90s] English:** What is this process?  
 **Translation:** 
 
-**[1400.58s] English:** What is this climb for probably the toughest match of your career?  
+**[1400.58s] English:** What is this climb for? It's probably the toughest match of your career.  
 **Translation:** 
 
-**[1406.46s] English:** I would say the most epic match in arm wrestling history.  
-**Translation:** Vocabulary: toughest: 最艰难; wrestling: 摔跤
+**[1406.46s] English:** I would say the most epic match in arm-wrestling history.  
+**Translation:** Vocabulary: toughest: 最艰难的
 
 **[1411.66s] English:** I mean, it's really building up.  
 **Translation:** 
 
-**[1413.94s] English:** You are the, you said North America.  
+**[1413.94s] English:** You are the one who said North America.  
 **Translation:** 
 
-**[1416.56s] English:** That's, I mean, I think by a constant menu, one of the greatest arm wrestlers ever.  
+**[1416.56s] English:** That's what I mean; I think he was one of the greatest arm wrestlers ever, by a constant menu.  
 **Translation:** 
 
 **[1423.76s] English:** He is one of the scariest arm wrestlers ever.  
 **Translation:** Vocabulary: scariest: 最可怕的; wrestlers: 摔跤手
 
-**[1427.00s] English:** And so this match, by the way, where is it happening?  
+**[1427.00s] English:** And so, this match, by the way, where is it happening?  
 **Translation:** 
 
 **[1430.18s] English:** It'll be in Dubai.  
@@ -880,472 +881,472 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[1431.92s] English:** June.  
 **Translation:** 
 
-**[1432.40s] English:** So what does the climb look like?  
+**[1432.40s] English:** So, what does the climb look like?  
 **Translation:** 
 
-**[1434.58s] English:** The climb for me, what I have to change in my life.  
+**[1434.58s] English:** The climb for me is what I have to change in my life.  
 **Translation:** 
 
 **[1439.56s] English:** All.  
 **Translation:** 
 
-**[1440.00s] English:** Always. People talk about being a professional. I've always loved the sport. I've loved it like  
+**[1440.00s] English:** Always, people talk about being a professional. I've always loved the sport. I've loved it like  
 **Translation:** 
 
-**[1447.28s] English:** crazy. But to me, the path is about simplicity and removal of distractions. I do better and better  
+**[1447.28s] English:** Crazy. But to me, the path is about simplicity and removal of distractions. I do better and better.  
 **Translation:** Vocabulary: distractions: 分心; simplicity: 简单
 
-**[1460.16s] English:** the more I get rid of everything, nothing else, so that my life is just the goal, just the target,  
+**[1460.16s] English:** The more I get rid of everything, including nothing else, so that my life is just the goal and just the target.  
 **Translation:** 
 
-**[1471.46s] English:** and everything else is off the table. That's where I need to get to, where there's nothing.  
+**[1471.46s] English:** And everything else is off the table. That's where I need to get to — where there's nothing.  
 **Translation:** 
 
 **[1478.12s] English:** There's nothing between me and him. Every single day, you're putting in the volume.  
 **Translation:** 
 
-**[1482.54s] English:** Every day, all day. You said you worked out. Yesterday, you did hundreds of arm wrestling  
-**Translation:** 
+**[1482.54s] English:** Every day, all day. You said you worked out. Yesterday, you did hundreds of arm wrestles.  
+**Translation:** Vocabulary: wrestles: 摔跤
 
-**[1488.54s] English:** matches. Then today, you said you worked out. Today, you said you worked out.  
+**[1488.54s] English:** Matches. Then, today you said you worked out. Today, you said you worked out.  
 **Translation:** 
 
 **[1490.14s] English:** In the morning, you still worked out. What was that workout? You're mixing up stuff where you're  
 **Translation:** 
 
-**[1494.92s] English:** doing weights also? This morning, I try to really focus on what's administratively easy. That's a  
+**[1494.92s] English:** Doing weights also? This morning, I try to really focus on what's administratively easy. That's a  
 **Translation:** 
 
-**[1503.78s] English:** big part of me, everything I do. I just travel with bands. I got bands with me. It's rehabilitative  
+**[1503.78s] English:** A big part of me; everything I do. I just travel with bands. I've got bands with me. It's rehabilitative.  
 **Translation:** Vocabulary: administratively: 行政上; rehabilitative: 康复的
 
-**[1512.60s] English:** in nature. I'm really focusing on blood flow, feeling good, doing proper movements.  
+**[1512.60s] English:** In nature, I'm really focusing on blood flow, feeling good, and doing proper movements.  
 **Translation:** 
 
-**[1520.14s] English:** Yeah, just a band workout in the hotel room. What does a band workout look like? Are you doing  
+**[1520.14s] English:** Yeah, just a band workout in the hotel room. What does a band workout look like? Are you doing...  
 **Translation:** 
 
-**[1525.30s] English:** the arm wrestling movement? Oh, see that? See what you did there? What's that?  
+**[1525.30s] English:** The arm wrestling movement? Oh, see that? See what you did there? What's that?  
 **Translation:** 
 
 **[1530.66s] English:** Yeah. You want to bring him in. Yeah. Up, up. Oh, the up thing? Up, up, up. Up and to your center.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[1538.02s] English:** You think, what can you control out here? No, you bring everything close. That's it. Don't worry  
+**[1538.02s] English:** You think: What can you control out here? No, you bring everything close. That's it. Don't worry.  
 **Translation:** 
 
-**[1544.16s] English:** about pinning. Pinning happens once it's close to you. Yeah. People always think about pinning.  
+**[1544.16s] English:** About pinning. Pinning happens once it's close to you, yeah. People always think about pinning.  
+**Translation:** Vocabulary: pinning: 贴身防守
+
+**[1550.14s] English:** Don't think about pinning. How much of the body is really a part of this, too? Like the  
 **Translation:** 
 
-**[1550.14s] English:** Don't think about pinning. How much of the body is a part of this too? Like the  
-**Translation:** 
-
-**[1553.58s] English:** core, the torso? Because it feels like there's that almost like Mike Tyson.  
+**[1553.58s] English:** Core, the torso? Because it feels like there's something almost like Mike Tyson.  
 **Translation:** Vocabulary: torso: 躯干
 
-**[1560.00s] English:** and punch power right yeah does it come from the hips too and the the legs it just gives it's the  
+**[1560.00s] English:** And punch power, right? Does it come from the hips too, and the legs? It just gives it.  
 **Translation:** 
 
-**[1567.22s] English:** whole body the whole body it's definitely the whole body like everything is working uh you're  
+**[1567.22s] English:** The whole body—it's definitely the whole body; it's like everything is working, uh,...  
 **Translation:** 
 
-**[1572.80s] English:** connected to the table at times as far as your base sometimes your base is your feet but a lot  
+**[1572.80s] English:** Connected to the table at times, as far as your base, sometimes your base is your feet, but a lot.  
 **Translation:** 
 
-**[1577.94s] English:** of times you can base off the table so so you can base off your hips but i'll tell you no arm  
+**[1577.94s] English:** Of times, you can base it off the table, so you can base it off your hips, but I'll tell you: no arm.  
 **Translation:** 
 
-**[1584.42s] English:** wrestler cares about doing squats no arm wrestlers doing planks yeah okay it's all about the forearm  
+**[1584.42s] English:** Wrestler cares about doing squats; no arm wrestlers doing planks, yeah? Okay, it's all about the forearms.  
 **Translation:** 
 
-**[1592.00s] English:** and the actions of the hand yeah that's always the limiting factor you look at a guy like oleg  
-**Translation:** Vocabulary: forearm: 前臂; planks: 平板支撑; squats: 深蹲; wrestler: 摔跤手; wrestlers: 摔跤手
+**[1592.00s] English:** And the actions of the hand — yeah, that's always the limiting factor. You look at a guy like Oleg.  
+**Translation:** Vocabulary: forearms: 前臂; planks: 平板支撑; squats: 深蹲; wrestler: 摔跤手; wrestlers: 摔跤手
 
-**[1597.26s] English:** zok okay do you know this guy oleg zok yeah marvelous he's a he's a total hell boy he's my  
+**[1597.26s] English:** Zok: Okay, do you know this guy Oleg? Zok: Yeah, marvelous. He's a total hellboy. He's my...  
 **Translation:** 
 
-**[1603.94s] English:** inspiration to what i call pumpkin training but uh what's pumpkin training uh probably we'll get  
+**[1603.94s] English:** Inspiration to what I call "pumpkin training," but uh, what's pumpkin training? Uh, probably we'll get  
+**Translation:** Vocabulary: hellboy: 地狱男爵; pumpkin: 南瓜
+
+**[1611.20s] English:** Into that, but I only train my right arm—that's it.  
 **Translation:** 
 
-**[1611.20s] English:** into that but i only train my right arm that's it  
+**[1614.14s] English:** You.  
 **Translation:** 
 
-**[1614.14s] English:** you  
+**[1614.42s] English:** Yeah, with homework, but back to full-body; it's a full-body workout, my good friend Matt Mask.  
 **Translation:** 
 
-**[1614.42s] English:** yeah with homework but back to full body it is full body my my good friend matt mask  
+**[1622.14s] English:** When he arm-wrestled me, he actually blew out his internal oblique muscle in his leg, so yeah.  
+**Translation:** Vocabulary: oblique: 斜肌
+
+**[1629.68s] English:** People walk away from the tournament, their calves can be sore sometimes, you know; it happens, but...  
 **Translation:** 
 
-**[1622.14s] English:** when he arm wrestled me he actually blew his internal abductor in his in his leg so yeah  
-**Translation:** Vocabulary: abductor: 股外侧肌; wrestled: 摔跤
+**[1634.96s] English:** No, oh, there he is, right there! Yeah, Oleg—he's a real-life Hell Boy.  
+**Translation:** Vocabulary: calves: 小腿
 
-**[1629.68s] English:** people walk away from tournament their calves can be sore sometimes you know it happens but  
+**[1640.58s] English:** He's like 170 pounds there, look at his arm.  
 **Translation:** 
 
-**[1634.96s] English:** no oh there he is right there yeah oleg he's he is a real life hell boy  
+**[1644.42s] English:** Crazy, yeah, yeah. He's totally crazy. That's you doing, left right there, so that's, by the way.  
 **Translation:** 
 
-**[1640.58s] English:** he's like he's like 170 pounds there look at his arm  
+**[1651.84s] English:** Levon, you're going right. Yeah, yeah. So, can you say more about the mental side? Are you  
 **Translation:** 
 
-**[1644.42s] English:** crazy yeah yeah he's totally crazy that's you doing left right there so that's by the way  
-**Translation:** 
-
-**[1651.84s] English:** levon you're going right yeah yeah so can you say more about the the mental side are you  
-**Translation:** 
-
-**[1659.80s] English:** visualizing what it takes to beat him are you trying to get in his head um all of these things  
+**[1659.80s] English:** Visualizing what it takes to beat him, are you trying to get in his head? Um, all of these things.  
 **Translation:** Vocabulary: visualizing: 想象
 
-**[1665.08s] English:** so do you think it's possible to get in his head um there's definitely strategies that you can do  
+**[1665.08s] English:** So, do you think it's possible to get into his head? There's definitely strategies that you can use.  
 **Translation:** 
 
-**[1672.72s] English:** depending on who it is you're facing i'm not sure i'm not sure i'm not sure i'm not sure i'm not sure  
+**[1672.72s] English:** Depending on who it is you're facing, I'm not sure, I'm not sure, I'm not sure, I'm not sure.  
 **Translation:** 
 
-**[1674.42s] English:** it's very good to know who it is you're fighting and choose the correct strategy  
+**[1674.42s] English:** It's very good to know who you're fighting and to choose the correct strategy.  
 **Translation:** 
 
-**[1680.00s] English:** mentally. But I always follow a process when it comes to my mental preparation.  
+**[1680.00s] English:** Mentally. But I always follow a process when it comes to my mental preparation.  
 **Translation:** 
 
-**[1688.86s] English:** When I'm far away from an event, I just always build up my opponent. Build them. I build them.  
+**[1688.86s] English:** When I'm far away from an event, I just always build up my opponent. I build them. I build them.  
 **Translation:** 
 
-**[1696.84s] English:** I respect them. To a point where I almost start to fear them and start to believe that they'll  
+**[1696.84s] English:** I respect them, but to a point where I almost start to fear them and begin to believe that they'll  
+**Translation:** Vocabulary: opponent: 对手
+
+**[1702.52s] English:** Beat me. And this is a very vital part of my preparation. And that's where I am right now.  
 **Translation:** 
 
-**[1702.52s] English:** beat me. And this is a very vital part of my preparation. And that's where I am right now  
+**[1708.08s] English:** With Levon, I just build them up. Build them up into this thing that scares me, and it forces me.  
+**Translation:** Vocabulary: scares: 使我害怕
+
+**[1714.42s] English:** To be responsible, you know, because I don't want to lose. You know, I want to win. So the greater...  
 **Translation:** 
 
-**[1708.08s] English:** with LeVon. I just build them up. Build them up into this thing that scares me. And it forces me  
+**[1721.68s] English:** My opponent, the greater I can build their worth in my mind, the more motivation it gives me.  
 **Translation:** 
 
-**[1714.42s] English:** to be responsible, you know, because I don't want to lose. You know, I want to win. So the greater  
+**[1728.96s] English:** Then there comes a point when it changes, and then I start to degrade them, and  
 **Translation:** 
 
-**[1721.68s] English:** my opponent, the greater I can build their worth in my mind, the more motivation it gives me.  
-**Translation:** 
-
-**[1728.96s] English:** Then there comes a point when it changes. And then I start to degrade them. And  
-**Translation:** 
-
-**[1738.08s] English:** that's when it normally starts to get fun. And normally by the time I face them,  
+**[1738.08s] English:** That's when it normally starts to get fun. And normally, by the time I face them,  
 **Translation:** Vocabulary: degrade: 降低评价
 
-**[1745.10s] English:** I just try and completely dominate from every interaction from start to finish.  
+**[1745.10s] English:** I just try and completely dominate from every interaction, from start to finish.  
 **Translation:** 
 
 **[1752.30s] English:** Yeah. When in the actual moment of the match, like in the moments leading up to it,  
 **Translation:** Vocabulary: dominate: 完全控制
 
-**[1759.50s] English:** what's the feeling? Is it fear? Is it confidence? Anxiety? What's going through your  
+**[1759.50s] English:** What's the feeling? Is it fear? Is it confidence? Anxiety? What's going through your mind?  
 **Translation:** 
 
-**[1768.08s] English:** mind? I love to fight. I love it. I always have. There's every day where you have, you know,  
+**[1768.08s] English:** Mind? I love to fight. I love it. I always have. There's hardly a day where you don't find me throwing down.  
 **Translation:** 
 
-**[1779.60s] English:** the distractions of life. And then there's really living in the moment, right? It's whatever you  
+**[1779.60s] English:** The distractions of life. And then there's really living in the moment, right? It's whatever you  
 **Translation:** 
 
-**[1785.48s] English:** love to do. And that's when you can, you know, really be free. I'm free when I'm fighting,  
-**Translation:** Vocabulary: distractions: 分心之事
+**[1785.48s] English:** Love to do, and that's when you can, you know, really be free. I'm free when I'm fighting.  
+**Translation:** Vocabulary: distractions: 分心的事物
 
-**[1791.32s] English:** right? So you put me in a good fight and I just love it. And I don't think about the past. I don't  
+**[1791.32s] English:** Right? So, you put me in a good fight, and I just love it. And I don't think about the past. I don't  
 **Translation:** 
 
-**[1797.38s] English:** think about the future. I don't think about the future. I don't think about the future. I don't  
+**[1797.38s] English:** Think about the future. I don't think about the future. I don't think about the future. I don't.  
 **Translation:** 
 
-**[1798.06s] English:** sure. I just think about killing that dude.  
+**[1798.06s] English:** Sure. I just keep thinking about killing that guy.  
 **Translation:** 
 
-**[1800.00s] English:** in front of me and i enjoy that and just being intensely in the moment just that's it just right  
-**Translation:** Vocabulary: intensely: 全神贯注
+**[1800.00s] English:** In front of me, and I enjoy that, and just being intensely in the moment—just, that's it; just right.  
+**Translation:** Vocabulary: intensely: 专注地
 
-**[1805.82s] English:** there just fighting as hard as i can do you study the opponent like do you have you for this  
+**[1805.82s] English:** There, just fighting as hard as I can. Do you study the opponent? Like, do you have any tips for this?  
 **Translation:** 
 
-**[1810.84s] English:** particular match do you study videos of levon i've seen everything i've read everything i get  
-**Translation:** Vocabulary: levon: 莱文
+**[1810.84s] English:** Particular match do you study videos of Levon? I've seen everything, I've read everything, I get  
+**Translation:** Vocabulary: levon: 莱文; opponent: 对手
 
-**[1820.34s] English:** opinions from other people i watch very closely yeah what do you make of his evolution so so he's  
+**[1820.34s] English:** Opinions from other people I watch very closely, yeah. What do you make of his evolution? So, so he's...  
 **Translation:** 
 
-**[1827.62s] English:** he's grown in size but also you've talked about his um you know evolution technically as well  
+**[1827.62s] English:** He's grown in size, but also you've talked about his, um, you know, technical evolution as well.  
 **Translation:** 
 
-**[1836.24s] English:** what in studying him since we're in the uh build your opponent to be  
+**[1836.24s] English:** What in studying him since we're in the build-your-opponent phase?  
 **Translation:** 
 
-**[1843.64s] English:** terrifying stage uh what uh what makes him great he's very impressive the the the greatest thing  
-**Translation:** Vocabulary: terrifying: 令人恐惧的
+**[1843.64s] English:** Terrifying stage—uh, what makes him great? He's very impressive. The greatest thing...  
+**Translation:** Vocabulary: terrifying: 可怕的
 
-**[1852.00s] English:** about him is is his strength that's the thing that sets him apart from  
+**[1852.00s] English:** About him is his strength—that's the thing that sets him apart from.  
 **Translation:** 
 
-**[1857.12s] English:** everything  
+**[1857.12s] English:** Everything.  
 **Translation:** 
 
-**[1857.62s] English:** everyone uh his strength specialized strength exact strength for arm wrestling  
+**[1857.62s] English:** Everyone, uh, his strength—specialized strength, exact strength—for arm wrestling.  
 **Translation:** 
 
-**[1863.48s] English:** i believe it's unmatched can we just uh linger on that word strength  
-**Translation:** Vocabulary: wrestling: 摔跤
+**[1863.48s] English:** I believe it's unmatched. Can we just linger on that word, "strength"?  
+**Translation:** Vocabulary: linger: 停留; wrestling: 角力
 
-**[1871.44s] English:** what does strength mean what does it feel like are we talking about um bicep  
+**[1871.44s] English:** What does strength mean? What does it feel like? Are we talking about biceps?  
 **Translation:** 
 
-**[1879.20s] English:** like shoulder are we talking about like whatever control right the wrist yeah is it the what where  
-**Translation:** Vocabulary: bicep: 肱二头肌
+**[1879.20s] English:** Like, should we be talking about the shoulder? Are we referring to the wrist for control? Yeah, is it the wrist we're discussing?  
+**Translation:** Vocabulary: biceps: 肱二头肌
 
-**[1886.78s] English:** what how does  
+**[1886.78s] English:** What/how does  
 **Translation:** 
 
-**[1887.12s] English:** how does  
+**[1887.12s] English:** How does  
 **Translation:** 
 
-**[1887.52s] English:** how does  
+**[1887.52s] English:** How does  
 **Translation:** 
 
-**[1887.60s] English:** how does  
+**[1887.60s] English:** How does  
 **Translation:** 
 
-**[1887.62s] English:** strength manifest you know like when i touch your hand when we grab arms i feel like  
+**[1887.62s] English:** Strength manifests, you know, like when I touch your hand or when we grab arms; I feel like  
 **Translation:** 
 
-**[1893.52s] English:** fuck that's strong there's control what is that feeling well where does that come from  
-**Translation:** Vocabulary: manifest: 显现
+**[1893.52s] English:** Fuck, that's strong! There's control. What is that feeling? Well, where does that come from?  
+**Translation:** Vocabulary: manifests: 显现
 
-**[1898.90s] English:** we're in arm wrestling when you're at the top of the world where does that come from so it's chains  
+**[1898.90s] English:** We're in arm wrestling when you're at the top of the world. Where does that come from? So, it's chains.  
 **Translation:** 
 
-**[1904.66s] English:** there's chains of strength and in arm wrestling this is like technical strength okay and we use  
+**[1904.66s] English:** There's a chain of strength, and in arm-wrestling, this is like technical strength, okay, and we use  
 **Translation:** 
 
-**[1911.06s] English:** these technical chains to fight each other uh the the chains that i'll talk about  
+**[1911.06s] English:** These technical chains are fighting each other, and the chains that I'll talk about,...  
 **Translation:** 
 
-**[1917.40s] English:** uh the the chains that i'll talk about are the chains that i'll talk about are the chains that i'll  
+**[1917.40s] English:** Uh, the chains that I'll talk about are the chains that I'll talk about are the chains that I'll discuss.  
 **Translation:** 
 
-**[1917.62s] English:** talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains that i'll talk about are the chains  
+**[1917.62s] English:** Talks about the chains that I'll talk about are the chains.  
 **Translation:** 
 
-**[1920.00s] English:** with the post this upwards drive this ability to close this angle this is a chain um it can be used  
+**[1920.00s] English:** With the post, this upward drive gives us this ability to close this angle. It can be used,...  
 **Translation:** 
 
-**[1928.16s] English:** it's it's a technical attack it's also an attack that can be built with with training just the  
+**[1928.16s] English:** It's a technical attack, and it's also an attack that can be built with training just the  
 **Translation:** 
 
-**[1932.90s] English:** ability to drive upwards uh there's a chain where you cup right cup your wrist in cup your wrist in  
+**[1932.90s] English:** Ability to drive upwards; there's a chain where you cup your wrist in, and cup your wrist in.  
 **Translation:** 
 
-**[1939.70s] English:** and the anchor and the chain brings you right to your heart right to your center right this chain  
+**[1939.70s] English:** And the anchor and the chain bring you right to your heart, right to your center—right this chain.  
 **Translation:** 
 
-**[1945.62s] English:** and this can be done at any time uh there's a pronation chain and that's that's to turn your  
-**Translation:** Vocabulary: pronation: 内旋链
+**[1945.62s] English:** And this can be done at any time. There's a pronation chain, and that's to turn your.  
+**Translation:** Vocabulary: anchor: 锚; pronation: 足内翻
 
-**[1950.62s] English:** thumb over right turn your thumb over and you attack the person's cupping chain and there's a  
+**[1950.62s] English:** Thumb over, right turn. Your thumb over, and you attack the person's cupping chain; and there's a  
 **Translation:** 
 
-**[1956.70s] English:** huge number of muscles involved in each of those chains and that's why i say it's a chain right but  
+**[1956.70s] English:** A huge number of muscles are involved in each of those chains, and that's why I say it's a chain, right?  
 **Translation:** 
 
-**[1961.36s] English:** they're movements and these movements you can develop in the gym or through practice so you  
+**[1961.36s] English:** They're movements, and these movements you can develop in the gym or through practice. So,  
 **Translation:** 
 
-**[1968.60s] English:** don't mean so it's easy to sort of interpret strength to mean the the how much you curl  
+**[1968.60s] English:** Don't mean that it's so easy to sort of interpret "strength" to mean "how much you curl.  
 **Translation:** Vocabulary: interpret: 解释
 
-**[1974.04s] English:** essentially yeah but  
+**[1974.04s] English:** Essentially, yeah, but.  
 **Translation:** 
 
-**[1975.62s] English:** you mean the chain it's all right and that's like i mean people talk is a bicep i mean yes  
+**[1975.62s] English:** You mean the chain is all right, and that's like I mean, people talk about is a bicep. I mean, yes.  
+**Translation:** Vocabulary: bicep: 二头肌
+
+**[1980.28s] English:** There's definitely bicep involved, but I'll always be inaccurate if I try and tell you like what.  
 **Translation:** 
 
-**[1980.28s] English:** there's bicep for sure involved but i i'll always be inaccurate if i try and tell you like what  
-**Translation:** 
-
-**[1985.82s] English:** muscles are the so i prefer to explain it in a movement and then everything that's involved to  
+**[1985.82s] English:** Muscles are, so I prefer to explain it in a movement and then everything that's involved.  
 **Translation:** Vocabulary: inaccurate: 不准确
 
-**[1991.36s] English:** do that movement right yeah and levon's movements for arm wrestling are incredibly impressive  
+**[1991.36s] English:** Do that movement, right? Yeah, and Levon's movements for arm wrestling are incredibly impressive.  
 **Translation:** 
 
-**[1998.58s] English:** what do you attribute to how much of that is genetics how much of it is  
-**Translation:** Vocabulary: attribute: 归因; wrestling: 摔跤
+**[1998.58s] English:** What do you attribute to how much of that is genetics, and how much of it is?  
+**Translation:** Vocabulary: attribute: 归因; wrestling: 角力
 
-**[2003.44s] English:** some  
+**[2003.44s] English:** Some  
 **Translation:** 
 
-**[2005.62s] English:** training thing he's doing i think that levon is very special in terms of his genetics like  
-**Translation:** Vocabulary: levon: 莱文
+**[2005.62s] English:** Training thing he's doing, I think that Levon is very special in terms of his genetics, like  
+**Translation:** Vocabulary: levon: 列文
 
-**[2014.22s] English:** not everybody can be levon you know yeah there's there's not many levons out there  
+**[2014.22s] English:** Not everybody can be Levon, you know? Yeah, there's not many Levons out there.  
 **Translation:** 
 
-**[2019.12s] English:** um but what i've encountered in the bias that i always see like when people talk about people  
+**[2019.12s] English:** Um, but what I've encountered is the bias that I always see when people talk about people.  
 **Translation:** Vocabulary: encountered: 遇到
 
-**[2026.58s] English:** like levon they discount the other side so very quickly and the thing is levon rarely has to show  
+**[2026.58s] English:** Like Levon, they discount the other side very quickly, and the thing is, Levon rarely has to show.  
 **Translation:** 
 
-**[2033.58s] English:** the other side because so far it's been a lot of people who have been doing it for a long time and  
+**[2033.58s] English:** The other side, because so far it's been a lot of people who have been doing it for a long time and...  
 **Translation:** 
 
-**[2035.62s] English:** they're ahead you talk about the technical application of the sport he's so rarely  
+**[2035.62s] English:** They're ahead. You talk about the technical application of the sport; he's so rarely.  
 **Translation:** 
 
-**[2040.00s] English:** needs to show it but he's clearly incredible if you watch his progression he came up having very  
-**Translation:** Vocabulary: progression: 进步
+**[2040.00s] English:** Needs to show it, but he's clearly incredible. If you watch his progression, he came up having very  
+**Translation:** Vocabulary: progression: 发展过程
 
-**[2048.52s] English:** difficult technical struggles to overcome georgia is a great country for arm wrestling  
+**[2048.52s] English:** Difficult technical struggles to overcome, but Georgia is a great country for arm wrestling.  
 **Translation:** 
 
-**[2053.10s] English:** like there's this guy ganadi kvikvinia who no one would ever say is not technical and you know  
-**Translation:** Vocabulary: kvikvinia: 举重若轻者
+**[2053.10s] English:** Like, there's this guy Ganadi Kvikvinia who, no one would ever say, is not technical, and you know.  
+**Translation:** Vocabulary: struggles: 困难
 
-**[2060.16s] English:** it took him years to defeat him to a point where now it's not it's not even a discussion  
+**[2060.16s] English:** It took him years to defeat him to a point where now it's not even a discussion.  
 **Translation:** 
 
-**[2065.96s] English:** yeah you talk about the progression they had a lot of battles together over the years  
+**[2065.96s] English:** Yeah, you talk about the progression; they had a lot of battles together over the years.  
 **Translation:** 
 
-**[2070.22s] English:** yeah it's fascinating to see the tides turn oh yeah and once they've turned it's like  
+**[2070.22s] English:** Yeah, it's fascinating to see the tides turn. Oh, yeah, and once they've turned, it's like  
 **Translation:** 
 
-**[2075.18s] English:** completely completely different level yeah i mean he's got he's got strength he's got technique  
+**[2075.18s] English:** Completely, completely, a different level, yeah. I mean, he's got strength; he's got technique.  
 **Translation:** 
 
-**[2083.34s] English:** some people will argue that his technique is flawed at times they've shown matches where  
+**[2083.34s] English:** Some people will argue that his technique is flawed at times; they've shown matches where  
 **Translation:** 
 
-**[2091.38s] English:** he hasn't shown the best technique but he's still won  
+**[2091.38s] English:** He hasn't shown the best technique, but he's still won.  
+**Translation:** Vocabulary: flawed: 有缺陷的
+
+**[2094.10s] English:** And I think sometimes he just plays with people, you know, like in a famous match that he  
 **Translation:** 
 
-**[2094.10s] English:** and i think sometimes he just plays with people you know like uh there's a famous match that he  
+**[2100.46s] English:** Had with, uh, oh, they call him the Bruce Lee of arm wrestling. A guy called Ongurbaev, uh,  
+**Translation:** Vocabulary: ongurbaev: 昂古巴耶夫; wrestling: 摔跤
+
+**[2107.16s] English:** Kurdagali Ongurbayev; he's they had a match in the top eight, a great match. Kurdagali is like 220 pounds.  
 **Translation:** 
 
-**[2100.46s] English:** had with uh oh they call him the bruce lee of arm wrestling a guy called ongurbaev uh  
-**Translation:** Vocabulary: ongurbaev: 奥努尔巴耶夫
+**[2113.70s] English:** Guy from Kazakhstan, uh, brilliant technician, but power-wise, you know, not in the same world.  
+**Translation:** Vocabulary: kazakhstan: 哈萨克斯坦; kurdagali: 库尔达加利; ongurbayev: 翁古尔拜耶夫; technician: 技术高手
 
-**[2107.16s] English:** kurdagali ongurbaev he's they had a match in the top eight great match kurdagali is like 220 pound  
+**[2121.56s] English:** And Kurdagali.  
 **Translation:** 
 
-**[2113.70s] English:** guy from kazakhstan uh brilliant technician but power wise you know not in the same world  
-**Translation:** Vocabulary: kazakhstan: 哈萨克斯坦; kurdagali: 库尔达加利; technician: 技术高手
-
-**[2121.56s] English:** and kurdagali  
+**[2124.10s] English:** Did well, even though he lost six; nothing, he still did well. But, in my opinion,  
 **Translation:** 
 
-**[2124.10s] English:** did well even though he lost six nothing he still did well uh but in my opinion  
+**[2129.84s] English:** Levon didn't care; Levon was like grabbing him low, and just like, "I'll show him.  
 **Translation:** 
 
-**[2129.84s] English:** levon didn't care levon was like grabbing him low and just like whatever like i will show him  
+**[2137.16s] English:** Things that he's not seen before, I will um, he hasn't competed often in this rule set, which  
+**Translation:** Vocabulary: competed: 参赛
+
+**[2143.16s] English:** It will be a challenge for him, but uh, yeah, what can I say? Like Levon; he's Everest, yeah, yeah, yeah.  
 **Translation:** 
 
-**[2137.16s] English:** things that he's not seen before i will um he hasn't competed often in this rule set which  
+**[2151.96s] English:** You are seen by  
+**Translation:** Vocabulary: levon: 例子
+
+**[2153.30s] English:** Basically,  
 **Translation:** 
 
-**[2143.16s] English:** will be a challenge for him but uh yeah what can i say like levon he's he's everest yeah yeah yeah  
+**[2153.94s] English:** You are seen by basically,...  
 **Translation:** 
 
-**[2151.96s] English:** you are seen by  
-**Translation:** Vocabulary: levon: 珠穆朗玛峰
-
-**[2153.30s] English:** basically  
+**[2154.08s] English:** Everybody is the big underdog, but you're also even in the Eastern Conference, even though.  
 **Translation:** 
 
-**[2153.94s] English:** you are seen by basically  
-**Translation:** 
-
-**[2154.08s] English:** everybody is the big big underdog but you're also even even in the eastern even uh i mean  
-**Translation:** 
-
-**[2160.00s] English:** i talk to russians a lot there you uh you know that moment in rocky when they start cheering  
+**[2160.00s] English:** I talk to Russians a lot. There, you know, that moment in Rocky when they start cheering.  
 **Translation:** Vocabulary: underdog: 弱者
 
-**[2166.04s] English:** for rocky yeah yeah you're kind of the they they love you they want you to win and just you know  
+**[2166.04s] English:** For Rocky, yeah, yeah, you're kind of the one they love; they want you to win, and just... you know.  
 **Translation:** 
 
-**[2171.84s] English:** it's not even um just the battle itself is inspiring and it's it's it's like the culmination  
+**[2171.84s] English:** It's not even just the battle itself that is inspiring, and it's like the culmination.  
 **Translation:** Vocabulary: culmination: 高潮
 
-**[2178.62s] English:** in your career because it's you know you're at the top for a long time but it's like it's almost  
+**[2178.62s] English:** In your career, because it's you know you're at the top for a long time, but it's like it's almost...  
 **Translation:** 
 
-**[2184.78s] English:** like it should be over for you but no you're returning it's it is like this big moment yeah  
+**[2184.78s] English:** Like it should be over for you, but no, you're returning—it's such a big moment, yeah.  
 **Translation:** 
 
-**[2191.84s] English:** the big climb i will be the pointy end of the spear for north america  
+**[2191.84s] English:** The big climb: I'll be the pointy end of the spear for North America.  
 **Translation:** 
 
-**[2197.40s] English:** yeah uh beautiful well let's uh thanks for bringing that match up let's talk about just um  
+**[2197.40s] English:** Yeah, uh, it's beautiful. Well, let's uh, thanks for bringing that match up. Let's talk about just um,...  
 **Translation:** Vocabulary: pointy: 尖锐; spear: 长矛
 
-**[2205.76s] English:** the the match against uh dennis your left hand match yeah he's also terrifying and  
+**[2205.76s] English:** The match against Dennis, using your left hand, was terrifying. Yeah, he's also terrifying.  
 **Translation:** 
 
-**[2213.76s] English:** seems one of the strongest fighters in the world  
-**Translation:** Vocabulary: terrifying: 令人恐惧的
-
-**[2214.78s] English:** probably the uh one of if not the strongest left hand arm wrestler yeah um there's a lot to be said  
+**[2213.76s] English:** It seems one of the strongest fighters in the world.  
 **Translation:** 
 
-**[2222.88s] English:** there maybe you could talk about this match at a high level why did you take on this match why did  
+**[2214.78s] English:** Probably, one of if not the strongest left-handed arm wrestler, yeah. There's a lot to be said.  
+**Translation:** 
+
+**[2222.88s] English:** There might be some confusion, but to address your request: You could talk about this match at a high level. Why did you take on this match? Why did  
 **Translation:** Vocabulary: wrestler: 摔跤手
 
-**[2228.32s] English:** you do the left hand yeah versus the right hand what can you tell the story okay dennis the plank  
+**[2228.32s] English:** You do the left hand, yeah, versus the right hand. What can you tell the story, okay, Dennis? The plank.  
 **Translation:** 
 
-**[2234.06s] English:** off there's so much about this match i love dennis russian guy yeah russian guy russian i used to  
-**Translation:** Vocabulary: plank: 木板
+**[2234.06s] English:** There's so much about this match. I love Dennis, the Russian guy. Yeah, Russian guy. I used to...  
+**Translation:** Vocabulary: dennis: 迪恩斯; plank: 木板
 
-**[2241.72s] English:** call him dennis chernobyl uh  
+**[2241.72s] English:** Call him Dennis Chernobyl, uh  
 **Translation:** 
 
-**[2244.78s] English:** what a monster he kind of uh led i'd say this new era of arm wrestling where the super heavyweight  
-**Translation:** Vocabulary: chernobyl: 车诺比; heavyweight: 重量级; wrestling: 摔跤
+**[2244.78s] English:** What a monster! He kind of led, I'd say this new era of arm wrestling where the super heavyweights dominate.  
+**Translation:** Vocabulary: chernobyl: 车诺比; dominate: 占据; heavyweights: 重量级选手; wrestling: 摔跤
 
-**[2256.78s] English:** strength level has just gone through the roof i wanted the match for such a long time we tried  
+**[2256.78s] English:** Strength levels have just gone through the roof! I wanted this match for such a long time, and we tried  
 **Translation:** 
 
-**[2262.64s] English:** to get the match uh we couldn't get it organized this is back in like you know 2008 to 2012  
+**[2262.64s] English:** To get the match, we couldn't get it organized. This is back in like you know, 2008 to 2012.  
 **Translation:** 
 
-**[2268.42s] English:** couldn't get the match couldn't get the match i've always been more of a one-on-one puller  
+**[2268.42s] English:** Couldn't get the match; I couldn't get the match. I've always been more of a one-on-one puller.  
 **Translation:** 
 
-**[2272.22s] English:** he was doing the uh the tournament for me and i've always been more of a one-on-one puller  
+**[2272.22s] English:** He was doing the tournament for me, and I've always been more of a one-on-one player.  
 **Translation:** 
 
-**[2274.78s] English:** i was ranked number one in the world and towards the end it kind of was very undecided  
+**[2274.78s] English:** I was ranked number one in the world, and towards the end, it kind of became very undecided.  
 **Translation:** 
 
 **[2280.00s] English:** I ended up getting surgery.  
 **Translation:** Vocabulary: undecided: 不确定
 
-**[2282.26s] English:** I ended up abandoning the super heavyweight division.  
+**[2282.26s] English:** I ended up abandoning the super-heavyweight division.  
 **Translation:** 
 
 **[2285.24s] English:** I went down to 225s for a few years.  
-**Translation:** 
+**Translation:** Vocabulary: abandoning: 放弃
 
 **[2289.00s] English:** WAL failed temporarily.  
 **Translation:** 
 
-**[2292.90s] English:** So the 225-pound division was scrapped.  
-**Translation:** Vocabulary: scrapped: 废弃; temporarily: 暂时
+**[2292.90s] English:** So, the 225-pound division was scrapped.  
+**Translation:** Vocabulary: temporarily: 暂时
 
-**[2295.70s] English:** And I said, okay, I'm going to go for the big crown once again.  
+**[2295.70s] English:** And I said, "Okay, I'm going to go for the big crown once again.  
 **Translation:** 
 
-**[2300.92s] English:** And I started to go after super heavyweights.  
+**[2300.92s] English:** And I started going after super heavyweights.  
 **Translation:** 
 
-**[2303.40s] English:** And the 2018 season was right hand.  
+**[2303.40s] English:** And the 2018 season was right-hand.  
 **Translation:** 
 
 **[2313.32s] English:** I started to enter negotiations to have the match with him.  
@@ -1354,10 +1355,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2317.88s] English:** We'd been chasing the match for 10 years.  
 **Translation:** 
 
-**[2320.76s] English:** They wanted to do it left hand.  
-**Translation:** 
+**[2320.76s] English:** They wanted to do it with their left hand.  
+**Translation:** Vocabulary: chasing: 追逐
 
-**[2322.30s] English:** I wanted to do it right hand.  
+**[2322.30s] English:** I wanted to do it with my right hand.  
 **Translation:** 
 
 **[2324.00s] English:** I just wanted to do the match.  
@@ -1367,9 +1368,9 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[2327.58s] English:** I wanted to meet Dennis.  
-**Translation:** 
+**Translation:** Vocabulary: dennis: Den尼斯
 
-**[2328.52s] English:** So people should know that the right hand has always been your strongest.  
+**[2328.52s] English:** So, people should know that the right hand has always been your strongest.  
 **Translation:** 
 
 **[2333.56s] English:** It has been.  
@@ -1387,28 +1388,28 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2341.68s] English:** Dennis was better than me that day, even on my best day.  
 **Translation:** 
 
-**[2344.80s] English:** If you had gone back my entire career, at no single day do I beat Dennis DiPlancoff in 2018.  
+**[2344.80s] English:** If you had looked back on my entire career, at no single day did I beat Dennis DiPolo in 2018.  
 **Translation:** 
 
 **[2351.54s] English:** I would like to think that I could maybe do it now.  
 **Translation:** 
 
-**[2354.12s] English:** But at that point, there would be no version that could have beat him.  
+**[2354.12s] English:** But at that point, there would be no version that could have beaten him.  
 **Translation:** 
 
 **[2358.86s] English:** Left or right?  
-**Translation:** 
+**Translation:** Vocabulary: beaten: 打败
 
-**[2360.26s] English:** Right hand, no.  
+**[2360.26s] English:** Right hand: No.  
 **Translation:** 
 
 **[2362.22s] English:** I'm curious about the right.  
 **Translation:** 
 
-**[2364.16s] English:** But left hand.  
+**[2364.16s] English:** But the left hand.  
 **Translation:** 
 
-**[2365.44s] English:** So is the world.  
+**[2365.44s] English:** So, is the world.  
 **Translation:** 
 
 **[2367.02s] English:** Well, it might still happen.  
@@ -1423,70 +1424,70 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2376.80s] English:** And I learned a lot from it.  
 **Translation:** 
 
-**[2380.62s] English:** I think before the Dennis match, I think I was, I don't know.  
+**[2380.62s] English:** I think before the Dennis match, I wasn't sure.  
 **Translation:** 
 
-**[2386.72s] English:** I don't know exactly what word to use.  
+**[2386.72s] English:** I don't know exactly which word to use.  
 **Translation:** 
 
 **[2389.64s] English:** Maybe I felt like my thinking was a little bit elitist.  
 **Translation:** 
 
-**[2393.40s] English:** Uh, and I really learned a lot.  
+**[2393.40s] English:** And I really learned a lot.  
 **Translation:** Vocabulary: elitist: 精英主义
 
 **[2397.14s] English:** I was really humbled that day.  
 **Translation:** 
 
 **[2399.42s] English:** Um.  
+**Translation:** Vocabulary: humbled: 谦卑
+
+**[2400.00s] English:** By how far and how professional and how prepared Dennis was, and how seriously he took the sport.  
 **Translation:** 
 
-**[2400.00s] English:** by how far and how professional and how prepared dennis was and how seriously he took the sport  
+**[2408.56s] English:** There's a mental, slightly terrifying calmness to him, which only comes with extreme preparation.  
+**Translation:** Vocabulary: calmness: 镇定; terrifying: 令人恐惧的
+
+**[2417.30s] English:** I think, yes, his level of dedication was extremely inspiring to me, you know.  
 **Translation:** 
 
-**[2408.56s] English:** there's a mental a slightly terrifying calmness to him which only comes with extreme preparation  
-**Translation:** Vocabulary: calmness: 内心平静; terrifying: 令人恐惧
-
-**[2417.30s] English:** i think yeah his level of dedication uh was extremely inspiring to me um you know i  
-**Translation:** 
-
-**[2426.54s] English:** used to do a job where it was serious enough that the the price could be death right  
+**[2426.54s] English:** Used to do a job where it was serious enough that the price could be death.  
 **Translation:** Vocabulary: dedication: 奉献精神
 
-**[2436.74s] English:** and i arm wrestled throughout that entire period and i always kind of looked at uh  
+**[2436.74s] English:** And I arm-wrestled throughout that entire period, and I always kind of looked at...  
 **Translation:** 
 
-**[2445.10s] English:** you know the cost of doing an activity being death uh limited to soldiering  
-**Translation:** Vocabulary: wrestled: 摔跤
-
-**[2454.72s] English:** and  
+**[2445.10s] English:** You know, the cost of doing an activity being death, or at least limited to soldiering.  
 **Translation:** 
 
-**[2456.40s] English:** you know  
+**[2454.72s] English:** And  
 **Translation:** 
 
-**[2456.52s] English:** you know  
+**[2456.40s] English:** You know,  
+**Translation:** 
+
+**[2456.52s] English:** You know,  
 **Translation:** 
 
 **[2456.54s] English:** And I kind of changed my mind a lot after that match.  
 **Translation:** 
 
-**[2460.46s] English:** I realized that anything that you're in love with, once you get far enough down the road and professional enough at it, it's going to kill you.  
+**[2460.46s] English:** I realized that anything you're in love with, once you get far enough down the road and professional enough at it, is going to kill you.  
 **Translation:** 
 
 **[2469.46s] English:** Like, it doesn't matter what you're doing.  
 **Translation:** 
 
-**[2471.44s] English:** If you're crazy enough about anything, it's probably going to take your life from you in some way.  
+**[2471.44s] English:** If you're crazy enough about anything, it's probably going to take a piece of your life in some way.  
 **Translation:** 
 
 **[2478.78s] English:** And that doesn't mean you rush towards death.  
 **Translation:** 
 
-**[2481.28s] English:** It's just your level of investment and level of risk can have some catastrophic effects.  
+**[2481.28s] English:** It's just that your level of investment and level of risk can have some catastrophic effects.  
 **Translation:** 
 
-**[2487.54s] English:** Bukowski, Charles Bukowski, I think has the quote, do what you love and let it kill you.  
+**[2487.54s] English:** Bukowski, Charles Bukowski, I think has the quote: "Do what you love, and let it kill you.  
 **Translation:** Vocabulary: bukowski: Bukowski; catastrophic: 灾难性的
 
 **[2492.96s] English:** Right.  
@@ -1499,7 +1500,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[2495.24s] English:** And I understood that Dennis's level of professionalism far exceeded mine in what we were doing at the time.  
-**Translation:** Vocabulary: exceeded: 超越; professionalism: 职业素养
+**Translation:** Vocabulary: exceeded: 超过; professionalism: 职业素养
 
 **[2505.48s] English:** And I realized that, you know, I was no longer employed.  
 **Translation:** 
@@ -1516,212 +1517,212 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2518.66s] English:** Like, how serious was I?  
 **Translation:** 
 
-**[2520.00s] English:** so dennis is an incredible guy is there moments in that match there's just humility there too  
+**[2520.00s] English:** So, Dennis is an incredible guy. There are moments in that match where there's just humility too.  
+**Translation:** Vocabulary: dennis: Den尼斯; humility: 谦逊
+
+**[2526.12s] English:** From him, that was a fascinating, uh, sort of thing. It seemed like you just hit a wall.  
 **Translation:** 
 
-**[2526.12s] English:** from him that was a fascinating uh sort of it seemed like you realized that you just hit a wall  
+**[2534.36s] English:** And you were not ready enough for it; it was incredible, there were so many things that I  
 **Translation:** 
 
-**[2534.36s] English:** and you were not ready enough for it it was incredible there was so many things that i  
+**[2539.20s] English:** Remember about the Dennis match? I mean, I remember seeing a video of someone, and then meeting them.  
 **Translation:** 
 
-**[2539.20s] English:** remember about the dennis match i mean i remember you know seeing video of somebody and then meeting  
-**Translation:** 
-
-**[2545.66s] English:** them in person it's different i remember in the weigh-ins sorry not the weigh-ins in the standoff  
+**[2545.66s] English:** They in person is different. I remember in the standoff, not the weigh-ins.  
 **Translation:** Vocabulary: standoff: 对峙
 
-**[2551.26s] English:** that we did you know before the match i'm looking at him like i'm close i'm looking at his arms  
+**[2551.26s] English:** That we did, you know, before the match. I'm looking at him like I'm close, and I'm looking at his arms.  
 **Translation:** 
 
-**[2555.70s] English:** and his bicep it looked like an ass like it was like a freaking glute muscle yeah like his  
+**[2555.70s] English:** And his bicep looked like an ass—like it was like a freaking glute muscle, yeah.  
 **Translation:** Vocabulary: bicep: 肱二头肌; freaking: damn
 
-**[2564.78s] English:** entire structure was so sinewy and just so strong i was like wow look he's physically so impressive  
+**[2564.78s] English:** The entire structure was so sinewy and just so strong; I was like, "Wow, look how physically impressive he is!  
 **Translation:** 
 
-**[2574.34s] English:** and uh  
-**Translation:** Vocabulary: sinewy: 肌腱发达
+**[2574.34s] English:** And uh,...  
+**Translation:** Vocabulary: sinewy: 肌腱发达的
 
-**[2575.66s] English:** i remember when i arm wrestled him a certain at a certain time he allowed me to kind of set my  
+**[2575.66s] English:** I remember when I arm-wrestled him; at a certain time, he allowed me to kind of set my own pace.  
 **Translation:** 
 
-**[2583.68s] English:** position you can very you you can't really tell because it happens very quickly but he let me set  
-**Translation:** Vocabulary: wrestled: 摔跤
-
-**[2590.12s] English:** my position which means i kind of got my locks in where where you can kind of really do a great  
+**[2583.68s] English:** Position, you can't really tell because it happens very quickly, but he let me set.  
 **Translation:** 
 
-**[2596.12s] English:** hold and he just ripped through me just so you you were able to get this great position so it was  
+**[2590.12s] English:** My position, which means I kind of got my locks in where you can really do a great job.  
 **Translation:** 
 
-**[2604.64s] English:** horrible  
+**[2596.12s] English:** Hold, and he just ripped through me, just so you could get this great position; it was  
+**Translation:** Vocabulary: ripped: 撕破
+
+**[2604.64s] English:** Horrible.  
 **Translation:** 
 
-**[2605.66s] English:** right through me yeah and uh the first time i ever thought that uh you know he that i had torn  
+**[2605.66s] English:** Right through me, yeah, and the first time I ever thought that — you know, he that I had torn.  
 **Translation:** 
 
-**[2612.78s] English:** something i thought like after the match i'm like geez did he rip my chest right in half like  
+**[2612.78s] English:** Something I thought, like after the match, I'm like, "Geez, did he rip my chest right in half?  
 **Translation:** 
 
-**[2616.96s] English:** um what what did it no it was a hundred percent yeah no i didn't i didn't actually nothing went  
+**[2616.96s] English:** Um, what did it? No, it was a hundred percent. Yeah, no, I didn't; actually, nothing went.  
 **Translation:** 
 
-**[2624.66s] English:** purple or anything but um yeah the strength gap was very significant with dennis uh so could he  
+**[2624.66s] English:** Purple, or anything but, um, yeah, the strength gap was very significant with Dennis, uh, so could he?  
 **Translation:** 
 
-**[2633.60s] English:** what would it take to beat him on that one  
+**[2633.60s] English:** What would it take to beat him on that one?  
+**Translation:** Vocabulary: dennis: 丹尼斯
+
+**[2635.66s] English:** Um, it would take me just being  
 **Translation:** 
 
-**[2635.66s] English:** um it would it would take me just being  
+**[2640.00s] English:** A little bit stronger, um, and more healthy, yeah. Uh, my left side was not as healthy as it should be.  
 **Translation:** 
 
-**[2640.00s] English:** a little bit stronger um and and more healthy yeah uh my left was not as healthy as it should be  
+**[2649.46s] English:** Like I didn't have a full, rounded technical arsenal; it takes time after surgery, it really does.  
 **Translation:** 
 
-**[2649.46s] English:** like i didn't have a full rounded technical arsenal it takes a time after surgery it really  
+**[2656.04s] English:** Does it like, I mean, you can be good, but after a surgery like what I had, you know, you're probably  
+**Translation:** Vocabulary: arsenal: 武器库
+
+**[2662.54s] English:** Looking at three or four years before you're starting to hit technical proficiency, the way  
 **Translation:** 
 
-**[2656.04s] English:** does like i mean you can be good but after a surgery like what i had you know you're probably  
-**Translation:** Vocabulary: arsenal: 技术储备
-
-**[2662.54s] English:** looking at three or four years before you're starting to hit technical proficiency the way  
-**Translation:** 
-
-**[2667.02s] English:** you should be and uh yeah just a bit stronger how do you interpret the calmness on his face  
+**[2667.02s] English:** You should be, and uh, yeah, just a bit stronger. How do you interpret the calmness on his face?  
 **Translation:** Vocabulary: calmness: 镇定; interpret: 解释; proficiency: 熟练
 
-**[2673.54s] English:** well what is that about is he actually that is a russian thing i think i don't know i see a lot  
+**[2673.54s] English:** Well, what is that about? Is he actually that? Is it a Russian thing? I think I don't know, but I see a lot.  
 **Translation:** 
 
-**[2679.84s] English:** of russians like that you know they're so like stoic and i'm such a fan of russia i really want  
+**[2679.84s] English:** Of Russians like that, you know? They're so stoic, and I'm such a fan of Russia; I really want...  
 **Translation:** Vocabulary: stoic: 坚强忍耐
 
-**[2685.50s] English:** to go to moscow i've been saying it forever you've never been not yet not yet i i want to go i want  
+**[2685.50s] English:** To go to Moscow, I've been saying it forever. You've never been; not yet, not yet. I want to go. I want.  
 **Translation:** 
 
-**[2690.54s] English:** to just go and live there for like a month and just train the moscow's got such a crazy arm  
+**[2690.54s] English:** To just go and live there for like a month and just train, Moscow's got such a crazy arm.  
 **Translation:** Vocabulary: moscow: 莫斯科
 
-**[2695.32s] English:** wrestling scene they've got  
+**[2695.32s] English:** Wrestling scene; they've got  
 **Translation:** 
 
-**[2697.02s] English:** from what i understand they just have so many clubs there's so many strong athletes  
-**Translation:** Vocabulary: wrestling: 摔跤比赛
-
-**[2699.84s] English:** just go and just lightning rod yeah have you considered doing something of that sort it's  
-**Translation:** 
-
-**[2708.18s] English:** like rocky four again oh yeah like oh and lead up to june i would certainly consider it i've got  
-**Translation:** 
-
-**[2714.94s] English:** only one trip planned at the moment administration is very important  
-**Translation:** 
-
-**[2721.96s] English:** you know what do you mean by administration so like managing your time management yeah  
-**Translation:** 
-
-**[2726.26s] English:** the management  
-**Translation:** 
-
-**[2727.02s] English:** has to be very efficient you know when i'm a tourist when i'm a visitor a little bit of that  
-**Translation:** 
-
-**[2732.52s] English:** goes down you know when i'm at my home and things are familiar i've got a really great grasp on my  
-**Translation:** 
-
-**[2738.86s] English:** time you know everything's in place everything's perfect you know if i could magically transport  
-**Translation:** 
-
-**[2745.30s] English:** moscow into my hometown and just go out and visit them yeah so it's very difficult when you're  
-**Translation:** 
-
-**[2751.08s] English:** traveling you have to keep all the you have to uh figure out what are you eating where how are you  
-**Translation:** 
-
-**[2757.02s] English:** all the socializing plus you're more  
-**Translation:** 
-
-**[2760.00s] English:** more celebrity so there's social interaction which i don't know um how draining that could  
-**Translation:** Vocabulary: draining: 消耗精力的
-
-**[2765.10s] English:** be on you outside of the arm wrestling table so all you have to manage all of that because  
-**Translation:** 
-
-**[2769.80s] English:** ultimately you have to focus on the fight ahead yeah yeah a lot of my strength comes from just  
-**Translation:** 
-
-**[2777.96s] English:** being in a familiar place doing my routine i love to travel i love to get out there and meet people  
-**Translation:** 
-
-**[2786.40s] English:** and new experiences but when i just want to really prepare for a big match yeah home is uh  
-**Translation:** 
-
-**[2793.84s] English:** where i get strong so that loss against dennis was one of the few losses in your career uh how did  
-**Translation:** 
-
-**[2801.14s] English:** that feel in the moments after in the days after in the months after in the years after how has it  
-**Translation:** 
-
-**[2809.00s] English:** changed you as an arm wrestler as a human being well  
-**Translation:** 
-
-**[2813.56s] English:** it's  
-**Translation:** Vocabulary: wrestler: 摔跤手
-
-**[2816.32s] English:** it's  
-**Translation:** 
-
-**[2816.38s] English:** it's  
-**Translation:** 
-
-**[2816.40s] English:** tough to lose uh still haunt you um i don't think so i actually was really happy to lose to dennis  
-**Translation:** 
-
-**[2824.48s] English:** because you know sometimes when you lose a match there's a lot of matches that i've lost  
-**Translation:** 
-
-**[2830.04s] English:** where they upset me because i know i made a mistake i didn't make a mistake with dennis  
-**Translation:** 
-
-**[2835.32s] English:** he was just he was just way better there's nothing i could have done that day uh i'm really at peace  
-**Translation:** 
-
-**[2840.52s] English:** with it um dennis to me was just a big inspiration i think that me are  
-**Translation:** 
-
-**[2846.38s] English:** arm wrestling dennis left-handed that day just let me touch probably one of the strongest human  
+**[2697.02s] English:** From what I understand, they just have so many clubs, there are so many strong athletes.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[2851.82s] English:** beings on the arm wrestling table that's ever lived you know left-handed um so so knowing  
+**[2699.84s] English:** Just go and get a lightning rod, yeah. Have you considered doing something like that? It's  
 **Translation:** 
 
-**[2857.22s] English:** that's possible is almost like yeah uh inspiration to you that i can be at that level too yeah  
+**[2708.18s] English:** Like "Rocky IV" again? Oh, yeah! And leading up to June, I would certainly consider it. I've got...  
 **Translation:** 
 
-**[2863.62s] English:** yeah yeah seeing what dennis did uh you know just trying to absorb a little bit of his knowledge  
+**[2714.94s] English:** Only one trip is planned at the moment, and administration is very important.  
 **Translation:** 
 
-**[2870.30s] English:** uh planted seeds in me yeah i mean when i look at my career  
+**[2721.96s] English:** You know, what do you mean by "administration" so, like managing your time? Management, yeah.  
 **Translation:** 
 
-**[2876.38s] English:** it's it's a bit like the stock market but  
+**[2726.26s] English:** The management  
+**Translation:** 
+
+**[2727.02s] English:** Has to be very efficient, you know? When I'm a tourist or a visitor, a little bit of that.  
+**Translation:** 
+
+**[2732.52s] English:** Goes down, you know? When I'm at my home and things are familiar, I've got a really great grasp on my.  
+**Translation:** 
+
+**[2738.86s] English:** Time, you know, everything's in place; everything's perfect. You know, if I could magically transport...  
+**Translation:** 
+
+**[2745.30s] English:** Moscow into my hometown, and just go out and visit them. Yeah, so it's very difficult when you're  
+**Translation:** 
+
+**[2751.08s] English:** Traveling, you have to keep track of everything: what you're eating, where you're eating it, and how you're getting around.  
+**Translation:** 
+
+**[2757.02s] English:** All the socializing, plus you're more.  
+**Translation:** 
+
+**[2760.00s] English:** More celebrities mean more social interaction, which I don't know how draining that could be.  
+**Translation:** Vocabulary: draining: 消耗精力的
+
+**[2765.10s] English:** Be on you outside of the arm-wrestling table, so all you have to manage is all of that because.  
+**Translation:** 
+
+**[2769.80s] English:** Ultimately, you have to focus on the fight ahead, yeah. Yeah, a lot of my strength comes from just  
+**Translation:** 
+
+**[2777.96s] English:** Being in a familiar place, doing my routine, I love to travel; I love to get out there and meet people.  
+**Translation:** 
+
+**[2786.40s] English:** And new experiences, but when I just want to really prepare for a big match, yeah, home is uh-oh.  
+**Translation:** 
+
+**[2793.84s] English:** Where I got strong, so that loss against Dennis was one of the few losses in my career. How did  
+**Translation:** 
+
+**[2801.14s] English:** That feeling in the moments after, in the days after, in the months after, in the years after, how has it  
+**Translation:** Vocabulary: dennis: 丹尼斯
+
+**[2809.00s] English:** Changed you as an arm wrestler, as a human being, well.  
+**Translation:** 
+
+**[2813.56s] English:** It's  
+**Translation:** Vocabulary: wrestler: 摔跤手
+
+**[2816.32s] English:** It's  
+**Translation:** 
+
+**[2816.38s] English:** It's  
+**Translation:** 
+
+**[2816.40s] English:** It's tough to lose, uh, it still haunts you, um, I don't think so. I actually was really happy to lose to Dennis.  
+**Translation:** 
+
+**[2824.48s] English:** Because, you know, sometimes when you lose a match, there are a lot of matches that I've lost.  
+**Translation:** 
+
+**[2830.04s] English:** Where they upset me because I know I made a mistake, but I didn't make a mistake with Dennis.  
+**Translation:** 
+
+**[2835.32s] English:** He was just way better. There's nothing I could have done that day, and I'm really at peace.  
+**Translation:** 
+
+**[2840.52s] English:** With it, um, Dennis was just a big inspiration to me, I think.  
+**Translation:** 
+
+**[2846.38s] English:** Arm wrestling, Dennis (left-handed that day), just let me touch—probably one of the strongest humans.  
+**Translation:** Vocabulary: wrestling: 摔跤
+
+**[2851.82s] English:** Beings on the arm-wrestling table that's ever lived, you know, left-handed. Um, so, knowing...  
+**Translation:** 
+
+**[2857.22s] English:** That's possible is almost like yeah, uh, inspiration to you that I can be at that level, too.  
+**Translation:** 
+
+**[2863.62s] English:** Yeah, yeah, seeing what Dennis did—uh, you know, just trying to absorb a little bit of his knowledge.  
+**Translation:** 
+
+**[2870.30s] English:** Uh, seeds were planted in me, yeah. I mean, when I look at my career.  
+**Translation:** 
+
+**[2876.38s] English:** It's a bit like the stock market, but  
 **Translation:** 
 
 **[2880.00s] English:** For sure, I'm trending upwards.  
+**Translation:** Vocabulary: trending: 上升
+
+**[2882.38s] English:** And since really wrapping my mind around some of the Russian philosophies, they have really changed my training systems.  
 **Translation:** 
 
-**[2882.38s] English:** And since really kind of wrapping my mind around some of the Russian philosophies, they really changed my training systems.  
-**Translation:** 
-
-**[2891.76s] English:** There were some base philosophies that they talked to me about over there that massively impacted my training.  
-**Translation:** Vocabulary: massively: 极大地; philosophies: 哲学思想
+**[2891.76s] English:** There were some basic philosophies that they talked to me about over there that massively impacted my training.  
+**Translation:** Vocabulary: massively: 大幅度地; philosophies: 哲学; wrapping: 围绕
 
 **[2899.78s] English:** Is it possible to convert some of those philosophies into words?  
 **Translation:** 
 
 **[2902.70s] English:** Can you describe some of the ideas they taught you?  
-**Translation:** 
+**Translation:** Vocabulary: convert: 转换
 
 **[2905.46s] English:** Never smile.  
 **Translation:** 
@@ -1738,22 +1739,22 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2917.84s] English:** Yeah, yeah, for sure.  
 **Translation:** 
 
-**[2919.68s] English:** I think that I was raised under, I believe it's a flawed, I mean, it's not flawed because it has its value as well.  
-**Translation:** 
+**[2919.68s] English:** I think that I was raised under what I believe is a flawed system, although it does have its values as well.  
+**Translation:** Vocabulary: flawed: 有缺陷的
 
 **[2930.48s] English:** But it's best if you understand both philosophies.  
 **Translation:** 
 
-**[2934.36s] English:** I think a North American thing that's just so...  
+**[2934.36s] English:** I think a North American thing that's just so ...  
 **Translation:** 
 
-**[2938.10s] English:** So ingrained in our fitness society is no pain, no gain, you know?  
+**[2938.10s] English:** So ingrained in our fitness society is "no pain, no gain," you know?  
 **Translation:** 
 
-**[2945.02s] English:** And just pushing and like sweating and going harder and like fighting through like and grit and toughness.  
+**[2945.02s] English:** And just pushing, and like sweating and going harder, and like fighting through — grit and toughness.  
 **Translation:** Vocabulary: ingrained: 根深蒂固; toughness: 坚韧
 
-**[2953.46s] English:** But, and then you talk to the Russians and they're like, yeah, never fail.  
+**[2953.46s] English:** But, and then you talk to the Russians, and they're like, "Yeah, never fail.  
 **Translation:** 
 
 **[2957.92s] English:** You never fail.  
@@ -1786,16 +1787,16 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2976.14s] English:** Don't fail.  
 **Translation:** 
 
-**[2977.60s] English:** So that's how you, they also are believers of volume.  
+**[2977.60s] English:** So that's how they, too, are believers in volume.  
 **Translation:** Vocabulary: believers: 信仰者
 
 **[2981.40s] English:** Yeah.  
 **Translation:** 
 
-**[2982.92s] English:** There's a lot of strategies, but, you know, volume is a massive principle.  
+**[2982.92s] English:** There are a lot of strategies, but you know, volume is a massive principle.  
 **Translation:** 
 
-**[2987.14s] English:** And volume is very hard to achieve when you're believing in no pain, no gain.  
+**[2987.14s] English:** And volume is very hard to achieve when you're believing in "no pain, no gain.  
 **Translation:** 
 
 **[2992.82s] English:** Right.  
@@ -1807,17 +1808,17 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[2993.70s] English:** They don't really go together.  
 **Translation:** 
 
-**[2995.00s] English:** No pain, no gain, more injuries.  
+**[2995.00s] English:** No pain, no gain; more injuries.  
 **Translation:** 
 
-**[2998.10s] English:** So the, is there a parallel?  
+**[2998.10s] English:** So, is there a parallel?  
 **Translation:** 
 
-**[3000.00s] English:** Well, it's because in wrestling, some of the greatest wrestlers of all time are Russian.  
+**[3000.00s] English:** Well, it's because some of the greatest wrestlers of all time are Russian.  
 **Translation:** 
 
 **[3004.60s] English:** And they were big.  
-**Translation:** Vocabulary: wrestlers: 摔跤手; wrestling: 摔跤
+**Translation:** Vocabulary: wrestlers: 摔跤手
 
 **[3006.38s] English:** Dan Gable talks about it.  
 **Translation:** 
@@ -1829,45 +1830,45 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[3009.96s] English:** Like lighter wrestling.  
-**Translation:** 
+**Translation:** Vocabulary: wrestling: 摔跤
 
 **[3011.44s] English:** Right.  
 **Translation:** 
 
-**[3011.60s] English:** Because probably, ultimately, actually, it boils down to that's how you achieve higher volume.  
+**[3011.60s] English:** Because, ultimately, it boils down to achieving higher volume.  
 **Translation:** 
 
-**[3017.86s] English:** Like over the stretch of years, the way to reduce injury.  
+**[3017.86s] English:** Like over the span of years, the way to reduce injury.  
 **Translation:** 
 
-**[3021.88s] English:** I mean, in wrestling, also, technique might have greater value than it does in arm wrestling.  
+**[3021.88s] English:** I mean, in wrestling, technique might have greater value than it does in arm wrestling.  
 **Translation:** 
 
 **[3032.22s] English:** Obviously, technique is extremely important in arm wrestling.  
 **Translation:** 
 
-**[3034.76s] English:** But power can defeat technique, it seems like.  
+**[3034.76s] English:** But power can defeat technique, it seems.  
 **Translation:** 
 
 **[3040.22s] English:** In wrestling, you can get away.  
 **Translation:** 
 
-**[3042.52s] English:** There's a lot of ways you can really do sneak attacks, sort of use leverage, all those kinds of things.  
+**[3042.52s] English:** There are lots of ways you can really do sneak attacks—sort of use leverage, and all those kinds of things.  
 **Translation:** Vocabulary: leverage: 利用优势
 
-**[3048.54s] English:** So there's even more incentive to do play.  
+**[3048.54s] English:** So, there's even more incentive to play.  
 **Translation:** 
 
-**[3051.88s] English:** And all that kind of stuff.  
+**[3051.88s] English:** And, you know, all that kind of stuff.  
 **Translation:** Vocabulary: incentive: 动机
 
-**[3053.36s] English:** But do you see the parallels between the two worlds?  
+**[3053.36s] English:** But, do you see the parallels between the two worlds?  
 **Translation:** 
 
 **[3056.68s] English:** Oh, yeah.  
 **Translation:** 
 
-**[3057.08s] English:** Wrestling and arm wrestling.  
+**[3057.08s] English:** Wrestling and arm-wrestling.  
 **Translation:** 
 
 **[3058.22s] English:** 100%.  
@@ -1879,7 +1880,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3060.80s] English:** Right.  
 **Translation:** 
 
-**[3061.40s] English:** So I'm playing on the table for hours.  
+**[3061.40s] English:** So, I'm playing on the table for hours.  
 **Translation:** 
 
 **[3063.26s] English:** Yeah.  
@@ -1888,7 +1889,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3063.68s] English:** Right.  
 **Translation:** 
 
-**[3064.20s] English:** So that's my number one training thing that I do, is I go on the table for hours, and I play.  
+**[3064.20s] English:** So, that's my number-one training thing that I do: I go on the table for hours and play.  
 **Translation:** 
 
 **[3072.82s] English:** Yeah.  
@@ -1897,7 +1898,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3073.22s] English:** Yeah.  
 **Translation:** 
 
-**[3073.80s] English:** When you did, Sergey, can you pull up that video?  
+**[3073.80s] English:** When you did, Sergey, could you pull up that video?  
 **Translation:** 
 
 **[3076.84s] English:** It's on Devin's channel, the water tank one.  
@@ -1918,7 +1919,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3085.96s] English:** I love it.  
 **Translation:** 
 
-**[3086.78s] English:** It's maybe the, I don't know if it was fisheye, but it had a fisheye feel.  
+**[3086.78s] English:** It's maybe the lens—I don't know if it was a fisheye, but it had a fisheye feel.  
 **Translation:** Vocabulary: fisheye: 广角镜头
 
 **[3091.08s] English:** Yeah.  
@@ -1931,7 +1932,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[3093.62s] English:** It was amazing.  
-**Translation:** Vocabulary: camaraderie: 同甘共苦
+**Translation:** Vocabulary: camaraderie: 同伴友谊
 
 **[3094.70s] English:** Yeah.  
 **Translation:** 
@@ -1939,10 +1940,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3094.88s] English:** But maybe just a brief mention of Dmitry, the Russian guy.  
 **Translation:** 
 
-**[3102.58s] English:** What, in that play, what are some memorable things here?  
+**[3102.58s] English:** What, in that play, are some memorable things?  
 **Translation:** 
 
-**[3108.82s] English:** Like when you go against a bunch of different people, a bunch of strangers.  
+**[3108.82s] English:** Like when you go against a bunch of different people, or a bunch of strangers.  
 **Translation:** 
 
 **[3111.68s] English:** Yeah.  
@@ -1970,6 +1971,9 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[3119.54s] English:** So.  
+**Translation:** 
+
+**[3120.00s] English:** I love to go to new clubs because the energy's always high, like the first time you go to a club.  
 **Translation:** 
 
 **[3120.54s] English:** So.  
@@ -2032,313 +2036,286 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3123.58s] English:** So.  
 **Translation:** 
 
-**[3120.00s] English:** i love to go to new clubs because the energy's always high like the first time you go to a club  
+**[3126.00s] English:** Everybody's trying to kill you, yeah, yeah, so they're gonna create excitement, yeah, and so you feed.  
 **Translation:** 
 
-**[3126.00s] English:** everybody's trying to kill you yeah yeah so they're gonna excitement yeah and so you feed  
+**[3130.48s] English:** Off of that, yeah, you can. You can, if you're able to be strong enough to absorb it without.  
 **Translation:** 
 
-**[3130.48s] English:** off of that yeah you do you can you can if you're able to be strong enough to absorb it without  
+**[3135.20s] English:** Injury, it's awesome; it's awesome. Um, because they're giving you everything they can, yeah, yeah.  
 **Translation:** 
 
-**[3135.20s] English:** injury it's awesome it's awesome um because they're giving you everything they can yeah yeah  
-**Translation:** 
-
-**[3142.32s] English:** yeah right so it's it's very specific right like i'm gonna get way stronger at arm wrestling and  
+**[3142.32s] English:** Yeah, right. So, it's very specific, right? Like, I'm gonna get way stronger at arm wrestling and  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[3148.24s] English:** what i try and do when i go to these places is i make an assumption i make an assumption i'm the  
+**[3148.24s] English:** What I try and do when I go to these places is make an assumption: I assume I'm the  
 **Translation:** 
 
-**[3154.40s] English:** best guy there and so i'll arm wrestle in a way that kind of protects them because the more i can  
-**Translation:** Vocabulary: assumption: 假设; wrestle: 摔跤
+**[3154.40s] English:** Best guy there, and so I'll arm-wrestle in a way that kind of protects them because the more I can.  
+**Translation:** Vocabulary: assumption: 假设
 
-**[3162.08s] English:** protect them and kind of keep them kind of in a good position they can actually give me more right  
+**[3162.08s] English:** Protect them and kind of keep them in a good position, so they can actually give me more rights.  
 **Translation:** 
 
-**[3169.60s] English:** so i kind of i kind of give them little pieces that i think will put them in a place that they  
+**[3169.60s] English:** So, I kind of give them little pieces that I think will put them in a place that they  
 **Translation:** 
 
-**[3175.76s] English:** can really give me more  
+**[3175.76s] English:** Can you really give me more?  
 **Translation:** 
 
-**[3178.24s] English:** and so yeah that's what i'm doing and then it when i see somebody like dimitri  
+**[3178.24s] English:** And so, yeah, that's what I'm doing. And then, when I see someone like Dimitri,...  
 **Translation:** 
 
-**[3182.96s] English:** yeah i pull that in a little bit right so okay so i know dimitri's the number one guy in texas  
+**[3182.96s] English:** Yeah, I pull that in a little bit, right? So okay, so I know Dimitri's the number-one guy in Texas.  
 **Translation:** 
 
-**[3189.92s] English:** uh you know lots of respect to the guy i i won't give him all the pieces until i really  
+**[3189.92s] English:** Uh, you know, lots of respect to the guy. I won't give him all the pieces until I really  
 **Translation:** Vocabulary: texas: 德克萨斯州
 
-**[3195.92s] English:** kind of gauge where he's at because i certainly in training don't want to fail  
+**[3195.92s] English:** Kind of gauge where he's at, because I certainly don't want to fail during training.  
 **Translation:** 
 
-**[3201.28s] English:** i don't want that i don't want to when you fail in arm wrestling it's just imagine it's just bad  
-**Translation:** Vocabulary: gauge: 测量工具
+**[3201.28s] English:** I don't want that. I don't want to. When you fail in arm wrestling, it's just bad.  
+**Translation:** Vocabulary: gauge: 测量尺
 
-**[3207.20s] English:** technique  
+**[3207.20s] English:** Technique  
 **Translation:** 
 
-**[3208.24s] English:** and you're trying and bad technique you're going to get hurt yeah so you always want to be in a  
+**[3208.24s] English:** And you're trying with bad technique, you're going to get hurt, yeah. So you always want to be in a  
 **Translation:** 
 
-**[3212.80s] English:** strong position here what about how does endurance come into play here and here's video yeah strapping  
+**[3212.80s] English:** Here, a strong position is important. How does endurance come into play here? And here's a video: yeah, strapping.  
 **Translation:** 
 
-**[3218.64s] English:** up with that's right yeah how do you i mean you went for like i don't know two hours yeah it was  
-**Translation:** Vocabulary: endurance: 持久力; strapping: 绑缚
+**[3218.64s] English:** Up, that's right. Yeah, how did you manage to go for like I don't know, two hours? Yeah, it was...  
+**Translation:** Vocabulary: endurance: 耐力; strapping: 绑缚
 
-**[3224.48s] English:** long so the first this first run of the video i think was a little over an hour then i took  
+**[3224.48s] English:** Long, so the first run of the video I think was a little over an hour, then I took  
 **Translation:** 
 
-**[3229.76s] English:** a break and i probably did another 45 minutes or so but i mean do you how can are you okay  
+**[3229.76s] English:** A break, and I probably did another 45 minutes or so. But, I mean, do you how can you be okay?  
 **Translation:** 
 
-**[3238.24s] English:** with this aspect of this yeah that's probably  
+**[3238.24s] English:** With this aspect of it, yeah, that's probably.  
 **Translation:** 
 
-**[3240.00s] English:** like when you talk to the arm wrestling world that's probably what i'm best known for is is  
+**[3240.00s] English:** Like when you talk to the arm-wrestling world, that's probably what I'm best known for.  
 **Translation:** 
 
-**[3243.94s] English:** my endurance so this helps build that it does but that's not why i'm doing it i'm doing it to get  
+**[3243.94s] English:** My endurance, so this helps build that. It does, but that's not why I'm doing it. I'm doing it to get...  
 **Translation:** 
 
-**[3249.52s] English:** strong um in my opinion this is this is one of the best ways to get strong especially far away  
+**[3249.52s] English:** Strong, um, in my opinion, this is one of the best ways to get stronger, especially when you're far away.  
 **Translation:** 
 
-**[3255.96s] English:** from the from a tournament uh or or any kind of an event uh i wouldn't want to do this you know  
+**[3255.96s] English:** From the tournament or any kind of event, I wouldn't want to do this, you know.  
 **Translation:** 
 
-**[3264.02s] English:** even a month or even six weeks or even maybe even eight weeks before a big event i'd want to  
+**[3264.02s] English:** Even a month, or even six weeks, or even maybe eight weeks before a big event, I'd want to  
 **Translation:** 
 
-**[3270.30s] English:** already be kind of shrinking my volume but far away from an event yeah as much volume as your  
+**[3270.30s] English:** Already, it's kind of shrinking my volume, but far away from an event, yeah. As much volume as your  
 **Translation:** 
 
-**[3276.80s] English:** body can handle and you'll feel it you'll feel it like i felt it at times like you know after  
+**[3276.80s] English:** The body can handle it, and you'll feel it—you'll feel it like I felt it at times, like you know, after.  
 **Translation:** Vocabulary: shrinking: 缩小
 
-**[3281.80s] English:** the hour mark i'm like okay i can feel my blood sugar kind of diminishing i can feel like the  
+**[3281.80s] English:** The hour mark, I'm like, "Okay, I can feel my blood sugar kind of diminishing, I can feel like,  
 **Translation:** 
 
-**[3287.16s] English:** blood that's going to my muscles is kind of like it's not really pushing more good stuff in it's  
-**Translation:** Vocabulary: diminishing: 减少
+**[3287.16s] English:** Blood that's going to my muscles is kind of like it's not really pushing more good stuff in; it's  
+**Translation:** Vocabulary: diminishing: 降低
 
-**[3293.56s] English:** i'm  
+**[3293.56s] English:** I'm  
 **Translation:** 
 
-**[3294.02s] English:** starting to break down and you don't want that you don't want that quick pause bathroom break  
+**[3294.02s] English:** Starting to break down, and you don't want that. You don't want that; quick pause, bathroom break.  
 **Translation:** 
 
-**[3299.36s] English:** i'm good okay i kind of need one i'll maybe get a sweater it's a bit is it cold does that matter  
+**[3299.36s] English:** I'm good, okay. I kind of need one; I'll maybe get a sweater. It's a bit cold, isn't it? Does that matter?  
 **Translation:** 
 
-**[3305.90s] English:** and i still love the idea of you going to russia yeah and uh training there yeah i'm also making  
+**[3305.90s] English:** And I still love the idea of you going to Russia, yeah, and training there, yeah. I'm also making  
 **Translation:** 
 
-**[3317.52s] English:** a trip out to russia oh yeah when for different it was hard with the current conflict uh yeah  
+**[3317.52s] English:** A trip out to Russia? Oh, yeah. When for different things—it was hard with the current conflict, uh, yeah.  
 **Translation:** 
 
-**[3322.88s] English:** the tensions there  
+**[3322.88s] English:** The tensions there.  
 **Translation:** 
 
-**[3324.02s] English:** but i'm hoping uh before your match actually so may for a couple of interviews with a couple of  
+**[3324.02s] English:** But I'm hoping, uh, before your match actually starts, maybe for a couple of interviews with a couple of journalists.  
 **Translation:** 
 
-**[3329.80s] English:** folks some of which people know maybe i could ask you about um to comment on some matches that  
+**[3329.80s] English:** Folks, some of which people might know, maybe I could ask you to comment on some matches that.  
 **Translation:** 
 
-**[3339.12s] English:** stand out to you in in your in your career sure is there something uh is there a particular i  
+**[3339.12s] English:** Does anything stand out to you in your career? Sure, is there something, uh, is there a particular incident or project that stands out?  
 **Translation:** 
 
-**[3348.50s] English:** have a bunch that i really enjoy but is there something that stands out to you as as uh as  
+**[3348.50s] English:** Have a bunch that I really enjoy, but is there something that stands out to you as well?  
 **Translation:** 
 
-**[3354.02s] English:** a member of the russian club or as a member of the russian club in general  
+**[3354.02s] English:** A member of the Russian Club, or as a member of the Russian Club in general.  
 **Translation:** 
 
-**[3356.80s] English:** yeah i'm i'm definitely gonna be a part of that so it's sort of like a walk in the park  
+**[3356.80s] English:** Yeah, I'm definitely going to be a part of that, so it's sort of like a walk in the park.  
 **Translation:** 
 
-**[3362.08s] English:** non-sense but also i've never really really played a part of the russian club i think  
+**[3360.00s] English:** Then, um, you've faced Michael Tyler, who mentioned John Present, and you've also faced Matt.  
 **Translation:** 
 
-**[3366.38s] English:** that's been in a lot of our knowledge for a long time and you know the overall concept of russian  
-**Translation:** 
-
-**[3371.20s] English:** clubs and also the Bishop of russia is that you know that when we play russian we play as a  
-**Translation:** 
-
-**[3377.22s] English:** kind of like an eight-year-old look at the inside of the russian club or you know a lot of it  
-**Translation:** 
-
-**[3382.14s] English:** that we play a little bit different and that's it but i think that it's quite a unique thing uh seeing that  
-**Translation:** 
-
-**[3360.00s] English:** then um you you faced michael tyler who mentioned john present you've you faced matt  
+**[3362.08s] English:** Non-sense, but also I've never really played a part in the Russian Club; I think.  
 **Translation:** Vocabulary: tyler: 泰勒
 
-**[3368.44s] English:** um is there something that stands out to you that uh technically or psychologically  
+**[3366.38s] English:** That's been in a lot of our knowledge for a long time, and you know, the overall concept of Russian.  
 **Translation:** 
 
-**[3373.86s] English:** you've learned a lot from i've i feel like i try and learn something from every match but  
-**Translation:** Vocabulary: psychologically: 心理上
+**[3368.44s] English:** Um, is there something that stands out to you that, technically or psychologically,  
+**Translation:** Vocabulary: psychologically: 心理上; technically: 技术上
 
-**[3380.42s] English:** there is a very special match to me that to this day i can't explain uh  
+**[3371.20s] English:** Clubs, and also the Bishop of Russia is that you know that when we play Russian, we play as a  
 **Translation:** 
 
-**[3385.86s] English:** uh very weird phenomena uh so i think it was 2005 uh it was my first  
+**[3373.86s] English:** You've learned a lot from me. I feel like I try and learn something from every match, but...  
 **Translation:** 
 
-**[3395.58s] English:** combat tour overseas so it was a active tour uh you know among among other things i i got  
+**[3377.22s] English:** Kind of like an eight-year-old looking at the inside of the Russian club, or you know, a lot of it.  
 **Translation:** 
 
-**[3406.38s] English:** shot during that tour like we got blown a long tour rough tour and i trained the whole time  
+**[3380.42s] English:** There is a very special match to me that, to this day, I can't explain.  
+**Translation:** 
+
+**[3382.14s] English:** That we play a little bit differently, and that's it, but I think that's quite a unique thing to see.  
+**Translation:** 
+
+**[3385.86s] English:** Uh, very weird phenomena. Uh, so I think it was 2005. Uh, it was my first.  
+**Translation:** 
+
+**[3395.58s] English:** Combat tour overseas; so it was an active tour, you know, among other things, I got  
+**Translation:** 
+
+**[3406.38s] English:** Shot during that tour, like we got blown away by a long, rough tour, and I trained the whole time.  
 **Translation:** Vocabulary: combat: 战斗
 
-**[3413.00s] English:** through knowing that at the end of this i was going to have a  
+**[3413.00s] English:** Through knowing that at the end of this, I was going to have a  
 **Translation:** 
 
-**[3415.76s] English:** big match. So there's a champion guy called Ron Bath. Uh, he's kind of, if there wasn't no John  
+**[3415.76s] English:** Big match. So there's a champion guy called Ron Bath. Uh, he's kind of, if there weren't no John,...  
 **Translation:** 
 
-**[3424.10s] English:** Brzenk, there would be Ron Bath. Okay. So extremely decorated, unbelievable arm wrestler from United  
+**[3424.10s] English:** Brzenk, there would be Ron Bath. Okay. So, extremely decorated; an unbelievable arm wrestler from United States.  
 **Translation:** 
 
-**[3431.78s] English:** States. And this is kind of when I was just kind of coming up in the sports still, I was fairly  
-**Translation:** Vocabulary: decorated: 荣获勋章; wrestler: 摔跤手
+**[3431.78s] English:** States. And this is kind of when I was just kind of coming up in the sport; still, I was fairly.  
+**Translation:** Vocabulary: decorated: 获奖众多; wrestler: 摔跤手
 
-**[3438.12s] English:** well-established. I was definitely the best guy in Canada and I had been for a few years, but I  
+**[3438.12s] English:** Well-established, I was definitely the best guy in Canada and I had been for a few years, but I  
 **Translation:** 
 
-**[3443.30s] English:** hadn't really expanded internationally too much. So I had a one-on-one match with Ron Bath  
+**[3443.30s] English:** Hadn't really expanded internationally too much. So, I had a one-on-one match with Ron Bath.  
 **Translation:** 
 
-**[3451.88s] English:** and that's the one. Yeah. Extremely hard fought battle was three, one, I think three, one, but  
+**[3451.88s] English:** And that's the one. Yeah. It was an extremely hard-fought battle, three-one, I think, three-one, but  
 **Translation:** 
 
-**[3461.78s] English:** every match was really close and he won the first one. And I had to kind of like dig my way out of  
+**[3461.78s] English:** Every match was really close, and he won the first one. And I had to kind of dig my way out of it.  
 **Translation:** 
 
-**[3468.44s] English:** the trenches and, uh, ended up coming back and winning, but it was a match.  
+**[3468.44s] English:** The trenches, and uh, ended up coming back and winning, but it was a close match.  
 **Translation:** 
 
-**[3473.30s] English:** That was probably, it was probably one of my closest matches ever. And.  
+**[3473.30s] English:** That was probably one of my closest matches ever. And.  
 **Translation:** Vocabulary: trenches: 战壕
 
-**[3480.00s] English:** it seems like there's frustration on you what what is that what was going through your mind here  
+**[3480.00s] English:** It seems like there's frustration on you. What was going through your mind here?  
 **Translation:** 
 
-**[3484.74s] English:** with these uh was it first of all going in did you think you could beat him  
+**[3484.74s] English:** With these, uh, were they your first thoughts when going in? Did you think you could beat him?  
 **Translation:** 
 
-**[3489.00s] English:** what was the level of confidence i always think i can win like i always do um but you know a lot  
+**[3489.00s] English:** What was the level of confidence? I always think I can win, like I always do, um, but you know, a lot.  
 **Translation:** 
 
-**[3495.62s] English:** of respect to the guy um but yeah i mean i always think i can do it uh so how did what what lessons  
+**[3495.62s] English:** Of respect to the guy, um, but yeah, I mean, I always think I can do it, uh. So, how did what/what lessons?  
 **Translation:** 
 
-**[3502.62s] English:** did you take away from it uh why why is it so meaningful to you well it's what happened  
+**[3502.62s] English:** Did you take away anything from it? Why is it so meaningful to you? Well, it's what happened.  
 **Translation:** 
 
-**[3508.10s] English:** afterwards so i had some kind of a release afterwards and that was the strange thing to me  
+**[3508.10s] English:** Afterwards, so I had some kind of a release, and that was the strange thing to me.  
 **Translation:** 
 
-**[3515.48s] English:** so match ended and i felt like so relaxed afterwards so calm so uh so you know satisfied  
+**[3515.48s] English:** So, the match ended, and I felt so relaxed afterwards. So calm, so satisfied.  
 **Translation:** 
 
-**[3528.58s] English:** because it was one of those matches uh that kind of takes everything from you yeah but you win it  
+**[3528.58s] English:** Because it was one of those matches that kind of takes everything from you, yeah, but you win it.  
 **Translation:** 
 
-**[3536.08s] English:** and i was relaxing in  
+**[3536.08s] English:** And I was relaxing in.  
 **Translation:** 
 
-**[3538.06s] English:** the  
+**[3538.06s] English:** The  
 **Translation:** 
 
-**[3538.10s] English:** the chair and uh i've never had the sensation before i've never had it afterwards but it's  
+**[3538.10s] English:** The chair, and I've never had the sensation before; I've never had it afterwards, but it's  
 **Translation:** 
 
-**[3545.84s] English:** like the center of my backbone just exploded and it was like so weird right because i'm not  
-**Translation:** Vocabulary: backbone: 脊椎; exploded: 爆炸
+**[3545.84s] English:** Like, the center of my backbone just exploded, and it was like so weird, right? Because I'm not.  
+**Translation:** Vocabulary: backbone: 脊椎; exploded: 爆裂
 
-**[3555.10s] English:** really spiritual that much or religious even but it's like a fire just ripped through me  
+**[3555.10s] English:** Really, it's more spiritual than religious, but it's like a fire just ripped through me.  
 **Translation:** 
 
-**[3560.42s] English:** and it only lasted an instant just exploded through my whole body out out of the top through  
+**[3560.42s] English:** And it only lasted an instant; it just exploded through my whole body, out from the top down.  
+**Translation:** Vocabulary: ripped: 撕裂
+
+**[3567.54s] English:** My feet.  
 **Translation:** 
 
-**[3567.54s] English:** my feet  
-**Translation:** 
-
-**[3568.06s] English:** and then it was gone that was it uh weirdest thing i've ever felt my entire life uh yeah but  
+**[3568.06s] English:** And then it was gone. That was it. Uh, the weirdest thing I've ever felt in my entire life. Yeah, but.  
 **Translation:** Vocabulary: weirdest: 最奇怪的事
 
-**[3575.56s] English:** it was it was as a result of uh what happened in the match and leading up to it i had some kind of  
+**[3575.56s] English:** It was as a result of what happened in the match and leading up to it that I had some kind of  
 **Translation:** 
 
-**[3581.82s] English:** a release um so what it does it almost how did you interpret it psychologically was it like uh  
+**[3581.82s] English:** A release, um. So, what it does is almost how did you interpret it psychologically? Was it like...  
 **Translation:** Vocabulary: interpret: 解释; psychologically: 心理上
 
-**[3589.66s] English:** some kind of i mean not to be spiritual or whatever but some kind of superpower that was uh  
+**[3589.66s] English:** Some kind of, I mean, not to be spiritual or whatever, but some kind of superpower that was, uh,...  
 **Translation:** 
 
-**[3597.72s] English:** like  
+**[3597.72s] English:** Like  
 **Translation:** Vocabulary: superpower: 超能力
 
-**[3598.06s] English:** like a lingering feeling like  
+**[3598.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
-**[3600.06s] English:** like a lingering feeling like  
-**Translation:** Vocabulary: lingering: 余味悠长
-
-**[3602.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3604.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3606.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3608.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3610.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3612.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3614.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3616.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3618.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3620.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3622.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3624.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3626.06s] English:** like a lingering feeling like  
-**Translation:** 
-
-**[3600.00s] English:** Like, holy shit, I, you know.  
+**[3600.00s] English:** Like, holy shit, I know.  
 **Translation:** Vocabulary: lingering: 余味
+
+**[3600.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
+**[3602.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
+**[3604.06s] English:** Like a lingering feeling, like  
+**Translation:** 
 
 **[3604.38s] English:** I can't explain it.  
 **Translation:** 
 
+**[3606.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
 **[3606.22s] English:** And I haven't really tried hard enough to try to.  
+**Translation:** 
+
+**[3608.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
+**[3610.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
 **[3610.28s] English:** But something changed.  
@@ -2347,25 +2324,49 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3611.40s] English:** Something happened there, yeah.  
 **Translation:** 
 
+**[3612.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
 **[3613.22s] English:** Something happened to me.  
+**Translation:** 
+
+**[3614.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
 **[3614.28s] English:** I was sore for about three or four months afterwards.  
 **Translation:** 
 
+**[3616.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
 **[3616.66s] English:** It's like it smoked out my entire body.  
+**Translation:** 
+
+**[3618.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
 **[3619.42s] English:** Yeah, that whole summer I was kind of sore.  
 **Translation:** 
 
-**[3622.62s] English:** And, yeah, and then after that, like two or three years later,  
+**[3620.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
-**[3625.92s] English:** that's when I won the world championships.  
+**[3622.06s] English:** Like a lingering feeling, like  
 **Translation:** 
 
-**[3627.62s] English:** Yeah, I mean, all the matches are, you know, you get something from people.  
+**[3622.62s] English:** And, yeah, and then a few years later,  
+**Translation:** 
+
+**[3624.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
+**[3625.92s] English:** That's when I won the World Championships.  
+**Translation:** 
+
+**[3626.06s] English:** Like a lingering feeling, like  
+**Translation:** 
+
+**[3627.62s] English:** Yeah, I mean, all the matches are, you know, and you get something from people.  
 **Translation:** 
 
 **[3633.78s] English:** Like, you know, you study them.  
@@ -2375,7 +2376,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[3637.80s] English:** People have an invisible crown, and he had one.  
-**Translation:** 
+**Translation:** Vocabulary: invisible: 看不见的
 
 **[3642.50s] English:** And I think I took it from him.  
 **Translation:** 
@@ -2395,11 +2396,11 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3653.64s] English:** Did that come naturally to you?  
 **Translation:** 
 
-**[3654.92s] English:** You're one of the most charismatic, fun.  
+**[3654.92s] English:** You're one of the most charismatic and fun.  
 **Translation:** 
 
 **[3656.88s] English:** I mean, there's always.  
-**Translation:** Vocabulary: charismatic: 魅力十足
+**Translation:** Vocabulary: charismatic: 有魅力的
 
 **[3657.62s] English:** There's always, like, respect behind it.  
 **Translation:** 
@@ -2407,22 +2408,22 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3660.04s] English:** I would say to me, and I'm a fan of a lot of sports,  
 **Translation:** 
 
-**[3663.16s] English:** you're one of the greatest trash talkers in all of sports that I've ever seen  
+**[3663.16s] English:** You're one of the greatest trash talkers in all of sports that I've ever seen.  
 **Translation:** 
 
-**[3667.60s] English:** because you're able to talk shit, but there's so much love and respect behind it.  
+**[3667.60s] English:** Because you're able to talk shit, but there's so much love and respect behind it.  
 **Translation:** 
 
 **[3673.56s] English:** It's just masterful.  
 **Translation:** 
 
 **[3674.88s] English:** But you also get into people's heads in the moment.  
-**Translation:** Vocabulary: masterful: 技艺高超
+**Translation:** Vocabulary: masterful: 技艺高超的
 
 **[3677.86s] English:** It's beautiful to watch because it really gets to some people.  
 **Translation:** 
 
-**[3682.28s] English:** So where does that come from?  
+**[3682.28s] English:** So, where does that come from?  
 **Translation:** 
 
 **[3683.44s] English:** It's a powerful weapon, right?  
@@ -2434,13 +2435,13 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3685.38s] English:** It's through your voice.  
 **Translation:** 
 
-**[3686.56s] English:** It's a powerful, powerful.  
+**[3686.56s] English:** It's a powerful, powerful thing.  
 **Translation:** 
 
-**[3687.62s] English:** And it's underutilized by so many athletes because they think that it's not sportsmanlike or something like that.  
+**[3687.62s] English:** And it's underutilized by so many athletes because they think that it's not sportsmanlike, or something like that.  
 **Translation:** 
 
-**[3696.80s] English:** But the truth is, I mean, you can be a weak person, but with your voice, you can influence and change any number of things.  
+**[3696.80s] English:** But the truth is, I mean, you can be a weak person, but with your voice, you can influence and change just about anything.  
 **Translation:** Vocabulary: underutilized: 使用不足
 
 **[3708.34s] English:** And the same thing happens in a fight between two people.  
@@ -2452,139 +2453,139 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[3717.62s] English:** If you can just be a never-ending flow of negative encouragement to someone.  
 **Translation:** 
 
-**[3720.00s] English:** you know you know suggestion anything can happen it's a tool and when you're  
+**[3720.00s] English:** You know, you know, any suggestion can happen; it's a tool, and when you're  
 **Translation:** 
 
-**[3729.42s] English:** fighting a person you're not just fighting them you're fighting everyone  
+**[3729.42s] English:** Fighting a person, you're not just fighting them; you're fighting everyone.  
 **Translation:** 
 
-**[3734.94s] English:** who's watching you're fighting the crowd the referees and you know to get in the  
+**[3734.94s] English:** Who's watching? You're fighting the crowd, the referees, and you know to get in the ring.  
 **Translation:** Vocabulary: referees: 裁判
 
-**[3742.12s] English:** most ideal positions situations you need to use your voice yeah yeah and there's  
+**[3742.12s] English:** Most ideal positions or situations, you need to use your voice, yeah, yeah, and there's  
 **Translation:** 
 
-**[3748.02s] English:** a for people who haven't seen and I definitely recommend you watch a bunch  
+**[3748.02s] English:** For people who haven't seen it, I definitely recommend you watch it a bunch.  
 **Translation:** 
 
-**[3752.22s] English:** of arm wrestling matches because there's a crowd really gets into it and it feels  
+**[3752.22s] English:** Of arm-wrestling matches, because there's a crowd that really gets into it and it feels  
 **Translation:** 
 
-**[3756.48s] English:** it feels like there's a really intimate connection with the crowd I suppose  
-**Translation:** Vocabulary: intimate: 亲密; wrestling: 摔跤
+**[3756.48s] English:** It feels like there's a really intimate connection with the crowd, I suppose.  
+**Translation:** Vocabulary: intimate: 亲密的
 
-**[3760.26s] English:** because the crowd is allowed to be very close to you I love it I want the crowd  
+**[3760.26s] English:** Because the crowd is allowed to be very close to me, I love it; I want the crowd even closer.  
 **Translation:** 
 
-**[3765.96s] English:** like right up on me yeah yeah so sometimes oh yeah who you whenever you  
+**[3765.96s] English:** Like, right up on me, yeah, yeah. So sometimes, oh, yeah, who you whenever you.  
 **Translation:** 
 
-**[3775.68s] English:** talk to somebody you literally pick somebody from the  
+**[3775.68s] English:** Talk to somebody you literally pick somebody from the  
 **Translation:** 
 
-**[3777.94s] English:** crowd you pick somebody from the crowd you pick somebody from the crowd you  
+**[3777.94s] English:** Crowd: You pick somebody from the crowd, you pick somebody from the crowd, you  
 **Translation:** 
 
-**[3778.00s] English:** probably oh yeah oh yeah I'll I'll I'll him like I'll start off his fans and  
+**[3778.00s] English:** Probably, oh, yeah, oh, yeah, I'll start off by being his fan.  
 **Translation:** 
 
-**[3783.32s] English:** like yeah like I'll start talking to their wives or whatever yeah yeah yeah  
+**[3783.32s] English:** Like, yeah, like I'll start talking to their wives or whatever, yeah, yeah, yeah.  
 **Translation:** 
 
-**[3790.84s] English:** there's Jody she's pretty dangerous to listen to also but yeah one of his  
+**[3790.84s] English:** There's Jody; she's pretty dangerous to listen to, also. But yeah, one of his.  
 **Translation:** 
 
-**[3796.88s] English:** buddies Mike Solares who's you know a really good arm wrestler was was talking  
-**Translation:** Vocabulary: wrestler: 摔跤手
+**[3796.88s] English:** Buddies, Mike Solares, who's a really good arm wrestler, was talking.  
+**Translation:** Vocabulary: solares: 索拉雷斯; wrestler: 摔跤手
 
-**[3802.72s] English:** was was cheering for him so I started go after him yeah yeah smiling the whole  
+**[3802.72s] English:** Was cheering for him, so I started to go after him. Yeah, yeah, smiling the whole time.  
 **Translation:** 
 
-**[3807.68s] English:** yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah  
+**[3807.68s] English:** Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.  
 **Translation:** 
 
 **[3808.00s] English:** yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah  
 **Translation:** 
 
-**[3838.00s] English:** super aggressive  
+**[3838.00s] English:** Super aggressive.  
 **Translation:** 
 
-**[3840.00s] English:** super violent species was going to come and smoke us all you know and i'm like i'm i'm not like that  
+**[3840.00s] English:** Super-violent species was going to come and smoke us all, you know, and I'm like, "I'm not like that.  
 **Translation:** 
 
-**[3846.28s] English:** i'm like but as soon as one person is then you're forced to have to accept it as reality right so  
+**[3846.28s] English:** I'm like, but as soon as one person says it, then you're forced to accept it as reality, right?  
 **Translation:** 
 
-**[3853.30s] English:** i like to fight for every single thing i like to try and be more and more aggressive and if someone  
+**[3853.30s] English:** I like to fight for everything I like to try and be more and more aggressive, and if someone  
 **Translation:** 
 
-**[3860.90s] English:** matches me that's when i can use my endurance and if they don't then i have the tactical advantage  
-**Translation:** Vocabulary: endurance: 持久力; tactical: 战术
+**[3860.90s] English:** Matches me, that's when I can use my endurance. And if they don't, then I have the tactical advantage.  
+**Translation:** Vocabulary: endurance: 耐力; tactical: 战术的
 
-**[3866.28s] English:** so that's kind of my balance point and then by the way you also yell at the ref yeah i mean the  
+**[3866.28s] English:** So, that's kind of my balance point, and then by the way, you also yell at the ref? Yeah, I mean, the  
 **Translation:** 
 
-**[3872.62s] English:** games there's like levels to this game but you know the feeling sometimes when people get  
+**[3872.62s] English:** Games, there's like levels to this game, but you know, the feeling sometimes when people get.  
 **Translation:** 
 
-**[3878.06s] English:** frustrated it's like okay this person's cheating or like you're trying to get a good grip uh before  
+**[3878.06s] English:** Frustrated, it's like, "Okay, this person's cheating, or like, you're trying to get a good grip—uh, before...  
 **Translation:** 
 
-**[3885.40s] English:** the go before it goes and and i think some of the frustration in combination with the trash talk is  
+**[3885.40s] English:** The "go" before it goes, and I think some of the frustration in combination with the trash talk is  
+**Translation:** Vocabulary: cheating: 作弊
+
+**[3891.84s] English:** Well, this person is cheating, right? But everybody is like  
 **Translation:** 
 
-**[3891.84s] English:** well this person is cheating right but everybody is like  
+**[3895.10s] English:** Kind of trying to cheat, and I think that's my balance point.  
 **Translation:** 
 
-**[3895.10s] English:** kind of trying to cheat and i think that's kind of my balance point  
+**[3896.28s] English:** Get an edge within the rules, yeah. So I try and just ramp it up, ramp it up, ramp it up.  
 **Translation:** 
 
-**[3896.28s] English:** get an edge within the rules yeah so i try and just ramp it ramp it ramp it  
+**[3902.82s] English:** But, uh, you know, everybody's different. I've learned how to play the game based off of the tools that.  
 **Translation:** 
 
-**[3902.82s] English:** but uh you know everybody's different i've learned how to play the game based off of the tools that  
+**[3910.00s] English:** I have physically, yeah, and for me, this works because, you know, my genetic makeup is more a  
 **Translation:** 
 
-**[3910.00s] English:** i have physically yeah and for me this works because you know my genetic makeup is more a  
+**[3917.10s] English:** More of a persistence hunter, right? So, I need to extend things, and that works well for me.  
+**Translation:** Vocabulary: makeup: 基因构成; persistence: 持久奔跑
+
+**[3923.72s] English:** Um, you know.  
 **Translation:** 
 
-**[3917.10s] English:** more of a persistence hunter right so like i need to extend things and that works well for me  
-**Translation:** Vocabulary: makeup: 体质; persistence: 耐力
+**[3926.28s] English:** If I were more explosive, I probably wouldn't have the same strategies, yeah. By the way, for  
+**Translation:** Vocabulary: explosive: 易怒的
 
-**[3923.72s] English:** um you know  
+**[3933.78s] English:** People who want to watch: You're wearing a No Limits hoodie, which is one of your  
 **Translation:** 
 
-**[3926.28s] English:** if i was more explosive i'm probably wouldn't have the same strategies yeah by the way for  
-**Translation:** Vocabulary: explosive: 爆发性的
+**[3939.42s] English:** Nicknames? I don't wash this thing too much; it's my bacterial shield to the world, yeah.  
+**Translation:** Vocabulary: bacterial: 细菌的; hoodie: 卫衣; nicknames: 昵称
 
-**[3933.78s] English:** people who want who are watching uh you're wearing a no limits hoodie which is uh one of your  
+**[3945.62s] English:** Yeah, uh, awesome. So, you mentioned Jody; she's often in your corner, and does perhaps more than that.  
 **Translation:** 
 
-**[3939.42s] English:** nicknames i uh i don't wash this thing too much it's my bacterial shield to uh to the world yeah  
-**Translation:** Vocabulary: bacterial: 细菌; hoodie: 卫衣; nicknames: 昵称
-
-**[3945.62s] English:** yeah uh awesome so you mentioned jody she's often in uh in your corner and uh does perhaps more  
+**[3952.90s] English:** Trash talking, than even you. So, I mean, you're wearing a No Limits hoodie, and you're wearing a  
 **Translation:** 
 
-**[3952.90s] English:** trash talking than even you so i mean you're wearing a no limits hoodie and you're wearing a  
+**[3956.28s] English:** I mean, if we could just step away for a moment, she's an incredible human being.  
 **Translation:** 
 
-**[3956.28s] English:** i mean if we could step away she's an incredible human being  
+**[3960.00s] English:** As a fan, it's fun to watch the two of you, both when you're arm-wrestling and just as people.  
 **Translation:** 
 
-**[3960.00s] English:** As a fan, it's fun to watch the two of you, both when you're arm wrestling and just as people.  
-**Translation:** Vocabulary: wrestling: 摔跤
-
-**[3967.56s] English:** You just see so much, I don't know, kindness and love radiating from the two of you whenever you're trash talking or talking about just random things or just talking about life.  
+**[3967.56s] English:** You just see so much, I don't know, kindness and love radiating from the two of you, whether you're trash-talking, chatting about random things, or just discussing life.  
 **Translation:** 
 
 **[3980.66s] English:** It's just a beautiful thing to watch, and thank you for sharing that with the world.  
 **Translation:** Vocabulary: radiating: 散发
 
-**[3983.38s] English:** But maybe, can you, she paid me to ask you this, but what are the things you love about Jodi, your wife, Jodi Larratt?  
+**[3983.38s] English:** But maybe, she paid me to ask you this: what are the things you love about Jodi, your wife, Jodi Larratt?  
 **Translation:** 
 
-**[3994.92s] English:** What are the ways she's affected your life?  
+**[3994.92s] English:** What are the ways she has affected your life?  
 **Translation:** 
 
 **[3998.56s] English:** Yeah, Jodi and I go way back, right?  
@@ -2596,14 +2597,14 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4006.22s] English:** The thing that I admire most in people is bravery.  
 **Translation:** 
 
-**[4013.38s] English:** To me, it's the most admirable quality, and Jodi always has inspired me because she's such a fighter.  
-**Translation:** Vocabulary: admirable: 值得敬佩的
+**[4013.38s] English:** To me, it's the most admirable quality, and Jodi has always inspired me because she's such a fighter.  
+**Translation:** Vocabulary: admirable: 值得敬佩的; bravery: 勇敢
 
-**[4024.48s] English:** If she believes that something's true, she does not back down.  
+**[4024.48s] English:** If she believes that something is true, she does not back down.  
 **Translation:** 
 
-**[4030.70s] English:** She will not, and not to say that she can't change her mind, because she can, but while she is convicted, she will not stop fighting.  
-**Translation:** Vocabulary: convicted: 确信
+**[4030.70s] English:** She will not, and it's not to say that she can't change her mind, because she can, but while she is convinced, she will not stop fighting.  
+**Translation:** 
 
 **[4041.10s] English:** She's pulled me out of the fire repeatedly.  
 **Translation:** 
@@ -2623,7 +2624,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4055.04s] English:** Yeah, I can see your videos of your house basically coming apart when she's not there.  
 **Translation:** 
 
-**[4062.58s] English:** Yeah, without Jodi, I'm on the street living in a tent and eating dog food.  
+**[4062.58s] English:** Yeah, without Jodi, I'm on the street, living in a tent, and eating dog food.  
 **Translation:** 
 
 **[4071.10s] English:** Yeah.  
@@ -2641,163 +2642,163 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4075.94s] English:** How has love made you stronger?  
 **Translation:** 
 
-**[4077.88s] English:** Now we're going to make Devin uncomfortable.  
+**[4077.88s] English:** Now, we're going to make Devin uncomfortable.  
 **Translation:** 
 
-**[4080.10s] English:** Edited & Daha  
+**[4080.00s] English:** Love is difficult to accept. Love is one of those things, um, you know, a lot of times.  
 **Translation:** 
 
-**[4090.60s] English:** slGoode  
+**[4080.10s] English:** Edited & Daha...  
 **Translation:** 
 
-**[4097.00s] English:** Mhmh  
+**[4089.26s] English:** You don't feel worthy of it, you know, and so it's hard sometimes to accept someone's love.  
 **Translation:** 
 
-**[4098.88s] English:** 🤤🤤🤤🤤🤤folds  
+**[4090.60s] English:** Good morning.  
 **Translation:** 
 
-**[4080.00s] English:** love is difficult to accept love is one of those things that um you know a lot of times  
+**[4095.04s] English:** And someone who really loves you will love you even when you don't, you know. Here you go.  
 **Translation:** 
 
-**[4089.26s] English:** you don't feel worthy of it you know and so it's hard sometimes to accept someone's love  
+**[4097.00s] English:** Mhmh.  
 **Translation:** 
 
-**[4095.04s] English:** and someone who really loves you they'll love you even when you don't you know and here you go  
+**[4098.88s] English:** 🤤🤤🤤🤤🤤 folds  
 **Translation:** 
 
-**[4103.72s] English:** you're gonna make me cry alex uh yeah jody and i've been through so much um and she's shown me  
+**[4103.72s] English:** You're gonna make me cry, Alex. Uh-huh. Yeah, Jody, and I've been through so much, um, and she's shown me.  
 **Translation:** 
 
-**[4112.32s] English:** how you know she supported me just repeatedly repeatedly some of that is loyalty and patience  
+**[4112.32s] English:** How do you know she supported me? Just repeatedly, repeatedly. Some of that is loyalty and patience.  
 **Translation:** 
 
-**[4119.46s] English:** and perseverance and all those things that's like when love really shows itself yeah sticking  
+**[4119.46s] English:** And perseverance, and all those things—that's like when love really shows itself, yeah, sticking.  
 **Translation:** 
 
-**[4127.04s] English:** through yeah together for years even when you're through the shitty times love and faith  
-**Translation:** Vocabulary: perseverance: 坚持不懈; shitty: 糟糕; sticking: 坚持
+**[4127.04s] English:** Through, yeah, together for years, even when you're through the shitty times; love and faith.  
+**Translation:** Vocabulary: perseverance: 毅力; shitty: 糟糕; sticking: 坚持
 
-**[4133.60s] English:** love and faith  
+**[4133.60s] English:** Love and faith.  
 **Translation:** 
 
-**[4133.72s] English:** are powerful forces in this universe you know without them that we can descend into darkness  
+**[4133.72s] English:** Are powerful forces in this universe, you know. Without them, we can descend into darkness.  
+**Translation:** Vocabulary: descend: 下降
+
+**[4140.22s] English:** Very quickly, you know, as in the world, even between people, you know, when love and faith are destroyed.  
 **Translation:** 
 
-**[4140.22s] English:** very quickly you know as a world even between people you know when love and faith is destroyed  
+**[4146.30s] English:** Then, we fall apart, you know. And I've been graced by the love that Jody's given me.  
 **Translation:** 
 
-**[4146.30s] English:** then then we fall apart you know and i've i've been graced by by the love that jody's given me  
+**[4155.92s] English:** You know, it's allowed me to continue to build. When you have love between people,...  
 **Translation:** 
 
-**[4155.92s] English:** you know it's it's allowed me to continue to build you know when you have love between people  
+**[4161.02s] English:** Then you build together, um  
 **Translation:** 
 
-**[4161.02s] English:** then you build together um  
+**[4163.72s] English:** I love my family, I love Canada, I love the arm-wrestling community, and I have a love for what.  
 **Translation:** 
 
-**[4163.72s] English:** i love i love my family i love canada i love the arm wrestling community i have a love for what  
+**[4170.48s] English:** We're trying to achieve as a human species, you know, and, you know, when that falls...  
 **Translation:** 
 
-**[4170.48s] English:** we're trying to achieve as a human species you know and uh you know when that when that falls  
-**Translation:** Vocabulary: wrestling: 摔跤
-
-**[4176.90s] English:** apart we don't have much yeah just with my boy there yeah yeah she um he also mentioned you uh  
+**[4176.90s] English:** Apart, we don't have much, yeah. Just with my boy, there. Yeah, yeah. She (or He) also mentioned you, uh,...  
 **Translation:** 
 
-**[4186.34s] English:** and uh you once had a job where uh your death was a really bad one and uhDaddy uh I wanted to go to  
+**[4186.34s] English:** And uh, you once had a job where uh, your death was a really bad one, and uh, Daddy, I wanted to go to  
 **Translation:** 
 
-**[4189.82s] English:** uh in uh in uh june 23 or 14 and june 24 you when you had a job and uh you were like ah god like  
+**[4189.82s] English:** In June 23 or 24, on those days when you had a job, you were like, oh, god!  
 **Translation:** 
 
-**[4189.92s] English:** It's a pain in your mouth what would you have to do and uh how would you have to handleenn  
+**[4189.92s] English:** It's a pain in your mouth. What would you have to do, and uh, how would you have to handle it?  
 **Translation:** 
 
-**[4190.52s] English:** if there was a really terrible job that uh you were like your life you know what i'm versión two  
+**[4190.52s] English:** If there was a really terrible job that, uh, you were like your life, you know? What I'm versión two.  
 **Translation:** 
 
-**[4193.52s] English:** a real possibility so you're one of the canadian special forces what did you take away from that  
+**[4193.52s] English:** A real possibility: so, you're one of the Canadian Special Forces, what did you take away from that?  
 **Translation:** 
 
-**[4199.38s] English:** experience  
+**[4199.38s] English:** Experience.  
 **Translation:** 
 
-**[4200.00s] English:** that time yeah life it was such a such a great life really really loved it i honestly i never  
+**[4200.00s] English:** That time, yeah, life was such a great life, really. I loved it so much, honestly; I never  
 **Translation:** 
 
-**[4207.80s] English:** i never wanted to leave i never thought i would leave i thought i'd be there my whole life um  
+**[4207.80s] English:** I never wanted to leave. I never thought I would leave. I thought I'd be there my whole life, um.  
 **Translation:** 
 
-**[4213.06s] English:** a real honor to to get to serve what what did you get to do what was the things you loved  
+**[4213.06s] English:** A real honor to get to serve. What did you get to do? What were the things you loved?  
 **Translation:** 
 
-**[4221.30s] English:** craftsmanship wise like fun things you get to do learn and challenge yourself yeah and and  
+**[4221.30s] English:** Craftsmanship-wise, like fun things you get to do, learn, and challenge yourself, yeah, and...  
 **Translation:** 
 
-**[4226.56s] English:** we mentioned sort of honor in terms of the the serving part yeah yeah my favorite thing about  
+**[4226.56s] English:** We mentioned something about honor in terms of the serving part, yeah. Yeah, my favorite thing about it is...  
 **Translation:** 
 
-**[4236.90s] English:** serving in the special forces was for sure the people that i worked with that's probably  
+**[4236.90s] English:** Serving in the special forces was, without a doubt, the people I worked with—that's probably  
 **Translation:** 
 
-**[4241.92s] English:** the first thing i could say uh you know i never i always felt like totally comfortable  
+**[4241.92s] English:** The first thing I could say is that, you know, I never really felt totally comfortable.  
 **Translation:** 
 
-**[4248.78s] English:** and and putting my life in the other guy's hands um i was so happy to be in a place where i felt  
+**[4248.78s] English:** And putting my life in the other guy's hands—um, I was so happy to be in a place where I felt  
 **Translation:** 
 
-**[4256.32s] English:** like it was my life was my life uh and and and and and and and and and and and and and and  
+**[4256.32s] English:** Like it was my life, it was my life, uh.  
 **Translation:** 
 
-**[4256.54s] English:** follow um like didn't matter like i knew that the people ahead of me were were incredible i knew the  
+**[4256.54s] English:** Follow, um, like it didn't matter. Like, I knew that the people ahead of me were incredible, I knew the  
 **Translation:** 
 
-**[4264.70s] English:** people beside me were incredible so just having that faith in your team it's very special and to  
+**[4264.70s] English:** People beside me were incredible, so just having that faith in your team is very special, and to  
 **Translation:** 
 
-**[4271.12s] English:** know that they're for there for a reason that has nothing to do with money you know they're and  
+**[4271.12s] English:** Know that they're there for a reason that has nothing to do with money, you know? They're and  
 **Translation:** 
 
-**[4276.36s] English:** that's what kind of brings everybody together is you're there to for a higher purpose uh and in  
+**[4276.36s] English:** That's what kind of brings everybody together: you're there for a higher purpose, uh, and in  
 **Translation:** 
 
-**[4282.66s] English:** terms of being an adrenaline junkie there's nothing like it i mean there's nothing like  
+**[4282.66s] English:** Terms of being an adrenaline junkie, there's nothing like it; I mean, there's nothing like it.  
 **Translation:** 
 
-**[4287.76s] English:** you know going out at night and fighting uh and when i say fighting like my whole life i wanted  
+**[4287.76s] English:** You know, going out at night and fighting — uh, and when I say fighting, like my whole life, I wanted...  
 **Translation:** Vocabulary: adrenaline: 肾上腺素; junkie: 毒瘾者
 
-**[4293.96s] English:** to fight uh and to me there's a lot of and look at i've said this in the past and i think it's  
+**[4293.96s] English:** To fight, uh, and to me, there's a lot of it. And look at—I've said this in the past—and I think it's  
 **Translation:** 
 
-**[4302.88s] English:** been a personal failure of mine because i've said things like it's the highest level that you can i  
+**[4302.88s] English:** It has been a personal failure of mine because I've said things like, "it's the highest level that you can.  
 **Translation:** 
 
-**[4308.20s] English:** don't believe that to be true anymore but at the time uh  
+**[4308.20s] English:** Don't believe that to be true anymore, but at the time, uh,...  
 **Translation:** 
 
-**[4312.66s] English:** i thought it was the best way i could express um my drives that i had you know to be a fighter  
+**[4312.66s] English:** I thought it was the best way I could express, um, my drive that I had—you know—to be a fighter.  
 **Translation:** 
 
-**[4320.00s] English:** So your sense in the past and maybe in part now is that fighting is when humans get a chance to express themselves deeply.  
+**[4320.00s] English:** So, your sense in the past—and maybe in part now—is that fighting is when humans get a chance to express themselves deeply.  
 **Translation:** 
 
-**[4329.68s] English:** Like that mix of the bravery, the integrity, whatever that is that makes us human, that human spirit can really shine.  
-**Translation:** 
+**[4329.68s] English:** Like that mix of bravery, integrity, and whatever it is that makes us human—that human spirit can really shine.  
+**Translation:** Vocabulary: bravery: 勇气
 
 **[4341.10s] English:** And I don't believe that anymore.  
 **Translation:** 
 
-**[4342.60s] English:** I believe that you can do that in any field, in any discipline.  
-**Translation:** 
+**[4342.60s] English:** I believe that you can do that in any field or discipline.  
+**Translation:** Vocabulary: discipline: 学科
 
 **[4346.94s] English:** You know, if you go hard enough, it all kind of starts to feel the same.  
 **Translation:** 
 
-**[4351.74s] English:** But at the time, that, you know, expression to me was really, really awesome.  
+**[4351.74s] English:** But at the time, that expression to me was really, really awesome.  
 **Translation:** 
 
-**[4357.40s] English:** I loved close quarter battle.  
+**[4357.40s] English:** I loved close-quarters battle.  
 **Translation:** 
 
 **[4359.66s] English:** That was my favorite thing.  
@@ -2806,10 +2807,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4360.88s] English:** That's really the whole reason I was there.  
 **Translation:** 
 
-**[4364.20s] English:** Can you describe close quarter battle?  
+**[4364.20s] English:** Can you describe a close-quarters battle?  
 **Translation:** 
 
-**[4366.12s] English:** Close quarter battle is team fighting.  
+**[4366.12s] English:** Close-quarters battle is team fighting.  
 **Translation:** 
 
 **[4370.26s] English:** So, and it can look a lot of different ways.  
@@ -2824,8 +2825,8 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4380.54s] English:** And it's the orchestrated movement that is the skill.  
 **Translation:** 
 
-**[4384.20s] English:** The orchestrated movement and the drills done quickly and accurately.  
-**Translation:** Vocabulary: orchestrated: 协调一致的
+**[4384.20s] English:** The orchestrated movement and the drills were done quickly and accurately.  
+**Translation:** Vocabulary: orchestrated: 协调的
 
 **[4388.84s] English:** It's very difficult.  
 **Translation:** 
@@ -2839,11 +2840,11 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4392.60s] English:** Yeah.  
 **Translation:** 
 
-**[4393.00s] English:** So it's basically cooperating together.  
+**[4393.00s] English:** So, it's basically cooperating together.  
 **Translation:** 
 
 **[4396.18s] English:** Absolutely.  
-**Translation:** Vocabulary: cooperating: 互相配合
+**Translation:** Vocabulary: cooperating: 合作
 
 **[4397.12s] English:** Yeah.  
 **Translation:** 
@@ -2863,10 +2864,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4404.94s] English:** Yeah.  
 **Translation:** 
 
-**[4405.90s] English:** And that's an amazing.  
+**[4405.90s] English:** And that's amazing.  
 **Translation:** 
 
-**[4406.94s] English:** That's an amazing thing to do, to be part of a machine.  
+**[4406.94s] English:** That's an amazing thing to do—to be part of a machine.  
 **Translation:** 
 
 **[4409.58s] English:** Well, machine.  
@@ -2875,7 +2876,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4410.66s] English:** A team of people who can fight together like that.  
 **Translation:** 
 
-**[4415.66s] English:** I think it's, we're really designed to do it.  
+**[4415.66s] English:** I think we're really designed to do it.  
 **Translation:** 
 
 **[4420.06s] English:** Like, as good as we can fight as individuals, the thing that makes us really good is our ability to fight as a team.  
@@ -2887,29 +2888,29 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4427.50s] English:** Yeah.  
 **Translation:** 
 
-**[4428.64s] English:** That's one of the things that makes us really human is that collective intelligence.  
+**[4428.64s] English:** That's one of the things that make us really human: it's that collective intelligence.  
 **Translation:** 
 
 **[4431.70s] English:** Yeah.  
 **Translation:** 
 
-**[4431.96s] English:** Social aspect.  
+**[4431.96s] English:** Social Aspect.  
 **Translation:** 
 
 **[4433.06s] English:** Yeah.  
 **Translation:** 
 
-**[4433.16s] English:** And fighting is the highest of stakes.  
+**[4433.16s] English:** And fighting is the highest stake.  
 **Translation:** 
 
 **[4436.52s] English:** Yeah.  
 **Translation:** 
 
-**[4436.94s] English:** Like, that social interaction under the highest of stakes is.  
+**[4436.94s] English:** Like, that social interaction under the highest stakes is.  
 **Translation:** 
 
 **[4440.00s] English:** It really does bring out something that's deeply human.  
-**Translation:** 
+**Translation:** Vocabulary: stakes: 风险
 
 **[4446.36s] English:** I mean, war in general brings out something deeply human.  
 **Translation:** 
@@ -2920,46 +2921,46 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4451.62s] English:** It's, I mean, obvious to say that it's tragic that it results in so much loss of life and well-being.  
 **Translation:** 
 
-**[4462.24s] English:** Let me, if it's okay for a brief moment, to take us back to arm wrestling.  
+**[4462.24s] English:** Let me, if it's okay for a brief moment, take us back to arm wrestling.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
 **[4468.40s] English:** We did this, like, offline.  
 **Translation:** 
 
-**[4470.96s] English:** We talked about, you gave me some advice about arm wrestling.  
+**[4470.96s] English:** We talked about it, and you gave me some advice on arm wrestling.  
 **Translation:** 
 
-**[4474.00s] English:** But maybe do a high-level overview of, like, the different styles and strategies that we've talked about.  
+**[4474.00s] English:** But maybe do a high-level overview of the different styles and strategies that we've talked about.  
 **Translation:** 
 
 **[4483.38s] English:** We talked about the importance of strength and power.  
 **Translation:** 
 
-**[4486.60s] English:** But is there, like, offensive, defensive styles?  
+**[4486.60s] English:** But is there, like, an offensive and defensive style?  
 **Translation:** 
 
-**[4489.94s] English:** Is there, we mentioned King's Move.  
+**[4489.94s] English:** Is there, we mentioned the King's Move.  
 **Translation:** 
 
 **[4492.66s] English:** What would you classify your style as?  
 **Translation:** 
 
-**[4495.72s] English:** It's nice for people that don't know.  
+**[4495.72s] English:** It's nice for people who don't know.  
 **Translation:** Vocabulary: classify: 归类
 
 **[4498.32s] English:** I mean.  
 **Translation:** 
 
-**[4498.40s] English:** Maybe even zoom back out.  
+**[4498.40s] English:** Maybe, even zoom back out.  
 **Translation:** 
 
-**[4499.90s] English:** So, arm wrestling is a sport where two people have to, when we talk about strictly the sport, put their elbow on a particular pad.  
+**[4499.90s] English:** So, arm wrestling is a sport where two people have to, when we talk about the sport strictly, put their elbows on a particular pad.  
 **Translation:** 
 
 **[4512.12s] English:** It means they have to keep that elbow on that pad.  
-**Translation:** 
+**Translation:** Vocabulary: elbows: 胳膊肘; strictly: 严格地
 
-**[4515.72s] English:** And they win when the back of one of their hands crosses some kind of, or basically touches the table.  
+**[4515.72s] English:** And they win when the back of one of their hands crosses or basically touches the table.  
 **Translation:** 
 
 **[4523.66s] English:** That's it.  
@@ -2971,25 +2972,25 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4528.92s] English:** You do so, depending on the organization, without straps.  
 **Translation:** Vocabulary: straps: 绑带
 
-**[4533.64s] English:** Meaning there's just you.  
+**[4533.64s] English:** Meaning, there's just you.  
 **Translation:** 
 
 **[4535.86s] English:** Agree.  
 **Translation:** 
 
-**[4536.34s] English:** It's like mutual agreement that you're going to clasp your hands in a way that's fair.  
+**[4536.34s] English:** It's like a mutual agreement that you're going to clasp your hands in a way that's fair.  
 **Translation:** 
 
-**[4543.12s] English:** And there's a referee that helps ensure that it's fair.  
+**[4543.12s] English:** And there's a referee that helps ensure it's fair.  
 **Translation:** Vocabulary: clasp: 握手
 
-**[4545.56s] English:** But, of course, there's these little games going on.  
+**[4545.56s] English:** But, of course, there are these little games going on.  
 **Translation:** 
 
-**[4547.82s] English:** And then when you actually go all out with this battle, if there's no straps, you can slip out.  
+**[4547.82s] English:** And then, when you actually go all out with this battle, if there are no straps, you can slip out.  
 **Translation:** 
 
-**[4553.78s] English:** So, often you'll put the straps, which means you're, it's like marriage.  
+**[4553.78s] English:** So, often you'll put on the straps, which is kind of like marriage.  
 **Translation:** 
 
 **[4558.06s] English:** Yep.  
@@ -3001,40 +3002,40 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4559.82s] English:** Yeah.  
 **Translation:** 
 
-**[4560.00s] English:** uh for like somebody will have to lose essentially uh there's no pulling out so okay so that's sort  
+**[4560.00s] English:** Uh, for example, someone will have to lose essentially. There's no pulling out, so okay, so that's sort.  
 **Translation:** 
 
-**[4568.28s] English:** of the battle within that what are the different styles that you can speak to that people that  
+**[4568.28s] English:** Of the battle within, that is, what are the different styles that you can speak to that people?  
 **Translation:** 
 
-**[4574.22s] English:** don't know arm wrestling could uh could yeah we can start to kind of just dance around the subject  
+**[4574.22s] English:** Don't know arm wrestling could, uh, yeah, we can start to kind of just dance around the subject.  
 **Translation:** 
 
-**[4579.94s] English:** a bit i'd say there's a lot of different types there's specialists and there's kind of blenders  
-**Translation:** Vocabulary: blenders: 混合者
+**[4579.94s] English:** A bit, I'd say there are a lot of different types—there are specialists and there are kind of blenders.  
+**Translation:** Vocabulary: blenders: 混合型选手; wrestling: 摔跤
 
-**[4591.22s] English:** and people who are very versatile a lot of guys win world championships on one singular move  
+**[4591.22s] English:** And people who are very versatile often win world championships with just one singular move.  
 **Translation:** 
 
-**[4598.06s] English:** they get just extremely crisp at say a hook or a top roll and their style is very kind of focused  
+**[4598.06s] English:** They get just extremely crisp at a hook or a top roll, and their style is very kind of focused.  
 **Translation:** Vocabulary: versatile: 多才多艺
 
-**[4606.60s] English:** and you'll see it with a lot of athletes like  
+**[4606.60s] English:** And you'll see it with a lot of athletes, like  
 **Translation:** 
 
-**[4609.94s] English:** kind of a talk guide about guy who's very active guy called jerry catarat okay as soon as you think  
+**[4609.94s] English:** Kind of a talk guide about a very active guy named Jerry Cataract. Okay, as soon as you think  
+**Translation:** Vocabulary: cataract: 白内障
+
+**[4616.48s] English:** Jerry Cataract; he's got a very unique style. He's got a floppy wrist press, okay? So most of his technique...  
 **Translation:** 
 
-**[4616.48s] English:** jerry catarat he's got a very unique style he's got a flop wrist press okay so most of his technique  
+**[4622.82s] English:** Is built around this one system. FLOP wrist means you're, yes, what it sounds like: yeah, your wrist is.  
+**Translation:** Vocabulary: floppy: 软弱的
+
+**[4630.44s] English:** Flop, so yeah, but you're like—you're losing, so he is pushing from a losing position. No, he will be.  
 **Translation:** 
 
-**[4622.82s] English:** is built around this one system flop wrist means you're yes what it sounds like yeah your wrist is  
-**Translation:** 
-
-**[4630.44s] English:** flop so yeah but you're like you're losing so he is pushing from a losing position no he will be  
-**Translation:** 
-
-**[4636.96s] English:** offensive so he will be in a press so offense  
+**[4636.96s] English:** Offensive, so he will be in a press conference.  
 **Translation:** 
 
 **[4639.92s] English:** So, he'll give his hand away so that he can get his shoulder behind it properly.  
@@ -3046,7 +3047,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4647.12s] English:** Right.  
 **Translation:** 
 
-**[4647.32s] English:** So, you can press, press means put, like push.  
+**[4647.32s] English:** So, you can press; "press" means put, like push.  
 **Translation:** 
 
 **[4651.16s] English:** Push.  
@@ -3058,13 +3059,13 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4653.50s] English:** Without having that hook position.  
 **Translation:** 
 
-**[4656.22s] English:** Right, which is what most people are always looking for.  
+**[4656.22s] English:** Right; that's what most people are always looking for.  
 **Translation:** 
 
-**[4660.14s] English:** And Jerry's looking for it as well.  
+**[4660.14s] English:** And Jerry is also looking for it as well.  
 **Translation:** 
 
-**[4661.86s] English:** And then, so, example, there's another one.  
+**[4661.86s] English:** And then, so, for example, there's another one.  
 **Translation:** 
 
 **[4663.72s] English:** There's another specialist, Matt Mask.  
@@ -3077,9 +3078,9 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[4667.08s] English:** Right.  
-**Translation:** 
+**Translation:** Vocabulary: roller: 滚筒
 
-**[4667.52s] English:** And basically, that's his great move, the top roll.  
+**[4667.52s] English:** And basically, that's his great move: the top roll.  
 **Translation:** 
 
 **[4671.66s] English:** And his other weapons aren't nearly as powerful.  
@@ -3088,154 +3089,154 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4675.70s] English:** Just incredible top roll.  
 **Translation:** 
 
-**[4677.78s] English:** And then you have a lot of athletes that are more blended.  
+**[4677.78s] English:** And then, you have a lot of athletes that are more blended.  
+**Translation:** Vocabulary: blended: 混合的
+
+**[4680.00s] English:** Okay, they have a lot of good options. I think that I probably fall more into that category.  
 **Translation:** 
 
-**[4680.00s] English:** okay they have a lot of good options um i think that i probably fall more into that category  
+**[4686.14s] English:** You have people who are more "speed guys," okay, so they try and do very little, I'd call it...  
 **Translation:** 
 
-**[4686.14s] English:** you have people who are more speed guys okay so they try and do very little uh i'd call it  
+**[4695.34s] English:** Attrition, right? So a lot of people are very willing to trade energy, right, because they have.  
 **Translation:** 
 
-**[4695.34s] English:** attrition right so a lot of people are very willing to trade energy right because they have  
+**[4701.96s] English:** Faith that their gas tank or their pool will eventually tire the other person out so  
+**Translation:** Vocabulary: attrition: 消耗
+
+**[4707.34s] English:** Anytime there's a trade, they'll trade. Whereas, you know, a guy like Travis Bajaniak — he was  
 **Translation:** 
 
-**[4701.96s] English:** faith that their their gas tank or their pool eventually will tire the other person out so  
+**[4714.28s] English:** Very, very well known as being extremely explosive, right? But if the match stops,...  
+**Translation:** Vocabulary: anytime: 随时; explosive: 爆发力强
+
+**[4719.86s] English:** Typically, he's going to lose, all right. So, based off of your genetics and your hand, you know, there's  
 **Translation:** 
 
-**[4707.34s] English:** anytime there's a trade they'll trade whereas you know a guy like travis bajan you know he was  
+**[4728.64s] English:** A lot of ways to skin it, so I think you said something like you're a 20-second guy.  
 **Translation:** 
 
-**[4714.28s] English:** very very well known as being extremely explosive right but if the match stops  
-**Translation:** Vocabulary: anytime: 任何时间; explosive: 爆发力强
-
-**[4719.86s] English:** typically he's going to lose all right so based off of your genetics your hand you know there's  
+**[4737.22s] English:** You're a 20-second guy. You're a 20-second guy. You're a 20-second guy. You're a 20-second guy.  
 **Translation:** 
 
-**[4728.64s] English:** a lot of ways to skin it so i think you said uh something like you're a 20 second guy  
+**[4737.34s] English:** That's right, I'm a 20-second guy, so what are we talking about in those seconds? So, a lot.  
 **Translation:** 
 
-**[4737.22s] English:** you're a 20 second guy you're a 20 second guy you're a 20 second guy you're a 20 second guy  
+**[4743.66s] English:** Of the power, people they want to win in the first, maybe five seconds—like, even shorter: just that.  
 **Translation:** 
 
-**[4737.34s] English:** that's right i'm a 20 second guy so what are we what are the seconds we're talking about so a lot  
+**[4748.76s] English:** First, push that. First, press that. Absolutely, and that's it — right to the pad. Yeah, and so you're.  
 **Translation:** 
 
-**[4743.66s] English:** of the power people they want to win in the first maybe five seconds like even shorter just that  
+**[4755.50s] English:** Trying to hold off that attack, yeah. If I beat you in a second, we're not in the same world, yeah.  
 **Translation:** 
 
-**[4748.76s] English:** first push that first press that absolutely and that's it right to the pad yeah and so you're  
+**[4761.48s] English:** When I'm with my peer group, I will typically win by 20 seconds.  
 **Translation:** 
 
-**[4755.50s] English:** trying to hold off that attack yeah if i beat you in a second we're not in the same world yeah  
+**[4767.22s] English:** And beyond that, it's a typical win for me when I'm with a peer, um, whereas other guys when they're  
 **Translation:** 
 
-**[4761.48s] English:** when i'm with my peer group i will typically win 20 seconds  
+**[4774.62s] English:** With their peers, they'll win in a second, right? That's how they do it. That's that's the way.  
 **Translation:** 
 
-**[4767.22s] English:** and beyond that's a typical win for me when i'm with a peer um whereas other guys when they're  
+**[4779.44s] English:** They're built that's the way they train, um, yeah. Most guys at a higher level, it all starts to even out.  
 **Translation:** 
 
-**[4774.62s] English:** with their peers they'll win in a second right that's how they do it that's that's the way  
+**[4786.62s] English:** It kind of starts to get more and more difficult to be a specialist at the high level now.  
 **Translation:** 
 
-**[4779.44s] English:** they're built that's the way they they train um yeah most guys at a higher level it all starts to  
+**[4791.10s] English:** Some people just have little holes in their games, um, it's rare.  
 **Translation:** 
 
-**[4786.62s] English:** kind of it starts to get more and more difficult to be a specialist at the high level now  
+**[4797.22s] English:** To get someone who can really do all the moves.  
 **Translation:** 
 
-**[4791.10s] English:** some people just have little holes in their games um it's rare  
+**[4800.00s] English:** It's very rare. What, um, where would you put Levon? Uh, I wouldn't say he's a specialist; I'd say  
 **Translation:** 
 
-**[4797.22s] English:** to get someone who can really do all the moves  
+**[4809.26s] English:** His top roll is the strongest move. Top roll, top roll is the strongest move, yeah.  
+**Translation:** Vocabulary: levon: 拉冯
+
+**[4813.92s] English:** And the interesting thing about the specialist versus the blender is...  
 **Translation:** 
 
-**[4800.00s] English:** it's very rare what um where would you put levon uh i would not say he's a specialist i'd say  
+**[4819.40s] English:** There's a counter for every move, and there should be a move that is theoretically the right choice.  
+**Translation:** Vocabulary: blender: 搅拌机; theoretically: 理论上
+
+**[4828.50s] English:** So, if you're a single "move" guy, there's going to be a guy out there who'll get you.  
 **Translation:** 
 
-**[4809.26s] English:** his top roll is the strongest move top roll top roll is the strongest move yeah  
+**[4834.76s] English:** Yeah, it'll be very difficult for you to beat that guy, um, but like when you come to like  
 **Translation:** 
 
-**[4813.92s] English:** uh and the interesting thing about the the specialist versus the blender  
+**[4841.44s] English:** A tournament typically sees specialists do much better in tournament scenarios.  
 **Translation:** 
 
-**[4819.40s] English:** there's a counter right every move has a move that theoretically should be the right choice  
-**Translation:** Vocabulary: theoretically: 理论上
-
-**[4828.50s] English:** so if you're a single move guy uh there's going to be a guy out there who'll get you  
-**Translation:** 
-
-**[4834.76s] English:** yeah it'll be very difficult for you to beat that guy um but like when you come to like  
-**Translation:** 
-
-**[4841.44s] English:** a tournament typically specialists do much better in tournament scenarios  
-**Translation:** 
-
-**[4846.74s] English:** because their singular move can get them through a tournament very quickly and efficiently  
+**[4846.74s] English:** Because their singular move can get them through a tournament very quickly and efficiently.  
 **Translation:** Vocabulary: efficiently: 高效地; scenarios: 情境
 
-**[4852.22s] English:** whereas you get a blender in a tournament they typically will have longer and more difficult  
+**[4852.22s] English:** Whereas you get a blender in a tournament, they typically will have longer and more difficult recipes.  
 **Translation:** 
 
-**[4858.50s] English:** and by right yeah yeah but in in super match format typically blenders do better  
-**Translation:** Vocabulary: blenders: 搅拌机
+**[4858.50s] English:** And, by right, yeah, yeah, but in a super match format, typically blenders do better.  
+**Translation:** Vocabulary: blenders: 搅拌机; recipes: 食谱
 
-**[4865.58s] English:** so we uh offline also talked about arm sumo or uh freedom arm wrestling i don't know how you  
+**[4865.58s] English:** So, we also talked offline about ARM sumo or freedom arm wrestling; I don't know how you  
 **Translation:** 
 
-**[4871.96s] English:** want to call it oh i love freedom well uh exactly north american way uh so what so this is this is  
+**[4871.96s] English:** Want to call it? Oh, I love freedom, well, uh, exactly North American-style, uh, so what? This is this is.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[4882.64s] English:** this idea and i've watched a few videos and it looks fun yeah it's basically removing the  
+**[4882.64s] English:** This idea, and I've watched a few videos; it looks fun, yeah. It's basically removing the  
 **Translation:** 
 
-**[4888.50s] English:** restriction of having to keep your elbow on the pad and just being able to arm wrestle over the  
-**Translation:** Vocabulary: restriction: 限制; wrestle: 摔跤
+**[4888.50s] English:** Restriction of having to keep your elbow on the pad, and just being able to arm-wrestle over the  
+**Translation:** Vocabulary: restriction: 限制
 
-**[4894.24s] English:** whole table i think you've mentioned that the criticism that gets is it might be injury prone  
+**[4894.24s] English:** Whole table, I think you've mentioned that the criticism it gets is that it might be injury-prone.  
 **Translation:** 
 
-**[4899.56s] English:** or something like that yeah so can you describe this arm sumo freedom arm wrestling idea right  
-**Translation:** Vocabulary: prone: 容易...的
-
-**[4905.32s] English:** when you come to freedom arm wrestling basically it removes the limitation of a standard arm  
+**[4899.56s] English:** Or something like that. Yeah, so can you describe this "arm sumo" freedom arm-wrestling idea, right?  
 **Translation:** 
 
-**[4911.44s] English:** wrestling table yeah right so basically every single thing is a freedom arm wrestling table  
+**[4905.32s] English:** When you come to Freedom Arm Wrestling, basically it removes the limitation of a standard arm.  
 **Translation:** 
 
-**[4915.56s] English:** some are better than others all right so  
+**[4911.44s] English:** Wrestling table, yeah, right? So basically, every single thing is a freedom arm-wrestling table.  
 **Translation:** 
 
-**[4918.50s] English:** looking for that nice table  
+**[4915.56s] English:** Some are better than others, all right, so.  
 **Translation:** 
 
-**[4920.00s] English:** where we can kind of stand apart from each other and we're anatomically in a fairly safe position.  
+**[4918.50s] English:** Looking for that nice table.  
 **Translation:** 
 
-**[4927.12s] English:** And the rules in freedom, the way you win is like the knuckles must either touch the tabletop  
-**Translation:** Vocabulary: anatomically: 解剖上; knuckles: 指关节; tabletop: 桌面
-
-**[4933.60s] English:** or you hold it off the edge for a three count, right?  
+**[4920.00s] English:** Where we can kind of stand apart from each other, and we're anatomically in a fairly safe position.  
 **Translation:** 
 
-**[4938.82s] English:** So this is the main way to win.  
+**[4927.12s] English:** And the rules in freedom: the way you win is like the knuckles must either touch the tabletop.  
+**Translation:** Vocabulary: anatomically: 解剖学上; knuckles: 指关节; tabletop: 桌面
+
+**[4933.60s] English:** Or you hold it off the edge for a three-count, right?  
+**Translation:** 
+
+**[4938.82s] English:** So, this is the main way to win.  
 **Translation:** 
 
 **[4940.24s] English:** Yes, you can foul.  
 **Translation:** 
 
-**[4941.02s] English:** Like if you lift the elbow up, it's still a foul, but you have the entire playing surface.  
+**[4941.02s] English:** Like, if you lift the elbow up, it's still a foul, but you have the entire playing surface.  
 **Translation:** 
 
-**[4945.06s] English:** So your elbow is no longer limited to your seven by seven or seven by nine pad.  
+**[4945.06s] English:** So, your elbow is no longer limited to your 7-by-7 or 7-by-9 pad.  
 **Translation:** 
 
-**[4949.14s] English:** So you can move it all over the table.  
+**[4949.14s] English:** So, you can move it all over the table.  
 **Translation:** 
 
-**[4951.02s] English:** You can move your body around the table a bit too.  
+**[4951.02s] English:** You can move your body around the table a bit, too.  
 **Translation:** 
 
 **[4954.10s] English:** And if it's a big table, your body could largely be on the table.  
@@ -3244,25 +3245,25 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4958.26s] English:** Yeah.  
 **Translation:** 
 
-**[4958.54s] English:** So basically it's like adjusting your ring size.  
+**[4958.54s] English:** So, basically, it's like adjusting your ring size.  
 **Translation:** 
 
-**[4961.22s] English:** So arm wrestling, you're fighting in a phone booth, right?  
+**[4961.22s] English:** So, arm-wrestling—you're fighting in a phone booth, right?  
 **Translation:** 
 
-**[4964.48s] English:** So you're fighting in a field, you're fighting just bigger.  
+**[4964.48s] English:** So, you're fighting in a field, and you're fighting just bigger.  
 **Translation:** 
 
-**[4967.96s] English:** So it just makes the sport bigger.  
+**[4967.96s] English:** So, it just makes the sport bigger.  
 **Translation:** 
 
 **[4970.30s] English:** Yeah, this is Japan.  
 **Translation:** 
 
-**[4971.42s] English:** But even on a small table, even in a slightly larger phone booth,  
+**[4971.42s] English:** But even on a small table, and even in a slightly larger phone booth,  
 **Translation:** 
 
-**[4976.36s] English:** you can get a lot more fun.  
+**[4976.36s] English:** You can get a lot more fun.  
 **Translation:** 
 
 **[4978.36s] English:** Fun and variety.  
@@ -3289,7 +3290,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4986.78s] English:** Because it makes it more accessible.  
 **Translation:** 
 
-**[4988.12s] English:** Like you don't need the equipment.  
+**[4988.12s] English:** Like, you don't need the equipment.  
 **Translation:** 
 
 **[4989.22s] English:** You can do it at a bar.  
@@ -3310,10 +3311,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4992.32s] English:** Less equipment requirements.  
 **Translation:** 
 
-**[4994.92s] English:** Kids, most kids start freedom.  
+**[4994.92s] English:** Kids, most kids start with freedom.  
 **Translation:** 
 
-**[4996.92s] English:** Like most kids arm wrestle on school desks.  
+**[4996.92s] English:** Like most kids, they arm-wrestle on school desks.  
 **Translation:** 
 
 **[4998.84s] English:** Yeah.  
@@ -3322,10 +3323,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[4999.32s] English:** Yeah.  
 **Translation:** 
 
-**[4999.66s] English:** And like if you see a guy on the street, like whatever.  
+**[4999.66s] English:** And, like, if you see a guy on the street, whatever.  
 **Translation:** 
 
-**[5002.70s] English:** Like you can arm wrestle anywhere.  
+**[5002.70s] English:** Like you can arm-wrestle anywhere.  
 **Translation:** 
 
 **[5003.60s] English:** You don't need to bring your table around with you.  
@@ -3337,16 +3338,16 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5006.60s] English:** If you see a guy on the street, you don't need to bring your table around with you.  
 **Translation:** 
 
-**[5006.62s] English:** If we talked about the elite level, if somebody was interested in starting in arm wrestling  
+**[5006.62s] English:** If we talked about the elite level, if somebody was interested in starting in arm wrestling,  
 **Translation:** 
 
-**[5014.34s] English:** or like going from just like, you know, you go to the gym, you kind of lift, you've arm  
+**[5014.34s] English:** Or, like going from just lifting weights at the gym, you kind of pump up your arms.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[5022.54s] English:** wrestled a few times, trying to get better at it, trying to learn, how would you advise  
+**[5022.54s] English:** Wrestled a few times, trying to get better at it and trying to learn. How would you advise?  
 **Translation:** 
 
-**[5026.84s] English:** like getting better to where you can beat your closest buddies?  
+**[5026.84s] English:** Like getting better so you can beat your closest buddies?  
 **Translation:** Vocabulary: wrestled: 摔跤
 
 **[5031.36s] English:** Yeah.  
@@ -3355,7 +3356,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5031.84s] English:** That first step.  
 **Translation:** 
 
-**[5033.18s] English:** First step, I'd say find people.  
+**[5033.18s] English:** First step: I'd say, find people.  
 **Translation:** 
 
 **[5036.62s] English:** Find people.  
@@ -3364,160 +3365,160 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5037.86s] English:** Find good people.  
 **Translation:** 
 
-**[5040.00s] English:** volume get we'll get with the club get with people who know what they're doing who can mentor you  
+**[5040.00s] English:** Volume, get we'll get with the club; get with people who know what they're doing who can mentor you.  
+**Translation:** Vocabulary: mentor: 导师
+
+**[5044.36s] English:** And that's really cool. I got to meet someone, and I realized there's a club in Austin.  
 **Translation:** 
 
-**[5044.36s] English:** and that's really cool i i got to meet i realized there's a club in austin  
+**[5048.24s] English:** Yeah, sure. There's a lot of places everywhere. Uh, we got this app called Arm Bet, yeah.  
 **Translation:** 
 
-**[5048.24s] English:** yeah sure there's in a lot of places everywhere uh we we got this app called arm bet yeah which  
+**[5055.26s] English:** Is an app that helps you find other people there, yeah? Very easy, but I mean, they're all over social.  
 **Translation:** 
 
-**[5055.26s] English:** is a app that helps you find other people there yeah very easy but i mean they're all over social  
+**[5060.88s] English:** Networks; I mean, it's kind of widespread now, but yeah, find people, and it's just much.  
 **Translation:** 
 
-**[5060.88s] English:** networks i mean it's kind of widespread now but yeah find people find people and it's just much  
+**[5068.98s] English:** Easier to learn with another person, and you'll get stronger that way. But I mean, do this and do the  
 **Translation:** 
 
-**[5068.98s] English:** easier to learn with another person and you'll get stronger that way but i mean do this do the  
+**[5075.20s] English:** Lifts, I mean, if you go to the gym and just start doing the lifts, uh, and right away, those will  
 **Translation:** 
 
-**[5075.20s] English:** lifts i mean if you go to the gym just start doing the lifts uh and right away those will  
+**[5081.36s] English:** Technically, can we prepare you to know what the lifts are? Can we describe them? Yeah, so I'd say if you  
 **Translation:** 
 
-**[5081.36s] English:** technically prepare you what are what are the lifts can we describe yeah so i'd say if you  
+**[5087.42s] English:** We want to just keep it very, very simple. Let's just talk about three things. There's more, but there's much more.  
+**Translation:** Vocabulary: technically: 技术上
+
+**[5091.92s] English:** Than three, but like when you talk about energy allocation, these three lifts, in my opinion,  
 **Translation:** 
 
-**[5087.42s] English:** want to just keep it very very simple let's just talk about three there's more there's much more  
+**[5098.98s] English:** Could be like 90% of your investment; it's very big, especially with these three lifts, and the exact percentages.  
+**Translation:** Vocabulary: allocation: 分配; percentages: 比例
+
+**[5108.84s] English:** Can you can argue about it, but we'll start off with the cupping of the wrist.  
 **Translation:** 
 
-**[5091.92s] English:** than three but like when you talk about energy allocation these three lifts in my opinion  
+**[5113.26s] English:** Just this: it's a simple thing, and do it with a cable. You know, you can get a thicker diameter.  
 **Translation:** 
 
-**[5098.98s] English:** could be like 90 of your investment it's very big these three lifts uh and the exact percentages  
-**Translation:** Vocabulary: allocation: 分配; percentages: 百分比
-
-**[5108.84s] English:** can you can argue about it but we'll we'll start off with the cupping of the wrist  
+**[5120.82s] English:** So, it kind of feels more like it's out on your fingers, whereas an armrest is going to attack you.  
 **Translation:** 
 
-**[5113.26s] English:** just this it's a simple thing and do it with a cable uh you know you can get a thicker diameter  
-**Translation:** 
-
-**[5120.82s] English:** so it kind of you know is is more out on your fingers where an armrest is going to attack you  
-**Translation:** 
-
-**[5125.78s] English:** right because any good armrest is going to attack your fingers so like  
+**[5125.78s] English:** Right, because any good armrest is going to attack your fingers, so like  
 **Translation:** Vocabulary: armrest: 扶手
 
-**[5128.98s] English:** open hand no no well i mean for health yes you could but like if you want to be really specific  
+**[5128.98s] English:** Open hand: No, no. Well, I mean, for health, yes, you could, but like if you want to be really specific.  
 **Translation:** 
 
-**[5135.68s] English:** you train exactly the way you would at a table in the position that you actually start that match  
+**[5135.68s] English:** You train exactly the way you would at a table, in the position that you actually start that match.  
 **Translation:** 
 
-**[5140.68s] English:** yeah and then you're just doing uh this kind of yes to your center your people people one of the  
+**[5140.68s] English:** Yeah, and then you're just doing this kind of thing to your people—people, one of the  
 **Translation:** 
 
-**[5147.64s] English:** one of the big misconceptions in arm wrestling is that you're aiming for that pin pad right  
-**Translation:** Vocabulary: misconceptions: 误解; wrestling: 摔跤
+**[5147.64s] English:** One of the big misconceptions in arm wrestling is that you're aiming for that pin pad right?  
+**Translation:** Vocabulary: aiming: 瞄准; misconceptions: 误解; wrestling: 摔跤
 
-**[5153.18s] English:** no the center the chest i'll bring it close to you okay make it come  
+**[5153.18s] English:** No, the center of the chest. I'll bring it close to you, okay? Make it come.  
 **Translation:** 
 
-**[5158.98s] English:** close to you right you see  
+**[5158.98s] English:** Close to you, right? You see.  
 **Translation:** 
 
-**[5160.00s] English:** like whenever i do my exercises the the vector is always pulling straight towards me yeah yeah so  
+**[5160.00s] English:** Like, whenever I do my exercises, the vector is always pulling straight towards me, yeah, yeah, so.  
 **Translation:** 
 
-**[5166.72s] English:** just uh you know cupping close to you the most dangerous thing that a person can do to me on an  
+**[5166.72s] English:** Just, uh, you know, cupping close to me—the most dangerous thing that a person can do to me on an  
 **Translation:** 
 
-**[5172.72s] English:** arm wrestling match is just pull me away from my body that that's a terrible thing for me yeah so  
+**[5172.72s] English:** An arm-wrestling match is just pull me away from my body—that's a terrible thing for me, yeah, so.  
 **Translation:** 
 
-**[5178.18s] English:** so that cupping yeah that's a massive part of the sport uh so now when you think what does the cup  
+**[5178.18s] English:** So, that cupping — yeah, that's a massive part of the sport. Uh, now, when you think, "What does the cup?  
 **Translation:** 
 
-**[5186.72s] English:** do to the other person if i cup they get turned over right so this has to get really strong  
+**[5186.72s] English:** Do to the other person if I cup them, they get turned over, right? So this has to be really strong.  
 **Translation:** 
 
-**[5194.88s] English:** this pronation so so to fight the to fight that rolling exactly yeah so that's that's through  
+**[5194.88s] English:** This pronation is so so to fight, to fight that rolling exactly. Yeah, so that's that's through.  
 **Translation:** Vocabulary: pronation: 手掌翻转
 
-**[5205.86s] English:** the thumb yeah oh so you put uh you got it you put on the thumb and you put this motion  
+**[5205.86s] English:** The thumb, yeah. Oh, so you put, uh, you got it. You put on the thumb and you make this motion.  
 **Translation:** 
 
-**[5212.26s] English:** yeah got it yeah and those two things those two things  
+**[5212.26s] English:** Yeah, got it. Yeah, and those two things: those two things.  
 **Translation:** 
 
-**[5216.72s] English:** together this cupping and rolling this is what's going to make the person's hand bend back and once  
+**[5216.72s] English:** Together, this cupping and rolling is what's going to make the person's hand bend back, and once...  
 **Translation:** 
 
-**[5222.82s] English:** the person's hand is bent back they're just their whole game gets cut to pieces got it they have  
+**[5222.82s] English:** The person's hand is bent back; they're just their whole game gets cut to pieces, got it? They have  
 **Translation:** 
 
-**[5228.28s] English:** very little good options it's all like nasty stuff wow yeah so those two things that's a that's a  
+**[5228.28s] English:** Very little good options; it's all like nasty stuff, wow! Yeah, so those two things—that's a  
 **Translation:** 
 
-**[5235.40s] English:** huge part of of your of your investment uh rise always be climbing yeah exactly yeah those three  
+**[5235.40s] English:** A huge part of your investment will always be climbing, yeah, exactly. Those three.  
 **Translation:** 
 
-**[5245.74s] English:** simple things  
+**[5245.74s] English:** Simple things.  
 **Translation:** 
 
-**[5246.72s] English:** that's what i would tell anybody to spend most of their time on if you want to become an arm wrestler  
+**[5246.72s] English:** That's what I would tell anybody to spend most of their time on if you want to become an arm wrestler.  
 **Translation:** Vocabulary: wrestler: 摔跤手
 
-**[5251.92s] English:** so and to use bands would be good for this bands are great because they're easy to transport  
+**[5251.92s] English:** So, and to use bands would be good for this. Bands are great because they're easy to transport.  
 **Translation:** 
 
-**[5257.58s] English:** the only problem i have with bands is like if you like to measure you know and if you like to be  
+**[5257.58s] English:** The only problem I have with bands is, like, if you like to measure or if you like to be  
 **Translation:** 
 
-**[5263.30s] English:** precise bands just aren't that precise right to have growth yeah yeah just i mean it's just like  
+**[5263.30s] English:** Precise bands just aren't that precise, right? To have growth, yeah, yeah. Just, I mean, it's just like...  
 **Translation:** 
 
-**[5268.50s] English:** you know you know exactly what you need the prescription is kind of a band is kind of like  
+**[5268.50s] English:** You know, you know exactly what you need. The prescription is kind of like  
 **Translation:** 
 
-**[5273.34s] English:** and a lot of people myself included i like to uh  
+**[5273.34s] English:** And a lot of people, including myself, like to uh  
 **Translation:** 
 
-**[5276.72s] English:** i like to know exactly my outputs so  
-**Translation:** 
+**[5276.72s] English:** I like to know exactly my outputs so.  
+**Translation:** Vocabulary: outputs: 结果
 
-**[5280.00s] English:** So weights.  
+**[5280.00s] English:** So, weights.  
 **Translation:** 
 
 **[5282.04s] English:** So, uh, it would be like cables.  
-**Translation:** 
+**Translation:** Vocabulary: cables: 电缆
 
 **[5285.10s] English:** Cables are nice.  
 **Translation:** 
 
-**[5286.20s] English:** Bands are great too.  
+**[5286.20s] English:** Bands are great, too.  
 **Translation:** 
 
-**[5287.14s] English:** I, I, I mixed the two bands are, uh, when I kind of don't need to, they're more like easy for me.  
+**[5287.14s] English:** I mixed the two bands together when I kind of don't need to; they're more like a hassle for me.  
 **Translation:** 
 
-**[5295.52s] English:** I, when I train bands, bands are dangerous because the acceleration is so high on them.  
-**Translation:** 
+**[5295.52s] English:** I, when I train bands, are dangerous because the acceleration is so high on them.  
+**Translation:** Vocabulary: acceleration: 加速度; hassle: 麻烦
 
 **[5300.14s] English:** Like when you screw up with band training, the acceleration is way faster than gravity.  
 **Translation:** 
 
 **[5304.98s] English:** Right.  
-**Translation:** Vocabulary: acceleration: 加速度; gravity: 重力
+**Translation:** Vocabulary: gravity: 重力
 
-**[5305.26s] English:** So if you do something bad, it can, it can make it go really much worse.  
+**[5305.26s] English:** So, if you do something bad, it can make it go much worse.  
 **Translation:** 
 
 **[5309.56s] English:** Yeah.  
 **Translation:** 
 
-**[5310.18s] English:** It's funny that you didn't mention bicep curls or, uh.  
+**[5310.18s] English:** It's funny that you didn't mention bicep curls or, uh,...  
 **Translation:** 
 
 **[5315.00s] English:** Well, it's a chain.  
@@ -3526,22 +3527,22 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5316.44s] English:** It's a chain.  
 **Translation:** 
 
-**[5317.30s] English:** And so you're, I mean, the idea, if you focus on these three, the other stuff catches up, like it's all involved.  
+**[5317.30s] English:** And so, you're right; the idea is that if you focus on these three, the other stuff will catch up, as they are all interconnected.  
+**Translation:** Vocabulary: interconnected: 相互关联
+
+**[5323.30s] English:** This whole thing is involved.  
 **Translation:** 
 
-**[5323.30s] English:** This whole, this whole thing is involved.  
+**[5325.02s] English:** So, if you have an ax, right, the blade of the ax—that's these things, right?  
 **Translation:** 
 
-**[5325.02s] English:** So if you have an ax, right, the blade of the ax, that's, that's these things, right?  
-**Translation:** 
-
-**[5333.96s] English:** Like you need the, the pointy end of all your attacks to be awesome.  
+**[5333.96s] English:** Like you need the pointy end of all your attacks to be awesome.  
 **Translation:** 
 
 **[5338.86s] English:** Right.  
 **Translation:** Vocabulary: pointy: 尖锐的
 
-**[5339.30s] English:** If you have a super sharp ax.  
+**[5339.30s] English:** If you have a super-sharp ax.  
 **Translation:** 
 
 **[5341.12s] English:** Yeah.  
@@ -3559,10 +3560,10 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5344.86s] English:** Yeah.  
 **Translation:** 
 
-**[5345.28s] English:** So focus on that.  
+**[5345.28s] English:** So, focus on that.  
 **Translation:** 
 
-**[5346.40s] English:** The, the pointy, the tip of the ax.  
+**[5346.40s] English:** The pointy tip of the ax.  
 **Translation:** 
 
 **[5348.84s] English:** Yeah.  
@@ -3574,7 +3575,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5350.70s] English:** Right.  
 **Translation:** 
 
-**[5351.08s] English:** Like if I have an awesome bicep and I can't quite use it, what's it good for?  
+**[5351.08s] English:** Like, if I have an awesome bicep and I can't quite use it, what's it good for?  
 **Translation:** 
 
 **[5356.16s] English:** Right.  
@@ -3583,28 +3584,28 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5356.64s] English:** Yeah.  
 **Translation:** 
 
-**[5357.06s] English:** I think a lot of the motions with the wrist that you mentioned are, uh, just thinking about jujitsu, especially in the gi.  
+**[5357.06s] English:** I think a lot of the wrist motions you mentioned are, uh, just thinking about jujitsu, especially in the gi.  
 **Translation:** 
 
 **[5363.66s] English:** Yeah.  
-**Translation:** Vocabulary: jujitsu: 柔道
+**Translation:** Vocabulary: jujitsu: 柔道; motions: 动作
 
-**[5363.96s] English:** Um, there's a lot of, I mean, there's so much importance to this and people don't often work.  
+**[5363.96s] English:** Um, there's a lot of importance to this, and people don't often realize it.  
 **Translation:** 
 
-**[5369.30s] English:** It, um, explicitly.  
+**[5369.30s] English:** It explicitly.  
 **Translation:** Vocabulary: explicitly: 明确地
 
 **[5372.14s] English:** Yeah.  
 **Translation:** 
 
 **[5372.54s] English:** So many of the chokes require.  
-**Translation:** 
+**Translation:** Vocabulary: chokes: 窒息
 
 **[5374.42s] English:** Yeah.  
 **Translation:** 
 
-**[5374.76s] English:** Ability to, it's almost like exactly like arm wrestling.  
+**[5374.76s] English:** Ability to: It's almost like arm wrestling exactly.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
 **[5377.40s] English:** Very close.  
@@ -3628,172 +3629,172 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5384.50s] English:** Yeah.  
 **Translation:** 
 
-**[5385.36s] English:** And so you just getting the muscle, the, whatever that's involved, the muscle, the turning, the pressure, because that's where also the choke comes.  
+**[5385.36s] English:** And so you just need to get the muscle, the whatever is involved, the muscle, the turning, the pressure—because that's where the choke also comes from.  
 **Translation:** 
 
-**[5393.98s] English:** That little, the thing that makes you win in arm wrestling is also the thing that.  
+**[5393.98s] English:** That little thing that makes you win in arm wrestling is also the thing that.  
 **Translation:** 
 
-**[5399.30s] English:** Finishes the.  
+**[5399.30s] English:** Finishes the task.  
 **Translation:** 
 
-**[5400.00s] English:** person when you have them grabbed the strength is very similar yeah it's fascinating actually  
+**[5400.00s] English:** Person, when you have them grabbed, the strength is very similar, yeah; it's fascinating, actually.  
 **Translation:** 
 
-**[5405.20s] English:** of course like you said if you want to be very good you should be doing the very specific exact  
+**[5405.20s] English:** Of course, as you said, if you want to be very good, you should be doing the very specific and exact thing.  
 **Translation:** 
 
-**[5411.34s] English:** emotion yeah so if i was going to do jujitsu i'd be like working out with the gi yeah the problem  
+**[5411.34s] English:** Emotion: Yeah, so if I was going to do judo, I'd be working out with the gi, yeah. The problem is...  
 **Translation:** 
 
-**[5416.22s] English:** is you know uh it's difficult to construct the um the exact so you have to actually go with people  
+**[5416.22s] English:** It's difficult to construct the exact wording, so you have to actually go with people.  
 **Translation:** 
 
-**[5425.52s] English:** and then they don't like being choked on right so like it's hard to i'm actually a big we have  
+**[5425.52s] English:** And then they don't like being choked on, right? So, it's hard to believe, but I'm actually a big fan of...  
 **Translation:** 
 
-**[5432.16s] English:** these kinds of debates all the time is um you know i'm a big believer in drilling i love doing  
-**Translation:** Vocabulary: believer: 信仰者
+**[5432.16s] English:** These kinds of debates happen all the time, and I'm a big believer in drilling; I love doing it.  
+**Translation:** Vocabulary: believer: 信仰者; choked: 窒息
 
-**[5439.26s] English:** something thousands of times like john donahue or somebody i mentioned to you about the jujitsu  
+**[5439.26s] English:** Something, thousands of times, like John Donahue or somebody I mentioned to you about the jujitsu.  
 **Translation:** 
 
-**[5444.38s] English:** folks here they're less believers in drilling they they see the value of almost like the mind of of  
-**Translation:** Vocabulary: believers: 信仰者
+**[5444.38s] English:** Folks here are less believers in drilling; they see the value almost like the mind of  
+**Translation:** Vocabulary: believers: 信仰者; jujitsu: 柔术
 
-**[5452.72s] English:** going live and exploring ideas  
+**[5452.72s] English:** Going live and exploring ideas.  
 **Translation:** 
 
-**[5455.52s] English:** play you don't need to do the thing a thousand times you just need to always be thinking about  
+**[5455.52s] English:** Play; you don't need to do the thing a thousand times; you just need to always be thinking about it.  
 **Translation:** 
 
-**[5461.86s] English:** the little details that make you uh make you better and then in action practicing like  
+**[5461.86s] English:** The little details that make you, uh, better, and then putting it into action by practicing like.  
 **Translation:** 
 
-**[5467.48s] English:** developing the strength the power the explosion of the agility in action so actually rolling i  
+**[5467.48s] English:** Developing the strength, the power, the explosion of agility in action, so actually, rolling I.  
 **Translation:** Vocabulary: agility: 灵活性
 
-**[5474.18s] English:** don't you know i i agree with this but i just believe in volume more yeah so you can accomplish  
+**[5474.18s] English:** Don't you know? I agree with this, but I just believe in volume more. Yeah, so you can accomplish...  
 **Translation:** 
 
-**[5481.22s] English:** it through volume you can you can play a lot yes exactly  
+**[5481.22s] English:** It through volume, you can play a lot, yes, exactly.  
 **Translation:** 
 
-**[5485.52s] English:** well that's if you really want to get it good is you're talking about i mean that's why uh a lot of  
+**[5485.52s] English:** Well, that's if you really want to get it right; you're talking about, I mean, that's why a lot of  
 **Translation:** 
 
-**[5492.72s] English:** these folks are training three times a day they're doing you know they're putting in the hours eight  
+**[5492.72s] English:** These folks are training three times a day. They're doing, you know, putting in the hours—eight.  
 **Translation:** 
 
-**[5497.20s] English:** hours nine hours just just that's tough oh my god well so there are a lot of them are not doing going  
+**[5497.20s] English:** Hours? Nine hours? Just that's tough. Oh, my God! Well, so there are a lot of them that are not doing it.  
 **Translation:** 
 
-**[5503.60s] English:** hard it's just being on the mat some of it is just sitting there talking through ideas watching  
+**[5503.60s] English:** It's hard. It's just being on the mat, some of it is just sitting there, talking through ideas, watching.  
 **Translation:** 
 
-**[5508.40s] English:** others or teaching explaining stuff it's just it's like it's not just physical it's it's a mental too  
+**[5508.40s] English:** Others, or teaching and explaining stuff—it's just like it's not just physical; it's mental too.  
 **Translation:** 
 
-**[5515.52s] English:** because you're keeping in your mind and some of the greatest that's what they talk about the  
+**[5515.52s] English:** Because you're keeping in mind and some of the greatest, that's what they talk about the  
 **Translation:** 
 
-**[5520.00s] English:** the wrestlers i've talked with the fighters at the top of their career they basically  
+**[5520.00s] English:** The wrestlers I've talked with, the fighters at the top of their career, basically  
 **Translation:** 
 
-**[5526.46s] English:** uh george st pierre is like this another fellow canadian is uh like his stick figures in his head  
+**[5526.46s] English:** Uh, George St-Pierre is like that. Another fellow Canadian is, uh, kind of like his stick figures in his head.  
 **Translation:** Vocabulary: wrestlers: 摔跤手
 
-**[5535.70s] English:** they can't help yeah they're like in there because if you train enough hours you're it's just going  
+**[5535.70s] English:** They can't help; yeah, they're like that. If you train enough hours, you're it's just going to happen.  
 **Translation:** 
 
-**[5542.68s] English:** to be in your head and they're all going to be playing around in your head yeah and some little  
+**[5542.68s] English:** To be in your head, and they're all going to be playing around in your head, yeah, and some little...  
 **Translation:** 
 
-**[5546.68s] English:** detail over time it's almost like computing or something like that and that ends up  
+**[5546.68s] English:** Detail over time is almost like computing, or something like that, and that ends up  
 **Translation:** 
 
-**[5550.66s] English:** having a result even though you're not physically doing anything it's it's it's always in there  
+**[5550.66s] English:** Having a result, even though you're not physically doing anything, it's always in there.  
+**Translation:** Vocabulary: computing: 计算过程
+
+**[5556.38s] English:** I do have to return to the diet real quick. I know we're talking about pancakes, let me.  
 **Translation:** 
 
-**[5556.38s] English:** i do have to return to diet real quick i know we're talking about pancakes let me  
-**Translation:** 
-
-**[5563.16s] English:** quite seriously um you are one of the i mean strongest athletes in the world for your sport  
+**[5563.16s] English:** Quite seriously, you are one of the strongest athletes in the world for your sport.  
 **Translation:** Vocabulary: pancakes: 煎饼
 
-**[5573.78s] English:** so you have to get big you have to get powerful you have to  
+**[5573.78s] English:** So, you have to get big. You have to get powerful. You have to...  
 **Translation:** 
 
-**[5576.66s] English:** get strong what is the right diet for you for that like what do you eat how often do you eat  
+**[5576.66s] English:** Get strong: What is the right diet for you? For that, like, what do you eat, how often do you eat?  
 **Translation:** 
 
-**[5586.60s] English:** um yeah from the the highest detail to the smallest or the things that make you happy and  
+**[5586.60s] English:** Um, yeah, from the highest detail to the smallest, or the things that make you happy, and  
 **Translation:** 
 
-**[5592.98s] English:** feel good yeah i've experimented with every diet i've done it all i've been a vegan uh i've done  
+**[5592.98s] English:** Feel good, yeah. I've experimented with every diet; I've done it all. I've been a vegan, and I've done  
 **Translation:** Vocabulary: experimented: 尝试; vegan: 纯素食者
 
-**[5601.24s] English:** raw uh i've eaten only meat uh i've eaten balanced of  
+**[5601.24s] English:** Raw, uh, I've eaten only meat, uh, I've eaten a balanced diet.  
 **Translation:** 
 
-**[5606.66s] English:** eating like a bodybuilder uh you know you name it i've probably tried it  
-**Translation:** Vocabulary: bodybuilder: 健美运动员
+**[5606.66s] English:** Eating like a bodybuilder, uh, you know, I've probably tried it.  
+**Translation:** Vocabulary: balanced: 均衡; bodybuilder: 健美运动员
 
-**[5612.34s] English:** um i don't believe that it's as important in the sport of arm wrestling as it is perhaps in other  
+**[5612.34s] English:** Um, I don't believe that it's as important in the sport of arm wrestling as it is perhaps in other.  
 **Translation:** 
 
-**[5621.74s] English:** sports uh i believe that i mean just to be very basic i mean if you're eating enough food you're  
+**[5621.74s] English:** Sports, uh, I believe that I mean, just to be very basic, I mean, if you're eating enough food, you're  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[5629.38s] English:** probably going to be okay um so it's just calories it's a lot i mean it really i mean not to over  
+**[5629.38s] English:** Probably going to be okay, um, so it's just calories; it's a lot. I mean, it really is, not to overstate it.  
 **Translation:** 
 
-**[5636.66s] English:** it but i mean that's that's where the conversation starts are you eating enough food  
+**[5636.66s] English:** It, but I mean, that's where the conversation starts: are you eating enough food?  
+**Translation:** Vocabulary: overstate: 夸大其词
+
+**[5640.00s] English:** And it can come in any number of ways.  
 **Translation:** 
 
-**[5640.00s] English:** Um, and it can come in any number of ways.  
-**Translation:** 
-
-**[5644.46s] English:** And I, I, I don't think it's as important as a lot of other people do.  
+**[5644.46s] English:** And I don't think it's as important as a lot of other people do.  
 **Translation:** 
 
 **[5650.32s] English:** Uh, I'm certainly irresponsible in a lot, but the thing is, is back to like volume,  
 **Translation:** 
 
-**[5656.96s] English:** right?  
+**[5656.96s] English:** Right?  
 **Translation:** Vocabulary: irresponsible: 不负责任
 
-**[5657.32s] English:** Like you need to, like, if, if you want to be a super heavyweight, it's very different  
+**[5657.32s] English:** Like you need to, like, if you want to be a super heavyweight, it's very different.  
 **Translation:** 
 
-**[5663.60s] English:** than if you want to be a weight category guy.  
+**[5663.60s] English:** Than if you want to be a weight category guy.  
 **Translation:** Vocabulary: heavyweight: 重量级选手
 
-**[5665.40s] English:** If you want to be a weight category guy, I'd say that you need to be more responsible,  
+**[5665.40s] English:** If you want to be a weight category guy, I'd say you need to be more responsible.  
 **Translation:** 
 
-**[5670.22s] English:** make better choices.  
+**[5670.22s] English:** Make better choices.  
 **Translation:** 
 
-**[5671.72s] English:** If you want to be a super heavyweight, everything.  
+**[5671.72s] English:** If you want to be a super heavyweight, everything matters.  
 **Translation:** 
 
-**[5676.18s] English:** Just, we're watching a delicious looking omelet.  
+**[5676.18s] English:** Just, we're watching a delicious-looking omelet.  
 **Translation:** 
 
-**[5678.36s] English:** So eggs, bacon, syrup.  
+**[5678.36s] English:** So, eggs, bacon, syrup.  
 **Translation:** 
 
-**[5680.84s] English:** So you don't care.  
+**[5680.84s] English:** So, you don't care.  
 **Translation:** Vocabulary: syrup: 糖浆
 
 **[5681.40s] English:** Carbs.  
 **Translation:** 
 
-**[5681.88s] English:** So in all the things you try.  
+**[5681.88s] English:** So, in all the things you try.  
 **Translation:** Vocabulary: carbs: 碳水化合物
 
-**[5683.64s] English:** So I mostly eat meat now.  
+**[5683.64s] English:** So, I mostly eat meat now.  
 **Translation:** 
 
 **[5685.98s] English:** Yeah.  
@@ -3802,7 +3803,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5686.42s] English:** And I landed on that.  
 **Translation:** 
 
-**[5687.98s] English:** There's several things, you know, obviously I'm not, but I do a lot of sport.  
+**[5687.98s] English:** There are several things, you know. Obviously, I'm not involved in all of them, but I do a lot of sports.  
 **Translation:** 
 
 **[5692.86s] English:** Yeah.  
@@ -3811,13 +3812,13 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5693.28s] English:** And I was very surprised how my particular.  
 **Translation:** 
 
-**[5695.40s] English:** Very specific body can perform, uh, better with only meat.  
+**[5695.40s] English:** Very specific bodies can perform better with only meat.  
 **Translation:** 
 
-**[5700.38s] English:** Why better the sports I do, the mind matters.  
+**[5700.38s] English:** Why does the quality of the sports I play matter more than the state of my mind?  
 **Translation:** 
 
-**[5703.04s] English:** And so for some reason, my mind is just clear and I don't think, cause it feels unhealthy.  
+**[5703.04s] English:** And so, for some reason, my mind is just clear, and I don't think — because it feels unhealthy.  
 **Translation:** 
 
 **[5708.62s] English:** It just makes me feel really good.  
@@ -3826,20 +3827,20 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5710.76s] English:** I don't think I would recommend it to anybody else.  
 **Translation:** 
 
-**[5713.66s] English:** So it's, it's interesting that that journey of just exploring can take you to figure out  
+**[5713.66s] English:** So it's interesting that exploring can take you on a journey to figure out.  
 **Translation:** 
 
-**[5720.72s] English:** something about your own self.  
+**[5720.72s] English:** Something about your own self.  
 **Translation:** 
 
 **[5722.72s] English:** One of the most interesting things that I heard.  
 **Translation:** 
 
-**[5725.40s] English:** About nutrition was I heard there was a Doritos.  
+**[5725.40s] English:** About nutrition, I heard there was a Doritos.  
 **Translation:** 
 
 **[5730.42s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: doritos: 一种玉米片零食
 
 **[5730.98s] English:** Yeah.  
 **Translation:** 
@@ -3856,16 +3857,16 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5732.28s] English:** I'm an idiot.  
 **Translation:** 
 
-**[5734.02s] English:** Uh, now I do, I'd say over the last couple of years, I've really gone into the, into  
+**[5734.02s] English:** Uh, now I do; I'd say over the last couple of years, I've really gotten into the, into  
 **Translation:** 
 
-**[5739.80s] English:** carbs a lot and high glycemic carbs.  
+**[5739.80s] English:** Carbs, a lot and high glycemic carbs.  
 **Translation:** 
 
-**[5741.98s] English:** And, you know, just to, I feel like it's one of the best things you can do if you're working  
-**Translation:** Vocabulary: glycemic: 血糖生成指数
+**[5741.98s] English:** And, you know, just to, I feel like it's one of the best things you can do if you're working.  
+**Translation:** Vocabulary: glycemic: 血糖生成指数高的
 
-**[5745.28s] English:** out really hard, just add carbs.  
+**[5745.28s] English:** Out really hard? Just add carbs.  
 **Translation:** 
 
 **[5747.20s] English:** Yeah, exactly.  
@@ -3880,94 +3881,94 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5754.58s] English:** Okay.  
 **Translation:** 
 
-**[5754.70s] English:** So, so you've had distracted syrup.  
+**[5754.70s] English:** So, you've had distracted syrup.  
 **Translation:** Vocabulary: distracted: 分心的
 
 **[5757.84s] English:** I forget everything.  
 **Translation:** 
 
 **[5759.12s] English:** It's distracting.  
-**Translation:** Vocabulary: distracting: 分散注意力的
+**Translation:** Vocabulary: distracting: 分心的
 
 **[5759.72s] English:** Yeah.  
 **Translation:** 
 
-**[5760.00s] English:** No, so you've added high glycemic carbs into the mix.  
+**[5760.00s] English:** No, so you've added high-glycemic carbs into the mix.  
 **Translation:** 
 
-**[5763.62s] English:** So those help, but that's for mass building.  
+**[5763.62s] English:** So, those help, but that's for mass building.  
 **Translation:** 
 
 **[5766.60s] English:** Right.  
 **Translation:** 
 
-**[5766.98s] English:** So there was a study that I heard about by somebody who's trying to identify heart attacks.  
+**[5766.98s] English:** So, there was a study that I heard about by someone who's trying to identify heart attacks.  
 **Translation:** 
 
 **[5772.92s] English:** They did this great big study.  
 **Translation:** 
 
-**[5774.80s] English:** And at the end of it, I mean, didn't matter what the people ate, the most important thing was how they felt about the food that they were eating.  
+**[5774.80s] English:** And at the end of it, I mean, didn't matter what the people ate; the most important thing was how they felt about the food that they were eating.  
 **Translation:** 
 
 **[5783.34s] English:** Yeah.  
 **Translation:** 
 
-**[5783.86s] English:** So if you believe in the food, if you believe that it's going to do good things for you, and if you allocate it the right way, it's going to have a positive impact.  
+**[5783.86s] English:** So, if you believe in the food, if you believe that it's going to do good things for you, and if you allocate it the right way, it's going to have a positive impact.  
 **Translation:** 
 
-**[5795.16s] English:** And I try and do that no matter what it is.  
+**[5795.16s] English:** And I try and do that, no matter what it is.  
 **Translation:** Vocabulary: allocate: 分配
 
-**[5797.42s] English:** Like I have my foods that I think do certain things.  
+**[5797.42s] English:** Like, I have my foods that I think do certain things.  
 **Translation:** 
 
-**[5800.36s] English:** And so, you know, for me, I know that actually, I mean, I learned about corn fed pumps when I was overseas.  
+**[5800.36s] English:** And so, you know, for me, I knew that actually, I mean, I learned about corn-fed pigs when I was overseas.  
 **Translation:** 
 
-**[5810.68s] English:** I realized that if I, I never used to eat.  
+**[5810.68s] English:** I realized that if I had never used to eat.  
 **Translation:** 
 
-**[5813.86s] English:** Crap really didn't.  
+**[5813.86s] English:** Crap! Really didn't.  
 **Translation:** 
 
 **[5815.54s] English:** I ate super clean all the time.  
 **Translation:** 
 
-**[5818.68s] English:** And when I was faced with imminent death more, I would be like, okay, I'm going out tonight.  
+**[5818.68s] English:** And when I was faced with imminent death more often, I would be like, "Okay, I'm going out tonight.  
 **Translation:** 
 
-**[5827.94s] English:** Let's have, let's have a couple ice cream bars, you know, like whatever.  
+**[5827.94s] English:** Let's have a couple ice cream bars, you know.  
 **Translation:** 
 
-**[5832.56s] English:** And what I realized is if I eat like an entire bag of chips or like, you know, a bunch of chocolate bars.  
+**[5832.56s] English:** And what I realized is that if I eat an entire bag of chips or, you know, a bunch of chocolate bars.  
 **Translation:** 
 
 **[5842.54s] English:** And then I go and have a workout.  
 **Translation:** 
 
-**[5843.86s] English:** My workout will be incredible.  
+**[5843.86s] English:** My workout will be incredible!  
 **Translation:** 
 
 **[5847.44s] English:** It'll be incredible.  
 **Translation:** 
 
-**[5850.00s] English:** There's something about easily processed carbohydrates that will continue to quickly get into your blood as fast as you can burn it.  
-**Translation:** Vocabulary: carbohydrates: 碳水化合物; processed: 加工过的
+**[5850.00s] English:** There's something about easily processed carbohydrates that will continue to quickly get into your bloodstream as fast as you can burn it.  
+**Translation:** Vocabulary: bloodstream: 血液; carbohydrates: 碳水化合物; processed: 加工过的
 
-**[5863.12s] English:** And there's something about that that, well, it gives you incredible blood, blood flow.  
+**[5863.12s] English:** And there's something about that that, well, it gives you incredible blood flow.  
 **Translation:** 
 
 **[5870.24s] English:** Yeah.  
 **Translation:** 
 
-**[5871.02s] English:** And also your mind plugging in, enjoying that.  
+**[5871.02s] English:** And also, your mind plugging in, enjoying that.  
 **Translation:** 
 
 **[5873.86s] English:** Right.  
 **Translation:** Vocabulary: plugging: 插入
 
-**[5874.76s] English:** And then believing it works.  
+**[5874.76s] English:** And then, believing it works.  
 **Translation:** 
 
 **[5876.40s] English:** And that's how it makes it work better.  
@@ -3979,370 +3980,370 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[5879.44s] English:** I mean, I.  
 **Translation:** 
 
-**[5880.00s] English:** feel that way i think this is really not this has been frustrating to me about the health culture in  
+**[5880.00s] English:** I feel that way. I think this has been really frustrating to me about the health culture.  
 **Translation:** 
 
-**[5885.86s] English:** the united states in the studies that are done you know you look at like the importance of sleep  
+**[5885.86s] English:** The United States, in the studies that are done, you know, you look at the importance of sleep.  
 **Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[5891.98s] English:** the importance of x diet all those kinds of things i i wish incorporated into that would be  
+**[5891.98s] English:** The importance of X diet, all those kinds of things—I wish they would incorporate them into that.  
 **Translation:** 
 
-**[5898.84s] English:** your mental relationship with all these things so for example people that tell me well your sleep  
+**[5898.84s] English:** Your mental relationship with all these things, so for example, people that tell me, "Well, your sleep,  
+**Translation:** Vocabulary: incorporate: 合并
+
+**[5904.58s] English:** The schedule is insane, yes, perhaps, but also it's insane because I'm doing what I love, and I don't  
 **Translation:** 
 
-**[5904.58s] English:** schedule is insane yes perhaps but also it's insane because i'm doing what i love and i don't  
+**[5913.10s] English:** See it as a problem, right? And I think that's really important to understand—if you're  
 **Translation:** 
 
-**[5913.10s] English:** see it as a problem right and i i think that's really important to understand if if you if you're  
+**[5920.10s] English:** If you're sleeping crazy hours, it's not affecting your stress and it's actually making you.  
 **Translation:** 
 
-**[5920.10s] English:** if you sleeping crazy hours uh is not affecting your stress and it's actually making you  
+**[5928.18s] English:** Happy, or you're drawing some kind of source of happiness, pleasure, and satisfaction.  
 **Translation:** 
 
-**[5928.18s] English:** happy or you're drawing some kind of source of happiness and pleasure and satisfaction like  
+**[5933.22s] English:** Being awake when others aren't.  
 **Translation:** 
 
-**[5933.22s] English:** being awake when others aren't  
-**Translation:** 
-
-**[5934.58s] English:** it's like the mike tyson thing or something like training when you you've convinced yourself  
+**[5934.58s] English:** It's like the Mike Tyson thing, or something like training when you've convinced yourself.  
 **Translation:** Vocabulary: tyson: 泰森
 
-**[5940.12s] English:** everybody's sleeping and therefore you're somehow training much better right that's powerful even  
+**[5940.12s] English:** Everybody's sleeping, and therefore, you're somehow training much better, right? That's powerful, even.  
 **Translation:** 
 
-**[5945.46s] English:** if you look statistically six hours maybe worse than eight hours or four hours maybe worse than  
+**[5945.46s] English:** If you look statistically, six hours may be worse than eight hours, or four hours may be worse than  
+**Translation:** Vocabulary: statistically: 统计数据上
+
+**[5951.46s] English:** Six hours—so, the mind is a powerful thing, super powerful, but if you want to be super heavy.  
 **Translation:** 
 
-**[5951.46s] English:** six hours so the mind is a powerful thing super powerful but if you want to be a super heavy  
+**[5957.40s] English:** Weight gain requires eating large amounts consistently. You have to test your digestive system, though.  
+**Translation:** Vocabulary: digestive: 消化系统
+
+**[5964.56s] English:** System, what's your favorite meal by the way? Just if you had to, you know, I am, uh, I do, oh.  
 **Translation:** 
 
-**[5957.40s] English:** weight eat you got to eat like stupid amounts all the time yeah you have to test your digestive  
-**Translation:** Vocabulary: digestive: 消化能力
-
-**[5964.56s] English:** system what's your favorite meal by the way just if you had to you know you know i am uh i do oh  
+**[5972.90s] English:** Jeez, I like so much food; it's tough, but I'd say the food that I rely on a lot when I'm uh, getting  
 **Translation:** 
 
-**[5972.90s] English:** jeez i like so much food it's tough but i'd say the food that i rely on a lot when i'm uh getting  
+**[5978.90s] English:** Ready to compete, is sushi just because it normally comes in an all-you-can-eat format?  
 **Translation:** 
 
-**[5978.90s] English:** ready to compete is sushi just because it normally comes in an all-you-can-eat format  
-**Translation:** 
-
-**[5983.28s] English:** you know uh so you know i love to go and just binge all-you-can-eat just all-you-can-eat buffets  
+**[5983.28s] English:** You know, I love to go and just binge on all-you-can-eat buffets.  
 **Translation:** Vocabulary: buffets: 自助餐; sushi: 寿司
 
-**[5990.56s] English:** sushi is just super convenient yeah uh if i was a sushi  
+**[5990.56s] English:** Sushi is just super convenient, yeah. Uh, if I were a sushi...  
 **Translation:** 
 
-**[5994.56s] English:** all-you-can-eat buffet place i'd be terrified when i saw you uh have you had barbecue  
+**[5994.56s] English:** All-you-can-eat buffet? Place, I'd be terrified when I saw you! Uh, have you had barbecue?  
 **Translation:** Vocabulary: buffet: 自助餐
 
-**[6000.00s] English:** texas i yeah i love it i love it yeah so you uh just a small tangent on this you you uh  
+**[6000.00s] English:** Texas, I yeah, I love it. I love it. Yeah, so you—uh, just a small tangent on this—you...  
 **Translation:** 
 
-**[6006.96s] English:** face the mountain uh you have for uh uh be honest well first of all you arm wrestled them  
-**Translation:** Vocabulary: texas: 得克萨斯; wrestled: 摔跤
+**[6006.96s] English:** Face the mountain, uh. You have to be honest. Well, first of all, you arm-wrestled them.  
+**Translation:** Vocabulary: tangent: 旁枝逸出
 
-**[6012.22s] English:** it's interesting to ask um so this is the mountain from the game of thrones  
+**[6012.22s] English:** It's interesting to ask, um, so this is the mountain from Game of Thrones.  
 **Translation:** 
 
-**[6016.28s] English:** uh strong man one of the strongest people in the world for time the strongest person in the world  
+**[6016.28s] English:** Uh, strong man—one of the strongest people in the world for a time; the strongest person in the world.  
+**Translation:** Vocabulary: thrones: 王座
+
+**[6021.72s] English:** What was it like? I know sort of, you guys maybe weren't going one hundred percent, but what's it like?  
 **Translation:** 
 
-**[6021.72s] English:** what was it like i know sort of you guys maybe weren't going one thousand percent but what's it  
+**[6027.92s] English:** Like, well, he probably wasn't going at a thousand percent, yeah, but like, what's interesting is  
 **Translation:** 
 
-**[6027.92s] English:** like well he probably wasn't going a thousand percent yeah but like what it's interesting to  
+**[6033.52s] English:** Think, what does that strength feel like? So, it's a specialized strength in another sport.  
 **Translation:** 
 
-**[6033.52s] English:** think what does that strength feel like so it's a it's a specialized strength in another sport  
+**[6040.68s] English:** Yeah, what did it feel like? How strong was he? What are some kind of deep insights?  
 **Translation:** 
 
-**[6040.68s] English:** yeah what did it feel like what how strong was he what are some kind of deep insights  
+**[6048.50s] English:** You drew from that battle; I feel like if we were to go back a thousand years,  
 **Translation:** 
 
-**[6048.50s] English:** you drawn from that battle i feel like if we were to go back a thousand years  
+**[6055.08s] English:** And if you give him armor,  
 **Translation:** 
 
-**[6055.08s] English:** and if you give him armor  
+**[6057.92s] English:** And with a two-handed sword, he will just rip across the landscape, and no one will stop him. So this,...  
 **Translation:** 
 
-**[6057.92s] English:** and a two-handed sword he will just rip across the landscape and no one will stop him so this  
+**[6066.78s] English:** Is the boxing match you can do, but there's also a video of them arm-wrestling—yeah, what a titan!  
+**Translation:** Vocabulary: titan: 巨人
+
+**[6073.20s] English:** Though, what a titan! You know, a guy like that — tall, yeah, strong, fit, disciplined. I mean, he is...  
 **Translation:** 
 
-**[6066.78s] English:** is the boxing match you can do but there's also a video of them arm wrestling yeah what a titan  
-**Translation:** Vocabulary: titan: 巨人; wrestling: 摔跤
+**[6082.80s] English:** He's quite a warrior, 419 pounds. Oh, yeah, yeah, he's he's he's he's he's he's he's he's.  
+**Translation:** Vocabulary: disciplined: 有纪律的
 
-**[6073.20s] English:** though what a titan uh you know a guy like that tall yeah strong fit disciplined i mean he is uh  
+**[6087.92s] English:** He's incredibly impressive. I really like Hap Thor, and I like Eddie Hall, too. And I was just so  
 **Translation:** 
 
-**[6082.80s] English:** he's quite a warrior 419 pounds oh yeah yeah he's he's he's he's he's he's he's he's he's he's  
+**[6096.00s] English:** I'm just so caught up with the drama, okay? So, Eddie Hall and Hap Thor Bjornson—yes, two of the  
+**Translation:** Vocabulary: bjornson: 比约恩森; eddie: 埃迪
+
+**[6103.18s] English:** Strongest legendary strongmen that we have, uh, at your average Joe's knowledge. They were the coolest; they were the  
 **Translation:** 
 
-**[6087.92s] English:** he's incredibly impressive uh i i really like hap thor and i like eddie hall too and i was just so  
+**[6109.98s] English:** Top when Strongman was really super cool, uh, I don't know all the details, but they were legit heavy.  
+**Translation:** Vocabulary: legendary: 传奇的; legit: 真实的; strongman: 大力士; strongmen: 大力士
+
+**[6117.92s] English:** Each other, like  
 **Translation:** 
 
-**[6096.00s] English:** i'm just so caught up with the drama okay so so eddie hall and hap thor bjornson yes two of the  
-**Translation:** Vocabulary: bjornson: 贝恩森; eddie: 埃迪
-
-**[6103.18s] English:** strongest legendary strongmen that we have uh at you know and they were the coolest they were the  
+**[6120.00s] English:** So, I think it kind of stems from that, but I don't know exactly like I say, I'm not entirely with them on that, but uh,...  
 **Translation:** 
 
-**[6109.98s] English:** top when strongman was really super cool uh i don't know all the details but they legit heavy  
-**Translation:** Vocabulary: legit: 确实; strongman: 大力士; strongmen: 大力士
-
-**[6117.92s] English:** each other like  
+**[6126.90s] English:** Eddie won the world's strongest man event, or something, one year, and the thing...  
 **Translation:** 
 
-**[6120.00s] English:** so i think it kind of stems i don't know like like i say i'm not right there with them but uh  
+**[6133.46s] English:** It was one of those victories where Hapthor wasn't accepting of his defeat.  
+**Translation:** Vocabulary: hapthor: 哈普索尔
+
+**[6139.40s] English:** Okay, and there was a little bit of back-and-forth. Basically, from what I understand, they  
 **Translation:** 
 
-**[6126.90s] English:** eddie won the the world's strongest man event or something one year and like and the thing  
+**[6143.18s] English:** We were going to fight like the night of the world's strongest man, and they got kind of pulled.  
 **Translation:** 
 
-**[6133.46s] English:** it was one of those victories where hapthor you know was not accepting of his defeat  
+**[6148.60s] English:** Apart, and this heat between them got translated into a potential boxing match.  
 **Translation:** 
 
-**[6139.40s] English:** okay and there was a little bit of back and forth basically from what i understand they  
+**[6154.80s] English:** So, it's a very real fight. It's between the two strongest dudes on the planet.  
 **Translation:** 
 
-**[6143.18s] English:** were going to fight like the night of the world's strongest man and they got kind of got pulled  
+**[6160.94s] English:** They're gonna fight each other, so I've been like, you know, because arm wrestling is a strongman event.  
 **Translation:** 
 
-**[6148.60s] English:** apart and this uh this heat between them got translated into a potential boxing match  
+**[6166.70s] English:** It's kind of similar to communities, huh? Who would you go to if you were giving me financial advice?  
+**Translation:** Vocabulary: wrestling: 摔跤
+
+**[6173.34s] English:** Advice: Oh, Jesus! I am so bad; I always call them wrong. They're very different.  
 **Translation:** 
 
-**[6154.80s] English:** so it's very real it's a very real fight so you have the two strongest dudes on the planet  
+**[6178.52s] English:** Uh, I see, uh, Hapthor as being, you know, more like Eddie Hall slimming down, is that what yeah, as well.  
+**Translation:** Vocabulary: eddie: 埃迪·霍尔
+
+**[6185.88s] English:** I see Hapthor is a bit more regimented, um, but I see Eddie Hall as way more barbaric.  
 **Translation:** 
 
-**[6160.94s] English:** they're gonna fight each other so so i've been like you know because arm wrestling is strong man  
-**Translation:** 
-
-**[6166.70s] English:** it's it's kind of similar communities uh who who do you got if you if you were giving me financial  
-**Translation:** 
-
-**[6173.34s] English:** advice oh jesus i am so bad i always call it wrong they're very different  
-**Translation:** 
-
-**[6178.52s] English:** uh i i see uh hapthor as being you know more eddie hall slimming down is that what yeah as well  
-**Translation:** 
-
-**[6185.88s] English:** i see hapthor is a bit more regimented um but i see eddie hall as like way more barbaric  
-**Translation:** 
-
-**[6193.52s] English:** and like a little i think he's a little bit more athletic but hapthor is bigger and uh and you know  
+**[6193.52s] English:** And, like a little bit, I think he's a little bit more athletic, but Hapthor is bigger, and you know.  
 **Translation:** Vocabulary: barbaric: 野蛮; regimented: 严格
 
-**[6201.14s] English:** they've chosen slightly different paths to prepare for the match but but what happened was like they  
+**[6201.14s] English:** They've chosen slightly different paths to prepare for the match, but what happened was like they  
 **Translation:** 
 
-**[6208.52s] English:** eddie hall blew his bicep so me i was getting ready for levon in december we were supposed to  
+**[6208.52s] English:** Eddie Hall blew his bicep, so I was getting ready for Levon in December; we were supposed to.  
 **Translation:** Vocabulary: bicep: 二头肌
 
-**[6214.84s] English:** arm wrestle in december but he's got his movie and so i was like okay i can kind of get away  
+**[6214.84s] English:** Arm-wrestle in December, but he's got his movie, and so I was like, "Okay, I can kind of get away.  
 **Translation:** 
 
-**[6220.62s] English:** from the sport just a little bit broaden my base that happened and i was like oh an opportunity you  
-**Translation:** Vocabulary: wrestle: 摔跤
+**[6220.62s] English:** From the sport, just a little bit to broaden my base, that happened, and I was like, "Oh, an opportunity!  
+**Translation:** Vocabulary: broaden: 扩大
 
-**[6227.32s] English:** stepped in an opportunity to fight i'm like i'll do it so how much training you uh you trained a  
+**[6227.32s] English:** Stepped in for an opportunity to fight; I'm like, "I'll do it." So, how much training did you, uh, train a?  
 **Translation:** 
 
-**[6233.74s] English:** little bit so can you tell about your own decision to do that what was the training like what was it  
+**[6233.74s] English:** Little bit, so can you tell me about your own decision to do that? What was the training like? What was it like?  
 **Translation:** 
 
-**[6238.52s] English:** like oh it was so much fun  
+**[6238.52s] English:** Like, oh, it was so much fun!  
 **Translation:** 
 
-**[6240.00s] English:** it was so much fun. Uh, so basically I made a funny video and I sent it to the organizers of  
-**Translation:** Vocabulary: organizers: 组织者
+**[6240.00s] English:** It was so much fun. Uh, so basically, I made a funny video and I sent it to the organizers of  
+**Translation:** Vocabulary: organizers: 主办方
 
-**[6247.66s] English:** core sports that I would do it. I'm like, I'll do it. I'm sure they got a thousand people who  
+**[6247.66s] English:** Core sports that I would do—it. I'm like, I'll do it. I'm sure they've got a thousand people who  
 **Translation:** 
 
-**[6252.28s] English:** wanted to do it. Uh, but I'm like, I'm like, listen, I'm like, I I'm an old man. Like I'm  
+**[6252.28s] English:** Wanted to do it. Uh, but I'm like, "I'm an old man," I'm like, listen, I'm like, I'm an old man. Like, I  
 **Translation:** 
 
-**[6257.44s] English:** gimped up like everywhere outside the arm wrestling lanes. Uh, I said, but, but I will  
+**[6257.44s] English:** Gimped up like everywhere, outside the arm-wrestling lanes. Uh, I said, but, but I will.  
 **Translation:** 
 
-**[6262.70s] English:** 100%. Like if you let me fight them, I'll, I'll give it my all. And, uh, and whatever,  
-**Translation:** Vocabulary: gimped: 跛行; wrestling: 摔跤
-
-**[6268.54s] English:** they didn't get back to me. They're like, yeah, whatever. Okay. So then, so then they call me on  
+**[6262.70s] English:** 100%. Like, if you let me fight them, I'll give it my all. And, uh, and whatever.  
 **Translation:** 
 
-**[6272.24s] English:** a Friday, like five weeks before the event. And they're like, Hey Devin, were you serious?  
+**[6268.54s] English:** They didn't get back to me. They're like, "Yeah, whatever." Okay. So then, so then they called me on  
+**Translation:** 
+
+**[6272.24s] English:** On a Friday, about five weeks before the event, and they're like, "Hey Devin, were you serious?  
 **Translation:** Vocabulary: devin: 德文
 
-**[6279.70s] English:** And I'm like, Oh shit. And I'm like, yes, I was serious. Yeah, I'll do it. And they're like, okay.  
+**[6279.70s] English:** And I'm like, "Oh shit." And I'm like, "Yes, I was serious. Yeah, I'll do it." And they're like, "Okay.  
 **Translation:** 
 
-**[6289.22s] English:** Um, they're like, it's down to you and like two other people, uh, we'll get back to you in a day  
+**[6289.22s] English:** Um, they're like, it's down to you and like two other people. We'll get back to you in a day.  
 **Translation:** 
 
-**[6295.82s] English:** or two, but you would do it. And I'm like, okay. So they got back to me and they're like, yeah,  
+**[6295.82s] English:** Or two, but you'd do it. And I'm like, okay. So they got back to me, and they're like, yeah,  
 **Translation:** 
 
-**[6298.52s] English:** on Sunday. Like, so right away I'm like skipping rope and I'm like, and I'm so I only arm wrestle  
-**Translation:** Vocabulary: skipping: 跳绳
+**[6298.52s] English:** On Sunday, I'm like skipping rope right away, and I'm so excited that I only arm wrestle afterward.  
+**Translation:** Vocabulary: skipping: 跳绳; wrestle: 摔跤
 
-**[6306.00s] English:** legs. That's all I do. So what was your, you did some striking training. Yeah. So I went to, um,  
+**[6306.00s] English:** Legs. That's all I do. So, what was your training? You did some striking training, right? Yeah. So I went to, um,  
 **Translation:** 
 
-**[6312.72s] English:** this guy that he was, he was awesome. Zach Ben Bushida there. Uh, that was it from,  
-**Translation:** 
+**[6312.72s] English:** This guy was awesome. Zach Ben Bushida, there. That was it from,  
+**Translation:** Vocabulary: bushida: 布希达; striking: 打击
 
-**[6318.36s] English:** from tri-star. Do you know for us the hobby? Uh, and that's, and yes, people in the comments,  
+**[6318.36s] English:** From Tri-Star. Do you know for us the hobby? Uh, and that's, and yes, people in the comments,  
 **Translation:** 
 
 **[6323.90s] English:** I will interview him on this podcast. He's brilliant. Yes. Right.  
 **Translation:** 
 
-**[6328.52s] English:** He's an incredible guy. So right away, like I had no idea about the fight community across  
+**[6328.52s] English:** He's an incredible guy. So, right away, I had no idea about the fight community across  
 **Translation:** 
 
-**[6332.58s] English:** Canada really. And I got like by the fifth message that said, you must train with for us. Uh, I was  
+**[6332.58s] English:** Canada, really. And I got like by the fifth message that said, "You must train with us." Uh, I was  
 **Translation:** 
 
-**[6340.64s] English:** like, okay. Called him up. He was incredible right away. He's like, yeah, you can come and  
+**[6340.64s] English:** Like, okay. I called him up, and he was incredible right away. He's like, "Yeah, you can come and  
 **Translation:** 
 
-**[6344.64s] English:** we'll just work with you. So I got, I got the call. I called him on like Monday at two o'clock  
+**[6344.64s] English:** We'll just work with you. So, I got the call. I called him on Monday at two o'clock.  
 **Translation:** 
 
-**[6351.42s] English:** by like seven o'clock. I had my things packed and I went to Montreal and I spent four weeks  
+**[6351.42s] English:** By around seven o'clock, I had my things packed and I went to Montreal. I spent four weeks there.  
 **Translation:** 
 
-**[6358.52s] English:** in, in the fighter dorms.  
+**[6358.52s] English:** In the fighter dorms.  
 **Translation:** Vocabulary: montreal: 蒙特利尔
 
-**[6360.00s] English:** just humbling yourself yeah every day just getting punched in the face you know uh over and over uh  
+**[6360.00s] English:** Just humble yourself, yeah. Every day, just getting punched in the face, you know, over and over.  
 **Translation:** 
 
-**[6368.64s] English:** going for runs with all like they're all like olympians and pro fighters living in the dorms  
-**Translation:** Vocabulary: humbling: 使人谦卑; olympians: 奥运选手
+**[6368.64s] English:** Going for runs with all of them; they're all like Olympians and pro fighters, living in the dorms.  
+**Translation:** Vocabulary: humble: 谦卑; olympians: 奥运选手; punched: 被打
 
-**[6372.88s] English:** super cool dudes they were so good to me yeah there's a good video of you and uh for us uh just  
+**[6372.88s] English:** Super cool dudes! They were so good to me. Yeah, there's a good video of you and us, just  
 **Translation:** 
 
-**[6378.56s] English:** talking yeah i don't i don't remember which stage this was but this is early but you're already  
+**[6378.56s] English:** Talking, yeah. I don't remember which stage this was, but this is early, but you're already  
 **Translation:** 
 
-**[6384.16s] English:** beginning to get humbled oh man i knew i mean i knew what i was getting into like i knew it was  
+**[6384.16s] English:** Beginning to get humbled, oh man. I knew, I mean, I knew what I was getting into; like, I knew it was...  
 **Translation:** 
 
-**[6390.00s] English:** i knew it was going to be a losing battle but i felt like the opportunity to fight thor like  
+**[6390.00s] English:** I knew it was going to be a losing battle, but I felt like the opportunity to fight Thor like this was worth it.  
+**Translation:** Vocabulary: humbled: 谦卑
+
+**[6395.76s] English:** How cool is that? Like, I had to say, I had to do it. Um, I loved the process, and I learned a lot.  
 **Translation:** 
 
-**[6395.76s] English:** how cool is that like i had i i had to say i had to do it um i loved the process and i learned a lot  
-**Translation:** 
-
-**[6405.20s] English:** from doing it like the dorms i want to do something like that with arm wrestling i think  
+**[6405.20s] English:** From doing it like the dorms, I want to do something like that with arm wrestling; I think.  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[6409.92s] English:** we're big enough now that we can have these kind of uh you know dorms frat houses whatever you want  
+**[6409.92s] English:** We're big enough now that we can have these kinds of, uh, you know, dorms, frat houses—whatever you want.  
 **Translation:** 
 
-**[6416.08s] English:** to call it what's the dorm like so you're basically staying there yeah food right  
+**[6416.08s] English:** To call it, what's the dorm like? So, you're basically staying there, yeah. Food, right?  
 **Translation:** 
 
-**[6420.00s] English:** there yeah so you can you can you mentioned uh what was the word you use administration no yeah  
+**[6420.00s] English:** There, yeah, so you can you can you mentioned uh, what was the word you used—administration? No, yeah.  
 **Translation:** 
 
-**[6424.88s] English:** exactly that's it so it removes all of that makes it so simple you can just focus you know the gym  
+**[6424.88s] English:** Exactly, that's it. So, it removes all of that and makes it so simple; you can just focus, you know, at the gym.  
 **Translation:** 
 
-**[6429.92s] English:** is here you live here yeah you know that your life becomes simple yeah so there's a guy named  
+**[6429.92s] English:** Is here where you live? Here, yeah, you know that your life becomes simple, yeah. So, there's a guy named  
 **Translation:** 
 
-**[6437.36s] English:** jimmy pedro here in america he's a famous uh coach there's a place up in boston he has kind  
+**[6437.36s] English:** Jimmy Pedro, here in America; he's a famous coach. There's a place up in Boston where he has an office.  
+**Translation:** Vocabulary: jimmy: 吉米; pedro: 佩德罗
+
+**[6442.00s] English:** Of a dorm like that, too, yeah, and it becomes essential when the community is small, but you're  
 **Translation:** 
 
-**[6442.00s] English:** of a dorm like that too yeah and it that becomes essential when the community is small but you're  
+**[6449.04s] English:** Trying to do a lot of things, and you're trying to do a lot of things, and you're trying to do a lot of things.  
 **Translation:** 
 
-**[6449.04s] English:** trying to do a lot of things and you're trying to do a lot of things and you're trying to do a lot of things  
+**[6450.00s] English:** Epic things, like winning Olympic gold—yeah, so you have to really put the people together.  
 **Translation:** 
 
-**[6450.00s] English:** epic things like winning olympic gold yeah so you have to really put the people together  
+**[6455.02s] English:** In these kinds of minimalist conditions, when they just focus on the training, focus, focus, focus, yes.  
+**Translation:** Vocabulary: minimalist: 简约的
+
+**[6460.80s] English:** Um, yeah, it wasn't enough time. I mean, I trained for about three or four weeks, but I  
 **Translation:** 
 
-**[6455.02s] English:** in these kind of minimalist conditions when they just focus on the training focus focus focus yes  
+**[6468.14s] English:** Love the journey, and what are some of the fun things you enjoy? So, you did mostly striking, didn't you?  
+**Translation:** Vocabulary: striking: 打击
+
+**[6473.30s] English:** You know, yeah, I guess it was. Yeah, it was straight-up boxing. Well, what are some  
 **Translation:** 
 
-**[6460.80s] English:** um yeah it wasn't enough time i mean i trained for about well yes three or four weeks uh but i  
-**Translation:** 
-
-**[6468.14s] English:** love the journey and uh what are some of the fun things you enjoy so you did mostly striking did  
-**Translation:** 
-
-**[6473.30s] English:** you uh yeah i guess it was yeah it was boxing it was straight up boxing yeah well what are some  
-**Translation:** 
-
-**[6478.60s] English:** things that were transferable what are some things that were transferable what are some things that  
+**[6478.60s] English:** Things that were transferable: What are some things that were transferable?  
 **Translation:** Vocabulary: transferable: 可转移的
 
-**[6480.00s] English:** some cool things you learned from that so from the world of armor have you taken anything back  
+**[6480.00s] English:** Some cool things you learned from that? So, from the world of armor, have you taken anything back?  
 **Translation:** 
 
-**[6485.04s] English:** like some training regimens ideas about training even just even movements  
+**[6485.04s] English:** Like some training regimens, ideas about training, even just simple movements.  
 **Translation:** Vocabulary: regimens: 训练计划
 
-**[6490.92s] English:** because for us is a unique mind as well for training yeah i i don't know i mean i've gone  
+**[6490.92s] English:** Because, for us, it's a unique experience as well for training. Yeah, I don't know. I mean, I've gone  
 **Translation:** 
 
-**[6500.28s] English:** very far down the path of arm wrestling uh boxing and arm wrestling are very different  
+**[6500.28s] English:** Very far down the path of arm wrestling, however, boxing and arm wrestling are very different.  
+**Translation:** Vocabulary: wrestling: 摔跤
+
+**[6507.26s] English:** They're they're very different sports, uh, the physicality required is very different, uh,  
 **Translation:** 
 
-**[6507.26s] English:** they're they're very different sports uh the the physicality required is very different uh  
+**[6515.84s] English:** You know, the mentality—I mean, it's fighting, so it's another form of fighting, which is cool.  
 **Translation:** 
 
-**[6515.84s] English:** you know the mentality i mean it's fighting so it's another form of fighting which is cool  
+**[6520.86s] English:** The big things I took back from it were the things I loved: I had to run again.  
 **Translation:** 
 
-**[6520.86s] English:** the the big things that i took back from it the things that i loved about it was i had to run again  
-**Translation:** 
-
-**[6527.66s] English:** you know so really work on endurance yeah yeah i was going for runs with guys in the dorms and they  
+**[6527.66s] English:** You know, so really working on endurance, yeah. Yeah, I was going for runs with guys in the dorms and they,...  
 **Translation:** Vocabulary: endurance: 持久力
 
-**[6534.70s] English:** they would just destroy  
+**[6534.70s] English:** They would just destroy.  
 **Translation:** 
 
-**[6537.26s] English:** me just like it was so bad uh did you uh like how did you feel in the actual boxing in terms of  
+**[6537.26s] English:** Me, just like it was, so bad. Uh, did you, uh, like, how did you feel during the actual boxing, in terms of  
 **Translation:** 
 
-**[6546.80s] English:** endurance were you able to no no it's a torture it was it was terrible and and and the thing is is  
+**[6546.80s] English:** Endurance: Were you able to? No, no, it's a torture; it was terrible, and...  
 **Translation:** 
 
-**[6554.84s] English:** it was so crazy for me because i really was good once upon a time yeah i really was like physically  
+**[6554.84s] English:** It was so crazy for me because I really was good once upon a time, yeah. I really was like physically.  
+**Translation:** Vocabulary: torture: 折磨
+
+**[6561.06s] English:** Like I had incredible full-body endurance, you know, um, but you know, being so special.  
 **Translation:** 
 
-**[6561.06s] English:** like i had incredible full body endurance you know um but you know being so special  
+**[6567.26s] English:** I realized how much I had slipped, and yeah, it was fun to try and regain what I had lost.  
 **Translation:** 
 
-**[6567.26s] English:** i realized how much i had slipped and yeah it was it was fun to try and regain i think  
+**[6574.80s] English:** It's affected my body composition. I think since that training, I've become much more lean.  
 **Translation:** 
 
-**[6574.80s] English:** it's affected my body composition i think since that training i've become much more lean  
+**[6579.54s] English:** Uh, I think it was a very healthy thing for me to do, like health-wise. Like, I always think that.  
 **Translation:** 
 
-**[6579.54s] English:** uh i think it was a very healthy thing for me to do like health-wise like i always think that  
+**[6585.70s] English:** You know, when you're far away from competition, it's really good to kind of spread out.  
 **Translation:** 
 
-**[6585.70s] English:** you know when you're far away from competition it's really good to kind of spread out  
+**[6589.36s] English:** Really good, so I think that, in that way, also benefits your mind, yeah, yeah, just like this.  
 **Translation:** 
 
-**[6589.36s] English:** really good so i think that in that way also for your mind yeah yeah just like  
+**[6594.40s] English:** Mm-hmm, yeah, yeah.  
 **Translation:** 
 
-**[6594.40s] English:** mm-hmm yeah yeah  
-**Translation:** 
-
-**[6597.26s] English:** so something about clearing your  
+**[6597.26s] English:** So, something about clearing your  
 **Translation:** 
 
 **[6600.00s] English:** I think you've talked about this.  
@@ -4366,25 +4367,25 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6610.86s] English:** Under, you know, you have to go under.  
 **Translation:** 
 
-**[6613.22s] English:** You got to.  
+**[6613.22s] English:** You've got to.  
 **Translation:** 
 
 **[6614.54s] English:** You know, if you want to go above the line, you have to spend some time beneath it.  
 **Translation:** 
 
-**[6618.56s] English:** And, yeah, I was definitely beneath the line for a long time.  
+**[6618.56s] English:** And, yeah, I was definitely below the line for a long time.  
 **Translation:** 
 
-**[6622.30s] English:** But Melton, I mean, like the interesting thing was as incredible as he is,  
+**[6622.30s] English:** But Melton, I mean, like, the interesting thing was: as incredible as he is,  
 **Translation:** 
 
-**[6630.00s] English:** you know, like what a monster.  
+**[6630.00s] English:** You know, like a real monster.  
 **Translation:** 
 
-**[6632.94s] English:** And I think if you had had him training in boxing, you know, for a long time  
+**[6632.94s] English:** And I think if you had had him training in boxing for a long time, you know.  
 **Translation:** 
 
-**[6638.56s] English:** and like from his youth, I think, you know, the guy could be world champion.  
+**[6638.56s] English:** And, like, from his youth, I think the guy could be a world champion.  
 **Translation:** 
 
 **[6643.00s] English:** But, you know, to be so specialized and then to switch, you're at a disadvantage.  
@@ -4393,19 +4394,19 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6647.64s] English:** Yeah.  
 **Translation:** 
 
-**[6647.86s] English:** And also, like I know from just fighting guys in the gym in TriStar,  
+**[6647.86s] English:** And also, like, I know from just fighting guys in the gym at TriStar.  
 **Translation:** 
 
-**[6655.00s] English:** some of those guys were way scarier.  
-**Translation:** 
+**[6655.00s] English:** Some of those guys were way scarier.  
+**Translation:** Vocabulary: scarier: 更可怕的
 
 **[6657.42s] English:** For real.  
 **Translation:** 
 
-**[6658.68s] English:** Like it's the scariest.  
+**[6658.68s] English:** Like it's the scariest!  
 **Translation:** Vocabulary: scariest: 最可怕的
 
-**[6660.00s] English:** Like there's guys in that TriStar gym that don't look like anything that would murder me.  
+**[6660.00s] English:** Like, there are guys in that TriStar gym that don't look like anything that would murder me.  
 **Translation:** 
 
 **[6667.68s] English:** Much worse.  
@@ -4426,20 +4427,20 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6677.22s] English:** George St. Pierre is an example.  
 **Translation:** 
 
-**[6678.38s] English:** Somebody that maybe doesn't look terrifying.  
-**Translation:** 
+**[6678.38s] English:** Somebody who maybe doesn't look terrifying.  
+**Translation:** Vocabulary: pierre: 皮埃尔; terrifying: 可怕的
 
-**[6681.90s] English:** He's at a TriStar.  
+**[6681.90s] English:** He's at a Tri-Star.  
 **Translation:** 
 
 **[6682.62s] English:** Yep.  
 **Translation:** 
 
-**[6683.06s] English:** He trains at TriStar.  
+**[6683.06s] English:** He trains at Tri-Star.  
 **Translation:** 
 
-**[6684.42s] English:** But he's quite, he's super nice, super humble, but is terrifying.  
-**Translation:** Vocabulary: terrifying: 令人害怕
+**[6684.42s] English:** But he's quite super nice and super humble, but is terrifying.  
+**Translation:** Vocabulary: humble: 谦逊
 
 **[6690.00s] English:** Terrifying when he's fighting.  
 **Translation:** 
@@ -4456,13 +4457,13 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6696.44s] English:** Yeah.  
 **Translation:** 
 
-**[6696.64s] English:** And your Canadian Special Forces and in general thinking about mortality.  
+**[6696.64s] English:** And your Canadian Special Forces, and in general, thinking about mortality.  
 **Translation:** 
 
 **[6702.26s] English:** Yeah.  
 **Translation:** 
 
-**[6702.56s] English:** Do you think about your death?  
+**[6702.56s] English:** Do you ever think about your death?  
 **Translation:** 
 
 **[6704.48s] English:** Do you?  
@@ -4471,7 +4472,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6704.96s] English:** Yeah.  
 **Translation:** 
 
-**[6705.44s] English:** Do you contemplate the end that this thing, that this ride ends?  
+**[6705.44s] English:** Do you contemplate the end that this ride ends?  
 **Translation:** 
 
 **[6710.56s] English:** All the time.  
@@ -4480,7 +4481,7 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6711.58s] English:** Yeah.  
 **Translation:** 
 
-**[6711.98s] English:** From, I've thought about death from a young age.  
+**[6711.98s] English:** From a young age, I've thought about death.  
 **Translation:** 
 
 **[6715.32s] English:** Are you afraid of it?  
@@ -4504,454 +4505,454 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[6719.64s] English:** Definitely.  
 **Translation:** 
 
-**[6720.00s] English:** definitely don't want to die uh but there's times when i can rid myself of it yeah but for sure i  
+**[6720.00s] English:** Definitely don't want to die, uh, but there are times when I can rid myself of it. Yeah, but for sure, I  
 **Translation:** 
 
-**[6727.04s] English:** mean i i'm not uh i'm not happy that you know death is inevitable and i'm not happy that  
+**[6727.04s] English:** Mean, I'm not, uh, happy that you know death is inevitable, and I'm not happy that.  
 **Translation:** 
 
-**[6734.96s] English:** potentially it's inevitable for all of us um but uh it does you know i like to to fight against it  
+**[6734.96s] English:** Potentially, it's inevitable for all of us, um, but, uh, I like to fight against it.  
 **Translation:** 
 
-**[6744.36s] English:** does it yeah that's you if you if you could be immortal would you oh that's my only wish  
+**[6744.36s] English:** Does it, yeah? That's you. If you could be immortal, would you? Oh, that's my only wish.  
 **Translation:** 
 
-**[6749.94s] English:** oh see but here's the thing that's but the point is to have that wish  
+**[6749.94s] English:** Oh, see, but here's the thing: that's the point—to have that wish.  
 **Translation:** Vocabulary: immortal: 永生
 
-**[6754.50s] English:** it's uh it's like the all you can eat buffet at uh sushi it's that sushi is more delicious if you  
+**[6754.50s] English:** It's kind of like the all-you-can-eat buffet at sushi, and it's that sushi is more delicious if you  
 **Translation:** 
 
-**[6762.34s] English:** have a limit do you have a oh well i don't know i mean i don't think i get sick of stuff i'm very  
+**[6762.34s] English:** Have a limit? Do you have a, oh, well, I don't know. I mean, I don't think I get sick of stuff; I'm very  
 **Translation:** Vocabulary: buffet: 自助餐; sushi: 寿司
 
-**[6769.80s] English:** simple yeah i don't think i would get tired of it i really don't um i mean  
+**[6769.80s] English:** Simple, yeah. I don't think I would get tired of it. I really don't, um, I mean.  
 **Translation:** 
 
-**[6774.36s] English:** if someone would pose it to you do you want to live forever you would choose no yeah i would  
+**[6774.36s] English:** If someone were to pose it to you, "do you want to live forever," you would choose no, yeah, I would.  
 **Translation:** 
 
-**[6779.72s] English:** choose no choose no well my answer is probably yes uh like no i would uh it's more like the  
+**[6779.72s] English:** Choose no, choose no. Well, my answer is probably yes; uh, like no, I would. It's more like the  
 **Translation:** 
 
-**[6787.96s] English:** snooze button do you want to do do you want to go to sleep but it's very difficult in the moment  
-**Translation:** Vocabulary: snooze: 再睡一会儿
+**[6787.96s] English:** Snooze button? Do you want to go to sleep, but it's very difficult in the moment?  
+**Translation:** Vocabulary: snooze: 闹钟上的睡眠按钮
 
-**[6795.26s] English:** to go to sleep but if if i'm uh allowed to live forever i'm going to uh delay  
+**[6795.26s] English:** To go to sleep, but if I'm allowed to live forever, I'm going to delay.  
 **Translation:** 
 
-**[6803.50s] English:** delay  
+**[6803.50s] English:** Delay.  
 **Translation:** 
 
-**[6804.36s] English:** all the crazy like um all the ambitious goals all the all the because oh there's always time  
+**[6804.36s] English:** All the crazy, like, um, all the ambitious goals; all the, you know, because, oh, there's always time.  
 **Translation:** 
 
-**[6811.48s] English:** that's fine but there is tomorrow then but there is tomorrow but see i think that takes away from  
+**[6811.48s] English:** That's fine, but there is tomorrow. Then, but there is tomorrow, but see, I think that takes away from.  
 **Translation:** 
 
-**[6816.38s] English:** the richness of like the richness of the lived experience of just each moment i think the  
+**[6816.38s] English:** The richness of, like, the lived experience of just each moment—I think the  
 **Translation:** 
 
-**[6823.78s] English:** richness of each moment comes from saying like i could die tonight like that that it tastes  
+**[6823.78s] English:** The richness of each moment comes from saying, "I could die tonight," and letting that taste.  
 **Translation:** 
 
-**[6830.12s] English:** delicious because you're going to die i'm afraid if you're not  
+**[6830.12s] English:** Delicious, because you're going to die, I'm afraid, if you're not.  
 **Translation:** 
 
-**[6834.36s] English:** i'm afraid all that goes away all that magic goes away if you can live forever i don't know  
+**[6834.36s] English:** I'm afraid all that goes away — all that magic goes away if you can live forever. I don't know.  
 **Translation:** 
 
-**[6840.00s] English:** i don't know but i'll tell you every time i have a near-death experience or think i'm gonna die  
+**[6840.00s] English:** I don't know, but I'll tell you: every time I have a near-death experience or think I'm gonna die,  
 **Translation:** 
 
-**[6846.02s] English:** i definitely live better afterwards yeah like uh it's always been that way but  
+**[6846.02s] English:** I definitely live better afterwards, yeah. Like, it's always been that way, but...  
 **Translation:** 
 
-**[6851.80s] English:** yeah no um that's why the stoics you know they really preach contemplating your mortality often  
+**[6851.80s] English:** Yeah, no, um, that's why the Stoics, you know, really preach contemplating your mortality often.  
 **Translation:** 
 
-**[6858.98s] English:** it kind of reminds you it could this whole thing could just end any moment and it makes you really  
-**Translation:** Vocabulary: contemplating: 思考; preach: 宣扬; stoics: 斯多葛
+**[6858.98s] English:** It kind of reminds you that this whole thing could just end at any moment, and it makes you really  
+**Translation:** Vocabulary: contemplating: 思考; preach: 宣扬; stoics: 斯多葛派
 
-**[6864.56s] English:** appreciate yeah i don't know i don't know certainly improving the quality of life  
+**[6864.56s] English:** Appreciate, yeah. I don't know, I don't know, certainly improving the quality of life.  
 **Translation:** 
 
-**[6870.80s] English:** is important but um part of me thinks that immortality is is not as fun as um  
+**[6870.80s] English:** It's important, but part of me thinks that immortality isn't as fun as um...  
+**Translation:** Vocabulary: immortality: 永生
+
+**[6881.40s] English:** What we'd like to imagine: do you think that maybe you're in what you're building?  
 **Translation:** 
 
-**[6881.40s] English:** what we'd like to imagine do you think that maybe you're uh in what you're building  
-**Translation:** 
-
-**[6887.52s] English:** potentially is immortal well that's what i definitely think about with robots  
+**[6887.52s] English:** Potentially, they are immortal. Well, that's what I definitely think about with robots.  
 **Translation:** Vocabulary: immortal: 永生的
 
-**[6894.56s] English:** if they were to have a human-like experience and be able to interact with humans in a deep  
+**[6894.56s] English:** If they were to have a human-like experience and be able to interact with humans in a deep, meaningful way,  
 **Translation:** 
 
-**[6902.12s] English:** meaningful way i think they too have to be mortal in some fundamental way that means mortal like  
+**[6902.12s] English:** Meaningful way, I think they, too, have to be mortal in some fundamental way that means mortal, like  
+**Translation:** Vocabulary: mortal: 凡人
+
+**[6908.56s] English:** Their ride has to end as well, because they won't be able to interact with humans deeply.  
 **Translation:** 
 
-**[6908.56s] English:** their ride has to end as well because they won't be able to interact with humans deeply  
+**[6914.90s] English:** Unless that's the case, um, I'd rather not have to have fear to have.  
 **Translation:** 
 
-**[6914.90s] English:** unless that's the case um like to have to have fear to have  
+**[6922.78s] English:** Love.  
 **Translation:** 
 
-**[6922.78s] English:** love  
-**Translation:** 
-
-**[6924.56s] English:** the ability to suffer the ability to miss somebody i think scarcity is important you have to be able  
+**[6924.56s] English:** The ability to suffer, the ability to miss somebody—I think scarcity is important. You have to be able...  
 **Translation:** Vocabulary: scarcity: 匮乏
 
-**[6933.44s] English:** to truly lose somebody you have to be to to fear things you have to truly have the risk  
+**[6933.44s] English:** To truly lose somebody, you have to be afraid of things you have to truly take the risk.  
 **Translation:** 
 
-**[6940.82s] English:** of destroying yourself and to have a sense of what it means to be a self  
+**[6940.82s] English:** Of destroying yourself, and to have a sense of what it means to be a self.  
 **Translation:** 
 
-**[6946.08s] English:** you have to be able to lose it so if you're immortal you're just going to be i feel like  
+**[6946.08s] English:** You have to be able to lose it, so if you're immortal, you're just going to be—I feel like.  
 **Translation:** 
 
-**[6954.56s] English:** you're going to be like a toaster an intelligent toaster that just  
+**[6954.56s] English:** You're going to be like a toaster—an intelligent toaster that just  
 **Translation:** 
 
-**[6960.00s] English:** serves such a negative perspective on it and then mortality yeah just think well now you just you  
+**[6960.00s] English:** Serves such a negative perspective on it, and then mortality—yeah, just think, well, now you just you.  
 **Translation:** 
 
-**[6966.20s] English:** can get all those things done that you want to do i hope you're right i hope you're right yeah i i  
+**[6966.20s] English:** Can get all those things done that you want to do? I hope you're right. I hope you're right, yeah. I/I  
 **Translation:** 
 
-**[6971.54s] English:** mean potentially you could invest even harder because you're like wow i'm actually gonna be  
+**[6971.54s] English:** Mean, potentially, you could invest even harder because you're like, "Wow, I'm actually gonna be...  
 **Translation:** 
 
-**[6975.90s] English:** able to get all this stuff done i i think about this a lot i hope you're right but i i fear that  
+**[6975.90s] English:** Able to get all this stuff done, I think about this a lot. I hope you're right, but I fear that.  
 **Translation:** 
 
-**[6983.16s] English:** the drive to create i can even do more all of that dissipates disappears if you have all the  
+**[6983.16s] English:** The drive to create, I can even do more — all of that dissipates and disappears if you have all the  
 **Translation:** 
 
-**[6990.44s] English:** time in the world i just know how lazy i am and if i have all the time in the world i'm just gonna  
-**Translation:** Vocabulary: dissipates: 消失
+**[6990.44s] English:** Time in the world, I just know how lazy I am, and if I had all the time in the world, I'm just gonna.  
+**Translation:** Vocabulary: dissipates: 消散
 
-**[6995.78s] English:** sit there and just like watch the stupidest youtube videos for the rest of all eternity  
+**[6995.78s] English:** Sit there and just watch the stupidest YouTube videos for the rest of all eternity.  
 **Translation:** 
 
-**[7003.08s] English:** uh now eternity is a long time eat doritos yeah cheetos and just get fatter and fatter i can get  
-**Translation:** Vocabulary: stupidest: 最愚蠢的
+**[7003.08s] English:** Uh, now, eternity is a long time; eat Doritos, yeah, Cheetos, and just get fatter and fatter. I can get.  
+**Translation:** Vocabulary: cheetos: 奇多; doritos: 多力多滋; stupidest: 最愚蠢的
 
-**[7010.82s] English:** in shape later there's always time  
+**[7010.82s] English:** In shape, later; there's always time.  
 **Translation:** 
 
-**[7013.08s] English:** you  
+**[7013.08s] English:** You.  
 **Translation:** 
 
-**[7013.40s] English:** that's like a long period of contemplation yeah so for the first thousand years it'll be the  
+**[7013.40s] English:** That's like a long period of contemplation, yeah. So for the first thousand years, it'll be the  
 **Translation:** 
 
-**[7020.00s] English:** dorito period of the lex life and yeah you could you could be like job of the hut for a thousand  
+**[7020.00s] English:** Dorito, period of the Lex Life, and yeah, you could be like "job of the hut" for a thousand.  
 **Translation:** Vocabulary: contemplation: 深思
 
-**[7025.86s] English:** years you mentioned aliens very important topic do you actually think about uh about this has  
+**[7025.86s] English:** Years ago, you mentioned aliens as a very important topic. Do you actually think about this?  
 **Translation:** 
 
-**[7031.40s] English:** been an increased uh interest and there's been uh increased ufo sightings and encounters all  
-**Translation:** Vocabulary: encounters: 目击事件
+**[7031.40s] English:** There has been an increased interest, and there have been increased UFO sightings and encounters.  
+**Translation:** Vocabulary: aliens: 外星人; encounters: 遭遇
 
-**[7038.48s] English:** that kind of stuff the u.s government at least releasing data um release  
+**[7038.48s] English:** That kind of stuff; the U.S. government, at least, is releasing data, um.  
 **Translation:** 
 
-**[7043.16s] English:** releasing videos of uh pilots uh pilot observations and from airplanes of ufos do you think about this  
+**[7043.16s] English:** Releasing videos of pilot observations and footage from airplanes of UFOs—do you think about this?  
 **Translation:** 
 
-**[7050.84s] English:** kind of stuff because you met you mentioned in the following context you mentioned like  
+**[7050.84s] English:** Kind of stuff, because you met—you mentioned—in the following context, you mentioned like.  
 **Translation:** 
 
-**[7054.62s] English:** our humans will get our shit together when the aliens eventually come yeah um  
+**[7054.62s] English:** Our humans will get our shit together when the aliens eventually come, yeah, um.  
 **Translation:** 
 
-**[7060.58s] English:** what do you make of all the sightings is that something you think about  
+**[7060.58s] English:** What do you make of all the sightings? Is that something you think about?  
 **Translation:** 
 
-**[7064.90s] English:** i thought about it a lot when i was younger um and i've just i made my conclusions and  
+**[7064.90s] English:** I thought about it a lot when I was younger, and I've just made my conclusions.  
 **Translation:** 
 
-**[7071.56s] English:** yeah i i don't think that's a good thing i don't think that's a good thing i don't think that's a good thing  
+**[7071.56s] English:** Yeah, I don't think that's a good thing. I don't think that's a good thing. I don't think that's a good thing.  
 **Translation:** 
 
-**[7073.16s] English:** that there's a possibility that there aren't aliens i would think it would be impossible  
+**[7073.16s] English:** That there's a possibility that there aren't aliens, I would think it would be impossible.  
 **Translation:** 
 
-**[7076.98s] English:** for there not to be aliens uh they're you know  
+**[7076.98s] English:** For there not to be aliens, uh, they're you know  
 **Translation:** 
 
-**[7080.00s] English:** um you know i i feel like this is pretty good real estate so you know yeah you probably want  
+**[7080.00s] English:** Um, you know, I feel like this is pretty good real estate, so you know, yeah, you probably want.  
 **Translation:** 
 
-**[7086.80s] English:** it but we already might be like well i don't even think might i mean it's probably quite likely that  
+**[7086.80s] English:** It, but we already might be like, well, I don't even think it might. I mean, it's probably quite likely that.  
 **Translation:** 
 
-**[7091.80s] English:** we are to some degree aliens i mean all life is probably to some degree alien i like the real  
+**[7091.80s] English:** We are, to some degree, aliens. I mean, all life is probably to some degree alien. I like the real.  
 **Translation:** Vocabulary: alien: 外星人
 
-**[7097.84s] English:** estate so the resources but we're also kind of interesting yeah whatever this ant colony  
+**[7097.84s] English:** Estate, so the resources, but we're also kind of interesting, yeah, whatever this ant colony.  
 **Translation:** 
 
-**[7102.46s] English:** of living organisms that we've created it's kind of interesting to study i i tend to believe that  
+**[7102.46s] English:** Of living organisms that we've created, it's kind of interesting to study. I tend to believe that.  
 **Translation:** 
 
-**[7108.28s] English:** the alien civilizations that are going to reach us or have reached us are far more intelligent  
+**[7108.28s] English:** The alien civilizations that are going to reach us, or have already reached us, are far more intelligent.  
 **Translation:** 
 
-**[7114.94s] English:** just orders of magnitude more intelligent than us and so it's going to be very difficult both  
+**[7114.94s] English:** Just an order of magnitude more intelligent than us, and so it's going to be very difficult both  
+**Translation:** Vocabulary: civilizations: 外星文明
+
+**[7120.96s] English:** Ways actually exist for us to understand them, and for them to dumb themselves down enough to understand.  
 **Translation:** 
 
-**[7120.96s] English:** ways actually for us to understand them and for them to dumb themselves down enough to understand  
+**[7126.78s] English:** Us, yeah, probably so. They might even just miss our existence altogether, just because.  
 **Translation:** 
 
-**[7126.78s] English:** us yeah probably so they might even just miss our existence altogether just because it because  
+**[7134.32s] English:** I tend to believe I don't know what you think—we're not that special.  
 **Translation:** 
 
-**[7134.32s] English:** i tend to believe i don't know what you think that we're not that special  
+**[7138.28s] English:** In terms of all the life forms in the universe, there's a lot of cool stuff out there, and it has  
 **Translation:** 
 
-**[7138.28s] English:** in terms of all the life forms in the universe there's a lot of cool stuff out there and it has  
+**[7145.10s] English:** To be, has to be, but to us, we're special, yeah. Well, that's all that matters, right? Yeah, even the human.  
 **Translation:** 
 
-**[7145.10s] English:** to be has to be but to us we're special yeah well that's all that matters right yeah even the human  
+**[7152.16s] English:** Species is the most special to us humans; there could be much more special species here on Earth.  
 **Translation:** 
 
-**[7152.16s] English:** species is the most special to us humans there could be much more special species here on earth  
+**[7157.82s] English:** They were just totally oblivious to trees on the scale of thousands of years; maybe they're like  
 **Translation:** 
 
-**[7157.82s] English:** they were just totally oblivious to like trees on the scale of thousands of years maybe they're like  
+**[7163.96s] English:** They're on to something, Lex. You know, um,...  
+**Translation:** Vocabulary: oblivious: 无知外
+
+**[7168.28s] English:** I think that so much of what makes a person special is what they pass on to your kids, but...  
 **Translation:** 
 
-**[7163.96s] English:** they're on to something lex you know um  
-**Translation:** Vocabulary: oblivious: 不知情
-
-**[7168.28s] English:** i think that so much of what makes a person special is what they pass on your kids but but  
+**[7177.96s] English:** I think that you are quite special because you're part of this thing that's potentially giving birth.  
 **Translation:** 
 
-**[7177.96s] English:** i think that you are quite special because you're part of this thing that's potentially giving birth  
+**[7183.88s] English:** To the next thing: The robots, I should say. The funny thing is, while talking to Devon,...  
 **Translation:** 
 
-**[7183.88s] English:** to the next thing the robots the robots i should say the funny thing is while talking to devon  
+**[7192.20s] English:** During this podcast, I would adore "Doorbell Ring," but had to go downstairs, and there was a  
+**Translation:** Vocabulary: doorbell: 门铃
+
+**[7198.28s] English:** Big box  
 **Translation:** 
 
-**[7192.20s] English:** during this podcast i i would adore doorbell ring had to go downstairs and there was a  
-**Translation:** 
-
-**[7198.28s] English:** big box  
-**Translation:** 
-
-**[7200.00s] English:** medicine box with a new legged robot so um the hilarity of you saying that is because that that  
+**[7200.00s] English:** Medicine box with a new-legged robot, so, um, the hilarity of you saying that is because that...  
 **Translation:** Vocabulary: hilarity: 滑稽性
 
-**[7208.14s] English:** that robot is actually going to likely be the main robot that i show to the to the world  
+**[7208.14s] English:** That robot is actually going to likely be the main one I show to the world.  
 **Translation:** 
 
-**[7213.68s] English:** in the coming months because that has the that's the highest compute level in that robot so i've  
+**[7213.68s] English:** In the coming months, because that has the highest compute level in that robot, so I've  
+**Translation:** Vocabulary: compute: 计算能力
+
+**[7220.86s] English:** Been playing a lot with legged robots, the four-legged kind like a dog. I like them all.  
 **Translation:** 
 
-**[7220.86s] English:** been playing a lot with legged robots the um four legs like a like a dog um i like i like all  
+**[7229.38s] English:** Robots, but there's something about when a robot has legs; it's able to communicate.  
 **Translation:** 
 
-**[7229.38s] English:** robots but there's something about when a robot has legs it's able to communicate  
+**[7234.64s] English:** It's able to connect with humans in some kind of deep way, much like a dog can.  
 **Translation:** 
 
-**[7234.64s] English:** it's able to connect with humans in some kind of deep way in the way a dog can  
+**[7239.36s] English:** Just show some affection, something like stepping in and out, and then the robot.  
 **Translation:** 
 
-**[7239.36s] English:** just show affection something about like step step step step and then and then the robot  
+**[7245.14s] English:** Realizes you're here, and then it steps and then notices you—in the way the dog does.  
 **Translation:** 
 
-**[7245.14s] English:** realizes you're here and then it steps and then notices you in the way the dog does and  
+**[7249.74s] English:** Raises its head, um. It makes me feel noticed and heard in the same way I do when a dog notices.  
 **Translation:** 
 
-**[7249.74s] English:** raises its head um it makes me feel noticed and heard in the same way i do when a dog notices  
+**[7259.16s] English:** Me.  
 **Translation:** 
 
-**[7259.16s] English:** me  
+**[7259.38s] English:** That excitement, that stupid excitement of, like, yeah, yes, uh, fellow living organism, and  
+**Translation:** Vocabulary: organism: 生物
+
+**[7265.98s] English:** What excites me about legged robots is that, holy shit, it's possible to engineer this; it's possible.  
 **Translation:** 
 
-**[7259.38s] English:** that excitement that stupid excitement of like yeah yes uh fellow living organism and  
+**[7273.70s] English:** To create that feeling, and I wonder where it can go; there are a lot of negative possible trajectories.  
+**Translation:** Vocabulary: excites: 激发; trajectories: 发展趋势
+
+**[7279.28s] English:** But I have a sense that there are positive ones, too. You add more love, and they'll take us with them.  
 **Translation:** 
 
-**[7265.98s] English:** what excites me about legged robots is that holy shit it's possible to engineer this it's possible  
+**[7285.32s] English:** Yeah, I think so because I  
 **Translation:** 
 
-**[7273.70s] English:** to create that feeling and i wonder where that can go there's a lot of negative possible trajectories  
-**Translation:** Vocabulary: excites: 激发兴趣; trajectories: 发展趋势
-
-**[7279.28s] English:** but i have a sense that there's positive ones too you add more love they'll take us with them  
+**[7289.38s] English:** So, there's a fear that robots could become super-intelligent and run away from us humans.  
 **Translation:** 
 
-**[7285.32s] English:** yeah i think so because i  
+**[7296.30s] English:** Basically, they become so intelligent and then almost just give a damn, and will destroy us.  
 **Translation:** 
 
-**[7289.38s] English:** so there's this fear of robots that they become super intelligent and run away from us humans and  
+**[7303.16s] English:** But I think, in order for robots to become intelligent, they have to integrate themselves.  
 **Translation:** 
 
-**[7296.30s] English:** basically become so intelligent and then they almost just not giving a damn will destroy us  
+**[7309.36s] English:** With society, so they have to, by the very nature of how they become intelligent, bring us along.  
+**Translation:** Vocabulary: integrate: 融合
+
+**[7317.84s] English:** Along the way, so  
 **Translation:** 
 
-**[7303.16s] English:** but i think in order for for robots to become intelligent they have to integrate themselves  
+**[7319.38s] English:** They have to sustain that distinction and survive, because we've been there before, you know.  
+**Translation:** Vocabulary: sustain: 维持
+
+**[7320.00s] English:** It's not that there'll be this separate thing; they'll just have robots in the home.  
 **Translation:** 
 
-**[7309.36s] English:** with society so they they by the very nature of of how they become intelligent have to bring us  
-**Translation:** Vocabulary: integrate: 融入社会
+**[7325.34s] English:** Well, they'll be interacting with us. You have human kids, and you have a bunch of robots.  
+**Translation:** Vocabulary: interacting: 交互
 
-**[7317.84s] English:** along so  
+**[7325.62s] English:** Like, really? Really? Too much, huh? Okay, well, next time, you're gonna be honest with me here.  
 **Translation:** 
 
-**[7319.38s] English:** they have to sustain that distinction and survive cuz we've been there before you know then  
+**[7329.28s] English:** Like, yeah, I say I suck at it, and it's just frustrating.  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
+
+**[7330.76s] English:** Have robot friends, you have human friends, and they make your human-to-human connections stronger.  
 **Translation:** 
 
-**[7325.62s] English:** like really really too like okay well you next time you're gonna be honest with me here  
+**[7333.64s] English:** I was thinking, sorry. Okay, I do want to treat you guys like that, or whatever. So, um, what?  
 **Translation:** 
 
-**[7329.28s] English:** like yeah i say i suck at it and it 돌  
+**[7335.54s] English:** Relationships are much more meaningful and richer; they bring more love to the world, but they...  
 **Translation:** 
 
-**[7333.64s] English:** i was thinking sorry okay i do want to treat you guys like that so or whatever so um what  
+**[7339.52s] English:** You're doing it, and it's worth it. But other great Peter Eff Yeas.  
 **Translation:** 
 
-**[7339.52s] English:** you're doing is worth it and but other GREAT PETER EFFyseCHS  
+**[7340.10s] English:** Integrated, it's not like they'll be developing smarter and smarter, um, as if they were sentient beings.  
 **Translation:** 
 
-**[7343.36s] English:** what he does if i'm at foreign service i was trying to get him to go home i still had him  
+**[7343.36s] English:** What he does? If I'm at the Foreign Service, I was trying to get him to go home, but I still had him.  
+**Translation:** Vocabulary: integrated: 融合; sentient: 有感知的
+
+**[7348.38s] English:** At home, so he didn't move around a bit. BTS.  
 **Translation:** 
 
-**[7348.38s] English:** at home so he didn't move around a bit BTS  
+**[7349.26s] English:** By themselves, I think that's very difficult to do; you have to be doing that together with humans.  
 **Translation:** 
 
-**[7320.00s] English:** it's not that there'll be this separate thing they have to like we'll have robots in the home  
+**[7354.16s] English:** And so, we'll come for the ride. There's technical things like we might merge with cyborgs more and  
 **Translation:** 
 
-**[7325.34s] English:** well they'll be interacting with us you have human kids and you have a bunch of robots you  
-**Translation:** 
-
-**[7330.76s] English:** have robot friends you have human friends and they the robots make your human to human  
-**Translation:** 
-
-**[7335.54s] English:** relationships much more meaningful and richer they bring more love to the world but they it's  
-**Translation:** 
-
-**[7340.10s] English:** integrated it's not like they'll be developing smarter and smarter um as like um sentient beings  
-**Translation:** 
-
-**[7349.26s] English:** by themselves i think that's very difficult to do you have to be doing that together with humans  
-**Translation:** Vocabulary: sentient: 有感知的
-
-**[7354.16s] English:** and so we'll come for the ride there's technical things like we might merge like cyborgs more and  
-**Translation:** 
-
-**[7361.20s] English:** more well we already saw our cyborgs right with the phones and so on but more and more so with  
+**[7361.20s] English:** More and more, however, we are seeing our cyborgs—with the phones and so on.  
 **Translation:** Vocabulary: cyborgs: 半机械人
 
-**[7366.72s] English:** elon and neural link deeper integration of robots and ai into like increasing the bandwidth at which  
+**[7366.72s] English:** Elon and Neuralink are working on a deeper integration of robots and AI, like increasing the bandwidth at which  
 **Translation:** 
 
-**[7375.74s] English:** they can communicate right so if we do implants in the brain  
-**Translation:** Vocabulary: bandwidth: 通信带宽; neural: 神经的
+**[7375.74s] English:** They can communicate, right? So, if we do implants in the brain,...  
+**Translation:** Vocabulary: bandwidth: 通信容量
 
-**[7379.26s] English:** i think um again a lot of people are really nervous about this uh as am i but i think there's  
+**[7379.26s] English:** I think, um, again, a lot of people are really nervous about this—uh, as am I—but I think there's  
 **Translation:** 
 
-**[7387.28s] English:** a lot of trajectories that are positive there and that to me is exciting and and also i just  
+**[7387.28s] English:** A lot of trajectories that are positive there, and that to me is exciting, and also I just  
+**Translation:** Vocabulary: trajectories: 发展趋势
+
+**[7392.74s] English:** Don't think it's possible to stop this development, so we should just steer it, yeah. Oh, good. Did you  
 **Translation:** 
 
-**[7392.74s] English:** don't think it's possible to stop this development so we should uh steer it yeah yeah oh good did you  
+**[7400.94s] English:** I mean, you must have watched the movie Terminator, right? Yeah, of course; I love Terminator, yeah.  
+**Translation:** Vocabulary: terminator: 天网机器人
+
+**[7405.42s] English:** I love Schwarzenegger; my favorite movie of all time, yeah!  
 **Translation:** 
 
-**[7400.94s] English:** i mean you must have watched the movie terminator right yeah of course i love terminator yeah  
-**Translation:** Vocabulary: terminator: 天障铁壁
-
-**[7405.42s] English:** i love schwarzenegger my favorite movie of all time yeah  
-**Translation:** 
-
-**[7409.26s] English:** yeah i mean that's that's the big fear right  
+**[7409.26s] English:** Yeah, I mean, that's the big fear, right?  
 **Translation:** Vocabulary: schwarzenegger: 施瓦辛格
 
-**[7411.98s] English:** yeah what's the conclusion with terminator isn't ultimately humanity wins  
+**[7411.98s] English:** Yeah, what's the conclusion with Terminator? Isn't ultimately humanity wins?  
 **Translation:** 
 
-**[7418.68s] English:** i think they're at like terminator 8 now yeah you know i don't know uh yeah the so they're  
+**[7418.68s] English:** I think they're at like Terminator 8 now, yeah. You know, I don't know, uh, yeah, the so they're...  
 **Translation:** 
 
-**[7427.08s] English:** and it's interesting actually i was going to bring this up as you were talking about it but  
+**[7427.08s] English:** And it's interesting actually; I was going to bring this up as you were talking about it, but...  
 **Translation:** 
 
-**[7430.40s] English:** uh but china and the united states actually don't know where canada is on this but they both have  
+**[7430.40s] English:** Uh, but China and the United States actually don't know where Canada is on this, but they both have  
 **Translation:** 
 
-**[7437.58s] English:** agreed that they're going to win the game and they're going to win the game and they're going to  
+**[7437.58s] English:** Agreed that they're going to win the game, and they're going to win the game, and they're going to.  
 **Translation:** 
 
-**[7439.26s] English:** win in general i think that they're not going  
+**[7439.26s] English:** I think that, in general, they're not going.  
 **Translation:** 
 
-**[7440.00s] English:** going to put limits on autonomous weapon uh system development so they're not going to they're not  
+**[7440.00s] English:** Going to put limits on autonomous weapon systems development, so they're not going to be developed without regulation.  
 **Translation:** 
 
-**[7445.70s] English:** going to so because china said we're not going to and now u.s officially announced that we're not  
+**[7445.70s] English:** Going to, so, because China said we're not going to, and now the U.S. officially announced that we're not.  
 **Translation:** Vocabulary: autonomous: 自主
 
-**[7451.86s] English:** we can't well you can't it's like it's you never could right as soon as it exists and it's better  
+**[7451.86s] English:** We can't; you can't. It's like, you never could, right? As soon as it exists, and it's better.  
 **Translation:** 
 
-**[7458.74s] English:** people will use it well but you um there's been a global ban on bioweapons so you were able to  
+**[7458.74s] English:** People will use it well, but you, um, there's been a global ban on bioweapons, so you were able to.  
 **Translation:** 
 
-**[7467.74s] English:** come to an agreement there that we're not going to use biological weapons in war so it was is a  
+**[7467.74s] English:** Come to an agreement there that we're not going to use biological weapons in war, so it was/is a  
 **Translation:** 
 
-**[7473.52s] English:** lot of people are really upset that in the case of ai driven weapons the world said nope that's okay  
+**[7473.52s] English:** A lot of people are really upset that, in the case of AI-driven weapons, the world said, "Nope, that's okay.  
 **Translation:** 
 
-**[7481.26s] English:** and so now you have this potential for greater and greater automation and drones for example  
+**[7481.26s] English:** And so, now you have this potential for greater and greater automation, such as drones, for example.  
 **Translation:** 
 
-**[7488.56s] English:** and picking uh bombing locations and so the area at which they attack and so you get some of that  
-**Translation:** Vocabulary: automation: 自动化; drones: 无人机
+**[7488.56s] English:** And picking bombing locations, and so the area at which they attack. So, you get some of that.  
+**Translation:** Vocabulary: automation: 自动化; bombing: 轰炸; drones: 无人机
 
-**[7496.70s] English:** stuff that you mentioned that  
+**[7496.70s] English:** Stuff that you mentioned, that  
 **Translation:** 
 
-**[7497.70s] English:** that drew you to the military is that teamwork between humans that decision making so there's  
+**[7497.70s] English:** That drew you to the military is that teamwork among humans, that decision-making, so there's  
+**Translation:** Vocabulary: teamwork: 团队合作
+
+**[7506.26s] English:** Strategy, but built into that team is a deep humanity, like, yeah, even when there's an enemy.  
 **Translation:** 
 
-**[7506.26s] English:** strategy but built into that team is a deep humanity like yeah even when there's an enemy  
+**[7515.70s] English:** There are lines that you are aware of: what is ethical, what is not; what is just, and what is not.  
 **Translation:** 
 
-**[7515.70s] English:** there's lines that you are aware of of what is ethical what is not what is just and what is not  
+**[7522.06s] English:** And it's so easy for a machine, uh, to  
 **Translation:** 
 
-**[7522.06s] English:** and it's so easy for a machine uh to uh  
-**Translation:** 
-
-**[7527.70s] English:** to miss all of that plow through it and do deeply inhumane acts commit atrocities that  
+**[7527.70s] English:** To miss all of that, plow through it, and do deeply inhumane acts, commit atrocities that  
 **Translation:** Vocabulary: atrocities: 暴行
 
-**[7534.40s] English:** that's something that worries a lot of people yeah  
+**[7534.40s] English:** That's something that worries a lot of people, yeah.  
 **Translation:** 
 
-**[7538.94s] English:** because uh yeah an ai-based war is just is it's terrifying especially with cyber security which  
-**Translation:** Vocabulary: terrifying: 令人恐惧
+**[7538.94s] English:** Because, uh, yeah, an AI-based war is just terrifying, especially with cyber security.  
+**Translation:** Vocabulary: terrifying: 令人恐惧的
 
-**[7547.68s] English:** is becoming more and more of an issue which is hacking yeah sort of uh people that look a lot  
+**[7547.68s] English:** Is becoming more and more of an issue, which is hacking, yeah, sort of, uh, people who look a lot  
 **Translation:** 
 
-**[7555.54s] English:** like me  
-**Translation:** Vocabulary: hacking: 非法入侵
-
-**[7557.70s] English:** being the warriors of the future yeah  
+**[7555.54s] English:** Like me.  
 **Translation:** 
 
-**[7560.00s] English:** Which is meaning people behind a keyboard versus the traditional warriors.  
+**[7557.70s] English:** Being the warriors of the future, yeah.  
 **Translation:** 
 
-**[7568.30s] English:** Probably inevitable.  
+**[7560.00s] English:** Which means people behind a keyboard versus traditional warriors.  
+**Translation:** 
+
+**[7568.30s] English:** Probably Inevitable.  
 **Translation:** 
 
 **[7570.74s] English:** Yeah.  
@@ -4978,8 +4979,8 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[7582.42s] English:** When does it happen?  
 **Translation:** 
 
-**[7584.08s] English:** So that, I mean, to me, I'm ultimately optimistic about the future.  
-**Translation:** Vocabulary: optimistic: 乐观
+**[7584.08s] English:** So, to me, I mean, I'm ultimately optimistic about the future.  
+**Translation:** Vocabulary: optimistic: 乐观的
 
 **[7588.98s] English:** And to me, I'm excited about the world with AI.  
 **Translation:** 
@@ -4987,28 +4988,28 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[7591.64s] English:** I'm even excited about the metaverse and all these kinds of things.  
 **Translation:** Vocabulary: metaverse: 元宇宙
 
-**[7596.44s] English:** Living more and more in the digital space, in the virtual reality.  
+**[7596.44s] English:** Living more and more in the digital space, in virtual reality.  
 **Translation:** 
 
-**[7600.98s] English:** I think, so it's a part of me that grew up in the non-internet world, non-computer world.  
+**[7600.98s] English:** I think so; it's a part of me that grew up in the non-internet world, non-computer world.  
 **Translation:** 
 
-**[7606.42s] English:** You know, it says, oh, kids these days with their video games.  
+**[7606.42s] English:** You know, it says, "Oh, kids these days with their video games.  
 **Translation:** 
 
-**[7609.50s] English:** You know, there's part of me that's like that.  
+**[7609.50s] English:** You know, there's a part of me that's like that.  
 **Translation:** 
 
-**[7612.82s] English:** But I think technology at its best can bring out the best of humanity.  
+**[7612.82s] English:** But I think technology, at its best, can bring out the best in humanity.  
 **Translation:** 
 
-**[7619.52s] English:** And so I think virtual reality, all of these things, over time, we'll figure out how to fix it to bring out the humanity.  
+**[7619.52s] English:** And so, I think virtual reality—and all of these things—over time, we'll figure out how to fix it to bring out the humanity.  
 **Translation:** 
 
 **[7628.26s] English:** Social networks.  
 **Translation:** 
 
-**[7629.72s] English:** The first generation social networks, now Facebook, Twitter, and so on, they have so many problems.  
+**[7629.72s] English:** The first-generation social networks, such as Facebook and Twitter, have so many problems.  
 **Translation:** 
 
 **[7634.96s] English:** They're bringing out the worst in people.  
@@ -5017,29 +5018,29 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[7637.08s] English:** But I think we're learning from that.  
 **Translation:** 
 
-**[7638.66s] English:** And I think the next generation of social networks will be better and better and better.  
+**[7638.66s] English:** And I think the next generation of social networks will be better, and better, and better.  
 **Translation:** 
 
-**[7642.66s] English:** And so I'm optimistic.  
+**[7642.66s] English:** And so, I'm optimistic.  
 **Translation:** 
 
 **[7645.64s] English:** But of course, you know, one reason.  
 **Translation:** 
 
-**[7648.68s] English:** One reason we may have not seen aliens yet, obviously, like in a way that's obvious, is because once you get clever and smart and have all this cool technology, you destroy yourself.  
-**Translation:** 
+**[7648.68s] English:** One reason we may have not seen aliens yet, obviously, is because, in a way that's obvious, once you get clever and smart and have all this cool technology, you destroy yourself.  
+**Translation:** Vocabulary: aliens: 外星人
 
-**[7660.10s] English:** And we sure as humans are pretty close to that.  
+**[7660.10s] English:** And we sure are pretty close to that, as humans.  
 **Translation:** 
 
 **[7663.04s] English:** Yeah.  
 **Translation:** 
 
-**[7663.56s] English:** Yeah, there might be that limit that is hard to get right.  
+**[7663.56s] English:** Yeah, there might be a limit that is hard to get right.  
 **Translation:** 
 
-**[7666.90s] English:** I'm hoping we get all our aggression between nations out through arm wrestling competition.  
-**Translation:** Vocabulary: aggression: 国家间的敌意; wrestling: 摔跤比赛
+**[7666.90s] English:** I'm hoping we can resolve all our aggression between nations through arm-wrestling competitions.  
+**Translation:** Vocabulary: aggression: 国家间的敌对
 
 **[7672.16s] English:** Right?  
 **Translation:** 
@@ -5053,95 +5054,95 @@ Source file: Lex Fridman - Devon Larratt： Arm Wrestling ｜ Lex Fridman Podcas
 **[7674.70s] English:** Oh, my God.  
 **Translation:** 
 
-**[7675.66s] English:** Wouldn't that be great if it was that simple?  
+**[7675.66s] English:** Wouldn't that be great if it were that simple?  
 **Translation:** 
 
 **[7678.68s] English:** Yeah.  
 **Translation:** 
 
-**[7679.40s] English:** Do you know if there's.  
+**[7679.40s] English:** Do you know if there is one?  
 **Translation:** 
 
-**[7680.00s] English:** another over-the-top type movie to be made oh yeah yeah there's always stuff in the works um  
+**[7680.00s] English:** Another over-the-top type movie to be made? Oh, yeah, yeah. There's always stuff in the works, um,...  
 **Translation:** 
 
-**[7684.74s] English:** there's actually a there's a there's a tournament called over the top in australia that's a couple  
+**[7684.74s] English:** There's actually a tournament called Over the Top in Australia that's a couple  
 **Translation:** 
 
-**[7689.00s] English:** months away i think they're doing all the over top scene but uh there are arm wrestling movies  
+**[7689.00s] English:** Months away, I think they're doing all the over-the-top scenes, but there are arm-wrestling movies.  
 **Translation:** 
 
-**[7693.86s] English:** that are being made right now actually i'm there's a documentary that's filming me for this  
+**[7693.86s] English:** That are being made right now, actually, there's a documentary filming me for this.  
 **Translation:** 
 
-**[7698.42s] English:** whole levon thing but uh yeah we're probably due for another big one yeah but you're also just with  
-**Translation:** Vocabulary: levon: 莱文
+**[7698.42s] English:** The whole Levon thing, but uh, yeah, we're probably due for another big one, yeah, but you're also just with.  
+**Translation:** Vocabulary: levon: 雷文
 
-**[7705.00s] English:** your youtube channel you're doing a lot for the sport that's really cool to see just being genuine  
+**[7705.00s] English:** Your YouTube channel—you're doing a lot for the sport. That's really cool to see, just being genuine.  
 **Translation:** 
 
-**[7709.40s] English:** but just being like uh looking not like you're looking today but just like yeah yeah the beard  
+**[7709.40s] English:** But just being like, uh, looking not like you're looking today, but just like, yeah, yeah, the beard.  
 **Translation:** 
 
-**[7716.12s] English:** yeah yeah yeah normally that's like sleepy you know and just putting yourself out there completely  
+**[7716.12s] English:** Yeah, yeah, yeah. Normally, that's like sleepy, you know, and just putting yourself out there completely.  
 **Translation:** 
 
-**[7722.02s] English:** as you are that's a beautiful thing the best thing about the sport is it brings people together  
+**[7722.02s] English:** As you said, that's a beautiful thing. The best thing about the sport is that it brings people together.  
 **Translation:** 
 
-**[7726.40s] English:** that's it yeah the community the the folks i got to interact with just so awesome so excited so  
+**[7726.40s] English:** That's it, yeah. The community and the folks I got to interact with are just so awesome! So excited!  
 **Translation:** 
 
-**[7732.92s] English:** full of kindness i'm definitely going to find the club here and uh and start working on my  
+**[7732.92s] English:** Full of kindness, I'm definitely going to find the club here and start working on my.  
 **Translation:** 
 
-**[7738.34s] English:** um  
+**[7738.34s] English:** Um.  
 **Translation:** 
 
-**[7739.40s] English:** uh on my arm wrestling game uh devon this is such a huge honor that you would uh  
+**[7739.40s] English:** Uh, on my arm wrestling game, Devon. This is such a huge honor that you would  
+**Translation:** Vocabulary: wrestling: 摔跤
+
+**[7745.16s] English:** Spend your valuable time, you come down to Austin, you'd hang out with me and do this.  
+**Translation:** 
+
+**[7754.00s] English:** Super! Cool talk to you, Lex. Yeah, as I mentioned, in case people, I'm sure will.  
+**Translation:** 
+
+**[7759.96s] English:** Tell me, so I hang out with Joe Rogan all the time. He's a friend; I told him that he should talk to  
+**Translation:** 
+
+**[7765.74s] English:** Devon is going through some stuff currently, you know. But I'm going to talk to him, and I'm going to  
 **Translation:** Vocabulary: devon: 德文
 
-**[7745.16s] English:** spend your valuable time you come down to austin you would um hang out with me and uh do this  
+**[7769.40s] English:** Hang out with Joe Rogan, and I know he's a big thing for us, bro. So, in case anybody wants to come,...  
 **Translation:** 
 
-**[7754.00s] English:** super cool talk to you lex yeah as i mentioned uh in case people you know people i'm sure will  
+**[7770.98s] English:** In and talk to Joe. Do wake me up if you want to tell me what to do or what's going on, but I'm sure.  
 **Translation:** 
 
-**[7759.96s] English:** tell me so i hang out with joe rogan all the time he's a friend i told him that he should talk to  
+**[7774.98s] English:** I hope the conversation between you, Devin, and Joe happens eventually; he's that would be epic!  
 **Translation:** 
 
-**[7765.74s] English:** devon he's going through some stuff currently you know uh but i'm going to talk to him and i'm going to  
-**Translation:** 
-
-**[7769.40s] English:** hang out with joe rogan and i know he's a thing for us um bro so in case anybody wants to come  
-**Translation:** 
-
-**[7770.98s] English:** in and talk to joe do wake me up if you want to tell you what to do what's going on but i'm sure  
-**Translation:** 
-
-**[7774.98s] English:** i hope the conversation between you devin and joe happens eventually he's uh that would be epic as  
-**Translation:** 
-
-**[7780.74s] English:** well because he's uh yeah fighting he loves fighting he loves wrestling he loves strength  
+**[7780.74s] English:** Well, because he's a fighter—he loves fighting, wrestling, and strength.  
 **Translation:** Vocabulary: devin: 迪文
 
-**[7787.40s] English:** and i think all of those are um like so perfectly encapsulated in the sport of arm wrestling so  
+**[7787.40s] English:** And I think all of those are, um, like so perfectly encapsulated in the sport of arm wrestling, so  
 **Translation:** 
 
-**[7795.44s] English:** thank you so much for talking today brother thanks so much  
-**Translation:** Vocabulary: encapsulated: 概括; wrestling: 摔跤
+**[7795.44s] English:** Thank you so much for talking with me today, brother. Thanks so much!  
+**Translation:** Vocabulary: encapsulated: 概括
 
-**[7797.66s] English:** lex  
+**[7797.66s] English:** Lex.  
 **Translation:** 
 
 **[7799.40s] English:** Thank you for watching this podcast.  
 **Translation:** 
 
-**[7800.00s] English:** please check out our sponsors in the description.  
+**[7800.00s] English:** Please check out our sponsors in the description.  
 **Translation:** 
 
 **[7802.82s] English:** And now, let me leave you with some words from Miyamoto Musashi.  
-**Translation:** 
+**Translation:** Vocabulary: musashi: 宫本武藏; sponsors: 赞助商
 
 **[7807.30s] English:** The only reason a warrior is alive is to fight.  
 **Translation:** 

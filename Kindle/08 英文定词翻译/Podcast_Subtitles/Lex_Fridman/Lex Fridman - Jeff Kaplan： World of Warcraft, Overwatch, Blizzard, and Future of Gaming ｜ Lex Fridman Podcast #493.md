@@ -1,10058 +1,10062 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Jeff Kaplan： World of Warcraft, Overwatch, Blizzard, and Future of Gaming ｜ Lex Fridman Podcast #493.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Есть три вида фана.  
+**[0.00s] English:** There are three types of fun.  
 **Translation:** 
 
-**[2.32s] English:** Фан для игрока, фан для дизайнера и фан для компьютера.  
+**[2.32s] English:** Fan for the player, fan for the designer, and fan for the computer.  
 **Translation:** 
 
-**[6.84s] English:** Это PvP?  
+**[6.84s] English:** Is this PvP?  
 **Translation:** 
 
-**[7.76s] English:** Это всё PvP.  
+**[7.76s] English:** This is all PvP.  
 **Translation:** 
 
-**[10.04s] English:** Вообще, по сути, Rust — это самое PvP-шное, что есть в PvP.  
+**[10.04s] English:** Generally, in essence, Rust is the most PvP-oriented game out there.  
 **Translation:** 
 
-**[16.32s] English:** Я не знаю, что это значит, но...  
+**[16.32s] English:** I don't know what it means, but...  
 **Translation:** 
 
-**[19.16s] English:** Игроки в Rust знают, что это значит.  
+**[19.16s] English:** Players in Rust know what this means.  
 **Translation:** 
 
-**[21.70s] English:** Вся моя карьера и моя семья — всё это благодаря EverQuest, так что думаю, я выиграл в этой игре.  
+**[21.70s] English:** My entire career and my family—everything is thanks to EverQuest, so I think I won this game.  
 **Translation:** 
 
-**[27.74s] English:** А мы... мы, идиоты, читаем форумы, а на форумах просто постоянно нас хейтят,  
+**[27.74s] English:** We, idiots, keep reading forums where people just constantly hate on us,  
 **Translation:** 
 
-**[34.18s] English:** типа «на этом сервере лаги» или «не могу зайти на тот сервак», и мы всё это так и воспринимали.  
+**[34.18s] English:** Type 'there are lags on this server' or 'can't log in to that server,' and we took it all the same way.  
+**Translation:** Vocabulary: idiots: 笨蛋
+
+**[41.90s] English:** When I got to that show, it was...  
 **Translation:** 
 
-**[41.90s] English:** И когда я приехал на то шоу, это...  
+**[46.24s] English:** This is one of the most emotional events in my life.  
 **Translation:** 
 
-**[46.24s] English:** Это одно из самых эмоциональных событий в моей жизни.  
+**[50.32s] English:** This was a constant stream of love.  
 **Translation:** 
 
-**[50.32s] English:** Это был сплошной поток любви.  
+**[52.40s] English:** I... I was sure that I would never leave Blizzard.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[58.22s] English:** I loved this place; it was a part of me.  
 **Translation:** 
 
-**[52.40s] English:** Я... я был уверен, что никогда не уйду из Blizzard.  
+**[61.66s] English:** I felt like a part of him.  
+**Translation:** 
+
+**[64.26s] English:** I literally thought I would retire there.  
+**Translation:** 
+
+**[67.60s] English:** Never thought that day would come.  
+**Translation:** 
+
+**[70.44s] English:** And here it is.  
+**Translation:** 
+
+**[71.86s] English:** How painful was it to say goodbye?  
+**Translation:** Vocabulary: goodbye: 告别
+
+**[74.74s] English:** This broke me.  
+**Translation:** 
+
+**[75.98s] English:** In this case, for the rest of the world, you...  
+**Translation:** 
+
+**[79.98s] English:** Simply disappeared from the face of the earth.  
+**Translation:** 
+
+**[83.30s] English:** But in reality, you worked on the game.  
+**Translation:** 
+
+**[87.74s] English:** This is a conversation with Jeff Kaplan,  
+**Translation:** 
+
+**[90.82s] English:** Legendary game designer of World of Warcraft and Overwatch.  
+**Translation:** Vocabulary: legendary: 传奇的; warcraft: 魔兽
+
+**[96.24s] English:** Two of the most expansive and influential games in history.  
+**Translation:** 
+
+**[102.04s] English:** He is one of the most amazing people I have met.  
+**Translation:** Vocabulary: expansive: 广阔的; influential: 有影响力的
+
+**[107.14s] English:** I had the honor of speaking with him often, including playing games.  
+**Translation:** 
+
+**[112.64s] English:** He was always kind, thoughtful, and humorous.  
+**Translation:** Vocabulary: humorous: 幽默; thoughtful: 周到
+
+**[115.72s] English:** And it will永远留下... (Note: The Russian text provided does not have a direct English translation, so I've kept the original Russian and added an English translation in parentheses for context.) "And it will永远留下...  
+**Translation:** 
+
+**[117.52s] English:** A die-hard gamer.  
+**Translation:** Vocabulary: gamer: 硬核玩家; parentheses: 括号
+
+**[120.80s] English:** Of course, he always acknowledges the amazing creative teams,  
+**Translation:** 
+
+**[125.40s] English:** With which he had to work over these years.  
+**Translation:** 
+
+**[127.74s] English:** They are truly amazing, after all.  
+**Translation:** 
+
+**[130.54s] English:** Blizzard created some of the greatest games in history.  
+**Translation:** 
+
+**[134.06s] English:** Games that personally gave me thousands of hours of fun, meaning, and happiness.  
+**Translation:** 
+
+**[142.22s] English:** Starting with Warcraft, StarCraft, Diablo, and ending with World of Warcraft and Overwatch.  
+**Translation:** Vocabulary: diablo: 恶魔之魂
+
+**[146.92s] English:** Thanks for all of this, Jeff.  
+**Translation:** 
+
+**[149.18s] English:** To the entire Blizzard team and every creator in the gaming industry,  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[58.22s] English:** Я обожал это место, оно было частью меня.  
+**[154.28s] English:** Who invests their whole soul in creating worlds that we, fans, can enjoy.  
 **Translation:** 
 
-**[61.66s] English:** Я ощущал себя его частью.  
-**Translation:** 
-
-**[64.26s] English:** Я буквально думал, что уйду оттуда на пенсию.  
-**Translation:** 
-
-**[67.60s] English:** Никогда не думал, что этот день настанет.  
-**Translation:** 
-
-**[70.44s] English:** И вот он настал.  
-**Translation:** 
-
-**[71.86s] English:** Насколько больно было прощаться?  
-**Translation:** 
-
-**[74.74s] English:** Это меня сломало.  
-**Translation:** 
-
-**[75.98s] English:** При этом для всего остального мира ты...  
-**Translation:** 
-
-**[79.98s] English:** просто исчез с лица земли.  
-**Translation:** 
-
-**[83.30s] English:** Но на деле ты работал над игрой.  
-**Translation:** 
-
-**[87.74s] English:** Это беседа с Джеффом Капланом,  
-**Translation:** 
-
-**[90.82s] English:** легендарным геймдизайнером World of Warcraft и Overwatch.  
-**Translation:** Vocabulary: warcraft: 战争艺术
-
-**[96.24s] English:** Двух из самых масштабных и влиятельных игр в истории.  
-**Translation:** 
-
-**[102.04s] English:** Он один из самых потрясающих людей, которых я встречал.  
-**Translation:** 
-
-**[107.14s] English:** Я имел честь много с ним общаться, в том числе играя в игры.  
-**Translation:** 
-
-**[112.64s] English:** И он всегда был добрым, вдумчивым, уморительным.  
-**Translation:** 
-
-**[115.72s] English:** И навсегда останется...  
-**Translation:** 
+**[160.86s] English:** This was a very joyful, inspiring, and dynamic conversation,  
+**Translation:** Vocabulary: invests: 投入
 
-**[117.52s] English:** настоящим геймером до мозга костей.  
+**[165.70s] English:** Sure, here is the improved sentence with natural English punctuation and capitalization: "Jus' forgive me for the pun, with the most passionate gamer and game designer in history.  
 **Translation:** 
 
-**[120.80s] English:** Конечно, он всегда отдает должное потрясающим творческим командам,  
+**[171.30s] English:** Full of memes, lulz, wisdom, emotional swings, and, of course, lore from the gaming worlds of Blizzard.  
 **Translation:** 
 
-**[125.40s] English:** с которыми ему довелось поработать за эти годы.  
+**[177.92s] English:** Jeff left Blizzard in 2021 and secretly worked on a new game called The Legend of California.  
 **Translation:** 
 
-**[127.74s] English:** А они ведь и правда потрясающие.  
-**Translation:** 
-
-**[130.54s] English:** Blizzard создала одни из величайших игр в истории.  
-**Translation:** 
-
-**[134.06s] English:** Игры, которые лично мне подарили тысячи часов фана, смысла и счастья.  
-**Translation:** 
-
-**[142.22s] English:** Начиная с Warcraft, Starcraft, Diablo и заканчивая WoW и Overwatch.  
-**Translation:** Vocabulary: diablo: 恶魔之魂; starcraft: 星际争霸
-
-**[146.92s] English:** За все это огромное спасибо Джеффу,  
-**Translation:** 
-
-**[149.18s] English:** всей команде Blizzard и каждому творцу в игровой индустрии,  
-**Translation:** 
-
-**[154.28s] English:** кто вкладывает всю душу в создание миров, которыми мы, фанаты, можем наслаждаться.  
-**Translation:** 
-
-**[160.86s] English:** Это был очень веселый, вдохновляющий и динамичный разговор,  
-**Translation:** 
-
-**[165.70s] English:** уж простите за каламбур, с самым влюбленным в дело геймером и геймдизайнером в истории.  
-**Translation:** 
-
-**[171.30s] English:** Полным мемов, лулзов, мудрости, эмоциональных качелей и, конечно, лора игровых миров Blizzard.  
-**Translation:** 
-
-**[177.92s] English:** Джефф ушел из Blizzard в 2021, и тайно работал над новой игрой, которая называется The Legend of California.  
-**Translation:** 
-
-**[187.60s] English:** И мне довелось в нее поиграть. С Джеффом.  
-**Translation:** Vocabulary: blizzard: 暴雪
+**[187.60s] English:** It was Jeff and me who got to play in it.  
+**Translation:** Vocabulary: california: 加利福尼亚
 
-**[191.84s] English:** Она невероятно красивая.  
+**[191.84s] English:** She is incredibly beautiful.  
 **Translation:** 
 
-**[194.68s] English:** Действие происходит в 1800-х, в эпоху золотой лихорадки в Калифорнии.  
+**[194.68s] English:** Action takes place in the 1800s, during the gold rush era in California.  
 **Translation:** 
 
-**[199.04s] English:** Это ММО в открытом мире. Отчасти это приключения и экшен, а отчасти выживач.  
+**[199.04s] English:** This is an MMORPG in an open world. Partly it's a quest and action adventure, and partly it's survival.  
 **Translation:** 
 
-**[204.92s] English:** Иногда она вызывает чувство одиночества и одиночества.  
-**Translation:** 
+**[204.92s] English:** Sometimes she causes a feeling of loneliness.  
+**Translation:** Vocabulary: loneliness: 孤独感
 
-**[207.04s] English:** Иногда она вызывает чувство одиночества и одиночества.  
+**[207.04s] English:** Sometimes she causes a feeling of loneliness.  
 **Translation:** 
 
-**[207.92s] English:** Отчаяние.  
+**[207.92s] English:** Despair.  
 **Translation:** 
 
-**[209.46s] English:** А порой, благоговейный трепет, когда смотришь на восход солнца над прекрасным пейзажем.  
+**[209.46s] English:** Sometimes, a reverent tremor when you watch the sunrise over a beautiful landscape.  
 **Translation:** 
 
-**[214.48s] English:** Она не похожа ни на одну игру, над которой когда-либо работал Джефф.  
-**Translation:** 
+**[214.48s] English:** She is unlike any game Jeff has ever worked on.  
+**Translation:** Vocabulary: reverent: 崇敬的; tremor: 震颤
 
-**[218.44s] English:** И я, честно говоря, с нетерпением жду, чтобы поиграть в нее вместе с вами.  
+**[218.44s] English:** I, honestly speaking, can't wait to play it with you.  
 **Translation:** 
 
-**[222.38s] English:** Ее уже можно добавить в желаемое в Стим.  
-**Translation:** 
+**[222.38s] English:** Her profile can already be added to your Steam wishlist.  
+**Translation:** Vocabulary: wishlist: 愿望清单
 
-**[225.02s] English:** Присоединяйтесь к альфа-тесту вроде бы в конце марта.  
+**[225.02s] English:** Join the alpha-test towards the end of March.  
 **Translation:** 
 
-**[228.20s] English:** Ранний доступ тоже на подходе.  
+**[228.20s] English:** Early access is also on the way.  
 **Translation:** 
 
-**[231.00s] English:** Это подкаст Лексо Фридмана.  
+**[231.00s] English:** This is the Lex Fridman Podcast.  
 **Translation:** 
 
-**[233.44s] English:** Поддержите нас, заглянув к спонсорам в описании.  
-**Translation:** 
+**[233.44s] English:** Support us by checking out the sponsors in the description.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[236.44s] English:** Там же вы найдете ссылки.  
+**[236.44s] English:** There, you will also find links.  
 **Translation:** 
 
-**[237.84s] English:** чтобы связаться со мной, задать вопросы,  
+**[237.84s] English:** To contact me or ask questions,  
 **Translation:** 
 
-**[240.00s] English:** Вопросы или оставить отзыв.  
+**[240.00s] English:** Questions or leave a review.  
 **Translation:** 
 
-**[243.08s] English:** А теперь, дорогие друзья, Джефф Каплан.  
+**[243.08s] English:** Now, dear friends, Jeff Kaplan.  
 **Translation:** 
 
-**[247.88s] English:** Ты ведь поначалу был легендарным игроком, особенно в такой игре, как Эверквест.  
+**[247.88s] English:** You were initially a legendary player, especially in a game like EverQuest.  
 **Translation:** 
 
-**[254.10s] English:** Прежде, чем стать легендарным гейм-дизайнером World of Warcraft и Overwatch.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
+**[254.10s] English:** Before becoming a legendary game designer for World of Warcraft and Overwatch.  
+**Translation:** Vocabulary: legendary: 传奇的; warcraft: 魔兽世界
 
-**[262.62s] English:** По-моему, это невероятный путь.  
+**[262.62s] English:** According to me, this is an incredible journey.  
 **Translation:** 
 
-**[265.18s] English:** От игрока до создателя игр.  
+**[265.18s] English:** From player to game creator.  
 **Translation:** 
 
-**[267.38s] English:** Но давай вернемся в самое начало.  
+**[267.38s] English:** But let's go back to the very beginning.  
 **Translation:** 
 
-**[269.36s] English:** Когда ты вообще полюбил видеоигры?  
+**[269.36s] English:** When did you start loving video games?  
 **Translation:** 
 
-**[272.00s] English:** Мне повезло.  
+**[272.00s] English:** I was lucky.  
 **Translation:** 
 
-**[273.86s] English:** Я родился в золотую эру игровых автоматов.  
+**[273.86s] English:** I was born in the golden age of slot machines.  
 **Translation:** 
 
-**[277.90s] English:** И я буквально помню, как впервые увидел Пакмэн.  
+**[277.90s] English:** I literally remember the first time I saw Pac-Man.  
 **Translation:** 
 
-**[282.70s] English:** Я был с дядей Ронни, и он мне все подкидывал монетки.  
-**Translation:** 
+**[282.70s] English:** I was with Uncle Ronnie, and he kept tossing me coins.  
+**Translation:** Vocabulary: tossing: 投掷
 
-**[286.80s] English:** Думаю, он сам хотел поиграть, но стеснялся, поэтому давал монетки своему маленькому племяннику на Пакмэна.  
+**[286.80s] English:** I think he wanted to play himself but was shy, so he gave coins to his little nephew for Pac-Man.  
 **Translation:** 
 
-**[295.90s] English:** Помню, был на выпускном брата в Филадельфии.  
+**[295.90s] English:** I remember being at my brother's graduation in Philadelphia.  
 **Translation:** 
 
-**[299.36s] English:** И в холле стоял автомат с астероидс.  
+**[299.36s] English:** In the lobby, there was an automatic gun from Asteroids.  
 **Translation:** 
 
-**[302.58s] English:** Это был один из первых игровых автоматов, в который я вообще играл.  
-**Translation:** 
+**[302.58s] English:** This was one of the first slot machines I ever played.  
+**Translation:** Vocabulary: asteroids: 太空城
 
-**[306.92s] English:** Мой брат и я...  
+**[306.92s] English:** My brother and I...  
 **Translation:** 
 
-**[310.00s] English:** Мы пытались побить рекорд, и у нас даже получалось.  
+**[310.00s] English:** We tried to break the record, and we were even succeeding.  
 **Translation:** 
 
-**[313.36s] English:** Но надо было идти ложиться спать пораньше, мы же были детьми.  
+**[313.36s] English:** But we had to go to bed earlier to get enough sleep, as we were children.  
 **Translation:** 
 
-**[317.22s] English:** А к утру уже кто-то успевал сбить наш рекорд.  
+**[317.22s] English:** By morning, someone had already managed to beat our record.  
 **Translation:** 
 
-**[320.76s] English:** А потом, ну, я рос в Южной Калифорнии в 80-х.  
+**[320.76s] English:** Then, in the 1980s, I grew up in Southern California.  
 **Translation:** 
 
-**[325.88s] English:** Родился в 72-м.  
-**Translation:** 
+**[325.88s] English:** Born in 1972.  
+**Translation:** Vocabulary: california: 加利福尼亚州
 
-**[327.44s] English:** Так что я был ребенком.  
+**[327.44s] English:** So I was a child.  
 **Translation:** 
 
-**[329.36s] English:** В эпохе культуры скейтбордов и BMX.  
-**Translation:** 
+**[329.36s] English:** In the era of skateboard and BMX culture.  
+**Translation:** Vocabulary: skateboard: 滑板
 
-**[333.32s] English:** Когда мы гоняли на великах за два города от дома.  
+**[333.32s] English:** When we rode bikes for two cities from home.  
 **Translation:** 
 
-**[336.56s] English:** Мы знали все пиццерии, винные магазины и залы игровых автоматов.  
+**[336.56s] English:** We knew all the pizza places, wine shops, and gambling halls.  
 **Translation:** 
 
-**[341.22s] English:** Мы жили в эпоху аркадных автоматов.  
+**[341.22s] English:** We lived in the era of arcade machines.  
 **Translation:** 
 
-**[343.92s] English:** Это было...  
-**Translation:** 
+**[343.92s] English:** This was...  
+**Translation:** Vocabulary: arcade: 街机时代
 
-**[345.44s] English:** С этого и началась моя любовь.  
+**[345.44s] English:** This is when my love began.  
 **Translation:** 
 
-**[347.78s] English:** А потом стали появляться такие вещи, как понг.  
+**[347.78s] English:** Then came such things as Pong.  
 **Translation:** 
 
-**[350.60s] English:** Приходишь к другу, а у него понг, и это сносило крышу.  
+**[350.60s] English:** You come over to your friend's place, and he has Pong, and it was insane.  
 **Translation:** 
 
-**[354.16s] English:** Мы играем в эту штуку на телеке.  
+**[354.16s] English:** We play this thing on the TV.  
 **Translation:** 
 
-**[356.30s] English:** И было невероятно весело.  
+**[356.30s] English:** It was incredibly fun.  
 **Translation:** 
 
-**[359.36s] English:** Атар...  
+**[359.36s] English:** Atar...  
 **Translation:** 
 
-**[359.62s] English:** Атар...  
+**[359.62s] English:** Atar...  
 **Translation:** 
 
-**[360.00s] English:** Atari в то время тоже была в ходу, но для меня главной была Intellivision, потому что мой отец был хэдхантером, и одним из его клиентов была компания Mattel, и он сказал, слушай, мне тут кое-что дали, и он получал скидки или даже бесплатные игры, и мы с братьями просто обожали Intellivision.  
-**Translation:** Vocabulary: intellivision: 智能电视
+**[360.00s] English:** Atari was also popular at the time, but for me, Intellivision was the main one because my father was a headhunter, and one of his clients was Mattel. He said, listen, they gave me something here, and he got discounts or even free games. My brothers and I just loved Intellivision.  
+**Translation:** Vocabulary: headhunter: 猎头; intellivision: 雅达利游戏机
 
-**[384.12s] English:** Мы рубились в нее без конца, и всегда сравнивали, насколько игры похожи на то, что было на аркадных автоматах.  
+**[384.12s] English:** We fought over it non-stop, and we always compared how the games resembled what was on arcade machines.  
 **Translation:** 
 
-**[393.02s] English:** Это была просто золотая эра, и я думаю, по-настоящему переломный момент, когда все взорвалось и вышло на новый уровень, это было появление NES.  
-**Translation:** 
+**[393.02s] English:** This was simply a golden era, and I think it was a truly pivotal moment when everything exploded and reached a new level—the appearance of the NES.  
+**Translation:** Vocabulary: exploded: 迅速发展; pivotal: 关键的; resembled: 类似
 
-**[406.68s] English:** И вот тогда NES Super Mario, это были игры совершенно нового уровня.  
+**[406.68s] English:** And then came NES Super Mario, these were games of a whole new level.  
 **Translation:** 
 
-**[414.12s] English:** Для того времени.  
+**[414.12s] English:** For that time.  
 **Translation:** Vocabulary: mario: 马里奥
 
-**[416.92s] English:** У меня до сих пор очень теплые, приятные чувства, когда я об этом вспоминаю.  
+**[416.92s] English:** I still have very warm, pleasant feelings when I think about it.  
 **Translation:** 
 
-**[422.16s] English:** Помню, мы с братьями неделями рубились в Super Mario, а потом ко мне пришел мой друг и показал все секреты в Super Mario, о которых я даже не подозревал.  
+**[422.16s] English:** I remember we brothers fought week after week in Super Mario, and then my friend came to show me all the secrets in Super Mario of which I had no idea.  
 **Translation:** 
 
-**[434.92s] English:** И мир как будто внезапно расширился, стал больше, и игры тоже стали чем-то большим.  
+**[434.92s] English:** And suddenly, the world seemed to expand, becoming bigger, and the games also became something more.  
 **Translation:** 
 
-**[442.18s] English:** Потом на меня сильно...  
+**[442.18s] English:** Then on me strongly...  
 **Translation:** 
 
-**[444.12s] English:** У меня сильно повлиял расцвет ПК-гейминга.  
+**[444.12s] English:** The rise of PC-gaming had a significant impact on me.  
 **Translation:** 
 
-**[446.92s] English:** У моих родителей был свой бизнес.  
+**[446.92s] English:** My parents had their own business.  
 **Translation:** 
 
-**[449.82s] English:** Как я говорил, отец был хедхантером, и они купили IBM.  
+**[449.82s] English:** As I said, my father was a headhunter, and they bought IBM.  
 **Translation:** 
 
-**[454.52s] English:** Это было еще во времена DOS, даже еще до появления MS-DOS.  
-**Translation:** 
+**[454.52s] English:** This was even in the days of DOS, before the advent of MS-DOS.  
+**Translation:** Vocabulary: advent: 出现; headhunter: 猎头
 
-**[459.68s] English:** И...  
+**[459.68s] English:** And...  
 **Translation:** 
 
-**[460.36s] English:** Я был так разочарован, ведь у других ребят были Amiga, или Commodore, которые, знаете, для игр подходили куда лучше, чем тогдашний IBM.  
-**Translation:** Vocabulary: amiga: 阿米加
+**[460.36s] English:** I was so disappointed because other boys had Amiga or Commodore computers, which were much better for gaming than the IBM at the time.  
+**Translation:** Vocabulary: amiga: 艾美加; commodore: Commodore
 
-**[473.24s] English:** И...  
+**[473.24s] English:** And...  
 **Translation:** 
 
-**[473.96s] English:** Моя мама очень поддерживала нас с братом.  
+**[473.96s] English:** My mom very much supported my brother and me.  
 **Translation:** 
 
-**[478.32s] English:** Она купила нам Zork.  
+**[478.32s] English:** She bought us Zork.  
 **Translation:** 
 
-**[480.00s] English:** Это были такие текстовые квесты от Инфоком,  
-**Translation:** 
+**[480.00s] English:** This was a text-based quest from Infocom.  
+**Translation:** Vocabulary: infocom: 信息通
 
-**[485.00s] English:** где всё держалось на твоём воображении.  
+**[485.00s] English:** Where everything held together in your imagination.  
 **Translation:** 
 
-**[487.94s] English:** Зоргс занимает в моём сердце особое место,  
-**Translation:** 
+**[487.94s] English:** Zorgs occupies a special place in my heart,  
+**Translation:** Vocabulary: occupies: 占据
 
-**[490.60s] English:** с которым, думаю, мало какая игра сравнится.  
+**[490.60s] English:** With which, I think, few games can compare.  
 **Translation:** 
 
-**[493.26s] English:** Это текстовый квест?  
+**[493.26s] English:** Is this a text quest?  
 **Translation:** 
 
-**[494.52s] English:** Да, текстовый квест.  
+**[494.52s] English:** Yes, a textual quest.  
 **Translation:** 
 
-**[496.46s] English:** Просто печатаешь «Идти назад», «Открыть ящик», понимаете, и...  
+**[496.46s] English:** Simply print "Go back," "Open the chest," you understand, and...  
 **Translation:** 
 
-**[503.52s] English:** Понятно.  
+**[503.52s] English:** Ponятно.  
 **Translation:** 
 
-**[504.08s] English:** В этом и заключается сила воображения,  
+**[504.08s] English:** This is where the power of imagination lies,  
 **Translation:** 
 
-**[507.18s] English:** поэтому книга всегда лучше фильма, ведь так?  
+**[507.18s] English:** Therefore, a book is always better than a movie, isn't it?  
 **Translation:** 
 
-**[509.38s] English:** Да, то есть ты увидел, как создаются миры, в которые можно погрузиться.  
-**Translation:** 
+**[509.38s] English:** Yes, you saw how worlds are created that you can immerse yourself in.  
+**Translation:** Vocabulary: immerse: 沉浸其中
 
-**[513.86s] English:** Да.  
+**[513.86s] English:** Yes.  
 **Translation:** 
 
-**[514.94s] English:** Ты можешь погрузиться в этот мир и раствориться в нём.  
+**[514.94s] English:** You can immerse yourself in this world and lose yourself in it.  
 **Translation:** 
 
-**[518.66s] English:** Да, ты переносишься туда, ты живёшь в нём.  
+**[518.66s] English:** Yes, you are transported there, you live in it.  
 **Translation:** 
 
-**[521.56s] English:** Зорг была популярной?  
-**Translation:** 
+**[521.56s] English:** Was Zorg popular?  
+**Translation:** Vocabulary: transported: 被带入
 
-**[523.28s] English:** Зорг была безумно популярной.  
+**[523.28s] English:** Zorg was incredibly popular.  
 **Translation:** 
 
-**[525.74s] English:** А потом вышли Зорг 2 и Зорг 3.  
+**[525.74s] English:** Then came Zorg 2 and Zorg 3.  
 **Translation:** 
 
-**[528.70s] English:** Трилогия. Трилогия Зорг, понятно. Ну хорошо.  
+**[528.70s] English:** Triology. Trilogy of Zorg, understood. Well, okay.  
 **Translation:** 
 
-**[532.00s] English:** И было странно, что потом, где-то в 90-х,  
-**Translation:** 
+**[532.00s] English:** It was strange that later, in the 90s,  
+**Translation:** Vocabulary: trilogy: 三部曲
 
-**[536.14s] English:** началась эпоха игр на сидеромах.  
+**[536.14s] English:** The era of games on CD-ROMs began.  
 **Translation:** 
 
-**[538.38s] English:** Их так и продвигали.  
+**[538.38s] English:** They were promoted that way.  
 **Translation:** 
 
-**[540.48s] English:** И они вернулись к Зорг, но на этот раз с графикой.  
+**[540.48s] English:** They returned to Zorg, but this time with graphics.  
 **Translation:** 
 
-**[544.58s] English:** И это почему-то всё разрушило, ведь тот Зорг, который ты себе воображал, больше не существовал.  
+**[544.58s] English:** And this somehow destroyed everything, for the Zorg you imagined no longer existed.  
 **Translation:** 
 
-**[552.18s] English:** Да, Зорг была потрясающей.  
+**[552.18s] English:** Yes, Zorg was amazing.  
 **Translation:** 
 
-**[554.78s] English:** Кажется, сейчас у неё открыт исходный код, и это, по-моему, великолепно,  
+**[554.78s] English:** It seems she has opened the source code now, and I think that's wonderful.  
 **Translation:** 
 
-**[560.28s] English:** но я очень рекомендую Зорг.  
+**[560.28s] English:** I highly recommend Zorg.  
 **Translation:** 
 
-**[562.98s] English:** Была ещё в те дни на ПК,  
+**[562.98s] English:** There was still a PC back in those days,  
 **Translation:** 
 
-**[566.98s] English:** ну то есть на ноутбуке,  
+**[566.98s] English:** Nu, that is on the laptop,  
 **Translation:** 
 
-**[568.38s] English:** на нашем IBM,  
-**Translation:** 
+**[568.38s] English:** On our IBM,  
+**Translation:** Vocabulary: laptop: 便携式电脑
 
-**[570.48s] English:** была игра Ultima.  
+**[570.48s] English:** There was a game called Ultima.  
 **Translation:** 
 
-**[572.58s] English:** Это такая серия Ричарда Гэриота.  
-**Translation:** Vocabulary: ultima: 最后一届
+**[572.58s] English:** This is a series by Richard Géhá.  
+**Translation:** Vocabulary: ultima: 最后的
 
-**[576.88s] English:** И он был лордом Бритишем, мы его так и знали, он добавил сам себя в игру.  
+**[576.88s] English:** He was Lord Brittingham, we knew him as such, and he added himself to the game.  
 **Translation:** 
 
-**[582.48s] English:** Вот это и есть настоящее создание мира.  
-**Translation:** 
+**[582.48s] English:** This is truly a masterpiece of the world.  
+**Translation:** Vocabulary: brittingham: 布里特温汉; masterpiece: 杰作
 
-**[585.68s] English:** Там был Тиссовый лес и все эти персонажи, и...  
+**[585.68s] English:** There was the Cottonwood Forest and all these characters, and...  
 **Translation:** 
 
-**[590.28s] English:** Первая Ultima, в которую я поиграл, была Ultima 2, потому что Ultima 1 вышла раньше.  
+**[590.28s] English:** The first Ultima I played was Ultima 2, because Ultima 1 came out earlier.  
 **Translation:** 
 
-**[595.48s] English:** И эта серия...  
+**[595.48s] English:** And this series...  
 **Translation:** 
 
-**[597.38s] English:** Это была такая РПГ...  
+**[597.38s] English:** This was such a RPG...  
 **Translation:** 
 
-**[599.38s] English:** Да, она была R Christopher.  
+**[599.38s] English:** Yes, she was R. Christopher.  
 **Translation:** 
 
-**[601.48s] English:** Это была R Cedric, которая вышла после Ultima 3.  
-**Translation:** Vocabulary: cedric: 塞德里克
+**[600.00s] English:** This is a party RPG for PC, and the worlds in it were so well-developed.  
+**Translation:** Vocabulary: christopher: 克里斯托弗
 
-**[604.38s] English:** Но saatce la victoria...  
+**[601.48s] English:** This was R Cedric, which came after Ultima 3.  
 **Translation:** 
 
-**[606.38s] English:** ...показывает нам, что мы думаем о том, что реальность от всего этого может быть во всем мире.  
-**Translation:** 
+**[604.38s] English:** But at the moment of victory,...  
+**Translation:** Vocabulary: cedric: 雷西德
 
-**[609.38s] English:** Большое спасибо всем, кто не рассмотрел, что это получилось.  
+**[606.38s] English:** ...shows us that we think about how reality might be different from all of this in the world.  
 **Translation:** 
 
-**[612.38s] English:** Спасибо за просмотр!  
-**Translation:** 
+**[606.74s] English:** It was possible to board a rocket ship and play in a fantasy world, fighting demons, and somehow still manage to board the rocket ship.  
+**Translation:** Vocabulary: demons: 恶魔
 
-**[614.38s] English:** До новых встреч, друзья.  
+**[609.38s] English:** Thank you all who didn't consider that this is what happened.  
 **Translation:** 
 
-**[616.38s] English:** И всем пока.  
+**[612.38s] English:** Thank you for watching!  
 **Translation:** 
 
-**[618.38s] English:** Удачи.  
+**[614.38s] English:** Until we meet again, friends.  
 **Translation:** 
 
-**[620.08s] English:** Спасибо.  
+**[615.12s] English:** There were also a bunch of other rather crazy things happening in the game world.  
 **Translation:** 
 
-**[621.18s] English:** Спасибо.  
+**[616.38s] English:** And to everyone, for now.  
 **Translation:** 
 
-**[622.28s] English:** phase 2  
+**[618.38s] English:** Good luck.  
 **Translation:** 
 
-**[626.98s] English:** по дому  
+**[620.08s] English:** Thank you.  
 **Translation:** 
 
-**[600.00s] English:** Это партийная РПГ для ПК, и миры в ней были настолько проработанными.  
+**[621.18s] English:** Thank you.  
 **Translation:** 
 
-**[606.74s] English:** Можно было сесть на ракетный корабль, ты играл в фантазийном мире, сражался с демонами, и при этом как-то мог сесть на ракетный корабль.  
+**[622.24s] English:** For example, in the cities there were bouncers and traders, but if one really wanted to, they could try to rob these people or kill Lord British, and this was incredibly difficult.  
 **Translation:** 
 
-**[615.12s] English:** И там была еще куча всяких своего рода безумных вещей, которые происходили в игровом мире.  
-**Translation:** 
+**[622.28s] English:** Phase 2  
+**Translation:** Vocabulary: bouncers: 门卫; traders: 商人
 
-**[622.24s] English:** Например, в городах были вышибалы и торговцы, но если очень захотеть, можно было попытаться ограбить этих людей или убить лорда Бритиша, и это было невероятно сложно.  
+**[626.98s] English:** In the house  
 **Translation:** 
 
-**[634.80s] English:** И когда ты мелкий сорванец, то ты тратишь вечность, пытаясь такое провернуть снова, снова и снова.  
-**Translation:** 
+**[634.80s] English:** When you're a mischievous little boy, you spend eternity trying to pull off such tricks again and again.  
+**Translation:** Vocabulary: mischievous: 调皮的
 
-**[642.72s] English:** Так что Ultima оставила у меня очень глубокие впечатления.  
+**[642.72s] English:** So, Ultima left me with very deep impressions.  
 **Translation:** 
 
-**[647.78s] English:** И конечно из нее выросла Ultima Online, тоже легендарная.  
-**Translation:** 
+**[647.78s] English:** Of course, it gave rise to Ultima Online, which is also legendary.  
+**Translation:** Vocabulary: legendary: 传奇的
 
-**[652.24s] English:** Игра, стоящая в одном ряду с EverQuest.  
+**[652.24s] English:** A game standing in the same league as EverQuest.  
 **Translation:** 
 
-**[654.88s] English:** Да.  
+**[654.88s] English:** Yes.  
 **Translation:** 
 
-**[655.30s] English:** Так и начали появляться эти массовые миры, многопользовательские онлайн игры.  
+**[655.30s] English:** So these mass virtual worlds, multiplayer online games, began to appear.  
 **Translation:** 
 
-**[662.02s] English:** Расскажи мне о своем пути, как ты попал в мир онлайн игр, в мир ММО.  
+**[662.02s] English:** Tell me about your journey into the world of online games, the MMO world.  
 **Translation:** 
 
-**[668.88s] English:** Что на тебя повлияло? Во что ты тогда играл?  
+**[668.88s] English:** What influenced you? What were you playing then?  
 **Translation:** 
 
-**[671.72s] English:** Ну, для меня главной игрой стал EverQuest.  
+**[671.72s] English:** Nu, for me, the main game became EverQuest.  
 **Translation:** 
 
-**[675.30s] English:** Но как ты и сказал, Ultima Online была ее предшественницей.  
+**[675.30s] English:** But as you said, Ultima Online was its predecessor.  
 **Translation:** 
 
-**[679.90s] English:** Она вышла раньше, чем EverQuest.  
-**Translation:** 
+**[679.90s] English:** She came out earlier than EverQuest.  
+**Translation:** Vocabulary: predecessor: 前作; ultima: 最终幻想Online
 
-**[682.24s] English:** И это был один из тех досадных моментов в моей жизни, когда я учился в аспирантуре.  
+**[682.24s] English:** And this was one of those frustrating moments in my life when I was in graduate school.  
 **Translation:** 
 
-**[688.24s] English:** Был занят.  
-**Translation:** 
+**[688.24s] English:** He was busy.  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[689.24s] English:** Да, я был занят, и пропустил Ultima Online.  
+**[689.24s] English:** Yes, I was busy and missed Ultima Online.  
 **Translation:** 
-
-**[693.24s] English:** А ведь мог бы в нее поиграть.  
-**Translation:** Vocabulary: ultima: 最终幻想外传
 
-**[695.24s] English:** А когда слышишь байки из Ultima Online, они одни из самых безумных, смешных, и...  
+**[693.24s] English:** Well, he could have played with her.  
 **Translation:** 
 
-**[701.24s] English:** И я знаю парня, который научился в игре варить яды,  
+**[695.24s] English:** When you hear stories from Ultima Online, they are some of the most insane, funny, and...  
 **Translation:** 
 
-**[706.24s] English:** потом отравлял яблоки, бросал их на землю,  
-**Translation:** 
+**[701.24s] English:** I know a guy who learned to make poisons in the game.  
+**Translation:** Vocabulary: poisons: 毒药
 
-**[710.24s] English:** а другой игрок пока бегал по земле, и...  
+**[706.24s] English:** Then he poisoned the apples, threw them on the ground,  
 **Translation:** 
 
-**[711.92s] English:** Бегал по миру, кормил этим яблоком свою лошадь, и она умирала.  
-**Translation:** 
+**[710.24s] English:** Another player was running around on the ground, and...  
+**Translation:** Vocabulary: poisoned: 毒害
 
-**[714.92s] English:** А потом он крал его вещи, и...  
+**[711.92s] English:** I ran around the world, feeding this apple to my horse, and she died.  
 **Translation:** 
 
-**[717.92s] English:** В общем, Ultima Online была своей...  
+**[714.92s] English:** Then he would steal his things, and...  
 **Translation:** 
 
-**[720.00s] English:** рода первым экспериментом по гриффингу серьезно там к людям относились как муравьям на муравьиной  
+**[717.92s] English:** In general, Ultima Online was its own...  
 **Translation:** 
 
-**[727.34s] English:** ферме вот такой было ультима онлайн так что он да но в целом для меня онлайн гейминг определили  
+**[720.00s] English:** Roda was the first experiment where people were treated seriously like ants in an ant colony.  
 **Translation:** 
 
-**[736.56s] English:** такие игры как quake doom и дюк нью кем все началось с doom где можно было играть по локалке  
+**[727.34s] English:** Here on the farm, it was like Ultima Online, so he said yes but in general, online gaming has defined me.  
 **Translation:** 
 
-**[748.50s] English:** соединиться со своими друзьями или по модему с кем-то еще это просто сносило башню просто увидеть  
+**[736.56s] English:** Such games as Quake, Doom, and Duke Nukem, where it all began with Doom, where you could play locally.  
 **Translation:** 
 
-**[758.16s] English:** другого игрока в игре и понять это же живой человек по ту сторону это было волшебство сам  
+**[748.50s] English:** To connect with your friends or via modem with someone else, it was just driving me crazy to see.  
 **Translation:** 
 
-**[766.14s] English:** этот миг это что тот человек мог быть в соседней комнате или на другом конце города quake вывел  
+**[758.16s] English:** The other player in the game and understand that it's a live person on the other side—that was magic, for me.  
 **Translation:** 
 
-**[774.12s] English:** все это на новый уровень там уже все понимают  
+**[766.14s] English:** This moment, this person could have been in the next room or at the other end of the city. Quake revealed.  
 **Translation:** 
 
-**[778.50s] English:** что к чему системы были отточеннее и вокруг quake сформировалось целое сообщество со всеми этими  
+**[774.12s] English:** All of this has gone to a new level; there, everyone already understands.  
 **Translation:** 
 
-**[786.90s] English:** крутыми сайтами и модами сообщество разделилась на две касты игроков одних называли низкопинговые  
+**[778.50s] English:** What was interesting was that the systems were more polished, and around Quake a whole community formed with all of these  
 **Translation:** 
 
-**[798.36s] English:** засранцы нпз и все остальные вроде нас я помню как залетал в матче в quake через dial-up модем  
-**Translation:** 
+**[786.90s] English:** The community divided into two castes of players: some were called low-ping players.  
+**Translation:** Vocabulary: castes: 阶层; polished: 精致
 
-**[808.50s] English:** в районе 300 и казалось что круче ничего быть не может и просто просто общение с людьми как я уже  
+**[798.36s] English:** Cheaters NPZ and all the rest, I remember how I used to connect in a match in Quake through a dial-up modem.  
 **Translation:** 
 
-**[819.38s] English:** говорил сайт и до сих пор единственный игровой сайт который я читаю а я больше не читаю новостники но я  
-**Translation:** 
+**[808.50s] English:** In the area of $300, and it seemed like nothing could be better. And just talking to people, as I already  
+**Translation:** Vocabulary: cheaters: 作弊者
 
-**[827.46s] English:** читаю blues news и меня меня тут недавно подкололи я как-то скинул ссылку и спрашиваю слышал тут новая  
+**[819.38s] English:** The site said, and it's still the only gaming site I read. Now that I don't read news sites anymore, but I  
 **Translation:** 
 
-**[838.50s] English:** версия а мне в ответ чувак это же  
-**Translation:** 
+**[827.46s] English:** I was reading Blues News and recently someone teased me. I posted a link and asked if they had heard the latest.  
+**Translation:** Vocabulary: teased: 嘲笑
 
-**[840.00s] English:** Блюз Ньюз. Ты из какой машины времени вылез? И парень по имени Стивен Хислип, наверное я  
+**[838.50s] English:** Version, a guy replied to me, this is also  
 **Translation:** 
 
-**[848.50s] English:** неправильно произношу его имя, извиняюсь за это, но именно через этот сайт я и узнал об Эверквест.  
+**[840.00s] English:** Blues News. You're from which time machine? And a guy named Stephen Hislip, I suppose I  
 **Translation:** 
 
-**[855.12s] English:** Там были эти плен файлы, обновления от программистов, и ребята вроде Кармака,  
+**[848.50s] English:** I'm pronouncing his name incorrectly, I apologize for that, but it's through this site that I learned about EverQuest.  
 **Translation:** 
 
-**[864.96s] English:** они рассказывали о том, какой код они пишут, или как что-то оптимизировали,  
-**Translation:** 
+**[855.12s] English:** There were these media files, updates from programmers, and guys like Carmack,  
+**Translation:** Vocabulary: carmack: 卡马克; programmers: 程序员
 
-**[871.34s] English:** или просто о своей жизни, типа разговоров про Феррари, которые вечно всплывали,  
+**[864.96s] English:** They talked about the code they were writing or how they optimized something.  
 **Translation:** 
 
-**[877.14s] English:** как только они становились успешными. И в ИД тогда работал программист Брайан Хук, и он написал,  
-**Translation:** 
+**[871.34s] English:** Or just about their lives, like conversations about Ferraris, which kept coming up forever,  
+**Translation:** Vocabulary: ferraris: 法拉利; optimized: 优化
 
-**[885.96s] English:** я ухожу из ИД, чтобы работать в Веранд, которая позже стала Sony Online, чтобы работать над игрой  
+**[877.14s] English:** As soon as they became successful, and at ID, there was a programmer named Brian Hook who wrote,  
 **Translation:** 
 
-**[893.96s] English:** Эверквест.  
+**[885.96s] English:** I left ID to work at Verand, which later became Sony Online, to work on a game.  
 **Translation:** 
 
-**[894.94s] English:** И я такой, как вообще можно уйти из ИД, величайшей компании в истории видеоигр,  
+**[893.96s] English:** Everquest.  
 **Translation:** 
 
-**[903.40s] English:** чтобы делать какую-то другую игру? Я подумал, этот парень должно быть спятил. Или что еще это  
-**Translation:** 
+**[894.94s] English:** And I wonder how one can leave ID, the greatest company in video game history,  
+**Translation:** Vocabulary: everquest: 永恒征途
 
-**[911.86s] English:** за Эверквест такой? Я должен это увидеть, должен понять, что там творится. И если бы не тот его  
+**[903.40s] English:** To make any other game? I thought this guy must have lost his mind. Or something else this?  
 **Translation:** 
 
-**[918.82s] English:** пост, я бы никогда не попробовал Эверквест. Мы еще вернемся к Эверквест, но раз уж ты вспомнил,  
+**[911.86s] English:** For EverQuest, is it really that bad? I should see it for myself and understand what's going on. And if it weren't for that guy,  
 **Translation:** 
 
-**[924.94s] English:** Кармака и Квейк, то скажи пару слов о гении Джона Кармака. Почему он был настолько важной и  
+**[918.82s] English:** Post, I would never have tried EverQuest. We'll get back to EverQuest, but since you mentioned it,  
 **Translation:** 
 
-**[931.36s] English:** влиятельной фигурой в истории игр? Те ранние гении из ИД, я бы здесь не сидел и не говорил бы с вами,  
-**Translation:** 
+**[924.94s] English:** Karma and Quake, say a few words about John Carmack's genius. Why he was so important and  
+**Translation:** Vocabulary: karma: 因果
 
-**[941.18s] English:** если бы не их прорывы. В то время игровые движки, конечно, развивались, но такого уровня прорыва,  
+**[931.36s] English:** A influential figure in the history of games? Those early geniuses in game development, I wouldn't be sitting here talking to you.  
 **Translation:** 
+
+**[941.18s] English:** If it weren't for their breakthroughs, game engines were certainly developing at the time, but nothing on that level of breakthrough,  
+**Translation:** Vocabulary: breakthroughs: 重大突破; geniuses: 天才; influential: 有影响力的
 
-**[954.94s] English:** какого они достигли с Wolfenstein 3D, я помню игры,  
+**[954.94s] English:** What they achieved with Wolfenstein 3D, I remember those games.  
 **Translation:** 
 
-**[960.00s] English:** Я играл в «Вольфенштейн», когда та была еще 2D-игрой.  
+**[960.00s] English:** I played "Wolfenstein" when it was still a 2D game.  
 **Translation:** Vocabulary: wolfenstein: 狼穴
 
-**[964.28s] English:** Там ты бегаешь, переодеваешься в нациста, кидаешь гранату.  
+**[964.28s] English:** There you run around, switch into a Nazi costume, and throw a grenade.  
 **Translation:** 
 
-**[969.54s] English:** И увидеть это в 3D...  
-**Translation:** 
+**[969.54s] English:** To see this in 3D...  
+**Translation:** Vocabulary: costume: 纳粹服装; grenade: 手榴弹
 
-**[971.26s] English:** Забавно, сейчас смотришь на скриншоты или видео из этой игры,  
+**[971.26s] English:** It's funny to look at screenshots or videos from this game now.  
 **Translation:** 
 
-**[975.98s] English:** и все это кажется почти детским садом.  
-**Translation:** 
+**[975.98s] English:** And all of this seems almost like a nursery school.  
+**Translation:** Vocabulary: nursery: 幼儿园
 
-**[978.94s] English:** Мол, ой, и чему вы тогда так радовались?  
+**[978.94s] English:** Mol, oh, and what were you so happy about then?  
 **Translation:** 
 
-**[982.84s] English:** А ведь ты полностью туда переносился.  
-**Translation:** 
+**[982.84s] English:** You did fully immerse yourself in it.  
+**Translation:** Vocabulary: immerse: 全身心投入
 
-**[985.98s] English:** Это близость вида от первого лица.  
+**[985.98s] English:** This is first-person point of view proximity.  
 **Translation:** 
 
-**[987.82s] English:** Ты понимаешь, вот руки перед тобой, ты держишь оружие,  
-**Translation:** 
+**[987.82s] English:** You understand? Here are your hands in front of you, and you're holding a weapon.  
+**Translation:** Vocabulary: proximity: 近距离
 
-**[991.84s] English:** переносишься в нацистскую Германию, и ты герой, сражающийся с нацистами.  
+**[991.84s] English:** You are transported to Nazi Germany, and you are a hero fighting against the Nazis.  
 **Translation:** 
 
-**[998.14s] English:** А потом эволюция.  
-**Translation:** 
+**[998.14s] English:** Then evolution.  
+**Translation:** Vocabulary: nazis: 纳粹; transported: 被运送
 
-**[999.98s] English:** Когда вышел «Дум», я...  
+**[999.98s] English:** When "Doom" was released, I...  
 **Translation:** 
 
-**[1001.76s] English:** Я большой фанат «Зловещих мертвецов».  
+**[1001.76s] English:** I am a big fan of "Evil Dead.  
 **Translation:** 
 
-**[1004.24s] English:** Это один из моих любимых фильмов.  
+**[1004.24s] English:** This is one of my favorite movies.  
 **Translation:** 
 
-**[1006.72s] English:** И я подумал, да это же «Армия тьмы» в виде компьютерной игры.  
+**[1006.72s] English:** I thought, this is definitely "Dark Army" as a computer game.  
 **Translation:** 
 
-**[1011.24s] English:** Понимаешь, это моя палка-стрелялка. Погнали.  
+**[1011.24s] English:** Do you understand? This is my toy gun. Let's go.  
 **Translation:** 
 
-**[1014.60s] English:** И графические улучшения...  
-**Translation:** 
+**[1014.60s] English:** And graphical improvements...  
+**Translation:** Vocabulary: graphical: 图形的
 
-**[1016.82s] English:** Да.  
+**[1016.82s] English:** Yes.  
 **Translation:** 
 
-**[1017.82s] English:** Но дело было не только в картинке, а в том, как игра ощущалась.  
+**[1017.82s] English:** But it was not just about the picture, but how the game felt.  
 **Translation:** 
 
-**[1022.38s] English:** Плавность становилась все лучше, и отзывчивость, и отточенность геймплея.  
+**[1022.38s] English:** Smoothness became better and better, with increased responsiveness and refined gameplay.  
 **Translation:** 
 
-**[1029.70s] English:** Тут надо отдать должное и до тех времен, Кармаку и Джону Ромеро.  
-**Translation:** 
+**[1029.70s] English:** Here, we must acknowledge Carmack and John Romero until those times.  
+**Translation:** Vocabulary: carmack: 卡马克; refined: 精炼; responsiveness: 响应性; romero: 罗梅罗
 
-**[1036.28s] English:** Я как человек, который делал шутеры, скажу, всего этого бы не было без них.  
+**[1036.28s] English:** I, as a person who made shooters, would say that none of this would be possible without them.  
 **Translation:** 
 
-**[1041.44s] English:** Надо отдать им должное.  
+**[1041.44s] English:** We have to give them credit.  
 **Translation:** 
 
-**[1042.74s] English:** Кстати, надо сказать, как у геймера у тебя поразительный диапазон.  
+**[1042.74s] English:** By the way, you have a remarkable range for a gamer.  
 **Translation:** 
 
-**[1047.82s] English:** Ты ярый фанат шутеров от первого лица, но при этом, очевидно, любишь и ММО с их огромными мирами для исследования.  
-**Translation:** 
+**[1047.82s] English:** You are a fervent fan of first-person shooters, but it's evident that you also enjoy MMORPGs with their vast worlds to explore.  
+**Translation:** Vocabulary: fervent: 热情的; gamer: 玩家
 
-**[1058.44s] English:** Так что это удивительно.  
+**[1058.44s] English:** So, that is amazing.  
 **Translation:** 
 
-**[1059.64s] English:** Но да, в технологиях, которые позволили воплотить что-то вроде Quake или Wolfenstein 3D в жизнь,  
-**Translation:** 
+**[1059.64s] English:** But indeed, in the technologies that allowed something like Quake or Wolfenstein 3D to come to life,  
+**Translation:** Vocabulary: wolfenstein: 狼穴
 
-**[1066.56s] English:** есть некий порог реализма, который...  
+**[1066.56s] English:** There is a certain threshold of realism, which...  
 **Translation:** 
 
-**[1070.50s] English:** Ты перешагиваешь и можешь погрузиться в этот мир.  
-**Translation:** 
+**[1070.50s] English:** You step in and can immerse yourself in this world.  
+**Translation:** Vocabulary: immerse: 沉浸; threshold: 门槛
 
-**[1073.42s] English:** У меня были ровно те же ощущения, когда Wolfenstein...  
+**[1073.42s] English:** I had exactly the same feelings when playing Wolfenstein....  
 **Translation:** 
 
-**[1076.64s] English:** Из 2D перешел в...  
+**[1076.64s] English:** From 2D, I went into...  
 **Translation:** 
 
-**[1080.00s] English:** 3d и это было просто до слез я думал это невероятно в моих воспоминаниях  
+**[1080.00s] English:** This was just incredible, to tears. I thought it was unbelievable in my memories.  
 **Translation:** 
 
-**[1088.24s] English:** wolfenstein 3d был ультра реалистичным сейчас это конечно звучит глупо было  
-**Translation:** Vocabulary: wolfenstein: 狼穴游戏
+**[1088.24s] English:** Wolfenstein 3D was ultra realistic. Now, of course, this sounds silly, but it was.  
+**Translation:** Vocabulary: ultra: 极度的
 
-**[1094.94s] English:** ощущение что ты там да что за невероятная эпоха и отчасти дело в  
+**[1094.94s] English:** It feels like you're there, and what an incredible era it is. Partly it's due to  
 **Translation:** 
 
-**[1100.18s] English:** повествовании но в большей степени это заслуга технологии которые оживили тот  
-**Translation:** 
+**[1100.18s] English:** In the narration, but to a greater extent, this is the merit of the technology that brought that to life.  
+**Translation:** Vocabulary: merit: 价值; narration: 讲述
 
-**[1104.68s] English:** трехмерный мир это потрясающе но пока мы не ушли слишком  
+**[1104.68s] English:** Three-dimensional worlds are amazing, but we haven't ventured too far yet.  
 **Translation:** 
 
-**[1109.12s] English:** далеко от темы ты упомянул аспирантуру стоит отметить что у тебя степень  
-**Translation:** 
+**[1109.12s] English:** Far from the topic, you mentioned the postgraduate program. It's worth noting that you have a degree.  
+**Translation:** Vocabulary: postgraduate: 研究生
 
-**[1117.52s] English:** магистра по писательскому мастерству и ты хотел стать писателем ты говорил что  
+**[1117.52s] English:** Magister in writing mastery, and you wanted to become a writer; you said that  
 **Translation:** 
 
-**[1124.02s] English:** на тебя повлияли кирвак а еще хемингуэй селенджер буковский и оруэлл что  
+**[1124.02s] English:** The following influenced you: Kerouac, Hemingway, Señorčik, Bukowski, and Orwell.  
 **Translation:** 
 
-**[1130.88s] English:** привлекло тебя в повествовании именно в литературной форме какую часть  
+**[1130.88s] English:** What part of the narration in literary form attracted you?  
 **Translation:** 
 
-**[1135.82s] English:** человеческого опыта ты пытался перенести на бумагу  
+**[1135.82s] English:** You tried to transfer human experience onto paper.  
 **Translation:** 
 
-**[1138.88s] English:** а  
+**[1138.88s] English:** А  
 **Translation:** 
 
-**[1139.12s] English:** ну все началось с того что я сам был фанатом и меня вдохновляло то что я  
+**[1139.12s] English:** Nu, everything began with the fact that I was a fan myself and what inspired me was that.  
 **Translation:** 
 
-**[1144.56s] English:** читал и тебя они просто переносят в другой мир или дают почувствовать  
+**[1144.56s] English:** They read and you they simply transport you to another world or allow you to feel.  
 **Translation:** 
 
-**[1150.98s] English:** другим человеком но еще и то еще то как истории могут тронуть за живое вызывая  
+**[1150.98s] English:** Another person, but also something else, as stories can touch us deeply, causing  
 **Translation:** 
 
-**[1164.02s] English:** чувства о которых ты даже не подозревал и это меняло тот момент когда ты стал  
+**[1164.02s] English:** Feelings of which you even weren't aware, and this changed the moment when you became  
 **Translation:** 
 
-**[1168.88s] English:** меня очень привлекало, и главная сложность в том,  
+**[1168.88s] English:** It very much attracted me, and the main difficulty was in that,  
 **Translation:** 
 
-**[1175.12s] English:** и думаю это касается всех Творцов, чего угодно, нужно  
+**[1175.12s] English:** And I think it affects all Creators, whatever, needed.  
 **Translation:** 
 
-**[1179.70s] English:** открыться другим.  
+**[1179.70s] English:** To open up to others.  
 **Translation:** 
 
-**[1183.04s] English:** Отчасти в этом много эго, когда ты говоришь себе,  
+**[1183.04s] English:** Partly in this there is a lot of ego when you tell yourself,  
 **Translation:** 
 
-**[1187.50s] English:** так, я прочитал скажем 1984 или «Зеленые холмы Тернистой  
-**Translation:** 
+**[1187.50s] English:** So, I read 1984 or Green Hills of Tennyson.  
+**Translation:** Vocabulary: tennyson: 丁尼生
 
-**[1195.56s] English:** долины», и это потрясающе.  
+**[1195.56s] English:** Dolines," and that's amazing.  
 **Translation:** 
 
-**[1200.00s] English:** И теперь я попробую написать что-то, что кто-нибудь, возможно, прочтет.  
+**[1200.00s] English:** Now I will try to write something that someone, perhaps, might read.  
 **Translation:** 
 
-**[1206.12s] English:** Это огромный прыжок веры.  
+**[1206.12s] English:** This is an enormous leap of faith.  
 **Translation:** 
 
-**[1208.50s] English:** Момент, когда ты полностью раскрываешься, и в этом определенно что-то есть.  
-**Translation:** 
+**[1208.50s] English:** Moments when you fully blossom, and there is definitely something to that.  
+**Translation:** Vocabulary: blossom: 绽放
 
-**[1215.44s] English:** Отчасти это эго, отчасти это даже мазохизм.  
+**[1215.44s] English:** Partly it is ego, partly it is even masochism.  
 **Translation:** 
 
-**[1219.82s] English:** Но мне кажется, люди, которые хотят творить и что-то создавать, просто не могут не творить.  
-**Translation:** 
+**[1219.82s] English:** But I think people who want to create and make something just can't help but create.  
+**Translation:** Vocabulary: masochism: 自虐倾向
 
-**[1227.96s] English:** По сути, у тебя нет выбора.  
+**[1227.96s] English:** In essence, you have no choice.  
 **Translation:** 
 
-**[1230.46s] English:** Ты попросту так устроен, что все равно будешь это делать.  
+**[1230.46s] English:** You are simply constructed in such a way that you will always do this.  
 **Translation:** 
 
-**[1234.84s] English:** И знаешь, я восхищаюсь такими, как Эмили Диккенсон,  
+**[1234.84s] English:** Do you know, I admire people like Emily Dickinson,  
 **Translation:** 
 
-**[1239.14s] English:** которая просто писала стихи и оставляла их в ящике стола, чтобы их нашел кто-то другой.  
-**Translation:** 
+**[1239.14s] English:** Which simply wrote poems and left them in the desk drawer, for someone else to find.  
+**Translation:** Vocabulary: dickinson: 狄金森; emily: 艾米丽
 
-**[1244.60s] English:** Это один из подходов.  
+**[1244.60s] English:** This is one of the approaches.  
 **Translation:** 
 
-**[1246.46s] English:** Да, Франц Кавка.  
-**Translation:** 
+**[1246.46s] English:** Yes, Franz Kafka.  
+**Translation:** Vocabulary: approaches: 方法; kafka: 卡夫卡
 
-**[1248.44s] English:** Многие его рассказы так и не были опубликованы.  
+**[1248.44s] English:** Many of his stories were never published.  
 **Translation:** 
 
-**[1250.90s] English:** Он ведь просил, чтобы их все уничтожили.  
+**[1250.90s] English:** He did ask that they all be destroyed.  
 **Translation:** 
 
-**[1254.70s] English:** И лишь благодаря его другу, который проигнорировал просьбу,  
+**[1254.70s] English:** And only thanks to his friend, who ignored the request,  
 **Translation:** 
 
-**[1259.28s] English:** мы вообще...  
+**[1259.28s] English:** We, in general,...  
 **Translation:** 
 
-**[1260.00s] English:** Мы вообще знаем многие его произведения.  
+**[1260.00s] English:** We actually know many of his works.  
 **Translation:** 
 
-**[1262.90s] English:** Быть таким...  
+**[1262.90s] English:** To be like that,...  
 **Translation:** 
 
-**[1264.00s] English:** Ну, то есть здесь явно есть мазохизм.  
+**[1264.00s] English:** Nu, that is, here it's clearly masochism.  
 **Translation:** 
 
-**[1266.86s] English:** Какая-то измученная душа.  
+**[1266.86s] English:** Some poor soul is exhausted.  
 **Translation:** 
 
-**[1268.54s] English:** Да.  
+**[1268.54s] English:** Yes.  
 **Translation:** 
 
-**[1269.00s] English:** Но, как ты сказал, есть и эго.  
+**[1269.00s] English:** But, as you said, there is also the ego.  
 **Translation:** 
 
-**[1271.12s] English:** Меня позабавила история про Джеймса Джойса.  
+**[1271.12s] English:** The story about James Joyce amused me.  
 **Translation:** 
 
-**[1274.44s] English:** Про то, когда он был молод, лет 18-19,  
-**Translation:** 
+**[1274.44s] English:** About when he was young, around 18-19 years old,  
+**Translation:** Vocabulary: joyce: 乔伊斯
 
-**[1279.06s] English:** и он заявил, что станет величайшим писателем 20 века.  
+**[1279.06s] English:** He declared that he would become the greatest writer of the 20th century.  
 **Translation:** 
 
-**[1284.72s] English:** И в итоге, по мнению многих, он и стал одним из величайших в 20 веке.  
+**[1284.72s] English:** In the end, according to many, he became one of the greatest of the 20th century.  
 **Translation:** 
 
-**[1289.00s] English:** В 20 веке.  
+**[1289.00s] English:** In the 20th century.  
 **Translation:** 
 
-**[1290.00s] English:** Но ведь миллионы таких же ребят, как Джеймс Джойс,  
+**[1290.00s] English:** But millions of boys like James Joyce,  
 **Translation:** 
 
-**[1293.64s] English:** писателей, которые заявляют то же самое, но не становятся такими.  
+**[1293.64s] English:** Writers who claim the same thing, but don't become as famous.  
 **Translation:** 
 
-**[1297.64s] English:** Но в некоторых, многих, а может и в большинстве случаев,  
+**[1297.64s] English:** But in some, many, and perhaps in most cases,  
 **Translation:** 
 
-**[1301.68s] English:** нужно иметь это эго.  
+**[1301.68s] English:** Need to have this ego.  
 **Translation:** 
 
-**[1303.20s] English:** Да.  
+**[1303.20s] English:** Yes.  
 **Translation:** 
 
-**[1303.54s] English:** Чтобы заявить, я...  
+**[1303.54s] English:** To claim, I...  
 **Translation:** 
 
-**[1304.80s] English:** Да, я прочитал 1984,  
+**[1304.80s] English:** Yes, I have read 1984.  
 **Translation:** 
 
-**[1308.58s] English:** и напишу следующий такой роман.  
+**[1308.58s] English:** And I will write the next such novel.  
 **Translation:** 
 
-**[1310.40s] English:** Да, и...  
+**[1310.40s] English:** Yes, and...  
 **Translation:** 
 
-**[1311.58s] English:** И думаю, эго здесь играет огромную роль.  
+**[1311.58s] English:** I think ego plays an enormous role here.  
 **Translation:** 
 
-**[1314.52s] English:** Это один из многих уроков, что я выучил.  
+**[1314.52s] English:** This is one of many lessons that I have learned.  
 **Translation:** 
 
-**[1317.90s] English:** Забавно, что ты упомянул Кавку,  
+**[1317.90s] English:** It's funny that you mentioned Cavka.  
 **Translation:** 
 
-**[1319.72s] English:** потому что...  
+**[1319.72s] English:** Because...  
 **Translation:** 
 
-**[1320.00s] English:** потому что моя писательская карьера закончилась очень похоже.  
+**[1320.00s] English:** Because my writing career ended very similarly.  
 **Translation:** 
 
-**[1324.18s] English:** Я буквально выбросил все, что написал, в мусорный бак.  
+**[1324.18s] English:** I literally threw everything I wrote in the trash.  
 **Translation:** 
 
-**[1327.86s] English:** Я вел подробные дневники, записи, писательские журналы.  
+**[1327.86s] English:** I kept detailed diaries, notes, and writer's journals.  
 **Translation:** 
 
-**[1333.62s] English:** Записывал все, что читал, каждую идею для рассказа.  
+**[1333.62s] English:** Recorded everything I read, every idea for a story.  
 **Translation:** 
 
-**[1336.96s] English:** У меня было, наверное, томов 20 рукописных заметок.  
+**[1336.96s] English:** I had, I suppose, about 20 handwritten notes.  
 **Translation:** 
 
-**[1341.86s] English:** И еще я вел личные дневники, просто чтобы не терять писательскую привычку.  
-**Translation:** 
+**[1341.86s] English:** I also kept personal diaries just to avoid losing my writing habit.  
+**Translation:** Vocabulary: handwritten: 手工写的
 
-**[1347.36s] English:** Записывал, что случилось за день, свои чувства, все такое.  
+**[1347.36s] English:** I recorded what happened during the day, my feelings, and everything like that.  
 **Translation:** 
 
-**[1351.34s] English:** К тому же у меня были все рукописи как в цифровом, так и в печатном виде.  
-**Translation:** 
+**[1351.34s] English:** In addition, I had all the manuscripts in both digital and printed form.  
+**Translation:** Vocabulary: manuscripts: 手稿
 
-**[1357.40s] English:** И я все это выкинул в мусорку.  
+**[1357.40s] English:** I threw all of it in the trash.  
 **Translation:** 
 
-**[1360.24s] English:** И что это было за решение? Ты помнишь этот момент?  
+**[1360.24s] English:** What was that decision? Do you remember that moment?  
 **Translation:** 
 
-**[1363.32s] English:** Каково это, просто взять часть своей жизни и выбросить ее в мусор?  
+**[1363.32s] English:** What is it like to just take a part of your life and throw it away in the trash?  
 **Translation:** 
 
-**[1370.46s] English:** Да, думаю, что... думаю, это было необходимо.  
+**[1370.46s] English:** Yes, I think that... I think it was necessary.  
 **Translation:** 
 
-**[1375.76s] English:** Просто необходимо.  
+**[1375.76s] English:** Simply necessary.  
 **Translation:** 
 
-**[1376.98s] English:** Это было необходимо.  
+**[1376.98s] English:** This was necessary.  
 **Translation:** 
 
-**[1377.06s] English:** Это было необходимо.  
+**[1377.06s] English:** This was necessary.  
 **Translation:** 
 
-**[1377.34s] English:** Это был пример того, как легко находить чему-то рациональное объяснение задним числом.  
-**Translation:** 
+**[1377.34s] English:** This was an example of how easily one can find a rational explanation for something hindsight.  
+**Translation:** Vocabulary: hindsight: 事后诸葛
 
-**[1382.70s] English:** Да.  
+**[1382.70s] English:** Yes.  
 **Translation:** 
 
-**[1383.70s] English:** Но в тот момент, я думаю, был настолько сломлен и столь подавлен неудачами,  
+**[1383.70s] English:** But at that moment, I think, he was so broken and overwhelmed by failures,  
 **Translation:** 
 
-**[1392.00s] English:** что мне это было необходимо.  
+**[1392.00s] English:** What was this necessary for me?  
 **Translation:** 
 
-**[1394.16s] English:** Это как выбросить белое полотенце в боксе.  
+**[1394.16s] English:** This is like throwing a white towel into a boxing ring.  
 **Translation:** 
 
-**[1397.12s] English:** Тот момент, когда понимаешь, мне в этом бою не победить,  
+**[1397.12s] English:** That moment when I realized, in this battle, I won't win,  
 **Translation:** 
 
-**[1401.90s] English:** и нужно двигаться дальше.  
+**[1401.90s] English:** And we need to move forward.  
 **Translation:** 
 
-**[1404.26s] English:** И если бы что-то из этого осталось,  
+**[1404.26s] English:** If anything from this were left,  
 **Translation:** 
 
-**[1407.04s] English:** осталось где-то рядом со мной,  
+**[1407.04s] English:** It remained somewhere nearby me,  
 **Translation:** 
 
-**[1409.94s] English:** то у меня был бы соблазн вернуться к этому или достать все из ящика лет через 10.  
+**[1409.94s] English:** That would give me a temptation to return to this or dig everything out of the box in about 10 years.  
 **Translation:** 
 
-**[1414.96s] English:** Но стоит ведь упомянуть, что ты правда пытался.  
-**Translation:** 
+**[1414.96s] English:** But it's worth mentioning that you really did try.  
+**Translation:** Vocabulary: temptation: 诱惑
 
-**[1419.24s] English:** Ты говорил, что получил больше 170 отказов за год, рассылая свои рассказы.  
+**[1419.24s] English:** You said you received more than 170 rejections for your stories by sending them out over the course of a year.  
 **Translation:** 
 
-**[1426.52s] English:** Отказов было очень много.  
+**[1426.52s] English:** There were a lot of failures.  
 **Translation:** 
 
-**[1428.10s] English:** Да.  
+**[1428.10s] English:** Yes.  
 **Translation:** 
 
-**[1428.52s] English:** Сплошная череда отказов.  
-**Translation:** 
+**[1428.52s] English:** A constant string of rejections.  
+**Translation:** Vocabulary: rejections: 拒绝
 
-**[1430.88s] English:** И постоянно их получать.  
+**[1430.88s] English:** And constantly receive them.  
 **Translation:** 
 
-**[1433.26s] English:** Каково это?  
+**[1433.26s] English:** What is it like?  
 **Translation:** 
 
-**[1433.86s] English:** Было тяжело.  
+**[1433.86s] English:** It was heavy.  
 **Translation:** 
 
-**[1436.10s] English:** Я как раз уехал...  
+**[1436.10s] English:** I just left...  
 **Translation:** 
 
-**[1437.04s] English:** Я как раз уехал из Нью-Йорка.  
+**[1437.04s] English:** I just left New York.  
 **Translation:** 
 
-**[1438.64s] English:** Я сделал ужасную...  
+**[1438.64s] English:** I made an awful...  
 **Translation:** 
 
-**[1440.00s] English:** глупость и понимал это даже тогда, потому что в Нью-Йорке у меня была отличная компания друзей  
+**[1440.00s] English:** Stupidity, and I even understood this at the time, because in New York, I had a great company of friends.  
 **Translation:** 
 
-**[1446.12s] English:** писателей по аспирантуре. А писательство это очень одинокое и замкнутое занятие, но как ни  
-**Translation:** 
+**[1446.12s] English:** Writers in graduate school. And writing is a very solitary and enclosed occupation, but howbeit  
+**Translation:** Vocabulary: howbeit: 然而; solitary: 孤独; stupidity: 愚蠢
 
-**[1452.72s] English:** странно писатели друг друга очень поддерживают. Да и кому дашь почитать свой рассказ, ведь не  
+**[1452.72s] English:** Strangely, writers support each other very much. After all, to whom would you give your story to read, since not everyone appreciates them?  
 **Translation:** 
 
-**[1457.96s] English:** хочется давать его маме или папе, хочется дать его тому, кто врежет тебе по носу и скажет,  
-**Translation:** 
+**[1457.96s] English:** I want to give it to my mom or dad, or to someone who gives me a good punch in the nose and then says,  
+**Translation:** Vocabulary: strangely: 奇怪地
 
-**[1463.88s] English:** что в нем не так. И я покинул этот писательский круг, чтобы вернуться в Калифорнию.  
+**[1463.88s] English:** What's wrong with it. And I left this literary circle to return to California.  
 **Translation:** 
 
-**[1469.94s] English:** Ты что, закинулся наркотой, взял печатную машинку и поехал через все...  
-**Translation:** 
+**[1469.94s] English:** You must be high on drugs to have taken a typewriter and gone through all...  
+**Translation:** Vocabulary: california: 加利福尼亚; typewriter: 打字机
 
-**[1475.10s] English:** Да нет же.  
+**[1475.10s] English:** No, not at all.  
 **Translation:** 
 
-**[1476.30s] English:** Через все штаты, а потом написал об этом книгу? Или, ну, как тот же Керуак? В общем, извини,  
-**Translation:** 
+**[1476.30s] English:** Through all the states, and then wrote a book about it? Or, you know, like Kerouac? Anyway, sorry.  
+**Translation:** Vocabulary: kerouac: 垮掉的一代作家
 
-**[1483.90s] English:** ты просто... Может я и был бы успешнее, если бы так и сделал.  
+**[1483.90s] English:** You just... Maybe I would have been more successful if I had done it that way.  
 **Translation:** 
 
-**[1487.06s] English:** Прости, так ты вернулся?  
+**[1487.06s] English:** Sorry, so you returned?  
 **Translation:** 
 
-**[1488.34s] English:** В общем, я вернулся в Калифорнию ради девушки и...  
+**[1488.34s] English:** In general, I returned to California for the girl and...  
 **Translation:** 
 
-**[1493.88s] English:** Уже через два месяца после переезда мы расстались. Причем я знал это еще когда стоял посреди  
-**Translation:** 
+**[1493.88s] English:** Already two months after moving in, we broke up. In fact, I knew it even when I stood there amidst  
+**Translation:** Vocabulary: amidst: 在……中间
 
-**[1501.12s] English:** своей пустой нью-йоркской студии и собирался в последний раз закрыть дверь. Тогда у меня в  
+**[1501.12s] English:** In his empty New York studio and he was about to close the door for the last time. Then it was  
 **Translation:** 
 
-**[1507.02s] English:** голове звучал голосок, который говорил... Чувак, ты что творишь? Ты совершаешь одну из тех эпичных  
+**[1507.02s] English:** Headphones played a voice that said... Dude, what are you doing? You're pulling off one of those epic  
 **Translation:** 
 
-**[1515.54s] English:** жизненных ошибок, которые тебе еще аукнутся. Так я... Так я и остался один в Калифорнии,  
+**[1515.54s] English:** Life's mistakes, which will still catch up with you. So I... so I ended up alone in California.  
 **Translation:** 
 
-**[1522.98s] English:** и, по-моему, это было очень сложно. Я не знал, что это было. Я не знал, что это было. Я не знал, что это было. Я не знал, что это было. Я не знал, что это было.  
+**[1522.98s] English:** And, as I recall, it was very difficult. I didn't know what it was. I didn't know what it was. I didn't know what it was. I didn't know what it was. I didn't know what it was.  
 **Translation:** 
 
-**[1523.88s] English:** Я, по-моему, добрых три года выстраивал свою жизнь так, чтобы писать по восемь часов в день,  
+**[1523.88s] English:** I, apparently, spent about three years building my life so that I could write for eight hours a day.  
 **Translation:** 
 
-**[1531.58s] English:** потому что это писательская привычка. Нужно себя заставлять. Это работа, а не хобби.  
+**[1531.58s] English:** Because it's a writer's habit. You need to force yourself. It's work, not a hobby.  
 **Translation:** 
 
-**[1538.76s] English:** Хочешь, не хочешь, в любую погоду, больной или здоровой, я буду писать по восемь часов в день.  
+**[1538.76s] English:** Do you want or not, in any weather, sick or healthy, I will write for eight hours a day.  
 **Translation:** 
 
-**[1545.38s] English:** Так я и делал, и мне повезло. Как я говорил, у отца была своя компания, и он нанял меня  
+**[1545.38s] English:** So I did, and I was lucky. As I said, my father had his own company, and he hired me.  
 **Translation:** 
 
-**[1552.18s] English:** ассистентом-исследователем.  
+**[1552.18s] English:** Assistant Researcher.  
 **Translation:** 
 
-**[1554.30s] English:** Я обзванивал людей, составлял списки имен для рекрутинга.  
-**Translation:** 
+**[1554.30s] English:** I called people and compiled lists of names for recruiting.  
+**Translation:** Vocabulary: compiled: 整理; recruiting: 招聘
 
-**[1558.20s] English:** Я всегда брал задания по восстановлению  
+**[1558.20s] English:** I always took on tasks related to restoration.  
 **Translation:** 
 
-**[1560.00s] English:** к восточному побережью, чтобы начинать часов в 5 утра.  
+**[1560.00s] English:** To the eastern coast to start at around 5 a.m.  
 **Translation:** 
 
-**[1564.24s] English:** Так я освобождал себе время, чтобы писать.  
+**[1564.24s] English:** So I freed up time to write.  
 **Translation:** 
 
-**[1568.16s] English:** У меня была собака по кличке Джек.  
+**[1568.16s] English:** I had a dog named Jack.  
 **Translation:** 
 
-**[1571.96s] English:** Это был Джек Рассел Терьер, и все, конечно, говорили,  
+**[1571.96s] English:** This was a Jack Russell Terrier, and of course, everyone used to say,  
 **Translation:** 
 
-**[1575.12s] English:** «Ты же писатель, и назвал своего Джек Рассела Джеком».  
-**Translation:** 
+**[1575.12s] English:** Since you're a writer and you named your Jack Russell 'Jack'.  
+**Translation:** Vocabulary: terrier: 㹴犬
 
-**[1578.48s] English:** А я такой, «Я назвал его в честь Джека Керуака, это же поэтично и эпично».  
+**[1578.48s] English:** I'm like, "I named him after Jack Kerouac; it's poetic and epic.  
 **Translation:** 
 
-**[1582.78s] English:** Но выглядел полным идиотом.  
-**Translation:** 
+**[1582.78s] English:** But he looked like a complete idiot.  
+**Translation:** Vocabulary: kerouac: 杰克·凯鲁亚克; poetic: 富有诗意的
 
-**[1584.60s] English:** В общем, были только я и эта собака.  
+**[1584.60s] English:** In general, there was just me and this dog.  
 **Translation:** 
 
-**[1586.48s] English:** И я все это время очень усердно писал.  
-**Translation:** 
+**[1586.48s] English:** I wrote very diligently all this time.  
+**Translation:** Vocabulary: diligently: 勤奋地
 
-**[1590.00s] English:** А это была середина-конец 90-х, и хотя интернет уже был,  
+**[1590.00s] English:** This was around the mid-to-late 1990s, and although the internet already existed,  
 **Translation:** 
 
-**[1596.86s] English:** но электронная почта была очень примитивной,  
+**[1596.86s] English:** Email was very primitive,  
 **Translation:** 
 
-**[1599.96s] English:** и рукописи приходилось отсылать по почте в бумажном виде.  
+**[1599.96s] English:** And manuscripts had to be sent by mail in paper form.  
 **Translation:** 
 
-**[1604.26s] English:** Я пытался публиковаться в разных литературных журналах,  
-**Translation:** 
+**[1604.26s] English:** I tried publishing in different literary journals,  
+**Translation:** Vocabulary: manuscripts: 手稿
 
-**[1610.00s] English:** а к рукописи нужно было прикладывать конверт с обратным адресом и маркой.  
+**[1610.00s] English:** To the manuscript, a envelope with return address and stamp needed to be attached.  
 **Translation:** 
 
-**[1615.04s] English:** Так что это было еще и дорого.  
-**Translation:** 
+**[1615.04s] English:** So, it was also expensive.  
+**Translation:** Vocabulary: manuscript: 手稿
 
-**[1617.40s] English:** А если у тебя нет денег...  
+**[1617.40s] English:** If you don't have any money...  
 **Translation:** 
 
-**[1619.04s] English:** Потому что каждую отправку приходилось платить.  
+**[1619.04s] English:** Because each send required payment.  
 **Translation:** 
 
-**[1622.54s] English:** То есть приходилось платить за отказ, который ты, скорее всего, получишь.  
+**[1622.54s] English:** That is, we had to pay for a refusal that you're likely to get anyway.  
 **Translation:** 
 
-**[1626.80s] English:** Да.  
+**[1626.80s] English:** Yes.  
 **Translation:** 
 
-**[1627.54s] English:** И максимум, на что тебе оставалось надеяться,  
+**[1627.54s] English:** And the maximum you could hope for was,  
 **Translation:** 
 
-**[1630.80s] English:** это что редактор черкнет тебе пару строк вместе с отказом.  
-**Translation:** 
+**[1630.80s] English:** This is what the editor will scribble a couple of lines with a rejection.  
+**Translation:** Vocabulary: rejection: 拒绝; scribble: 潦草地写
 
-**[1635.80s] English:** Вроде...  
+**[1635.80s] English:** Like...  
 **Translation:** 
 
-**[1636.80s] English:** Продолжайте.  
+**[1636.80s] English:** Continue.  
 **Translation:** 
 
-**[1638.80s] English:** Да.  
+**[1638.80s] English:** Yes.  
 **Translation:** 
 
-**[1639.80s] English:** И ты за это цеплялся, такой, типа...  
-**Translation:** 
+**[1639.80s] English:** And you clung to it, like such a...  
+**Translation:** Vocabulary: clung: 紧紧抓住
 
-**[1643.80s] English:** «О, Glimmer Train написали, что я, мол, подаю надежды».  
+**[1643.80s] English:** Oh, Glimmer Train wrote that I'm showing promise," she said.  
 **Translation:** 
 
-**[1647.80s] English:** Понимаешь?  
+**[1647.80s] English:** Do you understand?  
 **Translation:** Vocabulary: glimmer: 闪光
 
-**[1649.00s] English:** И ты жил этим где-то неделю, убеждая себя, что это что-то значит.  
+**[1649.00s] English:** And you lived with this for a week, convincing yourself that it meant something.  
 **Translation:** 
 
-**[1654.00s] English:** Но на самом деле, это морально убивало.  
-**Translation:** 
+**[1654.00s] English:** But in reality, it morally killed me.  
+**Translation:** Vocabulary: morally: 道德上
 
-**[1657.00s] English:** Я упорствовал и становился все более и более замкнутым.  
+**[1657.00s] English:** I persisted and became increasingly more withdrawn.  
 **Translation:** 
 
-**[1661.00s] English:** Отчасти потому, что я уехал от своих друзей-писателей из Нью-Йорка.  
-**Translation:** 
+**[1661.00s] English:** Partly because I moved away from my writer friends in New York.  
+**Translation:** Vocabulary: persisted: 坚持; withdrawn: 孤僻
 
-**[1667.00s] English:** А я по натуре интроверт.  
+**[1667.00s] English:** I am naturally an introvert.  
 **Translation:** 
 
-**[1670.00s] English:** Такой вот я человек.  
-**Translation:** 
+**[1670.00s] English:** Such a person I am.  
+**Translation:** Vocabulary: introvert: 内向的人
 
-**[1672.00s] English:** Плюс еще я расстался с девушкой.  
+**[1672.00s] English:** Plus, I broke up with my girlfriend.  
 **Translation:** 
 
-**[1675.00s] English:** Так что я просто с головой ушел в мир, когда...  
+**[1675.00s] English:** So I just dove into the world when...  
 **Translation:** 
 
-**[1677.00s] English:** Так что я просто с головой ушел в мир, когда...  
+**[1677.00s] English:** So I just dove into the world when...  
 **Translation:** 
 
-**[1678.00s] English:** Так что я просто с головой ушел в мир, когда...  
+**[1678.00s] English:** So I just dove into the world when...  
 **Translation:** 
 
-**[1679.00s] English:** Ага...  
+**[1679.00s] English:** Agreed....  
 **Translation:** 
 
-**[1680.00s] English:** Ага...  
+**[1680.00s] English:** Agreed....  
 **Translation:** 
 
-**[1681.00s] English:** Да...  
+**[1680.00s] English:** What he wrote. And this broke me. I fell into a deep, heavy depression and started drinking a lot.  
 **Translation:** 
 
-**[1682.00s] English:** Да...  
+**[1681.00s] English:** Yes...  
 **Translation:** 
 
-**[1683.00s] English:** Да...  
+**[1682.00s] English:** Yes...  
 **Translation:** 
 
-**[1684.00s] English:** Ну, и сам я вовремя выехал в мир.  
+**[1683.00s] English:** Yes...  
 **Translation:** 
 
-**[1685.00s] English:** Так что, наверное, у меня есть донат к этому.  
+**[1684.00s] English:** Nu, and I timely exited into the world.  
 **Translation:** 
 
-**[1686.00s] English:** Неплохо.  
-**Translation:** 
+**[1685.00s] English:** So, perhaps I have a donation to this.  
+**Translation:** Vocabulary: donation: 捐赠; exited: 退出
 
-**[1687.00s] English:** И тогда я...  
+**[1686.00s] English:** Not bad.  
 **Translation:** 
 
-**[1688.00s] English:** Ну, и тогда я...  
+**[1687.00s] English:** Then I...  
 **Translation:** 
 
-**[1689.00s] English:** Ну, и тогда я...  
+**[1688.00s] English:** Nu, and then I...  
 **Translation:** 
 
-**[1690.00s] English:** Ну, и тогда я...  
+**[1689.00s] English:** Nu, and then I...  
 **Translation:** 
 
-**[1691.00s] English:** Ну, и тогда я...  
+**[1690.00s] English:** Nu, and then I...  
 **Translation:** 
 
-**[1692.00s] English:** Да, и тогда я...  
+**[1691.00s] English:** Nu, and then I...  
 **Translation:** 
 
-**[1693.00s] English:** Я знаю, как было.  
+**[1692.00s] English:** Yes, and then I...  
 **Translation:** 
 
-**[1694.00s] English:** Иァ, да.  
+**[1693.00s] English:** I know how it was.  
 **Translation:** 
 
-**[1695.00s] English:** Не думайте, вы, просто ссора.  
+**[1694.00s] English:** Yes, definitely.  
 **Translation:** 
 
-**[1696.00s] English:** Да.  
-**Translation:** 
+**[1695.00s] English:** Do not think of it as just a quarrel.  
+**Translation:** Vocabulary: quarrel: 争吵
 
-**[1697.00s] English:** А.  
+**[1695.30s] English:** Problems with alcohol began, and all of this culminated in a deep, very deep depression. And there was  
 **Translation:** 
 
-**[1698.00s] English:** Что?  
-**Translation:** 
+**[1696.00s] English:** Yes.  
+**Translation:** Vocabulary: culminated: 达到顶点
 
-**[1699.00s] English:** Так.  
+**[1697.00s] English:** A.  
 **Translation:** 
 
-**[1700.00s] English:** Как...  
+**[1698.00s] English:** What?  
 **Translation:** 
 
-**[1701.00s] English:** По-моему, именно так, но...  
+**[1699.00s] English:** So.  
 **Translation:** 
 
-**[1702.00s] English:** А?  
+**[1700.00s] English:** How...  
 **Translation:** 
 
-**[1703.00s] English:** Еще безумный вопрос.  
+**[1701.00s] English:** According to me, exactly like that, but...  
 **Translation:** 
 
-**[1704.00s] English:** Как?  
+**[1702.00s] English:** Ah?  
 **Translation:** 
 
-**[1705.00s] English:** Ну, там, по-моему, есть она, она была в крете.  
+**[1703.00s] English:** Another crazy question.  
 **Translation:** 
 
-**[1706.00s] English:** И, ну, да, идёт...  
+**[1704.00s] English:** What?  
 **Translation:** 
 
-**[1680.00s] English:** что писал. И это меня сломало. Я впал в глубокую тяжелую депрессию, стал много пить. У меня  
+**[1705.00s] English:** Nu, там, по-моему, есть она; она была в крете.  
 **Translation:** 
 
-**[1695.30s] English:** начались проблемы с алкоголем. И все это вылилось в глубокую, очень глубокую депрессию. И не было  
+**[1706.00s] English:** And, well, you know, it's going...  
 **Translation:** 
 
-**[1706.62s] English:** какого-то одного решающего отказа, который меня сломал. Было бы эпично, если бы сейчас  
+**[1706.62s] English:** Of some single decisive rejection, which broke me. It would be epic if it happened now.  
 **Translation:** 
 
-**[1714.26s] English:** объявился какой-нибудь парень и сказал, а, так это я сломал Джеффа в тот конкретный день. Но я в  
-**Translation:** 
+**[1714.26s] English:** A guy showed up and said, "Ah, so this is the day I broke Jeff." But I  
+**Translation:** Vocabulary: decisive: 决定性的; rejection: 拒绝
 
-**[1720.68s] English:** какой-то момент понял, что это меня уничтожит. И я не хочу никого отговаривать, потому что я  
+**[1720.68s] English:** At some moment, I understood that it would destroy me. And I don't want to discourage anyone, because I  
 **Translation:** 
 
-**[1732.34s] English:** правда верю. Хотя это и постоянно слышишь, мол, иди к своей мечте.  
+**[1732.34s] English:** I truly believe it. Although you constantly hear that you should go after your dream.  
 **Translation:** 
 
-**[1736.62s] English:** Никогда не сдавайся. Нас так учат. Никогда не сдавайся. И вселенная, хотя нет, не вселенная,  
+**[1736.62s] English:** Never give up. We are taught that. Never give up. And the universe, though no, not the universe.  
 **Translation:** 
 
-**[1747.30s] English:** все редакторы литературных журналов, просто по всей Америке, давали мне понять, что пора  
+**[1747.30s] English:** All literary journal editors across America simply gave me the understanding that it was time to  
 **Translation:** 
 
-**[1755.82s] English:** завязывать с писательством. Что это не мое. И я бросил. Иногда, знаешь, нужно заканчивать  
+**[1755.82s] English:** To stop writing. What this isn't for me. And I quit. Sometimes, you know, you just have to end it.  
 **Translation:** 
 
-**[1766.60s] English:** и закрыть одну дверь, чтобы открылась другая. Уйти — это одно из самых трудных решений.  
+**[1766.60s] English:** And to close one door is to open another. Leaving is one of the hardest decisions.  
 **Translation:** 
 
-**[1772.90s] English:** Да, и думаю, думаю, не зря наши родители, тренеры и наставники учат нас не сдаваться. И думаю,  
+**[1772.90s] English:** Yes, and I think, I think not in vain do our parents, coaches, and mentors teach us never to give up. And I think,  
 **Translation:** 
 
-**[1783.16s] English:** многие этим гордятся, твердя, я никогда не сдамся. Я добьюсь своего во что бы то ни стало. Но иногда  
-**Translation:** 
+**[1783.16s] English:** Many are proud of this, proclaiming, "I will never give up. I will achieve my goal no matter what." But sometimes,  
+**Translation:** Vocabulary: mentors: 导师; proclaiming: 宣称
 
-**[1791.68s] English:** наступает тот момент истины, особенно когда тебе уже за двадцать,  
+**[1791.68s] English:** It's the moment of truth, especially when you're already in your twenties.  
 **Translation:** 
 
-**[1796.60s] English:** когда спрашиваешь себя, и это все, на что я способен.  
+**[1796.60s] English:** When you ask yourself, and this is all I am capable of.  
 **Translation:** 
 
-**[1800.00s] English:** Особенно, будет ли для меня вообще хоть какой-то просвет в этом.  
+**[1800.00s] English:** Especially, will there be any light at all for me in this?  
 **Translation:** 
 
-**[1806.90s] English:** Это очень тяжело, очень тяжело признаться себе, что, наверное, это не мое.  
+**[1806.90s] English:** This is very hard, very hard to admit to yourself that, maybe, this isn't my thing.  
 **Translation:** 
 
-**[1812.96s] English:** Особенно, когда не знаешь, что будет с тобой дальше.  
+**[1812.96s] English:** Especially when you don't know what's going to happen to you next.  
 **Translation:** 
 
-**[1815.76s] English:** Это так больно.  
+**[1815.76s] English:** This is so painful.  
 **Translation:** 
 
-**[1817.28s] English:** Ведь ты вложил так много, часть себя, часть своего «я» и своих мечтаний в этот образ себя самого.  
+**[1817.28s] English:** Because you have invested so much of yourself, a part of your "self" and your dreams into this self-image.  
 **Translation:** 
 
-**[1825.24s] English:** А потом смотришь, как сам катишься вниз, становишься все более одиноким.  
-**Translation:** 
+**[1825.24s] English:** Then you look and see how you're sliding down, becoming more and more isolated.  
+**Translation:** Vocabulary: isolated: 孤独的
 
-**[1830.14s] English:** Все больше страдаешь.  
+**[1830.14s] English:** You're suffering more and more.  
 **Translation:** 
 
-**[1831.88s] English:** А потом тебе надо как-то придумать, как из этого выбраться.  
+**[1831.88s] English:** Then you need to come up with some way to get out of this.  
 **Translation:** 
 
-**[1836.52s] English:** И правда, в такой ситуации единственный выход – это все бросить.  
+**[1836.52s] English:** Indeed, in such a situation, the only出路是抛锚。 - This is the only way out.  
 **Translation:** 
 
-**[1843.92s] English:** Да.  
+**[1843.92s] English:** Yes.  
 **Translation:** 
 
-**[1844.30s] English:** Просто оборвать.  
+**[1844.30s] English:** Just break it off.  
 **Translation:** 
 
-**[1846.84s] English:** Можно ли из этого извлечь какой-то совет?  
-**Translation:** 
+**[1846.84s] English:** Can anything useful be gleaned from this?  
+**Translation:** Vocabulary: gleaned: 收获
 
-**[1850.24s] English:** Ведь многие молодые ребята оказываются в такой же ситуации.  
+**[1850.24s] English:** Many young guys find themselves in a similar situation.  
 **Translation:** 
 
-**[1854.14s] English:** Да, такие вещи понимаешь только задним умом.  
-**Translation:** 
+**[1854.14s] English:** Yes, such things you understand only with hindsight.  
+**Translation:** Vocabulary: hindsight: 事后之明
 
-**[1858.38s] English:** Когда ты уже прошел через это.  
+**[1858.38s] English:** When you have already gone through this.  
 **Translation:** 
 
-**[1860.00s] English:** И все закончилось хорошо.  
+**[1860.00s] English:** And it all ended well.  
 **Translation:** 
 
-**[1862.74s] English:** Но в тот момент ты этого не знаешь.  
+**[1862.74s] English:** But at that moment, you don't know that.  
 **Translation:** 
 
-**[1865.28s] English:** Понимаешь, когда ты молод, и когда тебе 20 с небольшим,  
-**Translation:** 
+**[1865.28s] English:** Ponimayesh, when you're young, and when you're around twentyish,  
+**Translation:** Vocabulary: twentyish: 二十岁左右
 
-**[1869.96s] English:** то на тебя чудовищно давят.  
+**[1869.96s] English:** That really weighs heavily on you.  
 **Translation:** 
 
-**[1872.64s] English:** Я правда думаю, что взрослые в этом не помогают.  
+**[1872.64s] English:** I really think that adults don't help with this.  
 **Translation:** 
 
-**[1875.94s] English:** Каждый раз, когда встречаешь племянника помладше или еще кого-то,  
+**[1875.94s] English:** Every time I meet a younger nephew or someone else,  
 **Translation:** 
 
-**[1880.38s] English:** начинаешь спрашивать, на кого учишься, кем потом будешь или кем хочешь стать.  
+**[1880.38s] English:** You begin asking about who they are studying for, what they will become in the future, or what they want to be.  
 **Translation:** 
 
-**[1885.28s] English:** Это же просто пытка для человека.  
+**[1885.28s] English:** This is just torture for a human.  
 **Translation:** 
 
-**[1887.82s] English:** Да.  
-**Translation:** 
+**[1887.82s] English:** Yes.  
+**Translation:** Vocabulary: torture: 折磨
 
-**[1888.08s] English:** Понимаешь?  
+**[1888.08s] English:** Do you understand?  
 **Translation:** 
 
-**[1889.28s] English:** Да.  
+**[1889.28s] English:** Yes.  
 **Translation:** 
 
-**[1890.00s] English:** Я так потерян в этом мире.  
+**[1890.00s] English:** I am so lost in this world.  
 **Translation:** 
 
-**[1891.58s] English:** Да, большинство из нас всю жизнь потеряны, но особенно в 20 с небольшим.  
+**[1891.58s] English:** Yes, most of us have been lost our whole life, but especially in our twenties and early thirties.  
 **Translation:** 
 
-**[1896.44s] English:** Ты просто потерян.  
+**[1896.44s] English:** You are simply lost.  
 **Translation:** 
 
-**[1898.46s] English:** И вопросы вроде, чем ты занимаешься, какая у тебя специальность, кем будешь работать и так далее.  
-**Translation:** 
+**[1898.46s] English:** Here are the questions: What do you do? What is your specialty? What will you be working as, and so on.  
+**Translation:** Vocabulary: specialty: 专长
 
-**[1903.64s] English:** Это все не то, чувак.  
+**[1903.64s] English:** This is not it, man.  
 **Translation:** 
 
-**[1905.74s] English:** Я пытаюсь найти себя.  
+**[1905.74s] English:** I am trying to find myself.  
 **Translation:** 
 
-**[1908.50s] English:** Я пытаюсь найти свой путь в этом мире.  
+**[1908.50s] English:** I am trying to find my path in this world.  
 **Translation:** 
 
-**[1911.30s] English:** Стараюсь найти то, что зажжет во мне искру.  
-**Translation:** 
+**[1911.30s] English:** I am trying to find what will ignite a spark in me.  
+**Translation:** Vocabulary: ignite: 点燃
 
-**[1915.22s] English:** Найти свою страсть, чтобы понять, для чего я на этой земле.  
+**[1915.22s] English:** To find my passion, to understand why I am on this earth.  
 **Translation:** 
 
-**[1920.00s] English:** И это, я считаю, и есть настоящий путь героя — поиск.  
+**[1920.00s] English:** And this, I believe, is the true hero's path — search.  
 **Translation:** 
 
-**[1924.88s] English:** Поиск себя в молодости.  
+**[1924.88s] English:** Searching for Yourself in Youth.  
 **Translation:** 
 
-**[1926.92s] English:** Это настоящий... Знаешь, все эти взрослые с их поучениями,  
-**Translation:** 
+**[1926.92s] English:** This is a real... You know, all these grown-ups with their preachings,  
+**Translation:** Vocabulary: preachings: 说教
 
-**[1931.94s] English:** они часто перестают искать.  
+**[1931.94s] English:** They often stop searching.  
 **Translation:** 
 
-**[1933.62s] English:** Они выбирают легкий и часто удобный путь.  
+**[1933.62s] English:** They choose the easy and often convenient path.  
 **Translation:** 
 
-**[1937.76s] English:** Они нашли свое и теперь оглядываются.  
+**[1937.76s] English:** They found their way and now they look back.  
 **Translation:** 
 
-**[1940.88s] English:** И уже не помнят, через сколько страданий и неопределенностей приходится пройти молодым.  
-**Translation:** 
+**[1940.88s] English:** Do not already remember how many sufferings and uncertainties young people have to go through.  
+**Translation:** Vocabulary: sufferings: 痛苦; uncertainties: 不确定性
 
-**[1947.92s] English:** Это рассеянность, это давление.  
+**[1947.92s] English:** This is distraction, this is pressure.  
 **Translation:** 
 
-**[1952.20s] English:** Давление и то, как мы давим на молодых,  
-**Translation:** 
+**[1952.20s] English:** Pressure and how we apply it to the young,  
+**Translation:** Vocabulary: distraction: 分心的事物
 
-**[1955.22s] English:** требуя, чтобы они со всем определились, — это просто безумие.  
+**[1955.22s] English:** Requiring them to decide everything is simply madness.  
 **Translation:** 
 
-**[1959.42s] English:** Поэтому я всегда даю один совет.  
-**Translation:** 
+**[1959.42s] English:** Therefore, I always give one piece of advice.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[1964.12s] English:** И он звучит так глупо, что даже банально, но...  
+**[1964.12s] English:** He sounds so silly that it's even banal, but...  
 **Translation:** 
 
-**[1970.66s] English:** Сконцентрируйся на том, что хочешь делать, а не кем хочешь быть.  
+**[1970.66s] English:** Focus on what you want to do, not who you want to be.  
 **Translation:** 
 
-**[1977.92s] English:** Давление, которое оказывает на нас общество, оно в том, что...  
+**[1977.92s] English:** The pressure society puts on us is in that it...  
 **Translation:** 
 
-**[1982.92s] English:** «А кем ты хочешь стать? Космонавтом, пожарным, а может, писателем, разработчиком игр?»  
+**[1982.92s] English:** Who do you want to be? A astronaut, a firefighter, or maybe an author, a game developer?  
 **Translation:** 
 
-**[1990.08s] English:** И, по-моему, мы теряемся за всей этой внешней мишурой.  
+**[1990.08s] English:** And, in my opinion, we get lost behind all this external frippery.  
 **Translation:** 
 
-**[1995.76s] English:** Теряемся в нашем представлении об этой роли и в том, как ее играть, будто ты какой-то актер.  
-**Translation:** 
+**[1995.76s] English:** We lose ourselves in our conception of this role and how to play it, as if you were some actor.  
+**Translation:** Vocabulary: conception: 观念; frippery: 装饰
 
-**[2003.36s] English:** А вот когда ты не на работе, и никто тебя ни о чем не спрашивает,  
+**[2003.36s] English:** Here's when you're not at work, and nobody asks you about anything,  
 **Translation:** 
 
-**[2007.90s] English:** когда ты не на семейном ужине, и дядя не давит на тебя, допытываясь, чем ты будешь заниматься до конца жизни,  
+**[2007.90s] English:** When you're not at the family dinner, and Uncle isn't pressing you for what you'll be doing for the rest of your life,  
 **Translation:** 
 
-**[2017.54s] English:** когда возвращаешься домой, как проводишь свое время,  
+**[2017.54s] English:** When you return home, how do you spend your time?  
 **Translation:** 
 
-**[2021.26s] English:** что делает тебя счастливым и приносит тебе удовлетворение?  
+**[2021.26s] English:** What makes you happy and brings you satisfaction?  
 **Translation:** 
 
-**[2025.22s] English:** Вот тогда ты поймешь, кем ты станешь, а не кем хочешь быть.  
+**[2025.22s] English:** Here then you will understand who you will become, rather than who you want to be.  
 **Translation:** 
 
-**[2032.56s] English:** Вопрос в том, что ты хочешь делать.  
+**[2032.56s] English:** The question is what you want to do.  
 **Translation:** 
 
-**[2034.70s] English:** Что ты хочешь делать, и что приносит тебе радость?  
+**[2034.70s] English:** What do you want to do, and what brings you joy?  
 **Translation:** 
 
-**[2037.90s] English:** В моменте, каждый раз, когда ты начинаешь работать,  
+**[2037.90s] English:** In the moment, every time you begin to work,  
 **Translation:** 
 
-**[2040.00s] English:** Да, гениально сказано. И, кстати, именно тогда ты сменил курс. Ты ушел в видеоигры. Как это случилось? Постепенно или внезапно?  
+**[2040.00s] English:** Yes, that's genius. And, by the way, it was then that you changed course. You went into video games. How did this happen? Gradually or suddenly?  
 **Translation:** 
 
-**[2052.94s] English:** Да. И постепенно, и внезапно. В общем, когда настал тот роковой момент, я, можно сказать, завязал с писательством, то у меня тогда были дни, когда я по восемь часов только и делал, что писал, сидя в одиночестве, печатал. Все это пропало. Но я все еще мог себя обеспечивать, что было неплохо.  
-**Translation:** 
+**[2052.94s] English:** Yes. Both gradually and suddenly. In general, when that fateful moment arrived, I essentially gave up writing. At times, I would spend eight hours a day sitting in solitude, typing away. All of that is gone now. But I was still able to support myself, which was not bad.  
+**Translation:** Vocabulary: solitude: 独处
 
-**[2076.32s] English:** И у меня появилось свободное время. Я его ни с кем не проводил, я был один.  
+**[2076.32s] English:** And I had some free time. I didn't spend it with anyone; I was alone.  
 **Translation:** 
 
-**[2081.58s] English:** Мы с моим псом Джеком. И я просто с головой ушел в Эверквест. Я был 1999, когда игра вышла. И у меня был друг, Виктор, мы дружим почти всю жизнь. Один из немногих моих друзей, кто играл в игры, потому что тогда это было как-то зазорно.  
-**Translation:** 
+**[2081.58s] English:** We with my dog Jack. And I just dove into EverQuest in 1999 when the game came out. And I had a friend Victor; we've been friends almost our whole lives. One of the few of my friends who played games back then, because it was somehow shameful.  
+**Translation:** Vocabulary: shameful: 羞耻的; victor: 维克托
 
-**[2105.86s] English:** Тогда было не принято признаваться, что ты играешь в игры.  
+**[2105.86s] English:** Then it was not deemed acceptable to admit that you were playing games.  
 **Translation:** 
 
-**[2110.48s] English:** Это считалось пустотой.  
-**Translation:** 
+**[2110.48s] English:** This was considered emptiness.  
+**Translation:** Vocabulary: deemed: 认为
 
-**[2111.58s] English:** Пустотой и тратой времени. И вот мой друг Вик купил Эверквест. Я говорю, а, это та игра, которую делал тот парень Брайан Хук.  
+**[2111.58s] English:** Pustotoy i tratoĭ vremeni. And voilà, my friend Vik bought EverQuest. I say, ah, this is the game that Brian Hook made.  
 **Translation:** 
 
-**[2118.92s] English:** И как, хорошая? А он, да, обязательно поиграй.  
-**Translation:** 
+**[2118.92s] English:** How about it, good one? And he said, yes, definitely play with it.  
+**Translation:** Vocabulary: vremeni: 时间
 
-**[2122.40s] English:** И как только я зашел в игру, меня тут же унесло в этот мир Норрата.  
+**[2122.40s] English:** As soon as I entered the game, I was immediately swept into the world of Norrath.  
 **Translation:** 
 
-**[2129.94s] English:** И дело было не только в самом мире и в том, как он выглядел, хотя игра, по-моему, была шикарной.  
-**Translation:** 
+**[2129.94s] English:** Do not only the fact that the world itself and how it looked were important, although, in my opinion, the game was fantastic.  
+**Translation:** Vocabulary: norrath: 诺瑞斯大陆
 
-**[2136.04s] English:** Дело было в механиках. Понимаешь, я играл Халфлингом Рогой.  
+**[2136.04s] English:** The deal was with the mechanics. Understand? I played Halflingrog.  
 **Translation:** 
 
-**[2142.16s] English:** Которому надо было отправиться в путешествие по миру.  
-**Translation:** 
+**[2142.16s] English:** Which had to go on a journey around the world.  
+**Translation:** Vocabulary: halflingrog: 半身人勇士
 
-**[2146.16s] English:** Убиваешь мобов, получаешь опыт.  
+**[2146.16s] English:** Killing mobs, you gain experience.  
 **Translation:** 
 
-**[2148.12s] English:** А мне нужен был лут получше, чтобы убивать больше мобов и получать еще больше опыта.  
+**[2148.12s] English:** I needed better loot to kill more mobs and gain more experience.  
 **Translation:** 
 
-**[2152.86s] English:** И эта притягательная сила прогресса в игре...  
+**[2152.86s] English:** And this captivating force of progress in the game....  
 **Translation:** 
 
-**[2160.00s] English:** была невероятной.  
-**Translation:** 
+**[2160.00s] English:** It was incredible.  
+**Translation:** Vocabulary: captivating: 引人入胜的
 
-**[2162.10s] English:** И я просто жил одной мыслью, не могу дождаться, когда в следующий раз зайду в игру.  
+**[2162.10s] English:** I simply lived with one thought, can't wait to next time I log into the game.  
 **Translation:** 
 
-**[2167.08s] English:** Это был мощный, но не совсем здоровый эскапизм.  
-**Translation:** 
+**[2167.08s] English:** This was a powerful, but not entirely healthy, escapist behavior.  
+**Translation:** Vocabulary: escapist: 逃避现实的行为
 
-**[2173.18s] English:** И в общем, в итоге, когда три года спустя я наконец завязал Север Квест,  
+**[2173.18s] English:** In general, in the end, when three years later I finally quit North Quest,  
 **Translation:** 
 
-**[2178.28s] English:** там можно было ввести команду Slash Plate, чтобы посмотреть, сколько ты наиграл.  
+**[2178.28s] English:** There you could enter the command /Plate to see how much you had played.  
 **Translation:** 
 
-**[2184.18s] English:** У меня вышло, кажется, 272 наигранных дня за три года.  
+**[2184.18s] English:** It seems I have played for approximately 272 days over three years.  
 **Translation:** 
 
-**[2190.00s] English:** И вот начинаешь считать, сколько же это времени.  
+**[2190.00s] English:** And here you start to calculate how much time that is.  
 **Translation:** 
 
-**[2195.34s] English:** За эти три года я буквально жил в том мире.  
+**[2195.34s] English:** In these three years, I literally lived in that world.  
 **Translation:** 
 
-**[2199.24s] English:** Это было какое-то безумие.  
-**Translation:** 
+**[2199.24s] English:** This was some kind of madness.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[2202.74s] English:** Это больше 6000 часов.  
+**[2202.74s] English:** This is more than 6,000 hours.  
 **Translation:** 
 
-**[2205.46s] English:** Да.  
+**[2205.46s] English:** Yes.  
 **Translation:** 
 
-**[2206.08s] English:** Игрового времени.  
+**[2206.08s] English:** Game time.  
 **Translation:** 
 
-**[2207.58s] English:** Ого.  
+**[2207.58s] English:** Oh.  
 **Translation:** 
 
-**[2209.00s] English:** Обратимся к Перплексити.  
+**[2209.00s] English:** Let's turn to Perplexity.  
 **Translation:** 
 
-**[2210.96s] English:** Эвер Квест — это фэнтезийная массовая многопользовательская онлайн ролевая игра.  
-**Translation:** 
+**[2210.96s] English:** EverQuest is a fantasy mass multiplayer online role-playing game.  
+**Translation:** Vocabulary: perplexity: 困惑
 
-**[2216.94s] English:** ММО-РПГ.  
+**[2216.94s] English:** MMO-RPG.  
 **Translation:** 
 
-**[2218.20s] English:** Действие происходит в мире НОВА.  
+**[2218.20s] English:** Action takes place in the world of NOVA.  
 **Translation:** 
 
-**[2220.00s] English:** НОРОД, как ты и сказал, вышло в марте 1999-го.  
+**[2220.00s] English:** NOROD, as you said, it came out in March 1999.  
 **Translation:** 
 
-**[2224.70s] English:** Это ролевая онлайн игра, в которой тысячи игроков создают персонажей, объединяются в группы и исследуют единый постоянный мир.  
-**Translation:** 
+**[2224.70s] English:** This is a role-playing online game, in which thousands of players create characters, form groups, and explore a single persistent world.  
+**Translation:** Vocabulary: persistent: 持久的
 
-**[2232.60s] English:** Она считается одной из основополагающих ММО-РПГ, которая определила рейдовый контент, системы гильдий и 3D-онлайн миры.  
+**[2232.60s] English:** She is considered one of the foundational MMORPGs that defined raid content, guild systems, and 3D online worlds.  
 **Translation:** 
 
-**[2241.04s] English:** И другая ее составляющая — это что все там люди, они объединяются.  
-**Translation:** 
+**[2241.04s] English:** Another component of it is that everyone there is united.  
+**Translation:** Vocabulary: foundational: 基础的; guild: 公会
 
-**[2245.44s] English:** Да.  
+**[2245.44s] English:** Yes.  
 **Translation:** 
 
-**[2245.90s] English:** А потом вместе ходят в рейды.  
-**Translation:** 
+**[2245.90s] English:** Then they go on raids together.  
+**Translation:** Vocabulary: raids: 突袭
 
-**[2248.24s] English:** Да.  
+**[2248.24s] English:** Yes.  
 **Translation:** 
 
-**[2250.00s] English:** И если говорить об Эвер Квест, то рейды — это обычно от 30 и более человек, которые собираются вместе, чтобы одолеть то, что не победить в одиночку.  
-**Translation:** 
+**[2250.00s] English:** If we talk about EverQuest, raids are usually made up of 30 or more people who gather together to overcome what cannot be defeated alone.  
+**Translation:** Vocabulary: cannot: 不能; defeated: 击败
 
-**[2260.88s] English:** А для успешных рейдов тебе нужно было вступить в то, что в Эвер Квест все называли как «Убергильдия».  
+**[2260.88s] English:** For successful raids, you needed to join what in EverQuest everyone called the "Uberguild.  
 **Translation:** 
 
-**[2270.12s] English:** И вот я очень гордился своим путем в Эвер Квест, потому что большую часть времени, пока качался, я был без гильдии,  
-**Translation:** 
+**[2270.12s] English:** Here I was very proud of my path in EverQuest because for most of the time while leveling, I was not in a guild.  
+**Translation:** Vocabulary: leveling: 升级; uberguild: 超公会
 
-**[2277.62s] English:** или состоял в какой-нибудь гильдии ролевизии.  
+**[2277.62s] English:** Or he was a member of a role-playing guild.  
 **Translation:** 
 
-**[2280.00s] English:** Веков Рогов, и вот когда я взял 50-й левел в Эверквест,  
+**[2280.00s] English:** Vekov Rogov, and when I reached level 50 in EverQuest,  
 **Translation:** 
 
-**[2285.90s] English:** а это был максимальный левел, меня пригласили в гильдию  
+**[2285.90s] English:** This was the maximum level, and I was invited to join a guild.  
 **Translation:** 
 
-**[2290.40s] English:** Legacy of Steel, которая на нашем сервере была лучшей.  
+**[2290.40s] English:** Legacy of Steel, which was the best on our server.  
 **Translation:** 
 
-**[2294.78s] English:** На каждом сервере была своя топовая гильдия.  
+**[2294.78s] English:** On each server, there was a top guild.  
 **Translation:** 
 
-**[2297.66s] English:** Я играл на сервере The Nameless, и там лучшей гильдией была  
+**[2297.66s] English:** I played on the server The Nameless, and there, the best guild was  
 **Translation:** Vocabulary: nameless: 无名的
 
 **[2302.96s] English:** Legacy of Steel.  
 **Translation:** 
 
-**[2304.12s] English:** И этот... этот восторг от того, что собираешь 30 человек,  
+**[2304.12s] English:** And this... this excitement from gathering 30 people.  
 **Translation:** 
 
-**[2310.80s] English:** чтобы посмотреть, сможете ли вы завалить на Гаффина,  
+**[2310.80s] English:** To see if you can knock Gaffin out,  
 **Translation:** 
 
-**[2314.74s] English:** такого огненного дракона, или Вокса, ледяного дракона.  
-**Translation:** 
+**[2314.74s] English:** Such a fiery dragon, or Vox, and an icy dragon.  
+**Translation:** Vocabulary: dragon: 龙; fiery: 火烈的
 
-**[2319.02s] English:** И для того, чтобы это сделать, требовалась идеальная координация.  
+**[2319.02s] English:** To do this, ideal coordination was required.  
 **Translation:** 
 
-**[2322.62s] English:** Это было безумно весело.  
+**[2322.62s] English:** This was incredibly fun.  
 **Translation:** 
 
-**[2324.82s] English:** Ты буквально кричал в голос, даже сидя один дома в своей комнате,  
+**[2324.82s] English:** You were literally shouting, even sitting alone in your room at home,  
 **Translation:** 
 
-**[2329.40s] English:** но ты чувствовал себя так, будто ты там, с ними,  
+**[2329.40s] English:** But you felt like you were there with them.  
 **Translation:** 
 
-**[2332.78s] English:** и вы все вместе радовались.  
+**[2332.78s] English:** And you all together rejoiced.  
 **Translation:** 
 
-**[2334.12s] English:** Вы радовались победе и горевали при поражении или очередном вайпе.  
-**Translation:** 
+**[2334.12s] English:** You rejoiced in victory and mourned at defeat or another wipe.  
+**Translation:** Vocabulary: mourned: 悲伤; rejoiced: 欢庆
 
-**[2339.20s] English:** Это была игра с невероятными взлетами и падениями.  
+**[2339.20s] English:** This was a game with incredible highs and lows.  
 **Translation:** 
 
-**[2342.66s] English:** И в ней все было как надо, просто потрясающе.  
+**[2342.66s] English:** And in it, everything was just right, simply amazing.  
 **Translation:** 
 
-**[2345.32s] English:** То есть для тебя это был большой шаг  
+**[2345.32s] English:** That is, for you, it was a big step.  
 **Translation:** 
 
-**[2347.48s] English:** от гордого воина-одиночки  
+**[2347.48s] English:** From the proud lone warrior  
 **Translation:** 
 
-**[2350.08s] English:** к вступлению в гильдию, в Убергильдию.  
+**[2350.08s] English:** To join the guild, including the Uberguild.  
 **Translation:** 
 
-**[2354.58s] English:** А потом эта эпичная история, как ты поднялся до самого верха  
-**Translation:** 
+**[2354.58s] English:** Then this epic story of how you rose to the very top.  
+**Translation:** Vocabulary: guild: 公会; uberguild: 超公会
 
-**[2358.96s] English:** и стал лидером этой Убергильдии.  
+**[2358.96s] English:** He became the leader of this Uberguild.  
 **Translation:** 
 
-**[2361.86s] English:** Да.  
+**[2361.86s] English:** Yes.  
 **Translation:** 
 
-**[2362.98s] English:** И в целом,  
+**[2362.98s] English:** In general,  
 **Translation:** 
 
-**[2364.12s] English:** организовать людей в онлайн-игре, вроде Эверквест,  
+**[2364.12s] English:** Organize people in an online game like EverQuest,  
 **Translation:** 
 
-**[2370.26s] English:** это все равно, что пасти котов.  
+**[2370.26s] English:** This is just like herding cats.  
 **Translation:** 
 
-**[2372.40s] English:** Потому что, знаешь,  
-**Translation:** 
+**[2372.40s] English:** Because, you know,  
+**Translation:** Vocabulary: herding: 像赶猫
 
-**[2375.60s] English:** у каждого своя мотивация.  
+**[2375.60s] English:** Each person has their own motivation.  
 **Translation:** 
 
-**[2377.92s] English:** Одних интересует лут,  
+**[2377.92s] English:** Some are interested in loot,  
 **Translation:** 
 
-**[2379.54s] English:** других, чтобы гильдия процветала,  
+**[2379.54s] English:** Others, to ensure the guild thrives,  
 **Translation:** 
 
-**[2382.28s] English:** а кто-то просто одинок и хочет с кем-то просто потусить.  
-**Translation:** 
+**[2382.28s] English:** Some people are just lonely and want to hang out with someone.  
+**Translation:** Vocabulary: thrives: 繁荣
 
-**[2386.52s] English:** И в комьюнити Эверквест было много людей в депрессии.  
+**[2386.52s] English:** In the EverQuest community, there were many people in depression.  
 **Translation:** 
 
-**[2392.06s] English:** Я и сам страдал от этого.  
+**[2392.06s] English:** I suffered from this as well.  
 **Translation:** 
 
-**[2394.12s] English:** Но и многие другие.  
+**[2394.12s] English:** But many others as well.  
 **Translation:** 
 
-**[2395.58s] English:** Знаешь, когда тебе грустно или паршиво,  
-**Translation:** 
+**[2395.58s] English:** Knows, when you're feeling sad or crappy,  
+**Translation:** Vocabulary: crappy: 糟糕的
 
-**[2398.72s] English:** ты ищешь способ сбежать.  
+**[2398.72s] English:** You are looking for a way to escape.  
 **Translation:** 
 
-**[2400.00s] English:** от реальности и самая замечательная штука в видеоиграх это эскапизм и эскапизм это это  
-**Translation:** 
+**[2400.00s] English:** From reality, and the most wonderful thing about video games is escapism, and escapism is this.  
+**Translation:** Vocabulary: escapism: 逃避现实
 
-**[2407.92s] English:** не всегда плохо или негативно но когда ты им злоупотребляешь чтобы сбежать от реальных  
+**[2407.92s] English:** Not always negatively, but when you abuse them to escape from reality.  
 **Translation:** 
 
-**[2414.52s] English:** жизненных проблем вот тогда это и становится проблемой то есть это смесь боли и тьмы в  
-**Translation:** 
+**[2414.52s] English:** Life problems is when this becomes an issue, that is a mix of pain and darkness.  
+**Translation:** Vocabulary: negatively: 消极地
 
-**[2422.86s] English:** которую может вылиться боль и все это часть сообщества да и что странно ты попадаешь в  
+**[2422.86s] English:** Which can pour out pain, and all of this is part of the community, yes, and what's strange is that you find yourself in  
 **Translation:** 
 
-**[2430.92s] English:** цикл где общение с другими людьми дает тебе чувство товарищества облегчение и тебе начинает  
-**Translation:** 
+**[2430.92s] English:** Cycles where communication with other people gives you a sense of companionship, relief, and you begin to feel  
+**Translation:** Vocabulary: companionship: 同伴的陪伴
 
-**[2437.20s] English:** казаться что в жизни не все так уж плохо но можно быстро угодить в другой цикл ты начинаешь  
+**[2437.20s] English:** It seems that in life, things are not so bad after all, but you can quickly fall into another cycle. You begin to  
 **Translation:** 
 
-**[2444.32s] English:** отдаляться от реальной жизни и это лишь усугубляет твое состояние доводя до точки где свою дозу ты  
-**Translation:** 
+**[2444.32s] English:** To distance yourself from real life, and this only exacerbates your condition until you reach a point where you can't maintain your dose.  
+**Translation:** Vocabulary: exacerbates: 恶化
 
-**[2450.88s] English:** получаешь уже только в игре так что  
+**[2450.88s] English:** You get it only in the game, so that's it.  
 **Translation:** 
 
-**[2452.86s] English:** это с точки зрения психологии там все не так просто в общем нужно было со многим разбираться  
+**[2452.86s] English:** This is from a psychological perspective, there's more to it than meets the eye in general; we needed to sort through a lot of things.  
 **Translation:** 
 
-**[2459.88s] English:** собрать кучу людей в рейд и все они живые люди у каждого свои психологические заморочки кто-то  
+**[2459.88s] English:** Sobble a bunch of people for a raid, and they're all living individuals with their own psychological quirks—someone  
 **Translation:** 
 
-**[2470.42s] English:** несет чушь кто-то тихо страдает от одиночества а кому-то нужен лот в конце девяностых все несли  
-**Translation:** 
+**[2470.42s] English:** Someone is quietly suffering from loneliness, while someone else needs a lot at the end of the nineties, everyone was.  
+**Translation:** Vocabulary: loneliness: 孤独; quirks: 怪癖
 
-**[2478.62s] English:** чушь да понимаешь игровая культура в то время была скульптурой  
+**[2478.62s] English:** Chuść, da ponimayesh', igrovaya kultura v to vremya byla skulpyuroy.  
 **Translation:** 
 
-**[2482.86s] English:** совершенно другой. Но это была отличная компания.  
-**Translation:** 
+**[2482.86s] English:** Completely different. But it was a great company.  
+**Translation:** Vocabulary: igrovaya: 游戏; kultura: 文化; skulpyuroy: 糟糕的
 
-**[2488.16s] English:** Было очень весело. Там были самые разные люди, и чтобы  
+**[2488.16s] English:** It was very fun. There were all kinds of people, and to  
 **Translation:** 
 
-**[2493.04s] English:** всех их скоординировать, приходилось без конца повторять  
-**Translation:** 
+**[2493.04s] English:** To coordinate all of them, it had to be repeated endlessly.  
+**Translation:** Vocabulary: coordinate: 协调; endlessly: 无止尽地
 
-**[2496.38s] English:** все раз по 200. Типа, «Так, мы телепортируемся из Норт-Ро,  
+**[2496.38s] English:** All for $200. Type of "So, we teleport from Northrop,  
 **Translation:** 
 
-**[2503.02s] English:** все в Норт-Ро». И что-то подобное приходилось повторять  
-**Translation:** 
+**[2503.02s] English:** All in North Shore, and something similar had to be repeated.  
+**Translation:** Vocabulary: teleport: 瞬间移动
 
-**[2506.50s] English:** часов шесть подряд, чтобы хоть процентов 20 человек  
+**[2506.50s] English:** For six hours in a row, to cover at least 20 percent of the people.  
 **Translation:** 
 
-**[2510.34s] English:** добрались до Норт-Ро. И вот, когда я вступил в гильдию,  
-**Translation:** 
+**[2510.34s] English:** We made it to Northfall. And here's when I joined the guild.  
+**Translation:** Vocabulary: guild: 公会
 
-**[2516.14s] English:** я был этаким восторженным новичком, одним из немногих  
+**[2516.14s] English:** I was an enthusiastic newcomer, one of few.  
 **Translation:** 
 
-**[2520.00s] English:** рогов в гильдии. Я просто хотел быть полезным. Я восхищался теми, кто управлял гильдией. У нас  
-**Translation:** 
+**[2520.00s] English:** Grog in the guild. I just wanted to be helpful. I admired those who ran the guild. We  
+**Translation:** Vocabulary: newcomer: 新加入者
 
-**[2527.62s] English:** был отличный гильдмастер. Это был очень крутой опыт. И знаешь, однажды наш гильдмастер просто  
+**[2527.62s] English:** He was an excellent guildmaster. This was a very cool experience. And you know, one day our guildmaster just  
 **Translation:** 
 
-**[2537.96s] English:** исчез. Он просто забил на игру, у него появились дела в реале. В Эверквест такое бывало. Люди  
-**Translation:** 
+**[2537.96s] English:** Disappeared. He just gave up on the game; he had things to do in real life. In EverQuest, such things happened. People  
+**Translation:** Vocabulary: guildmaster: 公会领袖
 
-**[2546.00s] English:** просто внезапно исчезали. Никто не говорил, слушайте, я где-то через месяц перестану играть,  
+**[2546.00s] English:** Simply vanished. Nobody said anything; listen, I'll stop playing somewhere around a month from now.  
 **Translation:** 
 
-**[2551.64s] English:** потому что у меня новая работа. Люди уходили как-то драматично, просто исчезая. В общем,  
-**Translation:** 
+**[2551.64s] English:** Because I have a new job. People left rather dramatically, just disappearing. In general,  
+**Translation:** Vocabulary: dramatically: 戏剧性; vanished: 消失
 
-**[2561.00s] English:** наш гильдмастер перестал играть. А люди скучали по ним, когда они пропадали? Большинство из них,  
+**[2561.00s] English:** Our guildmaster stopped playing. And did people miss them when they disappeared? Most of them,  
 **Translation:** 
 
-**[2567.02s] English:** а может и все, были анонимны. Ты знал их ник, но никто не говорил, кто он в реале. Именно так. В  
-**Translation:** 
+**[2567.02s] English:** It might be that they were all anonymous. You knew their nicknames, but nobody said who they really were. Exactly like that.  
+**Translation:** Vocabulary: anonymous: 无名的; nicknames: 网名
 
-**[2574.98s] English:** те дни раскрывали, что они были анонимными. В те дни раскрывали, что они были анонимными. В те дни  
+**[2574.98s] English:** These days revealed that they were anonymous. These days revealed that they were anonymous. In those days,  
 **Translation:** 
 
-**[2575.98s] English:** раскрывали, что они были анонимными. В те дни всё так же. Ты никогда не знал, кто парень,  
+**[2575.98s] English:** They revealed that they were anonymous. Back then, it was still the same. You never knew who the guy was.  
 **Translation:** 
 
-**[2586.26s] English:** а кто девушка. По умолчанию ты считал, что все парни. Разумно. И большим сюрпризом было,  
+**[2586.26s] English:** Who is the girl? By default, you assumed it was a guy. Makes sense. And it was a big surprise when,  
 **Translation:** 
 
-**[2593.54s] English:** если это оказывалась девушка. Например, моя жена. Я с ней и так познакомился. В Эверквест? Да,  
+**[2593.54s] English:** If it had been a girl, for example, my wife. I already knew her in EverQuest, right? Yes,  
 **Translation:** 
 
-**[2600.28s] English:** там и познакомились. Вот это история любви. Да. Ух ты. Самое странное,  
+**[2600.28s] English:** There's where they met. What a love story. Yes. Wow. The strangest thing is,  
 **Translation:** 
 
-**[2605.96s] English:** Забавное для меня в Эверквест то, что когда играешь столько, сколько я, то люди говорят, ты потратил годы жизни впустую, в такой игре не победить, а я говорю, да не знаю, вся моя карьера и моя семья, все это у меня благодаря Эверквест, по-моему, я выиграл в этой игре.  
+**[2605.96s] English:** Interesting for me in EverQuest is that when you play as much as I have, people say you've wasted years of your life, there's no way to win in such a game, but I say, well, I don't know, my entire career and family, everything I have, it's all thanks to EverQuest.  
 **Translation:** 
 
-**[2629.68s] English:** Да, ты тот парень, который говорит, ну, вообще-то...  
+**[2629.68s] English:** Yes, you're the guy who says, well, actually....  
 **Translation:** 
 
-**[2632.88s] English:** Ну да, точно.  
+**[2632.88s] English:** Nu da, definitely.  
 **Translation:** 
 
-**[2633.80s] English:** Это попадет в Википедию, и там напишут, вот вам пример, почему видео...  
+**[2633.80s] English:** This will go into Wikipedia, and there they'll write, here's an example of why video...  
 **Translation:** 
 
-**[2640.00s] English:** Игры — это круто.  
+**[2640.00s] English:** Games are awesome.  
 **Translation:** 
 
-**[2642.80s] English:** Да, и вот что скажу.  
+**[2642.80s] English:** Yes, and here's what I'll say.  
 **Translation:** 
 
-**[2644.60s] English:** Для меня, как и для многих моих знакомых,  
-**Translation:** 
+**[2644.60s] English:** For me, as well as for many of my acquaintances,  
+**Translation:** Vocabulary: acquaintances: 熟人
 
-**[2648.14s] English:** пусть это и сотни часов, но это были одни из самых счастливых моментов в жизни.  
+**[2648.14s] English:** Let this be hundreds of hours, but they were some of the happiest moments in my life.  
 **Translation:** 
 
-**[2654.12s] English:** Да, сейчас ты понимаешь, что все сложилось,  
+**[2654.12s] English:** Yes, now you are understanding that everything has fallen into place.  
 **Translation:** 
 
-**[2657.48s] English:** но тогда тебе было паршиво, и были мысли, куда катится жизнь и все такое.  
+**[2657.48s] English:** But then you were feeling terrible, and there were thoughts about where life was going and all that.  
 **Translation:** 
 
-**[2662.56s] English:** Да.  
+**[2662.56s] English:** Yes.  
 **Translation:** 
 
-**[2663.14s] English:** Но если вспомнить все эти ночи напролет за какой-нибудь игрой,  
+**[2663.14s] English:** But if we recall all those nights in a row spent playing,  
 **Translation:** 
 
-**[2668.44s] English:** когда позволяешь себе уйти в нее с головой,  
-**Translation:** 
+**[2668.44s] English:** When you allow yourself to dive headfirst into it,  
+**Translation:** Vocabulary: headfirst: 全身心地
 
-**[2671.88s] English:** встретить рассвет...  
+**[2671.88s] English:** To meet the dawn...  
 **Translation:** 
 
-**[2674.64s] English:** И, кстати, многие из тех игр у меня были от Blizzard.  
+**[2674.64s] English:** And, by the way, many of those games I had were from Blizzard.  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[2678.48s] English:** Просто невероятно, на что способны игры.  
+**[2678.48s] English:** Simply incredible what games are capable of.  
 **Translation:** 
 
-**[2681.86s] English:** Раньше, да и отчасти сейчас, то же самое могут дать книги.  
+**[2681.86s] English:** Earlier, and to some extent even now, the same can be given by books.  
 **Translation:** 
 
-**[2686.90s] English:** Они берут тебя в путешествия.  
+**[2686.90s] English:** They take you on travels.  
 **Translation:** 
 
-**[2689.48s] English:** Но игры долгое время...  
+**[2689.48s] English:** But games have long been...  
 **Translation:** 
 
-**[2691.92s] English:** Ты прав, их клеймили.  
+**[2691.92s] English:** You're right, they branded them.  
 **Translation:** 
 
-**[2694.80s] English:** Я не мог никому рассказать.  
+**[2694.80s] English:** I couldn't tell anyone.  
 **Translation:** 
 
-**[2697.52s] English:** Было ощущение...  
+**[2697.52s] English:** There was a feeling...  
 **Translation:** 
 
-**[2698.44s] English:** Было ощущение, что я на героине сижу.  
-**Translation:** 
-
-**[2699.98s] English:** Да.  
-**Translation:** 
-
-**[2700.60s] English:** Будто занимаешься чем-то тайным и темным.  
-**Translation:** 
-
-**[2703.00s] English:** Хотя обычно ты играешь в темноте.  
-**Translation:** 
-
-**[2706.58s] English:** В этом есть тайна, словно делаешь что-то темное и сомнительное.  
-**Translation:** 
+**[2698.44s] English:** It felt like I was on heroine.  
+**Translation:** Vocabulary: heroine: 海洛因
 
-**[2710.50s] English:** Это не было мейнстримом.  
+**[2699.98s] English:** Yes.  
 **Translation:** 
 
-**[2712.30s] English:** Не было.  
+**[2700.60s] English:** It's like you're doing something secretive and dark.  
 **Translation:** 
 
-**[2712.80s] English:** Да, не было.  
+**[2703.00s] English:** Although you usually play in the darkness.  
 **Translation:** 
 
-**[2714.12s] English:** У них была плохая репутация.  
+**[2706.58s] English:** In this there is a mystery, as if doing something dark and questionable.  
 **Translation:** 
 
-**[2716.08s] English:** И самое странное во всем этом...  
+**[2710.50s] English:** This was not mainstream.  
 **Translation:** 
 
-**[2718.08s] English:** И я же говорил, что в Оверквест можно было ввести команду Slashplate.  
-**Translation:** Vocabulary: slashplate: 斜切板
+**[2712.30s] English:** There was none.  
+**Translation:** Vocabulary: mainstream: 主流
 
-**[2722.80s] English:** Ну а что, если бы команда Slashplate показывала, сколько люди смотрят телек?  
+**[2712.80s] English:** No, there wasn't.  
 **Translation:** 
 
-**[2728.44s] English:** Как бы это выглядело?  
+**[2714.12s] English:** They had a bad reputation.  
 **Translation:** 
 
-**[2731.14s] English:** Там бы шесть тысяч часов запросто остались бы позади.  
+**[2716.08s] English:** And the strangest thing about all of this...  
 **Translation:** 
 
-**[2734.30s] English:** Ну, точнее, так было бы лет двадцать назад, а сегодня уже нет.  
+**[2718.08s] English:** I said that we could introduce the command Slashplate in Overkquest.  
 **Translation:** 
 
-**[2739.00s] English:** Теперь это телефон, да.  
+**[2722.80s] English:** Nu, what if the Slashplate team showed how many people are watching TV?  
 **Translation:** 
 
-**[2741.18s] English:** Да.  
-**Translation:** 
-
-**[2742.00s] English:** Но с тем миром...  
-**Translation:** 
+**[2728.44s] English:** How would it look?  
+**Translation:** Vocabulary: slashplate: 分隔板
 
-**[2744.44s] English:** Все равно тяжело прощаться.  
+**[2731.14s] English:** There would easily be six thousand hours left behind there.  
 **Translation:** 
 
-**[2747.16s] English:** Да.  
+**[2734.30s] English:** Nu, more accurately, that would have been the case twenty years ago, but today it isn't.  
 **Translation:** 
 
-**[2747.60s] English:** Это тоже болезненный опыт.  
+**[2739.00s] English:** Now this is a phone, yes.  
 **Translation:** 
 
-**[2749.86s] English:** Как тяжело было прощаться тебе?  
+**[2741.18s] English:** Yes.  
 **Translation:** 
 
-**[2752.80s] English:** С Оверквест?  
+**[2742.00s] English:** But with that world,...  
 **Translation:** 
 
-**[2753.88s] English:** Очень сложно.  
-**Translation:** 
+**[2744.44s] English:** It's still hard to say goodbye.  
+**Translation:** Vocabulary: goodbye: 告别
 
-**[2755.38s] English:** Были моменты, когда я пытался бросить...  
+**[2747.16s] English:** Yes.  
 **Translation:** 
 
-**[2757.96s] English:** А, ты бросил?  
+**[2747.60s] English:** This is also a painful experience.  
 **Translation:** 
 
-**[2758.44s] English:** Ты брал перерывы?  
+**[2749.86s] English:** How heavily it weighed upon me to say goodbye to you?  
 **Translation:** 
 
-**[2759.34s] English:** Да.  
-**Translation:** 
+**[2752.80s] English:** Is it about Overquest?  
+**Translation:** Vocabulary: overquest: 超越 quest
 
-**[2760.00s] English:** Думаешь, что бросил, бывает, говоришь себе, «Всё, я трачу на это слишком много. Пора двигаться дальше. Я просто брошу всё и надеюсь, что не вернусь». Но бывало, что ты всё же возвращался, и вот когда я наконец ушёл из Эверквест, это оказалось на удивление легко, потому что к тому моменту я с игрой мысленно уже завязал.  
+**[2753.88s] English:** Very difficult.  
 **Translation:** 
 
-**[2782.78s] English:** Это было не прям сразу, но вскоре после выхода нового дополнения. Оно называлось «Shadows of Lachlan». Оно меня не зацепило, в отличие от предыдущих. Например, до него вышло «Scars of Velios», вот оно было просто потрясающе.  
+**[2755.38s] English:** There were moments when I tried to give up....  
 **Translation:** 
-
-**[2803.68s] English:** И тут я как раз устроился в «Близзард», а я, видимо, по натуре одержимый человек.  
-**Translation:** Vocabulary: lachlan: 拉克兰阴影
 
-**[2812.08s] English:** И вся индустрия...  
+**[2757.96s] English:** Ah, you threw it?  
 **Translation:** 
 
-**[2812.78s] English:** Энергия, которую я вкладывал в Эверквест, в ту же секунду, как только я начал работать в «Близзард», моей новой одержимостью стала работа.  
+**[2758.44s] English:** Did you take breaks?  
 **Translation:** 
 
-**[2824.04s] English:** Кстати, расскажи ту легендарную историю, как ты получил работу в «Близзард». Ты ведь был легендарным игроком, а потом и легендарным троллем в «Эверквест» под ником Тигол.  
+**[2759.34s] English:** Yes.  
 **Translation:** 
 
-**[2840.94s] English:** Ты писал разрабам...  
+**[2760.00s] English:** Do you think that by throwing it all in, there comes a time when you tell yourself, "I'm spending too much on this. It's time to move on. I'll just give up and hope I don't return"? But it happened that I did return. And when I finally left EverQuest, it turned out surprisingly easy because by then I had mentally already given up on the game.  
 **Translation:** 
 
-**[2842.78s] English:** Много резких отзывов своих, теперь уже знаменитых, можно сказать, тирадах.  
+**[2782.78s] English:** This was not immediate, but soon after the release of the new expansion, which was called "Shadows of Lachlan." It didn't resonate with me as much as the previous ones. For example, "Scars of Velios" came out before it and was simply amazing.  
 **Translation:** 
 
-**[2848.92s] English:** Есть одна, особенно знаменитая, где ты советовал им сделать много чего, в том числе вытащить головы из задниц.  
-**Translation:** 
+**[2803.68s] English:** Here, just as I was settling into Blizzard, I suppose I'm a naturally obsessive person.  
+**Translation:** Vocabulary: blizzard: 暴雪; obsessive: 痴迷的
 
-**[2857.08s] English:** Но тебя любили и уважали, потому что ты давал много конкретики о том, как улучшить игру.  
+**[2812.08s] English:** The entire industry,...  
 **Translation:** 
 
-**[2862.80s] English:** И, что важно, ты не просто поливал их грязью.  
-**Translation:** 
+**[2812.78s] English:** The energy I invested in Everquest, the moment I started working at Blizzard, became my new obsession: work.  
+**Translation:** Vocabulary: everquest: 永恒之殿; obsession: 痴迷
 
-**[2865.92s] English:** Ты любил игру, переживал за нее, и ты давал им в духе того времени...  
+**[2824.04s] English:** By the way, tell us that legendary story of how you got your job at Blizzard. You were a legendary player, and then a legendary troll in Everquest under the nickname Tigol.  
 **Translation:** 
 
-**[2872.78s] English:** Советы, как улучшить их игру.  
-**Translation:** 
+**[2840.94s] English:** You wrote to the developers....  
+**Translation:** Vocabulary: legendary: 传奇的; troll: 恶意发帖者
 
-**[2877.80s] English:** И...  
+**[2842.78s] English:** Many harsh reviews of their own, now famous, tirades.  
 **Translation:** 
 
-**[2878.36s] English:** Что забавно, когда перед...  
-**Translation:** 
+**[2848.92s] English:** There is one, especially famous, where you advised them to do a lot of things, including getting heads out of butts.  
+**Translation:** Vocabulary: tirades: 猛烈批评
 
-**[2880.00s] English:** читаешь те посты, меня это вдохновляет. Это должно многих вдохновить и научить, потому что ты на  
+**[2857.08s] English:** But you were loved and respected because you gave a lot of specific details on how to improve the game.  
 **Translation:** 
 
-**[2886.84s] English:** полном серьезе и постоянно их разносил. А сейчас, да ты всегда был одним из самых добрых и любимых  
-**Translation:** 
+**[2862.80s] English:** And what's important, you didn't just smear them with mud.  
+**Translation:** Vocabulary: respected: 受尊敬; smear: 污蔑
 
-**[2895.62s] English:** людей во всей игровой индустрии. В общем, как ты в итоге попал в Близзард? Когда ушел первый  
+**[2865.92s] English:** You loved the game, you cared about it, and you gave them in the spirit of the time....  
 **Translation:** 
 
-**[2903.28s] English:** гильдмастер Лего Силф Стил, ее основатель, это был парень, его ник был Дредд, так его звали. Он  
+**[2872.78s] English:** Advice on how to improve their game.  
 **Translation:** 
 
-**[2912.08s] English:** ушел и наша гильдия на время оказалась в подвешенном состоянии. И в итоге кто-то взял на себя роль  
+**[2877.80s] English:** And...  
 **Translation:** 
 
-**[2921.58s] English:** главы гильдии, и этого человека звали Ариэль. Это была светловолосая воин, лесная эльфийка. Она  
+**[2878.36s] English:** What is funny is when before...  
 **Translation:** 
 
-**[2932.08s] English:** никогда не носила гильдии. Она не носила гильдии. Она не носила гильдии. Она не носила гильдии.  
+**[2880.00s] English:** Reading those posts, it inspires me. This should inspire and teach many people because you are  
 **Translation:** 
 
-**[2933.28s] English:** Она не носила гильдии. Она не носила гильдии. Она не носила гильдии. Она не носила гильдии.  
-**Translation:** 
+**[2886.84s] English:** In full seriousness and constantly criticized them. Now, you were always one of the kindest and most loved,  
+**Translation:** Vocabulary: inspires: 激励; seriousness: 严肃性
 
-**[2933.86s] English:** Она считала своего персонажа очень красивым и хотела показывать лицо.  
+**[2895.62s] English:** People in the entire gaming industry. In general, how did you eventually end up at Blizzard? When did you leave first?  
 **Translation:** 
 
-**[2937.96s] English:** Так вот, Ариэль была для нас отличным гильдмастером и сделал меня чем-то вроде своего асиста,  
-**Translation:** 
+**[2903.28s] English:** Guildmaster Lego Silf Steel, its founder, was a guy whose nickname was Dredd, as that's what people called him.  
+**Translation:** Vocabulary: blizzard: 暴雪; guildmaster: 公会领袖
 
-**[2946.62s] English:** рейд-лидера, офицером гильдии. И со временем Ариэль становилась все более занята и, знаешь,  
+**[2912.08s] English:** He left, and our guild was temporarily in a suspended state. In the end, someone took on the role of  
 **Translation:** 
 
-**[2956.96s] English:** писала мне что-то вроде «Слушай, меня завтра не будет» или «Меня не будет сегодня вечером.  
-**Translation:** 
+**[2921.58s] English:** The guild master, and this person was named Ariel. She was a light-haired warrior, a woodland elf.  
+**Translation:** Vocabulary: ariel: 艾莉尔; guild: 公会; temporarily: 暂时; woodland: 森林
 
-**[2962.68s] English:** Соберешь?»  
+**[2932.08s] English:** Never wore a guild badge. She never wore a guild badge. She never wore a guild badge. She never wore a guild badge.  
 **Translation:** 
 
-**[2963.26s] English:** рейд ты можешь собрать рейд и рейда мне давались очень легко это был мой первый  
+**[2933.28s] English:** She didn't wear guild symbols. She didn't wear guild symbols. She didn't wear guild symbols. She didn't wear guild symbols.  
 **Translation:** 
 
-**[2970.76s] English:** опыт лидерство в моей жизни о том как мотивировать людей что такое мотивация  
+**[2933.86s] English:** She thought her character was very beautiful and wanted to show her face.  
 **Translation:** 
 
-**[2979.26s] English:** что такое дисциплина как вдохновлять людей когда нужно давить а когда  
+**[2937.96s] English:** So, Ariel was a great guildmaster for us and made me something of an assistant.  
 **Translation:** 
 
-**[2986.00s] English:** поощрять понимаешь так что это был опыт который я получал на ходу и меня  
+**[2946.62s] English:** Raid-leader, guild officer. And over time, Ariel became increasingly occupied, you know,  
 **Translation:** 
 
-**[2993.06s] English:** подстраховывал гильдмастер который все равно часто заходил кстати я как раз сейчас читаю  
+**[2956.96s] English:** Wrote me something like "Listen, I won't be here tomorrow" or "I won't be around this evening.  
 **Translation:** 
 
-**[3000.00s] English:** и изучаю все о Юстиниане и Римской империи,  
+**[2962.68s] English:** Соберешь?  
 **Translation:** 
 
-**[3005.90s] English:** который из простолюдинов стал императором.  
-**Translation:** 
+**[2963.26s] English:** Raid, you can gather a raid, and raids were given to me very easily. This was my first.  
+**Translation:** Vocabulary: raids: 突袭
 
-**[3009.44s] English:** И я вижу много параллелей с твоим путем  
+**[2970.76s] English:** Experience in Leadership in My Life: About How to Motivate People and What Motivation Is  
 **Translation:** 
 
-**[3011.78s] English:** от простолюдина до императора, извиняюсь.  
-**Translation:** 
+**[2979.26s] English:** What is discipline, as in inspiring people when you need to motivate them and when  
+**Translation:** Vocabulary: discipline: 约束; motivate: 激励
 
-**[3014.34s] English:** Ну, я максимум был главой гильдии в Оверквест.  
+**[2986.00s] English:** To encourage, you understand, so it was an experience I gained on the go and me.  
 **Translation:** 
 
-**[3017.34s] English:** Убергильдии, Убергильдии.  
-**Translation:** 
+**[2993.06s] English:** The guildmaster kept an eye on things, which he did often anyway. By the way, I'm just reading right now.  
+**Translation:** Vocabulary: guildmaster: 公会领袖
 
-**[3018.54s] English:** Ну да, Убергильдии, лучшей гильдии на сервере Неймлис.  
+**[3000.00s] English:** And I am studying everything about Justinian and the Roman Empire.  
 **Translation:** 
 
-**[3022.18s] English:** В общем, шло время,  
-**Translation:** 
+**[3005.90s] English:** Which of the commoners became emperor.  
+**Translation:** Vocabulary: justinian: 朱斯蒂尼安
 
-**[3024.60s] English:** Ариэль был все более занят,  
+**[3009.44s] English:** I see many parallels with your path.  
 **Translation:** 
 
-**[3027.38s] English:** и потом, однажды,  
+**[3011.78s] English:** From commoner to emperor, apologies.  
 **Translation:** 
 
-**[3030.00s] English:** он написал мне, и мы переписывались в личке,  
+**[3014.34s] English:** Nu, I was maximally the head of a guild in Overquest.  
 **Translation:** 
 
-**[3033.58s] English:** и он сказал, теперь ты будешь ГМом, я слишком занят.  
-**Translation:** 
+**[3017.34s] English:** Guilds, Guilds.  
+**Translation:** Vocabulary: guild: 公会; guilds: 公会; maximally: 最大程度上
 
-**[3038.42s] English:** А позже выяснилось,  
+**[3018.54s] English:** Nu da, Ubergildii, лучшей гильдии на сервере Неймлис.  
 **Translation:** 
 
-**[3040.88s] English:** хотя нет,  
-**Translation:** 
+**[3022.18s] English:** In general, time went by,  
+**Translation:** Vocabulary: ubergildii: 超級公會
 
-**[3041.96s] English:** погоди, сделаю шаг назад.  
+**[3024.60s] English:** Ariel was becoming more and more occupied,  
 **Translation:** 
 
-**[3044.96s] English:** Я начал экспериментировать,  
+**[3027.38s] English:** And then, one day,  
 **Translation:** 
 
-**[3047.62s] English:** как раз тогда вышла первая Half-Life,  
+**[3030.00s] English:** He wrote to me, and we corresponded in private messages.  
 **Translation:** 
 
-**[3051.10s] English:** и вот в Duke Nukem и первой Half-Life  
-**Translation:** 
+**[3033.58s] English:** He said, "Now you'll be the GM; I'm too busy.  
+**Translation:** Vocabulary: corresponded: 交换消息
 
-**[3054.36s] English:** была невероятная фишка, которую тогда делали разработчики.  
+**[3038.42s] English:** Later, it turned out,  
 **Translation:** 
 
-**[3058.94s] English:** Они поставляли редакторы,  
+**[3040.88s] English:** Although no,  
 **Translation:** 
 
-**[3060.00s] English:** прямо на диске с игрой.  
+**[3041.96s] English:** Hold on, I'll take a step back.  
 **Translation:** 
 
-**[3062.06s] English:** И если было любопытно,  
+**[3044.96s] English:** I began experimenting,  
 **Translation:** 
 
-**[3064.02s] English:** можно было запустить этот редактор и поковыряться в нем.  
+**[3047.62s] English:** At that time, the first Half-Life was released.  
 **Translation:** 
 
-**[3067.84s] English:** Так я сделал уровень для Duke Nukem.  
+**[3051.10s] English:** And here in Duke Nukem and in the first Half-Life  
 **Translation:** 
 
-**[3070.68s] English:** Такие уровни можно было отправлять в британские журналы по программированию,  
+**[3054.36s] English:** There was an incredible feature that the developers implemented back then.  
 **Translation:** 
 
-**[3075.42s] English:** и ты был счастлив, если твой уровень там публиковали,  
-**Translation:** 
+**[3058.94s] English:** They supplied editors,  
+**Translation:** Vocabulary: implemented: 实现; supplied: 提供
 
-**[3078.58s] English:** даже если это какой-то рандомный журнал.  
+**[3060.00s] English:** On the game disk itself.  
 **Translation:** 
 
-**[3081.08s] English:** Потом я начал делать уровни для Half-Life,  
+**[3062.06s] English:** If it was curious,  
 **Translation:** 
 
-**[3084.38s] English:** и...  
+**[3064.02s] English:** One could launch this editor and poke around in it.  
 **Translation:** 
 
-**[3086.12s] English:** Ариэль ушел с поста гильдмастера,  
+**[3067.84s] English:** So I made a level for Duke Nukem.  
 **Translation:** 
 
-**[3088.00s] English:** и я занял его место.  
+**[3070.68s] English:** Such levels could be sent to British programming journals,  
 **Translation:** 
 
-**[3090.00s] English:** И в какой-то момент Ариэль снова со мной связывается и говорит,  
+**[3075.42s] English:** And you were happy if your level was published there.  
 **Translation:** 
 
-**[3095.54s] English:** «Слушай, ты рассказывал про те уровни для Half-Life, что ты сделал.  
+**[3078.58s] English:** Even if it's some random magazine.  
 **Translation:** 
 
-**[3099.84s] English:** Я хочу их посмотреть».  
+**[3081.08s] English:** Then I started making levels for Half-Life.  
 **Translation:** 
 
-**[3102.10s] English:** Я такой, «О, круто, я ему не знал, что ты играешь в Half-Life.  
+**[3084.38s] English:** And...  
 **Translation:** 
 
-**[3106.00s] English:** Может, поднимем сервер, и ты их посмотришь?»  
-**Translation:** 
+**[3086.12s] English:** Arielle stepped down from her position as guildmaster,  
+**Translation:** Vocabulary: guildmaster: 公会领袖
 
-**[3109.46s] English:** А Ариэль говорит мне,  
+**[3088.00s] English:** And I took his place.  
 **Translation:** 
 
-**[3110.98s] English:** «Нет, пришли их по почте вот на этот адрес в Ирвайне».  
-**Translation:** 
+**[3090.00s] English:** In some moment, Ariel reconnects with me and says,  
+**Translation:** Vocabulary: reconnects: 重新联系
 
-**[3114.12s] English:** И...  
+**[3095.54s] English:** Listen, you mentioned those Half-Life levels you made.  
 **Translation:** 
 
-**[3115.68s] English:** Просто для понимания контекста скажу,  
+**[3099.84s] English:** I want to watch them.  
 **Translation:** 
 
-**[3117.88s] English:** что в то время, для того чтобы отправляться,  
+**[3102.10s] English:** I'm like, "Oh, cool, I didn't know you play Half-Life.  
 **Translation:** 
 
-**[3120.00s] English:** по интернету уровень для Half-Life, это занимало часов  
+**[3106.00s] English:** May we raise the server, and you can take a look at them?  
 **Translation:** 
 
-**[3124.18s] English:** 12, поэтому просто записывали все это на диск и отправляли  
+**[3109.46s] English:** A Ariel says to me,  
 **Translation:** 
 
-**[3129.22s] English:** по почте.  
-**Translation:** 
+**[3110.98s] English:** No, send them by mail to this address in Irvine.  
+**Translation:** Vocabulary: irvine: Irvine 市
 
-**[3130.22s] English:** В общем, я отправил Ариэлю свои уровни для Half-Life, и  
+**[3114.12s] English:** And...  
 **Translation:** 
 
-**[3137.20s] English:** он говорит, кстати, меня зовут Роб, я дизайнер в  
+**[3115.68s] English:** Simply for understanding the context, I'll say,  
 **Translation:** 
 
-**[3142.50s] English:** компании Blizzard Entertainment, я слышал ты из Пассадины,  
+**[3117.88s] English:** What at the time was needed to depart,  
 **Translation:** 
 
-**[3148.00s] English:** ты ведь упоминал, ну да, потому что я писал про  
-**Translation:** 
+**[3120.00s] English:** The level for Half-Life on the internet took hours to download.  
+**Translation:** Vocabulary: depart: 离开
 
-**[3151.06s] English:** аппарат ROS и все такое на нашем сайте.  
+**[3124.18s] English:** Therefore, they simply recorded everything on a disk and sent it.  
 **Translation:** 
 
-**[3156.46s] English:** По сути это был блог еще до появления блогов, так  
+**[3129.22s] English:** By mail.  
 **Translation:** 
 
-**[3159.36s] English:** он и узнал, что я из Пассадины, и говорит, Эрвайн всего  
+**[3130.22s] English:** In general, I sent Arielle my levels for Half-Life, and  
 **Translation:** 
 
-**[3162.34s] English:** в часе езды, почему бы тебе не заехать посмотреть на  
-**Translation:** 
+**[3137.20s] English:** He says, by the way, my name is Rob, I'm a designer in  
+**Translation:** Vocabulary: arielle: 艾丽尔
 
-**[3165.66s] English:** Blizzard, а заодно мы встретимся, и он называет имена еще  
+**[3142.50s] English:** Companies like Blizzard Entertainment, I've heard you're from Pasadena.  
 **Translation:** 
 
-**[3170.30s] English:** четырех человек из гильдии, и я такой, они что, все тоже  
+**[3148.00s] English:** You did mention that, right? Because I wrote about  
 **Translation:** Vocabulary: blizzard: 暴风雪
 
-**[3173.86s] English:** работают в Blizzard, он, да, мы все из Blizzard, и это было  
+**[3151.06s] English:** Apparatus ROS and all that on our website.  
 **Translation:** 
 
-**[3177.88s] English:** так.  
+**[3156.46s] English:** In essence, it was a blog before blogs even existed.  
 **Translation:** 
 
-**[3177.98s] English:** Так странно, потому что в то время с деньгами у меня  
+**[3159.36s] English:** He found out that I'm from Pasadena, and says, "Erwin is just west of there.  
 **Translation:** 
 
-**[3181.20s] English:** было не очень, это не как сейчас, когда все, кажется,  
-**Translation:** 
-
-**[3185.20s] English:** играют во все подряд, тогда приходилось выбирать, поэтому  
-**Translation:** 
-
-**[3189.96s] English:** я, например, никогда не покупал Старкрафт или Диабло  
-**Translation:** 
-
-**[3193.00s] English:** или Варкрафт, я был из тех, кто в то время играл в  
-**Translation:** 
-
-**[3196.06s] English:** Half-Life, Quake, я по сути рубился в Quake 3, и я никогда не играл  
-**Translation:** 
-
-**[3200.74s] English:** в игры Blizzard, а тут меня просто приглашают в Blizzard Entertainment.  
-**Translation:** 
-
-**[3204.98s] English:** А Blizzard тогда уже...  
-**Translation:** 
-
-**[3207.98s] English:** Была легендой с их Варкрафтом и Старкрафтом, то есть она  
-**Translation:** 
-
-**[3212.00s] English:** уже заработала эту репутацию компании, которая, оказалось,  
-**Translation:** 
-
-**[3216.30s] English:** не совершает ошибок.  
-**Translation:** 
-
-**[3217.60s] English:** Ну, она была как раз на пути к тому, чтобы зарекомендовать  
-**Translation:** 
-
-**[3221.70s] English:** себя так.  
-**Translation:** 
-
-**[3222.78s] English:** Она становилась легендой, геймеры ее просто обожали,  
-**Translation:** 
-
-**[3226.58s] English:** но вдобавок были и такие невежды, как я, которые не  
-**Translation:** 
-
-**[3229.94s] English:** играли, знаете, ни в Варкрафт 2, ни в Диабло 2, ни в Старкрафт,  
-**Translation:** 
-
-**[3235.60s] English:** что всех шокировало.  
-**Translation:** 
-
-**[3236.74s] English:** Да.  
-**Translation:** 
-
-**[3237.10s] English:** Да.  
-**Translation:** 
-
-**[3237.12s] English:** Да.  
-**Translation:** 
-
-**[3237.14s] English:** Да.  
-**Translation:** 
-
-**[3237.16s] English:** Да.  
-**Translation:** 
-
-**[3237.18s] English:** Да.  
-**Translation:** 
-
-**[3237.20s] English:** Да.  
-**Translation:** 
-
-**[3237.22s] English:** Да.  
-**Translation:** 
-
-**[3237.28s] English:** Да.  
-**Translation:** 
-
-**[3237.30s] English:** Да.  
-**Translation:** 
-
-**[3237.32s] English:** Да.  
-**Translation:** 
-
-**[3237.36s] English:** Да.  
-**Translation:** 
-
-**[3237.38s] English:** Да.  
-**Translation:** 
-
-**[3237.44s] English:** Да.  
-**Translation:** 
-
-**[3237.52s] English:** Да.  
-**Translation:** 
-
-**[3237.98s] English:** Ты с ума сходил.  
-**Translation:** 
-
-**[3239.46s] English:** Нет.  
-**Translation:** 
-
-**[3240.00s] English:** Я, конечно, сошёл с ума, но немного в другом ключе.  
-**Translation:** 
-
-**[3243.08s] English:** Думал, а вдруг меня сейчас ограбят?  
-**Translation:** 
-
-**[3244.90s] English:** Да.  
-**Translation:** 
-
-**[3245.22s] English:** Или кто эти люди? Это какой-то развод?  
-**Translation:** 
-
-**[3247.36s] English:** Тогда ведь с людьми из интернета не встречались.  
-**Translation:** 
-
-**[3250.20s] English:** В общем, я поехал туда,  
-**Translation:** 
-
-**[3254.66s] English:** и в итоге там был Роб Пардо,  
-**Translation:** 
-
-**[3259.00s] English:** который тогда был ведущим дизайнером Warcraft 3,  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[3264.00s] English:** и он оказался той самой Ариэль, представляешь?  
-**Translation:** 
-
-**[3267.20s] English:** Короче, это была не женщина, не блондинка.  
-**Translation:** 
-
-**[3270.00s] English:** Лесная эльфийка.  
-**Translation:** 
-
-**[3271.76s] English:** Даже не знаю, чего я вообще тогда ожидал.  
-**Translation:** 
-
-**[3274.40s] English:** Это был Роб Пардо.  
-**Translation:** 
-
-**[3277.02s] English:** Мы до сих пор хорошие друзья.  
-**Translation:** 
-
-**[3279.42s] English:** Скотт Мерсер, он был чародеем в нашей гильдии в Эверквест.  
-**Translation:** 
-
-**[3283.58s] English:** Парень Доломин.  
-**Translation:** 
-
-**[3285.26s] English:** Ещё был парень по имени Роман Кенни,  
-**Translation:** 
-
-**[3287.88s] English:** который абсолютно психованный маг из нашей гильдии.  
-**Translation:** 
-
-**[3294.82s] English:** И вот я пообедал с этими ребятами.  
-**Translation:** 
-
-**[3296.92s] English:** Мы просто пошли в какой-то ресторанчик в Ирвайне,  
-**Translation:** 
-
-**[3300.00s] English:** и...  
-**Translation:** 
-
-**[3301.76s] English:** Знаете, простите за такое сравнение,  
-**Translation:** 
-
-**[3304.36s] English:** но это был по сути мой своеобразный каминг-аут.  
-**Translation:** 
-
-**[3308.02s] English:** Мы говорили о том, что игры считают чем-то постыдным,  
-**Translation:** 
-
-**[3311.16s] English:** что принято стесняться того, кто ты есть, и что тебе нравится.  
-**Translation:** 
-
-**[3314.60s] English:** До этого момента я никогда не говорил ни своим друзьям, ни семье, что я обожаю игры.  
-**Translation:** 
-
-**[3320.68s] English:** Я играю в Эверквест, это так круто, мы только что убили дракона.  
-**Translation:** 
-
-**[3324.52s] English:** В общем, я скрывал эту часть того, кем я был.  
-**Translation:** 
-
-**[3328.70s] English:** И вот я сижу с этими ребятами, и я говорю, что я не могу больше.  
-**Translation:** 
-
-**[3329.84s] English:** И вот я сижу с этими ребятами, и я говорю, что я не могу больше.  
-**Translation:** 
-
-**[3329.96s] English:** Я сижу с этими ребятами в Ирвайне,  
-**Translation:** 
-
-**[3333.16s] English:** и мы ведем разговор о драконах, мечах,  
-**Translation:** 
-
-**[3338.00s] English:** тактике на рейды,  
-**Translation:** 
-
-**[3340.54s] English:** и обсуждаем людей в гильдии.  
-**Translation:** 
-
-**[3343.62s] English:** И в тот момент я впервые по-настоящему почувствовал себя собой.  
-**Translation:** 
-
-**[3349.04s] English:** Мне было так комфортно.  
-**Translation:** 
-
-**[3352.64s] English:** И это было сильнейшее откровение.  
-**Translation:** 
-
-**[3356.04s] English:** И после этого, после того обеда, он еще раз сказал мне,  
-**Translation:** 
-
-**[3359.80s] English:** я очень рад, что мы с Вами говорили с Вами.  
-**Translation:** 
-
-**[3364.28s] English:** И я четыре раза позвонилας, в два раза я сказал, мне это  
-**Translation:** 
-
-**[3368.34s] English:** очень рад, я танцевал столько лет.  
-**Translation:** 
-
-**[3370.38s] English:** Много лет ничего не делал, и меня все повторяет.  
-**Translation:** 
-
-**[3373.96s] English:** Мне даже Lauren Jungle развернулла ее глаза.  
-**Translation:** 
-
-**[3376.56s] English:** Мне сказали, что она очень веселая.  
-**Translation:** Vocabulary: lauren: 劳伦
-
-**[3378.74s] English:** Он был один изels statuerow, который советовал мне.  
-**Translation:** 
-
-**[3382.24s] English:** Тем не менее, она вдохновила меня с родов,  
-**Translation:** Vocabulary: statuerow: 举荐者
-
-**[3384.56s] English:** лежать в дучку, работать, всё делал.  
-**Translation:** 
-
-**[3388.08s] English:** Это тоже коллега Мади .  
-**Translation:** 
-
-**[3360.00s] English:** пару раз звал меня пообедать, я это воспринял просто  
-**Translation:** 
-
-**[3363.68s] English:** как «О, теперь я... потому что я подружился с этими  
-**Translation:** 
-
-**[3367.50s] English:** ребятами в онлайне, а теперь мы знакомы и в реале, и оказалось,  
-**Translation:** 
-
-**[3371.22s] English:** что они работают в игровой компании, и на одном из  
-**Translation:** 
-
-**[3373.94s] English:** следующих обедов они позвали с нами на этот обед одного  
-**Translation:** 
-
-**[3379.48s] English:** воина-тролля, у которого в игре был ник Барфа, это  
-**Translation:** 
-
-**[3384.32s] English:** был тролль-воин.  
-**Translation:** 
-
-**[3385.36s] English:** И Барфа, он не то чтобы постоянно с нами играл,  
-**Translation:** 
-
-**[3389.90s] English:** но он попал в гильдию, можно сказать, из-за забора, потому  
-**Translation:** 
-
-**[3392.78s] English:** что был знаком с Риэль, по такому приглашению для  
-**Translation:** 
-
-**[3396.30s] English:** своих, типа «Кто такой Барфа, не знаю, но теперь он в гильдии».  
-**Translation:** 
-
-**[3400.54s] English:** Тогда вышло новое подземелье Яма, и мы там еще ни разу  
-**Translation:** 
-
-**[3405.24s] English:** не были, и вот мы туда сунулись, проходим этот данж, и все  
-**Translation:** 
-
-**[3409.54s] English:** идет наперекосяк, как это вечно бывает в Эверквест.  
-**Translation:** 
-
-**[3412.48s] English:** Вся гильдия ливает, кроме Барфы.  
-**Translation:** 
-
-**[3415.36s] English:** Его тролль настолько большой, что не может выпрыгнуть  
-**Translation:** 
-
-**[3419.10s] English:** к выходу.  
-**Translation:** 
-
-**[3420.10s] English:** А у меня было зелье, очень дорогое зелье для того,  
-**Translation:** 
-
-**[3426.26s] English:** чтобы телепортироваться, тогда его мог позволить  
-**Translation:** 
-
-**[3430.20s] English:** себе только игрок из топовой гильдии.  
-**Translation:** 
-
-**[3432.54s] English:** И вот я отдаю это зелье Барфе и говорю «Держи, Юза,  
-**Translation:** 
-
-**[3437.36s] English:** и телепортируйся».  
-**Translation:** 
-
-**[3438.36s] English:** А я-то Рога, я могу просто уйти в инвиз и выйти из  
-**Translation:** 
-
-**[3443.90s] English:** данжа.  
-**Translation:** 
-
-**[3444.86s] English:** Так что я спас Барфу, толком не зная, кто он, и потратив  
-**Translation:** 
-
-**[3449.46s] English:** на это очень дорогущее зелье.  
-**Translation:** 
-
-**[3451.24s] English:** И вот на обеде Роб меня представляет.  
-**Translation:** 
-
-**[3456.76s] English:** Это Аллен Адам.  
-**Translation:** 
-
-**[3457.76s] English:** Он играет за Барфу.  
-**Translation:** 
-
-**[3459.64s] English:** Я такой «О, Барфа!», а он «Это ты спас меня тогда  
-**Translation:** 
-
-**[3463.92s] English:** в Яме?».  
-**Translation:** 
-
-**[3464.92s] English:** Ну и оказалось, что Аллен был основателем Близзард,  
-**Translation:** 
-
-**[3468.86s] English:** и он был главным, он тогда по сути всем рулил, это были  
-**Translation:** 
-
-**[3473.60s] English:** Аллен, Майкл и Барфа.  
-**Translation:** 
-
-**[3474.60s] English:** Майк, Майк Морхейм, и Фрэнк Пирс.  
-**Translation:** 
-
-**[3476.16s] English:** А я и не понимал, что Россия — это авторитет.  
-**Translation:** 
-
-**[3476.80s] English:** И я скажу, что это было не так.  
-**Translation:** 
-
-**[3479.80s] English:** Это был франкинг.  
-**Translation:** 
-
-**[3480.00s] English:** что эти обеды, мне они просто нравились, ведь там я был собой.  
-**Translation:** 
-
-**[3484.50s] English:** Я был по-настоящему счастлив рядом с этими людьми,  
-**Translation:** 
-
-**[3487.90s] English:** которые говорили об играх, и мне было с ними легко.  
-**Translation:** 
-
-**[3493.42s] English:** И вот однажды Роб заходит в Оверквест, он тогда почти не играл, и говорит,  
-**Translation:** 
-
-**[3498.38s] English:** «Я хочу, чтобы ты завтра заглянул на сайт Близзард с вакансиями».  
-**Translation:** 
-
-**[3503.88s] English:** Я такой, «Ладно, гляну завтра их сайт».  
-**Translation:** 
-
-**[3507.38s] English:** И как раз тогда они анонсировали World of Warcraft,  
-**Translation:** 
-
-**[3512.66s] English:** и вывесили на сайте вакансию по поиску младшего дизайнера квестов.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[3518.82s] English:** И самое забавное, я уже не помню, было ли это требованием или просто плюсом в описании вакансии,  
-**Translation:** 
-
-**[3525.84s] English:** но они указали, нужен человек с писательским образованием.  
-**Translation:** 
-
-**[3531.56s] English:** Я такой, «Да вы, ребята, всё подстроили для меня».  
-**Translation:** 
-
-**[3535.08s] English:** Будто они искали именно меня.  
-**Translation:** 
-
-**[3537.38s] English:** И теперь задним числом я понимаю, да эти ребята просто собеседовали меня полгода.  
-**Translation:** 
-
-**[3543.10s] English:** Да.  
-**Translation:** 
-
-**[3543.60s] English:** И оказались настоящими друзьями, они поступили очень круто.  
-**Translation:** 
-
-**[3548.38s] English:** И я решил, а хуй с ним, была не была.  
-**Translation:** 
-
-**[3552.38s] English:** Появилась эта вакансия.  
-**Translation:** 
-
-**[3554.38s] English:** Я откликнулся, вложив всю душу, понимаешь, там было много заданий по написанию квестов.  
-**Translation:** 
-
-**[3562.38s] English:** А потом начался довольно жёсткий шестимесячный отбор,  
-**Translation:** 
-
-**[3567.38s] English:** потому что они никогда не нанимали дизайнеров со стороны.  
-**Translation:** 
-
-**[3571.38s] English:** Обычно дизайнеров Blizzard растили из тех, кто уже там работал.  
-**Translation:** 
-
-**[3575.38s] English:** Они либо переводились от других отделов,  
-**Translation:** 
-
-**[3579.38s] English:** либо приходили из отдела качества или техподдержки.  
-**Translation:** 
-
-**[3584.38s] English:** Так что нанять кого-то с улицы для них было серьёзным шагом.  
-**Translation:** 
-
-**[3589.38s] English:** И поэтому они устроили мне настоящую проверку.  
-**Translation:** 
-
-**[3593.38s] English:** Я тогда впервые встретился с Крисом Мэтсоном,  
-**Translation:** 
-
-**[3596.38s] English:** который...  
-**Translation:** 
-
-**[3600.00s] English:** пожалуй, самый вдохновляющий и творческий человек на Земле.  
-**Translation:** 
-
-**[3606.28s] English:** И сразу же они устроили мне парное собеседование.  
-**Translation:** 
-
-**[3610.22s] English:** Там было два парня.  
-**Translation:** 
-
-**[3611.36s] English:** Это был Кевин Джордан, один из первых дизайнеров ВОВ.  
-**Translation:** 
-
-**[3616.02s] English:** Серьезно, его вклад недооценен.  
-**Translation:** 
-
-**[3618.66s] English:** Он был одним из первых дизайнеров классов, дизайнеров ПВП.  
-**Translation:** 
-
-**[3623.76s] English:** Но он очень тихий парень.  
-**Translation:** 
-
-**[3626.58s] English:** И его поставили в пару с Крисом.  
-**Translation:** 
-
-**[3629.18s] English:** А Крис, он просто заполняет собой все, понимаешь?  
-**Translation:** 
-
-**[3633.46s] English:** Криса можно было просто сидеть и слушать.  
-**Translation:** 
-
-**[3636.96s] English:** Он такой творческий, такой увлеченный.  
-**Translation:** 
-
-**[3641.06s] English:** И то, как он излагает свои мысли,  
-**Translation:** 
-
-**[3643.96s] English:** он так говорит, что ты сразу же становишься его фанатом.  
-**Translation:** 
-
-**[3648.58s] English:** И вот мы с Крисом идем обедать в итальянский ресторанчик  
-**Translation:** 
-
-**[3653.88s] English:** через дорогу от Близзард.  
-**Translation:** 
-
-**[3657.36s] English:** И помню, как Крис остановился,  
-**Translation:** 
-
-**[3659.18s] English:** как Крис остановился купить сигарет  
-**Translation:** 
-
-**[3660.46s] English:** прямо по дороге на собеседование.  
-**Translation:** 
-
-**[3663.72s] English:** А потом Крис буквально через каждое слово вставлял  
-**Translation:** 
-
-**[3666.72s] English:** «Блядь, пиздец!»  
-**Translation:** 
-
-**[3668.56s] English:** А я пришел из той корпоративной культуры,  
-**Translation:** 
-
-**[3671.18s] English:** которую видел в рекрутинг-бизнесе моего отца.  
-**Translation:** 
-
-**[3674.76s] English:** И представить себе не мог, чтобы кто-то матерился на собеседовании  
-**Translation:** 
-
-**[3678.32s] English:** или по дороге покупал покурить.  
-**Translation:** 
-
-**[3681.86s] English:** И вот опять же это чувство, я среди своих.  
-**Translation:** 
-
-**[3685.28s] English:** Я сам никогда не курил, но быть рядом с людьми,  
-**Translation:** 
-
-**[3688.56s] English:** которым было наплевать на корпоративные нормы,  
-**Translation:** 
-
-**[3693.60s] English:** это было очень вдохновляюще.  
-**Translation:** 
-
-**[3695.66s] English:** А потом у меня было последнее собеседование с Саллоном, Робом  
-**Translation:** 
-
-**[3699.98s] English:** и одним отличным программистом по имени Боб Фич.  
-**Translation:** 
-
-**[3704.00s] English:** И, по-моему, он один из первых пяти разработчиков Близзард.  
-**Translation:** 
-
-**[3709.62s] English:** И они повели меня на заправку Арко, где был Джек-энд-бокс.  
-**Translation:** 
-
-**[3714.46s] English:** Знаешь, как это бывает? Два в одном.  
-**Translation:** 
-
-**[3716.90s] English:** Вот там мы были, Арко.  
-**Translation:** 
-
-**[3718.56s] English:** Мы были Джек-энд-бокс.  
-**Translation:** 
-
-**[3720.00s] English:** И это было мое финальное собеседование в Близзард, в Джек-эн-де-бокс на заправке.  
-**Translation:** 
-
-**[3725.00s] English:** И я помню, как подумал про себя.  
-**Translation:** 
-
-**[3728.04s] English:** Эти ребята привели меня в Джек-эн-де-бокс на заправке Арко.  
-**Translation:** 
-
-**[3734.36s] English:** Я должен получить работу в этой компании.  
-**Translation:** 
-
-**[3737.00s] English:** Это мои люди.  
-**Translation:** 
-
-**[3738.08s] English:** Это мое место.  
-**Translation:** 
-
-**[3739.96s] English:** Это было лучшее, что могло случиться.  
-**Translation:** 
-
-**[3742.24s] English:** Так что вот...  
-**Translation:** 
-
-**[3745.22s] English:** Такими безумными путями я попал в Близзард.  
-**Translation:** 
-
-**[3747.90s] English:** Начал с самого низа и оказался на вершине, в Джек-эн-де-бокс.  
-**Translation:** 
-
-**[3752.40s] English:** Можешь рассказать?  
-**Translation:** 
-
-**[3754.50s] English:** Ты упоминал о тяжелых моментах и о депрессии.  
-**Translation:** 
-
-**[3759.02s] English:** Расскажи, как ты со всем этим справлялся.  
-**Translation:** 
-
-**[3762.42s] English:** Дело в том, что просто многие люди сейчас в таком же состоянии и слушают нас.  
-**Translation:** 
-
-**[3768.92s] English:** Какой совет ты можешь им дать?  
-**Translation:** 
-
-**[3770.94s] English:** Как найти выход?  
-**Translation:** 
-
-**[3773.08s] English:** Как найти своих людей?  
-**Translation:** 
-
-**[3774.94s] English:** Тяжелых моментов было очень много.  
-**Translation:** 
-
-**[3777.90s] English:** Расскажу о самом странном.  
-**Translation:** 
-
-**[3781.00s] English:** Я начал сильно пить, и алкоголь стал...  
-**Translation:** 
-
-**[3786.60s] English:** Я стал бороться с этим лет до тридцати.  
-**Translation:** 
-
-**[3790.36s] English:** И чем я больше всего сегодня горжусь, это трезвостью и тем, что я уже так долго не пью.  
-**Translation:** 
-
-**[3798.22s] English:** Помню, как я...  
-**Translation:** 
-
-**[3799.36s] English:** Я просто бывало куплю бутылку Олд Гранд Эд и в одиночку выпивал ее целиком, а потом смотрел Оскар.  
-**Translation:** 
-
-**[3807.10s] English:** Помню.  
-**Translation:** 
-
-**[3807.90s] English:** Я из всех возможных занятий смотрел Оскар, а это ведь максимально фальшивая и лживая атмосфера.  
-**Translation:** 
-
-**[3815.34s] English:** Но я был, знаешь, я был очень пьян, и все эти люди казались такими собранными, успешными и такими лощенными,  
-**Translation:** 
-
-**[3824.94s] English:** а я... именно вот этот контраст заставлял меня чувствовать себя неудачником.  
-**Translation:** 
-
-**[3832.88s] English:** А сейчас все это кажется таким дурацким и неважным.  
-**Translation:** 
-
-**[3837.90s] English:** Я, знаешь ли...  
-**Translation:** 
-
-**[3840.00s] English:** Я попал в эту постоянную борьбу, пытаешься не пить, но пьешь, чтобы стало легче.  
-**Translation:** 
-
-**[3847.68s] English:** И мне повезло, что родители меня очень поддерживали, даже когда мне было за 20, даже когда я уже съехал от них.  
-**Translation:** 
-
-**[3858.04s] English:** Я пошел на терапию, и это очень сильно помогло.  
-**Translation:** 
-
-**[3863.92s] English:** Знаешь, это очень помогло, и я понял одно.  
-**Translation:** 
-
-**[3866.86s] English:** Нужно найти своего психотерапевта.  
-**Translation:** 
-
-**[3871.56s] English:** Дело не в том, чтобы просто поставить галочку, я ходил на терапию.  
-**Translation:** 
-
-**[3876.78s] English:** Важно найти того, кто как бы...  
-**Translation:** 
-
-**[3879.86s] English:** как бы поможет тебе выбраться из этой колеи здоровым путем.  
-**Translation:** 
-
-**[3887.92s] English:** И...  
-**Translation:** 
-
-**[3888.76s] English:** Я пробовал антидепрессанты, но мне ужасно не нравилось, я просто ненавидел пить пилюли  
-**Translation:** 
-
-**[3894.80s] English:** и чувствовать, что во мне не нравится.  
-**Translation:** 
-
-**[3896.84s] English:** Мне что-то постороннее, что меняет меня.  
-**Translation:** 
-
-**[3900.28s] English:** Мне это не подходило.  
-**Translation:** 
-
-**[3903.22s] English:** А потом самое трудное, ну, о чем я никогда никому не говорил, и мне тяжело об этом говорить,  
-**Translation:** 
-
-**[3912.30s] English:** но в итоге я прошел ЭСТ, то есть электросудорожную терапию, шоковую терапию, и это вытащило меня.  
-**Translation:** 
-
-**[3925.64s] English:** Я бы никогда не назвал это каким-то чудом.  
-**Translation:** 
-
-**[3929.16s] English:** Это было...  
-**Translation:** 
-
-**[3930.40s] English:** Я был в таком ужасном состоянии,  
-**Translation:** 
-
-**[3933.48s] English:** что люди очень беспокоились за меня и мое состояние,  
-**Translation:** 
+**[3162.34s] English:** In terms of travel time, why don't you stop by to take a look?  
+**Translation:** Vocabulary: erwin: 厄威; pasadena: 帕萨迪纳
 
-**[3937.78s] English:** и что со мной будет,  
+**[3165.66s] English:** Blizzard, and at the same time, we will meet, and he calls out more names.  
 **Translation:** 
 
-**[3940.44s] English:** что это стало как бы...  
-**Translation:** 
-
-**[3942.42s] English:** Это была крайняя мера.  
-**Translation:** 
-
-**[3944.12s] English:** Момент, когда терять уже было нечего.  
-**Translation:** 
-
-**[3947.60s] English:** И думаю...  
-**Translation:** 
-
-**[3951.16s] English:** Думаю, это и стало переломным моментом.  
-**Translation:** 
-
-**[3954.16s] English:** Это...  
-**Translation:** 
-
-**[3954.56s] English:** И работа в Близзард.  
-**Translation:** 
-
-**[3957.18s] English:** Найти... В смысле, в этом есть элемент глупости.  
-**Translation:** 
-
-**[3960.00s] English:** С глубокого одиночества, когда до встречи с теми ребятами за обедом, ты был один. В самом глубинном смысле. Это было не как в Нью-Йоркском писательском кружке, да? Наверное, это было невероятно, найти свою гильдию.  
-**Translation:** 
-
-**[3976.10s] English:** Да. Это было все, что мне нужно. Как интроверт, ты думаешь, что есть экстраверты и интроверты, и что интровертам якобы никто не нужен, но, как ни странно, по-моему, интровертам люди нужны даже больше.  
-**Translation:** 
-
-**[3994.48s] English:** Просто мы не всегда знаем, как взаимодействовать правильным здоровым образом, как находить людей, налаживать с ними связь.  
-**Translation:** 
-
-**[4004.78s] English:** Это было...  
-**Translation:** 
-
-**[4006.38s] English:** Потрясающе.  
-**Translation:** 
-
-**[4008.82s] English:** Одна из особенностей писательства, которая меня привлекала, это уединение.  
-**Translation:** 
-
-**[4014.38s] English:** И то, что не нужно было ни с кем сотрудничать, можно было просто писать то, что хочешь, и это было только твое.  
-**Translation:** 
-
-**[4022.14s] English:** Успех или провал, все зависело только от тебя, и это меня очень привлекало.  
-**Translation:** 
-
-**[4027.26s] English:** А вот мысль о совместном творчестве, наоборот, отталкивала.  
-**Translation:** 
-
-**[4032.16s] English:** Я все четыре года учебы...  
-**Translation:** 
-
-**[4035.78s] English:** Стажировался.  
-**Translation:** 
-
-**[4036.10s] English:** Стажировался в Universal Pictures, потому что думал, что хочу работать в индустрии кино.  
-**Translation:** 
-
-**[4042.32s] English:** И там было очень нездоровое творческое сотрудничество.  
-**Translation:** 
-
-**[4045.72s] English:** В киноиндустрии оно очень...  
-**Translation:** 
-
-**[4049.82s] English:** Знаешь, я смотрю на киноиндустрию с каким-то нездоровым восхищением.  
-**Translation:** 
-
-**[4055.02s] English:** Восхищаюсь ей, так как я вырос на всех этих легендах, которые оттуда вышли, но там все устроено как в кастовой системе.  
-**Translation:** 
-
-**[4064.62s] English:** А...  
-**Translation:** 
-
-**[4065.18s] English:** Я как старший...  
-**Translation:** 
-
-**[4066.10s] English:** Стажер был на самом дне этой кастовой системы, и видел, как обращались с людьми из низшей касты этой киноиндустрии.  
-**Translation:** 
-
-**[4075.14s] English:** И все это было просто ужасно, понимаешь?  
-**Translation:** 
-
-**[4079.14s] English:** А вот...  
-**Translation:** 
-
-**[4080.00s] English:** игровой индустрии все было иначе очень плоская иерархия неважно был ли ты  
-**Translation:** 
-
-**[4086.84s] English:** гендиректором или начальником то как майк и аллен вели себя это как они  
-**Translation:** 
-
-**[4092.84s] English:** обращались со мной младшим геймдизайнером ты чувствовал себя на  
-**Translation:** 
-
-**[4097.10s] English:** равных и думаю это не только товарищество но дело было не в последнюю  
-**Translation:** 
-
-**[4104.90s] English:** очередь в самой работе и в трудовой этике именно это меня и вытащила упорный  
-**Translation:** 
-
-**[4113.84s] English:** труд над любимым делом да если позволишь я обязан зачитать тот  
-**Translation:** 
-
-**[4121.20s] English:** пророческий пост называется один из нас от 18 апреля 2002 потому что по сути как  
-**Translation:** 
-
-**[4128.36s] English:** мне кажется это так и остался одним из нас извиняюсь что привожу в пример  
-**Translation:** 
-
-**[4133.26s] English:** императора юстиниана  
-**Translation:** 
-
-**[4134.88s] English:** но ты остался в некотором роде простым геймером настоящим геймером которые по  
-**Translation:** 
-
-**[4141.90s] English:** совместительству еще и делает игры и этот пост как раз об этом и его очень  
-**Translation:** 
-
-**[4148.68s] English:** интересно читать ведь это было в самом начале ты еще ничего не знал не знал  
-**Translation:** 
-
-**[4153.56s] English:** какие игры в итоге создашь заголовок если хочешь чтобы что-то было сделано  
-**Translation:** 
-
-**[4158.82s] English:** хорошо цитирую на этой неделе я принял предложение о работе младшим  
-**Translation:** 
-
-**[4163.68s] English:** геймдизайнером в ближайшем будущем  
-**Translation:** 
-
-**[4164.86s] English:** в частности я буду делать квесты для world of warcraft мморпг от blizzard по  
-**Translation:** 
-
-**[4171.40s] English:** популярной серии warcraft помимо дизайна квестов я также буду участвовать в  
-**Translation:** Vocabulary: blizzard: 暴雪; warcraft: 魔兽
-
-**[4178.26s] English:** разработке эндгейм контента для world of warcraft я делюсь этой информацией не  
-**Translation:** 
-
-**[4185.56s] English:** только из-за своей мазохистской любви к чтению гневных тирад и оскорблений но и  
-**Translation:** 
-
-**[4190.38s] English:** потому что я знаю фанаты этого сайта хардкорная мморпг игроки я знаю что вы  
-**Translation:** 
-
-**[4191.86s] English:** знаете что я знаю что я знаю что вы знаете что я знаю что вы знаете что я знаю  
-**Translation:** 
-
-**[4194.86s] English:** читатели сайта также знают мое личное мнение о том что  
-**Translation:** 
-
-**[4200.00s] English:** Что такое увлекательный игровой опыт, а что ощущается как пустая трата времени или плохо продуманный бой?  
-**Translation:** 
-
-**[4207.16s] English:** Ты очень красноречив для этого поста и без всяких подколов.  
-**Translation:** 
-
-**[4211.54s] English:** Вы все читали мое мнение о таких вещах, как утомительный фарм, бессюжетные лагеря,  
-**Translation:** 
-
-**[4217.02s] English:** очевидные пожиратели времени без линейного повествования,  
-**Translation:** 
-
-**[4220.46s] English:** квесты, где награда дело случая, а не мастерство,  
-**Translation:** 
-
-**[4223.38s] English:** и награды, которые не стоят потраченных на них времени и сил, чтобы их получить.  
-**Translation:** 
-
-**[4228.06s] English:** Я надеюсь, что мое участие в World of Warcraft успокоит фанатов MMORPG,  
-**Translation:** 
-
-**[4234.84s] English:** потому что теперь один из нас по ту сторону баррикад и будет отстаивать интересы игрока.  
-**Translation:** 
-
-**[4243.12s] English:** И дальше ты описываешь свои огромные надежды на World of Warcraft,  
-**Translation:** 
-
-**[4247.06s] English:** и так забавно читать, ведь ты не осознаешь, что она будет в числе величайших игр,  
-**Translation:** 
-
-**[4254.20s] English:** в которую будут играть миллионы,  
-**Translation:** 
-
-**[4257.10s] English:** и все эти люди проведут их в мире,  
-**Translation:** 
-
-**[4258.04s] English:** и все эти люди проведут их в мире, и все эти люди проведут их в мире,  
-**Translation:** 
-
-**[4258.06s] English:** и все эти люди проведут в ней сотни, тысячи часов. Безумие.  
-**Translation:** 
+**[3170.30s] English:** Four people from the guild, and I am one of them. They are all like this, right?  
+**Translation:** Vocabulary: guild: 公会
 
-**[4261.06s] English:** И забавно, что это один из нас написано на заре новой эпохи.  
+**[3173.86s] English:** They work at Blizzard; he, yes, we're all from Blizzard, and this was  
 **Translation:** 
 
-**[4266.68s] English:** Цитирую последний абзац.  
+**[3177.88s] English:** So.  
 **Translation:** 
 
-**[4268.62s] English:** Учитывая все, что у меня сейчас творится,  
+**[3177.98s] English:** It's so strange because at that time, I had money.  
 **Translation:** 
 
-**[4271.30s] English:** прошу простить за любые перебои с обновлениями здесь на сайте.  
+**[3181.20s] English:** It wasn't very good back then; it's not like now when everything seems to be going better.  
 **Translation:** 
 
-**[4276.32s] English:** Я правда постараюсь подкидывать вам что-нибудь почитать, пока вы должны быть на работе.  
+**[3185.20s] English:** They played everything, so we had to choose sometimes, therefore  
 **Translation:** 
 
-**[4282.18s] English:** А пока меня ждет целый мир NPC, которых надо научить словам  
-**Translation:** 
-
-**[4286.90s] English:** кок, сакер и маза, факер, в кавычках.  
-**Translation:** 
-
-**[4293.40s] English:** Хотя, мне кажется, у меня назреют проблемы с начальством.  
-**Translation:** 
-
-**[4298.58s] English:** Один из нас, Джефф, один из нас. Это был потрясающий пост.  
-**Translation:** 
-
-**[4302.30s] English:** Тебе правда тогда влетело от босса?  
-**Translation:** 
-
-**[4304.32s] English:** Нет, нет, моим боссом был Аллен.  
-**Translation:** 
-
-**[4307.16s] English:** Да.  
-**Translation:** 
-
-**[4307.60s] English:** А Аллен все это, конечно, понимал.  
-**Translation:** 
-
-**[4309.94s] English:** И они знали, на что подписывались, когда нанимали меня.  
-**Translation:** 
-
-**[4314.62s] English:** Сейчас, слушая все это, мне так не улыбается.  
-**Translation:** 
-
-**[4316.88s] English:** Я очень ловко за тот пост.  
-**Translation:** 
-
-**[4318.90s] English:** В нем заложено столько интересного.  
-**Translation:** 
-
-**[4320.00s] English:** самонадеянности да и думаю это такая самонадеянность 20-летнего понимаешь мол  
-**Translation:** 
-
-**[4329.78s] English:** я не знаю того чего не знаю я точно знаю как починить эту игру да и вообще все  
-**Translation:** 
-
-**[4334.12s] English:** игры да но в этом есть и своя гениальность есть и страсть то есть  
-**Translation:** 
-
-**[4339.02s] English:** когда ты геймер и вбухиваешь в игру тысячи часов как в тот же everquest ты  
-**Translation:** Vocabulary: everquest: 最终幻想 XIV
-
-**[4344.24s] English:** чувствуешь что в ней цепляет но играя в нее ты не понимаешь сколько труда  
-**Translation:** 
-
-**[4348.86s] English:** кроется за этим опытом и сколько там неопределенности как все сложно и на  
-**Translation:** 
-
-**[4354.60s] English:** какие компромиссы идут и как потом твои задумки столкнувшись с тысячами  
-**Translation:** 
-
-**[4359.86s] English:** миллионами игроков оказываются совсем не тем чем ты их себе представляла всего  
-**Translation:** 
-
-**[4366.98s] English:** этого ты не знаешь но на старте такое эго просто необходимо да хватит ли духу  
-**Translation:** 
-
-**[4372.24s] English:** хотя бы попробовать и вложиться в это но в целом каково это было какая была  
-**Translation:** 
-
-**[4378.02s] English:** атмосфера  
-**Translation:** 
-
-**[4378.86s] English:** в ранний blizzard потому что тогда вышел первый и второй warcraft а третий был в  
-**Translation:** Vocabulary: blizzard: 暴雪; warcraft: Warcraft
-
-**[4385.82s] English:** разработке а еще и starcraft это легендарные игры я в них наверное в сумме  
-**Translation:** 
-
-**[4391.22s] English:** больше тысячи часов наиграл я играл в 1 2 и 3 warcraft в 1 и 2 starcraft конечно  
-**Translation:** Vocabulary: starcraft: 星际争霸
-
-**[4399.54s] English:** играл вов с 1 по 4 диабло и в диабло 2 с декардом кайном и его постой послушай  
-**Translation:** 
-
-**[4406.86s] English:** постой послушай  
-**Translation:** 
-
-**[4408.86s] English:** некоторые из тех персонажей и тех моментов они останутся со мной на всегда в  
-**Translation:** 
-
-**[4414.52s] English:** в общем огромное спасибо тем ребятам из той ранний blizzard но каково там было  
-**Translation:** 
-
-**[4420.36s] English:** какой была команда какими были разрабы какая атмосфера царила в те ранние годы  
-**Translation:** 
-
-**[4425.66s] English:** было потрясающе это была мечта когда я в первый день пришел в офис blizzard а офис  
-**Translation:** 
-
-**[4433.56s] English:** располагался в кампусе калифорнийского университета в вруайне тогда все это было на чертовой потеря и я не думал что я Nations'чук Colombain и не могу опубликоваться здесь в близарт  
-**Translation:** 
-
-**[4438.86s] English:** У них там был...  
-**Translation:** Vocabulary: colombain: 哥伦比亚人
-
-**[4440.00s] English:** такой технопарк, где IT-компании могли арендовать себе офисы.  
-**Translation:** 
-
-**[4446.10s] English:** И когда я туда пришел, Близзард занимала три четверти здания,  
-**Translation:** 
-
-**[4451.72s] English:** а в соседнем здании сидели работники таких компаний, как Cisco,  
-**Translation:** 
-
-**[4456.66s] English:** там повсюду были одни айтишники.  
-**Translation:** Vocabulary: cisco: 思科
-
-**[4460.26s] English:** И было забавно, потому что подъезжаешь,  
-**Translation:** 
-
-**[4463.56s] English:** и вокруг все такое серьезное, деловое,  
-**Translation:** 
-
-**[4466.20s] English:** а потом видишь офис Близзард,  
-**Translation:** 
-
-**[4468.34s] English:** а там все в черных футболках и в шортах,  
-**Translation:** 
-
-**[4472.28s] English:** кидают фризби, играют в сокс,  
-**Translation:** 
-
-**[4475.32s] English:** катаются на самокатах и скейтах,  
-**Translation:** 
-
-**[4477.56s] English:** и ты сразу понимаешь, ага, вот где Близзард.  
-**Translation:** 
-
-**[4481.18s] English:** Вот такая была атмосфера.  
-**Translation:** 
-
-**[4483.22s] English:** Помню, как впервые вошел и подумал,  
-**Translation:** 
-
-**[4485.70s] English:** это же просто комната, как в общаге,  
-**Translation:** 
-
-**[4488.42s] English:** потому что на стенах висели постеры,  
-**Translation:** 
-
-**[4491.62s] English:** а у некоторых даже стояли футоны,  
-**Translation:** 
-
-**[4493.88s] English:** потому что они там ночевали,  
-**Translation:** 
-
-**[4496.30s] English:** потому что мы тогда очень много работали,  
-**Translation:** 
-
-**[4498.34s] English:** но атмосфера была, да и сама компания была очень маленькой.  
-**Translation:** 
-
-**[4503.34s] English:** Когда я пришел в Близзард в мае 2002 года,  
-**Translation:** 
-
-**[4507.34s] English:** в компании было меньше 200 человек,  
-**Translation:** 
-
-**[4509.34s] English:** и это включая целую команду в Сан-Матео,  
-**Translation:** 
-
-**[4512.34s] English:** под названием Blizzard North.  
-**Translation:** 
-
-**[4515.34s] English:** А Blizzard South, наша команда в Ирвайне,  
-**Translation:** Vocabulary: blizzard: 暴风雪
-
-**[4518.34s] English:** отвечала за StarCraft и WarCraft,  
-**Translation:** 
-
-**[4522.34s] English:** и в Blizzard тогда было две команды разработчиков,  
-**Translation:** 
-
-**[4526.34s] English:** команда 1 и команда 2.  
-**Translation:** 
-
-**[4528.28s] English:** В Blizzard South.  
-**Translation:** 
-
-**[4532.28s] English:** Команда 1 была в почете, это были РТСники.  
-**Translation:** 
-
-**[4536.28s] English:** Они делали StarCraft, WarCraft 2,  
-**Translation:** 
-
-**[4539.28s] English:** и в тот момент они как раз работали над WarCraft 3.  
-**Translation:** 
-
-**[4545.28s] English:** А команда 2 была таким гадким утенком.  
-**Translation:** 
-
-**[4549.28s] English:** Кажется, до моего прихода они уже пытались  
-**Translation:** 
-
-**[4552.28s] English:** выделить вторую команду, но несколько раз безуспешно.  
-**Translation:** 
+**[3189.96s] English:** I, for example, have never bought Starcraft or Diablo.  
+**Translation:** Vocabulary: diablo: 恶魔之魂; starcraft: 星际争霸
 
-**[4556.28s] English:** И тогда они, наконец,  
+**[3193.00s] English:** Or Warcraft, I was one of those who played at the time.  
 **Translation:** 
 
-**[4558.28s] English:** решили, что будут делать World of Warcraft.  
+**[3196.06s] English:** Half-Life, Quake: I pretty much played Quake 3, and I never played  
 **Translation:** Vocabulary: warcraft: 战争艺术
 
-**[4560.00s] English:** Warcraft. До этого был проект под названием No Mat. Я не знаю точно, что конкретно это была за игра,  
+**[3200.74s] English:** In games by Blizzard, but here they are just inviting me to Blizzard Entertainment.  
 **Translation:** 
 
-**[4568.16s] English:** но поначалу именно над ней работала команда 2. Но проект закрыли, и Аллен переключил команду  
+**[3204.98s] English:** Then Blizzard was already...  
 **Translation:** 
 
-**[4575.18s] English:** на разработку World of Warcraft. И там был просто потрясающий дизайнер, его звали Эрик Додс. Позже  
+**[3207.98s] English:** Was a legend with their World of Warcraft and StarCraft, that is, she  
 **Translation:** 
 
-**[4584.54s] English:** карьерный путь привел его на должность геймдиректора Hearthstone. Он и Бен, Бен Броуд,  
+**[3212.00s] English:** Already earned this reputation for the company, which, it turned out,  
 **Translation:** 
 
-**[4590.66s] English:** по сути были ведущими дизайнерами этой игры. А Эрик и Кевин Джордан были двумя ключевыми  
+**[3216.30s] English:** Does not make mistakes.  
 **Translation:** 
 
-**[4599.10s] English:** дизайнерами при работе над World of Warcraft в команде 2. А еще была техническая команда во  
+**[3217.60s] English:** Nu, she was just on her way to making a good impression.  
 **Translation:** 
 
-**[4607.06s] English:** главе с Джоном Кэшем. И Джон Кэш в первый же день, когда я пришел на работу,  
+**[3221.70s] English:** It seems like you might have provided a Russian phrase that doesn't fully form an English sentence. Could you please provide the intended English words or context? Without additional information, I can't accurately punctuate and capitalize this without making assumptions.  
 **Translation:** 
 
-**[4614.06s] English:** был на работе с Джоном Кэшем. И в первый же день, когда я пришел на работу,  
+**[3222.78s] English:** She became a legend, gamers adored her simply.  
+**Translation:** Vocabulary: adored: 崇拜; capitalize: 首字母大写; punctuate: 标点符号
+
+**[3226.58s] English:** In addition, there were also know-nothings like me, who didn't  
 **Translation:** 
 
-**[4614.42s] English:** и Джон Кэш в первый же день, когда я пришел на работу,  
+**[3229.94s] English:** We played neither Warcraft II, nor Diablo II, nor StarCraft.  
 **Translation:** 
 
-**[4614.54s] English:** работать в Команде 2, мне сказали, иди, получи свой логин у Джона Кэша.  
+**[3235.60s] English:** What shocked everyone.  
 **Translation:** 
 
-**[4620.26s] English:** Я такой, Джон, тот самый Джон Кэш из ИД?  
+**[3236.74s] English:** Yes.  
 **Translation:** 
 
-**[4623.70s] English:** А, у Джона Кэша, знаете, был свой скин,  
+**[3237.10s] English:** Yes.  
 **Translation:** 
 
-**[4627.84s] English:** можно было играть за Джона Кэша в Quake 3.  
+**[3237.12s] English:** Yes.  
 **Translation:** 
 
-**[4630.76s] English:** И вот он меня увидел,  
+**[3237.14s] English:** Yes.  
 **Translation:** 
 
-**[4633.06s] English:** а он, оказывается, был большим фанатом Эверквест,  
+**[3237.16s] English:** Yes.  
 **Translation:** 
 
-**[4636.14s] English:** и говорит, так это ты тот парень, что ведет Legacy of Steel?  
+**[3237.18s] English:** Yes.  
 **Translation:** 
 
-**[4640.02s] English:** А я ему, а ты Джон Кэш?  
+**[3237.20s] English:** Yes.  
 **Translation:** 
 
-**[4641.60s] English:** У нас был такой момент, когда мы, можно сказать, пофанатели друг от друга.  
+**[3237.22s] English:** Yes.  
 **Translation:** 
 
-**[4647.24s] English:** В общем, там царила просто невероятно крутая атмосфера.  
+**[3237.28s] English:** Yes.  
 **Translation:** 
 
-**[4651.56s] English:** Продюсеров было очень мало.  
+**[3237.30s] English:** Yes.  
 **Translation:** 
 
-**[4653.92s] English:** Вообще, в Команде Разработки есть пять основных дисциплин,  
+**[3237.32s] English:** Yes.  
 **Translation:** 
 
-**[4659.18s] English:** из которых складывается игра.  
+**[3237.36s] English:** Yes.  
 **Translation:** 
 
-**[4661.64s] English:** Есть инженеры или программисты, которые пишут код.  
+**[3237.38s] English:** Yes.  
 **Translation:** 
 
-**[4666.60s] English:** Есть команда художников, которая создает весь визуал для игры.  
+**[3237.44s] English:** Yes.  
 **Translation:** 
 
-**[4670.96s] English:** Сюда входит все, 3D-модели, персонажи, окружение.  
+**[3237.52s] English:** Yes.  
 **Translation:** 
 
-**[4675.82s] English:** Плюс сюда же анимация, технический арт, чтобы все работало.  
+**[3237.98s] English:** You went crazy.  
 **Translation:** 
 
-**[4680.00s] English:** Есть геймдизайн, но в некоторых компаниях его нет, он лежит  
+**[3239.46s] English:** No.  
 **Translation:** 
 
-**[4686.44s] English:** на художниках и инженерах.  
+**[3240.00s] English:** I, of course, have lost my mind, but in a different key.  
 **Translation:** 
 
-**[4688.56s] English:** Например, в Valve очень мало дизайнеров, потому что  
+**[3243.08s] English:** Thought I might be robbed right now?  
 **Translation:** 
 
-**[4691.86s] English:** там каждый дизайнер.  
-**Translation:** Vocabulary: valve: 阀门
-
-**[4693.26s] English:** Но в компаниях, где дизайн — это отдельная дисциплина,  
+**[3244.90s] English:** Yes.  
 **Translation:** 
 
-**[4697.88s] English:** а в Blizzard как раз так и было, геймдизайнеры по сути отвечают  
-**Translation:** Vocabulary: blizzard: 暴雪公司
-
-**[4702.96s] English:** за создание игрового опыта.  
+**[3245.22s] English:** Or who are these people? Is this some kind of scam?  
 **Translation:** 
 
-**[4705.80s] English:** Они настраивают все системы и контент таким образом,  
+**[3247.36s] English:** Then, you haven't met people from the internet.  
 **Translation:** 
 
-**[4710.00s] English:** чтобы вести игрока через всю игру.  
+**[3250.20s] English:** In general, I went there,  
 **Translation:** 
 
-**[4712.76s] English:** То есть это и сюжет, и дизайн квестов, и само передвижение  
+**[3254.66s] English:** And in the end, there was Rob Pardo,  
 **Translation:** 
 
-**[4717.10s] English:** по игровому миру.  
+**[3259.00s] English:** Which was then the lead designer of Warcraft III,  
+**Translation:** Vocabulary: pardo: 帕尔多
+
+**[3264.00s] English:** And he turned out to be Ariel, you know?  
 **Translation:** 
 
-**[4718.32s] English:** Да.  
+**[3267.20s] English:** Correspondingly, this was neither a woman nor a blonde.  
+**Translation:** Vocabulary: ariel: 亚里尔; correspondingly: 相应地
+
+**[3270.00s] English:** Forest Elf.  
 **Translation:** 
 
-**[4719.32s] English:** То есть у геймдизайнеров, как и у художников с инженерами,  
+**[3271.76s] English:** Even I don't know what I was expecting back then.  
 **Translation:** 
 
-**[4724.24s] English:** есть масса специализаций внутри дисциплины геймдизайна.  
+**[3274.40s] English:** This was Rob Parado.  
 **Translation:** 
 
-**[4728.84s] English:** Некоторые больше занимаются системами, например в любой  
+**[3277.02s] English:** We are still good friends.  
 **Translation:** 
 
-**[4732.56s] English:** игре, где существует лут, например в Diablo 4, World of Warcraft,  
+**[3279.42s] English:** Scott Mercer was a wizard in our guild in EverQuest.  
+**Translation:** 
+
+**[3283.58s] English:** Boy Dolomin.  
+**Translation:** Vocabulary: guild: 公会; mercer: 商贩
+
+**[3285.26s] English:** There was also a guy named Roman Kenny,  
+**Translation:** 
+
+**[3287.88s] English:** Which is an absolutely nuts wizard from our guild.  
+**Translation:** Vocabulary: kenny: 肯尼
+
+**[3294.82s] English:** And here I had lunch with those guys.  
+**Translation:** 
+
+**[3296.92s] English:** We just went to some little restaurant in Irvine,  
+**Translation:** Vocabulary: irvine: 美国加利福尼亚州橙县的一个城市
+
+**[3300.00s] English:** And...  
+**Translation:** 
+
+**[3301.76s] English:** Know that, I apologize for such a comparison,  
+**Translation:** 
+
+**[3304.36s] English:** But this was, in essence, my own peculiar coming-out.  
+**Translation:** 
+
+**[3308.02s] English:** We talked about how games are considered something shameful.  
+**Translation:** Vocabulary: peculiar: 特殊的; shameful: 丢人的
+
+**[3311.16s] English:** What is taboo is feeling ashamed of who you are and what you like.  
+**Translation:** 
+
+**[3314.60s] English:** Until this moment, I had never told my friends or family that I love games.  
+**Translation:** Vocabulary: taboo: 禁忌
+
+**[3320.68s] English:** I play EverQuest, it's so cool, we just killed a dragon.  
+**Translation:** 
+
+**[3324.52s] English:** In general, I kept this part of who I was hidden.  
+**Translation:** Vocabulary: dragon: 龙
+
+**[3328.70s] English:** Here I sit with these guys, and I say that I can't do this anymore.  
+**Translation:** 
+
+**[3329.84s] English:** Here I sit with these guys, and I say that I can't do this anymore.  
+**Translation:** 
+
+**[3329.96s] English:** I am sitting with these guys in Irvine,  
+**Translation:** 
+
+**[3333.16s] English:** And we're talking about dragons, swords,  
+**Translation:** Vocabulary: dragons: 龙
+
+**[3338.00s] English:** Tactics for Raids,  
+**Translation:** 
+
+**[3340.54s] English:** And we discuss people in the guild.  
+**Translation:** Vocabulary: raids: 突袭; tactics: 策略
+
+**[3343.62s] English:** In that moment, I felt for the first time like myself.  
+**Translation:** 
+
+**[3349.04s] English:** It was so comfortable for me.  
+**Translation:** 
+
+**[3352.64s] English:** And this was the strongest revelation.  
+**Translation:** 
+
+**[3356.04s] English:** After that lunch, he said to me again,  
+**Translation:** Vocabulary: revelation: 重大揭示
+
+**[3359.80s] English:** I am very glad that we spoke with you.  
+**Translation:** 
+
+**[3360.00s] English:** He called me a couple of times to have lunch, and I just took it in stride.  
+**Translation:** Vocabulary: stride: 步伐
+
+**[3363.68s] English:** As 'O, now I... because I befriended these  
+**Translation:** 
+
+**[3364.28s] English:** I called you four times, and twice I said, this is important to me.  
+**Translation:** Vocabulary: befriended: 结识
+
+**[3367.50s] English:** Kids online, and now we're friends in real life too, and it turned out,  
+**Translation:** 
+
+**[3368.34s] English:** Very glad, I have danced for so many years.  
+**Translation:** 
+
+**[3370.38s] English:** Many years I didn't do anything, and now everything keeps repeating.  
+**Translation:** 
+
+**[3371.22s] English:** That they work in a gaming company, and on one of  
+**Translation:** 
+
+**[3373.94s] English:** Following meals, they invited us to join them for this lunch with one person.  
+**Translation:** 
+
+**[3373.96s] English:** Mне даже Lauren Jungle повернула её глаза.  
+**Translation:** 
+
+**[3376.56s] English:** I was told that she is very cheerful.  
+**Translation:** 
+
+**[3378.74s] English:** He was one of those who advised me.  
+**Translation:** Vocabulary: cheerful: 乐观
+
+**[3379.48s] English:** Warrior-Troll, who had the in-game nickname Barf, this  
+**Translation:** 
+
+**[3382.24s] English:** Nevertheless, she inspired me from the moment of birth.  
+**Translation:** 
+
+**[3384.32s] English:** He was a troll warrior.  
+**Translation:** 
+
+**[3384.56s] English:** Lie in the duct, work, and he did it all.  
+**Translation:** Vocabulary: troll: 恶搞战士
+
+**[3385.36s] English:** And Barfa; he doesn't play with us all the time,  
+**Translation:** 
+
+**[3388.08s] English:** This is also colleague Madi.  
+**Translation:** Vocabulary: colleague: 同事
+
+**[3389.90s] English:** He joined the guild, one could say, because of the fence, because  
+**Translation:** 
+
+**[3392.78s] English:** What he was familiar with was an invitation for Rielle.  
+**Translation:** Vocabulary: guild: 行会
+
+**[3396.30s] English:** Of their own accord, like "I don't know who Barfa is, but now he's in the guild.  
+**Translation:** 
+
+**[3400.54s] English:** Then a new dungeon called Yama was released, and we haven't been there yet.  
+**Translation:** Vocabulary: accord: 自行
+
+**[3405.24s] English:** They weren't there, and here we are, going into that dungeon, and everything  
+**Translation:** 
+
+**[3409.54s] English:** It goes sideways, as it forever does in EverQuest.  
+**Translation:** Vocabulary: dungeon: 地牢; sideways: 出错
+
+**[3412.48s] English:** The whole guild is dumping resources, except Barfa.  
+**Translation:** 
+
+**[3415.36s] English:** His troll is so large that it cannot jump out.  
+**Translation:** Vocabulary: cannot: 不能; dumping: 倾销
+
+**[3419.10s] English:** To the exit.  
+**Translation:** 
+
+**[3420.10s] English:** And I had a potion, a very expensive potion for that,  
+**Translation:** Vocabulary: potion: 药水
+
+**[3426.26s] English:** To teleport, he might be able to.  
+**Translation:** 
+
+**[3430.20s] English:** Only a player from a top guild for himself.  
+**Translation:** Vocabulary: teleport: 瞬间移动
+
+**[3432.54s] English:** Here I give this potion to Barf and say, "Hold on, Yuz,  
+**Translation:** 
+
+**[3437.36s] English:** Teleport yourself.  
+**Translation:** 
+
+**[3438.36s] English:** I'm Roga, I can just go invisible and come out whenever I want.  
+**Translation:** 
+
+**[3443.90s] English:** Danjia.  
+**Translation:** Vocabulary: invisible: 看不见的
+
+**[3444.86s] English:** So I saved Barf, not really knowing who he was, and spent  
+**Translation:** 
+
+**[3449.46s] English:** For this very expensive potion.  
+**Translation:** 
+
+**[3451.24s] English:** Here at lunch, Rob presents me.  
+**Translation:** 
+
+**[3456.76s] English:** This is Allen Adam.  
+**Translation:** 
+
+**[3457.76s] English:** He plays for Barfu.  
+**Translation:** 
+
+**[3459.64s] English:** I'm "Oh, Barf!", and he's "It was you who saved me then.  
+**Translation:** 
+
+**[3463.92s] English:** In Yamе?  
+**Translation:** 
+
+**[3464.92s] English:** Nu and it turned out that Allen was the founder of Blizzard.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[3468.86s] English:** And he was the main one, he then pretty much ran everything, this was  
+**Translation:** 
+
+**[3473.60s] English:** Allen, Michael, and Barfa.  
+**Translation:** 
+
+**[3474.60s] English:** Mike, Mike Morheim, and Frank Pierce.  
+**Translation:** 
+
+**[3476.16s] English:** I didn't understand that Russia was an authority.  
+**Translation:** Vocabulary: morheim: 莫海姆; pierce: 皮尔斯
+
+**[3476.80s] English:** I will say that it was not like that.  
+**Translation:** 
+
+**[3479.80s] English:** This was franking.  
+**Translation:** 
+
+**[3480.00s] English:** That these lunches just really pleased me, for there I was myself.  
+**Translation:** 
+
+**[3484.50s] English:** I was truly happy alongside these people,  
+**Translation:** 
+
+**[3487.90s] English:** Which ones talked about games, and I found it easy with them.  
+**Translation:** 
+
+**[3493.42s] English:** Here's one day, Rob enters Overquest. He hadn't played in almost forever, and he says,  
+**Translation:** Vocabulary: overquest: 超 quest
+
+**[3498.38s] English:** I want you to check the Blizzard job site tomorrow.  
+**Translation:** 
+
+**[3503.88s] English:** I said, "Okay, I'll check their website tomorrow.  
+**Translation:** 
+
+**[3507.38s] English:** And right then, they announced World of Warcraft.  
+**Translation:** 
+
+**[3512.66s] English:** And they posted a vacancy on the website for a junior quest designer.  
+**Translation:** Vocabulary: vacancy: 空缺; warcraft: 魔兽世界
+
+**[3518.82s] English:** The most amusing part is that I can't remember whether it was a requirement or just a plus in the job description.  
+**Translation:** 
+
+**[3525.84s] English:** They indicated that a person with a literary education is needed.  
+**Translation:** 
+
+**[3531.56s] English:** I said, "You guys must have set this up for me.  
+**Translation:** 
+
+**[3535.08s] English:** It seemed as though they were looking for me specifically.  
+**Translation:** 
+
+**[3537.38s] English:** Now, hindsight being what it is, I understand that these guys interviewed me for six months straight.  
+**Translation:** 
+
+**[3543.10s] English:** Yes.  
+**Translation:** Vocabulary: hindsight: 事后诸葛
+
+**[3543.60s] English:** And they turned out to be true friends; they did something really cool.  
+**Translation:** 
+
+**[3548.38s] English:** I decided, who cares, might as well.  
+**Translation:** 
+
+**[3552.38s] English:** This position has appeared.  
+**Translation:** 
+
+**[3554.38s] English:** I responded with all my heart, you know, there were many quests to write.  
+**Translation:** Vocabulary: quests: 任务
+
+**[3562.38s] English:** Then began a fairly rigorous six-month selection process.  
+**Translation:** 
+
+**[3567.38s] English:** Because they never hired outside designers.  
+**Translation:** Vocabulary: designers: 设计师; rigorous: 严格的
+
+**[3571.38s] English:** Typically, designers at Blizzard were grown from those who already worked there.  
+**Translation:** 
+
+**[3575.38s] English:** They were either transferred from other departments,  
+**Translation:** 
+
+**[3579.38s] English:** Either they came from the quality assurance department or the support team.  
+**Translation:** 
+
+**[3584.38s] English:** So, hiring someone off the street for them was a serious step.  
+**Translation:** Vocabulary: assurance: 保证部门
+
+**[3589.38s] English:** And therefore, they gave me a real test.  
+**Translation:** 
+
+**[3593.38s] English:** I then met Chris Matson for the first time,  
+**Translation:** 
+
+**[3596.38s] English:** Which one...  
+**Translation:** 
+
+**[3600.00s] English:** Pожалуй, самый вдохновляющий и творческий человек на Земле.  
+**Translation:** 
+
+**[3606.28s] English:** They immediately arranged a paired interview for me.  
+**Translation:** 
+
+**[3610.22s] English:** There were two guys there.  
+**Translation:** 
+
+**[3611.36s] English:** This was Kevin Jordan, one of the first designers of WWII.  
+**Translation:** 
+
+**[3616.02s] English:** Seriously, his contribution is undervalued.  
+**Translation:** Vocabulary: undervalued: 被低估的
+
+**[3618.66s] English:** He was one of the first class designers, PvP designers.  
+**Translation:** 
+
+**[3623.76s] English:** But he is a very quiet guy.  
+**Translation:** 
+
+**[3626.58s] English:** He was paired with Chris.  
+**Translation:** 
+
+**[3629.18s] English:** Chris, he just fills up all the space, you know?  
+**Translation:** 
+
+**[3633.46s] English:** Chris could simply sit and listen.  
+**Translation:** 
+
+**[3636.96s] English:** He is so creative, so enthusiastic.  
+**Translation:** 
+
+**[3641.06s] English:** And how he expresses his thoughts,  
+**Translation:** 
+
+**[3643.96s] English:** He says that you immediately become his fan.  
+**Translation:** 
+
+**[3648.58s] English:** Here we are, Chris and I, going to have lunch at an Italian restaurant.  
+**Translation:** 
+
+**[3653.88s] English:** Across the road from Blizzard.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[3657.36s] English:** I remember how Chris stopped,  
+**Translation:** 
+
+**[3659.18s] English:** How did Chris stop to buy cigarettes?  
+**Translation:** 
+
+**[3660.46s] English:** On the way to the interview.  
+**Translation:** 
+
+**[3663.72s] English:** Then Chris literally inserted himself into every word.  
+**Translation:** 
+
+**[3666.72s] English:** Fuck, shit!  
+**Translation:** 
+
+**[3668.56s] English:** I came from that corporate culture,  
+**Translation:** 
+
+**[3671.18s] English:** Which I saw in my father's recruitment business.  
+**Translation:** 
+
+**[3674.76s] English:** He could not imagine someone swearing during an interview.  
+**Translation:** Vocabulary: recruitment: 招聘; swearing: 骂人
+
+**[3678.32s] English:** Or he would buy cigarettes to smoke on his way.  
+**Translation:** 
+
+**[3681.86s] English:** And here I am again, among my own.  
+**Translation:** 
+
+**[3685.28s] English:** I never smoked myself, but being around people who do can be unpleasant.  
+**Translation:** 
+
+**[3688.56s] English:** Which didn't care about corporate norms,  
+**Translation:** 
+
+**[3693.60s] English:** This was very inspiring.  
+**Translation:** 
+
+**[3695.66s] English:** Then I had my last interview with Salomon, Rob.  
+**Translation:** 
+
+**[3699.98s] English:** And one excellent programmer named Bob Fitch.  
+**Translation:** 
+
+**[3704.00s] English:** And, to my knowledge, he is one of the first five developers of Blizzard.  
+**Translation:** Vocabulary: fitch: 菲奇; programmer: 程序员
+
+**[3709.62s] English:** They led me to the Arco gas station, where there was a Jack-and-Box.  
+**Translation:** 
+
+**[3714.46s] English:** Do you know how it happens? Two in one.  
+**Translation:** 
+
+**[3716.90s] English:** Here we were, Arco.  
+**Translation:** 
+
+**[3718.56s] English:** We were Jack and Box.  
+**Translation:** 
+
+**[3720.00s] English:** And this was my final interview with Blizzard in Jack-in-the-Box at the gas station.  
+**Translation:** 
+
+**[3725.00s] English:** I remember thinking to myself.  
+**Translation:** 
+
+**[3728.04s] English:** These guys brought me to Jack-in-the-Box at the Arco gas station.  
+**Translation:** 
+
+**[3734.36s] English:** I should get a job in this company.  
+**Translation:** 
+
+**[3737.00s] English:** This is my people.  
+**Translation:** 
+
+**[3738.08s] English:** This is my place.  
+**Translation:** 
+
+**[3739.96s] English:** This was the best that could have happened.  
+**Translation:** 
+
+**[3742.24s] English:** So, here we are...  
+**Translation:** 
+
+**[3745.22s] English:** Such crazy paths led me to Blizzard.  
+**Translation:** 
+
+**[3747.90s] English:** I started from the very bottom and ended up at the top in Jack-in-the-Box.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[3752.40s] English:** Can you tell me?  
+**Translation:** 
+
+**[3754.50s] English:** You mentioned heavy moments and depression.  
+**Translation:** 
+
+**[3759.02s] English:** Tell me how you managed all of this.  
+**Translation:** 
+
+**[3762.42s] English:** The fact is that many people are in a similar state and are listening to us now.  
+**Translation:** 
+
+**[3768.92s] English:** What advice can you give them?  
+**Translation:** 
+
+**[3770.94s] English:** How can we find an exit?  
+**Translation:** 
+
+**[3773.08s] English:** How do you find your people?  
+**Translation:** 
+
+**[3774.94s] English:** There were many heavy moments.  
+**Translation:** 
+
+**[3777.90s] English:** I'll tell you about the strangest thing.  
+**Translation:** 
+
+**[3781.00s] English:** I began drinking heavily, and alcohol became...  
+**Translation:** 
+
+**[3786.60s] English:** I fought against it until I was thirty years old.  
+**Translation:** 
+
+**[3790.36s] English:** The thing I'm most proud of today is my sobriety and that I haven't drunk in such a long time.  
+**Translation:** Vocabulary: sobriety: 戒酒状态
+
+**[3798.22s] English:** I remember how I...  
+**Translation:** 
+
+**[3799.36s] English:** I would occasionally buy a bottle of Old Grand Dad and drink it all by myself, then watch the Oscars.  
+**Translation:** Vocabulary: oscars: 奥斯卡颁奖礼
+
+**[3807.10s] English:** I remember.  
+**Translation:** 
+
+**[3807.90s] English:** I of all possible occupations watched Oscar, and this is a maximally fake and dishonest atmosphere.  
+**Translation:** Vocabulary: maximally: 最大程度上
+
+**[3815.34s] English:** But I was, you know, very drunk, and all these people seemed so put together, successful, and so polished,  
+**Translation:** 
+
+**[3824.94s] English:** Aha, it was exactly this contrast that made me feel like a failure.  
+**Translation:** Vocabulary: polished: 光鲜外露
+
+**[3832.88s] English:** Now, all of this seems so silly and unimportant.  
+**Translation:** 
+
+**[3837.90s] English:** I, you know,...  
+**Translation:** 
+
+**[3840.00s] English:** I found myself in this constant battle, trying to avoid drinking but drinking anyway to make it easier.  
+**Translation:** 
+
+**[3847.68s] English:** Keep the same transcript with proper punctuation and capitalization: It was lucky for me that my parents supported me very much, even when I was in my twenties, even after I moved out from them.  
+**Translation:** Vocabulary: capitalization: 标点符号; transcript: 对话记录
+
+**[3858.04s] English:** I went to therapy, and it has been very helpful.  
+**Translation:** 
+
+**[3863.92s] English:** Knows, this has been very helpful, and I understood one thing.  
+**Translation:** 
+
+**[3866.86s] English:** We need to find our own therapist.  
+**Translation:** 
+
+**[3871.56s] English:** It's not about just checking a box; I went to therapy.  
+**Translation:** Vocabulary: therapist: 心理咨询师
+
+**[3876.78s] English:** It is important to find someone who as if...  
+**Translation:** 
+
+**[3879.86s] English:** How would it help you get out of this rut in a healthy way.  
+**Translation:** 
+
+**[3887.92s] English:** And...  
+**Translation:** 
+
+**[3888.76s] English:** I tried antidepressants, but I really hated taking pills; I just couldn't stand it.  
+**Translation:** Vocabulary: antidepressants: 抗抑郁药
+
+**[3894.80s] English:** And feel that something in me doesn't like it.  
+**Translation:** 
+
+**[3896.84s] English:** Something foreign, that changes me, is with me.  
+**Translation:** 
+
+**[3900.28s] English:** This did not suit me.  
+**Translation:** 
+
+**[3903.22s] English:** Then, the most difficult part, well, something I've never told anyone, and it's hard for me to talk about.  
+**Translation:** 
+
+**[3912.30s] English:** But in the end, I went through ECT, that is, electroconvulsive therapy, shock therapy, and this pulled me out of it.  
+**Translation:** 
+
+**[3925.64s] English:** I would never call it a miracle.  
+**Translation:** Vocabulary: electroconvulsive: 电抽搐治疗
+
+**[3929.16s] English:** This was...  
+**Translation:** 
+
+**[3930.40s] English:** I was in such a terrible state,  
+**Translation:** 
+
+**[3933.48s] English:** What people were very worried about was my condition.  
+**Translation:** 
+
+**[3937.78s] English:** And what will happen to me?  
+**Translation:** 
+
+**[3940.44s] English:** What has become of this...  
+**Translation:** 
+
+**[3942.42s] English:** This was a last resort.  
+**Translation:** 
+
+**[3944.12s] English:** The moment when there was nothing left to lose.  
+**Translation:** 
+
+**[3947.60s] English:** I think...  
+**Translation:** 
+
+**[3951.16s] English:** I think this became a turning point.  
+**Translation:** 
+
+**[3954.16s] English:** This...  
+**Translation:** 
+
+**[3954.56s] English:** Work at Blizzard.  
+**Translation:** 
+
+**[3957.18s] English:** Find... I mean, there's an element of foolishness in this.  
+**Translation:** 
+
+**[3960.00s] English:** From deep solitude, when you were alone before meeting those guys for lunch—it was in the deepest sense. This wasn't like finding your guild at the New York writers' circle, was it? Probably finding one's tribe was incredibly remarkable.  
+**Translation:** 
+
+**[3976.10s] English:** Yes. This was all I needed. As an introvert, you might think that extroverts and introverts are different, and that somehow introverts don't need people as much, but, strangely enough, in my opinion, introverts actually need people even more.  
+**Translation:** Vocabulary: extroverts: 外向的人
+
+**[3994.48s] English:** Simply, we don't always know how to interact in a healthy way, how to find people and establish connections with them.  
+**Translation:** 
+
+**[4004.78s] English:** This was...  
+**Translation:** 
+
+**[4006.38s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to maintain natural English punctuation and capitalization while keeping the same language and meaning as closely as possible without translation, a direct transliteration would be: Potraziujisko. However, if we are to use natural English punctuation and capitalization: Amazing.  
+**Translation:** 
+
+**[4008.82s] English:** One of the features of writing that attracted me is solitude.  
+**Translation:** Vocabulary: capitalization: 大写; potraziujisko: Amazing; solitude: 孤独
+
+**[4014.38s] English:** And that you didn't need to collaborate with anyone; you could just write what you wanted, and it was all yours.  
+**Translation:** 
+
+**[4022.14s] English:** Success or failure depended solely on you, and this greatly attracted me.  
+**Translation:** Vocabulary: collaborate: 合作
+
+**[4027.26s] English:** The idea of collaborative creativity, on the other hand, repelled her.  
+**Translation:** 
+
+**[4032.16s] English:** I went to school for four years....  
+**Translation:** Vocabulary: collaborative: 合作的; repelled: 排斥
+
+**[4035.78s] English:** Staged there.  
+**Translation:** 
+
+**[4036.10s] English:** I interned at Universal Pictures because I thought I wanted to work in the film industry.  
+**Translation:** Vocabulary: interned: 实习
+
+**[4042.32s] English:** There was very unhealthy creative collaboration there.  
+**Translation:** 
+
+**[4045.72s] English:** In the cinema industry, it is very...  
+**Translation:** Vocabulary: collaboration: 合作
+
+**[4049.82s] English:** I look at the film industry with some unhealthy admiration.  
+**Translation:** 
+
+**[4055.02s] English:** I am in awe of her, as I grew up on all these legends that came from there, but everything is structured like a caste system.  
+**Translation:** Vocabulary: admiration: 仰慕; legends: 传奇
+
+**[4064.62s] English:** Ah...  
+**Translation:** 
+
+**[4065.18s] English:** I as the senior...  
+**Translation:** 
+
+**[4066.10s] English:** The intern was at the bottom of this caste system and saw how people from the lower castes in the film industry were treated.  
+**Translation:** 
+
+**[4075.14s] English:** And all of this was just terrible, you know?  
+**Translation:** Vocabulary: castes: 等级; intern: 实习生
+
+**[4079.14s] English:** Here's the improved version: "А вот...  
+**Translation:** 
+
+**[4080.00s] English:** In the gaming industry, it was very different; there was a flat hierarchy, regardless of who you were.  
+**Translation:** Vocabulary: hierarchy: 等级制度
+
+**[4086.84s] English:** General Director or Manager, how did Mike and Allen behave? This is how they:  
+**Translation:** 
+
+**[4092.84s] English:** Did you feel like a junior game designer when they addressed you?  
+**Translation:** 
+
+**[4097.10s] English:** I believe this was not only a partnership but it wasn't last in line either.  
+**Translation:** 
+
+**[4104.90s] English:** Queue in both work and labor ethics—this is what really pulled me out. Persistent.  
+**Translation:** Vocabulary: persistent: 坚持不懈的
+
+**[4113.84s] English:** Trouble over a beloved job, if you allow me, I must read that.  
+**Translation:** 
+
+**[4121.20s] English:** A prophetic post is called "One of Us" from April 18, 2002, because in essence, as  
+**Translation:** Vocabulary: prophetic: 先知的
+
+**[4128.36s] English:** It seems this way, and he remained one of us, I apologize for using him as an example.  
+**Translation:** 
+
+**[4133.26s] English:** Emperor Justinian  
+**Translation:** 
+
+**[4134.88s] English:** But you remained, in a sense, just a genuine gamer who still plays  
+**Translation:** 
+
+**[4141.90s] English:** Surplus work shifts, and he also makes games — this post is all about that, and he's really into it.  
+**Translation:** Vocabulary: gamer: 玩家; shifts: 班次; surplus: 加班
+
+**[4148.68s] English:** It's interesting to read, though. This was at the very beginning; you didn't know anything then.  
+**Translation:** 
+
+**[4153.56s] English:** What games will you create as a title if you want something to be done?  
+**Translation:** 
+
+**[4158.82s] English:** Good, I'm quoting here: This week, I accepted a job offer for the position of a junior.  
+**Translation:** 
+
+**[4163.68s] English:** Game designer in the near future  
+**Translation:** Vocabulary: quoting: 引用
+
+**[4164.86s] English:** In particular, I will be doing quests for World of Warcraft MMORPG from Blizzard.  
+**Translation:** 
+
+**[4171.40s] English:** Popular series Warcraft, in addition to quest design, I will also participate in  
+**Translation:** Vocabulary: blizzard: 暴雪; quests: 任务; warcraft: Warcraft
+
+**[4178.26s] English:** Development of endgame content for World of Warcraft, I share this information not  
+**Translation:** 
+
+**[4185.56s] English:** Only because of his masochistic love for reading angry tirades and insults, but also  
+**Translation:** Vocabulary: endgame: 最终内容; insults: 侮辱; masochistic: 自虐的; tirades: 怒斥
+
+**[4190.38s] English:** Because I know the fans of this site are hardcore MMORPG players, and I know you are.  
+**Translation:** 
+
+**[4191.86s] English:** Do you know that I know that you know that I know that you know that I know?  
+**Translation:** Vocabulary: hardcore: 痴迷的
+
+**[4194.86s] English:** Readers of the site also know my personal opinion about that.  
+**Translation:** 
+
+**[4200.00s] English:** What makes an engaging gaming experience, and what feels like a wasted time or a poorly thought-out battle?  
+**Translation:** 
+
+**[4207.16s] English:** You are very eloquent for this post and without any sarcasm.  
+**Translation:** 
+
+**[4211.54s] English:** You have all read my opinion on things like tedious farming, boring camp scenes,  
+**Translation:** Vocabulary: eloquent: 口才好; sarcasm: 讽刺; tedious: 单调乏味
+
+**[4217.02s] English:** Obvious time-wasters without linear storytelling,  
+**Translation:** 
+
+**[4220.46s] English:** Quests where the reward is a matter of chance rather than skill.  
+**Translation:** Vocabulary: linear: 按顺序; storytelling: 叙事
+
+**[4223.38s] English:** And rewards that are not worth the time and effort spent to obtain them.  
+**Translation:** 
+
+**[4228.06s] English:** I hope my participation in World of Warcraft will soothe the MMORPG fans,  
+**Translation:** Vocabulary: rewards: 奖励; soothe: 安抚
+
+**[4234.84s] English:** Because now one of us is on the other side of the barricades and will be advocating for the player's interests.  
+**Translation:** 
+
+**[4243.12s] English:** Further on, you describe your enormous hopes for World of Warcraft.  
+**Translation:** Vocabulary: advocating: 为...辩护; barricades: 路障
+
+**[4247.06s] English:** And it's so fun to read, because you don't realize that she will be among the greatest players.  
+**Translation:** 
+
+**[4254.20s] English:** Which will be played by millions,  
+**Translation:** 
+
+**[4257.10s] English:** And all these people will lead them in the world,  
+**Translation:** 
+
+**[4258.04s] English:** And all these people will lead them in the world, and all these people will lead them in the world,  
+**Translation:** 
+
+**[4258.06s] English:** And all these people will spend thousands of hours in it. Madness.  
+**Translation:** 
+
+**[4261.06s] English:** It's funny that this was written by one of us at the dawn of a new era.  
+**Translation:** Vocabulary: madness: 疯狂
+
+**[4266.68s] English:** Quote the last paragraph.  
+**Translation:** 
+
+**[4268.62s] English:** Considering all that is currently happening to me,  
+**Translation:** 
+
+**[4271.30s] English:** I apologize for any interruptions with updates on this website.  
+**Translation:** 
+
+**[4276.32s] English:** I will really try to keep something for you to read while you are supposed to be at work.  
+**Translation:** Vocabulary: interruptions: 打扰
+
+**[4282.18s] English:** While I am waiting for a whole world of NPCs to learn words from  
+**Translation:** 
+
+**[4286.90s] English:** It seems there might be a mix-up in languages or intended content as the provided text is partially in Russian and does not form a clear English sentence. Could you please clarify or provide the correct English wording?  
+**Translation:** Vocabulary: clarify: 澄清
+
+**[4293.40s] English:** Although, I seem to be having some issues with my boss.  
+**Translation:** 
+
+**[4298.58s] English:** One of us, Jeff, one of us. This was a fantastic post.  
+**Translation:** 
+
+**[4302.30s] English:** Did you get in trouble from your boss then?  
+**Translation:** 
+
+**[4304.32s] English:** No, no, my boss was Allen.  
+**Translation:** 
+
+**[4307.16s] English:** Yes.  
+**Translation:** 
+
+**[4307.60s] English:** Allen, of course, understood all of this.  
+**Translation:** 
+
+**[4309.94s] English:** They knew what they were signing up for when they hired me.  
+**Translation:** 
+
+**[4314.62s] English:** Now, listening to all of this, I am not amused.  
+**Translation:** 
+
+**[4316.88s] English:** I very nimbly handled that post.  
+**Translation:** 
+
+**[4318.90s] English:** In it, there is so much interesting stuff.  
+**Translation:** Vocabulary: nimbly: 灵活地
+
+**[4320.00s] English:** Self-confidence, and I think that's just the self-confidence of a 20-year-old, you know?  
+**Translation:** 
+
+**[4329.78s] English:** I don't know what I don't know, but I definitely know how to fix this game, and pretty much everything else too.  
+**Translation:** 
+
+**[4334.12s] English:** Games, yes, but there is genius in this as well, and there is passion.  
+**Translation:** 
+
+**[4339.02s] English:** When you're a gamer and sink thousands of hours into a game like EverQuest,  
+**Translation:** Vocabulary: gamer: 玩游戏的人
+
+**[4344.24s] English:** You can feel where it hits you, but playing it, you don't understand how much work went into it.  
+**Translation:** 
+
+**[4348.86s] English:** Cropped up behind this experience is a lot of uncertainty, as it's all so complex and daunting.  
+**Translation:** Vocabulary: cropped: 被裁剪; daunting: 令人望而生畏
+
+**[4354.60s] English:** What compromises are made, and how do your ideas fare when confronted with thousands?  
+**Translation:** 
+
+**[4359.86s] English:** Millions of players turn out to be quite different from what you imagined, after all.  
+**Translation:** Vocabulary: compromises: 妥协; confronted: 面对
+
+**[4366.98s] English:** This you do not know, but at the start such ego is simply necessary, and enough to have the spirit.  
+**Translation:** 
+
+**[4372.24s] English:** Although at least try and invest in it, but overall, how was it like?  
+**Translation:** 
+
+**[4378.02s] English:** Atmosphere  
+**Translation:** 
+
+**[4378.86s] English:** In early Blizzard because that's when the first and second Warcraft came out, and the third was in  
+**Translation:** Vocabulary: blizzard: 暴雪; warcraft: 魔兽
+
+**[4385.82s] English:** Development, and even StarCraft — these are legendary games; I've probably spent a lot of time on them.  
+**Translation:** 
+
+**[4391.22s] English:** I have played over a thousand hours in Warcraft 1, 2, and 3, as well as StarCraft 1 and 2.  
+**Translation:** Vocabulary: legendary: 传奇的
+
+**[4399.54s] English:** Played WoW from 1 to 4 Diablo, and in Diablo 2 with Deckard Kain and his stay listen.  
+**Translation:** 
+
+**[4406.86s] English:** Wait, listen.  
+**Translation:** Vocabulary: deckard: Deckard秦; diablo: 迪亚波罗
+
+**[4408.86s] English:** Some of those characters and moments will always remain with me.  
+**Translation:** 
+
+**[4414.52s] English:** In general, huge thanks to those guys from the early Blizzard, but how was it there?  
+**Translation:** 
+
+**[4420.36s] English:** What was the team like? Who were the developers? What was the atmosphere like in those early days?  
+**Translation:** 
+
+**[4425.66s] English:** It was amazing. This was a dream come true when I first arrived at Blizzard's office on my very first day.  
+**Translation:** 
+
+**[4433.56s] English:** Located in the campus of the California University in Riverside, then it was all off the radar and I didn't think I was a Nation's Chuck or Colombian enough to publish here in Berkeley.  
+**Translation:** 
+
+**[4438.86s] English:** They had...  
+**Translation:** Vocabulary: berkeley: 伯克利; california: 加利福尼亚; colombian: 哥伦比亚人; riverside: 河滨
+
+**[4440.00s] English:** Such a tech park where IT companies could rent offices.  
+**Translation:** 
+
+**[4446.10s] English:** When I arrived there, Blizzard occupied three-quarters of the building.  
+**Translation:** 
+
+**[4451.72s] English:** In the neighboring building, workers from companies such as Cisco were seated,  
+**Translation:** 
+
+**[4456.66s] English:** There were IT specialists everywhere.  
+**Translation:** Vocabulary: cisco: 思科; neighboring: 相邻的
+
+**[4460.26s] English:** It was funny because as you pull up,  
+**Translation:** 
+
+**[4463.56s] English:** And around it all seems so serious and businesslike.  
+**Translation:** Vocabulary: businesslike: 严谨的
+
+**[4466.20s] English:** Then you see Blizzard's office,  
+**Translation:** 
+
+**[4468.34s] English:** There, everyone is in black T-shirts and shorts.  
+**Translation:** 
+
+**[4472.28s] English:** They throw frisbees, play soccer.  
+**Translation:** 
+
+**[4475.32s] English:** They ride on scooters and skateboards.  
+**Translation:** Vocabulary: frisbees: 飞盘; scooters: 滑板车; skateboards: 滑板
+
+**[4477.56s] English:** And you immediately understand, ah, here's where Blizzard is.  
+**Translation:** 
+
+**[4481.18s] English:** There was such an atmosphere.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[4483.22s] English:** I remember how I first walked in and thought,  
+**Translation:** 
+
+**[4485.70s] English:** This is just a room, like in a dormitory.  
+**Translation:** Vocabulary: dormitory: 学生宿舍
+
+**[4488.42s] English:** Because posters were hanging on the walls,  
+**Translation:** 
+
+**[4491.62s] English:** In some cases, even futons were set up.  
+**Translation:** Vocabulary: futons: 折叠床
+
+**[4493.88s] English:** Because they stayed there overnight.  
+**Translation:** 
+
+**[4496.30s] English:** Because we were working very hard then.  
+**Translation:** 
+
+**[4498.34s] English:** The atmosphere was, and the company itself was very small.  
+**Translation:** 
+
+**[4503.34s] English:** When I joined Blizzard in May 2002,  
+**Translation:** 
+
+**[4507.34s] English:** In the company, there were fewer than 200 people,  
+**Translation:** 
+
+**[4509.34s] English:** And this includes a whole team in San Mateo,  
+**Translation:** Vocabulary: mateo: 山梅托
+
+**[4512.34s] English:** Named Blizzard North.  
+**Translation:** 
+
+**[4515.34s] English:** Blizzard South, our team in Irvine,  
+**Translation:** Vocabulary: irvine: 美国加利福尼亚州的城市
+
+**[4518.34s] English:** Answered for StarCraft and WarCraft,  
+**Translation:** 
+
+**[4522.34s] English:** And at Blizzard then, there were two development teams,  
+**Translation:** 
+
+**[4526.34s] English:** Team 1 and Team 2.  
+**Translation:** 
+
+**[4528.28s] English:** In Blizzard South.  
+**Translation:** 
+
+**[4532.28s] English:** Team 1 was in high demand; they were RTS players.  
+**Translation:** 
+
+**[4536.28s] English:** They made StarCraft, Warcraft II,  
+**Translation:** Vocabulary: warcraft: 魔兽争霸
+
+**[4539.28s] English:** And at that moment, they were working on Warcraft III.  
+**Translation:** 
+
+**[4545.28s] English:** The team 2 was such a ugly duckling.  
+**Translation:** Vocabulary: duckling: 丑小鸭
+
+**[4549.28s] English:** It seems that they had already tried something before my arrival.  
+**Translation:** 
+
+**[4552.28s] English:** To select the second team, but unsuccessfully several times.  
+**Translation:** 
+
+**[4556.28s] English:** Then they, finally,  
+**Translation:** 
+
+**[4558.28s] English:** They decided they would do World of Warcraft.  
+**Translation:** 
+
+**[4560.00s] English:** Warcraft. Before that was a project called No Man's Land. I don't know exactly what kind of game it was.  
+**Translation:** 
+
+**[4568.16s] English:** But at first, it was the team of 2 that worked on her. But the project was closed, and Allen switched the team.  
+**Translation:** 
+
+**[4575.18s] English:** On the development of World of Warcraft, and there was simply a fantastic designer named Eric Dodds. Later,  
+**Translation:** 
+
+**[4584.54s] English:** The career path led him to the position of Game Director for Hearthstone. He and Ben, Ben Brodie,  
+**Translation:** Vocabulary: dodds: 多德; hearthstone: 炉石
+
+**[4590.66s] English:** In essence, they were the leading designers of this game. And Eric and Kevin Jordan were two key contributors.  
+**Translation:** 
+
+**[4599.10s] English:** Designers were involved in working on World of Warcraft in team 2. And there was also a technical team.  
+**Translation:** Vocabulary: contributors: 贡献者; designers: 设计师
+
+**[4607.06s] English:** With John Cash. And John Cash on my first day at work,  
+**Translation:** 
+
+**[4614.06s] English:** I was working with John Cash. And on my very first day at work,  
+**Translation:** 
+
+**[4614.42s] English:** And John Cash on the very first day when I came to work,  
+**Translation:** 
+
+**[4614.54s] English:** Work in Team 2, they told me to go and get my login from John Cash.  
+**Translation:** Vocabulary: login: 登录信息
+
+**[4620.26s] English:** Do you mean me, John? The John Cash from IOM?  
+**Translation:** 
+
+**[4623.70s] English:** Ah, John Cash had his own skin, you know.  
+**Translation:** 
+
+**[4627.84s] English:** It could have been John Cash playing Quake 3.  
+**Translation:** 
+
+**[4630.76s] English:** And there he saw me,  
+**Translation:** 
+
+**[4633.06s] English:** He, apparently, was a big fan of EverQuest.  
+**Translation:** 
+
+**[4636.14s] English:** He says, "That's you, the guy who leads Legacy of Steel?  
+**Translation:** 
+
+**[4640.02s] English:** I said, are you John Cash?  
+**Translation:** 
+
+**[4641.60s] English:** We had a moment when we, if you will, fell in love with each other.  
+**Translation:** 
+
+**[4647.24s] English:** In general, there was just an incredibly cool atmosphere there.  
+**Translation:** 
+
+**[4651.56s] English:** There were very few producers.  
+**Translation:** 
+
+**[4653.92s] English:** Generally, in the Development Team, there are five main disciplines,  
+**Translation:** 
+
+**[4659.18s] English:** From which the game is composed.  
+**Translation:** Vocabulary: disciplines: 专业领域
+
+**[4661.64s] English:** There are engineers or programmers who write code.  
+**Translation:** 
+
+**[4666.60s] English:** There is a team of artists who create all the visual elements for the game.  
+**Translation:** Vocabulary: programmers: 程序员
+
+**[4670.96s] English:** Here are all the elements: 3D models, characters, environment.  
+**Translation:** 
+
+**[4675.82s] English:** Plus, there's animation and technical art to make everything work.  
+**Translation:** 
+
+**[4680.00s] English:** There is game design, but in some companies, it doesn't exist and lies  
+**Translation:** 
+
+**[4686.44s] English:** On artists and engineers.  
+**Translation:** 
+
+**[4688.56s] English:** For example, Valve has very few designers because  
+**Translation:** 
+
+**[4691.86s] English:** There is every designer there.  
+**Translation:** Vocabulary: designers: 设计师
+
+**[4693.26s] English:** But in companies where design is a separate discipline,  
+**Translation:** 
+
+**[4697.88s] English:** In Blizzard, it was exactly like that; game designers essentially respond  
+**Translation:** Vocabulary: blizzard: 暴雪; discipline: 学科
+
+**[4702.96s] English:** For creating a gaming experience.  
+**Translation:** 
+
+**[4705.80s] English:** They configure all systems and content in this manner,  
+**Translation:** Vocabulary: configure: 设置
+
+**[4710.00s] English:** To keep the player engaged throughout the entire game.  
+**Translation:** 
+
+**[4712.76s] English:** That is, it's about the plot, the design of quests, and the movement itself.  
+**Translation:** Vocabulary: quests: 任务
+
+**[4717.10s] English:** In the game world.  
+**Translation:** 
+
+**[4718.32s] English:** Yes.  
+**Translation:** 
+
+**[4719.32s] English:** So, for game designers, as well as for artists and engineers,  
+**Translation:** 
+
+**[4724.24s] English:** There are a multitude of specializations within the discipline of game design.  
+**Translation:** Vocabulary: multitude: 众多
+
+**[4728.84s] English:** Some are more involved with systems, for example, in any  
+**Translation:** 
+
+**[4732.56s] English:** In a game where loot exists, for example in Diablo 4, World of Warcraft,  
 **Translation:** 
 
 **[4738.16s] English:** Escape from Tarkov.  
 **Translation:** 
 
-**[4739.96s] English:** Неважно.  
+**[4739.96s] English:** It doesn't matter.  
 **Translation:** 
 
-**[4740.96s] English:** Но если в игре есть лут, то дизайнер должен до мелочей  
+**[4740.96s] English:** But if there is loot in the game, the designer should detail it down to the smallest element.  
 **Translation:** 
 
-**[4744.90s] English:** продумать, что, где и с каким шансом выпадает.  
+**[4744.90s] English:** Produce a plan of what, where, and with what chance it will fall.  
 **Translation:** 
 
-**[4749.42s] English:** Этим, например, занимается системный дизайнер.  
+**[4749.42s] English:** This, for example, is handled by a systems designer.  
 **Translation:** 
 
-**[4752.28s] English:** А контент-дизайнер — это тот, кто создает квесты,  
+**[4752.28s] English:** A content designer is the one who creates quests,  
 **Translation:** 
 
-**[4757.92s] English:** прописывает истории и так далее.  
+**[4757.92s] English:** Writes down the stories and so on.  
 **Translation:** 
 
-**[4760.02s] English:** А существует еще и нарративный дизайнер, который целиком  
+**[4760.02s] English:** There is also a narrative designer, who entirely  
 **Translation:** 
 
-**[4764.02s] English:** сосредоточен на сюжете.  
+**[4764.02s] English:** Focused on the plot.  
 **Translation:** 
 
-**[4765.80s] English:** Но дизайнеры бывают самые разные.  
+**[4765.80s] English:** But designers can be very different.  
 **Translation:** 
 
-**[4769.76s] English:** Есть еще такие мастера на все руки, которые умеют  
+**[4769.76s] English:** There are still such jack-of-all-trades masters who know how to  
 **Translation:** 
 
-**[4772.44s] English:** просто все.  
+**[4772.44s] English:** Just everything.  
 **Translation:** 
 
-**[4773.44s] English:** Это что касательно дизайнеров.  
+**[4773.44s] English:** This is regarding designers.  
 **Translation:** 
 
-**[4776.84s] English:** Есть еще продакшн, то есть управление проектами.  
-**Translation:** 
-
-**[4780.68s] English:** И продакшн в каждой игровой компании устроен по-своему.  
-**Translation:** 
-
-**[4784.30s] English:** Если поговорить с кем-то из EA или Blizzard, то их продакшн  
-**Translation:** 
-
-**[4788.72s] English:** может сильно отличаться.  
-**Translation:** 
-
-**[4790.96s] English:** Они могут быть главными, они могут быть по сути дизайнерами,  
-**Translation:** 
-
-**[4794.98s] English:** а могут быть просто менеджерами проектов.  
-**Translation:** 
-
-**[4797.76s] English:** И еще.  
-**Translation:** 
-
-**[4798.76s] English:** Если говорить о своих любимых дисциплинах, то Dota 2, конечно,  
-**Translation:** 
-
-**[4800.00s] English:** в команде, которую часто недооценивают, это ребята, отвечающие за звук и аудио. То есть это  
-**Translation:** 
-
-**[4806.40s] English:** саунд-дизайнеры, а также композиторы. И думаю, есть две вещи, ценность которых осознаешь только  
-**Translation:** 
-
-**[4814.68s] English:** тогда, когда их отключаешь. Это звук и освещение. Потому что часто мы обходимся без них,  
-**Translation:** 
-
-**[4825.52s] English:** и все кажется каким-то неправильным, плоским. А когда появляется отличный художник по свету,  
-**Translation:** 
-
-**[4833.56s] English:** или прекрасный композитор, или саунд-дизайнер, то все преображается. Ты просто задействуешь те  
-**Translation:** 
-
-**[4840.32s] English:** чувства, которые иначе не затронуть. Вот из таких людей состоит команда разработки.  
-**Translation:** 
-
-**[4846.70s] English:** А освещение и вся вот эта разная графика, это все работа команды художников?  
-**Translation:** 
-
-**[4855.52s] English:** Да, освещением занимаются художники, но они лучшие друзья программистов графики.  
-**Translation:** 
-
-**[4862.18s] English:** Ясно. И как и в дизайне, в команде инженеров  
-**Translation:** 
-
-**[4865.54s] English:** тоже есть очень широкий спектр. Есть ребята, которые гении архитектуры,  
-**Translation:** 
-
-**[4873.02s] English:** которые выстраивают клиент-серверную модель, сетевой код или что-то еще. А другие больше  
-**Translation:** 
-
-**[4880.30s] English:** нацелены на геймплей. В Overwatch у нас был аудиопрограммист, который занимался только  
-**Translation:** 
-
-**[4885.52s] English:** хуками для звуковой команды и в любой команде игровых разработчиков есть программисты графики  
-**Translation:** 
-
-**[4894.28s] English:** которые работают с художниками по свету художниками по окружению художниками по  
-**Translation:** 
-
-**[4901.30s] English:** персонажам над шейдерами и в общем над всем что и делает игру такой какая она есть они  
-**Translation:** 
-
-**[4908.26s] English:** всегда спрашивают как вы хотите чтобы это выглядело им нужен арт показывающий каким  
-**Translation:** 
-
-**[4913.22s] English:** будет мир и тогда они говорят я знаю как написать код чтобы это реализовать так  
-**Translation:** 
-
-**[4920.00s] English:** Так что вы ставите в пару крутого программиста графики  
-**Translation:** 
-
-**[4922.88s] English:** и крутого художника по свету, и в этом и есть то  
-**Translation:** 
-
-**[4926.04s] English:** самое творческое сопряжение в играх, и это делает команды  
-**Translation:** 
-
-**[4930.08s] English:** разработки уникальными.  
-**Translation:** 
-
-**[4931.80s] English:** Если представить это как некий безумный спектр,  
-**Translation:** 
-
-**[4936.10s] English:** то на одном его конце будут художники, которые, они  
-**Translation:** 
-
-**[4942.50s] English:** творческие и, осмелюсь сказать, эмоциональные,  
-**Translation:** 
-
-**[4945.76s] English:** ну знаешь, они настоящие творцы в этом смысле, а  
-**Translation:** 
-
-**[4949.24s] English:** на другом конце самые логичные, гениальные программисты,  
-**Translation:** 
-
-**[4954.08s] English:** чей склад ума кардинально отличается от мышления  
-**Translation:** 
-
-**[4956.96s] English:** самых творческих художников.  
-**Translation:** 
-
-**[4959.22s] English:** Например, художники на совещании могут просто сидеть и рисовать,  
-**Translation:** 
-
-**[4963.02s] English:** под рукой есть листок бумаги, они уже на нем рисуют.  
-**Translation:** 
-
-**[4965.76s] English:** А вот программисты, они просто настолько гениальны  
-**Translation:** 
-
-**[4972.38s] English:** с упорядоченным логичным мышлением, у них все по  
-**Translation:** 
-
-**[4975.22s] English:** полочкам, а посередине между ними звукорежиссеры,  
-**Translation:** 
-
-**[4979.22s] English:** дизайнеры, геймдизайнеры и продюссеры, они понемногу  
-**Translation:** 
-
-**[4983.34s] English:** разбираются во всех этих областях, но гениальность  
-**Translation:** 
-
-**[4987.46s] English:** как раз состоит в том, чтобы взять этих настолько разных  
-**Translation:** 
-
-**[4991.34s] English:** по интересам и талантам людей и направить их к общей  
-**Translation:** 
-
-**[4995.68s] English:** цели, к общему видению игры, именно так и рождается  
-**Translation:** 
-
-**[4999.88s] English:** что-то особенное.  
-**Translation:** 
-
-**[5000.88s] English:** Ты показал мне размер команды World of Warcraft, но ведь ты также  
-**Translation:** 
-
-**[5005.74s] English:** известен тем, что создавал эти невероятно огромные  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[5009.22s] English:** команды, небольшие команды.  
-**Translation:** 
-
-**[5011.48s] English:** Так в чем сила маленькой команды?  
-**Translation:** 
-
-**[5015.32s] English:** Особенно в контексте того, что существует это творческое  
-**Translation:** 
-
-**[5018.74s] English:** сопряжение.  
-**Translation:** 
-
-**[5019.82s] English:** Может все дело в том, что маленькая команда как раз  
-**Translation:** 
-
-**[5025.18s] English:** позволяет избежать этого разделения на отделы, когда  
-**Translation:** 
-
-**[5027.96s] English:** например у художников отдельное крыло здания, и они никогда  
-**Translation:** 
-
-**[5032.08s] English:** не общаются с инженерами, в этом дело?  
-**Translation:** 
-
-**[5034.88s] English:** Именно, ты попал в точку.  
-**Translation:** 
-
-**[5036.94s] English:** Чем больше команда, тем больше действий.  
-**Translation:** 
-
-**[5038.14s] English:** Да.  
-**Translation:** 
-
-**[5039.22s] English:** Чем больше ты превратишься, тем больше ты превратишься.  
-**Translation:** 
-
-**[5040.00s] English:** вращаешься там в винтик.  
-**Translation:** 
-
-**[5042.14s] English:** А в маленькой команде, как я люблю говорить, твой голос имеет значение и вес.  
-**Translation:** 
-
-**[5047.56s] English:** Если у нас маленькая команда, и мы, скажем, делаем игру, и находимся, так сказать, в инкубационном периоде,  
-**Translation:** 
-
-**[5055.62s] English:** и нас всего 10 человек, то каждый из нас участвует в принятии каждого решения.  
-**Translation:** 
-
-**[5061.28s] English:** Я, к примеру, не спец по серверным сеткам, но все равно участвую в обсуждении.  
-**Translation:** 
-
-**[5070.00s] English:** Какой будет арт-стиль?  
-**Translation:** 
-
-**[5071.94s] English:** Как только команда начинает расти, то мы дробимся на отделы.  
-**Translation:** 
-
-**[5077.02s] English:** Все ровно так, как ты и сказал.  
-**Translation:** 
-
-**[5080.00s] English:** Происходит странная штука, которая просто лежит в основе природы человека.  
-**Translation:** 
-
-**[5085.10s] English:** Чем меньше ты с кем-то общаешься,  
-**Translation:** 
-
-**[5087.70s] English:** тем больше ты как бы от него отдаляешься и начинаешь демонизировать его точку зрения.  
-**Translation:** 
-
-**[5094.58s] English:** Ты начинаешь относиться к их словам и делам скептически,  
-**Translation:** 
-
-**[5098.12s] English:** вместо того, чтобы доверять.  
-**Translation:** 
-
-**[5100.00s] English:** Доверять и верить им.  
-**Translation:** 
-
-**[5102.00s] English:** Я заметил, что в маленьких командах, где все друг друга знают по именам,  
-**Translation:** 
-
-**[5106.50s] English:** я знаю, кто над чем сейчас работает, они знают, чем занят я,  
-**Translation:** 
-
-**[5111.14s] English:** все могут поговорить друг с другом,  
-**Translation:** 
-
-**[5114.10s] English:** и там не бывает такого,  
-**Translation:** 
-
-**[5118.50s] English:** чтобы на целые отделы вешали ярлыки.  
-**Translation:** 
-
-**[5122.40s] English:** В больших, нездоровых командах начинается, ну, художники просто этого не догоняют,  
-**Translation:** 
-
-**[5127.74s] English:** они не понимают, чего мы пытаемся сделать.  
-**Translation:** 
-
-**[5129.74s] English:** И когда задумываешься над этой фразой, то понимаешь,  
-**Translation:** 
-
-**[5132.74s] English:** какое же это мудацкое заявление, в смысле, что все художники поголовно не догоняют?  
-**Translation:** 
-
-**[5139.74s] English:** Во-первых, это неправда, а во-вторых, это же их унижает,  
-**Translation:** 
-
-**[5143.74s] English:** потому что для них это тоже дело всей их жизни.  
-**Translation:** 
-
-**[5147.74s] English:** Эта игра будет их в той же степени, что и, допустим, моей.  
-**Translation:** 
-
-**[5151.74s] English:** Так кто я такой, чтобы говорить подобное?  
-**Translation:** 
-
-**[5155.74s] English:** Да, в любой сфере вредно считать, будто ты один.  
-**Translation:** 
-
-**[5159.74s] English:** И точно так же все люди, они будут понимать,  
-**Translation:** 
-
-**[5161.74s] English:** что ты хороший, что ты не грамотный человек,  
-**Translation:** 
-
-**[5163.74s] English:** и, чтобы они понимали, что ты хороший,  
-**Translation:** 
-
-**[5165.74s] English:** есть и у них есть ошибки,  
-**Translation:** 
-
-**[5167.74s] English:** то надо понимать, что ты такой,  
-**Translation:** 
-
-**[5169.74s] English:** и для них это все всё лишь жанр для себя.  
-**Translation:** 
-
-**[5171.74s] English:** Вот, конечно, это все вставит в три человека,  
-**Translation:** 
-
-**[5173.74s] English:** потому что, ну, все подруги, все люди,  
-**Translation:** 
-
-**[5175.74s] English:** все чтобы realm, да,  
-**Translation:** 
-
-**[5177.98s] English:** все они поняли,  
-**Translation:** 
-
-**[5178.94s] English:** что абсолютно все, что есть,  
-**Translation:** 
-
-**[5180.94s] English:** все они называют,  
-**Translation:** 
-
-**[5182.94s] English:** в принципе,  
-**Translation:** 
-
-**[5183.74s] English:** это не дает этому что-то сделать.  
-**Translation:** 
-
-**[5185.74s] English:** Ну, для тех, кто не знает,  
-**Translation:** 
-
-**[5160.00s] English:** как устроен мир а остальные глупцы нет и что у них нечему научиться и что они просто заблуждаются  
-**Translation:** 
-
-**[5169.84s] English:** это точная мысль если перемотать вперед то когда мы создали команду 4 которая впоследствии они  
-**Translation:** 
-
-**[5180.74s] English:** разрабатывали титан но провалились а потом перезапустились уже как команда overwatch то  
-**Translation:** 
-
-**[5187.36s] English:** я пытался донести до всех в этой команде одну мысль нужно было исходить из одного допущения  
-**Translation:** 
-
-**[5194.74s] English:** blizzard один из лучших разработчиков игр в мире и нам очень сильно повезло когда я там работал да и  
-**Translation:** 
+**[4776.84s] English:** There is also production, which means project management.  
+**Translation:** Vocabulary: designers: 设计师
 
-**[5204.64s] English:** сейчас думаю тоже мы могли нанять просто кого угодно лучшие из лучших хотели работать blizzard  
+**[4780.68s] English:** Production in each game company is structured differently.  
 **Translation:** 
 
-**[5213.64s] English:** и если если  
+**[4784.30s] English:** If you talk to someone from EA or Blizzard, their production process is quite impressive.  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[5217.36s] English:** сходить из этого и сказать ну допустим мы нанимаем кого-то скажем мы ищем художника  
+**[4788.72s] English:** May significantly differ.  
 **Translation:** 
 
-**[5223.92s] English:** по реквизиту рисовать ящики стулья неважно и это лучший в индустрии художник по реквизиту  
+**[4790.96s] English:** They may be main characters, they may essentially be designers,  
 **Translation:** 
 
-**[5232.78s] English:** именно такой человек придет к нам на порог и когда он придет мы должны относиться к нему  
+**[4794.98s] English:** They may simply be project managers.  
 **Translation:** 
 
-**[5240.60s] English:** как к лучшему художнику по реквизиту в индустрии а не встречать его с изначальным сомнением и  
+**[4797.76s] English:** And yet.  
 **Translation:** 
 
-**[5247.36s] English:** поэтому когда он что-то предлагает и говорит я думаю как это было с overwatch думаю нам стоит  
+**[4798.76s] English:** If talking about my favorite disciplines, then Dota 2, of course,  
 **Translation:** 
 
-**[5255.70s] English:** сделать вот так мол нам нужно сделать а но не б и вместо того чтобы говорить я выступаю за вариант  
+**[4800.00s] English:** In the team, which is often underestimated, these are the guys responsible for sound and audio. That is,  
+**Translation:** Vocabulary: disciplines: 学科; underestimated: 低估
+
+**[4806.40s] English:** Sound designers, as well as composers. And I think there are two things whose value you realize only  
 **Translation:** 
 
-**[5262.94s] English:** б почему ты против моей идеи нужно остановиться глубоко вдохнуть и сказать себе черт да это же  
+**[4814.68s] English:** Then there's the sound and lighting when you turn them off. This is because we often go without them.  
+**Translation:** Vocabulary: lighting: 照明
+
+**[4825.52s] English:** And everything seems somehow wrong and flat. But when a great light artist appears,  
 **Translation:** 
 
-**[5270.92s] English:** лучший художник по реквизиту в индустрии что-то предлагает почему бы мне его не послушать а  
+**[4833.56s] English:** Or a wonderful composer, or a sound designer, and everything transforms. You simply engage those.  
+**Translation:** Vocabulary: transforms: 转变
+
+**[4840.32s] English:** Feelings which otherwise would not be touched upon. Such people make up the development team.  
 **Translation:** 
 
-**[5277.36s] English:** я и сам так делаю это такой  
+**[4846.70s] English:** Does all this lighting and various graphics belong to the work of the artists' team?  
 **Translation:** 
 
-**[5280.00s] English:** Мысленный процесс или эксперимент, когда я разговариваю с новым человеком,  
+**[4855.52s] English:** Yes, artists deal with lighting, but they are the best friends of graphics programmers.  
 **Translation:** 
 
-**[5287.20s] English:** особенно если чувствую в себе легкий оттенок такого чувства,  
+**[4862.18s] English:** Clear. And just like in design, in the team of engineers,...  
+**Translation:** Vocabulary: programmers: 程序员
+
+**[4865.54s] English:** There is also a very wide spectrum. There are guys who are architectural geniuses,  
 **Translation:** 
 
-**[5291.04s] English:** обычно такое бывает с кем-то очень молодым, например, со студентом или типа того.  
+**[4873.02s] English:** Which ones build a client-server model, network code, or something else. And others are more  
+**Translation:** Vocabulary: architectural: 建筑相关的; geniuses: 天才
+
+**[4880.30s] English:** Focused on gameplay. In Overwatch, we had an audio programmer who was solely dedicated to that.  
 **Translation:** 
 
-**[5295.78s] English:** Я представляю, что он самый умный человек на свете у себя в голове.  
+**[4885.52s] English:** Hooks for the audio team and in any game development team, there are graphics programmers.  
+**Translation:** Vocabulary: programmer: 编程人员
+
+**[4894.28s] English:** Which work with lighting artists, environment artists,artists,  
 **Translation:** 
 
-**[5300.04s] English:** И это настраивает меня на предположение, что я могу многому у него научиться.  
+**[4901.30s] English:** Characters, over shaders, and in general, over everything that makes the game what it is.  
+**Translation:** Vocabulary: lighting: 照明; shaders: 着色器
+
+**[4908.26s] English:** They always ask how you want it to look. They need an art piece showing how it should appear.  
 **Translation:** 
 
-**[5307.90s] English:** И это помогает.  
+**[4913.22s] English:** Will be peace, and then they say, "I know how to write the code to implement this.  
+**Translation:** Vocabulary: implement: 实现
+
+**[4920.00s] English:** So, what do you pair a great programmer with? Graphs.  
 **Translation:** 
 
-**[5308.72s] English:** И ты начинаешь реально слушать, и я буквально считаю его умнейшим и мудрейшим человеком в мире.  
+**[4922.88s] English:** And a cool lighting artist, and this is where it lies.  
+**Translation:** Vocabulary: graphs: 图表
+
+**[4926.04s] English:** The most creative engagement in games, and this makes teams  
 **Translation:** 
 
-**[5315.54s] English:** Это помогает.  
+**[4930.08s] English:** Developments are unique.  
 **Translation:** 
 
-**[5316.64s] English:** У меня было такое, вроде бы...  
+**[4931.80s] English:** If we imagine this as some kind of疯狂的谱系,  
 **Translation:** 
 
-**[5319.32s] English:** Знаешь, я же не эксперт, я геймдизайнер, так что все мои познания в психологии  
+**[4936.10s] English:** At one end will be artists, who, they  
 **Translation:** 
 
-**[5324.08s] English:** сводятся к тому, как манипулировать людьми так, чтобы им хотелось верить и было весело.  
+**[4942.50s] English:** Creative and, I dare say, emotional,  
 **Translation:** 
 
-**[5329.46s] English:** Не знаю, у меня не то чтобы очень важная работа.  
+**[4945.76s] English:** Nu, you know, they are true creators in this sense, though.  
 **Translation:** 
 
-**[5331.84s] English:** Да, точно.  
+**[4949.24s] English:** At the other end, the most logical and genius programmers,  
 **Translation:** 
 
-**[5332.12s] English:** Но вот с точки зрения психологии, я много думаю о таких вещах, как эго,  
+**[4954.08s] English:** Which type of mind fundamentally differs from thinking?  
+**Translation:** Vocabulary: differs: 不同; fundamentally: 根本上; programmers: 程序员
+
+**[4956.96s] English:** The most creative artists.  
 **Translation:** 
 
-**[5338.72s] English:** и неуверенности в себе.  
+**[4959.22s] English:** For example, artists at a meeting may simply sit and draw,  
 **Translation:** 
 
-**[5342.18s] English:** И неуверенность есть у всех нас.  
+**[4963.02s] English:** There is a piece of paper in reach, and they are already drawing on it.  
 **Translation:** 
 
-**[5345.24s] English:** У каждого из нас есть эта неуверенность.  
+**[4965.76s] English:** Here are the programmers, they are simply so genius.  
 **Translation:** 
 
-**[5348.18s] English:** Просто проявляется она у всех по-разному.  
+**[4972.38s] English:** With ordered logical thinking, they have it all sorted.  
 **Translation:** 
 
-**[5351.08s] English:** И с течением жизни нашей эта неуверенность тоже меняется.  
+**[4975.22s] English:** Shelves, and in the middle between them, sound engineers,  
+**Translation:** Vocabulary: sorted: 整理好
+
+**[4979.22s] English:** Designers, game designers, and producers, they are gradually  
 **Translation:** 
 
-**[5356.28s] English:** Например, одни люди из-за своей неуверенности уничтожают других людей,  
+**[4983.34s] English:** Understand these areas, but genius,  
+**Translation:** Vocabulary: designers: 设计师
+
+**[4987.46s] English:** It consists in taking these incredibly different  
 **Translation:** 
 
-**[5360.86s] English:** а другие из-за нее разрушают сами себя своей неуверенностью.  
+**[4991.34s] English:** By interests and talents of people and direct them to the common  
 **Translation:** 
 
-**[5365.64s] English:** А некоторые из-за нее же разрушают всех вокруг.  
+**[4995.68s] English:** Goals for the overall vision of the game, this is exactly how it comes to be.  
 **Translation:** 
 
-**[5368.72s] English:** У меня был такой случай, когда я, будучи молодым руководителем,  
+**[4999.88s] English:** Something special.  
 **Translation:** 
 
-**[5372.68s] English:** когда только-только стал лидом в World of Warcraft,  
+**[5000.88s] English:** You showed me the size of the World of Warcraft team, but you also  
 **Translation:** 
 
-**[5376.68s] English:** я считал, что очень важно быть правым  
+**[5005.74s] English:** Known for creating those incredibly huge  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[5380.20s] English:** и, понимаешь, продвигать правильную идею.  
+**[5009.22s] English:** Teams, small teams.  
 **Translation:** 
 
-**[5384.84s] English:** И вот однажды меня даже отвели в сторонку.  
+**[5011.48s] English:** So, what is the strength of a small team?  
 **Translation:** 
 
-**[5388.72s] English:** Мы с Пардо были на встрече с парой ребят не из отдела геймдизайна.  
+**[5015.32s] English:** Especially in the context that there exists this creative  
 **Translation:** 
 
-**[5394.44s] English:** И...  
+**[5018.74s] English:** Cohesion.  
+**Translation:** Vocabulary: cohesion: 凝聚力
+
+**[5019.82s] English:** May the matter be that a small team is just  
 **Translation:** 
 
-**[5396.12s] English:** А геймдизайнеру вообще непросто, потому что...  
+**[5025.18s] English:** Allows avoiding this division into departments when  
 **Translation:** 
 
-**[5398.16s] English:** ...все постоянно подкидываются.  
+**[5027.96s] English:** For example, artists have their own wing of the building, and they never  
 **Translation:** 
 
-**[5400.00s] English:** подкидывают идеи. В команде недостатка в идеях никогда нет. И вот мы сидим на какой-то встрече,  
+**[5032.08s] English:** Do they not communicate with engineers in this matter?  
 **Translation:** 
 
-**[5407.58s] English:** и эти ребята подкидывают пару идей. А я им не грубил, но очень так методично, как и поступил бы  
+**[5034.88s] English:** Exactly, you hit the nail on the head.  
 **Translation:** 
 
-**[5414.94s] English:** неуверенный в себе, ну знаешь, эгоистичный, новоиспеченный руководитель, начал в духе «сейчас я  
+**[5036.94s] English:** The more team members, the more actions.  
 **Translation:** 
 
-**[5423.12s] English:** объясню, почему это не сработает, и что мы будем делать вместо этого». И после встречи парда  
+**[5038.14s] English:** Yes.  
 **Translation:** 
 
-**[5429.74s] English:** отвел меня в сторонку и сказал «ты очень умный дизайнер, но зря ты так поступил с теми ребятами.  
+**[5039.22s] English:** The more you transform, the more you will transform.  
 **Translation:** 
 
-**[5439.12s] English:** Ты всегда должен слушать, что говорят люди, и стараться делать так, чтобы их идеи сработали».  
+**[5040.00s] English:** You spin around there like a screw.  
 **Translation:** 
 
-**[5445.98s] English:** И я просто снова и снова твердил себе «так, если появляется идея, надо попытаться ее реализовать».  
+**[5042.14s] English:** In a small team, as I like to say, your voice has weight and importance.  
 **Translation:** 
 
-**[5453.32s] English:** И то, как бы, те вещи, в которые я поначалу и сам не верил,  
+**[5047.56s] English:** If we have a small team and we are, say, making a game and are in what you might call an incubation period,  
 **Translation:** 
 
-**[5459.08s] English:** в итоге, я не смогу их реализовать.  
+**[5055.62s] English:** And with us being only 10 people, each of us participates in making every decision.  
+**Translation:** Vocabulary: incubation: 孵化期; participates: 参与
+
+**[5061.28s] English:** For example, I'm not an expert on server networks, but I still participate in the discussion.  
 **Translation:** 
 
-**[5459.74s] English:** В итоге, словно стали сутью того, кем я являюсь теперь. Сутью меня, как руководителя,  
+**[5070.00s] English:** What art style will it be?  
 **Translation:** 
 
-**[5465.86s] English:** гейм-дизайнера, гейм-директора. И некоторые из лучших идей увидели свет благодаря развитию чужих  
+**[5071.94s] English:** As soon as the team starts to grow, we break it down into departments.  
 **Translation:** 
 
-**[5475.04s] English:** задумок. Когда твоя первая реакция «нет, это не сработает», а потом ты просто упираешься и думаешь  
+**[5077.02s] English:** All is just as you said.  
 **Translation:** 
 
-**[5482.64s] English:** «а как все-таки заставить это работать?». И самое крутое в этом то, что когда это в итоге удается,  
+**[5080.00s] English:** Something strange is happening, which simply lies at the basis of human nature.  
 **Translation:** 
 
-**[5489.74s] English:** все лавры достаются им. А ты, по сути, просто помог проявить себя человеку, чью идею, возможно, и не поддержали бы,  
+**[5085.10s] English:** The less you communicate with someone,  
 **Translation:** 
 
-**[5500.34s] English:** чью идею неуверенный в себе, эгоистичный руководитель из начала нулевых, просто бы отмел и сказал «нет».  
+**[5087.70s] English:** The more you distance yourself from it, and begin to demonize his point of view.  
 **Translation:** 
 
-**[5510.14s] English:** А теперь их идея это то, что все в World of Warcraft или Overwatch просто обожают, и все лавры достаются им.  
+**[5094.58s] English:** You begin to approach their words and actions with skepticism.  
+**Translation:** Vocabulary: demonize: 妖魔化; skepticism: 怀疑主义
+
+**[5098.12s] English:** Instead of trusting.  
+**Translation:** 
+
+**[5100.00s] English:** To trust and believe in them.  
+**Translation:** 
+
+**[5102.00s] English:** I noticed that in small teams where everyone knows each other by name,  
+**Translation:** 
+
+**[5106.50s] English:** I know who is working on what now, they know what I am occupied with,  
+**Translation:** 
+
+**[5111.14s] English:** Everyone can talk to each other,  
+**Translation:** 
+
+**[5114.10s] English:** And there isn't such a thing.  
+**Translation:** 
+
+**[5118.50s] English:** To put labels on entire departments.  
+**Translation:** 
+
+**[5122.40s] English:** In large, unhealthy teams, this just doesn't dawn on artists,juveniles.  
+**Translation:** Vocabulary: labels: 标签
+
+**[5127.74s] English:** They do not understand what we are trying to do.  
+**Translation:** 
+
+**[5129.74s] English:** When you ponder over this phrase, you realize,  
+**Translation:** Vocabulary: ponder: 深思
+
+**[5132.74s] English:** What a ridiculous statement, in the sense that all artists fail to understand?  
+**Translation:** 
+
+**[5139.74s] English:** First, this is not true, and second, it also humiliates them.  
+**Translation:** Vocabulary: humiliates: 羞辱
+
+**[5143.74s] English:** Because for them, it is also a matter of their entire lives.  
+**Translation:** 
+
+**[5147.74s] English:** This game will be as important to them as, for example, my own.  
+**Translation:** 
+
+**[5151.74s] English:** So who am I to say such things?  
+**Translation:** 
+
+**[5155.74s] English:** Yes, it's harmful in any field to think that you are the only one.  
+**Translation:** 
+
+**[5159.74s] English:** And just as all people will understand,  
+**Translation:** 
+
+**[5160.00s] English:** How is the world structured, and what makes the rest of them fools, that they have nothing to learn from and are just mistaken?  
+**Translation:** 
+
+**[5161.74s] English:** That you are good, that you are not an illiterate person,  
+**Translation:** 
+
+**[5163.74s] English:** And to make sure they understand that you are good,  
+**Translation:** 
+
+**[5165.74s] English:** There are mistakes even with them.  
+**Translation:** 
+
+**[5167.74s] English:** That is, you have to understand that you are such,  
+**Translation:** 
+
+**[5169.74s] English:** And for them, this is all just a genre for themselves.  
+**Translation:** 
+
+**[5169.84s] English:** This is a precise thought if we fast-forward to when we created Team 4, which subsequently  
+**Translation:** Vocabulary: subsequently: 随后
+
+**[5171.74s] English:** Here, of course, it will fit into three people.  
+**Translation:** 
+
+**[5173.74s] English:** Because, you know, all friends, all people,  
+**Translation:** 
+
+**[5175.74s] English:** All to enter the realm, yes.  
+**Translation:** 
+
+**[5177.98s] English:** All they understood,  
+**Translation:** 
+
+**[5178.94s] English:** What is absolutely everything that exists,  
+**Translation:** 
+
+**[5180.74s] English:** They were developing Titan but failed, and then restarted as a team called Overwatch.  
+**Translation:** Vocabulary: titan: 巨无霸
+
+**[5180.94s] English:** All of them call it,  
+**Translation:** 
+
+**[5182.94s] English:** In principle,  
+**Translation:** 
+
+**[5183.74s] English:** This does not make it do anything.  
+**Translation:** 
+
+**[5185.74s] English:** Nu, for those who don't know,  
+**Translation:** 
+
+**[5187.36s] English:** I tried to convey to everyone on this team one idea: we needed to start from one assumption.  
+**Translation:** 
+
+**[5194.74s] English:** Blizzard, one of the best game developers in the world, and we were very lucky to work there when I was there.  
+**Translation:** Vocabulary: assumption: 假设; blizzard: 暴雪
+
+**[5204.64s] English:** Now I'm thinking we could have hired anyone, the best of the best wanted to work at Blizzard.  
+**Translation:** 
+
+**[5213.64s] English:** And if if  
+**Translation:** 
+
+**[5217.36s] English:** To go from this and say, "Well, let's assume we're hiring someone. We'll say we're looking for an artist.  
+**Translation:** 
+
+**[5223.92s] English:** Paying attention to details, such as drawing boxes and chairs, may not be the best use of a top industry prop artist's skills.  
+**Translation:** 
+
+**[5232.78s] English:** Exactly such a person will come to our door, and when he comes, we must relate to him.  
+**Translation:** 
+
+**[5240.60s] English:** As a top prop master in the industry, it's not about meeting him with initial skepticism and  
+**Translation:** Vocabulary: skepticism: 怀疑
+
+**[5247.36s] English:** Therefore, when he offers something and says, "I think it was with Overwatch," I think we should...  
+**Translation:** 
+
+**[5255.70s] English:** Make it like this: We need to do A, but not B, instead of just talking about it, I support the option.  
+**Translation:** 
+
+**[5262.94s] English:** Why are you against my idea? We need to stop, take a deep breath, and tell ourselves, "Screw it, this is great.  
+**Translation:** 
+
+**[5270.92s] English:** The best prop master in the industry has something to offer. Why don't I listen to him?  
+**Translation:** 
+
+**[5277.36s] English:** I do it that way too.  
+**Translation:** 
+
+**[5280.00s] English:** A mental process or experiment when I talk with a new person,  
+**Translation:** 
+
+**[5287.20s] English:** Especially if I feel a slight hint of such a feeling.  
+**Translation:** 
+
+**[5291.04s] English:** Usually this happens to someone very young, for example, a student or something like that.  
+**Translation:** Vocabulary: slight: 轻微的
+
+**[5295.78s] English:** I imagine that he is the smartest person in the world in his head.  
+**Translation:** 
+
+**[5300.04s] English:** And this sets me up to assume that I can learn a lot from him.  
+**Translation:** 
+
+**[5307.90s] English:** And this helps.  
+**Translation:** 
+
+**[5308.72s] English:** And you start really listening, and I literally consider him the wisest and shrewdest person in the world.  
+**Translation:** Vocabulary: shrewdest: 最机智的
+
+**[5315.54s] English:** This helps.  
+**Translation:** 
+
+**[5316.64s] English:** It was like...  
+**Translation:** 
+
+**[5319.32s] English:** Knows, I'm just a game designer, so all my knowledge in psychology  
+**Translation:** 
+
+**[5324.08s] English:** This is reduced to manipulating people so that they want to believe and find it fun.  
+**Translation:** Vocabulary: manipulating: 操控
+
+**[5329.46s] English:** I don't know, my work is not exactly very important.  
+**Translation:** 
+
+**[5331.84s] English:** Yes, definitely.  
+**Translation:** 
+
+**[5332.12s] English:** But from a psychological perspective, I think a lot about things like ego,  
+**Translation:** 
+
+**[5338.72s] English:** And uncertainty about oneself.  
+**Translation:** Vocabulary: oneself: 自己
+
+**[5342.18s] English:** Uncertainty is something we all have.  
+**Translation:** 
+
+**[5345.24s] English:** Each of us has this uncertainty.  
+**Translation:** 
+
+**[5348.18s] English:** It simply manifests differently in everyone.  
+**Translation:** 
+
+**[5351.08s] English:** As time goes on in our lives, this uncertainty also changes.  
+**Translation:** Vocabulary: manifests: 表现
+
+**[5356.28s] English:** For example, some people, due to their insecurity, destroy others.  
+**Translation:** 
+
+**[5360.86s] English:** Others destroy themselves through their uncertainty because of it.  
+**Translation:** 
+
+**[5365.64s] English:** Some, however, destroy everyone around them because of it.  
+**Translation:** 
+
+**[5368.72s] English:** Here is the improved sentence with natural English punctuation and capitalization: I had a case when, as a young leader,  
+**Translation:** Vocabulary: capitalization: 标点符号
+
+**[5372.68s] English:** When I was just starting out as a leader in World of Warcraft,  
+**Translation:** 
+
+**[5376.68s] English:** I thought it was very important to be right.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[5519.08s] English:** Поясню для слушателей.  
+**[5380.20s] English:** And, you know, promote the right idea.  
 **Translation:** 
 
-**[5520.00s] English:** или кто не знаком с великим Джеффри Капланом.  
+**[5384.84s] English:** And one day, they even side-lined me.  
 **Translation:** 
 
-**[5525.42s] English:** Ты один из самых скромных людей,  
+**[5388.72s] English:** We met with a pair of guys who aren't from the game design department with Pardeo.  
 **Translation:** 
 
-**[5529.30s] English:** и всегда за все ты отдаешь должное команде.  
+**[5394.44s] English:** And...  
 **Translation:** 
 
-**[5532.02s] English:** Поэтому о чем бы мы ни говорили,  
+**[5396.12s] English:** For a game designer, it's generally not easy because...  
 **Translation:** 
 
-**[5534.38s] English:** я знаю, ты постоянно сдерживаешься,  
+**[5398.16s] English:** ...they keep jumping up and down.  
 **Translation:** 
 
-**[5536.76s] English:** чтобы не похвалить команду за каждую мелочь.  
+**[5400.00s] English:** They throw out ideas. In the team, there's never a shortage of them. And here we are sitting in some meeting,  
 **Translation:** 
 
-**[5540.88s] English:** Твоя коронная фраза «Привет, это Джефф из команды Overwatch».  
-**Translation:** 
-
-**[5545.52s] English:** В общем, это было небольшое отступление.  
-**Translation:** 
-
-**[5548.78s] English:** Спасибо за твою скромность на протяжении всей карьеры  
-**Translation:** 
-
-**[5552.96s] English:** и за то, что всегда ценил команду.  
-**Translation:** 
-
-**[5555.64s] English:** Но давай поговорим о WoW, о World of Warcraft.  
-**Translation:** 
-
-**[5561.74s] English:** Расскажи, как шла разработка на ранних этапах.  
-**Translation:** 
-
-**[5565.00s] English:** Может, сначала объясним, что такое World of Warcraft?  
-**Translation:** 
-
-**[5569.68s] English:** Я тут глянул в Перплексити.  
-**Translation:** 
-
-**[5572.26s] English:** World of Warcraft — это многопользовательское РПГ,  
-**Translation:** 
-
-**[5574.96s] English:** где вы создаете персонажа, прокачиваете его,  
-**Translation:** 
-
-**[5577.28s] English:** выполняя квесты и проходя поиски.  
-**Translation:** 
-
-**[5578.78s] English:** И улучшаете свое снаряжение и мощь в открытом фэнтези-мире под названием «Азерот».  
-**Translation:** 
-
-**[5584.20s] English:** Вы передвигаетесь, используете способности с экшен-бара,  
-**Translation:** 
-
-**[5588.14s] English:** делаете квесты и постепенно осваиваете боевую ротацию для своего класса.  
-**Translation:** 
-
-**[5593.50s] English:** А там есть самые разные персонажи, роли и классы.  
-**Translation:** 
-
-**[5597.54s] English:** Вы выбираете расу, внешность, стартовую зону,  
-**Translation:** 
-
-**[5600.54s] English:** есть расовые бонусы, а класс определяет, как вы сражаетесь,  
-**Translation:** 
-
-**[5604.08s] English:** и вашу роль в группе.  
-**Translation:** 
-
-**[5605.52s] English:** Можешь дополнить эту картину?  
-**Translation:** 
-
-**[5606.94s] English:** Что же такое World of Warcraft?  
-**Translation:** 
-
-**[5608.78s] English:** World of Warcraft — это прежде всего больше, чем все остальное.  
-**Translation:** 
-
-**[5613.50s] English:** Это мир.  
-**Translation:** 
-
-**[5614.78s] English:** Это мир, в котором можно жить вместе с другими людьми,  
-**Translation:** 
-
-**[5618.90s] English:** где каждый проживает свою фантазию.  
-**Translation:** 
-
-**[5621.26s] English:** Крис Мэтсон, креативный директор World of Warcraft,  
-**Translation:** 
-
-**[5625.82s] English:** и Ален Адам, один из основателей Blizzard,  
-**Translation:** 
-
-**[5630.02s] English:** называл Криса сердцем и душой Blizzard.  
-**Translation:** 
-
-**[5633.16s] English:** И, можно сказать, когда создаешь игру Blizzard,  
-**Translation:** 
-
-**[5637.58s] English:** ты будто воплощаешься.  
-**Translation:** 
-
-**[5638.78s] English:** Когда ты воплощаешь воображение Криса,  
-**Translation:** 
-
-**[5640.00s] English:** Иса, можно так выразиться.  
-**Translation:** 
-
-**[5642.42s] English:** И Крис сказал знаменитую фразу,  
-**Translation:** 
-
-**[5645.12s] English:** «Главный герой World of Warcraft — это сам мир».  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[5648.32s] English:** И я всегда в это верил.  
-**Translation:** 
-
-**[5650.52s] English:** И вот ты пытаешься создать место захватывающим и опасным,  
-**Translation:** 
-
-**[5654.58s] English:** но уютным и одновременно неуютным и великолепным.  
-**Translation:** 
-
-**[5659.60s] English:** И знаешь, оно...  
-**Translation:** 
-
-**[5660.86s] English:** Оно должно ощущаться огромным, и оно таким и было.  
-**Translation:** 
-
-**[5665.22s] English:** Чтобы пересечь мир от края до края, могло уйти полчаса.  
-**Translation:** 
-
-**[5670.00s] English:** Но это мир, в котором ты живешь,  
-**Translation:** 
-
-**[5673.90s] English:** и он разделен на две враждующие фракции.  
-**Translation:** 
-
-**[5677.38s] English:** Это Орда и Альянс.  
-**Translation:** 
-
-**[5679.40s] English:** И это было очень важное и очень спорное решение,  
-**Translation:** 
-
-**[5685.18s] English:** которое принял Ален Адам.  
-**Translation:** 
-
-**[5687.60s] English:** Он был главным сторонником разделения на Орду и Альянс.  
-**Translation:** 
-
-**[5691.08s] English:** И вначале это разделение было очень жестким.  
-**Translation:** 
-
-**[5694.84s] English:** Очень жестким, да.  
-**Translation:** 
-
-**[5697.18s] English:** Ты выбираешь сторону, и потом общаешься,  
-**Translation:** 
-
-**[5700.00s] English:** только с теми, за кого играешь.  
-**Translation:** 
-
-**[5702.68s] English:** Да, а потом еще и татуировку в реале набиваешь.  
-**Translation:** 
-
-**[5706.20s] English:** Столько людей подходят ко мне и показывают татухи с символом Орды.  
-**Translation:** 
-
-**[5710.04s] English:** Это круто.  
-**Translation:** 
-
-**[5711.08s] English:** Это невероятно эпично.  
-**Translation:** 
-
-**[5712.94s] English:** Это стало частью их идентичности.  
-**Translation:** 
-
-**[5715.22s] English:** Если бы ты сказал, Лекс, пойдем со мной в World of Warcraft,  
-**Translation:** 
-
-**[5718.94s] English:** мы за Альянс, за Тихондрии, ты бы сразу такой...  
-**Translation:** 
-
-**[5721.68s] English:** Точно. Забудь мой номер.  
-**Translation:** 
-
-**[5723.50s] English:** Альянс? Типа так. Кажется, мы больше не друзья.  
-**Translation:** 
-
-**[5726.82s] English:** Но само решение разделить всех на Орду,  
-**Translation:** 
-
-**[5730.04s] English:** и Альянс было очень спорным,  
-**Translation:** 
+**[5407.58s] English:** And these guys throw in a couple of ideas. And I didn't get snappy with them, but very methodically, as I would have.  
+**Translation:** Vocabulary: snappy: 急躁的
 
-**[5731.64s] English:** потому что в Эверквест такого разделения не было.  
+**[5414.94s] English:** Unsure of himself, you know, self-centered, this new manager began in the spirit of "now I  
 **Translation:** 
 
-**[5734.38s] English:** Там были по сути те же расы, что и в ВОВ,  
-**Translation:** 
-
-**[5736.88s] English:** но они могли объединяться в группы.  
-**Translation:** 
-
-**[5740.14s] English:** А мы с Пардо как раз пришли из Эверквест,  
-**Translation:** 
-
-**[5743.52s] English:** и мы с ним считали, что Ален принимает ужасное решение.  
-**Translation:** 
-
-**[5748.70s] English:** И мы спорили.  
-**Translation:** 
-
-**[5750.54s] English:** Ален, Роб, Боб Фитч и я  
-**Translation:** 
-
-**[5752.98s] English:** каждый день за обедом говорили только о ВОВ  
-**Translation:** 
-
-**[5756.26s] English:** и его ключевых механиках.  
-**Translation:** 
-
-**[5758.68s] English:** Роб тогда на дворах,  
-**Translation:** 
-
-**[5760.00s] English:** еще и не работал, он доделывал Warcraft 3, а мы уже спорили  
-**Translation:** 
-
-**[5764.66s] English:** хорошая ли это идея разделения на Орду и Альянс.  
-**Translation:** 
-
-**[5768.54s] English:** Аллен, он пришел из комьюнити Dark Age of Camelot, это была еще  
-**Translation:** Vocabulary: camelot: 卡米洛特
-
-**[5773.40s] English:** одна многопользовательская ролевая игра, но с большим  
-**Translation:** 
-
-**[5778.16s] English:** уклоном в PvP, и он твердил, что вся магия той игры  
-**Translation:** 
-
-**[5782.30s] English:** в трех фракциях, и ему нравилось, что ты сразу попадаешь  
-**Translation:** 
-
-**[5786.58s] English:** в команду, ты не один в этом мире, и волей-неволей  
-**Translation:** 
+**[5423.12s] English:** Let me explain why this won't work, and what we will do instead." And after the meeting with Pard.  
+**Translation:** Vocabulary: unsure: 不自信
 
-**[5790.94s] English:** у тебя появлялись те, с кем ты играешь, а мы с Робом  
+**[5429.74s] English:** He stepped aside and said, "You are a very clever designer, but you shouldn't have treated those guys that way.  
 **Translation:** 
 
-**[5795.26s] English:** постоянно выступали против, а потом прямо перед бетой  
+**[5439.12s] English:** You should always listen to what people say and try to do your best to make their ideas work.  
 **Translation:** 
 
-**[5800.30s] English:** Аллен ушел.  
+**[5445.98s] English:** And I just kept telling myself, "So, if an idea comes up, you have to try to implement it.  
 **Translation:** 
 
-**[5801.30s] English:** Он ушел управлять хедж-фондом, представляешь, он тогда  
-**Translation:** 
+**[5453.32s] English:** And how those things, which I didn't believe in at first,  
+**Translation:** Vocabulary: implement: 执行
 
-**[5806.36s] English:** очень сильно увлекся покером, увлекся финансами, и просто  
+**[5459.08s] English:** In the end, I won't be able to implement them.  
 **Translation:** 
 
-**[5810.76s] English:** взял и ушел.  
+**[5459.74s] English:** In the end, it seems to have become the essence of who I am now, the essence of me as a leader.  
 **Translation:** 
 
-**[5811.76s] English:** Это было месяцев за девять или за год до релиза WoW.  
+**[5465.86s] English:** Game designer, game director. And some of the best ideas saw the light thanks to developing others.  
 **Translation:** 
 
-**[5816.56s] English:** Что просто было безумие.  
+**[5475.04s] English:** Ideas. When your first reaction is "no, this won't work," and then you just dig in and think.  
 **Translation:** 
 
-**[5820.92s] English:** Роб стал ведущим дизайнером вместо Аллена, и надо отдать  
+**[5482.64s] English:** How do you make it work, though?" And the best part is when it finally succeeds,  
 **Translation:** 
 
-**[5825.82s] English:** ему должное, первым делом он сказал, и тут мы возвращаемся  
-**Translation:** 
+**[5489.74s] English:** All the laurels are given to them. And you, in essence, simply helped a person to showcase themselves, whose idea, perhaps, might not have been supported anyway.  
+**Translation:** Vocabulary: laurels: 荣誉; showcase: 展示
 
-**[5830.52s] English:** к нашему спору, он сказал, Аллен умный парень, раз  
+**[5500.34s] English:** The unsure, egotistical leader from the early 2000s would have simply dismissed and said "no" to such an idea.  
 **Translation:** 
 
-**[5834.88s] English:** уж он так сильно топил за Орду и Альянс, мы должны  
-**Translation:** 
+**[5510.14s] English:** Now their idea is that everyone in World of Warcraft or Overwatch just loves it, and all the praise goes to them.  
+**Translation:** Vocabulary: dismissed: 轻视; egotistical: 自大; unsure: 不确定; warcraft: Warcraft
 
-**[5838.08s] English:** это сделать, и мы с Робом в общем-то пересмотрели  
+**[5519.08s] English:** Explain for the listeners.  
 **Translation:** 
 
-**[5843.10s] English:** свою позицию и приняли идею Орды и Альянса.  
-**Translation:** 
+**[5520.00s] English:** Or who is not familiar with the great Jeffrey Kaplan.  
+**Translation:** Vocabulary: listeners: 听众
 
-**[5845.92s] English:** И полностью в нее вложились.  
+**[5525.42s] English:** You are one of the most humble people,  
 **Translation:** 
 
-**[5848.38s] English:** Так что в самом начале WoW была, команда была отличная,  
-**Translation:** 
+**[5529.30s] English:** And always give credit to the team for everything.  
+**Translation:** Vocabulary: humble: 谦逊
 
-**[5856.12s] English:** это был такой сплав ветеранов, на которых мы все равнялись.  
+**[5532.02s] English:** Therefore, no matter what we talk about,  
 **Translation:** 
 
-**[5861.36s] English:** Команду возглавлял Марк Кёрн, был Эшейн Добири,  
+**[5534.38s] English:** I know, you're constantly holding back,  
 **Translation:** 
 
-**[5865.60s] English:** а он легендарный разработчик Blizzard, арт-директором был  
+**[5536.76s] English:** To avoid praising the team for every little thing.  
 **Translation:** 
 
-**[5870.08s] English:** Билл Петрос, и еще был Мэтсон, который был, ну Мэтсон был, тем самым,  
-**Translation:** Vocabulary: blizzard: 暴雪
+**[5540.88s] English:** Your coronal phrase is "Hello, this is Jeff from the Overwatch team.  
+**Translation:** Vocabulary: coronal: 首席; praising: 表扬
 
-**[5875.28s] English:** крутым старшим братом, на которого все хотели  
+**[5545.52s] English:** In general, this was a small detour.  
 **Translation:** 
 
-**[5878.62s] English:** равняться.  
-**Translation:** 
+**[5548.78s] English:** Thank you for your humility throughout your entire career.  
+**Translation:** Vocabulary: humility: 谦逊
 
-**[5880.00s] English:** Я старше Мэтсона, но для меня он был как старший брат.  
+**[5552.96s] English:** And for always valuing the team.  
 **Translation:** 
 
-**[5884.40s] English:** И было много таких, как мы, кто никогда прежде этим не занимался.  
-**Translation:** 
+**[5555.64s] English:** But let's talk about WoW, World of Warcraft.  
+**Translation:** Vocabulary: valuing: 重视
 
-**[5890.14s] English:** А еще они наняли много людей из других команд и даже из тех, кто работал в других жанрах.  
+**[5561.74s] English:** Tell me how development went during the early stages.  
 **Translation:** 
 
-**[5896.58s] English:** Например, ребят, которые делали подземелья, наняли из сообщества Quake.  
+**[5565.00s] English:** May be, let's first explain what World of Warcraft is?  
 **Translation:** 
 
-**[5901.28s] English:** А поскольку на тот момент ни одного хардкорного ММО-дизайнера у них в штате не было,  
+**[5569.68s] English:** I looked up in Perplexity.  
 **Translation:** 
 
-**[5907.56s] English:** а были только тот же Кевин, Эрик и Аллан, они были единственными дизайнерами.  
-**Translation:** 
+**[5572.26s] English:** World of Warcraft is a multiplayer RPG,  
+**Translation:** Vocabulary: perplexity: 困惑
 
-**[5915.18s] English:** И они начали делать подземелья в стиле Quake.  
+**[5574.96s] English:** Where do you create a character, level him up,  
 **Translation:** 
 
-**[5918.52s] English:** По сути, уровни из Quake в виде данжев.  
-**Translation:** 
+**[5577.28s] English:** Completing quests and going on searches.  
+**Translation:** Vocabulary: quests: 任务
 
-**[5921.40s] English:** В какой-то момент Вов даже делали на QE Radiant, редакторы уровней Quake.  
+**[5578.78s] English:** And you improve your gear and power in an open fantasy world called "Azeroth".  
 **Translation:** 
 
-**[5926.66s] English:** Потом они, конечно, все переписали и стали использовать свой движок.  
-**Translation:** Vocabulary: radiant: 光芒四射
+**[5584.20s] English:** You move around, use abilities from the action bar,  
+**Translation:** Vocabulary: azeroth: 艾泽拉斯
 
-**[5932.02s] English:** Так что мы были такой сборной солянкой, командой аутсайдеров.  
+**[5588.14s] English:** You make quests and gradually master the combat rotation for your class.  
 **Translation:** 
 
-**[5936.16s] English:** Вот так бы я описал.  
-**Translation:** 
+**[5593.50s] English:** There are all sorts of characters, roles, and classes there.  
+**Translation:** Vocabulary: combat: 战斗
 
-**[5937.56s] English:** Когда я создавал команду Вов тогда, это была смесь ветеранов и новичков вроде меня.  
+**[5597.54s] English:** You choose your race, appearance, starting zone,  
 **Translation:** 
 
-**[5944.36s] English:** То есть я просто был каким-то придурком, который много задротил в Эверквест.  
+**[5600.54s] English:** There are racial bonuses, and class determines how you fight,  
 **Translation:** 
 
-**[5948.90s] English:** И вот я в Близзард.  
+**[5604.08s] English:** And your role in the group.  
 **Translation:** 
 
-**[5950.68s] English:** Делаешь квесты.  
+**[5605.52s] English:** Can you add to this picture?  
 **Translation:** 
 
-**[5951.92s] English:** Да, такой типа, так, ну сейчас будем делать World of Warcraft.  
+**[5606.94s] English:** What is World of Warcraft?  
 **Translation:** 
 
-**[5957.82s] English:** И, глядя на это с высоты лет, я думаю, что огромная часть успеха Вов,  
+**[5608.78s] English:** World of Warcraft is primarily more than anything else.  
 **Translation:** Vocabulary: warcraft: 战争艺术
 
-**[5966.02s] English:** особенно его ранние команды, Команды 2, в ее первоначальном составе заключалась в том, что мы просто не знали, что делаем.  
+**[5613.50s] English:** This is the world.  
 **Translation:** 
 
-**[5976.82s] English:** Знаешь, это словно...  
+**[5614.78s] English:** This is a world where one can live together with other people.  
 **Translation:** 
 
-**[5979.82s] English:** Для меня яркий пример — это Титан.  
+**[5618.90s] English:** Where each person lives out their fantasy.  
 **Translation:** 
 
-**[5982.82s] English:** Титан был попыткой Blizzard сделать ММО после World of Warcraft.  
+**[5621.26s] English:** Chris Metzen, Creative Director of World of Warcraft,  
 **Translation:** 
 
-**[5986.82s] English:** И мы с треском провалились, хотя в той команде собрались лучшие из лучших.  
+**[5625.82s] English:** And Alan Adama, one of the founders of Blizzard,  
 **Translation:** 
 
-**[5990.82s] English:** А все потому, что каждый считал себя слишком большим экспертом  
+**[5630.02s] English:** Chris was called the heart and soul of Blizzard.  
+**Translation:** Vocabulary: blizzard: 暴雪; founders: 创始人
+
+**[5633.16s] English:** And, one could say, when creating a game for Blizzard,  
 **Translation:** 
 
-**[5994.82s] English:** в том контексте.  
+**[5637.58s] English:** You seem to embody it.  
+**Translation:** Vocabulary: embody: 体现
+
+**[5638.78s] English:** When you embody Chris's imagination,  
 **Translation:** 
 
-**[5995.82s] English:** И мы не знали, как сделать прорывную, феноменальную ММО.  
+**[5640.00s] English:** Isa, can we say it like that?  
 **Translation:** 
 
-**[6000.00s] English:** А World of Warcraft делала кучка людей из очень успешной, уверенной в себе компании, которая создала такие игры, как StarCraft, Diablo, Warcraft, и к ним добавили сборище гейм-девелопнутых, которые решили, а давайте потягаемся с Sony Online.  
+**[5642.42s] English:** Chris said the famous phrase,  
 **Translation:** 
 
-**[6020.92s] English:** Они тогда как раз делали EverQuest 2. Если вернуться, на тот момент EverQuest 2 уже анонсировали, и мы, фанаты EverQuest, просто пускали слюни по EverQuest 2. Никто не думал, о, круто, World of Warcraft. Все ждали, что именно EQ2 перехватит знамя и понесет его дальше.  
-**Translation:** Vocabulary: diablo: Diablo游戏
-
-**[6043.20s] English:** И тут вдобавок они анонсируют Star Wars Galaxies. Над ней работал гениальный дизайнер Раф Костер.  
+**[5645.12s] English:** The main hero of World of Warcraft is the world itself.  
 **Translation:** 
 
-**[6050.92s] English:** Который пришел из Ultima Online. А он просто гениальный гейм-дизайнер. Посмотрите его лекции, он много выступал на GDC.  
-**Translation:** Vocabulary: galaxies: 星系; ultima: 最终幻想
-
-**[6062.04s] English:** Знаешь, мы все такие, о боже, они делают EverQuest 2 и Star Wars Galaxies. У них же франшиза и права на Звездные войны.  
+**[5648.32s] English:** I always believed in that.  
 **Translation:** 
 
-**[6074.14s] English:** Нам пиздец. Типа, как мы будем с ними тягаться?  
+**[5650.52s] English:** And here you are trying to create a place that is both thrilling and dangerous.  
+**Translation:** Vocabulary: thrilling: 惊险
+
+**[5654.58s] English:** But cozy and simultaneously uncomfortable and magnificent.  
 **Translation:** 
 
-**[6078.62s] English:** Плюс к этому, все видели успех EQ2.  
+**[5659.60s] English:** Do you know, it...  
 **Translation:** 
 
-**[6080.92s] English:** И все ринулись делать ММО. Вопрос был лишь в том, кто сможет победить.  
+**[5660.86s] English:** It should feel enormous, and it was.  
 **Translation:** 
 
-**[6088.00s] English:** То есть, давление ощущалось, команда маленькая, такая разношерстная, неожиданная команда, которая, если забежать вперед, напоминает персонажей из Overwatch.  
+**[5665.22s] English:** To cross the world from edge to edge, it could take half an hour.  
 **Translation:** 
 
-**[6103.60s] English:** Но, вы вкалывали как одержимые.  
+**[5670.00s] English:** But this is the world in which you live,  
 **Translation:** 
 
-**[6107.34s] English:** Вы рассказывали мне про дикие, безумные переработки.  
+**[5673.90s] English:** He is divided into two opposing factions.  
 **Translation:** 
 
-**[6111.82s] English:** И не потому, что вас заставляли, а потому, что вы сами этого хотели.  
+**[5677.38s] English:** This is the Horde and the Alliance.  
 **Translation:** 
 
-**[6116.44s] English:** Ведь вкладывали в это душу.  
+**[5679.40s] English:** And this was a very important and very contentious decision.  
+**Translation:** Vocabulary: contentious: 有争议的; horde: 部落
+
+**[5685.18s] English:** Which Alain Adam adopted.  
 **Translation:** 
 
-**[6118.66s] English:** Для вас это было всем.  
+**[5687.60s] English:** He was the main advocate for splitting into the Horde and Alliance.  
+**Translation:** Vocabulary: advocate: 提倡者
+
+**[5691.08s] English:** At first, this division was very strict.  
 **Translation:** 
 
-**[6120.00s] English:** Вы это обожали?  
+**[5694.84s] English:** Very harsh, yes.  
 **Translation:** 
 
-**[6121.48s] English:** Да, у индустрии геймдева вообще дурная слава из-за просто диких переработок.  
+**[5697.18s] English:** You choose a side, and then you communicate,  
 **Translation:** 
 
-**[6129.60s] English:** Это называется кранч, типа кранчишь ты или нет.  
+**[5700.00s] English:** Only with those you play for.  
 **Translation:** 
 
-**[6133.60s] English:** Сейчас кранчи под запретом, они не одобряются и всячески осуждаются.  
+**[5702.68s] English:** Yes, and then you get a tattoo in real life too.  
 **Translation:** 
 
-**[6140.66s] English:** Если бы мы сейчас так кранчили, то уже через неделю об этом вышла бы статья,  
+**[5706.20s] English:** So many people approach me and show me tattoos with the symbol of the Horde.  
+**Translation:** Vocabulary: tattoo: 纹身; tattoos: 纹身
+
+**[5710.04s] English:** This is cool.  
 **Translation:** 
 
-**[6147.24s] English:** где рассказали бы, какие мы ужасные, что заставляем людей перерабатывать.  
+**[5711.08s] English:** This is incredibly epic.  
 **Translation:** 
 
-**[6153.44s] English:** А вот тогда мы работали как одержимые, просто безумное количество часов.  
+**[5712.94s] English:** This became part of their identity.  
 **Translation:** 
 
-**[6159.58s] English:** Моя самая длинная смена подряд длилась 30 часов.  
-**Translation:** 
-
-**[6163.82s] English:** Это было, когда мы ковали мастер-копию Warcraft 3.  
-**Translation:** 
-
-**[6167.60s] English:** Это было, кажется...  
+**[5715.22s] English:** If you had said, Lex, let's go play World of Warcraft with me,  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[6170.96s] English:** Warcraft 3 вышел 3 июля 2002 года,  
+**[5718.94s] English:** We're for the Alliance, for Tihondry, you'd be such a...  
 **Translation:** 
 
-**[6175.18s] English:** так что это было примерно...  
+**[5721.68s] English:** Exactly. Forget my number.  
 **Translation:** 
 
-**[6177.24s] English:** В конце июня, начале июля.  
+**[5723.50s] English:** Alliance? Sort of. Seems like we're not friends anymore.  
 **Translation:** 
 
-**[6180.14s] English:** Вроде в конце июня.  
+**[5726.82s] English:** But simply dividing everyone into the Horde,  
 **Translation:** 
 
-**[6182.04s] English:** При этом я к Warcraft 3 никакого отношения не имел.  
+**[5730.04s] English:** And the Alliance was very contentious.  
 **Translation:** 
 
-**[6185.30s] English:** Вообще, в титрах я указан как дополнительная помощь  
+**[5731.64s] English:** Because there was no such division in EverQuest.  
 **Translation:** 
 
-**[6188.74s] English:** или дополнительное тестирование, что-то такое.  
+**[5734.38s] English:** There were essentially the same races as in WWII,  
 **Translation:** 
 
-**[6193.24s] English:** Когда я пришел в мае 2002, все силы были брошены на World of Warcraft для E3.  
+**[5736.88s] English:** They could form groups.  
 **Translation:** 
 
-**[6199.24s] English:** С E3 закончили, и тут же начался всеобщий оврал всей компанией,  
+**[5740.14s] English:** We just came from Everquest with Pardo.  
 **Translation:** 
 
-**[6204.04s] English:** чтобы подготовить Warcraft 3 к выходу.  
+**[5743.52s] English:** We thought that Alen was making a terrible decision.  
+**Translation:** Vocabulary: everquest: 永恒之森
+
+**[5748.70s] English:** We argued.  
 **Translation:** 
 
-**[6206.44s] English:** Чтобы выпустить его.  
+**[5750.54s] English:** Alen, Rob, Bob Fitche, and I  
 **Translation:** 
 
-**[6207.16s] English:** Чтобы выпустить Warcraft 3.  
+**[5752.98s] English:** Every day at lunch, they only talked about WWII.  
 **Translation:** 
 
-**[6209.16s] English:** А поскольку я вообще не занимался игрой от слова совсем,  
+**[5756.26s] English:** And its key mechanics.  
 **Translation:** 
 
-**[6212.16s] English:** и был таким зеленым геймдизайнером,  
+**[5758.68s] English:** Rob then was on the yards,  
 **Translation:** 
 
-**[6216.16s] English:** мне сказали, будешь просто помогать тестировать, что скажут.  
+**[5760.00s] English:** He hadn't even started working yet; he was still finishing up Warcraft 3, while we were already arguing.  
 **Translation:** 
 
-**[6220.16s] English:** И вот, мы пытаемся выпустить мастер-диск,  
+**[5764.66s] English:** Is it a good idea to separate into the Horde and Alliance?  
 **Translation:** 
 
-**[6225.16s] English:** и там случался очень редкий вылет.  
+**[5768.54s] English:** Allen, he came from the community of Dark Age of Camelot, this was still  
+**Translation:** Vocabulary: camelot: 卡米洛特; horde: 部落
+
+**[5773.40s] English:** One multiplayer role-playing game, but with a large  
 **Translation:** 
 
-**[6229.16s] English:** Он происходил, если посмотреть Cinematic,  
+**[5778.16s] English:** An incline in PvP, and he kept saying that all the magic of that game  
+**Translation:** Vocabulary: incline: 偏向
+
+**[5782.30s] English:** In three factions, and he liked that you immediately got involved.  
+**Translation:** 
+
+**[5786.58s] English:** In the team, you are not alone in this world, and whether you like it or not,  
+**Translation:** 
+
+**[5790.94s] English:** You had ones you played with, and Rob and I.  
+**Translation:** 
+
+**[5795.26s] English:** Constantly spoke out against it, and then right before beta.  
+**Translation:** 
+
+**[5800.30s] English:** Allen went away.  
+**Translation:** 
+
+**[5801.30s] English:** He went to manage a hedge fund, you know, he was then  
+**Translation:** 
+
+**[5806.36s] English:** He became very obsessed with poker, finances, and just  
+**Translation:** 
+
+**[5810.76s] English:** He just took and left.  
+**Translation:** Vocabulary: finances: 财务; obsessed: 着迷; poker: 扑克
+
+**[5811.76s] English:** This was about nine months or a year before the release of WoW.  
+**Translation:** 
+
+**[5816.56s] English:** What was simply madness.  
+**Translation:** Vocabulary: madness: 疯狂
+
+**[5820.92s] English:** Rob became the lead designer instead of Allen, and we have to give him credit for it.  
+**Translation:** 
+
+**[5825.82s] English:** He deserves credit; first he said what needed to be said, and here we return.  
+**Translation:** 
+
+**[5830.52s] English:** To our argument, he said that Allen is a smart guy, isn't he?  
+**Translation:** 
+
+**[5834.88s] English:** He was so passionate about the Horde and Alliance, we should  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[5838.08s] English:** This is something we did, and Rob and I basically reviewed it.  
+**Translation:** 
+
+**[5843.10s] English:** They took their position and accepted the idea of the Horde and Alliance.  
+**Translation:** 
+
+**[5845.92s] English:** They completely invested themselves in it.  
+**Translation:** 
+
+**[5848.38s] English:** So at the very beginning of WoW, the team was great,  
+**Translation:** 
+
+**[5856.12s] English:** This was a blend of veterans whom we all looked up to.  
+**Translation:** 
+
+**[5861.36s] English:** Command was led by Mark Kern, with Ashen Dobiri.  
+**Translation:** 
+
+**[5865.60s] English:** He is a legendary developer at Blizzard, and was art director.  
+**Translation:** 
+
+**[5870.08s] English:** Bill Petro, and there was Matson, who was, well, Matson was that very person,  
+**Translation:** Vocabulary: blizzard: 暴雪; legendary: 传奇的; petro: 佩特罗
+
+**[5875.28s] English:** A cool older brother, on whom everyone wanted to rely.  
+**Translation:** 
+
+**[5878.62s] English:** equals.  
+**Translation:** Vocabulary: equals: 等于
+
+**[5880.00s] English:** I am older than Matsen, but for me, he was like an older brother.  
+**Translation:** 
+
+**[5884.40s] English:** There were many of us like us who had never done this before.  
+**Translation:** 
+
+**[5890.14s] English:** They also hired many people from other teams and even those who worked in other genres.  
+**Translation:** 
+
+**[5896.58s] English:** For example, the guys who made dungeons hired from the Quake community.  
+**Translation:** Vocabulary: dungeons: 地下城; genres: 类型
+
+**[5901.28s] English:** Since at that time they did not have a single hardcore MMO designer on their team,  
+**Translation:** 
+
+**[5907.56s] English:** Only Kevin, Eric, and Allan were the designers.  
+**Translation:** Vocabulary: allan: 艾伦; designers: 设计师; hardcore: 硬核; kevin: 凯文
+
+**[5915.18s] English:** They began making underground levels in a Quake style.  
+**Translation:** 
+
+**[5918.52s] English:** In essence, levels from Quake are dungeon-like.  
+**Translation:** 
+
+**[5921.40s] English:** At some point, Ov even worked on QE Radiant, the level editors for Quake.  
+**Translation:** 
+
+**[5926.66s] English:** Then they, of course, rewrote everything and started using their own engine.  
+**Translation:** Vocabulary: radiant: 光芒四射; rewrote: 重写
+
+**[5932.02s] English:** So we were a bit of a melting pot team, an underdog squad.  
+**Translation:** 
+
+**[5936.16s] English:** Here's how I would describe it.  
+**Translation:** Vocabulary: underdog: 失败者
+
+**[5937.56s] English:** When I created the team back then, it was a mix of veterans and newcomers like me.  
+**Translation:** 
+
+**[5944.36s] English:** So I was just some idiot who wasted a lot of time on EverQuest.  
+**Translation:** Vocabulary: newcomers: 初学者
+
+**[5948.90s] English:** And here I am in Blizzard.  
+**Translation:** 
+
+**[5950.68s] English:** You do quests.  
+**Translation:** Vocabulary: blizzard: 暴风雪; quests: 任务
+
+**[5951.92s] English:** Yes, something like that, you know, we'll be making World of Warcraft now.  
+**Translation:** 
+
+**[5957.82s] English:** And, looking back on it from a bird's-eye view, I think a huge part of Vova's success lies in this.  
+**Translation:** Vocabulary: warcraft: 战争艺术
+
+**[5966.02s] English:** Especially his early teams, Team 2, in its original composition, was the fact that we just didn't know what we were doing.  
+**Translation:** 
+
+**[5976.82s] English:** Knows, this is like...  
+**Translation:** 
+
+**[5979.82s] English:** For me, a bright example is Titan.  
+**Translation:** 
+
+**[5982.82s] English:** Titan was an attempt by Blizzard to make an MMORPG after World of Warcraft.  
+**Translation:** Vocabulary: titan: 巨无霸
+
+**[5986.82s] English:** We kept a loud failure, though that team gathered the best of the best.  
+**Translation:** 
+
+**[5990.82s] English:** And all because everyone considered themselves too big of experts.  
+**Translation:** 
+
+**[5994.82s] English:** In that context.  
+**Translation:** 
+
+**[5995.82s] English:** We didn't know how to make a breakthrough, phenomenal MMORPG.  
+**Translation:** Vocabulary: phenomenal: 卓越的
+
+**[6000.00s] English:** A World of Warcraft was made by a bunch of people from a very successful, confident company that created games like StarCraft, Diablo, and Warcraft, and they added a bunch of game-developed gamers who decided to compete with Sony Online.  
+**Translation:** 
+
+**[6020.92s] English:** They were just making EverQuest 2 then. If we could go back, at that point EverQuest 2 had already been announced, and we, fans of EverQuest, were just drooling over EverQuest 2. Nobody thought, oh, great, World of Warcraft. Everyone was waiting for EQ2 to take the banner and run with it.  
+**Translation:** Vocabulary: banner: 旗帜; diablo: 迪亚波罗; drooling: 流口水
+
+**[6043.20s] English:** Here, in addition, they announced Star Wars Galaxies. It was designed by the genius Raf Koster.  
+**Translation:** 
+
+**[6050.92s] English:** Which came from Ultima Online. And he is simply a genius game designer. You should check out his lectures; he spoke at GDC many times.  
+**Translation:** Vocabulary: galaxies: 星系; ultima: 最终幻想外传
+
+**[6062.04s] English:** Knows, we're all kinds of crazy, oh my God, they're making EverQuest II and Star Wars Galaxies. They've got the franchise and rights to Star Wars.  
+**Translation:** 
+
+**[6074.14s] English:** Nam pizdec. Typa, kak my budем с ними тягаться?  
+**Translation:** Vocabulary: franchise: 授权
+
+**[6078.62s] English:** Plus to that, everyone has seen the success of EQ2.  
+**Translation:** 
+
+**[6080.92s] English:** And everyone rushed to make an MMO. The question was merely who would win.  
+**Translation:** 
+
+**[6088.00s] English:** So there was pressure, the team was small and rather diverse, an unexpected mix of people, which, if you look ahead, kind of reminds you of characters from Overwatch.  
+**Translation:** 
+
+**[6103.60s] English:** But you worked like possessed ones.  
+**Translation:** Vocabulary: possessed: 如着魔般
+
+**[6107.34s] English:** You told me about the wild,疯狂的加班.  
+**Translation:** 
+
+**[6111.82s] English:** Do not because you were forced to, but because you wanted to yourself.  
+**Translation:** 
+
+**[6116.44s] English:** Because we put our soul into it.  
+**Translation:** 
+
+**[6118.66s] English:** For you, it was everything.  
+**Translation:** 
+
+**[6120.00s] English:** Did you enjoy that?  
+**Translation:** 
+
+**[6121.48s] English:** Yes, the gaming industry has a bad reputation due to wildly excessive overtime.  
+**Translation:** Vocabulary: excessive: 过度的; overtime: 加班
+
+**[6129.60s] English:** This is called a crunch, type of thing where you either do it or you don't.  
+**Translation:** 
+
+**[6133.60s] English:** Currently, Crunchies are banned and are neither approved nor condoned.  
+**Translation:** Vocabulary: condoned: 默许; crunch: 困境; crunchies: 曲奇
+
+**[6140.66s] English:** If we were crunching numbers now, there would already be an article about it by next week.  
+**Translation:** 
+
+**[6147.24s] English:** Where we told people how awful we are, that we make them work overtime.  
+**Translation:** Vocabulary: crunching: 计算
+
+**[6153.44s] English:** Here we worked like possessed, just an insane number of hours.  
+**Translation:** 
+
+**[6159.58s] English:** My longest shift in a row lasted 30 hours.  
+**Translation:** 
+
+**[6163.82s] English:** This was when we were crafting the master copy of Warcraft 3.  
+**Translation:** 
+
+**[6167.60s] English:** This was, I think,...  
+**Translation:** Vocabulary: crafting: 制作; warcraft: 战争艺术
+
+**[6170.96s] English:** Warcraft III was released on July 3, 2002.  
+**Translation:** 
+
+**[6175.18s] English:** So, it was roughly...  
+**Translation:** 
+
+**[6177.24s] English:** In June, early July.  
+**Translation:** 
+
+**[6180.14s] English:** It seems to be around the end of June.  
+**Translation:** 
+
+**[6182.04s] English:** In this case, I had no relation to Warcraft III.  
+**Translation:** 
+
+**[6185.30s] English:** In general, in the credits I am listed as additional assistance.  
+**Translation:** 
+
+**[6188.74s] English:** Or additional testing, something like that.  
+**Translation:** 
+
+**[6193.24s] English:** When I came in May 2002, all the forces were thrown into World of Warcraft for E3.  
+**Translation:** 
+
+**[6199.24s] English:** After we finished with the E3, everyone immediately broke out into a loud cheer for the entire company.  
+**Translation:** 
+
+**[6204.04s] English:** To prepare Warcraft III for release.  
+**Translation:** 
+
+**[6206.44s] English:** To release it.  
+**Translation:** 
+
+**[6207.16s] English:** To release Warcraft III.  
+**Translation:** 
+
+**[6209.16s] English:** Since I haven't been involved with the game at all,  
+**Translation:** 
+
+**[6212.16s] English:** And he was such a green game designer,  
+**Translation:** 
+
+**[6216.16s] English:** I was told that I would just be helping to test what they say.  
+**Translation:** 
+
+**[6220.16s] English:** And here we are trying to release the master disc,  
+**Translation:** 
+
+**[6225.16s] English:** And there occurred a very rare crash.  
+**Translation:** 
+
+**[6229.16s] English:** He originated, if viewed cinematically,  
+**Translation:** Vocabulary: cinematically: 像电影一样; originated: 起源
+
+**[6232.16s] English:** Watch a video after one of the levels,  
+**Translation:** 
+
+**[6235.16s] English:** And then the game simply ended.  
+**Translation:** 
+
+**[6237.16s] English:** The programmer added a new type of game.  
+**Translation:** 
+
+**[6240.00s] English:** Logging for its capture.  
+**Translation:** Vocabulary: programmer: 程序员
+
+**[6243.58s] English:** They needed someone who would simply keep doing this over and over again.  
+**Translation:** 
+
+**[6247.62s] English:** To make the game crash and they caught the bug.  
+**Translation:** 
+
+**[6250.96s] English:** Here I sat there for 30 hours in a row.  
+**Translation:** 
+
+**[6253.56s] English:** And I just went through these 30 hours of this cinematic.  
 **Translation:** Vocabulary: cinematic: 电影般的
 
-**[6232.16s] English:** посмотреть ролик после одного из уровней,  
+**[6256.80s] English:** This was crazy and even surreal.  
 **Translation:** 
 
-**[6235.16s] English:** и тогда игра просто закончилась.  
+**[6259.58s] English:** To observe as everyone gradually disperses,  
+**Translation:** Vocabulary: disperses: 散去; surreal: 超现实的
+
+**[6263.64s] English:** By turns.  
 **Translation:** 
 
-**[6237.16s] English:** И программист добавил новый вид игры.  
+**[6265.14s] English:** Not all at once, but one after another, at different times.  
 **Translation:** 
 
-**[6240.00s] English:** лагирование для его отлова.  
+**[6267.90s] English:** Families, you know, tend to go much earlier than single people.  
 **Translation:** 
 
-**[6243.58s] English:** И им нужен был тот, кто просто бы снова и снова это воспроизводил,  
+**[6272.62s] English:** Then observe how everyone returns the next morning,  
 **Translation:** 
 
-**[6247.62s] English:** чтобы игра крашнулась, и они отловили баг.  
+**[6277.26s] English:** All in different clothes, and they look refreshed.  
 **Translation:** 
 
-**[6250.96s] English:** И вот я сидел там 30 часов подряд,  
+**[6280.50s] English:** I sit in the same place.  
+**Translation:** Vocabulary: refreshed: 精神焕发
+
+**[6282.54s] English:** You understand? The eyes are already turning red.  
 **Translation:** 
 
-**[6253.56s] English:** и просто все эти 30 часов просматривал этот синематик.  
+**[6284.82s] English:** To the soundtrack from the cinematics, yes.  
+**Translation:** Vocabulary: cinematics: 电影片段; soundtrack: 背景音乐
+
+**[6287.62s] English:** Yes, but we crunchied.  
 **Translation:** 
 
-**[6256.80s] English:** Это было дико и даже сюрреалистично  
-**Translation:** 
-
-**[6259.58s] English:** наблюдать, как все потихоньку расходятся,  
-**Translation:** 
-
-**[6263.64s] English:** причем по очереди.  
-**Translation:** 
-
-**[6265.14s] English:** Не все сразу, а один за другим, в разное время.  
-**Translation:** 
-
-**[6267.90s] English:** Семейные, знаешь, уходят гораздо раньше, чем холостые.  
-**Translation:** 
-
-**[6272.62s] English:** А потом наблюдать, как все возвращаются на следующее утро,  
-**Translation:** 
-
-**[6277.26s] English:** все в другой одежде, и выглядят отдохнувшими,  
-**Translation:** 
-
-**[6280.50s] English:** а я сижу все на том же месте.  
-**Translation:** 
-
-**[6282.54s] English:** Понимаешь, глаза уже краснющие.  
-**Translation:** 
-
-**[6284.82s] English:** Под саундтрек из синематика, да.  
-**Translation:** 
-
-**[6287.62s] English:** Да, но мы кранчили.  
-**Translation:** 
-
-**[6289.52s] English:** И на World of Warcraft тоже кранчили.  
+**[6289.52s] English:** And they also farmed on World of Warcraft.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[6292.02s] English:** Сроки съехали.  
+**[6292.02s] English:** The deadlines have slipped.  
 **Translation:** 
 
-**[6293.40s] English:** И происходит вот что.  
-**Translation:** 
-
-**[6295.00s] English:** Помню, как Марк Керн собрал команду,  
-**Translation:** 
-
-**[6297.26s] English:** и сказал, «Мы начнем кранчить заранее,  
-**Translation:** 
-
-**[6301.26s] English:** чтобы не пришлось кранчить под конец проекта».  
-**Translation:** 
-
-**[6304.70s] English:** И я правда верю, что он не пытался нами манипулировать.  
-**Translation:** 
+**[6293.40s] English:** And this is what happens.  
+**Translation:** Vocabulary: deadlines: 截止日期
 
-**[6308.82s] English:** Я искренне верю,  
+**[6295.00s] English:** I remember how Mark Kern gathered his team,  
 **Translation:** 
 
-**[6311.58s] English:** что он и сам в это верил.  
-**Translation:** 
+**[6297.26s] English:** He said, "We will start crunching early,  
+**Translation:** Vocabulary: crunching: 努力工作
 
-**[6313.80s] English:** Но в разработке игр всякое бывает,  
+**[6301.26s] English:** To avoid crunching at the end of the project.  
 **Translation:** 
 
-**[6316.86s] English:** и сроки постоянно и неконтролируемо срывались.  
-**Translation:** 
+**[6304.70s] English:** I really believe that he didn't try to manipulate us.  
+**Translation:** Vocabulary: manipulate: 操控
 
-**[6321.34s] English:** В итоге мы все же сорвали сроки,  
+**[6308.82s] English:** I sincerely believe,  
 **Translation:** 
 
-**[6324.92s] English:** и это превратилось в бесконечное,  
-**Translation:** 
+**[6311.58s] English:** That he believed in it himself.  
+**Translation:** Vocabulary: sincerely: 诚挚地
 
-**[6327.26s] English:** страшный, смертельный марш.  
+**[6313.80s] English:** But in game development, anything can happen,  
 **Translation:** 
 
-**[6329.32s] English:** И до сих пор ребята из той команды, ВОВ,  
+**[6316.86s] English:** And the deadlines constantly and uncontrollably slipped.  
 **Translation:** 
 
-**[6332.50s] English:** помнят, например, Ньюпорт Рип.  
+**[6321.34s] English:** In the end, we did manage to meet the deadlines,  
 **Translation:** 
 
-**[6334.94s] English:** Если я это скажу, у них, наверное, глаз начнет дергаться,  
+**[6324.92s] English:** And this turned into an endless,  
 **Translation:** 
 
-**[6338.64s] English:** потому что нам заказывали ужин,  
+**[6327.26s] English:** A terrible, deadly march.  
 **Translation:** 
 
-**[6340.82s] English:** его привозили где-то в шесть или семь вечера,  
+**[6329.32s] English:** Keep the same team, VOV, to which these guys still belong.  
 **Translation:** 
 
-**[6343.70s] English:** и они...  
+**[6332.50s] English:** Pompton, for example, Newport Rip.  
 **Translation:** 
 
-**[6345.26s] English:** Мы все ели Ньюпорт Рип,  
-**Translation:** 
+**[6334.94s] English:** If I say this, they will probably start twitching their eyes,  
+**Translation:** Vocabulary: newport: 纽波特; twitching: 抽搐
 
-**[6347.60s] English:** или Панда Экспресс.  
+**[6338.64s] English:** Because we were ordered a dinner.  
 **Translation:** 
 
-**[6349.24s] English:** Это была худшая диета на свете.  
+**[6340.82s] English:** He was brought in around six or seven o'clock in the evening.  
 **Translation:** 
 
-**[6351.54s] English:** Я вообще-то люблю Ньюпорт Рип.  
+**[6343.70s] English:** And they...  
 **Translation:** 
 
-**[6353.32s] English:** Не в обиду им, но всему есть какой-то предел.  
+**[6345.26s] English:** We all ate Newport Rip.  
 **Translation:** 
 
-**[6356.56s] English:** Да.  
+**[6347.60s] English:** Or Panda Express.  
 **Translation:** 
 
-**[6357.26s] English:** Все ковры в офисе были в пятнах,  
+**[6349.24s] English:** This was the worst diet in the world.  
 **Translation:** 
 
-**[6359.32s] English:** а парни засыпали...  
+**[6351.54s] English:** I actually love Newport Rhip.  
 **Translation:** 
 
-**[6360.00s] English:** прямо на диванах. Рабочая обстановка была, конечно, нездоровая. Обычно в этом винят руководство,  
-**Translation:** 
+**[6353.32s] English:** Not to offend them, but there is a limit to everything.  
+**Translation:** Vocabulary: offend: 冒犯
 
-**[6368.08s] English:** ведь часто это действительно идет сверху. Да, это навязывают сверху, но за все те часы,  
+**[6356.56s] English:** Yes.  
 **Translation:** 
 
-**[6374.80s] English:** что я отработал, я никогда не винил никого, кроме себя. Я сам этого хотел. Помню, как-то раз  
-**Translation:** 
+**[6357.26s] English:** All of the carpets in the office were stained,  
+**Translation:** Vocabulary: carpets: 办公地毯; stained: 污渍
 
-**[6381.34s] English:** пришел на работу в день поминовения с песком на ногах, прямо с пляжа, потому что мне жутко  
+**[6359.32s] English:** The guys fell asleep....  
 **Translation:** 
 
-**[6388.54s] English:** хотелось поработать в тот день. Я работал на Рождество, и сам этого хотел. Я никогда не чувствовал,  
+**[6360.00s] English:** On the couches. The working environment was, of course, unhealthy. Usually, this is blamed on the management.  
 **Translation:** 
 
-**[6396.10s] English:** чтобы меня кто-то, ну знаешь, заставлял. Да, это сложная тема. Можно сказать, что это  
+**[6368.08s] English:** Well, often this really does come from the top. Yes, it is imposed from above, but for all those hours,  
 **Translation:** 
 
-**[6401.62s] English:** нездоровая обстановка, но я знаю массу людей, особенно в 20 с небольшим. Да и вообще на протяжении  
-**Translation:** 
+**[6374.80s] English:** What I worked for, I never blamed anyone but myself. I wanted this myself. Remember, once  
+**Translation:** Vocabulary: imposed: 强加的
 
-**[6409.70s] English:** карьеры, которые работали в компаниях с кранчами ради делов, которые верили и которые любили. И для  
+**[6381.34s] English:** I came to work on the day of the memorial service with sand in my shoes, straight from the beach, because I was terribly distraught.  
 **Translation:** 
 
-**[6417.92s] English:** них это было не так. Это было не так. Это было не так. Это было не так. Это было не так. Это было  
-**Translation:** 
+**[6388.54s] English:** I wanted to work that day. I worked on Christmas, and I myself wanted to. I never felt,  
+**Translation:** Vocabulary: christmas: 圣诞节; distraught: 心神不安
 
-**[6418.52s] English:** не так. Были одни из самых насыщенных месяцев и лет в их жизни. И дело здесь не только в самореализации.  
+**[6396.10s] English:** To be made to do something by someone, you know. Yes, this is a complex topic. One could say that it is  
 **Translation:** 
 
-**[6425.38s] English:** Они же растут благодаря этому, учатся. И это... И когда они особенно, когда вспоминают об этом  
+**[6401.62s] English:** Unhealthy environment, but I know a lot of people, especially in my twenties. And generally throughout.  
 **Translation:** 
 
-**[6433.20s] English:** времени, то понимают, как это было невероятно. Конечно, когда ты сам через это проходишь,  
+**[6409.70s] English:** Careers that worked in crunches for business deals, which they believed in and loved. And for  
 **Translation:** 
 
-**[6438.50s] English:** бывает очень тяжело, и ты не знаешь, чем все кончится. Кранч, как ты сказал, сначала длится  
+**[6417.92s] English:** This was not like that. This was not like that. This was not like that. This was not like that. This was not like that. This was  
 **Translation:** 
 
-**[6444.10s] English:** месяц или два, потом затягивается на полгода, а потом превращается в...  
+**[6418.52s] English:** Not exactly. These were some of the most fulfilling months and summers in their lives, and it's not just about self-realization.  
 **Translation:** 
 
-**[6448.52s] English:** в такой проект, как Титан, который вы так и не выпускаете. Это целый букет боли и разочарования.  
-**Translation:** 
+**[6425.38s] English:** They grow thanks to this, learn. And this... And when they especially remember this,  
+**Translation:** Vocabulary: fulfilling: 充实的
 
-**[6455.18s] English:** Но потом ты оглядываешься и понимаешь, каким невероятным было это приключение.  
+**[6433.20s] English:** Time, they understand how incredibly it was. Of course, when you yourself go through it,  
 **Translation:** 
 
-**[6459.38s] English:** Я думаю, размышляя об этом уже года спустя, и пройдя через совершенно безумные кранчи к более  
-**Translation:** 
+**[6438.50s] English:** It can be very hard, and you don't know how it will end. Crunch, as you said, lasts at first  
+**Translation:** Vocabulary: crunch: 困境
 
-**[6469.84s] English:** контролируемым, я думаю, что кранч становится проблемой, и люди правильно выступают против того,  
+**[6444.10s] English:** A month or two, then it拖长至半年，然后变成...  
 **Translation:** 
 
-**[6478.00s] English:** чтобы в него скатываться.  
-**Translation:** 
+**[6448.52s] English:** In a project like Titan, which you have never even released. It's a whole bunch of pain and disappointment.  
+**Translation:** Vocabulary: titan: 巨无霸项目
 
-**[6480.00s] English:** когда он навязан и не оправдан.  
+**[6455.18s] English:** But then you look back and realize how incredible this adventure was.  
 **Translation:** 
 
-**[6484.08s] English:** Часто бывает так, что «Эй, если один из команды остается, значит остаются все».  
-**Translation:** 
+**[6459.38s] English:** I think, reflecting on this a year later, and going through completely insane crunches to get to more  
+**Translation:** Vocabulary: crunches: 高强度工作期
 
-**[6490.06s] English:** И все в таком духе.  
+**[6469.84s] English:** Controlled, I think that crunch becomes a problem, and people are right to protest against it.  
 **Translation:** 
 
-**[6492.14s] English:** Я считаю это лишнее.  
+**[6478.00s] English:** To slide down into it.  
 **Translation:** 
 
-**[6494.64s] English:** Не думаю, что руководители, которые уходят вовремя и работают по 40 часов в неделю,  
+**[6480.00s] English:** When he is imposed and unjustified.  
 **Translation:** 
 
-**[6499.80s] English:** вправе говорить кому-то, чтобы они задержались.  
-**Translation:** 
+**[6484.08s] English:** Often it happens that "Hey, if one from the team stays, then they all stay.  
+**Translation:** Vocabulary: imposed: 强加的
 
-**[6502.78s] English:** Я думаю, это неправильно и аморально.  
+**[6490.06s] English:** And so on.  
 **Translation:** 
 
-**[6504.84s] English:** Но лично для меня, как для человека, пока я никого не заставляю это делать,  
+**[6492.14s] English:** I consider this unnecessary.  
 **Translation:** 
 
-**[6512.14s] English:** моя работа является моей страстью.  
+**[6494.64s] English:** I don't think that leaders who leave on time and work 40 hours a week,  
 **Translation:** 
 
-**[6516.38s] English:** И я хочу заниматься этим как можно больше.  
+**[6499.80s] English:** We are entitled to tell someone to stay.  
 **Translation:** 
 
-**[6519.36s] English:** Я замечаю за собой, что, кажется, никогда не работал меньше 10 часов в день.  
+**[6502.78s] English:** I think this is wrong and immoral.  
 **Translation:** 
 
-**[6525.34s] English:** 10 часов для меня – это вполне обычный рабочий день.  
-**Translation:** 
+**[6504.84s] English:** But personally for me, as a human, while I am not forcing anyone to do this,  
+**Translation:** Vocabulary: immoral: 不道德的
 
-**[6528.72s] English:** Да, да.  
+**[6512.14s] English:** My work is my passion.  
 **Translation:** 
 
-**[6530.38s] English:** И я с удовольствием часто работаю по выходным,  
+**[6516.38s] English:** I want to do this as much as possible.  
 **Translation:** 
 
-**[6534.84s] English:** потому что мне это в кайф.  
+**[6519.36s] English:** I notice that, it seems, I have never worked less than 10 hours a day.  
 **Translation:** 
 
-**[6537.52s] English:** Это приносит мне удовольствие и удовлетворение.  
+**[6525.34s] English:** 10 hours for me is quite a typical working day.  
 **Translation:** 
 
-**[6540.80s] English:** И при этом я скажу это с осторожностью,  
+**[6528.72s] English:** Yes, yes.  
 **Translation:** 
 
-**[6543.94s] English:** особенно сейчас, когда люди так остро на это реагируют.  
+**[6530.38s] English:** I often work on weekends with great pleasure.  
 **Translation:** 
 
-**[6548.04s] English:** Я никому другому это не навязываю,  
+**[6534.84s] English:** Because I enjoy it.  
 **Translation:** 
 
-**[6550.70s] English:** и не хочу, чтобы кто-то чувствовал себя обязанным.  
+**[6537.52s] English:** This brings me pleasure and satisfaction.  
 **Translation:** 
 
-**[6554.78s] English:** Но, пожалуйста, помните, именно эта трудовая этика меня и сформировала.  
+**[6540.80s] English:** And I will say this with caution,  
 **Translation:** 
 
-**[6559.62s] English:** Мне это нравится.  
-**Translation:** 
+**[6543.94s] English:** Especially now, when people react so acutely to it.  
+**Translation:** Vocabulary: acutely: 敏感地
 
-**[6560.58s] English:** По правде, мои самые теплые воспоминания – это кранчи при разработке  
+**[6548.04s] English:** I do not impose this on anyone else.  
 **Translation:** 
 
-**[6564.84s] English:** Вов.  
-**Translation:** 
+**[6550.70s] English:** And I don't want anyone to feel obligated.  
+**Translation:** Vocabulary: impose: 强加; obligated: 有义务
 
-**[6565.84s] English:** Когда слышишь такие истории, это очень круто, потому что я, как фанат,  
+**[6554.78s] English:** But please remember, it is this work ethic that has shaped me.  
 **Translation:** 
 
-**[6569.84s] English:** игравший в эти игры, понимаю, что вы дарили радость миллионам.  
+**[6559.62s] English:** I like this.  
 **Translation:** 
 
-**[6573.84s] English:** Это потрясающе.  
+**[6560.58s] English:** To be honest, my warmest memories are those of crunching while developing.  
 **Translation:** 
 
-**[6576.84s] English:** Хотел спросить про квесты, но сначала, если позволишь, небольшая пауза.  
-**Translation:** 
+**[6564.84s] English:** Vov.  
+**Translation:** Vocabulary: crunching: 咀嚼声
 
-**[6581.84s] English:** Да.  
+**[6565.84s] English:** When you hear such stories, it's really cool because as a fan,  
 **Translation:** 
 
-**[6582.84s] English:** Тридцать секунд сказать спасибо спонсорам.  
+**[6569.84s] English:** Playing these games, I understand that you have brought joy to millions.  
 **Translation:** 
 
-**[6584.84s] English:** Найти их можно в описании.  
+**[6573.84s] English:** This is amazing.  
 **Translation:** 
 
-**[6586.84s] English:** Это лучший способ поддержать подкаст.  
-**Translation:** 
+**[6576.84s] English:** I wanted to ask about quests, but first, if you'll allow me, a small pause.  
+**Translation:** Vocabulary: quests: 任务
 
-**[6589.84s] English:** Заходите на lexfriedman.com/.sponsors.  
+**[6581.84s] English:** Yes.  
 **Translation:** 
 
-**[6592.84s] English:** Наши спонсоры – фирмы.  
+**[6582.84s] English:** Thirty seconds to say thanks to the sponsors.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[6594.72s] English:** Финн – ИИ-агент в поддержке клиентов.  
+**[6584.84s] English:** Find them in the description.  
 **Translation:** 
 
-**[6596.72s] English:** Блидзи – для генерации кода в крупных кодах.  
+**[6586.84s] English:** This is the best way to support the podcast.  
 **Translation:** 
 
-**[6600.00s] English:** Беттерхелп для ментального здоровья, Шопифай для онлайн-торговли,  
+**[6589.84s] English:** Visit lexfriedman.com/.sponsors.  
 **Translation:** 
 
-**[6605.00s] English:** Код Рэббит для мощного ИИ-ревью кода,  
+**[6592.84s] English:** Our sponsors are companies.  
+**Translation:** Vocabulary: lexfriedman: 莱克斯·弗里德曼
+
+**[6594.72s] English:** Finn – an AI-agent in customer support.  
 **Translation:** 
 
-**[6608.00s] English:** и Перплексити для исследований, знаний и познаний.  
+**[6596.72s] English:** Blidzi - for generating code in large codes.  
 **Translation:** 
 
-**[6613.00s] English:** Выбирайте с умом, друзья.  
+**[6600.00s] English:** BetterHelp for mental health, Shopify for online trading,  
 **Translation:** 
 
-**[6615.00s] English:** А теперь возвращаемся к разговору с Джеффом Капланом.  
+**[6605.00s] English:** Code Rabbit for powerful AI-review code,  
+**Translation:** Vocabulary: shopify: 电子商务平台
+
+**[6608.00s] English:** Complexity for research, knowledge, and understanding.  
 **Translation:** 
 
-**[6619.00s] English:** Итак, мы вернулись.  
+**[6613.00s] English:** Choose wisely, friends.  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[6615.00s] English:** Now, let's return to our conversation with Jeff Kaplan.  
 **Translation:** 
 
-**[6621.00s] English:** Пожалуй, можно сказать, что до WoW прокачка в MMO, например, в EverQuest,  
+**[6619.00s] English:** So, we're back.  
 **Translation:** 
 
-**[6626.00s] English:** водилась к тому, что, может, я упрощаю,  
+**[6621.00s] English:** Pojalуй, moжno сказать, что до WoW прокачка в MMO, например, в EverQuest,  
 **Translation:** 
 
-**[6629.00s] English:** надо было просто стоять на споте и часами убивать монстров.  
+**[6626.00s] English:** I've come to think that, maybe, I'm simplifying things too much.  
+**Translation:** Vocabulary: simplifying: 简化
+
+**[6629.00s] English:** It was just a matter of standing on the spot and killing monsters for hours.  
 **Translation:** 
 
-**[6632.00s] English:** А вот вы, с помощью WoW, совершили, я бы сказал, революцию,  
+**[6632.00s] English:** Here you, with the help of WoW, have brought about what I would say is a revolution,  
 **Translation:** 
 
-**[6638.00s] English:** внедрив прокачку через квесты,  
+**[6638.00s] English:** Implementing skill boosts through quests,  
 **Translation:** 
 
-**[6641.00s] English:** в которых есть и история, и сюжет, который ведет тебя по миру,  
+**[6641.00s] English:** In which there is both history and a plot that leads you through the world,  
+**Translation:** Vocabulary: boosts: 提升; implementing: 实施
+
+**[6646.00s] English:** And as you go along, you level up your character as well.  
 **Translation:** 
 
-**[6646.00s] English:** и по ходу дела ты заодно прокачиваешь своего персонажа.  
+**[6651.00s] English:** In the end, leveling up becomes and is even more engaging,  
+**Translation:** Vocabulary: leveling: 升级
+
+**[6654.00s] English:** and serves as a driving force.  
 **Translation:** 
 
-**[6651.00s] English:** В итоге прокачка становится и увлекательной,  
+**[6656.00s] English:** For the segment.  
+**Translation:** Vocabulary: segment: 部分
+
+**[6657.00s] English:** He, in turn, plunges you deeper into the world,  
 **Translation:** 
 
-**[6654.00s] English:** и служит двигателем.  
+**[6661.00s] English:** He kept drawing her in closer and closer.  
+**Translation:** Vocabulary: plunges: 使陷入
+
+**[6663.00s] English:** So, tell me how this was born.  
 **Translation:** 
 
-**[6656.00s] English:** Для сюжета.  
+**[6666.00s] English:** An idea for a design built on quests.  
+**Translation:** Vocabulary: quests: 任务
+
+**[6671.00s] English:** Of course, in this there were actually many people involved.  
 **Translation:** 
 
-**[6657.00s] English:** А он, в свою очередь, глубже погружает тебя в мир,  
+**[6674.00s] English:** And each person made their unique contribution.  
 **Translation:** 
 
-**[6661.00s] English:** затягивая в него все сильнее.  
+**[6678.00s] English:** The lead designer of WoW was Alan Adam.  
 **Translation:** 
 
-**[6663.00s] English:** Итак, расскажи, как родилась эта  
+**[6682.00s] English:** When we finally decided that there would be a game,  
 **Translation:** 
 
-**[6666.00s] English:** идея дизайна, построенного на квестах.  
+**[6684.00s] English:** Built on quests,  
 **Translation:** 
 
-**[6671.00s] English:** Конечно, в этом на самом деле участвовало много людей,  
+**[6686.00s] English:** They kept joking that there were almost no quests in EverQuest.  
 **Translation:** 
 
-**[6674.00s] English:** и каждый внес свой уникальный вклад.  
+**[6691.00s] English:** Yes.  
 **Translation:** 
 
-**[6678.00s] English:** Ведущим дизайнером WoW был Ален Адам.  
+**[6692.00s] English:** So there were quests there,  
 **Translation:** 
 
-**[6682.00s] English:** И когда мы только решили, что у нас будет игра,  
+**[6694.00s] English:** Simply they were not obvious to the player.  
 **Translation:** 
 
-**[6684.00s] English:** построенная на квестах,  
+**[6697.00s] English:** They had to search for it on some website.  
 **Translation:** 
 
-**[6686.00s] English:** то без конца шутили, что в EverQuest квестов почти и не было.  
-**Translation:** 
-
-**[6691.00s] English:** Да.  
-**Translation:** 
-
-**[6692.00s] English:** То есть квесты-то там были,  
-**Translation:** 
-
-**[6694.00s] English:** просто они не были очевидны игроку,  
-**Translation:** 
-
-**[6697.00s] English:** их приходилось искать на каком-нибудь сайте.  
-**Translation:** 
-
-**[6700.00s] English:** А Ален понимал, что квесты должны стать важной частью  
+**[6700.00s] English:** Alan understood that quests should become an important part  
 **Translation:** 
 
 **[6705.00s] English:** World of Warcraft.  
+**Translation:** Vocabulary: warcraft: 魔兽
+
+**[6708.00s] English:** Therefore, he hired me.  
+**Translation:** 
+
+**[6710.00s] English:** This was my first position at Blizzard.  
+**Translation:** Vocabulary: blizzard: 暴雪公司
+
+**[6714.00s] English:** And on the same day, he hired a guy named Pat Meaghl.  
+**Translation:** 
+
+**[6718.00s] English:** It was funny that Pat had  
+**Translation:** 
+
+**[6720.00s] English:** It was... he had a funny position.  
+**Translation:** 
+
+**[6724.40s] English:** He was responsible for human resources and operations at Blizzard.  
+**Translation:** 
+
+**[6726.98s] English:** Because the company was small.  
+**Translation:** 
+
+**[6728.90s] English:** So if you sent your resume, Pat reviewed it.  
+**Translation:** 
+
+**[6733.26s] English:** If, for example, a push got clogged, Pete had to deal with it as well, and...  
+**Translation:** 
+
+**[6739.40s] English:** In general, while I was setting up with Blizzard, I communicated with Pat,  
+**Translation:** Vocabulary: clogged: 堵塞
+
+**[6743.54s] English:** In my first day, Pete and I were put in one office together,  
+**Translation:** 
+
+**[6746.84s] English:** And he's like, yeah, they hired me as a quest designer too.  
+**Translation:** 
+
+**[6750.48s] English:** In general, Pat was a great guy; we had a lot of fun together.  
+**Translation:** 
+
+**[6755.68s] English:** So, in essence, Pete and we developed the quest system.  
+**Translation:** 
+
+**[6760.62s] English:** Although the idea itself was Allen's.  
+**Translation:** 
+
+**[6764.36s] English:** And there was also an excellent designer, whom I mentioned earlier, Eric Dotz.  
+**Translation:** 
+
+**[6768.08s] English:** He really helped with the interface of all this.  
+**Translation:** 
+
+**[6771.34s] English:** Initially, the idea was in the concept that,...  
+**Translation:** Vocabulary: interface: 界面
+
+**[6775.50s] English:** What we brainstormed on the whiteboard in Allen's office,  
+**Translation:** 
+
+**[6778.74s] English:** How much is our quest worth...?  
+**Translation:** Vocabulary: brainstormed: 集思广益; whiteboard: 白板
+
+**[6780.00s] English:** What was in EverQuest at that moment.  
+**Translation:** 
+
+**[6783.52s] English:** In EverQuest, it seems there were around 4 or maybe 3 expansions at that time.  
+**Translation:** Vocabulary: expansions: 扩展包
+
+**[6789.74s] English:** We are, whoa, we have to do as many quests as in EverQuest.  
+**Translation:** 
+
+**[6794.58s] English:** This is a bunch of quests.  
+**Translation:** Vocabulary: quests: 任务
+
+**[6797.12s] English:** We will have to do this all together with Pat.  
+**Translation:** 
+
+**[6801.24s] English:** We thought we just needed to reach the same number as in EverQuest.  
+**Translation:** 
+
+**[6806.98s] English:** Ah... we started working on the design system with Pat.  
+**Translation:** 
+
+**[6810.32s] English:** And over how it will function.  
+**Translation:** 
+
+**[6812.42s] English:** Eric Dotts actively helped with the interface,  
+**Translation:** 
+
+**[6815.52s] English:** That is, how the player will interact with NPCs.  
+**Translation:** Vocabulary: actively: 积极地
+
+**[6819.22s] English:** We divided the entire world into two such zones.  
+**Translation:** 
+
+**[6823.82s] English:** He received the Elvinwood Forest, which was the starting location for people.  
+**Translation:** Vocabulary: elvinwood: 埃尔文伍德森林
+
+**[6828.92s] English:** I took the Western Region, which was...  
+**Translation:** 
+
+**[6832.02s] English:** The second gaming zone for people, after Elvin.  
+**Translation:** Vocabulary: elvin: 艾尔文
+
+**[6836.12s] English:** We met with Chris Matson with Pat.  
+**Translation:** 
+
+**[6840.00s] English:** The most fun meetings, because Chris just flowed with stories and ideas from his chapter.  
+**Translation:** Vocabulary: flowed: 自然讲述
+
+**[6847.36s] English:** Chris is an artist, storyteller, and outstanding world creator.  
+**Translation:** 
+
+**[6851.60s] English:** He outlined, in general terms, what he wanted from these locations.  
+**Translation:** Vocabulary: outlined: 概括描述; storyteller: 讲故事的人
+
+**[6856.42s] English:** The gameplay was supposed to be built around the storyline of what happened in these locations.  
+**Translation:** 
+
+**[6863.44s] English:** In general, we finished the Elvin Forest and Western Region, and conducted an internal playtest.  
+**Translation:** Vocabulary: playtest: 内部测试; storyline: 故事情节
+
+**[6871.46s] English:** We started from how EverQuest was structured.  
+**Translation:** 
+
+**[6876.34s] English:** Players simply wanted to level up, the game was centered around levels.  
+**Translation:** 
+
+**[6880.66s] English:** You exit, kill a mob and gain experience for its death, slowly leveling up.  
+**Translation:** 
+
+**[6885.36s] English:** In EverQuest, the game was played as follows.  
+**Translation:** Vocabulary: leveling: 升级
+
+**[6888.32s] English:** We found places where there were lots of mobs,  
+**Translation:** 
+
+**[6891.72s] English:** And we searched for the most effective scenes.  
+**Translation:** 
+
+**[6893.46s] English:** Method of leveling up.  
+**Translation:** 
+
+**[6895.58s] English:** That is, the most optimal grind cycle.  
+**Translation:** Vocabulary: grind: 磨练; optimal: 最佳
+
+**[6898.58s] English:** That is, quick respawning, easy mobs.  
+**Translation:** 
+
+**[6901.66s] English:** And that's how we played EverQuest.  
+**Translation:** Vocabulary: respawning: 重生
+
+**[6906.50s] English:** I remember how Allan told us something along those lines.  
+**Translation:** 
+
+**[6909.52s] English:** Thus, quests...  
+**Translation:** Vocabulary: quests: 任务
+
+**[6911.94s] English:** When Pete and Jeff write the quests, and then the player farms mobs...  
+**Translation:** 
+
+**[6916.94s] English:** Basically, you complete a quest and then grind mobs in the same area for a couple of hours.  
+**Translation:** 
+
+**[6921.72s] English:** Here's how he imagined it.  
+**Translation:** 
+
+**[6923.72s] English:** Thus, we have built the world.  
+**Translation:** 
+
+**[6927.72s] English:** Pete probably created a dozen, maybe twenty quests for Elvish Forest.  
+**Translation:** 
+
+**[6933.72s] English:** I did about the same for the Western Region, and we organized this playtest.  
+**Translation:** Vocabulary: elvish: 精灵的
+
+**[6938.72s] English:** In the team were many boys who had never played an MMORPG.  
+**Translation:** 
+
+**[6942.72s] English:** People from shooters, StarCraft fans, and all that.  
+**Translation:** 
+
+**[6946.72s] English:** And there they are playing World of Warcraft.  
+**Translation:** 
+
+**[6949.72s] English:** It seemed we played for exactly an hour.  
 **Translation:** Vocabulary: warcraft: 战争艺术
 
-**[6708.00s] English:** Поэтому и нанял меня.  
+**[6951.72s] English:** Or two, and only in Elvinwood Forest.  
 **Translation:** 
 
-**[6710.00s] English:** Это была моя первая должность в Blizzard.  
-**Translation:** Vocabulary: blizzard: 暴雪
+**[6953.72s] English:** Almost all of the team's reviews were...  
+**Translation:** Vocabulary: elvinwood: 埃尔文伍德森林
 
-**[6714.00s] English:** И в тот же день он нанял парня по имени Пэт Мейгл.  
+**[6956.72s] English:** This was the group that hardly played EverQuest.  
 **Translation:** 
 
-**[6718.00s] English:** И было забавно, что у Пэта была  
+**[6960.00s] English:** They said, "Oh my God, Pat, this was just awful!  
 **Translation:** 
 
-**[6720.00s] English:** была... у него была забавная должность.  
+**[6964.28s] English:** Quests ended almost immediately!  
 **Translation:** 
 
-**[6724.40s] English:** Он отвечал за кадры и хозяйство в Близзард,  
+**[6968.28s] English:** We are like, "Hold on, you guys expected that there would be quests without end and they wouldn't come to an end?  
 **Translation:** 
 
-**[6726.98s] English:** потому что компания была маленькой.  
+**[6974.28s] English:** They replied, "Yes, we expected that the quests would never end.  
 **Translation:** 
 
-**[6728.90s] English:** То есть если вы отправляли резюме, его рассматривал Пэт.  
+**[6979.94s] English:** Then, after that playtest and Helvinskii Forest, we were amazed.  
+**Translation:** Vocabulary: playtest: 测试
+
+**[6985.18s] English:** We realized that we seriously underestimated how many quests would be needed.  
 **Translation:** 
 
-**[6733.26s] English:** А если, допустим, засорялся толчок, с ним тоже приходилось разбираться Пэту, и...  
+**[6991.22s] English:** We all did it, developing a new philosophy,  
+**Translation:** Vocabulary: quests: 任务; underestimated: 低估了
+
+**[6995.52s] English:** Which essentially became the standard for all Blizzard games at that time.  
 **Translation:** 
 
-**[6739.40s] English:** В общем, все время, пока я устраивался в Близзард, я общался с Пэтом,  
+**[7000.70s] English:** I heard about her from other developers outside of Blizzard.  
 **Translation:** 
 
-**[6743.54s] English:** а в мой первый день нас с Пэтом посадили в один кабинет,  
+**[7004.56s] English:** She sounds like she's saying, "Design along the path of least resistance.  
 **Translation:** 
 
-**[6746.84s] English:** и он такой, да, меня тоже наняли дизайнером квестов.  
+**[7009.90s] English:** So, what does that mean?  
 **Translation:** 
 
-**[6750.48s] English:** И... в общем, Пэт... он был отличным парнем, мы с ним здорово проводили время,  
+**[7012.02s] English:** For example, in EverQuest,...  
 **Translation:** 
 
-**[6755.68s] English:** так что по сути мы с Пэтом и разработали систему квестов.  
+**[7014.30s] English:** The simplest...  
 **Translation:** 
 
-**[6760.62s] English:** Хотя сама идея внедрить ее принадлежала Аллену.  
+**[7015.18s] English:** Stay still, so that the character can be leveled up to the maximum level.  
 **Translation:** 
 
-**[6764.36s] English:** А еще был отличный дизайнер, которого я упоминал, Эрик Доттс.  
+**[7019.00s] English:** This is to find the easiest mobs and just grind them endlessly in one place.  
+**Translation:** Vocabulary: endlessly: 无止尽地; grind: 刷经验; leveled: 升级
+
+**[7023.94s] English:** What some find terribly boring.  
 **Translation:** 
 
-**[6768.08s] English:** Он очень помог с интерфейсом всего этого дела.  
+**[7026.52s] English:** I could have spent up to 8 hours on this, for I considered it fun.  
 **Translation:** 
 
-**[6771.34s] English:** И... изначально идея была в том,  
+**[7030.30s] English:** But in World of Warcraft, we decided that...  
 **Translation:** 
 
-**[6775.50s] English:** что мы на доске в кабинете у Аллена прикинули,  
-**Translation:** 
-
-**[6778.74s] English:** сколько по нашему квесту...  
-**Translation:** 
-
-**[6780.00s] English:** что было в Эверквест на тот момент.  
-**Translation:** 
-
-**[6783.52s] English:** У Эверквест тогда вышло, кажется, 4 или вроде как 3 дополнения в то время.  
-**Translation:** 
-
-**[6789.74s] English:** И мы такие, ого, надо сделать столько же квестов, сколько в Эверквест.  
-**Translation:** 
-
-**[6794.58s] English:** Это же куча квестов.  
-**Translation:** 
-
-**[6797.12s] English:** И делать это все придется нам вместе с Пэтом.  
-**Translation:** 
-
-**[6801.24s] English:** И... мы думали, что нужно просто достичь того же числа, что и в Эверквест.  
-**Translation:** 
-
-**[6806.98s] English:** А... мы с Пэтом начали работать над дизайном системы,  
-**Translation:** 
-
-**[6810.32s] English:** и над тем, как она будет функционировать.  
-**Translation:** 
-
-**[6812.42s] English:** А Эрик Доттс активно помогал с интерфейсом,  
-**Translation:** 
-
-**[6815.52s] English:** то есть тем, как игрок будет взаимодействовать с NPC.  
-**Translation:** 
-
-**[6819.22s] English:** И мы разделили весь мир на две такие зоны.  
-**Translation:** 
-
-**[6823.82s] English:** Ему достался Элвинский лес, который был стартовой локацией для людей.  
-**Translation:** 
-
-**[6828.92s] English:** А я взял Западный Край, который был...  
-**Translation:** 
-
-**[6832.02s] English:** второй игровой зоной для людей, после Элвина.  
-**Translation:** 
-
-**[6836.12s] English:** Мы с Пэтом встречались с Крисом Мэтсоном,  
-**Translation:** 
-
-**[6840.00s] English:** Самые веселые совещания, потому что Крис просто фонтанировал историями и идеями из своей главы.  
-**Translation:** 
-
-**[6847.36s] English:** Крис это художник, рассказчик и выдающийся создатель миров.  
-**Translation:** 
-
-**[6851.60s] English:** Он в общих чертах обрисовал, чего хотел от этих локаций.  
-**Translation:** 
-
-**[6856.42s] English:** А геймплей должен был строиться вокруг сюжета того, что происходило в этих локациях.  
-**Translation:** 
-
-**[6863.44s] English:** В общем, мы закончили Элвинский лес и Западный край, и провели внутренний плей-тест.  
-**Translation:** 
-
-**[6871.46s] English:** Мы отталкивались от того, как был устроен Эверквест.  
-**Translation:** 
-
-**[6876.34s] English:** Игроки просто хотели качаться, игра была завязана на уровнях.  
-**Translation:** 
-
-**[6880.66s] English:** Выходишь, убиваешь моба и получаешь опыт за его убийство, и потихоньку качаешься.  
-**Translation:** 
-
-**[6885.36s] English:** А в Эверквест играли следующим образом.  
-**Translation:** 
-
-**[6888.32s] English:** Находили места, где была куча мобов,  
-**Translation:** 
-
-**[6891.72s] English:** и искали самые эффективные сцены.  
-**Translation:** 
-
-**[6893.46s] English:** Способ прокачки.  
-**Translation:** 
-
-**[6895.58s] English:** То есть самый оптимальный гринд-цикл.  
-**Translation:** 
-
-**[6898.58s] English:** То есть быстрый респаун, легкие мобы.  
-**Translation:** 
-
-**[6901.66s] English:** И вот таким вот образом и играли в Эверквест.  
-**Translation:** 
-
-**[6906.50s] English:** И помню, как Аллан нам говорил что-то вроде  
-**Translation:** 
-
-**[6909.52s] English:** «Итак, квесты...»  
-**Translation:** 
-
-**[6911.94s] English:** «Когда Пэт с Джеффом напишут квесты, а потом игрок будет фармить мобов...»  
-**Translation:** 
-
-**[6916.94s] English:** «То есть выполняешь квест, а потом пару часов гриндишь мобов в той же зоне».  
-**Translation:** 
-
-**[6921.72s] English:** Вот так он себе это представлял.  
-**Translation:** 
-
-**[6923.72s] English:** Таким образом мы и построили мир.  
-**Translation:** 
-
-**[6927.72s] English:** Пэт, наверное, сделал дюжину, может 20 квестов для Элвинского леса.  
-**Translation:** 
-
-**[6933.72s] English:** Я сделал примерно столько же для Западного края, и мы устроили этот плейтест.  
-**Translation:** 
-
-**[6938.72s] English:** В команде было много ребят, которые никогда не играли в ММО.  
-**Translation:** 
-
-**[6942.72s] English:** Люди из шутеров, фанаты Старкрафт и все такое.  
-**Translation:** 
-
-**[6946.72s] English:** И вот они играют в World of Warcraft.  
-**Translation:** 
-
-**[6949.72s] English:** Играли, кажется, час в час.  
+**[7034.04s] English:** Let's do it by the path of least resistance.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[6951.72s] English:** Или два, и только в Элвинском лесу.  
+**[7036.84s] English:** That is, in this case, the fastest way to gain experience and level up.  
 **Translation:** 
 
-**[6953.72s] English:** И почти все отзывы от команды были...  
-**Translation:** 
-
-**[6956.72s] English:** А это были те, кто в Эверквест почти не играл.  
-**Translation:** 
-
-**[6960.00s] English:** И они говорят, «Боже мой, Пэт, это был просто ужас!  
-**Translation:** 
-
-**[6964.28s] English:** Квесты кончились почти сразу же!»  
-**Translation:** 
-
-**[6968.28s] English:** А мы такие, «Погодите, вы что, ожидали, что без конца будут квесты, и они не будут кончаться?»  
-**Translation:** 
-
-**[6974.28s] English:** А они отвечают, «Да, мы ожидали, что квесты не будут кончаться».  
-**Translation:** 
-
-**[6979.94s] English:** И вот тогда, после того плейтеста и Хелвинского леса, тогда мы и обалдели.  
-**Translation:** 
-
-**[6985.18s] English:** Мы поняли, что очень сильно недооценили, сколько квестов понадобится.  
-**Translation:** 
-
-**[6991.22s] English:** И мы все переделали, выработав новую философию,  
-**Translation:** 
-
-**[6995.52s] English:** которая по сути стала стандартом для всех игр Blizzard на тот момент.  
-**Translation:** 
-
-**[7000.70s] English:** Я слышал о ней за пределами Blizzard от других разработчиков.  
-**Translation:** 
-
-**[7004.56s] English:** Она звучит так, «Проектируй по пути наименьшего сопротивления».  
-**Translation:** 
-
-**[7009.90s] English:** Так, что это значит?  
-**Translation:** 
-
-**[7012.02s] English:** Например, в EverQuest...  
-**Translation:** 
-
-**[7014.30s] English:** Самый простой...  
-**Translation:** 
-
-**[7015.18s] English:** Стой способ, чтобы докачать персонажа до максимального уровня,  
-**Translation:** 
-
-**[7019.00s] English:** это найти самых легких мобов и просто без конца гриндить их на одном месте,  
-**Translation:** 
-
-**[7023.94s] English:** что некоторым кажется ужасно скучным.  
-**Translation:** 
-
-**[7026.52s] English:** А я мог этим заниматься по 8 часов, ведь считал это веселым.  
-**Translation:** 
+**[7043.10s] English:** Let's do this without endless grinding.  
+**Translation:** Vocabulary: grinding: 无尽刷怪
 
-**[7030.30s] English:** Но в World of Warcraft мы решили, что...  
+**[7045.18s] English:** We will transfer the gained experience as a reward for completing quests.  
 **Translation:** 
 
-**[7034.04s] English:** Давайте сделаем путем наименьшего сопротивления,  
+**[7049.96s] English:** This will lead the player through the world, and he will be able to see everything.  
 **Translation:** 
 
-**[7036.84s] English:** то есть в данном случае самым быстрым способом набрать опыт и прокачаться.  
+**[7053.92s] English:** That will allow us to tell storylines.  
 **Translation:** 
 
-**[7043.10s] English:** Сделаем это не бесконечным гриндом,  
-**Translation:** 
-
-**[7045.18s] English:** а перенесем получаемый опыт как награду за выполнение квестов.  
-**Translation:** 
-
-**[7049.96s] English:** Это будет вести игрока по миру, и он сможет все увидеть,  
-**Translation:** 
-
-**[7053.92s] English:** что позволит нам рассказывать сюжетные линии.  
-**Translation:** 
-
-**[7058.04s] English:** Это очень многое дало игре, и думаю, это было фундаментальное изменение в жанре.  
-**Translation:** 
+**[7058.04s] English:** This gave the game a lot, and I think it was a fundamental change in the genre.  
+**Translation:** Vocabulary: storylines: 故事情节
 
-**[7063.98s] English:** Ведь если посмотреть, например, на EverQuest,  
+**[7063.98s] English:** Well, if we look at EverQuest, for example,  
 **Translation:** 
 
-**[7067.74s] English:** она была очень популярной и очень успешной,  
+**[7067.74s] English:** She was very popular and very successful.  
 **Translation:** 
 
-**[7070.46s] English:** и в нее играли сотни тысяч игроков.  
+**[7070.46s] English:** And in it, hundreds of thousands of players played.  
 **Translation:** 
 
-**[7073.34s] English:** А WoW просто снесла...  
+**[7073.34s] English:** WoW simply crashed...  
 **Translation:** 
 
-**[7075.18s] English:** Она снесла все барьеры, и в него играли уже десятки миллионов игроков.  
+**[7075.18s] English:** She broke down all barriers, and already tens of millions of players were playing in it.  
 **Translation:** 
 
-**[7079.14s] English:** И думаю, фундаментальное изменение в жанре...  
-**Translation:** 
+**[7079.14s] English:** I think a fundamental change in genre...  
+**Translation:** Vocabulary: barriers: 障碍
 
-**[7080.00s] English:** Фундаментальная разница была в том, что WoW позволял играть вам в одиночку.  
+**[7080.00s] English:** The fundamental difference was that WoW allowed you to play solo.  
 **Translation:** 
 
-**[7087.32s] English:** А что делает MMO, многопользовательскую онлайн-игру, массовой, так это присутствие в ней других людей.  
+**[7087.32s] English:** What makes an MMO, a mass multiplayer online game, so engaging is the presence of other people in it.  
 **Translation:** 
 
-**[7096.72s] English:** И они очень важны. Иначе мир кажется каким-то фальшивым и мертвым.  
+**[7096.72s] English:** And they are very important. Otherwise, the world seems like some kind of fake and dead place.  
 **Translation:** 
 
-**[7101.64s] English:** Но сама идея, что мы должны заставлять вас взаимодействовать с ними по любому поводу, отталкивает очень многих людей.  
-**Translation:** 
+**[7101.64s] English:** But the idea that we should force you to interact with them for any reason repels many people very much.  
+**Translation:** Vocabulary: repels: 使人反感
 
-**[7110.50s] English:** А то, что люди могли прийти в WoW и просто...  
+**[7110.50s] English:** Then there was the fact that people could come into WoW and just...  
 **Translation:** 
 
-**[7115.34s] English:** В геймдизайне, на языке геймдизайна это называется направленный геймплей.  
+**[7115.34s] English:** In game design, in the language of game design, this is called directed gameplay.  
 **Translation:** 
 
-**[7122.44s] English:** И в некоторых играх этот направленный геймплей, он очень жесткий.  
+**[7122.44s] English:** In some games, this directed gameplay can be very strict.  
 **Translation:** 
 
-**[7127.26s] English:** Например, если вы играете в одиночную игру вроде The Last of Us,  
+**[7127.26s] English:** For example, if you play a single-player game like The Last of Us,  
 **Translation:** 
 
-**[7133.72s] English:** там бывают моменты, когда ты подходишь к бревну, и там написано «нажмите треугольник».  
+**[7133.72s] English:** There are moments when you approach a log and it says "press triangle.  
 **Translation:** 
 
-**[7140.00s] English:** Чтобы пригнуться. Или другую кнопку. Левый стик, чтобы пролезть под ним.  
-**Translation:** 
+**[7140.00s] English:** To crouch. Or another button. Left stick to squeeze under it.  
+**Translation:** Vocabulary: crouch: 蹲下; squeeze: 挤过; triangle: 三角键
 
-**[7144.64s] English:** И вот это высшая степень направленного геймплея.  
+**[7144.64s] English:** And here is the highest degree of directed gameplay.  
 **Translation:** 
 
-**[7147.66s] English:** Вам прямо говорят, что нужно делать.  
+**[7147.66s] English:** You are directly told what you need to do.  
 **Translation:** 
 
-**[7149.90s] English:** На другом конце спектра игра вроде Майнкрафт.  
+**[7149.90s] English:** At the other end of the spectrum is a game like Minecraft.  
 **Translation:** 
 
-**[7153.14s] English:** Классический Майнкрафт.  
+**[7153.14s] English:** Classical Minecraft.  
 **Translation:** 
 
-**[7155.36s] English:** Он вызывает много споров среди геймеров.  
+**[7155.36s] English:** He causes a lot of争议among gamers.  
 **Translation:** 
 
-**[7158.16s] English:** Одни его просто обожают, другие же ненавидят.  
+**[7158.16s] English:** Some people simply adore him, while others hate him.  
 **Translation:** 
 
-**[7161.10s] English:** Те, кто его не любят, говорят «я не понимаю, что мне делать».  
+**[7161.10s] English:** Those who don't love him say "I don't understand what to do.  
 **Translation:** 
 
-**[7164.84s] English:** Типа «меня просто выбросили в этот мир, я должен копать или что?»  
+**[7164.84s] English:** Type "I was just thrown into this world, do I have to dig or what?  
 **Translation:** 
 
-**[7169.50s] English:** И...  
+**[7169.50s] English:** And...  
 **Translation:** 
 
-**[7170.00s] English:** И это тот тип игроков, которым нужен направленный геймплей, иначе они отваливаются.  
+**[7170.00s] English:** And this is the type of players who need directed gameplay, otherwise they drop out.  
 **Translation:** 
 
-**[7176.38s] English:** Но он нужен не всем игрокам.  
+**[7176.38s] English:** But he is not needed by all players.  
 **Translation:** 
 
-**[7178.54s] English:** И что сделал Вов, так это...  
+**[7178.54s] English:** What did Vov do? ...  
 **Translation:** 
 
-**[7181.48s] English:** И это не кажется какой-то инновацией, не кажется чем-то революционным,  
+**[7181.48s] English:** And this doesn't seem like any kind of innovation, or something revolutionary.  
 **Translation:** 
 
-**[7186.84s] English:** но он создал такой направленный геймплей, который казался необязательным, но на самом деле таким не был.  
-**Translation:** 
+**[7186.84s] English:** But he created a gameplay that seemed optional, but in fact was not.  
+**Translation:** Vocabulary: optional: 可选的; revolutionary: 革新的
 
-**[7194.76s] English:** Я считаю, это и есть настоящая революция.  
+**[7194.76s] English:** I believe this is truly a revolution.  
 **Translation:** 
 
-**[7198.18s] English:** По сути, это перевернуло...  
+**[7198.18s] English:** In essence, this has turned...  
 **Translation:** 
 
-**[7200.00s] English:** Гейминг изменило то, как мы воспринимаем игры.  
+**[7200.00s] English:** Gaming has changed how we perceive games.  
 **Translation:** 
 
-**[7203.68s] English:** И отчасти успех был в том,  
-**Translation:** 
+**[7203.68s] English:** And partly the success was in that,  
+**Translation:** Vocabulary: perceive: 认知
 
-**[7207.04s] English:** что игра стала механизмом, который затягивал на сотни и тысячи часов.  
+**[7207.04s] English:** The game became a mechanism that hooked players for hundreds and thousands of hours.  
 **Translation:** 
 
-**[7212.70s] English:** Ну, то есть, тут и не поспоришь.  
+**[7212.70s] English:** Nu, that is, here one cannot argue.  
 **Translation:** 
 
-**[7215.42s] English:** По сути, с гениальными идеями всегда так.  
+**[7215.42s] English:** In essence, with genius ideas, it's always like that.  
 **Translation:** 
 
-**[7218.80s] English:** Оглядываясь назад, все кажется очевидным.  
+**[7218.80s] English:** Looking back, everything seems obvious.  
 **Translation:** 
 
-**[7221.78s] English:** Мол, если проложить путь наименьшего сопротивления,  
+**[7221.78s] English:** Mol, if we follow the path of least resistance,  
 **Translation:** 
 
-**[7225.32s] English:** базируя геймплей на квестах, то все пойдут этим путем.  
-**Translation:** 
+**[7225.32s] English:** Based on gameplay centered around quests, everyone will likely go this route.  
+**Translation:** Vocabulary: quests: 任务
 
-**[7228.44s] English:** Но на самом деле я согласен с тобой.  
+**[7228.44s] English:** But in fact, I agree with you.  
 **Translation:** 
 
-**[7231.84s] English:** Мне заходят и квесты, и тот самый уровень с коровами.  
+**[7231.84s] English:** I go through quests and that level with cows as well.  
 **Translation:** 
 
-**[7238.18s] English:** Да.  
+**[7238.18s] English:** Yes.  
 **Translation:** 
 
-**[7238.92s] English:** Получается, игру нужно делать для всех.  
+**[7238.92s] English:** It turns out, the game needs to be made for everyone.  
 **Translation:** 
 
-**[7241.68s] English:** В этом и сложность.  
+**[7241.68s] English:** In this lies the complexity.  
 **Translation:** 
 
-**[7243.40s] English:** Как это тонко настроить?  
-**Translation:** 
+**[7243.40s] English:** How finely tuned is that?  
+**Translation:** Vocabulary: complexity: 复杂性; finely: 精细地
 
-**[7245.38s] English:** Если представить это как цикл.  
+**[7245.38s] English:** If we represent this as a cycle.  
 **Translation:** 
 
-**[7247.42s] English:** Взять квест, убить 10 крыс, сдать квест, дзынь, новый уровень.  
+**[7247.42s] English:** Take the quest, kill 10 rats, complete the quest, ding, new level.  
 **Translation:** 
 
-**[7252.56s] English:** Вот такой цикл.  
+**[7252.56s] English:** Here's the cycle.  
 **Translation:** 
 
-**[7253.90s] English:** Как его настроить, чтобы он доставлял максимум удовольствия  
+**[7253.90s] English:** How can it be set up to deliver maximum pleasure?  
 **Translation:** 
 
-**[7257.48s] English:** и...  
+**[7257.48s] English:** And...  
 **Translation:** 
 
-**[7258.44s] English:** заходил к как можно большему числу людей.  
+**[7258.44s] English:** He visited as large a number of people as possible.  
 **Translation:** 
 
-**[7261.32s] English:** Насколько это сложно?  
+**[7261.32s] English:** How difficult is this?  
 **Translation:** 
 
-**[7263.82s] English:** Это очень сложно.  
+**[7263.82s] English:** This is very difficult.  
 **Translation:** 
 
-**[7266.16s] English:** И не все в этом хороши.  
+**[7266.16s] English:** And not everything in this is good.  
 **Translation:** 
 
-**[7269.64s] English:** Нам всем в какой-то мере не хватает самоанализа,  
+**[7269.64s] English:** We all to some degree lack self-analysis,  
 **Translation:** 
 
-**[7273.52s] English:** чтобы понять, как мы устроены.  
+**[7273.52s] English:** To understand how we are constructed.  
 **Translation:** 
 
-**[7275.86s] English:** Все мы разные типы игроков.  
+**[7275.86s] English:** All of us are different types of players.  
 **Translation:** 
 
-**[7278.32s] English:** Но если попросить меня описать себя как игрока,  
+**[7278.32s] English:** But if asked to describe myself as a player,  
 **Translation:** 
 
-**[7281.94s] English:** то я скорее всего опишу тот тип игрока, которым хотел бы быть,  
+**[7281.94s] English:** That is probably the type of player I would want to be.  
 **Translation:** 
 
-**[7286.98s] English:** или тот, каким вы хотите быть.  
+**[7286.98s] English:** Or the way you want to be.  
 **Translation:** 
 
-**[7288.40s] English:** Вы хотите меня видеть, а не того, кто я есть на самом деле.  
+**[7288.40s] English:** You want to see me, not who I really am.  
 **Translation:** 
 
-**[7294.08s] English:** Нужно сыграть в множество игр.  
+**[7294.08s] English:** We need to play a multitude of games.  
 **Translation:** 
 
-**[7297.28s] English:** Нельзя стать отличным геймдизайнером,  
-**Translation:** 
+**[7297.28s] English:** Cannot become an excellent game designer,  
+**Translation:** Vocabulary: cannot: 不能; multitude: 众多
 
-**[7301.68s] English:** при этом не заиграв до дыр как можно больше игр,  
+**[7301.68s] English:** While not overdoing it and playing as many games as possible,  
 **Translation:** 
 
-**[7306.68s] English:** и не поняв это на глубинном уровне.  
-**Translation:** 
+**[7306.68s] English:** And not understanding it on a deep level.  
+**Translation:** Vocabulary: overdoing: 过度
 
-**[7309.48s] English:** И самое странное в этом то,  
+**[7309.48s] English:** The most strange thing about this is that,  
 **Translation:** 
 
-**[7312.12s] English:** что учишься не только играя в хиты.  
+**[7312.12s] English:** What you're learning is not just by playing hits.  
 **Translation:** 
 
-**[7314.84s] English:** Ты извлекаешь не меньше уроков из дерьмовой игры,  
+**[7314.84s] English:** You extract no less wisdom from the shitstorm game,  
 **Translation:** 
 
-**[7318.40s] English:** чем играя в какой-то шедевр.  
-**Translation:** 
+**[7318.40s] English:** Playing in some masterpiece.  
+**Translation:** Vocabulary: extract: 获取; masterpiece: 杰作
 
-**[7320.00s] English:** Более того, но в это-то и есть особая магия мультипрлеера. Он дымит сигару, закинувши ногу  
+**[7320.00s] English:** Moreover, but that is the special magic of multiplayer. He puffs on the cigar, throwing one leg back.  
 **Translation:** 
 
-**[7327.86s] English:** на череп гидролизка, потому что с тем же успехом можно высечь это в камне и спуститься с горы.  
-**Translation:** 
+**[7327.86s] English:** On the skull of the hydrolisk, because just as well it could be carved into stone and descended from the mountain.  
+**Translation:** Vocabulary: carved: 雕刻; cigar: 雪茄; descended: 下降; hydrolisk: 水虫; puffs: 抽着; skull: 头骨
 
-**[7333.38s] English:** Отполирован геймплей, все упирается в вопрос реализации таких вещей. Когда я играю,  
+**[7333.38s] English:** Polished the gameplay; all comes down to the implementation of such features. When I play,  
 **Translation:** 
 
-**[7341.12s] English:** я анализирую не только что делает игру цепляющей, но и то, что делает ее скучной. Но я еще и  
-**Translation:** 
+**[7341.12s] English:** I analyze not only what makes a game engaging, but also what makes it boring. But I am still  
+**Translation:** Vocabulary: implementation: 实施; polished: 打磨
 
-**[7348.50s] English:** наблюдаю за всеми вокруг. За женой, за детьми. Они тоже играют. И я пытаюсь понять, что они  
+**[7348.50s] English:** I am observing everyone around me. I watch my wife and children. They are also playing. And I try to understand what they are doing.  
 **Translation:** 
 
-**[7357.80s] English:** делают не так, как я, и почему им это нравится. А что не нравится, что расстраивает и что они  
-**Translation:** 
+**[7357.80s] English:** They don't do it like I do, and why they enjoy it. But what doesn't please them, upsets them, and what they  
+**Translation:** Vocabulary: upsets: 使烦恼
 
-**[7365.30s] English:** упустили. И тут нужно быть предельно честным с собой. Ну, то есть, если анализировать себя как  
+**[7365.30s] English:** We messed up. And here we need to be extremely honest with ourselves. Well, I mean, if we're analyzing ourselves as  
 **Translation:** 
 
-**[7372.68s] English:** игрока, почему мне нравится «Коровий уровень» и, главное, почему  
-**Translation:** 
+**[7372.68s] English:** Player, why I like "Cow Level," and, most importantly, why  
+**Translation:** Vocabulary: messed: 搞砸了
 
-**[7378.48s] English:** мне нравится «Лут»? Почему «Лут» так цепляет? Как бы, что, что в нем такого? Открыть сундук и  
+**[7378.48s] English:** Does "Loot" appeal to me? Why does "Loot" grab me so? What is it about it that makes it special? Opening the chest and  
 **Translation:** 
 
-**[7387.00s] English:** получить кучу всего? Наверное, это и есть основа того, что мне нравится в играх. Это и прогулки  
+**[7387.00s] English:** Get a bunch of stuff? Probably, this is the basis of what I like in games. It's also the walks.  
 **Translation:** 
 
-**[7393.48s] English:** по красивому миру под приятную музыку. Как геймдизайнер, я в лучшем случае  
+**[7393.48s] English:** Poetic Beauty in the World, Set to Gentle Music. As a game designer, I am at my best when  
 **Translation:** 
 
-**[7398.72s] English:** психолог-шарлатан. Понимаешь, мы можем мотивировать людей на очень странные вещи. Есть два главных  
-**Translation:** 
+**[7398.72s] English:** Psychologist-sharlatan. Understand, we can motivate people to do very strange things. There are two main  
+**Translation:** Vocabulary: motivate: 激励; poetic: 诗意
 
-**[7408.48s] English:** мотивации. Внешняя и внутренняя мотивация. И все мы в разные моменты нашей жизни, игровой карьеры,  
+**[7408.48s] English:** Motivation. External and internal motivation. And all of us at different points in our lives, gaming careers,  
 **Translation:** 
 
-**[7415.50s] English:** да чего угодно, можем переключаться из состояния внутренней мотивации на внешнюю мотивацию.  
-**Translation:** 
+**[7415.50s] English:** Sure, here is the improved sentence with natural English punctuation and capitalization: We can switch from internal motivation to external motivation whenever we want.  
+**Translation:** Vocabulary: capitalization: 大写
 
-**[7423.48s] English:** Очевидно, что «Лут» — это сильный внешний мотиватор. Но даже это слишком упрощенно. Например,  
+**[7423.48s] English:** Obviously, "Lut" is a strong external motivator. But even this is too simplistic. For example,  
 **Translation:** 
 
-**[7431.82s] English:** в лутбоксах «Овервотч» есть мастерски, продуманная  
+**[7431.82s] English:** In the "Overwatch" loot boxes, there is a masterfully, thoughtfully designed  
 **Translation:** 
 
-**[7438.48s] English:** система, которую  
+**[7438.48s] English:** System, which,  
 **Translation:** 
 
-**[7440.00s] English:** создал именно гейм-дизайнер, а не какой-то бизнесмен  
+**[7440.00s] English:** Created it specifically by a game designer, not some businessman.  
 **Translation:** 
 
-**[7444.00s] English:** или какой-нибудь маркетолог.  
+**[7444.00s] English:** Or a marketing professional.  
 **Translation:** 
 
-**[7448.72s] English:** Но кроме того, у нас была отличная команда, которая  
+**[7448.72s] English:** But besides that, we had an excellent team, which  
 **Translation:** 
 
-**[7454.10s] English:** отвечала за то, чтобы сам процесс открытия ящика,  
+**[7454.10s] English:** Responsible for ensuring that the process of opening the box,  
 **Translation:** 
 
-**[7457.50s] English:** звук, который он издает, графика, то, как все высыпается  
+**[7457.50s] English:** The sound it makes, graphics, how everything spills out.  
 **Translation:** 
 
-**[7461.80s] English:** и как все анимировано, чтобы это все тоже приносило удовольствие.  
+**[7461.80s] English:** And as everything is animated, it also brings enjoyment.  
 **Translation:** 
 
-**[7467.72s] English:** Мы пытались воздействовать на рептильный мозг.  
-**Translation:** 
+**[7467.72s] English:** We tried to affect the reptilian brain.  
+**Translation:** Vocabulary: reptilian: 爬行类的
 
-**[7471.32s] English:** Это когда ты видишь, допустим, тот же сундук, и думаешь,  
+**[7471.32s] English:** This is when you see, for example, the same chest, and think,  
 **Translation:** 
 
-**[7475.72s] English:** будет приятно, точно будет приятно.  
+**[7475.72s] English:** It will be pleasant, definitely will be pleasant.  
 **Translation:** 
 
-**[7477.90s] English:** А есть и рациональная часть, которая спрашивает, что  
+**[7477.90s] English:** There is also a rational part of us that asks what  
 **Translation:** 
 
-**[7481.50s] English:** там внутри, это апгрейд?  
-**Translation:** 
+**[7481.50s] English:** There inside, is this an upgrade?  
+**Translation:** Vocabulary: upgrade: 更新换代
 
-**[7484.12s] English:** Я думаю, хорошие гейм-дизайнеры умеют работать с обоими  
+**[7484.12s] English:** I think good game designers are able to work with both.  
 **Translation:** 
 
-**[7488.48s] English:** этими аспектами, использовать и внутреннюю мотивацию,  
-**Translation:** 
+**[7488.48s] English:** These aspects include using internal motivation,  
+**Translation:** Vocabulary: designers: 设计师
 
-**[7492.70s] English:** и внешнюю.  
+**[7492.70s] English:** and external.  
 **Translation:** 
 
-**[7494.10s] English:** Вот, например, когда я изучал литературу,  
+**[7494.10s] English:** Here, for example, when I studied literature,  
 **Translation:** 
 
-**[7497.72s] English:** мы разбирали ее на составляющие.  
+**[7497.72s] English:** We broke it down into its components.  
 **Translation:** 
 
-**[7500.74s] English:** Это такие основы произведения, как сюжет, развитие персонажа,  
+**[7500.74s] English:** This is about the foundations of a work such as plot, character development,  
 **Translation:** 
 
-**[7506.12s] English:** сеттинг, тема и все прочее.  
+**[7506.12s] English:** Setting, theme, and all the rest.  
 **Translation:** 
 
-**[7508.48s] English:** Но нет такого учебника по гейм-дизайну.  
+**[7508.48s] English:** But there is no such textbook on game design.  
 **Translation:** 
 
-**[7511.96s] English:** По крайней мере, я никогда такого не встречал.  
+**[7511.96s] English:** At least, I have never encountered anything like that.  
 **Translation:** 
 
-**[7515.34s] English:** Но я же размышляю о составляющих элементах фана.  
-**Translation:** 
+**[7515.34s] English:** But I am thinking about the components of fun.  
+**Translation:** Vocabulary: encountered: 遇到
 
-**[7519.42s] English:** Что именно доставляет игрокам фан.  
+**[7519.42s] English:** What specifically provides fun for players.  
 **Translation:** 
 
-**[7522.24s] English:** И это не всегда одно и то же.  
+**[7522.24s] English:** And this is not always the same.  
 **Translation:** 
 
-**[7524.22s] English:** Потому что все люди разные.  
+**[7524.22s] English:** Because all people are different.  
 **Translation:** 
 
-**[7527.72s] English:** Например, прогрессия — это фан.  
-**Translation:** 
+**[7527.72s] English:** For example, progression is fan.  
+**Translation:** Vocabulary: progression: 进步
 
-**[7530.48s] English:** Ощущение прогресса, что я во что-то вкладываюсь.  
+**[7530.48s] English:** Feeling progress, that I am investing in something.  
 **Translation:** 
 
-**[7533.48s] English:** Я вкладываю время в эту игру, а игра видит мои усилия.  
+**[7533.48s] English:** I invest time in this game, and the game recognizes my efforts.  
 **Translation:** 
 
-**[7538.48s] English:** Например, повышение уровня или накопление золота — все  
+**[7538.48s] English:** For example, leveling up or accumulating gold—all  
 **Translation:** 
 
-**[7542.48s] English:** это результат твоих вложений.  
-**Translation:** 
+**[7542.48s] English:** This is the result of your investments.  
+**Translation:** Vocabulary: accumulating: 积累; investments: 投资; leveling: 升级
 
-**[7544.48s] English:** Есть мастерство, есть чистый, неприкрытый скилл.  
+**[7544.48s] English:** There is skill, there is a clean, uncovered talent.  
 **Translation:** 
 
-**[7549.48s] English:** Креативность тоже один из элементов.  
+**[7549.48s] English:** Creativity is also one of the elements.  
 **Translation:** 
 
-**[7552.48s] English:** А рука об руку с креативностью идет кастомизация.  
+**[7552.48s] English:** Hand in hand with creativity goes customization.  
 **Translation:** 
 
-**[7556.48s] English:** Отлично.  
+**[7556.48s] English:** Great.  
 **Translation:** 
 
-**[7557.72s] English:** Она может быть чисто косметической.  
+**[7557.72s] English:** She may be purely cosmetic.  
 **Translation:** 
 
-**[7560.00s] English:** Типа, смотрите, вот мой персонаж, у него черные вьющиеся волосы, и я вставил ему в ухо серьгу.  
-**Translation:** 
+**[7560.00s] English:** Type of thing, look, here's my character, he has black curly hair, and I added a piercing to his ear.  
+**Translation:** Vocabulary: cosmetic: 美容的; piercing: 穿耳洞
 
-**[7568.12s] English:** Вот так я его кастомизировал.  
+**[7568.12s] English:** Here's how I customized it.  
 **Translation:** 
 
-**[7570.30s] English:** Или вот я кастомизировал билд.  
+**[7570.30s] English:** Or here I customized the build.  
 **Translation:** 
 
-**[7573.40s] English:** Допустим, я первый соберу варвара через вихрь.  
+**[7573.40s] English:** Let's assume I gather the barbarian through the vortex first.  
 **Translation:** 
 
-**[7578.26s] English:** Все это и есть элементы фана, которыми оперируют геймдизайнеры, и они часто ими пользуются.  
-**Translation:** 
+**[7578.26s] English:** All of this is part of the fan elements that game designers manipulate, and they often make use of them.  
+**Translation:** Vocabulary: barbarian: 野人; designers: 设计师; manipulate: 操控; vortex: 旋涡
 
-**[7587.36s] English:** Но эти элементы нигде не прописаны.  
+**[7587.36s] English:** But these elements are nowhere spelled out.  
 **Translation:** 
 
-**[7590.70s] English:** Я замечаю, что игроков порой заносит.  
+**[7590.70s] English:** I notice that players sometimes get carried away.  
 **Translation:** 
 
-**[7593.30s] English:** Например, я из тех игроков, кого не особо мотивирует лут.  
+**[7593.30s] English:** For example, I am one of those players who are not particularly motivated by loot.  
 **Translation:** 
 
-**[7596.94s] English:** Меня больше мотивирует смотреть контент, который предлагает мир.  
-**Translation:** 
+**[7596.94s] English:** I am more motivated to watch content that offers a glimpse of the world.  
+**Translation:** Vocabulary: motivated: 受...驱动
 
-**[7603.08s] English:** И часто игра заставляет меня переключиться на добычу лута,  
+**[7603.08s] English:** Often, the game makes me switch to loot collection.  
 **Translation:** 
 
-**[7608.36s] English:** потому что где-то может ждать дракон, или какой-то демон,  
-**Translation:** 
+**[7608.36s] English:** Because somewhere a dragon or some demon might be waiting.  
+**Translation:** Vocabulary: demon: 恶魔; dragon: 龙
 
-**[7612.46s] English:** которого я не одолею без брони нужного уровня и меча.  
+**[7612.46s] English:** Which I cannot overcome without armor of the right level and a sword.  
 **Translation:** 
 
-**[7617.36s] English:** Так что на время, моей мотивацией становится лут, чтобы потом вернуться к контенту.  
+**[7617.36s] English:** So, for now, my motivation is loot to return to the content later.  
 **Translation:** 
 
-**[7625.20s] English:** Или если у меня проблемы и я не могу победить босса, возможно придется вернуться и подумать,  
+**[7625.20s] English:** Or if I have problems and cannot defeat the boss, maybe I will have to go back and think about it.  
 **Translation:** 
 
-**[7631.12s] English:** какие у моего персонажа есть навыки и способности, и тогда придется использовать креативность.  
+**[7631.12s] English:** What skills and abilities does my character have, and then creativity will be required.  
 **Translation:** 
 
-**[7637.52s] English:** А, он использует АОЕ, атаку по площади, или накладывает на меня дебаф.  
+**[7637.52s] English:** Ah, he's using AoE, area of effect, attack or applying a debuff on me.  
 **Translation:** 
 
-**[7642.56s] English:** И ты думаешь, будь у меня резист от этого дебафа, я бы смог победить босса,  
+**[7642.56s] English:** Do you think that with a resist to this debuff, I could have defeated the boss?  
 **Translation:** 
 
-**[7647.30s] English:** забрать лут, и дойти до следующего босса.  
+**[7647.30s] English:** Pick up the loot and go to the next boss.  
 **Translation:** 
 
-**[7650.18s] English:** Это все циклы, которые задействуют разные механики получения удовольствия.  
-**Translation:** 
+**[7650.18s] English:** These are all cycles that involve different mechanisms of pleasure acquisition.  
+**Translation:** Vocabulary: acquisition: 获取
 
-**[7656.80s] English:** И в итоге ты наслаждаешься миром и открываешь то, что он предлагает.  
+**[7656.80s] English:** In the end, you enjoy the world and open up to what it has to offer.  
 **Translation:** 
 
-**[7662.30s] English:** Да.  
+**[7662.30s] English:** Yes.  
 **Translation:** 
 
-**[7662.80s] English:** И дает тебе.  
+**[7662.80s] English:** And gives you.  
 **Translation:** 
 
-**[7663.80s] English:** Но, как геймер, ты примеряешь на себя не одну роль.  
-**Translation:** 
+**[7663.80s] English:** But, as a gamer, you take on more than one role.  
+**Translation:** Vocabulary: gamer: 玩家
 
-**[7668.30s] English:** Ты любишь миры РПГ, ММО, РПГ, но при этом ты большой фанат шутеров.  
+**[7668.30s] English:** You love RPG and MMORPG worlds, but you are also a big fan of shooters.  
 **Translation:** 
 
-**[7673.54s] English:** Можешь объяснить мне, в чем кайф от шутеров?  
+**[7673.54s] English:** Can you explain to me what's fun about shooters?  
 **Translation:** 
 
-**[7677.14s] English:** И потом поговорим об Overwatch.  
+**[7677.14s] English:** Then let's talk about Overwatch.  
 **Translation:** 
 
-**[7680.00s] English:** Особый вид фана.  
+**[7680.00s] English:** A special kind of fan.  
 **Translation:** 
 
-**[7681.12s] English:** Но ты же еще и фанат ультрареалистичных шутеров.  
+**[7681.12s] English:** But you're also a fan of ultra-realistic shooters.  
 **Translation:** 
 
 **[7685.38s] English:** Call of Duty.  
 **Translation:** 
 
-**[7686.94s] English:** Объясни, в чем там кайф?  
+**[7686.94s] English:** Explain, what's the fun in that?  
 **Translation:** 
 
-**[7689.66s] English:** Там все завязано на скилле.  
+**[7689.66s] English:** There, everything is tied to skill.  
 **Translation:** 
 
-**[7692.98s] English:** Если, грубо говоря, это просто клики по головам, понимаешь, о чем я?  
+**[7692.98s] English:** If, roughly speaking, this is just clicks on heads, do you understand what I mean?  
 **Translation:** 
 
-**[7696.94s] English:** По сути, я просто кликаю по головам.  
+**[7696.94s] English:** In essence, I just click on heads.  
 **Translation:** 
 
-**[7698.96s] English:** Ясно.  
+**[7698.96s] English:** Clear.  
 **Translation:** 
 
-**[7699.74s] English:** Еще в таком расположении камеры, то есть вида от первого лица, есть особая интимность.  
-**Translation:** 
+**[7699.74s] English:** Still in this first-person camera placement, there is a particular intimacy.  
+**Translation:** Vocabulary: intimacy: 亲密; placement: 位置
 
-**[7705.76s] English:** Хотя сейчас уже не все шутеры от первого лица.  
+**[7705.76s] English:** Although not all first-person shooters are like they used to be.  
 **Translation:** 
 
-**[7708.78s] English:** Сейчас в тренде вид как раз от третьего лица.  
-**Translation:** 
+**[7708.78s] English:** Currently, a third-person perspective is trending.  
+**Translation:** Vocabulary: trending: 流行
 
-**[7713.44s] English:** Думаю, PUBG и Fortnite по сути и открыли эту дверь для таких шутеров от третьего лица.  
+**[7713.44s] English:** I think PUBG and Fortnite essentially opened this door for third-person shooter games.  
 **Translation:** 
 
-**[7720.68s] English:** И мы видим, что игры типа Ark Raiders тоже от третьего лица.  
-**Translation:** Vocabulary: fortnite: 堡垒之夜; raiders: 掠夺者
+**[7720.68s] English:** We see that games like Ark Raiders are also from a third-person perspective.  
+**Translation:** Vocabulary: fortnite: 绝地求生; raiders: 掠夺者
 
-**[7725.30s] English:** Но для меня нет ничего чище, чем вид от первого лица.  
+**[7725.30s] English:** But for me, there is nothing cleaner than a first-person view.  
 **Translation:** 
 
-**[7728.88s] English:** Ты буквально становишься этим персонажем в его мире.  
+**[7728.88s] English:** You literally become that character in his world.  
 **Translation:** 
 
-**[7732.76s] English:** Можешь посмотреть на свои руки, и это чистое, интуитивное испытание твоего навыка.  
+**[7732.76s] English:** Can you look at your hands? And this is a pure, intuitive test of your skill.  
 **Translation:** 
 
-**[7738.78s] English:** Кликнешь ли ты по цели достаточно быстро?  
-**Translation:** 
+**[7738.78s] English:** Do you click on the target quickly enough?  
+**Translation:** Vocabulary: intuitive: 直觉的
 
-**[7741.54s] English:** А когда это PvP, ты знаешь, что и по тебе могут быстро кликнуть.  
+**[7741.54s] English:** When it comes to PvP, you know that clicks can come your way quickly.  
 **Translation:** 
 
-**[7745.70s] English:** Можешь объяснить для тех, кто не в теме, что такое PvP, PvE,  
+**[7745.70s] English:** Can you explain what PvP and PvE are for those who are not in the know?  
 **Translation:** 
 
-**[7750.36s] English:** Конечно.  
+**[7750.36s] English:** Of course.  
 **Translation:** 
 
-**[7750.86s] English:** Синглплеер, мультиплеер и массовый мультиплеер?  
+**[7750.86s] English:** Single-player, multiplayer, and mass multiplayer?  
 **Translation:** 
 
-**[7755.10s] English:** PvP это игрок против игрока.  
+**[7755.10s] English:** PvP is player versus player.  
 **Translation:** 
 
-**[7757.50s] English:** То есть это противостояние.  
-**Translation:** 
+**[7757.50s] English:** That is, this is a confrontation.  
+**Translation:** Vocabulary: confrontation: 对抗
 
-**[7759.30s] English:** Например, если мы с тобой играем друг против друга,  
+**[7759.30s] English:** For example, if we play against each other,  
 **Translation:** 
 
-**[7762.72s] English:** и атакуем друг друга, это и есть PvP.  
+**[7762.72s] English:** And we attack each other, which is what PvP means.  
 **Translation:** 
 
-**[7765.52s] English:** И в нем тебя может убить другой игрок.  
+**[7765.52s] English:** In it, you may be killed by another player.  
 **Translation:** 
 
-**[7767.80s] English:** А PvE это...  
+**[7767.80s] English:** PvE is...  
 **Translation:** 
 
-**[7768.78s] English:** Это игрок против окружения.  
+**[7768.78s] English:** This is a player against the environment.  
 **Translation:** 
 
-**[7770.54s] English:** Это когда ты сражаешься с компьютерными противниками.  
-**Translation:** 
+**[7770.54s] English:** This is when you fight against computer opponents.  
+**Translation:** Vocabulary: opponents: 对手
 
-**[7774.62s] English:** То есть если это игра про драконов, то дракон это и есть E.  
+**[7774.62s] English:** So if this is a game about dragons, then the dragon itself is E.  
 **Translation:** 
 
-**[7778.86s] English:** То есть Environment в термине PvE.  
-**Translation:** 
+**[7778.86s] English:** That is, Environment in the term PvE.  
+**Translation:** Vocabulary: dragon: 龙; dragons: dragons
 
-**[7781.50s] English:** И надо уточнить, и в PvP, и в PvE под буквой P может подразумеваться  
+**[7781.50s] English:** And we need to clarify that the letter P in both PvP and PvE can stand for.  
 **Translation:** 
 
-**[7786.66s] English:** несколько игроков.  
-**Translation:** 
+**[7786.66s] English:** Several players.  
+**Translation:** Vocabulary: clarify: 阐明
 
-**[7788.10s] English:** Это может быть 5 на 5 или 6 на 6 в PvP.  
+**[7788.10s] English:** This can be 5 on 5 or 6 on 6 in PvP.  
 **Translation:** 
 
-**[7791.38s] English:** А в PvE это могут быть, например, рейды,  
-**Translation:** 
+**[7791.38s] English:** In PvE, for example, these can be raids,  
+**Translation:** Vocabulary: raids: 团队副本
 
-**[7794.90s] English:** где несколько людей или целые группы сражаются против И.  
+**[7794.90s] English:** Where several people or entire groups are fighting against I.  
 **Translation:** 
 
-**[7798.78s] English:** Верно.  
+**[7798.78s] English:** Correct.  
 **Translation:** 
 
-**[7800.94s] English:** Сингл-плеер — это игра, в которую играешь в одиночку.  
+**[7800.94s] English:** Single-player is a game that you play alone.  
 **Translation:** 
 
-**[7805.48s] English:** Ты не можешь играть в нее с другими людьми.  
+**[7805.48s] English:** You cannot play her with other people.  
 **Translation:** 
 
-**[7808.56s] English:** В ней нет сетевого режима, чтобы подключить кого-то еще.  
+**[7808.56s] English:** In it, there is no network mode to connect anyone else.  
 **Translation:** 
 
-**[7814.00s] English:** Например, я сейчас играю в игру под названием Story of Seasons на Nintendo Switch.  
+**[7814.00s] English:** For example, I am currently playing a game called Story of Seasons on Nintendo Switch.  
 **Translation:** 
 
-**[7818.36s] English:** И я играю там один.  
+**[7818.36s] English:** I play there alone.  
 **Translation:** 
 
-**[7820.14s] English:** У меня там своя ферма, есть город, и я знакомлюсь с жителями.  
+**[7820.14s] English:** I have my own farm there, there's a city, and I meet the residents.  
 **Translation:** 
 
-**[7825.30s] English:** Никто не может ко мне присоединиться и как-то на это повлиять.  
+**[7825.30s] English:** No one can join me or influence this in any way.  
 **Translation:** 
 
-**[7828.96s] English:** То есть это полностью контролируемый мной опыт.  
+**[7828.96s] English:** That is, this is a completely controlled experience for me.  
 **Translation:** 
 
-**[7832.26s] English:** Одиночные игры, они очень сложные, или скорее могут быть сложными и дорогими в процессе их производства.  
+**[7832.26s] English:** Single-player games can be very complex, or rather, they may be both complex and expensive in terms of their production process.  
 **Translation:** 
 
-**[7840.00s] English:** Например, если взять такие игры, как Uncharted или The Last of Us от студии Naughty Dog,  
+**[7840.00s] English:** For example, if we take games like Uncharted or The Last of Us from Naughty Dog studio,  
 **Translation:** 
 
-**[7847.60s] English:** то это, можно сказать, одни из лучших одиночных игр, которые только можно вспомнить.  
+**[7847.60s] English:** This can be said to include some of the best single-player games that one can remember.  
 **Translation:** 
 
-**[7853.96s] English:** Они созданы вручную.  
+**[7853.96s] English:** They are created manually.  
 **Translation:** 
 
-**[7857.22s] English:** Каждый момент в них срежется.  
+**[7857.22s] English:** Each moment in them will be sharpened.  
 **Translation:** 
 
-**[7858.96s] English:** Каждый момент в них срежется специально для тебя.  
-**Translation:** 
+**[7858.96s] English:** Each moment in them has been specially trimmed for you.  
+**Translation:** Vocabulary: sharpened: 磨砺; trimmed: 修剪
 
-**[7861.06s] English:** Ступенькой выше стоит то, что я называю коопом.  
+**[7861.06s] English:** The step above that is what I call coop.  
 **Translation:** 
 
-**[7866.34s] English:** И эти термины часто взаимозаменяемы, так что в терминологии есть свои нюансы.  
-**Translation:** 
+**[7866.34s] English:** And these terms are often interchangeable, so there are nuances in the terminology.  
+**Translation:** Vocabulary: interchangeable: 可以互换的; nuances: 细微差别; terminology: 术语
 
-**[7871.60s] English:** Но кооп — это любой тип игрового опыта, который мы переживаем вместе,  
+**[7871.60s] English:** But coop is any type of gaming experience we share together,  
 **Translation:** 
 
-**[7876.82s] English:** и при этом разделяем одинаковый, один и тот же игровой опыт, причем намеренно.  
-**Translation:** 
+**[7876.82s] English:** And yet, we share the same gaming experience deliberately.  
+**Translation:** Vocabulary: deliberately: 故意地
 
-**[7881.94s] English:** И это когда я делюсь им только с теми людьми, которых знаю.  
+**[7881.94s] English:** And this is when I share it only with those people whom I know.  
 **Translation:** 
 
-**[7887.22s] English:** Отличный пример кооператива.  
-**Translation:** 
+**[7887.22s] English:** A great example of a cooperative.  
+**Translation:** Vocabulary: cooperative: 协作社
 
-**[7888.96s] English:** Кооперативные игры, возможно, одно из лучших в истории, это Left 4 Dead.  
+**[7888.96s] English:** Cooperative games, possibly one of the best in history, is Left 4 Dead.  
 **Translation:** 
 
-**[7893.70s] English:** В этой игре играете вы и еще трое игроков.  
+**[7893.70s] English:** In this game, you play with four other players.  
 **Translation:** 
 
-**[7898.22s] English:** Вы вместе сражаетесь с ордами зомби и пытаетесь пробиться к убежищу в конце уровня.  
+**[7898.22s] English:** You together fight against hordes of zombies and try to make your way to the shelter at the end of the level.  
 **Translation:** 
 
-**[7904.14s] English:** Это классический кооператив.  
-**Translation:** 
+**[7904.14s] English:** This is a classical cooperative.  
+**Translation:** Vocabulary: hordes: 成群的; zombies: 丧尸
 
-**[7906.98s] English:** Или, например, игра Diablo 4.  
+**[7906.98s] English:** Or, for example, the game Diablo 4.  
 **Translation:** 
 
-**[7909.38s] English:** В нее тоже можно играть в кооперативе.  
-**Translation:** 
+**[7909.38s] English:** It can also be played cooperatively.  
+**Translation:** Vocabulary: cooperatively: 合作地; diablo: 迪亚波罗
 
-**[7912.74s] English:** А в следующем уровне стоит уже мультиплеер.  
+**[7912.74s] English:** In the next level, multiplayer is already available.  
 **Translation:** 
 
-**[7916.24s] English:** Здесь вы уже взаимодействуете с незнакомцами.  
-**Translation:** 
+**[7916.24s] English:** Here you are already interacting with strangers.  
+**Translation:** Vocabulary: interacting: 与他人互动
 
-**[7918.96s] English:** В общем, это классический кооператив.  
+**[7918.96s] English:** In general, this is a classical cooperative.  
 **Translation:** 
 
-**[7920.00s] English:** мире, и у вас может при этом и не быть общих целей. Ваши цели могут быть и прямо противоположными,  
+**[7920.00s] English:** In the world, and you may not have common goals. Your goals may be directly opposite.  
 **Translation:** 
 
-**[7928.62s] English:** вплоть до сражений с ними. Или это могут быть рандомные незнакомцы, которых вы случайно встречаете  
+**[7928.62s] English:** Up until encounters with them. Or these could be random strangers you happen to run into.  
 **Translation:** 
 
-**[7934.40s] English:** на карте, но больше вы их не увидите. Дальше идет уже массовый мультиплеер, что как раз и означает  
-**Translation:** 
+**[7934.40s] English:** On the map, but you won't see them more. The next is already mass multiplayer, which means  
+**Translation:** Vocabulary: encounters: 遇见
 
-**[7941.62s] English:** аббревиатура ММО, массовая многопользовательская онлайн-игра. Здесь вы уже взаимодействуете с  
+**[7941.62s] English:** Abbreviation: MMO, mass multiplayer online game. Here you already interact with  
 **Translation:** 
 
-**[7948.54s] English:** тысячами игроков, и миры в таких играх становятся по-настоящему огромными. Кстати, стоит добавить,  
-**Translation:** 
+**[7948.54s] English:** Thousands of players, and the worlds in such games become truly enormous. By the way, it's worth adding,  
+**Translation:** Vocabulary: abbreviation: 缩写
 
-**[7956.08s] English:** что кооператив бывает не только сетевым, есть еще и так называемый диванный кооператив для двух  
+**[7956.08s] English:** What's interesting is that cooperatives aren't just network-based; there's also what's called a couch cooperative for two.  
 **Translation:** 
 
-**[7964.84s] English:** человек. Есть игры, которые отлично сделаны для совместной игры двух людей, сидящих рядом. Это  
-**Translation:** 
+**[7964.84s] English:** Human. There are games that are great for two people playing together side by side. This  
+**Translation:** Vocabulary: cooperatives: 合作组织
 
-**[7972.02s] English:** сложнейшая задача для геймдизайнера, но если получается, то это невероятно приятный опыт.  
+**[7972.02s] English:** The task is incredibly complex for a game designer, but if it works out, it's an incredibly pleasant experience.  
 **Translation:** 
 
-**[7977.98s] English:** Да.  
+**[7977.98s] English:** Yes.  
 **Translation:** 
 
-**[7978.54s] English:** Например, можно поиграть с другом или близким человеком, и Диабло 4, надо сказать, пример отличной  
+**[7978.54s] English:** For example, you can play with a friend or someone close to you, and Diablo 4, to be honest, is an excellent example.  
 **Translation:** 
 
-**[7985.38s] English:** реализации. Там есть диванный кооператив, то есть двое, сидя рядом, могут играть в Диабло, и в этом есть  
-**Translation:** 
+**[7985.38s] English:** Realization. There is a couch co-op, so two people sitting next to each other can play Diablo, and this has  
+**Translation:** Vocabulary: realization: 实现
 
-**[7991.80s] English:** своя особая магия.  
+**[7991.80s] English:** It has its own special magic.  
 **Translation:** 
 
-**[7993.30s] English:** Да, забавно, что диванный кооп появился еще до диванов. Например, у некоторых старых аркадных автоматов  
+**[7993.30s] English:** Yes, it's funny that the couch coop appeared before couches. For example, some old arcade machines had a two-player mode where players sat on either side of the screen.  
 **Translation:** 
 
-**[7999.98s] English:** было по два джойстика, и можно было играть вдвоем с кем-то еще. Или, например, есть знаменитая игра  
+**[7999.98s] English:** There were two joysticks, and you could play with someone else. Or, for example, there's the famous game  
 **Translation:** 
 
-**[8008.54s] English:** с четырьмя джойстиками, и четыре человека играли вместе. А потом все, кто рос в ту раннюю консольную  
-**Translation:** 
+**[8008.54s] English:** With four joysticks, and four people played together. And then everyone who grew up in that early console era...  
+**Translation:** Vocabulary: console: 游戏机; joysticks: 操纵杆
 
-**[8014.44s] English:** эру, когда были NES, Sega Genesis, а это была легендарная приставка, мы садились и играли на диване в NHL  
+**[8014.44s] English:** In those days when we had NES and Sega Genesis, this was a legendary console, and we would sit on the couch playing NHL.  
 **Translation:** 
 
-**[8024.38s] English:** 93, и тот, кто проигрывал, тот отдавал джойстик другому. Так можно было играть вчетвером. Или вот  
-**Translation:** 
+**[8024.38s] English:** 93, and the one who was losing would hand over the joystick to another player. This way, four people could play. Or, here's an example:  
+**Translation:** Vocabulary: joystick: 手柄; legendary: 传奇的
 
-**[8033.98s] English:** я помню одно из крутейших игр, что тогда вышло, была Mortal Kombat.  
+**[8033.98s] English:** I remember one of the coolest games that came out back then was Mortal Kombat.  
 **Translation:** 
 
-**[8037.30s] English:** Мортал Комбо.  
-**Translation:** 
+**[8037.30s] English:** Mortal Kombat.  
+**Translation:** Vocabulary: mortal: 凡人
 
-**[8037.98s] English:** Мортал Комбат.  
+**[8037.98s] English:** Mortal Kombat.  
 **Translation:** 
 
-**[8039.12s] English:** И мы рубились.  
-**Translation:** 
+**[8039.12s] English:** We fought fiercely.  
+**Translation:** Vocabulary: fiercely: 猛烈地
 
-**[8040.00s] English:** Mortal Kombat на Sega Genesis, и домашнее правило было простое. Кто проиграл, неважно, в общаге ты или  
+**[8040.00s] English:** Mortal Kombat on Sega Genesis, and the home rule was simple: whoever lost, whether in the dorm or not, had to clean up the mess.  
 **Translation:** 
 
-**[8047.88s] English:** у своего друга в гостях, и если вас там пятеро, то вы постоянно менялись местами, играя по очереди.  
+**[8047.88s] English:** At my friend's place, and if there were five of us, we constantly switched places, playing in turns.  
 **Translation:** 
 
-**[8055.42s] English:** Но в этом-то и есть особая магия мультиплеера — вовлекаться и разделять этот опыт с другими  
+**[8055.42s] English:** But this is where the special magic of the multiplayer lies — getting involved and sharing this experience with others.  
 **Translation:** 
 
-**[8062.32s] English:** людьми. Поэтому я никогда не делал одиночных игр. Конечно, я ими восхищаюсь, но не уверен,  
+**[8062.32s] English:** By humans. Therefore, I have never made single-player games. Of course, I admire them, but I'm not sure,  
 **Translation:** 
 
-**[8071.50s] English:** что смог бы их делать. Причина, почему я люблю мультиплеер, кроется в моем описании работы  
+**[8071.50s] English:** What I could do with them. The reason why I love multiplayer lies in my description of working.  
 **Translation:** 
 
-**[8077.46s] English:** гейм-директора или гейм-дизайнера многопользовательской игры. Ну вот, представьте, что вы  
+**[8077.46s] English:** Game director or game designer of a multiplayer game. Well, imagine that you  
 **Translation:** 
 
-**[8084.52s] English:** кинорежиссер, и у вас есть все эти актеры, все эти декораторы, реквизиты,  
+**[8084.52s] English:** Director, and you have all these actors, decorators, props,  
 **Translation:** 
 
-**[8092.32s] English:** и там сценаристы, сценарии и все такое прочее, и ваша цель — снять определенный фильм.  
-**Translation:** 
+**[8092.32s] English:** And there, the screenwriters, scripts, and all that, and your goal is to shoot a specific film.  
+**Translation:** Vocabulary: decorators: 装饰师; props: 道具; screenwriters: 编剧
 
-**[8100.04s] English:** Но вас, как режиссера, мы попросим просто выйти из комнаты.  
+**[8100.04s] English:** But as the director, we will ask you to simply step out of the room.  
 **Translation:** 
 
-**[8107.02s] English:** Вы можете все подготовить заранее, но потом вам нельзя там находиться или говорить с кем-либо  
+**[8107.02s] English:** You can prepare everything in advance, but then you cannot be there or speak to anyone.  
 **Translation:** 
 
-**[8114.34s] English:** из участников, и теперь актеры должны сами получить свой опыт, и это просто самый дикий  
+**[8114.34s] English:** From the participants, and now the actors should get their own experience, and this is just the wildest.  
 **Translation:** 
 
-**[8121.46s] English:** и великолепный опыт.  
+**[8121.46s] English:** And a magnificent experience.  
 **Translation:** 
 
-**[8122.32s] English:** Веселый эксперимент.  
+**[8122.32s] English:** A happy experiment.  
 **Translation:** 
 
-**[8124.28s] English:** Если смотреть глазами дизайнера, то ты не знаешь, что создадут игроки.  
+**[8124.28s] English:** If you look at it from a designer's perspective, you won't know what players will create.  
 **Translation:** 
 
-**[8129.60s] English:** И за этим интересно наблюдать. Ты расставляешь фигуры на доске,  
+**[8129.60s] English:** It's interesting to observe this. You set up the pieces on the board,  
 **Translation:** 
 
-**[8133.36s] English:** создаешь мир, а потом смотришь, что из этого получится.  
+**[8133.36s] English:** You create the world, and then you see what this will turn into.  
 **Translation:** 
 
-**[8137.52s] English:** Точно.  
+**[8137.52s] English:** Exactly.  
 **Translation:** 
 
-**[8138.12s] English:** Мне это тяжело, потому что меня иногда считают противником сюжета в играх,  
-**Translation:** 
+**[8138.12s] English:** It's hard for me because sometimes I'm considered an opponent of the story in games.  
+**Translation:** Vocabulary: opponent: 对手
 
-**[8145.58s] English:** и это меня очень задевает, потому что я на самом деле обожаю сюжеты в играх.  
+**[8145.58s] English:** And this really bothers me, because I actually love storylines in games.  
 **Translation:** 
 
-**[8152.50s] English:** Я бы сказал так, я скорее противник хреновых сюжетов.  
-**Translation:** 
+**[8152.50s] English:** I would say that I am more of an opponent to bad plots.  
+**Translation:** Vocabulary: storylines: 故事情节
 
-**[8156.88s] English:** Я имею в виду, что, во-первых, самые волшебные сюжеты.  
+**[8156.88s] English:** I mean, first of all, the most magical stories.  
 **Translation:** 
 
-**[8160.00s] English:** История, которую я слышал из мира видеоигр, это истории самих игроков. Например, история о том, как я дал Барфи зелье, а потом встретил его в реале, ну типа это лучше любого готового сценария из всего количества, что я слышал. Истории игроков, они на порядок интереснее, понимаешь?  
-**Translation:** 
+**[8160.00s] English:** The history I've heard from the world of video games are the players' own stories. For example, the story about how I gave Barfi a potion and then met him in real life—that's way better than any ready-made scenario out of all that I've heard. Player stories are an order of magnitude more interesting, you know?  
+**Translation:** Vocabulary: potion: 药水; scenario: 情节
 
-**[8185.46s] English:** Лекс, почему так нравится коровий уровень? Расскажи ту забавную историю, как гоблин-сокровищник заманил тебя в самое пекло, а там был другой игрок и... ну ты понимаешь. Вот такие истории из игр, по-моему, есть самые интересные.  
+**[8185.46s] English:** Lex, why does the cow level appeal so much? Tell that funny story about how the goblin treasure hunter lured you into hot water, and there was another player... you know what I mean. Those kinds of stories from games, in my opinion, are the most interesting.  
 **Translation:** 
 
-**[8200.84s] English:** В индустрии видеоигр, конечно, есть выдающиеся сценаристы, и конечно есть исключительные сюжетные игры. Я уже упоминал тех же Naughty Dog, они просто на другом уровне.  
+**[8200.84s] English:** In the video game industry, of course, there are outstanding writers, and of course, there are exceptional narrative games. I already mentioned Naughty Dog; they are simply on another level.  
 **Translation:** 
 
-**[8213.86s] English:** Но Valve...  
+**[8213.86s] English:** But Valve,...  
 **Translation:** 
 
-**[8215.46s] English:** Сценарии потрясающие.  
-**Translation:** Vocabulary: valve: 阀门
+**[8215.46s] English:** Scenarios are amazing.  
+**Translation:** Vocabulary: scenarios: 情景; valve: 阀门
 
-**[8217.64s] English:** Сценарий Half-Life 2 от Марка Лейдло, или, например, сценарий Portal и Portal 2, его, кажется, писал Эрик Уолпо, он уморительный парень, просто потрясающий.  
+**[8217.64s] English:** The screenplay for Half-Life 2, by Mark Leidlow, or, for example, the screenplays for Portal and Portal 2, seem to have been written by Eric Wolpoff. He's an amusing fellow, simply fantastic.  
 **Translation:** 
 
-**[8231.46s] English:** И, конечно, Rockstar.  
-**Translation:** Vocabulary: rockstar: 摇滚明星
+**[8231.46s] English:** And, of course, Rockstar.  
+**Translation:** Vocabulary: leidlow: 莱德洛; rockstar: 摇滚; screenplay: 剧本; screenplays: 剧本; wolpoff: 沃尔波夫
 
-**[8234.22s] English:** Red Dead Redemption 2  
+**[8234.22s] English:** Red Dead Redemption 2.  
 **Translation:** 
 
-**[8235.84s] English:** Одна из моих любимейших игр всех времен.  
+**[8235.84s] English:** One of my favorite games of all time.  
 **Translation:** Vocabulary: redemption: 救赎
 
-**[8239.46s] English:** И это игра, в которой...  
+**[8239.46s] English:** This is a game in which...  
 **Translation:** 
 
-**[8242.32s] English:** Мастерство геймдизайна и нарративного дизайна...  
+**[8242.32s] English:** Mastership of game design and narrative design,...  
+**Translation:** Vocabulary: mastership: 精通
+
+**[8245.46s] English:** Slivaются таким образом, что там могут рождаться те самые невероятные истории игроков....  
 **Translation:** 
 
-**[8245.46s] English:** Сливаются таким образом, что там могут рождаться те самые невероятные истории игроков...  
+**[8253.46s] English:** Due to all sorts of nonsense.  
 **Translation:** 
 
-**[8253.46s] English:** Из-за всякой ерунды.  
+**[8255.46s] English:** For example, I remember...  
 **Translation:** 
 
-**[8255.46s] English:** Например, я помню...  
+**[8257.46s] English:** Simply, the control management in Red Dead Redemption is a bit clunky for a PC player who is used to playing on consoles.  
+**Translation:** Vocabulary: clunky: 笨拙; consoles: 游戏机
+
+**[8263.46s] English:** I keep getting mixed up when...  
 **Translation:** 
 
-**[8257.46s] English:** Просто управление в Red Dead Redemption немного корявое для ПКшника, который играет на консоли.  
+**[8265.46s] English:** I'm trying to get my weapon, or when I need to put it away, and...  
 **Translation:** 
 
-**[8263.46s] English:** Я вечно путаюсь, когда...  
+**[8269.46s] English:** What's on L1, what on L2,...  
 **Translation:** 
 
-**[8265.46s] English:** Пытаюсь достать оружие, или когда нужно убрать, и...  
+**[8271.46s] English:** I'm just a PC gamer, I'm such...  
+**Translation:** Vocabulary: gamer: 玩家
+
+**[8273.46s] English:** Give me a chance to bind everything the way I want.  
 **Translation:** 
 
-**[8269.46s] English:** Что там на L1, что на L2...  
+**[8275.46s] English:** Here comes a guy riding through the city, and he's kind of...  
 **Translation:** 
 
-**[8271.46s] English:** Я же ПК-геймер, я такой...  
+**[8279.46s] English:** Great!  
 **Translation:** 
 
-**[8273.46s] English:** Дайте мне забиндить всё, как я хочу.  
+**[8280.00s] English:** Partner, and I am trying to respond in the spirit of Arthur Morgan, you know, like him, but instead just  
 **Translation:** 
 
-**[8275.46s] English:** И вот, едет по городу какой-то парень, и он такой...  
+**[8286.82s] English:** I grabbed my knife and sliced his head off, sending it flying. Suddenly, the whole city was in an uproar, and here we are.  
 **Translation:** 
 
-**[8279.46s] English:** Здорово!  
+**[8294.46s] English:** Suddenly, I'm on the run and they're chasing me, and then there's a train that knocks over the pursuing squad. And here  
+**Translation:** Vocabulary: chasing: 追捕; sliced: 切下; uproar: 骚乱
+
+**[8301.84s] English:** Such stories are what in RDR can coexist and such and a touching heart-wrenching tale.  
 **Translation:** 
 
-**[8280.00s] English:** партнер а я пытаюсь ему ответить в духе артура моргана знаешь ей как дела но вместо этого просто  
+**[8307.84s] English:** Arthur Morgan's path, and simultaneously, the history of the player who decapitates the poor fellow who.  
+**Translation:** Vocabulary: coexist: 共存; decapitates: 砍头
+
+**[8313.62s] English:** I wanted to say hello, and the essence of it, and Rockstar are true masters in this. Take, for example, GTA with its radio.  
 **Translation:** 
 
-**[8286.82s] English:** выхватываю свой обрез и сношу ему башку к ебенем матери и тут уже весь город встает на уши и вот  
+**[8320.10s] English:** It seems like this is a secondary aspect, but there's actually an excellent scenario that helps create.  
+**Translation:** Vocabulary: rockstar: 顶尖高手; scenario: 情景设置
+
+**[8328.54s] English:** In Red Dead Redemption, the world is filled with humor, colors, depth, and drama, and there are moments where  
 **Translation:** 
 
-**[8294.46s] English:** внезапно я в розыске за мной гонятся а тут еще и поезд который сносит отряд преследователей и вот  
+**[8336.22s] English:** He  
+**Translation:** Vocabulary: redemption: 救赎
+
+**[8337.84s] English:** There's a song by Daniel Luna playing, "That's the Way It Is." I just love Daniel Luna and that song.  
 **Translation:** 
 
-**[8301.84s] English:** такие истории это что в рдр может уживаться и такое и трогательная душераздирающая история  
+**[8346.36s] English:** Rockstar somehow managed to find him and convince him to give rights to this song in general.  
 **Translation:** 
 
-**[8307.84s] English:** артура моргана его пути и одновременно история игрока который сносит голову бедолаги который  
+**[8356.96s] English:** There's a moment when you're jumping back and they play this song, and yeah, before that there was music too.  
 **Translation:** 
 
-**[8313.62s] English:** хотел поздороваться вся и суть и rockstar в этом настоящие мастера взять ту же gta с ее радио  
+**[8362.40s] English:** This was magnificent, but it was more of an instrumental soundtrack over which Woody Leo worked.  
+**Translation:** Vocabulary: soundtrack: 电影配乐
+
+**[8367.84s] English:** Jackson is a fantastic gaming composer and, without competitors, Yooa Dakshan CM wrote  
 **Translation:** 
 
-**[8320.10s] English:** казалось бы это второстепенный аспект но какой там отличный сценарий который помогает создать  
+**[8372.14s] English:** Music for the game, and there was no vocals or lyrics in it. Then they played Luna and on  
+**Translation:** Vocabulary: dakshan: 优秀; vocals: 人声
+
+**[8378.98s] English:** On the screen, flashbacks of quotes from Hell, Arthur Morgan's cup, and I say, "Motherfuckers, this is art.  
 **Translation:** 
 
-**[8328.54s] English:** мир до наполняя его юмором красками глубиной и драмой в red dead redemption есть момент где  
+**[8389.06s] English:** I understand it should be for entertainment and you know it's a business, but at the top, everyone knows.  
+**Translation:** Vocabulary: flashbacks: 片段; motherfuckers: 狗娘养的; quotes: 引语
+
+**[8393.70s] English:** All of this pyramid is built on art, and it emotionally affects me.  
 **Translation:** 
 
-**[8336.22s] English:** он  
+**[8397.62s] English:** It struck.  
+**Translation:** Vocabulary: pyramid: 金字塔
+
+**[8398.62s] English:** Yes, there are such games.  
 **Translation:** 
 
-**[8337.84s] English:** там играет песня дэниэла лунуа that's the way it is я просто обожаю дэниэл лунуа и то что  
+**[8400.00s] English:** Where at that moment...  
 **Translation:** 
 
-**[8346.36s] English:** rockstar каким-то образом его отыскали и смогли уговорить его дать права на эту песню в общем  
+**[8402.40s] English:** Just imagine how many people were moved to tears at that moment.  
 **Translation:** 
 
-**[8356.96s] English:** там есть момент когда ты скачешь назад и они врубают эту песню и да до этого музыка была  
+**[8406.16s] English:** And this, in essence, reflects how deeply you have immersed yourself in this world.  
+**Translation:** Vocabulary: immersed: 沉浸
+
+**[8410.44s] English:** Got into the characters, and that's wonderful.  
 **Translation:** 
 
-**[8362.40s] English:** великолепной но это был скорее инструментальный саундтрек над ней работал вуди лео  
+**[8414.34s] English:** I should ask about the picture you sent me.  
 **Translation:** 
 
-**[8367.84s] English:** джексон потрясающий игровой композитор и без снарция конкурентов 유ова дакшан cm-он написал  
+**[8417.26s] English:** She is very cool, so it would be worth diving into this.  
 **Translation:** 
 
-**[8372.14s] English:** музыку для игры и потому в ней не было вокала не было слов и тут они включают лунуа и на  
+**[8421.22s] English:** For transitions between zones in the original World of Warcraft.  
+**Translation:** Vocabulary: transitions: 区域切换; warcraft: 魔兽世界
+
+**[8426.34s] English:** Here is a whole bunch of zones.  
 **Translation:** 
 
-**[8378.98s] English:** экране выплывают флешбек цитаты ада чаша артура моргана и и я такой мать твою это же это искусство  
+**[8427.86s] English:** It would be great if you could tell how this world was created.  
 **Translation:** 
 
-**[8389.06s] English:** я понимаю это должно быть развлечением и понимаешь что это бизнес но на вершине все это людоизвестно  
+**[8431.12s] English:** Transfer me to the time when you came up with this.  
 **Translation:** 
 
-**[8393.70s] English:** всей этой пирамиды зиждется искусство, и это меня эмоционально  
+**[8433.46s] English:** Before anyone got involved with it.  
 **Translation:** 
 
-**[8397.62s] English:** сразило.  
+**[8435.50s] English:** All that pertained to Vov....  
 **Translation:** 
 
-**[8398.62s] English:** Да, есть такие игры.  
+**[8437.70s] English:** In general, it all began with inspiration, with Chris and his world.  
+**Translation:** Vocabulary: pertained: 与...有关
+
+**[8443.20s] English:** And...  
 **Translation:** 
 
-**[8400.00s] English:** где в этот момент...  
+**[8443.64s] English:** Knows, it was so great working with Chris,  
 **Translation:** 
 
-**[8402.40s] English:** Только представь, сколько людей прослезилось в этот момент.  
+**[8446.56s] English:** Because everywhere we had signs hanging up,  
 **Translation:** 
 
-**[8406.16s] English:** И это, по сути, отражение того, как сильно ты погрузился в этот мир,  
+**[8449.34s] English:** And we said, "Hey, Chris, let's tackle the Eastern Kingdoms.  
+**Translation:** Vocabulary: tackle: 应对
+
+**[8453.72s] English:** How should they be?  
 **Translation:** 
 
-**[8410.44s] English:** вжился в персонажей, и это прекрасно.  
+**[8455.60s] English:** Here he would immediately start telling a story,  
 **Translation:** 
 
-**[8414.34s] English:** Должен спросить про ту картинку, что ты мне прислал.  
+**[8457.86s] English:** Each location, right as he was painting it.  
 **Translation:** 
 
-**[8417.26s] English:** Она очень крутая, так что хотелось бы в это углубиться,  
+**[8461.26s] English:** Chris is a fantastic artist.  
 **Translation:** 
 
-**[8421.22s] English:** в эту схему переходов между зонами для оригинального World of Warcraft.  
+**[8463.32s] English:** So, the map turned out to be fantastic.  
+**Translation:** 
+
+**[8465.70s] English:** I have a bunch of photos of Chris's cards,  
+**Translation:** 
+
+**[8469.00s] English:** Which he sketched directly on the board.  
+**Translation:** 
+
+**[8471.26s] English:** He said, "Here are the Dwarf lands,  
+**Translation:** Vocabulary: sketched: 草图绘制
+
+**[8474.70s] English:** Here is Vetaland with Kazmodan, there,  
+**Translation:** 
+
+**[8478.06s] English:** And it was from there that the Dwarf clan originated.  
+**Translation:** Vocabulary: kazmodan: 卡兹莫丹; originated: 起源; vetaland: 维塔兰
+
+**[8481.90s] English:** Then down there in Elfwood Forest will be people.  
+**Translation:** 
+
+**[8485.64s] English:** Then will be the Western Region,  
+**Translation:** Vocabulary: elfwood: 精灵木
+
+**[8487.86s] English:** There is Banda, Brotherhood of Justice,  
+**Translation:** 
+
+**[8491.20s] English:** And they have a place called "Dead Copies".  
+**Translation:** 
+
+**[8494.16s] English:** Here I had a conversation with Chris because you want to capture that spirit.  
+**Translation:** 
+
+**[8498.50s] English:** As a game designer, you want to convey those feelings,  
+**Translation:** 
+
+**[8501.80s] English:** Which are already in people's heads.  
+**Translation:** 
+
+**[8504.00s] English:** Here, for example, are The Burned Lands.  
+**Translation:** 
+
+**[8507.56s] English:** It was supposed to be one of the scariest places.  
+**Translation:** 
+
+**[8511.16s] English:** With lava, dragons, and all that good stuff.  
+**Translation:** Vocabulary: dragons: 龙; scariest: 最可怕的
+
+**[8514.96s] English:** This doesn't seem like a place from which one would want to start.  
+**Translation:** 
+
+**[8517.86s] English:** Rather at where one wants to finish.  
+**Translation:** 
+
+**[8520.00s] English:** Therefore, you construct the world in such a way that this place ends up at the end of the path.  
+**Translation:** 
+
+**[8526.72s] English:** But it cannot be denied that there was also a certain magic in the starting locations.  
+**Translation:** 
+
+**[8532.36s] English:** We gave dwarves and humans a free flight route.  
+**Translation:** 
+
+**[8537.12s] English:** Between the dwarven capital city of Steelhorn and the human capital, Stormwind.  
+**Translation:** Vocabulary: dwarven: 矮人的; dwarves: 矮人; steelhorn: 钢角; stormwind: 风暴之风
+
+**[8543.32s] English:** We allowed them to fly for free,  
+**Translation:** 
+
+**[8545.72s] English:** So all newcomers who were at level five...  
+**Translation:** Vocabulary: newcomers: 新来的玩家
+
+**[8551.88s] English:** If you are a dwarf and I am a human, then I could say,  
+**Translation:** 
+
+**[8554.98s] English:** Lex, don't worry, I'll be there.  
+**Translation:** 
+
+**[8556.88s] English:** I will fly to Stalhorn, and we'll meet there. "I'll just fly to you.  
+**Translation:** 
+
+**[8561.38s] English:** In this lies the magic of World of Warcraft.  
+**Translation:** Vocabulary: stalhorn: 石角; warcraft: Warcraft
+
+**[8563.74s] English:** You have to fly over scorched earth and sticky valleys.  
+**Translation:** 
+
+**[8567.74s] English:** And you look down and think,  
+**Translation:** Vocabulary: scorched: 焦土
+
+**[8569.24s] English:** By God, it's terrifying and dangerous there!  
+**Translation:** 
+
+**[8572.86s] English:** And this sows the seed of upcoming adventures in you.  
+**Translation:** Vocabulary: terrifying: 可怕的; upcoming: 即将发生的
+
+**[8576.62s] English:** You created several incredible quests.  
+**Translation:** 
+
+**[8579.78s] English:** Are there any among them that you particularly take pride in or feel ashamed of?  
+**Translation:** Vocabulary: quests: 任务
+
+**[8584.08s] English:** Since you, as is known, created the "Green Hills of Troubled Valley" quest.  
+**Translation:** 
+
+**[8588.90s] English:** One of the most infamous quests in the history of WoW,  
+**Translation:** Vocabulary: infamous: 臭名昭著的
+
+**[8592.86s] English:** In the history of games, where players needed to collect a bunch of pages.  
+**Translation:** 
+
+**[8596.06s] English:** Yes.  
+**Translation:** 
+
+**[8596.98s] English:** Green Hills of Tortuous Valley.  
+**Translation:** 
+
+**[8599.60s] English:** May be, you could comment on it or any other quest?  
+**Translation:** Vocabulary: tortuous: 曲折的
+
+**[8603.90s] English:** Which one comes to mind?  
+**Translation:** 
+
+**[8605.72s] English:** Green Hills of Terrene Valley" are very dear to me,  
+**Translation:** Vocabulary: terrene: 地面的
+
+**[8610.54s] English:** Because among World of Warcraft players back then,  
+**Translation:** 
+
+**[8614.46s] English:** He was unanimously hated as one of the worst and most irritating quests.  
+**Translation:** Vocabulary: irritating: 令人烦躁; unanimously: 一致地
+
+**[8621.26s] English:** But he holds a special place in my heart.  
+**Translation:** 
+
+**[8624.96s] English:** Firstly, this is one of the few cases when I simply wrote a short story.  
+**Translation:** 
+
+**[8630.82s] English:** Which completely entered the game.  
+**Translation:** 
+
+**[8632.38s] English:** This is a tribute to Ernest Hemingway,  
+**Translation:** Vocabulary: hemingway: 海明威; tribute: 致敬
+
+**[8635.72s] English:** The character who gives out the quest is called Hemingway.  
+**Translation:** 
+
+**[8640.00s] English:** I simply switched the positions of the letters in Hemingway's surname.  
+**Translation:** 
+
+**[8646.98s] English:** There is another questgiver with an anagram of the name Kerouac there as well.  
+**Translation:** 
+
+**[8651.40s] English:** There too, it's a play on words.  
+**Translation:** Vocabulary: anagram: 打乱字母; questgiver: 任务发布者
+
+**[8654.72s] English:** And then it was just the typical arrogance of the junior game designer,  
+**Translation:** 
+
+**[8661.24s] English:** Which considers itself the smartest, while in reality it's just a fool.  
+**Translation:** 
+
+**[8665.82s] English:** Here's what this quest is about, if you want a brief overview.  
+**Translation:** 
+
+**[8668.88s] English:** In general, I wrote this story, I think, during a winter vacation.  
+**Translation:** 
+
+**[8675.12s] English:** All had left, but I was so glad to be alone in the office.  
+**Translation:** 
+
+**[8680.00s] English:** Imagine, I'm alone in Blizzard, writing late into the night.  
+**Translation:** Vocabulary: blizzard: 暴雪公司
+
+**[8684.72s] English:** The idea is in that...  
+**Translation:** 
+
+**[8686.54s] English:** Nu, that is, I call this farm ant colony design.  
+**Translation:** 
+
+**[8690.02s] English:** This is a bad approach.  
+**Translation:** 
+
+**[8691.94s] English:** Knows, this is when you as a game designer start to think of yourself as a god,  
+**Translation:** 
+
+**[8695.76s] English:** The players are ants in your farm.  
+**Translation:** 
+
+**[8698.36s] English:** And you just doubt.  
+**Translation:** 
+
+**[8698.88s] English:** And you just watch what they will do.  
+**Translation:** 
+
+**[8701.18s] English:** A good designer of multiplayer games does not act this way.  
+**Translation:** 
+
+**[8705.64s] English:** But then I didn't understand that at the time.  
+**Translation:** 
+
+**[8708.44s] English:** There is a famous quote by Sid Meier,  
+**Translation:** 
+
+**[8714.90s] English:** There are three types of fan.  
+**Translation:** 
+
+**[8717.92s] English:** Fan for the player, fan for the designer, and fan for the computer.  
+**Translation:** 
+
+**[8722.98s] English:** We constantly remind ourselves to be careful.  
+**Translation:** 
+
+**[8726.58s] English:** The game should provide fun for the player.  
+**Translation:** 
+
+**[8728.88s] English:** So, the "Green Hills" quest was an example of such ant farm design.  
+**Translation:** 
+
+**[8735.38s] English:** Type, I'll write this, honestly, quite a crap story.  
+**Translation:** 
+
+**[8738.88s] English:** I haven't re-read it since 2003, so who knows how good it is.  
+**Translation:** 
+
+**[8743.88s] English:** But I wrote a story and then scattered it across many separate pages.  
+**Translation:** 
+
+**[8748.88s] English:** Here, questmaster Hemming Ernest Way wants you to gather them.  
+**Translation:** 
+
+**[8753.88s] English:** In the plot, he wrote a book, but its pages scattered all over Terania.  
+**Translation:** 
+
+**[8758.88s] English:** And this was in the Valley of Tears.  
+**Translation:** 
+
+**[8759.88s] English:** And this was in the Valley of Tears.  
+**Translation:** 
+
+**[8760.00s] English:** When designing quests, you first think about the flow in which players are engaged.  
+**Translation:** 
+
+**[8768.34s] English:** How to guide them from quest hubs to various points on the location so they can visit everywhere.  
+**Translation:** Vocabulary: quests: 任务
+
+**[8775.18s] English:** But sometimes we made connecting quests that could be done anywhere in the location, and they would run as a background.  
+**Translation:** 
+
+**[8782.38s] English:** Here, the pages of green hills of the Wretched Valley fell from any mob in this location.  
+**Translation:** Vocabulary: wretched: 悲惨的
+
+**[8791.40s] English:** This was reminiscent of McDonald's Monopoly game,  
+**Translation:** 
+
+**[8796.60s] English:** Where you need to gather the entire set, otherwise you won't win.  
+**Translation:** Vocabulary: monopoly: 垄断游戏; reminiscent: 类似
+
+**[8801.28s] English:** But where I really blew it was that this idea wasn't so bad on its own, anyway.  
+**Translation:** 
+
+**[8807.92s] English:** But in fact, it was the interface that spoiled everything.  
+**Translation:** Vocabulary: interface: 接口
+
+**[8811.80s] English:** The interface of World of Warcraft was not designed for this.  
+**Translation:** 
+
+**[8815.28s] English:** For example, the pages didn't stack properly, and there was no separate storage to keep them organized.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[8426.34s] English:** Здесь целая куча зон.  
+**[8822.02s] English:** And players already had very little space in their bags.  
 **Translation:** 
 
-**[8427.86s] English:** Было бы здорово, если бы ты рассказал, как создавался этот мир.  
-**Translation:** 
-
-**[8431.12s] English:** Перенеси меня в то время, когда вы это придумывали,  
-**Translation:** 
-
-**[8433.46s] English:** до того, как в это кто-то поиграл.  
-**Translation:** 
-
-**[8435.50s] English:** Все, что касалось Вов...  
-**Translation:** 
-
-**[8437.70s] English:** В общем, все начиналось с вдохновения, с Криса и его мира.  
-**Translation:** 
-
-**[8443.20s] English:** И...  
-**Translation:** 
-
-**[8443.64s] English:** Знаешь, было так здорово работать с Крисом,  
-**Translation:** 
-
-**[8446.56s] English:** потому что у нас повсюду висели доски,  
-**Translation:** 
-
-**[8449.34s] English:** и мы говорили, «Эй, Крис, давай займемся Восточными Королевствами.  
-**Translation:** 
-
-**[8453.72s] English:** Какими они должны быть?»  
-**Translation:** 
-
-**[8455.60s] English:** И тут же начинал рассказывать историю,  
-**Translation:** 
-
-**[8457.86s] English:** каждой локации, прямо пока рисовал.  
-**Translation:** 
-
-**[8461.26s] English:** А Крис — потрясающий художник.  
-**Translation:** 
-
-**[8463.32s] English:** Так что карта получалась шикарной.  
-**Translation:** 
-
-**[8465.70s] English:** У меня сохранилась куча фотографий карт Криса,  
-**Translation:** 
-
-**[8469.00s] English:** которые он набрасывал прямо на доске.  
-**Translation:** 
-
-**[8471.26s] English:** Он говорил, «Вот земли Дворфов,  
-**Translation:** 
-
-**[8474.70s] English:** вот Ветленд с Казмоданом вот там,  
-**Translation:** 
-
-**[8478.06s] English:** и именно оттуда пошел тот самый клан Дворфов,  
-**Translation:** 
-
-**[8481.90s] English:** а потом вон там ниже будут люди в Элвинском лесу,  
-**Translation:** 
-
-**[8485.64s] English:** а потом будет Западный край,  
-**Translation:** 
-
-**[8487.86s] English:** там Банда, Братство Справедливости,  
-**Translation:** 
-
-**[8491.20s] English:** и у них есть место под названием «Мертвые копии».  
-**Translation:** 
-
-**[8494.16s] English:** И вот я разговаривал с Крисом, потому что ты хочешь уловить этот дух.  
-**Translation:** 
-
-**[8498.50s] English:** Как геймдизайнер, ты хочешь передать те ощущения,  
-**Translation:** 
-
-**[8501.80s] English:** которые уже есть в головах у людей.  
-**Translation:** 
-
-**[8504.00s] English:** И вот, например, Выжженные земли,  
-**Translation:** 
-
-**[8507.56s] English:** предполагалось, что это будет одно из самых страшных мест  
-**Translation:** 
-
-**[8511.16s] English:** с лавой, драконами и всем таким прочим.  
-**Translation:** 
-
-**[8514.96s] English:** Это не похоже на место, с которого хочется начать.  
-**Translation:** 
-
-**[8517.86s] English:** Скорее на то, где хочется закончить.  
-**Translation:** 
-
-**[8520.00s] English:** Поэтому ты выстраиваешь мир так, чтобы это место оказалось в конце пути.  
-**Translation:** 
-
-**[8526.72s] English:** Но нельзя отрицать, что в стартовых локациях тоже была своя магия.  
-**Translation:** 
-
-**[8532.36s] English:** Мы дали дворфам и людям бесплатный маршрут полетов  
-**Translation:** 
-
-**[8537.12s] English:** между городом-столицей дворфов под названием Стальгорн и столицей людей, Штормградом.  
-**Translation:** 
-
-**[8543.32s] English:** Мы позволили им летать бесплатно,  
-**Translation:** 
-
-**[8545.72s] English:** так что все новички, которые были, скажем, пятого уровня...  
-**Translation:** 
-
-**[8551.88s] English:** Если ты дворф, а я человек, то я мог сказать,  
-**Translation:** 
-
-**[8554.98s] English:** «Лекс, не волнуйся, я прилечу.  
-**Translation:** 
-
-**[8556.88s] English:** Я прилечу в Стальгорн, и мы там встретимся. Я просто прилечу к тебе».  
-**Translation:** 
-
-**[8561.38s] English:** В этом и есть магия World of Warcraft.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[8563.74s] English:** Тебе приходится лететь над выжженными землями и клеющим ущельем,  
-**Translation:** 
-
-**[8567.74s] English:** и ты смотришь вниз и думаешь,  
-**Translation:** 
-
-**[8569.24s] English:** «Черт побери, как же там страшно и опасно!»  
-**Translation:** 
-
-**[8572.86s] English:** И это сеет в тебе зерно грядущих приключений.  
-**Translation:** 
-
-**[8576.62s] English:** Ты создал несколько невероятных квестов.  
-**Translation:** 
-
-**[8579.78s] English:** Есть ли среди них такие, которыми ты особо гордишься или которых стыдишься?  
-**Translation:** 
-
-**[8584.08s] English:** Ведь ты, как известно, создал «Зеленые холмы Тернистой долины» квест.  
-**Translation:** 
-
-**[8588.90s] English:** Один из самых печально известных квестов в истории WoW,  
-**Translation:** 
-
-**[8592.86s] English:** в истории игр в целом, где нужно было собрать кучу страниц.  
-**Translation:** 
-
-**[8596.06s] English:** Да.  
-**Translation:** 
-
-**[8596.98s] English:** «Зеленые холмы Тернистой долины».  
-**Translation:** 
-
-**[8599.60s] English:** Может, ты прокомментируешь его или любой другой квест,  
-**Translation:** 
-
-**[8603.90s] English:** который приходит на ум?  
-**Translation:** 
-
-**[8605.72s] English:** «Зеленые холмы Тернистой долины» очень дороги мне,  
-**Translation:** 
-
-**[8610.54s] English:** потому что среди игроков WoW в те времена  
-**Translation:** 
-
-**[8614.46s] English:** его единодушно ненавидели как один из самых дерьмовых и раздражающих квестов.  
-**Translation:** 
-
-**[8621.26s] English:** Но он занимает особое место в моем сердце.  
-**Translation:** 
-
-**[8624.96s] English:** Во-первых, это один из немногих случаев, когда я просто написал короткий рассказ,  
-**Translation:** 
-
-**[8630.82s] English:** который целиком вошел в игру.  
-**Translation:** 
-
-**[8632.38s] English:** Это дань уважения Эрнесту Хемингуэйту,  
-**Translation:** 
-
-**[8635.72s] English:** а персонажа, который выдает квест, зовут Хемингуэйт.  
-**Translation:** 
-
-**[8640.00s] English:** Я просто поменял местами буквы фамилии Хемингуэя.  
-**Translation:** 
-
-**[8646.98s] English:** Там есть и другой квестодатель с анаграммой имени Керуака.  
-**Translation:** 
-
-**[8651.40s] English:** Там тоже игра букв.  
-**Translation:** 
-
-**[8654.72s] English:** А дальше это уже было типичное высокомерие младшего геймдизайнера,  
-**Translation:** 
-
-**[8661.24s] English:** который считает себя самым умным, а на деле просто придурок.  
-**Translation:** 
-
-**[8665.82s] English:** Вот что это за квест, если говорить вкратце.  
-**Translation:** 
-
-**[8668.88s] English:** В общем, я написал этот рассказ, по-моему, вроде в зимнем отпуске.  
-**Translation:** 
-
-**[8675.12s] English:** Все разъехались, а я был так рад остаться один в офисе.  
-**Translation:** 
-
-**[8680.00s] English:** Представь, я один в Близзард, пишу до поздней ночи.  
-**Translation:** 
-
-**[8684.72s] English:** А вся идея в том...  
-**Translation:** 
-
-**[8686.54s] English:** Ну то есть я называю это дизайном в стиле муравьиной фермы.  
-**Translation:** 
-
-**[8690.02s] English:** Это плохой подход.  
-**Translation:** 
-
-**[8691.94s] English:** Знаешь, это когда ты как геймдизайнер возомнил себя богом,  
-**Translation:** 
-
-**[8695.76s] English:** а игроки — это муравьи в твоей ферме,  
-**Translation:** 
-
-**[8698.36s] English:** и ты просто сомневаешься.  
-**Translation:** 
-
-**[8698.88s] English:** И ты просто смотришь, что они сделают.  
-**Translation:** 
-
-**[8701.18s] English:** Хороший дизайнер мультиплеерных игр так не поступает.  
-**Translation:** 
-
-**[8705.64s] English:** Но тогда я этого еще не понимал.  
-**Translation:** 
-
-**[8708.44s] English:** И есть такая знаменитая цитата Сида Мейера,  
-**Translation:** 
+**[8825.26s] English:** While they farmed in the Muddy Valley, I just inundated their inventory with these pages.  
+**Translation:** Vocabulary: inundated: 淹没
 
-**[8714.90s] English:** что существует три вида фана.  
+**[8833.44s] English:** Well, they only needed a part of it, and you might have been unlucky, ending up with three-fifths of the pages.  
 **Translation:** 
 
-**[8717.92s] English:** Фан для игрока, фан для дизайнера и фан для компьютера.  
-**Translation:** 
-
-**[8722.98s] English:** И мы постоянно напоминаем себе, что надо быть осторожными.  
-**Translation:** 
-
-**[8726.58s] English:** Игра должна доставлять фан игроку.  
-**Translation:** 
-
-**[8728.88s] English:** Так вот, квест «Зеленые холмы» был примером такого дизайна муравьиной фермы.  
-**Translation:** 
-
-**[8735.38s] English:** Типа, я напишу этот, честно говоря, довольно дерьмовый рассказ.  
-**Translation:** 
-
-**[8738.88s] English:** Я его не перечитывал с 2003-го, так что бог знает, насколько он хорош.  
-**Translation:** 
-
-**[8743.88s] English:** Но я написал рассказ, а потом раскидал его по множеству отдельных страниц.  
-**Translation:** 
-
-**[8748.88s] English:** И вот квестодатель Хемминг Эрнест Уэй хочет, чтобы вы их собрали.  
-**Translation:** 
-
-**[8753.88s] English:** По сюжету он написал книгу, но ее страница разбросала по всей Тернии.  
-**Translation:** 
-
-**[8758.88s] English:** И это было в Тернистой долине.  
-**Translation:** 
-
-**[8759.88s] English:** И это было в Тернистой долине.  
-**Translation:** 
-
-**[8760.00s] English:** И когда проектируешь квесты, то в первую очередь думаешь о потоке, в котором пребывают игроки.  
-**Translation:** 
-
-**[8768.34s] English:** Как вести их из квестовых хабов по разным точкам на локации, чтобы они побывали везде.  
-**Translation:** 
-
-**[8775.18s] English:** Но иногда мы делали и связующие квесты, которые можно делать где угодно в локации, и они как бы шли фоном.  
-**Translation:** 
+**[8839.76s] English:** This is just trash in the bags.  
+**Translation:** Vocabulary: unlucky: 倒霉
 
-**[8782.38s] English:** И вот страницы зеленых холмов Тернистой долины падали с любого моба в этой локации.  
+**[8842.06s] English:** For example, I have eight-sixths.  
 **Translation:** 
 
-**[8791.40s] English:** Это было похоже на подобие Монополии из Макдональдса,  
+**[8846.06s] English:** The idea was to get everyone started communicating.  
 **Translation:** 
 
-**[8796.60s] English:** где надо собрать весь набор, иначе не победишь.  
+**[8849.58s] English:** I, as a puppet designer, wanted everyone in the chat to write something like,  
 **Translation:** 
 
-**[8801.28s] English:** Но где я реально облажался, а ведь сама по себе эта идея была не так уж и плоха,  
+**[8854.34s] English:** I am looking for page six," or "Does anyone have the third one?  
 **Translation:** 
 
-**[8807.92s] English:** но на самом деле все испортил интерфейс.  
+**[8858.84s] English:** Here was my designer's fantasy.  
 **Translation:** 
 
-**[8811.80s] English:** Интерфейс World of Warcraft был под это не заточен.  
+**[8861.66s] English:** What, they say, is that people will start communicating, making friends, and will be grateful to each other.  
 **Translation:** 
 
-**[8815.28s] English:** Например, страницы не стакались, для них не было отдельного хранилища, чтобы их складывать,  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[8822.02s] English:** а у игроков и так было очень мало места в сумках.  
-**Translation:** 
-
-**[8825.26s] English:** И пока они фармили в Тернистой долине, я просто засирал им инвентарь этими страницами.  
-**Translation:** 
-
-**[8833.44s] English:** А ведь им нужна была только часть, тебе могло не везти, и у тебя, скажем, три пятых страницы.  
-**Translation:** 
-
-**[8839.76s] English:** Это просто хлам в сумках.  
-**Translation:** 
-
-**[8842.06s] English:** А у меня, к примеру, восемь шестых.  
-**Translation:** 
-
-**[8846.06s] English:** Идея была в том, чтобы все начали общаться.  
-**Translation:** 
-
-**[8849.58s] English:** Я, как дизайнер-кукловод, хотел, чтобы все в чате локации писали, типа,  
+**[8868.36s] English:** But in reality, this quest ended up being something that nobody actually did.  
 **Translation:** 
 
-**[8854.34s] English:** «Я ищу страницу шесть», или «А есть у кого третья?»  
-**Translation:** 
-
-**[8858.84s] English:** Вот такой была моя дизайнерская фантазия.  
-**Translation:** 
-
-**[8861.66s] English:** Что, мол, люди начнут общаться, знакомиться, и будут друг другу благодарны.  
-**Translation:** 
-
-**[8868.36s] English:** Но на самом деле этот квест просто в итоге никто не делал.  
-**Translation:** 
+**[8872.78s] English:** He utterly irritated everyone, and people simply went to the auction.  
+**Translation:** Vocabulary: auction: 拍卖; irritated: 烦躁; utterly: 完全地
 
-**[8872.78s] English:** Он всех жутко бесил, и люди просто шли на аукцион.  
+**[8877.14s] English:** So, the quest ended up becoming famous as incredible.  
 **Translation:** 
 
-**[8877.14s] English:** Так что квест в итоге прославился как невероятный.  
-**Translation:** 
-
-**[8880.00s] English:** вероятно раздражающий и бесячий,  
-**Translation:** 
+**[8880.00s] English:** Probably annoying and frustrating,  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[8884.30s] English:** и в итоге превратился в инструмент.  
+**[8884.30s] English:** And in the end, it turned into a tool.  
 **Translation:** 
 
-**[8886.62s] English:** Это не только научило меня на своих ошибках,  
+**[8886.62s] English:** This not only taught me from my own mistakes,  
 **Translation:** 
 
-**[8890.76s] English:** но еще и так как я открыто признал, что этот квест очевидно провалился,  
+**[8890.76s] English:** But still, and as I openly admitted that this quest clearly failed,  
 **Translation:** 
 
-**[8897.02s] English:** то это позволило нам в Близзард начать критиковать свою собственную работу.  
-**Translation:** 
+**[8897.02s] English:** That allowed us at Blizzard to begin criticizing our own work.  
+**Translation:** Vocabulary: blizzard: 暴雪; openly: 公开地
 
-**[8902.88s] English:** Всегда проще, если ты первым выходишь и говоришь,  
+**[8902.88s] English:** It's always easier if you go first and speak up.  
 **Translation:** 
 
-**[8906.00s] English:** «Парни, кажется, я сделал один из самых хреновых квестов в игре,  
-**Translation:** 
+**[8906.00s] English:** Guys, it seems I've created one of the worst quests in the game,  
+**Translation:** Vocabulary: quests: 任务
 
-**[8909.72s] English:** и вот почему».  
+**[8909.72s] English:** And here's why".  
 **Translation:** 
 
-**[8911.04s] English:** И это подтолкнуло других делать остальные вещи лучше.  
-**Translation:** 
+**[8911.04s] English:** And this prompted others to do other things better.  
+**Translation:** Vocabulary: prompted: 促使
 
-**[8915.94s] English:** Ты так скромно об этом говоришь,  
+**[8915.94s] English:** You speak about it so modestly,  
 **Translation:** 
 
-**[8918.56s] English:** а ведь WoW стала одной из величайших игр в истории,  
-**Translation:** 
+**[8918.56s] English:** Ah, wow became one of the greatest games in history.  
+**Translation:** Vocabulary: modestly: 谦虚地
 
-**[8923.48s] English:** как и по популярности, так и по числу игроков,  
+**[8923.48s] English:** As popular as it is in terms of the number of players,  
 **Translation:** 
 
-**[8927.94s] English:** а еще по доходам и признанию критиков.  
+**[8927.94s] English:** And in terms of income and recognition by critics.  
 **Translation:** 
 
-**[8931.18s] English:** А затем ты стал еще и геймдиректором WoW.  
+**[8931.18s] English:** Then you became a game director for WoW.  
 **Translation:** 
 
-**[8935.44s] English:** Именно при тебе вышел в Wrath of the Lich King дополнение,  
+**[8935.44s] English:** Exactly when you were in charge, the expansion for Wrath of the Lich King was released.  
 **Translation:** Vocabulary: wrath: 愤怒
 
-**[8938.72s] English:** которое многие считают лучшим.  
+**[8938.72s] English:** Which many consider to be the best.  
 **Translation:** 
 
-**[8942.18s] English:** У меня, конечно, миллион вопросов,  
+**[8942.18s] English:** Of course, I have a million questions.  
 **Translation:** 
 
-**[8944.24s] English:** но, пожалуй, сейчас самое время спросить  
+**[8944.24s] English:** But, perhaps, now is the time to ask.  
 **Translation:** 
 
-**[8946.62s] English:** о знаменитой вылизана в стиле Blizzard.  
-**Translation:** Vocabulary: blizzard: 暴风雪
-
-**[8950.66s] English:** Blizzard, как компания, исторически этим славилась,  
+**[8946.62s] English:** Of the famous, well-groomed style à la Blizzard.  
 **Translation:** 
 
-**[8954.98s] English:** и ты, конечно, сыграл здесь огромную роль, создавая такие игры.  
+**[8950.66s] English:** Blizzard, as a company, historically has been known for this,  
 **Translation:** 
 
-**[8959.06s] English:** В них столько было всего сделано правильно,  
+**[8954.98s] English:** And you, of course, have played a huge role here by creating such games.  
+**Translation:** Vocabulary: historically: 历史上
+
+**[8959.06s] English:** In them, so much was done correctly,  
 **Translation:** 
 
-**[8963.74s] English:** и все отлично работало, было слаженным,  
+**[8963.74s] English:** And everything worked perfectly, it was well-coordinated,  
 **Translation:** 
 
-**[8966.90s] English:** и просто ощущалось законченно.  
+**[8966.90s] English:** And it just felt complete.  
 **Translation:** 
 
-**[8969.30s] English:** Ничего не скажешь о многих других играх.  
+**[8969.30s] English:** Nothing can be said about many other games.  
 **Translation:** 
 
-**[8972.32s] English:** Так что нужно, чтобы взять эту гигантскую игру,  
+**[8972.32s] English:** So what's needed to take this giant game,  
 **Translation:** 
 
-**[8975.20s] English:** игру, в которую играют миллионы, которую любят миллионы,  
+**[8975.20s] English:** The game that millions play, and millions love,  
 **Translation:** 
 
-**[8979.70s] English:** и выпустить ее так, чтобы в ней просто все работало?  
+**[8979.70s] English:** And just release it so that everything works properly?  
 **Translation:** 
 
-**[8984.44s] English:** Такой уровень отточенности — это культура,  
+**[8984.44s] English:** Such a level of refinement is a culture.  
 **Translation:** 
 
-**[8988.30s] English:** которую нужно привить каждому в студии.  
+**[8988.30s] English:** Which needs to be instilled in every member of the studio.  
 **Translation:** 
 
-**[8993.42s] English:** Никто не должен мириться с багами.  
+**[8993.42s] English:** No one should tolerate bugs.  
+**Translation:** Vocabulary: instilled: 灌输; tolerate: 容忍
+
+**[8996.46s] English:** There are bugs in any game.  
 **Translation:** 
 
-**[8996.46s] English:** Баги есть в любой игре.  
+**[8999.44s] English:** Do you know Isolus, which receives stormclimatic braille?  
+**Translation:** Vocabulary: braille: 盲文
+
+**[9000.00s] English:** Blizzards are also a concern. The question is how quickly and how urgently you address them. And  
 **Translation:** 
 
-**[8999.44s] English:** И выisoletus, который получает штормклимичные брейлы,  
+**[9000.46s] English:** This arises from this probable multi-faceted desire.  
+**Translation:** Vocabulary: arises: 产生; blizzards: 暴风雪; probable: 可能的; urgently: 紧急地
+
+**[9001.12s] English:** Already in all this scene, it becomes clear,  
 **Translation:** 
 
-**[9000.46s] English:** происходит из этого вероятного многодельного желания.  
+**[9003.80s] English:** What I say will always be in clear allowable format.  
 **Translation:** 
 
-**[9001.12s] English:** И уже поía в все эту сцену выясняется,  
+**[9006.96s] English:** Since we are players ourselves, if we play no less than others, then we have motivation to improve.  
 **Translation:** 
 
-**[9003.80s] English:** что то, что я говорю всегда будет в ясенном allowable format  
+**[9007.26s] English:** And we will gain a lot from this, this frustration.  
 **Translation:** 
 
-**[9007.26s] English:** и мы многое прибудем с этим этот frust  
+**[9016.50s] English:** Baghi. There are also purely tactical aspects. Blizzard's quality department is considered the best in  
 **Translation:** 
 
-**[9026.72s] English:** недель.  
+**[9026.52s] English:** of the industry. People who come to Blizzard's quality department are dedicated gamers. Many  
+**Translation:** Vocabulary: tactical: 战术的
+
+**[9026.72s] English:** Weeks.  
 **Translation:** 
 
-**[9027.26s] English:** Так что ставьте лайк,  
+**[9027.26s] English:** So please like it,  
 **Translation:** 
 
-**[9027.64s] English:** делитесь этим видео с друзьями и друзьями в эфире.  
+**[9027.64s] English:** Share this video with friends and those in the live stream.  
 **Translation:** 
 
-**[9028.04s] English:** И rejoice.  
+**[9028.04s] English:** And rejoice.  
 **Translation:** Vocabulary: rejoice: 欢庆
 
-**[9028.28s] English:** До новых встреч.  
+**[9028.28s] English:** Until we meet again.  
 **Translation:** 
 
-**[9000.00s] English:** Близзард они тоже есть. Вопрос в том, насколько быстро и насколько срочно вы их исправляете. И  
+**[9036.24s] English:** From them, and they themselves want to become developers, engaging in it not for work, but because  
 **Translation:** 
 
-**[9006.96s] English:** поскольку мы сами игроки, если мы играем не меньше остальных, то у нас есть мотивация исправлять  
+**[9042.64s] English:** Pizdec, how much they love this game. And we tried to build very tight relationships as a team.  
 **Translation:** 
 
-**[9016.50s] English:** баги. Есть еще и чисто тактические моменты. Отдел качества в компании Близзард считается лучшим во  
+**[9050.30s] English:** Developments and by the quality control department. Whenever possible, we also tried to  
 **Translation:** 
 
-**[9026.52s] English:** всей индустрии. Люди, которые приходят в отдел качества Близзард, это увлеченные геймеры. Многие  
+**[9056.50s] English:** Sажать as many such specialists directly with the development team as this allowed.  
 **Translation:** 
 
-**[9036.24s] English:** из них и сами хотят стать разработчиками и занимаются этим не ради работы, а потому что  
+**[9063.44s] English:** Logistics. At early stages, there wasn't always enough space for the entire quality department to sit with us.  
 **Translation:** 
 
-**[9042.64s] English:** пиздец как любят игру. И мы старались выстроить очень тесные отношения между нами как командой  
+**[9071.02s] English:** But the team from Overwatch was very lucky. We had most of the quality control department with us, and we  
 **Translation:** 
 
-**[9050.30s] English:** разработки и отделом контроля качества. По возможности мы также старались  
+**[9077.14s] English:** They were building these relationships. Understandably, at first there were concerns of the sort that quality control might interfere.  
+**Translation:** Vocabulary: interfere: 干扰
+
+**[9084.70s] English:** Cannot communicate with developers, and we cannot communicate with them. But, in principle,  
 **Translation:** 
 
-**[9056.50s] English:** сажать как можно больше таких специалистов прямо с командой разработки, насколько это позволяла  
+**[9086.48s] English:** We tried to break it because some of our QA specialists knew the game inside and out.  
 **Translation:** 
 
-**[9063.44s] English:** логистика. На ранних этапах не всегда хватало места, чтобы весь отдел качества сидел с нами,  
+**[9093.06s] English:** And they could just say, hey, buddy, just write me anytime, here's my number.  
 **Translation:** 
 
-**[9071.02s] English:** но команде Overwatch очень повезло. С нами сидела большая часть отдела контроля качества, и мы  
+**[9099.36s] English:** Call if you find a bug. If you think we'll get in trouble for it, let me know right away. I don't care about  
+**Translation:** Vocabulary: anytime: 随时
+
+**[9107.22s] English:** Subordination, we need to fix this. So our quality department was fantastic.  
 **Translation:** 
 
-**[9077.14s] English:** выстраивали эти отношения. Понимаете, поначалу были опасения в духе, что мол, ну, отдел качества  
+**[9112.34s] English:** Can you elaborate more on the quality control department?  
+**Translation:** Vocabulary: elaborate: 详细说明
+
+**[9116.48s] English:** What does the highest level of mastery mean? In other words, what is essentially the highest level of mastery?  
 **Translation:** 
 
-**[9084.70s] English:** не может разговаривать с разработчиками, и мы не можем с ними разговаривать. Но, в принципе,  
+**[9120.00s] English:** Which ones played the game and tried to understand which specific moments could be improved.  
+**Translation:** Vocabulary: mastery: 精通
+
+**[9129.16s] English:** Yes, people often simplify this role to just that,  
 **Translation:** 
 
-**[9086.48s] English:** мы старались это сломать, потому что некоторые наши QA-специалисты знали игру вдоль и поперек,  
+**[9133.04s] English:** Oh, these guys play all day and then report if they find a bug.  
+**Translation:** Vocabulary: simplify: 简化
+
+**[9137.84s] English:** But they approach testing extremely systematically.  
 **Translation:** 
 
-**[9093.06s] English:** и им можно было просто сказать, эй, дружище, просто напиши мне в любое время, вот мой номер,  
+**[9141.72s] English:** They formulate such testing plans that simply amaze.  
 **Translation:** 
 
-**[9099.36s] English:** звони, если найдешь баг, если думаешь, что нам за него влетит, сразу говори, мне плевать на  
+**[9145.84s] English:** For example, who will be testing what.  
 **Translation:** 
 
-**[9107.22s] English:** субординацию, мы должны это исправить. Так что наш отдел качества был потрясающим.  
+**[9148.46s] English:** A lot of regression testing is being conducted.  
+**Translation:** Vocabulary: regression: 回退测试
+
+**[9152.54s] English:** Inside quality control, there is also compatibility testing.  
 **Translation:** 
 
-**[9112.34s] English:** Можешь подробнее рассказать про отдел контроля качества?  
+**[9157.18s] English:** The compatibility team at Blizzard was simply amazing.  
+**Translation:** Vocabulary: blizzard: 暴雪; compatibility: 兼容性
+
+**[9161.86s] English:** They had literally every video card, every computer, any conceivable configuration.  
 **Translation:** 
 
-**[9116.48s] English:** Что значит высший уровень мастерства? То есть, по сути, высший уровень мастерства?  
+**[9167.26s] English:** They went through all of this to make sure that no glitch would appear on a rare video card or motherboard.  
+**Translation:** Vocabulary: conceivable: 可想象的; configuration: 配置; glitch: 故障; motherboard: 主板
+
+**[9173.50s] English:** Where you least expect it.  
 **Translation:** 
 
-**[9120.00s] English:** которые проходили игру и пытались понять, какие именно моменты в ней можно улучшить.  
+**[9176.20s] English:** But everything was very systematic.  
 **Translation:** 
 
-**[9129.16s] English:** Да, люди часто упрощают эту роль, сводя к тому, что  
+**[9178.46s] English:** This was not some wild west in the spirit of "Let's just play.  
 **Translation:** 
 
-**[9133.04s] English:** «О, эти ребята целыми днями играют, а потом репортят, если находят баг».  
+**[9182.30s] English:** Keep in mind, as a developer interacting with quality control, that there are special experts involved.  
+**Translation:** Vocabulary: interacting: 交互
+
+**[9189.34s] English:** Here, let's take, for example, the team Overwatch.  
 **Translation:** 
 
-**[9137.84s] English:** Но они подходят к тестированию крайне системно.  
+**[9195.02s] English:** There were a few guys who...  
 **Translation:** 
 
-**[9141.72s] English:** Они составляют такие планы тестирования, которые просто поражают.  
+**[9197.66s] English:** Yes, we all played shooters while we were making Overwatch.  
 **Translation:** 
 
-**[9145.84s] English:** Например, кто и что будет тестировать.  
+**[9201.02s] English:** But I am not a cyber sports player.  
 **Translation:** 
 
-**[9148.46s] English:** Проводится много регрессивного тестирования.  
+**[9204.62s] English:** I am from Generation X.  
 **Translation:** 
 
-**[9152.54s] English:** Внутри контроля качества есть и тестирование на совместимость.  
+**[9206.58s] English:** I am not a cyber sports player. I am from Generation X.  
 **Translation:** 
 
-**[9157.18s] English:** А отдел совместимости в Blizzard был просто потрясающий.  
+**[9207.74s] English:** Do you remember Doom? I rocked everyone there.  
 **Translation:** 
 
-**[9161.86s] English:** У них была буквально каждая видеокарта, каждый компьютер, любая мыслимая конфигурация.  
+**[9209.74s] English:** Yes, yes, exactly.  
+**Translation:** Vocabulary: rocked: 震撼
+
+**[9211.74s] English:** Here's how I play shooter games.  
 **Translation:** 
 
-**[9167.26s] English:** И они все это прогоняли, чтобы убедиться, что не вылезет какой-нибудь глюк на редкой видеокарте или материнке,  
+**[9214.74s] English:** But in our quality control department, we had...  
 **Translation:** 
 
-**[9173.50s] English:** где его совсем не ждешь.  
+**[9217.74s] English:** A couple of specialists, true pros,  
 **Translation:** 
 
-**[9176.20s] English:** Но все было очень системно.  
+**[9220.74s] English:** Which could hit targets from one hundred meters with sniper rifles time and time again.  
+**Translation:** Vocabulary: rifles: 步枪; sniper: 狙击手
+
+**[9225.74s] English:** And then immediately determine whether there is at least a delay in one frame.  
 **Translation:** 
 
-**[9178.46s] English:** Это не был какой-то дикий запад в духе «А давайте просто поиграем».  
+**[9229.74s] English:** Do you understand? And here you place such an expert with an engineer, and he says,  
 **Translation:** 
 
-**[9182.30s] English:** И видя, как разработчик, взаимодействуя с контролем качества, ты понимал, что там есть особые специалисты.  
+**[9233.74s] English:** Listen, I think there's some input lag here.  
 **Translation:** 
 
-**[9189.34s] English:** Вот, возьмем, допустим, команду Overwatch.  
+**[9237.74s] English:** Incredible.  
 **Translation:** 
 
-**[9195.02s] English:** Там было несколько ребят, которые...  
+**[9238.74s] English:** And, of course,...  
 **Translation:** 
 
-**[9197.66s] English:** Да, мы все играли в шутеры, пока делали Overwatch.  
+**[9240.00s] English:** Of course, they were right, but for that, you need relationships where developers trust quality control.  
 **Translation:** 
 
-**[9201.02s] English:** Но я не игрок уровня киберспортсмена.  
+**[9247.02s] English:** For example, in World of Warcraft, they had excellent relations with quality control because there was a whole team that went on raids.  
 **Translation:** 
 
-**[9204.62s] English:** Я из поколения X.  
+**[9257.58s] English:** In such a case, you are looking for bugs not just like "The dragon was supposed to fly, but instead it fell into textures and the game crashed," which, by the way, did happen.  
+**Translation:** Vocabulary: dragon: 龙; raids: 突袭; warcraft: 战网
+
+**[9266.20s] English:** But if you really value these guys, you'll ask them, "So, what do you think?" Do you understand?  
 **Translation:** 
 
-**[9206.58s] English:** Я не игрок уровня киберспортсмена. Я из поколения X.  
+**[9274.94s] English:** This will be seen by ten million people. Your opinion, in essence, is amplified. Do you understand how important that is? What do you think?  
 **Translation:** 
 
-**[9207.74s] English:** Помнишь Doom? Я там всех нагибал.  
+**[9283.08s] English:** He would say "Yes, this is great, but this is not." In general, the testers were important.  
 **Translation:** 
 
-**[9209.74s] English:** Да, да, точно.  
+**[9287.84s] English:** Still important was the engineering approach used by Blizzard, which required designing the game to be scalable and efficient.  
+**Translation:** Vocabulary: blizzard: 暴雪; scalable: 可扩展的
+
+**[9295.68s] English:** To use it.  
 **Translation:** 
 
-**[9211.74s] English:** Вот такой из меня шутер-игрок.  
+**[9296.20s] English:** Game balance could be cheated with hotfixes. Let me explain what a hotfix is.  
+**Translation:** Vocabulary: cheated: 作弊; hotfixes: 热修复
+
+**[9300.38s] English:** Games can be fixed by two methods.  
 **Translation:** 
 
-**[9214.74s] English:** Но у нас в отделе качества было...  
+**[9303.76s] English:** The most familiar to us are patches. They are installed almost on all software.  
+**Translation:** Vocabulary: patches: 补丁
+
+**[9308.40s] English:** It's necessary to update it and download a new version, just like in Windows when that annoying message "A new version is available" pops up, and then it takes a few minutes for everything to update.  
 **Translation:** 
 
-**[9217.74s] English:** пару спецов, настоящих профи,  
+**[9318.96s] English:** Of course, we also put out patches for our games and fix a lot of bugs, but if you want to keep a game like Overwatch going,  
 **Translation:** 
 
-**[9220.74s] English:** которые могли со ста метров из снайперки попадать раз за разом  
+**[9326.20s] English:** Or World of Warcraft, and doing it successfully,  
 **Translation:** 
 
-**[9225.74s] English:** и тут же определять, есть ли хотя бы в один кадр задержка.  
+**[9329.76s] English:** You need engineers of the highest caliber who designed both the client and server so that patches could be instantly applied to fix issues.  
+**Translation:** Vocabulary: caliber: 水平; instantly: 立即
+
+**[9338.80s] English:** A Hoxfix is essentially a server patch. Players do not need to exit the game to install it.  
 **Translation:** 
 
-**[9229.74s] English:** Понимаешь? И вот ты сажаешь такого спеца к инженеру, и он говорит,  
+**[9345.38s] English:** Sure, you have a lot of players, and when a problem arises, you need to react to it as quickly as possible.  
+**Translation:** Vocabulary: arises: 出现
+
+**[9351.54s] English:** Yes, there are emergency cases, for example, when something falls.  
 **Translation:** 
 
-**[9233.74s] English:** «Слушай, по-моему, тут есть input lag».  
+**[9356.20s] English:** For example, the worst-case scenario is when a server fails.  
+**Translation:** Vocabulary: scenario: 最坏情况
+
+**[9359.76s] English:** Yes, for example, when the server goes down.  
 **Translation:** 
 
-**[9237.74s] English:** Невероятно.  
+**[9360.00s] English:** Or, for example, in Overwatch there's a catastrophic bug where you have to disconnect from the hero.  
+**Translation:** Vocabulary: catastrophic: 灾难性的; disconnect: 断开连接
+
+**[9366.84s] English:** For example, someone found an exploit and we have to remove the hero from the roster, and you need to roll out a hotfix, preferably within half an hour, to get the hero back into the game.  
 **Translation:** 
 
-**[9238.74s] English:** И, конечно...  
+**[9379.50s] English:** Here's the transcript with natural English punctuation and capitalization: Because you might have a player who mains this hero, and the only reason he plays Overwatch is this very hero.  
 **Translation:** 
 
-**[9240.00s] English:** Конечно, они оказывались правы, но для этого нужны отношения, в которых разработчики доверяют контролю качества.  
+**[9387.14s] English:** It doesn't want to wait for patches; we need to fix everything with hotfixes as quickly as possible.  
 **Translation:** 
 
-**[9247.02s] English:** Например, в World of Warcraft у них были отличные отношения с контролем качества, потому что там собрали целую команду, которая ходила в рейды.  
+**[9392.20s] English:** Or to simply quickly improve the game by making timely changes.  
+**Translation:** Vocabulary: hotfixes: 紧急修复; patches: 补丁
+
+**[9397.20s] English:** Yes, players feel that.  
 **Translation:** 
 
-**[9257.58s] English:** И в таком случае ты ищешь не просто баги по типу «Дракон должен был лететь, а вместо этого он провалился в текстуры и игра вылетела», что, кстати, бывало.  
+**[9399.52s] English:** Here is the concept of love and mastery in a developer's craft.  
+**Translation:** Vocabulary: mastery: 精通
+
+**[9407.78s] English:** And this is noticeable.  
+**Translation:** 
+
+**[9410.14s] English:** In any product, you know, whether it's an iPhone or Android,  
+**Translation:** 
+
+**[9416.62s] English:** How would...  
+**Translation:** 
+
+**[9417.14s] English:** Computer or anything else, you can feel when it's behind it people who have put their soul into it.  
+**Translation:** 
+
+**[9424.56s] English:** They didn't just put it on the shelf.  
+**Translation:** 
+
+**[9427.46s] English:** With games, it's the same.  
+**Translation:** 
+
+**[9429.66s] English:** In them, you can feel the developer's soul.  
+**Translation:** 
+
+**[9432.88s] English:** Exactly in the game itself.  
+**Translation:** 
+
+**[9435.00s] English:** And partly this is manifested in funny little things like cow levels, isn't it?  
+**Translation:** 
+
+**[9440.78s] English:** Here...  
+**Translation:** Vocabulary: manifested: 显现
+
+**[9441.54s] English:** Here's what you feel the humanity of the team through.  
+**Translation:** 
+
+**[9445.92s] English:** But there is...  
+**Translation:** 
+
+**[9447.12s] English:** There is another side as well.  
+**Translation:** 
+
+**[9448.24s] English:** For example, will they clean out their Augean stables?  
+**Translation:** Vocabulary: augean: 阿基安的; stables: 马厩
+
+**[9452.76s] English:** Nu, that is, does the game work at all?  
+**Translation:** 
+
+**[9454.24s] English:** And this is not just about bugs and crashes, but what happens when balance goes to hell.  
+**Translation:** 
+
+**[9460.80s] English:** Suddenly everyone starts playing for Varvara, spinning the wheel, and nobody plays for anyone else anymore.  
+**Translation:** 
+
+**[9466.80s] English:** And you are like this, it should be fixed.  
+**Translation:** Vocabulary: spinning: 转动; varvara: 瓦尔瓦拉
+
+**[9469.80s] English:** Oh, there were times.  
+**Translation:** 
+
+**[9471.56s] English:** Unfortunately, I was that guy with the helicopter Varvara.  
+**Translation:** 
+
+**[9474.68s] English:** Played with one hand?  
+**Translation:** 
+
+**[9476.00s] English:** Yes.  
+**Translation:** 
+
+**[9476.50s] English:** But it was fun.  
+**Translation:** 
+
+**[9479.14s] English:** In general,...  
+**Translation:** 
+
+**[9480.00s] English:** Many now know you as Jeff from the Overwatch team.  
+**Translation:** 
+
+**[9485.64s] English:** I am Jeff from the Overwatch team.  
+**Translation:** 
+
+**[9488.14s] English:** I'm Jeff from the Overwatch team.  
+**Translation:** 
+
+**[9490.16s] English:** I'm Jeff from the Overwatch team.  
+**Translation:** 
+
+**[9491.92s] English:** But, it seems that many have forgotten that you were the Game Director for WoW during that era.  
+**Translation:** 
+
+**[9497.20s] English:** When World of Warcraft was one of the largest games in the world.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[9266.20s] English:** Но если ты по-настоящему ценишь этих ребят, то ты их спросишь «Ну, чувак, что ты думаешь?» Понимаешь?  
+**[9501.68s] English:** Simply, if we look back at the past,  
 **Translation:** 
 
-**[9274.94s] English:** Это увидят 10 миллионов человек. Твое мнение, по сути, умножается. Ты понимаешь, как оно важно. Что ты думаешь?  
+**[9504.14s] English:** How did you gain wisdom from that time?  
 **Translation:** 
 
-**[9283.08s] English:** А он тебе «Да, это круто, а это нет». В общем, тестировщики были важны.  
+**[9507.90s] English:** When did you get to be part of that gaming era?  
 **Translation:** 
 
-**[9287.84s] English:** Еще был важен инженерный подход, применяемый в Blizzard, который требовал проектировать игру так,  
+**[9512.24s] English:** Which forever changed games,  
 **Translation:** 
 
-**[9295.68s] English:** чтобы ее можно было использовать.  
+**[9514.12s] English:** When millions play one game simultaneously.  
 **Translation:** 
 
-**[9296.20s] English:** Игра можно было чинить хотфиксами. Объясню, что такое хотфикс.  
+**[9517.58s] English:** This was my first game that I worked on.  
 **Translation:** 
 
-**[9300.38s] English:** Игры можно фиксить парой способов.  
+**[9521.00s] English:** I came there as the youngest position.  
 **Translation:** 
 
-**[9303.76s] English:** Самые знакомые для нас это патчи. Они ставятся почти на весь софт.  
-**Translation:** 
-
-**[9308.40s] English:** Приходится его обновлять, скачивать новую версию, как в Windows, когда выскакивает это надоедливое сообщение «Доступна новая версия», и потом пару минут все обновляется.  
-**Translation:** 
-
-**[9318.96s] English:** Конечно, мы тоже ставим патчи на наши игры и так чиним много багов, но если ты хочешь поддерживать игру вроде Overwatch,  
-**Translation:** 
-
-**[9326.20s] English:** или World of Warcraft, и делать это успешно,  
-**Translation:** 
-
-**[9329.76s] English:** тебе нужны инженеры высочайшего класса, которые спроектировали клиент и сервер так, что игру можно было бы мгновенно чинить хотфиксами.  
-**Translation:** 
-
-**[9338.80s] English:** А хотфикс — это по сути серверный патч. Игрокам не нужно выходить из игры, чтобы его установить.  
-**Translation:** 
-
-**[9345.38s] English:** Ну да, у вас куча игроков, и когда выявляется проблема, на нее нужно реагировать максимально быстро.  
-**Translation:** 
-
-**[9351.54s] English:** Да, бывают экстренные случаи, например, когда что-то падает.  
-**Translation:** 
-
-**[9356.20s] English:** Например, худший сценарий — это когда падает сервер.  
-**Translation:** 
-
-**[9359.76s] English:** Да, например, когда падает сервер.  
-**Translation:** 
-
-**[9360.00s] English:** Или, скажем, в Overwatch реально катастрофический баг, это когда приходится отключать героя.  
-**Translation:** 
-
-**[9366.84s] English:** Например, кто-то нашел эксплойт и приходится убирать героя из ростера, и тебе нужно выкатить хотфикс, желательно в течение получаса, чтобы вернуть героя в игру.  
-**Translation:** 
-
-**[9379.50s] English:** Ведь у тебя может быть игрок, который мейнит этого героя, и единственная причина, по которой он играет в Overwatch, это сам этот герой.  
-**Translation:** 
-
-**[9387.14s] English:** Не хочется ждать патчей, нужно все чинить хотфиксом как можно быстрее.  
-**Translation:** 
-
-**[9392.20s] English:** Или чтобы просто быстро улучшать игру, оперативно внося правки.  
-**Translation:** 
-
-**[9397.20s] English:** Да, игроки это чувствуют.  
-**Translation:** 
-
-**[9399.52s] English:** И вот отсюда есть такое понятие, как любовь и мастерство разработчика.  
-**Translation:** 
-
-**[9407.78s] English:** И это чувствуется.  
-**Translation:** 
-
-**[9410.14s] English:** В любом продукте, ну знаешь, будь то айфон или андроид,  
-**Translation:** 
-
-**[9416.62s] English:** как бы...  
-**Translation:** 
-
-**[9417.14s] English:** Компьютер или что угодно, ты чувствуешь, когда за ним стоят люди, вложившие в него свою душу.  
-**Translation:** 
-
-**[9424.56s] English:** А не просто выставили это на полку.  
-**Translation:** 
-
-**[9427.46s] English:** С играми то же самое.  
-**Translation:** 
-
-**[9429.66s] English:** В них можно почувствовать душу разработчика.  
-**Translation:** 
-
-**[9432.88s] English:** Именно в самой игре.  
-**Translation:** 
-
-**[9435.00s] English:** И отчасти это проявляется в забавных мелочах типа коровьего уровня, да?  
-**Translation:** 
-
-**[9440.78s] English:** Вот...  
-**Translation:** 
-
-**[9441.54s] English:** Вот через такое ты чувствуешь человечность команды.  
-**Translation:** 
-
-**[9445.92s] English:** Но есть...  
-**Translation:** 
-
-**[9447.12s] English:** Есть и другая сторона.  
-**Translation:** 
-
-**[9448.24s] English:** Например, выгребут ли они свои Авгеевы конюшни?  
-**Translation:** 
-
-**[9452.76s] English:** Ну, то есть работает ли игра вообще?  
-**Translation:** 
-
-**[9454.24s] English:** И речь не только о багах и вылетах, а о том, что происходит, когда баланс летит к чертовой бабушке.  
-**Translation:** 
-
-**[9460.80s] English:** И вдруг все начинают играть за Варвара, крутят вертушку, и больше никто ни за кого не играет.  
-**Translation:** 
-
-**[9466.80s] English:** И ты такой, надо бы это поправить.  
-**Translation:** 
-
-**[9469.80s] English:** О, были времена.  
-**Translation:** 
-
-**[9471.56s] English:** К сожалению, я и был тем самым парнем с вертушкой Варвара.  
-**Translation:** 
-
-**[9474.68s] English:** Играл одной рукой?  
-**Translation:** 
-
-**[9476.00s] English:** Да.  
-**Translation:** 
-
-**[9476.50s] English:** Но это было весело.  
-**Translation:** 
-
-**[9479.14s] English:** В общем...  
-**Translation:** 
-
-**[9480.00s] English:** Многие сейчас знают тебя как Джеффа из команды Овервотч.  
-**Translation:** 
-
-**[9485.64s] English:** Меня зовут Джефф из команды Овервотч.  
-**Translation:** 
-
-**[9488.14s] English:** Я Джефф из команды Овервотч.  
-**Translation:** 
-
-**[9490.16s] English:** Я Джефф из команды Овервотч.  
-**Translation:** 
-
-**[9491.92s] English:** Но, кажется, многие забыли, что ты был геймдиректором WoW в ту эпоху,  
-**Translation:** 
-
-**[9497.20s] English:** когда WoW была одной из крупнейших игр в мире.  
-**Translation:** 
-
-**[9501.68s] English:** Просто, если оглянуться в прошлое,  
-**Translation:** 
-
-**[9504.14s] English:** то какую мудрость ты вынес из того времени,  
-**Translation:** 
-
-**[9507.90s] English:** когда тебе довелось быть частью той эры гейминга,  
-**Translation:** 
-
-**[9512.24s] English:** которая навсегда изменила игры,  
-**Translation:** 
-
-**[9514.12s] English:** когда миллионы одновременно играют в одну игру.  
-**Translation:** 
-
-**[9517.58s] English:** Это была первая игра, над которой я работал.  
-**Translation:** 
-
-**[9521.00s] English:** Я пришел туда на самую младшую должность.  
-**Translation:** 
-
-**[9525.14s] English:** У меня до сих пор хранится оффер от Blizzard на 35 тысяч в год.  
-**Translation:** Vocabulary: blizzard: 暴雪
-
-**[9530.52s] English:** Столько я и получал.  
-**Translation:** 
-
-**[9535.42s] English:** И...  
-**Translation:** 
-
-**[9536.22s] English:** Вскоре после выхода в Овервотч,  
-**Translation:** 
-
-**[9537.90s] English:** WoW ушел на шлит Аллен еще до беты или прямо во время нее.  
-**Translation:** 
-
-**[9546.28s] English:** И потом ведущим дизайнером стал Роб,  
-**Translation:** 
-
-**[9550.96s] English:** но и он очень скоро покинул команду,  
-**Translation:** 
-
-**[9553.80s] English:** сразу после выхода WoW, чтобы заняться вторым Старкрафтом.  
-**Translation:** 
-
-**[9558.36s] English:** В итоге все свалилось на меня и Тома Чилтона.  
-**Translation:** 
-
-**[9562.20s] English:** А Том был дизайнер, который...  
-**Translation:** 
-
-**[9564.90s] English:** Он был мне отличным партнером,  
-**Translation:** 
-
-**[9567.90s] English:** и прекрасным руководителем.  
-**Translation:** 
-
-**[9570.22s] English:** И он...  
-**Translation:** 
-
-**[9571.32s] English:** Он пришел из Ultima Online.  
-**Translation:** 
-
-**[9573.96s] English:** Поэтому я всегда на него равнялся.  
-**Translation:** 
-
-**[9576.70s] English:** Опыта у него было куда больше, чем у меня.  
-**Translation:** 
-
-**[9579.16s] English:** А это на минуточку начало 2005-го.  
-**Translation:** 
-
-**[9584.22s] English:** Мир в огне, серверы на соплях, еле держатся,  
-**Translation:** 
-
-**[9588.18s] English:** а WoW просто взлетел до небес.  
-**Translation:** 
-
-**[9592.34s] English:** И мы с Томом по сути оказались во главе WoW.  
-**Translation:** 
-
-**[9597.04s] English:** И в тот момент...  
-**Translation:** 
-
-**[9597.90s] English:** В тот момент, когда меня повысили, у меня даже...  
-**Translation:** 
-
-**[9600.00s] English:** должности Лида не было. Я был старшим геймдизайнером. И мы с Томом отвечали за весь дизайн WoW.  
-**Translation:** 
-
-**[9609.60s] English:** Мне казалось, что это совершенно нормально. И я думал, что все происходящее с WoW это просто  
-**Translation:** 
-
-**[9619.68s] English:** обычное дело при разработке игр, потому что это была первая игра, над которой я работал,  
-**Translation:** 
-
-**[9625.86s] English:** и я думал это самое веселое приключение в жизни, потому что мы работали над WoW и впахивали до  
-**Translation:** 
-
-**[9636.62s] English:** изнеможения, а потом я приходил домой, ужинал, и мы с женой садились, чтобы поиграть в WoW часа  
-**Translation:** 
-
-**[9648.60s] English:** где-то четыре, а потом я... и на следующий день я шел на работу. Вся моя жизнь это была  
-**Translation:** 
-
-**[9655.84s] English:** World of Warcraft. И я обожал это. Мне нравилось абсолютно все. Начиная от творческих совещаний  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[9664.48s] English:** с Крисом Мэтсоном, он был настоящим источником вдохновения и музой, и заканчивая простейшими  
-**Translation:** 
-
-**[9670.66s] English:** дурацкими дизайнерскими вещами, над которыми мы, геймдизайнеры, мы могли спорить о том,  
-**Translation:** 
-
-**[9678.70s] English:** почему кнопка должна быть внизу слева, а не справа, и что это значит.  
-**Translation:** 
-
-**[9684.52s] English:** И это было очень интересно.  
-**Translation:** 
-
-**[9685.84s] English:** На этот спор могло уйти часа два, или есть ли способ получше, в общем все эти тысячи мелких задач  
-**Translation:** 
-
-**[9695.26s] English:** приводили меня в восторг, но и крупные завалы тоже. Например, крупные... у меня в самом начале работы  
-**Translation:** 
-
-**[9705.10s] English:** над WoW у нас еще не было отлаженных процессов, чтобы справляться с таким успехом, и мне буквально  
-**Translation:** 
-
-**[9712.84s] English:** звонили ГМ-ы, гейммастера, это ребята, которые работали над WoW, которые работали над WoW, и они  
-**Translation:** 
-
-**[9715.52s] English:** в принципе былиcreatы ребята из техподдержки. Звонили на домашний номер  
-**Translation:** 
-
-**[9719.96s] English:** 3  
-**Translation:** 
-
-**[9720.00s] English:** В три часа ночи.  
-**Translation:** 
-
-**[9722.52s] English:** Помню, был случай с каким-то...  
-**Translation:** 
-
-**[9725.86s] English:** Каким-то жетоном фракции в Тернистой долине, и...  
-**Translation:** 
-
-**[9730.14s] English:** Игроки нашли способ его дюпать.  
-**Translation:** 
-
-**[9732.84s] English:** И вот один ГМ звонит мне в панике в три часа ночи и говорит...  
-**Translation:** 
-
-**[9737.60s] English:** Я просто спавню.  
-**Translation:** 
-
-**[9739.90s] English:** Как же мы их называли?  
-**Translation:** 
-
-**[9741.68s] English:** Стражей Близзард.  
-**Translation:** 
-
-**[9742.86s] English:** Это были гигантские инферналы, которых мы сделали, и они мгновенно все убивали.  
-**Translation:** 
-
-**[9747.42s] English:** И...  
-**Translation:** 
-
-**[9748.10s] English:** Мы их использовали, когда еще на Бэйте, например, в недоступных местах, куда игроки не должны были попасть, на случай, если они пролезут туда с читами.  
-**Translation:** 
-
-**[9757.08s] English:** И вот этот ГМ просто спавнит их по всей Тернистой долине, потому что он боится, что игроки используют эксплойт.  
-**Translation:** 
-
-**[9764.12s] English:** А на часах три ночи, и я шепчу ему в трубку, потому что жена спит прямо рядом в кровати,  
-**Translation:** 
-
-**[9770.68s] English:** а шептал я, потому что мобильных тогда еще не было, и звонили мне на домашний.  
-**Translation:** 
-
-**[9775.54s] English:** В общем, вот так все и было.  
-**Translation:** 
-
-**[9777.42s] English:** И мне это дико нравилось.  
-**Translation:** 
-
-**[9779.10s] English:** Я обожал этот драйв, как масштабных событий, так и мелочей.  
-**Translation:** 
-
-**[9783.88s] English:** И я чувствовал, что, поддерживая WoW Live,  
-**Translation:** 
-
-**[9788.12s] English:** а этим занимались мы с Томом и нашей потрясающей командой,  
-**Translation:** 
-
-**[9792.02s] English:** мы как раз учились быть командой WoW.  
-**Translation:** 
-
-**[9795.66s] English:** А просто выпустить игру на дисках,  
-**Translation:** 
-
-**[9799.04s] English:** это было как...  
-**Translation:** 
-
-**[9800.30s] English:** Это была лишь первая глава книги из 12 возможных.  
-**Translation:** 
-
-**[9804.82s] English:** А ведь дальше,  
-**Translation:** 
-
-**[9805.90s] English:** как управлять игрой,  
-**Translation:** 
-
-**[9807.42s] English:** как выпускать патчи,  
-**Translation:** 
-
-**[9809.28s] English:** какой делать контент,  
-**Translation:** 
-
-**[9810.52s] English:** как тушить всякие пожары,  
-**Translation:** 
-
-**[9811.98s] English:** и какой должна быть техподдержка.  
-**Translation:** 
-
-**[9815.32s] English:** Мы, например, спорили, нужен ли вообще лаунчер или нет.  
-**Translation:** 
-
-**[9818.92s] English:** Изначально лаунчер был нужен WoW по одной единственной причине,  
-**Translation:** 
-
-**[9823.02s] English:** чтобы запускать античит на компьютере.  
-**Translation:** 
-
-**[9825.62s] English:** А потом мы придумали, как встроить его  
-**Translation:** 
-
-**[9830.04s] English:** прямо в игру, а не в лаунчер.  
-**Translation:** 
-
-**[9832.86s] English:** И вот тогда я впервые серьезно поговорил с Майком Мархеймом,  
-**Translation:** 
-
-**[9837.42s] English:** Он сказал, парни, верните лаунчер.  
-**Translation:** 
-
-**[9839.60s] English:** Мы ему...  
-**Translation:** 
-
-**[9840.00s] English:** «Зачем?», а он «Это лучший способ общаться с нашими игроками».  
-**Translation:** 
-
-**[9844.80s] English:** Помню, я тогда хотел от него избавиться,  
-**Translation:** 
-
-**[9848.26s] English:** и до сих пор я понимаю, что Майк был прав.  
-**Translation:** 
-
-**[9851.04s] English:** Этот лаунчер оказался лучшим нашим решением.  
-**Translation:** 
-
-**[9854.36s] English:** По сути, именно в это в итоге и превратился Battle.net.  
-**Translation:** 
-
-**[9859.08s] English:** Но все эти решения,  
-**Translation:** 
-
-**[9861.36s] English:** а когда пришло время для Burning Crusade,  
-**Translation:** 
-
-**[9864.82s] English:** мы с Томом уже стали ведущими разработчиками.  
-**Translation:** 
-
-**[9867.74s] English:** Нас повысили, но можно сказать, что было два крупных исхода,  
-**Translation:** 
-
-**[9873.08s] English:** когда люди уходили из Blizzard целыми командами.  
-**Translation:** 
-
-**[9876.02s] English:** Они были разочарованы.  
+**[9525.14s] English:** I still have the offer from Blizzard for $35,000 per year.  
 **Translation:** Vocabulary: blizzard: 暴雪公司
 
-**[9878.80s] English:** Хотя поверить сложно.  
+**[9530.52s] English:** I have received so much.  
 **Translation:** 
 
-**[9880.62s] English:** Мы только что выпустили World of Warcraft,  
-**Translation:** Vocabulary: warcraft: 战争艺术
-
-**[9883.42s] English:** и целая команда просто взяла и ушла.  
-**Translation:** 
-
-**[9886.18s] English:** Я как раз сидел так, что мой стол стоял прямо напротив кабинета Морхейма,  
-**Translation:** 
-
-**[9891.00s] English:** и я видел, как они по одному заходили к нему и увольнялись.  
-**Translation:** 
-
-**[9894.16s] English:** Это именно они основали Карбайн,  
-**Translation:** 
-
-**[9896.74s] English:** и сделали его...  
-**Translation:** 
-
-**[9897.72s] English:** игру Wildstar.  
-**Translation:** Vocabulary: wildstar: 狂野之星
-
-**[9899.10s] English:** В итоге они делали ее 10 лет.  
-**Translation:** 
-
-**[9902.06s] English:** Они были очень недовольны World of Warcraft,  
-**Translation:** 
-
-**[9905.66s] English:** и были недовольны...  
-**Translation:** 
-
-**[9907.80s] English:** не знаю, чем конкретно, но недовольны настолько,  
-**Translation:** 
-
-**[9912.70s] English:** что ушли сразу же после релиза WoW.  
-**Translation:** 
-
-**[9917.08s] English:** Это невероятно.  
-**Translation:** 
-
-**[9918.14s] English:** Но почему?  
-**Translation:** 
-
-**[9919.08s] English:** Может, потому что вложили в игру всю душу и просто выгорели?  
-**Translation:** 
-
-**[9923.28s] English:** Да, и нечестно будет говорить за них,  
-**Translation:** 
-
-**[9926.00s] English:** но я думаю,  
-**Translation:** 
-
-**[9927.72s] English:** им пообещали некую компенсацию, которую они не сразу получили.  
-**Translation:** 
-
-**[9933.62s] English:** Не знаю, было ли дело в игре.  
-**Translation:** 
-
-**[9935.36s] English:** Знаешь, вот что странно в геймдеве.  
-**Translation:** 
-
-**[9938.76s] English:** Когда у тебя появляется идея,  
-**Translation:** 
-
-**[9941.80s] English:** и ты начинаешь питчить ее людям,  
-**Translation:** 
-
-**[9944.20s] English:** это лучший момент в жизни игры.  
-**Translation:** 
-
-**[9947.34s] English:** А потом ты над ней работаешь,  
-**Translation:** 
-
-**[9949.44s] English:** а игры, над которыми я работал, создавались по пять лет.  
-**Translation:** 
-
-**[9953.82s] English:** На один Overwatch ушло два с половиной три года.  
-**Translation:** 
-
-**[9957.72s] English:** И с каждым днем, чем ближе ты к игре,  
-**Translation:** 
-
-**[9960.00s] English:** игра к релизу, тем сильнее идеальный образ игры в  
-**Translation:** 
-
-**[9964.50s] English:** голове, который расходится с реальностью, и ты всегда  
-**Translation:** 
-
-**[9970.48s] English:** выпускаешь нечто, ради чего пришлось пойти на огромные  
-**Translation:** 
-
-**[9974.20s] English:** компромиссы, что даже близко не соответствует воображаемой  
-**Translation:** 
-
-**[9977.94s] English:** картине изначальной идеи, так что ты разочаровываешься  
-**Translation:** 
-
-**[9982.66s] English:** в самой концепции.  
-**Translation:** 
-
-**[9983.84s] English:** То есть получается, ты выпускаешь, а ты постоянно в состоянии  
-**Translation:** 
-
-**[9988.38s] English:** разочарования.  
-**Translation:** 
-
-**[9990.04s] English:** По сути, ты выпускаешь что-то более худшее, чем  
-**Translation:** 
-
-**[9994.66s] English:** то, о чем ты мечтал и воображал.  
-**Translation:** 
-
-**[9997.20s] English:** Ты делаешь все меньше, урезаешь и постоянно говоришь «нет».  
-**Translation:** 
-
-**[10001.78s] English:** Да, ментально это очень тяжело, но, глядя со стороны,  
-**Translation:** 
-
-**[10005.22s] English:** результат — это одна из величайших игр, в которую  
-**Translation:** 
-
-**[10008.20s] English:** миллионы людей наиграли тысячи часов, но...  
-**Translation:** 
-
-**[10012.84s] English:** Вот что, был ли у тебя момент осознания, насколько огромным  
-**Translation:** 
-
-**[10018.64s] English:** стал вор?  
-**Translation:** 
-
-**[10019.18s] English:** Вов.  
-**Translation:** 
-
-**[10020.18s] English:** Но не в плане статистики серверов, а в плане культурного  
-**Translation:** 
-
-**[10024.94s] English:** влияния.  
-**Translation:** 
-
-**[10025.94s] English:** Впервые я это осознал на первом BlizzCon, который был  
-**Translation:** 
-
-**[10031.66s] English:** в 2005-м, когда Вов вышел, и странно об этом рассказывать,  
-**Translation:** 
-
-**[10038.66s] English:** но команда, хоть и не все, но многие были очень подавлены.  
-**Translation:** 
-
-**[10046.08s] English:** После запуска у Вов была...  
-**Translation:** 
-
-**[10049.04s] English:** Была куча проблем с серверами, потому что игра выстрелила  
-**Translation:** 
-
-**[10056.42s] English:** гораздо сильнее, чем мы ожидали, и нагрузка на серверы  
-**Translation:** 
-
-**[10062.06s] English:** была просто сумасшедшей.  
-**Translation:** 
-
-**[10064.10s] English:** Мы отчаянно пытались нанять программистов по базам  
-**Translation:** 
-
-**[10067.10s] English:** данных, потому что мы просто не знали, как справиться  
-**Translation:** 
-
-**[10071.08s] English:** с таким...  
-**Translation:** 
-
-**[10073.08s] English:** с таким масштабом.  
-**Translation:** 
-
-**[10075.80s] English:** Но когда ты рядовой сотрудник...  
-**Translation:** 
-
-**[10078.04s] English:** А к тому же как я уже говорил так  
-**Translation:** 
-
-**[10080.00s] English:** Когда начались массовые уходы, люди увольнялись из Близзард и основывали свои студии.  
-**Translation:** 
-
-**[10085.90s] English:** Так появились две известные студии, Карбайн и Ред 5.  
-**Translation:** 
-
-**[10091.08s] English:** И из-за этого мы потеряли ключевых людей.  
-**Translation:** 
-
-**[10095.14s] English:** Когда появилась студия Ред 5, от нас ушел Тим Лид, Марк Керн, и наш арт-директор Билл Петрос, они ушли.  
-**Translation:** 
-
-**[10102.92s] English:** А когда появилась Карбайн, ушли, кажется, почти все наши аниматоры и некоторые лучшие программисты.  
-**Translation:** 
-
-**[10110.82s] English:** Это ужасно деморализует, когда ты теряешь таких людей в команде.  
-**Translation:** 
-
-**[10115.30s] English:** А еще мы были по уши в проблемах.  
-**Translation:** 
-
-**[10118.14s] English:** Наши серверы лежали, и мы не справлялись с наплывом людей.  
-**Translation:** 
-
-**[10124.70s] English:** Нам нужно было выпускать патчи, и вот мы их клепаем,  
-**Translation:** 
-
-**[10129.16s] English:** и в какой-то момент остался один аниматор, который еще действовал.  
-**Translation:** 
-
-**[10132.92s] English:** Он не удержался, но в итоге ушел и он.  
-**Translation:** 
-
-**[10135.56s] English:** И вот ты такой, так, ладно, делаем патч без аниматоров.  
-**Translation:** 
-
-**[10142.02s] English:** Большая часть нашей арт-команды к тому моменту тоже ушла.  
-**Translation:** 
-
-**[10145.52s] English:** И ты просто пытаешься выжить, а боевой дух был просто в заднице.  
-**Translation:** 
-
-**[10150.96s] English:** Все в команде 2 были в полнейшем унынии.  
-**Translation:** 
-
-**[10156.08s] English:** Команду ВОВ называли Команда 2, и мы чувствовали, что провалились.  
-**Translation:** 
-
-**[10160.02s] English:** И как раз тогда...  
-**Translation:** 
-
-**[10162.92s] English:** Как раз и появилась эта идея провести Близкон.  
-**Translation:** 
-
-**[10168.58s] English:** А пошла она от того, что в Эверквест проводили свои фантесты.  
-**Translation:** 
-
-**[10173.14s] English:** Они понимали, что это большая социальная игра с гидиями,  
-**Translation:** 
-
-**[10177.10s] English:** и люди просто собирались в каком-нибудь отеле или в банкетном зале,  
-**Translation:** 
-
-**[10181.46s] English:** и сидели за столом всей гидией.  
-**Translation:** 
-
-**[10184.60s] English:** И, надо отдать должное, я помню, как сидел на совещании  
-**Translation:** 
-
-**[10188.04s] English:** о том, каким будет Близкон.  
-**Translation:** 
-
-**[10190.82s] English:** И именно Пардо сказал...  
-**Translation:** 
-
-**[10192.92s] English:** «Близзард — это нечто большее. Мы не просто одна игра.  
-**Translation:** 
-
-**[10196.44s] English:** И я знаю, что все сейчас помешаны на ВОВ, но мы должны...  
-**Translation:** 
-
-**[10200.00s] English:** сделать свой BlizzCon. Тогда у нас в разработке была игра StarCraft, Ghost, и ее как раз готовили  
-**Translation:** 
-
-**[10207.40s] English:** к показу на этом шоу. А еще у нас был Frozen Tron, это был аддон для Warcraft 3, но мы знали,  
-**Translation:** 
-
-**[10215.12s] English:** что будем делать StarCraft 2. А еще ко всему этому в Blizzard North скипела работа, хотя это вообще  
-**Translation:** Vocabulary: blizzard: 暴雪; warcraft: 魔兽
-
-**[10221.98s] English:** отдельная история, но мы подумали, эй, а ведь мы можем устроить крутое шоу, этот самый BlizzCon.  
-**Translation:** 
-
-**[10228.50s] English:** И поначалу мы объявили о нем, и в ответ гробовая тишина. Знаешь, то чувство, когда ты чем-то  
-**Translation:** 
-
-**[10236.28s] English:** горишь и думаешь, блин, да это же всем понравится, мы же делаем BlizzCon. А в ответ тишина. Что это  
-**Translation:** 
-
-**[10242.74s] English:** еще за BlizzCon? Кому он сдался? И вот мы как идиоты сидим читаем форумы, а там нас постоянно поливают  
-**Translation:** 
-
-**[10249.20s] English:** грязью, мол, этот сервер лагает, а на тот вообще не зайти. Таким мы видели этот мир и что происходило.  
-**Translation:** 
-
-**[10257.68s] English:** И тут...  
-**Translation:** 
-
-**[10258.50s] English:** И тут, как я уже сказал, надо отдать должное Марку Мархейму. Он настоял, чтобы мы задействовали  
-**Translation:** 
-
-**[10266.44s] English:** лаунчер. Они разместили билеты на BlizzCon прямо в лаунчере, чего раньше не делали, все было на  
-**Translation:** 
-
-**[10273.12s] English:** сайте. И вот каждый, кто заходил в World of Warcraft, вдруг видел объявление, мы проводим BlizzCon в  
-**Translation:** 
-
-**[10280.20s] English:** Анахайме. Приезжайте. Билеты раскупили мгновенно. Мы моментально их продали. И  
-**Translation:** 
-
-**[10288.50s] English:** когда я приехал на то шоу, то это было одно из самых эмоциональных событий в моей жизни. Просто  
-**Translation:** 
-
-**[10297.32s] English:** невероятный поток любви. А ведь до этого было ощущение, что ты же читаешь интернет, и тебе кажется,  
-**Translation:** 
-
-**[10309.70s] English:** что тебя все ненавидят. Ведь самые увлеченные люди в интернете выражают свои мысли максимально резко,  
-**Translation:** 
-
-**[10316.44s] English:** это привлекает внимание.  
-**Translation:** 
-
-**[10318.50s] English:** Этот урок мне стоил...  
-**Translation:** 
-
-**[10320.00s] English:** еще в самом начале и это так обидно ведь потом ты встречаешь этих людей в живую и оказывается  
-**Translation:** 
-
-**[10329.42s] English:** они обожают world of warcraft и все чего они хотят это говорить о нем слушать о том что будет дальше  
-**Translation:** 
-
-**[10337.46s] English:** и быть в окружении других фанатов world of warcraft для меня это интереснейшая тема о сути человеческой  
-**Translation:** Vocabulary: warcraft: 战争艺术
-
-**[10345.38s] English:** природы это чистая правда и хотелось бы это как-то исправить но с другой стороны а может  
-**Translation:** 
-
-**[10350.72s] English:** и нет может так и задумано но вживую все люди которые увлечены какой-то темой неважно какой  
-**Translation:** 
-
-**[10359.12s] English:** будь то игры или какие-нибудь технологические конференции эти люди полны любви то как они  
-**Translation:** 
-
-**[10368.18s] English:** говорят как они погружаются в тему даже их споры пропитаны этим этим  
+**[9535.42s] English:** And...  
 **Translation:** 
 
-**[10374.78s] English:** умением  
+**[9536.22s] English:** Soon after Overwatch's release,  
 **Translation:** 
 
-**[10375.38s] English:** уважением признательностью и любовью к игре к самой теме а вот в сети ты прав я не знаю в чем  
+**[9537.90s] English:** Wow left for Shlit Allen before the beta or right during it.  
 **Translation:** 
 
-**[10382.88s] English:** дело в популярности кликах или еще в чем но просто сама манера общения в интернете это в основном на  
+**[9546.28s] English:** Then the lead designer became Rob.  
 **Translation:** 
 
-**[10390.38s] English:** смешки и цинизм если скажешь я люблю вот это вот яблоко я люблю яблоки или я люблю банана в общем  
+**[9550.96s] English:** But he left the team very soon after.  
 **Translation:** 
 
-**[10402.74s] English:** я люблю x неважно  
+**[9553.80s] English:** Immediately after the release of WoW, to work on the second Starcraft.  
 **Translation:** 
 
-**[10405.38s] English:** anchor что это один из самых трех самых важных и важных и плохих потков новых сил есть  
-**Translation:** 
-
-**[10411.64s] English:** все это всевозможное21 в битке  
-**Translation:** 
-
-**[10413.74s] English:** образноуручные  
-**Translation:** 
-
-**[10414.36s] English:** 房 TEAM  
-**Translation:** 
-
-**[10415.26s] English:** сказал и  
-**Translation:** 
-
-**[10416.56s] English:** есть  
-**Translation:** 
-
-**[10417.84s] English:** сделан  
-**Translation:** 
-
-**[10419.00s] English:** тmot  
-**Translation:** 
-
-**[10420.12s] English:** в  
-**Translation:** 
-
-**[10421.70s] English:** стихии  
-**Translation:** 
-
-**[10422.50s] English:** или  
-**Translation:** 
-
-**[10423.54s] English:** работа  
-**Translation:** 
-
-**[10424.52s] English:** 怎樣  
-**Translation:** 
-
-**[10425.62s] English:** работа  
-**Translation:** 
-
-**[10426.52s] English:** мм  
-**Translation:** 
-
-**[10427.54s] English:** я  
-**Translation:** 
-
-**[10428.68s] English:** я  
-**Translation:** 
-
-**[10429.50s] English:** сейчас  
-**Translation:** 
-
-**[10430.12s] English:** чтоб  
-**Translation:** 
-
-**[10430.90s] English:** он  
-**Translation:** 
-
-**[10432.38s] English:** мы  
-**Translation:** 
-
-**[10433.34s] English:** ми원�an  
-**Translation:** 
-
-**[10433.92s] English:** network  
-**Translation:** 
-
-**[10435.24s] English:** и собрались, потому что любим это дело.  
-**Translation:** 
-
-**[10437.96s] English:** Да.  
-**Translation:** 
-
-**[10438.74s] English:** Это интересно.  
-**Translation:** 
-
-**[10440.00s] English:** Именно этот аспект интернета многих и отталкивает, в зависимости от игры.  
-**Translation:** 
-
-**[10444.20s] English:** Но если зайти в Дискорд или на Реддит, то в сообществах по определенной игре, если ты к этому не привык,  
-**Translation:** 
-
-**[10453.58s] English:** а я захожу туда нечасто, и когда это случается, думаю, ого, сколько же тут жестких насмешек и издевательств и так далее.  
-**Translation:** 
-
-**[10461.66s] English:** К этому быстро привыкаешь и понимаешь, но хотелось бы больше любви.  
-**Translation:** 
-
-**[10464.88s] English:** Мне от этого слегка не по себе, потому что я и сам приложил руку к становлению этой интернет-культуры.  
-**Translation:** 
-
-**[10476.08s] English:** По сути, это и были соцсети, просто их тогда так не называли.  
-**Translation:** 
-
-**[10480.94s] English:** Понимаешь, у меня была репутация более резкого человека, чем я был на самом деле.  
-**Translation:** 
-
-**[10487.74s] English:** Было несколько заметных постов, которые сохранились спустя почти 30 лет.  
-**Translation:** 
-
-**[10493.24s] English:** И люди обожают это.  
-**Translation:** 
-
-**[10494.88s] English:** Они не могут их припоминать, но забывают про те, где я вел себя спокойно, и это обидно.  
-**Translation:** 
-
-**[10503.04s] English:** Как геймдизайнер, я много думаю о том, как устроены социальные сети.  
-**Translation:** 
-
-**[10508.32s] English:** И, к сожалению, соцсети в целом устроены таким образом,  
-**Translation:** 
-
-**[10515.52s] English:** что лучше всего заходит запредельная гипербола,  
-**Translation:** 
-
-**[10519.70s] English:** и именно на этом они и зарабатывают свои очки.  
-**Translation:** 
-
-**[10524.88s] English:** Доводя все до крайности.  
-**Translation:** 
-
-**[10527.66s] English:** И обычно, и, к сожалению, это скорее крайность в негативную сторону, а не в позитивную.  
-**Translation:** 
-
-**[10535.16s] English:** Если я скажу,  
-**Translation:** 
-
-**[10537.40s] English:** «Это симпатичная кружка,  
-**Translation:** 
-
-**[10541.70s] English:** видел и получше, но это мне нравится»,  
-**Translation:** 
-
-**[10545.76s] English:** это никому не интересно.  
-**Translation:** 
-
-**[10547.44s] English:** Я должен либо обожать эту вещь, а в идеале заявить, что это преступление против человечества.  
-**Translation:** 
-
-**[10554.02s] English:** Да.  
-**Translation:** 
-
-**[10554.88s] English:** И этот цикл, он сам себя подпитывает,  
-**Translation:** 
-
-**[10559.60s] English:** и  
-**Translation:** 
-
-**[10560.00s] English:** И все как бы в это втягиваются, и...  
-**Translation:** 
-
-**[10563.22s] English:** Особенно в юности.  
-**Translation:** 
-
-**[10564.78s] English:** Я заметил одну интересную вещь.  
-**Translation:** 
-
-**[10567.02s] English:** В общем, я...  
-**Translation:** 
-
-**[10568.10s] English:** Мы же говорили, ты из Пассадины.  
-**Translation:** 
-
-**[10570.74s] English:** Так вот, я много времени проводил в Калтехе.  
-**Translation:** 
-
-**[10573.92s] English:** И занимался роботами.  
-**Translation:** 
-
-**[10577.34s] English:** И к нам на экскурсии приходили старшеклассники.  
-**Translation:** 
-
-**[10581.72s] English:** В общем, они приходили, чтобы посмотреть на роботов.  
-**Translation:** 
-
-**[10586.26s] English:** И из средней школы тоже.  
-**Translation:** 
-
-**[10587.98s] English:** И я заметил такую вещь, что...  
-**Translation:** 
-
-**[10590.92s] English:** И чем младше они были, тем этот эффект заметнее.  
-**Translation:** 
-
-**[10596.78s] English:** А именно...  
-**Translation:** 
-
-**[10598.36s] English:** Они все как будто боятся показать, что им что-то кажется крутым.  
-**Translation:** 
-
-**[10603.84s] English:** Они все словно оглядываются друг на друга, говоря, а так можно?  
-**Translation:** 
-
-**[10607.72s] English:** Да.  
-**Translation:** 
-
-**[10608.34s] English:** Поэтому их реакция по умолчанию это...  
-**Translation:** 
-
-**[10612.00s] English:** Да пофиг.  
-**Translation:** 
-
-**[10612.90s] English:** Это все глупости.  
-**Translation:** 
-
-**[10614.62s] English:** Это тупо.  
-**Translation:** 
-
-**[10615.46s] English:** Это ведь безопасное.  
-**Translation:** 
-
-**[10617.98s] English:** Позиция.  
-**Translation:** 
-
-**[10619.38s] English:** А проявить уязвимость, это по-настоящему смелый поступок, особенно для молодого парня.  
-**Translation:** 
-
-**[10624.66s] English:** Просто сказать охренеть как круто.  
-**Translation:** 
-
-**[10627.30s] English:** Типа, если я скажу, что это круто, меня сочтут ботаном, я рискую, что меня засмеют за то, что я сказал, мне это нравится.  
-**Translation:** 
-
-**[10634.88s] English:** В данном случае мне нравится этот робот.  
-**Translation:** 
-
-**[10637.40s] English:** Так что это реальный психологический эффект, с которым молодежь сталкивается и в реальной жизни.  
-**Translation:** 
-
-**[10643.16s] English:** И...  
-**Translation:** 
-
-**[10643.72s] English:** Я просто хочу обратиться к молодым людям, кто нас слушает.  
-**Translation:** 
-
-**[10647.98s] English:** Не бойтесь быть уязвимыми.  
-**Translation:** 
-
-**[10649.74s] English:** Будьте смелее и говорите, если вам что-то нравится.  
-**Translation:** 
-
-**[10652.84s] English:** И делайте это чаще в интернете.  
-**Translation:** 
-
-**[10654.76s] English:** Я думаю...  
-**Translation:** 
-
-**[10655.80s] English:** Думаю, люди сами создают интернет.  
-**Translation:** 
-
-**[10659.14s] English:** И молодежь, в большей степени, чем кто-либо еще, определяет будущее интернета.  
-**Translation:** 
-
-**[10664.80s] English:** Несите в мир больше любви.  
-**Translation:** 
-
-**[10666.82s] English:** Если вы любите игру, если вам нравится Overwatch, скажите это.  
-**Translation:** 
-
-**[10670.52s] English:** Полностью согласен.  
-**Translation:** 
-
-**[10671.94s] English:** Я как человек, которому немало доставалось в сети, а это участь любого разработчика игр,  
-**Translation:** 
-
-**[10677.98s] English:** ты просто все время огребаешь.  
-**Translation:** 
-
-**[10680.00s] English:** Уверен, тебе с твоей работой тоже прилетает.  
-**Translation:** 
-
-**[10682.88s] English:** И неважно, что ты получил сотню комплиментов,  
-**Translation:** 
-
-**[10687.84s] English:** в память врежется именно тот один.  
-**Translation:** 
-
-**[10691.66s] English:** Ты должен это прочесть, и тебя это не должно задеть.  
-**Translation:** 
-
-**[10695.46s] English:** Но оно застревает в памяти на годы, понимаешь?  
-**Translation:** 
+**[9558.36s] English:** In the end, it all fell on me and Tom Chilton.  
+**Translation:** Vocabulary: starcraft: 星际争霸
 
-**[10699.12s] English:** И я размышляю об этом, может это банально, но вот как я об этом думаю.  
+**[9562.20s] English:** Tom was a designer who...  
 **Translation:** 
 
-**[10703.64s] English:** Не происходит ли здесь какой-нибудь социальный дарвинизм?  
+**[9564.90s] English:** He was an excellent partner for me.  
 **Translation:** 
 
-**[10707.78s] English:** И больше всего я боюсь, что есть творцы.  
+**[9567.90s] English:** And a wonderful leader.  
 **Translation:** 
 
-**[10714.80s] English:** Вот сейчас, чтобы быть творцом, неважно, писателем, музыкантом,  
+**[9570.22s] English:** He did...  
 **Translation:** 
 
-**[10720.24s] English:** делать видео для интернета, кем угодно, или создавать игры.  
+**[9571.32s] English:** He came from Ultima Online.  
 **Translation:** 
 
-**[10726.22s] English:** Теперь частью навыков стало умение выдерживать  
-**Translation:** 
-
-**[10732.28s] English:** огромный шквал критики, какого мир еще не видел.  
-**Translation:** 
-
-**[10736.32s] English:** И я прокручиваю в голове следующий сценарий.  
-**Translation:** 
-
-**[10740.32s] English:** А существовал бы вообще Ван Гог,  
-**Translation:** 
-
-**[10744.32s] English:** если бы в его время был Reddit,  
-**Translation:** 
-
-**[10748.32s] English:** и варился бы этот бульон со всеми этими комментариями?  
-**Translation:** 
-
-**[10752.32s] English:** Но вот сколько людей в свое время могло поговорить  
-**Translation:** 
+**[9573.96s] English:** Therefore, I always looked up to him.  
+**Translation:** Vocabulary: ultima: 最终的
 
-**[10756.32s] English:** с Бетховеном при его жизни?  
+**[9576.70s] English:** He had much more experience than I did.  
 **Translation:** 
 
-**[10759.32s] English:** Или за неделю?  
+**[9579.16s] English:** This is a brief glimpse of the beginning of 2005.  
 **Translation:** 
 
-**[10761.32s] English:** Сколько людей могли сказать ему, что думают о его музыке,  
+**[9584.22s] English:** Mir in flames, servers on thin threads, barely holding on,  
 **Translation:** 
 
-**[10765.34s] English:** как о Бетховене?  
-**Translation:** 
-
-**[10766.32s] English:** Прямо в лицо.  
-**Translation:** 
+**[9588.18s] English:** WoW simply soared to the heavens.  
+**Translation:** Vocabulary: flames: 火焰; soared: 翱翔; threads: 线缆
 
-**[10768.32s] English:** А сейчас, если я захочу оскорбить, например, Брэда Питта,  
+**[9592.34s] English:** We, in essence, ended up at the head of WoW with Tom.  
 **Translation:** 
 
-**[10773.32s] English:** я могу сделать это хоть с десяти разных устройств,  
+**[9597.04s] English:** In that moment,...  
 **Translation:** 
 
-**[10776.32s] English:** и это...  
+**[9597.90s] English:** At the moment when I was promoted, I even...  
 **Translation:** 
 
-**[10778.32s] English:** Вот такой уровень доступа очень опасен.  
+**[9600.00s] English:** Duty for Lida did not exist. I was the senior game designer, and Tom and I were responsible for all the design of WoW.  
 **Translation:** 
 
-**[10782.32s] English:** И боюсь, что есть целое поколение творцов,  
+**[9609.60s] English:** It seemed completely normal to me. And I thought that everything happening with WoW was just  
 **Translation:** 
 
-**[10786.32s] English:** которые просто уходят в тень, и мы никогда не увидим их гения.  
+**[9619.68s] English:** It's a common thing in game development because it was my first game that I worked on.  
 **Translation:** 
 
-**[10791.32s] English:** Их попросту отсеивает негатив.  
+**[9625.86s] English:** And I thought it was the most fun adventure in my life because we worked on WoW and we put in a lot of hard work.  
 **Translation:** 
 
-**[10795.32s] English:** Вот вам реальный пример.  
+**[9636.62s] English:** Fatigue, and then I would come home, have dinner, and sit with my wife to play WoW for an hour.  
 **Translation:** 
 
-**[10797.32s] English:** Джей Уилсон,  
+**[9648.60s] English:** Somewhere around four, and then I... and the next day I went to work. That was the whole of my life.  
 **Translation:** 
 
-**[10800.00s] English:** которого я считаю одним из величайших гейм-дизайнеров,  
-**Translation:** 
-
-**[10804.60s] English:** он руководил разработкой Диабло 3,  
-**Translation:** 
+**[9655.84s] English:** World of Warcraft. I loved it. I enjoyed everything, from creative meetings...  
+**Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[10808.46s] English:** и на него вылилось столько хейта,  
+**[9664.48s] English:** With Chris Maitson, he was a true source of inspiration and muse, and ending with the simplest  
 **Translation:** 
 
-**[10811.00s] English:** что это так на него подействовало,  
-**Translation:** 
+**[9670.66s] English:** Dumb designer things, over which we, game designers, could argue.  
+**Translation:** Vocabulary: designers: 设计师; maitson: 梅森
 
-**[10814.08s] English:** что он по сути ушел из разработки игр  
+**[9678.70s] English:** Why should the button be at the bottom left instead of the right, and what does that mean.  
 **Translation:** 
 
-**[10816.42s] English:** и стал писать романы.  
+**[9684.52s] English:** And this was very interesting.  
 **Translation:** 
 
-**[10819.70s] English:** Я был за него очень рад, потому что он нашел свое место,  
+**[9685.84s] English:** On this dispute, it could take two hours, or is there a better way in general, dealing with all these thousands of small tasks?  
 **Translation:** 
 
-**[10824.96s] English:** и кажется, он сейчас возвращается в геймдев.  
-**Translation:** 
+**[9695.26s] English:** They brought me great joy, but also large obstacles. For example, large... at the very beginning of my work.  
+**Translation:** Vocabulary: dispute: 争端
 
-**[10827.54s] English:** Но мы потеряли, по сути, вдумайтесь,  
+**[9705.10s] English:** No, we didn't have well-established processes to handle such success with WoW, and it was literally  
 **Translation:** 
 
-**[10830.92s] English:** сколько людей любили Диабло 3  
+**[9712.84s] English:** They called GMs—game masters—who worked on WoW, and they  
 **Translation:** 
 
-**[10833.34s] English:** и заигрывали до двер Диабло 3.  
+**[9715.52s] English:** In principle, there were some guys from technical support who called on my home number.  
 **Translation:** 
 
-**[10836.64s] English:** И во многом это заслуга именно Джея.  
+**[9719.96s] English:** 3.  
 **Translation:** 
 
-**[10841.14s] English:** Но то же самое сообщество по сути отлучило его от разработки игр  
+**[9720.00s] English:** At three o'clock in the morning.  
 **Translation:** 
 
-**[10846.14s] English:** лет на 10-15.  
+**[9722.52s] English:** I remember there was a case with something...  
 **Translation:** 
 
-**[10848.74s] English:** Для меня это просто преступление.  
+**[9725.86s] English:** By some token of the faction in the Muddy Valley, and...  
 **Translation:** 
 
-**[10850.64s] English:** Да, точно.  
-**Translation:** 
+**[9730.14s] English:** Players found a way to dup it.  
+**Translation:** Vocabulary: token: 标志
 
-**[10851.92s] English:** И это, опять же, призыв к действию.  
+**[9732.84s] English:** Here, one GM calls me in panic at three o'clock in the morning and says...  
 **Translation:** 
 
-**[10855.66s] English:** Поддерживайте творцов.  
+**[9737.60s] English:** I am just sleeping.  
 **Translation:** 
 
-**[10857.42s] English:** Особенно творцов.  
+**[9739.90s] English:** How did we call them?  
 **Translation:** 
 
-**[10857.52s] English:** Особенно молодых.  
-**Translation:** 
+**[9741.68s] English:** Stormwatchers.  
+**Translation:** Vocabulary: stormwatchers: 风暴观测者
 
-**[10858.82s] English:** Поддерживайте их.  
+**[9742.86s] English:** This were giant infernals that we made, and they instantly killed everything.  
 **Translation:** 
 
-**[10860.34s] English:** Им это нужно.  
-**Translation:** 
+**[9747.42s] English:** And...  
+**Translation:** Vocabulary: infernals: 地狱武器; instantly: 立刻
 
-**[10861.80s] English:** Вы думаете, что негатив ничего не стоит, но это не так.  
+**[9748.10s] English:** We used them when we were still on Bay, for example, in inaccessible areas where players should not have been able to go, just in case they managed to get there with cheats.  
 **Translation:** 
 
-**[10865.78s] English:** Вы обкрадываете мир, лишая его великих творений.  
-**Translation:** 
+**[9757.08s] English:** Here this GM just spawns them all over the Thorny Valley because he fears that players are using an exploit.  
+**Translation:** Vocabulary: cheats: 作弊; exploit: 漏洞; inaccessible: 难以进入的; spawns: 生成; thorny: 荆棘丛生的
 
-**[10869.02s] English:** А еще дайте творцам быть несовершенными и расти.  
+**[9764.12s] English:** At three o'clock in the morning, I whisper into the phone because my wife is sleeping right next to me in the bed.  
 **Translation:** 
 
-**[10874.08s] English:** Потому что в этом и есть вся суть творчества — рисковать.  
-**Translation:** 
+**[9770.68s] English:** I whispered, because there were no mobile phones back then, and they called me on the home phone.  
+**Translation:** Vocabulary: whisper: 低声说; whispered: 低声说
 
-**[10879.68s] English:** А рисковать значит быть уязвимым и выглядеть кринжово.  
+**[9775.54s] English:** In general, that's how it was.  
 **Translation:** 
 
-**[10885.44s] English:** Делать то, что может...  
+**[9777.42s] English:** And it really pleased me.  
 **Translation:** 
 
-**[10887.40s] English:** Обернуться позорным провалом, когда ты стоишь как бы на...  
+**[9779.10s] English:** I loved this drive, both the grand events and the small details.  
 **Translation:** 
 
-**[10892.88s] English:** Ну, знаешь, на сцене в дурацком клоунском костюме, танцуешь, а никто не смеется.  
+**[9783.88s] English:** I felt that by supporting WoW Live,  
 **Translation:** 
 
-**[10899.92s] English:** Такое есть у комиков.  
+**[9788.12s] English:** We did it with Tom and our amazing team.  
 **Translation:** 
 
-**[10901.40s] English:** У них постоянно так при провалах, и они об этом без конца говорят.  
+**[9792.02s] English:** We were just learning to be a team in WoW.  
 **Translation:** 
 
-**[10904.56s] English:** Их номер, он просто не заходит, и приходится проходить через это.  
+**[9795.66s] English:** Just release the game on disks.  
 **Translation:** 
 
-**[10910.16s] English:** И надо... надо поддерживать творцов на этом пути.  
+**[9799.04s] English:** This was like...  
 **Translation:** 
 
-**[10915.40s] English:** Чтобы рождались великие вещи, мы должны...  
+**[9800.30s] English:** This was merely the first chapter of a book that could have up to 12 chapters.  
 **Translation:** 
 
-**[10917.28s] English:** Должны поддерживать таких людей.  
+**[9804.82s] English:** And surely further on,  
 **Translation:** 
 
-**[10920.00s] English:** Итак, после выхода WoW в Wrath of the Lich King,  
+**[9805.90s] English:** How to control the game,  
 **Translation:** 
 
-**[10924.14s] English:** а его, опять же, многие считают лучшим дополнением для WoW,  
-**Translation:** Vocabulary: wrath: 愤怒
+**[9807.42s] English:** How to release patches,  
+**Translation:** Vocabulary: patches: 补丁
 
-**[10927.44s] English:** вы ушли с поста геймдиректора WoW и переключились на разработку Титана.  
+**[9809.28s] English:** What kind of content to make?  
 **Translation:** 
 
-**[10934.10s] English:** Этой эпической, огромной игры, которая должна была затмить все остальные ММО.  
+**[9810.52s] English:** How to put out various fires,  
 **Translation:** 
 
-**[10945.14s] English:** То есть это был заоблачный замысел, верно? Просто гигантский.  
+**[9811.98s] English:** And what should technical support be like.  
 **Translation:** 
 
-**[10950.54s] English:** С блестящей командой, как ты сказал,  
-**Translation:** 
+**[9815.32s] English:** We, for example, debated whether a launcher is even necessary or not.  
+**Translation:** Vocabulary: launcher: 启动器
 
-**[10953.66s] English:** которая теперь закалена и знает, как делать крутые игры.  
+**[9818.92s] English:** Initially, the launcher was needed for WoW for one reason only,  
 **Translation:** 
 
-**[10961.02s] English:** Но проект отменили после семи лет разработки.  
+**[9823.02s] English:** To run anti-cheat on a computer.  
 **Translation:** 
 
-**[10964.38s] English:** Так расскажи, в чем был замысел и что пошло не так?  
+**[9825.62s] English:** Then we came up with how to integrate it.  
 **Translation:** 
 
-**[10967.78s] English:** Конечно. В общем, когда мы пожинали плоды успеха World of Warcraft,  
-**Translation:** Vocabulary: warcraft: 战争艺术
+**[9830.04s] English:** Directly into the game, not the launcher.  
+**Translation:** Vocabulary: integrate: 合并
 
-**[10973.70s] English:** в студии бытовало мнение, что WoW не может быть вечен.  
+**[9832.86s] English:** Then I had my first serious conversation with Mike Marheim,  
 **Translation:** 
 
-**[10978.88s] English:** Что WoW продержится.  
+**[9837.42s] English:** He said, guys, return the launcher.  
 **Translation:** 
 
-**[10980.00s] English:** Продержится на пике лет пять, а потом постепенно сойдет на нет.  
+**[9839.60s] English:** We gave him...  
 **Translation:** 
 
-**[10984.64s] English:** И тогда у студии начнутся настоящие проблемы,  
+**[9840.00s] English:** Why?" he replied, "This is the best way to communicate with our players.  
 **Translation:** 
 
-**[10987.72s] English:** если у нас не появится другая массовая онлайн игра,  
+**[9844.80s] English:** I remember, I wanted to get rid of him then.  
 **Translation:** 
 
-**[10992.84s] English:** как бы ей на смену.  
+**[9848.26s] English:** And until now, I understand that Mike was right.  
 **Translation:** 
 
-**[10995.56s] English:** Поэтому, начиная где-то году в 2006, а может и в 2005,  
+**[9851.04s] English:** This launcher turned out to be our best solution.  
 **Translation:** 
 
-**[11006.24s] English:** пошли разговоры о создании команды,  
+**[9854.36s] English:** In essence, that's ultimately what Battle.net became.  
 **Translation:** 
 
-**[11010.00s] English:** и они стали набирать обороты.  
+**[9859.08s] English:** But all these decisions,  
 **Translation:** 
 
-**[11011.88s] English:** А мы тогда как раз работали над Burning Crusade.  
+**[9861.36s] English:** When it came time for Burning Crusade,  
 **Translation:** Vocabulary: crusade: 圣战
 
-**[11017.04s] English:** Эту инициативу возглавил Роб Пардо.  
+**[9864.82s] English:** We have already become leading developers with Tom.  
 **Translation:** 
 
-**[11020.68s] English:** Работу над разработкой Титан.  
+**[9867.74s] English:** We got a raise, but we can say that there were two major setbacks.  
+**Translation:** Vocabulary: setbacks: 挫折
+
+**[9873.08s] English:** When people left Blizzard in entire teams.  
 **Translation:** 
 
-**[11022.70s] English:** У нас тогда и команды толком не было.  
+**[9876.02s] English:** They were disappointed.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[9878.80s] English:** Although it's hard to believe.  
 **Translation:** 
 
-**[11026.22s] English:** И я помню, что был по уши в работе над Burning Crusade,  
-**Translation:** 
-
-**[11031.36s] English:** но при этом ходил на совещания по Титан.  
-**Translation:** 
-
-**[11033.86s] English:** Роб собрал группу из людей со всей компании,  
-**Translation:** 
-
-**[11037.04s] English:** и мы начали прикидывать,  
-**Translation:** 
-
-**[11039.60s] English:** какой игрок будет играть.  
-**Translation:** 
-
-**[11040.00s] English:** будет это новое ММО, и когда она смогла бы выйти.  
-**Translation:** 
-
-**[11044.52s] English:** И в итоге настоящая разработка всерьез началась где-то в 2007.  
-**Translation:** 
-
-**[11052.38s] English:** Тогда в команду пришли первые люди,  
-**Translation:** 
-
-**[11054.92s] English:** и это был очень амбициозный проект,  
-**Translation:** 
-
-**[11057.14s] English:** включавший создание нового движка с нуля.  
-**Translation:** 
-
-**[11060.36s] English:** Думаю, первым в команду пришел парень по имени Джон Лафлер.  
-**Translation:** 
-
-**[11065.52s] English:** Он был просто гениальным игровым программистом.  
-**Translation:** 
-
-**[11070.00s] English:** И тот движок, который в итоге не подошел для «Титан»,  
-**Translation:** 
-
-**[11074.00s] English:** потом стал движком для «Овервотч».  
-**Translation:** 
-
-**[11077.94s] English:** Так что для него это большая история успеха.  
-**Translation:** 
-
-**[11081.04s] English:** Суть игры была в том, что действия происходят на земле будущего,  
-**Translation:** 
-
-**[11087.00s] English:** а игроки являются тайными агентами.  
-**Translation:** 
-
-**[11091.60s] English:** И днем у них всех была бы обычная работа,  
-**Translation:** 
-
-**[11095.06s] English:** а ночью они занимались крутыми шпионскими делами.  
-**Translation:** 
-
-**[11100.00s] English:** И эти шпионские миссии были как в шутере от первого лица,  
-**Translation:** 
-
-**[11105.88s] English:** но с запредельными способностями.  
-**Translation:** 
-
-**[11108.88s] English:** Вроде тех, что сейчас в «Овервотч», ведь оттуда они и пришли.  
-**Translation:** 
-
-**[11113.88s] English:** А в дневной части игроки могли заниматься бизнесом.  
-**Translation:** 
-
-**[11117.88s] English:** Мы многое почерпнули из таких игр, как «Энимал Кроссинг»,  
-**Translation:** 
-
-**[11122.88s] English:** «Харвест Мун», «Симс».  
-**Translation:** 
-
-**[11125.88s] English:** У нас был гениальный геймдизайнер и геймдиректор.  
-**Translation:** 
-
-**[11130.00s] English:** По имени Мэтт Браун, который был креативным директором «Симс».  
-**Translation:** 
-
-**[11135.00s] English:** Он перешел к нам.  
-**Translation:** 
-
-**[11138.00s] English:** И по нашей задумке, вся эта дневная часть включала бизнес и дом.  
-**Translation:** 
-
-**[11146.00s] English:** Можно было построить свой дом, жить в своем районе.  
-**Translation:** 
-
-**[11152.00s] English:** Но кроме того, была еще одна идея в плане геймдизайна и технической части,  
-**Translation:** 
-
-**[11159.00s] English:** что можно было сделать.  
-**Translation:** 
-
-**[11160.00s] English:** В отличие от World of Warcraft, который, как сейчас говорят, есть такой термин «шардирован».  
+**[9880.62s] English:** We have just released World of Warcraft,  
 **Translation:** Vocabulary: warcraft: 战争艺术
 
-**[11166.86s] English:** То есть люди играют в разных мирах, на разных серверах.  
+**[9883.42s] English:** And the entire team just up and left.  
 **Translation:** 
 
-**[11170.52s] English:** На одном сервере WoW, я хоть давно уже не в той команде, но в те времена на одном сервере WoW помещалось тысяч пять человек, прежде чем приходилось открывать новый сервер.  
+**[9886.18s] English:** I was sitting such that my desk was directly opposite Morhaim's office.  
 **Translation:** 
 
-**[11181.98s] English:** А главная идея Titan была в том, чтобы все играли на одном сервере.  
+**[9891.00s] English:** And I saw how they went one by one to him and resigned.  
 **Translation:** 
 
-**[11187.00s] English:** Это была игра с единым сервером и единым миром.  
-**Translation:** Vocabulary: titan: 巨无霸
+**[9894.16s] English:** This is exactly who founded Carbain.  
+**Translation:** Vocabulary: carbain: 卡巴因
 
-**[11190.68s] English:** И этот мир был огромен.  
+**[9896.74s] English:** And they made him...  
 **Translation:** 
 
-**[11193.20s] English:** Сеттингом выступала «Земля будущего».  
+**[9897.72s] English:** Game Wildstar.  
+**Translation:** Vocabulary: wildstar: 星际征途
+
+**[9899.10s] English:** In the end, they did it for 10 years.  
 **Translation:** 
 
-**[11197.22s] English:** И мы буквально строили...  
+**[9902.06s] English:** They were very unhappy with World of Warcraft.  
 **Translation:** 
 
-**[11199.44s] English:** У нас был, как мы его звали, Бэй-Сити, то есть Сан-Франциско.  
+**[9905.66s] English:** And they were dissatisfied....  
 **Translation:** 
 
-**[11203.72s] English:** У нас был Голливуд.  
+**[9907.80s] English:** I don't know specifically what they're unhappy about, but they are discontented to a great extent.  
+**Translation:** Vocabulary: discontented: 不满意的; dissatisfied: 不满意
+
+**[9912.70s] English:** What went immediately after the release of WoW.  
 **Translation:** 
 
-**[11205.76s] English:** И нам нужно было построить всю Калифорнию между ними.  
+**[9917.08s] English:** This is incredible.  
 **Translation:** 
 
-**[11209.82s] English:** А еще мы хотели добавить Каир и Лондон.  
+**[9918.14s] English:** But why?  
 **Translation:** 
 
-**[11213.16s] English:** И тут понимаешь, а как все это связать воедино?  
+**[9919.08s] English:** May be because they put their soul into the game and just burned out?  
 **Translation:** 
 
-**[11217.00s] English:** В игре было вождение, полноценное вождение в духе игр GTA.  
+**[9923.28s] English:** Yes, and it would be unfair to speak on their behalf.  
 **Translation:** 
 
-**[11225.94s] English:** Это был просто гигантский, просто колоссальный проект, с абсолютно новым движком, новой командой, новой IP, то есть интеллектуальной собственностью, сеттингом, над которой мы очень долго бились.  
+**[9926.00s] English:** But I think,  
 **Translation:** 
 
-**[11243.92s] English:** Мы столько пытались определиться с этой всей...  
+**[9927.72s] English:** They were promised some compensation, which they did not receive immediately.  
 **Translation:** 
 
-**[11247.00s] English:** Мы столько пытались определиться с этой всей...  
+**[9933.62s] English:** I don't know if there was anything in the game.  
 **Translation:** 
 
-**[11247.82s] English:** Например, есть там пришельцы или же их нет?  
+**[9935.36s] English:** Knows, what's strange in game dev is  
 **Translation:** 
 
-**[11250.96s] English:** Может, это звучит тупо и забавно, но когда создаешь игру, особенно прорабатываешь мир, то нужны правила.  
+**[9938.76s] English:** When you have an idea,  
 **Translation:** 
 
-**[11260.20s] English:** Именно на них и держится весь лор игры.  
+**[9941.80s] English:** And you start pitching it to people.  
 **Translation:** 
 
-**[11263.08s] English:** Вот это в мире есть, а этого нет.  
+**[9944.20s] English:** This is the best moment in the life of the game.  
+**Translation:** Vocabulary: pitching: 投球
+
+**[9947.34s] English:** Then you work on her.  
 **Translation:** 
 
-**[11265.60s] English:** А собственно, почему?  
+**[9949.44s] English:** The games I worked on were created over five years.  
 **Translation:** 
 
-**[11267.40s] English:** Потому что кто-то так решил, и точка.  
+**[9953.82s] English:** It took two and a half years to develop one Overwatch game.  
 **Translation:** 
 
-**[11271.04s] English:** Но эта разработка началась в 2007-м.  
+**[9957.72s] English:** And with each day that brings you closer to the game,  
 **Translation:** 
 
-**[11275.86s] English:** Сначала с идеи.  
+**[9960.00s] English:** Gameplay approaches release, the ideal image of the game becomes stronger.  
 **Translation:** 
 
-**[11277.00s] English:** С идеей брейнштормов и ранних набросков, а по-настоящему...  
+**[9964.50s] English:** Headache, which differs from reality, and you always  
+**Translation:** Vocabulary: approaches: 接近; differs: 不同
+
+**[9970.48s] English:** You produce something for which you had to go to enormous lengths.  
 **Translation:** 
 
-**[11280.00s] English:** К настоящему все закрутилось в конце 2007-го, но мне еще предстояло выпустить Wrath of the Lich King. И это было... Мы всегда поднимали тост с шампанским... Я это помню, ведь это был день выборов. Кажется, это был день выборов и мой день рождения, когда выбрали Обаму.  
+**[9974.20s] English:** Compromises, which do not even come close to matching the imagined,  
+**Translation:** Vocabulary: compromises: 妥协
+
+**[9977.94s] English:** Of the initial idea, so that you are disappointed.  
+**Translation:** 
+
+**[9982.66s] English:** In the very concept.  
+**Translation:** 
+
+**[9983.84s] English:** That is, you release it, but you're constantly in a state of  
+**Translation:** 
+
+**[9988.38s] English:** Disappointments.  
+**Translation:** Vocabulary: disappointments: 失望
+
+**[9990.04s] English:** In essence, you are producing something even worse than  
+**Translation:** 
+
+**[9994.66s] English:** That which you dreamed and imagined.  
+**Translation:** 
+
+**[9997.20s] English:** You are doing less and less, cutting back and constantly saying "no.  
+**Translation:** 
+
+**[10001.78s] English:** Yes, mentally this is very heavy, but, seeing it from the outside,  
+**Translation:** 
+
+**[10005.22s] English:** The result is one of the greatest games ever played.  
+**Translation:** 
+
+**[10008.20s] English:** Millions of people have played for thousands of hours, but...  
+**Translation:** 
+
+**[10012.84s] English:** Here's what, was there a moment of realization just how enormous  
+**Translation:** 
+
+**[10018.64s] English:** Did he become a thief?  
+**Translation:** Vocabulary: realization: 领悟
+
+**[10019.18s] English:** Vov.  
+**Translation:** 
+
+**[10020.18s] English:** But not in terms of server statistics, but in terms of cultural  
+**Translation:** 
+
+**[10024.94s] English:** Influences.  
+**Translation:** 
+
+**[10025.94s] English:** I first realized it at the first BlizzCon, which was  
+**Translation:** 
+
+**[10031.66s] English:** In 2005, when Ovosh came out, and it's strange to talk about this,  
+**Translation:** 
+
+**[10038.66s] English:** But although not everyone, many of the team were very subdued.  
+**Translation:** Vocabulary: subdued: 情绪低落
+
+**[10046.08s] English:** After the launch, Vov had...  
+**Translation:** 
+
+**[10049.04s] English:** There were a lot of server issues because the game took off.  
+**Translation:** 
+
+**[10056.42s] English:** Much stronger than we expected, and the load on the servers  
+**Translation:** 
+
+**[10062.06s] English:** It was simply crazy.  
+**Translation:** 
+
+**[10064.10s] English:** We desperately tried to hire database programmers.  
+**Translation:** 
+
+**[10067.10s] English:** Data, because we simply didn't know how to handle it.  
+**Translation:** Vocabulary: desperately: 迫切地; programmers: 程序员
+
+**[10071.08s] English:** With such...  
+**Translation:** 
+
+**[10073.08s] English:** With such a scale.  
+**Translation:** 
+
+**[10075.80s] English:** But when you are a regular employee...  
+**Translation:** 
+
+**[10078.04s] English:** And besides, as I have already said, so  
+**Translation:** 
+
+**[10080.00s] English:** When mass departures began, people left Blizzard and founded their own studios.  
+**Translation:** 
+
+**[10085.90s] English:** So there emerged two well-known studios, Carbain and Red 5.  
+**Translation:** Vocabulary: carbain: 卡班; departures: 离职
+
+**[10091.08s] English:** Because of this, we lost key people.  
+**Translation:** 
+
+**[10095.14s] English:** When Red 5 studio was formed, Tim Lees, Mark Kern, and our art director Bill Petros left us.  
+**Translation:** Vocabulary: petros: 比尔·佩特罗斯
+
+**[10102.92s] English:** When Carbain appeared, it seems that almost all of our animators and some of the best programmers left.  
+**Translation:** 
+
+**[10110.82s] English:** It is demoralizing when you lose such people on the team.  
+**Translation:** Vocabulary: animators: 动画师; demoralizing: 士气低落的
+
+**[10115.30s] English:** We were up to our ears in problems.  
+**Translation:** 
+
+**[10118.14s] English:** Our servers went down, and we couldn't handle the influx of people.  
+**Translation:** Vocabulary: influx: 涌入
+
+**[10124.70s] English:** We needed to release patches, and here we are making them.  
+**Translation:** 
+
+**[10129.16s] English:** And at some point, there was only one animator who was still working.  
+**Translation:** Vocabulary: animator: 动画师; patches: 补丁
+
+**[10132.92s] English:** He couldn't resist, but in the end, he went and so did he.  
+**Translation:** 
+
+**[10135.56s] English:** And here we are, sort of, let's do the patch without animators.  
+**Translation:** 
+
+**[10142.02s] English:** Most of our art team had also left by then.  
+**Translation:** 
+
+**[10145.52s] English:** You just try to survive, and the fighting spirit was simply nonexistent.  
+**Translation:** 
+
+**[10150.96s] English:** All in Team 2 were in complete despair.  
+**Translation:** 
+
+**[10156.08s] English:** The Commando VOV was called Commando 2, and we felt that we had failed.  
+**Translation:** Vocabulary: commando: 突击队
+
+**[10160.02s] English:** And that's exactly when...  
+**Translation:** 
+
+**[10162.92s] English:** How about holding Blicon?  
+**Translation:** 
+
+**[10168.58s] English:** She started doing it because EverQuest was hosting their fan events.  
+**Translation:** 
+
+**[10173.14s] English:** They understood that this was a big social game with incentives.  
+**Translation:** Vocabulary: incentives: 奖励
+
+**[10177.10s] English:** And people simply gathered in some hotel or banquet hall,  
+**Translation:** 
+
+**[10181.46s] English:** And they sat at the table as a whole group.  
+**Translation:** Vocabulary: banquet: 宴会
+
+**[10184.60s] English:** And, to be honest, I remember sitting at a meeting.  
+**Translation:** 
+
+**[10188.04s] English:** About how Close-in will be.  
+**Translation:** 
+
+**[10190.82s] English:** Do specifically Pardo say...?  
+**Translation:** 
+
+**[10192.92s] English:** Blizzard is more than that. We are not just one game.  
+**Translation:** Vocabulary: blizzard: 暴雪
+
+**[10196.44s] English:** I know that everyone is currently obsessed with WWII, but we should...  
+**Translation:** 
+
+**[10200.00s] English:** To make our own BlizzCon. Then we were developing a game called StarCraft and Ghost, and they were just being prepared.  
+**Translation:** Vocabulary: obsessed: 着迷
+
+**[10207.40s] English:** To show on this show. And we also had Frozen Tron, which was an add-on for Warcraft 3, but we knew,  
+**Translation:** 
+
+**[10215.12s] English:** What are we going to do with StarCraft II? And to top it off, Blizzard North let go of its staff, although this is generally  
+**Translation:** Vocabulary: warcraft: 魔兽争霸
+
+**[10221.98s] English:** It's an separate story, but we thought, hey, why not put on a great show at this very BlizzCon.  
+**Translation:** 
+
+**[10228.50s] English:** At first, we announced it, and in response, a grave silence. You know, that feeling when you say something and there's no reaction.  
+**Translation:** 
+
+**[10236.28s] English:** You're burning out and thinking, damn, this is going to be great; we're doing BlizzCon. But in response, there's silence. What's going on?  
+**Translation:** 
+
+**[10242.74s] English:** Still for BlizzCon? Who has he given in to? And here we are, like idiots, sitting and reading forums, while they constantly pour on us.  
+**Translation:** Vocabulary: idiots: 笨蛋
+
+**[10249.20s] English:** Grime, they said, this server lags, and you can't even get into that one. That's how we saw this world and what was happening.  
+**Translation:** 
+
+**[10257.68s] English:** Here...  
+**Translation:** 
+
+**[10258.50s] English:** Here, as I have already said, we must give credit to Mark Marhey. He insisted that we involve ourselves in  
+**Translation:** 
+
+**[10266.44s] English:** Launcher. They placed tickets for BlizzCon directly in the launcher, which they hadn't done before; everything was on  
+**Translation:** Vocabulary: launcher: 启动器
+
+**[10273.12s] English:** Site. And suddenly, every time someone logged into World of Warcraft, they saw an announcement: we're hosting BlizzCon in...  
+**Translation:** 
+
+**[10280.20s] English:** Anaheim. Come visit. The tickets sold out instantly. We sold them moments after they became available. And  
+**Translation:** Vocabulary: anaheim: 安纳海姆; instantly: 立刻; logged: 登录
+
+**[10288.50s] English:** When I arrived at that show, it was one of the most emotional events in my life. Just  
+**Translation:** 
+
+**[10297.32s] English:** An incredible stream of love. And yet, before this, it felt like you were just reading the internet, and you thought,  
+**Translation:** 
+
+**[10309.70s] English:** What everyone hates about you is that the most passionate people online express their opinions as harshly as possible.  
+**Translation:** 
+
+**[10316.44s] English:** This attracts attention.  
+**Translation:** Vocabulary: attracts: 吸引; harshly: 严厉地; passionate: 热情的
+
+**[10318.50s] English:** This lesson cost me...  
+**Translation:** 
+
+**[10320.00s] English:** Still at the very beginning, and it's so disappointing because then you meet these people in person and it turns out  
+**Translation:** 
+
+**[10329.42s] English:** They love World of Warcraft, and all they want to do is talk about it and listen to what will happen next.  
+**Translation:** 
+
+**[10337.46s] English:** And being surrounded by other World of Warcraft fans is for me the most fascinating topic on the essence of humanity.  
+**Translation:** Vocabulary: warcraft: 魔兽世界
+
+**[10345.38s] English:** Nature is pure truth, and it would be nice to somehow fix that, but on the other hand, maybe.  
+**Translation:** 
+
+**[10350.72s] English:** And maybe that's exactly how it was intended, but in person, all the people who are passionate about some topic, regardless of which one, are amazing.  
+**Translation:** 
+
+**[10359.12s] English:** Whether it be games or any technological conferences, these people are full of love, aren't they?  
+**Translation:** 
+
+**[10368.18s] English:** They talk about how even their debates are infused with this topic.  
+**Translation:** Vocabulary: conferences: 会议; infused: 渗透
+
+**[10374.78s] English:** Ability:  
+**Translation:** 
+
+**[10375.38s] English:** With respect, gratitude, and love for the game and its very theme, I must say in the network you are right; I don't know where.  
+**Translation:** 
+
+**[10382.88s] English:** The matter is about the popularity of clicks or something else, but the main way of communication online is mostly on  
+**Translation:** 
+
+**[10390.38s] English:** Smiles and cynicism, if you say "I love this apple. I love apples," or "I love bananas, in general.  
+**Translation:** Vocabulary: cynicism: 怀疑主义; popularity: 受欢迎程度
+
+**[10402.74s] English:** I love X, no matter.  
+**Translation:** 
+
+**[10405.38s] English:** Anchor: "This is one of the three most important and bad flows of new forces.  
+**Translation:** Vocabulary: anchor: 定锚
+
+**[10411.64s] English:** All of this in every possible way in the battle.  
+**Translation:** 
+
+**[10413.74s] English:** Handcrafted  
+**Translation:** Vocabulary: handcrafted: 手工制作
+
+**[10414.36s] English:** Team  
+**Translation:** 
+
+**[10415.26s] English:** said and  
+**Translation:** 
+
+**[10416.56s] English:** There is  
+**Translation:** 
+
+**[10417.84s] English:** Made.  
+**Translation:** 
+
+**[10419.00s] English:** Tom  
+**Translation:** 
+
+**[10420.12s] English:** In  
+**Translation:** 
+
+**[10421.70s] English:** Stihiiyiyya  
+**Translation:** 
+
+**[10422.50s] English:** Or  
+**Translation:** 
+
+**[10423.54s] English:** Work  
+**Translation:** 
+
+**[10424.52s] English:** How can I help you?  
+**Translation:** 
+
+**[10425.62s] English:** Work  
+**Translation:** 
+
+**[10426.52s] English:** Mm.  
+**Translation:** 
+
+**[10427.54s] English:** Ya.  
+**Translation:** 
+
+**[10428.68s] English:** Ya.  
+**Translation:** 
+
+**[10429.50s] English:** Now.  
+**Translation:** 
+
+**[10430.12s] English:** Toimbus  
+**Translation:** 
+
+**[10430.90s] English:** He  
+**Translation:** 
+
+**[10432.38s] English:** We  
+**Translation:** 
+
+**[10433.34s] English:** I'm sorry, but "ми원�an" doesn't appear to be a properly formed English word or phrase. Could you please provide more context or clarify the intended text?  
+**Translation:** 
+
+**[10433.92s] English:** Network.  
+**Translation:** Vocabulary: clarify: 澄清
+
+**[10435.24s] English:** And they gathered because they love this work.  
+**Translation:** 
+
+**[10437.96s] English:** Yes.  
+**Translation:** 
+
+**[10438.74s] English:** This is interesting.  
+**Translation:** 
+
+**[10440.00s] English:** This aspect of the internet repels many, depending on the game.  
+**Translation:** Vocabulary: repels: 排斥
+
+**[10444.20s] English:** But if you go to Discord or Reddit, in communities dedicated to a specific game, if you're not used to it,  
+**Translation:** 
+
+**[10453.58s] English:** I seldom go there, and when I do, I think, oh, what a lot of harsh jokes and ridicule there are.  
+**Translation:** Vocabulary: ridicule: 嘲笑; seldom: 很少
+
+**[10461.66s] English:** To this, you quickly get used to and understand, but more love would be nice.  
+**Translation:** 
+
+**[10464.88s] English:** I'm slightly uncomfortable with this, because I myself have contributed to the formation of this internet culture.  
+**Translation:** 
+
+**[10476.08s] English:** In essence, these were social networks, just that they weren't called that back then.  
+**Translation:** 
+
+**[10480.94s] English:** Do you understand that I had a reputation for being a sharper person than I was in reality.  
+**Translation:** Vocabulary: sharper: 更机灵的
+
+**[10487.74s] English:** There were several noticeable posts that survived almost 30 years later.  
+**Translation:** 
+
+**[10493.24s] English:** And people love it.  
+**Translation:** 
+
+**[10494.88s] English:** They cannot remember them, but they forget about the times when I behaved calmly, and that's disappointing.  
+**Translation:** 
+
+**[10503.04s] English:** As a game designer, I think a lot about how social networks are structured.  
+**Translation:** Vocabulary: behaved: 表现; calmly: 冷静地; cannot: 不能
+
+**[10508.32s] English:** And, unfortunately, social networks are structured in such a way,  
+**Translation:** 
+
+**[10515.52s] English:** What hyperbola works best?  
+**Translation:** Vocabulary: hyperbola: 双曲线
+
+**[10519.70s] English:** And it's on this that they earn their points.  
+**Translation:** 
+
+**[10524.88s] English:** Pushing everything to the extreme.  
+**Translation:** 
+
+**[10527.66s] English:** Usually, and unfortunately, this is more of a negative extreme rather than a positive one.  
+**Translation:** 
+
+**[10535.16s] English:** If I say,  
+**Translation:** 
+
+**[10537.40s] English:** This is a cute mug,  
+**Translation:** 
+
+**[10541.70s] English:** I've seen better, but this one I like.  
+**Translation:** 
+
+**[10545.76s] English:** This is not interesting to anyone.  
+**Translation:** 
+
+**[10547.44s] English:** I must either love this thing, and ideally declare it a crime against humanity.  
+**Translation:** Vocabulary: ideally: 理想地
+
+**[10554.02s] English:** Yes.  
+**Translation:** 
+
+**[10554.88s] English:** And this cycle feeds itself.  
+**Translation:** 
+
+**[10559.60s] English:** And  
+**Translation:** 
+
+**[10560.00s] English:** And they all seem to get drawn into it, and...  
+**Translation:** 
+
+**[10563.22s] English:** Especially in youth.  
+**Translation:** 
+
+**[10564.78s] English:** I noticed one interesting thing.  
+**Translation:** 
+
+**[10567.02s] English:** In general, I...  
+**Translation:** 
+
+**[10568.10s] English:** We said you were from Passadena, California.  
+**Translation:** Vocabulary: california: 加利福尼亚; passadena: 帕萨迪纳
+
+**[10570.74s] English:** So, I spent a lot of time at Caltech.  
+**Translation:** 
+
+**[10573.92s] English:** He worked with robots.  
+**Translation:** Vocabulary: caltech: 加州理工学院
+
+**[10577.34s] English:** And senior high school students came on our excursion.  
+**Translation:** 
+
+**[10581.72s] English:** In general, they came to see the robots.  
+**Translation:** Vocabulary: excursion: 校外考察
+
+**[10586.26s] English:** From the middle school as well.  
+**Translation:** 
+
+**[10587.98s] English:** I noticed something that...  
+**Translation:** 
+
+**[10590.92s] English:** The older they were, the less noticeable this effect became.  
+**Translation:** 
+
+**[10596.78s] English:** Specifically,...  
+**Translation:** 
+
+**[10598.36s] English:** They all seem to be afraid to show that something strikes them as cool.  
+**Translation:** 
+
+**[10603.84s] English:** They all seem to be looking at each other, as if asking, "Is this okay?  
+**Translation:** 
+
+**[10607.72s] English:** Yes.  
+**Translation:** 
+
+**[10608.34s] English:** Therefore, their default reaction is...  
+**Translation:** 
+
+**[10612.00s] English:** Da, who cares.  
+**Translation:** 
+
+**[10612.90s] English:** This is all nonsense.  
+**Translation:** 
+
+**[10614.62s] English:** This is stupid.  
+**Translation:** 
+
+**[10615.46s] English:** This is definitely safe.  
+**Translation:** 
+
+**[10617.98s] English:** Position.  
+**Translation:** 
+
+**[10619.38s] English:** To show vulnerability is really a brave move, especially for a young guy.  
+**Translation:** Vocabulary: vulnerability: 脆弱性
+
+**[10624.66s] English:** Just say how awesome it is.  
+**Translation:** 
+
+**[10627.30s] English:** Type of thing, if I say it's cool, they'll think I'm a nerd, I risk being laughed at for saying it, but I like it anyway.  
+**Translation:** 
+
+**[10634.88s] English:** In this case, I like this robot.  
+**Translation:** 
+
+**[10637.40s] English:** So, this is a real psychological effect that young people face both in real life.  
+**Translation:** 
+
+**[10643.16s] English:** And...  
+**Translation:** 
+
+**[10643.72s] English:** I just want to address young people who are listening.  
+**Translation:** 
+
+**[10647.98s] English:** Do not be afraid to be vulnerable.  
+**Translation:** 
+
+**[10649.74s] English:** Be braver and speak up if something appeals to you.  
+**Translation:** Vocabulary: appeals: 有吸引力; vulnerable: 脆弱的
+
+**[10652.84s] English:** Do this more often online.  
+**Translation:** 
+
+**[10654.76s] English:** I think...  
+**Translation:** 
+
+**[10655.80s] English:** I think people create the internet themselves.  
+**Translation:** 
+
+**[10659.14s] English:** Young people, more than anyone else, define the future of the internet.  
+**Translation:** 
+
+**[10664.80s] English:** Bring more love into the world.  
+**Translation:** 
+
+**[10666.82s] English:** If you love the game, if you like Overwatch, say it.  
+**Translation:** 
+
+**[10670.52s] English:** Completely agree.  
+**Translation:** 
+
+**[10671.94s] English:** As a person who has had my fair share of troubles in the net, and this is the lot of any game developer,  
+**Translation:** 
+
+**[10677.98s] English:** You just keep getting into trouble all the time.  
+**Translation:** 
+
+**[10680.00s] English:** I'm sure you also get feedback on your work.  
+**Translation:** 
+
+**[10682.88s] English:** It doesn't matter that you received a hundred compliments,  
+**Translation:** 
+
+**[10687.84s] English:** In memory, it will be precisely that one.  
+**Translation:** Vocabulary: compliments: 赞美; precisely: 恰好
+
+**[10691.66s] English:** You should read this, and it shouldn't affect you.  
+**Translation:** 
+
+**[10695.46s] English:** But it stays in your memory for years, do you understand?  
+**Translation:** 
+
+**[10699.12s] English:** And I reflect on this, maybe it's cliché, but here's how I think about it.  
+**Translation:** 
+
+**[10703.64s] English:** Is there any social darwinism at play here?  
+**Translation:** 
+
+**[10707.78s] English:** And more than anything, I fear that there are creators.  
+**Translation:** 
+
+**[10714.80s] English:** Here now, to be a creator, whether it be a writer, musician,  
+**Translation:** 
+
+**[10720.24s] English:** To make videos for the internet, anyone can do it, or create games.  
+**Translation:** 
+
+**[10726.22s] English:** Now, part of the skills became the ability to endure.  
+**Translation:** 
+
+**[10732.28s] English:** An enormous storm of criticism, like the world has never seen.  
+**Translation:** 
+
+**[10736.32s] English:** And I run through the next scenario in my head.  
+**Translation:** Vocabulary: scenario: 情景
+
+**[10740.32s] English:** Would Van Gogh have existed at all?  
+**Translation:** 
+
+**[10744.32s] English:** If Reddit existed in his time,  
+**Translation:** 
+
+**[10748.32s] English:** Would this broth simmer with all those comments?  
+**Translation:** 
+
+**[10752.32s] English:** But how many people at one time could have spoken about it?  
+**Translation:** Vocabulary: broth: 汤; simmer: 慢煮
+
+**[10756.32s] English:** During Beethoven's lifetime?  
+**Translation:** 
+
+**[10759.32s] English:** Or in a week?  
+**Translation:** 
+
+**[10761.32s] English:** How many people could tell him what they think of his music?  
+**Translation:** 
+
+**[10765.34s] English:** How about Beethoven?  
+**Translation:** 
+
+**[10766.32s] English:** Straight in the face.  
+**Translation:** 
+
+**[10768.32s] English:** Now, if I wanted to insult, for example, Brad Pitt,  
+**Translation:** Vocabulary: insult: 侮辱
+
+**[10773.32s] English:** I can do this with ten different devices, if needed.  
+**Translation:** 
+
+**[10776.32s] English:** And this...  
+**Translation:** 
+
+**[10778.32s] English:** This level of access is very dangerous.  
+**Translation:** 
+
+**[10782.32s] English:** I fear there is an entire generation of creators,  
+**Translation:** 
+
+**[10786.32s] English:** Which simply fade into the shadows, and we may never see their genius.  
+**Translation:** 
+
+**[10791.32s] English:** They simply筛除负面情绪。 (Note: The original Russian sentence does not directly translate to English without additional context, so I've kept it in Chinese as per the instruction not to add new facts.)  
+**Translation:** 
+
+**[10795.32s] English:** Here's a real example.  
+**Translation:** 
+
+**[10797.32s] English:** Jay Wilson,  
+**Translation:** 
+
+**[10800.00s] English:** Which I consider one of the greatest game designers,  
+**Translation:** 
+
+**[10804.60s] English:** He guided the development of Diablo 3,  
+**Translation:** Vocabulary: designers: 设计师; diablo: 迪亚波罗
+
+**[10808.46s] English:** And so much hate was directed at him.  
+**Translation:** 
+
+**[10811.00s] English:** What did such an effect have on him?  
+**Translation:** 
+
+**[10814.08s] English:** What he essentially did was exit game development.  
+**Translation:** 
+
+**[10816.42s] English:** And he began writing novels.  
+**Translation:** 
+
+**[10819.70s] English:** I was very happy for him because he found his place,  
+**Translation:** 
+
+**[10824.96s] English:** It seems he is currently returning to game development.  
+**Translation:** 
+
+**[10827.54s] English:** But we have essentially lost, consider it.  
+**Translation:** 
+
+**[10830.92s] English:** How many people loved Diablo 3?  
+**Translation:** 
+
+**[10833.34s] English:** And they flirted all the way to Diablo III's door.  
+**Translation:** 
+
+**[10836.64s] English:** And in many ways, this is Jay's doing.  
+**Translation:** Vocabulary: flirted: 调情
+
+**[10841.14s] English:** But the same community essentially exiled him from game development.  
+**Translation:** 
+
+**[10846.14s] English:** Let's add punctuation and proper capitalization: Lettign on for 10-15 years.  
+**Translation:** Vocabulary: exiled: 流放
+
+**[10848.74s] English:** For me, this is simply a crime.  
+**Translation:** 
+
+**[10850.64s] English:** Yes, definitely.  
+**Translation:** 
+
+**[10851.92s] English:** And this, again, is a call to action.  
+**Translation:** 
+
+**[10855.66s] English:** Support the creators.  
+**Translation:** 
+
+**[10857.42s] English:** Especially for creators.  
+**Translation:** 
+
+**[10857.52s] English:** Especially the young ones.  
+**Translation:** 
+
+**[10858.82s] English:** Support them.  
+**Translation:** 
+
+**[10860.34s] English:** They need it.  
+**Translation:** 
+
+**[10861.80s] English:** You think that negative things don't matter, but that's not true.  
+**Translation:** 
+
+**[10865.78s] English:** You are robbing the world of its great creations.  
+**Translation:** Vocabulary: creations: 伟大作品
+
+**[10869.02s] English:** And give creators imperfections to grow from.  
+**Translation:** 
+
+**[10874.08s] English:** Because that is the essence of creativity — taking risks.  
+**Translation:** 
+
+**[10879.68s] English:** To risk means to be vulnerable and look cringey.  
+**Translation:** 
+
+**[10885.44s] English:** To do what one can,...  
+**Translation:** Vocabulary: cringey: 尴尬; vulnerable: 脆弱
+
+**[10887.40s] English:** To turn around and face a shameful failure when you stand as if on...  
+**Translation:** 
+
+**[10892.88s] English:** Nu, you know, on stage in a silly clown costume, you dance, but nobody laughs.  
+**Translation:** Vocabulary: costume: 戏服; shameful: 羞愧的
+
+**[10899.92s] English:** Such things are used by comedians.  
+**Translation:** 
+
+**[10901.40s] English:** They constantly complain about it whenever there are failures, and they keep talking about it without end.  
+**Translation:** Vocabulary: comedians: 喜剧演员
+
+**[10904.56s] English:** Their number just doesn't go through, and we have to deal with this.  
+**Translation:** 
+
+**[10910.16s] English:** And we need to support creators on this path.  
+**Translation:** 
+
+**[10915.40s] English:** To create great things, we must...  
+**Translation:** 
+
+**[10917.28s] English:** We should support such people.  
+**Translation:** 
+
+**[10920.00s] English:** So, after the release of WoW in Wrath of the Lich King,  
+**Translation:** 
+
+**[10924.14s] English:** And many consider it the best addition for WoW,  
 **Translation:** Vocabulary: wrath: 愤怒
 
-**[11301.60s] English:** И в тот же самый день я ушел из команды WoW. День и правда был памятный. А потом я перешел в команду Titan. И... Эта игра... Мы работали над ней, но если коротко, мы ее закрыли. Мы закрыли ее в 2013-м.  
+**[10927.44s] English:** You stepped down as Game Director of WoW and shifted focus to Titan development.  
 **Translation:** 
 
-**[11323.04s] English:** Это был один из самых мучительных процессов разработки, в которых я когда-либо участвовал. И...  
-**Translation:** Vocabulary: titan: 泰坦
+**[10934.10s] English:** This epic, enormous game, which was supposed to overshadow all other MMORPGs.  
+**Translation:** Vocabulary: overshadow: 超越; shifted: 转向; titan: 巨作
 
-**[11331.60s] English:** Пожалуй, уже в конце 2009-го я знал, что игра в ее текущем виде никогда не выйдет и никогда не появится.  
+**[10945.14s] English:** So, it was a sky-high scheme, right? Just gigantic.  
 **Translation:** 
 
-**[11344.76s] English:** А к 2010-му, после многочисленных попыток убедить наше начальство, что игра не взлетит, что у нее проблемы...  
+**[10950.54s] English:** With a brilliant team, as you said,  
+**Translation:** Vocabulary: gigantic: 巨大的
+
+**[10953.66s] English:** Which is now hardened and knows how to make cool games.  
 **Translation:** 
 
-**[11358.60s] English:** Помню, в 2010-м я пошел к Майку Морхану.  
+**[10961.02s] English:** But the project was cancelled after seven years of development.  
 **Translation:** 
 
-**[11361.60s] English:** И, знаешь, пойти к гендиректору... А Blizzard тогда уже была большой компанией. И вот я говорю, вы должны нас закрыть. Мы просто сожжем деньги.  
+**[10964.38s] English:** So, tell me, what was the original idea and what went wrong?  
 **Translation:** 
 
-**[11375.40s] English:** А в чем, по-твоему, была причина? Насколько я понимаю, было несколько проблем. Во-первых, гигантский мир, что, кстати, прекрасная мечта. Симулятор вселенной. Каждая игра, которую ты упомянул, великолепна.  
+**[10967.78s] English:** Of course. In general, when we reaped the benefits of World of Warcraft,  
+**Translation:** Vocabulary: reaped: 收获; warcraft: 战争艺术
+
+**[10973.70s] English:** In the studio, it was believed that WoW cannot be eternal.  
 **Translation:** 
 
-**[11389.72s] English:** Мне близка эта мечта. Я с удовольствием...  
+**[10978.88s] English:** What will WoW hold on for?  
+**Translation:** Vocabulary: cannot: 不能
+
+**[10980.00s] English:** Keeps up at its peak for about five years, and then gradually fades away.  
 **Translation:** 
 
-**[11391.60s] English:** Я с удовольствием поиграл бы в такую игру.  
+**[10984.64s] English:** Then the studio will start facing real problems.  
 **Translation:** 
 
-**[11393.74s] English:** Но одна из проблем, насколько я понимаю, крылась в том, что было неясно, в чем заключается...  
+**[10987.72s] English:** If we don't get another massive online game,  
 **Translation:** 
 
-**[11400.00s] English:** геймплей то есть что именно ты должен делать в этой игре что связывает все это воедино в целом  
+**[10992.84s] English:** As for her successor.  
 **Translation:** 
 
-**[11409.72s] English:** причин провала было предостаточно но в конечном счете провал титана это вина руководство руководство  
+**[10995.56s] English:** Therefore, starting around 2005 or possibly 2006,  
 **Translation:** 
 
-**[11421.22s] English:** команды включая и меня тут уж ничего не попишешь к тому же на это наложилось понимаешь провал игры  
+**[11006.24s] English:** There were rumors about creating a team.  
 **Translation:** 
 
-**[11430.48s] English:** обычно бывает либо техническим ну там сервера не работают либо причина в арте когда никому  
+**[11010.00s] English:** And they began to pick up speed.  
 **Translation:** 
 
-**[11437.90s] English:** не зашел визуал либо в дизайне когда просто не интересно играть или плохой баланс мы же  
+**[11011.88s] English:** We were working on Burning Crusade then.  
+**Translation:** Vocabulary: crusade: 圣战
+
+**[11017.04s] English:** This initiative was led by Rob Pardo.  
 **Translation:** 
 
-**[11444.86s] English:** провалились и технически и в дизайне и в арте но я с осторожностью говорю про  
+**[11020.68s] English:** Work on the development of Titan.  
+**Translation:** Vocabulary: titan: titan
+
+**[11022.70s] English:** We didn't even have a proper team then.  
 **Translation:** 
 
-**[11451.20s] English:** арт потому что одни из лучших работ что когда-либо создавались в blizzard были сделаны именно для  
+**[11026.22s] English:** I remember being neck-deep in work on The Burning Crusade,  
 **Translation:** 
 
-**[11457.08s] English:** титана я критикую не сам по себе арт который сделали я критикую то что у нас не было единого  
+**[11031.36s] English:** But despite that, he attended Titan briefing meetings.  
+**Translation:** 
+
+**[11033.86s] English:** Rob gathered a group of people from the entire company,  
+**Translation:** 
+
+**[11037.04s] English:** And we started calculating,  
+**Translation:** 
+
+**[11039.60s] English:** Which player will be playing.  
+**Translation:** Vocabulary: calculating: 计算
+
+**[11040.00s] English:** Will this be a new MMO, and when would it be released?  
+**Translation:** 
+
+**[11044.52s] English:** In the end, serious development began somewhere around 2007.  
+**Translation:** 
+
+**[11052.38s] English:** Then the first people joined the team,  
+**Translation:** 
+
+**[11054.92s] English:** And this was a very ambitious project,  
+**Translation:** 
+
+**[11057.14s] English:** Including creating a new engine from scratch.  
+**Translation:** 
+
+**[11060.36s] English:** I think the first person to join the team was a guy named John Lafleur.  
+**Translation:** Vocabulary: scratch: 从零开始
+
+**[11065.52s] English:** He was simply a genius game programmer.  
+**Translation:** 
+
+**[11070.00s] English:** And the engine that ultimately did not work for Titan,  
+**Translation:** 
+
+**[11074.00s] English:** Then it became the engine for "Overwatch".  
+**Translation:** 
+
+**[11077.94s] English:** So for him, it's a big success story.  
+**Translation:** 
+
+**[11081.04s] English:** The essence of the game was that actions took place on the earth of the future,  
+**Translation:** 
+
+**[11087.00s] English:** The players are secret agents.  
+**Translation:** 
+
+**[11091.60s] English:** In the daytime, they all would have had ordinary work.  
+**Translation:** 
+
+**[11095.06s] English:** At night, they engaged in some rough spy activities.  
+**Translation:** Vocabulary: daytime: 白天
+
+**[11100.00s] English:** These spy missions were like first-person shooter games,  
+**Translation:** 
+
+**[11105.88s] English:** But with supernormal abilities.  
+**Translation:** Vocabulary: supernormal: 超常的
+
+**[11108.88s] English:** It's like the ones that are in 'Overwatch' now, since they came from there.  
+**Translation:** 
+
+**[11113.88s] English:** In the daytime part, players could engage in business.  
+**Translation:** 
+
+**[11117.88s] English:** We have gleaned a lot from games like "Animal Crossing,  
+**Translation:** 
+
+**[11122.88s] English:** Harvest Moon," "Sims.  
+**Translation:** Vocabulary: gleaned: 收获
+
+**[11125.88s] English:** We had a genius game designer and game director.  
+**Translation:** 
+
+**[11130.00s] English:** By Matt Brown, who was the creative director of The Sims.  
+**Translation:** 
+
+**[11135.00s] English:** He came to us.  
+**Translation:** 
+
+**[11138.00s] English:** According to our design, this daily part included both business and home.  
+**Translation:** 
+
+**[11146.00s] English:** It was possible to build your own home and live in your own neighborhood.  
+**Translation:** 
+
+**[11152.00s] English:** But besides that, there was another idea in terms of game design and technical aspects,  
+**Translation:** 
+
+**[11159.00s] English:** What could have been done.  
+**Translation:** 
+
+**[11160.00s] English:** In contrast to World of Warcraft, which is now referred to as "sharded.  
+**Translation:** Vocabulary: sharded: 分裂的; warcraft: 战争艺术
+
+**[11166.86s] English:** So, people play in different worlds on different servers.  
+**Translation:** 
+
+**[11170.52s] English:** On one World of Warcraft server, I though, even though I'm not on that team anymore, but back then, five thousand people could fit on one server before a new one had to be opened.  
+**Translation:** 
+
+**[11181.98s] English:** The main idea of Titan was to have everyone play on one server.  
+**Translation:** 
+
+**[11187.00s] English:** This was a game with a single server and a shared world.  
+**Translation:** Vocabulary: titan: 巨无霸
+
+**[11190.68s] English:** And this world was enormous.  
+**Translation:** 
+
+**[11193.20s] English:** Setting was "Earth in the Future.  
+**Translation:** 
+
+**[11197.22s] English:** We literally built...  
+**Translation:** 
+
+**[11199.44s] English:** We had what we called Bay City, which is San Francisco.  
+**Translation:** 
+
+**[11203.72s] English:** We had Hollywood.  
+**Translation:** 
+
+**[11205.76s] English:** We needed to build all of California between them.  
+**Translation:** Vocabulary: california: 加利福尼亚州
+
+**[11209.82s] English:** We also wanted to add Cairo and London.  
+**Translation:** 
+
+**[11213.16s] English:** Here, you realize how to connect all of it together?  
+**Translation:** Vocabulary: cairo: 开罗
+
+**[11217.00s] English:** In the game, there was driving, full-fledged driving in the spirit of GTA games.  
+**Translation:** 
+
+**[11225.94s] English:** This was simply a gigantic, colossal project with a brand new engine, a new team, and a new IP, that is, intellectual property, setting, over which we worked very hard for a long time.  
+**Translation:** Vocabulary: colossal: 巨大的; gigantic: 巨大的
+
+**[11243.92s] English:** We have tried so much to decide on this whole...  
+**Translation:** 
+
+**[11247.00s] English:** We have tried so much to decide on this whole...  
+**Translation:** 
+
+**[11247.82s] English:** For example, are there aliens there or are they not?  
+**Translation:** 
+
+**[11250.96s] English:** May be, this sounds silly and funny, but when you create a game, especially when you develop the world, you need rules.  
+**Translation:** Vocabulary: aliens: 外星人
+
+**[11260.20s] English:** Exactly on them the entire lore of the game rests.  
+**Translation:** 
+
+**[11263.08s] English:** Here is what exists in the world, but this does not.  
+**Translation:** 
+
+**[11265.60s] English:** So, why exactly?  
+**Translation:** 
+
+**[11267.40s] English:** Because someone decided so, and that's that.  
+**Translation:** 
+
+**[11271.04s] English:** But this development began in 2007.  
+**Translation:** 
+
+**[11275.86s] English:** First with the idea.  
+**Translation:** 
+
+**[11277.00s] English:** With the idea of brainstorming and early sketches, but really...  
+**Translation:** 
+
+**[11280.00s] English:** By the time everything had gotten underway in late 2007, but I still had to release Wrath of the Lich King. And it was... We always raised a toast with champagne... I remember that, as it was an election day. It seems like it was an election day and my birthday when Obama was chosen.  
+**Translation:** Vocabulary: brainstorming: 头脑风暴; sketches: 草图; underway: 进行中; wrath: 愤怒
+
+**[11301.60s] English:** In the same day, I left the WoW team. The day was indeed memorable. Then I joined the Titan team. And... This game... We worked on it, but to be brief, we closed it down in 2013.  
+**Translation:** 
+
+**[11323.04s] English:** This was one of the most painful development processes I have ever been involved in. And...  
+**Translation:** Vocabulary: titan: 巨兽
+
+**[11331.60s] English:** Pojaluy, already by the end of 2009, I knew that the game would never come out in its current form and would never appear.  
+**Translation:** 
+
+**[11344.76s] English:** By 2010, after numerous attempts to convince our management that the game wouldn't take off and had problems,...  
+**Translation:** 
+
+**[11358.60s] English:** I remember in 2010 I went to Mike Morhan.  
+**Translation:** 
+
+**[11361.60s] English:** And, you know, going to the CEO... By then, Blizzard was already a big company. And there I said, you have to shut us down. We're just burning money.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[11375.40s] English:** In what do you think was the reason? As I understand it, there were several issues. First of all, the giant world—that, by the way, is a wonderful dream. A universe simulator. Each game you mentioned is excellent.  
+**Translation:** 
+
+**[11389.72s] English:** This dream is close to me. I would be delighted to...  
+**Translation:** Vocabulary: simulator: 模拟器
+
+**[11391.60s] English:** I would have enjoyed playing such a game.  
+**Translation:** 
+
+**[11393.74s] English:** But one of the problems, as I understand it, was that it was unclear what exactly...  
+**Translation:** 
+
+**[11400.00s] English:** Gameplay, that is, what you should do in this game, connects all of this as a whole.  
+**Translation:** 
+
+**[11409.72s] English:** There were plenty of reasons for the failure, but ultimately, the failure of Titan is the responsibility of the leadership.  
+**Translation:** Vocabulary: titan: 巨无霸
+
+**[11421.22s] English:** Teams, including me, here we are; nothing can be done about it. Moreover, this was compounded by the game's poor performance, you know.  
+**Translation:** 
+
+**[11430.48s] English:** Typically, it's either a technical issue, like the servers aren't working, or it's an artifact when nobody is around.  
+**Translation:** Vocabulary: artifact: 遗留问题; compounded: 加剧了
+
+**[11437.90s] English:** Not logged in, or in the visual design when it's just not interesting to play, or poor balance—we do.  
+**Translation:** 
+
+**[11444.86s] English:** Proved failed both technically and in design and in art, but I speak with caution about it.  
+**Translation:** Vocabulary: logged: 登录; technically: 技术上
+
+**[11451.20s] English:** Art because some of the best works that have ever been created at Blizzard were made specifically for  
+**Translation:** 
+
+**[11457.08s] English:** I criticize not the art itself, but that we lacked a unified approach which we have now.  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[11463.32s] English:** художественного стиля поэтому все выглядело так будто арт на дергали из десяти разных игр и стоит  
+**[11463.32s] English:** Therefore, everything looked as though art from ten different games had been pulled together and stuck.  
 **Translation:** 
 
-**[11470.04s] English:** заметить проект обошелся 83 миллиона за все эти годы то есть огромная команда делала кучу всего  
+**[11470.04s] English:** Notice that the project cost 83 million over all these years; an enormous team did a lot of work.  
 **Translation:** 
 
-**[11480.20s] English:** но  
+**[11480.20s] English:** No,  
 **Translation:** 
 
-**[11481.18s] English:** , так и не продвигалась к законченной игре правильно я как геймдизайнер очень слежу за  
+**[11481.18s] English:** , so it hasn't progressed to a completed game. As a game designer, I'm very meticulous about  
+**Translation:** Vocabulary: meticulous: 细致入微
+
+**[11487.44s] English:** Semantics and I love giving definitions so that everyone understands what we're talking about, for example, if comparing ideas.  
 **Translation:** 
 
-**[11487.44s] English:** семантикой и люблю давать определение чтобы все понимали о чем речь допустим если сравнить идеи  
+**[11496.24s] English:** And the vision with ideas is simple; I could come up with ten in just ten seconds, for example, let's get started.  
+**Translation:** Vocabulary: semantics: 语义
+
+**[11506.80s] English:** Let's make a 2D platformer about a mouse.  
 **Translation:** 
 
-**[11496.24s] English:** и видение то с идеями все просто идея могу накидать десяток за 10 секунд например давайте  
+**[11511.18s] English:** It doesn't matter; for example, a secret agent might have intense shootouts at night and keep holy relics during the day.  
+**Translation:** Vocabulary: platformer: 平台游戏; relics: 遗物; shootouts: 枪战
+
+**[11520.00s] English:** This is a powerful store. Ideas are endless. At least, in creative teams with ideas, there's no problem. And what I call vision is the ability not just to take a great idea but to see it through to the end. And this is done primarily through inspiration.  
 **Translation:** 
 
-**[11506.80s] English:** сделаем 2d платформер про какую-нибудь мышь  
+**[11544.12s] English:** If for the realization of ideas a team is needed, they should believe in the vision of that idea. Then they need a technological plan. For the idea, a design plan is required. And for the plan, there needs to be an artistic style. Finally, a practical view on the implementation of this plan must also be present.  
+**Translation:** Vocabulary: implementation: 实施方案; realization: 实现
+
+**[11565.82s] English:** Here, Titan was in essence,...  
 **Translation:** 
 
-**[11511.18s] English:** неважно можно допустим секретный агент ночью ведет крутые перестрелки а днем держит святое  
+**[11569.48s] English:** He was the embodiment of...  
+**Translation:** Vocabulary: embodiment: 化身; titan: 巨神
+
+**[11573.16s] English:** Arrogance is close.  
 **Translation:** 
 
-**[11520.00s] English:** Это мощный магазин. Идеи, они бесконечны. По крайней мере, в творческих командах с идеями проблем не бывает. А то, что я называю видение, это способность не просто взять отличную идею, а довести ее до конца. И делается это через вдохновение в первую очередь.  
+**[11574.12s] English:** ...ghost of that era.  
+**Translation:** Vocabulary: arrogance: 傲慢
+
+**[11576.22s] English:** Epochs of her peak glory.  
 **Translation:** 
 
-**[11544.12s] English:** Если для воплощения идей нужна команда, она должна поверить в видение этой идеи. Затем для нее нужен технологический план. Для идеи нужен дизайн-план. А для плана нужен художественный стиль. И, наконец, должен быть прагматичный взгляд на реализацию этого плана.  
+**[11578.76s] English:** We went through that period with World of Warcraft when we were still afraid that people might not like it.  
+**Translation:** Vocabulary: epochs: 时代; warcraft: 魔兽世界
+
+**[11586.00s] English:** Here we are in an era when, as creators of World of Warcraft, we simply cannot afford to make a mistake.  
 **Translation:** 
 
-**[11565.82s] English:** А вот Титан был по сути...  
+**[11591.76s] English:** Our next game will be the best in history.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[11595.00s] English:** And...  
 **Translation:** 
 
-**[11569.48s] English:** Он являлся воплощением...  
+**[11595.48s] English:** To this, I have added a phenomenon that I call proactive hiring.  
 **Translation:** 
 
-**[11573.16s] English:** Высокомерия близко.  
+**[11601.54s] English:** Nu, that is, hiring can occur out of necessity.  
 **Translation:** 
 
-**[11574.12s] English:** ...призрак той эпохи.  
+**[11604.54s] English:** And there can be anticipatory hiring.  
+**Translation:** Vocabulary: anticipatory: 预见性; necessity: 必要性
+
+**[11607.30s] English:** I have a completely opposite approach to hiring.  
 **Translation:** 
 
-**[11576.22s] English:** Эпохи пика ее славы.  
+**[11610.92s] English:** I won't take anyone on any team until we understand that overtime will be necessary.  
+**Translation:** Vocabulary: overtime: 加班
+
+**[11617.44s] English:** Or that we risk not releasing the game if we don't hire someone to help us.  
 **Translation:** 
 
-**[11578.76s] English:** Мы ведь прошли тот период с World of Warcraft, когда мы еще боялись, а вдруг людям не понравится.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
+**[11622.38s] English:** And with Titan, there was that same haughtiness.  
+**Translation:** Vocabulary: haughtiness: 傲慢
 
-**[11586.00s] English:** И вот мы оказались в эпохе, когда мы, создатели World of Warcraft, просто не можем ошибиться.  
+**[11625.26s] English:** Oh, we are going to build a huge world.  
 **Translation:** 
 
-**[11591.76s] English:** Наша следующая игра будет лучшей в истории.  
+**[11629.00s] English:** We have not yet learned his history.  
 **Translation:** 
 
-**[11595.00s] English:** И...  
+**[11631.16s] English:** We did not imagine what this world would be like.  
 **Translation:** 
 
-**[11595.48s] English:** К этому добавилось много такого явления, которое я называю наймом на опережение.  
+**[11634.12s] English:** We didn't have a clear art style or understanding of how to technically create art.  
+**Translation:** Vocabulary: technically: 技术上
+
+**[11640.00s] English:** And what limitations will he have, but we knew that we were building an enormous world.  
 **Translation:** 
 
-**[11601.54s] English:** Ну, то есть, бывает найм по необходимости.  
+**[11644.42s] English:** And they decided that they should just hire more painters.  
 **Translation:** 
 
-**[11604.54s] English:** А бывает найм на опережение.  
+**[11648.56s] English:** Here, over the course of a year, we hired around 70 environment artists from all over the world.  
 **Translation:** 
 
-**[11607.30s] English:** У меня подход к найму прямо противоположный.  
+**[11655.64s] English:** They processed visas for them, hired the best of the best,  
+**Translation:** Vocabulary: processed: 办理
+
+**[11660.68s] English:** Well, this was the peak of popularity for WoW, and no one knew which team they were joining.  
 **Translation:** 
 
-**[11610.92s] English:** Я никого не беру ни в какую команду, пока мы не поймем, что придется перерабатывать,  
+**[11665.84s] English:** This is the next completely secret MMORPG from Blizzard,  
+**Translation:** Vocabulary: blizzard: 暴雪; popularity: 人气
+
+**[11669.36s] English:** And on the very first day of work, some poor fellow from Belgium  
 **Translation:** 
 
-**[11617.44s] English:** или что мы рискуем не выпустить игру, если не наймем кого-то к нам.  
+**[11673.84s] English:** He comes on his first day of work and looks such,  
+**Translation:** Vocabulary: belgium: 比利时
+
+**[11677.94s] English:** O, so we're doing World of StarCraft? No, man, I'll show him right now.  
 **Translation:** 
 
-**[11622.38s] English:** А с Титан было то самое высокомерие.  
+**[11683.04s] English:** He said, "What game is this?  
 **Translation:** 
 
-**[11625.26s] English:** О, мы собираемся построить огромный мир.  
+**[11685.22s] English:** Here was our position.  
 **Translation:** 
 
-**[11629.00s] English:** Мы еще не знаем его историю.  
+**[11687.50s] English:** So we hired too many people.  
 **Translation:** 
 
-**[11631.16s] English:** Мы не представляли, каким будет этот мир.  
+**[11690.86s] English:** It should be done this way when making a game.  
 **Translation:** 
 
-**[11634.12s] English:** У нас не было ни четкого арт-стиля, ни понимания, как технически создавать арт.  
+**[11694.54s] English:** Take a small team.  
 **Translation:** 
 
-**[11640.00s] English:** и какие у него будут ограничения, но мы знали, что строим огромный мир,  
+**[11696.48s] English:** And you try to convey it.  
 **Translation:** 
 
-**[11644.42s] English:** и решили, что надо просто нанять побольше художников по окружению.  
+**[11699.34s] English:** Prove the idea using any available technologies.  
 **Translation:** 
 
-**[11648.56s] English:** И вот за год мы наняли где-то 70 художников по окружению со всего мира,  
+**[11704.54s] English:** Using other engines, any art,  
 **Translation:** 
 
-**[11655.64s] English:** оформляли им визы, нанимали лучших из лучших,  
+**[11707.96s] English:** You are demonstrating the viability of the concept,  
+**Translation:** Vocabulary: viability: 可行性
+
+**[11710.72s] English:** And only by understanding what you are doing do you expand the team.  
 **Translation:** 
 
-**[11660.68s] English:** ведь это был пик популярности WoW, и никто не знал, в какую команду они идут.  
+**[11715.98s] English:** Do you know the saying about idleness?  
+**Translation:** Vocabulary: idleness: 懒惰
+
+**[11718.42s] English:** Idle hands, workshop of the devil.  
 **Translation:** 
 
-**[11665.84s] English:** Это же следующее совершенно секретное ММО от Blizzard,  
+**[11720.78s] English:** We had an enormous and brilliant team,  
+**Translation:** 
+
+**[11726.02s] English:** No plan was there, though.  
+**Translation:** 
+
+**[11727.74s] English:** Neither what we should do nor how to do it.  
+**Translation:** 
+
+**[11732.36s] English:** Here, you have to come up with activities for these people.  
+**Translation:** 
+
+**[11735.36s] English:** They come into your office, and you sit there trying to figure out how to build quests.  
+**Translation:** Vocabulary: quests: 任务
+
+**[11740.36s] English:** How to design a quest system for "Titan" and create a prototype.  
+**Translation:** 
+
+**[11744.36s] English:** We are like this, "So, this prop artist has finished his work.  
+**Translation:** Vocabulary: prototype: 原型; titan: 巨人
+
+**[11749.36s] English:** What should I assign him to draw?  
+**Translation:** 
+
+**[11751.36s] English:** Let him work on "China Town" or the Hollywood soundstage,  
+**Translation:** Vocabulary: assign: 分配; soundstage: 录音棚
+
+**[11756.36s] English:** and so on.  
+**Translation:** 
+
+**[11757.28s] English:** And you just come up with activities for them.  
+**Translation:** 
+
+**[11760.00s] English:** The engine wasn't working.  
+**Translation:** 
+
+**[11761.44s] English:** When we conducted the playtest for Titan, we had to communicate with the team,  
+**Translation:** Vocabulary: playtest: 测试播放
+
+**[11768.40s] English:** Stop making excuses for the changes, you're holding us back.  
+**Translation:** 
+
+**[11771.08s] English:** With us was an excellent technical artist, Dylan Jones.  
+**Translation:** 
+
+**[11776.64s] English:** He worked with us on Titan.  
+**Translation:** 
+
+**[11779.40s] English:** I remember how in the last few days of the project we asked for it.  
+**Translation:** 
+
+**[11783.38s] English:** He was a very active user of the editor.  
+**Translation:** 
+
+**[11786.32s] English:** It was called "Titan Edith" or "TED",  
+**Translation:** Vocabulary: edith: 编辑者
+
+**[11789.72s] English:** And to this day, TÉD is an internal tool for Overwatch.  
+**Translation:** 
+
+**[11794.72s] English:** Because Overwatch is created on a engine named Tank.  
+**Translation:** 
+
+**[11798.86s] English:** We asked Dylan,  
+**Translation:** 
+
+**[11800.88s] English:** We want you to record the time spent working in the editor, in TED.  
+**Translation:** 
+
+**[11806.92s] English:** In a 40-hour week, he managed to work only 20 hours.  
+**Translation:** 
+
+**[11813.28s] English:** And imagine, you gather a team,  
+**Translation:** 
+
+**[11815.94s] English:** The best of the best in the industry,  
+**Translation:** 
+
+**[11819.86s] English:** They cannot work.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[11821.60s] English:** You are not just burning money faster than anyone on planet Earth.,  
+**Translation:** 
+
+**[11825.92s] English:** But imagine that you have the best pilots,  
+**Translation:** 
+
+**[11829.64s] English:** You don't allow them to fly.  
+**Translation:** 
+
+**[11832.24s] English:** This is a creative disappointment and an illustration of its growth.  
+**Translation:** Vocabulary: illustration: 说明
+
+**[11838.40s] English:** The team was terribly demoralized.  
+**Translation:** 
+
+**[11842.34s] English:** This was simply a catastrophe.  
+**Translation:** Vocabulary: catastrophe: 灾难; demoralized: 士气低落
+
+**[11844.30s] English:** But much of it...  
+**Translation:** 
+
+**[11845.94s] English:** From this, they did it completely differently in Overwatch.  
+**Translation:** 
+
+**[11850.44s] English:** And this led to such a stunning realization in a short period of time,  
+**Translation:** 
+
+**[11855.24s] English:** A small team with a clear vision.  
+**Translation:** Vocabulary: realization: 领悟
+
+**[11858.18s] English:** I read that when comparing Overwatch and Titan,  
+**Translation:** 
+
+**[11863.58s] English:** The main characteristic of the Titan team was their agreement on everything,  
+**Translation:** Vocabulary: characteristic: 特点; titan: 泰坦
+
+**[11868.22s] English:** The Overwatch team said "no" to everything.  
+**Translation:** 
+
+**[11870.98s] English:** That is, there was a focus and deep concentration on the implementation of a very clear...  
+**Translation:** Vocabulary: implementation: 执行
+
+**[11875.94s] English:** Visions, and maybe that's the whole process of creating games, as you said.  
+**Translation:** 
+
+**[11880.00s] English:** What, well, when a team is bursting with ideas,  
+**Translation:** Vocabulary: bursting: 充满
+
+**[11884.86s] English:** Because these are creative people, we have to constantly say "no" to them.  
+**Translation:** 
+
+**[11888.34s] English:** And this is a very painful process.  
+**Translation:** 
+
+**[11890.84s] English:** But, I suppose, it's the leadership's responsibility to say "no".  
+**Translation:** 
+
+**[11895.24s] English:** What is terrible.  
+**Translation:** 
+
+**[11897.56s] English:** I think being a leader in that regard is terrible; you're always saying "no.  
+**Translation:** 
+
+**[11901.58s] English:** A creative leader essentially has two modes of operation.  
+**Translation:** 
+
+**[11906.34s] English:** You either push or hold back.  
+**Translation:** 
+
+**[11908.66s] English:** And in any case, this goes against her stance.  
+**Translation:** Vocabulary: stance: 立场
+
+**[11912.34s] English:** When a team lacks ambition, or, let's say, it doesn't raise the bar,  
+**Translation:** 
+
+**[11920.28s] English:** That's when you push her.  
+**Translation:** 
+
+**[11922.04s] English:** Guys, let's forget about deadlines.  
+**Translation:** 
+
+**[11925.82s] English:** We need to conquer hearts and minds, inspire people.  
+**Translation:** Vocabulary: deadlines: 截止日期
+
+**[11929.46s] English:** When they, on the contrary, are propelled at full speed and have an endless stream of brilliant ideas,  
+**Translation:** 
+
+**[11935.88s] English:** Development is going full-speed.  
+**Translation:** Vocabulary: propelled: 推动
+
+**[11938.66s] English:** Then we need to slow them down.  
+**Translation:** 
+
+**[11941.12s] English:** Guys, we need to release the game.  
+**Translation:** 
+
+**[11942.88s] English:** The best feature we can give players is a release".  
+**Translation:** 
+
+**[11945.98s] English:** We even had a saying like that.  
+**Translation:** 
+
+**[11948.78s] English:** And here's when they canceled Titan; this, no doubt, was a huge blow for everyone.  
+**Translation:** 
+
+**[11955.04s] English:** In some moment, the team "Titan" was going to be simply dissolved,  
+**Translation:** Vocabulary: titan: 巨无霸
+
+**[11959.82s] English:** To keep people distributed across other departments.  
+**Translation:** 
+
+**[11961.86s] English:** But you fought to keep a part of the team, the core of the team.  
+**Translation:** 
+
+**[11968.66s] English:** Mike Morhaime gave you six weeks to come up with an idea for a new game.  
+**Translation:** 
+
+**[11974.82s] English:** You have already told us about this process and mentioned that there were three possible variants discussed.  
+**Translation:** 
+
+**[11983.90s] English:** MMO for "Starcraft",  
+**Translation:** 
+
+**[11985.90s] English:** MMO in the new universe "Cross Worlds",  
+**Translation:** Vocabulary: starcraft: 星际争霸
+
+**[11990.84s] English:** And the third idea is "Overwatch.  
+**Translation:** 
+
+**[11993.74s] English:** Tell me about these six weeks.  
+**Translation:** 
+
+**[11996.16s] English:** Yes, these six weeks...  
+**Translation:** 
+
+**[11998.66s] English:** It seemed that it was very difficult.  
+**Translation:** 
+
+**[12000.00s] English:** It should have been the best time in their life.  
+**Translation:** 
+
+**[12003.02s] English:** Well, if you think about it, you are a developer at Blizzard,  
+**Translation:** Vocabulary: blizzard: 暴雪
+
+**[12007.64s] English:** And you are given a chance to come up with a new game.  
+**Translation:** 
+
+**[12010.64s] English:** It sounds incredible.  
+**Translation:** 
+
+**[12012.40s] English:** For anyone in Blizzard, or any developer, this sounds like a dream.  
+**Translation:** 
+
+**[12017.74s] English:** But we were in the most depressed state of our career at that moment.  
+**Translation:** 
+
+**[12021.94s] English:** At least I.  
+**Translation:** 
+
+**[12023.10s] English:** I didn't know if I would be fired or not.  
+**Translation:** 
+
+**[12024.92s] English:** I did not know if that was the end of my career at the time.  
+**Translation:** 
+
+**[12028.14s] English:** And in general, the atmosphere then was very heavy.  
+**Translation:** 
+
+**[12034.46s] English:** Can even be described as gloomy.  
+**Translation:** 
+
+**[12037.62s] English:** In the end, they gave us two conditions for these pitches.  
+**Translation:** Vocabulary: gloomy: 阴郁; pitches: 报价
+
+**[12044.50s] English:** First, we had to release the game within two years.  
+**Translation:** 
+
+**[12048.96s] English:** And this is a very ambitious timeline for any game.  
+**Translation:** 
+
+**[12052.60s] English:** Yes, hell yes.  
+**Translation:** 
+
+**[12054.24s] English:** For a game from Blizzard, this is simply madness.  
+**Translation:** Vocabulary: madness: 疯狂
+
+**[12057.36s] English:** Yes.  
+**Translation:** 
+
+**[12057.78s] English:** The second condition was even more ambitious and insane.  
+**Translation:** 
+
+**[12065.60s] English:** All that we conceive and present should potentially generate income at the level of World of Warcraft.  
+**Translation:** 
+
+**[12073.44s] English:** Agreed, got it.  
+**Translation:** Vocabulary: conceive: 构思; warcraft: 魔兽世界
+
+**[12074.74s] English:** At that time, there was only one game bringing in revenue at the level of WoW.  
+**Translation:** 
+
+**[12079.50s] English:** This is the actual WoW.  
+**Translation:** 
+
+**[12080.64s] English:** So I immediately dismissed that income requirement.  
+**Translation:** 
+
+**[12085.70s] English:** For me, it's all like money from Monopoly.  
+**Translation:** Vocabulary: monopoly: 纸牌游戏
+
+**[12087.78s] English:** Yes.  
+**Translation:** 
+
+**[12088.28s] English:** This is toy money, this is madness, I just don't think about it.  
+**Translation:** 
+
+**[12092.48s] English:** Let others think about that, but I wanted to be as realistic as possible regarding the timelines.  
+**Translation:** 
+
+**[12102.22s] English:** Most of our team, Titan team and it consists of over 140 people, was transferred to work on Heroes of the Storm, a Diablo 3 expansion, World of Warcraft, and Hearthstone.  
+**Translation:** Vocabulary: diablo: 邪魔之魂; hearthstone: 炉石传说; timelines: 时间线; titan: 泰坦
+
+**[12117.78s] English:** So, immediately...  
+**Translation:** 
+
+**[12120.00s] English:** Most of the team has left.  
+**Translation:** 
+
+**[12122.20s] English:** We had a lot, as we called them, temporarily borrowed items.  
+**Translation:** 
+
+**[12126.02s] English:** These are people who were supposed to return to us, but we sent them on a six-month assignment.  
+**Translation:** 
+
+**[12131.40s] English:** And there was a very small team left.  
+**Translation:** 
+
+**[12133.96s] English:** There was a group of engineers who conserved Titan.  
+**Translation:** Vocabulary: conserved: 节约
+
+**[12137.60s] English:** So, it's still stored somewhere in Blizzard.  
+**Translation:** 
+
+**[12142.12s] English:** They also dissected the engine.  
+**Translation:** Vocabulary: blizzard: 暴雪; dissected: 剖析
+
+**[12145.02s] English:** Because they understood that he was no longer fit.  
+**Translation:** 
+
+**[12147.38s] English:** And to make a new game,  
+**Translation:** 
+
+**[12150.16s] English:** He needed to be completely rethought and developed into what he is today.  
+**Translation:** 
+
+**[12155.00s] English:** There was a small creative group,  
+**Translation:** 
+
+**[12157.76s] English:** Which needed to come up with three ideas over these six weeks.  
+**Translation:** 
+
+**[12162.10s] English:** We decided that we would spend two weeks on each idea.  
+**Translation:** 
+
+**[12167.68s] English:** The main rule I established was this:  
+**Translation:** 
+
+**[12171.72s] English:** For these two weeks, we fully immerse ourselves in the idea.  
+**Translation:** Vocabulary: immerse: 全身心投入
+
+**[12175.08s] English:** Such as our first ideas,...  
+**Translation:** 
+
+**[12177.38s] English:** There was an MMO for StarCraft.  
+**Translation:** 
+
+**[12180.12s] English:** We had to live and breathe this idea,  
+**Translation:** 
+
+**[12182.12s] English:** Want her more than anything in the world.  
+**Translation:** 
+
+**[12184.12s] English:** I warned everyone at once.  
+**Translation:** 
+
+**[12186.12s] English:** At the end of these two weeks, you will find that only this idea will work.  
+**Translation:** 
+
+**[12190.12s] English:** And you won't want to take on the next one.  
+**Translation:** 
+
+**[12192.12s] English:** We'll discard it as soon as we finish and move on to the next one.  
+**Translation:** 
+
+**[12196.12s] English:** And, by the way, Starcraft MMO was very enjoyable to me.  
+**Translation:** 
+
+**[12200.12s] English:** It was called Starcraft Frontiers.  
+**Translation:** Vocabulary: frontiers: 边界; starcraft: 星际争霸
+
+**[12204.12s] English:** Her concept was that you play not for a cosmodevizer,  
+**Translation:** 
+
+**[12207.12s] English:** For a cosmonaut in the army, but the army is smaller.  
+**Translation:** Vocabulary: cosmonaut: 宇航员
+
+**[12209.86s] English:** StarCraft, as a real-time strategy game, is always about three races and gigantic armies.  
+**Translation:** 
+
+**[12213.86s] English:** And Vov became special for that reason.  
+**Translation:** Vocabulary: gigantic: 巨大的
+
+**[12216.86s] English:** In contrast to its own RTS Warcraft,  
+**Translation:** 
+
+**[12220.86s] English:** This is what you were in the army more than just a infantryman.  
+**Translation:** Vocabulary: infantryman: 步兵
+
+**[12224.86s] English:** In World of Warcraft, you were a lone adventurer,  
+**Translation:** 
+
+**[12227.86s] English:** Which leaves its mark in the world.  
+**Translation:** Vocabulary: adventurer: 冒险者; warcraft: 魔兽世界
+
+**[12230.86s] English:** Here's the idea inspired by an old Chris Matsون drawing, and it was born.  
+**Translation:** 
+
+**[12234.86s] English:** Cosmic Miner.  
+**Translation:** Vocabulary: cosmic: 宇宙的
+
+**[12237.12s] English:** And I like the idea that giant armies  
+**Translation:** 
+
+**[12240.00s] English:** Somewhere there, where all these massive battles took place, StarCraft with thousands of Zergs, Protoss, and Terrans.  
+**Translation:** Vocabulary: protoss: 普罗托斯; terrans: 泰伦人
+
+**[12248.30s] English:** Somewhere there is a lone miner on some planet, who crawls through a mysterious dungeon, seeks minerals, and finds monsters.  
+**Translation:** 
+
+**[12260.42s] English:** In this was the spirit...  
+**Translation:** Vocabulary: crawls: 爬行; dungeon: 地牢
+
+**[12262.34s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to maintain natural English punctuation and capitalization while keeping the same language and meaning as closely as possible without translation, a direct transliteration would be: Potraziujisko. However, if we are to use natural English punctuation and capitalization: Amazing.  
+**Translation:** 
+
+**[12263.20s] English:** ...a more down-to-earth idea.  
+**Translation:** Vocabulary: capitalization: 大写; potraziujisko: Amazing
+
+**[12264.94s] English:** I didn't envision it that way. My first thought about MMORPGs for StarCraft was soldiers in an army, but here the prospectors are. A great concept.  
+**Translation:** 
+
+**[12272.84s] English:** Yes, I...  
+**Translation:** Vocabulary: envision: 想象; prospectors: 勘探者
+
+**[12273.42s] English:** Searching for resources, and along the way encountering monsters.  
+**Translation:** 
+
+**[12277.48s] English:** I want to be more down-to-earth, but at the same time, in the midst of events.  
+**Translation:** Vocabulary: encountering: 遇到
+
+**[12281.70s] English:** I don't want to be a pawn in a huge army. I want to be Indiana Jones in space. Got it?  
+**Translation:** 
+
+**[12289.76s] English:** Cool.  
+**Translation:** Vocabulary: jones: 琼斯
+
+**[12290.48s] English:** So there was this sketch by Matz in pencil.  
+**Translation:** 
+
+**[12294.46s] English:** Then...  
+**Translation:** Vocabulary: sketch: 草图
+
+**[12294.92s] English:** Then, two magnificent artists — Arnold Sanc and Peter Li.  
+**Translation:** 
+
+**[12299.28s] English:** Arnold is a character artist, while Peter Li is an environment artist.  
+**Translation:** Vocabulary: arnold: 阿诺德
+
+**[12304.46s] English:** They drew this concept art for Frontiers.  
+**Translation:** 
+
+**[12307.74s] English:** This was McTernan, the cosmic prospector.  
+**Translation:** Vocabulary: frontiers: 边界之地; prospector: 勘探者
+
+**[12311.14s] English:** He smokes a cigar, propping one foot on the head of the hydrolyzer.  
+**Translation:** 
+
+**[12315.32s] English:** Cool.  
+**Translation:** Vocabulary: cigar: 雪茄; propping: 支撑
+
+**[12315.84s] English:** In the background — a medivac, and all of this on some large foreign planet.  
+**Translation:** 
+
+**[12321.00s] English:** Looking at this art, I wanted to say...  
+**Translation:** Vocabulary: medivac: 医疗撤离车辆
+
+**[12323.74s] English:** Take my money, I'm ready to preorder the game right now.  
+**Translation:** 
+
+**[12330.72s] English:** This drawing eventually became McCree from Overwatch.  
+**Translation:** 
+
+**[12335.64s] English:** We have processed it.  
+**Translation:** 
+
+**[12337.26s] English:** Classno.  
+**Translation:** Vocabulary: classno: 班级编号; processed: 已处理
+
+**[12337.98s] English:** Yes, in general, that's where McCree appeared from.  
+**Translation:** 
+
+**[12341.96s] English:** Such was the idea behind Starcraft Frontiers.  
+**Translation:** Vocabulary: starcraft: 星际争霸
+
+**[12344.42s] English:** We, in a sense, went all out on the design.  
+**Translation:** 
+
+**[12347.26s] English:** We worked out the world, classes, how they will work.  
+**Translation:** 
+
+**[12352.32s] English:** What will be the system program?  
+**Translation:** 
+
+**[12353.74s] English:** 摇晃，  
+**Translation:** 
+
+**[12355.30s] English:** And when designing an MMORPG, you need to think about expansions and ongoing maintenance.  
+**Translation:** 
+
+**[12360.00s] English:** We prepared a very good presentation, but everyone understood that making the game was impossible.  
+**Translation:** Vocabulary: expansions: 扩展
+
+**[12368.30s] English:** Though she was more focused than Titan, it would have taken her five years, at best, for Blizzard if everything went ideally.  
+**Translation:** 
+
+**[12378.46s] English:** This is in an ideal scenario, five years of development by a team of around 150 to 200 people.  
+**Translation:** Vocabulary: blizzard: 暴风雪; ideally: 理想地; scenario: 情景
+
+**[12386.12s] English:** It would take more than 40 people to make this game in two years, so, as I've said before, it was an idea about invisibility; it lacked a path to realization, you see?  
+**Translation:** 
+
+**[12400.58s] English:** Because this is a full-scale, large MMORPG in the world that you have not fully worked out for the MMORPG format.  
+**Translation:** Vocabulary: invisibility: 隐形; realization: 实现
+
+**[12407.36s] English:** Because he was originally created according to Darth Style and StarCraft RTS format, and all of this is set in space.  
+**Translation:** 
+
+**[12413.76s] English:** Yes.  
+**Translation:** 
+
+**[12414.00s] English:** Nu, that would be incredible, but it's taken.  
+**Translation:** 
+
+**[12416.12s] English:** It would take five years, and in reality, it takes even longer.  
+**Translation:** 
+
+**[12419.18s] English:** For such a team, this would be an endless project.  
+**Translation:** 
+
+**[12422.16s] English:** You are making a StarCraft game, how to move from planet to planet.  
+**Translation:** 
+
+**[12425.92s] English:** Yes.  
+**Translation:** 
+
+**[12426.14s] English:** This will be a cutscene, but who needs cutscenes anyway?  
+**Translation:** Vocabulary: cutscene: 过渡场景; cutscenes: 过渡场景
+
+**[12429.28s] English:** Although we could do a stunt scene, it's just simple enough, but we need cosmic flights.  
+**Translation:** 
+
+**[12434.74s] English:** One solution is to add three years to development with space flights.  
+**Translation:** Vocabulary: cosmic: 宇宙的; stunt: 特技
+
+**[12439.50s] English:** Exactly, yes.  
+**Translation:** 
+
+**[12439.74s] English:** How can you make a space game without space flights?  
+**Translation:** 
+
+**[12442.74s] English:** We all played games like these; we know what they're about.  
+**Translation:** 
+
+**[12445.68s] English:** So, essentially, when doing a brainstorm, it's incredible; for two weeks, the entire team genuinely falls in love with the game and tries to figure out if this is even possible.  
+**Translation:** Vocabulary: genuinely: 真正地
+
+**[12456.58s] English:** Here, when you develop it, you are constantly searching for what is the simplest thing you can do to create a cohesive world.  
+**Translation:** 
+
+**[12465.70s] English:** Do you try to simplify everything or do you allow yourself to think on a grand scale?  
+**Translation:** Vocabulary: cohesive: 有凝聚力的; simplify: 简化
+
+**[12469.74s] English:** When brainstorming with a team, and you are the creative leader,  
+**Translation:** 
+
+**[12475.68s] English:** So you're saying, guys, like, what will just be insane?  
+**Translation:** Vocabulary: brainstorming: 头脑风暴
+
+**[12480.00s] English:** What will really be cool is what players need. At Blizzard, this principle is in the design. What  
+**Translation:** 
+
+**[12486.28s] English:** Does it lie in imagination? What kind of imagination is this? You want to be in space, to enter the universe.  
+**Translation:** Vocabulary: blizzard: 暴雪
+
+**[12491.76s] English:** StarCraft: And then, as a game director, your task is to ensure you have excellent creative,  
+**Translation:** 
+
+**[12500.04s] English:** Artistic and technical directors, it is they who should bring everything back to reality.  
+**Translation:** 
+
+**[12506.16s] English:** The error I see in many gaming teams is that they fail to define boundaries clearly.  
+**Translation:** 
+
+**[12511.40s] English:** They shift the blame to the production department. This task is dumped on the project managers or  
+**Translation:** 
+
+**[12516.90s] English:** Other directors or producers, to say that there would be no time to spare,  
+**Translation:** 
+
+**[12521.64s] English:** Or we need to hire more people. Exactly.  
+**Translation:** 
+
+**[12525.00s] English:** Nu, what, what can the leaders do? What can they actually do at all? What arsenal do they have?  
+**Translation:** 
+
+**[12531.82s] English:** Except for crashing you with meetings in Outlook and telling you to hire someone,  
+**Translation:** Vocabulary: arsenal: 武器库; outlook: 日历应用
+
+**[12536.14s] English:** More people, but that's not how the game is played. That's why they get paid such big bucks.  
+**Translation:** 
+
+**[12541.78s] English:** In ideal cases, defining the boundaries is when this is handled by the art director and game director as well.  
+**Translation:** Vocabulary: bucks: 报酬
+
+**[12551.38s] English:** Involved. Because then it's clear that you need to invest the money here, and there's no getting around that. Here,  
+**Translation:** 
+
+**[12560.60s] English:** We can cheat. If you have a huge team, and one guy is responsible only  
+**Translation:** 
+
+**[12566.14s] English:** For the props, like boxes and chairs, this guy is a cool AAA-developer, and he'll put his heart into it.  
+**Translation:** 
+
+**[12575.02s] English:** If he's allowed to do it, you know, he'll spend six weeks on one box. And then you come along and say,  
+**Translation:** Vocabulary: props: 道具
+
+**[12583.26s] English:** Listen, I need around 200 boxes. So, spend no more than a couple of hours on each. And say,  
+**Translation:** 
+
+**[12590.76s] English:** Such a thing is very hard for a person. That is, you are dealing with this narrowing.  
+**Translation:** Vocabulary: narrowing: 范围缩小
+
+**[12596.14s] English:** Frames, and simultaneously,  
+**Translation:** 
+
+**[12600.00s] English:** What's the craziest idea you have?  
+**Translation:** 
+
+**[12602.12s] English:** Yes.  
+**Translation:** 
+
+**[12602.42s] English:** It appears there is a contradiction you constantly work with.  
+**Translation:** Vocabulary: contradiction: 矛盾
+
+**[12605.80s] English:** You allow yourself to think on a large scale, and then you cut out the unnecessary.  
+**Translation:** 
+
+**[12609.34s] English:** And all of this happened in just a few days, did it?  
+**Translation:** 
+
+**[12612.08s] English:** Yes. We had only two weeks.  
+**Translation:** 
+
+**[12615.20s] English:** And, in my opinion, we...  
+**Translation:** 
+
+**[12617.02s] English:** I worked on weekends, but we didn't gather the entire team.  
+**Translation:** 
+
+**[12621.18s] English:** So it came out to around 10 working days.  
+**Translation:** 
+
+**[12624.18s] English:** Then you all folded back and moved on to the second idea?  
+**Translation:** 
+
+**[12627.80s] English:** Yes.  
+**Translation:** 
+
+**[12628.14s] English:** The second idea were Crosswords.  
+**Translation:** 
+
+**[12631.88s] English:** This was the universe conceived by Chris Matsone.  
+**Translation:** Vocabulary: conceived: 构思; crosswords: 填字游戏
+
+**[12635.80s] English:** I am glad that Matsون returned to Blizzard.,  
+**Translation:** 
+
+**[12640.06s] English:** And I hope they will make this game someday.  
 **Translation:** Vocabulary: blizzard: 暴雪公司
 
-**[11669.36s] English:** и вот в первый же день работы какой-нибудь бедняга из Бельгии  
+**[12644.56s] English:** Chris described her as follows.  
 **Translation:** 
 
-**[11673.84s] English:** приходит в первый день на работу и такой,  
+**[12647.32s] English:** Planeta on the edge of the universe,  
 **Translation:** 
 
-**[11677.94s] English:** «О, так мы что, делаем World of StarCraft? А я ему, нет, чувак, сейчас покажем».  
+**[12650.44s] English:** It seems like Moss-Eysley has a spaceport.  
 **Translation:** 
 
-**[11683.04s] English:** И он такой, «А это что за игра?»  
-**Translation:** 
-
-**[11685.22s] English:** Вот в каком положении мы были.  
-**Translation:** 
-
-**[11687.50s] English:** То есть мы наняли слишком много людей.  
-**Translation:** 
-
-**[11690.86s] English:** А ведь игру надо делать так.  
-**Translation:** 
-
-**[11694.54s] English:** Берешь небольшую команду  
-**Translation:** 
-
-**[11696.48s] English:** и пытаешься донести ее.  
-**Translation:** 
-
-**[11699.34s] English:** Доказать идею с помощью любых доступных тебе технологий,  
-**Translation:** 
-
-**[11704.54s] English:** используя чужие движки, любой арт,  
-**Translation:** 
-
-**[11707.96s] English:** доказываешь жизнеспособность концепции,  
-**Translation:** 
-
-**[11710.72s] English:** и лишь понимая, что ты делаешь, расширяешь команду.  
-**Translation:** 
-
-**[11715.98s] English:** Знаешь поговорку про безделье?  
-**Translation:** 
-
-**[11718.42s] English:** «Праздные руки, мастерская дьявола».  
-**Translation:** 
-
-**[11720.78s] English:** У нас была огромная и блестящая команда,  
-**Translation:** 
-
-**[11726.02s] English:** но вот плана не было.  
-**Translation:** 
-
-**[11727.74s] English:** Ни что нам делать, ни как это делать.  
-**Translation:** 
-
-**[11732.36s] English:** И вот, тебе приходится придумывать занятия для этих людей.  
-**Translation:** 
-
-**[11735.36s] English:** Они приходят к тебе в кабинет, а ты сидишь и пытаешься понять, как выстроить квесты,  
-**Translation:** 
-
-**[11740.36s] English:** как спроектировать систему квестов для «Титана» и сделать прототип.  
-**Translation:** 
-
-**[11744.36s] English:** А мы такие, «Так, у этого художника по реквизиту заканчивается работа.  
-**Translation:** 
-
-**[11749.36s] English:** Что ему поручить рисовать?»  
-**Translation:** 
-
-**[11751.36s] English:** Пусть работает над «Чайна Тауном» или Голливудской съемочной площадкой,  
-**Translation:** 
-
-**[11756.36s] English:** и так далее.  
-**Translation:** 
-
-**[11757.28s] English:** И ты просто придумываешь им занятия.  
-**Translation:** 
-
-**[11760.00s] English:** Движок не работал.  
-**Translation:** 
-
-**[11761.44s] English:** Когда мы делали плейтест Титана, приходилось говорить команде,  
-**Translation:** 
-
-**[11768.40s] English:** «Хватит заливать изменения, вы нас тормозите».  
-**Translation:** 
-
-**[11771.08s] English:** С нами работал отличный технический художник Дилан Джонс.  
-**Translation:** 
-
-**[11776.64s] English:** Он работал с нами над Титан.  
-**Translation:** 
-
-**[11779.40s] English:** Помню, как в последние дни проекта мы попросили его,  
-**Translation:** 
-
-**[11783.38s] English:** а он был очень активным пользователем редактора,  
-**Translation:** 
-
-**[11786.32s] English:** он назывался «Титан Эдит» или «ТЭД»,  
-**Translation:** 
-
-**[11789.72s] English:** и до сих пор ТЭД — это внутренний инструмент для Овервотч,  
-**Translation:** 
-
-**[11794.72s] English:** ведь Овервотч создан на движке Титан под названием «Тэнк».  
-**Translation:** 
-
-**[11798.86s] English:** И мы попросили Дилана,  
-**Translation:** 
-
-**[11800.88s] English:** «Мы хотим, чтобы ты записывал время работы в редакторе, в ТЭД».  
-**Translation:** 
-
-**[11806.92s] English:** И за 40-часовую неделю он смог отработать всего 20 часов.  
-**Translation:** 
-
-**[11813.28s] English:** И представляете, вы собираете команду,  
-**Translation:** 
-
-**[11815.94s] English:** лучших из лучших в индустрии,  
-**Translation:** 
-
-**[11819.86s] English:** а они не могут работать.  
-**Translation:** 
-
-**[11821.60s] English:** Вы не просто сжигаете деньги быстрее всех на планете,  
-**Translation:** 
-
-**[11825.92s] English:** но при этом представьте, что у вас лучшие пилоты,  
-**Translation:** 
-
-**[11829.64s] English:** а вы не даете им летать.  
-**Translation:** 
-
-**[11832.24s] English:** Это творческое разочарование и иллюстрация его роста.  
-**Translation:** 
-
-**[11838.40s] English:** И команда была жутко деморализована.  
-**Translation:** 
-
-**[11842.34s] English:** Это была просто катастрофа.  
-**Translation:** 
-
-**[11844.30s] English:** Но многое...  
-**Translation:** 
-
-**[11845.94s] English:** Из этого сделали совершенно иначе в Овервотч.  
-**Translation:** 
-
-**[11850.44s] English:** И это привело к такой потрясающей реализации в короткие сроки,  
-**Translation:** 
-
-**[11855.24s] English:** небольшой командой и с четким видением.  
-**Translation:** 
-
-**[11858.18s] English:** Я читал, что если сравнивать Овервотч и Титан,  
-**Translation:** 
-
-**[11863.58s] English:** то главной чертой команды Титан было согласие на все,  
-**Translation:** 
-
-**[11868.22s] English:** а команда Овервотч говорила «нет» всему.  
-**Translation:** 
-
-**[11870.98s] English:** То есть был фокус и глубокая концентрация на реализации очень четкого...  
-**Translation:** 
-
-**[11875.94s] English:** видения, и может в этом и есть весь процесс создания игр, как ты сказал.  
-**Translation:** 
-
-**[11880.00s] English:** что, ну, когда команда фонтанирует идеями,  
-**Translation:** 
-
-**[11884.86s] English:** ведь это творческие люди, приходится постоянно говорить им «нет».  
-**Translation:** 
-
-**[11888.34s] English:** И это очень болезненный процесс.  
-**Translation:** 
-
-**[11890.84s] English:** Но, наверное, это обязанность руководства — говорить «нет».  
-**Translation:** 
-
-**[11895.24s] English:** Что отстойно.  
-**Translation:** 
-
-**[11897.56s] English:** Думаю, в этом плане быть лидером отстойно, ты вечно говоришь «нет».  
-**Translation:** 
-
-**[11901.58s] English:** У творческого руководителя, по сути, два режима работы.  
-**Translation:** 
-
-**[11906.34s] English:** Ты либо подталкиваешь, либо сдерживаешь.  
-**Translation:** 
-
-**[11908.66s] English:** И в любом случае это идет в разрыв с ее настроем.  
-**Translation:** 
-
-**[11912.34s] English:** Когда команде не хватает размаха, или, скажем, она не поднимает планку,  
-**Translation:** 
-
-**[11920.28s] English:** то ты ее подталкиваешь.  
-**Translation:** 
-
-**[11922.04s] English:** «Ребята, давайте, забудьте о сроках.  
-**Translation:** 
-
-**[11925.82s] English:** Нам нужно покорить сердца и умы, вдохновить людей».  
-**Translation:** 
-
-**[11929.46s] English:** А когда их, наоборот, несет на всех парах, и у них бесконечный поток крутых идей,  
-**Translation:** 
-
-**[11935.88s] English:** а разработка идет полным.  
-**Translation:** 
-
-**[11938.66s] English:** Тогда нужно их притормаживать.  
-**Translation:** 
-
-**[11941.12s] English:** «Ребята, нужно выпустить игру.  
-**Translation:** 
-
-**[11942.88s] English:** Лучшая фича, которую мы можем дать игрокам, — это релиз».  
-**Translation:** 
-
-**[11945.98s] English:** У нас даже была такая поговорка.  
-**Translation:** 
-
-**[11948.78s] English:** И вот, когда отменили «Титан», это, наверное, был огромный удар для всех.  
-**Translation:** 
-
-**[11955.04s] English:** И в какой-то момент команду «Титан» собирались просто распустить,  
-**Translation:** 
-
-**[11959.82s] English:** а людей распределить по другим отделам.  
-**Translation:** 
-
-**[11961.86s] English:** Но вы боролись, чтобы сохранить часть команды, ядро команды.  
-**Translation:** 
-
-**[11968.66s] English:** И Майк Морхейм дал вам шесть недель, чтобы придумать идею для новой игры.  
-**Translation:** 
-
-**[11974.82s] English:** Ты уже рассказывал об этом процессе, и упоминал, что было три возможных варианта, которые обсуждались.  
-**Translation:** 
-
-**[11983.90s] English:** ММО по «Старкрафт»,  
-**Translation:** 
-
-**[11985.90s] English:** ММО в новой вселенной «Кросс Уорлдс»,  
-**Translation:** 
-
-**[11990.84s] English:** и третья идея — «Овервотч».  
-**Translation:** 
-
-**[11993.74s] English:** Расскажи про эти шесть недель.  
-**Translation:** 
-
-**[11996.16s] English:** Да, эти шесть недель...  
-**Translation:** 
-
-**[11998.66s] English:** Казалось бы, это было очень сложно.  
-**Translation:** 
-
-**[12000.00s] English:** Должно было стать лучшим временем в жизни.  
-**Translation:** 
-
-**[12003.02s] English:** Ведь если подумать, то ты же разработчик в Близзард,  
-**Translation:** 
-
-**[12007.64s] English:** и тебе дают шанс придумать новую игру.  
-**Translation:** 
-
-**[12010.64s] English:** Звучит невероятно.  
-**Translation:** 
-
-**[12012.40s] English:** Для кого угодно в Близзард, да и любого разработчика, это звучит как мечта.  
-**Translation:** 
-
-**[12017.74s] English:** Но мы в тот момент были в самом подавленном состоянии за карьеру.  
-**Translation:** 
-
-**[12021.94s] English:** По крайней мере я.  
-**Translation:** 
-
-**[12023.10s] English:** Я не знал, уволят меня или нет.  
-**Translation:** 
-
-**[12024.92s] English:** Не знал, конец ли это моей карьеры в тот момент.  
-**Translation:** 
-
-**[12028.14s] English:** И, в общем, атмосфера тогда была очень тяжелой.  
-**Translation:** 
-
-**[12034.46s] English:** Можно даже сказать, мрачной.  
-**Translation:** 
-
-**[12037.62s] English:** И в итоге нам поставили два условия для этих питчей.  
-**Translation:** 
-
-**[12044.50s] English:** Первое, мы должны были выпустить игру за два года.  
-**Translation:** 
-
-**[12048.96s] English:** И это очень амбициозный срок для любой игры.  
-**Translation:** 
-
-**[12052.60s] English:** Да, жесть.  
-**Translation:** 
-
-**[12054.24s] English:** А для игры от Близзард это просто безумие.  
-**Translation:** 
-
-**[12057.36s] English:** Да.  
-**Translation:** 
-
-**[12057.78s] English:** А второе, ну, второе условие было даже еще амбициознее и безумнее.  
-**Translation:** 
-
-**[12065.60s] English:** Все, что мы придумаем, все, что представим, должно было потенциально приносить доход на уровне World of Warcraft.  
-**Translation:** 
-
-**[12073.44s] English:** Ага, понятно.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[12074.74s] English:** И на тот момент была лишь одна игра, которая приносила доход на уровне WoW.  
-**Translation:** 
-
-**[12079.50s] English:** Это сама WoW.  
-**Translation:** 
-
-**[12080.64s] English:** Так что я сразу же забил на это требование по доходам.  
-**Translation:** 
-
-**[12085.70s] English:** Для меня это все как деньги из монополии.  
-**Translation:** 
-
-**[12087.78s] English:** Да.  
-**Translation:** 
-
-**[12088.28s] English:** Это игрушечные деньги, это безумие, я просто не думаю об этом.  
-**Translation:** 
-
-**[12092.48s] English:** Пусть об этом думают другие, но я хотел быть максимальным реалистом, каким мог, в плане сроков.  
-**Translation:** 
-
-**[12102.22s] English:** Большую часть нашей команды, команда Titan, а это 140 с лишним человек, и ее большую часть перевели работать над Heroes of the Storm, дополнением для Diablo 3, World of Warcraft и Hearthstone.  
-**Translation:** Vocabulary: diablo: 邪魔; hearthstone: 炉石; titan: 泰坦
-
-**[12117.78s] English:** Так что сразу же...  
-**Translation:** 
-
-**[12120.00s] English:** Большая часть команды ушла.  
-**Translation:** 
-
-**[12122.20s] English:** Еще у нас была куча, как мы их называли, временно заимствованных.  
-**Translation:** 
-
-**[12126.02s] English:** Это люди, которые должны были к нам вернуться, но мы их как бы отдали в шестимесячную командировку.  
-**Translation:** 
-
-**[12131.40s] English:** И осталась очень маленькая команда.  
-**Translation:** 
-
-**[12133.96s] English:** Была группа инженеров, которая консервировала Титан,  
-**Translation:** 
-
-**[12137.60s] English:** так что он до сих пор хранится где-то в Близзард.  
-**Translation:** 
-
-**[12142.12s] English:** А еще они разбирали движок,  
-**Translation:** 
-
-**[12145.02s] English:** потому что понимали, что он уже не годится,  
-**Translation:** 
-
-**[12147.38s] English:** и чтобы сделать новую игру,  
-**Translation:** 
-
-**[12150.16s] English:** его нужно было полностью переосмыслить и развить в то, чем он является сегодня.  
-**Translation:** 
-
-**[12155.00s] English:** И была небольшая креативная группа,  
-**Translation:** 
-
-**[12157.76s] English:** которой нужно было продумать три идеи за эти шесть недель.  
-**Translation:** 
-
-**[12162.10s] English:** И мы решили, что потратим на каждую идею по две недели.  
-**Translation:** 
-
-**[12167.68s] English:** Главное правило, которое я установил, было таким.  
-**Translation:** 
-
-**[12171.72s] English:** На эти две недели мы полностью погружаемся в идею.  
-**Translation:** 
-
-**[12175.08s] English:** Так, например, наши первые идеи...  
-**Translation:** 
-
-**[12177.38s] English:** была ММО по Старкрафт.  
-**Translation:** 
-
-**[12180.12s] English:** Мы должны были жить и дышать этой идеей,  
-**Translation:** 
-
-**[12182.12s] English:** хотеть ее больше всего на свете.  
-**Translation:** 
-
-**[12184.12s] English:** И я всех сразу предупредил,  
-**Translation:** 
-
-**[12186.12s] English:** в конце этих двух недель вам покажется, что лишь эта идея сработает.  
-**Translation:** 
-
-**[12190.12s] English:** И вы не захотите браться за следующую,  
-**Translation:** 
-
-**[12192.12s] English:** но мы ее выбросим, как только закончим и возьмемся за следующую.  
-**Translation:** 
-
-**[12196.12s] English:** И вот ММО по Старкрафт мне, кстати, очень понравилось.  
-**Translation:** 
-
-**[12200.12s] English:** Она называлась Старкрафт Фронтьерс.  
-**Translation:** 
-
-**[12204.12s] English:** Ее концепция была в том, что ты играешь не за космодевизор,  
-**Translation:** 
-
-**[12207.12s] English:** а за космодесантника в армии, но армии поменьше.  
-**Translation:** 
-
-**[12209.86s] English:** Старкрафт, как РТС, это ведь всегда три расы и гигантские армии.  
-**Translation:** 
-
-**[12213.86s] English:** И Вов потому и стал особенным.  
-**Translation:** 
-
-**[12216.86s] English:** В отличие от самой РТС Варкрафт,  
-**Translation:** 
-
-**[12220.86s] English:** это что ты там был не просто пехотинцем в армии.  
-**Translation:** 
-
-**[12224.86s] English:** В World of Warcraft ты был одиноким искателем приключений,  
-**Translation:** 
-
-**[12227.86s] English:** который оставляет свой след в мире.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[12230.86s] English:** И вот у нас родилась идея по мотивам старого рисунка Криса Мэтсона,  
-**Translation:** 
-
-**[12234.86s] English:** Космический Старатель.  
-**Translation:** 
-
-**[12237.12s] English:** И мне нравится эта мысль, что гигантские армии  
-**Translation:** 
-
-**[12240.00s] English:** Где-то там, где шли все эти масштабные битвы, Старкрафт с тысячами зергов, протосов и тиранов.  
-**Translation:** 
-
-**[12248.30s] English:** Где-то там есть одинокий старатель на какой-то планете, который пробирается через таинственное подземелье, ищет минералы, а находит монстров.  
-**Translation:** 
-
-**[12260.42s] English:** В этом и был весь дух...  
-**Translation:** 
-
-**[12262.34s] English:** Потрясающе.  
-**Translation:** 
-
-**[12263.20s] English:** ...более приземленной идеи.  
-**Translation:** 
-
-**[12264.94s] English:** Я это не так представлял. Моя первая мысль об ММО по Старкрафту — это солдат в армии, а тут старатели. Прекрасный замысел.  
-**Translation:** 
-
-**[12272.84s] English:** Да, я...  
-**Translation:** 
-
-**[12273.42s] English:** Искать ресурсы, и по пути натыкаться на монстров.  
-**Translation:** 
-
-**[12277.48s] English:** Хочется быть приземленнее, но при этом в гуще событий.  
-**Translation:** 
-
-**[12281.70s] English:** Я не хочу быть пешкой в огромной армии. Я хочу быть Индианой Джонсом в космосе. Понимаешь?  
-**Translation:** 
-
-**[12289.76s] English:** Круто.  
-**Translation:** 
-
-**[12290.48s] English:** Так вот, был этот рисунок Мэтца на старателя.  
-**Translation:** 
-
-**[12294.46s] English:** А потом...  
-**Translation:** 
-
-**[12294.92s] English:** А потом два великолепных художника — Арнольд Санк и Питер Ли.  
-**Translation:** 
-
-**[12299.28s] English:** Арнольд — художник по персонажам, а Питер Ли — художник по окружению.  
-**Translation:** 
-
-**[12304.46s] English:** Они и нарисовали этот концепт-арт для Фронтьерс.  
-**Translation:** 
-
-**[12307.74s] English:** Это был космический старатель Мэтцена.  
-**Translation:** 
-
-**[12311.14s] English:** Он дымит сигару, закинувши ногу на череп гидролизка.  
-**Translation:** 
-
-**[12315.32s] English:** Круто.  
-**Translation:** 
-
-**[12315.84s] English:** А на заднем плане — медивак, и все это на какой-то большой чужой планете.  
-**Translation:** 
-
-**[12321.00s] English:** И глядя на этот арт, хотелось сказать...  
-**Translation:** 
-
-**[12323.74s] English:** Забирайте мои деньги, готов предзаказать игру прямо сейчас.  
-**Translation:** 
-
-**[12330.72s] English:** Этот рисунок в итоге стал МакКри из Овервотч.  
-**Translation:** 
-
-**[12335.64s] English:** Мы его переработали.  
-**Translation:** 
-
-**[12337.26s] English:** Классно.  
-**Translation:** 
-
-**[12337.98s] English:** Да, в общем, оттуда-то МакКри и появился.  
-**Translation:** 
-
-**[12341.96s] English:** Такой была идея Старкрафт Фронтьерс.  
-**Translation:** 
-
-**[12344.42s] English:** И мы, скажем так, взялись за дизайн по полной.  
-**Translation:** 
-
-**[12347.26s] English:** Мы проработали мир, классы, как они будут работать,  
-**Translation:** 
-
-**[12352.32s] English:** какая будет система программ,  
-**Translation:** 
-
-**[12353.74s] English:** покачки,  
-**Translation:** 
-
-**[12355.30s] English:** и когда проектируешь ММО, нужно думать о дополнениях и постоянных обслуживаниях.  
-**Translation:** 
-
-**[12360.00s] English:** И мы подготовили очень хорошую презентацию, но все понимали, что сделать игру нереально.  
-**Translation:** 
-
-**[12368.30s] English:** Хоть она и была более сфокусированной, чем Титан, на нее ушло бы лет пять, в лучшем случае, для Близзард, если бы все шло идеально.  
-**Translation:** 
-
-**[12378.46s] English:** Это в идеальном варианте, пять лет разработки, силами где-то 150-200 человек.  
-**Translation:** 
-
-**[12386.12s] English:** А 40 человек эту игру за два года не сделают, так что, повторюсь, это была идея о невидении, ей не хватало, не было пути к реализации, понимаешь?  
-**Translation:** 
-
-**[12400.58s] English:** Потому что это полноценная, большая ММО в мире, которую вы еще не до конца проработали для формата ММО.  
-**Translation:** 
-
-**[12407.36s] English:** Ведь он изначально создавался по Дарт Стиле и формат Старкрафт РТС, и все это еще и в космосе.  
-**Translation:** 
-
-**[12413.76s] English:** Да.  
-**Translation:** 
-
-**[12414.00s] English:** Ну то есть получилось бы невероятно, но занято.  
-**Translation:** 
-
-**[12416.12s] English:** Заняло бы пять лет, а на деле и того больше.  
-**Translation:** 
-
-**[12419.18s] English:** Для такой команды это был бы бесконечный проект.  
-**Translation:** 
-
-**[12422.16s] English:** Вы делаете игру по Старкрафт, как перемещаться с планеты на планету.  
-**Translation:** 
-
-**[12425.92s] English:** Да.  
-**Translation:** 
-
-**[12426.14s] English:** Это будет кат-сцена, но кому нужны кат-сцены?  
-**Translation:** 
-
-**[12429.28s] English:** Хотя мы сделали бы кат-сцену, ведь это просто, но нам же нужны космические полеты.  
-**Translation:** 
-
-**[12434.74s] English:** Одно только решение, нам нужны космические полеты, добавляет года три к разработке.  
-**Translation:** 
-
-**[12439.50s] English:** Точно, да.  
-**Translation:** 
-
-**[12439.74s] English:** Как сделать игру про космос без космических полетов?  
-**Translation:** 
-
-**[12442.74s] English:** Мы же все играли в такие, мы знаем, что это за игры.  
-**Translation:** 
-
-**[12445.68s] English:** То есть, по сути, делая брейн-шторм, а это же невероятно, две недели вы по-настоящему влюбляетесь в игру всей командой и пытаетесь понять, реально ли это вообще.  
-**Translation:** 
-
-**[12456.58s] English:** И вот, когда вы ее разрабатываете, вы все время ищете, мол, что самое простое, что можно сделать, чтобы получился цельный мир.  
-**Translation:** 
-
-**[12465.70s] English:** Вы стараетесь все упрощать или позволяете себе мыслить масштабно?  
-**Translation:** 
-
-**[12469.74s] English:** Когда делаешь брейн-шторм с командой, и ты креативный лидер,  
-**Translation:** 
-
-**[12475.68s] English:** то ты говоришь, парни, а что будет просто охренеть?  
-**Translation:** 
-
-**[12480.00s] English:** что будет по-настоящему круто, что нужно игрокам. В Blizzard такой принцип в дизайне. В чем  
-**Translation:** 
-
-**[12486.28s] English:** заключается фантазия? В чем тут фантазия? Ты хочешь быть в космосе, хочешь попасть во вселенную  
-**Translation:** 
-
-**[12491.76s] English:** StarCraft, и тогда твоя задача как гейм-директора, а если у тебя есть отличные креативные,  
-**Translation:** 
-
-**[12500.04s] English:** арт- и технические директора, то именно они и должны возвращать все в рамки реальности.  
-**Translation:** 
-
-**[12506.16s] English:** Ошибка, которую я вижу во многих игровых командах, в том, что определение рамок  
-**Translation:** 
-
-**[12511.40s] English:** спихивают на производственный отдел. Эту задачу сваливают на проект-менеджеров или  
-**Translation:** 
-
-**[12516.90s] English:** других руководителей или продюсеров, чтобы те сказали, нет, времени не хватит,  
-**Translation:** 
-
-**[12521.64s] English:** или нужно нанять больше людей. Точно.  
-**Translation:** 
-
-**[12525.00s] English:** Ну, что, что могут руководители, что они вообще могут, какой у них арсенал,  
-**Translation:** 
-
-**[12531.82s] English:** кроме как завалить тебя встречами в Outlook и сказать, что надо нанять  
-**Translation:** 
-
-**[12536.14s] English:** больше людей. Но ведь не так делается игра. За это им и платят такие бабки.  
-**Translation:** 
-
-**[12541.78s] English:** В идеале же, определение рамок, это когда этим занимаются тех, арт-директор и гейм-директор тоже  
-**Translation:** 
-
-**[12551.38s] English:** вовлечен. Потому что тогда понятно, вот сюда нужно вложиться баблом, от этого никуда не деться. А тут  
-**Translation:** 
-
-**[12560.60s] English:** мы можем смухлевать. Если у тебя огромная команда, и один парень отвечает только  
-**Translation:** 
-
-**[12566.14s] English:** за реквизит, ну, ящики и стулья, то этот парень, он же крутой ААА-разработчик, и он вложит в это всю  
-**Translation:** 
-
-**[12575.02s] English:** душу, если ему позволить, он, знаешь, будет делать один ящик шесть недель. И тут ты подходишь и говоришь,  
-**Translation:** 
-
-**[12583.26s] English:** слушай, мне нужно где-то 200 ящиков. Так что, трать на каждый не больше пары часов. И сказать  
-**Translation:** 
-
-**[12590.76s] English:** такое человеку очень непросто. То есть ты занимаешься этим сужением  
-**Translation:** 
-
-**[12596.14s] English:** рамок, и одновременно  
-**Translation:** 
-
-**[12600.00s] English:** Говоришь, в чем сама фантазия.  
-**Translation:** 
-
-**[12602.12s] English:** Да.  
-**Translation:** 
-
-**[12602.42s] English:** Получается, есть противоречие, с которым ты постоянно работаешь.  
-**Translation:** 
-
-**[12605.80s] English:** Ты позволяешь себе мыслить масштабно, а потом отсекаешь лишнее.  
-**Translation:** 
-
-**[12609.34s] English:** И все это было как? За считанные дни, что ли?  
-**Translation:** 
-
-**[12612.08s] English:** Да. У нас было лишь две недели.  
-**Translation:** 
-
-**[12615.20s] English:** И, по-моему, мы...  
-**Translation:** 
-
-**[12617.02s] English:** Я-то по выходным работал, но мы не собирали всю команду.  
-**Translation:** 
-
-**[12621.18s] English:** Так что получалось где-то 10 рабочих дней.  
-**Translation:** 
-
-**[12624.18s] English:** А потом вы все сворачивали и переходили ко второй идее?  
-**Translation:** 
-
-**[12627.80s] English:** Да.  
-**Translation:** 
-
-**[12628.14s] English:** Второй идеей были Кроссворлс.  
-**Translation:** 
-
-**[12631.88s] English:** Это была вселенная по задумке Криса Мэтсона.  
-**Translation:** 
-
-**[12635.80s] English:** И я рад, что Мэтсон вернулся в Близзард,  
-**Translation:** 
-
-**[12640.06s] English:** и надеюсь, они когда-нибудь сделают эту игру.  
-**Translation:** 
-
-**[12644.56s] English:** Крис описывал ее следующим образом.  
-**Translation:** 
+**[12652.66s] English:** Where are all these strange alien creatures?  
+**Translation:** Vocabulary: alien: 外星生物; spaceport: 太空港
 
-**[12647.32s] English:** Планета на краю вселенной,  
+**[12655.64s] English:** And creatures from throughout the universe,  
 **Translation:** 
 
-**[12650.44s] English:** вроде космопорта Мосс-Эйсли,  
-**Translation:** 
+**[12658.14s] English:** And it's such a seedy, criminal place.  
+**Translation:** Vocabulary: seedy: 破旧的
 
-**[12652.66s] English:** где полно всяких причудливых инопланетян  
+**[12661.54s] English:** There are traders, smugglers, and diplomats there.  
 **Translation:** 
 
-**[12655.64s] English:** и существ со всей вселенной,  
-**Translation:** 
+**[12665.70s] English:** But this planet is just the right place,  
+**Translation:** Vocabulary: diplomats: 外交官; smugglers: 走私者; traders: 商人
 
-**[12658.14s] English:** и это такое злачное, криминальное местечко.  
+**[12668.82s] English:** Where did everyone agree to meet?  
 **Translation:** 
 
-**[12661.54s] English:** Там есть торговцы, контрабандисты, дипломаты.  
+**[12671.26s] English:** This is such a neutral territory,  
 **Translation:** 
 
-**[12665.70s] English:** Но эта планета как раз то самое место,  
+**[12673.64s] English:** And the entire game should have taken place on this planet.  
 **Translation:** 
 
-**[12668.82s] English:** где все и договорились встречаться.  
+**[12676.66s] English:** This is amazing.  
 **Translation:** 
 
-**[12671.26s] English:** Это такая нейтральная территория,  
+**[12677.80s] English:** Yes. This idea was more about the world and the universe,  
 **Translation:** 
 
-**[12673.64s] English:** и вся игра должна была происходить на этой планете.  
+**[12681.04s] English:** And its main author was Chris.  
 **Translation:** 
 
-**[12676.66s] English:** Это потрясающе.  
+**[12684.00s] English:** And this allows for introducing different characters.  
 **Translation:** 
 
-**[12677.80s] English:** Да. Эта идея была больше про мир и про вселенную,  
+**[12687.00s] English:** Yes.  
 **Translation:** 
 
-**[12681.04s] English:** и главным ее автором был Крис.  
+**[12687.68s] English:** I really like this idea,  
 **Translation:** 
 
-**[12684.00s] English:** И это же позволяет вводить разных персонажей.  
+**[12689.18s] English:** Because it is a place of meeting different worlds,  
 **Translation:** 
 
-**[12687.00s] English:** Да.  
+**[12693.88s] English:** Allows for letting the imagination run wild,  
 **Translation:** 
 
-**[12687.68s] English:** Мне очень нравится эта идея,  
+**[12696.20s] English:** To represent where they came from.  
 **Translation:** 
 
-**[12689.18s] English:** потому что это место встречи разных миров,  
+**[12699.48s] English:** That is, there's no need to create these worlds.  
 **Translation:** 
 
-**[12693.88s] English:** позволяет дать волю фантазии,  
+**[12701.88s] English:** Yes, they don't need to be created, but they are as if yours.  
 **Translation:** 
 
-**[12696.20s] English:** чтобы представлять, откуда они пришли.  
+**[12704.88s] English:** For example, if players, say, really enjoy  
 **Translation:** 
 
-**[12699.48s] English:** То есть не нужно создавать эти миры.  
+**[12708.04s] English:** Planet of the Green Men,  
 **Translation:** 
 
-**[12701.88s] English:** Да, их не нужно создавать, но они как бы твои.  
+**[12709.76s] English:** What kind of expansion would developers like us to make?  
 **Translation:** 
 
-**[12704.88s] English:** Например, если игрокам, скажем, очень зайдет  
+**[12712.52s] English:** Nu, it's clear, the planet of green aliens.  
 **Translation:** 
 
-**[12708.04s] English:** планета зеленых человечков,  
+**[12714.88s] English:** Let's do it.  
 **Translation:** 
 
-**[12709.76s] English:** а разрабы такие, какое дополнение бы нам сделать?  
+**[12716.36s] English:** I like it.  
 **Translation:** 
 
-**[12712.52s] English:** Ну понятно, планету зеленых человечков.  
+**[12717.68s] English:** We were then working on the crossword,  
 **Translation:** 
 
-**[12714.88s] English:** Так давайте сделаем.  
-**Translation:** 
+**[12720.00s] English:** Crosswords. We worked on Crosswords, and also on Starcraft Frontiers. We had  
+**Translation:** Vocabulary: crossword: 纵横字谜; crosswords: 纵横字谜; frontiers: 边界; starcraft: 星际征途
 
-**[12716.36s] English:** Мне нравится.  
+**[12727.34s] English:** Meetings by classes, where we discussed their development in general, all these game design things.  
 **Translation:** 
 
-**[12717.68s] English:** Мы тогда работали над кроссвордом,  
+**[12735.24s] English:** In Crosswells there was a meeting where we had to make a key RPG decision. In such games,...  
 **Translation:** 
 
-**[12720.00s] English:** Кроссворлс. Работали над Кроссворлс, а еще над Старкрафт Фронтьерс. По Фронтьерс у нас были  
+**[12744.00s] English:** Always there is a choice between a system of skills or classes. Usually, it's some combination of both.  
 **Translation:** 
 
-**[12727.34s] English:** совещания по классам, где мы обсуждали их развитие, в общем, все эти геймдизайнерские штуки.  
+**[12749.28s] English:** But in a class-based system, you choose. I am a warrior, so I have a sword and shield, and I do this and that.  
 **Translation:** 
 
-**[12735.24s] English:** А по Кроссворлс была встреча, где нужно было принять ключевое для РПГ решение. В таких играх  
+**[12757.64s] English:** In the skill-based system, all you are is an avatar, and then your skills define you.  
 **Translation:** 
 
-**[12744.00s] English:** всегда стоит выбор, система навыков или классов. Обычно это какая-то комбинация,  
-**Translation:** 
+**[12764.96s] English:** For example, I might take the skill of swordmanship; in general, such decisions have to be made.  
+**Translation:** Vocabulary: avatar: 化身; swordmanship: 剑术
 
-**[12749.28s] English:** но в классовой системе ты выбираешь. Я воин, поэтому у меня меч и щит, и я делаю то-то и то-то.  
+**[12770.78s] English:** In gaming design, there are no right or wrong answers, only compromises. All is about compromise.  
 **Translation:** 
 
-**[12757.64s] English:** А в системе, основанной на навыках, все просто аватары, и уже потом тебя определяют твои навыки.  
-**Translation:** 
+**[12777.72s] English:** We decided that...  
+**Translation:** Vocabulary: compromise: 妥协; compromises: 妥协
 
-**[12764.96s] English:** Например, я могу взять навык владения мечом, в общем, вот такие решения и приходится принимать.  
+**[12779.28s] English:** What for Crosswords do we need such a class system.  
 **Translation:** 
 
-**[12770.78s] English:** И в геймдизайне нет правильных или неправильных ответов, лишь компромисс. Все дело в компромиссах.  
-**Translation:** 
+**[12783.88s] English:** Here we are at the meeting, and one of my favorite designers, Jeff Goodman,  
+**Translation:** Vocabulary: designers: 设计师
 
-**[12777.72s] English:** И мы решили, что...  
+**[12789.26s] English:** He was one of the first designers of encounters in WoW.  
 **Translation:** 
 
-**[12779.28s] English:** Что для Кроссворлс нам нужна именно такая классовая система.  
-**Translation:** 
+**[12794.14s] English:** He created Anixxia and all the major raid bosses.  
+**Translation:** Vocabulary: anixxia: 安尼克斯; encounters: 遭遇
 
-**[12783.88s] English:** И вот мы на совещании, и один из моих самых любимых дизайнеров, Джефф Гудман,  
+**[12797.74s] English:** If you have a favorite raid boss, Jeff made it.  
 **Translation:** 
 
-**[12789.26s] English:** он был одним из первых дизайнеров энкаунтеров в WoW.  
-**Translation:** 
+**[12801.40s] English:** And there at the meeting, he casually mentioned...  
+**Translation:** Vocabulary: casually: 随意地
 
-**[12794.14s] English:** Он создал Аниксию и всех крупных рейдовых боссов.  
+**[12807.02s] English:** He said, what if instead of that,...  
 **Translation:** 
 
-**[12797.74s] English:** Если у вас есть любимый рейдовый босс, то его сделал Джефф.  
+**[12809.28s] English:** To do six classes, make them fifty.  
 **Translation:** 
 
-**[12801.40s] English:** И вот на той встрече он как бы между делом бросил...  
+**[12814.48s] English:** Instead of each class having a hundred or more abilities,  
 **Translation:** 
 
-**[12807.02s] English:** Он сказал, а что если вместо того, что...  
+**[12821.06s] English:** Of these fifty classes, there will be only one or two that have truly cool features.  
 **Translation:** 
 
-**[12809.28s] English:** Чтобы делать шесть классов, сделать их пятьдесят.  
+**[12828.86s] English:** And on this note, the meeting ended.  
 **Translation:** 
 
-**[12814.48s] English:** И вместо того, чтобы у каждого класса было не по сотне способностей,  
+**[12831.32s] English:** At that meeting, we approved our six classes, and then it ended.  
 **Translation:** 
 
-**[12821.06s] English:** у этих пятидесяти классов будет всего одна-две по-настоящему крутые фишки.  
+**[12835.84s] English:** And...  
 **Translation:** 
 
-**[12828.86s] English:** И на этом совещание закончилось.  
+**[12836.84s] English:** I returned to myself.  
 **Translation:** 
 
-**[12831.32s] English:** На той встрече мы утвердили наши шесть классов, а потом она закончилась.  
+**[12839.28s] English:** I returned to myself.  
 **Translation:** 
 
-**[12835.84s] English:** И...  
+**[12840.00s] English:** Jeff's words stayed in my head, the approach he suggested for creating classes.  
 **Translation:** 
 
-**[12836.84s] English:** Я вернулся к себе.  
+**[12847.20s] English:** And we had an entire folder with all this amazing art from Titan.  
 **Translation:** 
 
-**[12839.28s] English:** Я вернулся к себе.  
-**Translation:** 
+**[12853.40s] English:** I began reviewing character concepts from Arnold Cang.  
+**Translation:** Vocabulary: titan: 泰坦
 
-**[12840.00s] English:** И слова Джеффа засели у меня в голове, то, какой подход он предлагал к созданию классов.  
+**[12858.10s] English:** Arnold's vision and his art are simply something else.  
 **Translation:** 
 
-**[12847.20s] English:** А еще у нас была целая папка со всем этим потрясающим артом от Титан.  
+**[12862.34s] English:** And I started taking some of the old characters from Titan that we had created.  
 **Translation:** 
 
-**[12853.40s] English:** И я начал просматривать концепты персонажей от Арнольда Цанга.  
+**[12869.18s] English:** We had a class called "Prygun.  
 **Translation:** 
 
-**[12858.10s] English:** Видение Арнольда и его арт просто нечто.  
-**Translation:** 
+**[12871.68s] English:** And the jumper could teleport, rewind time, and return.  
+**Translation:** Vocabulary: teleport: 瞬间移动
 
-**[12862.34s] English:** И я начал брать некоторых старых персонажей из Титан, которых мы придумали.  
+**[12876.64s] English:** Keep: Prygun used two pistols, which at that moment were copied from my pair of G-18s from Modern Warfare 2.  
 **Translation:** 
 
-**[12869.18s] English:** У нас был класс под названием «Прыгун».  
-**Translation:** 
+**[12885.84s] English:** This was my favorite setup.  
+**Translation:** Vocabulary: pistols: 手枪; setup: 配置; warfare: 战斗
 
-**[12871.68s] English:** И Прыгун мог телепортироваться, отматывать время и возвращаться.  
+**[12888.56s] English:** Yes, I just stole this from Infinity Ward.  
 **Translation:** 
 
-**[12876.64s] English:** И Прыгун использовал два пистолета, которые на тот момент срисовали с моих парных G-18 из Modern Warfare 2.  
-**Translation:** 
+**[12891.88s] English:** From there, the Trace使者's cannons originated.  
+**Translation:** Vocabulary: cannons: 大炮; infinity: 无限; originated: 起源于
 
-**[12885.84s] English:** Это был мой любимый сетап.  
+**[12894.00s] English:** There were various kinds of cannons.  
 **Translation:** 
 
-**[12888.56s] English:** Да, я просто слямзил это у Infinity Ward.  
+**[12895.94s] English:** In some cases, there was an increased range, while in others, there was completely different dynamics.  
 **Translation:** 
-
-**[12891.88s] English:** Оттуда и взялись пушки Трейсер.  
-**Translation:** Vocabulary: infinity: 无限
 
-**[12894.00s] English:** Были самые разные пушки.  
+**[12899.18s] English:** Wild recoil.  
 **Translation:** 
 
-**[12895.94s] English:** У одних возрастал разброс, у других была совершенно динамика.  
-**Translation:** 
+**[12901.12s] English:** There were other types of weapons as well.  
+**Translation:** Vocabulary: recoil: 后坐力
 
-**[12899.18s] English:** Дикая отдача.  
+**[12903.30s] English:** I took all versions of this Jump from Titan.  
 **Translation:** 
 
-**[12901.12s] English:** А были и другие типы оружия.  
+**[12907.14s] English:** And he just reduced it to what I considered the best version of the jumper.  
 **Translation:** 
 
-**[12903.30s] English:** Я взял все версии этого Прыгуна из Титан.  
+**[12913.46s] English:** Specifically, two pistols, blink, return, and impulse bomb.  
 **Translation:** 
 
-**[12907.14s] English:** И просто свел все к тому, что я считал лучшей версией этого Прыгуна.  
-**Translation:** 
+**[12919.92s] English:** Then I took Arnold Cansu's art and went to Arnold and said.  
+**Translation:** Vocabulary: impulse: 冲动
 
-**[12913.46s] English:** А именно, два пистолета, блинк, возврат и импульсная бомба.  
+**[12925.14s] English:** What if this will be not just a class?  
 **Translation:** 
 
-**[12919.92s] English:** А потом я взял арт Арнольда Цанга и пошел к Арнольду и говорю.  
+**[12929.18s] English:** This is a person, not just a class.  
 **Translation:** 
 
-**[12925.14s] English:** А что если это будет не просто класс?  
+**[12933.02s] English:** Arnold, and what if she's British and they call her Tracer?  
 **Translation:** 
 
-**[12929.18s] English:** Это личность, а не просто класс.  
-**Translation:** 
+**[12938.10s] English:** And that's how Overwatch was born.  
+**Translation:** Vocabulary: tracer: 追踪者
 
-**[12933.02s] English:** Арнольд такой, а что если она будет британкой и звать ее будут Трейсер?  
+**[12941.36s] English:** Partly, the pragmatic calculation was that I knew Jeff Goodman would be on the team.  
 **Translation:** 
 
-**[12938.10s] English:** И именно вот так и родился Овервотч.  
-**Translation:** 
+**[12949.96s] English:** I knew that Arnold Tsang would be there as well.  
+**Translation:** Vocabulary: pragmatic: 实际的
 
-**[12941.36s] English:** И отчасти прагматичный расчет был в том, что я знал, что в команде будет Джефф Гудман.  
+**[12953.18s] English:** And we need to play to our own strengths.  
 **Translation:** 
 
-**[12949.96s] English:** И я знал, что там будет и Арнольд Цанг.  
+**[12956.36s] English:** What can we do in two years?  
 **Translation:** 
 
-**[12953.18s] English:** И нужно играть от своих сильных сторон.  
+**[12959.18s] English:** With those people who will be playing.  
 **Translation:** 
 
-**[12956.36s] English:** Что мы можем сделать за два года?  
-**Translation:** 
+**[12960.00s] English:** Which ones we have, and what will be realistic, that is, something within our capabilities, and there I sat pondering.  
+**Translation:** Vocabulary: capabilities: 能力; pondering: 沉思
 
-**[12959.18s] English:** С теми людьми, которые будут играть.  
+**[12969.66s] English:** The essence was as if sifting through classes; Titan had a character named Ghandik who later became a reaper. Us  
 **Translation:** 
 
-**[12960.00s] English:** которые у нас есть и что будет реалистично то есть что нам по силам и вот я сидел и по  
-**Translation:** 
+**[12981.60s] English:** Was actually Ranger, split and from it came Soldier 76, and surprisingly, he became that.  
+**Translation:** Vocabulary: ghandik: 甘迪克; ranger: 游骑兵; reaper: 收割者; sifting: 筛选; titan: 泰坦
 
-**[12969.66s] English:** сути как бы перебирал классы из титан был такой персонаж ганджик который потом стал жнецом у нас  
+**[12989.10s] English:** Bastion, you're describing the shower where that exact vision from the meeting took place, right?  
 **Translation:** 
 
-**[12981.60s] English:** был на самом деле рейнджера разделили и из него получился солдат 76 и как ни странно получился  
-**Translation:** 
+**[12996.28s] English:** She came to life instead, and instead of several classes with a bunch of skills, you got a multitude of heroes.  
+**Translation:** Vocabulary: multitude: 众多
 
-**[12989.10s] English:** бастион ты сейчас описывая шовар watch где в точности то самое видение с той встречи да и  
+**[13005.10s] English:** Each had their own unique appearance and set of abilities, and each person was here.  
 **Translation:** 
 
-**[12996.28s] English:** она воплотилась в жизнь вместо нескольких классов с кучей умений у вас появилось множество героев и  
+**[13013.52s] English:** Key was to show this not just as an abstract jumper.  
 **Translation:** 
 
-**[13005.10s] English:** каждый со своим уникальным обликом и набором способностей да и личность личность была здесь  
+**[13019.10s] English:** A specific person, Lena Ostion, you understand? She has her own life, and we wanted her to connect with you, yeah.  
 **Translation:** 
 
-**[13013.52s] English:** ключевой важно было показать это не просто абстрактный прыгун  
-**Translation:** 
+**[13028.04s] English:** They have a deep backstory, and interestingly in Overwatch, this backstory isn't revealed.  
+**Translation:** Vocabulary: backstory: 背景故事
 
-**[13019.10s] English:** а конкретный человек лена окстон понимаешь у нее своя жизнь и мы хотели чтобы она тебя зацепила да  
+**[13037.10s] English:** Directly, it sort of seeps in indirectly during the course of the game; that is, it's almost always presented through hints.  
 **Translation:** 
 
-**[13028.04s] English:** у них глубокая предыстория а еще интересно в overwatch что это предыстория не раскрывается  
-**Translation:** 
+**[13049.10s] English:** And what she does, but it's much less expressive than the titans, but if you think about how  
+**Translation:** Vocabulary: expressive: 富有表现力的; seeps: 渗透; titans: 巨人
 
-**[13037.10s] English:** напрямую она как бы просачивается косвенно по ходу игры то есть она почти всегда подается намеками да  
+**[13054.46s] English:** Puedes usar la música para chantear, pero de verdad obligarte a abrir el show cantando por tu propio interés y es más sencillo decir que  
 **Translation:** 
 
-**[13049.10s] English:** и что она делает но это гораздо меньше всего выразительных титанов но если вы задумаетесь как  
-**Translation:** 
+**[13058.00s] English:** Football for equality to Moscow and kill in Russia? We don't have to think about world city.  
+**Translation:** Vocabulary: cantando: 唱歌; chantear: 哄骗; obligarte: 强迫你; propio: 自己的; sencillo: 简单
 
-**[13054.46s] English:** по- sued но прямо заставить тебя открыть шоу петь по своему интересу и проще сказать что  
+**[13065.84s] English:** Here was a lot to this in the end, and the team finally came around. It's funny that while we were discussing this cross,  
 **Translation:** 
 
-**[13058.00s] English:** футбол к равности к москве и убить в россии у нас нет чтобы подумать о ворлдов городе  
-**Translation:** 
+**[13074.04s] English:** Worlds: That is, people wrote design documents and created concept arts. We had a brain storm every day or so, and I sketched this out. It was a 7-page presentation titled "Monetizable Shooter" overviews. Its working title was "Monetizable Shooter," and it simply stated that.  
+**Translation:** Vocabulary: monetizable: 可以盈利的; sketched: 草拟
 
-**[13065.84s] English:** здесь было много к этому в итоге команда и пришла да и забавно что пока мы обсуждали этот cross  
+**[13079.10s] English:** Then on the first...  
 **Translation:** 
 
-**[13074.04s] English:** worlds то есть люди писали диздоки и делали концепт арты а мы каждый день brain шторм или и я набросал это была презентация на 7 страниц презентация овервоч ее рабочее название было монетизируемый шутер на ней было просто написано монетизируемый шутер и потом !"  
-**Translation:** 
+**[13080.00s] English:** In the first slide, there were logos for League of Legends and Team Fortress 2, and then I quickly sketched what I think were six heroes. And while everyone was working on Cross Worlds, that team had two leads. At that time, the team consisted of Chris Matson and Ray Gresko.  
+**Translation:** Vocabulary: legends: 传说
 
-**[13079.10s] English:** А потом на первом...  
+**[13105.10s] English:** I remember when Ray approached, and Ray is simply phenomenal, one of the greatest game developers. He wrote the engine for Dark Forces, was production director for Diablo 3, we closed Titan together, and there he stands behind me, looking over his shoulder and asking, "What are you up to? Presentation for Cross Worlds?  
 **Translation:** 
 
-**[13080.00s] English:** В первом слайде были логотипы League of Legends, а еще Team Fortress 2, а потом я на скорую руку набросал, кажется, шесть героев. И вот пока все работали над Cross Worlds, у той команды было два лида. В той команде тогда были Крис Мэтсон и Рэй Греско.  
-**Translation:** 
+**[13135.10s] English:** I show him those seven slides. He looks at me and says, "Go and show this to Matsu, this is what we need to be doing.  
+**Translation:** Vocabulary: approached: 靠近; diablo: 迪亚波罗; phenomenal: 非凡的; titan: 泰坦
 
-**[13105.10s] English:** Помню, как Рэй подошел, а Рэй просто феноменальный, один из величайших геймдевов. Он написал движок для Dark Forces, был продакшен-директором Diablo 3, мы с ним закрывали Титан, и вот он стоит у меня за спиной, смотрит через плечо и спрашивает, «Чем занимаешься? Презентация по Cross Worlds?»  
+**[13148.62s] English:** And I went and showed this to Matsu. I said, "Listen, this is just an idea." And then Matsu replied, "Yes, that's what we should do." I also showed it to Arnold, because his art was in it.  
 **Translation:** 
 
-**[13135.10s] English:** И показываю ему те семь слайдов. Он смотрит на меня и говорит, «Иди, покажи это Мэтсону, вот чем нам нужно заниматься».  
-**Translation:** Vocabulary: diablo: Diablo游戏
+**[13163.64s] English:** Then...  
+**Translation:** Vocabulary: arnold: 阿诺德; matsu: 松田
 
-**[13148.62s] English:** И я пошел и показал это Мэтсону. Сказал, «Слушай, это просто идея». И тогда Мэтсон такой, «Да, вот что мы должны делать». Я показал Арнольду, ведь в ней был его арт.  
+**[13165.10s] English:** Ray tells me, "And we gathered the team every morning because we were in a terrible, desperate position. By then, we had gone halfway through." And Ray and producer Matt Howley said, "Tomorrow morning at the meeting, you'll present this monetized shooter idea.  
 **Translation:** 
 
-**[13163.64s] English:** И потом...  
-**Translation:** 
+**[13184.62s] English:** She was supposed to be a free-to-play game according to my initial idea, but you had to purchase the heroes, which, of course, wasn't a great idea back then, but at the time, I thought it was a good one.  
+**Translation:** Vocabulary: halfway: 中途; monetized: 变现
 
-**[13165.10s] English:** Рэй говорит мне, «А мы каждое утро собирали команду, потому что мы были в ужасном, просто отчаянном положении. К тому моменту мы прошли полпути». И Рэй с продюсером Мэттом Хоули сказали, «Завтра утром на собрании ты презентуешь эту идею, монетизированный шутер».  
+**[13195.10s] English:** Here I am walking down the corridor, seeing what is happening.  
 **Translation:** 
 
-**[13184.62s] English:** Она называлась так, ведь по моей изначальной задумке она была фри-то-плей, но героев нужно было покупать, что, конечно, херовая идея, но тогда мне это казалось хорошей мыслью.  
-**Translation:** 
+**[13199.98s] English:** And I see what is happening.  
+**Translation:** Vocabulary: corridor: 过道
 
-**[13195.10s] English:** И вот я иду по коридору, смотрю, что происходит.  
+**[13200.00s] English:** In this, Houli to present this idea to the team, although we  
 **Translation:** 
 
-**[13199.98s] English:** И я смотрю, что происходит.  
+**[13200.04s] English:** And I see what is happening.  
 **Translation:** 
 
-**[13200.04s] English:** И я смотрю, что происходит.  
+**[13204.16s] English:** Generally, we were supposed to work on Crossword, but they kept telling me  
 **Translation:** 
 
-**[13200.00s] English:** этом Хоули, чтобы презентовать эту идею команде, хотя мы  
-**Translation:** 
+**[13208.04s] English:** Show them this.  
+**Translation:** Vocabulary: crossword: 纵横字谜
 
-**[13204.16s] English:** вообще-то должны были работать над Кроссворлд, но мне твердили  
+**[13209.26s] English:** Here, Matt Howley stops me and says, "Jeff,  
 **Translation:** 
 
-**[13208.04s] English:** «покажи им это».  
-**Translation:** 
+**[13215.14s] English:** You cannot go to this meeting.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[13209.26s] English:** И тут Мэтт Хоули останавливает меня и говорит «Джефф,  
+**[13217.44s] English:** I refuse to show the team the presentation, which  
 **Translation:** 
 
-**[13215.14s] English:** ты не можешь идти на это собрание.  
+**[13220.84s] English:** On the first slide, it says "monetized shooter.  
 **Translation:** 
 
-**[13217.44s] English:** Я отказываюсь показывать команде презентацию, которой  
+**[13224.64s] English:** It won't sit well with them, and it's not in keeping with who we are.  
 **Translation:** 
 
-**[13220.84s] English:** на первом слайде написано «монетизированный шутер».  
+**[13229.04s] English:** as creators.  
 **Translation:** 
 
-**[13224.64s] English:** Им это не зайдет, и это не в духе того, кем мы являемся,  
+**[13230.58s] English:** I thought you were right; no one should have seen the presentation.  
 **Translation:** 
 
-**[13229.04s] English:** как творцы».  
+**[13234.92s] English:** You yourself spied on her.  
 **Translation:** 
 
-**[13230.58s] English:** А я такой «ты прав, презентацию никто не должен был видеть,  
+**[13236.80s] English:** He's such a "this needs a name" kind of guy.  
 **Translation:** 
 
-**[13234.92s] English:** вы сами ее подсмотрели».  
+**[13240.04s] English:** I'm such an "Overwatch, on the go.  
 **Translation:** 
 
-**[13236.80s] English:** Он такой «этому нужно название».  
+**[13242.90s] English:** I answered "Overwatch," and that's where it came from.  
 **Translation:** 
 
-**[13240.04s] English:** А я такой «Овервотч, прямо на ходу».  
-**Translation:** 
+**[13247.16s] English:** This was when we were working on Titan, and it scared me terribly.  
+**Translation:** Vocabulary: titan: 泰坦神族
 
-**[13242.90s] English:** Я ответил «название Овервотч», а появилось оно вот откуда.  
+**[13251.22s] English:** It bothered me that we staged a fake... rather, not me,  
 **Translation:** 
 
-**[13247.16s] English:** Это было, когда мы работали над Титан, и меня жутко  
-**Translation:** 
+**[13255.24s] English:** Another leader in the team, such a fake...  
+**Translation:** Vocabulary: bothered: 烦恼
 
-**[13251.22s] English:** бесило, что мы устроили фальшивое… вернее не я,  
+**[13259.04s] English:** Type, we'll put up boards, and everyone will be able to vote.  
 **Translation:** 
 
-**[13255.24s] English:** а другой руководитель в команде, такое фальшивое…  
+**[13263.16s] English:** For a liked name for Titan.  
 **Translation:** 
 
-**[13259.04s] English:** Типа, мы повесим доски, и все смогут проголосовать  
+**[13267.80s] English:** But the one who started it already had something in mind.  
 **Translation:** 
 
-**[13263.16s] English:** за понравившееся название для Титан.  
+**[13270.72s] English:** Name for the game, and he just pushed it through exactly.  
 **Translation:** 
 
-**[13267.80s] English:** Но у того, кто это затеял, уже было на примете свое  
+**[13276.38s] English:** His.  
 **Translation:** 
 
-**[13270.72s] English:** название для игры, и он просто проталкивал именно  
+**[13277.38s] English:** Yes.  
 **Translation:** 
 
-**[13276.38s] English:** его.  
+**[13278.38s] English:** More votes were received by Overwatch, and Overwatch  
 **Translation:** 
 
-**[13277.38s] English:** Да.  
-**Translation:** 
+**[13281.54s] English:** In Titan, there was something like a police detachment stationed there.  
+**Translation:** Vocabulary: detachment: 分遣队
 
-**[13278.38s] English:** И больше всего голосов набрал Овервотч, а Овервотч  
+**[13284.72s] English:** Suity.  
 **Translation:** 
 
-**[13281.54s] English:** в Титан был чем-то вроде полицейского отряда по  
+**[13285.72s] English:** But someone wrote Overwatch on that board, and it won.  
 **Translation:** 
 
-**[13284.72s] English:** сути.  
+**[13288.92s] English:** Voting.  
 **Translation:** 
 
-**[13285.72s] English:** Но кто-то написал Овервотч на той доске, и оно выиграло  
+**[13289.92s] English:** So I called the game Overwatch, to give  
 **Translation:** 
 
-**[13288.92s] English:** голосование.  
+**[13295.80s] English:** Five to their team, and to show the middle finger at the same time.  
 **Translation:** 
 
-**[13289.92s] English:** Так что я, в общем-то, назвал игру Овервотч, чтобы дать  
+**[13301.14s] English:** Do not pretend to have democracy when you don't have it, do you understand?  
 **Translation:** 
 
-**[13295.80s] English:** пять своей команде, и заодно показать средний палец.  
+**[13303.76s] English:** This was just an average thumb.  
 **Translation:** 
 
-**[13301.14s] English:** Не надо изображать демократию, когда ее нет, понимаешь?  
+**[13305.68s] English:** Yes.  
 **Translation:** 
 
-**[13303.76s] English:** Это был такой средний палец.  
+**[13306.68s] English:** So, Overwatch.  
 **Translation:** 
 
-**[13305.68s] English:** Да.  
+**[13307.68s] English:** And then, as they say, it's already history.  
 **Translation:** 
 
-**[13306.68s] English:** Итак, Овервотч.  
+**[13310.20s] English:** But what was in that presentation?  
 **Translation:** 
 
-**[13307.68s] English:** А дальше, как говорится, уже история.  
+**[13313.80s] English:** Was there any step-by-step vision in her for you...?  
 **Translation:** 
 
-**[13310.20s] English:** Но что было в той презентации?  
+**[13318.04s] English:** Yes.  
 **Translation:** 
 
-**[13313.80s] English:** Было ли в ней у тебя какое-то пошаговое видение…  
+**[13318.92s] English:** As a example...  
 **Translation:** 
 
-**[13318.04s] English:** Да.  
+**[13319.92s] English:** Vосхищения.  
 **Translation:** 
 
-**[13318.92s] English:** В качестве…  
+**[13320.00s] English:** My presentation was terrible. We even have a term for "Jeff's pres." This is when it's so bad, it's gray.  
 **Translation:** 
 
-**[13319.92s] English:** Восхищения.  
+**[13320.92s] English:** On the highway.  
 **Translation:** 
 
-**[13320.92s] English:** В highway.  
+**[13321.92s] English:** During the progress, a scream, I didn't expect this...  
 **Translation:** 
 
-**[13321.92s] English:** Во время прогресса,zewизгой, я этого не ожидал…  
+**[13326.92s] English:** Yes.  
 **Translation:** 
 
-**[13326.92s] English:** Да.  
+**[13327.56s] English:** Fon and black font, and standard blue shapes from PowerPoint. For I simply don't bother with  
 **Translation:** 
 
-**[13327.92s] English:** Не было.  
+**[13327.92s] English:** There was none.  
 **Translation:** 
 
-**[13328.92s] English:** Ладно.  
+**[13328.92s] English:** Okay.  
 **Translation:** 
 
-**[13329.92s] English:** С demokrat monopoly…  
+**[13329.92s] English:** Keep the phrase as is without adding punctuation or capitalization: С demokrat monopoly...  
 **Translation:** 
 
-**[13330.92s] English:** Давайте попробуем.  
+**[13330.92s] English:** Let's try.  
 **Translation:** Vocabulary: demokrat: 民主; monopoly: 垄断
 
-**[13331.92s] English:** С USDA annexed, это правильно, выJordanером, это niños.  
+**[13331.92s] English:** Since USDA annexed it, that's correct, you Jordan, this is for children.  
 **Translation:** 
 
-**[13332.92s] English:** Ну в общем, это в порядке.  
+**[13332.92s] English:** Nu, in general, this is okay.  
+**Translation:** Vocabulary: annexed: 并入
+
+**[13333.92s] English:** Drafted cultural elements with the perimeter of Patricia.  
 **Translation:** 
 
-**[13333.92s] English:** Подставил draft culture, с периметром Патрицией.  
+**[13334.12s] English:** Oformlением. Разве что перетащить арт Арнольда Цанга и тем самым осквернить их своей презентацией. Improved with natural English punctuation and capitalization: Oformlением. Would it be any different than dragging Arnold Canga's art, thereby desecrating them with our presentation?  
+**Translation:** Vocabulary: arnold: 阿诺德; capitalization: 大写; desecrating: 亵渎; drafted: 起草; patricia: 帕特里夏; perimeter: 周长
+
+**[13334.92s] English:** But at some point, he literally promised her to describe it.  
 **Translation:** 
 
-**[13334.92s] English:** Но и когда-то это описывал, обещать ее был буквально  
+**[13335.92s] English:** One name, goddamnit Biko…  
+**Translation:** Vocabulary: goddamnit: 该死的
+
+**[13336.92s] English:** Let's do the last screening test, and now the injection.  
 **Translation:** 
 
-**[13335.92s] English:** одно имя, по guar заебал Biko…  
+**[13337.84s] English:** TV.  
+**Translation:** Vocabulary: injection: 注射
+
+**[13338.84s] English:** In general, we have hard disk stores only,  
 **Translation:** 
 
-**[13336.92s] English:** Давайте последнее screening предложи, и теперь запeptане  
+**[13339.84s] English:** From there, there is no format for servers to log in.  
 **Translation:** 
 
-**[13337.84s] English:** �TV.  
+**[13340.70s] English:** In general, we gathered a team, and in our Overwatch team, there was an amazing game designer named Jeremy Craig.  
 **Translation:** 
 
-**[13338.84s] English:** В общем, что у нас появились magazины жесткие, только  
+**[13340.84s] English:** Whole angle,...  
 **Translation:** 
 
-**[13339.84s] English:** из того нет формата серверов, чтобы набрать  
+**[13341.84s] English:** Nu and, of course, for example, in our case, you got it. Nuance.  
 **Translation:** 
 
-**[13340.84s] English:** целый угол...  
+**[13347.90s] English:** He is currently leading the game development at Bonfire. Jeremy was not just great,  
+**Translation:** Vocabulary: bonfire: 篝火; nuance: 细微差别
+
+**[13358.74s] English:** Game designer, he had a talent for visual presentation like no one else. And here Jeremy took  
 **Translation:** 
 
-**[13341.84s] English:** Ну и, понятно, например, у нас 맞아요 нюанс.  
+**[13366.12s] English:** My crap presentation, then we had several brainstorming sessions and we worked on the concept.  
+**Translation:** Vocabulary: brainstorming: 头脑风暴
+
+**[13371.80s] English:** Overwatch is much deeper, and then he did this fantastic presentation, with which we moved forward.  
 **Translation:** 
 
-**[13320.00s] English:** Моя презентация была ужасной. У нас даже есть такое понятие «преза от Джеффа». Это когда серый  
-**Translation:** 
-
-**[13327.56s] English:** фон и черный шрифт и стандартные синие фигуры из PowerPoint. Ведь я просто не заморачиваюсь с  
-**Translation:** 
-
-**[13334.12s] English:** оформлением. Разве что перетащить арт Арнольда Цанга и тем самым осквернить их своей презентацией.  
-**Translation:** 
-
-**[13340.70s] English:** В общем мы собрали, а у нас в команде Overwatch был потрясающий геймдизайнер Джереми Крейг,  
-**Translation:** 
-
-**[13347.90s] English:** он сейчас руководит разработкой игры в Bonfire. Джереми был не просто отличным  
-**Translation:** Vocabulary: bonfire: 篝火
-
-**[13358.74s] English:** геймдизайнером, у него был талант к визуальной подаче как ни у кого другого. И вот Джереми взял  
-**Translation:** 
-
-**[13366.12s] English:** мою дерьмовую презентацию, потом у нас было еще много брейнштормов и мы проработали концепцию  
-**Translation:** 
-
-**[13371.80s] English:** Overwatch гораздо глубже, и тогда он сделал эту шикарную презентацию, с которой мы пошли дальше.  
-**Translation:** 
-
-**[13377.30s] English:** Сначала ее должны были утвердить продюсеры и геймдиректоры Blizzard. Сначала нужно было  
+**[13377.30s] English:** First, it needed to be approved by the producers and game directors at Blizzard.  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[13383.90s] English:** получить их одобрение. Затем одобрение от руководства Blizzard и наконец от самой Activision.  
+**[13383.90s] English:** To get their approval. Then, approval from Blizzard Management and finally, from Activision.  
 **Translation:** 
 
-**[13390.74s] English:** И в этой презентации, поскольку нужно было затронуть по сути две сложные темы,  
+**[13390.74s] English:** In this presentation, since it needed to cover two complex topics in essence,  
 **Translation:** Vocabulary: activision: 动视
 
-**[13399.82s] English:** о которых нелегко говорить. Первое, это были сроки. И мы придумали концепцию ползти и тянуть.  
+**[13399.82s] English:** It's hard to talk about. The first thing was the deadlines. And we came up with the concept of crawling and dragging.  
 **Translation:** 
 
-**[13407.30s] English:** Мы осознали, Титан провалился, потому что мы сразу попытались бежать, то есть создать новый  
+**[13407.30s] English:** We realized that Titan failed because we tried to run immediately, that is, to create a new  
+**Translation:** Vocabulary: crawling: 爬取; deadlines: 截止日期
+
+**[13414.68s] English:** World of Warcraft. But if we recall, it was built on the basis of Warcraft 1, 2, and 3.  
 **Translation:** 
 
-**[13414.68s] English:** World of Warcraft. Но если вспомнить World of Warcraft, он ведь строился на основе Warcraft 1, 2 и 3.  
+**[13423.62s] English:** Due to these very pillars, people became genuinely interested in them. To such an extent that they wanted to live in  
+**Translation:** Vocabulary: pillars: 基石; warcraft: 战地
+
+**[13430.76s] English:** In this world, the idea was to try not to attempt to create a new World of Warcraft all at once.  
 **Translation:** 
 
-**[13423.62s] English:** Благодаря именно этим столпам люди вообще им заинтересовались. Настолько, что захотели жить в  
-**Translation:** Vocabulary: warcraft: 战争艺术
+**[13437.30s] English:** In essence, it needs to be restrained.  
+**Translation:** Vocabulary: restrained: 克制的
 
-**[13430.76s] English:** этом мире. Так что идея была в том, чтобы не пытаться сразу создать новый World of Warcraft.  
+**[13440.00s] English:** Analogous to Warcraft 1, the first game was supposed to merely show that there is a universe which could  
 **Translation:** 
 
-**[13437.30s] English:** А по сути, сдерживаться.  
+**[13447.80s] English:** We knew that in those two years we were given, it was impossible to make something truly engaging.  
+**Translation:** Vocabulary: analogous: 类似的
+
+**[13455.78s] English:** PVS component, therefore, we just randomly wrote in dates on the slide to keep moving forward, running, calculating.  
 **Translation:** 
 
-**[13440.00s] English:** аналог warcraft 1 то есть первая игра должна была лишь показать что есть вселенная которая может  
+**[13464.78s] English:** What this might seem like an ambitious plan, but in reality, we just tried to save ourselves; don't close it.  
+**Translation:** Vocabulary: calculating: 计算
+
+**[13471.92s] English:** This team is capable of great deeds. The second point that needed to be raised.  
 **Translation:** 
 
-**[13447.80s] English:** вас зацепить еще мы знали что за те два года что нам дали было нереально сделать увлекательную  
+**[13478.34s] English:** This was a mobile strategy, then it was a trend that everything should be on mobiles, I think it's complete.  
 **Translation:** 
 
-**[13455.78s] English:** пвс составляющую поэтому мы просто от балды вписали даты в слайд ползти идти бежать рассчитывая  
+**[13486.08s] English:** ChuSh, da i vovod chet, we did what Jeremy came up with; it was a genius idea. We had a slide with all the platforms.  
 **Translation:** 
 
-**[13464.78s] English:** что это сойдет за амбициозный план а на деле мы просто пытались спасти себя мол не закрывайте не  
+**[13494.48s] English:** And one of them is a tablet on which randomly open Photoshop and there's concept art by Arnold we such as.  
+**Translation:** Vocabulary: arnold: 阿诺德; jeremy: 杰里米
+
+**[13503.06s] English:** Here's the transcript with natural English punctuation and capitalization: Ещё она будет и на мобильках — гениальная концепция "ползти, идти, бежать" — отличная, то есть, изначально.  
 **Translation:** 
 
-**[13471.92s] English:** закрывайте нас эта команда способна на великие дела второй момент который нужно было поднять  
+**[13511.16s] English:** The idea was to make essentially a shooter with multiple heroes, and then at the stage to add more.  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音原文
+
+**[13518.60s] English:** Similarity to PVE cooperative, and then if  
 **Translation:** 
 
-**[13478.34s] English:** это мобильная стратегия тогда был тренд что все должно быть и на мобильных что по-моему полная  
+**[13524.48s] English:** People will like the world, based on which a bigger one can be created; we'll make a pause for the bathroom.  
+**Translation:** Vocabulary: cooperative: 合作; similarity: 相似
+
+**[13530.84s] English:** 30 seconds to say thanks to our sponsors—links in the description are the best way to support the podcast.  
 **Translation:** 
 
-**[13486.08s] English:** чушь да и вот что мы сделали это была гениальная идея джереми у нас был слайд со всеми платформами  
+**[13538.22s] English:** Visit alexfriedman.com/sponsors our sponsors Finn and Agent in Customer Support.  
+**Translation:** Vocabulary: sponsors: 赞助商
+
+**[13544.94s] English:** Blitz, and for code generation in large codebases: better help for mental health.  
 **Translation:** 
 
-**[13494.48s] English:** и одна из них планшет а на нем от балды при фотошопе ли концепт арт арнольда мы такие а  
+**[13549.56s] English:** Shopify for online trading, code rabid for review code with the help of and  
+**Translation:** Vocabulary: blitz: 闪电战; codebases: 代码库; rabid: 狂热的; shopify: Shopify
+
+**[13554.48s] English:** And perplexity for recognizing the world out of curiosity.  
 **Translation:** 
 
-**[13503.06s] English:** еще она будет и на мобилках гениально концепция ползти идти бежать отличная то есть изначально  
-**Translation:** 
-
-**[13511.16s] English:** задумка была в том чтобы сделать по сути шутер со множеством героев и затем на этапе идти добавить  
-**Translation:** 
-
-**[13518.60s] English:** подобие pve кооператива а потом если  
-**Translation:** 
-
-**[13524.48s] English:** людям понравится мир на его основе можно будет создать большую мимо сделаем паузу на уборную  
-**Translation:** 
-
-**[13530.84s] English:** 30 секунд сказать спасибо спонсорам ссылки в описании это лучший способ поддержать подкаст  
-**Translation:** 
-
-**[13538.22s] English:** заходите на алекс фридман точка ком слэш спонсор наши спонсоры финн и агент в поддержке клиентов  
-**Translation:** 
-
-**[13544.94s] English:** блиц и для генерации кода в больших кодовых базах better help для ментального здоровья  
-**Translation:** 
-
-**[13549.56s] English:** шопифай для онлайн торговли код rabid для review кода с помощью и  
-**Translation:** Vocabulary: rabid: 狂热的
-
-**[13554.48s] English:** и perplexity для опознания мира из любопытства  
-**Translation:** 
-
-**[13560.00s] English:** Выбирайте с умом, друзья.  
+**[13560.00s] English:** Choose wisely, friends.  
 **Translation:** Vocabulary: perplexity: 困惑
 
-**[13562.06s] English:** А теперь вернемся к разговору с Джеффом Капланом.  
+**[13562.06s] English:** Now let's return to our conversation with Jeff Kaplan.  
 **Translation:** 
 
-**[13567.28s] English:** И надо сказать, что ты выстроил вокруг Overwatch целый мир.  
+**[13567.28s] English:** And it must be said that you have built a whole world around Overwatch.  
 **Translation:** 
 
-**[13572.00s] English:** И одна из идей была...  
+**[13572.00s] English:** One of the ideas was...  
 **Translation:** 
 
-**[13574.80s] English:** В общем, у Warcraft своя специфика, у StarCraft своя, у Diablo своя.  
-**Translation:** Vocabulary: diablo: 恶魔之魂; warcraft: 战网世界
+**[13574.80s] English:** In general, Warcraft has its own specifics, as does StarCraft and Diablo.  
+**Translation:** Vocabulary: diablo: 恶魔之魂; warcraft: 魔兽世界
 
-**[13580.08s] English:** И вы хотели перенести действие Overwatch на Землю и сделать этот мир позитивным.  
+**[13580.08s] English:** And you wanted to move the action of Overwatch to Earth and make this world positive.  
 **Translation:** 
 
-**[13586.26s] English:** Ты как-то говорил, что с большим уважением относишься к мрачным и суровым постапокалиптическим играм на Земле.  
+**[13586.26s] English:** You once mentioned that you hold a great respect for dark and harsh post-apocalyptic games on Earth.  
 **Translation:** 
 
-**[13596.34s] English:** С таким же уважением ты отзывался и об ультрареалистичных шутерах от первого лица, вроде Call of Duty.  
+**[13596.34s] English:** You expressed the same respect for ultra-realistic first-person shooters like Call of Duty.  
 **Translation:** 
 
-**[13602.90s] English:** Но вы хотели создать нечто другое, картину ближайшего, обнадеживающего будущего.  
+**[13602.90s] English:** But you wanted to create something else, a picture of the nearest, hopeful future.  
 **Translation:** 
 
-**[13610.70s] English:** Веселого и, скорее, сюрреалистичного, а не ультрареалистичного.  
+**[13610.70s] English:** A happy and more surrealistic, rather than ultra-realistic.  
 **Translation:** 
 
-**[13617.14s] English:** И вот интересно было бы обсудить, как именно оживает мир.  
-**Translation:** 
+**[13617.14s] English:** It would be interesting to discuss how exactly the world comes alive.  
+**Translation:** Vocabulary: surrealistic: 超现实的
 
-**[13624.20s] English:** Как вы его продумывали, как создавали атмосферу, как мыслили, как выстраивали все это видение.  
+**[13624.20s] English:** How did you conceive it, how did you create the atmosphere, how did you think through everything, and how did you piece together this vision?  
 **Translation:** 
 
-**[13631.72s] English:** И речь не только о персонажах, вроде Трейсера и других, не об их личностях, а о том, как оживить мир, где они будут жить.  
-**Translation:** 
+**[13631.72s] English:** The conversation is not just about characters like Tracer and others, their personalities, but about how to bring the world they will live in to life.  
+**Translation:** Vocabulary: conceive: 构思; tracer: 追踪者
 
-**[13640.12s] English:** Как шел этот процесс?  
+**[13640.12s] English:** How did this process go?  
 **Translation:** 
 
-**[13642.88s] English:** Процесс был потрясающим.  
-**Translation:** 
+**[13642.88s] English:** The process was breathtaking.  
+**Translation:** Vocabulary: breathtaking: 令人惊叹的
 
-**[13645.22s] English:** А нашей целью был...  
+**[13645.22s] English:** Our goal was...  
 **Translation:** 
 
-**[13647.14s] English:** Создать светлое, обнадеживающее будущее.  
+**[13647.14s] English:** Create a bright, hopeful future.  
 **Translation:** 
 
-**[13650.24s] English:** И в команде мы постоянно повторяли одну фразу, будущее, за которое стоит сражаться.  
+**[13650.24s] English:** In the team, we constantly repeated one phrase: "The future worth fighting for.  
 **Translation:** 
 
-**[13654.98s] English:** Если в игре столько сражений, они должны того стоить.  
+**[13654.98s] English:** If there are so many battles in the game, they should be worth it.  
 **Translation:** 
 
-**[13658.70s] English:** Сражаться ради чего-то.  
+**[13658.70s] English:** To fight for something.  
 **Translation:** 
 
-**[13660.66s] English:** А вот выбирать локации для этого мира было самым веселым.  
+**[13660.66s] English:** Here, choosing locations for this world was the most fun.  
 **Translation:** 
 
-**[13664.44s] English:** Мы просто собирались небольшой группой и обсуждали, куда бы нам хотелось отправиться.  
+**[13664.44s] English:** We simply gathered in a small group and discussed where we would like to go.  
 **Translation:** 
 
-**[13671.74s] English:** Санторини выглядит потрясающе, и вот смотришь на картинки и думаешь,  
-**Translation:** 
+**[13671.74s] English:** Santorini looks amazing, and as you look at the pictures, you think,  
+**Translation:** Vocabulary: santorini: 圣托里尼
 
-**[13676.62s] English:** «Все, делаем эту локацию».  
+**[13676.62s] English:** Let's do this location.  
 **Translation:** 
 
-**[13678.28s] English:** В видеоигре игроки...  
+**[13678.28s] English:** In the video game, players...  
 **Translation:** 
 
-**[13680.00s] English:** проводят в одной локации часы напролет, и нужно  
+**[13680.00s] English:** They conduct it in one location for hours at a time, and it needs to  
 **Translation:** 
 
-**[13685.66s] English:** устоять перед соблазном сделать то, что я называю  
-**Translation:** 
+**[13685.66s] English:** To stand firm against the temptation to do what I call  
+**Translation:** Vocabulary: temptation: 诱惑
 
-**[13688.48s] English:** лабиринтом грузовых контейнеров, из каждой третьей игры.  
+**[13688.48s] English:** A labyrinth of cargo containers, from every third game.  
 **Translation:** 
 
-**[13692.68s] English:** Я знаю, почему их делают, это просто легко, но мы  
-**Translation:** 
+**[13692.68s] English:** I know why they are made; it's just easy, but we  
+**Translation:** Vocabulary: labyrinth: 迷宫
 
-**[13696.94s] English:** хотели, чтобы Овервотч стал мировым турне по красивейшим  
+**[13696.94s] English:** They wanted Overwatch to become a world tour in the most beautiful cities.  
 **Translation:** 
 
-**[13700.40s] English:** местам, где хочется побывать.  
+**[13700.40s] English:** Places where one wants to visit.  
 **Translation:** 
 
-**[13703.16s] English:** Или, например, локация Оазис, да, может, на момент создания  
+**[13703.16s] English:** Or, for example, the location Oasis, yes, may have been at the time of creation,  
 **Translation:** 
 
-**[13709.52s] English:** игры, Ирак был не самым популярным местом для поездок,  
-**Translation:** 
+**[13709.52s] English:** Games, Iraq was not the most popular destination for trips.  
+**Translation:** Vocabulary: oasis: 绿洲
 
-**[13714.46s] English:** но как может выглядеть его светлая обнадеживающая  
+**[13714.46s] English:** But how might it look like his bright and hopeful  
 **Translation:** 
 
-**[13718.00s] English:** версия.  
+**[13718.00s] English:** Version.  
 **Translation:** 
 
-**[13720.34s] English:** Так что мы просто пытались продвинуть идею этих вдохновляющих  
+**[13720.34s] English:** So we just tried to promote the idea of these inspiring  
 **Translation:** 
 
-**[13725.64s] English:** локаций, во-первых, чтобы игроки задумались о разных  
+**[13725.64s] English:** Locations, first of all, to make players think about different  
 **Translation:** 
 
-**[13729.58s] English:** уголках планеты и о том, насколько они прекрасны,  
+**[13729.58s] English:** At corners of the planet and about how beautiful they are.  
 **Translation:** 
 
-**[13733.76s] English:** но и с точки зрения чистого геймдизайна, ты ведь проводишь  
+**[13733.76s] English:** But from a purely design perspective, you do have to admit that it works.  
 **Translation:** 
 
-**[13737.12s] English:** в локации уйму времени.  
+**[13737.12s] English:** In the location, there is an abundance of time.  
 **Translation:** 
 
-**[13739.52s] English:** И окружение должно радовать глаз, а не угнетать.  
-**Translation:** 
+**[13739.52s] English:** The surroundings should delight the eye, rather than oppress it.  
+**Translation:** Vocabulary: delight: 使愉快; oppress: 压迫; surroundings: 环境
 
-**[13744.22s] English:** Расскажи о некоторых героях, которых вы добавили в игру.  
+**[13744.22s] English:** Tell me about some heroes you've added to the game.  
 **Translation:** 
 
-**[13748.58s] English:** Может, начнем так, какие твои любимые?  
+**[13748.58s] English:** May be, let's start with what are your favorite?  
 **Translation:** 
 
-**[13751.72s] English:** А какие, если судить по интернету, самые популярные у игроков?  
+**[13751.72s] English:** What are the most popular among players, if judged by the internet?  
 **Translation:** 
 
-**[13756.32s] English:** Мои любимые...  
+**[13756.32s] English:** My favorites...  
 **Translation:** 
 
-**[13758.62s] English:** У меня есть пара фаворитов.  
+**[13758.62s] English:** I have a couple of favorites.  
 **Translation:** 
 
-**[13761.40s] English:** Это, конечно, Трейсер.  
-**Translation:** 
+**[13761.40s] English:** This, of course, is Tracer.  
+**Translation:** Vocabulary: tracer: 追踪器
 
-**[13763.04s] English:** Она классика.  
+**[13763.04s] English:** She is a classic.  
 **Translation:** 
 
-**[13764.22s] English:** Да, она основа основ.  
+**[13764.22s] English:** Yes, she is the foundation of foundations.  
 **Translation:** 
 
-**[13765.84s] English:** Мы ведь ее и на обложку поместили.  
+**[13765.84s] English:** We did put her on the cover as well.  
 **Translation:** 
 
-**[13769.52s] English:** Тогда мы и решили, что надо просто взять самое лучшее,  
+**[13769.52s] English:** Then we decided that we should just take the very best,  
 **Translation:** 
 
-**[13775.10s] English:** что у нас было.  
+**[13775.10s] English:** What we had.  
 **Translation:** 
 
-**[13776.36s] English:** Мы знали, что ее геймплей надежен, и он очень простой.  
+**[13776.36s] English:** We knew that its gameplay was reliable and very simple.  
 **Translation:** 
 
-**[13780.46s] English:** Его механики легко кому-то объяснить, и в игру легко  
+**[13780.46s] English:** His mechanics are easy to explain, and the game is easy to play.  
 **Translation:** 
 
-**[13784.46s] English:** втянуться.  
-**Translation:** 
+**[13784.46s] English:** To get hooked.  
+**Translation:** Vocabulary: hooked: 上瘾
 
-**[13785.38s] English:** Когда кто-нибудь впервые использует возврат и пытается  
+**[13785.38s] English:** When someone uses return for the first time and tries  
 **Translation:** 
 
-**[13790.24s] English:** осознать у себя в голове, постойте, то есть если я...  
+**[13790.24s] English:** To realize it in your head, hold on, that is, if I...  
 **Translation:** 
 
-**[13793.92s] English:** И тут игрок начинает просчитывать все возможности.  
+**[13793.92s] English:** Here, the player begins to calculate all possibilities.  
 **Translation:** 
 
-**[13796.70s] English:** Надо пояснить, это PvP игра?  
+**[13796.70s] English:** Do we need to explain that this is a PvP game?  
 **Translation:** 
 
-**[13799.52s] English:** Где?  
+**[13799.52s] English:** Where?  
 **Translation:** 
 
-**[13800.00s] English:** играют 6 на 6, и в ней есть три разные роли, которые выбирают игроки в своей команде.  
+**[13800.00s] English:** They play 6 on 6, and there are three different roles that players choose for their team.  
 **Translation:** 
 
-**[13810.40s] English:** И сначала, кажется, роли не были обязательными, и можно было собирать команду как угодно.  
+**[13810.40s] English:** At first, it seemed that roles weren't mandatory, and you could assemble the team however you wanted.  
 **Translation:** 
 
-**[13819.94s] English:** А потом, чтобы сделать игру интереснее, вы ввели структуру,  
-**Translation:** 
+**[13819.94s] English:** Then, to make the game more interesting, you introduced a structure,  
+**Translation:** Vocabulary: assemble: 组建; mandatory: 强制的
 
-**[13824.32s] English:** закрепили по два игрока на роль — танк, саппорт и дамагер.  
+**[13824.32s] English:** We assigned two players each to the roles of tank, support, and damage dealer.  
 **Translation:** 
 
-**[13828.74s] English:** И для этих ролей есть множество героев на выбор, у каждого своя история,  
+**[13828.74s] English:** For these roles, there are many heroes to choose from, each with their own story.  
 **Translation:** 
 
-**[13837.20s] English:** и некоторые, наверное, играют только за одного героя.  
+**[13837.20s] English:** And some, no doubt, play only for one hero.  
 **Translation:** 
 
-**[13842.18s] English:** Так что у каждого своя личность, история, и вокруг каждого формируется свое сообщество.  
+**[13842.18s] English:** So each has their own personality, history, and around each forms its own community.  
 **Translation:** 
 
-**[13848.34s] English:** Но в итоге это просто веселый шутер.  
+**[13848.34s] English:** But in the end, it's just a fun shooter.  
 **Translation:** 
 
-**[13851.42s] English:** Да, мы хотели отдать дань уважения шутерам, которые были до нас, и которые мы сами любили.  
-**Translation:** 
+**[13851.42s] English:** Yes, we wanted to pay tribute to the shooters who came before us and whom we ourselves loved.  
+**Translation:** Vocabulary: tribute: 致敬
 
-**[13857.54s] English:** Невозможно, чтобы...  
+**[13857.54s] English:** Impossible as it may be,...  
 **Translation:** 
 
-**[13858.74s] English:** Нельзя говорить об Овервотче, не упомянув Team Fortress 2.  
+**[13858.74s] English:** Cannot talk about Overwatch without mentioning Team Fortress 2.  
 **Translation:** 
 
-**[13863.42s] English:** Team Fortress начинался как мод для Quake,  
+**[13863.42s] English:** Team Fortress began as a mod for Quake.  
 **Translation:** 
 
-**[13867.22s] English:** гениальный, и я в него много играл.  
+**[13867.22s] English:** Genius, and I played it a lot.  
 **Translation:** 
 
-**[13871.22s] English:** Потом вышел Team Fortress Classic вместе с Half-Life 1.  
+**[13871.22s] English:** Then, Team Fortress Classic was released along with Half-Life 1.  
 **Translation:** 
 
-**[13875.22s] English:** А потом вышел Team Fortress 2. Думаю, он всех просто поразил, когда вышел в 2007.  
+**[13875.22s] English:** Then came Team Fortress 2. I think it simply blew everyone away when it was released in 2007.  
 **Translation:** 
 
-**[13881.22s] English:** И очевидно, что его влияние было огромным.  
+**[13881.22s] English:** It is obvious that his influence was enormous.  
 **Translation:** 
 
-**[13885.22s] English:** Но вот сама шутерная механика в Овервотче...  
+**[13885.22s] English:** But here's the shooter mechanics in Overwatch....  
 **Translation:** 
 
-**[13888.74s] English:** Она...  
+**[13888.74s] English:** She...  
 **Translation:** 
 
-**[13890.74s] English:** Ее относят к так называемым аркадным или арендным шутерам.  
-**Translation:** 
+**[13890.74s] English:** She is categorized as an arcade or rental shooter.  
+**Translation:** Vocabulary: arcade: 街机; categorized: 归类; rental: 租赁
 
-**[13896.74s] English:** Меня это коробит, потому что в те времена я никогда не считал Quake аркадным шутером.  
+**[13896.74s] English:** This bothers me because back then I never considered Quake an arcade shooter.  
 **Translation:** 
 
-**[13903.74s] English:** Это звучало почти что оскорбительно.  
+**[13903.74s] English:** This sounded almost offensive.  
 **Translation:** 
 
-**[13905.74s] English:** Но вот это быстрое движение, эпичное, нереальное оружие,  
+**[13905.74s] English:** But here is this quick movement, epic, unreal weaponry,  
 **Translation:** 
 
-**[13912.74s] English:** и большое время на убийство, или ТТК, как говорят игроки, это...  
+**[13912.74s] English:** And a lot of time for killing, or TTK, as players say, is...  
 **Translation:** 
 
-**[13918.74s] English:** То есть, вы очень живу...  
+**[13918.74s] English:** That is to say, you are very alive....  
 **Translation:** 
+
+**[13920.00s] English:** You can sustain several hits, but in games like Call of Duty or Counter-Strike, from one  
+**Translation:** Vocabulary: sustain: 承受
 
 **[13920.74s] English:** ...  
 **Translation:** 
@@ -10062,6 +10066,9 @@ Source file: Lex Fridman - Jeff Kaplan： World of Warcraft, Overwatch, Blizzard
 
 **[13924.74s] English:** ...  
 **Translation:** 
+
+**[13926.48s] English:** Popping in the head, you're immediately a corpse. In general, he envisioned it as explosive, epic, and humorous.  
+**Translation:** Vocabulary: envisioned: 想象; explosive: 爆炸性的; humorous: 幽默的
 
 **[13926.74s] English:** ...  
 **Translation:** 
@@ -10075,8 +10082,11 @@ Source file: Lex Fridman - Jeff Kaplan： World of Warcraft, Overwatch, Blizzard
 **[13934.74s] English:** ...  
 **Translation:** 
 
-**[13936.74s] English:** ...  
+**[13935.54s] English:** An arcade shooter with a strong emphasis on team work. You mentioned Tracer; she was the first,  
 **Translation:** 
+
+**[13936.74s] English:** ...  
+**Translation:** Vocabulary: tracer: 示踪弹
 
 **[13938.74s] English:** ...  
 **Translation:** 
@@ -10087,3448 +10097,3439 @@ Source file: Lex Fridman - Jeff Kaplan： World of Warcraft, Overwatch, Blizzard
 **[13942.74s] English:** ...  
 **Translation:** 
 
+**[13944.26s] English:** Who else? McRry. McRry was the one who... I, for one, appreciate simplicity in design and I don't  
+**Translation:** Vocabulary: simplicity: 简洁性
+
 **[13944.74s] English:** ...  
 **Translation:** 
 
-**[13920.00s] English:** выдерживаете несколько попаданий, а вот в играх вроде Call of Duty или Counter-Strike от одного  
-**Translation:** 
-
-**[13926.48s] English:** попадания в голову ты сразу труп. В общем он задумывался как взрывной, эпичный, веселый  
-**Translation:** 
-
-**[13935.54s] English:** аркадный шутер с сильным упором на командную работу. Ты упомянул Трейсера, она была первой,  
-**Translation:** 
-
-**[13944.26s] English:** а кто еще? МакКри. МакКри был тем кто... Я вот из тех кто ценит простоту в дизайне и я не  
-**Translation:** 
-
-**[13952.50s] English:** разрабатывал шестизарядник МакКри. То как ощущается это оружие просто феноменально и  
-**Translation:** 
+**[13952.50s] English:** McKee developed the six-shot revolver. The way this weapon feels is simply phenomenal and  
+**Translation:** Vocabulary: phenomenal: 非凡的; revolver: 转轮手枪
 
-**[13959.76s] English:** чтобы передать этот дух наш дизайнер Майк Хайберг разработал ульту меткий стрелок и вся та забота и  
+**[13959.76s] English:** To transmit this spirit, our designer Mike Hybertsen developed an ultra-accurate archer and all that care and  
 **Translation:** 
 
-**[13968.00s] English:** любовь что вложила команда, например когда он ультует мы пускаем по экрану перекати поле  
-**Translation:** 
+**[13968.00s] English:** Love is what the team put into it, for example, when he ults, we push a rolling ball across the screen.  
+**Translation:** Vocabulary: archer: 射手; transmit: 传递
 
-**[13973.84s] English:** каждого стрелка. И это очень важно. И это очень важно. И это очень важно. И это очень важно. И это  
+**[13973.84s] English:** Each archer. And this is very important. And this is very important. And this is very important. And this is very important. And this  
 **Translation:** 
 
-**[13974.24s] English:** очень важно каждый раз. Он очень простой герой, но именно эта простота мне и нравится в дизайне. Я не  
-**Translation:** 
+**[13974.24s] English:** It is very important every time. He is a very simple hero, but it is precisely this simplicity that I like about the design. I don't  
+**Translation:** Vocabulary: precisely: 正是
 
-**[13984.44s] English:** люблю когда кто-то начинает объяснять знаешь в любой из этих игр будь то мобы или геройские  
+**[13984.44s] English:** I love when someone starts explaining, you know, in any of these games, whether it's MOBAs or RPGs.  
 **Translation:** 
 
-**[13990.36s] English:** шутеры и они начинают... Этот парень бросает сферы, скажем три сферы, а потом они у него заканчиваются  
-**Translation:** 
+**[13990.36s] English:** Shooters and they start... This guy throws spheres, let's say three spheres, and then they run out.  
+**Translation:** Vocabulary: spheres: 球体
 
-**[13997.00s] English:** и тогда ему нужно призвать их обратно или как-то поймать. А у меня от этого просто голова идет кругом  
+**[13997.00s] English:** And then he needs to summon them back or somehow catch them. And it just makes my head spin.  
 **Translation:** 
 
-**[14003.82s] English:** и я такой... Дайте мне бл** просто хорошую пушку! Понимаешь, и все. Простота наша все. А что скажешь  
-**Translation:** 
+**[14003.82s] English:** And I'm like, just give me a damn good gun! You get it, right? Simplicity is key. What do you think?  
+**Translation:** Vocabulary: summon: 召唤
 
-**[14010.72s] English:** о Райнхарде? Райнхард был моим мейном. Я за него больше всего и наиграл. Это еще один потрясающий  
+**[14010.72s] English:** About Reinhardt? Reinhardt was my main. I played him the most. This is another amazing one.  
 **Translation:** 
 
-**[14019.54s] English:** дизайн от Джеффа Гудмана это парень со щитом. Как только даешь кому-то щит и они сразу понимают  
-**Translation:** 
+**[14019.54s] English:** Design by Jeff Goodman is a shield-wielding guy. As soon as you give someone a shield, they immediately understand.  
+**Translation:** Vocabulary: goodman: 吉夫·戈曼; reinhardt: 雷诺哈特
 
-**[14026.04s] English:** что делать, уходят в защиту. Щит был задуман для стрельбы сквозь него. С тех пор эту механику скопировали почти в сервисе.  
+**[14026.04s] English:** What to do, they go for defense. The shield was designed for shooting through it. Since then, this mechanic has been copied almost everywhere.  
 **Translation:** 
 
-**[14033.82s] English:** геройские шутеры, и даже не только они. А еще у Райана есть огромный реактивный  
+**[14033.82s] English:** Heroic shooters, and even more than that. Ryan also has an enormous rocket.  
 **Translation:** 
 
-**[14040.00s] English:** Молот. И его способность Рывок. Кстати, забавно, откуда она взялась. Я тогда много рубился в Left 4 Dead 2, и там был режим противостояния, где можно было играть за зараженных. И там был такой босс, Громила, у которого был похожий Рывок. И я подумал, что фишка этой способности в том, что ты идешь ва-банк, нажал кнопку и несешься как неуправляемый поезд.  
+**[14040.00s] English:** Hammer. And its ability, Charge. By the way, it's funny where it came from. I was playing Left 4 Dead 2 a lot back then, and there was a survival mode where you could play as the infected. There was this boss, Brutus, who had a similar Charge. And I thought that the trick to this ability is that you go all-in, press the button, and charge like an uncontrollable train.  
 **Translation:** 
 
-**[14069.60s] English:** И очень забавно смотреть, как Райны на Рывке летят на верную смерть, и именно это отличает крутого Райна от хренового.  
-**Translation:** 
+**[14069.60s] English:** It's very amusing to watch how Raynes on Ryvak fly into certain death, and this is what distinguishes a great Ryn from a bad one.  
+**Translation:** Vocabulary: brutus: 暴君; distinguishes: 区分; hammer: 锤子; infected: 感染者; uncontrollable: 不可控
 
-**[14077.82s] English:** Ты как-то говорил, что система подбора игроков в Overwatch настроена так, чтобы подводить игроков в винрейту в 50%. Это же потрясающая тема. Не хочу ударяться в философию, но ведь нельзя получить взлет без падения. Отсюда и 50%. Расскажи о том, что делает систему подбора игроков хорошей.  
+**[14077.82s] English:** You mentioned that the player selection system in Overwatch is set up to bring players down to a win rate of 50%. That's quite an interesting topic. I don't want to delve into philosophy, but you can't have a rise without a fall. That's why it's 50%. Can you tell me what makes the player selection system good?  
 **Translation:** 
 
-**[14097.26s] English:** Система подбора игроков — одна из самых сложных дизайнерских и инженерных задач в разработке игр.  
-**Translation:** 
+**[14097.26s] English:** The player selection system is one of the most challenging designer and engineering tasks in game development.  
+**Translation:** Vocabulary: delve: 深入探讨
 
-**[14107.82s] English:** Это неблагодарная работа. И это очень сложная проблема, потому что, думаю, большинство людей, если их спросить, честно ответят, если спросить «Чего вы хотите?», ответят просто «Честный и равный матч».  
+**[14107.82s] English:** This is an ungrateful task. And it is a very complex problem because, I think, if you ask most people honestly what they want when you ask them "What do you want?", they will simply say "A fair and equal match.  
 **Translation:** 
 
-**[14120.72s] English:** Но на самом деле они хотят такой матч, где они будут чуточку сильнее противника.  
-**Translation:** 
+**[14120.72s] English:** But in reality, they want a match where they will be slightly stronger than the opponent.  
+**Translation:** Vocabulary: opponent: 对手; ungrateful: 不感激的
 
-**[14127.26s] English:** Они хотят, чтобы матч ощущался равным, но чтобы они в итоге победили.  
+**[14127.26s] English:** They want the match to feel even but ensure they ultimately win.  
 **Translation:** 
 
-**[14132.54s] English:** А такое не спроектируешь. Понимаешь, это... это игра с нулевой суммой.  
+**[14132.54s] English:** Such things cannot be designed. You see, this is... a zero-sum game.  
 **Translation:** 
 
-**[14140.24s] English:** Так что должны быть победители и проигравшие.  
+**[14140.24s] English:** So there should be winners and losers.  
 **Translation:** 
 
-**[14143.80s] English:** Другая ключевая проблема, с которой мы постоянно сталкивались, это жалобы людей.  
+**[14143.80s] English:** Another key problem we constantly faced was complaints from people.  
 **Translation:** 
 
-**[14148.28s] English:** И вот видишь пост на Reddit, и кто-то пишет «У меня шесть поражений подряд. Это просто жесть.  
+**[14148.28s] English:** Here you see a post on Reddit, and someone writes, "I've had six losses in a row. This is just terrible.  
 **Translation:** 
 
-**[14157.26s] English:** Большой матчмейкинг в истории».  
-**Translation:** 
+**[14157.26s] English:** Big Matchmaking in History".  
+**Translation:** Vocabulary: matchmaking: 大型匹配事件
 
-**[14159.08s] English:** Ох уж эта трень.  
+**[14159.08s] English:** Oh, that pesky noise.  
 **Translation:** 
 
-**[14160.00s] English:** И не говори. Я обожаю Reddit.  
-**Translation:** 
+**[14160.00s] English:** Do not say it. I love Reddit.  
+**Translation:** Vocabulary: pesky: 烦人的
 
-**[14163.06s] English:** Но мы проверяли аккаунт этого человека.  
+**[14163.06s] English:** But we checked this person's account.  
 **Translation:** 
 
-**[14166.00s] English:** Я обожал залезать в аккаунты и смотреть, что там на деле.  
-**Translation:** 
+**[14166.00s] English:** I loved sneaking into accounts and seeing what was actually there.  
+**Translation:** Vocabulary: sneaking: 偷偷进入
 
-**[14169.34s] English:** И да, у него была серия из шести поражений, но до этого была серия из восьми побед.  
+**[14169.34s] English:** And yes, he had a series of six losses, but before that, there was a series of eight victories.  
 **Translation:** 
 
-**[14173.94s] English:** Но поста о том, как это было круто, он не написал.  
+**[14173.94s] English:** But he didn't write a post about how it was awesome.  
 **Translation:** 
 
-**[14180.44s] English:** Такова уж человеческая психология.  
+**[14180.44s] English:** Such is human psychology.  
 **Translation:** 
 
-**[14183.46s] English:** Оглядываясь назад, одно из моих сожалений по поводу Overwatch,  
+**[14183.46s] English:** Looking back, one of my regrets about Overwatch is,  
 **Translation:** 
 
-**[14186.64s] English:** но хотя, думаю, в тот момент мы поступили правильно,  
+**[14186.64s] English:** But although I think we acted correctly at that moment,  
 **Translation:** 
 
-**[14190.84s] English:** понимаешь, я бы ничего не стал менять,  
+**[14190.84s] English:** Do you understand? I wouldn't have changed anything,  
 **Translation:** 
 
-**[14193.94s] English:** но если бы я сегодня делал героический шутер с нуля,  
+**[14193.94s] English:** But if I were making a heroic shooter from scratch today,  
 **Translation:** 
 
-**[14199.22s] English:** я бы сделал его менее командным.  
-**Translation:** 
+**[14199.22s] English:** I would make it less team-oriented.  
+**Translation:** Vocabulary: scratch: 从头开始
 
-**[14202.92s] English:** А мы сделали всю ставку на победу или поражение именно команды.  
+**[14202.92s] English:** We kept our entire focus on the victory or defeat of that specific team.  
 **Translation:** 
 
-**[14208.80s] English:** И мы максимально принижали значимость личного вклада.  
+**[14208.80s] English:** We kept the personal contribution significantly minimized.  
 **Translation:** 
 
-**[14213.00s] English:** У нас не было таблички очков,  
+**[14213.00s] English:** We didn't have a sign for glasses.  
 **Translation:** 
 
-**[14214.78s] English:** была лишь система медалей, но и эта система, по-моему, была провальной.  
-**Translation:** 
+**[14214.78s] English:** There was only a medal system, but even that system, I think, was flawed.  
+**Translation:** Vocabulary: flawed: 有缺陷的
 
-**[14220.88s] English:** Ведь медали получали как проигравшая команда, так и победители,  
+**[14220.88s] English:** Because medals were awarded to both the losing team and the winners.  
 **Translation:** 
 
-**[14227.36s] English:** и в проигравшей команде игроки использовали это как оружие против своих же.  
+**[14227.36s] English:** And in the losing team, the players used this as a weapon against their own.  
 **Translation:** 
 
-**[14232.08s] English:** У меня-то золото по убийствам, а проигрываем мы из-за вас.  
+**[14232.08s] English:** I have gold for murders, but we're losing because of you.  
 **Translation:** 
 
-**[14236.72s] English:** И это в том духе, что у тебя на на убийство больше, но вы все равно проиграли.  
+**[14236.72s] English:** And this is in the spirit that you had more than enough for murder, but you still lost anyway.  
 **Translation:** 
 
-**[14241.42s] English:** Так что если бы я делал игру сегодня,  
+**[14241.42s] English:** So if I were making a game today,  
 **Translation:** 
 
-**[14245.50s] English:** Вот совет всем, кто разрабатывает героические шутеры.  
+**[14245.50s] English:** Here's a tip for everyone developing heroic shooters.  
 **Translation:** 
 
-**[14248.90s] English:** Я бы наоборот победил их.  
+**[14248.90s] English:** I would win against them, instead.  
 **Translation:** 
 
-**[14249.86s] English:** снизил акцент на команде и постарался бы больше сделать акцент на личном вкладе потому что люди  
+**[14249.86s] English:** Reduced the focus on the team and tried to place more emphasis on individual contributions because people  
 **Translation:** 
 
-**[14258.96s] English:** именно так и играют они эгоисты и я не в плохом смысле это просто такова природа человека тут  
+**[14258.96s] English:** Exactly, they play it like egoists, and I don't mean it in a bad sense; this is just the nature of humanity.  
 **Translation:** 
 
-**[14266.90s] English:** ничего не попишешь это как они воспринимают игру как получают от нее удовольствие или какой в ней  
-**Translation:** 
+**[14266.90s] English:** Nothing can be said about how they perceive the game, how they enjoy it, or what they get out of it.  
+**Translation:** Vocabulary: egoists: 自我中心; perceive: 认知
 
-**[14272.60s] English:** видят вызов все это индивидуально даже в команде ты все равно ощущаешь да что по сути это твой  
+**[14272.60s] English:** They see the challenge individually, even in a team; you still feel it, I suppose, essentially this is yours.  
 **Translation:** 
 
-**[14278.90s] English:** личный опыт  
-**Translation:** 
+**[14278.90s] English:** Personal experience.  
+**Translation:** Vocabulary: individually: 单独地
 
-**[14280.00s] English:** А, кстати, пока не забыл, раз уж мы столько говорили о шутерах от первого лица, кроме Overwatch, какие еще есть величайшие шутеры всех времен, в которые ты играл?  
+**[14280.00s] English:** Ah, by the way, since we've been talking about first-person shooters a lot, besides Overwatch, what other greatest shooters of all time have you played?  
 **Translation:** 
 
-**[14294.42s] English:** Quake величайшая.  
+**[14294.42s] English:** Quake is the greatest.  
 **Translation:** 
 
-**[14296.34s] English:** Quake король.  
+**[14296.34s] English:** Quake King.  
 **Translation:** 
 
-**[14297.44s] English:** Да, Quake король.  
+**[14297.44s] English:** Yes, Quake is king.  
 **Translation:** 
 
-**[14300.70s] English:** Хотя есть и другие претенденты.  
+**[14300.70s] English:** Although there are other contenders.  
 **Translation:** 
 
-**[14303.46s] English:** А в какую игру ты наиграл больше всего часов, не считая своих?  
-**Translation:** 
+**[14303.46s] English:** In which game have you invested the most hours, excluding your own?  
+**Translation:** Vocabulary: contenders: 竞争对手; excluding: 不包括
 
-**[14306.36s] English:** В Rust.  
+**[14306.36s] English:** In Rust.  
 **Translation:** 
 
-**[14307.64s] English:** Так.  
+**[14307.64s] English:** So.  
 **Translation:** 
 
-**[14308.00s] English:** Расскажи, ладно, многие писали мне, что надо поиграть в Rust.  
+**[14308.00s] English:** Tell me, many have written to me that I should play Rust.  
 **Translation:** 
 
-**[14315.78s] English:** Я еще даже не смотрел, что это.  
+**[14315.78s] English:** I haven't even looked at what this is yet.  
 **Translation:** 
 
-**[14318.68s] English:** На Reddit писали, что у нее высокий порог вхождения.  
+**[14318.68s] English:** On Reddit, it was written that she has a high barrier to entry.  
 **Translation:** 
 
-**[14322.46s] English:** Я хочу дать ей шанс, особенно после того, как ты ее так хвалил.  
-**Translation:** 
+**[14322.46s] English:** I want to give her a chance, especially after you praised her so much.  
+**Translation:** Vocabulary: barrier: 门槛; praised: 称赞
 
-**[14327.30s] English:** Расскажешь, что это?  
+**[14327.30s] English:** Do you want to tell me what this is?  
 **Translation:** 
 
-**[14328.94s] English:** Конечно, Rust — это игра в открытом мире.  
+**[14328.94s] English:** Of course, Rust is a game in an open world.  
 **Translation:** 
 
-**[14333.16s] English:** Карта процедурно генерируемая.  
+**[14333.16s] English:** Map procedurally generated.  
 **Translation:** 
 
-**[14335.18s] English:** То есть каждый раз она новая.  
-**Translation:** 
+**[14335.18s] English:** That is, each time she's new.  
+**Translation:** Vocabulary: procedurally: 按照过程
 
-**[14338.00s] English:** Ты всегда на острове, и каждый месяц вайп.  
+**[14338.00s] English:** You are always on the island, and you get wiped every month.  
 **Translation:** 
 
-**[14342.32s] English:** Так что...  
+**[14342.32s] English:** So...  
 **Translation:** 
 
-**[14342.94s] English:** Это PvP?  
+**[14342.94s] English:** Is this PvP?  
 **Translation:** 
 
-**[14343.86s] English:** Это сплошное PvP.  
+**[14343.86s] English:** This is pure PvP.  
 **Translation:** 
 
-**[14346.10s] English:** На самом деле, Rust — это самое PvP-шное, что вообще есть в PvP.  
+**[14346.10s] English:** In fact, Rust is the most PvP-oriented game that exists in PvP.  
 **Translation:** 
 
-**[14351.74s] English:** Так.  
+**[14351.74s] English:** So.  
 **Translation:** 
 
-**[14352.82s] English:** Я не знаю, что это значит, но...  
+**[14352.82s] English:** I don't know what it means, but...  
 **Translation:** 
 
-**[14355.26s] English:** Игроки в Rust знают, что это значит.  
+**[14355.26s] English:** Players in Rust know what this means.  
 **Translation:** 
 
-**[14357.28s] English:** Все, кто играет и любит Rust, говорят так, будто они в секте.  
+**[14357.28s] English:** All who play and love Rust speak as if they were in a cult.  
 **Translation:** 
 
-**[14360.92s] English:** Но при всем уважении, пожалуйста, не пишите мне.  
+**[14360.92s] English:** But with all due respect, please don't write to me.  
 **Translation:** 
 
-**[14364.22s] English:** Они слишком заняты игрой в Rust.  
+**[14364.22s] English:** They are too occupied with playing Rust.  
 **Translation:** 
 
-**[14366.74s] English:** Проверяют свою базу.  
+**[14366.74s] English:** They are checking their database.  
 **Translation:** 
 
-**[14368.00s] English:** Чтобы ее не зарейдили.  
+**[14368.00s] English:** To keep her from being raided.  
 **Translation:** 
 
-**[14369.66s] English:** Им некогда тебе писать.  
-**Translation:** 
+**[14369.66s] English:** They don't have the time to write to you.  
+**Translation:** Vocabulary: raided: 被袭击
 
-**[14371.06s] English:** А, ну и хорошо.  
+**[14371.06s] English:** Ah, well that's good.  
 **Translation:** 
 
-**[14372.54s] English:** В общем, это по сути...  
+**[14372.54s] English:** In general, this is essentially...  
 **Translation:** 
 
-**[14375.80s] English:** Открытый мир.  
+**[14375.80s] English:** Open World.  
 **Translation:** 
 
-**[14377.74s] English:** Делать там можно что угодно.  
+**[14377.74s] English:** You can do anything there.  
 **Translation:** 
 
-**[14379.92s] English:** Какого-то направленного геймплея нет.  
+**[14379.92s] English:** There is no directed gameplay.  
 **Translation:** 
 
-**[14382.16s] English:** Но в любой момент...  
+**[14382.16s] English:** But at any moment...  
 **Translation:** 
 
-**[14384.28s] English:** Другой игрок может тебя убить и забрать все, что у тебя есть.  
+**[14384.28s] English:** Another player may kill you and take everything you have.  
 **Translation:** 
 
-**[14389.00s] English:** Ого.  
+**[14389.00s] English:** Oh.  
 **Translation:** 
 
-**[14390.34s] English:** Да, а потом ты строишь то, что в Rust называют базами.  
+**[14390.34s] English:** Yes, and then you build what in Rust is called bases.  
 **Translation:** 
 
-**[14393.96s] English:** И укрепляешь базу, стараясь сделать ее как можно надежнее.  
+**[14393.96s] English:** And you strengthen the base, trying to make it as secure as possible.  
 **Translation:** 
 
-**[14398.00s] English:** Чтобы хранить там свой лут.  
+**[14398.00s] English:** To store your loot there.  
 **Translation:** 
 
-**[14399.46s] English:** 될  
+**[14399.46s] English:** Becomes  
 **Translation:** 
 
-**[14426.22s] English:** Екатерина Б noisy lg  
+**[14400.00s] English:** Then you can create explosives and blow up the walls of other players' bases to get in where they store all their most valuable items, and take everything they have.  
 **Translation:** 
 
-**[14426.58s] English:** Канал TheFox  
-**Translation:** 
+**[14411.14s] English:** So, forever?  
+**Translation:** Vocabulary: explosives: 炸药
 
-**[14427.08s] English:** Субтитры кодов и видео-школы Меркель , Дорис Морозов и оригинально Стихи Борис Борис Петрович Реинштейн и Дмитрий Путин.  
+**[14412.84s] English:** Forever.  
 **Translation:** 
 
-**[14400.00s] English:** А потом можно создавать взрывчатку и взрывать стены баз других игроков, чтобы вломиться к ним, где они хранят всё самое ценное, и забрать всё их добро.  
-**Translation:** 
+**[14413.40s] English:** So, this is like PvP in WoW, only imagine that in World of Warcraft someone could not only kill you but also empty your bank, and rollback you to level one for your next session in the game.  
+**Translation:** Vocabulary: rollback: 回滚; warcraft: Warcraft
 
-**[14411.14s] English:** То есть, навсегда?  
+**[14426.22s] English:** Katerina B, noisy lg.  
 **Translation:** 
 
-**[14412.84s] English:** Навсегда.  
+**[14426.58s] English:** Channel: TheFox  
 **Translation:** 
 
-**[14413.40s] English:** То есть, это как PvP в WoW, только представь, что в World of Warcraft кто-то мог бы не просто тебя убить, но и обчистить твой банк, и откатить тебя до первого уровня при следующем заходе в игру.  
+**[14427.08s] English:** Subtitles for the video school of Merkel, Doris Morozov, and original poems by Boris Boris Petrovich Reinstein and Dmitry Putin.  
 **Translation:** 
 
-**[14429.48s] English:** Ооо, это жуткий стресс.  
-**Translation:** Vocabulary: warcraft: 魔兽世界
+**[14429.48s] English:** Oh, this is a terrible stress.  
+**Translation:** Vocabulary: boris: 鲍里斯; doris: 多丽丝; merkel: 默克尔; morozov: 莫罗佐夫; petrovich: 彼得罗维奇; reinstein: 雷因斯坦; subtitles: 字幕
 
-**[14432.22s] English:** Вся прелесть Раст, и вот почему она так хороша, в том, что в ней нет больших взлётов без больших падений.  
+**[14432.22s] English:** The beauty of Rast lies in the fact that there are no great highs without great lows.  
 **Translation:** 
 
-**[14441.00s] English:** Прям сокрушительных.  
+**[14441.00s] English:** Directly crushing.  
 **Translation:** 
 
-**[14442.74s] English:** Очень сокрушительных.  
+**[14442.74s] English:** Very devastating.  
 **Translation:** 
 
-**[14444.04s] English:** Да, понял.  
+**[14444.04s] English:** Yes, understood.  
 **Translation:** 
 
-**[14445.14s] English:** Таких, что руки опускаются, и думаешь, я вообще ещё зайду в эту игру?  
+**[14445.14s] English:** Such that you feel like giving up and wondering if you'll ever even play this game again.  
 **Translation:** 
 
-**[14449.92s] English:** Ага.  
+**[14449.92s] English:** Agreed.  
 **Translation:** 
 
-**[14450.22s] English:** Ну то есть, ты неделю строишь свою идеальную базу, копишь кучу лута, а потом...  
+**[14450.22s] English:** Nu, that is, you spend a week building your ideal base and gathering a bunch of loot, and then...  
 **Translation:** 
 
-**[14459.48s] English:** Есть ещё такое понятие, как онлайн рейд и оффлайн рейд.  
+**[14459.48s] English:** There is also the concept of an online raid and an offline raid.  
 **Translation:** 
 
-**[14463.20s] English:** Онлайн рейд, это когда ты видишь, что твой враг сейчас сидит у себя на базе, и ты нападаешь на него, пока он в игре.  
+**[14463.20s] English:** An online raid is when you see that your enemy is currently sitting at his base, and you attack him while he is still in the game.  
 **Translation:** 
 
-**[14474.06s] English:** А оффлайн рейд, это...  
+**[14474.06s] English:** Offline raid, this is...  
 **Translation:** 
 
-**[14476.06s] English:** Хоть все игроки в Раст скажут, что ты последняя мразь, если рейдишь в оффлайне, но при этом почти все игроки в Раст постоянно рейдят в оффлайне.  
+**[14476.06s] English:** Though all players in Rast will say that you are the last scumbag for raiding offline, but in reality, almost all players in Rast constantly raid offline.  
 **Translation:** 
 
-**[14486.54s] English:** А.  
-**Translation:** 
+**[14486.54s] English:** A.  
+**Translation:** Vocabulary: raiding: 线下掠夺; scumbag: 无耻之徒
 
-**[14486.98s] English:** Да, это...  
+**[14486.98s] English:** Yes, this...  
 **Translation:** 
 
-**[14488.12s] English:** Ясно.  
+**[14488.12s] English:** Clear.  
 **Translation:** 
 
-**[14488.56s] English:** Это геймерские тикеты.  
+**[14488.56s] English:** These are gamer tickets.  
 **Translation:** 
 
-**[14489.48s] English:** Да.  
-**Translation:** 
+**[14489.48s] English:** Yes.  
+**Translation:** Vocabulary: gamer: 游戏爱好者
 
-**[14490.16s] English:** Оффлайн рейд, это когда, например, эй, кажется, мой сосед вышел из игры, он только что отыграл 6 часов, я за ним следил, и теперь на его базе затишье, так что я взорву его стены и вынесу всё добро, пока его нет в сети.  
+**[14490.16s] English:** Offline raid is when, for example, my neighbor seems to have logged out of the game; he was just playing for 6 hours and I've been keeping an eye on him. Now that his base is quiet, I'll blow up his walls and take all the good stuff while he's not online.  
 **Translation:** 
 
-**[14505.52s] English:** Понятно. То есть, Раст, это для тех, кому в жизни не хватает трудностей.  
-**Translation:** 
+**[14505.52s] English:** Ponятно. That is, Rast, is for those who need more challenges in life.  
+**Translation:** Vocabulary: logged: 登录
 
-**[14510.04s] English:** Да.  
+**[14510.04s] English:** Yes.  
 **Translation:** 
 
-**[14510.32s] English:** Если я хочу...  
+**[14510.32s] English:** If I want to...  
 **Translation:** 
 
-**[14511.22s] English:** Отличный был бы слоган.  
+**[14511.22s] English:** A great slogan would be.  
 **Translation:** 
 
-**[14512.02s] English:** Если я хочу больше стресса, поиграю в Раст. Да, жду не дождусь.  
+**[14512.02s] English:** If I want more stress, I'll play Rust. Yes, I can't wait.  
 **Translation:** 
 
-**[14515.60s] English:** Хорошо, это первая игра.  
+**[14515.60s] English:** Good, this is the first game.  
 **Translation:** 
 
-**[14518.02s] English:** Уникальный опыт, ничего не скажешь.  
+**[14518.02s] English:** Unique experience, nothing to say.  
 **Translation:** 
 
-**[14519.48s] English:** Хорошо, и...  
+**[14519.48s] English:** Good, and...  
 **Translation:** 
 
-**[14520.00s] English:** Море радости.  
+**[14520.00s] English:** More joy.  
 **Translation:** 
 
-**[14521.58s] English:** Итак, на первом месте сразу Раст.  
+**[14521.58s] English:** So, at the top immediately isраст.  
 **Translation:** 
 
 **[14526.28s] English:** Call of Duty.  
 **Translation:** 
 
-**[14527.42s] English:** У нее просто...  
+**[14527.42s] English:** It's just...  
 **Translation:** 
 
-**[14528.54s] English:** Да, у нее куча хейтеров.  
+**[14528.54s] English:** Yes, she has a lot of haters.  
 **Translation:** 
 
-**[14531.06s] English:** Например, Call of Duty 4 и Modern Warfare 2 были вершиной серии Call of Duty,  
+**[14531.06s] English:** For example, Call of Duty 4 and Modern Warfare 2 were the pinnacle of the Call of Duty series.  
 **Translation:** 
 
-**[14537.06s] English:** а Black Ops, знаешь, занимала достойное третье место.  
+**[14537.06s] English:** Black Ops, you know, held a respectable third place.  
+**Translation:** Vocabulary: pinnacle: 顶峰; warfare: 战争
+
+**[14541.60s] English:** But you will never get a better feeling from the weapon than there.  
 **Translation:** 
 
-**[14541.60s] English:** Но вы никогда не получите лучшего ощущения от оружия, чем там.  
+**[14545.72s] English:** Just look at the visuals, animation, modeling, and sounds.  
 **Translation:** 
 
-**[14545.72s] English:** Просто посмотрите на визуал, анимацию, моделирование и звуки.  
+**[14553.04s] English:** Every aspect of shooting in Call of Duty is simply masterfully done.  
 **Translation:** 
 
-**[14553.04s] English:** Каждый аспект стрельбы в Call of Duty сделан просто мастерски.  
+**[14558.82s] English:** And in addition to the map.  
+**Translation:** Vocabulary: masterfully: 精湛地
+
+**[14561.20s] English:** The dynamics of the multiplier are simply magnificent.  
 **Translation:** 
 
-**[14558.82s] English:** А еще вдобавок к карте.  
+**[14563.78s] English:** For example, there is a map called Crash from Call of Duty 4.  
+**Translation:** Vocabulary: multiplier: 倍数
+
+**[14568.60s] English:** Which we did with Erin Keller, who is now the Game Director of Overwatch,  
 **Translation:** 
 
-**[14561.20s] English:** Динамика мультиплеера просто великолепна.  
+**[14572.60s] English:** We just sat there and sorted out this map,  
+**Translation:** Vocabulary: sorted: 整理
+
+**[14575.18s] English:** Or a terminal from Modern Warfare 2, we literally took it apart.  
 **Translation:** 
 
-**[14563.78s] English:** Например, есть карта Crash из Call of Duty 4,  
+**[14579.60s] English:** The design of the map is simply amazing, so Call of Duty is definitely at the top.  
 **Translation:** 
 
-**[14568.60s] English:** которую мы с Эрин Келлер, а Эрин сейчас геймдиректор Overwatch,  
+**[14585.64s] English:** Though you may not have thought about it, Overwatch ultimately achieved colossal success.  
 **Translation:** 
 
-**[14572.60s] English:** мы просто сидели и разбирали эту карту,  
+**[14592.96s] English:** Do you began to think in terms of the concept "crawl, walk, run" about the next step?  
+**Translation:** Vocabulary: colossal: 巨大的
+
+**[14601.04s] English:** In the PVE-component?  
 **Translation:** 
 
-**[14575.18s] English:** или терминал из Modern Warfare 2, мы их буквально разбирали.  
+**[14603.58s] English:** Yes.  
 **Translation:** 
 
-**[14579.60s] English:** Сам дизайн карты просто отпадный, так что Call of Duty точно в топе.  
+**[14605.18s] English:** We understood that this PvE component was supposed to be Overwatch 2.  
 **Translation:** 
 
-**[14585.64s] English:** И хоть вы об этом и не думали, но Overwatch в итоге ждал колоссальный успех.  
+**[14611.12s] English:** I don't know if people are aware,  
 **Translation:** 
 
-**[14592.96s] English:** И вы начали думать в рамках концепции «ползти, идти, бежать» о следующем шаге,  
+**[14615.16s] English:** We began working on Overwatch 2 in 2015.  
 **Translation:** 
 
-**[14601.04s] English:** ПВЕ-компоненте?  
+**[14623.50s] English:** The first Overwatch was released only in 2016.  
 **Translation:** 
 
-**[14603.58s] English:** Да.  
+**[14627.70s] English:** That is, we started before the release of Overwatch.  
 **Translation:** 
 
-**[14605.18s] English:** И мы понимали, что этим ПВЕ-компонентом и должен был стать Overwatch 2.  
+**[14630.66s] English:** This was not a development at all, but more of a pitch game.  
 **Translation:** 
 
-**[14611.12s] English:** И не знаю, в курсе ли люди,  
+**[14635.18s] English:** Which ones were here in creating the game.  
 **Translation:** 
 
-**[14615.16s] English:** но мы начали работать над Overwatch 2 еще в 2015.  
+**[14638.02s] English:** I remember spending a lot of time on that.  
 **Translation:** 
 
-**[14623.50s] English:** Первый Overwatch вышел только в 2016.  
+**[14640.00s] English:** We three, Jian, Chris Matson, and Michael Chu, worked together on this.  
 **Translation:** 
 
-**[14627.70s] English:** То есть мы начали еще до выхода Overwatch.  
+**[14644.12s] English:** Ideas for the structure of the future company in this game.  
+**Translation:** Vocabulary: matson: 马登
+
+**[14649.14s] English:** We had an idea for a cooperative PVE shooter, and we even presented it.  
 **Translation:** 
 
-**[14630.66s] English:** Это была даже не разработка, а скорее пич-игра,  
+**[14654.90s] English:** For our team to have a buffer before launch,  
+**Translation:** Vocabulary: buffer: 缓冲; cooperative: 合作的
+
+**[14658.14s] English:** Future.  
 **Translation:** 
 
-**[14635.18s] English:** которая здесь были в создании игры.  
+**[14659.14s] English:** But this turned out to be detrimental to us, and this is one of my main reasons.  
 **Translation:** 
 
-**[14638.02s] English:** Помню я много времени этим занимался.  
-**Translation:** 
-
-**[14640.00s] English:** занимались я, Крис Мэтсон и Майкл Чу, мы вместе накидывали  
-**Translation:** 
-
-**[14644.12s] English:** идеи по структуре будущей компании в этой игре.  
-**Translation:** 
-
-**[14649.14s] English:** У нас была идея кооперативного ПВЕ-шутера, и мы даже презентовали  
-**Translation:** 
-
-**[14654.90s] English:** ее команде еще до запуска, чтобы у нас был задел на  
-**Translation:** 
-
-**[14658.14s] English:** будущее.  
-**Translation:** 
-
-**[14659.14s] English:** Но это вышло нам боком, и это одна из моих главных  
-**Translation:** 
-
-**[14663.60s] English:** ошибок как креативного лидера за всю карьеру — это  
+**[14663.60s] English:** Errors as a creative leader throughout my career — this is  
 **Translation:** 
 
 **[14667.86s] English:** Overwatch 2.  
 **Translation:** 
 
-**[14669.18s] English:** У этого провала было две причины.  
+**[14669.18s] English:** There were two reasons for this failure.  
 **Translation:** 
 
-**[14671.70s] English:** Первая — это то, что в команде были люди, которым не нравились  
+**[14671.70s] English:** The first thing is that there were people in the team who didn't like  
 **Translation:** 
 
-**[14679.76s] English:** ПВП и соревновательные шутеры.  
+**[14679.76s] English:** PvP and competitive shooters.  
 **Translation:** 
 
-**[14682.96s] English:** Им очень нравилась вселенная Overwatch, и они хотели играть  
+**[14682.96s] English:** They really liked the universe of Overwatch, and they wanted to play.  
 **Translation:** 
 
-**[14686.48s] English:** за этих персонажей и героев, но скажем так, на своих  
+**[14686.48s] English:** For these characters and heroes, but let's say, on our own.  
 **Translation:** 
 
-**[14690.30s] English:** условиях, в ПВЕ-формате, и поэтому, хотя Overwatch имел  
+**[14690.30s] English:** Conditions in PVE format, and therefore, although Overwatch had  
 **Translation:** 
 
-**[14695.10s] English:** ошеломительный успех и был у всех на слуху,  
+**[14695.10s] English:** Amazing success and it was all over the headlines.  
 **Translation:** 
 
-**[14697.86s] English:** они чувствовали, что не могут по-настоящему в него  
+**[14697.86s] English:** They felt that they couldn't truly be in it.  
 **Translation:** 
 
-**[14700.82s] English:** погрузиться, и люди из команды разработчиков говорили  
+**[14700.82s] English:** Pogruzit'sya, and people from the development team were saying,  
 **Translation:** 
 
-**[14704.54s] English:** — слава богу, с этим ПВП покончено.  
+**[14704.54s] English:** — Glory be, PvP is finally over.  
 **Translation:** 
 
-**[14707.24s] English:** Когда мы уже начнем делать другую игру?  
+**[14707.24s] English:** When are we going to start making another game?  
 **Translation:** 
 
-**[14711.98s] English:** В общем, это шло от искреннего энтузиазма, но было еще  
+**[14711.98s] English:** In general, this came from genuine enthusiasm, but there was still  
 **Translation:** 
 
-**[14717.86s] English:** и другое давление, и исходило от руководства.  
+**[14717.86s] English:** And other pressures came from the leadership.  
 **Translation:** 
 
-**[14722.86s] English:** И шло как со стороны Blizzard, но в большей степени от руководства  
-**Translation:** Vocabulary: blizzard: 暴雪
+**[14722.86s] English:** And it came from Blizzard on one side, but more so from the leadership.  
+**Translation:** Vocabulary: blizzard: 暴雪娱乐
 
 **[14727.74s] English:** Activision.  
 **Translation:** 
 
-**[14728.74s] English:** Они начали сильно давить, мол, вы же говорили, что  
+**[14728.74s] English:** They began to put a lot of pressure, saying, "You said you would,  
 **Translation:** 
 
-**[14733.98s] English:** Overwatch 2 выйдет в 2019, и они ссылались на те самые слайды  
+**[14733.98s] English:** Overwatch 2 will come out in 2019, and they referred to those very slides.  
 **Translation:** 
 
-**[14740.62s] English:** с просто безумными датами, но это был «никогда не показывайте  
+**[14740.62s] English:** With simply insane dates, but it was a "never show  
 **Translation:** 
 
-**[14746.12s] English:** презентацию в PowerPoint корпоративному руководству, ведь с тем  
+**[14746.12s] English:** Present the presentation in PowerPoint to the corporate leadership, for with them it will be effective.  
 **Translation:** 
 
-**[14749.96s] English:** же успехом можно высечь это в камни и спуститься  
-**Translation:** 
-
-**[14752.92s] English:** с горы».  
-**Translation:** 
-
-**[14753.92s] English:** То есть вы накидали даты для красивого слайда?  
-**Translation:** 
-
-**[14756.58s] English:** Да.  
-**Translation:** 
-
-**[14757.74s] English:** Это тупая туфта.  
-**Translation:** 
-
-**[14758.74s] English:** Это камни.  
-**Translation:** 
-
-**[14760.00s] English:** Так, ну, то же самое, что мы сделали с планшетом.  
-**Translation:** 
-
-**[14762.78s] English:** Мы просто прилепили трейсер на планшет и заявили, что у нас есть мобильная стратегия.  
-**Translation:** 
-
-**[14769.38s] English:** В общем, руководство начало сильно на нас злиться, что выход Overwatch 2 все откладывается и задерживается.  
-**Translation:** 
-
-**[14777.38s] English:** Помню, как только Overwatch выстрелил, а это было в самом начале, где-то в мае 2016-го,  
-**Translation:** 
-
-**[14785.10s] English:** и в том году, кажется, была Олимпиада в Рио.  
-**Translation:** 
-
-**[14793.22s] English:** Мне всегда нравится как-то обыгрывать, когда происходит какое-то крупное событие, и я такой,  
-**Translation:** 
-
-**[14800.40s] English:** а давайте сделаем ивент, посвященный Олимпиаде.  
-**Translation:** 
-
-**[14803.90s] English:** Называть его Олимпиадой нельзя, иначе засудят, хотя ты по сути их рекламируешь.  
-**Translation:** 
-
-**[14808.86s] English:** Рекламируешь кучи детей, которые хотят играть, а не смотреть Олимпиаду.  
-**Translation:** 
-
-**[14814.04s] English:** К тому же...  
-**Translation:** 
-
-**[14815.10s] English:** К тому же у нас была пара разработчиков, Майк Хайберг и Дэйв Адамс.  
-**Translation:** 
-
-**[14819.52s] English:** Они пилили одну прикольную штуку, они сделали футбол в Overwatch.  
-**Translation:** 
-
-**[14824.38s] English:** Мы назвали его Lucio Ball.  
-**Translation:** Vocabulary: lucio: 露西奥
-
-**[14826.64s] English:** Они сделали карту, продумали механики, и мы такие, а давайте сделаем ивент летней игры.  
-**Translation:** 
-
-**[14833.00s] English:** И мы выпускаем лайв-патч летней игры.  
-**Translation:** 
-
-**[14836.82s] English:** Он зашел просто на ура.  
-**Translation:** 
-
-**[14839.88s] English:** И после этого мы такие, так, скоро у нас Хэллоуин.  
-**Translation:** 
-
-**[14845.10s] English:** Давайте сделаем Хэллоуинский ивент, это же круто.  
-**Translation:** 
-
-**[14849.16s] English:** И фанатам эти ивенты просто безумно заходили.  
-**Translation:** 
-
-**[14852.90s] English:** Но были две группы, которым это было не по душе.  
-**Translation:** 
-
-**[14856.22s] English:** Первая, та самая группа в команде, о которой я говорил.  
-**Translation:** 
-
-**[14859.56s] English:** Они такие, боже мой, вы, ребята, слишком раздуваете патчи.  
-**Translation:** 
-
-**[14865.22s] English:** Зачем мы делаем этот Хэллоуинский ивент?  
-**Translation:** 
-
-**[14868.72s] English:** Нам же пора начинать работу на Доврвотч 2, а не концентрироваться на лайв-игре.  
-**Translation:** 
-
-**[14875.10s] English:** И это был полный бред.  
-**Translation:** 
-
-**[14878.40s] English:** Просто сумасшествие.  
-**Translation:** 
-
-**[14879.62s] English:** Субтитры сделал DimaTorzok  
-**Translation:** 
-
-**[14880.00s] English:** Есть такое выражение «поймай волну и оседлай ее».  
-**Translation:** 
-
-**[14883.74s] English:** Большинство игр с этой волны слетают, они не ловят волну.  
-**Translation:** 
-
-**[14887.62s] English:** В них никто не играет, или от силы пару недель.  
-**Translation:** 
-
-**[14890.64s] English:** Если тебе повезло поймать волну, держись на ней до конца.  
-**Translation:** 
-
-**[14895.20s] English:** И моя чуйка тогда говорила «давайте продолжать».  
-**Translation:** 
-
-**[14899.08s] English:** Сколько еще таких лайф-ивентов мы можем сделать?  
-**Translation:** 
-
-**[14902.40s] English:** Да, то есть вы поймали волну с лайф-игрой и ивентами,  
-**Translation:** 
-
-**[14907.54s] English:** но давление с разработкой Overwatch 2 нарастало.  
-**Translation:** 
-
-**[14911.74s] English:** Да, в команде была коалиция, которая очень хотела делать Overwatch 2 вместо лайф-ивентов.  
-**Translation:** 
-
-**[14918.80s] English:** А потом давление со стороны руководства стало огромным.  
-**Translation:** 
-
-**[14923.62s] English:** А по сути правильнее было бы делать больше ивентов, продолжать в том же духе.  
-**Translation:** 
-
-**[14931.14s] English:** Но главное, что сбило нас с пути, это Лига Overwatch.  
-**Translation:** 
-
-**[14934.76s] English:** И вот что самое странное.  
-**Translation:** 
-
-**[14937.54s] English:** С Лигой Overwatch, это то, что я в нее верю.  
-**Translation:** 
-
-**[14942.54s] English:** Я сам помогал ее продвигать вместе с остальными.  
-**Translation:** 
-
-**[14946.54s] English:** Мы думали, что это будущее киберспорта.  
-**Translation:** 
-
-**[14949.54s] English:** Создавать команды, привязанные к регионам.  
-**Translation:** 
-
-**[14952.54s] English:** Гарантировать игрокам минимальную зарплату и их защиту.  
-**Translation:** 
-
-**[14956.54s] English:** В Лиге Overwatch было много очень хорошего.  
-**Translation:** 
-
-**[14959.54s] English:** И команды были бы привязаны к городам.  
-**Translation:** 
-
-**[14962.54s] English:** Да.  
-**Translation:** 
-
-**[14963.54s] English:** И это было бы настоящее международное соревнование.  
-**Translation:** 
-
-**[14965.54s] English:** Амбиции там были.  
-**Translation:** 
-
-**[14966.54s] English:** И правда.  
-**Translation:** 
-
-**[14967.54s] English:** Огромное.  
-**Translation:** 
-
-**[14968.54s] English:** Да.  
-**Translation:** 
-
-**[14969.54s] English:** Идея была скорее делать региональные команды, чтобы защитить игроков и попытаться сделать киберспорт полноценной дисциплиной.  
-**Translation:** 
-
-**[14978.54s] English:** Ведь ходило много рассказов про мутные команды, которые кидали своих игроков.  
-**Translation:** 
-
-**[14984.54s] English:** Все пошло не так, когда вокруг Лиги Overwatch поднялся ажиотаж.  
-**Translation:** 
-
-**[14991.54s] English:** Даже слишком сильный.  
-**Translation:** 
-
-**[14993.54s] English:** А потом ее слишком раздули для тех, кто покупал команды.  
-**Translation:** 
-
-**[14996.54s] English:** Они устроили...  
-**Translation:** 
-
-**[15000.00s] English:** целое роуд-шоу с презентацией, а в презентации можно рекламировать  
-**Translation:** 
-
-**[15004.86s] English:** и продавать что угодно, и они по сути наобещали  
-**Translation:** 
-
-**[15008.78s] English:** всем золотые горы, что Лига Овервотч станет популярнее  
-**Translation:** 
-
-**[15013.68s] English:** даже НФЛ, и вышло так, что в эти команды вложилась  
-**Translation:** 
-
-**[15019.48s] English:** куча инвесторов-миллиардеров, и в начале 2018-го, вроде прямо  
-**Translation:** 
-
-**[15028.74s] English:** в день моего возвращения, мне говорят, мы подписали  
-**Translation:** 
-
-**[15032.40s] English:** огромную сделку с Твич на трансляции Лиги Овервотч,  
-**Translation:** 
-
-**[15037.64s] English:** сделка по медиаправам, а это означало все те обязательства,  
-**Translation:** 
-
-**[15042.76s] English:** которые теперь легли на нас по Лиге Овервотч, касаются  
-**Translation:** 
-
-**[15046.18s] English:** в том числе и самой игры, многое было связано например  
-**Translation:** 
-
-**[15049.44s] English:** с интеграцией с Твич, и управлением камерой, и всем таким, другая  
-**Translation:** 
-
-**[15053.94s] English:** часть была связана со скинами, и собственно униформой  
-**Translation:** 
-
-**[15058.16s] English:** для всех команд.  
-**Translation:** 
-
-**[15058.74s] English:** И это не просто добавить в игру арты, там были огромные  
-**Translation:** 
-
-**[15063.90s] English:** технические сложности, как все это будет работать,  
-**Translation:** 
-
-**[15068.04s] English:** насколько эффективно, и влезет ли все в память,  
-**Translation:** 
-
-**[15071.08s] English:** и все такое.  
-**Translation:** 
-
-**[15072.08s] English:** И в этот момент все твои планы просто летят к чертям,  
-**Translation:** 
-
-**[15077.86s] English:** например ты больше не работаешь над новыми ивентами, и даже  
-**Translation:** 
-
-**[15081.26s] English:** не фокусируешься на Овервотч 2, а просто топчешь воду  
-**Translation:** 
-
-**[15085.60s] English:** в ступе.  
-**Translation:** 
-
-**[15086.60s] English:** Постоянно шли разговоры о том, что Лига Овервотч  
-**Translation:** 
-
-**[15088.52s] English:** это сделка, сделка пошла не так, и нужно это компенсировать,  
-**Translation:** 
-
-**[15097.56s] English:** чтобы для них все было лучше, а я им отвечал, просто верните  
-**Translation:** 
-
-**[15101.14s] English:** им часть денег и все, сделка пошла не так, как все хотели,  
-**Translation:** 
-
-**[15105.78s] English:** и в итоге все повесили на нас, на команду Овервотч,  
-**Translation:** 
-
-**[15109.38s] English:** чтобы мы тащили на себе эту махину, а ведь сама  
-**Translation:** 
-
-**[15113.44s] English:** по себе идея была отличной.  
-**Translation:** 
-
-**[15115.52s] English:** Да.  
-**Translation:** 
-
-**[15116.52s] English:** Да.  
-**Translation:** 
-
-**[15117.52s] English:** Да.  
-**Translation:** 
-
-**[15118.52s] English:** Да.  
-**Translation:** 
-
-**[15119.52s] English:** Да.  
-**Translation:** 
-
-**[15120.52s] English:** А как известно, инстинкты подвели.  
-**Translation:** 
-
-**[15120.00s] English:** И не знаю, как бы это сказать, чтобы не прозвучало резко, но было слишком много акцента на желание по-быстрому срубить бабла.  
-**Translation:** 
-
-**[15133.12s] English:** Многих в это втянули.  
-**Translation:** 
-
-**[15136.06s] English:** И хотя Лига Овервотч была полезна для самого Овервотч, в плане игроков, которых она привлекла, игроки в Лиге Овервотч были потрясающие.  
-**Translation:** 
-
-**[15147.68s] English:** Я их обожаю. Ребята из Лиги Овервотч в Близзард одни из самых приятных, заряженных и творческих людей.  
-**Translation:** 
-
-**[15156.42s] English:** Появились все эти организации, и все они были замечательными, но это был карточный домик, готовый рухнуть.  
-**Translation:** 
-
-**[15163.14s] English:** И в итоге все свелось к деньгам, а не к качеству игрового опыта, совместной игре команд и созданию настоящей киберспортивной экосистемы.  
-**Translation:** 
-
-**[15175.26s] English:** Вмешалась финансовая реальность.  
-**Translation:** 
-
-**[15177.78s] English:** Ведь теперь у нас были не только боссы в Activision и Blizzard, которых волновала прибыль Овервотч,  
-**Translation:** Vocabulary: activision: 暴雪的母公司; blizzard: 暴雪
-
-**[15188.96s] English:** Появились все эти люди, которые, по сути, вложились в эту игру, и они начали высказывать свое мнение.  
-**Translation:** 
-
-**[15198.70s] English:** Изначально бизнес-модель строилась на том, что они будут проводить оффлайн-ивенты,  
-**Translation:** 
-
-**[15206.62s] English:** будут большие продажи боссов,  
-**Translation:** 
-
-**[15207.68s] English:** билетов, а потом мерча и все в таком духе. И по-моему все очень быстро поняли, что мы не можем  
-**Translation:** 
-
-**[15216.36s] English:** проводить ивенты, когда у тебя команда из Лондона и из Шанхая. Как это вообще должно работать? Так  
-**Translation:** 
-
-**[15223.88s] English:** что эта идея очень быстро развалилась. Мерч был неплох, но он не приносил денег уровня  
-**Translation:** 
-
-**[15229.84s] English:** НФЛ, какую бы цифру они там себе не навоображали. Поэтому все быстро вернулись к мысли «Эй, а  
-**Translation:** 
-
-**[15240.00s] English:** Разве Овервотч не принес где-то 500 миллионов долларов только на основной игре в прошлом году?  
-**Translation:** 
-
-**[15246.28s] English:** Что мы можем продать и что вы можете нам дать?  
-**Translation:** 
-
-**[15249.38s] English:** Этот прессинг ложится на команду.  
-**Translation:** 
-
-**[15252.08s] English:** А сверху еще и давление выпустить Овервотч 2.  
-**Translation:** 
-
-**[15255.80s] English:** И вся та любовь и забота, которую мы вкладывали в основную игру, в лайв-сервис,  
-**Translation:** 
-
-**[15263.64s] English:** мол, давайте просто делать ивенты, героев и новые карты.  
-**Translation:** 
-
-**[15266.92s] English:** Мы лишались всех этих ресурсов.  
-**Translation:** 
-
-**[15271.48s] English:** И дошло до того, что, знаешь, мой уход из Близзард,  
-**Translation:** 
-
-**[15277.48s] English:** а я верил в Овервотч 2, думал, мы могли бы сделать отличную игру.  
-**Translation:** 
-
-**[15282.52s] English:** Сейчас, оглядываясь назад, я понимаю, что спроектировал бы ее совсем иначе,  
-**Translation:** 
-
-**[15287.38s] English:** зная то, что знаю, а не ту игру, что мы в итоге не выпустили.  
-**Translation:** 
-
-**[15291.08s] English:** И вот Овервотч 2 вышла, но это не та Овервотч 2, которую мы планировали и анонсировали.  
-**Translation:** 
-
-**[15297.18s] English:** То есть, говоря Овервотч 2, ты подразумеваешь ПВЕ-версию?  
-**Translation:** 
-
-**[15301.58s] English:** ПВЕ-версию.  
-**Translation:** 
-
-**[15302.92s] English:** В которую я бы с удовольствием поиграл.  
-**Translation:** 
-
-**[15304.88s] English:** Я из тех, кто... В Овервотч прекрасная ПВП,  
-**Translation:** 
-
-**[15308.70s] English:** но я бы очень хотел сыграть в ПВЕ-версию.  
-**Translation:** 
-
-**[15312.32s] English:** Думаю, все бы в нее с удовольствием поиграли.  
-**Translation:** 
-
-**[15314.90s] English:** Есть такое заблуждение в сети, будто меня заботило только ПВЕ, а на ПВП было плевать.  
-**Translation:** 
-
-**[15323.00s] English:** Все ПВП-карты для Овервотч 2 были...  
-**Translation:** 
-
-**[15326.92s] English:** Я постоянно твердил это команде.  
-**Translation:** 
-
-**[15330.92s] English:** У нас есть ПВП-аудитория, и мы должны сделать на отлично ПВП.  
-**Translation:** 
-
-**[15335.92s] English:** Мы будем рады, если к нам придут и ПВЕ-игроки, но такой гарантии не было.  
-**Translation:** 
-
-**[15341.92s] English:** Так что мы никогда не фокусировались только лишь на одном ПВЕ.  
-**Translation:** 
-
-**[15345.92s] English:** Это было просто расширение, чтобы его туда добавить.  
-**Translation:** 
-
-**[15350.92s] English:** Да, и что меня в итоге сломало,  
-**Translation:** 
-
-**[15352.92s] English:** раньше, в 2016 и 2017,  
-**Translation:** 
-
-**[15356.92s] English:** я чувствовал, что полностью концентрировался.  
-**Translation:** 
-
-**[15360.00s] English:** контролируя команду Овервотч и курс развития игры как геймдиректор.  
-**Translation:** 
-
-**[15366.16s] English:** Мы с Рэем Греско, продакшн-директором, казалось, действительно управляли Овервотч.  
-**Translation:** 
-
-**[15371.34s] English:** И у нас все шло на отлично, мы были очень успешны, и фанаты, думаю, были довольны.  
-**Translation:** 
-
-**[15377.90s] English:** А потом, когда появилась эта Лига Овервотч,  
-**Translation:** 
-
-**[15382.70s] English:** а задумывалась она с лучшими намерениями,  
-**Translation:** 
-
-**[15385.30s] English:** а, как известно, благими намерениями вымощена дорога в ад.  
-**Translation:** 
-
-**[15388.66s] English:** Вот это и была Лига Овервотч, в итоге она стала камнем на шее.  
-**Translation:** 
-
-**[15392.86s] English:** А с Овервотч 2 та же история.  
-**Translation:** 
-
-**[15395.36s] English:** И в итоге для меня все свелось к тому, что...  
-**Translation:** 
-
-**[15399.34s] English:** что в итоге и сломало меня и мою карьеру в Близзард.  
-**Translation:** 
-
-**[15403.72s] English:** Меня вызвали в кабинет к финансовому директору,  
-**Translation:** 
-
-**[15407.46s] English:** и...  
-**Translation:** 
-
-**[15409.58s] English:** он усаживает меня и говорит...  
-**Translation:** 
-
-**[15414.04s] English:** называет дату...  
-**Translation:** 
-
-**[15416.18s] English:** тогда это был 2020-й,  
-**Translation:** 
-
-**[15418.66s] English:** хотя потом дату сдвинули на 2021-й,  
-**Translation:** 
-
-**[15421.86s] English:** но тогда это был 20-й, и он говорит,  
-**Translation:** 
-
-**[15424.38s] English:** Овервотч должна приносить...  
-**Translation:** 
-
-**[15426.70s] English:** в 2020-м.  
-**Translation:** 
-
-**[15429.32s] English:** А потом ежегодный доход должен быть...  
-**Translation:** 
-
-**[15434.90s] English:** А потом он еще добавляет...  
-**Translation:** 
-
-**[15437.90s] English:** если это не принесет...  
-**Translation:** 
-
-**[15440.70s] English:** долларов,  
-**Translation:** 
-
-**[15443.70s] English:** мы уволим тысячу работников, и это будет на твоей совести.  
-**Translation:** 
-
-**[15448.66s] English:** В тот момент я почувствовал, что мне вставили так глубоко, как никогда за всю карьеру.  
-**Translation:** 
-
-**[15454.66s] English:** Было ощущение полной нереальности происходящего.  
-**Translation:** 
-
-**[15458.66s] English:** И как человек, который работал над многими играми, создал кучу игр,  
-**Translation:** 
-
-**[15463.66s] English:** я сидел на совещаниях, где мне говорили, над Фортнайт работает 1400 человек.  
-**Translation:** 
-
-**[15469.66s] English:** Если вы просто...  
-**Translation:** 
-
-**[15471.66s] English:** наймете 1400 человек и сделаете игру фри-то-плей, мы получим эти деньги, не так?  
-**Translation:** 
-
-**[15477.66s] English:** А в то время...  
-**Translation:** 
-
-**[15478.62s] English:** ...по-моему...  
-**Translation:** 
-
-**[15479.62s] English:** ...по-моему...  
-**Translation:** 
-
-**[15480.62s] English:** ...по-моему...  
-**Translation:** 
-
-**[15480.00s] English:** Я был уверен, что никогда не уйду из Близзард.  
-**Translation:** 
-
-**[15484.10s] English:** Я любил эту компанию, она была частью меня.  
-**Translation:** 
-
-**[15487.38s] English:** Я чувствовал себя ее частью, и честно думал, что уйду оттуда на пенсию.  
-**Translation:** 
-
-**[15493.28s] English:** Никогда не думал, что этот день настанет, и вот он настал.  
-**Translation:** 
-
-**[15498.52s] English:** Я понял, что...  
-**Translation:** 
-
-**[15501.22s] English:** Все, приехали.  
-**Translation:** 
-
-**[15502.38s] English:** К счастью для Близзард, тот финдиректор там больше не работает.  
-**Translation:** 
-
-**[15505.38s] English:** А ведь Близзард, одна из величайших компаний в истории вообще.  
-**Translation:** 
-
-**[15510.64s] English:** Они создали столько потрясающих игр.  
-**Translation:** 
-
-**[15513.70s] English:** Это так сложно, выпустить столько хитов.  
-**Translation:** 
-
-**[15517.10s] English:** И ведь их создавали не ради денег.  
-**Translation:** 
-
-**[15520.68s] English:** Их делали небольшие, потрясающие команды.  
-**Translation:** 
-
-**[15524.86s] English:** Та самая команда чудаков, как ты говорил.  
-**Translation:** 
-
-**[15528.74s] English:** Которые шли на огромный риск, влюблялись в свое дело,  
-**Translation:** 
-
-**[15532.42s] English:** а потом просто отдавались ему, работая как одиночка.  
-**Translation:** 
-
-**[15535.38s] English:** И это было неудержимое.  
-**Translation:** 
-
-**[15537.38s] English:** И если вы нашли способ заработать кучу денег,  
-**Translation:** 
-
-**[15540.38s] English:** это не значит, что в основе всего не лежит этот невероятный творческий путь,  
-**Translation:** 
-
-**[15548.38s] English:** который до безумного сложно пройти.  
-**Translation:** 
-
-**[15551.38s] English:** И то, что у вас есть горстка очень умных творческих людей,  
-**Translation:** 
-
-**[15555.38s] English:** которые чудом умудрились провернуть это несколько раз подряд,  
-**Translation:** 
-
-**[15559.38s] English:** это не значит, что к этому можно относиться как к конвейеру.  
-**Translation:** 
-
-**[15562.38s] English:** Каждый раз.  
-**Translation:** 
-
-**[15563.38s] English:** Это удивительное приключение.  
-**Translation:** 
-
-**[15565.38s] English:** Потому что у той самой команды чудаков, работающих сообща,  
-**Translation:** 
-
-**[15568.38s] English:** и рулить этим, должны именно чудаки.  
-**Translation:** 
-
-**[15572.38s] English:** И если выпадает шанс создать что-то особенное,  
-**Translation:** 
-
-**[15575.38s] English:** у руля должны стоять именно чудаки.  
-**Translation:** 
-
-**[15578.38s] English:** И чем меньше у вас у руля таких чудаков,  
-**Translation:** 
-
-**[15582.38s] English:** творческих умов,  
-**Translation:** 
-
-**[15585.38s] English:** если у руля бизнесмен,  
-**Translation:** 
-
-**[15587.38s] English:** пусть не мешает им.  
-**Translation:** 
-
-**[15589.38s] English:** Да, нельзя устраивать такие совещания, которые ты описываешь.  
-**Translation:** 
-
-**[15593.38s] English:** И я говорю не об одной конкретной компании,  
-**Translation:** 
-
-**[15596.38s] English:** я говорю обо всей индустрии.  
-**Translation:** 
-
-**[15599.38s] English:** Просто...  
-**Translation:** 
-
-**[15600.82s] English:** Это принесет столько радости, если мы и дальше будем создавать великие игры.  
-**Translation:** 
-
-**[15605.42s] English:** И я очень надеюсь, что мы их еще увидим.  
-**Translation:** 
-
-**[15609.50s] English:** Думаю, это обращение ко всем творческим людям, ко всем, кто что-то создает.  
-**Translation:** 
-
-**[15616.16s] English:** Обычно мы настолько поглощены любовью к своему делу,  
-**Translation:** 
-
-**[15621.06s] English:** что растворяемся в нем, обожаем свою работу,  
-**Translation:** 
-
-**[15625.30s] English:** и в нас нет беспощадности.  
-**Translation:** 
-
-**[15627.16s] English:** Нет амбиций такого рода.  
-**Translation:** 
-
-**[15630.22s] English:** Наши амбиции в совсем другом.  
-**Translation:** 
-
-**[15633.82s] English:** Но есть целый другой мир, особенно когда тебе повезет добиться успеха,  
-**Translation:** 
-
-**[15639.38s] English:** мир беспощадных и амбициозных людей.  
-**Translation:** 
-
-**[15643.00s] English:** И почему-то мы раз за разом отдаем себя им.  
-**Translation:** 
-
-**[15649.74s] English:** А нам нужно перестать отдавать себя им.  
-**Translation:** 
-
-**[15653.58s] English:** Когда мы делали World of Warcraft, в Blizzard не было финансов.  
-**Translation:** Vocabulary: blizzard: 暴雪; warcraft: Warcraft
-
-**[15657.20s] English:** Но для финансового директора, чтобы создать World of Warcraft, финдиректор не нужен.  
-**Translation:** 
-
-**[15662.36s] English:** Нужны художники, инженеры, дизайнеры, продюсеры и звукорежиссеры.  
-**Translation:** 
-
-**[15667.54s] English:** Если вы много зарабатываете, это еще не значит, что пора играть во взрослых и нанимать финдиректора.  
-**Translation:** 
-
-**[15675.26s] English:** Можно и самим.  
-**Translation:** 
-
-**[15676.44s] English:** Хотя есть и отличные финансисты.  
-**Translation:** 
-
-**[15678.84s] English:** Я работал с ребятами из этой сферы, которые все понимают и не лезут в процесс.  
-**Translation:** 
-
-**[15683.48s] English:** Уважают его. Да и сами они геймеры.  
-**Translation:** 
-
-**[15685.70s] English:** В общем, они как бы в теме.  
-**Translation:** 
-
-**[15687.16s] English:** Но мне бы хотелось, чтобы разработчики сильнее осознали свою ценность  
-**Translation:** 
-
-**[15694.10s] English:** и не отдавали курицу, несущую золотые яйца, тем, кто этого не заслуживает.  
-**Translation:** 
-
-**[15700.94s] English:** А как больно было прощаться?  
-**Translation:** 
-
-**[15703.96s] English:** Это меня сломало.  
-**Translation:** 
-
-**[15706.58s] English:** Думаю, что после ухода из такого места, как Blizzard,  
-**Translation:** 
-
-**[15710.20s] English:** а я вырос в Blizzard, я люблю Blizzard,  
-**Translation:** 
-
-**[15713.90s] English:** и до сих пор у меня остались только самые теплые воспоминания,  
-**Translation:** 
-
-**[15717.16s] English:** конечно, бывали моменты, о которых думал.  
-**Translation:** 
-
-**[15720.00s] English:** Думаешь, лучше бы их не было, но в целом, это мекка для разработчиков игр.  
-**Translation:** 
-
-**[15726.68s] English:** И всем, что у меня есть, я обязан именно Близзард.  
-**Translation:** 
-
-**[15733.14s] English:** Они обеспечили меня и мою семью, сделали меня тем, кто я есть.  
-**Translation:** 
-
-**[15737.88s] English:** Так что уход из Близзард был одним из самых болезненных моментов в моей жизни.  
-**Translation:** 
-
-**[15742.60s] English:** И когда я ушел, мне было ужасно грустно.  
-**Translation:** 
-
-**[15745.72s] English:** Но я и не осознавал, насколько был разбит до недавнего времени.  
-**Translation:** 
-
-**[15750.86s] English:** Ведь этот траур, все это горе, через которое я прошел...  
-**Translation:** 
-
-**[15756.02s] English:** Наверное, я немного не в себе от того, что больше не там.  
-**Translation:** 
-
-**[15759.44s] English:** Как я мог от этого отказаться?  
-**Translation:** 
-
-**[15762.10s] English:** Как я мог уйти оттуда?  
-**Translation:** 
-
-**[15764.14s] English:** Это было очень, очень больно, уйти.  
-**Translation:** 
-
-**[15768.12s] English:** Мы можем поговорить о...  
-**Translation:** 
-
-**[15770.68s] English:** Не знаю, по-моему, Близзард невозможно перехвалить.  
-**Translation:** 
-
-**[15773.58s] English:** Это легендарная компания.  
-**Translation:** 
-
-**[15775.72s] English:** Лично, как по мне.  
-**Translation:** 
-
-**[15778.78s] English:** Да и по мнению миллионов, они создали одни из величайших игр в истории.  
-**Translation:** 
-
-**[15782.96s] English:** Варкрафт, Старкрафт, Диабло, ВОВ, Овервотч.  
-**Translation:** 
-
-**[15786.80s] English:** Что сделало компанию такой легендарной, если смотреть на это с высоты лет?  
-**Translation:** 
-
-**[15791.82s] English:** Все началось с Майка, Аллена и Фрэнка.  
-**Translation:** 
-
-**[15796.90s] English:** Компанией управляли трое геймеров.  
-**Translation:** 
-
-**[15799.16s] English:** И они, все трое, программисты.  
-**Translation:** 
-
-**[15802.90s] English:** Они сами создавали игры.  
-**Translation:** 
-
-**[15804.66s] English:** Они просто руководители.  
-**Translation:** 
-
-**[15806.62s] English:** И они понимали, через что проходит каждый из нас, как разработчик.  
-**Translation:** 
-
-**[15811.84s] English:** И они нас защищали.  
-**Translation:** 
-
-**[15814.02s] English:** Они защищали нас от всякой фигни.  
-**Translation:** 
-
-**[15818.06s] English:** И даже когда у нас появился человек из бизнеса,  
-**Translation:** 
-
-**[15821.84s] English:** у них был в те ранние годы операционный директор Пол Сэмс.  
-**Translation:** 
-
-**[15825.68s] English:** И даже он нас защищал.  
-**Translation:** 
-
-**[15827.74s] English:** Они просто находили правильных людей, которые все понимали.  
-**Translation:** 
-
-**[15831.30s] English:** Когда я пришел, в компании было 95% французов.  
-**Translation:** 
-
-**[15836.64s] English:** mache,  
-**Translation:** 
-
-**[15836.78s] English:** которые работали так, чтобы зарабатывать.  
-**Translation:** 
-
-**[15839.54s] English:** Но это было не в качестве фанатов.  
-**Translation:** 
-
-**[15840.52s] English:** И они работали с ним.  
-**Translation:** 
-
-**[15842.22s] English:** Чтобы достаться до того, как был.  
-**Translation:** 
-
-**[15843.40s] English:** Ведь аудитория была 2% advisory Eleven,  
-**Translation:** 
-
-**[15844.62s] English:** а аудитория была от dynamite 20.  
-**Translation:** Vocabulary: dynamite: 炸药
-
-**[15846.08s] English:** Ее право scandala, это одно, и поназовло, что количество разработчиков  
-**Translation:** 
-
-**[15847.94s] English:** и 5% административного персонала,  
-**Translation:** Vocabulary: scandala: 丑闻事件
-
-**[15849.52s] English:** это удар человеку, невредимо,  
-**Translation:** 
-
-**[15854.56s] English:** и вряд ли это говорит о обмене в рамках компании годовый опыт.  
-**Translation:** 
-
-**[15855.34s] English:** но почему не обмен в рамках компании?  
-**Translation:** 
-
-**[15856.50s] English:** Если риска в рамках компании или в рамках командирования david ravel  
-**Translation:** Vocabulary: ravel: 缠绕
-
-**[15857.50s] English:** помогут какomicomplante一點 aloneению данных,  
-**Translation:** 
-
-**[15860.02s] English:** и обме çık templar ali  
-**Translation:** Vocabulary: templar: 骑士团
-
-**[15860.74s] English:** еще больше популярности на何 и чем.  
-**Translation:** 
-
-**[15840.00s] English:** а когда я уходил, стало 50 на 50, и это в компании на 4,5 тысячи человек.  
-**Translation:** 
-
-**[15846.90s] English:** Это любовь к играм, и уважение, и хорошее отношение к разработчикам  
-**Translation:** 
-
-**[15854.54s] English:** сделали компанию такой, какой она была.  
-**Translation:** 
-
-**[15858.08s] English:** Это стремление к совершенству, высокая планка качества,  
-**Translation:** 
-
-**[15862.86s] English:** а потом поиск таких увлеченных людей, как Крис Мэтсон или Сэм Дидье.  
-**Translation:** 
-
-**[15871.36s] English:** Они были визионерами ранней Близзард, как и Ален Адам.  
-**Translation:** 
-
-**[15876.32s] English:** Они создали миры, в которых мы творим и играем до сих пор.  
-**Translation:** 
-
-**[15883.08s] English:** Это заряжало и это вдохновляло.  
-**Translation:** 
-
-**[15887.48s] English:** Ты носил синие цвета Близзард с гордостью, с чувством командного духа.  
-**Translation:** 
-
-**[15892.86s] English:** Ты гордился, что ты часть этого, и чувствовал, что попал сюда не зря.  
-**Translation:** 
-
-**[15898.70s] English:** И все, что ты делал, было продиктовано желанием уважать и чтить тех, кто был здесь до тебя.  
-**Translation:** 
-
-**[15905.48s] English:** Знаю, звучит это почти банально, но там правда царило это чувство благоговения.  
-**Translation:** 
-
-**[15911.10s] English:** Ты знал, что ты часть чего-то особенного, и ты не принимал это как должное.  
-**Translation:** 
-
-**[15915.28s] English:** Я читал об этом, и у меня было тоже чувство.  
-**Translation:** 
-
-**[15917.88s] English:** Все ощущали свою причастность и по-настоящему ценили то время.  
-**Translation:** 
-
-**[15922.86s] English:** Если говорить о конкретных людях, какими были, ты упомянул Криса Мэдсона.  
-**Translation:** 
-
-**[15928.70s] English:** Ты так тепло отзывался о многих в команде, но не могу не спросить о Крисе Мэдсоне.  
-**Translation:** 
-
-**[15933.74s] English:** Кстати, я бы очень хотел однажды записать с ним подкаст.  
-**Translation:** 
-
-**[15936.70s] English:** Какими были мозговые штурмы с ним?  
-**Translation:** 
-
-**[15939.74s] English:** Кажется, это было что-то потрясающее.  
-**Translation:** 
-
-**[15943.74s] English:** Они были лучшими.  
-**Translation:** 
-
-**[15945.74s] English:** Можно было просто зайти в комнату...  
-**Translation:** 
-
-**[15949.74s] English:** То, как мы с Крисом работали, по-настоящему...  
-**Translation:** 
-
-**[15951.74s] English:** ...по-настоящему.  
-**Translation:** 
-
-**[15952.70s] English:** Но поначалу, когда я был еще новичком, все было проще.  
-**Translation:** 
-
-**[15955.70s] English:** Я просто получал от него креативные наводки.  
-**Translation:** 
-
-**[15958.70s] English:** «Крис, я сажусь делать...»  
-**Translation:** 
-
-**[15960.00s] English:** локализацию западный край какие у тебя идеи как это переложить на геймплей не так не пойдет а  
-**Translation:** 
-
-**[15966.42s] English:** если вот так в таком духе а позже я до сих пор помню наш первый разговор с крисом а в раз of  
-**Translation:** 
-
-**[15976.62s] English:** the leech king я зашел к нему в кабинет и говорю ну все мы наконец-то это делаем делаем дополнение  
-**Translation:** 
-
-**[15982.88s] English:** про нордскол что тебя больше всего вдохновляет в нордсколе и этого было достаточно он тут же  
-**Translation:** Vocabulary: leech: 吸血鬼
-
-**[15992.24s] English:** начинал рисовать карту доставать старые мануалы еще по второму варкрафту и даже по первому  
-**Translation:** 
-
-**[15998.50s] English:** варкрафту показывать тебе арты которые они сами рисовали разные карты и он мог говорить об этом  
-**Translation:** 
-
-**[16006.70s] English:** час без умолку а я все это впитывал просто слушал и постоянно  
-**Translation:** 
-
-**[16012.86s] English:** записывал постоянно фоткал его доски а потом возвращался к себе и начинал все это накладывать  
-**Translation:** 
-
-**[16020.92s] English:** на геймдизайн так что из этого будет локацией что подземельем что получится круто что должно  
-**Translation:** 
-
-**[16027.00s] English:** быть в начале а что в конце например в leech king мы хотели кое-что поменять чтобы решить  
-**Translation:** 
-
-**[16032.00s] English:** проблему из burning crusade где все попадали в полуостров адского пламени через темный портал  
-**Translation:** 
-
-**[16038.58s] English:** серверщики тебя за такое ненавидят ведь игроки грузятся одновременно  
-**Translation:** 
-
-**[16042.84s] English:** в одну и ту же локацию в leech king мы их разделили чтобы распределить поток игроков плюс  
-**Translation:** 
-
-**[16048.76s] English:** чем больше выбор тем интереснее сид мэйер говорил игры эта серия интересных выборов и мы дали им  
-**Translation:** 
-
-**[16054.66s] English:** две стартовые зоны вот так мы и работали с крисом и очень часто например на той первой встречи крис  
-**Translation:** 
-
-**[16063.12s] English:** набросал на доске локацию седые холмы а я про них вообще ничего не знаю и крис расскажи про седые холмы  
-**Translation:** 
-
-**[16072.84s] English:** если его не перебивать он мог говорить час напролет и никогда не  
-**Translation:** 
-
-**[16080.00s] English:** поймешь, какую именно часть он продумал заранее, и какая  
-**Translation:** 
-
-**[16083.76s] English:** уже была в старом лоре, или какую он просто придумывал  
-**Translation:** 
-
-**[16088.20s] English:** на ходу.  
-**Translation:** 
-
-**[16089.20s] English:** Просто он настолько харизматичный и обаятельный.  
-**Translation:** 
-
-**[16094.32s] English:** Создавать эти миры и иметь возможность вместе их обсуждать,  
-**Translation:** 
-
-**[16098.22s] English:** вы ведь этим и занимаетесь.  
-**Translation:** 
-
-**[16100.06s] English:** Как игрок, ты воспринимаешь эти миры как данность.  
-**Translation:** 
-
-**[16104.24s] English:** Они невероятны, но ведь это вы их создаете.  
-**Translation:** 
-
-**[16108.16s] English:** Вы начинаете с чистого листа и вместе все придумываете.  
-**Translation:** 
-
-**[16113.08s] English:** Свою задачу в работе с Крисом я видел следующим образом.  
-**Translation:** 
-
-**[16117.70s] English:** Конкретно в World of Warcraft, когда мы с ним работали,  
-**Translation:** Vocabulary: warcraft: 魔兽世界
-
-**[16120.74s] English:** я был своего рода переводчиком его идей на язык геймплея,  
-**Translation:** 
-
-**[16126.68s] English:** чтобы игра ощущалась так, как он ее задумал.  
-**Translation:** 
-
-**[16129.48s] English:** Моя любимая история, мы работаем над БК, сидим на  
-**Translation:** 
-
-**[16132.92s] English:** совещании, Крис говорит, а он добрейший милейший  
-**Translation:** 
-
-**[16137.68s] English:** парень.  
-**Translation:** 
-
-**[16138.14s] English:** Но он держится с такой уверенностью.  
-**Translation:** 
-
-**[16140.90s] English:** И все им так восхищаются, что младшие разработчики  
-**Translation:** 
-
-**[16143.96s] English:** его немного побаиваются.  
-**Translation:** 
-
-**[16147.40s] English:** И вот мы на совещании, обсуждаем луна свет, потому что вводим  
-**Translation:** 
-
-**[16150.90s] English:** эльфа в крови, и Крис такой, а в луна свете будет самая  
-**Translation:** 
-
-**[16156.12s] English:** блять высокая башня во всем Азероте.  
-**Translation:** 
-
-**[16159.42s] English:** Самая высокая хрень.  
-**Translation:** 
-
-**[16161.94s] English:** Она должна сносить крышу, вызывать трепет, лишь эльфы  
-**Translation:** 
-
-**[16165.46s] English:** крови могли ее построить.  
-**Translation:** 
-
-**[16168.14s] English:** Увидим, что она стоит с низкой целью, от 0 до 100,  
-**Translation:** 
-
-**[16171.06s] English:** снизу и спереди дыма.  
-**Translation:** 
-
-**[16172.12s] English:** Мы поднимаемся на пару недель вперед.  
-**Translation:** 
-
-**[16173.12s] English:** Я иду по коридору и вижу как дизайнеры уровней  
-**Translation:** 
-
-**[16174.12s] English:** и художники столпились у экрана, а на нем они поставили  
-**Translation:** 
-
-**[16177.82s] English:** рядом черную гору, башню Каражана и собор Штормграда.  
-**Translation:** 
-
-**[16184.34s] English:** Я такой, чо вы тут делаете?  
-**Translation:** 
-
-**[16187.66s] English:** А они мне, Крис сказал, что башня луна света должна  
-**Translation:** 
+**[14749.96s] English:** Success can be carved in stone and then descend.  
+**Translation:** Vocabulary: carved: 刻在石头上; descend: 下降
 
-**[16191.30s] English:** быть самым высоким строением в World of Warcraft.  
+**[14752.92s] English:** From the mountain.  
 **Translation:** 
 
-**[16195.10s] English:** Где вы наéis?  
+**[14753.92s] English:** So you threw in some dates for a nice slide?  
 **Translation:** 
 
-**[16196.14s] English:** Крис говорит.  
+**[14756.58s] English:** Yes.  
 **Translation:** 
 
-**[16197.14s] English:** А какие там цели?  
+**[14757.74s] English:** This is total nonsense.  
 **Translation:** 
 
-**[16198.14s] English:** всех этих других строений.  
+**[14758.74s] English:** These are stones.  
 **Translation:** 
 
-**[16200.00s] English:** чтобы сделать башню выше.  
+**[14760.00s] English:** So, the same thing we did with the tablet.  
 **Translation:** 
 
-**[16204.06s] English:** А я им, чуваки...  
+**[14762.78s] English:** We simply attached a tracer to the tablet and claimed that we had a mobile strategy.  
 **Translation:** 
 
-**[16206.80s] English:** Да Крис вообще без понятия, какой высоты там строение в пылающей степи,  
-**Translation:** 
+**[14769.38s] English:** In general, the management began to strongly resent us because the release of Overwatch 2 keeps getting delayed.  
+**Translation:** Vocabulary: tracer: 跟踪器
 
-**[16212.80s] English:** или тот же собор в Штормграде.  
+**[14777.38s] English:** I remember how only Overwatch launched, and that was at the very beginning, somewhere in May 2016.  
 **Translation:** 
 
-**[16215.50s] English:** Да.  
+**[14785.10s] English:** And it seems there was an Olympics in Rio that year.  
 **Translation:** 
 
-**[16215.98s] English:** Он просто хотел сказать, что башня должна быть охуенно высокой.  
+**[14793.22s] English:** It always amuses me to play around with when a major event occurs, and I'm like,  
 **Translation:** 
 
-**[16220.72s] English:** Вам не нужно ничего мерить.  
-**Translation:** 
+**[14800.40s] English:** Let's make an event dedicated to the Olympics.  
+**Translation:** Vocabulary: amuses: 使愉快
 
-**[16222.30s] English:** А они, да, чё так можно?  
+**[14803.90s] English:** It cannot be called an Olympics, or else you'll get in trouble, although you're essentially advertising it.  
 **Translation:** 
 
-**[16224.10s] English:** То есть ты прикроешь нас, если что?  
+**[14808.86s] English:** You're advertising a bunch of kids who want to play, not watch the Olympics.  
 **Translation:** 
 
-**[16226.12s] English:** Я отвечаю, да, чуваки, я прикрою вас, если чё.  
+**[14814.04s] English:** Additionally,...  
 **Translation:** 
 
-**[16229.42s] English:** Да, это просто ощущение, вайб.  
-**Translation:** 
+**[14815.10s] English:** Additionally, we had a couple of developers, Mike Hybergh and Dave Adams.  
+**Translation:** Vocabulary: additionally: 另外
 
-**[16232.40s] English:** Это вайб.  
+**[14819.52s] English:** They were working on something cool, they made a football in Overwatch.  
 **Translation:** 
 
-**[16233.06s] English:** Да.  
-**Translation:** 
+**[14824.38s] English:** We named him Lucio Ball.  
+**Translation:** Vocabulary: lucio: 卢西奥
 
-**[16235.44s] English:** И ещё хочу признаться в огромной любви нынешней команде Диабло 4,  
+**[14826.64s] English:** They made a map, planned the mechanics, and we are like, let's make an event for the summer game.  
 **Translation:** 
 
-**[16242.60s] English:** потому что из последних игр Близзард я больше всего наиграл именно в Диабло.  
+**[14833.00s] English:** We release a live patch for the summer game.  
 **Translation:** 
 
-**[16249.38s] English:** И дело ведь не только в луте, понимаешь,  
+**[14836.82s] English:** He went in simply on a whim.  
 **Translation:** 
 
-**[16252.20s] English:** а во всём комплексе, атмосфера, арт, всё вместе.  
-**Translation:** 
+**[14839.88s] English:** After that, we're going to have Halloween soon.  
+**Translation:** Vocabulary: halloween: 万圣节
 
-**[16255.20s] English:** И, конечно, сезоны, они создали прекрасный мир, так что...  
+**[14845.10s] English:** Let's make a Halloween event; this is awesome.  
 **Translation:** 
 
-**[16259.06s] English:** Я...  
+**[14849.16s] English:** And for the fans, these events were simply insane to attend.  
 **Translation:** 
 
-**[16259.42s] English:** Я вижу и чувствую, сколько в это вложено труда.  
+**[14852.90s] English:** But there were two groups that did not like it.  
 **Translation:** 
 
-**[16262.84s] English:** Да, они жгут.  
+**[14856.22s] English:** The first, the very group in the team that I was talking about.  
 **Translation:** 
 
-**[16264.30s] English:** И я считаю, что мир Диабло 4 один из лучших, что они когда-либо создавали.  
+**[14859.56s] English:** They are such, oh my God, you guys, you're blowing the patches way out of proportion.  
 **Translation:** 
 
-**[16270.10s] English:** И они знают, они чувствуют игроков Диабло.  
-**Translation:** 
+**[14865.22s] English:** Why are we doing this Halloween event?  
+**Translation:** Vocabulary: patches: 补丁
 
-**[16274.02s] English:** Это очень суровое и очень требовательное сообщество.  
+**[14868.72s] English:** We should start working on Doverfort 2, not focus on live gameplay.  
 **Translation:** 
 
-**[16278.74s] English:** Но у них потрясающая команда.  
-**Translation:** 
+**[14875.10s] English:** And this was total nonsense.  
+**Translation:** Vocabulary: doverfort: 多佛要塞
 
-**[16280.96s] English:** Да, в ней столько всего, и есть это...  
+**[14878.40s] English:** Simply madness.  
 **Translation:** 
 
-**[16284.00s] English:** Не знаю, как часто такое встретишь, но это идеальная игра в серии.  
-**Translation:** 
+**[14879.62s] English:** Subtitles made by DimaTorzok  
+**Translation:** Vocabulary: madness: 疯狂; subtitles: 字幕
 
-**[16287.44s] English:** Они сильно...  
+**[14880.00s] English:** There is an expression "catch the wave and ride it.  
 **Translation:** 
 
-**[16288.44s] English:** Ну...  
+**[14883.74s] English:** Most games from this wave slip through, they don't catch the wave.  
 **Translation:** 
 
-**[16289.10s] English:** Эволюционировали и выросли.  
+**[14887.62s] English:** In them, nobody plays, or at most a couple of weeks.  
 **Translation:** 
 
-**[16291.34s] English:** В игре есть целая математическая основа.  
+**[14890.64s] English:** If you manage to catch a wave, ride it all the way to the end.  
 **Translation:** 
 
-**[16294.70s] English:** С кучей цифр, и всё это мастерски сбалансировано.  
+**[14895.20s] English:** And my gut then said, "Let's continue.  
 **Translation:** 
 
-**[16299.46s] English:** А ведь кроме этого, нужно же ещё придумывать новый контент для сезонов,  
+**[14899.08s] English:** How many more such live events can we make?  
 **Translation:** 
 
-**[16303.48s] English:** и они умудряются делать это в очень сумасшедшем темпе.  
+**[14902.40s] English:** Yes, you caught the wave with live games and events.  
 **Translation:** 
 
-**[16308.86s] English:** И всё равно получается очень круто.  
+**[14907.54s] English:** But the pressure to develop Overwatch 2 was increasing.  
 **Translation:** 
 
-**[16311.00s] English:** У них отличная команда поддержки.  
+**[14911.74s] English:** Yes, in the team there was a coalition that very much wanted to make Overwatch 2 instead of live events.  
 **Translation:** 
 
-**[16312.82s] English:** И лично для меня, как я и говорил, кооператив, диванный кооп, это...  
-**Translation:** 
+**[14918.80s] English:** Then the pressure from management became enormous.  
+**Translation:** Vocabulary: coalition: 联盟
 
-**[16317.48s] English:** Этот аспект просто великолепен.  
+**[14923.62s] English:** In essence, it would have been better to do more events and continue in the same spirit.  
 **Translation:** 
 
-**[16319.10s] English:** Да и в целом всё.  
-**Translation:** 
+**[14931.14s] English:** But what really derailed us was the League of Legends.  
+**Translation:** Vocabulary: legends: 传说
 
-**[16319.98s] English:** Продолжение следует...  
+**[14934.76s] English:** And here's what's most strange.  
 **Translation:** 
 
-**[16320.00s] English:** Это одна из величайших игр последнего времени.  
+**[14937.54s] English:** With the League of Legends, this is what I believe in.  
 **Translation:** 
 
-**[16323.62s] English:** И вот что я хотел отметить, потому что это очень сильная слава.  
+**[14942.54s] English:** I helped promote her along with the rest.  
 **Translation:** 
 
-**[16328.62s] English:** И вместо какого-то корпоративного прощания, когда ты уходил из Blizzard,  
-**Translation:** 
+**[14946.54s] English:** We thought this was the future of esports.  
+**Translation:** Vocabulary: esports: 电子竞技
 
-**[16335.62s] English:** ты, как говорят, показал своей команде видео с советом Дэвида Боуи.  
+**[14949.54s] English:** Creating teams tied to regions.  
 **Translation:** 
 
-**[16340.16s] English:** Людям стоит посмотреть это.  
+**[14952.54s] English:** Guarantee players a minimum wage and their protection.  
 **Translation:** 
 
-**[16342.16s] English:** Но с твоего позволения я зачитаю.  
+**[14956.54s] English:** In the League of Legends, there was a lot of very good.  
 **Translation:** 
 
-**[16344.70s] English:** Боуи говорит, никогда не работайте на публику.  
+**[14959.54s] English:** Teams would be tied to cities.  
 **Translation:** 
 
-**[16347.90s] English:** Всегда помните, почему вы вообще начали творить.  
+**[14962.54s] English:** Yes.  
 **Translation:** 
 
-**[16351.98s] English:** Потому что внутри вас было что-то, что вы чувствовали,  
+**[14963.54s] English:** And this would be a genuine international competition.  
 **Translation:** 
 
-**[16356.40s] English:** что если сможете это выразить, то лучше поймете сами себя и свое место в мире.  
+**[14965.54s] English:** Ambitions were there.  
 **Translation:** 
 
-**[16362.92s] English:** Думаю, для творца ужасно опасно пытаться оправдать ожидания других.  
+**[14966.54s] English:** Indeed.  
 **Translation:** 
 
-**[16368.10s] English:** Мне кажется, именно так и рождаются и худшие работы.  
+**[14967.54s] English:** Huge.  
 **Translation:** 
 
-**[16371.78s] English:** И я бы еще добавил вот что.  
+**[14968.54s] English:** Yes.  
 **Translation:** 
 
-**[16373.98s] English:** Если вы чувствуете себя в безопасности в своей работе,  
+**[14969.54s] English:** The idea was more about creating regional teams to protect players and try to make esports a full-fledged discipline.  
 **Translation:** 
 
-**[16377.20s] English:** значит, вы не на своем месте.  
-**Translation:** 
+**[14978.54s] English:** Because there were many stories of shady teams that cheated their players.  
+**Translation:** Vocabulary: cheated: 欺骗; discipline: 学科; shady: 可疑
 
-**[16379.08s] English:** Всегда заходите в воду чуть глубже, чем, по-вашему, вы сейчас осмеливаетесь.  
+**[14984.54s] English:** All went wrong when there was a frenzy around the League of Overwatch.  
 **Translation:** 
 
-**[16385.14s] English:** Заходите поглубже.  
-**Translation:** 
+**[14991.54s] English:** Even too strong.  
+**Translation:** Vocabulary: frenzy: 狂热
 
-**[16387.32s] English:** И когда почувствуете, что ваши ноги перестают касаться дна,  
+**[14993.54s] English:** Then they blew it way out of proportion for those who bought teams.  
 **Translation:** 
 
-**[16391.06s] English:** вы как раз там, где можно создать что-то потрясающее.  
+**[14996.54s] English:** They organized...  
 **Translation:** 
 
-**[16395.40s] English:** Кстати, ты сейчас как раз в том месте, где можно создать что-то потрясающее.  
+**[15000.00s] English:** A whole road-show presentation, and in the presentation, you can advertise.  
 **Translation:** 
 
-**[16403.52s] English:** После ухода из Blizzard,  
-**Translation:** Vocabulary: blizzard: 暴风雪
-
-**[16407.20s] English:** ты говорил, что пытался взять отпуск.  
-**Translation:** 
+**[15004.86s] English:** And they could sell anything, and in essence, they overpromised.  
+**Translation:** Vocabulary: advertise: 做广告; overpromised: 过度承诺
 
-**[16411.80s] English:** И как он прошел?  
+**[15008.78s] English:** All gold mountains, that Overwatch League will become more popular.  
 **Translation:** 
 
-**[16414.26s] English:** Ну, не очень.  
-**Translation:** 
+**[15013.68s] English:** Even the NFL, and it turned out that investments went into these teams.  
+**Translation:** Vocabulary: investments: 投资
 
-**[16415.90s] English:** Моя жена, она замечательная,  
+**[15019.48s] English:** A bunch of billionaire investors, and at the beginning of 2018, it seemed like right on.  
 **Translation:** 
 
-**[16418.80s] English:** сказала, что мне нужен отпуск минимум на год.  
-**Translation:** 
+**[15028.74s] English:** On the day of my return, they told me we had signed.  
+**Translation:** Vocabulary: billionaire: 亿万富翁
 
-**[16422.36s] English:** И знаешь, я очень много пахал.  
+**[15032.40s] English:** A huge deal with Twitch for streaming Overwatch League,  
 **Translation:** 
 
-**[16424.76s] English:** 19 лет я почти не брал отпуск.  
-**Translation:** 
+**[15037.64s] English:** A deal for media rights, which meant all those obligations,  
+**Translation:** Vocabulary: obligations: 法律责任
 
-**[16429.62s] English:** И я позволил Blizzard полностью поглотить себя.  
+**[15042.76s] English:** Which now fall on us according to Overwatch League, concerning  
 **Translation:** 
 
-**[16434.02s] English:** И знаешь, уход меня просто сломал, потому что я любил это.  
+**[15046.18s] English:** Including the game itself, much was related, for example,  
 **Translation:** 
 
-**[16437.20s] English:** Это мое первое место.  
+**[15049.44s] English:** With integration with Twitch, camera control, and all that, another  
 **Translation:** 
 
-**[16438.84s] English:** И...  
+**[15053.94s] English:** Part was related to skins, and the actual uniform.  
 **Translation:** 
 
-**[16440.00s] English:** Я не знал, чем себя занять.  
+**[15058.16s] English:** For all teams.  
 **Translation:** 
 
-**[16443.38s] English:** Я дёргал сорняки на заднем дворе.  
+**[15058.74s] English:** And this is not just about adding arts to the game; there were enormous  
 **Translation:** 
 
-**[16446.16s] English:** Буквально садоводство.  
+**[15063.90s] English:** Technical complexities, how will all of this work?  
 **Translation:** 
 
-**[16447.38s] English:** Да, но в сад она меня не пускает, потому что это её...  
-**Translation:** 
+**[15068.04s] English:** How effective is it, and will it fit in memory?  
+**Translation:** Vocabulary: complexities: 复杂性
 
-**[16451.32s] English:** Да.  
+**[15071.08s] English:** And all that.  
 **Translation:** 
 
-**[16451.80s] English:** Но сорняки полоть разрешает.  
+**[15072.08s] English:** At that moment, all your plans simply go to hell.  
 **Translation:** 
 
-**[16453.30s] English:** Верно.  
+**[15077.86s] English:** For example, you're no longer working on new events, and even  
 **Translation:** 
 
-**[16453.98s] English:** Так что в этом я поднаторел, стал настоящим мастером.  
-**Translation:** 
+**[15081.26s] English:** You are not focusing on Overwatch 2; you are just treading water.  
+**Translation:** Vocabulary: treading: 原地踏步
 
-**[16457.30s] English:** А потом, что самое смешное, я подсел на Call of Duty Black Ops Cold War  
+**[15085.60s] English:** In stupor.  
 **Translation:** 
 
-**[16462.58s] English:** и выбил камуфляж «Тёмная материя».  
-**Translation:** 
+**[15086.60s] English:** Constantly there were discussions about Overwatch League.  
+**Translation:** Vocabulary: stupor: 昏迷状态
 
-**[16465.64s] English:** Это безумная ачивка в этой игре.  
+**[15088.52s] English:** This is a deal, it's going wrong, and we need to compensate for that.  
 **Translation:** 
 
-**[16468.74s] English:** В общем, я это сделал, а потом просто...  
-**Translation:** 
+**[15097.56s] English:** To make it better for them, and I just replied, simply return.  
+**Translation:** Vocabulary: compensate: 赔偿
 
-**[16472.68s] English:** Я просто не мог остановиться, я так устроен.  
+**[15101.14s] English:** Part of the money, and that's it. The deal didn't go as everyone wanted.  
 **Translation:** 
 
-**[16476.36s] English:** Это был конец весны, начало лета,  
+**[15105.78s] English:** And in the end, they blamed it all on us, the Overwatch team,  
 **Translation:** 
 
-**[16479.60s] English:** и я просто сидел на заднем дворе  
+**[15109.38s] English:** To carry this machine on ourselves, and yet it itself  
 **Translation:** 
 
-**[16481.60s] English:** и начал в блокноте писать о том,  
+**[15113.44s] English:** The idea was great on its own.  
 **Translation:** 
 
-**[16487.82s] English:** какую игру хочу сделать.  
+**[15115.52s] English:** Yes.  
 **Translation:** 
 
-**[16489.80s] English:** И это было так страшно,  
+**[15116.52s] English:** Yes.  
 **Translation:** 
 
-**[16492.58s] English:** потому что...  
+**[15117.52s] English:** Yes.  
 **Translation:** 
 
-**[16494.72s] English:** 19 лет я работал с лучшими, как я считал, разработчиками,  
+**[15118.52s] English:** Yes.  
 **Translation:** 
 
-**[16498.74s] English:** в индустрии.  
+**[15119.52s] English:** Yes.  
 **Translation:** 
 
-**[16501.48s] English:** И...  
+**[15120.00s] English:** I don't know how to say this without it sounding harsh, but there was too much focus on the desire to make quick money.  
 **Translation:** 
 
-**[16502.00s] English:** Знаешь, раньше было, как я говорил,  
+**[15120.52s] English:** As is known, instincts failed.  
 **Translation:** 
 
-**[16504.34s] English:** «Так, хочу сделать карту мира».  
-**Translation:** 
+**[15133.12s] English:** Many have been drawn into this.  
+**Translation:** Vocabulary: instincts: 本能
 
-**[16506.78s] English:** Я такой, «Эй, Эрин, ты же офигенно рисуешь карты, сделаешь это?»  
+**[15136.06s] English:** Although the Overwatch League was beneficial for Overwatch in terms of players it attracted, the players in the Overwatch League were amazing.  
 **Translation:** 
 
-**[16512.38s] English:** Или, например, «Мне нужно пару сюжетных завязок, эй, Крис,  
-**Translation:** 
+**[15147.68s] English:** I love them. The guys from Overwatch at Blizzard are some of the friendliest, energized, and most creative people.  
+**Translation:** Vocabulary: beneficial: 有利的; blizzard: 暴雪; energized: 充满活力的; friendliest: 最友好的
 
-**[16515.80s] English:** как думаешь, что тут будет круто?»  
+**[15156.42s] English:** All these organizations appeared, and they were all wonderful, but it was a house of cards ready to collapse.  
 **Translation:** 
 
-**[16518.70s] English:** Это была командная работа, меня окружали лучшие из лучших,  
-**Translation:** 
+**[15163.14s] English:** In the end, it all came down to money, not to the quality of gaming experience, team play, and creating a genuine esports ecosystem.  
+**Translation:** Vocabulary: collapse: 倒塌; esports: 电子竞技
 
-**[16522.28s] English:** и тут я остался один.  
+**[15175.26s] English:** Financial reality intervened.  
 **Translation:** 
 
-**[16526.10s] English:** Я был снова сам по себе,  
-**Translation:** 
+**[15177.78s] English:** Because now we had not only bosses at Activision and Blizzard who were concerned about Overwatch's profitability,  
+**Translation:** Vocabulary: activision: 暴雪娱乐; intervened: 干涉; profitability: 盈利能力
 
-**[16527.82s] English:** и мне это безумно...  
+**[15188.96s] English:** There appeared all these people who, in essence, invested in this game, and they began to express their opinion.  
 **Translation:** 
 
-**[16528.74s] English:** Это вернуло всю радость творчества.  
-**Translation:** 
+**[15198.70s] English:** Initially, the business model was built on conducting offline events.  
+**Translation:** Vocabulary: conducting: 进行
 
-**[16533.50s] English:** Я-то думал, что игры больше будут не в кайф,  
+**[15206.62s] English:** There will be big boss sales,  
 **Translation:** 
 
-**[16535.94s] English:** потому что все превратилось в бизнес,  
-**Translation:** 
+**[15207.68s] English:** Tickets, and then merchandise, and so on. And I think everyone very quickly understood that we can't.  
+**Translation:** Vocabulary: merchandise: 商品
 
-**[16538.48s] English:** где от меня постоянно требуют немыслимых денег  
+**[15216.36s] English:** To conduct events when you have a team from London and Shanghai. How is this supposed to work exactly?  
 **Translation:** 
 
-**[16541.02s] English:** или каких-то немыслимых сроков.  
-**Translation:** 
+**[15223.88s] English:** That idea quickly fell apart. The merchandise was decent, but it didn't bring in money at the level of  
+**Translation:** Vocabulary: shanghai: 上海
 
-**[16544.70s] English:** Я забыл эту чистую радость ремесла,  
+**[15229.84s] English:** NFL, no matter what number they come up with. Therefore, everyone quickly returned to the thought, "Hey, but  
 **Translation:** 
 
-**[16547.80s] English:** кайф от разработки,  
+**[15240.00s] English:** Did Overwatch not bring in around 500 million dollars just from the main game last year?  
 **Translation:** 
 
-**[16550.26s] English:** и...  
+**[15246.28s] English:** What can we sell, and what can you give us?  
 **Translation:** 
 
-**[16551.38s] English:** я занимался дизайном,  
+**[15249.38s] English:** This pressure falls on the team.  
 **Translation:** 
 
-**[16553.32s] English:** смотрел ролики на YouTube,  
+**[15252.08s] English:** From above, there's additional pressure to release Overwatch 2.  
 **Translation:** 
 
-**[16555.06s] English:** чтобы изучить...  
+**[15255.80s] English:** And all that love and care we put into the main game, live service,  
 **Translation:** 
 
-**[16556.92s] English:** Unreal, Adobe и Lustre,  
-**Translation:** Vocabulary: lustre: 光泽
-
-**[16558.74s] English:** и все остальное.  
+**[15263.64s] English:** Well, let's just make events, heroes, and new maps.  
 **Translation:** 
 
-**[16560.00s] English:** остальное, что поможет мне делать игры, будь то даже блендер. У меня не было права этим заниматься,  
+**[15266.92s] English:** We lost all these resources.  
 **Translation:** 
 
-**[16567.32s] English:** но делать это было потрясающим чувством. И я, можно сказать, пришел к двум выводам. Первый,  
+**[15271.48s] English:** It had come to the point where, you know, my departure from Blizzard,  
 **Translation:** 
 
-**[16577.02s] English:** я больше не хочу работать на кого-то. Я не хочу создавать что-то, чтобы потом у тебя отнимали  
-**Translation:** 
+**[15277.48s] English:** I believed in Overwatch 2 and thought we could have made a great game.  
+**Translation:** Vocabulary: blizzard: 暴雪公司
 
-**[16584.72s] English:** твое детище. Понимаешь, это очень тяжело, когда такое происходит. И такое бывало уже не раз,  
+**[15282.52s] English:** Now, looking back, I understand that I would have designed it completely differently.  
 **Translation:** 
 
-**[16592.32s] English:** когда приходилось отпускать то, что ты создал. И я хотел сосредоточиться именно на самом ремесле  
+**[15287.38s] English:** Knowing what I know, rather than the game we ultimately didn't release.  
 **Translation:** 
 
-**[16602.28s] English:** создания игр. На арте, коде, дизайне, звуке. А не на всей этой херне из игровой индустрии. Меня  
+**[15291.08s] English:** Here came Overwatch 2, but it's not the Overwatch 2 we planned and announced.  
 **Translation:** 
 
-**[16613.04s] English:** не интересует игровая индустрия.  
+**[15297.18s] English:** So, when you mention Overwatch 2, you're referring to the PVE version?  
 **Translation:** 
 
-**[16614.72s] English:** Меня не интересует игровой бизнес. Меня не интересует индустрия развлечений. А только  
+**[15301.58s] English:** PVE-version.  
 **Translation:** 
 
-**[16622.94s] English:** геймджемы. Создание того, во что мы будем все вместе играть. И примерно в то же время,  
+**[15302.92s] English:** In which I would have enjoyed playing.  
 **Translation:** 
 
-**[16633.98s] English:** человек, которого я зову своей родственной душой в разработке, программист Тим Форд,  
+**[15304.88s] English:** I am from those who... Overwatch has great PvP.  
 **Translation:** 
 
-**[16640.38s] English:** он связался со мной и говорит, слушай, а он был в то время,  
+**[15308.70s] English:** I would very much like to play the single-player version.  
 **Translation:** 
 
-**[16644.72s] English:** помощником технического директора Овервотч. И он говорит, да, я так больше не могу. Все уже не  
+**[15312.32s] English:** I think everyone would have enjoyed playing in it.  
 **Translation:** 
 
-**[16652.42s] English:** так, как раньше. И добавляет, я только что уволился. А я ему такой, ого, ну если хочешь что-то  
-**Translation:** 
+**[15314.90s] English:** There is a misconception in the net that I cared only about PVE and completely ignored PVP.  
+**Translation:** Vocabulary: misconception: 误解
 
-**[16661.70s] English:** сделать вместе, к черту все. Давай попробуем. И посмотрим, что получится. И Тим приехал ко мне  
+**[15323.00s] English:** All PvP-cards for Overwatch 2 were...  
 **Translation:** 
 
-**[16670.90s] English:** домой. И... Он еще до этого...  
+**[15326.92s] English:** I constantly reminded the team of this.  
 **Translation:** 
 
-**[16674.72s] English:** Говорит, мой последний день пятница. И я такой, в час у меня экзит интернета.  
+**[15330.92s] English:** We have a PVP-audience, and we need to do an excellent job with PVP.  
 **Translation:** 
 
-**[16680.00s] English:** «Я часа в два дня уже буду у тебя дома». А я ему «Тим, не думаешь, что тебе стоит немного  
+**[15335.92s] English:** We would be happy if PVE players came to us as well, but such a guarantee was not there.  
 **Translation:** 
 
-**[16688.82s] English:** отдохнуть, прежде чем браться за что-то новое? Возьми там отпуск на месяц. Мэг, твоя жена это  
+**[15341.92s] English:** So we never focused solely on one PvP.  
 **Translation:** 
 
-**[16695.54s] English:** оценит, понимаешь? Пойди хоть сорняки в саду повыдергивай». А он такой «Я программист,  
+**[15345.92s] English:** This was simply an expansion to include it there.  
 **Translation:** 
 
-**[16703.58s] English:** если я возьму отпуск на месяц, я весь месяц буду кодить, так что я с тем же успехом могу  
+**[15350.92s] English:** Yes, and what ultimately broke me,  
 **Translation:** 
 
-**[16709.82s] English:** начать кодить нашу игру». Это было круто, когда он это сказал. Он пришел, я изложил ему  
+**[15352.92s] English:** Earlier, in 2016 and 2017,  
 **Translation:** 
 
-**[16717.32s] English:** свою идею игры и предложил «Давай создадим компанию». И это все. Так и родилась наша  
+**[15356.92s] English:** I felt that I was completely focused.  
 **Translation:** 
 
-**[16727.40s] English:** совместная студия. А в это время, для всего остального мира, ты будто исчез с лица земли,  
-**Translation:** 
+**[15360.00s] English:** Controlling the Overwatch team and overseeing the game's development as a game director.  
+**Translation:** Vocabulary: overseeing: 监督
 
-**[16735.44s] English:** хотя на самом деле делал игру. Да.  
+**[15366.16s] English:** We, Ray Gresko, production director, seemed to really be running Overwatch.  
 **Translation:** 
 
-**[16739.28s] English:** Да. Да.  
-**Translation:** 
+**[15371.34s] English:** Keep the same transcript with proper punctuation and capitalization: In fact, everything was going great, we were very successful, and I think the fans were satisfied.  
+**Translation:** Vocabulary: capitalization: 大写; transcript: 记录对话
 
-**[16739.80s] English:** Мне… Мне нужно было отстраниться от мира. Нужно было не привлекать… Я не хотел привлекать  
+**[15377.90s] English:** Then, when Overwatch League appeared,  
 **Translation:** 
 
-**[16748.38s] English:** никакого внимания. Совсем. Я не хотел видеть свое имя ни на Reddit, ни на каких-либо сайтах  
-**Translation:** 
+**[15382.70s] English:** She was conceived with the best intentions,  
+**Translation:** Vocabulary: conceived: 构思
 
-**[16755.16s] English:** в интернете. Я хотел, чтобы мое имя просто исчезло. Чтобы какой-нибудь другой Джефф Каплан  
+**[15385.30s] English:** As is known, noble intentions pave the way to hell.  
 **Translation:** 
 
-**[16761.82s] English:** поднялся выше в поисковой выдаче Google. Ты же знаешь, что наш друг Дайна Фласк  
-**Translation:** 
+**[15388.66s] English:** This is Overwatch League, in the end it became a burden.  
+**Translation:** Vocabulary: burden: 负担
 
-**[16767.36s] English:** вцепится в этот разговор, да? Да.  
+**[15392.86s] English:** With Overwatch 2, it's the same story.  
 **Translation:** 
 
-**[16769.26s] English:** О, боже. Ну да, ему этого разговора нудолго хватит – что делать?  
+**[15395.36s] English:** In the end, for me, it all came down to this that...  
 **Translation:** 
 
-**[16772.64s] English:** Но да, нужно было... Ты знаешь, что делать?  
+**[15399.34s] English:** What ultimately broke me and my career at Blizzard.  
 **Translation:** 
 
-**[16775.96s] English:** Мне нужно было, чтобы всего этого не было. Мне просто нужно было оплакать уход из Blizzard. И  
+**[15403.72s] English:** I was called to the finance director's office.  
 **Translation:** Vocabulary: blizzard: 暴雪
 
-**[16782.56s] English:** спокойно себя творить. Всё было отлично. И как только объявили, что я ухожу из Blizzard,  
+**[15407.46s] English:** And...  
 **Translation:** 
 
-**[16790.50s] English:** со мной связалось человек шестьдесят. 안에 не было пяти в полных palecast,  
+**[15409.58s] English:** He seats me and says...  
 **Translation:** 
 
-**[16794.12s] English:** я поним quart 우ка и третьих джонсов, ой, april 2021 бля. And with investments,  
+**[15414.04s] English:** Calls the date...  
 **Translation:** 
 
-**[16799.26s] English:** тогда творилось.  
-**Translation:** Vocabulary: quart: 夸脱
-
-**[16800.00s] English:** безумие, что с венчурными деньгами, что со стратегическими инвестициями, просто сумасшествие,  
+**[15416.18s] English:** Then it was 2020.  
 **Translation:** 
 
-**[16807.74s] English:** особенно у китайских компаний, потому что им, видимо, не давали лицензии публиковаться в Китае,  
+**[15418.66s] English:** Although they later moved the date to 2021,  
 **Translation:** 
 
-**[16815.06s] English:** в экономике все было на ушах, и все просто пытались закидать меня деньгами. Это была  
+**[15421.86s] English:** Then it was the 20th, and he says,  
 **Translation:** 
 
-**[16823.22s] English:** отличная стартовая позиция для основания компании. И мы с Тимом решили, мы делаем это не ради денег.  
+**[15424.38s] English:** Overwatch should bring...  
 **Translation:** 
 
-**[16832.60s] English:** Вот игра, которую мы хотим сделать, и на нее потребуется столько-то разработчиков, мы думаем,  
+**[15426.70s] English:** In 2020.  
 **Translation:** 
 
-**[16839.12s] English:** это займет столько-то времени и значит бюджет вот такой. И нам нужно, мы сказали людям, которые  
+**[15429.32s] English:** Then the annual income should be...  
 **Translation:** 
 
-**[16845.40s] English:** хотели в нас инвестировать, что нам нужна вот такая сумма, но больше денег мы привлекать не будем,  
+**[15434.90s] English:** Then he adds something else...  
 **Translation:** 
 
-**[16851.24s] English:** это не аукцион.  
+**[15437.90s] English:** If this does not bring...  
 **Translation:** 
+
+**[15440.70s] English:** Dollars,  
+**Translation:** 
+
+**[15443.70s] English:** We will fire a thousand workers, and this will be on your conscience.  
+**Translation:** 
+
+**[15448.66s] English:** At that moment, I felt something was inserted into me deeper than anything in my entire career.  
+**Translation:** Vocabulary: conscience: 良知
+
+**[15454.66s] English:** There was a feeling of complete unreality in what was happening.  
+**Translation:** 
+
+**[15458.66s] English:** As a person who worked on many games, he created a bunch of them.  
+**Translation:** 
+
+**[15463.66s] English:** I sat in meetings where they told me that 1,400 people work on Fortnite.  
+**Translation:** 
+
+**[15469.66s] English:** If you simply...  
+**Translation:** Vocabulary: fortnite: 绝地求生
+
+**[15471.66s] English:** You hire 1400 people and make the game freeto-play; we'll get these money, won't we?  
+**Translation:** 
+
+**[15477.66s] English:** At that time,...  
+**Translation:** 
+
+**[15478.62s] English:** ...I think...  
+**Translation:** 
+
+**[15479.62s] English:** ...I think...  
+**Translation:** 
+
+**[15480.00s] English:** I was sure that I would never leave Blizzard.  
+**Translation:** 
+
+**[15480.62s] English:** ...I think...  
+**Translation:** 
+
+**[15484.10s] English:** I loved this company; it was a part of me.  
+**Translation:** 
+
+**[15487.38s] English:** I felt like a part of her, and honestly thought I would retire there.  
+**Translation:** 
+
+**[15493.28s] English:** Never thought that day would come, and here it is.  
+**Translation:** 
+
+**[15498.52s] English:** I understood that...  
+**Translation:** 
+
+**[15501.22s] English:** All right, we've arrived.  
+**Translation:** 
+
+**[15502.38s] English:** Fortunately for Blizzard, that CFO is no longer working there.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[15505.38s] English:** Sure, here is the improved sentence with natural English punctuation and capitalization: "Indeed, Blizzard, one of the greatest companies in history.  
+**Translation:** 
+
+**[15510.64s] English:** They created so many amazing games.  
+**Translation:** Vocabulary: capitalization: 大写
+
+**[15513.70s] English:** This is so hard, releasing so many hits.  
+**Translation:** 
+
+**[15517.10s] English:** And yet, they were created not for the sake of money.  
+**Translation:** 
+
+**[15520.68s] English:** They made small, amazing teams.  
+**Translation:** 
+
+**[15524.86s] English:** That same team of weirdos you were talking about.  
+**Translation:** Vocabulary: weirdos: 怪人
+
+**[15528.74s] English:** Which went into huge risks, fell in love with their work,  
+**Translation:** 
+
+**[15532.42s] English:** Then they simply yielded to him, working as if alone.  
+**Translation:** Vocabulary: yielded: 屈服
+
+**[15535.38s] English:** And this was irresistible.  
+**Translation:** 
+
+**[15537.38s] English:** If you have found a way to make a lot of money,  
+**Translation:** Vocabulary: irresistible: 无法抗拒的
+
+**[15540.38s] English:** This does not mean that at its core there is not this incredible creative journey.  
+**Translation:** 
+
+**[15548.38s] English:** Which is incredibly difficult to pass.  
+**Translation:** 
+
+**[15551.38s] English:** And that you have a handful of very smart creative people,  
+**Translation:** 
+
+**[15555.38s] English:** Which managed to pull off this feat several times in a row,  
+**Translation:** 
+
+**[15559.38s] English:** This is not meant to mean that one can treat it like a conveyor belt.  
+**Translation:** 
+
+**[15562.38s] English:** Every time.  
+**Translation:** Vocabulary: conveyor: 输送带
+
+**[15563.38s] English:** This is an amazing adventure.  
+**Translation:** 
+
+**[15565.38s] English:** Because of that very team of oddballs working together,  
+**Translation:** Vocabulary: oddballs: 怪人
+
+**[15568.38s] English:** And it's the weirdos who should be in charge of this.  
+**Translation:** 
+
+**[15572.38s] English:** If a chance arises to create something special,  
+**Translation:** Vocabulary: arises: 出现
+
+**[15575.38s] English:** At the helm, there should be exactly visionaries.  
+**Translation:** 
+
+**[15578.38s] English:** And the fewer such oddballs you have at the helm,  
+**Translation:** Vocabulary: visionaries: 有远见的人
+
+**[15582.38s] English:** Tворческих умов,  
+**Translation:** 
+
+**[15585.38s] English:** If the business is run by a businessman,  
+**Translation:** 
+
+**[15587.38s] English:** Let it not hinder them.  
+**Translation:** 
+
+**[15589.38s] English:** Yes, such meetings as you describe should not be held.  
+**Translation:** Vocabulary: hinder: 阻碍
+
+**[15593.38s] English:** I am referring to a specific company, but not just one particular company.  
+**Translation:** 
+
+**[15596.38s] English:** I am talking about the entire industry.  
+**Translation:** 
+
+**[15599.38s] English:** Just...  
+**Translation:** 
+
+**[15600.82s] English:** This will bring so much joy if we continue to create great games.  
+**Translation:** 
+
+**[15605.42s] English:** And I very much hope that we'll see them again.  
+**Translation:** 
+
+**[15609.50s] English:** I think this is an appeal to all creative people, to everyone who creates something.  
+**Translation:** 
+
+**[15616.16s] English:** Usually we are so engrossed in our work love,  
+**Translation:** 
+
+**[15621.06s] English:** That we dissolve in it, we adore our work,  
+**Translation:** Vocabulary: dissolve: 融入; engrossed: 专注
+
+**[15625.30s] English:** And in us, there is no mercilessness.  
+**Translation:** 
+
+**[15627.16s] English:** There are no ambitions of that kind.  
+**Translation:** Vocabulary: mercilessness: 残酷
+
+**[15630.22s] English:** Our ambitions lie in something completely different.  
+**Translation:** 
+
+**[15633.82s] English:** But there is a whole other world, especially when you happen to succeed.  
+**Translation:** 
+
+**[15639.38s] English:** The world of ruthless and ambitious people.  
+**Translation:** 
+
+**[15643.00s] English:** Why do we keep on giving ourselves to them, though?  
+**Translation:** Vocabulary: ruthless: 冷酷无情
+
+**[15649.74s] English:** We need to stop giving ourselves to them.  
+**Translation:** 
+
+**[15653.58s] English:** When we were making World of Warcraft, Blizzard didn't have much funding.  
+**Translation:** Vocabulary: blizzard: 暴雪; warcraft: Warcraft
+
+**[15657.20s] English:** But for a financial director, creating World of Warcraft doesn't require one.  
+**Translation:** 
+
+**[15662.36s] English:** We need artists, engineers, designers, producers, and sound editors.  
+**Translation:** Vocabulary: designers: 设计师
+
+**[15667.54s] English:** If you earn a lot of money, this does not necessarily mean it's time to act like an adult and hire a financial director.  
+**Translation:** 
+
+**[15675.26s] English:** Can we do it ourselves?  
+**Translation:** 
+
+**[15676.44s] English:** Although there are excellent financiers.  
+**Translation:** 
+
+**[15678.84s] English:** I worked with guys from this sphere who all understand and don't interfere with the process.  
+**Translation:** Vocabulary: financiers: 金融专家; interfere: 干涉
+
+**[15683.48s] English:** They respect him. And they are gamers themselves.  
+**Translation:** 
+
+**[15685.70s] English:** In general, they are kind of on topic.  
+**Translation:** 
+
+**[15687.16s] English:** But I would like developers to more strongly recognize their value.  
+**Translation:** 
+
+**[15694.10s] English:** And we do not give the golden-egg-laying chicken to those who do not deserve it.  
+**Translation:** 
+
+**[15700.94s] English:** How terribly it hurt to say goodbye?  
+**Translation:** 
+
+**[15703.96s] English:** This broke me.  
+**Translation:** Vocabulary: goodbye: 告别
+
+**[15706.58s] English:** I think after leaving a place like Blizzard,  
+**Translation:** 
+
+**[15710.20s] English:** I grew up with Blizzard, I love Blizzard.  
+**Translation:** 
+
+**[15713.90s] English:** And until now, I still have only the warmest memories,  
+**Translation:** 
+
+**[15717.16s] English:** Of course, there were moments I thought about.  
+**Translation:** 
+
+**[15720.00s] English:** Do you think they should have never been there, but overall, this is a mecca for game developers.  
+**Translation:** 
+
+**[15726.68s] English:** Keep all of what I have, I owe to Blizzard alone.  
+**Translation:** Vocabulary: mecca: 圣地
+
+**[15733.14s] English:** They ensured that my family and I had everything we needed, making me who I am.  
+**Translation:** 
+
+**[15737.88s] English:** So, leaving Blizzard was one of the most painful moments in my life.  
+**Translation:** 
+
+**[15742.60s] English:** And when I left, I was terribly sad.  
+**Translation:** 
+
+**[15745.72s] English:** But I did not realize how broken I was until recently.  
+**Translation:** 
+
+**[15750.86s] English:** Because this grief, through which I have gone...  
+**Translation:** 
+
+**[15756.02s] English:** Probably, I'm a bit off since I'm no longer there.  
+**Translation:** 
+
+**[15759.44s] English:** How could I have refused?  
+**Translation:** 
+
+**[15762.10s] English:** How could I have left there?  
+**Translation:** 
+
+**[15764.14s] English:** This was very, very painful to leave.  
+**Translation:** 
+
+**[15768.12s] English:** We can talk about...  
+**Translation:** 
+
+**[15770.68s] English:** I don't know, but in my opinion, Blizzard can't be praised enough.  
+**Translation:** 
+
+**[15773.58s] English:** This is a legendary company.  
+**Translation:** Vocabulary: blizzard: 暴风雪; legendary: 传奇的; praised: 赞扬的
+
+**[15775.72s] English:** Personally, as far as I'm concerned.  
+**Translation:** 
+
+**[15778.78s] English:** According to the opinion of millions, they created some of the greatest games in history.  
+**Translation:** 
+
+**[15782.96s] English:** Warcraft, StarCraft, Diablo, WW2, Overwatch.  
+**Translation:** 
+
+**[15786.80s] English:** What has made the company so legendary, if viewed from a bird's-eye perspective?  
+**Translation:** Vocabulary: diablo: 恶魔之魂; warcraft: 战争艺术
+
+**[15791.82s] English:** All began with Mike, Allen, and Frank.  
+**Translation:** 
+
+**[15796.90s] English:** The company was run by three gamers.  
+**Translation:** 
+
+**[15799.16s] English:** They, all three of them, are programmers.  
+**Translation:** 
+
+**[15802.90s] English:** They created games themselves.  
+**Translation:** Vocabulary: programmers: 程序员
+
+**[15804.66s] English:** They are just leaders.  
+**Translation:** 
+
+**[15806.62s] English:** They understood what each of us goes through as a developer.  
+**Translation:** 
+
+**[15811.84s] English:** And they protected us.  
+**Translation:** 
+
+**[15814.02s] English:** They protected us from all sorts of nonsense.  
+**Translation:** 
+
+**[15818.06s] English:** Even when we had a businessperson join us,  
+**Translation:** 
+
+**[15821.84s] English:** In those early years, they had an operational director named Pol Samms.  
+**Translation:** Vocabulary: businessperson: 商人
+
+**[15825.68s] English:** And even he protected us.  
+**Translation:** 
+
+**[15827.74s] English:** They simply found the right people who understood everything.  
+**Translation:** 
+
+**[15831.30s] English:** When I arrived, the company was 95% French.  
+**Translation:** 
+
+**[15836.64s] English:** Make,  
+**Translation:** 
+
+**[15836.78s] English:** Which worked hard to earn a living.  
+**Translation:** 
+
+**[15839.54s] English:** But this was not as fans.  
+**Translation:** 
+
+**[15840.00s] English:** When I left, it was 50-50, and this in a company of 4,500 people.  
+**Translation:** 
+
+**[15840.52s] English:** They worked with him.  
+**Translation:** 
+
+**[15842.22s] English:** To get to the point as it was.  
+**Translation:** 
+
+**[15843.40s] English:** Because the audience was 2% Advisory Eleven,  
+**Translation:** Vocabulary: advisory: 咨询的
+
+**[15844.62s] English:** The audience was from Dynamite 20.  
+**Translation:** 
+
+**[15846.08s] English:** Her right to scandal is one thing, and simply that the number of developers  
+**Translation:** Vocabulary: dynamite: 炸药; scandal: 丑闻
+
+**[15846.90s] English:** This is a love for games, and respect, and good treatment of developers.  
+**Translation:** 
+
+**[15847.94s] English:** And 5% administrative personnel,  
+**Translation:** 
+
+**[15849.52s] English:** This is a blow to a person who is unharmed,  
+**Translation:** 
+
+**[15854.54s] English:** Made the company the way it was.  
+**Translation:** Vocabulary: unharmed: 未受伤
+
+**[15854.56s] English:** And it likely doesn't speak to intra-company exchange annual experience.  
+**Translation:** 
+
+**[15855.34s] English:** But why not an exchange within the company?  
+**Translation:** 
+
+**[15856.50s] English:** If there is a risk within the company or during David Ravel's business trip,  
+**Translation:** 
+
+**[15857.50s] English:** Pomogut kak omicomplante一点 alonejeniya dannykh,  
+**Translation:** Vocabulary: dannykh: 数据; pomogut: 帮助
+
+**[15858.08s] English:** This striving for perfection, high standards of quality,  
+**Translation:** 
+
+**[15860.02s] English:** And the Templars emerged.  
+**Translation:** Vocabulary: striving: 追求; templars: 圣殿骑士
+
+**[15860.74s] English:** Еще больше популярности на что и чем.  
+**Translation:** 
+
+**[15862.86s] English:** Then finding such passionate people as Chris Matson or Sam Didié.  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[15871.36s] English:** They were visionaries of early Blizzard, just like Alan Adama.  
+**Translation:** 
+
+**[15876.32s] English:** They created worlds in which we still create and play to this day.  
+**Translation:** Vocabulary: blizzard: 暴雪; visionaries: 先驱
+
+**[15883.08s] English:** This charged me and this inspired me.  
+**Translation:** 
+
+**[15887.48s] English:** You wore the blue colors of Blizzard with pride, with a sense of team spirit.  
+**Translation:** 
+
+**[15892.86s] English:** You were proud to be a part of this and felt that you hadn't come here for nothing.  
+**Translation:** 
+
+**[15898.70s] English:** And all that you did was driven by a desire to respect and honor those who were here before you.  
+**Translation:** 
+
+**[15905.48s] English:** I know, it sounds almost trite, but there was really this sense of awe.  
+**Translation:** 
+
+**[15911.10s] English:** You knew that you were part of something special, and you didn't take it for granted.  
+**Translation:** Vocabulary: trite: 陈词滥调
+
+**[15915.28s] English:** I read about it, and I had the same feeling.  
+**Translation:** 
+
+**[15917.88s] English:** All felt a sense of belonging and truly valued that time.  
+**Translation:** 
+
+**[15922.86s] English:** If we talk about specific people as they were, you mentioned Chris Maddson.  
+**Translation:** 
+
+**[15928.70s] English:** You spoke so warmly about many in the team, but I can't help but ask about Chris Maddson.  
+**Translation:** 
+
+**[15933.74s] English:** By the way, I would really like to record a podcast with him someday.  
+**Translation:** 
+
+**[15936.70s] English:** What were the brainstorming sessions like with him?  
+**Translation:** Vocabulary: brainstorming: 头脑风暴
+
+**[15939.74s] English:** It seems like it was something amazing.  
+**Translation:** 
+
+**[15943.74s] English:** They were the best.  
+**Translation:** 
+
+**[15945.74s] English:** It was possible just to enter the room....  
+**Translation:** 
+
+**[15949.74s] English:** That's how Chris and I worked, truly....  
+**Translation:** 
+
+**[15951.74s] English:** ...truly.  
+**Translation:** 
+
+**[15952.70s] English:** But at first, when I was still a beginner, it was simpler.  
+**Translation:** 
+
+**[15955.70s] English:** I just received creative inspirations from him.  
+**Translation:** 
+
+**[15958.70s] English:** Chris, I'm going to sit down...  
+**Translation:** 
+
+**[15960.00s] English:** Locomotion: Western Edge. What do you have in mind to incorporate this into the gameplay? It can't be done that way.  
+**Translation:** 
+
+**[15966.42s] English:** If it's done in that way, and later on, I still remember our first conversation with Chris.  
+**Translation:** Vocabulary: incorporate: 融合; locomotion: 移动
+
+**[15976.62s] English:** The Leech King: I went to his office and said, "Well, finally, we're doing it. We're making the addition.  
+**Translation:** 
+
+**[15982.88s] English:** What in Nordskol inspires you the most, and that was enough; he was there immediately.  
+**Translation:** Vocabulary: inspires: 启发; nordskol: 诺德斯科
+
+**[15992.24s] English:** He started drawing a map, fetching old manuals for the second Warcraft and even the first.  
+**Translation:** 
+
+**[15998.50s] English:** Varkratu showed you the art they drew themselves, different maps, and he could talk about this.  
+**Translation:** Vocabulary: fetching: 取来; manuals: 手册; warcraft: 魔兽
+
+**[16006.70s] English:** Hours without pause, and I just absorbed it all, simply listening constantly.  
+**Translation:** 
+
+**[16012.86s] English:** He constantly filmed his boards, then went back to himself and started overlaying everything.  
+**Translation:** Vocabulary: overlaying: 叠加
+
+**[16020.92s] English:** In game design, so from this will be a location that will be a dungeon, that would be cool, that should.  
+**Translation:** 
+
+**[16027.00s] English:** To be at the beginning, but what about at the end? For example, in Leech King, we wanted to make some changes to solve  
+**Translation:** Vocabulary: dungeon: 地下城; leech: 吸血鬼
+
+**[16032.00s] English:** Problem from Burning Crusade where everyone fell into the Infernal Flame Peninsula through the Dark Portal.  
+**Translation:** 
+
+**[16038.58s] English:** Servers hate you for that, after all, players log in simultaneously.  
+**Translation:** Vocabulary: crusade: 圣战; infernal: 地狱的; peninsula: 半岛
+
+**[16042.84s] English:** In one and the same location in Leech King, we split them to distribute player traffic, plus...  
+**Translation:** 
+
+**[16048.76s] English:** What the more choices, the better," Meyer said. "Games in this series offer interesting choices, and we gave them that.  
+**Translation:** 
+
+**[16054.66s] English:** Two start-up zones: that's how we worked with Chris, and very often, for example on the first meeting, Chris  
+**Translation:** 
+
+**[16063.12s] English:** Nabosha on the board a location with gray hills, and I know nothing about them. Chris, tell me about the gray hills.  
+**Translation:** Vocabulary: nabosha: 纳博沙
+
+**[16072.84s] English:** If he was not interrupted, he could speak for an hour non-stop and never  
+**Translation:** 
+
+**[16080.00s] English:** You'll understand which exact part he planned in advance, and which  
+**Translation:** 
+
+**[16083.76s] English:** Already been in the old lore, or what he simply fabricated.  
+**Translation:** 
+
+**[16088.20s] English:** On the go.  
+**Translation:** Vocabulary: fabricated: 虚构的
+
+**[16089.20s] English:** Simply, he is so charismatic and charming.  
+**Translation:** 
+
+**[16094.32s] English:** Creating these worlds and having the ability to discuss them together,  
+**Translation:** Vocabulary: charismatic: 有魅力的; charming: 讨人喜欢的
+
+**[16098.22s] English:** You do that, don't you.  
+**Translation:** 
+
+**[16100.06s] English:** As a player, you perceive these worlds as given.  
+**Translation:** Vocabulary: perceive: 感知
+
+**[16104.24s] English:** They are incredible, but after all, you create them.  
+**Translation:** 
+
+**[16108.16s] English:** You start from scratch and together you come up with everything.  
+**Translation:** Vocabulary: scratch: 从头开始
+
+**[16113.08s] English:** My task in working with Chris, I saw it as follows.  
+**Translation:** 
+
+**[16117.70s] English:** Specifically in World of Warcraft, when we worked with it,  
+**Translation:** Vocabulary: warcraft: 战争艺术
+
+**[16120.74s] English:** I was, in a sense, a translator of his ideas into the language of gameplay.  
+**Translation:** 
+
+**[16126.68s] English:** To make the game feel as he envisioned it.  
+**Translation:** Vocabulary: translator: 转换者
+
+**[16129.48s] English:** My favorite story, we are working on the BK, sitting on  
+**Translation:** 
+
+**[16132.92s] English:** At the meeting, Chris says, and he is the kindest, mildest person.  
+**Translation:** Vocabulary: mildest: 最温和的
+
+**[16137.68s] English:** Guy.  
+**Translation:** 
+
+**[16138.14s] English:** But he holds himself with such confidence.  
+**Translation:** 
+
+**[16140.90s] English:** And everyone admires them so much that even the junior developers  
+**Translation:** 
+
+**[16143.96s] English:** He is a bit intimidating.  
+**Translation:** Vocabulary: intimidating: 令人畏惧的
+
+**[16147.40s] English:** Here we are at the meeting, discussing the moonlight because we're introducing  
+**Translation:** 
+
+**[16150.90s] English:** Elf in the blood, and Chris will be the most shining under the moonlight.  
+**Translation:** Vocabulary: moonlight: 月光
+
+**[16156.12s] English:** Blyat', that's a tall tower in all of Azeroth.  
+**Translation:** 
+
+**[16159.42s] English:** The highest nonsense.  
+**Translation:** Vocabulary: azeroth: 艾泽拉斯
+
+**[16161.94s] English:** She should tear off the roof, evoke trembling, only elves  
+**Translation:** 
+
+**[16165.46s] English:** Blood could have built her.  
+**Translation:** Vocabulary: elves: 精灵; evoke: 引起; trembling: 颤抖
+
+**[16168.14s] English:** We'll see that she sets a low goal, from 0 to 100.  
+**Translation:** 
+
+**[16171.06s] English:** Smoke below and in front.  
+**Translation:** 
+
+**[16172.12s] English:** We are looking ahead a couple of weeks.  
+**Translation:** 
+
+**[16173.12s] English:** I am walking down the corridor and see the level designers.  
+**Translation:** Vocabulary: corridor: 过道; designers: 设计师
+
+**[16174.12s] English:** And artists gathered around the screen, where they placed  
+**Translation:** 
+
+**[16177.82s] English:** Nearby is a black mountain, Carazan Castle, and Stormwind Cathedral.  
+**Translation:** Vocabulary: carazan: 卡拉赞城堡; cathedral: 大教堂; stormwind: 风暴之地 Cathedral
+
+**[16184.34s] English:** What are you doing here?  
+**Translation:** 
+
+**[16187.66s] English:** They told me, Chris said, that the Tower of Light should  
+**Translation:** 
+
+**[16191.30s] English:** To be the tallest building in World of Warcraft.  
+**Translation:** 
+
+**[16195.10s] English:** Where are you guys?  
+**Translation:** 
+
+**[16196.14s] English:** Chris says.  
+**Translation:** 
+
+**[16197.14s] English:** What are their goals then?  
+**Translation:** 
+
+**[16198.14s] English:** of all these other buildings.  
+**Translation:** 
+
+**[16200.00s] English:** To make the tower taller.  
+**Translation:** 
+
+**[16204.06s] English:** I'll just tell them, guys,...  
+**Translation:** 
+
+**[16206.80s] English:** Da, Chris, generally have no idea what height the building in the burning steppe is.  
+**Translation:** 
+
+**[16212.80s] English:** Or the same cathedral in Stormwind.  
+**Translation:** 
+
+**[16215.50s] English:** Yes.  
+**Translation:** 
+
+**[16215.98s] English:** He simply wanted to say that the tower should be incredibly high.  
+**Translation:** 
+
+**[16220.72s] English:** You don't need to measure anything.  
+**Translation:** 
+
+**[16222.30s] English:** They, you know, why can you do that?  
+**Translation:** 
+
+**[16224.10s] English:** So you'll cover for us if anything happens?  
+**Translation:** 
+
+**[16226.12s] English:** I respond, yeah, guys, I'll cover you if needed.  
+**Translation:** 
+
+**[16229.42s] English:** Yes, it's just a feeling, vibe.  
+**Translation:** 
+
+**[16232.40s] English:** This vibe.  
+**Translation:** 
+
+**[16233.06s] English:** Yes.  
+**Translation:** 
+
+**[16235.44s] English:** And I also want to confess to immense love for the current Diablo 4 team,  
+**Translation:** 
+
+**[16242.60s] English:** Because out of Blizzard's latest games, I've played Diablo the most.  
+**Translation:** 
+
+**[16249.38s] English:** Do keep in mind that it's not just about loot, understand?  
+**Translation:** 
+
+**[16252.20s] English:** In all, the atmosphere, the art, everything together.  
+**Translation:** 
+
+**[16255.20s] English:** And, of course, the seasons have created a beautiful world, so...  
+**Translation:** 
+
+**[16259.06s] English:** I...  
+**Translation:** 
+
+**[16259.42s] English:** I see and feel how much effort has been put into this.  
+**Translation:** 
+
+**[16262.84s] English:** Yes, they burn.  
+**Translation:** 
+
+**[16264.30s] English:** I believe that the world in Diablo 4 is one of the best they have ever created.  
+**Translation:** 
+
+**[16270.10s] English:** They know, they feel the players of Diablo.  
+**Translation:** Vocabulary: diablo: 恶魔之魂
+
+**[16274.02s] English:** This is a very harsh and demanding community.  
+**Translation:** 
+
+**[16278.74s] English:** But they have a fantastic team.  
+**Translation:** Vocabulary: demanding: 苛求的
+
+**[16280.96s] English:** Yes, there's so much in it, and there is this...  
+**Translation:** 
+
+**[16284.00s] English:** I don't know how often you encounter such a game in the series, but this is an ideal one.  
+**Translation:** Vocabulary: encounter: 遇到
+
+**[16287.44s] English:** They strongly...  
+**Translation:** 
+
+**[16288.44s] English:** Nu....  
+**Translation:** 
+
+**[16289.10s] English:** Evolved and grew.  
+**Translation:** 
+
+**[16291.34s] English:** In the game, there is a whole mathematical basis.  
+**Translation:** Vocabulary: evolved: 进化; mathematical: 数学的
+
+**[16294.70s] English:** With a bunch of numbers, and all of this is masterfully balanced.  
+**Translation:** 
+
+**[16299.46s] English:** Sure, here is the improved sentence with natural English punctuation and capitalization: Keep in mind that besides this, we also need to come up with new content for seasons.  
+**Translation:** Vocabulary: balanced: 均衡; capitalization: 大写; masterfully: 精湛地
+
+**[16303.48s] English:** And they manage to do it in a very crazy tempo.  
+**Translation:** 
+
+**[16308.86s] English:** And it still turns out very cool.  
+**Translation:** Vocabulary: tempo: 速度
+
+**[16311.00s] English:** They have an excellent support team.  
+**Translation:** 
+
+**[16312.82s] English:** Here is the transcript with natural English punctuation and capitalization: Keep in mind, as I've said before, a couch coop, this...  
+**Translation:** Vocabulary: transcript: 录音文本
+
+**[16317.48s] English:** This aspect is simply magnificent.  
+**Translation:** 
+
+**[16319.10s] English:** Da, and in general, that's all.  
+**Translation:** 
+
+**[16319.98s] English:** To be continued...  
+**Translation:** 
+
+**[16320.00s] English:** This is one of the greatest games of recent times.  
+**Translation:** 
+
+**[16323.62s] English:** And here is what I wanted to note, because this is very strong fame.  
+**Translation:** 
+
+**[16328.62s] English:** Instead of some corporate farewell when you left Blizzard,  
+**Translation:** Vocabulary: blizzard: 暴雪
+
+**[16335.62s] English:** You, as they say, showed your team a video with David Bowie's advice.  
+**Translation:** 
+
+**[16340.16s] English:** People should watch this.  
+**Translation:** 
+
+**[16342.16s] English:** But with your permission, I will read aloud.  
+**Translation:** 
+
+**[16344.70s] English:** Boyle says, "never work for the public.  
+**Translation:** Vocabulary: boyle: 波利
+
+**[16347.90s] English:** Always remember why you started creating in the first place.  
+**Translation:** 
+
+**[16351.98s] English:** Because there was something inside you that you could feel,  
+**Translation:** 
+
+**[16356.40s] English:** What if you can express it, you'll better understand yourself and your place in the world.  
+**Translation:** 
+
+**[16362.92s] English:** I think it's terribly dangerous for a creator to try to meet the expectations of others.  
+**Translation:** 
+
+**[16368.10s] English:** It seems that even the worst works are born this way.  
+**Translation:** 
+
+**[16371.78s] English:** And I would add one more thing.  
+**Translation:** 
+
+**[16373.98s] English:** If you feel safe in your work,  
+**Translation:** 
+
+**[16377.20s] English:** Meaning, you are not in your place.  
+**Translation:** 
+
+**[16379.08s] English:** Always go into the water a bit deeper than you currently dare.  
+**Translation:** 
+
+**[16385.14s] English:** Go deeper.  
+**Translation:** 
+
+**[16387.32s] English:** When you feel that your feet no longer touch the bottom,  
+**Translation:** 
+
+**[16391.06s] English:** You are just where you can create something amazing.  
+**Translation:** 
+
+**[16395.40s] English:** By the way, you are just in the perfect place to create something amazing.  
+**Translation:** 
+
+**[16403.52s] English:** After leaving Blizzard,  
+**Translation:** 
+
+**[16407.20s] English:** You said you tried to take a vacation.  
+**Translation:** 
+
+**[16411.80s] English:** How did he pass?  
+**Translation:** 
+
+**[16414.26s] English:** Nu, not very.  
+**Translation:** 
+
+**[16415.90s] English:** My wife, she is wonderful,  
+**Translation:** 
+
+**[16418.80s] English:** She said that I need a vacation for at least a year.  
+**Translation:** 
+
+**[16422.36s] English:** Do you know, I worked very hard.  
+**Translation:** 
+
+**[16424.76s] English:** 19 years I have almost never taken a vacation.  
+**Translation:** 
+
+**[16429.62s] English:** I allowed Blizzard to completely consume me.  
+**Translation:** Vocabulary: blizzard: 暴风雪
+
+**[16434.02s] English:** Do you know, leaving took me apart because I loved it so much.  
+**Translation:** 
+
+**[16437.20s] English:** This is my first place.  
+**Translation:** 
+
+**[16438.84s] English:** And...  
+**Translation:** 
+
+**[16440.00s] English:** I didn't know what to do.  
+**Translation:** 
+
+**[16443.38s] English:** I pulled weeds in the backyard.  
+**Translation:** 
+
+**[16446.16s] English:** Literally, gardening.  
+**Translation:** Vocabulary: backyard: 后院; gardening: 园艺
+
+**[16447.38s] English:** Yes, but she doesn't let me in the garden because it's her...  
+**Translation:** 
+
+**[16451.32s] English:** Yes.  
+**Translation:** 
+
+**[16451.80s] English:** But weeds can be pulled.  
+**Translation:** 
+
+**[16453.30s] English:** Correct.  
+**Translation:** 
+
+**[16453.98s] English:** So in this, I've become quite skilled, a true master.  
+**Translation:** 
+
+**[16457.30s] English:** Then, what is funniest of all, I got hooked on Call of Duty Black Ops Cold War.  
+**Translation:** Vocabulary: hooked: 上瘾; skilled: 熟练
+
+**[16462.58s] English:** He picked up the camo "Dark Matter".  
+**Translation:** 
+
+**[16465.64s] English:** This is a crazy achievement in this game.  
+**Translation:** 
+
+**[16468.74s] English:** In general, I did it and then just...  
+**Translation:** 
+
+**[16472.68s] English:** I simply couldn't stop, I'm just that way.  
+**Translation:** 
+
+**[16476.36s] English:** This was the end of spring, beginning of summer.  
+**Translation:** 
+
+**[16479.60s] English:** And I just sat in the backyard.  
+**Translation:** 
+
+**[16481.60s] English:** And he began writing in his notebook about it,  
+**Translation:** 
+
+**[16487.82s] English:** What game do I want to make.  
+**Translation:** 
+
+**[16489.80s] English:** And this was so terrifying,  
+**Translation:** 
+
+**[16492.58s] English:** Because...  
+**Translation:** Vocabulary: terrifying: 恐怖的
+
+**[16494.72s] English:** 19 years I worked with what I considered to be the best developers,  
+**Translation:** 
+
+**[16498.74s] English:** In the industry.  
+**Translation:** 
+
+**[16501.48s] English:** And...  
+**Translation:** 
+
+**[16502.00s] English:** Knows, there used to be as I said,  
+**Translation:** 
+
+**[16504.34s] English:** Okay, I want to make a world map.  
+**Translation:** 
+
+**[16506.78s] English:** I said, "Hey Erin, you draw maps so amazingly, will you do it?  
+**Translation:** 
+
+**[16512.38s] English:** Or, for example, "I need a couple of plot twists, hey, Chris,  
+**Translation:** 
+
+**[16515.80s] English:** What do you think will be cool here?  
+**Translation:** Vocabulary: twists: 情节转折
+
+**[16518.70s] English:** This was a team effort, I was surrounded by the best of the best,  
+**Translation:** 
+
+**[16522.28s] English:** And then I was left alone.  
+**Translation:** 
+
+**[16526.10s] English:** I was again on my own,  
+**Translation:** 
+
+**[16527.82s] English:** And it's incredibly...  
+**Translation:** 
+
+**[16528.74s] English:** This restored all the joy of creativity.  
+**Translation:** 
+
+**[16533.50s] English:** I thought that games wouldn't be as fun anymore.  
+**Translation:** 
+
+**[16535.94s] English:** Because everything has turned into a business,  
+**Translation:** 
+
+**[16538.48s] English:** Where constantly demand impossible amounts of money from me?  
+**Translation:** 
+
+**[16541.02s] English:** Or some unimaginable deadlines.  
+**Translation:** 
+
+**[16544.70s] English:** I forgot this pure joy of craftsmanship.  
+**Translation:** Vocabulary: craftsmanship: 手工艺; deadlines: 截止日期; unimaginable: 难以想象的
+
+**[16547.80s] English:** Kайф от разработки,  
+**Translation:** 
+
+**[16550.26s] English:** And...  
+**Translation:** 
+
+**[16551.38s] English:** I worked on design,  
+**Translation:** 
+
+**[16553.32s] English:** Watched videos on YouTube,  
+**Translation:** 
+
+**[16555.06s] English:** To study...  
+**Translation:** 
+
+**[16556.92s] English:** Unreal, Adobe, and Lustre,  
+**Translation:** Vocabulary: lustre: 光泽
+
+**[16558.74s] English:** And that's everything else.  
+**Translation:** 
+
+**[16560.00s] English:** The rest, that would help me make games, even a blender. I wasn't allowed to do it.  
+**Translation:** Vocabulary: blender: 搅拌机
+
+**[16567.32s] English:** But doing it was a tremendous feeling. And I can say that I came to two conclusions. First,  
+**Translation:** 
+
+**[16577.02s] English:** I don't want to work for anyone anymore. I don't want to create something only for it to be taken from me later.  
+**Translation:** 
+
+**[16584.72s] English:** Your creation. Understand that this is very hard when such things happen. And it has happened more than once.  
+**Translation:** 
+
+**[16592.32s] English:** When it came to letting go of what I had created, and I wanted to focus specifically on the craft itself.  
+**Translation:** 
+
+**[16602.28s] English:** Creation of games. On art, code, design, sound. Not on all this bullshit from the gaming industry. Me  
+**Translation:** 
+
+**[16613.04s] English:** The gaming industry does not interest her.  
+**Translation:** 
+
+**[16614.72s] English:** Me neither are they of interest to me. Only  
+**Translation:** 
+
+**[16622.94s] English:** Game jams. Creating something we'll all play together. And roughly at the same time,  
+**Translation:** 
+
+**[16633.98s] English:** The programmer Tim Ford, whom I call my soulmate in development,  
+**Translation:** 
+
+**[16640.38s] English:** He contacted me and said, "Listen," at that time,  
+**Translation:** Vocabulary: programmer: 程序员; soulmate: 灵魂伴侣
+
+**[16644.72s] English:** Assistant of the Technical Director of Overwatch. And he says, yes, I can't do this anymore. Everything is already not.  
+**Translation:** 
+
+**[16652.42s] English:** So, as before. And he adds, "I just got fired." And I said, "Oh, well, if you want to do something  
+**Translation:** 
+
+**[16661.70s] English:** To make it together, hell with everything else. Let's give it a try. And let's see what we get. And Tim came to me.  
+**Translation:** 
+
+**[16670.90s] English:** Home. And... He had already done this...  
+**Translation:** 
+
+**[16674.72s] English:** He says, my last day is Friday. And I'm such that at one o'clock, I have internet exit.  
+**Translation:** 
+
+**[16680.00s] English:** Я часа в два дня уже буду у тебя дома." A I said to him, "Tim, don't you think you should maybe take a little break?  
+**Translation:** 
+
+**[16688.82s] English:** Should you take a break before tackling something new? Take a month's vacation. Meg, your wife would  
+**Translation:** 
+
+**[16695.54s] English:** Oценит, понимаешь? Пойди хоть сорняки в саду выдергивай». А он такой: "Я программист,  
+**Translation:** Vocabulary: tackling: 应对
+
+**[16703.58s] English:** If I take a month off, I will code the entire month, so I might as well not take the vacation.  
+**Translation:** 
+
+**[16709.82s] English:** Let's start coding our game." This was cool when he said it. He came in, and I outlined it for him.  
+**Translation:** Vocabulary: outlined: 概述
+
+**[16717.32s] English:** Here is the transcript with natural English punctuation and capitalization: Svoyu ideyu igry i predlozhil "Davay sozdaim kompaniyu." I eto vse. Tak i rodstvasheya nasha.  
+**Translation:** 
+
+**[16727.40s] English:** Joint studio. At this time, for the rest of the world, you seemed to have vanished from the face of the earth.  
+**Translation:** Vocabulary: capitalization: 大写; kompaniyu: 公司; predlozhil: 提出; rodstvasheya: 亲戚; sozdaim: 创建; transcript: 录音
+
+**[16735.44s] English:** Although I actually made the game. Yes.  
+**Translation:** 
+
+**[16739.28s] English:** Yes. Yes.  
+**Translation:** 
+
+**[16739.80s] English:** I needed to distance myself from the world. I needed to avoid... I didn't want to attract...  
+**Translation:** 
+
+**[16748.38s] English:** No attention at all. Not even on Reddit or any other websites. I didn't want my name anywhere online.  
+**Translation:** 
+
+**[16755.16s] English:** In the internet. I wanted my name to simply disappear. For some other Jeff Kaplan to exist.  
+**Translation:** 
+
+**[16761.82s] English:** Increased our ranking higher in Google search results. You know, our friend Dina Flaks.  
+**Translation:** Vocabulary: kaplan: 卡普兰
+
+**[16767.36s] English:** Will keep hold of this conversation, right? Yes.  
+**Translation:** 
+
+**[16769.26s] English:** Oh, God. Well, yes, this conversation will keep him busy for a while—I suppose what now?  
+**Translation:** 
+
+**[16772.64s] English:** But yes, it needed to be... Do you know what to do?  
+**Translation:** 
+
+**[16775.96s] English:** I needed there to be none of this. I simply needed to mourn leaving Blizzard. And  
+**Translation:** Vocabulary: blizzard: 暴雪
+
+**[16782.56s] English:** To create a natural English version, we can translate and punctuate it as follows: "To create peace within myself, everything was perfect. And then, as soon as they announced that I was leaving Blizzard,  
+**Translation:** 
+
+**[16790.50s] English:** Sixty people contacted me. There were no full Palecasts.  
+**Translation:** Vocabulary: punctuate: 标点符号
+
+**[16794.12s] English:** I understand Quart UKCA and the third Johnsons, oh, April 2021. And with investments,  
+**Translation:** 
+
+**[16799.26s] English:** Then there was chaos.  
+**Translation:** Vocabulary: investments: 投资; quart: 四分之一
+
+**[16800.00s] English:** It is madness, whether with venture capital or strategic investments, simply madness,  
+**Translation:** 
+
+**[16807.74s] English:** Especially for Chinese companies, because it seems they were not given licenses to publish in China.  
+**Translation:** Vocabulary: madness: 疯狂; venture: 冒险
+
+**[16815.06s] English:** In the economy, everything was on edge, and everyone simply tried to flood me with money. This was  
+**Translation:** 
+
+**[16823.22s] English:** A great starting position for founding a company. And Tim and I decided to do this not for the money.  
+**Translation:** Vocabulary: founding: 创立公司
+
+**[16832.60s] English:** Here is the game we want to make, and it will require that many developers, we think.  
+**Translation:** 
+
+**[16839.12s] English:** This will take so much time and means the budget is going to be like this. And we told the people that,  
+**Translation:** 
+
+**[16845.40s] English:** They wanted to invest in us, that we need this amount of money, but we will not be attracting more funds than that.  
+**Translation:** 
+
+**[16851.24s] English:** This is not an auction.  
+**Translation:** Vocabulary: attracting: 吸引; auction: 拍卖
 
 **[16852.96s] English:** —  
 **Translation:** 
 
-**[16853.20s] English:** , где мы пытаемся получить максимум, мы хотим сохранить контроль.  
+**[16853.20s] English:** , where we are trying to get the maximum, we want to maintain control.  
 **Translation:** 
 
-**[16858.00s] English:** — Не знаю, можешь ли ты об этом говорить, но я пару часов поиграл в вашу игру и должен сказать,  
+**[16858.00s] English:** —I don't know if you can talk about this, but I played your game for a couple of hours and I have to say,  
 **Translation:** 
 
-**[16867.90s] English:** Джефф, это просто невероятно. Я почти сразу влюбился в этот мир и во все, что увидел. Так и тянет  
+**[16867.90s] English:** Jeff, this is simply incredible. I fell in love with this world and everything I saw almost immediately. It just pulls you in.  
 **Translation:** 
 
-**[16876.24s] English:** рассказать о кое-каких вещах, но игра просто невероятная. Что ты можешь о ней рассказать?  
+**[16876.24s] English:** Tell me about some things, but the game is just incredible. What can you tell me about it?  
 **Translation:** 
 
-**[16882.10s] English:** — Название уже  
+**[16882.10s] English:** — Title already  
 **Translation:** 
 
-**[16882.94s] English:** — Название уже  
+**[16882.94s] English:** — Title already  
 **Translation:** 
 
-**[16883.18s] English:** — Название уже есть, расскажи об этом, расскажи о компании, об этом можно вообще говорить?  
+**[16883.18s] English:** — The name is already there. Tell me about it. Tell me about the company. Can we talk about this in general?  
 **Translation:** 
 
-**[16887.50s] English:** — Конечно, пожалуй, это самый нетрадиционный способ сделать анонс. Итак, наша компания  
+**[16887.50s] English:** Of course, I suppose this is the most non-traditional way to make an announcement. So, our company...  
 **Translation:** 
 
-**[16894.38s] English:** называется Кинцуги Яма, и большинству, наверное, будет сложно это выговорить.  
+**[16894.38s] English:** Called Kinzugi Yamá, and most people, I'm sure, will find it difficult to pronounce.  
+**Translation:** Vocabulary: kinzugi: 金御二神
+
+**[16899.20s] English:** — Cool.  
 **Translation:** 
 
-**[16899.20s] English:** — Круто.  
+**[16899.50s] English:** — This name has a deep meaning for me, and I would be happy to explain it later if you're interested.  
 **Translation:** 
 
-**[16899.50s] English:** — У этого названия для меня глубокий смысл, и я с радостью объясню его позже, если интересно.  
+**[16905.30s] English:** The game we are making is called The Legend of the Dead.  
 **Translation:** 
 
-**[16905.30s] English:** А игра, которую мы делаем, называется The Legend of the Legend of the Dead.  
-**Translation:** 
-
-**[16913.16s] English:** Она называется Version of California, и это игра с открытым миром. Ее наверняка назовут выживачем где-то  
+**[16913.16s] English:** It's called Version of California, and it's an open-world game. It will likely be referred to as a survival game somewhere.  
 **Translation:** Vocabulary: california: 加利福尼亚
 
-**[16920.00s] English:** через несколько летосредн 500 лет.  
+**[16920.00s] English:** Over several thousand years, on average 500 years.  
 **Translation:** 
 
-**[16921.92s] English:** Из оранжевых schwer east вроде ashley's ужесточенной времен и  
+**[16920.00s] English:** With crafting elements.  
+**Translation:** Vocabulary: crafting: 手工制作
+
+**[16921.92s] English:** From orange Schwert East, it seems like Ashley's became stricter in time.  
 **Translation:** 
 
-**[16920.00s] English:** С элементами крафтинга.  
+**[16922.22s] English:** People love putting labels on others.  
+**Translation:** Vocabulary: labels: 标签
+
+**[16924.30s] English:** But I consider it an action.  
 **Translation:** 
 
-**[16922.22s] English:** Люди любят вешать ярлыки.  
+**[16926.58s] English:** This is a game whose action unfolds on a mythical island called California.  
+**Translation:** Vocabulary: mythical: 传说中的; unfolds: 展开
+
+**[16931.86s] English:** In the 1800s.  
 **Translation:** 
 
-**[16924.30s] English:** Но я считаю, что это экшен.  
+**[16934.28s] English:** During the Gold Rush.  
 **Translation:** 
 
-**[16926.58s] English:** Это игра, действие которой разворачивается на мифическом острове Калифорния.  
+**[16936.30s] English:** If trying to determine a key period in California's history, of course it would have to be the Gold Rush.  
 **Translation:** 
 
-**[16931.86s] English:** В 1800-х.  
+**[16943.12s] English:** So this is a beautiful, almost ultra-realistic version of California, but the action takes place in an alternative history.  
 **Translation:** 
 
-**[16934.28s] English:** Во времена Золотой Лихорадки.  
+**[16951.56s] English:** Yes.  
 **Translation:** 
 
-**[16936.30s] English:** Если пытаться определить ключевой период в истории Калифорнии, то это, конечно же, Золотая Лихорадка.  
+**[16951.90s] English:** Where she is an island in herself, almost like Atlantis.  
 **Translation:** 
 
-**[16943.12s] English:** То есть это такая красивая, почти ультрареалистичная версия Калифорнии, но действие происходит в альтернативной истории.  
+**[16956.30s] English:** An unearthly island, but very realistic in terms of California landscape.  
 **Translation:** 
 
-**[16951.56s] English:** Да.  
+**[16962.16s] English:** All correct.  
 **Translation:** 
 
-**[16951.90s] English:** Где она является собой остров, почти как Атлантида.  
+**[16962.72s] English:** Of that epoch.  
 **Translation:** 
 
-**[16956.30s] English:** Неземной остров, но при этом очень реалистичный в плане калифорнийского ландшафта.  
+**[16963.90s] English:** And this creates such a strange combination of ultra-realism and surrealism.  
+**Translation:** Vocabulary: epoch: 时代; surrealism: 超现实主义
+
+**[16970.44s] English:** The setting in the game is very strange.  
 **Translation:** 
 
-**[16962.16s] English:** Все верно.  
+**[16972.46s] English:** We do not try to...  
 **Translation:** 
 
-**[16962.72s] English:** И той эпохи.  
+**[16973.12s] English:** We do not try to make a historical game.  
 **Translation:** 
 
-**[16963.90s] English:** И это создает такое странное сочетание ультрареализма и сюрреализма.  
+**[16975.10s] English:** There is no historical accuracy in it.  
 **Translation:** 
 
-**[16970.44s] English:** Сеттинг у игры очень странный.  
+**[16977.74s] English:** In fact, when the island is first discovered, it is uninhabited.  
 **Translation:** 
 
-**[16972.46s] English:** Мы не пытаемся...  
+**[16982.16s] English:** This is already going against the grain.  
+**Translation:** Vocabulary: uninhabited: 无人居住的
+
+**[16983.98s] English:** We know that many people lived in California.  
 **Translation:** 
 
-**[16973.12s] English:** Мы не пытаемся сделать историческую игру.  
+**[16987.20s] English:** Moreover, it's an island, and there's a discrepancy there as well.  
+**Translation:** Vocabulary: discrepancy: 不一致
+
+**[16990.74s] English:** We just want the game to convey the spirit of that era because it's already pretty awesome on its own.  
 **Translation:** 
 
-**[16975.10s] English:** Никакой исторической точности в ней нет.  
+**[16997.16s] English:** Gold prospectors, you know, cowboys.  
+**Translation:** Vocabulary: cowboys: 牛仔; prospectors: 淘金者
+
+**[16999.78s] English:** And we are wildly interested in all of this to investigate.  
 **Translation:** 
 
-**[16977.74s] English:** На самом деле, когда остров впервые обнаруживают, он необитаем.  
+**[17002.46s] English:** In principle.  
 **Translation:** 
 
-**[16982.16s] English:** Это уже идет в разрез.  
+**[17003.12s] English:** All these images, of people in mines.  
 **Translation:** 
 
-**[16983.98s] English:** Мы ведь знаем, что в Калифорнии жило много людей.  
+**[17006.56s] English:** We want to build mines.  
 **Translation:** 
 
-**[16987.20s] English:** К тому же это остров, и тут тоже расхождение.  
+**[17008.82s] English:** We simply want to create a world in which one could live.  
 **Translation:** 
 
-**[16990.74s] English:** Мы просто хотим, чтобы игра передавала дух той эпохи, потому что сама по себе она очень крутая.  
+**[17012.58s] English:** I love creating worlds.  
 **Translation:** 
 
-**[16997.16s] English:** Золотоискатели, знаете ли, ковбои.  
+**[17015.10s] English:** All of what I worked on, from World of Warcraft to Overwatch,  
 **Translation:** 
 
-**[16999.78s] English:** И нам дико интересно все это исследовать.  
-**Translation:** 
-
-**[17002.46s] English:** В принципе.  
-**Translation:** 
-
-**[17003.12s] English:** Все эти образы, людей в шахтах.  
-**Translation:** 
-
-**[17006.56s] English:** Мы хотим строить шахты.  
-**Translation:** 
-
-**[17008.82s] English:** Мы просто хотим создать мир, в котором можно было бы жить.  
-**Translation:** 
-
-**[17012.58s] English:** Я обожаю создавать миры.  
-**Translation:** 
-
-**[17015.10s] English:** Все, над чем я работал, начиная от World of Warcraft до Overwatch,  
-**Translation:** 
-
-**[17019.70s] English:** все сводилось к одному.  
+**[17019.70s] English:** It all boiled down to one thing.  
 **Translation:** Vocabulary: warcraft: 魔兽世界
 
-**[17021.04s] English:** Как создать для игроков место, куда они могут сбежать.  
+**[17021.04s] English:** How can we create a place for players to escape to.  
 **Translation:** 
 
-**[17025.36s] English:** То есть это сетевая многопользовательская игра.  
+**[17025.36s] English:** That is a network-based multiplayer game.  
 **Translation:** 
 
-**[17028.42s] English:** Но ощущается она великолепна.  
+**[17028.42s] English:** But it feels magnificent.  
 **Translation:** 
 
-**[17031.20s] English:** И музыка прекрасная.  
+**[17031.20s] English:** And the music is beautiful.  
 **Translation:** 
 
-**[17033.12s] English:** Рад, что тебе понравилось.  
+**[17033.12s] English:** I'm glad you liked it.  
 **Translation:** 
 
-**[17034.66s] English:** А одно из моих любимых занятий — спускаться в шахту и копать.  
+**[17034.66s] English:** One of my favorite activities is descending into a mine and digging.  
+**Translation:** Vocabulary: descending: 下井
+
+**[17038.28s] English:** This is implemented simply.  
+**Translation:** 
+
+**[17040.00s] English:** Simply superb. And, as you already mentioned, the world is completely voxel-based, that is, it is procedurally generated.  
+**Translation:** Vocabulary: implemented: 实现; procedurally: 程序生成; superb: 极好
+
+**[17046.74s] English:** Generated. Explain how it works. Yes, the world itself is manually created, so,  
+**Translation:** 
+
+**[17052.08s] English:** For example, the outline of California is always recognizable, just that it's an island, so no Nevada there.  
+**Translation:** Vocabulary: california: 加利福尼亚; nevada: 内华达; outline: 轮廓; recognizable: 辨认得出
+
+**[17059.12s] English:** In the east, there is none. All of this we did manually and it looks magnificent. And such places as Yosemite,  
+**Translation:** 
+
+**[17067.72s] English:** They are where they should be. All other symbolic places are in their proper place, but there are and dozens  
+**Translation:** Vocabulary: symbolic: 象征性的; yosemite: 约塞米蒂
+
+**[17075.90s] English:** Other points of interest, and their position on the map depends on the side of this world. Maps also divide into  
+**Translation:** 
+
+**[17086.10s] English:** Zones by difficulty. In our game, there are no actual levels; instead, there are tiers. Currently, there are four tiers.  
+**Translation:** Vocabulary: tiers: 等级
+
+**[17093.48s] English:** But this may change.  
+**Translation:** 
+
+**[17094.84s] English:** But  
+**Translation:** 
+
+**[17097.72s] English:** The location of these nodes on the map changes with each new world node. So on any server,  
+**Translation:** 
+
+**[17105.22s] English:** Where you go in will have its own bar, and the arcades will be located differently. For example,  
+**Translation:** Vocabulary: arcades: 街机厅
+
+**[17111.72s] English:** Mohava may be a starting zone for newcomers on your server, while on my server, this is already  
+**Translation:** 
+
+**[17118.04s] English:** Endgame, Zone 4Tir. But our main points of interest will also be moving. For example,  
+**Translation:** Vocabulary: endgame: 终局; newcomers: 新手
+
+**[17127.34s] English:** We have a network that will be located on the map, and it will be located on the map. And we will be  
+**Translation:** 
+
+**[17127.70s] English:** To work on this.  
 **Translation:** 
 
-**[17038.28s] English:** Это реализовано просто.  
+**[17128.70s] English:** We have a fantastic point of interest called Dread Rock, inspired by Alcatraz. And yes,  
 **Translation:** 
 
-**[17040.00s] English:** просто превосходно. И, как ты уже упоминал, мир полностью воксельный, то есть он процедурно  
+**[17133.52s] English:** Sometimes she is in San Francisco, and sometimes she might be amidst the Mojave Desert.  
+**Translation:** Vocabulary: alcatraz: 阿尔卡特洛兹; amidst: 在……之中; mojave: 莫哈韦
+
+**[17138.94s] English:** So, it organically fits into any environment.  
+**Translation:** 
+
+**[17144.14s] English:** Yes.  
+**Translation:** Vocabulary: organically: 自然地
+
+**[17145.20s] English:** As you said before, in many ways the world is created by sound and lighting.  
 **Translation:** 
 
-**[17046.74s] English:** генерируемый. Объясни, как это работает. Да, сам мир мы создали вручную, так что,  
+**[17152.96s] English:** Yes.  
+**Translation:** Vocabulary: lighting: 照明
+
+**[17153.62s] English:** And this is one of those things that I noticed.  
 **Translation:** 
 
-**[17052.08s] English:** например, очертания Калифорнии всегда узнаваемы, просто это остров, так что никакой Невады на  
+**[17157.70s] English:** Nu, that is, yeah.  
 **Translation:** 
 
-**[17059.12s] English:** востоке там нет. Все это мы сделали вручную и выглядит великолепно. А такие места, как Йосемити,  
+**[17160.00s] English:** Pozdravljajući, these are the most beautiful sunsets and sunrises I've seen in games.  
 **Translation:** 
+
+**[17164.00s] English:** We have an excellent lighting artist, a fantastic guy named Mike Mara.  
+**Translation:** Vocabulary: sunrises: 日出; sunsets: 日落
 
-**[17067.72s] English:** находятся там, где они должны быть. Все остальные знаковые места на своем месте, но есть и десятки  
+**[17169.54s] English:** Partly, it was also inspired by....  
 **Translation:** 
 
-**[17075.90s] English:** других точек интереса, и их положение на карте зависит от сида этого мира. Карты тоже делятся на  
+**[17171.98s] English:** Of course, the game has many sources of inspiration, but one of them is the artist Albert Berstadt.  
 **Translation:** 
 
-**[17086.10s] English:** зоны по сложности. У нас в игре нет уровней как таковых, есть тиры. Сейчас есть четыре тира,  
+**[17177.58s] English:** Of which I learned when studying the history of California.  
 **Translation:** 
 
-**[17093.48s] English:** но это может измениться.  
+**[17182.52s] English:** He wrote simply epic landscapes, you know, like Yosemite and other beautiful places.  
+**Translation:** Vocabulary: california: 加利福尼亚; yosemite: 优胜美地
+
+**[17188.16s] English:** Yes, we are looking at one of his paintings.  
 **Translation:** 
 
-**[17094.84s] English:** Но  
+**[17191.78s] English:** Yes, it is astonishing. And his paintings were enormous.  
+**Translation:** Vocabulary: astonishing: 令人惊讶的
+
+**[17195.72s] English:** I would like to see one of them in person.  
 **Translation:** 
 
-**[17097.72s] English:** расположение этих сидов на карте меняется с каждым новым сидом мира. Так что на любом сервере,  
+**[17198.32s] English:** Here you see such a picture and tell yourself, we want to create this world.  
 **Translation:** 
 
-**[17105.22s] English:** куда вы зайдете, будет свой сид, и тиры будут расположены по-другому. Например,  
+**[17202.82s] English:** Yes, when I look at this painting, I think...  
 **Translation:** 
 
-**[17111.72s] English:** Мохава может быть стартовой зоной для новичков на вашем сервере, а на моем сервере это уже  
+**[17206.32s] English:** Exactly what video games bring in.  
 **Translation:** 
 
-**[17118.04s] English:** эндгейм, зона четвертого тира. Но и наши основные точки интереса тоже будут перемещаться. Например,  
+**[17209.38s] English:** Each new form of art, developing, incorporates previous forms of art.  
 **Translation:** 
+
+**[17215.86s] English:** For example, the movie incorporated sound.  
+**Translation:** Vocabulary: incorporated: 包含; incorporates: 包含
 
-**[17127.34s] English:** у нас есть сеть, которая будет расположена на карте, и она будет расположена на карте. И мы будем  
+**[17218.16s] English:** Painting.  
 **Translation:** 
 
-**[17127.70s] English:** заниматься этим.  
+**[17220.50s] English:** We can take everything, including movies.  
 **Translation:** 
 
-**[17128.70s] English:** У нас есть потрясающая точка интереса. Называется Dread Rock, вдохновленная Алькатрасом. И да,  
+**[17223.70s] English:** So, it's like Katamari Damashi from the world of art.  
 **Translation:** 
 
-**[17133.52s] English:** иногда она в Сан-Франциско, а иногда она может оказаться посреди пустыни Мохаве.  
+**[17228.40s] English:** But I look at Berstadt's painting and I want to wander through this world.  
+**Translation:** Vocabulary: damashi: 幻象; katamari: 球体
+
+**[17233.94s] English:** I want to see what's behind the bend.  
 **Translation:** 
 
-**[17138.94s] English:** То есть она органично вписывается в любое окружение.  
+**[17236.42s] English:** Here is the transcript with natural English punctuation and capitalization: Keep the same language and meaning. Do not translate. Do not explain. Do not add new facts. Return only the improved sentence text. Transcript: And our lighting designer, Mike, he looks at these paintings and such...  
 **Translation:** 
 
-**[17144.14s] English:** Да.  
+**[17242.22s] English:** Good, yes, hold my beer for a second, I'll make sure it looks that way.  
 **Translation:** 
+
+**[17248.16s] English:** It amazed us just how strongly lighting can influence us.  
+**Translation:** Vocabulary: lighting: 照明
 
-**[17145.20s] English:** И как ты говорил до этого, мир во многом создают именно звук и освещение.  
+**[17253.32s] English:** I, however, am not an artist, so I don't think about color theory, light, clouds, or what all of that entails.  
 **Translation:** 
 
-**[17152.96s] English:** Да.  
+**[17259.90s] English:** I simply know that I want to live in this world.  
+**Translation:** Vocabulary: entails: 包含
+
+**[17262.78s] English:** We want to create exactly such worlds.  
 **Translation:** 
 
-**[17153.62s] English:** И это одна из тех вещей, что я подметил.  
+**[17265.32s] English:** What tone and mood do you see in this game?  
 **Translation:** 
 
-**[17157.70s] English:** Ну, то есть, да.  
+**[17270.44s] English:** Here is something completely different, and it was hard for people to understand.  
 **Translation:** 
 
-**[17160.00s] English:** Пожалуй, это самые красивые закаты и рассветы, что я видел в играх.  
+**[17274.38s] English:** When people talk to us, knowing me and Tim,  
 **Translation:** 
 
-**[17164.00s] English:** У нас отличный художник освещения, потрясающий парень Майк Мара.  
+**[17278.16s] English:** That's just a guy, though.  
 **Translation:** 
+
+**[17280.00s] English:** From Blizzard, from Overwatch. You're making another bright, optimistic, team-oriented hero shooter, aren't you?  
+**Translation:** Vocabulary: blizzard: 暴雪; optimistic: 乐观
 
-**[17169.54s] English:** И отчасти нас вдохновил...  
+**[17286.36s] English:** Future, huh? And I replied, why do I have to do this again? First of all, despite my respect for Blizzard,  
 **Translation:** 
 
-**[17171.98s] English:** У игры, конечно, много источников вдохновения, но один из них художник Альберт Берштадт,  
+**[17296.08s] English:** I don't want to pretend to be Blizzard and make some pseudo-game in their style. Understand?  
 **Translation:** 
 
-**[17177.58s] English:** о котором я узнал, когда изучал историю Калифорнии.  
+**[17303.78s] English:** I want to make a game from Kintsugi Yama. I, Tim, and our awesome team—we're just thirty-four in total.  
 **Translation:** 
 
-**[17182.52s] English:** Он писал просто эпичные пейзажи, ну знаешь, там Йосемити и прочие прекрасные места.  
+**[17312.72s] English:** A human. We want to define for ourselves what Kintsugi Yama gameplay means, and this world seemed to us  
+**Translation:** Vocabulary: kintsugi: 金繕い
+
+**[17320.66s] English:** Incredibly inspiring. The setting here is very interesting, and I think it could work well from California.  
 **Translation:** 
 
-**[17188.16s] English:** Да, мы как раз смотрим на одну из его картин.  
+**[17326.78s] English:** A great game world. We can make it beautiful and interesting. And we don't necessarily  
+**Translation:** Vocabulary: california: 加利福尼亚
+
+**[17333.10s] English:** In three.  
 **Translation:** 
+
+**[17333.78s] English:** We can follow the history or geography precisely. We can also create our own version.  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[17191.78s] English:** Да, это поразительно. А картины у него были огромные.  
+**[17340.84s] English:** Which will look authentic. We can create weapons that feel,  
 **Translation:** 
 
-**[17195.72s] English:** Я бы хотел увидеть одну из них вживую.  
+**[17345.86s] English:** It is as if it comes from that era, but we will have neither cosmic spacecrafts nor aliens nor Steampunk.  
+**Translation:** Vocabulary: aliens: 外星人; authentic: 真实; cosmic: 宇宙的; spacecrafts: 飞船; steampunk: 蒸汽朋克
+
+**[17352.32s] English:** Such things we would do at Blizzard. Here, however, we will proceed differently. And by the tone of this game, you know,  
 **Translation:** 
 
-**[17198.32s] English:** И вот ты видишь такую картину и говоришь себе, мы хотим создать этот мир.  
+**[17357.46s] English:** Matsen called Blizzard "a factory of heroes." He meant that they don't just create heroes;  
 **Translation:** 
 
-**[17202.82s] English:** Да, когда я смотрю на эту картину, я думаю...  
+**[17363.10s] English:** We make the players the heroes.  
 **Translation:** 
 
-**[17206.32s] English:** Именно это привносят видеоигры.  
+**[17365.60s] English:** The tone of this game will be tougher.  
+**Translation:** Vocabulary: tougher: 更艰难
+
+**[17368.34s] English:** You will enter this world, which will feel more desolate, more mysterious, and vast.  
 **Translation:** 
+
+**[17375.52s] English:** You will feel like a grain of sand until you earn the right to feel significant.  
+**Translation:** Vocabulary: desolate: 荒凉
 
-**[17209.38s] English:** Каждый новый вид искусства, развиваясь, вбирает в себя предыдущие виды искусства.  
+**[17381.72s] English:** And in it will be very dangerous.  
 **Translation:** 
 
-**[17215.86s] English:** Кино, например, вобрало в себя звук.  
+**[17383.26s] English:** You will want to know what is beyond that hill, but when the sun sets, it's better to find shelter.  
 **Translation:** 
 
-**[17218.16s] English:** И живопись.  
+**[17389.04s] English:** It will feel good to get back to my ranch, build a cozy fire in the fireplace, and wait for morning.  
 **Translation:** 
 
-**[17220.50s] English:** А мы можем брать все, и кино в том числе.  
+**[17395.70s] English:** We achieve this kind of atmosphere and vibe.  
+**Translation:** Vocabulary: fireplace: 壁炉
+
+**[17398.64s] English:** Unguarded.  
 **Translation:** 
 
-**[17223.70s] English:** Так что это как Катамари Дамасси от мира искусства.  
+**[17400.00s] English:** Almost scary, but at the same time beautiful.  
+**Translation:** Vocabulary: unguarded: 不设防的
+
+**[17405.52s] English:** Yes.  
 **Translation:** 
+
+**[17406.24s] English:** Here's such a cocktail.  
+**Translation:** Vocabulary: cocktail: 鸡尾酒
 
-**[17228.40s] English:** Но я вот смотрю на картину Берштадта, и мне хочется гулять по этому миру.  
+**[17407.52s] English:** I don't want to ask this question, but, considering our entire discussion about deadlines,  
 **Translation:** 
 
-**[17233.94s] English:** Хочется увидеть, что там за поворотом.  
+**[17415.90s] English:** What deadlines do you set for yourselves?  
+**Translation:** Vocabulary: deadlines: 截止日期; yourselves: 你们自己
+
+**[17418.76s] English:** When, in your opinion, will anyone in the world be able to play her?  
 **Translation:** 
 
-**[17236.42s] English:** А наш художник по свету, Майк, он смотрит на эти картины и такой...  
+**[17423.32s] English:** In this lies the beauty of the fact that Tim and I do everything ourselves.  
 **Translation:** 
 
-**[17242.22s] English:** Хорошо, да, подержи-ка мое пиво, я сделаю, чтобы так и выглядело.  
+**[17427.90s] English:** Therefore, we are so inspired.  
 **Translation:** 
 
-**[17248.16s] English:** И нас всех поразило, насколько сильно влияет одно лишь освещение.  
+**[17431.00s] English:** We can do all that we want, within reason.  
 **Translation:** 
 
-**[17253.32s] English:** А я ведь не художник, поэтому не думаю о теории цвета, света, облаках, о том, что все это дает.  
+**[17434.78s] English:** Nu da.  
 **Translation:** 
 
-**[17259.90s] English:** Я просто знаю, что хочу жить в этом мире.  
+**[17436.48s] English:** So we'll just quietly upload it to Steam and see what happens.  
 **Translation:** 
 
-**[17262.78s] English:** И именно такие миры мы и хотим создавать.  
+**[17443.42s] English:** Cool.  
 **Translation:** 
 
-**[17265.32s] English:** Так каким ты видишь тон и настроение этой игры?  
+**[17444.44s] English:** No major corporate marketing department would ever approve such a move without an announcement.  
 **Translation:** 
 
-**[17270.44s] English:** А вот это уже совсем другое, и людям было сложно это понять.  
+**[17451.36s] English:** Costing $10 million.  
 **Translation:** 
 
-**[17274.38s] English:** Когда люди с нами говорят, зная меня и Тима,  
+**[17454.42s] English:** We will just upload it to Steam.  
 **Translation:** 
 
-**[17278.16s] English:** то сразу, а, это же парень.  
+**[17456.66s] English:** And it will be cool if people add...  
 **Translation:** 
 
-**[17280.00s] English:** из Blizzard, из Overwatch. Вы же снова делаете яркий, оптимистичный, командный геройский шутер про  
+**[17460.00s] English:** If they add it to the list, that would be great.  
 **Translation:** 
 
-**[17286.36s] English:** будущее, да? А я им в ответ, а зачем мне снова это делать? Во-первых, при всем уважении к Blizzard,  
+**[17462.00s] English:** Here's all the advertising.  
 **Translation:** 
+
+**[17464.00s] English:** Then, I think, we will launch some sort of public alpha.  
+**Translation:** Vocabulary: alpha: 公开测试版
 
-**[17296.08s] English:** я ни в коем разе не хочу косить под Blizzard и делать какую-то псевдоигру от Blizzard. Понимаешь?  
+**[17470.00s] English:** Somewhere in March.  
 **Translation:** 
 
-**[17303.78s] English:** Я хочу сделать игру от Kintsugi Yama. Я, Тим и наша крутая команда, нас ведь всего тридцать четыре  
+**[17473.00s] English:** Then we have a plan, and I'm very excited about it because I haven't had the chance to do something like this before.  
 **Translation:** 
 
-**[17312.72s] English:** человека. Мы хотим сами определить, что значит игра от Kintsugi Yama, и этот мир показался нам  
-**Translation:** Vocabulary: kintsugi: 金缮技艺
+**[17478.00s] English:** We want to release the game in early access.  
+**Translation:** 
 
-**[17320.66s] English:** невероятно вдохновляющим. Сеттинг тут очень интересный, думаю из Калифорнии может получиться  
+**[17481.00s] English:** Some hate early access and won't even touch it, and I understand them.  
 **Translation:** 
 
-**[17326.78s] English:** отличный игровой мир. Мы можем сделать его красивым и интересным. И нам не обязательно  
+**[17485.00s] English:** Others, on the other hand, want to be in on it from the very beginning, seeing everything from the first day.  
 **Translation:** 
 
-**[17333.10s] English:** втроём.  
+**[17489.00s] English:** To watch as she develops.  
 **Translation:** 
 
-**[17333.78s] English:** Мы можем не только в точности следовать истории или географии. Мы можем создать свою версию,  
+**[17492.00s] English:** So we'll release her in early access, and she'll stay there until...  
 **Translation:** 
 
-**[17340.84s] English:** которая будет выглядеть аутентично. Мы можем создать оружие, которое ощущается,  
+**[17496.00s] English:** Who knows how much.  
 **Translation:** 
 
-**[17345.86s] English:** будто оно из той эпохи, но у нас не будет ни космических кораблей, ни пришельцев, ни Стимпанка.  
+**[17497.00s] English:** Does it not seem a bit scary to you to release a game with some broad interpretations?  
 **Translation:** 
+
+**[17503.00s] English:** To see her during Alpha or Beta stage?  
+**Translation:** Vocabulary: interpretations: 解释
 
-**[17352.32s] English:** Такое мы бы сделали в Blizzard. Здесь же мы поступим иначе. А по тону эта игра, знаешь,  
+**[17507.00s] English:** Yes, this game is much more raw than, for example,...  
 **Translation:** 
 
-**[17357.46s] English:** Мэтсон назвал Blizzard «фабрикой героев». Он имел в виду, что мы не просто создаём героев,  
+**[17511.00s] English:** The most raw thing we showed in Blizzard was the demo for BlizzCon,  
 **Translation:** Vocabulary: blizzard: 暴雪公司
 
-**[17363.10s] English:** Делаем героями самих игроков.  
+**[17515.00s] English:** Which was polished to a shine.  
 **Translation:** 
 
-**[17365.60s] English:** Тон у этой игры будет пожестче.  
-**Translation:** 
-
-**[17368.34s] English:** Вы попадете в этот мир, он будет ощущаться более пустынным, более таинственным и огромным.  
-**Translation:** 
-
-**[17375.52s] English:** Вы будете чувствовать себя песчинкой, пока не заслужите права почувствовать себя значимым.  
-**Translation:** 
-
-**[17381.72s] English:** И в нем будет очень опасно.  
-**Translation:** 
-
-**[17383.26s] English:** Вам захочется узнать, что там за холмом, но когда солнце садится, лучше найти укрытие.  
-**Translation:** 
-
-**[17389.04s] English:** Захочется поскорее вернуться на свое ранчо, разжечь уютный камин и дожидаться утра.  
-**Translation:** 
-
-**[17395.70s] English:** Вот такой атмосферы и вайба мы добиваемся.  
-**Translation:** 
-
-**[17398.64s] English:** Уединенно.  
-**Translation:** 
-
-**[17400.00s] English:** Почти страшно, но при этом красиво.  
-**Translation:** 
-
-**[17405.52s] English:** Да.  
-**Translation:** 
-
-**[17406.24s] English:** Вот такой вот коктейль.  
-**Translation:** 
-
-**[17407.52s] English:** Не хочу задавать этот вопрос, но, учитывая весь наш разговор о сроках,  
-**Translation:** 
-
-**[17415.90s] English:** но какие вы ставите себе сроки?  
-**Translation:** 
-
-**[17418.76s] English:** Когда, по-твоему, кто-нибудь в мире сможет в нее сыграть?  
-**Translation:** 
-
-**[17423.32s] English:** В этом-то и прелесть того, что мы с Тимом сами всем заправляем.  
-**Translation:** 
-
-**[17427.90s] English:** Поэтому мы так и воодушевлены.  
-**Translation:** 
-
-**[17431.00s] English:** Мы можем делать все, что захотим, в пределах разумного.  
-**Translation:** 
-
-**[17434.78s] English:** Ну да.  
-**Translation:** 
-
-**[17436.48s] English:** Так что мы просто по-тихому выложим ее в Стим, и посмотрим, что из этого выйдет.  
-**Translation:** 
-
-**[17443.42s] English:** Круто.  
-**Translation:** 
-
-**[17444.44s] English:** Ни один крупный корпоративный маркетинг ни за что в жизни не одобрил бы такой ход без анонса,  
-**Translation:** 
-
-**[17451.36s] English:** стоимостью 10 миллионов долларов.  
-**Translation:** 
-
-**[17454.42s] English:** Мы просто выложим ее в Стим,  
-**Translation:** 
-
-**[17456.66s] English:** и будет круто, если люди добавят...  
-**Translation:** 
-
-**[17460.00s] English:** Если они добавят ее в список желаемого.  
-**Translation:** 
-
-**[17462.00s] English:** Вот и вся реклама.  
-**Translation:** 
-
-**[17464.00s] English:** А потом, думаю, мы запустим как-то подобие публичной Альфы  
-**Translation:** 
-
-**[17470.00s] English:** где-то в марте.  
-**Translation:** 
-
-**[17473.00s] English:** А затем у нас план, и я очень этому рад, потому что мне еще не доводилось так делать.  
-**Translation:** 
-
-**[17478.00s] English:** Мы хотим выпустить игру в ранний доступ.  
-**Translation:** 
-
-**[17481.00s] English:** Некоторые ненавидят ранний доступ и даже не прикоснутся, я их понимаю.  
-**Translation:** 
-
-**[17485.00s] English:** А другие, наоборот, хочу быть в теме с самого начала, видеть все с первого дня.  
-**Translation:** 
-
-**[17489.00s] English:** И смотреть, как она развивается.  
-**Translation:** 
-
-**[17492.00s] English:** Так что мы выпустим ее в ранний доступ, и она там пробудет пока...  
-**Translation:** 
-
-**[17496.00s] English:** Кто знает сколько.  
-**Translation:** 
+**[17518.00s] English:** Here it will be much closer...  
+**Translation:** Vocabulary: polished: 擦亮
 
-**[17497.00s] English:** А не страшно ли тебе выпускать игру с какими-то широковатостями,  
+**[17520.00s] English:** This is more of a transition into the real development process than anything else.  
 **Translation:** 
 
-**[17503.00s] English:** чтобы люди увидели ее еще на стадии Альфы или на стадии Беты?  
+**[17524.08s] English:** I did it before, but...  
 **Translation:** 
 
-**[17507.00s] English:** Да, эта игра куда более сырая, чем, например...  
+**[17526.16s] English:** I like it.  
 **Translation:** 
 
-**[17511.00s] English:** Самое сырое, что мы показывали в Близзард, это демо для Близзкон,  
+**[17527.04s] English:** In this lies the excitement, do you understand?  
 **Translation:** 
 
-**[17515.00s] English:** которое было отполировано до блеска.  
+**[17531.30s] English:** This is essentially internal kitchen work, and you will see everything from first-hand.  
 **Translation:** 
 
-**[17518.00s] English:** А здесь все будет куда ближе...  
+**[17535.82s] English:** Series.  
 **Translation:** 
 
-**[17520.00s] English:** же к реальному процессу разработки, чем все, что  
+**[17537.06s] English:** I will definitely try to get to Alpha.  
 **Translation:** 
 
-**[17524.08s] English:** я делал раньше, но...  
+**[17540.04s] English:** To everyone who is listening, I highly recommend this game, not  
 **Translation:** 
 
-**[17526.16s] English:** А мне нравится.  
+**[17543.72s] English:** You will be disappointed.  
 **Translation:** 
 
-**[17527.04s] English:** В этом и есть свой азарт, понимаешь?  
+**[17544.80s] English:** The game world is beautiful.  
 **Translation:** 
 
-**[17531.30s] English:** Это по сути внутренняя кухня, и вы увидите все из первого  
+**[17546.16s] English:** And all those who work on it, you, Tim, and the whole team, you  
 **Translation:** 
 
-**[17535.82s] English:** ряда.  
+**[17550.78s] English:** You are doing incredible work.  
 **Translation:** 
 
-**[17537.06s] English:** Я обязательно постараюсь попасть на Альфу.  
+**[17552.86s] English:** Thank you for releasing the raw versions, and we don't have to  
 **Translation:** 
 
-**[17540.04s] English:** Всем, кто нас слушает, очень рекомендую эту игру, не  
+**[17556.46s] English:** Constantly waiting for the ideal product.  
 **Translation:** 
 
-**[17543.72s] English:** разочаруетесь.  
+**[17559.36s] English:** So you feel like you're part of the process when you receive  
 **Translation:** 
 
-**[17544.80s] English:** Мир игры прекрасен.  
+**[17563.06s] English:** Something is not ideal.  
 **Translation:** 
 
-**[17546.16s] English:** И все, кто над ней работает, ты, Тим и вся команда, вы  
+**[17564.36s] English:** I am from those who like it just fine.  
 **Translation:** 
 
-**[17550.78s] English:** делаете невероятную работу.  
+**[17566.76s] English:** We can see how the raw versions are developing and become part of  
 **Translation:** 
 
-**[17552.86s] English:** Спасибо вам, что выпускаете сырые версии, и нам не приходится  
+**[17572.00s] English:** of this process.  
 **Translation:** 
 
-**[17556.46s] English:** вечно ждать идеальный продукт.  
+**[17574.08s] English:** I saw your logo.  
 **Translation:** 
 
-**[17559.36s] English:** Так ты чувствуешь себя частью процесса, когда получаешь  
+**[17576.16s] English:** He looks like a mountain.  
 **Translation:** 
 
-**[17563.06s] English:** что-то неидеальное.  
+**[17577.70s] English:** Can you explain what this title means?  
 **Translation:** 
 
-**[17564.36s] English:** Я из тех, кому это как раз и нравится.  
+**[17582.06s] English:** Kinshugi is a Japanese art of restoring broken things.  
 **Translation:** 
 
-**[17566.76s] English:** Мы можем видеть, как развиваются сырые версии и стать частью  
-**Translation:** 
-
-**[17572.00s] English:** этого процесса.  
-**Translation:** 
-
-**[17574.08s] English:** Я видел ваш логотип.  
-**Translation:** 
-
-**[17576.16s] English:** Он похож на гору.  
-**Translation:** 
-
-**[17577.70s] English:** Можешь объяснить, что означает это название?  
-**Translation:** 
-
-**[17582.06s] English:** Кинсуги — это такое японское искусство реставрации разбитой  
-**Translation:** 
+**[17586.92s] English:** Ceramics.  
+**Translation:** Vocabulary: ceramics: 陶瓷; kinshugi: 锔艺
 
-**[17586.92s] English:** керамики.  
+**[17589.66s] English:** In general, there is a whole philosophy behind this process.  
 **Translation:** 
 
-**[17589.66s] English:** И в целом, за этим процессом стоит целая философия.  
-**Translation:** 
-
-**[17594.12s] English:** Я постараюсь это как следует объяснить, но в общем, берут  
-**Translation:** 
+**[17594.12s] English:** I will try to explain this thoroughly, but in general, they take  
+**Translation:** Vocabulary: thoroughly: 详细地
 
-**[17598.54s] English:** разбитую вещь, а потом склеивают ее осколки золотом.  
+**[17598.54s] English:** A broken thing, and then its shards are glued back together with gold.  
 **Translation:** 
 
-**[17602.86s] English:** Угу.  
-**Translation:** 
+**[17602.86s] English:** Ugh.  
+**Translation:** Vocabulary: glued: 用金子粘; shards: 碎片
 
-**[17604.80s] English:** То есть используют...  
+**[17604.80s] English:** That is, they use...  
 **Translation:** 
 
-**[17606.16s] English:** Золотой лак, чтобы соединить их.  
-**Translation:** 
+**[17606.16s] English:** Golden lacquer, to join them.  
+**Translation:** Vocabulary: lacquer: 漆
 
-**[17608.56s] English:** Смысл в том, чтобы не скрывать эти шрамы, а подчеркивать  
+**[17608.56s] English:** The meaning is to not hide these scars but to emphasize them.  
 **Translation:** 
 
-**[17612.68s] English:** их, делая еще красивее.  
-**Translation:** 
+**[17612.68s] English:** They did it, making it even more beautiful.  
+**Translation:** Vocabulary: emphasize: 强调
 
-**[17614.96s] English:** И философия, которая меня в этом привлекла, она очень  
+**[17614.96s] English:** The philosophy which attracted me in this, it is very  
 **Translation:** 
 
-**[17619.84s] English:** созвучна нам с Тимом.  
+**[17619.84s] English:** It resonates with both Tim and me.  
 **Translation:** 
 
-**[17624.58s] English:** Мы очень ценим время, проведенное в Близзард, но мы ушли оттуда  
+**[17624.58s] English:** We very much valued the time spent at Blizzard, but we have left there.  
 **Translation:** 
 
-**[17628.48s] English:** не без шрамов.  
-**Translation:** 
+**[17628.48s] English:** Not without scars.  
+**Translation:** Vocabulary: blizzard: 暴雪公司
 
-**[17630.74s] English:** А еще одна идея философии Кинсуги в том, что ничто  
+**[17630.74s] English:** Another idea from Kinshu's philosophy is that nothing  
 **Translation:** 
 
-**[17635.12s] English:** не идеально.  
+**[17635.12s] English:** Not ideal.  
 **Translation:** 
 
-**[17636.16s] English:** А стремление к совершенству по сути заблуждение, и  
+**[17636.16s] English:** The pursuit of perfection is in essence a delusion, and  
 **Translation:** 
 
-**[17639.94s] English:** что...  
-**Translation:** 
+**[17639.94s] English:** What...  
+**Translation:** Vocabulary: delusion: 错觉; pursuit: 追求
 
-**[17640.00s] English:** что в несовершенстве есть красота.  
+**[17640.00s] English:** What in imperfection has beauty.  
 **Translation:** 
 
-**[17643.30s] English:** И в общем, я все это проецирую на себя,  
+**[17643.30s] English:** In general, I project all of this onto myself,  
 **Translation:** 
 
-**[17646.52s] English:** все это мне очень близко.  
+**[17646.52s] English:** All of this is very close to me.  
 **Translation:** 
 
-**[17649.86s] English:** Я стремлюсь к этому состоянию.  
-**Translation:** 
+**[17649.86s] English:** I strive for this state.  
+**Translation:** Vocabulary: strive: 努力
 
-**[17652.06s] English:** Не говорю, что уже достиг его, но хочу таким стать.  
+**[17652.06s] English:** I don't say that I've already reached it, but I want to become such.  
 **Translation:** 
 
-**[17655.58s] English:** Думаю, это к тому же еще и отличная аналогия для разработки игр.  
-**Translation:** 
+**[17655.58s] English:** I think this is also a great analogy for game development.  
+**Translation:** Vocabulary: analogy: 类比
 
-**[17660.60s] English:** Потому что разработка игр —  
+**[17660.60s] English:** Because developing games —  
 **Translation:** 
 
-**[17663.72s] English:** это бесконечная погоня за несовершенством.  
+**[17663.72s] English:** This is an endless chase for perfection.  
 **Translation:** 
 
-**[17668.98s] English:** Игра никогда не будет идеальной.  
+**[17668.98s] English:** Game perfection is never ideal.  
 **Translation:** 
 
-**[17671.54s] English:** Спросите любого игрока, он вам быстро объяснит.  
+**[17671.54s] English:** Ask any player, and they will explain it to you quickly.  
 **Translation:** 
 
-**[17675.26s] English:** И важно видеть красоту в несовершенствах.  
+**[17675.26s] English:** It is important to see beauty in imperfections.  
 **Translation:** 
 
-**[17678.84s] English:** И силу в том, что было сломано, но может стать еще прочнее.  
+**[17678.84s] English:** In strength lies what was broken but can become even stronger.  
 **Translation:** 
 
-**[17684.82s] English:** Последние пару лет для тебя были чертовски трудными.  
+**[17684.82s] English:** The last couple of years have been absolutely tough for you.  
 **Translation:** 
 
-**[17688.96s] English:** Так что в каком-то смысле это и есть та самая красота в несовершенстве.  
+**[17688.96s] English:** So in a sense, this is indeed the beauty in imperfection.  
 **Translation:** 
 
-**[17693.70s] English:** Так что все, кто нас слушает, надеюсь, игра выйдет в Steam.  
+**[17693.70s] English:** So, everyone listening, I hope the game will be released on Steam.  
 **Translation:** 
 
-**[17697.58s] English:** Зайдите и посмотрите.  
+**[17697.58s] English:** Go in and take a look.  
 **Translation:** 
 
-**[17698.76s] English:** Ледженд оф Калифорния — это и вправду прекрасный мир.  
+**[17698.76s] English:** Legend of California is truly a wonderful world.  
 **Translation:** 
 
-**[17702.78s] English:** И я так рад, что ты его создаешь.  
-**Translation:** 
+**[17702.78s] English:** I am so glad that you are creating it.  
+**Translation:** Vocabulary: california: 加利福尼亚州
 
-**[17705.28s] English:** Тихо, незаметно строишь этот прекрасный, невероятный мир.  
+**[17705.28s] English:** Quietly, you build this beautiful, incredible world.  
 **Translation:** 
 
-**[17712.18s] English:** Дурацкий вопрос, но может поговорим о величайших играх всех времен?  
+**[17712.18s] English:** A silly question, but maybe we could talk about the greatest games of all time?  
 **Translation:** 
 
-**[17718.94s] English:** Конечно.  
+**[17718.94s] English:** Of course.  
 **Translation:** 
 
-**[17720.52s] English:** Ну, то есть я-то понимаю, сейчас будет немного задротства,  
-**Translation:** 
+**[17720.52s] English:** Nu, that is, I understand that there will be a bit of nerdiness now,  
+**Translation:** Vocabulary: nerdiness: 书呆子气息
 
-**[17723.88s] English:** и я... ты ведь приложил руку к созданию...  
+**[17723.88s] English:** And I... you did put your hand to the creation of...  
 **Translation:** 
 
-**[17727.56s] English:** А, я считаю...  
+**[17727.56s] English:** Ah, I consider...  
 **Translation:** 
 
-**[17728.76s] English:** ...что Blizzard создала одни из величайших игр в истории, но кроме них.  
+**[17728.76s] English:** ...that Blizzard created some of the greatest games in history, but beyond them.  
 **Translation:** 
 
-**[17733.74s] English:** Какие игры ты бы назвал?  
+**[17733.74s] English:** What games would you call?  
 **Translation:** 
 
-**[17736.24s] English:** Что ж, есть одна лучшая.  
+**[17736.24s] English:** Well, there is one better.  
 **Translation:** 
 
-**[17739.24s] English:** Это Legend of Zelda, Breath of the Wild.  
+**[17739.24s] English:** This is The Legend of Zelda: Breath of the Wild.  
 **Translation:** Vocabulary: zelda: 塞尔达
 
-**[17741.96s] English:** А уже потом список величайших игр.  
+**[17741.96s] English:** Already after that, the list of greatest games.  
 **Translation:** 
 
-**[17745.48s] English:** Zork, Ultima...  
+**[17745.48s] English:** Zork, Ultima,...  
 **Translation:** Vocabulary: ultima: 最终幻想
 
-**[17747.38s] English:** То есть Breath of the Wild — лучшая.  
+**[17747.38s] English:** That is, Breath of the Wild — the best.  
 **Translation:** 
 
-**[17749.90s] English:** Величайшая в истории.  
+**[17749.90s] English:** Greatest in history.  
 **Translation:** 
 
-**[17751.14s] English:** А что ее для тебя такое делает?  
+**[17751.14s] English:** What does she do for you?  
 **Translation:** 
 
-**[17753.22s] English:** Каждый ее аспект настолько продуман и настолько хорошо сделан.  
+**[17753.22s] English:** Each aspect of it is so thoughtfully planned and well-made.  
 **Translation:** 
 
-**[17757.52s] English:** Визуальный стиль гармонирует с дизайном.  
+**[17757.52s] English:** The visual style harmonizes with the design.  
 **Translation:** 
 
-**[17760.00s] English:** дизайном и технологиями, даже то, как она интегрирована со Switch.  
+**[17760.00s] English:** Design and technologies, even how it is integrated with Switch.  
+**Translation:** Vocabulary: harmonizes: 协调; integrated: 整合
+
+**[17765.14s] English:** How can Zelda be constantly improved?  
 **Translation:** 
 
-**[17765.14s] English:** Как можно постоянно улучшать Зельду?  
+**[17767.86s] English:** How is it possible that after the part of Ocarina of Time  
+**Translation:** Vocabulary: ocarina: 一种吹奏乐器
+
+**[17771.08s] English:** Did anyone manage to make a Zelda game even better?  
 **Translation:** 
 
-**[17767.86s] English:** Как возможно, что после части Ocarina of Time  
-**Translation:** Vocabulary: ocarina: 奥卡里纳
-
-**[17771.08s] English:** кто-то смог сделать игру про Зельду еще лучше?  
+**[17774.18s] English:** There you can cut down a tree and float it down the river.  
 **Translation:** 
 
-**[17774.18s] English:** Там можно срубить дерево и поплыть на нем по реке.  
+**[17778.88s] English:** Mir tam — it's a toy.  
 **Translation:** 
 
-**[17778.88s] English:** Мир там — это игрушка,  
+**[17781.10s] English:** And in it, everything works exactly as you would expect.  
 **Translation:** 
 
-**[17781.10s] English:** и в нем все работает именно так, как ты и ожидаешь.  
+**[17785.58s] English:** In this case, there is also a plot,  
 **Translation:** 
 
-**[17785.58s] English:** При этом в ней есть и сюжет,  
+**[17787.30s] English:** And there are also very cool battles, actions, and item systems.  
 **Translation:** 
 
-**[17787.30s] English:** а еще и очень крутые бои, экшены, система предметов.  
+**[17793.20s] English:** In this game, so much has been done correctly,  
 **Translation:** 
 
-**[17793.20s] English:** В этой игре столько всего сделано правильно,  
+**[17796.64s] English:** Then, while other games get lucky,  
 **Translation:** 
 
-**[17796.64s] English:** тогда как другим играм повезет,  
+**[17798.64s] English:** If they can manage to do at least one thing right.  
 **Translation:** 
 
-**[17798.64s] English:** если им хотя бы что-то одно удастся сделать как надо.  
+**[17801.66s] English:** And they become the best in their genre,  
 **Translation:** 
 
-**[17801.66s] English:** И они становятся лучшими в своем жанре,  
+**[17804.34s] English:** Because they did something right.  
 **Translation:** 
 
-**[17804.34s] English:** потому что сделали хоть что-то правильно.  
+**[17806.68s] English:** The Legend of Zelda: Breath of the Wild does everything right, and does it better than anyone else.  
 **Translation:** 
 
-**[17806.68s] English:** А Breath of the Wild делает правильно все, причем лучше всех.  
+**[17810.00s] English:** There is a certain lightness in how the world is felt,  
 **Translation:** 
 
-**[17810.00s] English:** Есть какая-то легкость в том, как ощущается мир,  
+**[17813.88s] English:** In how it feels open.  
 **Translation:** 
 
-**[17813.88s] English:** в том, как ощущается его открытость.  
+**[17816.02s] English:** None like this in any other game.  
 **Translation:** 
 
-**[17816.02s] English:** Ни в одной другой игре такого.  
+**[17817.30s] English:** There is none. This is their unique feature as a company.  
 **Translation:** 
 
-**[17817.30s] English:** Никакого нет. Это их уникальная черта, как компания.  
+**[17820.30s] English:** Yes, nobody else...  
 **Translation:** 
 
-**[17820.30s] English:** Да, никто больше...  
+**[17821.22s] English:** No one else does it like this.  
 **Translation:** 
 
-**[17821.22s] English:** Никто другой так не делает.  
+**[17822.80s] English:** You're right, especially since they've already created a bunch of Zelda games.  
 **Translation:** 
 
-**[17822.80s] English:** Ты прав, тем более они уже создали кучу игр про Зельду,  
-**Translation:** 
-
-**[17826.30s] English:** которые действительно великие игры,  
-**Translation:** 
-
-**[17829.28s] English:** а потом снова выдают шедевр.  
-**Translation:** 
-
-**[17831.62s] English:** Нинтендо — это просто Мекка.  
-**Translation:** 
-
-**[17834.26s] English:** Они лучшие, понимаешь?  
-**Translation:** 
-
-**[17836.02s] English:** И этим все сказано.  
-**Translation:** 
-
-**[17837.48s] English:** Ты понимаешь, как их компания устроена?  
-**Translation:** 
-
-**[17839.98s] English:** Нет.  
-**Translation:** 
-
-**[17840.30s] English:** Что они не...  
-**Translation:** 
-
-**[17841.48s] English:** Вообще не понимаю.  
-**Translation:** 
-
-**[17842.88s] English:** Они же столько лет на рынке и все еще держат такую планку.  
-**Translation:** 
-
-**[17846.56s] English:** Я, наверное, рационально или нет, просто преклоняюсь.  
-**Translation:** 
-
-**[17851.52s] English:** Это что-то в духе, если что-то от Нинтендо, это будет великолепно.  
-**Translation:** 
-
-**[17855.52s] English:** И даже если поначалу думаешь, ого, что за странную штуку на этот раз они сделали с контроллером,  
-**Translation:** 
-
-**[17862.32s] English:** а потом берешь его в руки и думаешь, боже.  
-**Translation:** 
-
-**[17866.32s] English:** И мы с сыном оба играли в Legend of Zelda Breath of the Wild.  
+**[17826.30s] English:** Which games are indeed great!  
 **Translation:** Vocabulary: zelda: 塞尔达
 
-**[17873.56s] English:** Он тоже разработчик.  
+**[17829.28s] English:** Then again, they produce a masterpiece.  
 **Translation:** 
 
-**[17875.56s] English:** И был момент, когда он сказал,  
+**[17831.62s] English:** Nintendo is simply Mecca.  
+**Translation:** Vocabulary: masterpiece: 杰作; mecca: 圣地
+
+**[17834.26s] English:** They are the best, understand?  
 **Translation:** 
 
-**[17877.38s] English:** «Мне так грустно после этой игры».  
+**[17836.02s] English:** And that's it.  
 **Translation:** 
 
-**[17880.00s] English:** Я добавил, я понимаю, что никогда не сделаю ничего подобного.  
+**[17837.48s] English:** Do you understand how their company is structured?  
 **Translation:** 
 
-**[17884.30s] English:** Это то самое странное чувство, когда ты восхищён и считаешь игру великой.  
+**[17839.98s] English:** No.  
 **Translation:** 
 
-**[17888.52s] English:** У меня было такое же с RDR, с Red Dead Redemption 2.  
-**Translation:** Vocabulary: redemption: 救赎
-
-**[17892.66s] English:** Это игра, на которую я буквально молюсь.  
+**[17840.30s] English:** What they are not...  
 **Translation:** 
 
-**[17895.66s] English:** И не только потому, что сама игра гениальна, а потому что я, как разработчик, как ремесленник, который создаёт игры, просто не понимаю, как, чёрт возьми, такое возможно.  
+**[17841.48s] English:** I don't understand at all.  
 **Translation:** 
 
-**[17905.28s] English:** Наверное, только Rockstar, со всем их многолетним опытом создания подобных игр, никто другой не может прийти с нуля и тягаться с ними.  
+**[17842.88s] English:** They have been on the market for so many years and still maintain such a high standard.  
 **Translation:** 
 
-**[17915.56s] English:** Так что...  
-**Translation:** Vocabulary: rockstar: 知名游戏开发商
-
-**[17916.64s] English:** То есть чисто одиночная, сюжетная.  
+**[17846.56s] English:** I, I suppose rationally or not, simply bow down.  
 **Translation:** 
 
-**[17919.70s] English:** Ты тоже уважаешь такой... чистый...  
+**[17851.52s] English:** This is something in the spirit of, if something from Nintendo, that would be wonderful.  
 **Translation:** 
 
-**[17922.90s] English:** Да, я тут никому скидок не делаю.  
+**[17855.52s] English:** Even if at first you think, wow, what strange thing they've done to the controller this time,  
 **Translation:** 
 
-**[17925.54s] English:** Мне кажется, многие геймеры и разработчики, если в игре есть сюжет, сразу говорят, о, там хороший сюжет.  
+**[17862.32s] English:** Then you take it in your hands and think, oh my God.  
 **Translation:** 
 
-**[17932.62s] English:** А я считаю, что на самом деле лишу единицы.  
+**[17866.32s] English:** We both played Legend of Zelda: Breath of the Wild with my son.  
 **Translation:** 
 
-**[17935.28s] English:** Отличный сюжет.  
+**[17873.56s] English:** He is also a developer.  
 **Translation:** 
 
-**[17936.60s] English:** Но в RDR он великолепный.  
+**[17875.56s] English:** There was a moment when he said,  
 **Translation:** 
 
-**[17938.36s] English:** Там отличное развитие персонажа, там хороший сюжет.  
+**[17877.38s] English:** It's so sad for me after this game.  
 **Translation:** 
 
-**[17943.38s] English:** А диалоги там, они просто на уровне Тарантино.  
+**[17880.00s] English:** I added, I understand that I will never do anything like that.  
 **Translation:** 
 
-**[17948.84s] English:** Очень качественные.  
+**[17884.30s] English:** This is that strange feeling when you are awestruck and consider the game great.  
 **Translation:** 
 
-**[17951.76s] English:** Так что да, Red Dead у меня в топе.  
+**[17888.52s] English:** I had the same issue with RDR, Red Dead Redemption 2.  
+**Translation:** Vocabulary: awestruck: 惊叹; redemption: 救赎
+
+**[17892.66s] English:** This is a game on which I literally pray.  
 **Translation:** 
 
-**[17954.92s] English:** Хотя у меня есть и другие игры, которые тоже в моём списке.  
+**[17895.66s] English:** And not only because the game is genius, but because as a developer, as a craftsman who creates games, I simply don't understand how such a thing is possible.  
+**Translation:** Vocabulary: craftsman: 手工艺人
+
+**[17905.28s] English:** Probably only Rockstar, with their years of experience in creating such games, could come from nowhere and compete with them.  
 **Translation:** 
 
-**[17959.74s] English:** И обе эти игры я бы никому не советовал.  
+**[17915.56s] English:** So...  
+**Translation:** Vocabulary: rockstar: 顶尖开发者
+
+**[17916.64s] English:** That is, purely solitary, plot-based.  
 **Translation:** 
 
-**[17963.28s] English:** Это EverQuest и Rust.  
+**[17919.70s] English:** You also respect such... pure...  
 **Translation:** 
 
-**[17965.28s] English:** Они...  
+**[17922.90s] English:** Yes, I am not giving anyone any discounts here.  
 **Translation:** 
 
-**[17966.56s] English:** Это две игры, которые сильнее всего повлияли на меня и мою карьеру, и мою жизнь.  
+**[17925.54s] English:** It seems that many gamers and developers, if there's a plot in the game, immediately say, "Oh, there's a good storyline.  
+**Translation:** Vocabulary: storyline: 故事情节
+
+**[17932.62s] English:** I think that in reality, it affects only a few.  
 **Translation:** 
 
-**[17973.58s] English:** А вот Rust я бы никогда никому не посоветовал.  
+**[17935.28s] English:** Great plot.  
 **Translation:** 
 
-**[17977.40s] English:** Rust сам тебя позовёт, когда ты будешь к этому готов.  
+**[17936.60s] English:** But in RDR, he is magnificent.  
 **Translation:** 
 
-**[17982.10s] English:** Это секта.  
+**[17938.36s] English:** There is great character development, and there is a good plot.  
 **Translation:** 
 
-**[17983.46s] English:** Настоящая секта.  
+**[17943.38s] English:** The dialogues there are simply on the level of Tarantino.  
 **Translation:** 
 
-**[17985.96s] English:** Это...  
+**[17948.84s] English:** Very high-quality.  
+**Translation:** Vocabulary: dialogues: 对话; tarantino: 昆汀·塔伦蒂诺
+
+**[17951.76s] English:** So, yes, Red Dead is at the top for me.  
 **Translation:** 
 
-**[17986.60s] English:** Как будешь готов, она сама тебя найдёт.  
+**[17954.92s] English:** Although I have other games on my list as well.  
 **Translation:** 
 
-**[17988.98s] English:** Сама придёт, да?  
+**[17959.74s] English:** I would not recommend both of these games to anyone.  
 **Translation:** 
 
-**[17989.72s] English:** Небеса разверзнутся.  
+**[17963.28s] English:** This is EverQuest and Rust.  
 **Translation:** 
 
-**[17992.02s] English:** Понятно.  
+**[17965.28s] English:** They...  
 **Translation:** 
 
-**[17992.54s] English:** В Rust тебя считают полным нубом.  
+**[17966.56s] English:** These are two games that have had the greatest impact on me, my career, and my life.  
 **Translation:** 
 
-**[17995.28s] English:** Который ничего не смыслит, если ты не наиграл тысячу...  
+**[17973.58s] English:** Here's a transcript with natural English punctuation and capitalization: I would never recommend Rust to anyone.  
 **Translation:** 
 
-**[18000.00s] English:** часов да даже с тысячей люди скажут а у тебя всего 1000 часов в игре да но раст стал огромным  
+**[17977.40s] English:** Rust will call you when you are ready for it.  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音
+
+**[17982.10s] English:** This is a sect.  
 **Translation:** 
 
-**[18007.56s] English:** вдохновением для меня и для моей новой игры но моя игра не похожа на раст она не делает акцент  
+**[17983.46s] English:** True sect.  
 **Translation:** 
 
-**[18015.60s] English:** на пвп хотя пвп там будет а что именно в раст тебя так вдохновила мне нравится сброс мира это  
+**[17985.96s] English:** This...  
 **Translation:** 
 
-**[18026.34s] English:** отличная механика вайпа которую мне бы очень хотелось развить и доработать и как часто будет  
+**[17986.60s] English:** As you become ready, she will find you on her own.  
 **Translation:** 
 
-**[18035.34s] English:** происходить сброс мира в legend of калифорния пока не знаю может раз в месяц мы хотим чтобы  
+**[17988.98s] English:** She will come on her own, won't she?  
 **Translation:** 
 
-**[18042.90s] English:** это было достаточно часто чтобы игроки не успевали сильно привязаться но при этом чтобы это было  
+**[17989.72s] English:** Heaven shall open its doors.  
 **Translation:** 
 
-**[18048.66s] English:** ценно вся фишка в том чтобы игрок думал не почему я расстроен из-за сброса мира а почему я с  
+**[17992.02s] English:** Ponятно.  
 **Translation:** 
 
-**[18055.02s] English:** нетерпением жду этого сброса мира.  
+**[17992.54s] English:** In Rust, you'll be considered a complete noob.  
 **Translation:** 
 
-**[18056.32s] English:** мы знаем что игроков очень злят подобные сбросы но для тех кто как мы наиграл в раст 5000 часов в  
+**[17995.28s] English:** Which one doesn't understand if you haven't played a thousand...  
 **Translation:** 
 
-**[18065.58s] English:** этом сбросе и кроется вся магия я с нетерпением жду следующего потому что приключение начинается  
+**[18000.00s] English:** Hours, even with a thousand, people would say, "You've only got 1,000 hours in the game, but it's become huge.  
 **Translation:** 
 
-**[18074.70s] English:** заново и если ты хочешь поиграть со мной например в world of warcraft и у меня 80 уровень а у тебя  
+**[18007.56s] English:** Inspiration for me and my new game, but my game isn't like Rast; it doesn't focus on that.  
+**Translation:** 
+
+**[18015.60s] English:** In PVP, though there will be PVP, what exactly in Ra'Ta'Va inspired you? I like resetting the world.  
+**Translation:** 
+
+**[18026.34s] English:** Outstanding mechanics for a wipe transition that I would really like to develop and improve. How often will this be used?  
+**Translation:** 
+
+**[18035.34s] English:** It happens that the world reset in Legend of California, but I don't know for sure. Maybe it's once a month. We want it to happen.  
+**Translation:** Vocabulary: california: 加利福尼亚
+
+**[18042.90s] English:** This was frequent enough that players didn't get too attached, but at the same time, it kept things interesting.  
+**Translation:** 
+
+**[18048.66s] English:** The key is for the player to think not why I'm upset about world reset, but why I should be.  
+**Translation:** 
+
+**[18055.02s] English:** I am eagerly awaiting this reset of the world.  
+**Translation:** 
+
+**[18056.32s] English:** We know that players are very frustrated by such resets, but for those who, like us, have played Rust for 5,000 hours,  
+**Translation:** Vocabulary: awaiting: 等待; eagerly: 热切地
+
+**[18065.58s] English:** In this reset, all the magic lies. I can't wait for the next one because the adventure begins.  
+**Translation:** 
+
+**[18074.70s] English:** Zanovo, and if you want to play with me, for example, in World of Warcraft and I have 80 level while you  
 **Translation:** Vocabulary: warcraft: 战争艺术
 
-**[18083.48s] English:** первый мы не сможем толком поиграть вместе.  
+**[18083.48s] English:** First, we won't be able to play together properly.  
 **Translation:** 
 
-**[18086.32s] English:** а в раст мы просто ждем сброса и мы оба с первой же минуты начинаем голые на пляже.  
+**[18086.32s] English:** In the pool, we just wait for the drop and both of us start naked at the beach from the very first minute.  
 **Translation:** 
 
-**[18093.00s] English:** а как же то что в раст у тебя могут все отнять эту часть вы тоже такого не отлично а то это жуткий  
+**[18093.00s] English:** As how can they take away that part from you in prison? You don't understand, right? That's terrible.  
 **Translation:** 
 
-**[18104.16s] English:** стресс так сказав это я кажется только что потерял всю аудиторию раз потому что игрок в раз думает не  
+**[18104.16s] English:** Stress, saying this, I seem to have just lost all the audience because the player in a day thinks not.  
 **Translation:** 
 
-**[18111.50s] English:** о том что все потеряет он как раз думает я отберу все у других.  
+**[18111.50s] English:** He is just thinking that everyone will lose what they have, I will take it all from them.  
 **Translation:** 
 
-**[18116.32s] English:** знаешь в моем представлении аудитория раст это три человека один из которых  
-**Translation:** 
+**[18116.32s] English:** Knows in my conception of RAST audience, this is three people, one of which  
+**Translation:** Vocabulary: conception: 观念
 
-**[18120.00s] English:** Они сидят где-то в замке, и это очень закрытая группа.  
+**[18120.00s] English:** They sit somewhere in the castle, and this is a very closed group.  
 **Translation:** 
 
-**[18124.18s] English:** Они очень умелые, очень увлеченные, очень опытные игроки.  
-**Translation:** 
+**[18124.18s] English:** They are very skilled, very enthusiastic, very experienced players.  
+**Translation:** Vocabulary: skilled: 技艺高超的
 
-**[18129.92s] English:** Но да, они меня вдохновляют.  
+**[18129.92s] English:** But yes, they inspire me.  
 **Translation:** 
 
-**[18132.40s] English:** Эта игра и Эверквест стали знаковыми.  
-**Translation:** 
+**[18132.40s] English:** This game and EverQuest became iconic.  
+**Translation:** Vocabulary: iconic: 具有标志性的
 
-**[18135.26s] English:** А сколько часов я провел в обеих, это просто безумие.  
+**[18135.26s] English:** How many hours I spent in both is simply madness.  
 **Translation:** 
 
-**[18138.30s] English:** Как думаешь, во что ты больше наиграл, в Эверквест или в Раст?  
-**Translation:** 
+**[18138.30s] English:** How do you think you spent more time playing, EverQuest or Rift?  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[18142.94s] English:** Ну, ты же сам сказал, что я 6 тысяч часов наиграл в ЭКЮ, а в Раст 5 тысяч.  
+**[18142.94s] English:** Nu, you yourself said that I played 6,000 hours in ECYu, and only 5,000 in Rat.  
 **Translation:** 
 
-**[18150.00s] English:** И в этой же коллекции есть Зорк.  
+**[18150.00s] English:** In this collection, there is Zork as well.  
 **Translation:** 
 
-**[18154.04s] English:** Зорк, да, он сразу возвращает меня во времена того старого компьютера IBM,  
+**[18154.04s] English:** Zork, yes, he immediately returns me to the times of that old IBM computer.  
 **Translation:** 
 
-**[18159.78s] English:** за которым мы с мамой и братом пытались сообразить,  
+**[18159.78s] English:** We tried to figure out behind which one my mother and brother and I were following.  
 **Translation:** 
 
-**[18163.70s] English:** как не дать погаснуть фонарю, иначе нас сожрет группа, понимаешь?  
+**[18163.70s] English:** How can we keep the lantern burning, or else the group will consume us, do you understand?  
 **Translation:** 
 
-**[18167.60s] English:** Да, какие-то игры западают в душу и остаются с тобой навсегда.  
-**Translation:** 
+**[18167.60s] English:** Yes, some games capture your heart and stay with you forever.  
+**Translation:** Vocabulary: lantern: 烛光
 
-**[18171.78s] English:** А каким ты видишь будущее игр?  
+**[18171.78s] English:** How do you see the future of games?  
 **Translation:** 
 
-**[18174.34s] English:** Сейчас многие говорят, что ИИ поможет расширить...  
+**[18174.34s] English:** Currently, many say that AI will help expand...  
 **Translation:** 
 
-**[18180.00s] English:** ...скажем так, повествование и создание миров, и станет инструментом, который люди смогут использовать активнее.  
+**[18180.00s] English:** ...let's say, storytelling and world creation, will become a tool that people can use more actively.  
 **Translation:** 
 
-**[18187.46s] English:** Например, для создания более правдоподобных NPC и всего такого.  
-**Translation:** 
+**[18187.46s] English:** For example, to create more believable NPCs and all that.  
+**Translation:** Vocabulary: actively: 积极地; believable: 可信的; storytelling: 讲故事
 
-**[18192.88s] English:** Но еще, как мы уже говорили,  
+**[18192.88s] English:** But also, as we have already discussed,  
 **Translation:** 
 
-**[18196.10s] English:** индустрия видеоигр меняется и пытается понять, как им...  
+**[18196.10s] English:** The video game industry is changing and trying to understand how to handle...  
 **Translation:** 
 
-**[18202.58s] English:** Инди-разработчики пытаются понять, как им получить больше рычагов, да и крупные разработчики тоже.  
+**[18202.58s] English:** Indie developers are trying to understand how they can get more leverage, and larger developers are also doing the same.  
 **Translation:** 
 
-**[18209.70s] English:** Так, какое будущее ждет игры?  
-**Translation:** 
+**[18209.70s] English:** What future awaits games?  
+**Translation:** Vocabulary: awaits: 等待; indie: 独立; leverage: 杠杆作用
 
-**[18212.50s] English:** Я думаю, что если говорить конкретно об ИИ,  
+**[18212.50s] English:** I think that if we specifically talk about AI,  
 **Translation:** 
 
-**[18216.06s] English:** то нынешнее состояние ИИ, попытки внедрить его в разработку, это пока что полный бардак.  
-**Translation:** 
+**[18216.06s] English:** The current state of AI and attempts to integrate it into development is currently a complete mess.  
+**Translation:** Vocabulary: integrate: 融合
 
-**[18223.94s] English:** Да.  
+**[18223.94s] English:** Yes.  
 **Translation:** 
 
-**[18224.62s] English:** Но я считаю, что игры...  
+**[18224.62s] English:** But I believe that games,...  
 **Translation:** 
 
-**[18227.44s] English:** ...это форма искусства, завязанная на технологии.  
+**[18227.44s] English:** ...this is a form of art tied to technology.  
 **Translation:** 
 
-**[18234.70s] English:** И кто-то намного умнее меня однажды это описал,  
+**[18234.70s] English:** And someone much smarter than me once described it.  
 **Translation:** 
 
-**[18238.28s] English:** а я пересказываю своими словами.  
+**[18238.28s] English:** I am paraphrasing it in my own words.  
 **Translation:** 
 
-**[18239.70s] English:** ...по субботникам.  
-**Translation:** 
+**[18239.70s] English:** ...for community clean-up days.  
+**Translation:** Vocabulary: paraphrasing: 改写
 
-**[18240.00s] English:** что создание игры — это как снимать фильм, для которого каждый раз нужно изобретать камеру,  
+**[18240.00s] English:** What creating a game is like making a film, for which you have to invent the camera every time.  
 **Translation:** 
 
-**[18245.88s] English:** ведь по сути изобретаешь технологию под свою компьютерную игру. И думаю,  
+**[18245.88s] English:** Well, essentially you're inventing a technology for your computer game. And I think,  
 **Translation:** 
 
-**[18250.60s] English:** ИИ может здесь помочь, и было бы глупо не воспользоваться этой опцией.  
+**[18250.60s] English:** AI can help here, and it would be foolish not to utilize this option.  
 **Translation:** 
 
-**[18256.62s] English:** Проблема с ИИ сейчас в том, что он слишком самоуверенно выдает результат. Я вот,  
-**Translation:** 
+**[18256.62s] English:** The problem with AI now is that it too confidently produces results. I,  
+**Translation:** Vocabulary: confidently: 自信地; utilize: 利用
 
-**[18265.62s] English:** например, баловался... Ну как и все. Знаете, игрался with Chﷶ'а improvisation и 걱정ской  
+**[18265.62s] English:** For example, he would play around... Just like everyone else. You know, he would improvise and worry a bit.  
 **Translation:** 
 
-**[18273.96s] English:** тание, оттого forged art, и ты генеришь и арту, и это весело не для художников,  
-**Translation:** Vocabulary: forged: 锤炼; improvisation: 即兴
-
-**[18279.02s] English:** играющих с Миджорни, но в основном выходит какая-то дичь. И даже, когда я пытаюсь получить  
+**[18273.96s] English:** Tainie, because forged art, and you generate and artu, and this is not joyful for the artists.  
 **Translation:** 
 
-**[18287.12s] English:** ответ от ИИ... Сам я обычно не делаю интенсивные интерфейсы в игре, и вот я пытаюсь разобраться с  
+**[18279.02s] English:** Playing with Mijorni, but mostly it ends up being some nonsense. And even when I try to get  
 **Translation:** 
+
+**[18287.12s] English:** Response from AI... I usually don't create intense interfaces in games, and here I'm trying to figure out with...  
+**Translation:** Vocabulary: interfaces: 人机界面
 
-**[18295.42s] English:** камерой, как это выглядит в Morp Quite значит, я пытаюсь открыть эту водку , и получить backyard , и  
+**[18295.42s] English:** Camera, as it looks in Morp. Quite means I'm trying to open this vodka and get a backyard, and  
 **Translation:** 
 
-**[18295.60s] English:** Скажем, в UMG, в Unreal Engine, я спрашиваю чат GPT, как решить простую задачу, например, как сделать перенос текста в чате.  
-**Translation:** Vocabulary: backyard: 后院
+**[18295.60s] English:** Let's say in UMG, in Unreal Engine, I ask Chat GPT how to solve a simple task, for example, how to transfer text in the chat.  
+**Translation:** Vocabulary: backyard: 后院; vodka: 伏特加
 
-**[18306.16s] English:** И он с абсолютной уверенностью дает мне неверный ответ.  
+**[18306.16s] English:** He gives me a wrong answer with absolute certainty.  
 **Translation:** 
 
-**[18309.76s] English:** А угадывает в одном случае из десяти.  
+**[18309.76s] English:** He guesses correctly in one case out of ten.  
 **Translation:** 
 
-**[18314.46s] English:** Так что точность должна быть намного выше.  
+**[18314.46s] English:** So, accuracy should be much higher.  
 **Translation:** 
 
-**[18317.88s] English:** И тут встает много моральных вопросов насчет AI, когда речь заходит в том числе о творчестве.  
+**[18317.88s] English:** Here, many moral questions arise regarding AI, especially when it comes to creativity.  
 **Translation:** 
 
-**[18325.60s] English:** Нельзя использовать чужие творческие работы в AI без согласия автора.  
+**[18325.60s] English:** It is not acceptable to use other people's creative works in AI without the author's consent.  
 **Translation:** 
 
-**[18333.32s] English:** Будь то актеры озвучки или художники.  
+**[18333.32s] English:** Whether it be voice actors or artists.  
 **Translation:** 
 
-**[18336.50s] English:** Нельзя брать их материал без их разрешения.  
+**[18336.50s] English:** You cannot take their material without their permission.  
 **Translation:** 
 
-**[18340.44s] English:** Это просто аморально.  
+**[18340.44s] English:** This is simply immoral.  
 **Translation:** 
 
-**[18342.92s] English:** Это, можно сказать, подобие воровства.  
+**[18342.92s] English:** This, one could say, is akin to theft.  
 **Translation:** 
 
-**[18346.62s] English:** И так делать нельзя.  
-**Translation:** 
+**[18346.62s] English:** So, that cannot be done.  
+**Translation:** Vocabulary: cannot: 不允许
 
-**[18349.38s] English:** Мне вот что интересно, особенно как руководителю небольшой студии, где нас 34 человека.  
+**[18349.38s] English:** What I'm particularly interested in, especially as a manager of a small studio with just 34 people, is this.  
 **Translation:** 
 
-**[18355.60s] English:** Ну вот, с какой рутиной нам мог бы помочь AI?  
+**[18355.60s] English:** Nu, voilà, with which routine could AI help us?  
 **Translation:** 
 
-**[18360.00s] English:** С тем, что я не хочу делать сам, но и нанимать ради этого человека не стану.  
+**[18360.00s] English:** Keep what I don't want to do myself, but I won't hire someone just for that either.  
 **Translation:** 
 
-**[18366.10s] English:** Вот тебе дурацкий пример.  
+**[18366.10s] English:** Here's a silly example.  
 **Translation:** 
 
-**[18369.74s] English:** Я делаю кучу изображений, но постоянно задаю им всем не тот размер, потому что я идиот, а не художник.  
+**[18369.74s] English:** I make a lot of images, but I keep setting them all to the wrong size because I'm an idiot, not a artist.  
 **Translation:** 
 
-**[18376.68s] English:** Делал все в фотошоп, а теперь у меня около двух тысяч картинок не того размера.  
+**[18376.68s] English:** I did all the work in Photoshop, and now I have nearly two thousand pictures that are the wrong size.  
 **Translation:** 
 
-**[18381.28s] English:** Я могу попросить чат GPT поменять им всем размер и заархивировать для меня.  
+**[18381.28s] English:** I can ask Chat GPT to change their size and archive them for me.  
 **Translation:** 
 
-**[18386.68s] English:** И на все это уходит буквально минута.  
-**Translation:** 
+**[18386.68s] English:** And it takes literally a minute for all of this.  
+**Translation:** Vocabulary: archive: 归档
 
-**[18390.00s] English:** Я же не собирался нанимать для этого стажера.  
+**[18390.00s] English:** I, however, had no intention of hiring a intern for this.  
 **Translation:** 
 
-**[18394.46s] English:** Я бы просто просидел лишний час-два вечером, чтобы это сделать.  
-**Translation:** 
+**[18394.46s] English:** I would just sit an extra hour or two in the evening to do it.  
+**Translation:** Vocabulary: intern: 实习生
 
-**[18398.38s] English:** То есть он облегчил мне жизнь, никого не лишив работы.  
+**[18398.38s] English:** So he made my life easier without taking anyone's job away.  
 **Translation:** 
 
-**[18403.50s] English:** Вроде бы нормально.  
+**[18403.50s] English:** It seems pretty normal.  
 **Translation:** 
 
-**[18404.62s] English:** И пока эта этическая грань не пересекается, то я не беспокоюсь вот о чем.  
+**[18404.62s] English:** While this ethical boundary has not been crossed, I am not concerned about it.  
 **Translation:** 
 
-**[18410.46s] English:** Каким бы совершенным ни стал ИИ, он никогда не нарисует картину, как Арнольд Санк.  
-**Translation:** 
+**[18410.46s] English:** How perfect AI may become, it will never paint a picture like Arnold Sanc does.  
+**Translation:** Vocabulary: arnold: 桑斯
 
-**[18416.76s] English:** Никогда не расскажет историю, как Крис Мэтсон.  
+**[18416.76s] English:** Never will he tell the story like Chris Matson.  
 **Translation:** 
 
-**[18419.70s] English:** Понимаешь?  
-**Translation:** 
+**[18419.70s] English:** Do you understand?  
+**Translation:** Vocabulary: matson: 马森的例子
 
-**[18420.00s] English:** Понимаешь? Человеческий дух, он незаменим.  
+**[18420.00s] English:** Do you understand? The human spirit is irreplaceable.  
 **Translation:** 
 
-**[18423.10s] English:** Да, трудно описать словами эту магию в людях, но она есть.  
+**[18423.10s] English:** Yes, it's hard to describe this magic in people with words, but it is there.  
 **Translation:** 
 
-**[18428.90s] English:** По-настоящему великие творцы, по-настоящему великие команды, они создают нечто особенное.  
+**[18428.90s] English:** Truly great creators, truly great teams, they create something special.  
 **Translation:** 
 
-**[18434.88s] English:** Сложно точно сформулировать, чего именно не хватает ИИ, тому, что называют ИИ-слопом.  
-**Translation:** 
+**[18434.88s] English:** It's difficult to precisely formulate what exactly is missing in AI, that which is referred to as AI slop.  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[18443.10s] English:** Ведь он создает очень красивые образы, красивые истории и очень правдоподобные тексты.  
+**[18443.10s] English:** Because he creates very beautiful images, beautiful stories, and extremely convincing texts.  
 **Translation:** 
 
-**[18450.54s] English:** Но все равно не то.  
+**[18450.54s] English:** But it's still not quite right.  
 **Translation:** 
 
-**[18453.34s] English:** В нем нет той самой, не знаю, что это, той самой человечности.  
+**[18453.34s] English:** In him, there is no that certain thing, I don't know what to call it, that particular humanity.  
 **Translation:** 
 
-**[18458.20s] English:** Может, дело в несовершенствах?  
+**[18458.20s] English:** May be it's due to imperfections?  
 **Translation:** 
 
-**[18461.30s] English:** Да, очень похоже на то.  
+**[18461.30s] English:** Yes, it looks very much like that.  
 **Translation:** 
 
-**[18464.14s] English:** Для меня ИИ сейчас это как интересный сон при температуре 40, понимаешь?  
+**[18464.14s] English:** For me, AI is like an interesting dream at a temperature of 40, you know?  
 **Translation:** 
 
-**[18468.60s] English:** Да, да.  
+**[18468.60s] English:** Yes, yes.  
 **Translation:** 
 
-**[18469.62s] English:** Вот на таком я сейчас этапе.  
+**[18469.62s] English:** Here at this stage, I am now.  
 **Translation:** 
 
-**[18472.06s] English:** И полезный инструмент для рутины, как ты сказал.  
+**[18472.06s] English:** A useful tool for routine, as you said.  
 **Translation:** 
 
-**[18474.84s] English:** Как думаешь, есть ли у маленьких студий будущее в игровой индустрии?  
+**[18474.84s] English:** Do you think there is a future for small studios in the gaming industry?  
 **Translation:** 
 
-**[18480.00s] English:** Маленькие студии — это и есть будущее игр. Большие студии по сути скупают маленькие студии  
+**[18480.00s] English:** Small studios are essentially the future of games. Big studios basically acquire small studios.  
 **Translation:** 
 
-**[18486.78s] English:** ради новых франшиз и идей, а те потом и сами разрастаются. По-настоящему крутые,  
-**Translation:** 
+**[18486.78s] English:** For new franchises and ideas, they then grow on their own. Truly cool ones,  
+**Translation:** Vocabulary: franchises: 特许经营权
 
-**[18493.38s] English:** новые, прорывные идеи рождаются именно в маленьких студиях.  
+**[18493.38s] English:** New, breakthrough ideas are born in small studios.  
 **Translation:** 
 
-**[18497.76s] English:** Что бы ты посоветовал разработчикам и небольшим командам, которые хотят сделать особенную игру?  
+**[18497.76s] English:** What would you advise developers and small teams that want to make a special game?  
 **Translation:** 
 
-**[18504.60s] English:** Ну, они и так знают, что делать. Раз уж они этим занимаются, они знают. Скорее,  
+**[18504.60s] English:** Nu, they already know what to do. Since they are involved in it, they know. Rather,  
 **Translation:** 
 
-**[18512.94s] English:** мой совет всем разработчикам следующий — владейте своим ремеслом, владейте нашим  
+**[18512.94s] English:** My advice to all developers is to master your craft, and master ours.  
 **Translation:** 
 
-**[18520.06s] English:** видом искусства. Хватит отдавать его этим ебучим корпоративным шакалам. Вы — курица,  
+**[18520.06s] English:** Of art. Enough giving it to these fucking corporate scoundrels. You — chicken.  
 **Translation:** 
 
-**[18525.86s] English:** несущая золотые яйца. Так берегите же их. Джефф, как бывший член команды Overwatch?  
-**Translation:** 
+**[18525.86s] English:** Holding golden eggs. So cherish them. Jeff, as a former member of the Overwatch team?  
+**Translation:** Vocabulary: cherish: 珍惜; scoundrels: 无良商人
 
-**[18534.22s] English:** Да.  
+**[18534.22s] English:** Yes.  
 **Translation:** 
 
-**[18534.38s] English:** Джефф, как бывший член команды Overwatch?  
+**[18534.38s] English:** Jeff, as a former member of the Overwatch team?  
 **Translation:** 
 
-**[18534.58s] English:** Я должен сказать от всего сердца и, думаю, от лица миллионов людей, спасибо за все,  
+**[18534.58s] English:** I must say from the bottom of my heart, and I think on behalf of millions of people, thank you for everything,  
 **Translation:** 
 
-**[18541.20s] English:** что ты создал. Теперь, когда я увидел твою новую игру, не могу дождаться, чтобы в нее поиграть.  
+**[18541.20s] English:** What have you created? Now that I've seen your new game, I can't wait to play it.  
 **Translation:** 
 
-**[18547.66s] English:** Спасибо за все, что ты создал и что олицетворяешь. Спасибо, что ты с нами и что борешься за нас и  
+**[18547.66s] English:** Thank you for all that you have created and embody. Thank you for being with us and fighting for us.  
 **Translation:** 
 
-**[18558.16s] English:** как один из нас. Так что, спасибо. И спасибо за этот разговор.  
-**Translation:** 
+**[18558.16s] English:** As one of us. So, thanks. And thanks for this conversation.  
+**Translation:** Vocabulary: embody: 体现
 
-**[18564.36s] English:** Спасибо, Лекс.  
+**[18564.36s] English:** Thank you, Lex.  
 **Translation:** 
 
-**[18566.54s] English:** Спасибо, что прослушали разговор с Джеффом Капланом. Поддержите подкаст, заглянув к спонсорам в  
-**Translation:** 
+**[18566.54s] English:** Thank you for listening to the conversation with Jeff Kaplan. Support the podcast by checking out our sponsors at  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[18571.86s] English:** описании. Там же вы найдете ссылки, чтобы связаться со мной, задать вопросы или оставить отзыв.  
+**[18571.86s] English:** In the description. There you will also find links to contact me, ask questions, or leave a review.  
 **Translation:** 
 
-**[18579.04s] English:** А теперь, позвольте мне закончить словами Франца Кавки. Не сгибайтесь, не упрощайте, не пытайтесь  
-**Translation:** 
+**[18579.04s] English:** Now, let me conclude with words from Franz Kafka. Do not bend, do not simplify, do not try  
+**Translation:** Vocabulary: simplify: 简化
 
-**[18587.12s] English:** сделать это логичным, не меняйте свою душу в угоду меняющейся моде. Вместо этого, одержимо следуйте  
+**[18587.12s] English:** Make this logical without changing your soul to fit the changing trend. Instead, obsessively follow  
 **Translation:** 
 
-**[18593.80s] English:** своим словам.  
-**Translation:** 
+**[18593.80s] English:** By his words.  
+**Translation:** Vocabulary: obsessively: 痴迷地
 
-**[18594.36s] English:** Я буду самым сильным идеем, несмотря ни на что. Спасибо за внимание. И, надеюсь,  
+**[18594.36s] English:** I will be the strongest idea, no matter what. Thank you for your attention. And I hope,  
 **Translation:** 
 
-**[18600.00s] English:** До скорой встречи.  
+**[18600.00s] English:** Until we meet again.  
 **Translation:** 
 
 

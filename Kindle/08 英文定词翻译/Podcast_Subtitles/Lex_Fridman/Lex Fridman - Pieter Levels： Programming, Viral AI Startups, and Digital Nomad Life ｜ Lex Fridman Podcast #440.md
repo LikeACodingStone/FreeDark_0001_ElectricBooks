@@ -1,8377 +1,8378 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Pieter Levels： Programming, Viral AI Startups, and Digital Nomad Life ｜ Lex Fridman Podcast #440.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Я пытался добиться фотореалистичности с помощью ИИ, но Stable Diffusion не особо справляется, лица какие-то перекошенные.  
+**[0.00s] English:** I tried to achieve photorealism with AI, but Stable Diffusion isn't handling it well; the faces are somehow distorted.  
 **Translation:** 
 
-**[8.20s] English:** Разрешения не хватает, да и в целом не очень.  
-**Translation:** Vocabulary: diffusion: 扩散
+**[8.20s] English:** Permissions are missing, and overall, not very good.  
+**Translation:** Vocabulary: diffusion: 扩散; distorted: 变形; photorealism: 照片级 realism
 
-**[11.66s] English:** Но потом я нашел эти Fine Tune модели, люди обучали их на порно, и вот они были очень фотореалистичными.  
+**[11.66s] English:** But then I found these Fine-Tune models; people had trained them on porn, and they were very photorealistic.  
 **Translation:** 
 
-**[19.48s] English:** Тела выглядели правильно, с нормальной анатомией.  
-**Translation:** 
+**[19.48s] English:** The bodies looked correct, with normal anatomy.  
+**Translation:** Vocabulary: anatomy: 解剖学; photorealistic: 照片般逼真
 
-**[23.40s] English:** Но у этих моделей, которые даже сейчас считаются крутыми, там все еще есть отголоски порно голых людей.  
+**[23.40s] English:** But in these models, which are even considered cool now, there are still echoes of pornographic images of naked people.  
 **Translation:** 
 
-**[31.06s] English:** В промке нужно писать «никакой наготы», это обязательное правило для ИИ-стартапа, вычищайте такое из изображения.  
-**Translation:** 
+**[31.06s] English:** In promka, you need to write "no nudity," this is an obligatory rule for an AI-startup, and you should remove such content from the images.  
+**Translation:** Vocabulary: echoes: 回声; nudity: 裸体; obligatory: 强制的; pornographic: 色情的
 
-**[36.80s] English:** Приходится напоминать модели, не забудь про одежду.  
+**[36.80s] English:** I have to remind the model not to forget about the clothing.  
 **Translation:** 
 
-**[39.52s] English:** Да, никакой наготы. У меня есть Google Vision, и он проверяет каждое фото на предмет NSFW.  
+**[39.52s] English:** Yes, there is no nudity. I have Google Vision, and it checks each photo for NSFW content.  
 **Translation:** 
 
-**[45.44s] English:** Детектор сосков? А, NSFW.  
+**[45.44s] English:** Detector for nipples? Ah, NSFW.  
 **Translation:** 
 
-**[48.26s] English:** Журналисты сильно сердятся.  
-**Translation:** 
+**[48.26s] English:** Journalists are very angry.  
+**Translation:** Vocabulary: detector: 检测器; nipples: 乳头
 
-**[52.22s] English:** Это беседа.  
+**[52.22s] English:** This is a conversation.  
 **Translation:** 
 
-**[53.40s] English:** Это беседа с Питером Левелсом, известным в Экс как «Левелс АйО».  
-**Translation:** 
+**[53.40s] English:** This is a conversation with Peter Levells, known in Ex as "Levells AI".  
+**Translation:** Vocabulary: levells: 莱弗尔斯
 
-**[59.40s] English:** Он разработчик, самоучка и предприниматель, который создал, запустил и управлял более 40 стартапами.  
+**[59.40s] English:** He is a self-taught developer and entrepreneur who created, launched, and managed over 40 startups.  
 **Translation:** 
 
-**[66.88s] English:** Многие из них стали очень успешными.  
-**Translation:** 
+**[66.88s] English:** Many of them became very successful.  
+**Translation:** Vocabulary: entrepreneur: 企业家; startups: 初创公司
 
-**[69.64s] English:** В большинстве случаев он делал все сам, ведя жизнь цифрового намада в более чем 40 странах и 150 городах.  
+**[69.64s] English:** In most cases, he did everything himself, leading a digital nomad life in more than 40 countries and 150 cities.  
 **Translation:** 
 
-**[79.78s] English:** Работая с ноутбука, чиля на диване и используя его в жизни.  
-**Translation:** 
+**[79.78s] English:** Working from my laptop, chilling on the couch and using it in everyday life.  
+**Translation:** Vocabulary: chilling: 放松; laptop: 笔记本电脑
 
-**[83.42s] English:** Используя VanillaHTML, jQuery, PHP и SQLite, он быстро создает и запускает продукты, дорабатывая их на лету, все в открытую, документируя свою работу, как успехи, так и неудачи, с прямотой настоящего инди-хакера.  
+**[83.42s] English:** Using Vanilla HTML, jQuery, PHP, and SQLite, he quickly creates and launches products, iterating on them in real-time, all in the open, documenting his work as both successes and failures, with the honesty of a true indie hacker.  
 **Translation:** 
 
-**[101.20s] English:** Питер вдохновляет многих разработчиков и предпринимателей, которые любят создавать что-то классное и, надеюсь, полезное для людей.  
-**Translation:** 
+**[101.20s] English:** Peter inspires many developers and entrepreneurs who love to create something cool and, hopefully, useful for people.  
+**Translation:** Vocabulary: documenting: 记录; entrepreneurs: 企业家; hacker: 黑客; indie: 独立; inspires: 启发; vanilla: 原味
 
-**[110.98s] English:** Для меня это было честью и удовольствием.  
+**[110.98s] English:** For me, it was an honor and a pleasure.  
 **Translation:** 
 
-**[114.22s] English:** Вы слушаете подкаст Лекса Фридмана.  
+**[114.22s] English:** You are listening to the Lex Fridman Podcast.  
 **Translation:** 
 
-**[116.90s] English:** Пожалуйста, поддержите его, перейдя по ссылкам в описании.  
+**[116.90s] English:** Please support him by clicking on the links in the description.  
 **Translation:** 
 
-**[129.38s] English:** Продолжение следует...  
+**[120.00s] English:** Now, dear friends, Peter Levels.  
 **Translation:** 
 
-**[120.00s] English:** А теперь, дорогие друзья, Питер Левелс.  
+**[123.80s] English:** You have launched more than one company and created a multitude of products.  
 **Translation:** 
 
-**[123.80s] English:** Ты запустил не одну компанию и создал массу продуктов.  
-**Translation:** 
+**[128.48s] English:** As you say, most failed, but some succeeded.  
+**Translation:** Vocabulary: multitude: 众多
 
-**[128.48s] English:** Как ты говоришь, большинство провалилось, но некоторые преуспели.  
+**[129.38s] English:** To be continued...  
 **Translation:** 
 
-**[131.72s] English:** В чем твоя философия о построении стартапов?  
+**[131.72s] English:** What is your philosophy on building startups?  
 **Translation:** 
 
-**[134.74s] English:** Думаю, она сильно отличается от подхода большинства.  
+**[134.74s] English:** I think it strongly differs from the approach of most people.  
 **Translation:** 
 
-**[137.64s] English:** Ведь, как обычно, создают компанию, привлекают инвестиции,  
-**Translation:** 
+**[137.64s] English:** Because, as usual, a company is created and investments are attracted,  
+**Translation:** Vocabulary: differs: 不同; investments: 投资
 
-**[141.66s] English:** нанимают команду, разрабатывают продукт, а потом ищут, как на нем заработать.  
+**[141.66s] English:** They hire a team, develop a product, and then look for ways to make money from it.  
 **Translation:** 
 
-**[146.34s] English:** Я не привлекаю инвестиций, даже венчурные.  
-**Translation:** 
+**[146.34s] English:** I do not attract investments, even venture ones.  
+**Translation:** Vocabulary: venture: 风险投资
 
-**[148.50s] English:** Я и дизайнер, и разработчик, и делаю все сам, вплоть до логотипа.  
+**[148.50s] English:** I am a designer and developer, and I do everything myself, from the logo to the details.  
 **Translation:** 
 
-**[153.22s] English:** Мой подход куда более скромный.  
-**Translation:** 
+**[153.22s] English:** My approach is much more modest.  
+**Translation:** Vocabulary: modest: 谦逊
 
-**[156.08s] English:** И поскольку у меня нет финансирования, то я должен шевелиться,  
+**[156.08s] English:** Since I don't have funding, I have to stay active.  
 **Translation:** 
 
-**[160.50s] English:** чтобы понять, работает ли идея.  
+**[160.50s] English:** To understand if the idea works.  
 **Translation:** 
 
-**[162.94s] English:** И у меня появляется концепт, я делаю из него подобие имени стартапа.  
+**[162.94s] English:** And I start developing a concept, turning it into a semblance of a startup name.  
 **Translation:** 
 
-**[167.26s] English:** И запускаю это очень быстро, буквально за пару недель.  
-**Translation:** 
+**[167.26s] English:** I launched this very quickly, literally in a couple of weeks.  
+**Translation:** Vocabulary: semblance: 表面样子
 
-**[171.42s] English:** Потом я проверяю, есть ли спрос.  
+**[171.42s] English:** Then I check if there is a demand.  
 **Translation:** 
 
-**[173.50s] English:** Люди должны не только подписываться, но и доставать.  
+**[173.50s] English:** People should not only sign but also deliver.  
 **Translation:** 
 
-**[178.50s] English:** Свои кредитки и платить.  
+**[178.50s] English:** Own credit cards and pay.  
 **Translation:** 
 
-**[179.70s] English:** Только тогда я понимаю, что идея жизнеспособна, и большинство идей, как ты сказал, не срабатывают.  
-**Translation:** 
+**[179.70s] English:** Only then do I understand that an idea is viable, and, as you said, most ideas do not work out.  
+**Translation:** Vocabulary: viable: 可行的
 
-**[185.58s] English:** Ты придерживаешься такого быстрого, итеративного подхода.  
+**[185.58s] English:** You adhere to such a fast, iterative approach.  
 **Translation:** 
 
-**[189.66s] English:** Создать прототип, запустить.  
-**Translation:** 
+**[189.66s] English:** Create a prototype and launch it.  
+**Translation:** Vocabulary: adhere: 坚持; iterative: 迭代的; prototype: 原型
 
-**[191.66s] English:** Да.  
+**[191.66s] English:** Yes.  
 **Translation:** 
 
-**[192.16s] English:** Смотришь, нравится ли это людям, и быстро улучшаешь его, чтобы понять, готовы ли за него платить.  
+**[192.16s] English:** Look to see if people like it, and quickly improve it to understand whether they are willing to pay for it.  
 **Translation:** 
 
-**[197.26s] English:** Весь этот процесс быстрых запусков — это то, как ты работаешь.  
+**[197.26s] English:** This entire process of rapid launches is how you work.  
 **Translation:** 
 
-**[201.38s] English:** Да, использую очень быстрый подход.  
+**[201.38s] English:** Yes, I am using a very fast approach.  
 **Translation:** 
 
-**[204.26s] English:** Если сравнивать, например, с Google или другими бигтехами,  
+**[204.26s] English:** If compared, for example, with Google or other big tech companies,  
 **Translation:** 
 
-**[207.22s] English:** сейчас Google явно больше.  
+**[207.22s] English:** Google is now clearly much bigger.  
 **Translation:** 
 
-**[207.92s] English:** Сейчас Google явно больше.  
+**[207.92s] English:** Google is clearly much bigger now.  
 **Translation:** 
 
-**[208.42s] English:** Они изобрели трансформеры, создали все эти ИИ-технологии еще годы назад,  
+**[208.42s] English:** They invented transformers, created all these AI technologies years ago.  
 **Translation:** 
 
-**[212.42s] English:** но толком они могли бы выпустить ChatGPT еще в 2019, но так и не выпустили, завязанную в бюрократии.  
+**[212.42s] English:** But they could have released ChatGPT in 2019, but they didn't, getting stuck in bureaucracy.  
 **Translation:** 
 
-**[220.42s] English:** У них было все — данные, технологии, инженеры, но у них не вышло.  
-**Translation:** 
+**[220.42s] English:** They had it all—data, technology, engineers, but they didn't succeed.  
+**Translation:** Vocabulary: bureaucracy: 官僚主义
 
-**[225.42s] English:** Большие организации могут сильно тормозить процесс.  
+**[225.42s] English:** Large organizations can significantly slow down the process.  
 **Translation:** 
 
-**[229.42s] English:** А я, сидя один с ноутбуком, в трусах где-то в гостинице, работаю очень быстро.  
-**Translation:** 
+**[229.42s] English:** I, sitting alone with my laptop in some hotel where I'm wearing just underwear, work very quickly.  
+**Translation:** Vocabulary: laptop: 便携电脑; underwear: 内衣
 
-**[236.42s] English:** Мне не нужно спрашивать юристов.  
+**[236.42s] English:** I don't need to ask lawyers.  
 **Translation:** 
 
-**[237.84s] English:** Вы можете вот это...  
+**[237.84s] English:** You can do this...  
 **Translation:** 
 
-**[240.00s] English:** Одобрить. Я просто беру и запускаю.  
+**[240.00s] English:** Approve. I just take it and run it.  
 **Translation:** 
 
-**[242.48s] English:** Ты всегда пишешь код в трусах?  
+**[242.48s] English:** You always write code in your underwear?  
 **Translation:** 
 
-**[244.62s] English:** На твоей аватарке ты на полном чиле.  
+**[244.62s] English:** On your avatar, you look totally chill.  
 **Translation:** 
 
-**[247.26s] English:** Да.  
-**Translation:** 
+**[247.26s] English:** Yes.  
+**Translation:** Vocabulary: avatar: 化身; chill: 放松
 
-**[247.64s] English:** На диване, в трусах с ноутбуком.  
+**[247.64s] English:** On the couch, in underwear with a laptop.  
 **Translation:** 
 
-**[249.84s] English:** Вообще, я часто ношу шорты и обычно без футболки, ведь мне постоянно жарко.  
+**[249.84s] English:** Generally, I often wear shorts and usually go without a t-shirt, since it's constantly hot.  
 **Translation:** 
 
-**[255.14s] English:** Вечно перегреваюсь.  
+**[255.14s] English:** I constantly overheat.  
 **Translation:** 
 
-**[256.18s] English:** Спасибо, что пришел не в одних трусах, а в шортах.  
+**[256.18s] English:** Thanks that you came wearing shorts and not just in underwear.  
 **Translation:** 
 
-**[259.68s] English:** Да. Ради тебя нарядился, но...  
+**[259.68s] English:** Yes. I dressed up for you, but...  
 **Translation:** 
 
-**[261.52s] English:** Спасибо тебе за такой дресс-код.  
+**[261.52s] English:** Thank you for such a dress code.  
 **Translation:** 
 
-**[263.66s] English:** Я просто стал ходить в зал, и мне после него вечно жарко.  
+**[263.66s] English:** I just started going to the gym, and I'm always hot after it.  
 **Translation:** 
 
-**[266.66s] English:** Какое любимое упражнение?  
+**[266.66s] English:** What is your favorite exercise?  
 **Translation:** 
 
-**[268.26s] English:** Джим над головой.  
+**[268.26s] English:** Jim over his head.  
 **Translation:** 
 
-**[269.20s] English:** Это типа на дельты?  
-**Translation:** 
+**[269.20s] English:** Is this like at the delta?  
+**Translation:** Vocabulary: delta: 河口三角洲
 
-**[270.58s] English:** Да.  
+**[270.58s] English:** Yes.  
 **Translation:** 
 
-**[271.36s] English:** Понял.  
+**[271.36s] English:** Understood.  
 **Translation:** 
 
-**[271.86s] English:** Классно. Чувствуешь себя победителем, когда...  
+**[271.86s] English:** Classno. You feel like a winner when...  
 **Translation:** 
 
-**[275.28s] English:** Я жму 60 килограмм, это около 120 фунтов.  
+**[275.28s] English:** I lift 60 kilograms, which is about 132 pounds.  
 **Translation:** 
 
-**[278.44s] English:** Да.  
+**[278.44s] English:** Yes.  
 **Translation:** 
 
-**[279.18s] English:** Это единственное, что у меня хорошо получается.  
+**[279.18s] English:** This is the only thing that comes easily to me.  
 **Translation:** 
 
-**[281.28s] English:** Ты стоишь вот так и думаешь, я сделал это.  
+**[281.28s] English:** You stand there thinking, "I did it.  
 **Translation:** 
 
-**[283.48s] English:** Это поза победы.  
+**[283.48s] English:** This is the victory pose.  
 **Translation:** 
 
-**[284.36s] English:** Да, поза победителя. Я делаю жимы, приседания, тяги.  
+**[284.36s] English:** Yes, a winner's pose. I do bench presses, squats, and pull-ups.  
 **Translation:** 
 
-**[288.88s] English:** Поэтому и крошка такая.  
-**Translation:** 
+**[288.88s] English:** Therefore, such a tiny one.  
+**Translation:** Vocabulary: presses: 卧推; squats: 深蹲
 
-**[290.38s] English:** Ну да.  
+**[290.38s] English:** Nu da.  
 **Translation:** 
 
-**[290.96s] English:** Говорю с терапевтом.  
-**Translation:** 
+**[290.96s] English:** I am speaking with a therapist.  
+**Translation:** Vocabulary: therapist: 治疗师
 
-**[291.98s] English:** Да.  
+**[291.98s] English:** Yes.  
 **Translation:** 
 
-**[292.24s] English:** И тут становая тяга.  
-**Translation:** 
+**[292.24s] English:** Here's the stationery tug.  
+**Translation:** Vocabulary: stationery: 办公用品
 
-**[293.42s] English:** Для меня это как терапия.  
+**[293.42s] English:** For me, this is like therapy.  
 **Translation:** 
 
-**[295.20s] English:** Да, да, именно так.  
+**[295.20s] English:** Yes, yes, exactly like that.  
 **Translation:** 
 
-**[296.12s] English:** Хотя это и спорно. В Твиттере бы от этого пригорело.  
+**[296.12s] English:** Although this is debatable, Twitter would definitely have a problem with it.  
 **Translation:** 
 
-**[298.60s] English:** Физические нагрузки – это вид терапии.  
+**[298.60s] English:** Physical activities are a form of therapy.  
 **Translation:** 
 
-**[301.34s] English:** Я недавно пересмотрел «Счастливые люди. Год в тайге».  
+**[301.34s] English:** I recently rewatched "Happy People: A Year in the Taiga.  
 **Translation:** 
 
-**[305.72s] English:** Фильм Вернера Херцега, где рассказывают о людях, которые занимаются охотой.  
-**Translation:** 
+**[305.72s] English:** A film by Werner Herzog, where they tell about people who hunt.  
+**Translation:** Vocabulary: herzog: 赫尔佐格; rewatched: 重新观看; taiga: 泰加林
 
-**[311.46s] English:** Они трудятся ради выживания в дикой природе круглый год.  
+**[311.46s] English:** They work hard to survive in the wild throughout the year.  
 **Translation:** 
 
-**[315.48s] English:** Они глубоко счастливы в своем образе жизни, потому что они вечно заняты.  
+**[315.48s] English:** They are deeply happy in their lifestyle because they are constantly occupied.  
 **Translation:** 
 
-**[320.54s] English:** Живут этим в природе.  
+**[320.54s] English:** They live in nature.  
 **Translation:** 
 
-**[321.90s] English:** Да, сто процентов.  
+**[321.90s] English:** Yes, one hundred percent.  
 **Translation:** 
 
-**[322.76s] English:** Что-то есть в этой физической работе.  
+**[322.76s] English:** There is something in this physical work.  
 **Translation:** 
 
-**[325.86s] English:** Да, меня этому отец научил.  
+**[325.86s] English:** Yes, my father taught me that.  
 **Translation:** 
 
-**[327.66s] English:** Да.  
+**[327.66s] English:** Yes.  
 **Translation:** 
 
-**[328.60s] English:** Он что-то строил у нас дома, вел бесконечный ремонт.  
+**[328.60s] English:** He was building something at our house, constantly doing endless repairs.  
 **Translation:** 
 
-**[331.70s] English:** Сносил стены в одной комнате, переходил в следующую.  
+**[331.70s] English:** He knocked down the walls in one room, then moved to the next.  
 **Translation:** 
 
-**[334.42s] English:** И так 40 лет наматывал круги по всему дому.  
+**[334.42s] English:** So for 40 years, he circled around the entire house.  
 **Translation:** 
 
-**[338.30s] English:** Этот ремонт превратился в его хобби.  
+**[338.30s] English:** This repair work turned into his hobby.  
 **Translation:** 
 
-**[342.04s] English:** Он учил меня, что если нападает депрессия,  
+**[342.04s] English:** He taught me that if depression strikes,  
 **Translation:** 
 
-**[345.50s] English:** он говорил, возьми большую гору песка и что-то для стройки,  
+**[345.50s] English:** He said, "Take a big mountain of sand and something for construction.  
 **Translation:** 
 
-**[350.02s] English:** и возьми лопату, и перекидывай этот песок, занимаясь физическим трудом, упорно работай.  
-**Translation:** 
+**[350.02s] English:** And take a shovel, and throw this sand around, engaging in physical labor, work diligently.  
+**Translation:** Vocabulary: diligently: 勤奋地; shovel: 铲子
 
-**[357.10s] English:** Делай что-нибудь, поставь цель, займись делом.  
+**[357.10s] English:** Do something, set a goal, get to work.  
 **Translation:** 
 
-**[360.00s] English:** Такой подход у меня к стартапам.  
-**Translation:** 
+**[360.00s] English:** Such an approach I have towards startups.  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[362.00s] English:** Да, стройка — это не про результат, а про процесс.  
+**[362.00s] English:** Yes, construction is not about the result, but about the process.  
 **Translation:** 
 
-**[366.00s] English:** Точно.  
+**[366.00s] English:** Exactly.  
 **Translation:** 
 
-**[367.00s] English:** Я порою задумываюсь, те, кто ведут бесконечный ремонт, это реально про ремонт?  
+**[367.00s] English:** I sometimes wonder if those who constantly do repairs are really into repair work?  
 **Translation:** 
 
-**[371.00s] English:** Нет, вообще нет.  
+**[371.00s] English:** No, not at all.  
 **Translation:** 
 
-**[372.00s] English:** Это про сам проект?  
+**[372.00s] English:** Is this about the project itself?  
 **Translation:** 
 
-**[373.00s] English:** Про процесс.  
+**[373.00s] English:** The process.  
 **Translation:** 
 
-**[374.00s] English:** Про головоломку.  
+**[374.00s] English:** About the puzzle.  
 **Translation:** 
 
-**[375.00s] English:** Результат не так важен.  
+**[375.00s] English:** The result is not so important.  
 **Translation:** 
 
-**[376.00s] English:** Он говорил «смотри, как классно», а я «ну да».  
+**[376.00s] English:** He said "look how cool," and I replied "oh yeah.  
 **Translation:** 
 
-**[380.00s] English:** А потом он переходил в следующую комнату.  
+**[380.00s] English:** Then he moved into the next room.  
 **Translation:** 
 
-**[383.00s] English:** Это метафора к моей работе.  
+**[383.00s] English:** This is a metaphor for my work.  
 **Translation:** 
 
-**[385.00s] English:** Я тоже не останавливаюсь, перехожу к следующему сайту.  
-**Translation:** 
+**[385.00s] English:** I also don't stop, I move on to the next website.  
+**Translation:** Vocabulary: metaphor: 比喻
 
-**[388.00s] English:** Или создаю новый, или запускаю новый стартап.  
+**[388.00s] English:** Or I create a new one, or launch a new startup.  
 **Translation:** 
 
-**[391.00s] English:** Это дает тебе то, ради чего можно проснуться утром, типа, выпить кофе,  
+**[391.00s] English:** This gives you something to wake up for in the morning, like drinking coffee.  
 **Translation:** 
 
-**[396.00s] English:** поцеловать свою девушку, и иметь цель «сегодня я исправлю это,  
+**[396.00s] English:** Kiss my girlfriend, and have the goal "Today I'll fix this,  
 **Translation:** 
 
-**[400.00s] English:** пофиксю этот баг или сделаю что-то полезное».  
+**[400.00s] English:** I'll fix this bug or do something useful.  
 **Translation:** 
 
-**[403.00s] English:** Это стимул вставать по утрам, и, мне кажется,  
+**[403.00s] English:** This is a motivator to get up in the mornings, and I think,  
 **Translation:** 
 
-**[406.00s] English:** особенно для мужчин, но и для женщин тоже важно, чтобы была сложная задача, которая требует усилий.  
+**[406.00s] English:** Especially for men, but also for women, it is important that there be a complex task that requires effort.  
 **Translation:** 
 
-**[412.00s] English:** А сколько из того, что ты делаешь, про деньги,  
+**[412.00s] English:** How much of what you do is about money?  
 **Translation:** 
 
-**[416.00s] English:** а сколько — про глубокое внутреннее?  
+**[416.00s] English:** How much about deep internal matters?  
 **Translation:** 
 
-**[418.00s] English:** В основном ради удовольствия.  
+**[418.00s] English:** For the most part, for enjoyment.  
 **Translation:** 
 
-**[420.00s] English:** Я этим занимался, даже будучи на мели, и в этом и суть.  
+**[420.00s] English:** I did this even when I was struggling, and this is the essence.  
 **Translation:** 
 
-**[423.00s] English:** Я всегда программировал, писал электронную музыку,  
+**[423.00s] English:** I always programmed and wrote electronic music,  
 **Translation:** 
 
-**[426.00s] English:** драм-н-бейс еще 20 лет назад.  
+**[426.00s] English:** Dram-beats 20 years ago.  
 **Translation:** 
 
-**[428.00s] English:** Я всегда что-то создавал.  
+**[428.00s] English:** I always created something.  
 **Translation:** 
 
-**[430.00s] English:** По-моему, творческое самовыражение — это важная и значимая работа.  
+**[430.00s] English:** According to me, creative self-expression is an important and meaningful task.  
 **Translation:** 
 
-**[436.00s] English:** Круто иметь ежедневные вызовы, где нужно что-то решать.  
+**[436.00s] English:** It's cool to have daily challenges where you need to solve something.  
 **Translation:** 
 
-**[440.00s] English:** Но интересно, что ты создал много успешных продуктов,  
+**[440.00s] English:** But interestingly, you have created many successful products,  
 **Translation:** 
 
-**[444.00s] English:** и никогда особо не стремился  
+**[444.00s] English:** And I never really tried particularly.  
 **Translation:** 
 
-**[447.00s] English:** масштабироваться, чтобы продать это потом крупной компании.  
+**[447.00s] English:** To scale up and sell it later to a large company.  
 **Translation:** 
 
-**[452.00s] English:** Проблема в том, что я этим не управляю.  
+**[452.00s] English:** The problem is that I don't control this.  
 **Translation:** 
 
-**[455.00s] English:** Если миллионы вдруг начнут этим пользоваться, и проект разрастется,  
+**[455.00s] English:** If millions suddenly start using it and the project grows,  
 **Translation:** 
 
-**[459.00s] English:** я ведь не скажу, хватит регаться и платить мне.  
+**[459.00s] English:** I don't say, stop registering and paying me.  
 **Translation:** 
 
-**[463.00s] English:** Я ни разу не искал финансирования, наверное, потому что не люблю приходящий с этим стресс.  
-**Translation:** 
+**[463.00s] English:** I have never looked for funding, I suppose because I don't like the stress that comes with it.  
+**Translation:** Vocabulary: registering: 注册
 
-**[468.00s] English:** У меня есть много друзей-основателей,  
+**[468.00s] English:** I have many founder friends,  
 **Translation:** 
 
-**[471.00s] English:** и они говорят мне,  
+**[471.00s] English:** And they tell me,  
 **Translation:** 
 
-**[473.00s] English:** они находят сотни миллионов на свои проекты,  
+**[473.00s] English:** They find hundreds of millions for their projects,  
 **Translation:** 
 
-**[476.00s] English:** и говорят, что следующий свой проект я буду делать...  
+**[476.00s] English:** And they say that my next project will be...  
 **Translation:** 
 
-**[480.00s] English:** Как ты, это веселее, более инди-человек и креативнее.  
+**[480.00s] English:** It's more fun, more indie-person and more creative.  
 **Translation:** 
 
-**[483.88s] English:** Они не хотят быть менеджерами, ты становишься словно SEO.  
+**[483.88s] English:** They don't want to be managers; you become like SEO.  
 **Translation:** 
 
-**[489.54s] English:** Думаю, многие, кто запускают стартапы,  
+**[489.54s] English:** I think many who launch startups,  
 **Translation:** 
 
-**[492.40s] English:** они становятся SEO, и работа им не нравится, но пути назад уже нет.  
-**Translation:** 
+**[492.40s] English:** They become SEOs, and they don't like their work, but there's no going back now.  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[496.72s] English:** Но им нравится базовая работа, писать код.  
+**[496.72s] English:** But they like the basic work, writing code.  
 **Translation:** 
 
-**[499.82s] English:** Наверное, это и делает их счастливыми, заниматься чем-то креативным.  
+**[499.82s] English:** Probably what makes them happy is engaging in something creative.  
 **Translation:** 
 
-**[504.32s] English:** Интересно, как людей тянет к масштабированию, к большим целям.  
+**[504.32s] English:** Interesting how people are drawn to scaling, to big goals.  
 **Translation:** 
 
-**[508.86s] English:** Но у них не всегда есть ясное понимание того, что реально делает их счастливыми.  
+**[508.86s] English:** But they do not always have a clear understanding of what really makes them happy.  
 **Translation:** 
 
-**[515.16s] English:** Для многих отличных инженеров истинное счастье в создании,  
+**[515.16s] English:** For many excellent engineers, true happiness lies in creation.  
 **Translation:** 
 
-**[518.96s] English:** так сказать, вносить индивидуальный вклад.  
+**[518.96s] English:** Such as making an individual contribution.  
 **Translation:** 
 
-**[521.56s] English:** Когда ты все еще пишешь код или что-то строишь,  
+**[521.56s] English:** When you are still writing code or building something,  
 **Translation:** 
 
-**[524.86s] English:** и они отказываются от этого, они становятся несчастными.  
+**[524.86s] English:** And they refuse to do this, and they become unhappy.  
 **Translation:** 
 
-**[528.54s] English:** Но иногда это жертва, необходимая для оказания масштабного влияния,  
+**[528.54s] English:** But sometimes it is a sacrifice necessary for achieving significant influence.  
 **Translation:** 
 
-**[532.90s] English:** если ты и вправду веришь в то, что делаешь.  
-**Translation:** 
+**[532.90s] English:** If you truly believe in what you are doing.  
+**Translation:** Vocabulary: sacrifice: 牺牲
 
-**[535.04s] English:** Но посмотри на Илона, он делает вещи в миллионы раз,  
+**[535.04s] English:** But look at Elon, he does things millions of times better,  
 **Translation:** 
 
-**[538.86s] English:** и он делает вещи в миллионы раз, и он делает вещи в миллионы раз, и он делает вещи в миллионы раз.  
+**[538.86s] English:** He does things a million times and he does things a million times and he does things a million times.  
 **Translation:** 
 
-**[541.86s] English:** Хочу ли я так?  
+**[541.86s] English:** Do I want it that way?  
 **Translation:** 
 
-**[542.86s] English:** Не знаю, такое не выбирается, но я очень уважаю это.  
+**[542.86s] English:** I don't know, it's not something you choose, but I respect it very much.  
 **Translation:** 
 
-**[544.86s] English:** Илон сильно отличается от венчурных основателей, висе это как софт.  
+**[544.86s] English:** Ilon strongly differs from venture founders, as this is more like a soft approach.  
 **Translation:** 
 
-**[547.86s] English:** Мне кажется, в том мире куча всякой херни.  
-**Translation:** 
+**[547.86s] English:** It seems like there's a lot of bullshit in that world.  
+**Translation:** Vocabulary: bullshit: 胡说八道; differs: 不同; founders: 创始人; venture: 风险投资
 
-**[550.86s] English:** Там мутятся странные финансовые дела.  
+**[550.86s] English:** There are strange financial dealings going on there.  
 **Translation:** 
 
-**[553.86s] English:** У меня нет доказательств, но интуиция говорит, что что-то там нечисто.  
-**Translation:** 
+**[553.86s] English:** Keep the same transcript segment with proper punctuation and capitalization: Keep the same transcript segment with proper punctuation and capitalization: "У меня нет доказательств, но интуиция говорит, что что-то там нечисто." Improvement with natural English punctuation and capitalization: "У меня нет доказательств, но интуиция говорит, что что-то там нечисто." (Note: The original text is in Russian, so the improvement focuses on adding appropriate punctuation and capitalization as requested.)  
+**Translation:** Vocabulary: capitalization: 大写; segment: 部分; transcript: 录音
 
-**[558.86s] English:** Когда компании продают друзьям или инвесторам, а потом делают взаимные услуги.  
+**[558.86s] English:** When companies sell shares to friends or investors and then do mutual favors.  
 **Translation:** 
 
-**[563.86s] English:** Всякие темные мутки.  
+**[563.86s] English:** Various dark mists.  
 **Translation:** 
 
-**[565.86s] English:** Илон не такой, он привлекает деньги от инвесторов.  
+**[565.86s] English:** Ilon is not like that; he attracts money from investors.  
 **Translation:** 
 
-**[568.86s] English:** Чтобы заниматься серьезным железом.  
-**Translation:** 
+**[568.86s] English:** To lift serious weights.  
+**Translation:** Vocabulary: attracts: 吸引
 
-**[571.86s] English:** Я это очень уважаю.  
+**[571.86s] English:** I very much respect that.  
 **Translation:** 
 
-**[574.86s] English:** Ты говорил, что были моменты, когда ты был на дне.  
+**[574.86s] English:** You said that there were moments when you hit rock bottom.  
 **Translation:** 
 
-**[577.86s] English:** А созидание стало одним из способов, чтобы выбраться.  
+**[577.86s] English:** And creation became one of the ways to escape.  
 **Translation:** 
 
-**[581.86s] English:** Расскажи об этом.  
+**[581.86s] English:** Tell me about this.  
 **Translation:** 
 
-**[582.86s] English:** Перенеси меня в то время, когда ты был на самом дне.  
+**[582.86s] English:** Move me to the time when you were at the very bottom.  
 **Translation:** 
 
-**[586.86s] English:** Я жил в Голландии, окончил универ и не хотел обычной работы.  
-**Translation:** 
+**[586.86s] English:** I lived in Holland, graduated from university, and didn't want a typical job.  
+**Translation:** Vocabulary: holland: 荷兰
 
-**[590.86s] English:** Я немного зарабатывал на YouTube, занимаясь музыкой и выкладывая ее там.  
+**[590.86s] English:** I made a little money on YouTube by making music and uploading it there.  
 **Translation:** 
 
-**[594.86s] English:** YouTube платил мне через AdSense около двух-трех тысяч.  
-**Translation:** 
+**[594.86s] English:** YouTube paid me through AdSense around two to three thousand dollars.  
+**Translation:** Vocabulary: uploading: 上传
 
-**[598.86s] English:** Это было между 200 и 2000 в месяц.  
+**[598.86s] English:** This was between $200 and $2000 per month.  
 **Translation:** 
 
-**[600.00s] English:** А все мои друзья устроились на нормальные работы, и мы перестали общаться.  
+**[600.00s] English:** All of my friends got good jobs, and we stopped talking.  
 **Translation:** 
 
-**[604.42s] English:** В универе все тусуются вместе, ходят друг к другу в гости, ходят на вечеринки.  
+**[604.42s] English:** At the university, everyone hangs out together, goes to each other's houses, and goes to parties.  
 **Translation:** 
 
-**[609.70s] English:** Но начиная работать, тусуются лишь по выходным, а в будни не встречаются, ведь нужно быть в офисе.  
+**[609.70s] English:** But starting to work, they hang out only on weekends, and don't meet on weekdays, as they need to be in the office.  
 **Translation:** 
 
-**[615.16s] English:** И я подумал, это не для меня.  
+**[615.16s] English:** I thought it's not for me.  
 **Translation:** 
 
-**[617.48s] English:** И у меня началось, это вроде называется возвращение Сатурна, когда тебе 27.  
+**[617.48s] English:** And it began for me, this is called Saturn Return when you're 27.  
 **Translation:** 
 
-**[622.62s] English:** Это концепция, что Сатурн возвращается в ту же точку орбиты, где он был при твоем рождении.  
+**[622.62s] English:** This is the concept that Saturn returns to the same point in your orbit where it was at the time of your birth.  
 **Translation:** 
 
-**[628.08s] English:** Я столько нового узнал.  
-**Translation:** 
+**[628.08s] English:** I learned so much new.  
+**Translation:** Vocabulary: saturn: 土星
 
-**[629.56s] English:** Это что-то из астрологии.  
+**[629.56s] English:** This is something from astrology.  
 **Translation:** 
 
-**[631.24s] English:** Многие крайне особенные артисты умерли в 27.  
-**Translation:** 
+**[631.24s] English:** Many extremely special artists died at 27.  
+**Translation:** Vocabulary: astrology: 占星术
 
-**[634.62s] English:** Точно, что-то в этом есть.  
+**[634.62s] English:** Certainly, there's something in that.  
 **Translation:** 
 
-**[636.26s] English:** Я вот лично стал сходить с ума.  
+**[636.26s] English:** I, personally, am going crazy.  
 **Translation:** 
 
-**[638.60s] English:** Я не видел своего будущего в Голландии.  
+**[638.60s] English:** I did not see my future in Holland.  
 **Translation:** 
 
-**[641.38s] English:** Покупка дома, жизнь в пригороде.  
-**Translation:** 
+**[641.38s] English:** Purchase of a house, life in the suburbs.  
+**Translation:** Vocabulary: suburbs: 市郊
 
-**[643.80s] English:** Я улетел в Азию и стал цифровым кочевником.  
+**[643.80s] English:** I flew to Asia and became a digital nomad.  
 **Translation:** 
 
-**[647.20s] English:** Прожил так год.  
+**[647.20s] English:** Lived like that for a year.  
 **Translation:** 
 
-**[648.26s] English:** Но стало лишь хуже.  
+**[648.26s] English:** But it got worse.  
 **Translation:** 
 
-**[650.14s] English:** Я сидел один в гостиничных номерах, смотрел в потолок и думал, куда катится жизнь.  
-**Translation:** 
+**[650.14s] English:** I sat alone in the hotel room, staring at the ceiling and wondering where life was headed.  
+**Translation:** Vocabulary: ceiling: 天花板
 
-**[656.60s] English:** Я работал над стартапами, занимался Ютьюбом.  
+**[656.60s] English:** I worked on startups, dealt with YouTube.  
 **Translation:** 
 
-**[659.96s] English:** Но терзался, а что дальше?  
-**Translation:** 
+**[659.96s] English:** But he was torn, what next?  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[662.42s] English:** Это ли мои друзья в Голландии жили нормальной жизнью?  
+**[662.42s] English:** Is this how my friends in Holland lived a normal life?  
 **Translation:** 
 
-**[668.62s] English:** Я все больше впадал в депрессию и ощущал себя изгоем.  
-**Translation:** 
+**[668.62s] English:** I was sinking deeper into depression and felt like an outcast.  
+**Translation:** Vocabulary: holland: 荷兰; outcast: 被排斥者
 
-**[672.70s] English:** Деньги таяли, я зарабатывал всего 500 долларов в месяц.  
+**[672.70s] English:** Money was melting away; I was earning only $500 a month.  
 **Translation:** 
 
-**[677.00s] English:** Я сидел, смотрел в потолок и думал, вот мне 27 и я лузер.  
+**[677.00s] English:** I sat there, staring at the ceiling and thinking, here I am at 27 and I feel like a loser.  
 **Translation:** 
 
-**[682.78s] English:** И именно тогда я занялся стартапами.  
+**[682.78s] English:** And it was then that I started working on startups.  
 **Translation:** 
 
-**[685.36s] English:** Как говорил отец, если ты в депрессии, бери песок и лопату.  
-**Translation:** 
+**[685.36s] English:** As my father used to say, if you're in depression, take sand and a shovel.  
+**Translation:** Vocabulary: shovel: 铲子
 
-**[689.56s] English:** Не копать, что-то делай.  
+**[689.56s] English:** Do not dig, do something.  
 **Translation:** 
 
-**[690.78s] English:** Нельзя сидеть сложа руки.  
-**Translation:** 
+**[690.78s] English:** Cannot sit idly by.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[692.66s] English:** Это интересный способ справиться с депрессией.  
+**[692.66s] English:** This is an interesting way to deal with depression.  
 **Translation:** 
 
-**[695.22s] English:** Вместо «давай обсудим это», «давай что-то делать».  
+**[695.22s] English:** Instead of "let's discuss this," let's do something.  
 **Translation:** 
 
-**[699.44s] English:** И я начал проект «12 стартапов за 12 месяцев»,  
+**[699.44s] English:** I started the project "12 Startups in 12 Months",  
 **Translation:** 
 
-**[703.80s] English:** где каждый месяц я делал по проекту и запустил это через Страйп, чтобы люди могли за это платить.  
-**Translation:** 
+**[703.80s] English:** Where each month I made a project and launched it through Stripe so people could pay for it.  
+**Translation:** Vocabulary: stripe: Stripe支付
 
-**[709.40s] English:** То есть базовый формат – сделать что-то, выложить в интернет и подключить Страйп, чтобы принимать оплату.  
+**[709.40s] English:** So, the basic format is to do something, post it online, and connect Stripe to accept payments.  
 **Translation:** 
 
-**[715.32s] English:** Да, просто добавляешь кнопку оплаты через Страйп.  
+**[715.32s] English:** Yes, simply add a payment button through Stripe.  
 **Translation:** 
 
-**[718.76s] English:** Страйп.  
+**[718.76s] English:** Stripe.  
 **Translation:** 
 
-**[719.56s] English:** До сих пор?  
+**[719.56s] English:** Until now?  
 **Translation:** 
 
-**[720.00s] English:** Самый простой способ принимать оплату.  
+**[720.00s] English:** The simplest way to accept payment.  
 **Translation:** 
 
-**[722.18s] English:** Сто процентов, я думаю, да.  
+**[722.18s] English:** Sto percent, I think, yes.  
 **Translation:** 
 
-**[723.84s] English:** Отличная компания.  
+**[723.84s] English:** Great company.  
 **Translation:** 
 
-**[725.08s] English:** Все так легко, просто жмешь и...  
+**[725.08s] English:** All is so easy, just press and...  
 **Translation:** 
 
-**[727.38s] English:** Их Сео, Патрик, очень приятный человек.  
+**[727.38s] English:** Their SEO, Patrick, is a very pleasant person.  
 **Translation:** 
 
-**[730.06s] English:** Наверное, сложно организовать, чтобы это работало.  
+**[730.06s] English:** Probably, it's difficult to organize so that it works.  
 **Translation:** 
 
-**[732.86s] English:** Раньше это была огромная проблема.  
+**[732.86s] English:** Previously, this was an enormous problem.  
 **Translation:** 
 
-**[734.90s] English:** Мерчант?  
+**[734.90s] English:** Merchant?  
 **Translation:** 
 
-**[735.84s] English:** Просто добавить кнопку, чтобы можно было оплатить что-то.  
+**[735.84s] English:** Simply add a button to allow for payment of something.  
 **Translation:** 
 
-**[740.06s] English:** Слушай, я это знаю, ведь когда мне было...  
+**[740.06s] English:** Listen, I know this because when I was...  
 **Translation:** 
 
-**[742.82s] English:** Надежно.  
+**[742.82s] English:** Reliably.  
 **Translation:** 
 
-**[743.38s] English:** 9 лет я тоже делал сайты.  
-**Translation:** 
+**[743.38s] English:** 9 years I also made websites.  
+**Translation:** Vocabulary: reliably: 可靠地
 
-**[746.46s] English:** И пытался открыть мерчант аккаунт.  
+**[746.46s] English:** He tried to open a merchant account.  
 **Translation:** 
 
-**[748.62s] English:** Это было еще до Stripe, кажется.  
+**[748.62s] English:** This was before Stripe, I think.  
 **Translation:** 
 
-**[750.86s] English:** Тогда был WorldPay.  
+**[750.86s] English:** Then there was WorldPay.  
 **Translation:** 
 
-**[753.10s] English:** Нужно было заполнять кучу форм, а потом отправлять факсом в Америку.  
+**[753.10s] English:** We had to fill out a bunch of forms and then fax them to America.  
 **Translation:** 
 
-**[757.64s] English:** Из Голландии, с факса моего отца.  
+**[757.64s] English:** From Holland, via my father's fax.  
 **Translation:** 
 
-**[760.66s] English:** Это было оформлено на моего отца, нужна была его подпись.  
-**Translation:** 
+**[760.66s] English:** This was registered in my father's name, his signature was required.  
+**Translation:** Vocabulary: holland: 荷兰
 
-**[763.58s] English:** Он стал читать условия, а там ответственность на 100 миллионов.  
+**[763.58s] English:** He started reading the conditions, and there was a liability of 100 million.  
 **Translation:** 
 
-**[768.10s] English:** И говорит, я не подпишу.  
-**Translation:** 
+**[768.10s] English:** He says, "I will not sign.  
+**Translation:** Vocabulary: liability: 责任
 
-**[769.30s] English:** А я такой, ну пап, мне нужен мерчант аккаунт.  
+**[769.30s] English:** I am such that, Dad, I need a merchant account.  
 **Translation:** 
 
-**[772.56s] English:** Он все же подписал.  
+**[772.56s] English:** He did sign, however.  
 **Translation:** 
 
-**[773.96s] English:** И мы отправили это факсом в Америку.  
+**[773.96s] English:** We sent this by fax to America.  
 **Translation:** 
 
-**[776.36s] English:** Но никто ничего не покупал, в этом и была проблема.  
+**[776.36s] English:** But nobody bought anything, and that was the problem.  
 **Translation:** 
 
-**[779.46s] English:** Сейчас все проще.  
+**[779.46s] English:** Now it's simpler.  
 **Translation:** 
 
-**[780.88s] English:** Регистрируешься и вводишь код.  
+**[780.88s] English:** Register and enter the code.  
 **Translation:** 
 
-**[783.62s] English:** 12 стартапов за 12 месяцев.  
+**[783.62s] English:** 12 Startups in 12 Months.  
 **Translation:** 
 
-**[786.08s] English:** И как первый стартап?  
-**Translation:** 
+**[786.08s] English:** How about your first startup?  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[789.22s] English:** Что это было?  
+**[789.22s] English:** What was that?  
 **Translation:** 
 
-**[790.66s] English:** Что ты чувствовал?  
+**[790.66s] English:** What did you feel?  
 **Translation:** 
 
-**[791.84s] English:** Ты сидел за компьютером.  
+**[791.84s] English:** You were sitting at the computer.  
 **Translation:** 
 
-**[793.48s] English:** Ты вообще знал, как все это делать в то время?  
+**[793.48s] English:** Did you actually know how to do all of this back then?  
 **Translation:** 
 
-**[797.70s] English:** Я немного умел кодить.  
+**[797.70s] English:** I had some coding skills.  
 **Translation:** 
 
-**[799.80s] English:** У меня был YouTube канал.  
+**[799.80s] English:** I had a YouTube channel.  
 **Translation:** 
 
-**[801.28s] English:** Я делал сайты для YouTube канала.  
+**[801.28s] English:** I made websites for a YouTube channel.  
 **Translation:** 
 
-**[804.34s] English:** Он назывался Panda Mix Show.  
+**[804.34s] English:** It was called Panda Mix Show.  
 **Translation:** Vocabulary: panda: 熊猫
 
-**[805.98s] English:** Миксы электронной музыки.  
+**[805.98s] English:** Mixes of electronic music.  
 **Translation:** 
 
-**[807.50s] English:** Дабстеп, драм-нб.  
-**Translation:** 
+**[807.50s] English:** Dabstep, drum-n-bass.  
+**Translation:** Vocabulary: dabstep: 拖步说
 
-**[808.62s] English:** С технохаус.  
+**[808.62s] English:** From techno house.  
 **Translation:** 
 
-**[809.82s] English:** Я видел, что один из них был на флэш.  
+**[809.82s] English:** I saw that one of them was on flash.  
 **Translation:** 
 
-**[812.78s] English:** Да, мой альбом был на флэш.  
+**[812.78s] English:** Yes, my album was on flash.  
 **Translation:** 
 
-**[814.68s] English:** Да, да, я продавал свои CD.  
+**[814.68s] English:** Yes, yes, I sold my CDs.  
 **Translation:** 
 
-**[816.22s] English:** Дети, флэш был...  
+**[816.22s] English:** Children, Flash was...  
 **Translation:** 
 
-**[817.44s] English:** Флэш был крутым.  
+**[817.44s] English:** Flash was cool.  
 **Translation:** 
 
-**[818.30s] English:** Таким ПО.  
+**[818.30s] English:** Such software.  
 **Translation:** 
 
-**[819.16s] English:** Это была целая эпоха.  
+**[819.16s] English:** This was a whole era.  
 **Translation:** 
 
-**[820.30s] English:** Ты сейчас как дед, но да, флэш был крутым.  
+**[820.30s] English:** You're like a grandpa now, but yeah, Flash was cool.  
 **Translation:** 
 
-**[822.36s] English:** Да, и там был...  
+**[822.36s] English:** Yes, and there was...  
 **Translation:** 
 
-**[823.82s] English:** Как там...  
+**[823.82s] English:** How's it going...  
 **Translation:** 
 
-**[824.86s] English:** Боже, у меня склероз.  
+**[824.86s] English:** Oh, God, I have a case of the brain fog.  
 **Translation:** 
 
-**[826.34s] English:** Вроде экшн-скрипт.  
+**[826.34s] English:** It seems like an action script.  
 **Translation:** 
 
-**[827.30s] English:** Да, да, экшн-скрипт.  
+**[827.30s] English:** Yes, yes, action script.  
 **Translation:** 
 
-**[828.22s] English:** О, точно.  
+**[828.22s] English:** Oh, exactly.  
 **Translation:** 
 
-**[828.72s] English:** Это было флэш, тогда это был джава-скрипт.  
+**[828.72s] English:** This was Flash, then it was JavaScript.  
 **Translation:** 
 
-**[830.94s] English:** Да, джава-скрипт.  
+**[830.94s] English:** Yes, JavaScript.  
 **Translation:** 
 
-**[832.04s] English:** Я думал, это будет та самая штука, которая захватит интернет.  
+**[832.04s] English:** I thought this would be the thing that would take over the internet.  
 **Translation:** 
 
-**[838.62s] English:** Стив Джон сказал...  
+**[838.62s] English:** Steve Jobs said...  
 **Translation:** 
 
-**[840.00s] English:** Флэш отстой, и все такие, ну окей.  
+**[840.00s] English:** Flash is terrible, and that's okay.  
 **Translation:** 
 
-**[843.02s] English:** Но он же был прав.  
+**[843.02s] English:** But he was right.  
 **Translation:** 
 
-**[844.16s] English:** Не знаю, наверное.  
+**[844.16s] English:** I don't know, I suppose.  
 **Translation:** 
 
-**[845.52s] English:** Это была закрытая платформа.  
+**[845.52s] English:** This was a closed platform.  
 **Translation:** 
 
-**[848.58s] English:** Закрытая?  
+**[848.58s] English:** Closed?  
 **Translation:** 
 
-**[848.98s] English:** Это иронично, Apple и сами не очень открытые.  
+**[848.98s] English:** This is ironic; Apple itself is not very open either.  
 **Translation:** 
 
-**[851.34s] English:** Но тогда он сказал, что это закрытая платформа, и плюс проблемы с безопасностью,  
+**[851.34s] English:** But then he said it was a closed platform, and plus security issues.  
 **Translation:** 
 
-**[856.56s] English:** что звучало как оправдание.  
+**[856.56s] English:** That sounded like an excuse.  
 **Translation:** 
 
-**[858.04s] English:** Скорее, он думал, что Флэш выглядел плохо.  
+**[858.04s] English:** He thought that Flash looked bad.  
 **Translation:** 
 
-**[860.54s] English:** Но Флэш был крутым.  
+**[860.54s] English:** But Flash was cool.  
 **Translation:** 
 
-**[862.52s] English:** Да, в свое время.  
+**[862.52s] English:** Yes, at one time.  
 **Translation:** 
 
-**[863.74s] English:** Да.  
+**[863.74s] English:** Yes.  
 **Translation:** 
 
-**[864.58s] English:** Слушай, анимированные GIF тоже были тогда крутыми.  
+**[864.58s] English:** Listen, animated GIFs were cool back then too.  
 **Translation:** 
 
-**[867.28s] English:** Да.  
+**[867.28s] English:** Yes.  
 **Translation:** 
 
-**[867.82s] English:** И они вернулись.  
+**[867.82s] English:** They returned.  
 **Translation:** 
 
-**[868.60s] English:** Ну да.  
+**[868.60s] English:** Nu da.  
 **Translation:** 
 
-**[869.30s] English:** Но как мемы.  
+**[869.30s] English:** But as memes.  
 **Translation:** 
 
-**[870.82s] English:** Помню, тогда GIF действительно были крутыми.  
+**[870.82s] English:** I remember, back then, GIFs were really cool.  
 **Translation:** 
 
-**[874.48s] English:** Они иронично крутыми.  
-**Translation:** 
+**[874.48s] English:** They are ironically cool.  
+**Translation:** Vocabulary: ironically: 反讽地
 
-**[876.06s] English:** Да.  
+**[876.06s] English:** Yes.  
 **Translation:** 
 
-**[876.76s] English:** Тогда в интернете были всякие странные вещи,  
+**[876.76s] English:** Then there were all sorts of strange things on the internet,  
 **Translation:** 
 
-**[880.28s] English:** типа танцующих кроликов, было захватывающе.  
+**[880.28s] English:** It was exhilarating, like dancing rabbits.  
 **Translation:** 
 
-**[882.92s] English:** Да, у тебя могла быть домашняя страница, и все было по центру.  
-**Translation:** 
+**[882.92s] English:** Yes, you could have had a home page, and everything was centered.  
+**Translation:** Vocabulary: exhilarating: 令人兴奋的
 
-**[886.30s] English:** Да.  
+**[886.30s] English:** Yes.  
 **Translation:** 
 
-**[886.74s] English:** И баннер.  
-**Translation:** 
+**[886.74s] English:** And the banner.  
+**Translation:** Vocabulary: banner: 横幅
 
-**[887.60s] English:** Сайт Питера в разработке, потом GIF, анимация рабочего в каске, было невероятно.  
+**[887.60s] English:** The site for Peter is still under development, and then there was a GIF of an animated worker in a hard hat, which was incredibly impressive.  
 **Translation:** 
 
-**[894.42s] English:** А еще баннеры.  
-**Translation:** 
+**[894.42s] English:** And even banners.  
+**Translation:** Vocabulary: banners: 横幅广告
 
-**[896.26s] English:** До Google AdSense, когда реклама шла через баннеры,  
+**[896.26s] English:** Before Google AdSense, when advertising went through banners,  
 **Translation:** 
 
-**[899.36s] English:** Было потрясающе, да.  
+**[899.36s] English:** It was amazing, yes.  
 **Translation:** 
 
-**[901.08s] English:** И куча ссылок на порно-сайты.  
+**[901.08s] English:** And a bunch of links to porn sites.  
 **Translation:** 
 
-**[903.48s] English:** Да.  
+**[903.48s] English:** Yes.  
 **Translation:** 
 
-**[904.48s] English:** Или типа того.  
+**[904.48s] English:** Or something like that.  
 **Translation:** 
 
-**[905.58s] English:** Тогда, в основном, деньги делались по большей части на порно.  
+**[905.58s] English:** Then, primarily, money was made mostly on porn.  
 **Translation:** 
 
-**[911.68s] English:** Да, темное местечко было, да и до сих пор, но там есть и своя красота.  
+**[911.68s] English:** Yes, it was a dark little place, and still is, but there is its own beauty there.  
 **Translation:** 
 
-**[917.06s] English:** Так или иначе, ты баловался с HTML.  
+**[917.06s] English:** Anyway, you played around with HTML.  
 **Translation:** 
 
-**[920.90s] English:** Да, но пришлось учиться программированию.  
+**[920.90s] English:** Yes, but I had to learn programming.  
 **Translation:** 
 
-**[924.30s] English:** Идея запускать стартапы помогла мне научиться кодить.  
-**Translation:** 
+**[924.30s] English:** The idea of starting startups helped me learn to code.  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[928.72s] English:** Да.  
+**[928.72s] English:** Yes.  
 **Translation:** 
 
-**[929.22s] English:** Изучить базу.  
+**[929.22s] English:** Study the database.  
 **Translation:** 
 
-**[930.32s] English:** Но было коряво, ведь не было времени.  
+**[930.32s] English:** But it was clumsy, for there was no time.  
 **Translation:** 
 
-**[933.32s] English:** Впрочем, так и было задумано.  
-**Translation:** 
+**[933.32s] English:** However, that was exactly as it was intended.  
+**Translation:** Vocabulary: clumsy: 笨拙的
 
-**[935.32s] English:** У меня был только месяц на проект, и я не мог потратить больше.  
+**[935.32s] English:** I had only one month for the project, and I couldn't afford to spend any more time on it.  
 **Translation:** 
 
-**[939.32s] English:** Я выкладывал результаты как пост в блоге.  
+**[939.32s] English:** I posted the results as a blog post.  
 **Translation:** 
 
-**[942.32s] English:** Вроде на хакер-ньюс, и люди чекали, реально ли я что-то сделал.  
+**[942.32s] English:** It seemed on Hacker News, and people were checking if I actually did something.  
 **Translation:** 
 
-**[946.32s] English:** Это добавляло ответственности, ведь все публично.  
-**Translation:** 
+**[946.32s] English:** This added responsibility, since everything was publicly known.  
+**Translation:** Vocabulary: hacker: 黑客
 
-**[949.32s] English:** Помнишь первый проект?  
+**[949.32s] English:** Do you remember the first project?  
 **Translation:** 
 
-**[951.32s] English:** Кажется, Play My Inbox.  
+**[951.32s] English:** It seems like "Play My Inbox.  
 **Translation:** 
 
-**[953.32s] English:** Потому что тогда мои друзья отправляли...  
+**[953.32s] English:** Because then my friends sent...  
 **Translation:** 
 
-**[957.32s] English:** Это было вроде до Spotify.  
+**[957.32s] English:** This was more like it before Spotify.  
 **Translation:** 
 
-**[959.32s] English:** Мы отправили.  
+**[959.32s] English:** We sent it.  
 **Translation:** 
 
-**[960.00s] English:** друг другу музыку типа ссылки на youtube вот классная песня вот еще одна это было  
+**[960.00s] English:** Dруг другу музыку, типа ссылки на YouTube: "Вот классная песня, вот еще одна." Это было.  
 **Translation:** 
 
-**[966.36s] English:** нагромождение писем в джимейл ничего не найти я сделал приложение которое  
+**[966.36s] English:** A pile of emails in Jimayl nothing to find; I made an application which  
 **Translation:** 
 
-**[971.44s] English:** заходило в джимейл искала эти письма с youtube ссылками и  
+**[971.44s] English:** She would log into her email, searching for those messages with YouTube links and  
 **Translation:** 
 
-**[976.12s] English:** создавала как бы галерею песен как в спотифай друзьям зашел это было через  
+**[976.12s] English:** Created a kind of song gallery as on Spotify; friends could browse it, and they logged in to see it.  
 **Translation:** 
 
-**[982.48s] English:** скрепинг каким айпи ай ты пользу нет использовались протоколы типа поп или  
-**Translation:** 
+**[982.48s] English:** Scraping with which IP, why you get no benefit were protocols like POP or used.  
+**Translation:** Vocabulary: browse: 浏览; logged: 登录; scraping: 抓取
 
-**[986.56s] English:** ай мэп чтобы чекать email встал вопрос приватности ведь приложение получала  
+**[986.56s] English:** AI Map to Check Email: Stood the question of privacy, since the app receives.  
 **Translation:** 
 
-**[990.64s] English:** доступ для поиска ссылок но я ничего не сохранял и это было весело и этот первый  
+**[990.64s] English:** Access for link searching, but I didn't save anything and it was fun, and this first one.  
 **Translation:** 
 
-**[997.98s] English:** продукт получила внимание прессы какие-то статьи в технологических медиа и  
+**[997.98s] English:** Product received attention from the press with some articles in technological media and  
 **Translation:** 
 
-**[1003.36s] English:** я подумал круто правда денег он не приносил кнопки оплаты там не было но  
+**[1003.36s] English:** I thought it was cool, right? It didn't bring in any money, and there were no payment buttons there but  
 **Translation:** 
 
-**[1007.94s] English:** люди реально им пользовались десятки тысяч отличная идея почему никто не  
+**[1007.94s] English:** People really used them for tens of thousands of years; what a great idea, why didn't anyone  
 **Translation:** 
 
-**[1014.46s] English:** делает приложение для  
+**[1014.46s] English:** Makes an application for  
 **Translation:** 
 
-**[1016.42s] English:** амператора  
+**[1016.42s] English:** Emperor  
 **Translation:** 
 
-**[1016.56s] English:** Gmail, которые извлекали бы оттуда полезную информацию.  
-**Translation:** 
+**[1016.56s] English:** Gmail, which could extract useful information from it.  
+**Translation:** Vocabulary: extract: 提取
 
-**[1021.78s] English:** Да, чтобы сказать Gmail, дай мне только письма с YouTube с ссылками. Да.  
+**[1021.78s] English:** Yes, to tell Gmail to give me only emails with YouTube links. Yes.  
 **Translation:** 
 
-**[1027.02s] English:** Есть целая экосистема приложений, которые можно строить на базе Google.  
+**[1027.02s] English:** There is a whole ecosystem of applications that can be built on the basis of Google.  
 **Translation:** 
 
-**[1031.58s] English:** Но люди почему-то...  
+**[1031.58s] English:** But people somehow...  
 **Translation:** 
 
-**[1032.86s] English:** Не делают такое, я такого не вижу.  
+**[1032.86s] English:** They don't do that, I don't see such things.  
 **Translation:** 
 
-**[1033.30s] English:** Они создают... Я видел пару примеров, типа Boomerang.  
+**[1033.30s] English:** They create... I've seen a couple of examples, like Boomerang.  
 **Translation:** 
 
-**[1036.80s] English:** Есть пара хороших приложений, но просто...  
-**Translation:** Vocabulary: boomerang: 回旋镖
+**[1036.80s] English:** There are a couple of good applications, but simply...  
+**Translation:** Vocabulary: boomerang: 回形针
 
-**[1040.12s] English:** Мне кажется, это сложно монетизировать.  
+**[1040.12s] English:** It seems that this is difficult to monetize.  
 **Translation:** 
 
-**[1042.00s] English:** Трудно заставить людей платить за такие расширения и плагины.  
-**Translation:** 
+**[1042.00s] English:** It's difficult to make people pay for such extensions and plugins.  
+**Translation:** Vocabulary: extensions: 扩展; monetize: 盈利; plugins: 插件
 
-**[1045.22s] English:** Это не полноценное приложение, и люди это не ценят.  
+**[1045.22s] English:** This is not a full-featured application, and people don't value it.  
 **Translation:** 
 
-**[1048.70s] English:** Плагины должны быть бесплатными.  
+**[1048.70s] English:** Plugins should be free.  
 **Translation:** 
 
-**[1051.18s] English:** Когда мне нужен плагин для Google Sheets, я не хочу за это платить.  
+**[1051.18s] English:** When I need a plugin for Google Sheets, I don't want to pay for it.  
 **Translation:** 
 
-**[1056.00s] English:** Но заходя на сайты, ты понимаешь, мне это нужно, и ты готов платить.  
+**[1056.00s] English:** But as you visit these sites, you realize this is what you need, and you're willing to pay for it.  
 **Translation:** 
 
-**[1060.92s] English:** Хотя это может быть все тот же плагин.  
+**[1060.92s] English:** Although this may be the same plugin.  
 **Translation:** 
 
-**[1064.58s] English:** Да, это можно реализовать через расширения, типа Chrome Extensions из браузера.  
-**Translation:** Vocabulary: extensions: 浏览器扩展
+**[1064.58s] English:** Yes, this can be implemented through extensions, like Chrome Extensions from the browser.  
+**Translation:** Vocabulary: browser: 浏览器; implemented: 实现
 
-**[1069.24s] English:** Да, но кто платит за расширения для Chrome?  
+**[1069.24s] English:** Yes, but who pays for Chrome extensions?  
 **Translation:** 
 
-**[1071.30s] English:** Никто. Никто.  
+**[1071.30s] English:** Nobody. Nobody.  
 **Translation:** 
 
-**[1072.60s] English:** Это не лучшее место для заработка.  
+**[1072.60s] English:** This is not the best place for earning money.  
 **Translation:** 
 
-**[1074.60s] English:** Да.  
+**[1074.60s] English:** Yes.  
 **Translation:** 
 
-**[1075.22s] English:** Это отстой.  
+**[1075.22s] English:** This is trash.  
 **Translation:** 
 
-**[1075.78s] English:** Расширение Chrome должно быть дополнением к стартапу.  
+**[1075.78s] English:** The extension for Chrome should be launched after startup.  
 **Translation:** 
 
-**[1078.06s] English:** Вот есть продукт, и плюс расширение...  
+**[1078.06s] English:** Here is a product, and plus an extension....  
 **Translation:** 
 
-**[1080.00s] English:** для chrome мне бы хотелось чтобы они были полноценным продуктом чтобы chrome это  
+**[1080.00s] English:** For Chrome, I would like them to be a full-featured product so that Chrome is  
 **Translation:** 
 
-**[1085.64s] English:** поддерживала да и можно было легко за это платить я могу представить много  
+**[1085.64s] English:** Supports yes, and it could have been easily paid for. I can imagine many scenarios where this was the case.  
 **Translation:** 
 
-**[1090.02s] English:** продуктов которые могли бы быть расширениями  
-**Translation:** 
+**[1090.02s] English:** Products that could be expansions,  
+**Translation:** Vocabulary: expansions: 扩展; scenarios: 情景
 
-**[1092.66s] English:** всякие улучшения для соцсетей ада например g5  
+**[1092.66s] English:** Any improvements for social networks like AdA, for example, G5.  
 **Translation:** 
 
-**[1096.86s] English:** до g5 по этих чат g5 за них сейчас берут деньги ты получаешь свою долю думают об  
+**[1096.86s] English:** To G5, for these chats, G5 takes money. You get your share. They are thinking about it.  
 **Translation:** 
 
-**[1101.78s] English:** на я их много создал мы еще это обсудим до вернемся назад это же крутая идея 12  
+**[1101.78s] English:** Here is the transcript with natural English punctuation and capitalization: Keep in mind that I've created many of them, we'll discuss this more when we go back. This is a great idea!  
 **Translation:** 
 
-**[1108.44s] English:** стартапов за 12 месяцев что нужно чтобы создать что-то за 30 дней  
-**Translation:** 
+**[1108.44s] English:** Startups: Over 12 Months, What Does It Take to Create Something in Just 30 Days?  
+**Translation:** Vocabulary: capitalization: 大写; startups: 初创企业; transcript: 录音文本
 
-**[1113.36s] English:** насколько это тогда было сложно думаю самое сложное понять что не стоит  
+**[1113.36s] English:** How difficult was it then, I think the hardest part was realizing that you shouldn't.  
 **Translation:** 
 
-**[1119.52s] English:** добавлять и создавать времени то в обрез нужно было сделать лендинг на самом деле  
+**[1119.52s] English:** Add and create time; it was actually needed to make a landing page.  
 **Translation:** 
 
-**[1125.50s] English:** нужно было создать продукт который бы купили нужно ли создавать систему входа  
+**[1125.50s] English:** It was necessary to create a product that would be bought. Do we need to create an entry system?  
 **Translation:** 
 
-**[1131.82s] English:** может можно сделать простую систему входа в фото и а это регистрирую ща  
-**Translation:** 
+**[1131.82s] English:** May be we can make a simple login system for photos and this is what I'm registering now.  
+**Translation:** Vocabulary: login: 登录; registering: 注册
 
-**[1136.46s] English:** платишь через страйп получаешь ссылку для  
+**[1136.46s] English:** Pay through Stripe, and you get a link for  
 **Translation:** 
 
-**[1138.38s] English:** работы с проектами по платным секторам по экологии и развитию социальной информации  
-**Translation:** 
+**[1138.38s] English:** Work on projects in the paid sectors of ecology and development of social information.  
+**Translation:** Vocabulary: sectors: 领域; stripe: 支付方式
 
-**[1138.42s] English:** входа и вначале там была статическая ссылка для входа с хэшем войти было  
+**[1138.42s] English:** Entry, and at first there was a static link for login with hash #login.  
 **Translation:** 
 
-**[1142.92s] English:** очень просто да это не слишком безопасно но сейчас можно войти через google но на  
+**[1142.92s] English:** Very simple, but this is not too safe. But now you can log in through Google, though.  
 **Translation:** 
 
-**[1148.18s] English:** это ушел год важно делать все просто и быстро у тебя нет времени нужно  
+**[1148.18s] English:** This took a year to do. It's important to make everything simple and quick; you don't have time.  
 **Translation:** 
 
-**[1155.38s] English:** фокусироваться на том что можно сделать быстро деньги stripe создать продукт  
-**Translation:** 
+**[1155.38s] English:** Focus on what can be quickly monetized, create a product on Stripe.  
+**Translation:** Vocabulary: monetized: 转化为收益
 
-**[1159.84s] English:** сделать лендинг нужно подумать как люди об этом узнают например запустить на  
+**[1159.84s] English:** Make a landing page; need to think how people will find out about it, for example, launch on  
 **Translation:** 
 
-**[1166.08s] English:** реддит но как запустить чтобы тебя не посчитали спамером если ты напишешь вот  
-**Translation:** 
+**[1166.08s] English:** Reddit, but how to launch a post so you're not flagged as a spammer if you write something?  
+**Translation:** Vocabulary: spammer: 垃圾邮件发布者
 
-**[1172.44s] English:** мой стартап то пост удалят может если найдешь  
+**[1172.44s] English:** My startup might get a post deleted if you find it.  
 **Translation:** 
 
-**[1176.60s] English:** проблему которая есть у многих на реддит и предложишь решение я тут придумал  
+**[1176.60s] English:** The problem that many have on Reddit, and you'll propose a solution: I've come up with something here.  
 **Translation:** 
 
-**[1182.22s] English:** штуку которая может решить вашу проблему и сейчас это бесплатно это может  
+**[1182.22s] English:** A thing which may solve your problem, and currently it's free; this may be it.  
 **Translation:** 
 
-**[1187.22s] English:** сработать но нужно четко как бы определить что ты создаешь время  
+**[1187.22s] English:** To work, but we need clearly how to define what you are creating time for.  
 **Translation:** 
 
-**[1193.74s] English:** ограничено давай вернемся к теме  
+**[1193.74s] English:** Limited, let's return to the topic.  
 **Translation:** 
 
-**[1196.06s] English:** вернемся к тому как ты лежишь в комнате и ощущаешь себя лузером  
+**[1196.06s] English:** Let's return to how you lie in the room and feel like a loser.  
 **Translation:** 
 
-**[1200.00s] English:** Да.  
+**[1200.00s] English:** Yes.  
 **Translation:** 
 
-**[1200.48s] English:** Меня порою тоже так накрывает.  
+**[1200.48s] English:** Sometimes I feel that way too.  
 **Translation:** 
 
-**[1202.82s] English:** Что?  
+**[1202.82s] English:** What?  
 **Translation:** 
 
-**[1204.00s] English:** Что?  
+**[1204.00s] English:** What?  
 **Translation:** 
 
-**[1205.38s] English:** Расскажи об этом чувстве, о том состоянии, когда ощущаешь себя лузером.  
+**[1205.38s] English:** Tell me about this feeling, about that state when you feel like a loser.  
 **Translation:** 
 
-**[1211.78s] English:** Думаю, многие в этом мире сейчас лежат в комнате, слушая это.  
+**[1211.78s] English:** I think many in this world are currently lying in a room, listening to this.  
 **Translation:** 
 
-**[1216.38s] English:** Да, да, да.  
+**[1216.38s] English:** Yes, yes, yes.  
 **Translation:** 
 
-**[1217.36s] English:** Ощущая себя лузером.  
+**[1217.36s] English:** Feeling like a loser.  
 **Translation:** 
 
-**[1218.70s] English:** Что ж, думаю, по молодости это нормально.  
+**[1218.70s] English:** Well, I think it's normal when you're young.  
 **Translation:** 
 
-**[1221.56s] English:** Особенно, когда тебе 27.  
+**[1221.56s] English:** Especially when you're 27.  
 **Translation:** 
 
-**[1223.62s] English:** Да, особенно.  
+**[1223.62s] English:** Yes, especially.  
 **Translation:** 
 
-**[1224.70s] English:** Это такой пик.  
+**[1224.70s] English:** This is such a peak.  
 **Translation:** 
 
-**[1225.58s] English:** Да.  
+**[1225.58s] English:** Yes.  
 **Translation:** 
 
-**[1226.24s] English:** Думаю, 20 — это пик.  
+**[1226.24s] English:** I think 20 is the peak.  
 **Translation:** 
 
-**[1227.78s] English:** Так важно не зарываться.  
+**[1227.78s] English:** It's so important not to overstep.  
 **Translation:** 
 
-**[1230.70s] English:** Пройдите через это.  
-**Translation:** 
+**[1230.70s] English:** Proceed through this.  
+**Translation:** Vocabulary: overstep: 逾矩
 
-**[1232.00s] English:** Потому что у вас ничего нет.  
+**[1232.00s] English:** Because you have nothing.  
 **Translation:** 
 
-**[1234.04s] English:** Вероятно, нет ни денег, ни бизнеса, ни работы.  
+**[1234.04s] English:** Probably, there are no money, no business, no work.  
 **Translation:** 
 
-**[1237.64s] English:** Я где-то слышал, как Джордан Питерсон сказал,  
+**[1237.64s] English:** I somewhere heard Jordan Peterson say,  
 **Translation:** 
 
-**[1240.36s] English:** что люди в депрессии, ведь у них нет ничего.  
-**Translation:** 
+**[1240.36s] English:** What people in depression think, for they have nothing.  
+**Translation:** Vocabulary: peterson: 佩特森
 
-**[1242.72s] English:** Нет ни парня, ни девушки.  
+**[1242.72s] English:** There is neither a boy nor a girl.  
 **Translation:** 
 
-**[1244.76s] English:** Вам что-то нужно.  
+**[1244.76s] English:** You need something.  
 **Translation:** 
 
-**[1245.96s] English:** Может, семья.  
+**[1245.96s] English:** Maybe, a family.  
 **Translation:** 
 
-**[1247.12s] English:** Вам нужно окружить себя чем-то в жизни, иначе словите депрессию.  
+**[1247.12s] English:** You need to surround yourself with something in life, or you'll catch depression.  
 **Translation:** 
 
-**[1251.02s] English:** Если ты один в азиатском хостеле,  
+**[1251.02s] English:** If you're alone in an Asian hostel,  
 **Translation:** 
 
-**[1253.62s] English:** пялишься в потолок, и у тебя нет ни доходов, ни девушки,  
-**Translation:** 
+**[1253.62s] English:** Staring at the ceiling, and you have neither income nor a girlfriend.  
+**Translation:** Vocabulary: ceiling: 房顶; hostel: 招待所
 
-**[1257.78s] English:** и логично, что ты в депрессии,  
+**[1257.78s] English:** It's logical that you're in depression.  
 **Translation:** 
 
-**[1259.70s] English:** но в тот момент ты думаешь, что это нелогично, что это не так.  
-**Translation:** 
+**[1259.70s] English:** But at that moment, you think it is illogical, that it is not so.  
+**Translation:** Vocabulary: illogical: 不合逻辑的
 
-**[1262.90s] English:** Да.  
+**[1262.90s] English:** Yes.  
 **Translation:** 
 
-**[1263.54s] English:** И еще, я думаю, у меня начала появляться тревога,  
+**[1263.54s] English:** And yet, I think anxiety is beginning to set in.  
 **Translation:** 
 
-**[1267.70s] English:** и я стал сходить с ума, хотя...  
+**[1267.70s] English:** And I started going crazy, though...  
 **Translation:** 
 
-**[1270.96s] English:** путешествия могут вернуть тебя в чувства,  
+**[1270.96s] English:** Travels may return you to your senses,  
 **Translation:** 
 
-**[1272.96s] English:** и я знаю это, потому что цифровые намады,  
+**[1272.96s] English:** And I know this because of the digital nomads,  
 **Translation:** 
 
-**[1276.16s] English:** кончающие с собой...  
-**Translation:** 
+**[1276.16s] English:** Conceiving with themselves,...  
+**Translation:** Vocabulary: conceiving: 构思; nomads: 游牧者
 
-**[1277.46s] English:** Я не сравнивал статистику уровня самоубийств с обычными людьми,  
+**[1277.46s] English:** I did not compare suicide statistics with ordinary people.  
 **Translation:** 
 
-**[1281.10s] English:** но у меня есть подозрение,  
+**[1281.10s] English:** But I have a suspicion,  
 **Translation:** 
 
-**[1282.88s] English:** особенно когда это было в новинку лет 10 назад,  
+**[1282.88s] English:** Especially when it was new about 10 years ago,  
 **Translation:** 
 
-**[1286.70s] English:** что это...  
+**[1286.70s] English:** What is this...?  
 **Translation:** 
 
-**[1287.44s] English:** может изматывать психологически, и...  
+**[1287.44s] English:** May be psychologically exhausting, and...  
 **Translation:** 
 
-**[1291.02s] English:** ты, по сути, сам, особенно путешествуя один,  
-**Translation:** 
+**[1291.02s] English:** You, in essence, are your own company, especially when traveling alone.  
+**Translation:** Vocabulary: exhausting: 使人精疲力尽的
 
-**[1293.86s] English:** тогда цифровых намадов почти не было.  
+**[1293.86s] English:** Then there were almost no digital nomads.  
 **Translation:** 
 
-**[1296.66s] English:** Ты в чужой культуре, ты отличаешься от всех,  
+**[1296.66s] English:** You are in a foreign culture, you stand out from everyone,  
 **Translation:** 
 
-**[1299.54s] English:** я был в Азии, в Таиланде, все очень милые, но...  
+**[1299.54s] English:** I was in Asia, in Thailand, everyone was very nice, but...  
 **Translation:** 
 
-**[1302.78s] English:** ты не часть этой культуры, ты путешествуешь,  
-**Translation:** 
+**[1302.78s] English:** You are not part of this culture; you are traveling,  
+**Translation:** Vocabulary: thailand: 泰国
 
-**[1305.70s] English:** переезжаешь из города в город.  
+**[1305.70s] English:** You move from city to city.  
 **Translation:** 
 
-**[1308.00s] English:** У тебя больше нет дома.  
+**[1308.00s] English:** You no longer have a home.  
 **Translation:** 
 
-**[1310.22s] English:** Ты как бы оторван.  
+**[1310.22s] English:** You seem a bit detached.  
 **Translation:** 
 
-**[1311.68s] English:** И постоянно чувствуешь себя изгоем, отличающимся от остальных.  
-**Translation:** 
+**[1311.68s] English:** You constantly feel like an outcast, different from everyone else.  
+**Translation:** Vocabulary: detached: 冷漠; outcast: 异类
 
-**[1315.46s] English:** Да, точно.  
+**[1315.46s] English:** Yes, definitely.  
 **Translation:** 
 
-**[1316.46s] English:** В Таиланде люди...  
+**[1316.46s] English:** In Thailand, people...  
 **Translation:** 
 
-**[1317.44s] English:** очень приятные, но ты как белая ва...  
+**[1317.44s] English:** Very pleasant, but you're like a white wa...  
 **Translation:** 
 
-**[1320.00s] English:** Мне казалось, что тогда все цифровые намады занимались темными делишками, такие себе виджиланты.  
-**Translation:** 
+**[1320.00s] English:** It seemed to me that back then all digital nomads were involved in shady dealings, sort of like vigilantes.  
+**Translation:** Vocabulary: shady: 可疑; vigilantes: 民兵
 
-**[1327.50s] English:** Один парень торговал наркотиками, американец продавал наркотики через UPS американцам на своем сайте.  
+**[1327.50s] English:** One guy was selling drugs, an American was selling drugs through UPS to Americans on his website.  
 **Translation:** 
 
-**[1333.42s] English:** Была куча дропшиперов, сидевших на мутных схемах.  
-**Translation:** 
+**[1333.42s] English:** There were a lot of dropshippers sitting on murky schemes.  
+**Translation:** Vocabulary: dropshippers: 批发商; murky: 模糊的; schemes: 计划
 
-**[1337.38s] English:** Много всего такого, и они не выглядели уравновешенно, не те люди, с которыми хочется якшаться.  
+**[1337.38s] English:** There was a lot of that, and they didn't seem balanced, not the kind of people you want to associate with.  
 **Translation:** 
 
-**[1343.56s] English:** Я чувствовал себя изгоем даже среди других цифровых намадов в Таиланде.  
-**Translation:** 
+**[1343.56s] English:** I felt like an outcast even among other digital nomads in Thailand.  
+**Translation:** Vocabulary: balanced: 均衡的
 
-**[1347.60s] English:** И я такой, блин, похоже, я ошибся и вернулся в Голландию, и депрессия усугубилась.  
+**[1347.60s] English:** Keep the same language and meaning: I guess I made a mistake and went back to Holland, and my depression worsened.  
 **Translation:** 
 
-**[1352.34s] English:** Ты сказал цифровой намад. Что это за образ жизни? В чем его философия? И какова история этого движения?  
-**Translation:** 
+**[1352.34s] English:** You said digital nomad. What is this lifestyle about? What is its philosophy? And what is the history of this movement?  
+**Translation:** Vocabulary: holland: 荷兰; worsened: 恶化
 
-**[1358.98s] English:** Я наткнулся на это случайно. Я думал, вот закончу университет, и нужно валить отсюда.  
+**[1358.98s] English:** I stumbled upon this by chance. I thought, once I finish university, I need to get out of here.  
 **Translation:** 
 
-**[1363.68s] English:** Полечу в Азию, ведь я там уже был, учился в Корее в 2009, по обмену.  
-**Translation:** 
+**[1363.68s] English:** I'll fly to Asia, for I was already there; I studied in Korea in 2009 on an exchange program.  
+**Translation:** Vocabulary: stumbled: 偶然发现
 
-**[1368.52s] English:** Подумал, Азия это изи, Таиланд изи. Разберусь на месте, и это очень дешево.  
+**[1368.52s] English:** Thought Asia would be easy, Thailand easy. Will figure it out on location, and it's very cheap.  
 **Translation:** 
 
-**[1373.20s] English:** В Чангмайе аренда жилья 150 долларов за отдельную комнату.  
-**Translation:** 
+**[1373.20s] English:** In Chiang Mai, renting a separate room costs $150.  
+**Translation:** Vocabulary: chiang: 清迈
 
-**[1377.36s] English:** Я такой, значит, есть и другие люди с ноутбуками, которые работают над своими стартапами или удаленно, а тогда никто удаленно не работал.  
+**[1377.36s] English:** I'm like this, which means there are other people with laptops working on their startups or remotely, so then nobody worked remotely.  
 **Translation:** 
 
-**[1387.40s] English:** И они жили в Колумбии, или в Таиланде, или во Вьетнаме, или на Бали.  
-**Translation:** 
+**[1387.40s] English:** They lived in Colombia, or Thailand, or Vietnam, or Bali.  
+**Translation:** Vocabulary: colombia: 哥伦比亚; laptops: 笔记本; remotely: 远程; startups: 初创企业; thailand: 泰国; vietnam: 越南
 
-**[1393.58s] English:** В общем, в местах, где подешевле.  
+**[1393.58s] English:** In general, in places where it's cheaper.  
 **Translation:** 
 
-**[1396.08s] English:** Выглядело как очень авантюрная жизнь. Путешествуешь, строишь свой бизнес. Нет никакого давления твоего общества.  
-**Translation:** 
+**[1396.08s] English:** It looked like a very adventurous life. You travel, build your own business. There's no pressure from your society.  
+**Translation:** Vocabulary: adventurous: 冒险的
 
-**[1402.98s] English:** Ты американец, и на тебя давит американское общество, говорящее, что нужно купить.  
+**[1402.98s] English:** You are an American, and American society puts pressure on you to buy.  
 **Translation:** 
 
-**[1407.86s] English:** Купить дом, делать что-то, как и на меня в Голландии.  
+**[1407.86s] English:** Buy a house, do something, as and when I did in Holland.  
 **Translation:** 
 
-**[1410.86s] English:** А тут ты можешь уйти от давления, и чувствуешь себя свободным.  
+**[1410.86s] English:** Here you can escape the pressure and feel free.  
 **Translation:** 
 
-**[1415.36s] English:** Никто тебе не указ.  
+**[1415.36s] English:** Nobody tells you what to do.  
 **Translation:** 
 
-**[1417.36s] English:** Но именно поэтому ты начинаешь сходить с ума, потому что ты свободен.  
+**[1417.36s] English:** But that's exactly why you start going crazy because you are free.  
 **Translation:** 
 
-**[1422.36s] English:** Ты никому ничего не обязан.  
+**[1422.36s] English:** You owe nothing to anyone.  
 **Translation:** 
 
-**[1424.86s] English:** И ты оторван от своей культуры и от той, в которой находишься, ведь ты там ненадолго.  
+**[1424.86s] English:** And you are detached from your own culture and from the one in which you find yourself, for you are there only temporarily.  
 **Translation:** 
 
-**[1429.36s] English:** Кажется, Франц Кавка сказал, я свободен, и именно поэтому я потерян.  
-**Translation:** 
+**[1429.36s] English:** It seems that Franz Kafka said, "I am free, and that is why I am lost.  
+**Translation:** Vocabulary: detached: 不羁; kafka: 卡夫卡; temporarily: 暂时
 
-**[1434.36s] English:** Блин, это так верно, прям в точку.  
+**[1434.36s] English:** Blim, this is so right, straight to the point.  
 **Translation:** 
 
-**[1437.36s] English:** Это отсутствие ограничений. Все возможно.  
+**[1437.36s] English:** This is the absence of limitations. Everything is possible.  
 **Translation:** 
 
-**[1440.00s] English:** Ты волен идти куда угодно.  
+**[1440.00s] English:** You are free to go anywhere.  
 **Translation:** 
 
-**[1442.80s] English:** И все такие, о, это, наверное, так здорово, ты, наверное, очень счастлив.  
+**[1442.80s] English:** And they all think, oh, this must be so great, you must be very happy.  
 **Translation:** 
 
-**[1446.90s] English:** Все наоборот.  
+**[1446.90s] English:** All the opposite.  
 **Translation:** 
 
-**[1447.94s] English:** Думаю, ограничения делают тебя счастливым.  
+**[1447.94s] English:** I think the restrictions make you happy.  
 **Translation:** 
 
-**[1450.94s] English:** Это важный урок, который я усвоил.  
+**[1450.94s] English:** This is an important lesson which I have learned.  
 **Translation:** 
 
-**[1454.18s] English:** А как они зарабатывали?  
+**[1454.18s] English:** How did they earn money?  
 **Translation:** 
 
-**[1455.82s] English:** Ты говоришь, они мутили темные делишки?  
+**[1455.82s] English:** You say they were involved in shady dealings?  
 **Translation:** 
 
-**[1459.04s] English:** Я-то был больше разработчиком, хотел создавать стартапы,  
-**Translation:** 
+**[1459.04s] English:** I was more of a developer, wanting to create startups,  
+**Translation:** Vocabulary: shady: 可疑的
 
-**[1462.92s] English:** а они занимались пересылкой каких-то препаратов в Америку,  
+**[1462.92s] English:** They were involved in shipping some drugs to America,  
 **Translation:** 
 
 **[1467.32s] English:** типа таблеток для похудения.  
 **Translation:** 
 
-**[1468.96s] English:** Всякая неодобренная FDA, и они, типа,  
+**[1468.96s] English:** Any FDA-unapproved drug, and they, you know,  
 **Translation:** 
 
-**[1472.36s] English:** они рассказывали за пивом и ржали над всей этой мутной фигней.  
-**Translation:** 
+**[1472.36s] English:** They were telling stories over beer and laughing at all this murky nonsense.  
+**Translation:** Vocabulary: murky: 模糊不清
 
-**[1477.42s] English:** Эта часть понятна.  
+**[1477.42s] English:** This part is understandable.  
 **Translation:** 
 
-**[1478.68s] English:** Такой вот стрёмный вайб электронной коммерции.  
-**Translation:** 
+**[1478.68s] English:** Such a dismal vibe in electronic commerce.  
+**Translation:** Vocabulary: dismal: 沮丧的; understandable: 可以理解的
 
-**[1481.46s] English:** Я не говорю, что вся иком такая, но такой вот вайб.  
+**[1481.46s] English:** I don't say that all of them are like this, but kind of a vibe nonetheless.  
 **Translation:** 
 
-**[1484.86s] English:** А ты хотел вайба создания чего-то крутого.  
+**[1484.86s] English:** Did you want a vibe for creating something cool?  
 **Translation:** 
 
-**[1487.84s] English:** Делать классные вещи.  
+**[1487.84s] English:** Make awesome things.  
 **Translation:** 
 
-**[1489.00s] English:** Такая была цель.  
+**[1489.00s] English:** Such was the goal.  
 **Translation:** 
 
-**[1490.00s] English:** Знаешь, весь этот народ на спорткарах в Дубае,  
+**[1490.00s] English:** Knows that the whole population of Dubai drives sports cars,  
 **Translation:** 
 
-**[1493.10s] English:** типа, бро, тебе нужен дропшиппинг, будешь рубить по 100 мультов в месяц.  
-**Translation:** 
+**[1493.10s] English:** Type, bro, you need dropshipping; you'll be cutting it for $100 multitests a month.  
+**Translation:** Vocabulary: dropshipping: 零库存; multitests: 多项测试
 
-**[1497.66s] English:** Те люди занимались такой фигурой.  
+**[1497.66s] English:** Those people dealt with such a figure.  
 **Translation:** 
 
-**[1498.96s] English:** А я такой, это не мои люди.  
+**[1498.96s] English:** I am like that; these are not my people.  
 **Translation:** 
 
-**[1500.86s] English:** Да.  
+**[1500.86s] English:** Yes.  
 **Translation:** 
 
-**[1501.76s] English:** Но в этих компонентах по отдельности нет ничего плохого.  
-**Translation:** 
+**[1501.76s] English:** But in these components separately, there is nothing bad.  
+**Translation:** Vocabulary: separately: 单独地
 
-**[1504.56s] English:** Да, без осуждения.  
+**[1504.56s] English:** Yes, without judgment.  
 **Translation:** 
 
-**[1505.66s] English:** Но есть какая-то основа, которая не совсем этична.  
+**[1505.66s] English:** But there is some basis that is not entirely ethical.  
 **Translation:** 
 
-**[1509.86s] English:** Я не знаю, что это, но да, я тебя понял.  
+**[1509.86s] English:** I don't know what this is, but yes, I understand you.  
 **Translation:** 
 
-**[1511.86s] English:** Я не хочу никого осуждать.  
+**[1511.86s] English:** I do not want to judge anyone.  
 **Translation:** 
 
-**[1513.86s] English:** Я понял, что это был не мой мир, не моя субкультура.  
+**[1513.86s] English:** I realized that this was not my world, not my subculture.  
 **Translation:** 
 
-**[1516.86s] English:** Я хотел делать крутые вещи.  
-**Translation:** 
+**[1516.86s] English:** I wanted to do cool things.  
+**Translation:** Vocabulary: subculture: 亚文化圈
 
-**[1518.36s] English:** Они тоже думают, что делают что-то крутое.  
+**[1518.36s] English:** They also think they are doing something cool.  
 **Translation:** 
 
-**[1520.86s] English:** Но я хотел создавать стартапы.  
-**Translation:** 
+**[1520.86s] English:** But I wanted to create startups.  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[1523.86s] English:** Я тогда читал что-то типа Hacker News, Y-Комбинатор.  
+**[1523.86s] English:** I was then reading something like Hacker News, Y-Combinator.  
 **Translation:** 
 
-**[1527.86s] English:** Они делали крутые вещи.  
-**Translation:** 
+**[1527.86s] English:** They did some cool things.  
+**Translation:** Vocabulary: hacker: 计算机高手
 
-**[1528.96s] English:** И я тоже хотел.  
+**[1528.96s] English:** And I also wanted.  
 **Translation:** 
 
-**[1530.06s] English:** Довольно классный образ жизни, если так, романтически на это посмотреть.  
-**Translation:** 
+**[1530.06s] English:** Quite a classy lifestyle, if so, to look at it romantically.  
+**Translation:** Vocabulary: classy: 高雅; romantically: 浪漫地
 
-**[1534.86s] English:** Это очень романтично.  
+**[1534.86s] English:** This is very romantic.  
 **Translation:** 
 
-**[1536.86s] English:** Это красочно, особенно воспоминания.  
+**[1536.86s] English:** This is vivid, especially the memories.  
 **Translation:** 
 
-**[1538.86s] English:** Какие эти счастливые воспоминания?  
+**[1538.86s] English:** What happy memories those must be?  
 **Translation:** 
 
-**[1540.86s] English:** Просто работа, работа в кафе или работа...  
+**[1540.86s] English:** Just work, working in a cafe or work...  
 **Translation:** 
 
-**[1544.86s] English:** Просто свобода, которая тебя окутывает от такого образа жизни.  
+**[1544.86s] English:** Just freedom that envelops you from such a lifestyle.  
 **Translation:** 
 
-**[1550.86s] English:** Ведь всё возможно, ты можешь просто взять и...  
-**Translation:** 
+**[1550.86s] English:** Well, everything is possible; you can just take and...  
+**Translation:** Vocabulary: envelops: 包围
 
-**[1553.86s] English:** Это было потрясающе.  
+**[1553.86s] English:** This was amazing.  
 **Translation:** 
 
-**[1554.86s] English:** Мы работали...  
+**[1554.86s] English:** We worked....  
 **Translation:** 
 
-**[1555.86s] English:** Я как бы...  
+**[1555.86s] English:** I kind of...  
 **Translation:** 
 
-**[1556.86s] English:** Я заводил друзей, и мы работали до...  
+**[1556.86s] English:** I was making friends, and we worked until...  
 **Translation:** 
 
-**[1558.96s] English:** Секрет...  
+**[1558.96s] English:** Secret...  
 **Translation:** 
 
-**[1560.00s] English:** утра на Бали, например. С Андреа он до сих пор мой лучший друг и еще одним другом, и мы работали до  
-**Translation:** 
+**[1560.00s] English:** In Bali in the morning, for example. Andrea is still my best friend and another one of my friends, and we worked until  
+**Translation:** Vocabulary: andrea: 安德里亚
 
-**[1568.88s] English:** самого восхода солнца. Ночью в коворкинге была тишина, никого не было. Я просыпался в 5 или 6  
+**[1568.88s] English:** At sunrise. At night in the coworking space, it was quiet; no one was there. I woke up at 5 or 6.  
 **Translation:** 
 
-**[1577.34s] English:** вечера, ехал в коворкинг на байке. Я тогда покупал 30 латы в кофейне. Сколько? 30. Просто приходило  
-**Translation:** 
+**[1577.34s] English:** Evening, I was riding my bike to the coworking space. I bought 30 latas at the café then. How much? 30. It just kept coming.  
+**Translation:** Vocabulary: coworking: 共享办公空间
 
-**[1587.06s] English:** около шести человек, мы не знали сколько точно придет. 30, то есть тройка и ноль? Классно. Мы  
+**[1587.06s] English:** About six people, we didn't know exactly how many would come. Thirty, that is three and zero? Cool. We  
 **Translation:** 
 
-**[1594.06s] English:** выпивали по четыре на человека. Это Бали, не знаю насколько крепкие были те латы. Мы складывали их  
-**Translation:** 
+**[1594.06s] English:** They drank four per person. This was Bali; I don't know how strong those cocktails were. We mixed them ourselves.  
+**Translation:** Vocabulary: cocktails: 鸡尾酒
 
-**[1601.02s] English:** в пластиковый пакет. По приезду кофе просто повсюду. Мы приезжали, располагались с этим кофе и  
+**[1601.02s] English:** In a plastic bag. Upon arrival, the coffee was everywhere. We would arrive, set up with this coffee and  
 **Translation:** 
 
-**[1607.94s] English:** работали всю ночь. Мы включали техно и работали там. Мы были буквально как бизнесмены, работали  
+**[1607.94s] English:** Worked all night. We turned on techno and worked there. We were basically like businessmen, working.  
 **Translation:** 
 
-**[1615.92s] English:** над стартапами.  
+**[1615.92s] English:** On Startups.  
 **Translation:** 
 
-**[1617.06s] English:** А потом вставало солнце, жаворонки, те кто занимаются йогой, все эти мальчики и девочки  
-**Translation:** 
+**[1617.06s] English:** Then the sun rose, the larks, those who practice yoga, all these boys and girls.  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[1623.82s] English:** приходили после занятий йогой в шесть и такие «Доброе утро». А мы такие помятые говорим им «Чё,  
+**[1623.82s] English:** They came after yoga practice at six and said "Good morning." And we replied, looking a bit disheveled, "What's up,  
 **Translation:** 
 
-**[1630.50s] English:** как там?». Мы не знали насколько плохо выглядели, но это было очень плохо. А потом мы шли домой,  
-**Translation:** 
+**[1630.50s] English:** How are you doing?" We didn't know how bad we looked, but it was very bad. And then we went home.  
+**Translation:** Vocabulary: disheveled: 凌乱的
 
-**[1635.54s] English:** отсыпались в хостеле или отеле и опять все по новой и по новой. Это был такой режим уход в  
+**[1635.54s] English:** They slept in a hostel or hotel and started all over again, repeating it time and time again. This was a regime of sorts, diving back in.  
 **Translation:** 
 
-**[1642.66s] English:** работу с головой. Было очень весело. То есть вы  
-**Translation:** 
+**[1642.66s] English:** Work with your head. It was very fun. That is, you  
+**Translation:** Vocabulary: hostel: 招待所
 
-**[1647.06s] English:** просто толпой врубаете техно и так на всю ночь.  
+**[1647.06s] English:** Just keep the techno going in a crowd, and it's like that all night.  
 **Translation:** 
 
-**[1650.90s] English:** Да. Какой-то ритм.  
+**[1650.90s] English:** Yes. Some rhythm.  
 **Translation:** 
 
-**[1653.46s] English:** Скорее, что-то не индустриальное, не такое, по-моему.  
+**[1653.46s] English:** More likely, something non-industrial, not like that, I think.  
 **Translation:** 
 
-**[1655.18s] English:** Для меня это так интересно, ведь скорость ритма влияет на мое восприятие.  
-**Translation:** 
+**[1655.18s] English:** For me, this is so interesting, since the speed of the rhythm affects my perception.  
+**Translation:** Vocabulary: perception: 认知
 
-**[1661.16s] English:** Да.  
+**[1661.16s] English:** Yes.  
 **Translation:** 
 
-**[1661.66s] English:** Чем быстрее, тем больше у меня тревоги, но она перерастает в продуктивность. Но если слишком  
-**Translation:** 
+**[1661.66s] English:** The faster, the more anxiety I have, but it transforms into productivity. But if too much,  
+**Translation:** Vocabulary: transforms: 转变
 
-**[1668.68s] English:** быстро – тревога берет вверх.  
+**[1668.68s] English:** Quickly - anxiety takes over.  
 **Translation:** 
 
-**[1670.76s] English:** Тебе не нравится Drum&Bass?  
+**[1670.76s] English:** Do you not like Drum & Bass?  
 **Translation:** 
 
-**[1671.50s] English:** Скорее нет.  
+**[1671.50s] English:** No, rather not.  
 **Translation:** 
 
-**[1673.10s] English:** Слишком быстро?  
+**[1673.10s] English:** Too quickly?  
 **Translation:** 
 
-**[1674.12s] English:** В смысле, для работы. Приходится с этим играть.  
+**[1674.12s] English:** In other words, for work. I have to deal with it.  
 **Translation:** 
 
-**[1676.50s] English:** Да?  
+**[1676.50s] English:** Ah?  
 **Translation:** 
 
-**[1676.90s] English:** играться, типа, я могу регулировать  
+**[1676.90s] English:** Play, sort of, I can regulate.  
 **Translation:** 
 
-**[1679.10s] English:** свой...  
+**[1679.10s] English:** Own...  
 **Translation:** 
 
-**[1680.00s] English:** Уровень тревоги. Должно быть слово получше, чем тревога.  
+**[1680.00s] English:** Level of anxiety. There should be a better word than anxiety.  
 **Translation:** 
 
-**[1684.82s] English:** Продуктивная тревога. Уже получше. Что бы это ни было.  
+**[1684.82s] English:** Productive anxiety. Already better. What it is, I don't know.  
 **Translation:** 
 
-**[1687.90s] English:** Это еще и от вида работы зависит. Если пишешь, Drum'n'Bass вряд ли зайдет.  
+**[1687.90s] English:** This depends on the type of work you're doing. If you're writing, Drum'n'Bass probably won't work.  
 **Translation:** 
 
-**[1692.20s] English:** Думаю, для кодинга подходит индустриальная техно, что-то такое быстрое.  
+**[1692.20s] English:** I think industrial techno would be good for coding, something fast-paced.  
 **Translation:** 
 
-**[1696.72s] English:** Так ты реально погружаешься.  
+**[1696.72s] English:** So you are really getting immersed.  
 **Translation:** 
 
-**[1699.42s] English:** А в сочетании с кофеином это уже какой-то транс.  
-**Translation:** 
+**[1699.42s] English:** In combination with caffeine, this is some kind of high.  
+**Translation:** Vocabulary: caffeine: 咖啡因; immersed: 沉浸
 
-**[1703.74s] English:** Ты балансируешь на грани тревоги, ведь кофеин ее подпитывает.  
+**[1703.74s] English:** You are balancing on the edge of anxiety, since caffeine fuels it.  
 **Translation:** 
 
-**[1707.36s] English:** Ты хочешь быть на грани тревоги под эту техно, но порой перебор.  
-**Translation:** 
+**[1707.36s] English:** You want to be on the edge of anxiety with this techno, but sometimes it's a bit much.  
+**Translation:** Vocabulary: balancing: 保持平衡
 
-**[1711.86s] English:** Типа, все, стоп техно.  
+**[1711.86s] English:** Type of, that's it, stop the techno.  
 **Translation:** 
 
-**[1715.12s] English:** Но это хорошее воспоминание, а еще воспоминание, как переезжаешь из города в город.  
+**[1715.12s] English:** But this is a good memory, and another memory of moving from one city to another.  
 **Translation:** 
 
-**[1719.32s] English:** Да.  
+**[1719.32s] English:** Yes.  
 **Translation:** 
 
-**[1719.84s] English:** И это как... это красивая жизнь. Очень красиво.  
+**[1719.84s] English:** And this is like... such a beautiful life. Very beautiful.  
 **Translation:** 
 
-**[1724.74s] English:** Видишь много классных городов.  
+**[1724.74s] English:** You see many cool cities.  
 **Translation:** 
 
-**[1726.74s] English:** Какое твое самое любимое место из тех, где ты был?  
+**[1726.74s] English:** What is your favorite place from all the places you've been?  
 **Translation:** 
 
-**[1730.00s] English:** Думаю, Бангкок все еще лучшее... лучшее место.  
+**[1730.00s] English:** I think Bangkok is still the best place.  
 **Translation:** 
 
-**[1734.82s] English:** Бангкок и Цингмай. Таиланд особое место.  
-**Translation:** 
+**[1734.82s] English:** Bangkok and Chiang Mai. Thailand is a special place.  
+**Translation:** Vocabulary: bangkok: 曼谷; chiang: 清迈; thailand: 泰国
 
-**[1737.56s] English:** Я был и в других местах, во Вьетнаме, Южной Америке и так далее.  
+**[1737.56s] English:** I was also in other places, such as Vietnam, South America, and so on.  
 **Translation:** 
 
-**[1742.24s] English:** Но Таиланд выигрывает по доброте людей и по легкости жизни там.  
-**Translation:** 
+**[1742.24s] English:** But Thailand wins for the kindness of its people and the ease of living there.  
+**Translation:** Vocabulary: vietnam: 越南
 
-**[1748.24s] English:** Все дешево и вкусно.  
+**[1748.24s] English:** All is cheap and tasty.  
 **Translation:** 
 
-**[1750.44s] English:** Да, в Бангкоке сейчас дорого, а в Цингмай еще дешево.  
-**Translation:** 
+**[1750.44s] English:** Yes, in Bangkok it's currently expensive, but in Chiang Mai it's still affordable.  
+**Translation:** Vocabulary: affordable: 负担得起的
 
-**[1753.64s] English:** Думаю, для начала это отличное место.  
+**[1753.64s] English:** I think for the beginning, this is a great place.  
 **Translation:** 
 
-**[1755.84s] English:** Но качество воздуха там отстой и жарковато там, но место классное.  
+**[1755.84s] English:** But the air quality there is terrible, and it's rather hot, but the place is great.  
 **Translation:** 
 
-**[1762.04s] English:** Плюсы и минусы.  
+**[1762.04s] English:** Pros and Cons.  
 **Translation:** 
 
-**[1763.24s] English:** Еще я люблю Бразилию. Моя девушка бразильянка, но не только поэтому.  
+**[1763.24s] English:** I also love Brazil. My girlfriend is Brazilian, but that's not the only reason.  
 **Translation:** 
 
-**[1766.92s] English:** Проблема все еще в безопасности.  
+**[1766.92s] English:** The problem is still in terms of security.  
 **Translation:** 
 
-**[1772.12s] English:** Как и в Америке, все локально. Европейцам сложно понять.  
+**[1772.12s] English:** As in America, it's all local. Europeans find it hard to understand.  
 **Translation:** 
 
-**[1774.32s] English:** Безопасность привязана к конкретным районам.  
+**[1774.32s] English:** Security is tied to specific areas.  
 **Translation:** 
 
-**[1776.52s] English:** Если попадешь в правильный район, то это потрясающе, а если в неправильный, можешь и умереть.  
+**[1776.52s] English:** If you happen to be in the right neighborhood, it's amazing; if not, you might die.  
 **Translation:** 
 
-**[1782.72s] English:** Да, это так.  
+**[1782.72s] English:** Yes, that's correct.  
 **Translation:** 
 
-**[1784.92s] English:** Но в Европе не так.  
+**[1784.92s] English:** But in Europe, it's not like that.  
 **Translation:** 
 
-**[1787.12s] English:** В Европе все гораздо усредненней.  
+**[1787.12s] English:** In Europe, it is much more standardized.  
 **Translation:** 
 
-**[1789.32s] English:** Ты прав.  
-**Translation:** 
+**[1789.32s] English:** You're right.  
+**Translation:** Vocabulary: standardized: 标准化
 
-**[1790.52s] English:** Все равномернее.  
+**[1790.52s] English:** All more evenly.  
 **Translation:** 
 
-**[1792.72s] English:** Мне нравится, когда есть четкие районы.  
-**Translation:** 
+**[1792.72s] English:** I like when there are clear boundaries.  
+**Translation:** Vocabulary: evenly: 均匀地
 
-**[1795.72s] English:** Переходишь определенную улицу, и ты в опасной части города.  
+**[1795.72s] English:** Crossing a certain street, and you're in the dangerous part of the city.  
 **Translation:** 
 
-**[1799.92s] English:** Блин.  
+**[1799.92s] English:** Blim.  
 **Translation:** 
 
-**[1800.00s] English:** ну да мне такое нравится штатах есть и такие города да но ты говоришь в европе  
+**[1800.00s] English:** Nu, da, I like such cities in the U.S., and there are such cities, but you say in Europe?  
 **Translation:** 
 
-**[1806.42s] English:** нет тебе не страшно но мне нет мне нравится жить ну не только поэтому думаю  
+**[1806.42s] English:** No, it's not scary for you, but me? I like living, not just because, but I think.  
 **Translation:** 
 
-**[1812.78s] English:** опасность интересно да опасность раскрывает что-то в тебе да и в других я  
+**[1812.78s] English:** Danger is interesting, isn't it? It reveals something in you, and in others, I think.  
 **Translation:** 
 
-**[1818.16s] English:** люблю весь спектр человечества мне не нравится пресные стороны человечества у  
-**Translation:** 
+**[1818.16s] English:** Love the entire spectrum of humanity; I don't like the bland side of humanity, but  
+**Translation:** Vocabulary: bland: 平淡无奇
 
-**[1823.50s] English:** меня есть друзья намады которые именно такие они едут в такие сложные регионы  
+**[1823.50s] English:** There are friends of mine who are exactly like that. They travel to such difficult regions.  
 **Translation:** 
 
-**[1829.06s] English:** им нравится эта реальность им больше нравится аутентичность они не любят  
-**Translation:** 
+**[1829.06s] English:** We like this reality; they prefer authenticity. They don't love it.  
+**Translation:** Vocabulary: authenticity: 真实性
 
-**[1832.78s] English:** роскошь не любят а я и сам ее не нога это очень по-европейски правда секунду  
+**[1832.78s] English:** Luxury is not loved, and I myself don't go for it; this is very European, isn't it? (pause)  
 **Translation:** 
 
-**[1838.42s] English:** что это уже другой разговор в общем ты цитировал фрею старк проснуться в  
-**Translation:** 
+**[1838.42s] English:** What this is, is another conversation altogether. In general, you quoted Frey Stark saying "wake up.  
+**Translation:** Vocabulary: quoted: 引用; stark: 斯塔克
 
-**[1847.18s] English:** одиночестве в чужом городе это одно из самых приятных ощущений в мире да ты  
+**[1847.18s] English:** In solitude in a foreign city, this is one of the most pleasant feelings in the world, isn't it?  
 **Translation:** 
 
-**[1853.86s] English:** помнишь когда просыпался в чужом городе с такими чувствами у нас тут речь о  
-**Translation:** 
+**[1853.86s] English:** Do you remember when I woke up in a foreign city with these feelings? We're talking about  
+**Translation:** Vocabulary: solitude: 独处
 
-**[1859.04s] English:** маленьких или больших городе ваги где угодно я вроде писал об этом в каком-то  
+**[1859.04s] English:** In small or big cities, in villages, wherever I seem to have written about this somewhere.  
 **Translation:** 
 
-**[1863.06s] English:** блоге это было обычным делом когда  
+**[1863.06s] English:** In the blog, this was a common occurrence when  
 **Translation:** 
 
-**[1866.42s] English:** просыпаешься и я запустил сайт про цифровых намадов называется но матлис  
+**[1866.42s] English:** You wake up, and I launched a website about digital nomads; it's called Matlis.  
 **Translation:** 
 
-**[1871.30s] English:** точка ком в этом сообществе было еще три тысячи намадов мне было одиноко я  
-**Translation:** 
+**[1871.30s] English:** Точка ком в этом сообществе было еще три тысячи纳米度，我感到很孤独我。  
+**Translation:** Vocabulary: nomads: 游牧民族
 
-**[1875.96s] English:** запустил этот сайт я стал организовывать встречи заводить друзей и люди часто  
+**[1875.96s] English:** I launched this website, and I started organizing meetings and making friends; people often  
 **Translation:** 
 
-**[1882.26s] English:** говорили что просыпаются и забывают где находятся на первые полминуты мне  
+**[1882.26s] English:** They say that upon waking, one forgets where they are for the first few minutes.  
 **Translation:** 
 
-**[1889.04s] English:** даже моглаarl это сколько слоев да я думаю что в этого hotter  
+**[1889.04s] English:** Even could I recall this, it's how many layers? I think that for this hotter.  
 **Translation:** 
 
-**[1918.12s] English:** Но это не делало меня счастливым.  
+**[1918.12s] English:** But this did not make me happy.  
 **Translation:** 
 
-**[1920.00s] English:** хотя и было очень круто, это вызывало тревогу.  
+**[1920.00s] English:** Although it was very cool, this caused concern.  
 **Translation:** 
 
-**[1923.32s] English:** В этом есть что-то тревожное.  
+**[1923.32s] English:** There is something alarming in this.  
 **Translation:** 
 
-**[1925.70s] English:** Не знаю, мне кажется, это классное чувство.  
+**[1925.70s] English:** I don't know, but I think it's a great feeling.  
 **Translation:** 
 
-**[1928.20s] English:** Сначала страшно, но потом понимаешь, где ты.  
+**[1928.20s] English:** At first it's scary, but then you understand where you are.  
 **Translation:** 
 
-**[1931.24s] English:** И ты, не знаю, словно просыпаешься, и видишь все возможности этого места.  
+**[1931.24s] English:** And you, I don't know, as though awakening, and seeing all the possibilities of this place.  
 **Translation:** 
 
-**[1937.18s] English:** Вот именно.  
-**Translation:** 
+**[1937.18s] English:** That's exactly right.  
+**Translation:** Vocabulary: awakening: 觉醒
 
-**[1937.58s] English:** Типа того.  
+**[1937.58s] English:** Type of that.  
 **Translation:** 
 
-**[1938.12s] English:** Точно.  
+**[1938.12s] English:** Exactly.  
 **Translation:** 
 
-**[1938.54s] English:** Это здорово, и даже когда ты просто путешествуешь,  
+**[1938.54s] English:** This is great, and even when you're just traveling,  
 **Translation:** 
 
-**[1941.38s] English:** едешь, допустим, в Сан-Франциско.  
+**[1941.38s] English:** You're going, let's say, to San Francisco.  
 **Translation:** 
 
-**[1942.92s] English:** Да, срабатывает эффект новизны, ты в новом месте.  
+**[1942.92s] English:** Yes, there's a novelty effect, you're in a new place.  
 **Translation:** 
 
-**[1946.04s] English:** Здесь все возможно, ты еще пока не заскучал.  
-**Translation:** 
+**[1946.04s] English:** Here, everything is possible, you haven't gotten bored yet.  
+**Translation:** Vocabulary: novelty: 新鲜感
 
-**[1950.00s] English:** И поэтому люди подсаживаются на путешествия.  
+**[1950.00s] English:** Therefore, people get hooked on travel.  
 **Translation:** 
 
-**[1953.52s] English:** Давай к стартапам.  
-**Translation:** 
+**[1953.52s] English:** Let's go to the startups.  
+**Translation:** Vocabulary: hooked: 上瘾; startups: 初创企业
 
-**[1954.56s] English:** Ты написал книгу о том, как это делать,  
+**[1954.56s] English:** You wrote a book on how to do it.  
 **Translation:** 
 
-**[1957.06s] English:** и выступил с отличным докладом о том, как делать стартапы.  
+**[1957.06s] English:** And he gave an excellent presentation on how to start startups.  
 **Translation:** 
 
-**[1960.24s] English:** Книга называется «Сделай. Руководство для бутстрапера».  
+**[1960.24s] English:** The book is called "Make: A Guide for Bootstrappers.  
 **Translation:** 
 
-**[1964.28s] English:** Да.  
-**Translation:** 
+**[1964.28s] English:** Yes.  
+**Translation:** Vocabulary: bootstrappers: 自行启动者
 
-**[1964.70s] English:** Не мог бы ты пройтись по некоторым этапам?  
+**[1964.70s] English:** Could you go through some of the stages?  
 **Translation:** 
 
-**[1966.82s] English:** Идея, создание, запуск, рост, монетизация, автоматизация и выход.  
-**Translation:** 
+**[1966.82s] English:** Idea, creation, launch, growth, monetization, automation, and exit.  
+**Translation:** Vocabulary: automation: 自动化; monetization: 变现
 
-**[1971.22s] English:** На каждом из них много интересных идей.  
+**[1971.22s] English:** On each of them, there are many interesting ideas.  
 **Translation:** 
 
-**[1973.46s] English:** Итак, этап идеи.  
+**[1973.46s] English:** So, the idea stage.  
 **Translation:** 
 
-**[1974.98s] English:** Да.  
+**[1974.98s] English:** Yes.  
 **Translation:** 
 
-**[1975.34s] English:** Как найти хорошую идею?  
+**[1975.34s] English:** How can you find a good idea?  
 **Translation:** 
 
-**[1976.76s] English:** Думаю, нужно уметь замечать проблемы.  
+**[1976.76s] English:** I think it's important to be able to notice problems.  
 **Translation:** 
 
-**[1978.72s] English:** Можно в своей повседневности.  
-**Translation:** 
+**[1978.72s] English:** Can you incorporate it into your daily life.  
+**Translation:** Vocabulary: incorporate: 融入日常
 
-**[1980.00s] English:** В повседневной жизни, когда просыпаешься, подумать,  
+**[1980.00s] English:** In daily life, when you wake up, think about  
 **Translation:** 
 
-**[1982.02s] English:** «А что меня раздражает?»  
+**[1982.02s] English:** What annoys me?  
 **Translation:** 
 
-**[1984.08s] English:** Это как...  
+**[1984.08s] English:** This is like...  
 **Translation:** 
 
-**[1985.74s] English:** Что плохо работает в повседневной рутине?  
+**[1985.74s] English:** What does not work well in daily routine?  
 **Translation:** 
 
-**[1988.32s] English:** И эта проблема, которую ты видишь, и, может быть,  
+**[1988.32s] English:** And this problem that you see, and perhaps,  
 **Translation:** 
 
-**[1990.94s] English:** это то, над чем можно поработать, написать код, и это упростит тебе жизнь.  
-**Translation:** 
+**[1990.94s] English:** This is something you can work on, write the code, and it will simplify your life.  
+**Translation:** Vocabulary: simplify: 使简化
 
-**[1996.42s] English:** Я бы советовал составить список повседневных проблем и идей по их решению,  
+**[1996.42s] English:** I would advise creating a list of daily problems and ideas for their solutions,  
 **Translation:** 
 
-**[2000.32s] English:** посмотреть, какая из них жизнеспособность,  
-**Translation:** 
+**[2000.32s] English:** Look at which one has more viability.  
+**Translation:** Vocabulary: viability: 可行性
 
-**[2002.54s] English:** с которой ты можешь что-то сделать и начать работать.  
+**[2002.54s] English:** With which you can do something and start working.  
 **Translation:** 
 
-**[2005.40s] English:** Это и вправду хорошее начало.  
+**[2005.40s] English:** This is really a good start.  
 **Translation:** 
 
-**[2008.72s] English:** Стать открытым.  
+**[2008.72s] English:** Become open.  
 **Translation:** 
 
-**[2009.12s] English:** Стать открытым.  
+**[2009.12s] English:** Become open.  
 **Translation:** 
 
-**[2010.00s] English:** Своим проблемам в жизни.  
+**[2010.00s] English:** Of their problems in life.  
 **Translation:** 
 
-**[2011.68s] English:** Начать их замечать.  
+**[2011.68s] English:** Start noticing them.  
 **Translation:** 
 
-**[2013.08s] English:** Да.  
+**[2013.08s] English:** Yes.  
 **Translation:** 
 
-**[2013.30s] English:** На самом деле, это не так-то просто.  
+**[2013.30s] English:** In fact, it's not so easy.  
 **Translation:** 
 
-**[2015.14s] English:** Осознать, что некоторые аспекты твоей жизни можно сильно прокачать.  
+**[2015.14s] English:** To realize that some aspects of your life can be significantly enhanced.  
 **Translation:** 
 
-**[2019.24s] English:** Да.  
-**Translation:** 
+**[2019.24s] English:** Yes.  
+**Translation:** Vocabulary: enhanced: 提高
 
-**[2019.68s] English:** Потому что мы очень быстро привыкаем к неудобствам.  
+**[2019.68s] English:** Because we get used to discomfort very quickly.  
 **Translation:** 
 
-**[2024.02s] English:** Точно.  
-**Translation:** 
+**[2024.02s] English:** Exactly.  
+**Translation:** Vocabulary: discomfort: 不舒适
 
-**[2025.28s] English:** Например, дверные ручки.  
+**[2025.28s] English:** For example, door handles.  
 **Translation:** 
 
-**[2027.44s] English:** Да.  
+**[2027.44s] English:** Yes.  
 **Translation:** 
 
-**[2028.28s] English:** Дизайн некоторых вещей.  
+**[2028.28s] English:** Design of some things.  
 **Translation:** 
 
-**[2030.82s] English:** Дверные ручки Lex.  
+**[2030.82s] English:** Door handles Lex.  
 **Translation:** 
 
-**[2032.28s] English:** Да.  
+**[2032.28s] English:** Yes.  
 **Translation:** 
 
-**[2032.66s] English:** За 50 баксов.  
+**[2032.66s] English:** For $50.  
 **Translation:** 
 
-**[2033.30s] English:** Но тут я хоть знаю, сколько невероятной дизайнерской работы было проделано.  
+**[2033.30s] English:** But here at least I know how much incredible design work was done.  
 **Translation:** 
 
-**[2038.32s] English:** Это очень интересно.  
+**[2038.32s] English:** This is very interesting.  
 **Translation:** 
 
-**[2039.44s] English:** Да, да.  
+**[2039.44s] English:** Yes, yes.  
 **Translation:** 
 
-**[2040.00s] English:** Двери и дверные ручки, дизайн повседневных вещей, вилки, ложки.  
+**[2040.00s] English:** Doors and door handles, designs of everyday items, forks, spoons.  
 **Translation:** 
 
-**[2045.02s] English:** Сложно придумать вилку, которая лучше нынешней.  
+**[2045.02s] English:** It's hard to imagine a fork that is better than the current one.  
 **Translation:** 
 
-**[2047.46s] English:** Да.  
+**[2047.46s] English:** Yes.  
 **Translation:** 
 
-**[2047.78s] English:** Сам дизайн.  
+**[2047.78s] English:** The design itself.  
 **Translation:** 
 
-**[2048.88s] English:** Да.  
+**[2048.88s] English:** Yes.  
 **Translation:** 
 
-**[2049.10s] English:** А с другой стороны, по твоим словам, интересные идеи порождают интересная жизнь.  
+**[2049.10s] English:** On the other hand, according to your words, interesting ideas produce an interesting life.  
 **Translation:** 
 
-**[2055.56s] English:** Да, тут-то и проявляются путешествия.  
+**[2055.56s] English:** Yes, that's where the travels really show.  
 **Translation:** 
 
-**[2058.20s] English:** Ставши путешествовать, я стал замечать вещи, которых не было в Европе или, допустим, в Америке.  
+**[2058.20s] English:** Becoming a traveler, I started noticing things that were not in Europe or, for example, in America.  
 **Translation:** 
 
-**[2063.84s] English:** Если поехать в Азию,  
+**[2063.84s] English:** If you travel to Asia,  
 **Translation:** 
 
-**[2064.92s] English:** чувак, особенно 10 лет назад, никто и знать не знал об этих Вичат.  
+**[2064.92s] English:** Guy, especially 10 years ago, nobody even knew about these WeChat.  
 **Translation:** 
 
-**[2071.18s] English:** Обо всем этом, что у них уже тогда было.  
+**[2071.18s] English:** Of all this, what they already had then.  
 **Translation:** 
 
-**[2073.36s] English:** Этих приложениях все в одном.  
+**[2073.36s] English:** These applications have it all in one.  
 **Translation:** 
 
-**[2075.14s] English:** Теперь Илон пытается превратить Экс в подобие Вичат.  
-**Translation:** 
+**[2075.14s] English:** Now, Elon is trying to turn Ex into a likeness of Vichat.  
+**Translation:** Vocabulary: likeness: 相似之处
 
-**[2078.70s] English:** В Индонезии или Таиланде в одном приложении можно заказать еду, заказать продукты, заказать массаж, заказать автомеханика.  
+**[2078.70s] English:** In Indonesia or Thailand, in one application you can order food, order groceries, order a massage, or schedule a mechanic.  
 **Translation:** 
 
-**[2087.40s] English:** Все, что душе угодно, все там.  
-**Translation:** 
+**[2087.40s] English:** All that the heart desires, all is there.  
+**Translation:** Vocabulary: desires: 愿望; groceries: 杂货; massage: 按摩
 
-**[2090.20s] English:** И вот это, например, это называется арбитражом.  
+**[2090.20s] English:** Here's an example of what this is called: arbitrage.  
 **Translation:** 
 
-**[2094.02s] English:** Ты можешь вернуться в свою страну и создать такое же приложение.  
-**Translation:** 
+**[2094.02s] English:** You can return to your country and create a similar application.  
+**Translation:** Vocabulary: arbitrage: 套利
 
-**[2098.02s] English:** Так что ты начинаешь замечать проблемы и видеть решения, которые уже реализовали в остальном мире.  
+**[2098.02s] English:** So you begin to notice problems and see solutions that have already been implemented in the rest of the world.  
 **Translation:** 
 
-**[2105.58s] English:** В целом, путешествия скорее создают больше проблем, ведь это попросту неудобно.  
-**Translation:** 
+**[2105.58s] English:** Overall, travel tends to create more problems as it is simply inconvenient.  
+**Translation:** Vocabulary: implemented: 已实行
 
-**[2112.30s] English:** Аэропорты ужасны, в самолетах тоже не особо комфортно.  
+**[2112.30s] English:** Airports are awful, and flying isn't particularly comfortable either.  
 **Translation:** 
 
-**[2116.06s] English:** Ты начинаешь замечать кучу проблем, просто выйдя из дома.  
+**[2116.06s] English:** You begin to notice a bunch of problems as soon as you step out of the house.  
 **Translation:** 
 
-**[2119.12s] English:** Но и в цифровом мире ты можешь заходить в разные сообщества и смотреть,  
+**[2119.12s] English:** But in the digital world, you can join different communities and see,  
 **Translation:** 
 
-**[2124.02s] English:** что можно улучшить.  
+**[2124.02s] English:** What can be improved.  
 **Translation:** 
 
-**[2125.34s] English:** Да, да, да, да, да.  
+**[2125.34s] English:** Yes, yes, yes, yes, yes.  
 **Translation:** 
 
-**[2128.08s] English:** Как именно выглядит твой процесс генерации идей?  
+**[2128.08s] English:** How exactly does your idea generation process look?  
 **Translation:** 
 
-**[2131.20s] English:** Это что-то вроде сортировки?  
+**[2131.20s] English:** Is this something like sorting?  
 **Translation:** 
 
-**[2132.76s] English:** Типа документа, куда ты записываешь все подряд?  
-**Translation:** 
+**[2132.76s] English:** Type of document where you jot down everything indiscriminately?  
+**Translation:** Vocabulary: indiscriminately: 随意; sorting: 分类
 
-**[2135.00s] English:** Да, раньше, когда я не зарабатывал деньги, я пытался составить список идей, чтобы понять...  
+**[2135.00s] English:** Yes, earlier, when I wasn't earning money, I tried to come up with a list of ideas to understand...  
 **Translation:** 
 
-**[2141.00s] English:** В целом, я мыслил статистически, типа я создам кучу всего, и что-то, наверное, не сработает.  
-**Translation:** 
+**[2141.00s] English:** Overall, I thought statistically, kind of like I would create a bunch of stuff, and something, probably, wouldn't work.  
+**Translation:** Vocabulary: statistically: 统计上
 
-**[2146.30s] English:** Поэтому нужно попробовать все.  
+**[2146.30s] English:** Therefore, we need to try everything.  
 **Translation:** 
 
-**[2149.44s] English:** Так и было.  
+**[2149.44s] English:** So it was.  
 **Translation:** 
 
-**[2150.22s] English:** Сейчас, поскольку у меня есть деньги, и я могу делать...  
+**[2150.22s] English:** Now that I have money, I can do...  
 **Translation:** 
 
-**[2154.02s] English:** Что-то технологическое, например, ИИ.  
+**[2154.02s] English:** Something technological, for example, AI.  
 **Translation:** 
 
-**[2157.00s] English:** Когда я узнал о Stable Diffusion или ChatG...  
+**[2157.00s] English:** When I learned about Stable Diffusion or ChatG...,  
 **Translation:** 
 
-**[2160.00s] English:** GPT и все такое, все эти вещи.  
+**[2160.00s] English:** GPT and all that stuff, all these things.  
 **Translation:** Vocabulary: diffusion: 扩散
 
-**[2164.30s] English:** Я стал работать с ними не из-за какой-то проблемы.  
+**[2164.30s] English:** I started working with them not because of any problem.  
 **Translation:** 
 
-**[2167.86s] English:** Мне было интересно изучать технологии.  
+**[2167.86s] English:** It was interesting for me to study technologies.  
 **Translation:** 
 
-**[2170.52s] English:** И я игрался с ними, пытался выяснить.  
+**[2170.52s] English:** I played with them, trying to figure out.  
 **Translation:** 
 
-**[2174.30s] English:** Поначалу игрался, потом находил что-то вроде «Окей, это генерирует...»  
-**Translation:** 
+**[2174.30s] English:** At first, I played around, then found something like "Okay, this generates...  
+**Translation:** Vocabulary: generates: 产生
 
-**[2178.48s] English:** Stable diffusion генерирует очень красивые дома и интерьеры.  
+**[2178.48s] English:** Stable diffusion generates very beautiful homes and interiors.  
 **Translation:** 
 
-**[2181.56s] English:** То есть дело не в решении проблем, а в возможностях создания чего-то нового.  
-**Translation:** 
+**[2181.56s] English:** That is, the issue is not about solving problems, but about the opportunities for creating something new.  
+**Translation:** Vocabulary: interiors: 室内装修
 
-**[2185.36s] English:** Да, но это большой риск.  
+**[2185.36s] English:** Yes, but it's a big risk.  
 **Translation:** 
 
-**[2186.88s] English:** Это известная ситуация, когда решение ищет проблемы.  
+**[2186.88s] English:** This is a well-known situation when solutions are sought for problems.  
 **Translation:** 
 
-**[2190.00s] English:** И это обычно не работает.  
+**[2190.00s] English:** And this usually doesn't work.  
 **Translation:** 
 
-**[2191.40s] English:** Это часто встречается у стартапов, у них есть технологии.  
-**Translation:** 
+**[2191.40s] English:** This is often seen with startups; they have technologies.  
+**Translation:** Vocabulary: startups: 初创公司
 
-**[2195.00s] English:** Но в реальности людям они не нужны.  
+**[2195.00s] English:** But in reality, they are not needed by people.  
 **Translation:** 
 
-**[2198.06s] English:** Не мог бы ты рассказать...  
+**[2198.06s] English:** Could you tell me...?  
 **Translation:** 
 
-**[2199.70s] English:** Было бы круто поговорить о том, что ты создал.  
+**[2199.70s] English:** It would be cool to talk about what you created.  
 **Translation:** 
 
-**[2202.38s] English:** Расскажи про фото.ai.com.  
+**[2202.38s] English:** Tell me about photo.ai.com.  
 **Translation:** 
 
-**[2205.42s] English:** Да.  
+**[2205.42s] English:** Yes.  
 **Translation:** 
 
-**[2206.16s] English:** Типа уволь своего фотографа.  
+**[2206.16s] English:** Type up your own photographer.  
 **Translation:** 
 
-**[2208.02s] English:** Идея в том, что фотограф больше не нужен.  
+**[2208.02s] English:** The idea is that the photographer is no longer needed.  
 **Translation:** 
 
-**[2210.56s] English:** Ты можешь обучить свою ИИ-модель и делать сколько угодно фото, где угодно, в любой одежде.  
+**[2210.56s] English:** You can train your AI model to create as many photos as you want, anywhere, in any clothing.  
 **Translation:** 
 
-**[2216.16s] English:** С любым выражением лица, счастливым, грустным.  
+**[2216.16s] English:** With any expression, happy or sad.  
 **Translation:** 
 
-**[2220.00s] English:** В любой позе, и все такое.  
+**[2220.00s] English:** In any position, and all that.  
 **Translation:** 
 
-**[2222.20s] English:** И как это работает?  
+**[2222.20s] English:** How does this work?  
 **Translation:** 
 
-**[2223.52s] English:** Ага.  
+**[2223.52s] English:** Agreed.  
 **Translation:** 
 
-**[2225.52s] English:** Пришлешь мне...  
+**[2225.52s] English:** Prishlëš mi...  
 **Translation:** 
 
-**[2226.38s] English:** Ты можешь нажать...  
+**[2226.38s] English:** You can click...  
 **Translation:** 
 
-**[2227.18s] English:** Ссылку на галерею с моими фото.  
+**[2227.18s] English:** Please provide a link to the gallery with my photos.  
 **Translation:** 
 
-**[2229.18s] English:** Да, слева, в поле для промтов.  
-**Translation:** 
+**[2229.18s] English:** Yes, on the left, in the prompt field.  
+**Translation:** Vocabulary: prompt: 提示
 
-**[2231.18s] English:** Тут?  
+**[2231.18s] English:** Here?  
 **Translation:** 
 
-**[2231.68s] English:** Да, это твоя модель, это Лекс Фридман.  
+**[2231.68s] English:** Yes, this is your model, Lex Fridman.  
 **Translation:** 
 
-**[2234.68s] English:** И ты можешь написать, сделай так и так, что угодно.  
+**[2234.68s] English:** You can write that, do this and that, whatever you want.  
 **Translation:** 
 
-**[2238.76s] English:** Нажимаешь кнопку, и он делает фото, это займет минуту.  
+**[2238.76s] English:** Press the button, and it will take a photo; this will take about a minute.  
 **Translation:** 
 
-**[2242.12s] English:** Что используешь для хостинга и вычислений?  
+**[2242.12s] English:** What do you use for hosting and computations?  
 **Translation:** 
 
-**[2244.12s] English:** Репликейт.  
-**Translation:** 
+**[2244.12s] English:** Replicate.  
+**Translation:** Vocabulary: computations: 计算
 
-**[2245.02s] English:** Понял.  
+**[2245.02s] English:** Understood.  
 **Translation:** 
 
-**[2245.52s] English:** Репликейт.ком, они очень хороши.  
+**[2245.52s] English:** Replicait.com, they are very good.  
 **Translation:** 
 
-**[2247.52s] English:** Это круто.  
+**[2247.52s] English:** This is cool.  
 **Translation:** 
 
-**[2248.52s] English:** И с точки зрения интерфейса...  
-**Translation:** 
+**[2248.52s] English:** From a user interface perspective,...  
+**Translation:** Vocabulary: interface: 用户界面
 
-**[2249.80s] English:** И видно, сколько времени уйдет.  
+**[2249.80s] English:** It's clear how much time it will take.  
 **Translation:** 
 
-**[2251.80s] English:** Потрясающе.  
-**Translation:** 
+**[2251.80s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to use natural English punctuation and capitalization while keeping the same meaning without translating, and considering "Потрясающе" is Russian for "Amazing," the improved sentence would be: Amazing.  
+**Translation:** Vocabulary: capitalization: 大写; translating: 翻译
 
-**[2252.80s] English:** Полагаю, ты просто загрузил пару фотографий из интернета.  
+**[2252.80s] English:** I suppose you just loaded a couple of photos from the internet.  
 **Translation:** 
 
-**[2256.80s] English:** Да, я зашел в Google Images, набрал Лекс Фридман и добавил 10-20 фото.  
+**[2256.80s] English:** Yes, I searched for Lex Fridman in Google Images and added about 10-20 photos.  
 **Translation:** 
 
-**[2261.80s] English:** Ты можешь открыть их в галерее и использовать курсор, чтобы, да.  
+**[2261.80s] English:** You can open them in the gallery and use the cursor to, you know.  
 **Translation:** 
 
-**[2266.80s] English:** Некоторые не похожи, но соотношение попаданий и промахов, я не знаю...  
-**Translation:** 
+**[2266.80s] English:** Some don't resemble it, but in terms of hits and misses, I'm not sure...  
+**Translation:** Vocabulary: cursor: 光标
 
-**[2271.80s] English:** Где-то 50 на 50.  
+**[2271.80s] English:** Somewhere 50/50.  
 **Translation:** 
 
-**[2273.80s] English:** Я смотрел до этого, и похоже, становится все лучше и лучше.  
+**[2273.80s] English:** I have been keeping an eye on it, and it seems to be getting better and better.  
 **Translation:** 
 
-**[2276.80s] English:** Вначале было очень плохо, но люди все равно регистрируются.  
+**[2276.80s] English:** At first, it was very bad, but people are still registering.  
 **Translation:** 
 
-**[2279.80s] English:** А я не прочитал.  
-**Translation:** 
+**[2279.80s] English:** I did not read it.  
+**Translation:** Vocabulary: registering: 登记
 
-**[2280.80s] English:** Я до сих пор так делал.  
+**[2280.00s] English:** Two Alexes are better than one, getting all sexier and sexier makes me even uncomfortable with this and it's a problem.  
 **Translation:** 
 
-**[2281.80s] English:** Я надеюсь, что все так и будет.  
-**Translation:** 
+**[2280.80s] English:** I still do that.  
+**Translation:** Vocabulary: sexier: 更sexy
 
-**[2282.80s] English:** Я очень рад, что мы вместе с вами сегодня здесь.  
+**[2281.80s] English:** I hope that will all be true.  
 **Translation:** 
 
-**[2283.80s] English:** Жмите на колокольчик и подписывайтесь на наш канал.  
+**[2282.80s] English:** I am very glad that we are together here with you today.  
 **Translation:** 
 
-**[2284.80s] English:** Пишите в комментариях, что вы интересуетесь больше,  
+**[2283.80s] English:** Click the bell and subscribe to our channel.  
 **Translation:** 
 
-**[2285.80s] English:** чем я, и не забывайте поделиться с друзьями, что мне нравится  
-**Translation:** 
+**[2284.80s] English:** Write in the comments what you are more interested in,  
+**Translation:** Vocabulary: subscribe: 订阅
 
-**[2286.80s] English:** в первую очередь.  
+**[2285.80s] English:** What I like, and don't forget to share with friends, too.  
 **Translation:** 
 
-**[2287.80s] English:** До новых встреч.  
-**Translation:** 
+**[2286.80s] English:** First and foremost.  
+**Translation:** Vocabulary: foremost: 首要的
 
-**[2288.80s] English:** Удачи!  
+**[2287.80s] English:** Until we meet again.  
 **Translation:** 
 
-**[2289.80s] English:** До свидания.  
+**[2288.80s] English:** Good luck!  
 **Translation:** 
 
-**[2290.80s] English:** Реплика.  
+**[2288.82s] English:** These models don't exist; we need to talk about it. End of table diffusion. Photorealistic models.  
 **Translation:** 
 
-**[2291.80s] English:** Курсор на Берлайв.  
-**Translation:** 
+**[2289.80s] English:** Goodbye.  
+**Translation:** Vocabulary: diffusion: 扩散; goodbye: 再见; photorealistic: 照片级真实感
 
-**[2292.80s] English:** Непосадка.  
+**[2290.80s] English:** Replica.  
 **Translation:** 
 
-**[2293.80s] English:** Не жалуйте.  
-**Translation:** 
+**[2291.80s] English:** Cursor on Berlive.  
+**Translation:** Vocabulary: replica: 复制品
 
-**[2294.80s] English:** Не делайте это зеркало.  
+**[2292.80s] English:** Unloaded.  
 **Translation:** 
 
-**[2295.80s] English:** Не забывайте.  
+**[2293.80s] English:** Do not flatter.  
 **Translation:** 
 
-**[2296.80s] English:** Не забывайте.  
+**[2294.80s] English:** Do not do this mirror.  
 **Translation:** 
 
-**[2297.80s] English:** На следующий раз.  
-**Translation:** 
+**[2294.98s] English:** How, even if revised, they were originally trained on pornographic material; initially, there was a guy named Hassan; I tried...  
+**Translation:** Vocabulary: hassan: 哈桑; pornographic: 色情的
 
-**[2298.80s] English:** Не забывайте.  
+**[2295.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2299.80s] English:** Не забывайте.  
+**[2296.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2300.80s] English:** Не забывайте.  
+**[2297.80s] English:** Next time.  
 **Translation:** 
 
-**[2301.80s] English:** Не забывайте.  
+**[2298.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2280.00s] English:** два алекса лучше чем один становится все сексуальнее мне даже неловко в этом и проблема  
+**[2299.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2288.82s] English:** этих моделей нет нам нужно об этом поговорить конец table diffusion фотореалистичные модели  
-**Translation:** Vocabulary: diffusion: 扩散
+**[2300.74s] English:** To achieve photorealism with Stable Diffusion, faces are sometimes a challenge.  
+**Translation:** Vocabulary: photorealism: 照片级 realism
 
-**[2294.98s] English:** как бы доработаны они обучались на порно изначально был такой парень хасан я пытался  
+**[2300.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2300.74s] English:** добиться фотореалистичности с помощью и и но stable diffusion не особо справляются лица какие-то  
+**[2301.80s] English:** Do not forget.  
 **Translation:** 
 
-**[2306.40s] English:** перекошены на разрешение не хватает да и в целом не очень но потом я нашел эти fine tune модели  
+**[2306.40s] English:** Perkedelní obrazovky jsou nakloněny na rozlišení, není to moc dobré a celkově je to trochu problématické. Ale pak jsem našel tyto fine-tune modely.  
 **Translation:** 
 
-**[2314.32s] English:** люди обучали их на порно и вот они были очень фотореалистичными тела выглядели правильно с  
-**Translation:** 
+**[2314.32s] English:** People trained them on porn, and they turned out very photorealistic; the bodies looked right.  
+**Translation:** Vocabulary: obrazovky: 显示屏
 
-**[2321.88s] English:** нормальной анатомии но у этих моделей даже которые сейчас считаются крутыми там все еще есть отголоски  
+**[2321.88s] English:** Normal anatomy, but even in these models, which are currently considered cool, there are still echoes of it.  
 **Translation:** 
 
-**[2329.98s] English:** порно голых людей в промте нужно писать никакой наготы это обязательное правило для и и стартапа  
-**Translation:** 
+**[2329.98s] English:** Porno of naked people in prom should not be written. This is an obligatory rule for any startup.  
+**Translation:** Vocabulary: anatomy: 人体解剖; echoes: 回声; obligatory: 强制的; porno: 色情
 
-**[2336.02s] English:** вычищать  
+**[2336.02s] English:** Cleaning  
 **Translation:** 
 
-**[2336.40s] English:** и такое из изображений нужно исключить всю наготу приходится напоминать модели не забудь про одежду  
-**Translation:** 
+**[2336.40s] English:** And such images need to exclude all nudity, and it's necessary to remind the model not to forget about the clothing.  
+**Translation:** Vocabulary: exclude: 排除; nudity: 裸体
 
-**[2342.82s] English:** никакой наготы у меня есть google vision и он проверяет каждое фото на предмет и на  
+**[2342.82s] English:** No nudity, I have Google Vision and it checks each photo for any inappropriate content on  
 **Translation:** 
 
-**[2348.56s] English:** тактар сосков а нсфд журналисты сильно сердятся если сексуализировать был один журналист который  
-**Translation:** 
+**[2348.56s] English:** Such a case really angered many feminists and journalists if sexualizing it. One journalist was particularly upset about it.  
+**Translation:** Vocabulary: angered: 使愤怒; feminists: 女权主义者; inappropriate: 不适当; sexualizing: 性化
 
-**[2357.10s] English:** сильно порвался типа там мой сосок google vision его не заметил так что вот с такими проблемами  
+**[2357.10s] English:** It strongly tore, like my nipple, Google Vision didn't notice it, so here are the kinds of issues I'm facing.  
 **Translation:** 
 
-**[2364.42s] English:** приходится сталкиваться с  
+**[2364.42s] English:** We have to deal with  
 **Translation:** 
 
-**[2366.40s] English:** это вот Ypop  
+**[2366.40s] English:** This is what we call Ypop.  
 **Translation:** 
 
-**[2368.54s] English:** и  
+**[2368.54s] English:** And  
 **Translation:** 
 
-**[2370.56s] English:** он  
+**[2370.56s] English:** He  
 **Translation:** 
 
-**[2372.36s] English:** все это  
+**[2372.36s] English:** All of this  
 **Translation:** 
 
-**[2375.20s] English:** смена  
+**[2375.20s] English:** Change  
 **Translation:** 
 
-**[2377.22s] English:** не  
+**[2377.22s] English:** Not  
 **Translation:** 
 
-**[2378.56s] English:** он  
+**[2378.56s] English:** He  
 **Translation:** 
 
-**[2379.56s] English:** смила  
+**[2379.56s] English:** Smile.  
 **Translation:** 
 
-**[2380.70s] English:** это  
+**[2380.70s] English:** This  
 **Translation:** 
 
-**[2382.54s] English:** лес  
+**[2382.54s] English:** Lose.  
 **Translation:** 
 
-**[2384.02s] English:** waiting  
+**[2384.02s] English:** Waiting.  
 **Translation:** 
 
-**[2386.62s] English:** я  
+**[2386.62s] English:** Ya.  
 **Translation:** 
 
-**[2388.14s] English:** буду  
+**[2388.14s] English:** I will.  
 **Translation:** 
 
-**[2389.52s] English:** другой  
+**[2389.52s] English:** Another  
 **Translation:** 
 
-**[2391.26s] English:** день  
+**[2391.26s] English:** Day.  
 **Translation:** 
 
-**[2392.86s] English:** они  
+**[2392.86s] English:** They  
 **Translation:** 
 
-**[2394.34s] English:** руки  
+**[2394.34s] English:** Hands  
 **Translation:** 
 
-**[2395.26s] English:** орбиты  
-**Translation:** 
+**[2395.26s] English:** Orbits.  
+**Translation:** Vocabulary: orbits: 环绕轨道
 
-**[2396.40s] English:** убрать это и написать, что хочешь, например, в  
+**[2396.40s] English:** Remove this and write what you want, for example, in  
 **Translation:** 
 
-**[2400.00s] English:** Таиланде или в Токио. В Токио? Да. Ну или там добавить ночью с неоновыми огнями и  
-**Translation:** 
+**[2400.00s] English:** In Thailand or in Tokyo. In Tokyo? Yes. Well, or maybe add a night scene with neon lights and  
+**Translation:** Vocabulary: thailand: 泰国; tokyo: 东京
 
-**[2409.56s] English:** больше деталей. А я выберу Остин, он распознает? Да, распознает. Что это Техас?  
+**[2409.56s] English:** More details. Austin, will he recognize it? Yes, he will recognize it. What is this Texas?  
 **Translation:** 
 
-**[2414.84s] English:** Шляпы ковбоя. Так, Техас. Да, как ковбоя. Ковбой. Сейчас все скатится в порнографии.  
-**Translation:** 
+**[2414.84s] English:** Cowboy hats. Texas, yeah, like a cowboy. Cowboys. Now it's going to slide into pornography.  
+**Translation:** Vocabulary: cowboy: 牛仔; cowboys: 牛仔; pornography: 色情; texas: 德克萨斯
 
-**[2424.48s] English:** Надеюсь нет, иначе карьере конец. Как посмотреть может начало. Мы отправим пуш  
+**[2424.48s] English:** I hope not; otherwise, it would be the end of my career. How can we check if there's a beginning? We will send the push.  
 **Translation:** 
 
-**[2431.26s] English:** уведомления, когда фото будут готовы. Круто. Ого, ты сам создал весь интерфейс?  
-**Translation:** 
+**[2431.26s] English:** Notifications when the photos will be ready. Cool. Wow, you created the entire interface yourself?  
+**Translation:** Vocabulary: interface: 用户界面
 
-**[2437.38s] English:** Ага. Классно сделано. На jQuery. Я еще юзаю jQuery. Да, до сих пор, по сей день.  
+**[2437.38s] English:** Agreed. Well done. Using jQuery. I still use jQuery too. Yes, to this day.  
 **Translation:** 
 
-**[2444.10s] English:** Ты не один такой, весь интернет на нем. Ага. И на PHP. PHP, jQuery и SQLite. Ты один из  
+**[2444.10s] English:** You're not alone; everyone's on it. Agreed. And PHP, jQuery, and SQLite too. You're one of  
 **Translation:** 
 
-**[2451.00s] English:** топовых разработчиков с точки зрения программирования, кто все  
+**[2451.00s] English:** Top programmers from the perspective of programming, who are all  
 **Translation:** 
 
-**[2454.48s] English:** еще открыто об этом говорит. Но все используют PHP. Большая часть  
-**Translation:** 
+**[2454.48s] English:** Still, it is open for discussion. But everyone uses PHP. The majority,  
+**Translation:** Vocabulary: programmers: 程序员
 
-**[2460.18s] English:** веба, наверное, до сих пор на PHP и jQuery. Думаю, процентов 70 из-за WordPress. Да, это  
+**[2460.18s] English:** Web, I'm pretty sure, is still using PHP and jQuery. About 70 percent, I think, is due to WordPress. Yes, that's correct.  
 **Translation:** 
 
-**[2465.00s] English:** правда. Да. Это правда. Я вижу его возрождение. Людей задолбали фреймворки.  
-**Translation:** 
+**[2465.00s] English:** True. Yes. It is true. I see its resurgence. People are tired of frameworks.  
+**Translation:** Vocabulary: resurgence: 复兴
 
-**[2469.90s] English:** Эти JavaScript фреймворки такие громоздкие, что ли. Требуется куча усилий,  
+**[2469.90s] English:** These JavaScript frameworks are so cumbersome. It requires a lot of effort,  
 **Translation:** 
 
-**[2474.94s] English:** чтобы просто поддерживать этот код. А потом он обновляется до новой версии и  
-**Translation:** 
+**[2474.94s] English:** To simply maintain this code. And then it is updated to a new version and  
+**Translation:** Vocabulary: cumbersome: 笨重的
 
-**[2479.68s] English:** нужно все менять. PHP просто остается прежним и работает.  
+**[2479.68s] English:** We need to change everything. PHP just stays the same and continues to work.  
 **Translation:** 
 
-**[2483.66s] English:** Да. И  
+**[2483.66s] English:** Yes. And  
 **Translation:** 
 
-**[2484.48s] English:** можешь рассказать об этом стеке технологий. Ты создаешь все свои сайты,  
+**[2484.48s] English:** Can you tell me about this technology stack? You create all your websites,  
 **Translation:** 
 
-**[2488.86s] English:** приложения, стартапы, проекты, все это в основном на чистом HTML. Да, да, да.  
-**Translation:** 
+**[2488.86s] English:** Applications, startups, projects—basically everything is primarily done using pure HTML. Yes, yes, yes.  
+**Translation:** Vocabulary: startups: 创业项目
 
-**[2495.00s] English:** JavaScript, jQuery, PHP и SQLite. Это действительно простой стек. И ты делаешь  
+**[2495.00s] English:** JavaScript, jQuery, PHP, and SQLite. This is really a simple stack. And you do it like this:  
 **Translation:** 
 
-**[2504.04s] English:** все очень быстро. Расскажи об этой философии. Думаю, это чистая случайность. Я  
-**Translation:** 
+**[2504.04s] English:** All very quickly. Tell me about this philosophy. I think it's a pure coincidence. I  
+**Translation:** Vocabulary: coincidence: 巧合
 
-**[2509.50s] English:** знал PHP, HTML, CSS, потому что делал сайты.  
+**[2509.50s] English:** Knew PHP, HTML, CSS, because I made websites.  
 **Translation:** 
 
-**[2514.48s] English:** И, когда мои стартапы начали расти, то у меня было нет времени. Да. Да, bye building.  
+**[2514.48s] English:** And when my startups began to grow, I had no time. Yes, due to building.  
 **Translation:** 
 
-**[2520.00s] English:** Втуду выучить Node.js, потому что важно переключаться.  
+**[2520.00s] English:** To learn Node.js, because it's important to switch.  
 **Translation:** 
 
-**[2524.58s] English:** Понятно, что это лучший язык, чем PHP, но я так и не выучил его, ведь времени не было.  
+**[2524.58s] English:** Ponятно, что это лучший язык, чем PHP, но я так и не выучил его, ведь времени не было.  
 **Translation:** 
 
-**[2530.52s] English:** Все это росло как на дрожжах, я запускал все новые проекты, и времени не было.  
+**[2530.52s] English:** All of this grew like wild mushrooms; I was launching new projects, and there wasn't enough time.  
 **Translation:** 
 
-**[2535.04s] English:** Я думал, когда-нибудь я начну программировать нормально, но так и не начал.  
+**[2535.04s] English:** I thought I would start programming properly someday, but I never did.  
 **Translation:** 
 
-**[2539.86s] English:** Я и сам порою задумываюсь, нужно ли все это учить.  
+**[2539.86s] English:** I myself sometimes wonder if we need to learn all of this.  
 **Translation:** 
 
-**[2542.84s] English:** У меня до сих пор в планах выучить Node.js или Flask, или что-то вроде...  
+**[2542.84s] English:** In my plans so far are to learn Node.js or Flask, or something similar....  
 **Translation:** 
 
-**[2547.88s] English:** React.  
+**[2547.88s] English:** React:  
 **Translation:** 
 
-**[2548.62s] English:** Да, React.  
+**[2548.62s] English:** Yes, React.  
 **Translation:** 
 
-**[2550.00s] English:** Да.  
+**[2550.00s] English:** Yes.  
 **Translation:** 
 
-**[2552.28s] English:** И кажется, что ответственный разработчик ПО должен знать, как это использовать,  
+**[2552.28s] English:** It seems that a responsible software developer should know how to use it.  
 **Translation:** 
 
-**[2558.62s] English:** но можно делать все очень быстро, с помощью обычных инструментов.  
+**[2558.62s] English:** But we can do everything very quickly with the help of ordinary tools.  
 **Translation:** 
 
-**[2564.26s] English:** Да, есть те, кто хочет получить работу разработчика,  
+**[2564.26s] English:** Yes, there are those who want to get a developer job.  
 **Translation:** 
 
-**[2567.62s] English:** а есть те, кто создают что-то, стартапы, и если хочешь быть предпринимателем,  
+**[2567.62s] English:** There are those who create something, start-ups, and if you want to be an entrepreneur,  
 **Translation:** 
 
-**[2572.08s] English:** то, наверное, не стоит.  
-**Translation:** 
+**[2572.08s] English:** That, probably, is not worth it.  
+**Translation:** Vocabulary: entrepreneur: 企业家
 
-**[2573.74s] English:** Мне интересно.  
+**[2573.74s] English:** I am interested.  
 **Translation:** 
 
-**[2575.22s] English:** Я вот хочу измерить производительность и скорость.  
+**[2575.22s] English:** I want to measure performance and speed.  
 **Translation:** 
 
-**[2578.78s] English:** Думаю, в этом есть глубокая...  
+**[2578.78s] English:** I think there is a deep...  
 **Translation:** 
 
-**[2580.00s] English:** Да, я считаю, что фреймворки и постоянное желание изучать что-то новое и сложный путь разработки, они лишь мешают.  
-**Translation:** 
+**[2580.00s] English:** Yes, I believe that frameworks and the constant desire to learn something new and the complicated path of development they entail only hinder progress.  
+**Translation:** Vocabulary: entail: 导致; hinder: 阻碍
 
-**[2588.72s] English:** Не знаю, что тут сказать, потому что определенно не стоит писать все на чистом JavaScript, или, например, на чистом C, C++ при системной разработке имеет много преимуществ, например, безопасность указателей и все такое.  
+**[2588.72s] English:** I don't know what to say because definitely not everything should be written in pure JavaScript or, for example, in pure C or C++. In system development, there are many advantages of C and C++, such as pointer safety and all that.  
 **Translation:** 
 
-**[2604.32s] English:** Я не знаю, но кажется, что можно сделать гораздо большее, если не поменять все это.  
+**[2604.32s] English:** I don't know, but it seems that we can do much more if we don't change everything.  
 **Translation:** 
 
-**[2609.32s] English:** Да.  
+**[2609.32s] English:** Yes.  
 **Translation:** 
 
-**[2609.82s] English:** Если не париться о том, как ты это делаешь.  
+**[2609.82s] English:** If you don't worry about how you're doing it.  
 **Translation:** 
 
-**[2612.94s] English:** Это, пожалуй, мое самое спорное мнение, может, я не прав, но кажется, что сейчас есть фреймворки, которые привлекают большие инвестиции, 50, 100, 300 миллионов долларов.  
+**[2612.94s] English:** This, perhaps, is my most contentious opinion; maybe I am not right, but it seems that there are now frameworks attracting significant investments of $50 million, $100 million, or even $300 million.  
 **Translation:** 
 
-**[2624.72s] English:** Идея в том, чтобы молодые разработчики лет 18-20 начали использовать этот фреймворк и подключали к нему платформу, где фреймворк может...  
-**Translation:** 
+**[2624.72s] English:** The idea is to have young developers around 18-20 years old start using this framework and integrate it with a platform where the framework can...  
+**Translation:** Vocabulary: attracting: 吸引; contentious: 有争议的; integrate: 整合; investments: 投资
 
-**[2636.82s] English:** Он open source, но, наверное, стоит использовать.  
+**[2636.82s] English:** He is open source, but, perhaps, it's worth using.  
 **Translation:** 
 
-**[2639.82s] English:** Да, он open source, но, наверное, стоит использовать.  
+**[2639.82s] English:** Yes, it is open source, but, perhaps, it's worth using.  
 **Translation:** 
 
-**[2640.02s] English:** Да, он open source, но, наверное, стоит использовать.  
+**[2640.00s] English:** A paid platform, and the cost of placement on such platforms is a thousand times higher than placement on a simple AWS or DigitalOcean VPS.  
 **Translation:** 
 
-**[2640.00s] English:** платную платформу, а стоимость размещения на платформах в тысячу раз выше, чем размещение на простом сервере AWS или VPS на DigitalOcean.  
-**Translation:** 
+**[2640.02s] English:** Yes, it is open source, but, perhaps, it's worth using.  
+**Translation:** Vocabulary: placement: 投放
 
-**[2653.60s] English:** Тут явно есть корыстный умысел, пусть разработчики используют технологию в стартапах и, зарабатывая с них, платят нам.  
+**[2653.60s] English:** Here is clearly a selfish intent. Let the developers use the technology in startups and, by earning from them, pay us.  
 **Translation:** 
 
-**[2662.28s] English:** Это, своего рода, искажает информацию о программировании. Они платят ютуберам, платят инфлюенсерам.  
-**Translation:** 
+**[2662.28s] English:** This, in a way, distorts information about programming. They pay YouTubers, they pay influencers.  
+**Translation:** Vocabulary: distorts: 扭曲; influencers: 影响者; intent: 意图; startups: 初创公司
 
-**[2674.28s] English:** Инфлюенсеры-разработчики — это большая тема, та же тема с питанием и фитнесом. В разработке инфлюенсерам платят за продвижение этих штук.  
+**[2674.28s] English:** Influencer developers are a big topic, just like nutrition and fitness. In development, influencers are paid to promote these things.  
 **Translation:** 
 
-**[2684.28s] English:** Создают с их помощью продукты и демоверсии, и многие такие «Вау, нужно пользоваться», и я стал замечать это, когда я выпускал свои продукты, меня спрашивали,  
-**Translation:** 
+**[2684.28s] English:** Create products and demo versions with them, and many are "Wow, I need to use these," and I started noticing this when I released my own products; people were asking me about them.  
+**Translation:** Vocabulary: influencer: 有影响力的人
 
-**[2692.28s] English:** «Что ты используешь?» Я отвечал, «PHP и jQuery». И начинались нападки, «Почему не используешь новую технологию, новый фреймворк?»  
+**[2692.28s] English:** What are you using?" I replied, "PHP and jQuery." And the attacks began: "Why aren't you using new technology and a new framework?  
 **Translation:** 
 
-**[2701.28s] English:** Я говорил, «Не знаю, этот PHP работает, я оптимизирую его для чего угодно, и он просто работает».  
-**Translation:** 
+**[2701.28s] English:** I said, "I don't know, but this PHP works; I'm optimizing it for anything, and it just works.  
+**Translation:** Vocabulary: optimizing: 优化
 
-**[2707.28s] English:** И я никогда не понимал, почему... Я понимаю, что есть новые технологии, которые лучше, и должно быть развитие.  
+**[2707.28s] English:** I never understood why... I understand that there are new technologies that are better, and development should be encouraged.  
 **Translation:** 
 
-**[2713.28s] English:** Но я подозрительно отношусь к деньгам, как и к лоббированию. В этой сфере фреймворков для разработчиков крутятся сотни миллионов.  
-**Translation:** 
+**[2713.28s] English:** But I am suspicious of money, as well as lobbying. In this sphere, frameworks for developers spin hundreds of millions.  
+**Translation:** Vocabulary: lobbying: 游说; suspicious: 怀疑
 
-**[2722.28s] English:** Они идут на рекламу инфлюенсеров не на одних разрабов. Для фреймворка столько не нужно, и он на open source.  
+**[2722.28s] English:** They are going for influencer ads not just on developers. For the framework, that's not necessary, and it's open source.  
 **Translation:** 
 
-**[2730.28s] English:** Чтобы заработать еще больше на этих стартапах.  
+**[2730.28s] English:** To earn even more from these startups.  
 **Translation:** 
 
-**[2732.28s] English:** Интересный взгляд, но когда ты говоришь «лучше», но...  
+**[2732.28s] English:** An interesting perspective, but when you say "better," but...  
 **Translation:** 
 
-**[2737.28s] English:** Хотелось бы увидеть подтверждение.  
+**[2737.28s] English:** It would be nice to see confirmation.  
 **Translation:** 
 
-**[2742.28s] English:** Я хочу знать, если взять отдельного разработчика, или команду из пяти, десяти, двадцати разработчиков...  
+**[2742.28s] English:** I want to know, if we take a single developer, or a team of five, ten, or twenty developers,...  
 **Translation:** 
 
-**[2749.28s] English:** Да.  
+**[2749.28s] English:** Yes.  
 **Translation:** 
 
-**[2751.28s] English:** Измерить, насколько они продуктивны в выпуске функций, сколько ошибок, уязвимостей в безопасности.  
+**[2751.28s] English:** Measure how productive they are in releasing features, how many errors and security vulnerabilities.  
 **Translation:** 
 
-**[2760.00s] English:** PHP был очень хорош в плане безопасности.  
-**Translation:** 
+**[2760.00s] English:** PHP was very good in terms of security.  
+**Translation:** Vocabulary: vulnerabilities: 安全漏洞
 
-**[2762.76s] English:** В теории. В теории. А так ли это?  
+**[2762.76s] English:** In theory. In theory. Is that really how it is?  
 **Translation:** 
 
-**[2765.30s] English:** И сейчас все в порядке.  
+**[2765.30s] English:** And now everything is in order.  
 **Translation:** 
 
-**[2766.20s] English:** Нет, вот ты сейчас это говоришь, и мне интересно, правда ли это?  
+**[2766.20s] English:** No, you're saying this now, and I'm interested, is it really true?  
 **Translation:** 
 
-**[2771.40s] English:** Ведь на PHP сделана большая часть сайтов в интернете.  
+**[2771.40s] English:** Because a large part of the websites on the internet is built with PHP.  
 **Translation:** 
 
-**[2775.38s] English:** Может быть.  
+**[2775.38s] English:** May be.  
 **Translation:** 
 
-**[2776.16s] English:** Может, это просто завышенная статистика, как и с WordPress?  
-**Translation:** 
+**[2776.16s] English:** May be, this is just exaggerated statistics, as with WordPress?  
+**Translation:** Vocabulary: exaggerated: 夸大其词
 
-**[2779.36s] English:** Да.  
+**[2779.36s] English:** Yes.  
 **Translation:** 
 
-**[2779.66s] English:** Да, есть мнение, что у WordPress огромное количество уязвимостей.  
+**[2779.66s] English:** Yes, there is an opinion that WordPress has a huge number of vulnerabilities.  
 **Translation:** 
 
-**[2784.18s] English:** Не знаю, правда ли это.  
+**[2784.18s] English:** I don't know if this is true.  
 **Translation:** 
 
-**[2785.56s] English:** Я знаю, что на него часто нападают, поскольку он очень популярен.  
+**[2785.56s] English:** I know that he is often attacked because he is very popular.  
 **Translation:** 
 
-**[2790.90s] English:** У него определенно есть уязвимости, но и у многих других систем их тоже хватает.  
+**[2790.90s] English:** He definitely has vulnerabilities, but many other systems have them too.  
 **Translation:** 
 
-**[2795.34s] English:** В общем, я просто сомневаюсь в расхожем мнении,  
+**[2795.34s] English:** In general, I just doubt the commonly held opinion,  
 **Translation:** 
 
-**[2797.84s] English:** которое подталкивает программистов к фреймворкам, к сложности.  
+**[2797.84s] English:** Which pushes programmers towards frameworks, complexity.  
 **Translation:** 
 
-**[2801.46s] English:** Да, да, да.  
-**Translation:** 
+**[2801.46s] English:** Yes, yes, yes.  
+**Translation:** Vocabulary: complexity: 复杂性; programmers: 程序员
 
-**[2802.42s] English:** Как бы к суперсложным подходам к разработке,  
+**[2802.42s] English:** As would approaches to development,  
 **Translation:** 
 
-**[2805.80s] English:** которые растягивают сроки создания чего-либо.  
-**Translation:** 
+**[2805.80s] English:** Which stretch the creation timeline of something.  
+**Translation:** Vocabulary: approaches: 方法
 
-**[2810.44s] English:** 100% и то же самое с большими корпорациями.  
+**[2810.44s] English:** 100%, and the same goes for larger corporations.  
 **Translation:** 
 
-**[2812.96s] English:** 80% людей ничего не делают.  
-**Translation:** 
+**[2812.96s] English:** 80% of people do nothing.  
+**Translation:** Vocabulary: corporations: 大公司
 
-**[2814.90s] English:** Верно.  
+**[2814.90s] English:** Correct.  
 **Translation:** 
 
-**[2815.20s] English:** Это неэффективно.  
+**[2815.20s] English:** This is not effective.  
 **Translation:** 
 
-**[2817.14s] English:** И если твой ориентир – это люди, создающие что-то, что работает,  
+**[2817.14s] English:** If your benchmark is people creating something that works,  
 **Translation:** 
 
-**[2823.18s] English:** и что полезно для общества,  
-**Translation:** 
+**[2823.18s] English:** And what is beneficial for society,  
+**Translation:** Vocabulary: benchmark: 标准; beneficial: 有益的
 
-**[2825.30s] English:** то следует использовать технологии,  
+**[2825.30s] English:** To follow, technologies should be used.  
 **Translation:** 
 
-**[2830.12s] English:** которые простые, прагматичные, работают,  
-**Translation:** 
+**[2830.12s] English:** Which are simple, pragmatic, and work.  
+**Translation:** Vocabulary: pragmatic: 实用的
 
-**[2833.68s] English:** и которые не слишком сложны, чтобы не усложнять себе жизнь.  
+**[2833.68s] English:** And which are not too complex so as not to complicate one's life.  
 **Translation:** 
 
-**[2838.30s] English:** И использовать фреймворк, который решает конкретную проблему.  
-**Translation:** 
+**[2838.30s] English:** To use a framework that solves a specific problem.  
+**Translation:** Vocabulary: complicate: 使复杂
 
-**[2842.40s] English:** Да, конечно.  
+**[2842.40s] English:** Yes, of course.  
 **Translation:** 
 
-**[2843.56s] English:** И я не говорю, что нужно программировать,  
+**[2843.56s] English:** I do not say that we need to program,  
 **Translation:** 
 
-**[2845.20s] English:** без него используешь, что хочешь.  
+**[2845.20s] English:** Without him, you can use what you want.  
 **Translation:** 
 
-**[2848.60s] English:** Думаю, это подозрительно.  
-**Translation:** 
+**[2848.60s] English:** I think this is suspicious.  
+**Translation:** Vocabulary: suspicious: 可疑的
 
-**[2850.82s] English:** Когда я говорю об этом в Твиттере, появляется целая армия,  
+**[2850.82s] English:** When I tweet about this, an army appears.  
 **Translation:** 
 
-**[2854.92s] English:** эти армии фреймворков.  
+**[2854.92s] English:** These frameworks armies.  
 **Translation:** 
 
-**[2856.92s] English:** Да.  
+**[2856.92s] English:** Yes.  
 **Translation:** 
 
-**[2857.42s] English:** Но так говорит мне интуиция.  
-**Translation:** 
+**[2857.42s] English:** But that's what my intuition tells me.  
+**Translation:** Vocabulary: intuition: 直觉
 
-**[2859.92s] English:** Хочу спросить эту армию фреймворкеров, что они создали на этой неделе?  
+**[2859.92s] English:** What has this army of framework developers created this week?  
 **Translation:** 
 
-**[2863.92s] English:** Это вопрос Илона.  
+**[2863.92s] English:** This is a question from Elon.  
 **Translation:** 
 
-**[2864.92s] English:** Да.  
+**[2864.92s] English:** Yes.  
 **Translation:** 
 
-**[2865.42s] English:** Заработал ли ты на этом, был ли платежеспособный спрос, если это настоящий бизнес?  
+**[2865.42s] English:** Did you make money from this? Was there a paying demand if this was a real business?  
 **Translation:** 
 
-**[2870.38s] English:** Да.  
+**[2870.38s] English:** Yes.  
 **Translation:** 
 
-**[2872.24s] English:** Возвращаемся к ковбою.  
-**Translation:** 
+**[2872.24s] English:** We return to the cowboy.  
+**Translation:** Vocabulary: cowboy: 牛仔
 
-**[2874.24s] English:** Во-первых...  
+**[2874.24s] English:** Firstly,...  
 **Translation:** 
 
-**[2874.74s] English:** Какие-то похожи, какие-то нет.  
-**Translation:** 
+**[2874.74s] English:** Some are similar, some are not.  
+**Translation:** Vocabulary: firstly: 首先
 
-**[2876.74s] English:** Каждый аспект тут невероятен.  
+**[2876.74s] English:** Every aspect here is incredible.  
 **Translation:** 
 
-**[2878.74s] English:** Еще я смотрю на интерфейс.  
-**Translation:** 
+**[2878.74s] English:** I also look at the interface.  
+**Translation:** Vocabulary: interface: 用户界面
 
-**[2880.00s] English:** Он хорошо сделан, а это все просто jQuery.  
+**[2880.00s] English:** He is well-made, and that's all just jQuery.  
 **Translation:** 
 
-**[2882.74s] English:** Очень хорошо сделано.  
+**[2882.74s] English:** Very well done.  
 **Translation:** 
 
-**[2884.40s] English:** Итак, расскажи мне о создании фото-АИ.  
+**[2884.40s] English:** So, tell me about creating photo AI.  
 **Translation:** 
 
-**[2889.00s] English:** Ты не знал.  
+**[2889.00s] English:** You didn't know.  
 **Translation:** 
 
-**[2890.12s] English:** Мир в целом мало что знает о Stable Diffusion или о чем-либо из этого.  
+**[2890.12s] English:** The world, in general, knows little about Stable Diffusion or anything related to it.  
 **Translation:** 
 
-**[2894.12s] English:** Все в этом генеративном ИИ.  
-**Translation:** Vocabulary: diffusion: 扩散
+**[2894.12s] English:** All in this generative AI.  
+**Translation:** Vocabulary: diffusion: 扩散; generative: 生成的
 
-**[2896.20s] English:** И ты такой, как можно замутить что-то крутое с этим?  
+**[2896.20s] English:** How can you make something cool with this?  
 **Translation:** 
 
-**[2899.08s] English:** Какова же история появления фото-АИ?  
-**Translation:** 
+**[2899.08s] English:** What is the history of photo-AI's emergence?  
+**Translation:** Vocabulary: emergence: 出现
 
-**[2901.56s] English:** Все началось с выхода Stable Diffusion.  
+**[2901.56s] English:** All began with the release of Stable Diffusion.  
 **Translation:** 
 
-**[2904.00s] English:** Stable Diffusion это первая генеративная модель для изображения модель ИИ.  
+**[2904.00s] English:** Stable Diffusion is the first generative model for image AI models.  
 **Translation:** 
 
-**[2907.90s] English:** Я стал с ней играться, она ставилась на Mac.  
+**[2907.90s] English:** I started playing with her, she was set up on Mac.  
 **Translation:** 
 
-**[2911.18s] English:** Кто-то форкнул ее и заставил работать на Macbook.  
+**[2911.18s] English:** Someone forked it and got it working on MacBook.  
 **Translation:** 
 
-**[2914.10s] English:** Я скачал ее и клонировал репозиторий и стал юзать для генерации изображений.  
+**[2914.10s] English:** I downloaded it and cloned the repository and started using it for image generation.  
 **Translation:** 
 
-**[2919.64s] English:** И это было потрясающе.  
-**Translation:** 
+**[2919.64s] English:** And this was amazing.  
+**Translation:** Vocabulary: repository: 代码仓库
 
-**[2922.98s] English:** Я наткнулся на нее в Твиттере и увидел всю эту движуху.  
+**[2922.98s] English:** I stumbled upon her on Twitter and saw all this hullabaloo.  
 **Translation:** 
 
-**[2926.46s] English:** И тоже стал постить там то, что создавал.  
-**Translation:** 
+**[2926.46s] English:** And he also started posting there what he created.  
+**Translation:** Vocabulary: hullabaloo: 喧闹; stumbled: 偶然遇见
 
-**[2929.24s] English:** Пишешь промп, ты получаешь изображение.  
+**[2929.24s] English:** You write a prompt, and you get an image.  
 **Translation:** 
 
-**[2931.78s] English:** По сути, пишешь запрос и по нему генерируется изображение.  
-**Translation:** 
+**[2931.78s] English:** In essence, you write a prompt and an image is generated based on it.  
+**Translation:** Vocabulary: prompt: 提示
 
-**[2935.34s] English:** И в любом стиле использовали...  
+**[2935.34s] English:** In any style, they used...  
 **Translation:** 
 
-**[2937.90s] English:** ...имена художников, чтобы сделать его как Пикассо.  
-**Translation:** 
+**[2937.90s] English:** ...names of artists, to make it like Picasso.  
+**Translation:** Vocabulary: picasso: 毕加索
 
-**[2942.76s] English:** И я пытался понять, в чем она хороша.  
+**[2942.76s] English:** I tried to understand what she was good at.  
 **Translation:** 
 
-**[2945.26s] English:** Хорошо ли она рисует людей?  
+**[2945.26s] English:** Is she good at drawing people?  
 **Translation:** 
 
-**[2947.26s] English:** Нет, не очень.  
+**[2947.26s] English:** No, not very.  
 **Translation:** 
 
-**[2948.90s] English:** Но дома хорошо, то есть архитектура.  
+**[2948.90s] English:** But at home, well, there's the architecture.  
 **Translation:** 
 
-**[2950.90s] English:** И я генерировал дома.  
+**[2950.90s] English:** I generated it at home.  
 **Translation:** 
 
-**[2954.66s] English:** Поэтому я создал сайт thishousedonotexist.org.  
+**[2954.66s] English:** Therefore, I created the website thishousedonotexist.org.  
 **Translation:** Vocabulary: thishousedonotexist: 这个房子不存在
 
-**[2958.54s] English:** Он генерировал, это называлось, порно с домами.  
+**[2958.54s] English:** He generated what was called porn with houses.  
 **Translation:** 
 
-**[2962.90s] English:** Порно с домами это Subreddit.  
-**Translation:** Vocabulary: subreddit: 子版块
+**[2962.90s] English:** Porn with houses is a Subreddit.  
+**Translation:** Vocabulary: subreddit: 特定主题的论坛
 
-**[2964.90s] English:** Это была первая версия Stable Diffusion.  
+**[2964.90s] English:** This was the first version of Stable Diffusion.  
 **Translation:** 
 
-**[2966.90s] English:** Для следующего фото нужно кликнуть.  
+**[2966.90s] English:** For the next photo, you need to click.  
 **Translation:** 
 
-**[2968.90s] English:** Она генерирует все эти несуществующие дома.  
+**[2968.90s] English:** She generates all these non-existent houses.  
 **Translation:** 
 
-**[2973.90s] English:** Порно с домами.  
-**Translation:** 
+**[2973.90s] English:** Porn with houses.  
+**Translation:** Vocabulary: generates: 产生
 
-**[2974.90s] English:** Но выглядело неплохо. Особенно тогда.  
+**[2974.90s] English:** But it looked good, especially then.  
 **Translation:** 
 
-**[2976.90s] English:** Очень неплохо.  
+**[2976.90s] English:** Very good.  
 **Translation:** 
 
-**[2977.90s] English:** Сейчас все гораздо лучше.  
+**[2977.90s] English:** Now everything is much better.  
 **Translation:** 
 
-**[2981.90s] English:** Действительно хорошо сделано.  
+**[2981.90s] English:** Really well done.  
 **Translation:** 
 
-**[2985.90s] English:** Ух ты.  
+**[2985.90s] English:** Oh wow.  
 **Translation:** 
 
-**[2986.90s] English:** И еще генерирует описание.  
+**[2986.90s] English:** And it also generates a description.  
 **Translation:** 
 
-**[2989.90s] English:** Тут есть Upvote. Лайкнуть?  
+**[2989.90s] English:** Here is an upvote. Like it?  
 **Translation:** 
 
-**[2991.90s] English:** Да.  
+**[2991.90s] English:** Yes.  
 **Translation:** 
 
-**[2992.90s] English:** Столько всего нужно с тобой обсудить. Например, вот эти решения. Очень здорово.  
+**[2992.90s] English:** There's so much we need to discuss. For example, these solutions are very great.  
 **Translation:** 
 
-**[2995.90s] English:** Это вообще просто.  
+**[2995.90s] English:** This is really simple.  
 **Translation:** 
 
-**[2997.90s] English:** Внизу есть рейтинг самых заост办емей.  
+**[2997.90s] English:** Below is a rating of the most sharpened ones.  
 **Translation:** 
 
-**[2998.90s] English:** Это раскрытое.  
-**Translation:** 
+**[2998.90s] English:** This is open.  
+**Translation:** Vocabulary: sharpened: 磨利的
 
-**[2999.90s] English:** Да, конечно.  
+**[2999.90s] English:** Yes, of course.  
 **Translation:** 
 
-**[3002.92s] English:** Было полно.  
+**[3000.00s] English:** Liked houses, these top ones are still available. They've been on the market for a while, and this is my favorite number.  
 **Translation:** 
 
-**[3016.92s] English:** Кто меняbefore дал.  
+**[3002.92s] English:** It was full.  
 **Translation:** 
 
-**[3017.92s] English:** Тедди.  
-**Translation:** 
+**[3006.90s] English:** One, he kind of lost popularity for a while, this was.  
+**Translation:** Vocabulary: popularity: 受欢迎程度
 
-**[3018.90s] English:** Отак, harvest 2D T kitty.  
+**[3013.76s] English:** Very popular, but then people got tired of it, and I got tired of it too.  
 **Translation:** 
 
-**[3020.90s] English:** Тебе привет на путь.  
-**Translation:** Vocabulary: kitty: 小猫
-
-**[3021.90s] English:** Прокомментируй свой  
+**[3016.92s] English:** Who gave me this before.  
 **Translation:** 
 
-**[3000.00s] English:** лайканных домов вот эти топовые там есть еще за все время это мой любимый номер  
+**[3017.92s] English:** Teddy.  
 **Translation:** 
 
-**[3006.90s] English:** один он типа как это утратило популярность какое-то время это было  
+**[3018.68s] English:** Бесконечная порнуха с домами: все начинает казаться однотипным, потом я.  
 **Translation:** 
 
-**[3013.76s] English:** очень популярно но потом людям это надоело и мне тоже это наскучило  
+**[3018.90s] English:** Okay, harvest 2D T kitty.  
 **Translation:** 
 
-**[3018.68s] English:** бесконечная порнуха с домами все начинает казаться однотипным потом я  
-**Translation:** 
+**[3020.90s] English:** Tebe privet na put.  
+**Translation:** Vocabulary: kitty: 小猫; privet: 私事
 
-**[3022.74s] English:** увидел что с интерьерами тоже неплохо выходит и я переключился на интерьер и  
+**[3021.90s] English:** Comment on your  
 **Translation:** 
 
-**[3027.26s] English:** точка ком где я сначала пытался загружать сначала генерировал дизайн  
-**Translation:** 
+**[3022.74s] English:** He saw that the interiors were turning out nicely as well, and he switched to focusing on them.  
+**Translation:** Vocabulary: interiors: 内部; nicely: 良好地
 
-**[3032.84s] English:** интерьера тогда появилась новая технология картинка в картинке где можно  
+**[3027.26s] English:** Point.com where I first tried to load and then generated the design.  
 **Translation:** 
 
-**[3036.92s] English:** было ввести изображение и она как бы модифицировала его смотри выглядит почти  
+**[3032.84s] English:** Interiors, then, appeared a new technology called "picture in picture" where you can  
 **Translation:** 
 
-**[3043.10s] English:** как фото и ай по сути код тот же классно я загружал фото интерьера где я жил и  
+**[3036.92s] English:** It was to input an image, and she would sort of modify it; it looks almost  
 **Translation:** 
 
-**[3049.94s] English:** просил например изменить это на скажем максималистический дизайн  
+**[3043.10s] English:** As with photos, AI essentially uses the same code, which is great because I loaded interior photos from where I lived and  
 **Translation:** 
 
-**[3056.76s] English:** и  
+**[3049.94s] English:** Asked, for example, to change this to something like maximalist design.  
 **Translation:** 
 
-**[3057.26s] English:** это сработало на отлично промелькнула это же стартап никто этим не занимается и  
-**Translation:** 
+**[3056.76s] English:** And  
+**Translation:** Vocabulary: maximalist: 极繁风格的
 
-**[3062.36s] English:** дизайном для интерьера я запустил это и преуспел заработавшие 10-20 тысяч за  
+**[3057.26s] English:** This worked perfectly. It's a startup, and nobody is doing this.  
 **Translation:** 
 
-**[3068.70s] English:** месяц и сейчас еще зарабатываю 40 50 тысяч и так уже два года пришла мысль  
+**[3062.36s] English:** Design for interior, I launched this and succeeded, earning 10-20 thousand dollars.  
 **Translation:** 
 
-**[3074.82s] English:** как еще лучше дизайн интерьеров но нужно изучать fine-tuning когда берешь  
+**[3068.70s] English:** Month and now I'm still earning 40-50 thousand, and this has been going on for two years. The idea came to me recently.  
 **Translation:** 
 
-**[3079.52s] English:** существующую и модель и ты ее настраиваешь под конкретную цель я  
+**[3074.82s] English:** How else can we improve interior design, but we need to study fine-tuning when we do.  
 **Translation:** 
 
-**[3084.32s] English:** находил красивый дизайн интерьера создавал  
+**[3079.52s] English:** Existing models, and you customize them for a specific goal. I  
 **Translation:** 
 
-**[3087.26s] English:** террею и обучал новую модель и это сработало и я тоже это использовал потом  
+**[3084.32s] English:** Found a beautiful interior design creating  
 **Translation:** 
 
-**[3093.96s] English:** ради забавы я загрузил свои фото и вот тут все и произошло чтобы потренироваться  
+**[3087.26s] English:** Territory, and I trained a new model, and it worked. I also used it later.  
 **Translation:** 
 
-**[3100.82s] English:** это никогда бы не сработало она сработала модель стала распознавать мое  
+**[3093.96s] English:** For fun, I uploaded my photos and that's when everything happened so I could practice.  
 **Translation:** 
 
-**[3106.32s] English:** лицо как концепт можно было делать разные стили меня как очень слащавого или  
+**[3100.82s] English:** This would never have worked; she nailed it, the model started recognizing mine.  
 **Translation:** 
 
-**[3112.10s] English:** средневекового война я понял это еще один стартап и я сделал аватары ой точками не смог получить  
+**[3106.32s] English:** Face as a concept could be done in different styles, me as very sweet or  
 **Translation:** 
 
-**[3120.00s] English:** Он еще работает?  
+**[3112.10s] English:** In medieval warfare, I understood it was just another startup, and I made avatars, oh points, but couldn't get it.  
 **Translation:** 
 
-**[3123.24s] English:** Да, но теперь это перенаправляет на фото-АИ.  
-**Translation:** 
+**[3120.00s] English:** He is still working?  
+**Translation:** Vocabulary: avatars: 虚拟角色; medieval: 中世纪的; warfare: warfare
 
-**[3126.44s] English:** Ясно.  
+**[3123.24s] English:** Yes, but now it redirects to photo-AI.  
 **Translation:** 
 
-**[3126.90s] English:** Это был такой проект попсовый.  
+**[3126.44s] English:** Clear.  
 **Translation:** 
 
-**[3130.66s] English:** Интересно, ведь это стало вирусным.  
+**[3126.90s] English:** This was such a pop project.  
 **Translation:** 
 
-**[3133.82s] English:** И за неделю это принесло 150 тысяч, самые большие деньги тогда.  
-**Translation:** 
+**[3130.66s] English:** Interesting, this became viral.  
+**Translation:** Vocabulary: viral: 病毒式的
 
-**[3137.94s] English:** И большие венчурные компании, такие как Лэнса,  
+**[3133.82s] English:** In just a week, it brought in 150 thousand, the biggest amount of money then.  
 **Translation:** 
 
-**[3142.78s] English:** которые гораздо лучше разбираются в iOS, чем я,  
-**Translation:** 
+**[3137.94s] English:** And large venture companies like Lancer's,  
+**Translation:** Vocabulary: venture: 风险投资
 
-**[3146.92s] English:** быстро сделали iOS-приложение, которое делает то же самое.  
+**[3142.78s] English:** Which ones are much better at understanding iOS than I am.  
 **Translation:** 
 
-**[3150.68s] English:** Это все открытые технологии, и это хорошо.  
+**[3146.92s] English:** We quickly made an iOS app that does the same thing.  
 **Translation:** 
 
-**[3152.86s] English:** Кажется, они заработали на этом около 30 миллионов долларов.  
+**[3150.68s] English:** This is all open technology, and that's good.  
 **Translation:** 
 
-**[3155.64s] English:** Их приложение стало самым прибыльным в App Store.  
+**[3152.86s] English:** It seems they made around 30 million dollars from this.  
 **Translation:** 
 
-**[3159.56s] English:** Это было...  
+**[3155.64s] English:** Their application became the most profitable in the App Store.  
 **Translation:** 
 
-**[3160.24s] English:** Что ты об этом думаешь?  
+**[3159.56s] English:** This was...  
 **Translation:** 
 
-**[3161.92s] English:** Честно говоря, думаю, это потрясающе.  
+**[3160.24s] English:** What do you think about it?  
 **Translation:** 
 
-**[3164.22s] English:** То есть не было такого, что «вот херня».  
+**[3161.92s] English:** Honestly, I think it's amazing.  
 **Translation:** 
 
-**[3166.18s] English:** Было слегка печально.  
+**[3164.22s] English:** That is, there wasn't anything like "total nonsense.  
 **Translation:** 
 
-**[3168.94s] English:** Мои продукты работают, и у меня никогда не было жесткой конкуренции.  
+**[3166.18s] English:** It was slightly sad.  
 **Translation:** 
 
-**[3172.44s] English:** А тут я столкнулся с серьезной конкуренцией от очень талантливой команды  
+**[3168.94s] English:** My products work, and I have never had stiff competition.  
 **Translation:** 
 
-**[3177.28s] English:** iOS-разработчиков.  
+**[3172.44s] English:** Here, I faced serious competition from a very talented team.  
 **Translation:** 
 
-**[3179.74s] English:** У них уже было приложение в App Store, кажется, для редактирования лиц.  
+**[3177.28s] English:** iOS Developers.  
 **Translation:** 
 
-**[3184.40s] English:** Они добавили туда эти аватары в качестве фишки.  
-**Translation:** 
+**[3179.74s] English:** They already had an app in the App Store, it seems, for face editing.  
+**Translation:** Vocabulary: editing: 修图
 
-**[3187.06s] English:** У них уже были пользователи, и они разослали им пуш-уведомления.  
+**[3184.40s] English:** They added these avatars as a fun feature.  
 **Translation:** 
 
-**[3190.94s] English:** Чувак, они создали... Думаю, они срубили кучу денег.  
+**[3187.06s] English:** They already had users and sent them push notifications.  
 **Translation:** 
 
-**[3195.40s] English:** Они проделали отличную работу.  
+**[3190.94s] English:** Guy, they created... I think they made a fortune.  
 **Translation:** 
 
-**[3197.32s] English:** Я тоже неплохо на этом заработал.  
+**[3195.40s] English:** They did an excellent job.  
 **Translation:** 
 
-**[3199.24s] English:** Но быстро понял, что это не мое.  
+**[3197.32s] English:** I also made pretty good money from that.  
 **Translation:** 
 
-**[3202.32s] English:** Слишком банально.  
+**[3199.24s] English:** But he quickly realized that this was not his cup of tea.  
 **Translation:** 
 
-**[3203.34s] English:** Это было как китч.  
+**[3202.32s] English:** Too cliché.  
 **Translation:** 
 
-**[3205.38s] English:** Типа, я как Барби, или я как... Слишком приторно.  
-**Translation:** 
+**[3203.34s] English:** This was like kitsch.  
+**Translation:** Vocabulary: kitsch: 低俗的装饰品
 
-**[3208.70s] English:** Я хотел заняться решением реальной проблемы.  
+**[3205.38s] English:** Type of, I'm like Barbie, or I'm like... Too sugary sweet.  
 **Translation:** 
 
-**[3211.14s] English:** Это же будет хайп, хотя эти аватары и был хайп.  
-**Translation:** 
+**[3208.70s] English:** I wanted to tackle a real problem.  
+**Translation:** Vocabulary: barbie: 芭比娃娃; sugary: 甜腻的; tackle: 解决
 
-**[3214.98s] English:** Давайте займемся настоящей фотографией.  
+**[3211.14s] English:** This will be a hype, though these avatars were also a hype.  
 **Translation:** 
 
-**[3218.50s] English:** Как добиться фотореалистичности? Это сложно.  
-**Translation:** 
+**[3214.98s] English:** Let's do some real photography.  
+**Translation:** Vocabulary: avatars: 虚拟角色
 
-**[3221.70s] English:** Но поэтому аватары и сработали, и они все в таком стиле Пикассо.  
+**[3218.50s] English:** How can you achieve photorealism? It is difficult.  
 **Translation:** 
 
-**[3225.70s] English:** А искусство — это легко, если интерпретируешь...  
-**Translation:** 
+**[3221.70s] English:** But therefore, the avatars responded in that Picasso style.  
+**Translation:** Vocabulary: photorealism: 照片般逼真的效果; picasso: 毕加索风格
 
-**[3228.90s] English:** Все проблемы ИИ можно замаскировать, что это такой вот закос под стиль Пикассо.  
+**[3225.70s] English:** Art is easy if you interpret it...  
 **Translation:** 
 
-**[3233.86s] English:** Но если речь о пикассо, то...  
-**Translation:** 
+**[3228.90s] English:** All AI problems can be masked as just another Picasso-style gimmick.  
+**Translation:** Vocabulary: gimmick: 花招; interpret: 解释; masked: 掩饰
 
-**[3234.82s] English:** Если речь о настоящей фотографии, лицо же неправильное.  
+**[3233.86s] English:** But if it's Picasso, then...  
 **Translation:** 
 
-**[3239.14s] English:** Поэтому я стал...  
+**[3234.82s] English:** If it's a real photograph, the face is just wrong.  
 **Translation:** 
 
-**[3240.00s] English:** фото и такой поворотный момент это было как фотостудия где ты мог делать фото  
+**[3239.14s] English:** Therefore, I became...  
 **Translation:** 
 
-**[3247.02s] English:** фактически не нуждаясь фотографии и студии просто пишешь prompt и работал  
-**Translation:** 
+**[3240.00s] English:** Foto and such a pivotal moment, it was like a photo studio where you could take photos.  
+**Translation:** Vocabulary: pivotal: 关键的
 
-**[3253.36s] English:** над этим последний год да этот путь действительно невероятен  
+**[3247.02s] English:** Actually, you don't need a photograph or studio; just write the prompt and it works.  
 **Translation:** 
 
-**[3257.40s] English:** давай вернемся к началу фото и я помню что видел много действительно забавных  
-**Translation:** 
+**[3253.36s] English:** Over the past year, this path has indeed been incredible.  
+**Translation:** Vocabulary: prompt: 提示
 
-**[3264.32s] English:** фотографий ты наверное использовал себя как пример да да вот вот вид продал  
+**[3257.40s] English:** Let's go back to the beginning of the photo, and I remember seeing a lot of genuinely funny ones.  
 **Translation:** 
 
-**[3272.56s] English:** продал и и аватаров на 100 тысяч долларов это много для кого угодно и для  
-**Translation:** 
+**[3264.32s] English:** Photos, you probably used yourself as an example, huh? Yeah, yeah, that's right, view sold.  
+**Translation:** Vocabulary: genuinely: 真正地
 
-**[3278.24s] English:** меня тоже зарабатываешь по 10 тысяч в день потрясающе невероятно вложенный  
+**[3272.56s] English:** Sold avatars for $100,000; that's a lot for anyone and for  
 **Translation:** 
 
-**[3287.36s] English:** твит типа это твит о запуске а до этого это типа я ложусь с этим а  
+**[3278.24s] English:** Me too, making 10 thousand dollars a day is amazing and incredible invested.  
 **Translation:** 
 
-**[3293.50s] English:** понятно  
+**[3287.36s] English:** Tweet, type, this is a tweet about the launch, and before that, it's like I've been working on this.  
 **Translation:** 
 
-**[3294.30s] English:** понимаю в общем 26 октября 2022 я обучил мл модель на своем лице я узнал что у  
+**[3293.50s] English:** Ponятно.  
 **Translation:** 
 
-**[3305.52s] English:** меня широкое расположение глаз когда занимался youtube я разместил типа  
+**[3294.30s] English:** I understand in general. On October 26, 2022, I trained an ML model on my face and learned that I  
 **Translation:** 
 
-**[3309.36s] English:** диджейского фото на своем миксе стали писать что я как акула молот это был  
+**[3305.52s] English:** Me, with my wide-set eyes when I was doing YouTube, I posted something like  
 **Translation:** 
 
-**[3314.80s] English:** топ-коммент и до меня дошло интернет помогает понять на кого ты помогает  
+**[3309.36s] English:** DJ's photo on my mix became what they wrote, that I'm like a hammerhead shark.  
 **Translation:** 
 
-**[3320.68s] English:** понять как ты выглядишь боже обожаю первая ловушка  
-**Translation:** 
+**[3314.80s] English:** Top-comment, and it dawned on me that the internet helps understand whom you are helping.  
+**Translation:** Vocabulary: dawned: 突然明白; hammerhead: 锤头; shark: 鲨鱼
 
-**[3324.30s] English:** ой она что это попались в фильме  
+**[3320.68s] English:** Understand how you look, oh God, I love it - first trap.  
 **Translation:** 
 
-**[3329.72s] English:** то есть сама кажешь алёна demographic  
+**[3324.30s] English:** Oy, she what has she fallen into in the movie?  
 **Translation:** 
 
-**[3335.46s] English:** конечно прям не толку не обещ親  
-**Translation:** Vocabulary: demographic: 人口统计
-
-**[3341.80s] English:** чем реально и почему очень забавно ситилизировать есть смысл  
+**[3329.72s] English:** That is, you are Aleona's demographic.  
 **Translation:** 
 
-**[3348.30s] English:** тяжело тоilantro Maybe te  
-**Translation:** 
+**[3335.46s] English:** Of course, there's no point in promising.  
+**Translation:** Vocabulary: demographic: 人群特征
 
-**[3349.36s] English:** да первая eruption  
+**[3341.80s] English:** What is actually real and why it's very funny to citifyize, makes sense.  
 **Translation:** 
 
-**[3350.74s] English:** а что это за табло  
-**Translation:** Vocabulary: eruption: 火山爆发
+**[3348.30s] English:** It's heavy, maybe tilantro.  
+**Translation:** Vocabulary: tilantro: 提拉米苏
 
-**[3352.30s] English:** погоди эта вода из водопада в просто кач arena  
+**[3349.36s] English:** Da, the first eruption.  
 **Translation:** 
 
-**[3352.98s] English:** seasаби паблю р mailing pong  
-**Translation:** 
+**[3350.74s] English:** What is that scoreboard?  
+**Translation:** Vocabulary: eruption: 火山爆发; scoreboard: 得分板
 
-**[3353.30s] English:** a я описывал все мое искусство я человек pessoa у которой вся pregunta начало сего нажимала y guy это насколько это реально это все и все и да  
+**[3352.30s] English:** Wait, this water from the waterfall in just the кач Arena?  
 **Translation:** 
 
-**[3353.66s] English:** Ты только эти фото загружал?  
-**Translation:** Vocabulary: pregunta: 问题
+**[3352.98s] English:** Seabirds are mailingpong  
+**Translation:** Vocabulary: seabirds: 海鸟; waterfall: 瀑布
 
-**[3355.38s] English:** Да.  
+**[3353.30s] English:** A I described all my art. I am a person whose every question began with "sego" and yet, this is how real it all is, and yes.  
 **Translation:** 
 
-**[3355.92s] English:** Вот это да.  
+**[3353.66s] English:** Did you upload only these photos?  
 **Translation:** 
 
-**[3358.92s] English:** Итак, так ты учил...  
+**[3355.38s] English:** Yes.  
 **Translation:** 
 
-**[3360.00s] English:** всему этому в быстром темпе да что интересного запомнилось с того периода о  
+**[3355.92s] English:** Wow, that's amazing.  
 **Translation:** 
 
-**[3365.04s] English:** том что пришлось понять чтобы это заработало для тех кто слушает он  
+**[3358.92s] English:** So, that's how you taught...  
 **Translation:** 
 
-**[3369.22s] English:** загрузил всего пару фотографий на которых не особо хорошо видно лицо и он  
+**[3360.00s] English:** To all of this in a fast-paced manner, what interesting memories stood out from that period?  
 **Translation:** 
 
-**[3375.78s] English:** смог думаю они обрезаны под макет они квадратные то есть 512 на 512 это же  
+**[3365.04s] English:** Tom that had to be understood to make it work for those who are listening he  
 **Translation:** 
 
-**[3382.26s] English:** стейбл диффьюжн но эти фото не очень хорошо передают лицо в смысле что это не  
+**[3369.22s] English:** He uploaded just a couple of photos on which the faces aren't particularly well visible and he  
 **Translation:** 
 
-**[3390.14s] English:** коллекция из нескольких сотен фото дающих обзор на 360 я тоже так думал  
+**[3375.78s] English:** I think they are cropped to fit a mockup, they are square, so 512 by 512, that's right?  
 **Translation:** 
 
-**[3395.98s] English:** когда начинал что это подобие 3d технологии сканирования да я думаю  
-**Translation:** 
+**[3382.26s] English:** Stable Diffusion, but these photos don't very well convey the face in terms of that this isn't  
+**Translation:** Vocabulary: cropped: 裁剪; diffusion: 扩散; mockup: 草图
 
-**[3400.30s] English:** самое крутое и и он обучается вашей концепции он буквально учиться как и  
+**[3390.14s] English:** A collection of several hundred photos giving a 360-degree view—I thought the same thing.  
 **Translation:** 
 
-**[3404.94s] English:** любая модель и и он учится как вы выглядите я сделал вот это и мне начали  
-**Translation:** 
+**[3395.98s] English:** When did you start using this 3D scanning technology? I think  
+**Translation:** Vocabulary: scanning: 扫描
 
-**[3409.80s] English:** писать в личку  
+**[3400.30s] English:** The coolest part is, and he's learning your concept; he's literally learning like and  
 **Translation:** 
 
-**[3410.76s] English:** в тех  
+**[3404.94s] English:** Any model, and he learns how you look. I did this, and it started to work.  
 **Translation:** 
 
-**[3412.24s] English:** телеграмм хочу такие же фото как повторить или моя девушка хочет я  
+**[3409.80s] English:** Write in private.  
 **Translation:** 
 
-**[3416.62s] English:** подумал так это явно бизнес но у меня не было времени кодить и делать целое  
+**[3410.76s] English:** In those  
 **Translation:** 
 
-**[3422.12s] English:** приложение и я сделал html страницу зарегистрировал домен сделал платежную  
+**[3412.24s] English:** Telegram, I want the same photos as before. Can you repeat that or is my girlfriend wanting something?  
 **Translation:** 
 
-**[3429.42s] English:** ссылку stripe то есть буквально ссылку на страйк для оплаты но без бэкэнда все  
+**[3416.62s] English:** Thought that was clearly a business, but I didn't have time to code and do it all.  
 **Translation:** 
 
-**[3436.36s] English:** что у тебя есть это клиенты которые заплатили потом я добавил ссылку на  
+**[3422.12s] English:** The application, and I made an HTML page, registered a domain, and made a payment.  
 **Translation:** 
 
-**[3441.64s] English:** тайпфоруме  
+**[3429.42s] English:** A link to Stripe, that is, a link for payment but without backend access.  
+**Translation:** Vocabulary: backend: 后端; stripe: 支付平台
+
+**[3436.36s] English:** What you have are clients who paid later, and I added a link to  
 **Translation:** 
+
+**[3441.64s] English:** On the typeforum,  
+**Translation:** Vocabulary: typeforum: 类型论坛
 
-**[3441.94s] English:** tule в Soulsяг вместим свежий текст  
+**[3441.94s] English:** Tule in Soulsya, replace with fresh text.  
 **Translation:** 
 
-**[3444.86s] English:** дней  
+**[3444.86s] English:** Days.  
 **Translation:** 
 
-**[3446.46s] English:** и я fostered  
+**[3446.46s] English:** And I fostered.  
 **Translation:** 
 
-**[3448.44s] English:** это будет  
+**[3448.44s] English:** This will be  
 **Translation:** Vocabulary: fostered: 培养
 
-**[3449.70s] English:** стендعة  
+**[3449.70s] English:** Stendue  
 **Translation:** 
 
-**[3450.88s] English:** вы можете достать  
+**[3450.88s] English:** You can fetch it.  
 **Translation:** 
 
-**[3451.82s] English:** форм sugar  
+**[3451.82s] English:** Form sugar.  
 **Translation:** 
 
-**[3453.34s] English:** форм  
+**[3453.34s] English:** Form  
 **Translation:** 
 
-**[3454.54s] English:** пропли Arena  
+**[3454.54s] English:** Propli Arena  
 **Translation:** 
 
-**[3455.82s] English:** обученная  
+**[3455.82s] English:** Trained  
 **Translation:** 
 
-**[3457.08s] English:** страница  
+**[3457.08s] English:** Page  
 **Translation:** 
 
-**[3458.34s] English:** Download  
+**[3458.34s] English:** Download.  
 **Translation:** 
 
-**[3459.50s] English:** форм  
+**[3459.50s] English:** Form  
 **Translation:** 
 
-**[3460.54s] English:** форм  
+**[3460.54s] English:** Form  
 **Translation:** 
 
-**[3461.84s] English:** это сайт где можно создавать свои  
+**[3461.84s] English:** This is a site where you can create your own.  
 **Translation:** 
 
-**[3464.04s] English:** формы как Google Form  
+**[3464.04s] English:** Forms like Google Forms  
 **Translation:** 
 
-**[3467.50s] English:** они получали email со ссылкой на Typeform и просто ссылку после оплаты и могли  
+**[3467.50s] English:** They received an email with a link to Typeform and just a link after payment, and could  
 **Translation:** 
 
-**[3471.94s] English:** Приходилось все делать вручную.  
-**Translation:** Vocabulary: typeform: 类型表单
+**[3471.94s] English:** It had to be done manually.  
+**Translation:** Vocabulary: typeform: 在线表单工具
 
-**[3473.76s] English:** У первых нескольких сотен я буквально брал их фото, обучал модель,  
+**[3473.76s] English:** In the first few hundred, I literally took their photos, trained the model,  
 **Translation:** 
 
-**[3477.44s] English:** а потом генерировал фотографии с промптами.  
-**Translation:** 
-
-**[3480.00s] English:** и всё это вручную, это быстро стало большой нагрузкой.  
-**Translation:** 
-
-**[3484.76s] English:** Это ещё одно ограничение.  
-**Translation:** 
-
-**[3486.34s] English:** Мне пришлось написать код, который бы это делал.  
-**Translation:** 
-
-**[3490.12s] English:** Так всё и превратилось в настоящий сайт.  
-**Translation:** 
-
-**[3492.84s] English:** То есть сначала они загружали фото через TypeFore.  
-**Translation:** 
-
-**[3495.58s] English:** Латёжная платформа Stripe, да.  
-**Translation:** 
-
-**[3497.46s] English:** Потом нужно было скачать изображение.  
-**Translation:** 
-
-**[3499.58s] English:** Ты написал скрипт для его скачивания?  
-**Translation:** 
-
-**[3501.46s] English:** Нет, скачивал вручную. Это был zip-файл.  
-**Translation:** 
-
-**[3504.12s] English:** И ты распаковывал каждый отдельно?  
-**Translation:** 
-
-**[3506.02s] English:** Да, но Пол Грэм говорил делать то, что не масштабируется.  
-**Translation:** 
-
-**[3510.26s] English:** Я обучал модель, а потом отправлял им фото с личного имейла.  
-**Translation:** 
-
-**[3515.60s] English:** Держите ваши аватарки. Им нравилось, мол, круто.  
-**Translation:** 
-
-**[3520.14s] English:** Ты отправлял им письма с личного имейла?  
-**Translation:** 
-
-**[3522.66s] English:** У меня не было имейла на этом домене.  
-**Translation:** 
-
-**[3525.70s] English:** А это сотни человек.  
-**Translation:** 
-
-**[3527.56s] English:** А знаешь, кто зарегался?  
-**Translation:** 
-
-**[3530.38s] English:** Чувак, я не могу называть имён, но это очень известные люди.  
-**Translation:** 
-
-**[3534.06s] English:** Известные техно-миллиардеры.  
-**Translation:** 
-
-**[3535.68s] English:** И я такой, вау, это безумие.  
-**Translation:** 
-
-**[3537.94s] English:** Я очень боялся их разочаровать и написал,  
-**Translation:** 
-
-**[3540.00s] English:** «Спасибо, что воспользовались моим сайтом».  
-**Translation:** 
-
-**[3542.46s] English:** Мне написали, «Да, отличная работа».  
-**Translation:** 
-
-**[3544.86s] English:** Я подумал, это отличается от обычной реакции?  
-**Translation:** 
-
-**[3547.52s] English:** Не Билл Гейтс, случайно?  
-**Translation:** 
-
-**[3549.92s] English:** Не могу говорить.  
-**Translation:** 
-
-**[3552.32s] English:** Там, наверное, фото без роботов.  
-**Translation:** 
-
-**[3553.92s] English:** GDPR, конфиденциальность.  
-**Translation:** 
-
-**[3555.58s] English:** Да, да.  
-**Translation:** 
-
-**[3556.64s] English:** Еврорегулирование.  
-**Translation:** 
-
-**[3557.40s] English:** Ничего не могу сказать, но я был поражён.  
-**Translation:** 
-
-**[3561.48s] English:** Это показывает, что делая что-то, и если это быстро взлетает,  
-**Translation:** 
-
-**[3565.36s] English:** значит, типа, вот что людям нужно.  
-**Translation:** 
-
-**[3568.90s] English:** Но потом я подумал,  
-**Translation:** 
-
-**[3570.00s] English:** это хайп, это быстро затихнет, это было, ведь это низкопробно.  
-**Translation:** 
-
-**[3574.60s] English:** Но как ты, как ты всё автоматизировал, в чём там ИИ-компонент, как сложно было разобраться?  
-**Translation:** 
-
-**[3581.04s] English:** Во многих смыслах, это самое простое, тогда уже были все эти платформы, типа, для тонкой настройки стейбл диффьюжн.  
-**Translation:** 
-
-**[3590.52s] English:** Сейчас, конечно, я использую Репликэйт.  
-**Translation:** 
-
-**[3594.52s] English:** Что забавно, ведь та платформа, я всегда твичу о том, сколько денег зарабатывают эти сайты.  
-**Translation:** 
-
-**[3600.00s] English:** Это называется вендором, да? Платформа, представляющая GPU. Они подняли цену за обучение с 3 до 20 долларов. Как увидели, что я рубаю кучу денег. И моя прибыль испарилась, ведь я продавал их по 30. Я сидел с ними в Slack, говорю, что это такое? Может вернуть цену обратно к 3 долларам? Они такие, мы пока рассматриваем этот вопрос. Я такой, вы вообще о чем? Они забрали мой заработок, они же не дураки.  
-**Translation:** 
-
-**[3624.64s] English:** А ну не такие уж они и умные, потому что у тебя тоже большая платформа, и многие тебя уважают. Ты можешь выйти и рассказать об этом.  
-**Translation:** 
-
-**[3633.52s] English:** Это как-то грязно отменять компанию или типа того. Я лучше перенесу свой бизнес в другое место, но другого места тогда не было.  
-**Translation:** 
-
-**[3640.60s] English:** Верно.  
-**Translation:** 
-
-**[3641.36s] English:** И я стал общаться с другими платформами для обучения, и Replicate была одной из них, и я начал писать в личку SEO.  
-**Translation:** 
-
-**[3649.20s] English:** Можете, пожалуйста, добавить, называется Dreamboost, тонкая настройка под себя.  
-**Translation:** 
-
-**[3653.48s] English:** Можете добавить это на ваш сайт, меня душат ценами.  
-**Translation:** Vocabulary: dreamboost: 梦想增压
-
-**[3657.28s] English:** Он говорил, нет, это занимает полчаса, и у нас нет под это GPU.  
-**Translation:** 
-
-**[3662.14s] English:** Я молил, и через неделю он сказал, да, мы запускаем это.  
-**Translation:** 
-
-**[3667.02s] English:** И тогда эта компания, которая была не очень известной, стала очень известной благодаря этой штуке.  
-**Translation:** 
-
-**[3673.14s] English:** Все вдруг такие, о, мы можем создать похожее приложение, и все стали создавать приложения для аватаров, используя Replicate.  
-**Translation:** 
-
-**[3680.14s] English:** А все начиналось с переписки в личке с SEO Беном Фиршманом.  
-**Translation:** 
-
-**[3683.48s] English:** Отличный парень.  
-**Translation:** 
-
-**[3685.06s] English:** И они никогда не задирали цены, и никогда не относились ко мне плохо.  
-**Translation:** 
-
-**[3690.18s] English:** Это очень крутая компания.  
-**Translation:** 
-
-**[3691.96s] English:** Можно запустить любую модель, любую LLM.  
-**Translation:** 
-
-**[3695.14s] English:** Здесь у них...  
-**Translation:** 
-
-**[3696.08s] English:** И масштабироваться.  
-**Translation:** 
-
-**[3697.12s] English:** Да, они масштабируются.  
-**Translation:** 
-
-**[3698.98s] English:** Теперь ты можешь кликнуть на модель и запустить ее.  
-**Translation:** 
-
-**[3701.74s] English:** Это супер просто.  
-**Translation:** 
-
-**[3703.30s] English:** Вход через GitHub.  
-**Translation:** 
-
-**[3705.40s] English:** Здорово.  
-**Translation:** 
-
-**[3705.82s] English:** И можно автоматизировать это через API, создать сайт, который запускает модель.  
-**Translation:** 
-
-**[3710.60s] English:** Генерировать изображение, текст, видео, музыку.  
-**Translation:** 
-
-**[3713.48s] English:** Даже речь.  
-**Translation:** 
-
-**[3714.12s] English:** И видео.  
-**Translation:** 
-
-**[3714.66s] English:** Тонкая настройка моделей.  
-**Translation:** 
-
-**[3715.98s] English:** Да, они делают все.  
-**Translation:** 
-
-**[3717.12s] English:** Крутая компания.  
-**Translation:** 
-
-**[3718.06s] English:** Классно.  
-**Translation:** 
-
-**[3718.90s] English:** И ты по сути растешь.  
-**Translation:** 
-
-**[3720.00s] English:** Ты работаешь вместе с ними. Они выросли благодаря твоему примеру использования.  
-**Translation:** 
-
-**[3723.90s] English:** Да, сайт даже сейчас выглядит странно. Он начинал как платформа для машинного обучения, и я даже не понимал, что он делает. Это было слишком сложно. Ты бы понял, ты крутишься в мире машинного обучения.  
-**Translation:** 
-
-**[3736.28s] English:** Сейчас он попроще.  
-**Translation:** 
-
-**[3737.46s] English:** Да, точно. А я не знал, как это работает, но я знал, что они, наверное, смогут это сделать, и сделали. Они создали модели, и я использую их повсеместно.  
-**Translation:** 
-
-**[3747.22s] English:** Мы обучили на данный момент, думаю, 36 тысяч моделей.  
-**Translation:** 
-
-**[3752.34s] English:** Может, есть хитрости для тонкой настройки из набора фотографий? Как ты...  
-**Translation:** 
-
-**[3757.78s] English:** Там куча хаков.  
-**Translation:** 
-
-**[3759.38s] English:** Значит, хаки.  
-**Translation:** 
-
-**[3759.90s] English:** Там их сотни, чтобы все сработало.  
-**Translation:** 
-
-**[3761.68s] English:** А что? Какой...  
-**Translation:** 
-
-**[3763.54s] English:** Теперь я раскрываю секреты.  
-**Translation:** 
-
-**[3764.82s] English:** Ну, не секреты, а скорее особенности человеческого лица и тела. Что чаще всего идет не так?  
-**Translation:** 
-
-**[3773.60s] English:** Думаю, люди, ну, как бы, не знают, как они выглядят.  
-**Translation:** 
-
-**[3777.00s] English:** И...  
-**Translation:** 
-
-**[3777.20s] English:** Да.  
-**Translation:** 
-
-**[3778.74s] English:** Они генерят фото, а потом... Это не я.  
-**Translation:** 
-
-**[3781.72s] English:** Да.  
-**Translation:** 
-
-**[3782.40s] English:** Но можно проверить исходные фотографии. Это ты.  
-**Translation:** 
-
-**[3786.50s] English:** Да.  
-**Translation:** 
-
-**[3786.68s] English:** Ты не знаешь, как выглядишь.  
-**Translation:** 
-
-**[3788.36s] English:** Такая вот дисморфофобия. Ты без понятия, как выглядишь.  
-**Translation:** 
-
-**[3792.84s] English:** Забавно. Одно из самых неприятных занятий в моей жизни — это слушать свой голос и смотреть на свое лицо.  
-**Translation:** 
-
-**[3800.52s] English:** Приходится очень...  
-**Translation:** 
-
-**[3802.04s] English:** Очень сильно, как бы, мириться с реальностью.  
-**Translation:** 
-
-**[3807.20s] English:** С того, как я выгляжу и как звучу.  
-**Translation:** 
-
-**[3809.34s] English:** Чувак, все так.  
-**Translation:** 
-
-**[3810.62s] English:** И...  
-**Translation:** 
-
-**[3810.80s] English:** Но люди часто этого не делают.  
-**Translation:** 
-
-**[3812.32s] English:** Правда?  
-**Translation:** 
-
-**[3812.88s] English:** У тебя искаженное представление.  
-**Translation:** 
-
-**[3815.24s] English:** Я знаю, что если я сделаю селфи со своей колокольней, я выгляжу хорошо, но другие так не думают.  
-**Translation:** 
-
-**[3822.44s] English:** Но когда они фоткают меня, я такой, это ужасно.  
-**Translation:** 
-
-**[3824.74s] English:** А они нет, ты выглядишь хорошо.  
-**Translation:** 
-
-**[3826.58s] English:** Поэтому то, как тебя видят другие, это хорошо.  
-**Translation:** 
-
-**[3830.12s] English:** Нужно просить других выбирать твой фон.  
-**Translation:** 
-
-**[3833.20s] English:** Да, да.  
-**Translation:** 
-
-**[3833.62s] English:** Не стоит выбирать самому. Ты не знаешь, как выглядишь.  
-**Translation:** 
-
-**[3836.56s] English:** Да.  
-**Translation:** 
-
-**[3836.82s] English:** Да, ты не знаешь, что делает тебя интересным и привлекательным.  
-**Translation:** 
-
-**[3840.00s] English:** И многие из нас, это тёмная сторона психологии,  
-**Translation:** 
-
-**[3843.46s] English:** зацикливаются на всяких мелких недостатках.  
-**Translation:** 
-
-**[3846.36s] English:** Я ненавижу пластическую хирургию.  
-**Translation:** 
-
-**[3848.84s] English:** Люди пытаются избавиться от недостатков,  
-**Translation:** 
-
-**[3850.88s] English:** хотя они добавляют интереса и привлекательности.  
-**Translation:** 
-
-**[3852.66s] English:** Я понял это на примере глаз акулы Молота.  
-**Translation:** 
-
-**[3855.10s] English:** Что тебе кажется уродливым себе,  
-**Translation:** 
-
-**[3856.94s] English:** делает тебя оригинальным, красивым,  
-**Translation:** 
-
-**[3859.76s] English:** и людям это нравится.  
-**Translation:** 
-
-**[3861.12s] English:** Это не типа «О, Боже!»  
-**Translation:** 
-
-**[3863.42s] English:** И люди это замечают, как мои глаза акулы Молота.  
-**Translation:** 
-
-**[3866.72s] English:** Но это и есть я, это моё лицо,  
-**Translation:** 
-
-**[3868.54s] English:** я люблю себя, это уверенность, а она привлекательна.  
-**Translation:** 
-
-**[3871.38s] English:** Да.  
-**Translation:** 
-
-**[3871.92s] English:** Верно?  
-**Translation:** 
-
-**[3872.84s] English:** Уверенность привлекательна.  
-**Translation:** 
-
-**[3874.40s] English:** Да, понимание, что делает тебя красивым,  
-**Translation:** 
-
-**[3877.08s] English:** это, допустим, нарушение симметрии,  
-**Translation:** 
-
-**[3880.26s] English:** отклонение от усреднённого лица.  
-**Translation:** 
-
-**[3882.86s] English:** Да.  
-**Translation:** 
-
-**[3883.68s] English:** У мужчин и женщин в разном возрасте, по-разному, конечно.  
-**Translation:** 
-
-**[3886.84s] English:** Да, сто процентов.  
-**Translation:** 
-
-**[3887.72s] English:** Но в основе всего личность, всё вот это,  
-**Translation:** 
-
-**[3890.62s] English:** когда лицо оживает,  
-**Translation:** 
-
-**[3894.22s] English:** это тоже делает тебя красивым.  
-**Translation:** 
-
-**[3896.16s] English:** Да.  
-**Translation:** 
-
-**[3896.32s] English:** Но нужно разобраться в этом с помощью ИИ.  
-**Translation:** 
-
-**[3898.54s] English:** Да.  
-**Translation:** 
-
-**[3899.12s] English:** Одна из работающих фишек.  
-**Translation:** 
-
-**[3901.20s] English:** Люди загружали фотографии в полный рост.  
-**Translation:** 
-
-**[3903.90s] English:** Я вырезал лицо, и модель лучше понимала, что мы обучаем в основном лицо.  
-**Translation:** 
-
-**[3909.14s] English:** Но потом начали теряться пропорции с телом.  
-**Translation:** 
-
-**[3911.56s] English:** Кто-то худой, кто-то накачанный, и это нужно учитывать.  
-**Translation:** 
-
-**[3915.94s] English:** И теперь я смешиваю фото в полный рост и фото лиц.  
-**Translation:** 
-
-**[3920.04s] English:** И всё это автоматически.  
-**Translation:** 
-
-**[3922.52s] English:** И я знаю, что другие используют ИИ-модели, чтобы выявить лучшие фото в выборке,  
-**Translation:** 
-
-**[3927.68s] English:** а не обучать уже на них.  
-**Translation:** 
-
-**[3929.92s] English:** Всё дело в данных для обучения, и это касается всего ИИ.  
-**Translation:** 
-
-**[3933.44s] English:** Насколько они хороши.  
-**Translation:** 
-
-**[3935.98s] English:** Во многом это важнее, чем сколько шагов ты делаешь при обучении, сколько месяцев возишься с этими GPU.  
-**Translation:** 
-
-**[3942.94s] English:** Цели.  
-**Translation:** 
-
-**[3943.68s] English:** Есть рекомендации, как получить хорошие данные, для тонкой настройки.  
-**Translation:** 
-
-**[3948.44s] English:** Фото должны быть разнообразными.  
-**Translation:** 
-
-**[3950.44s] English:** Если я загружаю только фотографии в коричневой или зелёной рубашке,  
-**Translation:** 
-
-**[3955.38s] English:** модель решит, что я учу её генерировать зелёные рубашки,  
-**Translation:** 
-
-**[3957.38s] English:** одинаковые элементы в картинке,  
-**Translation:** 
-
-**[3960.00s] English:** В каждом фото и есть те понятия, которым она обучается.  
-**Translation:** 
-
-**[3963.18s] English:** А нужно, чтобы обучаемым понятием было ваше лицо.  
-**Translation:** 
-
-**[3967.26s] English:** А все остальное было разным.  
-**Translation:** 
-
-**[3970.28s] English:** Разное освещение, все разное.  
-**Translation:** 
-
-**[3972.06s] English:** Да, на улице, в помещении.  
-**Translation:** 
-
-**[3973.92s] English:** Но вот в чем проблема. Нет никакого руководства.  
-**Translation:** 
-
-**[3976.74s] English:** Никто не знает.  
-**Translation:** 
-
-**[3977.82s] English:** Мы все просто, особенно два года назад,  
-**Translation:** 
-
-**[3980.62s] English:** мы все пробовали все подряд, все, что приходило в голову.  
-**Translation:** 
-
-**[3983.64s] English:** И это бесит.  
-**Translation:** 
-
-**[3986.28s] English:** Это самый раздражающий, но и увлекательный момент касательно ИИ.  
-**Translation:** 
-
-**[3991.52s] English:** Это черный ящик.  
-**Translation:** 
-
-**[3993.04s] English:** Кажется, Карпатый говорил, что мы не знаем, как это работает.  
-**Translation:** 
-
-**[3998.06s] English:** Она что-то делает, но никто толком не знает, почему.  
-**Translation:** 
-
-**[4001.12s] English:** Мы не можем заглянуть внутрь ЛЛМ.  
-**Translation:** 
-
-**[4004.42s] English:** Мы просто знаем, что это трехмерная матрица чисел.  
-**Translation:** 
-
-**[4010.96s] English:** Это очень расстраивает, ведь некоторые вещи, которые должны бы улучшить ситуацию,  
-**Translation:** 
-
-**[4016.28s] English:** делают ее только хуже, и настраивать можно кучу параметров,  
-**Translation:** 
-
-**[4019.56s] English:** и ты тестируешь все подряд, чтобы улучшить ситуацию.  
-**Translation:** 
-
-**[4024.16s] English:** Есть целая новая область, механистическая интерпретируемость,  
-**Translation:** 
-
-**[4028.04s] English:** которая пытается разложить все по полочкам, поняв, как все работает.  
-**Translation:** 
-
-**[4032.12s] English:** Тут, с одной стороны, данные, а с другой конечный продукт, ориентированный на потребителя.  
-**Translation:** 
-
-**[4038.16s] English:** Как заставить его генерировать что-то красивое, интересное и естественное.  
-**Translation:** 
-
-**[4043.80s] English:** Да.  
-**Translation:** 
-
-**[4044.44s] English:** И ты в авангарде решения этой задачи.  
-**Translation:** 
-
-**[4045.66s] English:** Да.  
-**Translation:** 
-
-**[4046.16s] English:** Задача касательно человеческого лица.  
-**Translation:** 
-
-**[4048.04s] English:** Да.  
-**Translation:** 
-
-**[4048.54s] English:** А людям очень важно человеческое лицо.  
-**Translation:** 
-
-**[4050.54s] English:** А они-то очень тщеславны.  
-**Translation:** 
-
-**[4052.08s] English:** Я хочу хорошо смотреться на твоем подкасте, да, конечно.  
-**Translation:** 
-
-**[4055.88s] English:** И вот что я хотел бы основательно протестировать в Фото.АйАй.  
-**Translation:** 
-
-**[4063.12s] English:** Я делаю портреты людей для превью, я не шарю фотографии.  
-**Translation:** 
-
-**[4068.12s] English:** В основном я использую твой подход к фотографии, Гуглю.  
-**Translation:** 
-
-**[4072.28s] English:** Как фотографировать?  
-**Translation:** 
+**[3477.44s] English:** Then I generated photos with prompts.  
+**Translation:** Vocabulary: prompts: 提示词
 
-**[4073.54s] English:** Да.  
+**[3480.00s] English:** And all of this was done manually, which quickly became a big burden.  
 **Translation:** 
 
-**[4074.04s] English:** Иえ, возможно, сейчас их много.  
-**Translation:** 
-
-**[4075.96s] English:** Да.  
-**Translation:** 
-
-**[4076.96s] English:** Давай мы с тобой поговорим про фотографию.  
-**Translation:** 
-
-**[4077.96s] English:** Ну ладно, а как это делать?  
-**Translation:** 
-
-**[4078.96s] English:** Возможно, кто-то из вас может отказаться от прекрасной  
-**Translation:** 
-
-**[4079.96s] English:** фотографии.  
-**Translation:** 
-
-**[4080.96s] English:** Ну, я например, возлюблен актером.  
-**Translation:** 
-
-**[4085.96s] English:** Так что, я не буду по-антиному.  
-**Translation:** 
-
-**[4091.36s] English:** Когда вы проверяете фотографию, вы просто поймете это.  
-**Translation:** 
-
-**[4094.76s] English:** Когда вы проверяете, вы увидите, что это немедленно изменила  
-**Translation:** 
-
-**[4099.92s] English:** вашу жизнь.  
-**Translation:** 
-
-**[4100.92s] English:** И тогда, вы можете все улыбаться.  
-**Translation:** 
-
-**[4102.42s] English:** Так что, не бойтесь.  
-**Translation:** 
-
-**[4080.00s] English:** Ты тоже можешь об этом рассказать, но фотографы...  
-**Translation:** 
-
-**[4083.38s] English:** Без обид, Дэнни.  
-**Translation:** 
-
-**[4085.26s] English:** Настоящие художники – отличные фотографы.  
-**Translation:** 
-
-**[4087.92s] English:** Но люди слишком серьезно к себе относятся.  
-**Translation:** 
-
-**[4091.32s] English:** Думают, что нужна куча оборудования.  
-**Translation:** 
-
-**[4094.22s] English:** Одного источника света точно мало.  
-**Translation:** 
-
-**[4096.60s] English:** Нужно пять.  
-**Translation:** 
-
-**[4097.46s] English:** Чувак, я знаю.  
-**Translation:** 
-
-**[4098.24s] English:** И нужны всякие объективы.  
-**Translation:** 
-
-**[4103.02s] English:** Я тут говорил с парнем, экспертом,  
-**Translation:** 
-
-**[4107.76s] English:** по настройке звука в помещении.  
-**Translation:** 
-
-**[4110.42s] English:** Понимаешь?  
-**Translation:** 
-
-**[4111.48s] English:** Ведь я думал, я же делаю подкаст-студию,  
-**Translation:** 
-
-**[4115.48s] English:** нужно бы сделать звукоизоляцию в комнате.  
-**Translation:** 
-
-**[4119.64s] English:** И когда он пришел и проанализировал комнату,  
-**Translation:** 
-
-**[4123.44s] English:** он решил, что я все делаю неправильно.  
-**Translation:** 
-
-**[4125.66s] English:** И тогда я понял,  
-**Translation:** 
-
-**[4128.26s] English:** мне не нужны эксперты в моей жизни.  
-**Translation:** 
-
-**[4130.38s] English:** Ты выставил его за дверь?  
-**Translation:** 
-
-**[4132.20s] English:** Нет, не выставил.  
-**Translation:** 
-
-**[4133.22s] English:** Я сказал большое спасибо.  
-**Translation:** 
-
-**[4134.56s] English:** Отличный совет. Пока.  
-**Translation:** 
-
-**[4135.92s] English:** Я просто почувствовал, что...  
-**Translation:** 
-
-**[4140.00s] English:** Сосредоточься на проблемах, полагайся на собственные осуждения и инстинкты.  
-**Translation:** 
-
-**[4144.48s] English:** Не слушай других.  
-**Translation:** 
-
-**[4146.04s] English:** Советуйся с другими только при наличии конкретной проблемы.  
-**Translation:** 
-
-**[4149.30s] English:** Ты советуешься не для того, чтобы переложить на них проблему,  
-**Translation:** 
-
-**[4153.50s] English:** а чтобы получить мудрость их опыта.  
-**Translation:** 
-
-**[4156.04s] English:** Даже если ты не согласен с их точкой зрения, ты все равно получишь ценный опыт.  
-**Translation:** 
-
-**[4159.68s] English:** В итоге я пришел к решению, как из PHP.  
-**Translation:** 
-
-**[4163.58s] English:** PHP, Джей Куэр.  
-**Translation:** 
-
-**[4164.82s] English:** PHP студия.  
-**Translation:** 
-
-**[4165.94s] English:** PHP студия.  
-**Translation:** 
-
-**[4167.18s] English:** Одел костюм.  
-**Translation:** 
-
-**[4168.54s] English:** Я использовал...  
-**Translation:** 
-
-**[4169.48s] English:** Использую просто базовые потребительские вещи, один источник света, здорово.  
-**Translation:** 
-
-**[4176.48s] English:** Да, и у тебя один из топовых подкастов в мире, миллионы просмотров, и все работает.  
-**Translation:** 
-
-**[4181.48s] English:** А люди, которые тратят кучу денег на оптимизацию, на лучший звук, на лучшую студию, получают какие-то 300 просмотров.  
-**Translation:** 
-
-**[4187.48s] English:** А в чем же дело?  
-**Translation:** 
-
-**[4188.48s] English:** А дело в том, либо ты делаешь все очень хорошо, либо эти вещи не важны.  
-**Translation:** 
-
-**[4193.48s] English:** Важно, наверное, содержание подкаста.  
-**Translation:** 
-
-**[4196.48s] English:** У тебя интересные гости.  
-**Translation:** 
-
-**[4197.48s] English:** Фокус на том, что важно.  
-**Translation:** 
-
-**[4198.48s] English:** Думаю, это не важно.  
-**Translation:** 
-
-**[4199.48s] English:** Это не редкость.  
-**Translation:** 
-
-**[4200.00s] English:** Называется синдром приобретения оборудования.  
-**Translation:** 
-
-**[4202.90s] English:** Люди в любой индустрии этим страдают, покупают всё подряд.  
-**Translation:** 
-
-**[4206.72s] English:** Недавно был мем про того, кто скупает всё оборудование до того, как начнёт заниматься хобби.  
-**Translation:** 
-
-**[4213.10s] English:** Это всё маркетинг, он заставляет людей покупать.  
-**Translation:** 
-
-**[4216.24s] English:** Да.  
-**Translation:** 
-
-**[4216.58s] English:** Но, блин, ты можешь снять голливудский фильм на айфон, если контент достаточно хорош.  
-**Translation:** 
-
-**[4225.16s] English:** К тому же он будет оригинальным, ведь ты снимаешь на айфон, понимаешь?  
-**Translation:** 
-
-**[4229.02s] English:** Так что...  
-**Translation:** 
-
-**[4230.06s] English:** Кстати, вот почему я поднял этот вопрос с фотографией.  
-**Translation:** 
-
-**[4234.98s] English:** Люди делятся мудростью, и я осознал, ты, наверное, тоже это понял,  
-**Translation:** 
-
-**[4241.52s] English:** это насколько сильна роль света в передаче эмоций.  
-**Translation:** 
-
-**[4246.96s] English:** Просто возьми один источник света и подвигай его.  
-**Translation:** 
-
-**[4250.08s] English:** Сидишь в темноте и двигаешь его вокруг лица.  
-**Translation:** 
-
-**[4252.76s] English:** Разные положения, а может и второй источник света, позволяют играть с ощущениями человека,  
-**Translation:** 
-
-**[4257.84s] English:** а это лишь лицо.  
-**Translation:** 
-
-**[4259.02s] English:** Да, да, да.  
-**Translation:** 
-
-**[4259.48s] English:** Это интересно.  
-**Translation:** 
-
-**[4260.28s] English:** Ты можешь сделать людей привлекательными, уродливыми, напуганными, сделать их одинокими и всё такое.  
-**Translation:** 
-
-**[4266.26s] English:** И ты начинаешь это понимать.  
-**Translation:** 
-
-**[4269.26s] English:** Мне бы очень хотелось, чтобы ИИ помогал в создании отличных портретов людей.  
-**Translation:** 
-
-**[4276.14s] English:** Фотографий гостей, да?  
-**Translation:** 
-
-**[4277.26s] English:** Да, фото гостей.  
-**Translation:** 
-
-**[4278.64s] English:** Это небольшой пример использования, но для меня...  
-**Translation:** 
-
-**[4282.68s] English:** Я полагаю, это важный пример, потому что я хочу, чтобы люди хорошо выглядели,  
-**Translation:** 
-
-**[4287.42s] English:** но ещё и запечатлеть...  
-**Translation:** 
-
-**[4289.02s] English:** Кто они?  
-**Translation:** 
-
-**[4290.30s] English:** Может, моё представление о том, кто они есть и что делает их красивыми?  
-**Translation:** 
-
-**[4293.90s] English:** Да.  
-**Translation:** 
-
-**[4294.62s] English:** Как бы, силу их внешности.  
-**Translation:** 
-
-**[4296.32s] English:** Иногда это глаза, очень часто это глаза.  
-**Translation:** 
-
-**[4299.22s] English:** Но определённые черты лица иногда могут тоже олицетворять силу.  
-**Translation:** 
-
-**[4302.72s] English:** Мне так же немного неловко снимать фотографии, просто я не так часто фотографирую для себя лишь эти фотографии.  
-**Translation:** 
-
-**[4313.98s] English:** Если бы я мог переложить это на ИИ, а затем начать играть со светом и всё это,  
-**Translation:** 
-
-**[4318.32s] English:** Да.  
-**Translation:** 
-
-**[4318.82s] English:** на всем таки.  
-**Translation:** 
-
-**[4320.00s] English:** Заняться, и причем самому, можно использовать фото-ИА, но интереснее, если делаешь сам.  
-**Translation:** 
-
-**[4324.12s] English:** Так ты обучаешь модель.  
-**Translation:** 
-
-**[4325.76s] English:** Ты можешь разузнать о Control.net.  
-**Translation:** 
-
-**[4328.38s] English:** Фотографии для подкаста обычно сняты под определенным углом.  
-**Translation:** 
-
-**[4331.46s] English:** Так что ты можешь создать шаблон лица с помощью Control.net,  
-**Translation:** 
-
-**[4335.66s] English:** и каждая модель и фотографии, которые ты генерируешь, будут использовать этот шаблон.  
-**Translation:** 
-
-**[4340.54s] English:** Думаю, тебе бы было интересно это попробовать.  
-**Translation:** 
-
-**[4342.66s] English:** Ты вообще играешь со светом? Со светом, с позой?  
-**Translation:** 
-
-**[4345.68s] English:** Чувак, на этой неделе, ну или недавно, вышла новая модель.  
-**Translation:** 
-
-**[4350.00s] English:** Которая может регулировать свет на любом фото, даже на изображениях, созданных на Stable Diffusion.  
-**Translation:** 
-
-**[4355.14s] English:** Кажется, называется Relights.  
-**Translation:** Vocabulary: diffusion: 扩散; relights: 重新照明
-
-**[4356.62s] English:** Она, вероятно, ты можешь загрузить карту освещения, красную, фиолетовую, синюю,  
-**Translation:** 
-
-**[4366.26s] English:** и использовать ее, чтобы менять свет на фотографии.  
-**Translation:** 
-
-**[4370.24s] English:** Просто улет.  
-**Translation:** 
-
-**[4371.38s] English:** Тут есть где развернуться.  
-**Translation:** 
-
-**[4373.84s] English:** Что бы ты в целом посоветовал людям,  
-**Translation:** 
-
-**[4377.62s] English:** как изучать все эти современные инструменты,  
-**Translation:** 
-
-**[4380.00s] English:** ты сказал, что постоянно выходят новые модели.  
-**Translation:** 
-
-**[4382.88s] English:** Да.  
-**Translation:** 
-
-**[4383.38s] English:** Как ты за всем этим следишь?  
-**Translation:** 
+**[3484.76s] English:** This is another limitation.  
+**Translation:** Vocabulary: burden: 负担
 
-**[4386.38s] English:** Как ты остаешься в курсе всего?  
+**[3486.34s] English:** I had to write a code that would do this.  
 **Translation:** 
 
-**[4388.38s] English:** Думаю, нужно подписаться на Экс.  
+**[3490.12s] English:** So it all turned into a real website.  
 **Translation:** 
 
-**[4390.38s] English:** Экс сейчас просто бомба, и вся ИИ-индустрия сидит там.  
+**[3492.84s] English:** That is, they first uploaded the photos through TypeFore.  
 **Translation:** 
 
-**[4394.38s] English:** И у всех анимешные аватарки.  
+**[3495.58s] English:** Latent platform Stripe, yes.  
 **Translation:** 
 
-**[4396.38s] English:** Так что...  
+**[3497.46s] English:** Then we needed to download the image.  
 **Translation:** 
 
-**[4397.38s] English:** Это забавно, друзья меня вечно спрашивают, на кого подписаться, чтобы быть в теме.  
+**[3499.58s] English:** Did you write a script for its download?  
 **Translation:** 
 
-**[4401.38s] English:** И я говорю, зайди в Экс и подпишись на все эти ИИ-аниме-модели, на которые подписан тот или иной человек.  
+**[3501.46s] English:** No, I downloaded it manually. It was a zip file.  
 **Translation:** 
 
-**[4407.38s] English:** Я отправляю им ссылку, и они ржут, типа, что это?  
-**Translation:** 
-
-**[4410.00s] English:** Но это реальные люди, которые копаются в ИИ.  
-**Translation:** 
-
-**[4413.00s] English:** Их нанимают крупные компании, они сидят в Экс.  
-**Translation:** 
-
-**[4416.00s] English:** И большинство из них анонимы.  
-**Translation:** 
-
-**[4418.00s] English:** Очень забавно.  
-**Translation:** 
-
-**[4419.00s] English:** Они используют аниме-аватары, а я нет.  
-**Translation:** 
-
-**[4423.00s] English:** Но эти ребята ковыряются в коде, а потом публикуют свои находки, обсуждают статьи, например.  
-**Translation:** 
-
-**[4429.00s] English:** Так что да, определенно Экс.  
-**Translation:** 
-
-**[4431.00s] English:** Отлично. Почти все, на кого я подписан, связаны с ИИ.  
-**Translation:** 
-
-**[4435.00s] English:** Да. Сейчас хорошее время.  
-**Translation:** 
-
-**[4437.00s] English:** К тому же это...  
-**Translation:** 
-
-**[4440.00s] English:** И это еще и радует мою душу, потому что в Твиттере столько шума.  
-**Translation:** 
-
-**[4446.06s] English:** Да, политика и все такое.  
-**Translation:** 
-
-**[4447.58s] English:** Там идут настоящие битвы, как на войне.  
-**Translation:** 
+**[3504.12s] English:** Did you unpack each one separately?  
+**Translation:** Vocabulary: separately: 单独; unpack: 解压
 
-**[4450.04s] English:** И приятно просто зайти в это счастливое пристанище, где люди что-то создают.  
+**[3506.02s] English:** Yes, but Paul Graham said to do things that don't scale.  
 **Translation:** 
 
-**[4454.72s] English:** Да, на все сто. За это я больше всего и люблю Твиттер.  
+**[3510.26s] English:** I trained the model, and then sent them a photo via my personal email.  
 **Translation:** 
 
-**[4458.50s] English:** Потому что это вдохновляет тебя самого творить.  
+**[3515.60s] English:** Keep your avatars. They liked it, they thought it was cool.  
 **Translation:** 
 
-**[4462.08s] English:** И просто приятно видеть, как другие делятся своими открытиями.  
-**Translation:** 
+**[3520.14s] English:** Did you send them emails from your personal email account?  
+**Translation:** Vocabulary: avatars: 虚拟角色
 
-**[4465.76s] English:** И ты такой, так, я тоже что-нибудь сделаю. Это очень круто.  
+**[3522.66s] English:** I did not have an email on this domain.  
 **Translation:** 
 
-**[4468.48s] English:** И когда ты хочешь начать, зайди в X.  
+**[3525.70s] English:** This is hundreds of people.  
 **Translation:** 
 
-**[4470.92s] English:** А потом на реплике ты попробуй поиграться с моделями.  
+**[3527.56s] English:** Do you know who registered?  
 **Translation:** 
 
-**[4474.92s] English:** И когда у тебя получится что-то, куда ты вручную вводишь данные и настраиваешь параметры, что-то работающее,  
+**[3530.38s] English:** Guy, I can't name them, but they are very famous people.  
 **Translation:** 
 
-**[4480.36s] English:** то из этого можно сделать приложение или сайт.  
+**[3534.06s] English:** Known tech-billionaires.  
 **Translation:** 
 
-**[4482.98s] English:** Можешь подробнее рассказать о том, как фото AI становился все лучше и лучше?  
-**Translation:** 
+**[3535.68s] English:** And I'm like, wow, this is madness.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[4487.98s] English:** Итак, у меня был этот фото AI, и генерировалось около миллиона фото в месяц.  
+**[3537.94s] English:** I was very afraid of disappointing them and wrote,  
 **Translation:** 
 
-**[4493.18s] English:** И я обнаружил, что тестирую параметры, например, увеличиваю количество,  
+**[3540.00s] English:** Thank you for using my website.  
 **Translation:** 
 
-**[4498.48s] English:** количество шагов генерации фото, или меняю сэмплер, типа планировщика.  
+**[3542.46s] English:** I was told, "Yes, excellent work.  
 **Translation:** 
 
-**[4501.98s] English:** У тебя есть DPM2K, раз, штуки, о которых я ничего не знаю, но их можно выбирать для генерации фото, и они дают разные результаты.  
-**Translation:** 
+**[3544.86s] English:** I thought it differed from a typical reaction?  
+**Translation:** Vocabulary: differed: 不同
 
-**[4509.28s] English:** Но я не знал, какие из них лучше, поэтому тестировал их сам.  
+**[3547.52s] English:** Is it Bill Gates, by any chance?  
 **Translation:** 
 
-**[4512.88s] English:** Но потом я подумал, почему бы не протестировать на пользователях, ведь у меня все равно генерируется миллион фото.  
+**[3549.92s] English:** I cannot speak.  
 **Translation:** 
 
-**[4520.08s] English:** Я рандомно выбирал 10% пользователей и смотрел, будут ли они добавлять фото в избранное или скачивать их.  
+**[3552.32s] English:** There, presumably, is a photo without robots.  
 **Translation:** 
 
-**[4527.96s] English:** И проводил A-B тест, проверял на статистическую значимость, какие параметры были лучше, а какие хуже.  
+**[3553.92s] English:** GDPR, privacy.  
 **Translation:** 
 
-**[4537.46s] English:** Так ты начал понимать, какие модели работают хорошо.  
+**[3555.58s] English:** Yes, yes.  
 **Translation:** 
 
-**[4540.46s] English:** Да, и если данных достаточно, ты переходишь на них для всех пользователей.  
-**Translation:** 
+**[3556.64s] English:** Euroregulation.  
+**Translation:** Vocabulary: euroregulation: 欧洲法规
 
-**[4545.46s] English:** Это был прорыв в улучшении качества использовать пользователей для улучшения продукта.  
+**[3557.40s] English:** Nothing to say, but I was astonished.  
 **Translation:** 
 
-**[4549.96s] English:** При регистрации я сообщаю, что мы проводим выборку, и тестируем рандомные параметры.  
-**Translation:** 
+**[3561.48s] English:** This shows that when you do something, and if it quickly takes off,  
+**Translation:** Vocabulary: astonished: 惊讶
 
-**[4554.46s] English:** Сработало на ура, я больше не провожу много тестов, потому что до сих пор я не делаю много тестов.  
+**[3565.36s] English:** Means, sort of, what people need.  
 **Translation:** 
 
-**[4557.96s] English:** Но я думаю, что я смогу достичь точки убывающей отдачи.  
+**[3568.90s] English:** But then I thought,  
 **Translation:** 
 
-**[4560.00s] English:** Но, да, это был прорыв.  
+**[3570.00s] English:** This is a hype, this will fade quickly, it was, for it was low-quality.  
 **Translation:** 
 
-**[4563.00s] English:** То есть всё сводится к параметрам, моделям и к тому, чтобы пользователи помогали искать для тебя оптимальное сочетание моделей и параметров.  
-**Translation:** 
+**[3574.60s] English:** But how did you automate everything? What was the AI component all about, and how difficult was it to figure out?  
+**Translation:** Vocabulary: automate: 自动化
 
-**[4572.00s] English:** Вот что интересно, я использовал Stable Diffusion 1.5, потом вышли версии 2.0, Excel, все эти новые версии.  
+**[3581.04s] English:** In many ways, this is the simplest, as all these platforms for fine-tuning stable diffusion were already available then.  
 **Translation:** 
 
-**[4580.00s] English:** И все они хуже.  
+**[3590.52s] English:** Currently, of course, I am using Replicate.  
 **Translation:** Vocabulary: diffusion: 扩散
 
-**[4582.00s] English:** Поэтому большинство ещё использует 1.5, потому что её ещё не кастрировали, чтобы сделать супер безопасной и всё такое.  
+**[3594.52s] English:** What's funny is that the very platform I always tweet about how much money these sites make.  
 **Translation:** 
 
-**[4591.00s] English:** Так что большинство всё ещё сидят на Stable Diffusion 1.5.  
+**[3600.00s] English:** This is called a vendor, right? The platform representing GPU. They raised the training price from 3 to 20 dollars. As you can see, they noticed I was making a lot of money. And my profit vanished because I was selling them for 30. I sat in Slack and said, what's this about? Can we bring the price back down to 3 dollars? They replied, we are currently considering this issue. I said, what are you talking about? They took my earnings; they're not fools.  
+**Translation:** Vocabulary: earnings: 收益; vanished: 消失; vendor: 供应商
+
+**[3624.64s] English:** Ah, but they're not that smart either, because you have a big platform too, and many people respect you. You could step out and talk about it.  
 **Translation:** 
 
-**[4597.00s] English:** А тем временем в компании ушёл генеральный директор, там целая драма.  
+**[3633.52s] English:** This is somehow dirty to cancel a company or something like that. I would rather move my business to another place, but there wasn't any other place then.  
 **Translation:** 
 
-**[4603.00s] English:** Они не смогли заработать денег.  
+**[3640.60s] English:** Correct.  
 **Translation:** 
 
-**[4605.00s] English:** И да, это очень интересно, они дали нам эту open-source модель, которую все используют.  
+**[3641.36s] English:** And I started communicating with other platforms for training, and Replicate was one of them, and I began messaging them about SEO.  
 **Translation:** 
 
-**[4612.00s] English:** Привлекли сотни миллионов долларов и не заработали ни копейки.  
+**[3649.20s] English:** Can you please add Dreamboost, with a fine-tuned setup for myself?  
 **Translation:** 
 
-**[4617.00s] English:** Проделали эту потрясающую работу, а теперь все используют её бесплатно.  
+**[3653.48s] English:** You can add this to your website; I'm suffocating under the prices.  
+**Translation:** Vocabulary: dreamboost: 梦想增强; setup: 配置; suffocating: 窒息般
+
+**[3657.28s] English:** He said, no, it takes half an hour, and we don't have a GPU for that.  
 **Translation:** 
 
-**[4621.00s] English:** Это невероятно, просто потрясающе.  
+**[3662.14s] English:** I prayed, and after a week, he said, "Yes, we are launching this.  
 **Translation:** 
 
-**[4624.00s] English:** И ты не пользуешься последней версией.  
+**[3667.02s] English:** Then this company, which was not very well-known, became very famous thanks to this thing.  
 **Translation:** 
 
-**[4626.00s] English:** И самое странное, что компания привлекла сотни миллионов, но выиграли лишь немногие.  
+**[3673.14s] English:** All of a sudden, they're like, "Oh, we can create something similar, and everyone started creating apps for avatars using Replicate.  
+**Translation:** Vocabulary: avatars: 虚拟角色
+
+**[3680.14s] English:** All began with a private message with SEO Ben Firshman.  
 **Translation:** 
 
-**[4631.00s] English:** Такие как я, кто делает небольшие приложения, использующие эту модель.  
+**[3683.48s] English:** Great guy.  
 **Translation:** 
 
-**[4634.00s] English:** А за новые модели они теперь берут деньги, но они не так уж и хороши.  
+**[3685.06s] English:** And they never raised their prices, and they never treated me badly.  
 **Translation:** 
 
-**[4639.00s] English:** Они не на open-source.  
+**[3690.18s] English:** This is a very cool company.  
 **Translation:** 
 
-**[4641.00s] English:** Да, интересно.  
+**[3691.96s] English:** We can run any model, any LLM.  
 **Translation:** 
 
-**[4642.00s] English:** Ведь open-source оказывает сильное влияние в сфере ИИ.  
+**[3695.14s] English:** Here they have...  
 **Translation:** 
 
-**[4645.00s] English:** И вопрос, какая тут бизнес-модель.  
+**[3696.08s] English:** And scale up.  
 **Translation:** 
 
-**[4647.00s] English:** Но это даёт возможность развиваться целой экосистеме компаний.  
+**[3697.12s] English:** Yes, they scale.  
 **Translation:** 
 
-**[4651.00s] English:** Да, да.  
+**[3698.98s] English:** Now you can click on the model and launch it.  
 **Translation:** 
 
-**[4652.00s] English:** Использующих такие модели.  
+**[3701.74s] English:** This is super simple.  
 **Translation:** 
 
-**[4654.00s] English:** Это как с фреймворками, только они не подкупили достаточно инфлюенсеров, чтобы те их использовали.  
+**[3703.30s] English:** Enter through GitHub.  
 **Translation:** 
 
-**[4659.00s] English:** И не берут денег за платформу.  
+**[3705.40s] English:** Great.  
 **Translation:** 
 
-**[4662.00s] English:** Вернёмся к твоей книге и идеям.  
+**[3705.82s] English:** Here is the improved sentence with natural English punctuation and capitalization: Keep this automated through API, create a website that runs the model.  
 **Translation:** 
 
-**[4665.00s] English:** Мы даже до первого шага не добрались.  
+**[3710.60s] English:** Generate an image, text, video, or music.  
+**Translation:** Vocabulary: automated: 自动化; capitalization: 大写
+
+**[3713.48s] English:** Even speech.  
 **Translation:** 
 
-**[4668.00s] English:** Генерация идей.  
+**[3714.12s] English:** And video.  
 **Translation:** 
 
-**[4670.00s] English:** Итак, ты пишешь их в блокнот.  
+**[3714.66s] English:** Fine-tuning models.  
 **Translation:** 
 
-**[4671.00s] English:** Как ты понимаешь, что идея хорошая?  
+**[3715.98s] English:** Yes, they do it all.  
 **Translation:** 
 
-**[4674.00s] English:** У тебя же просто поток идей.  
+**[3717.12s] English:** Cool company.  
 **Translation:** 
 
-**[4678.00s] English:** Как ты выбираешь ту, которая попроще?  
+**[3718.06s] English:** Classno.  
+**Translation:** Vocabulary: classno: 班级号
+
+**[3718.90s] English:** And you are essentially growing.  
 **Translation:** 
 
-**[4680.00s] English:** Пробуешь реализовать?  
+**[3720.00s] English:** You have been working together with them. They have grown thanks to your example.  
 **Translation:** 
 
-**[4681.14s] English:** Да по большей части никак.  
+**[3723.90s] English:** Yes, the website even now looks strange. It started as a platform for machine learning, and I didn't even understand what it did. It was too complex. You'd understand; you spin in the world of machine learning.  
 **Translation:** 
 
-**[4682.60s] English:** В основном я выбираю те, которые проще реализовать.  
+**[3736.28s] English:** Now he's simpler.  
 **Translation:** 
 
-**[4685.44s] English:** Я же не могу сейчас создать космическую компанию, но я могу...  
+**[3737.46s] English:** Yes, exactly. But I didn't know how it works, but I knew they would be able to do it, and they did. They created the models, and I use them everywhere.  
 **Translation:** 
 
-**[4689.48s] English:** Ты реально записывал такую идею?  
+**[3747.22s] English:** We have trained, as of now, approximately 36 thousand models.  
 **Translation:** 
 
-**[4691.70s] English:** Нет, но думаю, разработка астероидов – это круто.  
+**[3752.34s] English:** May be there are tricks for fine-tuning from a set of photos? How about...  
 **Translation:** 
 
-**[4694.36s] English:** Ты летишь к астероиду, копаешь там, привозишь обратно, продаешь, ну, понимаешь.  
+**[3757.78s] English:** There are a bunch of hacks there.  
+**Translation:** Vocabulary: hacks: 小技巧
+
+**[3759.38s] English:** Meaning, hacks.  
 **Translation:** 
 
-**[4700.54s] English:** И можно нанять кого-нибудь, чтобы это запустить.  
+**[3759.90s] English:** There are hundreds of them, to make sure everything works.  
 **Translation:** 
 
-**[4703.48s] English:** К астероидам могут летать роботы.  
+**[3761.68s] English:** What? What kind of...  
 **Translation:** 
 
-**[4706.28s] English:** А робототехника – это интересно, я тоже хочу ее изучить.  
+**[3763.54s] English:** Now I am revealing the secrets.  
 **Translation:** 
 
-**[4709.34s] English:** Может, это оно?  
+**[3764.82s] English:** Nu, not secrets but rather peculiarities of the human face and body. What is often going wrong?  
 **Translation:** 
 
-**[4710.88s] English:** Думаю, разработка астероидов и робототехника...  
+**[3773.60s] English:** I think people, well, don't know how they look.  
+**Translation:** Vocabulary: peculiarities: 特殊之处
+
+**[3777.00s] English:** And...  
 **Translation:** 
 
-**[4713.50s] English:** Да, да, совместно.  
+**[3777.20s] English:** Yes.  
 **Translation:** 
 
-**[4718.34s] English:** Мне кажется.  
+**[3778.74s] English:** They generate photos, and then... That's not me.  
 **Translation:** 
 
-**[4719.60s] English:** Да, точно, вот оно.  
+**[3781.72s] English:** Yes.  
 **Translation:** 
 
-**[4721.30s] English:** Мы делаем это не потому, что это легко, а потому, что думали, что это будет легко.  
+**[3782.40s] English:** But you can check the original photos. It's you.  
 **Translation:** 
 
-**[4725.96s] English:** Точно, это я про разработку астероидов.  
+**[3786.50s] English:** Yes.  
 **Translation:** 
 
-**[4729.36s] English:** В точку.  
+**[3786.68s] English:** You don't know how you look.  
 **Translation:** 
 
-**[4730.50s] English:** Вот почему я должен этим заняться.  
+**[3788.36s] English:** Such body dysmorphophobia. You have no idea how you look.  
+**Translation:** Vocabulary: dysmorphophobia: 畸形恐惧症
+
+**[3792.84s] English:** Zabavno. One of the most unpleasant tasks in my life is listening to my own voice and looking at my face.  
 **Translation:** 
 
-**[4731.92s] English:** Это тебе не Nomad List.com.  
+**[3800.52s] English:** It has to be very...  
+**Translation:** Vocabulary: zabavno: 令人厌烦
+
+**[3802.04s] English:** Very strongly, as if, coming to terms with reality.  
 **Translation:** 
 
-**[4733.58s] English:** Нет, не то, но...  
+**[3807.20s] English:** By how I look and how I sound.  
 **Translation:** 
 
-**[4734.32s] English:** Это разработка астероидов.  
+**[3809.34s] English:** Guy, that's all right.  
 **Translation:** 
 
-**[4735.64s] English:** Придется гравитацию очень сложно преодолеть.  
+**[3810.62s] English:** And...  
 **Translation:** 
 
-**[4739.34s] English:** Да, но кажется, блин, я, наверное, говорю как идиот, но это звучит довольно осуществимо, не придется строить ракету.  
+**[3810.80s] English:** But people often do not do this.  
 **Translation:** 
 
-**[4746.02s] English:** Можно обратиться к SpaceX?  
+**[3812.32s] English:** Is that true?  
 **Translation:** 
 
-**[4748.06s] English:** Да, нанять SpaceX, чтобы отправить туда свою робособаку.  
+**[3812.88s] English:** You have a distorted perception.  
 **Translation:** 
 
-**[4752.10s] English:** А у тебя есть блокнот, где ты писал «Разработка астероидов»?  
+**[3815.24s] English:** I know that if I take a selfie with my cathedral in the background, I look great, but others don't think so.  
+**Translation:** Vocabulary: cathedral: 大教堂; distorted: 扭曲; perception: 认知
+
+**[3822.44s] English:** But when they take pictures of me, I end up looking terrible.  
 **Translation:** 
 
-**[4755.10s] English:** Нет, тогда я пользовался Trello.  
+**[3824.74s] English:** They aren't here, you look good.  
+**Translation:** 
+
+**[3826.58s] English:** Therefore, how others see you is good.  
+**Translation:** 
+
+**[3830.12s] English:** We need to ask others to choose your background.  
+**Translation:** 
+
+**[3833.20s] English:** Yes, yes.  
+**Translation:** 
+
+**[3833.62s] English:** It's not wise to choose for yourself. You don't know how you look.  
+**Translation:** 
+
+**[3836.56s] English:** Yes.  
+**Translation:** 
+
+**[3836.82s] English:** Yes, you don't know what makes you interesting and attractive.  
+**Translation:** 
+
+**[3840.00s] English:** And many of us, this is the dark side of psychology,  
+**Translation:** 
+
+**[3843.46s] English:** Focus on all those minor flaws.  
+**Translation:** 
+
+**[3846.36s] English:** I hate plastic surgery.  
+**Translation:** 
+
+**[3848.84s] English:** People try to get rid of their flaws,  
+**Translation:** 
+
+**[3850.88s] English:** Although they add interest and appeal.  
+**Translation:** 
+
+**[3852.66s] English:** I understood it by looking at the eyes of a Hammerhead shark.  
+**Translation:** Vocabulary: hammerhead: 锤头鲨; shark: 鲨鱼
+
+**[3855.10s] English:** What do you find ugly about yourself?,  
+**Translation:** 
+
+**[3856.94s] English:** Makes you original, beautiful,  
+**Translation:** 
+
+**[3859.76s] English:** And people like it.  
+**Translation:** 
+
+**[3861.12s] English:** This is not a type of "Oh, my goodness!  
+**Translation:** 
+
+**[3863.42s] English:** People notice it, like my eyes of the Hammer.  
+**Translation:** 
+
+**[3866.72s] English:** But this is me, this is my face,  
+**Translation:** 
+
+**[3868.54s] English:** I love myself, this is confidence, and it's attractive.  
+**Translation:** 
+
+**[3871.38s] English:** Yes.  
+**Translation:** 
+
+**[3871.92s] English:** Verdict?  
+**Translation:** 
+
+**[3872.84s] English:** Confidence is attractive.  
+**Translation:** 
+
+**[3874.40s] English:** Yes, understanding what makes you beautiful,  
+**Translation:** 
+
+**[3877.08s] English:** This, for example, is a violation of symmetry.  
+**Translation:** Vocabulary: symmetry: 对称
+
+**[3880.26s] English:** Deviation from the Average Face.  
+**Translation:** 
+
+**[3882.86s] English:** Yes.  
+**Translation:** Vocabulary: deviation: 平均脸的差异
+
+**[3883.68s] English:** In men and women of different ages, of course, it varies.  
+**Translation:** 
+
+**[3886.84s] English:** Yes, one hundred percent.  
+**Translation:** 
+
+**[3887.72s] English:** But at the core of it all is the person, everything, this.  
+**Translation:** 
+
+**[3890.62s] English:** When a face comes alive,  
+**Translation:** 
+
+**[3894.22s] English:** This also makes you beautiful.  
+**Translation:** 
+
+**[3896.16s] English:** Yes.  
+**Translation:** 
+
+**[3896.32s] English:** But we need to figure this out with the help of AI.  
+**Translation:** 
+
+**[3898.54s] English:** Yes.  
+**Translation:** 
+
+**[3899.12s] English:** One of the working features.  
+**Translation:** 
+
+**[3901.20s] English:** People loaded high-resolution photos.  
+**Translation:** 
+
+**[3903.90s] English:** I carved out the face, and the model better understood that we were training primarily on faces.  
+**Translation:** 
+
+**[3909.14s] English:** But then the proportions began to get lost with the body.  
+**Translation:** Vocabulary: carved: 雕刻; proportions: 比例
+
+**[3911.56s] English:** Someone thin, someone muscular, and this needs to be considered.  
+**Translation:** 
+
+**[3915.94s] English:** Now I am mixing full-body photos with close-up face shots.  
+**Translation:** Vocabulary: muscular: 肌肉发达的
+
+**[3920.04s] English:** And all of this is automatically.  
+**Translation:** 
+
+**[3922.52s] English:** I know that others use AI models to identify the best photos in a selection.  
+**Translation:** 
+
+**[3927.68s] English:** Don't train on them already.  
+**Translation:** 
+
+**[3929.92s] English:** All it comes down to is training data, and this applies to all AI.  
+**Translation:** 
+
+**[3933.44s] English:** How good are they.  
+**Translation:** 
+
+**[3935.98s] English:** In many ways, this is more important than how many steps you take during training or how many months you fiddle with these GPUs.  
+**Translation:** Vocabulary: fiddle: 调弄
+
+**[3942.94s] English:** Goals.  
+**Translation:** 
+
+**[3943.68s] English:** There are recommendations on how to get good data for fine-tuning.  
+**Translation:** Vocabulary: recommendations: 建议
+
+**[3948.44s] English:** Photos should be diverse.  
+**Translation:** 
+
+**[3950.44s] English:** If I load only photos in a brown or green shirt,  
+**Translation:** 
+
+**[3955.38s] English:** Model will decide that I am teaching it to generate green shirts,  
+**Translation:** 
+
+**[3957.38s] English:** One identical element in the picture,  
+**Translation:** Vocabulary: identical: 完全相同的
+
+**[3960.00s] English:** In each photo, there are the concepts she is learning.  
+**Translation:** 
+
+**[3963.18s] English:** It is necessary for your face to be the concept that the trainees understand.  
+**Translation:** Vocabulary: trainees: 受训人员
+
+**[3967.26s] English:** All else was different.  
+**Translation:** 
+
+**[3970.28s] English:** Different lighting, all different.  
+**Translation:** Vocabulary: lighting: 照明
+
+**[3972.06s] English:** Yes, outside in the building.  
+**Translation:** 
+
+**[3973.92s] English:** But here's the problem: there is no guidance.  
+**Translation:** 
+
+**[3976.74s] English:** Nobody knows.  
+**Translation:** 
+
+**[3977.82s] English:** We were all simpler, especially two years ago.  
+**Translation:** 
+
+**[3980.62s] English:** We tried everything and anything that came to mind.  
+**Translation:** 
+
+**[3983.64s] English:** And this really frustrates me.  
+**Translation:** Vocabulary: frustrates: 使沮丧
+
+**[3986.28s] English:** This is the most frustrating but also the most intriguing moment regarding AI.  
+**Translation:** 
+
+**[3991.52s] English:** This is the black box.  
+**Translation:** Vocabulary: frustrating: 令人沮丧; intriguing: 引人入胜
+
+**[3993.04s] English:** It seems that Karpaty said we don't know how it works.  
+**Translation:** 
+
+**[3998.06s] English:** She is doing something, but nobody really knows why.  
+**Translation:** 
+
+**[4001.12s] English:** We cannot peek inside the LLM.  
+**Translation:** 
+
+**[4004.42s] English:** We simply know that it is a three-dimensional matrix of numbers.  
+**Translation:** 
+
+**[4010.96s] English:** This is very disappointing, as some things that were supposed to improve the situation,  
+**Translation:** 
+
+**[4016.28s] English:** It makes it worse, and you can tweak a lot of parameters.  
+**Translation:** Vocabulary: tweak: 微调
+
+**[4019.56s] English:** And you test everything to improve the situation.  
+**Translation:** 
+
+**[4024.16s] English:** There is a whole new area, mechanical interpretability,  
+**Translation:** Vocabulary: interpretability: 可解释性
+
+**[4028.04s] English:** Which tries to break everything down, understanding how it all works.  
+**Translation:** 
+
+**[4032.12s] English:** Here, on one side, are the data, and on the other, a consumer-oriented final product.  
+**Translation:** 
+
+**[4038.16s] English:** How can we make it generate something beautiful, interesting, and natural?  
+**Translation:** 
+
+**[4043.80s] English:** Yes.  
+**Translation:** 
+
+**[4044.44s] English:** And you are at the forefront of solving this task.  
+**Translation:** 
+
+**[4045.66s] English:** Yes.  
+**Translation:** Vocabulary: forefront: 最前沿
+
+**[4046.16s] English:** The task concerns a human face.  
+**Translation:** 
+
+**[4048.04s] English:** Yes.  
+**Translation:** 
+
+**[4048.54s] English:** People very much value human faces.  
+**Translation:** 
+
+**[4050.54s] English:** They, on the other hand, are very vain.  
+**Translation:** 
+
+**[4052.08s] English:** I want to look good on your podcast, of course.  
+**Translation:** 
+
+**[4055.88s] English:** And here is what I would like to thoroughly test in Photo.II.  
+**Translation:** Vocabulary: thoroughly: 仔细地
+
+**[4063.12s] English:** I make portraits of people for previews, I don't share photos.  
+**Translation:** 
+
+**[4068.12s] English:** I mainly use your approach to photography, Google.  
+**Translation:** 
+
+**[4072.28s] English:** How do you photograph?  
+**Translation:** 
+
+**[4073.54s] English:** Yes.  
+**Translation:** 
+
+**[4074.04s] English:** Iye, possibly, there are many of them now.  
+**Translation:** 
+
+**[4075.96s] English:** Yes.  
+**Translation:** 
+
+**[4076.96s] English:** Let's talk about photography.  
+**Translation:** 
+
+**[4077.96s] English:** Nu, ladno, how do we do this?  
+**Translation:** 
+
+**[4078.96s] English:** Possible that someone among you might refuse the wonderful  
+**Translation:** 
+
+**[4079.96s] English:** Photos.  
+**Translation:** 
+
+**[4080.00s] English:** You can also tell about it, but the photographers...  
+**Translation:** 
+
+**[4080.96s] English:** Nu, I, for example, am loved by an actor.  
+**Translation:** 
+
+**[4083.38s] English:** Without offense, Danny.  
+**Translation:** 
+
+**[4085.26s] English:** True artists - great photographers.  
+**Translation:** Vocabulary: offense: 冒犯
+
+**[4085.96s] English:** So, I won't be contrary.  
+**Translation:** 
+
+**[4087.92s] English:** But people take themselves too seriously.  
+**Translation:** 
+
+**[4091.32s] English:** They think that a lot of equipment is needed.  
+**Translation:** 
+
+**[4091.36s] English:** When you check the photo, you will just understand it.  
+**Translation:** 
+
+**[4094.22s] English:** One source of light is definitely not enough.  
+**Translation:** 
+
+**[4094.76s] English:** When you check, you will see that it has immediately changed.  
+**Translation:** 
+
+**[4096.60s] English:** Need five.  
+**Translation:** 
+
+**[4097.46s] English:** Guy, I know.  
+**Translation:** 
+
+**[4098.24s] English:** And we need various objectives.  
+**Translation:** 
+
+**[4099.92s] English:** Your life.  
+**Translation:** Vocabulary: objectives: 目标
+
+**[4100.92s] English:** Then you can all smile.  
+**Translation:** 
+
+**[4102.42s] English:** So, don't be afraid.  
+**Translation:** 
+
+**[4103.02s] English:** I talked with a guy, an expert,  
+**Translation:** 
+
+**[4107.76s] English:** For setting up sound in the room.  
+**Translation:** 
+
+**[4110.42s] English:** Do you understand?  
+**Translation:** 
+
+**[4111.48s] English:** Well, I thought, since I'm setting up a podcast studio,  
+**Translation:** 
+
+**[4115.48s] English:** We need to do soundproofing in the room.  
+**Translation:** 
+
+**[4119.64s] English:** When he came in and analyzed the room,  
+**Translation:** Vocabulary: soundproofing: 隔音
+
+**[4123.44s] English:** He decided that I was doing everything wrong.  
+**Translation:** 
+
+**[4125.66s] English:** Then I understood,  
+**Translation:** 
+
+**[4128.26s] English:** I don't need experts in my life.  
+**Translation:** 
+
+**[4130.38s] English:** Did you kick him out?  
+**Translation:** 
+
+**[4132.20s] English:** No, I didn't post it.  
+**Translation:** 
+
+**[4133.22s] English:** I said a big thank you.  
+**Translation:** 
+
+**[4134.56s] English:** Great advice. See you later.  
+**Translation:** 
+
+**[4135.92s] English:** I just felt that...  
+**Translation:** 
+
+**[4140.00s] English:** Focus on the problems, rely on your own judgments and instincts.  
+**Translation:** 
+
+**[4144.48s] English:** Do not listen to others.  
+**Translation:** Vocabulary: instincts: 直觉; judgments: 判断
+
+**[4146.04s] English:** Consult others only when you have a specific problem.  
+**Translation:** 
+
+**[4149.30s] English:** You advise not in order to shift the problem onto them,  
+**Translation:** Vocabulary: consult: 寻求建议
+
+**[4153.50s] English:** To obtain their wisdom from their experience.  
+**Translation:** 
+
+**[4156.04s] English:** Even if you disagree with their viewpoint, you will still gain valuable experience.  
+**Translation:** Vocabulary: viewpoint: 观点
+
+**[4159.68s] English:** In the end, I came to a solution as from PHP.  
+**Translation:** 
+
+**[4163.58s] English:** PHP, Jay Que.  
+**Translation:** 
+
+**[4164.82s] English:** PHP Studio.  
+**Translation:** 
+
+**[4165.94s] English:** PHP Studio.  
+**Translation:** 
+
+**[4167.18s] English:** Put on the suit.  
+**Translation:** 
+
+**[4168.54s] English:** I used...  
+**Translation:** 
+
+**[4169.48s] English:** I'm using just basic consumer items, one light source, and that's great.  
+**Translation:** 
+
+**[4176.48s] English:** Yes, and you have one of the top podcasts in the world, millions of views, and everything is working.  
+**Translation:** 
+
+**[4181.48s] English:** People who spend a lot of money on optimization, for the best sound, in the best studio, only get around 300 views.  
+**Translation:** 
+
+**[4187.48s] English:** What's the matter?  
+**Translation:** Vocabulary: optimization: 优化
+
+**[4188.48s] English:** The thing is, either you do everything very well, or these things aren't important.  
+**Translation:** 
+
+**[4193.48s] English:** Important, I suppose, is the content of the podcast.  
+**Translation:** 
+
+**[4196.48s] English:** You have interesting guests.  
+**Translation:** 
+
+**[4197.48s] English:** Focus on what is important.  
+**Translation:** 
+
+**[4198.48s] English:** I think this is not important.  
+**Translation:** 
+
+**[4199.48s] English:** This is not rare.  
+**Translation:** 
+
+**[4200.00s] English:** It is called the Equipment Acquisition Syndrome.  
+**Translation:** 
+
+**[4202.90s] English:** People in any industry suffer from this, buying everything under the sun.  
+**Translation:** Vocabulary: acquisition: 购买行为
+
+**[4206.72s] English:** Recently, there was a meme about someone who buys all the equipment before starting their hobby.  
+**Translation:** 
+
+**[4213.10s] English:** This is all marketing; he makes people buy.  
+**Translation:** 
+
+**[4216.24s] English:** Yes.  
+**Translation:** 
+
+**[4216.58s] English:** But, damn, you can shoot a Hollywood-quality film with an iPhone if the content is good enough.  
+**Translation:** 
+
+**[4225.16s] English:** Moreover, it will be original since you're filming with your iPhone, understand?  
+**Translation:** 
+
+**[4229.02s] English:** So...  
+**Translation:** 
+
+**[4230.06s] English:** By the way, here's why I brought up this question with a photograph.  
+**Translation:** 
+
+**[4234.98s] English:** People share wisdom, and I realized that you probably have too.  
+**Translation:** 
+
+**[4241.52s] English:** This is how much the role of light can influence the conveyance of emotions.  
+**Translation:** 
+
+**[4246.96s] English:** Just take one light source and move it around.  
+**Translation:** Vocabulary: conveyance: 传达
+
+**[4250.08s] English:** You sit in the darkness and move it around your face.  
+**Translation:** 
+
+**[4252.76s] English:** Different positions, or even a second light source, allow you to play with a person's sensations.  
+**Translation:** Vocabulary: sensations: 感觉
+
+**[4257.84s] English:** This is just the face.  
+**Translation:** 
+
+**[4259.02s] English:** Yes, yes, yes.  
+**Translation:** 
+
+**[4259.48s] English:** This is interesting.  
+**Translation:** 
+
+**[4260.28s] English:** You can make people attractive, ugly, scared, lonely, and all that.  
+**Translation:** 
+
+**[4266.26s] English:** And you begin to understand this.  
+**Translation:** 
+
+**[4269.26s] English:** I would really like for AI to help in creating great portraits of people.  
+**Translation:** 
+
+**[4276.14s] English:** Photos of the guests, yes?  
+**Translation:** 
+
+**[4277.26s] English:** Yes, photo of guests.  
+**Translation:** 
+
+**[4278.64s] English:** This is a small example of usage, but for me,...  
+**Translation:** 
+
+**[4282.68s] English:** I think this is an important example because I want people to look good.  
+**Translation:** 
+
+**[4287.42s] English:** But still capture...  
+**Translation:** 
+
+**[4289.02s] English:** Who are they?  
+**Translation:** 
+
+**[4290.30s] English:** May be, my conception of who they are and what makes them beautiful?  
+**Translation:** 
+
+**[4293.90s] English:** Yes.  
+**Translation:** Vocabulary: conception: 观念
+
+**[4294.62s] English:** How powerful their outer appearance is.  
+**Translation:** 
+
+**[4296.32s] English:** Sometimes it's eyes, very often it's eyes.  
+**Translation:** 
+
+**[4299.22s] English:** But certain facial features sometimes may also embody power.  
+**Translation:** 
+
+**[4302.72s] English:** I feel a bit awkward taking these photos, though I don't take many photos for myself like these.  
+**Translation:** Vocabulary: embody: 体现; facial: 面部
+
+**[4313.98s] English:** If I could transfer this to AI and then start playing with light and all of this,  
+**Translation:** 
+
+**[4318.32s] English:** Yes.  
+**Translation:** 
+
+**[4318.82s] English:** It is like that everywhere.  
+**Translation:** 
+
+**[4320.00s] English:** To engage in it, and especially to do it yourself, you can use photo-IA, but it's more interesting if you make it yourself.  
+**Translation:** 
+
+**[4324.12s] English:** So you are training a model.  
+**Translation:** 
+
+**[4325.76s] English:** You can find out about Control.net.  
+**Translation:** 
+
+**[4328.38s] English:** Photos for the podcast are usually taken at a specific angle.  
+**Translation:** 
+
+**[4331.46s] English:** So you can create a face template with Control.NET,  
+**Translation:** Vocabulary: template: 模版
+
+**[4335.66s] English:** And every model and photograph you generate will use this template.  
+**Translation:** 
+
+**[4340.54s] English:** I think you would find this interesting to try.  
+**Translation:** 
+
+**[4342.66s] English:** Are you playing with light? With pose as well?  
+**Translation:** 
+
+**[4345.68s] English:** Guy, last week or so, a new model came out.  
+**Translation:** 
+
+**[4350.00s] English:** Which can regulate light on any photo, even images created with Stable Diffusion.  
+**Translation:** 
+
+**[4355.14s] English:** It seems to be called Relights.  
+**Translation:** Vocabulary: diffusion: 扩散; regulate: 调节; relights: 重新照明
+
+**[4356.62s] English:** She, you can probably load a lighting map, red, purple, blue.  
+**Translation:** 
+
+**[4366.26s] English:** And use it to change the light in a photo.  
+**Translation:** 
+
+**[4370.24s] English:** Just amazing.  
+**Translation:** 
+
+**[4371.38s] English:** Here is where you can stretch your legs.  
+**Translation:** 
+
+**[4373.84s] English:** What would you generally advise people?  
+**Translation:** 
+
+**[4377.62s] English:** How to study all these modern tools,  
+**Translation:** 
+
+**[4380.00s] English:** You said that new models keep coming out constantly.  
+**Translation:** 
+
+**[4382.88s] English:** Yes.  
+**Translation:** 
+
+**[4383.38s] English:** How do you keep track of all this?  
+**Translation:** 
+
+**[4386.38s] English:** How do you stay informed about everything?  
+**Translation:** 
+
+**[4388.38s] English:** I think we should subscribe to Excel.  
+**Translation:** 
+
+**[4390.38s] English:** Ex is simply bomb right now, and the entire AI industry is sitting on it.  
+**Translation:** Vocabulary: subscribe: 订阅
+
+**[4394.38s] English:** And all of them have anime avatars.  
+**Translation:** 
+
+**[4396.38s] English:** So...  
+**Translation:** Vocabulary: anime: 动画; avatars: 化身
+
+**[4397.38s] English:** This is funny, friends constantly ask me who to follow to be in the know.  
+**Translation:** 
+
+**[4401.38s] English:** I say, go to Ex and subscribe to all these AI-anime-models that the particular person is subscribed to.  
+**Translation:** Vocabulary: subscribed: 订阅
+
+**[4407.38s] English:** I send them a link, and they laugh, like, what is this?  
+**Translation:** 
+
+**[4410.00s] English:** But these are real people who are digging into AI.  
+**Translation:** 
+
+**[4413.00s] English:** They are hired by large companies, they sit in Ex.  
+**Translation:** 
+
+**[4416.00s] English:** And most of them are anonymous.  
+**Translation:** 
+
+**[4418.00s] English:** Very amusing.  
+**Translation:** 
+
+**[4419.00s] English:** They use anime avatars, but I don't.  
+**Translation:** 
+
+**[4423.00s] English:** But these guys dig into the code, and then publish their findings, discuss articles, for example.  
+**Translation:** 
+
+**[4429.00s] English:** So, yes, definitely Ex.  
+**Translation:** 
+
+**[4431.00s] English:** Excellent. Almost all of those I'm following are related to AI.  
+**Translation:** 
+
+**[4435.00s] English:** Yes. Now is good time.  
+**Translation:** 
+
+**[4437.00s] English:** In addition, this...  
+**Translation:** 
+
+**[4440.00s] English:** And this also delights my soul because there's so much noise on Twitter.  
+**Translation:** Vocabulary: delights: 使愉快
+
+**[4446.06s] English:** Yes, politics and all that.  
+**Translation:** 
+
+**[4447.58s] English:** There are real battles going on there, like in war.  
+**Translation:** 
+
+**[4450.04s] English:** It's nice just to go into this happy haven where people are creating something.  
+**Translation:** 
+
+**[4454.72s] English:** Yes, for sure. For this reason, I love Twitter the most.  
+**Translation:** 
+
+**[4458.50s] English:** Because it inspires you to create.  
+**Translation:** 
+
+**[4462.08s] English:** It's simply pleasant to see how others share their discoveries.  
+**Translation:** Vocabulary: inspires: 激励
+
+**[4465.76s] English:** And you do that, I'll do something too. This is really cool.  
+**Translation:** 
+
+**[4468.48s] English:** When you want to start, go into X.  
+**Translation:** 
+
+**[4470.92s] English:** Then on your reply, try playing around with the models.  
+**Translation:** 
+
+**[4474.92s] English:** When you finally get something working where you manually input data and set the parameters,  
+**Translation:** 
+
+**[4480.36s] English:** From this, an application or website can be created.  
+**Translation:** 
+
+**[4482.98s] English:** Can you elaborate on how AI photography became better and better?  
+**Translation:** Vocabulary: elaborate: 详细说明
+
+**[4487.98s] English:** So, I had this photo AI that generated around a million photos per month.  
+**Translation:** 
+
+**[4493.18s] English:** I discovered that I was testing parameters, for example, increasing the quantity,  
+**Translation:** 
+
+**[4498.48s] English:** The number of generation steps for photos, or changing the sampler, like a planner.  
+**Translation:** 
+
+**[4501.98s] English:** Keep the same DPM2K, which are a few things I don't know about, but you can choose them for generating photos, and they give different results.  
+**Translation:** Vocabulary: sampler: 采样器
+
+**[4509.28s] English:** But I didn't know which of them was better, so I tested them all myself.  
+**Translation:** 
+
+**[4512.88s] English:** But then I thought, why not test on users, since I'm generating a million photos anyway.  
+**Translation:** 
+
+**[4520.08s] English:** I randomly selected 10% of users and observed whether they would add photos to their favorites or download them.  
+**Translation:** 
+
+**[4527.96s] English:** He conducted an A/B test, checked for statistical significance, and determined which parameters were better and which were worse.  
+**Translation:** 
+
+**[4537.46s] English:** So you began to understand which models work well.  
+**Translation:** 
+
+**[4540.46s] English:** Yes, and if there is enough data, you switch to it for all users.  
+**Translation:** 
+
+**[4545.46s] English:** This was a breakthrough in using user feedback to improve the product.  
+**Translation:** 
+
+**[4549.96s] English:** During registration, I inform that we are conducting a sampling and testing random parameters.  
+**Translation:** Vocabulary: conducting: 进行
+
+**[4554.46s] English:** It worked perfectly. I no longer need to conduct many tests because up until now, I haven't been doing many tests.  
+**Translation:** 
+
+**[4557.96s] English:** But I think that I will be able to reach the point of diminishing returns.  
+**Translation:** Vocabulary: diminishing: 递减的
+
+**[4560.00s] English:** But, yes, it was a breakthrough.  
+**Translation:** 
+
+**[4563.00s] English:** So, it boils down to parameters, models, and having users help find the optimal combination of models and parameters.  
+**Translation:** Vocabulary: optimal: 最佳的
+
+**[4572.00s] English:** Here's what's interesting, I used Stable Diffusion 1.5, then versions 2.0 and Excel came out, along with all these new versions.  
+**Translation:** 
+
+**[4580.00s] English:** And they are all worse.  
+**Translation:** Vocabulary: diffusion: 扩散
+
+**[4582.00s] English:** Therefore, most people still use 1.5 because it hasn't been neutered to make it super safe and all that.  
+**Translation:** 
+
+**[4591.00s] English:** So, most people are still using Stable Diffusion 1.5.  
+**Translation:** Vocabulary: neutered: 去势的
+
+**[4597.00s] English:** Meanwhile, in the company, the CEO has left, and there's a whole drama going on.  
+**Translation:** 
+
+**[4603.00s] English:** They were unable to earn money.  
+**Translation:** 
+
+**[4605.00s] English:** And yes, it is very interesting; they gave us this open-source model that everyone uses.  
+**Translation:** 
+
+**[4612.00s] English:** They raised hundreds of millions of dollars and didn't earn a single penny.  
+**Translation:** 
+
+**[4617.00s] English:** They did this amazing work, and now everyone is using it for free.  
+**Translation:** 
+
+**[4621.00s] English:** This is incredible, simply amazing.  
+**Translation:** 
+
+**[4624.00s] English:** You are not using the latest version.  
+**Translation:** 
+
+**[4626.00s] English:** The most strange thing is that the company attracted hundreds of millions, but only a few won.  
+**Translation:** 
+
+**[4631.00s] English:** Such as me, who makes small applications using this model.  
+**Translation:** 
+
+**[4634.00s] English:** They now charge money for the new models, but they are not that good.  
+**Translation:** 
+
+**[4639.00s] English:** They are not on open source.  
+**Translation:** 
+
+**[4641.00s] English:** Yes, interesting.  
+**Translation:** 
+
+**[4642.00s] English:** Because open-source has a strong influence in the field of AI.  
+**Translation:** 
+
+**[4645.00s] English:** What's the business model here?  
+**Translation:** 
+
+**[4647.00s] English:** But this gives the opportunity for an entire ecosystem of companies to develop.  
+**Translation:** 
+
+**[4651.00s] English:** Yes, yes.  
+**Translation:** 
+
+**[4652.00s] English:** Using such models.  
+**Translation:** 
+
+**[4654.00s] English:** This is like with frameworks, but they haven't hired enough influencers to use them.  
+**Translation:** Vocabulary: influencers: 有影响力的人
+
+**[4659.00s] English:** And they don't charge for the platform.  
+**Translation:** 
+
+**[4662.00s] English:** Let's return to your book and ideas.  
+**Translation:** 
+
+**[4665.00s] English:** We didn't even make it to the first step.  
+**Translation:** 
+
+**[4668.00s] English:** Idea Generation.  
+**Translation:** 
+
+**[4670.00s] English:** So, you write them in the notebook.  
+**Translation:** 
+
+**[4671.00s] English:** How do you understand that an idea is good?  
+**Translation:** 
+
+**[4674.00s] English:** You've got a stream of ideas.  
+**Translation:** 
+
+**[4678.00s] English:** How do you choose the simpler one?  
+**Translation:** 
+
+**[4680.00s] English:** Do you try to implement it?  
+**Translation:** 
+
+**[4681.14s] English:** Yes, for the most part, no.  
+**Translation:** 
+
+**[4682.60s] English:** Mostly, I choose those that are easier to implement.  
+**Translation:** 
+
+**[4685.44s] English:** I just can't create a space company right now, but I can...  
+**Translation:** Vocabulary: implement: 执行
+
+**[4689.48s] English:** Did you really record such an idea?  
+**Translation:** 
+
+**[4691.70s] English:** No, but I think asteroid mining is pretty cool.  
+**Translation:** Vocabulary: asteroid: 小行星
+
+**[4694.36s] English:** You fly to an asteroid, mine there, bring it back, and sell it—pretty much.  
+**Translation:** 
+
+**[4700.54s] English:** And we can hire someone to run it.  
+**Translation:** 
+
+**[4703.48s] English:** Robots can fly to asteroids.  
+**Translation:** 
+
+**[4706.28s] English:** Robotics is interesting, I also want to study it.  
+**Translation:** Vocabulary: asteroids: 小行星; robotics: 机器人学
+
+**[4709.34s] English:** May be, this is it?  
+**Translation:** 
+
+**[4710.88s] English:** I think asteroid development and robotics,...  
+**Translation:** 
+
+**[4713.50s] English:** Yes, yes, jointly.  
+**Translation:** 
+
+**[4718.34s] English:** It seems to me.  
+**Translation:** Vocabulary: jointly: 共同地
+
+**[4719.60s] English:** Yes, exactly, here it is.  
+**Translation:** 
+
+**[4721.30s] English:** We do this not because it is easy, but because we thought it would be easy.  
+**Translation:** 
+
+**[4725.96s] English:** Exactly, this is about asteroid mining.  
+**Translation:** 
+
+**[4729.36s] English:** To the point.  
+**Translation:** 
+
+**[4730.50s] English:** Here's why I have to do this.  
+**Translation:** 
+
+**[4731.92s] English:** This is not like Nomad List.com.  
+**Translation:** 
+
+**[4733.58s] English:** No, not that, but...  
+**Translation:** 
+
+**[4734.32s] English:** This is asteroid mining.  
+**Translation:** 
+
+**[4735.64s] English:** It will be very difficult to overcome gravity.  
+**Translation:** 
+
+**[4739.34s] English:** Yes, but it seems like a total idiot, I'm probably saying, but this does sound quite feasible, no need to build a rocket.  
+**Translation:** Vocabulary: feasible: 可行的; gravity: 重力
+
+**[4746.02s] English:** Can we contact SpaceX?  
+**Translation:** 
+
+**[4748.06s] English:** Yes, to send your robotic dog there by hiring SpaceX.  
+**Translation:** Vocabulary: robotic: 类人型的
+
+**[4752.10s] English:** Do you have a notebook where you wrote "Asteroid Mining"?  
+**Translation:** 
+
+**[4755.10s] English:** No, then I used Trello.  
 **Translation:** 
 
 **[4756.76s] English:** Trello.  
 **Translation:** 
 
-**[4757.36s] English:** Да, но сейчас я пользуюсь Telegram.  
+**[4757.36s] English:** Yes, but now I'm using Telegram.  
 **Translation:** 
 
-**[4759.78s] English:** Просто сохраняю сообщения.  
+**[4759.78s] English:** Just saving messages.  
 **Translation:** 
 
-**[4761.76s] English:** Приходит идея, я записываю.  
+**[4761.76s] English:** I come up with an idea, I record it.  
 **Translation:** 
 
-**[4762.64s] English:** Пишешь сам себе в Telegram?  
+**[4762.64s] English:** Do you write to yourself in Telegram?  
 **Translation:** 
 
-**[4763.94s] English:** Ты пользуешься WhatsApp, да?  
+**[4763.94s] English:** You use WhatsApp, do you?  
 **Translation:** 
 
-**[4765.96s] English:** Там вроде есть сообщение самому себе.  
+**[4765.96s] English:** There seems to be a message to oneself there.  
 **Translation:** 
 
-**[4768.54s] English:** Ты говоришь?  
+**[4768.54s] English:** You speak?  
+**Translation:** Vocabulary: oneself: 自己
+
+**[4769.34s] English:** You are talking to yourself.  
 **Translation:** 
 
-**[4769.34s] English:** Ты говоришь сам с собой.  
+**[4770.36s] English:** Yes, as a notebook, and then anchor it to avoid forgetting.  
+**Translation:** Vocabulary: anchor: 固定
+
+**[4773.56s] English:** I like that you're not using any super complex systems.  
 **Translation:** 
 
-**[4770.36s] English:** Да, как блокнот, а потом закрепляешь, чтобы не забыть.  
-**Translation:** 
-
-**[4773.56s] English:** Мне нравится, что ты не используешь какие-то суперсложные системы.  
-**Translation:** 
-
-**[4778.18s] English:** Люди сейчас используют Obsidian,  
+**[4778.18s] English:** People are currently using Obsidian,  
 **Translation:** Vocabulary: obsidian: 火山玻璃
 
-**[4781.32s] English:** Notion, где у тебя целые системы для заметок,  
+**[4781.32s] English:** Notion, where do you keep your entire note systems?  
 **Translation:** 
 
-**[4784.28s] English:** а ты, парень с блокнотом, используешь Notepad.exe.  
+**[4784.28s] English:** Do you, the guy with the notebook, use Notepad.exe?  
 **Translation:** Vocabulary: notepad: 记事本
 
-**[4788.86s] English:** Да, я видел, как некоторые ютуберы так делают.  
+**[4788.86s] English:** Yes, I have seen how some YouTubers do it.  
 **Translation:** 
 
-**[4792.20s] English:** Куча всяких гуру продуктивности сидят такие с iPad и карандашом.  
-**Translation:** 
+**[4792.20s] English:** A bunch of productivity gurus sit there with iPads and styluses.  
+**Translation:** Vocabulary: gurus: 导师; styluses: 触控笔
 
-**[4796.16s] English:** У меня тоже был iPad и карандаш себе купил,  
+**[4796.16s] English:** I also had an iPad, and I bought a stylus for it.  
 **Translation:** 
 
-**[4799.34s] English:** приложение.  
-**Translation:** 
+**[4799.34s] English:** Application.  
+**Translation:** Vocabulary: stylus: 触控笔
 
-**[4800.00s] English:** где можно, типа, по бумаге рисовать, как в школе.  
+**[4800.00s] English:** Where can we draw on paper, like in school?  
 **Translation:** 
 
-**[4805.06s] English:** Раскрашиваешь там, все такое.  
+**[4805.06s] English:** You color it there, everything like that.  
 **Translation:** 
 
-**[4807.70s] English:** Я с этим неделю провозился, и я такой, да что же я делаю,  
+**[4807.70s] English:** I've been struggling with this for a week, and I'm just wondering what to do.  
 **Translation:** 
 
-**[4810.38s] English:** могу же просто сам себе сообщение писать, и этого будет достаточно.  
+**[4810.38s] English:** I can just write a message to myself, and that will be enough.  
 **Translation:** 
 
-**[4814.64s] English:** Кстати, об идеях.  
+**[4814.64s] English:** By the way, about ideas.  
 **Translation:** 
 
-**[4815.88s] English:** Ты твитнул, почему первая идея иногда может быть гениальной.  
+**[4815.88s] English:** You tweeted why the first idea sometimes can be genius.  
 **Translation:** 
 
-**[4819.90s] English:** Ты считаешь, что она всплывает из-под сознания,  
+**[4819.90s] English:** You think that it rises from the subconscious,  
 **Translation:** 
 
-**[4822.46s] English:** потому что варилась там неделями, месяцами, а то и годами в фоновом режиме.  
-**Translation:** 
+**[4822.46s] English:** Because it simmered there for weeks, months, or even years in the background.  
+**Translation:** Vocabulary: simmered: 久煮; subconscious: 潜意识
 
-**[4827.70s] English:** Восемь часов раздумий не сравнятся с вечной фоновой работой подсознания.  
+**[4827.70s] English:** Eight hours of deliberation cannot compare to the eternal background work of the subconscious.  
 **Translation:** 
 
-**[4832.70s] English:** То есть ты как бы сравниваешь восьмичасовое размышление с тем, что первое приходит в голову.  
+**[4832.70s] English:** So you're comparing an eight-hour contemplation with whatever comes to mind first.  
 **Translation:** 
 
-**[4838.74s] English:** Да.  
+**[4838.74s] English:** Yes.  
 **Translation:** 
 
-**[4839.04s] English:** Иногда это что-то из подсознания, то, над чем ты, может, годами думал.  
+**[4839.04s] English:** Sometimes it's something from the subconscious, something you might have thought about for years.  
 **Translation:** 
 
-**[4845.00s] English:** Очень интересно.  
+**[4845.00s] English:** Very interesting.  
 **Translation:** 
 
-**[4846.04s] English:** Да, типа появляется, я неправильно сказал, английский неродной.  
+**[4846.04s] English:** Yes, it appears, I said that incorrectly; English is a foreign language.  
 **Translation:** 
 
-**[4849.70s] English:** Это типа она всплывает из подсознания, как из-под воды.  
+**[4849.70s] English:** This is like she surfaces from subconsciousness, as if from under water.  
 **Translation:** 
 
-**[4853.92s] English:** Подсознание, оно кипит.  
-**Translation:** 
+**[4853.92s] English:** Subconscious, it's boiling.  
+**Translation:** Vocabulary: boiling: 沸腾; subconsciousness: 潜意识
 
-**[4856.24s] English:** А когда готово, день.  
+**[4856.24s] English:** When it's ready, it will be a day.  
 **Translation:** 
 
-**[4857.70s] English:** Как из микроволновки.  
-**Translation:** 
+**[4857.70s] English:** How from the microwave.  
+**Translation:** Vocabulary: microwave: 微波炉
 
-**[4859.58s] English:** И вот тебе идея.  
+**[4859.58s] English:** And here's an idea.  
 **Translation:** 
 
-**[4861.12s] English:** Думаешь, у тебя бывают такие?  
+**[4861.12s] English:** Do you think you ever have days like that?  
 **Translation:** 
 
-**[4862.60s] English:** Да, постоянно, сто процентов.  
+**[4862.60s] English:** Yes, constantly, one hundred percent.  
 **Translation:** 
 
-**[4864.04s] English:** Они как бы уже там были.  
+**[4864.04s] English:** They as if were already there.  
 **Translation:** 
 
-**[4865.70s] English:** Да.  
+**[4865.70s] English:** Yes.  
 **Translation:** 
 
-**[4866.36s] English:** Да.  
+**[4866.36s] English:** Yes.  
 **Translation:** 
 
-**[4866.70s] English:** И еще она всплывает, а я ее обратно, как на кухню отправляю, варить еще.  
+**[4866.70s] English:** And she pops up again, and I send her back to the kitchen to be cooked some more.  
 **Translation:** 
 
-**[4871.42s] English:** Еще не готова.  
+**[4871.42s] English:** Not ready yet.  
 **Translation:** 
 
-**[4872.78s] English:** Да.  
+**[4872.78s] English:** Yes.  
 **Translation:** 
 
-**[4873.38s] English:** Варится такой себе суп из идеи, так мой мозг работает, как и у многих.  
+**[4873.38s] English:** Varies such a soup from an idea, so my brain works as do many others.  
 **Translation:** 
 
-**[4878.56s] English:** Но тут еще и момент важен.  
+**[4878.56s] English:** But here, there's an additional important factor.  
 **Translation:** 
 
-**[4880.70s] English:** Порою отправляешь ее обратно, потому что не готов мир, а не ты.  
+**[4880.70s] English:** Sometimes you send her back because the world is not ready, not you.  
 **Translation:** 
 
-**[4884.56s] English:** Да, часто стартаперы опережают время.  
+**[4884.56s] English:** Yes, often startups exceed expectations in terms of timing.  
 **Translation:** 
 
-**[4887.70s] English:** Со своими идеями.  
-**Translation:** 
+**[4887.70s] English:** With my ideas.  
+**Translation:** Vocabulary: exceed: 超过; startups: 初创公司; timing: 时间安排
 
-**[4888.98s] English:** Сто процентов.  
+**[4888.98s] English:** One hundred percent.  
 **Translation:** 
 
-**[4890.10s] English:** С робототехникой так часто бывает.  
-**Translation:** 
+**[4890.10s] English:** With robotics, it often happens.  
+**Translation:** Vocabulary: robotics: 机器人技术
 
-**[4892.86s] English:** Много компаний прогорело.  
+**[4892.86s] English:** Many companies have gone bankrupt.  
 **Translation:** 
 
-**[4895.28s] English:** Ага.  
-**Translation:** 
+**[4895.28s] English:** Agreed.  
+**Translation:** Vocabulary: bankrupt: 破产
 
-**[4895.76s] English:** Из-за производства и стоимости.  
+**[4895.76s] English:** Due to production and cost.  
 **Translation:** 
 
-**[4897.90s] English:** Сложно создать робототехническую компанию и заработать.  
+**[4897.90s] English:** It's difficult to create a robotics company and make money.  
 **Translation:** 
 
-**[4901.64s] English:** Интеллекта робота недостаточно.  
+**[4901.64s] English:** The robot's intelligence is insufficient.  
 **Translation:** 
 
-**[4903.36s] English:** Он не настолько продвинутый, чтобы продукт был привлекательным и можно было заработать.  
-**Translation:** 
+**[4903.36s] English:** He is not advanced enough for the product to be attractive and profitable.  
+**Translation:** Vocabulary: insufficient: 不够的; profitable: 有利可图的
 
-**[4909.04s] English:** Целая череда робототехнических компаний пытались, мечтали, но провалились.  
+**[4909.04s] English:** A whole series of robotics companies tried and dreamed, but failed.  
 **Translation:** 
 
-**[4913.84s] English:** Да, как Boston Dynamics.  
+**[4913.84s] English:** Yes, like Boston Dynamics.  
 **Translation:** 
 
-**[4915.56s] English:** Не знаю, чем они занимаются, но вечно вижу их в лике.  
+**[4915.56s] English:** I do not know what they are engaged in, but I see them in pairs constantly.  
 **Translation:** 
 
-**[4917.66s] English:** Да.  
+**[4917.66s] English:** Yes.  
 **Translation:** 
 
-**[4917.70s] English:** На YouTube это круто.  
+**[4917.70s] English:** On YouTube, this is awesome.  
 **Translation:** 
 
-**[4919.20s] English:** Но у многих...  
+**[4919.20s] English:** But for many...  
 **Translation:** 
 
-**[4920.00s] English:** таких компаний нет. Это как решение в поисках проблемы. Военные, понятно, этим пользуются.  
+**[4920.00s] English:** Such companies don't exist. This is like a solution in search of a problem. As you can imagine, the military uses this.  
 **Translation:** 
 
-**[4925.94s] English:** Но нужна ли мне дома робо-собака? Не знаю, прикольно, но пока ничего не решает. То же  
-**Translation:** 
+**[4925.94s] English:** But do I really need a robotic dog at home? I don't know; it's funny, but for now, nothing is decided.  
+**Translation:** Vocabulary: robotic: 类人机器的
 
-**[4933.64s] English:** самое с VR, типа Apple Vision Pro, очень круто, но мне это пока ничего не решает. Это концепция  
+**[4933.64s] English:** The most exciting thing with VR, like the Apple Vision Pro, is really cool, but it doesn't solve anything for me right now. It's more of a concept.  
 **Translation:** 
 
-**[4940.62s] English:** технологии в поисках применения. Но однажды решат. Когда появился ПК и появился Mac,  
+**[4940.62s] English:** Technologies in search of application. But one day they will be resolved. When personal computers and Macs appeared,  
 **Translation:** 
 
-**[4946.50s] English:** случился большой переворот. Он каким-то образом захватил умы и приложения. Киллер-фичи стали  
+**[4946.50s] English:** A major revolution occurred. It somehow seized minds and apps. Killer features became  
 **Translation:** 
 
-**[4954.44s] English:** очевидны. Можно печатать. Но это сразу стало очевидно. Тогда тоже говорили, типа, нам не нужны  
+**[4954.44s] English:** Obvious. Can print. But it became immediately obvious. Then they also said, more or less, that we don't need  
 **Translation:** 
 
-**[4962.68s] English:** эти компьютеры. Это просто хайп. И это тоже шло. Да, но хайп это то, что позволило этому  
+**[4962.68s] English:** These computers. This is just a hype. And that also went through. Yes, but the hype is what allowed this to happen.  
 **Translation:** 
 
-**[4973.20s] English:** распространиться, и люди стали понемногу к этому привыкать.  
+**[4973.20s] English:** spread, and people gradually began to get used to it.  
 **Translation:** 
 
-**[4976.50s] English:** Да. Как и сейчас, например, с робототехникой. Очень мало роботов в домах людей.  
+**[4976.50s] English:** Yes. Just like with robotics right now, for example. Very few robots in people's homes.  
 **Translation:** 
 
-**[4982.68s] English:** Да, точно. Сейчас это по большей части роботы-пылесосы или голосовые ассистенты.  
-**Translation:** 
+**[4982.68s] English:** Yes, definitely. Nowadays, it's mostly robotic vacuum cleaners or voice assistants.  
+**Translation:** Vocabulary: robotics: 机器人技术
 
-**[4990.42s] English:** Или посудомойки. По сути, это робот. Да, но интеллекта там маловато.  
+**[4990.42s] English:** Or dishwashers. Essentially, they are robots. Yes, but there isn't much intelligence there.  
 **Translation:** 
 
-**[4995.46s] English:** Да. Думаю, так мы можем это обобщить.  
-**Translation:** 
+**[4995.46s] English:** Yes. I think we can generalize it that way.  
+**Translation:** Vocabulary: dishwashers: 洗碗机; generalize: 概括
 
-**[4997.62s] English:** За исключением ассистентов, которые довольно умны, но ограничены в способах взаимодействия с  
+**[4997.62s] English:** Except for the assistants, who are quite smart but limited in their interaction methods,  
 **Translation:** 
 
-**[5005.10s] English:** тобой. Да.  
+**[5005.10s] English:** By you. Yes.  
 **Translation:** 
 
-**[5005.94s] English:** Это...  
+**[5005.94s] English:** This...  
 **Translation:** 
 
-**[5006.44s] English:** Это всего лишь один пример. Да.  
+**[5006.44s] English:** This is merely one example. Yes.  
 **Translation:** 
 
-**[5009.76s] English:** Я иногда думаю об этом так. Некоторые люди в этом мире родились, чтобы создать что-то конкретное.  
+**[5009.76s] English:** I sometimes think about this. Some people in this world are born to create something specific.  
 **Translation:** 
 
-**[5020.96s] English:** Да. Я иногда задумываюсь, для чего я был рожден. У нас есть планы на жизнь, есть мечты.  
+**[5020.96s] English:** Yes. I sometimes wonder what I was born for. We have plans for our lives, we have dreams.  
 **Translation:** 
 
-**[5029.74s] English:** Думаю, ты рожден строить роботов. Лично я. Может быть, может быть.  
+**[5029.74s] English:** I think you're destined to build robots. Personally, maybe, maybe.  
 **Translation:** 
 
-**[5036.44s] English:** Это привычка, но это может быть что-то другое.  
-**Translation:** 
+**[5036.44s] English:** This is a habit, but it could be something else.  
+**Translation:** Vocabulary: destined: 注定的
 
-**[5040.46s] English:** Забавно, но, может быть, я создан для того, чтобы разговаривать с людьми.  
+**[5040.46s] English:** Funny, but maybe I was created to talk to people.  
 **Translation:** 
 
-**[5045.70s] English:** Да.  
+**[5045.70s] English:** Yes.  
 **Translation:** 
 
-**[5046.28s] English:** Что странно, ведь я вечно боялся разговаривать с людьми.  
+**[5046.28s] English:** What's strange, for I was always afraid to talk to people.  
 **Translation:** 
 
-**[5049.62s] English:** Правда?  
+**[5049.62s] English:** Is that true?  
 **Translation:** 
 
-**[5050.72s] English:** Да, я боюсь этого. Боюсь...  
+**[5050.72s] English:** Yes, I'm afraid of this. Afraid...  
 **Translation:** 
 
-**[5053.34s] English:** Да, точно.  
+**[5053.34s] English:** Yes, definitely.  
 **Translation:** 
 
-**[5054.18s] English:** Я тоже тебя боюсь.  
+**[5054.18s] English:** I also fear you.  
 **Translation:** 
 
-**[5055.80s] English:** Это просто тревога, социальное взаимодействие.  
+**[5055.80s] English:** This is just anxiety, social interaction.  
 **Translation:** 
 
-**[5058.76s] English:** Я интроверт, который прячется от мира.  
+**[5058.76s] English:** I am an introvert who hides from the world.  
 **Translation:** 
 
-**[5061.56s] English:** Это очень странно.  
-**Translation:** 
+**[5061.56s] English:** This is very strange.  
+**Translation:** Vocabulary: introvert: 内向的人
 
-**[5063.02s] English:** Да, но это тоже своего рода жизнь.  
+**[5063.02s] English:** Yes, but that's also a kind of life.  
 **Translation:** 
 
-**[5065.30s] English:** Очень трудно целенаправленно выбрать, чем будешь заниматься.  
-**Translation:** 
+**[5065.30s] English:** It's very difficult to deliberately choose what to do.  
+**Translation:** Vocabulary: deliberately: 故意地
 
-**[5071.46s] English:** Это как серфинг.  
+**[5071.46s] English:** This is like surfing.  
 **Translation:** 
 
-**[5073.04s] English:** Ты катаешься на волнах и смотришь, куда они тебя вынесут.  
+**[5073.04s] English:** You ride the waves and watch where they take you.  
 **Translation:** 
 
-**[5076.62s] English:** Понимаешь?  
+**[5076.62s] English:** Do you understand?  
 **Translation:** 
 
-**[5077.60s] English:** Да.  
+**[5077.60s] English:** Yes.  
 **Translation:** 
 
-**[5078.58s] English:** Да.  
+**[5078.58s] English:** Yes.  
 **Translation:** 
 
-**[5079.16s] English:** И у Вселенной есть чувство юмора.  
+**[5079.16s] English:** And the universe has a sense of humor.  
 **Translation:** 
 
-**[5081.46s] English:** Да.  
+**[5081.46s] English:** Yes.  
 **Translation:** 
 
-**[5082.86s] English:** Думаю, тебе просто нужно позволить волнам унести тебя.  
+**[5082.86s] English:** I think you just need to let the waves carry you.  
 **Translation:** 
 
-**[5086.42s] English:** Да, именно.  
+**[5086.42s] English:** Yes, exactly.  
 **Translation:** 
 
-**[5088.36s] English:** У тебя было такое чувство?  
+**[5088.36s] English:** Did you have that feeling?  
 **Translation:** 
 
-**[5090.14s] English:** Да, постоянно.  
+**[5090.14s] English:** Yes, constantly.  
 **Translation:** 
 
-**[5091.58s] English:** Думаю, это лучший способ прожить жизнь.  
+**[5091.58s] English:** I think this is the best way to live life.  
 **Translation:** 
 
-**[5094.00s] English:** Позволить всему случиться.  
+**[5094.00s] English:** Allow everything to happen.  
 **Translation:** 
 
-**[5095.72s] English:** Вот чем ты займешься в следующие два года.  
+**[5095.72s] English:** Here's what you'll be working on over the next two years.  
 **Translation:** 
 
-**[5097.98s] English:** Возможно ли, что для тебя все изменится?  
+**[5097.98s] English:** Is it possible that everything could change for you?  
 **Translation:** 
 
-**[5100.84s] English:** Возможно.  
+**[5100.84s] English:** Possible.  
 **Translation:** 
 
-**[5101.50s] English:** Наверное, отношения, ты же хочешь их сохранить, чтобы девушка стала женой, но...  
+**[5101.50s] English:** Probably, you want to keep the relationship so that the girl becomes your wife, but...  
 **Translation:** 
 
-**[5108.22s] English:** Думаю, тебе следует оставаться открытым, например, где ты хочешь жить.  
+**[5108.22s] English:** I think you should remain open about where you want to live, for example.  
 **Translation:** 
 
-**[5112.94s] English:** Мы этого не знаем.  
+**[5112.94s] English:** We do not know this.  
 **Translation:** 
 
-**[5115.44s] English:** Это выясняется само собой, кристаллизируется.  
-**Translation:** 
+**[5115.44s] English:** This becomes clear of itself, crystallizes.  
+**Translation:** Vocabulary: crystallizes: 变得清晰
 
-**[5118.90s] English:** Волны отправят тебя туда, где ты будешь жить.  
+**[5118.90s] English:** Waves will send you to where you will live.  
 **Translation:** 
 
-**[5121.66s] English:** Или чем ты будешь заниматься.  
+**[5121.66s] English:** Or what will you be doing.  
 **Translation:** 
 
-**[5124.22s] English:** Это хороший способ.  
+**[5124.22s] English:** This is a good way.  
 **Translation:** 
 
-**[5125.30s] English:** Прожить жизнь.  
+**[5125.30s] English:** To live a life.  
 **Translation:** 
 
-**[5126.34s] English:** Думаю, большая часть стресса возникает из-за попытки контролировать вещи.  
+**[5126.34s] English:** I think a big part of the stress comes from trying to control things.  
 **Translation:** 
 
-**[5131.56s] English:** Это своего рода буддизм.  
-**Translation:** 
+**[5131.56s] English:** This is a kind of Buddhism.  
+**Translation:** Vocabulary: buddhism: 佛教
 
-**[5132.94s] English:** Нужно потерять контроль, отпустить его, и все произойдет.  
+**[5132.94s] English:** We need to lose control, let it go, and everything will happen.  
 **Translation:** 
 
-**[5136.62s] English:** При приеме грибов или психоделиков, люди, помешанные на контроле, ловят бед трипы.  
-**Translation:** 
+**[5136.62s] English:** During the consumption of mushrooms or psychedelics, people obsessed with control catch bad trips.  
+**Translation:** Vocabulary: obsessed: 痴迷; psychedelics: 致幻剂
 
-**[5143.14s] English:** Ведь нужно отпустить.  
+**[5143.14s] English:** It needs to be let go.  
 **Translation:** 
 
-**[5144.42s] English:** И я и сам помешан на контроле.  
+**[5144.42s] English:** I and I am obsessed with control.  
 **Translation:** 
 
-**[5146.96s] English:** Когда я принимал грибы в 17 лет, то под конец было не очень, ведь я пытался контролировать.  
+**[5146.96s] English:** When I took mushrooms at 17, towards the end it wasn't very good because I was trying to control it.  
 **Translation:** 
 
-**[5152.72s] English:** Типа, это перебор, давай остановимся.  
+**[5152.72s] English:** Type, that's a bit much, let's stop there.  
 **Translation:** 
 
-**[5154.72s] English:** Бро, это не остановить.  
+**[5154.72s] English:** Bro, this isn't going to stop.  
 **Translation:** 
 
-**[5156.72s] English:** Нужно пройти через это.  
+**[5156.72s] English:** We need to go through this.  
 **Translation:** 
 
-**[5158.72s] English:** Думаю, это очень важно.  
+**[5158.72s] English:** I think this is very important.  
 **Translation:** 
 
-**[5160.00s] English:** что это хорошая метафора жизни.  
-**Translation:** 
+**[5160.00s] English:** This is a good metaphor for life.  
+**Translation:** Vocabulary: metaphor: 比喻
 
-**[5163.24s] English:** Это очень безмятежный способ жить.  
+**[5163.24s] English:** This is a very peaceful way to live.  
 **Translation:** 
 
-**[5165.60s] English:** Да, на самом деле, когда я принимал айуаску,  
+**[5165.60s] English:** Yes, in fact, when I took ayahuasca,  
 **Translation:** 
 
-**[5169.40s] English:** этот урок уже глубоко во мне сидел,  
+**[5169.40s] English:** This lesson has deeply seated itself in me,  
 **Translation:** 
 
-**[5171.82s] English:** что ты ничего не можешь контролировать.  
+**[5171.82s] English:** What you can't control anything.  
 **Translation:** 
 
-**[5174.40s] English:** Да.  
+**[5174.40s] English:** Yes.  
 **Translation:** 
 
-**[5174.70s] English:** Наверное, лучше всего я это усвоил в джиу-джитсу.  
-**Translation:** 
+**[5174.70s] English:** Probably, I understood this best in jiujitsu.  
+**Translation:** Vocabulary: jiujitsu: 柔道
 
-**[5178.00s] English:** Просто отпусти и расслабься.  
+**[5178.00s] English:** Just let go and relax.  
 **Translation:** 
 
-**[5180.56s] English:** Поэтому у меня был просто невероятный опыт.  
+**[5180.56s] English:** Therefore, I had an incredible experience.  
 **Translation:** 
 
-**[5182.96s] English:** В моем опыте с айуаской не было негативных моментов,  
+**[5182.96s] English:** In my experience with ayahuasca, there were no negative moments,  
 **Translation:** 
 
-**[5185.84s] English:** как и с другими психоделиками.  
-**Translation:** 
+**[5185.84s] English:** As with other psychedelics.  
+**Translation:** Vocabulary: ayahuasca: 巴布洛卡
 
-**[5187.40s] English:** Да. Может, это генетика или я так устроен,  
+**[5187.40s] English:** Yes. Maybe it's genetics or I'm just built that way.  
 **Translation:** 
 
-**[5190.46s] English:** но скорее дело в том, что я не пытался контролировать ситуацию.  
+**[5190.46s] English:** But rather, it's that I didn't try to control the situation.  
 **Translation:** 
 
-**[5193.54s] English:** Да.  
+**[5193.54s] English:** Yes.  
 **Translation:** 
 
-**[5193.86s] English:** Просто лови волну.  
+**[5193.86s] English:** Just catch the wave.  
 **Translation:** 
 
-**[5194.68s] English:** Точно. Попытки контроля порождают стресс.  
+**[5194.68s] English:** Exactly. Attempts at control create stress.  
 **Translation:** 
 
-**[5198.64s] English:** В общем, как только появляется идея...  
+**[5198.64s] English:** In general, as soon as an idea appears,...  
 **Translation:** 
 
-**[5200.76s] English:** Да.  
+**[5200.76s] English:** Yes.  
 **Translation:** 
 
-**[5201.14s] English:** Второй шаг — это создание.  
+**[5201.14s] English:** The second step is creation.  
 **Translation:** 
 
-**[5202.66s] English:** Что думаешь о создании чего угодно из идеи?  
+**[5202.66s] English:** What do you think about creating anything from an idea?  
 **Translation:** 
 
-**[5205.26s] English:** Думаю, создавать нужно с помощью технологии, которой владеешь.  
-**Translation:** 
+**[5205.26s] English:** I think you should create it using the technology you are proficient in.  
+**Translation:** Vocabulary: proficient: 熟练的
 
-**[5208.74s] English:** Например, NoMatList — это сайт, который я создал,  
+**[5208.74s] English:** For example, NoMatList is a site that I created.  
 **Translation:** 
 
-**[5212.04s] English:** чтобы выявить лучшие города для жизни и работы цифровых намадов.  
-**Translation:** 
+**[5212.04s] English:** To identify the best cities for digital nomads to live and work.  
+**Translation:** Vocabulary: nomads: 游牧民族
 
-**[5216.40s] English:** Поначалу это был нестандартный,  
+**[5216.40s] English:** At first, it was an unconventional,  
 **Translation:** 
 
-**[5217.40s] English:** а сайт, а Google-таблица.  
-**Translation:** 
+**[5217.40s] English:** A website, and a Google Sheet.  
+**Translation:** Vocabulary: unconventional: 不常规
 
-**[5219.74s] English:** И любой мог ее редактировать.  
+**[5219.74s] English:** Anybody could edit it.  
 **Translation:** 
 
-**[5222.64s] English:** Мол, я собираю города, где мы можем жить как намадов,  
+**[5222.64s] English:** Mol, I collect cities where we can live like nomads.  
 **Translation:** 
 
-**[5225.40s] English:** указывая скорость интернета, стоимость жизни и прочее.  
+**[5225.40s] English:** indicating internet speed, cost of living, and other things.  
 **Translation:** 
 
-**[5230.34s] English:** И я твитнул об этом, а подписчиков тогда было не особо.  
-**Translation:** 
+**[5230.34s] English:** I tweeted about it, but I didn't have many followers back then.  
+**Translation:** Vocabulary: followers: 关注者
 
-**[5233.72s] English:** Около пары тысяч.  
+**[5233.72s] English:** About a pair of thousand.  
 **Translation:** 
 
-**[5235.48s] English:** И мой твит завирусился, по моим тогдашним меркам,  
-**Translation:** 
+**[5235.48s] English:** And my tweet went viral, according to my standards at the time.  
+**Translation:** Vocabulary: viral: 迅速传播的
 
-**[5238.20s] English:** получил целых пять ретвитов.  
+**[5238.20s] English:** I received a total of five retweets.  
 **Translation:** 
 
-**[5239.96s] English:** И многие люди стали редактировать таблицу.  
-**Translation:** 
+**[5239.96s] English:** And many people started editing the table.  
+**Translation:** Vocabulary: editing: 修改; retweets: 转发
 
-**[5242.38s] English:** Там было пару сотен городов со всего мира, со всеми данными.  
+**[5242.38s] English:** There were a couple of hundred cities from all over the world, with all the data.  
 **Translation:** 
 
-**[5245.98s] English:** Реальный краудсорсинг.  
-**Translation:** 
+**[5245.98s] English:** Real crowd sourcing.  
+**Translation:** Vocabulary: sourcing: 采购
 
-**[5247.40s] English:** А потом я превратил это в сайт.  
+**[5247.40s] English:** Then I turned it into a website.  
 **Translation:** 
 
-**[5249.34s] English:** Нужно определиться, какую уже известную технологию будешь использовать.  
+**[5249.34s] English:** We need to decide which already known technology we will use.  
 **Translation:** 
 
-**[5253.84s] English:** Не умеешь кодить — используй таблицу.  
+**[5253.84s] English:** Don't know how to code? Use a table.  
 **Translation:** 
 
-**[5256.96s] English:** Ты всегда можешь использовать, например,  
+**[5256.96s] English:** You can always use, for example,  
 **Translation:** 
 
-**[5259.88s] English:** конструктор сайтов типа Wix или что-то вроде Squarespace.  
+**[5259.88s] English:** A constructor like Wix or something similar to Squarespace.  
 **Translation:** 
 
-**[5263.92s] English:** Не нужно уметь кодить, чтобы создать стартап.  
-**Translation:** Vocabulary: squarespace: 网站构建工具
+**[5263.92s] English:** You don't need to know how to code to create a startup.  
+**Translation:** Vocabulary: constructor: 网站构建工具; squarespace: 网页制作平台
 
-**[5266.62s] English:** Нужна лишь идея для продукта.  
+**[5266.62s] English:** A product idea is needed.  
 **Translation:** 
 
-**[5269.74s] English:** Создай что-нибудь вроде целевой страницы.  
+**[5269.74s] English:** Create something like a landing page.  
 **Translation:** 
 
-**[5272.70s] English:** Помести туда кнопку Stripe и воплощай.  
+**[5272.70s] English:** Place there a Stripe button and implement it.  
 **Translation:** 
 
-**[5274.90s] English:** А если ты умеешь кодить, используй язык.  
-**Translation:** 
+**[5274.90s] English:** If you know how to code, use a language.  
+**Translation:** Vocabulary: implement: 实现; stripe: 条纹
 
-**[5277.40s] English:** Если ты умеешь кодить, который уже знаешь, начни кодить на нем и посмотри.  
+**[5277.40s] English:** If you know how to code, start coding in it and see.  
 **Translation:** 
 
-**[5280.00s] English:** как далеко зайдешь. Ты всегда можешь переписать код. Технологический стэк не так важен для  
-**Translation:** 
+**[5280.00s] English:** How far will you go? You can always rewrite the code. The technological stack isn't that important for  
+**Translation:** Vocabulary: rewrite: 重写代码
 
-**[5285.04s] English:** бизнеса, когда ты только начинаешь. Важно подтверждение, что есть рынок и продукт,  
+**[5285.04s] English:** Business, when you're just starting out. It's important to confirm that there is a market and product.  
 **Translation:** 
 
-**[5289.96s] English:** за который готовы платить. Используй то, что можешь. Не можешь кодить, используй таблицы,  
+**[5289.96s] English:** For which you are willing to pay. Use what you can. If you cannot code, use tables.  
 **Translation:** 
 
-**[5297.98s] English:** конструктор страниц, что угодно. Да, элемент краудсорсинга завораживает. Это круто,  
+**[5297.98s] English:** Constructor pages, whatever. Yes, the element of crowd-sourcing is fascinating. This is cool.  
 **Translation:** 
 
-**[5304.54s] English:** когда много людей начинают им пользоваться, ты учишься очень быстро. Да. Я, кстати, тоже делал  
+**[5304.54s] English:** When many people start using it, you learn very quickly. Yes. By the way, I did too.  
 **Translation:** 
 
-**[5311.62s] English:** такую штуку с таблицей. Публикуешь таблицу и делаешь ее редактируемой. Ага. Это так круто.  
+**[5311.62s] English:** Such a thing with a table. You publish the table and make it editable. Aha. That's so cool.  
 **Translation:** 
 
-**[5318.46s] English:** Начинают происходить интересные вещи. Да. Я сделал это для тренировок, ведь ежедневно много отжимался  
-**Translation:** 
+**[5318.46s] English:** Interesting things are beginning to happen. Yes. I did this for training, since I was doing push-ups every day.  
+**Translation:** Vocabulary: editable: 可编辑的
 
-**[5323.58s] English:** и подтягивался. Да, я помню это. Ну и у Google таблиц есть ограничения и не все разрешено. Люди могли  
+**[5323.58s] English:** And he pulled himself up. Yes, I remember that. Well, Google Sheets has limitations and not everything is allowed. People could  
 **Translation:** 
 
-**[5332.60s] English:** писать что угодно в любой ячейке. Да.  
+**[5332.60s] English:** Write anything in any cell. Yes.  
 **Translation:** 
 
-**[5334.52s] English:** И могли создавать новые листы. Да, да, да. И это просто взорвалось. Однако мне сильно понравилось,  
+**[5334.52s] English:** They could create new sheets. Yes, yes, yes. And it just exploded. However, I really liked it.  
 **Translation:** 
 
-**[5342.68s] English:** что там очень мало троллей. Потому что на самом деле другие люди удаляли троллей. Там была такая  
-**Translation:** 
+**[5342.68s] English:** That there are very few trolls. Because, in fact, other people removed them. There was such a thing as  
+**Translation:** Vocabulary: exploded: 爆发; trolls: 水军
 
-**[5350.36s] English:** странная война. Ааа, армии. Вроде того. Они хотели защитить эту штуку. Это такая себе иммунная  
+**[5350.36s] English:** Strange war. Ah, armies. Sort of like that. They wanted to protect this thing. It's some kind of immune system.  
 **Translation:** 
 
-**[5357.12s] English:** система. В таблице возникает сообщество. Появляются изгои, которые перемещаются в самый низ таблицы,  
-**Translation:** 
+**[5357.12s] English:** System. In the table, a community appears. Outcasts emerge and are moved to the very bottom of the table.  
+**Translation:** Vocabulary: immune: 免疫; outcasts: 被排斥者
 
-**[5363.70s] English:** пытаются там уничтожить. Да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да, да.  
+**[5363.70s] English:** They are trying to destroy there. Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.  
 **Translation:** 
 
-**[5364.52s] English:** Я не хочу там прятать сообщения. Как бы я не хочу быть с крутыми ребятами наверху таблицы.  
+**[5364.52s] English:** I don't want to hide messages there. No matter how much I don't want to be with the cool guys at the top of the table.  
 **Translation:** 
 
-**[5368.28s] English:** Самоорганизация. Да. Безумие. Но в смысле такой краудсорсинговый элемент очень мощный. И если  
+**[5368.28s] English:** Self-organization. Yes, madness. But in terms of a crowdsourcing element, it's very powerful. And if  
 **Translation:** 
 
-**[5375.46s] English:** ты можешь создать продукт, который использует это себе на пользу, это очень круто. Любая система  
-**Translation:** 
+**[5375.46s] English:** You can create a product that uses this to your advantage, which is very cool. Any system  
+**Translation:** Vocabulary: crowdsourcing: 众包; madness: 疯狂
 
-**[5382.04s] English:** голосования, система рейтинга для голосования А и Б, это очень круто. В общем, NoModList отличный  
+**[5382.04s] English:** Voting, a rating system for votes A and B, is very cool. In general, NoModList is excellent.  
 **Translation:** 
 
-**[5389.12s] English:** сайт. Я бы хотел, чтобы ты рассказал о нем. И один из способов...  
+**[5389.12s] English:** Site. I would like you to tell me about it. And one of the ways...  
 **Translation:** 
 
-**[5394.52s] English:** Сделать это через историю создания худмэпс. Да. Ты сделал...  
+**[5394.52s] English:** To do this through the history of creating HUD maps. Yes, you've done...  
 **Translation:** 
 
-**[5400.00s] English:** Делал потрясающую вещь, а именно задокументировал процесс создания,  
+**[5400.00s] English:** Did a fantastic thing, namely documented the process of creation,  
 **Translation:** 
 
-**[5405.26s] English:** потратив на него всего 3, 4, 5 дней.  
+**[5405.26s] English:** Spent on it just 3, 4, or 5 days.  
 **Translation:** 
 
-**[5408.76s] English:** Всем обязательно стоит посмотреть видео и почитать блог.  
+**[5408.76s] English:** Everyone should definitely watch the video and read the blog.  
 **Translation:** 
 
-**[5412.86s] English:** Можешь объяснить, что вообще такое этот худмэпс и как все происходило?  
+**[5412.86s] English:** Could you explain what this HUD map is and how everything happened?  
 **Translation:** 
 
-**[5417.16s] English:** Я путешествовал и пытался найти проблемы.  
+**[5417.16s] English:** I traveled and tried to find problems.  
 **Translation:** 
 
-**[5419.86s] English:** Я обнаружил, что у всех разный опыт пребывания в городе, ведь все живут в разных районах.  
+**[5419.86s] English:** I have noticed that everyone's experience of staying in the city is different, as they live in various neighborhoods.  
 **Translation:** 
 
-**[5424.86s] English:** Я из Амстердама, и пока я там рос, даже не рос, а жил, и учился, то знал, что центр, как и во всей Европе, это всегда туристический район, поэтому там очень многолюдно.  
-**Translation:** 
+**[5424.86s] English:** I am from Amsterdam, and while I lived and studied there, I knew that the center, as in all of Europe, is always a tourist district, so it's very crowded.  
+**Translation:** Vocabulary: amsterdam: 阿姆斯特丹
 
-**[5437.78s] English:** И не очень аутентично, это не совсем голландская культура, скорее амстердамская туристическая.  
+**[5437.78s] English:** And it's not very authentic; this is more Amsterdam tourist culture rather than genuine Dutch culture.  
 **Translation:** 
 
-**[5442.72s] English:** И когда люди приезжали в Амстердам, я говорил, не ходите в центр, идите на юго-восток от центра, в Ярдан или Депейп, в более хипстерские районы.  
-**Translation:** 
+**[5442.72s] English:** When people came to Amsterdam, I would tell them not to go to the center and instead head to the southeast from the center, to Jordaan or De Pijp, to more hipster neighborhoods.  
+**Translation:** Vocabulary: authentic: 原汁原味; hipster: 文艺青年; jordaan: 约达区
 
-**[5452.42s] English:** Там Амстердам более аутентичен.  
+**[5452.42s] English:** There, Amsterdam is more authentic.  
 **Translation:** 
 
-**[5454.72s] English:** Это то, где я бы жил и куда бы ходил.  
+**[5454.72s] English:** This is where I would live and where I would go.  
 **Translation:** 
 
-**[5457.72s] English:** И я подумал, что это может быть приложением типа Google Maps.  
+**[5457.72s] English:** I thought it might be an app like Google Maps.  
 **Translation:** 
 
-**[5461.72s] English:** Карта, где наложены цвета, области, как бы закодированы цветом, красные — туристы, зеленые — богачи, деньги-то зеленые, желтые — хипстеры.  
-**Translation:** 
+**[5461.72s] English:** Map, where colors are overlaid to code areas: red for tourists, green for the wealthy—money is green and yellow for hipsters.  
+**Translation:** Vocabulary: hipsters: 潮人; overlaid: 叠加; wealthy: 有钱的
 
-**[5469.72s] English:** Так можно понять, куда сходить, если путешествуешь.  
+**[5469.72s] English:** Such information can help you figure out where to go if you're traveling.  
 **Translation:** 
 
-**[5473.72s] English:** Просто использовать цвет?  
+**[5473.72s] English:** Simply use color?  
 **Translation:** 
 
-**[5474.72s] English:** Да. Да, цвет. И я использовал Canvas. Я подумал, а что мне нужно? Мне нужно...  
+**[5474.72s] English:** Yes. Yes, color. And I used Canvas. I thought, what do I need? I need...  
 **Translation:** 
 
-**[5479.72s] English:** Ты знал, что будешь использовать Canvas?  
-**Translation:** 
+**[5479.72s] English:** Did you know that you would be using Canvas?  
+**Translation:** Vocabulary: canvas: 画布
 
-**[5482.72s] English:** Нет, я не знал, что это возможно.  
+**[5482.72s] English:** No, I did not know that this was possible.  
 **Translation:** 
 
-**[5484.72s] English:** Вот что круто. Люди должны это увидеть.  
+**[5484.72s] English:** Here's something cool. People should see this.  
 **Translation:** 
 
-**[5486.72s] English:** Вот как все началось.  
+**[5486.72s] English:** Here's how it all began.  
 **Translation:** 
 
-**[5487.72s] English:** Потому что ты, честно говоря, так красиво запечатлел все эти скромные моменты, неловкие моменты, когда ты не знаешь, что делать.  
-**Translation:** 
+**[5487.72s] English:** Because you, honestly speaking, captured all those humble moments and awkward moments when you didn't know what to do so beautifully.  
+**Translation:** Vocabulary: humble: 谦逊的
 
-**[5496.72s] English:** Типа, как мне это сделать?  
+**[5496.72s] English:** Type, how do I do this?  
 **Translation:** 
 
-**[5498.72s] English:** И ты документировал это.  
+**[5498.72s] English:** And you documented this.  
 **Translation:** 
 
-**[5500.72s] English:** Тут прямо в коде написано «чувак, мне самому неловко».  
+**[5500.72s] English:** Here, right in the code, it says "guy, this makes me feel awkward.  
 **Translation:** 
 
-**[5504.72s] English:** А, да, точно.  
+**[5504.72s] English:** Ah, yes, definitely.  
 **Translation:** 
 
-**[5505.72s] English:** Это называется жизнь. Классно.  
+**[5505.72s] English:** This is called life. Cool.  
 **Translation:** 
 
-**[5508.72s] English:** В общем, ты типа ничего не знаешь про Canvas.  
+**[5508.72s] English:** In general, you know nothing about Canvas.  
 **Translation:** 
 
-**[5511.72s] English:** А это такая штука в HTML.  
+**[5511.72s] English:** This is a thing in HTML.  
 **Translation:** 
 
 **[5514.72s] English:** 5.  
 **Translation:** 
 
-**[5515.72s] English:** Которая позволяет рисовать фигуры.  
+**[5515.72s] English:** Which allows you to draw figures.  
 **Translation:** 
 
-**[5517.72s] English:** Да, изображения, по сути, рисовать не надо, shocked me.  
+**[5517.72s] English:** Yes, the images, in essence, require no actual drawing, shocked me.  
 **Translation:** 
 
-**[5520.72s] English:** Вот моиrats.  
+**[5520.00s] English:** Pixel, da, and then it was cool back then; you could only have elements if you wanted to.  
 **Translation:** 
 
-**[5522.72s] English:** Ну, это вот мояち страна получает «А».  
-**Translation:** 
+**[5520.72s] English:** Here are my rats.  
+**Translation:** Vocabulary: pixel: 像素
 
-**[5525.72s] English:** Только ущерб.  
+**[5522.72s] English:** Nu, this is my country getting an "A".  
 **Translation:** 
 
-**[5526.72s] English:** Хочешьóc makan – смешно.  
-**Translation:** 
+**[5524.86s] English:** Draw a pixel using the canvas. I knew I needed to draw pixels, though.  
+**Translation:** Vocabulary: pixels: 像素
 
-**[5528.72s] English:** Это да.  
+**[5525.72s] English:** Only damage.  
 **Translation:** 
 
-**[5529.72s] English:** Ну, но場 scenarios, фигуры.  
-**Translation:** Vocabulary: scenarios: 情景
+**[5526.72s] English:** Want to eat - funny.  
+**Translation:** 
 
-**[5531.72s] English:** Когда мы упоряем מתки за Upper Virtual Core, то мы будет парой аналогичную Griffin.  
+**[5528.72s] English:** This is true.  
 **Translation:** 
 
-**[5541.72s] English:** Про Datam Detective.  
-**Translation:** Vocabulary: griffin: 狮身鹰头兽
+**[5529.06s] English:** The colors were needed, I thought, okay, I'll use an iframe for Google Maps and then overlay it.  
+**Translation:** Vocabulary: overlay: 覆盖层
 
-**[5520.00s] English:** пиксель да и тогда это было круто раньше у тебя могли быть только элементы хочешь  
+**[5529.72s] English:** Nu, but场 scenarios, figures.  
 **Translation:** 
 
-**[5524.86s] English:** нарисовать пиксель используй канвас я знал что нужно рисовать пиксели ведь  
-**Translation:** 
+**[5531.72s] English:** When we provision nodes for the Upper Virtual Core, we get a pair of similar Griffin nodes.  
+**Translation:** Vocabulary: griffin: Griffin; provision: 配置; scenarios: 场景
 
-**[5529.06s] English:** нужны были цвета я подумал окей я возьму iframe google maps и потом наложу сверху  
+**[5536.18s] English:** Div with colors, and I made the transparency 50% so it's visible. I used canvas and  
 **Translation:** 
 
-**[5536.18s] English:** div с цветами и сделаю прозрачность 50 чтобы было видно я использовал канвас и  
+**[5541.72s] English:** Of Data Detective.  
 **Translation:** 
 
-**[5543.64s] English:** стал рисовать а потом подумал другие тоже должны редактировать ведь я не могу  
+**[5543.64s] English:** Started drawing, then thought others should edit too; I can't do it all by myself.  
 **Translation:** 
 
-**[5548.68s] English:** нарисовать все это сам я прибегнул к краудсорсингу можно было  
+**[5548.68s] English:** Draw all of this, and I had to turn to crowdsourcing; it was possible.  
 **Translation:** 
 
-**[5553.24s] English:** рисовать на карте а пиксельные данные отправлялись на сервере попадали в базу  
+**[5553.24s] English:** Draw on the map, and the pixel data was sent to the server and entered into the database.  
 **Translation:** 
 
-**[5556.78s] English:** данных и у меня был робот работающий по крону  
+**[5556.78s] English:** The data, and I had a robot running on cron.  
 **Translation:** 
 
-**[5560.04s] English:** который каждый день все просчитывал например центр амстердама  
+**[5560.04s] English:** Which he calculated every day, for example, Amsterdam's center.  
 **Translation:** 
 
-**[5564.84s] English:** шесть человек говорят что это туристический район отводят говорят что  
+**[5564.84s] English:** Six people say that it is a tourist area, and they say that.  
 **Translation:** 
 
-**[5569.92s] English:** он хипстерский побеждает туристический вариант это просто массив нужно найти  
+**[5569.92s] English:** He hipster胜过了旅游选项，这简直是个大坑。需要找到。  
 **Translation:** 
 
-**[5574.38s] English:** наиболее часто встречающиеся значения в небольшой области пикселей на карте  
+**[5574.38s] English:** The most frequently occurring values in a small area of pixels on the map.  
 **Translation:** 
 
-**[5578.36s] English:** дни  
+**[5578.36s] English:** Days.  
 **Translation:** 
 
-**[5578.68s] English:** Допустим, что район туристический, а это красный, в красный закрашивается.  
-**Translation:** 
+**[5578.68s] English:** Assuming the area is touristy, which is marked in red, it gets colored red.  
+**Translation:** Vocabulary: touristy: 旅游景点多的
 
-**[5582.40s] English:** Я сделал это для всех GPS-координат в мире.  
+**[5582.40s] English:** I did this for all GPS coordinates in the world.  
 **Translation:** 
 
-**[5585.52s] English:** Можем ли мы прояснить, как человек, который вносит свой вклад,  
-**Translation:** 
+**[5585.52s] English:** Can we clarify how a person who is contributing can get involved?  
+**Translation:** Vocabulary: clarify: 澄清; coordinates: 坐标
 
-**[5589.28s] English:** нужно ли находиться в этом месте, чтобы сделать метку, или нет?  
+**[5589.28s] English:** Does one need to be in this place to make the mark, or can it be done elsewhere?  
 **Translation:** 
 
-**[5592.36s] English:** Нет, люди просто вводят название городов и начинают рисовать везде.  
+**[5592.36s] English:** No, people simply enter the names of cities and start drawing everywhere.  
 **Translation:** 
 
-**[5596.90s] English:** Рисуют фигуры или пиксели?  
+**[5596.90s] English:** Do they draw figures or pixels?  
 **Translation:** 
 
-**[5598.60s] English:** Они рисовали всякую дичь, не могу не упомянуть, что они рисовали члены.  
+**[5598.60s] English:** They drew all sorts of nonsense, and I must not fail to mention that they drew penises.  
 **Translation:** 
 
-**[5603.04s] English:** Ну, это очевидно, что мужская тема.  
+**[5603.04s] English:** Nu, this is obviously a male theme.  
 **Translation:** 
 
-**[5606.00s] English:** Я бы нарисовал то же самое.  
+**[5606.00s] English:** I would have drawn the same thing.  
 **Translation:** 
 
-**[5607.42s] English:** Это первое, что я сделаю, когда прилечу на Марс, и если не будет камер, я нарисую члены.  
+**[5607.42s] English:** This is the first thing I'll do when I land on Mars, and if there are no cameras, I'll draw penises.  
 **Translation:** 
 
-**[5611.98s] English:** Я так делаю на снегу.  
+**[5611.98s] English:** I do it on snow.  
 **Translation:** 
 
-**[5613.34s] English:** Но члены не стали проблемой.  
+**[5613.34s] English:** But members were not a problem.  
 **Translation:** 
 
-**[5615.30s] English:** Я знал, что так будет и не в одном и том же месте.  
+**[5615.30s] English:** I knew it wouldn't be in the same place twice.  
 **Translation:** 
 
-**[5618.64s] English:** Большинство использовало бы адекватно, главное, чтобы хватало краудсорсинговых данных.  
+**[5618.64s] English:** Most would use it adequately, as long as there are enough crowdsourced data.  
 **Translation:** 
 
-**[5622.96s] English:** Поверх всего этого у тебя целый слой пикселей, и выбираются самые распространенные.  
-**Translation:** 
+**[5622.96s] English:** Overall, you have a whole layer of pixels, and the most common ones are selected.  
+**Translation:** Vocabulary: adequately: 足够地; crowdsourced: 众包的; pixels: 像素
 
-**[5628.44s] English:** Да, это как голосование, но в визуальном формате.  
+**[5628.44s] English:** Yes, it's like voting, but in a visual format.  
 **Translation:** 
 
-**[5631.32s] English:** И это сработало.  
+**[5631.32s] English:** And this worked.  
 **Translation:** 
 
-**[5632.90s] English:** За неделю я получил достаточно данных.  
+**[5632.90s] English:** In a week, I received enough data.  
 **Translation:** 
 
-**[5635.78s] English:** Некоторые города показали себя очень...  
+**[5635.78s] English:** Some cities have shown themselves to be very...  
 **Translation:** 
 
-**[5637.42s] English:** ...очень хорошо, типа LA.  
+**[5637.42s] English:** ...very well, type LA.  
 **Translation:** 
 
-**[5638.90s] English:** Многие стали пользоваться.  
+**[5638.90s] English:** Many began to use it.  
 **Translation:** 
 
-**[5640.42s] English:** Большинство данных было в ЛА.  
+**[5640.42s] English:** Most of the data was in LA.  
 **Translation:** 
 
-**[5642.22s] English:** Потому что в Лос-Анджелесе есть четко определенные районы.  
+**[5642.22s] English:** Because in Los Angeles, there are clearly defined neighborhoods.  
 **Translation:** 
 
-**[5646.02s] English:** Да, точно.  
+**[5646.02s] English:** Yes, definitely.  
 **Translation:** 
 
-**[5646.74s] English:** И не только с точки зрения официальных названий, но и по тому, чем они известны.  
+**[5646.74s] English:** And not just in terms of official names, but also by what they are known for.  
 **Translation:** 
 
-**[5652.02s] English:** Да.  
+**[5652.02s] English:** Yes.  
 **Translation:** 
 
-**[5652.26s] English:** В общем, ты задал категории, которые они могли использовать как метки?  
+**[5652.26s] English:** In general, you set the categories they could use as tags?  
 **Translation:** 
 
-**[5658.70s] English:** Да, цвет.  
+**[5658.70s] English:** Yes, color.  
 **Translation:** 
 
-**[5659.82s] English:** Цвета?  
+**[5659.82s] English:** Colors?  
 **Translation:** 
 
-**[5660.30s] English:** Там вроде видно, что есть хипстерский, туристический, богатый, деловой.  
+**[5660.30s] English:** There seems to be a hipster, tourist, wealthy, and business district.  
 **Translation:** 
 
-**[5665.28s] English:** Всегда есть деловой район и есть жилой.  
-**Translation:** 
+**[5665.28s] English:** Always there is a business district and there is residential.  
+**Translation:** Vocabulary: hipster: 追求另类的青年; wealthy: 有钱的
 
-**[5667.86s] English:** Жилой — это серый.  
+**[5667.86s] English:** Residential is gray.  
 **Translation:** 
 
-**[5669.04s] English:** Я подумал, что это распространенные типы в городе.  
+**[5669.04s] English:** I thought these were common types in the city.  
 **Translation:** 
 
-**[5672.18s] English:** Смахивает на мемы. Их всегда весело помечать.  
+**[5672.18s] English:** It smacks of memes. They are always fun to tag.  
 **Translation:** 
 
-**[5675.30s] English:** Да, конечно, это упрощено, но нужно упрощать такие вещи.  
-**Translation:** 
+**[5675.30s] English:** Yes, of course, this is simplified, but such things need to be simplified.  
+**Translation:** Vocabulary: simplified: 简化; smacks: 有...的味道
 
-**[5678.70s] English:** Много — тоже плохо.  
+**[5678.70s] English:** Many things are also bad.  
 **Translation:** 
 
-**[5679.74s] English:** И это, по сути, как использование кисти, когда выбираешь цвет, категорию и рисуешь, и нет никаких инструкций.  
+**[5679.74s] English:** And this is essentially like using a brush when you choose a color, category, and draw, and there are no instructions.  
 **Translation:** 
 
-**[5689.92s] English:** Еще я добавил теги, чтобы люди могли написать что-то о конкретном месте.  
+**[5689.92s] English:** Still, I added tags so that people could write something about a specific place.  
 **Translation:** 
 
-**[5696.12s] English:** Например, «тут нечего ловить».  
+**[5696.12s] English:** For example, "here's nothing to catch.  
 **Translation:** 
 
-**[5697.74s] English:** Или «тут хорошее кафе».  
+**[5697.74s] English:** Or "there's a good cafe here.  
 **Translation:** 
 
-**[5699.74s] English:** И пошла куча мемов.  
-**Translation:** 
+**[5699.74s] English:** And a bunch of memes went viral.  
+**Translation:** Vocabulary: viral: 病毒式的
 
-**[5701.74s] English:** Я добавил голосование, чтобы теги можно было оценивать.  
+**[5701.74s] English:** I added voting so that tags can be evaluated.  
 **Translation:** 
 
-**[5705.74s] English:** И появились потрясные мемы.  
-**Translation:** 
+**[5705.74s] English:** And there emerged amazing memes.  
+**Translation:** Vocabulary: evaluated: 评估
 
-**[5707.74s] English:** Люди в Лос-Анджелесе писали всякую дичь.  
+**[5707.74s] English:** People in Los Angeles wrote all sorts of nonsense.  
 **Translation:** 
 
-**[5709.74s] English:** Это вирусилось во всех этих городах.  
-**Translation:** 
+**[5709.74s] English:** This was contagious in all these cities.  
+**Translation:** Vocabulary: contagious: 传染性的
 
-**[5711.74s] English:** Ты можешь разрешить геолокацию?  
+**[5711.74s] English:** Can you enable location services?  
 **Translation:** 
 
-**[5714.74s] English:** Наверное, покажет Остин.  
+**[5714.74s] English:** Probably Austin will show it.  
 **Translation:** 
 
-**[5716.74s] English:** Ладно, смотрим.  
+**[5716.74s] English:** Okay, let's see.  
 **Translation:** 
 
-**[5720.74s] English:** О, Боже.  
+**[5720.74s] English:** Oh, God.  
 **Translation:** 
 
-**[5722.74s] English:** Пьяные хипстеры.  
+**[5722.74s] English:** Drunk Hipsters.  
 **Translation:** 
 
-**[5727.74s] English:** Airbrown Bros.  
-**Translation:** Vocabulary: airbrown: 空棕色
+**[5727.74s] English:** Airborne Bros.  
+**Translation:** Vocabulary: airborne: 空降; hipsters: hipster
 
-**[5729.74s] English:** Airbrown Bros.  
+**[5729.74s] English:** Airborne Bros.  
 **Translation:** 
 
-**[5730.74s] English:** Джентрификаторы.  
-**Translation:** 
+**[5730.74s] English:** Gentrifiers.  
+**Translation:** Vocabulary: gentrifiers: 改善者
 
-**[5731.74s] English:** Хипстерши, нюхающие кокаин.  
+**[5731.74s] English:** Hipsters snorting cocaine.  
 **Translation:** 
 
-**[5733.74s] English:** Написано, я видел, как тут избили парня в костюме рыбы.  
-**Translation:** 
+**[5733.74s] English:** Written, I saw how they beat up a guy in a fish costume here.  
+**Translation:** Vocabulary: cocaine: 可卡因; costume: 服装; snorting: 吸食
 
-**[5735.74s] English:** Да.  
+**[5735.74s] English:** Yes.  
 **Translation:** 
 
-**[5736.74s] English:** Это тоже похоже на то.  
+**[5736.74s] English:** This is also similar to that.  
 **Translation:** 
 
-**[5737.74s] English:** Переоценка и разочарование.  
+**[5737.74s] English:** Overvaluation and Disappointment.  
 **Translation:** 
 
-**[5742.74s] English:** Дай-ка мне убедиться, что это точно.  
-**Translation:** 
+**[5742.74s] English:** Let me make sure this is exactly right.  
+**Translation:** Vocabulary: overvaluation: 高估
 
-**[5745.74s] English:** Посмотрим.  
+**[5745.74s] English:** Let's see.  
 **Translation:** 
 
-**[5749.74s] English:** Грязная шестая.  
+**[5749.74s] English:** Dirty Sixth.  
 **Translation:** 
 
-**[5750.74s] English:** Те, кто знает Остин, знают, что это важно отметить.  
+**[5750.74s] English:** Those who know Austin know that this is important to note.  
 **Translation:** 
 
-**[5754.74s] English:** Шестая улица известна в Остине.  
+**[5754.74s] English:** Sixth Street is known in Austin.  
 **Translation:** 
 
-**[5756.74s] English:** Алкаши из студенческих братств.  
+**[5756.74s] English:** Alkalis from student fraternities.  
 **Translation:** 
 
-**[5759.74s] English:** Точно.  
-**Translation:** 
+**[5759.74s] English:** Exactly.  
+**Translation:** Vocabulary: alkalis: 碱性物质; fraternities: 兄弟会
 
-**[5760.76s] English:** Дальше по этой же улице тоже.  
+**[5760.76s] English:** Further down this same street, too.  
 **Translation:** 
 
-**[5762.52s] English:** Вон там пьяные душнилы.  
-**Translation:** 
+**[5762.52s] English:** There, drunk people were making a nuisance of themselves.  
+**Translation:** Vocabulary: nuisance: 烦扰
 
-**[5764.00s] English:** Тут уже не братаны, а душнилы.  
+**[5764.00s] English:** Here it's not bratans, but dushnyls.  
 **Translation:** 
 
-**[5766.28s] English:** Как все меняется.  
-**Translation:** 
+**[5766.28s] English:** How everything changes.  
+**Translation:** Vocabulary: dushnyls: 热气球
 
-**[5767.98s] English:** Пока все очень точно.  
+**[5767.98s] English:** Preliminary results are very precise.  
 **Translation:** 
 
-**[5769.72s] English:** Правда?  
-**Translation:** 
+**[5769.72s] English:** Is that true?  
+**Translation:** Vocabulary: preliminary: 初步的
 
-**[5770.96s] English:** Здесь разрешают жить только красивым людям.  
+**[5770.96s] English:** Here, only beautiful people are allowed to live.  
 **Translation:** 
 
-**[5776.20s] English:** Думаю, это может быть правдой.  
+**[5776.20s] English:** I think this may be true.  
 **Translation:** 
 
-**[5778.62s] English:** Там целый район.  
+**[5778.62s] English:** There is an entire district there.  
 **Translation:** 
 
-**[5781.48s] English:** Фанатики фитнеса в реке.  
+**[5781.48s] English:** Fans of fitness in the river.  
 **Translation:** 
 
-**[5782.98s] English:** Да, это правда.  
+**[5782.98s] English:** Yes, that is true.  
 **Translation:** 
 
-**[5784.26s] English:** Собачники.  
+**[5784.26s] English:** Dog owners.  
 **Translation:** 
 
-**[5784.96s] English:** Да.  
+**[5784.96s] English:** Yes.  
 **Translation:** 
 
-**[5785.94s] English:** Видел, как тут парня в костюме рыбы избили.  
-**Translation:** 
+**[5785.94s] English:** I saw how a guy in a fish costume was beaten up here.  
+**Translation:** Vocabulary: beaten: 被打
 
-**[5788.42s] English:** Я хочу подробностей.  
+**[5788.42s] English:** I want details.  
 **Translation:** 
 
-**[5790.00s] English:** Все это добавили пользователи?  
+**[5790.00s] English:** Did all of this get added by users?  
 **Translation:** 
 
-**[5792.26s] English:** Я бы сам не додумался, ведь не знаю Остин, местных мемов и субкультур.  
+**[5792.26s] English:** I would never have come up with it myself, since I don't know Austin, local memes, and subcultures.  
 **Translation:** 
 
-**[5797.64s] English:** А я могу тут проголосовать.  
-**Translation:** 
+**[5797.64s] English:** Can I vote here?  
+**Translation:** Vocabulary: subcultures: 亚文化圈
 
-**[5799.82s] English:** Да.  
+**[5799.82s] English:** Yes.  
 **Translation:** 
 
-**[5800.58s] English:** И это целиком краудсорсинг.  
-**Translation:** 
+**[5800.58s] English:** And this is entirely crowdsourcing.  
+**Translation:** Vocabulary: crowdsourcing: 众包
 
-**[5802.14s] English:** Тут как на Реддите, апвоут и даунвоут.  
+**[5802.14s] English:** Here it's like on Reddit, upvote and downvote.  
 **Translation:** 
 
-**[5805.24s] English:** Это очень и очень круто.  
-**Translation:** 
+**[5805.24s] English:** This is very and very cool.  
+**Translation:** Vocabulary: downvote: 反对投票
 
-**[5808.08s] English:** Одинокие собачники, точно.  
+**[5808.08s] English:** Lonely dog walkers, exactly.  
 **Translation:** 
 
-**[5809.92s] English:** Когда ты перешел от цветов к подобным надписям?  
-**Translation:** 
+**[5809.92s] English:** When did you switch from flowers to these kinds of messages?  
+**Translation:** Vocabulary: walkers: 遛狗的人
 
-**[5813.66s] English:** По-моему, текст я добавил где-то через неделю.  
+**[5813.66s] English:** According to me, I added the text somewhere after a week.  
 **Translation:** 
 
-**[5817.84s] English:** Это пиксели.  
-**Translation:** 
+**[5817.84s] English:** This is pixels.  
+**Translation:** Vocabulary: pixels: 像素
 
-**[5819.06s] English:** А как?  
+**[5819.06s] English:** How?  
 **Translation:** 
 
-**[5820.00s] English:** Как ты с ними работаешь?  
+**[5820.00s] English:** How do you work with them?  
 **Translation:** 
 
-**[5821.14s] English:** Тут ведь данных выше крыши.  
+**[5821.14s] English:** Here there are data galore.  
 **Translation:** 
 
-**[5822.88s] English:** Да.  
-**Translation:** 
+**[5822.88s] English:** Yes.  
+**Translation:** Vocabulary: galore: 充足
 
-**[5823.76s] English:** Сейчас я смотрю на изображения, где просто море пикселей разных цветов в масштабах города.  
+**[5823.76s] English:** Now I am looking at images where there is just a sea of pixels in different colors on the scale of a city.  
 **Translation:** 
 
-**[5831.36s] English:** Как ты это все объединяешь во что-то осмысленное?  
+**[5831.36s] English:** How do you manage to combine all of this into something meaningful?  
 **Translation:** 
 
-**[5834.04s] English:** Проблема в том, что есть данные, но они не привязаны к конкретному месту.  
+**[5834.04s] English:** The problem is that there are data, but they are not tied to a specific location.  
 **Translation:** 
 
-**[5839.66s] English:** Да.  
+**[5839.66s] English:** Yes.  
 **Translation:** 
 
-**[5840.16s] English:** Пришлось нормализовать.  
+**[5840.16s] English:** Had to normalize.  
 **Translation:** 
 
-**[5841.24s] English:** Когда рисуешь на карте, она показывает конкретное положение пикселя, и ты можешь преобразовать его в GPS-координаты, широту и долготу.  
-**Translation:** 
+**[5841.24s] English:** When you draw on a map, it shows the specific position of a pixel, and you can transform it into GPS coordinates, latitude and longitude.  
+**Translation:** Vocabulary: coordinates: 经纬度; latitude: 纬度; longitude: 经度; pixel: 像素
 
-**[5849.32s] English:** Да.  
+**[5849.32s] English:** Yes.  
 **Translation:** 
 
-**[5849.82s] English:** Такое число будет с кучей знаков после запятой. Это очень точное значение, как эта конкретная часть стола.  
-**Translation:** 
+**[5849.82s] English:** Such a number will have a bunch of decimal places. It's very precise, like that specific part of the table.  
+**Translation:** Vocabulary: decimal: 小数
 
-**[5855.26s] English:** Так вот, нужно взять этот пиксель и нормализовать его, убрав знаки после запятой, как я и сделал.  
+**[5855.26s] English:** So, we need to take this pixel and normalize it by removing the decimal points, as I did.  
 **Translation:** 
 
-**[5861.94s] English:** Так ты говоришь о районе или об улице.  
+**[5861.94s] English:** So, are you talking about the district or the street?  
 **Translation:** 
 
-**[5865.06s] English:** Я просто убрал знаки после запятой и сохранил так.  
+**[5865.06s] English:** I simply removed the commas and kept it as is.  
 **Translation:** 
 
-**[5868.70s] English:** И получается что-то вроде сетки.  
-**Translation:** 
+**[5868.70s] English:** It's like a grid.  
+**Translation:** Vocabulary: commas: 逗号
 
-**[5872.26s] English:** Сетка данных.  
+**[5872.26s] English:** Data mesh.  
 **Translation:** 
 
-**[5874.58s] English:** Типа пиксельной карты.  
+**[5874.58s] English:** Type of pixel map.  
 **Translation:** 
 
-**[5876.34s] English:** Ты говорил, что это выглядело некрасиво, поэтому сгладил все.  
+**[5876.34s] English:** You said it looked ugly, so I smoothed everything out.  
 **Translation:** 
 
-**[5879.82s] English:** А этого лучше сделать больше, чем клин retainer.  
-**Translation:** Vocabulary: retainer: 保持者
+**[5879.82s] English:** This is better done more than a clin retainer.  
+**Translation:** Vocabulary: retainer: 保持器
 
-**[5887.96s] English:** Прошу просто, и вы егоUUВот트.  
+**[5880.00s] English:** Yes, I started adding blur.  
 **Translation:** 
 
-**[5892.46s] English:** Просю.  
+**[5881.96s] English:** Currently, this is again not smoothed out.  
 **Translation:** 
 
-**[5893.30s] English:** Правда, можно взятьHmmWordHence.  
+**[5883.94s] English:** I like it much more.  
 **Translation:** 
 
-**[5895.14s] English:** Ну вот, sonst, уже spaghetti-ф SEEimpmagazinePV commute- discount on黑эссэраэч Metalouk.  
-**Translation:** Vocabulary: metalouk: 金属乌克勒琴
+**[5885.30s] English:** People like the pixelated look.  
+**Translation:** Vocabulary: pixelated: 像素化的
 
-**[5880.00s] English:** Да, стал добавлять размытие.  
+**[5887.46s] English:** Many use it, and it gets viral.  
 **Translation:** 
 
-**[5881.96s] English:** Сейчас это снова не сглажено.  
-**Translation:** 
+**[5887.96s] English:** Please just ask, and you will get it.  
+**Translation:** Vocabulary: viral: 病毒式的
 
-**[5883.94s] English:** Мне так больше нравится.  
+**[5889.46s] English:** Each time this happens, the bill for Mapbox-type cards increases.  
 **Translation:** 
 
-**[5885.30s] English:** Людям нравится пиксельный вид.  
+**[5892.46s] English:** Pardon?  
 **Translation:** 
 
-**[5887.46s] English:** Многие пользуются, и оно вирусится.  
+**[5893.30s] English:** Sure, here is the improved version: "True, one can take Hmm Word Hence.  
 **Translation:** 
 
-**[5889.46s] English:** Каждый раз, когда это происходит, счет за карты типа Mapbox растет.  
+**[5893.52s] English:** First, I used Google Maps.  
 **Translation:** 
 
-**[5893.52s] English:** Сначала я использовал Google Maps.  
+**[5895.14s] English:** Nu, voilà, otherwise, already spaghetti-fee, SeeimpmagazinePV commute-discount on Metalouk.  
 **Translation:** 
 
-**[5895.48s] English:** Оно стало вирусным, и в Google Maps закончились кредиты, и пришлось...  
-**Translation:** 
+**[5895.48s] English:** It became viral, and in Google Maps, the credits ran out, and we had to...  
+**Translation:** Vocabulary: metalouk: 金属卢克
 
-**[5900.74s] English:** Забавно, Google Maps перестали загружаться.  
+**[5900.74s] English:** It's funny, Google Maps stopped loading.  
 **Translation:** 
 
-**[5906.06s] English:** Писала превышен лимит.  
+**[5906.06s] English:** Wrote: limit exceeded.  
 **Translation:** 
 
-**[5907.46s] English:** Свяжитесь с отделом корпоративных продаж.  
+**[5907.46s] English:** Contact the corporate sales department.  
 **Translation:** 
 
-**[5910.00s] English:** А мне нужна карта, и я не хочу связываться с корпоративными продажами.  
+**[5910.00s] English:** I need a map, and I don't want to deal with corporate sales.  
 **Translation:** 
 
-**[5916.72s] English:** Я перешел на Mapbox, пользовался им годами.  
+**[5916.72s] English:** I switched to Mapbox and have been using it for years.  
 **Translation:** 
 
-**[5920.86s] English:** И когда это завирусилось, мне пришел счет на 20 тысяч долларов.  
+**[5920.86s] English:** When this happened, I received a bill for $20,000.  
 **Translation:** 
 
-**[5925.10s] English:** Они помогли мне, сказали, можете заплатить меньше.  
+**[5925.10s] English:** They helped me out, saying I could pay less.  
 **Translation:** 
 
-**[5928.92s] English:** А теперь я перешел на опенсорсную картографическую платформу.  
+**[5928.92s] English:** Now I switched to an open-source mapping platform.  
 **Translation:** 
 
-**[5932.82s] English:** Очень дорогой продукт.  
+**[5932.82s] English:** Very expensive product.  
 **Translation:** 
 
-**[5934.42s] English:** И ни доллара на нем не заработал.  
+**[5934.42s] English:** He didn't earn a single dollar on it.  
 **Translation:** 
 
-**[5936.32s] English:** Весело, но очень дорого.  
+**[5936.32s] English:** Happy, but very expensive.  
 **Translation:** 
 
-**[5937.88s] English:** Какой из этого урок?  
+**[5937.88s] English:** What is the lesson from this?  
 **Translation:** 
 
-**[5939.44s] English:** Из этого опыта.  
+**[5939.44s] English:** From this experience.  
 **Translation:** 
 
-**[5942.62s] English:** Ведь ты использовал чужую инфраструктуру через API.  
+**[5942.62s] English:** Because you used someone else's infrastructure through API.  
 **Translation:** 
 
-**[5946.18s] English:** Но я не думаю, что хостинг карт должен столько стоить.  
+**[5946.18s] English:** But I don't think that hosting should cost so much.  
 **Translation:** 
 
-**[5951.16s] English:** Я мог бы сам его хостить, но это было бы...  
+**[5951.16s] English:** I could host it myself, but that would be...  
 **Translation:** 
 
-**[5954.84s] English:** Не знаю, как это сделать, но я мог бы.  
+**[5954.84s] English:** I don't know how to do it, but I could try.  
 **Translation:** 
 
-**[5957.18s] English:** Да, это суперсложно.  
+**[5957.18s] English:** Yes, it's super complicated.  
 **Translation:** 
 
-**[5959.10s] English:** Думаю, дело скорее в том, что с этим проектом не заработать.  
+**[5959.10s] English:** I think the issue is more likely that there's no profit to be made with this project.  
 **Translation:** 
 
-**[5962.30s] English:** Я много чего перепробовал, чтобы монетизировать его, но ничего не вышло.  
-**Translation:** 
+**[5962.30s] English:** I've tried a lot of things to monetize it, but nothing worked out.  
+**Translation:** Vocabulary: monetize: 使盈利
 
-**[5966.24s] English:** Ты вроде говорил о возможной рекламе или чем-то таком.  
+**[5966.24s] English:** You mentioned something about possible advertising or something like that.  
 **Translation:** 
 
-**[5969.44s] English:** Да, но...  
+**[5969.44s] English:** Yes, but...  
 **Translation:** 
 
-**[5970.32s] English:** Да, или о спонсорстве.  
+**[5970.32s] English:** Yes, or about sponsorship.  
 **Translation:** 
 
-**[5972.32s] English:** Меня очень удивляет, что никто не хочет там размещать рекламу.  
-**Translation:** 
+**[5972.32s] English:** It amazes me that nobody wants to place advertising there.  
+**Translation:** Vocabulary: amazes: 使惊讶; sponsorship: 赞助
 
-**[5977.04s] English:** Приложения с картами сложно монетизировать.  
+**[5977.04s] English:** Applications with maps are difficult to monetize.  
 **Translation:** 
 
-**[5979.36s] English:** Google Maps порой мелькает реклама, но не думаю, что там крутится много денег.  
+**[5979.36s] English:** Google Maps sometimes displays ads, but I don't think there's much money making involved there.  
 **Translation:** 
 
-**[5984.36s] English:** Можно, конечно, влепить баннер, но это уродство.  
+**[5984.36s] English:** Of course, you can put in a banner, but it's an ugliness.  
 **Translation:** 
 
-**[5987.36s] English:** Да и сам продукт довольно прикольный.  
-**Translation:** 
+**[5987.36s] English:** Da and the product is quite cool.  
+**Translation:** Vocabulary: banner: 横幅; ugliness: 丑陋
 
-**[5990.36s] English:** Даже приятно его слегка субсидировать.  
+**[5990.36s] English:** Even pleasantly, it's nice to slightly subsidize him.  
 **Translation:** 
 
-**[5992.36s] English:** Это небольшая часть No-Mod List, я добавил его в разделе городов.  
-**Translation:** 
+**[5992.36s] English:** This is a small part of the No-Mod List, I added it in the cities section.  
+**Translation:** Vocabulary: pleasantly: 令人愉快地; subsidize: 补贴
 
-**[5997.36s] English:** И еще я понял, что не все нужно делать.  
+**[5997.36s] English:** And I realized that not everything needs to be done.  
 **Translation:** 
 
-**[5999.32s] English:** НАХОДВАТ moonshot  
+**[5999.32s] English:** Find moonshot  
 **Translation:** Vocabulary: moonshot: 宏伟目标
 
-**[6000.54s] English:** Была его года манд라고  
+**[6000.54s] English:** It was his year mandragora.  
 **Translation:** 
 
-**[6001.92s] English:** Пенты можно монетизировать...  
-**Translation:** 
+**[6000.64s] English:** Some products are just amazing.  
+**Translation:** Vocabulary: mandragora: 例年
 
-**[6002.32s] English:** В игре все States that was was  
+**[6001.92s] English:** Pents can be monetized....  
 **Translation:** 
 
-**[6003.10s] English:** Да, похоже станет  
-**Translation:** 
+**[6002.32s] English:** In the game, all States that were were.  
+**Translation:** Vocabulary: monetized: 转化为收益
 
-**[6003.80s] English:** Что миллиарды  
+**[6003.06s] English:** It's great that the HMP exists.  
 **Translation:** 
 
-**[6004.58s] English:** А having five years  
+**[6003.10s] English:** Yes, it seems it will.  
 **Translation:** 
 
-**[6005.32s] English:** liter  
+**[6003.80s] English:** What billions?  
 **Translation:** 
 
-**[6017.84s] English:** LoL  
+**[6004.58s] English:** Having five years  
 **Translation:** 
 
-**[6018.88s] English:** Подписывайтесь, пожалуйста!  
+**[6005.32s] English:** Liter.  
 **Translation:** 
 
-**[6019.88s] English:** Не забываем субтитров!  
+**[6006.50s] English:** I want him to exist.  
 **Translation:** 
 
-**[6020.88s] English:** Всего доброго всем!  
+**[6008.64s] English:** Yes, you have created a lot that simply delights in its existence.  
 **Translation:** 
 
-**[6000.64s] English:** Некоторые продукты просто классные.  
-**Translation:** 
+**[6012.72s] English:** It's a completely different puzzle.  
+**Translation:** Vocabulary: delights: 使高兴
 
-**[6003.06s] English:** И здорово, что худмэпс существует.  
+**[6015.04s] English:** How can we make money on all of this?  
 **Translation:** 
 
-**[6006.50s] English:** Я хочу, чтобы он существовал.  
+**[6016.90s] English:** I am surprised that the cards don't bring in money, but you're right; it's complicated.  
 **Translation:** 
 
-**[6008.64s] English:** Да, ты создал много того, что меня просто радует своим существованием.  
+**[6017.84s] English:** LOL  
 **Translation:** 
 
-**[6012.72s] English:** И совсем другая головоломка.  
-**Translation:** 
+**[6018.88s] English:** Subscribe, please!  
+**Translation:** Vocabulary: subscribe: 订阅
 
-**[6015.04s] English:** Как на всем этом заработать?  
+**[6019.88s] English:** Don't forget the subtitles!  
 **Translation:** 
 
-**[6016.90s] English:** Я удивлен, что карты не приносят денег, но ты прав, это сложно.  
-**Translation:** 
+**[6020.88s] English:** Goodbye to everyone!  
+**Translation:** Vocabulary: goodbye: 告别; subtitles: 字幕
 
-**[6021.04s] English:** Сложно заработать.  
+**[6021.04s] English:** It's hard to earn money.  
 **Translation:** 
 
-**[6022.66s] English:** Для их работы нужно много вычислительных ресурсов.  
-**Translation:** 
+**[6022.66s] English:** For their work, they need a lot of computational resources.  
+**Translation:** Vocabulary: computational: 计算的
 
-**[6026.10s] English:** Да, и куда вставить рекламу?  
+**[6026.10s] English:** Yes, and where should we insert the advertisement?  
 **Translation:** 
 
-**[6027.80s] English:** Если это сайт, можно разместить рекламный блок или сделать продакт плейсмент.  
-**Translation:** 
+**[6027.80s] English:** If it's a website, we can place an advertisement or do a product placement.  
+**Translation:** Vocabulary: insert: 插入; placement: 植入
 
-**[6032.60s] English:** Но мы говорим о приложении, где 90% интерфейса это карта.  
+**[6032.60s] English:** But we are talking about an application where 90% of the interface is a map.  
 **Translation:** 
 
-**[6036.72s] English:** Так что же делать?  
-**Translation:** 
+**[6036.72s] English:** What should we do?  
+**Translation:** Vocabulary: interface: 界面
 
-**[6038.18s] English:** Сложно понять, куда ее воткнуть.  
+**[6038.18s] English:** It's hard to understand where to plug it in.  
 **Translation:** 
 
-**[6040.48s] English:** Да, и люди не хотят за это платить.  
+**[6040.48s] English:** Yes, and people don't want to pay for it.  
 **Translation:** 
 
-**[6042.50s] English:** Если ты заставишь людей платить, ты потеряешь 99% пользователей, плюс краудсорсинговые данные.  
+**[6042.50s] English:** If you make people pay, you'll lose 99% of users, plus crowdsourced data.  
 **Translation:** 
 
-**[6049.18s] English:** Это уже неинтересно, точность падает.  
-**Translation:** 
+**[6049.18s] English:** This is no longer interesting; accuracy is falling.  
+**Translation:** Vocabulary: crowdsourced: 众包的
 
-**[6051.90s] English:** Они платят за это, предоставляя данные, и тогда да, все в порядке.  
+**[6051.90s] English:** They pay for it by providing data, and then, yes, that's okay.  
 **Translation:** 
 
-**[6057.20s] English:** Прибыли нет, но это круто.  
+**[6057.20s] English:** There are no profits, but it's cool.  
 **Translation:** 
 
-**[6059.44s] English:** Тем не менее, NoMod List приносит деньги.  
+**[6059.44s] English:** Nevertheless, NoMod List brings in money.  
 **Translation:** 
 
-**[6062.48s] English:** Да.  
+**[6062.48s] English:** Yes.  
 **Translation:** 
 
-**[6063.02s] English:** Расскажи, как ты его создал.  
+**[6063.02s] English:** Tell me how you created it.  
 **Translation:** 
 
-**[6065.40s] English:** NoMod List появился, когда я жил в Чангмайе, в Таиланде, он сейчас здесь на втором месте.  
-**Translation:** 
+**[6065.40s] English:** NoMod List appeared when I lived in Chiang Mai, Thailand, and he is currently at second place.  
+**Translation:** Vocabulary: chiang: 昌甲; thailand: 泰国
 
-**[6071.14s] English:** Я работал за своим ноутбуком, встретил там других намадов и подумал,  
+**[6071.14s] English:** I worked on my laptop, met some nomads there, and thought,  
 **Translation:** 
 
-**[6077.76s] English:** а это кажется крутым, работать за ноутбуком в другой стране и путешествовать.  
-**Translation:** 
+**[6077.76s] English:** This seems cool to work on a laptop in another country and travel.  
+**Translation:** Vocabulary: laptop: 便携电脑; nomads: 游牧者
 
-**[6082.86s] English:** Но тогда интернет везде был медленным.  
+**[6082.86s] English:** But then, internet everywhere was slow.  
 **Translation:** 
 
-**[6084.92s] English:** То есть интернет был быстрым в голове.  
+**[6084.92s] English:** That is, the internet was fast in the head.  
 **Translation:** 
 
-**[6087.20s] English:** В Таиланде или в США, но во многих частях Южной Америки или Азии, был очень медленным, типа пол мегабита.  
+**[6087.20s] English:** In Thailand or in the United States, but in many parts of South America or Asia, it was very slow, like half a megabit.  
 **Translation:** 
 
-**[6093.92s] English:** Смотреть Ютуб было нереально.  
+**[6093.92s] English:** Watching YouTube was unreal.  
 **Translation:** 
 
-**[6096.72s] English:** В Таиланде, на удивление, был довольно быстрый интернет.  
+**[6096.72s] English:** In Thailand, surprisingly, there was fairly fast internet.  
 **Translation:** 
 
-**[6099.68s] English:** Но я хотел найти другие города, куда бы я мог поехать, чтобы работать за ноутбуком и путешествовать, но нужен был быстрый интернет.  
+**[6099.68s] English:** But I wanted to find other cities where I could go to work from a laptop and travel, but fast internet was needed.  
 **Translation:** 
 
-**[6109.20s] English:** И я подумал, собрать эту информацию с помощью таблицы и узнать стоимость жизни, ведь бюджет был 500 долларов в месяц.  
+**[6109.20s] English:** I thought it would be useful to gather this information using a table and calculate the cost of living, since the budget was $500 per month.  
 **Translation:** 
 
-**[6117.20s] English:** Я хотел найти место, где аренда стоила бы 500 долларов в месяц.  
+**[6117.20s] English:** I wanted to find a place where rent would cost $500 a month.  
 **Translation:** 
 
-**[6120.00s] English:** 200 долларов, и еще оставались деньги.  
+**[6120.00s] English:** 200 dollars, and there were still some money left.  
 **Translation:** 
 
-**[6123.68s] English:** И вот так появился NoMatList.  
+**[6123.68s] English:** And thus, NoMatList was born.  
 **Translation:** 
 
-**[6126.92s] English:** Он до сих пор работает, ему уже 10 лет.  
+**[6126.92s] English:** He still works; he is already 10 years old.  
 **Translation:** 
 
-**[6129.22s] English:** Расскажи, как он работает.  
+**[6129.22s] English:** Tell me how it works.  
 **Translation:** 
 
-**[6131.10s] English:** Да, да.  
+**[6131.10s] English:** Yes, yes.  
 **Translation:** 
-
-**[6131.54s] English:** Я вот смотрю на Chiang Mai, второе место в рейтинге по общим баллам.  
-**Translation:** Vocabulary: chiang: 清迈
 
-**[6135.88s] English:** Да, это называется NoMatScore.  
+**[6131.54s] English:** I'm looking at Chiang Mai, which is second place in the ranking by total scores.  
 **Translation:** 
 
-**[6137.40s] English:** 4,82 по оценкам пользователей.  
+**[6135.88s] English:** Yes, it is called NoMatScore.  
 **Translation:** 
 
-**[6140.22s] English:** Тут учитывается интернет, в данном случае он быстрый,  
+**[6137.40s] English:** According to user ratings: 4.82.  
 **Translation:** 
 
-**[6144.70s] English:** развлечения, температура, влажность, качество воздуха,  
+**[6140.22s] English:** Here, internet is considered; in this case, it's fast.  
 **Translation:** 
 
-**[6148.18s] English:** безопасность, пищевая безопасность,  
-**Translation:** 
+**[6144.70s] English:** Recreation, temperature, humidity, air quality,  
+**Translation:** Vocabulary: humidity: 湿度; recreation: 休闲
 
-**[6151.00s] English:** преступность, расизм или отсутствие всего этого,  
+**[6148.18s] English:** Safety, food safety,  
 **Translation:** 
 
-**[6154.16s] English:** уровень образования, устойчивость энергосистемы,  
-**Translation:** 
+**[6151.00s] English:** Crime, racism, or the absence of all this,  
+**Translation:** Vocabulary: racism: 种族歧视
 
-**[6156.94s] English:** уязвимость к изменениям климата, доходы населения.  
+**[6154.16s] English:** Level of education, stability of energy systems,  
 **Translation:** 
 
-**[6160.46s] English:** Немного многовато.  
-**Translation:** 
+**[6156.94s] English:** Vulnerability to climate changes, household incomes.  
+**Translation:** Vocabulary: incomes: 家庭收入; vulnerability: 易受伤害性
 
-**[6161.50s] English:** Это круто.  
+**[6160.46s] English:** A bit too much.  
 **Translation:** 
 
-**[6162.42s] English:** Удобство для пеших прогулок.  
+**[6161.50s] English:** This is cool.  
 **Translation:** 
 
-**[6164.26s] English:** Я постоянно добавляю, что...  
+**[6162.42s] English:** Convenience for pedestrians.  
 **Translation:** 
 
-**[6165.24s] English:** Разным группам людей важны разные вещи, и это круто.  
-**Translation:** 
+**[6164.26s] English:** I constantly add that...  
+**Translation:** Vocabulary: pedestrians: 行人
 
-**[6168.46s] English:** Да.  
+**[6165.24s] English:** Different groups of people value different things, and that's great.  
 **Translation:** 
 
-**[6168.88s] English:** Уровень счастья, ночная жизнь,  
+**[6168.46s] English:** Yes.  
 **Translation:** 
 
-**[6172.36s] English:** бесплатный Wi-Fi и кондиционер,  
+**[6168.88s] English:** Level of happiness, nightlife,  
 **Translation:** 
 
-**[6175.64s] English:** удобство для женщин, свобода слова.  
-**Translation:** 
+**[6172.36s] English:** 免费 Wi-Fi 和 空调,  
+**Translation:** Vocabulary: nightlife: 夜生活
 
-**[6178.18s] English:** Да, в Таиланде с этим не очень.  
+**[6175.64s] English:** Convenience for women, freedom of speech.  
 **Translation:** 
 
-**[6179.72s] English:** Значение, полученное из национальной статистики.  
-**Translation:** 
+**[6178.18s] English:** Yes, in Thailand, it's not very good.  
+**Translation:** Vocabulary: thailand: 泰国
 
-**[6182.36s] English:** Мне нравится такой подход.  
+**[6179.72s] English:** The value obtained from national statistics.  
 **Translation:** 
 
-**[6184.16s] English:** Я использую национальные данные, ведь для городов их обычно нету.  
+**[6182.36s] English:** I like this approach.  
 **Translation:** 
 
-**[6188.04s] English:** Так что насчет свободы слова не уверен.  
+**[6184.16s] English:** I use national data because local data are usually not available.  
 **Translation:** 
 
-**[6190.56s] English:** Данные по Таиланду.  
+**[6188.04s] English:** So, I'm not sure about freedom of speech.  
 **Translation:** 
 
-**[6191.56s] English:** Очень увлекательно.  
+**[6190.56s] English:** Data for Thailand.  
 **Translation:** 
 
-**[6192.56s] English:** То есть рейтинг для города.  
-**Translation:** 
+**[6191.56s] English:** Very entertaining.  
+**Translation:** Vocabulary: entertaining: 有趣的
 
-**[6194.56s] English:** Да.  
+**[6192.56s] English:** That is, a rating for the city.  
 **Translation:** 
 
-**[6195.56s] English:** В основном это рейтинг всех важных для тебя вещей.  
+**[6194.56s] English:** Yes.  
 **Translation:** 
 
-**[6198.56s] English:** И все через краудсорсинг.  
+**[6195.56s] English:** This is mainly a rating of all the things that are important to you.  
 **Translation:** 
 
-**[6200.56s] English:** Ну, начиналось с краудсорсинга, но потом я понял, что  
-**Translation:** 
+**[6198.56s] English:** And all through crowdsourcing.  
+**Translation:** Vocabulary: crowdsourcing: 众包
 
-**[6205.56s] English:** можно скачать более точные наборы данных,  
+**[6200.56s] English:** Nu, it began with crowdsourcing, but then I realized that  
 **Translation:** 
 
-**[6208.04s] English:** из открытых источников, например, Всемирного банка.  
+**[6205.56s] English:** Can download more accurate data sets.  
 **Translation:** 
 
-**[6210.04s] English:** У них много открытых наборов данных.  
+**[6208.04s] English:** From open sources, for example, the World Bank.  
 **Translation:** 
 
-**[6212.04s] English:** ООН.  
+**[6210.04s] English:** They have many open data sets.  
 **Translation:** 
 
-**[6214.04s] English:** И можно их оттуда скачать.  
+**[6212.04s] English:** UN.  
 **Translation:** 
 
-**[6216.04s] English:** И свободно использовать.  
+**[6214.04s] English:** And you can download them from there.  
 **Translation:** 
 
-**[6218.04s] English:** Просто я столкнулся с проблемами.  
+**[6216.04s] English:** Keep free to use.  
 **Translation:** 
 
-**[6220.04s] English:** Например, люди из Индии очень любят Индию.  
+**[6218.04s] English:** I simply ran into some problems.  
 **Translation:** 
 
-**[6224.04s] English:** И они ставили лучшие оценки для всего в Индии.  
+**[6220.04s] English:** For example, people from India very much love India.  
 **Translation:** 
 
-**[6228.04s] English:** И не один человек, а много.  
+**[6224.04s] English:** And they gave the best ratings for everything in India.  
 **Translation:** 
 
-**[6230.04s] English:** Хотели прокачать Индию.  
+**[6228.04s] English:** And not just one person, but many.  
 **Translation:** 
 
-**[6232.04s] English:** И я такой, я тоже люблю Индию.  
+**[6230.04s] English:** We wanted to boost India.  
 **Translation:** 
 
-**[6234.04s] English:** Но это недостоверные данные.  
+**[6232.04s] English:** I am like that too; I also love India.  
 **Translation:** 
 
-**[6236.04s] English:** Стали появляться расхождения в данных.  
-**Translation:** 
+**[6234.04s] English:** But these are unreliable data.  
+**Translation:** Vocabulary: unreliable: 不可靠的
 
-**[6238.04s] English:** В зависимости от того, откуда люди.  
+**[6236.04s] English:** Stalet begin appearing discrepancies in the data.  
 **Translation:** 
 
-**[6240.00s] English:** Поэтому я начал переходить на наборы данных.  
-**Translation:** 
+**[6238.04s] English:** Dependent on where people come from.  
+**Translation:** Vocabulary: discrepancies: 数据差异
 
-**[6243.60s] English:** Но одна вещь все еще основана на краудсорсинге.  
+**[6240.00s] English:** Therefore, I began switching to data sets.  
 **Translation:** 
 
-**[6246.66s] English:** Люди добавляют, где они находятся, добавляют свои путешествия в профиль.  
+**[6243.60s] English:** But one thing is still based on crowdsourcing.  
 **Translation:** 
 
-**[6250.42s] English:** Я использую эти данные, чтобы увидеть, какие места набирают популярность и популярны сейчас.  
+**[6246.66s] English:** People add where they are located, adding their travels to their profile.  
 **Translation:** 
 
-**[6255.96s] English:** Так что примерно половина этого рейтинга сформирована намадами, которые там живут.  
-**Translation:** 
+**[6250.42s] English:** I use these data to see which places are gaining popularity and are popular right now.  
+**Translation:** Vocabulary: popularity: 受欢迎程度
 
-**[6259.80s] English:** Можно кликнуть на город и увидеть людей, которые действительно там находятся.  
+**[6255.96s] English:** So, about half of this rating is formed by the nomads who live there.  
 **Translation:** 
 
-**[6264.54s] English:** И это примерно 30-45 тысяч участников.  
-**Translation:** 
+**[6259.80s] English:** You can click on a city and see people who are actually there.  
+**Translation:** Vocabulary: nomads: 游牧民族
 
-**[6267.48s] English:** Эти люди сейчас в Остине.  
+**[6264.54s] English:** This is approximately 30,450 participants.  
 **Translation:** 
 
-**[6268.82s] English:** Сейчас в Остине 1800 человек на удаленке, из которых 8 участников отметились.  
+**[6267.48s] English:** These people are in Austin now.  
 **Translation:** 
 
-**[6274.38s] English:** Участники, которые скоро будут здесь.  
+**[6268.82s] English:** Currently in Austin, there are 1,800 people working remotely, of which 8 participants have marked themselves present.  
 **Translation:** 
 
-**[6276.28s] English:** Да, у нас есть встречи, люди сами организуют встречи.  
-**Translation:** 
+**[6274.38s] English:** Participants who will be here soon.  
+**Translation:** Vocabulary: remotely: 远程地
 
-**[6279.94s] English:** У нас их, я думаю, около 30 в месяц по встрече в день.  
+**[6276.28s] English:** Yes, we have meetings; people organize them themselves.  
 **Translation:** 
 
-**[6284.62s] English:** И я ничего не делаю, они сами организуются.  
+**[6279.94s] English:** We have about 30 per month for meetings per day, I think.  
 **Translation:** 
 
-**[6287.88s] English:** Это черный ящик, я над ним даже не колдую.  
+**[6284.62s] English:** And I don't do anything, they organize themselves.  
 **Translation:** 
 
-**[6292.28s] English:** Он тянет данные отовсюду и просто работает.  
-**Translation:** 
+**[6287.88s] English:** This is the black box, I haven't even been casting any spells on it.  
+**Translation:** Vocabulary: casting: 施法
 
-**[6295.48s] English:** Минусы Остина. Слишком дорого, очень жарко и влажно.  
+**[6292.28s] English:** He pulls data from everywhere and just works.  
 **Translation:** 
 
-**[6298.82s] English:** Сложно завести друзей.  
-**Translation:** 
+**[6295.48s] English:** Minuses of Austin: Too expensive, very hot and humid.  
+**Translation:** Vocabulary: minuses: 缺点
 
-**[6300.12s] English:** Сложно завести друзей. Интересно, правда?  
+**[6298.82s] English:** It's hard to make friends.  
 **Translation:** 
 
-**[6302.04s] English:** Сложно завести друзей.  
+**[6300.12s] English:** It's hard to make friends. Isn't it?  
 **Translation:** 
 
-**[6303.48s] English:** В Остине.  
+**[6302.04s] English:** It's hard to make friends.  
 **Translation:** 
 
-**[6304.16s] English:** Это все краудсорсинг, но в основном это плюсы.  
+**[6303.48s] English:** In Austin.  
 **Translation:** 
 
-**[6307.68s] English:** Да, Остин очень...  
+**[6304.16s] English:** This is all crowdsourcing, but mostly these are positives.  
 **Translation:** 
 
-**[6308.22s] English:** Довольно безопасно, быстрый интернет.  
-**Translation:** 
+**[6307.68s] English:** Yes, Austin is very...  
+**Translation:** Vocabulary: crowdsourcing: 众包; positives: 积极面
 
-**[6309.78s] English:** Не понимаю, почему не безопасно для женщин.  
+**[6308.22s] English:** It's fairly safe, with fast internet.  
 **Translation:** 
 
-**[6311.96s] English:** Нужно проверить набор данных.  
+**[6309.78s] English:** I do not understand why it is not safe for women.  
 **Translation:** 
 
-**[6313.44s] English:** Здесь вроде безопасно.  
+**[6311.96s] English:** We need to check the data set.  
 **Translation:** 
 
-**[6314.88s] English:** Проблема в таких местах, как в США, в том, что все зависит от района.  
+**[6313.44s] English:** Here it seems safe.  
 **Translation:** 
 
-**[6318.54s] English:** Если у тебя есть данные на уровне города или страны...  
+**[6314.88s] English:** The problem in places like the US is that everything depends on the district.  
 **Translation:** 
 
-**[6322.56s] English:** Бразилия, например, худшая.  
+**[6318.54s] English:** If you have data at the city or country level,...  
 **Translation:** 
 
-**[6324.06s] English:** Там разброс между безопасным и богатым и небезопасными районами.  
+**[6322.56s] English:** Brazil, for example, is the worst.  
 **Translation:** 
 
-**[6328.82s] English:** Огромный.  
-**Translation:** 
+**[6324.06s] English:** There is a spread between safe and wealthy areas and unsafe districts.  
+**Translation:** Vocabulary: unsafe: 不安全的; wealthy: 富有的
 
-**[6329.30s] English:** О Бразилии многого не скажешь.  
+**[6328.82s] English:** Huge.  
 **Translation:** 
 
-**[6331.36s] English:** Когда люди приезжают в город, как им понять, где остановиться?  
+**[6329.30s] English:** About Brazil, one cannot say much.  
 **Translation:** 
 
-**[6334.86s] English:** Где найти быстрый интернет?  
+**[6331.36s] English:** When people arrive in a city, how can they understand where to stay?  
 **Translation:** 
 
-**[6336.96s] English:** Для меня, например, это постоянная проблема.  
+**[6334.86s] English:** Where can I find a fast internet connection?  
 **Translation:** 
 
-**[6339.28s] English:** Выяснить, где...  
+**[6336.96s] English:** For me, for example, this is a constant problem.  
 **Translation:** 
 
-**[6340.92s] English:** До сих пор.  
-**Translation:** 
+**[6339.28s] English:** To clarify where...  
+**Translation:** Vocabulary: clarify: 阐明
 
-**[6341.82s] English:** Отели с быстрым Wi-Fi, например.  
+**[6340.92s] English:** Until now.  
 **Translation:** 
 
-**[6344.70s] English:** Вот я приезжаю в город.  
+**[6341.82s] English:** Hotels with fast Wi-Fi, for example.  
 **Translation:** 
 
-**[6347.64s] English:** Тут куча головоломок, и я не нашел способа их решить.  
+**[6344.70s] English:** Here I arrive in the city.  
 **Translation:** 
 
-**[6351.96s] English:** Когда я приезжаю в город,  
-**Translation:** 
+**[6347.64s] English:** Here are a lot of puzzles, and I haven't found a way to solve them.  
+**Translation:** Vocabulary: puzzles: 难题
 
-**[6354.26s] English:** выяснить, где я могу получить быстрый интернет,  
+**[6351.96s] English:** When I arrive in the city,  
 **Translation:** 
 
-**[6358.82s] English:** и...  
+**[6354.26s] English:** To find where I can get fast internet,  
 **Translation:** 
 
-**[6359.92s] English:** Продолжение следует...  
+**[6358.82s] English:** And...  
 **Translation:** 
 
-**[6360.00s] English:** Для подкастинга, да еще и тихое место, где есть стол.  
+**[6359.92s] English:** To be continued...  
 **Translation:** 
 
-**[6364.34s] English:** Да, точно понимаю.  
+**[6360.00s] English:** For podcasting, a quiet place with a table would be ideal.  
 **Translation:** 
 
-**[6364.78s] English:** Это тот еще квест.  
-**Translation:** 
+**[6364.34s] English:** Yes, definitely understand.  
+**Translation:** Vocabulary: podcasting: 播客制作
 
-**[6365.92s] English:** Звуки стройки.  
+**[6364.78s] English:** This is quite a quest.  
 **Translation:** 
 
-**[6367.04s] English:** Все подряд.  
+**[6365.92s] English:** Sounds of construction.  
 **Translation:** 
 
-**[6368.48s] English:** Ты узнаешь про все источники шума в мире.  
+**[6367.04s] English:** All in one go.  
 **Translation:** 
 
-**[6371.58s] English:** А еще и особенности акустики помещения, потому что...  
+**[6368.48s] English:** You are informed about all sources of noise in the world.  
 **Translation:** 
 
-**[6376.34s] English:** Чем более пустая комната, и это просто голые стены без штор или чего-то подобного,  
+**[6371.58s] English:** And there are also the acoustics of the room, because...  
 **Translation:** 
 
-**[6383.12s] English:** то по ней гуляет эхо.  
-**Translation:** 
+**[6376.34s] English:** The more empty the room, and this simply refers to bare walls without curtains or anything similar,  
+**Translation:** Vocabulary: acoustics: 房间的音质; curtains: 窗帘
 
-**[6385.60s] English:** Оказывается, что во многих отелях нет столов.  
+**[6383.12s] English:** That echo walks along it.  
 **Translation:** 
 
-**[6388.70s] English:** Нет нормальных...  
+**[6385.60s] English:** It turns out that in many hotels, there are no tables.  
 **Translation:** 
 
-**[6389.58s] English:** У них есть что-то странное.  
+**[6388.70s] English:** There are no normals...  
 **Translation:** 
 
-**[6390.70s] English:** Да, у них...  
+**[6389.58s] English:** They have something strange.  
 **Translation:** 
 
-**[6391.44s] English:** Это не обычный стол.  
+**[6390.70s] English:** Yes, they have...  
 **Translation:** 
 
-**[6392.94s] English:** Да, и если хочешь снять номер получше, где больше места и все такое,  
+**[6391.44s] English:** This is not an ordinary table.  
 **Translation:** 
 
-**[6399.14s] English:** то обычно там стоят эти дизайнерские столики в стиле модерн.  
+**[6392.94s] English:** Yes, and if you want to rent a nicer room with more space and all that,  
 **Translation:** 
 
-**[6403.08s] English:** Бесячие.  
+**[6399.14s] English:** That's usually where these modern-style designer desks are placed.  
 **Translation:** 
 
-**[6403.98s] English:** Которые...  
+**[6403.08s] English:** Bесyaчие.  
 **Translation:** 
 
-**[6404.50s] English:** Да, слишком дизайнерские.  
+**[6403.98s] English:** Which ones...  
 **Translation:** 
 
-**[6405.40s] English:** Да, на настоящий стол не похожи.  
+**[6404.50s] English:** Yes, too designer.  
 **Translation:** 
 
-**[6407.60s] English:** А если купить в Икеа?  
+**[6405.40s] English:** No, they don't resemble a real desk.  
 **Translation:** 
 
-**[6409.12s] English:** Купить в Икеа?  
+**[6407.60s] English:** If we buy from IKEA?  
 **Translation:** 
 
-**[6410.46s] English:** Да, перед приездом заказать в Икеа, намады так делают.  
+**[6409.12s] English:** Should we buy from IKEA?  
 **Translation:** 
 
-**[6413.98s] English:** Думаю, когда приезжаешь куда-то, там уже должен быть стол,  
+**[6410.46s] English:** Yes, before coming, order from IKEA; that's what they do.  
 **Translation:** 
 
-**[6417.20s] English:** если только ты не останавливаешься там на дом.  
+**[6413.98s] English:** I think that when you arrive somewhere, there should already be a table.  
 **Translation:** 
 
-**[6419.58s] English:** Вся эта сборка — это все морока.  
+**[6417.20s] English:** If you don't stop at the house, though.  
 **Translation:** 
 
-**[6422.52s] English:** Airbnb столь ненадежен.  
-**Translation:** 
+**[6419.58s] English:** This entire assembly is just a hassle.  
+**Translation:** Vocabulary: hassle: 麻烦
 
-**[6425.40s] English:** Разброс в качестве, который ты получаешь, он огромен.  
+**[6422.52s] English:** Airbnb is so unreliable.  
 **Translation:** 
 
-**[6430.84s] English:** У отелей много плюсов и минусов.  
-**Translation:** 
+**[6425.40s] English:** The range in quality you get is enormous.  
+**Translation:** Vocabulary: unreliable: 不可靠
 
-**[6433.50s] English:** Их проблема в том, что фотографии почему-то никогда не отражают то,  
+**[6430.84s] English:** Hotels have many pros and cons.  
 **Translation:** 
 
-**[6437.02s] English:** каким в реальности будет номер.  
+**[6433.50s] English:** Their problem is that photographs somehow never capture what they are supposed to.  
 **Translation:** 
 
-**[6439.46s] English:** Да, это проблема.  
+**[6437.02s] English:** What will the actual number be?  
 **Translation:** 
 
-**[6441.92s] English:** Фальшивые фото.  
+**[6439.46s] English:** Yes, it is a problem.  
 **Translation:** 
 
-**[6442.80s] English:** Если бы у меня были такие данные, как у тебя на Nomad List по отелям...  
+**[6441.92s] English:** False photos.  
 **Translation:** 
 
-**[6446.90s] English:** Да, да, чувак.  
+**[6442.80s] English:** If I had such data as you have on Nomad List for hotels,...  
 **Translation:** 
 
-**[6447.80s] English:** Ты мог бы на этом хорошо заработать.  
+**[6446.90s] English:** Yes, yes, dude.  
 **Translation:** 
 
-**[6449.58s] English:** Да, партнерка забронирования.  
+**[6447.80s] English:** You could make a good living from this.  
 **Translation:** 
 
-**[6451.58s] English:** Я думал об этом, у нас та же проблема.  
+**[6449.58s] English:** Yes, reservation affiliate program.  
 **Translation:** 
 
-**[6453.58s] English:** Я останавливаюсь в отелях, и есть какие-то очень хорошие,  
-**Translation:** 
+**[6451.58s] English:** I thought about it, we have the same problem.  
+**Translation:** Vocabulary: affiliate: 附属会员
 
-**[6456.58s] English:** и теперь я знаю, сети и все такое.  
+**[6453.58s] English:** I stay in hotels, and there are some that are very good.  
 **Translation:** 
 
-**[6459.58s] English:** Но даже останавливаясь в конкретной сети,  
+**[6456.58s] English:** And now I know about networks and all that.  
 **Translation:** 
 
-**[6461.58s] English:** в одном городе отель плохой, а в другом ужасный.  
+**[6459.58s] English:** But even when stopping in a specific network,  
 **Translation:** 
 
-**[6464.58s] English:** И в каждом отдельном отеле много разных номеров.  
+**[6461.58s] English:** In one city, the hotel is bad, while in another, it's awful.  
 **Translation:** 
 
-**[6467.58s] English:** Да.  
+**[6464.58s] English:** In each individual hotel, there are many different rooms.  
 **Translation:** 
 
-**[6468.58s] English:** Некоторые дороже, некоторые дешевле,  
+**[6467.58s] English:** Yes.  
 **Translation:** 
 
-**[6470.58s] English:** но можно реально узнать, что находится в номере,  
+**[6468.58s] English:** Some are more expensive, some are cheaper,  
 **Translation:** 
 
-**[6474.58s] English:** какая у него планировка, какой вид из окна.  
+**[6470.58s] English:** But you can really see what's in the room.  
 **Translation:** 
 
-**[6477.58s] English:** 3D-скан.  
+**[6474.58s] English:** What is its floor plan, and what view is there from the window.  
 **Translation:** 
 
-**[6478.58s] English:** Мне кажется, для отеля...  
+**[6477.58s] English:** 3D-scan.  
 **Translation:** 
 
-**[6480.00s] English:** Оля, тут одни плюсы. Создаешь сервис, где можно получить данные отеля в высоком разрешении.  
+**[6478.58s] English:** It seems like for the hotel,...  
 **Translation:** 
 
-**[6487.24s] English:** Затем один отель подписывается на это.  
-**Translation:** 
+**[6480.00s] English:** Olya, here are only positives. You create a service where users can get hotel data in high resolution.  
+**Translation:** Vocabulary: positives: 正面评价
 
-**[6489.36s] English:** Я бы сто процентов использовал такой сайт для поиска отеля вместо паршивых альтернатив, не дающих информации.  
+**[6487.24s] English:** Then one hotel signs up for it.  
 **Translation:** 
 
-**[6496.98s] English:** Думаю, на отеле возникнет давление, чтобы были на этом сайте, и ты мог бы заработать кучу денег, как и отели.  
+**[6489.36s] English:** I would definitely use such a site for finding a hotel instead of those terrible alternatives that don't provide any information.  
 **Translation:** 
 
-**[6504.04s] English:** Наверное, но проблема с отелями, как и с авиакомпаниями.  
+**[6496.98s] English:** I think there will be pressure from the hotel to be on this site, and you could make a lot of money, just like the hotels do.  
 **Translation:** 
 
-**[6507.72s] English:** Почему сайт каждой авиакомпании отстой?  
+**[6504.04s] English:** Probably, but the issue with hotels is similar to that with airlines.  
 **Translation:** 
 
-**[6510.90s] English:** Очень странно. Почему так? Идет же конкуренция.  
+**[6507.72s] English:** Why is every airline website terrible?  
 **Translation:** 
 
-**[6514.10s] English:** Почему не побеждает мучиться?  
+**[6510.90s] English:** Very strange. Why is that? There is competition, after all.  
 **Translation:** 
 
-**[6515.08s] English:** Как же это объяснить?  
+**[6514.10s] English:** Why doesn't it win by suffering?  
 **Translation:** 
 
-**[6516.56s] English:** Я ломал голову годами и думаю, мне все равно нужно бронировать рейс.  
+**[6515.08s] English:** How can this be explained?  
 **Translation:** 
 
-**[6522.06s] English:** Допустим, мне нужно забронировать, например, Катар Аирлайнс, и мне нужно пройти через этот процесс.  
+**[6516.56s] English:** I've been scratching my head for years, and I think I still need to book a flight.  
 **Translation:** 
 
-**[6529.08s] English:** И с отелями то же самое. Тебе все равно нужен отель.  
-**Translation:** 
+**[6522.06s] English:** Let's assume I need to book, for example, Qatar Airways, and I need to go through this process.  
+**Translation:** Vocabulary: airways: 航空公司; qatar: 卡塔尔; scratching: 抓头
 
-**[6532.62s] English:** Есть ли у тебя время выяснить, какой из них лучший?  
+**[6529.08s] English:** And the same goes for hotels. You still need a hotel.  
 **Translation:** 
 
-**[6535.94s] English:** Не особо.  
+**[6532.62s] English:** Is there any time for you to find out which one is the best?  
 **Translation:** 
 
-**[6536.88s] English:** Тебе просто нужно...  
+**[6535.94s] English:** Not really.  
 **Translation:** 
 
-**[6537.70s] English:** Тебе просто нужно забронировать место или купить билет.  
+**[6536.88s] English:** You just need to...  
 **Translation:** 
 
-**[6540.98s] English:** И ты пройдешь через все мучения, поэтому сайты отелей и авиакомпаний такой отстой.  
+**[6537.70s] English:** You simply need to reserve a spot or buy a ticket.  
 **Translation:** 
 
-**[6547.08s] English:** У них нет стимула улучшать его.  
+**[6540.98s] English:** And you will go through all the suffering, so hotel and airline websites are such a mess.  
 **Translation:** 
 
-**[6549.64s] English:** Ведь, как правило, только для супер-верхнего сегмента рынка, супер-лакшери, это влияет на бронирование.  
+**[6547.08s] English:** They have no incentive to improve it.  
 **Translation:** 
 
-**[6557.00s] English:** Не знаю, но это интересная теория, хотя, думаю, есть что-то еще.  
-**Translation:** 
+**[6549.64s] English:** Because, as a rule, this affects bookings only for the super-luxury top segment of the market.  
+**Translation:** Vocabulary: bookings: 预订; incentive: 动力; segment: 部分
 
-**[6561.68s] English:** У меня теория такая.  
+**[6557.00s] English:** I don't know, but this is an interesting theory, though, I think there's more to it.  
 **Translation:** 
 
-**[6564.16s] English:** Хорошие программисты просто не могут ничего менять.  
+**[6561.68s] English:** I have a theory.  
 **Translation:** 
 
-**[6567.70s] English:** Там такая себе бюрократия. Слишком много менеджеров. Куча бюрократии.  
+**[6564.16s] English:** Good programmers simply cannot change anything.  
 **Translation:** 
 
-**[6574.20s] English:** И вот приходят таланты, пытаются работать, а им не дают внести какой-либо вклад.  
-**Translation:** 
+**[6567.70s] English:** There's such a bureaucratic mess. Too many managers. So much bureaucracy.  
+**Translation:** Vocabulary: bureaucracy: 官僚主义; bureaucratic: 官僚的; cannot: 不能; programmers: 程序员
 
-**[6579.10s] English:** И они уходят. И остаются посредственные программисты, которым неинтересно что-то улучшать.  
+**[6574.20s] English:** And here come the talents, trying to work, but they are not allowed to make any contribution.  
 **Translation:** 
 
-**[6585.14s] English:** И они хотели бы что-то улучшить, но бюрократия...  
+**[6579.10s] English:** And they leave. And mediocre programmers remain, who are uninterested in improving anything.  
 **Translation:** 
 
-**[6590.22s] English:** Плюс все эти начальники, вся верхушка технически не подкована.  
+**[6585.14s] English:** They wanted to improve something, but the bureaucracy...  
 **Translation:** 
 
-**[6595.64s] English:** Да.  
-**Translation:** 
+**[6590.22s] English:** Plus all these bosses, none of them are technically savvy.  
+**Translation:** Vocabulary: savvy: 懂行; technically: 从技术上
 
-**[6597.70s] English:** ...про разработки и программирование, и поэтому...  
+**[6595.64s] English:** Yes.  
 **Translation:** 
 
-**[6600.00s] English:** Они уважают специалистов.  
+**[6597.70s] English:** ...about developments and programming, and therefore...  
 **Translation:** 
 
-**[6603.36s] English:** Нужно давать свободу и уважать толковых инженеров,  
+**[6600.00s] English:** They respect specialists.  
 **Translation:** 
 
-**[6606.74s] English:** когда они пытаются сделать что-то стоящее.  
-**Translation:** 
+**[6603.36s] English:** We need to give freedom and respect to competent engineers.  
+**Translation:** Vocabulary: competent: 有能力的
 
-**[6609.58s] English:** Думаю, так и есть.  
+**[6606.74s] English:** When they try to do something worthwhile.  
 **Translation:** 
 
-**[6610.96s] English:** Будучи крутым программистом, ты бы хотел работать в American Airlines?  
+**[6609.58s] English:** I think that's correct.  
 **Translation:** 
 
-**[6616.42s] English:** Нет.  
+**[6610.96s] English:** Being a cool programmer, would you like to work for American Airlines?  
 **Translation:** 
 
-**[6617.56s] English:** Нет.  
-**Translation:** 
+**[6616.42s] English:** No.  
+**Translation:** Vocabulary: programmer: 程序员
 
-**[6618.06s] English:** У меня смешанные чувства.  
+**[6617.56s] English:** No.  
 **Translation:** 
 
-**[6620.14s] English:** Я, как человек, который любит программировать,  
+**[6618.06s] English:** I have mixed feelings.  
 **Translation:** 
 
-**[6623.46s] English:** хотел бы работать в American Airlines, чтобы улучшить их систему.  
+**[6620.14s] English:** I, as a person who loves programming,  
 **Translation:** 
 
-**[6627.68s] English:** Да, я пошел бы туда только для того, чтобы для себя все подчинить.  
+**[6623.46s] English:** I would like to work at American Airlines to improve their system.  
 **Translation:** 
 
-**[6630.48s] English:** Да, для себя.  
+**[6627.68s] English:** Yes, I would go there just to subordinate everything to myself.  
 **Translation:** 
 
-**[6631.60s] English:** Плюс будешь тешиться, скольким ты облегчил страдания.  
-**Translation:** 
+**[6630.48s] English:** Yes, for myself.  
+**Translation:** Vocabulary: subordinate: 使服从
 
-**[6635.58s] English:** Да, всему миру и обществу.  
+**[6631.60s] English:** Plus, you will rejoice in how much you have alleviated suffering.  
 **Translation:** 
 
-**[6637.54s] English:** Только представь себе все эти тысячи, а может и миллионы, заходящих на сайт.  
-**Translation:** 
+**[6635.58s] English:** Yes, to the world and society.  
+**Translation:** Vocabulary: alleviated: 减轻; rejoice: 欢庆
 
-**[6642.32s] English:** Им приходится миллион раз тыкать, сайт часто лежит, он неудобный и так далее.  
+**[6637.54s] English:** Just imagine all those thousands, maybe even millions, visiting the site.  
 **Translation:** 
 
-**[6647.98s] English:** А ты бы сделал их жизнь лучше.  
-**Translation:** 
+**[6642.32s] English:** They have to click a million times, the site often crashes, it's inconvenient, and so on.  
+**Translation:** Vocabulary: inconvenient: 不方便
 
-**[6650.98s] English:** Скорее всего, все объясняется засилием менеджеров и бюрократии.  
+**[6647.98s] English:** You would have made their life better.  
 **Translation:** 
 
-**[6655.16s] English:** Думаю, дело в деньгах.  
-**Translation:** 
+**[6650.98s] English:** It is likely that this is explained by an excess of managers and bureaucracy.  
+**Translation:** Vocabulary: bureaucracy: 官僚主义
 
-**[6656.20s] English:** Знаешь booking.com?  
+**[6655.16s] English:** I think it's about money.  
 **Translation:** 
 
-**[6657.24s] English:** Конечно.  
+**[6656.20s] English:** Do you know Booking.com?  
 **Translation:** 
 
-**[6658.24s] English:** Крупнейший сайт бронирования в мире.  
+**[6657.24s] English:** Of course.  
 **Translation:** 
 
-**[6660.24s] English:** Он, кстати, голландский.  
+**[6658.24s] English:** The largest booking site in the world.  
 **Translation:** 
 
-**[6661.24s] English:** У них есть команды, мой друг там работал,  
+**[6660.24s] English:** He, by the way, is Dutch.  
 **Translation:** 
 
-**[6664.24s] English:** которые отвечают за конкретную часть сайта, типа область 10 на 10 пикселей,  
+**[6661.24s] English:** They have teams, my friend worked there.  
 **Translation:** 
 
-**[6669.24s] English:** где они проводят тесты.  
+**[6664.24s] English:** Which ones are responsible for a specific part of the site, like an area 10 by 10 pixels,  
 **Translation:** 
 
-**[6671.24s] English:** И они этим славятся.  
-**Translation:** 
+**[6669.24s] English:** Where do they conduct the tests?  
+**Translation:** Vocabulary: pixels: 像素
 
-**[6672.24s] English:** Например, остался только один номер, красным шрифтом.  
+**[6671.24s] English:** They are known for that.  
 **Translation:** 
 
-**[6675.24s] English:** Бронируйте сейчас.  
+**[6672.24s] English:** For example, only one number is left in red font.  
 **Translation:** 
 
-**[6677.24s] English:** Евросоюз их за это оштрафовал.  
+**[6675.24s] English:** Book now.  
 **Translation:** 
 
-**[6680.24s] English:** Забавно.  
+**[6677.24s] English:** The European Union fined them for that.  
 **Translation:** 
 
-**[6681.24s] English:** Так вот, эти команды проводят тест сутки.  
+**[6680.24s] English:** Fun.  
 **Translation:** 
 
-**[6683.24s] English:** Идут спать, просыпаются, приходят в офис и смотрят.  
+**[6681.24s] English:** So these teams conduct a test for a day.  
 **Translation:** 
 
-**[6686.24s] English:** Сработало.  
+**[6683.24s] English:** They go to sleep, wake up, come to the office, and check.  
 **Translation:** 
 
-**[6687.24s] English:** Этот сайт превратился в монстра.  
+**[6686.24s] English:** It worked.  
 **Translation:** 
 
-**[6689.24s] English:** Он самый прибыльный сайт бронирования отелей в мире.  
+**[6687.24s] English:** This site has turned into a monster.  
 **Translation:** 
 
-**[6694.24s] English:** Это показывает, что дело не в опыте пользователя, а в том, чтобы, не знаю, заработать больше.  
-**Translation:** 
+**[6689.24s] English:** He is the most profitable hotel booking site in the world.  
+**Translation:** Vocabulary: profitable: 有利可图的
 
-**[6700.24s] English:** Не каждая компания, но эта же публичная компания, она оптимизирует прибыль.  
+**[6694.24s] English:** This shows that it's not about user experience, but rather to, I don't know, make more money.  
 **Translation:** 
 
-**[6706.24s] English:** Но ведь можно оптимизировать прибыль, сделав все значительно лучше.  
-**Translation:** 
+**[6700.24s] English:** Not every company, but this public company is optimizing its profit.  
+**Translation:** Vocabulary: optimizing: 优化利润
 
-**[6710.24s] English:** Все всегда начинается с изменений, с революции.  
+**[6706.24s] English:** But we can optimize profits by making everything significantly better.  
 **Translation:** 
 
-**[6712.24s] English:** Букинг начинался как стартап в 97-м.  
-**Translation:** 
+**[6710.24s] English:** All always begins with changes, with a revolution.  
+**Translation:** Vocabulary: optimize: 优化
 
-**[6715.24s] English:** Потом снова стал директором.  
+**[6712.24s] English:** Booking began as a startup in 1997.  
 **Translation:** 
 
-**[6716.24s] English:** Теперь он стал дерьмом.  
+**[6715.24s] English:** Then he became director again.  
 **Translation:** 
 
-**[6718.24s] English:** Мамонта Убер сейчас начинает превращаться в такси.  
+**[6716.24s] English:** Now he is shit.  
 **Translation:** 
 
-**[6720.84s] English:** Вначале было очень хорошо, а теперь во многих местах такси даже лучше, а не приятнее, чем Uber.  
+**[6718.24s] English:** Mamont's Uber is now beginning to transform into a taxi.  
 **Translation:** 
 
-**[6725.70s] English:** Ведь так?  
+**[6720.84s] English:** At first it was very good, and now in many places taxis are even better, not nicer, than Uber.  
 **Translation:** 
 
-**[6726.76s] English:** Это замкнутый круг.  
+**[6725.70s] English:** Well, isn't that so?  
 **Translation:** 
 
-**[6727.88s] English:** Думаю, отчасти дело еще и в том, что сложно найти очень компетентных инженеров.  
+**[6726.76s] English:** This is a vicious circle.  
 **Translation:** 
 
-**[6734.16s] English:** Да.  
-**Translation:** 
+**[6727.88s] English:** I think part of the reason is that it's difficult to find very competent engineers.  
+**Translation:** Vocabulary: competent: 有能力的; vicious: 恶性的
 
-**[6734.84s] English:** Stripe кажется простой вещью, но такое сложно реализовать.  
+**[6734.16s] English:** Yes.  
 **Translation:** 
 
-**[6739.56s] English:** Почему Amazon было так сложно сделать покупку в один клик?  
-**Translation:** 
+**[6734.84s] English:** Stripe seems like a simple thing, but it's hard to implement.  
+**Translation:** Vocabulary: implement: 实现; stripe: 条纹
 
-**[6743.32s] English:** Гениальная идея, как по мне.  
+**[6739.56s] English:** Why was it so difficult for Amazon to make one-click purchasing?  
 **Translation:** 
 
-**[6744.90s] English:** Да.  
-**Translation:** 
+**[6743.32s] English:** A genius idea, in my opinion.  
+**Translation:** Vocabulary: purchasing: 购买
 
-**[6745.20s] English:** Упростить покупку.  
+**[6744.90s] English:** Yes.  
 **Translation:** 
 
-**[6746.50s] English:** Сделать ее максимально легкой.  
-**Translation:** 
+**[6745.20s] English:** Simplify the purchase.  
+**Translation:** Vocabulary: simplify: 简化
 
-**[6750.80s] English:** Один раз нажал, и готово.  
+**[6746.50s] English:** Make it as light as possible.  
 **Translation:** 
 
-**[6752.98s] English:** Купил.  
+**[6750.80s] English:** One time you click, and it's done.  
 **Translation:** 
 
-**[6754.08s] English:** Да.  
+**[6752.98s] English:** Bought.  
 **Translation:** 
 
-**[6754.30s] English:** В отличие от остальных сайтов, вечно куда-то тыкаешь, и что-то не работает.  
+**[6754.08s] English:** Yes.  
 **Translation:** 
 
-**[6758.70s] English:** Как у авиакомпаний.  
+**[6754.30s] English:** Unlike other sites where you keep clicking and something always doesn't work.  
 **Translation:** 
 
-**[6759.90s] English:** Помнишь, формы очищались, ты нажимаешь «Далее», «Отправить», и ошибка 404, или интернет пропадает, модем отрубится.  
+**[6758.70s] English:** As with airlines.  
 **Translation:** 
 
-**[6766.90s] English:** Да, было.  
+**[6759.90s] English:** Remember, the forms would clear up, you'd click "Next," "Send," and then get a 404 error, or the internet would disappear, and the modem would shut off.  
 **Translation:** 
 
-**[6767.48s] English:** И случался экзистенциальный кризис.  
+**[6766.90s] English:** Yes, it was.  
 **Translation:** 
 
-**[6769.82s] English:** Фрустрация захлестывала с головой.  
+**[6767.48s] English:** Existential crises did occur.  
 **Translation:** 
 
-**[6772.22s] English:** И в какой-то момент хотелось все просто бросить.  
-**Translation:** 
+**[6769.82s] English:** Frustration overwhelmed me completely.  
+**Translation:** Vocabulary: crises: 危机; existential: 存在主义的
 
-**[6774.98s] English:** Да.  
+**[6772.22s] English:** In some moment, it just felt like everything should be thrown out.  
 **Translation:** 
 
-**[6775.92s] English:** Я так рад, что...  
+**[6774.98s] English:** Yes.  
 **Translation:** 
 
-**[6776.50s] English:** Я так рад, что теперь в Google Chrome данные формы сохраняются.  
+**[6775.92s] English:** I am so happy that...  
 **Translation:** 
 
-**[6779.66s] English:** Так что кто-то в Google реально сделал этот мир лучше, правда?  
+**[6776.50s] English:** I'm so glad that now in Google Chrome form data is saved.  
 **Translation:** 
 
-**[6783.28s] English:** Да.  
+**[6779.66s] English:** So someone at Google really did make the world a better place, right?  
 **Translation:** 
 
-**[6784.14s] English:** И одна из задач Google — это дать свободу делать подобное.  
+**[6783.28s] English:** Yes.  
 **Translation:** 
 
-**[6788.02s] English:** У них ее больше нет.  
+**[6784.14s] English:** One of Google's tasks is to give freedom to do similar things.  
 **Translation:** 
 
-**[6788.90s] English:** Там расплодилась бюрократия.  
+**[6788.02s] English:** They don't have her anymore.  
 **Translation:** 
 
-**[6790.64s] English:** Да, в Google.  
+**[6788.90s] English:** There has proliferated bureaucracy.  
 **Translation:** 
 
-**[6791.02s] English:** Там так много умнейших людей, но все движется очень медленно.  
-**Translation:** 
+**[6790.64s] English:** Yes, in Google.  
+**Translation:** Vocabulary: bureaucracy: 官僚主义; proliferated: 泛滥
 
-**[6795.98s] English:** Да, да, да.  
+**[6791.02s] English:** There are so many brilliant people there, but everything moves very slowly.  
 **Translation:** 
 
-**[6796.54s] English:** Интересно, почему так?  
+**[6795.98s] English:** Yes, yes, yes.  
 **Translation:** 
 
-**[6797.88s] English:** Может, это естественный путь развития компании?  
+**[6796.54s] English:** Interests why it is so?  
 **Translation:** 
 
-**[6800.70s] English:** Но есть такие, как Илон, кто приходит, увольняет большую часть сотрудников, заставляя компанию работать как стартер.  
+**[6797.88s] English:** May be, is this a natural path of company development?  
 **Translation:** 
 
-**[6806.50s] English:** Даже если она уже большая.  
+**[6800.70s] English:** But there are those, like Elon, who come in, fire a large portion of the employees, making the company work like a starter.  
 **Translation:** 
 
-**[6808.84s] English:** В Apple, например, так делают.  
+**[6806.50s] English:** Even if she is already big.  
 **Translation:** 
 
-**[6810.28s] English:** Когда я учился в бизнес-школе, то узнал, что в Apple есть конкурирующие команды, работающие как стартапы.  
+**[6808.84s] English:** In Apple, for example, they do it that way.  
 **Translation:** 
 
-**[6815.66s] English:** Есть несколько команд, по 3-5 человек, делающих одно и то же.  
-**Translation:** 
+**[6810.28s] English:** When I was in business school, I learned that at Apple there are competing teams working like startups.  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[6819.48s] English:** Побеждают лучшее.  
+**[6815.66s] English:** There are several teams, each consisting of 3-5 people, doing the same thing.  
 **Translation:** 
 
-**[6821.14s] English:** Думаю, нужно эмулировать свободный рынок внутри компании, чтобы она была предприимчива.  
+**[6819.48s] English:** Pobедают лучшее.  
 **Translation:** 
 
-**[6826.50s] English:** В компании нужно предпринимательское мышление, чтобы придумывать новое и делать все лучше.  
+**[6821.14s] English:** I think we should emulate a free market within the company to make it more entrepreneurial.  
 **Translation:** 
 
-**[6831.98s] English:** То, что ты делаешь очень хорошо, это учишься новому.  
-**Translation:** 
+**[6826.50s] English:** In the company, entrepreneurial thinking is needed to come up with something new and make everything better.  
+**Translation:** Vocabulary: emulate: 效仿; entrepreneurial: 企业家的
 
-**[6836.50s] English:** У тебя есть идея, ты пытаешься ее реализовать, изучаешь ее.  
+**[6831.98s] English:** That which you are doing very well is learning something new.  
 **Translation:** 
 
-**[6840.00s] English:** изучая всё, что нужно для её реализации.  
-**Translation:** 
+**[6836.50s] English:** You have an idea, you are trying to implement it, and you are studying it.  
+**Translation:** Vocabulary: implement: 执行
 
-**[6842.98s] English:** У тебя есть какие-то навыки, и учишь ты самый минимум.  
+**[6840.00s] English:** Studying everything that is needed for its implementation.  
 **Translation:** 
 
-**[6846.48s] English:** Так что ты тот, кого стоит спросить,  
-**Translation:** 
+**[6842.98s] English:** You have some skills, but you're teaching the minimum.  
+**Translation:** Vocabulary: implementation: 实施
 
-**[6849.34s] English:** «Как ты учишься?»  
+**[6846.48s] English:** So, you're the one worth asking.  
 **Translation:** 
 
-**[6851.92s] English:** Как ты учишься быстро, эффективно и лишь тому, что нужно?  
+**[6849.34s] English:** How are you studying?  
 **Translation:** 
 
-**[6856.26s] English:** Просто в качестве примера, ты 30 дней изучал 3D.  
+**[6851.92s] English:** How do you learn quickly, effectively, and only what is necessary?  
 **Translation:** 
 
-**[6860.58s] English:** Да.  
+**[6856.26s] English:** Simply as an example, you studied 3D for 30 days.  
 **Translation:** 
 
-**[6860.80s] English:** И всё документировал, дав себе всего 30 дней, чтобы узнать всё, что можно о 3D.  
+**[6860.58s] English:** Yes.  
 **Translation:** 
 
-**[6865.24s] English:** Да, я пытался изучать VR, это было как с ИИ,  
+**[6860.80s] English:** He documented it all, giving himself just 30 days to learn as much as possible about 3D.  
 **Translation:** 
 
-**[6868.18s] English:** и всё появилось внезапно в 16-17 годах.  
+**[6865.24s] English:** Yes, I tried to study VR, and it was like AI.  
 **Translation:** 
 
-**[6871.24s] English:** Скажется, HTC Vive с этими большими VR-очками.  
+**[6868.18s] English:** And it all appeared suddenly in the 16-17 years.  
 **Translation:** 
 
-**[6875.40s] English:** Я подумал, будет круто, нужно это изучить.  
+**[6871.24s] English:** It seems like the HTC Vive with these large VR goggles.  
 **Translation:** 
 
-**[6878.28s] English:** Я ничего не знал о 3D, я установил, кажется, Unity, Blender и стал изучать.  
-**Translation:** 
+**[6875.40s] English:** I thought it would be cool, I need to study this.  
+**Translation:** Vocabulary: goggles: 虚拟现实眼镜
 
-**[6887.30s] English:** Ведь думал, что это новая зарождающаяся технология, которая станет важной,  
+**[6878.28s] English:** I had no knowledge of 3D at first. I installed what seemed to be Unity, Blender, and started learning.  
 **Translation:** 
 
-**[6891.78s] English:** и будь у меня навыки, они бы очень пригодились.  
-**Translation:** 
+**[6887.30s] English:** Because he thought it was a new emerging technology that would become important,  
+**Translation:** Vocabulary: blender: 三维建模软件
 
-**[6895.04s] English:** И что же касается обучения,  
+**[6891.78s] English:** And if I had the skills, they would be very useful.  
 **Translation:** 
 
-**[6898.18s] English:** думаю, это весело, ведь люди часто спрашивают меня,  
+**[6895.04s] English:** And as for training,  
 **Translation:** 
 
-**[6900.84s] English:** «Как ты научился кодить, стоит ли мне учиться?»  
+**[6898.18s] English:** I think it's fun because people often ask me,  
 **Translation:** 
 
-**[6904.42s] English:** А я такой, «Не знаю, звучит как клише, но я каждый день учусь новому.  
+**[6900.84s] English:** -how did you learn to code, should I learn too?  
 **Translation:** 
 
-**[6908.22s] English:** Каждый день я что-то ищу в Google или спрашиваю чат GPT.  
+**[6904.42s] English:** I am like, "I don't know, it sounds cliché, but I learn something new every day.  
 **Translation:** 
 
-**[6911.60s] English:** Как сделать то, как сделать это? Каждый день мои навыки улучшаются.  
+**[6908.22s] English:** Each day I search for something on Google or ask Chat GPT a question.  
 **Translation:** 
 
-**[6915.10s] English:** Ты не прекращаешь учиться».  
+**[6911.60s] English:** How do I make my skills improve every day?  
 **Translation:** 
 
-**[6916.90s] English:** Вся эта концепция «как ты учишься», а я и не перестаю.  
+**[6915.10s] English:** You never stop learning.  
 **Translation:** 
 
-**[6921.18s] English:** Хочешь узнать чуть-чуть или много, заниматься этим всю жизнь, или...  
+**[6916.90s] English:** This entire concept of "how you learn," and I never cease to be amazed.  
 **Translation:** 
 
-**[6925.50s] English:** Я думаю, лучший способ учиться — это действовать.  
+**[6921.18s] English:** Do you want to know a little or a lot, to dedicate your life to this, or...  
 **Translation:** 
 
-**[6928.16s] English:** Делать что-то.  
+**[6925.50s] English:** I think the best way to learn is to act.  
 **Translation:** 
 
-**[6930.16s] English:** Ты ничего не знаешь, просто начни что-то делать.  
+**[6928.16s] English:** Do something.  
 **Translation:** 
 
-**[6933.16s] English:** Например, как создать веб-сайт, поищи или спроси чат GPT.  
+**[6930.16s] English:** You don't know anything, just start doing something.  
 **Translation:** 
 
-**[6936.16s] English:** Как сделать сайт, с чего начать.  
+**[6933.16s] English:** For example, how to create a website, search or ask Chat GPT.  
 **Translation:** 
 
-**[6938.16s] English:** Он сгенерирует код, скопируй код в файл и открой его в Google Chrome.  
+**[6936.16s] English:** How do you make a website? Where should you start.  
 **Translation:** 
 
-**[6943.16s] English:** Уже есть сайт, и начинай его дорабатывать.  
+**[6938.16s] English:** He will generate the code, copy the code into a file, and open it in Google Chrome.  
 **Translation:** 
 
-**[6945.16s] English:** Ищи, как добавить какую-то кнопку, добавить какие-то функции ИИ.  
+**[6943.16s] English:** Already have a website, and start developing it further.  
 **Translation:** 
 
-**[6950.16s] English:** Так что, действуя, можно учиться гораздо быстрее, чем читая книги или руководство.  
+**[6945.16s] English:** Search for a way to add some kind of button, and add some AI functions.  
 **Translation:** 
 
-**[6956.16s] English:** Мне интересно, да, Испания?  
+**[6950.16s] English:** So, acting can learn much faster than reading books or a manual.  
 **Translation:** 
 
-**[6957.40s] English:** Да.  
+**[6956.16s] English:** Mне интересно, да, Испания?  
 **Translation:** 
 
-**[6957.96s] English:** Я и спрошу о Перплексити.  
+**[6957.40s] English:** Yes.  
 **Translation:** 
 
-**[6960.00s] English:** Как сделать сайт?  
-**Translation:** 
+**[6957.96s] English:** I will ask about Perplexity.  
+**Translation:** Vocabulary: perplexity: 困惑
 
-**[6962.46s] English:** Любопытно, что он скажет.  
+**[6960.00s] English:** How do I make a website?  
 **Translation:** 
 
-**[6965.82s] English:** Надеюсь, он предложит базовые, простые решения.  
+**[6962.46s] English:** It's interesting what he will say.  
 **Translation:** 
 
-**[6969.82s] English:** Определите цель сайта, выберите домены хостинг-провайдера,  
+**[6965.82s] English:** I hope he will offer basic, simple solutions.  
 **Translation:** 
 
-**[6973.76s] English:** выберите конструктор сайтов или CMS,  
+**[6969.82s] English:** Determine the purpose of the website, select domains from a hosting provider,  
+**Translation:** Vocabulary: provider: 供应商
+
+**[6973.76s] English:** Select a website builder or CMS,  
 **Translation:** 
 
-**[6976.58s] English:** платформу типа Wix.  
+**[6976.58s] English:** Platform like Wix.  
 **Translation:** 
 
-**[6977.36s] English:** Ну вот, Wix или Squarespace, как я и говорил.  
+**[6977.36s] English:** Nu, Wix oder Squarespace, wie ich gesagt habe.  
 **Translation:** 
 
-**[6979.78s] English:** Да.  
-**Translation:** Vocabulary: squarespace: 平方空间
+**[6979.78s] English:** Yes.  
+**Translation:** Vocabulary: squarespace: 网站构建平台
 
-**[6980.26s] English:** Сделать лендинг.  
+**[6980.26s] English:** Make a landing page.  
 **Translation:** 
 
-**[6982.42s] English:** Как сказать, если я хочу сам его программировать?  
+**[6982.42s] English:** How can I say if I want to program it myself?  
 **Translation:** 
 
-**[6986.68s] English:** Спроектируйте, создайте нужные страницы.  
+**[6986.68s] English:** Design and create the necessary pages.  
 **Translation:** 
 
-**[6988.96s] English:** Вон даже говорит запустить его, начать продвигать.  
+**[6988.96s] English:** Even he says we should launch it and start promoting it.  
 **Translation:** 
 
-**[6992.38s] English:** Круто.  
+**[6992.38s] English:** Cool.  
 **Translation:** 
 
-**[6992.72s] English:** Ну, можно и так.  
+**[6992.72s] English:** Nu, can do it that way too.  
 **Translation:** 
 
-**[6994.16s] English:** Да, но это буквально все.  
+**[6994.16s] English:** Yes, but that's literally all.  
 **Translation:** 
 
-**[6995.96s] English:** При желании создать.  
+**[6995.96s] English:** To create, if desired.  
 **Translation:** 
 
-**[6996.70s] English:** Это базовые вещи, Google Analytics.  
+**[6996.70s] English:** This is basic stuff, Google Analytics.  
 **Translation:** 
 
-**[6998.12s] English:** Но Матлист так не сделаешь.  
-**Translation:** Vocabulary: analytics: 分析数据
+**[6998.12s] English:** But you can't make Matlist do that.  
+**Translation:** Vocabulary: analytics: 分析
 
-**[7000.08s] English:** Сделаешь.  
+**[7000.08s] English:** You will do it.  
 **Translation:** 
 
-**[7000.50s] English:** В смысле, на Wix.  
+**[7000.50s] English:** In other words, on Wix.  
 **Translation:** 
 
-**[7001.72s] English:** А, ну думаю, можно продвинуться далеко.  
+**[7001.72s] English:** Ah, I think we can make significant progress.  
 **Translation:** 
 
-**[7004.54s] English:** Много добиться.  
+**[7004.54s] English:** To achieve much.  
 **Translation:** 
 
-**[7005.14s] English:** Конструкторы сайтов стали очень продвинутыми.  
+**[7005.14s] English:** Constructors of websites have become very advanced.  
 **Translation:** 
 
-**[7007.22s] English:** Нужна лишь сетка изображений, кликабельных, ведущих на другую страницу.  
-**Translation:** 
+**[7007.22s] English:** Only a grid of clickable images leading to another page is needed.  
+**Translation:** Vocabulary: clickable: 可点击的; constructors: 构建者
 
-**[7011.98s] English:** Можно далеко зайти.  
+**[7011.98s] English:** One can go far.  
 **Translation:** 
 
-**[7013.26s] English:** Как научиться программировать?  
+**[7013.26s] English:** How can you learn to program?  
 **Translation:** 
 
-**[7018.96s] English:** Для начала, выберите язык.  
+**[7018.96s] English:** For starters, select your language.  
 **Translation:** 
 
 **[7023.32s] English:** Free Code Camp.  
 **Translation:** 
 
-**[7024.20s] English:** Хорош.  
+**[7024.20s] English:** Good.  
 **Translation:** 
 
-**[7026.96s] English:** Систематически работайте с ресурсами.  
+**[7026.96s] English:** Systematically work with resources.  
 **Translation:** 
 
-**[7028.96s] English:** Регулярно практикуйтесь.  
+**[7028.96s] English:** Regularly practice.  
 **Translation:** 
 
-**[7030.96s] English:** По 30-60 минут в день.  
+**[7030.96s] English:** For 30-60 minutes a day.  
 **Translation:** 
 
-**[7032.96s] English:** Последовательность ключ к успеху.  
+**[7032.96s] English:** Sequence is key to success.  
 **Translation:** 
 
-**[7037.96s] English:** Довольно неплохо.  
+**[7037.96s] English:** Rather decent.  
 **Translation:** 
 
-**[7038.96s] English:** Да?  
+**[7038.96s] English:** Ah?  
 **Translation:** 
 
-**[7039.96s] English:** Неплохо.  
+**[7039.96s] English:** Not bad.  
 **Translation:** 
 
-**[7040.96s] English:** Это хорошая отправная точка.  
+**[7040.96s] English:** This is a good starting point.  
 **Translation:** 
 
-**[7042.96s] English:** Ведь представь, ты ничего не знаешь.  
+**[7042.96s] English:** Well, imagine, you know nothing.  
 **Translation:** 
 
-**[7044.96s] English:** И хочешь создать сайт или стартап.  
+**[7044.96s] English:** Do you want to create a website or start a startup?  
 **Translation:** 
 
-**[7046.96s] English:** Вот почему...  
+**[7046.96s] English:** Here's why...  
 **Translation:** 
 
-**[7047.96s] English:** Да.  
+**[7047.96s] English:** Yes.  
 **Translation:** 
 
-**[7048.46s] English:** Ну, чувак, мощь ИИ в образовании будет просто безумной.  
+**[7048.46s] English:** Nu, guy, the power of AI in education will be simply insane.  
 **Translation:** 
 
-**[7053.46s] English:** Люди, где угодно, могут спросить такое и начать что-то делать.  
+**[7053.46s] English:** People can ask such questions and start doing something wherever they are.  
 **Translation:** 
 
-**[7057.46s] English:** Да, узнайте и начните создавать.  
+**[7057.46s] English:** Yes, find out and start creating.  
 **Translation:** 
 
-**[7059.46s] English:** Продолжай творить и творить.  
+**[7059.46s] English:** Continue to create and create.  
 **Translation:** 
 
-**[7062.46s] English:** Применяй на практике, будь то ИИ или, допустим, та же веб-разработка.  
+**[7062.46s] English:** Apply it in practice, whether it be AI or, for example, web development.  
 **Translation:** 
 
-**[7067.46s] English:** Держите в голове проект.  
+**[7067.46s] English:** Keep the project in mind.  
 **Translation:** 
 
-**[7070.46s] English:** Мне нравится идея 12 стартапов за 12 месяцев.  
-**Translation:** 
+**[7070.46s] English:** I like the idea of 12 startups in 12 months.  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[7076.46s] English:** Или создавать проект в день.  
+**[7076.46s] English:** Or create a project on demand.  
 **Translation:** 
 
-**[7078.46s] English:** Создавайте что-то.  
+**[7078.46s] English:** Create something.  
 **Translation:** 
 
-**[7080.00s] English:** И доводите до ума, хоть каждый день.  
+**[7080.00s] English:** Keep it polished, though every day.  
 **Translation:** 
 
-**[7083.62s] English:** Крутой эксперимент.  
-**Translation:** 
+**[7083.62s] English:** Cool experiment.  
+**Translation:** Vocabulary: polished: 打磨光滑的
 
-**[7085.26s] English:** Была девушка, которая сделала 160 сайтов за 160 дней.  
+**[7085.26s] English:** There was a girl who made 160 websites in 160 days.  
 **Translation:** 
 
-**[7091.32s] English:** Такие мини-сайты.  
+**[7091.32s] English:** Such mini-sites.  
 **Translation:** 
 
-**[7092.92s] English:** И так она научилась кодить.  
+**[7092.92s] English:** So she learned to code.  
 **Translation:** 
 
-**[7095.46s] English:** Думаю, полезно бросать себе вызов.  
+**[7095.46s] English:** I think it's helpful to challenge yourself.  
 **Translation:** 
 
-**[7099.48s] English:** Можно пойти на курсы, но, думаю, они не работают.  
+**[7099.48s] English:** Can go to courses, but, think, they don't work.  
 **Translation:** 
 
-**[7102.74s] English:** Думаю, лучше делать...  
+**[7102.74s] English:** I think it's better to do...  
 **Translation:** 
 
-**[7104.14s] English:** Для меня, например, вести самообучение.  
+**[7104.14s] English:** For me, for example, conducting self-education.  
 **Translation:** 
 
-**[7106.48s] English:** Ставить себе задачи и...  
-**Translation:** 
+**[7106.48s] English:** Set yourself tasks and...  
+**Translation:** Vocabulary: conducting: 进行
 
-**[7109.86s] English:** Вникать, но нужна дисциплина, чтобы продолжать.  
+**[7109.86s] English:** Investigate, but discipline is needed to continue.  
 **Translation:** 
 
-**[7113.26s] English:** И программирование очень...  
-**Translation:** 
+**[7113.26s] English:** Programming is very...  
+**Translation:** Vocabulary: discipline: 自律
 
-**[7115.72s] English:** У него крутая кривая обучения.  
+**[7115.72s] English:** He has a steep learning curve.  
 **Translation:** 
 
-**[7118.04s] English:** Работа с компьютерами очень раздражает.  
-**Translation:** 
+**[7118.04s] English:** Working with computers is very frustrating.  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[7120.64s] English:** Поэтому людям может быть трудно продолжать.  
+**[7120.64s] English:** Therefore, people may find it difficult to continue.  
 **Translation:** 
 
-**[7125.52s] English:** Да, вот это просто продолжай и не сдавайся.  
+**[7125.52s] English:** Yes, this is just keep going and don't give up.  
 **Translation:** 
 
-**[7129.14s] English:** Срочность, которая нужна, чтобы довести дело до конца.  
+**[7129.14s] English:** The urgency that is needed to see this through to the end.  
 **Translation:** 
 
-**[7132.16s] English:** Поэтому круто, что ты задокументировал создание Hood Maps.  
-**Translation:** 
+**[7132.16s] English:** Therefore, it's great that you documented the creation of Hood Maps.  
+**Translation:** Vocabulary: urgency: 急迫性
 
-**[7135.96s] English:** Ну, или рабочего прототипа.  
+**[7135.96s] English:** Nu, или working prototype.  
 **Translation:** 
 
-**[7138.28s] English:** Это постоянное, я полагаю, чувство фрустрации.  
+**[7138.28s] English:** This is, I suppose, a constant feeling of frustration.  
 **Translation:** 
 
-**[7143.14s] English:** Типа, как мне это сделать?  
+**[7143.14s] English:** Type, how do I do this?  
 **Translation:** 
 
-**[7145.48s] English:** И ты ищешь, и такой...  
+**[7145.48s] English:** Do you keep looking for one like that?  
 **Translation:** 
 
-**[7147.08s] English:** Так, нужно взвесить все варианты.  
+**[7147.08s] English:** So, we need to weigh all the options.  
 **Translation:** 
 
-**[7149.78s] English:** Потом испробовать их.  
+**[7149.78s] English:** Then try them out.  
 **Translation:** 
 
-**[7151.70s] English:** А потом дофаминовый всплеск.  
+**[7151.70s] English:** Then a dopamine surge.  
 **Translation:** 
 
-**[7154.08s] English:** О, работает. Круто.  
-**Translation:** 
+**[7154.08s] English:** Oh, it's working. Cool.  
+**Translation:** Vocabulary: dopamine: 多巴胺
 
-**[7156.24s] English:** Это невероятное чувство. Я стримил это.  
+**[7156.24s] English:** This is an incredible feeling. I streamed it.  
 **Translation:** 
 
-**[7159.32s] English:** Все есть на YouTube.  
-**Translation:** 
+**[7159.32s] English:** All is on YouTube.  
+**Translation:** Vocabulary: streamed: 直播
 
-**[7161.70s] English:** Потрясающе, когда все работает.  
+**[7161.70s] English:** Pertaining to the instruction, it seems there was a misunderstanding as the provided text is in Russian. For an accurate improvement with proper English punctuation and capitalization, please provide an English translation or context of the given text. If you intended to keep it in Russian but want it punctuated and capitalized correctly in English, please clarify. Assuming you meant to translate and improve the sentence into English, a possible version could be: "Pertaining to the functionality, it's amazing when everything works.  
 **Translation:** 
 
-**[7163.86s] English:** Слушай, главное, что ты...  
+**[7163.86s] English:** Listen, the main thing is that you...  
 **Translation:** 
 
-**[7165.86s] English:** Я не заглядываю далеко вперед.  
+**[7165.86s] English:** I do not look far into the future.  
 **Translation:** 
 
-**[7167.92s] English:** Я ищу следующую проблему для решения.  
+**[7167.92s] English:** I am looking for the next problem to solve.  
 **Translation:** 
 
-**[7170.86s] English:** И, в конце концов, у тебя готово целое приложение или сайт.  
+**[7170.86s] English:** And, in the end, you have a whole application or website ready.  
 **Translation:** 
 
-**[7175.82s] English:** Но, думаю, большинство заглядывает слишком далеко.  
+**[7175.82s] English:** But, I think most people look too far ahead.  
 **Translation:** 
 
-**[7180.02s] English:** Это как с тем постером.  
+**[7180.02s] English:** This is like with that poster.  
 **Translation:** 
 
-**[7181.14s] English:** Ты не знаешь, насколько все будет сложно.  
+**[7181.14s] English:** You don't know how difficult it will be.  
 **Translation:** 
 
-**[7183.42s] English:** Стоит думать лишь о следующем небольшом вызове или шаге и смотреть, куда это ведет.  
+**[7183.42s] English:** It's best to think only about the next small challenge or step and see where it leads.  
 **Translation:** 
 
-**[7188.72s] English:** И предполагать, что все будет легко.  
+**[7188.72s] English:** To assume that everything will be easy.  
 **Translation:** 
 
-**[7191.70s] English:** Именно. Будь наивным, потому что тебя ждут очень сложные вопросы.  
+**[7191.70s] English:** Exactly. Be naive because you are going to face very complex questions.  
 **Translation:** 
 
-**[7195.86s] English:** И наивные вопросы.  
-**Translation:** 
+**[7195.86s] English:** And naive questions.  
+**Translation:** Vocabulary: naive: 天真
 
-**[7197.50s] English:** Многие из них будут не техническими, а общественными.  
+**[7197.50s] English:** Many of them will be not technical but public.  
 **Translation:** 
 
-**[7200.00s] English:** Людям не понравится твой сайт.  
+**[7200.00s] English:** People will not like your website.  
 **Translation:** 
 
-**[7202.80s] English:** И тебя могут отменить.  
+**[7202.80s] English:** You might be dismissed.  
 **Translation:** 
 
-**[7204.46s] English:** Много чего может случиться.  
-**Translation:** 
+**[7204.46s] English:** Many things may happen.  
+**Translation:** Vocabulary: dismissed: 被解雇
 
-**[7206.32s] English:** Каково это, создавать что-то публично, открыто,  
+**[7206.32s] English:** What is it like to create something publicly and openly?  
 **Translation:** 
 
-**[7210.56s] English:** быстро итерируя и получая обратную связь?  
-**Translation:** 
+**[7210.56s] English:** Quickly iterating and getting feedback?  
+**Translation:** Vocabulary: openly: 公开地
 
-**[7214.00s] English:** Есть сила краудсорсинга, но есть и негативные стороны,  
+**[7214.00s] English:** There is the power of crowdsourcing, but there are also negative sides.  
 **Translation:** 
 
-**[7217.58s] English:** ведь люди критикуют.  
-**Translation:** 
+**[7217.58s] English:** People criticize, after all.  
+**Translation:** Vocabulary: crowdsourcing: 众包
 
-**[7220.40s] English:** Знаешь, я думаю, хейтеры — это хорошо.  
+**[7220.40s] English:** Knows, I think haters are good.  
 **Translation:** 
 
-**[7222.54s] English:** У них есть здравые мысли.  
+**[7222.54s] English:** They have sound thoughts.  
 **Translation:** 
 
-**[7224.52s] English:** Да.  
+**[7224.52s] English:** Yes.  
 **Translation:** 
 
-**[7224.92s] English:** Нужно просто отстраниться от эмоций.  
-**Translation:** 
+**[7224.92s] English:** We need simply to detach ourselves from emotions.  
+**Translation:** Vocabulary: detach: 脱离情感
 
-**[7227.46s] English:** Когда тебе говорят, твой сайт отстой,  
+**[7227.46s] English:** When you're told your website is terrible,  
 **Translation:** 
 
-**[7230.56s] English:** потому что бла-бла-бла-бла-бла, убери это,  
+**[7230.56s] English:** Because of all this blabla, remove it.  
 **Translation:** 
 
-**[7233.78s] English:** подумай, почему ему не понравилось.  
+**[7233.78s] English:** Think about why it didn't please him.  
 **Translation:** 
 
-**[7235.96s] English:** И тогда ты такой, может, регистрация была сложной,  
+**[7235.96s] English:** Then you might find that registration was complicated.  
 **Translation:** 
 
-**[7239.72s] English:** или что данные, например, неточные.  
+**[7239.72s] English:** Or that the data, for example, is inaccurate.  
 **Translation:** 
 
-**[7242.14s] English:** Значит, нужно улучшить их качество.  
-**Translation:** 
+**[7242.14s] English:** Meaningful improvements often require better quality.  
+**Translation:** Vocabulary: inaccurate: 不准确
 
-**[7244.00s] English:** Может, хейтер прав.  
+**[7244.00s] English:** May be, the hater is right.  
 **Translation:** 
 
-**[7245.60s] English:** Глупо полностью игнорировать хейтеров.  
+**[7245.60s] English:** It's foolish to completely ignore haters.  
 **Translation:** 
 
-**[7248.74s] English:** И еще, я и сам был таким, когда мне было 10 лет.  
+**[7248.74s] English:** And yet, I was like that when I was 10 years old.  
 **Translation:** 
 
-**[7252.60s] English:** Ты сидишь в интернете и несешь всякую чушь,  
-**Translation:** 
+**[7252.60s] English:** You sit on the internet and spout nonsense,  
+**Translation:** Vocabulary: spout: 胡说
 
-**[7255.76s] English:** как, наверное, половина твита.  
+**[7255.76s] English:** How, I suppose, half a tweet.  
 **Translation:** 
 
-**[7258.00s] English:** Относись к этому с долей скепсиса.  
-**Translation:** 
+**[7258.00s] English:** Approach this with a degree of skepticism.  
+**Translation:** Vocabulary: skepticism: 怀疑态度
 
-**[7262.04s] English:** Да, в Твиттере, в Экс, нужно обзавестись толстой шкурой.  
+**[7262.04s] English:** Yes, on Twitter and in Ex, you need to develop a thick skin.  
 **Translation:** 
 
-**[7266.90s] English:** Но я многих просто мьючу.  
+**[7266.90s] English:** But I mute many of them.  
 **Translation:** 
 
-**[7269.16s] English:** Недавно я проверил и увидел, что замьючил уже 15 тысяч человек.  
+**[7269.16s] English:** Recently, I checked and saw that I have muted already 15,000 people.  
 **Translation:** 
 
-**[7273.46s] English:** За 10 лет я замьютил 15 тысяч человек.  
-**Translation:** 
+**[7273.46s] English:** In 10 years, I have silenced 15 thousand people.  
+**Translation:** Vocabulary: muted: 屏蔽了
 
-**[7276.22s] English:** И каждого вручную?  
+**[7276.22s] English:** Is each one manually?  
 **Translation:** 
 
-**[7277.72s] English:** Ага.  
+**[7277.72s] English:** Agreed.  
 **Translation:** 
 
-**[7278.54s] English:** Ого.  
+**[7278.54s] English:** Oh.  
 **Translation:** 
 
-**[7279.30s] English:** То есть полторы тысячи в год.  
+**[7279.30s] English:** That is, one thousand five hundred dollars a year.  
 **Translation:** 
 
-**[7281.16s] English:** Я не люблю блокировать, ведь они злятся и скринят,  
+**[7281.16s] English:** I don't like blocking, though they get angry and screenshot it.  
 **Translation:** 
 
-**[7283.96s] English:** а потом «А, ты меня замьючил», поэтому...  
+**[7283.96s] English:** Then "Ah, you muted me," therefore...  
 **Translation:** 
 
-**[7286.66s] English:** Муты.  
+**[7286.66s] English:** Mutys.  
 **Translation:** 
 
-**[7287.46s] English:** Все прекрасно.  
+**[7287.46s] English:** All is perfect.  
 **Translation:** 
 
-**[7289.00s] English:** Ты упомянул Reddit.  
+**[7289.00s] English:** You mentioned Reddit.  
 **Translation:** 
 
 **[7290.66s] English:** HoodMaps.  
 **Translation:** 
 
-**[7292.00s] English:** Попал на главную страницу Reddit?  
+**[7292.00s] English:** Did you land on Reddit's main page?  
 **Translation:** 
 
-**[7294.72s] English:** Да, да, попал.  
+**[7294.72s] English:** Yes, yes, it hit.  
 **Translation:** 
 
-**[7295.84s] English:** Это было потрясающе.  
+**[7295.84s] English:** This was amazing.  
 **Translation:** 
 
-**[7297.50s] English:** Мой сервер чуть не упал.  
+**[7297.50s] English:** My server almost crashed.  
 **Translation:** 
 
-**[7299.92s] English:** Я смотрел в Google Analytics, на сайте было около пяти тысяч человек.  
+**[7299.92s] English:** I checked Google Analytics, and there were about five thousand people on the site.  
 **Translation:** 
 
-**[7303.84s] English:** Это было ночью, и это было потрясающе.  
+**[7303.84s] English:** This was at night, and it was amazing.  
 **Translation:** Vocabulary: analytics: 分析数据
 
-**[7306.76s] English:** Я думаю, что сейчас, честно говоря, TikTok, YouTube Shorts, Instagram Reels,  
+**[7306.76s] English:** I think, honestly, that TikTok, YouTube Shorts, and Instagram Reels are currently popular.  
 **Translation:** 
 
-**[7312.12s] English:** многие приложения приобретают популярность благодаря тем, кто снимает про них тиктоки.  
-**Translation:** Vocabulary: reels: 短视频
+**[7312.12s] English:** Many applications gain popularity thanks to those who make TikToks about them.  
+**Translation:** Vocabulary: popularity: 受欢迎程度; reels: 短视频
 
-**[7316.66s] English:** Так что...  
+**[7316.66s] English:** So...  
 **Translation:** 
 
-**[7317.46s] English:** Допустим, ты создал приложение, ты можешь снять видео...  
+**[7317.46s] English:** Assuming you created an application, you can record video...  
 **Translation:** 
 
-**[7320.00s] English:** Типа, я сделал приложение, вот как оно работает.  
+**[7320.00s] English:** Type of, I made an app, here's how it works.  
 **Translation:** 
 
-**[7324.76s] English:** И вот почему вы должны его использовать.  
+**[7324.76s] English:** Here's why you should use it.  
 **Translation:** 
 
-**[7327.46s] English:** Если видео хорошее, оно разлетится, и ты заработаешь.  
+**[7327.46s] English:** If the video is good, it will spread quickly, and you'll earn.  
 **Translation:** 
 
-**[7330.40s] English:** Я вот получил дополнительные 20 тысяч благодаря одному видео в ТикТок.  
+**[7330.40s] English:** I just received an additional 20,000 thanks to one TikTok video.  
 **Translation:** 
 
-**[7335.88s] English:** Как работать в Фото.АйАй.  
+**[7335.88s] English:** How to Work in Photo.II.  
 **Translation:** 
 
-**[7337.86s] English:** Сам снимал или кто-то другой?  
+**[7337.86s] English:** Did you shoot it yourself or was someone else there?  
 **Translation:** 
 
-**[7339.38s] English:** Другой чувак.  
+**[7339.38s] English:** Another guy.  
 **Translation:** 
 
-**[7340.30s] English:** Сейчас много и инфлюенсеров, они показывают и приложение,  
-**Translation:** 
+**[7340.30s] English:** Currently, there are many influencers who showcase the app.  
+**Translation:** Vocabulary: influencers: 有影响力的人; showcase: 展示
 
-**[7344.24s] English:** и просят денег, если видео вирусится, типа, дай мне 4 тысячи,  
+**[7344.24s] English:** And they ask for money if the video goes viral, like, give me 4 thousand dollars.  
 **Translation:** 
 
-**[7348.10s] English:** и я сниму еще одно.  
-**Translation:** 
+**[7348.10s] English:** And I'll take another one.  
+**Translation:** Vocabulary: viral: 迅速传播的
 
-**[7350.68s] English:** Я так делал.  
+**[7350.68s] English:** I did it that way.  
 **Translation:** 
 
-**[7352.28s] English:** Но это работает.  
+**[7352.28s] English:** But it works.  
 **Translation:** 
 
-**[7353.74s] English:** ТикТок – огромная платформа для привлечения пользователей.  
+**[7353.74s] English:** TikTok is an enormous platform for attracting users.  
 **Translation:** 
 
-**[7358.78s] English:** Органический трафик – это лучший вариант привлечения пользователей.  
-**Translation:** 
+**[7358.78s] English:** Organic traffic is the best option for attracting users.  
+**Translation:** Vocabulary: attracting: 吸引
 
-**[7361.96s] English:** Не нужно покупать рекламу, да и денег поначалу на нее нет.  
+**[7361.96s] English:** No need to buy advertising at first; there's no money for it anyway.  
 **Translation:** 
 
-**[7365.48s] English:** Используй органику или напиши бомбезный твит.  
-**Translation:** 
+**[7365.48s] English:** Use organic methods or write a bombastic tweet.  
+**Translation:** Vocabulary: bombastic: 夸张的
 
-**[7368.98s] English:** Это тоже может помочь.  
+**[7368.98s] English:** This also may help.  
 **Translation:** 
 
-**[7369.94s] English:** Главное, создавай крутые вещи.  
+**[7369.94s] English:** The main thing is to create awesome things.  
 **Translation:** 
 
-**[7371.80s] English:** И имей хоть немного подписчиков.  
+**[7371.80s] English:** Keep at least a little bit of momentum with your followers.  
 **Translation:** 
 
-**[7375.08s] English:** Достаточно, чтобы крутую вещь запустить.  
-**Translation:** 
+**[7375.08s] English:** Enough to launch a cool thing.  
+**Translation:** Vocabulary: followers: 关注者
 
-**[7378.10s] English:** Я думаю, вы это заметили, и она завирусилась.  
+**[7378.10s] English:** I think you've noticed it, and she got infected.  
 **Translation:** 
 
-**[7380.84s] English:** И тебе больше не нужно много подписчиков, потому что в ТикТоке, в Экс, думаю, в Рилс, тоже, теперь, одинаковый алгоритм.  
-**Translation:** 
+**[7380.84s] English:** Keep the same number of words and maintain the original meaning as closely as possible: Do not need many followers anymore on TikTok, I think also on X and Reels now, same algorithm everywhere.  
+**Translation:** Vocabulary: algorithm: 算法; infected: 感染
 
-**[7388.62s] English:** Дело уже не в подписчиках.  
+**[7388.62s] English:** The issue is no longer about subscribers.  
 **Translation:** 
 
-**[7390.62s] English:** А в том, твой контент тестируют на группе человек в 300, если им нравится, его протестируют на тысячи человек и так далее.  
-**Translation:** 
+**[7390.62s] English:** In that, your content is tested on a group of 300 people. If they like it, it will be tested on thousands of people, and so on.  
+**Translation:** Vocabulary: subscribers: 订阅者
 
-**[7397.74s] English:** Если вещь хорошая, она выстрелит, неважно, у тебя миллион подписчиков или тысяча, или сто.  
+**[7397.74s] English:** If a thing is good, it will speak for itself, whether you have a million subscribers or a thousand, or just one hundred.  
 **Translation:** 
 
-**[7404.34s] English:** Какая у тебя философия монетизации? Как заработать на том, что делаешь?  
-**Translation:** 
+**[7404.34s] English:** What is your philosophy of monetization? How do you make money from what you do?  
+**Translation:** Vocabulary: monetization: 盈利模式
 
-**[7407.68s] English:** Многие стартаперы начинают с бесплатного доступа, люди регистрируются и пользуются бесплатно, что для меня никогда хорошо не работало, потому что бесплатные пользователи не конвертируются.  
+**[7407.68s] English:** Many startup founders begin with free access, where people register and use the service for free, which has never worked well for me because free users do not convert.  
 **Translation:** 
 
-**[7419.00s] English:** Если у тебя есть венчурное финансирование, то у них, может, есть смысл, ведь ты можешь тратить его на рекламу и получать миллионы пользователей, зная процент конвертируемости, и давать бесплатный доступ, а потом они подпишутся.  
-**Translation:** 
+**[7419.00s] English:** If you have venture financing, they might see the sense in it, since you can spend it on advertising and acquire millions of users, knowing the conversion rate, and offer free access before they subscribe.  
+**Translation:** Vocabulary: conversion: 转换; convert: 使转变; financing: 融资; founders: 创始人; subscribe: 订阅; venture: 风险投资
 
-**[7431.84s] English:** Но чтобы все работало, нужно хорошо отладить этот процесс, это очень сложно.  
+**[7431.84s] English:** But to make it all work, you need to thoroughly debug this process, and that is very difficult.  
 **Translation:** 
 
-**[7436.80s] English:** Думаю, лучше сделать это самостоятельно.  
-**Translation:** 
+**[7436.80s] English:** I think it's better to do this on our own.  
+**Translation:** Vocabulary: thoroughly: 仔细地
 
-**[7437.46s] English:** Думаю, лучше начать и просто сразу просить.  
+**[7437.46s] English:** I think it's better to just ask directly.  
 **Translation:** 
 
-**[7440.00s] English:** у людей деньги. Покажи свое приложение, что оно делает на лендинге. Сделай демо или видео,  
+**[7440.00s] English:** People have money. Show your app and what it does on the landing page. Make a demo or video.  
 **Translation:** 
 
-**[7446.28s] English:** а потом скажи, хочешь пользоваться, заплати 10, 20, 40 долларов. Я бы просил больше 10 долларов  
+**[7446.28s] English:** Then say, if you want to use it, pay $10, $20, or $40. I would ask for more than $10.  
 **Translation:** 
 
-**[7452.36s] English:** Netflix, это 10 долларов в месяц, но это гигант. Они могут позволить себе относительно низкую цену.  
+**[7452.36s] English:** Netflix is $10 a month, but it's a giant. They can afford relatively low prices.  
 **Translation:** 
 
-**[7459.78s] English:** Если ты инди-хакер и делаешь свое приложение, тебе нужно зарабатывать хотя бы 30 долларов или  
+**[7459.78s] English:** If you are an indie-hacker making your application, you need to be earning at least 30 dollars or  
 **Translation:** 
 
-**[7466.12s] English:** больше с пользователя, чтобы это имело смысл. Тебе нужно зарабатывать деньги.  
+**[7466.12s] English:** More from the user to make sense. You need to earn money.  
 **Translation:** 
 
-**[7471.20s] English:** И это формирует сообщество людей, которым важен продукт.  
+**[7471.20s] English:** And this forms a community of people who care about the product.  
 **Translation:** 
 
-**[7474.94s] English:** Тоже верно, да. Создавать дискорд сейчас это обычное дело. У каждого и приложения есть дискорд,  
+**[7474.94s] English:** Also true, right. Creating discord nowadays is quite common. Everyone seems to have their own discord.  
 **Translation:** 
 
-**[7480.54s] English:** где общаются разработчики и пользователи. Запрашивают функции, что улучшить, это уже норма. И  
+**[7480.54s] English:** Where developers and users communicate. They request features to improve things—this is now the norm. And  
 **Translation:** 
 
-**[7485.94s] English:** нужно представить, если ты начинаешь получить тысячу пользователей, которые платят, это очень  
+**[7485.94s] English:** Need to present, if you start getting a thousand paying users, this is very  
 **Translation:** 
 
-**[7493.70s] English:** непросто. Берешь с них по 30 долларов,  
+**[7493.70s] English:** It's not easy. You take $30 from them.  
 **Translation:** 
 
-**[7496.12s] English:** и у тебя 30 тысяч в месяц. Это много. Этого достаточно, чтобы хорошо жить?  
+**[7496.12s] English:** And you have 30 thousand dollars a month. That's a lot. Is that enough to live well?  
 **Translation:** 
 
-**[7500.98s] English:** Да, жить довольно неплохо. Возможно, будет много расходов на хостинг.  
+**[7500.98s] English:** Yes, it's quite不错的。可能会有不少开支在主机上。  
 **Translation:** 
 
-**[7504.66s] English:** И еще один момент. Я слежу, чтобы у меня была высокая прибыль. Держу низкие расходы, не нанимаю  
-**Translation:** 
+**[7504.66s] English:** And another point. I make sure to have high profit margins. Keep my expenses low, and don't hire  
+**Translation:** Vocabulary: margins: 利润率
 
-**[7510.08s] English:** людей. Я стараюсь договариваться с AI-вендорами, мол, может подешевле? Я обнаружил, что можно  
+**[7510.08s] English:** People. I try to negotiate with AI vendors, saying maybe cheaper prices? I've found that it can be done.  
 **Translation:** 
 
-**[7518.34s] English:** просто написать компаниям и сказать, может дадите мне скидку, это слишком дорого. И они говорят,  
-**Translation:** 
+**[7518.34s] English:** Just write to companies and say you might give me a discount because it's too expensive. And they say,  
+**Translation:** Vocabulary: vendors: 供应商
 
-**[7524.04s] English:** конечно, 50 процентов. Я такой, вау.  
+**[7524.04s] English:** Of course, 50 percent. I'm such, wow.  
 **Translation:** 
 
-**[7526.12s] English:** Отлично. А я и не знал, что можно просто попросить, особенно сейчас, в условиях рецессии. Можно  
-**Translation:** 
+**[7526.12s] English:** Great. I didn't know you could just ask, especially now, in these recession conditions. Can  
+**Translation:** Vocabulary: recession: 经济衰退
 
-**[7532.36s] English:** обратиться в компанию и сказать, мне нужна скидка. Не нужно быть наглым. Просто скажите, мне нужна  
+**[7532.36s] English:** To get a discount, you can contact the company and say, "I need a discount." You don't have to be pushy. Just say, "I need a discount.  
 **Translation:** 
 
-**[7539.08s] English:** скидка, иначе придется поискать другую компанию с более выгодными условиями. Многие соглашаются,  
-**Translation:** 
+**[7539.08s] English:** Discount, or we'll have to look for another company with more favorable terms. Many agree.  
+**Translation:** Vocabulary: pushy: 强硬索取
 
-**[7545.48s] English:** скидки 25-50 процентов. Многие думают, что цена на сайте, это окончательная цена API, а это не так.  
+**[7545.48s] English:** Sales up to 50%. Many think that the price on the website is the final price for API, but this is not true.  
 **Translation:** 
 
-**[7552.56s] English:** К тому же ты публичная личность.  
+**[7552.56s] English:** In addition, you are a public figure.  
 **Translation:** 
 
-**[7556.12s] English:** О, это тоже помогает.  
+**[7556.12s] English:** Oh, this also helps.  
 **Translation:** 
 
-**[7557.30s] English:** Плюс всеобщая любовь и твой вайб.  
+**[7557.30s] English:** Plus universal love and your vibe.  
 **Translation:** 
 
-**[7560.00s] English:** Ты реально пытаешься создавать крутые вещи, и многие компании хотят сотрудничать с тобой.  
+**[7560.00s] English:** You are really trying to create cool things, and many companies want to collaborate with you.  
 **Translation:** 
 
-**[7566.46s] English:** Да, это как секретный лайфхак, но даже без этого зависит от того, какую скидку они дадут.  
-**Translation:** 
+**[7566.46s] English:** Yes, it's like a secret life hack, but even without this, it depends on what discount they will give.  
+**Translation:** Vocabulary: collaborate: 合作
 
-**[7573.40s] English:** Поэтому и стоит постить в Твиттере, чтобы получать скидки.  
+**[7573.40s] English:** Therefore, it's worth posting on Twitter to get discounts.  
 **Translation:** 
 
-**[7579.32s] English:** Да, да.  
+**[7579.32s] English:** Yes, yes.  
 **Translation:** 
 
-**[7581.48s] English:** И когда это краудсорсинг, то монетизация помогает избежать спама.  
+**[7581.48s] English:** When it comes to crowd sourcing, monetization helps avoid spam.  
 **Translation:** 
 
-**[7588.66s] English:** Тоже верно, это дает качественных пользователей.  
-**Translation:** 
+**[7588.66s] English:** Also true, this gives us quality users.  
+**Translation:** Vocabulary: monetization: 盈利; sourcing: 采购
 
-**[7591.40s] English:** Качественных пользователей.  
+**[7591.40s] English:** Quality users.  
 **Translation:** 
 
-**[7592.16s] English:** Бесплатные пользователи, извиняюсь, но они ужасны, это просто миллионы людей, особенно в области и стартапов.  
-**Translation:** 
+**[7592.16s] English:** Free users, sorry, but they are awful; it's just millions of people, especially in industries and startups.  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[7599.00s] English:** Миллионы людей злоупотребляют твоим приложением, взламывают его и все такое.  
+**[7599.00s] English:** Millions of people abuse your application, hack it, and all that.  
 **Translation:** 
 
-**[7604.38s] English:** Есть кое-что в интернете. Ты говорил, что Форчан узнал про Худмэпс.  
-**Translation:** 
+**[7604.38s] English:** There's something on the internet. You mentioned that Fortchan found out about Humpmaps.  
+**Translation:** Vocabulary: fortchan: 四村; humpmaps: 凸起图
 
-**[7609.20s] English:** Да, но я люблю Форчан. Ты же понимаешь, они безбашенные, особенно тогда.  
+**[7609.20s] English:** Yes, but I love Fortune. You know, they were really reckless back then.  
 **Translation:** 
 
-**[7614.50s] English:** Это же... они делают забавные вещи.  
-**Translation:** 
+**[7614.50s] English:** This is just... they are doing funny things.  
+**Translation:** Vocabulary: reckless: 冒失的
 
-**[7617.08s] English:** Я, кстати...  
+**[7617.08s] English:** I, by the way,...  
 **Translation:** 
 
-**[7618.66s] English:** Как он называется?  
+**[7618.66s] English:** How is it called?  
 **Translation:** 
 
-**[7620.20s] English:** Новая документалка Netflix. Антисоциальная сеть, или как-то так.  
+**[7620.20s] English:** New Netflix documentary. Antisocial Network, or Something Like That.  
 **Translation:** 
 
-**[7623.94s] English:** Интересно.  
-**Translation:** 
+**[7623.94s] English:** Interesting.  
+**Translation:** Vocabulary: antisocial: 不合群的
 
-**[7624.60s] English:** Увлекательная. Это просто дух этой штуки, Форчан.  
+**[7624.60s] English:** Engaging. This is just the spirit of it, Fortchen.  
 **Translation:** 
 
-**[7629.26s] English:** Многие не понимают Форчана.  
+**[7629.26s] English:** Many do not understand Fortune.  
 **Translation:** 
 
-**[7630.62s] English:** Это во многом о свободе, но также и о юморе, и о том, чтобы играть с системой, черт возьми.  
+**[7630.62s] English:** This is mostly about freedom, but also about humor, and about playing with the system, damn it.  
 **Translation:** 
 
-**[7638.14s] English:** Именно, это просто антисистемность ради забавы.  
+**[7638.14s] English:** Exactly, this is just anti-systemicity for fun.  
 **Translation:** 
 
-**[7641.38s] English:** Темная сторона в том, что ты развлекаешься, занимаешься антисистемными вещами,  
+**[7641.38s] English:** The dark side is that you are entertained and engage in anti-system activities.  
 **Translation:** 
 
-**[7648.66s] English:** и, конечно, появляются нацисты.  
-**Translation:** 
+**[7648.66s] English:** And, of course, Nazis appear.  
+**Translation:** Vocabulary: entertained: 被娱乐; nazis: 纳粹分子
 
-**[7650.42s] English:** Начинают происходить очень плохие вещи.  
+**[7650.42s] English:** Begin happening very bad things.  
 **Translation:** 
 
-**[7652.12s] English:** Все скатывается не туда.  
+**[7652.12s] English:** All is falling into the wrong place.  
 **Translation:** 
 
-**[7653.66s] English:** Стрельба в школах и все такое.  
+**[7653.66s] English:** Shootings in schools and all that.  
 **Translation:** 
 
-**[7655.66s] English:** Это сложная тема, но я знаю, что раньше...  
-**Translation:** 
+**[7655.66s] English:** This is a complex topic, but I know that earlier...  
+**Translation:** Vocabulary: shootings: 枪击事件
 
-**[7658.66s] English:** Где-то в 2010-м я заходил на Форчан ради забавы, и там постили безумно оскорбительные вещи.  
+**[7658.66s] English:** Sometime around 2010, I visited Fourier for fun, and they posted incredibly offensive things.  
 **Translation:** 
 
-**[7664.66s] English:** Это было для того, чтобы отпугнуть людей.  
-**Translation:** 
+**[7664.66s] English:** This was to deter people.  
+**Translation:** Vocabulary: deter: 阻止
 
-**[7666.66s] English:** Мы показывали другим и говорили, эй, слышал про Форчан?  
+**[7666.66s] English:** We showed it to others and said, hey, have you heard about Fortchen?  
 **Translation:** 
 
-**[7669.66s] English:** Да.  
+**[7669.66s] English:** Yes.  
 **Translation:** 
 
-**[7670.66s] English:** И они такие, что это за хрень?  
+**[7670.66s] English:** They are such crap, aren't they?  
 **Translation:** 
 
-**[7671.66s] English:** А я такой, нет-нет-нет, ты не понимаешь, это чтобы отпугнуть тебя, но если полистать, там есть глубокие разговоры.  
+**[7671.66s] English:** I'm just like this, no, no, no, you don't understand; it's to scare you off, but if you flip through it, there are some deep conversations.  
 **Translation:** 
 
-**[7676.66s] English:** Да.  
+**[7676.66s] English:** Yes.  
 **Translation:** 
 
-**[7677.66s] English:** Это был своего рода фильтр для нормисов.  
+**[7677.66s] English:** This was, in a sense, a filter for normals.  
 **Translation:** 
 
-**[7680.00s] English:** чтобы отпугнуть их.  
+**[7680.00s] English:** To keep them away.  
 **Translation:** 
 
-**[7681.84s] English:** Довольно круто, но да.  
+**[7681.84s] English:** Pretty cool, but yeah.  
 **Translation:** 
 
-**[7682.94s] English:** Все становится мрачным.  
+**[7682.94s] English:** All becomes grim.  
 **Translation:** 
 
-**[7684.30s] English:** Да, мрачным.  
+**[7684.30s] English:** Yes, grim.  
 **Translation:** 
 
-**[7685.16s] English:** И если такие люди появляются,  
+**[7685.16s] English:** If such people appear,  
 **Translation:** 
 
-**[7687.10s] English:** они ради забавы делают кучу расистских вещей,  
+**[7687.10s] English:** They make a lot of racist things just for fun.  
 **Translation:** 
 
-**[7690.22s] English:** как ты и говоришь.  
+**[7690.22s] English:** As you said.  
 **Translation:** 
 
-**[7690.94s] English:** Да, но все это, думаю, никогда не было...  
+**[7690.94s] English:** Yes, but I think all of this was never...  
 **Translation:** 
 
-**[7692.86s] English:** Я не защищаю фарчан, но это всегда было про провокацию.  
+**[7692.86s] English:** I don't defend farzhan, but this has always been about provocation.  
 **Translation:** 
 
-**[7696.38s] English:** Просто провокация.  
-**Translation:** 
+**[7696.38s] English:** Just a provocation.  
+**Translation:** Vocabulary: provocation: 挑拨
 
-**[7697.20s] English:** Но провокация в случае с худмапс или подобным  
+**[7697.20s] English:** But a provocation in the case of HUMAPS or similar situations.  
 **Translation:** 
 
-**[7700.18s] English:** может навредить хорошему делу,  
+**[7700.18s] English:** May harm a good cause.  
 **Translation:** 
 
-**[7705.42s] English:** как и никогда не повредит добавить каплю яда,  
+**[7705.42s] English:** As has never harmed adding a drop of poison.  
 **Translation:** 
 
-**[7710.16s] English:** как у Тома Уэйтса,  
-**Translation:** 
+**[7710.16s] English:** As with Tom Waits,  
+**Translation:** Vocabulary: poison: 毒药
 
-**[7711.22s] English:** но не слишком много, иначе это разрушит сообщество.  
+**[7711.22s] English:** But not too much, or it will destroy the community.  
 **Translation:** 
 
-**[7714.88s] English:** Да, они как пентестеры, такие себе хакеры.  
-**Translation:** 
+**[7714.88s] English:** Yes, they are like pentesters, sort of hackers.  
+**Translation:** Vocabulary: hackers: 黑客; pentesters: 渗透测试人员
 
-**[7717.82s] English:** Да.  
+**[7717.82s] English:** Yes.  
 **Translation:** 
 
-**[7718.24s] English:** Они тестируют твое приложение,  
+**[7718.24s] English:** They are testing your application,  
 **Translation:** 
 
-**[7719.98s] English:** а потом добавляешь что-то, например...  
+**[7719.98s] English:** Then you add something, for example,...  
 **Translation:** 
 
-**[7722.58s] English:** Я добавил список нецензурных слов.  
+**[7722.58s] English:** I added a list of profanities.  
 **Translation:** 
 
-**[7724.88s] English:** Они писали ругательства.  
+**[7724.88s] English:** They wrote profanities.  
 **Translation:** 
 
-**[7726.90s] English:** И когда они их писали,  
+**[7726.90s] English:** When they wrote them,  
 **Translation:** 
 
-**[7728.84s] English:** их перенаправляло на YouTube,  
+**[7728.84s] English:** It was redirected to YouTube,  
 **Translation:** 
 
-**[7730.96s] English:** на видео, такое расслабляющее видео,  
+**[7730.96s] English:** In the video, such a relaxing video,  
 **Translation:** 
 
-**[7734.48s] English:** типа АСМР,  
+**[7734.48s] English:** Type ASMR,  
 **Translation:** 
 
-**[7735.42s] English:** с переливающимся желе,  
-**Translation:** 
+**[7735.42s] English:** With jelly that glistens,  
+**Translation:** Vocabulary: glistens: 闪烁
 
-**[7738.04s] English:** чтобы их успокоить,  
+**[7738.04s] English:** To calm them down,  
 **Translation:** 
 
-**[7739.72s] English:** или плавящийся на тосты.  
+**[7739.72s] English:** Or melting for toast.  
 **Translation:** 
 
-**[7741.02s] English:** Плавящийся сыр, класс.  
+**[7741.02s] English:** Melted cheese, class.  
 **Translation:** 
 
-**[7742.30s] English:** Чтобы они остыли.  
+**[7742.30s] English:** To let them cool down.  
 **Translation:** 
 
-**[7743.02s] English:** Да, да.  
+**[7743.02s] English:** Yes, yes.  
 **Translation:** 
 
-**[7743.42s] English:** Мне нравится.  
+**[7743.42s] English:** I like it.  
 **Translation:** 
 
-**[7744.92s] English:** Но я не представлял, сколько всего появилось на фарчан,  
+**[7744.92s] English:** But I didn't realize how much had appeared on FarChan,  
 **Translation:** 
 
-**[7748.42s] English:** в плане мемов.  
+**[7748.42s] English:** In terms of memes.  
 **Translation:** 
 
-**[7749.80s] English:** Я не понимал.  
+**[7749.80s] English:** I did not understand.  
 **Translation:** 
 
-**[7751.00s] English:** Рик Роллинг, я не знал, что он появился на фарчан.  
-**Translation:** 
+**[7751.00s] English:** Rick Rollin, I didn't know he appeared on fark.com.  
+**Translation:** Vocabulary: rollin: 滚
 
-**[7753.82s] English:** Правда?  
+**[7753.82s] English:** Is that true?  
 **Translation:** 
 
-**[7754.58s] English:** Оттуда же пошла куча мемов.  
+**[7754.58s] English:** From there, a bunch of memes started.  
 **Translation:** 
 
-**[7757.56s] English:** Само слово ролл, думаю, пошло с фарчана,  
+**[7757.56s] English:** The word "roll," I think, came from "farchana,  
 **Translation:** 
 
-**[7759.66s] English:** в смысле, в контексте мемов.  
+**[7759.66s] English:** In other words, in the context of memes.  
 **Translation:** 
 
-**[7761.54s] English:** Да.  
+**[7761.54s] English:** Yes.  
 **Translation:** 
 
-**[7762.42s] English:** Типа выбросить дубль на...  
+**[7762.42s] English:** Type it on...  
 **Translation:** 
 
-**[7764.42s] English:** На...  
+**[7764.42s] English:** On...  
 **Translation:** 
 
-**[7764.86s] English:** На...  
+**[7764.86s] English:** On...  
 **Translation:** 
 
-**[7765.36s] English:** Фарчан были ID-постов.  
+**[7765.36s] English:** Farchan were ID posts.  
 **Translation:** 
 
-**[7767.14s] English:** Они были случайными, и...  
-**Translation:** 
+**[7767.14s] English:** They were random, and...  
+**Translation:** Vocabulary: farchan: 发帖
 
-**[7769.84s] English:** Если выпадал дубль, то что-то происходило, например, 2-2.  
+**[7769.84s] English:** If a double occurred, something happened, for example, 2-2.  
 **Translation:** 
 
-**[7773.84s] English:** В общем, это как рынок ставок на эти дубли.  
+**[7773.84s] English:** In general, it's like a betting market on these dubs.  
 **Translation:** 
 
-**[7776.64s] English:** ID-постов, куча всего.  
+**[7776.64s] English:** ID posts, a bunch of stuff.  
 **Translation:** 
 
-**[7778.92s] English:** Да.  
+**[7778.92s] English:** Yes.  
 **Translation:** 
 
-**[7779.60s] English:** Это же интернет в чистом виде.  
+**[7779.60s] English:** This is pure internet.  
 **Translation:** 
 
-**[7781.78s] English:** Тем не менее, мрак просачивается.  
-**Translation:** 
+**[7781.78s] English:** Nevertheless, darkness seeps in.  
+**Translation:** Vocabulary: seeps: 渗透
 
-**[7784.06s] English:** Да.  
+**[7784.06s] English:** Yes.  
 **Translation:** 
 
-**[7784.36s] English:** Хорошо бы держать всю эту мрачную хрень  
+**[7784.36s] English:** It would be better to keep all this dark nonsense to ourselves.  
 **Translation:** 
 
-**[7787.26s] English:** где-то там внизу.  
+**[7787.26s] English:** Somewhere down there.  
 **Translation:** 
 
-**[7789.12s] English:** Небольшие отголоски — это неплохо,  
-**Translation:** 
+**[7789.12s] English:** Small echoes are good.  
+**Translation:** Vocabulary: echoes: 回声
 
-**[7790.72s] English:** но не стоит перебарщивать.  
+**[7790.72s] English:** But don't overdo it.  
 **Translation:** 
 
-**[7792.76s] English:** Но опять же, нужно обращать на это внимание.  
+**[7792.76s] English:** But again, we need to pay attention to this.  
 **Translation:** 
 
-**[7796.36s] English:** Я имею в виду спам в целом, как на Nomad List.  
+**[7796.36s] English:** I mean spam in general, as on Nomad List.  
 **Translation:** 
 
-**[7816.02s] English:** Редактор субтитров М.Лосева Корректор А.Егорова  
+**[7800.00s] English:** How do you fight spam?  
 **Translation:** 
 
-**[7800.00s] English:** Как ты борешься со спамом?  
+**[7801.44s] English:** I am using GPT-4, and it's simply amazing.  
 **Translation:** 
 
-**[7801.44s] English:** Я использую GPT-4, это просто бомба.  
-**Translation:** 
+**[7804.70s] English:** I have user reviews, and you can leave reviews about cities without registering; they are anonymous.  
+**Translation:** Vocabulary: anonymous: 匿名; registering: 注册
 
-**[7804.70s] English:** У меня есть отзывы пользователей, можно оставлять отзывы о городах, не регистрируясь, они анонимные.  
+**[7812.12s] English:** They write entire poems about cities, which is good and bad.  
 **Translation:** 
 
-**[7812.12s] English:** И они пишут целые поэмы о городах, что хорошо, что плохо.  
+**[7815.78s] English:** So, I now run this through GPT-4 and ask,  
 **Translation:** 
 
-**[7815.78s] English:** Так вот, я теперь пропускаю это через GPT-4 и спрашиваю,  
+**[7816.02s] English:** Editor of Subtitles: M. Losueva Corrector: A. Egorova  
 **Translation:** 
 
-**[7819.40s] English:** это хороший отзыв, тут есть что-то оскорбительное или расистское?  
-**Translation:** 
+**[7819.40s] English:** This is a good review, is there anything offensive or racist here?  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[7824.54s] English:** Он сообщает мне в Телеграм.  
+**[7824.54s] English:** He tells me on Telegram.  
 **Translation:** 
 
-**[7826.60s] English:** Когда отклоняет отзыв, я его проверяю.  
-**Translation:** 
+**[7826.60s] English:** When he rejects a review, I check it.  
+**Translation:** Vocabulary: rejects: 拒绝
 
-**[7828.70s] English:** И он попадает прямо в точку.  
+**[7828.70s] English:** He hits the nail on the head.  
 **Translation:** 
 
-**[7831.12s] English:** Автоматически.  
+**[7831.12s] English:** Automatically.  
 **Translation:** 
 
-**[7831.88s] English:** Да, и причем так точно, он понимает двойные смыслы.  
+**[7831.88s] English:** Yes, and precisely, he understands double meanings.  
 **Translation:** 
 
-**[7836.20s] English:** У меня GPT-4 работает в чате сообщества на 10 тысяч человек.  
-**Translation:** 
+**[7836.20s] English:** It's working for me with GPT-4 in a community chat with 10,000 people.  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[7841.34s] English:** Они там общаются, спорят.  
+**[7841.34s] English:** They are talking and debating there.  
 **Translation:** 
 
-**[7844.64s] English:** Раньше у меня были модераторы-люди.  
-**Translation:** 
+**[7844.64s] English:** Previously, I had human moderators.  
+**Translation:** Vocabulary: moderators: 主持人
 
-**[7847.08s] English:** Но люди ругались с модератором, он предвзят и так далее.  
+**[7847.08s] English:** But people were arguing with the moderator; he was biased and so on.  
 **Translation:** 
 
-**[7851.32s] English:** Теперь у меня GPT-4.  
-**Translation:** 
+**[7851.32s] English:** Now I have GPT-4.  
+**Translation:** Vocabulary: biased: 有偏见; moderator: 主持人
 
-**[7853.32s] English:** И он крайне хорош.  
+**[7853.32s] English:** He is extremely good.  
 **Translation:** 
 
-**[7855.62s] English:** Он понимает юмор, понимает...  
+**[7855.62s] English:** He understands humor, understands...  
 **Translation:** 
 
-**[7858.40s] English:** Ты можешь сказать что-то плохое, но это типа шутка, и это вроде не оскорбительно,  
+**[7858.40s] English:** You can say something bad, but it's kind of a joke, and it's not really offensive.  
 **Translation:** 
 
-**[7862.80s] English:** поэтому и не нужно удалять.  
+**[7862.80s] English:** Therefore, there is no need to delete.  
 **Translation:** 
 
-**[7864.70s] English:** Он это понимает.  
+**[7864.70s] English:** He understands this.  
 **Translation:** 
 
-**[7865.88s] English:** Понимаешь это?  
+**[7865.88s] English:** Do you understand this?  
 **Translation:** 
 
-**[7866.68s] English:** Я бы хотел иметь фильтр на основе GPT-4.  
+**[7866.68s] English:** I would like to have a filter based on GPT-4.  
 **Translation:** 
 
-**[7872.08s] English:** Для разных вещей.  
+**[7872.08s] English:** For different things.  
 **Translation:** 
 
-**[7873.90s] English:** Например, для X.  
+**[7873.90s] English:** For example, for X.  
 **Translation:** 
 
-**[7874.98s] English:** Я на этой неделе твитнул про факт-чекинг.  
+**[7874.98s] English:** I tweeted about fact-checking this week.  
 **Translation:** 
 
-**[7878.16s] English:** Ты можешь нажать факт-чек и GPT-4...  
+**[7878.16s] English:** You can press fact-check and GPT-4....  
 **Translation:** 
 
-**[7880.68s] English:** Смотри, GPT-4 не всегда бывает прав, но он может дать тебе общую проверку фактов твита.  
+**[7880.68s] English:** Look, GPT-4 isn't always right, but he can give you a general fact check of a tweet.  
 **Translation:** 
 
-**[7886.98s] English:** Обычно, когда я сейчас пишу...  
+**[7886.98s] English:** Normally, when I am writing now,...  
 **Translation:** 
 
-**[7888.40s] English:** что-то сложное об экономике или ИИ,  
+**[7888.40s] English:** Something complex about economics or AI,  
 **Translation:** 
 
-**[7890.94s] English:** я скармливаю это GPT-4 для проверки,  
+**[7890.94s] English:** I am feeding this to GPT-4 for verification.  
 **Translation:** 
 
-**[7893.62s] English:** ведь я могу сглупить.  
-**Translation:** 
+**[7893.62s] English:** Well, I could screw up.  
+**Translation:** Vocabulary: verification: 验证
 
-**[7895.32s] English:** А глупости всегда вылавливаются в реплае.  
+**[7895.32s] English:** And foolish remarks are always caught in the reply.  
 **Translation:** 
 
-**[7897.50s] English:** О, ты это неправильно сказал, и тогда весь твит теряет смысл.  
-**Translation:** 
+**[7897.50s] English:** Oh, you said that incorrectly, and then the whole tweet loses its meaning.  
+**Translation:** Vocabulary: remarks: 评论
 
-**[7902.00s] English:** Поэтому я прошу GPT-4 проверять факты.  
+**[7902.00s] English:** Therefore, I am asking GPT-4 to fact-check.  
 **Translation:** 
 
-**[7904.50s] English:** Факт-чекинг это сложно.  
+**[7904.50s] English:** Fact-checking is difficult.  
 **Translation:** 
 
-**[7906.20s] English:** Да.  
+**[7906.20s] English:** Yes.  
 **Translation:** 
 
-**[7906.70s] English:** Но было бы интересно как-то оценивать...  
-**Translation:** 
+**[7906.70s] English:** But it would be interesting to evaluate...  
+**Translation:** Vocabulary: evaluate: 评估
 
-**[7910.70s] English:** насколько хорошо продуман или аргументирован твит.  
+**[7910.70s] English:** How well thought out or argued is the tweet.  
 **Translation:** 
 
-**[7915.40s] English:** Да.  
+**[7915.40s] English:** Yes.  
 **Translation:** 
 
-**[7915.90s] English:** Это кажется выполнимым.  
+**[7915.90s] English:** This seems achievable.  
 **Translation:** 
 
-**[7917.80s] English:** Думаю такое по силам для GPT.  
-**Translation:** 
+**[7917.80s] English:** I think that's within the capabilities of GPT.  
+**Translation:** Vocabulary: achievable: 可实现的; capabilities: 能力
 
-**[7920.00s] English:** ведь меньше касается истинности и больше — обоснованности.  
+**[7920.00s] English:** Because it concerns less truth and more justification.  
 **Translation:** 
 
-**[7924.04s] English:** Точно, и ты можешь указать это прямо в промте.  
-**Translation:** 
+**[7924.04s] English:** Exactly, and you can specify this directly in the prompt.  
+**Translation:** Vocabulary: prompt: 提示; specify: 指定
 
-**[7927.64s] English:** Не знаю, например, создай рейтинговую шкалу для Твиттера, для Экс,  
+**[7927.64s] English:** I don't know, for example, if we created a rating scale for Twitter, for Excel,  
 **Translation:** 
 
-**[7932.68s] English:** где должен быть, если ранжировать по честности или реалистичности,  
+**[7932.68s] English:** Where should it be ranked if we rank by honesty or realism?  
 **Translation:** 
 
-**[7938.30s] English:** какой-то фундаментальной глубине, что ли, интересности,  
+**[7938.30s] English:** Of some fundamental depth, of interest,  
 **Translation:** 
 
-**[7941.44s] English:** и он, вероятно, выдаст тебе довольно неплохой рейтинг.  
+**[7941.44s] English:** And he is likely to give you a pretty good rating.  
 **Translation:** 
 
-**[7944.84s] English:** Илон ведь может сделать это с Грок,  
+**[7944.84s] English:** Ilon can do this with Grok.  
 **Translation:** 
 
-**[7946.72s] English:** он может начать использовать его для проверки реплаев,  
+**[7946.72s] English:** He may start using it for checking replies,  
 **Translation:** 
 
-**[7950.92s] English:** ведь там полнейший хаос.  
+**[7950.92s] English:** Well, there's complete chaos there.  
 **Translation:** 
 
-**[7952.70s] English:** Да, и на самом деле рейтинг реплаев...  
+**[7952.70s] English:** Yes, and in fact, the reply rating...  
 **Translation:** 
 
-**[7954.88s] English:** Он бессмысленный.  
+**[7954.88s] English:** He is meaningless.  
 **Translation:** 
 
-**[7955.72s] English:** Бессмысленный.  
-**Translation:** 
+**[7955.72s] English:** Bессмысленный.  
+**Translation:** Vocabulary: meaningless: 无意义的
 
-**[7956.90s] English:** А я бы хотел сортировать их по-разному.  
+**[7956.90s] English:** I would like to sort them differently.  
 **Translation:** 
 
-**[7959.72s] English:** Сейчас реплаев слишком много, если у тебя много подписчиков,  
-**Translation:** 
+**[7959.72s] English:** Currently there are too many replies, if you have a lot of followers,  
+**Translation:** Vocabulary: followers: 关注者
 
-**[7963.00s] English:** ты ничего не увидишь.  
+**[7963.00s] English:** You will see nothing.  
 **Translation:** 
 
-**[7965.28s] English:** Я много чего пропускаю, а хочется видеть что-то стоящее.  
+**[7965.28s] English:** I miss a lot of things, but I want to see something worthwhile.  
 **Translation:** 
 
-**[7968.98s] English:** И еще эти уведомления — просто кошмар какой-то.  
+**[7968.98s] English:** And these notifications are a nightmare, really.  
 **Translation:** 
 
-**[7972.92s] English:** Да.  
-**Translation:** 
+**[7972.92s] English:** Yes.  
+**Translation:** Vocabulary: nightmare: 噩梦
 
-**[7973.14s] English:** Было бы здорово как-то интересно их фильтровать и сортировать.  
+**[7973.14s] English:** It would be great to filter and sort them in some interesting way.  
 **Translation:** 
 
-**[7977.72s] English:** Ведь я чувствую, что многое упускаю.  
+**[7977.72s] English:** Because I feel that I'm missing a lot.  
 **Translation:** 
 
-**[7981.72s] English:** А мне показывают какой-то случайный комментарий  
+**[7981.72s] English:** They show me some random comment.  
 **Translation:** 
 
-**[7984.76s] English:** от человека без подписчиков.  
+**[7984.76s] English:** From a person without followers.  
 **Translation:** 
 
-**[7987.38s] English:** Да, да.  
+**[7987.38s] English:** Yes, yes.  
 **Translation:** 
 
-**[7987.80s] English:** Негативный, позитивный.  
+**[7987.80s] English:** Negative, positive.  
 **Translation:** 
 
-**[7989.40s] English:** Если это хороший комментарий, то пусть будет.  
+**[7989.40s] English:** If this is a good comment, let it be.  
 **Translation:** 
 
-**[7992.30s] English:** Он заслуживает внимания.  
+**[7992.30s] English:** He deserves attention.  
 **Translation:** 
 
-**[7993.94s] English:** Но если есть подписчики, значит он более активный участник.  
+**[7993.94s] English:** But if he has subscribers, it means he is a more active participant.  
 **Translation:** 
 
-**[7997.44s] English:** Мне вообще все равно, сколько у кого подписчиков.  
-**Translation:** 
+**[7997.44s] English:** I don't really care how many followers anyone has.  
+**Translation:** Vocabulary: subscribers: 订阅者
 
-**[8000.08s] English:** Если комментарий хороший — отлично.  
+**[8000.08s] English:** If the comment is good, that's excellent.  
 **Translation:** 
 
-**[8002.60s] English:** Да.  
+**[8002.60s] English:** Yes.  
 **Translation:** 
 
-**[8002.86s] English:** Но не просто рандомное и хронологическое заседание,  
+**[8002.86s] English:** But not just a random and chronological meeting,  
 **Translation:** 
 
-**[8006.72s] English:** а насилие комментариев.  
-**Translation:** 
+**[8006.72s] English:** Abuse in comments.  
+**Translation:** Vocabulary: chronological: 按时间顺序的
 
-**[8007.72s] English:** Да, да, да.  
+**[8007.72s] English:** Yes, yes, yes.  
 **Translation:** 
 
-**[8008.72s] English:** Это не имеет смысла.  
+**[8008.72s] English:** This doesn't make sense.  
 **Translation:** 
 
-**[8009.72s] English:** Да.  
+**[8009.72s] English:** Yes.  
 **Translation:** 
 
-**[8010.72s] English:** Да.  
+**[8010.72s] English:** Yes.  
 **Translation:** 
 
-**[8011.72s] English:** Экс может быть отличным движителем этого.  
+**[8011.72s] English:** Ex could be a great driver of this.  
 **Translation:** 
 
-**[8013.72s] English:** Ты часто пропагандируешь, и что мне нравится — автоматизацию.  
-**Translation:** 
+**[8013.72s] English:** You often promote automation, and what I like about it is that it saves time.  
+**Translation:** Vocabulary: automation: 自动化
 
-**[8018.72s] English:** Как только у тебя есть что-то, есть идея, ты ее реализовал,  
+**[8018.72s] English:** As soon as you have something, an idea, you've realized it,  
 **Translation:** 
 
-**[8022.96s] English:** она начинает приносить деньги, этим пользуются  
-**Translation:** 
+**[8022.96s] English:** She begins to bring in money, which is then exploited.  
+**Translation:** Vocabulary: exploited: 被利用
 
-**[8025.96s] English:** сообщества и все счастливы.  
+**[8025.96s] English:** Communities, and everyone is happy.  
 **Translation:** 
 
-**[8029.36s] English:** Ты хочешь сделать шаг к автоматизации, чтобы делать  
+**[8029.36s] English:** You want to take a step towards automation to do  
 **Translation:** 
 
-**[8032.38s] English:** как можно меньше, но все продолжало работать.  
+**[8032.38s] English:** As much as possible was avoided, but everything continued to work.  
 **Translation:** 
 
-**[8035.72s] English:** Ты можешь объяснить  
+**[8035.72s] English:** You can explain  
 **Translation:** 
 
-**[8037.88s] English:** свою философию автоматизации.  
+**[8037.88s] English:** Their philosophy of automation.  
 **Translation:** 
 
-**[8040.00s] English:** Да. Общая теория стартапа в том, что когда он запускается, ты зарабатываешь и нанимаешь людей, чтобы они делали то, что ты делал сам, например, маркетинг.  
+**[8040.00s] English:** Yes. The general theory of a startup is that when it launches, you earn and hire people to do what you were doing yourself, for example, marketing.  
 **Translation:** 
 
-**[8051.24s] English:** Или управление сообществом, организация встреч для Anomatlist. Это была бы работа.  
+**[8051.24s] English:** Or community management, organizing meetings for Anomatlist. This would be the work.  
 **Translation:** 
-
-**[8058.60s] English:** И я знал, что у меня нет на это денег, и я не хочу управлять большой компанией с кучей людей, ведь это большая работа.  
-**Translation:** Vocabulary: anomatlist: 异常列表
 
-**[8067.00s] English:** Поэтому я всегда старался автоматизировать это по максимуму.  
+**[8058.60s] English:** I knew I didn't have the money for it, and I don't want to manage a large company with lots of people; it's a big job.  
 **Translation:** 
 
-**[8071.62s] English:** И это может...  
+**[8067.00s] English:** Therefore, I always tried to automate it to the maximum extent.  
 **Translation:** 
 
-**[8073.58s] English:** Как, например, для Anomatlist, я делал веб-страницу, где пользователи могут сами организовать встречу, указать дату.  
-**Translation:** 
+**[8071.62s] English:** And this may...  
+**Translation:** Vocabulary: automate: 自动化
 
-**[8082.08s] English:** Ты мог видеть, сколько намадов будет там в этот день, чтобы был смысл.  
+**[8073.58s] English:** For example, for Anomatlist, I created a web page where users can organize a meeting and specify the date.  
 **Translation:** 
 
-**[8087.08s] English:** Потом система автоматически отправляет твит на аккаунт Anomatlist, уведомляет пользователей, находящихся в городе, что встреча вот здесь.  
-**Translation:** 
+**[8082.08s] English:** You could see how many nomads would be there that day to make it worthwhile.  
+**Translation:** Vocabulary: nomads: 游牧者; specify: 指定
 
-**[8097.00s] English:** И люди приходят на встречу в бар, все автоматизировано.  
+**[8087.08s] English:** Then the system automatically sends a tweet to the Anomatlist account, notifies users in the city that the meeting is happening right here.  
 **Translation:** 
 
-**[8100.98s] English:** И для меня это так очевидно.  
-**Translation:** 
+**[8097.00s] English:** People come to the meeting at the bar, where everything is automated.  
+**Translation:** Vocabulary: anomatlist: 匿名者列表; automated: 自动化
 
-**[8103.18s] English:** Зачем кого-то нанимать, если можно автоматизировать?  
+**[8100.98s] English:** For me, this is so obvious.  
 **Translation:** 
 
-**[8109.02s] English:** У меня почти все автоматизировано.  
+**[8103.18s] English:** Why hire someone when you can automate it?  
 **Translation:** 
 
-**[8111.30s] English:** Большинство своих задач я стараюсь решать через код.  
+**[8109.02s] English:** Keep almost everything automated.  
 **Translation:** 
 
-**[8114.26s] English:** Сейчас с ИИ можно автоматизировать еще больше, он стал понимать контекст намного лучше.  
+**[8111.30s] English:** Most of my tasks I try to solve through code.  
 **Translation:** 
 
-**[8121.12s] English:** Раньше было много если.  
+**[8114.26s] English:** Now with AI, we can automate even more, and it has become much better at understanding context.  
 **Translation:** 
 
-**[8122.84s] English:** Теперь я просто через АПИ даю запрос и получаю ответ.  
+**[8121.12s] English:** Earlier there were many if's.  
 **Translation:** 
 
-**[8127.00s] English:** Это хорошо, это нет.  
+**[8122.84s] English:** Now I just make a request through the API and get a response.  
 **Translation:** 
 
-**[8129.00s] English:** И теперь ты даже можешь автоматизировать что-то субъективное.  
+**[8127.00s] English:** This is good, this is not.  
 **Translation:** 
 
-**[8135.00s] English:** И это стало возможно совсем недавно.  
+**[8129.00s] English:** Now you can even automate something subjective.  
 **Translation:** 
 
-**[8137.00s] English:** Но этот шаг, этап автоматизации все еще сложен для понимания, как ты по сути делегируешь все коду.  
+**[8135.00s] English:** And this became possible just recently.  
 **Translation:** 
 
-**[8147.00s] English:** Да.  
+**[8137.00s] English:** But this step, an阶段转换，自动化过程仍然难以理解，因为你实际上是在委托所有的代码。  
 **Translation:** 
 
-**[8148.00s] English:** И для многих это непросто.  
+**[8147.00s] English:** Yes.  
 **Translation:** 
 
-**[8151.00s] English:** Говоря автоматизировать, ты имеешь в виду что-то вроде CronJob?  
+**[8148.00s] English:** For many, this is not easy.  
 **Translation:** 
+
+**[8151.00s] English:** Speaking of automation, do you mean something like a CronJob?  
+**Translation:** Vocabulary: automation: 自动化
 
-**[8155.02s] English:** Да, кучу CronJob.  
+**[8155.02s] English:** Yes, a bunch of CronJobs.  
 **Translation:** 
 
-**[8156.02s] English:** Да, кучу CronJob.  
+**[8156.02s] English:** Yes, a bunch of CronJobs.  
 **Translation:** 
 
-**[8157.02s] English:** О, куча CronJob.  
+**[8157.02s] English:** Oh, a bunch of CronJobs.  
 **Translation:** 
 
-**[8158.02s] English:** Да, это как...  
+**[8158.02s] English:** Yes, it's like...  
 **Translation:** 
 
-**[8160.00s] English:** Я буквально захожу на сервер и делаю sudo crontab-e,  
+**[8160.00s] English:** I literally log into the server and run sudo crontab-edit.  
 **Translation:** 
 
-**[8165.04s] English:** затем захожу в редактор и пишу каждый час,  
+**[8165.04s] English:** Then I log into the editor and write every hour.  
 **Translation:** 
 
-**[8167.90s] English:** а затем пишу php.  
+**[8167.90s] English:** Then I write PHP.  
 **Translation:** 
 
-**[8170.56s] English:** Ну знаешь, сделай это .php, и этот скрипт делает что-то, и делает это каждый час.  
+**[8170.56s] English:** Nu, know, do this .php, and this script does something, and it does it every hour.  
 **Translation:** 
 
-**[8177.18s] English:** И так работают все мои сайты.  
+**[8177.18s] English:** And so all my websites work like this.  
 **Translation:** 
 
-**[8179.26s] English:** У тебя есть что-то, что отправляет тебе, допустим, имейл, если что-то идет не так?  
+**[8179.26s] English:** Do you have something that sends you an email if something goes wrong?  
 **Translation:** 
 
-**[8184.64s] English:** У меня есть страницы для проверки состояния, типа healthcheck.php.  
+**[8184.64s] English:** I have pages for checking status, like healthcheck.php.  
 **Translation:** 
 
-**[8190.00s] English:** И там есть эмодзи.  
+**[8190.00s] English:** There are emojis there.  
 **Translation:** Vocabulary: healthcheck: 健康检查
 
-**[8192.34s] English:** Зеленая галочка, все хорошо, и красная, если плохо.  
+**[8192.34s] English:** Green checkmark, all good; and red one, if bad.  
 **Translation:** 
 
-**[8195.72s] English:** И страницы делают запрос к базе данных, например, какая скорость интернета в, скажем, Амстердаме.  
+**[8195.72s] English:** Here are the pages making a request to the database, for example, what is the internet speed in Amsterdam.  
+**Translation:** Vocabulary: amsterdam: 阿姆斯特丹; checkmark: 勾号
+
+**[8201.36s] English:** Good, this number is 2.7 megabits, which is an exact figure.  
 **Translation:** 
 
-**[8201.36s] English:** Хорошо, это число типа 2,7 мегабита, это точное число.  
+**[8205.28s] English:** Galocha.  
 **Translation:** 
 
-**[8205.28s] English:** Галочка.  
+**[8206.20s] English:** And so on for all data points.  
 **Translation:** 
 
-**[8206.20s] English:** И так дальше по всем точкам данных.  
+**[8209.34s] English:** Have there been any registrations in the last day?  
+**Translation:** Vocabulary: registrations: 注册
+
+**[8211.08s] English:** This is important, may be registration broke.  
 **Translation:** 
 
-**[8209.34s] English:** Регистрировались ли за последние сутки?  
+**[8212.92s] English:** Galocha, someone registered.  
+**Translation:** Vocabulary: galocha: 一种鞋扣
+
+**[8214.58s] English:** Then I have uptimerobot.com, which can check key words.  
 **Translation:** 
 
-**[8211.08s] English:** Это важно, может регистрация сломалась.  
+**[8219.24s] English:** He checks the emojis.  
+**Translation:** Vocabulary: uptimerobot: uptime监控工具
+
+**[8220.80s] English:** Type of a red cross, which means something is wrong.  
 **Translation:** 
 
-**[8212.92s] English:** Галочка, кто-то регистрировался.  
+**[8224.56s] English:** He checks the health status every minute.  
 **Translation:** 
 
-**[8214.58s] English:** Потом у меня есть uptimerobot.com, который может проверять ключевые слова.  
+**[8228.68s] English:** If something is not right, he writes to me on Telegram.  
 **Translation:** 
 
-**[8219.24s] English:** Он проверяет эмодзи.  
+**[8231.70s] English:** How are things going?  
 **Translation:** 
 
-**[8220.80s] English:** Типа красного крестика, что значит, что что-то плохо.  
+**[8232.82s] English:** Nu, in general, not exactly, but it sends me a notification.  
 **Translation:** 
 
-**[8224.56s] English:** Он каждую минуту открывает healthcheck для проверки.  
+**[8235.64s] English:** Eh, darling.  
+**Translation:** Vocabulary: darling: 心肝
+
+**[8236.56s] English:** Something isn't working, and after a few minutes of the malfunction, I realize I can open the laptop and fix it.  
 **Translation:** 
 
-**[8228.68s] English:** Если что-то не так, он пишет мне в телеграм.  
+**[8242.96s] English:** But it's good that for the last couple of years nothing has been breaking.  
+**Translation:** Vocabulary: laptop: 笔记本; malfunction: 故障
+
+**[8247.26s] English:** And 10 years ago, when I started, everything seemed possible.  
 **Translation:** 
 
-**[8231.70s] English:** Говоря, как дела?  
+**[8250.00s] English:** Constantly broke down.  
 **Translation:** 
 
-**[8232.82s] English:** Ну, в общем, не так, конечно, но шлет мне оповещение.  
+**[8251.50s] English:** Now this is almost...  
 **Translation:** 
 
-**[8235.64s] English:** Эй, дорогуша.  
-**Translation:** 
-
-**[8236.56s] English:** Что-то не работает, и через минуты после поломки я узнаю, могу открыть ноутбук и пофикса.  
-**Translation:** 
-
-**[8242.96s] English:** Но хорошо то, что последние пару лет ничего не ломается.  
-**Translation:** 
-
-**[8247.26s] English:** И 10 лет назад, когда я начинал, все постаралось.  
-**Translation:** 
-
-**[8250.00s] English:** Постоянно ломалось.  
-**Translation:** 
-
-**[8251.50s] English:** А теперь это почти...  
-**Translation:** 
-
-**[8252.90s] English:** На прошлой неделе был 100% uptime.  
+**[8252.90s] English:** Last week, there was 100% uptime.  
 **Translation:** Vocabulary: uptime: 运行时间
 
-**[8257.20s] English:** А эти проверки входят в этот процент uptime.  
+**[8257.20s] English:** These checks are included in this percentage of uptime.  
 **Translation:** 
 
-**[8260.20s] English:** Все работает.  
+**[8260.20s] English:** All is working.  
 **Translation:** 
 
-**[8261.20s] English:** Ты заставляешь меня понять, что мне самому нужна такая страница.  
+**[8261.20s] English:** You make me understand that I need such a page for myself.  
 **Translation:** 
 
-**[8266.20s] English:** Одна страница, где проверка всей работоспособности.  
-**Translation:** 
+**[8266.20s] English:** One page where all functionality is tested.  
+**Translation:** Vocabulary: functionality: 功能
 
-**[8269.20s] English:** Зашел туда, чтобы увидеть все зеленые галочки.  
+**[8269.20s] English:** I went there to see all the green checkmarks.  
 **Translation:** 
 
-**[8272.20s] English:** На это приятно смотреть.  
-**Translation:** 
+**[8272.20s] English:** It is pleasant to watch that.  
+**Translation:** Vocabulary: checkmarks: 勾选标记
 
-**[8273.20s] English:** Типа, ну ладно.  
+**[8273.20s] English:** Type, nu ladno.  
 **Translation:** 
 
-**[8274.20s] English:** Да.  
+**[8274.20s] English:** Yes.  
 **Translation:** 
 
-**[8275.20s] English:** Все в порядке.  
+**[8275.20s] English:** All is well.  
 **Translation:** 
 
-**[8276.20s] English:** Выдыхаю.  
-**Translation:** 
+**[8276.20s] English:** I exhale.  
+**Translation:** Vocabulary: exhale: 呼气
 
-**[8277.20s] English:** Да.  
+**[8277.20s] English:** Yes.  
 **Translation:** 
 
-**[8278.20s] English:** И будет указано, когда.  
+**[8278.20s] English:** It will be indicated when.  
 **Translation:** 
 
-**[8279.20s] English:** В последнее время.  
+**[8279.20s] English:** In recent times.  
 **Translation:** 
 
-**[8279.80s] English:** Да.  
+**[8279.80s] English:** Yes.  
 **Translation:** 
 
-**[8280.80s] English:** Я знаю пока как вы подождите.  
+**[8280.00s] English:** Something was wrong, and it will be written never or something like that since.  
 **Translation:** 
 
-**[8281.80s] English:** Да.  
+**[8280.80s] English:** I know you can wait for now.  
 **Translation:** 
 
-**[8282.80s] English:** Но пока.  
+**[8281.80s] English:** Yes.  
 **Translation:** 
 
-**[8283.80s] English:** Но это можно посмотреть.  
+**[8282.80s] English:** But for now.  
 **Translation:** 
 
-**[8284.80s] English:** Да.  
+**[8283.80s] English:** But this can be looked at.  
 **Translation:** 
 
-**[8285.80s] English:** Но я не в какой-то степени способен это получать.  
+**[8284.80s] English:** Yes.  
 **Translation:** 
 
-**[8286.80s] English:** Да.  
+**[8285.80s] English:** But I am not capable of this to some degree.  
 **Translation:** 
 
-**[8287.80s] English:** Но я не знаю, как это будет внешне.  
+**[8286.32s] English:** You last checked everything was in order just before me.  
 **Translation:** 
 
-**[8288.80s] English:** Да.  
+**[8286.80s] English:** Yes.  
 **Translation:** 
 
-**[8289.80s] English:** Я не знаю.  
-**Translation:** 
+**[8287.80s] English:** But I don't know how it will look externally.  
+**Translation:** Vocabulary: externally: 外部地
 
-**[8290.80s] English:** Но которое я могу взять и заказать в продую.  
+**[8288.80s] English:** Yes.  
 **Translation:** 
 
-**[8291.80s] English:** Пожалуйста.  
+**[8289.80s] English:** I don't know.  
 **Translation:** 
 
-**[8292.80s] English:** Если вы хотите, я могу.  
+**[8290.80s] English:** But which one I can take and order in store.  
 **Translation:** 
 
-**[8293.80s] English:** Я могу.  
+**[8291.80s] English:** Please.  
 **Translation:** 
 
-**[8294.80s] English:** Вот так.  
+**[8292.12s] English:** The notification came that everything is working, all work, but this was  
 **Translation:** 
 
-**[8295.80s] English:** Вот.  
+**[8292.80s] English:** If you want, I can.  
 **Translation:** 
 
-**[8296.80s] English:** Нет проверьте.  
+**[8293.80s] English:** I can.  
 **Translation:** 
 
-**[8297.80s] English:** Вот.  
+**[8294.80s] English:** Here it is.  
 **Translation:** 
 
-**[8298.80s] English:** Я знаю.  
+**[8295.80s] English:** Here.  
 **Translation:** 
 
-**[8299.80s] English:** Я знаю.  
+**[8296.62s] English:** Works too frequently, I'm so great that everything works, but it was so often that I  
 **Translation:** 
 
-**[8300.80s] English:** Я знаю.  
+**[8296.80s] English:** No, check it again.  
 **Translation:** 
 
-**[8301.80s] English:** Да, нет.  
+**[8297.80s] English:** Here.  
 **Translation:** 
 
-**[8302.80s] English:** Да, я знаю.  
+**[8298.80s] English:** I know.  
 **Translation:** 
 
-**[8303.80s] English:** Да, я знаю.  
+**[8299.80s] English:** I know.  
 **Translation:** 
 
-**[8304.80s] English:** Я знаю.  
+**[8300.80s] English:** I know.  
 **Translation:** 
 
-**[8305.80s] English:** Всеerobe.  
+**[8301.76s] English:** Decided to hide the good ones, keeping only the problematic ones. I also need all of them.  
 **Translation:** 
 
-**[8306.80s] English:** Да.  
+**[8301.80s] English:** Yes, no.  
 **Translation:** 
 
-**[8307.80s] English:** Да.  
+**[8302.80s] English:** Yes, I know.  
 **Translation:** 
 
-**[8308.80s] English:** Конечно.  
+**[8303.80s] English:** Yes, I know.  
 **Translation:** 
 
-**[8280.00s] English:** раз что-то было не так и там будет написано никогда или типа с тех пор как  
+**[8304.80s] English:** I know.  
 **Translation:** 
 
-**[8286.32s] English:** ты в последний раз удосужился проверить все было в порядке точно раньше мне  
+**[8305.32s] English:** Integrate in one place, I automate all the same is simply very large.  
 **Translation:** 
 
-**[8292.12s] English:** приходило уведомление что все работа все работает все работа но это было  
-**Translation:** 
+**[8305.80s] English:** All robes.  
+**Translation:** Vocabulary: automate: 自动化; integrate: 整合
 
-**[8296.62s] English:** работает слишком часто я такой круто что все работает но это было так часто что я  
+**[8306.80s] English:** Yes.  
 **Translation:** 
 
-**[8301.76s] English:** решил скрыть хорошие оставив только проблемные мне тоже нужно все  
+**[8307.80s] English:** Yes.  
 **Translation:** 
 
-**[8305.32s] English:** интегрировать в одно место я автоматизирую все тоже просто большой  
+**[8308.80s] English:** Of course.  
 **Translation:** 
 
-**[8310.06s] English:** набор кронджоб большая часть публикации подкаста делается автоматически  
-**Translation:** 
+**[8310.06s] English:** A set of Cronjobs; most of the podcast publication is done automatically.  
+**Translation:** Vocabulary: cronjobs: 定时任务
 
-**[8316.42s] English:** автоматически нарезается на клипы и так далее вот это да но круто бы  
+**[8316.42s] English:** Automatically cut into clips and so on, voilà! But it would be cool to have more options.  
 **Translation:** 
 
-**[8321.52s] English:** автоматизировать больше перевод и все такое неплохо бы автоматизировать до  
-**Translation:** 
+**[8321.52s] English:** Automate more translations and all that, it would be nice to automate until  
+**Translation:** Vocabulary: translations: 翻译
 
-**[8326.38s] English:** каждая ошибка java script и php приходит мне в telegram и каждый пользователь  
+**[8326.38s] English:** Each error in JavaScript and PHP comes to me via Telegram, and every user.  
 **Translation:** 
 
-**[8331.36s] English:** любой пользователь не обязательно пользователь страницы натыкаясь на  
+**[8331.36s] English:** Any user does not necessarily have to be a page user, coming across it.  
 **Translation:** 
 
-**[8334.72s] English:** ошибку  
+**[8334.72s] English:** Error  
 **Translation:** 
 
-**[8335.32s] English:** java script отправляет ошибку java script на сервер а потом мне в telegram со всех  
+**[8335.32s] English:** JavaScript sends an error from JavaScript to the server, and then I get it in Telegram from everywhere.  
 **Translation:** 
 
-**[8342.66s] English:** моих сайтов тебе приходит сообщение да вроде переменная не определена или что-то  
+**[8342.66s] English:** My sites are sending you a message, but it seems like a variable is not defined or something.  
 **Translation:** 
 
-**[8348.82s] English:** подобное и я такой как интересно и еду разбираться это способ свести ошибки к  
+**[8348.82s] English:** Such things interest me, and I want to figure them out. This is a way to reduce errors.  
 **Translation:** 
 
-**[8353.38s] English:** нулю ведь вначале тебя ими заваливает а сейчас их почти нет это действительно  
+**[8353.38s] English:** Nu零，一开始它们可是把你包围了，现在却几乎看不见了，这确实  
 **Translation:** 
 
-**[8359.62s] English:** круто это же функции за которые люди платят большим  
-**Translation:** 
+**[8359.62s] English:** It's cool, these are features for which people pay big bucks.  
+**Translation:** Vocabulary: bucks: 美元
 
-**[8364.72s] English:** самым  
+**[8364.72s] English:** The transcript appears to be incomplete or in a non-English script. Could you please provide more context or clarify the intended text?  
 **Translation:** 
 
-**[8365.32s] English:** с компаниям new relic например да чтобы управлять всем этим ты тоже можешь так  
+**[8365.32s] English:** With companies like New Relic, for example, to manage all of this, you can also do so.  
 **Translation:** 
 
-**[8371.50s] English:** делать можно использовать готовые решения да это приятно делать такую  
+**[8371.50s] English:** We can use ready-made solutions, which is nice to do such tasks.  
 **Translation:** 
 
-**[8375.22s] English:** автоматизацию я начинаю задумываться что в моей жизни можно автоматизировать  
-**Translation:** 
+**[8375.22s] English:** Automatization, I begin to contemplate what in my life can be automated.  
+**Translation:** Vocabulary: automated: 自动化的; automatization: 自动化; contemplate: 深思
 
-**[8381.58s] English:** спросить же 5 до ему свой распорядок дня и спроси что можно автоматизировать но я  
+**[8381.58s] English:** To ask him about his daily schedule and see what can be automated, but I  
 **Translation:** 
 
-**[8388.24s] English:** хотел бы автоматизировать потребление контента и соцсетей до как вот так и вывод  
-**Translation:** 
+**[8388.24s] English:** I would like to automate content and social media consumption like this and output it.  
+**Translation:** Vocabulary: automate: 自动化
 
-**[8394.44s] English:** как вот так и вывод  
+**[8394.44s] English:** How about that output?  
 **Translation:** 
 
-**[8395.32s] English:** кажется есть пару стартапов которые этим заняты с помощью и и они  
-**Translation:** 
+**[8395.32s] English:** It seems there are a couple of startups that are working on this with some help and they  
+**Translation:** Vocabulary: startups: 初创企业
 
-**[8399.94s] English:** и  
+**[8399.94s] English:** And  
 **Translation:** 
 
-**[8400.24s] English:** и  
+**[8400.00s] English:** And they sum up all the most interesting things happening on Twitter.  
 **Translation:** 
 
-**[8400.26s] English:** и  
+**[8400.24s] English:** And  
 **Translation:** 
 
-**[8400.28s] English:** и  
+**[8400.26s] English:** And  
 **Translation:** 
 
-**[8400.30s] English:** и  
+**[8400.28s] English:** And  
 **Translation:** 
 
-**[8400.32s] English:** и  
+**[8400.30s] English:** And  
 **Translation:** 
 
-**[8400.34s] English:** и  
+**[8400.32s] English:** And  
 **Translation:** 
 
-**[8400.36s] English:** и  
+**[8400.34s] English:** And  
 **Translation:** 
 
-**[8400.38s] English:** и  
+**[8400.36s] English:** And  
 **Translation:** 
 
-**[8400.40s] English:** и  
+**[8400.38s] English:** And  
 **Translation:** 
 
-**[8400.42s] English:** и  
+**[8400.40s] English:** And  
 **Translation:** 
 
-**[8400.44s] English:** и  
+**[8400.42s] English:** And  
 **Translation:** 
 
-**[8400.46s] English:** и  
+**[8400.44s] English:** And  
 **Translation:** 
 
-**[8400.48s] English:** и  
+**[8400.46s] English:** And  
 **Translation:** 
 
-**[8400.50s] English:** и  
+**[8400.48s] English:** And  
 **Translation:** 
 
-**[8400.52s] English:** и  
+**[8400.50s] English:** And  
 **Translation:** 
 
-**[8400.54s] English:** и  
+**[8400.52s] English:** And  
 **Translation:** 
 
-**[8400.56s] English:** и  
+**[8400.54s] English:** And  
 **Translation:** 
 
-**[8400.58s] English:** и  
+**[8400.56s] English:** And  
 **Translation:** 
 
-**[8400.60s] English:** и  
+**[8400.58s] English:** And  
 **Translation:** 
 
-**[8400.62s] English:** и  
+**[8400.60s] English:** And  
 **Translation:** 
 
-**[8400.64s] English:** и  
+**[8400.62s] English:** And  
 **Translation:** 
 
-**[8400.66s] English:** и  
+**[8400.64s] English:** And  
 **Translation:** 
 
-**[8400.68s] English:** и  
+**[8400.66s] English:** And  
 **Translation:** 
 
-**[8400.00s] English:** и суммируют всё самое интересное, что происходит в Твиттере.  
+**[8400.68s] English:** And  
 **Translation:** 
 
-**[8403.08s] English:** Кажется, чувак по имени Свикс или как-то так.  
+**[8403.08s] English:** It seems the guy's name is Sviks or something like that.  
 **Translation:** 
 
-**[8406.00s] English:** Он делает рассылку целиком сгенерированную ИИ.  
+**[8406.00s] English:** He sends out an entire email that is completely generated by AI.  
 **Translation:** 
 
-**[8409.08s] English:** Там все новинки по ИИ.  
-**Translation:** 
+**[8409.08s] English:** There are all the latest AI novelties.  
+**Translation:** Vocabulary: novelties: 新奇事物
 
-**[8411.50s] English:** Да, было бы круто.  
+**[8411.50s] English:** Yes, that would be awesome.  
 **Translation:** 
 
-**[8413.28s] English:** Но ещё и Инстаграм, Фейсбук, Линкдин и всё такое.  
+**[8413.28s] English:** But also Instagram, Facebook, LinkedIn, and all that.  
 **Translation:** 
 
-**[8417.58s] English:** Что, мол, можешь обобщить мне интернет за сегодня?  
+**[8417.58s] English:** What can you summarize for me about the internet today?  
 **Translation:** 
 
-**[8422.38s] English:** Самарайсинтернет.ком  
-**Translation:** 
+**[8422.38s] English:** SamaraInternet.com  
+**Translation:** Vocabulary: summarize: 概括
 
-**[8423.28s] English:** Да, точка ком.  
+**[8423.28s] English:** Yes, . com.  
 **Translation:** 
 
-**[8424.34s] English:** Просто мне кажется, это отнимает слишком много времени.  
+**[8424.34s] English:** Simply, I think it takes too much time.  
 **Translation:** 
 
-**[8427.40s] English:** К тому же, мне не нравится, как это порой влияет на мою психику.  
+**[8427.40s] English:** Moreover, I don't like how it sometimes affects my psyche.  
 **Translation:** 
 
-**[8433.56s] English:** Из-за хейтеров или контента и политики в целом?  
-**Translation:** 
+**[8433.56s] English:** Due to haters or content and policy in general?  
+**Translation:** Vocabulary: psyche: 心理
 
-**[8437.18s] English:** Нет, нет, в целом.  
+**[8437.18s] English:** No, no, in general.  
 **Translation:** 
 
-**[8438.74s] English:** Например, ТикТок для меня в этом плане показательный.  
-**Translation:** 
+**[8438.74s] English:** For example, TikTok for me is demonstrative in this regard.  
+**Translation:** Vocabulary: demonstrative: 表明态度的
 
-**[8442.08s] English:** Иногда я чувствую, что потупил после него.  
+**[8442.08s] English:** Sometimes I feel depressed after him.  
 **Translation:** 
 
-**[8444.46s] English:** Я чувствую себя опустошённым и лишённым вдохновения.  
-**Translation:** 
+**[8444.46s] English:** I feel drained and devoid of inspiration.  
+**Translation:** Vocabulary: devoid: 空虚; drained: 疲惫
 
-**[8450.32s] English:** Да.  
+**[8450.32s] English:** Yes.  
 **Translation:** 
 
-**[8451.02s] English:** Забавно, что в этот момент я такой,  
+**[8451.02s] English:** It's funny that at this moment I am like this,  
 **Translation:** 
 
-**[8453.12s] English:** «Ха, глянь на этого кота, смешно вытворяет».  
+**[8453.12s] English:** Ha, look at this cat, it's doing something funny.  
 **Translation:** 
 
-**[8455.58s] English:** А потом, «О, смотри, как этот человек зашёл».  
+**[8455.58s] English:** Then, "Oh, look at how this person went.  
 **Translation:** 
 
-**[8457.40s] English:** Забавно танцует.  
+**[8457.40s] English:** It's funny how she dances.  
 **Translation:** 
 
-**[8458.84s] English:** А потом, через 10 минут,  
+**[8458.84s] English:** Then, after 10 minutes,  
 **Translation:** 
 
-**[8461.12s] English:** ты такой, «Я чувствую, что отупел, и больше ничего не хочу делать».  
+**[8461.12s] English:** You are such that, "I feel like I've become dull and don't want to do anything else.  
 **Translation:** 
 
-**[8466.66s] English:** Моя девушка как-то увидела, как я смотрел какое-то тупое видео,  
+**[8466.66s] English:** My girlfriend saw me watching some pretty dumb video,  
 **Translation:** 
 
-**[8469.98s] English:** и сказала, «Лицо у тебя тоже было тупое»,  
+**[8469.98s] English:** She said, "Your face was also stupid.  
 **Translation:** 
 
-**[8471.94s] English:** и принимала такое выражение, мол, «О, как интересно».  
+**[8471.94s] English:** She took on such an expression, as if to say, "Oh, how interesting.  
 **Translation:** 
 
-**[8475.30s] English:** Понимаешь, это...  
+**[8475.30s] English:** Ponimayesh, this...  
 **Translation:** 
 
-**[8477.00s] English:** У меня с такими соцсетями, как Икс, тоже такое бывает.  
+**[8477.00s] English:** In social networks like X, this also happens to me.  
 **Translation:** 
 
-**[8481.46s] English:** Думаю, я, наверное, по природе своей тяготею к драме.  
+**[8481.46s] English:** I think I naturally tend towards drama.  
 **Translation:** 
 
-**[8485.18s] English:** Да, замкнутый круг.  
-**Translation:** 
+**[8485.18s] English:** Yes, a vicious circle.  
+**Translation:** Vocabulary: vicious: 恶性的
 
-**[8486.78s] English:** Да.  
+**[8486.78s] English:** Yes.  
 **Translation:** 
 
-**[8487.40s] English:** И подписавшись на людей из сферы ИИ,  
+**[8487.40s] English:** Keep the signature of people from the AI sphere,  
 **Translation:** 
 
-**[8489.82s] English:** особенно на тех, кто публикует лишь технический контент, стало лучше.  
+**[8489.82s] English:** Especially for those who publish only technical content, it has gotten better.  
 **Translation:** 
 
-**[8493.72s] English:** Я просто смотрю на них и ухожу в кроличьи норы,  
+**[8493.72s] English:** I just look at them and disappear down rabbit holes.  
 **Translation:** 
 
-**[8496.54s] English:** изучая новые статьи, или гид-репозитории,  
+**[8496.54s] English:** While studying new articles or guide-repositories,  
 **Translation:** 
 
-**[8500.08s] English:** или просто какие-то крутые демонстрации чего-либо,  
+**[8500.08s] English:** Or just some cool demonstrations of something,  
 **Translation:** 
 
-**[8504.20s] English:** и то, что они ретвитят.  
+**[8504.20s] English:** And what they retweet.  
 **Translation:** 
 
-**[8506.24s] English:** В этой кроличьей норе я учусь и вдохновляюсь.  
-**Translation:** 
+**[8506.24s] English:** In this rabbit warren, I learn and get inspired.  
+**Translation:** Vocabulary: retweet: 转发
 
-**[8511.12s] English:** Но это было тяжело контролировать.  
+**[8511.12s] English:** But it was hard to control.  
 **Translation:** 
 
-**[8512.94s] English:** Нужно как-то управлять своими платформами.  
+**[8512.94s] English:** We need to find a way to manage our platforms.  
 **Translation:** 
 
-**[8516.02s] English:** У меня есть мьют-лист, и я отключаю политику.  
+**[8516.02s] English:** I have a mutelist, and I disable the policy.  
 **Translation:** 
 
-**[8519.56s] English:** Не хочу.  
-**Translation:** 
+**[8519.56s] English:** I do not want to.  
+**Translation:** Vocabulary: disable: 禁用
 
-**[8520.00s] English:** видеть ее в своей ленте. Теперь моя лента реально хороша, и я стал замечать хоть  
+**[8520.00s] English:** To see her in my feed. Now my feed is really good, and I'm starting to notice her more.  
 **Translation:** 
 
-**[8525.50s] English:** что-то интересное. Но сам факт, что тебе нужно как-то модифицировать  
+**[8525.50s] English:** Something interesting. But the fact is, you need to modify it in some way.  
 **Translation:** 
 
-**[8530.62s] English:** приложение, довести до ума свою соцсеть, чтобы она не была токсична для тебя и  
+**[8530.62s] English:** Application, work on your social network to ensure it is not toxic for you and  
 **Translation:** 
 
-**[8535.38s] English:** твоего ума, это же проблема, ты этим не должен заниматься. Интересно было бы как-то  
+**[8535.38s] English:** Of your intelligence, this is a problem; you should not be dealing with it. It would be interesting to find out how.  
 **Translation:** 
 
-**[8539.80s] English:** это автоматизировать. Хотел бы я иметь более простой доступ к  
+**[8539.80s] English:** This is to automate. I would like to have a simpler access to  
 **Translation:** 
 
-**[8545.68s] English:** api.x или instagram. Нужно тратить 42 000 в месяц, как мои друзья.  
-**Translation:** 
+**[8545.68s] English:** API.X or Instagram. I need to spend $42,000 a month, like my friends.  
+**Translation:** Vocabulary: automate: 自动化
 
-**[8551.30s] English:** Может, даже тогда, ты все равно не получишь... Есть ограничения, которые не позволяют  
+**[8551.30s] English:** May be, even then, you will still not get... There are limitations that do not allow  
 **Translation:** 
 
-**[8557.30s] English:** это легко автоматизировать. Они пытаются ограничить злоупотребление  
-**Translation:** 
+**[8557.30s] English:** This is easily automated. They are trying to limit abuse.  
+**Translation:** Vocabulary: automated: 自动化
 
-**[8562.44s] English:** или кражу данных из приложения для обучения LLM, но если я просто хочу  
+**[8562.44s] English:** Or data theft from an app for training LLMs, but if I just want  
 **Translation:** 
 
-**[8568.02s] English:** автоматизировать свое взаимодействие с x или с instagram,  
+**[8568.02s] English:** Automate your interaction with X or Instagram,  
 **Translation:** 
 
-**[8574.02s] English:** то это не так просто.  
+**[8574.02s] English:** That is not so simple.  
 **Translation:** 
 
 **[8575.36s] English:** ...  
@@ -8380,4655 +8381,4655 @@ Source file: Lex Fridman - Pieter Levels： Programming, Viral AI Startups, and 
 **[8575.60s] English:** ...  
 **Translation:** 
 
-**[8575.66s] English:** А я бы хотел автоматизировать это и изучить способы использования LLM для контроля потребляемого контента.  
+**[8575.66s] English:** I would like to automate this and study the ways to use LLM for controlling consumed content.  
 **Translation:** 
 
-**[8582.74s] English:** Может, даже опубликовать это, чтобы они сами увидели, как это может улучшить их систему.  
+**[8582.74s] English:** Maybe even publish this so they can see for themselves how it could improve their system.  
 **Translation:** 
 
-**[8588.04s] English:** Да.  
+**[8588.04s] English:** Yes.  
 **Translation:** 
 
-**[8588.30s] English:** Но не хватает доступа.  
+**[8588.30s] English:** But access is missing.  
 **Translation:** 
 
-**[8591.40s] English:** Если бы ты мог скринить с телефона, и приложение смотрело бы на твой экран...  
+**[8591.40s] English:** If you could screen capture from your phone, and the app looked at your screen...  
 **Translation:** 
 
-**[8596.34s] English:** Да, можно и так.  
+**[8596.34s] English:** Yes, that can be done as well.  
 **Translation:** 
 
-**[8597.16s] English:** Но не знаю, что бы оно делало. Может, скрывало до того, как ты это увидишь.  
+**[8597.16s] English:** But I don't know what it would do. Maybe it was hiding until you saw it.  
 **Translation:** 
 
-**[8600.96s] English:** У меня есть расширения для Хрома, я много их пишу, которые скрывают части разных страниц.  
+**[8600.96s] English:** I have extensions for Chrome that I write which hide parts of different pages.  
 **Translation:** 
 
-**[8608.54s] English:** Например, на моем основном компьютере я скрываю все просмотры, лайки и все такое на YouTube-контенте, который я создаю.  
+**[8608.54s] English:** For example, on my main computer, I hide all views, likes, and such for the YouTube content that I create.  
+**Translation:** Vocabulary: extensions: 浏览器扩展
+
+**[8617.12s] English:** This is smart; he doesn't influence you, does he?  
 **Translation:** 
 
-**[8617.12s] English:** Это умно, он не влияет на тебя, да?  
+**[8618.62s] English:** Yes, to not pay attention.  
 **Translation:** 
 
-**[8618.62s] English:** Да, чтобы не обращать внимания.  
+**[8620.16s] English:** Agreed.  
 **Translation:** 
 
-**[8620.16s] English:** Ага.  
+**[8620.92s] English:** Here I hide some parts. I have a mod for X that hides almost everything.  
 **Translation:** 
 
-**[8620.92s] English:** Еще я скрываю некоторые части. У меня есть мод для X, скрывающий почти все.  
+**[8626.72s] English:** In general, it's like on YouTube.  
 **Translation:** 
 
-**[8626.72s] English:** В общем, там, как на YouTube.  
+**[8628.02s] English:** I also have such an extension.  
 **Translation:** 
 
-**[8628.02s] English:** У меня тоже есть такое расширение.  
+**[8629.80s] English:** I wrote it myself, after all, because everything changes and we have to adapt.  
 **Translation:** 
 
-**[8629.80s] English:** Я свое сам написал, ведь так проще, потому что все меняется, и нужно подстраиваться.  
+**[8636.30s] English:** But they, social networks, very well know how to distract.  
+**Translation:** Vocabulary: distract: 转移注意力
+
+**[8640.00s] English:** It seems like the accounts, posts, and I don't need them. And about ten minutes later, you're such a  
 **Translation:** 
 
-**[8636.30s] English:** Но они, соцсети, очень хорошо умеют отвлекать.  
+**[8645.88s] English:** What's trending there? My many friends are hooked on YouTube, but I guess I'm not.  
+**Translation:** Vocabulary: hooked: 上瘾; trending: 热门
+
+**[8651.52s] English:** The volume of attention is small for YouTube, but I have an extension type of YouTube unlock.  
 **Translation:** 
 
-**[8640.00s] English:** себя похоже аккаунты посты и мне это не нужно и минут десять спустя ты такой а  
+**[8657.16s] English:** Which hides all the bad things; I just see videos, and that's it.  
+**Translation:** Vocabulary: unlock: 解锁
+
+**[8661.42s] English:** Amazing, but sometimes I need to find a video as well.  
 **Translation:** 
 
-**[8645.88s] English:** что там в трендах у меня многие друзья подсели на youtube а я нет наверное мой  
+**[8666.00s] English:** Something to do, I go on YouTube and it pops up with YouTube Shorts. These YouTube Shorts are  
 **Translation:** 
 
-**[8651.52s] English:** объем внимания мал для youtube но у меня есть расширение типа youtube анлок  
+**[8672.18s] English:** Here are the natural English punctuation and capitalization additions: Них заложены и такие алгоритмы, чтобы ты нажал, и вот уже через пять минут я сижу.  
 **Translation:** 
 
-**[8657.16s] English:** которая скрывает все плохие вещи я просто вижу лишь видео и это  
+**[8678.48s] English:** Here you have it, staring at it like that, and then you start scratching your head. I just wanted to say  
+**Translation:** Vocabulary: capitalization: 标点符号; scratching: 抓头
+
+**[8684.48s] English:** Include a mix for morning coffee, jazz, for example, but definitely not shorts. This is very  
 **Translation:** 
 
-**[8661.42s] English:** потрясающе но бывает что мне нужно найти видео как  
+**[8692.08s] English:** It's difficult for me to like how we highlight interesting things.  
+**Translation:** Vocabulary: highlight: 强调
+
+**[8695.82s] English:** Spaces  
 **Translation:** 
 
-**[8666.00s] English:** что-то сделать я захожу на youtube и вылазит youtube шорт эти youtube шорт в  
+**[8696.00s] English:** What about the exit strategy? When and how to sell the company without asking, I wonder.  
 **Translation:** 
 
-**[8672.18s] English:** них заложены и такие алгоритмы чтобы ты нажал и вот уже через пять минут я сижу  
+**[8704.78s] English:** Never sold a company, and I've never sold any of my successful projects.  
 **Translation:** 
 
-**[8678.48s] English:** с вот таким видом ты залипаешь а потом у хватаешься за голову я же просто хотел  
+**[8708.76s] English:** Projects, even depressing; I have participated in many negotiations about sales and much.  
 **Translation:** 
 
-**[8684.48s] English:** включить микс для утреннего кофе джаз например но никак не шорты это очень  
+**[8716.30s] English:** I learned about financiers and their manipulations, checks, and how they change things.  
 **Translation:** 
 
-**[8692.08s] English:** сложно мне нравится как мы выделяем интересные  
+**[8722.54s] English:** Evaluative Cost  
+**Translation:** Vocabulary: evaluative: 评估性的; financiers: 金融家; manipulations: 操控
+
+**[8725.82s] English:** There is an answer to the question: Who sells a company? It will be bought by someone.  
 **Translation:** 
 
-**[8695.82s] English:** пространства  
+**[8728.34s] English:** Da, of course, I love you. Jeet.  
 **Translation:** 
 
-**[8696.00s] English:** а что насчет выхода когда и как продавать компанию не спрашивая ведь я  
+**[8730.54s] English:** Nu, you understood how he pulled off Bauhaus.  
 **Translation:** 
 
-**[8704.78s] English:** ни разу не продавал компанию и никогда не продавал ни один из своих успешных  
-**Translation:** 
-
-**[8708.76s] English:** проектов даже печально да я участвовал во многих переговорах о продаже и много  
-**Translation:** 
-
-**[8716.30s] English:** узнал о финансистах об их манипуляциях проверках и о том как они меняют  
-**Translation:** 
-
-**[8722.54s] English:** оценочную стоимость  
-**Translation:** 
-
-**[8725.82s] English:** есть такой ответ на вопрос кто продает компанию она вас купит  
-**Translation:** 
-
-**[8728.34s] English:** да конечно люблю я гоню вас  
-**Translation:** 
-
-**[8730.54s] English:** ну вы поняли как он проделал失мул Bauhaus  
-**Translation:** 
-
-**[8731.58s] English:** он продано и показывает что у вот такого  
+**[8731.58s] English:** He has been sold, and it shows what such a thing can do.  
 **Translation:** Vocabulary: bauhaus: 包豪斯风格
 
-**[8732.60s] English:** значимый элемент когда я продаю клиенту  
+**[8732.60s] English:** A significant element when I sell to a client.  
 **Translation:** 
 
-**[8733.92s] English:** как requests  
+**[8733.92s] English:** As requests  
 **Translation:** 
 
-**[8735.08s] English:** у меня MILLA  
+**[8735.08s] English:** It seems there might be a typo or incomplete phrase in your input. Assuming "MILLA" is meant to be capitalized as it appears to be a name, here's the punctuated and properly capitalized version: "У меня МИЛЛА." If you intended something different, please provide more context so I can adjust the punctuation accordingly.  
 **Translation:** 
 
-**[8736.60s] English:** аутизировки  
+**[8736.60s] English:** Autism  
+**Translation:** Vocabulary: autism: 自闭症
+
+**[8737.66s] English:** Can all?  
 **Translation:** 
 
-**[8737.66s] English:** кант cả  
-**Translation:** 
-
-**[8739.44s] English:** ему gir mainland  
+**[8739.44s] English:** He went to the mainland.  
 **Translation:** Vocabulary: mainland: 大陆
 
-**[8740.44s] English:** потому что опять как то это такая  
+**[8740.44s] English:** Because it's somehow like that.  
 **Translation:** 
 
-**[8742.22s] English:** рабочая тренировка  
+**[8742.22s] English:** Working training session  
 **Translation:** 
 
-**[8742.76s] English:** но мне ты порш covered  
+**[8742.76s] English:** No, but you covered me.  
 **Translation:** 
 
-**[8743.74s] English:** уже концентрой  
+**[8743.74s] English:** Already concentrated.  
 **Translation:** 
 
-**[8744.74s] English:** но не я о Sims  
+**[8744.74s] English:** But not me about Sims.  
 **Translation:** 
 
 **[8745.82s] English:** Initi Yog,  
 **Translation:** 
 
-**[8749.64s] English:** 20 адресов  
+**[8749.64s] English:** 20 Addresses  
 **Translation:** 
 
-**[8750.62s] English:** в 3  
+**[8750.62s] English:** At 3  
 **Translation:** 
 
-**[8751.20s] English:** и  
+**[8751.20s] English:** And  
 **Translation:** 
 
-**[8752.34s] English:** Кого я продаю  
+**[8752.34s] English:** What am I selling?  
 **Translation:** 
 
-**[8752.98s] English:** внешне  
+**[8752.98s] English:** Externally,  
 **Translation:** 
 
-**[8753.68s] English:** решите  
-**Translation:** 
+**[8753.68s] English:** Resolve it.  
+**Translation:** Vocabulary: externally: 外部地
 
-**[8754.54s] English:** за множители от прибыли или дохода.  
+**[8754.54s] English:** For profit or income multiples.  
 **Translation:** 
 
-**[8757.48s] English:** Часто это X3, X4.  
-**Translation:** 
+**[8757.48s] English:** Often this is X3, X4.  
+**Translation:** Vocabulary: multiples: 倍数
 
-**[8760.00s] English:** Х5 от годового дохода, ну или прибыли.  
+**[8760.00s] English:** 5% of annual income, or profit.  
 **Translation:** 
 
-**[8763.26s] English:** У меня они все автоматизированы, я легко могу выждать 3 года и получить те же бабки, что и при продаже, а потом еще и продать компанию.  
-**Translation:** 
+**[8763.26s] English:** Keep the same automation and get the same money after three years, and then sell the company as well.  
+**Translation:** Vocabulary: automation: 自动化
 
-**[8772.30s] English:** Понимаешь, да? Так что финансово особо нет смысла продавать.  
+**[8772.30s] English:** Do you understand, though? So there's really no financial sense in selling.  
 **Translation:** 
 
-**[8778.04s] English:** Да.  
+**[8778.04s] English:** Yes.  
 **Translation:** 
 
-**[8778.72s] English:** Разве что цена будет достаточно высока, если она Х6, Х7, Х8, то я не хочу ждать 6 лет.  
+**[8778.72s] English:** Rазве что цена будет достаточно высока — если она Х6, Х7, Х8, то я не хочу ждать 6 лет.  
 **Translation:** 
 
-**[8784.46s] English:** Но Х3, 3 года это фигня. Я подожду.  
+**[8784.46s] English:** But H3, 3 years is nonsense. I'll wait.  
 **Translation:** 
 
-**[8787.62s] English:** Значит, твои компании ценны не только интерфейсом и краудсорс-контентом, а людьми, базой пользователей.  
+**[8787.62s] English:** Meaningfully, your companies are valued not only for their interface and crowd-sourced content, but also for the people and user base.  
 **Translation:** 
 
-**[8799.04s] English:** Да, ноу-мат-лист это сообщество.  
-**Translation:** 
+**[8799.04s] English:** Yes, no-mutalist is a community.  
+**Translation:** Vocabulary: interface: 界面
 
-**[8801.42s] English:** Думаю, это может быть очень ценно. Я удивлен, что...  
+**[8801.42s] English:** I think this could be very valuable. I am surprised that...  
 **Translation:** 
 
-**[8804.70s] English:** Да, ноу-мат-лист это как мой ребенок, первый взлетевший проект, и я не уверен, что хочу его продавать.  
+**[8804.70s] English:** Yes, but I consider the no-matter-what list like my child, my first successful project, and I'm not sure I want to sell it.  
 **Translation:** 
 
-**[8809.70s] English:** Было бы круто в старости продолжать над этим работать.  
+**[8809.70s] English:** It would be cool to keep working on this in old age.  
 **Translation:** 
 
-**[8812.92s] English:** У него есть миссия, чтобы люди могли путешествовать.  
+**[8812.92s] English:** He has a mission to enable people to travel.  
 **Translation:** 
 
-**[8817.62s] English:** Путешествовать куда угодно, работать откуда угодно, знакомиться с разными культурами.  
+**[8817.62s] English:** Travelling anywhere, working from anywhere, meeting different cultures.  
 **Translation:** 
 
-**[8821.54s] English:** Так можно сделать мир лучше.  
+**[8821.54s] English:** So, we can make the world better.  
 **Translation:** 
 
-**[8823.26s] English:** Если ты поедешь в Китай, поживешь там, ты узнаешь, что это хорошие люди, и то, что ты слышишь о китайской пропаганде, многое правда.  
+**[8823.26s] English:** If you go to China and live there, you will realize that these are good people, and that much of what you hear about Chinese propaganda is true.  
 **Translation:** 
 
-**[8830.90s] English:** Многому учишься путешествуя, и думаю, поэтому это крутой продукт, чтобы не продавать.  
-**Translation:** 
+**[8830.90s] English:** Many things you learn while traveling, and I think that's why this is a great product to not sell.  
+**Translation:** Vocabulary: propaganda: 宣传
 
-**[8837.36s] English:** И продуктом у меня меньше эмоций, типа фото-АИ, которые я мог бы продать.  
+**[8837.36s] English:** The product has fewer emotional connections for me, like the AI photos I could sell.  
 **Translation:** 
 
-**[8842.46s] English:** Да.  
+**[8842.46s] English:** Yes.  
 **Translation:** 
 
-**[8842.84s] English:** Да, еще ты упомянул, что нужно учитывать тот факт, что ты...  
+**[8842.84s] English:** Yes, you also mentioned that we need to take into account the fact that you...  
 **Translation:** 
 
-**[8847.04s] English:** Что-то упустишь.  
+**[8847.04s] English:** You'll miss something.  
 **Translation:** 
 
-**[8849.68s] English:** Компанию, которую ты создал.  
+**[8849.68s] English:** The company that you created.  
 **Translation:** 
 
-**[8850.88s] English:** И смысл, который она тебе дает, есть такая депрессия после продажи своей компании.  
+**[8850.88s] English:** The meaning she gives you is such that there's depression after selling your company.  
 **Translation:** 
 
-**[8856.12s] English:** Мол, это и был я, а кто я теперь?  
+**[8856.12s] English:** Mol, this was me, but who am I now?  
 **Translation:** 
 
-**[8859.10s] English:** И тут же начинаешь строить другую, не можешь остановиться.  
+**[8859.10s] English:** Here you start building another one, and you can't stop.  
 **Translation:** 
 
-**[8862.24s] English:** Так что, думаю, круто работать до самой смерти, делать крутые вещи, и...  
+**[8862.24s] English:** So, I think it's cool to work until you die, doing cool things, and...  
 **Translation:** 
 
-**[8868.80s] English:** Не стоит выходить на пенсию, наверное, это плохо.  
+**[8868.80s] English:** It's probably not a good idea to retire early; that might be bad.  
 **Translation:** 
 
-**[8872.28s] English:** То есть ты обычно все сам и работаешь один.  
+**[8872.28s] English:** So, you usually do everything yourself and work alone.  
 **Translation:** 
 
-**[8876.24s] English:** Да.  
+**[8876.24s] English:** Yes.  
 **Translation:** 
 
-**[8876.76s] English:** Да, за этим стоит мысль.  
+**[8876.76s] English:** Yes, there's a thought behind that.  
 **Translation:** 
 
-**[8878.72s] English:** Наверное, я не могу сработать.  
-**Translation:** 
+**[8878.72s] English:** Probably, I cannot work.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[8880.00s] English:** с другими не то чтобы я ку-ку но я не доверяю другим не доверяешь другим сделать работу на  
+**[8880.00s] English:** With others, I don't really trust them; I don't think they'll do a good job.  
 **Translation:** 
 
-**[8885.76s] English:** отлично да не хочу устраивать эти совещания по достижению консенсуса когда встреча из трех  
+**[8885.76s] English:** Great, but I don't want to hold these consensus-building meetings when the meeting is only for three people.  
 **Translation:** 
 
-**[8893.40s] English:** человек и в итоге получаются компромиссные результаты что очень по-европейски в голландии  
+**[8893.40s] English:** A person and in the end, they get compromise results that are very European in Holland.  
 **Translation:** 
 
-**[8899.46s] English:** мы это как-то называем когда сидящие в комнате выходят из нее лишь придя к компромиссу думаю  
-**Translation:** 
+**[8899.46s] English:** We call this when those sitting in the room don't leave until they reach a compromise, I think.  
+**Translation:** Vocabulary: compromise: 妥协
 
-**[8906.00s] English:** это порождает посредственность получается средняя идея компания или культура нужен лидер  
+**[8906.00s] English:** This produces mediocrity, I suppose. An average idea; a company or culture needs a leader.  
 **Translation:** 
 
-**[8914.16s] English:** или нужно быть одному и просто делать все самому я так думаю некоторым я доверяю вот с моим лучшим  
-**Translation:** 
+**[8914.16s] English:** Or do you need to be alone and just do everything yourself? I think that works for some people. I trust a few of them, and my best friend is one of them.  
+**Translation:** Vocabulary: mediocrity: 平庸
 
-**[8921.78s] English:** другом андрея мы делали новый и стартап но это потому что мы давно друг друга знаем и он один  
+**[8921.78s] English:** Dругом Андрея мы делали новый стартап, но это потому что мы давно друг друга знаем и он один.  
 **Translation:** 
 
-**[8928.32s] English:** из тех немногих с кем бы я стал что-то строить так что нужно чтобы быть успешным когда вас больше  
+**[8928.32s] English:** From those few I would consider building something, so we need to be successful when there are more of us.  
 **Translation:** 
 
-**[8935.34s] English:** одного  
+**[8935.34s] English:** One  
 **Translation:** 
 
-**[8936.00s] English:** как вы работаете что-то создаете с андрей в общем он кодит а я пущу в твиттере я буквально  
-**Translation:** 
+**[8936.00s] English:** How do you work? Something is being created with Andrei; in general, he codes while I tweet.  
+**Translation:** Vocabulary: andrei: 安德烈
 
-**[8943.08s] English:** продвигаю это в твиттере мы задаем продуктивную стратегию я говорю это или то должно быть лучше  
+**[8943.08s] English:** I'm promoting this on Twitter. We're setting a productive strategy. I say this or that should be better.  
 **Translation:** 
 
-**[8948.78s] English:** думаю один должен ходить он ходит на руби а я не умею я в печке а ты когда-нибудь кодил с другим  
+**[8948.78s] English:** I think one should go. He goes on Ruby, but I don't know; I'm in the oven. Have you ever coded with another person?  
 **Translation:** 
 
-**[8956.10s] English:** человеком в течение длительного времени ни разу в жизни как думаешь почему  
+**[8956.10s] English:** A person over a long time never thinks, as you wonder why.  
 **Translation:** 
 
-**[8966.00s] English:** я знаю что всегда просто сидел за своим ноутом и ходил у тебя ни разу не была другого разработчика  
-**Translation:** 
+**[8966.00s] English:** I know that I always just sat behind my laptop and never once visited another developer's place.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
-**[8972.64s] English:** у тебя ни разу не было другого разработчика который бы я был ее разработчик филипп и он  
+**[8972.64s] English:** Here is the transcript with natural English punctuation and capitalization: Keep in mind that you have never had another developer named Philipp, and he was the one.  
 **Translation:** 
 
-**[8977.30s] English:** я не умею писать на python эй и штуки на python мне нужно было  
-**Translation:** 
+**[8977.30s] English:** I don't know how to write in Python. I needed help with some Python stuff.  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音文本
 
-**[8981.62s] English:** заставить модели работать и реплицироваться в общем улучшить фото ai он мне очень помог 10  
+**[8981.62s] English:** Force the models to work and replicate, generally improving AI photos. He helped me a lot. 10  
 **Translation:** 
 
-**[8987.62s] English:** месяцев работал и я пытался в python работать с нампи и менеджером пакетов но было сложно разобраться в этом не было времени  
+**[8987.62s] English:** Months worked and I tried to work with Python, NumPy, and package managers, but it was difficult to figure this out; there wasn't enough time.  
 **Translation:** 
 
-**[8992.14s] English:** и не было времени  
+**[8992.14s] English:** And there was no time.  
 **Translation:** 
 
-**[8992.50s] English:** в этом не было времени думаю лет десять назад у меня было бы время зависать ночами чтобы раз  
+**[8992.50s] English:** In this, there was no time; I think ten years ago I would have had the time to hang out nights to work on it.  
 **Translation:** 
 
-**[9000.00s] English:** с этим на python но у меня нет это не моё это не твое другой язык программирования и и новая тема  
+**[9000.00s] English:** With this in Python, but I don't have it; it's not mine, it's not yours, another programming language, and a new topic.  
 **Translation:** 
 
-**[9008.12s] English:** ясно она что не было так чтобы пришел разработчик посмотрел твой php или джей куэрри код и предложил  
+**[9008.12s] English:** It's clear that there was never a situation where a developer came to look at your PHP or jQuery code and offered suggestions.  
 **Translation:** 
 
-**[9015.32s] English:** что-то это как в разговоре или приватной беседе что мол так но как-то бы я понял но закончилось  
+**[9015.32s] English:** Something this is like in a conversation or private chat, you know, but somehow I would get it, but it ended.  
 **Translation:** 
 
-**[9022.86s] English:** что случилось он хотел все переписать на это не тот человек я знаю но и что дальше он хотел  
-**Translation:** 
+**[9022.86s] English:** What happened, he wanted to rewrite everything. Not the right person, I know. But what next, he wanted.  
+**Translation:** Vocabulary: rewrite: 重写
 
-**[9029.46s] English:** переписать и сказал джей куэрри не годится я такой ну ладно и говорит нужно переписать все  
+**[9029.46s] English:** Rewrite and said, Jay Queary, "Not good. I have to rewrite everything.  
 **Translation:** 
 
-**[9034.26s] English:** на vue js ему ты уверен можем просто оставить на джей куэрри он такой не чувак нам нужно многое  
+**[9034.26s] English:** On Vue.js, I'm not sure. Can we just leave it on jQuery? He's such a guy; we need more than that.  
 **Translation:** 
 
-**[9041.34s] English:** поменять говорю хорошо я чувствовал что мы собираемся почистить код но через неделю понял  
+**[9041.34s] English:** Change, I say, it's good. I felt we were going to clean up the code, but a week later I understood.  
 **Translation:** 
 
-**[9048.22s] English:** что уйдет куча времени мне нравится работать с людьми где когда я к ним обращаюсь я представляю  
+**[9048.22s] English:** What will take a lot of time, I like working with people where when I address them, I present  
 **Translation:** 
 
-**[9056.30s] English:** себе что они самые умные люди на свете вот  
+**[9056.30s] English:** They think they are the smartest people in the world, you know.  
 **Translation:** 
 
-**[9059.46s] English:** и я смотрю на их код или на то что они создали и пытаюсь увидеть их гениальность нужно действительно  
+**[9059.46s] English:** And I look at their code or what they've created and try to see their genius; it really takes some effort.  
 **Translation:** 
 
-**[9066.48s] English:** понимать людей и замечать их а потом исходя из этого вести разговор о том какой подход лучше  
+**[9066.48s] English:** Understanding people and noticing them, and then, based on this, having a conversation about which approach is better.  
 **Translation:** 
 
-**[9074.82s] English:** да но это топ разработчик да это те кто технически разносторонний они могут изучить любой текст и таких  
-**Translation:** 
+**[9074.82s] English:** Yes, but this is top developer. They are technically versatile, able to study any text and such.  
+**Translation:** Vocabulary: technically: 在技术上; versatile: 多才多艺的
 
-**[9089.46s] English:** executes они могут уметь это понимать и вообще что такое код но большинство не такие большинство на  
+**[9089.46s] English:** Executes—they might be able to understand this and what code is, but most don't care. Most are just users.  
 **Translation:** 
 
-**[9094.82s] English:** обычной работе не так уж хороши даже врачи и все такое печально осознал это люди посредственны в  
-**Translation:** Vocabulary: executes: 执行代码
+**[9094.82s] English:** Ordinary work is not so great even for doctors, and all this sadly made people realize that they are mediocre in many ways.  
+**Translation:** Vocabulary: mediocre: 平庸的
 
-**[9102.10s] English:** своей работе до особенно думаю касательно разрабов и кода извините думаю это важный навык для  
+**[9102.10s] English:** My work often involves thinking about developers and code. I think this is an important skill.  
 **Translation:** 
 
-**[9107.80s] English:** разработчика чтобы прийти и понять музыкальность стиле кодов вот именно чувак эмпатия коду и  
-**Translation:** 
+**[9107.80s] English:** Developer to come and understand the musicality in the coding style, that's exactly what I mean by empathy for the code.  
+**Translation:** Vocabulary: empathy: 同理心
 
-**[9114.86s] English:** кодовая эмпатия да это новое понятие но она точно отражает суть нужно получить целостное представление коде конечно можно предложить издание кода выurd  
+**[9114.86s] English:** Code-level empathy, da, this is a new concept, but it definitely captures the essence. You need to get a holistic understanding of code, of course. One can certainly propose an edition of the code.  
 **Translation:** 
 
-**[9119.46s] English:** Изменения.  
+**[9119.46s] English:** Changes.  
 **Translation:** 
 
-**[9120.00s] English:** но и jquery это жесть же что я его использую мы можем это совсем не жесть  
+**[9120.00s] English:** But jQuery is such a pain that I'm using it; we could make this completely painless.  
 **Translation:** 
 
-**[9126.54s] English:** jquery тоже прекрасный и мощный и php тоже особенно как ты недавно сказал по  
-**Translation:** 
+**[9126.54s] English:** jQuery is also a wonderful and powerful tool, and PHP is especially so, as you recently said.  
+**Translation:** Vocabulary: painless: 无痛的
 
-**[9132.84s] English:** мере развития версий это сейчас более серьезный язык программирования супер  
+**[9132.84s] English:** This development has made it a more serious programming language now, super.  
 **Translation:** 
 
-**[9140.22s] English:** быстрый php сейчас реально быстрый да да да вот java script до быстрее чем  
+**[9140.22s] English:** Quick PHP is now really fast, yes, yes, yes. JavaScript is even faster than that.  
 **Translation:** 
 
-**[9145.20s] English:** руби реально быстрый да если тебе важна скорость он супер настрой и у этих  
+**[9145.20s] English:** Rubi is really fast, yeah. If speed is important to you, he's super. The settings and...  
 **Translation:** 
 
-**[9150.84s] English:** языков огромное сообщество пользователей и если тебе нужны фреймворки они тоже  
+**[9150.84s] English:** Languages have an enormous community of users, and if you need frameworks, they are also available.  
 **Translation:** 
 
-**[9155.08s] English:** есть неважно что ты используешь но если бы если бы я был разработчиком  
+**[9155.08s] English:** There's not much that matters, but if I were a developer,...  
 **Translation:** 
 
-**[9161.64s] English:** работающим с тобой я бы считал тебя крайне успешным ты много чего выпустил  
+**[9161.64s] English:** Working with you, I would consider you extremely successful. You've released a lot of stuff.  
 **Translation:** 
 
-**[9166.08s] English:** на и если бы я подключился то я бы предполагал что питер гений самый умный  
+**[9166.08s] English:** If I had connected, I would have assumed that Peter is the smartest genius.  
 **Translation:** 
 
-**[9174.12s] English:** разработчик на самом деле  
+**[9174.12s] English:** Developer, in fact,  
 **Translation:** 
 
-**[9175.20s] English:** свете и я бы учился у него и подмечать что-то в коде мол да да я понял вот как  
+**[9175.20s] English:** In the world, and I would have learned from him, noting something in the code—well, yes, yes, I got it, how.  
 **Translation:** 
 
-**[9183.80s] English:** он мыслит и теперь если я хочу добавить еще небольшую фичу точно нужно эмодзи  
+**[9183.80s] English:** He thinks, and now if I want to add a small feature, exactly, we need emojis.  
 **Translation:** 
 
-**[9192.50s] English:** вначале и потом просто следовать тому же стилю и добавить это моя цель сделать  
+**[9192.50s] English:** At first and then just follow the same style and add this - my goal is to do.  
 **Translation:** 
 
-**[9198.84s] English:** тебя счастливым и заставить улыбнуться чтобы ты сказал круто я понял и тогда ты  
-**Translation:** 
+**[9198.84s] English:** To make you happy and smile, so that you'll say "crucially, I understand," and then you  
+**Translation:** Vocabulary: crucially: 至关重要地
 
-**[9204.12s] English:** начнешь меня улыбаться  
+**[9204.12s] English:** You'll start smiling at me.  
 **Translation:** 
 
-**[9205.20s] English:** уважать и доверяем не так мы начнем работать вместе не знаю как сложно найти  
-**Translation:** 
+**[9205.20s] English:** We will start working together by respecting and trusting each other. I don't know how difficult it is to find.  
+**Translation:** Vocabulary: respecting: 尊重
 
-**[9211.26s] English:** таких разработчиков нет думаю они есть думаю мне нужно нанять больше людей опр но  
+**[9211.26s] English:** Such developers don't exist, I think they do, I think I need to hire more people, opn.  
 **Translation:** 
 
-**[9216.54s] English:** уходит много энергии и времени но это сто процентов возможны но хочу ли я этого  
+**[9216.54s] English:** It takes a lot of energy and time, but it's definitely possible. But do I want this?  
 **Translation:** 
 
-**[9221.18s] English:** не знаю пока все работает нормально но можно сказать но mat list выглядит  
+**[9221.18s] English:** I don't know for sure if everything is working properly, but we can say that the MAT list looks good.  
 **Translation:** 
 
-**[9226.68s] English:** слегка громоздко да дизайн устарел я его лучше это просто еще один пункт в моем  
-**Translation:** 
+**[9226.68s] English:** Slightly clunky, and the design is a bit outdated. I'd rather just make it another point on my list.  
+**Translation:** Vocabulary: clunky: 笨拙的; outdated: 过时的
 
-**[9232.44s] English:** туду когда-нибудь добита но это правда ты же вот такой мелких человек из вашего дома одну минуту некогда я туда discut вам уложу что ты вещь 다nity  
+**[9232.44s] English:** Here is the transcript with natural English punctuation and capitalization: Трудно когда-нибудь добиться, но это правда. Ты же такой мелкий человек из вашего дома. Одну минуту, некогда я туда. Давайте поговорю о том, что ты вещь.  
 **Translation:** 
 
-**[9235.20s] English:** очень хорош в том, что делаешь.  
-**Translation:** 
+**[9235.20s] English:** Very good at what you're doing.  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音
 
-**[9237.16s] English:** Я просто смотрю на интерфейсы фото AI.  
+**[9237.16s] English:** I just look at the photo AI interfaces.  
 **Translation:** 
 
-**[9240.00s] English:** Ты ведь делаешь их с помощью jQuery, да?  
-**Translation:** 
+**[9240.00s] English:** You make them using jQuery, don't you?  
+**Translation:** Vocabulary: interfaces: 接口
 
-**[9242.86s] English:** Насколько же крут jQuery.  
+**[9242.86s] English:** How steeply jQuery has risen.  
 **Translation:** 
 
-**[9244.76s] English:** Эти ковбои получают...  
-**Translation:** 
+**[9244.76s] English:** These cowboys receive...  
+**Translation:** Vocabulary: cowboys: 牛仔; steeply: 迅速地
 
-**[9247.96s] English:** Тут эти ковбои...  
+**[9247.96s] English:** Here these cowboys...  
 **Translation:** 
 
-**[9250.86s] English:** Невероятно.  
+**[9250.86s] English:** Unbelievable.  
 **Translation:** 
 
-**[9252.36s] English:** Невероятно.  
+**[9252.36s] English:** Unbelievable.  
 **Translation:** 
 
-**[9253.12s] English:** Но я рад, что они все в рубашках.  
+**[9253.12s] English:** But I'm glad they're all in shirts.  
 **Translation:** 
 
-**[9255.28s] English:** Тем не менее, интерфейс здесь очень хороший.  
+**[9255.28s] English:** However, the interface here is very good.  
 **Translation:** 
 
-**[9258.70s] English:** Сразу видно, что ты знаешь, что делаешь.  
-**Translation:** 
+**[9258.70s] English:** It's clear that you know what you're doing.  
+**Translation:** Vocabulary: interface: 界面
 
-**[9260.90s] English:** И интерфейс, но мотлист, тоже просто великолепен.  
+**[9260.90s] English:** The interface, but the list as well, is simply magnificent.  
 **Translation:** 
 
-**[9265.34s] English:** Спасибо.  
+**[9265.34s] English:** Thank you.  
 **Translation:** 
 
-**[9265.84s] English:** И это все твое?  
+**[9265.84s] English:** Is this all yours?  
 **Translation:** 
 
-**[9267.24s] English:** Да, все сделано мной.  
+**[9267.24s] English:** Yes, all done by me.  
 **Translation:** 
 
-**[9268.44s] English:** То есть, все это, каждая мелочь.  
+**[9268.44s] English:** That is, every little thing.  
 **Translation:** 
 
-**[9271.28s] English:** Люди говорят, что выглядит как-то по-сдвг-шному,  
+**[9271.28s] English:** People say it looks a bit off-kilter.  
 **Translation:** 
 
-**[9274.30s] English:** типа много нагромождения всего,  
+**[9274.30s] English:** Type, a lot of cluttered stuff,  
 **Translation:** 
 
-**[9278.10s] English:** а дизайн в наши дни минималистичный.  
-**Translation:** 
+**[9278.10s] English:** The design in our days is minimalist.  
+**Translation:** Vocabulary: cluttered: 杂乱的; minimalist: 极简的
 
-**[9280.64s] English:** Да, я тебя понимаю.  
+**[9280.64s] English:** Yes, I understand you.  
 **Translation:** 
 
-**[9281.78s] English:** Но здесь много информации, и это полезная информация,  
+**[9281.78s] English:** But here is a lot of information, and it is useful information.  
 **Translation:** 
 
-**[9285.44s] English:** и она подана в чистом виде,  
+**[9285.44s] English:** And she is presented in her pure form.  
 **Translation:** 
 
-**[9287.04s] English:** при этом стильно и приятно смотреть.  
+**[9287.04s] English:** It looks stylish and pleasant to watch, however.  
 **Translation:** 
 
-**[9290.20s] English:** Минималистичный дизайн — это про то,  
+**[9290.20s] English:** Minimalist design is about that,  
 **Translation:** 
 
-**[9291.86s] English:** когда ты хочешь передать вообще ноль информации,  
-**Translation:** 
+**[9291.86s] English:** When you want to transmit absolutely no information,  
+**Translation:** Vocabulary: transmit: 传递
 
-**[9294.68s] English:** и выглядеть круто.  
+**[9294.68s] English:** And it looks cool.  
 **Translation:** 
 
-**[9295.82s] English:** Да, это очень круто, и это претензиозно.  
-**Translation:** 
+**[9295.82s] English:** Yes, that's very cool, and it's pretentious.  
+**Translation:** Vocabulary: pretentious: 装腔作势的
 
-**[9298.16s] English:** Претензиозно.  
+**[9298.16s] English:** Pretentiously.  
 **Translation:** 
 
-**[9298.44s] English:** Претензиозно или нет, но функциональность отсутствует.  
-**Translation:** 
+**[9298.44s] English:** Pretentiously or not, functionality is absent.  
+**Translation:** Vocabulary: functionality: 功能性; pretentiously: 炫耀地
 
-**[9301.02s] English:** Тут куча информации, представленной в чистом виде.  
+**[9301.02s] English:** Here is a lot of information presented in its pure form.  
 **Translation:** 
 
-**[9304.38s] English:** Она не может быть привлекательной.  
+**[9304.38s] English:** She cannot be attractive.  
 **Translation:** 
 
-**[9306.36s] English:** Это так и так довольно стильно.  
+**[9306.36s] English:** This is quite stylish, indeed.  
 **Translation:** 
 
-**[9308.20s] English:** Да, думаю, так выглядит мой мозг.  
+**[9308.20s] English:** Yes, I think that's how my brain looks.  
 **Translation:** 
 
-**[9310.48s] English:** Тут происходит куча всего.  
+**[9310.48s] English:** Here happens a bunch of stuff.  
 **Translation:** 
 
-**[9312.30s] English:** Это как рисовать драм-н-бэйс, это очень...  
+**[9312.30s] English:** This is like drawing drum and bass; it's very...  
 **Translation:** 
 
-**[9315.88s] English:** Да, но при этом расположение хорошее,  
+**[9315.88s] English:** Yes, but it has good location,  
 **Translation:** 
 
-**[9318.76s] English:** шрифты очень хорошие,  
-**Translation:** 
+**[9318.76s] English:** Fonts are very good.  
+**Translation:** Vocabulary: fonts: 字体
 
-**[9321.40s] English:** очень читаемые, маленькие.  
+**[9321.40s] English:** Very readable, small.  
 **Translation:** 
 
-**[9323.40s] English:** Да, мне нравится, но я не доверяю своему суждению,  
+**[9323.40s] English:** Yes, I like it, but I don't trust my judgment,  
 **Translation:** 
 
-**[9325.80s] English:** ведь это делал я.  
+**[9325.80s] English:** Well, this is what I did.  
 **Translation:** 
 
-**[9326.52s] English:** Нет, это реально круто.  
+**[9326.52s] English:** No, this is really cool.  
 **Translation:** 
 
-**[9328.44s] English:** Спасибо, Чмо.  
+**[9328.44s] English:** Thank you, Fucker.  
 **Translation:** 
 
-**[9329.00s] English:** Эмодзи — это как бы, типа, это стиль, это фишка.  
+**[9329.00s] English:** Emojis are kind of like a style, a fun feature.  
 **Translation:** 
 
-**[9332.90s] English:** Мне нужно выбрать эмодзи, на их выбор уходит время.  
+**[9332.90s] English:** I need to choose emojis, and it takes time to select them.  
 **Translation:** 
 
-**[9336.06s] English:** Эмодзи — это классный, запоминающийся, как бы,  
+**[9336.06s] English:** Emojis are a great, memorable way,  
 **Translation:** 
 
-**[9340.40s] English:** заменитель идей.  
+**[9340.40s] English:** Replacements and ideas.  
 **Translation:** 
 
-**[9342.42s] English:** Да.  
-**Translation:** 
+**[9342.42s] English:** Yes.  
+**Translation:** Vocabulary: replacements: 替换物
 
-**[9342.58s] English:** Будь это просто текст, это выглядело бы перегруженным.  
+**[9342.58s] English:** If this were just text, it would look overloaded.  
 **Translation:** 
 
-**[9345.70s] English:** Эмодзи реально помогают.  
-**Translation:** 
+**[9345.70s] English:** Emojis really help.  
+**Translation:** Vocabulary: overloaded: 负担过重
 
-**[9347.26s] English:** Это гениальное дополнение.  
+**[9347.26s] English:** This is a genius addition.  
 **Translation:** 
 
-**[9349.30s] English:** Некоторые могут подумать, зачем везде эти эмодзи,  
+**[9349.30s] English:** Some might wonder why these emojis are everywhere,  
 **Translation:** 
 
-**[9352.22s] English:** но для меня это...  
+**[9352.22s] English:** But for me, this is...  
 **Translation:** 
 
-**[9353.38s] English:** Мне говорят убрать эмодзи.  
+**[9353.38s] English:** I am told to remove emojis.  
 **Translation:** 
 
-**[9354.50s] English:** Они не знают, что несут.  
+**[9354.50s] English:** They do not know what they are carrying.  
 **Translation:** 
 
-**[9355.60s] English:** Мол, это детский сад.  
-**Translation:** 
+**[9355.60s] English:** Mol, this is a daycare.  
+**Translation:** Vocabulary: daycare: 托儿所
 
-**[9356.78s] English:** Ну, знаешь.  
+**[9356.78s] English:** Nu, you know.  
 **Translation:** 
 
-**[9358.44s] English:** Уверен, тебе говорят много чего.  
+**[9358.44s] English:** I am confident that you hear a lot of things.  
 **Translation:** 
 
-**[9360.00s] English:** это очень круто использование цвета тоже круто мелкий шрифт но не слишком и  
+**[9360.00s] English:** This is very cool. Using color is also cool, but not too small and not too much.  
 **Translation:** 
 
-**[9366.18s] English:** нужно показывать карты а это сложно да да это это круто нет это очень и очень  
+**[9366.18s] English:** It needs showing the cards, and this is difficult, yes, yes, this is really cool, no, it's very, very important.  
 **Translation:** 
 
-**[9374.10s] English:** круто и в смысле как это выглядит когда наводишь курсор да это простые переходы  
+**[9374.10s] English:** It's cool in terms of how it looks when you hover the cursor. It's just simple transitions.  
 **Translation:** 
 
-**[9381.26s] English:** нет я это понимаю но как долго это занимает чтобы решить как именно должно  
-**Translation:** 
+**[9381.26s] English:** No, I understand but how long does it take to decide exactly how it should be resolved?  
+**Translation:** Vocabulary: cursor: 鼠标; transitions: 过渡效果
 
-**[9387.00s] English:** выглядеть ты хоть раз попадал в кроличью нору недели на 2 нет все  
+**[9387.00s] English:** You've never fallen down the rabbit hole for even two weeks, have you?  
 **Translation:** 
 
-**[9390.12s] English:** постепенно это как 10 лет работы добавил сюда переход или сделал это или ну  
+**[9390.12s] English:** Gradually, this is like 10 years of work added here, or made it happen or something.  
 **Translation:** 
 
-**[9395.32s] English:** скажем эти углы теперь закруглены до закругленная это наверное лучший вариант  
+**[9395.32s] English:** Let's say these angles are now rounded, and that's probably the best option.  
 **Translation:** 
 
-**[9400.74s] English:** но если нужны прямоугольные с острыми углами чтобы ты сделал просто захожу на  
-**Translation:** 
+**[9400.74s] English:** But if you need rectangles with sharp corners, just let me know.  
+**Translation:** Vocabulary: rectangles: 长方形
 
-**[9405.96s] English:** индекс css и нажимаю команд f и ищу border-radius 12 пикселей на меня на  
+**[9405.96s] English:** Index CSS, and I press F and search for "border-radius 12 pixels" on me.  
 **Translation:** 
 
-**[9412.40s] English:** border-radius 0 нажимаю команд enter  
-**Translation:** 
+**[9412.40s] English:** Border-radius: 0; I press Enter.  
+**Translation:** Vocabulary: pixels: 像素
 
-**[9416.44s] English:** это отправляется в github потом отправляет веб хуки развертывается на  
+**[9416.44s] English:** This is sent to GitHub, then web hooks are triggered and it gets deployed on  
 **Translation:** 
 
-**[9421.16s] English:** моем сервере и все в продакшене за пять секунд а ты часто выкатываешь в  
-**Translation:** 
+**[9421.16s] English:** On my server, and everything in production within five seconds; you often deploy frequently.  
+**Translation:** Vocabulary: deploy: 部署; deployed: 已部署
 
-**[9426.04s] English:** продакшен у тебя нет тестового сервера нет я я этим известен мне лень каждый раз  
+**[9426.04s] English:** Production, you don't have a test server, do you? I'm known for this; I'm lazy and don't want to set one up every time.  
 **Translation:** 
 
-**[9435.20s] English:** настраивать тестовый сервер на ноутбуке теперь я просто все выкатываю в  
-**Translation:** 
+**[9435.20s] English:** To configure a test server on the laptop, now I just deploy everything in  
+**Translation:** Vocabulary: configure: 配置; laptop: 笔记本电脑
 
-**[9439.20s] English:** продакшен до чувак меня за это могут отменить но для  
+**[9439.20s] English:** Production, dude, they might pull me over for this but for  
 **Translation:** 
 
-**[9442.54s] English:** меня это работает ведь у меня много у меня есть  
+**[9442.54s] English:** This works for me, since I have a lot.  
 **Translation:** 
 
-**[9446.44s] English:** линк которые сообщают не об ошибках так что я не выкатываю но буквально у меня за последние 12  
+**[9446.44s] English:** Link which reports not errors, so I haven't rolled it out, but literally in the last 12  
 **Translation:** 
 
-**[9452.92s] English:** месяцев 37 тысяч комментов в гид я делаю небольшие исправления потом команд enter и отправляю на  
-**Translation:** 
+**[9452.92s] English:** Months of 37,000 comments in Hidify, I make small corrections, then hit Enter and send them on.  
+**Translation:** Vocabulary: corrections: 修正
 
-**[9458.70s] English:** github github отправляет webhook на сервер сервер тянет обновления разворачивает их в продакшен и  
+**[9458.70s] English:** GitHub sends a webhook to the server, which pulls updates and deploys them to production and  
 **Translation:** 
 
-**[9464.08s] English:** она там какой лак после нажатия команд enter одна секунда может 1 2 ты просто вносишь изменения и по  
-**Translation:** 
+**[9464.08s] English:** She is there, applying lacquer after pressing Enter; one second, maybe 1-2 seconds. You just make the changes and wait.  
+**Translation:** Vocabulary: deploys: 部署; lacquer: 清漆; webhook: 回调
 
-**[9471.34s] English:** сути учишься не делать ошибок и на сто процентов прав люди говорят как ты можешь как ты не роняешь  
+**[9471.34s] English:** The essence is to learn not to make mistakes, and when people say that you are one hundred percent right, how can you possibly drop it?  
 **Translation:** 
 
-**[9476.94s] English:** сервера нужно кодить аккуратнее  
+**[9476.94s] English:** Servers need to be coded more carefully.  
 **Translation:** 
 
-**[9480.00s] English:** Ну, это идиотски в любой большой компании, но для меня это делает меня быстрым.  
+**[9480.00s] English:** Nu, this is idiotic in any large company, but for me, it makes me quick.  
 **Translation:** 
 
-**[9485.44s] English:** Кто-нибудь сообщает о баге в Твиттере, и я как бы засекаю время,  
-**Translation:** 
+**[9485.44s] English:** Someone reports a bug on Twitter, and I sort of time it.  
+**Translation:** Vocabulary: idiotic: 愚蠢的
 
-**[9491.08s] English:** как быстро я могу его исправить, и через две минуты все готово.  
+**[9491.08s] English:** How quickly can I fix it, and it will be ready in just two minutes.  
 **Translation:** 
 
-**[9496.10s] English:** Это забавно, потому что бесит, когда работаешь с компаниями, где баг исправляют по шесть месяцев.  
-**Translation:** 
+**[9496.10s] English:** This is funny because it irritates me when I work with companies where a bug takes six months to fix.  
+**Translation:** Vocabulary: irritates: 使生气
 
-**[9501.50s] English:** Да.  
+**[9501.50s] English:** Yes.  
 **Translation:** 
 
-**[9502.30s] English:** Это ужасно. Люди становятся счастливыми, когда ты быстро решаешь их проблемы.  
+**[9502.30s] English:** This is awful. People become happy when you quickly solve their problems.  
 **Translation:** 
 
-**[9507.94s] English:** Но да, я признаю это безумие.  
+**[9507.94s] English:** But yes, I acknowledge this madness.  
 **Translation:** 
 
-**[9510.00s] English:** Не думаю, что это безумие. Уверен, есть золотая середина,  
-**Translation:** 
+**[9510.00s] English:** I don't think it's madness. I'm sure there's a golden mean.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[9513.60s] English:** но весь этот процесс, где есть фаза тестирования, и есть стейджинг, разработка,  
+**[9513.60s] English:** But throughout this process, where there is a testing phase, and staging, development,  
 **Translation:** 
 
-**[9519.98s] English:** и потом есть несколько таблиц и баз данных для стейджинга, это же...  
-**Translation:** 
+**[9519.98s] English:** And then there are several tables and databases for staging, isn't that so...  
+**Translation:** Vocabulary: databases: 数据库
 
-**[9524.80s] English:** Куча всего.  
+**[9524.80s] English:** A bunch of stuff.  
 **Translation:** 
 
-**[9525.78s] English:** Это бардак.  
+**[9525.78s] English:** This is a mess.  
 **Translation:** 
 
-**[9526.56s] English:** Да.  
+**[9526.56s] English:** Yes.  
 **Translation:** 
 
-**[9526.92s] English:** Участвуют разные команды, а это нехорошо.  
+**[9526.92s] English:** Different teams are participating, and that's not good.  
 **Translation:** 
 
-**[9529.54s] English:** Я, наверное, забавный пример другой крайности.  
+**[9529.54s] English:** I, I suppose, am a rather funny example of the other extreme.  
 **Translation:** 
 
-**[9531.96s] English:** Делать чуть безопаснее, но не сильно, было бы идеально.  
+**[9531.96s] English:** Making it a bit safer, but not too much, would be ideal.  
 **Translation:** 
 
-**[9535.44s] English:** Да.  
+**[9535.44s] English:** Yes.  
 **Translation:** 
 
-**[9536.12s] English:** Да.  
+**[9536.12s] English:** Yes.  
 **Translation:** 
 
-**[9536.60s] English:** Уверен, именно так сейчас работает Икс.  
+**[9536.60s] English:** I am sure that X is working exactly like this right now.  
 **Translation:** 
 
-**[9539.00s] English:** Быстро, внедряя опыт.  
-**Translation:** 
+**[9539.00s] English:** Quickly, implementing the experience.  
+**Translation:** Vocabulary: implementing: 执行
 
-**[9540.00s] English:** Это улучшение.  
+**[9540.00s] English:** This is an improvement.  
 **Translation:** 
 
-**[9540.70s] English:** Там просто куча багов.  
+**[9540.70s] English:** There are just so many bugs there.  
 **Translation:** 
 
-**[9542.28s] English:** Да.  
+**[9542.28s] English:** Yes.  
 **Translation:** 
 
-**[9542.56s] English:** Люди жалуются, о, вот, купил Твиттер, теперь там куча багов.  
+**[9542.56s] English:** People complain that after buying Twitter, there are now a bunch of bugs.  
 **Translation:** 
 
-**[9546.04s] English:** Но, чувак, они реально что-то выпускают теперь.  
+**[9546.04s] English:** But, dude, they really are putting out something now.  
 **Translation:** 
 
-**[9549.04s] English:** Приложение живет и развивается.  
+**[9549.04s] English:** The application lives and develops.  
 **Translation:** 
 
-**[9550.58s] English:** Да, баги на самом деле это признак чего-то хорошего.  
+**[9550.58s] English:** Yes, bugs are actually a sign of something good.  
 **Translation:** 
 
-**[9553.04s] English:** Точно.  
+**[9553.04s] English:** Exactly.  
 **Translation:** 
 
-**[9553.36s] English:** Баги это фича, ведь это показывает, что команда что-то делает.  
+**[9553.36s] English:** Bagi is a feature, since it shows that the team is doing something.  
 **Translation:** 
 
-**[9556.08s] English:** Сто процентов, да.  
+**[9556.08s] English:** Sto percent, definitely.  
 **Translation:** 
 
-**[9557.38s] English:** Одна из проблем, которую я вижу на Ютуб, там же много потенциала для создания функций,  
+**[9557.38s] English:** One of the problems I see on YouTube is that there's also a lot of potential for creating features,  
 **Translation:** 
 
-**[9563.34s] English:** но я просто вижу, как долго это тянется.  
+**[9563.34s] English:** I just see how long this is taking.  
 **Translation:** 
 
-**[9566.24s] English:** Я общался со многими командами.  
+**[9566.24s] English:** I have communicated with many teams.  
 **Translation:** 
 
-**[9570.00s] English:** И одна из них это MLA, мультиязычное аудио.  
-**Translation:** 
+**[9570.00s] English:** One of them is MLA, multilingual audio.  
+**Translation:** Vocabulary: multilingual: 多种语言的
 
-**[9574.50s] English:** Не знаю, слышал ли ты, но на Ютуб можно добавлять аудиодорожки на разных языках, с дубляжом.  
+**[9574.50s] English:** I don't know if you've heard, but on YouTube, you can add audio tracks in different languages with dubbing.  
 **Translation:** 
 
-**[9580.62s] English:** И есть команда, но этим не так много пользуются.  
-**Translation:** 
+**[9580.62s] English:** There is a team, but it's not utilized much.  
+**Translation:** Vocabulary: dubbing: 配音; utilized: 利用
 
-**[9583.84s] English:** Но для каждой новой функции нужно собраться, обсудить, выделить ресурсы.  
+**[9583.84s] English:** But for each new function, we need to gather, discuss, and allocate resources.  
 **Translation:** 
 
-**[9589.04s] English:** Инженеры должны над этим работать, но уверен, что это геморрой для них получить одобрение.  
-**Translation:** 
+**[9589.04s] English:** Engineers should work on this, but I'm sure it's a hassle for them to get approval.  
+**Translation:** Vocabulary: allocate: 分配; hassle: 麻烦
 
-**[9594.18s] English:** Я знаю.  
+**[9594.18s] English:** I know.  
 **Translation:** 
 
-**[9594.86s] English:** Ведь это не должно сломать остальную часть сайта.  
+**[9594.86s] English:** This should not break the rest of the site.  
 **Translation:** 
 
-**[9598.06s] English:** Но если...  
+**[9598.06s] English:** But if...  
 **Translation:** 
 
-**[9600.00s] English:** Если нет достаточного диктата сверху, вроде «нам это нужно прямо сейчас»,  
-**Translation:** 
+**[9600.00s] English:** If there is no sufficient top-down dictation, like "we need this right now",  
+**Translation:** Vocabulary: dictation: 指令
 
-**[9605.34s] English:** то все будет делаться вечно, как с мультиаудио.  
+**[9605.34s] English:** It will be done forever, like with multi-audio.  
 **Translation:** 
 
-**[9608.10s] English:** Мультиаудио — это хороший пример функции, которая сейчас кажется нишевой,  
-**Translation:** 
+**[9608.10s] English:** Multimedia audio is a good example of a function that currently seems niche.  
+**Translation:** Vocabulary: multimedia: 多种媒体; niche: 小众市场
 
-**[9612.90s] English:** но вполне возможно, что она может изменить весь мир.  
+**[9612.90s] English:** But it's quite possible that she could change the whole world.  
 **Translation:** 
 
-**[9616.66s] English:** Когда я загружу этот разговор, если он мгновенно будет дублирован на 40 языков,  
-**Translation:** 
+**[9616.66s] English:** When I upload this conversation, if it will be instantly translated into 40 languages,  
+**Translation:** Vocabulary: instantly: 立刻
 
-**[9624.76s] English:** и каждый сможет смотреть и слушать любое видео на любом языке,  
+**[9624.76s] English:** And each person will be able to watch and listen to any video in any language.  
 **Translation:** 
 
-**[9630.38s] English:** это меняет просто все.  
+**[9630.38s] English:** This changes everything.  
 **Translation:** 
 
-**[9632.64s] English:** И YouTube невероятно хорошо готов стать лидером в этой области.  
+**[9632.64s] English:** YouTube is incredibly well-positioned to become a leader in this area.  
 **Translation:** 
 
-**[9636.50s] English:** У них есть вычислительные мощности, у них есть база пользователей,  
-**Translation:** 
+**[9636.50s] English:** They have computational power, they have a user base,  
+**Translation:** Vocabulary: computational: 计算的
 
-**[9640.54s] English:** у них есть опыт, как это делать.  
+**[9640.54s] English:** They have experience in how to do it.  
 **Translation:** 
 
-**[9643.28s] English:** Так что мультиаудио должно быть...  
-**Translation:** 
+**[9643.28s] English:** So, multitrack audio should be...  
+**Translation:** Vocabulary: multitrack: 多轨录音
 
-**[9645.80s] English:** Функцией высшего приоритета.  
+**[9645.80s] English:** Function of highest priority.  
 **Translation:** 
 
-**[9647.34s] English:** Да, это высокий приоритет.  
+**[9647.34s] English:** Yes, this is a high priority.  
 **Translation:** 
 
-**[9649.16s] English:** И это способ...  
+**[9649.16s] English:** And this is a way...  
 **Translation:** 
 
-**[9650.36s] English:** Google сейчас одержим ИИ, они хотят показать, что могут доминировать в ИИ.  
-**Translation:** 
+**[9650.36s] English:** Google is currently obsessed with AI, they want to show that they can dominate in AI.  
+**Translation:** Vocabulary: dominate: 占据主导; obsessed: 痴迷于
 
-**[9654.76s] English:** Так он может сказать, мы используем ИИ.  
+**[9654.76s] English:** So he can say, we use AI.  
 **Translation:** 
 
-**[9657.66s] English:** Это способ разрушить языковые барьеры.  
-**Translation:** 
+**[9657.66s] English:** This is a way to break down language barriers.  
+**Translation:** Vocabulary: barriers: 障碍
 
-**[9661.58s] English:** Для них, скорее, важна карьера, а не общий результат крутого продукта.  
+**[9661.58s] English:** For them, career advancement is more important than the overall success of a great product.  
 **Translation:** 
 
-**[9667.56s] English:** Думаю, это не из-за эгоизма.  
-**Translation:** 
+**[9667.56s] English:** I think it's not due to egoism.  
+**Translation:** Vocabulary: advancement: 晋升; egoism: 自我主义
 
-**[9669.34s] English:** Они хотят делать добро.  
+**[9669.34s] English:** They want to do good.  
 **Translation:** 
 
-**[9670.70s] English:** Дело в самой системе.  
+**[9670.70s] English:** The issue lies in the system itself.  
 **Translation:** 
 
-**[9672.14s] English:** В организации.  
+**[9672.14s] English:** In the organization.  
 **Translation:** 
 
-**[9672.76s] English:** В организационных моментах.  
+**[9672.76s] English:** In organizational matters.  
 **Translation:** 
 
-**[9673.88s] English:** У меня так бывает, когда я сообщаю о баге.  
+**[9673.88s] English:** It happens to me when I report a bug.  
 **Translation:** 
 
-**[9675.88s] English:** В крупных компаниях, с которыми я работаю, я общаюсь со многими в личке,  
+**[9675.88s] English:** In large companies where I work, I communicate with many people on personal messages,  
 **Translation:** 
 
-**[9679.92s] English:** и все они стараются что-то сделать, они все очень хорошие.  
+**[9679.92s] English:** And they all try to do something, they are all very good.  
 **Translation:** 
 
-**[9683.50s] English:** А я ищу тот...  
+**[9683.50s] English:** I am looking for that...  
 **Translation:** 
 
-**[9684.76s] English:** Засранец.  
+**[9684.76s] English:** Fucker.  
 **Translation:** 
 
-**[9685.68s] English:** Ведь я говорю, ребята, я уже полгода говорю за двадцатью людьми об этом, и бестолку.  
-**Translation:** 
+**[9685.68s] English:** Well, guys, I've been talking to twenty people about this for half a year, and it's not getting anywhere.  
+**Translation:** Vocabulary: fucker: 混蛋
 
-**[9690.14s] English:** Они говорят, я знаю, но стараюсь как могу.  
+**[9690.14s] English:** They say, "I know, but I try as much as I can.  
 **Translation:** 
 
-**[9692.92s] English:** Да, так что это системно.  
+**[9692.92s] English:** Yes, so it's systemic.  
 **Translation:** 
 
-**[9694.16s] English:** Да, это требует...  
+**[9694.16s] English:** Yes, this requires...  
 **Translation:** 
 
-**[9695.62s] English:** Опять же, не знаю, как сказать помягче, но нужен диктаторский подход сверху,  
-**Translation:** 
+**[9695.62s] English:** Again, I don't know how to say it more gently, but a top-down dictator-like approach is needed.  
+**Translation:** Vocabulary: gently: 温和地
 
-**[9699.68s] English:** чтобы СИО пришел и сказал, вы двое займитесь МЛА.  
+**[9699.68s] English:** To make SIIO come and say, you two should take care of MLA.  
 **Translation:** 
 
-**[9705.56s] English:** Да.  
+**[9705.56s] English:** Yes.  
 **Translation:** 
 
-**[9705.86s] English:** Это теперь ваш приоритет номер один.  
+**[9705.86s] English:** This is now your top priority.  
 **Translation:** 
 
-**[9708.42s] English:** Думаю, в крупных компаниях, особенно в США, многое связано с юридическими моментами.  
+**[9708.42s] English:** I think that in large companies, especially in the US, a lot is tied to legal aspects.  
 **Translation:** 
 
-**[9713.20s] English:** Да.  
+**[9713.20s] English:** Yes.  
 **Translation:** 
 
-**[9713.54s] English:** И ты не можешь просто так сделать.  
+**[9713.54s] English:** You can't just do that.  
 **Translation:** 
 
-**[9714.76s] English:** Это что-то, что делаю я.  
+**[9714.76s] English:** This is something I do.  
 **Translation:** 
 
-**[9715.80s] English:** В большой корпорации все должно пройти через юристов.  
+**[9715.80s] English:** In a large corporation, everything should go through lawyers.  
 **Translation:** 
 
-**[9718.78s] English:** Даже гид-деплой нужно...  
+**[9718.78s] English:** Even the hydro-deploy needs to...  
 **Translation:** 
 
-**[9720.00s] English:** с ними согласовывать опять же диктаторский подход ты по сути говоришь  
-**Translation:** 
+**[9720.00s] English:** With them, however, you are again taking a dictatorial approach, essentially saying.  
+**Translation:** Vocabulary: dictatorial: 独裁的
 
-**[9724.02s] English:** стив джобс этим не брезговал я видел как многие лидеры так поступают игнорируйте  
+**[9724.02s] English:** Steve Jobs didn't disdain such actions; I've seen how many leaders behave this way, ignore.  
 **Translation:** 
 
-**[9729.00s] English:** юристов и отдел коммуникации игнорируйте пиарщиков игнорируйте всех дайте власть  
-**Translation:** 
+**[9729.00s] English:** Jurists and the communications department, ignore them. Ignore all of that. Give power.  
+**Translation:** Vocabulary: disdain: 轻视; jurists: 法官
 
-**[9734.00s] English:** инженером слушайте тех кто работает на местах и сделайте это к пятнице да вот и  
+**[9734.00s] English:** Engineer, listen to those who work on-site and do it by Friday, I think that's all.  
 **Translation:** 
 
-**[9739.40s] English:** все законы могут измениться допустим вы запускаете и и дубляж и появляются  
+**[9739.40s] English:** All laws may change. You launch and dub, and then they appear.  
 **Translation:** 
 
-**[9743.52s] English:** какие-то юридические проблемы иски хорошо закон изменится будут апелляции  
+**[9743.52s] English:** Some legal problems, lawsuits, good changes to the law will be appeals.  
 **Translation:** 
 
-**[9747.68s] English:** может разбирательства верховном суде и закон изменится просто выпустив это вы  
-**Translation:** 
+**[9747.68s] English:** May there be hearings in a supreme court, and a law may change simply by issuing this.  
+**Translation:** Vocabulary: appeals: 上诉; lawsuits: 诉讼
 
-**[9752.12s] English:** меняете общество и правовую базу а не выпуская постоянно боясь правовой базы  
+**[9752.12s] English:** You change the society and legal framework, not constantly fearing the legal base.  
 **Translation:** 
 
-**[9757.16s] English:** вы ничего не меняете чисто из любопытства каким редактором пользуешься  
+**[9757.16s] English:** You aren't changing anything, just out of curiosity, which text editor do you use?  
 **Translation:** 
 
-**[9762.08s] English:** давай поговорим о рабочем процессе учитывая насколько ты сверх продуктивен  
+**[9762.08s] English:** Let's talk about the workflow, considering how supremely productive you are.  
 **Translation:** 
 
-**[9767.48s] English:** и что ты часто программируешь в трусах развалившись на диване имеет ли для тебя  
-**Translation:** 
+**[9767.48s] English:** And what do you often program in your underwear, lounging on the couch, have you ever wondered if that has any impact?  
+**Translation:** Vocabulary: lounging: 懒散坐着; supremely: 极其; underwear: 内衣; workflow: 工作流程
 
-**[9772.70s] English:** это значение в целом если какой-то конкретный редактор или это  
+**[9772.70s] English:** This value in general, if any specific editor or this.  
 **Translation:** 
 
-**[9777.22s] English:** вес  
+**[9777.22s] English:** Weights  
 **Translation:** 
 
-**[9777.52s] English:** да  
+**[9777.52s] English:** No  
 **Translation:** 
 
-**[9777.62s] English:** да  
+**[9777.62s] English:** No  
 **Translation:** 
 
-**[9777.66s] English:** SQ раньше это был sublime текст не думаю что это так важно я очень скептичен к  
+**[9777.66s] English:** SQ earlier, this was a sublime text. I don't think that's so important, I'm very skeptical about it.  
 **Translation:** 
 
-**[9783.10s] English:** инструментам когда люди думают что это важно а мне кажется что нет любой  
-**Translation:** Vocabulary: sublime: 卓越的
+**[9783.10s] English:** Instruments, when people think it's important, but I believe it's not, any.  
+**Translation:** Vocabulary: skeptical: 怀疑; sublime: 卓越
 
-**[9787.62s] English:** инструмент который ты хорошо знаешь позволяет работать быстрее благодаря  
+**[9787.62s] English:** The instrument you are well acquainted with allows working faster due to  
 **Translation:** 
 
-**[9792.42s] English:** шорткатом например ади и я обожал sublime текст за мультикурсоры где можно  
-**Translation:** 
+**[9792.42s] English:** Shortcut, for example, Alt+Shift+A and I loved Sublime Text for its multicursors where you can  
+**Translation:** Vocabulary: acquainted: 熟悉; multicursors: 多光标; shortcut: 快捷键
 
-**[9798.56s] English:** искать что-то и делать массовые замены одним махом с этим курсором а висков все  
+**[9798.56s] English:** Search for something and make mass replacements at once with this cursor while the viscosities are all the same.  
 **Translation:** 
 
-**[9805.68s] English:** еще не так хорош в этом это интересно  
-**Translation:** 
+**[9805.68s] English:** It's not that good at this, but it's interesting.  
+**Translation:** Vocabulary: cursor: 光标; replacements: 替换; viscosities: 粘度
 
-**[9807.60s] English:** sublime был первым редактором где я это освоил на они сделали это супер простым  
+**[9807.60s] English:** Sublime was the first editor where I learned this, and they made it super simple.  
 **Translation:** 
 
-**[9813.22s] English:** как это называется мультиправка редактирование курсором да что то вроде  
-**Translation:** 
+**[9813.22s] English:** How is this called? Multitext editing with a cursor, I think.  
+**Translation:** Vocabulary: editing: 编辑; multitext: 多文本编辑
 
-**[9817.50s] English:** того это круто уверен почти каждый редактор может так делать наверное  
+**[9817.50s] English:** That's great, I'm sure almost every editor can do that too.  
 **Translation:** 
 
-**[9821.96s] English:** просто сложно настроить на и зачем это нес код не так хорош я думаю или я плохо  
+**[9821.96s] English:** It's just hard to set up, and I don't see the point. The code isn't that good, I think, or maybe I'm just bad.  
 **Translation:** 
 
-**[9827.50s] English:** пробовал но я использовал его для обработки данных например от всемирного  
+**[9827.50s] English:** I tried, but I used it for data processing, for example, from the World Wide Web.  
 **Translation:** 
 
-**[9831.88s] English:** банка я мог массово менять все мульти курсором но да  
+**[9831.88s] English:** Bank, I could mass change everything with a multi-cursor, but okay.  
 **Translation:** 
 
-**[9837.44s] English:** Да, VS Code. Меня заставили использовать VS Code.  
+**[9837.44s] English:** Yes, VS Code. I was forced to use VS Code.  
 **Translation:** 
 
-**[9840.00s] English:** Твиттер вечно видел мои скриншоты и говорил, «Зачем ты до сих пор его используешь? Бумер!  
+**[9840.00s] English:** Twitter constantly saw my screenshots and said, "Why are you still using it? Old school!  
 **Translation:** 
 
-**[9845.50s] English:** Переходи на VS Code». И я такой, «Да, попробую». Я купил новый MacBook и даже не стал копировать  
+**[9845.50s] English:** Transition to VS Code». And I said, «Yes, I'll give it a try». I bought a new MacBook and even didn't bother to copy.  
 **Translation:** 
 
-**[9852.00s] English:** данные со старого, решил начать с чистого листа, как форматирование C на Windows. Полная перезагрузка.  
-**Translation:** 
+**[9852.00s] English:** Data from the old system, I decided to start with a clean slate, like formatting C on Windows. Full reload.  
+**Translation:** Vocabulary: formatting: 格式化; reload: 重新加载; slate: 白板
 
-**[9858.00s] English:** И решил, ладно, попробую VS Code. И вот он прижился. Но мне, честно, все равно, не так важно.  
+**[9858.00s] English:** He decided, why not, let's try VS Code. And here it stayed with me. But honestly, it doesn't matter to me that much; it's not that important.  
 **Translation:** 
 
-**[9863.00s] English:** Ты даже упомянул форматирование C.  
+**[9863.00s] English:** You even mentioned formatting C.  
 **Translation:** 
 
-**[9865.00s] English:** Это было так круто. Ты переустанавливал Windows, и через 3-6 месяцев  
+**[9865.00s] English:** This was so cool. You were reinstalling Windows, and within 3-6 months,...  
 **Translation:** 
 
-**[9869.00s] English:** все начинало глючить, тормозить.  
-**Translation:** 
+**[9869.00s] English:** All began to glitch and slow down.  
+**Translation:** Vocabulary: glitch: 故障; reinstalling: 重新安装
 
-**[9872.00s] English:** Тогда ты перезагружался, заходил в DOS, формат C,  
+**[9872.00s] English:** Then you rebooted, logged into DOS, formatted C:.  
 **Translation:** 
 
-**[9876.00s] English:** ты удалял локальные диски и снова устанавливал Windows 95.  
-**Translation:** 
+**[9876.00s] English:** You deleted local disks and then reinstalled Windows 95.  
+**Translation:** Vocabulary: formatted: 格式化; logged: 登录; rebooted: 重启; reinstalled: 重新安装
 
-**[9880.00s] English:** Прекрасные времена. И ты все настраивал.  
+**[9880.00s] English:** Beautiful times. And you had everything set up.  
 **Translation:** 
 
-**[9883.00s] English:** Теперь-то я установлю как надо, теперь я настрою свой рабочий стол правильно.  
-**Translation:** 
+**[9883.00s] English:** Now I will set it up properly, now I will configure my desktop correctly.  
+**Translation:** Vocabulary: configure: 配置; desktop: 桌面
 
-**[9886.00s] English:** Не знаю, давление ли это со стороны, но я использовал Emacs много-много лет.  
+**[9886.00s] English:** I don't know if this is external pressure, but I have used Emacs for many, many years.  
 **Translation:** 
 
-**[9891.00s] English:** И знаешь, я люблю Lisp, так что большая часть настройки делается на Lisp, это язык программирования.  
-**Translation:** Vocabulary: emacs: 编辑器
+**[9891.00s] English:** Keep in mind that I love Lisp, so most of the setup is done in Lisp, which is a programming language.  
+**Translation:** Vocabulary: emacs: 一种文本编辑器; setup: 配置
 
-**[9897.00s] English:** И частично это было из-за давления.  
+**[9897.00s] English:** Partly, this was due to pressure.  
 **Translation:** 
 
-**[9899.00s] English:** Но еще я понял, что нужно всегда учиться новому.  
+**[9899.00s] English:** But I also realized that one needs to always learn something new.  
 **Translation:** 
 
-**[9902.00s] English:** Та же проблема с jQuery.  
+**[9902.00s] English:** The same problem with jQuery.  
 **Translation:** 
 
-**[9905.00s] English:** Я до сих пор думаю, что мне нужно изучить Node.js, например.  
+**[9905.00s] English:** I still think I need to study Node.js, for example.  
 **Translation:** 
 
-**[9908.00s] English:** Хотя это вообще не моя тема и близко не моя основная задача,  
+**[9908.00s] English:** Although this is not really my area of expertise or primary task,  
 **Translation:** 
 
-**[9912.00s] English:** но кажется, нужно продолжать учить новое.  
+**[9912.00s] English:** It seems we need to keep learning new things.  
 **Translation:** 
 
-**[9915.00s] English:** И даже если не решишь использовать это в долгосроке, нужно хотя бы попробовать.  
+**[9915.00s] English:** Even if you don't decide to use it in the long term, you should at least try it.  
 **Translation:** 
 
-**[9921.00s] English:** Так ты расширяешь свое понимание мира.  
+**[9921.00s] English:** So you are expanding your understanding of the world.  
 **Translation:** 
 
-**[9924.00s] English:** Да, нужно понимать новые технологические концепции, проверять, могут ли они быть полезны.  
+**[9924.00s] English:** Yes, we need to understand new technological concepts and check if they can be useful.  
 **Translation:** 
 
-**[9928.00s] English:** Глупо даже не пробовать.  
+**[9928.00s] English:** It is foolish even not to try.  
 **Translation:** 
 
-**[9930.00s] English:** Тут скорее речь о концепциях, чем о самих инструментах.  
+**[9930.00s] English:** Here it's more about concepts than about the tools themselves.  
 **Translation:** 
 
-**[9934.00s] English:** Расширять горизонт может стать вызовом.  
+**[9934.00s] English:** Expanding one's horizon may become a challenge.  
 **Translation:** 
 
-**[9936.00s] English:** Перейти на VS Code и разобраться в нем, освоить все шорткаты, расширения и играться с разными штуками.  
+**[9936.00s] English:** Transition to VS Code and familiarize yourself with it, learn all the shortcuts, extensions, and play around with different features.  
 **Translation:** 
 
-**[9942.00s] English:** Это была бы интересная задача.  
-**Translation:** 
+**[9942.00s] English:** This would have been an interesting task.  
+**Translation:** Vocabulary: extensions: 插件; familiarize: 熟悉; shortcuts: 快捷键
 
-**[9944.00s] English:** Да, поначалу некомфортно.  
+**[9944.00s] English:** Yes, at first it's uncomfortable.  
 **Translation:** 
 
-**[9946.00s] English:** Для меня тоже, да.  
+**[9946.00s] English:** For me too, yes.  
 **Translation:** 
 
-**[9947.00s] English:** Но берешь и ныряешь.  
+**[9947.00s] English:** But you take it and dive in.  
 **Translation:** 
 
-**[9948.00s] English:** Нейрогимнастика, держишь мозг в тонусе.  
-**Translation:** 
+**[9948.00s] English:** Neurogymnastics, keeps the mind in tone.  
+**Translation:** Vocabulary: neurogymnastics: 神经体操
 
-**[9951.00s] English:** Такое полезно.  
+**[9951.00s] English:** Such is beneficial.  
 **Translation:** 
 
-**[9952.00s] English:** Мне надо чаще это делать. Ты пробовал работать с React?  
-**Translation:** 
+**[9952.00s] English:** I need to do this more often. Have you tried working with React?  
+**Translation:** Vocabulary: beneficial: 有益的
 
-**[9955.00s] English:** Нет, но я хочу освоить.  
+**[9955.00s] English:** No, but I want to learn.  
 **Translation:** 
 
-**[9957.00s] English:** Базовые принципы я понимаю.  
+**[9957.00s] English:** I understand the basic principles.  
 **Translation:** 
 
-**[9960.00s] English:** Не очень знаю, с чего начать.  
+**[9960.00s] English:** I don't really know where to start.  
 **Translation:** 
 
-**[9963.54s] English:** Думаю, стоит использовать свой подход.  
+**[9963.54s] English:** I think it's worth using your approach.  
 **Translation:** 
 
-**[9966.70s] English:** Просто сделать с этим что-то.  
+**[9966.70s] English:** Just do something with it.  
 **Translation:** 
 
-**[9969.14s] English:** Да, в каком-то смысле так и было.  
+**[9969.14s] English:** Yes, in a sense, that was the case.  
 **Translation:** 
 
-**[9971.64s] English:** То, что я делаю в jQuery, по сути, многое из этого, типа...  
+**[9971.64s] English:** That which I do in jQuery, essentially, is a lot of this, like...  
 **Translation:** 
 
-**[9976.58s] English:** Я начинаю перестраивать то, что уже есть.  
+**[9976.58s] English:** I begin to rebuild what already exists.  
 **Translation:** 
 
-**[9980.02s] English:** Не специально, а случайно.  
+**[9980.02s] English:** Not intentionally, but accidentally.  
 **Translation:** 
 
-**[9981.68s] English:** Просто пишу код так долго, что, сталкиваясь с теми же проблемами, что и другие,  
-**Translation:** 
+**[9981.68s] English:** Just keep writing code for so long that I keep encountering the same problems as everyone else.  
+**Translation:** Vocabulary: encountering: 遇到
 
-**[9986.02s] English:** и строю похожие фреймворки, по сути, я использую собственный тип фреймворка.  
+**[9986.02s] English:** And I build similar frameworks; in essence, I am using my own type of framework.  
 **Translation:** 
 
-**[9989.76s] English:** По сути, строишь фреймворк с нуля, который ты понимаешь.  
-**Translation:** 
+**[9989.76s] English:** In essence, you are building a framework from scratch that you fully understand.  
+**Translation:** Vocabulary: scratch: 从头开始
 
-**[9992.90s] English:** Типа да, с HX, с запросами, но по сути это одно и то же.  
+**[9992.90s] English:** Type of deal, yes with HX and queries, but essentially it's the same thing.  
 **Translation:** 
 
-**[9996.12s] English:** Слушай, у меня нет времени.  
-**Translation:** 
+**[9996.12s] English:** Listen, I don't have time.  
+**Translation:** Vocabulary: queries: 询问
 
-**[9998.50s] English:** Хотя так говорить это всегда оправдание, ты просто не делаешь это приоритетом.  
+**[9998.50s] English:** Although it's always an excuse to say so, you simply don't make it a priority.  
 **Translation:** 
 
-**[10003.72s] English:** Мой приоритет это все еще развитие бизнеса и работа с ИИ.  
+**[10003.72s] English:** My priority is still developing the business and working with AI.  
 **Translation:** 
 
-**[10007.44s] English:** Думаю, изучение ИИ сейчас гораздо важнее, чем фронт-энд фреймворк.  
+**[10007.44s] English:** I think that studying AI is much more important than learning a front-end framework right now.  
 **Translation:** 
 
-**[10011.86s] English:** Это приносит больше пользы.  
+**[10011.86s] English:** This brings more benefits.  
 **Translation:** 
 
-**[10013.60s] English:** Думаю, нужно просто учить каждый день что-то.  
+**[10013.60s] English:** I think we just need to learn something every day.  
 **Translation:** 
 
-**[10018.48s] English:** Да, можно учить понимание.  
-**Translation:** 
+**[10018.48s] English:** Yes, we can learn comprehension.  
+**Translation:** Vocabulary: comprehension: 理解能力
 
-**[10019.76s] English:** Немного каждый день, немного React или сейчас Next.js стал популярным, поизучай Next.  
+**[10019.76s] English:** A little bit every day, a bit of React or now that Next.js has become popular, check out Next.  
 **Translation:** 
 
-**[10025.30s] English:** Я называю это военно-промышленным комплексом.  
+**[10025.30s] English:** I call it the military-industrial complex.  
 **Translation:** 
 
-**[10028.36s] English:** Но все равно, нужно в этом разбираться.  
+**[10028.36s] English:** But still, we need to figure this out.  
 **Translation:** 
 
-**[10031.28s] English:** Нужно уметь пользоваться оружием войны, и тогда ты можешь стать пацифистом.  
-**Translation:** 
+**[10031.28s] English:** You need to know how to use the weapons of war, and then you can become a pacifist.  
+**Translation:** Vocabulary: pacifist: 反对战争的人
 
-**[10036.26s] English:** Я к тому, что ты должен учить это так, как уже обсуждали, создавая что-то,  
+**[10036.26s] English:** I'm getting at the fact that you should teach this as we've already discussed, by creating something.  
 **Translation:** 
 
-**[10042.30s] English:** пытаясь построить и запустить проект.  
+**[10042.30s] English:** Trying to build and launch a project.  
 **Translation:** 
 
-**[10045.52s] English:** Фреймворки очень сложны и так быстро меняются.  
+**[10045.52s] English:** Frameworks are very complex and change so rapidly.  
 **Translation:** 
 
-**[10048.48s] English:** И это...  
+**[10048.48s] English:** And this...  
 **Translation:** 
 
-**[10049.76s] English:** С чего мне начать?  
+**[10049.76s] English:** Where should I start?  
 **Translation:** 
 
-**[10050.78s] English:** Это то же самое, когда начинаешь делать сайты.  
+**[10050.78s] English:** This is the same when you start making websites.  
 **Translation:** 
 
-**[10053.30s] English:** С чего начать?  
+**[10053.30s] English:** Where do we start?  
 **Translation:** 
 
-**[10054.54s] English:** Наверное, спросить в GPT-4.  
+**[10054.54s] English:** Probably, ask in GPT-4.  
 **Translation:** 
 
-**[10056.88s] English:** Это...  
+**[10056.88s] English:** This...  
 **Translation:** 
 
-**[10057.36s] English:** Да, все настолько динамично.  
+**[10057.36s] English:** Yes, everything is so dynamic.  
 **Translation:** 
 
-**[10059.12s] English:** Все меняется так быстро, что я не уверен, стоит ли это изучать, понимаешь?  
+**[10059.12s] English:** All is changing so quickly that I'm not sure if it's worth studying, you know?  
 **Translation:** 
 
-**[10063.48s] English:** Может, какая-то комбинация?  
+**[10063.48s] English:** May be some combination?  
 **Translation:** 
 
-**[10065.56s] English:** Немного Next, PHP, Laravel.  
+**[10065.56s] English:** Next, PHP, Laravel.  
 **Translation:** 
 
-**[10068.54s] English:** Laravel — это фреймворк для PHP.  
+**[10068.54s] English:** Laravel is a framework for PHP.  
 **Translation:** 
 
-**[10070.58s] English:** Думаю, это было бы...  
+**[10070.58s] English:** I think it would be...  
 **Translation:** 
 
-**[10072.42s] English:** Могло бы мне помочь.  
+**[10072.42s] English:** Could it help me?  
 **Translation:** 
 
-**[10073.52s] English:** Может, Tailwind для CSS, движок для стилизации?  
+**[10073.52s] English:** May be, Tailwind for CSS, a styling engine?  
 **Translation:** 
 
-**[10076.70s] English:** Это могло бы сэкономить мое время.  
-**Translation:** Vocabulary: tailwind: 风速辅助
+**[10076.70s] English:** This could save me some time.  
+**Translation:** Vocabulary: tailwind: 逆风
 
-**[10078.68s] English:** Да, но ты не узнаешь.  
+**[10078.68s] English:** Yes, but you won't recognize it.  
 **Translation:** 
 
-**[10079.76s] English:** Аж пока.  
+**[10079.76s] English:** Azh poka.  
 **Translation:** 
 
-**[10080.00s] English:** Пока не попробуешь, и кажется, что нужно построить, возможно, я говорю это себе, но, наверное, я должен переписать свою личную страницу на Laravel, или...  
+**[10080.00s] English:** Poka ne poprobuyu, i kazhditsya, chto nuzhno postruzhit', mozhno, ya govoriu eto sebe, no, napravlo, ya dolzhen perepisat' svoyu lichnuyu stranitsu na Laravel, ili...  
 **Translation:** 
 
-**[10093.24s] English:** Да.  
-**Translation:** 
+**[10093.24s] English:** Yes.  
+**Translation:** Vocabulary: dolzhen: 应该; govoriu: 说; kazhditsya: 似乎; lichnuyu: 个人; napravlo: 大概; perepisat: 重写; poprobuyu: 尝试; postruzhit: 构建; stranitsu: 页面
 
-**[10093.70s] English:** Даже если на странице почти нет динамики, но может и есть только один, важно построить ее полностью в рамках этого фреймворка.  
+**[10093.70s] English:** Even if there is almost no dynamics on the page, but there might be just one, it's important to build it completely within the framework.  
 **Translation:** 
 
-**[10101.64s] English:** Да.  
+**[10101.64s] English:** Yes.  
 **Translation:** 
 
-**[10102.12s] English:** Или сквозная сборка в Node.js. Часть этого в том, чтобы понять, как развернуть эту штуку.  
+**[10102.12s] English:** Or a full-stack setup in Node.js. Part of this is understanding how to deploy this thing.  
 **Translation:** 
 
-**[10108.32s] English:** Понятия не имею. Все, что я знаю, это отправить проект на GitHub, и он отправляет это на мой сервер. Но как запустить JavaScript, я без понятия.  
-**Translation:** 
+**[10108.32s] English:** I have no idea. All I know is to send the project to GitHub, and it sends it to my server. But how to run JavaScript, I have no clue.  
+**Translation:** Vocabulary: deploy: 部署; setup: 配置
 
-**[10115.54s] English:** Да.  
+**[10115.54s] English:** Yes.  
 **Translation:** 
 
-**[10116.08s] English:** Может, мне нужен какой-то PaaS, типа сначала Massive, или что-то типа Heroku.  
+**[10116.08s] English:** Maybe I need some PaaS, like initially Massive, or something like Heroku.  
 **Translation:** 
 
-**[10124.44s] English:** На самом деле, я только что сам себе подал идею. Я как бы хочу создать одну веб-страницу.  
+**[10124.44s] English:** Actually, I just gave myself an idea. I kind of want to create one web page.  
 **Translation:** 
 
-**[10131.30s] English:** Просто одну страницу. С одним динамическим элементом.  
+**[10131.30s] English:** Just one page. With one dynamic element.  
 **Translation:** 
 
-**[10135.88s] English:** И реализовать ее во всех фреймворках.  
+**[10135.88s] English:** To implement it in all frameworks.  
 **Translation:** 
 
-**[10138.32s] English:** На одной и той же странице?  
-**Translation:** 
+**[10138.32s] English:** On the same page?  
+**Translation:** Vocabulary: implement: 执行
 
-**[10140.32s] English:** Да, на той же самой.  
+**[10140.32s] English:** Yes, on the very same.  
 **Translation:** 
 
-**[10141.32s] English:** Все то же самое.  
+**[10141.32s] English:** All the same.  
 **Translation:** 
 
-**[10142.32s] English:** Типа страница.  
+**[10142.32s] English:** Type of page.  
 **Translation:** 
 
-**[10143.32s] English:** Это умно. Крутой вариант. Ты можешь изучить эти фреймворки, и ты можешь увидеть различия.  
+**[10143.32s] English:** This is smart. A cool variant. You can study these frameworks and see the differences.  
 **Translation:** 
 
-**[10147.32s] English:** Это интересно, да?  
+**[10147.32s] English:** This is interesting, isn't it?  
 **Translation:** 
 
-**[10148.32s] English:** Сколько это займет?  
+**[10148.32s] English:** How long will it take?  
 **Translation:** 
 
-**[10149.32s] English:** Да. Включаешь секундомер.  
+**[10149.32s] English:** Yes. Start the stopwatch.  
 **Translation:** 
 
-**[10150.32s] English:** Мне нужно придумать что-то достаточно сложное, потому что это, возможно, должно включать какую-то работу с базой данных и динамическими изменениями.  
-**Translation:** 
+**[10150.32s] English:** I need to come up with something fairly complex because it might involve working with a database and dynamic changes.  
+**Translation:** Vocabulary: stopwatch: 计时器
 
-**[10162.32s] English:** Что-то связанное с IE или LLM.  
+**[10162.32s] English:** Something related to IE or LLM.  
 **Translation:** 
 
-**[10164.32s] English:** Возможно, не обязательно LLM, но, может быть...  
+**[10164.32s] English:** Possible that it's not necessarily an LLM, but maybe...  
 **Translation:** 
 
-**[10167.32s] English:** Сделать вызов фреймворкам.  
+**[10167.32s] English:** Make a call to frameworks.  
 **Translation:** 
 
-**[10168.32s] English:** Факт.  
+**[10168.32s] English:** Fact.  
 **Translation:** 
 
-**[10169.32s] English:** Вызов API к чему-нибудь.  
+**[10169.32s] English:** Calling an API to something.  
 **Translation:** 
 
-**[10170.32s] English:** Да, например, Креплика. Это был бы очень крутой проект.  
-**Translation:** 
+**[10170.32s] English:** Yes, for example, Craplica. This would be a very cool project.  
+**Translation:** Vocabulary: craplica: 垃圾复制
 
-**[10173.32s] English:** Да, да.  
+**[10173.32s] English:** Yes, yes.  
 **Translation:** 
 
-**[10174.32s] English:** Можно зафиксировать время и отразить уровень удовлетворенности.  
+**[10174.32s] English:** Can we fix the time and reflect the level of satisfaction?  
 **Translation:** 
 
-**[10178.32s] English:** Да.  
+**[10178.32s] English:** Yes.  
 **Translation:** 
 
-**[10179.32s] English:** Я точно собираюсь это сделать.  
+**[10179.32s] English:** I definitely plan to do this.  
 **Translation:** 
 
-**[10181.32s] English:** Никто ведь не оценивает это, не измеряет удовлетворенность разработчика.  
+**[10181.32s] English:** No one ever evaluates this or measures developer satisfaction.  
 **Translation:** 
 
-**[10184.32s] English:** Да.  
-**Translation:** 
+**[10184.32s] English:** Yes.  
+**Translation:** Vocabulary: evaluates: 评估
 
-**[10185.32s] English:** И не замеряет время релиза.  
+**[10185.32s] English:** And it does not measure the time of release.  
 **Translation:** 
 
-**[10187.32s] English:** Просто возьми месяц и сделай это.  
+**[10187.32s] English:** Just take a month and do it.  
 **Translation:** 
 
-**[10189.32s] English:** Сколько существует фреймворков? Сколько?  
+**[10189.32s] English:** How many frameworks exist? How many?  
 **Translation:** 
 
-**[10192.32s] English:** Основных способов, наверное, пять. Есть как бы...  
+**[10192.32s] English:** There are, roughly speaking, five main ways. There's kind of...  
 **Translation:** 
 
-**[10196.32s] English:** Есть бэкэнд, фронтэнд.  
+**[10196.32s] English:** There is backend, frontend.  
 **Translation:** 
 
-**[10197.32s] English:** И это тоже меня пугает, например...  
-**Translation:** 
+**[10197.32s] English:** And this also scares me, for example....  
+**Translation:** Vocabulary: backend: 后端; frontend: 前端; scares: 使害怕
 
-**[10200.00s] English:** Например, Реакт уже, похоже, стал бэкэндом.  
+**[10200.00s] English:** For example, React seems to have become a backend as well.  
 **Translation:** 
 
-**[10202.36s] English:** Или что-то, что раньше было фронтэндом, а теперь заставляют работать с бэкэндом.  
+**[10202.36s] English:** Or something that used to be frontend, and now they're making you work with backend.  
 **Translation:** 
 
-**[10206.84s] English:** Но никто тебя не заставляет что-то делать.  
+**[10206.84s] English:** But nobody is forcing you to do anything.  
 **Translation:** 
 
-**[10209.00s] English:** Так что, если верить интернету, то нет одного правильного...  
+**[10209.00s] English:** So, if we believe the internet, there isn't one single correct...  
 **Translation:** 
 
-**[10214.08s] English:** На самом деле нетривиально делать что-то канонически.  
+**[10214.08s] English:** It is actually not trivial to do something canonically.  
 **Translation:** 
 
-**[10217.72s] English:** Делать как бы стандартно.  
-**Translation:** 
+**[10217.72s] English:** Do it as would be standard.  
+**Translation:** Vocabulary: canonically: 按照惯例; trivial: 简单
 
-**[10219.64s] English:** Ты идешь в магазин мороженого, там миллион вкусов.  
+**[10219.64s] English:** You are going to the ice cream shop, where there are millions of flavors.  
 **Translation:** 
 
-**[10222.54s] English:** Я хочу ванильное.  
-**Translation:** 
+**[10222.54s] English:** I want vanilla.  
+**Translation:** Vocabulary: flavors: 口味; vanilla: 香草味
 
-**[10223.80s] English:** Если ты никогда не пробовал мороженое,  
+**[10223.80s] English:** If you have never tried ice cream,  
 **Translation:** 
 
-**[10227.22s] English:** можно просто попробовать без ничего.  
+**[10227.22s] English:** Can we just try it without anything?  
 **Translation:** 
 
-**[10230.18s] English:** Да.  
+**[10230.18s] English:** Yes.  
 **Translation:** 
 
-**[10230.76s] English:** Я хочу ванильное.  
+**[10230.76s] English:** I want vanilla.  
 **Translation:** 
 
-**[10232.24s] English:** Иногда они буквально называют это ванилью.  
+**[10232.24s] English:** Sometimes they literally call it vanilla.  
 **Translation:** 
 
-**[10235.26s] English:** Но я хочу знать, какой основной способ.  
+**[10235.26s] English:** But I want to know what the main way is.  
 **Translation:** 
 
-**[10238.24s] English:** Но не тупой, а стандартный, канонический.  
+**[10238.24s] English:** But not a dumb one, but a standard, canonical one.  
 **Translation:** 
 
-**[10242.62s] English:** Да, я знаю доминирующий способ.  
-**Translation:** 
+**[10242.62s] English:** Yes, I know the dominant way.  
+**Translation:** Vocabulary: canonical: 规范的; dominant: 主要的
 
-**[10244.18s] English:** 60% разработчиков делают это так.  
+**[10244.18s] English:** 60% of developers do this.  
 **Translation:** 
 
-**[10246.88s] English:** Трудно это выяснить.  
+**[10246.88s] English:** It's difficult to determine this.  
 **Translation:** 
 
-**[10248.12s] English:** В этом и проблема.  
+**[10248.12s] English:** In this lies the problem.  
 **Translation:** 
 
-**[10249.92s] English:** Да, возможно, LLM могут помочь.  
+**[10249.92s] English:** Yes, possibly LLMs can help.  
 **Translation:** 
 
-**[10251.98s] English:** Может, стоит у них и спросить, какой способ доминирующий.  
+**[10251.98s] English:** May be, it's worth asking them which method is dominant.  
 **Translation:** 
 
-**[10254.78s] English:** Они обычно это знают, ведь они дают ответы, которые наиболее вероятны.  
+**[10254.78s] English:** They usually know this, since they give answers that are most likely to be correct.  
 **Translation:** 
 
-**[10259.36s] English:** Да.  
+**[10259.36s] English:** Yes.  
 **Translation:** 
 
-**[10259.54s] English:** Так что логично спросить у LLM.  
+**[10259.54s] English:** So, it makes sense to ask LLM.  
 **Translation:** 
 
-**[10262.32s] English:** И я думаю, честно говоря, что могло бы помочь.  
+**[10262.32s] English:** I think, honestly, that could help.  
 **Translation:** 
 
-**[10265.20s] English:** Вот, допустим, я бы хотел изучить фреймворк.  
+**[10265.20s] English:** Here, for example, I would like to study a framework.  
 **Translation:** 
 
-**[10267.92s] English:** Это нанять кого-то, кто уже в этом разбирается, сесть с ним и что-то вместе сделать.  
+**[10267.92s] English:** This is to hire someone who already knows what they're doing, sit down with them, and do something together.  
 **Translation:** 
 
-**[10273.12s] English:** Ни разу так не делал, но думал об этом.  
+**[10273.12s] English:** Never did it before, but I thought about it.  
 **Translation:** 
 
-**[10275.16s] English:** Это будет очень быстрый способ перенести их знания в свою голову.  
+**[10275.16s] English:** This will be a very quick way to transfer their knowledge into your head.  
 **Translation:** 
 
-**[10279.94s] English:** Я пробовал такое.  
+**[10279.94s] English:** I have tried that.  
 **Translation:** 
 
-**[10281.14s] English:** Все зависит от того, что это за человек.  
+**[10281.14s] English:** All depends on who the person is.  
 **Translation:** 
 
-**[10283.08s] English:** Если это разработчик мирового уровня, то да.  
+**[10283.08s] English:** If this is a world-class developer, then yes.  
 **Translation:** 
 
-**[10285.92s] English:** Часто они сами настолько привыкли к этому,  
+**[10285.92s] English:** Often they themselves become so accustomed to it,  
 **Translation:** 
 
-**[10288.92s] English:** что не могут понять, что это.  
-**Translation:** 
+**[10288.92s] English:** What they cannot understand is what this is.  
+**Translation:** Vocabulary: accustomed: 习惯; cannot: 不能
 
-**[10289.52s] English:** Они исследовали другие варианты.  
+**[10289.52s] English:** They investigated other options.  
 **Translation:** 
 
-**[10292.50s] English:** И это может стать догматичным поучением тебя,  
-**Translation:** 
+**[10292.50s] English:** And this may become a dogmatic lesson to you.  
+**Translation:** Vocabulary: dogmatic: 教条的; investigated: 调查
 
-**[10296.28s] English:** что вот это правильный способ.  
+**[10296.28s] English:** That's the right way.  
 **Translation:** 
 
-**[10298.52s] English:** Это типа, нет-нет-нет, мы исследуем вместе.  
+**[10298.52s] English:** This is like, no-no-no, we investigate together.  
 **Translation:** 
 
-**[10301.10s] English:** Хорошо, покажи мне что-то интересное, что ты пробовал.  
+**[10301.10s] English:** Good, show me something interesting that you have tried.  
 **Translation:** 
 
-**[10305.14s] English:** Важно быть открытым для нового.  
+**[10305.14s] English:** It is important to be open to new things.  
 **Translation:** 
 
-**[10309.16s] English:** Node.js не есть правильный способ веб-разработки.  
+**[10309.16s] English:** Node.js is not the right way for web development.  
 **Translation:** 
 
-**[10312.66s] English:** Это один из способов.  
+**[10312.66s] English:** This is one of the ways.  
 **Translation:** 
 
-**[10314.58s] English:** И нет ничего плохого в старом ламповом печи,  
+**[10314.58s] English:** There is nothing wrong with an old tube oven.  
 **Translation:** 
 
-**[10319.52s] English:** но, к примеру, можно попробовать.  
+**[10319.52s] English:** However, for example, one could try.  
 **Translation:** 
 
-**[10320.00s] English:** Джей Куэри, ванильным Джава Скрипт.  
+**[10320.00s] English:** Jay Cuary, vanilla JavaScript.  
 **Translation:** 
 
-**[10323.06s] English:** У него просто есть свои плюсы и минусы, и нужно их понимать.  
-**Translation:** 
+**[10323.06s] English:** He simply has his pros and cons, and you need to understand them.  
+**Translation:** Vocabulary: vanilla: 原生JavaScript
 
-**[10326.28s] English:** Да, такие люди существуют.  
+**[10326.28s] English:** Yes, such people exist.  
 **Translation:** 
 
-**[10328.54s] English:** Да.  
+**[10328.54s] English:** Yes.  
 **Translation:** 
 
-**[10329.22s] English:** Вот если хочешь изучить ИИ, представь, что Карпата сидит рядом.  
+**[10329.22s] English:** Here, if you want to study AI, imagine Carpata sitting next to you.  
 **Translation:** 
 
-**[10332.48s] English:** Да.  
-**Translation:** 
+**[10332.48s] English:** Yes.  
+**Translation:** Vocabulary: carpata: 卡帕塔
 
-**[10332.80s] English:** Его видео на Ютьюб потрясающе, он может объяснить пятилетнему, как создать ИЛЛМ, невероятно.  
+**[10332.80s] English:** His YouTube video is amazing; he can explain to a five-year-old how to create an ILM, incredibly.  
 **Translation:** 
 
-**[10340.12s] English:** Представь, что он сидит рядом с тобой и учит тебя, как создать ИЛЛМ.  
+**[10340.12s] English:** Imagine that he is sitting next to you and teaching you how to create an ILLM.  
 **Translation:** 
 
-**[10344.34s] English:** Это было бы потрясающе.  
+**[10344.34s] English:** This would be amazing.  
 **Translation:** 
 
-**[10345.70s] English:** Да. Ну, у Карпаты есть свой стиль, и я не уверен, что он для всех, например, для пятилетнего, зависит от ребенка.  
-**Translation:** 
+**[10345.70s] English:** Yes. Well, Carpathia has its own style, and I'm not sure it's for everyone, for example, a five-year-old depends on the child.  
+**Translation:** Vocabulary: carpathia: 卡普里亚号
 
-**[10355.22s] English:** Да.  
+**[10355.22s] English:** Yes.  
 **Translation:** 
 
-**[10356.18s] English:** Он супертехнический.  
+**[10356.18s] English:** He is super technical.  
 **Translation:** 
 
-**[10357.64s] English:** Но из-за этого он и потрясающий, он единственный, кто может объяснить простыми словами, что показывает его гениальность.  
+**[10357.64s] English:** But because of this, he is incredible; he is the only one who can explain complex ideas in simple words, showing his genius.  
 **Translation:** 
 
-**[10364.50s] English:** Да.  
+**[10364.50s] English:** Yes.  
 **Translation:** 
 
-**[10364.96s] English:** Если кто-то может объяснить без жаргона, ты такой «Вау».  
+**[10364.96s] English:** If someone can explain it without using jargon, you're such a "Wow.  
 **Translation:** 
 
-**[10368.74s] English:** И делать это с нуля.  
-**Translation:** 
+**[10368.74s] English:** To do this from scratch.  
+**Translation:** Vocabulary: jargon: 行话; scratch: 从头开始
 
-**[10370.10s] English:** Да, это уровень топ. Что за парень?  
+**[10370.10s] English:** Yes, that's a top level. What a guy!  
 **Translation:** 
 
-**[10372.90s] English:** Но он может быть против фреймворков.  
+**[10372.90s] English:** But he may be against frameworks.  
 **Translation:** 
 
-**[10375.70s] English:** Ведь строят с нуля.  
+**[10375.70s] English:** Because they are building from scratch.  
 **Translation:** 
 
-**[10376.78s] English:** На самом деле, да, возможно, так и есть.  
+**[10376.78s] English:** Actually, yes, it might be that way.  
 **Translation:** 
 
-**[10379.80s] English:** Он как ты, но для ИИ.  
+**[10379.80s] English:** He is like you, but for AI.  
 **Translation:** 
 
-**[10381.82s] English:** Да, возможно, изучение фреймворка очень плохая идея для нас, может, стоит остаться в PHP, как скрипт Киди.  
+**[10381.82s] English:** Yes, possibly studying the framework is a very bad idea for us; maybe we should stay with PHP, like Kid's script.  
 **Translation:** 
 
-**[10388.20s] English:** Но ты должен, может, изучая фреймворк, ты узнаешь, что ты сам хочешь делать с нуля.  
+**[10388.20s] English:** But you should realize that by studying the framework, you might learn what you want to do from scratch.  
 **Translation:** 
 
-**[10394.56s] English:** Может, освоишь концепции, но тебе не придется их использовать. Да.  
+**[10394.56s] English:** Maybe you'll grasp the concepts, but you won't have to use them. Yes.  
 **Translation:** 
 
-**[10399.02s] English:** И ты до сих пор маковод. Или уже нет?  
+**[10399.02s] English:** And you're still a麦客. Or aren't you anymore?  
 **Translation:** 
 
-**[10401.26s] English:** Да, да, я перешел на Мак в 2014-м, когда решил начать путешествовать.  
+**[10401.26s] English:** Yes, yes, I switched to Mac in 2014 when I decided to start traveling.  
 **Translation:** 
 
-**[10405.70s] English:** А мой брат сказал, «Чувак, бери Макбук, это теперь стандарт».  
+**[10405.70s] English:** My brother said, "Dude, take the Macbook; this is now standard.  
 **Translation:** 
 
-**[10409.16s] English:** Я подумал, что пора переходить с Windows.  
-**Translation:** 
+**[10409.16s] English:** I thought it was time to switch from Windows.  
+**Translation:** Vocabulary: macbook: 苹果笔记本电脑
 
-**[10411.38s] English:** У меня тогда было три монитора.  
+**[10411.38s] English:** I had three monitors then.  
 **Translation:** 
 
-**[10413.64s] English:** У меня был сетап для музыкального продакшена.  
-**Translation:** 
+**[10413.64s] English:** I had a setup for music production.  
+**Translation:** Vocabulary: setup: 设备配置
 
-**[10416.30s] English:** Пришлось все продать, и я взял Макбук.  
+**[10416.30s] English:** I had to sell everything and took a Macbook.  
 **Translation:** 
 
-**[10419.28s] English:** Помню, как открыл эту коробку, Макбук типа...  
+**[10419.28s] English:** I remember opening this box, a MacBook type...  
 **Translation:** 
 
-**[10422.34s] English:** Он был таким красивым, весь этот алюминий.  
+**[10422.34s] English:** He was so beautiful, all that aluminum.  
 **Translation:** 
 
-**[10426.00s] English:** Я открыл его, снял защитную пленку с экрана.  
-**Translation:** 
+**[10426.00s] English:** I opened it, removed the protective film from the screen.  
+**Translation:** Vocabulary: aluminum: 铝
 
-**[10428.88s] English:** Он был прекрасен.  
+**[10428.88s] English:** He was beautiful.  
 **Translation:** 
 
-**[10430.28s] English:** Я не трогал его три дня, просто смотрел на него.  
+**[10430.28s] English:** I didn't touch him for three days, just watched him.  
 **Translation:** 
 
-**[10432.54s] English:** Я все еще работал за Windows, а потом...  
+**[10432.54s] English:** I was still working with Windows, and then...  
 **Translation:** 
 
-**[10435.70s] English:** ...путешествовать с ним, и все мои великие дела начались с перехода на Мак.  
-**Translation:** 
+**[10435.70s] English:** ...to travel with him, and all my great endeavors began with switching to Mac.  
+**Translation:** Vocabulary: endeavors: 努力
 
-**[10439.40s] English:** Что звучит очень хорошо.  
+**[10439.40s] English:** What sounds very good.  
 **Translation:** 
 
-**[10440.00s] English:** догматично что это за великие дела бизнес стал налаживаться я начал  
-**Translation:** 
+**[10440.00s] English:** Dogmatically, what great deeds! Business was getting settled, and I began.  
+**Translation:** Vocabulary: dogmatically: 教条地
 
-**[10445.12s] English:** путешествовать создавать стартапы стал зарабатывать все началось с перехода на  
+**[10445.12s] English:** Travelling, creating startups, and starting to earn—all began with the transition to.  
 **Translation:** 
 
-**[10449.60s] English:** mac слушай я как бы теперь хочется перейти на mac я использую либо linux  
-**Translation:** 
+**[10449.60s] English:** Mac, listen. I think I'd like to switch to Mac now. I've been using Linux so far.  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[10456.98s] English:** внутри windows wsl или просто linux но для большинства задач windows например  
+**[10456.98s] English:** Inside Windows WSL or just Linux, but for most tasks, Windows, for example.  
 **Translation:** 
 
-**[10464.14s] English:** редактирование или adobe продуктов для adobe да да да можно использовать  
-**Translation:** 
+**[10464.14s] English:** Editing or Adobe products for Adobe: yes, yes, yes, it can be used.  
+**Translation:** Vocabulary: editing: 编辑
 
-**[10469.22s] English:** наверное mac для этого может попробовать ты вот скучаешь по windows  
+**[10469.22s] English:** Probably Mac could try something for you. You miss Windows, right?  
 **Translation:** 
 
-**[10473.36s] English:** каковы плюсы и минусы finder в мак просто ужасен он словно бы что ужасно  
+**[10473.36s] English:** What are the pros and cons of Finder in Mac? It's just awful; it's like something terrible.  
 **Translation:** 
 
-**[10478.58s] English:** finder а ты не знаешь есть windows explorer да и и он потряс его что  
+**[10478.58s] English:** Finder, а ты не знаешь, есть Windows Explorer? Да и он потряс его что?  
 **Translation:** 
 
-**[10483.62s] English:** повесил finder вот странный знаешь ли есть баг когда ты отправляешь  
+**[10483.62s] English:** Pulled down Finder; you know, there's a strange bug where when you send  
 **Translation:** Vocabulary: explorer: 文件资源管理器
 
-**[10488.10s] English:** прикрепляешь фото в отца поли telegram он выбирает сразу всю папку и ты можешь  
+**[10488.10s] English:** Attach a photo in the Telegram chat with your father's account, and he selects the entire folder at once, and you can  
 **Translation:** 
 
-**[10492.58s] English:** случайно нажать enter и отправить все фото или файлы в групповый чат такое  
-**Translation:** 
+**[10492.58s] English:** случайно нажать Enter и отправить все фото или файлы в групповой чат: такое  
+**Translation:** Vocabulary: selects: 挑选
 
-**[10497.30s] English:** было у моей девушки она  
+**[10497.30s] English:** It was with my girlfriend, she  
 **Translation:** 
 
-**[10499.20s] English:** начала слать мне фото фото фото фото finder не юзабелен но зато mac это linux  
+**[10499.20s] English:** Began sending me photos, photo, photo, photo. Finder is not user-friendly, but it's like Linux for Mac.  
 **Translation:** 
 
-**[10504.94s] English:** все на базе linux да то есть командная строка  
+**[10504.94s] English:** All based on Linux, which means the command line.  
 **Translation:** 
 
-**[10508.18s] English:** да постоянно всегда и самое крутое что ты можешь запустить кажется это unix или  
+**[10508.18s] English:** Da, constantly always, and the coolest thing you can run seems to be Unix or  
 **Translation:** 
 
-**[10513.54s] English:** что-то вроде debian ты можешь запустить большинство linux штук на mac os и это  
+**[10513.54s] English:** Something like Debian, you can run most Linux things on Mac OS and this  
 **Translation:** 
 
-**[10518.08s] English:** делает ее идеальной для разработки у меня есть сервер nginx  
+**[10518.08s] English:** It makes it ideal for development. I have a server running NGINX.  
 **Translation:** 
 
-**[10521.88s] English:** если я не ленюсь ставить staging среду это просто сервер nginx точно такое же как на моем облачном сервере  
+**[10521.88s] English:** If I don't lazy about setting up a staging environment, it's just an Nginx server exactly the same as on my cloud server.  
 **Translation:** 
 
-**[10529.20s] English:** все работает одинаково  
+**[10529.20s] English:** All works equally.  
 **Translation:** 
 
-**[10530.92s] English:** я могу использовать те же файлы и конфигурации и все это просто просто  
+**[10530.92s] English:** I can use the same files and configurations, and all of this is just simply.  
 **Translation:** 
 
-**[10535.74s] English:** работает и это делает мак отличной платформой для linux вещей я так думаю  
-**Translation:** 
+**[10535.74s] English:** Works, and this makes Mac a great platform for Linux things, I think.  
+**Translation:** Vocabulary: configurations: 配置
 
-**[10540.06s] English:** да я настоящую убунту конечно лучше да  
+**[10540.06s] English:** Yes, I'd say true Ubuntu is definitely better, of course.  
 **Translation:** 
 
-**[10546.68s] English:** я в этой странной ситуации где я  
+**[10546.68s] English:** I am in this strange situation where I  
 **Translation:** 
 
-**[10551.54s] English:** вроде бы опытный пользователь windows и скажем android и все мои гораздо более умные ферменки  
+**[10551.54s] English:** It seems like an experienced user of Windows and Android, and all my much smarter fermunks.  
 **Translation:** 
 
-**[10554.04s] English:** джон  
+**[10554.04s] English:** John  
 **Translation:** 
 
-**[10559.20s] English:** друзья  
+**[10559.20s] English:** Friends.  
 **Translation:** 
 
-**[10560.00s] English:** Все сидят на Mac и iPhone.  
+**[10560.00s] English:** Everyone is sitting on Macs and iPhones.  
 **Translation:** 
 
-**[10562.48s] English:** И это типа...  
+**[10562.48s] English:** And this is supposed to be...  
 **Translation:** 
 
-**[10563.16s] English:** Если ты не хочешь поддаваться давлению со стороны...  
+**[10563.16s] English:** If you don't want to give in to pressure from...  
 **Translation:** 
 
-**[10565.96s] English:** Это не давление со стороны, это как...  
+**[10565.96s] English:** This is not pressure from outside; it's more like...  
 **Translation:** 
 
-**[10568.62s] English:** Одна из причин, почему я хочу иметь детей, это то...  
+**[10568.62s] English:** One of the reasons why I want to have children is that...  
 **Translation:** 
 
-**[10571.72s] English:** Я бы очень хотел иметь детей в качестве основы, но есть типа беспокойство.  
+**[10571.72s] English:** I would very much like to have children as a foundation, but there is a type of worry.  
 **Translation:** 
 
-**[10576.06s] English:** Может быть, это потребует жертв или еще что.  
+**[10576.06s] English:** Maybe this will require sacrifices or something else.  
 **Translation:** 
 
-**[10578.56s] English:** Но я вижу, как мои очень успешные, умные друзья, у которых они есть,  
+**[10578.56s] English:** But I see how my very successful, intelligent friends have them.  
 **Translation:** 
 
-**[10583.60s] English:** они счастливы благодаря этому.  
+**[10583.60s] English:** They are happy thanks to this.  
 **Translation:** 
 
-**[10585.30s] English:** Так что это не давление, это просто сильный сигнал.  
+**[10585.30s] English:** So, this is not pressure, it's just a strong signal.  
 **Translation:** 
 
-**[10588.78s] English:** Да, это работает для людей.  
+**[10588.78s] English:** Yes, it works for people.  
 **Translation:** 
 
-**[10589.70s] English:** Это работает.  
+**[10589.70s] English:** This works.  
 **Translation:** 
 
-**[10590.52s] English:** Да, да, да.  
+**[10590.52s] English:** Yes, yes, yes.  
 **Translation:** 
 
-**[10590.84s] English:** И то же самое с Mac, это типа...  
+**[10590.84s] English:** And the same goes for Mac; it's kind of...  
 **Translation:** 
 
-**[10592.80s] English:** Да.  
+**[10592.80s] English:** Yes.  
 **Translation:** 
 
-**[10594.14s] English:** Это как бы фундаментально мне не нравится закрытая система.  
+**[10594.14s] English:** This is fundamentally not something I like about a closed system.  
 **Translation:** 
 
-**[10598.80s] English:** Так что мне больше нравится Windows, тут гораздо больше свободы.  
-**Translation:** 
+**[10598.80s] English:** So I prefer Windows; there's much more freedom here.  
+**Translation:** Vocabulary: fundamentally: 本质上
 
-**[10602.94s] English:** Как и с Android, больше свободы.  
+**[10602.94s] English:** As with Android, more freedom.  
 **Translation:** 
 
-**[10605.04s] English:** Да.  
+**[10605.04s] English:** Yes.  
 **Translation:** 
 
-**[10605.34s] English:** Все гораздо гибче.  
+**[10605.34s] English:** All is much more flexible.  
 **Translation:** 
 
-**[10606.88s] English:** Но...  
-**Translation:** 
+**[10606.88s] English:** But...  
+**Translation:** Vocabulary: flexible: 有弹性的
 
-**[10607.20s] English:** Типа, все крутые ребята, умные ребята, используют Mac и iPhone.  
+**[10607.20s] English:** Type of, all the cool guys, smart guys, use Mac and iPhone.  
 **Translation:** 
 
-**[10612.84s] English:** И я такой, ну ладно, нужно дать этому шанс.  
+**[10612.84s] English:** And I think, well, okay, we need to give this a chance.  
 **Translation:** 
 
-**[10616.06s] English:** Особенно для разработки, ведь...  
+**[10616.06s] English:** Especially for development, since...  
 **Translation:** 
 
-**[10618.88s] English:** Все больше и больше...  
+**[10618.88s] English:** All more and more...  
 **Translation:** 
 
-**[10619.68s] English:** Все больше делается в облаке.  
+**[10619.68s] English:** More and more is being done in the cloud.  
 **Translation:** 
 
-**[10621.28s] English:** Да.  
+**[10621.28s] English:** Yes.  
 **Translation:** 
 
-**[10621.84s] English:** Ну, в общем...  
+**[10621.84s] English:** Nu, in general....  
 **Translation:** 
 
-**[10622.92s] English:** Но забавно слышать про великие свершения.  
+**[10622.92s] English:** But it's amusing to hear about great achievements.  
 **Translation:** 
 
-**[10625.54s] English:** Может быть, у меня будет так же, когда перейду на Mac, начнутся великие свершения.  
+**[10625.54s] English:** Maybe when I switch to Mac, great achievements will begin.  
 **Translation:** 
 
-**[10630.16s] English:** Думаю, дело в железе и, конечно, в софте.  
+**[10630.16s] English:** I think it's about the hardware and, of course, the software.  
 **Translation:** 
 
-**[10632.32s] English:** Да.  
+**[10632.32s] English:** Yes.  
 **Translation:** 
 
-**[10632.54s] English:** Но железо так хорошо собрано, клавиатура и...  
+**[10632.54s] English:** But the iron is so well put together, the keyboard and...  
 **Translation:** 
 
-**[10635.12s] English:** Да, но глянь на мою клавиатуру.  
+**[10635.12s] English:** Yes, but take a look at my keyboard.  
 **Translation:** 
 
-**[10636.92s] English:** Да, она крутая.  
+**[10636.92s] English:** Yes, she is awesome.  
 **Translation:** 
 
-**[10638.74s] English:** Это одно слово для этого.  
+**[10638.74s] English:** This is one word for this.  
 **Translation:** 
 
-**[10640.90s] English:** Где ты любишь работать?  
+**[10640.90s] English:** Where do you like to work?  
 **Translation:** 
 
-**[10643.06s] English:** На диване.  
+**[10643.06s] English:** On the sofa.  
 **Translation:** 
 
-**[10644.66s] English:** Диван имеет значение?  
+**[10644.66s] English:** Does the sofa have any value?  
 **Translation:** 
 
-**[10646.02s] English:** В смысле дома или любой диван?  
+**[10646.02s] English:** In the sense of a home or any couch?  
 **Translation:** 
 
-**[10647.94s] English:** Нет, и в гостинице тоже.  
+**[10647.94s] English:** No, and in the hotel too.  
 **Translation:** 
 
-**[10649.68s] English:** В номере?  
+**[10649.68s] English:** In the room?  
 **Translation:** 
 
-**[10650.98s] English:** В номере.  
+**[10650.98s] English:** In the room.  
 **Translation:** 
 
-**[10651.52s] English:** Да, но раньше я работал очень эргономично, со стоячим столом.  
+**[10651.52s] English:** Yes, but earlier I worked very ergonomically, with a standing desk.  
 **Translation:** 
 
-**[10654.60s] English:** Да.  
-**Translation:** 
+**[10654.60s] English:** Yes.  
+**Translation:** Vocabulary: ergonomically: 符合人体工程学地
 
-**[10655.08s] English:** И все типа идеально.  
+**[10655.08s] English:** And it's all types of perfect.  
 **Translation:** 
 
-**[10656.72s] English:** Экран на уровне глаз и прочее.  
+**[10656.72s] English:** Screen at eye level, and so on.  
 **Translation:** 
 
-**[10658.70s] English:** И мне казалось, что это связано с нагрузкой.  
+**[10658.70s] English:** It seemed to me that it was related to the load.  
 **Translation:** 
 
-**[10661.82s] English:** У меня началась РСА, хроническая травма от повторений, покалывания, боль доходит до самой спины.  
-**Translation:** 
+**[10661.82s] English:** I have RSD, a chronic trauma from repetitions, tingling, and pain reaching all the way to my spine.  
+**Translation:** Vocabulary: chronic: 长期的; repetitions: 重复; tingling: 刺痛感; trauma: 创伤
 
-**[10666.92s] English:** И я сидел в каворкинге, в 6 утра, восход солнца.  
+**[10666.92s] English:** I was sitting in a coworking space at 6 a.m., watching the sunrise.  
 **Translation:** 
 
-**[10670.26s] English:** Я работал, ходил.  
-**Translation:** 
+**[10670.26s] English:** I worked, went around.  
+**Translation:** Vocabulary: coworking: 共享办公空间
 
-**[10672.84s] English:** И услышал звук.  
+**[10672.84s] English:** He heard a sound.  
 **Translation:** 
 
-**[10674.06s] English:** Я повернул голову влево, и моя шея застряла.  
+**[10674.06s] English:** I turned my head to the left, and my neck got stuck.  
 **Translation:** 
 
-**[10678.20s] English:** И я такой, блин, вау.  
+**[10678.20s] English:** And I'm like, wow.  
 **Translation:** 
 
-**[10679.68s] English:** И я такой, блин, вау.  
+**[10679.68s] English:** And I'm like, wow.  
 **Translation:** 
 
-**[10680.00s] English:** И я такой, я такой, я что, умираю?  
+**[10680.00s] English:** I am such a mess, am I dying?  
 **Translation:** 
 
-**[10684.06s] English:** Я, наверное, умираю.  
+**[10684.06s] English:** I think I'm dying.  
 **Translation:** 
 
-**[10685.14s] English:** Да, наверное.  
+**[10685.14s] English:** Yes, probably.  
 **Translation:** 
 
-**[10686.04s] English:** Я не хочу умирать в каворкинге, я хочу умереть дома.  
+**[10686.04s] English:** I do not want to die in a coffin, I want to die at home.  
 **Translation:** 
 
-**[10688.70s] English:** Да.  
+**[10688.70s] English:** Yes.  
 **Translation:** 
 
-**[10689.14s] English:** В мире и почете.  
-**Translation:** 
+**[10689.14s] English:** In honor and esteem.  
+**Translation:** Vocabulary: esteem: 尊重
 
-**[10690.46s] English:** Да.  
+**[10690.46s] English:** Yes.  
 **Translation:** 
 
-**[10690.74s] English:** И я закрыл свой ноутбук и положил его в рюкзак.  
-**Translation:** 
+**[10690.74s] English:** I closed my laptop and put it in my backpack.  
+**Translation:** Vocabulary: laptop: 便携式电脑
 
-**[10694.32s] English:** Да.  
+**[10694.32s] English:** Yes.  
 **Translation:** 
 
-**[10694.72s] English:** Вышел на улицу, сел на мотоцикл и поехал домой.  
+**[10694.72s] English:** I went out onto the street, got on my motorcycle, and rode home.  
 **Translation:** 
 
-**[10697.40s] English:** Да.  
+**[10697.40s] English:** Yes.  
 **Translation:** 
 
-**[10697.58s] English:** И я лег, типа, на подушку с поднятыми ногами, чтобы избавиться от боли.  
+**[10697.58s] English:** I lay down on the pillow with my legs raised to get rid of the pain.  
 **Translation:** 
 
-**[10704.88s] English:** Вся спина болела.  
+**[10704.88s] English:** My whole back was hurting.  
 **Translation:** 
 
-**[10705.94s] English:** Это было потому, что я работал вот так все время.  
+**[10705.94s] English:** This was because I worked like this all the time.  
 **Translation:** 
 
-**[10708.12s] English:** Да.  
+**[10708.12s] English:** Yes.  
 **Translation:** 
 
-**[10708.70s] English:** Поэтому я завел подставку для ноутбука, и все стало эргономичным.  
+**[10708.70s] English:** Therefore, I bought a laptop stand, and everything became ergonomically comfortable.  
 **Translation:** 
 
-**[10713.84s] English:** Но потом я начал качаться, и с тех пор кажется, что все выпрямляется, осанка стала более прямой.  
+**[10713.84s] English:** But then I started to sway, and since then it seems everything is straightening out; my posture has become more upright.  
 **Translation:** 
 
-**[10721.24s] English:** И у меня больше нет никакого РСА, никакого покалывания, никаких болей.  
-**Translation:** 
+**[10721.24s] English:** I no longer have any RSAS, any tingling, or any pain.  
+**Translation:** Vocabulary: straightening: 变直; upright: 挺拔
 
-**[10729.34s] English:** Теперь я работаю на диване, и это классно.  
+**[10729.34s] English:** Now I am working on the couch, and this is great.  
 **Translation:** 
 
-**[10732.80s] English:** Это было близко к...  
+**[10732.80s] English:** This was close to...  
 **Translation:** 
 
-**[10736.48s] English:** Я сижу вот так.  
+**[10736.48s] English:** I sit like this.  
 **Translation:** 
 
-**[10738.54s] English:** Да.  
+**[10738.54s] English:** Yes.  
 **Translation:** 
 
-**[10738.96s] English:** Ноги вместе, потом подушка, потом ноутбук.  
+**[10738.96s] English:** Feet together, then cushion, then laptop.  
 **Translation:** 
 
-**[10741.62s] English:** Так и работаю.  
-**Translation:** 
+**[10741.62s] English:** So I work.  
+**Translation:** Vocabulary: cushion: 垫子
 
-**[10742.46s] English:** Ты как бы откидываешься.  
+**[10742.46s] English:** You seem to be leaning back.  
 **Translation:** 
 
-**[10744.20s] English:** Я сижу...  
-**Translation:** 
+**[10744.20s] English:** I sit here...  
+**Translation:** Vocabulary: leaning: 倚靠
 
-**[10746.06s] English:** Ноги вместе, немного согнувшись.  
+**[10746.06s] English:** Feet together, slightly bent.  
 **Translation:** 
 
-**[10747.80s] English:** А где мышь?  
+**[10747.80s] English:** Where is the mouse?  
 **Translation:** 
 
-**[10748.60s] English:** На макбуке все управляется через трекпад.  
+**[10748.60s] English:** On the MacBook, everything is controlled through the trackpad.  
 **Translation:** 
 
-**[10752.86s] English:** Раньше у меня была Logitech MX, идеальная эргономическая мышь.  
-**Translation:** Vocabulary: logitech: 罗技
-
-**[10756.62s] English:** Просто делаешь небольшие движения пальцем?  
+**[10752.86s] English:** Previously, I had a Logitech MX, an ideal ergonomic mouse.  
 **Translation:** 
 
-**[10759.00s] English:** Да.  
+**[10756.62s] English:** Is it just making small movements with your finger?  
 **Translation:** 
 
-**[10759.50s] English:** Один экран?  
+**[10759.00s] English:** Yes.  
 **Translation:** 
 
-**[10760.52s] English:** Один экран, а раньше было три.  
+**[10759.50s] English:** One screen?  
 **Translation:** 
 
-**[10762.30s] English:** Я понимаю, о чем ты.  
+**[10760.52s] English:** One screen, and there used to be three.  
 **Translation:** 
 
-**[10763.86s] English:** У меня было все это.  
+**[10762.30s] English:** I understand what you're saying.  
 **Translation:** 
 
-**[10766.02s] English:** Но потом я понял, что...  
+**[10763.86s] English:** It was all mine.  
 **Translation:** 
 
-**[10768.12s] English:** Все это сжато в одном 16-дюймовом макбук, но работать на одном устройстве, это круто.  
+**[10766.02s] English:** But then I understood that,...  
 **Translation:** 
 
-**[10774.34s] English:** Потому что ты так близко ко всем инструментам и всему, что происходит.  
-**Translation:** 
+**[10768.12s] English:** All of this is compressed into one 16-inch Macbook, but working on one device is pretty cool.  
+**Translation:** Vocabulary: compressed: 压缩; macbook: Macbook
 
-**[10777.42s] English:** Это как работать над машиной или...  
+**[10774.34s] English:** Because you are so close to all the tools and everything that is happening.  
 **Translation:** 
 
-**[10781.94s] English:** Когда куча экранов, ты вертишь головой и страдает шея.  
+**[10777.42s] English:** This is like working on a machine or...  
 **Translation:** 
 
-**[10786.10s] English:** Так что это...  
+**[10781.94s] English:** When there are too many screens, you shake your head and strain your neck.  
 **Translation:** 
 
-**[10787.24s] English:** Ну, не знаю.  
-**Translation:** 
+**[10786.10s] English:** So, what is this...?  
+**Translation:** Vocabulary: strain: 用力
 
-**[10788.02s] English:** Звучит, словно ты в какой-то секте и пытаешься меня затащить.  
+**[10787.24s] English:** Nu, I don't know.  
 **Translation:** 
 
-**[10792.28s] English:** Но...  
+**[10788.02s] English:** It sounds like you're in some kind of sect trying to pull me in.  
 **Translation:** 
 
-**[10792.84s] English:** Здорово слышать, что можно быть продуктивным на одном экране.  
+**[10792.28s] English:** But...  
 **Translation:** 
 
-**[10796.44s] English:** Да.  
+**[10792.84s] English:** It's great to hear that you can be productive on one screen.  
 **Translation:** 
 
-**[10796.64s] English:** Это безумие.  
+**[10796.44s] English:** Yes.  
 **Translation:** 
 
-**[10797.48s] English:** Команд-таб для макбук, как и таб для Windows.  
-**Translation:** 
+**[10796.64s] English:** This is madness.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[10800.00s] English:** можно быстро переключаться то есть весь экран занимает весь код смотришь код а  
+**[10797.48s] English:** Command-tab for Macbook, as well as tab for Windows.  
 **Translation:** 
 
-**[10805.76s] English:** потом да а если разворачиваешь сайт переключаешь экраны команд об chrome  
-**Translation:** 
+**[10800.00s] English:** Can quickly switch, that is, the entire screen occupies the full code; you look at the code, and  
+**Translation:** Vocabulary: occupies: 占据
 
-**[10811.40s] English:** раньше я использовал жесты свайпа чтобы переключать экраны да да пространство но  
+**[10805.76s] English:** Then, if you deploy a website and switch screens, commands for Chrome:  
 **Translation:** 
 
-**[10817.64s] English:** потом такая слишком сложно решил все уместить на одном экране macbook и это  
-**Translation:** 
+**[10811.40s] English:** Previously, I used swipe gestures to switch screens, yes, using space but  
+**Translation:** Vocabulary: deploy: 发布; gestures: 动作; swipe: 滑动
 
-**[10822.38s] English:** продуктивно да очень продуктивно я продуктивнее чем раньше интересно у меня  
+**[10817.64s] English:** Then, it was too complex to fit everything on one screen, so I decided to use my MacBook and this.  
 **Translation:** 
 
-**[10828.32s] English:** три экрана два из них вертикальная по бокам для кода да да так больше видно  
+**[10822.38s] English:** Productively, and very productively, I am more productive than before. Interesting, but what about me?  
 **Translation:** 
 
-**[10833.84s] English:** мне нравится когда у друзей я вижу так называемый battle station да это  
+**[10828.32s] English:** Tri screens, two of them vertical on the sides for code, yes, yes, that way you can see more.  
 **Translation:** 
 
-**[10839.38s] English:** удивительно я хочу такое но и не хочу любишь ограничения вот есть что-то в  
-**Translation:** 
+**[10833.84s] English:** I like it when my friends have what they call a battle station, you know?  
+**Translation:** Vocabulary: vertical: 垂直的
 
-**[10844.58s] English:** ограничениях что освоив их ты фокусируешься и можешь я с недоверием  
+**[10839.38s] English:** It's amazing, I want to do this but at the same time I don't want any limitations. There seems to be something in  
 **Translation:** 
 
-**[10850.50s] English:** отношусь к понятию больше да а нужно ли все это может это даже замедляет это  
-**Translation:** 
+**[10844.58s] English:** In limitations, that you embrace them, you focus and can then proceed with skepticism.  
+**Translation:** Vocabulary: embrace: 接纳; skepticism: 怀疑
 
-**[10855.50s] English:** хорошая мысль я тоже с недоверием отношусь к большей  
+**[10850.50s] English:** I approach the concept more with a "da" attitude, but is all of this really necessary? Maybe it even slows things down.  
 **Translation:** 
 
-**[10858.32s] English:** да я скептически отношусь к больше во всех жизненных аспектов больше легко  
+**[10855.50s] English:** Good idea, I also approach the bigger  
 **Translation:** 
 
-**[10863.18s] English:** оправдать типа я разработчик зарабатываю деньги мне нужны экраны для эффективности  
+**[10858.32s] English:** I am skeptical about it in all aspects of life, and it seems easier.  
 **Translation:** 
 
-**[10867.92s] English:** а потом читаешь книгу мифический человек месяц где говорится что нанимать больше  
-**Translation:** 
+**[10863.18s] English:** Opportune question: I am a developer earning money, and I need screens for efficiency.  
+**Translation:** Vocabulary: opportune: 时机合适的; skeptical: 持怀疑态度的
 
-**[10873.08s] English:** людей это замедляет разработку софта это можно применить как метафору к  
+**[10867.92s] English:** Then you read the book The Man in the Moon where it says that hiring more  
 **Translation:** 
 
-**[10877.70s] English:** инструментам и вот я уже вижу друзей с синдромом приобретения оборудования они  
-**Translation:** 
+**[10873.08s] English:** People this slows down software development, this can be applied as a metaphor to  
+**Translation:** Vocabulary: metaphor: 比喻
 
-**[10881.70s] English:** покупают кучу всего но продуктивность низкая у них потрясающие самые красивые  
+**[10877.70s] English:** Instruments, and here I see friends with the acquired equipment syndrome they  
 **Translation:** 
 
-**[10888.32s] English:** все но продуктивность низкая и даже забавно я все делаю с ноутбука в рюкзаке  
+**[10881.70s] English:** They buy a lot of things, but their productivity is low. They are the most beautiful, though.  
 **Translation:** 
 
-**[10893.30s] English:** это кочевой минимализм расскажи мне про идеальный ультра продуктивный день из  
+**[10888.32s] English:** All but productivity is low and even kind of funny; I'm doing everything from my laptop in my backpack.  
 **Translation:** 
 
-**[10898.14s] English:** жизни скажем когда ты успеваешь сделать много дел да и все сосредоточено на  
+**[10893.30s] English:** This is游牧极简主义, tell me about an ideal ultra-productive day from  
 **Translation:** 
 
-**[10906.36s] English:** выполнении задач когда ты просыпаешься в постоянное время очень рано или поздно  
+**[10898.14s] English:** Life, let's say, when you manage to do a lot of things and all is focused on  
 **Translation:** 
 
-**[10912.50s] English:** да я обычно ложусь спать около двух ночи но не позже четырех утра моя девушка  
-**Translation:** 
+**[10906.36s] English:** Completion of tasks when you wake up at a constant time very early or late eventually  
+**Translation:** Vocabulary: completion: 完成
 
-**[10918.32s] English:** ложится около полуночи  
+**[10912.50s] English:** I usually go to sleep around 2 AM, but no later than 4 AM. My girlfriend.  
 **Translation:** 
 
-**[10920.00s] English:** и мы договорились о компромиссе. Два ночи.  
+**[10918.32s] English:** Lies down around midnight.  
 **Translation:** 
 
-**[10922.64s] English:** Я просыпаюсь где-то в 10 или 11, ближе к 10.  
+**[10920.00s] English:** We agreed on a compromise: two nights.  
 **Translation:** 
 
-**[10927.12s] English:** Принимаю душ, делаю кофе, готовлю кофе.  
-**Translation:** 
+**[10922.64s] English:** I wake up around 10 or 11, closer to 10.  
+**Translation:** Vocabulary: compromise: 妥协
 
-**[10929.62s] English:** Например, дрип-кофе. Использую V60. Знаешь фильтр?  
+**[10927.12s] English:** I take a shower, make coffee, and prepare coffee.  
 **Translation:** 
 
-**[10932.80s] English:** Кипячу воду и заливаю кофе.  
+**[10929.62s] English:** For example, drip coffee. I use V60. You know the filter?  
 **Translation:** 
 
-**[10935.92s] English:** И чилю с девушкой, потом открываю ноутбук, начинаю кодить.  
+**[10932.80s] English:** I boil the water and pour it into the coffee.  
 **Translation:** 
 
-**[10940.46s] English:** Проверяю, что происходит, например, баги.  
-**Translation:** 
+**[10935.92s] English:** I chilied with a girl, then opened my laptop and started coding.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
-**[10942.58s] English:** Как долго ты можешь сидеть за компьютером, занимаясь кодингом, без перерыва?  
+**[10940.46s] English:** I am checking for bugs, for example.  
 **Translation:** 
 
-**[10947.84s] English:** Да. Раньше мне нужны были длинные периоды, я мог работать всю ночь.  
+**[10942.58s] English:** How long can you sit in front of the computer coding without a break?  
 **Translation:** 
 
-**[10953.36s] English:** Но я приучил себя прерываться, чтобы я мог...  
+**[10947.84s] English:** Yes. Earlier, I needed long periods, and I could work all night.  
 **Translation:** 
 
-**[10957.16s] English:** Потому что нужно.  
+**[10953.36s] English:** But I have trained myself to pause so that I could...  
 **Translation:** 
 
-**[10958.56s] English:** Это жизнь. Много отвлекающих моментов.  
+**[10957.16s] English:** Because we need to.  
 **Translation:** 
 
-**[10960.98s] English:** Девушка что-то просит, кто-то пришел и так далее.  
-**Translation:** 
+**[10958.56s] English:** This is life. There are many distracting moments.  
+**Translation:** Vocabulary: distracting: 分散注意力的
 
-**[10963.78s] English:** И я стал очень быстрым, могу включаться и отключаться.  
+**[10960.98s] English:** Girl asking for something, someone has come, and so on.  
 **Translation:** 
 
-**[10967.70s] English:** Я слышал, что у разработчиков и предпринимателей так же, у которых есть дети.  
+**[10963.78s] English:** I became very fast, I can turn on and off.  
 **Translation:** 
 
-**[10971.34s] English:** А сначала они «А, я не могу работать», но потом привыкают.  
+**[10967.70s] English:** I've heard that this is also true for developers and entrepreneurs who have children.  
 **Translation:** 
 
-**[10973.84s] English:** И становятся очень продуктивными, ведь у них есть только 20 минут.  
-**Translation:** 
+**[10971.34s] English:** At first, they say "A, I can't work," but then they get used to it.  
+**Translation:** Vocabulary: entrepreneurs: 企业家
 
-**[10978.24s] English:** А потом снова начинается хаос.  
+**[10973.84s] English:** They become very productive, since they have only 20 minutes.  
 **Translation:** 
 
-**[10980.30s] English:** Еще одно ограничение, да?  
+**[10978.24s] English:** Then again, chaos begins.  
 **Translation:** 
 
-**[10982.20s] English:** Да, забавно.  
+**[10980.30s] English:** Another limitation, isn't it?  
 **Translation:** 
 
-**[10983.44s] English:** Думаю, для меня это работает.  
+**[10982.20s] English:** Yes, that's funny.  
 **Translation:** 
 
-**[10986.10s] English:** Потом готовлю еду, например, обедаю, стейк или курицу.  
+**[10983.44s] English:** I think it works for me.  
 **Translation:** 
 
-**[10990.90s] English:** Ты ешь пару раз в день? Ты говорил кофе?  
+**[10986.10s] English:** Then I cook a meal, for example, have dinner with steak or chicken.  
 **Translation:** 
 
-**[10993.72s] English:** Да.  
+**[10990.90s] English:** Do you eat a couple of times a day? Did you say coffee?  
 **Translation:** 
 
-**[10993.92s] English:** Что еще?  
+**[10993.72s] English:** Yes.  
 **Translation:** 
 
-**[10994.62s] English:** Да, через пару часов готовлю еду.  
+**[10993.92s] English:** What else?  
 **Translation:** 
 
-**[10997.02s] English:** Мы покупаем мясо и овощи в местных магазинах и готовим это.  
+**[10994.62s] English:** Yes, in a couple of hours I'll be cooking food.  
 **Translation:** 
 
-**[11000.98s] English:** А потом второй кофе и за работу.  
+**[10997.02s] English:** We buy meat and vegetables at local stores and prepare them.  
 **Translation:** 
 
-**[11004.48s] English:** Может, выходим на обед. Можно добавить что-то.  
+**[11000.98s] English:** Then another coffee and back to work.  
 **Translation:** 
 
-**[11007.44s] English:** Слышал?  
+**[11004.48s] English:** May we go out for lunch? Can we add something?  
 **Translation:** 
 
-**[11007.68s] English:** Да.  
+**[11007.44s] English:** Did you hear that?  
 **Translation:** 
 
-**[11007.84s] English:** Сколько часов в идеально продуктивный день ты программируешь, если работаешь на максимум?  
+**[11007.68s] English:** Yes.  
 **Translation:** 
 
-**[11013.54s] English:** Целый день?  
-**Translation:** 
+**[11007.84s] English:** How many hours do you program in an ideally productive day if you work at maximum capacity?  
+**Translation:** Vocabulary: ideally: 理想状态下
 
-**[11014.34s] English:** В смысле, те особенные дни, когда девушка уехала в лес или еще куда, и ты один дома неделю.  
+**[11013.54s] English:** Whole day?  
 **Translation:** 
 
-**[11021.22s] English:** Это потрясающе.  
+**[11014.34s] English:** In other words, those special days when the girl goes off into the woods or somewhere else, and you're home alone for a week.  
 **Translation:** 
 
-**[11022.36s] English:** Ты можешь кодить, не спишь всю ночь, ешь шоколад и...  
+**[11021.22s] English:** This is amazing.  
 **Translation:** 
 
-**[11026.16s] English:** Шоколад.  
+**[11022.36s] English:** You can code without staying up all night, eat chocolate and...  
 **Translation:** 
 
-**[11026.86s] English:** Да, ты понимаешь.  
+**[11026.16s] English:** Chocolate.  
 **Translation:** 
 
-**[11027.46s] English:** Да, да, хорошо. Уберем девушку и социальную жизнь из картины.  
+**[11026.86s] English:** Yes, you understand.  
 **Translation:** 
 
-**[11031.42s] English:** Остался только ты.  
+**[11027.46s] English:** Yes, yes, okay. Let's remove the girl and social life from the picture.  
 **Translation:** 
 
-**[11033.30s] English:** Начинается безумие.  
+**[11031.42s] English:** Only you are left.  
 **Translation:** 
 
-**[11034.80s] English:** Когда начинается безумие?  
+**[11033.30s] English:** It's madness.  
 **Translation:** 
 
-**[11036.18s] English:** Теперь оно начинается.  
-**Translation:** 
+**[11034.80s] English:** When does madness begin?  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[11036.94s] English:** Хорошо.  
+**[11036.18s] English:** Now it begins.  
 **Translation:** 
 
-**[11037.20s] English:** Давай перемотаем назад.  
+**[11036.94s] English:** Good.  
 **Translation:** 
 
-**[11039.90s] English:** Вот.  
+**[11037.20s] English:** Let's rewind back.  
 **Translation:** 
 
-**[11040.00s] English:** Ты просыпаешься, кофе есть, а девушки нет.  
+**[11039.90s] English:** Here.  
 **Translation:** 
 
-**[11043.50s] English:** Нет никого.  
+**[11040.00s] English:** You wake up, there's coffee, but no girls.  
 **Translation:** 
 
-**[11044.10s] English:** Теперь мы просыпаемся примерно в час дня.  
+**[11043.50s] English:** No one is here.  
 **Translation:** 
 
-**[11048.56s] English:** Ну или в два.  
+**[11044.10s] English:** Now we wake up around one o'clock in the afternoon.  
 **Translation:** 
 
-**[11051.40s] English:** Потому что лёг в шесть утра.  
+**[11048.56s] English:** Nu, or at two.  
 **Translation:** 
 
-**[11053.32s] English:** Да, я кодил, нашёл какую-то новую штуку и изучал это.  
+**[11051.40s] English:** Because he woke up at six in the morning.  
 **Translation:** 
 
-**[11057.78s] English:** И было потрясно.  
+**[11053.32s] English:** Yes, I coded, found some new thing, and studied it.  
 **Translation:** 
 
-**[11058.66s] English:** Не мог заснуть, ведь это слишком важно.  
+**[11057.78s] English:** It was truly astonishing.  
 **Translation:** 
 
-**[11061.00s] English:** Нужно бодрствовать, нужно что-то создать.  
-**Translation:** 
+**[11058.66s] English:** I couldn't sleep, for this is too important.  
+**Translation:** Vocabulary: astonishing: 令人惊讶的
 
-**[11063.80s] English:** Но именно в такие моменты я больше создаю новое.  
+**[11061.00s] English:** We need to stay vigilant, we need to create something.  
 **Translation:** 
 
-**[11067.28s] English:** У меня есть друг, он бронирует отель на неделю, чтобы свалить из дому.  
+**[11063.80s] English:** But it is precisely during such moments that I create more new things.  
 **Translation:** 
 
-**[11072.72s] English:** У него ребёнок.  
+**[11067.28s] English:** I have a friend who books a hotel for a week to get away from home.  
 **Translation:** 
 
-**[11074.00s] English:** Девушка и ребёнок сидят дома, а он едет в отель.  
+**[11072.72s] English:** He has a child.  
 **Translation:** 
 
-**[11077.62s] English:** Звучит подозрительно, да?  
+**[11074.00s] English:** A girl and a child are sitting at home, while he is going to the hotel.  
 **Translation:** 
 
-**[11079.04s] English:** Но всё, что он делает, это пишет или кодит.  
-**Translation:** 
+**[11077.62s] English:** It sounds suspicious, doesn't it?  
+**Translation:** Vocabulary: suspicious: 可疑的
 
-**[11081.90s] English:** Он писатель.  
+**[11079.04s] English:** But all he does is write or code.  
 **Translation:** 
 
-**[11082.90s] English:** И ему нужно это для уединения тишины, думаю, для состояния потока.  
+**[11081.90s] English:** He is a writer.  
 **Translation:** 
 
-**[11087.12s] English:** Так и есть, я лучше справляюсь с поддержанием чего-то,  
+**[11082.90s] English:** And he needs this for solitude and silence, I think, for a state of flow.  
 **Translation:** 
 
-**[11090.42s] English:** когда много что отвлекает, чем с созданием чего-то нового.  
-**Translation:** 
+**[11087.12s] English:** So it's true; I'm better at maintaining things,  
+**Translation:** Vocabulary: solitude: 独处
 
-**[11093.98s] English:** И это нормально, это эти непрерывные периоды,  
+**[11090.42s] English:** When there are many distractions, it can be harder to create something new.  
 **Translation:** 
 
-**[11097.28s] English:** это время и время и время.  
-**Translation:** 
+**[11093.98s] English:** And this is normal, these continuous periods,  
+**Translation:** Vocabulary: distractions: 分散注意力的事物
 
-**[11099.14s] English:** Так что да, я просыпаюсь в час или в два дня,  
+**[11097.28s] English:** This is time, and time, and time.  
 **Translation:** 
 
-**[11102.00s] English:** всё ещё кофе, душ, душ обязательно.  
+**[11099.14s] English:** So, I wake up at one or two in the afternoon.  
 **Translation:** 
 
-**[11105.46s] English:** И потом кодим без остановки.  
+**[11102.00s] English:** All still coffee, shower, shower definitely.  
 **Translation:** 
 
-**[11107.78s] English:** Может, друзья заходят.  
+**[11105.46s] English:** Then we code without stopping.  
 **Translation:** 
 
-**[11109.62s] English:** Небольшие отвлечения.  
+**[11107.78s] English:** May be, friends are coming in.  
 **Translation:** 
 
-**[11111.18s] English:** Да, Андре тоже кодит.  
+**[11109.62s] English:** Small distractions.  
 **Translation:** 
 
-**[11112.66s] English:** Он приходит, и мы кодим вместе.  
+**[11111.18s] English:** Yes, Andre also codes.  
 **Translation:** 
 
-**[11114.82s] English:** Слушаем, это возвращает нас к временам на Бали, знаешь, таким коворкинг дня.  
-**Translation:** 
+**[11112.66s] English:** He comes, and we code together.  
+**Translation:** Vocabulary: andre: 安德烈
 
-**[11119.30s] English:** Вы не работаете вместе, но работаете оба.  
+**[11114.82s] English:** Listen, this takes us back to the days of Bali co-working days, you know?  
 **Translation:** 
 
-**[11121.94s] English:** Потому что это приятно, когда вы оба сидите на диване и что-то кодите.  
+**[11119.30s] English:** You don't work together, but you both work.  
 **Translation:** 
 
-**[11126.56s] English:** Это в основном молчание или музыка, иногда вы что-то спрашиваете.  
+**[11121.94s] English:** Because it's pleasant when you both sit on the couch and code something.  
 **Translation:** 
 
-**[11131.64s] English:** Но в целом вы очень сосредоточены.  
+**[11126.56s] English:** This is mostly silence or music; sometimes you ask something.  
 **Translation:** 
 
-**[11134.32s] English:** Что за музыка у тебя играет?  
+**[11131.64s] English:** But in general, you are very focused.  
 **Translation:** 
 
-**[11136.96s] English:** Думаю, что-то вроде техно, YouTube-техно.  
+**[11134.32s] English:** What music are you playing?  
 **Translation:** 
 
-**[11141.84s] English:** Есть канал под названием H.O.R., Sumlau, там H.E.O. с двумя точками.  
+**[11136.96s] English:** I think something like techno, YouTube-techno.  
 **Translation:** 
 
-**[11147.04s] English:** Это берлинская техно, кажется, они снимают в каком-то туалете с белой плиткой, но очень круто.  
+**[11141.84s] English:** There is a channel called H.O.R., Sumlau. There, H.E.O. has two dots.  
 **Translation:** 
 
-**[11154.52s] English:** И там всегда играет очень качественная индустрия.  
+**[11147.04s] English:** This is Berlin techno, seems like they're filming in some bathroom with white tiles, but it's very cool.  
 **Translation:** 
 
-**[11156.42s] English:** Индустриальная музыка.  
+**[11154.52s] English:** There always plays a very high-quality industry there.  
 **Translation:** 
 
-**[11157.54s] English:** То есть ритмичная.  
+**[11156.42s] English:** Industrial music.  
 **Translation:** 
 
-**[11158.60s] English:** Слегка агрессивная.  
-**Translation:** 
+**[11157.54s] English:** That is, rhythmic.  
+**Translation:** Vocabulary: rhythmic: 有节奏的
 
-**[11159.50s] English:** Да.  
+**[11158.60s] English:** Slightly aggressive.  
 **Translation:** 
 
-**[11160.00s] English:** Да.  
+**[11159.50s] English:** Yes.  
 **Translation:** 
 
-**[11161.20s] English:** Это не отвлекает твой мозг?  
+**[11160.00s] English:** Yes.  
 **Translation:** 
 
-**[11162.92s] English:** Это потрясающе.  
-**Translation:** 
+**[11161.20s] English:** Is this not distracting your mind?  
+**Translation:** Vocabulary: distracting: 分散注意力的
 
-**[11164.04s] English:** Хорошо.  
+**[11162.92s] English:** This is amazing.  
 **Translation:** 
 
-**[11164.70s] English:** Думаю, отвлекает джаз.  
+**[11164.04s] English:** Good.  
 **Translation:** 
 
-**[11166.38s] English:** Я с девушкой по утрам слушаю кофе-джаз, и там пианино начинает раздражать.  
+**[11164.70s] English:** I think it's the jazz that distracts.  
 **Translation:** 
 
-**[11173.00s] English:** Слишком много звуков, много всего.  
-**Translation:** 
+**[11166.38s] English:** I listen to coffee-jazz with a girl in the mornings, and the piano starts to irritate me.  
+**Translation:** Vocabulary: distracts: 分散注意力; irritate: 使烦躁
 
-**[11175.32s] English:** Да, да.  
+**[11173.00s] English:** Too many sounds, too much going on.  
 **Translation:** 
 
-**[11175.86s] English:** А вот эта индустриальная техна — это такие африканские племенные танцы.  
+**[11175.32s] English:** Yes, yes.  
 **Translation:** 
 
-**[11180.14s] English:** Это трансцендентно.  
+**[11175.86s] English:** Here's the industrial techna—this is like African tribal dances.  
 **Translation:** 
 
-**[11182.38s] English:** Транс.  
-**Translation:** 
+**[11180.14s] English:** This is transcendent.  
+**Translation:** Vocabulary: transcendent: 超越; tribal: 部落的
 
-**[11183.48s] English:** Интересно, ведь я в последнее время в основном слушаю...  
+**[11182.38s] English:** Trans:  
 **Translation:** 
 
-**[11187.68s] English:** Браун-нойс, шум.  
-**Translation:** 
+**[11183.48s] English:** Interesting, for lately I've been listening to...  
+**Translation:** Vocabulary: trans: 翻译
 
-**[11189.64s] English:** О, вау.  
+**[11187.68s] English:** Brown-Nose, noise.  
 **Translation:** 
 
-**[11190.64s] English:** Довольно громкий.  
+**[11189.64s] English:** Oh, wow.  
 **Translation:** 
 
-**[11191.86s] English:** Ух ты.  
+**[11190.64s] English:** Rather loud.  
 **Translation:** 
 
-**[11192.64s] English:** И ты понимаешь, что твой мозг привыкает к чему угодно.  
+**[11191.86s] English:** Oh wow.  
 **Translation:** 
 
-**[11196.20s] English:** Уверен, я привыкну и к техной, если дам ему шанс.  
+**[11192.64s] English:** You understand that your brain gets used to anything.  
 **Translation:** 
 
-**[11198.94s] English:** Да.  
-**Translation:** 
+**[11196.20s] English:** I am sure I will get used to the techne if given a chance.  
+**Translation:** Vocabulary: techne: 技艺
 
-**[11199.50s] English:** Мой мозг привыкнет, но этот шум...  
+**[11198.94s] English:** Yes.  
 **Translation:** 
 
-**[11201.94s] English:** Что-то происходит с твоим мозгом.  
+**[11199.50s] English:** My brain will adapt, but this noise...  
 **Translation:** 
 
-**[11203.88s] English:** Думаю, на это есть наука, но мне все равно.  
+**[11201.94s] English:** Something is happening to your brain.  
 **Translation:** 
 
-**[11206.86s] English:** Тебе просто нужно изучать себя, собственный мозг.  
+**[11203.88s] English:** I think there is a science behind it, but I don't really care.  
 **Translation:** 
 
-**[11210.26s] English:** Да.  
+**[11206.86s] English:** You simply need to study yourself, your own brain.  
 **Translation:** 
 
-**[11210.78s] English:** Я понял, что для меня это работает.  
+**[11210.26s] English:** Yes.  
 **Translation:** 
 
-**[11214.18s] English:** Я понял это сразу, как только попробовал впервые.  
+**[11210.78s] English:** I understood that this works for me.  
 **Translation:** 
 
-**[11217.70s] English:** После пары минут...  
+**[11214.18s] English:** I understood it immediately upon trying it for the first time.  
 **Translation:** 
 
-**[11219.64s] English:** Все как бы...  
+**[11217.70s] English:** After a few minutes,...  
 **Translation:** 
 
-**[11222.16s] English:** Все отвлекающие факторы просто исчезают.  
+**[11219.64s] English:** All as if...  
 **Translation:** 
 
-**[11228.18s] English:** Это похоже на...  
+**[11222.16s] English:** All distracting factors simply disappear.  
 **Translation:** 
 
-**[11230.90s] English:** Можно удерживать фокус очень долго.  
+**[11228.18s] English:** This is like...  
 **Translation:** 
 
-**[11233.22s] English:** Это странно.  
+**[11230.90s] English:** One can maintain focus for a very long time.  
 **Translation:** 
 
-**[11234.14s] English:** Ты можешь сосредоточиться на чем-то одном, и не важно, что это.  
+**[11233.22s] English:** This is strange.  
 **Translation:** 
 
-**[11238.86s] English:** Думаю, это то, чего люди достигают медитацией.  
+**[11234.14s] English:** You can focus on something, and it doesn't matter what it is.  
 **Translation:** 
 
-**[11242.00s] English:** Они могут надолго сосредоточиться на дыхании.  
+**[11238.86s] English:** I think this is what people achieve through meditation.  
 **Translation:** 
 
-**[11244.14s] English:** Это обычный браун-нойс? Не бинауральный?  
+**[11242.00s] English:** They may concentrate on breathing for a long time.  
 **Translation:** 
 
-**[11246.70s] English:** Нет.  
-**Translation:** 
+**[11244.14s] English:** Is this a regular Brown-North? Not binaural?  
+**Translation:** Vocabulary: binaural: 双耳的
 
-**[11247.10s] English:** Обычный браун-нойс.  
+**[11246.70s] English:** No.  
 **Translation:** 
 
-**[11247.78s] English:** Типа...  
+**[11247.10s] English:** Ordinary brown-nose.  
 **Translation:** 
 
-**[11248.64s] English:** Да.  
+**[11247.78s] English:** Type:...  
 **Translation:** 
 
-**[11249.90s] English:** Белый шум, думаю, это то же самое.  
+**[11248.64s] English:** Yes.  
 **Translation:** 
 
-**[11252.04s] English:** Серый шум, белый шум.  
+**[11249.90s] English:** White noise, I think, is the same thing.  
 **Translation:** 
 
-**[11254.64s] English:** Браун-нойс, думаю, там больше басов.  
+**[11252.04s] English:** Gray noise, white noise.  
 **Translation:** 
 
-**[11256.78s] English:** Да, он более рассеянный, более приглушенный.  
+**[11254.64s] English:** Brown-Noyce, I think there are more basses there.  
 **Translation:** 
 
-**[11259.00s] English:** Да, приглушенный.  
-**Translation:** 
+**[11256.78s] English:** Yes, he is more scattered, more muted.  
+**Translation:** Vocabulary: basses: 低音; muted: 减弱的
 
-**[11259.88s] English:** Да, я это понимаю.  
+**[11259.00s] English:** Yes, muted.  
 **Translation:** 
 
-**[11260.84s] English:** Без резкости.  
+**[11259.88s] English:** Yes, I understand that.  
 **Translation:** 
 
-**[11261.64s] English:** Да, резкость яркости.  
+**[11260.84s] English:** Without harshness.  
 **Translation:** 
 
-**[11262.84s] English:** Да, яркость.  
-**Translation:** 
+**[11261.64s] English:** Yes, contrast of brightness.  
+**Translation:** Vocabulary: harshness: 严厉
 
-**[11263.56s] English:** Да, я понимаю.  
+**[11262.84s] English:** Yes, brightness.  
 **Translation:** 
 
-**[11264.38s] English:** Слушаешь в наушниках, да?  
+**[11263.56s] English:** Yes, I understand.  
 **Translation:** 
 
-**[11265.66s] English:** Да, в них.  
+**[11264.38s] English:** Are you listening with headphones, yes?  
 **Translation:** 
 
-**[11266.40s] English:** Да.  
+**[11265.66s] English:** Yes, in them.  
 **Translation:** 
 
-**[11267.18s] English:** На самом деле, я часто хожу по жизни с браун-нойс.  
+**[11266.40s] English:** Yes.  
 **Translation:** 
 
-**[11271.20s] English:** Чувак, ты как маньяк, но это круто.  
+**[11267.18s] English:** Actually, I often go through life with a brown nose.  
 **Translation:** 
 
-**[11274.18s] English:** Да, когда я убиваю людей, это помогает.  
+**[11271.20s] English:** Guy, you're like a maniac, but it's crazy cool.  
 **Translation:** 
 
-**[11276.58s] English:** Заглушает их крики.  
-**Translation:** 
+**[11274.18s] English:** Yes, when I kill people, it helps.  
+**Translation:** Vocabulary: maniac: 狂热分子
 
-**[11279.84s] English:** Да.  
+**[11276.58s] English:** It muffles their cries.  
 **Translation:** 
 
-**[11280.00s] English:** Господи боже.  
-**Translation:** 
+**[11279.84s] English:** Yes.  
+**Translation:** Vocabulary: muffles: 减弱
 
-**[11282.18s] English:** Простите, я много раз болтал.  
+**[11280.00s] English:** Lord, oh Lord.  
 **Translation:** 
 
-**[11283.52s] English:** Я попробую Браун Нойз.  
+**[11282.18s] English:** Sorry, I have talked a lot.  
 **Translation:** 
 
-**[11285.08s] English:** Для убийств или чтобы кодить?  
+**[11283.52s] English:** I'll try Brown Noise.  
 **Translation:** 
 
-**[11286.72s] English:** Чтобы кодить.  
+**[11285.08s] English:** For murder, or to hack?  
 **Translation:** 
 
-**[11287.38s] English:** Хорошо.  
+**[11286.72s] English:** To code.  
 **Translation:** 
 
-**[11288.38s] English:** Да, попробуй.  
+**[11287.38s] English:** Good.  
 **Translation:** 
 
-**[11289.74s] English:** Ты должен, как и со всем остальным, дать этому шанс.  
+**[11288.38s] English:** Yes, try it.  
 **Translation:** 
 
-**[11292.74s] English:** Да.  
+**[11289.74s] English:** You should give it a chance, as you do with everything else.  
 **Translation:** 
 
-**[11292.92s] English:** Я также, как я уже говорил, слушаю электронную техномузыку поверх Браун Нойз.  
+**[11292.74s] English:** Yes.  
 **Translation:** 
 
-**[11301.96s] English:** Но нужно контролировать скорость.  
+**[11292.92s] English:** I also, as I have already said, listen to electronic tech music over Brown Noise.  
 **Translation:** 
 
-**[11305.08s] English:** Чем быстрее, тем больше тревоги.  
+**[11301.96s] English:** But we need to control the speed.  
 **Translation:** 
 
-**[11307.06s] English:** Если мне нужно сделать дело, особенно программирование, я ставлю ритм.  
+**[11305.08s] English:** The faster, the more anxiety.  
 **Translation:** 
 
-**[11311.70s] English:** Это круто.  
+**[11307.06s] English:** If I need to do work, especially programming, I set a rhythm.  
 **Translation:** 
 
-**[11313.04s] English:** Интересно заигрывать со своим разумом и изучать себя.  
+**[11311.70s] English:** This is cool.  
 **Translation:** 
 
-**[11316.44s] English:** Да.  
+**[11313.04s] English:** It is interesting to play with one's own mind and study oneself.  
 **Translation:** 
 
-**[11317.12s] English:** Обычно я не люблю, когда вокруг люди, даже если они работают,  
-**Translation:** 
+**[11316.44s] English:** Yes.  
+**Translation:** Vocabulary: oneself: 自己
 
-**[11322.10s] English:** не знаю, мне они очень нравятся, они такие интересные.  
+**[11317.12s] English:** Usually I don't like it when there are people around even if they are working.  
 **Translation:** 
 
-**[11324.96s] English:** Может быть, да, в коворкинге я бы слишком много болтал.  
+**[11322.10s] English:** I don't know, but I really like them; they are so interesting.  
 **Translation:** 
 
-**[11327.94s] English:** Да.  
+**[11324.96s] English:** Maybe, yes, in the co-working space I would talk too much.  
 **Translation:** 
 
-**[11328.42s] English:** Да-да.  
+**[11327.94s] English:** Yes.  
 **Translation:** 
 
-**[11329.02s] English:** Это отвлекает.  
+**[11328.42s] English:** Yes, yes.  
 **Translation:** 
 
-**[11330.90s] English:** Да, в коворкинге мы делали такой денежный горшок.  
-**Translation:** 
+**[11329.02s] English:** This distracts.  
+**Translation:** Vocabulary: distracts: 分散注意力
 
-**[11334.84s] English:** Ставишь кружку, и если работаешь...  
+**[11330.90s] English:** Yes, in the coworking space we made such a piggy bank.  
 **Translation:** 
 
-**[11337.06s] English:** Ставишь 45 минут, и если кто-то говорит пару слов, то штрафуется, например, на один доллар.  
-**Translation:** 
+**[11334.84s] English:** You place the cup, and if you're working...  
+**Translation:** Vocabulary: coworking: 共享办公; piggy: 存钱罐
 
-**[11342.02s] English:** И ты сказал, привет, как дела?  
+**[11337.06s] English:** You set 45 minutes, and if someone speaks for a couple of words, they are fined, for example, one dollar.  
 **Translation:** 
 
-**[11344.28s] English:** То положил бы в кружку три доллара.  
+**[11342.02s] English:** Did you say, hello, how are you?  
 **Translation:** 
 
-**[11347.96s] English:** А потом 15 минут перерыв, можем тусоваться, а потом снова 45 минут работы.  
+**[11344.28s] English:** He would put three dollars in the cup.  
 **Translation:** 
 
-**[11352.86s] English:** И это работает.  
+**[11347.96s] English:** Then 15 minutes break, we can hang out, and then another 45 minutes of work.  
 **Translation:** 
 
-**[11353.70s] English:** Но нужно заставить людей замолчать, иначе...  
+**[11352.86s] English:** And this works.  
 **Translation:** 
 
-**[11356.08s] English:** Думаю, в совместном молчании есть что-то интимное.  
+**[11353.70s] English:** But we need to make people keep quiet, otherwise...  
 **Translation:** 
 
-**[11362.52s] English:** Да.  
+**[11356.08s] English:** I think there is something intimate in mutual silence.  
 **Translation:** 
 
-**[11362.78s] English:** Может, мне это неудобно.  
-**Translation:** 
+**[11362.52s] English:** Yes.  
+**Translation:** Vocabulary: intimate: 亲密的
 
-**[11365.70s] English:** Да.  
+**[11362.78s] English:** May be, this is not convenient for me.  
 **Translation:** 
 
-**[11367.06s] English:** Но вот ты же делаешь себя таким уязвимым, как с близкими друзьями, когда долго сидишь в тишине и что-то делаешь.  
+**[11365.70s] English:** Yes.  
 **Translation:** 
 
-**[11376.54s] English:** Я смотрел один подкаст, какой-то буддийский, и там люди медитировали, интервьюировали друг друга или что-то такое, и вдруг, после вопроса, они такие, да, да.  
+**[11367.06s] English:** But here you make yourself just as vulnerable with close friends when you sit in silence for too long and do something about it.  
 **Translation:** 
 
-**[11390.30s] English:** И они просто молчали три минуты.  
-**Translation:** 
+**[11376.54s] English:** I listened to a Buddhist podcast, where people meditated, interviewed each other or something like that, and then, after a question, they went "Yeah, yeah.  
+**Translation:** Vocabulary: buddhist: 佛教的; meditated: 冥想; vulnerable: 脆弱
 
-**[11393.20s] English:** А потом это было нечто.  
+**[11390.30s] English:** They simply remained silent for three minutes.  
 **Translation:** 
 
-**[11394.78s] English:** Да, было потрясающе.  
+**[11393.20s] English:** Then it was something.  
 **Translation:** 
 
-**[11396.34s] English:** Я подумал, вау.  
+**[11394.78s] English:** Yes, it was amazing.  
 **Translation:** 
 
-**[11397.06s] English:** Это довольно круто.  
+**[11396.34s] English:** I thought, wow.  
 **Translation:** 
 
-**[11398.28s] English:** Илону такое свойственно.  
+**[11397.06s] English:** This is pretty cool.  
 **Translation:** 
 
-**[11406.78s] English:** Спасибо.  
-**Translation:** 
+**[11398.28s] English:** Ilonu takoe svyipstvenno.  
+**Translation:** Vocabulary: svyipstvenno: 重要地
 
-**[11400.00s] English:** И мне это реально нравится.  
+**[11400.00s] English:** It really matters to me.  
 **Translation:** 
 
-**[11402.18s] English:** Он задаёт вопрос.  
+**[11402.18s] English:** He asks a question.  
 **Translation:** 
 
-**[11404.74s] English:** Например,  
+**[11404.74s] English:** For example,  
 **Translation:** 
 
-**[11406.40s] English:** какой для тебя идеально продуктивный день, как я только что спросил?  
+**[11406.40s] English:** What is your ideal productive day, as I just asked?  
 **Translation:** 
 
-**[11409.98s] English:** И ты сидишь секунд 30, думаешь.  
+**[11406.78s] English:** Thank you.  
 **Translation:** 
 
-**[11412.16s] English:** Да, ты думаешь?  
+**[11409.98s] English:** You sit there for about 30 seconds, thinking.  
 **Translation:** 
 
-**[11415.04s] English:** Да, не знаю.  
+**[11412.16s] English:** Yes, you think so?  
 **Translation:** 
 
-**[11416.46s] English:** Это так трудно.  
+**[11415.04s] English:** Yes, I don't know.  
 **Translation:** 
 
-**[11417.18s] English:** Хотел бы я больше думать,  
+**[11416.46s] English:** This is so hard.  
 **Translation:** 
 
-**[11421.04s] English:** но я хочу показать тебе своё сердце,  
+**[11417.18s] English:** I would like to think more,  
 **Translation:** 
 
-**[11423.58s] English:** чтобы от сердца шло в уста, и я говорил.  
+**[11421.04s] English:** But I want to show you my heart,  
 **Translation:** 
 
-**[11427.50s] English:** И чем больше я думаю, тем больше как бы фильтрую себя.  
+**[11423.58s] English:** To come from the heart and speak from there, and I spoke.  
 **Translation:** 
 
-**[11431.96s] English:** А я хочу сразу выложить это.  
+**[11427.50s] English:** The more I think about it, the more I seem to filter myself.  
 **Translation:** 
 
-**[11434.16s] English:** Я так делаю в команде.  
+**[11431.96s] English:** I want to post this right away.  
 **Translation:** 
 
-**[11435.72s] English:** Думаю, у него в этом большой опыт.  
+**[11434.16s] English:** I do it in the team.  
 **Translation:** 
 
-**[11437.44s] English:** Я так делаю в командной обстановке, когда идёт мозговой штурм.  
+**[11435.72s] English:** I think he has a lot of experience in this.  
 **Translation:** 
 
-**[11440.72s] English:** И ты позволяешь себе просто думать в тишине.  
+**[11437.44s] English:** I do this in a team setting when brainstorming.  
 **Translation:** 
 
-**[11443.76s] English:** Да.  
-**Translation:** 
+**[11440.72s] English:** And you allow yourself simply to think in silence.  
+**Translation:** Vocabulary: brainstorming: 头脑风暴
 
-**[11444.06s] English:** Как бы...  
+**[11443.76s] English:** Yes.  
 **Translation:** 
 
-**[11445.22s] English:** Даже на встречах люди хотят говорить.  
+**[11444.06s] English:** How would...  
 **Translation:** 
 
-**[11447.56s] English:** Да.  
+**[11445.22s] English:** Even at meetings, people want to speak.  
 **Translation:** 
 
-**[11448.38s] English:** Как бы... Нет, подумай, прежде чем говорить.  
+**[11447.56s] English:** Yes.  
 **Translation:** 
 
-**[11450.92s] English:** Сидеть вместе в тишине — это нормально.  
+**[11448.38s] English:** How about... No, think it through before you speak.  
 **Translation:** 
 
-**[11453.94s] English:** И если дать себе возможность, то можно придумать что-то хорошее.  
+**[11450.92s] English:** Sit together in silence—this is normal.  
 **Translation:** 
 
-**[11457.50s] English:** Да.  
+**[11453.94s] English:** If given the opportunity, one can come up with something good.  
 **Translation:** 
 
-**[11458.40s] English:** Итак, твой идеальный день.  
+**[11457.50s] English:** Yes.  
 **Translation:** 
 
-**[11460.84s] English:** Сколько кофеина ты потребляешь в этот день?  
+**[11458.40s] English:** So, your ideal day.  
 **Translation:** 
 
-**[11463.20s] English:** Чувак, слишком много.  
-**Translation:** 
+**[11460.84s] English:** How much caffeine are you consuming today?  
+**Translation:** Vocabulary: caffeine: 咖啡因
 
-**[11464.92s] English:** Обычно это две чашки кофе.  
+**[11463.20s] English:** Guy, that's too much.  
 **Translation:** 
 
-**[11467.28s] English:** Но в этот идеальный день их может быть четыре.  
+**[11464.92s] English:** Usually, this is two cups of coffee.  
 **Translation:** 
 
-**[11470.18s] English:** Это уже близко к уровню тревожности.  
+**[11467.28s] English:** But on this ideal day, there could be four of them.  
 **Translation:** 
 
-**[11472.40s] English:** То есть четыре чашки для тебя много.  
+**[11470.18s] English:** This is already close to the anxiety level.  
 **Translation:** 
 
-**[11474.88s] English:** Думаю, мой кофе достаточно крепкий.  
+**[11472.40s] English:** So, four cups for you is a lot.  
 **Translation:** 
 
-**[11476.92s] English:** В Ви-60 примерно 20 грамм кофейного порошка.  
-**Translation:** 
+**[11474.88s] English:** I think my coffee is sufficiently strong.  
+**Translation:** Vocabulary: sufficiently: 足够地
 
-**[11480.86s] English:** И мои друзья называют его ядерным кофе, ведь он крепкий.  
+**[11476.92s] English:** In Vi-60, there are approximately 20 grams of coffee powder.  
 **Translation:** 
 
-**[11484.78s] English:** Супер крепкий.  
-**Translation:** 
+**[11480.86s] English:** And my friends call it nuclear coffee, since it's very strong.  
+**Translation:** Vocabulary: powder: 粉末
 
-**[11485.62s] English:** Довольно крепкий.  
+**[11484.78s] English:** Super strong.  
 **Translation:** 
 
-**[11487.28s] English:** Но...  
-**Translation:** 
+**[11485.62s] English:** Quite sturdy.  
+**Translation:** Vocabulary: sturdy: 坚固
 
-**[11487.50s] English:** Но даже приятно достичь уровня тревожности,  
+**[11487.28s] English:** But...  
 **Translation:** 
 
-**[11489.76s] English:** когда ты почти на грани панической атаки.  
+**[11487.50s] English:** But even reaching a level of anxiety is pleasant.  
 **Translation:** 
 
-**[11491.72s] English:** Да.  
+**[11489.76s] English:** When you are nearly at the brink of a panic attack.  
 **Translation:** 
 
-**[11492.02s] English:** Но еще не там, и это как...  
-**Translation:** 
+**[11491.72s] English:** Yes.  
+**Translation:** Vocabulary: brink: 临界点
 
-**[11493.60s] English:** Это такое суперсосредоточение, просто как...  
+**[11492.02s] English:** But not yet there, and this is like...  
 **Translation:** 
 
-**[11499.14s] English:** Потрясающе.  
+**[11493.60s] English:** This is such a super concentration, just like...  
 **Translation:** 
 
-**[11500.14s] English:** Но я имею в виду, в моей жизни есть место и для этого, и думаю,  
+**[11499.14s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to use natural English punctuation and capitalization while keeping the same meaning without translating, and considering "Потрясающе" is Russian for "Amazing," the improved sentence would be: Amazing.  
 **Translation:** 
 
-**[11504.10s] English:** это здорово для создания чего-то нового.  
-**Translation:** 
+**[11500.14s] English:** But I mean, in my life there is room for this, and I think,  
+**Translation:** Vocabulary: capitalization: 大写; translating: 翻译
 
-**[11507.02s] English:** Начать с нуля и создать новое.  
+**[11504.10s] English:** This is great for creating something new.  
 **Translation:** 
 
-**[11508.52s] English:** Да, думаю, девушкам стоит отпускать своих парней, уходить на пару недель.  
+**[11507.02s] English:** Start with a zero and create anew.  
 **Translation:** 
 
-**[11514.14s] English:** Каждые несколько... Нет, хотя бы раз в год, может быть, каждый квартал.  
+**[11508.52s] English:** Yes, I think girls should let their boyfriends go, take a couple of weeks off.  
 **Translation:** 
 
-**[11517.50s] English:** И просто сидеть и создавать.  
+**[11514.14s] English:** Every few months, or at least once a year, perhaps every quarter.  
 **Translation:** 
 
-**[11520.00s] English:** что-то без они потрясающие но без помех побыть одному и тогда люди могут создать  
+**[11517.50s] English:** And just sit and create.  
 **Translation:** 
 
-**[11527.50s] English:** что-то действительно невероятное в ковбойских шляпах уйдя в горы да точно  
-**Translation:** 
+**[11520.00s] English:** Something amazing, but without interference, to be alone and then people can create.  
+**Translation:** Vocabulary: interference: 干扰
 
-**[11532.68s] English:** про это есть фильм с ноутбука они там не особо кодили ну чуть-чуть то можно а  
+**[11527.50s] English:** Something truly incredible in cowboy hats, going into the mountains, and definitely.  
 **Translation:** 
 
-**[11537.76s] English:** потом небольшой релиз можно совмещать и я же про горбатую гору нас нужно  
-**Translation:** 
+**[11532.68s] English:** Here is the transcript with natural English punctuation and capitalization: Keep the fact that there's a movie about this from the laptop. They didn't code much there, just a little bit.  
+**Translation:** Vocabulary: cowboy: 牛仔; laptop: 笔记本; transcript: 录音稿
 
-**[11543.32s] English:** отпускать в мужскую берлогу до для релиза да для релиза делать дела это  
+**[11537.76s] English:** Then, a small release can be combined, and I mean the hill we need to work on.  
 **Translation:** 
 
-**[11548.80s] English:** баланс круто а что насчет сна дремаешь спишь мало я не дремаю думаю вздремнуть  
+**[11543.32s] English:** Release into the male den until for release to do things this  
 **Translation:** 
 
-**[11556.68s] English:** это хорошо но я не особо устаю днем чувак из-за зала я не устаю я устаю  
+**[11548.80s] English:** Balancing is great, but what about sleep? Do you get enough sleep? I don't drowse much, but I'm thinking of getting some rest.  
 **Translation:** 
 
-**[11562.78s] English:** только когда с приходом ночи я хочу спать я вот обожаю вздремнуть да мне  
-**Translation:** 
+**[11556.68s] English:** This is good, but I don't really get tired during the day. The guy from the gym keeps me going. I do get tired though.  
+**Translation:** Vocabulary: balancing: 保持平衡; drowse: 打盹
 
-**[11567.92s] English:** плевать не знаю почему мозг выключается включается не знаю полезно ли это думаю  
+**[11562.78s] English:** Only when night falls do I want to sleep; I just love a little nap, you know.  
 **Translation:** 
 
-**[11575.44s] English:** нужно исследовать любой аспект своего тела  
+**[11567.92s] English:** Pлевать, не знаю, почему мозг выключается и включается. Не знаю, полезно ли это, думаю.  
 **Translation:** 
 
-**[11577.72s] English:** ментальные и физические  
+**[11575.44s] English:** Need to investigate any aspect of your body.  
 **Translation:** 
 
-**[11578.52s] English:** ментальные и физические  
+**[11577.72s] English:** Mental and physical.  
 **Translation:** 
 
-**[11578.78s] English:** знать свои пределы нужно с осторожностью принимать советы из интернета вообще  
+**[11578.52s] English:** Mental and physical.  
 **Translation:** 
 
-**[11583.70s] English:** многие советы это просто хорошая база для общей массы людей не что-то  
+**[11578.78s] English:** To know your limits, you should approach advice from the internet with caution.  
 **Translation:** 
 
-**[11590.06s] English:** персональное нужно стать студентом своего собственного тела своей сущности  
+**[11583.70s] English:** Many tips are just a good base for the general mass of people, not something  
 **Translation:** 
 
-**[11594.26s] English:** понимать как ты работаешь я делал много такого и для меня было интересным  
+**[11590.06s] English:** Personal, it needs to become a student of its own body and essence.  
 **Translation:** 
 
-**[11601.10s] English:** голодание раньше я ел много раз в день особенно  
+**[11594.26s] English:** To understand how you work, I've done a lot of things, and it was interesting for me.  
 **Translation:** 
 
-**[11604.78s] English:** когда качался все говорили ты должен есть многое  
+**[11601.10s] English:** Gолодание раньше я ел много раз в день, особенно  
 **Translation:** 
 
-**[11608.50s] English:** и неbaby  
+**[11604.78s] English:** When it was swaying, everyone said you should eat everything.  
 **Translation:** 
 
-**[11609.66s] English:** сшыми порциями но я понял что могу стать намного сильнее и чувствовать себя лучше  
-**Translation:** 
+**[11608.50s] English:** And not baby  
+**Translation:** Vocabulary: swaying: 摇晃
 
-**[11614.84s] English:** если буду есть 1 2 раза в день до этой же до безумия никогда не понимал эту  
+**[11609.66s] English:** With smaller portions, but I realized that I could become much stronger and feel better.  
 **Translation:** 
 
-**[11620.66s] English:** концепцию мелких порций позволь спросить можешь ли ты прокомментировать другие  
-**Translation:** 
+**[11614.84s] English:** If I eat only one or two times a day, I can't understand why it wouldn't drive me crazy eventually.  
+**Translation:** Vocabulary: portions: 分量
 
-**[11625.56s] English:** продукты которые ты создал мы говорили про нам от лист интерьера я его таяй тераписта  
+**[11620.66s] English:** Concept of small portions, may I ask if you can comment on other  
 **Translation:** 
 
-**[11630.80s] English:** я а что такое рима утки это доска объявлений о удаленной работе тогда лет десять назад были доски в окне и в vlogga же вcamlos girls  
-**Translation:** 
+**[11625.56s] English:** Products which you created, we talked about them. From the leaf interior, I think it's a therapist.  
+**Translation:** Vocabulary: therapist: 治疗师
 
-**[11635.62s] English:** наблюдisserche�en а что это такое вот такой выделка успехов датаには может также была 20 футов или差iko  
+**[11630.80s] English:** Ya, what is Roman ukki? This is a platform for job postings related to remote work. Back ten years ago, there were boards in the window and on Vlogga as well as in Camlos Girls.  
 **Translation:** 
 
-**[11636.50s] English:** Десять назад были доски вакансии, но не было именно досок.  
+**[11635.62s] English:** Observing this, what is this all about? It seems to be some kind of display of successes. The date might have also been 20 feet or差iko  
 **Translation:** 
 
-**[11640.00s] English:** для удаленной работы.  
+**[11636.50s] English:** Ten years ago, there were job boards, but not exactly boards.  
 **Translation:** 
 
-**[11641.78s] English:** Так что я сделал одну.  
+**[11640.00s] English:** For remote work.  
 **Translation:** 
 
-**[11643.16s] English:** Сначала Nomad List был как страница с работами для кочевников.  
+**[11641.78s] English:** So I did one.  
 **Translation:** 
 
-**[11646.10s] English:** И много компаний платили за размещение вакансий.  
-**Translation:** 
+**[11643.16s] English:** First, Nomad List was like a page with jobs for nomads.  
+**Translation:** Vocabulary: nomads: 游牧民族
 
-**[11648.84s] English:** И я выделил это в Remote OK.  
+**[11646.10s] English:** And many companies paid for job listings.  
 **Translation:** 
 
-**[11650.80s] English:** И теперь это либо номер один, либо номер два  
-**Translation:** 
+**[11648.84s] English:** I highlighted this on Remote OK.  
+**Translation:** Vocabulary: highlighted: 突出显示
 
-**[11652.52s] English:** среди крупнейших досок удаленной работы.  
+**[11650.80s] English:** Now, it's either number one or number two.  
 **Translation:** 
 
-**[11655.26s] English:** И это тоже полностью автоматизировано.  
+**[11652.52s] English:** Among the largest remote work platforms.  
 **Translation:** 
 
-**[11657.50s] English:** Люди размещают вакансии, а другие откликаются,  
+**[11655.26s] English:** And this is also fully automated.  
 **Translation:** 
 
-**[11659.76s] English:** и там есть профили.  
-**Translation:** 
+**[11657.50s] English:** People post job vacancies, and others respond with applications.  
+**Translation:** Vocabulary: automated: 自动化; vacancies: 职位空缺
 
-**[11661.12s] English:** Это что-то вроде LinkedIn для удаленной работы.  
+**[11659.76s] English:** And there are profiles.  
 **Translation:** 
 
-**[11663.40s] English:** То есть фокус только на удаленке.  
-**Translation:** 
+**[11661.12s] English:** This is something like LinkedIn for remote work.  
+**Translation:** Vocabulary: profiles: 个人档案
 
-**[11665.42s] English:** Да.  
+**[11663.40s] English:** That is, the focus is only on remote work.  
 **Translation:** 
 
-**[11665.88s] English:** По сути, это простая доска вакансий.  
+**[11665.42s] English:** Yes.  
 **Translation:** 
 
-**[11667.84s] English:** Я понял, что доски вакансий куда сложнее, чем кажется.  
+**[11665.88s] English:** In essence, this is a simple job board.  
 **Translation:** 
 
-**[11672.12s] English:** Да, это доска для удаленной работы.  
+**[11667.84s] English:** I understood that job postings are much more complicated than they seem.  
 **Translation:** 
 
-**[11675.80s] English:** Но классно, что можно брать деньги за публикацию.  
+**[11672.12s] English:** Yes, this is a board for remote work.  
 **Translation:** 
 
-**[11678.30s] English:** Это хорошие деньги.  
+**[11675.80s] English:** But it's great that you can charge for publication.  
 **Translation:** 
 
-**[11679.16s] English:** B2B сектор можно брать, например, начиная с 299 долларов.  
+**[11678.30s] English:** This is good money.  
 **Translation:** 
 
-**[11682.48s] English:** Но на пике, когда ФРС начали печатать деньги в 2021,  
+**[11679.16s] English:** The B2B sector can be taken, for example, starting at $299.  
 **Translation:** 
 
-**[11687.20s] English:** я зарабатывал с Remote OK 140 тысяч в месяц  
+**[11682.48s] English:** But at the peak, when the Fed began printing money in 2021,  
 **Translation:** 
 
-**[11689.56s] English:** лишь на публикации вакансий.  
+**[11687.20s] English:** I was earning $140,000 per month from Remote OK.  
 **Translation:** 
 
-**[11691.34s] English:** И я стал добавлять дополнительные опции,  
+**[11689.56s] English:** Only through job postings.  
 **Translation:** 
 
-**[11693.76s] English:** разные цвета, фоновые изображения для вакансий.  
+**[11691.34s] English:** And I started adding additional options,  
 **Translation:** 
 
-**[11696.68s] English:** Да.  
+**[11693.76s] English:** Different colors, background images for vacancies.  
 **Translation:** 
 
-**[11697.10s] English:** Это просто оптимизм.  
+**[11696.68s] English:** Yes.  
 **Translation:** 
 
-**[11697.84s] English:** Ты берешь апселл и берешь по тысячу долларов за апселл.  
+**[11697.10s] English:** This is simply optimism.  
 **Translation:** 
 
-**[11700.10s] English:** Это было безумие.  
-**Translation:** 
+**[11697.84s] English:** You take upsell and make a thousand dollars for each upsell.  
+**Translation:** Vocabulary: optimism: 积极心态
 
-**[11701.92s] English:** И все компании апселл, апселл.  
+**[11700.10s] English:** This was madness.  
 **Translation:** 
 
-**[11703.62s] English:** И да, мы хотим все.  
-**Translation:** 
+**[11701.92s] English:** And all companies upsell, upsell.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[11705.06s] English:** Публикация вакансий могла стоить 3-4 тысячи долларов.  
+**[11703.62s] English:** And yes, we want it all.  
 **Translation:** 
 
-**[11709.06s] English:** И я думал, это хороший бизнес.  
+**[11705.06s] English:** Publication of vacancies could cost $3-4 thousand.  
 **Translation:** 
 
-**[11711.48s] English:** А потом ФРС перестали печатать деньги, и все пошло на спад.  
+**[11709.06s] English:** I thought it was a good business.  
 **Translation:** 
 
-**[11714.76s] English:** И доход упал со 140 до 10 тысяч в месяц.  
+**[11711.48s] English:** Then the Fed stopped printing money, and everything went into decline.  
 **Translation:** 
 
-**[11717.98s] English:** Да.  
+**[11714.76s] English:** Income fell from 140 to 10 thousand dollars a month.  
 **Translation:** 
 
-**[11718.20s] English:** Сейчас, кажется, около 40 тысяч.  
+**[11717.98s] English:** Yes.  
 **Translation:** 
 
-**[11720.30s] English:** Это были хорошие времена.  
+**[11718.20s] English:** Currently, it seems to be around 40,000.  
 **Translation:** 
 
-**[11722.00s] English:** Я хочу спросить тебя про жизнь цифрового намада.  
+**[11720.30s] English:** This was a good time.  
 **Translation:** 
 
-**[11725.32s] English:** Да.  
+**[11722.00s] English:** I want to ask you about the life of a digital nomad.  
 **Translation:** 
 
-**[11725.52s] English:** Ты написал блог-пост про, в кавычках,  
+**[11725.32s] English:** Yes.  
 **Translation:** 
 
-**[11727.84s] English:** сброс.  
+**[11725.52s] English:** You wrote a blog post about, in quotes,  
 **Translation:** 
 
-**[11729.40s] English:** И в целом о том, чтобы отдать все и жить минималистичной жизнью.  
-**Translation:** 
+**[11727.84s] English:** Reset.  
+**Translation:** Vocabulary: quotes: 引号
 
-**[11733.36s] English:** Да, да.  
+**[11729.40s] English:** In general, about giving up everything and living a minimalist life.  
 **Translation:** 
 
-**[11733.82s] English:** Что для этого потребовалось, чтобы избавиться от всего?  
-**Translation:** 
+**[11733.36s] English:** Yes, yes.  
+**Translation:** Vocabulary: minimalist: 极简主义者
 
-**[11737.80s] English:** Десять лет назад был такой тренд в блогах.  
+**[11733.82s] English:** What was needed to get rid of everything?  
 **Translation:** 
 
-**[11740.10s] English:** Тогда они были популярны.  
+**[11737.80s] English:** Ten years ago, there was a trend in blogs.  
 **Translation:** 
 
-**[11741.34s] English:** Это была благосфера.  
+**[11740.10s] English:** Then they were popular.  
 **Translation:** 
 
-**[11742.34s] English:** Был такой челлендж «100 вещей».  
-**Translation:** 
+**[11741.34s] English:** This was a benevolent sphere.  
+**Translation:** Vocabulary: benevolent: 仁慈的
 
-**[11743.86s] English:** Что это?  
+**[11742.34s] English:** There was a challenge called "100 Things".  
 **Translation:** 
 
-**[11744.80s] English:** Конечно, тупо, но ты типа записываешь каждый предмет у себя дома,  
+**[11743.86s] English:** What is this?  
 **Translation:** 
 
-**[11748.36s] English:** считаешь их, создаешь таблицу и понимаешь, у меня сейчас 500 вещей.  
+**[11744.80s] English:** Of course, simply, but you are typing down each item at home,  
 **Translation:** 
 
-**[11752.54s] English:** И нужно сократить их до 100.  
+**[11748.36s] English:** Count them, create a table, and you'll see I have 500 things now.  
 **Translation:** 
 
-**[11754.74s] English:** Зачем?  
+**[11752.54s] English:** It needs to be reduced to 100.  
 **Translation:** 
 
-**[11755.28s] English:** Таков был тренд, и я повторил.  
+**[11754.74s] English:** Why?  
 **Translation:** 
 
-**[11756.70s] English:** Я начал продавать.  
+**[11755.28s] English:** Such was the trend, and I repeated it.  
 **Translation:** 
 
-**[11757.84s] English:** Я начал продавать вещи, выбрасывать их.  
+**[11756.70s] English:** I began selling.  
 **Translation:** 
 
-**[11760.00s] English:** Потом принял МДМА и экстази, где-то в 2012.  
+**[11757.84s] English:** I started selling things, throwing them away.  
 **Translation:** 
 
-**[11765.12s] English:** И после этого опыта я чувствовал себя иначе,  
-**Translation:** 
+**[11760.00s] English:** Then I took MDMA and ecstasy around 2012.  
+**Translation:** Vocabulary: ecstasy: 兴奋药
 
-**[11768.18s] English:** что мне нужно начать выбрасывать вещи.  
+**[11765.12s] English:** After this experience, I felt different.  
 **Translation:** 
 
-**[11771.12s] English:** Я клянусь.  
+**[11768.18s] English:** What I need to start throwing away things.  
 **Translation:** 
 
-**[11772.38s] English:** Я стал их выбрасывать, и ощущал, что...  
+**[11771.12s] English:** I swear.  
 **Translation:** 
 
-**[11775.32s] English:** Это было словно наркотик направлял меня на путь,  
+**[11772.38s] English:** I started throwing them away, and I felt that...  
 **Translation:** 
 
-**[11777.82s] English:** что нужно выбросить все барахло.  
+**[11775.32s] English:** This was like a drug, guiding me on a path,  
 **Translation:** 
 
-**[11780.00s] English:** Отправляйся в путешествие, тебе нужно выбраться.  
+**[11777.82s] English:** What needs to be thrown out is all this junk.  
 **Translation:** 
 
-**[11782.70s] English:** Я думаю, это то, что сделала МДМА, да?  
+**[11780.00s] English:** Go on a journey, you need to get out.  
 **Translation:** 
 
-**[11786.50s] English:** Как трудно свести все до ста вещей.  
+**[11782.70s] English:** I think that's what MDMA did, isn't it?  
 **Translation:** 
 
-**[11788.88s] English:** Например, нужно продать свой ПК, нужно зайти на eBay и...  
+**[11786.50s] English:** It's so hard to reduce everything to just one hundred things.  
 **Translation:** 
 
-**[11793.30s] English:** Заходя туда и продавая свои вещи, ты открываешь для себя общество,  
+**[11788.88s] English:** For example, you need to sell your PC, so you should go to eBay and...  
 **Translation:** 
 
-**[11796.82s] English:** встречаешь самых сумасшедших людей, ты встречаешь весь спектр.  
+**[11793.30s] English:** Entering there and selling your things, you open yourself up to a society,  
 **Translation:** 
 
-**[11800.76s] English:** От богатых до бедных, все приходят к тебе домой за покупками.  
-**Translation:** 
+**[11796.82s] English:** You meet the most crazy people, and you encounter the whole spectrum.  
+**Translation:** Vocabulary: encounter: 遇到
 
-**[11803.88s] English:** Это так забавно, так интересно, всем рекомендую.  
+**[11800.76s] English:** From the wealthy to the poor, everyone comes to your home for shopping.  
 **Translation:** 
 
-**[11806.12s] English:** И видишь тех, кому нужно твое барахло.  
-**Translation:** 
+**[11803.88s] English:** This is so funny, so interesting, I recommend it to everyone.  
+**Translation:** Vocabulary: wealthy: 有钱的
 
-**[11808.06s] English:** Да, это было так... Типа, я даже не знал.  
+**[11806.12s] English:** You see those who need your cast-offs.  
 **Translation:** 
 
-**[11810.54s] English:** Я жил в Амстердаме и не знал...  
+**[11808.06s] English:** Yes, it was like that... Type of, I didn't even know.  
 **Translation:** 
 
-**[11812.82s] English:** Я жил в своей субкультуре.  
+**[11810.54s] English:** I lived in Amsterdam and didn't know...  
 **Translation:** 
 
-**[11814.94s] English:** А через eBay открыл для себя, кто такие голландцы.  
-**Translation:** 
+**[11812.82s] English:** I lived in my subculture.  
+**Translation:** Vocabulary: amsterdam: 阿姆斯特丹; subculture: 亚文化
 
-**[11817.72s] English:** И я продал все.  
+**[11814.94s] English:** Through eBay, I discovered who the Dutch are.  
 **Translation:** 
 
-**[11819.04s] English:** Что самое странное тебе пришлось продать?  
+**[11817.72s] English:** I sold everything.  
 **Translation:** 
 
-**[11821.82s] English:** И найти для этого покупателя?  
+**[11819.04s] English:** What is the strangest thing you had to sell?  
 **Translation:** 
 
-**[11823.48s] English:** Не странное, а что вообще запомнилось?  
+**[11821.82s] English:** And find a buyer for this?  
 **Translation:** 
 
-**[11825.80s] English:** Я тогда занимался музыкой, и мы снимали музыкальные клипы с камерой Canon 5D.  
+**[11823.48s] English:** What was really memorable, though?  
 **Translation:** 
 
-**[11830.68s] English:** В те времена все снимали, все что-то снимали.  
+**[11825.80s] English:** I then pursued music, and we shot music videos with a Canon 5D camera.  
 **Translation:** 
 
-**[11834.08s] English:** Мы купили ее с моими друзьями.  
+**[11830.68s] English:** In those times, everyone was filming, everyone was shooting something.  
 **Translation:** 
 
-**[11838.42s] English:** Мне пришлось ее тоже продать, потому что она была дорогой, где-то тысяч шесть.  
+**[11834.08s] English:** We bought it with my friends.  
 **Translation:** 
 
-**[11843.02s] English:** Да.  
+**[11838.42s] English:** I had to sell it too because it was expensive, around six thousand.  
 **Translation:** 
 
-**[11843.70s] English:** Но продать ее означало, что мы больше не будем снимать клипы, и я уеду из Голландии.  
+**[11843.02s] English:** Yes.  
 **Translation:** 
 
-**[11848.88s] English:** То, над чем мы работали, закончится.  
+**[11843.70s] English:** But selling it meant we would no longer be making clips, and I would leave Holland.  
 **Translation:** 
 
-**[11851.44s] English:** Это было все равно, что сказать, мы больше не снимаем, и не станем известными или успешными.  
-**Translation:** 
+**[11848.88s] English:** That which we have been working on will end.  
+**Translation:** Vocabulary: holland: 荷兰
 
-**[11856.56s] English:** Эта музыкальная тема не приносит результатов.  
+**[11851.44s] English:** This was the same as saying we will no longer make movies, and we won't become famous or successful.  
 **Translation:** 
 
-**[11859.36s] English:** И я чувствовал себя очень плохо перед друзьями, ведь мы вместе работали над этим.  
+**[11856.56s] English:** This musical theme does not bring results.  
 **Translation:** 
 
-**[11864.44s] English:** А я продаю камеру, с которой мы все это делали.  
+**[11859.36s] English:** I felt very bad in front of my friends because we had been working on it together.  
 **Translation:** 
 
-**[11868.52s] English:** Это было трудное прощание.  
+**[11864.44s] English:** I sell the camera with which we all did this.  
 **Translation:** 
 
-**[11870.20s] English:** Просто камера, но это было, словно говоришь, это не работает, я ухожу.  
+**[11868.52s] English:** This was a difficult farewell.  
 **Translation:** 
 
-**[11875.80s] English:** А кто ее купил, ты помнишь?  
+**[11870.20s] English:** Just a camera, but it was as if you were saying, "This doesn't work; I'm leaving.  
 **Translation:** 
 
-**[11877.80s] English:** Какой-то парень, который даже не хорошо знает relaxes.  
+**[11875.80s] English:** Who did she get bought by, do you remember?  
 **Translation:** 
 
-**[11880.32s] English:** Надеюсь, ее хоть кто-нибудь помнил.  
+**[11877.80s] English:** Some guy who doesn't even know how to relax.  
 **Translation:** 
 
-**[11881.88s] English:** Да, Roberto.  
+**[11880.00s] English:** He could understand all this journey.  
 **Translation:** 
 
-**[11883.32s] English:** В общем, важное, что здесь много нового, но не так много topic-аắng.  
+**[11880.32s] English:** I hope someone at least remembered her.  
 **Translation:** 
 
-**[11880.00s] English:** и мог понять весь этот путь.  
+**[11881.88s] English:** Yes, Roberto.  
 **Translation:** 
 
-**[11882.64s] English:** Всю эмоцию в момент.  
+**[11882.64s] English:** All the emotion in the moment.  
 **Translation:** 
 
-**[11884.14s] English:** Да.  
+**[11883.32s] English:** In general, important that here is a lot of new but not too much on the topic.  
 **Translation:** 
 
-**[11884.54s] English:** Да.  
+**[11884.14s] English:** Yes.  
 **Translation:** 
 
-**[11885.22s] English:** Он просто пришел, отдал деньги, и все.  
+**[11884.54s] English:** Yes.  
 **Translation:** 
 
-**[11887.22s] English:** Да.  
+**[11885.22s] English:** He simply came in, handed over the money, and that was it.  
 **Translation:** 
 
-**[11887.68s] English:** Но это было как отрезать кусок жизни.  
+**[11887.22s] English:** Yes.  
 **Translation:** 
 
-**[11889.72s] English:** Все заканчивается, мы начнем что-то новое.  
+**[11887.68s] English:** But this was like cutting a piece of life out.  
 **Translation:** 
 
-**[11892.28s] English:** Думаю, это прекрасно.  
+**[11889.72s] English:** All ends, we will begin something new.  
 **Translation:** 
 
-**[11893.50s] English:** Я делал так дважды.  
+**[11892.28s] English:** I think it's wonderful.  
 **Translation:** 
 
-**[11894.70s] English:** Отдавал все, все, все.  
+**[11893.50s] English:** I did it twice.  
 **Translation:** 
 
-**[11896.22s] English:** Ух ты.  
+**[11894.70s] English:** He gave it all, every last bit.  
 **Translation:** 
 
-**[11897.18s] English:** Оставлял только штаны, белье, рюкзак.  
+**[11896.22s] English:** Oh wow.  
 **Translation:** 
 
-**[11902.26s] English:** Я думаю, такое важно сделать.  
+**[11897.18s] English:** He kept only his pants, underwear, and backpack.  
 **Translation:** 
 
-**[11904.86s] English:** Это показывает, что важно.  
+**[11902.26s] English:** I think it's important to do such a thing.  
 **Translation:** 
 
-**[11906.64s] English:** Думаю, этому я и научился.  
+**[11904.86s] English:** This shows that it is important.  
 **Translation:** 
 
-**[11908.24s] English:** Ты понимаешь, что можешь жить с очень малым набором вещей.  
+**[11906.64s] English:** I think that's something I learned.  
 **Translation:** 
 
-**[11913.46s] English:** Но есть и обратная сторона.  
+**[11908.24s] English:** You understand that you can live with a very small set of things.  
 **Translation:** 
 
-**[11915.42s] English:** Ты больше полагаешься на разные услуги.  
+**[11913.46s] English:** But there is a downside as well.  
 **Translation:** 
 
-**[11918.20s] English:** Допустим, нужна машина, пользуешься Uber.  
-**Translation:** 
+**[11915.42s] English:** You rely more on various services.  
+**Translation:** Vocabulary: downside: 不利方面
 
-**[11920.38s] English:** И не нужна кухонная утварь, ведь ты ходишь в рестораны, когда путешествуешь.  
+**[11918.20s] English:** Let's say you need a car, you use Uber.  
 **Translation:** 
 
-**[11925.06s] English:** Ты сильнее полагаешься на услуги других и тратишь на это деньги, но это хорошо.  
-**Translation:** 
+**[11920.38s] English:** And you don't need kitchen utensils since you go to restaurants when you travel.  
+**Translation:** Vocabulary: utensils: 餐具
 
-**[11929.18s] English:** Да, но отказ от материальных вещей дает своего рода свободу в передвижении по миру.  
+**[11925.06s] English:** You rely more on the services of others and spend money on it, but that's good.  
 **Translation:** 
 
-**[11934.98s] English:** Да.  
+**[11929.18s] English:** Yes, but giving up material things gives a certain freedom to travel the world.  
 **Translation:** 
 
-**[11935.28s] English:** Это дает тебе свободу поехать в другой город.  
+**[11934.98s] English:** Yes.  
 **Translation:** 
 
-**[11937.64s] English:** Да, с рюкзаком.  
+**[11935.28s] English:** This gives you the freedom to travel to another city.  
 **Translation:** 
 
-**[11938.30s] English:** С рюкзаком?  
+**[11937.64s] English:** Yes, with a backpack.  
 **Translation:** 
 
-**[11939.86s] English:** Да.  
+**[11938.30s] English:** With a backpack?  
 **Translation:** 
 
-**[11939.96s] English:** В этом есть некая свобода.  
+**[11939.86s] English:** Yes.  
 **Translation:** 
 
-**[11941.64s] English:** Есть что-то в наличии материальных вещей и всего прочего, что немного сковывает тебя.  
+**[11939.96s] English:** In this, there is a certain freedom.  
 **Translation:** 
 
-**[11946.24s] English:** Да.  
+**[11941.64s] English:** There is something about having material things and all that stuff that slightly confines you.  
 **Translation:** 
 
-**[11946.92s] English:** Как бы духовно.  
-**Translation:** 
+**[11946.24s] English:** Yes.  
+**Translation:** Vocabulary: confines: 限制
 
-**[11948.10s] English:** Да.  
+**[11946.92s] English:** How spiritually.  
 **Translation:** 
 
-**[11948.62s] English:** Полезно сделать прыжок в неизведанный мир, особенно в молодости.  
-**Translation:** 
+**[11948.10s] English:** Yes.  
+**Translation:** Vocabulary: spiritually: 精神上
 
-**[11951.72s] English:** Я рекомендую, если тебе 18, ты только окончил школу, отправься в путешествие.  
+**[11948.62s] English:** It is useful to make a leap into the unknown world, especially in youth.  
 **Translation:** 
 
-**[11956.24s] English:** И занимайся чем-то в интернете, возьми свой ноутбук.  
+**[11951.72s] English:** I recommend that if you are 18 and just finished school, you should go on a trip.  
 **Translation:** 
 
-**[11960.78s] English:** Это потрясающий опыт.  
+**[11956.24s] English:** Keep busy with something on the internet, take your laptop.  
 **Translation:** 
 
-**[11962.84s] English:** Пять лет назад университет был хорошей идеей, но сейчас, может, и стоит его пропустить.  
-**Translation:** 
+**[11960.78s] English:** This is a fantastic experience.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
-**[11966.82s] English:** Сначала попутешествуй.  
+**[11962.84s] English:** Five years ago, the university was a good idea, but now, maybe it's worth skipping.  
 **Translation:** 
 
-**[11968.24s] English:** Попутешествуй немного.  
-**Translation:** 
+**[11966.82s] English:** First, go traveling.  
+**Translation:** Vocabulary: skipping: 跳过
 
-**[11969.06s] English:** Разберись кое в чем.  
+**[11968.24s] English:** Travel a little bit.  
 **Translation:** 
 
-**[11970.48s] English:** Ты можешь пойти в университет в 25, ты можешь сказать, теперь я стал успешным в бизнесе, и у тебя есть деньги, ты можешь выбрать, что хочешь изучать.  
+**[11969.06s] English:** Figure out something.  
 **Translation:** 
 
-**[11979.52s] English:** Потому что в 18 люди идут учиться на то, что актуально на рынке труда.  
+**[11970.48s] English:** You can go to university at 25. You can say now I've become successful in business, and you have money. You can choose what you want to study.  
 **Translation:** 
 
-**[11983.82s] English:** Наверное, логичнее отправиться в путешествие, построить бизнес, а потом идти в университет.  
+**[11979.52s] English:** Because in 18 people go to learn what is relevant on the job market.  
 **Translation:** 
 
-**[11989.86s] English:** Одна из главных функций университета – это налаживание связей.  
+**[11983.82s] English:** Probably it makes more sense to go on a trip, build a business, and then go to university.  
 **Translation:** 
 
-**[11993.44s] English:** Ты заводишь друзей, встречаешь людей.  
+**[11989.86s] English:** One of the main functions of the university is to establish connections.  
 **Translation:** 
 
-**[11996.46s] English:** Но если ты можешь встречаться с людьми в мире...  
+**[11993.44s] English:** You are making friends and meeting people.  
 **Translation:** 
 
-**[12000.00s] English:** путешествуя причем из разных культур моя проблема в том что если бы я  
+**[11996.46s] English:** But if you can meet people in the world...  
 **Translation:** 
 
-**[12004.46s] English:** путешествовал в таком юном возрасте меня привлекали бы люди на окраинах мира  
+**[12000.00s] English:** Travelling, by the way, from different cultures, my problem is that if I  
 **Translation:** 
 
-**[12008.78s] English:** например мне это где ну не географически а типа субкультур да да такие себе  
-**Translation:** 
+**[12004.46s] English:** Traveled in such a young age, people on the outskirts of the world would have attracted me.  
+**Translation:** Vocabulary: outskirts: 边远地区
 
-**[12015.88s] English:** странные темные люди да меня тоже но это может быть не лучшее общение 18 лет нет  
+**[12008.78s] English:** For example, me, this is where, not geographically, but kinda subcultural, yeah, yeah, such things.  
 **Translation:** 
 
-**[12022.88s] English:** чувак если быть умным можно оставаться в безопасности путешествуя я встретил  
-**Translation:** 
+**[12015.88s] English:** Stranger dark people too, but this might not be the best communication. 18 years, no.  
+**Translation:** Vocabulary: geographically: 地理位置; subcultural: 亚文化
 
-**[12027.28s] English:** столько странных людей так работает путешествие отпуская себя ты встречаешь  
+**[12022.88s] English:** Guy, if you're smart, you can stay safe while traveling. I met  
 **Translation:** 
 
-**[12030.94s] English:** сумасшедших людей да и это самые интересные люди и  
+**[12027.28s] English:** So many strange people work in the travel industry, letting yourself go, you meet them.  
 **Translation:** 
 
-**[12036.18s] English:** другого порекомендовать не могу но другой момент когда тебе 18 думаю в  
+**[12030.94s] English:** Crazy people, and these are the most interesting people, and  
 **Translation:** 
 
-**[12042.86s] English:** зависимости от твоей личности ты должен научиться быть как странным так и  
-**Translation:** 
+**[12036.18s] English:** I cannot recommend anything else, but another point is when you turn 18, I think it's around then.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[12048.06s] English:** обычным ты все равно должен научиться вписываться в общество для такого как я  
+**[12042.86s] English:** Dependent on your personality, you should learn to be both strange and  
 **Translation:** 
 
-**[12054.16s] English:** кто например всегда был изгоем всегда есть опасность  
+**[12048.06s] English:** Ordinary, you should still learn to fit into society for someone like me.  
 **Translation:** 
 
-**[12057.26s] English:** стать полным изгоем и такая жизнь сложнее если ты становишься художником и  
+**[12054.16s] English:** Who, for example, was always an outcast, there is always a danger.  
 **Translation:** 
 
-**[12064.04s] English:** с головой уходишь в тьму такая жизнь сложнее но ты можешь вернуться к  
-**Translation:** 
+**[12057.26s] English:** Becoming a complete outcast, and such a life is harder if you become an artist and  
+**Translation:** Vocabulary: outcast: 被排斥的人
 
-**[12068.48s] English:** нормальному это навык думаю нужно учиться как вписываться в приличное  
+**[12064.04s] English:** Going all in on the darkness, such a life is harder, but you can return to  
 **Translation:** 
 
-**[12075.74s] English:** общество я тоже был очень странным изгоем и сейчас я лучше адаптирован к  
+**[12068.48s] English:** Normálněmu, this is a skill that I think you need to learn how to fit into respectable society.  
 **Translation:** 
 
-**[12081.16s] English:** норме и ты этому научился после 30 лет но это навык нужно учиться  
+**[12075.74s] English:** Society, I was also a very strange outcast, and now I am better adapted to.  
 **Translation:** 
 
-**[12087.04s] English:** да чувак еще я чувствую что ты начинаешь как изгоин очень больше  
+**[12081.16s] English:** Norme, and you learned this after 30 years, but it's a skill that needs to be learned.  
 **Translation:** 
 
-**[12092.36s] English:** работаешь над собой тем меньше ерунды в тебе остается ты как бы начинаешь  
+**[12087.04s] English:** Da, guy, yet I feel that you're starting to act like an outcast a lot more.  
 **Translation:** 
 
-**[12095.76s] English:** становиться нормальным потому что становишься более спокойны счастлив и это  
+**[12092.36s] English:** Work on yourself, and the less nonsense remains in you; you begin to transform.  
 **Translation:** 
 
-**[12100.72s] English:** делает тебя не таким да немного да на безумцы всегда самые интересные если ты  
+**[12095.76s] English:** Becoming normal because you become more calm, happy, and this.  
 **Translation:** 
 
-**[12107.78s] English:** решил свои внутренние проблемы прошел терапию и так далее то ты как бы  
+**[12100.72s] English:** Makes you not like that, a little bit, though. Crazy people are always the most interesting if you give them a chance.  
 **Translation:** 
 
-**[12111.64s] English:** становишься может быть это уже все не так интересно не обязательно не обязательно  
+**[12107.78s] English:** Resolved his internal problems, went through therapy, and so on; you know how it is.  
 **Translation:** 
 
-**[12117.04s] English:** быть сломленным чтобы быть интересным да  
+**[12111.64s] English:** Stановишься, может быть, это уже и не так интересно. Не обязательно, не обязательно.  
 **Translation:** 
 
-**[12120.00s] English:** Что осталось, когда ты все минимизировал?  
+**[12117.04s] English:** To be broken to be interesting, yes.  
 **Translation:** 
 
-**[12123.90s] English:** Рюкзак.  
-**Translation:** 
+**[12120.00s] English:** What is left when you minimized it all?  
+**Translation:** Vocabulary: minimized: 缩小
 
-**[12124.82s] English:** Да.  
+**[12123.90s] English:** Backpack.  
 **Translation:** 
 
-**[12125.58s] English:** Макбук, зубная щетка, пару вещей, нижнее белье, носки.  
+**[12124.82s] English:** Yes.  
 **Translation:** 
 
-**[12130.40s] English:** Да.  
+**[12125.58s] English:** MacBook, toothbrush, a few things, underwear, socks.  
 **Translation:** 
 
-**[12131.32s] English:** В Азии не нужно много одежды, там жарко, и ты просто носишь шорты.  
-**Translation:** 
+**[12130.40s] English:** Yes.  
+**Translation:** Vocabulary: underwear: 内衣
 
-**[12136.36s] English:** Ходишь в шлепанцах, очень базово, футболка.  
+**[12131.32s] English:** In Asia, you don't need much clothing; it's hot there, and you just wear shorts.  
 **Translation:** 
 
-**[12140.80s] English:** И ходишь в прачечную стирать вещи.  
+**[12136.36s] English:** You're wearing flip-flops, very basic, t-shirt.  
 **Translation:** 
 
-**[12144.44s] English:** Это было где-то 50 вещей или около того.  
+**[12140.80s] English:** And you go to the laundry to wash your clothes.  
 **Translation:** 
 
-**[12147.04s] English:** Да, это здорово.  
-**Translation:** 
+**[12144.44s] English:** This was somewhere around 50 things or so.  
+**Translation:** Vocabulary: laundry: 洗衣店
 
-**[12148.72s] English:** Как я уже говорил, есть шоу «Элон».  
+**[12147.04s] English:** Yes, that's great.  
 **Translation:** 
 
-**[12152.36s] English:** Там тебя проверяют.  
+**[12148.72s] English:** As I have already said, there is a show called "Elon".  
 **Translation:** 
 
-**[12153.98s] English:** У тебя есть лишь 10 вещей, и тебе нужно выжить в дикой природе.  
+**[12152.36s] English:** There, they check on you.  
 **Translation:** 
 
-**[12158.10s] English:** И все берут с собой топор.  
+**[12153.98s] English:** You have only 10 things, and you need to survive in the wild.  
 **Translation:** 
 
-**[12161.26s] English:** Некоторые берут еще и пило.  
+**[12158.10s] English:** And everyone takes an axe with them.  
 **Translation:** 
 
-**[12165.78s] English:** Ух ты.  
+**[12161.26s] English:** Some also take the axe.  
 **Translation:** 
 
-**[12166.20s] English:** Но обычно топора хватает.  
+**[12165.78s] English:** Oh wow.  
 **Translation:** 
 
-**[12168.10s] English:** По сути, чтобы построить укрытие, нужно рубить и пилить деревья, и как бы...  
-**Translation:** 
+**[12166.20s] English:** But usually, a hatchet is sufficient.  
+**Translation:** Vocabulary: hatchet: 斧头
 
-**[12172.60s] English:** Как в Майнкрафт.  
+**[12168.10s] English:** In essence, to build a shelter, you need to chop and saw trees, and as they say...  
 **Translation:** 
 
-**[12174.94s] English:** Все, что я узнал о жизни, я узнал из Майнкрафт, бро.  
+**[12172.60s] English:** As in Minecraft.  
 **Translation:** 
 
-**[12178.72s] English:** Да, да, можно и так.  
+**[12174.94s] English:** All that I have learned about life, I have learned from Minecraft, bro.  
 **Translation:** 
 
-**[12181.64s] English:** Приятно создавать для себя такие ограничения, чтобы понять, что для тебя важно, и как жить в этом мире.  
+**[12178.72s] English:** Yes, yes, it can be like that.  
 **Translation:** 
 
-**[12188.00s] English:** И один из способов — это жить жизнью минималиста.  
+**[12181.64s] English:** It's nice to create such limitations for yourself to understand what is important to you and how to live in this world.  
 **Translation:** 
 
-**[12191.82s] English:** Но некоторые...  
-**Translation:** 
+**[12188.00s] English:** One of the ways is to live a minimalist life.  
+**Translation:** Vocabulary: minimalist: 极简主义的
 
-**[12193.04s] English:** Я встречал людей, которые очень любят материальные ценности.  
+**[12191.82s] English:** But some...  
 **Translation:** 
 
-**[12196.60s] English:** Это делает их счастливыми, и это прекрасно.  
+**[12193.04s] English:** I have met people who very much love material possessions.  
 **Translation:** 
 
-**[12198.84s] English:** Да.  
+**[12196.60s] English:** This makes them happy, and that is wonderful.  
 **Translation:** 
 
-**[12199.12s] English:** Для меня это не так.  
+**[12198.84s] English:** Yes.  
 **Translation:** 
 
-**[12201.54s] English:** Но все люди разные.  
+**[12199.12s] English:** For me, this is not so.  
 **Translation:** 
 
-**[12203.02s] English:** Я счастлив на неделе на две.  
+**[12201.54s] English:** But all people are different.  
 **Translation:** 
 
-**[12204.84s] English:** Да.  
+**[12203.02s] English:** I am happy for a week on two.  
 **Translation:** 
 
-**[12205.10s] English:** Я быстро адаптируюсь к какому-то базовому уровню.  
+**[12204.84s] English:** Yes.  
 **Translation:** 
 
-**[12208.72s] English:** Адаптация происходит очень быстро.  
+**[12205.10s] English:** I quickly adapt to some basic level.  
 **Translation:** 
 
-**[12210.96s] English:** Да.  
-**Translation:** 
+**[12208.72s] English:** Adaptation happens very quickly.  
+**Translation:** Vocabulary: adaptation: 适应
 
-**[12211.60s] English:** Но, чувак, исследования говорят, что большинство...  
+**[12210.96s] English:** Yes.  
 **Translation:** 
 
-**[12215.32s] English:** Новая машина — полгода кайфа.  
+**[12211.60s] English:** But, dude, research says that most...  
 **Translation:** 
 
-**[12217.18s] English:** Новый дом — то же самое, а потом все так же.  
+**[12215.32s] English:** New car -- six months of fun.  
 **Translation:** 
 
-**[12219.52s] English:** И ты такой, «Вау, зачем я это покупал?»  
+**[12217.18s] English:** A new home is the same, and then it's all the same.  
 **Translation:** 
 
-**[12221.76s] English:** Изучение гидронической адаптации заставило меня задуматься о минимализме.  
+**[12219.52s] English:** And you're wondering, "Wow, why did I buy this?  
 **Translation:** 
 
-**[12225.88s] English:** И тебе даже не нужно проходить через этот путь к обладанию.  
+**[12221.76s] English:** The study of hydrothermal adaptation has made me reconsider minimalism.  
+**Translation:** Vocabulary: hydrothermal: 热液相关的; minimalism: 极简主义; reconsider: 重新考虑
+
+**[12225.88s] English:** Keep the path to possession even unnecessary for you to go through.  
 **Translation:** 
 
-**[12229.50s] English:** Просто сосредоточься на чем-то более долговечном.  
+**[12229.50s] English:** Just focus on something more lasting.  
 **Translation:** 
 
-**[12234.36s] English:** Да.  
+**[12234.36s] English:** Yes.  
 **Translation:** 
 
-**[12234.68s] English:** Например, создание чего-то.  
+**[12234.68s] English:** For example, creating something.  
 **Translation:** 
 
-**[12236.10s] English:** Да, люди вокруг тебя, те, кого ты любишь.  
+**[12236.10s] English:** Yes, the people around you, those you love.  
 **Translation:** 
 
-**[12238.20s] English:** Хорошая еда.  
+**[12238.20s] English:** Good food.  
 **Translation:** 
 
-**[12238.72s] English:** Да, приятные впечатления.  
+**[12238.72s] English:** Yes, pleasant impressions.  
 **Translation:** 
 
-**[12240.00s] English:** значит моя работа вот что важно физические упражнения это делает тебя  
+**[12240.00s] English:** Meaning my job is what's important: physical exercise makes you.  
 **Translation:** 
 
-**[12244.62s] English:** счастливым меня точно делают ты написал пост почему я недоступен и может вам  
+**[12244.62s] English:** Счастливым меня точно делают, ты написал пост почему я недоступен? И может вам  
 **Translation:** 
 
-**[12250.18s] English:** тоже стоит быть какая у тебя стратегия общения с людьми да когда я написал это  
+**[12250.18s] English:** Also, it's worth having a strategy for communicating with people. When I wrote this,  
 **Translation:** 
 
-**[12255.54s] English:** мне завалили личку хотя у тебя наверное в миллион раз больше и люди злились что  
+**[12255.54s] English:** I got a flood of messages on my personal account, though you probably have way more, and people were angry that  
 **Translation:** 
 
-**[12261.96s] English:** я не отвечал я подумал я просто полностью закрою личку они стали злиться  
+**[12261.96s] English:** I didn't respond; I thought they would just leave me alone, but they became angry.  
 **Translation:** 
 
-**[12267.36s] English:** что я закрыл ее что я больше не человек из на типа ты изменился теперь ты  
+**[12267.36s] English:** What I closed her, that I'm no longer a type of person you thought you had changed now you  
 **Translation:** 
 
-**[12272.40s] English:** изменился теперь ты другой а я говорю я объясню почему у меня просто нет времени  
+**[12272.40s] English:** It has changed now that you're different, and I'm saying I'll explain why, but I simply don't have time.  
 **Translation:** 
 
-**[12277.68s] English:** в сутках чтобы отвечать на каждый вопрос а еще люди шлют тебе всякую дичь например  
+**[12277.68s] English:** In a day to answer every question, people send you all sorts of nonsense, for example,  
 **Translation:** 
 
-**[12284.80s] English:** stalker и пишут свою жизненную историю а потом просят совет чувак я не знаю я не  
-**Translation:** Vocabulary: stalker: 跟踪者
+**[12284.80s] English:** Stalker and write their life story, and then ask for advice. Chuck: I don't know. I don't.  
+**Translation:** Vocabulary: chuck: 查克; stalker: 网络跟踪者
 
-**[12290.46s] English:** терапевт я не разбираюсь но есть и прекрасно абсолютно конечно истории  
+**[12290.46s] English:** Treatments, I don't specialize in them, but there are some that are absolutely wonderful, of course.  
 **Translation:** 
 
-**[12296.08s] English:** жизни я размещаю  
-**Translation:** 
+**[12296.08s] English:** In life, I place  
+**Translation:** Vocabulary: specialize: 专长
 
-**[12297.34s] English:** стил предложение если вы хотите со мной кофе здорово и получил заоблачное число  
+**[12297.34s] English:** Styl: If you want to have coffee with me, great, and he received a stratospheric number.  
 **Translation:** 
 
-**[12302.08s] English:** заявок и когда я их просматривал там были прекрасные люди до истории роста  
-**Translation:** 
+**[12302.08s] English:** Requests, and when I reviewed them, there were wonderful people until the growth history.  
+**Translation:** Vocabulary: stratospheric: 极高的
 
-**[12307.74s] English:** прекрасная да реально мощная история и сердце разрывается что я не смогу с ними  
+**[12307.74s] English:** Beautiful and really powerful story, my heart aches that I won't be able to see them.  
 **Translation:** 
 
-**[12312.76s] English:** встретиться есть такая себе пропускная способность чтобы по-настоящему  
+**[12312.76s] English:** There is such a thing as a meeting capacity to really  
 **Translation:** 
 
-**[12317.80s] English:** рассмотреть других людей чтобы помогать ему понимать их слушать их видеть их да  
+**[12317.80s] English:** To consider other people to help him understand them, listen to them, see them, yes.  
 **Translation:** 
 
-**[12324.86s] English:** у меня тоже проблема я пытаюсь  
+**[12324.86s] English:** I also have a problem. I am trying...  
 **Translation:** 
 
-**[12327.34s] English:** попытаться помочь людям и такой давайте делать стартапы и все такое и за эти годы  
+**[12327.34s] English:** Try to help people, and let's start startups and all that, and over these years.  
 **Translation:** 
 
-**[12333.26s] English:** я понял что обычно для меня это может звучать плохо но я помог своему другу  
-**Translation:** 
+**[12333.26s] English:** I understood that this might usually sound bad for me, but I helped my friend.  
+**Translation:** Vocabulary: startups: 创业公司
 
-**[12338.42s] English:** андре он подошел ко мне в коворкинге там мы познакомились и сказал я хочу  
+**[12338.42s] English:** André approached me in the coworking space, where we met and he said, "I want to...  
 **Translation:** 
 
-**[12342.28s] English:** научиться кодить я сказал что же давай установим  
-**Translation:** 
+**[12342.28s] English:** I learned to code, I said. Let's install it.  
+**Translation:** Vocabulary: approached: 靠近; coworking: 共享办公
 
-**[12345.46s] English:** нжк начнем ходить и у него есть внутренняя энергия которая действительно  
+**[12345.46s] English:** Let's start going, and he has internal energy which is really  
 **Translation:** 
 
-**[12352.26s] English:** его не нужно подталкивать он просто берет и делает спрашивает но не спрашивает слишком много  
+**[12352.26s] English:** His doesn't need to be pushed; he just takes and does, asking but not asking too much.  
 **Translation:** 
 
-**[12357.34s] English:** Он идет вперед и учится, теперь у него своя компания,  
+**[12357.34s] English:** He goes forward and learns. Now he has his own company.  
 **Translation:** 
 
-**[12360.00s] English:** Он немало зарабатывает.  
+**[12360.00s] English:** He earns quite a lot.  
 **Translation:** 
 
-**[12361.46s] English:** Есть свои стартапы.  
+**[12361.46s] English:** There are some startups.  
 **Translation:** 
 
-**[12362.92s] English:** Так что, а те люди, которых мне приходится как бы подталкивать,  
-**Translation:** 
+**[12362.92s] English:** So, as for those people whom I have to kind of nudge along,  
+**Translation:** Vocabulary: nudge: 轻推
 
-**[12366.62s] English:** которые просили моей помощи, а потом начинали спорить?  
+**[12366.62s] English:** Which ones asked for my help and then started arguing?  
 **Translation:** 
 
-**[12370.62s] English:** Да.  
+**[12370.62s] English:** Yes.  
 **Translation:** 
 
-**[12371.10s] English:** У тебя такое бывает?  
+**[12371.10s] English:** Do you ever have days like that?  
 **Translation:** 
 
-**[12372.04s] English:** Люди просят совета, а потом спорят.  
+**[12372.04s] English:** People ask for advice and then argue.  
 **Translation:** 
 
-**[12373.58s] English:** Нет, ты не прав.  
+**[12373.58s] English:** No, you are not right.  
 **Translation:** 
 
-**[12374.56s] English:** Потому что, ладно, бро, я не хочу спорить.  
+**[12374.56s] English:** Because, okay, bro, I don't want to argue.  
 **Translation:** 
 
-**[12376.70s] English:** Ты же сам спросил совета.  
+**[12376.70s] English:** You asked for advice yourself.  
 **Translation:** 
 
-**[12378.44s] English:** Те, кого нужно подталкивать, обычно ничего не добиваются.  
+**[12378.44s] English:** Those who need to be pushed usually accomplish nothing.  
 **Translation:** 
 
-**[12382.88s] English:** У тебя должна быть внутренняя энергия.  
+**[12382.88s] English:** You should have internal energy.  
 **Translation:** 
 
-**[12385.06s] English:** Но они в поиске.  
+**[12385.06s] English:** But they are in search.  
 **Translation:** 
 
-**[12386.16s] English:** Они ищут, пытаются разобраться.  
+**[12386.16s] English:** They are searching, trying to figure it out.  
 **Translation:** 
 
-**[12388.04s] English:** Но часто их поиск...  
+**[12388.04s] English:** But often their search...  
 **Translation:** 
 
-**[12390.00s] English:** Если он увенчается успехом, будет внутри.  
+**[12390.00s] English:** If it succeeds, it will be inside.  
 **Translation:** 
 
-**[12394.32s] English:** Это звучит очень духовно, но нужно самому со всем этим разбираться.  
+**[12394.32s] English:** This sounds very spiritual, but you need to figure it all out for yourself.  
 **Translation:** 
 
-**[12398.96s] English:** Но они тянутся, пытаются спросить у окружающего, у мира,  
+**[12398.96s] English:** But they stretch out, trying to ask the surrounding world.  
 **Translation:** 
 
-**[12403.88s] English:** как прожить эту жизнь, как разобраться.  
+**[12403.88s] English:** How to live through this life, how to figure it out.  
 **Translation:** 
 
-**[12406.36s] English:** Но в итоге ответ найдется в их собственной работе над собой.  
+**[12406.36s] English:** But in the end, the answer will be found in their own self-work.  
 **Translation:** 
 
-**[12410.58s] English:** Буквально звучит тупо, но гуглить и заниматься поиском.  
-**Translation:** 
+**[12410.58s] English:** Literally, it sounds dumb, but googling and doing a search.  
+**Translation:** Vocabulary: googling: 谷歌搜索
 
-**[12414.22s] English:** Да, серфинг — это прокрастинация.  
+**[12414.22s] English:** Yes, surfing is procrastination.  
 **Translation:** 
 
-**[12415.96s] English:** Думаю, отправка людям сообщения — это большая прокрастинация.  
-**Translation:** 
+**[12415.96s] English:** I think sending messages to people is a big form of procrastination.  
+**Translation:** Vocabulary: procrastination: 拖延
 
-**[12418.84s] English:** Векс, как стать успешным?  
+**[12418.84s] English:** Weks, how can I become successful?  
 **Translation:** 
 
-**[12420.00s] English:** Как стать успешным подкастером?  
+**[12420.00s] English:** How can you become a successful podcast host?  
 **Translation:** 
 
-**[12420.60s] English:** Да.  
+**[12420.60s] English:** Yes.  
 **Translation:** 
 
-**[12421.24s] English:** Братан, просто начни.  
+**[12421.24s] English:** Brother, just start.  
 **Translation:** 
 
-**[12423.38s] English:** Просто начни.  
+**[12423.38s] English:** Just start.  
 **Translation:** 
 
-**[12424.14s] English:** Да.  
+**[12424.14s] English:** Yes.  
 **Translation:** 
 
-**[12425.86s] English:** Просто начни.  
+**[12425.86s] English:** Just start.  
 **Translation:** 
 
-**[12427.22s] English:** Я бы не спросил у тебя, как стать успешным подкастером.  
+**[12427.22s] English:** I would not ask you how to become a successful podcast host.  
 **Translation:** 
 
-**[12430.00s] English:** Я бы просто начал, а потом скопировал бы твои методы.  
+**[12430.00s] English:** I would just start, and then copy your methods later.  
 **Translation:** 
 
-**[12432.80s] English:** Я бы сказал, у него черный фон, наверное, мне нужно такое.  
+**[12432.80s] English:** I would say he has a black background, probably. I need something like that.  
 **Translation:** 
 
-**[12435.88s] English:** Да? Пробуй.  
+**[12435.88s] English:** Da? Probiy.  
 **Translation:** 
 
-**[12437.04s] English:** Да, попробуй.  
+**[12437.04s] English:** Yes, try it.  
 **Translation:** 
 
-**[12438.12s] English:** А потом ты поймешь, что дело не в черном фоне, а в чем-то другом.  
+**[12438.12s] English:** Then you will understand that it's not about the black background, but something else.  
 **Translation:** 
 
-**[12441.46s] English:** Продолжай пробовать.  
+**[12441.46s] English:** Continue trying.  
 **Translation:** 
 
-**[12442.80s] English:** Именно.  
+**[12442.80s] English:** Exactly.  
 **Translation:** 
 
-**[12443.46s] English:** Имитация — это сложно.  
-**Translation:** 
+**[12443.46s] English:** Imitation is difficult.  
+**Translation:** Vocabulary: imitation: 模仿
 
-**[12444.76s] English:** Многие копируют, но не продвигаются дальше.  
+**[12444.76s] English:** Many copy, but do not progress further.  
 **Translation:** 
 
-**[12447.90s] English:** Да.  
+**[12447.90s] English:** Yes.  
 **Translation:** 
 
-**[12448.18s] English:** Ты должен понять методы.  
+**[12448.18s] English:** You should understand the methods.  
 **Translation:** 
 
-**[12450.00s] English:** И двигаться дальше.  
+**[12450.00s] English:** Keep moving forward.  
 **Translation:** 
 
-**[12451.20s] English:** Найти себя, найти свое.  
+**[12451.20s] English:** Find yourself, find your own.  
 **Translation:** 
 
-**[12452.68s] English:** Да, ты подражаешь, а потом добавляешь что-то свое.  
-**Translation:** 
+**[12452.68s] English:** Yes, you are mimicking, and then adding something of your own.  
+**Translation:** Vocabulary: mimicking: 模仿
 
-**[12455.26s] English:** Это буквально и есть весь творческий процесс.  
+**[12455.26s] English:** This is literally the entire creative process.  
 **Translation:** 
 
-**[12457.70s] English:** Все базируется на предыдущей работе.  
+**[12457.70s] English:** All bases its work on previous research.  
 **Translation:** 
 
-**[12459.80s] English:** Да.  
+**[12459.80s] English:** Yes.  
 **Translation:** 
 
-**[12460.20s] English:** Главное — не застревать.  
+**[12460.20s] English:** The main thing is not to get stuck.  
 **Translation:** 
 
-**[12461.74s] English:** 24 часа в сутках.  
+**[12461.74s] English:** 24 hours in a day.  
 **Translation:** 
 
-**[12463.48s] English:** Из них 8 сна.  
+**[12463.48s] English:** From them, 8 are nights.  
 **Translation:** 
 
-**[12464.78s] English:** Ты разбиваешь день на части.  
+**[12464.78s] English:** You divide the day into parts.  
 **Translation:** 
 
-**[12466.50s] English:** 90 минут на душ, уборку и кофе.  
+**[12466.50s] English:** 90 minutes for a shower, cleaning, and coffee.  
 **Translation:** 
 
-**[12469.84s] English:** И это все сокращается до нуля.  
+**[12469.84s] English:** And this is all shrinking to zero.  
 **Translation:** 
 
-**[12471.90s] English:** Чувак, это не прям так точно.  
-**Translation:** 
+**[12471.90s] English:** Guy, this isn't exactly right.  
+**Translation:** Vocabulary: shrinking: 缩小
 
-**[12473.18s] English:** Мне пришлось делать что-то среднее.  
+**[12473.18s] English:** I had to do something in between.  
 **Translation:** 
 
-**[12475.48s] English:** Да.  
+**[12475.48s] English:** Yes.  
 **Translation:** 
 
-**[12476.44s] English:** Пожаротушение.  
+**[12476.44s] English:** Fire Extinguishment.  
 **Translation:** 
 
-**[12477.16s] English:** Мне нравится.  
-**Translation:** 
+**[12477.16s] English:** I like it.  
+**Translation:** Vocabulary: extinguishment: 灭火
 
-**[12477.78s] English:** Час на покупку продуктов и дела.  
+**[12477.78s] English:** Chas na kupku produtkov i dela.  
 **Translation:** 
 
-**[12480.70s] English:** Я пытался поминутно разбить то, что делаю за день.  
-**Translation:** 
+**[12480.70s] English:** I tried to break down what I do each day minute by minute.  
+**Translation:** Vocabulary: produtkov: 产品
 
-**[12484.06s] English:** Особенно, когда жизнь была проще.  
+**[12484.06s] English:** Especially when life was simpler.  
 **Translation:** 
 
-**[12486.30s] English:** Помогает понять, где тратится зря много времени.  
+**[12486.30s] English:** Helps understand where a lot of time is wasted.  
 **Translation:** 
 
-**[12490.02s] English:** И что тебе нравится делать?  
+**[12490.02s] English:** What do you like doing?  
 **Translation:** 
 
-**[12493.78s] English:** Сколько минут нужно, чтобы быть счастливым?  
+**[12493.78s] English:** How many minutes does it take to be happy?  
 **Translation:** 
 
-**[12496.16s] English:** Занимаясь тем, что приносит счастье, и сколько для продуктивности.  
+**[12496.16s] English:** Working on what brings you happiness, and how much for productivity.  
 **Translation:** 
 
-**[12499.54s] English:** И ты понимаешь, что в сутках много часов, если тратить их правильно.  
+**[12499.54s] English:** And you understand that there are many hours in a day if you use them correctly.  
 **Translation:** 
 
-**[12503.34s] English:** Да, много времени теряется зря.  
+**[12503.34s] English:** Yes, a lot of time is wasted unnecessarily.  
 **Translation:** 
 
-**[12504.78s] English:** Для меня самая большая борьба всегда была найти промежутки времени,  
-**Translation:** 
+**[12504.78s] English:** For me, the biggest struggle has always been finding time gaps.  
+**Translation:** Vocabulary: unnecessarily: 多余地
 
-**[12509.64s] English:** где я могу глубоко сосредоточиться на работе.  
+**[12509.64s] English:** Where can I deeply focus on my work?  
 **Translation:** 
 
-**[12513.76s] English:** Просто погрузиться и полностью сосредоточиться, чтобы ничего не отвлекало.  
-**Translation:** 
+**[12513.76s] English:** Just immerse yourself and fully concentrate, so that nothing distracts you.  
+**Translation:** Vocabulary: distracts: 分散注意力; immerse: 沉浸
 
-**[12518.96s] English:** У меня так же.  
+**[12518.96s] English:** It's the same for me.  
 **Translation:** 
 
-**[12519.86s] English:** Это борьба.  
+**[12519.86s] English:** This is a fight.  
 **Translation:** 
 
-**[12521.16s] English:** Это неприятно.  
+**[12521.16s] English:** This is unpleasant.  
 **Translation:** 
 
-**[12522.26s] English:** Это крайне неприятно.  
+**[12522.26s] English:** This is extremely unpleasant.  
 **Translation:** 
 
-**[12523.82s] English:** Нам нужно улететь на остров, создать мужской остров,  
+**[12523.82s] English:** We need to fly to an island, create a male island,  
 **Translation:** 
 
-**[12527.12s] English:** где мы сможем просто кодить неделю.  
+**[12527.12s] English:** Where we can just code for a week.  
 **Translation:** 
 
-**[12529.30s] English:** И реально все успевать.  
+**[12529.30s] English:** It really is hard to keep up with everything.  
 **Translation:** 
 
-**[12531.74s] English:** Создавать новые проекты.  
+**[12531.74s] English:** Create new projects.  
 **Translation:** 
 
-**[12533.52s] English:** Да, да.  
+**[12533.52s] English:** Yes, yes.  
 **Translation:** 
 
-**[12534.66s] English:** Но меня называли психопатом за это, ведь там написано «Частный секс, объятие и любовь».  
-**Translation:** 
+**[12534.66s] English:** But I was called a psychopath for that, since it says "Private sex,拥抱和爱".  
+**Translation:** Vocabulary: psychopath: 心理变态
 
-**[12538.64s] English:** Им нужно было что-то написать, и они такие «Ой, этот парень псих, он планирует свой секс в определенное время».  
+**[12538.64s] English:** They needed to write something and they wrote, "Oy, this guy is crazy; he plans his sex at a certain time.  
 **Translation:** 
 
-**[12544.96s] English:** И объятия.  
-**Translation:** 
+**[12544.96s] English:** And embraces.  
+**Translation:** Vocabulary: embraces: 拥抱
 
-**[12545.66s] English:** Бройтов не делают.  
+**[12545.66s] English:** Broytov don't make.  
 **Translation:** 
 
-**[12546.66s] English:** Счетчик есть для них?  
+**[12546.66s] English:** Is a counter for them?  
 **Translation:** 
 
-**[12547.66s] English:** Да, конечно, типа клик-клик-клик.  
+**[12547.66s] English:** Yes, of course, like click-click-click.  
 **Translation:** 
 
-**[12551.66s] English:** Это просто числовое представление того, что такое жизнь.  
-**Translation:** 
+**[12551.66s] English:** This is simply a numerical representation of what life is like.  
+**Translation:** Vocabulary: numerical: 数字的
 
-**[12555.66s] English:** Да.  
+**[12555.66s] English:** Yes.  
 **Translation:** 
 
-**[12556.66s] English:** Это из той оперы, когда рисуешь, сколько недель у тебя в жизни.  
+**[12556.66s] English:** This is from an opera where you draw how many weeks you have in your life.  
 **Translation:** 
 
-**[12560.66s] English:** О, чувак, это мрачно, я не хочу на это смотреть.  
+**[12560.66s] English:** Oh, man, this is dark, I don't want to watch it.  
 **Translation:** 
 
-**[12563.66s] English:** Типа вот черт.  
+**[12563.66s] English:** Type of damn it.  
 **Translation:** 
 
-**[12564.66s] English:** Да, чувак.  
+**[12564.66s] English:** Yes, dude.  
 **Translation:** 
 
-**[12565.66s] English:** Сколько раз увидишь родителей, боже.  
+**[12565.66s] English:** How many times will I see my parents, oh God.  
 **Translation:** 
 
-**[12567.66s] English:** Да.  
+**[12567.66s] English:** Yes.  
 **Translation:** 
 
-**[12568.64s] English:** Это пугает.  
+**[12568.64s] English:** This is scary.  
 **Translation:** 
 
-**[12569.64s] English:** Так и есть.  
+**[12569.64s] English:** So it is.  
 **Translation:** 
 
-**[12570.64s] English:** Может, увидишь их всего пару раз.  
+**[12570.64s] English:** Maybe you'll see them just a couple of times.  
 **Translation:** 
 
-**[12572.64s] English:** Да.  
+**[12572.64s] English:** Yes.  
 **Translation:** 
 
-**[12573.64s] English:** Это математический взгляд.  
-**Translation:** 
+**[12573.64s] English:** This is a mathematical perspective.  
+**Translation:** Vocabulary: mathematical: 数学的
 
-**[12574.64s] English:** Ты видишь их раз или два в год.  
+**[12574.64s] English:** You see them once or twice a year.  
 **Translation:** 
 
-**[12576.64s] English:** Да, сегодня по FaceTime.  
+**[12576.64s] English:** Yes, today via FaceTime.  
 **Translation:** 
 
-**[12577.64s] English:** Да.  
+**[12577.64s] English:** Yes.  
 **Translation:** 
 
-**[12578.64s] English:** Да.  
+**[12578.64s] English:** Yes.  
 **Translation:** 
 
-**[12580.64s] English:** Это как-то мрачно, когда ты видишь кого-то, кого тебе приятно видеть, допустим, друга, но он на окраинах твоего круга друзей, и ты понимаешь, что «Ну, я ведь не видел его уже три года».  
+**[12580.64s] English:** This is kind of grim when you see someone you'd like to see, say a friend, but he's on the outskirts of your circle of friends, and you realize, "Well, I haven't seen him in three years.  
 **Translation:** 
 
-**[12595.64s] English:** Так сколько раз мы еще сможем увидеть его?  
-**Translation:** 
+**[12595.64s] English:** How many times will we still be able to see him?  
+**Translation:** Vocabulary: outskirts: 边缘地带
 
-**[12597.66s] English:** Да.  
+**[12597.66s] English:** Yes.  
 **Translation:** 
 
-**[12598.66s] English:** Сного mounting, нам немало минут.  
-**Translation:** Vocabulary: mounting: 积雪渐厚
+**[12598.66s] English:** Snow mounting, we have quite a few minutes.  
+**Translation:** Vocabulary: mounting: 积聚
 
-**[12599.66s] English:** Но мы все еще сможем увидеться.  
+**[12599.66s] English:** But we will still be able to see each other.  
 **Translation:** 
 
-**[12600.66s] English:** Редактор субтитров М. Лосева  
+**[12600.00s] English:** Do you believe that friends just slowly disappear from your life?  
 **Translation:** 
 
-**[12602.66s] English:** Корректор А. Кулакова  
+**[12600.66s] English:** Subtitles Editor M. Losueva  
 **Translation:** 
 
-**[12600.00s] English:** Веришь, что друзья просто медленно исчезают из твоей жизни?  
-**Translation:** 
+**[12602.66s] English:** Corrector A. Kulakova  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[12605.24s] English:** Твоя группа друзей эволюционирует.  
+**[12605.24s] English:** Your group of friends is evolving.  
 **Translation:** 
 
-**[12607.26s] English:** Да, это так.  
-**Translation:** 
+**[12607.26s] English:** Yes, that's correct.  
+**Translation:** Vocabulary: evolving: 变化中
 
-**[12608.10s] English:** Проблема с Фейсбук в том, что у тебя там школьные друзья,  
+**[12608.10s] English:** The problem with Facebook is that you have there school friends,  
 **Translation:** 
 
-**[12610.92s] English:** с которыми ты дружил в 10 лет, когда он только появился.  
-**Translation:** 
+**[12610.92s] English:** With those whom you befriended in 10 years, when he just appeared.  
+**Translation:** Vocabulary: befriended: 结识
 
-**[12614.24s] English:** Ты надобавлял их в друзья, а потом думаешь, зачем мы снова общаемся?  
+**[12614.24s] English:** You added them as friends, and now you wonder why we're still talking?  
 **Translation:** 
 
-**[12618.30s] English:** Просто сохрани там воспоминания.  
+**[12618.30s] English:** Just keep those memories there.  
 **Translation:** 
 
-**[12620.16s] English:** Жизнь поменялась.  
+**[12620.16s] English:** Life has changed.  
 **Translation:** 
 
-**[12621.78s] English:** Да, может, это мужская тема или что-то еще.  
+**[12621.78s] English:** Yes, maybe it's a male topic or something else.  
 **Translation:** 
 
-**[12625.14s] English:** Есть такие друзья, с которыми я редко общаюсь,  
+**[12625.14s] English:** There are such friends with whom I rarely communicate,  
 **Translation:** 
 
-**[12628.76s] English:** но мы до сих пор дружим.  
+**[12628.76s] English:** We still keep in touch.  
 **Translation:** 
 
-**[12631.10s] English:** Каждый раз, когда я их вижу,  
+**[12631.10s] English:** Every time I see them,  
 **Translation:** 
 
-**[12634.04s] English:** думаю, все потому, что у нас есть основы из кучи общих переживаний и воспоминаний.  
+**[12634.04s] English:** I think it's because we have a foundation of many shared experiences and memories.  
 **Translation:** 
 
-**[12639.52s] English:** Кажется, будто ничего не изменилось,  
+**[12639.52s] English:** It seems as though nothing has changed,  
 **Translation:** 
 
-**[12641.50s] English:** словно мы разговаривали каждый день, даже если не общались год.  
+**[12641.50s] English:** It was as though we were talking every day, even if we hadn't communicated in a year.  
 **Translation:** 
 
-**[12645.24s] English:** Да, да, это глубоко.  
+**[12645.24s] English:** Yes, yes, that's deep.  
 **Translation:** 
 
-**[12647.32s] English:** Да.  
+**[12647.32s] English:** Yes.  
 **Translation:** 
 
-**[12648.52s] English:** Мне не нужно постоянно общаться с ними, чтобы считать их друзьями,  
+**[12648.52s] English:** I don't need to constantly communicate with them to consider them friends.  
 **Translation:** 
 
-**[12652.22s] English:** а есть те, с кем я часто общаюсь.  
+**[12652.22s] English:** There are those with whom I often communicate.  
 **Translation:** 
 
-**[12654.56s] English:** Это зависит от ситуации, но существует сеть,  
+**[12654.56s] English:** This depends on the situation, but there exists a network,  
 **Translation:** 
 
-**[12658.76s] English:** хороших людей, с которыми я их по-настоящему люблю,  
+**[12658.76s] English:** Good people, with whom I truly love being around,  
 **Translation:** 
 
-**[12664.30s] English:** и я всегда могу на них рассчитывать.  
+**[12664.30s] English:** And I always can count on them.  
 **Translation:** 
 
-**[12666.32s] English:** Если кто-то из них позвонит мне посреди ночи, чтобы избавиться от тела,  
+**[12666.32s] English:** If anyone of them calls me in the middle of the night to get rid of a body,  
 **Translation:** 
 
-**[12672.12s] English:** я в деле.  
+**[12672.12s] English:** I am in the deal.  
 **Translation:** 
 
-**[12674.26s] English:** Мне нравится, что это несколько иное определение дружбы,  
+**[12674.26s] English:** I like that this is a slightly different definition of friendship.  
 **Translation:** 
 
-**[12677.30s] English:** но что правда, то...  
+**[12677.30s] English:** But what is true, that...  
 **Translation:** 
 
-**[12678.56s] English:** Настоящий друг?  
+**[12678.56s] English:** A true friend?  
 **Translation:** 
 
-**[12680.06s] English:** В последнее время ты обретаешь известность.  
+**[12680.06s] English:** In the last few days, you've been gaining some fame.  
 **Translation:** 
 
-**[12682.70s] English:** Как это на тебя влияет?  
+**[12682.70s] English:** How does this affect you?  
 **Translation:** 
 
-**[12684.10s] English:** Не совсем в последнее время, все постепенно продолжается.  
+**[12684.10s] English:** Not entirely recently, it's all gradually continuing.  
 **Translation:** 
 
-**[12688.76s] English:** И я не понимаю, почему это продолжается.  
+**[12688.76s] English:** I do not understand why this is continuing.  
 **Translation:** 
 
-**[12692.76s] English:** Это создает давление на тебя.  
+**[12692.76s] English:** This creates pressure on you.  
 **Translation:** 
 
-**[12695.36s] English:** Ты довольно открыт в Твиттер, и ты фактически делаешь все на виду.  
+**[12695.36s] English:** You are quite open on Twitter, and you essentially do everything in plain sight.  
 **Translation:** 
 
-**[12699.96s] English:** Да.  
+**[12699.96s] English:** Yes.  
 **Translation:** 
 
-**[12700.66s] English:** И тебе как будто все равно, слишком ли это технически или что-то еще.  
-**Translation:** 
+**[12700.66s] English:** It seems as though it doesn't matter to you whether this is technically sound or something else.  
+**Translation:** Vocabulary: technically: 技术上
 
-**[12705.96s] English:** Просто выкладываешь.  
+**[12705.96s] English:** Just upload it.  
 **Translation:** 
 
-**[12706.96s] English:** Это давит на тебя?  
+**[12706.96s] English:** Is this pressing on you?  
 **Translation:** 
 
-**[12708.16s] English:** Стала ли популярность причиной, чтобы ты стал более сдержанным?  
+**[12708.16s] English:** Did the rise in popularity become a reason for you to become more reserved?  
 **Translation:** 
 
-**[12713.36s] English:** Чувак, думаю, наоборот.  
-**Translation:** 
+**[12713.36s] English:** Guy, I think the opposite.  
+**Translation:** Vocabulary: popularity: 知名度
 
-**[12715.36s] English:** Люди, за которыми я слежу, интересны по-другому.  
+**[12715.36s] English:** People, whom I am following, are interesting in a different way.  
 **Translation:** 
 
-**[12718.76s] English:** Потому что говорят все.  
+**[12718.76s] English:** Because everyone says so.  
 **Translation:** 
 
-**[12720.00s] English:** что думают или создают и выпускают так скучно когда люди начинают писать только  
+**[12720.00s] English:** What they think or create and release can be so boring when people start writing only  
 **Translation:** 
 
-**[12725.18s] English:** на одну тему да я ничего не знаю их личной жизни но хочу знать ты на  
+**[12725.18s] English:** On one topic, I don't know anything about their personal life, but I want to know you on.  
 **Translation:** 
 
-**[12729.22s] English:** подкастах спрашиваешь о жизненных вещах личности это самая интересная часть  
+**[12729.22s] English:** Podcast, you ask about personal life things—that's the most interesting part.  
 **Translation:** 
 
-**[12733.00s] English:** бизнеса или спорта что скрывается за спортсменом за предпринимателем это  
-**Translation:** 
+**[12733.00s] English:** Business or sports, what lies behind the athlete or the entrepreneur is  
+**Translation:** Vocabulary: entrepreneur: 企业家
 
-**[12738.06s] English:** интересно быть человеком да ты делишься я затвитил и слегка переборщил но мы  
+**[12738.06s] English:** Interesting to be human, don't you think? I retweeted and maybe went a bit overboard, but we  
 **Translation:** 
 
-**[12744.18s] English:** чистили туалет ведь он засорился но это реальные вещи джинсон хуанг глава  
+**[12744.18s] English:** Chistili toyatel, because on zasoril's, but these are real things. Johnson Huang, chairman.  
 **Translation:** 
 
-**[12749.76s] English:** nvidia говорит что начинал с уборки туалетов это было круто ты что-то  
+**[12749.76s] English:** NVIDIA says that it started by cleaning toilets, and this was cool. You said something?  
 **Translation:** 
 
-**[12753.54s] English:** твитнул о ситуации с дэнис я забыл да это было недавно nvidia была основана за  
+**[12753.54s] English:** Tweeted about the situation with Denis, I forgot; it was recently. NVIDIA was founded in  
 **Translation:** 
 
-**[12759.58s] English:** столиком в дэнис и сделал это глубокомысленным да это она nvidia  
+**[12759.58s] English:** Table, Denis, and made it deep-thinking, but that's NVIDIA.  
 **Translation:** 
 
-**[12764.70s] English:** компания с капитализации 3 триллиона долларов была основана в дэнис  
-**Translation:** 
+**[12764.70s] English:** Company with a $3 trillion capitalization was founded in Denis.  
+**Translation:** Vocabulary: capitalization: 市值; trillion: 万亿
 
-**[12768.66s] English:** американской закусочной людям нужно третье место чтобы работать за ноутбуком  
+**[12768.66s] English:** American diners need to have third place to work at a laptop.  
 **Translation:** 
 
-**[12772.72s] English:** и строить следующую триллионную компанию а какие первое второе место дом офис и  
-**Translation:** 
+**[12772.72s] English:** And build the next trillion-dollar company, but what about first and second place, home and office?  
+**Translation:** Vocabulary: diners: 餐馆; laptop: 笔记本电脑
 
-**[12777.96s] English:** что-то между остров  
+**[12777.96s] English:** Something between the island  
 **Translation:** 
 
-**[12779.74s] English:** наверное остров да нужно место чтобы собраться и я нашел историю об этом 400  
+**[12779.74s] English:** Probably an island would be good; it needs a place to gather, and I found a story about this 400.  
 **Translation:** 
 
-**[12785.84s] English:** лет назад в кофейнях европы научная революция и просвещения случились  
+**[12785.84s] English:** A few years ago, in European cafes, the scientific revolution and Enlightenment occurred.  
 **Translation:** 
 
-**[12792.58s] English:** потому что люди собирались в кофейнях пили там кофе и работали работали  
-**Translation:** 
+**[12792.58s] English:** Because people gathered in cafes, drank coffee there, and worked.  
+**Translation:** Vocabulary: enlightenment: 启蒙运动
 
-**[12797.74s] English:** писали проводили дебаты организовывали морские маршруты все это происходило в  
+**[12797.74s] English:** Wrote, conducted debates, organized maritime routes—all this was happening in  
 **Translation:** 
 
-**[12804.52s] English:** кофейнях европы во франции в австрии великобритании в голландии так что мы  
-**Translation:** 
+**[12804.52s] English:** Cafés in Europe, in France, Austria, the United Kingdom, and Holland, so that we  
+**Translation:** Vocabulary: austria: 奥地利; holland: 荷兰; maritime: 航海的; routes: 航线
 
-**[12809.56s] English:** всегда ходили в кафе чтобы работать и чтобы случайно пообщаться с другими  
+**[12809.56s] English:** We always went to cafes to work and to accidentally meet other people.  
 **Translation:** 
 
-**[12814.68s] English:** людьми или начать какой-то бизнес и когда вот и позвал меня сюда мы прилетели  
+**[12814.68s] English:** People or start a business, and when they called me here, we flew in.  
 **Translation:** 
 
-**[12822.06s] English:** в америку и первое что я заметил я был в америке раньше но мы сидели в этом кафе  
+**[12822.06s] English:** In America, and the first thing I noticed—I had been to America before, but we were sitting in this café.  
 **Translation:** 
 
-**[12827.56s] English:** и там было много ноутбуков все чем-то занимались и я сделал это фото но сейчас  
-**Translation:** 
+**[12827.56s] English:** And there were many laptops, everyone was doing something, and I took this photo. But now,  
+**Translation:** Vocabulary: laptops: 笔记本电脑
 
-**[12834.24s] English:** в большей части европы нельзя больше использовать ноутбук жесткие таблички будут-я всё Miles 2000  
+**[12834.24s] English:** In most of Europe, you can no longer use laptops. Hard signs will be posted. I've got 2000 miles to go.  
 **Translation:** 
 
-**[12838.08s] English:** Висят таблички.  
+**[12838.08s] English:** There are signs hanging.  
 **Translation:** 
 
-**[12840.00s] English:** Я понимаю это.  
+**[12840.00s] English:** I understand this.  
 **Translation:** 
 
-**[12841.16s] English:** Но для тебя это важное место для создания чего-то.  
+**[12841.16s] English:** But for you, this is an important place for creating something.  
 **Translation:** 
 
-**[12844.68s] English:** Это естественное, органичное каворкинг-пространство в кофейне.  
+**[12844.68s] English:** This is a natural, organic co-working space in the café.  
 **Translation:** 
 
-**[12849.74s] English:** Для многих, очень многих, маленькие дома.  
+**[12849.74s] English:** For many, very many, small homes.  
 **Translation:** 
 
-**[12852.38s] English:** А каворкинги немного скучные, они не особо...  
+**[12852.38s] English:** Cavortings are a bit boring; they aren't particularly...  
 **Translation:** 
 
-**[12856.46s] English:** Они закрытые.  
-**Translation:** 
+**[12856.46s] English:** They are closed.  
+**Translation:** Vocabulary: cavortings: 嬉戏
 
-**[12857.76s] English:** В них нет спонтанности, немного скучные.  
+**[12857.76s] English:** They lack spontaneity, and are a bit dull.  
 **Translation:** 
 
-**[12860.86s] English:** Кафе потрясающе, ведь могут зайти случайные люди и спросить, над чем работаешь.  
-**Translation:** 
+**[12860.86s] English:** Cafe is terrific because random people might walk in and ask what I'm working on.  
+**Translation:** Vocabulary: spontaneity: 随机性
 
-**[12865.36s] English:** И дело не в ноутбуках, еще люди общаются и ведут дебаты, как 400 лет назад, что-то происходит.  
+**[12865.36s] English:** And it's not about laptops; people still communicate and debate as they did 400 years ago, something is happening.  
 **Translation:** 
 
-**[12871.88s] English:** И, чувак, я понимаю эту эстетику.  
-**Translation:** 
+**[12871.88s] English:** And, dude, I get this aesthetics.  
+**Translation:** Vocabulary: aesthetics: 审美
 
-**[12875.50s] English:** Все думают, о, еще один стартапер, запускающий очередную ерунду.  
+**[12875.50s] English:** All think, oh, just another startup guy launching yet another nonsense product.  
 **Translation:** 
 
-**[12880.02s] English:** Но в этом есть что-то большее.  
+**[12880.02s] English:** But there is something greater in this.  
 **Translation:** 
 
-**[12881.72s] English:** Люди реально что-то создают.  
+**[12881.72s] English:** People are really creating something.  
 **Translation:** 
 
-**[12883.40s] English:** Новые компании, от которых выигрывает общество.  
+**[12883.40s] English:** New companies, from which society benefits.  
 **Translation:** 
 
-**[12886.36s] English:** Мы выигрываем от NVIDIA.  
+**[12886.36s] English:** We benefit from NVIDIA.  
 **Translation:** 
 
-**[12887.92s] English:** Думаю, что ВВП США точно выигрывает от NVIDIA.  
+**[12887.92s] English:** I think that the GDP of the USA definitely benefits from NVIDIA.  
 **Translation:** 
 
-**[12891.90s] English:** Европейский ВВП тоже мог бы выиграть таким образом.  
+**[12891.90s] English:** European GDP could also benefit in this way.  
 **Translation:** 
 
-**[12894.58s] English:** И я чувствую, что в Европе есть этот вайб.  
+**[12894.58s] English:** I feel that there's this vibe in Europe.  
 **Translation:** 
 
-**[12898.62s] English:** Нужно соединить эти два момента, а не запрещать ноутбуки в кафе.  
+**[12898.62s] English:** We need to connect these two moments, rather than banning laptops in cafes.  
 **Translation:** 
 
-**[12902.10s] English:** Это же часть вайба.  
-**Translation:** 
+**[12902.10s] English:** This is just part of the vibe.  
+**Translation:** Vocabulary: banning: 禁止
 
-**[12903.84s] English:** Да, мы здесь не для работы, а чтобы наслаждаться жизнью.  
+**[12903.84s] English:** Yes, we are here not for work, but to enjoy life.  
 **Translation:** 
 
-**[12906.52s] English:** Я согласен с Энтони Бурденом.  
-**Translation:** 
+**[12906.52s] English:** I agree with Anthony Burden.  
+**Translation:** Vocabulary: burden: 负担
 
-**[12908.36s] English:** Например, этот твит ссылается на фото Энтони Бурдена с сигаретой и кофе во Франции.  
+**[12908.36s] English:** For example, this tweet references a photo of Anthony Bourdain with a cigarette and coffee in France.  
 **Translation:** 
 
-**[12913.48s] English:** И он сказал, вот для чего кафе.  
-**Translation:** 
+**[12913.48s] English:** He said, "This is what a cafe is for.  
+**Translation:** Vocabulary: bourdain: 布尔丹
 
-**[12915.18s] English:** Я согласен.  
+**[12915.18s] English:** I agree.  
 **Translation:** 
 
-**[12915.86s] English:** Но есть и элемент предпринимательства.  
-**Translation:** 
+**[12915.86s] English:** But there is also an element of entrepreneurship.  
+**Translation:** Vocabulary: entrepreneurship: 创业精神
 
-**[12919.48s] English:** Вы должны позволить людям мечтать о большом и усердно работать ради своей мечты.  
+**[12919.48s] English:** You should allow people to dream big and work hard towards their dreams.  
 **Translation:** 
 
-**[12924.58s] English:** И чувствовать энергию друг друга от взаимодействия.  
+**[12924.58s] English:** To feel the energy of each other from interaction.  
 **Translation:** 
 
-**[12927.10s] English:** Да.  
+**[12927.10s] English:** Yes.  
 **Translation:** 
 
-**[12927.36s] English:** Это мне и нравилось в Кремниевой долине, когда я там работал.  
+**[12927.36s] English:** This is what I liked about Silicon Valley when I worked there.  
 **Translation:** 
 
-**[12931.00s] English:** Это кафе.  
+**[12931.00s] English:** This is a cafe.  
 **Translation:** 
 
-**[12932.14s] English:** Да.  
+**[12932.14s] English:** Yes.  
 **Translation:** 
 
-**[12932.70s] English:** Там полно мечтателей.  
+**[12932.70s] English:** There are plenty of dreamers there.  
 **Translation:** 
 
-**[12933.96s] English:** Можно смеяться, что все они думают, будто создадут триллионную компанию, но как бы...  
+**[12933.96s] English:** Can people laugh about how they all think they'll create a trillion-dollar company, but as would often be the case...  
 **Translation:** 
 
-**[12938.48s] English:** Да не все побеждают, 99% людей сядут на улицу.  
+**[12938.48s] English:** Not everyone wins; 99% of people will end up on the street.  
 **Translation:** 
 
-**[12941.28s] English:** Но они работают, не покладая рук.  
+**[12941.28s] English:** But they work hard, never resting.  
 **Translation:** 
 
-**[12943.10s] English:** Да, они заняты делом, но...  
+**[12943.10s] English:** Yes, they are busy with their work, but...  
 **Translation:** 
 
-**[12945.04s] English:** Нужно пройти этот уровень стартап-брос.  
+**[12945.04s] English:** We need to pass this startup crash course.  
 **Translation:** 
 
-**[12946.92s] English:** О, это уровень стартап-брос.  
+**[12946.92s] English:** Oh, this is a startup pitch level.  
 **Translation:** 
 
-**[12948.44s] English:** Нет, они делают крутые штуки.  
+**[12948.44s] English:** No, they are doing some cool stuff.  
 **Translation:** 
 
-**[12950.48s] English:** И это принесет вам пользу, ведь создаст рабочие места для вашей страны и вашего региона.  
+**[12950.48s] English:** And this will bring you benefit, as it will create jobs for your country and your region.  
 **Translation:** 
 
-**[12954.58s] English:** И я думаю, что в Европе это большая проблема.  
+**[12954.58s] English:** I think that in Europe, this is a big problem.  
 **Translation:** 
 
-**[12958.68s] English:** У нас очень антипредприятие...  
+**[12958.68s] English:** We have very anti-business...  
 **Translation:** 
 
-**[12960.00s] English:** Занимательский настрой.  
+**[12960.00s] English:** Interesting tone.  
 **Translation:** 
 
-**[12962.86s] English:** Мечтай по-крупному и твори.  
+**[12962.86s] English:** Dream big and create.  
 **Translation:** 
 
-**[12964.58s] English:** Да.  
+**[12964.58s] English:** Yes.  
 **Translation:** 
 
-**[12964.88s] English:** Это очень вдохновляет.  
+**[12964.88s] English:** This is very inspiring.  
 **Translation:** 
 
-**[12966.18s] English:** Это был один из твоих твитов.  
-**Translation:** 
+**[12966.18s] English:** This was one of your tweets.  
+**Translation:** Vocabulary: tweets: 微博
 
-**[12968.12s] English:** Все твои проекты и те, которые удались.  
+**[12968.12s] English:** All your projects and those that succeeded.  
 **Translation:** 
 
-**[12972.66s] English:** Их очень мало.  
+**[12972.66s] English:** They are very few.  
 **Translation:** 
 
-**[12973.84s] English:** Глухая жизнь.  
+**[12973.84s] English:** Deafening silence.  
 **Translation:** 
 
-**[12975.56s] English:** Это было для Твиттер, чтобы делиться списком мьюта.  
-**Translation:** 
+**[12975.56s] English:** This was for Twitter to share a mute list.  
+**Translation:** Vocabulary: deafening: 震耳欲聋的
 
-**[12978.88s] English:** Да.  
+**[12978.88s] English:** Yes.  
 **Translation:** 
 
-**[12980.62s] English:** Замьюченные слова.  
+**[12980.62s] English:** Closed words.  
 **Translation:** 
 
-**[12981.60s] English:** Калькулятор пожаров.  
+**[12981.60s] English:** Fire Calculator.  
 **Translation:** 
 
-**[12982.92s] English:** Хватит гуглить.  
-**Translation:** 
+**[12982.92s] English:** Stop googling.  
+**Translation:** Vocabulary: calculator: 计算工具
 
-**[12984.14s] English:** Сделай рейтинг.  
+**[12984.14s] English:** Make a rating.  
 **Translation:** 
 
-**[12984.98s] English:** Сколько стоит мой побочный проект?  
+**[12984.98s] English:** How much does my side project cost?  
 **Translation:** 
 
-**[12987.28s] English:** Клаймайт Файндер.  
+**[12987.28s] English:** Claim Finder.  
 **Translation:** 
 
-**[12988.62s] English:** Айдиас АйАй.  
+**[12988.62s] English:** ID IAIA.  
 **Translation:** 
 
-**[12990.02s] English:** Эйрлайнлист работает, но не приносит денег.  
+**[12990.02s] English:** Airline list works, but does not bring in money.  
 **Translation:** 
 
-**[12992.52s] English:** Он сравнивает безопасность авиакомпании.  
+**[12992.52s] English:** He compares the safety of airlines.  
 **Translation:** 
 
-**[12994.86s] English:** Потому что я боялся летать.  
+**[12994.86s] English:** Because I was afraid to fly.  
 **Translation:** 
 
-**[12996.54s] English:** И подумал, а давайте соберем все данные о крушениях всех самолетов.  
+**[12996.54s] English:** He thought, let's gather all the data on airplane crashes.  
 **Translation:** 
 
-**[13000.56s] English:** Подводный кабель в Бали.  
+**[13000.56s] English:** Underwater cable in Bali.  
 **Translation:** 
 
-**[13002.68s] English:** Круто. Это классно.  
+**[13002.68s] English:** Cool. This is awesome.  
 **Translation:** 
 
-**[13004.94s] English:** Построить деревню.  
+**[13004.94s] English:** Build a village.  
 **Translation:** 
 
-**[13006.26s] English:** Снаряжение для намадов.  
+**[13006.26s] English:** Gear for camping.  
 **Translation:** 
 
-**[13008.06s] English:** 3D и разработка VR.  
+**[13008.06s] English:** 3D and VR Development.  
 **Translation:** 
 
-**[13010.34s] English:** Игра в моем инбоксе.  
+**[13010.34s] English:** Game in my inbox.  
 **Translation:** 
 
-**[13011.98s] English:** Как ты говорил.  
+**[13011.98s] English:** As you said.  
 **Translation:** 
 
-**[13013.10s] English:** Много всего.  
+**[13013.10s] English:** Many things.  
 **Translation:** 
 
-**[13013.84s] English:** Да.  
+**[13013.84s] English:** Yes.  
 **Translation:** 
 
-**[13014.60s] English:** Я пытаюсь найти твои постыдные твиты.  
+**[13014.60s] English:** I am trying to find your embarrassing tweets.  
 **Translation:** 
 
-**[13016.84s] English:** Можешь перейти в раздел хайлайтс.  
+**[13016.84s] English:** You can switch to the Highlights section.  
 **Translation:** 
 
-**[13018.44s] English:** Там типа все самое крутое.  
-**Translation:** 
+**[13018.44s] English:** There, supposedly, is all the coolest stuff.  
+**Translation:** Vocabulary: highlights: 精华部分
 
-**[13020.32s] English:** Вот так.  
+**[13020.32s] English:** Here it is.  
 **Translation:** 
 
-**[13021.38s] English:** Это было в Дубае.  
-**Translation:** 
+**[13021.38s] English:** This was in Dubai.  
+**Translation:** Vocabulary: dubai: 迪拜
 
-**[13022.66s] English:** POV. Создание и стартапа.  
+**[13022.66s] English:** POV: Creation and Startups.  
 **Translation:** 
 
-**[13025.96s] English:** Ты настоящий инфлюенсер.  
-**Translation:** 
+**[13025.96s] English:** You are a genuine influencer.  
+**Translation:** Vocabulary: influencer: 有影响力的人; startups: 初创公司
 
-**[13029.22s] English:** Теперь люди копируют это фото и меняют скриншоты.  
+**[13029.22s] English:** Now people are copying this photo and changing the screenshots.  
 **Translation:** 
 
-**[13032.66s] English:** Оно стало мемом.  
+**[13032.66s] English:** It became a meme.  
 **Translation:** 
 
-**[13034.44s] English:** Ты, конечно, знаешь.  
+**[13034.44s] English:** You, of course, know.  
 **Translation:** 
 
-**[13036.32s] English:** Это прекрасно.  
+**[13036.32s] English:** This is wonderful.  
 **Translation:** 
 
-**[13037.90s] English:** Так выглядит Дубай. Безумие.  
+**[13037.90s] English:** This is how Dubai looks. Madness.  
 **Translation:** 
 
-**[13039.56s] English:** Красиво. Архитектура невероятна.  
-**Translation:** 
+**[13039.56s] English:** Beautiful. The architecture is incredible.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[13041.54s] English:** История этих городов потрясающая.  
+**[13041.54s] English:** The history of these cities is amazing.  
 **Translation:** 
 
-**[13043.52s] English:** Да, история безусловна.  
-**Translation:** 
+**[13043.52s] English:** Yes, historyundeniable.  
+**Translation:** Vocabulary: historyundeniable: 历史不容置疑
 
-**[13045.18s] English:** Это про европейскую экономику.  
+**[13045.18s] English:** This is about European economics.  
 **Translation:** 
 
-**[13046.84s] English:** Экономическая система ЕС управляется динозаврами.  
+**[13046.84s] English:** The economic system of the EU is run by dinosaurs.  
 **Translation:** 
 
-**[13049.66s] English:** И сегодня я изучал это, чтобы предоставить вам свои доказательства.  
+**[13049.66s] English:** Today, I studied this to provide you with my proofs.  
 **Translation:** 
 
-**[13053.26s] English:** 80% ведущих компаний ЕС были основаны до 1950-го.  
-**Translation:** 
+**[13053.26s] English:** 80% of leading companies in the EU were founded before 1950.  
+**Translation:** Vocabulary: proofs: 证据
 
-**[13058.26s] English:** В США лишь 36% ведущих компаний были основаны до 1950-го.  
+**[13058.26s] English:** In the United States, only 36% of leading companies were founded before 1950.  
 **Translation:** 
 
-**[13062.68s] English:** Да, средний год оснований компаний в США что-то вроде 1960-го.  
-**Translation:** 
+**[13062.68s] English:** Yes, the average year for founding companies in the US is something around 1960.  
+**Translation:** Vocabulary: founding: 创立
 
-**[13067.06s] English:** Если говорить о ведущих компаниях.  
+**[13067.06s] English:** If we talk about leading companies.  
 **Translation:** 
 
-**[13069.46s] English:** А в Европе этот год около 1900-го или что-то такое.  
+**[13069.46s] English:** In Europe, this year was around 1900 or so.  
 **Translation:** 
 
-**[13073.06s] English:** Да.  
+**[13073.06s] English:** Yes.  
 **Translation:** 
 
-**[13073.40s] English:** Здесь указано 1913 и 1963. Разница в 50 лет.  
+**[13073.40s] English:** Here is indicated 1913 and 1963. The difference is 50 years.  
 **Translation:** 
 
-**[13077.82s] English:** Это хорошая информация.  
+**[13077.82s] English:** This is good information.  
 **Translation:** 
 
-**[13080.00s] English:** Представление того, о чем ты говорил, разницы в культурах, предпринимательском духе народов.  
-**Translation:** 
+**[13080.00s] English:** Presentation of what you talked about, the differences in cultures and entrepreneurial spirit among peoples.  
+**Translation:** Vocabulary: entrepreneurial: 创业精神
 
-**[13085.80s] English:** Раньше в Европе компании основывались в 1800-м, 850-м, 1900-м.  
+**[13085.80s] English:** Earlier in Europe, companies were founded in 1800, 850, and 1900.  
 **Translation:** 
 
-**[13090.94s] English:** Все изменилось где-то в 1950-м, когда Америка взяла лидерство.  
+**[13090.94s] English:** All changed somewhere in the 1950s when America took the lead.  
 **Translation:** 
 
-**[13096.02s] English:** Моя мысль в том, что я надеюсь, ведь я европеец, я надеюсь, что Европа вернется к предпринимательской культуре  
+**[13096.02s] English:** My thought is that I hope Europe will return to a entrepreneurial culture, since I am a European.  
 **Translation:** 
 
-**[13101.90s] English:** и снова начнет строить крупные компании.  
+**[13101.90s] English:** And again, it will start building large companies.  
 **Translation:** 
 
-**[13104.60s] English:** Вот сейчас экономику контролируют компании-динозавры, лоббируя интересы в правительстве.  
+**[13104.60s] English:** Here's the current economy controlled by corporate dinosaurs, lobbying interests in government.  
 **Translation:** 
 
-**[13110.00s] English:** В Европе они проникли в правительство, где создается куча регуляций.  
+**[13110.00s] English:** In Europe, they have infiltrated the government, where a multitude of regulations are being created.  
 **Translation:** 
 
-**[13115.30s] English:** Это вроде называется регуляторный захват.  
+**[13115.30s] English:** This seems to be called regulatory capture.  
 **Translation:** 
 
-**[13118.04s] English:** Когда новичкам очень сложно попасть в отрасль, ведь слишком много регуляций.  
-**Translation:** 
+**[13118.04s] English:** When newcomers find it very difficult to enter the industry because there are too many regulations.  
+**Translation:** Vocabulary: newcomers: 新进入者; regulatory: 监管
 
-**[13122.86s] English:** Регуляции очень выгодны крупным компаниям, они могут их соблюдать, а я не могу.  
+**[13122.86s] English:** Regulations are very beneficial for large companies; they can comply with them, while I cannot.  
 **Translation:** 
 
-**[13127.16s] English:** Если я сейчас захочу начать стартап на базе ИИ в Европе, то не смогу, ведь есть регулирование ИИ, которое делает это очень сложным.  
-**Translation:** 
+**[13127.16s] English:** If I were to start an AI startup in Europe right now, I wouldn't be able to, as there is AI regulation that makes it very difficult.  
+**Translation:** Vocabulary: beneficial: 有利的; cannot: 不能
 
-**[13134.10s] English:** Мне нужно будет привлекать нотариусов, получать сертификаты, лицензии.  
+**[13134.10s] English:** I will need to involve notaries, obtain certificates and licenses.  
 **Translation:** 
 
-**[13138.50s] English:** В то время как в Америке я могу просто...  
-**Translation:** 
+**[13138.50s] English:** While in America, I can simply...  
+**Translation:** Vocabulary: certificates: 证明文件
 
-**[13139.98s] English:** открыть ноутбук и хоть сейчас начать стартап на базе ИИ.  
+**[13139.98s] English:** Open the laptop and start a startup based on AI right now.  
 **Translation:** 
 
-**[13144.30s] English:** В основном.  
-**Translation:** 
+**[13144.30s] English:** Mainly.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
-**[13146.02s] English:** Что думаешь о ИАК? Эффективный акцелерационизм.  
+**[13146.02s] English:** What do you think about IAQ? Effective accelerationism.  
 **Translation:** 
 
-**[13149.60s] English:** У тебя был Беф Джезас, я его обожаю, он потрясающий.  
+**[13149.60s] English:** You had Beef Jesús; I love it; it's amazing.  
 **Translation:** 
 
-**[13153.24s] English:** И я думаю, что ИАК очень нужен, чтобы создать более позитивный взгляд на будущее.  
+**[13153.24s] English:** I think that IAQ is very needed to create a more positive outlook on the future.  
 **Translation:** 
 
-**[13160.86s] English:** Потому что люди очень пессимистичны.  
-**Translation:** 
+**[13160.86s] English:** Because people are very pessimistic.  
+**Translation:** Vocabulary: outlook: 前景; pessimistic: 悲观的
 
-**[13164.68s] English:** Насчет общества, насчет будущего общества, насчет изменений климата и всего такого.  
+**[13164.68s] English:** Regarding society, the future of society, climate change and all that.  
 **Translation:** 
 
-**[13169.98s] English:** ИАК это позитивный взгляд на будущее.  
+**[13169.98s] English:** IAK is a positive outlook on the future.  
 **Translation:** 
 
-**[13172.26s] English:** Технологии могут сделать нас...  
+**[13172.26s] English:** Technologies may make us...  
 **Translation:** 
 
-**[13174.36s] English:** Нам нужно тратить больше энергии.  
+**[13174.36s] English:** We need to spend more energy.  
 **Translation:** 
 
-**[13176.86s] English:** Да, нужно искать способы получать чистую энергию, но нужно тратить больше энергии.  
+**[13176.86s] English:** Yes, we need to find ways to obtain clean energy, but we need to spend more energy.  
 **Translation:** 
 
-**[13180.44s] English:** На создание крутых вещей, выход в космос и...  
+**[13180.44s] English:** On creating cool things, going to space and...  
 **Translation:** 
 
-**[13183.86s] English:** строить больше технологий, улучшающих общество.  
+**[13183.86s] English:** To build more technologies that improve society.  
 **Translation:** 
 
-**[13187.22s] English:** Нам не следует бояться технологий.  
+**[13187.22s] English:** We should not be afraid of technologies.  
 **Translation:** 
 
-**[13188.94s] English:** Они могут быть ответом на многое.  
+**[13188.94s] English:** They may be the answer to many things.  
 **Translation:** 
 
-**[13191.48s] English:** Да, строить больше.  
+**[13191.48s] English:** Yes, let's build more.  
 **Translation:** 
 
-**[13193.38s] English:** Не тратьте столько времени на нагнетание страха, и осторожности, и все такое.  
+**[13193.38s] English:** Do not spend so much time building up fear and caution, and all that.  
 **Translation:** 
 
-**[13198.60s] English:** Да.  
+**[13198.60s] English:** Yes.  
 **Translation:** 
 
-**[13199.10s] English:** Все такое.  
+**[13199.10s] English:** All of it is like that.  
 **Translation:** 
 
-**[13200.00s] English:** Что-то нормально, что-то хорошо, но нужно тратить больше времени на строительство и создание, и делать это без стеснения.  
-**Translation:** 
+**[13200.00s] English:** Something is normal, something is good, but we need to spend more time on construction and creation, and do it without hesitation.  
+**Translation:** Vocabulary: hesitation: 犹豫
 
-**[13207.90s] English:** Это освежающее напоминание о том, что сделало Соединенные Штаты великими, как ты сказал, предпринимателям.  
+**[13207.90s] English:** This is a refreshing reminder of what made the United States great, as you said, to entrepreneurs.  
 **Translation:** 
 
-**[13214.28s] English:** Да.  
-**Translation:** 
+**[13214.28s] English:** Yes.  
+**Translation:** Vocabulary: entrepreneurs: 企业家; reminder: 提醒
 
-**[13214.96s] English:** Мы не можем забывать об этом во всех этих разговорах, о том, как технологии могут пойти не туда.  
+**[13214.96s] English:** We cannot forget about this in all these discussions about how technologies might go wrong.  
 **Translation:** 
 
-**[13219.90s] English:** Да, взять вот Китай, он сейчас на стадии, на которой были США где-то в 1900-м.  
+**[13219.90s] English:** Yes, take China, for example; it is currently at a stage similar to where the United States was around 1900.  
 **Translation:** 
 
-**[13224.94s] English:** Они строят с бешеной скоростью, и, конечно, у Китая огромные проблемы.  
+**[13224.94s] English:** They are building at a frenzied speed, and, of course, China has enormous problems.  
 **Translation:** 
 
-**[13230.00s] English:** Но это идет рука об руку с тем, с чего начинала Америка, с огромных проблем.  
-**Translation:** 
+**[13230.00s] English:** But this goes hand in hand with what America started with, with enormous problems.  
+**Translation:** Vocabulary: frenzied: 狂热的
 
-**[13234.40s] English:** Да?  
+**[13234.40s] English:** Ah?  
 **Translation:** 
 
-**[13235.88s] English:** Но я думаю, что для страны или региона, как Европа, очень опасно, когда вы доходите до точки комфорта и самодовольства.  
+**[13235.88s] English:** But I think it is very dangerous for a country or region, like Europe, when you reach the point of comfort and self-satisfaction.  
 **Translation:** 
 
-**[13245.66s] English:** И тогда вы можете либо пойти сюда, либо туда, идете отсюда, либо туда, либо сюда.  
+**[13245.66s] English:** Then you can go here or there, and you go from here, or there, or here.  
 **Translation:** 
 
-**[13252.82s] English:** Думаю, нужно идти туда.  
+**[13252.82s] English:** I think we should go there.  
 **Translation:** 
 
-**[13255.62s] English:** Рвануть вперед.  
+**[13255.62s] English:** Rip forward.  
 **Translation:** 
 
-**[13256.64s] English:** Да, вырваться вперед.  
+**[13256.64s] English:** Yes, to break ahead.  
 **Translation:** 
 
-**[13257.98s] English:** Думаю, проблема в культуре мышления, поэтому ИАК, я создал ИУАК, это европейская версия.  
+**[13257.98s] English:** I think the problem is in the culture of thinking, so I created IUAK, which is the European version.  
 **Translation:** 
 
-**[13265.78s] English:** Правильно.  
+**[13265.78s] English:** Correct.  
 **Translation:** 
 
-**[13266.58s] English:** Я сделал худи, а теперь многие носят кепки, сделаем Европу снова великой.  
+**[13266.58s] English:** I made a hoodie, and now many people wear caps. Let's make Europe great again.  
 **Translation:** 
 
-**[13271.26s] English:** Да.  
-**Translation:** 
+**[13271.26s] English:** Yes.  
+**Translation:** Vocabulary: hoodie: 卫衣
 
-**[13271.96s] English:** Сначала я сделал их красными, но они стали слишком трамповскими, и теперь они синие.  
+**[13271.96s] English:** First, I made them red, but they became too Trumpish, and now they are blue.  
 **Translation:** 
 
-**[13276.44s] English:** Сделаем Европу снова великой.  
-**Translation:** 
+**[13276.44s] English:** Let's make Europe great again.  
+**Translation:** Vocabulary: trumpish: 特朗普风格的
 
-**[13279.50s] English:** Отлично.  
+**[13279.50s] English:** Great.  
 **Translation:** 
 
-**[13281.88s] English:** В общем, у тебя невероятная жизнь.  
+**[13281.88s] English:** In general, you have an incredible life.  
 **Translation:** 
 
-**[13286.38s] English:** Очень успешная.  
+**[13286.38s] English:** Very successful.  
 **Translation:** 
 
-**[13287.38s] English:** Ты создал много.  
+**[13287.38s] English:** You have created a lot.  
 **Translation:** 
 
-**[13287.98s] English:** Много чего крутого.  
+**[13287.98s] English:** Many cool things.  
 **Translation:** 
 
-**[13289.18s] English:** Дай совет молодым людям, чтобы они сделали то же самое.  
+**[13289.18s] English:** Give advice to young people so that they do the same thing.  
 **Translation:** 
 
-**[13292.26s] English:** Я бы вообще никого не слушал.  
+**[13292.26s] English:** I would listen to nobody at all.  
 **Translation:** 
 
-**[13293.68s] English:** Делай то, что считаешь правильным, и следуй зову сердца.  
+**[13293.68s] English:** Do what you believe is right, and follow your heart's call.  
 **Translation:** 
 
-**[13296.76s] English:** Ведь так, да?  
+**[13296.76s] English:** Well, isn't that so, yes?  
 **Translation:** 
 
-**[13297.92s] English:** Все вокруг будут давить, заставлять делать то, чего ты не хочешь.  
+**[13297.92s] English:** All around you will be putting pressure on you, making you do things you don't want to.  
 **Translation:** 
 
-**[13301.60s] English:** И они говорят тебе, родители или семья, или общество будут твердить.  
+**[13301.60s] English:** They will tell you, parents or family, or society will insist.  
 **Translation:** 
 
-**[13305.56s] English:** Но попробуй что-то свое.  
+**[13305.56s] English:** But try something of your own.  
 **Translation:** 
 
-**[13307.92s] English:** Это может сработать.  
+**[13307.92s] English:** This may work.  
 **Translation:** 
 
-**[13309.72s] English:** Ты сам рулевой своего корабля.  
+**[13309.72s] English:** You are the captain of your own ship.  
 **Translation:** 
 
-**[13311.94s] English:** Наверное, сразу не получится, и ты, возможно, столкнешься с трудностями, как я.  
+**[13311.94s] English:** Probably, it won't happen right away, and you might face difficulties like I did.  
 **Translation:** 
 
-**[13316.34s] English:** Относительно, да?  
+**[13316.34s] English:** Regarding that, isn't it?  
 **Translation:** 
 
-**[13317.00s] English:** Да.  
+**[13317.00s] English:** Yes.  
 **Translation:** 
 
-**[13317.38s] English:** Но если ты подходишь к делу с умом, ты можешь добиться...  
+**[13317.38s] English:** But if you approach it with intelligence, you can achieve...  
 **Translation:** 
 
-**[13320.00s] English:** всего и быть автором своей жизни как ты как я я думаю это стоит продвигать  
+**[13320.00s] English:** It's all about being the author of your own life, as you and I. I think this is worth promoting.  
 **Translation:** 
 
-**[13325.94s] English:** сильнее делай свое дело в экономике и в обществе для него найдется место как  
+**[13325.94s] English:** Stronger, do your work in the economy and society for him, and he will find his place as well.  
 **Translation:** 
 
-**[13331.76s] English:** маленькие деревни где все что-то продают я продаю хлеб ты продаешь мясо каждый  
+**[13331.76s] English:** Small villages where everyone sells something—I sell bread, you sell meat, each one.  
 **Translation:** 
 
-**[13336.56s] English:** может заниматься своим делом не обязательно быть норме сам как ты  
+**[13336.56s] English:** May be able to attend to his own business not necessarily have to be normal as you.  
 **Translation:** 
 
-**[13341.38s] English:** говоришь ты можешь быть тем кем ты хочешь и полностью отдаться этому делу  
+**[13341.38s] English:** You can be whoever you want to be and fully commit to that.  
 **Translation:** 
 
-**[13347.76s] English:** да нужно выкладываться по полной ведь если делать все наполовину успеха не  
-**Translation:** 
+**[13347.76s] English:** Yes, we need to give it our all, for if we do everything halfway, there will be no success.  
+**Translation:** Vocabulary: halfway: 敷衍了事
 
-**[13352.26s] English:** видать нужно полностью погрузиться свое не как все принять свою инаковость и  
+**[13352.26s] English:** It seems we need to fully immerse ourselves, not try to change everything, but to embrace our differences and  
 **Translation:** 
 
-**[13359.40s] English:** просто делать то что ты хочешь делать у тебя целый арсенал  
-**Translation:** 
+**[13359.40s] English:** Just do what you want to do; you have an arsenal at your disposal.  
+**Translation:** Vocabulary: arsenal: 武器库; disposal: 处置; embrace: 接纳; immerse: 沉浸
 
-**[13364.10s] English:** да целый арсенал это была невероятная беседа честь наконец-то познакомиться с  
+**[13364.10s] English:** Yes, it was a whole arsenal of a conversation. What an incredible chat; it's such an honor finally to meet you.  
 **Translation:** 
 
-**[13369.18s] English:** тобой честь быть здесь ли и поговорить продолжай свое дело продолжай  
+**[13369.18s] English:** To be here and talk, continue with your work, please.  
 **Translation:** 
 
-**[13373.64s] English:** вдохновлять меня и мир крутыми штуками которые ты создаешь спасибо  
+**[13373.64s] English:** Inspire me and the world with the cool things you create. Thanks.  
 **Translation:** 
 
-**[13377.74s] English:** дружище спасибо что прослушали этот разговор с  
+**[13377.74s] English:** Friend, thanks for listening to this conversation with  
 **Translation:** 
 
-**[13381.24s] English:** питером левелсом пожалуйста поддержите подкаст перейдя по ссылкам в описании а  
+**[13381.24s] English:** Peter Levels, please support the podcast by clicking the links in the description.  
 **Translation:** 
 
-**[13385.86s] English:** теперь позвольте мне завершить словами дрю хьюстона сооснователя дропбокс  
-**Translation:** 
+**[13385.86s] English:** Now, let me conclude with words from Drew Houston, co-founder of Dropbox.  
+**Translation:** Vocabulary: dropbox: 云存储; houston: 霍顿
 
-**[13391.20s] English:** кстати я обожаю дропбокс в общем дрю сказал не бойтесь неудач вам нужно быть  
+**[13391.20s] English:** By the way, I love Dropbox in general. Drew said don't be afraid of failures; you need to be  
 **Translation:** 
 
-**[13399.50s] English:** правым всего лишь раз спасибо за внимание и до новых встреч  
+**[13399.50s] English:** Right only once, thank you for your attention, and see you next time.  
 **Translation:** 
 
-**[13407.74s] English:** не забудьте подписаться на канал и нажать на колокольчик чтобы не пропустить новые видео  
-**Translation:** 
+**[13407.74s] English:** Do not forget to subscribe to the channel and click on the bell to not miss new videos.  
+**Translation:** Vocabulary: subscribe: 订阅
 
 
 <!-- TRANSCRIPTION_COMPLETE -->

@@ -1,7559 +1,7560 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Sean Carroll： General Relativity, Quantum Mechanics, Black Holes & Aliens ｜ Lex Fridman Podcast #428.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Суть теории относительности в том, что нет понятия «сейчас»,  
+**[0.00s] English:** The essence of relativity theory is that there is no concept of "now",  
 **Translation:** 
 
-**[3.60s] English:** когда ты далеко.  
+**[3.60s] English:** When you are far away.  
+**Translation:** Vocabulary: relativity: 相对论
+
+**[5.42s] English:** This is doubly true for what is inside a black hole.  
+**Translation:** 
+
+**[8.48s] English:** It's hard to imagine, but a galaxy is very big.  
+**Translation:** Vocabulary: doubly: 加倍; galaxy: 星系
+
+**[10.90s] English:** This is not true.  
+**Translation:** 
+
+**[12.18s] English:** Its diameter is several dozen thousand light-years.  
+**Translation:** 
+
+**[15.98s] English:** Age — billions of years.  
+**Translation:** 
+
+**[18.28s] English:** We do not need to move at a speed close to the speed of light.  
+**Translation:** 
+
+**[21.14s] English:** To fill the galaxy.  
+**Translation:** 
+
+**[23.50s] English:** How many worlds exist?  
+**Translation:** 
+
+**[25.76s] English:** Very much.  
+**Translation:** 
+
+**[27.06s] English:** Very, very, very much.  
+**Translation:** 
+
+**[29.06s] English:** Where have these worlds gone?  
+**Translation:** 
+
+**[32.76s] English:** Where are they?  
+**Translation:** 
+
+**[33.98s] English:** If briefly,  
+**Translation:** 
+
+**[36.52s] English:** Worlds do not exist in space.  
+**Translation:** 
+
+**[41.60s] English:** Space exists in each world separately.  
+**Translation:** 
+
+**[47.46s] English:** This is a conversation with Shawn Carol.  
+**Translation:** Vocabulary: separately: 单独
+
+**[51.22s] English:** And his third time on this podcast.  
+**Translation:** 
+
+**[53.94s] English:** He is a theoretical physicist at Johns Hopkins University,  
+**Translation:** Vocabulary: hopkins: 霍普金斯; physicist: 物理学家
+
+**[57.30s] English:** Host of the podcast "Mainehall".  
+**Translation:** 
+
+**[59.06s] English:** He created "MainScape," which I love and recommend myself,  
+**Translation:** Vocabulary: mainehall: 缅因厅
+
+**[61.30s] English:** And author of many books, including his latest, "The Greatest Ideas in the Universe.  
+**Translation:** 
+
+**[67.82s] English:** The first book in the series is called "Space, Time, and Motion.  
+**Translation:** 
+
+**[71.30s] English:** It is dedicated to the general theory of relativity.  
+**Translation:** 
+
+**[74.30s] English:** The second one comes out on May 14, and you should order it.  
+**Translation:** 
+
+**[79.30s] English:** It is called "Quantum and Fields" and it discusses quantum mechanics.  
+**Translation:** 
+
+**[84.30s] English:** Shon — an active theoretical physicist,  
+**Translation:** Vocabulary: quantum: 量子
+
+**[87.30s] English:** as well as...  
+**Translation:** 
+
+**[89.06s] English:** ...one of the greatest popularizers of physics.  
+**Translation:** Vocabulary: popularizers: 科普者
+
+**[94.06s] English:** I strongly recommend listening to his podcast,  
+**Translation:** 
+
+**[97.06s] English:** To read his books and support his work by ordering a new one.  
+**Translation:** 
+
+**[101.06s] English:** For me, this is a great honor and special pleasure.  
+**Translation:** 
+
+**[105.06s] English:** This is the Lex Fridman Podcast.  
+**Translation:** 
+
+**[107.06s] English:** To support us, check out our sponsors in the description.  
+**Translation:** 
+
+**[111.06s] English:** Now, friends, Shawn Carroll.  
+**Translation:** Vocabulary: sponsors: 赞助商
+
+**[115.06s] English:** In the first book of the series "The Greatest Ideas in the Universe",  
+**Translation:** 
+
+**[118.06s] English:** Space, time, and movement.  
+**Translation:** 
+
+**[119.06s] English:** There, you can find a chick.  
+**Translation:** 
+
+**[120.00s] English:** You understand classical mechanics, general relativity,  
+**Translation:** Vocabulary: chick: 小鸡; relativity: 相对论
+
+**[121.06s] English:** Slowly stimulated,  
+**Translation:** 
+
+**[122.06s] English:** To evaluate the mystery,  
+**Translation:** Vocabulary: evaluate: 评估; stimulated: 刺激
+
+**[123.06s] English:** And, of course,  
+**Translation:** 
+
+**[124.06s] English:** Publish differently.  
+**Translation:** 
+
+**[125.06s] English:** For that, to outline  
+**Translation:** 
+
+**[125.22s] English:** Taking the main control of the OTO and making it simple to understand.  
+**Translation:** Vocabulary: outline: 提纲
+
+**[126.06s] English:** Main points,  
+**Translation:** 
+
+**[127.06s] English:** Which ones are useful to you? You need them.  
+**Translation:** 
+
+**[128.06s] English:** For that,  
+**Translation:** 
+
+**[129.06s] English:** To allow you to  
+**Translation:** 
+
+**[130.20s] English:** To try  
+**Translation:** 
+
+**[130.28s] English:** At a high level, what is the general theory of relativity?  
+**Translation:** 
+
+**[131.06s] English:** Draw  
+**Translation:** 
+
+**[132.06s] English:** All various  
+**Translation:** 
+
+**[133.06s] English:** Systems.  
+**Translation:** 
+
+**[134.06s] English:** Muscular  
+**Translation:** Vocabulary: muscular: 肌肉发达的
+
+**[135.06s] English:** And physical  
+**Translation:** 
+
+**[135.64s] English:** How should I start explaining her?  
+**Translation:** 
+
+**[136.06s] English:** And physical  
+**Translation:** 
+
+**[137.06s] English:** Mechanisms.  
+**Translation:** 
+
+**[138.06s] English:** Illustrated transformers,  
+**Translation:** 
+
+**[138.74s] English:** Pois, perhaps it is best to explain it through the special theory of relativity,  
+**Translation:** Vocabulary: illustrated: 举例的
+
+**[139.06s] English:** Which will lead to  
+**Translation:** 
+
+**[140.06s] English:** Mobile  
+**Translation:** 
+
+**[141.06s] English:** Space,  
+**Translation:** 
+
+**[142.06s] English:** К  
+**Translation:** 
+
+**[142.74s] English:** Appearing in 1905.  
+**Translation:** 
+
+**[143.06s] English:** Active  
+**Translation:** 
+
+**[144.06s] English:** Hyperbola,  
+**Translation:** 
+
+**[144.70s] English:** She became the culmination of ten years of research.  
+**Translation:** Vocabulary: culmination: 研究成果; hyperbola: 双曲线
+
+**[145.06s] English:** К  
+**Translation:** 
+
+**[146.06s] English:** Temperature,  
+**Translation:** 
+
+**[147.06s] English:** К  
+**Translation:** 
+
+**[147.74s] English:** But in 1905, Einstein...  
+**Translation:** Vocabulary: einstein: 爱因斯坦
+
+**[151.64s] English:** In fact, even not Einstein, to be fair, and Minkowski in 1907.  
+**Translation:** 
+
+**[156.56s] English:** Einstein in 1905 understood that he could get rid of the ether, the absolute frame of reference.  
+**Translation:** Vocabulary: ether: 以太; minkowski: 闵可夫斯基
+
+**[164.04s] English:** Then all equations in physics will have a meaning.  
+**Translation:** 
+
+**[167.04s] English:** Where is the speed of light maximal.  
+**Translation:** Vocabulary: equations: 物理方程; maximal: 最大
+
+**[169.96s] English:** Then in 1907, Minkevich, who was Einstein's professor,  
+**Translation:** 
+
+**[174.08s] English:** I understood that the most elegant way of contemplating  
+**Translation:** Vocabulary: contemplating: 思考; elegant: 优雅
+
+**[177.02s] English:** His ideology,  
+**Translation:** 
+
+**[177.74s] English:** His ideas — combining space and time into spacetime,  
+**Translation:** Vocabulary: ideology: 思想体系; spacetime: 时空
+
+**[182.62s] English:** To realize that in our four-dimensional world,  
+**Translation:** 
+
+**[187.56s] English:** There is no harsh separation between space and time.  
+**Translation:** 
+
+**[191.82s] English:** Einstein initially dismissed it with disdain.  
+**Translation:** 
+
+**[195.24s] English:** He thought, oh, the mathematicians are formalizing things again unnecessarily.  
+**Translation:** Vocabulary: disdain: 轻视; dismissed: 否定了; mathematicians: 数学家; unnecessarily: 多余地
+
+**[198.86s] English:** But later he realized that if space-time exists,  
+**Translation:** 
+
+**[203.70s] English:** He may have properties.  
+**Translation:** 
+
+**[205.14s] English:** In particular, it may be geometry.  
+**Translation:** 
+
+**[207.38s] English:** It can be bent in different places.  
+**Translation:** Vocabulary: geometry: 几何
+
+**[209.58s] English:** And this allowed him to solve the problem of gravity.  
+**Translation:** 
+
+**[212.42s] English:** Previously, he tried to incorporate into his new theory what he had previously attempted.  
+**Translation:** Vocabulary: gravity: 引力; incorporate: 融入
+
+**[216.08s] English:** What we knew about gravity from Newtonian mechanics.  
+**Translation:** 
+
+**[221.76s] English:** The Law of Inverse Squares.  
+**Translation:** Vocabulary: inverse: 平方反比; newtonian: 牛顿力学的
+
+**[223.50s] English:** But it didn't work out.  
+**Translation:** 
+
+**[224.66s] English:** The final breakthrough lies in the assertion,  
+**Translation:** Vocabulary: assertion: 断言
+
+**[227.14s] English:** Gravity is a curvature of spacetime.  
+**Translation:** 
+
+**[230.02s] English:** And this statement in essence is an OTO.  
+**Translation:** Vocabulary: curvature: 曲率
+
+**[232.74s] English:** The problem was that Minkevsky was a mathematician?  
+**Translation:** 
+
+**[236.58s] English:** Yes.  
+**Translation:** Vocabulary: mathematician: 数学家
+
+**[237.10s] English:** This is a problem between physics and mathematics.  
+**Translation:** 
+
+**[240.00s] English:** In one of your lectures on this equation, you say that Einstein was a better physicist than is commonly believed.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; equation: 方程; physicist: 物理学家
+
+**[249.68s] English:** Agreed.  
+**Translation:** 
+
+**[251.56s] English:** I know, it's difficult. There's a bit of humor in it.  
+**Translation:** 
+
+**[254.36s] English:** Yes.  
+**Translation:** 
+
+**[255.12s] English:** We all acknowledge Einstein, but we also, partly justly and partly to indulge our curiosity,  
+**Translation:** Vocabulary: indulge: 纵容好奇心
+
+**[262.92s] English:** We say that in his later years, Einstein lost his drive.  
+**Translation:** 
+
+**[266.40s] English:** But there were young scientists who worked on quantum mechanics, quantum field theory, and particle physics.  
+**Translation:** Vocabulary: particle: 粒子; quantum: 量子
+
+**[272.48s] English:** He simply could not conceptually overcome his objection to this.  
+**Translation:** 
+
+**[276.90s] English:** I believe that this story about his later years is completely inaccurate.  
+**Translation:** 
+
+**[281.46s] English:** Almost the opposite.  
+**Translation:** 
+
+**[283.30s] English:** I think Einstein understood quantum mechanics just as well as everyone else.  
+**Translation:** 
+
+**[288.68s] English:** At least in the 1930s.  
+**Translation:** 
+
+**[290.40s] English:** I think his philosophical objections to it are valid.  
+**Translation:** Vocabulary: objections: 反对; philosophical: 哲学的
+
+**[293.60s] English:** His following should have been perceived much more...  
+**Translation:** 
+
+**[296.40s] English:** Much more serious.  
+**Translation:** Vocabulary: perceived: 被察觉
+
+**[298.20s] English:** What he did, what he achieved, trying to understand these tasks,  
+**Translation:** 
+
+**[303.64s] English:** The task was in understanding the idea of quantum entanglement.  
+**Translation:** Vocabulary: entanglement: 纠缠
+
+**[307.76s] English:** Which is today important for understanding quantum mechanics.  
+**Translation:** 
+
+**[312.24s] English:** Yes, in the 1940s and 1950s, he focused on attempts  
+**Translation:** 
+
+**[316.96s] English:** Combine electricity and magnetism with gravity.  
+**Translation:** 
+
+**[321.36s] English:** This did not work for him.  
+**Translation:** Vocabulary: gravity: 重力; magnetism: 磁力
+
+**[323.26s] English:** We all proceed by trial and error.  
+**Translation:** 
+
+**[326.00s] English:** So.  
+**Translation:** 
+
+**[326.40s] English:** I don't blame him.  
+**Translation:** 
+
+**[327.12s] English:** But from an IQ perspective, or in terms of striving to be a rational physicist,  
+**Translation:** Vocabulary: physicist: 物理学家; striving: 努力
+
+**[331.58s] English:** He was great.  
+**Translation:** 
+
+**[333.24s] English:** What does greatness mean for a physicist?  
+**Translation:** Vocabulary: greatness: 卓越
+
+**[336.28s] English:** How difficult is it to go from a STO to an OTO?  
+**Translation:** 
+
+**[342.24s] English:** How difficult is it to imagine,  
+**Translation:** 
+
+**[345.90s] English:** To consider space-time as a single entity.  
+**Translation:** 
+
+**[349.50s] English:** And imagine that it is curved?  
+**Translation:** 
+
+**[352.60s] English:** Yes, that's a great question.  
+**Translation:** 
+
+**[355.14s] English:** I suppose, if we need to prove Einstein's greatness,  
+**Translation:** 
+
+**[358.36s] English:** This is not difficult,  
+**Translation:** 
+
+**[359.70s] English:** It's worth figuring out that this is not the case.  
+**Translation:** 
+
+**[360.00s] English:** Here are two things to highlight. First — 1905, the Year of Wonder, in which  
+**Translation:** 
+
+**[366.38s] English:** He writes three different works on three completely different  
+**Translation:** Vocabulary: highlight: 强调
+
+**[370.98s] English:** Topics, each of which would have made him famous.  
+**Translation:** 
+
+**[375.04s] English:** Samo po sebe. STO — one of them. Another — Brownian.  
+**Translation:** 
+
+**[381.28s] English:** Movement. There's talk of small vibrations, tiny particles.  
+**Translation:** 
+
+**[385.02s] English:** In the air. But who cares about that? What's important is that it proves  
+**Translation:** Vocabulary: particles: 微粒; vibrations: 振动
+
+**[388.66s] English:** Existence of atoms. He explains Brownian  
+**Translation:** 
+
+**[391.70s] English:** Movement, representing molecules in the air and outlining their properties.  
+**Translation:** Vocabulary: outlining: 概述
+
+**[394.84s] English:** Bleeding. Then he, in essence, opens the door to quantum  
+**Translation:** 
+
+**[399.00s] English:** Mechanics of their work, which became rather dull,  
+**Translation:** 
+
+**[402.86s] English:** The name for the photoeffect, but in reality, he invented  
+**Translation:** 
+
+**[406.90s] English:** The concept of photons and showed that light should be considered  
+**Translation:** Vocabulary: photoeffect: 光效应; photons: 光子
+
+**[410.38s] English:** As particles and as waves. He made three completely  
+**Translation:** 
+
+**[414.08s] English:** Different things over a year. General Theory of Relativity.  
+**Translation:** Vocabulary: relativity: 相对论
+
+**[417.82s] English:** Also assigned.  
+**Translation:** 
+
+**[418.66s] English:** This took ten years, from fifth to fifteenth.  
+**Translation:** 
+
+**[423.80s] English:** Year. He worked on OTO as well as other projects.  
+**Translation:** 
+
+**[426.84s] English:** Things. He invented the refrigerator. He did a lot of interesting work.  
+**Translation:** 
+
+**[431.54s] English:** He didn't work alone on the solution. There were others as well.  
+**Translation:** 
+
+**[434.12s] English:** People who proposed relativistic theories,  
+**Translation:** Vocabulary: relativistic: 相对论的
+
+**[436.56s] English:** Gravity. But he devoted himself to it. I suppose, as you  
+**Translation:** 
+
+**[445.26s] English:** He noted that the solution did not come otherwise.  
+**Translation:** Vocabulary: devoted: 专注
+
+**[448.66s] English:** This is a fundamentally creative process. According to its own  
+**Translation:** 
+
+**[453.74s] English:** Of all the words, the greatest moment, the happiest for him.  
+**Translation:** Vocabulary: fundamentally: 从根本上
+
+**[457.60s] English:** Moments later came the realization that saying it in modern terms  
+**Translation:** 
+
+**[461.58s] English:** Terms would be, if we were in a rocket with an acceleration of 1G,  
+**Translation:** Vocabulary: acceleration: 加速度; realization: 觉悟
+
+**[466.50s] English:** That is, due to gravitational acceleration, and if the rocket  
+**Translation:** 
+
+**[470.38s] English:** It was quiet, we would not have understood if we were in the rocket or on the surface.  
+**Translation:** Vocabulary: gravitational: 引力
+
+**[474.48s] English:** Land. Gravity cannot be detected or communicated,  
+**Translation:** 
+
+**[478.66s] English:** At least, to differentiate.  
+**Translation:** 
+
+**[480.00s] English:** From its acceleration.  
+**Translation:** 
+
+**[482.16s] English:** First, this is a very smart idea.  
+**Translation:** 
+
+**[484.72s] English:** Secondly, if it had happened to you or me, we would have said "Hm,  
+**Translation:** 
+
+**[487.26s] English:** We are scientists.  
+**Translation:** 
+
+**[488.92s] English:** She goes on and says, "Okay, if gravity  
+**Translation:** 
+
+**[492.64s] English:** If it cannot be detected, it cannot be a ordinary force.  
+**Translation:** Vocabulary: cannot: 不能; detected: 检测到; gravity: 重力
+
+**[497.56s] English:** Electromagnetic force is observable, we can manipulate it.  
+**Translation:** 
+
+**[500.06s] English:** charged particles.  
+**Translation:** Vocabulary: electromagnetic: 电磁的; manipulate: 操控; observable: 可观测的; particles: 粒子
+
+**[501.62s] English:** Positive charged particles and negatively  
+**Translation:** 
+
+**[503.72s] English:** Charged particles react differently to electrical  
+**Translation:** Vocabulary: negatively: 带有负电的
+
+**[507.02s] English:** Or the magnetic field.  
+**Translation:** 
+
+**[508.20s] English:** He understands that the mental experiment showed or  
+**Translation:** 
+
+**[511.14s] English:** He supposed that gravity is not as it seems.  
+**Translation:** 
+
+**[513.88s] English:** All react equally to gravity.  
+**Translation:** 
+
+**[517.52s] English:** How is this possible?  
+**Translation:** 
+
+**[519.42s] English:** Then he makes the next move: "Oh, it's because this.  
+**Translation:** 
+
+**[521.66s] English:** Curvature of space-time.  
+**Translation:** 
+
+**[523.38s] English:** This is a property of space-time.  
+**Translation:** Vocabulary: curvature: 空间弯曲
+
+**[525.96s] English:** This is not a force acting on him.  
+**Translation:** 
+
+**[528.72s] English:** Curvature is a property".  
+**Translation:** 
+
+**[529.72s] English:** In the end, he says, "Okay, it's clear that I will need  
+**Translation:** 
+
+**[533.44s] English:** Mathematical tools for describing curvature.  
+**Translation:** Vocabulary: mathematical: 数学的
+
+**[537.20s] English:** I don't know them.  
+**Translation:** 
+
+**[538.20s] English:** Therefore, I will learn them.  
+**Translation:** 
+
+**[540.20s] English:** Then there were no online courses or AI.  
+**Translation:** 
+
+**[543.92s] English:** He had to read works on mathematics.  
+**Translation:** 
+
+**[546.64s] English:** He himself studied differential geometry and derived the theory of relativity.  
+**Translation:** 
+
+**[549.76s] English:** What about time as another dimension — combining  
+**Translation:** Vocabulary: differential: 微分; dimension: 维度; geometry: 几何; relativity: 相对论
+
+**[554.88s] English:** Spaces and time?  
+**Translation:** 
+
+**[556.96s] English:** This is a simple mathematical trick, as proposed by Minkowski?  
+**Translation:** 
+
+**[561.24s] English:** Generally, this is not easy.  
+**Translation:** 
+
+**[562.82s] English:** This...  
+**Translation:** 
+
+**[563.82s] English:** This is a deep idea.  
+**Translation:** 
+
+**[566.32s] English:** Here's why I believe that Mincovsky...  
+**Translation:** 
+
+**[568.20s] English:** It deserves more recognition.  
+**Translation:** 
+
+**[571.16s] English:** He is the one who brought STO to an end.  
+**Translation:** 
+
+**[575.22s] English:** Again, many people talked about what is changing, if  
+**Translation:** 
+
+**[578.60s] English:** To move close to the speed of light, which is predicted,  
+**Translation:** 
+
+**[583.34s] English:** Equations of Maxwell for electromagnetism, and so on.  
+**Translation:** 
+
+**[585.80s] English:** Next, what are their symmetries.  
+**Translation:** Vocabulary: electromagnetism: 电磁学; equations: 方程; maxwell: 麦克斯韦; symmetries: 对称性
+
+**[587.56s] English:** Such people as Lawrence, Fitzgerald, and Poincaré — there  
+**Translation:** 
+
+**[590.74s] English:** A whole history.  
+**Translation:** 
+
+**[592.12s] English:** It is believed that Einstein finished all his work.  
+**Translation:** 
+
+**[595.20s] English:** This is what he said.  
+**Translation:** Vocabulary: einstein: 爱因斯坦
+
+**[597.20s] English:** All this works if the ether simply does not exist.  
+**Translation:** 
+
+**[600.00s] English:** His presence cannot be detected. We do not know his speed. Everything is relative. Hence the name of the theory.  
+**Translation:** 
+
+**[605.22s] English:** But he did not take the final step to realize that the structure he created is best suited for the situation.  
+**Translation:** 
+
+**[610.62s] English:** It is perceived as a unity of space and time. I honestly can't imagine what was in the head of  
+**Translation:** Vocabulary: perceived: 被感知
+
+**[618.60s] English:** Minkovski, when he realized this. I am not sure he was that gifted in mathematics for it to come so naturally to him.  
+**Translation:** 
+
+**[625.08s] English:** It was obvious to him, or it came to him with effort, through trial and error. I'm not sure. You for him or  
+**Translation:** 
+
+**[631.74s] English:** For Einstein, visualizing four-dimensional space, trying to grasp the idea,  
+**Translation:** 
+
+**[636.58s] English:** Time as another dimension? Oh, yes. Constantly. Of course, we simplify our lives by ignoring two  
+**Translation:** Vocabulary: dimension: 空间维度; simplify: 使简化; visualizing: 可视化
+
+**[643.14s] English:** Measurements of space. Instead of four-dimensional spacetime, we draw pictures with one  
+**Translation:** 
+
+**[648.54s] English:** Measurement of space and one dimension of time. The so-called spacetime diagram.  
+**Translation:** Vocabulary: spacetime: 时空
+
+**[653.28s] English:** May be in this...  
+**Translation:** 
+
+**[654.66s] English:** I don't know.  
+**Translation:** 
+
+**[655.06s] English:** There is your question. But even the best physicists would draw a vertical axis and a horizontal axis. Space,  
+**Translation:** 
+
+**[663.94s] English:** And time. But in essence, this is incorrect because it gives preference to one direction.  
+**Translation:** Vocabulary: horizontal: 水平; vertical: 垂直
+
+**[670.66s] English:** Spaces and one direction of time. In fact, spacetime is two-dimensional.  
+**Translation:** 
+
+**[676.36s] English:** More correctly, draw rays of light. Light cones. From each point, there is a fixed  
+**Translation:** 
+
+**[685.04s] English:** Direction, which represents the speed of light. This is intrinsic to its structure. Division into space,  
+**Translation:** 
+
+**[693.14s] English:** And time for people is easy. What is the difference between space and time from the perspective of relativity theory?  
+**Translation:** Vocabulary: intrinsic: 固有的; relativity: 相对论
+
+**[701.60s] English:** This is the difference between x and y when you draw axes on a piece of paper.  
+**Translation:** 
+
+**[706.04s] English:** Is there really any difference? There's almost no difference. However, there is one rather important distinction. The next difference is this: if the space is curved, I will be drawing it on paper.  
+**Translation:** 
+
+**[715.04s] English:** I will draw it horizontally, because that's how we usually do it in space-time diagrams.  
+**Translation:** 
+
+**[719.40s] English:** If space-time, I will draw it on paper.  
+**Translation:** Vocabulary: diagrams: 图表; horizontally: 水平地
+
+**[720.00s] English:** Space is curved, you know that the shortest  
+**Translation:** 
+
+**[723.76s] English:** The distance between two points is a straight line.  
+**Translation:** 
+
+**[726.14s] English:** If curved time, by the way, is all  
+**Translation:** 
+
+**[729.70s] English:** Our life; we all develop, and we can start with one event.  
+**Translation:** 
+
+**[733.84s] English:** In the space of time and another event.  
+**Translation:** 
+
+**[736.80s] English:** Minkowski says that the time you measure,  
+**Translation:** 
+
+**[740.44s] English:** Along your trajectory in the universe, exactly analogous to  
+**Translation:** 
+
+**[745.06s] English:** Distance, which you travel along a curve in space,  
+**Translation:** Vocabulary: analogous: 类似的; trajectory: 轨迹
+
+**[749.12s] English:** What is meant by "поточно" is that this is also true, that  
+**Translation:** 
+
+**[753.30s] English:** The distance you will travel depends on the route.  
+**Translation:** 
+
+**[756.94s] English:** Can you go by the direct route, the short way, or the long way?  
+**Translation:** 
+
+**[759.22s] English:** by the curve.  
+**Translation:** 
+
+**[760.42s] English:** Time, which you will measure in spacetime,  
+**Translation:** 
+
+**[763.46s] English:** Literally, the time that goes by on your watches, also  
+**Translation:** Vocabulary: spacetime: 时空
+
+**[766.70s] English:** It depends on your path, but the opposite is true.  
+**Translation:** 
+
+**[769.28s] English:** The longest time between two dots is a straight line.  
+**Translation:** 
+
+**[772.60s] English:** Line.  
+**Translation:** 
+
+**[773.62s] English:** If jumping back and forth through time,  
+**Translation:** 
+
+**[775.78s] English:** It will take less time to get from point  
+**Translation:** 
+
+**[778.08s] English:** At point B.  
+**Translation:** 
+
+**[779.12s] English:** How are we supposed to understand this?  
+**Translation:** 
+
+**[783.00s] English:** The difference between observed reality and objective  
+**Translation:** 
+
+**[788.54s] English:** Is that a reality behind her?  
+**Translation:** 
+
+**[790.18s] English:** Or objective reality is foolishness in comparison to—  
+**Translation:** 
+
+**[793.56s] English:** OTTO?  
+**Translation:** 
+
+**[794.10s] English:** I believe in her.  
+**Translation:** 
+
+**[795.26s] English:** I think that objective reality...  
+**Translation:** 
+
+**[796.80s] English:** Are you her fan?  
+**Translation:** 
+
+**[797.72s] English:** Realistically.  
+**Translation:** 
+
+**[798.96s] English:** But I believe that people are too carelessly对待最后一句话，"легкомысленно относятся" 应该翻译为 "handle" 或 "approach" 以符合自然的英语表达。因此，完整的句子应该是： But I believe that people are too carelessly approaching this issue.  
+**Translation:** Vocabulary: carelessly: 轻率地
+
+**[805.24s] English:** Regarding the relationship between what we are observing...  
+**Translation:** 
+
+**[809.12s] English:** ...and objective reality.  
+**Translation:** 
+
+**[811.88s] English:** Of course, to understand the world, our initial and final  
+**Translation:** 
+
+**[816.12s] English:** Points are our observations, our experiments, phenomena.  
+**Translation:** Vocabulary: experiments: 实验
+
+**[821.04s] English:** Which we experience and see in the world around us.  
+**Translation:** 
+
+**[823.92s] English:** But between them there is a mathematical formation of our ideas about what is happening.  
+**Translation:** Vocabulary: mathematical: 数学的
+
+**[833.30s] English:** If the theory corresponds to the data, is simple and logical.  
+**Translation:** 
+
+**[836.26s] English:** Sama po sebe,...  
+**Translation:** Vocabulary: corresponds: 符合
+
+**[838.00s] English:** ...and...  
+**Translation:** 
+
+**[839.00s] English:** ...theory...  
+**Translation:** 
+
+**[840.00s] English:** Verily. This means that we should define a certain reality for entities that play a crucial role in this theory.  
+**Translation:** 
+
+**[850.42s] English:** At least, until we come up with a better theory.  
+**Translation:** Vocabulary: crucial: 至关重要的
+
+**[853.02s] English:** I think a good way to check the difference between objective and observed reality is what happens at the edge of a black hole horizon.  
+**Translation:** 
+
+**[863.72s] English:** So, technically, when you're closer to the horizon, does time stop?  
+**Translation:** Vocabulary: technically: 技术上
+
+**[871.06s] English:** And yes, and no. This depends on how careful we are.  
+**Translation:** 
+
+**[875.56s] English:** As I see it, the following is correct.  
+**Translation:** 
+
+**[881.18s] English:** Let's imagine a black hole, spacetime, all the solution to Einstein's equations, and consider us as so-called test particles.  
+**Translation:** 
+
+**[891.78s] English:** We don't have gravitational fields.  
+**Translation:** Vocabulary: equations: 爱因斯坦方程; gravitational: 引力的; particles: 测试粒子; spacetime: 时空
+
+**[893.72s] English:** We are simply moving in a gravitational field. This, of course, is approximate, isn't it?  
+**Translation:** 
+
+**[897.40s] English:** But let's imagine you are standing outside the black hole, and I am falling inside.  
+**Translation:** Vocabulary: approximate: 近似
+
+**[903.02s] English:** As I fall, I wave to you, for I am falling into a black hole.  
+**Translation:** 
+
+**[908.10s] English:** You will see that I am moving slower and the light from me is turning redder.  
+**Translation:** 
+
+**[915.10s] English:** I am embarrassed that I am falling into a black hole.  
+**Translation:** 
+
+**[918.10s] English:** There exists a limit.  
+**Translation:** 
+
+**[919.78s] English:** It will be the very last moment,  
+**Translation:** 
+
+**[921.78s] English:** When, from your point of view, does it matter that I fall into a black hole?  
+**Translation:** 
+
+**[923.68s] English:** From me will be emanating light.  
+**Translation:** 
+
+**[925.68s] English:** Last one. Okay.  
+**Translation:** Vocabulary: emanating: 发出
+
+**[927.68s] English:** You will literally not see him.  
+**Translation:** 
+
+**[929.68s] English:** Because I am emitting photons more slowly.  
+**Translation:** Vocabulary: emitting: 发射; photons: 光子
+
+**[933.68s] English:** So? From your perspective.  
+**Translation:** 
+
+**[935.68s] English:** I am just as bright, but in essence, I will not be visible in this picture.  
+**Translation:** 
+
+**[941.68s] English:** This is one situation.  
+**Translation:** 
+
+**[943.68s] English:** Another situation where I have my own gravitational field,  
+**Translation:** 
+
+**[947.68s] English:** and therefore, as we approach a black hole,  
+**Translation:** 
+
+**[950.68s] English:** She doesn't allow me to just pass by.  
+**Translation:** 
+
+**[953.68s] English:** She loses her way, to  
+**Translation:** 
+
+**[955.68s] English:** Me to swallow.  
+**Translation:** 
+
+**[956.68s] English:** Because its total mass  
+**Translation:** 
+
+**[958.68s] English:** It will be equal to mine plus or minus.  
+**Translation:** 
+
+**[960.00s] English:** Ee. Roughly speaking, yes, I don't like extremes; in them, it's approximately impossible to be precise.  
+**Translation:** 
+
+**[966.72s] English:** But if you see something falling into a black hole, you see how clocks tick slower and slower.  
+**Translation:** Vocabulary: extremes: 两端
+
+**[972.16s] English:** How do we know if it fell or not? We can't. How are we supposed to find out? After all, there's always a possibility,  
+**Translation:** 
+
+**[977.96s] English:** That in the last moment she might change her mind and start speeding away. If you don't see any approaches to the hole,  
+**Translation:** Vocabulary: approaches: 方法
+
+**[984.62s] English:** You definitely don't know. And it's worth noting that no matter how smart Einstein was, he never fully understood black holes.  
+**Translation:** 
+
+**[989.76s] English:** Holes, though they could have been avoided. It's shameful that it took decades of contemplation about OTO to understand this.  
+**Translation:** Vocabulary: contemplation: 深思; shameful: 可耻的
+
+**[995.24s] English:** That there are such things as black holes. Because Einstein derived the field equations in 1915, two years later,  
+**Translation:** 
+
+**[1005.64s] English:** Schwarzschild, Karl Schwarzschild, derived a solution to Einstein's equation representing a black hole.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; equation: 方程; equations: 方程式; schwarzschild: 施瓦茨席尔
+
+**[1013.32s] English:** The Schwarzschild solution. Its significance was not understood until the 1950s, until David Finkelstein and others.  
+**Translation:** 
+
+**[1019.76s] English:** This is just one example when physicists turned out to be not as smart as they should have been.  
+**Translation:** Vocabulary: finkelstein: 芬克尔斯坦; physicists: 物理学家
+
+**[1024.60s] English:** Nu, this is the singularity, this boundary of theory, the limit. It's hard to grasp, for it's difficult to imagine the end of things.  
+**Translation:** 
+
+**[1034.42s] English:** This is very hard to imagine. A black hole differs greatly from what we are accustomed to.  
+**Translation:** Vocabulary: accustomed: 习惯; differs: 不同
+
+**[1039.46s] English:** On the other hand, of course, the real reason is that between 1915 and 1955 physics underwent  
+**Translation:** 
+
+**[1046.26s] English:** A multitude of other truly interesting events.  
+**Translation:** Vocabulary: multitude: 众多; underwent: 经历
+
+**[1049.76s] English:** This is quantum field theory. Many of the greatest minds have been focused on this.  
+**Translation:** 
+
+**[1053.60s] English:** But still, if the universe provides you with a solution to GR in curved spacetime,  
+**Translation:** Vocabulary: quantum: 量子; spacetime: 时空
+
+**[1059.06s] English:** And some of its properties are mysterious; I would try to figure this out.  
+**Translation:** 
+
+**[1064.36s] English:** How does a black hole work? Imagine you are Einstein and take the theory of relativity to its logical conclusion regarding these massive objects.  
+**Translation:** Vocabulary: relativity: 相对论
+
+**[1073.84s] English:** Better think of a black hole not as an object, but as an area of spacetime.  
+**Translation:** 
+
+**[1079.64s] English:** Good.  
+**Translation:** 
+
+**[1079.76s] English:** Good.  
+**Translation:** 
+
+**[1080.00s] English:** This is an area with a property, at least within the framework of classical OTO.  
+**Translation:** 
+
+**[1084.36s] English:** Quantum mechanics complicates things; for instance, let's assume we adhere to classical theory.  
+**Translation:** 
+
+**[1088.72s] English:** This is an area of space-time with the property that once you enter it, you cannot leave it.  
+**Translation:** Vocabulary: adhere: 遵守; cannot: 不能; complicates: 使复杂
+
+**[1093.60s] English:** Literally, equivalent to exiting a black hole would be movement at a speed greater than the speed of light.  
+**Translation:** 
+
+**[1099.20s] English:** The complexity here is the same.  
+**Translation:** Vocabulary: complexity: 复杂性; exiting: 逃离
+
+**[1101.56s] English:** To exit, you need to move faster than the speed of light.  
+**Translation:** 
+
+**[1104.50s] English:** As soon as you're inside, everything will be fine.  
+**Translation:** 
+
+**[1107.10s] English:** In theory, you won't even notice when you cross the event horizon, which we call it.  
+**Translation:** 
+
+**[1111.60s] English:** Horizon of events is a point of no return, after which it is already impossible to leave the hole.  
+**Translation:** 
+
+**[1116.02s] English:** Meanwhile, the space-time around you contracts into a singularity in your future.  
+**Translation:** 
+
+**[1123.26s] English:** Thus, gravitational forces are so strong that they will tear your body apart, and you will die over a period of time.  
+**Translation:** Vocabulary: gravitational: 引力
+
+**[1131.40s] English:** If the mass of a black hole is approximately equal to the mass of the Sun,  
+**Translation:** 
+
+**[1135.46s] English:** The transition from the horizon of events to the singularity will take approximately one millionth of a second.  
+**Translation:** 
+
+**[1142.88s] English:** What will happen if you fall into a black hole?  
+**Translation:** 
+
+**[1145.96s] English:** If we think of an object as information, the information is lost.  
+**Translation:** 
+
+**[1150.96s] English:** Nu, you've asked an extremely complex question.  
+**Translation:** 
+
+**[1155.96s] English:** Here's why I constantly have to talk about the difference black holes make according to Einstein's theory,  
+**Translation:** 
+
+**[1162.96s] English:** Of my strictly classical book on space.  
+**Translation:** 
+
+**[1165.16s] English:** On Space-Time and Geometry.  
+**Translation:** Vocabulary: geometry: 几何; strictly: 严格地
+
+**[1167.86s] English:** Then, in the seventies, we begin to question quantum mechanics and what is happening there.  
+**Translation:** 
+
+**[1174.66s] English:** According to classical OTO, information from which we are composed,  
+**Translation:** 
+
+**[1179.16s] English:** When we fall into a black hole, we become invisible to the external world.  
+**Translation:** 
+
+**[1183.16s] English:** She is inside the black hole.  
+**Translation:** Vocabulary: invisible: 看不见的
+
+**[1185.16s] English:** But we can't get it anymore.  
+**Translation:** 
+
+**[1187.16s] English:** In the 1970s, Stephen Hawking comes along and points out that black holes emit radiation.  
+**Translation:** Vocabulary: hawking: 霍金辐射
+
+**[1193.16s] English:** They emit photons.  
+**Translation:** 
+
+**[1194.16s] English:** These are other particles in their surrounding universe.  
+**Translation:** Vocabulary: particles: 粒子; photons: 光子
+
+**[1197.16s] English:** As they emit energy, they lose mass and eventually evaporate.  
+**Translation:** 
+
+**[1200.00s] English:** Disappear. As soon as this happens, it's no longer possible to say that information about you or the book exists.  
+**Translation:** Vocabulary: evaporate: 蒸发
+
+**[1208.22s] English:** Which was thrown into a black hole is still there and hidden behind the black hole, for the hole has disappeared.  
+**Translation:** 
+
+**[1213.12s] English:** Either this information has been destroyed, as you said, or it has been transmitted in some way.  
+**Translation:** Vocabulary: transmitted: 传递
+
+**[1220.10s] English:** Which emits Hawking radiation. Most people believe that information  
+**Translation:** 
+
+**[1226.10s] English:** Somehow it is transmitted to the radiation, and thus it is preserved. This property of the theory itself.  
+**Translation:** Vocabulary: emits: 释放
+
+**[1234.44s] English:** Relativity, and quantum mechanics themselves. Combine them, and the property should be preserved. But  
+**Translation:** 
+
+**[1240.50s] English:** We are not certain about this. There were people who doubted it, including Stephen Hawking. But  
+**Translation:** Vocabulary: quantum: 量子; relativity: 相对论
+
+**[1245.78s] English:** So, that's what most people think. Currently, within the topic of "Problems with Information Loss in Black Holes",  
+**Translation:** 
+
+**[1255.32s] English:** Portraying hundreds of works, we are trying to figure out how to transmit information.  
+**Translation:** Vocabulary: portraying: 展示
+
+**[1259.90s] English:** About you or a book in black hole radiation. Is there a way to observe Hawking radiation directly?  
+**Translation:** 
+
+**[1266.56s] English:** To start getting some information, or is this all just theory so far?  
+**Translation:** 
+
+**[1272.08s] English:** Currently, we are far from being able to observe Hawking radiation. A sad fact — the farther we get from the black hole, the less likely we are to detect it.  
+**Translation:** 
+
+**[1278.18s] English:** More a black hole is, the lower its temperature. A small black hole is at microscopic scales.  
+**Translation:** Vocabulary: detect: 探测; hawking: 霍金辐射; microscopic: 显微的
+
+**[1285.30s] English:** Horoscopically small, may be very noticeable.  
+**Translation:** 
+
+**[1288.04s] English:** She emits light.  
+**Translation:** Vocabulary: horoscopically: 根据星象
+
+**[1289.18s] English:** In the center of our galaxy, A Scorpio.  
+**Translation:** 
+
+**[1292.84s] English:** Which is three million times more massive than the Sun.  
+**Translation:** Vocabulary: galaxy: 银河系; scorpio: 天蝎座
+
+**[1296.78s] English:** So cold and with such a low temperature,  
+**Translation:** 
+
+**[1299.86s] English:** That its emission we will never be able to observe.  
+**Translation:** Vocabulary: emission: 排放
+
+**[1303.08s] English:** Creating a black hole is difficult.  
+**Translation:** 
+
+**[1305.14s] English:** Near us, there are none.  
+**Translation:** 
+
+**[1306.52s] English:** Those in the universe are very, very faint.  
+**Translation:** 
+
+**[1308.72s] English:** There are no hopes for a quick investigation of Hawking radiation.  
+**Translation:** 
+
+**[1311.78s] English:** Preliminarily, there doesn't seem to be any nearby.  
+**Translation:** 
+
+**[1313.40s] English:** As far as we know,  
+**Translation:** Vocabulary: preliminarily: 初步地
+
+**[1314.72s] English:** There's none nearby.  
+**Translation:** 
+
+**[1316.20s] English:** May be small ones, which are hard to detect at the edges of the Solar System?  
+**Translation:** 
+
+**[1320.00s] English:** It wouldn't be good if they were too small, otherwise they might explode.  
+**Translation:** 
+
+**[1324.56s] English:** They are very bright; they would be visible.  
+**Translation:** Vocabulary: explode: 爆炸
+
+**[1326.80s] English:** But there is a range in which black holes are so large that they cannot be seen.  
+**Translation:** 
+
+**[1330.64s] English:** Massive black holes are very dim, they do not emit radiation.  
+**Translation:** 
+
+**[1333.98s] English:** But they are so small that their gravitational effect will not be detected.  
+**Translation:** 
+
+**[1337.08s] English:** Yes.  
+**Translation:** 
+
+**[1338.16s] English:** Psychologically and emotionally, how do you feel about black holes? Are they scary?  
+**Translation:** 
+
+**[1341.66s] English:** I love them. I love black holes.  
+**Translation:** Vocabulary: psychologically: 心理上
+
+**[1343.54s] English:** Strangely, but the Universe made forming a black hole a difficult task,  
+**Translation:** 
+
+**[1347.72s] English:** Because it needs to compress a huge amount of matter and energy.  
+**Translation:** Vocabulary: compress: 压缩; strangely: 奇怪地
+
+**[1351.26s] English:** In a very, very small area of space.  
+**Translation:** 
+
+**[1355.24s] English:** We know how to create stellar black holes.  
+**Translation:** Vocabulary: stellar: 恒星的
+
+**[1358.50s] English:** A supermassive star may collapse, forming a black hole.  
+**Translation:** 
+
+**[1362.08s] English:** We also know that supermassive black holes exist in the centers of galaxies.  
+**Translation:** Vocabulary: collapse: 坍缩; galaxies: 星系; supermassive: 超 massive
+
+**[1366.08s] English:** We are not entirely sure where they came from.  
+**Translation:** 
+
+**[1369.16s] English:** Possible, these are star black holes that merged into one.  
+**Translation:** Vocabulary: merged: 合并
+
+**[1374.38s] English:** What is interesting,  
+**Translation:** 
+
+**[1375.14s] English:** According to the latest data from the James Webb Telescope,  
+**Translation:** Vocabulary: telescope: 望远镜
+
+**[1377.78s] English:** Rather large black holes.  
+**Translation:** 
+
+**[1379.62s] English:** Existed at relatively early stages of the universe's existence.  
+**Translation:** 
+
+**[1385.32s] English:** It was already difficult for us to understand where they came from.  
+**Translation:** 
+
+**[1387.94s] English:** Now, this is a more complex task.  
+**Translation:** 
+
+**[1390.80s] English:** These supermassive black holes formed early on.  
+**Translation:** 
+
+**[1395.68s] English:** That they are few is not a bug, but a feature.  
+**Translation:** 
+
+**[1397.98s] English:** In that case, we would not have time or space.  
+**Translation:** 
+
+**[1401.28s] English:** For forming small pockets of complexity, which we call humans.  
+**Translation:** 
+
+**[1407.72s] English:** Fair enough, yes.  
+**Translation:** 
+
+**[1409.34s] English:** It's always interesting when something complex happens, despite everything.  
+**Translation:** 
+
+**[1415.22s] English:** The probability of forming a black hole could have been zero,  
+**Translation:** 
+
+**[1418.34s] English:** Or be equal to one, but here it's something in between.  
+**Translation:** 
+
+**[1420.90s] English:** And this is great.  
+**Translation:** 
+
+**[1422.28s] English:** What is there more of: reasonable extraterrestrial civilizations or supermassive black holes?  
+**Translation:** 
+
+**[1426.60s] English:** Mda, I have no idea.  
+**Translation:** 
+
+**[1429.22s] English:** But, I think your intuition is right.  
+**Translation:** Vocabulary: intuition: 直觉
+
+**[1432.48s] English:** If civilization formation were a easy task, we would have already noticed them.  
+**Translation:** 
+
+**[1436.78s] English:** If civilization formation were a easy task, we would have already noticed them.  
+**Translation:** 
+
+**[1437.66s] English:** We didn't notice.  
+**Translation:** 
+
+**[1440.00s] English:** The simplest explanation why we haven't seen them is that they just aren't there.  
+**Translation:** 
+
+**[1444.34s] English:** Yes, I just think that they should be easy to create.  
+**Translation:** 
+
+**[1449.18s] English:** I understand that this is the simplest explanation, but also...  
+**Translation:** 
+
+**[1453.88s] English:** Eukaryotic or multicellular life?  
+**Translation:** 
+
+**[1457.34s] English:** It seems that life finds a way.  
+**Translation:** Vocabulary: eukaryotic: 真核的; multicellular: 多细胞的
+
+**[1460.32s] English:** Possible that there is a truly difficult stage on the path to rational extraterrestrial civilizations.  
+**Translation:** 
+
+**[1466.94s] English:** But as soon as life begins to take shape, as soon as it arises,  
+**Translation:** Vocabulary: arises: 出现; civilizations: 文明; extraterrestrial: 外星的
+
+**[1471.80s] English:** It seems that she finds a way to survive everywhere, in any conditions.  
+**Translation:** 
+
+**[1475.80s] English:** Just finds a solution.  
+**Translation:** 
+
+**[1477.62s] English:** I understand, I understand what you're talking about.  
+**Translation:** 
+
+**[1479.54s] English:** This is a quite reasonable approach.  
+**Translation:** 
+
+**[1482.88s] English:** Until you actually encounter the data.  
+**Translation:** 
+
+**[1485.88s] English:** I wouldn't think that Earth is special.  
+**Translation:** Vocabulary: encounter: 遇见
+
+**[1488.02s] English:** I would think that there is a lot in the universe.  
+**Translation:** 
+
+**[1489.70s] English:** No noticeable extraterrestrial civilizations.  
+**Translation:** 
+
+**[1494.54s] English:** But even if  
+**Translation:** 
+
+**[1496.10s] English:** Life finds a way if it believes in you.  
+**Translation:** 
+
+**[1499.80s] English:** How much time does it take to find life?  
+**Translation:** 
+
+**[1502.98s] English:** What if it usually takes 100 billion years?  
+**Translation:** 
+
+**[1505.76s] English:** Then we are alone.  
+**Translation:** 
+
+**[1507.86s] English:** This is a question of time.  
+**Translation:** 
+
+**[1508.96s] English:** According to you, there are probably no extraterrestrial civilizations?  
+**Translation:** 
+
+**[1514.06s] English:** I don't believe in that.  
+**Translation:** 
+
+**[1515.54s] English:** I believe there are many of them, and there is another explanation for why we don't see them.  
+**Translation:** 
+
+**[1519.70s] English:** Here, I am not categorical, and I will not make any bets.  
+**Translation:** Vocabulary: categorical: 绝对的
+
+**[1523.56s] English:** I doubt about...  
+**Translation:** 
+
+**[1526.10s] English:** ...of whether life is widespread.  
+**Translation:** 
+
+**[1529.62s] English:** Possible that when we visit other worlds, other solar systems,  
+**Translation:** 
+
+**[1533.62s] English:** We will find microscopic life everywhere.  
+**Translation:** Vocabulary: microscopic: 肉眼看不见的
+
+**[1537.36s] English:** But none of them reached a complex form.  
+**Translation:** 
+
+**[1541.14s] English:** It's possible that she doesn't exist at all.  
+**Translation:** 
+
+**[1543.92s] English:** Also, it's possible that there are reasonable civilizations with things to do.  
+**Translation:** 
+
+**[1548.24s] English:** Besides coming to visit us.  
+**Translation:** Vocabulary: civilizations: 文明
+
+**[1550.10s] English:** I think we should be more modest about what we know so little about.  
+**Translation:** 
+
+**[1553.18s] English:** Also, it is possible that there exist certain great philosophies,  
+**Translation:** Vocabulary: modest: 谦逊; philosophies: 哲学
+
+**[1556.10s] English:** And as soon as civilization develops,...  
+**Translation:** 
+
+**[1560.00s] English:** Dостаточно сложные технологии,  
+**Translation:** 
+
+**[1562.84s] English:** These technologies are more likely to destroy everything.  
+**Translation:** 
+
+**[1567.12s] English:** Rather than hinder creative development.  
+**Translation:** Vocabulary: hinder: 阻碍
+
+**[1570.04s] English:** This is absolutely possible.  
+**Translation:** 
+
+**[1572.12s] English:** I don't really believe in this either, less.  
+**Translation:** 
+
+**[1574.92s] English:** Because it should always happen that way.  
+**Translation:** 
+
+**[1578.70s] English:** If even one...  
+**Translation:** 
+
+**[1580.76s] English:** John von Neumann also said that one should not  
+**Translation:** 
+
+**[1582.98s] English:** To search for aliens throughout the galaxy.  
+**Translation:** Vocabulary: aliens: 外星人; galaxy: 银河系
+
+**[1586.14s] English:** Can we make self-replicating probes?  
+**Translation:** 
+
+**[1588.46s] English:** And send them throughout the galaxy.  
+**Translation:** Vocabulary: probes: 探测器
+
+**[1590.40s] English:** It's hard to imagine, but a galaxy is very big.  
+**Translation:** 
+
+**[1592.92s] English:** This is not true.  
+**Translation:** 
+
+**[1594.18s] English:** Its diameter is several dozen thousand light-years,  
+**Translation:** 
+
+**[1598.04s] English:** Age is billions of years.  
+**Translation:** 
+
+**[1600.46s] English:** We do not need to move at a speed close to the speed of light.  
+**Translation:** 
+
+**[1603.36s] English:** To populate the galaxy.  
+**Translation:** 
+
+**[1605.82s] English:** If you were a dictator of a rational extraterrestrial civilization,  
+**Translation:** 
+
+**[1609.74s] English:** Can we simply spread out a multitude of...  
+**Translation:** Vocabulary: dictator: 独裁者; extraterrestrial: 外星的; multitude: 众多的人
+
+**[1612.14s] English:** One hundred percent.  
+**Translation:** 
+
+**[1613.52s] English:** Zondavs.  
+**Translation:** 
+
+**[1614.22s] English:** Yes, it's worth it.  
+**Translation:** 
+
+**[1615.44s] English:** If you want an optimistic approach,  
+**Translation:** Vocabulary: optimistic: 乐观的
+
+**[1617.44s] English:** Here's an optimistic one for you.  
+**Translation:** 
+
+**[1618.50s] English:** People seeking a reasonable life beyond,  
+**Translation:** 
+
+**[1622.24s] English:** Often use their radio telescopes.  
+**Translation:** 
+
+**[1624.74s] English:** At least that's what they did until then.  
+**Translation:** Vocabulary: telescopes: 射电望远镜
+
+**[1626.74s] English:** How Arecibo was taken out of service.  
+**Translation:** 
+
+**[1629.74s] English:** This is not a promising way to find reasonable life.  
+**Translation:** Vocabulary: arecibo: 阿雷西博
+
+**[1633.38s] English:** Why would a superintelligent alien civilization  
+**Translation:** 
+
+**[1636.34s] English:** To spend all of one's energy,  
+**Translation:** Vocabulary: alien: 外星的; superintelligent: 超智能的
+
+**[1637.94s] English:** Is it emitting it in random directions into the sky?  
+**Translation:** 
+
+**[1642.62s] English:** Firstly, the signal simply passes by.  
+**Translation:** Vocabulary: emitting: 发射; firstly: 首先
+
+**[1645.94s] English:** We are listening to radio waves here.  
+**Translation:** 
+
+**[1647.98s] English:** Just a few hundred years.  
+**Translation:** 
+
+**[1652.22s] English:** Good.  
+**Translation:** 
+
+**[1653.22s] English:** If a reasonable extraterrestrial civilization  
 **Translation:** 
 
-**[5.42s] English:** Это вдвойне верно для того, что внутри черной дыры.  
+**[1656.22s] English:** Exists for billions of years,  
 **Translation:** 
 
-**[8.48s] English:** Можно подумать, ну, галактика очень большая.  
+**[1658.22s] English:** They should determine the exact time,  
 **Translation:** 
 
-**[10.90s] English:** Это не так.  
+**[1660.22s] English:** To send us a signal.  
 **Translation:** 
 
-**[12.18s] English:** Ее диаметр — несколько десятков тысяч световых лет.  
+**[1662.22s] English:** Much more effective is sending probes,  
 **Translation:** 
 
-**[15.98s] English:** А возраст — миллиарды лет.  
+**[1666.22s] English:** Leave them in other solar systems,  
 **Translation:** 
 
-**[18.28s] English:** Не нужно двигаться со скоростью близко к скорости света,  
+**[1669.22s] English:** And just wait for something in this solar system.  
 **Translation:** 
 
-**[21.14s] English:** чтобы заполнить галактику.  
+**[1672.22s] English:** A reasonable civilization will appear.  
 **Translation:** 
 
-**[23.50s] English:** Сколько существует миров?  
+**[1675.22s] English:** This is the monolith hypothesis.  
+**Translation:** Vocabulary: hypothesis: 假说; monolith: 石碑
+
+**[1677.98s] English:** From Cosmic Odyssey.  
+**Translation:** 
+
+**[1680.00s] English:** I would be less surprised by an extraterrestrial artifact in our Solar System than by a radio signal from a civilized intelligence.  
+**Translation:** Vocabulary: artifact: 人造遗迹; civilized: 文明的; cosmic: 宇宙的; odyssey: 探险之旅
+
+**[1693.02s] English:** Do you simply enjoy communicating face to face?  
+**Translation:** 
+
+**[1697.60s] English:** This is a question of integration with time.  
+**Translation:** 
+
+**[1700.34s] English:** The probe can simply wait, while the radio wave just passes by.  
+**Translation:** 
+
+**[1705.34s] English:** Again, here you are, a dictator of an alien civilization.  
+**Translation:** Vocabulary: dictator: 外星文明的独裁者
+
+**[1711.76s] English:** How difficult is it to create a probe that has the greatest likelihood of finding common ground with whatever it encounters?  
+**Translation:** 
+
+**[1718.64s] English:** It is impossible to be an elected leader of an alien civilization.  
+**Translation:** Vocabulary: alien: 外星的; encounters: 遭遇; likelihood: 可能性
+
+**[1722.46s] English:** Chosen leader of the democratic alien civilization, yes.  
+**Translation:** 
+
+**[1726.94s] English:** I think we would fairly quickly resolve the language issue, but perhaps not so quickly when different parties are involved.  
+**Translation:** 
+
+**[1733.98s] English:** Mathematics, human tribes.  
+**Translation:** 
+
+**[1736.44s] English:** Obviously, people have a lot in common, but there is logic in mathematics, and there is the physical world.  
+**Translation:** Vocabulary: tribes: 部落
+
+**[1742.66s] English:** We can point at a stone and say "stone.  
+**Translation:** 
+
+**[1745.26s] English:** I don't think it will take much time.  
+**Translation:** 
+
+**[1748.80s] English:** In the film "Arrival," based on Ted Chiang's story, it was suggested that extraterrestrials have a fundamentally different mode of communication.  
+**Translation:** 
+
+**[1758.70s] English:** But there was also recognition and other things that I don't believe in.  
+**Translation:** Vocabulary: extraterrestrials: 外星生物; fundamentally: 从根本上
+
+**[1761.94s] English:** I think, if we really find...  
+**Translation:** 
+
+**[1763.98s] English:** If we really do find extraterrestrial life, this won't become a long-term problem.  
+**Translation:** Vocabulary: extraterrestrial: 来自地球外的
+
+**[1768.30s] English:** There are people in... You are connected to this place, Santa Fe.  
+**Translation:** 
+
+**[1771.58s] English:** They approach the issue of complexity in different ways and ask what life is in a broad sense differently.  
+**Translation:** 
+
+**[1780.24s] English:** Do you think we could find her?  
+**Translation:** 
+
+**[1782.98s] English:** We arrive, the probe lands on the planet, we see something, and such as "aha, this is a living creature.  
+**Translation:** 
+
+**[1790.92s] English:** Nu, again, if they are reasonable and technological, then this is not so.  
+**Translation:** 
+
+**[1793.98s] English:** They are not technologically advanced.  
+**Translation:** Vocabulary: technologically: 技术上
+
+**[1796.10s] English:** More pressing questions remain....  
+**Translation:** 
+
+**[1800.00s] English:** If we receive spectroscopic data from an exoplanet, partly  
+**Translation:** Vocabulary: exoplanet: 围绕其他恒星运行的行星; spectroscopic: 光谱学的
+
+**[1805.38s] English:** We will understand what there is in its atmosphere.  
+**Translation:** 
+
+**[1807.90s] English:** How can we judge whether this atmosphere has the characteristics of  
+**Translation:** Vocabulary: characteristics: 特性
+
+**[1811.28s] English:** Is there any evidence of life?  
+**Translation:** 
+
+**[1812.56s] English:** This is a very complex question; opinions on it vary.  
+**Translation:** 
+
+**[1815.62s] English:** There is a very simple, but possibly interesting approach.  
+**Translation:** 
+
+**[1821.24s] English:** Small molecules say nothing, because  
+**Translation:** 
+
+**[1823.88s] English:** What they may be a result of is the presence of life, but not necessarily so.  
+**Translation:** 
+
+**[1827.58s] English:** Here are the long molecules—this is already a sign of life.  
+**Translation:** 
+
+**[1833.08s] English:** Sign of Complexity.  
+**Translation:** 
+
+**[1834.28s] English:** I don't know, but I just have a feeling that we won't be able to  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[1839.78s] English:** To detect them.  
+**Translation:** 
+
+**[1840.78s] English:** We arrive on the planet, there's a lot of liquid there, and we swim.  
+**Translation:** Vocabulary: detect: 发现
+
+**[1845.02s] English:** In this liquid, and we won't be able to see any intelligence in it, would we?  
+**Translation:** 
+
+**[1853.00s] English:** This is something like ants, or maybe we'll see...  
+**Translation:** 
+
+**[1857.56s] English:** Movement, strange movement, but we can't see in  
+**Translation:** 
+
+**[1863.54s] English:** This is about reason, or to communicate, may be, if only we  
 **Translation:** 
 
-**[25.76s] English:** Очень много.  
+**[1867.62s] English:** Almost infinite amounts of time, and one can try.  
 **Translation:** 
 
-**[27.06s] English:** Очень, очень, очень много.  
+**[1870.84s] English:** Different approaches, then it would have worked.  
+**Translation:** Vocabulary: approaches: 方法; infinite: 无限的
+
+**[1872.96s] English:** I am inclined towards a sort of intellectual humility,  
+**Translation:** 
+
+**[1876.06s] English:** What we will not know, and that means we need to be  
+**Translation:** Vocabulary: humility: 谦逊; inclined: 倾向
+
+**[1879.74s] English:** Ready for surprises.  
 **Translation:** 
 
-**[29.06s] English:** Куда поместились эти миры?  
+**[1881.80s] English:** But I always lean towards the idea that we all live in  
 **Translation:** 
 
-**[32.76s] English:** Где они?  
+**[1884.76s] English:** One physical universe.  
 **Translation:** 
 
-**[33.98s] English:** Если коротко,  
+**[1886.26s] English:** And...  
 **Translation:** 
 
-**[36.52s] English:** миры не существуют в пространстве.  
+**[1887.56s] English:** If, for example, the development of our intelligence was undoubtedly linked to our ability to manipulate the physical world around us.  
 **Translation:** 
 
-**[41.60s] English:** Пространство существует в каждом мире отдельно.  
+**[1900.16s] English:** I suppose, I'm not one hundred percent sure, but I suppose that any advanced form of life would also possess this ability.  
+**Translation:** Vocabulary: manipulate: 操控; undoubtedly: 无疑
+
+**[1911.60s] English:** Dolphins and octopuses do this, too.  
 **Translation:** 
+
+**[1915.90s] English:** But I think that in the details there will be enough similarities for us to understand what it is.  
+**Translation:** Vocabulary: octopuses: 八爪鱼
 
-**[47.46s] English:** Это разговор с Шоном Кэролом.  
+**[1920.00s] English:** We could recognize this.  
 **Translation:** 
 
-**[51.22s] English:** И его третий раз на этом подкасте.  
+**[1922.70s] English:** I don't know how we got from supermassive black holes to this topic.  
+**Translation:** Vocabulary: supermassive: 超大质量的
+
+**[1926.32s] English:** If we return to black holes and more widely discuss the holographic principle, you recently published a paper on this topic.  
 **Translation:** 
+
+**[1935.16s] English:** You considered this topic from the perspective of scientific research and as a popular author.  
+**Translation:** Vocabulary: holographic: 全息的
 
-**[53.94s] English:** Он физик-теоретик в Университете Джона Хопкинса,  
+**[1942.62s] English:** Agreed.  
 **Translation:** 
 
-**[57.30s] English:** ведущий подкаста «Мэйнхэлл».  
+**[1943.06s] English:** What is the holographic principle?  
 **Translation:** 
 
-**[59.06s] English:** Он создал «Мэйнскейп», который я сам люблю и рекомендую,  
+**[1944.94s] English:** Nu, we are back to the question of information and how it is spread.  
 **Translation:** 
 
-**[61.30s] English:** и автор многих книг, включая последнюю «Величайшие идеи во Вселенной».  
+**[1951.30s] English:** Certainly, in quantum mechanics and even before quantum mechanics, in classical statistical mechanics, there is a connection between information and entropy.  
+**Translation:** Vocabulary: entropy: 热力学熵; quantum: 量子
+
+**[1964.62s] English:** Entropy is my favorite topic. I have written about it and will continue to write books on the subject.  
 **Translation:** 
+
+**[1968.50s] English:** So, Hawking tells us about black hole entropy.  
+**Translation:** Vocabulary: hawking: 霍金
 
-**[67.82s] English:** Первая книга серии называется «Пространство, время и движение».  
+**[1972.30s] English:** And what is this value finite.  
 **Translation:** 
 
-**[71.30s] English:** Она посвящена общей теории относительности.  
+**[1974.46s] English:** She is heavenly.  
+**Translation:** Vocabulary: finite: 有限的
+
+**[1974.94s] English:** It is endless.  
 **Translation:** 
+
+**[1976.36s] English:** But it is considered, and here we are speculating, that the entropy of a black hole is the maximum amount of entropy that can exist in a region of spacetime.  
+**Translation:** Vocabulary: spacetime: 时空; speculating: 推测
 
-**[74.30s] English:** Вторая выходит 14 мая, и вам стоит ее заказать.  
+**[1989.16s] English:** This is the highest density of entropy.  
 **Translation:** 
 
-**[79.30s] English:** Она называется «Кванты и поля» и рассказывает о квантовой механике.  
+**[1993.02s] English:** This means that there is a maximum amount of information that can be contained in this region of space, and this is called a black hole.  
 **Translation:** 
 
-**[84.30s] English:** Шон — действующий физик-теоретик,  
+**[1999.90s] English:** What's interesting is that I have a box.  
 **Translation:** 
 
-**[87.30s] English:** а также...  
+**[2003.84s] English:** I am going to place her.  
 **Translation:** 
 
-**[89.06s] English:** ...один из величайших популяризаторов физики.  
+**[2005.56s] English:** I don't tell you how I'll place the information in the box, but I ask what space it occupies depending on its size.  
 **Translation:** 
 
-**[94.06s] English:** Я крайне рекомендую послушать его подкаст,  
+**[2014.06s] English:** It depends on the size of the box, because information has volume and you can only occupy a certain amount.  
+**Translation:** Vocabulary: occupies: 占据空间
+
+**[2021.12s] English:** We can make such a assumption regarding a black hole, but it is not so.  
 **Translation:** 
+
+**[2024.82s] English:** The answer is as follows.  
+**Translation:** Vocabulary: assumption: 假设
 
-**[97.06s] English:** прочесть его книги и поддержать его работу, заказав новую.  
+**[2026.06s] English:** Maximum information is reflected in the entropy of a black hole.  
 **Translation:** 
 
-**[101.06s] English:** Для меня это большая честь и особое удовольствие.  
+**[2029.80s] English:** It scales like the area of a black hole's event horizon.  
 **Translation:** 
 
-**[105.06s] English:** Это подкаст Лекса Фридмана.  
+**[2034.94s] English:** She scales like the surface area of a black hole event horizon, not the volume inside.  
 **Translation:** 
 
-**[107.06s] English:** Чтобы поддержать нас, посмотрите наших спонсоров в описании.  
+**[2037.66s] English:** For a long time, people have delved deeply and superficially...  
+**Translation:** Vocabulary: delved: 深入地; superficially: 表面地
+
+**[2040.00s] English:** They pondered this and hypothesized what we now call the holographic principle.  
 **Translation:** 
+
+**[2045.04s] English:** What space-time and quantum gravity transmit or store information in is not in different bits.  
+**Translation:** Vocabulary: gravity: 引力; holographic: 全息的; hypothesized: 假设; pondered: 思考; quantum: 量子; transmit: 传输
 
-**[111.06s] English:** Теперь же, друзья, Шон Кэролл.  
+**[2053.62s] English:** Or qubits, if this is quantum information at every point in space-time. This is something  
 **Translation:** 
 
-**[115.06s] English:** В первой книге из серии «Величайшие идеи во Вселенной»,  
+**[2060.64s] English:** holographic, that is, it is embedded or located within a boundary where one dimension  
+**Translation:** Vocabulary: dimension: 维度; embedded: 嵌入
+
+**[2067.18s] English:** Fewer than three dimensions of space in which we live. In the case of a black hole,  
 **Translation:** 
+
+**[2074.54s] English:** The horizon of events is two-dimensional and embedded in a three-dimensional universe. The holographic principle states,  
+**Translation:** Vocabulary: dimensions: 维度
 
-**[118.06s] English:** «Пространство, время и движение»  
+**[2079.84s] English:** That all information contained in a black hole can be considered as being on the horizon.  
 **Translation:** 
 
-**[119.06s] English:** там вы можете найти яичышку,  
+**[2085.72s] English:** Events, rather than inside a black hole. I should clarify one thing. The idea that I just presented,  
+**Translation:** Vocabulary: clarify: 澄清
+
+**[2093.80s] English:** This is the principled holographic principle proposed by Ger Rosenburg.  
 **Translation:** 
+
+**[2097.18s] English:** With霍夫特 and Leonard Susskind, a very well-known physicist. Leonard Susskind was on my podcast,  
+**Translation:** Vocabulary: leonard: 伦纳德; physicist: 物理学家; principled: 原则性的; susskind: 苏斯金德
 
-**[121.06s] English:** медленно стимулированные,  
+**[2103.00s] English:** Perfectly executed. He explains such things very well. The MindScape podcast is definitely worth listening to.  
 **Translation:** 
 
-**[122.06s] English:** оценить тайну,  
+**[2110.74s] English:** Keep in mind that you don't come here only with physicists. Not just physicists. I love MindScape. Oh, thank you so much. Driven by  
+**Translation:** Vocabulary: executed: 实施; physicists: 物理学家
+
+**[2116.98s] English:** Curiosity. Yes, fresh ideas from smart people. Agreed. Agreed. In general, whether it's with Sasquin, or with Hoft.  
 **Translation:** 
+
+**[2121.86s] English:** All was a bit vague. They were somewhat superficial about holography and what she  
+**Translation:** Vocabulary: holography: 全息技术; superficial: 表面的
 
-**[123.06s] English:** и, конечно,  
+**[2127.18s] English:** Was. The true development of the idea of holography, where information is encoded on the boundary, occurred with  
 **Translation:** 
 
-**[124.06s] English:** опубликовать по-разному»  
+**[2134.02s] English:** By Juan Maldones in the 1990s, and ADSCP respectively. We do not necessarily need to delve into  
+**Translation:** Vocabulary: delve: 深入; encoded: 编码; maldones: 马尔登斯
+
+**[2143.02s] English:** Details, but this is a full theory. This is two different theories. One theory in n dimensions of space.  
 **Translation:** 
+
+**[2151.24s] English:** Time, without gravity. And another theory in n plus one dimensions of space-time with gravity.  
+**Translation:** Vocabulary: gravity: 引力
 
-**[125.06s] English:** для того, чтобы вырисовывать  
+**[2157.18s] English:** The idea is that this is an n-dimensional theory.  
 **Translation:** 
 
-**[126.06s] English:** основные моменты,  
+**[2160.00s] English:** Projects a hologram into an (n + 1) dimensional universe,  
+**Translation:** Vocabulary: hologram: 全息图
+
+**[2163.82s] English:** To make it look like there is gravity.  
 **Translation:** 
 
-**[127.06s] English:** которые полезно вам вам нужно,  
+**[2166.74s] English:** This is holography in the full sense.  
 **Translation:** 
 
-**[128.06s] English:** для того,  
+**[2169.92s] English:** Today, this is an enormous source of interest for theoretical physicists.  
 **Translation:** 
 
-**[129.06s] English:** чтобы вы могли  
+**[2176.02s] English:** How can one imagine the influence of that,  
 **Translation:** 
 
-**[130.20s] English:** попробовать  
+**[2180.76s] English:** What can be imagined, all of the information, is kept.  
 **Translation:** 
 
-**[131.06s] English:** рисовать  
+**[2183.64s] English:** Which one can be contained on an event horizon if it falls into a black hole?  
 **Translation:** 
 
-**[132.06s] English:** все различные  
+**[2187.72s] English:** Agreed, this is a good question.  
 **Translation:** 
 
-**[133.06s] English:** системы  
+**[2190.62s] English:** Quantum field theory indirectly suggests that within you  
 **Translation:** 
 
-**[134.06s] English:** мышечных  
+**[2195.28s] English:** And there isn't as much information in me compared to the volume.  
 **Translation:** 
 
-**[135.06s] English:** и физических  
+**[2200.08s] English:** The space in time that we occupy.  
 **Translation:** 
 
-**[136.06s] English:** и физических  
+**[2202.68s] English:** Quantum field theory tells us that we are mostly made up of empty space.  
 **Translation:** 
+
+**[2205.94s] English:** Where the density of information is low.  
+**Translation:** Vocabulary: density: 信息密度; quantum: 量子
 
-**[137.06s] English:** механизмов.  
+**[2211.32s] English:** Density of information in us, or in a book, on a disk, or in RAM.  
 **Translation:** 
 
-**[138.06s] English:** Изображенные трансформаторы,  
+**[2217.92s] English:** Determines the volume.  
 **Translation:** 
 
-**[139.06s] English:** которые приведут к  
+**[2220.00s] English:** Different bits of information are located in different points in space,  
 **Translation:** 
 
-**[140.06s] English:** мобильному  
+**[2222.96s] English:** The density of information is extremely low.  
 **Translation:** 
 
-**[141.06s] English:** пространству,  
+**[2225.36s] English:** So in everyday life, we move as fast as the speed of light,  
 **Translation:** 
 
-**[142.06s] English:** к  
+**[2228.12s] English:** Or a big explosion for information in a black hole.  
 **Translation:** 
 
-**[143.06s] English:** деятельному  
+**[2232.34s] English:** Far from the areas where these questions become relevant.  
 **Translation:** 
 
-**[144.06s] English:** гиперболу,  
+**[2236.80s] English:** Therefore, this does not lend itself to intuitive perception.  
+**Translation:** Vocabulary: intuitive: 直观; perception: 理解
+
+**[2239.28s] English:** We don't know how to think about this.  
 **Translation:** 
 
-**[145.06s] English:** к  
+**[2240.70s] English:** We can do the calculations, but we don't feel it.  
 **Translation:** 
 
-**[146.06s] English:** температуре,  
+**[2243.58s] English:** So, can we simply say that something strange happens in a black hole?  
 **Translation:** 
 
-**[147.06s] English:** к  
+**[2247.24s] English:** Nu, we would like it to be better, but we are trying.  
 **Translation:** 
 
-**[120.00s] English:** ты разбираешь классическую механику, общую теорию относительности,  
+**[2249.28s] English:** Here's why they fixed it.  
 **Translation:** 
 
-**[125.22s] English:** взяв основное управление ОТО и сделав его простым для понимания.  
+**[2250.00s] English:** Problem of losing information.  
 **Translation:** 
 
-**[130.28s] English:** На высоком уровне, что такое общая теория относительности?  
+**[2251.38s] English:** We have not fully resolved it yet.  
 **Translation:** 
 
-**[135.64s] English:** Как лучше начать ее объяснять?  
+**[2254.24s] English:** We need to remember one thing.  
 **Translation:** 
 
-**[138.74s] English:** Пожалуй, лучше всего ее объяснить через специальную теорию относительности,  
+**[2257.12s] English:** As soon as space-time becomes flexible,  
 **Translation:** 
+
+**[2261.60s] English:** According to OTO,  
+**Translation:** Vocabulary: flexible: 可变的
 
-**[142.74s] English:** появившуюся в 1905.  
+**[2263.90s] English:** And there exists quantum mechanics,  
 **Translation:** 
 
-**[144.70s] English:** Она стала кульминацией десятилетия исследований.  
+**[2266.10s] English:** Where there are quantum fluctuations and such.  
+**Translation:** Vocabulary: fluctuations: 波动
+
+**[2269.70s] English:** The idea of location in space-time itself.  
 **Translation:** 
+
+**[2272.36s] English:** Becomes a bit blurry,  
+**Translation:** Vocabulary: blurry: 模糊的
 
-**[147.74s] English:** Но в 1905 Эйнштейн...  
+**[2274.12s] English:** Because it is flexible,  
 **Translation:** 
 
-**[151.64s] English:** На самом деле даже не Эйнштейн, стоит отдать должное и Минковскому в 1907.  
+**[2275.22s] English:** In quantum mechanics, it cannot even be precisely defined.  
 **Translation:** 
 
-**[156.56s] English:** Эйнштейн в 1905 понял, что можно избавиться от эфира, от абсолютной системы отчета,  
+**[2278.06s] English:** Such information,  
 **Translation:** 
 
-**[164.04s] English:** тогда все уравнения физики будут иметь смысл,  
+**[2280.00s] English:** May be spread by unexpected means.  
 **Translation:** 
 
-**[167.04s] English:** где скорость света максимальна.  
+**[2283.84s] English:** And it's easy to say, and it's the truth.  
 **Translation:** 
 
-**[169.96s] English:** Затем в 1907 Минковский, который был профессором Эйнштейна,  
+**[2285.66s] English:** But we haven't yet come up with a clear way to talk about this.  
 **Translation:** 
 
-**[174.08s] English:** понял, что самый элегантный способ осмысления  
+**[2290.64s] English:** The density of information in a black hole is so great that it's scary.  
 **Translation:** 
 
-**[177.02s] English:** его идеологии,  
+**[2294.80s] English:** Here, quantum mechanics begins to play a role as well.  
+**Translation:** Vocabulary: density: 密度; quantum: 量子
+
+**[2298.36s] English:** It's almost as if we want to romanticize the interesting computational processes,  
 **Translation:** 
+
+**[2302.36s] English:** Occurring inside the hole.  
+**Translation:** Vocabulary: computational: 计算的
 
-**[177.74s] English:** его идеи — объединение пространства и времени в пространство-время,  
+**[2303.90s] English:** Yes, I want to, but I'll say something else.  
 **Translation:** 
 
-**[182.62s] English:** чтобы осознать, что в четырехмерном мире, где мы живем,  
+**[2307.28s] English:** The density of information is high,  
 **Translation:** 
 
-**[187.56s] English:** нет жестокого разделения между пространством и временем.  
+**[2309.34s] English:** But entropy too.  
 **Translation:** 
 
-**[191.82s] English:** Эйнштейн сначала пренебрежительно к этому отнесся.  
+**[2311.94s] English:** So a black hole is like very,  
+**Translation:** Vocabulary: entropy: 无序状态
+
+**[2314.56s] English:** Very specific random number.  
 **Translation:** 
+
+**[2318.66s] English:** It requires many digits to set it up.  
+**Translation:** Vocabulary: digits: 位数
 
-**[195.24s] English:** Он думал, ну математики опять излишне формализируют.  
+**[2320.86s] English:** These numbers say nothing.  
 **Translation:** 
 
-**[198.86s] English:** Но позже он осознал, что если пространство-время существует,  
+**[2323.36s] English:** They do not give anything on which to work.  
 **Translation:** 
 
-**[203.70s] English:** у него могут быть свойства.  
+**[2326.24s] English:** So there's a lot of information,  
 **Translation:** 
 
-**[205.14s] English:** И в частности может быть геометрия.  
+**[2328.24s] English:** But she is not in the form that will allow us to suffer.  
 **Translation:** 
 
-**[207.38s] English:** Оно может быть изогнуто в разных местах.  
+**[2332.52s] English:** But hypothetically,  
 **Translation:** 
 
-**[209.58s] English:** И это позволило ему решить проблему гравитации.  
+**[2335.80s] English:** As you mentioned, information can be stored.  
+**Translation:** Vocabulary: hypothetically: 假设地
+
+**[2338.92s] English:** Information may be stored.  
 **Translation:** 
 
-**[212.42s] English:** Ранее он пытался вписать в свою новую теорию то,  
+**[2339.32s] English:** Information which falls into a black hole is not destroyed.  
 **Translation:** 
 
-**[216.08s] English:** что нам было известно о гравитации из ньютоновской механики.  
+**[2342.64s] English:** What does it mean if entropy is very high?  
 **Translation:** 
 
-**[221.76s] English:** Закон обратных квадратов.  
+**[2345.22s] English:** Black hole....  
 **Translation:** 
 
-**[223.50s] English:** Но не получилось.  
+**[2346.50s] English:** I said that in a black hole, there is the highest density of information.  
 **Translation:** 
 
-**[224.66s] English:** Окончательный прорыв заключается в утверждении,  
+**[2351.04s] English:** But not the greatest amount of information,  
 **Translation:** 
 
-**[227.14s] English:** что гравитация — это кривизна пространства-времени.  
+**[2353.06s] English:** Because a black hole can evaporate.  
 **Translation:** 
+
+**[2355.02s] English:** When she disappears...  
+**Translation:** Vocabulary: evaporate: 汽化
 
-**[230.02s] English:** И это утверждение по сути является ОТО.  
+**[2356.40s] English:** People made such calculations when it evaporates.  
 **Translation:** 
 
-**[232.74s] English:** Проблема была в том, что Минковский был математиком?  
+**[2358.98s] English:** Entropy, into which it transforms, is greater,  
+**Translation:** Vocabulary: evaporates: 蒸发; transforms: 转变
+
+**[2363.04s] English:** What is the entropy of the black hole?  
 **Translation:** 
 
-**[236.58s] English:** Да.  
+**[2364.60s] English:** What is good because entropy should increase.  
 **Translation:** 
 
-**[237.10s] English:** Это проблема между физикой и математикой.  
+**[2367.38s] English:** But she is much more drained.  
 **Translation:** 
+
+**[2368.82s] English:** She is spread over an enormous expanse of space-time.  
+**Translation:** Vocabulary: drained: 疲惫; expanse: 范围
 
-**[240.00s] English:** В одной из лекций об этом уравнении ты говоришь, что Эйнштейн был лучшим физиком, чем принято считать.  
+**[2372.60s] English:** So, in principle, that's all.  
 **Translation:** 
 
-**[249.68s] English:** Ага.  
+**[2374.88s] English:** From what did you create the black hole, all the information,  
 **Translation:** 
 
-**[251.56s] English:** Знаю, сложно. Тут есть доля шутки.  
+**[2377.58s] English:** Which we think she collected still exists.  
 **Translation:** 
 
-**[254.36s] English:** Да.  
+**[2380.96s] English:** She is there, but she is scattered in all four directions.  
 **Translation:** 
 
-**[255.12s] English:** Мы все отдаем должное Эйнштейну, но мы также, отчасти справедливо, отчасти дабы потешить тяга,  
+**[2384.30s] English:** We talked about the horizon of black hole events.  
 **Translation:** 
 
-**[262.92s] English:** говорим себе, что в поздние годы жизни Эйнштейн потерял хватку.  
+**[2386.74s] English:** What's inside? What at her center?  
 **Translation:** 
 
-**[266.40s] English:** Но были молодые ученые, занимавшиеся квантовой механикой, квантовой теорией поля и физикой частиц,  
+**[2388.68s] English:** There was nobody there, so...  
 **Translation:** 
 
-**[272.48s] English:** а он просто концептуально не мог преодолеть свое возражение на этот счет.  
+**[2390.44s] English:** He returned to tell.  
 **Translation:** 
 
-**[276.90s] English:** Я считаю, что эта история о его поздних годах совершенно неверна.  
+**[2391.52s] English:** Again, this is a theoretical prediction.  
 **Translation:** 
 
-**[281.46s] English:** Почти противоположно.  
+**[2393.44s] English:** But I will speak about one extremely important, well-known, and beloved characteristic of black holes.  
+**Translation:** Vocabulary: characteristic: 特性
+
+**[2397.66s] English:** This...  
 **Translation:** 
 
-**[283.30s] English:** Я думаю, что Эйнштейн понимал квантовую механику так же хорошо, как и остальные.  
+**[2397.98s] English:** This...  
 **Translation:** 
 
-**[288.68s] English:** По крайней мере в 30-х.  
+**[2398.38s] English:** This...  
 **Translation:** 
 
-**[290.40s] English:** Думаю, что его философские возражения против нее верны.  
+**[2398.48s] English:** This...  
 **Translation:** 
 
-**[293.60s] English:** Его следовало воспринимать гораздо...  
+**[2398.58s] English:** This...  
 **Translation:** 
 
-**[296.40s] English:** гораздо серьезнее.  
+**[2398.64s] English:** This...  
 **Translation:** 
 
-**[298.20s] English:** То, что он сделал, чего достиг, пытаясь осмыслить эти задачи,  
+**[2398.66s] English:** This...  
 **Translation:** 
 
-**[303.64s] English:** заключались в понимании идеи квантовой запутанности,  
+**[2398.76s] English:** This...  
 **Translation:** 
 
-**[307.76s] English:** которая сегодня важна для понимания квантовой механики.  
+**[2398.78s] English:** This...  
 **Translation:** 
 
-**[312.24s] English:** Да, в 40-х и 50-х годах он сосредоточился на попытках  
+**[2398.82s] English:** This...  
 **Translation:** 
 
-**[316.96s] English:** объединить электричество и магнетизм с гравитацией.  
+**[2399.36s] English:** This...  
 **Translation:** 
 
-**[321.36s] English:** Это у него не вышло.  
+**[2399.62s] English:** This...  
 **Translation:** 
 
-**[323.26s] English:** Все мы идем методом проб и ошибок.  
+**[2401.00s] English:** Singularity is there, but it's not at the center of the black hole.  
 **Translation:** 
+
+**[2405.56s] English:** Remember that space and time are parts of the unified spacetime continuum.  
+**Translation:** Vocabulary: continuum: 连续体; spacetime: 时空
 
-**[326.00s] English:** Так.  
+**[2411.94s] English:** The location of the singularity in a black hole is not at the center of space, but in our future.  
 **Translation:** 
 
-**[326.40s] English:** Я его не виню.  
+**[2417.24s] English:** This is a moment in time.  
 **Translation:** 
 
-**[327.12s] English:** Но с точки зрения IQ, с точки зрения стремления быть разумным физиком,  
+**[2418.88s] English:** This is like a great compression.  
 **Translation:** 
 
-**[331.58s] English:** он был великим.  
+**[2420.54s] English:** A large explosion in the past became the expansion from singularity.  
+**Translation:** Vocabulary: compression: 压缩
+
+**[2423.88s] English:** The probability of a large crunch does not exist, but if it were to occur, it would be a collapse leading to a singularity in the future.  
 **Translation:** 
+
+**[2428.82s] English:** Such black holes look inside.  
+**Translation:** Vocabulary: collapse: 坍塌; crunch: 挤压
 
-**[333.24s] English:** Что значит величие для физика?  
+**[2432.04s] English:** Keep you internally normal, but it feels a bit cramped.  
 **Translation:** 
 
-**[336.28s] English:** Насколько сложно пройти путь от СТО до ОТО?  
+**[2436.66s] English:** Space-time becomes increasingly warped, and ultimately reaches a singularity in your future.  
+**Translation:** Vocabulary: cramped: 拥挤不堪; internally: 内部地; warped: 扭曲
+
+**[2442.28s] English:** Interesting, what is the time inside a black hole?  
 **Translation:** 
 
-**[342.24s] English:** Насколько сложно это вообразить,  
+**[2446.02s] English:** Time always goes by at a speed of one second per second.  
 **Translation:** 
 
-**[345.90s] English:** рассматривать пространство-время в совокупности  
+**[2448.52s] English:** This is all it does.  
 **Translation:** 
+
+**[2449.90s] English:** Time may pass differently for different people, so, for example, there is the twin paradox.  
+**Translation:** Vocabulary: paradox: 悖论
 
-**[349.50s] English:** и представить, что оно искривлено?  
+**[2454.92s] English:** Two people.  
 **Translation:** 
 
-**[352.60s] English:** Да, это отличный вопрос.  
+**[2456.20s] English:** Initially of the same age, one leaves at the speed of light.  
 **Translation:** 
 
-**[355.14s] English:** Полагаю, если нужно доказать величие Эйнштейна,  
+**[2458.82s] English:** Now this is not true.  
 **Translation:** 
 
-**[358.36s] English:** а это несложно,  
+**[2461.30s] English:** One could even say that those who have left and returned will be younger, because they did not choose the shortest path.  
 **Translation:** 
 
-**[359.70s] English:** стоит выяснить, что это не так.  
+**[2468.78s] English:** But, in particular, as for you and your watch on your wrist,  
 **Translation:** 
 
-**[360.00s] English:** выделить две вещи. Первая — 1905, год Чуда, в котором  
+**[2473.28s] English:** Time does not jump.  
 **Translation:** 
 
-**[366.38s] English:** он пишет три разные работы на три совершенно разные  
+**[2475.10s] English:** Neural signals in the brain, heartbeat, and wristwatches,  
 **Translation:** 
 
-**[370.98s] English:** темы, каждая из которых сделала бы его знаменитым  
+**[2480.70s] English:** What happens to them,  
+**Translation:** Vocabulary: heartbeat: 心率; neural: 神经; wristwatches: 手表
+
+**[2483.42s] English:** This happens to them simultaneously.  
 **Translation:** 
 
-**[375.04s] English:** сама по себе. СТО — одна из них. Еще одна — Броуновское  
+**[2485.40s] English:** So time always goes by at the same speed.  
 **Translation:** 
 
-**[381.28s] English:** движение. Там речь о небольших вибрациях, маленьких пылинок  
+**[2488.82s] English:** If you were to fall into a black hole, and I just watched from afar,  
 **Translation:** 
+
+**[2495.10s] English:** And then you will exit it after a million years when it evaporates.  
+**Translation:** Vocabulary: evaporates: 汽化
 
-**[385.02s] English:** в воздухе. Но кому до этого дело? Важно то, что это доказывает  
+**[2501.86s] English:** Are you going to be the same age?  
 **Translation:** 
 
-**[388.66s] English:** существование атомов. Он объясняет Броуновское  
+**[2504.58s] English:** You will age, won't you?  
 **Translation:** 
 
-**[391.70s] English:** движение, представляя молекулы в воздухе и выводя их свойства.  
+**[2505.72s] English:** You will be transformed into photons.  
 **Translation:** 
 
-**[394.84s] English:** Блестяще. Затем он, по сути, открывает миру путь квантовой  
+**[2507.50s] English:** You are no longer yourself.  
+**Translation:** Vocabulary: photons: 光子
+
+**[2509.96s] English:** Agreed.  
 **Translation:** 
 
-**[399.00s] English:** механики своей работой, которая получила скучное  
+**[2510.28s] English:** So, is it completely impossible to keep information in its original form?  
 **Translation:** 
 
-**[402.86s] English:** название фотоэффект. Но на самом деле он изобрел  
+**[2515.44s] English:** What do you want to keep?  
 **Translation:** 
+
+**[2516.84s] English:** It remains in a microscopic configuration of the universe.  
+**Translation:** Vocabulary: configuration: 宇宙状态; microscopic: 微小的
 
-**[406.90s] English:** понятие фотонов и показал, что свет стоит рассматривать  
+**[2520.86s] English:** Exactly the same way, if I took a ordinary book,  
 **Translation:** 
 
-**[410.38s] English:** как частицы и как волны. Он сделал три совершенно  
+**[2523.32s] English:** He made paper from it and burned it.  
 **Translation:** 
 
-**[414.08s] English:** разные вещи за год. Общая теория относительности  
+**[2525.92s] English:** Laws of physics say that all information from the book continues to exist in the form of heat, light, and ash.  
 **Translation:** 
 
-**[417.82s] English:** также присвоена.  
+**[2531.20s] English:** You will never get her.  
 **Translation:** 
 
-**[418.66s] English:** Это заняло десять лет, с пятого по пятнадцатый  
+**[2532.88s] English:** In practice.  
 **Translation:** 
 
-**[423.80s] English:** год. Он занимался не только ОТО, работал и над другими  
+**[2533.72s] English:** But fundamentally, it exists.  
+**Translation:** Vocabulary: fundamentally: 从根本上
+
+**[2535.48s] English:** What about the age of objects from the perspective of an observer outside the black hole?  
 **Translation:** 
+
+**[2541.58s] English:** Outside a black hole?  
+**Translation:** Vocabulary: observer: 观测者
 
-**[426.84s] English:** вещами. Он изобрел холодильник. Много сделал интересного.  
+**[2543.62s] English:** This doesn't matter because I am inside of her.  
 **Translation:** 
 
-**[431.54s] English:** И он не один работал над решением. Были и другие  
+**[2546.60s] English:** No, there's no way to escape from a black hole.  
 **Translation:** 
 
-**[434.12s] English:** люди, которые предлагали релятивистские теории  
+**[2550.12s] English:** Correct.  
 **Translation:** 
 
-**[436.56s] English:** гравитации. Но он себя этому посвятил. Полагаю, как ты  
+**[2550.88s] English:** Except for...  
 **Translation:** 
 
-**[445.26s] English:** отметил, решение не пришло по-другому.  
+**[2552.12s] English:** Give her a chance to correct herself.  
 **Translation:** 
 
-**[448.66s] English:** Это фундаментально творческий процесс. По его собственным  
+**[2553.12s] English:** Let her disappear.  
 **Translation:** 
 
-**[453.74s] English:** словам, величайшим моментом, самым счастливым для него  
+**[2554.08s] English:** But, by the way, even within the framework of special relativity, not to mention OTO,  
 **Translation:** 
 
-**[457.60s] English:** моментом стало осознание, что, говоря современными  
+**[2559.88s] English:** It's very tempting to say,  
+**Translation:** Vocabulary: relativity: 相对论; tempting: 诱人
+
+**[2562.06s] English:** Here's what is happening to me right now.  
 **Translation:** 
 
-**[461.58s] English:** терминами, если бы мы были в ракете с ускорением 1G,  
+**[2565.80s] English:** I want to know what is happening right now far from here.  
 **Translation:** 
 
-**[466.50s] English:** то есть ускорением свободного падения, и если бы ракета  
+**[2569.02s] English:** The essence of relativity is that there is no such thing as now when you are far away.  
 **Translation:** 
 
-**[470.38s] English:** была тихой, мы бы не поняли, в ракете мы или на поверхности  
+**[2574.22s] English:** This is in double measure.  
 **Translation:** 
 
-**[474.48s] English:** Земли. Гравитацию нельзя обнаружить или подсказать,  
+**[2575.32s] English:** Correct for what is inside a black hole.  
 **Translation:** 
 
-**[478.66s] English:** по крайней мере, отличить.  
+**[2577.66s] English:** It wants to say how quickly time is passing for them.  
 **Translation:** 
 
-**[480.00s] English:** от ее ускорения.  
+**[2580.00s] English:** Or how old are they now.  
 **Translation:** 
 
-**[482.16s] English:** Во-первых, это очень умная мысль.  
+**[2582.30s] English:** According to the theory of relativity, that cannot be said.  
 **Translation:** 
 
-**[484.72s] English:** Во-вторых, приди она тебе или мне, мы бы сказали «Хм,  
+**[2585.08s] English:** Because space and time are identical, it is meaningless.  
 **Translation:** 
+
+**[2588.78s] English:** Yes.  
+**Translation:** Vocabulary: meaningless: 无意义的
 
-**[487.26s] English:** а мы ученые».  
+**[2589.20s] English:** What happens to time in the holographic principle?  
 **Translation:** 
 
-**[488.92s] English:** Она же идет дальше и говорит «Хорошо, если гравитацию  
+**[2592.66s] English:** As far as we know, nothing special.  
+**Translation:** Vocabulary: holographic: 全息的
+
+**[2596.40s] English:** We are still far from being able to confidently assert what is happening.  
 **Translation:** 
+
+**[2600.84s] English:** There are unsolved questions.  
+**Translation:** Vocabulary: assert: 断言; confidently: 有信心地; unsolved: 未解决的
 
-**[492.64s] English:** не обнаружить, то она не может быть обычной силой.  
+**[2602.98s] English:** Does time serve as a fundamental parameter?  
 **Translation:** 
 
-**[497.56s] English:** Электромагнитная сила обнаружима, мы можем манипулировать  
+**[2605.72s] English:** Is it an emergent phenomenon?  
 **Translation:** 
 
-**[500.06s] English:** заряженными частицами.  
+**[2607.50s] English:** Does anything have anything to do with quantum entanglement?  
 **Translation:** 
 
-**[501.62s] English:** Положительно заряженные частицы и отрицательно  
+**[2610.78s] English:** Does time exist at all?  
+**Translation:** Vocabulary: entanglement: 纠缠; quantum: 量子
+
+**[2613.38s] English:** There are various theories, supporters of different viewpoints.  
 **Translation:** 
+
+**[2617.18s] English:** But in holography, there is nothing that would make us change our opinion about time.  
+**Translation:** Vocabulary: holography: 全息术; viewpoints: 观点
 
-**[503.72s] English:** заряженные частицы по-разному реагируют на электрическое  
+**[2621.74s] English:** Any.  
 **Translation:** 
 
-**[507.02s] English:** или магнитное поле.  
+**[2622.66s] English:** But holography, in essence, is a question of space?  
 **Translation:** 
 
-**[508.20s] English:** Он понимает, что мысленный эксперимент показал или  
+**[2626.30s] English:** Yes, correct.  
 **Translation:** 
 
-**[511.14s] English:** предположил, что гравитация не такова.  
+**[2627.30s] English:** Good, that is time simply...  
 **Translation:** 
 
-**[513.88s] English:** Все одинаково реагирует на гравитацию.  
+**[2629.14s] English:** As for time, as far as we know, yes.  
 **Translation:** 
 
-**[517.52s] English:** Как такое возможно?  
+**[2631.48s] English:** So, all questions about time go on a separate line?  
 **Translation:** 
 
-**[519.42s] English:** Тогда он делает следующий ход «О, это потому что это  
+**[2634.78s] English:** Is this an emergent parameter?  
 **Translation:** 
 
-**[521.66s] English:** кривизна пространства-времени.  
+**[2636.20s] English:** Now they may be a reflection of our ignorance.  
+**Translation:** Vocabulary: emergent: 涌现的; ignorance: 无知; parameter: 参数
+
+**[2639.68s] English:** But yes.  
 **Translation:** 
 
-**[523.38s] English:** Это свойство пространства-времени.  
+**[2640.00s] English:** If through millions of years we learn a whole lot about black holes, how amazed would you be if people traveled back in time and told you everything you wanted to know about black holes?  
 **Translation:** 
 
-**[525.96s] English:** Это не сила, действующая на него.  
+**[2652.92s] English:** How do you think there's still so much left for us to discover, and how astonishing it is?  
 **Translation:** 
+
+**[2658.08s] English:** This depends on what they say. I think they have colleagues who believe we are fairly close to understanding how information gets out of black holes and producing quantization of gravity.  
+**Translation:** Vocabulary: astonishing: 令人惊讶; colleagues: 同事; gravity: 引力; quantization: 量子化
 
-**[528.72s] English:** Кривизна — это свойство».  
+**[2674.30s] English:** I am more skeptical about this. I think we have many surprises in store. Therefore, in this sense, I expect to be surprised.  
 **Translation:** 
 
-**[529.72s] English:** В итоге он говорит «Хорошо, очевидно мне понадобятся  
+**[2684.40s] English:** The biggest and most interesting surprise for me will be...  
+**Translation:** Vocabulary: skeptical: 怀疑的
+
+**[2688.08s] English:** It will be if something better appears and quantum mechanics occurs.  
 **Translation:** 
+
+**[2694.74s] English:** As far as I know, there are no empirically justified reasons to assume that quantum mechanics is wrong by one hundred percent.  
+**Translation:** Vocabulary: empirically: 根据经验; quantum: 量子
 
-**[533.44s] English:** математические инструменты для описания кривизны.  
+**[2702.68s] English:** But suddenly, such a thing is possible.  
 **Translation:** 
 
-**[537.20s] English:** Я их не знаю.  
+**[2705.20s] English:** I have esteemed friends who deliberate on such a key.  
+**Translation:** Vocabulary: deliberate: 深思熟虑; esteemed: 尊敬的
+
+**[2710.58s] English:** So, this is the first thing I would like to know.  
 **Translation:** 
 
-**[538.20s] English:** Поэтому я их выучу».  
+**[2714.64s] English:** Ah, so a black hole would be the most obvious example of...  
 **Translation:** 
 
-**[540.20s] English:** Тогда не было онлайн-курсов или ИИ.  
+**[2718.08s] English:** Yes, this would have been evident there.  
 **Translation:** 
 
-**[543.92s] English:** Ему пришлось читать работы по математике.  
+**[2719.44s] English:** If there was anything new, it would have shown up there.  
 **Translation:** 
 
-**[546.64s] English:** Он сам изучил дифференциальную геометрию и вывел ОТО.  
+**[2722.24s] English:** Possible. The reason is that black holes are mysterious for various reasons.  
 **Translation:** 
 
-**[549.76s] English:** Что насчет времени как еще одного измерения — объединения  
+**[2725.44s] English:** So if our best theory about the universe is wrong, this could explain why.  
 **Translation:** 
 
-**[554.88s] English:** пространства и времени?  
+**[2730.32s] English:** Do you think we might learn something interesting?  
 **Translation:** 
+
+**[2732.72s] English:** Let's say that black holes sometimes create new universes.  
+**Translation:** Vocabulary: universes: 宇宙
 
-**[556.96s] English:** Это простой математический ход, как предложил Минковский?  
+**[2737.52s] English:** Or that black holes are some kind of temporal portal through space-time to another place or something like that.  
 **Translation:** 
 
-**[561.24s] English:** Вообще это непросто.  
+**[2743.84s] English:** Then, our entire conception of spacetime fabric will completely change.  
+**Translation:** Vocabulary: conception: 观念; fabric: 结构; spacetime: 时空; temporal: 时间的
+
+**[2746.68s] English:** Because then black holes are like Swiss cheese.  
 **Translation:** 
+
+**[2752.28s] English:** Yes, this would have surprised me less. I have already written papers on this topic.  
+**Translation:** Vocabulary: swiss: 瑞士奶酪
 
-**[562.82s] English:** Это...  
+**[2757.88s] English:** Again,...  
 **Translation:** 
 
-**[563.82s] English:** Это глубокая идея.  
+**[2760.00s] English:** Well, we have no compelling reasons to believe that a black hole leads to another universe. But it is possible.  
+**Translation:** Vocabulary: compelling: 强有力的
+
+**[2767.14s] English:** Also, it's possible that some black holes lead there while others do not. It's easy to ask questions about this.  
 **Translation:** 
 
-**[566.32s] English:** Вот почему я считаю, что Минковский...  
+**[2772.78s] English:** For which we do not know the answers. The problem is that for questions which are easy to ask,  
 **Translation:** 
 
-**[568.20s] English:** Заслуживает большего признания.  
+**[2777.78s] English:** On which we do not know the answers, it is extremely difficult to respond. Because these objects are very  
 **Translation:** 
 
-**[571.16s] English:** Именно он довел СТО до конца.  
+**[2782.20s] English:** It's difficult to test and study. They are simply very far away. Either literally in deep space,  
 **Translation:** 
 
-**[575.22s] English:** Опять же, многие люди говорили о том, что меняется, если  
+**[2786.80s] English:** Either by energy, mass, or time. You published a work on holographic.  
 **Translation:** 
+
+**[2792.52s] English:** Principle or including a holographic principle. Can you elaborate more?  
+**Translation:** Vocabulary: elaborate: 详细说明; holographic: 全息的
 
-**[578.60s] English:** двигаться близко к скорости света, что предсказывают  
+**[2797.98s] English:** Still from my first published work, I loved taking crazy, speculative ideas and trying to  
 **Translation:** 
 
-**[583.34s] English:** уравнения Максвелла для электромагнетизма и так  
+**[2804.76s] English:** To check them based on the data. The problem is that when you're looking for a case with similar ideas,  
+**Translation:** Vocabulary: speculative: 投机的
+
+**[2810.44s] English:** They are usually designed to build assumptions. Type, I know what will happen.  
 **Translation:** 
+
+**[2816.80s] English:** In some cases, but I don't know how it will be in others. Here's what we did.  
+**Translation:** Vocabulary: assumptions: 假设
 
-**[585.80s] English:** далее, каковы их симметрии.  
+**[2823.00s] English:** As I have already mentioned, the holographic principle is intended to reflect information,  
 **Translation:** 
 
-**[587.56s] English:** Такие люди как Лоренс, Фитчеральд и Пуанкаре — там  
+**[2829.30s] English:** Containing information in black holes. According to it, there is less information, fewer events,  
 **Translation:** 
 
-**[590.74s] English:** целая история.  
+**[2834.46s] English:** What could naively be expected. Let's move from naive expectations to predictions.  
 **Translation:** 
 
-**[592.12s] English:** Считается, что Эйнштейн все закончил.  
+**[2841.56s] English:** Using quantum field theory. Quantum field theory, at present,  
+**Translation:** Vocabulary: naive: 幼稚的; naively: 幼稚地; quantum: 量子
+
+**[2846.80s] English:** Our best theory of fundamental physics. Unlike the holographic principle of black holes,  
 **Translation:** 
 
-**[595.20s] English:** Это он сказал.  
+**[2851.34s] English:** Quantum theory is completely local. At each point in space, something can be happening.  
 **Translation:** 
 
-**[597.20s] English:** Все это работает, если эфира просто не существует.  
+**[2855.82s] English:** Then we sum up different points in space. No holography involved. There's a discrepancy.  
 **Translation:** 
+
+**[2861.48s] English:** Between expectations for what even occurs in empty space, in quantum field theory,  
+**Translation:** Vocabulary: discrepancy: 差异; holography: 全息
 
-**[600.00s] English:** Его не обнаружить. Мы не знаем его скорость. Все относительно. Отсюда и название теории.  
+**[2866.06s] English:** And how to reconcile them with the holographic principle? One approach was proposed.  
 **Translation:** 
 
-**[605.22s] English:** Но он не сделал последний шаг к осознанию, что созданная им структура лучше всего  
+**[2873.00s] English:** From the perspective of quantum field theory,  
+**Translation:** Vocabulary: holographic: 全息的; reconcile: 调和
+
+**[2876.80s] English:** It is assumed that there exists  
 **Translation:** 
 
-**[610.62s] English:** воспринимается в единстве пространства и времени. Я честно не представляю, что было в голове у  
+**[2880.00s] English:** There are much more states, much more ways of existence for the system than actually exist.  
 **Translation:** 
 
-**[618.60s] English:** Минковского, когда он это понял. Я не уверен, был ли он настолько одарен математике, что ему это  
+**[2887.86s] English:** Here we will introduce a bit of mathematics. Perhaps there are people in the audience who love math.  
 **Translation:** 
+
+**[2894.50s] English:** I will draw two axes for two-dimensional geometry, for example, on the surface of a table.  
+**Translation:** Vocabulary: geometry: 几何
 
-**[625.08s] English:** было очевидно, или пришло к нему с усилием, методом проб и ошибок. Не уверен. Ты для него или  
+**[2901.92s] English:** The essence of two-dimensional geometry is that I can draw two perpendicular vectors to each other.  
 **Translation:** 
 
-**[631.74s] English:** для Эйнштейна визуализируешь четырехмерное пространство, пытаешься представить себе идею  
+**[2906.78s] English:** I cannot draw three perpendicular vectors to each other.  
 **Translation:** 
 
-**[636.58s] English:** времени как еще одного измерения? О, да. Постоянно. Конечно, мы облегчаем себе жизнь, игнорируя два  
+**[2911.26s] English:** They should slightly intersect.  
 **Translation:** 
 
-**[643.14s] English:** измерения пространства. Вместо четырехмерного пространства-времени мы рисуем картинки с одним  
+**[2913.38s] English:** This is true for any number of dimensions.  
+**Translation:** Vocabulary: dimensions: 维度; intersect: 相交
+
+**[2915.82s] English:** But I can ask, to what extent should they intersect?  
 **Translation:** 
+
+**[2920.52s] English:** If I try to add more vectors to the vector space,  
+**Translation:** Vocabulary: vectors: 向量
 
-**[648.54s] English:** измерением пространства и одним измерением времени. Так называемую диаграмму пространства-времени.  
+**[2924.14s] English:** What is the dimensionality of this space?  
 **Translation:** 
 
-**[653.28s] English:** Может, в этом...  
+**[2927.22s] English:** Can we make them almost perpendicular to each other?  
+**Translation:** Vocabulary: dimensionality: 空间维度; perpendicular: 垂直
+
+**[2930.86s] English:** Mathematical answer: that as the number of dimensions increases,  
 **Translation:** 
+
+**[2934.46s] English:** Can we add an enormous amount of additional information?  
+**Translation:** Vocabulary: mathematical: 数学的
 
-**[654.66s] English:** Я не знаю.  
+**[2936.78s] English:** Additional vectors, which will be almost perpendicular to each other.  
 **Translation:** 
 
-**[655.06s] English:** Есть твой вопрос. Но даже лучшие физики нарисуют вертикальную ось и горизонтальную ось. Пространство  
+**[2941.46s] English:** In this case, we say that the number of things,  
 **Translation:** 
 
-**[663.94s] English:** и время. Но в сущности это неверно, потому что так отдается предпочтение одному направлению  
+**[2944.54s] English:** Which may occur in the area of space,  
 **Translation:** 
 
-**[670.66s] English:** пространства и одному направлению времени. На самом деле пространство-время двумерно.  
+**[2948.34s] English:** holography,  
+**Translation:** Vocabulary: holography: 全息术
+
+**[2950.00s] English:** It is described correctly.  
 **Translation:** 
+
+**[2953.12s] English:** Quantum field theory  
+**Translation:** Vocabulary: quantum: 量子
 
-**[676.36s] English:** Более правильно будет нарисовать лучи света. Световые конусы. Из каждой точки есть фиксированное  
+**[2954.54s] English:** Overestimates their quantity,  
 **Translation:** 
 
-**[685.04s] English:** направление, которое представляет скорость света. Это присуще самой структуре. Разделение на пространство  
+**[2957.58s] English:** Because in quantum field theory, the states are not strictly perpendicular to each other.  
+**Translation:** Vocabulary: overestimates: 高估; strictly: 严格地
+
+**[2962.58s] English:** It should be noted that in quantum mechanics,  
 **Translation:** 
 
-**[693.14s] English:** и время для людей легко. В чем разница между пространством и временем с точки зрения ОТО?  
+**[2964.54s] English:** States are represented by vectors in some area,  
 **Translation:** 
 
-**[701.60s] English:** Это разница между иксом и игреком, когда ты рисуешь оси на бумаге.  
+**[2966.78s] English:** In an enormous multidimensional vector space, very large.  
 **Translation:** 
+
+**[2970.38s] English:** Possible that the states in quantum field theory are not entirely perpendicular to each other.  
+**Translation:** Vocabulary: multidimensional: 多维的
 
-**[706.04s] English:** Разницы и правда нет? Разницы почти нет. Есть одно довольно важное. Следующее отличие. Если в пространстве кривая, я буду рисовать его на бумаге.  
+**[2976.60s] English:** If this is the case, this is already speculation.  
 **Translation:** 
 
-**[715.04s] English:** Я буду рисовать его горизонтально, потому что так мы обычно делаем в диаграммах пространства-времени.  
+**[2979.34s] English:** But if that's the case, how can we know?  
+**Translation:** Vocabulary: speculation: 猜测
+
+**[2981.88s] English:** What is the experimental deviation?  
 **Translation:** 
+
+**[2984.98s] English:** It would be quite appropriate if we made an assumption and discovered,  
+**Translation:** Vocabulary: assumption: 假设; deviation: 偏差
 
-**[719.40s] English:** Если пространство-время, я буду рисовать его на бумаге.  
+**[2988.80s] English:** There is no noticeable experimental difference.  
 **Translation:** 
 
-**[720.00s] English:** пространство искривляется, ты знаешь, что самое короткое  
+**[2992.32s] English:** Because, again, it is all located very, very far from us.  
 **Translation:** 
 
-**[723.76s] English:** расстояние между двумя точками — это прямая.  
+**[2996.78s] English:** We took a risk and made several specific assumptions.  
 **Translation:** 
 
-**[726.14s] English:** Если искривлено время, и, кстати говоря, это вся  
+**[3000.00s] English:** About how this strange overlap of states manifests in the equations of particle motion, such as those for neutrinos.  
+**Translation:** Vocabulary: assumptions: 假设
+
+**[3011.66s] English:** Then we predicted how neutrinos would behave, based on these bold assumptions.  
 **Translation:** 
+
+**[3017.60s] English:** Then we compared with the data.  
+**Translation:** Vocabulary: neutrinos: 中微子
 
-**[729.70s] English:** наша жизнь, мы все развиваемся, можно начать с одного события  
+**[3019.30s] English:** We have found that we are quite close, but have not yet reached the detectability of the effect we predict.  
 **Translation:** 
 
-**[733.84s] English:** в пространстве времени и другого события.  
+**[3028.12s] English:** In other words, we predict that if neutrinos...  
+**Translation:** Vocabulary: detectability: 可检测性
+
+**[3032.12s] English:** There is a reason why exactly neutrinos.  
 **Translation:** 
 
-**[736.80s] English:** Минковский говорит, что время, которое вы измеряете  
+**[3034.20s] English:** We can discuss this, but it's not very interesting.  
 **Translation:** 
 
-**[740.44s] English:** вдоль вашей траектории во Вселенной, точно аналогично  
+**[3036.80s] English:** So if a neutrino is traveling to us from somewhere in a very, very distant galaxy through the universe,  
 **Translation:** 
+
+**[3042.24s] English:** There is a possibility that on its way it will decay into other neutrinos.  
+**Translation:** Vocabulary: galaxy: 星系; neutrino: 中微子
 
-**[745.06s] English:** расстоянию, которую вы проходите по кривой в пространстве,  
+**[3047.14s] English:** Because, as vectors, they are not simply perpendicular to each other, as was the case in quantum field theory.  
 **Translation:** 
 
-**[749.12s] English:** что подразумевается поточно, это что также верно, что  
+**[3052.96s] English:** This means that if you observe neutrinos traveling from a sufficiently great distance,  
+**Translation:** Vocabulary: perpendicular: 垂直; quantum: 量子; sufficiently: 足够; vectors: 向量
+
+**[3057.20s] English:** With high energy, they should dissipate.  
 **Translation:** 
+
+**[3061.52s] English:** If you see many neutrinos nearby, then there should be fewer of them further away.  
+**Translation:** Vocabulary: dissipate: 消散
 
-**[753.30s] English:** расстояние, которое вы пройдете, зависит от пути.  
+**[3068.46s] English:** There is an experiment called IceCube.  
 **Translation:** 
 
-**[756.94s] English:** Можно пройти по прямой, коротким путем или длинным  
+**[3071.54s] English:** This is a remarkable testimony to human ingenuity.  
+**Translation:** Vocabulary: ingenuity: 聪明才智; testimony: 证明
+
+**[3076.44s] English:** They are drilling holes in Antarctica,  
 **Translation:** 
+
+**[3078.92s] English:** And they lower photodetectors on a wire down a mile in depth.  
+**Translation:** Vocabulary: antarctica: 南极洲; photodetectors: 光探测器
 
-**[759.22s] English:** по кривой.  
+**[3085.58s] English:** They factually...  
 **Translation:** 
 
-**[760.42s] English:** Время, которое вы измерите в пространстве времени,  
+**[3087.20s] English:** They use all the ice in the cube.  
 **Translation:** 
 
-**[763.46s] English:** буквально время, которое идет на ваших часах, также  
+**[3089.46s] English:** I'm not sure if it's exactly a mile, but something around a kilometer.  
 **Translation:** 
 
-**[766.70s] English:** зависит от вашего пути, но наоборот.  
+**[3093.12s] English:** Deep, in general.  
 **Translation:** 
 
-**[769.28s] English:** Самое долгое время между двумя точками — это прямая  
+**[3095.10s] English:** This object of ice serves as a detector.  
 **Translation:** 
 
-**[772.60s] English:** линия.  
+**[3098.54s] English:** They observe flashes when cosmic radiation, or neutrinos, or something else, strikes a molecule of ice.  
+**Translation:** Vocabulary: cosmic: 宇宙的; detector: 探测器; flashes: 闪光; molecule: 分子; neutrinos: 中微子
+
+**[3105.86s] English:** Water in ice.  
 **Translation:** 
 
-**[773.62s] English:** Если прыгать вперед-назад в пространстве времени,  
+**[3106.90s] English:** They cause flashes in the ice?  
 **Translation:** 
 
-**[775.78s] English:** потребуется меньше времени, чтобы добраться из точки  
+**[3108.58s] English:** Yes.  
 **Translation:** 
 
-**[778.08s] English:** А в точку Б.  
+**[3109.18s] English:** They are looking for...  
 **Translation:** 
 
-**[779.12s] English:** Как нам это понять?  
+**[3110.20s] English:** Rазве это... Как выглядит такой детектор?  
 **Translation:** 
 
-**[783.00s] English:** Разницу между наблюдаемой реальностью и объективной  
+**[3114.72s] English:** This is many strings. Many, many strings.  
 **Translation:** 
 
-**[788.54s] English:** реальностью за ней?  
+**[3117.20s] English:** With photodetectors on 360 degrees.  
 **Translation:** 
+
+**[3120.00s] English:** Degrees, and you did this incredibly cool thing! It's amazing work they're doing; registering...  
+**Translation:** Vocabulary: registering: 登记
 
-**[790.18s] English:** Или объективная реальность — это глупость на фоне  
+**[3128.38s] English:** Neutrinos, that is, they search for neutrinos, which are the essence of what most cosmic rays consist of, namely protons.  
 **Translation:** 
 
-**[793.56s] English:** ОТО?  
+**[3134.22s] English:** Why, because protons exist and are large enough to accelerate to very high energies.  
+**Translation:** Vocabulary: accelerate: 加速; energies: 能量; protons: 质子
+
+**[3141.60s] English:** As a rule, high-energy cosmic rays consist of protons and they also collide with  
 **Translation:** 
+
+**[3146.82s] English:** Atmosphere of the Earth and break down into other particles, and as for neutrinos, they mostly often pass through.  
+**Translation:** Vocabulary: collide: 碰撞; particles: 粒子
 
-**[794.10s] English:** Я верю в нее.  
+**[3154.02s] English:** Naturally, everywhere on Earth and not just in Antarctica, neutrinos occasionally interact with particles in the ground.  
 **Translation:** 
 
-**[795.26s] English:** Я думаю, что объективная реальность...  
+**[3161.40s] English:** Here's the transcript with natural English punctuation and capitalization: А ещё нейтрино от солнца от Вселенной постоянно проходят через ваше тело, так что если ты набрался... Additional punctuation: Comma after "тело" to separate clauses. Period at the end of the sentence. Capitalized: "Вселенной" as it refers to a specific concept.  
+**Translation:** Vocabulary: antarctica: 南极; capitalization: 大写; capitalized: 大写的; clauses: 分句; transcript: 录音
+
+**[3169.02s] English:** Terpene took a large chunk of ice from Antarctica for observation, and it's good that the ice is transparent.  
 **Translation:** 
+
+**[3176.82s] English:** Nature created us a neutrino detector, and this is what Ice Cube does. That's why it's called ice because there's a lot of it.  
+**Translation:** Vocabulary: neutrino: 中微子; transparent: 透明
 
-**[796.80s] English:** Ты ее поклонник?  
+**[3184.70s] English:** Few noises and you can observe that it is much denser than air, but transparent, yeah, more dense, that is.  
 **Translation:** 
 
-**[797.72s] English:** Реально.  
+**[3194.70s] English:** The probability is higher and transparent ones, as well as those at the edge of the earth, so you can see them. People are classier; I love it. Say "Agreed.  
+**Translation:** Vocabulary: classier: 更有层次; denser: 更密集
+
+**[3206.82s] English:** Can we take a look at the ICE Cube experiment graph? Let's see how many neutrinos with very high energies they detected.  
 **Translation:** 
+
+**[3214.06s] English:** In our small mental holographic experiment, we predict  
+**Translation:** Vocabulary: detected: 探测到; holographic: 全息的; neutrinos: 中微子
 
-**[798.96s] English:** Но я считаю, что люди слишком легкомысленно относятся  
+**[3220.02s] English:** The presence of a neutrino threshold should be visible as energy increases, then they are scattered if.  
 **Translation:** 
 
-**[805.24s] English:** к взаимосвязи между тем, что мы наблюдаем...  
+**[3225.68s] English:** Look at their data; they end where we presumed the threshold would be. This does not mean that  
+**Translation:** Vocabulary: threshold: 临界值
+
+**[3232.06s] English:** The threshold, correctly this means that they lose the opportunity to conduct the experiment exactly there.  
 **Translation:** 
 
-**[809.12s] English:** ...и объективной реальностью.  
+**[3236.82s] English:** Where we predicted the threshold for mommy's care.  
 **Translation:** 
 
-**[811.88s] English:** Конечно, чтобы понять мир, наши исходные и финишные  
+**[3240.00s] English:** Good. And why is there a threshold?  
 **Translation:** 
+
+**[3243.40s] English:** Because neutrinos with high energies are becoming fewer.  
+**Translation:** Vocabulary: energies: 能量
 
-**[816.12s] English:** точки — это наши наблюдения, наши эксперименты, явления,  
+**[3246.76s] English:** There exists a spectrum, and it decreases.  
 **Translation:** 
 
-**[821.04s] English:** которые мы проживаем и видим в мире вокруг.  
+**[3248.98s] English:** But here we are showing the number of neutrinos.  
+**Translation:** Vocabulary: decreases: 减少
+
+**[3253.48s] English:** Depending on the energy, it decreases and there becomes very little of them.  
 **Translation:** 
 
-**[823.92s] English:** Но между ними есть математическая формация наших идей о происходящем.  
+**[3256.96s] English:** For prediction, high-energy neutrinos are needed.  
 **Translation:** 
 
-**[833.30s] English:** Если теория соответствует данным, проста и логична  
+**[3260.44s] English:** The effect is slightly greater at higher energies.  
 **Translation:** 
 
-**[836.26s] English:** сама по себе...  
+**[3263.02s] English:** Yes.  
 **Translation:** 
 
-**[838.00s] English:** ...и...  
+**[3263.64s] English:** Ponimayu. And this effect is associated with perpendicularity.  
 **Translation:** 
 
-**[839.00s] English:** ...теория...  
+**[3266.46s] English:** Let me mention Oliver Friedrich.  
 **Translation:** 
 
-**[840.00s] English:** Верно. Это значит, что мы должны прописать некую реальность сущностям, которые играют важную роль в этой теории.  
+**[3268.40s] English:** He led this research.  
 **Translation:** 
 
-**[850.42s] English:** По крайней мере, пока не предложим теорию получше.  
+**[3270.08s] English:** He deserves recognition for this work.  
 **Translation:** 
 
-**[853.02s] English:** Думаю, что хорошим способом проверить разницу между объективной и наблюдаемой реальностью заключается в том, что происходит на краю горизонта черной дыры.  
+**[3272.32s] English:** I was with the author and also did some work, but the laurels belong to him.  
 **Translation:** 
+
+**[3276.02s] English:** Thank you, Oliver. Thank you for advancing science.  
+**Translation:** Vocabulary: advancing: 推动; laurels: 荣誉
 
-**[863.72s] English:** То есть, технически, когда ты ближе к горизонту, время останавливается?  
+**[3280.62s] English:** By the way, about this meta-process.  
 **Translation:** 
 
-**[871.06s] English:** И да, и нет. Это зависит от того, насколько мы аккуратны.  
+**[3285.42s] English:** How do you approach such big questions?  
 **Translation:** 
 
-**[875.56s] English:** Как по мне, верно следующее.  
+**[3288.54s] English:** And formulate them in terms of work and experiments,  
 **Translation:** 
 
-**[881.18s] English:** Представим себе черную дыру, пространство-время, все решение уравнения Эйнштейна, и рассмотрим нас с тобой как так называемые тестовые частицы.  
+**[3292.14s] English:** Which one will lead to prediction?  
+**Translation:** Vocabulary: experiments: 实验
+
+**[3294.36s] English:** What is this process?  
 **Translation:** 
+
+**[3296.26s] English:** An interesting thing happens when you become a theoretical physicist.  
+**Translation:** Vocabulary: physicist: 物理学家
 
-**[891.78s] English:** У нас с тобой нет гравитационных полей.  
+**[3300.00s] English:** Here you are, an undergraduate who has written several works.  
 **Translation:** 
 
-**[893.72s] English:** Мы просто движемся в гравитационном поле. Это, конечно, приблизительно, да?  
+**[3304.38s] English:** Suddenly, you become a world expert in an incredibly tiny area of knowledge.  
+**Translation:** Vocabulary: undergraduate: 大学本科生
+
+**[3309.02s] English:** In other areas, you are not particularly knowledgeable.  
 **Translation:** 
+
+**[3311.94s] English:** There is a huge temptation to dig deeper,  
+**Translation:** Vocabulary: knowledgeable: 懂的少; temptation: 诱惑
 
-**[897.40s] English:** Но давай представим, ты стоишь снаружи черной дыры, а я падаю внутрь.  
+**[3315.06s] English:** Continue doing what you started.  
 **Translation:** 
 
-**[903.02s] English:** По мере того, как я падаю, я тебя машу, ведь я падаю в черную дыру.  
+**[3318.64s] English:** But, perhaps, what you started with is not the most interesting area.  
 **Translation:** 
 
-**[908.10s] English:** Ты увидишь, что я двигаюсь все медленнее, а еще свет от меня краснеет.  
+**[3323.10s] English:** Neither for the world nor for you personally.  
 **Translation:** 
 
-**[915.10s] English:** Я смущен от того, что падаю в черную дыру.  
+**[3325.56s] English:** Therefore, it is necessary to develop the ability separately.  
+**Translation:** Vocabulary: separately: 单独地
+
+**[3328.16s] English:** Make a step back and ask yourself,  
 **Translation:** 
 
-**[918.10s] English:** Существует предел.  
+**[3330.00s] English:** Ok, now when can I start writing papers in this area?  
 **Translation:** 
 
-**[919.78s] English:** Будет самый последний момент,  
+**[3334.18s] English:** When am I sufficiently informed about the process?  
 **Translation:** 
+
+**[3337.84s] English:** Where is the intersection between my interests and my abilities?  
+**Translation:** Vocabulary: intersection: 兴趣与能力的交集; sufficiently: 足够地
 
-**[921.78s] English:** когда с твоей точки зрения, от того, что я падаю в черную дыру,  
+**[3341.44s] English:** And what is actually interesting?  
 **Translation:** 
 
-**[923.68s] English:** от меня будет излучаться свет.  
+**[3344.20s] English:** Honestly, throughout my career,  
 **Translation:** 
 
-**[925.68s] English:** Последний. Окей.  
+**[3349.02s] English:** This is not very well.  
 **Translation:** 
 
-**[927.68s] English:** Ты буквально его не увидишь.  
+**[3352.80s] English:** Usually I worked in the general area of particle physics,  
 **Translation:** 
 
-**[929.68s] English:** Потому что я все медленнее излучаю фотоны.  
+**[3357.12s] English:** Theories of fields, TOE,  
 **Translation:** 
 
-**[933.68s] English:** Так? С твоей точки зрения.  
+**[3360.86s] English:** I tried to take ideas from what other people were saying and ask myself,  
 **Translation:** 
 
-**[935.68s] English:** Я такой же яркий, но я, по сути, не буду виден на этой картинке.  
+**[3367.04s] English:** Really, do they coordinate with each other?  
 **Translation:** 
 
-**[941.68s] English:** Это одна ситуация.  
+**[3370.24s] English:** I probably have three very successful works in terms of citation.  
+**Translation:** Vocabulary: citation: 引用; coordinate: 协调
+
+**[3379.40s] English:** My first job, for which I received very little recognition,  
 **Translation:** 
 
-**[943.68s] English:** Другая ситуация, где у меня есть собственное гравитационное поле,  
+**[3383.08s] English:** He did it with my advisor and his colleague.  
 **Translation:** 
 
-**[947.68s] English:** и, следовательно, по мере приближения к черной дыре,  
+**[3386.02s] English:** Two others were, in essence, my ideas.  
 **Translation:** 
+
+**[3387.90s] English:** One was written immediately after we detected accelerated expansion.  
+**Translation:** Vocabulary: accelerated: 加速的; detected: 检测到
 
-**[950.68s] English:** она не позволяет мне просто пройти.  
+**[3392.60s] English:** In 1998, observations showed that the universe is not just expanding,  
 **Translation:** 
 
-**[953.68s] English:** Она теряется, чтобы  
+**[3396.16s] English:** It is expanding faster and faster.  
 **Translation:** 
 
-**[955.68s] English:** меня поглотить.  
+**[3398.66s] English:** Either due to the cosmological constant Einstein introduced,  
 **Translation:** 
 
-**[956.68s] English:** Потому что ее суммарная масса  
+**[3402.04s] English:** Either some form of dark energy or more complex dark energy.  
+**Translation:** Vocabulary: cosmological: 宇宙学的
+
+**[3405.16s] English:** Of some mysterious thing filling the universe.  
 **Translation:** 
 
-**[958.68s] English:** будет равна моей плюс и минус.  
+**[3407.60s] English:** People throw in ideas about dark energy to make it seem possible, and so on.  
 **Translation:** 
 
-**[960.00s] English:** ее. Грубо говоря, так, да, мне не нравятся крайности, в них приблизительно говорить невозможно,  
+**[3412.78s] English:** Most of them were cosmologists.  
 **Translation:** 
+
+**[3415.40s] English:** They study cosmology and think about the universe.  
+**Translation:** Vocabulary: cosmologists: 宇宙学家; cosmology: 宇宙学
 
-**[966.72s] English:** но если ты видишь, как что-то падает в черную дыру, ты видишь, как часы тикают все медленнее.  
+**[3417.90s] English:** In general, I enjoy communicating with people from different fields,  
 **Translation:** 
 
-**[972.16s] English:** Как нам знать, упало оно или нет? Никак. Как нам это узнать? Ведь всегда есть вероятность,  
+**[3424.28s] English:** So, I knew more than many did.  
 **Translation:** 
 
-**[977.96s] English:** что в последний момент она передумает и начнет ускоряться прочь. Если ты не видишь заходы в дыру,  
+**[3428.28s] English:** What do respected physicists in the field of particle physics think about this?  
 **Translation:** 
 
-**[984.62s] English:** ты точно не знаешь. И стоит отметить, что каким бы умным ни был Эйнштейн, он так и не понял черные  
+**[3432.58s] English:** I immediately thought, guys, you're scattering theories around.  
+**Translation:** Vocabulary: particle: 亚原子粒子; physicists: 物理学家; respected: 受尊敬的; scattering: 散布
+
+**[3436.88s] English:** They are completely unnatural. They are precisely resembled.  
 **Translation:** 
+
+**[3440.36s] English:** Any physicist in the field of particles would be ashamed to discuss such a thing.  
+**Translation:** Vocabulary: particles: 粒子; physicist: 物理学家; precisely: 精确地; resembled: 相似; unnatural: 不自然
 
-**[989.76s] English:** дыры, хотя мог бы. Стыдно, что потребовались десятилетия размышлений об ОТО, чтобы понять,  
+**[3443.26s] English:** But instead of laughing at them,  
 **Translation:** 
 
-**[995.24s] English:** что существуют такие вещи, как черные дыры. Потому что Эйнштейн вывел ОТО в 1915, два года спустя,  
+**[3447.90s] English:** I wondered if there is an acceptable version?  
 **Translation:** 
 
-**[1005.64s] English:** Шварцшильд, Карл Шварцшильд, вывел решение уравнения Эйнштейна, представляющее черную дыру,  
+**[3451.48s] English:** Is there a way to avoid offending physicists and yet have the expansion of the universe accelerate?  
 **Translation:** 
 
-**[1013.32s] English:** решение Шварцшильда. Его значимости не понимали до 50-х годов, до Дэвида Финкельштейна и других.  
+**[3456.94s] English:** I realized that there is a certain set of relatively natural models.  
+**Translation:** Vocabulary: accelerate: 加速; offending: 冒犯
+
+**[3462.74s] English:** And you know what?  
 **Translation:** 
 
-**[1019.76s] English:** Это лишь один из примеров, когда физики оказались не так умны, как должны были быть.  
+**[3464.28s] English:** Based on them, a new experimental prediction can be made.  
 **Translation:** 
 
-**[1024.60s] English:** Ну, это сингулярность, это граница теории, предел. Можно понять, ведь трудно представить предел вещей.  
+**[3468.08s] English:** So I did, and the people were satisfied.  
 **Translation:** 
 
-**[1034.42s] English:** Это очень трудно представить. Черная дыра во многом сильно отличается от того, к чему мы привыкли.  
+**[3470.48s] English:** What was able to satisfy physicists?  
 **Translation:** 
 
-**[1039.46s] English:** С другой стороны, настоящая причина, конечно, в том, что между 1915 и 1955 физики происходило  
+**[3475.28s] English:** And explain such a delicate matter,  
 **Translation:** 
 
-**[1046.26s] English:** множество других действительно интересных событий.  
+**[3477.90s] English:** How about dark energy?  
 **Translation:** 
 
-**[1049.76s] English:** Это и квантовая теория поля. Многие величайшие умы были сосредоточены на этом.  
+**[3480.00s] English:** That dark energy permeates the entire universe and slowly changes,  
 **Translation:** 
+
+**[3487.00s] English:** This is a red flag.  
+**Translation:** Vocabulary: permeates: 渗透
 
-**[1053.60s] English:** Но все же, если Вселенная предоставляет вам решение ОТО в искривленном пространстве времени,  
+**[3489.06s] English:** Because particle physics is a story about length scales and time.  
 **Translation:** 
 
-**[1059.06s] English:** и некоторые его свойства загадочны, я бы постарался в этом разобраться.  
+**[3494.14s] English:** Which are usually small.  
 **Translation:** 
 
-**[1064.36s] English:** Как работает черная дыра? Представь, что ты Эйнштейн, и доведи ОТО до логического завершения относительно этих массивных объектов.  
+**[3497.54s] English:** Particles are small. They vibrate quickly.  
 **Translation:** 
 
-**[1073.84s] English:** Лучше думать о черной дыре не как об объекте, а как об области пространства времени.  
+**[3500.88s] English:** Here they say about a new field and its typical rate of change—once in a billion years.  
+**Translation:** Vocabulary: vibrate: 振动
+
+**[3506.04s] English:** This is simply unnatural.  
 **Translation:** 
 
-**[1079.64s] English:** Хорошо.  
+**[3508.68s] English:** This can be formalized, for example, even if we consider a particle which  
 **Translation:** 
 
-**[1079.76s] English:** Хорошо.  
+**[3515.18s] English:** Evolved over billions of years.  
 **Translation:** 
+
+**[3518.84s] English:** If she interacts with any other particles at all,  
+**Translation:** Vocabulary: evolved: 演化; interacts: 相互作用
 
-**[1080.00s] English:** Это область со свойством, по крайней мере, в рамках классической ОТО.  
+**[3522.50s] English:** She will accelerate, its dynamics will increase, its mass will become greater, and so on.  
 **Translation:** 
 
-**[1084.36s] English:** Квантовая механика все усложняет, допустим, мы придерживаемся классической теории.  
+**[3528.20s] English:** Here's the whole story.  
 **Translation:** 
 
-**[1088.72s] English:** Это область пространства-времени с таким свойством, что раз ты в нее попал, покинуть ее невозможно.  
+**[3529.96s] English:** In quantum field theory, everything should be stable and interact.  
 **Translation:** 
 
-**[1093.60s] English:** Буквально эквивалентом выхода из черной дыры было бы движение со скоростью выше скорости света.  
+**[3532.96s] English:** How can this be avoided? The answer is symmetry.  
+**Translation:** Vocabulary: quantum: 量子; symmetry: 对称性
+
+**[3536.58s] English:** Can we maintain symmetry?  
 **Translation:** 
 
-**[1099.20s] English:** Сложность тут одинаковая.  
+**[3538.54s] English:** Which one?  
 **Translation:** 
 
-**[1101.56s] English:** Чтобы выйти, нужно двигаться быстрее скорости света.  
+**[3538.66s] English:** It protects the new field from interacting with any other fields.  
 **Translation:** 
+
+**[3543.86s] English:** This is good for two reasons.  
+**Translation:** Vocabulary: interacting: 交互
 
-**[1104.50s] English:** Как только ты внутри, все в порядке.  
+**[3545.78s] English:** Firstly, this maintains low dynamics.  
 **Translation:** 
 
-**[1107.10s] English:** В теории ты даже не заметишь, когда пересечешь горизонт событий, как мы его называем.  
+**[3548.98s] English:** You can't explain why she is not tall; you just made that up.  
+**Translation:** Vocabulary: firstly: 首先
+
+**[3552.06s] English:** But at least it protects from acceleration because nothing interacts with other particles.  
 **Translation:** 
+
+**[3556.94s] English:** Secondly, this complicates detection.  
+**Translation:** Vocabulary: acceleration: 加速度; complicates: 使复杂; detection: 检测; particles: 粒子
 
-**[1111.60s] English:** Горизонт событий — это точка невозврата, после которой покинуть дыру уже нельзя.  
+**[3559.94s] English:** Experiments to search for the fifth force.  
 **Translation:** 
 
-**[1116.02s] English:** Тем временем, пространство-время вокруг тебя сжимается до сингулярности в твоем будущем.  
+**[3563.86s] English:** Or drift in fundamental constants of nature, such as the electric charge,  
+**Translation:** Vocabulary: constants: 基本常数; drift: 漂移; experiments: 实验
+
+**[3568.52s] English:** Or the charge of an electron,  
 **Translation:** 
 
-**[1123.26s] English:** То есть гравитационные силы настолько сильны, что разорвут твое тело на части, и ты умрешь за какой-то промежуток времени.  
+**[3570.24s] English:** They should have confirmed the existence.  
 **Translation:** 
 
-**[1131.40s] English:** Если масса черной дыры примерно равна массе Солнца,  
+**[3573.64s] English:** Dark energy.  
 **Translation:** 
 
-**[1135.46s] English:** переход от горизонта событий до сингулярности займет около одной миллионной секунды.  
+**[3575.16s] English:** I was able to suggest a way to prevent it.  
 **Translation:** 
 
-**[1142.88s] English:** Что произойдет, если попасть в черную дыру?  
+**[3578.84s] English:** Detection?  
 **Translation:** 
 
-**[1145.96s] English:** Если думать об объекте как об информации, информация уничтожается.  
+**[3580.12s] English:** Yes, detection.  
 **Translation:** 
 
-**[1150.96s] English:** Ну, ты задал чрезвычайно сложный вопрос.  
+**[3580.96s] English:** Since symmetry may prevent interaction with other fields, detection is difficult.  
 **Translation:** 
+
+**[3586.76s] English:** By a fortunate coincidence, based on my first work, I understood that there is  
+**Translation:** Vocabulary: coincidence: 巧合
 
-**[1155.96s] English:** Вот почему мне постоянно приходится говорить о разнице черных дыр согласно теории Эйнштейна,  
+**[3591.84s] English:** One loophole.  
 **Translation:** 
 
-**[1162.96s] English:** моей строго классической книги о пространстве.  
+**[3593.76s] English:** If symmetry is introduced,  
+**Translation:** Vocabulary: loophole: 漏洞
+
+**[3596.44s] English:** To protect dark energy from interacting with other fields,  
 **Translation:** 
 
-**[1165.16s] English:** О пространстве-времени и геометрии.  
+**[3598.64s] English:** I was able to prevent it.  
 **Translation:** 
 
-**[1167.86s] English:** Затем, в семидесятых мы начинаем задаваться вопросами квантовой механики и тем, что там происходит.  
+**[3600.00s] English:** There remains one permissible interaction which cannot be excluded.  
 **Translation:** 
+
+**[3600.04s] English:** This.  
+**Translation:** Vocabulary: cannot: 不能; excluded: 排除; permissible: 允许的
 
-**[1174.66s] English:** Согласно классической ОТО, информация, из которой мы состоим,  
+**[3600.96s] English:** But this does not mean that I was unable to prevent interaction with other fields.  
 **Translation:** 
 
-**[1179.16s] English:** когда попадаем в черную дыру, для внешнего мира теряется.  
+**[3604.82s] English:** This is very specific interaction between dark energy and photons.  
+**Translation:** Vocabulary: photons: 光子
+
+**[3609.72s] English:** They meet frequently, and it has the following effect.  
 **Translation:** 
+
+**[3613.74s] English:** When a photon passes through dark energy,  
+**Translation:** Vocabulary: photon: 光子
 
-**[1183.16s] English:** Она там, внутри черной дыры.  
+**[3616.82s] English:** His polarization: up, down, left, right, any.  
 **Translation:** 
 
-**[1185.16s] English:** Но мы больше не можем ее получить.  
+**[3621.40s] English:** It will change as it passes through dark energy.  
+**Translation:** Vocabulary: polarization: 极化
+
+**[3624.78s] English:** This is called double refraction.  
 **Translation:** 
+
+**[3626.62s] English:** Can we conduct calculations and say that it is impossible to make a very precise prediction?  
+**Translation:** Vocabulary: refraction: 折射
 
-**[1187.16s] English:** В семидесятых приходит Стивен Хокинг и указывает на то, что у черных дыр есть излучение.  
+**[3632.54s] English:** Because we invented this model,  
 **Translation:** 
 
-**[1193.16s] English:** Они испускают фотоны.  
+**[3634.38s] English:** But if you want the data to match,  
 **Translation:** 
 
-**[1194.16s] English:** Это другие частицы в окружающую их вселенную.  
+**[3637.26s] English:** Canberra polarization can be predicted.  
 **Translation:** 
 
-**[1197.16s] English:** По мере излучения они теряют массу и в конечном итоге испаряются.  
+**[3640.80s] English:** Rotation by a few degrees, not too much.  
+**Translation:** Vocabulary: canberra: 堪培拉
+
+**[3643.98s] English:** This is very hard to detect, but people are trying.  
 **Translation:** 
+
+**[3647.78s] English:** Right now, we are literally standing before a tremendous opportunity.  
+**Translation:** Vocabulary: detect: 发现
 
-**[1200.00s] English:** исчезают. Как только это происходит, уже нельзя сказать, что информация о тебе или о книге,  
+**[3651.38s] English:** To either confirm or exclude this using relic radiation.  
 **Translation:** 
 
-**[1208.22s] English:** которую бросили в черную дыру, все еще там и спрятана за черной дырой, ведь дыра исчезла.  
+**[3655.04s] English:** There is something in the advertisement.  
 **Translation:** 
 
-**[1213.12s] English:** Либо эта информация уничтожена, как ты и сказал, либо она как-то передана излучению,  
+**[3656.62s] English:** It is claimed, however, that energy was detected and that it exists.  
 **Translation:** 
 
-**[1220.10s] English:** которое выходит в виде излучения Хокинга. Большинство людей верят, что информация  
+**[3663.92s] English:** Statistically, this is insignificant.  
+**Translation:** Vocabulary: detected: 被发现; statistically: 统计上
+
+**[3667.14s] English:** If I had to bet, I think it wouldn't hold up.  
 **Translation:** 
 
-**[1226.10s] English:** каким-то образом передается излучению, и так сохраняется. Это свойство и самой теории  
+**[3671.10s] English:** This is very hard to observe.  
 **Translation:** 
 
-**[1234.44s] English:** относительности, и самой квантовой механики. Объединяем их, и свойство должно сохраниться. Но  
+**[3672.76s] English:** But possibly, as more quality data is obtained,  
 **Translation:** 
 
-**[1240.50s] English:** мы не знаем этого наверняка. Есть люди, которые в этом сомневались, включая Стивена Хокинга. Но  
+**[3676.12s] English:** The clean analysis will confirm that we have detected dark energy.  
 **Translation:** 
 
-**[1245.78s] English:** так думает большинство. Сейчас в рамках темы «Проблемы потери информации в черной дыре»,  
+**[3680.74s] English:** Since we're talking about it,  
 **Translation:** 
 
-**[1255.32s] English:** породившие сотни работ, мы пытаемся выяснить, как передать информацию  
+**[3684.62s] English:** People sometimes experience,  
 **Translation:** 
 
-**[1259.90s] English:** о тебе или книге в излучении черной дыры. Есть ли способ наблюдать излучение Хокинга так,  
+**[3686.62s] English:** What they use is dark energy and dark matter.  
 **Translation:** 
+
+**[3690.34s] English:** As a reason that physicists have completely lost their minds.  
+**Translation:** Vocabulary: physicists: 物理学家
 
-**[1266.56s] English:** чтобы начать получать какую-то информацию, или это все пока только в теории?  
+**[3695.96s] English:** Such a field exists, which permeates everything.  
 **Translation:** 
 
-**[1272.08s] English:** Сейчас мы далеки от возможности наблюдать излучение Хокинга. Грустный факт — чем  
+**[3700.64s] English:** It doesn't resemble anything.  
+**Translation:** Vocabulary: permeates: 渗透
+
+**[3703.24s] English:** It is invisible, and with its help, their calculations match.  
 **Translation:** 
 
-**[1278.18s] English:** больше черная дыра, тем ниже ее температура. Маленькая черная дыра микросвязи  
+**[3707.02s] English:** What do you respond to such assumptions?  
 **Translation:** 
 
-**[1285.30s] English:** гороскопически маленькая, может быть очень заметна.  
+**[3710.52s] English:** Nu, there are two variants of the answer.  
 **Translation:** 
+
+**[3712.22s] English:** First, they would have said the same thing when we discovered Neptune.  
+**Translation:** Vocabulary: neptune: 海王星
 
-**[1288.04s] English:** Она излучает свет.  
+**[3716.62s] English:** Because it's the same here.  
 **Translation:** 
 
-**[1289.18s] English:** А Стрелец А в центре нашей галактики,  
+**[3720.00s] English:** In this case, we had a very good theory: Newton's gravity in the Solar System.  
+**Translation:** Vocabulary: gravity: 引力
+
+**[3725.88s] English:** We made a prediction, but it slightly didn't match the planetary movement.  
 **Translation:** 
 
-**[1292.84s] English:** который в 3 миллиона раз больше массы Солнца,  
+**[3731.20s] English:** This movement could be explained by placing something very simple, another planet, in a specific place.  
 **Translation:** 
 
-**[1296.78s] English:** настолько холодная и с такой низкой температурой,  
+**[3739.36s] English:** We found her after we searched for her.  
 **Translation:** 
 
-**[1299.86s] English:** что ее излучение мы никогда не сможем наблюдать.  
+**[3741.20s] English:** This is the first case where we have detected dark matter in the universe.  
 **Translation:** 
 
-**[1303.08s] English:** Черную дыру создать сложно.  
+**[3745.86s] English:** This material cannot be seen.  
 **Translation:** 
 
-**[1305.14s] English:** Поблизости у нас их нет.  
+**[3748.24s] English:** Agreed.  
 **Translation:** 
 
-**[1306.52s] English:** Те, что во Вселенной, очень-очень тусклые.  
+**[3748.84s] English:** Dark matter and dark energy differ.  
 **Translation:** 
 
-**[1308.72s] English:** Надежды на скорое исследование излучения Хокинга нет.  
+**[3751.38s] English:** Dark matter, as we presume, is some kind of particle.  
 **Translation:** 
 
-**[1311.78s] English:** Предположительно, рядом нет ни одной?  
+**[3757.54s] English:** This is a particle that weakly interacts with us.  
 **Translation:** 
+
+**[3760.46s] English:** We know how much of it there is, we more or less know where it is, and we know some of its properties.  
+**Translation:** Vocabulary: interacts: 相互作用; particle: 粒子; weakly: 微弱地
 
-**[1313.40s] English:** Насколько нам известно,  
+**[3765.64s] English:** We don't know exactly what it is.  
 **Translation:** 
 
-**[1314.72s] English:** рядом нет.  
+**[3768.18s] English:** But this is not something particularly mysterious; it's just a particle.  
 **Translation:** 
 
-**[1316.20s] English:** Может, маленькие, которые сложно обнаружить на границах Солнечной системы?  
+**[3773.76s] English:** Dark energy is another thing.  
 **Translation:** 
 
-**[1320.00s] English:** Не хотелось бы, чтобы они были слишком маленькими, иначе они взорвутся.  
+**[3775.74s] English:** Dark energy is indeed evenly distributed.  
+**Translation:** Vocabulary: evenly: 均匀地
+
+**[3778.32s] English:** Distributed.  
 **Translation:** 
 
-**[1324.56s] English:** Они очень яркие, их было бы видно.  
+**[3778.84s] English:** Distributed in space.  
 **Translation:** 
 
-**[1326.80s] English:** Но есть диапазон, в котором черные дыры так велики, что их не видно.  
+**[3780.86s] English:** It has very strange properties, as far as we understand, it does not change.  
 **Translation:** 
+
+**[3784.96s] English:** The quantity of energy remains unchanged in each cubic centimeter of space at every moment in time.  
+**Translation:** Vocabulary: unchanged: 不变
 
-**[1330.64s] English:** Массивные дыры очень тусклые, они не излучают радиацию,  
+**[3791.18s] English:** Here's why the main candidate for dark energy is Einstein's cosmological constant.  
 **Translation:** 
 
-**[1333.98s] English:** но так малы, что их не обнаружат за счет гравитационного эффекта.  
+**[3796.78s] English:** Cosmological constant — is strictly constant, 100%.  
+**Translation:** Vocabulary: cosmological: 宇宙学的; strictly: 严格地
+
+**[3800.70s] English:** The data shows that it should be constant at least 98%, so a 100% constant is appropriate.  
 **Translation:** 
+
+**[3807.14s] English:** Plus, she is very sturdy.  
+**Translation:** Vocabulary: sturdy: 坚固
 
-**[1337.08s] English:** Да.  
+**[3808.84s] English:** She simply exists, doing nothing, not interacting with other particles, and it all fits.  
 **Translation:** 
 
-**[1338.16s] English:** Психологически и эмоционально, что чувствуешь насчет черных дыр? Пугают?  
+**[3813.40s] English:** Veritably, dark energy is the cosmological constant.  
+**Translation:** Vocabulary: interacting: 相互作用; particles: 粒子; veritably: 实际上
+
+**[3816.66s] English:** It is important to note that the hypothesis of dark matter's existence emerged in the 1970s and 1980s to explain the rotation of galaxies.  
 **Translation:** 
+
+**[3829.90s] English:** Today, the existence of dark matter is proven better than in the 1980s by various sources.  
+**Translation:** Vocabulary: galaxies: 星系; hypothesis: 假设
 
-**[1341.66s] English:** Я люблю их. Люблю черные дыры.  
+**[3838.84s] English:** Observation of a galaxy exists only for those who do not know about galaxies.  
 **Translation:** 
 
-**[1343.54s] English:** Странно, но Вселенная сделала формирование черной дыры трудной задачей,  
+**[3840.00s] English:** relic radiation or large-scale structure of the universe.  
+**Translation:** Vocabulary: galaxy: 星系
+
+**[3844.48s] English:** There are several independent sources,  
 **Translation:** 
+
+**[3847.04s] English:** including gravitational licensing and other effects.  
+**Translation:** Vocabulary: gravitational: 引力的
 
-**[1347.72s] English:** потому что нужно сжать огромное количество материи и энергии  
+**[3850.68s] English:** Many pieces of evidence that confirm the existence of dark matter.  
 **Translation:** 
 
-**[1351.26s] English:** в очень, в очень маленькую область пространства.  
+**[3853.94s] English:** And they indicate that its effects are different from those,  
 **Translation:** 
 
-**[1355.24s] English:** Мы знаем, как создавать звездные черные дыры.  
+**[3858.12s] English:** What would happen with the modification of gravity.  
 **Translation:** 
 
-**[1358.50s] English:** Сверхмассивная звезда может коллапсировать, образовав черную дыру.  
+**[3861.68s] English:** This is the first answer to your question.  
+**Translation:** Vocabulary: gravity: 重力; modification: 修改
+
+**[3863.32s] English:** There are many pieces of evidence for the existence of dark matter.  
 **Translation:** 
 
-**[1362.08s] English:** Мы также знаем, что существуют сверхмассивные черные дыры в центрах галактик.  
+**[3866.48s] English:** Another answer is like this.  
 **Translation:** 
 
-**[1366.08s] English:** Мы не совсем понимаем, откуда они взялись.  
+**[3868.74s] English:** We would very much like dark matter not to exist.  
 **Translation:** 
 
-**[1369.16s] English:** Возможно, это звездные черные дыры, которые слились в одну.  
+**[3872.78s] English:** We are all one hundred percent interested in that.  
 **Translation:** 
 
-**[1374.38s] English:** Что интересно,  
+**[3875.46s] English:** To make it something a bit more exciting than dark matter,  
 **Translation:** 
 
-**[1375.14s] English:** по новым данным телескопа Джеймса,  
+**[3879.24s] English:** Because dark matter is simply a particle.  
 **Translation:** 
 
-**[1377.78s] English:** довольно крупные черные дыры  
+**[3881.52s] English:** The most boring thing in the world.  
 **Translation:** 
 
-**[1379.62s] English:** существовали на относительно ранних этапах существования Вселенной.  
+**[3883.06s] English:** Is dark matter unevenly distributed in space?  
 **Translation:** 
 
-**[1385.32s] English:** Нам и так было трудно понять, откуда они взялись.  
+**[3886.64s] English:** Exactly, yes.  
 **Translation:** 
 
-**[1387.94s] English:** Теперь это более сложная задача.  
+**[3887.72s] English:** We can even look at the maps.  
 **Translation:** 
 
-**[1390.80s] English:** Эти сверхмассивные черные дыры формировались на ранних этапах.  
+**[3889.20s] English:** We created them using gravitational licensing.  
 **Translation:** 
+
+**[3891.72s] English:** Peculiar clusters of dark matter in the galaxy,  
+**Translation:** Vocabulary: clusters: 星系中的聚集体; peculiar: 奇特的
 
-**[1395.68s] English:** То, что их немного, это не баг, а фича.  
+**[3894.50s] English:** Which all explain it.  
 **Translation:** 
 
-**[1397.98s] English:** В противном случае у нас не было бы времени или пространства  
+**[3896.06s] English:** Beyond the galaxy.  
 **Translation:** 
 
-**[1401.28s] English:** для формирования небольших очагов сложности, которые мы зовем людьми.  
+**[3897.72s] English:** We think that in the galaxy,...  
 **Translation:** 
 
-**[1407.72s] English:** Справедливо, да.  
+**[3898.74s] English:** In the galaxy, dark matter is not uniform.  
 **Translation:** 
 
-**[1409.34s] English:** Всегда интересно, когда что-то сложное происходит, несмотря ни на что.  
+**[3900.74s] English:** She is weaker, though.  
 **Translation:** 
 
-**[1415.22s] English:** Вероятность формирования черной дыры могла быть нулевая,  
+**[3902.74s] English:** Her influence is weaker.  
 **Translation:** 
 
-**[1418.34s] English:** или быть равна единице, а тут что-то среднее.  
+**[3904.74s] English:** But in terms of...  
 **Translation:** 
 
-**[1420.90s] English:** И это здорово.  
+**[3905.74s] English:** On a large scale, of the structure of the universe and clusters of galaxies,  
 **Translation:** 
 
-**[1422.28s] English:** Чего больше, разумных инопланетных цивилизаций или сверхмассивных черных дыр?  
+**[3908.74s] English:** Yes, we can show the location of dark matter.  
 **Translation:** 
 
-**[1426.60s] English:** Мда, понятия не имею.  
+**[3910.74s] English:** Maybe there could be a very cool and interesting explanation for dark matter,  
 **Translation:** 
 
-**[1429.22s] English:** Но, думаю, твоя интуиция верна.  
+**[3914.74s] English:** Is this not simply another particle that exists and gathers in a cluster?  
 **Translation:** 
 
-**[1432.48s] English:** Если бы формирование цивилизации было легкой задачей, мы бы их уже заметили.  
+**[3919.74s] English:** Very cool explanation would be in a modification of gravity,  
+**Translation:** Vocabulary: cluster: 星系; particle: 亚原子粒子
+
+**[3922.74s] English:** It's not in the invention of a new particle.  
 **Translation:** 
 
-**[1436.78s] English:** Если бы формирование цивилизации было легкой задачей, мы бы их уже заметили.  
+**[3924.74s] English:** Unfortunately, that doesn't work.  
 **Translation:** 
 
-**[1437.66s] English:** А мы не заметили.  
+**[3926.74s] English:** We tried, I tried.  
 **Translation:** 
 
-**[1440.00s] English:** Самое простое объяснение, почему мы их не видели, и их просто нет.  
+**[3928.74s] English:** This is my third successful work.  
 **Translation:** 
 
-**[1444.34s] English:** Да, я просто думаю, что их должно быть легко создать.  
+**[3931.74s] English:** I tried to unite  
 **Translation:** 
 
-**[1449.18s] English:** Должны быть, я понимаю, что это самое простое объяснение, но также...  
+**[3933.74s] English:** Dark matter and dark energy.  
 **Translation:** 
 
-**[1453.88s] English:** Эукариотическую или многоклеточную жизнь?  
+**[3935.74s] English:** Here was the idea.  
 **Translation:** 
+
+**[3937.74s] English:** Even not an idea, but a striving.  
+**Translation:** Vocabulary: striving: 努力
 
-**[1457.34s] English:** Кажется, что жизнь находит способ.  
+**[3939.74s] English:** I tried, but it didn't work even before we started.  
 **Translation:** 
 
-**[1460.32s] English:** Возможно, на пути к разумным инопланетным цивилизациям есть по-настоящему трудный этап.  
+**[3942.74s] English:** I understood that my idea didn't help.  
 **Translation:** 
 
-**[1466.94s] English:** Но как только жизнь зарождается, как только возникает,  
+**[3944.74s] English:** Possible, she might have.  
 **Translation:** 
 
-**[1471.80s] English:** кажется, что она находит способ выжить везде, в любых условиях.  
+**[3947.74s] English:** Explain dark energy,  
 **Translation:** 
 
-**[1475.80s] English:** Просто находит решение.  
+**[3949.74s] English:** but not dark matter.  
 **Translation:** 
 
-**[1477.62s] English:** Я понимаю, понимаю о чем ты.  
+**[3951.74s] English:** So I decided that it's not really that interesting.  
 **Translation:** 
 
-**[1479.54s] English:** Это вполне разумный подход.  
+**[3953.74s] English:** Then,  
 **Translation:** 
 
-**[1482.88s] English:** Пока не сталкиваешься с данными.  
+**[3954.74s] English:** Two of my employees said,  
 **Translation:** 
 
-**[1485.88s] English:** Я бы не думал, что Земля особенна.  
+**[3956.74s] English:** Such an idea was proposed?  
 **Translation:** 
 
-**[1488.02s] English:** Я бы думал, что во Вселенной много  
+**[3957.74s] English:** Independent.  
 **Translation:** 
 
-**[1489.70s] English:** заметных внеземных цивилизаций.  
+**[3958.74s] English:** Independent of me, they arrived at a point.  
 **Translation:** 
 
-**[1494.54s] English:** Но даже если  
+**[3960.00s] English:** Such a thought. Then I decided, if three different people came up with the same idea, maybe it's  
 **Translation:** 
 
-**[1496.10s] English:** жизнь находит способ, если верит тебе,  
+**[3964.92s] English:** Interesting. We wrote the paper, and it turned out to be very interesting; people got interested.  
 **Translation:** 
 
-**[1499.80s] English:** сколько жизни нужно времени, чтобы его найти?  
+**[3969.72s] English:** Could you describe this article a bit? It's very interesting. Dark energy and dark matter.  
 **Translation:** 
 
-**[1502.98s] English:** Что если это обычно занимает 100 миллиардов лет?  
+**[3975.62s] English:** There's so much we don't understand, yet. How did you start investigating their integration?  
 **Translation:** 
 
-**[1505.76s] English:** Тогда мы одни.  
+**[3981.32s] English:** Here's what we know about dark matter and dark energy. They become important in regimes,  
+**Translation:** Vocabulary: investigating: 调查; regimes: 领域
+
+**[3989.16s] English:** Where gravity is very, very weak. This is contrary to what one would expect from  
 **Translation:** 
+
+**[3998.50s] English:** Modifications of gravity. There exists an empirical law of quantum field theory that new  
+**Translation:** Vocabulary: empirical: 经验; gravity: 引力; modifications: 修改; quantum: 量子
 
-**[1507.86s] English:** Это вопрос времени.  
+**[4005.00s] English:** Effects are noticeable when they are strong. We understand weak fields but not strong ones.  
 **Translation:** 
 
-**[1508.96s] English:** По-твоему, скорее всего, внеземных цивилизаций нет?  
+**[4010.82s] English:** But perhaps it's different here. What I mean by weak gravity: dark energy manifests  
+**Translation:** Vocabulary: manifests: 显现
+
+**[4017.44s] English:** At later stages of gravity's existence, dark energy manifests.  
 **Translation:** 
+
+**[4019.14s] English:** Existence of the Universe. In the early Universe, dark energy was not significant. But density...  
+**Translation:** Vocabulary: density: 物质的密度
 
-**[1514.06s] English:** Я в это не верю.  
+**[4025.00s] English:** Energy constantly. The density of matter and radiation decreases. Before, dark energy did not have  
 **Translation:** 
 
-**[1515.54s] English:** Я верю, что их много, и есть другое объяснение, почему мы их не видим.  
+**[4031.46s] English:** Values in comparison with matter and radiation. At later stages, it becomes important.  
+**Translation:** Vocabulary: decreases: 减少
+
+**[4036.38s] English:** When the universe is sparse and gravity relatively weak, think about galaxies. Galaxies,  
 **Translation:** 
+
+**[4042.98s] English:** More dense in the center and less dense on the periphery. A phenomenological fact about galaxies.  
+**Translation:** Vocabulary: galaxies: 星系; periphery: 边缘; phenomenological: 现象学的; sparse: 稀疏的
 
-**[1519.70s] English:** Тут я некатегоричен, и ставки делать не буду.  
+**[4049.14s] English:** Galactic dark matter is not needed. This is unsurprising because the density of stars and gas  
 **Translation:** 
 
-**[1523.56s] English:** Я сомневаюсь насчет...  
+**[4055.08s] English:** There is very high dark matter, and it is subdominant. There exists a radius within which this does not need to be considered.  
+**Translation:** Vocabulary: galactic: 银河系的; radius: 半径; subdominant: 次要的; unsurprising: 不出乎意料的
+
+**[4062.96s] English:** To make dark matter match the data, but beyond its boundaries it should correspond.  
 **Translation:** 
+
+**[4067.56s] English:** Again, this is in weak gravity. I wondered: We know that in field theory new  
+**Translation:** Vocabulary: correspond: 相符
 
-**[1526.10s] English:** ...того, распространена ли жизнь.  
+**[4076.08s] English:** Effects should manifest when fields are strong, not weak.  
 **Translation:** 
 
-**[1529.62s] English:** Возможно, когда мы посетим другие миры, другие солнечные системы,  
+**[4080.00s] English:** This, we will miss.  
+**Translation:** Vocabulary: manifest: 显现
+
+**[4081.94s] English:** Can I propose a theory in which gravity changes when it is weak?  
 **Translation:** 
+
+**[4088.36s] English:** We have already discussed what gravity is. What is it?  
+**Translation:** Vocabulary: gravity: 引力
 
-**[1533.62s] English:** то найдем микроскопическую жизнь повсеместно.  
+**[4090.88s] English:** This is a curvature of spacetime.  
 **Translation:** 
 
-**[1537.36s] English:** Но ни одна из них не достигала сложной формы.  
+**[4093.22s] English:** There exist mathematical quantities measuring the curvature of spacetime.  
+**Translation:** Vocabulary: curvature: 时空弯曲; mathematical: 数学的; spacetime: 时空
+
+**[4099.04s] English:** Usually one can say that I understand the equation Einstein which I explain in the book.  
 **Translation:** 
+
+**[4105.18s] English:** Connects the curvature of spacetime with matter and energy.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; equation: 场方程
 
-**[1541.14s] English:** А возможно, что ее вообще нет.  
+**[4108.48s] English:** The more matter and energy, the more curvature.  
 **Translation:** 
 
-**[1543.92s] English:** Также возможно, что есть разумные цивилизации, которым есть чем заняться,  
+**[4111.58s] English:** If we add a new condition that states the less matter and energy there is, the more curvature there is, what would happen?  
 **Translation:** 
 
-**[1548.24s] English:** помимо того, чтобы идти к нам в гости.  
+**[4120.52s] English:** There is no reason to do it except for coordinating with the data.  
 **Translation:** 
 
-**[1550.10s] English:** Думаю, нам стоит быть поскромнее в отношении того, о чем мы так мало знаем.  
+**[4124.68s] English:** I tried to combine the necessity of dark matter and dark energy.  
+**Translation:** Vocabulary: coordinating: 协调; necessity: 必要性
+
+**[4128.48s] English:** It would be cool if it were like that.  
 **Translation:** 
 
-**[1553.18s] English:** Также возможно, что существуют некие великие философии,  
+**[4130.36s] English:** Very cool. Absolutely amazing.  
 **Translation:** 
 
-**[1556.10s] English:** и как только цивилизация развивает...  
+**[4132.90s] English:** This did not work.  
 **Translation:** 
 
-**[1560.00s] English:** достаточно сложные технологии,  
+**[4136.34s] English:** It would be interesting if gravity...  
 **Translation:** 
 
-**[1562.84s] English:** эти технологии с большей вероятностью всех уничтожат,  
+**[4138.48s] English:** Gravity behaved strangely if it was low.  
 **Translation:** 
+
+**[4141.38s] English:** It's as if there are distractions on the periphery.  
+**Translation:** Vocabulary: behaved: 表现; distractions: 分心的事物; periphery: 边缘; strangely: 奇怪地
 
-**[1567.12s] English:** нежели поспособствуют творческому развитию.  
+**[4143.98s] English:** I had hoped for that.  
 **Translation:** 
 
-**[1570.04s] English:** Это абсолютно возможно.  
+**[4145.82s] English:** Yes.  
 **Translation:** 
 
-**[1572.12s] English:** В это я на самом деле верю меньше,  
+**[4147.78s] English:** But it's cool that there are equations in physics.  
 **Translation:** 
 
-**[1574.92s] English:** потому что так должно происходить всегда.  
+**[4151.88s] English:** We can choose words, we can wave our hands, but then we need to write the equation. That's what I did.  
+**Translation:** Vocabulary: equations: 方程式
+
+**[4158.00s] English:** I found that they can help with dark energy and the acceleration of the universe, but they do not solve the problem of dark matter.  
 **Translation:** 
+
+**[4164.08s] English:** Yes.  
+**Translation:** Vocabulary: acceleration: 加速
 
-**[1578.70s] English:** Если даже одна...  
+**[4165.02s] English:** It's delightful that on a galactic scale,...  
 **Translation:** 
 
-**[1580.76s] English:** Еще Джон фон Нейман сказал, что не нужно  
+**[4168.48s] English:** ...and solar systems, physics is boring.  
+**Translation:** Vocabulary: galactic: 银河系的
+
+**[4173.38s] English:** Exactly, yes. I agree.  
 **Translation:** 
+
+**[4175.48s] English:** Therefore, I am pulling my hair out when non-physicists blame physicists, as you said, for going crazy in the pursuit of dark matter and dark energy.  
+**Translation:** Vocabulary: physicists: 物理学家; pursuit: 追求
 
-**[1582.98s] English:** искать пришельцев по всей галактике.  
+**[4189.08s] English:** I don't want dark matter and dark energy. I want something much cooler.  
 **Translation:** 
 
-**[1586.14s] English:** Можно сделать самовоспроизводящиеся зонды  
+**[4193.38s] English:** I tried, but we need to listen to the equations and data.  
 **Translation:** 
 
-**[1588.46s] English:** и отправить их по галактике.  
+**[4198.48s] English:** You mentioned three works.  
 **Translation:** 
 
-**[1590.40s] English:** Можно подумать, ну, галактика очень большая.  
+**[4200.00s] English:** The first, really great article, and the second really great article.  
 **Translation:** 
 
-**[1592.92s] English:** Это не так.  
+**[4205.00s] English:** You, of course, have written a lot of work, so you're too hard on everyone else, but...  
 **Translation:** 
 
-**[1594.18s] English:** Ее диаметр несколько десятков тысяч световых лет,  
+**[4210.00s] English:** By the way, here it's not about coolness, but about influence.  
 **Translation:** 
 
-**[1598.04s] English:** а возраст миллиарды лет.  
+**[4213.00s] English:** Influence?  
 **Translation:** 
 
-**[1600.46s] English:** Не нужно двигаться со скоростью близкой к скорости света,  
+**[4214.00s] English:** Agreed.  
 **Translation:** 
 
-**[1603.36s] English:** чтобы заполонить галактику.  
+**[4215.00s] English:** There is no correlation between coolness and influence.  
 **Translation:** 
 
-**[1605.82s] English:** Если ты диктатор разумной внеземной цивилизации,  
+**[4218.00s] English:** Some of my works remained unnoticed, and vice versa.  
 **Translation:** 
 
-**[1609.74s] English:** можно просто распространить множество...  
+**[4221.00s] English:** If a tree falls in the forest...  
 **Translation:** 
 
-**[1612.14s] English:** Сто процентов.  
+**[4223.00s] English:** The first article was titled "Limits on Violations of Lorentz Invariance and Parity Modification of Electromagnetism or Electrodynamic Effects.  
 **Translation:** 
 
-**[1613.52s] English:** Зондов.  
+**[4229.00s] English:** We have figured out how to violate Lorentz invariance, the symmetry based on the theory of relativity.  
 **Translation:** 
 
-**[1614.22s] English:** Да, стоит.  
+**[4235.00s] English:** Important that we found a way which didn't violate anything and was...  
+**Translation:** Vocabulary: invariance: 不变性
+
+**[4240.00s] English:** Experimentally proven.  
 **Translation:** 
 
-**[1615.44s] English:** Если хочешь оптимистический подход,  
+**[4242.00s] English:** People liked this.  
 **Translation:** 
 
-**[1617.44s] English:** вот тебе оптимистичный.  
+**[4244.00s] English:** The second article was titled "Quintessence and the Rest of the World.  
 **Translation:** 
+
+**[4248.00s] English:** Quintessence is a dynamic field of dark energy.  
+**Translation:** Vocabulary: quintessence: 本质
 
-**[1618.50s] English:** Люди, ищущие разумную жизнь за пределами,  
+**[4251.00s] English:** The rest of the world, because I was talking about how the quintessence interacts with other particles and fields, and how to avoid...  
 **Translation:** 
 
-**[1622.24s] English:** часто используют свои радиотелескопы.  
+**[4258.00s] English:** Negativity.  
+**Translation:** Vocabulary: interacts: 相互作用; negativity: 消极; particles: 粒子
+
+**[4259.00s] English:** Unwanted interactions.  
 **Translation:** 
+
+**[4262.00s] English:** The third article was titled "Accelerated Cosmic Expansion in Iso-physics and Gravity.  
+**Translation:** Vocabulary: accelerated: 加速的; cosmic: 宇宙的; gravity: 引力
 
-**[1624.74s] English:** По крайней мере, так делали до того,  
+**[4268.00s] English:** Or something along those lines.  
 **Translation:** 
 
-**[1626.74s] English:** как Аресиба вывели из эксплуатации.  
+**[4271.00s] English:** Do you notice a pattern?  
 **Translation:** 
 
-**[1629.74s] English:** Это не перспективный способ найти разумную жизнь.  
+**[4273.00s] English:** I take what we know, the standard model of particle physics, OTO.  
 **Translation:** 
 
-**[1633.38s] English:** Зачем сверхразумной инопланетной цивилизации  
+**[4277.00s] English:** I make a few adjustments to them and try to fit the data.  
+**Translation:** Vocabulary: adjustments: 修正; particle: 粒子
+
+**[4280.00s] English:** You keep trying to confirm it experimentally.  
 **Translation:** 
 
-**[1636.34s] English:** тратить всю свою энергию,  
+**[4283.00s] English:** In ideal circumstances, yes, exactly, yes. That's the goal.  
 **Translation:** 
 
-**[1637.94s] English:** излучая ее в случайных направлениях в небо?  
+**[4286.00s] English:** You wrote a book called "Something Deeply Hidden.  
 **Translation:** 
+
+**[4288.00s] English:** On the Mysteries of Quantum Mechanics.  
+**Translation:** Vocabulary: quantum: 量子
 
-**[1642.62s] English:** Во-первых, сигнал просто проходит мимо.  
+**[4290.00s] English:** And soon a new book will come out.  
 **Translation:** 
 
-**[1645.94s] English:** Мы тут слушаем радиоволны,  
+**[4293.00s] English:** Great Ideas in the Universe.  
 **Translation:** 
 
-**[1647.98s] English:** всего пару сотен лет.  
+**[4295.00s] English:** Part of the series is called "Quantum and Fields.  
 **Translation:** 
 
-**[1652.22s] English:** Хорошо.  
+**[4298.00s] English:** He talks about quantum mechanics.  
 **Translation:** 
 
-**[1653.22s] English:** Если разумная инопланетная цивилизация  
+**[4301.00s] English:** First, a big question.  
 **Translation:** 
 
-**[1656.22s] English:** существует миллиарды лет,  
+**[4303.00s] English:** Great Ideas in the Universe.  
 **Translation:** 
 
-**[1658.22s] English:** они должны определить точное время,  
+**[4305.00s] English:** What is the most beautiful thing for you?  
 **Translation:** 
 
-**[1660.22s] English:** чтобы отправить нам сигнал.  
+**[4308.00s] English:** Or, perhaps, the most mysterious aspect of quantum mechanics?  
 **Translation:** 
 
-**[1662.22s] English:** Гораздо эффективнее отправлять зонды,  
+**[4312.00s] English:** Quantum mechanics is more complex.  
 **Translation:** 
 
-**[1666.22s] English:** оставить их в других солнечных системах,  
+**[4314.00s] English:** I wrote a textbook on OTO and began it with the words....  
 **Translation:** 
 
-**[1669.22s] English:** и просто ждать, когда в этой солнечной системе  
+**[4317.00s] English:** General Theory of Relativity.  
 **Translation:** 
 
-**[1672.22s] English:** появится разумная цивилизация.  
+**[4319.00s] English:** The most beautiful.  
+**Translation:** Vocabulary: relativity: 相对论
+
+**[4320.00s] English:** Physical theory. I am convinced. It is less fundamental than quantum mechanics. But  
 **Translation:** 
+
+**[4326.48s] English:** Quantum mechanics is much more mysterious. It's currently a bit nonsensical. Can you imagine?  
+**Translation:** Vocabulary: nonsensical: 不合逻辑的
 
-**[1675.22s] English:** Это гипотеза монолита.  
+**[4332.76s] English:** How we teach quantum mechanics to students in the Copenhagen interpretation — it's just  
 **Translation:** 
 
-**[1677.98s] English:** Из космической Одиссей.  
+**[4338.66s] English:** Bardak. You wouldn't suspect her of beauty. I am a supporter of the multiverse interpretation.  
+**Translation:** Vocabulary: copenhagen: 哥本哈根解释
+
+**[4345.26s] English:** Quantum mechanics, and she is very beautiful in that she requires fewer ingredients.  
 **Translation:** 
+
+**[4350.32s] English:** Only one equation, and it can explain everything in the world. This depends on what you are implying.  
+**Translation:** Vocabulary: equation: 方程; implying: 暗示
 
-**[1680.00s] English:** Я был бы меньше удивлен инопланетному артефакту в нашей Солнечной системе, чем принятому радиосигналу от разумной цивилизации.  
+**[4357.62s] English:** Under beauty, I suppose the answer lies in the fact that quantum mechanics can begin with incredibly simple,  
 **Translation:** 
 
-**[1693.02s] English:** Тебе просто нравится общаться лицом к лицу?  
+**[4364.98s] English:** Small ingredients, and yet she captures the world. It's breathtaking. She is more comprehensive.  
+**Translation:** Vocabulary: breathtaking: 令人惊叹
+
+**[4373.70s] English:** Regarding gravity. This  
 **Translation:** 
+
+**[4375.24s] English:** Perfect. Quantum mechanics touches everything, and it seems to be handling the task. I don't know,  
+**Translation:** Vocabulary: gravity: 引力; quantum: 量子
 
-**[1697.60s] English:** Это вопрос интеграции со временем.  
+**[4381.00s] English:** Beauty, it is or not, but definitely impressive. Due to the theory, due to its predictive power,  
 **Translation:** 
 
-**[1700.34s] English:** Зонд может просто подождать, тогда как радиоволна просто проходит мимо.  
+**[4386.22s] English:** Because the theory describes tiny things creating everything we see around us.  
+**Translation:** Vocabulary: predictive: 有预见性的
+
+**[4390.96s] English:** This magical theory. In classical mechanics, here is one particle, and there is another. I describe them.  
 **Translation:** 
+
+**[4398.60s] English:** Separately, I can say what this particle does and what that one does. In quantum mechanics, there is entanglement.  
+**Translation:** Vocabulary: entanglement: 纠缠; particle: 粒子; separately: 单独
 
-**[1705.34s] English:** Опять же, вот ты диктатор инопланетной цивилизации.  
+**[4404.70s] English:** This  
 **Translation:** 
 
-**[1711.76s] English:** Насколько сложно создать зонд, который с наибольшей вероятностью найдет общий язык с теми, кого он обнаружит?  
+**[4405.20s] English:** This was predicted by Einstein in 1935.  
+**Translation:** Vocabulary: einstein: 爱因斯坦
+
+**[4407.78s] English:** This means that for these two particles, there exists one state.  
 **Translation:** 
 
-**[1718.64s] English:** А нельзя быть избранным лидером инопланетной цивилизации.  
+**[4413.22s] English:** There is no separate state for one particle and a separate state for another.  
+**Translation:** Vocabulary: particles: 粒子
+
+**[4416.22s] English:** Indeed, there is one state for all the universe.  
 **Translation:** 
 
-**[1722.46s] English:** Избранный лидер демократической инопланетной цивилизации, да.  
+**[4419.86s] English:** He can be called the wave function of the universe.  
 **Translation:** 
 
-**[1726.94s] English:** Я думаю, мы бы довольно быстро решили вопрос языка, но, может быть, не так быстро, когда встречаются разные.  
+**[4422.42s] English:** And it obeys one equation.  
 **Translation:** 
 
-**[1733.98s] English:** Математика, человеческие племена.  
+**[4425.64s] English:** Our task is to divide him, carve out, understand,  
 **Translation:** 
 
-**[1736.44s] English:** Очевидно, у людей много общего, но есть логика в математике, и есть физический мир.  
+**[4428.98s] English:** How can we make tables, chairs, and other items from this.  
 **Translation:** 
 
-**[1742.66s] English:** Можно ткнуть пальцем в камень и сказать «камень».  
+**[4432.44s] English:** You mentioned the multiverse interpretation, and that is indeed beautiful, but...  
 **Translation:** 
 
-**[1745.26s] English:** Не думаю, что на это уйдет много времени.  
+**[4440.00s] English:** This is one of the most contentious things you believe in.  
 **Translation:** 
+
+**[4443.38s] English:** You, most likely, were criticized for this.  
+**Translation:** Vocabulary: contentious: 有争议的
 
-**[1748.80s] English:** В фильме «Прибытие», основанном на повести Теда Чана, предполагалось, что у инопланетян принципиально другой способ коммуникации.  
+**[4445.44s] English:** I am a grown boy, and I can handle it.  
 **Translation:** 
 
-**[1758.70s] English:** Но там было распознавание и другие вещи, в которые я не верю.  
+**[4447.30s] English:** Could you explain the essence first, and then perhaps discuss the criticism?  
 **Translation:** 
 
-**[1761.94s] English:** Думаю, если мы действительно найдем...  
+**[4451.92s] English:** Of course.  
 **Translation:** 
 
-**[1763.98s] English:** Если мы действительно найдем инопланетян, это не станет долгосрочной проблемой.  
+**[4452.78s] English:** A classical experiment for explaining quantum mechanics.  
 **Translation:** 
 
-**[1768.30s] English:** Есть люди в... Ты связан с этим местом, Санта-Фе.  
+**[4457.56s] English:** It is called the Stern-Gerlach experiment.  
 **Translation:** 
 
-**[1771.58s] English:** Они подходят к вопросу сложности различными способами, и по-разному задают вопрос, что такое жизнь, в широком смысле.  
+**[4460.24s] English:** You measure the spin of particles.  
 **Translation:** 
 
-**[1780.24s] English:** Думаешь, мы могли бы ее найти?  
+**[4464.12s] English:** In quantum mechanics, spin is simply spin.  
 **Translation:** 
 
-**[1782.98s] English:** Мы прилетаем, зонд прилетает на планету, мы что-то видим, и такие «ага, это живое существо».  
-**Translation:** 
+**[4467.74s] English:** This is the speed at which something rotates in a very literal sense.  
+**Translation:** Vocabulary: literal: 字面意义
 
-**[1790.92s] English:** Ну, опять же, если они разумные и технологичные, то это не так.  
+**[4471.84s] English:** The difference is that it quantizes.  
 **Translation:** 
 
-**[1793.98s] English:** Они не технологически продвинутые.  
-**Translation:** 
+**[4474.52s] English:** An individual electron or a single neutron.  
+**Translation:** Vocabulary: neutron: 中子; quantizes: 量化
 
-**[1796.10s] English:** Более насущный вопрос таков...  
+**[4476.56s] English:** It either rotates clockwise or counterclockwise.  
 **Translation:** 
 
-**[1800.00s] English:** Если мы получим спектроскопические данные с экзопланеты, отчасти  
-**Translation:** 
+**[4481.50s] English:** Let's say this is the only dimension that can be obtained.  
+**Translation:** Vocabulary: clockwise: 顺时针; counterclockwise: 逆时针; dimension: 维度; rotates: 旋转
 
-**[1805.38s] English:** поймем, что есть в ее атмосфере.  
+**[4486.18s] English:** He is not rotating faster or slower,  
 **Translation:** 
 
-**[1807.90s] English:** Как нам судить о том, имеет ли эта атмосфера признаки  
-**Translation:** 
+**[4488.16s] English:** Either in one direction or the other.  
+**Translation:** Vocabulary: rotating: 旋转
 
-**[1811.28s] English:** наличия жизни?  
+**[4490.28s] English:** Here we are. Two results.  
 **Translation:** 
 
-**[1812.56s] English:** Это очень сложный вопрос, об этом ведутся споры.  
-**Translation:** 
+**[4492.44s] English:** According to the laws of quantum mechanics, an electron may be in a state,  
+**Translation:** Vocabulary: quantum: 量子
 
-**[1815.62s] English:** Есть очень простой, но, возможно, интересный подход.  
+**[4497.52s] English:** Where it is not rotating.  
 **Translation:** 
 
-**[1821.24s] English:** Маленькие молекулы ни о чем не говорят, потому  
-**Translation:** 
+**[4497.74s] English:** He does not simply rotate clockwise or counterclockwise.  
+**Translation:** Vocabulary: rotate: 旋转
 
-**[1823.88s] English:** что они могут быть следствием наличия жизни, но не только.  
+**[4501.60s] English:** It is in superposition of both states.  
 **Translation:** 
 
-**[1827.58s] English:** А вот длинные молекулы — это уже следствие жизни.  
-**Translation:** 
+**[4505.00s] English:** And this is not because we do not know the answer,  
+**Translation:** Vocabulary: superposition: 叠加态
 
-**[1833.08s] English:** Признак сложности.  
+**[4506.62s] English:** Because he is truly in both states until we measure him.  
 **Translation:** 
 
-**[1834.28s] English:** Не знаю, у меня просто есть ощущение, что мы не сможем  
+**[4510.90s] English:** When we measure it, we see one thing or another.  
 **Translation:** 
 
-**[1839.78s] English:** их обнаружить.  
+**[4513.76s] English:** The fundamental mystery of quantum mechanics lies in its nature.  
 **Translation:** 
 
-**[1840.78s] English:** Мы прилетаем на планету, там много жидкости, мы плаваем  
+**[4516.46s] English:** How can we describe a system that appears different when we observe it?  
 **Translation:** 
 
-**[1845.02s] English:** в этой жидкости, и не сможем увидеть в ней разум, будь  
+**[4520.98s] English:** We teach students the Copenhagen interpretation.  
 **Translation:** 
 
-**[1853.00s] English:** это что-то вроде муравьев, или… может, мы увидим  
-**Translation:** 
+**[4523.36s] English:** What measurement of an electron's spin causes radicality,  
+**Translation:** Vocabulary: copenhagen: 哥本哈根解释
 
-**[1857.56s] English:** движение, странное движение, но мы не можем увидеть в  
+**[4527.74s] English:** The rotation of an electron causes a radical change in its physical state.  
 **Translation:** 
 
-**[1863.54s] English:** этом разум, или коммуницировать, может, если только у нас  
-**Translation:** 
+**[4532.12s] English:** He spontaneously collapses from a superposition state.  
+**Translation:** Vocabulary: collapses: 坍塌; spontaneously: 自发地
 
-**[1867.62s] English:** почти бесконечное количество времени, и можно попробовать  
+**[4535.64s] English:** Rotations clockwise and counterclockwise can be reversed into one of these states.  
 **Translation:** 
 
-**[1870.84s] English:** разные подходы, тогда получилось бы.  
-**Translation:** 
+**[4540.56s] English:** You can determine the probability of this event, but that's all you can do.  
+**Translation:** Vocabulary: reversed: 转换; rotations: 旋转
 
-**[1872.96s] English:** Я склонен к своего рода интеллектуальной скромности,  
+**[4544.92s] English:** I cannot say exactly when it happens.  
 **Translation:** 
 
-**[1876.06s] English:** что мы этого не узнаем, и значит нам нужно быть  
+**[4547.82s] English:** What is this caused by, and why does it happen?  
 **Translation:** 
 
-**[1879.74s] English:** готовыми к сюрпризам.  
+**[4549.90s] English:** This is called the measurement problem in quantum mechanics.  
 **Translation:** 
 
-**[1881.80s] English:** Но я всегда склоняюсь к идее, что мы все живем в  
-**Translation:** 
+**[4554.68s] English:** Multiverse interpretation is  
+**Translation:** Vocabulary: interpretation: 解释; multiverse: 多宇宙
 
-**[1884.76s] English:** одной физической вселенной.  
+**[4557.52s] English:** Watch, a minute ago I told you,  
 **Translation:** 
 
-**[1886.26s] English:** И…  
+**[4560.00s] English:** What exists is a unified wave function for the universe.  
 **Translation:** 
 
-**[1887.56s] English:** Если, скажем так, развитие нашего интеллекта, безусловно, было связано с нашей способностью манипулировать физическим миром вокруг себя.  
+**[4563.16s] English:** This means that you cannot.  
 **Translation:** 
 
-**[1900.16s] English:** Предположу, я не на сто процентов уверен, но предполагаю, что любая развитая форма жизни тоже обладала бы этой способностью.  
-**Translation:** 
+**[4564.42s] English:** Too seriously regarding the description of a single electron,  
+**Translation:** Vocabulary: cannot: 不能
 
-**[1911.60s] English:** Дельфины и осьминоги это опровергают.  
+**[4568.26s] English:** We need to include all of the rest in the Universe.  
 **Translation:** 
 
-**[1915.90s] English:** Но я думаю, что в мелочах будет достаточно сходств, чтобы мы могли понять, что это такое.  
+**[4570.58s] English:** In particular, for measurement, interaction with an electron is necessary.  
 **Translation:** 
 
-**[1920.00s] English:** Мы могли это распознать.  
+**[4575.40s] English:** All that interacts with an electron,  
 **Translation:** 
 
-**[1922.70s] English:** Не знаю, как мы пришли к этой теме от сверхмассивных черных дыр.  
-**Translation:** 
+**[4577.16s] English:** It should be included in the wave function.  
+**Translation:** Vocabulary: interacts: 相互作用
 
-**[1926.32s] English:** Если вернуться к черным дырам и более широко раскрыть голографический принцип, у тебя недавно вышла работа на эту тему.  
+**[4578.98s] English:** Which you are describing.  
 **Translation:** 
 
-**[1935.16s] English:** Ты думал об этой теме с точки зрения научного исследования и как популярный писатель.  
+**[4581.64s] English:** May be, this is you yourself,  
 **Translation:** 
 
-**[1942.62s] English:** Ага.  
+**[4583.00s] English:** May be, your eyes are capable of perceiving this.  
 **Translation:** 
 
-**[1943.06s] English:** Что такое голографический принцип?  
-**Translation:** 
+**[4585.46s] English:** Then you should include the wave function.  
+**Translation:** Vocabulary: perceiving: 感知
 
-**[1944.94s] English:** Ну, мы возвращаемся к вопросу, который обсуждали об информации и о том, как она распространяется.  
+**[4587.86s] English:** If that's the case,  
 **Translation:** 
 
-**[1951.30s] English:** Несомненно, в квантовой механике и даже до квантовой механики, в классической статистической механике, существует связь между информацией и энтропией.  
-**Translation:** 
+**[4590.40s] English:** You have very advanced listeners.  
+**Translation:** Vocabulary: listeners: 听众
 
-**[1964.62s] English:** Энтропия – это моя любимая тема. О ней я писал и продолжу писать книги.  
+**[4592.82s] English:** So, I will be more careful than usual.  
 **Translation:** 
 
-**[1968.50s] English:** Итак, Хокинг говорит нам об энтропии черных дыр.  
+**[4596.20s] English:** What does it mean to measure the spin of an electron?  
 **Translation:** 
 
-**[1972.30s] English:** И что эта величина конечна.  
+**[4599.62s] English:** No need to delve into the details,  
 **Translation:** 
 
-**[1974.46s] English:** Она небесная.  
-**Translation:** 
+**[4601.14s] English:** The next one should be correct.  
+**Translation:** Vocabulary: delve: 深入探究
 
-**[1974.94s] English:** Она бесконечна.  
+**[4603.66s] English:** If an electron is in a state,  
 **Translation:** 
 
-**[1976.36s] English:** Но считается, и тут мы уже спекулируем, считается, что энтропия черной дыры – это наибольшее количество энтропии, которое может существовать в области пространства-времени.  
-**Translation:** 
+**[4605.78s] English:** Where it rotates 100% clockwise,  
+**Translation:** Vocabulary: clockwise: 顺时针; rotates: 旋转
 
-**[1989.16s] English:** Это самая высокая плотность энтропии.  
+**[4609.72s] English:** It needs to be a measurement.  
 **Translation:** 
 
-**[1993.02s] English:** Это значит, что существует максимальное количество информации, которое можно вместить в эту область пространства, и это называется черной дырой.  
+**[4611.18s] English:** Showed clockwise rotation,  
 **Translation:** 
 
-**[1999.90s] English:** Что интересно, скажем, у меня есть коробка.  
+**[4613.42s] English:** To have the brain confirm,  
 **Translation:** 
 
-**[2003.84s] English:** И я собираюсь поместить ее.  
+**[4615.06s] English:** Yes, the electron rotates clockwise.  
 **Translation:** 
 
-**[2005.56s] English:** Я не говорю тебе, как я буду ее класть, но спрашиваю, какое пространство занимает информация, которую я кладу в коробку, в зависимости от ее размера.  
+**[4616.86s] English:** Exactly the same way, if it rotates 100% counterclockwise,  
 **Translation:** 
 
-**[2014.06s] English:** Можно подумать, ну, это зависит от объема коробки, потому что информация имеет объем, и можно занять только определенный объем.  
-**Translation:** 
+**[4620.74s] English:** We want to see and measure exactly this.  
+**Translation:** Vocabulary: counterclockwise: 逆时针方向
 
-**[2021.12s] English:** Можно сделать такое предположение относительно черной дыры, но это не так.  
+**[4623.26s] English:** Laws of quantum mechanics and Schrödinger's equations.  
 **Translation:** 
 
-**[2024.82s] English:** Ответ таков.  
-**Translation:** 
+**[4625.98s] English:** Without appeal, they unequivocally indicate,  
+**Translation:** Vocabulary: equations: 方程; quantum: 量子; unequivocally: 明确地
 
-**[2026.06s] English:** Максимальная информация отражается в энтропии черной дыры.  
+**[4627.66s] English:** What if you want to measure the spin of an electron clockwise?  
 **Translation:** 
 
-**[2029.80s] English:** Она масштабируется как площадь горизонта событий черной дыры.  
+**[4630.98s] English:** When he rotates clockwise,  
 **Translation:** 
 
-**[2034.94s] English:** Она масштабируется как площадь горизонта событий черной дыры, а не объем внутри.  
+**[4632.36s] English:** And counterclockwise, when it rotates counterclockwise.  
 **Translation:** 
 
-**[2037.66s] English:** Долгое время люди и глубоко, и поверхностно...  
-**Translation:** 
+**[4635.28s] English:** So when he is in superposition,  
+**Translation:** Vocabulary: superposition: 叠加态
 
-**[2040.00s] English:** размышляли об этом и предположили то, что мы сейчас называем голографическим принципом,  
+**[4639.88s] English:** You and the electron.  
 **Translation:** 
 
-**[2045.04s] English:** что пространство-время и квантовая гравитация передают или хранят информацию не в разных битах  
-**Translation:** 
+**[4642.94s] English:** You get tangled up with each other.  
+**Translation:** Vocabulary: tangled: 纠缠
 
-**[2053.62s] English:** или кубитах, если это квантовая информация в каждой точке пространства-времени. Это что-то  
+**[4646.24s] English:** This means that the state of the universe on one side transitions to  
 **Translation:** 
 
-**[2060.64s] English:** голографическое, то есть это встроено или расположено в границе, где на одно измерение  
-**Translation:** 
+**[4649.90s] English:** Electron was rotating clockwise, I saw the clockwise rotation,  
+**Translation:** Vocabulary: rotating: 旋转; transitions: 转变
 
-**[2067.18s] English:** меньше, чем три измерения пространства, в котором мы живем. В случае черной дыры  
+**[4654.66s] English:** In one case, where he was rotating in superposition,  
 **Translation:** 
 
-**[2074.54s] English:** горизонт событий двухмерный и встроен в трехмерную Вселенную. Голографический принцип гласит,  
-**Translation:** 
+**[4657.66s] English:** Electron rotated counterclockwise, and I saw the counterclockwise rotation.  
+**Translation:** Vocabulary: rotated: 旋转
 
-**[2079.84s] English:** что вся информация, содержащаяся в черной дыре, может рассматриваться как находящаяся на горизонте  
+**[4662.08s] English:** All are in agreement with this, without a doubt.  
 **Translation:** 
 
-**[2085.72s] English:** событий, а не внутри черной дыры. Должен еще кое-что уточнить. Идея, которую я только что изложил,  
-**Translation:** 
+**[4665.18s] English:** And a simple consequence of Schrödinger's equation.  
+**Translation:** Vocabulary: equation: 方程
 
-**[2093.80s] English:** это принципиальный голографический принцип, предложенный Гера Роузенбергом.  
+**[4669.22s] English:** Nils Bohr would have said,  
 **Translation:** 
 
-**[2097.18s] English:** Хофтом и Леонардом Саскиндом, очень известным физиком. Леонард Саскинд был на моем подкасте,  
+**[4671.24s] English:** Then part of this wave function disappears,  
 **Translation:** 
 
-**[2103.00s] English:** прекрасно выступил. Он очень хорошо объясняет такие вещи. Подкаст Майндскейп, всем стоит послушать.  
+**[4673.64s] English:** And we remain on the same side.  
 **Translation:** 
 
-**[2110.74s] English:** К тебе же приходят не только физики. Не только. Обожаю Майндскейп. О, большое спасибо. Движимое  
-**Translation:** 
+**[4675.84s] English:** Cannot predict which side it will be, only the probability.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[2116.98s] English:** любопытство. Да, идеи, свежие идеи от умных людей. Ага. Ага. В общем, что с Саскиндом, что с Хофтом,  
+**[4679.08s] English:** Hugh Everett, aspect.  
 **Translation:** 
 
-**[2121.86s] English:** все было немного расплывчато. Они были немного поверхностны насчет голографии и того, что она  
-**Translation:** 
+**[4680.00s] English:** Iran in the 1950s considered this and said, "I have a better idea.  
+**Translation:** Vocabulary: everett: 埃弗雷特
 
-**[2127.18s] English:** была. Настоящее развитие идеи голографии, что информация кодируется на границе, произошло с  
+**[4684.72s] English:** Part of the wave function does not disappear; it remains.  
 **Translation:** 
 
-**[2134.02s] English:** Хуаном Малдосеной в 90-х годах, и АДСКПТ соответственно. Нам не обязательно углубляться в  
+**[4688.56s] English:** Everett's idea was that the wave function is preserved and simply obeys Schrödinger's equation.  
 **Translation:** 
 
-**[2143.02s] English:** детали, но это полноценная теория. Это две разные теории. Одна теория в n измерениях пространства  
+**[4695.30s] English:** It didn't appear earlier because it seems naive to think that it would.  
 **Translation:** 
 
-**[2151.24s] English:** времени, без гравитации. И другая теория в n плюс 1 измерениях пространства времени с гравитацией.  
-**Translation:** 
+**[4702.20s] English:** This predicts that I will be in superposition.  
+**Translation:** Vocabulary: naive: 幼稚
 
-**[2157.18s] English:** Идея в том, что это n-мерная теория.  
+**[4705.86s] English:** I will be in a superposition of an electron spinning clockwise and counterclockwise.  
 **Translation:** 
 
-**[2160.00s] English:** проецирует голограмму в n плюс 1 мерную Вселенную,  
-**Translation:** 
+**[4713.94s] English:** No experiment has ever felt like it was in superposition.  
+**Translation:** Vocabulary: clockwise: 顺时针; counterclockwise: 逆时针; spinning: 旋转
 
-**[2163.82s] English:** чтобы выглядело так, будто в ней есть гравитация.  
+**[4717.38s] English:** We always see results.  
 **Translation:** 
 
-**[2166.74s] English:** Это голография в полном смысле.  
+**[4721.28s] English:** Everett's move was genius.  
 **Translation:** 
 
-**[2169.92s] English:** И сегодня это огромный источник интереса для теоретических физиков.  
+**[4724.24s] English:** The problem is not in Schrödinger's equation.  
 **Translation:** 
 
-**[2176.02s] English:** Как представить, какое влияние оказывает то,  
+**[4727.16s] English:** The problem is that we incorrectly defined ourselves in this equation.  
 **Translation:** 
 
-**[2180.76s] English:** что всю информацию, которую можно вообразить,  
+**[4731.36s] English:** We talked about it, look, there is a person who saw the rotation clockwise,  
 **Translation:** 
 
-**[2183.64s] English:** которая попадает в черную дыру, можно содержать на горизонте событий?  
+**[4735.86s] English:** And the person who saw the rotation clockwise.  
 **Translation:** 
 
-**[2187.72s] English:** Ага, это хороший вопрос.  
+**[4738.48s] English:** I should be in superposition of both.  
 **Translation:** 
 
-**[2190.62s] English:** Квантовая теория поля косвенно предполагает, что в тебе  
-**Translation:** 
+**[4741.62s] English:** Arthur says, "No, no, that's not correct.  
+**Translation:** Vocabulary: superposition: 叠加态
 
-**[2195.28s] English:** и во мне не так много информации по сравнению с объемом.  
+**[4743.62s] English:** Because as soon as that part of the wave function appears,  
 **Translation:** 
 
-**[2200.08s] English:** Пространство времени, которое мы занимаем.  
+**[4748.68s] English:** Where the spine was at a right angle,  
 **Translation:** 
 
-**[2202.68s] English:** Квантовой теории поля мы в основном состоим из пустого пространства,  
+**[4750.68s] English:** She is completely independent of that part of the wave function,  
 **Translation:** 
 
-**[2205.94s] English:** где плотность информации низкая.  
+**[4753.68s] English:** Where spin against the clock.  
 **Translation:** 
 
-**[2211.32s] English:** Плотность информации в нас, или в книге, на диске, или в оперативке  
+**[4757.26s] English:** They are separated from each other; they do not interact.  
 **Translation:** 
 
-**[2217.92s] English:** определяется объемом.  
+**[4761.56s] English:** They do not influence each other; what happens in one part does not affect the other.  
 **Translation:** 
 
-**[2220.00s] English:** Разные биты информации находятся в разных точках пространства,  
+**[4764.94s] English:** Everett says that is not true.  
 **Translation:** 
 
-**[2222.96s] English:** но плотность информации крайне низкая.  
+**[4765.86s] English:** Everett says, "A simple solution is to define yourself by who sees the back of your hand clockwise.  
 **Translation:** 
 
-**[2225.36s] English:** Так что в поседневной жизни мы как скорость света,  
+**[4771.60s] English:** Neither for those who saw the back against the clock.  
 **Translation:** 
 
-**[2228.12s] English:** или большой взрыв для информации в черной дыре.  
-**Translation:** 
+**[4776.52s] English:** After conducting the experiment, there are two people.  
+**Translation:** Vocabulary: conducting: 进行
 
-**[2232.34s] English:** Далеки от области, где эти вопросы становятся актуальными.  
+**[4780.16s] English:** The Schrödinger equation should not be touched.  
 **Translation:** 
 
-**[2236.80s] English:** Поэтому это не поддается интуитивному восприятию.  
-**Translation:** 
+**[4782.52s] English:** We need only correctly determine the place of the wave function.  
+**Translation:** Vocabulary: equation: 方程
 
-**[2239.28s] English:** Мы не знаем, как об этом думать.  
+**[4785.98s] English:** This is a multiverse interpretation.  
 **Translation:** 
 
-**[2240.70s] English:** Мы можем сделать расчеты, но мы не чувствуем, что это.  
-**Translation:** 
+**[4787.62s] English:** How many worlds exist?  
+**Translation:** Vocabulary: interpretation: 解释; multiverse: 多宇宙
 
-**[2243.58s] English:** То есть можно просто сказать, что в черной дыре происходит странность?  
+**[4790.32s] English:** Very much.  
 **Translation:** 
 
-**[2247.24s] English:** Ну, хотелось бы лучше, но мы стараемся.  
+**[4791.24s] English:** Very, very, very much.  
 **Translation:** 
 
-**[2249.28s] English:** Вот почему исправили.  
+**[4794.10s] English:** Where have these worlds gone?  
 **Translation:** 
 
-**[2250.00s] English:** Проблема потери информации.  
+**[4794.94s] English:** Where are they?  
 **Translation:** 
 
-**[2251.38s] English:** Мы еще не полностью ее решили.  
+**[4795.94s] English:** If briefly...  
 **Translation:** 
 
-**[2254.24s] English:** Нужно помнить одну вещь.  
+**[4800.00s] English:** Mиры не существуют в пространстве.  
 **Translation:** 
 
-**[2257.12s] English:** Как только пространство-время становится гибким,  
+**[4805.66s] English:** Space exists in each world separately.  
 **Translation:** 
 
-**[2261.60s] English:** согласно ОТО,  
-**Translation:** 
+**[4810.30s] English:** Technical response to your question with Hilbert space.  
+**Translation:** Vocabulary: hilbert: 希尔伯特空间; separately: 单独地
 
-**[2263.90s] English:** и существует квантовая механика,  
+**[4813.68s] English:** The space of all possible quantum states.  
 **Translation:** 
 
-**[2266.10s] English:** где есть квантовые флуктуации и тому подобное,  
+**[4816.88s] English:** Intuitively, we want to physically place these worlds somewhere, but this is incorrect.  
 **Translation:** 
 
-**[2269.70s] English:** сама идея местоположения в пространстве-времени  
+**[4823.94s] English:** There does not exist such a concept as physical locations of worlds.  
 **Translation:** 
 
-**[2272.36s] English:** становится немного размытой,  
-**Translation:** 
+**[4827.30s] English:** Space exists inside realms.  
+**Translation:** Vocabulary: realms: 领域
 
-**[2274.12s] English:** потому что оно гибкое,  
+**[4829.06s] English:** One of the properties of this interpretation is that moving from one world to another is not possible.  
 **Translation:** 
 
-**[2275.22s] English:** а в квантовой механике его даже нельзя точно определить.  
+**[4834.84s] English:** Correct.  
 **Translation:** 
 
-**[2278.06s] English:** Так информация,  
+**[4835.70s] English:** It creates a sense that they exist separately.  
 **Translation:** 
 
-**[2280.00s] English:** может распространяться неожиданными способами.  
+**[4843.14s] English:** They exist separately and simultaneously.  
 **Translation:** 
 
-**[2283.84s] English:** И это легко сказать, и это правда,  
+**[4845.58s] English:** And simultaneously.  
 **Translation:** 
 
-**[2285.66s] English:** но мы еще не придумали правильного, четкого способа об этом говорить.  
+**[4846.74s] English:** Without position in space.  
 **Translation:** 
 
-**[2290.64s] English:** Плотность информации в черной дыре такая, что аж страшно.  
+**[4848.42s] English:** Without position in space.  
 **Translation:** 
 
-**[2294.80s] English:** А тут еще начинает играть роль квантовая механика.  
+**[4850.46s] English:** How can their existence be represented without a position in space?  
 **Translation:** 
 
-**[2298.36s] English:** Хочется чуть ли не романтизировать интересные вычислительные процессы,  
+**[4855.32s] English:** The honest answer is that this...  
 **Translation:** 
 
-**[2302.36s] English:** происходящие внутри дыры.  
+**[4858.48s] English:** Pr 84.  
 **Translation:** 
 
-**[2303.90s] English:** Да, хочется, да, но скажу еще кое-что.  
+**[4859.06s] English:** Predicts the equation.  
 **Translation:** 
 
-**[2307.28s] English:** Плотность информации высока,  
+**[4861.30s] English:** If you cannot imagine it, that's your problem.  
 **Translation:** 
 
-**[2309.34s] English:** но и энтропия тоже.  
+**[4865.28s] English:** The equation clearly indicates what is being predicted.  
 **Translation:** 
 
-**[2311.94s] English:** Так что черная дыра похожа на очень,  
-**Translation:** 
+**[4867.56s] English:** Is it possible to better understand and represent the strange consequences of this interpretation?  
+**Translation:** Vocabulary: equation: 方程
 
-**[2314.56s] English:** очень конкретное случайное число.  
+**[4875.86s] English:** I don't think it's complicated.  
 **Translation:** 
 
-**[2318.66s] English:** Требуется много цифр, чтобы его установить,  
+**[4877.22s] English:** It was not difficult for me.  
 **Translation:** 
 
-**[2320.86s] English:** но эти цифры ничего не говорят.  
+**[4878.88s] English:** Men do not trouble me with the thought that when I perform a quantum measurement,  
 **Translation:** 
 
-**[2323.36s] English:** Они не дают ничего, над чем можно работать.  
-**Translation:** 
+**[4884.82s] English:** In the universe, several descendants of my current self appear,  
+**Translation:** Vocabulary: descendants: 后代; quantum: 量子
 
-**[2326.24s] English:** Так что информации много,  
+**[4889.38s] English:** Which ones received a different result.  
 **Translation:** 
 
-**[2328.24s] English:** но она не в той форме, которая позволит нам мучиться.  
+**[4892.84s] English:** I cannot interact with them.  
 **Translation:** 
 
-**[2332.52s] English:** Но гипотетически,  
+**[4895.86s] English:** Hilbert space, wave functions may include themselves.  
 **Translation:** 
 
-**[2335.80s] English:** как ты упомянул, информация может сохраняться.  
-**Translation:** 
+**[4902.24s] English:** I am concerned with only those parts of the universe that I can observe.  
+**Translation:** Vocabulary: hilbert: 希尔伯特空间
 
-**[2338.92s] English:** Информация может сохраняться.  
+**[4907.44s] English:** Let's say, a global interpretation arises,  
 **Translation:** 
 
-**[2339.32s] English:** Информация, которая попадает в черную дыру, не уничтожается.  
-**Translation:** 
+**[4910.90s] English:** If we seriously consider the Schrödinger equation.  
+**Translation:** Vocabulary: arises: 产生
 
-**[2342.64s] English:** Что значит, если энтропия очень высока?  
+**[4913.76s] English:** The Schrödinger equation,...  
 **Translation:** 
 
-**[2345.22s] English:** Черная дыра...  
-**Translation:** 
+**[4914.82s] English:** ...was created to justify the data of various atomic spectra and experiments.  
+**Translation:** Vocabulary: experiments: 实验; justify: 解释; spectra: 光谱
 
-**[2346.50s] English:** Я говорил, что в черной дыре наивысшая плотность информации,  
+**[4920.00s] English:** It is perfectly normal to say that you take the Schrödinger equation, extrapolate.  
 **Translation:** 
 
-**[2351.04s] English:** но не наибольшее количество информации,  
-**Translation:** 
+**[4929.26s] English:** I trust him to believe in what we shouldn't observe. I don't want to do this. This is quite enough.  
+**Translation:** Vocabulary: extrapolate: 推断
 
-**[2353.06s] English:** потому что черная дыра может испариться.  
+**[4938.24s] English:** Normally, it's okay, but then what do you believe in? Come up with a better theory if you don't believe in the equation.  
 **Translation:** 
 
-**[2355.02s] English:** Когда она испаряется...  
+**[4946.12s] English:** Schrödinger, can you name the equation which you believe in? It turned out that people tried to do so.  
 **Translation:** 
 
-**[2356.40s] English:** А люди делали такие расчеты, когда она испаряется.  
+**[4952.70s] English:** It is very difficult to find a reasonable approach that corresponds to the data and the multiverse interpretation.  
 **Translation:** 
 
-**[2358.98s] English:** Энтропия, в которую она превращается, больше,  
-**Translation:** 
+**[4958.88s] English:** Clean, absolutely simple and pure, straightforward theory of quantum mechanics, but if the theory is correct,  
+**Translation:** Vocabulary: corresponds: 符合; interpretation: 解释; multiverse: 多宇宙; straightforward: 直截了当
 
-**[2363.04s] English:** чем энтропия самой черной дыры,  
+**[4967.96s] English:** This is surely one of the strangest things we know, before more.  
 **Translation:** 
 
-**[2364.60s] English:** что хорошо, потому что энтропия должна увеличиваться.  
-**Translation:** 
+**[4976.06s] English:** That's what we know, and more that we get from this. I'm not just a simple fantasist; in fact, in most cases,  
+**Translation:** Vocabulary: fantasist: 幻想家
 
-**[2367.38s] English:** Но она гораздо более разряжена.  
+**[4976.10s] English:** Besides that, I'll say what I think is the best reason to doubt.  
 **Translation:** 
 
-**[2368.82s] English:** Она распространена по огромному объему пространства-времени.  
-**Translation:** 
+**[4981.98s] English:** Multiverse interpretations are not strange in that sense,  
+**Translation:** Vocabulary: interpretations: 解释
 
-**[2372.60s] English:** Так что, в принципе, все.  
+**[4985.78s] English:** Doesn't correspond to the data or because we don't know.  
 **Translation:** 
 
-**[2374.88s] English:** Из чего вы создали черную дыру, вся информация,  
-**Translation:** 
+**[4988.32s] English:** Where do these worlds go to, and in that which for such  
+**Translation:** Vocabulary: correspond: 相符
 
-**[2377.58s] English:** которую она собрала, как мы думаем, все еще существует.  
+**[4994.00s] English:** Extrapolation, to seriously consider correct  
 **Translation:** 
 
-**[2380.96s] English:** Она есть, но она рассеяна на все четыре стороны.  
-**Translation:** 
+**[4996.58s] English:** In other modes, a new philosophy is needed.  
+**Translation:** Vocabulary: extrapolation: 推断
 
-**[2384.30s] English:** Мы говорили о горизонте событий черной дыры.  
+**[5001.86s] English:** A New Way of Understanding Identity, Probability,  
 **Translation:** 
 
-**[2386.74s] English:** А что внутри? Что в ее центре?  
+**[5006.02s] English:** predictions and much more.  
 **Translation:** 
 
-**[2388.68s] English:** Там никто не был, так что...  
+**[5007.58s] English:** This requires philosophical reflections.  
 **Translation:** 
 
-**[2390.44s] English:** И вернулся рассказать.  
-**Translation:** 
+**[5010.84s] English:** This is something that both I and others have done, and it is quite achievable.  
+**Translation:** Vocabulary: achievable: 可实现的; philosophical: 哲学的; reflections: 反思
 
-**[2391.52s] English:** Опять же, это теоретическое предсказание.  
+**[5014.66s] English:** But not just.  
 **Translation:** 
 
-**[2393.44s] English:** Но я скажу об одной крайне важной, известной и любимой нами особенности черных дыр.  
+**[5017.98s] English:** This is not a simple extrapolation of what we already know.  
 **Translation:** 
 
-**[2397.66s] English:** Это...  
+**[5022.34s] English:** This is an enormous extrapolation.  
 **Translation:** 
 
-**[2397.98s] English:** Это...  
-**Translation:** 
+**[5024.46s] English:** And someone wants to remain methodologically conservative.  
+**Translation:** Vocabulary: methodologically: 方法上
 
-**[2398.38s] English:** Это...  
+**[5028.76s] English:** He says, "This is too much, I don't believe it.  
 **Translation:** 
 
-**[2398.48s] English:** Это...  
+**[5032.50s] English:** I understand that.  
 **Translation:** 
 
-**[2398.58s] English:** Это...  
+**[5033.78s] English:** As far as I'm concerned, this is a sign of weakness.  
 **Translation:** 
 
-**[2398.64s] English:** Это...  
+**[5036.00s] English:** We need to be braver, but the motivation is unclear.  
 **Translation:** 
 
-**[2398.66s] English:** Это...  
+**[5040.00s] English:** According to this interpretation, if we rewind time, there exists  
 **Translation:** 
 
-**[2398.76s] English:** Это...  
-**Translation:** 
+**[5047.76s] English:** The arrow of time, where will be one initial state.  
+**Translation:** Vocabulary: interpretation: 解释
 
-**[2398.78s] English:** Это...  
+**[5053.34s] English:** Verily, all of quantum mechanics, all various versions require  
 **Translation:** 
 
-**[2398.82s] English:** Это...  
-**Translation:** 
+**[5056.44s] English:** Arrows of time, she may vary in each case,  
+**Translation:** Vocabulary: quantum: 量子
 
-**[2399.36s] English:** Это...  
+**[5060.04s] English:** The process of quantum measurement is irreversible.  
 **Translation:** 
 
-**[2399.62s] English:** Это...  
-**Translation:** 
+**[5065.28s] English:** You are measuring something, and it collapses back into place.  
+**Translation:** Vocabulary: collapses: 坍缩; irreversible: 不可逆的
 
-**[2401.00s] English:** Сингулярность есть, но она не в центре черной дыры.  
+**[5067.28s] English:** You can't return it.  
 **Translation:** 
 
-**[2405.56s] English:** Помни, что пространство и время — это части единого пространства-времени.  
+**[5068.28s] English:** If someone tells you the result, here I measured it.  
 **Translation:** 
 
-**[2411.94s] English:** Местоположение сингулярности в черной дыре не в центре пространства, а в нашем будущем.  
+**[5070.66s] English:** Electron, and its spin hourly, that was before I started working on it.  
 **Translation:** 
 
-**[2417.24s] English:** Это момент времени.  
-**Translation:** 
+**[5074.58s] English:** Did he measure?  
+**Translation:** Vocabulary: hourly: 每小时
 
-**[2418.88s] English:** Это как большое сжатие.  
+**[5075.58s] English:** You know that the partial spin was hourly, but not  
 **Translation:** 
 
-**[2420.54s] English:** Большой взрыв в прошлом стал расширением из сингулярности.  
+**[5078.66s] English:** You know, to what extent.  
 **Translation:** 
 
-**[2423.88s] English:** Вероятность большого сжатия не существует, но если бы оно было, это было бы коллапсом сингулярность в будущем.  
+**[5079.66s] English:** With multiverse interpretation as well.  
 **Translation:** 
 
-**[2428.82s] English:** Таковы черные дыры внутри.  
-**Translation:** 
+**[5082.28s] English:** But well that the time arrow, which is needed for multiverse,  
+**Translation:** Vocabulary: multiverse: 多宇宙
 
-**[2432.04s] English:** С тобой все внутри может быть нормально, но становится как-то тесновато.  
+**[5086.12s] English:** Interpretations, the same which is needed for entropy, thermodynamics.  
 **Translation:** 
 
-**[2436.66s] English:** Пространство-время становится все более искривленным, и в итоге достигается предел сингулярность в твоем будущем.  
-**Translation:** 
+**[5090.84s] English:** and so on.  
+**Translation:** Vocabulary: entropy: 热力学熵; interpretations: 解释; thermodynamics: 热力学
 
-**[2442.28s] English:** Интересно, каково время внутри черной дыры?  
+**[5091.84s] English:** It is necessary to have a simple initial state with low entropy.  
 **Translation:** 
 
-**[2446.02s] English:** Время всегда идет со скоростью одна секунда в секунду.  
+**[5094.78s] English:** It is needed in both cases.  
 **Translation:** 
 
-**[2448.52s] English:** Это все, что оно делает.  
+**[5096.38s] English:** Fix me if I am wrong.  
 **Translation:** 
 
-**[2449.90s] English:** Время может идти по-разному для разных людей, поэтому есть, например, парадокс близнецов.  
+**[5098.22s] English:** But the entire history of the universe, according to the many-worlds interpretation,  
 **Translation:** 
 
-**[2454.92s] English:** Два человека.  
+**[5103.02s] English:** It looks deterministic.  
 **Translation:** 
 
-**[2456.20s] English:** Изначально одного возраста, один улетает со скоростью света.  
-**Translation:** 
+**[5105.52s] English:** Yes.  
+**Translation:** Vocabulary: deterministic: 决定论的
 
-**[2458.82s] English:** Теперь это не так.  
+**[5106.52s] English:** Is memory of all the history of the universe contained in every point?  
 **Translation:** 
 
-**[2461.30s] English:** Можно даже сказать, что тот, кто улетел и вернулся, будет моложе, потому что он не выбрал кратчайший путь.  
+**[5111.18s] English:** How do you think every moment contains a memory of everything?  
 **Translation:** 
 
-**[2468.78s] English:** Но, в частности, что касается тебя и твоих часов на руке,  
+**[5115.22s] English:** What preceded him?  
 **Translation:** 
 
-**[2473.28s] English:** время не скачет.  
-**Translation:** 
+**[5116.72s] English:** As we know, according to the multiverse interpretation,  
+**Translation:** Vocabulary: preceded: 在...前面
 
-**[2475.10s] English:** Нейронные сигналы в мозге, сердцебиение и часы на запястье,  
+**[5121.52s] English:** Wave function of the universe, all branches of the universe simultaneously,  
 **Translation:** 
 
-**[2480.70s] English:** что бы с ними ни происходило,  
+**[5125.50s] English:** All worlds contain all information.  
 **Translation:** 
 
-**[2483.42s] English:** это происходит с ними одновременно.  
+**[5127.22s] English:** Yes.  
 **Translation:** 
 
-**[2485.40s] English:** Так что время всегда идет с одинаковой скоростью.  
+**[5128.22s] English:** To call this memory dangerous is not quite right, for it is not the same.  
 **Translation:** 
 
-**[2488.82s] English:** Если ты попадешь в черную дыру, а я просто буду за этим наблюдать,  
+**[5133.16s] English:** Memory, that it's mine or yours.  
 **Translation:** 
 
-**[2495.10s] English:** и потом ты выйдешь из нее через миллион лет, когда она испарится,  
+**[5136.52s] English:** Our memories depend on the arrow of time, and the essence,...  
 **Translation:** 
 
-**[2501.86s] English:** то будешь того же возраста?  
+**[5141.34s] English:** In equations like Schrödinger's or Newton's laws, the commonality is that  
 **Translation:** 
 
-**[2504.58s] English:** Ты вообще постареешь?  
-**Translation:** 
+**[5144.68s] English:** The arrow of time is not built into them and is irreversible.  
+**Translation:** Vocabulary: equations: 方程
 
-**[2505.72s] English:** Ты будешь преобразован в фотоны.  
+**[5149.30s] English:** The state of the universe not only remembers where it came from.  
 **Translation:** 
 
-**[2507.50s] English:** Ты больше не будешь собой.  
+**[5152.84s] English:** It took hold and it defines where it will go.  
 **Translation:** 
 
-**[2509.96s] English:** Ага.  
+**[5155.32s] English:** Our memory works not like that.  
 **Translation:** 
 
-**[2510.28s] English:** То есть совершенно невозможно сохранить информацию в неизменном виде?  
+**[5157.02s] English:** But we can do this.  
 **Translation:** 
 
-**[2515.44s] English:** Смотря что хочешь сохранить.  
+**[5158.02s] English:** But we can reproduce memories.  
 **Translation:** 
 
-**[2516.84s] English:** Оно остается в микроскопической конфигурации вселенной.  
-**Translation:** 
+**[5160.00s] English:** Can that be done?  
+**Translation:** Vocabulary: reproduce: 复制记忆
 
-**[2520.86s] English:** Точно так же, если бы я взял обычную книгу,  
+**[5161.22s] English:** Can, but the formation of memories increases the entropy of the universe.  
 **Translation:** 
 
-**[2523.32s] English:** сделал из нее бумагу и сжег.  
-**Translation:** 
+**[5165.56s] English:** This is also an irreversible process.  
+**Translation:** Vocabulary: irreversible: 不可逆的
 
-**[2525.92s] English:** Законы физики говорят, что вся информация из книги продолжает существовать в виде тепла, света и пепла.  
+**[5168.82s] English:** You walk along the beach and leave footprints.  
 **Translation:** 
 
-**[2531.20s] English:** Ты ее никогда не получишь.  
-**Translation:** 
+**[5171.54s] English:** This is a chronicle of your walk.  
+**Translation:** Vocabulary: chronicle: 记载; footprints: 脚印
 
-**[2532.88s] English:** На практике.  
+**[5173.78s] English:** Over time, she will be erased by the constant increasing entropy of the universe.  
 **Translation:** 
 
-**[2533.72s] English:** Но принципиально она существует.  
-**Translation:** 
+**[5178.08s] English:** But we can imperfectly reproduce this.  
+**Translation:** Vocabulary: entropy: 无序; erased: 抹去
 
-**[2535.48s] English:** А что насчет возраста объектов с точки зрения наблюдателя, снаружи черной дыры?  
+**[5180.80s] English:** So, can we travel back in time imperfectly?  
 **Translation:** 
 
-**[2541.58s] English:** Снаружи черной дыры?  
+**[5185.52s] English:** This depends on the level of accuracy you are striving for.  
 **Translation:** 
 
-**[2543.62s] English:** Это не имеет значения, потому что я внутри нее.  
+**[5191.48s] English:** The universe contains information about where it has been, but you and I do not.  
 **Translation:** 
 
-**[2546.60s] English:** Нет, ладно, нет никакого способа выбраться из черной дыры.  
+**[5197.68s] English:** Even not close.  
 **Translation:** 
 
-**[2550.12s] English:** Верно.  
+**[5199.86s] English:** Does it mean that consulting with the universe computationally is forbidden?  
 **Translation:** 
 
-**[2550.88s] English:** Кроме как...  
-**Translation:** 
+**[5205.48s] English:** Depends on what exactly you perceive.  
+**Translation:** Vocabulary: computationally: 计算上; consulting: 咨询; perceive: 感知
 
-**[2552.12s] English:** Дать ей исправиться.  
+**[5208.14s] English:** There are simple questions, like  
 **Translation:** 
 
-**[2553.12s] English:** Дать ей испариться.  
+**[5209.48s] English:** What was the temperature of the universe 30 seconds after the Big Bang?  
 **Translation:** 
 
-**[2554.08s] English:** Но, кстати говоря, даже в рамках специальной теории относительности, уже не говоря об ОТО,  
+**[5215.52s] English:** We can answer that.  
 **Translation:** 
 
-**[2559.88s] English:** очень заманчиво сказать,  
-**Translation:** 
+**[5217.78s] English:** Peculiarly, but with a fairly high accuracy.  
+**Translation:** Vocabulary: peculiarly: 怪异地
 
-**[2562.06s] English:** вот что со мной происходит прямо сейчас.  
+**[5222.08s] English:** If you want to know the location of each atom, then no.  
 **Translation:** 
 
-**[2565.80s] English:** Я хочу знать, что прямо сейчас происходит далеки отсюда.  
+**[5225.80s] English:** What is the Big Bang for you?  
 **Translation:** 
 
-**[2569.02s] English:** Вся суть относительности в том, что не существует такого понятия, как сейчас, когда ты далеко.  
+**[5228.84s] English:** Why...  
 **Translation:** 
 
-**[2574.22s] English:** Это вдвойне.  
+**[5229.68s] English:** Why...  
 **Translation:** 
 
-**[2575.32s] English:** Верно для того, что внутри черной дыры.  
+**[5231.76s] English:** Why did it happen?  
 **Translation:** 
 
-**[2577.66s] English:** Хочется сказать, с какой скоростью у них идет время.  
+**[5233.08s] English:** I have no idea. This is a very important question.  
 **Translation:** 
 
-**[2580.00s] English:** Или сколько им сейчас лет.  
+**[5236.00s] English:** I see that we can make progress here, but...  
 **Translation:** 
 
-**[2582.30s] English:** По теории относительности, так сказать нельзя.  
-**Translation:** 
+**[5239.88s] English:** Currently, I am maximally unsure about the answer.  
+**Translation:** Vocabulary: maximally: 最大程度上; unsure: 不确定
 
-**[2585.08s] English:** Потому что пространство и время тождественны, так что это бессмысленно.  
+**[5243.84s] English:** Can black holes?  
 **Translation:** 
 
-**[2588.78s] English:** Да.  
+**[5245.38s] English:** Will they help?  
 **Translation:** 
 
-**[2589.20s] English:** Что происходит со временем в голографическом принципе?  
+**[5245.90s] English:** No, not really.  
 **Translation:** 
 
-**[2592.66s] English:** Насколько нам известно, ничего особого.  
-**Translation:** 
+**[5248.68s] English:** Quantum gravity will help.  
+**Translation:** Vocabulary: gravity: 引力; quantum: 量子
 
-**[2596.40s] English:** Мы еще далеки от того, чтобы с уверенностью утверждать, что происходит.  
+**[5250.10s] English:** Possible black holes might help us understand quantum gravity, so indirectly, yes.  
 **Translation:** 
 
-**[2600.84s] English:** Есть нерешенные вопросы.  
-**Translation:** 
+**[5254.58s] English:** But the situation is that Einstein's theory of relativity, OTO,  
+**Translation:** Vocabulary: relativity: 相对论
 
-**[2602.98s] English:** Служит ли время фундаментальным параметром?  
+**[5259.28s] English:** It unequivocally predicts singularity in the past.  
 **Translation:** 
 
-**[2605.72s] English:** Является ли эмерджентным явлением?  
-**Translation:** 
+**[5262.64s] English:** There was a moment in time when the universe  
+**Translation:** Vocabulary: unequivocally: 毫无疑问地
 
-**[2607.50s] English:** Имеет ли что-то общее с квантовой запутанностью?  
+**[5264.38s] English:** There was an infinite curvature, infinite energy, infinite speed, expansion, and so on.  
 **Translation:** 
 
-**[2610.78s] English:** Существует ли время вообще?  
-**Translation:** 
+**[5270.30s] English:** This is simply a beautiful way to say that the theory hit the nail on the head.  
+**Translation:** Vocabulary: curvature: 曲率; infinite: 无限的
 
-**[2613.38s] English:** Есть разные теории, сторонники различных взглядов.  
+**[5275.38s] English:** Classical OTT cannot answer what really happened at that moment.  
 **Translation:** 
 
-**[2617.18s] English:** Но в голографии нет ничего, что заставило бы нас изменить наше мнение о времени.  
+**[5280.00s] English:** Possible that at some level there was a moment in time,  
 **Translation:** 
 
-**[2621.74s] English:** Любые.  
+**[5284.54s] English:** To which there existed no other moments.  
 **Translation:** 
 
-**[2622.66s] English:** Но голография, по сути, это вопрос пространства?  
+**[5287.18s] English:** This is a big explosion, even if it's not something from classical.  
 **Translation:** 
 
-**[2626.30s] English:** Да, верно.  
+**[5291.28s] English:** OTO, even if this involves quantum mechanics, may  
 **Translation:** 
 
-**[2627.30s] English:** Хорошо, то есть время просто...  
+**[5294.38s] English:** To be and so.  
 **Translation:** 
 
-**[2629.14s] English:** А время до кучи, насколько нам известно, да.  
+**[5295.38s] English:** Also, it is possible that there was a time before space.  
 **Translation:** 
 
-**[2631.48s] English:** То есть все вопросы о времени идут отдельной строкой?  
+**[5298.04s] English:** Time, and they somehow manage to do it in a way that is still mysterious.  
 **Translation:** 
 
-**[2634.78s] English:** Эмерджентный ли это параметр?  
+**[5300.96s] English:** Developed from a hot big bang.  
 **Translation:** 
 
-**[2636.20s] English:** Сейчас они могут быть отражением нашего невежества.  
-**Translation:** 
+**[5302.72s] English:** If time and space are emergent, then what was there before?  
+**Translation:** Vocabulary: emergent: 涌现的
 
-**[2639.68s] English:** Но да.  
+**[5308.34s] English:** It's — completely strange.  
 **Translation:** 
 
-**[2640.00s] English:** Если через миллионы лет мы узнаем кучу всего о черных дырах, насколько бы ты удивился, если бы люди вернулись назад во времени и рассказали тебе все, что ты хотел бы знать о черных дырах?  
+**[5309.90s] English:** Nu, if there exists a first moment of time, it was  
 **Translation:** 
 
-**[2652.92s] English:** Как думаешь, сколько еще нам предстоит узнать, и насколько это поразительно?  
+**[5314.76s] English:** By being a good example, it corresponds to the idea of  
 **Translation:** 
 
-**[2658.08s] English:** Это зависит от того, что бы они сказали. Думаю, у них есть коллеги, которые считают, что мы довольно близко к пониманию того, как информация выходит из черных дыр, как произвести квантование гравитации.  
-**Translation:** 
+**[5317.62s] English:** Emergentness of time.  
+**Translation:** Vocabulary: corresponds: 相符; emergentness: 涌现
 
-**[2674.30s] English:** Я более скептичен на этот счет. Думаю, нас ждет еще много сюрпризов. Поэтому в этом смысле полагаю, что буду удивлен.  
+**[5320.32s] English:** If time is fundamental, then it flows forever, since  
 **Translation:** 
 
-**[2684.40s] English:** Самый большой и интересный сюрприз для меня будет...  
-**Translation:** 
+**[5323.04s] English:** Fundamentally.  
+**Translation:** Vocabulary: fundamentally: 从根本上
 
-**[2688.08s] English:** Будет, если появится что-то лучшее, и произойдет квантовую механику.  
+**[5324.04s] English:** Nu da, usually this question is formulated like that — what  
 **Translation:** 
 
-**[2694.74s] English:** Насколько я знаю, нет эмпирически обоснованных причин полагать, что квантовая механика неверна на сто процентов.  
+**[5328.26s] English:** Outside, what is outside our universe,  
 **Translation:** 
 
-**[2702.68s] English:** Но вдруг такое возможно.  
+**[5331.26s] English:** In time and space.  
 **Translation:** 
 
-**[2705.20s] English:** У меня опять же есть уважаемые друзья, которые рассуждают о таком ключе.  
+**[5333.10s] English:** I think this is a silly question, Shawn, I understand.  
 **Translation:** 
 
-**[2710.58s] English:** Так что это первое, что я хотел бы узнать.  
+**[5337.44s] English:** I apologize.  
 **Translation:** 
 
-**[2714.64s] English:** А, так черная дыра была бы самым явным примером...  
+**[5338.32s] English:** My life — to ask silly questions, and the answer to some  
 **Translation:** 
 
-**[2718.08s] English:** Да, это бы там проявилось.  
+**[5341.10s] English:** The error lies in an incorrect way of thinking.  
 **Translation:** 
 
-**[2719.44s] English:** Если бы было что-то новое, оно бы проявилось там.  
+**[5343.34s] English:** Good.  
 **Translation:** 
 
-**[2722.24s] English:** Возможно. Дело в том, что черные дыры загадочны по разным причинам.  
+**[5344.34s] English:** Generally, it is possible to think about what lies beyond our  
 **Translation:** 
 
-**[2725.44s] English:** Так что если наша лучшая теория о вселенной неверна, это могло бы объяснить почему.  
+**[5348.72s] English:** Of the universe?  
 **Translation:** 
 
-**[2730.32s] English:** Думаешь, возможно, что мы узнаем что-то интересное?  
+**[5349.72s] English:** To ask questions is fine, but you need to be prepared for  
 **Translation:** 
 
-**[2732.72s] English:** Скажем, что черные дыры иногда создают новые вселенные.  
+**[5352.18s] English:** That there is no such concept as  
 **Translation:** 
 
-**[2737.52s] English:** Или что черные дыры — это какой-то временной портал через пространство-время в другое место или что-то такое.  
+**[5354.78s] English:** outside the universe".  
 **Translation:** 
 
-**[2743.84s] English:** Тогда все наше представление о ткани пространства-времени полностью изменится.  
+**[5356.78s] English:** This is quite possible.  
 **Translation:** 
 
-**[2746.68s] English:** Потому что тогда черные дыры похожи на швейцарский сыр.  
+**[5359.20s] English:** Moreover, this is the simplest answer.  
 **Translation:** 
 
-**[2752.28s] English:** Да, это бы меня... меньше удивило. Я на эту тему уже писал работы.  
+**[5360.40s] English:** And, probably, the most correct.  
 **Translation:** 
 
-**[2757.88s] English:** Опять же...  
+**[5364.04s] English:** But this is the only thing in the universe for which there is no answer.  
 **Translation:** 
 
-**[2760.00s] English:** же. У нас нет веских причин полагать, что черная дыра ведет в другую вселенную. Но это возможно.  
+**[5367.78s] English:** Yes.  
 **Translation:** 
 
-**[2767.14s] English:** Также возможно, что одни черные дыры туда ведут, а другие нет. Это же легко задавать вопросы,  
+**[5368.32s] English:** Who has no external side.  
 **Translation:** 
 
-**[2772.78s] English:** на которые мы не знаем ответа. Проблема в том, что на вопросы, которые легко задать,  
-**Translation:** 
+**[5369.72s] English:** Yes, if the universe is a totality of everything, it has  
+**Translation:** Vocabulary: totality: 全体
 
-**[2777.78s] English:** на которые мы не знаем ответа, крайне сложно ответить. Потому что нам эти объекты очень  
+**[5373.46s] English:** There is no external side.  
 **Translation:** 
 
-**[2782.20s] English:** сложно тестировать и изучать. Они просто очень далеко. Либо буквально далеко в космосе,  
-**Translation:** 
+**[5375.00s] English:** Strangely enough, it seems there is no external side.  
+**Translation:** Vocabulary: strangely: 奇怪地
 
-**[2786.80s] English:** либо по энергии, массе или времени. Ты опубликовал работу по голографическому  
+**[5377.30s] English:** It would be nice to have a Creator, a Creative Force, all of this.  
 **Translation:** 
 
-**[2792.52s] English:** принципу или включающую голографический принцип. Может рассказать подробнее?  
+**[5386.38s] English:** Created.  
 **Translation:** 
 
-**[2797.98s] English:** Еще с моей первой опубликованной работы я любил брать сумасшедшие, спекулятивные идеи и пытаться  
+**[5387.84s] English:** There is our city, and beyond it lies a vast world, always waiting.  
 **Translation:** 
 
-**[2804.76s] English:** проверить их на основе данных. Проблема в том, что когда ищешь дело с подобными идеями,  
+**[5391.22s] English:** The large world.  
 **Translation:** 
 
-**[2810.44s] English:** они обычно продуманы, чтобы строить предположения. Типа, я знаю, что произойдет,  
+**[5392.22s] English:** To think he's not here.  
 **Translation:** 
 
-**[2816.80s] English:** в некоторых случаях, но не знаю, как будет в других. Вот что мы и сделали.  
+**[5393.76s] English:** Such is our experience; this is the world in which we grew up.  
 **Translation:** 
 
-**[2823.00s] English:** Как я уже упоминал, голографический принцип предназначен для отражения информации,  
+**[5396.34s] English:** The universe should not.  
 **Translation:** 
 
-**[2829.30s] English:** содержащейся в черных дырах. Согласно нему информации меньше, событий меньше,  
+**[5398.32s] English:** Follow these rules.  
 **Translation:** 
 
-**[2834.46s] English:** чем можно было бы наивно ожидать. Давай перейдем от наивных ожиданий к предсказаниям,  
+**[5400.74s] English:** This is so strange.  
 **Translation:** 
 
-**[2841.56s] English:** используя квантовую теорию поля. Квантовая теория поля на данный момент  
+**[5402.40s] English:** In childhood, this kept me from sleeping.  
 **Translation:** 
 
-**[2846.80s] English:** наша лучшая теория фундаментальной физики. В отличие от голографического принципа черных дыр,  
+**[5404.36s] English:** If there were no universe?  
 **Translation:** 
 
-**[2851.34s] English:** квантовая теория полностью локальна. В каждой точке пространства может что-то происходить.  
+**[5406.56s] English:** Yes.  
 **Translation:** 
 
-**[2855.82s] English:** Затем суммируем разные точки в пространстве. Никакой голографии. Получается, есть несоответствие  
+**[5407.94s] English:** This is a great pressure.  
 **Translation:** 
 
-**[2861.48s] English:** между ожиданиями от того, что происходит даже в пустом пространстве, в квантовой теории поля,  
+**[5411.30s] English:** If this is the only universe,  
 **Translation:** 
 
-**[2866.06s] English:** и тем, что предсказывает голографический принцип. Как их поженить? Был предложен один способ.  
+**[5414.32s] English:** And we are one of the few intelligent civilizations.  
 **Translation:** 
 
-**[2873.00s] English:** С точки зрения квантовой теории поля,  
+**[5417.96s] English:** Maybe and the only one.  
 **Translation:** 
 
-**[2876.80s] English:** подразумевается, что существует  
+**[5421.08s] English:** It seems suspicious how old theories that we are at the center of everything.  
 **Translation:** 
 
-**[2880.00s] English:** Гораздо больше состояний, гораздо больше способов существования системы, чем на самом деле.  
-**Translation:** 
+**[5424.80s] English:** Here's why the multiverse interpretation seems exciting to me.  
+**Translation:** Vocabulary: interpretation: 解释; multiverse: 多宇宙; suspicious: 可疑
 
-**[2887.86s] English:** Тут мы введем немного математики, возможно в аудитории есть люди, которые любят математику.  
+**[5429.08s] English:** She brings the right amount of humility.  
 **Translation:** 
 
-**[2894.50s] English:** Я нарисую две оси, двухмерной геометрии, например, на поверхности стола.  
-**Translation:** 
+**[5431.94s] English:** It seems that infinity is the basis of everything.  
+**Translation:** Vocabulary: humility: 谦逊; infinity: 无限
 
-**[2901.92s] English:** Суть двумерной геометрии в том, что я могу нарисовать два перпендикулярных друг друга вектора.  
+**[5436.96s] English:** There is one trap, I'll mention it.  
 **Translation:** 
 
-**[2906.78s] English:** Я не могу нарисовать три перпендикулярных друг другу вектора.  
-**Translation:** 
+**[5440.26s] English:** Because there is a procedure that is applied in theoretical cosmology,  
+**Translation:** Vocabulary: cosmology: 宇宙学
 
-**[2911.26s] English:** Они должны немного пересекаться.  
+**[5444.90s] English:** And I believe he is slightly mistaken.  
 **Translation:** 
 
-**[2913.38s] English:** Это верно для любого числа измерений.  
+**[5449.28s] English:** The key is to reflect on the universe.  
 **Translation:** 
 
-**[2915.82s] English:** Но я могу спросить, насколько они должны пересекаться,  
+**[5451.34s] English:** Representing myself as a typical observer.  
 **Translation:** 
 
-**[2920.52s] English:** если я попробую добавить больше векторов в векторное пространство,  
-**Translation:** 
+**[5454.66s] English:** This is called the principle of typicality or the principle of ordinariness.  
+**Translation:** Vocabulary: observer: 观察者; ordinariness: 普通; typicality: 典型性
 
-**[2924.14s] English:** чем размерность этого пространства,  
+**[5458.06s] English:** Or even as a principle,...  
 **Translation:** 
 
-**[2927.22s] English:** можно ли сделать их почти перпендикулярными друг другу?  
+**[5459.08s] English:** Nothing special about me, I am ordinary in the universe.  
 **Translation:** 
 
-**[2930.86s] English:** Математический ответ таков, что по мере увеличения числа измерений  
+**[5463.72s] English:** But then you make some conclusions from that,  
 **Translation:** 
 
-**[2934.46s] English:** можно добавить огромное количество дополнительных.  
+**[5466.60s] English:** And in the end, you realize that, self-assuredly saying,  
 **Translation:** 
 
-**[2936.78s] English:** Дополнительных векторов, которые будут почти перпендикулярны друг другу.  
+**[5469.46s] English:** I am a typical observer in the universe.  
 **Translation:** 
 
-**[2941.46s] English:** В этом случае, мы говорим, что количество вещей,  
-**Translation:** 
+**[5471.72s] English:** You are claiming that typical observers in the universe, such as myself.  
+**Translation:** Vocabulary: observers: 观察者
 
-**[2944.54s] English:** которые могут происходить в области пространства,  
+**[5477.10s] English:** This is not justified.  
 **Translation:** 
 
-**[2948.34s] English:** голографией,  
+**[5480.66s] English:** I don't say how one should act correctly,  
 **Translation:** 
 
-**[2950.00s] English:** описывается правильно.  
+**[5483.34s] English:** But we need to be very careful with questions.  
 **Translation:** 
 
-**[2953.12s] English:** Квантовая теория поля  
+**[5485.58s] English:** Which are not quite...  
 **Translation:** 
 
-**[2954.54s] English:** переоценивает их количество,  
+**[5489.08s] English:** ...for experimental verification or refutation.  
 **Translation:** 
 
-**[2957.58s] English:** потому что состояние в квантовой теории поля не строго перпендикулярны друг другу.  
-**Translation:** 
+**[5493.72s] English:** For me, this is one of the most interesting questions.  
+**Translation:** Vocabulary: refutation: 反驳; verification: 验证
 
-**[2962.58s] English:** Следовало упомянуть, что в квантовой механике  
+**[5496.72s] English:** Here are many different approaches, but what beyond that?  
 **Translation:** 
 
-**[2964.54s] English:** состояния представлены векторами в некоем области,  
-**Translation:** 
+**[5500.72s] English:** How did this chaos begin?  
+**Translation:** Vocabulary: approaches: 方法
 
-**[2966.78s] English:** в огромном многомерном векторном пространстве, очень большом.  
+**[5502.72s] English:** How can something appear from nothing?  
 **Translation:** 
 
-**[2970.38s] English:** Возможно, состояние в квантовой теории поля не совсем перпендикулярны друг другу.  
+**[5505.72s] English:** When you ask yourself such questions,  
 **Translation:** 
 
-**[2976.60s] English:** Если это так, это уже спекуляция.  
+**[5509.72s] English:** Necessarily, you come here.  
 **Translation:** 
 
-**[2979.34s] English:** Но если это так, как это узнать?  
-**Translation:** 
+**[5512.72s] English:** Do you think about black holes, about unification, about quantum gravity, about anything?  
+**Translation:** Vocabulary: gravity: 引力; quantum: 量子; unification: 统一
 
-**[2981.88s] English:** Каково экспериментальное отклонение?  
+**[5516.72s] English:** And constantly return to the question,  
 **Translation:** 
 
-**[2984.98s] English:** Было бы вполне уместно, если бы мы сделали предположение и обнаружили,  
+**[5519.08s] English:** From where did you come?  
 **Translation:** 
 
-**[2988.80s] English:** что не существует заметного экспериментального различия.  
+**[5520.00s] English:** Where did all of this come from?  
 **Translation:** 
 
-**[2992.32s] English:** Потому что, опять же, это все находится очень-очень далеко от нас.  
+**[5522.04s] English:** Justly.  
 **Translation:** 
 
-**[2996.78s] English:** Мы рискнули, мы сделали несколько конкретных предположений,  
+**[5523.04s] English:** Most likely, there is no answer to this question.  
 **Translation:** 
 
-**[3000.00s] English:** о том, как этот странный нахлёст состояний проявляется в уравнениях движения частиц, таких как нейтрино.  
+**[5525.38s] English:** Yes?  
 **Translation:** 
 
-**[3011.66s] English:** Затем мы предсказали, как нейтрино будут вести себя, основываясь на этих смелых предположениях,  
+**[5526.38s] English:** No.  
 **Translation:** 
 
-**[3017.60s] English:** а потом сравнили с данными.  
+**[5527.38s] English:** But this is not necessarily so.  
 **Translation:** 
 
-**[3019.30s] English:** Мы обнаружили, что мы довольно близки, но еще не достигли обнаруживаемости эффекта, который предсказываем.  
+**[5531.78s] English:** May be, after all, there is a turtle down there which refuses  
 **Translation:** 
 
-**[3028.12s] English:** Другими словами, мы предсказываем, что если нейтрино...  
+**[5536.02s] English:** To open up?  
 **Translation:** 
 
-**[3032.12s] English:** Есть причина, почему именно нейтрино.  
+**[5537.02s] English:** Yes.  
 **Translation:** 
 
-**[3034.20s] English:** Мы можем это обсудить, но это не очень интересно.  
+**[5538.02s] English:** I think the specific question "Why does anything exist,  
 **Translation:** 
 
-**[3036.80s] English:** Так если нейтрино летит к нам сквозь Вселенную, из какой-то очень-очень далекой галактики,  
+**[5542.24s] English:** Isn't there anything?  
 **Translation:** 
 
-**[3042.24s] English:** то существует вероятность, что по пути оно распадется на другие нейтрино.  
-**Translation:** 
+**[5544.60s] English:** There is no answer which we usually attribute,  
+**Translation:** Vocabulary: attribute: 归因
 
-**[3047.14s] English:** Потому что, как векторы, они не просто перпендикулярны друг другу, как это было в квантовой теории поля.  
+**[5547.30s] English:** To questions of "why".  
 **Translation:** 
 
-**[3052.96s] English:** Это значит, что если наблюдать за нейтрино, летящими с достаточно большого расстояния,  
+**[5550.00s] English:** Since typical "why" questions are built into the universe.  
 **Translation:** 
 
-**[3057.20s] English:** и с высокой энергией, они должны рассеяться.  
+**[5556.88s] English:** We use properties of the universe that are available to us.  
 **Translation:** 
 
-**[3061.52s] English:** Если вы видите много нейтрино рядом, то дальше их должно быть меньше.  
+**[5558.90s] English:** Known to be able to answer.  
 **Translation:** 
 
-**[3068.46s] English:** Есть такой эксперимент, называется IceCube.  
+**[5560.76s] English:** But as far as we know, the Universe is not stitched.  
 **Translation:** 
 
-**[3071.54s] English:** Это удивительное свидетельство изобретательности людей.  
-**Translation:** 
+**[5563.22s] English:** Into something greater.  
+**Translation:** Vocabulary: stitched: 缝合
 
-**[3076.44s] English:** Они бурят отверстия в Антарктиде,  
+**[5564.52s] English:** Therefore, she may simply be.  
 **Translation:** 
 
-**[3078.92s] English:** и опускают в них фотодетекторы на струне на милю в глубину.  
+**[5567.02s] English:** Could this all be a simulation?  
 **Translation:** 
 
-**[3085.58s] English:** Они фактически...  
+**[5570.78s] English:** Of course.  
 **Translation:** 
 
-**[3087.20s] English:** Используют весь лед в кубе.  
-**Translation:** 
+**[5571.78s] English:** This is an interesting, dark, twisted video game,  
+**Translation:** Vocabulary: twisted: 扭曲的
 
-**[3089.46s] English:** Не знаю точно, на милю или нет, что-то около километра.  
+**[5575.90s] English:** In which we exist.  
 **Translation:** 
 
-**[3093.12s] English:** Глубоко, в общем.  
-**Translation:** 
+**[5577.12s] English:** Listeners of my podcast "Mindscape" by episode  
+**Translation:** Vocabulary: listeners: 听众; mindscape: 思维景观
 
-**[3095.10s] English:** Этот объект льда служит детектором.  
+**[5579.90s] English:** Social networks that I make do not know what this is.  
 **Translation:** 
 
-**[3098.54s] English:** Они наблюдают вспышки, когда космическое излучение, или нейтрино, или что-то еще, ударяется о молекулу льда.  
+**[5579.98s] English:** Keep the answers to the questions, but they criticize me for it.  
 **Translation:** 
 
-**[3105.86s] English:** Воды во льду.  
+**[5584.58s] English:** If the question begins with the words "possible that?",  
 **Translation:** 
 
-**[3106.90s] English:** Они вызывают вспышки во льду?  
+**[5590.56s] English:** The answer will always be "yes".  
 **Translation:** 
 
-**[3108.58s] English:** Да.  
+**[5592.22s] English:** Possible, this is a useless answer, but anything is possible.  
 **Translation:** 
 
-**[3109.18s] English:** Они ищут...  
+**[5596.10s] English:** Until you add even numbers and get  
 **Translation:** 
 
-**[3110.20s] English:** Разве это... Как выглядит такой детектор?  
+**[5600.32s] English:** Odd.  
 **Translation:** 
 
-**[3114.72s] English:** Это много струн. Много-много струн.  
-**Translation:** 
+**[5601.32s] English:** When you say that this is possible, there is mathematical,  
+**Translation:** Vocabulary: mathematical: 数学上的
 
-**[3117.20s] English:** С фотодетекторами на 360 градусов.  
+**[5605.74s] English:** Yes, there is a more intuitive one.  
 **Translation:** 
 
-**[3120.00s] English:** градусов и ты это очень круто это невероятно круто они провели потрясающую работу регистрируют  
-**Translation:** 
+**[5606.98s] English:** Yes.  
+**Translation:** Vocabulary: intuitive: 直觉的
 
-**[3128.38s] English:** нейтрино то есть они ищут нейтрино суть том что большинство космических лучей состоят из протонов  
+**[5607.98s] English:** You want to know if this is plausible.  
 **Translation:** 
 
-**[3134.22s] English:** почему потому что протоны существуют и достаточно крупный чтобы ускорять их до очень высоких энергий  
-**Translation:** 
+**[5609.88s] English:** Is it plausible?  
+**Translation:** Vocabulary: plausible: 合情合理的
 
-**[3141.60s] English:** как правило высокоэнергические космические лучи состоят из протонов они также сталкиваются с  
+**[5610.88s] English:** Is such an explanation permissible?  
 **Translation:** 
 
-**[3146.82s] English:** атмосферой земли и распадаются на другие частицы а вот нейтрино по большей части чаще всего проходит  
-**Translation:** 
+**[5612.96s] English:** I do not think there is an indisputable philosophical  
+**Translation:** Vocabulary: indisputable: 不容置疑的; permissible: 允许的; philosophical: 哲学的
 
-**[3154.02s] English:** насквозь и не только в антарктиде по всей земле иногда нейтрино взаимодействуют частицы на земле  
+**[5618.74s] English:** Objection to the simulation hypothesis, and there is still no evidence for it.  
 **Translation:** 
 
-**[3161.40s] English:** а еще нейтрино от солнца от вселенной постоянно проходит через ваше тело так что если ты набрался  
-**Translation:** 
+**[5623.06s] English:** Reasons to take her seriously.  
+**Translation:** Vocabulary: hypothesis: 假设
 
-**[3169.02s] English:** терпения отхватил большую часть льда в антарктиде под наблюдение хорошо что лед прозрачен  
+**[5624.72s] English:** How do you think people will try to create their own?  
 **Translation:** 
 
-**[3176.82s] English:** природа создала нам детектор нейтрино это и делает ice cube а почему лед потому что там  
+**[5628.32s] English:** I always reflect on this in that key.  
 **Translation:** 
 
-**[3184.70s] English:** мало шумов и можно наблюдать и он гораздо плотнее воздуха но прозрачен ага более плотный то есть  
+**[5630.68s] English:** In the last few years, and more recently, I have conducted  
 **Translation:** 
 
-**[3194.70s] English:** вероятность выше и прозрачные а еще на краю земли так что можно люди классные обожаю скажи ага в  
+**[5635.90s] English:** Spending a lot of time in virtual worlds.  
 **Translation:** 
 
-**[3206.82s] English:** можно взять график эксперимента ice cube посмотреть сколько нейтрино с очень высокими энергиями они  
+**[5638.48s] English:** Virtual worlds.  
 **Translation:** 
 
-**[3214.06s] English:** обнаружили в нашем небольшом умственным голографическом эксперименте мы предсказываем  
+**[5639.88s] English:** Hello!  
 **Translation:** 
 
-**[3220.02s] English:** наличие порога нейтрино должно быть видно по мере увеличения энергии затем они рассеиваются если  
+**[5640.00s] English:** The opportunity to create worlds with ever higher resolution fills me with excitement.  
 **Translation:** 
 
-**[3225.68s] English:** посмотреть на их данные они заканчиваются там где мы предположили порог это не означает что  
+**[5640.88s] English:** I ask, and what do you think, who would say that the hypothesis  
 **Translation:** 
 
-**[3232.06s] English:** порог верно это означает что они теряют возможность проводить эксперимент именно там  
+**[5642.18s] English:** Simulation?  
 **Translation:** 
 
-**[3236.82s] English:** где мы предсказали порог о мамочки хран  
+**[5643.18s] English:** The Simulation Hypothesis is true, it is so.  
 **Translation:** 
 
-**[3240.00s] English:** Хорошо. А почему есть порог?  
+**[5644.18s] English:** Therefore, where you say, this is not exactly that one.  
 **Translation:** 
 
-**[3243.40s] English:** Потому что нейтрино с высокими энергиями все меньше.  
+**[5645.18s] English:** Storage.  
 **Translation:** 
 
-**[3246.76s] English:** Существует спектр, и он убывает.  
+**[5646.18s] English:** No.  
 **Translation:** 
 
-**[3248.98s] English:** Но тут мы отображаем количество нейтрино.  
+**[5647.18s] English:** If you were saying that the simulation hypothesis is  
 **Translation:** 
 
-**[3253.48s] English:** В зависимости от энергии оно уменьшается, и их становится очень мало.  
+**[5647.64s] English:** We will talk a bit about artificial intelligence and the progress of Sor.  
 **Translation:** 
 
-**[3256.96s] English:** Для предсказания нужны нейтрино с высокими энергиями.  
-**Translation:** 
+**[5648.18s] English:** This is just a state of terrifying life, possibly, this.  
+**Translation:** Vocabulary: terrifying: 恐怖的
 
-**[3260.44s] English:** Эффект немного больше на высоких энергиях.  
+**[5649.18s] English:** Not like that.  
 **Translation:** 
 
-**[3263.02s] English:** Да.  
+**[5650.18s] English:** But you can't imagine the hypothesis, it's not like that.  
 **Translation:** 
 
-**[3263.64s] English:** Понял. И этот эффект связан с перпендикулярностью.  
+**[5651.18s] English:** What he seems to think.  
 **Translation:** 
 
-**[3266.46s] English:** Позволь мне упомянуть Оливера Фридриха.  
+**[5652.18s] English:** This is statistics.  
 **Translation:** 
 
-**[3268.40s] English:** Он возглавлял это исследование.  
+**[5653.18s] English:** This is not true.  
 **Translation:** 
 
-**[3270.08s] English:** Он заслуживает признания за эту работу.  
+**[5654.18s] English:** What is not right?  
 **Translation:** 
 
-**[3272.32s] English:** Я был с автором и тоже проделал некоторую работу, но лавры принадлежат ему.  
+**[5654.48s] English:** Can automatically generate worlds.  
 **Translation:** 
 
-**[3276.02s] English:** Спасибо, Оливер. Спасибо за то, что продвигаешь науку вперед.  
+**[5655.18s] English:** That which is worth exploring is possible.  
 **Translation:** 
 
-**[3280.62s] English:** Кстати, об этом, о метапроцессе.  
+**[5656.18s] English:** Look, I have your hypothesis simulation running.  
 **Translation:** 
 
-**[3285.42s] English:** Как ты подходишь к постановке таких больших вопросов  
+**[5657.18s] English:** Six years, this is just a status, such an idea, what is it?  
 **Translation:** 
 
-**[3288.54s] English:** и формулируешь их в виде работы и эксперимента,  
+**[5658.34s] English:** The possibility of existing in these worlds is quite captivating.  
 **Translation:** 
 
-**[3292.14s] English:** который приведет к предсказанию?  
-**Translation:** 
+**[5662.66s] English:** If only compatible physics, quantum mechanics, and general relativity govern the creation of these worlds.  
+**Translation:** Vocabulary: captivating: 极具吸引力的; compatible: 兼容的; govern: 支配; quantum: 量子; relativity: 相对论
 
-**[3294.36s] English:** Что это за процесс?  
+**[5669.40s] English:** Agreed.  
 **Translation:** 
 
-**[3296.26s] English:** Интересная вещь происходит, когда ты становишься физиком-теоретиком.  
-**Translation:** 
+**[5670.46s] English:** It seems that people will inevitably try to create a simulation.  
+**Translation:** Vocabulary: inevitably: 必然地
 
-**[3300.00s] English:** Вот ты аспирант, ты написал несколько работ.  
+**[5674.52s] English:** I think people will be making simulations better and better.  
 **Translation:** 
 
-**[3304.38s] English:** И внезапно ты становишься мировым экспертом в совершенно крохотной области знаний.  
-**Translation:** 
+**[5678.46s] English:** Philosopher David Chalmers, as I see it, well argued that we should take what happens in virtual and simulated realities just as seriously as the reality we experience.  
+**Translation:** Vocabulary: chalmers: 查默斯; realities: 现实; simulated: 模拟; simulations: 模拟
 
-**[3309.02s] English:** А в других областях ты не особо сведущ.  
+**[5690.44s] English:** But from a practical standpoint, people will understand that simulating a realistic world is much more complex than we naively assume.  
 **Translation:** 
 
-**[3311.94s] English:** Существует огромный соблазн копать глубже,  
-**Translation:** 
+**[5699.40s] English:** But I will never have to worry about that in my life.  
+**Translation:** Vocabulary: naively: 天真地; simulating: 模拟; standpoint: 视角
 
-**[3315.06s] English:** продолжать делать то, с чего ты и начал.  
+**[5701.52s] English:** Yes, the practical transition from an impressive prototype to something that everyone uses.  
 **Translation:** 
 
-**[3318.64s] English:** Но, возможно, то, с чего ты начал, не самая интересная область.  
+**[5710.02s] English:** A similar question regarding strong AI.  
 **Translation:** 
 
-**[3323.10s] English:** Ни для мира, ни для тебя лично.  
+**[5714.08s] English:** You said that we are very far from strong AI.  
 **Translation:** 
 
-**[3325.56s] English:** Поэтому нужно отдельно развивать способность,  
+**[5717.86s] English:** I would get rid of the phrase "strong AI.  
 **Translation:** 
 
-**[3328.16s] English:** делать шаг назад и спрашивать себя,  
+**[5720.52s] English:** In essence, how do you analyze large language models and assess how far they are from the notorious strong AI?  
 **Translation:** 
 
-**[3330.00s] English:** «Ок, теперь когда я могу писать работы в этой области?  
-**Translation:** 
+**[5729.40s] English:** We can talk about different concepts of intelligence, and what we are not as close to is what some famous people say.  
+**Translation:** Vocabulary: assess: 评估
 
-**[3334.18s] English:** Когда я достаточно осведомлен о процессе?  
+**[5739.46s] English:** What do you think?  
 **Translation:** 
 
-**[3337.84s] English:** Где пересечение между моими интересами, моими способностями  
-**Translation:** 
+**[5740.92s] English:** I believe that artificial intelligence differs from human intelligence.  
+**Translation:** Vocabulary: differs: 不同
 
-**[3341.44s] English:** и тем, что реально интересно?»  
+**[5748.22s] English:** Those who focus on strong AI are making a mistake.  
 **Translation:** 
 
-**[3344.20s] English:** Честно говоря, у меня на протяжении карьеры  
+**[5753.92s] English:** II-agents that we can create now or in the near future,  
 **Translation:** 
 
-**[3349.02s] English:** это не очень хорошо получалось.  
+**[5758.62s] English:** In some ways, they may be stronger.  
 **Translation:** 
 
-**[3352.80s] English:** Обычно я работал в общей области физики частиц,  
+**[5760.00s] English:** Much better than people in some ways, and yet much worse than people, and instead of comparing and constantly doing so.  
 **Translation:** 
 
-**[3357.12s] English:** теории поля, ОТО,  
+**[5767.80s] English:** Human intelligence should be valued for its capabilities, but we must not overhumanize it.  
 **Translation:** 
 
-**[3360.86s] English:** Я пытался брать идеи, о которых говорили другие люди и спрашивали себя,  
-**Translation:** 
+**[5775.44s] English:** Only it is more correct, but it will also help us use it better for work and protection.  
+**Translation:** Vocabulary: capabilities: 能力
 
-**[3367.04s] English:** действительно ли они согласуются между собой.  
+**[5780.94s] English:** I think the main idea is about its extremely  
 **Translation:** 
 
-**[3370.24s] English:** У меня, наверное, есть три очень успешные, с точки зрения цитируемости, работы.  
+**[5791.70s] English:** Impressive features, this is not only a description but no, I understand, I agree, and the main question.  
 **Translation:** 
 
-**[3379.40s] English:** Моя первая работа, за которую я получил очень мало признания,  
+**[5799.32s] English:** Which causes a lot of debate on exactly what the limitations of large language models are.  
 **Translation:** 
 
-**[3383.08s] English:** ее сделал мой научрук и его сотрудник.  
+**[5805.88s] English:** Models, can they gain common sense? Do they truly understand?  
 **Translation:** 
 
-**[3386.02s] English:** Две другие были, по сути, моими идеями.  
+**[5810.92s] English:** Mir or is this simply fashionable mimicking devices?  
 **Translation:** 
 
-**[3387.90s] English:** Одна написана сразу после того, как мы обнаружили ускоренное расширение.  
-**Translation:** 
+**[5814.72s] English:** What do you think about the limitations of large language models? I don't think they fundamentally have much.  
+**Translation:** Vocabulary: fashionable: 流行的; fundamentally: 本质上; mimicking: 模仿
 
-**[3392.60s] English:** В 98-м наблюдения показали, что Вселенная не просто расширяется,  
+**[5824.38s] English:** I hold limited physicalist views on consciousness and awareness, fundamentally.  
 **Translation:** 
 
-**[3396.16s] English:** а расширяется все быстрее.  
-**Translation:** 
+**[5832.46s] English:** I do not see any obstacles to creating a computer in which thinking and perception would be indistinguishable.  
+**Translation:** Vocabulary: consciousness: 觉醒; perception: 感知; physicalist: 唯物论者
 
-**[3398.66s] English:** Либо из-за космологической постоянной Эйнштейна,  
+**[5838.82s] English:** From a human, but we are not.  
 **Translation:** 
 
-**[3402.04s] English:** либо какой-то более сложной формы темной энергии,  
+**[5840.90s] English:** This is what we are trying to do. A large language model tries to predict text. That's what it does.  
 **Translation:** 
 
-**[3405.16s] English:** некой таинственной вещи, заполняющей Вселенную.  
+**[5849.10s] English:** She uses the fact that people, drawing from evolutionary biology, attribute intentions,  
 **Translation:** 
 
-**[3407.60s] English:** Люди вбрасывают идеи о темной энергии, чтобы это могло быть, и так далее.  
-**Translation:** 
+**[5857.64s] English:** Thought and agency in things that act like people. On my way to this studio, I turned on  
+**Translation:** Vocabulary: attribute: 归因; evolutionary: 进化的
 
-**[3412.78s] English:** Большинство из них были космологами.  
+**[5869.46s] English:** Google Maps. Google was with me. But I wanted to stop for coffee. I didn't do that,  
 **Translation:** 
 
-**[3415.40s] English:** Они изучают космологию и думают о Вселенной.  
+**[5876.88s] English:** What Google Maps told me. I turned onto the road which  
 **Translation:** 
 
-**[3417.90s] English:** В целом, мне нравится общаться с людьми из разных областей,  
+**[5880.00s] English:** It didn't like us, and that pissed them off.  
 **Translation:** 
 
-**[3424.28s] English:** так что мне больше, чем многим, было известно,  
-**Translation:** 
+**[5883.78s] English:** They are like that, no, what are you talking about?  
+**Translation:** Vocabulary: pissed: 生气
 
-**[3428.28s] English:** что на этот счет думают уважаемые ученые в области физики частиц.  
+**[5885.44s] English:** Nu, not literally, but you understand what I mean.  
 **Translation:** 
 
-**[3432.58s] English:** И я сразу подумал, ребята, вы разбрасываетесь теориями.  
+**[5887.64s] English:** They say no, turn left, left, but you're going right.  
 **Translation:** 
 
-**[3436.88s] English:** Они совершенно неестественны. Они прямо точно подобнены.  
+**[5890.42s] English:** A person cannot help but be upset about that,  
 **Translation:** 
 
-**[3440.36s] English:** Любой физик из области частиц постыдился бы такое обсуждать.  
-**Translation:** 
+**[5893.62s] English:** That Google Maps is annoyed by him.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[3443.26s] English:** Но вместо того, чтобы над ними смеяться,  
+**[5895.96s] English:** Just like that.  
 **Translation:** 
 
-**[3447.90s] English:** я задался вопросом, а существует ли приемлемая версия?  
+**[5897.36s] English:** They don't even try.  
 **Translation:** 
 
-**[3451.48s] English:** Есть ли способ не гневить физиков, и чтобы при этом расширение Вселенной ускорялось?  
+**[5898.94s] English:** This is a small language model.  
 **Translation:** 
 
-**[3456.94s] English:** И я понял, что существует определенный набор относительно естественных моделей.  
+**[5901.28s] English:** Here is no hint of intention.  
 **Translation:** 
 
-**[3462.74s] English:** И знаешь что?  
+**[5904.16s] English:** But we attribute it to them.  
 **Translation:** 
 
-**[3464.28s] English:** На их основе можно сделать новое экспериментальное предсказание.  
-**Translation:** 
+**[5905.94s] English:** Philosopher Daniel Dennett wrote a very influential work.  
+**Translation:** Vocabulary: dennett: 丹尼特; influential: 有影响力的
 
-**[3468.08s] English:** Так я и сделал. Люди остались довольны.  
+**[5910.06s] English:** International Installation" about the fact that for people, naturally,  
 **Translation:** 
 
-**[3470.48s] English:** Что смогло удовлетворить физиков  
-**Translation:** 
+**[5914.66s] English:** To attribute more intent to artificial things than is warranted,  
+**Translation:** Vocabulary: intent: 意图
 
-**[3475.28s] English:** и объяснить такую деликатную вещь,  
+**[5919.26s] English:** What there really is.  
 **Translation:** 
 
-**[3477.90s] English:** как темная энергия?  
+**[5922.16s] English:** This does not mean that it cannot be.  
 **Translation:** 
 
-**[3480.00s] English:** то, что темная энергия пронизывает всю Вселенную и медленно меняется,  
+**[5924.62s] English:** But if we think rationally and calmly,  
 **Translation:** 
 
-**[3487.00s] English:** это красный флаг.  
-**Translation:** 
+**[5928.76s] English:** The first step is to acknowledge our enormous bias.  
+**Translation:** Vocabulary: calmly: 镇静地
 
-**[3489.06s] English:** Потому что физика частиц — это история о шкалах длин и времен,  
+**[5933.16s] English:** To attributing depth to systems.  
 **Translation:** 
 
-**[3494.14s] English:** которые, как правило, что? Малы.  
-**Translation:** 
+**[5935.94s] English:** Which, on a surface level, are capable of behaving humanely.  
+**Translation:** Vocabulary: attributing: 赋予; behaving: 表现
 
-**[3497.54s] English:** Частицы малы. Они быстро вибрируют.  
+**[5941.74s] English:** If this bias towards intent is present in the data, in human data,  
 **Translation:** 
 
-**[3500.88s] English:** А тут говорят про новое поле и его типичная скорость изменения — раз в миллиард лет.  
+**[5946.88s] English:** In enormous quantities of human data on which AI is trained,  
 **Translation:** 
 
-**[3506.04s] English:** Это просто неестественно.  
+**[5953.14s] English:** Large language models, and in the future, video models,  
 **Translation:** 
 
-**[3508.68s] English:** Это можно формализировать, мол, даже если представить частицу, которая  
+**[5956.94s] English:** Do you think that intention naturally becomes  
 **Translation:** 
 
-**[3515.18s] English:** эволюционировала на протяжении миллиардов лет.  
+**[5960.70s] English:** What is the basis of the behavior of these systems?  
 **Translation:** 
 
-**[3518.84s] English:** Если она хоть сколько-то взаимодействует с другими частицами,  
+**[5963.82s] English:** I don't think that will happen.  
 **Translation:** 
 
-**[3522.50s] English:** она ускорится, ее динамика станет выше, ее масса будет больше и так далее.  
+**[5965.94s] English:** So, it might happen.  
 **Translation:** 
 
-**[3528.20s] English:** Тут целая история.  
-**Translation:** 
+**[5967.74s] English:** Principally, I am not against it.  
+**Translation:** Vocabulary: principally: 主要地
 
-**[3529.96s] English:** В квантовой теории поля все должно быть устойчиво и взаимодействовать.  
+**[5970.52s] English:** But again, how large language models came into existence,  
 **Translation:** 
 
-**[3532.96s] English:** Как этого избежать? Ответ — симметрия.  
-**Translation:** 
+**[5975.04s] English:** And what they are optimized for,  
+**Translation:** Vocabulary: optimized: 优化
 
-**[3536.58s] English:** Можно вести симметрию,  
+**[5978.36s] English:** Dramatically differ from how humans appeared and what they are optimized for.  
 **Translation:** 
 
-**[3538.54s] English:** которая  
-**Translation:** 
+**[5983.68s] English:** I believe we are missing an opportunity.  
+**Translation:** Vocabulary: dramatically: 大幅度地
 
-**[3538.66s] English:** защищает новое поле от взаимодействия с любыми другими полями.  
+**[5986.44s] English:** To judge wisely what large language models are,  
 **Translation:** 
 
-**[3543.86s] English:** Это хорошо по двум причинам.  
+**[5991.74s] English:** Comparing them to people.  
 **Translation:** 
 
-**[3545.78s] English:** Во-первых, это сохраняет невысокую динамику.  
+**[5993.94s] English:** In both positive and negative cases,  
 **Translation:** 
 
-**[3548.98s] English:** Ты не можешь объяснить, почему она невысокая, ты это только что придумал.  
+**[5995.94s] English:** In a negative sense.  
 **Translation:** 
 
-**[3552.06s] English:** Но, по крайней мере, это защищает от ускорения, потому что ничто не взаимодействует с другими частицами.  
+**[5996.98s] English:** But I think I'll argue against their optimization.  
 **Translation:** 
 
-**[3556.94s] English:** Во-вторых, это затрудняет обнаружение.  
-**Translation:** 
+**[6000.00s] English:** There is a difference between how they are trained and what they are optimized for.  
+**Translation:** Vocabulary: optimization: 优化
 
-**[3559.94s] English:** Эксперименты по поиску пятой силы  
+**[6003.72s] English:** They are trained to predict token values using very trivial methods.  
 **Translation:** 
 
-**[3563.86s] English:** или дрейфа фундаментальных констант природы, таким как заряд электричества,  
-**Translation:** 
+**[6008.46s] English:** But we can describe what they are optimized for, and what the real task consists of.  
+**Translation:** Vocabulary: token: 标记; trivial: 琐碎的
 
-**[3568.52s] English:** или заряд электрона,  
+**[6013.46s] English:** She consists in constructing a model of the world, that is, in understanding it.  
 **Translation:** 
 
-**[3570.24s] English:** должны были бы подтвердить существование  
-**Translation:** 
+**[6017.36s] English:** And this is closer to what people do.  
+**Translation:** Vocabulary: constructing: 构建
 
-**[3573.64s] English:** темной энергии.  
+**[6022.06s] English:** Only in the case of large language models do we know what's going on under the hood, whereas with humans, we don't.  
 **Translation:** 
 
-**[3575.16s] English:** Я смог предложить способ предотвратить это.  
+**[6027.30s] English:** They are not optimized for this; they mimic humans.  
 **Translation:** 
 
-**[3578.84s] English:** Обнаружение?  
+**[6031.24s] English:** This is fine-tuning.  
 **Translation:** 
 
-**[3580.12s] English:** Да, обнаружение.  
-**Translation:** 
+**[6033.00s] English:** Self-learning is optimized for understanding and creating a compressed representation of everything that people have created on the internet.  
+**Translation:** Vocabulary: compressed: 压缩
 
-**[3580.96s] English:** Поскольку симметрия может предотвратить взаимодействие с другими полями, обнаружение затруднено.  
+**[6041.52s] English:** Good.  
 **Translation:** 
 
-**[3586.76s] English:** По счастливой случайности, на основании моей первой работы, я понял, что есть  
+**[6042.90s] English:** The goal is that this will give a deep understanding of the world.  
 **Translation:** 
 
-**[3591.84s] English:** одна лазейка.  
+**[6049.74s] English:** Yes. Therefore, I believe that one can ask a multitude of interesting questions.  
 **Translation:** 
 
-**[3593.76s] English:** Если ввести симметрию,  
-**Translation:** 
+**[6055.50s] English:** About how large language models...  
+**Translation:** Vocabulary: multitude: 众多
 
-**[3596.44s] English:** чтобы защитить темную энергию от взаимодействия с другими полями,  
+**[6057.30s] English:** ...actually represent the world.  
 **Translation:** 
 
-**[3598.64s] English:** я смог предотвратить  
+**[6060.74s] English:** Obviously, they very well mimic human actions.  
 **Translation:** 
 
-**[3600.04s] English:** это.  
+**[6065.84s] English:** The question is, isn't doing what humans do the simplest, most effective, and best way to act humanely?  
 **Translation:** 
 
-**[3600.96s] English:** Но это не значит, что я не смог предотвратить взаимодействие с другими полями.  
+**[6075.04s] English:** Or are there other ways?  
 **Translation:** 
 
-**[3600.00s] English:** Остается одно допустимое взаимодействие, которое нельзя исключить.  
+**[6076.72s] English:** I believe this is aambiguous question.  
 **Translation:** 
 
-**[3604.82s] English:** Это очень специфическое взаимодействие между темной энергией и фотонами,  
+**[6078.90s] English:** I recently listened to lectures by Melanie Mitchell at the Santa Fe Institute, she studies artificial intelligence.  
 **Translation:** 
 
-**[3609.72s] English:** а они встречаются часто, и оно имеет следующий эффект.  
+**[6083.76s] English:** She told two stories about two different jobs.  
 **Translation:** 
 
-**[3613.74s] English:** Когда фотон проходит через темную энергию,  
+**[6087.30s] English:** First, someone else, and then her team works on it.  
 **Translation:** 
 
-**[3616.82s] English:** его поляризация, вверх, вниз, влево, вправо, любая,  
+**[6089.86s] English:** They modeled Reversi.  
 **Translation:** 
 
-**[3621.40s] English:** сменится по мере прохода через темную энергию.  
-**Translation:** 
+**[6091.86s] English:** Reversi is a game with a square board and white and black squares.  
+**Translation:** Vocabulary: modeled: 模仿; reversi: 翻转棋
 
-**[3624.78s] English:** Это называется двулучие преломления.  
+**[6095.54s] English:** Experiment, such.  
 **Translation:** 
 
-**[3626.62s] English:** Можно провести расчеты и сказать, что нельзя сделать очень точное предсказание,  
-**Translation:** 
+**[6097.54s] English:** They fed the neural network, in the most symbolic form, the moves.  
+**Translation:** Vocabulary: neural: 神经; symbolic: 象征的
 
-**[3632.54s] English:** потому что мы выдумали эту модель,  
+**[6104.54s] English:** E5 means that you place a chip on E5.  
 **Translation:** 
 
-**[3634.38s] English:** но если хотите, чтобы данные соответствовали,  
-**Translation:** 
+**[6108.54s] English:** Packets form long chains of millions of plays, real rounds.  
+**Translation:** Vocabulary: packets: 数据包
 
-**[3637.26s] English:** можно предсказать, какова должна быть поляризация.  
+**[6113.54s] English:** Then, within the scope of the work, a question is posed.  
 **Translation:** 
 
-**[3640.80s] English:** Вращение несколько градусов, не так много.  
+**[6117.30s] English:** Neural network has learned to determine how much more to play.  
 **Translation:** 
 
-**[3643.98s] English:** Это очень трудно обнаружить, но люди пытаются.  
+**[6120.00s] English:** What moves are possible, and which are not.  
 **Translation:** 
 
-**[3647.78s] English:** Прямо сейчас мы буквально стоим перед возможностью  
+**[6124.82s] English:** Did she create it in her own little mind?  
 **Translation:** 
 
-**[3651.38s] English:** либо это подтвердить, либо исключить с помощью реликтового излучения.  
+**[6127.48s] English:** A large language model, I'm not technically sure,  
 **Translation:** 
 
-**[3655.04s] English:** Есть в рекламе.  
-**Translation:** 
+**[6130.08s] English:** This is a large language model, essentially a neural network.  
+**Translation:** Vocabulary: technically: 实际上
 
-**[3656.62s] English:** Правда, утверждается, что энергию обнаружили, что она есть,  
+**[6132.92s] English:** Did she create a board representation and castling?  
 **Translation:** 
 
-**[3663.92s] English:** но статистически это незначимо.  
+**[6135.74s] English:** How can we find out?  
 **Translation:** 
 
-**[3667.14s] English:** Если бы пришлось делать ставку, думаю, это не подтвердится.  
+**[6136.76s] English:** They created a small test network,  
 **Translation:** 
 
-**[3671.10s] English:** Это очень трудно наблюдать.  
-**Translation:** 
+**[6139.54s] English:** We integrated it and asked what was happening right now.  
+**Translation:** Vocabulary: integrated: 合并
 
-**[3672.76s] English:** Но возможно, по мере получения более качественных данных,  
+**[6143.74s] English:** And this test network may ask,  
 **Translation:** 
 
-**[3676.12s] English:** проведение чистого анализа подтвердится, что мы обнаружили темную энергию.  
+**[6146.26s] English:** Is this move possible, or is this piece white?  
 **Translation:** 
 
-**[3680.74s] English:** Раз мы об этом говорим,  
+**[6149.32s] English:** Or black,  
 **Translation:** 
 
-**[3684.62s] English:** люди иногда испытывают,  
+**[6152.14s] English:** Nu, or something that meant that the neural network  
 **Translation:** 
 
-**[3686.62s] English:** что они используют темную энергию и темную материю  
+**[6155.56s] English:** Invented the reversal board.  
 **Translation:** 
 
-**[3690.34s] English:** в качестве причины, что физики совсем уже сошли с ума.  
-**Translation:** 
+**[6159.00s] English:** They discovered that the test network was giving the correct response,  
+**Translation:** Vocabulary: reversal: 反转
 
-**[3695.96s] English:** Мол, существует поле, которое пронизывает все.  
+**[6163.12s] English:** Not in 100% of cases,  
 **Translation:** 
 
-**[3700.64s] English:** Оно не похоже ни на что.  
+**[6164.84s] English:** Certainly not by chance; it is definitely so.  
 **Translation:** 
 
-**[3703.24s] English:** Оно невидимо, и с его помощью у них расчеты сходятся.  
+**[6169.52s] English:** So they claim that there are experimental proofs,  
 **Translation:** 
 
-**[3707.02s] English:** Что ты отвечаешь на такие предположения?  
-**Translation:** 
+**[6173.32s] English:** What neural network created a reversal board?  
+**Translation:** Vocabulary: proofs: 证据
 
-**[3710.52s] English:** Ну, есть два варианта ответа.  
+**[6176.24s] English:** Based on the raw data.  
 **Translation:** 
 
-**[3712.22s] English:** Первый — они бы сказали то же самое, когда мы открыли Непту.  
+**[6178.08s] English:** But the Melani team asks,  
 **Translation:** 
 
-**[3716.62s] English:** Потому что тут то же самое.  
+**[6180.44s] English:** Are you sure you understand the reversal board?  
 **Translation:** 
 
-**[3720.00s] English:** У нас была очень хорошая теория в этом случае, ньютоновская гравитация в Солнечной системе.  
+**[6183.40s] English:** Was it not included in the testing network?  
 **Translation:** 
 
-**[3725.88s] English:** Мы сделали предсказание, а предсказания слегка не совпадали по движению планет.  
+**[6190.02s] English:** They discovered that at least half of the improvement was built in.  
 **Translation:** 
 
-**[3731.20s] English:** Это движение можно было бы объяснить, расположив что-то очень простое, еще одну планету, в конкретном месте.  
+**[6193.74s] English:** But not all.  
 **Translation:** 
 
-**[3739.36s] English:** Мы ее искали и нашли.  
+**[6195.96s] English:** A reversibility board is much simpler than the world.  
 **Translation:** 
 
-**[3741.20s] English:** Это первый случай, когда мы обнаружили темную материю во Вселенной.  
-**Translation:** 
+**[6201.44s] English:** Therefore, I consider this to be a non-ambiguous question.  
+**Translation:** Vocabulary: reversibility: 可逆性
 
-**[3745.86s] English:** Эту материю нельзя увидеть.  
+**[6206.38s] English:** Really, indeed?  
 **Translation:** 
 
-**[3748.24s] English:** Ага.  
+**[6207.42s] English:** Is this not so?  
 **Translation:** 
 
-**[3748.84s] English:** Темная материя и темная энергия разнятся.  
+**[6207.94s] English:** Really is it not so?  
 **Translation:** 
 
-**[3751.38s] English:** Темная материя, насколько мы предполагаем, это какая-то частица.  
+**[6208.04s] English:** Really is it not so?  
 **Translation:** 
 
-**[3757.54s] English:** Это частица, которая слабо с нами взаимодействует.  
+**[6208.08s] English:** Yes, undoubtedly.  
 **Translation:** 
 
-**[3760.46s] English:** Мы знаем, сколько ее, мы более или менее знаем, где она, мы знаем некоторые ее свойства.  
-**Translation:** 
+**[6209.52s] English:** Excellent if large language models  
+**Translation:** Vocabulary: undoubtedly: 毫无疑问
 
-**[3765.64s] English:** Мы не знаем точно, что это такое.  
+**[6212.06s] English:** Good in what we teach them,  
 **Translation:** 
 
-**[3768.18s] English:** Но это не что-то особо таинственное, это частица.  
+**[6216.60s] English:** Because they built a model of the world that was just like theirs.  
 **Translation:** 
 
-**[3773.76s] English:** Темная энергия — это другое.  
+**[6219.28s] English:** How it is in our head.  
 **Translation:** 
 
-**[3775.74s] English:** Темная энергия действительно равномерна.  
+**[6221.44s] English:** Also, it's good if they are good.  
 **Translation:** 
 
-**[3778.32s] English:** Распределена.  
+**[6222.98s] English:** Despite the absence of such a model.  
 **Translation:** 
 
-**[3778.84s] English:** Распределена по пространству.  
+**[6224.94s] English:** Any variant is perfect.  
 **Translation:** 
 
-**[3780.86s] English:** Имеет очень странные свойства, насколько мы понимаем, она не меняется.  
+**[6226.42s] English:** But the data does not answer this question.  
 **Translation:** 
 
-**[3784.96s] English:** Количество энергии неизменно в каждом кубическом сантиметре пространства в каждый момент времени.  
+**[6229.12s] English:** On this account, I have had  
 **Translation:** 
 
-**[3791.18s] English:** Вот почему главный кандидат на роль темной энергии — космологическая постоянная Эйнштейна.  
+**[6230.74s] English:** Some intellectual humility.  
 **Translation:** 
 
-**[3796.78s] English:** Космологическая постоянная — строго постоянная, на 100%.  
-**Translation:** 
+**[6233.16s] English:** In particular, due to several stages,  
+**Translation:** Vocabulary: humility: 谦逊
 
-**[3800.70s] English:** Данные показывают, что она должна быть постоянной не менее чем на 98%, поэтому 100% постоянная подходит.  
+**[6235.62s] English:** Development of Machine Learning  
 **Translation:** 
 
-**[3807.14s] English:** Плюс она очень устойчива.  
+**[6237.28s] English:** In recent years,  
 **Translation:** 
 
-**[3808.84s] English:** Она просто существует, ничего не делает, не взаимодействует с другими частицами, все подходит.  
+**[6238.04s] English:** In the last 20 years.  
 **Translation:** 
 
-**[3813.40s] English:** Вероятно, темная энергия — это космологическая постоянная.  
+**[6238.78s] English:** In particular, due to several stages,  
 **Translation:** 
 
-**[3816.66s] English:** Важно подчеркнуть, что гипотеза существования темной материи появилась в семидесятых-восьмидесятых, чтобы объяснить вращение галактик.  
+**[6239.98s] English:** Development of machine learning over the last 20 years.  
 **Translation:** 
 
-**[3829.90s] English:** Сегодня существование темной материи доказано лучше, чем в восьмидесятых, разными источниками.  
+**[6240.00s] English:** I would never have predicted that language models trained in this manner and on such a scale would turn out to be so impressive.  
 **Translation:** 
 
-**[3838.84s] English:** В основном наблюдение за галактикой существует только для тех, кто не знает о галактике.  
+**[6250.88s] English:** Here, intellectual humility enters the picture. In Melanie's situation, intuitively it seems that the system needs to gain common sense, to manipulate symbols in order to be very reasonable.  
 **Translation:** 
 
-**[3840.00s] English:** реликтового излучения или крупномасштабной структуры Вселенной.  
-**Translation:** 
+**[6270.00s] English:** But to the extent that I am impressed by what AI does, learning to predict the next token, I can say that my conception of the nature of intelligence is, well, partly adorned.  
+**Translation:** Vocabulary: adorned: 装饰; conception: 观念; intuitively: 直觉上; manipulate: 操作; token: 标记
 
-**[3844.48s] English:** Есть несколько независимых источников,  
+**[6288.26s] English:** This is fair. I too was... would like to say pleasantly, but I do not know if it is pleasant or unpleasant, but factually surprised by the recent pace of development.  
 **Translation:** 
 
-**[3847.04s] English:** включая гравитационное лицензирование и другие эффекты.  
-**Translation:** 
+**[6299.14s] English:** Obviously, something happened...  
+**Translation:** Vocabulary: pleasantly: 愉快地
 
-**[3850.68s] English:** Много доказательств, которые подтверждают существование темной материи  
+**[6300.00s] English:** I saw some phase transition. The development is amazing, absolutely incredible. I won't argue with that. But this doesn't tell me anything about the mechanism by which it happened.  
 **Translation:** 
 
-**[3853.94s] English:** и указывают, что ее эффекты отличаются от того,  
-**Translation:** 
+**[6316.22s] English:** Creation of a human-like model, obviously, is one of the possible mechanisms. But there is humility in acknowledging that there might be others as well.  
+**Translation:** Vocabulary: acknowledging: 承认; humility: 谦逊
 
-**[3858.12s] English:** что было бы при модификации гравитации.  
+**[6324.44s] English:** I spoke with the CEO of Anthropic, Dario Amadei. They are developing cloud technology.  
 **Translation:** 
 
-**[3861.68s] English:** Это первый ответ на твой вопрос.  
-**Translation:** 
+**[6330.00s] English:** Many AI companies are focused on scaling computations.  
+**Translation:** Vocabulary: computations: 计算
 
-**[3863.32s] English:** Есть много доказательств существования темной материи.  
+**[6338.12s] English:** If we assume that AI is limited not by data but by computational power,  
 **Translation:** 
 
-**[3866.48s] English:** А другой ответ такой.  
-**Translation:** 
+**[6346.38s] English:** We can improve the system only by utilizing more power.  
+**Translation:** Vocabulary: computational: 计算的; utilizing: 利用
 
-**[3868.74s] English:** Мы бы очень хотели, чтобы темной материи не было.  
+**[6351.12s] English:** I will ask you as a physicist.  
 **Translation:** 
 
-**[3872.78s] English:** Мы все на сто процентов заинтересованы в том,  
-**Translation:** 
+**[6354.22s] English:** May physics help increase the scale of computations, and perhaps  
+**Translation:** Vocabulary: physicist: 物理学家
 
-**[3875.46s] English:** чтобы это было что-то покруче и поинтереснее, чем темная материя,  
+**[6359.34s] English:** Can physics help increase the scale of computations?  
 **Translation:** 
 
-**[3879.24s] English:** потому что темная материя — это просто частица.  
+**[6360.00s] English:** To provide the necessary energy for these calculations.  
 **Translation:** 
 
-**[3881.52s] English:** Самая скучная в мире вещь.  
+**[6362.64s] English:** Yes, one hundred percent, this is one of the most important areas,  
 **Translation:** 
 
-**[3883.06s] English:** И темная материя неравномерно распределена в пространстве?  
+**[6365.24s] English:** In which physics can help.  
 **Translation:** 
 
-**[3886.64s] English:** Именно так, да.  
+**[6368.28s] English:** Here is a situation that is actually quite clear.  
 **Translation:** 
 
-**[3887.72s] English:** Можно даже посмотреть карты.  
-**Translation:** 
+**[6371.66s] English:** Heating, inefficiency,  
+**Translation:** Vocabulary: inefficiency: 低效
 
-**[3889.20s] English:** Мы составили их с помощью гравитационного лицензирования.  
+**[6377.66s] English:** The cost of high-level computers is high.  
 **Translation:** 
 
-**[3891.72s] English:** Проверяемые скопления темной материи в галактике,  
-**Translation:** 
+**[6382.76s] English:** Far from the effectiveness of our minds.  
+**Translation:** Vocabulary: effectiveness: 效果
 
-**[3894.50s] English:** которые все объясняют.  
+**[6386.24s] English:** Distantly hilarious.  
 **Translation:** 
 
-**[3896.06s] English:** За пределами галактики.  
-**Translation:** 
+**[6387.12s] English:** We have not tried to optimize this direction yet.  
+**Translation:** Vocabulary: distantly: 遥远地; hilarious: 好笑; optimize: 优化
 
-**[3897.72s] English:** Мы думаем, что в галактике...  
+**[6390.94s] English:** But the laptop heats up when you keep it on your lap.  
 **Translation:** 
 
-**[3898.74s] English:** в галактике темная материя неоднородна,  
-**Translation:** 
+**[6393.80s] English:** There is no necessity for this.  
+**Translation:** Vocabulary: laptop: 便携电脑; necessity: 必要性
 
-**[3900.74s] English:** но она слабее.  
+**[6395.42s] English:** The brain, however, does not heat up.  
 **Translation:** 
 
-**[3902.74s] English:** Ее влияние слабее.  
+**[6397.18s] English:** Obviously, there is a physical possibility of performing calculations.  
 **Translation:** 
 
-**[3904.74s] English:** Но в масштабе...  
+**[6402.12s] English:** With much smaller losses.  
 **Translation:** 
 
-**[3905.74s] English:** крупномасштабной структуры Вселенной и скопления галактик,  
+**[6405.10s] English:** I am looking forward to when this happens.  
 **Translation:** 
 
-**[3908.74s] English:** да, мы можем показать расположение темной материи.  
+**[6409.00s] English:** Are you captivated by the prospect of nuclear synthesis?  
 **Translation:** 
 
-**[3910.74s] English:** А может быть очень крутое и интересное объяснение темной материи,  
+**[6412.14s] English:** I am cautiously optimistic.  
 **Translation:** 
 
-**[3914.74s] English:** что это не просто еще одна частица, которая существует и собирается в скопление?  
+**[6413.84s] English:** Not really something that grabs me.  
 **Translation:** 
 
-**[3919.74s] English:** Очень крутое объяснение было бы в модификации гравитации,  
+**[6417.12s] English:** This would be great, as well as focusing on solar energy.  
 **Translation:** 
 
-**[3922.74s] English:** а не в изобретении новой частицы.  
+**[6421.96s] English:** Ilya Sukskever seems to have said that the future of humanity  
 **Translation:** 
 
-**[3924.74s] English:** К сожалению, так не работает.  
-**Translation:** 
+**[6425.86s] English:** This is all of Earth covered in solar panels and data centers.  
+**Translation:** Vocabulary: panels: 太阳能板
 
-**[3926.74s] English:** Мы пробовали, я пробовал.  
+**[6432.74s] English:** Why waste Earth for solar panels? Install them in space.  
 **Translation:** 
 
-**[3928.74s] English:** Это моя третья успешная работа.  
+**[6436.46s] English:** Can be in space as well, I suppose.  
 **Translation:** 
 
-**[3931.74s] English:** Я пытался объединить  
+**[6437.80s] English:** Space is bigger than Earth.  
 **Translation:** 
 
-**[3933.74s] English:** темную материю и темную энергию.  
+**[6440.02s] English:** Yes, solar panels will be everywhere.  
 **Translation:** 
 
-**[3935.74s] English:** В этом и была идея.  
+**[6442.44s] English:** Yes.  
 **Translation:** 
 
-**[3937.74s] English:** Даже не идея, а стремление.  
+**[6443.58s] English:** I like this.  
 **Translation:** 
 
-**[3939.74s] English:** Я пытался, не получилось еще до того, как мы начали.  
+**[6444.60s] English:** We already have a solar thermonuclear reactor.  
 **Translation:** 
 
-**[3942.74s] English:** Я понял, что моя идея не помогла.  
-**Translation:** 
+**[6446.84s] English:** Yes.  
+**Translation:** Vocabulary: thermonuclear: 热核反应的
 
-**[3944.74s] English:** Возможно, она могла бы  
+**[6447.12s] English:** Yes, it is true.  
 **Translation:** 
 
-**[3947.74s] English:** объяснить темную энергию,  
-**Translation:** 
+**[6448.34s] English:** Probably, there are more effective ways to harness energy.  
+**Translation:** Vocabulary: harness: 利用
 
-**[3949.74s] English:** но не темную материю.  
+**[6453.20s] English:** Transmission down.  
 **Translation:** 
 
-**[3951.74s] English:** Так что я решил, что это не так уж интересно.  
-**Translation:** 
+**[6454.44s] English:** Here is the complexity.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[3953.74s] English:** А затем,  
+**[6455.60s] English:** But this is an engineering task.  
 **Translation:** 
 
-**[3954.74s] English:** два моих сотрудника сказали,  
+**[6457.74s] English:** Me interesting, where can we place the data centers if in this future.  
 **Translation:** 
 
-**[3956.74s] English:** «А такую идею предлагали?»  
+**[6464.66s] English:** If AI will be as effective as possible,  
 **Translation:** 
 
-**[3957.74s] English:** Независимо.  
-**Translation:** 
+**[6469.24s] English:** The scale of computations will continue to grow.  
+**Translation:** Vocabulary: computations: 计算
 
-**[3958.74s] English:** Независимо от меня, они пришли к точке.  
+**[6472.90s] English:** But, perhaps this is a race between efficiency and scaling.  
 **Translation:** 
 
-**[3960.00s] English:** такой же мысли. Тогда я решил, если три разных человека родили одну идею, может быть это  
+**[6476.72s] English:** There are limitations.  
 **Translation:** 
 
-**[3964.92s] English:** интересно. Так мы написали работу. Она получилась очень интересной, люди заинтересовались.  
+**[6477.82s] English:** There is a certain amount of damage that may...  
 **Translation:** 
 
-**[3969.72s] English:** Можешь немного описать эту статью? Очень интересно. Темной энергии и темной материи  
-**Translation:** 
+**[6480.00s] English:** It can harm the environment, and then it is unnecessarily so.  
+**Translation:** Vocabulary: unnecessarily: 多余地
 
-**[3975.62s] English:** так много, а мы до конца их не понимаем. Как ты начал исследовать их объединение?  
+**[6484.22s] English:** This is a new question.  
 **Translation:** 
 
-**[3981.32s] English:** Вот что мы знаем о темной материи и темной энергии. Они становятся важными в режимах,  
+**[6486.12s] English:** It is disappointing that we are making things more efficient all the time.  
 **Translation:** 
 
-**[3989.16s] English:** где гравитация очень-очень слабая. Это противоположно тому, чего стоило бы ожидать от  
+**[6491.14s] English:** We find new targets faster than we finish the old ones at home.  
 **Translation:** 
 
-**[3998.50s] English:** модификации гравитации. Существует эмпирическая закономерность квантовой теории поля, что новые  
-**Translation:** 
+**[6496.20s] English:** So, we continue to worsen the situation in various ways.  
+**Translation:** Vocabulary: worsen: 使恶化
 
-**[4005.00s] English:** эффекты проявляются, когда эффекты сильные. Мы понимаем слабые поля, но не понимаем сильные поля.  
+**[6499.54s] English:** Nu, such is the principle of humanity.  
 **Translation:** 
 
-**[4010.82s] English:** Но возможно тут все иначе. Что я подразумеваю под слабой гравитацией? Темная энергия проявляется  
-**Translation:** 
+**[6502.24s] English:** We are motivated to create technologies, but they could potentially cause much more harm.  
+**Translation:** Vocabulary: motivated: 受到驱使的
 
-**[4017.44s] English:** на поздних стадиях существования гравитации. Темная энергия проявляется на поздних стадиях  
+**[6507.88s] English:** Including weapons and AI that uses nuclear weapons as a weapon.  
 **Translation:** 
 
-**[4019.14s] English:** существования Вселенной. В ранней Вселенной темная энергия не имела значения. Но плотность темной  
+**[6513.36s] English:** I am surprised that we have not yet destroyed civilization,  
 **Translation:** 
 
-**[4025.00s] English:** энергии постоянно. Плотность материи и излучения уменьшаются. Раньше темная энергия не имела  
+**[6516.94s] English:** Considering the number of nuclear warheads in operation.  
 **Translation:** 
 
-**[4031.46s] English:** значения по сравнению с материей и излучением. На поздних стадиях она становится важной,  
-**Translation:** 
+**[6521.50s] English:** Here, I agree.  
+**Translation:** Vocabulary: warheads: 核弹头
 
-**[4036.38s] English:** когда Вселенная разрежена и гравитация относительно слаба. Теперь подумай о галактиках. Галактика  
+**[6522.48s] English:** It is amazing that we have not yet destroyed everything on Earth with nuclear and biological weapons.  
 **Translation:** 
 
-**[4042.98s] English:** более плотная в центре и менее плотная на периферии. Феноменологический факт о галактиках.  
+**[6529.30s] English:** We, of course, dropped two atomic bombs on Japan,  
 **Translation:** 
 
-**[4049.14s] English:** галактик, темная материя не нужна. Это неудивительно, потому что плотность звезд и газа  
+**[6531.90s] English:** But it could have been worse if compared to what might have happened.  
 **Translation:** 
 
-**[4055.08s] English:** там очень высока, и темная материя субдоминантна. Существует радиус, внутри которого не нужно,  
+**[6536.04s] English:** Or it might happen tomorrow.  
 **Translation:** 
 
-**[4062.96s] English:** чтобы темная материя соответствовала данным, но за его пределами она должна соответствовать.  
+**[6537.60s] English:** This is not true.  
 **Translation:** 
 
-**[4067.56s] English:** Опять же, это при слабой гравитации. Я задался вопросом. Мы знаем, что в теории поля новые  
+**[6537.88s] English:** In the topic of quantum fields.  
 **Translation:** 
 
-**[4076.08s] English:** эффекты должны проявляться, когда поля сильны, а не слабы.  
+**[6542.26s] English:** It seems that at the core of human hearts lies a field of kindness.  
 **Translation:** 
 
-**[4080.00s] English:** Это мы упустим.  
+**[6549.66s] English:** This is something about game theory.  
 **Translation:** 
 
-**[4081.94s] English:** Могу ли я выдвинуть теорию, в которой гравитация изменяется, когда она слаба?  
+**[6551.92s] English:** We create very powerful weapons capable of annihilating each other.  
 **Translation:** 
 
-**[4088.36s] English:** Мы уже говорили, что такое гравитация. Что это?  
-**Translation:** 
+**[6556.52s] English:** We are governed by greed, ego.  
+**Translation:** Vocabulary: annihilating: 互相毁灭; greed: 贪婪
 
-**[4090.88s] English:** Это искривление пространства времени.  
+**[6558.54s] English:** On the geopolitical arena, there are power-hungry dictators.  
 **Translation:** 
 
-**[4093.22s] English:** Существуют математические величины, измеряющие искривление пространства времени.  
-**Translation:** 
+**[6562.68s] English:** But how do we ensure we don't go too far?  
+**Translation:** Vocabulary: dictators: 独裁者; geopolitical: 地缘政治的
 
-**[4099.04s] English:** Обычно можно сказать, я понимаю, что уравнение Эйнштейна, которое я объясняю в книге,  
+**[6565.24s] English:** Yes, they say right before one goes too far.  
 **Translation:** 
 
-**[4105.18s] English:** связывает искривление пространства времени с материей энергии.  
+**[6568.02s] English:** Right before going too far.  
 **Translation:** 
 
-**[4108.48s] English:** Чем больше материи энергии, тем больше искривление.  
+**[6570.36s] English:** Therefore, we do not see aliens.  
 **Translation:** 
 
-**[4111.58s] English:** А если добавить новое условие, которое гласит, чем меньше материи энергии, тем больше искривление?  
-**Translation:** 
+**[6573.36s] English:** I already mentioned that you are associated with the Santa Fe Institute.  
+**Translation:** Vocabulary: aliens: 外星人
 
-**[4120.52s] English:** Нет причин это делать, кроме как для согласования с данными.  
+**[6576.92s] English:** I would very much like to discuss the ideas they are researching.  
 **Translation:** 
 
-**[4124.68s] English:** Я попытался объединить необходимость темной материи и темной энергии.  
-**Translation:** 
+**[6582.98s] English:** Of course.  
+**Translation:** Vocabulary: researching: 研究
 
-**[4128.48s] English:** Было бы круто, если бы было так.  
+**[6584.14s] English:** They are studying complexity.  
 **Translation:** 
 
-**[4130.36s] English:** Очень круто. Вообще офигенно.  
+**[6586.92s] English:** What do you think about complexity arising in simple things interacting in a simple way?  
 **Translation:** 
 
-**[4132.90s] English:** Это не сработало.  
+**[6592.68s] English:** This is an interesting topic.  
 **Translation:** 
 
-**[4136.34s] English:** Было бы интересно, если бы гравитация...  
+**[6594.28s] English:** I therefore think about it more than about my work lately.  
 **Translation:** 
 
-**[4138.48s] English:** Гравитация вела себя странно, если она низкая.  
+**[6597.88s] English:** Which we discussed together.  
 **Translation:** 
 
-**[4141.38s] English:** Как будто на периферии появляются помехи.  
+**[6599.74s] English:** All.  
 **Translation:** 
 
-**[4143.98s] English:** На это я и надеялся.  
+**[6600.00s] English:** All the work I have spoken about are guesses.  
 **Translation:** 
 
-**[4145.82s] English:** Да.  
+**[6604.20s] English:** What if the laws of physics are different? Such differences could reveal consequences.  
 **Translation:** 
 
-**[4147.78s] English:** Но круто, что в физике существуют уравнения.  
+**[6608.22s] English:** At some point, I wondered what the probability was that my guess was correct.  
 **Translation:** 
 
-**[4151.88s] English:** Можно подобрать слова, можно размахивать руками, но потом нужно написать уравнение. Это я и сделал.  
+**[6611.40s] English:** Einstein guessed right, Stephen Weinberg guessed right.  
 **Translation:** 
 
-**[4158.00s] English:** Я выяснил, что они могут помочь с темной энергией, ускорением Вселенной, но вовсе не решают вопрос с темной материей.  
+**[6614.12s] English:** But cases when guesses were correct are very few.  
 **Translation:** 
 
-**[4164.08s] English:** Да.  
-**Translation:** 
+**[6617.36s] English:** Then, as complexity arises from simplicity,  
+**Translation:** Vocabulary: arises: 产生; complexity: 复杂性; simplicity: 简单性
 
-**[4165.02s] English:** Удручает, что в масштабе галактик...  
+**[6620.88s] English:** We have not yet understood the main principles.  
 **Translation:** 
 
-**[4168.48s] English:** ...и солнечных систем, физика скучна.  
+**[6625.28s] English:** We are still in the pre-paradigmatic stage.  
 **Translation:** 
 
-**[4173.38s] English:** Именно, да. Я согласен.  
+**[6628.58s] English:** Impressive discoveries were made.  
 **Translation:** 
 
-**[4175.48s] English:** Поэтому я волосы на голове рву, когда не физики обвиняют физиков, как ты и говорил, в том, что они сошли с ума в погоне за темной материей и темной энергией.  
+**[6632.10s] English:** Such people as Jeffrey West and Santa Fe, and others,  
 **Translation:** 
 
-**[4189.08s] English:** Я не хочу темную материю и темную энергию. Я хочу что-то намного круче.  
+**[6634.82s] English:** Bringing us a true understanding of important systems.  
 **Translation:** 
 
-**[4193.38s] English:** Я пытался, но нужно прислушиваться к уравнениям и данным.  
+**[6638.36s] English:** But still, many of the basic principles have not yet been understood.  
 **Translation:** 
 
-**[4198.48s] English:** Ты упомянул три работы.  
+**[6641.22s] English:** I love finding basic principles, and I think it's quite possible.  
 **Translation:** 
 
-**[4200.00s] English:** Самую первую, первую классную статью и вторую классную статью.  
+**[6648.02s] English:** Let's be a bit more specific.  
 **Translation:** 
 
-**[4205.00s] English:** Ты, конечно, много работ написал, так что слишком строг к остальным, но...  
+**[6650.48s] English:** This is a sort of cliché, but the key is in the information.  
 **Translation:** 
 
-**[4210.00s] English:** Кстати говоря, тут речь не про крутость, а про влияние.  
-**Translation:** 
+**[6655.28s] English:** What we see in all of cosmic history as it transitions,  
+**Translation:** Vocabulary: cosmic: 宇宙的; transitions: 转变
 
-**[4213.00s] English:** Влияние?  
+**[6658.68s] English:** From simplicity to complexity,  
 **Translation:** 
 
-**[4214.00s] English:** Ага.  
+**[6662.12s] English:** Subsystems of the universe, searching for a way to use information,  
 **Translation:** 
 
-**[4215.00s] English:** Нет корреляции между крутостью и влиянием.  
+**[6667.36s] English:** To survive, thrive, or reproduce.  
 **Translation:** 
 
-**[4218.00s] English:** Некоторые из моих работ остались незамеченными, и наоборот.  
-**Translation:** 
+**[6670.46s] English:** This is a sort of fuel, lever, resource available to us,  
+**Translation:** Vocabulary: lever: 杠杆; reproduce: 繁殖; thrive: 繁荣
 
-**[4221.00s] English:** Если дерево падает в лесу...  
+**[6674.94s] English:** For a time, until warm death.  
 **Translation:** 
 
-**[4223.00s] English:** Первая статья называлась «Пределы нарушения Лоренц-инвариантности и паритетом модификации электромагнетизма или электродинамики».  
+**[6677.62s] English:** But it is this that makes it complex.  
 **Translation:** 
 
-**[4229.00s] English:** Мы выяснили, как нарушить Лоренц-инвариантность, симметрию, лежащую на основе теории относительности.  
+**[6680.42s] English:** What about the mechanism?  
 **Translation:** 
 
-**[4235.00s] English:** Важно, что мы нашли способ, который больше ничего не нарушал и был...  
+**[6682.16s] English:** You mentioned Jeffrey West.  
 **Translation:** 
 
-**[4240.00s] English:** экспериментально доказуем.  
+**[6683.98s] English:** Are there any hints?  
 **Translation:** 
 
-**[4242.00s] English:** Людям это понравилось.  
+**[6685.10s] English:** For example?  
 **Translation:** 
 
-**[4244.00s] English:** Вторая статья называлась «Квинтэссенция и остальной мир».  
+**[6685.14s] English:** What kinds of systems are you interested in from an informational perspective?  
 **Translation:** 
 
-**[4248.00s] English:** Квинтэссенция — это динамическое поле темной энергии.  
+**[6691.08s] English:** For me, as a lover of complexity,  
 **Translation:** 
 
-**[4251.00s] English:** Остальной мир, потому что я говорил о том, как квинтэссенция взаимодействует с другими частицами и полями, и как избежать...  
+**[6693.50s] English:** A simple observation of a cellular automaton.  
 **Translation:** 
 
-**[4258.00s] English:** нежелания.  
-**Translation:** 
+**[6696.18s] English:** This is an engaging example of complexity emergence.  
+**Translation:** Vocabulary: automaton: 自动机; cellular: 细胞状; emergence: 涌现
 
-**[4259.00s] English:** Нежелательных взаимодействий.  
+**[6702.64s] English:** For those listeners and viewers who don't know,  
 **Translation:** 
 
-**[4262.00s] English:** Третья статья называлась «Ускоренное космическое расширение изофизики и гравитации».  
-**Translation:** 
+**[6705.88s] English:** Cells automata arose from the conception of a very simple configuration,  
+**Translation:** Vocabulary: automata: 自动机; conception: 构想; configuration: 配置; listeners: 听众; viewers: 观众
 
-**[4268.00s] English:** Или что-то в этом духе.  
+**[6711.54s] English:** For example, a set of ones and zeros,  
 **Translation:** 
 
-**[4271.00s] English:** Замечаешь паттерн?  
+**[6713.62s] English:** Along the line,  
 **Translation:** 
 
-**[4273.00s] English:** Я беру то, что мы знаем, стандартную модель физики частиц, ОТО.  
+**[6715.38s] English:** Then you look at the dynamics over time.  
 **Translation:** 
 
-**[4277.00s] English:** Немного их подправляю и пытаюсь подогнать данные.  
+**[6719.72s] English:** Typically,  
 **Translation:** 
 
-**[4280.00s] English:** И пытаешься подтвердить это экспериментально.  
+**[6720.00s] English:** Rule: The simplest automata start with the idea that each block of three units and zeros has a rule by which they transition to either a state of one or zero.  
 **Translation:** 
 
-**[4283.00s] English:** В идеале, да, именно, да. Цель такая.  
-**Translation:** 
+**[6728.44s] English:** Here is the transcript with natural English punctuation and capitalization: Keep the various possibilities classified, such as a small number of cellular automata of this form.  
+**Translation:** Vocabulary: capitalization: 标点
 
-**[4286.00s] English:** Ты написал книгу «Нечто глубоко скрытое».  
+**[6735.40s] English:** Different people, including Stephen Wolfram, have discovered that some cellular automata have the following feature.  
 **Translation:** 
 
-**[4288.00s] English:** О загадках квантовой механики.  
-**Translation:** 
+**[6743.80s] English:** You begin with the simplest forms, for example, 0-0-0-1, 0-0-0-0, and allow them to develop, becoming incredibly complex.  
+**Translation:** Vocabulary: wolfram: 沃夫勒姆
 
-**[4290.00s] English:** И скоро выйдет новая книга.  
+**[6752.58s] English:** This is very provocative and very interesting.  
 **Translation:** 
 
-**[4293.00s] English:** «Величайшие идеи во Вселенной».  
-**Translation:** 
+**[6754.96s] English:** But physics doesn't work that way.  
+**Translation:** Vocabulary: provocative: 激昂的
 
-**[4295.00s] English:** Часть серии называется «Кванты и поля».  
+**[6758.30s] English:** As we discussed, physics preserves information.  
 **Translation:** 
 
-**[4298.00s] English:** И рассказывает о квантовой механике.  
-**Translation:** 
+**[6762.94s] English:** Can you move forward or backward.  
+**Translation:** Vocabulary: backward: 向后; preserves: 保存
 
-**[4301.00s] English:** Сначала большой вопрос.  
+**[6764.74s] English:** Cellular automata are not like that.  
 **Translation:** 
 
-**[4303.00s] English:** «Величайшие идеи во Вселенной».  
-**Translation:** 
+**[6766.70s] English:** They are irreversible.  
+**Translation:** Vocabulary: irreversible: 不可逆的
 
-**[4305.00s] English:** Что для тебя самое красивое?  
+**[6768.82s] English:** You insert the time arrow, you have the starting point, and then the development follows.  
 **Translation:** 
 
-**[4308.00s] English:** Или, возможно, самое загадочное в квантовой механике?  
-**Translation:** 
+**[6773.80s] English:** Therefore, I am interested in where the complexity arises in the real world with respect to physical laws and reversibility.  
+**Translation:** Vocabulary: arises: 产生
 
-**[4312.00s] English:** С квантовой механикой посложнее.  
+**[6779.72s] English:** But due to macroscopic irreversibility, entropy and the arrow of time.  
 **Translation:** 
 
-**[4314.00s] English:** Я написал учебник по ОТО и начал его со слов...  
-**Translation:** 
+**[6787.10s] English:** I think this question can be answered, but cellular automata won't help with that.  
+**Translation:** Vocabulary: automata: 自动机; cellular: 细胞的; entropy: 熵; irreversibility: 不可逆性; macroscopic: 宏观的
 
-**[4317.00s] English:** Общая теория относительности.  
+**[6791.48s] English:** What in...  
 **Translation:** 
 
-**[4319.00s] English:** Самое красивое.  
+**[6794.26s] English:** How does the landscape of entropy look in the universe?  
 **Translation:** 
 
-**[4320.00s] English:** физическая теория. Я в этом убежден. Она менее фундаментальна, чем квантовая механика. Но  
+**[6798.70s] English:** Nu, entropy is hard to localize.  
 **Translation:** 
 
-**[4326.48s] English:** квантовая механика намного более загадочна. Сейчас она немного несуразна. Подумать только,  
+**[6801.22s] English:** This is a property of the system, not its parts.  
 **Translation:** 
 
-**[4332.76s] English:** как мы преподаем квантовую механику студентам в Копенгагенской интерпретации — это просто  
+**[6803.80s] English:** Meanwhile, we can give an approximate answer.  
 **Translation:** 
 
-**[4338.66s] English:** бардак. В красоте ее не заподозришь. Я сторонник многомировой интерпретации  
-**Translation:** 
+**[6809.60s] English:** Black holes possess enormous entropy.  
+**Translation:** Vocabulary: approximate: 估算的
 
-**[4345.26s] English:** квантовой механики, и она очень красива в том, что требует меньше ингредиентов,  
+**[6812.68s] English:** Let's say it this way.  
 **Translation:** 
 
-**[4350.32s] English:** только одно уравнение, и может объяснить все на свете. Это зависит от того, что ты подразумеваешь  
-**Translation:** 
+**[6815.10s] English:** The entire observed system possessed a certain amount of entropy before that,  
+**Translation:** Vocabulary: possessed: 拥有
 
-**[4357.62s] English:** под красотой. Полагаю, ответ в том, что квантовая механика может начинаться с чрезвычайно простых,  
+**[6821.02s] English:** How did stars, planets, and black holes begin to form?  
 **Translation:** 
 
-**[4364.98s] English:** небольших ингредиентов и захватить весь мир. Это поражает воображение. Она более исчерпывающая.  
+**[6825.60s] English:** 10 to the 88th power, I even cannot name the number.  
 **Translation:** 
 
-**[4373.70s] English:** У того касается тяготение. Это  
+**[6829.20s] English:** A black hole at the center of our galaxy has an entropy of 10 to the 90th power.  
 **Translation:** 
 
-**[4375.24s] English:** прекрасно. Квантовая механика касается всего. И, похоже, справляется с задачей. Не знаю,  
-**Translation:** 
+**[6833.80s] English:** One black hole at the center of our galaxy possesses greater entropy,  
+**Translation:** Vocabulary: galaxy: 银河系; possesses: 拥有
 
-**[4381.00s] English:** красота это или нет, но определенно впечатляет. Из-за теории, из-за предсказательной силы,  
+**[6838.06s] English:** What was in the universe just a moment ago.  
 **Translation:** 
 
-**[4386.22s] English:** из-за того, что теория описывает крошечные вещи, создающие все, что мы видим вокруг.  
+**[6840.00s] English:** Today, a large part of the entropy in the universe is in the form of black holes.  
 **Translation:** 
 
-**[4390.96s] English:** Эта манистическая теория. В классической механике вот здесь частица, вон там частица. Я описываю их  
+**[6843.96s] English:** First, it is astonishing. Second, if we remove black holes,  
 **Translation:** 
 
-**[4398.60s] English:** отдельно. Я могу сказать, что делает эта частица и что делает та. В квантовой механике есть запутанность.  
-**Translation:** 
+**[6849.90s] English:** What follow in space are the entropy disturbances? Where do we, humans, fit into all of this?  
+**Translation:** Vocabulary: astonishing: 令人惊讶; disturbances: 干扰
 
-**[4404.70s] English:** Это  
+**[6857.40s] English:** Here's what's interesting. If you start with an isolated system separate from the rest of the universe,  
 **Translation:** 
 
-**[4405.20s] English:** Это предсказал Эйнштейн в 35-м.  
-**Translation:** 
+**[6865.38s] English:** With low entropy, there is almost a theorem that states if entropy is very, very low,  
+**Translation:** Vocabulary: isolated: 孤立的; theorem: 定理
 
-**[4407.78s] English:** Это значит, что для двух этих частиц существует одно состояние.  
+**[6873.42s] English:** The system looks rather simple because low entropy means,  
 **Translation:** 
 
-**[4413.22s] English:** Нет отдельного состояния для одной частицы и отдельного для другого.  
-**Translation:** 
+**[6878.18s] English:** There are a few ways to rearrange the parts so they look like this. And if there are only a few ways,  
+**Translation:** Vocabulary: entropy: 混乱程度; rearrange: 重新排列
 
-**[4416.22s] English:** И действительно, существует одно состояние для всей Вселенной.  
+**[6884.00s] English:** The answer is simple. But there is another theorem, which states that if entropy is maximal,  
 **Translation:** 
 
-**[4419.86s] English:** Его можно назвать волновой функцией Вселенной.  
-**Translation:** 
+**[6889.56s] English:** System will look simple because everything is spread out. If it had an interesting structure,  
+**Translation:** Vocabulary: maximal: 最大的
 
-**[4422.42s] English:** И оно подчиняется одному уравнению.  
+**[6894.72s] English:** She would be lubricated. But if she had an interesting structure, she would be lubricated.  
 **Translation:** 
 
-**[4425.64s] English:** Наша задача разделить его, высечь, понять,  
-**Translation:** 
+**[6895.36s] English:** Complex. Entropy in this isolated system is only increasing. This is the second law of thermodynamics.  
+**Translation:** Vocabulary: lubricated: 润滑; thermodynamics: 热力学
 
-**[4428.98s] English:** как из этого сделать столы, стулья и прочего.  
+**[6902.14s] English:** But the complexity starts low, then increases, and then decreases again. Sometimes people think,  
 **Translation:** 
 
-**[4432.44s] English:** Ты упомянул многомировую интерпретацию, и это действительно красиво, но...  
-**Translation:** 
+**[6909.86s] English:** What complexity or life fights against is the second law of thermodynamics, which deals with the increase in entropy.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[4440.00s] English:** Это одна из самых спорных вещей, в которую ты веришь.  
+**[6918.98s] English:** This is completely incorrect. We, the surfers riding the wave of increasing entropy, rely on  
 **Translation:** 
 
-**[4443.38s] English:** Тебя, скорее всего, за это критиковали.  
-**Translation:** 
+**[6928.10s] English:** For survival, we increase entropy. This makes us unique. The table mechanically preserves.  
+**Translation:** Vocabulary: mechanically: 机械地; preserves: 保存
 
-**[4445.44s] English:** Я взрослый мальчик, и я справлюсь.  
+**[6935.92s] English:** Stability. His molecules interact with each other and he holds together. We are not like that.  
 **Translation:** 
 
-**[4447.30s] English:** Можешь сначала объяснить суть, а потом, возможно, рассказать о критике?  
-**Translation:** 
+**[6944.28s] English:** We dynamically maintain stability by absorbing it.  
+**Translation:** Vocabulary: absorbing: 吸收; dynamically: 动态地
 
-**[4451.92s] English:** Конечно.  
+**[6948.98s] English:** Fuel, food, water, air, and so on. We burn them, increasing entropy.  
 **Translation:** 
 
-**[4452.78s] English:** Классический эксперимент для объяснения квантовой механики  
-**Translation:** 
+**[6956.02s] English:** We are nonequilibrium, quasistationary systems.  
+**Translation:** Vocabulary: nonequilibrium: 非平衡; quasistationary: 准稳态
 
-**[4457.56s] English:** называется опыт Штерна Герлаха.  
+**[6960.00s] English:** To maintain stability, we use fuel in the form of low-entropy energy that the universe provides us with.  
 **Translation:** 
 
-**[4460.24s] English:** Вы измеряете спин частицы.  
+**[6965.90s] English:** I'm interested in how this surfing mechanism looks.  
 **Translation:** 
 
-**[4464.12s] English:** В квантовой механике спин — это просто спин.  
+**[6970.24s] English:** Firstly, the question is: Is it possible to have such a level of complexity where there are very specific or clearly defined pathways for measuring complexity?  
 **Translation:** 
 
-**[4467.74s] English:** Это скорость, с которой что-то вращается в очень приземленном смысле.  
-**Translation:** 
+**[6985.50s] English:** I think it's possible, but not for us.  
+**Translation:** Vocabulary: firstly: 首先; pathways: 途径
 
-**[4471.84s] English:** Разница в том, что он квантуется.  
+**[6988.00s] English:** I think it's possible, but we don't have it yet.  
 **Translation:** 
 
-**[4474.52s] English:** Одиночный электрон или одиночный нейтрон  
-**Translation:** 
+**[6990.56s] English:** Partly because complexity is a multifaceted concept.  
+**Translation:** Vocabulary: complexity: 复杂性; multifaceted: 多面的
 
-**[4476.56s] English:** либо вращается по часовой стрелке, либо против часовой.  
+**[6993.94s] English:** Under the heading "complexity," various ideas are presented.  
 **Translation:** 
 
-**[4481.50s] English:** Скажем так, это единственное измерение, которое можно получить.  
-**Translation:** 
+**[6998.30s] English:** One of the versions is "Kolmogorov complexity.  
+**Translation:** Vocabulary: kolmogorov: 柯尔莫哥洛夫复杂度
 
-**[4486.18s] English:** Он не вращается быстрее или медленнее,  
+**[7001.74s] English:** If you have a configuration or a string of numbers, can we compress it into a small program that will output it?  
 **Translation:** 
 
-**[4488.16s] English:** а либо в одном направлении, либо в другом.  
-**Translation:** 
+**[7010.40s] English:** This is "Kolmogorov Complexity".  
+**Translation:** Vocabulary: compress: 压缩; configuration: 配置
 
-**[4490.28s] English:** Вот и все. Два результата.  
+**[7012.02s] English:** But this is the complexity of a string of numbers.  
 **Translation:** 
 
-**[4492.44s] English:** Согласно законам квантовой механики, электрон может быть в состоянии,  
+**[7015.68s] English:** This is not a complexity of the task.  
 **Translation:** 
 
-**[4497.52s] English:** где он не вращается.  
+**[7018.92s] English:** Computational Complexity.  
 **Translation:** 
 
-**[4497.74s] English:** Он не просто вращается по часовой или против часовой стрелки,  
-**Translation:** 
+**[7020.00s] English:** The task for Kom'yev and Zhora, or factoring large numbers.  
+**Translation:** Vocabulary: computational: 计算的; factoring: 因式分解
 
-**[4501.60s] English:** а находится в суперпозиции обоих состояний.  
+**[7023.64s] English:** This is a completely different complexity question.  
 **Translation:** 
 
-**[4505.00s] English:** И это не потому, что мы не знаем ответ,  
-**Translation:** 
+**[7027.16s] English:** Here, there is no common denominator.  
+**Translation:** Vocabulary: denominator: 分母
 
-**[4506.62s] English:** а потому что он действительно находится в обоих состояниях, пока мы его не измерим.  
+**[7029.96s] English:** Do you think it's possible to get the complexity of a physical system?  
 **Translation:** 
 
-**[4510.90s] English:** А когда мы его измеряем, мы видим одно или другое.  
+**[7033.64s] English:** Yes, absolutely.  
 **Translation:** 
 
-**[4513.76s] English:** Фундаментальная загадка квантовой механики состоит в том,  
+**[7034.48s] English:** As with entropy.  
 **Translation:** 
 
-**[4516.46s] English:** как описать систему, которая отличается, если мы за ней наблюдаем.  
-**Translation:** 
+**[7035.98s] English:** Yes.  
+**Translation:** Vocabulary: entropy: 混乱度
 
-**[4520.98s] English:** Мы учим студентов копенгагенской интерпретации,  
+**[7037.30s] English:** A new topic for Sean Carroll's article.  
 **Translation:** 
 
-**[4523.36s] English:** что измерение спина электрона вызывает радикальности,  
+**[7040.10s] English:** We work on different topics.  
 **Translation:** 
 
-**[4527.74s] English:** а вращение электрона вызывает радикальное изменение его физического состояния.  
+**[7042.80s] English:** Currently, we are examining a simple thing with one of the students — the genesis of complexity.  
 **Translation:** 
 
-**[4532.12s] English:** Он спонтанно коллапсирует из состояния суперпозиции  
+**[7048.00s] English:** How does complexity arise?  
 **Translation:** 
 
-**[4535.64s] English:** вращения по часовой и против часовой стрелки в одно из этих состояний.  
+**[7050.00s] English:** If the universe simply moves from low entropy to high?  
 **Translation:** 
 
-**[4540.56s] English:** Ты можешь определять вероятность этого события, но это все, что ты можешь сделать.  
-**Translation:** 
+**[7053.08s] English:** Classname.  
+**Translation:** Vocabulary: classname: 类名
 
-**[4544.92s] English:** И я не могу точно сказать, когда это происходит,  
+**[7054.38s] English:** Yes. I like the title.  
 **Translation:** 
 
-**[4547.82s] English:** чем это вызвано и почему происходит.  
+**[7055.98s] English:** There is still the work to be written.  
 **Translation:** 
 
-**[4549.90s] English:** Это называется проблема измерения в квантовой механике.  
+**[7058.38s] English:** Though you call her a rose, or not.  
 **Translation:** 
 
-**[4554.68s] English:** Многомировая интерпретация это  
+**[7061.02s] English:** In what context are you interested in the appearance of complexity?  
 **Translation:** 
 
-**[4557.52s] English:** Смотрите, минуту назад я вам сказал,  
+**[7069.82s] English:** This happens step by step.  
 **Translation:** 
 
-**[4560.00s] English:** что существует единая для Вселенной волновая функция.  
-**Translation:** 
+**[7072.00s] English:** If starting from "I am a physicist,  
+**Translation:** Vocabulary: physicist: 物理学家
 
-**[4563.16s] English:** Это значит, что нельзя  
+**[7076.76s] English:** Biologists, studying evolution, say that complexity increases.  
 **Translation:** 
 
-**[4564.42s] English:** слишком серьезно относиться к описанию одного лишь электрона,  
-**Translation:** 
+**[7080.00s] English:** Complexity of the genome, complexity of our physiology. But they take for granted that life already  
+**Translation:** Vocabulary: biologists: 生物学家; complexity: 复杂性; genome: 基因组; physiology: 生理学
 
-**[4568.26s] English:** нужно включать все остальное во Вселенной.  
+**[7088.64s] English:** Existed, and entropy increases. I want to return to the roots. The universe at early stages  
 **Translation:** 
 
-**[4570.58s] English:** В частности, для измерения необходимо взаимодействовать с электроном.  
+**[7095.90s] English:** It was simple, with low entropy. Entropy increases over time, and the universe changes.  
 **Translation:** 
 
-**[4575.40s] English:** Все, что взаимодействует с электроном,  
+**[7100.64s] English:** And it becomes more complex. But this indisputable statement has different meanings because  
 **Translation:** 
 
-**[4577.16s] English:** должно быть включено в волновую функцию,  
-**Translation:** 
+**[7107.42s] English:** Complexity has different meanings. The most basic, original version of complexity can be called  
+**Translation:** Vocabulary: indisputable: 无可争议的
 
-**[4578.98s] English:** которую ты описываешь.  
+**[7114.38s] English:** Configuration complexity. As Almagurovian complexity. How much information is required.  
 **Translation:** 
 
-**[4581.64s] English:** Может, это и ты сам,  
-**Translation:** 
+**[7121.58s] English:** To determine the system configuration. There is another step where the subsystems of the universe begin.  
+**Translation:** Vocabulary: configuration: 系统设置
 
-**[4583.00s] English:** может, твои глаза способны это воспринять.  
+**[7129.50s] English:** Burning fuel. In many ways, the planet and star do not differ much in configuration or complexity.  
 **Translation:** 
 
-**[4585.46s] English:** Тогда тебе надо включить волновую функцию.  
+**[7137.00s] English:** Is it?  
 **Translation:** 
 
-**[4587.86s] English:** И если так,  
+**[7137.42s] English:** Both spheres have high density at the center and lower density at the periphery. But there is a fundamental  
 **Translation:** 
 
-**[4590.40s] English:** у тебя очень продвинутые слушатели,  
-**Translation:** 
+**[7143.72s] English:** Difference. A star exists as long as it has fuel. Then it transforms into a brown or white dwarf.  
+**Translation:** Vocabulary: density: 密度; periphery: 边缘; spheres: 球体; transforms: 转变
 
-**[4592.82s] English:** так что я буду осторожнее, чем обычно.  
+**[7149.30s] English:** A dwarf star on the main sequence is an uneven system, but more or  
 **Translation:** 
 
-**[4596.20s] English:** Что значит измерять спин электрона?  
-**Translation:** 
+**[7156.44s] English:** Less static. If I drop a coffee cup, during its fall it is not only unbalanced,  
+**Translation:** Vocabulary: unbalanced: 不平衡; uneven: 不均匀
 
-**[4599.62s] English:** Не нужно вдаваться в детали,  
+**[7162.32s] English:** She constantly changes. A specific system looks  
 **Translation:** 
 
-**[4601.14s] English:** но следующее должно быть верно.  
-**Translation:** 
+**[7167.00s] English:** As macroscopically static as a star, but underneath it burns fuel疯狂地.  
+**Translation:** Vocabulary: macroscopically: 从宏观上看; underneath: 在...下面
 
-**[4603.66s] English:** Если электрон находится в состоянии,  
+**[7175.06s] English:** To maintain stability, as stars form, another type of complexity arises.  
 **Translation:** 
 
-**[4605.78s] English:** где на 100% вращается по часовой стрелке,  
-**Translation:** 
+**[7183.26s] English:** There is another type of complexity, roughly speaking, the emergence of life. Here, subsystems  
+**Translation:** Vocabulary: arises: 出现; complexity: 复杂性; emergence: 出现
 
-**[4609.72s] English:** нужно, чтобы измерение  
+**[7189.86s] English:** In the universe, they begin to collect and use information.  
 **Translation:** 
 
-**[4611.18s] English:** показало вращение по часовой,  
+**[7194.26s] English:** And this is a very important factor, Cocco.  
 **Translation:** 
 
-**[4613.42s] English:** чтобы мозг подтвердил,  
+**[7196.84s] English:** What does this mean? To enable a business to live without its gradual investment?  
 **Translation:** 
 
-**[4615.06s] English:** да, электрон вращается по часовой.  
-**Translation:** 
+**[7196.96s] English:** What does this mean? To be able to live without its gradual increase? What does this mean?  
+**Translation:** Vocabulary: gradual: 逐步的
 
-**[4616.86s] English:** Точно так же, если он вращается на 100% против часовой стрелки,  
+**[7197.00s] English:** And, possibly, after this, there are still many stages.  
 **Translation:** 
 
-**[4620.74s] English:** мы хотим именно это увидеть и измерить.  
-**Translation:** 
+**[7200.00s] English:** One of the most obvious things to me is that we talked about the simulation theory, and in our heads, simulations are working, but they're not very good ones. We hypothetically represent the future.  
+**Translation:** Vocabulary: hypothetically: 假设地; simulations: 模拟
 
-**[4623.26s] English:** Законы квантовой механики и уравнения Шрёдингера  
+**[7212.28s] English:** Bacteria don't do that.  
 **Translation:** 
 
-**[4625.98s] English:** безапелляционно указывают,  
+**[7213.80s] English:** This is a form of information processing and complexity.  
 **Translation:** 
 
-**[4627.66s] English:** что если вы хотите измерить спин электрона по часовой стрелке,  
+**[7216.86s] English:** I would like to understand all these stages and how they are connected to each other.  
 **Translation:** 
 
-**[4630.98s] English:** когда он вращается по часовой,  
+**[7220.36s] English:** Agreed, imagination.  
 **Translation:** 
 
-**[4632.36s] English:** и против часовой стрелки, когда он вращается против часовой,  
+**[7221.80s] English:** Yes, mental travel through time.  
 **Translation:** 
 
-**[4635.28s] English:** то когда он находится в суперпозиции,  
-**Translation:** 
+**[7223.60s] English:** Yes, when I represent worlds in my head, they appear as compressed images, but they reach their essence.  
+**Translation:** Vocabulary: compressed: 压缩的
 
-**[4639.88s] English:** вы с электроном  
+**[7233.60s] English:** May we be able to create such simulations in compressed form using artificial computational devices?  
 **Translation:** 
 
-**[4642.94s] English:** запутываетесь друг с другом.  
-**Translation:** 
+**[7241.16s] English:** One can say that what distinguishes humans from other Earthly species is their ability to imagine a hypothetical future contradicting facts.  
+**Translation:** Vocabulary: computational: 计算的; contradicting: 矛盾; distinguishes: 区分; hypothetical: 假设的
 
-**[4646.24s] English:** Это значит, что состояние Вселенной с одной стороны переходит в  
+**[7253.60s] English:** Yes, this is one of the main features.  
 **Translation:** 
 
-**[4649.90s] English:** «электрон вращался по часовой, я видел вращение по часовой»,  
+**[7258.86s] English:** I don't know.  
 **Translation:** 
 
-**[4654.66s] English:** а с другой, где он вращался в суперпозиции,  
+**[7259.46s] English:** Each has a favorite feature, so these are all open to interpretation.  
 **Translation:** 
 
-**[4657.66s] English:** «электрон вращался против часовой, и я видел вращение против часовой».  
-**Translation:** 
+**[7263.04s] English:** We discussed this with Adam Ball on the podcast.  
+**Translation:** Vocabulary: interpretation: 解释
 
-**[4662.08s] English:** Все согласны с этим, совершенно бесспорно,  
+**[7266.50s] English:** All developed slowly.  
 **Translation:** 
 
-**[4665.18s] English:** и простым следствием уравнения Шрёдингера.  
+**[7267.66s] English:** I had another podcast, forgive me for mentioning my podcasts all the time.  
 **Translation:** 
 
-**[4669.22s] English:** Нильс Бор сказал бы,  
+**[7270.52s] English:** But Malcolm McCaiver, an engineer from Northwestern University, has a theory that one of the main stages of evolution when fish first emerged onto land is key.  
 **Translation:** 
 
-**[4671.24s] English:** «А потом часть этой волновой функции исчезает,  
-**Translation:** 
+**[7280.40s] English:** Certainly, this is an important stage, but especially because of the cognitive shift.  
+**Translation:** Vocabulary: cognitive: 认知
 
-**[4673.64s] English:** и мы остаемся на одной стороне».  
+**[7283.60s] English:** Cognitive shift.  
 **Translation:** 
 
-**[4675.84s] English:** Нельзя предсказать, какая это будет сторона, только вероятность.  
-**Translation:** 
+**[7285.24s] English:** Because the wavelength of light is shorter underwater.  
+**Translation:** Vocabulary: wavelength: 光波长度
 
-**[4679.08s] English:** Хью Эверетт, аспект.  
+**[7293.32s] English:** Fish cannot see for kilometers in front of them, only for meters.  
 **Translation:** 
 
-**[4680.00s] English:** Иран в 50-х размышлял об этом и сказал, у меня есть идея получше.  
+**[7296.84s] English:** You move with a speed of meters per second.  
 **Translation:** 
 
-**[4684.72s] English:** Часть волновой функции не исчезает, она остается.  
+**[7299.06s] English:** So all evolutionary optimization implies that you need to make all decisions in less than a second.  
 **Translation:** 
 
-**[4688.56s] English:** Идея Эверетта о том, что волновая функция сохраняется и просто подчиняется уравнению Шрёдингера,  
-**Translation:** 
+**[7306.34s] English:** If you see something new, you need to quickly make a decision on what to do.  
+**Translation:** Vocabulary: evolutionary: 进化; implies: 意味着; optimization: 优化
 
-**[4695.30s] English:** не появилась раньше, потому что наивно кажется,  
+**[7310.86s] English:** As soon as you step onto the shore,  
 **Translation:** 
 
-**[4702.20s] English:** это предсказывает, будто я буду находиться в суперпозиции.  
-**Translation:** 
+**[7312.98s] English:** Vision contradicts.  
+**Translation:** Vocabulary: contradicts: 违背
 
-**[4705.86s] English:** Я буду в суперпозиции наблюдения электрона, вращающегося по часовой и против часовой стрелки.  
+**[7313.60s] English:** This is practically infinite.  
 **Translation:** 
 
-**[4713.94s] English:** Ни один эксперимент никогда не ощущал себя в суперпозиции.  
-**Translation:** 
+**[7314.98s] English:** We can see stars in the sky.  
+**Translation:** Vocabulary: infinite: 无尽的
 
-**[4717.38s] English:** Мы всегда видим результат.  
+**[7317.78s] English:** When you see what is far away, it opens up to you....  
 **Translation:** 
 
-**[4721.28s] English:** Ход Эверетта был гениален.  
+**[7320.00s] English:** Completely new mode of thinking. Instead of seeing something and immediately making a decision,  
 **Translation:** 
 
-**[4724.24s] English:** Проблема не в уравнении Шрёдингера.  
+**[7326.76s] English:** Can we ponder what if I act this way, and what if I do something different, and what if I try something new?  
 **Translation:** 
 
-**[4727.16s] English:** Проблема в том, что мы неправильно определяли себя в этом уравнении.  
-**Translation:** 
+**[7333.38s] English:** So in the end, imagination was born. Do you criticize panpsychism?  
+**Translation:** Vocabulary: ponder: 思考
 
-**[4731.36s] English:** Мы говорили, смотрите, есть человек, который увидел вращение против часовой,  
+**[7338.72s] English:** Yes. Have you noticed? Yes. Can you bring arguments for and against panpsychism?  
 **Translation:** 
 
-**[4735.86s] English:** и человек, который увидел вращение по часовой.  
-**Translation:** 
+**[7345.56s] English:** Panpsychism is the view that consciousness permeates all matter. Possibly,  
+**Translation:** Vocabulary: consciousness: 觉醒; panpsychism: 普遍精神论; permeates: 渗透
 
-**[4738.48s] English:** Я должен быть в суперпозиции обоих.  
+**[7351.92s] English:** This is a fundamental force or physics of the fabric of the universe.  
 **Translation:** 
 
-**[4741.62s] English:** А Эверетт говорит, нет, нет, это не так.  
-**Translation:** 
+**[7358.42s] English:** Panpsychism. Thought everywhere, consciousness everywhere. It's even amusing how much it irritates you.  
+**Translation:** Vocabulary: fabric: 宇宙的结构; irritates: 使烦恼
 
-**[4743.62s] English:** Потому что как только появляется та часть волновой функции,  
+**[7365.94s] English:** This is a performance. As your admirer, it interests me to watch. You have been successful.  
 **Translation:** 
 
-**[4748.68s] English:** где спин был по часовой,  
-**Translation:** 
+**[7373.32s] English:** Outstanding podcast episodes with seniors. UMD Animal — this works.  
+**Translation:** Vocabulary: admirer: 仰慕者
 
-**[4750.68s] English:** она совершенно не зависит от той части волновой функции,  
+**[7375.14s] English:** That didn't allow them to decrease, thereby depressing them. It turns out that poverty affected Bonnie.  
 **Translation:** 
 
-**[4753.68s] English:** где спин против часовой.  
-**Translation:** 
+**[7375.32s] English:** Model transferred the strong forces composing the tank. They held back the children, Hurdy Gurdy script.  
+**Translation:** Vocabulary: composing: 组成; gurdy: 古德里奇
 
-**[4757.26s] English:** Они разделены друг от друга, они не взаимодействуют,  
+**[7375.38s] English:** And dynamically vaccinated the listeners. Patriotiness.img Angels.ru.  
 **Translation:** 
 
-**[4761.56s] English:** они не влияют друг на друга, то, что происходит в одной части, не влияет на другую.  
+**[7375.56s] English:** Panpsychism, and you didn't hesitate. I had David Chalmers, one of the greatest.  
 **Translation:** 
 
-**[4764.94s] English:** Эверетт говорит, что это не так.  
+**[7381.08s] English:** Philosophers. He is interested in panpsychism. He doesn't assert anything, but is definitely open to the idea.  
 **Translation:** 
 
-**[4765.86s] English:** Эверетт говорит, простое решение, определять себя либо тем, кто увидел спин по часовой,  
-**Translation:** 
+**[7387.36s] English:** Play with this idea. I had Philipp Gallagher, a wonderful person, but a panpsychist.  
+**Translation:** Vocabulary: assert: 断言; panpsychist: 泛心论者; philosophers: 哲学家
 
-**[4771.60s] English:** либо тем, кто увидел спин против часовой.  
+**[7393.80s] English:** Moreover, he virtually single-handedly revived interest in panpsychism in society.  
 **Translation:** 
 
-**[4776.52s] English:** После проведения эксперимента, есть два человека.  
-**Translation:** 
+**[7399.98s] English:** An argument for the benefit of such a presentation is that there is something fundamentally intangible in  
+**Translation:** Vocabulary: fundamentally: 本质上; intangible: 无形; revived: 复兴; virtually: 实际上
 
-**[4780.16s] English:** Уравнение Шрёдингера трогать не надо.  
+**[7407.48s] English:** Virtually every aspect of consciousness is perceived through the physical behavior of atoms and molecules. A proponent of panpsychism argues,  
 **Translation:** 
 
-**[4782.52s] English:** Нужно только верно определить свое место волновой функции.  
-**Translation:** 
+**[7416.00s] English:** May be someday, thanks to achievements in neuroscience, you will definitely say what is happening.  
+**Translation:** Vocabulary: neuroscience: 神经科学; perceived: 感知; proponent: 支持者
 
-**[4785.98s] English:** Это многомировая интерпретация.  
+**[7423.06s] English:** In the brain, and how it is transformed into thoughts, speech, and action. But you do not understand,  
 **Translation:** 
 
-**[4787.62s] English:** Сколько существует миров?  
+**[7429.96s] English:** Tell me what it's like to be me.  
 **Translation:** 
 
-**[4790.32s] English:** Очень много.  
+**[7434.10s] English:** Cannot say what I am experiencing,  
 **Translation:** 
 
-**[4791.24s] English:** Очень, очень, очень много.  
+**[7437.40s] English:** When I see something red or transparent.  
 **Translation:** 
 
-**[4794.10s] English:** Куда поместились эти миров?  
+**[7440.00s] English:** Something sweet, you'll explain which neurons are activated but won't tell me what I'm experiencing.  
 **Translation:** 
 
-**[4794.94s] English:** Где они?  
-**Translation:** 
+**[7445.82s] English:** This internal subjective experience from the first-person perspective, the physicist cannot perceive; this is, of course, old.  
+**Translation:** Vocabulary: cannot: 不能; neurons: 神经元; perceive: 感知; physicist: 物理学家
 
-**[4795.94s] English:** Если коротко...  
+**[7455.60s] English:** Argumentation, but then the conclusion: to explain this, I need something that there is no physics for.  
 **Translation:** 
 
-**[4800.00s] English:** Миры не существуют в пространстве.  
+**[7465.28s] English:** What I'll just call reason, we don't know what it is, so let's call it reason, and it should be  
 **Translation:** 
 
-**[4805.66s] English:** Пространство существует в каждом мире отдельно.  
+**[7470.84s] English:** Separated from physics, and here there are two paths. If you believe in all of this, you can say I will be a dualist.  
 **Translation:** 
 
-**[4810.30s] English:** Технический ответ на твой вопрос с Гильбертова пространство.  
-**Translation:** 
+**[7478.42s] English:** I will believe that there is matter, rational beings, they are separated from each other and interact in some way.  
+**Translation:** Vocabulary: dualist: 二元论者
 
-**[4813.68s] English:** Пространство всех возможных квантовых состояний.  
+**[7483.48s] English:** Or this is a bit complicated and questionable from a physics standpoint, so I'll believe in reason but will set  
 **Translation:** 
 
-**[4816.88s] English:** Интуитивно мы хотим где-то физически разместить эти миры, но это неверно.  
-**Translation:** 
+**[7490.36s] English:** I will keep believing that matter is primary and something else.  
+**Translation:** Vocabulary: standpoint: 观点
 
-**[4823.94s] English:** Не существует такого понятия, как физическое расположение миров.  
+**[7495.28s] English:** Consciousness is a fundamental aspect of reality, and all  
 **Translation:** 
 
-**[4827.30s] English:** Пространство существует внутри миров.  
-**Translation:** 
+**[7498.18s] English:** The rest, including matter and physics, happens from  
+**Translation:** Vocabulary: consciousness: 觉醒
 
-**[4829.06s] English:** Одно из свойств этой интерпретации в том, что перемещаться из одного мира в другой нельзя.  
+**[7501.50s] English:** He said nothing.  
 **Translation:** 
 
-**[4834.84s] English:** Верно.  
+**[7502.66s] English:** This is just as simple as if physics were primary.  
 **Translation:** 
 
-**[4835.70s] English:** Создается ощущение, что они существуют отдельно.  
+**[7507.52s] English:** A physicist like me, as a supporter of physicalism, finds it not difficult to say,  
 **Translation:** 
 
-**[4843.14s] English:** Они существуют отдельно и одновременно.  
+**[7512.62s] English:** To explain what it's like to be you or what you experience,  
 **Translation:** 
 
-**[4845.58s] English:** И одновременно.  
+**[7516.22s] English:** When you see red.  
 **Translation:** 
 
-**[4846.74s] English:** Без положения в пространстве.  
+**[7517.92s] English:** This is a specific way of talking about atoms and neurons.  
 **Translation:** 
 
-**[4848.42s] English:** Без положения в пространстве.  
+**[7522.76s] English:** Of which you consist.  
 **Translation:** 
 
-**[4850.46s] English:** Как можно представить их существование без положения в пространстве?  
+**[7524.96s] English:** The hardness or brown color of this table — this  
 **Translation:** 
 
-**[4855.32s] English:** Настоящий ответ, честный ответ в том, что это...  
+**[7527.50s] English:** Words that we attribute to certain configurations,  
 **Translation:** 
 
-**[4858.48s] English:** Пр84.  
-**Translation:** 
+**[7531.82s] English:** Lying at the basis of ordinary physical matter.  
+**Translation:** Vocabulary: attribute: 归因; configurations: 配置方式
 
-**[4859.06s] English:** Предсказывают уравнение.  
+**[7535.58s] English:** Exactly as sadness, redness, or something else,  
 **Translation:** 
 
-**[4861.30s] English:** Если не можешь это представить, это твоя проблема.  
+**[7538.48s] English:** This is merely words we use to describe,  
 **Translation:** 
 
-**[4865.28s] English:** Уравнение четко указывает на то, что предсказывают.  
+**[7541.44s] English:** What are you doing.  
 **Translation:** 
 
-**[4867.56s] English:** Возможно ли лучше понять и представить странные последствия этой интерпретации?  
+**[7542.96s] English:** Regarding consciousness in general, I will say first that  
 **Translation:** 
 
-**[4875.86s] English:** Не думаю, что это сложно.  
+**[7547.58s] English:** I do not pretend to have a special understanding of how it works.  
 **Translation:** 
 
-**[4877.22s] English:** Мне было нетрудно.  
+**[7551.52s] English:** Works.  
 **Translation:** 
 
-**[4878.88s] English:** Меня не смущает мысль, что когда я совершаю квантовое измерение,  
+**[7552.76s] English:** But I don't see a reason to change the laws of physics to make this happen.  
 **Translation:** 
 
-**[4884.82s] English:** во Вселенной появляются несколько потомков нынешнего меня,  
+**[7557.08s] English:** Explain.  
 **Translation:** 
 
-**[4889.38s] English:** которые получили иной результат.  
+**[7558.16s] English:** If we don't need to change the laws of physics,  
 **Translation:** 
 
-**[4892.84s] English:** Я не могу с ними взаимодействовать.  
+**[7560.00s] English:** From where does it appear? Maybe consciousness and an illusion, like the contraction people use for  
 **Translation:** 
 
-**[4895.86s] English:** Гильбертово пространство, волновая функция могут их себя включать.  
+**[7567.38s] English:** Descriptions of certain feelings arising from interactions with the world? Or at some point?  
 **Translation:** 
 
-**[4902.24s] English:** Я же занят только теми частями Вселенной, которые могу наблюдать.  
+**[7572.92s] English:** Did a certain great leap occur? I almost never say "illusion." Illusion is,  
 **Translation:** 
 
-**[4907.44s] English:** Скажем так, многимировая интерпретация возникает,  
+**[7578.90s] English:** When you think you see something that isn't really there—an oasis in the desert, perhaps—it's an illusion. The reason,  
 **Translation:** 
 
-**[4910.90s] English:** если серьезно воспринимать уравнение Шрёдингера.  
-**Translation:** 
+**[7586.28s] English:** The investigative connection is as follows: If you approach the spot where the oasis should be, you will understand.  
+**Translation:** Vocabulary: investigative: 调查性的; oasis: 绿洲
 
-**[4913.76s] English:** Уравнение Шрёдингера...  
+**[7591.90s] English:** To correct its error. This differs from emergent and non-fundamental, but still real, phenomena.  
 **Translation:** 
 
-**[4914.82s] English:** ...было создано, чтобы обосновать данные спектра различных атомов и экспериментов.  
-**Translation:** 
+**[7597.30s] English:** This table is real, even though I know it's made of atoms. This doesn't make it any less real. I  
+**Translation:** Vocabulary: differs: 不同; emergent: 涌现的
 
-**[4920.00s] English:** по излучению и поглощению вполне нормально сказать вы берете уравнение шрёдингера экстраполируйте  
+**[7603.08s] English:** I believe that consciousness, free will, and the like are also as real as tables and chairs.  
 **Translation:** 
 
-**[4929.26s] English:** его доверяете ему верить ему о том что нельзя наблюдать я этого делать не хочу это вполне  
-**Translation:** 
+**[7607.68s] English:** Thirst becomes a consequence of an oasis in the desert. This leads to incorrect conclusions about the world.  
+**Translation:** Vocabulary: consciousness: 觉醒; thirst: 口渴
 
-**[4938.24s] English:** нормально вот только а вы тогда во что верится придумайте теорию получше раз не верите в уравнение  
+**[7616.28s] English:** Yes, but when we see what we envisioned become real, there's a sort of cause and effect as well.  
 **Translation:** 
 
-**[4946.12s] English:** шрёдингера назовите мне уравнение которое верите оказалось и люди пытались оказалось  
-**Translation:** 
+**[7627.36s] English:** But faith in the oasis decreases, rather than increases your understanding of the world in the sense that it gives you.  
+**Translation:** Vocabulary: decreases: 减少; envisioned: 想象中的
 
-**[4952.70s] English:** очень трудно найти разумный подход который соответствует данным а многомировая интерпретация  
+**[7634.62s] English:** The possibility of controlling and influencing him. But consciousness does not work that way with a table.  
 **Translation:** 
 
-**[4958.88s] English:** чисто абсолютно простая чистая бесхитростная теория квантовой механики но если теория верна  
-**Translation:** 
+**[7640.02s] English:** You don't think that by presenting something, you can increase its likelihood of existing?  
+**Translation:** Vocabulary: influencing: 影响; likelihood: 可能性
 
-**[4967.96s] English:** это разве не самое странное из того что нам известно до более  
+**[7646.28s] English:** No. Not unless you build it or create it.  
 **Translation:** 
 
-**[4976.06s] English:** то что нам известно да более то что мы получаем от этого��게 я не простой фантазист причем в большинстве  
+**[7651.94s] English:** No, I'm talking about that. How did the Wright brothers demonstrate that people could fly?  
 **Translation:** 
 
-**[4976.10s] English:** Кроме того, скажу так, как по мне лучшая причина сомневаться  
+**[7656.38s] English:** But people fly.  
 **Translation:** 
 
-**[4981.98s] English:** многомировой интерпретации не в том, что это странно,  
-**Translation:** 
+**[7659.24s] English:** From the perspective of hypothetical counterfeiting scenarios, of course, imagination is critically important.  
+**Translation:** Vocabulary: counterfeiting: 伪造; critically: 关键地; hypothetical: 假设的; scenarios: 情景
 
-**[4985.78s] English:** не соответствует данным или потому что мы не знаем  
+**[7664.74s] English:** But this is not an illusion. It is simply imagination.  
 **Translation:** 
 
-**[4988.32s] English:** куда деваются эти миры, а в том, что для подобной  
+**[7667.78s] English:** A, the possibility of the future in the context of reality?  
 **Translation:** 
 
-**[4994.00s] English:** экстраполяции, чтобы серьезно воспринимать корректные  
+**[7673.86s] English:** Simply, is the future just a concept?  
 **Translation:** 
 
-**[4996.58s] English:** в других режимах уравнения, нужна новая философия,  
+**[7676.28s] English:** So, one can...  
 **Translation:** 
 
-**[5001.86s] English:** новый способ понимания идентичности, вероятности,  
+**[7680.00s] English:** Time is a concept, and with it, you can play.  
 **Translation:** 
 
-**[5006.02s] English:** предсказаний и многого другого.  
+**[7684.40s] English:** Here is the reality....  
 **Translation:** 
 
-**[5007.58s] English:** Это требует философских размышлений.  
+**[7687.78s] English:** That is, for you,...  
 **Translation:** 
 
-**[5010.84s] English:** Это делал и я, и другие, и это вполне осуществимо,  
+**[7691.46s] English:** I love asking this question.  
 **Translation:** 
 
-**[5014.66s] English:** но не просто.  
+**[7693.70s] English:** For example, Donald Hoffman believes that all our discussions about space-time are illusions.  
 **Translation:** 
 
-**[5017.98s] English:** Это не простая экстраполяция того, что мы уже знаем.  
-**Translation:** 
+**[7704.36s] English:** Can you justify this?  
+**Translation:** Vocabulary: hoffman: 霍夫曼; justify: 证明合理
 
-**[5022.34s] English:** Это огромная экстраполяция.  
+**[7705.96s] English:** There are arguments for and against the reality.  
 **Translation:** 
 
-**[5024.46s] English:** И кто-то хочет оставаться методологически консервативным  
-**Translation:** 
+**[7713.80s] English:** He writes that the physical laws of space-time we are familiar with are precursors to something deeper that we do not yet understand.  
+**Translation:** Vocabulary: precursors: 先驱
 
-**[5028.76s] English:** и говорит «Это слишком, я в это не верю».  
+**[7721.92s] English:** We deceive ourselves by inventing this world.  
 **Translation:** 
 
-**[5032.50s] English:** Мне это понятно.  
-**Translation:** 
+**[7724.92s] English:** I think that this idea is partly worthy of respect and partly completely meaningless.  
+**Translation:** Vocabulary: deceive: 欺骗; meaningless: 无意义
 
-**[5033.78s] English:** Как по мне, это проявление слабости.  
+**[7730.66s] English:** I will not even attempt to justify the meaningless part.  
 **Translation:** 
 
-**[5036.00s] English:** Нужно быть смелее, но мотивация непонятна.  
+**[7733.64s] English:** Real part, yeah?  
 **Translation:** 
 
-**[5040.00s] English:** Согласно этой интерпретации, если отмотать назад, существует  
+**[7735.96s] English:** What about structural realism.  
 **Translation:** 
 
-**[5047.76s] English:** стрела времени, где будет одно начальное состояние.  
+**[7738.76s] English:** We do not understand the world at a deep, fundamental level.  
 **Translation:** 
 
-**[5053.34s] English:** Верно, вся квантовая механика, все различные версии требуют  
+**[7745.54s] English:** Let's imagine ourselves in the place of people who lived 200 years ago.  
 **Translation:** 
 
-**[5056.44s] English:** стрелы времени, она может различаться в каждом случае,  
+**[7749.96s] English:** They didn't know about quantum mechanics, they didn't know about the WTO.  
 **Translation:** 
 
-**[5060.04s] English:** но процесс квантового измерения необратим.  
+**[7753.46s] English:** This does not mean that they were wrong in their understanding of the universe.  
 **Translation:** 
 
-**[5065.28s] English:** Ты что-то измеряешь, оно коллапсирует, обратно его  
+**[7757.40s] English:** They had Newton's laws, so they easily predicted the time of sunrise.  
 **Translation:** 
 
-**[5067.28s] English:** не вернешь.  
+**[7763.50s] English:** As scientific progress develops,  
 **Translation:** 
 
-**[5068.28s] English:** Если кто-то скажет тебе результат, вот я измерил  
+**[7765.44s] English:** The words we used have changed.  
 **Translation:** 
 
-**[5070.66s] English:** электрон, и его спин почасовой, что было до того, как я его  
+**[7768.14s] English:** For a fundamental description,  
 **Translation:** 
 
-**[5074.58s] English:** измерил?  
+**[7771.94s] English:** Predictions of sunrise.  
 **Translation:** 
 
-**[5075.58s] English:** Ты знаешь, что частично спин был почасовой, но не  
+**[7775.94s] English:** Because now we have spacetime curvature and other things.  
 **Translation:** 
 
-**[5078.66s] English:** знаешь, насколько.  
-**Translation:** 
+**[7778.94s] English:** 200 years ago, we didn't have these words.  
+**Translation:** Vocabulary: curvature: 曲率; spacetime: 时空
 
-**[5079.66s] English:** С многомировой интерпретацией также.  
+**[7780.94s] English:** But predictions also.  
 **Translation:** 
 
-**[5082.28s] English:** Но хорошо, что стрела времени, которая нужна многомировой  
+**[7782.44s] English:** Why?  
 **Translation:** 
 
-**[5086.12s] English:** интерпретации, та же, которая нужна для энтропии, термодинамики  
+**[7783.44s] English:** Because  
 **Translation:** 
 
-**[5090.84s] English:** и так далее.  
-**Translation:** 
+**[7785.44s] English:** Because, regardless of the fundamental ontology,  
+**Translation:** Vocabulary: ontology: 本体论
 
-**[5091.84s] English:** Необходимо простое начальное состояние с низкой энтропией,  
+**[7788.94s] English:** The prediction indicated something true.  
 **Translation:** 
 
-**[5094.78s] English:** оно нужно в обоих случаях.  
+**[7792.94s] English:** In our understanding of reality.  
 **Translation:** 
 
-**[5096.38s] English:** Поправь меня, если я ошибаюсь.  
+**[7795.44s] English:** To call this an illusion is simply incorrect.  
 **Translation:** 
 
-**[5098.22s] English:** Но вся история Вселенной, согласно многомировой интерпретации,  
+**[7798.94s] English:** May be, we don't know.  
 **Translation:** 
 
-**[5103.02s] English:** выглядит детерминированной.  
+**[7800.00s] English:** We do not know the best comprehensive way to express something.  
 **Translation:** 
 
-**[5105.52s] English:** Да.  
+**[7804.16s] English:** But the truth is one.  
 **Translation:** 
 
-**[5106.52s] English:** Память о всей истории Вселенной содержится в каждой точке?  
+**[7806.16s] English:** Such a truth as true faith in God?  
 **Translation:** 
 
-**[5111.18s] English:** Как думаешь, каждый момент содержит память обо всем,  
+**[7810.24s] English:** For most of human history, people believed in a god or multiple gods.  
 **Translation:** 
 
-**[5115.22s] English:** что ему предшествовало?  
+**[7818.22s] English:** Vera seemed to them the true explanation of the way the world worked.  
 **Translation:** 
 
-**[5116.72s] English:** Насколько мы знаем, согласно многомировой интерпретации,  
+**[7825.56s] English:** Vera, some deep questions about the very essence of human life and why certain things happen.  
 **Translation:** 
 
-**[5121.52s] English:** волновая функция Вселенной, все ветки Вселенной одновременно,  
+**[7834.32s] English:** Good was the justification.  
 **Translation:** 
 
-**[5125.50s] English:** все миры содержат всю информацию.  
+**[7836.34s] English:** According to you, this is not an illusion?  
 **Translation:** 
 
-**[5127.22s] English:** Да.  
+**[7840.44s] English:** No, it was an illusion.  
 **Translation:** 
 
-**[5128.22s] English:** Называть это памятью несколько опасно, ведь это не та же  
+**[7842.10s] English:** I think then it was a quite reasonable illusion.  
 **Translation:** 
 
-**[5133.16s] English:** память, что моя или твоя.  
+**[7844.62s] English:** There are illusions and substantial assertions about the world that go beyond the predictions we can make and verify.  
 **Translation:** 
 
-**[5136.52s] English:** Наши воспоминания полагаются на стрелу времени, а суть  
-**Translation:** 
+**[7853.00s] English:** Later, they proved to be unfaithful.  
+**Translation:** Vocabulary: assertions: 断言; unfaithful: 不忠实; verify: 验证
 
-**[5141.34s] English:** уравнения Шрёдингера или законов Ньютона в том, что  
+**[7854.86s] English:** Existence of God is one of them.  
 **Translation:** 
 
-**[5144.68s] English:** стрела времени в них не встроена, а необратима.  
+**[7858.32s] English:** If people had then rejected belief in God and replaced it with a mechanical picture of the world, they would have understood it just as well.  
 **Translation:** 
 
-**[5149.30s] English:** Состояние Вселенной не только помнит, откуда оно  
+**[7867.78s] English:** Again, they didn't understand so much that it was quite reasonable for them to believe.  
 **Translation:** 
 
-**[5152.84s] English:** взялось, оно и определяет, куда пойдет.  
+**[7873.78s] English:** This does not mean that they were stupid.  
 **Translation:** 
 
-**[5155.32s] English:** Наша память работает не так.  
+**[7876.56s] English:** But as we study the universe, some things remain, while others are replaced.  
 **Translation:** 
 
-**[5157.02s] English:** Но мы можем сделать это.  
+**[7883.54s] English:** Do you believe?  
 **Translation:** 
 
-**[5158.02s] English:** Но мы можем воспроизводить воспоминания.  
+**[7884.86s] English:** Do you believe in the mechanical conception of the universe?  
 **Translation:** 
 
-**[5160.00s] English:** Так можно?  
-**Translation:** 
+**[7890.04s] English:** You are a naturalist, as you described a poetic naturalist.  
+**Translation:** Vocabulary: conception: 宇宙观; naturalist: 自然主义者; poetic: 诗意的
 
-**[5161.22s] English:** Можно, но сама формирование воспоминаний увеличивает энтропию Вселенной.  
+**[7894.48s] English:** Correct.  
 **Translation:** 
 
-**[5165.56s] English:** Это тоже необратимый процесс.  
+**[7896.10s] English:** What does poetic mean? What is naturalism, and what is poetic naturalism?  
 **Translation:** 
 
-**[5168.82s] English:** Идёшь ты по пляжу и оставляешь следы.  
+**[7900.68s] English:** Naturalism is the idea that all existing things are part of the natural world.  
 **Translation:** 
 
-**[5171.54s] English:** Это летопись твоей прогулки.  
-**Translation:** 
+**[7903.88s] English:** There is no such thing as a supernatural world.  
+**Translation:** Vocabulary: naturalism: 自然主义; supernatural: 超自然的
 
-**[5173.78s] English:** Со временем она будет стёрта постоянной возрастающей энтропией Вселенной.  
+**[7906.02s] English:** Can we argue about what it means, but in my opinion, we should be arguing about the meaning of the word "supernatural," not "natural.  
 **Translation:** 
 
-**[5178.08s] English:** Но можно несовершенно это воспроизвести.  
+**[7914.86s] English:** A significant world is one that we study through science.  
 **Translation:** 
 
-**[5180.80s] English:** То есть, можем ли мы несовершенно путешествовать назад во времени?  
+**[7918.46s] English:** Poetic part — this is about what we should study as science.  
 **Translation:** 
 
-**[5185.52s] English:** Это зависит от уровня точности, к которому ты стремишься.  
+**[7920.00s] English:** What is natural should not be taken too seriously.  
 **Translation:** 
 
-**[5191.48s] English:** Вселенная содержит информацию о том, где она была, но ты и я нет.  
+**[7926.74s] English:** We moved from Newtonian space-time to Einsteinian space-time.  
 **Translation:** 
 
-**[5197.68s] English:** Даже не близко.  
-**Translation:** 
+**[7933.44s] English:** But something remained unchanged.  
+**Translation:** Vocabulary: einsteinian: 爱因斯坦的; newtonian: 牛顿的; unchanged: 未改变
 
-**[5199.86s] English:** Получается, со Вселенной консультироваться вычислительно запретно?  
+**[7935.82s] English:** Another story about the world that we can tell has appeared.  
 **Translation:** 
 
-**[5205.48s] English:** Зависит от того, что именно ты воспринимаешь.  
+**[7939.44s] English:** In this story, in Newton's world, if you launch a rocket to the Moon, you don't use OTO.  
 **Translation:** 
 
-**[5208.14s] English:** Есть простые вопросы, вроде  
+**[7945.12s] English:** You are using Newtonian mechanics, and everything is working perfectly.  
 **Translation:** 
 
-**[5209.48s] English:** «Какова была температура Вселенной через 30 секунд после Большого Взрыва?»  
+**[7948.26s] English:** No. The poetic aspect of history is that there are many ways to speak about the natural world.  
 **Translation:** 
 
-**[5215.52s] English:** Мы можем на это ответить.  
+**[7954.42s] English:** While these methods are linked to something real, to causal relationships in the world,  
 **Translation:** 
 
-**[5217.78s] English:** Поразительно, но с довольно высокой точностью.  
-**Translation:** 
+**[7960.32s] English:** We attribute to them some kind of reality and truth.  
+**Translation:** Vocabulary: attribute: 归因; causal: 因果的
 
-**[5222.08s] English:** Если хочешь знать расположение каждого атома, то нет.  
+**[7964.46s] English:** Thus, the poetic aspect can be said to be more open to silly pseudo-scientific questions?  
 **Translation:** 
 
-**[5225.80s] English:** Что для тебя Большой Взрыв?  
-**Translation:** 
+**[7972.44s] English:** He works in two shifts, which is where the misunderstanding comes from.  
+**Translation:** Vocabulary: poetic: 诗意; shifts: 班次
 
-**[5228.84s] English:** Почему...  
+**[7975.36s] English:** His more obvious, worthy task is to say,  
 **Translation:** 
 
-**[5229.68s] English:** Почему...  
+**[7978.26s] English:** That tables are real.  
 **Translation:** 
 
-**[5231.76s] English:** Почему он случился?  
+**[7981.00s] English:** Even if you know that these wave functions in quantum field theory are real, the tables are not.  
 **Translation:** 
 
-**[5233.08s] English:** Без понятия. Это очень важный вопрос.  
+**[7987.10s] English:** This is just another way of talking about reality.  
 **Translation:** 
 
-**[5236.00s] English:** Я вижу, что в этом можно продвинуться, но...  
+**[7992.20s] English:** Another of its tasks is that when we talk about the universe,  
 **Translation:** 
 
-**[5239.88s] English:** Сейчас я максимально не уверен в ответе.  
-**Translation:** 
+**[7996.20s] English:** We go beyond description and move to normative, prescriptive, and evaluative statements.  
+**Translation:** Vocabulary: evaluative: 评价性的; normative: 规范性的
 
-**[5243.84s] English:** А чёрные дыры могут?  
+**[8003.88s] English:** This picture is beautiful, that one isn't.  
 **Translation:** 
 
-**[5245.38s] English:** Будут помочь?  
+**[8006.58s] English:** So it's the right thing to do, but...  
 **Translation:** 
 
-**[5245.90s] English:** Нет, не особо.  
+**[8008.26s] English:** This is also ways to talk about the universe.  
 **Translation:** 
 
-**[5248.68s] English:** Квантовая гравитация поможет.  
+**[8012.90s] English:** They are not conditioned by phenomena or our observations.  
 **Translation:** 
 
-**[5250.10s] English:** Возможно, чёрные дыры помогут нам разобраться с квантовой гравитацией, так что косвенно да.  
+**[8017.50s] English:** They cannot be experimentally verified, but they do exist.  
 **Translation:** 
 
-**[5254.58s] English:** Но ситуация такова, что теория Эйнштейна, ОТО,  
-**Translation:** 
+**[8022.34s] English:** May be they are not universal and subjective, but they are not random.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[5259.28s] English:** однозначно предсказывает сингулярность в прошлом.  
+**[8026.54s] English:** And they play their role in describing how the world works.  
 **Translation:** 
 
-**[5262.64s] English:** Был момент времени, когда у Вселенной  
-**Translation:** 
+**[8030.24s] English:** According to you, experiments cannot be conducted,  
+**Translation:** Vocabulary: experiments: 实验
 
-**[5264.38s] English:** была бесконечная кривизна, бесконечная энергия, бесконечная скорость, расширение и так далее.  
+**[8033.04s] English:** To explore areas of morality and even meaning?  
 **Translation:** 
 
-**[5270.30s] English:** Это просто красивый способ сказать, что теория дала забой.  
-**Translation:** 
+**[8038.26s] English:** They simply...  
+**Translation:** Vocabulary: morality: 伦理
 
-**[5275.38s] English:** Классическое ОТО не может ответить, что реально в тот момент произошло.  
+**[8040.00s] English:** Subjective, I suppose they are human, personal opinions, may just because science hasn't gotten there yet.  
 **Translation:** 
 
-**[5280.00s] English:** Возможно, что в каком-то смысле был момент времени,  
-**Translation:** 
+**[8050.02s] English:** Instruments considering human experience are not what this is about, whether under aesthetics or morality we  
+**Translation:** Vocabulary: aesthetics: 审美
 
-**[5284.54s] English:** до которого не существовало других моментов.  
+**[8058.18s] English:** We understand categories, assign properties to things in the physical world in this categorization, in terms of how  
 **Translation:** 
 
-**[5287.18s] English:** Это большой взрыв, даже если это не что-то из классической  
-**Translation:** 
+**[8066.00s] English:** We always have a certain subjectivity, and that's normal. The quicker we acknowledge this, the better.  
+**Translation:** Vocabulary: assign: 分配; categorization: 分类
 
-**[5291.28s] English:** ОТО, даже если тут дело в квантовой механике, может  
+**[8070.82s] English:** Better, but if we fully understand the workings of the human mind, isn't that included?  
 **Translation:** 
 
-**[5294.38s] English:** быть и так.  
-**Translation:** 
+**[8078.78s] English:** No, this explains the presence of certain moral convictions in some people but does not confirm them.  
+**Translation:** Vocabulary: workings: 运作原理
 
-**[5295.38s] English:** Также возможно, что было время до пространства и  
+**[8086.08s] English:** Correctness or incorrectness of including the observer effect in a general theory can be debated.  
 **Translation:** 
 
-**[5298.04s] English:** времени, и они каким-то непонятным пока образом  
-**Translation:** 
+**[8091.02s] English:** Relativity, where the observer's human reasoning plays a role.  
+**Translation:** Vocabulary: correctness: 正确性; observer: 观察者; relativity: 相对论
 
-**[5300.96s] English:** развились в горячий большой взрыв.  
+**[8096.00s] English:** Of course, that the human mind changes reality just as gravity does.  
 **Translation:** 
 
-**[5302.72s] English:** И если время и пространство эмерджентны, то что было  
-**Translation:** 
+**[8104.28s] English:** Space-time and work out a theory as to how these changes really occur, Lex.  
+**Translation:** Vocabulary: gravity: 重力
 
-**[5308.34s] English:** до — совсем странно.  
+**[8115.28s] English:** Dumb question, sorry, but is it possible? Yes, I think we are part of the physical naturally.  
 **Translation:** 
 
-**[5309.90s] English:** Ну если существует первый момент времени, это было  
-**Translation:** 
+**[8126.00s] English:** Mira, физикализм is such a good definition as naturalism, possibly even more precisely, but she  
+**Translation:** Vocabulary: naturalism: 自然主义; precisely: 精确地
 
-**[5314.76s] English:** бы хорошим доказательством соответствовать идее об  
+**[8133.72s] English:** Several repelling, therefore, I want to use a more attractive definition: are there limits for  
 **Translation:** 
 
-**[5317.62s] English:** эмерджентности времени.  
+**[8141.42s] English:** Science, we are one of them that discussed. Science does not say what is right and what is wrong; science is needed to  
 **Translation:** 
 
-**[5320.32s] English:** Если время фундаментально, то течет вечно, поскольку  
+**[8148.32s] English:** Realize ideas about right and wrong if you rely on a wrong representation of how  
 **Translation:** 
 
-**[5323.04s] English:** фундаментально.  
+**[8156.00s] English:** You might think that you're doing everything right, but in fact, you're not.  
 **Translation:** 
 
-**[5324.04s] English:** Ну да, обычно этот вопрос формулируется так — что  
+**[8160.00s] English:** No science in the world will tell you what is right and what is wrong.  
 **Translation:** 
 
-**[5328.26s] English:** за пределами, что находится за пределами нашей вселенной  
-**Translation:** 
+**[8165.36s] English:** Dictators and those in power sometimes use the authority of science,  
+**Translation:** Vocabulary: dictators: 独裁者
 
-**[5331.26s] English:** во времени и пространстве.  
+**[8169.96s] English:** To assert what is right and what is not.  
 **Translation:** 
 
-**[5333.10s] English:** Я думаю, что это дурацкий вопрос, Шон, я понимаю.  
-**Translation:** 
+**[8173.50s] English:** The study of Nazi science is very interesting.  
+**Translation:** Vocabulary: assert: 断言
 
-**[5337.44s] English:** Прошу прощения.  
+**[8176.22s] English:** Yes.  
 **Translation:** 
 
-**[5338.32s] English:** Моя жизнь — задавать дурацкие вопросы, ответ на некоторые  
+**[8176.92s] English:** But here is an instrumental approach.  
 **Translation:** 
 
-**[5341.10s] English:** кроется в неверном способе мышления.  
+**[8178.58s] English:** First, we need to define the goals.  
 **Translation:** 
 
-**[5343.34s] English:** Хорошо.  
+**[8180.96s] English:** Then science will help you achieve them.  
 **Translation:** 
 
-**[5344.34s] English:** А вообще возможно думать о том, что за пределами нашей  
+**[8183.10s] English:** Even if your goals are horrific, science will help you achieve them.  
 **Translation:** 
 
-**[5348.72s] English:** вселенной?  
-**Translation:** 
+**[8188.10s] English:** Science is eager to strive.  
+**Translation:** Vocabulary: horrific: 可怕的; strive: 努力
 
-**[5349.72s] English:** Задавать вопросы можно, но нужно быть готовым к  
+**[8190.00s] English:** May I ask how you manage chaos in different aspects of life?  
 **Translation:** 
 
-**[5352.18s] English:** тому, что ответом будет «нет такого понятия, как  
+**[8193.94s] English:** You talked about the approach to writing scientific papers and popular books.  
 **Translation:** 
 
-**[5354.78s] English:** за пределами вселенной».  
+**[8199.40s] English:** But how do you find time for this?  
 **Translation:** 
 
-**[5356.78s] English:** Это вполне возможно.  
-**Translation:** 
+**[8201.62s] English:** How does Shawn Carroll's typical day look like?  
+**Translation:** Vocabulary: shawn: 肖恩
 
-**[5359.20s] English:** Более того, это самый простой ответ.  
+**[8203.74s] English:** Chестно, I don't even know.  
 **Translation:** 
 
-**[5360.40s] English:** И, вероятно, самый правильный.  
+**[8205.72s] English:** Do you have such a habit of setting aside two hours in the mornings for yourself?  
 **Translation:** 
 
-**[5364.04s] English:** Но это единственное во вселенной, у чего нет ответа.  
+**[8211.34s] English:** No, that's awful.  
 **Translation:** 
 
-**[5367.78s] English:** Да.  
-**Translation:** 
+**[8212.60s] English:** My strategy is to ignore distractions and emails,  
+**Translation:** Vocabulary: distractions: 分心的事物
 
-**[5368.32s] English:** У кого нет внешней стороны.  
+**[8215.90s] English:** But every day at different times.  
 **Translation:** 
 
-**[5369.72s] English:** Да, если вселенная — это совокупность всего, у нее  
+**[8218.24s] English:** There are days, and there are weeks.  
 **Translation:** 
 
-**[5373.46s] English:** нет внешней стороны.  
+**[8220.00s] English:** Weeks when I don't write at all.  
 **Translation:** 
 
-**[5375.00s] English:** Странно думать, что внешней стороны нет.  
+**[8223.96s] English:** True? You are indeed very productive.  
 **Translation:** 
 
-**[5377.30s] English:** Хочется, чтобы был Создатель, Творческая Сила, все это  
+**[8226.32s] English:** Is there still a day when you don't write and then write the next day?  
 **Translation:** 
 
-**[5386.38s] English:** сотворившее.  
+**[8231.70s] English:** Agreed.  
 **Translation:** 
 
-**[5387.84s] English:** Есть наш город, а за ним большой мир, всегда есть  
+**[8232.48s] English:** Oh, that's a rarity.  
 **Translation:** 
 
-**[5391.22s] English:** большой мир.  
-**Translation:** 
+**[8234.84s] English:** Many prolific writers...  
+**Translation:** Vocabulary: prolific: 高产的; rarity: 稀罕
 
-**[5392.22s] English:** Подумать только, что его нет.  
+**[8237.16s] English:** Probably.  
 **Translation:** 
 
-**[5393.76s] English:** Таков наш опыт, это мир, в котором мы выросли.  
+**[8238.36s] English:** ...they set aside a couple of hours because otherwise it would be impossible.  
 **Translation:** 
 
-**[5396.34s] English:** Вселенная не должна.  
+**[8241.62s] English:** Yes.  
 **Translation:** 
 
-**[5398.32s] English:** Подчиняться этим правилам.  
+**[8242.24s] English:** Yes. No, I understand, yes.  
 **Translation:** 
 
-**[5400.74s] English:** Это так странно.  
+**[8247.14s] English:** Just...  
 **Translation:** 
 
-**[5402.40s] English:** В детстве это мне спать не давало.  
+**[8247.98s] English:** Everyone has their own weaknesses.  
 **Translation:** 
 
-**[5404.36s] English:** А если бы Вселенной не было?  
+**[8250.88s] English:** I can't keep up with that, so I have to figure it out on the go.  
 **Translation:** 
 
-**[5406.56s] English:** Да.  
+**[8257.72s] English:** How does the process of writing a book look like?  
 **Translation:** 
 
-**[5407.94s] English:** Это большое давление.  
+**[8261.28s] English:** Are you sitting in front of a computer?  
 **Translation:** 
 
-**[5411.30s] English:** Если это единственная Вселенная,  
+**[8262.88s] English:** Yes, at the computer.  
 **Translation:** 
 
-**[5414.32s] English:** и мы одна из немногих разумных цивилизаций,  
+**[8264.32s] English:** My way...  
 **Translation:** 
 
-**[5417.96s] English:** а может и единственная,  
+**[8265.08s] English:** My wife Jennifer is a scientific writer, but what's interesting is,  
 **Translation:** 
 
-**[5421.08s] English:** кажется подозрительно, как старые теории о том, что мы центр всего.  
+**[8268.22s] English:** Our methods are completely different.  
 **Translation:** 
 
-**[5424.80s] English:** Вот почему многомировая интерпретация мне кажется волнующей.  
+**[8272.04s] English:** She is thinking about something, and then writes in a free-style manner.  
 **Translation:** 
 
-**[5429.08s] English:** Она привносит нужное смирение.  
+**[8274.76s] English:** She sits down at the computer and writes.  
 **Translation:** 
 
-**[5431.94s] English:** Кажется, что бесконечность — основа всего.  
+**[8276.66s] English:** I think it's like this, and like that, and like this.  
 **Translation:** 
 
-**[5436.96s] English:** Есть одна ловушка, я ее упомяну.  
+**[8277.92s] English:** Then strongly...  
 **Translation:** 
 
-**[5440.26s] English:** Потому что существует ход, который применяют в теоретической космологии,  
-**Translation:** 
+**[8280.00s] English:** Shortens, edits, rewrites, and repeats until the final text is complete.  
+**Translation:** Vocabulary: rewrites: 重写
 
-**[5444.90s] English:** и я считаю, что он немного ошибочен.  
+**[8285.72s] English:** I just sit in silence for a long time, think deeply, and then write almost the final draft.  
 **Translation:** 
 
-**[5449.28s] English:** Ход в том, чтобы размышлять о Вселенной,  
+**[8290.48s] English:** It's somehow like that.  
 **Translation:** 
 
-**[5451.34s] English:** представляя себя типичным наблюдателем.  
+**[8291.72s] English:** I sometimes jot down a plan, but most of it happens in my head.  
 **Translation:** 
 
-**[5454.66s] English:** Это называется принципом типичности, или принципом заурядности,  
-**Translation:** 
+**[8298.30s] English:** So were the greatest ideas in the universe, quanta and space, time, and motion?  
+**Translation:** Vocabulary: quanta: 量子
 
-**[5458.06s] English:** или даже принципом...  
+**[8303.46s] English:** Yes, quants and fields. Dedicated to quantum field theory and particle physics.  
 **Translation:** 
 
-**[5459.08s] English:** «Ничего особенного во мне нет, я зауряден во Вселенной».  
-**Translation:** 
+**[8308.28s] English:** She will come out in May.  
+**Translation:** Vocabulary: particle: 亚原子粒子; quants: 量化分析师; quantum: 量子
 
-**[5463.72s] English:** Но затем из этого ты делаешь какие-то выводы,  
+**[8310.80s] English:** In it, I tell what no other book tells.  
 **Translation:** 
 
-**[5466.60s] English:** и в итоге понимаешь, что, самонадеянно говоря,  
+**[8316.58s] English:** I hope this is worth it.  
 **Translation:** 
 
-**[5469.46s] English:** я типичный наблюдатель во Вселенной.  
+**[8318.00s] English:** But this is complicated; there are many equations in it.  
 **Translation:** 
 
-**[5471.72s] English:** Ты утверждаешь, что типичные наблюдатели во Вселенной — такие, как я.  
-**Translation:** 
+**[8319.80s] English:** You also did it in the first book.  
+**Translation:** Vocabulary: equations: 方程式
 
-**[5477.10s] English:** А это ничем не оправдано.  
+**[8322.64s] English:** Interesting that you made the central equation a centerpiece of the book.  
 **Translation:** 
 
-**[5480.66s] English:** Я не говорю, как правильно поступать,  
-**Translation:** 
+**[8328.38s] English:** Correct, there are many equations there.  
+**Translation:** Vocabulary: centerpiece: 中心装饰; equation: 方程
 
-**[5483.34s] English:** но нужно быть очень аккуратными с вопросами,  
+**[8330.52s] English:** In the second book, I went even further than in the first.  
 **Translation:** 
 
-**[5485.58s] English:** которые не совсем...  
+**[8337.10s] English:** In it there's a lot of great stuff, and it's even better.  
 **Translation:** 
 
-**[5489.08s] English:** ...экспериментальной проверки или опровержения.  
+**[8340.00s] English:** Blasts the mind.  
 **Translation:** 
 
-**[5493.72s] English:** Для меня это один из самых интересных вопросов.  
+**[8342.28s] English:** This is difficult.  
 **Translation:** 
 
-**[5496.72s] English:** И здесь много разных подходов, но что за пределами?  
+**[8343.56s] English:** Now I am writing my third book.  
 **Translation:** 
 
-**[5500.72s] English:** Как начался этот беспорядок?  
-**Translation:** 
+**[8346.16s] English:** It is called "Complexity and Emergence".  
+**Translation:** Vocabulary: complexity: 复杂性; emergence: 涌现
 
-**[5502.72s] English:** Как из ничего появилось что-то?  
+**[8348.90s] English:** Oh.  
 **Translation:** 
 
-**[5505.72s] English:** Когда задаешься такими вопросами,  
-**Translation:** 
+**[8349.80s] English:** This is the last part of the trilogy.  
+**Translation:** Vocabulary: trilogy: 三部曲
 
-**[5509.72s] English:** неизбежно приходишь сюда.  
+**[8351.98s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to use natural English punctuation and capitalization while keeping the same meaning without adding new facts, and considering "Потрясающе" is Russian for "Amazing," the improved sentence would be: Amazing.  
 **Translation:** 
 
-**[5512.72s] English:** Думаешь ли о черных дырах, об объединении, о квантовой гравитации, о чем угодно,  
-**Translation:** 
+**[8353.54s] English:** In it, there should be many advanced ideas.  
+**Translation:** Vocabulary: capitalization: 大写
 
-**[5516.72s] English:** и постоянно возвращаешься к вопросу,  
+**[8357.38s] English:** But I don't try to be at the forefront.  
 **Translation:** 
 
-**[5519.08s] English:** откуда ты пришел?  
-**Translation:** 
+**[8360.86s] English:** Here I am not trying to speculate.  
+**Translation:** Vocabulary: forefront: 最前沿; speculate: 猜测
 
-**[5520.00s] English:** Откуда это всё взялось?  
+**[8364.08s] English:** In other books, I freely made conjectures.  
 **Translation:** 
 
-**[5522.04s] English:** Справедливо.  
-**Translation:** 
+**[8366.92s] English:** The goal of these books is to speak about what will be relevant.  
+**Translation:** Vocabulary: conjectures: 推测
 
-**[5523.04s] English:** Скорее всего, на этот вопрос нет ответа.  
+**[8370.00s] English:** And this will be relevant even in 500 years.  
 **Translation:** 
 
-**[5525.38s] English:** Да?  
+**[8371.94s] English:** We know something about complexity and emergence.  
 **Translation:** 
 
-**[5526.38s] English:** Нет.  
+**[8374.50s] English:** I want to focus on this.  
 **Translation:** 
 
-**[5527.38s] English:** Но это не обязательно.  
+**[8377.16s] English:** And, by the way, there's something here to speculate about, but I won't pretend I know for sure.  
 **Translation:** 
 
-**[5531.78s] English:** Может, всё-таки есть внизу черепаха, которая отказывается  
+**[8384.86s] English:** Interesting that you somehow found a balance between mathematical rigor and accessibility.  
 **Translation:** 
 
-**[5536.02s] English:** раскрываться?  
-**Translation:** 
+**[8389.92s] English:** I am trying.  
+**Translation:** Vocabulary: accessibility: 易理解; mathematical: 数学的; rigor: 严谨
 
-**[5537.02s] English:** Да.  
+**[8390.82s] English:** Three books of greatest ideas — this is an experiment.  
 **Translation:** 
 
-**[5538.02s] English:** Думаю, что конкретный вопрос «Почему существует что-то,  
-**Translation:** 
+**[8396.42s] English:** Auditorium capacity is already greater than that of others.  
+**Translation:** Vocabulary: auditorium: 会议厅
 
-**[5542.24s] English:** а не ничего?»  
+**[8399.16s] English:** But that is not true.  
 **Translation:** 
 
-**[5544.60s] English:** не имеет такого ответа, который мы обычно относим  
+**[8399.88s] English:** This is not true.  
 **Translation:** 
 
-**[5547.30s] English:** к вопросам с «почему».  
+**[8399.90s] English:** This is not true.  
 **Translation:** 
 
-**[5550.00s] English:** Поскольку типичные вопросы с «почему» зашиты во Вселенную.  
+**[8399.92s] English:** This is not true.  
 **Translation:** 
 
-**[5556.88s] English:** Мы используем свойства Вселенной, которые нам  
+**[8399.96s] English:** This is not true.  
 **Translation:** 
 
-**[5558.90s] English:** известны, чтобы на них ответить.  
+**[8400.00s] English:** They should like them.  
 **Translation:** 
 
-**[5560.76s] English:** Но насколько нам известно, сама Вселенная не вшита  
+**[8403.22s] English:** I cannot express how happy I was to receive these books at 19 years old.  
 **Translation:** 
 
-**[5563.22s] English:** во что-то большее.  
+**[8407.32s] English:** Yes, if viewed from a historical perspective, the trilogy will be special.  
 **Translation:** 
 
-**[5564.52s] English:** Следовательно, она может просто быть.  
+**[8413.24s] English:** With Lastelina's rings, it worked. Maybe I can make it work for me too.  
 **Translation:** 
 
-**[5567.02s] English:** А возможно, что всё это симуляция?  
-**Translation:** 
+**[8417.16s] English:** You and Tolkien.  
+**Translation:** Vocabulary: tolkien: 托尔金
 
-**[5570.78s] English:** Конечно.  
+**[8417.98s] English:** Agreed.  
 **Translation:** 
 
-**[5571.78s] English:** Это интересная, мрачная, извращённая видеоигра,  
-**Translation:** 
+**[8418.48s] English:** Simply, the styles and themes are different.  
+**Translation:** Vocabulary: themes: 主题
 
-**[5575.90s] English:** в которой мы существуем.  
+**[8420.86s] English:** The reality is one.  
 **Translation:** 
 
-**[5577.12s] English:** Слушатели моего подкаста «Mindscape» по выпускам  
+**[8423.80s] English:** We talked about the podcast Mindscape.  
 **Translation:** Vocabulary: mindscape: 心灵景观
 
-**[5579.90s] English:** социальных сетей, которые я делаю, не знают, что это.  
+**[8426.92s] English:** I love him.  
 **Translation:** 
 
-**[5579.98s] English:** С ответами на вопросы знают и журят на меня за то, что  
+**[8427.90s] English:** You interview experts from various fields,  
 **Translation:** 
 
-**[5584.58s] English:** если вопрос начинается со слов «возможно ли что?»,  
+**[8434.02s] English:** And I have some questions.  
 **Translation:** 
 
-**[5590.56s] English:** ответ всегда будет «да».  
+**[8435.70s] English:** How do you prepare yourself to have a good conversation?  
 **Translation:** 
 
-**[5592.22s] English:** Возможно, это бесполезный ответ, но всё возможно,  
+**[8440.54s] English:** How do you prepare yourself to satisfy your own curiosity?  
 **Translation:** 
 
-**[5596.10s] English:** до тех пор, пока не складываешь чётные числа и получаешь  
+**[8446.36s] English:** Great question. That's not easy.  
 **Translation:** 
 
-**[5600.32s] English:** нечётные.  
+**[8449.24s] English:** I changed my approaches year by year.  
 **Translation:** 
 
-**[5601.32s] English:** Когда ты говоришь, что это возможно, есть математическое,  
-**Translation:** 
-
-**[5605.74s] English:** да, а есть более интуитивное.  
-**Translation:** 
-
-**[5606.98s] English:** Да.  
-**Translation:** 
-
-**[5607.98s] English:** Ты хочешь знать, правдоподобно ли это.  
-**Translation:** 
-
-**[5609.88s] English:** Правдоподобно ли.  
-**Translation:** 
-
-**[5610.88s] English:** Допустима ли вера в такое объяснение?  
-**Translation:** 
-
-**[5612.96s] English:** Не думаю, что существует неоспоримое философское  
-**Translation:** 
-
-**[5618.74s] English:** возражение против гипотезы симуляции, а ещё нет никакой  
-**Translation:** 
-
-**[5623.06s] English:** причины воспринимать её всерьёз.  
-**Translation:** 
-
-**[5624.72s] English:** Как думаешь, люди попробуют создать свою?  
-**Translation:** 
-
-**[5628.32s] English:** Я всегда в этом ключе размышляю.  
-**Translation:** 
-
-**[5630.68s] English:** В последние несколько лет, а недавно всё больше, я проводил  
-**Translation:** 
-
-**[5635.90s] English:** много времени в виртуальных мирах.  
-**Translation:** 
-
-**[5638.48s] English:** Виртуальных мирах.  
-**Translation:** 
-
-**[5639.88s] English:** Здравствуйте!  
-**Translation:** 
-
-**[5640.88s] English:** И я спрашиваю, а как ты думаешь, кто скажет, что гипотеза  
-**Translation:** 
-
-**[5642.18s] English:** симуляция?  
-**Translation:** 
-
-**[5643.18s] English:** Гипотеза симуляция, она так и есть.  
-**Translation:** 
-
-**[5644.18s] English:** Поэтому, там, где ты говоришь, эта не это вот эта и есть  
-**Translation:** 
-
-**[5645.18s] English:** хранилище.  
-**Translation:** 
-
-**[5646.18s] English:** Нет.  
-**Translation:** 
-
-**[5647.18s] English:** Если бы ты говорила, что гипотеза симуляция, это  
-**Translation:** 
-
-**[5648.18s] English:** это просто состояние пугающей жизни, возможно, это  
-**Translation:** 
-
-**[5649.18s] English:** не так.  
-**Translation:** 
-
-**[5650.18s] English:** Но, ты не представляешь себе гипотеза, это не так,  
-**Translation:** 
-
-**[5651.18s] English:** что ему кажется.  
-**Translation:** 
-
-**[5652.18s] English:** Это статистика.  
-**Translation:** 
-
-**[5653.18s] English:** Это не так.  
-**Translation:** 
-
-**[5654.18s] English:** Что не так?  
-**Translation:** 
-
-**[5655.18s] English:** То, что стоит原олазить, это возможно.  
-**Translation:** 
-
-**[5656.18s] English:** Смотри, у меня твой гипотеза симуляция в течение  
-**Translation:** 
-
-**[5657.18s] English:** шести лет, это просто статус, такоеidea, это что?  
-**Translation:** 
-
-**[5640.00s] English:** И меня захватывает возможность создания миров со все более высоким разрешением.  
-**Translation:** 
-
-**[5647.64s] English:** Мы немного поговорим об искусственном интеллекте, о прогрессе СОРа.  
-**Translation:** 
-
-**[5654.48s] English:** Можно автоматически генерировать миры.  
-**Translation:** 
-
-**[5658.34s] English:** Возможность существовать в этих мирах довольно захватывающая.  
-**Translation:** 
-
-**[5662.66s] English:** Если только совместимая физика, квантовая механика и общая теория относительности управляют созданием этих миров.  
-**Translation:** 
-
-**[5669.40s] English:** Ага.  
-**Translation:** 
-
-**[5670.46s] English:** Кажется, что люди обязательно попробуют создать симуляцию.  
-**Translation:** 
-
-**[5674.52s] English:** Думаю, люди будут делать симуляции все лучше и лучше.  
-**Translation:** 
-
-**[5678.46s] English:** Философ Дэвид Чалмерс, как по мне, хорошо аргументировал, что мы должны относиться к тому, что происходит виртуально и в симулированных реальностях так же серьезно, как и к реальности, которую мы испытываем.  
-**Translation:** 
-
-**[5690.44s] English:** Но с практической точки зрения, люди поймут, что симулировать реалистичный мир гораздо сложнее, чем мы наивно предполагаем.  
-**Translation:** 
-
-**[5699.40s] English:** Но беспокоиться об этом мне в жизни не придется.  
-**Translation:** 
-
-**[5701.52s] English:** Да, практический переход от впечатляющего прототипа к чему-то, что всем управляет.  
-**Translation:** 
-
-**[5710.02s] English:** Похожий вопрос в отношении сильного ИИ.  
-**Translation:** 
-
-**[5714.08s] English:** Ты говорил, что мы очень далеки от сильного ИИ.  
-**Translation:** 
-
-**[5717.86s] English:** Я бы избавился от фразы «сильный ИИ».  
-**Translation:** 
-
-**[5720.52s] English:** По сути, как ты анализируешь большие языковые модели и оцениваешь, насколько они далеки от пресловутого сильного ИИ?  
-**Translation:** 
-
-**[5729.40s] English:** Мы можем говорить о разных понятиях интеллекта, и что мы не так близки, как некоторые известные люди говорят.  
-**Translation:** 
-
-**[5739.46s] English:** Что думаешь?  
-**Translation:** 
-
-**[5740.92s] English:** Я считаю, что искусственный интеллект отличается от человеческого интеллекта.  
-**Translation:** 
-
-**[5748.22s] English:** Те, кто сосредоточен на сильном ИИ, совершают ошибку.  
-**Translation:** 
-
-**[5753.92s] English:** ИИ-агенты, которые мы можем создать сейчас или в ближайшем будущем,  
-**Translation:** 
-
-**[5758.62s] English:** в чем-то могут быть более сильными.  
-**Translation:** 
-
-**[5760.00s] English:** гораздо лучшее людей а в чем-то гораздо хуже людей и вместо того чтобы сравнивать и и с  
-**Translation:** 
-
-**[5767.80s] English:** человеческим интеллектом нам следует ценить его возможности но очеловечивать его будет не  
-**Translation:** 
-
-**[5775.44s] English:** только правильнее но и поможет нам лучше использовать его для работы и защиты от  
-**Translation:** 
-
-**[5780.94s] English:** опасностей думаю что основная идея определения сильного и в том что у него чрезвычайно  
-**Translation:** 
-
-**[5791.70s] English:** впечатляющие возможности это не только описание но нет я понимаю я согласен и основной вопрос  
-**Translation:** 
-
-**[5799.32s] English:** который вызывает много споров в том насколько именно каковы ограничения больших языковых  
-**Translation:** 
-
-**[5805.88s] English:** моделей способны ли они обрести здравый смысл действительно ли они понимают  
-**Translation:** 
-
-**[5810.92s] English:** мир или это просто модные мимикрирующие устройства  
-**Translation:** 
-
-**[5814.72s] English:** что ты думаешь об ограничениях больших языковых моделей не думаю что у них принципиально много  
-**Translation:** 
-
-**[5824.38s] English:** ограничений я придерживаюсь физи скалист к возгляды на сознание осознанность принципиально  
-**Translation:** 
-
-**[5832.46s] English:** я не вижу препятствий для создания компьютера которой в мышлении познания было бы неотличим  
-**Translation:** 
-
-**[5838.82s] English:** от человека но мы не есть  
-**Translation:** 
-
-**[5840.90s] English:** это пытаемся сделать. Большая языковая модель пытается предсказывать текст. Вот что она делает.  
-**Translation:** 
-
-**[5849.10s] English:** Она использует тот факт, что люди, исходя от эволюционной биологии, приписывают намерения,  
-**Translation:** 
-
-**[5857.64s] English:** мышление и агентность вещам, которые действуют как люди. По дороге в эту студию я включил  
-**Translation:** 
-
-**[5869.46s] English:** Гугл-карты. Гугл со мной говорил. Но я захотел заехать за кофе. Я не стал делать то,  
-**Translation:** 
-
-**[5876.88s] English:** что сказали мне Гугл-карты. Я свернул на дорогу, которая  
-**Translation:** 
-
-**[5880.00s] English:** им не понравилось, и это их выбесило.  
-**Translation:** 
-
-**[5883.78s] English:** Они такие, нет, ты чего?  
-**Translation:** 
-
-**[5885.44s] English:** Ну, не дословно, но ты понимаешь, о чем я.  
-**Translation:** 
-
-**[5887.64s] English:** Они говорят, нет, поверни налево, налево, а ты едешь направо.  
-**Translation:** 
-
-**[5890.42s] English:** Человек не может не расстроиться из-за того,  
-**Translation:** 
-
-**[5893.62s] English:** что гугл-карты на него злятся.  
-**Translation:** 
-
-**[5895.96s] English:** Просто так.  
-**Translation:** 
-
-**[5897.36s] English:** Они даже не пытаются.  
-**Translation:** 
-
-**[5898.94s] English:** Это небольшая языковая модель.  
-**Translation:** 
-
-**[5901.28s] English:** Тут нет ни намека на намерение.  
-**Translation:** 
-
-**[5904.16s] English:** Но мы им его приписываем.  
-**Translation:** 
-
-**[5905.94s] English:** Философ Дэн Деннетт написал очень влиятельную работу  
-**Translation:** 
-
-**[5910.06s] English:** «Интернациональная установка» о том, что для людей, естественно,  
-**Translation:** 
-
-**[5914.66s] English:** приписывать искусственным вещам больше намерения,  
-**Translation:** 
-
-**[5919.26s] English:** чем есть на самом деле.  
-**Translation:** 
-
-**[5922.16s] English:** Это не значит, что его не может быть.  
-**Translation:** 
-
-**[5924.62s] English:** Но если размышлять рационально и трезво,  
-**Translation:** 
-
-**[5928.76s] English:** первый шаг — осознать нашу огромную предвзятость  
-**Translation:** 
-
-**[5933.16s] English:** к приписыванию глубины системам.  
-**Translation:** 
-
-**[5935.94s] English:** Которые на поверхностном уровне способны вести себя по-человечески.  
-**Translation:** 
-
-**[5941.74s] English:** А если эта предвзятость к намерению есть в данных, в человеческих данных,  
-**Translation:** 
-
-**[5946.88s] English:** в огромном количестве человеческих данных, на которых обучается ИИ,  
-**Translation:** 
-
-**[5953.14s] English:** большие языковые модели, а в будущем и видеомодели,  
-**Translation:** 
-
-**[5956.94s] English:** тебе не кажется, что намерение естественным образом станет  
-**Translation:** 
-
-**[5960.70s] English:** основой поведения этих систем?  
-**Translation:** 
-
-**[5963.82s] English:** Не думаю, что это произойдет.  
-**Translation:** 
-
-**[5965.94s] English:** Так может случиться.  
-**Translation:** 
-
-**[5967.74s] English:** Принципиально я не против.  
-**Translation:** 
-
-**[5970.52s] English:** Но опять-таки, то, как появились большие языковые модели,  
-**Translation:** 
-
-**[5975.04s] English:** и то, под что они оптимизированы,  
-**Translation:** 
-
-**[5978.36s] English:** разительно отличаются от того, как появились люди и под что они оптимизированы.  
-**Translation:** 
-
-**[5983.68s] English:** Я считаю, что мы упускаем возможность  
-**Translation:** 
-
-**[5986.44s] English:** трезво судить о том, что такое большие языковые модели,  
-**Translation:** 
-
-**[5991.74s] English:** сравнивая их с людьми.  
-**Translation:** 
-
-**[5993.94s] English:** И в положительном и в отрицательном случае,  
-**Translation:** 
-
-**[5995.94s] English:** в отрицательном смысле.  
-**Translation:** 
-
-**[5996.98s] English:** Но я думаю, возражу насчет их оптимизации.  
-**Translation:** 
-
-**[6000.00s] English:** Есть разница между тем, как они обучены, и тем, подо что оптимизированы.  
-**Translation:** 
-
-**[6003.72s] English:** Они обучаются очень тривиальным методам предсказания токенов.  
-**Translation:** 
-
-**[6008.46s] English:** Но можно описать, подо что они оптимизированы, и в чем состоит реальная задача.  
-**Translation:** 
-
-**[6013.46s] English:** Она состоит в построении модели мира, то есть в понимании мира.  
-**Translation:** 
-
-**[6017.36s] English:** И это уже ближе к тому, что делают люди.  
-**Translation:** 
-
-**[6022.06s] English:** Только в случае больших языковых моделей мы знаем, что под капотом, а в случае с людьми нет.  
-**Translation:** 
-
-**[6027.30s] English:** Они не под это оптимизированы, они мимикрируют под человека.  
-**Translation:** 
-
-**[6031.24s] English:** Это файн-тюнинг.  
-**Translation:** 
-
-**[6033.00s] English:** Само обучение оптимизировано для понимания, создания сжатой репрезентации всего, что люди создали в интернете.  
-**Translation:** 
-
-**[6041.52s] English:** Хорошо.  
-**Translation:** 
-
-**[6042.90s] English:** Цель в том, что это даст глубокое понимание мира.  
-**Translation:** 
-
-**[6049.74s] English:** Да. Поэтому я считаю, что можно задавать множество интересных вопросов.  
-**Translation:** 
-
-**[6055.50s] English:** О том, как большие языковые модели...  
-**Translation:** 
-
-**[6057.30s] English:** ...на самом деле представляют мир.  
-**Translation:** 
-
-**[6060.74s] English:** Очевидно, они очень хорошо подражают действиям человека.  
-**Translation:** 
-
-**[6065.84s] English:** Вопрос в чем, разве делать то, что делают люди, это самый простой, самый эффективный, лучший способ действовать по-человечески?  
-**Translation:** 
-
-**[6075.04s] English:** Или есть другие способы?  
-**Translation:** 
-
-**[6076.72s] English:** Полагаю, это неоднозначный вопрос.  
-**Translation:** 
-
-**[6078.90s] English:** Я недавно слушал лекции Мелани Митчелл в Институте Санта-Фе, она исследует искусственный интеллект.  
-**Translation:** 
-
-**[6083.76s] English:** Она рассказала две истории, о двух разных работах.  
-**Translation:** 
-
-**[6087.30s] English:** Сначала кто-то другой, а на другой работает ее команда.  
-**Translation:** 
-
-**[6089.86s] English:** Они моделировали реверси.  
-**Translation:** 
-
-**[6091.86s] English:** Реверси — это игра с квадратной доской, белыми и черными квадратами.  
-**Translation:** 
-
-**[6095.54s] English:** Эксперимент такой.  
-**Translation:** 
-
-**[6097.54s] English:** Они скормили нейросети, ходы, в самой символической форме.  
-**Translation:** 
-
-**[6104.54s] English:** Е5 значит, что ты кладешь фишку на Е5.  
-**Translation:** 
-
-**[6108.54s] English:** Получаются длинные цепочки из миллионов игр, настоящих раундов.  
-**Translation:** 
-
-**[6113.54s] English:** Потом в рамках работы задается вопрос.  
-**Translation:** 
-
-**[6117.30s] English:** Нейросеть научилась определять, как можно больше играть.  
-**Translation:** 
-
-**[6120.00s] English:** какой ход возможен, а какой нет.  
-**Translation:** 
-
-**[6124.82s] English:** Создала ли она в своем мозге, в своем маленьком мозге,  
-**Translation:** 
-
-**[6127.48s] English:** большой языковой модели, не уверен технически,  
-**Translation:** 
-
-**[6130.08s] English:** это большая языковая модель, в общем, нейросеть,  
-**Translation:** 
-
-**[6132.92s] English:** создала ли она репрезентацию доски и реверсии?  
-**Translation:** 
-
-**[6135.74s] English:** Как это узнать?  
-**Translation:** 
-
-**[6136.76s] English:** Они создали небольшую проверочную сеть,  
-**Translation:** 
-
-**[6139.54s] English:** интегрировали ее и спросили, что происходит прямо сейчас.  
-**Translation:** 
-
-**[6143.74s] English:** И эта проверочная сеть может спросить,  
-**Translation:** 
-
-**[6146.26s] English:** возможен ли этот ход, или эта фишка белая,  
-**Translation:** 
-
-**[6149.32s] English:** или черная,  
-**Translation:** 
-
-**[6152.14s] English:** ну или что-то, что означало бы, что нейросеть  
-**Translation:** 
-
-**[6155.56s] English:** изобрела доску реверсии.  
-**Translation:** 
-
-**[6159.00s] English:** Они обнаружили, что проверочная сеть получала правильный ответ,  
-**Translation:** 
-
-**[6163.12s] English:** не в стопроцентных случаях,  
-**Translation:** 
-
-**[6164.84s] English:** но определенно не случайным образом, это точно.  
-**Translation:** 
-
-**[6169.52s] English:** Итак, они утверждают, что есть экспериментальные доказательства,  
-**Translation:** 
-
-**[6173.32s] English:** что нейросеть создала доску реверсии,  
-**Translation:** 
-
-**[6176.24s] English:** исходя из сырых данных.  
-**Translation:** 
-
-**[6178.08s] English:** Но команда Мелани спрашивает,  
-**Translation:** 
-
-**[6180.44s] English:** вы уверены, что понимание доски реверсии  
-**Translation:** 
-
-**[6183.40s] English:** не было встроено в проверочную сеть?  
-**Translation:** 
-
-**[6190.02s] English:** Они обнаружили, что по меньшей мере половина улучшения была в нее встроена,  
-**Translation:** 
-
-**[6193.74s] English:** но не все.  
-**Translation:** 
-
-**[6195.96s] English:** А доска реверсии намного проще, чем мир.  
-**Translation:** 
-
-**[6201.44s] English:** Поэтому я считаю, что это неоднозначный вопрос.  
-**Translation:** 
-
-**[6206.38s] English:** Действительно ли  
-**Translation:** 
-
-**[6207.42s] English:** это не так?  
-**Translation:** 
-
-**[6207.94s] English:** Действительно ли это не так?  
-**Translation:** 
-
-**[6208.04s] English:** Действительно ли это не так?  
-**Translation:** 
-
-**[6208.08s] English:** Да, безусловно.  
-**Translation:** 
-
-**[6209.52s] English:** Отлично, если большие языковые модели  
-**Translation:** 
-
-**[6212.06s] English:** хороши в том, чему мы их обучаем,  
-**Translation:** 
-
-**[6216.60s] English:** потому что они построили такую же модель мира,  
-**Translation:** 
-
-**[6219.28s] English:** как у нас в голове.  
-**Translation:** 
-
-**[6221.44s] English:** Также хорошо, если они хороши,  
-**Translation:** 
-
-**[6222.98s] English:** несмотря на отсутствие такой модели.  
-**Translation:** 
-
-**[6224.94s] English:** Любой вариант прекрасен.  
-**Translation:** 
-
-**[6226.42s] English:** Но данные не отвечают на этот вопрос.  
-**Translation:** 
-
-**[6229.12s] English:** На этот счет у меня возникло  
-**Translation:** 
-
-**[6230.74s] English:** некоторое интеллектуальное смирение.  
-**Translation:** 
-
-**[6233.16s] English:** В частности, из-за нескольких этапов  
-**Translation:** 
-
-**[6235.62s] English:** развития машинного обучения  
-**Translation:** 
-
-**[6237.28s] English:** за последние годы,  
-**Translation:** 
-
-**[6238.04s] English:** за последние 20 лет.  
-**Translation:** 
-
-**[6238.78s] English:** В частности, из-за нескольких этапов  
-**Translation:** 
-
-**[6239.98s] English:** развития машинного обучения за последние 20 лет.  
-**Translation:** 
-
-**[6240.00s] English:** Я бы никогда не предсказал, что большие языковые модели, обученные таким образом и на таком количестве данных, окажутся столь впечатляющими.  
-**Translation:** 
-
-**[6250.88s] English:** И вот тут появляется интеллектуальное смирение. В ситуации с Мелани интуитивно кажется, что системе нужно обрести здравый смысл, манипулировать символами, чтобы быть очень разумной.  
-**Translation:** 
-
-**[6270.00s] English:** Но насколько я впечатлен тем, что делает ИИ, обучаясь на предсказании следующего токена, могу сказать, мое представление о природе интеллекта полностью, ну, отчасти украшено.  
-**Translation:** 
-
-**[6288.26s] English:** Это справедливо. Я тоже был... хотел бы сказать приятно, но не знаю, приятно ли или неприятно, но фактически удивлен недавним темпом развития.  
-**Translation:** 
-
-**[6299.14s] English:** Очевидно, произошло...  
-**Translation:** 
-
-**[6300.00s] English:** Я видел какой-то фазовый переход. Развитие потрясающее, совершенно удивительное. Тут я не спорю. Но это ничего не говорит мне о механизме, благодаря которому это случилось.  
-**Translation:** 
-
-**[6316.22s] English:** Создание модели, подобной человеку, очевидно, один из возможных механизмов. Но есть смирение в том, чтобы признать. Возможно, есть и другие.  
-**Translation:** 
-
-**[6324.44s] English:** Я общался с Гендиром Антропик, Дарио Амадеем. Они разрабатывают клауд.  
-**Translation:** 
-
-**[6330.00s] English:** Многие ИИ-компании сосредоточены на росте масштаба вычислений.  
-**Translation:** 
-
-**[6338.12s] English:** Если предположить, что ИИ ограничен не данными, а вычислительными мощностями,  
-**Translation:** 
-
-**[6346.38s] English:** можно улучшить систему только за счет мощностей.  
-**Translation:** 
-
-**[6351.12s] English:** Спрошу у тебя, как у физика.  
-**Translation:** 
-
-**[6354.22s] English:** Может ли физика помочь увеличить масштабы вычислений, и, возможно,  
-**Translation:** 
-
-**[6359.34s] English:** может ли физика помочь увеличить масштабы вычислений?  
-**Translation:** 
-
-**[6360.00s] English:** чтобы энергии, необходимой для этих вычислений.  
-**Translation:** 
-
-**[6362.64s] English:** Да, сто процентов, это одна из самых важных областей,  
-**Translation:** 
-
-**[6365.24s] English:** в которых может помочь физика.  
-**Translation:** 
-
-**[6368.28s] English:** Тут на самом деле очевидная ситуация,  
-**Translation:** 
-
-**[6371.66s] English:** нагревание, неэффективность,  
-**Translation:** 
-
-**[6377.66s] English:** трата ресурсов высокоуровневых компьютеров  
-**Translation:** 
-
-**[6382.76s] English:** далека от эффективности наших мозгов.  
-**Translation:** 
-
-**[6386.24s] English:** До смешного далека.  
-**Translation:** 
-
-**[6387.12s] English:** Мы пока не пытались оптимизировать это направление.  
-**Translation:** 
-
-**[6390.94s] English:** Ноутбук нагревается, когда лежит у тебя на коленях.  
-**Translation:** 
-
-**[6393.80s] English:** В этом нет необходимости.  
-**Translation:** 
-
-**[6395.42s] English:** Мозг же не нагревается.  
-**Translation:** 
-
-**[6397.18s] English:** Очевидно, физически существует возможность выполнять вычисления  
-**Translation:** 
-
-**[6402.12s] English:** с гораздо меньшими потерями.  
-**Translation:** 
-
-**[6405.10s] English:** Я с нетерпением жду, когда это случится.  
-**Translation:** 
-
-**[6409.00s] English:** Тебя захватывает перспектива ядерного синтеза?  
-**Translation:** 
-
-**[6412.14s] English:** Я осторожно оптимистичен.  
-**Translation:** 
-
-**[6413.84s] English:** Не то чтобы меня это захватывало.  
-**Translation:** 
-
-**[6417.12s] English:** Это было бы здорово, как и если мы сосредоточимся на солнечной энергии.  
-**Translation:** 
-
-**[6421.96s] English:** Илья Суцкевер, кажется, сказал, что будущее человечества  
-**Translation:** 
-
-**[6425.86s] English:** это вся Земля, покрытая солнечными панелями и дата-центрами.  
-**Translation:** 
-
-**[6432.74s] English:** Зачем тратить Землю на солнечные панели? Установите в космосе.  
-**Translation:** 
-
-**[6436.46s] English:** Можно и в космосе, да.  
-**Translation:** 
-
-**[6437.80s] English:** Космос больше, чем Земля.  
-**Translation:** 
-
-**[6440.02s] English:** Да, солнечные панели будут везде.  
-**Translation:** 
-
-**[6442.44s] English:** Да.  
-**Translation:** 
-
-**[6443.58s] English:** Мне это нравится.  
-**Translation:** 
-
-**[6444.60s] English:** У нас уже есть термоядерный реактор Солнца.  
-**Translation:** 
-
-**[6446.84s] English:** Да.  
-**Translation:** 
-
-**[6447.12s] English:** Да, это правда.  
-**Translation:** 
-
-**[6448.34s] English:** Вероятно, есть и более эффективные способы улавливать энергию.  
-**Translation:** 
-
-**[6453.20s] English:** Передача вниз.  
-**Translation:** 
-
-**[6454.44s] English:** Вот в этом сложность.  
-**Translation:** 
-
-**[6455.60s] English:** Но это инженерная задача.  
-**Translation:** 
-
-**[6457.74s] English:** Мне интересно, где можно будет разместить дата-центры, если в этом будущее.  
-**Translation:** 
-
-**[6464.66s] English:** Если ИИ будет настолько эффективным, насколько возможно,  
-**Translation:** 
-
-**[6469.24s] English:** то масштаб вычислений продолжит расти.  
-**Translation:** 
-
-**[6472.90s] English:** Но, возможно, это гонка между эффективностью и масштабированием.  
-**Translation:** 
-
-**[6476.72s] English:** Есть ограничения.  
-**Translation:** 
-
-**[6477.82s] English:** Есть определенное количество ущерба, которые могут...  
-**Translation:** 
-
-**[6480.00s] English:** Можно нанести окружающей среде, а потом это неоправданно.  
-**Translation:** 
-
-**[6484.22s] English:** Это новый вопрос.  
-**Translation:** 
-
-**[6486.12s] English:** Разочаровывает то, что мы делаем вещи все эффективнее,  
-**Translation:** 
-
-**[6491.14s] English:** но находим новые цели быстрее, чем доводим дома старые.  
-**Translation:** 
-
-**[6496.20s] English:** Так что продолжаем ухудшать ситуацию различными способами.  
-**Translation:** 
-
-**[6499.54s] English:** Ну, таков принцип человечества.  
-**Translation:** 
-
-**[6502.24s] English:** Мы мотивированы создавать технологии, но они потенциально причинят гораздо больше вреда,  
-**Translation:** 
-
-**[6507.88s] English:** включая оружие и ИИ, которые используют в качестве оружия ядерное оружие.  
-**Translation:** 
-
-**[6513.36s] English:** Я удивлен, что мы еще не уничтожили цивилизацию,  
-**Translation:** 
-
-**[6516.94s] English:** учитывая количество ядерных боеголовок в эксплуатации.  
-**Translation:** 
-
-**[6521.50s] English:** Тут я согласен.  
-**Translation:** 
-
-**[6522.48s] English:** Удивительно, что мы еще все на свете не разрушили ядерным и биологическим оружием.  
-**Translation:** 
-
-**[6529.30s] English:** Мы, конечно, сбросили две атомные бомбы на Японию,  
-**Translation:** 
-
-**[6531.90s] English:** но могло быть и хуже, если сравнивать с тем, что могло случиться,  
-**Translation:** 
-
-**[6536.04s] English:** или может случиться завтра.  
-**Translation:** 
-
-**[6537.60s] English:** Это не так.  
-**Translation:** 
-
-**[6537.88s] English:** В тему квантовых полей.  
-**Translation:** 
-
-**[6542.26s] English:** Кажется, будто в основе человеческого сердца лежит поле доброты.  
-**Translation:** 
-
-**[6549.66s] English:** Это что-то про теорию игр.  
-**Translation:** 
-
-**[6551.92s] English:** Мы создаем очень мощное оружие, способное уничтожить друг друга.  
-**Translation:** 
-
-**[6556.52s] English:** Нами управляет жадность, эго.  
-**Translation:** 
-
-**[6558.54s] English:** На геополитической арене есть жадные до власти диктаторы.  
-**Translation:** 
-
-**[6562.68s] English:** Но каким образом мы не заходим слишком далеко?  
-**Translation:** 
-
-**[6565.24s] English:** Да, говорят, прямо перед тем, как зайти слишком далеко.  
-**Translation:** 
-
-**[6568.02s] English:** Прямо перед тем, как зайти слишком далеко.  
-**Translation:** 
-
-**[6570.36s] English:** Поэтому мы и не видим инопланетян.  
-**Translation:** 
-
-**[6573.36s] English:** Я уже упоминал, что ты связан с Институтом Санта-Фе.  
-**Translation:** 
-
-**[6576.92s] English:** Мне бы очень хотелось обсудить идеи, которые там исследуют.  
-**Translation:** 
-
-**[6582.98s] English:** Конечно.  
-**Translation:** 
-
-**[6584.14s] English:** Они изучают сложность.  
-**Translation:** 
-
-**[6586.92s] English:** Что ты думаешь о возникновении сложности в простых вещах, взаимодействующих простым образом?  
-**Translation:** 
-
-**[6592.68s] English:** Это увлекательная тема.  
-**Translation:** 
-
-**[6594.28s] English:** Я поэтому в последнее время думаю об этом больше, чем о работах.  
-**Translation:** 
-
-**[6597.88s] English:** Которые мы с тобой обсуждали.  
-**Translation:** 
-
-**[6599.74s] English:** Все.  
-**Translation:** 
-
-**[6600.00s] English:** Все работы, о которых я говорил, это догадки.  
-**Translation:** 
-
-**[6604.20s] English:** Что если законы физики отличаются, так можно выявить последствия.  
-**Translation:** 
-
-**[6608.22s] English:** В какой-то момент я подумал, какова вероятность, что моя догадка верна.  
-**Translation:** 
-
-**[6611.40s] English:** Эйнштейн угадал, Стивен Вайнберг угадал.  
-**Translation:** 
-
-**[6614.12s] English:** Но случаев, когда догадки были верны, очень мало.  
-**Translation:** 
-
-**[6617.36s] English:** Тогда как с возникновением сложности в простоте,  
-**Translation:** 
-
-**[6620.88s] English:** мы еще не поняли основные принципы.  
-**Translation:** 
-
-**[6625.28s] English:** Мы все еще в предпарадигматической стадии.  
-**Translation:** 
-
-**[6628.58s] English:** Были сделаны впечатляющие открытия.  
-**Translation:** 
-
-**[6632.10s] English:** Такие люди, как Джеффри Уэст и Санта Фе и другие,  
-**Translation:** 
-
-**[6634.82s] English:** принесли нам истинное понимание важных систем.  
-**Translation:** 
-
-**[6638.36s] English:** Но все же многие из базовых принципов еще не поняты.  
-**Translation:** 
-
-**[6641.22s] English:** Я люблю искать базовые принципы, и думаю, что вполне возможно.  
-**Translation:** 
-
-**[6648.02s] English:** Давай немного конкретнее.  
-**Translation:** 
-
-**[6650.48s] English:** Это своего рода клише, но ключ в информации.  
-**Translation:** 
-
-**[6655.28s] English:** Что мы видим во всей истории Вселенной, по мере того, как она переходит  
-**Translation:** 
-
-**[6658.68s] English:** от простоты к сложности,  
-**Translation:** 
-
-**[6662.12s] English:** подсистемы Вселенной, ищущие способ для чего-то использовать информацию,  
-**Translation:** 
-
-**[6667.36s] English:** чтобы выжить, процветать или размножаться.  
-**Translation:** 
-
-**[6670.46s] English:** Это своего рода доступное нам топливо, рычаг, ресурс,  
-**Translation:** 
-
-**[6674.94s] English:** на какое-то время до теплой смерти.  
-**Translation:** 
-
-**[6677.62s] English:** Но именно этим обусловлена сложность.  
-**Translation:** 
-
-**[6680.42s] English:** А что насчет механизма?  
-**Translation:** 
-
-**[6682.16s] English:** Ты упомянул Джеффри Уэста.  
-**Translation:** 
-
-**[6683.98s] English:** Есть какие-то намеки?  
-**Translation:** 
-
-**[6685.10s] English:** Например?  
-**Translation:** 
-
-**[6685.14s] English:** И какие системы тебя интересуют с точки зрения информации?  
-**Translation:** 
-
-**[6691.08s] English:** Для меня, как для поклонника сложности,  
-**Translation:** 
-
-**[6693.50s] English:** простое наблюдение за клеточным автоматом  
-**Translation:** 
-
-**[6696.18s] English:** это увлекательный пример возникновения сложности.  
-**Translation:** 
-
-**[6702.64s] English:** Для тех слушателей и зрителей, которые не знают,  
-**Translation:** 
-
-**[6705.88s] English:** клеточные автоматы появились из представления очень простой конфигурации,  
-**Translation:** 
-
-**[6711.54s] English:** например, набора единиц и нулей,  
-**Translation:** 
-
-**[6713.62s] English:** вдоль линии,  
-**Translation:** 
-
-**[6715.38s] English:** а потом ты смотришь на динамику во времени.  
-**Translation:** 
-
-**[6719.72s] English:** Как правило,  
-**Translation:** 
-
-**[6720.00s] English:** Правило, самые простые автоматы начинаются с того, что каждый блок из трех единиц и нулей имеет правило, по которому они переходят в состояние единицы или нуля.  
-**Translation:** 
-
-**[6728.44s] English:** И можно классифицировать различные возможности, небольшое количество возможных клеточных автоматов такой формы.  
-**Translation:** 
-
-**[6735.40s] English:** Разные люди, включая Стивена Вольфрама, обнаружили, что некоторые клеточные автоматы имеют следующую особенность.  
-**Translation:** 
-
-**[6743.80s] English:** Вы начинаете с малого, например, 0-0-0-1, 0-0-0-0, и позволяете им развиваться, и они становятся невероятно сложными.  
-**Translation:** 
-
-**[6752.58s] English:** Это очень провокационно и очень интересно.  
-**Translation:** 
-
-**[6754.96s] English:** Но физика так не работает.  
-**Translation:** 
-
-**[6758.30s] English:** Как мы говорили, физика сохраняет информацию.  
-**Translation:** 
-
-**[6762.94s] English:** Можно двигаться вперед или назад.  
-**Translation:** 
-
-**[6764.74s] English:** Клеточные автоматы не такие.  
-**Translation:** 
-
-**[6766.70s] English:** Они необратимы.  
-**Translation:** 
-
-**[6768.82s] English:** Ты встраиваешь стрелу времени, у тебя есть начальная точка, а потом развитие.  
-**Translation:** 
-
-**[6773.80s] English:** Поэтому мне интересно, откуда появляется сложность в реальном мире с законами физики и обратимостью,  
-**Translation:** 
-
-**[6779.72s] English:** но при макроскопической необратимости из-за энтропии и стрелы времени.  
-**Translation:** 
-
-**[6787.10s] English:** Думаю, на этот вопрос можно ответить, но клеточные автоматы в этом не помогут.  
-**Translation:** 
-
-**[6791.48s] English:** А что в...  
-**Translation:** 
-
-**[6794.26s] English:** Как выглядит ландшафт энтропии во Вселенной?  
-**Translation:** 
-
-**[6798.70s] English:** Ну, энтропии трудно локализовать.  
-**Translation:** 
-
-**[6801.22s] English:** Это свойство систем, а не частей.  
-**Translation:** 
-
-**[6803.80s] English:** При этом мы можем дать приблизительный ответ.  
-**Translation:** 
-
-**[6809.60s] English:** Черные дыры обладают огромной энтропией.  
-**Translation:** 
-
-**[6812.68s] English:** Скажем так.  
-**Translation:** 
-
-**[6815.10s] English:** Вся наблюдаемая система обладала определенным количеством энтропии до того,  
-**Translation:** 
-
-**[6821.02s] English:** как начали формироваться звезды, планеты и черные дыры.  
-**Translation:** 
-
-**[6825.60s] English:** 10 в 88 степени, я даже не могу назвать число.  
-**Translation:** 
-
-**[6829.20s] English:** Черная дыра в центре нашей галактики обладает энтропией 10 в 90 степени.  
-**Translation:** 
-
-**[6833.80s] English:** Одна черная дыра в центре нашей галактики обладает большей энтропией,  
-**Translation:** 
-
-**[6838.06s] English:** чем еще недавно было во Вселенной.  
-**Translation:** 
-
-**[6840.00s] English:** Сегодня большая часть энтропии во Вселенной в форме черных дыр.  
-**Translation:** 
-
-**[6843.96s] English:** Во-первых, это поразительно. Во-вторых, если убрать черные дыры,  
-**Translation:** 
-
-**[6849.90s] English:** какие последуют возмущения энтропии в пространстве? Где во всем этом мы, земляне?  
-**Translation:** 
-
-**[6857.40s] English:** Вот что интересно. Если начать с изолированной, от остальной части Вселенной системы,  
-**Translation:** 
-
-**[6865.38s] English:** с низкой энтропией, то почти есть теорема, которая гласит, если энтропия очень-очень низкая,  
-**Translation:** 
-
-**[6873.42s] English:** то система выглядит довольно простой. Потому что низкая энтропия означает,  
-**Translation:** 
-
-**[6878.18s] English:** что есть немного способов переставить части, чтобы они так выглядели. А если способов немного,  
-**Translation:** 
-
-**[6884.00s] English:** ответ прост. Но есть и другая теорема, она гласит, если энтропия максимальна,  
-**Translation:** 
-
-**[6889.56s] English:** система будет выглядеть простой, потому что все размазано. Если бы в ней была интересная структура,  
-**Translation:** 
-
-**[6894.72s] English:** она была бы смазана. Но если бы в ней была интересная структура, она была бы смазана.  
-**Translation:** 
-
-**[6895.36s] English:** сложный. Энтропия в этой изолированной системе только увеличивается. Это второй закон термодинамики.  
-**Translation:** 
-
-**[6902.14s] English:** Но сложность сначала низкая, а потом растет, а потом снова снижается. Иногда люди думают,  
-**Translation:** 
-
-**[6909.86s] English:** что сложность или жизнь борется со вторым законом термодинамики, борется с ростом энтропии.  
-**Translation:** 
-
-**[6918.98s] English:** Это совершенно неверно. Мы, серферы, поймавшие волну, увеличивающиеся энтропии. Мы полагаемся  
-**Translation:** 
-
-**[6928.10s] English:** на растущую энтропию ради выживания. Это делает нас особенными. Стол механически сохраняет  
-**Translation:** 
-
-**[6935.92s] English:** стабильность. Его молекулы взаимодействуют друг с другом, и он держится. Мы с тобой не такие.  
-**Translation:** 
-
-**[6944.28s] English:** Мы с тобой динамически сохраняем стабильность, поглощая ее.  
-**Translation:** 
-
-**[6948.98s] English:** Топливо, еду, воду, воздух и так далее. Сжигаем их, увеличивая энтропию.  
-**Translation:** 
-
-**[6956.02s] English:** Мы неравновесные, квазистационарные системы.  
-**Translation:** 
-
-**[6960.00s] English:** Чтобы сохранять стабильность, мы используем топливо, которое Вселенная дает нам в виде низкоэнтропийной формы энергии.  
-**Translation:** 
-
-**[6965.90s] English:** Мне интересно, как выглядит этот механизм серфинга.  
-**Translation:** 
-
-**[6970.24s] English:** Во-первых, вопрос, возможно ли иметь такой уровень сложности, где есть очень конкретные или четко определенные пути измерения сложности?  
-**Translation:** 
-
-**[6985.50s] English:** Думаю, возможно, но не нам.  
-**Translation:** 
-
-**[6988.00s] English:** Думаю, возможно, но этого у нас пока нет.  
-**Translation:** 
-
-**[6990.56s] English:** Отчасти потому, что сложность — неоднозначное понятие.  
-**Translation:** 
-
-**[6993.94s] English:** Под грифом «сложности» идут разные идеи.  
-**Translation:** 
-
-**[6998.30s] English:** Одна из версий — это «Колмогоровская сложность».  
-**Translation:** 
-
-**[7001.74s] English:** Если у вас есть конфигурация или строка чисел, можно ли сжать ее так, чтобы получилась небольшая программа, которая это выведет?  
-**Translation:** 
-
-**[7010.40s] English:** Это «Колмогоровская сложность».  
-**Translation:** 
-
-**[7012.02s] English:** Но это сложность строки чисел.  
-**Translation:** 
-
-**[7015.68s] English:** Это не сложность задачи.  
-**Translation:** 
-
-**[7018.92s] English:** Вычислительная сложность.  
-**Translation:** 
-
-**[7020.00s] English:** Задача Комьева и Жора или факторизация больших чисел.  
-**Translation:** 
-
-**[7023.64s] English:** Это совершенно другой вопрос сложности.  
-**Translation:** 
-
-**[7027.16s] English:** Тут нет общего знаменателя.  
-**Translation:** 
-
-**[7029.96s] English:** Думаешь, возможно получить сложность физической системы?  
-**Translation:** 
-
-**[7033.64s] English:** Да, абсолютно.  
-**Translation:** 
-
-**[7034.48s] English:** Как и с энтропией.  
-**Translation:** 
-
-**[7035.98s] English:** Да.  
-**Translation:** 
-
-**[7037.30s] English:** Новая тема для статьи Шона Кэрролла.  
-**Translation:** 
-
-**[7040.10s] English:** Мы над разными темами работаем.  
-**Translation:** 
-
-**[7042.80s] English:** Сейчас с одним из студентов рассматриваем простую вещь — генезис сложности.  
-**Translation:** 
-
-**[7048.00s] English:** Как возникает сложность?  
-**Translation:** 
-
-**[7050.00s] English:** Если Вселенная просто движется от низкой энтропии к высокой?  
-**Translation:** 
-
-**[7053.08s] English:** Классное название.  
-**Translation:** 
-
-**[7054.38s] English:** Да. Название мне нравится.  
-**Translation:** 
-
-**[7055.98s] English:** Осталось работу написать.  
-**Translation:** 
-
-**[7058.38s] English:** Хоть розой назови ее, хоть нет.  
-**Translation:** 
-
-**[7061.02s] English:** В каком контексте тебя интересует появление сложности?  
-**Translation:** 
-
-**[7069.82s] English:** Это происходит поэтапно.  
-**Translation:** 
-
-**[7072.00s] English:** Если отталкиваться от, опять же, «я физик»,  
-**Translation:** 
-
-**[7076.76s] English:** биологи, изучающие эволюцию, говорят, что сложность растет.  
-**Translation:** 
-
-**[7080.00s] English:** сложность генома, сложности нашей физиологии. Но они принимают как должный тот факт, что жизнь уже  
-**Translation:** 
-
-**[7088.64s] English:** существовала, а энтропия увеличивается. Я хочу вернуться к истокам. Вселенная на ранних стадиях  
-**Translation:** 
-
-**[7095.90s] English:** была простой, с низкой энтропией. Энтропия увеличивается со временем, и Вселенная меняется,  
-**Translation:** 
-
-**[7100.64s] English:** и становится сложнее. Но это неоспоримое утверждение имеет разные значения, потому что  
-**Translation:** 
-
-**[7107.42s] English:** сложность имеет разные значения. Самую базовую, первоначальную версию сложности можно назвать  
-**Translation:** 
-
-**[7114.38s] English:** конфигурационной сложностью. Как алмагуровская сложность. Сколько информации требуется,  
-**Translation:** 
-
-**[7121.58s] English:** чтобы определить конфигурацию системы. Есть еще один шаг, где подсистемы Вселенной начинают  
-**Translation:** 
-
-**[7129.50s] English:** сжигать топливо. Во многом планета и звезда не так уж разнятся по конфигурации сложности,  
-**Translation:** 
-
-**[7137.00s] English:** да?  
-**Translation:** 
-
-**[7137.42s] English:** Обе сферы, с высокой плотностью в центре и более низкой на периферии. Но есть фундаментальное  
-**Translation:** 
-
-**[7143.72s] English:** отличие. Звезда существует, пока у нее есть топливо. Потом она превращается в коричневого или белого  
-**Translation:** 
-
-**[7149.30s] English:** карлика. Звезда на главной последовательности является неравномерной системой, но более или  
-**Translation:** 
-
-**[7156.44s] English:** менее статичной. Если я роняю кружку с кофе, то в процессе падения она не только неравновесна,  
-**Translation:** 
-
-**[7162.32s] English:** она постоянно изменяется. Специфическая система выглядит  
-**Translation:** 
-
-**[7167.00s] English:** как макроскопически статичной, как звезда, но под капотом она бешено сжигает топливо,  
-**Translation:** 
-
-**[7175.06s] English:** чтобы поддерживать стабильность. По мере формирования звезд, возникает другой вид сложности.  
-**Translation:** 
-
-**[7183.26s] English:** Есть еще один вид сложности, грубо говоря, превозникновения жизни. Тут подсистемы  
-**Translation:** 
-
-**[7189.86s] English:** Вселенной начинают собирать и использовать информацию.  
-**Translation:** 
-
-**[7194.26s] English:** И это очень важный фактор, Cocco.  
-**Translation:** 
-
-**[7196.84s] English:** И что это означает? Чтобы бизнес умел бы жить без его graduallyицения?  
-**Translation:** 
-
-**[7196.96s] English:** И что это означает? Чтобы бизнес умел бы жить без его graduallyицения? И что это означает?  
-**Translation:** 
-
-**[7197.00s] English:** И, возможно, после этого есть еще много стадий.  
-**Translation:** 
-
-**[7200.00s] English:** Одна из самых очевидных для меня, мы говорили о теории симуляции, и у тебя и у меня в голове работают симуляции, они просто не очень хороши, но мы гипотетически представляем будущее.  
-**Translation:** 
-
-**[7212.28s] English:** Бактерии так не делают.  
-**Translation:** 
-
-**[7213.80s] English:** Это вид обработки информации и форма сложности.  
-**Translation:** 
-
-**[7216.86s] English:** Я бы хотел понять все эти стадии и как они связаны друг с другом.  
-**Translation:** 
-
-**[7220.36s] English:** Ага, воображение.  
-**Translation:** 
-
-**[7221.80s] English:** Да, ментальное путешествие во времени.  
-**Translation:** 
-
-**[7223.60s] English:** Да, когда я представляю миры, в моей голове появляются их сжатые образы, но они добираются до их сути.  
-**Translation:** 
-
-**[7233.60s] English:** Может получится создавать подобные симуляции в сжатом виде с помощью искусственных вычислительных устройств?  
-**Translation:** 
-
-**[7241.16s] English:** Можно сказать, что людей от других видов на Земле отличает способность представлять гипотетическое будущее, противоречащее фактам.  
-**Translation:** 
-
-**[7253.60s] English:** Да, это одна из главных особенностей.  
-**Translation:** 
-
-**[7258.86s] English:** Не знаю.  
-**Translation:** 
-
-**[7259.46s] English:** У каждого есть любимая особенность, поэтому тут все неоднозначны.  
-**Translation:** 
-
-**[7263.04s] English:** Мы обсуждали это с Адамом Балли на подкасте.  
-**Translation:** 
-
-**[7266.50s] English:** Все медленно развивалось.  
-**Translation:** 
-
-**[7267.66s] English:** У меня был другой подкаст, прости, что все упоминаю свои подкасты.  
-**Translation:** 
-
-**[7270.52s] English:** Но у Малкольма Маккайвера, инженера из Северо-Западного университета, есть теория, что одна из главных стадий эволюции, когда рыба впервые вышла на сушу.  
-**Translation:** 
-
-**[7280.40s] English:** Безусловно, это важная стадия, но особенно потому, что произошел когнитив.  
-**Translation:** 
-
-**[7283.60s] English:** Когнитивный сдвиг.  
-**Translation:** 
-
-**[7285.24s] English:** Потому что длина световой волны под водой короче.  
-**Translation:** 
-
-**[7293.32s] English:** Рыба не способна видеть на километры вперед, только на метры.  
-**Translation:** 
-
-**[7296.84s] English:** И движешься ты со скоростью метров в секунду.  
-**Translation:** 
-
-**[7299.06s] English:** Так что вся эволюционная оптимизация предполагает, что нужно принимать все решения менее чем за секунду.  
-**Translation:** 
-
-**[7306.34s] English:** Если видишь что-то новое, нужно быстро принять решение, что делать.  
-**Translation:** 
-
-**[7310.86s] English:** Как только выходишь на сушу,  
-**Translation:** 
-
-**[7312.98s] English:** зрение противоречит.  
-**Translation:** 
-
-**[7313.60s] English:** Это практически бесконечно.  
-**Translation:** 
-
-**[7314.98s] English:** Можно видеть звезды на небе.  
-**Translation:** 
-
-**[7317.78s] English:** Когда ты видишь то, что вдали, тебе открывается...  
-**Translation:** 
-
-**[7320.00s] English:** совершенно новый режим мышления. Вместо того, чтобы видеть что-то и сразу принимать решение,  
-**Translation:** 
-
-**[7326.76s] English:** можно поразмышлять, что если я поступлю так, а что если иначе, а если я сделаю что-то новое.  
-**Translation:** 
-
-**[7333.38s] English:** Так и в итоге родилось воображение. Ты критикуешь панпсихизм?  
-**Translation:** 
-
-**[7338.72s] English:** Да. Ты заметил? Да. Можешь привести аргументы за и против панпсихизма?  
-**Translation:** 
-
-**[7345.56s] English:** Панпсихизм — это представление о том, что сознание пронизывает всю материю. Возможно,  
-**Translation:** 
-
-**[7351.92s] English:** это фундаментальная сила или физика ткани вселенной.  
-**Translation:** 
-
-**[7358.42s] English:** Панпсихизм. Мысль везде, сознание везде. Даже забавно, как тебя раздражает  
-**Translation:** 
-
-**[7365.94s] English:** это представление. Мне как твоему поклоннику занимателен за этим наблюдать. У тебя выходили  
-**Translation:** 
-
-**[7373.32s] English:** отличные выпуски подкаста со старшков.umd animal — это им funktioniert.  
-**Translation:** Vocabulary: funktioniert: 起作用
-
-**[7375.14s] English:** То, не позволяя их снижать, отчаивалы их. Получается, что бедность Bonnie,  
-**Translation:** 
-
-**[7375.32s] English:** модель переносила прочные силы, составляющие танк. Они задержали детей, Hurdy Bunched작,  
-**Translation:** Vocabulary: bonnie: 波尼
-
-**[7375.38s] English:** и динамически вакцинировали слушателей. Патриоторыness.img Angels.ru.  
-**Translation:** 
-
-**[7375.56s] English:** панпсихизма, и ты прямо не стеснялся. У меня был Дэвид Чалмерс, один из величайших  
-**Translation:** 
-
-**[7381.08s] English:** философов. Он интересуется панпсихизмом. Ничего не утверждает, но определенно готов  
-**Translation:** 
-
-**[7387.36s] English:** поиграть с этой идеей. У меня был Филипп Гофф, прекрасный человек, но приверженец панпсихизма.  
-**Translation:** 
-
-**[7393.80s] English:** Более того, он практически в одиночку вернул интерес к панпсихизму в обществе.  
-**Translation:** 
-
-**[7399.98s] English:** Аргумент пользы такого представления в том, что есть что-то принципиально неуловимое в  
-**Translation:** 
-
-**[7407.48s] English:** восприятии сознания с помощью физического поведения атомов и молекул. Сторонник панпсихизма говорит,  
-**Translation:** 
-
-**[7416.00s] English:** может быть однажды, благодаря достижениям нейронауки, вы точно скажете, что происходит  
-**Translation:** 
-
-**[7423.06s] English:** в мозге и как преобразуется в мысли, речь и действие. Но вы не разумеете,  
-**Translation:** 
-
-**[7429.96s] English:** Расскажите, каково это быть мной.  
-**Translation:** 
-
-**[7434.10s] English:** Не можете сказать, что я испытываю,  
-**Translation:** 
-
-**[7437.40s] English:** когда я вижу что-то красное или прозрачное.  
-**Translation:** 
-
-**[7440.00s] English:** что-то сладкое вы объясните какие нейроны возбуждаются но не скажете что я испытываю  
-**Translation:** 
-
-**[7445.82s] English:** этот внутренний субъективный опыт от первого лица физика уловить не может это конечно старая  
-**Translation:** 
-
-**[7455.60s] English:** аргументация но вывод тогда следующий чтобы это объяснить мне нужно что-то чего нет физики так  
-**Translation:** 
-
-**[7465.28s] English:** что я просто назову это разумом мы не знаем что это такое назовем это разумом и он должен быть  
-**Translation:** 
-
-**[7470.84s] English:** отделен от физики и тут есть два пути если ты во все это веришь можно сказать я буду дуалистом я  
-**Translation:** 
-
-**[7478.42s] English:** буду верить что есть материи разум они друг от друга отделены и как-то взаимодействует  
-**Translation:** 
-
-**[7483.48s] English:** или это сложновато и сомнительно с точки зрения физики поэтому я буду верить в разум но поставлю  
-**Translation:** 
-
-**[7490.36s] English:** его над материй я буду верить что он первичен и что-то  
-**Translation:** 
-
-**[7495.28s] English:** сознания фундаментальный аспект реальности, а все  
-**Translation:** 
-
-**[7498.18s] English:** остальное, включая материю и физику, происходит из  
-**Translation:** 
-
-**[7501.50s] English:** него.  
-**Translation:** 
-
-**[7502.66s] English:** Это так же просто, как если бы первичной была физика.  
-**Translation:** 
-
-**[7507.52s] English:** А такой сторонник физикализма, как я, говорит, мне несложно  
-**Translation:** 
-
-**[7512.62s] English:** объяснить, каково это, быть тобой или что ты испытываешь,  
-**Translation:** 
-
-**[7516.22s] English:** когда видишь красное.  
-**Translation:** 
-
-**[7517.92s] English:** Это определенный способ говорить об атомах и нейронах,  
-**Translation:** 
-
-**[7522.76s] English:** из которых ты состоишь.  
-**Translation:** 
-
-**[7524.96s] English:** Твердость или коричневый цвет этого стола — это  
-**Translation:** 
-
-**[7527.50s] English:** слова, которые мы приписываем определенным конфигурациям,  
-**Translation:** 
-
-**[7531.82s] English:** лежащим в основе обычной физической материи.  
-**Translation:** 
-
-**[7535.58s] English:** Точно так же, как печаль, краснота или что-то еще,  
-**Translation:** 
-
-**[7538.48s] English:** это лишь слова, которые мы используем, чтобы описать,  
-**Translation:** 
-
-**[7541.44s] English:** что ты делаешь.  
-**Translation:** 
-
-**[7542.96s] English:** Что касается сознания в целом, я первый скажу, что  
-**Translation:** 
-
-**[7547.58s] English:** не претендую на особое понимание того, как оно  
-**Translation:** 
-
-**[7551.52s] English:** работает.  
-**Translation:** 
-
-**[7552.76s] English:** Но я не вижу причин менять законы физики, чтобы это  
-**Translation:** 
-
-**[7557.08s] English:** объяснить.  
-**Translation:** 
-
-**[7558.16s] English:** Если не нужно менять законы физики,  
-**Translation:** 
-
-**[7560.00s] English:** откуда оно появляется? Может, сознание и иллюзия, как сокращение, которое люди используют для  
-**Translation:** 
-
-**[7567.38s] English:** описания определенных чувств, возникающих при взаимодействии с миром? Или на каком-то этапе  
-**Translation:** 
-
-**[7572.92s] English:** произошел некий большой скачок? Я почти никогда не говорю иллюзия. Иллюзия это,  
-**Translation:** 
-
-**[7578.90s] English:** когда ты думаешь, что видишь то, чего на самом деле нет. Оазис, пустыня, это иллюзия. Причина,  
-**Translation:** 
-
-**[7586.28s] English:** следственная связь такова. Если подойти к тому месту, где должен находиться оазис, ты поймешь  
-**Translation:** 
-
-**[7591.90s] English:** свою ошибку. Это отличается от эмерджентных и нефундаментальных, но при этом реальных явлений.  
-**Translation:** 
-
-**[7597.30s] English:** Этот стол реальный, хоть я и знаю, что он сделан из атомов. Это не делает его менее реальным. Я  
-**Translation:** 
-
-**[7603.08s] English:** считаю, что сознание, свободная воля и тому прочее, также реальны, как столы и стулья.  
-**Translation:** 
-
-**[7607.68s] English:** Жажда становится следствием оазиса в пустыне. Это приводит к неверным выводам о мире.  
-**Translation:** 
-
-**[7616.28s] English:** Да, но когда мы видим, как то, что мы представляли, становится реальным, тут тоже своего рода причина и следствие.  
-**Translation:** 
-
-**[7627.36s] English:** Но вера в оазис уменьшает, а не увеличивает твое понимание мира в том смысле, который дает тебе  
-**Translation:** 
-
-**[7634.62s] English:** возможность им управлять и влиять на него. Но сознанием ни со столом так не работает.  
-**Translation:** 
-
-**[7640.02s] English:** Ты не думаешь, что представив вещь, можно увеличить вероятность ее существования?  
-**Translation:** 
-
-**[7646.28s] English:** Нет. Если только ты ее не построишь или не создаешь.  
-**Translation:** 
-
-**[7651.94s] English:** Нет, я про это и говорю. Как братья Райт представили, что люди могут летать?  
-**Translation:** 
-
-**[7656.38s] English:** Но люди летают.  
-**Translation:** 
-
-**[7659.24s] English:** С точки зрения контрафактических сценариев будущего, конечно, воображение критически важно.  
-**Translation:** 
-
-**[7664.74s] English:** Но это не иллюзия. Это просто воображение.  
-**Translation:** 
-
-**[7667.78s] English:** А, возможность будущего в контексте реальности?  
-**Translation:** 
-
-**[7673.86s] English:** Просто будущее – это концепция?  
-**Translation:** 
-
-**[7676.28s] English:** Так что можно...  
-**Translation:** 
-
-**[7680.00s] English:** Время — это концепция, и с ним можно поиграть.  
-**Translation:** 
-
-**[7684.40s] English:** А вот реальность...  
-**Translation:** 
-
-**[7687.78s] English:** То есть для тебя...  
-**Translation:** 
-
-**[7691.46s] English:** Люблю задавать этот вопрос.  
-**Translation:** 
-
-**[7693.70s] English:** К примеру, Дональд Хоффман считает, что все наши разговоры о пространстве-времени — это иллюзия.  
-**Translation:** 
-
-**[7704.36s] English:** Можешь ли ты это обосновать?  
-**Translation:** 
-
-**[7705.96s] English:** Есть аргументы за и против реальности.  
-**Translation:** 
-
-**[7713.80s] English:** Он пишет, что известные нам законы физики о пространстве-времени — это прекурсор чего-то более глубокого, чего мы не понимаем.  
-**Translation:** 
-
-**[7721.92s] English:** И мы обманываем себя, придумывая этот мир.  
-**Translation:** 
-
-**[7724.92s] English:** Думаю, что отчасти эта идея достойна уважения, а отчасти совершенно бессмысленна.  
-**Translation:** 
-
-**[7730.66s] English:** Я даже не буду пытаться обосновать бессмысленную часть.  
-**Translation:** 
-
-**[7733.64s] English:** Реальная часть, да?  
-**Translation:** 
-
-**[7735.96s] English:** Что про структурный реализм.  
-**Translation:** 
-
-**[7738.76s] English:** Мы не понимаем мир на глубоком, фундаментальном уровне.  
-**Translation:** 
-
-**[7745.54s] English:** Представим себя на месте людей, живших 200 лет назад.  
-**Translation:** 
-
-**[7749.96s] English:** Они не знали о квантовой механике, они не знали о ВТО.  
-**Translation:** 
-
-**[7753.46s] English:** Это не значит, что они ошибались в своем понимании Вселенной.  
-**Translation:** 
-
-**[7757.40s] English:** У них были законы Ньютона, они легко могли предсказать время восхода Солнца.  
-**Translation:** 
-
-**[7763.50s] English:** По мере развития научного прогресса,  
-**Translation:** 
-
-**[7765.44s] English:** изменились слова, которые мы использовали  
-**Translation:** 
-
-**[7768.14s] English:** для фундаментального описания  
-**Translation:** 
-
-**[7771.94s] English:** предсказания восхода Солнца.  
-**Translation:** 
-
-**[7775.94s] English:** Потому что теперь у нас есть кривизна пространства-времени и прочее.  
-**Translation:** 
-
-**[7778.94s] English:** 200 лет назад у нас не было этих слов.  
-**Translation:** 
-
-**[7780.94s] English:** Но предсказания тоже.  
-**Translation:** 
-
-**[7782.44s] English:** Почему?  
-**Translation:** 
-
-**[7783.44s] English:** Потому что  
-**Translation:** 
-
-**[7785.44s] English:** потому что вне зависимости от фундаментальной онтологии,  
-**Translation:** 
-
-**[7788.94s] English:** предсказание указывало на что-то истинное  
-**Translation:** 
-
-**[7792.94s] English:** в нашем понимании реальности.  
-**Translation:** 
-
-**[7795.44s] English:** Называть это иллюзией просто неверно.  
-**Translation:** 
-
-**[7798.94s] English:** Может, мы не знаем.  
-**Translation:** 
-
-**[7800.00s] English:** Мы не знаем лучший исчерпывающий способ что-то выразить.  
-**Translation:** 
-
-**[7804.16s] English:** Но истина одна.  
-**Translation:** 
-
-**[7806.16s] English:** Такая же истина, как, например, истинная вера в Бога?  
-**Translation:** 
-
-**[7810.24s] English:** Большую часть истории человечества люди верили в Бога или в нескольких богов.  
-**Translation:** 
-
-**[7818.22s] English:** Вера казалась им истинным объяснением устройства мира.  
-**Translation:** 
-
-**[7825.56s] English:** Вера, некоторых глубоких вопросов о самой жизни человека и о том, почему случаются те или иные вещи.  
-**Translation:** 
-
-**[7834.32s] English:** Хорошее было обоснование.  
-**Translation:** 
-
-**[7836.34s] English:** По-твоему, это не иллюзия?  
-**Translation:** 
-
-**[7840.44s] English:** Нет, это была иллюзия.  
-**Translation:** 
-
-**[7842.10s] English:** Думаю, тогда это была вполне разумная иллюзия.  
-**Translation:** 
-
-**[7844.62s] English:** Есть иллюзии и существенные утверждения о мире, которые выходят за рамки предсказаний, которые мы можем выдвинуть и подтвердить.  
-**Translation:** 
-
-**[7853.00s] English:** Позже они оказались неверными.  
-**Translation:** 
-
-**[7854.86s] English:** И существование Бога – одно из них.  
-**Translation:** 
-
-**[7858.32s] English:** Если бы люди тогда отказались от веры в Бога и заменили ее механической картиной мира, они бы так же хорошо его понимали.  
-**Translation:** 
-
-**[7867.78s] English:** Опять же, они столько всего не понимали, что для них было вполне разумно верить.  
-**Translation:** 
-
-**[7873.78s] English:** Это не значит, что они были глупы.  
-**Translation:** 
-
-**[7876.56s] English:** Но по мере изучения Вселенной, некоторые вещи остаются, а некоторые заменяются.  
-**Translation:** 
-
-**[7883.54s] English:** Ты веришь?  
-**Translation:** 
-
-**[7884.86s] English:** Ты веришь в механистическую концепцию Вселенной?  
-**Translation:** 
-
-**[7890.04s] English:** Ты натуралист, как ты описал поэтический натуралист.  
-**Translation:** 
-
-**[7894.48s] English:** Верно.  
-**Translation:** 
-
-**[7896.10s] English:** Что значит поэтический? Что такое натурализм и что такое поэтический натурализм?  
-**Translation:** 
-
-**[7900.68s] English:** Натурализм – это идея, что все существующее – это естественный мир.  
-**Translation:** 
-
-**[7903.88s] English:** Сверхъестественного мира нет.  
-**Translation:** 
-
-**[7906.02s] English:** Можно поспорить о том, что это значит, но, как по мне, спорить нужно о значении слова «сверхъестественный», а не «естественный».  
-**Translation:** 
-
-**[7914.86s] English:** Существенный мир – это мир, который мы изучаем, занимаясь наукой.  
-**Translation:** 
-
-**[7918.46s] English:** Поэтическая часть – это про то, что мы должны изучать науку.  
-**Translation:** 
-
-**[7920.00s] English:** что не стоит слишком принципиально относиться к тому, что такое естественный мир.  
-**Translation:** 
-
-**[7926.74s] English:** Мы перешли от Ньютоновского пространства-времени к Эйнштейновскому пространству-времени.  
-**Translation:** 
-
-**[7933.44s] English:** Но что-то осталось неизменным.  
-**Translation:** 
-
-**[7935.82s] English:** Появилась другая история о мире, которую мы можем рассказать.  
-**Translation:** 
-
-**[7939.44s] English:** В этой истории, в Ньютоновском мире, если запускаете ракету на Луну, вы не используете ОТО.  
-**Translation:** 
-
-**[7945.12s] English:** Вы используете Ньютоновскую механику, и все прекрасно работает.  
-**Translation:** 
-
-**[7948.26s] English:** Нет. Поэтический аспект истории в том, что есть много способов говорить о естественном мире.  
-**Translation:** 
-
-**[7954.42s] English:** И пока эти способы связаны с чем-то реальным, с причинно-следственными связями работы мира,  
-**Translation:** 
-
-**[7960.32s] English:** мы приписываем им некую реальность и истину.  
-**Translation:** 
-
-**[7964.46s] English:** То есть поэтический аспект, можно сказать, более открыт к дурацким околонаучным вопросам?  
-**Translation:** 
-
-**[7972.44s] English:** Он в две смены работает, отсюда и недопонимание.  
-**Translation:** 
-
-**[7975.36s] English:** Его более очевидная, достойная задача сказать,  
-**Translation:** 
-
-**[7978.26s] English:** что столы реальны.  
-**Translation:** 
-
-**[7981.00s] English:** Даже если вы знаете, что эта волновая функция квантовой теории поля — столы реальны.  
-**Translation:** 
-
-**[7987.10s] English:** Это лишь еще один способ говорить о реальности.  
-**Translation:** 
-
-**[7992.20s] English:** Другая его задача в том, что когда говорим о Вселенной,  
-**Translation:** 
-
-**[7996.20s] English:** мы выходим за рамки описания и переходим к нормативным, предписывающим и оценочным суждениям.  
-**Translation:** 
-
-**[8003.88s] English:** Эта картина красивая, та нет.  
-**Translation:** 
-
-**[8006.58s] English:** Так поступать правильно, а так...  
-**Translation:** 
-
-**[8008.26s] English:** Это тоже способы говорить о Вселенной.  
-**Translation:** 
-
-**[8012.90s] English:** Они не обусловлены феноменами или нашими наблюдениями.  
-**Translation:** 
-
-**[8017.50s] English:** Их нельзя экспериментально провернуть, но они имеют место быть.  
-**Translation:** 
-
-**[8022.34s] English:** Может, они не универсальны, субъективны, но они не случайны,  
-**Translation:** 
-
-**[8026.54s] English:** и они играют свою роль в описании того, как работает мир.  
-**Translation:** 
-
-**[8030.24s] English:** По-твоему, нельзя провести эксперименты,  
-**Translation:** 
-
-**[8033.04s] English:** чтобы исследовать области морали и даже смысла?  
-**Translation:** 
-
-**[8038.26s] English:** Они просто...  
-**Translation:** 
-
-**[8040.00s] English:** субъективны да они человеческие личные может просто потому что у нас нет у науки еще нет  
-**Translation:** 
-
-**[8050.02s] English:** инструментов рассматривающих человеческий опыт нет ни в этом дело под эстетикой или моралью мы  
-**Translation:** 
-
-**[8058.18s] English:** понимаем категории приписываем свойства вещам физическом мире в этой категоризации в том как  
-**Translation:** 
-
-**[8066.00s] English:** мы это делаем всегда будет некая субъективности это нормально чем быстрее мы это признаем тем  
-**Translation:** 
-
-**[8070.82s] English:** лучше но если мы полностью поймем работу человеческого разума разве это не включено  
-**Translation:** 
-
-**[8078.78s] English:** нет это объяснит наличие неких моральных убеждений неких людей но не подтвердит их  
-**Translation:** 
-
-**[8086.08s] English:** правильность или неправильность возможно включить эффект наблюдателя в общую теорию  
-**Translation:** 
-
-**[8091.02s] English:** относительности где наблюдатель человеческий разум  
-**Translation:** 
-
-**[8096.00s] English:** конечно что человеческий разум изменяет реальность также как гравитация изменяет  
-**Translation:** 
-
-**[8104.28s] English:** пространство-время и проработать теорию как на самом деле происходят эти изменения лекс это  
-**Translation:** 
-
-**[8115.28s] English:** дурацкий вопрос извини но это возможно ответ да думаю мы являемся частью физического естественно  
-**Translation:** 
-
-**[8126.00s] English:** мира физикализм такое же хорошее определение как натурализм возможно даже более точно но она  
-**Translation:** 
-
-**[8133.72s] English:** несколько отталкивающие поэтому я хочу использовать более привлекательное определение есть ли пределы у  
-**Translation:** 
-
-**[8141.42s] English:** науки да мы один из них обсудили наука не скажет что правильно и что нет наука нужна чтобы  
-**Translation:** 
-
-**[8148.32s] English:** реализовать идеи о верном и неверном если ты опираешься на неправильное представление о том как  
-**Translation:** 
-
-**[8156.00s] English:** ты можешь думать что все делаешь верно на самом деле нет но  
-**Translation:** 
-
-**[8160.00s] English:** Вся наука в мире не скажет тебе, что правильно, а что нет.  
-**Translation:** 
-
-**[8165.36s] English:** Диктаторы и люди у власти иногда используют авторитет науки,  
-**Translation:** 
-
-**[8169.96s] English:** чтобы утверждать, что правильно, а что нет.  
-**Translation:** 
-
-**[8173.50s] English:** Изучение нацистской науки очень интересно.  
-**Translation:** 
-
-**[8176.22s] English:** Да.  
-**Translation:** 
-
-**[8176.92s] English:** Но тут инструментальный подход.  
-**Translation:** 
-
-**[8178.58s] English:** Сначала нужно определить цели.  
-**Translation:** 
-
-**[8180.96s] English:** А потом наука поможет тебе их достичь.  
-**Translation:** 
-
-**[8183.10s] English:** Даже если твои цели ужасны, наука поможет тебе их достичь.  
-**Translation:** 
-
-**[8188.10s] English:** Наука рада стараться.  
-**Translation:** 
-
-**[8190.00s] English:** Позволь спросить, как ты управляешь хаосом в разных аспектах жизни?  
-**Translation:** 
-
-**[8193.94s] English:** Ты рассказал о подходе к написанию научных работ и популярных книг.  
-**Translation:** 
-
-**[8199.40s] English:** Но как ты находишь на это время?  
-**Translation:** 
-
-**[8201.62s] English:** Как выглядит день из жизни Шона Кэрролла?  
-**Translation:** 
-
-**[8203.74s] English:** Честно, не знаю даже.  
-**Translation:** 
-
-**[8205.72s] English:** У тебя нет такого, что ты по утрам выбиваешь себе два часа?  
-**Translation:** 
-
-**[8211.34s] English:** Нет, это ужасно.  
-**Translation:** 
-
-**[8212.60s] English:** Моя стратегия — игнорировать помехи и электронные письма,  
-**Translation:** 
-
-**[8215.90s] English:** но каждый день в разное время.  
-**Translation:** 
-
-**[8218.24s] English:** Бывают дни, а бывают недели.  
-**Translation:** 
-
-**[8220.00s] English:** Недели, когда я вообще не пишу.  
-**Translation:** 
-
-**[8223.96s] English:** Правда? Ты ведь чрезвычайно плодовит.  
-**Translation:** 
-
-**[8226.32s] English:** И все равно есть дни, когда ты не пишешь, и пишешь на следующий день?  
-**Translation:** 
-
-**[8231.70s] English:** Ага.  
-**Translation:** 
-
-**[8232.48s] English:** Ого, это же редкость.  
-**Translation:** 
-
-**[8234.84s] English:** Многие плодовитые писатели...  
-**Translation:** 
-
-**[8237.16s] English:** Наверное.  
-**Translation:** 
-
-**[8238.36s] English:** ...выделяют пару часов, потому что иначе никак.  
-**Translation:** 
-
-**[8241.62s] English:** Да.  
-**Translation:** 
-
-**[8242.24s] English:** Да. Нет, я понимаю, да.  
-**Translation:** 
-
-**[8247.14s] English:** Просто...  
-**Translation:** 
-
-**[8247.98s] English:** У всех есть свои слабости.  
-**Translation:** 
-
-**[8250.88s] English:** Я так не могу, так что приходится разбираться на ходу.  
-**Translation:** 
-
-**[8257.72s] English:** А как выглядит сам процесс написания книги?  
-**Translation:** 
-
-**[8261.28s] English:** Ты сидишь за компьютером?  
-**Translation:** 
-
-**[8262.88s] English:** Да, за компьютером.  
-**Translation:** 
-
-**[8264.32s] English:** Мой способ...  
-**Translation:** 
-
-**[8265.08s] English:** Моя жена Дженнифер — научный писатель, но что интересно,  
-**Translation:** 
-
-**[8268.22s] English:** у нас совершенно разные методы.  
-**Translation:** 
-
-**[8272.04s] English:** Она о чем-то думает, а потом пишет в свободном стиле.  
-**Translation:** 
-
-**[8274.76s] English:** Садится за компьютер и пишет.  
-**Translation:** 
-
-**[8276.66s] English:** Я думаю, так, так и так.  
-**Translation:** 
-
-**[8277.92s] English:** А потом сильно...  
-**Translation:** 
-
-**[8280.00s] English:** Сокращает, редактирует, переписывает, и так пока не получится окончательный текст.  
-**Translation:** 
-
-**[8285.72s] English:** А я просто сижу молча, долго думаю, а потом пишу почти окончательный черновик.  
-**Translation:** 
-
-**[8290.48s] English:** Как-то так.  
-**Translation:** 
-
-**[8291.72s] English:** Я иногда набрасываю какой-то план, но большая часть происходит у меня в голове.  
-**Translation:** 
-
-**[8298.30s] English:** Так было с величайшими идеями во Вселенной, кванты и пространство, время и движение?  
-**Translation:** 
-
-**[8303.46s] English:** Да, кванты и поля. Посвящена квантовой теории поля и физики частиц.  
-**Translation:** 
-
-**[8308.28s] English:** Она выйдет в мае.  
-**Translation:** 
-
-**[8310.80s] English:** В ней я рассказываю то, что не рассказывает ни одна другая книга.  
-**Translation:** 
-
-**[8316.58s] English:** Надеюсь, это того стоит.  
-**Translation:** 
-
-**[8318.00s] English:** Но это сложно, в ней много уравнений.  
-**Translation:** 
-
-**[8319.80s] English:** Ты тоже сделал в первой книге.  
-**Translation:** 
-
-**[8322.64s] English:** Интересно, что ты сделал уравнение центральной частью книги.  
-**Translation:** 
-
-**[8328.38s] English:** Верно, там много уравнений.  
-**Translation:** 
-
-**[8330.52s] English:** Во второй книге я пошел еще дальше, чем в первой.  
-**Translation:** 
-
-**[8337.10s] English:** В ней много классного, и она еще больше.  
-**Translation:** 
-
-**[8340.00s] English:** Взрывает мозг.  
-**Translation:** 
-
-**[8342.28s] English:** Это сложно.  
-**Translation:** 
-
-**[8343.56s] English:** Сейчас я пишу третью книгу.  
-**Translation:** 
-
-**[8346.16s] English:** Она называется «Сложность и возникновение».  
-**Translation:** 
-
-**[8348.90s] English:** Ого.  
-**Translation:** 
-
-**[8349.80s] English:** Это последняя часть трилогии.  
-**Translation:** 
-
-**[8351.98s] English:** Потрясающе.  
-**Translation:** 
-
-**[8353.54s] English:** В ней должно быть много передовых идей.  
-**Translation:** 
-
-**[8357.38s] English:** Но я не пытаюсь быть на передовой.  
-**Translation:** 
-
-**[8360.86s] English:** Тут я не пытаюсь спекулировать.  
-**Translation:** 
-
-**[8364.08s] English:** В других книгах я свободно выдвигал предположения.  
-**Translation:** 
-
-**[8366.92s] English:** А цель этих книг — говорить о том, что будет актуально.  
-**Translation:** 
-
-**[8370.00s] English:** И это будет актуально и через 500 лет.  
-**Translation:** 
-
-**[8371.94s] English:** Мы знаем кое-что о сложности и возникновении.  
-**Translation:** 
-
-**[8374.50s] English:** Я хочу сосредоточиться на этом.  
-**Translation:** 
-
-**[8377.16s] English:** И, кстати, тут есть над чем спекулировать, но я не буду притворяться, что знаю правильно.  
-**Translation:** 
-
-**[8384.86s] English:** Интересно, что ты как-то нашел баланс между строгостью математики и доступностью.  
-**Translation:** 
-
-**[8389.92s] English:** Я стараюсь.  
-**Translation:** 
-
-**[8390.82s] English:** Три книги величайших идей — это эксперимент.  
-**Translation:** 
-
-**[8396.42s] English:** Аудитория у них уже, чем у других.  
-**Translation:** 
-
-**[8399.16s] English:** Но это не так.  
-**Translation:** 
-
-**[8399.88s] English:** Это не так.  
-**Translation:** 
-
-**[8399.90s] English:** Это не так.  
-**Translation:** 
-
-**[8399.92s] English:** Это не так.  
-**Translation:** 
-
-**[8399.96s] English:** Это не так.  
-**Translation:** 
-
-**[8400.00s] English:** Они ей должны понравиться.  
-**Translation:** 
-
-**[8403.22s] English:** Передать не могу, насколько 19-летней я был счастлив получить эти книги.  
-**Translation:** 
-
-**[8407.32s] English:** Да, если смотреть с исторической точки зрения, трилогия будет особенной.  
-**Translation:** 
-
-**[8413.24s] English:** С Ластелином колец сработало, может и у меня получится.  
-**Translation:** 
-
-**[8417.16s] English:** Ты и Толкин.  
-**Translation:** 
-
-**[8417.98s] English:** Ага.  
-**Translation:** 
-
-**[8418.48s] English:** Просто стили и темы разные.  
-**Translation:** 
-
-**[8420.86s] English:** А реальность одна.  
-**Translation:** 
-
-**[8423.80s] English:** Мы говорили о подкасте Mindscape.  
-**Translation:** Vocabulary: mindscape: 心灵景观
-
-**[8426.92s] English:** Я его обожаю.  
-**Translation:** 
+**[8452.70s] English:** The podcast is more than five years old, almost six already.  
+**Translation:** Vocabulary: approaches: 方法
 
-**[8427.90s] English:** Ты берешь интервью у экспертов из самых разных областей,  
+**[8456.78s] English:** At first, I...  
 **Translation:** 
 
-**[8434.02s] English:** и у меня есть вопросы.  
-**Translation:** 
-
-**[8435.70s] English:** Как ты готовишься, чтобы получилась хорошая беседа?  
-**Translation:** 
-
-**[8440.54s] English:** Как ты готовишься, чтобы при этом удовлетворить собственное любопытство?  
-**Translation:** 
-
-**[8446.36s] English:** Отличный вопрос. Это нелегко.  
-**Translation:** 
-
-**[8449.24s] English:** Я годами менял подходы.  
-**Translation:** 
-
-**[8452.70s] English:** Подкасту больше пяти лет, почти шесть уже.  
-**Translation:** 
-
-**[8456.78s] English:** Поначалу я...  
-**Translation:** 
-
-**[8457.90s] English:** Слишком тщательно готовился.  
-**Translation:** 
+**[8457.90s] English:** Too meticulously prepared.  
+**Translation:** Vocabulary: meticulously: 细致地
 
-**[8460.46s] English:** У меня был четкий план разговора.  
+**[8460.46s] English:** I had a clear plan for the conversation.  
 **Translation:** 
 
-**[8463.54s] English:** Многие из тех, с кем я общаюсь, академики или мыслители,  
-**Translation:** 
+**[8463.54s] English:** Many of those I interact with are academics or thinkers,  
+**Translation:** Vocabulary: thinkers: 思想家
 
-**[8467.46s] English:** они пишут книги, им есть что рассказать.  
+**[8467.46s] English:** They write books because they have something to share.  
 **Translation:** 
 
-**[8469.90s] English:** Я мог бы просто сказать, прочитайте мне лекцию на час.  
+**[8469.90s] English:** I could just say, give me a lecture for an hour.  
 **Translation:** 
 
-**[8475.54s] English:** Ошибкой было ожидать, что это будет за лекция,  
+**[8475.54s] English:** It was a mistake to expect what kind of lecture this would be,  
 **Translation:** 
 
-**[8478.26s] English:** и задавать наводящие вопросы, чтобы на нее навести.  
+**[8478.26s] English:** And ask leading questions to steer her in the direction you want.  
 **Translation:** 
 
-**[8482.40s] English:** Сейчас я готовлю ключевые моменты и вопросы,  
+**[8482.40s] English:** Now I am preparing key points and questions,  
 **Translation:** 
 
-**[8485.00s] English:** которые меня интересуют.  
+**[8485.00s] English:** Which ones interest me.  
 **Translation:** 
 
-**[8487.90s] English:** Я начинаю с наброска, с плана,  
+**[8487.90s] English:** I start with a sketch, a plan,  
 **Translation:** 
 
-**[8493.50s] English:** а потом стараюсь, чтобы получилась обычная беседа.  
-**Translation:** 
+**[8493.50s] English:** Then I try to make it a normal conversation.  
+**Translation:** Vocabulary: sketch: 草图
 
-**[8497.50s] English:** Помогает то, что это не моя основная работа.  
+**[8497.50s] English:** It helps that this is not my main job.  
 **Translation:** 
 
-**[8501.50s] English:** Я строго ограничиваю себя.  
+**[8501.50s] English:** I strictly limit myself.  
 **Translation:** 
 
-**[8504.50s] English:** В среднем выделяю на подкаст один день.  
+**[8504.50s] English:** On average, I spend one day on the podcast.  
 **Translation:** 
 
-**[8508.50s] English:** Хотя некоторые занимают больше.  
+**[8508.50s] English:** Although some take up more time.  
 **Translation:** 
 
-**[8510.50s] English:** Это включая подготовку, приглашение гостя, запись, редактуру, публикацию.  
+**[8510.50s] English:** This includes preparation, inviting a guest, recording, editing, and publication.  
 **Translation:** 
 
-**[8516.50s] English:** Мне приходится быть очень неэффективным.  
-**Translation:** 
+**[8516.50s] English:** I have to be extremely inefficient.  
+**Translation:** Vocabulary: editing: 剪辑; inefficient: 低效
 
-**[8520.00s] English:** Ты ставишь ограничения, в рамках которых рождается креативность.  
+**[8520.00s] English:** You set limits within which creativity is born.  
 **Translation:** 
 
-**[8523.78s] English:** Точно. Верно.  
+**[8523.78s] English:** Exactly. Correct.  
 **Translation:** 
 
-**[8526.42s] English:** Если я беру интервью у физико-теоретика, я могу и так зайти.  
+**[8526.42s] English:** If I were to interview a theoretical physicist, I might as well do it in person.  
 **Translation:** 
 
-**[8531.26s] English:** А если у экономиста или историка, мне нужно проделать много работы.  
-**Translation:** 
+**[8531.26s] English:** If an economist or historian is involved, I need to do a lot of work.  
+**Translation:** Vocabulary: economist: 经济学家; physicist: 物理学家
 
-**[8536.12s] English:** Бывает, что попадаешь в кроличью нору, которая не служит иной цели, кроме удовлетворения любопытства,  
+**[8536.12s] English:** It happens that you find yourself in a rabbit hole that serves no purpose other than satisfying curiosity.  
 **Translation:** 
 
-**[8543.64s] English:** но потенциально расширяет диапазон знаний, которые могут помочь в работе, исследованиях и писательстве.  
-**Translation:** 
+**[8543.64s] English:** But potentially expands the range of knowledge that can help in work, research, and writing.  
+**Translation:** Vocabulary: expands: 扩展
 
-**[8551.02s] English:** Да, и в том, и в другом.  
+**[8551.02s] English:** Yes, and in both.  
 **Translation:** 
 
-**[8552.90s] English:** С некоторыми так много тем, что не знаешь, с чего начать и чем закончить.  
+**[8552.90s] English:** With some of them, there are so many topics that you don't know where to start or where to end.  
 **Translation:** 
 
-**[8560.08s] English:** А у других есть послания.  
+**[8560.08s] English:** Other people have messages too.  
 **Translation:** 
 
-**[8562.58s] English:** За годы работы я отметил корреляцию с возрастом.  
-**Translation:** 
+**[8562.58s] English:** Over the years of work, I have noted a correlation with age.  
+**Translation:** Vocabulary: correlation: 关联性
 
-**[8568.52s] English:** Есть потрясающие люди.  
+**[8568.52s] English:** There are amazing people.  
 **Translation:** 
 
-**[8570.10s] English:** Я очень стараюсь приглашать на подкаст людей.  
+**[8570.10s] English:** I very much try to invite people on the podcast.  
 **Translation:** 
 
-**[8573.64s] English:** Разных возрастов.  
+**[8573.64s] English:** Different ages.  
 **Translation:** 
 
-**[8577.10s] English:** И дай им бог здоровья, но у самых блестящих молодых людей мало опыта выходить за рамки их исследований.  
+**[8577.10s] English:** And may God give them health, but the most brilliant young men have little experience in stepping outside their areas of research.  
 **Translation:** 
 
-**[8586.00s] English:** У них меньше экспертизы в области в целом, и тем более возможности ее обсудить.  
+**[8586.00s] English:** They have less expertise in the area as a whole, and even less opportunity to discuss it.  
 **Translation:** 
 
-**[8591.26s] English:** А у некоторых более взрослых людей просто шаблонный ответ, и это скучно.  
-**Translation:** 
+**[8591.26s] English:** For some more mature people, it's just a template response, and that's boring.  
+**Translation:** Vocabulary: mature: 成熟; template: 模板
 
-**[8596.20s] English:** Хочется что-то среднее, идеального человека с достаточно широким кругозором, чтобы выходить за рамки своих собственных...  
+**[8596.20s] English:** We want something in between, an ideal person with a broad enough horizon to step outside of their own...  
 **Translation:** 
 
-**[8603.64s] English:** Работ.  
+**[8603.64s] English:** Work.  
 **Translation:** 
 
-**[8605.50s] English:** И не тертого калача, который дает заготовленные ответы.  
+**[8605.50s] English:** And not of the stale pancake that offers ready-made answers.  
 **Translation:** 
 
-**[8608.92s] English:** Мне кажется, здесь есть связь с метафорой энтропии и сложности.  
+**[8608.92s] English:** It seems there is a connection here with the metaphor of entropy and complexity.  
 **Translation:** 
 
-**[8613.90s] English:** Да, край хаоса.  
+**[8613.90s] English:** Yes, edge of chaos.  
 **Translation:** 
 
-**[8616.14s] English:** Ты проводишь сессии вопросов и ответов.  
+**[8616.14s] English:** You conduct sessions of questions and answers.  
 **Translation:** 
 
-**[8619.44s] English:** Людям стоит подписаться на твой Патреон.  
+**[8619.44s] English:** People should subscribe to your Patreon.  
 **Translation:** 
 
-**[8621.90s] English:** Можно задать вопрос Шону Кэрроллу.  
-**Translation:** 
+**[8621.90s] English:** Can we ask a question of Shawn Carroll?  
+**Translation:** Vocabulary: patreon: 赞助; subscribe: 订阅
 
-**[8623.82s] English:** Несколько часов ты увлекательно разбираешь интересные вопросы.  
+**[8623.82s] English:** Several hours you entertainingly dissect interesting questions.  
 **Translation:** 
 
-**[8632.94s] English:** Можешь?  
-**Translation:** 
+**[8632.94s] English:** Can you?  
+**Translation:** Vocabulary: dissect: 详细分析; entertainingly: 有趣地
 
-**[8633.64s] English:** Рассказать о том, как ты находишь на них ответы.  
+**[8633.64s] English:** Tell me how you find answers to them.  
 **Translation:** 
 
-**[8637.16s] English:** Опять отличные вопросы. Это тоже со временем развивалось.  
+**[8637.16s] English:** Again, great questions. This also developed over time.  
 **Translation:** 
 
-**[8640.00s] English:** Поначалу выпуски вопросов были только для подписчиков  
+**[8640.00s] English:** At first, the releases of questions were only for subscribers.  
 **Translation:** 
 
-**[8645.20s] English:** на Патреон, они могли слушать и задавать вопросы.  
-**Translation:** 
+**[8645.20s] English:** On Patreon, they could listen and ask questions.  
+**Translation:** Vocabulary: subscribers: 付费会员
 
-**[8650.76s] English:** Потом я спросил подписчиков, хотят ли они, чтобы я выпускал  
+**[8650.76s] English:** Then I asked my subscribers if they wanted me to release  
 **Translation:** 
 
-**[8654.46s] English:** их публично.  
+**[8654.46s] English:** Their publically.  
 **Translation:** 
 
-**[8655.74s] English:** Подавляющее большинство проголосовало «за», и я  
+**[8655.74s] English:** The overwhelming majority voted "yes," and I  
 **Translation:** 
 
-**[8658.12s] English:** это сделал.  
+**[8658.12s] English:** This is what he did.  
 **Translation:** 
 
-**[8659.12s] English:** Подписчики на Патреон задают вопросы, а слушать  
+**[8659.12s] English:** Subscribers on Patreon ask questions, and to listen,...  
 **Translation:** 
 
-**[8661.26s] English:** могу все.  
+**[8661.26s] English:** I can do everything.  
 **Translation:** 
 
-**[8662.70s] English:** Раньше пытался ответить на каждый вопрос, но теперь  
+**[8662.70s] English:** Previously, I tried to answer every question, but now  
 **Translation:** 
 
-**[8665.22s] English:** их слишком много.  
+**[8665.22s] English:** There are too many of them.  
 **Translation:** 
 
-**[8667.62s] English:** Мне приходится выбирать, и это чревато рисками.  
+**[8667.62s] English:** I have to choose, and that comes with risks.  
 **Translation:** 
 
-**[8671.06s] English:** Я выбираю такие вопросы, на которые у меня будут  
+**[8671.06s] English:** I choose such questions for which I will have  
 **Translation:** 
 
-**[8674.92s] English:** интересные ответы.  
+**[8674.92s] English:** Interesting answers.  
 **Translation:** 
 
-**[8676.56s] English:** Если вопрос о специальной теории относительности,  
-**Translation:** 
+**[8676.56s] English:** If the question is about special relativity,  
+**Translation:** Vocabulary: relativity: 相对论
 
-**[8682.70s] English:** который уже сто раз задавали, я не буду на него отвечать.  
+**[8682.70s] English:** Which has already been asked a hundred times, I will not be answering it.  
 **Translation:** 
 
-**[8686.64s] English:** Можно просто погуглить.  
+**[8686.64s] English:** You can just Google it.  
 **Translation:** 
 
-**[8688.38s] English:** Есть очевидные попытки задать интересный вопрос,  
+**[8688.38s] English:** There are obvious attempts to ask an interesting question,  
 **Translation:** 
 
-**[8696.24s] English:** на который у меня,  
+**[8696.24s] English:** For which I have,  
 **Translation:** 
 
-**[8697.60s] English:** Честно говоря, нет ответа.  
+**[8697.60s] English:** Honestly, there is no answer.  
 **Translation:** 
 
-**[8700.30s] English:** Типа, я читал эту книгу, что вы о ней думаете?  
+**[8700.30s] English:** Type, I read this book. What do you think of it?  
 **Translation:** 
 
-**[8702.84s] English:** Но я его не читал, так что тут помочь не могу.  
+**[8702.84s] English:** But I haven't read it, so I can't help here.  
 **Translation:** 
 
-**[8706.54s] English:** Ваш любимый цвет?  
+**[8706.54s] English:** What is your favorite color?  
 **Translation:** 
 
-**[8708.00s] English:** Я могу ответить, но это неинтересно.  
+**[8708.00s] English:** I can answer, but it's not interesting.  
 **Translation:** 
 
-**[8710.70s] English:** Я стараюсь собирать разные, не только вопросы о физике,  
+**[8710.70s] English:** I try to collect various questions, not just those about physics,  
 **Translation:** 
 
-**[8716.54s] English:** не только о философии.  
+**[8716.54s] English:** Not only about philosophy.  
 **Translation:** 
 
-**[8719.74s] English:** Я буду говорить о идеях, фильмах, политике или религии, если люди хотят.  
+**[8719.74s] English:** I will talk about ideas, films, politics or religion if people want.  
 **Translation:** 
 
-**[8723.66s] English:** Я все предлагаю спросить у меня совета по отношениям, но не спрашивают.  
+**[8723.66s] English:** I suggest asking for relationship advice from me, but nobody asks.  
 **Translation:** 
 
-**[8726.98s] English:** Да, я таких не слышал.  
+**[8726.98s] English:** Yes, I haven't heard of such things.  
 **Translation:** 
 
-**[8730.30s] English:** Я готов.  
+**[8730.30s] English:** I am ready.  
 **Translation:** 
 
-**[8731.60s] English:** Я немного неохотно даю советы, потому что не люблю это делать,  
-**Translation:** 
+**[8731.60s] English:** I reluctantly give advice because I don't like doing it.  
+**Translation:** Vocabulary: reluctantly: 勉强
 
-**[8736.26s] English:** но рад пообщаться на эти темы.  
+**[8736.26s] English:** But I'm happy to discuss these topics.  
 **Translation:** 
 
-**[8739.46s] English:** Я говорю по несколько часов и стараюсь говорить то, чего я не говорил,  
+**[8739.46s] English:** I speak for several hours and try to say things I haven't said before.  
 **Translation:** 
 
-**[8744.66s] English:** чтобы это было интересно, динамично.  
+**[8744.66s] English:** To make it interesting and dynamic.  
 **Translation:** 
 
-**[8748.82s] English:** Не понравился вопрос, вот следующий.  
+**[8748.82s] English:** The question didn't please me, so here's the next one.  
 **Translation:** 
 
-**[8750.48s] English:** Какие были самые сложные вопросы, помнишь такие?  
+**[8750.48s] English:** What were the most difficult questions, do you remember any?  
 **Translation:** 
 
-**[8753.88s] English:** На что тебе было трудно отвечать?  
+**[8753.88s] English:** What was difficult for you to answer?  
 **Translation:** 
 
-**[8756.98s] English:** Редко, но иногда случается, что люди задают глубокие вопросы,  
+**[8756.98s] English:** Rarely, but occasionally, it happens that people ask deep questions,  
 **Translation:** 
 
-**[8760.00s] English:** и философские вопросы, где я в таком ключе об этом не думал, и я стараюсь это признать. Часто  
-**Translation:** 
+**[8760.00s] English:** And philosophical questions, where I haven't thought about it in such a way, and I try to acknowledge that. Often,  
+**Translation:** Vocabulary: philosophical: 哲学的
 
-**[8771.06s] English:** бывает наоборот, мол, ты явно запутался, я постараюсь рассказать о вопросе, который следовало  
+**[8771.06s] English:** Bывает наоборот: мол, ты явно запутался; я постараюсь рассказать о вопросе, который следовало.  
 **Translation:** 
 
-**[8778.78s] English:** бы задать. Я такое люблю, почему этот вопрос неверный, это здорово. Да. Отлично. Что до  
+**[8778.78s] English:** To ask. I love why this question is incorrect; that's great. Yes. Perfect. As for  
 **Translation:** 
 
-**[8785.26s] English:** сложных вопросов, не знаю. Я не часто отвечаю на личные вопросы. Самое личное, на что я отвечаю,  
+**[8785.26s] English:** I don't know about complex questions. I don't often answer personal questions. The most personal thing I respond to is...  
 **Translation:** 
 
-**[8792.52s] English:** это «как тебе Балтимор?» Это я могу обсудить. Или «как дела у твоих кошек?» С радостью говорю о  
-**Translation:** 
+**[8792.52s] English:** This is "how's Baltimore treating you?" I can discuss that. Or "how are your cats doing?" I'm happy to talk about it.  
+**Translation:** Vocabulary: baltimore: 巴尔的摩; treating: 对待
 
-**[8798.16s] English:** кошках в бесчисленных подробностях, но на очень личные темы не говорю. Ты даже политики касаешься.  
+**[8798.16s] English:** I talk in great detail about cats, but I don't go into very personal topics. You even touch on politics.  
 **Translation:** 
 
-**[8804.76s] English:** С удовольствием говорю о политике. Я стараюсь разграничивать, где мое профессиональное мнение,  
+**[8804.76s] English:** I gladly discuss politics. I try to distinguish where my professional opinion ends and personal views begin.  
 **Translation:** 
 
-**[8811.72s] English:** где просто размышления, мой уровень уверенности в теме,  
+**[8811.72s] English:** Where simply reflections, my level of confidence in the topic,  
 **Translation:** 
 
-**[8815.14s] English:** и так далее. Я не знаю, как это сделать. Я не знаю, как это сделать. Я не знаю, как это сделать.  
-**Translation:** 
+**[8815.14s] English:** And so on. I don't know how to do it. I don't know how to do it. I don't know how to do it.  
+**Translation:** Vocabulary: reflections: 反思
 
-**[8815.24s] English:** Где можно не согласиться, а где, если вы не согласны, вы не правы. С этим тоже можно не согласиться.  
+**[8815.24s] English:** Where you can disagree is where, if you are not in agreement, you are wrong. You can also disagree with that.  
 **Translation:** 
 
-**[8822.86s] English:** Но я готов рисковать. Готов говорить. Я не знаю, но предполагаю, что так. Я недавно выложил именно  
+**[8822.86s] English:** But I'm willing to risk it. I'm ready to speak up. I don't know, but I suspect that's the case. I just recently posted exactly  
 **Translation:** 
 
-**[8832.70s] English:** такое соло-подкаст. Интересно, что некоторые говорят «это здорово», а другая куча людей говорит «почему  
+**[8832.70s] English:** Such a solo podcast. Interestingly, while some say "it's great," another bunch of people ask "why?  
 **Translation:** 
 
-**[8839.84s] English:** ты говоришь о том, о чем не являешься экспертом мирового класса». Мне нравится баланс между  
+**[8839.84s] English:** You are talking about something you are not a world-class expert in," I like the balance between  
 **Translation:** 
 
-**[8845.12s] English:** скромностью и твердым мнением по любому поводу. Его трудно соблюсти. Полагаю, нужно широко изучать  
+**[8845.12s] English:** With modesty and firm opinion on any matter. He is hard to sway. I think it requires wide study.  
 **Translation:** 
 
-**[8856.16s] English:** разные темы, жонглировать идеями, менять свое мнение и все такое.  
+**[8856.16s] English:** Different topics, juggling ideas, changing my mind and all that.  
 **Translation:** 
 
-**[8860.54s] English:** Да, интересно, что когда люди реагируют, говоря «ты ведешь себя высокомерно». 99,9% случаев это  
+**[8860.54s] English:** Yes, interestingly, when people react by saying "you are behaving arrogantly," 99.9% of the time this is  
 **Translation:** 
 
-**[8873.78s] English:** значит, что они просто не согласны. Они просто не согласны.  
-**Translation:** 
+**[8873.78s] English:** It means that they simply don't agree. They simply don't agree.  
+**Translation:** Vocabulary: arrogantly: 傲慢地; behaving: 表现
 
-**[8875.00s] English:** Вот что они имеют в виду. Да.  
+**[8875.00s] English:** Here's what they mean. Yes.  
 **Translation:** 
 
-**[8880.00s] English:** Просто пример.  
+**[8880.00s] English:** Just an example.  
 **Translation:** 
 
-**[8881.90s] English:** Люди обвиняют атеистов в высокомерии, а я отвечаю.  
+**[8881.90s] English:** People accuse atheists of arrogance, and I respond.  
 **Translation:** 
 
-**[8885.46s] English:** Ты думаешь, что Бог существует и любит тебя,  
-**Translation:** 
+**[8885.46s] English:** You think that God exists and loves you,  
+**Translation:** Vocabulary: arrogance: 自以为是; atheists: 无神论者
 
-**[8887.74s] English:** и ты говоришь мне, что я высокомерный?  
+**[8887.74s] English:** And you're telling me that I'm arrogant?  
 **Translation:** 
 
-**[8890.46s] English:** К чему я?  
-**Translation:** 
+**[8890.46s] English:** What am I saying?  
+**Translation:** Vocabulary: arrogant: 自高自大
 
-**[8894.48s] English:** Вот совет.  
+**[8894.48s] English:** Here's a tip.  
 **Translation:** 
 
-**[8896.34s] English:** Когда вы с кем-то не согласны,  
+**[8896.34s] English:** When you are not in agreement with someone,  
 **Translation:** 
 
-**[8898.50s] English:** старайтесь уточнить предмет расхождения,  
+**[8898.50s] English:** Try to clarify the subject of the discrepancy.  
 **Translation:** 
 
-**[8900.64s] English:** не включайте психоаналитика.  
-**Translation:** 
+**[8900.64s] English:** Do not include the psychoanalyst.  
+**Translation:** Vocabulary: clarify: 澄清; discrepancy: 差异
 
-**[8903.02s] English:** Постарайтесь сказать, ты говоришь это из-за этого.  
+**[8903.02s] English:** Try saying, you're saying this because of this.  
 **Translation:** 
 
-**[8906.04s] English:** Может, так и есть, может, ты прав.  
+**[8906.04s] English:** May be that's the case, may be you're right.  
 **Translation:** 
 
-**[8907.44s] English:** Но если у вас есть реальный ответ,  
+**[8907.44s] English:** But if you have a real answer,  
 **Translation:** 
 
-**[8910.60s] English:** это намного интереснее.  
+**[8910.60s] English:** This is much more interesting.  
 **Translation:** 
 
-**[8913.44s] English:** Почему людям сложно сказать или подразумевать,  
+**[8913.44s] English:** Why do people find it difficult to say or imply,  
 **Translation:** 
 
-**[8916.86s] English:** я уважаю тебя, ты мне нравишься,  
+**[8916.86s] English:** I respect you, and you please me.  
 **Translation:** 
 
-**[8920.92s] English:** но тут я не согласен, и вот почему.  
+**[8920.92s] English:** But here I disagree, and here's why.  
 **Translation:** 
 
-**[8925.62s] English:** Почему они сразу переходят к «ты идиот»  
+**[8925.62s] English:** Why do they immediately resort to "you idiot"?  
 **Translation:** 
 
-**[8929.72s] English:** или «ты эгоист»,  
+**[8929.72s] English:** or 'you are an egoist',  
 **Translation:** 
 
-**[8931.44s] English:** «ты эгоист»,  
-**Translation:** 
+**[8931.44s] English:** You are an egoist,  
+**Translation:** Vocabulary: egoist: 自我中心的人
 
-**[8935.90s] English:** «ты конченый»,  
+**[8935.90s] English:** You are a complete loser,  
 **Translation:** 
 
-**[8937.44s] English:** «ты запутался»,  
-**Translation:** 
+**[8937.44s] English:** Vous avez perdu votre fil,  
+**Translation:** Vocabulary: perdu: 丢失
 
-**[8938.44s] English:** «ты наивен»,  
+**[8938.44s] English:** You are naive,  
 **Translation:** 
 
-**[8939.44s] English:** что угодно.  
-**Translation:** 
+**[8939.44s] English:** Whatever.  
+**Translation:** Vocabulary: naive: 幼稚
 
-**[8941.44s] English:** Кроме, я уважаю тебя как человека, исследующего загадочный мир вокруг,  
+**[8941.44s] English:** Besides, I respect you as a person exploring the mysterious world around us.  
 **Translation:** 
 
-**[8946.44s] English:** и я не согласен.  
+**[8946.44s] English:** I am not同意. (Note: The last word "不同意" is Chinese, which seems out of place in an English sentence. If this was a mistake and should remain Russian, it would be: "I и я не согласен.")  
 **Translation:** 
 
-**[8948.44s] English:** Я еще усложню вопрос.  
+**[8948.44s] English:** I'll make the question even more complex.  
 **Translation:** 
 
-**[8950.44s] English:** Есть люди, которых я не уважаю и не люблю.  
+**[8950.44s] English:** There are people whom I do not respect or love.  
 **Translation:** 
 
-**[8954.44s] English:** Я однажды читал пост, он, кажется, назывался «сетка диспута».  
+**[8954.44s] English:** I once read a post that seemed to be called "Disputing Grid.  
 **Translation:** 
 
-**[8959.44s] English:** В нем была сетка два на два.  
+**[8959.44s] English:** In it was a two by two grid.  
 **Translation:** 
 
-**[8962.44s] English:** Согласен ли я с тобой или нет?  
+**[8962.44s] English:** Are you agreeing with me or not?  
 **Translation:** 
 
-**[8964.44s] English:** Уважаю ли я тебя или нет?  
+**[8964.44s] English:** Do I respect you or not?  
 **Translation:** 
 
-**[8966.44s] English:** И все четыре квадранта заполнены.  
+**[8966.44s] English:** And all four quadrants are filled.  
 **Translation:** 
 
-**[8973.44s] English:** Есть люди, которые мне нравятся,  
-**Translation:** 
+**[8973.44s] English:** There are people who I like,  
+**Translation:** Vocabulary: quadrants: 四个象限
 
-**[8976.44s] English:** но я с ними не согласен.  
+**[8976.44s] English:** But I disagree with them.  
 **Translation:** 
 
-**[8978.44s] English:** Есть люди, которые со мной согласны, но некоторых я не уважаю.  
+**[8978.44s] English:** There are people who agree with me, but I don't respect some of them.  
 **Translation:** 
 
-**[8982.44s] English:** Это всеми любимый квадрант  
+**[8982.44s] English:** This is the universally beloved quadrant.  
 **Translation:** 
 
-**[8984.44s] English:** стыдных союзников.  
-**Translation:** 
+**[8984.44s] English:** Stylish Allies.  
+**Translation:** Vocabulary: allies: 盟友; quadrant: 象限; universally: 普遍地
 
-**[8987.44s] English:** Здорово.  
+**[8987.44s] English:** Great.  
 **Translation:** 
 
-**[8988.44s] English:** Нужно быть честным относительно того, в каком квадранте люди.  
+**[8988.44s] English:** We need to be honest about which quadrant people are in.  
 **Translation:** 
 
-**[8991.44s] English:** Но если ты хочешь продвинуться в диалоге вперед, забудь о том, нравится тебе человек или нет.  
+**[8991.44s] English:** But if you want to move the conversation forward, forget about whether you like the person or not.  
 **Translation:** 
 
-**[8995.44s] English:** Объясни разногласия, объясни согласие.  
-**Translation:** 
+**[8995.44s] English:** Explain the disagreements, explain the agreements.  
+**Translation:** Vocabulary: disagreements: 分歧
 
-**[8997.44s] English:** Но если ты хочешь продвинуться в диалоге вперед, забудь о том, нравится тебе человек или нет.  
+**[8997.44s] English:** But if you want to move the conversation forward, forget about whether you like the person or not.  
 **Translation:** 
 
-**[8999.44s] English:** Объясни разногласия, объясни согласие.  
+**[8999.44s] English:** Explain the disagreements, explain the agreements.  
 **Translation:** 
 
-**[9000.00s] English:** Но ты абсолютно прав, я согласен.  
+**[9000.00s] English:** But you are absolutely right, I agree.  
 **Translation:** 
 
-**[9001.98s] English:** Мы как общество не умеем не соглашаться и переходим к оскорблениям.  
-**Translation:** 
+**[9001.98s] English:** We as a society don't know how to disagree and we resort to insults.  
+**Translation:** Vocabulary: insults: 侮辱
 
-**[9006.28s] English:** Да, на каком-то более глубоком уровне я уважаю и люблю человечность в другом человеке.  
+**[9006.28s] English:** Yes, on some deeper level, I respect and love the humanity in another person.  
 **Translation:** 
 
-**[9019.08s] English:** Да.  
+**[9019.08s] English:** Yes.  
 **Translation:** 
 
-**[9020.50s] English:** Ты сказал, что ОТО — самая красивая теория.  
+**[9020.50s] English:** You said that OTO is the most beautiful theory.  
 **Translation:** 
 
-**[9026.80s] English:** Пока что.  
-**Translation:** 
+**[9026.80s] English:** Preliminary results are in.  
+**Translation:** Vocabulary: preliminary: 初步的
 
-**[9028.08s] English:** Что в ней красивого?  
+**[9028.08s] English:** What is beautiful in her?  
 **Translation:** 
 
-**[9030.00s] English:** Скажем так, для преподавания нет более приятной темы, чем общая теория относительности.  
-**Translation:** 
+**[9030.00s] English:** Let's say that for teaching, there is no more pleasant topic than general relativity.  
+**Translation:** Vocabulary: relativity: 相对论
 
-**[9039.60s] English:** Она начинается с очень ясных, точно сформулированных предложений и объясняет их.  
+**[9039.60s] English:** She begins with very clear, precisely formulated sentences and explains them.  
 **Translation:** 
 
-**[9048.58s] English:** Я читал лекцию по книге «Величайшая идея».  
-**Translation:** 
+**[9048.58s] English:** I read a lecture on the book "The Greatest Idea.  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[9053.24s] English:** Она есть онлайн.  
+**[9053.24s] English:** She is online.  
 **Translation:** 
 
-**[9055.20s] English:** Повторять я, скорее всего, ее не буду.  
+**[9055.20s] English:** I doubt I will repeat it.  
 **Translation:** 
 
-**[9058.34s] English:** Не знаю математики или физики.  
+**[9058.34s] English:** I don't know mathematics or physics.  
 **Translation:** 
 
-**[9060.00s] English:** Через час вы уже знаете уравнение Эйнштейна для ОТО.  
-**Translation:** 
+**[9060.00s] English:** Through an hour, you already know Einstein's equation for general relativity.  
+**Translation:** Vocabulary: equation: 广义相对论方程
 
-**[9064.60s] English:** И дело в том, что уравнение Эйнштейна намного умнее самого Эйнштейна.  
+**[9064.60s] English:** The equation is much smarter than Einstein himself.  
 **Translation:** 
 
-**[9071.56s] English:** Он ведь не знал о Большом Взрыве, не знал о гравитационных волнах, о черных дырах, но его уравнение знал.  
-**Translation:** 
+**[9071.56s] English:** He didn't know about the Big Bang, gravitational waves, or black holes, but his equation did.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; gravitational: 引力的
 
-**[9079.58s] English:** И это чудесный аспект науки в целом.  
+**[9079.58s] English:** And this is a wonderful aspect of science in general.  
 **Translation:** 
 
-**[9084.62s] English:** Но в ОТО это проявляется самым очевидным образом.  
-**Translation:** 
+**[9084.62s] English:** But in OTO, this is manifested in the most obvious way.  
+**Translation:** Vocabulary: manifested: 显现
 
-**[9090.00s] English:** Человеческий вопрос.  
+**[9090.00s] English:** Human question.  
 **Translation:** 
 
-**[9094.44s] English:** Что ты думаешь о том, что Эйнштейн не получил Нобелевку за ОТО?  
-**Translation:** 
+**[9094.44s] English:** What do you think about Einstein not winning the Nobel Prize for his theory of relativity?  
+**Translation:** Vocabulary: nobel: 诺贝尔
 
-**[9100.12s] English:** Это трагедия.  
+**[9100.12s] English:** This is a tragedy.  
 **Translation:** 
 
-**[9101.42s] English:** Вообще он должен был получить четыре Нобелевки.  
+**[9101.42s] English:** He should have won four Nobel Prizes.  
 **Translation:** 
 
-**[9105.14s] English:** Серьезно.  
+**[9105.14s] English:** Seriously.  
 **Translation:** 
 
-**[9106.50s] English:** За что еще?  
+**[9106.50s] English:** For what else?  
 **Translation:** 
 
-**[9108.50s] English:** Фотоэффект на сто процентов достой Нобелевки.  
+**[9108.50s] English:** The photoeffect is one hundred percent Nobel-worthy.  
 **Translation:** 
 
-**[9111.44s] English:** Люди не до конца это понимают.  
-**Translation:** 
+**[9111.44s] English:** People do not fully understand this.  
+**Translation:** Vocabulary: photoeffect: 光效应
 
-**[9114.04s] English:** Кому дело до фотоэффекта?  
+**[9114.04s] English:** Who is concerned about the photoeffect?  
 **Translation:** 
 
-**[9115.62s] English:** Это очень незначительный эффект.  
-**Translation:** 
+**[9115.62s] English:** This is a very negligible effect.  
+**Translation:** Vocabulary: negligible: 微不足道的
 
-**[9116.98s] English:** Но его объяснение фотоэффекта породило фотоэффект.  
+**[9116.98s] English:** But his explanation of the photoeffect led to the photoeffect.  
 **Translation:** 
 
-**[9120.00s] English:** фотон. И это заслуживает Нобелевской премии. Макс  
-**Translation:** 
+**[9120.00s] English:** Photon. And this deserves a Nobel Prize. Max.  
+**Translation:** Vocabulary: photon: 光子
 
-**[9127.08s] English:** Планк получил за это признание в 1900 году, объясняя излучение  
+**[9127.08s] English:** Planck received this recognition in 1900, explaining radiation.  
 **Translation:** 
 
-**[9131.02s] English:** черного тела, тем, что когда маленький электрон колеблется  
-**Translation:** 
+**[9131.02s] English:** Black body, that when a small electron oscillates,  
+**Translation:** Vocabulary: oscillates: 振动
 
-**[9135.08s] English:** в объекте при определенной температуре, он излучает  
+**[9135.08s] English:** In the object at a certain temperature, it emits.  
 **Translation:** 
 
-**[9139.56s] English:** излучение дискретными порциями, а не непрерывно.  
-**Translation:** 
+**[9139.56s] English:** Emission in discrete portions, rather than continuously.  
+**Translation:** Vocabulary: discrete: 离散的; emission: 发射; emits: 发出; portions: 部分
 
-**[9144.14s] English:** Он не сказал, что излучение это дискретные порции.  
+**[9144.14s] English:** He didn't say that the radiation is in discrete portions.  
 **Translation:** 
 
-**[9150.00s] English:** Как кофеварка, которая делает одну чашку кофе  
+**[9150.00s] English:** As a coffee maker that makes one cup of coffee  
 **Translation:** 
 
-**[9152.56s] English:** за раз. Это не значит, что жидкость поступает в кванто-порциях,  
+**[9152.56s] English:** One at a time. This does not mean that the liquid flows in quantum portions,  
 **Translation:** 
 
-**[9157.26s] English:** просто вы ее так наливаете. Эйнштейн в 1905-м сказал,  
-**Translation:** 
+**[9157.26s] English:** Simply pour it like that. Einstein said in 1905,  
+**Translation:** Vocabulary: einstein: 爱因斯坦; quantum: 量子
 
-**[9161.10s] English:** что свет это кванты, это радикально. Очевидно, не  
+**[9161.10s] English:** What light is made of quanta is radically different. It's obvious, however, not.  
 **Translation:** 
 
-**[9165.76s] English:** по ошибке. Но СТО и ОТО явно заслужили Нобелевской  
-**Translation:** 
+**[9165.76s] English:** By mistake. But STO and OTO clearly deserve the Nobel Prize.  
+**Translation:** Vocabulary: quanta: 量子; radically: 根本上
 
-**[9171.30s] English:** премии. Теории были не только блестящими, но и экспериментально  
+**[9171.30s] English:** Prizes. Theories were not only brilliant but also experimentally验证中...  
 **Translation:** 
 
-**[9175.52s] English:** подтвержденными. Все, что нужно.  
+**[9175.52s] English:** Confirmed. All that is needed.  
 **Translation:** 
 
-**[9177.36s] English:** За обе отдельно? Да, именно.  
+**[9177.36s] English:** For both separately? Yes, exactly.  
 **Translation:** 
 
-**[9180.00s] English:** Ох, люди. Да.  
-**Translation:** 
+**[9180.00s] English:** Oh, people. Yes.  
+**Translation:** Vocabulary: separately: 单独地
 
-**[9183.08s] English:** Как бы это ни объяснялось. Эдвин Хаббл не получил Нобелевку  
+**[9183.08s] English:** As it may be explained, Edwin Hubble did not receive a Nobel Prize.  
 **Translation:** 
 
-**[9186.94s] English:** за расширение Вселенной. Отчасти глупо, что мы вообще  
-**Translation:** 
+**[9186.94s] English:** For the expansion of the universe. It's partly silly that we even bother.  
+**Translation:** Vocabulary: hubble: 哈勃; nobel: 诺贝尔
 
-**[9192.62s] English:** выдаем премии, и что ограничиваем количество людей, которые  
+**[9192.62s] English:** We give out bonuses, and that we limit the number of people who  
 **Translation:** 
 
-**[9196.00s] English:** ее получают. У Нобелевки огромные проблемы.  
+**[9196.00s] English:** They receive it. Nobel Prize has huge problems.  
 **Translation:** 
 
-**[9200.24s] English:** Для мира это хорошо, потому что привлекает внимание  
+**[9200.24s] English:** For the world, that's good because it attracts attention.  
 **Translation:** 
 
-**[9203.04s] English:** к науке, но в целом негативно влияет на науку, потому  
-**Translation:** 
+**[9203.04s] English:** To the science, but overall negatively affects science, because  
+**Translation:** Vocabulary: attracts: 吸引; negatively: 负面地
 
-**[9210.00s] English:** что выдают людей хотеть получить Нобелевку.  
+**[9210.00s] English:** What makes people want to win a Nobel Prize.  
 **Translation:** 
 
-**[9212.56s] English:** За этим стоит много увлекательных человеческих историй. Наука  
+**[9212.56s] English:** Behind this lie many fascinating human stories. Science,  
 **Translation:** 
 
-**[9219.36s] English:** это одно, но это еще и собрание людей, и это прекрасное  
+**[9219.36s] English:** This is one thing, but it's also a gathering of people, and this is wonderful.  
 **Translation:** 
 
-**[9222.88s] English:** собрание. Тут и напряжение, и конкуренция, и зависть,  
-**Translation:** 
+**[9222.88s] English:** Meeting. Here is tension, competition, and jealousy.  
+**Translation:** Vocabulary: jealousy: 嫉妒
 
-**[9228.42s] English:** но также значимое сотрудничество. История Даниэля Канемана,  
+**[9228.42s] English:** However, it is also significant collaboration. The history of Daniel Kahneman,  
 **Translation:** 
 
-**[9234.56s] English:** который недавно ушел из жизни, одна из великих историй  
-**Translation:** 
+**[9234.56s] English:** Which recently passed away, one of the great stories.  
+**Translation:** Vocabulary: collaboration: 合作
 
-**[9238.44s] English:** научного сотрудничества.  
+**[9238.44s] English:** Of scientific cooperation.  
 **Translation:** 
 
-**[9240.00s] English:** Да.  
+**[9240.00s] English:** Yes.  
 **Translation:** 
 
-**[9241.96s] English:** Все это то, что делают люди.  
+**[9241.96s] English:** All of this is what people do.  
 **Translation:** 
 
-**[9245.56s] English:** Шон, спасибо тебе за то, что заставляешь нас восхищаться наукой  
-**Translation:** 
+**[9245.56s] English:** Shawn, thanks for making us admire science.  
+**Translation:** Vocabulary: shawn: 肖恩
 
-**[9250.58s] English:** и влюбляться в красивые научные идеи,  
+**[9250.58s] English:** And fall in love with beautiful scientific ideas,  
 **Translation:** 
 
-**[9254.30s] English:** за то, что пишешь удивительные книги,  
+**[9254.30s] English:** For writing such amazing books,  
 **Translation:** 
 
-**[9257.24s] English:** продолжаешь продвигать научные исследования  
+**[9257.24s] English:** Continues to promote scientific research  
 **Translation:** 
 
-**[9260.20s] English:** и позволяешь мне задавать дурацкие вопросы,  
+**[9260.20s] English:** And you allow me to ask silly questions,  
 **Translation:** 
 
-**[9266.66s] English:** и за то, что просвещаешь людей в своем подкасте.  
+**[9266.66s] English:** And for enlightening people in your podcast.  
 **Translation:** 
 
-**[9272.94s] English:** Бросьте все, подпишитесь и послушайте все выпуски Майндскейп.  
-**Translation:** 
+**[9272.94s] English:** Breathe, subscribe, and listen to all episodes of Mindscape.  
+**Translation:** Vocabulary: enlightening: 启发性的; mindscape: 心灵景观; subscribe: 订阅
 
-**[9278.54s] English:** Спасибо, я всегда был твоим огромным поклонником.  
+**[9278.54s] English:** Thank you, I have always been your huge fan.  
 **Translation:** 
 
-**[9281.62s] English:** Для меня большая честь, когда я только начинал этот подкаст.  
+**[9281.62s] English:** For me, it was a great honor when I first started this podcast.  
 **Translation:** 
 
-**[9285.14s] English:** Для меня это много значит.  
+**[9285.14s] English:** For me, this means a lot.  
 **Translation:** 
 
-**[9286.50s] English:** Я ценю это, спасибо, что позвал.  
+**[9286.50s] English:** I appreciate this, thanks for inviting me.  
 **Translation:** 
 
-**[9288.28s] English:** Теперь, когда ты теперь важная шишка.  
+**[9288.28s] English:** Now that you're an important figure.  
 **Translation:** 
 
-**[9291.14s] English:** Спасибо, Шон.  
+**[9291.14s] English:** Thank you, Shawn.  
 **Translation:** 
 
-**[9293.14s] English:** Спасибо, что посмотрели разговор с Шоном Кэролом.  
+**[9293.14s] English:** Thank you for watching the conversation with Shawn Carol.  
 **Translation:** 
 
-**[9296.14s] English:** Чтобы поддержать подкаст, взгляните на наших спонсоров в описании.  
-**Translation:** 
+**[9296.14s] English:** To support the podcast, take a look at our sponsors in the description.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[9300.46s] English:** В завершение оставлю вас со словами Ричарда Фейнмана.  
+**[9300.46s] English:** In conclusion, I leave you with the words of Richard Feynman.  
 **Translation:** 
 
-**[9303.86s] English:** Усердно учите то, что интересует вас больше всего,  
-**Translation:** 
+**[9303.86s] English:** Diligently study what interests you most.  
+**Translation:** Vocabulary: diligently: 勤奋地
 
-**[9307.56s] English:** самым недисциплинированным, непочтительным и оригинальным образом.  
+**[9307.56s] English:** The most undisciplined, disrespectful, and original manner.  
 **Translation:** 
 
-**[9312.10s] English:** Спасибо за внимание и надеюсь увидеть вас снова.  
-**Translation:** 
+**[9312.10s] English:** Thank you for your attention, and I hope to see you again.  
+**Translation:** Vocabulary: disrespectful: 不尊重; undisciplined: 无纪律
 
 
 <!-- TRANSCRIPTION_COMPLETE -->

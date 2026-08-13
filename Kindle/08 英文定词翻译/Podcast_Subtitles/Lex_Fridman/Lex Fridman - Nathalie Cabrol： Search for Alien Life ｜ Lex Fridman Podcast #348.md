@@ -1,119 +1,120 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Fridman Podcast #348.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** my friend is telling me that the volcano seems to be starting to erupt if that volcano goes  
+**[0.00s] English:** My friend is telling me that the volcano seems to be starting to erupt. If that volcano goes,...  
 **Translation:** 
 
-**[6.00s] English:** off we have nowhere to go that got my attention so if you say scared i would say that i got the  
+**[6.00s] English:** Off, we have nowhere to go that got my attention. So, if you say scared, I would say that I got the.  
 **Translation:** 
 
-**[14.32s] English:** realization that what that meant i went cold for like a fraction of a second but that meant that  
+**[14.32s] English:** Realization that what that meant, I went cold for like a fraction of a second, but that meant that.  
 **Translation:** 
 
-**[19.92s] English:** just my adrenaline started to kick in and it was a very very strange experience because  
+**[19.92s] English:** Just my adrenaline started to kick in, and it was a very, very strange experience because...  
 **Translation:** Vocabulary: adrenaline: 肾上腺素; realization: 觉悟
 
-**[25.36s] English:** now you have tunnel vision it's about survival the following is a conversation with natalie  
+**[25.36s] English:** Now, you have tunnel vision; it's about survival. The following is a conversation with Natalie.  
 **Translation:** 
 
-**[32.16s] English:** gabral an astrobiologist and scientist at the steady institute directing the carl sagan center  
-**Translation:** Vocabulary: astrobiologist: 天体生物学家
-
-**[38.16s] English:** for the study of life in the universe she explores some of the harshest places on earth  
+**[32.16s] English:** Gabral, an astrobiologist and scientist at the Steady Institute, is directing the Carl Sagan Center.  
 **Translation:** 
 
-**[43.44s] English:** including free diving in volcanic lakes all in the pursuit of understanding living mechanisms  
-**Translation:** Vocabulary: harshest: 最恶劣的; volcanic: 火山的
-
-**[48.80s] English:** beyond earth for this she holds the woman's world record for diving at altitude both  
+**[38.16s] English:** For the study of life in the universe, she explores some of the harshest places on Earth.  
 **Translation:** 
 
-**[55.36s] English:** scuba and freediving. She's amazing. This is the Lex Friedman Podcast. To support it,  
-**Translation:** Vocabulary: altitude: 高海拔; freediving: 自由潜水
+**[43.44s] English:** Including free diving in volcanic lakes, all in the pursuit of understanding living mechanisms.  
+**Translation:** Vocabulary: harshest: 最恶劣的; pursuit: 追求; volcanic: 火山的
 
-**[61.88s] English:** please check out our sponsors in the description. And now, dear friends, here's Natalie Cabral.  
+**[48.80s] English:** Beyond Earth, for this, she holds the woman's world record for diving at altitude, both  
+**Translation:** 
+
+**[55.36s] English:** Scuba and freediving. She's amazing. This is the Lex Friedman Podcast. To support it,  
+**Translation:** Vocabulary: altitude: 高空; freediving: 自由潜水
+
+**[61.88s] English:** Please check out our sponsors in the description. And now, dear friends, here's Natalie Cabral.  
 **Translation:** 
 
 **[68.06s] English:** You are the director of the Carl Sagan Center for Research at the SETI Institute. SETI,  
 **Translation:** Vocabulary: natalie: 娜塔莉; sponsors: 赞助商
 
-**[73.22s] English:** of course, stands for Search for Extraterrestrial Intelligence. One of the things you do as part of  
+**[73.22s] English:** Of course, it stands for Search for Extraterrestrial Intelligence. One of the things you do as part of  
 **Translation:** 
 
-**[79.50s] English:** that is travel to some of Earth's most extreme and dangerous environments in search of organisms  
+**[79.50s] English:** That is travel to some of Earth's most extreme and dangerous environments in search of organisms.  
 **Translation:** Vocabulary: environments: 环境; extraterrestrial: 外星的
 
-**[84.72s] English:** that live in conditions analogous to those on Mars. First, let me ask what the job posting  
+**[84.72s] English:** That live in conditions analogous to those on Mars. First, let me ask: what is the job posting?  
 **Translation:** 
 
-**[91.38s] English:** for the work you do looks like. Is it like Shackleton's ad in 1900 that said people wanted  
+**[91.38s] English:** For the work you do, looks like. Is it like Shackleton's ad in 1900 that said "People Wanted"?  
 **Translation:** Vocabulary: analogous: 类似的
 
-**[97.06s] English:** for hazardous journey to the South Pole? Small wages, bitter cold, long months of complete  
+**[97.06s] English:** For a hazardous journey to the South Pole? Small wages, bitter cold, long months of complete darkness.  
 **Translation:** 
 
-**[102.32s] English:** darkness, constant danger. And also, where do I apply? That's funny because there was not really  
+**[102.32s] English:** Darkness, constant danger. And also, where do I apply? That's funny because there wasn't really  
 **Translation:** Vocabulary: hazardous: 危险的
 
-**[108.94s] English:** a job application. In fact, when you're a scientist, you have questions in your mind.  
+**[108.94s] English:** A job application. In fact, when you're a scientist, you have questions in your mind.  
 **Translation:** 
 
 **[113.96s] English:** And  
 **Translation:** 
 
-**[114.52s] English:** you have hypotheses and you start to list the kind of thing you need to answer. And then when you  
+**[114.52s] English:** You have hypotheses, and you start to list the kinds of things you need to answer. And then when you  
 **Translation:** 
 
-**[120.00s] English:** you see the kind of thing you have to answer, then you kind of know the places where you need  
+**[120.00s] English:** You see, the kind of thing you have to answer then, you kind of know the places where you need.  
 **Translation:** Vocabulary: hypotheses: 假设
 
-**[125.24s] English:** to go to do that. As far as science is concerned, I started with analyzing data from the Mars  
+**[125.24s] English:** To go to do that, as far as science is concerned, I started with analyzing data from Mars.  
 **Translation:** 
 
-**[132.44s] English:** missions. And I had written a PhD about water on Mars, first looking at channels and the history  
+**[132.44s] English:** Missions. And I had written a PhD about water on Mars, first looking at channels and the history.  
 **Translation:** 
 
-**[141.28s] English:** evolution of water. But then during my postdoc, I started to look where that water was ponding.  
+**[141.28s] English:** The evolution of water. But then, during my postdoc, I started to look where that water was ponding.  
 **Translation:** 
 
-**[151.04s] English:** Interestingly enough, everybody was about channels and water and whether catastrophic or  
-**Translation:** Vocabulary: catastrophic: 灾难性的
+**[151.04s] English:** Interestingly enough, everybody was talking about channels and water and whether it was catastrophic or not.  
+**Translation:** Vocabulary: catastrophic: 灾难性的; ponding: 积水; postdoc: 博士后
 
-**[155.70s] English:** whatnot or seepage. But when you are talking about ponding water, like lakes or ocean,  
+**[155.70s] English:** What, not or seepage. But when you are talking about ponding water, like lakes or oceans,  
 **Translation:** 
 
-**[163.46s] English:** people started waving their arms a little bit. So it was a little bit of a battle,  
-**Translation:** Vocabulary: seepage: 渗水
+**[163.46s] English:** People started waving their arms a little bit. So it was a little bit of a battle.  
+**Translation:** Vocabulary: seepage: 渗漏
 
-**[168.14s] English:** interestingly enough. But that got us  
+**[168.14s] English:** Interestingly enough, but that got us  
 **Translation:** 
 
-**[171.26s] English:** on track with my husband. We were working together and we started developing the idea,  
+**[171.26s] English:** On track with my husband. We were working together and we started developing the idea.  
 **Translation:** 
 
-**[177.74s] English:** the concept of lakes in impact craters. So why in impact craters? Just because  
+**[177.74s] English:** The concept of lakes in impact craters. So, why in impact craters? Just because...  
 **Translation:** 
 
-**[183.76s] English:** the Viking mission at the time, which is what we were working with, the resolution and the  
+**[183.76s] English:** The Viking mission at the time, which is what we were working with, the resolution and the  
+**Translation:** Vocabulary: craters: 撞击坑
+
+**[190.66s] English:** Topography was so poor that there was really no way of telling where you had a real low.  
 **Translation:** 
 
-**[190.66s] English:** topography were so poor that there was really no way of telling where you had a real low in  
-**Translation:** 
+**[196.52s] English:** The topography. The only thing you knew was that a hole in the ground was an impact crater.  
+**Translation:** Vocabulary: crater: 撞击坑; topography: 地形
 
-**[196.52s] English:** the topography. The only thing you knew was a hole in the ground was an impact crater.  
-**Translation:** Vocabulary: topography: 地形
-
-**[201.26s] English:** So when you saw valleys.  
+**[201.26s] English:** So, when you saw valleys.  
 **Translation:** 
 
 **[203.76s] English:** What was the Viking mission?  
 **Translation:** 
 
-**[205.26s] English:** The Viking mission landed on Mars in 1976. And there were two landers and two orbiters. So  
+**[205.26s] English:** The Viking mission landed on Mars in 1976, and there were two landers and two orbiters. So  
 **Translation:** 
 
-**[212.24s] English:** they were really our first feet on the ground on Mars, but they were lander. They were not moving.  
-**Translation:** Vocabulary: orbiters: 环绕器
+**[212.24s] English:** They were really our first feet on the ground on Mars, but they were a lander. They were not moving.  
+**Translation:** Vocabulary: orbiters: 环绕火星的探测器
 
 **[218.42s] English:** They were not going up.  
 **Translation:** 
@@ -121,277 +122,277 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[219.22s] English:** And that was the data you were looking at?  
 **Translation:** 
 
-**[220.66s] English:** It was already in the 90s, but we didn't have yet the Mars Global Surveyor and whatnot. We still  
+**[220.66s] English:** It was already in the 1990s, but we didn't yet have the Mars Global Surveyor and such. We still  
 **Translation:** 
 
-**[228.06s] English:** worked for 20 years. We worked on that. I did my master and then I did my master. And then I did my  
-**Translation:** Vocabulary: whatnot: 诸如此类
+**[228.06s] English:** Worked for 20 years. We worked on that. I did my master's, and then I did my PhD. And then I did my  
+**Translation:** 
 
-**[231.24s] English:** PhD thesis on Viking missions.  
+**[231.24s] English:** Ph.D. Thesis on Viking Missions.  
 **Translation:** 
 
 **[233.40s] English:** You mentioned that the places you go to are defined by the questions you want to ask. Let's just step back.  
+**Translation:** Vocabulary: thesis: 论文
+
+**[240.00s] English:** What questions have always tugged at your heart? Well, that's the thing—that's why I was looking.  
 **Translation:** 
 
-**[240.00s] English:** what questions have always tugged at your heart well that's the thing that's why i was looking  
+**[246.48s] English:** At those images, I saw some lakes, and then came a time when we started talking about sending.  
+**Translation:** Vocabulary: tugged: 牵动
+
+**[254.40s] English:** Landers and rovers on Mars, and looking maybe at the possibility that Mars was habitable.  
 **Translation:** 
 
-**[246.48s] English:** at those images and saw some lakes and then came time where we started talking about sending  
-**Translation:** 
-
-**[254.40s] English:** landers and and rovers on mars and looking maybe at the possibility that mars was habitable and  
-**Translation:** 
-
-**[262.08s] English:** lakes are particularly good places to look for those questions so this is how it all ties up  
+**[262.08s] English:** Lakes are particularly good places to look for answers to those questions, so this is how it all ties up.  
 **Translation:** Vocabulary: rovers: 火星车
 
-**[268.00s] English:** so you were always curious about life out there i have been always curious about life in the  
+**[268.00s] English:** So, you were always curious about life out there? I have always been curious about life in the  
 **Translation:** 
 
-**[272.80s] English:** universe and about questions on how we got to be here and and the bigger question now with  
+**[272.80s] English:** Universe, and about questions on how we got to be here and the bigger question now with...  
 **Translation:** 
 
-**[279.52s] English:** 25 years more in you know in that business um it's more about understanding the origin and nature of  
+**[279.52s] English:** 25 years more—in you know, in that business; it's more about understanding the origin and nature of  
 **Translation:** 
 
-**[287.12s] English:** life rather than whether there is life or not on mars i mean this was really for me a stepping  
+**[287.12s] English:** Life, rather than whether there is life or not on Mars, I mean, this was really for me a stepping stone.  
 **Translation:** 
 
-**[293.12s] English:** stone to bigger questions but they were definitely important because they  
+**[293.12s] English:** Stone to bigger questions, but they were definitely important because they...  
 **Translation:** 
 
-**[298.00s] English:** helped me frame my way of thinking about those questions and so looking at mars at lakes  
+**[298.00s] English:** Helped me frame my way of thinking about those questions, and so looking at Mars at lakes.  
 **Translation:** 
 
-**[305.60s] English:** understanding what the conditions were 3.5 billion years ago or close to 4 billion years ago  
+**[305.60s] English:** Understanding what the conditions were 3.5 billion years ago, or close to 4 billion years ago.  
 **Translation:** 
 
-**[311.36s] English:** then i knew the type of environment i needed to explore here on earth as analogous to be able to  
-**Translation:** Vocabulary: analogous: 类比的
+**[311.36s] English:** Then I knew the type of environment I needed to explore here on Earth as analogous to be able to.  
+**Translation:** Vocabulary: analogous: 类似的
 
-**[319.52s] English:** understand what type of life still survives in those environment and what kind of instrument  
+**[319.52s] English:** Understand what type of life still survives in those environments, and what kind of instrument  
 **Translation:** 
 
-**[325.68s] English:** and what kind of resolution do i need  
+**[325.68s] English:** And what kind of resolution do I need?  
+**Translation:** Vocabulary: environments: 环境
+
+**[328.32s] English:** To actually detect it, so this is how the whole thing started, and it started with a small grant.  
 **Translation:** 
 
-**[328.32s] English:** to actually detect it so this is how the whole thing started and it started with a small grant  
+**[335.44s] English:** Literally $40K—it was a discretionary fund, and this is how I got started in my career.  
+**Translation:** Vocabulary: detect: 发现; discretionary: 酌情的
+
+**[341.60s] English:** And so, many of these questions you can answer by looking at life and extreme conditions here.  
 **Translation:** 
 
-**[335.44s] English:** literally 40k it was a discretionary fund and this is how i got started in my in my career  
-**Translation:** Vocabulary: discretionary: 自由裁量的
-
-**[341.60s] English:** and so many of these questions you can answer by looking at life and extreme conditions here  
+**[345.92s] English:** On Earth, but let's step back a little bit and look at Mars and lakes on Mars, just  
 **Translation:** 
 
-**[345.92s] English:** on earth but let's let's step back a little bit and look at mars and lakes on mars just  
+**[353.68s] English:** Going back to your PhD and before, and maybe even today, what do we?  
 **Translation:** 
 
-**[353.68s] English:** going back to your phd and before and maybe today what do we  
+**[358.00s] English:** Understand about life on Mars.  
 **Translation:** 
 
-**[358.00s] English:** understand about life on mars  
+**[360.96s] English:** What do we understand about lakes on Mars? Is there water on Mars? What do we understand about it?  
 **Translation:** 
 
-**[360.96s] English:** what do we understand about lakes on mars is there water on mars what do we understand about  
+**[365.52s] English:** The conditions from four billion years ago on Mars? Well, we've come a long way, remember, from  
 **Translation:** 
 
-**[365.52s] English:** the conditions from four billion years ago on mars well we've gone a long way remember from  
+**[370.72s] English:** From the Viking, where we had no resolution, well, we'll have a little bit more resolution with.  
 **Translation:** 
 
-**[370.72s] English:** from the viking where we had no resolution well we'll have a little bit more resolution with  
+**[374.88s] English:** Than with the Mariners, what did you think at that time? Sorry to interrupt; it was just to take us back to.  
+**Translation:** Vocabulary: mariners: 水手队
+
+**[379.20s] English:** That mindset—it was really the exploration, like your first look at a planet. You have to remember.  
 **Translation:** 
 
-**[374.88s] English:** than with mariners what did you think at that time sorry to interrupt it was just take us back to  
-**Translation:** Vocabulary: mariners: 航海者
+**[386.72s] English:** That the first mission that successfully snapped some pictures of Mars was Mariner 4, and then  
+**Translation:** Vocabulary: mariner: 航海者; mindset: 思维模式; snapped: 拍摄
 
-**[379.20s] English:** that mindset it was really the exploration like your first look at a planet you have to remember  
+**[394.88s] English:** Everybody at that time was still under the spell of, you know, Edge Wells and the idea that...  
 **Translation:** 
 
-**[386.72s] English:** that the first mission that successfully snapped some pictures of mars was mariner four and then  
-**Translation:** Vocabulary: mariner: 航海者; mindset: 思维模式
+**[401.84s] English:** Mars looked, through a telescope, so similar to Earth that we could see its polar caps with one.  
+**Translation:** Vocabulary: polar: 两极的; telescope: 望远镜
 
-**[394.88s] English:** everybody at that time was still under the spell of you know edge wells and and the idea that  
+**[410.80s] English:** And we knew it had seasons, the actual tilt is pretty much the same as the one for  
 **Translation:** 
 
-**[401.84s] English:** mars looked with telescope so similar to the earth polar caps we could see them with a telescope  
-**Translation:** Vocabulary: polar: 极地; telescope: 望远镜
-
-**[410.80s] English:** and we knew it had season the actual tilt is pretty much the same as the one for  
+**[416.72s] English:** Earth, so when Mariner 4 left, not everybody but a lot of people thought that we  
 **Translation:** 
 
-**[416.72s] English:** earth so when mariner 4 left everybody pre not everybody but a lot of people thought that we  
+**[423.68s] English:** See the crystal cities and domes, and stuff that another civilization might have evolved.  
 **Translation:** 
 
-**[423.68s] English:** see the crystal cities and domes and stuff that another civilization might have evolved in  
+**[429.60s] English:** Parallel to us in the source system, and of course, when the first images came back, Mars looked...  
+**Translation:** Vocabulary: domes: 穹顶; evolved: 演化; parallel: 平行
+
+**[435.44s] English:** With that kind of resolution, it had, uh, like the moon; it was a huge disappointment. Then Mariner 9.  
 **Translation:** 
 
-**[429.60s] English:** parallel to us in the source system and of course when the first images came back and mars looked  
-**Translation:** Vocabulary: domes: 穹顶
-
-**[435.44s] English:** with that kind of resolution it had uh like the moon it was a huge disappointment then mariner 9  
+**[443.44s] English:** Came, and that changed everything there.  
 **Translation:** 
 
-**[443.44s] English:** came and that changed everything there  
+**[446.72s] English:** There was a little bit of drama because Mars started one of the biggest dust storms.  
 **Translation:** 
 
-**[446.72s] English:** there was a little bit of drama because mars started the one of the biggest dust storm  
+**[453.44s] English:** It was something we had never experienced before, and so for three months we had an orbiter circling around Mars and not seeing.  
+**Translation:** Vocabulary: orbiter: 环绕火星的探测器
+
+**[459.84s] English:** Anything, but then when the dust cleared, all of a sudden we started discovering volcanoes and valleys.  
 **Translation:** 
 
-**[453.44s] English:** it ever experienced and so for three months we had an orbiter circling around mars and not seeing  
-**Translation:** 
-
-**[459.84s] English:** anything but then when the dust cleared all of a sudden we started discovering volcanoes valleys  
-**Translation:** 
-
-**[468.48s] English:** ancient channels dune fields polar caps and see what i'm talking to you i don't need to invent  
+**[468.48s] English:** Ancient channels, dune fields, polar caps, and see what I'm talking about. I don't need to invent.  
 **Translation:** Vocabulary: volcanoes: 火山
 
-**[474.56s] English:** any words to describe it but it was a little bit of drama because mars started one of the biggest dust  
+**[474.56s] English:** Any words to describe it, but it was a little bit of drama because Mars started one of the biggest dust storms.  
 **Translation:** 
 
-**[476.56s] English:** storm in the world and that's why we're here today i'm going to show you how to describe mars and although  
+**[476.56s] English:** Storms in the World, and that's why we're here today. I'm going to show you how to describe Mars, and although  
 **Translation:** 
 
-**[480.56s] English:** of extraterrestrial civilization on mars was gone all of a sudden the imagination of the scientists  
+**[480.56s] English:** Of extraterrestrial civilization on Mars was suddenly gone, leaving the imagination of the scientists.  
 **Translation:** 
 
-**[490.08s] English:** started to pick up because right away we were seeing something that was familiar that we could  
-**Translation:** Vocabulary: extraterrestrial: 来自外星的
+**[490.08s] English:** Started to pick up because, right away, we were seeing something that was familiar and we could  
+**Translation:** Vocabulary: extraterrestrial: 来自地球外的
 
-**[494.88s] English:** describe so right away viking would put on the fast track and the idea was so mars looks so much  
+**[494.88s] English:** Describe how, right away, the Vikings would put Mars on a fast track, and the idea was that Mars looks so much  
 **Translation:** 
 
-**[503.52s] English:** like earth could have been although it's arid and there is little atmosphere etc  
+**[503.52s] English:** Like Earth, it could have been, although it's arid and there is little atmosphere, etc.  
 **Translation:** 
 
-**[508.32s] English:** could there be life and of course behind this at the time they were people like  
+**[508.32s] English:** Could there be life, and of course, at the time, there were people like  
 **Translation:** 
 
-**[516.00s] English:** klein and sagan called sagan uh just you know uh thinking about how can we test the idea of  
-**Translation:** Vocabulary: klein: 克莱恩
+**[516.00s] English:** Klein and Sagan called Sagan, uh, just thinking about how can we test the idea of  
+**Translation:** Vocabulary: klein: 凯恩
 
-**[525.12s] English:** biology of life on mars so this is what viking did but of course at the time when the two landers  
+**[525.12s] English:** Biology of life on Mars: So, this is what Viking did, but of course, at the time when the two landers...  
 **Translation:** 
 
-**[531.68s] English:** arrived on mars we didn't have the context of the geology of the environment we didn't  
+**[531.68s] English:** Arrived on Mars, we didn't have the context of the geology of the environment; we didn't  
 **Translation:** 
 
-**[538.16s] English:** have much data at all so the data that viking sent back was very confusing some people still  
+**[538.16s] English:** Have we much data at all? So, the data that Viking sent back was very confusing. Some people still  
 **Translation:** 
 
-**[546.24s] English:** think today that we discovered life on mars at the time because some of the experiment turned out  
+**[546.24s] English:** Today, we thought we had discovered life on Mars at the time because some of the experiments turned out positively.  
+**Translation:** Vocabulary: experiments: 实验结果
+
+**[552.32s] English:** To show a strange signal, but most of the community think that it can be explained by chemical.  
 **Translation:** 
 
-**[552.32s] English:** to show a strange signal but most of the community think that it can be explained by chemical  
+**[558.08s] English:** Reaction that we see today, so it was so confusing that NASA decided to say, "Okay, if we want to be...  
 **Translation:** 
 
-**[558.08s] English:** reaction that we see today so it was so confusing that nasa decided say okay if we want to be  
+**[564.24s] English:** Serious about looking for life on Mars, we have to understand the environment because life and  
 **Translation:** 
 
-**[564.24s] English:** serious about looking for life on mars we have to understand the environment because life and  
+**[570.16s] English:** Environment and co-evolve so as to cause or effect, a planet is going to give you the physical and chemical.  
 **Translation:** 
 
-**[570.16s] English:** environment co-evolve so as cause or effect a planet is going to give you the physical chemical  
+**[577.44s] English:** Environment for life to happen, these are the boundaries, but once life is here, it's going to  
 **Translation:** 
 
-**[577.44s] English:** environment for life to happen these are the boundaries but once life is here is going to  
+**[583.52s] English:** Change everything: one of the biggest impacts of life was to inject oxygen into the atmosphere.  
+**Translation:** Vocabulary: inject: 注入
+
+**[591.92s] English:** The Earth three billion years ago.  
 **Translation:** 
 
-**[583.52s] English:** change everything one of the biggest impact of life was to inject oxygen into the atmosphere of  
+**[594.24s] English:** And that changed everything, including our signature in space, so there.  
 **Translation:** 
 
-**[591.92s] English:** the earth three two billion years ago  
+**[600.00s] English:** This co-evolution: so, if you want to understand one, you have to remove the other from the equation.  
 **Translation:** 
 
-**[594.24s] English:** and that changed everything including our signature in space so there  
-**Translation:** 
-
-**[600.00s] English:** this co-evolution so if you want to understand one you have to remove the other from the equation  
-**Translation:** 
-
-**[604.48s] English:** it's kind of a two unknown uh equation so even though oxygen changes our signature today what  
+**[604.48s] English:** It's kind of a two-unknown equation, so even though oxygen changes our signature today, what  
 **Translation:** Vocabulary: equation: 方程
 
-**[610.88s] English:** if all life on earth died and now we fast forward a billion years what would be the traces left so  
+**[610.88s] English:** If all life on Earth died, and now we fast-forward a billion years, what would be the traces left?  
 **Translation:** 
 
-**[619.20s] English:** the question i'm trying to ask is if life had existed on mars what would be the signs we would  
+**[619.20s] English:** The question I'm trying to ask is: If life had existed on Mars, what would be the signs we would see?  
+**Translation:** Vocabulary: traces: 痕迹
+
+**[625.60s] English:** Look, that's a very good question. The thing is that if you draw the parallel with Earth, it took  
 **Translation:** 
 
-**[625.60s] English:** look for that's a very good question the thing is that if you draw the parallel with earth it took  
+**[632.48s] English:** 82 percent of Earth's geological history is dedicated to going from very simple life, such as microbial life.  
+**Translation:** Vocabulary: geological: 地質的; microbial: 微生物的; parallel: 類比
+
+**[640.56s] English:** To complexity, and when I'm saying complexity, I'm not even talking about us; I'm talking about...  
 **Translation:** 
 
-**[632.48s] English:** 82 percent of earth history geological history to go from very simple life microbial life  
-**Translation:** Vocabulary: geological: 地质的; microbial: 微生物的
-
-**[640.56s] English:** to complexity and when i'm saying complexity i'm not even talking about us i'm talking about  
+**[645.12s] English:** Animals on Mars would be small, as it lost its magnetic field very quickly and consequently lost its atmosphere very quickly.  
 **Translation:** 
 
-**[645.12s] English:** animals so mars is smaller lost its magnetic field very fast and lost its atmosphere is very fast  
+**[654.16s] English:** Life, also  
 **Translation:** 
 
-**[654.16s] English:** life also  
+**[656.32s] English:** Appeared on Earth very fast, so the conditions being quite similar at that time between the  
 **Translation:** 
 
-**[656.32s] English:** appeared on earth very fast so the condition being quite similar at that time between the  
+**[660.88s] English:** Earth and Mars: Let's assume, for a moment, that life appeared on Mars; it would have been simple life.  
 **Translation:** 
 
-**[660.88s] English:** earth and mars let's assume for a moment that life appeared on mars it would have been simple life  
+**[666.72s] English:** When conditions started to degrade, which was less than a billion years after the planet had formed.  
+**Translation:** Vocabulary: degrade: 恶化
+
+**[673.52s] English:** So, everything at the surface would have disappeared, except maybe for morphological traces.  
 **Translation:** 
 
-**[666.72s] English:** when conditions started to degrade which was less than a billion years after the planet had formed  
-**Translation:** Vocabulary: degrade: 退化
-
-**[673.52s] English:** so everything at the surface would have disappeared except maybe for morphological traces  
-**Translation:** 
-
-**[681.36s] English:** of the interaction between life and its environment so on earth the  
+**[681.36s] English:** Of the interaction between life and its environment, so on Earth, the  
 **Translation:** Vocabulary: morphological: 形态学的
 
-**[686.40s] English:** Hannah says tele princi Yet is a great example because odium is notião  
+**[686.40s] English:** Hannah says that "tele princi yet" is a great example because "odium" is notião.  
 **Translation:** 
 
-**[691.28s] English:** Hide a smallILL questi Tom you used your  
-**Translation:** Vocabulary: odium: 厌恶
-
-**[702.72s] English:** unbelievable analysis next question  
+**[691.28s] English:** Hide a small ill, quest. Tom, you used your  
 **Translation:** 
 
-**[705.52s] English:** Right after it did not appear on stars are the earth's particles ever increasing  
+**[702.72s] English:** Unbelievable analysis. Next question.  
 **Translation:** 
 
-**[712.48s] English:** well are there any body factors present in this case  
+**[705.52s] English:** Right after it did not appear, stars are the earth's particles ever increasing.  
+**Translation:** Vocabulary: particles: 微粒
+
+**[712.48s] English:** Well, are there any bodily factors present in this case?  
 **Translation:** 
 
-**[714.40s] English:** So it's not that it's a real biosignature in itself, but it's intriguing. We have now the C20  
-**Translation:** Vocabulary: biosignature: 生物标志; intriguing: 引人入胜
+**[714.40s] English:** So it's not that it's a real biosignature in itself, but it's intriguing. We have now the C20.  
+**Translation:** Vocabulary: biosignature: 生物特征; intriguing: 引人入胜
 
-**[720.00s] English:** 12, and we have methane. But going back, it's a time on Mars 3.5 billion years ago where  
+**[720.00s] English:** 12, and we have methane. But going back, it's a time on Mars 3.5 billion years ago where:  
 **Translation:** 
 
-**[727.62s] English:** you have lots of destructions, where you have lots of impact cratering, etc. But we still  
-**Translation:** Vocabulary: cratering: 撞击坑; destructions: 破坏; methane: 甲烷
+**[727.62s] English:** You have lots of destructions, where you have lots of impact craters, etc. But we still  
+**Translation:** Vocabulary: craters: 撞击坑; destructions: 破坏; methane: 甲烷
 
-**[733.34s] English:** have very old rocks that survived from that time. So these are good places. That's why  
+**[733.34s] English:** We have very old rocks that survived from that time, so these are good places. That's why  
 **Translation:** 
 
-**[740.32s] English:** we're sending the rovers in those places, ancient lakes and impact craters, and places  
-**Translation:** Vocabulary: rovers: 火星车
+**[740.32s] English:** We're sending the rovers to those places, like ancient lakes and impact craters, and other places.  
+**Translation:** Vocabulary: rovers: 探测车
 
-**[745.16s] English:** where you have very old rocks.  
+**[745.16s] English:** Where you have very old rocks.  
 **Translation:** 
 
-**[746.62s] English:** So when you say ancient lakes and impact craters, the simple question, so impact crater  
+**[746.62s] English:** So, when you say "ancient lakes" and "impact craters," the simple question is: so, an impact crater?  
+**Translation:** Vocabulary: crater: 撞击坑
+
+**[752.24s] English:** Is a crater created by a giant rock hitting the planet?  
 **Translation:** 
 
-**[752.24s] English:** is a crater created by a giant rock hitting the planet?  
+**[756.20s] English:** Yes, a big rock that can be metal or rock, or it can be a comet, as well—mostly ice.  
 **Translation:** 
 
-**[756.20s] English:** Yes, a big rock that can be metal or rock, or it can be a comet as well, mostly ice.  
-**Translation:** 
-
-**[762.48s] English:** So is that good for life or bad for life?  
+**[762.48s] English:** So, is that good for life or bad for life?  
 **Translation:** 
 
 **[765.16s] English:** Both.  
@@ -400,25 +401,25 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[765.68s] English:** For creating life and destroying life?  
 **Translation:** 
 
-**[767.78s] English:** Both. It's actually both. Interestingly enough, the building blocks of life, the bricks,  
+**[767.78s] English:** Both. It's actually both. Interestingly enough, the building blocks of life—the bricks,  
 **Translation:** 
 
-**[775.26s] English:** the stuff we are made of.  
+**[775.26s] English:** The stuff we are made of.  
 **Translation:** 
 
 **[776.62s] English:** Carbon, hydrogen, oxygen, nitrogen, and phosphorus. They were included on our planet. They were  
 **Translation:** Vocabulary: nitrogen: 氮; phosphorus: 磷
 
-**[784.38s] English:** built in just because our planet is made of these kinds of rocks, asteroids and comets  
+**[784.38s] English:** Built in just because our planet is made of these kinds of rocks, asteroids, and comets.  
 **Translation:** 
 
-**[790.28s] English:** coming together by what we call accretion. So they were built in. When an asteroid comes,  
-**Translation:** Vocabulary: accretion: 凝聚; asteroid: 小行星; asteroids: 小行星
+**[790.28s] English:** Coming together by what we call accretion. So they were built in. When an asteroid comes,  
+**Translation:** Vocabulary: accretion: 凝聚; asteroid: 小行星; asteroids: 小行星; comets: 彗星
 
-**[797.26s] English:** there is a lot of destruction going on. But at the same time, those rocks, they bring  
+**[797.26s] English:** There is a lot of destruction going on. But at the same time, those rocks, they bring.  
 **Translation:** 
 
-**[803.10s] English:** with them those bricks of life.  
+**[803.10s] English:** With them, those bricks of life.  
 **Translation:** 
 
 **[805.20s] English:** Yeah.  
@@ -427,460 +428,463 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[806.20s] English:** And they create lots of energy. And if the environment around is favorable, you might  
 **Translation:** 
 
-**[813.86s] English:** possibly have some seeding going on. That's one of the aspects of what we call panspermia,  
+**[813.86s] English:** Possibly, there could be some seeding going on. That's one of the aspects of what we call panspermia.  
 **Translation:** 
 
-**[821.26s] English:** which is the fact that comets and asteroids have the building blocks of life embedded  
+**[821.26s] English:** Which is the fact that comets and asteroids have the building blocks of life embedded.  
 **Translation:** Vocabulary: embedded: 植入; panspermia: 泛种论
 
-**[826.28s] English:** in them, and that given favorable condition, they might be able to seed planets. This is  
+**[826.28s] English:** In them, and that given favorable conditions, they might be able to seed planets. This is  
 **Translation:** 
 
-**[831.28s] English:** a theory.  
+**[831.28s] English:** A theory.  
 **Translation:** 
 
-**[832.28s] English:** What percent of you, when you're looking up at the stars and wondering, what's going on?  
+**[832.28s] English:** What percentage of you, when you're looking up at the stars and wondering, "What's going on?"?  
 **Translation:** 
 
-**[833.96s] English:** What percent of you, when you're looking up at the stars and wondering, what's going on?  
+**[833.96s] English:** What percentage of you, when you're looking up at the stars and wondering, "What's going on?"?  
 **Translation:** 
 
-**[834.96s] English:** What percent of you, when you're looking up at the stars and wondering, what's going  
+**[834.96s] English:** What percent of you, when you're looking up at the stars and wondering, "what's going  
 **Translation:** 
 
-**[835.96s] English:** on?  
+**[835.96s] English:** Is it on?  
 **Translation:** 
 
 **[836.96s] English:** This stuff thinks that panspermia has  
 **Translation:** 
 
-**[840.00s] English:** is what happened on mars or or on earth which is the building blocks of life came from elsewhere  
+**[840.00s] English:** Is what happened on Mars, or on Earth, which is that the building blocks of life came from elsewhere?  
 **Translation:** 
 
-**[846.96s] English:** well but you know that's the thing panspermia is a vector potential vector which means that  
+**[846.96s] English:** Well, but you know, that's the thing: panspermia is a hypothetical vector, a potential vector, which means that...  
 **Translation:** 
 
-**[852.80s] English:** he actually distributes the stuff of life left and right but it doesn't explain the origin of life  
-**Translation:** Vocabulary: distributes: 传播
+**[852.80s] English:** He actually distributes the stuff of life left and right, but it doesn't explain the origin of life.  
+**Translation:** Vocabulary: distributes: 传播; hypothetical: 假设的
 
-**[859.60s] English:** it does it's not the environment itself it just promotes maybe and we still have to prove this  
+**[859.60s] English:** It does; it's not the environment itself, but it just promotes, maybe, and we still have to prove this.  
 **Translation:** 
 
-**[866.00s] English:** but what we know is that the stuff we are made of is very abundant all over the place including in  
+**[866.00s] English:** But what we know is that the stuff we are made of is very abundant, all over the place, including in  
 **Translation:** 
 
-**[872.48s] English:** interstellar medium so it's all over it's all over the idea is that maybe it just waits to have the  
+**[872.48s] English:** Interstellar medium: So, it's all over. The idea is that maybe it just waits to have the  
 **Translation:** 
 
-**[880.64s] English:** proper environment and we know what it needs here on earth it needs water it needs energy shelter  
+**[880.64s] English:** Proper environment, and we know what it needs here on Earth: it needs water, energy, and shelter.  
 **Translation:** Vocabulary: interstellar: 星际的
 
-**[887.28s] English:** and nutrient so you're fundamentally interested in the origin of life and the big leaps  
+**[887.28s] English:** And nutrients, so you're fundamentally interested in the origin of life and the big leaps.  
 **Translation:** 
 
-**[896.00s] English:** that in evolutionary history that could be like an origin of something origin of eukaryotes the  
-**Translation:** Vocabulary: eukaryotes: 真核生物; evolutionary: 进化; fundamentally: 从根本上
+**[896.00s] English:** That, in evolutionary history, could be like an origin of something, such as the origin of eukaryotes.  
+**Translation:** Vocabulary: eukaryotes: 真核生物; evolutionary: 进化的; fundamentally: 从根本上
 
-**[902.40s] English:** origin of photosynthesis origin of whatever i just think if we're a civilization here on earth and we  
+**[902.40s] English:** Origin of photosynthesis, or whatever—I just think that if we are a civilization here on Earth and we  
 **Translation:** 
 
-**[909.44s] English:** survive another few hundred years i think it would be a good idea to take a big gun and just shoot  
+**[909.44s] English:** Survive another few hundred years, I think it would be a good idea to take a big gun and just shoot.  
 **Translation:** Vocabulary: photosynthesis: 光合作用
 
-**[916.16s] English:** life out there like a life gun basically try to create panspermia that's a good backup solution  
+**[916.16s] English:** Life out there, like a life raft, basically try to create panspermia—that's a good backup solution.  
 **Translation:** 
 
-**[922.32s] English:** so one way is to actually uh copy our brains  
+**[922.32s] English:** So, one way is to actually copy our brains.  
+**Translation:** Vocabulary: backup: 备用方案; panspermia: 泛种论
+
+**[926.00s] English:** And actually, humans can process some complex information and send it out in another way to preserve life.  
 **Translation:** 
 
-**[926.00s] English:** and actual humans some complex information and send it out there another way to preserve life  
+**[932.64s] English:** It's just to send the basic building blocks, send a bunch of bacteria, a bunch of whatever.  
+**Translation:** Vocabulary: bacteria: 细菌
+
+**[939.52s] English:** The rugged organisms are on Earth; just send a bunch of those. These are not the building blocks.  
 **Translation:** 
 
-**[932.64s] English:** is just to like send the basic building blocks send a bunch of bacteria a bunch of uh whatever  
-**Translation:** 
-
-**[939.52s] English:** the rugged organisms are on earth just send a bunch of those these are not the building blocks  
-**Translation:** 
-
-**[943.60s] English:** they are actual organism so isn't that a nice shortcut or or do we want to because you said  
+**[943.60s] English:** They are actual organisms, so isn't that a nice shortcut? Or, do we want to be more specific because you said?  
 **Translation:** Vocabulary: rugged: 坚韧的; shortcut: 捷径
 
-**[949.04s] English:** building blocks are everywhere yeah the bricks of life the carbon hydrogen etc uh they they were uh  
+**[949.04s] English:** Building blocks are everywhere, yeah—the bricks of life, the carbon, hydrogen, etc.—uh, they were...  
 **Translation:** 
 
-**[956.00s] English:** produced by the death of previous stars so this is how they were  
+**[956.00s] English:** Produced by the death of previous stars, so this is how they were.  
 **Translation:** 
 
-**[960.00s] English:** produced and stars like our Sun started to form 10 billion years ago that  
+**[960.00s] English:** Produced and stars like our Sun started to form 10 billion years ago.  
 **Translation:** 
 
-**[967.26s] English:** doesn't mean that the Sun is the only kind of star that produce you know life  
+**[967.26s] English:** Doesn't mean that the Sun is the only kind of star that produces, you know, life.  
 **Translation:** 
 
-**[972.56s] English:** or enables life but actually was produced in 10 billion years ago now  
+**[972.56s] English:** Or it enables life, but actually was produced about 10 billion years ago.  
 **Translation:** 
 
-**[978.82s] English:** what you're talking about is is a little different right now there are many many  
+**[978.82s] English:** What you're talking about is a little different right now, there are many, many  
 **Translation:** 
 
-**[985.38s] English:** efforts to do the type of thing you are talking about which is to put our DNA on  
+**[985.38s] English:** Efforts to do the type of thing you are talking about, which is to put our DNA on  
 **Translation:** 
 
-**[993.78s] English:** whatever kind of substrate and preserve it in vaults either in different place  
-**Translation:** Vocabulary: substrate: 基底; vaults: 储藏库
+**[993.78s] English:** Whatever kind of substrate, and preserve it in vaults, either in a different place.  
+**Translation:** Vocabulary: substrate: 基底; vaults: 金库
 
-**[999.18s] English:** on earth or on the moon some people are already thinking about putting DNA on  
+**[999.18s] English:** On Earth, or on the Moon, some people are already thinking about putting DNA on  
 **Translation:** 
 
-**[1003.84s] English:** the moon as far as brains concerned and it's drawing towards transhumanism which  
+**[1003.84s] English:** The moon, as far as brains are concerned, and it's drawing towards transhumanism, which  
 **Translation:** Vocabulary: transhumanism: 超人类主义
 
-**[1011.48s] English:** is the enhancement of what we are through  
+**[1011.48s] English:** Is the enhancement of what we are through?  
 **Translation:** 
 
-**[1015.08s] English:** way  
+**[1015.08s] English:** Way.  
 **Translation:** Vocabulary: enhancement: 提升
 
-**[1015.36s] English:** and machine learning of course having backups is a good thing for me I would  
+**[1015.36s] English:** And machine learning, of course, having backups is a good thing for me; I would.  
 **Translation:** 
 
-**[1021.78s] English:** say that taking care of our planets and going back to a place where we are in  
+**[1021.78s] English:** Say that taking care of our planet and going back to a place where we are in  
+**Translation:** Vocabulary: backups: 备份
+
+**[1026.22s] English:** Equilibrium with our environment would be, perhaps, the best backup possible.  
 **Translation:** 
 
-**[1026.22s] English:** equilibrium with our environment would be also maybe the best backup possible  
+**[1031.38s] English:** And let evolution do its thing. Right now, we are like teenagers with enough.  
+**Translation:** Vocabulary: backup: 备用方案; equilibrium: 平衡状态
+
+**[1037.86s] English:** Brain to create cool tools, but we don't have enough brains to understand yet the.  
 **Translation:** 
 
-**[1031.38s] English:** and let evolution do its things right now we are like teenagers with enough  
-**Translation:** Vocabulary: equilibrium: 平衡状态
-
-**[1037.86s] English:** brain to create cool tools but we don't have enough brain to understand yet the  
+**[1043.50s] English:** Consequences of what we are doing.  
 **Translation:** 
 
-**[1043.50s] English:** consequences of what we are doing  
+**[1045.06s] English:** And right now, we are paying for it. This, so the question is: is the question whether...  
 **Translation:** 
 
-**[1045.06s] English:** and right now we are paying for it this so the question is the question is whether  
+**[1050.88s] English:** We are going to be able to move forward.  
 **Translation:** 
 
-**[1050.88s] English:** we are going to be able to move forward  
+**[1054.98s] English:** And learn from the mistakes we are making to become a mature civilization.  
 **Translation:** 
 
-**[1054.98s] English:** and learn from the mistakes we are making to become a mature civilization  
+**[1059.06s] English:** You probably heard of the Drake equation, that would be the L at the very end.  
+**Translation:** Vocabulary: drake: 德雷克方程; equation: 方程; mature: 成熟的
+
+**[1066.64s] English:** Duration: The duration of intelligent civilizations, exactly—and at least.  
 **Translation:** 
 
-**[1059.06s] English:** you probably heard of the Drake equation that would be the L at the very end the  
-**Translation:** Vocabulary: drake: 德雷克; equation: 方程
+**[1071.78s] English:** The length of existence to become a civilization would earn you a lot more, Frank, somewhere like that, and the length of civilization would earn you a lot more for science; and science, obviously, since this.  
+**Translation:** Vocabulary: civilizations: 文明
 
-**[1066.64s] English:** duration the duration of intelligent civilization exactly and and or at least  
+**[1072.76s] English:** Right now, we are paying for the technology, which is great, but we are paying more for this. There is no reason why we are doing it.  
 **Translation:** 
 
-**[1071.78s] English:** the length of existence to become a civilization usage would earn you a lot more Frank somewhere like that and the length of civilization would earn you a lot more for science and science obviously since this.  
-**Translation:** 
-
-**[1072.76s] English:** right now we are paying for the technology is great but we are paying more for this there is no reason why we are doing it.  
-**Translation:** 
-
-**[1073.26s] English:** the length of time a civilization remains detectable.  
+**[1073.26s] English:** The length of time a civilization remains detectable.  
 **Translation:** Vocabulary: detectable: 可被检测的
 
 **[1078.82s] English:** It can disappear.  
 **Translation:** 
 
-**[1080.00s] English:** from the radar screen literally for a number of reasons the first one is  
+**[1080.00s] English:** From the radar screen, literally, for a number of reasons, the first one is...  
 **Translation:** 
 
-**[1084.88s] English:** destroy itself or being destroyed by external events or it can become so in  
+**[1084.88s] English:** Destroy itself, or be destroyed by external events, or it can become so.  
 **Translation:** 
 
-**[1092.60s] English:** tune and with the universe and so advanced that it disappears because he  
+**[1092.60s] English:** Tune in and with the universe, and so advanced that it disappears because he,...  
 **Translation:** 
 
-**[1098.68s] English:** melts really in the background and it's not visible anymore there are some wild  
+**[1098.68s] English:** Melts really in the background and it's not visible anymore. There are some wild.  
 **Translation:** 
 
-**[1104.16s] English:** theories out there saying that civilization might be so advanced that  
+**[1104.16s] English:** Theories out there say that civilization might be so advanced that  
 **Translation:** 
 
-**[1109.56s] English:** you cannot distinguish them from physical processes and that was an  
+**[1109.56s] English:** You cannot distinguish them from physical processes, and that was an.  
 **Translation:** 
 
-**[1115.38s] English:** example doesn't say that this is the case but some people say imagine that in  
+**[1115.38s] English:** Example doesn't say that this is the case, but some people say, "Imagine that," in  
 **Translation:** 
 
-**[1119.10s] English:** fact all the dark matter that we we see or we theorized about is in fact some  
+**[1119.10s] English:** Fact: All the dark matter that we see or have theorized about is, in fact, some.  
 **Translation:** 
 
-**[1125.02s] English:** sort of a biological process so you can think about a number of thing personally  
+**[1125.02s] English:** Sort of a biological process, so you can think about a number of things personally.  
 **Translation:** 
 
-**[1131.70s] English:** I believe that what you talk about about preserving our information is kind of  
+**[1131.70s] English:** I believe that what you're talking about, preserving our information, is kind of  
 **Translation:** 
 
-**[1139.20s] English:** what  
+**[1139.20s] English:** What?  
 **Translation:** 
 
-**[1139.54s] English:** life does we we need to look at ourselves as not different of what the  
+**[1139.54s] English:** Life, do we need to look at ourselves as not different from what the  
 **Translation:** 
 
-**[1146.04s] English:** little cell that started off was and this is what tells you not about the  
+**[1146.04s] English:** Little cell that started off was, and this is what tells you not about the  
 **Translation:** 
 
-**[1150.74s] English:** origin of life but in fact the nature of life which is a lot more interesting to  
+**[1150.74s] English:** Origin of life, but in fact, the nature of life is a lot more interesting to.  
 **Translation:** 
 
-**[1154.60s] English:** me because it is the nature of life is really what is going to give you some  
+**[1154.60s] English:** Because it is the nature of life, what is really going to give you some.  
 **Translation:** 
 
-**[1159.88s] English:** universal signature to look for it all over the place and not only around ponds  
+**[1159.88s] English:** Universal signature to look for it all over the place, and not only around ponds.  
 **Translation:** 
 
-**[1164.92s] English:** of water for life as we know it but the nature of life  
+**[1164.92s] English:** Of water for life as we know it, but the nature of life,...  
 **Translation:** 
 
-**[1169.54s] English:** is telling you that life want to get the most information possible around its  
+**[1169.54s] English:** Is telling you that life wants to get the most information possible around it.  
 **Translation:** 
 
-**[1177.10s] English:** surroundings and complexity is in fact the ability to gather and exchange and  
-**Translation:** Vocabulary: complexity: 复杂性; surroundings: 周围环境
+**[1177.10s] English:** Surroundings and complexity is, in fact, the ability to gather and exchange and  
+**Translation:** Vocabulary: complexity: 复杂性; surroundings: 环境
 
-**[1183.66s] English:** preserve the most information possible and and so what you're saying is kind of  
+**[1183.66s] English:** Preserve as much information as possible, and so what you're saying is kind of  
 **Translation:** 
 
-**[1190.38s] English:** preserving the kind of information we have so in the things that we are doing  
+**[1190.38s] English:** Preserving the kind of information we have, so in the things that we are doing.  
 **Translation:** 
 
-**[1197.56s] English:** as life is something that has crap to it and that's important in life in the flesh it also makes us healthier yet we also have to talk to one another so what kind of tips do you take in Så yes, wir Stars sind auf Hauptsucht ein craving für Selbst ai nichts.  
+**[1197.56s] English:** As life is something that has crap to it, and that's important in life in the flesh, it also makes us healthier. Yet, we also have to talk to one another. So, what kind of tips do you take?  
 **Translation:** 
 
-**[1199.54s] English:** Happy  
-**Translation:** Vocabulary: craving: 强烈欲望; nichts: nothing
-
-**[1200.00s] English:** and I say happened because we don't know what life is we have 123 definitions of life and some  
+**[1199.54s] English:** Happy.  
 **Translation:** 
 
-**[1207.74s] English:** people are saying we don't have any definition we only have descriptions of life and in that's true  
+**[1200.00s] English:** And I say "happened" because we don't really know what life is; we have 123 definitions of it, and some...  
 **Translation:** 
 
-**[1213.52s] English:** and that's true so think about it for two minutes we are looking for something we don't know it is  
+**[1207.74s] English:** People are saying we don't have any definition; we only have descriptions of life, and that's true.  
 **Translation:** 
 
-**[1218.66s] English:** but we have a few clues about the nature of life there are some really good theories the first one  
+**[1213.52s] English:** And that's true. So, think about it for two minutes. We are looking for something we don't know it is.  
 **Translation:** 
 
-**[1224.88s] English:** was Schrodinger right in the 40s right now there is a guy named Jeremy England it's another  
+**[1218.66s] English:** But we have a few clues about the nature of life. There are some really good theories, the first one:  
 **Translation:** 
 
-**[1230.74s] English:** biophysical theory of life it says life is the inevitable result of thermophysics this is the  
-**Translation:** Vocabulary: biophysical: 生物物理的; schrodinger: 薛定谔; thermophysics: 热物理
-
-**[1240.50s] English:** best way to beat entropy to fight entropy but when you look at what we are doing if you want to know  
+**[1224.88s] English:** Was Schrödinger right in the 1940s? Right now, there is a guy named Jeremy England; it's another  
 **Translation:** 
 
-**[1247.58s] English:** what the nature of life is look at our languages and they can be very different languages but they  
+**[1230.74s] English:** Biophysical theory of life: it says that life is the inevitable result of thermodynamics. This is the  
+**Translation:** Vocabulary: biophysical: 生物物理的; thermodynamics: 热力学
+
+**[1240.50s] English:** The best way to beat entropy is to fight it, but when you look at what we are doing, if you want to know...  
+**Translation:** 
+
+**[1247.58s] English:** What is the nature of life? Look at our languages, and they can be very different, but they  
 **Translation:** Vocabulary: entropy: 无序状态
 
-**[1253.14s] English:** all have the same purpose right  
+**[1253.14s] English:** All have the same purpose, right?  
 **Translation:** 
 
-**[1254.86s] English:** exchange information understand you know store information and and also whether it is with  
+**[1254.86s] English:** Exchange information, understand, you know, store information, and also whether it is with.  
 **Translation:** 
 
-**[1262.28s] English:** somebody at the outside or thoughts in yourself that's the same thing the cell was doing but now  
+**[1262.28s] English:** Somebody at the outside, or thoughts within yourself — that's the same thing the cell was doing, but now...  
 **Translation:** 
 
-**[1270.10s] English:** when you're looking at life and at the structure of our languages life started with an atom so it's  
+**[1270.10s] English:** When you're looking at life and the structure of our languages, life started with an atom, so it's  
 **Translation:** 
 
-**[1278.84s] English:** an atom they got together to create inorganic molecules then you have complex inorganic  
+**[1278.84s] English:** An atom got together to create inorganic molecules, then you have complex inorganic.  
 **Translation:** 
 
-**[1284.74s] English:** molecules then you have complex inorganic molecules then you have complex inorganic molecules  
+**[1284.74s] English:** Molecules, then you have complex inorganic molecules, then you have complex inorganic molecules.  
 **Translation:** Vocabulary: inorganic: 无机的
 
-**[1284.84s] English:** then you get to organic molecules complex inorganic molecules and then you have RNA DNA etc look at  
+**[1284.84s] English:** Then you get to organic molecules, complex inorganic molecules, and then you have RNA, DNA, etc. Look at it.  
 **Translation:** 
 
-**[1294.86s] English:** the structure of our language we created alphabets letters that's your anthem then we put them  
+**[1294.86s] English:** The structure of our language: we created alphabets and letters, that's your anthem, then we put them  
 **Translation:** Vocabulary: alphabets: 字母表; anthem: 国歌
 
-**[1303.18s] English:** together to create syllables right those syllables get together to create words words tell you  
+**[1303.18s] English:** Together, they create syllables. Right? Those syllables get together to create words. Words tell you.  
 **Translation:** 
 
-**[1309.68s] English:** something but they are nothing without a verb that gives the direction  
+**[1309.68s] English:** Something, but they are nothing without a verb that gives the direction.  
 **Translation:** Vocabulary: syllables: 音节
 
-**[1314.72s] English:** that's RNA and DNA and and then you can put all the compliments you want  
+**[1314.72s] English:** That's RNA and DNA, and then you can put all the complements you want.  
 **Translation:** 
 
-**[1320.00s] English:** our languages are built exactly as life is built we are repeating patterns i call this the  
+**[1320.00s] English:** Our languages are built, exactly as life is built. We are repeating patterns. I call this the  
+**Translation:** Vocabulary: complements: 补充
+
+**[1327.94s] English:** Mandelbrot Universe and the Fractal Universe, because this is exactly what it is. I would  
 **Translation:** 
 
-**[1327.94s] English:** mandelbrot universe and the fractal universe because this is exactly what it is uh i i would  
+**[1334.04s] English:** Say that as much as I do believe in sending probes to explore the universe, I say we should also look...  
+**Translation:** Vocabulary: fractal: 分形; mandelbrot: 曼德布洛特; probes: 探测器
+
+**[1340.58s] English:** Inward to find the answer to some of the profound questions of who we are, what's life, what's  
 **Translation:** 
 
-**[1334.04s] English:** say that as much as i do believe to sending probes to explore the universe i say we should also look  
-**Translation:** Vocabulary: fractal: 分形; mandelbrot: 曼德布洛特
+**[1348.14s] English:** The nature of life, because we are expressing life, so searching not for life but for the nature of.  
+**Translation:** Vocabulary: inward: 内心; profound: 深奥
 
-**[1340.58s] English:** inward to find the uh the answer to some of the profound question of who we are what's life what's  
+**[1355.54s] English:** Life, the nature of it — absolutely, I am more interested in that because the day we understand the nature  
 **Translation:** 
 
-**[1348.14s] English:** the nature of life because we are expressing life so searching not for life but for the nature of  
-**Translation:** Vocabulary: profound: 深奥
+**[1361.52s] English:** Of life, then we have a universal biosignature, and it doesn't matter whether this life...  
+**Translation:** Vocabulary: biosignature: 生物特征
 
-**[1355.54s] English:** life the nature of absolutely i am more interested in that because the day we understand the nature  
+**[1369.28s] English:** Respond to the same kind of biochemical processes as we do, although it makes sense—I told you.  
 **Translation:** 
 
-**[1361.52s] English:** of life then we have a universal biosignature and it doesn't matter whether this life  
-**Translation:** Vocabulary: biosignature: 生命特征
+**[1376.52s] English:** About the generational aspect,  
+**Translation:** Vocabulary: biochemical: 生物化学的; generational: 代际的
 
-**[1369.28s] English:** respond to the same kind of biochemical processes as we do although it makes sense i i told you  
+**[1378.12s] English:** Of the bricks of life, the stuff we're made of, the sun is part of the youngest generation of stars.  
 **Translation:** 
 
-**[1376.52s] English:** about the generational aspect  
-**Translation:** Vocabulary: biochemical: 生物化学; generational: 代际的
-
-**[1378.12s] English:** of the bricks of life the stuff we're made of the sun is part of the youngest generation of stars  
+**[1385.10s] English:** And the first two generations of stars didn't produce the kind of elements we are made of.  
 **Translation:** 
 
-**[1385.10s] English:** and the first two generation of stars didn't produce the kind of elements we are made of  
+**[1391.08s] English:** They were stars that were either without metals, just made of helium and hydrogen, or poor in metals.  
 **Translation:** 
 
-**[1391.08s] English:** they were stars that were either without metal just made of helium and hydrogen or poor in metals  
+**[1402.04s] English:** So, the stars died off, and stars like the Sun  
 **Translation:** 
 
-**[1402.04s] English:** so the stars died off and stars like the sun  
+**[1407.94s] English:** Were  
 **Translation:** 
 
-**[1407.94s] English:** were  
+**[1408.12s] English:** Born from those, and this is why we have elements like carbon, hydrogen, oxygen, etc., now.  
 **Translation:** 
 
-**[1408.12s] English:** born from those. And this is why we have elements like carbon, hydrogen, oxygen, et cetera now.  
-**Translation:** Vocabulary: cetera: 等等
-
-**[1418.36s] English:** And that's the life we are built on. So I think it's not stupid to be looking for something that  
+**[1418.36s] English:** And that's the life we are built on. So, I think it's not stupid to be looking for something that.  
 **Translation:** 
 
-**[1424.76s] English:** looks like us, because right now in the universe, this is the stuff that's the most abundant.  
+**[1424.76s] English:** It looks like us, because right now in the universe, this is the stuff that's the most abundant.  
 **Translation:** 
 
-**[1428.92s] English:** And we see with the exoplanet, with Kepler, with TESS, and now with James Webb, we see that there  
+**[1428.92s] English:** And we see, with the exoplanet, with Kepler, with TESS, and now with James Webb, that we see  
 **Translation:** 
 
-**[1436.68s] English:** are many, many different types of planets that may be habitable.  
-**Translation:** Vocabulary: exoplanet: 系外行星
+**[1436.68s] English:** There are many, many different types of planets that may be habitable.  
+**Translation:** Vocabulary: exoplanet: 系外行星; kepler: 开普勒
 
-**[1440.00s] English:** in the habitable zone of their stars there are countless stars like the sun but more interestingly  
+**[1440.00s] English:** In the habitable zone of their stars, there are countless stars like the Sun, but more interestingly,  
 **Translation:** 
 
-**[1446.40s] English:** enough there are other type of stars where you do have habitable zone as well and where the duration  
+**[1446.40s] English:** Enough; there are other types of stars where you do have a habitable zone as well, and where the duration...  
 **Translation:** 
 
-**[1453.12s] English:** of the stars are sometimes a thousand times more than our sun so you can imagine all sorts of things  
+**[1453.12s] English:** Of the stars are sometimes a thousand times more luminous than our sun, so you can imagine all sorts of things.  
 **Translation:** 
 
-**[1461.36s] English:** and you can imagine what type of life would be on around those stars the biochemistry might be  
-**Translation:** Vocabulary: biochemistry: 生物化学
+**[1461.36s] English:** And you can imagine what type of life would be around those stars; the biochemistry might be...  
+**Translation:** Vocabulary: biochemistry: 生物化学; luminous: 发光的
 
-**[1468.72s] English:** quite similar in fact and especially for the simple life because simple life starts really  
+**[1468.72s] English:** Quite similar, in fact, and especially for the simple life, because simple life starts really.  
 **Translation:** 
 
-**[1474.80s] English:** quickly on earth so my take on this is that the universe is full of cyanobacteria but as far as  
+**[1474.80s] English:** Quickly on Earth, so my take on this is that the universe is full of cyanobacteria, but as far as  
 **Translation:** Vocabulary: cyanobacteria: 蓝细菌
 
-**[1482.72s] English:** intelligent life it takes more time so that can take different you know aspect so you think it's  
+**[1482.72s] English:** Intelligent life: It takes more time, so that can take different aspects. So, you think it's  
 **Translation:** 
 
-**[1490.32s] English:** possible that the universe is full of bacteria and even those stars that last a thousand times longer  
+**[1490.32s] English:** Possible that the universe is full of bacteria, and even those stars that last a thousand times longer.  
 **Translation:** 
 
-**[1498.72s] English:** sun even even on the planets that orbit those stars may be bacteria  
+**[1498.72s] English:** Sunlight, even on the planets that orbit those stars, may be home to bacteria.  
 **Translation:** 
 
-**[1510.48s] English:** for billions and billions and billions of years we actually don't know what triggered  
+**[1510.48s] English:** For billions and billions and billions of years, we actually don't know what triggered.  
 **Translation:** Vocabulary: bacteria: 微生物
 
-**[1516.72s] English:** the evolution to complexity on earth that's still a big question mark is that the most  
+**[1516.72s] English:** The evolution to complexity on Earth that's still a big question mark is that the most  
 **Translation:** 
 
-**[1520.80s] English:** impressive invention on earth to you that cambrian revolution is really what took us towards what we  
+**[1520.80s] English:** Impressive invention on Earth, I'll have to say that the Cambrian Revolution really is what took us toward what we  
 **Translation:** Vocabulary: cambrian: 寒武纪; complexity: 复杂性
 
-**[1529.12s] English:** and in the meantime they were the dinosaurs etc the dinosaur were wiped out so the evolution could  
+**[1529.12s] English:** And in the meantime, they were the dinosaurs, etc. The dinosaurs were wiped out, so evolution could continue.  
 **Translation:** 
 
-**[1534.24s] English:** have taken a completely different turn uh it's always i would say mass extinction that are going  
-**Translation:** Vocabulary: meantime: 其间
+**[1534.24s] English:** It has taken a completely different turn; I would say it's always been about mass extinctions.  
+**Translation:** Vocabulary: extinctions: 大规模灭绝; meantime: meantime
 
-**[1539.92s] English:** to drive what's the end game but um yeah you take two planets and you change you know those  
+**[1539.92s] English:** To drive, what's the end game? But, um, yeah, you take two planets and you change, you know, those.  
 **Translation:** 
 
-**[1549.36s] English:** asteroid impacts or those big geological events that wipe out like 90 percent of life at any time  
-**Translation:** Vocabulary: asteroid: 小行星; geological: 地质的
+**[1549.36s] English:** Asteroid impacts, or those big geological events that wipe out about 90 percent of life at any time.  
+**Translation:** Vocabulary: asteroid: 小行星; geological: 地壳的
 
-**[1558.72s] English:** that seem to be  
+**[1558.72s] English:** That seems to be  
 **Translation:** 
 
-**[1560.00s] English:** interesting. There are two things. The first one is where you are located on our galaxy  
+**[1560.00s] English:** Interesting. There are two things. The first one is where you are located in our galaxy.  
 **Translation:** Vocabulary: galaxy: 星系
 
-**[1567.00s] English:** matters a lot. We actually are in the habitable zone of our galaxy. And if you are too close  
+**[1567.00s] English:** Matters a lot. We actually are in the habitable zone of our galaxy. And if you are too close,  
 **Translation:** 
 
-**[1577.04s] English:** to the center, then it's a lot denser. And remember, we have the Oort cloud around our  
+**[1577.04s] English:** To the center, then it's a lot denser. And remember, we have the Oort cloud around our太阳系。 (Note: The last part seems to be in Chinese and might need context for proper English translation, but I'll keep it as is per instructions.)  
+**Translation:** Vocabulary: denser: 密度更大
+
+**[1584.04s] English:** Solar system. And if you are in the region of the galaxy that's too populated, then you are  
 **Translation:** 
 
-**[1584.04s] English:** solar system. And if you are in the region of the galaxy that's too populated, then you are  
+**[1590.14s] English:** Going to run an interaction, gravitational interaction, with all these stars. And since it's more dense,  
+**Translation:** Vocabulary: gravitational: 引力的
+
+**[1596.64s] English:** You will have more comets that are living in the Oort Cloud being ejected from the Oort Cloud.  
 **Translation:** 
 
-**[1590.14s] English:** going to run interaction, gravitational interaction with all these stars. And since it's more dense,  
-**Translation:** Vocabulary: gravitational: 引力
+**[1603.52s] English:** And coming towards the inner solar system and collide with planets. So, you will have more of  
+**Translation:** Vocabulary: collide: 相撞; comets: 彗星; ejected: 被抛出
 
-**[1596.64s] English:** you will have more of the comets that are living in the Oort cloud being ejected from the Oort cloud  
+**[1611.02s] English:** These impacts, if you are too close to the center of the galaxy.  
 **Translation:** 
 
-**[1603.52s] English:** and coming towards the inner solar system and collide with planets. So you will have more of  
-**Translation:** Vocabulary: collide: 相撞; ejected: 被抛出
-
-**[1611.02s] English:** these impacts if you are too close to the center of the galaxy.  
+**[1614.04s] English:** Not to mention the radiation. There is a place in our galaxy where it's really bad.  
 **Translation:** 
 
-**[1614.04s] English:** Not to mention the radiation. There is a place in our galaxy where it's a really bad  
+**[1619.46s] English:** Neighborhood. You don't want to be there. You wouldn't be able to have a life. But what really  
 **Translation:** 
 
-**[1619.46s] English:** neighborhood. You don't want to be there. You wouldn't be able to have life. But what really  
+**[1624.34s] English:** Matters is extinction, but also the climate history of a planet has a role to play. And  
 **Translation:** 
 
-**[1624.34s] English:** matters is extinctions, but also the climate history of a planet has a role to play. And  
-**Translation:** Vocabulary: extinctions: 物种灭绝
-
-**[1635.52s] English:** it seems that it's a theory. It still has to be backed up by more observation, but there is a  
+**[1635.52s] English:** It seems that it's a theory. It still has to be backed up by more observation, but there is a  
 **Translation:** 
 
-**[1643.66s] English:** good correlation.  
+**[1643.66s] English:** Good correlation.  
 **Translation:** Vocabulary: correlation: 相关性
 
-**[1644.04s] English:** Between not only the passage of the solar system towards the center of the galaxy,  
+**[1644.04s] English:** Between the passage of the solar system toward the center of the galaxy,  
 **Translation:** 
 
-**[1650.76s] English:** there is one place where we get hit by asteroid because of the interaction I was telling you  
+**[1650.76s] English:** There is one place where we get hit by asteroids because of the interaction I was telling you.  
+**Translation:** Vocabulary: asteroids: 小行星; galaxy: 星系
+
+**[1655.50s] English:** About. But the other one is the climate. With the Milankovitch cycles, there are big jumps in life's  
 **Translation:** 
 
-**[1655.50s] English:** about. But the other one is the climate. With the Milankovitch cycles, big jumps in life's  
-**Translation:** 
-
-**[1663.76s] English:** evolution seem to be associated with snowball earth episodes. We don't know why yet.  
+**[1663.76s] English:** Evolution seems to be associated with Snowball Earth episodes. We don't know why yet.  
 **Translation:** Vocabulary: milankovitch: 米兰科维奇周期; snowball: 雪球事件
 
-**[1674.04s] English:** Snowball episodes? Intuitively you would think that they are connected to the Interstellar  
+**[1674.04s] English:** Snowball episodes? Intuitively, you would think that they are connected to interstellar.  
 **Translation:** 
 
-**[1679.54s] English:** system.  
-**Translation:** Vocabulary: interstellar: 星际; intuitively: 直观地
+**[1679.54s] English:** System.  
+**Translation:** Vocabulary: interstellar: 星际的; intuitively: 直观地
 
-**[1680.04s] English:** However, you are getting a little bit older, and this is because you are building up a lot of  
+**[1680.00s] English:** To a decrease in life because the whole Earth is covered in ice, but for some reason there were big  
 **Translation:** 
 
-**[1681.12s] English:** of the energy that you have in your solar system.  
+**[1680.04s] English:** However, you are getting a little bit older, and this is because you are building up a lot of experience.  
+**Translation:** 
+
+**[1681.12s] English:** Of the energy that you have in your solar system.  
 **Translation:** 
 
 **[1681.36s] English:** What is it that will be changed in the future?  
@@ -889,7 +893,7 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[1681.78s] English:** Here is the kind of thing that I would like to show you.  
 **Translation:** 
 
-**[1681.96s] English:** Here is an example, if you have developed a lot more energy.  
+**[1681.96s] English:** Here is an example: if you have developed a lot more energy.  
 **Translation:** 
 
 **[1682.22s] English:** Okay, and how did this happen in your solar system?  
@@ -910,409 +914,406 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[1684.88s] English:** Also, what is it that they are going to happen?  
 **Translation:** 
 
-**[1685.18s] English:** How do you think is the future of life on the Earth?  
+**[1685.18s] English:** How do you think the future of life on Earth will be?  
 **Translation:** 
 
-**[1680.00s] English:** to a decrease in life because the whole earth is covered in ice but for some reason there were big  
+**[1688.48s] English:** Jumps in evolution right after each of those episodes, and today there are other things.  
 **Translation:** 
 
-**[1688.48s] English:** jumps in evolution right after each of those episodes and and today there are other things  
+**[1694.64s] English:** Like, why all of a sudden do you have a mutation that seems to be responsible for a big jump?  
 **Translation:** 
 
-**[1694.64s] English:** like why all of a sudden you have mutation that seems to be responsible for you know a big jump  
-**Translation:** 
-
-**[1700.24s] English:** in evolution we are not clear yet so all of those things when you're thinking about life elsewhere  
+**[1700.24s] English:** In evolution, we are not clear yet, so all of those things when you're thinking about life elsewhere.  
 **Translation:** Vocabulary: mutation: 突变
 
-**[1706.24s] English:** are going to come into play and i cannot tell you that a planet that remains habitable for much  
+**[1706.24s] English:** Are going to come into play, and I cannot tell you that a planet that remains habitable for much.  
 **Translation:** 
 
-**[1714.56s] English:** longer than the earth will have an evolutionary path that's the same or different depends on  
+**[1714.56s] English:** Longer than the Earth, a planet will have an evolutionary path that's the same or different, depending on  
+**Translation:** Vocabulary: evolutionary: 进化
+
+**[1721.60s] English:** Extension depends on climate, depends on what? Not it's a little bit surreal that we're two descendants.  
 **Translation:** 
 
-**[1721.60s] English:** extension depends on climate depends on whatnot it's a little bit surreal that we're two descendants  
+**[1727.84s] English:** Of course, some people are trying to figure out what's going on, and well, I think that some apes might be helping them.  
+**Translation:** Vocabulary: surreal: 不真实
+
+**[1736.24s] English:** Then I am more biased, but I am interested in the nature of life itself, and that is, of course,  
 **Translation:** 
 
-**[1727.84s] English:** of apes well i think that some some people trying to figure out what what the heck is going on and  
-**Translation:** Vocabulary: descendants: 后代; surreal: 荒诞; whatnot: 等等
+**[1740.08s] English:** Part of why humans are so biased, even as a species—you were biased as humans; you're less biased as a group.  
+**Translation:** Vocabulary: biased: 有偏见的
 
-**[1736.24s] English:** then i'm more biased but i'm interested in the nature of life itself and that is of course  
+**[1748.96s] English:** Scientist, but we still love Earth. We still don't know anything about it, but even so,  
 **Translation:** 
 
-**[1740.08s] English:** part of why humans are so biased even as a so you were biased as humans you're less biased as a  
+**[1756.48s] English:** You try to get away from thinking about what life is by searching for the nature of life, and we still  
 **Translation:** 
 
-**[1748.96s] English:** scientist but we still love earth we still don't know anything but this earth and so even though  
+**[1762.80s] English:** Kind of connect it to the way we understand the nature of life here on Earth, so  
 **Translation:** 
 
-**[1756.48s] English:** you try to get escape from thinking of what life is in the search for the nature of life we still  
+**[1766.24s] English:** The origin of life, yes, because well, we are the only model we know, and as I said, it makes sense.  
 **Translation:** 
 
-**[1762.80s] English:** kind of connect it to the way we understand the nature of life here on earth so  
+**[1774.96s] English:** Because it seems that a lot of stars, like the Sun, appeared about 10 billion years ago, and there are  
 **Translation:** 
 
-**[1766.24s] English:** the origin of life yes because well we are the only model we know and as i said it makes sense  
+**[1784.48s] English:** Lots of words that really resemble the Earth, and lots of water out there, and lots of conditions.  
 **Translation:** 
 
-**[1774.96s] English:** because it seems that a lot of you know stars like the sun appear 10 billion years ago and there are  
+**[1790.80s] English:** That could be a repeat of what we've known, and we know that this biochemistry works.  
 **Translation:** 
 
-**[1784.48s] English:** lots of words that really resemble the earth and lots of water out there and lots of conditions  
+**[1796.72s] English:** So, as I mentioned, what is going  
+**Translation:** Vocabulary: biochemistry: 生物化学
+
+**[1800.00s] English:** To change is really the evolution of a planet, extinction, geology, etc., but our model is probably...  
 **Translation:** 
 
-**[1790.80s] English:** that could be a repeat of what we know and we know that this biochemistry works  
+**[1807.44s] English:** Very abundant, I'm not saying that the end game is going to resemble us because of all this extinction.  
 **Translation:** 
 
-**[1796.72s] English:** so as uh again as i mentioned what is going  
+**[1812.80s] English:** etc., but this is a good bias; it's one that has the numbers to support it, you know, the principle of.  
 **Translation:** 
 
-**[1800.00s] English:** to change is really the evolution of a planet extinction geology etc but our model is probably  
+**[1820.40s] English:** Mediocrity: I think that, in that case, it really applies where the Earth is representative.  
+**Translation:** Vocabulary: mediocrity: 平庸
+
+**[1830.08s] English:** Of an abundance of other words, now, of course, there can be other biochemistry, and we have some.  
 **Translation:** 
 
-**[1807.44s] English:** very abundant i'm not saying that the end game is going to resemble us because of all this extinction  
+**[1838.00s] English:** Examples in our own solar system, Titan might be a representative of that we are not very clear about.  
+**Translation:** Vocabulary: titan: 土卫六
+
+**[1843.92s] English:** The kind of biochemistry that can come out of a world where you have hydrocarbon lakes and rains.  
 **Translation:** 
 
-**[1812.80s] English:** etc but this is a good bias it's one that has the number for it uh you know the principle of  
-**Translation:** 
-
-**[1820.40s] English:** mediocrity i i think that uh in that case it really applies where the earth is representative  
-**Translation:** 
-
-**[1830.08s] English:** of an abundance of other words now of course there can be other biochemistry we have some  
-**Translation:** 
-
-**[1838.00s] English:** examples in our own solar system titan might be a representative of that we are not very clear of  
-**Translation:** Vocabulary: biochemistry: 生物化学; titan: 土卫六
-
-**[1843.92s] English:** the kind of biochemistry that can come out of a world where you have hydrocarbon lakes and rains  
-**Translation:** 
-
-**[1851.76s] English:** and and things like that but we are going there so we will learn something about this um so the bias  
+**[1851.76s] English:** And, you know, things like that, but we are going there so we will learn something about this. Um, so the bias,...  
 **Translation:** Vocabulary: hydrocarbon: 碳氢化合物
 
-**[1860.00s] English:** is right there the nature of life is different if really life is the best way the universe has to  
+**[1860.00s] English:** Is right there? The nature of life is different if, really, life is the best way the universe has to.  
 **Translation:** 
 
-**[1869.20s] English:** fight entropy there is no bias there because physics is the same all across the universe  
-**Translation:** Vocabulary: entropy: 无序程度
+**[1869.20s] English:** Fight entropy; there is no bias there, because physics is the same all across the universe.  
+**Translation:** Vocabulary: entropy: 无序状态
 
-**[1875.04s] English:** at least the universe we know there might be other universes but the one we know works with the same  
+**[1875.04s] English:** At least, in the universe we know, there might be other universes, but the one we know works with the same.  
 **Translation:** 
 
-**[1880.48s] English:** physics so if life is the the best way to fight entropy you can imagine that life permeates the  
-**Translation:** Vocabulary: permeates: 遍布; universes: 宇宙
+**[1880.48s] English:** Physics: So, if life is the best way to fight entropy, you can imagine that life permeates the  
+**Translation:** Vocabulary: permeates: 渗透; universes: 宇宙
 
-**[1890.00s] English:** then the question might change to like flavors of ice cream what are the  
+**[1890.00s] English:** Then, the question might change to, for example, "flavors of ice cream: what are the  
 **Translation:** 
 
-**[1894.86s] English:** flavors of complexity that this process this nature of life leads to and there  
+**[1894.86s] English:** Flavors of complexity that this process, this nature of life, leads to, and there  
 **Translation:** 
 
-**[1901.70s] English:** we might have bias about what complexity looks like what beautiful complexity  
+**[1901.70s] English:** We might have biases about what complexity looks like, what beautiful complexity.  
 **Translation:** 
 
-**[1907.46s] English:** looks like we look at humans that operate a certain physical scale and  
+**[1907.46s] English:** It looks like we look at humans that operate on a certain physical scale and  
 **Translation:** 
 
-**[1912.12s] English:** time scale and we think this is intelligence we have another problem we  
+**[1912.12s] English:** Time scale, and we think this is intelligence; we have another problem we  
 **Translation:** 
 
-**[1917.48s] English:** don't know what life is we don't know what intelligence is  
+**[1917.48s] English:** Don't know what life is, we don't know what intelligence is.  
 **Translation:** 
 
-**[1920.00s] English:** and we don't know what consciousness is but we are trying to tackle the big  
+**[1920.00s] English:** And we don't know what consciousness is, but we are trying to tackle the big question.  
 **Translation:** 
 
-**[1923.84s] English:** question do we know what complexity is also you know no I think that we have to  
-**Translation:** Vocabulary: complexity: 复杂性
+**[1923.84s] English:** Question: Do we know what complexity is? Also, you know, no; I think that we have to.  
+**Translation:** Vocabulary: complexity: 复杂性; consciousness: 意识; tackle: 应对
 
-**[1929.54s] English:** be honest and as a scientist and I'm going to step back and talk about  
+**[1929.54s] English:** Be honest, and as a scientist, I'm going to step back and talk about...  
 **Translation:** 
 
-**[1933.66s] English:** intelligence for me a bacteria that has survived like cyanobacteria that has  
-**Translation:** Vocabulary: bacteria: 细菌; cyanobacteria: 蓝细菌
+**[1933.66s] English:** Intelligence, for me, is like a bacterium that has survived, much like cyanobacteria that has.  
+**Translation:** Vocabulary: bacterium: 细菌; cyanobacteria: 蓝细菌
 
-**[1941.24s] English:** survived just like us four billion years in one incarnation or another and  
+**[1941.24s] English:** Survived, just like us, for four billion years, in one incarnation or another, and  
 **Translation:** 
 
-**[1946.16s] English:** actually they are very similar to the one that they were three point five  
+**[1946.16s] English:** Actually, they are very similar to the one they were three-point-five.  
+**Translation:** Vocabulary: incarnation: 化身
+
+**[1949.46s] English:** Billion years ago, it had some intelligence about its environment so  
 **Translation:** 
 
-**[1949.46s] English:** billion years ago it has some intelligence about its environment so  
+**[1954.08s] English:** For complexity, it might be that we need to take the world literally, which is an  
 **Translation:** 
 
-**[1954.08s] English:** for complexity it might be that we need to take the world literally which is an  
+**[1961.76s] English:** Assemblage or additional capacity to gather, collect, and store information, maybe.  
 **Translation:** 
 
-**[1961.76s] English:** assemblage or additional capacity to gather collect store information maybe  
-**Translation:** 
-
-**[1967.64s] English:** this is something like that or actually use that information to do something  
+**[1967.64s] English:** This is something like that, or actually use that information to do something.  
 **Translation:** Vocabulary: assemblage: 集合体
 
-**[1971.12s] English:** with it but I do completely agree with you  
+**[1971.12s] English:** With it, but I do completely agree with you.  
 **Translation:** 
 
-**[1975.60s] English:** what you're saying is that we need to take the world literally which is an  
+**[1975.60s] English:** What you're saying is that we need to take the world literally, which is an  
 **Translation:** 
 
-**[1976.16s] English:** assemblage or additional capacity to gather collect store information maybe  
+**[1976.16s] English:** Assemblage or additional capacity to gather, collect, and store information, maybe.  
 **Translation:** 
 
-**[1976.76s] English:** you talk about flavor of ice cream I think this is exactly it and I have a  
+**[1976.76s] English:** You talk about the flavor of ice cream, I think this is exactly it, and I have a  
 **Translation:** 
 
-**[1983.40s] English:** basic education about what physics is doing right now and I'm look at quantum  
+**[1983.40s] English:** Basic education about what physics is doing right now, and I'm looking at quantum.  
 **Translation:** 
 
-**[1991.32s] English:** physics and what it says about the universe and about the connection about  
+**[1991.32s] English:** Physics and what it says about the universe and about the connection between  
+**Translation:** Vocabulary: quantum: 量子
+
+**[1997.82s] English:** An atom here, and an atom there, a photon here, and a photon there, and I am.  
 **Translation:** 
 
-**[1997.82s] English:** an atom here and an atom here a photon here and a photon there and I am  
+**[2003.92s] English:** Starting to put, maybe.  
+**Translation:** Vocabulary: photon: 光子
+
+**[2005.60s] English:** Wrongfully, two into together, but in my mind—and of course, it's nothing anti-.  
 **Translation:** 
 
-**[2003.92s] English:** starting to put maybe  
+**[2012.16s] English:** Can prove it, but in my mind, the universe is connected everywhere in all.  
 **Translation:** 
 
-**[2005.60s] English:** wrongfully 2 into together but in my mind and of course it's nothing anti I  
+**[2017.90s] English:** Different places, so this life connection is something that, as you said.  
 **Translation:** 
 
-**[2012.16s] English:** can prove it but in my mind the universe is connected everywhere in all  
+**[2024.14s] English:** Met the universe, and the way to find life might be very different than to.  
 **Translation:** 
 
-**[2017.90s] English:** different places so this life connection is something that as you said  
+**[2029.58s] English:** Look for the origins of life; I think it's a good thing to go out there and.  
 **Translation:** 
 
-**[2024.14s] English:** met the universe and the way to find life might be very different than to  
+**[2033.20s] English:** Look for the origin of life somewhere else.  
 **Translation:** 
 
-**[2029.58s] English:** look for the origins of life I think it's a good thing to go out there and  
+**[2035.14s] English:** Because it's the manifestation of the nature of life that's all of a sudden become  
 **Translation:** 
 
-**[2033.20s] English:** look for the origin of life somewhere else  
-**Translation:** 
-
-**[2035.14s] English:** because it's the manifestation of the nature of life that's all of a sudden become  
-**Translation:** 
-
-**[2040.88s] English:** apparent evident to our eye but what i think would be our greatest achievement is that if we can find  
+**[2040.88s] English:** Apparent and evident to our eyes, but what I think would be our greatest achievement is that if we can find  
 **Translation:** Vocabulary: manifestation: 显现
 
-**[2051.36s] English:** that process of life because at that point in my mind the universe all of a sudden is going to  
+**[2051.36s] English:** That process of life, because at that point in my mind, the universe all of a sudden is going to.  
 **Translation:** 
 
-**[2059.04s] English:** illuminate itself with actually its living force what i can only call a living force  
+**[2059.04s] English:** Illuminate itself with what I can only call its living force.  
 **Translation:** Vocabulary: illuminate: 照亮
 
-**[2065.92s] English:** to me this is what we are looking at a universe that becomes more and more complex with time  
+**[2065.92s] English:** To me, this is what we are looking at: a universe that becomes more and more complex with time.  
 **Translation:** 
 
-**[2072.80s] English:** more and more able to gather information and interestingly enough why to understand itself  
+**[2072.80s] English:** More and more, it is able to gather information, and interestingly enough, why to understand itself.  
 **Translation:** 
 
-**[2080.64s] English:** so sagan was right when he was selling we are the universe trying to understand itself  
+**[2080.64s] English:** So, Sagan was right when he was selling "We Are the Universe, Trying to Understand Itself.  
 **Translation:** 
 
-**[2086.48s] English:** and the more we go the more the universe become alive maybe intelligent and maybe also conscious  
+**[2086.48s] English:** And the more we explore, the more the universe becomes alive—maybe intelligent and maybe also conscious.  
 **Translation:** 
 
-**[2095.36s] English:** conscious  
+**[2095.36s] English:** Conscious.  
 **Translation:** 
 
-**[2095.92s] English:** self-aware exactly through us it does make me a little bit sad as a human just watching all the  
+**[2095.92s] English:** Self-awareness, exactly, through us it does make me a little bit sad as a human just watching all the  
 **Translation:** 
 
-**[2103.12s] English:** breakthroughs on artificial intelligence side when applied to natural sciences now more and  
+**[2103.12s] English:** Breakthroughs on the artificial intelligence side, when applied to natural sciences, are now more and  
 **Translation:** 
 
-**[2108.24s] English:** more to physics that the creatures that will solve the question of the origin of the nature of life  
+**[2108.24s] English:** More to physics than the creatures that will solve the question of the origin of life.  
 **Translation:** Vocabulary: breakthroughs: 重大进展
 
-**[2116.88s] English:** or just the process the nature of life will be ai systems it makes me a bit sad too i don't think so  
+**[2116.88s] English:** Or just the process—the nature of life will be AI systems, it makes me a bit sad, too. I don't think so.  
 **Translation:** 
 
-**[2125.92s] English:** uh because you think humans will at this point in time remember who was behind ai  
+**[2125.92s] English:** Uh, because you think humans will, at this point in time, remember who was behind AI?  
 **Translation:** 
 
-**[2131.52s] English:** you know i i'm not buying in the singularity thing yet um to ai is not aware ai is being built  
+**[2131.52s] English:** You know, I'm not buying into the singularity thing yet; AI isn't aware of itself as being built.  
 **Translation:** 
 
-**[2140.56s] English:** by humans so um ai is a tool an extremely smart tool as long as we build it and as long as we  
+**[2140.56s] English:** By humans, so, AI is a tool—an extremely smart tool. As long as we build it and as long as we  
 **Translation:** 
 
-**[2149.92s] English:** use it as a tool it remains a tool and i think there is a lot of brouhaha and of course the science  
+**[2149.92s] English:** Use it as a tool; it remains a tool, and I think there is a lot of brouhaha, and of course, the science.  
 **Translation:** 
 
-**[2155.92s] English:** fiction and and movies they don't help yeah i gotta push back a little bit  
+**[2155.92s] English:** Fiction and movies don't help, yeah. I've got to push back a little bit.  
 **Translation:** Vocabulary: brouhaha: 喧闹
 
-**[2160.00s] English:** little bit yes i agree with you for the most part in terms of boo haha and sci-fi but there is like  
+**[2160.00s] English:** Little bit, yes, I agree with you for the most part in terms of "boo," haha, and sci-fi, but there is like  
 **Translation:** 
 
-**[2168.40s] English:** in the work of deep mind we can look at chess so we can look at protein folding so chess is a simple  
+**[2168.40s] English:** In the work of Deep Mind, we can look at chess, so we can look at protein folding; chess is a simple  
 **Translation:** 
 
-**[2174.70s] English:** one to first look at what uh alpha zero which is their game playing engine was able to discover  
+**[2174.70s] English:** One to first look at what Alpha Zero, which is their game-playing engine, was able to discover.  
 **Translation:** 
 
-**[2184.94s] English:** about chess humbles the best human players not just it's better than them it comes up with ideas  
+**[2184.94s] English:** About chess, humbles the best human players not just because it's better than them, but because it comes up with ideas.  
+**Translation:** Vocabulary: alpha: 阿尔法; humbles: 使屈服
+
+**[2194.16s] English:** That the humans don't understand, and so the AI is now telling you, even though it's programmed,  
 **Translation:** 
 
-**[2194.16s] English:** that the humans don't understand and so the ai now is telling you uh even though it's programmed  
-**Translation:** 
-
-**[2201.08s] English:** by humans the ai is saying like sacrificing a pawn here is a good idea sacrificing a queen or  
+**[2201.08s] English:** By humans, the AI is saying, "like sacrificing a pawn here is a good idea, sacrificing a queen," or  
 **Translation:** Vocabulary: sacrificing: 牺牲
 
-**[2207.90s] English:** bishop here is a good idea and then you start to kind of intuit as a human why but you don't  
+**[2207.90s] English:** Bishop here is a good idea, and then you start to kind of intuit as a human why, but you don't.  
 **Translation:** 
 
-**[2213.22s] English:** deeply understand  
+**[2213.22s] English:** Deeply understand.  
 **Translation:** Vocabulary: intuit: 直觉
 
-**[2214.26s] English:** and you can say that ai is not conscious it doesn't deeply understand the way humans do  
+**[2214.26s] English:** And you can say that AI is not conscious; it doesn't deeply understand the way humans do.  
 **Translation:** 
 
-**[2218.98s] English:** but there's still a a wisdom and a depth of knowledge in that chess playing program that  
+**[2218.98s] English:** But there's still a wisdom and a depth of knowledge in that chess-playing program that.  
 **Translation:** 
 
-**[2224.38s] English:** humans don't have and the same with the alpha fold with protein folding there's a and now  
+**[2224.38s] English:** Humans don't have the same ability with Alpha Fold when it comes to protein folding, and now  
 **Translation:** 
 
-**[2230.18s] English:** they're applying it to physics to simulating nuclear reactions and so on it feels like there  
-**Translation:** Vocabulary: alpha: 阿尔法; simulating: 模拟
+**[2230.18s] English:** They're applying it to physics, simulating nuclear reactions, and so on. It feels like there,...  
+**Translation:** Vocabulary: reactions: 核反应; simulating: 模拟
 
-**[2235.38s] English:** might be a way to understand the nature of life that we can kind of intuit poetically as humans  
+**[2235.38s] English:** There might be a way to understand the nature of life that we can kind of intuit poetically, as humans.  
 **Translation:** 
 
-**[2241.48s] English:** but the the true  
+**[2241.48s] English:** But the truth is  
 **Translation:** Vocabulary: poetically: 诗意地
 
-**[2244.26s] English:** understanding will come from a system that's much more computationally sophisticated again you know  
+**[2244.26s] English:** Understanding will come from a system that's much more computationally sophisticated, again, you know.  
 **Translation:** 
 
-**[2249.78s] English:** i would push back on my turn because i still think that humans give themselves the ability  
+**[2249.78s] English:** I would push back on that, because I still think that humans give themselves the ability.  
 **Translation:** Vocabulary: computationally: 计算上; sophisticated: 复杂
 
-**[2256.98s] English:** to do that by building that tool so the idea that the tool you know we we are getting into the  
+**[2256.98s] English:** To do that, by building that tool, so the idea is that the tool—we are getting into this.  
 **Translation:** 
 
-**[2264.18s] English:** card shift scale and and and dark forest and all these things we can see the world this way uh at  
+**[2264.18s] English:** Card, shift, scale, and—and "dark forest" —and all these things—we can see the world this way, uh, at  
 **Translation:** 
 
-**[2270.98s] English:** this point in time for me  
+**[2270.98s] English:** This point in time for me.  
 **Translation:** 
 
-**[2274.26s] English:** i still think  
+**[2274.26s] English:** I still think  
 **Translation:** 
 
-**[2275.78s] English:** future i think i prefer to see Denture welcomes  
+**[2275.78s] English:** Future, I think I prefer to see "Denture" welcomes.  
 **Translation:** 
 
-**[2287.08s] English:** that  
-**Translation:** Vocabulary: denture: 假牙
+**[2280.00s] English:** Uh, whether the sci-fi scenario is going to happen, etc., I still think that we are far  
+**Translation:** Vocabulary: denture: 假牙; scenario: 情景
 
-**[2289.40s] English:** because  
+**[2287.08s] English:** That.  
 **Translation:** 
 
-**[2291.58s] English:** it gives you the ability  
+**[2288.02s] English:** Away from this, but if that tool is capable of giving me a new perspective, it's just that.  
 **Translation:** 
 
-**[2296.14s] English:** to  
+**[2289.40s] English:** Because  
 **Translation:** 
 
-**[2298.86s] English:** come next in time  
+**[2291.58s] English:** It gives you the ability.  
 **Translation:** 
 
-**[2303.04s] English:** to  
+**[2294.44s] English:** We are starting to delve into a deeper understanding of what the universe is, whether it's through  
 **Translation:** 
 
-**[2303.46s] English:** share  
+**[2296.14s] English:** To  
+**Translation:** Vocabulary: delve: 深入研究
+
+**[2298.86s] English:** Come next in time.  
 **Translation:** 
 
-**[2280.00s] English:** uh whether the sci-fi scenario is going to you know uh happen etc i still think that we are far  
+**[2303.04s] English:** To  
 **Translation:** 
 
-**[2288.02s] English:** away from from this but if that tool is capable of giving me a new perspective uh it's just that  
+**[2303.46s] English:** Share  
 **Translation:** 
 
-**[2294.44s] English:** we are starting to jump into a deeper uh cognition of of what the universe is whether it's through  
+**[2303.96s] English:** Our brain, or through a different way of gathering information. Remember, this is what we do, yeah.  
 **Translation:** 
 
-**[2303.96s] English:** our brain or through a different way of gathering information remember this is what we do yeah  
-**Translation:** Vocabulary: cognition: 认知
-
-**[2309.16s] English:** humans are able to actually build tools and then like integrate them into their way of thinking  
+**[2309.16s] English:** Humans are able to actually build tools and then integrate them into their way of thinking.  
 **Translation:** 
 
-**[2315.80s] English:** maybe another generation has to be born that is raised with those tools but we seem to like  
+**[2315.80s] English:** Maybe another generation has to be born that is raised with those tools, but we seem to like it this way.  
 **Translation:** Vocabulary: integrate: 融合
 
-**[2321.22s] English:** take for granted all the cool technologies you integrate into your way of thinking a lot of  
+**[2321.22s] English:** Take for granted all the cool technologies you integrate into your way of thinking—a lot of  
 **Translation:** 
 
-**[2328.02s] English:** people are growing up now their mind is integrated with the internet you basically reconfigure the  
+**[2328.02s] English:** People are growing up now, their minds are integrated with the Internet. You basically reconfigure the...  
+**Translation:** Vocabulary: integrated: 融合; reconfigure: 重新配置
+
+**[2335.44s] English:** The way you memorize things means you no longer have to memorize a lot of facts.  
 **Translation:** 
 
-**[2335.44s] English:** way you memorize things you no longer have to memorize a lot of facts  
-**Translation:** 
-
-**[2339.16s] English:** because you can look them up really quickly yeah and so like uh so you uh reallocate a lot of  
+**[2339.16s] English:** Because you can look them up really quickly, yeah, and so you can reallocate a lot of resources.  
 **Translation:** Vocabulary: memorize: 记忆; reallocate: 重新分配
 
-**[2344.38s] English:** resources for uh thinking versus memory of just strict facts so that kind of stuff and we integrate  
+**[2344.38s] English:** Resources for thinking, rather than just记忆保留，以便更好地整合。  
 **Translation:** 
 
-**[2352.36s] English:** all that yeah and and you know there i would completely agree with you in fact i wrote about  
+**[2352.36s] English:** All that, yeah, and you know, I would completely agree with you. In fact, I wrote about it.  
 **Translation:** 
 
-**[2357.40s] English:** this again uh um in this new book that's coming out when is the book coming out in january it's  
+**[2357.40s] English:** This one again, uh, um, in this new book that's coming out. When is the book coming out? It's in January.  
 **Translation:** 
 
-**[2364.30s] English:** it will be in french actually uh to start with you wrote it in french actually i wrote it first  
+**[2364.30s] English:** It will be in French, actually. To start with, you wrote it in French, actually. I wrote it first.  
 **Translation:** 
 
-**[2369.16s] English:** in english yes uh and i translated into french so the the english version is already uh pretty much  
+**[2369.16s] English:** In English, yes. Uh, and I translated it into French, so the English version is already pretty much complete.  
 **Translation:** 
 
-**[2375.10s] English:** ready to go uh if we find a publisher in uh in the us but anyways um the point uh being here  
+**[2375.10s] English:** Ready to go, uh, if we find a publisher in the US, but anyway, um, the point is being here.  
 **Translation:** 
 
-**[2382.76s] English:** that i looked at this as a relationship with technology as a complete change to me this is  
+**[2382.76s] English:** That I looked at this as a relationship with technology as a complete change to me, this is.  
 **Translation:** 
 
-**[2391.62s] English:** the singularity more than anything else which is the co-evolution of human with technology  
+**[2391.62s] English:** The singularity, more than anything else, is the co-evolution of humans with technology.  
 **Translation:** 
 
-**[2398.06s] English:** not anymore with  
+**[2398.06s] English:** Not anymore with.  
 **Translation:** 
 
-**[2399.16s] English:** their environment  
+**[2399.16s] English:** Their environment,  
 **Translation:** 
 
-**[2400.00s] English:** Why we are messing up the environment right now, why we don't respond to pandemic the way we should, because we are disconnected to the environment we are taking our information from and we were adapting from.  
+**[2400.00s] English:** Why are we messing up the environment right now, why don't we respond to pandemics the way we should? Because we are disconnected from the environment—we are taking our information from and adapting to it in a way that is not sustainable.  
 **Translation:** 
 
-**[2412.00s] English:** Right now, exactly as you said, we take the information from the web, from the phones, etc. We have no filter over that information.  
-**Translation:** Vocabulary: pandemic: 全球大流行
+**[2412.00s] English:** Right now, exactly as you said, we take information from the web, from phones, etc. We have no filter over that information.  
+**Translation:** Vocabulary: adapting: 适应; disconnected: 脱节; messing: 破坏; pandemics: 疫情; sustainable: 可持续
 
-**[2421.00s] English:** Before you were out in the environment, the information you get is the one the planet is sending you.  
+**[2421.00s] English:** Before you are out in the environment, the information you get is what the planet is sending you.  
 **Translation:** 
 
-**[2427.00s] English:** Now, this information is coming from different ways. You have no way of knowing if the information is correct or not.  
+**[2427.00s] English:** Now, this information is coming from different sources. You have no way of knowing if the information is correct or not.  
 **Translation:** 
 
 **[2432.00s] English:** I got to push back on that.  
 **Translation:** 
 
-**[2433.00s] English:** No, you look at this as an ecosystem and it explains a lot of our behavior.  
+**[2433.00s] English:** No, you look at this as an ecosystem, and it explains a lot of our behavior.  
 **Translation:** 
 
-**[2439.00s] English:** I like that you said teenagers.  
+**[2439.00s] English:** I like that you said "teenagers.  
 **Translation:** 
 
-**[2441.00s] English:** The technology, I think, when we move past the teenager stage, enriches our ability to sense the earth, to understand what's going on with the environment.  
+**[2441.00s] English:** The technology, I think, when we move past the "teenager" stage, enriches our ability to sense the Earth and understand what's going on with the environment.  
 **Translation:** Vocabulary: enriches: 增加
 
 **[2452.00s] English:** It's not that technology disconnects us from the environment.  
@@ -1321,13 +1322,13 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2456.00s] English:** It's the environment.  
 **Translation:** Vocabulary: disconnects: 断开连接
 
-**[2457.00s] English:** It gives us more tools with which to understand what's going on with the environment.  
+**[2457.00s] English:** It gives us more tools with which to understand what is going on with the environment.  
 **Translation:** 
 
-**[2461.00s] English:** That's true for the people who are building the tools and know how to use it.  
+**[2461.00s] English:** That's true for the people who are building the tools and know how to use them.  
 **Translation:** 
 
-**[2465.00s] English:** Take those tools now, put them in the general public with no filter, which is happening with social media, which is happening with a lot of things, and you see the disaster this is creating.  
+**[2465.00s] English:** Take those tools now, put them in the general public with no filter (which is happening with social media), which is happening with a lot of things, and you see the disaster this is creating.  
 **Translation:** 
 
 **[2476.00s] English:** It's not the disaster.  
@@ -1348,8 +1349,8 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2486.00s] English:** It is becoming deeply connected.  
 **Translation:** 
 
-**[2489.00s] English:** We can communicate all across the world, even through the pandemic.  
-**Translation:** 
+**[2489.00s] English:** We can communicate all across the world, even during the pandemic.  
+**Translation:** Vocabulary: pandemic: 全球大流行
 
 **[2493.00s] English:** That's the good thing about technology.  
 **Translation:** 
@@ -1372,118 +1373,118 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2503.00s] English:** This is the cool thing about humans.  
 **Translation:** 
 
-**[2504.00s] English:** Hopefully, we'll do all the learning before it's too late because our response to what's going on in the environment, our response to pandemics is deeply connected to this disconnect we have with nature.  
-**Translation:** Vocabulary: disconnect: 脱节; pandemics: 流行病
+**[2504.00s] English:** Hopefully, we'll do all the learning before it's too late, because our response to what's going on in the environment and our response to pandemics are deeply connected to this disconnect we have with nature.  
+**Translation:** Vocabulary: disconnect: 自然脱节; pandemics: 全球疫情
 
-**[2515.00s] English:** Anyways, we all agree that we are  
+**[2515.00s] English:** Anyways, we all agree that we are.  
 **Translation:** 
 
-**[2520.00s] English:** in growing pains and hopefully we can move forward because there is a fantastic universe  
+**[2520.00s] English:** In growing pains, and hopefully we can move forward because there is a fantastic universe.  
 **Translation:** 
 
-**[2526.58s] English:** something absolutely magical around us and i'm talking as a scientist i mean there is magic  
+**[2526.58s] English:** Something absolutely magical around us, and I'm talking as a scientist; I mean, there is magic.  
 **Translation:** 
 
-**[2532.68s] English:** not in sense of you know trickery but in sense of wonder around us and there are so many signs  
-**Translation:** Vocabulary: trickery: 欺诈手段
+**[2532.68s] English:** Not in the sense of you know trickery, but in the sense of wonder around us, and there are so many signs.  
+**Translation:** Vocabulary: trickery: 欺诈
 
-**[2541.08s] English:** where we are getting so close to revolutions in cosmology in astrobiology in astronomy  
+**[2541.08s] English:** Where are we getting so close to revolutions in cosmology, astrobiology, and astronomy?  
 **Translation:** 
 
-**[2551.58s] English:** which i think to me this is where the hope lies and also an awakening of understanding that we  
+**[2551.58s] English:** Which, I think, to me, this is where the hope lies, and also an awakening of understanding that we  
 **Translation:** Vocabulary: astrobiology: 天体生物学; astronomy: 天文学; awakening: 觉醒; cosmology: 宇宙学; revolutions: 革命
 
-**[2558.88s] English:** need to be in equilibrium with a planet if we want to move forward because even though we have  
+**[2558.88s] English:** We need to be in equilibrium with a planet if we want to move forward, because even though we have  
 **Translation:** 
 
-**[2564.74s] English:** these big dreams of going on mars and the moon and listen i am a planetary geologist so i am all for  
+**[2564.74s] English:** These big dreams of going to Mars and the Moon, and listen—I am a planetary geologist, so I am all for it.  
 **Translation:** Vocabulary: equilibrium: 平衡; geologist: 地质学家
 
-**[2570.76s] English:** exploration  
+**[2570.76s] English:** Exploration.  
 **Translation:** 
 
-**[2571.06s] English:** right now the moon or mars is not going to save your butt because for the logistics will still  
+**[2571.06s] English:** Right now, the moon or Mars is not going to save your butt because for the logistics, it still won't.  
 **Translation:** 
 
-**[2577.74s] English:** depend very much on the earth and for a long time i think this time we are living in will be  
+**[2577.74s] English:** Dependent very much on the Earth, and for a long time, I think this time we are living in will be.  
 **Translation:** 
 
-**[2585.86s] English:** remembered as a pivot in our history for for a number of reasons uh a time where there is a  
+**[2585.86s] English:** Remembered as a pivotal point in our history for a number of reasons, a time where there is  
+**Translation:** Vocabulary: pivotal: 关键的
+
+**[2595.78s] English:** Growing consciousness: where we are creating tools that are going a little bit ahead of us.  
 **Translation:** 
 
-**[2595.78s] English:** growing consciousness where we are creating tools that are going a little bit ahead of us  
+**[2601.06s] English:** That we have some difficult times catching up, especially with where we have to deal with the.  
+**Translation:** Vocabulary: consciousness: 觉醒
+
+**[2606.90s] English:** Population that's way too big for the planet. We have to really learn a sense of balance.  
 **Translation:** 
 
-**[2601.06s] English:** that we have some some difficult time to catching up uh on with where we have to deal with the  
+**[2615.12s] English:** And immaturity as a civilization—so, how is this going to unfold? Right now, I have no clue.  
+**Translation:** Vocabulary: immaturity: 文明不成熟; unfold: 发展
+
+**[2623.22s] English:** I draw a lot of optimism from the similar things that happened many decades ago.  
 **Translation:** 
 
-**[2606.90s] English:** population that's way uh too big for the planet we have we need to really learn a sense of balance  
-**Translation:** 
-
-**[2615.12s] English:** and and immaturity as a civilization so how is this going to unfold right now i have no clue  
-**Translation:** Vocabulary: immaturity: 不成熟
-
-**[2623.22s] English:** i draw a lot of optimism from the similar things that happened many decades ago  
-**Translation:** 
-
-**[2631.06s] English:** when nuclear weapons were developed boy was that at the time even more terrifying you just now  
+**[2631.06s] English:** When nuclear weapons were developed, boy, that was even more terrifying at the time. You just now.  
 **Translation:** Vocabulary: optimism: 乐观; terrifying: 恐怖
 
-**[2639.20s] English:** created weapons  
+**[2639.20s] English:** Created weapons.  
 **Translation:** 
 
-**[2640.00s] English:** that could destroy the entirety of life on earth or not entirety but a lot of it and we somehow  
+**[2640.00s] English:** That could destroy the entirety of life on Earth, or not entirely but a lot of it, and we somehow  
 **Translation:** Vocabulary: entirety: 全部
 
-**[2646.20s] English:** found a balance and the threat constantly is out there and that threat has been made more visceral  
+**[2646.20s] English:** Found a balance, and the threat is constantly out there, and that threat has been made more visceral.  
 **Translation:** 
 
-**[2653.38s] English:** in recent times because the war in ukraine but we find a balance somehow so i have a threat of  
-**Translation:** Vocabulary: visceral: 直觉的
+**[2653.38s] English:** In recent times, because of the war in Ukraine, but we find a balance somehow, so I have a threat of.  
+**Translation:** Vocabulary: visceral: 直觉性的
 
-**[2663.50s] English:** optimism for human civilization that we that we figure it out we're clever teenagers i think we  
+**[2663.50s] English:** Optimism for human civilization is that we'll figure it out; we're clever teenagers, I think.  
 **Translation:** 
 
-**[2669.78s] English:** are clever teenagers there is definitely a threat of optimism but i think it's thin it's thin because  
+**[2669.78s] English:** Are clever teenagers there? Is definitely a threat of optimism, but I think it's thin; it's thin because.  
 **Translation:** 
 
-**[2677.22s] English:** something that has changed as well is the mentality of of humans um although the threat  
+**[2677.22s] English:** Something that has changed as well is the mentality of humans, although the threat,...  
 **Translation:** 
 
-**[2686.34s] English:** was terrifying when uh nuclear weapons were were created um there was a sense of  
+**[2686.34s] English:** It was terrifying when nuclear weapons were created, um, there was a sense of  
 **Translation:** 
 
-**[2695.98s] English:** limits you were willing to push  
+**[2695.98s] English:** Limits you were willing to push.  
 **Translation:** 
 
-**[2699.78s] English:** in the threats um there were there was a sense of decency of moral values it was not perfect  
+**[2699.78s] English:** In the threats, there was a sense of decency and moral values, though it was not perfect.  
+**Translation:** Vocabulary: decency: 廉耻
+
+**[2709.92s] English:** But it was at least a time when people could come together from very different perspectives and agree.  
 **Translation:** 
 
-**[2709.92s] English:** but it was at least a time where people could come together from very different perspective and agree  
+**[2718.18s] English:** That something was more important than destroying everything, but that's so hilarious—you say that.  
+**Translation:** Vocabulary: perspectives: 观点
+
+**[2724.52s] English:** Yes, you're talking about a small sliver of humans, which is the scientists and  
 **Translation:** 
 
-**[2718.18s] English:** that something was more important than destroying everything but that's so hilarious you say that  
+**[2729.78s] English:** The Manhattan Project; perhaps, no, that was also the time when over one hundred million people were.  
+**Translation:** Vocabulary: manhattan: 曼哈顿; sliver: 小部分
+
+**[2736.40s] English:** Tortured or murdered? No, no, I agree with that, and you're absolutely right. I'm not talking about...  
 **Translation:** 
 
-**[2724.52s] English:** yes you're talking about a small slither of humans which is the scientist and  
+**[2742.70s] English:** Scientists here, actually—I'm talking about politicians—we've gone beyond that point now.  
+**Translation:** Vocabulary: tortured: 折磨
+
+**[2748.12s] English:** This is what I'm worried about. I mean, torture, etc. Unfortunately, well, we are apes, exactly what?  
 **Translation:** 
 
-**[2729.78s] English:** the manhattan project perhaps no that was also the time when over a hundred million people were  
-**Translation:** Vocabulary: slither: 狭长部分
+**[2756.42s] English:** You said, so I think that you know, there is a lot to be  
+**Translation:** Vocabulary: torture: 折磨
 
-**[2736.40s] English:** tortured or murdered no no i agree with that and you're absolutely absolutely i'm not talking about  
-**Translation:** 
-
-**[2742.70s] English:** scientists here actually i'm talking about politicians we've gone beyond that point now  
-**Translation:** 
-
-**[2748.12s] English:** this is what i'm worried about i mean torture etc unfortunately well we are apes exactly what  
-**Translation:** 
-
-**[2756.42s] English:** you said so i think that you know there is a lot to be uh  
-**Translation:** 
-
-**[2759.78s] English:** not  
+**[2759.78s] English:** Not.  
 **Translation:** 
 
 **[2760.00s] English:** No, not to blame grandpa for that, but because we can always get better.  
@@ -1493,24 +1494,24 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **Translation:** 
 
 **[2767.98s] English:** But we have to improve a lot on that side before we can claim that we are a mature civilization.  
-**Translation:** 
+**Translation:** Vocabulary: mature: 成熟的
 
-**[2773.94s] English:** When you, just because you mentioned the magic, when you look out there, perhaps this is not a scientific question, but.  
+**[2773.94s] English:** When you mention the magic just because you mentioned it, and you look out there, perhaps this is not a scientific question, but.  
 **Translation:** 
 
 **[2781.38s] English:** You don't have to be scientific all the time.  
 **Translation:** 
 
-**[2783.38s] English:** Yeah, well, you said magic.  
+**[2783.38s] English:** Yeah, well, you said "magic.  
 **Translation:** 
 
-**[2785.32s] English:** So there's a magic to magic that is in part scientific and in part, I don't know, whatever fills us with awe as humans when we look up at the stars.  
+**[2785.32s] English:** So there's a magic to magic that is, in part, scientific and in part, I don't know, whatever fills us with awe as humans when we look up at the stars.  
 **Translation:** 
 
-**[2794.78s] English:** Do you think the universe is full of life or not?  
+**[2794.78s] English:** Do you think the universe is full of life, or not?  
 **Translation:** 
 
-**[2799.92s] English:** You know, when you're sitting, drinking some wine, looking up at the stars and wandering as a human, do you think we're alone or do you think life is everywhere?  
+**[2799.92s] English:** You know, when you're sitting, drinking some wine, looking up at the stars and wandering as a human, do you think we're alone, or do you think life is everywhere?  
 **Translation:** 
 
 **[2812.68s] English:** I am going to make such an understatement.  
@@ -1519,49 +1520,49 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2815.52s] English:** I have a magical response to that.  
 **Translation:** Vocabulary: understatement: 言轻事实
 
-**[2817.98s] English:** My response is, that's the scientific response, that if we are alone, then the universe is a statistical absurdity.  
+**[2817.98s] English:** My response is: That's the scientific response—that if we are alone, then the universe is a statistical absurdity.  
 **Translation:** 
 
 **[2829.00s] English:** Yeah.  
-**Translation:** Vocabulary: absurdity: 荒谬
+**Translation:** Vocabulary: absurdity: 荒谬性
 
-**[2830.16s] English:** And I have no doubt in my mind, and that is an unscientific response as well, but I have no doubt in my mind that the universe is steaming with life.  
+**[2830.16s] English:** And I have no doubt in my mind, and that is an unscientific response as well, but I have no doubt in my mind that the universe is teeming with life.  
 **Translation:** 
 
 **[2841.76s] English:** What if it keeps dying?  
-**Translation:** Vocabulary: steaming: 充满; unscientific: 非科学的
+**Translation:** Vocabulary: teeming: 充满; unscientific: 非科学的
 
 **[2845.76s] English:** This is what life does, unfortunately.  
 **Translation:** 
 
-**[2849.76s] English:** So that extinction, as a process, as a part of the process of life, extinction seems to be a fundamental, both negative and positive component.  
+**[2849.76s] English:** So, that extinction, as a process—and as a part of the process of life—extinction seems to be a fundamental, both negative and positive component.  
 **Translation:** 
 
-**[2865.14s] English:** So what if all the complex life out there just keeps dying and not making way for, like we're actually a statistical anomaly.  
+**[2865.14s] English:** So, what if all the complex life out there just keeps dying, and not making way for anything? Are we, by chance, actually a statistical anomaly?  
 **Translation:** 
 
-**[2875.32s] English:** And us being able to survive that L in the Drake equation, being it's,  
-**Translation:** Vocabulary: anomaly: 异常; equation: 方程
-
-**[2880.00s] English:** able to survive long enough to form complex organisms of the kind like mammals are, things  
+**[2875.32s] English:** And we being able to survive that L in the Drake equation, being it's,  
 **Translation:** 
 
-**[2885.76s] English:** with brains, things they're able to process.  
+**[2880.00s] English:** Able to survive long enough to form complex organisms of the kind like mammals, things  
+**Translation:** 
+
+**[2885.76s] English:** With brains, they're able to process things.  
 **Translation:** Vocabulary: mammals: 哺乳动物
 
 **[2887.76s] English:** L is not about that.  
 **Translation:** 
 
-**[2889.24s] English:** L is about how long a civilization is capable of being detectable, which means that rich  
-**Translation:** Vocabulary: detectable: 可被检测的
+**[2889.24s] English:** L is about how long a civilization is capable of being detectable, which means that it can be rich.  
+**Translation:** Vocabulary: detectable: 可被发现的
 
-**[2895.50s] English:** technologies and being detectable.  
+**[2895.50s] English:** Technologies and being detectable.  
 **Translation:** 
 
-**[2897.60s] English:** Okay, so there's a more nuanced things to L, because you can have intelligent civilizations  
+**[2897.60s] English:** Okay, so there are more nuanced things about L, because you can have intelligent civilizations.  
 **Translation:** Vocabulary: civilizations: 文明; nuanced: 细腻
 
-**[2901.84s] English:** that are not very detectable.  
+**[2901.84s] English:** That are not very detectable.  
 **Translation:** 
 
 **[2903.18s] English:** Yeah.  
@@ -1570,28 +1571,28 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2904.18s] English:** We had civilization for thousands of years.  
 **Translation:** 
 
-**[2907.92s] English:** We started to be detectable 150 years ago.  
+**[2907.92s] English:** We became detectable 150 years ago.  
 **Translation:** 
 
-**[2911.32s] English:** So it's about technology, technology that we can actually capture from space.  
+**[2911.32s] English:** So it's about technology—technology that we can actually capture from space.  
 **Translation:** 
 
 **[2918.20s] English:** You become visible to your neighbors, and this is all about the Fermi paradox, right?  
-**Translation:** Vocabulary: fermi: 费米悖论
+**Translation:** Vocabulary: fermi: 费米; paradox: 费米悖论
 
-**[2924.90s] English:** It takes time, obviously, if we're taking, again, ourselves as a model, but this is the  
+**[2924.90s] English:** It takes time, obviously. If we're taking ourselves as a model, but this is the  
 **Translation:** 
 
-**[2930.44s] English:** only one we have, to get to the point where we become detectable.  
+**[2930.44s] English:** Only one way, to get to the point where we become detectable.  
 **Translation:** 
 
 **[2936.54s] English:** But look at the age of the universe.  
 **Translation:** 
 
-**[2937.90s] English:** Even if life as we understand it, not saying even as we know it, but as we can understand  
+**[2937.90s] English:** Even if life, as we understand it, is not saying even as we know it, but as we can understand,  
 **Translation:** 
 
-**[2945.72s] English:** it, started 10 billion years ago.  
+**[2945.72s] English:** It started 10 billion years ago.  
 **Translation:** 
 
 **[2948.40s] English:** And it takes 4 billion years to get to the point where it becomes detectable.  
@@ -1600,26 +1601,26 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2954.94s] English:** That means that the first planet where those civilizations started off, starting to be  
 **Translation:** 
 
-**[2958.90s] English:** detectable when we were still cyanobacteria in pond.  
+**[2958.90s] English:** Detectable when we were still cyanobacteria in ponds.  
 **Translation:** Vocabulary: cyanobacteria: 蓝细菌
 
-**[2962.54s] English:** So they were throwing messages that were passing above our heads at that point.  
+**[2962.54s] English:** So, they were throwing messages that were passing above our heads at that point.  
 **Translation:** 
 
-**[2967.30s] English:** And those civilizations, when you look at them now, close to 10 billion years after  
+**[2967.30s] English:** And those civilizations, when you look at them now, close to 10 billion years after...  
 **Translation:** 
 
-**[2973.68s] English:** the start.  
+**[2973.68s] English:** The start.  
 **Translation:** 
 
 **[2975.02s] English:** So their son would be dead, okay?  
 **Translation:** 
 
-**[2979.04s] English:** In the best case scenario, they move somewhere else.  
+**[2979.04s] English:** In the best-case scenario, they move somewhere else.  
 **Translation:** 
 
-**[2982.40s] English:** And what that means is that civilization are going to rise, die, or move and transform  
-**Translation:** 
+**[2982.40s] English:** And what that means is that civilizations are going to rise, die, or move and transform.  
+**Translation:** Vocabulary: civilizations: 文明; scenario: 情景
 
 **[2990.18s] English:** themselves.  
 **Translation:** 
@@ -1633,83 +1634,83 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[2995.92s] English:** Yeah.  
 **Translation:** 
 
-**[2996.92s] English:** We can see ourselves being in 1,000 or even 500.  
+**[2996.92s] English:** We can see ourselves being in 1,000—or even 500.  
 **Translation:** 
 
-**[3000.00s] English:** years from now might not be looking a lot like we are doing uh right now who knows where where we  
+**[3000.00s] English:** Years from now might not be looking a lot like we are doing, uh, right now. Who knows where we'll be?  
 **Translation:** 
 
-**[3005.44s] English:** will be we might be migrating into our planetary system we might be migrating somewhere else  
+**[3005.44s] English:** We might be migrating into our planetary system, or we might be migrating somewhere else.  
 **Translation:** 
 
-**[3011.60s] English:** well you said migrating but it seems when you look at life it doesn't necessarily migrate it  
-**Translation:** Vocabulary: migrate: 迁徙; migrating: 迁移
+**[3011.60s] English:** Well, you said "migrating," but it seems when you look at life, it doesn't necessarily migrate.  
+**Translation:** Vocabulary: migrate: 迁徙; migrating: 正在迁徙
 
-**[3016.40s] English:** it expands so it's not or place a or or place b it's place a and place b it seems to be it could  
+**[3016.40s] English:** It expands, so it's not just "or" place A or "or" place B; it's both place A and place B. It seems to be that way.  
 **Translation:** 
 
-**[3026.88s] English:** be as we are talking about the human civilization here uh so there are different factors if you are  
+**[3026.88s] English:** Be as we are talking about human civilization here; uh, so there are different factors if you are  
+**Translation:** Vocabulary: expands: 扩展
+
+**[3033.52s] English:** A cyanobacteria, or any type of even a mammal that doesn't have the technology to escape.  
 **Translation:** 
 
-**[3033.52s] English:** a cyanobacteria or any type of even a mammal that doesn't have the technology to escape  
+**[3040.72s] English:** The planet we were born on—then, it's Plan A. It is right there, you know; whatever happens.  
+**Translation:** Vocabulary: cyanobacteria: 蓝细菌; mammal: 哺乳动物
+
+**[3046.24s] English:** To your planet, you are tied to it; you cannot escape it. For humans, it's a little different.  
 **Translation:** 
 
-**[3040.72s] English:** the planet we were born on then it's plan a it is right there you know whatever happens  
-**Translation:** 
-
-**[3046.24s] English:** to your planet you are tied to it you cannot escape it uh for humans it's a little different  
-**Translation:** 
-
-**[3052.40s] English:** yeah it's a and b uh or whatever you know we can  
+**[3052.40s] English:** Yeah, it's A and B, or whatever you know, we can.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[3057.04s] English:** so we have to expect that a number of the civilization  
+**[3057.04s] English:** So, we have to expect that a number of the civilizations  
 **Translation:** 
 
-**[3062.96s] English:** extraterrestrial civilization that might be technologically advanced a number of them will  
-**Translation:** Vocabulary: extraterrestrial: 来自外星的; technologically: 技术上
+**[3062.96s] English:** Extraterrestrial civilizations that might be technologically advanced, a number of them will,  
+**Translation:** Vocabulary: civilizations: 文明; extraterrestrial: 外星的; technologically: 科技上
 
-**[3067.84s] English:** have disappeared just because they run the course of their evolution or because their  
+**[3067.84s] English:** Have disappeared just because they run the course of their evolution or because their  
 **Translation:** 
 
-**[3073.68s] English:** sun run out of fuel and they didn't have a way to escape or they were wiped out  
+**[3073.68s] English:** The sun ran out of fuel and they didn't have a way to escape, or they were wiped out.  
 **Translation:** 
 
-**[3081.44s] English:** by any kind of event and then they will though there will be those that survive everything  
+**[3081.44s] English:** By any kind of event, and then they will; though, there will be those that survive everything.  
 **Translation:** 
 
-**[3086.88s] English:** that's going to  
+**[3086.88s] English:** That's going to  
 **Translation:** 
 
-**[3091.22s] English:** we will find that  
+**[3091.22s] English:** We will find that.  
 **Translation:** 
 
-**[3108.06s] English:** we will find that  
+**[3108.06s] English:** We will find that.  
 **Translation:** 
 
-**[3110.80s] English:** um  
+**[3110.80s] English:** Um.  
 **Translation:** 
 
-**[3116.88s] English:** instruction that when you run complexity emergency  
+**[3116.88s] English:** Instruction: That, when you run into a complexity emergency.  
 **Translation:** 
 
 **[3120.92s] English:** I've looked at that enough to know that it just seems like there's complexity everywhere out there.  
 **Translation:** 
 
-**[3125.22s] English:** So that's why I'm deeply puzzled by the Fermi Paradox.  
-**Translation:** Vocabulary: complexity: 复杂性; fermi: 费米
+**[3125.22s] English:** So, that's why I'm deeply puzzled by the Fermi Paradox.  
+**Translation:** Vocabulary: complexity: 复杂性; fermi: 费米; paradox: 悖论; puzzled: 困惑的
 
 **[3129.44s] English:** It makes no sense to me.  
 **Translation:** 
 
-**[3131.24s] English:** I mean, I have trivial answers to it.  
+**[3131.24s] English:** I mean, I have trivial answers to that.  
+**Translation:** Vocabulary: trivial: 琐碎的
+
+**[3135.06s] English:** Why haven't aliens, at scale, shown up?  
 **Translation:** 
 
-**[3135.06s] English:** Why haven't aliens at scale not shown up?  
-**Translation:** 
-
-**[3139.64s] English:** I think the two possible options for me is either we're too dumb to see it.  
-**Translation:** 
+**[3139.64s] English:** I think the two possible options for me are either we're too dumb to see it, or we just need more information.  
+**Translation:** Vocabulary: aliens: 外星人
 
 **[3145.46s] English:** They're already here.  
 **Translation:** 
@@ -1717,13 +1718,13 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3146.30s] English:** They've been talking to us through processes we just don't understand.  
 **Translation:** 
 
-**[3149.54s] English:** Like, what we experience as life here on Earth is actually there everywhere.  
+**[3149.54s] English:** Like, what we experience as life here on Earth is actually happening everywhere.  
 **Translation:** 
 
-**[3156.44s] English:** Aliens could be consciousness.  
+**[3156.44s] English:** Aliens could be conscious.  
 **Translation:** 
 
-**[3158.62s] English:** That when we feel love for one another, that could be aliens.  
+**[3158.62s] English:** That when we feel love for one another, that could be from aliens.  
 **Translation:** 
 
 **[3162.14s] English:** When we, I don't know, or feel fear or whatever, that could be aliens.  
@@ -1735,16 +1736,16 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3167.90s] English:** None of this is scientifically provable right now.  
 **Translation:** Vocabulary: provable: 可证明的
 
-**[3170.94s] English:** We talked a little bit already about that.  
+**[3170.94s] English:** We talked a little bit about that already.  
 **Translation:** 
 
 **[3173.34s] English:** But I would say that I do not adhere to the Fermi Paradox.  
-**Translation:** 
+**Translation:** Vocabulary: adhere: 遵守
 
 **[3179.84s] English:** Because it's very anthropomorphic.  
 **Translation:** 
 
-**[3183.42s] English:** It's, you know, it's an interesting exercise.  
+**[3183.42s] English:** It's, you know, an interesting exercise.  
 **Translation:** Vocabulary: anthropomorphic: 拟人化的
 
 **[3185.78s] English:** Let's put it that way.  
@@ -1756,247 +1757,247 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3193.94s] English:** And this is where the limitation is.  
 **Translation:** 
 
-**[3198.16s] English:** Understanding what's going on with complexity, as you said,  
+**[3198.16s] English:** Understanding what's going on with complexity, as you said.  
 **Translation:** 
 
-**[3201.64s] English:** and looking at the biophysical model and theories for the nature of life,  
+**[3201.64s] English:** And looking at the biophysical models and theories for the nature of life,  
 **Translation:** 
 
-**[3207.28s] English:** I would agree that probably,  
+**[3207.28s] English:** I would agree that, probably,  
 **Translation:** Vocabulary: biophysical: 生物物理的
 
-**[3209.54s] English:** this extraterrestrial message is all around us.  
+**[3209.54s] English:** This extraterrestrial message is all around us.  
 **Translation:** 
 
 **[3213.72s] English:** We're not yet capable of picking it up.  
-**Translation:** Vocabulary: extraterrestrial: 来自外星的
+**Translation:** Vocabulary: extraterrestrial: 来自外太空的
 
 **[3216.72s] English:** But I think, unfortunately, even though that makes me sad,  
 **Translation:** 
 
-**[3220.34s] English:** the way to pick it up is by studying life here on Earth,  
+**[3220.34s] English:** The way to pick it up is by studying life here on Earth.  
 **Translation:** 
 
-**[3223.22s] English:** doing some of the science you're doing,  
+**[3223.22s] English:** Doing some of the science you're doing,  
 **Translation:** 
 
-**[3225.02s] English:** better understand the nature of life,  
+**[3225.02s] English:** Better understand the nature of life,  
 **Translation:** 
 
-**[3226.72s] English:** until you realize,  
+**[3226.72s] English:** Until you realize,  
 **Translation:** 
 
-**[3229.02s] English:** holy crap,  
+**[3229.02s] English:** Holy crap,  
 **Translation:** 
 
-**[3230.92s] English:** the thing I was looking for all along has been here all along.  
+**[3230.92s] English:** The thing I was looking for all along has been here all along.  
 **Translation:** 
 
-**[3235.38s] English:** Well, you know, a good example of that,  
+**[3235.38s] English:** Well, you know, a good example of that is  
 **Translation:** 
 
-**[3237.36s] English:** and it doesn't need to be...  
+**[3237.36s] English:** And it doesn't need to be....  
 **Translation:** 
 
 **[3239.54s] English:** I don't know.  
 **Translation:** 
 
-**[3240.00s] English:** extraterrestrial civilization look at something that I really you know whether  
+**[3240.00s] English:** Extraterrestrial civilization: Look at something that I, you know, really, you know, wonder about.  
 **Translation:** 
 
-**[3245.76s] English:** or not is real I don't care because in terms of intellectual exercise I think  
+**[3245.76s] English:** Or, whether it's real or not, I don't care. Because, in terms of intellectual exercise, I think  
 **Translation:** 
 
-**[3251.70s] English:** it's fantastic look at the shadow biosphere the idea that life didn't  
+**[3251.70s] English:** It's fantastic to look at the shadow biosphere—the idea that life didn't  
 **Translation:** 
 
-**[3258.48s] English:** appear only once on earth but there were many different pathways of it and today  
+**[3258.48s] English:** Appears only once on Earth, but there were many different pathways for it, and today,  
 **Translation:** Vocabulary: biosphere: 生物圈; pathways: 途径
 
-**[3268.42s] English:** we know when we study the tree of life that led to us from Luca to us and the  
+**[3268.42s] English:** We know when we study the tree of life that led to us from LUCA to us and the  
 **Translation:** 
 
-**[3279.40s] English:** shadow biosphere is telling us that there is or there are other pathways  
+**[3279.40s] English:** The shadow biosphere is telling us that there is, or there are, other pathways.  
 **Translation:** 
 
-**[3284.66s] English:** that came up at the time where life originated but they are so different  
+**[3284.66s] English:** That came up at the time where life originated, but they are so different.  
 **Translation:** 
 
-**[3291.40s] English:** that we cannot recognize them as being living and we cannot pick them up  
-**Translation:** Vocabulary: cannot: 不能; originated: 起源
-
-**[3298.40s] English:** in our tests because our tests are being built to recognize life as we know  
+**[3291.40s] English:** That we cannot recognize them as being alive, and we cannot pick them up.  
 **Translation:** 
 
-**[3304.40s] English:** it and for me again I don't know if this theory will be verified or it would be  
-**Translation:** Vocabulary: verified: 验证通过
-
-**[3312.90s] English:** discredited but what I like about it is that it forces me to think on how do I  
+**[3298.40s] English:** In our tests, because our tests are being built to recognize life as we know it.  
 **Translation:** 
 
-**[3319.58s] English:** look for life I don't know so that starts here on our planet not even with  
+**[3304.40s] English:** It and for me, again, I don't know if this theory will be verified or not.  
+**Translation:** 
+
+**[3312.90s] English:** Discredited, but what I like about it is that it forces me to think: how do I?  
+**Translation:** 
+
+**[3319.58s] English:** Look for life; I don't know, so that starts here on our planet—not even with.  
 **Translation:** Vocabulary: discredited: 被质疑
 
-**[3327.20s] English:** little green map  
+**[3327.20s] English:** Little Green Map  
 **Translation:** 
 
-**[3328.40s] English:** and it starts with very simple life that be can be so different that it might be  
+**[3328.40s] English:** And it starts with very simple life that can be so different that it might be.  
 **Translation:** 
 
-**[3335.58s] English:** just right in front of our nose and we don't see it so that's probably starts  
+**[3335.58s] English:** Just right in front of our nose, and we don't see it. So that's probably where it starts.  
 **Translation:** 
 
-**[3339.74s] English:** with a the scientific humility of always realizing that we might be too biased in  
-**Translation:** Vocabulary: humility: 谦逊
+**[3339.74s] English:** With scientific humility, we must always realize that we might be too biased.  
+**Translation:** Vocabulary: biased: 有偏见; humility: 谦逊
 
-**[3347.64s] English:** understanding of what is the phenomena we're trying to study yeah I don't like  
+**[3347.64s] English:** Understanding of what phenomena we're trying to study, yeah; I don't like it.  
 **Translation:** 
 
-**[3351.50s] English:** the term bias because it involves some moral connotation that sure in terms of  
+**[3351.50s] English:** The term "bias" because it involves some moral connotation, surely in terms of  
 **Translation:** Vocabulary: connotation: 内涵
 
-**[3358.40s] English:** the scientific pathway  
+**[3358.40s] English:** The scientific pathway  
 **Translation:** 
 
-**[3360.00s] English:** intellectual framework definitely what do you think about the ufo sightings so the widespread  
+**[3360.00s] English:** Intellectual framework: Definitely, what do you think about UFO sightings? So, the widespread...  
 **Translation:** Vocabulary: pathway: 途径
 
-**[3367.38s] English:** experiences that people have and seeing different phenomena that they sort of that are mysterious  
+**[3367.38s] English:** Experiences that people have and seeing different phenomena that are mysterious.  
 **Translation:** 
 
-**[3375.56s] English:** that people project ideas about whether it's aliens or not but they can't explain it and  
+**[3375.56s] English:** That people project ideas about whether it's aliens or not, but they can't explain it and...  
+**Translation:** Vocabulary: aliens: 外星人
+
+**[3381.40s] English:** There are pictures and data, and then the government is involved in releasing footage and all that kind of thing.  
 **Translation:** 
 
-**[3381.40s] English:** there's pictures and data and then the government is involved in releasing footage and all that kind  
-**Translation:** 
-
-**[3387.60s] English:** of stuff and that seems to captivate the public it always imagine it always do I mean you know  
+**[3387.60s] English:** Of stuff, and that seems to captivate the public. It always imagines things, doesn't it? I mean, you know.  
 **Translation:** Vocabulary: captivate: 吸引注意
 
-**[3392.76s] English:** there are a number of things that captivate people especially children actually dinosaurs  
+**[3392.76s] English:** There are a number of things that captivate people, especially children, actually—dinosaurs.  
 **Translation:** 
 
-**[3399.12s] English:** and aliens so a child yeah we are also child at heart and so about UFOs I am a scientist and I'm  
+**[3399.12s] English:** And aliens — so, a child, yeah. We are also a child at heart, and so about UFOs: I am a scientist, and I'm  
 **Translation:** 
 
-**[3406.74s] English:** a citizen so I'm gonna tell you a couple of things first I don't mind talking about that at all  
+**[3406.74s] English:** A citizen, so I'm going to tell you a couple of things. First, I don't mind talking about that at all.  
 **Translation:** 
 
-**[3412.56s] English:** because I think as a scientist this is extremely interesting because the thing I don't know  
+**[3412.56s] English:** Because I think, as a scientist, this is extremely interesting because the thing I don't know.  
 **Translation:** 
 
-**[3417.60s] English:** I want to learn about it this is more knowledge so we all know the statistics about UFOs 95% of  
+**[3417.60s] English:** I want to learn about it; this is more knowledge, so we all know the statistics about UFOs: 95% of  
 **Translation:** 
 
-**[3426.12s] English:** them are just natural phenomenon or things that are being misinterpreted we know that then you  
-**Translation:** Vocabulary: misinterpreted: 误解
+**[3426.12s] English:** They are just natural phenomena, or things that are being misinterpreted. We know that, then you  
+**Translation:** Vocabulary: misinterpreted: 误解的
 
-**[3432.94s] English:** have the 2% that might be secret programs by whatever government it's out there another  
+**[3432.94s] English:** Have the 2% that might be secret programs by whatever government it's out there, another.  
 **Translation:** 
 
-**[3440.04s] English:** person say is about natural phenomenon that we don't know about yet that we cannot explain and  
-**Translation:** Vocabulary: cannot: 不能
-
-**[3447.60s] English:** then there is this tiny percentage that don't fall into all these categories of thing and I think  
+**[3440.04s] English:** Person says it's about natural phenomena that we don't know about yet, that we cannot explain, and  
 **Translation:** 
 
-**[3452.70s] English:** that the report about the UAPs falls into the same kind of scheme except that now they have  
+**[3447.60s] English:** Then, there is a tiny percentage that doesn't fall into all these categories, and I think  
 **Translation:** 
 
-**[3459.72s] English:** at least some patterns of speed of other things that were in the report today we don't know if  
+**[3452.70s] English:** That the report about the UAPs falls into the same kind of scheme, except that now they have  
 **Translation:** 
 
-**[3468.42s] English:** these sightings are part of military program or actual UFOs  
+**[3459.72s] English:** At least, some patterns of speed for other things that were in the report today; we don't know if  
 **Translation:** 
 
-**[3476.64s] English:** um I always  
+**[3468.42s] English:** These sightings are part of a military program or actual UFOs.  
 **Translation:** 
 
-**[3477.60s] English:** run into that question because of course  
+**[3476.64s] English:** Um, I always  
 **Translation:** 
 
-**[3480.00s] English:** director of the carl sagan center at the study institute i received a number of emails about  
+**[3477.60s] English:** Run into that question because, of course.  
 **Translation:** 
 
-**[3484.48s] English:** the subject people are actually confused about what the study institute is we are not studying  
+**[3480.00s] English:** Director of the Carl Sagan Center at the SETI Institute, I received a number of emails about  
 **Translation:** 
 
-**[3490.24s] English:** ufos we are studying we are actually looking for messages the way i put it you know usually is that  
+**[3484.48s] English:** The subject people are actually confused about what the study institute is; we are not studying.  
 **Translation:** 
 
-**[3497.76s] English:** we are studying extraterrestrial in their natural habitat yes and and the ufo people are trying to  
-**Translation:** Vocabulary: extraterrestrial: 外星的
-
-**[3505.60s] English:** understand whether they invaded our aerial space yes so this is very two very different things  
+**[3490.24s] English:** UFOs: We are studying them, and we are actually looking for messages. The way I put it, you know, usually is that...  
 **Translation:** 
 
-**[3511.36s] English:** and unfortunately over the years i actually respect very much people who are trying  
-**Translation:** Vocabulary: aerial: 空中
+**[3497.76s] English:** We are studying extraterrestrials in their natural habitat, yes, and the UFO people are trying to.  
+**Translation:** Vocabulary: extraterrestrials: 外星生物
 
-**[3518.48s] English:** to go to the bottom of what ufo are following some very scientific ways of doing this there are very  
+**[3505.60s] English:** Understand whether they invaded our aerial space, yes. So, this is very two very different things.  
 **Translation:** 
 
-**[3527.20s] English:** very credible agencies doing this unfortunately there is a folklore around ufos and this has  
-**Translation:** Vocabulary: credible: 可信的; folklore: 传说
+**[3511.36s] English:** And unfortunately, over the years, I actually respect very much people who are trying.  
+**Translation:** Vocabulary: aerial: 空中的
 
-**[3535.60s] English:** been a huge disservice to the scientific community and this is why you have been having  
+**[3518.48s] English:** To go to the bottom of what UFOs are following, some very scientific ways of doing this have been employed. There are very  
 **Translation:** 
 
-**[3542.32s] English:** that much pushback for a long time by the scientific community because no congressman  
+**[3527.20s] English:** Very credible agencies are doing this, unfortunately, there is a folklore around UFOs, and this has  
+**Translation:** Vocabulary: credible: 可信的; folklore: 民间传说
+
+**[3535.60s] English:** Been a huge disservice to the scientific community, and this is why you have been having.  
+**Translation:** 
+
+**[3542.32s] English:** That much pushback for a long time by the scientific community, because no congressman  
 **Translation:** Vocabulary: congressman: 国会议员; disservice: 损害; pushback: 反对
 
-**[3547.84s] English:** in the world wants to tell their taxpayer that they are supporting something that looking for  
+**[3547.84s] English:** In the world, no one wants to tell their taxpayers that they are supporting something that looks suspicious.  
 **Translation:** 
 
-**[3553.76s] English:** flying saucers and you know when you see what's happening it's terrifying and i am actually  
-**Translation:** Vocabulary: terrifying: 恐怖的
+**[3553.76s] English:** Flying saucers, and you know when you see what's happening, it's terrifying, and I am actually.  
+**Translation:** Vocabulary: saucers: 飞碟; suspicious: 可疑; terrifying: 恐怖
 
-**[3560.08s] English:** concerned you know about that relationship that people do  
+**[3560.08s] English:** Concerned, you know, about that relationship that people do.  
 **Translation:** 
 
-**[3565.60s] English:** between folklore and real search for extraterrestrial intelligence  
+**[3565.60s] English:** Between folklore and the real search for extraterrestrial intelligence,  
+**Translation:** Vocabulary: extraterrestrial: 来自地球外的
+
+**[3572.64s] English:** In fact, it's been so bad that until today, there is no government agency that is actually  
 **Translation:** 
 
-**[3572.64s] English:** in fact it's been so bad that until today there is no government agency that is actually  
+**[3581.76s] English:** Funding the city search is a privately funded endeavor, what NASA funds right now, which is a  
+**Translation:** Vocabulary: endeavor: 努力; privately: 私人
+
+**[3589.04s] English:** Progress is a search for techno signature, which means that when you are looking at the atmosphere.  
 **Translation:** 
 
-**[3581.76s] English:** funding the city search it is a private funded endeavor what nasa funds right now which is a  
-**Translation:** Vocabulary: endeavor: 努力
-
-**[3589.04s] English:** progress is a search for techno signature which means that when you are looking at the atmosphere  
+**[3594.80s] English:** Of a planet.  
 **Translation:** 
 
-**[3594.80s] English:** of a planet  
+**[3595.60s] English:** You look for some disequilibrium that could tell you that something is there, but  
 **Translation:** 
 
-**[3595.60s] English:** you look for some disequilibrium that could tell you that something is there but  
-**Translation:** 
-
-**[3600.00s] English:** but it's not going to fund an institute or whatnot that is looking for messages or other things like that.  
-**Translation:** Vocabulary: disequilibrium: 不平衡; whatnot: 等等
+**[3600.00s] English:** But it's not going to fund an institute or anything like that, which is looking for messages or other things like that.  
+**Translation:** Vocabulary: disequilibrium: 不平衡
 
 **[3609.50s] English:** Does that just have to do with a taboo associated with the folklore, as you said?  
 **Translation:** 
 
-**[3612.90s] English:** Yes, and I think there was a pushback from the political arena decades ago about that,  
-**Translation:** Vocabulary: taboo: 禁忌
+**[3612.90s] English:** Yes, and I think there was pushback from the political arena decades ago about that.  
+**Translation:** Vocabulary: folklore: 民间传说; taboo: 禁忌
 
-**[3620.94s] English:** at the time where all the flying saucers were coming out, and then the SETI Institute got it started.  
+**[3620.94s] English:** At the time when all the flying saucers were coming out, and then the SETI Institute got it started.  
 **Translation:** 
 
-**[3627.44s] English:** But now, there is more of a willingness to look at the UAP, UFO phenomenon, from a scientific standpoint.  
+**[3627.44s] English:** But now, there is more of a willingness to look at the UAP, UFO phenomenon from a scientific standpoint.  
 **Translation:** Vocabulary: standpoint: 立场
 
-**[3638.40s] English:** So much so that the government is actually seeking some help from a scientific institution,  
+**[3638.40s] English:** So much so that the government is actually seeking some help from a scientific institution.  
 **Translation:** 
 
-**[3647.08s] English:** and there are programs to start looking into those phenomena.  
+**[3647.08s] English:** And there are programs to start looking into those phenomena.  
 **Translation:** 
 
-**[3652.30s] English:** And as a scientist, I am interested.  
+**[3652.30s] English:** And, as a scientist, I am interested.  
 **Translation:** 
 
-**[3655.40s] English:** What I'm not interested in...  
+**[3655.40s] English:** What I am not interested in...  
 **Translation:** 
 
 **[3656.50s] English:** Again, Carl Sagan comes back here.  
@@ -2008,31 +2009,31 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3661.10s] English:** I want to know.  
 **Translation:** 
 
-**[3662.22s] English:** And so, to know, you have to have a real experiment, you have to have observation,  
+**[3662.22s] English:** And so, to know, you have to have a real experiment; you have to have observation.  
 **Translation:** 
 
-**[3669.02s] English:** and you have things that are done the right way.  
+**[3669.02s] English:** And you have things that are done the right way.  
 **Translation:** 
 
-**[3672.80s] English:** I don't want to have somebody that starts with, what if, as a question,  
+**[3672.80s] English:** I don't want to have somebody who starts with "what if" as a question.  
 **Translation:** 
 
-**[3677.52s] English:** and then turns this what if into the only argument and the only conclusion there is.  
+**[3677.52s] English:** And then turns this "what if" into the only argument and the only conclusion there is.  
 **Translation:** 
 
 **[3682.82s] English:** You understand what I'm saying?  
 **Translation:** 
 
-**[3683.46s] English:** But still, I think it's valuable to...  
+**[3683.46s] English:** But still, I think it's valuable to....  
 **Translation:** 
 
 **[3686.50s] English:** ...appreciate the mystery, and not deny the mystery, so...  
 **Translation:** 
 
-**[3690.48s] English:** No, the mystery is there, but what I don't want is people taking advantage of the public  
+**[3690.48s] English:** No, the mystery is there, but what I don't want is people taking advantage of the public.  
 **Translation:** 
 
-**[3694.92s] English:** and making money out of folklore.  
+**[3694.92s] English:** And making money out of folklore.  
 **Translation:** Vocabulary: folklore: 民间传说
 
 **[3697.18s] English:** Well, let me flip that.  
@@ -2041,19 +2042,19 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3698.16s] English:** I understand.  
 **Translation:** 
 
-**[3699.48s] English:** So, there is a folklore in the stuff I do, AI and robotics, for example.  
+**[3699.48s] English:** So, there is a folklore in the stuff I do—AI and robotics, for example.  
 **Translation:** 
 
-**[3704.28s] English:** There's a clear fear, Terminator, and movies, and all those kind of stuff.  
-**Translation:** Vocabulary: terminator: 天機人
+**[3704.28s] English:** There's a clear fear of terminator-style movies, and all those kinds of things.  
+**Translation:** Vocabulary: robotics: 机器人技术
 
-**[3708.30s] English:** You could say that I'm very concerned about this miscalibrated understanding of the public,  
+**[3708.30s] English:** You could say that I'm very concerned about this miscalibrated understanding of the public.  
 **Translation:** 
 
-**[3714.54s] English:** of what robots...  
+**[3714.54s] English:** Of what robots...  
 **Translation:** Vocabulary: miscalibrated: 校准错误
 
-**[3715.54s] English:** ...role are in society.  
+**[3715.54s] English:** ...and the role are in society.  
 **Translation:** 
 
 **[3717.64s] English:** Or you could see it as a...  
@@ -2062,340 +2063,340 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[3719.14s] English:** Let's use a metaphor.  
 **Translation:** 
 
-**[3720.00s] English:** of a wave you can say this giant wave that we'll call folklore is a really bad idea we need to uh  
+**[3720.00s] English:** Of a wave, you can say this giant wave that we'll call "Folklore" is a really bad idea. We need to...  
 **Translation:** Vocabulary: metaphor: 比喻
 
-**[3726.56s] English:** avoid it we need to hide we need to build dams or you can be a surfer and ride the wave as a  
+**[3726.56s] English:** Avoid it; we need to hide. We need to build dams, or you can be a surfer and ride the wave.  
 **Translation:** 
 
-**[3731.60s] English:** scientist to me the fact that people are wondering about the mystery of ufos it means they're  
+**[3731.60s] English:** Scientist to me, the fact that people are wondering about the mystery of UFOs means they're  
 **Translation:** 
 
-**[3739.28s] English:** wondering no they are but the thing i i will stop surfing that wave when it comes back to bite an  
+**[3739.28s] English:** Wondering, no, they are, but the thing is, I will stop surfing that wave when it comes back to bite me.  
 **Translation:** 
 
-**[3746.24s] English:** entire scientific discipline the science sure for now the past 60 years we were not able to raise  
+**[3746.24s] English:** Entire scientific discipline—the science, sure—for now, the past 60 years, we have not been able to raise.  
+**Translation:** Vocabulary: discipline: 学科
+
+**[3754.88s] English:** Money from the government—no grants; it's a discipline that has no postdoc or very little.  
 **Translation:** 
 
-**[3754.88s] English:** money from the government no grants it's a discipline that has no postdoc of very little  
+**[3761.44s] English:** Postdoc, just because there is a fear of that folklore on the political arena, people don't  
+**Translation:** Vocabulary: postdoc: 博士后
+
+**[3769.68s] English:** I don't want to be associated with that because they confuse the two, so I stop there.  
 **Translation:** 
 
-**[3761.44s] English:** postdoc just because there is a fear of that folklore on the political arena people don't  
+**[3776.40s] English:** As the Director of the Carl Sagan Center, I am just very happy to see now that there is a course.  
 **Translation:** 
 
-**[3769.68s] English:** want to be associated with that because they confuse the two so i stop there  
+**[3781.84s] English:** Correction: The government is seeking scientific investigators for this kind of issue, and  
 **Translation:** 
 
-**[3776.40s] English:** as the director of the carl sagan center i am just very happy to see now that there is a course  
+**[3790.08s] English:** Hopefully, that will be written. I love it; I love to see it, but I want more.  
+**Translation:** Vocabulary: investigators: 调查人员
+
+**[3796.24s] English:** Little disagreements; I'm doing so, obviously, respectfully and with love, and it makes it  
 **Translation:** 
 
-**[3781.84s] English:** correction in the government seeking scientific investigators for this kind of issues and  
-**Translation:** 
-
-**[3790.08s] English:** hopefully that will write the ship there i love it i love to see it but i want and i love our  
-**Translation:** Vocabulary: investigators: 调查员
-
-**[3796.24s] English:** little disagreements i'm i'm doing so obviously respectfully and with love and it's it makes it  
-**Translation:** 
-
-**[3801.84s] English:** for a fun conversation but i think you know just like with surfing away  
+**[3801.84s] English:** For a fun conversation, but I think you know, just like with surfing, away.  
 **Translation:** Vocabulary: disagreements: 小分歧; respectfully: 有礼貌地
 
-**[3806.88s] English:** there's some level of the more you resist it the worse it is so i we didn't resist it  
+**[3806.88s] English:** There's some level where, if you resist it, the worse it gets. So, we didn't resist it.  
 **Translation:** 
 
-**[3814.64s] English:** yes it didn't come from us and we paid the price i just think that the role of  
+**[3814.64s] English:** Yes, it didn't come from us, and we paid the price. I just think that the role of  
 **Translation:** 
 
-**[3822.88s] English:** scientists in part in the 21st century when we talk about social media  
+**[3822.88s] English:** Scientists, in part, in the 21st century when we talk about social media.  
 **Translation:** 
 
-**[3828.48s] English:** is to direct this sense of wonder that people have into a direction of the rigors of science  
+**[3828.48s] English:** It is to direct this sense of wonder that people have into the rigor of science.  
+**Translation:** Vocabulary: rigor: 严谨性
+
+**[3836.24s] English:** We do that pretty well, I would disagree; I don't think so.  
 **Translation:** 
 
-**[3836.24s] English:** we do that pretty well i would disagree i don't think so  
+**[3840.00s] English:** Does much better, but there are other places in science where the search for life is still its  
 **Translation:** 
 
-**[3840.00s] English:** does much better but there's other places in science where the search for life is still it's  
+**[3845.12s] English:** Fairly easy, I suppose, to draw the wonder of people, yes, because it's a profound question that.  
 **Translation:** 
 
-**[3845.12s] English:** fairly easy place to you know draw the wonder of people yes because it's a profound question that  
+**[3851.44s] English:** Pretty much everybody has, but I think I just want to highlight the fact that I think a lot of  
+**Translation:** Vocabulary: highlight: 强调; profound: 深奥
+
+**[3856.88s] English:** Scientists, my colleagues, and friends think that all you need to do is science; all you need to do is.  
 **Translation:** 
 
-**[3851.44s] English:** pretty much everybody has but i think i just want to highlight the fact that i think a lot of  
-**Translation:** Vocabulary: profound: 深奥的
+**[3863.20s] English:** This is the scientific process, including the peer review process, the data, and so on, but I think  
+**Translation:** Vocabulary: colleagues: 同行
 
-**[3856.88s] English:** scientists my colleagues friends think that all you need to do is science all you need to do is  
+**[3868.80s] English:** Communication is actually a fundamental part of the process, um, because it has to do with funding.  
 **Translation:** 
 
-**[3863.20s] English:** this the scientific process the peer review process the the data and so on but i think  
+**[3874.24s] English:** But it also has to do with like, we're a bunch of humans trying to ask big questions.  
 **Translation:** 
 
-**[3868.80s] English:** communication is actually a fundamental part of the process um because it has to do with funding  
+**[3878.88s] English:** Trying to figure this whole puzzle out, and I agree—we do have more public presentations at the  
 **Translation:** 
 
-**[3874.24s] English:** but it also has to do with like we're we're a bunch of humans trying to ask big questions  
+**[3885.60s] English:** Institute, rather than peer-reviewed articles, and believe me, we have lots of peer-reviewed articles, so our  
+**Translation:** Vocabulary: presentations: 会议演讲
+
+**[3891.60s] English:** Scientists are there, and they are sharing the wonder of their discoveries. It's so easy these days.  
 **Translation:** 
 
-**[3878.88s] English:** trying to figure this whole puzzle out and i agree we do have more public presentation at the  
+**[3896.88s] English:** Days—I mean, there isn't a single day  
 **Translation:** 
 
-**[3885.60s] English:** institute than peer-reviewed articles and believe me we have lots of peer-reviewed articles so our  
+**[3898.80s] English:** Right now, I don't have to write a book about the search for life in the universe.  
 **Translation:** 
 
-**[3891.60s] English:** scientists are there and they are sharing the wonder of discoveries and it's so easy these  
+**[3902.72s] English:** I mean, it's almost every single day I had to correct something in the chapters I was writing.  
 **Translation:** 
 
-**[3896.88s] English:** days i mean there is not one day  
+**[3908.96s] English:** So, SETI, in terms of both signatures and signals, is a pretty active field, so it's getting better.  
 **Translation:** 
 
-**[3898.80s] English:** right now that i don't have to write a book about the search for life in the universe  
+**[3916.00s] English:** Right now, it's getting better, but remember that the SETI Institute is not only about the search.  
 **Translation:** 
 
-**[3902.72s] English:** i mean it's almost every single day i had to correct something in the chapters i was writing  
+**[3921.76s] English:** For extraterrestrial intelligence, this is the root of the historical foundation of the institute, but it's  
 **Translation:** 
 
-**[3908.96s] English:** so SETI in terms of both signatures and signals is a pretty active field so it's getting better  
-**Translation:** 
-
-**[3916.00s] English:** right now it's getting better but remember that the SETI institute is not only about the search  
-**Translation:** 
-
-**[3921.76s] English:** for extraterrestrial intelligence this is the root of the historical root of the institute but it's  
-**Translation:** 
-
-**[3928.80s] English:** what we do in fact we are searching for life in the universe from the origins of life to  
+**[3928.80s] English:** What we do, in fact, is search for life in the universe, from the origins of life to  
 **Translation:** Vocabulary: extraterrestrial: 来自外星球的
 
-**[3934.32s] English:** extraterrestrial intelligence so ninety percent of everything else is exoplanet uh for instance  
+**[3934.32s] English:** Extraterrestrial intelligence; so, ninety percent of everything else is exoplanets, for instance.  
 **Translation:** 
 
-**[3940.64s] English:** we have a good chunk of the capillary team that is actually uh with the study institute and they  
-**Translation:** Vocabulary: capillary: 毛细管; exoplanet: 系外行星
+**[3940.64s] English:** We have a good chunk of the capillary team that is actually with the study institute, and they  
+**Translation:** Vocabulary: capillary: 细管团队; exoplanets: 太阳系外行星
 
-**[3948.24s] English:** are working with tests right now some already have some time on the gemsweb we have astrobiologists  
+**[3948.24s] English:** We are working with tests right now; some already have some time on the GemsWeb, and we have astrobiologists.  
 **Translation:** 
 
-**[3953.68s] English:** we have astronomers and those are looking for data for signals for  
-**Translation:** Vocabulary: astrobiologists: 天体生物学家; astronomers: 天文学家
+**[3953.68s] English:** We have astronomers, and they are looking for data for signals for  
+**Translation:** Vocabulary: astrobiologists: 研究外星生命科学家; astronomers: 天文学家
 
-**[3960.00s] English:** planets out there and yeah go to analog places to try and understand the type of  
+**[3960.00s] English:** Planets out there, and yeah, go to analog places to try and understand the types of  
 **Translation:** 
 
-**[3965.34s] English:** life that survive in planetary type environments I mean people are always  
-**Translation:** Vocabulary: analog: 类比; environments: 环境
+**[3965.34s] English:** Life that survives in planetary-type environments—I mean, people are always  
+**Translation:** Vocabulary: analog: 模拟; environments: 环境
 
-**[3970.56s] English:** surprised when I tell them you know whatever flies in the solar system has  
+**[3970.56s] English:** Surprised when I tell them, you know, whatever flies in the solar system has  
 **Translation:** 
 
-**[3976.56s] English:** flown or will be flying we're involved so this is not something that pops in  
+**[3976.56s] English:** Flown, or will be flying, we're involved, so this is not something that pops in.  
 **Translation:** 
 
-**[3982.88s] English:** everybody's mind when they are thinking about the the set Institute because we  
+**[3982.88s] English:** Everybody's mind, when they are thinking about the Set Institute, because we  
 **Translation:** 
 
-**[3987.26s] English:** started off as the search for extraterrestrial intelligence but the  
+**[3987.26s] English:** Started off as the search for extraterrestrial intelligence, but the  
 **Translation:** 
 
-**[3992.26s] English:** Institute has really bloomed into the search for life along the Drake equation  
+**[3992.26s] English:** The institute has really bloomed into the search for life along the Drake equation.  
 **Translation:** 
 
-**[3996.98s] English:** all the terms of the Drake equation just to clarify because by the way you're  
-**Translation:** Vocabulary: drake: 德雷克; equation: 方程
+**[3996.98s] English:** All the terms of the Drake equation, just to clarify, because by the way, you're  
+**Translation:** Vocabulary: equation: 方程
 
-**[4001.32s] English:** saying a bunch of terms sometimes it's good to return to the basics when you're  
+**[4001.32s] English:** Saying a bunch of terms, sometimes it's good to return to the basics when you're.  
 **Translation:** 
 
-**[4005.14s] English:** saying whatever is flown SETI is a part of the things that are flown so we  
+**[4005.14s] English:** Saying, "whatever is flown," SETI is a part of the things that are flown, so we  
 **Translation:** 
 
-**[4012.34s] English:** because we're using we elusive sometimes to say we humans and sometimes we said  
+**[4012.34s] English:** Because we're using "elusive" sometimes to say we humans, and sometimes we said  
 **Translation:** 
 
-**[4016.66s] English:** II yeah  
-**Translation:** Vocabulary: elusive: 难以捉摸
+**[4016.66s] English:** II, yeah.  
+**Translation:** Vocabulary: elusive: 难以捉摸的
 
-**[4017.20s] English:** so the SETI is really broadly involved a lot of the fingertips reaching out  
+**[4017.20s] English:** So, SETI is really broadly involved, with a lot of fingertips reaching out.  
 **Translation:** 
 
-**[4022.78s] English:** there towards the star think about Mars involved in landing site selection in  
-**Translation:** Vocabulary: fingertips: 手指尖
+**[4022.78s] English:** There, towards the star, think about Mars—involved in landing site selection.  
+**Translation:** Vocabulary: broadly: 广泛地
 
-**[4026.42s] English:** instrument that are actually on board some of the mission in science teams for  
+**[4026.42s] English:** Instrument that are actually on board some of the mission and science teams for  
 **Translation:** 
 
-**[4030.64s] English:** instance Cassini New Horizons also missions that will be coming it's the  
-**Translation:** Vocabulary: cassini: 卡西尼探测任务; horizons: 地平线
+**[4030.64s] English:** Instance: Cassini, New Horizons, and other missions that will be coming; it's the  
+**Translation:** Vocabulary: cassini: 卡西尼探测器; horizons: 地平线探测器
 
-**[4038.90s] English:** search for life we do this all across the Drake equation so SETI is part of it  
+**[4038.90s] English:** Search for life, we do this all across the Drake equation, so SETI is part of it.  
 **Translation:** 
 
-**[4044.20s] English:** and it's our route and it's  
+**[4044.20s] English:** And it's our route, and it's  
+**Translation:** Vocabulary: drake: 德雷克
+
+**[4047.20s] English:** Now, in the right now, and if after SETI started, a little bit later.  
 **Translation:** 
 
-**[4047.20s] English:** now in the right now and and it if after SETI started a little bit while  
+**[4058.32s] English:** With no  
 **Translation:** 
 
-**[4058.32s] English:** with no  
+**[4063.26s] English:** Similar to other programs, but things are getting  
 **Translation:** 
 
-**[4063.26s] English:** similar to other programs but things are getting  
+**[4065.18s] English:** Been able to keep them more accessible; some of you may be making.  
 **Translation:** 
 
-**[4065.18s] English:** been able to keep they being more accessible some of you may be making  
+**[4068.98s] English:** Comments on the link on the screen for the NTA about sort of the  
 **Translation:** 
 
-**[4068.98s] English:** comments on the link in the in on the screen for the NTA about sort of the  
+**[4072.88s] English:** Sort of further the application.  
 **Translation:** 
 
-**[4072.88s] English:** sort of further the application  
+**[4076.42s] English:** Expand.  
 **Translation:** 
 
-**[4076.42s] English:** expand  
+**[4077.20s] English:** When you are in an institute like that?  
 **Translation:** 
 
-**[4077.20s] English:** when you are in an institute like that?  
+**[4080.00s] English:** Diving in volcanic lakes at high altitudes to study the creatures within, can you tell me the technical details?  
 **Translation:** 
 
-**[4080.00s] English:** dived in volcanic lakes at high altitudes to study the creatures within can you tell me the technical  
-**Translation:** 
-
-**[4087.60s] English:** the fun the human story of that effort the the image that is associated with the scientist is  
+**[4087.60s] English:** The fun, the human story of that effort: the image that is associated with the scientist is  
 **Translation:** Vocabulary: altitudes: 高海拔; volcanic: 火山的
 
-**[4093.60s] English:** the person with the white coat in the lab in fact a number of us at institute are athletes  
+**[4093.60s] English:** The person with the white coat in the lab, in fact, a number of us at the institute are athletes.  
 **Translation:** 
 
-**[4101.60s] English:** doing extremes what would be considered extreme stuff uh uh and not i mean it's fun it's a little  
+**[4101.60s] English:** Doing extremes, what would be considered extreme stuff, uh, and it's fun; it's a little...  
 **Translation:** Vocabulary: extremes: 极限运动
 
-**[4109.20s] English:** dangerous too but uh it's to get data and more knowledge so there are so many stories i don't  
+**[4109.20s] English:** Dangerous, too, but, uh, it's to get data and more knowledge. So, there are so many stories; I don't  
 **Translation:** 
 
-**[4115.44s] English:** even know it was the first time you did a dangerous thing with a volcano oh so the the first  
+**[4115.44s] English:** Even though it was the first time you did a dangerous thing with a volcano, oh, so the first.  
 **Translation:** 
 
-**[4122.48s] English:** one associated to uh the search for life understanding was in 2002 uh where i started  
+**[4122.48s] English:** One associated with the search for life, understood, was in 2002, where I started.  
 **Translation:** 
 
-**[4130.72s] English:** climbing those high volcanoes in the andes that are 20 000 footers the view out there is just  
-**Translation:** Vocabulary: volcanoes: 火山
+**[4130.72s] English:** Climbing those high volcanoes in the Andes, that are 20,000-footers, the view out there is just  
+**Translation:** Vocabulary: footers: 低海拔登山者; volcanoes: 火山
 
-**[4136.72s] English:** beautiful you got  
+**[4136.72s] English:** Beautiful, you got it!  
 **Translation:** 
 
-**[4139.36s] English:** i you're so hilarious at spending almost no time on some epic things i love this okay what  
+**[4139.36s] English:** I, you're so hilarious! At spending almost no time on some epic things. I love this, okay? What  
+**Translation:** Vocabulary: hilarious: 非常滑稽
+
+**[4146.32s] English:** The volcano, okay? How tall are these volcanoes? What are you doing with a volcano? What's required to...  
 **Translation:** 
 
-**[4146.32s] English:** the volcano okay how tall these volcanoes what are you doing with a volcano what's required to  
+**[4150.88s] English:** Prepare for that. What does a mission look like? That looks like... I mean, how do you approach it? I mean, that is...  
 **Translation:** 
 
-**[4150.88s] English:** prepare for that what does a mission look like that look like i mean how do you i mean that is  
+**[4155.68s] English:** True, that is science embodied. It's like athletics, and it's science; you're studying the  
 **Translation:** 
 
-**[4155.68s] English:** true that this is science embodied it's like athletics and it's science and you're studying the  
+**[4162.00s] English:** Extreme conditions of life on Earth, and the extreme beauty of life in those conditions—so, what?  
+**Translation:** Vocabulary: athletics: 竞技运动; embodied: 体现
+
+**[4169.20s] English:** Well, what are we talking about with this volcano? How big is it? Remember when we were talking?  
 **Translation:** 
 
-**[4162.00s] English:** extreme conditions of life on earth extreme beauty of life on earth in those conditions so what what  
-**Translation:** Vocabulary: athletics: 体育; embodied: 体现
-
-**[4169.20s] English:** well what are we talking about with this volcano what how big is it remember when we were talking  
+**[4173.68s] English:** About how I understand how to search for life on Mars: This is how it started for me.  
 **Translation:** 
 
-**[4173.68s] English:** about how do i understand how i search for life on mars this is how it started for me  
+**[4178.64s] English:** And then I looked at the environment in my head, starting to go through the different environments.  
 **Translation:** 
 
-**[4178.64s] English:** and then i looked at environment in my head started you know going through the environments  
+**[4183.76s] English:** On Earth, that would be good analysis, and then you only have a few, like the Andes, in that case.  
+**Translation:** Vocabulary: environments: 环境
+
+**[4190.08s] English:** Are some of the best in the world just because of the aridity of the place, and the higher you go?  
 **Translation:** 
 
-**[4183.76s] English:** on earth that would be good analysis and then you only have a few and the andes in that case  
-**Translation:** 
-
-**[4190.08s] English:** are some of the best in the world just because of the aridity of the place and the higher you go  
-**Translation:** 
-
-**[4199.20s] English:** at least at the  
+**[4199.20s] English:** At least, at the  
 **Translation:** Vocabulary: aridity: 干燥程度
 
-**[4200.00s] English:** you have the more UV radiation you have and the Andes are volcanic  
+**[4200.00s] English:** You have more UV radiation, and the Andes are volcanic.  
 **Translation:** 
 
-**[4205.76s] English:** hydrothermal plus you have the climate change that's coming you have  
-**Translation:** Vocabulary: hydrothermal: 地热的
+**[4205.76s] English:** Hydrothermal activity, plus you have the climate change that's coming; you have  
+**Translation:** Vocabulary: hydrothermal: 地热的; volcanic: 火山的
 
-**[4209.66s] English:** evaporation it's a picture of Mars 3.5 billion years ago and so now you are  
+**[4209.66s] English:** Evaporation: It's a picture of Mars 3.5 billion years ago, and so now you are.  
 **Translation:** 
 
-**[4216.80s] English:** actually entering a time machine basically so remember I'm a diver and  
+**[4216.80s] English:** Actually, entering a time machine would be like, you know, remembering that I'm a diver and  
 **Translation:** Vocabulary: evaporation: 蒸发
 
-**[4224.56s] English:** the first time I got 2002 to the places we wanted to explore all of a sudden I  
+**[4224.56s] English:** The first time I got to 2002 and explore all the places we wanted, suddenly I  
 **Translation:** 
 
-**[4233.36s] English:** was standing at 14,000 foot looking at 20,000 feet and saying okay well I need  
+**[4233.36s] English:** Was standing at 14,000 feet looking at 20,000 feet and saying, "Okay, well, I need...  
 **Translation:** 
 
-**[4241.38s] English:** to get up there you scared no no because we are prepared and the only thing I  
+**[4241.38s] English:** To get up there, you're not scared because we are prepared, and the only thing I  
 **Translation:** 
 
-**[4248.80s] English:** didn't know is if I was going to be able to make it to the top because now you're  
+**[4248.80s] English:** Didn't know if I was going to be able to make it to the top because now you're  
 **Translation:** 
 
-**[4252.28s] English:** dealing with high altitude you can deal with  
+**[4252.28s] English:** Dealing with high altitude, you can deal with  
 **Translation:** 
 
-**[4254.38s] English:** high��  
-**Translation:** Vocabulary: altitude: 高空
+**[4254.38s] English:** High.  
+**Translation:** Vocabulary: altitude: 海拔
 
-**[4254.46s] English:** altitude you can deal with high  
+**[4254.46s] English:** Altitude: You can deal with high.  
 **Translation:** 
 
-**[4254.54s] English:** altitude sickness you can deal with a number of thing and for god's sake these are volcanoes and  
+**[4254.54s] English:** Altitude sickness: you can deal with a number of things, and for God's sake, these are volcanoes!  
 **Translation:** Vocabulary: volcanoes: 火山
 
-**[4258.62s] English:** they are dormant they are not extinct um that can buy to bite us a couple of times what was  
+**[4258.62s] English:** They are dormant, not extinct. That can still bite us a couple of times, what was?  
 **Translation:** 
 
-**[4264.46s] English:** your preparation for that kind of i mean this is there is a lot of uh you know hiking and trekking  
-**Translation:** Vocabulary: dormant: 休眠; trekking: 徒步旅行
+**[4264.46s] English:** Your preparation for that kind of thing, I mean, there's a lot of hiking and trekking.  
+**Translation:** Vocabulary: dormant: 休眠; extinct: 灭绝; trekking: 徒步旅行
 
-**[4270.70s] English:** at altitude around here but not so high because we don't have anything closer to those elevations  
+**[4270.70s] English:** At an altitude around here, but not so high because we don't have anything closer to those elevations.  
 **Translation:** 
 
-**[4277.02s] English:** around here in the u.s but in volcanic environment climbing volcanoes here we have plenty of those  
-**Translation:** Vocabulary: elevations: 海拔; volcanic: 火山的
+**[4277.02s] English:** Around here in the U.S., but in a volcanic environment, climbing volcanoes — here, we have plenty of those.  
+**Translation:** Vocabulary: elevations: 海拔高度
 
-**[4284.14s] English:** diving as well i am a free diver so this is where it's going to be hilarious because i started with  
+**[4284.14s] English:** Diving, as well; I am a free diver, so this is where it's going to be hilarious because I started with  
 **Translation:** 
 
-**[4291.02s] English:** a complete irrational fear of pressurized vessels that comes from an incident in my childhood  
-**Translation:** Vocabulary: irrational: 不合逻辑; pressurized: 加压的
+**[4291.02s] English:** A complete, irrational fear of pressurized vessels that comes from an incident in my childhood.  
+**Translation:** Vocabulary: hilarious: 滑稽; irrational: 不合逻辑; pressurized: 加压的
 
-**[4298.70s] English:** and so i became a free diver to avoid having to carry oxygen tanks on my back free diving is  
+**[4298.70s] English:** And so I became a free diver to avoid having to carry oxygen tanks on my back. Free diving is  
 **Translation:** 
 
-**[4305.50s] English:** diving without without anything just your lungs right that was that started from childhood yeah  
+**[4305.50s] English:** Diving without anything, just your lungs—right? That started from childhood, yeah.  
 **Translation:** 
 
-**[4311.26s] English:** no it was to the point where when i  
+**[4311.26s] English:** No, it was to the point where when I  
 **Translation:** 
 
-**[4313.58s] English:** i saw a pressure vessel like a methane tanks or anything i would be you know  
+**[4313.58s] English:** I saw a pressure vessel, like a methane tank, or anything I would be, you know.  
 **Translation:** Vocabulary: methane: 甲烷
 
-**[4320.00s] English:** going around and puts a lot of distance  
+**[4320.00s] English:** Going around and putting a lot of distance  
 **Translation:** 
 
-**[4323.52s] English:** between me and that tank.  
+**[4323.52s] English:** Between me and that tank.  
 **Translation:** 
 
-**[4325.06s] English:** So I was not going to carry any oxygen tank.  
+**[4325.06s] English:** So, I was not going to carry any oxygen tank.  
 **Translation:** 
 
-**[4328.60s] English:** And the first time I actually dived  
+**[4328.60s] English:** And the first time I actually dove,  
 **Translation:** 
 
-**[4331.60s] English:** at the summit of that lake was free diving.  
+**[4331.60s] English:** At the summit of that lake, free diving was taking place.  
 **Translation:** 
 
 **[4334.62s] English:** People look at me like I'm nuts.  
@@ -2404,116 +2405,116 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[4336.34s] English:** Well, maybe I am a little bit.  
 **Translation:** 
 
-**[4338.12s] English:** People that work with you as well?  
+**[4338.12s] English:** People who work with you, as well?  
 **Translation:** 
 
 **[4339.44s] English:** I mean, that kind of seems kind of nuts.  
 **Translation:** 
 
-**[4341.80s] English:** No, we knew what-  
+**[4341.80s] English:** No, we knew what -  
 **Translation:** 
 
 **[4343.58s] English:** It's a risk.  
 **Translation:** 
 
-**[4344.52s] English:** Actually, it's a lot less of a risk  
+**[4344.52s] English:** Actually, it's a lot less of a risk.  
 **Translation:** 
 
-**[4346.96s] English:** than getting with conventional air.  
+**[4346.96s] English:** Than getting with conventional air,  
 **Translation:** 
 
 **[4350.44s] English:** And I can explain that.  
+**Translation:** Vocabulary: conventional: 传统的
+
+**[4352.58s] English:** But ultimately, what decided me to certify in SCUBA.  
 **Translation:** 
 
-**[4352.58s] English:** But ultimately, what decided me to certify scuba  
+**[4357.36s] English:** And go over my fears: as a scientist,  
+**Translation:** Vocabulary: certify: 取得认证
+
+**[4361.22s] English:** I needed more time at the bottom of the lake.  
 **Translation:** 
 
-**[4357.36s] English:** and go over my fear was that as a scientist,  
+**[4364.48s] English:** To sample, you know, rationally, take my time to think.  
 **Translation:** 
 
-**[4361.22s] English:** I needed more time at the bottom of the lake  
+**[4368.92s] English:** And I can stay quite long enough.  
 **Translation:** 
 
-**[4364.48s] English:** to sample, you know, rationally, take my time to think.  
+**[4373.94s] English:** As a free diver underwater.  
 **Translation:** 
 
-**[4368.92s] English:** And I can stay quite long enough  
+**[4376.26s] English:** But the last thing.  
 **Translation:** 
 
-**[4373.94s] English:** as a free diver underwater.  
+**[4376.94s] English:** You want to do at 20,000 feet?  
 **Translation:** 
 
-**[4376.26s] English:** But the last thing  
+**[4379.36s] English:** It is to come up to the surface with empty lungs.  
 **Translation:** 
 
-**[4376.94s] English:** you want to do at 20,000 feet  
+**[4382.12s] English:** Because there isn't much to breathe out there.  
 **Translation:** 
 
-**[4379.36s] English:** is to come up at the surface with empty lungs  
+**[4384.56s] English:** To replenish your oxygen.  
 **Translation:** 
 
-**[4382.12s] English:** because there is not much you can breathe out there  
-**Translation:** 
-
-**[4384.56s] English:** to replenish your oxygen.  
-**Translation:** 
-
-**[4386.90s] English:** So definitely your time in the water is cut short  
+**[4386.90s] English:** So, definitely, your time in the water is cut short.  
 **Translation:** Vocabulary: replenish: 补充
 
-**[4391.18s] English:** just for safety.  
+**[4391.18s] English:** Just for safety.  
 **Translation:** 
 
-**[4392.32s] English:** And I realized that it was not a good trade-off for me  
+**[4392.32s] English:** And I realized that it was not a good trade-off for me.  
 **Translation:** 
 
-**[4396.04s] English:** at some point.  
+**[4396.04s] English:** At some point.  
 **Translation:** 
 
-**[4396.88s] English:** So I certified scuba.  
+**[4396.88s] English:** So, I certified scuba.  
+**Translation:** Vocabulary: certified: 获得认证
+
+**[4398.80s] English:** And after three years of exploring that lake free-diving,  
 **Translation:** 
 
-**[4398.80s] English:** And after three years of exploring that lake free diving,  
+**[4404.26s] English:** We finally came up with a full scuba diving experience.  
 **Translation:** 
 
-**[4404.26s] English:** we finally came up with a full scuba diving experience.  
+**[4406.26s] English:** And it was not a scuba diving expedition.  
 **Translation:** 
 
-**[4406.26s] English:** And it was not a scuba diving expedition,  
+**[4407.94s] English:** But we were diving with rebreathers.  
 **Translation:** 
 
-**[4407.94s] English:** but we were diving with rebreathers,  
-**Translation:** Vocabulary: expedition: 考察旅行; rebreathers: 循环呼吸器
-
-**[4411.06s] English:** which means that we dived with pure oxygen.  
+**[4411.06s] English:** Which means that we dived with pure oxygen.  
 **Translation:** 
 
-**[4415.92s] English:** So rebreathers give you a bag  
+**[4415.92s] English:** So, rebreathers give you a bag.  
+**Translation:** Vocabulary: rebreathers: 循环呼吸器
+
+**[4419.78s] English:** With stuff that looks like cat leashes in it,  
 **Translation:** 
 
-**[4419.78s] English:** with stuff that looks like cat leaders in it,  
+**[4424.36s] English:** Which is basically to absorb the CO2.  
+**Translation:** Vocabulary: leashes: 绳子
+
+**[4427.86s] English:** That you are expelling when you're breathing.  
 **Translation:** 
 
-**[4424.36s] English:** which is basically to absorb the CO2  
+**[4430.54s] English:** And they are recycling oxygen this way.  
+**Translation:** Vocabulary: expelling: 呼出的气体
+
+**[4433.48s] English:** So, basically, you are rebreathing your own oxygen.  
 **Translation:** 
 
-**[4427.86s] English:** that you are expelling when you're breathing.  
-**Translation:** 
-
-**[4430.54s] English:** And they're recycling oxygen this way.  
-**Translation:** 
-
-**[4433.48s] English:** So basically you are rebreathing your own oxygen.  
-**Translation:** 
-
-**[4436.10s] English:** So basically you are rebreathing your own oxygen.  
+**[4436.10s] English:** So, basically, you are rebreathing your own oxygen.  
 **Translation:** Vocabulary: rebreathing: 循环呼吸
 
-**[4436.14s] English:** So basically you are rebreathing your own oxygen.  
+**[4436.14s] English:** So, basically, you are rebreathing your own oxygen.  
 **Translation:** 
 
-**[4436.24s] English:** So basically you are rebreathing your own respiration.  
-**Translation:** Vocabulary: respiration: 呼吸
+**[4436.24s] English:** So, basically, you are rebreathing your own exhalation.  
+**Translation:** Vocabulary: exhalation: 呼出的气体
 
 **[4437.90s] English:** Wow.  
 **Translation:** 
@@ -2524,302 +2525,302 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[4439.58s] English:** How long can you do that?  
 **Translation:** 
 
-**[4440.00s] English:** what's what's the what's interesting about that technology so it's very interesting because then  
+**[4440.00s] English:** What's interesting about that technology is that it's very interesting because then...  
 **Translation:** 
 
-**[4445.76s] English:** that completely avoids the potential issues you may have with the binds when you are diving the  
+**[4445.76s] English:** That completely avoids the potential issues you may have with the binds when you are diving.  
 **Translation:** 
 
-**[4454.16s] English:** risk of bubbles trapped in your lungs because of different pressures and different gases  
+**[4454.16s] English:** Risk of bubbles trapped in your lungs because of different pressures and different gases.  
 **Translation:** 
 
-**[4461.12s] English:** so there's a complexity to the flow of oxygen underwater when you are breathing regular air  
+**[4461.12s] English:** So, there's a complexity to the flow of oxygen underwater when you are breathing regular air.  
 **Translation:** 
 
-**[4467.76s] English:** when you are scuba diving here you know that you have to do some different when you're coming back  
+**[4467.76s] English:** When you are scuba diving here, you know that you have to do something different when you're coming back.  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[4474.00s] English:** When you're diving deep and you have conventional air, then you need to stop so that you can equalize.  
 **Translation:** 
 
-**[4474.00s] English:** when you're diving deep and you have conventional air then you need to stop so that you can equalize  
+**[4482.16s] English:** The gases in your lungs, if you come back too fast, then you can have air bubbles stuck, and then you  
+**Translation:** Vocabulary: conventional: 常规的; equalize: 平衡气压
+
+**[4491.52s] English:** Can raise the binds which you can risk being paralyzed, you can raise a number of nasty issues.  
 **Translation:** 
 
-**[4482.16s] English:** the gases in your lungs if you come back too fast then you can have air bubbles stuck and then you  
-**Translation:** 
-
-**[4491.52s] English:** can raise the binds which you can risk to be paralyzed you can raise a number of nasty issues  
-**Translation:** 
-
-**[4496.48s] English:** and we wanted absolutely  
+**[4496.48s] English:** And we wanted absolutely  
 **Translation:** Vocabulary: paralyzed: 瘫痪
 
-**[4497.76s] English:** to avoid that so diving with pure oxygen avoids this completely and it has a another  
+**[4497.76s] English:** To avoid that, so diving with pure oxygen avoids this completely, and it has another.  
 **Translation:** 
 
-**[4506.72s] English:** benefit at high altitude is that well the greater risk when you are at high altitude is altitude  
+**[4506.72s] English:** Benefit at high altitude is that, well, the greater risk when you are at high altitude is altitude.  
 **Translation:** Vocabulary: altitude: 高海拔
 
-**[4515.20s] English:** sickness what is altitude sickness is just you not having enough oxygen in your blood so these  
+**[4515.20s] English:** Sickness: What is altitude sickness is just you not having enough oxygen in your blood, so these.  
 **Translation:** 
 
-**[4521.76s] English:** you know this was a good benefit it was a good trade-off uh we were lucky enough to be also  
+**[4521.76s] English:** You know, this was a good benefit; it was a good trade-off. Uh, we were lucky enough to be also...  
 **Translation:** 
 
-**[4526.64s] English:** trained by  
+**[4526.64s] English:** Trained by  
 **Translation:** 
 
-**[4527.76s] English:** the military so we came up with not the civilian rebreather which is the big thing on on the back  
-**Translation:** Vocabulary: rebreather: 循环呼吸器
+**[4527.76s] English:** The military version, so we came up with a non-civilian rebreather, which is the big thing on the back.  
+**Translation:** Vocabulary: rebreather: 循环式呼吸器
 
-**[4535.44s] English:** that you carry on your back we actually uh were given navy seals commando rebreather you worked  
+**[4535.44s] English:** That you carry on your back, we were actually given a Navy SEALs commando rebreather, and you worked.  
 **Translation:** 
 
-**[4542.08s] English:** with navy seals for this the director of military operations yes we were trained we were trained  
+**[4542.08s] English:** With Navy SEALs, for this the Director of Military Operations: Yes, we were trained, we were trained.  
+**Translation:** Vocabulary: commando: 突击队员
+
+**[4548.64s] English:** Like astronauts for three months, I spent more time. I had a joke that if somebody wanted to reach me,...  
 **Translation:** 
 
-**[4548.64s] English:** like astronauts for three months i spent more time i had a joke that if somebody wanted to reach me  
+**[4556.00s] English:** They better put a phone.  
 **Translation:** 
 
-**[4556.00s] English:** they better put a phone  
+**[4557.76s] English:** At the bottom of the swimming pool, because this is where  
 **Translation:** 
 
-**[4557.76s] English:** line at the bottom of the swimming pool because this is where  
+**[4560.00s] English:** We trained and trained, and our manual about safety was that thick, so it was.  
 **Translation:** 
 
-**[4560.00s] English:** was so we trained and we trained and our manual about the safety was about that thick so it was  
+**[4567.92s] English:** A real operation that was three years into it, because when you are free diving for years,...  
 **Translation:** 
 
-**[4567.92s] English:** a real operation that was three years into into it because when you are free diving in the years  
+**[4574.08s] English:** Prior, there is no risk; you don't have any other gas in your lungs than what you are breathing.  
 **Translation:** 
 
-**[4574.08s] English:** prior there is no risk you don't have any other gas in your lung than what you are breathing the  
+**[4579.92s] English:** The only risk is coming short of air, and then you're in trouble — which happened to me one time, seriously.  
 **Translation:** 
 
-**[4579.92s] English:** only risk is come short of air and then you're in trouble which happened to me uh one time seriously  
+**[4586.80s] English:** So, tell me about that time—I've got to ask you about free diving before we return to the rebreathers.  
+**Translation:** Vocabulary: rebreathers: 循环呼吸器
+
+**[4592.00s] English:** Well, all these legs I had were at altitude; they are cold and the minimum temperature you can have.  
 **Translation:** 
 
-**[4586.80s] English:** so tell me about that time i gotta ask you about free diving before we return to the rebreathers  
+**[4597.60s] English:** On bodies of water, especially clear ones, which are 4°C, it's very, very cold, and so you...  
+**Translation:** Vocabulary: altitude: 高度
+
+**[4605.20s] English:** It's like a nice bath, yeah, so you can't just dive in with a wetsuit.  
 **Translation:** 
 
-**[4592.00s] English:** well all these legs i had altitude they are cold they are the minimum temperature that you can have  
+**[4615.04s] English:** So, the idea  
+**Translation:** Vocabulary: wetsuit: 潜水服
+
+**[4616.80s] English:** It was to take a dry suit, and I learned how to free dive with a dry suit, which is really the worst.  
 **Translation:** 
 
-**[4597.60s] English:** on bodies of water uh clear bodies of water which is four degrees c it's very very cold and so you  
+**[4625.44s] English:** Thing you can do: What's a wetsuit? What's a dress? So, a dry suit—uh, a wet suit is usually what you  
 **Translation:** 
 
-**[4605.20s] English:** it's like a nice bath yeah so you cannot um just dive with a wetsuit  
+**[4631.52s] English:** Use a dry suit in the ocean when it's not too cold, but the wet suit is basically is  
 **Translation:** 
 
-**[4615.04s] English:** so the idea  
-**Translation:** Vocabulary: cannot: 不能; wetsuit: 潜水服
-
-**[4616.80s] English:** was to take a dry suit and i learned how to free dive with a dry suit which is really the worst  
+**[4636.16s] English:** Going to keep you warm, because water is getting into the suit and making contact with your skin.  
 **Translation:** 
 
-**[4625.44s] English:** thing you can do what's a wetsuit what's a dress so a dry suit uh a wet suit is usually what you  
+**[4642.64s] English:** Is it getting to body temperature, and so for a while, you can.  
 **Translation:** 
 
-**[4631.52s] English:** use in the ocean when it's not too cold you can use also dry suit but the wet suit basically is  
+**[4646.80s] English:** You know, you'd have to dive like that and need to be in the ocean here—that's fine, that's fine—the dry suit.  
 **Translation:** 
 
-**[4636.16s] English:** going to keep you warm because water is getting into the suit and at the contact of your skin  
+**[4654.24s] English:** Is the opposite; it's completely closed, which means that you don't have any contact with the water.  
 **Translation:** 
 
-**[4642.64s] English:** is getting to body temperature and so for a while you can  
+**[4660.96s] English:** Outside, and you keep your warmth through your body temperature and even clothing that you can.  
 **Translation:** 
 
-**[4646.80s] English:** you know dive like that and need in the ocean here that's fine that that's fine the dry suit  
+**[4667.68s] English:** Put some into it, so these dry suits, which are used by divers to go really deep in very cold water.  
 **Translation:** 
 
-**[4654.24s] English:** is the opposite it's completely closed which means that you don't have any contact with the water  
+**[4676.80s] English:** Underwater, so what's the bad part? The bad part is...  
+**Translation:** Vocabulary: divers: 潜水员
+
+**[4680.00s] English:** Is that when you have those dry suits, you have a lot of air that can be trapped in it, usually we do  
 **Translation:** 
 
-**[4660.96s] English:** outside and you keep your warmth through uh your body temperature and even clothing that you can  
-**Translation:** 
-
-**[4667.68s] English:** put into it so this dry suit they are used by diver would go really deep in very cold water  
-**Translation:** 
-
-**[4676.80s] English:** underwater so what's the bad part the bad part is  
-**Translation:** 
-
-**[4680.00s] English:** is that when you have those dry suit you have a lot of air that can be trapped in it usually we do  
-**Translation:** 
-
-**[4691.76s] English:** what we call burping the suit it's not very pleasant expression but you get in the water  
+**[4691.76s] English:** What we call "burping" the suit—it's not a very pleasant expression, but you get in the water.  
 **Translation:** Vocabulary: burping: 排气
 
-**[4697.36s] English:** and as soon as you get in the water you can see the air pockets all over the place right so you  
+**[4697.36s] English:** And as soon as you get in the water, you can see the air pockets all over the place, right?  
 **Translation:** 
 
-**[4702.16s] English:** burp the suit you open the valve and the air comes out once you have done that then you look with  
+**[4702.16s] English:** Burp the suit, you open the valve and the air comes out. Once you have done that, then you look with...  
 **Translation:** Vocabulary: valve: 阀门
 
-**[4708.32s] English:** your uh lead belt and and you know when you're ready to go down and so what happened that day  
+**[4708.32s] English:** Your lead belt, and you know when you're ready to go down. So, what happened that day?  
 **Translation:** 
 
-**[4715.04s] English:** is that i actually did burp the suit but didn't realize i burped it completely and so  
+**[4715.04s] English:** Is that I actually did burp the suit, but didn't realize I burped it completely, and so  
 **Translation:** Vocabulary: burped: 打嗝
 
-**[4721.92s] English:** i went down and immediately i felt an air pocket going to my legs so basically air was trapped in  
+**[4721.92s] English:** I went down, and immediately I felt an air pocket going to my legs, so basically air was trapped in.  
 **Translation:** 
 
-**[4731.44s] English:** the suit and went on my legs as i was diving like that and so i didn't pay too much attention to  
+**[4731.44s] English:** The suit and went on my legs as I was diving like that, and so I didn't pay too much attention to.  
 **Translation:** 
 
-**[4738.32s] English:** that because you're diving down yeah i was diving down and so didn't pay too much attention about  
+**[4738.32s] English:** That's because you're diving down, yeah. I was diving down and so didn't pay too much attention about.  
 **Translation:** 
 
-**[4744.24s] English:** that uh as i was you know busy it's just an awkward position but um then i wanted to turn  
+**[4744.24s] English:** That, uh, as I was you know, busy, it's just an awkward position, but then I wanted to turn.  
 **Translation:** 
 
-**[4752.40s] English:** and go up well no can do i was just like a buoy oh wow and i was like that so i the first time  
+**[4752.40s] English:** And go up, well, no can do. I was just like a buoy: "Oh, wow!" And I was like, "That," so I the first time.  
 **Translation:** 
 
-**[4762.24s] English:** i say okay i try a second time and the third time and by the fourth time i kind of realized i wasn't  
+**[4762.24s] English:** I say, okay, I try a second time, and the third time, and by the fourth time, I kind of realized I wasn't.  
 **Translation:** 
 
-**[4768.32s] English:** trouble and the fifth time i say okay now you better give it your best try otherwise it's going  
+**[4768.32s] English:** Trouble, and the fifth time I say, "Okay, now you better give it your best try; otherwise, it's going...  
 **Translation:** 
 
-**[4774.64s] English:** to be big trouble um and you're this is free diving i was free diving and then you can't  
+**[4774.64s] English:** To be in big trouble, um, and you're this is free diving; I was free diving, and then you can't.  
 **Translation:** 
 
-**[4781.92s] English:** and i cannot what were you feeling i mean is there a panic or no there is no panic because  
+**[4781.92s] English:** And I can't tell what you're feeling. I mean, is there any panic, or is there none at all?  
 **Translation:** 
 
-**[4786.72s] English:** you can't you cannot afford to be panicking in fact you are always thinking because there is  
-**Translation:** Vocabulary: cannot: 不能; panicking: 恐慌
+**[4786.72s] English:** You can't afford to be panicking; in fact, you are always thinking because there is  
+**Translation:** Vocabulary: panicking: 恐慌
 
-**[4792.24s] English:** training this is the best part about training your training allows you that space to keep you cool  
+**[4792.24s] English:** Training: This is the best part about training. Your training allows you that space to keep you cool.  
 **Translation:** 
 
-**[4798.32s] English:** and and compose which you  
+**[4798.32s] English:** And compose, which you  
+**Translation:** Vocabulary: compose: 镇定
+
+**[4800.00s] English:** To be in that kind of situation, and so finally, after the fifth time, I was able to rectify it.  
 **Translation:** 
 
-**[4800.00s] English:** to be in that kind of situation and so finally after the fifth time i was able to rectify the  
-**Translation:** 
-
-**[4807.12s] English:** position and get myself up but when i got up my lungs were empty i had been in the water for  
+**[4807.12s] English:** Position and get myself up, but when I got up, my lungs were empty; I had been in the water for  
 **Translation:** Vocabulary: rectify: 纠正
 
-**[4814.80s] English:** quite some time and i of co i knew what was going to happen so i decided to just be the plank you  
+**[4814.80s] English:** Quite some time, and I kind of knew what was going to happen, so I decided to just be the plank.  
 **Translation:** 
 
-**[4822.72s] English:** know not move and don't do anything just open my mouth and try to suck oxygen but obviously oxygen  
+**[4822.72s] English:** Know, I didn't move and didn't do anything; just opened my mouth and tried to suck in oxygen, but obviously, there was none.  
 **Translation:** Vocabulary: plank: 木板
 
-**[4829.36s] English:** at 6 000 meters 20 000 feet there is not that much it's about a little it's a 48 percent of what you  
+**[4829.36s] English:** At 6,000 meters (20,000 feet), there isn't that much. It's about 48 percent of what you have at sea level.  
 **Translation:** 
 
-**[4837.12s] English:** breathe at sea level so although it was noon at that time the sky stayed pretty dark and starry  
+**[4837.12s] English:** Breathe at sea level, so although it was noon at that time, the sky stayed pretty dark and starry.  
 **Translation:** Vocabulary: starry: 满天星斗
 
-**[4848.48s] English:** for about a minute everywhere oh my god yes  
+**[4848.48s] English:** For about a minute, everywhere: oh my god, yes!  
 **Translation:** 
 
-**[4853.52s] English:** the funny thing was and that's the first time you experienced that kind of uh i mean do you  
+**[4853.52s] English:** The funny thing was, and that's the first time you experienced that kind of — uh, I mean, do you?  
 **Translation:** 
 
-**[4858.88s] English:** can you  
+**[4858.88s] English:** Can you?  
 **Translation:** 
 
-**[4859.36s] English:** possibly train for that like because can you also pass out oh you could i mean the fact that i was  
+**[4859.36s] English:** Possibly, train for that. Like, because can you also pass out? Oh, you could; I mean, the fact that I was.  
 **Translation:** 
 
-**[4865.68s] English:** already seeing dark was a real sign that my brain was starved of oxygen and i had one of my friends  
+**[4865.68s] English:** Already seeing dark was a real sign that my brain was starved of oxygen, and I had one of my friends.  
 **Translation:** 
 
-**[4874.40s] English:** or colleagues on the on the shore just telling me because i'd been under for a little while and say  
+**[4874.40s] English:** Or, colleagues on the shore just told me because I'd been underwater for a little while and said,  
+**Translation:** Vocabulary: colleagues: 同事; starved: 缺氧
+
+**[4880.16s] English:** Is everything okay? And I remember trying to say something, and I was just like  
 **Translation:** 
 
-**[4880.16s] English:** is everything okay and i i remember trying to say something and and and i was just like  
+**[4888.08s] English:** That's I think the best.  
 **Translation:** 
 
-**[4888.08s] English:** that's i think the best  
+**[4889.36s] English:** I've never, ever gotten a thumbs up for lying to a friend and maybe to myself.  
 **Translation:** 
 
-**[4889.36s] English:** lie i ever ever i get the thumbs up you were lying to the friend and maybe to yourself  
+**[4894.80s] English:** Uh, no, uh, because I knew I was going to be okay, but it took me to be still for a few minutes.  
+**Translation:** Vocabulary: thumbs: 大拇指
+
+**[4901.68s] English:** Well, can you talk about freediving? I mean, what's the technical skill involved here? It just seems...  
 **Translation:** 
 
-**[4894.80s] English:** uh no uh because i knew i was going to be okay but it took me to be still for a few minutes  
+**[4909.12s] English:** It seems exceptionally difficult, like for most people who swim; you go underwater.  
 **Translation:** 
 
-**[4901.68s] English:** well can you talk about freediving i mean what's the technical skill involved here it just seems um  
+**[4913.20s] English:** It's hard, so what's the skill there, you know? I think  
 **Translation:** 
 
-**[4909.12s] English:** it seems exceptionally difficult like for most people that swim you go underwater  
+**[4917.20s] English:** You probably can get good or bad.  
 **Translation:** 
 
-**[4913.20s] English:** it's it's it's hard so what's the skill there you know i think  
+**[4920.00s] English:** At free diving, by training, you have different techniques you can train in a swimming pool and you.  
 **Translation:** 
 
-**[4917.20s] English:** you probably can get good or bad  
+**[4927.02s] English:** Can say, you know, frankly, for me, I go to the bottom of the swimming pool and I sit there, and then you  
+**Translation:** Vocabulary: frankly: 坦白地说
+
+**[4934.22s] English:** Have relaxation techniques? Some people meditate, but I can't. I am NOT a good person that can meditate, or  
 **Translation:** 
 
-**[4920.00s] English:** at free diving by training so you have different techniques you can train in swimming pool and you  
-**Translation:** 
-
-**[4927.02s] English:** can say you know frankly for me I go at the bottom of the swimming pool and I sit there and then you  
-**Translation:** 
-
-**[4934.22s] English:** have relaxation techniques some people meditate I can't I am NOT a good person that can meditate or  
-**Translation:** 
-
-**[4941.18s] English:** if I do I don't know about it and but my way of doing things and and taking my mind off the  
+**[4941.18s] English:** If I do, I don't know about it, and but my way of doing things and taking my mind off the  
 **Translation:** Vocabulary: meditate: 冥想; relaxation: 放松
 
-**[4948.50s] English:** situation I'm in is by singing my head I love music or hearing music and in fact knowing the  
+**[4948.50s] English:** The situation I'm in is by singing, my head I love music, or hearing music, and in fact, knowing the  
 **Translation:** 
 
-**[4957.02s] English:** kind of song I'm singing I know about the length of time that I'm staying on the water as well so  
+**[4957.02s] English:** Kind of song I'm singing, I know about the length of time that I'm staying on the water, as well.  
 **Translation:** 
 
-**[4962.10s] English:** this is how you know so this is my own way people have different ways what kind of music are we  
+**[4962.10s] English:** This is how you know. So, this is my own way; people have different ways. What kind of music are we talking about?  
 **Translation:** 
 
-**[4966.86s] English:** talking about all sorts of music can be classical can be pop music and you know just songs when you  
+**[4966.86s] English:** Talking about all sorts of music, can be classical, can be pop, and just songs when you  
 **Translation:** 
 
-**[4973.04s] English:** really know that you are relaxed and something I experienced  
+**[4973.04s] English:** Really, I know that you are relaxed, and something I experienced.  
 **Translation:** 
 
-**[4978.50s] English:** actually at 20,000 feet which was the greatest experience of my life in those in those terms is  
+**[4978.50s] English:** Actually, at 20,000 feet, which was the greatest experience of my life in those terms, is  
 **Translation:** 
 
-**[4986.06s] English:** when you forget that you have water around you at that point you cannot tell whether you are  
+**[4986.06s] English:** When you forget that you have water around you, at that point you cannot tell whether you are  
 **Translation:** 
 
-**[4992.88s] English:** the water or water is you there is actually no separation anymore and I felt that when I was  
+**[4992.88s] English:** The water—or, rather, there is no separation anymore—and I felt that when I was.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[4999.74s] English:** Training in the swimming pool, I never could have imagined that I would feel that way once on top of.  
 **Translation:** 
 
-**[4999.74s] English:** training in the swimming pool I never could have imagined that I would feel that way once on top of  
+**[5008.50s] English:** The volcano erupted, and it was absolutely amazing. We were talking about how  
 **Translation:** 
 
-**[5008.50s] English:** the volcano and it happened and it was absolutely amazing it was you know we were talking about how  
+**[5014.62s] English:** Life's consciousness permits the universe, at that point in time, on that volcano, that day.  
 **Translation:** 
 
-**[5014.62s] English:** life consciousness permits the universe at that point in time on that volcano that day  
+**[5022.78s] English:** It took me by surprise; I was not expecting it, and everything around me—the lake—was Arctic blue.  
+**Translation:** Vocabulary: arctic: 北极的; consciousness: 意识
+
+**[5030.22s] English:** With all the rays of the sun, you could tell them apart; every single one of them. I was  
 **Translation:** 
 
-**[5022.78s] English:** it took me by surprise I was not expecting it everything around me the lake was Arctic blue  
+**[5037.60s] English:** Surrounded by  
 **Translation:** 
 
-**[5030.22s] English:** with all the ray of the suns you can you could tell them apart every single one of them I was  
+**[5038.50s] English:** Golden Darts  
 **Translation:** 
 
-**[5037.60s] English:** surrounded by  
-**Translation:** 
-
-**[5038.50s] English:** golden darts  
-**Translation:** 
-
-**[5040.00s] English:** And it was the most incredible experience, and I don't know if it's that kind of environment that led me to just, you know, go into whatever state of meditation or whatnot, but all of a sudden, there was no separation anymore between me, the water, the volcano, and if I came with questions, they didn't matter anymore because for that fraction of a second, it seemed that I had all the answers in the universe.  
+**[5040.00s] English:** And it was the most incredible experience. I don't know if it's that kind of environment that led me to just, you know, go into whatever state of meditation or whatnot, but all of a sudden, there was no separation anymore between me, the water, and the volcano. If I came with questions, they didn't matter anymore because for that fraction of a second, it seemed that I had all the answers in the universe.  
 **Translation:** Vocabulary: darts: 飞镖; whatnot: 等等
 
 **[5069.02s] English:** Was it the connectedness with everything?  
 **Translation:** 
 
-**[5071.84s] English:** You can call it that way. I still don't know what it means, you know, literally, but it is that moment where you feel that it doesn't matter. It really doesn't matter anymore. It was an absolute peace, absolute understanding, and it was incredible. It was an absolute awareness.  
-**Translation:** Vocabulary: connectedness: 万物相连感
+**[5071.84s] English:** You can call it that way. I still don't know what it means, literally, but it is that moment where you feel that it doesn't matter. It really doesn't matter anymore. It was an absolute peace, absolute understanding, and it was incredible. It was an absolute awareness.  
+**Translation:** Vocabulary: connectedness: 一切相连的感觉
 
 **[5094.38s] English:** Could you describe it as beautiful?  
 **Translation:** 
@@ -2827,113 +2828,113 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5096.44s] English:** That would go beyond that.  
 **Translation:** 
 
-**[5098.24s] English:** I think that there is clearly in my mind today no words that can express how perfect this was.  
+**[5098.24s] English:** I think that, in my mind today, there are clearly no words that can express how perfect this was.  
 **Translation:** 
 
-**[5107.82s] English:** Does that start to speak to why you love diving? Or is there something special about that place, diving at such elevations and volcanoes?  
+**[5107.82s] English:** Does that start to speak to why you love diving? Or is there something special about that place—diving at such elevations and near volcanoes?  
 **Translation:** Vocabulary: elevations: 高海拔; volcanoes: 火山
 
-**[5116.08s] English:** You know, I started diving pretty much, this is the first thing I did when I was near water. In fact, there is a very fun little incident with my parents, me being on the shore of a lake on vacation.  
+**[5116.08s] English:** You know, I started diving pretty much as soon as I was near water; in fact, there's a very fun little incident with my parents where I was on the shore of a lake on vacation.  
 **Translation:** 
 
-**[5128.24s] English:** I was three years old, maybe, and I had these little lifesavers, you know, on my arms, and my parents were not watching.  
+**[5128.24s] English:** I was three years old, maybe, and I had these little lifesavers on my arms, and my parents weren't watching.  
 **Translation:** 
 
-**[5137.82s] English:** And in my little brain, I still can remember today saying, well, nothing bad can happen to me. I cannot drown if I go underwater. See, that's the logic of a three-year-old.  
+**[5137.82s] English:** And in my little brain, I still can remember today saying, "Well, nothing bad can happen to me. I cannot drown if I go underwater." See, that's the logic of a three-year-old.  
 **Translation:** 
 
 **[5149.92s] English:** Yes. It kind of works. I mean, that's pretty brilliant.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[5153.00s] English:** Yeah, well, you know, so I removed the lifesavers that I had, and I just...  
+**[5153.00s] English:** Yeah, well, you know, so I removed the lifesavers that I had, and I just....  
 **Translation:** 
 
-**[5158.24s] English:** When in the water, my mom said, before I...  
+**[5158.24s] English:** When in the water, my mom said, "Before I...  
 **Translation:** Vocabulary: lifesavers: 救生圈
 
-**[5160.00s] English:** could do anything i was under and it was like a natural thing and for me i felt immediately at  
+**[5160.00s] English:** Could do anything I was under, and it was like a natural thing. For me, I felt immediately at  
 **Translation:** 
 
-**[5167.28s] English:** home and and and you know as little as i was completely and it goes beyond that you know  
+**[5167.28s] English:** Home, and you know, as little as I was, completely, and it goes beyond that, you know.  
 **Translation:** 
 
-**[5174.32s] English:** this sense of connectedness or oneness or whatever i i always felt good and and uh underwater so it  
+**[5174.32s] English:** This sense of connectedness or oneness, or whatever — I always felt good and, uh, underwater so it.  
 **Translation:** 
 
-**[5183.04s] English:** doesn't matter really if it's 20 000 feet that the thing that's matter at that point is that you need  
+**[5183.04s] English:** Doesn't matter, really, if it's 20,000 feet — that thing that matters at that point is that you need  
+**Translation:** Vocabulary: connectedness: 联系感
+
+**[5188.96s] English:** To get there, so you need to bring all the gear for your hiking and trekking equipment—high.  
 **Translation:** 
 
-**[5188.96s] English:** to get there so you need to get with all the gears with your hiking trekking equipment high  
-**Translation:** 
-
-**[5197.36s] English:** mountaineering gears and when you get on top of that you have to remove all that and don a suit  
+**[5197.36s] English:** Mountaineering gear, and when you get on top of that, you have to remove all that and don a suit.  
 **Translation:** Vocabulary: trekking: 徒步旅行
 
-**[5204.48s] English:** is there something uh you can speak to the challenging aspects of that process  
+**[5204.48s] English:** Is there something you can speak to regarding the challenging aspects of that process?  
 **Translation:** 
 
-**[5208.88s] English:** or is it just like this rigorous process that's well designed you have to go through  
-**Translation:** Vocabulary: rigorous: 严格
+**[5208.88s] English:** Or is it just that there's a rigorous, well-designed process that you have to go through?  
+**Translation:** Vocabulary: rigorous: 严格的
 
-**[5213.36s] English:** and you don't think where are you this is where most of the risk is  
+**[5213.36s] English:** And you don't think, where are you? This is where most of the risk is.  
 **Translation:** 
 
-**[5218.80s] English:** because  
+**[5218.80s] English:** Because  
 **Translation:** 
 
-**[5218.96s] English:** because you can be well prepared but for one reason or another you get sick you know and you  
+**[5218.96s] English:** Because you can be well prepared, but for one reason or another, you get sick, you know.  
 **Translation:** 
 
-**[5226.24s] English:** can get sick not only because of a high altitude sickness it can be a number of things or you can  
+**[5226.24s] English:** Can get sick not only because of high-altitude sickness; it can be a number of things, or you can.  
+**Translation:** 
+
+**[5232.48s] English:** Be tired, or you can catch a cold, and then, of course, you have the mountain itself; we had a  
+**Translation:** 
+
+**[5238.48s] English:** Magnitude 7.8 earthquake hitting; one day when we were 50 meters away from the summit, so you  
+**Translation:** 
+
+**[5245.12s] English:** Can't, obviously, plan for that. No, you can't, and that's acts of God.  
+**Translation:** 
+
+**[5248.80s] English:** You know, uh, working with NASA, although I am the director of the study institute, I have been receiving grants.  
+**Translation:** 
+
+**[5256.00s] English:** Are coming from NASA, so I'm a NASA contractor, and every time we go to those environments, we have to  
+**Translation:** 
+
+**[5260.96s] English:** Go through the rigorous process of training with NASA and checking all the boxes for safety, so they  
+**Translation:** Vocabulary: contractor: 承包商; environments: 工作环境
+
+**[5267.36s] English:** Are they training and training and training us? And I have to thank them, because a lot of those trainings...  
+**Translation:** 
+
+**[5273.20s] English:** Are the things that are in your brain when these kinds of things happen what you know how to react?  
+**Translation:** 
+
+**[5278.64s] English:** You are not freaking out.  
+**Translation:** 
+
+**[5280.00s] English:** But in all of the things they are training us for, you have the green risk, the yellow,  
+**Translation:** Vocabulary: freaking: 惊慌
+
+**[5285.64s] English:** Risk, and the red risk.  
+**Translation:** 
+
+**[5287.50s] English:** So, the green risks are basically "don't be stupid" and don't do the kind of thing you  
+**Translation:** 
+
+**[5291.64s] English:** Wouldn't be doing at home, like jumping on rocks that aren't stable; you can tweak.  
+**Translation:** 
+
+**[5297.52s] English:** Your ankle.  
+**Translation:** Vocabulary: tweak: 微调
+
+**[5299.72s] English:** And then you have other risks like altitude sickness; how you prepare for that, how you  
+**Translation:** 
+
+**[5304.74s] English:** Recognize that.  
 **Translation:** Vocabulary: altitude: 海拔
-
-**[5232.48s] English:** be tired or you can catch a cold and then of course you have the mountain itself we had a  
-**Translation:** 
-
-**[5238.48s] English:** magnitude 7.8 earthquake hitting one day when we are 50 meters away from the summit so you  
-**Translation:** 
-
-**[5245.12s] English:** can't obviously plan for that no you can't and that's the acts of god  
-**Translation:** 
-
-**[5248.80s] English:** you know uh working with nasa although i am uh the director of the study institute i uh my grants  
-**Translation:** 
-
-**[5256.00s] English:** are coming from nasa so i'm a nasa contractor and every time we go to those environments we have to  
-**Translation:** 
-
-**[5260.96s] English:** go through the rigorous process of training with nasa and checking all the boxes for safety so they  
-**Translation:** Vocabulary: environments: 工作环境
-
-**[5267.36s] English:** are training and training and training us and i have to thank them because a lot of those trainings  
-**Translation:** 
-
-**[5273.20s] English:** are the things that are in your brain when these kind of things happen you know how to react and  
-**Translation:** 
-
-**[5278.64s] English:** you are not freaking out  
-**Translation:** 
-
-**[5280.00s] English:** But in all of the things they are training us for, you have the green risk, the yellow  
-**Translation:** Vocabulary: freaking: 恐慌
-
-**[5285.64s] English:** risk, and the red risk.  
-**Translation:** 
-
-**[5287.50s] English:** So the green risks are basically the don't be stupid, don't do the kind of thing you  
-**Translation:** 
-
-**[5291.64s] English:** wouldn't be doing at home, like it's jumping on rocks that are not stable, you can tweak  
-**Translation:** 
-
-**[5297.52s] English:** your ankle.  
-**Translation:** 
-
-**[5299.72s] English:** And then you have other risks like altitude sickness, how you prepare for that, how you  
-**Translation:** 
-
-**[5304.74s] English:** recognize that.  
-**Translation:** 
 
 **[5306.34s] English:** These are the yellow risks.  
 **Translation:** 
@@ -2941,22 +2942,22 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5307.44s] English:** And then the red risks.  
 **Translation:** 
 
-**[5308.62s] English:** The red risks are what they call the acts of gods, the kind of thing that they can happen,  
+**[5308.62s] English:** The red risks are what they call "acts of God," the kind of things that can happen.  
 **Translation:** 
 
-**[5314.32s] English:** you know there is nothing you can do about it, and then you accept that when you do that.  
+**[5314.32s] English:** You know, there is nothing you can do about it, and then you accept that when you do that.  
 **Translation:** 
 
-**[5318.52s] English:** So those are volcanic eruptions when you're in this kind of environment, earthquakes,  
+**[5318.52s] English:** So, those are volcanic eruptions when you're in this kind of environment; earthquakes,  
 **Translation:** 
 
-**[5325.76s] English:** and everything that...  
-**Translation:** Vocabulary: eruptions: 火山喷发; volcanic: 火山的
+**[5325.76s] English:** And everything that...  
+**Translation:** Vocabulary: eruptions: 喷发; volcanic: 火山的
 
 **[5326.76s] English:** And avalanches, for instance.  
 **Translation:** 
 
-**[5327.76s] English:** So you're on this giant mountain and it's shaking.  
+**[5327.76s] English:** So, you're on this giant mountain, and it's shaking.  
 **Translation:** Vocabulary: avalanches: 雪崩
 
 **[5331.12s] English:** No, it's not shaking.  
@@ -2974,46 +2975,46 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5340.62s] English:** But we got to 50 meters from the summit, and I have part of my logistics team that is at  
 **Translation:** 
 
-**[5347.46s] English:** the foot of the mountain.  
+**[5347.46s] English:** The foot of the mountain.  
 **Translation:** 
 
-**[5350.14s] English:** And being so close to the summit, we have to go under an overhang of lava.  
+**[5350.14s] English:** And, being so close to the summit, we have to go under an overhang of lava.  
 **Translation:** 
 
 **[5354.90s] English:** So it's just like we are just under this big vault of lava, and it's actually beautiful.  
 **Translation:** Vocabulary: overhang: 岩檐; vault: 拱顶
 
-**[5360.58s] English:** If you want something beautiful, it's the Altiplano seen from 20,000 feet, it's just  
+**[5360.58s] English:** If you want something beautiful, it's the Altiplano seen from 20,000 feet; it's just breathtaking.  
 **Translation:** 
 
-**[5365.32s] English:** absolutely stunning.  
-**Translation:** Vocabulary: altiplano: 高原地带
+**[5365.32s] English:** Absolutely stunning.  
+**Translation:** Vocabulary: altiplano: 高原; breathtaking: 令人惊叹
 
-**[5366.32s] English:** What's the colors?  
+**[5366.32s] English:** What's the color?  
 **Translation:** 
 
 **[5367.32s] English:** What are we looking at?  
 **Translation:** 
 
-**[5368.32s] English:** The colors are that of early earth, which means primordial earth.  
+**[5368.32s] English:** The colors are those of early Earth, which means primordial earth.  
 **Translation:** 
 
 **[5372.96s] English:** It's ochres, yellows, oranges, browns, with a dark blue sky.  
 **Translation:** Vocabulary: ochres: 赭石色; primordial: 原始的
 
-**[5380.64s] English:** And so you are just...  
+**[5380.64s] English:** And so, you are just...  
 **Translation:** 
 
 **[5382.30s] English:** It's a time machine.  
 **Translation:** 
 
-**[5383.40s] English:** You're just out there and you're climbing 42 degree slopes.  
+**[5383.40s] English:** You're just out there, climbing 42-degree slopes.  
 **Translation:** 
 
-**[5387.44s] English:** So all of a sudden, I'm right next behind the guide, and the guide has been with us,  
+**[5387.44s] English:** So, all of a sudden, I'm right behind the guide, and the guide has been with us,  
 **Translation:** 
 
-**[5393.88s] English:** it's family.  
+**[5393.88s] English:** It's family.  
 **Translation:** 
 
 **[5394.88s] English:** We've been together for 10 years, and he's starting to do that.  
@@ -3025,10 +3026,13 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5399.32s] English:** This is incredible.  
 **Translation:** 
 
-**[5400.32s] English:** Thank you very much.  
+**[5400.00s] English:** I don't discuss. When Macario does that, you know, I listen and I ask the team to do the same thing where maybe half a dozen. And then I went to talk to him and say, "What's going on?" He's on the radio. And then he gives me the radio. I'm talking to my logistic chief officer who was at the bottom. And he said, "We're having a tremendous earthquake.  
 **Translation:** 
 
-**[5401.32s] English:** Thank you very much for taking our time to get to know and interact with us.  
+**[5400.32s] English:** Thank you very much.  
+**Translation:** Vocabulary: logistic: 后勤
+
+**[5401.32s] English:** Thank you very much for taking the time to get to know and interact with us.  
 **Translation:** 
 
 **[5402.32s] English:** And I appreciate you for your time.  
@@ -3043,14 +3047,14 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5405.32s] English:** Thanks, everyone, for joining us.  
 **Translation:** 
 
-**[5406.32s] English:** So I'm going to go for our next session.  
+**[5406.32s] English:** So, I'm going to go for our next session.  
 **Translation:** 
 
-**[5407.32s] English:** So anytime you have a question, feel free to send us a message, or feel free to post a  
-**Translation:** Vocabulary: anytime: 任何时间
-
-**[5408.32s] English:** comment, or leave a comment.  
+**[5407.32s] English:** So, anytime you have a question, feel free to send us a message, or feel free to post a  
 **Translation:** 
+
+**[5408.32s] English:** Comment, or leave a comment.  
+**Translation:** Vocabulary: anytime: 随时
 
 **[5409.32s] English:** We'll just eat and relax.  
 **Translation:** 
@@ -3067,7 +3071,7 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5413.32s] English:** I'm not going to talk about it all.  
 **Translation:** 
 
-**[5414.32s] English:** Hopefully, hopefully it's going to be very useful.  
+**[5414.32s] English:** Hopefully, it's going to be very useful.  
 **Translation:** 
 
 **[5415.32s] English:** And we'll see you tomorrow.  
@@ -3088,8 +3092,11 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5420.32s] English:** Take care.  
 **Translation:** 
 
-**[5421.32s] English:** Bye-bye.  
+**[5420.60s] English:** He was saying that, actually, the ground was waving. It was so bad. And he was freaking out because he said everything is avalanching. And I'm very puzzled because we are in a very dangerous part of the volcano, but nothing's happening.  
 **Translation:** 
+
+**[5421.32s] English:** Bye-bye.  
+**Translation:** Vocabulary: avalanching: 滑坡; freaking: 惊慌; puzzled: 困惑
 
 **[5422.32s] English:** Bye.  
 **Translation:** 
@@ -3097,25 +3104,19 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5423.34s] English:** Bye.  
 **Translation:** 
 
-**[5400.00s] English:** I don't discuss. When Macario do that, you know, I listen and I ask the team to do the same thing where maybe half a dozen. And then I went to talk to him and say, what's going on? He's on the radio. And then he gives me the radio. I'm talking to my logistic chief officer who was at the bottom. And he said, we're having a tremendous earthquake.  
+**[5436.62s] English:** I turned around, and then this is when I realized there is dust absolutely everywhere. Everything that I saw two minutes before—it's gone, just disappeared into a wall of dust—but nothing's happening where we are.  
 **Translation:** 
 
-**[5420.60s] English:** He was saying that the, actually the ground was waving. It was so bad. And he was freaking out because he said, everything is avalanching. And I'm very puzzled because we are in a very dangerous part of the volcano. Nothing's happening.  
-**Translation:** Vocabulary: avalanching: 雪崩; freaking: 惊慌; logistic: 后勤
+**[5449.34s] English:** And, uh, our friends down there were freaking out because they were seeing everything avalanche. And especially the side of the mountain we were on was avalanching.  
+**Translation:** Vocabulary: avalanche: 雪崩
 
-**[5436.62s] English:** I turned around and then this is when I realized there is dust absolutely everywhere. Everything that I saw two minutes before it's gone, just disappeared into a wall of dust, but nothing's happening where we are.  
+**[5459.50s] English:** So, they have no visuals.  
 **Translation:** 
 
-**[5449.34s] English:** And, uh, our, our friends down, uh, they were freaking out because they were seeing everything avalanching. And especially the other side of the mountain we were on was avalanching.  
-**Translation:** 
+**[5460.94s] English:** They have no visual. They thought we were caught in the avalanche. So I said, "No, but some—uh—" At that point,  
+**Translation:** Vocabulary: visuals: 视觉
 
-**[5459.50s] English:** So they have no visuals.  
-**Translation:** 
-
-**[5460.94s] English:** They have no visual. They thought that we are caught in the avalanching. So I said, no, but some, uh, so at that point,  
-**Translation:** 
-
-**[5469.60s] English:** So they thought you were screwed.  
+**[5469.60s] English:** So, they thought you were screwed.  
 **Translation:** 
 
 **[5470.82s] English:** Yeah. And I said, okay, so if this is what's happening, then I'm taking everybody to the summit.  
@@ -3124,136 +3125,136 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5478.82s] English:** Yeah.  
 **Translation:** 
 
-**[5479.10s] English:** Because we have a very large crater that will take care of avalanching. We'll be safe. And I'm waiting for the aftershock because this is what you do, uh, you know, uh, when you have earthquakes, so here we go taking everybody in the crater and now you have half a dozen scientists in the crater with the Cradle Lake and, and, uh, this is what, why we came for.  
-**Translation:** Vocabulary: aftershock: 余震; cradle: 摇篮
+**[5479.10s] English:** Because we have a very large crater that will take care of avalanching. We'll be safe. And I'm waiting for the aftershock because this is what you do—when you have earthquakes, so here we go taking everybody in the crater, and now you have half a dozen scientists in the crater with Cradle Lake—and, this is what we came for.  
+**Translation:** Vocabulary: aftershock: 余震; cradle: 摇篮; crater: 火山口
 
-**[5501.58s] English:** So we just had a 7.8 earthquake.  
+**[5501.58s] English:** So, we just had a 7.8 earthquake.  
 **Translation:** 
 
 **[5504.90s] English:** And what do you think they do?  
 **Translation:** 
 
-**[5506.58s] English:** Well, of course they do the science they came to do.  
+**[5506.58s] English:** Well, of course, they do the science they came to do.  
 **Translation:** 
 
-**[5509.10s] English:** So the only thing is that I couldn't because, uh, my radio was only working when I was on the rim of the crater, but I had a little assistant.  
+**[5509.10s] English:** So, the only thing is that I couldn't do it because, uh, my radio was only working when I was on the rim of the crater, but I had a little assistant.  
 **Translation:** 
 
-**[5520.00s] English:** me a young Bolivian teenager had been shadowing me for three weeks so he knew  
+**[5520.00s] English:** Me, a young Bolivian teenager, had been shadowing me for three weeks, so he knew  
 **Translation:** 
 
-**[5527.14s] English:** exactly what to do and he said Natalie don't no problem give me your back I'll  
-**Translation:** Vocabulary: bolivian: 玻利维亚人
+**[5527.14s] English:** Exactly, what to do, and he said, "Natalie, don't worry. No problem, give me your back.  
+**Translation:** Vocabulary: bolivian: 玻利维亚的; natalie: 娜塔莉
 
-**[5530.80s] English:** do the sampling for you so I was monitoring the situation and scared I  
+**[5530.80s] English:** Do the sampling for you, so I was monitoring the situation and scared I.  
 **Translation:** 
 
-**[5538.08s] English:** wasn't at that point and there was another moment my friend downstairs I  
+**[5538.08s] English:** Wasn't at that point, and there was another moment; my friend was downstairs.  
 **Translation:** 
 
-**[5545.34s] English:** could you know at the foot yeah we've known each other as I said we're family  
+**[5545.34s] English:** Could you know at the foot? Yeah, we've known each other as I said; we're family.  
 **Translation:** 
 
-**[5550.74s] English:** this team is family we've known each other I am the godmother as kids so we  
+**[5550.74s] English:** This team is like a family; we've known each other since childhood, and I'm even the godmother to some of them.  
 **Translation:** Vocabulary: godmother: 干妈
 
-**[5554.94s] English:** are close and I could feel for the first time in my life that he actually was  
+**[5554.94s] English:** Are we close, and I could feel for the first time in my life that he actually was.  
 **Translation:** 
 
-**[5563.04s] English:** scared and he was calling me every 30 seconds telling me stuff I say you have  
+**[5563.04s] English:** Scared, and he was calling me every 30 seconds, telling me stuff; I say, "You have...  
 **Translation:** 
 
-**[5568.74s] English:** to stop this now just call me to give me information that is useful for me to  
+**[5568.74s] English:** To stop this now, just call me to give me information that is useful for me to.  
 **Translation:** 
 
-**[5574.20s] English:** make decisions  
+**[5574.20s] English:** Make decisions.  
 **Translation:** 
 
-**[5575.34s] English:** and so I say okay what's going on all right it tells me you know there is  
+**[5575.34s] English:** And so I say, "Okay, what's going on? All right, it tells me that there is...  
 **Translation:** 
 
-**[5582.12s] English:** still avalanching etc and then a few minutes later he calls me say I think  
+**[5582.12s] English:** Still, it was still avalanching, etc., and then a few minutes later, he called me and said, "I think  
 **Translation:** Vocabulary: avalanching: 雪崩
 
-**[5586.62s] English:** that last car is erupting so now I have to tell you we are on a volcano the next  
+**[5586.62s] English:** That last car is erupting, so now I have to tell you we are on a volcano. The next...  
 **Translation:** 
 
-**[5591.78s] English:** volcano we share a slope with it is a low little lower but that's the most  
+**[5591.78s] English:** Volcano we share a slope with; it is a bit lower, but that's the most.  
 **Translation:** Vocabulary: erupting: 喷发
 
-**[5596.52s] English:** temperamental volcano of the entire chain and this one as an history of  
+**[5596.52s] English:** Temperamental volcano of the entire chain, and this one has a history of.  
 **Translation:** 
 
-**[5602.52s] English:** eruption and then my friend is telling me that  
-**Translation:** Vocabulary: eruption: 喷发; temperamental: 性情暴躁的
+**[5602.52s] English:** Eruption, and then my friend is telling me that.  
+**Translation:** Vocabulary: eruption: 喷发; temperamental: 性情不定的
 
-**[5605.10s] English:** the volcano is erupting and then my friend is telling me that the volcano is  
+**[5605.10s] English:** The volcano is erupting, and then my friend tells me that the volcano is  
 **Translation:** 
 
-**[5605.32s] English:** the volcano seems to be starting to erupt if that volcano goes off we have  
+**[5605.32s] English:** The volcano seems to be starting to erupt. If that volcano goes off, we have...  
 **Translation:** 
 
-**[5610.72s] English:** nowhere to go that got my attention so if you say scared I would say that I got  
+**[5610.72s] English:** Nowhere to go that got my attention, so if you say scared, I would say that I got.  
 **Translation:** 
 
-**[5618.38s] English:** the realization that what that meant I went cold for like a fraction of a  
-**Translation:** Vocabulary: realization: 领悟
+**[5618.38s] English:** The realization that what that meant: I went cold for like a fraction of a.  
+**Translation:** Vocabulary: realization: 认识
 
-**[5622.24s] English:** second but that meant that just my adrenaline started to kick in and it was  
+**[5622.24s] English:** Second, but that meant that just my adrenaline started to kick in, and it was  
 **Translation:** 
 
-**[5627.46s] English:** a very very strange experience because now you have tunnel vision it's about  
+**[5627.46s] English:** A very, very strange experience because now you have tunnel vision; it's about  
+**Translation:** Vocabulary: adrenaline: 肾上腺素; tunnel: 隧道
+
+**[5631.44s] English:** Survival, and I say, "Okay, now you are going to tell me what I need to.  
 **Translation:** 
 
-**[5631.44s] English:** survival and I say okay now you are going to tell me what I need to  
+**[5635.32s] English:** Know, you know, tell me what do you see. Say, "I see smoke.  
 **Translation:** 
 
-**[5635.32s] English:** know you know tell me what do you see say I see smoke  
+**[5640.00s] English:** I said, "What kind of smoke?  
 **Translation:** 
 
-**[5640.00s] English:** I said, what kind of smoke?  
+**[5642.06s] English:** He said, "It's white.  
 **Translation:** 
 
-**[5642.06s] English:** He said, it's white.  
+**[5643.50s] English:** I said, "No big deal; that's water vapor.  
 **Translation:** 
 
-**[5643.50s] English:** I said, no big deal, that's water vapor.  
-**Translation:** 
-
-**[5646.68s] English:** Okay, where it's going?  
+**[5646.68s] English:** Okay, where is it going?  
 **Translation:** Vocabulary: vapor: 水蒸气
 
 **[5648.64s] English:** It's going to Argentina.  
 **Translation:** 
 
 **[5649.72s] English:** That was the opposite direction of where we are.  
+**Translation:** Vocabulary: argentina: 阿根廷
+
+**[5651.94s] English:** I said, "Okay, I'm staying where I am.  
 **Translation:** 
 
-**[5651.94s] English:** I said, okay, I'm staying where I am  
-**Translation:** 
-
-**[5654.20s] English:** because right now there is no danger.  
+**[5654.20s] English:** Because right now, there is no danger.  
 **Translation:** 
 
 **[5657.54s] English:** And there was still the issue of the aftershock.  
 **Translation:** 
 
-**[5660.62s] English:** I didn't want to have the team caught in the gully,  
+**[5660.62s] English:** I didn't want the team caught in the gully.  
 **Translation:** Vocabulary: aftershock: 余震; gully: 干沟
 
-**[5663.60s] English:** in the central gully of the volcano  
+**[5663.60s] English:** In the central gully of the volcano  
 **Translation:** 
 
-**[5665.72s] English:** with an avalanche coming at us.  
+**[5665.72s] English:** With an avalanche coming at us.  
 **Translation:** Vocabulary: avalanche: 雪崩
 
-**[5667.96s] English:** So we stayed there.  
+**[5667.96s] English:** So, we stayed there.  
 **Translation:** 
 
 **[5669.56s] English:** And he called me after that and said,  
 **Translation:** 
 
-**[5671.24s] English:** well, you know, it's still going to Argentina.  
+**[5671.24s] English:** Well, you know, it's still going to Argentina.  
 **Translation:** 
 
 **[5673.16s] English:** Fine, okay.  
@@ -3268,7 +3269,7 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5682.04s] English:** I say, okay, what's going on?  
 **Translation:** 
 
-**[5683.80s] English:** I say, well, the cloud is a little yellow.  
+**[5683.80s] English:** I say, "Well, the cloud is a little yellow.  
 **Translation:** 
 
 **[5688.94s] English:** And I was thinking to myself, yeah.  
@@ -3280,14 +3281,14 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5695.54s] English:** Sulfur.  
 **Translation:** 
 
-**[5696.66s] English:** And then when you have sulfur mixed  
+**[5696.66s] English:** And then, when you have sulfur mixed,...  
 **Translation:** 
 
-**[5699.56s] English:** with the water vapor or the water in your lungs,  
+**[5699.56s] English:** With the water vapor or the water in your lungs,  
 **Translation:** 
 
-**[5703.86s] English:** this turns into sulfuric acid.  
-**Translation:** 
+**[5703.86s] English:** This turns into sulfuric acid.  
+**Translation:** Vocabulary: sulfuric: 硫酸的
 
 **[5706.38s] English:** Then you're really screwed.  
 **Translation:** 
@@ -3301,7 +3302,7 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5711.88s] English:** Where is the cloud going?  
 **Translation:** 
 
-**[5714.00s] English:** He said, the wing is shifting.  
+**[5714.00s] English:** He said, "The wing is shifting.  
 **Translation:** 
 
 **[5715.74s] English:** It's coming your direction.  
@@ -3310,28 +3311,28 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5717.18s] English:** Oh, no.  
 **Translation:** 
 
-**[5718.10s] English:** So yeah, that was a day like that, you know?  
+**[5718.10s] English:** So, yeah, that was a day like that, you know?  
 **Translation:** 
 
-**[5720.20s] English:** And I am talking to him on the radio and I'm turning around.  
+**[5720.20s] English:** And I am talking to him on the radio, and I'm turning around.  
 **Translation:** 
 
-**[5724.26s] English:** And as I turned around, I see the cloud starting to pop  
+**[5724.26s] English:** And as I turned around, I saw the cloud starting to pop.  
 **Translation:** 
 
-**[5727.60s] English:** on the opposite side of the rim.  
+**[5727.60s] English:** On the opposite side of the rim.  
 **Translation:** 
 
-**[5729.56s] English:** So at that time, we had no choice anymore,  
+**[5729.56s] English:** So, at that time, we had no choice anymore.  
 **Translation:** 
 
-**[5734.06s] English:** because now you have to figure out  
+**[5734.06s] English:** Because now you have to figure it out.  
 **Translation:** 
 
-**[5735.80s] English:** what's going to kill you first.  
+**[5735.80s] English:** What's going to kill you first?  
 **Translation:** 
 
-**[5737.78s] English:** And so there was the risk or the potential of an avalanche.  
+**[5737.78s] English:** And so, there was the risk or the potential for an avalanche.  
 **Translation:** 
 
 **[5743.58s] English:** But at least you can see the rocks.  
@@ -3340,302 +3341,302 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[5746.38s] English:** The gas is going to kill you before you can see it.  
 **Translation:** 
 
-**[5749.62s] English:** So I called everybody back.  
+**[5749.62s] English:** So, I called everybody back.  
 **Translation:** 
 
 **[5751.26s] English:** We gather our stuff.  
 **Translation:** 
 
-**[5753.78s] English:** I didn't give too much detail,  
+**[5753.78s] English:** I didn't give too much detail.  
 **Translation:** 
 
-**[5755.36s] English:** but I say it's time to go downhill and fast.  
+**[5755.36s] English:** But I say it's time to go downhill, and fast.  
 **Translation:** 
 
 **[5759.56s] English:** So,  
 **Translation:** Vocabulary: downhill: 下滑
 
-**[5760.00s] English:** which we did we stopped only when we were at mid camp and then at that point  
+**[5760.00s] English:** Which we did; we stopped only when we reached mid-camp, and then at that point,  
 **Translation:** 
 
-**[5766.30s] English:** we saw the cloud just completely covering the summit where we were so we  
+**[5766.30s] English:** We saw the cloud just completely covering the summit, where we were, so  
 **Translation:** 
 
-**[5770.50s] English:** did well to bail out but that was 500 meter 500 meter higher than we were so  
+**[5770.50s] English:** Did well to bail out, but that was 500 meters higher than we were so.  
 **Translation:** 
 
-**[5776.88s] English:** we are safe I was just making sure that you would not go down the slope where we  
+**[5776.88s] English:** We are safe. I was just making sure that you wouldn't go down the slope where we  
 **Translation:** 
 
-**[5780.74s] English:** were we are safe so we stayed and you know just rested for a little while and  
+**[5780.74s] English:** We were safe, so we stayed and you know, just rested for a little while and...  
 **Translation:** 
 
-**[5785.62s] English:** after that we descended and it was all on adrenaline I can tell you what I had  
-**Translation:** Vocabulary: adrenaline: 肾上腺素; descended: 下降
+**[5785.62s] English:** After that, we descended, and it was all on adrenaline. I can tell you what I had.  
+**Translation:** Vocabulary: adrenaline: 肾上腺素; descended: 下降; rested: 休息
 
-**[5790.78s] English:** to on my crew with headaches part of one of them was because of the altitude we  
+**[5790.78s] English:** To be honest, on my crew with headaches, part of it was because of the altitude we were at.  
 **Translation:** 
 
-**[5795.34s] English:** climbed very fast the other one was because of the cloud she was the closest  
+**[5795.34s] English:** Climbed very fast. The other one, because of the cloud, was the closest.  
 **Translation:** Vocabulary: altitude: 海拔高度
 
-**[5799.42s] English:** to the cloud when it happened so we descended fast that was close and it's  
+**[5799.42s] English:** To the cloud when it happened, so we descended fast. That was close, and it's  
 **Translation:** 
 
-**[5806.80s] English:** interesting how the human body and mind works because I know that from the  
+**[5806.80s] English:** Interesting how the human body and mind work, because I know that from the  
 **Translation:** 
 
-**[5810.90s] English:** moment my friend told me that the volcano seemed to be erupting I was  
+**[5810.90s] English:** Moment, my friend told me that the volcano seemed to be erupting, I was  
 **Translation:** 
 
-**[5815.38s] English:** excited I was excited I was excited I was excited I was excited I was excited  
+**[5815.38s] English:** I was excited. I was excited. I was excited. I was excited. I was excited.  
 **Translation:** Vocabulary: erupting: 喷发
 
-**[5815.60s] English:** going on adrenaline but when we got close to them and I saw him we're  
+**[5815.60s] English:** Going on adrenaline, but when we got close to them and I saw him, we're  
 **Translation:** 
 
-**[5822.26s] English:** getting close to the cars I saw him come in towards me and the slope all sudden  
+**[5822.26s] English:** Getting close to the cars, I saw him come in toward me and the slope all sudden.  
 **Translation:** 
 
-**[5826.94s] English:** all the adrenaline went away I was a mess I had to find the first rock and  
+**[5826.94s] English:** All the adrenaline went away. I was a mess. I had to find the first rock and  
 **Translation:** 
 
-**[5833.18s] English:** sit down yeah it was gone I mean fascinating so you just basically  
+**[5833.18s] English:** Sit down, yeah, it was gone. I mean, fascinating! So, you just basically...  
 **Translation:** 
 
-**[5837.86s] English:** physically mentally collapsed once you saw so much nothing left of me I got in  
+**[5837.86s] English:** Physically and mentally, I collapsed once you saw so much, nothing left of me. I got in.  
 **Translation:** 
 
-**[5844.12s] English:** the car and  
-**Translation:** Vocabulary: collapsed: 身心俱疲
+**[5844.12s] English:** The car and  
+**Translation:** Vocabulary: collapsed: 崩溃
 
-**[5845.36s] English:** I felt in the cars we were heading back towards a camp I could have passed out I  
+**[5845.36s] English:** I felt so tired that in the cars, we were heading back towards a camp, I could have passed out.  
 **Translation:** 
 
-**[5850.16s] English:** really fought back and I'm not the kind of passing out really you know easy but  
+**[5850.16s] English:** Really, I fought back, and I'm not the kind to pass out easily, you know.  
 **Translation:** 
 
-**[5855.32s] English:** there was nothing left I had no energy no nothing it's fabulous how you react  
+**[5855.32s] English:** There was nothing left; I had no energy, no nothing. It's fabulous how you react.  
 **Translation:** 
 
-**[5862.58s] English:** and how this is embedded in your brain from and of evolution of reaction to a  
-**Translation:** Vocabulary: embedded: 根深蒂固
+**[5862.58s] English:** And how this is embedded in your brain from the evolution of reactions to a  
+**Translation:** Vocabulary: embedded: 根深蒂固; fabulous: 棒极了; reactions: 反应
 
-**[5871.46s] English:** dangerous situation basically the drawback is that you have to be able to  
+**[5871.46s] English:** Dangerous situation: basically, the drawback is that you have to be able to  
 **Translation:** 
 
-**[5875.12s] English:** the drawback is that you have to be able to the drawback is that you have to be able to  
+**[5875.12s] English:** The drawback is that you have to be able to.  
 **Translation:** Vocabulary: drawback: 缺点
 
-**[5875.34s] English:** drive to survive yeah something like that you just told us one heck of a  
+**[5875.34s] English:** Drive to survive, yeah, something like that. You just told us one heck of a  
 **Translation:** 
 
-**[5880.14s] English:** drive to survive yeah something like that you just told us one heck of a  
+**[5880.00s] English:** Story, and as you said, such a story often comes along with many of the diving expeditions that you do, but  
+**Translation:** Vocabulary: expeditions: 探险
+
+**[5880.14s] English:** Drive to survive, yeah, something like that. You just told us one heck of a  
 **Translation:** 
 
-**[5880.00s] English:** story and as you said such story comes along with many of the diving expeditions that you do but  
+**[5888.00s] English:** On the science side, what is that world that simulates and travels back in time into the  
+**Translation:** Vocabulary: simulates: 模拟
+
+**[5895.04s] English:** Martian landscape: What does the science reveal? So, the science reveals that life is resilient.  
 **Translation:** 
 
-**[5888.00s] English:** on the science side what is that world that simulates that travels back in time into the  
-**Translation:** Vocabulary: expeditions: 探险; simulates: 模拟
-
-**[5895.04s] English:** martian landscape what does the science reveal so the science reveals that life is resilient  
-**Translation:** 
-
-**[5904.00s] English:** when i started that project i told my husband i said this is going to be very fast we are going  
+**[5904.00s] English:** When I started that project, I told my husband, "This is going to be very fast; we are going...  
 **Translation:** Vocabulary: martian: 火星的; resilient: 有韧性的
 
-**[5908.64s] English:** in such nasty environment that we're not going to find anything and you know we'll back home  
+**[5908.64s] English:** In such a nasty environment, we're not going to find anything, and you know, we'll just go back home.  
 **Translation:** 
 
-**[5914.32s] English:** uh fairly soon so 20 years later we are still studying those environments that was your gut  
+**[5914.32s] English:** Uh, fairly soon, so 20 years later, we are still studying those environments—that was your gut.  
 **Translation:** Vocabulary: environments: 环境
 
-**[5920.00s] English:** feeling like nothing not much can possibly survive well the the uv environment is so nasty  
+**[5920.00s] English:** Feeling like nothing; not much can possibly survive in the UV environment—it's so nasty.  
 **Translation:** 
 
-**[5926.08s] English:** but there you find the same microorganism that made the very first fossils on earth  
-**Translation:** Vocabulary: microorganism: 微生物
+**[5926.08s] English:** But there, you find the same microorganism that made the very first fossils on Earth.  
+**Translation:** Vocabulary: fossils: 古代生物遗迹; microorganism: 微生物
 
-**[5934.00s] English:** 3.5 billion years ago and they keep surviving they develop  
+**[5934.00s] English:** 3.5 billion years ago, and they keep surviving, developing.  
 **Translation:** 
 
-**[5938.64s] English:** as they grow and they keep Emerging and so on and so forth and so on in the near future  
+**[5938.64s] English:** As they grow and continue to emerge, and so on in the near future.  
 **Translation:** 
 
-**[5944.72s] English:** so you learn about them in a very short time you learn about sweet but then you learn about  
+**[5944.72s] English:** So, you learn about them in a very short time. You learn about sweet, but then you learn about  
 **Translation:** 
 
-**[5951.92s] English:** an adaptation uh swiss or mini life if you prefer and so you learn about that you learn about  
-**Translation:** Vocabulary: adaptation: 适应方式; swiss: 瑞士
+**[5951.92s] English:** An adaptation, Swiss or mini-life, if you prefer, and so you learn about that—you learn about  
+**Translation:** Vocabulary: adaptation: 适应; swiss: 瑞士的
 
-**[5960.72s] English:** what they are how they adapt through times and through environmental changes which is really  
+**[5960.72s] English:** What they are, how they adapt through time and through environmental changes, which is really  
 **Translation:** 
 
-**[5966.72s] English:** important  
+**[5966.72s] English:** Important.  
 **Translation:** 
 
-**[5968.64s] English:** but I would say that to me and this is a realization interestingly enough that  
+**[5968.64s] English:** But I would say that, to me, and this is an interesting realization:  
 **Translation:** 
 
-**[5974.34s] English:** came three years into the project I really woke up literally one morning  
-**Translation:** Vocabulary: realization: 觉悟
+**[5974.34s] English:** Came three years into the project, I really woke up literally one morning.  
+**Translation:** Vocabulary: realization: 领悟
 
-**[5981.34s] English:** saying you know we have been coming here for three years now try and understand  
+**[5981.34s] English:** Saying, "You know, we have been coming here for three years now; try and understand.  
 **Translation:** 
 
-**[5987.18s] English:** how to search for life on Mars but what this place is showing us is what's  
+**[5987.18s] English:** How to search for life on Mars, but what this place is showing us is what's  
 **Translation:** 
 
-**[5992.88s] English:** happening right here right now on our own planet and by exploring those  
+**[5992.88s] English:** Happening right here, right now, on our own planet, and by exploring those.  
 **Translation:** 
 
-**[5998.14s] English:** extreme environments we are also  
+**[5998.14s] English:** Extreme environments, we are also  
+**Translation:** Vocabulary: environments: 环境
+
+**[6000.00s] English:** Reaching to places not too many people go, and so we are learning more about our  
 **Translation:** 
 
-**[6000.00s] English:** reaching to places not too many people go and so we are learning more about our  
-**Translation:** 
-
-**[6004.84s] English:** own biospheres and the diversity of our own life here on earth so these are the  
+**[6004.84s] English:** Own biospheres and the diversity of our own life here on Earth, so these are the  
 **Translation:** Vocabulary: biospheres: 生物圈
 
-**[6011.94s] English:** two main thing you know that I would say what kind of life survives up there on  
+**[6011.94s] English:** Two main things, you know, that I would say: what kind of life survives up there?  
 **Translation:** 
 
-**[6018.54s] English:** top of those volcanoes it's about bacteria you know mostly is there  
+**[6018.54s] English:** At the top of those volcanoes, it's mostly about bacteria, you know.  
 **Translation:** Vocabulary: bacteria: 细菌; volcanoes: 火山
 
-**[6022.98s] English:** something specific about that bacteria that's able to be so rugged yes they  
+**[6022.98s] English:** Something specific about that bacteria that's able to be so rugged, yes?  
 **Translation:** 
 
-**[6028.96s] English:** have adapted to very high UV radiation and it's not only because they are at  
-**Translation:** Vocabulary: rugged: 坚固耐久
+**[6028.96s] English:** Have adapted to very high UV radiation, and it's not only because they are at  
+**Translation:** Vocabulary: rugged: 坚韧的
 
-**[6033.56s] English:** high altitude it's because early earth didn't have an ozone layer so when those  
+**[6033.56s] English:** High altitude, it's because early Earth didn't have an ozone layer, so when those  
 **Translation:** 
 
-**[6040.18s] English:** the ancestors of those bacteria originated they have to survive a world  
-**Translation:** Vocabulary: altitude: 高海拔; originated: 起源
+**[6040.18s] English:** The ancestors of those bacteria had to survive in a world.  
+**Translation:** Vocabulary: altitude: 海拔
 
-**[6046.96s] English:** where you had lots of short UV coming down at the surface and also lots of  
+**[6046.96s] English:** Where you had lots of short UV coming down at the surface, and also lots of  
 **Translation:** 
 
-**[6052.54s] English:** hydrothermal environment you know volcanoes and hot water lots of salt and  
+**[6052.54s] English:** Hydrothermal environments, you know, with volcanoes and hot water, lots of salt, and  
 **Translation:** Vocabulary: hydrothermal: 地热的
 
-**[6057.10s] English:** you see all these tools  
+**[6057.10s] English:** You see, all these tools.  
 **Translation:** 
 
-**[6058.96s] English:** still embedded in those microorganism today four billion years later it's just  
-**Translation:** Vocabulary: embedded: 植入; microorganism: 微生物
+**[6058.96s] English:** Still embedded in those microorganisms today, four billion years later, it's just.  
+**Translation:** Vocabulary: embedded: 植入; microorganisms: 微生物
 
-**[6066.40s] English:** amazing and depending on the environment they are going to switch some of these  
+**[6066.40s] English:** Amazing, and depending on the environment, they are going to switch some of these.  
 **Translation:** 
 
-**[6072.20s] English:** defenses adaptation on or off the UV situation there is so nasty that here  
+**[6072.20s] English:** Defenses, adaptation: On or off the UV? Situation, there is something so nasty that here.  
+**Translation:** Vocabulary: adaptation: 适应性
+
+**[6082.90s] English:** You have bacteria like that. I know; bacteria, you find them everywhere, it's  
 **Translation:** 
 
-**[6082.90s] English:** you have bacterias like that I know bacteria you find them everywhere it's  
+**[6086.90s] English:** There, it's really something you find all over the place.  
 **Translation:** 
 
-**[6086.90s] English:** there it's really something you find all over the place  
-**Translation:** Vocabulary: bacterias: 细菌
-
-**[6088.96s] English:** but if you find them here in California they will turn their protection against  
+**[6088.96s] English:** But if you find them here in California, they will turn their protection against.  
 **Translation:** 
 
-**[6095.72s] English:** UV during the day in summer and they will switch it off at the end of the day  
-**Translation:** Vocabulary: california: 加利福尼亚
+**[6095.72s] English:** UV during the day in summer, and they will switch it off at the end of the day.  
+**Translation:** Vocabulary: california: 加利福尼亚州
 
-**[6101.52s] English:** there in the Andes it's so nasty that that thing stays on all the time but if  
+**[6101.52s] English:** There, in the Andes, it's so nasty that that thing stays on all the time, but if  
 **Translation:** 
 
-**[6107.86s] English:** you take samples and bring them back here and start to culture them like we  
+**[6107.86s] English:** You take samples, and bring them back here and start to culture them, like we  
 **Translation:** 
 
-**[6115.04s] English:** did on top of a building leaving them you know  
+**[6115.04s] English:** Did they do it on top of a building, leaving them you know?  
 **Translation:** 
 
-**[6118.44s] English:** you will see the second  
+**[6118.44s] English:** You will see the second.  
 **Translation:** 
 
-**[6120.00s] English:** generation of this organism they are starting to switch on and off again so  
+**[6120.00s] English:** Generation of this organism, they are starting to switch on and off again, so  
 **Translation:** 
 
-**[6126.54s] English:** they are extremely adaptable extremely rugged and that's why they are still  
-**Translation:** Vocabulary: adaptable: 适应性强
+**[6126.54s] English:** They are extremely adaptable and extremely rugged, and that's why they are still.  
+**Translation:** Vocabulary: adaptable: 适应性强; organism: 有机体; rugged: 坚固的
 
-**[6132.26s] English:** here and probably that's why we're here because life founds ways so is there  
+**[6132.26s] English:** Here, and probably that's why we're here because life finds ways. So, is there?  
 **Translation:** 
 
-**[6138.78s] English:** some degree to which the harshness of the conditions enables the flourishing  
+**[6138.78s] English:** Some degree to which the harshness of the conditions enables the flourishing.  
 **Translation:** Vocabulary: flourishing: 繁荣; harshness: 严酷
 
-**[6145.86s] English:** of life versus shuts it down well it will shut down those that cannot survive  
+**[6145.86s] English:** Of life versus shuts it down. Well, it will shut down those that cannot survive.  
 **Translation:** 
 
-**[6152.86s] English:** obviously you know this is a statement that's kept an obvious right there but  
+**[6152.86s] English:** Obviously, you know, this is a statement that's kept an obvious right there, but...  
 **Translation:** 
 
-**[6156.22s] English:** it's also the survival of the fittest and this is what evolution is right so  
+**[6156.22s] English:** It's also the survival of the fittest, and this is what evolution is, right? So,  
 **Translation:** 
 
-**[6164.06s] English:** they are here because they were the most adaptable and so evolution is going to  
+**[6164.06s] English:** They are here because they were the most adaptable, and so evolution is going to.  
+**Translation:** Vocabulary: fittest: 最适应的
+
+**[6173.02s] English:** Show the path of the  
 **Translation:** 
 
-**[6173.02s] English:** show the path of the  
+**[6175.60s] English:** Future  
 **Translation:** 
 
-**[6175.60s] English:** future  
+**[6175.84s] English:** Dust the one that cannot resist; they might have a good time for a little while.  
 **Translation:** 
 
-**[6175.84s] English:** dust the one that cannot resist they might have a good time for a little while  
+**[6180.94s] English:** But then, you know, we've seen this at much different scales and with complex  
 **Translation:** 
 
-**[6180.94s] English:** but then you know we've seen this at much different scale and with complex  
-**Translation:** Vocabulary: cannot: 不能
-
-**[6187.60s] English:** life not so long ago a hundred thousand years ago Neanderthal was side-by-side  
+**[6187.60s] English:** Life, not so long ago—about a hundred thousand years ago—Neanderthals were side-by-side.  
 **Translation:** 
 
-**[6194.00s] English:** by Homo sapiens but Neanderthal was completely adapted to a cold earth to a  
-**Translation:** Vocabulary: neanderthal: 尼安德特人; sapiens: 智人
-
-**[6200.28s] English:** glacial earth of the end of the Pleistocene and when conditions change  
+**[6194.00s] English:** By Homo sapiens, but Neanderthal was completely adapted to a cold Earth.  
 **Translation:** 
 
-**[6205.82s] English:** he couldn't last.  
+**[6200.28s] English:** Glacial coverage at the end of the Pleistocene, and when conditions changed.  
+**Translation:** 
+
+**[6205.82s] English:** He couldn't last.  
 **Translation:** Vocabulary: glacial: 冰川的; pleistocene: 更新世的
 
-**[6205.96s] English:** I mean there's still some mysteries around that right like exactly what were the harshness of the conditions I still really suspicious what did Homo sapiens do?  
+**[6205.96s] English:** I mean, there are still some mysteries around that, right—like exactly what were the harsh conditions? I'm still really suspicious about what did Homo sapiens do?  
 **Translation:** 
 
 **[6218.88s] English:** I really want to know.  
+**Translation:** Vocabulary: sapiens: 智人; suspicious: 怀疑
+
+**[6222.66s] English:** Shitty stuff happened to me. They bred together, they fought to get each other—what humans do—you had to expect that. But the thing is, Neanderthal was completely adapted for tomorrow.  
 **Translation:** 
 
-**[6222.66s] English:** Shitty stuff happened to met they bred together they fought to get each other what humans do you had to expect that but the thing is that Neanderthal was completely adapted for tomorrow.  
-**Translation:** 
+**[6230.44s] English:** You had to expect that, but the thing is that Neanderthal was completely adapted for tomorrow.  
+**Translation:** Vocabulary: neanderthal: 穴居人; shitty: 糟糕的
 
-**[6230.44s] English:** you had to expect that but the thing is that Neanderthal was completely adapted for tomorrow.  
-**Translation:** Vocabulary: shitty: 糟糕的
-
-**[6235.68s] English:** for a very long time to live at the edge of those glaciers.  
+**[6235.68s] English:** For a very long time, they lived at the edge of those glaciers.  
 **Translation:** 
 
 **[6240.00s] English:** They were probably in a weakened situation when Homo sapiens came and started to spread.  
 **Translation:** Vocabulary: glaciers: 冰川; weakened: 虚弱
 
-**[6249.04s] English:** So basically, this is what life does.  
+**[6249.04s] English:** So, basically, this is what life does.  
 **Translation:** 
 
-**[6253.60s] English:** It adapts, and if it cannot adapt anymore, it disappears and something else takes over.  
+**[6253.60s] English:** It adapts, and if it cannot adapt anymore, it disappears, and something else takes over.  
+**Translation:** Vocabulary: adapts: 适应; cannot: 不能
+
+**[6258.36s] English:** You hold the women's world record for diving at altitudes—both scuba and freediving.  
 **Translation:** 
 
-**[6258.36s] English:** You hold the women's world record for diving at altitudes, both scuba and freediving.  
-**Translation:** 
-
-**[6264.74s] English:** So I have to ask, can you describe the details of those records?  
-**Translation:** Vocabulary: altitudes: 高海拔; freediving: 自由潜水
+**[6264.74s] English:** So, I have to ask: Can you describe the details of those records?  
+**Translation:** Vocabulary: altitudes: 高度; freediving: 自由潜水
 
 **[6268.56s] English:** I never looked.  
 **Translation:** 
@@ -3652,16 +3653,16 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6278.60s] English:** We did that as part of our expedition, our scientific expedition.  
 **Translation:** 
 
-**[6281.96s] English:** So it's basically sport in the name of science versus sport in the name of...  
-**Translation:** Vocabulary: expedition: 考察旅行
+**[6281.96s] English:** So, it's basically sports in the name of science versus sports in the name of....  
+**Translation:** Vocabulary: expedition: 考察队
 
-**[6285.32s] English:** No, it's science in the name of science, and it's just a very physical thing that you have  
+**[6285.32s] English:** No, it's science in the name of science, and it's just a very physical thing that you have.  
 **Translation:** 
 
-**[6290.24s] English:** to do.  
+**[6290.24s] English:** To do.  
 **Translation:** 
 
-**[6291.24s] English:** So we trained ourselves like athletes.  
+**[6291.24s] English:** So, we trained ourselves like athletes.  
 **Translation:** 
 
 **[6292.80s] English:** Yeah.  
@@ -3679,16 +3680,16 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6298.54s] English:** Yeah.  
 **Translation:** 
 
-**[6299.54s] English:** For a very long time with freediving.  
+**[6299.54s] English:** For a very long time, with freediving.  
 **Translation:** 
 
 **[6300.54s] English:** What are we talking about?  
 **Translation:** 
 
-**[6302.30s] English:** Do you think in terms of time, is there layers where you know through training you're in  
+**[6302.30s] English:** Do you think in terms of time? Is there any layer where you know, through training, you're in?  
 **Translation:** 
 
-**[6307.92s] English:** a good place?  
+**[6307.92s] English:** Is it a good place?  
 **Translation:** 
 
 **[6308.92s] English:** I'm sure you take time off and you get rusty, right?  
@@ -3697,19 +3698,19 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6311.72s] English:** Yes.  
 **Translation:** 
 
-**[6312.72s] English:** And I have not been diving in a while, so probably I need to go back to the drawing  
+**[6312.72s] English:** And I haven't been diving in a while, so probably I need to go back to the drawing board.  
 **Translation:** 
 
-**[6317.82s] English:** board at the bottom of the swimming pool.  
+**[6317.82s] English:** Board at the bottom of the swimming pool.  
 **Translation:** 
 
-**[6320.58s] English:** But having training from the past, I think it will pick up much more faster then.  
+**[6320.58s] English:** But, having training in the past, I think it will pick up much faster then.  
 **Translation:** 
 
 **[6325.48s] English:** Yes.  
 **Translation:** 
 
-**[6326.48s] English:** Basically, I would never at those altitudes.  
+**[6326.48s] English:** Basically, I would never fly at those altitudes.  
 **Translation:** 
 
 **[6328.48s] English:** I would never go over three minutes.  
@@ -3718,19 +3719,19 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6331.50s] English:** That would be suicidal.  
 **Translation:** 
 
-**[6332.50s] English:** So the altitude is much tougher than the pool back at ground level?  
-**Translation:** Vocabulary: altitude: 高海拔; suicidal: 自杀性
+**[6332.50s] English:** So, the altitude is much tougher than the pool back at ground level?  
+**Translation:** Vocabulary: altitude: 高海拔; suicidal: 自杀性的; tougher: 更艰难
 
-**[6337.36s] English:** It is, but it's not...  
+**[6337.36s] English:** It is, but it's not....  
 **Translation:** 
 
-**[6339.72s] English:** Oh, it's because when you come up and you have to get the oxygen.  
+**[6339.72s] English:** Oh, it's because when you come up, you have to get the oxygen.  
 **Translation:** 
 
 **[6341.98s] English:** Yes.  
 **Translation:** 
 
-**[6342.98s] English:** That's not the going in the water.  
+**[6342.98s] English:** That's not going in the water.  
 **Translation:** 
 
 **[6343.98s] English:** When I'm underwater, I'm fine.  
@@ -3748,157 +3749,157 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6357.48s] English:** Yeah.  
 **Translation:** 
 
-**[6358.48s] English:** So, do you...  
+**[6358.48s] English:** So, do you?  
 **Translation:** 
 
-**[6360.00s] English:** you think there's been life on Mars do you think there is life on Mars right so  
+**[6360.00s] English:** You think there's been life on Mars? Do you think there is life on Mars, right? So,  
 **Translation:** 
 
-**[6365.44s] English:** when you're looking at the environment of Mars early on it's fairly similar to  
+**[6365.44s] English:** When you're looking at the environment of Mars, early on it's fairly similar to  
 **Translation:** 
 
-**[6370.46s] English:** that of early Earth never was exactly the same because Mars was always farther  
+**[6370.46s] English:** That of early Earth never was exactly the same because Mars was always farther.  
 **Translation:** 
 
-**[6375.34s] English:** from the Sun than the earth right so it was always a little cooler but you have  
+**[6375.34s] English:** From the Sun than the Earth, right? So it was always a little cooler, but you have  
 **Translation:** 
 
-**[6381.10s] English:** to imagine maybe the Arctic during the summer that would be early Mars with a  
+**[6381.10s] English:** To imagine, maybe the Arctic during the summer would be like early Mars with a  
 **Translation:** 
 
-**[6386.52s] English:** lot going on for it in terms of environment very favorable to even life  
+**[6386.52s] English:** There's a lot going on for it in terms of the environment, which is very favorable to even life.  
+**Translation:** Vocabulary: arctic: 北极
+
+**[6392.04s] English:** As we know it, so we don't know how fast life happened on Earth. There are signs.  
 **Translation:** 
 
-**[6392.04s] English:** as we know it so we don't know how fast life happened on Earth there are signs  
+**[6400.74s] English:** Right now, it might have actually originated only 200 million years ago.  
+**Translation:** Vocabulary: originated: 出现
+
+**[6405.24s] English:** Years after the crust cooled down, yeah, this still has to be verified, but that...  
 **Translation:** 
 
-**[6400.74s] English:** right now showing that it might have actually originated only 200 million  
-**Translation:** Vocabulary: originated: 起源
-
-**[6405.24s] English:** years after the crust cooled down yeah this still has to be verified but that  
-**Translation:** 
-
-**[6410.46s] English:** that's the closest and these are indirect evidence like carbon left by  
+**[6410.46s] English:** That's the closest, and these are indirect evidence like carbon left by  
 **Translation:** Vocabulary: crust: 地壳; verified: 证实
 
-**[6414.96s] English:** the activity of life not the Earth.  
+**[6414.96s] English:** The activity of life, not the Earth.  
 **Translation:** 
 
-**[6416.50s] English:** not live itself.  
+**[6416.50s] English:** Not for itself.  
 **Translation:** 
 
-**[6418.40s] English:** And there is a twist in the story for Mars is that it seems that Mars came together as a  
+**[6418.40s] English:** And there is a twist in the story: for Mars, it seems that it came together as a  
 **Translation:** 
 
-**[6425.34s] English:** planet faster than the earth and had water earlier than the earth so it may  
+**[6425.34s] English:** Planet formed faster than Earth and had water earlier than Earth, so it may...  
 **Translation:** 
 
-**[6433.02s] English:** be that mars was habitable and might have seen the beginning of life earlier  
+**[6433.02s] English:** Be that Mars was habitable and might have seen the beginning of life earlier.  
 **Translation:** 
 
-**[6440.14s] English:** than the earth.  
+**[6440.14s] English:** Than the Earth.  
 **Translation:** 
 
-**[6442.02s] English:** So all of this is speculation obviously we haven't found  
+**[6442.02s] English:** So, all of this is speculation; obviously, we haven't found  
 **Translation:** 
 
-**[6445.88s] English:** any information.  
+**[6445.88s] English:** Any information.  
 **Translation:** Vocabulary: speculation: 猜测
 
-**[6446.26s] English:** we still have information on Earth but because the Earth is a factory that's alive on the planet Earth is it possible it might have happened earlier than them on Mars.  
+**[6446.26s] English:** We still have information on Earth, but because the Earth is a "factory" that's alive on the planet, is it possible it might have happened earlier than on Mars?  
 **Translation:** 
 
-**[6446.42s] English:** not last actually we haven't found anyовых facts on that BBT.  
+**[6446.42s] English:** Not actually, we haven't found any evidence on that yet.  
 **Translation:** 
 
-**[6446.44s] English:** like maybe it was not but what more than that I think he may have been thinking the period  
+**[6446.44s] English:** Like, maybe it wasn't, but what more than that? I think he may have been thinking about the period.  
 **Translation:** 
 
-**[6446.48s] English:** evidence or solid evidence yet I would say unambiguous evidence but an  
-**Translation:** Vocabulary: unambiguous: 明确无误
+**[6446.48s] English:** Evidence, or solid evidence—yet, I would say unambiguous evidence—but, an  
+**Translation:** Vocabulary: unambiguous: 明确的
 
-**[6452.16s] English:** unambiguous evidence of life is going to be something interesting to prove  
+**[6452.16s] English:** Unambiguous evidence of life is going to be something interesting to prove.  
 **Translation:** 
 
-**[6458.60s] English:** because we don't know what life is remember so I always joke that the only  
+**[6458.60s] English:** Because we don't know what life is, remember? So I always joke that the only  
 **Translation:** 
 
-**[6462.48s] English:** way we would know that there is life on Mars if there was a rabbit jumping in  
+**[6462.48s] English:** Way we would know that there is life on Mars if there was a rabbit jumping around.  
 **Translation:** 
 
-**[6465.74s] English:** front of the of the rover but we might be you know gathering we have what we  
+**[6465.74s] English:** Front of the rover, but we might be gathering what we  
 **Translation:** Vocabulary: rover: 火星车
 
-**[6471.44s] English:** call a ladder of life detection which is that you have a series of rungs that  
+**[6471.44s] English:** Call a ladder of life detection, which is that you have a series of rungs.  
 **Translation:** 
 
-**[6478.00s] English:** you know you need to go through  
+**[6478.00s] English:** You know, you need to go through.  
 **Translation:** Vocabulary: detection: 检测
 
-**[6480.00s] English:** that actually are not proving you that you discovered life, but are making the possibility  
+**[6480.00s] English:** That actually are not proving that you discovered life, but are making the possibility  
 **Translation:** 
 
-**[6489.82s] English:** that what you discovered was made only by the environment more and more improbable.  
-**Translation:** Vocabulary: improbable: 不可能的
+**[6489.82s] English:** That what you discovered was made more and more improbable by the environment.  
+**Translation:** Vocabulary: improbable: 不 probable
 
-**[6497.00s] English:** So we are trying to prove the contrary, right?  
+**[6497.00s] English:** So, we are trying to prove the contrary, right?  
 **Translation:** 
 
-**[6500.02s] English:** So this is what we have right now.  
+**[6500.02s] English:** So, this is what we have right now.  
 **Translation:** 
 
-**[6502.48s] English:** And as far as I'm concerned, considering all the unknowns we have, I think there was as  
+**[6502.48s] English:** And, as far as I'm concerned, considering all the unknowns we have, I think there was a  
 **Translation:** 
 
-**[6507.42s] English:** much chance that life originated on Mars than it did on Earth.  
+**[6507.42s] English:** There is much less of a chance that life originated on Mars than it did on Earth.  
+**Translation:** Vocabulary: originated: 起源于
+
+**[6513.10s] English:** And if it was at the surface, then it got into trouble after 500 million years because  
 **Translation:** 
 
-**[6513.10s] English:** And if it was at the surface, then it got in trouble after 500 million years because  
-**Translation:** 
-
-**[6520.20s] English:** of the disappearance of the magnetosphere, the loss of the magnetosphere and the atmosphere.  
+**[6520.20s] English:** Of the disappearance of the magnetosphere, the loss of the magnetosphere and the atmosphere.  
 **Translation:** Vocabulary: disappearance: 消失; magnetosphere: 磁层
 
-**[6525.36s] English:** But as we know, life doesn't only stay in one place.  
+**[6525.36s] English:** But as we know, life doesn't just stay in one place.  
 **Translation:** 
 
-**[6531.42s] English:** As soon as it's out there, it's going to adapt, it's going to give itself more chance to survive.  
+**[6531.42s] English:** As soon as it's out there, it's going to adapt; it's going to give itself more chance to survive.  
 **Translation:** 
 
-**[6537.40s] English:** And that to me means that if life appeared, I would say it's still there and probably  
+**[6537.40s] English:** And that, to me, means that if life appeared, I would say it's still there and probably  
 **Translation:** 
 
-**[6546.14s] English:** on the ground where it can be in an environment that's more stable.  
+**[6546.14s] English:** On the ground, where it can be in a more stable environment.  
 **Translation:** 
 
-**[6550.42s] English:** So I don't know how stability is good or not, it might not be so good, but they might be  
+**[6550.42s] English:** So, I don't know how stability is good or not; it might not be so good, but they might be.  
 **Translation:** 
 
-**[6555.18s] English:** in a different type of metabolism through dormancy, waiting for different climate cycles.  
+**[6555.18s] English:** In a different type of metabolism through dormancy, waiting for different climate cycles.  
 **Translation:** Vocabulary: dormancy: 休眠; metabolism: 新陈代谢
 
-**[6561.68s] English:** And there is the fact that Mars changes a lot faster than the Earth.  
+**[6561.68s] English:** And there is the fact that Mars changes a lot faster than Earth.  
 **Translation:** 
 
 **[6567.08s] English:** And climate changes are a lot stronger in magnitudes.  
 **Translation:** Vocabulary: magnitudes: 程度
 
-**[6570.06s] English:** So there might be a place on Mars, we know that there is a place on Mars, deeper in the  
+**[6570.06s] English:** So, there might be a place on Mars, but we know that there is at least one place on Mars, deeper in the  
 **Translation:** 
 
-**[6574.94s] English:** subsurface where temperature and pressure are good for liquid water to stay there.  
+**[6574.94s] English:** Subsurface, where temperatures and pressures are good for liquid water to stay there.  
 **Translation:** Vocabulary: subsurface: 地下层
 
-**[6580.58s] English:** So these would be good places for a stable habitat over time, no matter what happens  
+**[6580.58s] English:** So, these would be good places for a stable habitat over time, no matter what happens.  
 **Translation:** 
 
-**[6584.64s] English:** at the surface.  
+**[6584.64s] English:** At the surface.  
 **Translation:** 
 
 **[6585.64s] English:** But if life is also caught between that deep zone and the surface, then it's going to be  
 **Translation:** 
 
-**[6596.72s] English:** much more difficult.  
+**[6596.72s] English:** Much more difficult.  
 **Translation:** 
 
 **[6597.72s] English:** There is an active layer.  
@@ -3907,526 +3908,526 @@ Source file: Lex Fridman - Nathalie Cabrol： Search for Alien Life ｜ Lex Frid
 **[6598.72s] English:** There is a lot of ice in the subsurface.  
 **Translation:** 
 
-**[6600.00s] English:** surface of Mars and when the climate changes when the obliquity goes beyond  
+**[6600.00s] English:** Surface of Mars, and when the climate changes as the obliquity goes beyond.  
 **Translation:** 
 
-**[6605.32s] English:** 30 degrees then at that point you will have some activation of that zone you  
+**[6605.32s] English:** 30 degrees, then at that point you will have some activation of that zone.  
 **Translation:** Vocabulary: obliquity: 倾角
 
-**[6612.60s] English:** have thawing of the ice so all this region is reactivated and maybe that's a  
+**[6612.60s] English:** Have thawing of the ice, so all this region is reactivated, and maybe that's a  
 **Translation:** 
 
-**[6618.90s] English:** way where you have pathways for life to move from the deep zone to closer to the  
+**[6618.90s] English:** Way, where you have pathways for life to move from the deep zone to closer to the  
 **Translation:** Vocabulary: pathways: 通道; thawing: 解冻
 
-**[6625.72s] English:** surface this is why I am one of those scientists who thinks that life might  
+**[6625.72s] English:** Surface, this is why I am one of those scientists who thinks that life might  
 **Translation:** 
 
-**[6632.26s] English:** not be so far from the surface than we think so we don't have to dig very far  
+**[6632.26s] English:** Not be so far from the surface than we think, so we don't have to dig very far.  
 **Translation:** 
 
-**[6637.46s] English:** to find it we probably won't and the reason I'm so amazing I am thinking of  
+**[6637.46s] English:** To find it, we probably won't. And the reason I'm so amazing is that I am thinking of  
 **Translation:** 
 
-**[6643.18s] English:** that but just because of this experience as well of extreme environments you know  
+**[6643.18s] English:** That, but just because of this experience in extreme environments, you know.  
+**Translation:** Vocabulary: environments: 环境
+
+**[6647.98s] English:** You have to see, look, and listen. Basically, that's the story of my life if I want.  
 **Translation:** 
 
-**[6647.98s] English:** you have to see and look and listen basically the story of my life if I want  
-**Translation:** 
-
-**[6653.78s] English:** to understand where microbes are located  
+**[6653.78s] English:** To understand where microbes are located,  
 **Translation:** Vocabulary: microbes: 微生物
 
-**[6655.70s] English:** on Mars I have to become the microbe right this is the thought experiment and  
+**[6655.70s] English:** On Mars, I have to become the microbe—this is the thought experiment, and  
 **Translation:** 
 
-**[6660.20s] English:** if I want to understand where ET is yeah then I have to become ET so it's a big  
+**[6660.20s] English:** If I want to understand where ET is, yeah, then I have to become ET. So it's a big  
 **Translation:** 
 
-**[6664.82s] English:** stretch but in extreme environment you sit in the desert for a while and you  
+**[6664.82s] English:** Stretch, but in an extreme environment, you sit in the desert for a while and you  
 **Translation:** 
 
-**[6671.34s] English:** just you know try to understand where the winds coming from where the humidity  
+**[6671.34s] English:** Just, you know, try to understand where the winds are coming from and where the humidity is.  
 **Translation:** Vocabulary: humidity: 湿度
 
-**[6676.76s] English:** when it's showing up and then you start to understand the patterns of those  
+**[6676.76s] English:** When it's showing up, and then you start to understand the patterns of those.  
 **Translation:** 
 
-**[6679.84s] English:** other things what are the useful signals that you need for survival you need to  
+**[6679.84s] English:** Other things: What are the useful signals that you need for survival? You need to  
 **Translation:** 
 
-**[6685.02s] English:** know where water is  
+**[6685.02s] English:** Know where the water is.  
 **Translation:** 
 
-**[6685.68s] English:** where the source of energy is going to be drawn from you need to find shelters  
+**[6685.68s] English:** Where the source of energy is going to be drawn from, you need to find shelters.  
+**Translation:** Vocabulary: shelters: 避难所
+
+**[6690.86s] English:** And shelters don't mean, for instance, that you can have a water column of  
 **Translation:** 
 
-**[6690.86s] English:** and shelters don't mean that for instance you can have a water column of  
+**[6694.68s] English:** A lake, or a river, or whatnot, or the ocean—it can be also a very thin layer.  
+**Translation:** Vocabulary: whatnot: 举例来说
+
+**[6701.82s] English:** Of dust, or it can be a translucent rock, and you see what we call "endless." These  
 **Translation:** 
 
-**[6694.68s] English:** a lake or a river or whatnot or the ocean it can be also a very thin layer  
-**Translation:** Vocabulary: whatnot: 诸如此类
+**[6708.96s] English:** Are the same cyanobacteria, but a different version of them. They live,  
+**Translation:** Vocabulary: cyanobacteria: 蓝细菌; translucent: 半透明的
 
-**[6701.82s] English:** of dust or it can be a translucent rock and you see what we call endless these  
+**[6712.92s] English:** Inside the rocks, inside those crystals, they live.  
 **Translation:** 
 
-**[6708.96s] English:** are the same cyanobacteria but a different version of them they live  
-**Translation:** Vocabulary: cyanobacteria: 蓝细菌; translucent: 半透明
-
-**[6712.92s] English:** inside the rocks inside those crystals they live inside the rocks inside those  
+**[6714.58s] English:** Crystals: they live inside the rocks. Inside those crystals, they live.  
 **Translation:** 
 
-**[6714.58s] English:** crystals they live inside the rocks inside those crystals they live inside  
+**[6715.68s] English:** Those crystals; they live inside those crystals.  
 **Translation:** 
 
-**[6715.68s] English:** those crystals they live inside those crystals they live inside those crystals  
+**[6716.18s] English:** Because they have the best of life, they are into translucence.  
+**Translation:** Vocabulary: translucence: 透明度
+
+**[6720.00s] English:** Crystals, so that they receive the light from the Sun, can do the  
 **Translation:** 
 
-**[6716.18s] English:** because they have the best of life they are into translucent  
-**Translation:** 
-
-**[6720.00s] English:** crystals so that they receive the light from the Sun they can do the  
-**Translation:** 
-
-**[6725.56s] English:** photosynthesis but there is enough of that crystal so that the nasty UV is  
+**[6725.56s] English:** Photosynthesis, but there is enough of that crystal so that the nasty UV isn't a problem.  
 **Translation:** Vocabulary: photosynthesis: 光合作用
 
-**[6732.46s] English:** being stopped and they are in their little house and when you are looking at  
+**[6732.46s] English:** Being stopped, and they are in their little house, and when you are looking at  
 **Translation:** 
 
-**[6741.90s] English:** temperature within those rocks they tend to make it toastier than the outside  
-**Translation:** Vocabulary: toastier: 更暖和
+**[6741.90s] English:** Temperature within those rocks tends to make it toastier than the outside.  
+**Translation:** Vocabulary: toastier: 更像烤面包
 
-**[6746.64s] English:** temperature so there is a lot of thing going on so what I'm saying for Mars is  
+**[6746.64s] English:** Temperature, so there is a lot going on. So, what I'm saying for Mars is  
 **Translation:** 
 
-**[6752.82s] English:** that yeah right now you don't have an atmosphere very much 160 times thinner  
+**[6752.82s] English:** That, yeah, right now you don't have an atmosphere very much, 160 times thinner.  
 **Translation:** 
 
-**[6757.74s] English:** than the earth 6 millibars really and not much but it's there but you still  
+**[6757.74s] English:** Than the Earth, 6 millibars—really? And not much, but it's there, but you still.  
 **Translation:** 
 
-**[6764.22s] English:** have a lot of UV the short UV like the nasty one UV a UV B UV C that can really  
-**Translation:** Vocabulary: millibars: 毫巴气压
+**[6764.22s] English:** Have a lot of UV, like the nasty UVA, UVB, and UVC that can really  
+**Translation:** Vocabulary: millibars: 毫巴
 
-**[6770.22s] English:** mess up your DNA and and destroy it beyond repair but as soon as you have a  
+**[6770.22s] English:** Mess up your DNA, and destroy it beyond repair, but as soon as you have a  
 **Translation:** 
 
-**[6776.36s] English:** little bit of a temperature change in your atmosphere it will start to get  
+**[6776.36s] English:** A little bit of a temperature change in your atmosphere, and it will start to get  
 **Translation:** 
 
-**[6776.62s] English:** a little alcove into a rock or a cliff you know I'd be looking at those places  
+**[6776.62s] English:** A little alcove into a rock or a cliff, you know—I'd be looking at those places.  
 **Translation:** 
 
-**[6784.02s] English:** but you have to understand Mars or any other planet for that matter at the  
+**[6784.02s] English:** But you have to understand Mars, or any other planet for that matter, at the  
 **Translation:** Vocabulary: alcove: 岩穴
 
-**[6788.68s] English:** level that matters for the microbe and is so then you one with the micro be one  
+**[6788.68s] English:** Level that matters for the microbe, and is so small that it's almost one with the microbe.  
 **Translation:** 
 
-**[6796.50s] English:** with the microbes and which means that we have lots of orbital data which is  
+**[6796.50s] English:** With the microbes, and which means that we have lots of orbital data, which is  
+**Translation:** Vocabulary: microbe: 微生物; microbes: 微生物; orbital: 轨道的
+
+**[6801.64s] English:** Good to understand habitability at the planetary level or at the regional level.  
 **Translation:** 
 
-**[6801.64s] English:** good to understand habitability at the planet level or at the regional level  
+**[6806.82s] English:** But we have very little data right now that is very useful to understand.  
 **Translation:** 
 
-**[6806.82s] English:** but we have very little data right now that is very useful to understand  
+**[6811.26s] English:** Habitability at the scale that miners for the microbes are currently exploring.  
 **Translation:** 
 
-**[6811.26s] English:** habitability at the scale that miners for the microbes at this point in time  
+**[6817.36s] English:** So, we need to do a better job with that. My idea is to have arrays.  
+**Translation:** Vocabulary: arrays: 排列
+
+**[6823.92s] English:** Of environmental stations, which could have a lot of benefits, one would be to  
 **Translation:** 
 
-**[6817.36s] English:** so we need to to do a better job with that my ideas is to you know have arrays  
-**Translation:** Vocabulary: microbes: 微生物
-
-**[6823.92s] English:** of environmental stations that could have a lot of benefits one would be to  
+**[6828.30s] English:** Give us that vision for the microbes that would be good for biology, and  
 **Translation:** 
 
-**[6828.30s] English:** give us that vision for the microbes that would be good for as to biology and  
+**[6834.18s] English:** Second....  
 **Translation:** 
 
-**[6834.18s] English:** second..  
+**[6834.82s] English:** So, a collection.  
 **Translation:** 
 
-**[6834.82s] English:** so a collection  
+**[6835.50s] English:** Of stars is good.  
 **Translation:** 
 
-**[6835.50s] English:** of stars is good  
+**[6836.20s] English:** Stations on Mars on Mars, yeah. They collect data, and they give us a good look at the Red Planet.  
 **Translation:** 
 
-**[6836.20s] English:** stations on mars on mars yeah they collect yeah they give us a good  
+**[6840.00s] English:** Map, yeah. Planet has high-resolution imagery, which we can do regionally, and on top of that, so that's good.  
 **Translation:** 
 
-**[6840.00s] English:** map yeah planet high resolution we can do that regionally and on top of that so that's good for  
+**[6845.68s] English:** Through biology, we can explore the search for life on Mars—that's good about how to learn where microbes might thrive.  
+**Translation:** Vocabulary: imagery: 图像; regionally: 区域性; thrive: 繁盛
+
+**[6851.36s] English:** Could be that can be a problem for contamination, both ways, so that's good for planetary protection.  
 **Translation:** 
 
-**[6845.68s] English:** us through biology for the search for life on mars that's good about how to learn where microbes  
-**Translation:** Vocabulary: regionally: 按区域
+**[6858.80s] English:** And since those stations would have communication capabilities on them, that's excellent for humans.  
+**Translation:** Vocabulary: capabilities: 功能; contamination: 污染
 
-**[6851.36s] English:** could be that can be a problem for contamination both ways so that's good for planetary protection  
+**[6866.32s] English:** Exploration, because now, normally, you have weather stations all over the place that can tell you.  
 **Translation:** 
 
-**[6858.80s] English:** and since those stations would have communication capabilities on them that's excellent for human  
-**Translation:** Vocabulary: contamination: 污染
-
-**[6866.32s] English:** exploration because now normally you have weather stations all over the place that can tell your  
+**[6871.36s] English:** Astronauts, you know, learn the pattern when it's a good time to go out or not go out, and also  
 **Translation:** 
 
-**[6871.36s] English:** astronauts you know learn the pattern when it's a good time to go out or not go out and also  
+**[6877.36s] English:** House and communicate when they go and do sorties, so there are a number of things we can.  
 **Translation:** 
 
-**[6877.36s] English:** house and communicate uh when they go and do sorties so there are a number of things we can  
-**Translation:** 
-
-**[6883.12s] English:** do that can tell you lots of information let's rewind the clock a little bit you grew up in paris  
+**[6883.12s] English:** Do that, and you can tell you lots of information. Let's rewind the clock a little bit; you grew up in Paris.  
 **Translation:** Vocabulary: sorties: 空袭
 
-**[6889.92s] English:** i was just there helen mcdonald in her new york times amazing profile piece of you  
+**[6889.92s] English:** I was just there, Helen McDonald in her New York Times amazing profile piece on you.  
 **Translation:** 
 
-**[6895.52s] English:** writes to your  
-**Translation:** Vocabulary: mcdonald: 麦唐纳
-
-**[6896.32s] English:** teenage years were troubled so how did the challenging early years  
+**[6895.52s] English:** Writes to your  
 **Translation:** 
 
-**[6902.72s] English:** make the human being the scientist that you are today everything i think that  
+**[6896.32s] English:** Teenage years were troubled, so how did the challenging early years affect him?  
 **Translation:** 
 
-**[6910.40s] English:** this is what's taking me on top of those big mountains  
+**[6902.72s] English:** Make the human being the scientist: that, I think, you are today.  
 **Translation:** 
 
-**[6914.24s] English:** and the irony is for me to be looking for the origin and nature of life because i was so close  
+**[6910.40s] English:** This is what's taking me to the top of those big mountains.  
+**Translation:** 
+
+**[6914.24s] English:** And the irony is, for me to be looking for the origin and nature of life because I was so close.  
 **Translation:** Vocabulary: irony: 讽刺
 
-**[6921.20s] English:** to losing it but to me that was a great lesson learned  
+**[6921.20s] English:** To lose it, but to me that was a great lesson learned.  
 **Translation:** 
 
-**[6926.72s] English:** and uh that helped me see through the beauty of life uh going on the other side of that  
+**[6926.72s] English:** And, uh, that helped me see the beauty in life on the other side of that.  
 **Translation:** 
 
-**[6934.88s] English:** it becomes really what made me and uh helped me go through absolutely everything and anything in life  
+**[6934.88s] English:** It became really what made me and helped me go through absolutely everything and anything in life.  
 **Translation:** 
 
-**[6943.04s] English:** climb mountains and tell me there is something i want to know and and you know um  
+**[6943.04s] English:** Climb mountains, and tell me there is something I want to know, and you know... um,  
 **Translation:** 
 
-**[6950.64s] English:** i am going to give it my best and i won't give up and i won't give in  
+**[6950.64s] English:** I am going to give it my best, and I won't give up or give in.  
 **Translation:** 
 
 **[6956.32s] English:** This is a message that I carried all my life.  
 **Translation:** 
 
-**[6960.00s] English:** so very grateful that I did because all these things that I would have missed if I hadn't done that  
+**[6960.00s] English:** So, I am very grateful that I did because all these things that I would have missed if I hadn't done that.  
 **Translation:** 
 
-**[6966.66s] English:** You know  
+**[6966.66s] English:** You know,  
 **Translation:** 
 
-**[6967.34s] English:** This is something that I wrote in my first book and part of it is the reason why I wrote it  
+**[6967.34s] English:** This is something that I wrote in my first book, and part of it is the reason why I wrote it.  
 **Translation:** 
 
-**[6972.60s] English:** Just because I felt that there were messages in in my path  
+**[6972.60s] English:** Just because I felt that there were messages in my path.  
 **Translation:** 
 
-**[6978.54s] English:** Oftentimes teenagers are troubled  
+**[6978.54s] English:** Oftentimes, teenagers are troubled.  
 **Translation:** 
 
-**[6980.42s] English:** It can be one way or another or if it's not a troubled teenage you have times in your life where you doubt where you know  
+**[6980.42s] English:** It can be one way or another, or if it's not a troubled teenager, you have times in your life where you doubt—where you know.  
 **Translation:** Vocabulary: oftentimes: 经常
 
-**[6987.28s] English:** You're just waving your arm and say what's the purpose? What's the reason why carry on and  
+**[6987.28s] English:** You're just waving your arm and saying, "What's the purpose? What's the reason why we should keep going?  
 **Translation:** 
 
-**[6994.04s] English:** When I see all the things that I'm doing the dream that I was able to fulfill  
+**[6994.04s] English:** When I see all the things I'm doing, the dream that I was able to fulfill.  
+**Translation:** Vocabulary: fulfill: 实现
+
+**[7000.04s] English:** What a waste it would have been, you know.  
 **Translation:** 
 
-**[7000.04s] English:** What a waste it would have been, you know  
+**[7003.10s] English:** So, at some point in your life, you thought about suicide. Oh, yeah.  
 **Translation:** 
 
-**[7003.10s] English:** So there's in there was a point in your life where you thought about suicide. Oh, yeah  
+**[7008.78s] English:** Yeah, and I did more than just thinking about it; I was a lucky one for some reason. I'm still here.  
 **Translation:** 
 
-**[7008.78s] English:** Yeah, and I did more than thinking about it and but I was a lucky one for some reason. I'm still here  
+**[7015.68s] English:** I still don't know why.  
 **Translation:** 
 
-**[7015.68s] English:** I still don't know why  
+**[7017.26s] English:** But I'm still here, and the lesson for me was that never, ever again.  
 **Translation:** 
 
-**[7017.26s] English:** but I'm still here and the lesson for me was that never ever again because  
+**[7022.94s] English:** You have to give tomorrow a chance. You never can think about tomorrow in the terms of the present.  
 **Translation:** 
 
-**[7022.94s] English:** You have to give tomorrow a chance. You never can think about tomorrow in the terms of the present  
+**[7030.76s] English:** You never know what can happen; you know, what is going to happen if you go.  
 **Translation:** 
 
-**[7030.76s] English:** You never know what can happen, you know, what is going to happen if you go  
+**[7035.06s] English:** Through  
 **Translation:** 
 
-**[7035.06s] English:** through  
+**[7036.24s] English:** What you want to do tomorrow is never happening, you know.  
 **Translation:** 
 
-**[7036.24s] English:** What you want to do tomorrow is never happening, you know  
+**[7039.76s] English:** And I had the other lessons come a few years later, where actually somebody was drowning.  
 **Translation:** 
 
-**[7039.76s] English:** And I had I had a the other lessons came a few years later where actually somebody was drowning  
+**[7047.12s] English:** And I went after that person; I almost died that day, trying to know that I wanted to, but it's just because the conditions were very, very  
 **Translation:** 
 
-**[7047.12s] English:** And I went after that person I almost died that day to know that I wanted to but it's just because the condition were very very  
+**[7054.28s] English:** Difficult, that person.  
 **Translation:** 
 
-**[7054.28s] English:** difficult that person  
+**[7056.76s] English:** Died from there, although we took him out of the water.  
 **Translation:** 
 
-**[7056.76s] English:** Died from there, although we took him out of the water  
+**[7060.70s] English:** But I had a lot of difficulty coming out. I came out, but then I thought a lot about that guy.  
 **Translation:** 
 
-**[7060.70s] English:** But I had a lot of difficulty coming out. I came out but then I thought a lot about that guy  
+**[7066.96s] English:** He was in his 30s and  
 **Translation:** 
 
-**[7066.96s] English:** he was in his 30s and  
+**[7069.70s] English:** It was like an echo from a few years before, telling me that person would never have.  
 **Translation:** 
 
-**[7069.70s] English:** It was like a sort of a echo from a few years before telling me that person would never have  
+**[7077.12s] English:** Tomorrow, that person would never be able.  
 **Translation:** 
 
-**[7077.12s] English:** Tomorrow that person would never be able  
+**[7080.00s] English:** To fulfill his dream, or even have dreams of any kind, and I was here, and I was going.  
+**Translation:** Vocabulary: fulfill: 实现
+
+**[7085.70s] English:** To give myself the best chance to fulfill all the dreams I wanted to and  
 **Translation:** 
 
-**[7080.00s] English:** fulfill his dream or even have dreams of any kind and I was here and I was going  
+**[7089.96s] English:** Go ahead and ask all the questions I wanted to, and this is what kept me going. Now you  
 **Translation:** 
 
-**[7085.70s] English:** to give myself the best chance to fulfill all the dreams I wanted to and  
+**[7094.78s] English:** Know, so the advice is: even if you don't see a reason for the why.  
 **Translation:** 
 
-**[7089.96s] English:** go after all the questions I wanted to and this is what kept me going now you  
+**[7101.80s] English:** Question: Why live today, give tomorrow a chance? Always do you think about your  
 **Translation:** 
 
-**[7094.78s] English:** know so the advice there is even if you don't see a why an answer to the why  
+**[7110.82s] English:** Death, today, do you think about your mortality? Not really; you've been so  
 **Translation:** 
 
-**[7101.80s] English:** question why live today give tomorrow a chance always do you think about your  
+**[7118.78s] English:** Close to this, yeah, we know that's part of life, and you know what? Something  
 **Translation:** 
 
-**[7110.82s] English:** death today do you think about your mortality not really you've been so  
+**[7124.52s] English:** Happens to me when I'm doing the stuff I love — what a way to go! This will.  
 **Translation:** 
 
-**[7118.78s] English:** close to this yeah we know that's part of life and you know what if something  
+**[7130.56s] English:** Happen wherever.  
 **Translation:** 
 
-**[7124.52s] English:** happens to me what I'm doing the stuff I love what a way of going this will  
+**[7131.78s] English:** It catches me; I don't know, I don't care what he will be, and I had the.  
 **Translation:** 
 
-**[7130.56s] English:** happen wherever  
+**[7138.14s] English:** Best of all, for that I had my husband, my husband and I were 44 years together.  
 **Translation:** 
 
-**[7131.78s] English:** it catches me I don't know I don't care it will be what he will be and I had the  
+**[7145.10s] English:** Apart in age, and it was just a pure love story; he never looked at his age.  
 **Translation:** 
 
-**[7138.14s] English:** best of all masters for that I had my husband my husband and I were 44 years  
+**[7152.78s] English:** Never thought about himself or defined himself by his age. In fact, he reinvented himself.  
 **Translation:** 
 
-**[7145.10s] English:** apart in age and it was just a pure love story and he never looked at his age  
+**[7160.18s] English:** A life for himself.  
 **Translation:** 
 
-**[7152.78s] English:** never thought about himself or defined himself by his age in fact he reinvented  
+**[7161.78s] English:** At an age where everybody retires, we met when he was 66, and that was a blessing.  
 **Translation:** 
 
-**[7160.18s] English:** a life for himself  
+**[7167.86s] English:** And it occurs, but a blessing, most of the time, because we took every single day as if.  
 **Translation:** 
 
-**[7161.78s] English:** at an age where everybody retires we met when he was 66 and that was a blessing  
+**[7172.22s] English:** It was the last, so we enjoyed life, and right now it's not so much, you know.  
 **Translation:** 
 
-**[7167.86s] English:** and occurs but a blessing most of it because we took every single day as if  
+**[7180.22s] English:** Have to really think of him; it just passed away in August, last August, and...  
 **Translation:** 
 
-**[7172.22s] English:** it was the last so we enjoyed life and right now it's not so much you know I  
+**[7186.64s] English:** For me, it's more like I have to draw from  
 **Translation:** 
 
-**[7180.22s] English:** have to really think of him it just passed away this August last August and  
+**[7191.78s] English:** His example is always telling me: "Look forward, trust life.  
 **Translation:** 
 
-**[7186.64s] English:** for me it's more like I have to draw from  
+**[7200.00s] English:** Be happy, live, you know? Today, every single day I have to remind myself several times a day of this.  
 **Translation:** 
 
-**[7191.78s] English:** His example on him always telling me, look forward, trust life.  
+**[7210.34s] English:** Not easy, but he had the recipe. He never thought about death because when you start thinking too much about it, it can be overwhelming.  
 **Translation:** 
 
-**[7200.00s] English:** be happy live you know today every single day i have to remind several times a day of this it's  
+**[7216.98s] English:** Much about death that prevents you from living? Do you miss him? Oh, gosh, we were so close. I think we...  
+**Translation:** Vocabulary: recipe: 配方
+
+**[7225.24s] English:** It's more like one spirit in two bodies—we were that close, so missing him doesn't even cut.  
 **Translation:** 
 
-**[7210.34s] English:** not easy but he had the recipe he never thought about death because when you start thinking too  
-**Translation:** 
-
-**[7216.98s] English:** much about death that prevents you from living do you miss him oh gosh we were so close i think we  
-**Translation:** 
-
-**[7225.24s] English:** were it's more like one spirit in two bodies we were that close so missing him doesn't even cut  
-**Translation:** 
-
-**[7233.32s] English:** it I mean it's it's the toughest mountain I ever climbed what's the role of love in the human  
+**[7233.32s] English:** It, I mean, it's the toughest mountain I've ever climbed. What's the role of love in the human experience?  
 **Translation:** Vocabulary: toughest: 最艰难的
 
-**[7244.00s] English:** condition I think I hope that this is the force that drives the universe although you know we  
+**[7244.00s] English:** Condition: I think, I hope that this is the force that drives the universe, although you know, we  
 **Translation:** 
 
-**[7250.64s] English:** might be experiencing the other side of it maybe just to learn how important it is to live the  
+**[7250.64s] English:** Might be experiencing the other side of it, maybe just to learn how important it is to live the  
 **Translation:** 
 
-**[7255.22s] English:** important love is that might be it you know for me my experience with my  
+**[7255.22s] English:** Important: love is that, you know, for me, my experience with my  
 **Translation:** 
 
-**[7263.76s] English:** husband where I never had to wake up every single morning ever wondering if I  
+**[7263.76s] English:** Husband, where I never had to wake up every single morning, ever wondering if I  
 **Translation:** 
 
-**[7270.48s] English:** was loved I had to look in his eyes and him looking back at me to know it you  
+**[7270.48s] English:** I was loved; I had to look into his eyes and have him looking back at me to know it.  
 **Translation:** 
 
-**[7278.10s] English:** know so when you get to that point where you don't question it anymore I would  
+**[7278.10s] English:** Know, so when you get to that point where you don't question it anymore, I would.  
 **Translation:** 
 
-**[7283.62s] English:** hope for humanity to reach that point where you can feel the same love for the  
+**[7283.62s] English:** Hope for humanity to reach that point where you can feel the same love for the  
 **Translation:** 
 
-**[7288.96s] English:** person that is unknown in the street that you feel for the people you love I  
+**[7288.96s] English:** Person that is unknown in the street, that you feel for the people you love. I  
 **Translation:** 
 
-**[7294.78s] English:** think that and that one we are going to be reaching the maturity of that  
+**[7294.78s] English:** Think that, and that one, we are going to be reaching the maturity of that.  
 **Translation:** 
 
-**[7299.16s] English:** civilization we are hoping for and seeing the universe through love that  
+**[7299.16s] English:** Civilization, we are hoping for, and seeing the universe through love that.  
 **Translation:** Vocabulary: maturity: 成熟
 
-**[7306.50s] English:** doesn't run spacecrafts of course but putting love into our intent of going  
+**[7306.50s] English:** Doesn't run spacecrafts, of course, but putting love into our intent of going.  
 **Translation:** 
 
-**[7313.08s] English:** into  
-**Translation:** Vocabulary: spacecrafts: 航天器
+**[7313.08s] English:** Into  
+**Translation:** Vocabulary: intent: 意图
 
-**[7313.60s] English:** and settling into another planet instead of oh my god we need to escape because  
+**[7313.60s] English:** And settling into another planet instead of, oh, my God, we need to escape because...  
 **Translation:** 
 
-**[7318.76s] English:** we are free  
+**[7318.76s] English:** We are free.  
 **Translation:** 
 
-**[7320.96s] English:** messing up with our own planet i think that this is the answer to so many things  
+**[7320.96s] English:** Messing up with our own planet, I think that this is the answer to so many things.  
 **Translation:** 
 
-**[7329.84s] English:** is there a part of you that maybe just a little bit wants to step foot on mars like you personally  
+**[7329.84s] English:** Is there a part of you that, maybe just a little bit, wants to step foot on Mars, personally?  
+**Translation:** Vocabulary: messing: 破坏
+
+**[7338.16s] English:** Oh, yeah, of course. I'm curious. I'm a scientist, and I've been working on Mars. I was actually  
 **Translation:** 
 
-**[7338.16s] English:** oh yeah of course i'm curious i'm a scientist and i've been working on on mars i i was actually  
+**[7344.32s] English:** Privileged to be working on Gusev Crater and deciding on the landing site of Spirit.  
+**Translation:** Vocabulary: crater: 撞击坑; privileged: 荣幸
+
+**[7349.52s] English:** Uh, Rover, which means that I worked on that landing site for 15 years and I got to see it.  
 **Translation:** 
 
-**[7344.32s] English:** privileged to be working on gusev crater and deciding for the landing side of the spirit  
-**Translation:** Vocabulary: privileged: 有幸
-
-**[7349.52s] English:** uh rover which means that i worked on on that landing site for 15 years and i got to see it  
-**Translation:** 
-
-**[7354.32s] English:** from the ground yes that's the closest you know to being there and exploring of course that's not  
+**[7354.32s] English:** From the ground, yes, that's the closest you know to being there and exploring. Of course, that's not  
 **Translation:** Vocabulary: rover: 火星车
 
-**[7360.24s] English:** physically be present there um if you were giving me the opportunity of course i would go but i know  
+**[7360.24s] English:** Physically be present there? Um, if you were giving me the opportunity, of course I would go, but I know  
 **Translation:** 
 
-**[7367.60s] English:** one thing i would want to come back so given the option  
+**[7367.60s] English:** One thing I would want to come back, so given the option.  
 **Translation:** 
 
-**[7374.32s] English:** of dying on mars or dying on earth you'd visit mars but you would uh like to spend your last  
+**[7374.32s] English:** Of dying on Mars or dying on Earth, you'd visit Mars, but you would, uh, like to spend your last days there.  
 **Translation:** 
 
-**[7381.76s] English:** days here yeah because of a number of things i think that first we're not ready to sit on mars  
+**[7381.76s] English:** Days here, yeah, because of a number of things. I think that first, we're not ready to sit on Mars.  
 **Translation:** 
 
-**[7389.60s] English:** regardless of what being said it's it will happen it will happen and because we are  
+**[7389.60s] English:** Regardless of what is being said, it will happen; it will happen, and because we are.  
 **Translation:** 
 
-**[7394.88s] English:** explorers humans you know they're explorers so this will happen and it's a good thing  
+**[7394.88s] English:** Explorers, humans—you know, they're explorers, so this will happen, and it's a good thing.  
 **Translation:** Vocabulary: explorers: 探险家
 
-**[7400.32s] English:** depending on how we go about this it can be a very good thing  
+**[7400.32s] English:** Depending on how we go about this, it can be a very good thing.  
 **Translation:** 
 
-**[7404.64s] English:** you know with time as much has been exploring continue to explore the big questions of uh  
+**[7404.64s] English:** You know, with time, a lot has been explored, and we should continue to explore the big questions of...  
 **Translation:** 
 
-**[7410.56s] English:** origin and nature of life or exploring of a planet the love you are talking about love the love for my  
+**[7410.56s] English:** Origin and Nature of Life, or Exploring a Planet: The love you are talking about, the love for my...  
 **Translation:** 
 
-**[7417.60s] English:** own planet has grown deeper and my concern about it has grown deeper so the data that i'm collecting  
+**[7417.60s] English:** Own planet has grown deeper, and my concern about it has grown deeper, so the data that I'm collecting.  
 **Translation:** 
 
-**[7426.24s] English:** to learn about other planets i'm also using it to understand better our home planet and trying  
+**[7426.24s] English:** To learn about other planets, I'm also using it to understand our home planet better and trying.  
 **Translation:** 
 
-**[7432.80s] English:** to make it a little better we all of us areki take a allow us to connect better in other  
+**[7432.80s] English:** To make it a little better, we all agree to allow us to connect better in other.  
 **Translation:** 
 
-**[7434.32s] English:** for the next generation. So if you were talking about love, this is  
+**[7434.32s] English:** For the next generation. So, if you were talking about love, this is  
 **Translation:** 
 
-**[7440.00s] English:** love that would drive me back here yeah this planet it's just sometimes i just pause and  
+**[7440.00s] English:** Love that would drive me back here, yeah. This planet—it's just sometimes I just pause and  
 **Translation:** 
 
-**[7448.56s] English:** i'm in awe at the incredible thing we have here and just and i have deep gratitude for  
+**[7448.56s] English:** I'm in awe of the incredible thing we have here, and just... I have deep gratitude for.  
 **Translation:** 
 
-**[7455.04s] English:** all the life forms here the the beautiful complexity of course there's darkness behind it  
-**Translation:** Vocabulary: complexity: 复杂性
-
-**[7461.28s] English:** all the death all the extinction that led uh up to us to descendants of apes sitting here today  
+**[7455.04s] English:** All the life forms here—the beautiful complexity, of course, there's darkness behind it.  
 **Translation:** 
 
-**[7468.88s] English:** i feel that's a responsibility we're the fittest that survived exactly right as the  
-**Translation:** Vocabulary: descendants: 后代
-
-**[7477.28s] English:** dominant species at least you know technologically etc maybe not the wisest one but the dominant  
+**[7461.28s] English:** All the deaths, all the extinctions that led up to us, descendants of apes, sitting here today.  
 **Translation:** 
 
-**[7484.80s] English:** species we have a responsibility towards the entire biosphere because the decisions we are  
-**Translation:** Vocabulary: biosphere: 生物圈; technologically: 技术上
+**[7468.88s] English:** I feel that's a responsibility—we're the fittest that survived, exactly right?  
+**Translation:** Vocabulary: descendants: 后代; extinctions: 灭绝; fittest: 最适者
 
-**[7490.80s] English:** making now normally affect us they are affecting the entire biosphere and right now the choice  
+**[7477.28s] English:** Dominant species, at least you know, technologically, etc.; maybe not the wisest one, but the dominant.  
 **Translation:** 
 
-**[7498.80s] English:** is the choice of the entire biosphere and the choice is the choice of the entire biosphere  
+**[7484.80s] English:** Species: We have a responsibility toward the entire biosphere, because the decisions we are  
+**Translation:** Vocabulary: biosphere: 生物圈; dominant: 占优势的; technologically: 技术上
+
+**[7490.80s] English:** Making it now normally affect us, they are affecting the entire biosphere, and right now, the choice matters.  
 **Translation:** 
 
-**[7498.86s] English:** we are making are leading to the disappearance of 150 species every single day all the big mammals  
+**[7498.80s] English:** Is the choice of the entire biosphere, and the choice is the choice of the entire biosphere.  
 **Translation:** 
 
-**[7507.90s] English:** on this earth today are on the brink of extinction we are within the sixth greatest maxis extinction  
-**Translation:** Vocabulary: brink: 临界点; disappearance: 消失; mammals: 哺乳动物
-
-**[7518.22s] English:** it's unfolding before our eyes and um i would strongly suggest that we use our smart  
+**[7498.86s] English:** We are losing 150 species every single day, all the big mammals.  
 **Translation:** 
 
-**[7527.18s] English:** to help a little bit this situation and we can do this uh i think we can do this we just need to  
+**[7507.90s] English:** On this Earth today, we are on the brink of extinction, and we are within the sixth greatest mass extinction.  
+**Translation:** Vocabulary: brink: 边缘; mammals: 哺乳动物
+
+**[7518.22s] English:** It's unfolding before our eyes, and, um, I would strongly suggest that we use our smarts.  
+**Translation:** 
+
+**[7527.18s] English:** To help a little bit with this situation, and we can do this. I think we can do this; we just need to.  
 **Translation:** Vocabulary: unfolding: 展开
 
-**[7537.74s] English:** redirect our energy in the name of love this was an incredible conversation and i'm really  
+**[7537.74s] English:** Redirect our energy in the name of love; this was an incredible conversation, and I'm really  
 **Translation:** 
 
-**[7545.82s] English:** honored to use it with me um i've been a fan of your work for a long time now so this is this is  
+**[7545.82s] English:** Honored to use it with me, I've been a fan of your work for a long time now, so this is...  
 **Translation:** 
 
-**[7550.62s] English:** really awesome thank you so much for talking you're very welcome thanks thanks for listening  
+**[7550.62s] English:** Really awesome! Thank you so much for talking. You're very welcome. Thanks for listening!  
 **Translation:** 
 
-**[7555.90s] English:** to this conversation with natalie and we will be looking forward to hearing your comments next time.  
+**[7555.90s] English:** To this conversation with Natalie, and we will be looking forward to hearing your comments next time.  
 **Translation:** 
 
-**[7557.10s] English:** To support this podcast, please check out  
+**[7557.10s] English:** To support this podcast, please check out!  
 **Translation:** 
 
-**[7560.00s] English:** our sponsors in the description. And now, let me leave you with some words from Stanislav Lem  
+**[7560.00s] English:** Our sponsors in the description. And now, let me leave you with some words from Stanislaw Lem.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[7565.22s] English:** and Solaris. How do you expect to communicate with the ocean when we can't even understand  
+**[7565.22s] English:** And Solaris. How do you expect to communicate with the ocean when we can't even understand it ourselves?  
 **Translation:** 
 
-**[7571.34s] English:** one another? Thank you for listening, and hope to see you next time.  
+**[7571.34s] English:** One another? Thank you for listening, and hope to see you next time.  
 **Translation:** 
 
 

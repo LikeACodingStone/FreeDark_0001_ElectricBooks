@@ -1,5 +1,6 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Censorship & Free Speech ｜ Lex Fridman Podcast #397.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** If the goal is the project of human knowledge, which is to know the world as it is, you cannot know the world as it is without knowing what people really think.  
 **Translation:** 
@@ -7,34 +8,34 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[10.44s] English:** And what people really think is an incredibly important fact to know.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[14.80s] English:** So every time you're actually saying you can't say that, you're actually depriving yourself of the knowledge of what people really think.  
+**[14.80s] English:** So, every time you're actually saying you can't say that, you're actually depriving yourself of the knowledge of what people really think.  
 **Translation:** 
 
-**[21.74s] English:** You're causing what Timur Karan, who's on our board of advisors, calls preference falsification.  
-**Translation:** Vocabulary: depriving: 剥夺; falsification: 虚假
+**[21.74s] English:** You're causing what Timur Karan, who's on our Board of Advisors, calls preference falsification.  
+**Translation:** Vocabulary: advisors: 顾问; depriving: 剥夺; falsification: 虚假
 
 **[26.34s] English:** You end up with an inaccurate picture of the world, which, by the way, in a lot of cases, because there are activists who want to restrict more speech, they actually tend to think that people are more prejudiced than they might be.  
 **Translation:** 
 
-**[38.30s] English:** And actually, one very real practical way it makes things worse is when you censor people, it doesn't change their opinion.  
+**[38.30s] English:** And actually, one very real and practical way it makes things worse is when you censor people; it doesn't change their opinion.  
 **Translation:** Vocabulary: censor: 审查; inaccurate: 不准确; prejudiced: 有偏见
 
 **[46.38s] English:** It just encourages them to not share it with people who will get them in trouble.  
 **Translation:** 
 
 **[50.58s] English:** So it leads them to talk to people who they already agree with, and group polarization takes off.  
+**Translation:** Vocabulary: polarization: 极化
+
+**[56.34s] English:** The following is a conversation with Greg Lukianoff, free speech advocate, first amendment attorney, President and CEO of FIRE, the Foundation for Individual Rights and Expression.  
 **Translation:** 
 
-**[56.34s] English:** The following is a conversation with Greg Lukianoff, free speech advocate, First Amendment attorney, president and CEO of FIRE, the Foundation for Individual Rights and Expression.  
+**[68.40s] English:** And he's the author of *Unleashing Liberty*, co-author with Jonathan Haidt of *The Coddling of the American Mind*, and co-author with Ricky Schlott of a new book coming out in October that you should definitely pre-order now, called *The Canceling of the American Mind*.  
+**Translation:** Vocabulary: advocate: 提倡者; canceling: 取消; coddling: 溺爱; unleashing: 释放
+
+**[86.34s] English:** Which is a definitive accounting of the history, present, and future of cancel culture—a term used and overused in public discourse, but rarely studied and understood with the depth and rigor that Greg and Ricky do in this book, and in part in this conversation.  
 **Translation:** 
 
-**[68.40s] English:** And he's the author of Unleashing Liberty, co-author with Jonathan Haidt of Coddling of the American Mind, and co-author with Ricky Schlott of a new book coming out in October that you should definitely pre-order now called The Canceling of the American Mind.  
-**Translation:** 
-
-**[86.34s] English:** Which is a definitive accounting of the history, present, and future of cancel culture, a term used and overused in public discourse, but rarely studied and understood with the depth and rigor that Greg and Ricky do in this book, and in part in this conversation.  
-**Translation:** 
-
-**[104.44s] English:** Freedom of speech is important, especially on college campuses, the very place that should serve as the battleground of ideas, including weird and controversial ones.  
+**[104.44s] English:** Freedom of speech is important, especially on college campuses—the very places that should serve as the battleground of ideas, including weird and controversial ones.  
 **Translation:** 
 
 **[115.78s] English:** That should.  
@@ -46,67 +47,67 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[120.00s] English:** This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description.  
 **Translation:** 
 
-**[126.70s] English:** And now, dear friends, here's Greg Lukianoff.  
+**[126.70s] English:** And now, dear friends: here's Greg Lukianoff.  
 **Translation:** Vocabulary: friedman: 弗里德曼; lukianoff: 卢基安诺夫; sponsors: 赞助商
 
-**[130.82s] English:** Let's start with the big question. What is cancel culture?  
+**[130.82s] English:** Let's start with the big question: What is cancel culture?  
 **Translation:** 
 
-**[134.68s] English:** Now, you've said that you don't like the term as it's been, quote,  
+**[134.68s] English:** Now, you've said that you don't like the term as it's been, "quote,  
 **Translation:** 
 
-**[137.76s] English:** dragged through the mud and abused endlessly by a whole host of controversial figures.  
+**[137.76s] English:** Dragged through the mud and abused endlessly by a whole host of controversial figures.  
 **Translation:** 
 
 **[142.98s] English:** Nevertheless, we have the term. What is it?  
-**Translation:** Vocabulary: endlessly: 无尽地
+**Translation:** Vocabulary: abused: 被虐待; endlessly: 无止尽地
 
 **[144.90s] English:** Cancel culture is the uptick of campaigns, especially successful campaigns,  
 **Translation:** 
 
-**[150.50s] English:** starting around 2014 to get people fired, expelled, deplatformed, etc.  
-**Translation:** Vocabulary: deplatformed: 被逐出平台; expelled: 被开除
-
-**[157.30s] English:** for speech that would normally be protected by the First Amendment.  
+**[150.50s] English:** Starting around 2014, people were fired, expelled, or deplatformed, etc.  
 **Translation:** 
 
-**[161.64s] English:** I say would be protected because we're talking about circumstances in which it isn't necessarily where the First Amendment applies.  
+**[157.30s] English:** For speech that would normally be protected by the First Amendment.  
 **Translation:** 
 
-**[168.20s] English:** But what I mean is like as an analog to, say, things you couldn't lose your job as a public employee for.  
+**[161.64s] English:** I say it would be protected because we're talking about circumstances in which it isn't necessarily where the First Amendment applies.  
 **Translation:** 
 
-**[175.54s] English:** And also the climate of fear that's resulted from that phenomenon.  
+**[168.20s] English:** But what I mean is, like, as an analog to things you couldn't lose your job for as a public employee.  
+**Translation:** 
+
+**[175.54s] English:** And also, the climate of fear that has resulted from that phenomenon.  
 **Translation:** Vocabulary: analog: 类比
 
 **[180.76s] English:** The fact that you can lose your job for having the wrong opinion.  
 **Translation:** 
 
-**[183.46s] English:** And it wasn't subtle that there was an uptick in this, particularly on campus around 2014.  
+**[183.46s] English:** And it wasn't subtle that there was an uptick in this, particularly on campus, around 2014.  
 **Translation:** 
 
-**[189.70s] English:** John Ronson wrote a book called So You've Been Publicly Shamed.  
+**[189.70s] English:** John Ronson wrote a book called "So You've Been Publicly Shamed.  
 **Translation:** 
 
-**[192.74s] English:** They came out in 2015 already documenting this phenomena.  
-**Translation:** Vocabulary: documenting: 记录
+**[192.74s] English:** They came out in 2015, already documenting this phenomenon.  
+**Translation:** Vocabulary: documenting: 记录; shamed: 羞辱
 
-**[195.58s] English:** I wrote a book called Freedom from Speech in 2014.  
+**[195.58s] English:** I wrote a book called "Freedom from Speech" in 2014.  
 **Translation:** 
 
-**[199.40s] English:** But it really was in 2017 when you started seeing this be directed at professors.  
+**[199.40s] English:** But it really was in 2017 when you started seeing this directed at professors.  
 **Translation:** 
 
 **[204.38s] English:** And that's...  
 **Translation:** 
 
-**[204.90s] English:** When it comes to the number of professors that we've seen, you know, be targeted and lose their jobs.  
+**[204.90s] English:** When it comes to the number of professors that we've seen be targeted and lose their jobs, you know.  
 **Translation:** 
 
-**[210.40s] English:** I've been doing this for 22 years and I've seen nothing like it.  
+**[210.40s] English:** I've been doing this for 22 years, and I've seen nothing like it.  
 **Translation:** 
 
-**[214.32s] English:** So there's so many things I want to ask you here.  
+**[214.32s] English:** So, there are so many things I want to ask you here.  
 **Translation:** 
 
 **[217.04s] English:** One, actually, just look at the organization of FIRE.  
@@ -115,13 +116,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[219.26s] English:** Can you explain what the organization is?  
 **Translation:** 
 
-**[221.24s] English:** Because it's interconnected to this whole fight and the rise of cancel culture and the fight for freedom of speech since 2014 and before.  
+**[221.24s] English:** Because it's interconnected to this whole fight, and the rise of cancel culture and the fight for freedom of speech since 2014 and before.  
 **Translation:** 
 
-**[230.42s] English:** So FIRE was founded in 1999 by Harvey Sloverglate.  
-**Translation:** Vocabulary: interconnected: 相互关联
+**[230.42s] English:** So, FIRE was founded in 1999 by Harvey Sloverglate.  
+**Translation:** Vocabulary: interconnected: 互相连接
 
-**[234.38s] English:** He is a...  
+**[234.38s] English:** He is a....  
 **Translation:** 
 
 **[234.90s] English:** A famous civil liberties attorney.  
@@ -130,115 +131,115 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[236.62s] English:** He's a bit on the show.  
 **Translation:** 
 
-**[238.58s] English:** He's the person who actually found...  
+**[238.58s] English:** He's the person who actually found....  
 **Translation:** 
 
-**[240.00s] English:** me out in my very happy life out in San Francisco, but knew I was looking for a First Amendment job.  
+**[240.00s] English:** In my very happy life out in San Francisco, but I knew I was looking for a First Amendment job.  
 **Translation:** 
 
-**[246.34s] English:** I'd gone to law school specifically to do First Amendment, and he found me, which was pretty cool.  
+**[246.34s] English:** I went to law school specifically to do First Amendment work, and he found me, which was pretty cool.  
 **Translation:** 
 
-**[253.02s] English:** His protege, Kathleen Sullivan, was the dean of Stanford Law School, and this remains the  
+**[253.02s] English:** His protégé, Kathleen Sullivan, was the dean of Stanford Law School, and this remains the  
 **Translation:** 
 
-**[257.50s] English:** best compliment I ever got in my life, is that she recommended me to Harvey. And since that's  
-**Translation:** Vocabulary: kathleen: 凯瑟琳; protege: 得意门生; stanford: 斯坦福; sullivan: 苏利文
+**[257.50s] English:** Best compliment I ever got in my life is that she recommended me to Harvey. And since then,...  
+**Translation:** Vocabulary: kathleen: 凯瑟琳; stanford: 斯坦福; sullivan: 苏利文
 
-**[264.92s] English:** the whole reason why I went to law school, I was excited to be a part of this new organization.  
+**[264.92s] English:** The whole reason why I went to law school was that I was excited to be a part of this new organization.  
 **Translation:** 
 
 **[268.22s] English:** The other co-founder of FIRE is Alan Charles Kors. He's just an absolute genius. He is one of  
 **Translation:** 
 
-**[276.24s] English:** the leading experts in the world on the Enlightenment, and particularly about Voltaire.  
+**[276.24s] English:** The leading experts in the world on the Enlightenment, and particularly about Voltaire.  
 **Translation:** 
 
-**[281.14s] English:** And if any of your listeners do like the great courses, he has a lecture on Blaise Pascal.  
-**Translation:** Vocabulary: blaise: 布莱士; enlightenment: 启蒙运动; listeners: 听众; pascal: 帕斯卡; voltaire: 伏尔泰
+**[281.14s] English:** And if any of your listeners do like The Great Courses, he has a lecture on Blaise Pascal.  
+**Translation:** Vocabulary: blaise: 布莱兹; enlightenment: 启蒙运动; listeners: 听众; pascal: 帕斯卡; voltaire: 伏尔泰
 
-**[287.92s] English:** And Blaise, of course, is famous for Pascal's wager. And I left it just so moved and impressed  
+**[287.92s] English:** And Blaise, of course, is famous for Pascal's Wager. And I left just so moved and impressed.  
 **Translation:** 
 
-**[294.78s] English:** and with a depth of understanding of how important this person  
-**Translation:** Vocabulary: wager: 赌注
+**[294.78s] English:** And with a depth of understanding of how important this person is.  
+**Translation:** Vocabulary: wager: 打赌
 
-**[297.94s] English:** is.  
+**[297.94s] English:** Is.  
 **Translation:** 
 
-**[298.22s] English:** That's interesting. You mentioned to me offline, connected to this, that at least it runs in  
+**[298.22s] English:** That's interesting. You mentioned to me offline, connected to this, that at least it runs in.  
 **Translation:** 
 
-**[306.22s] English:** parallel, or there's a connection between the love of science and the love of the freedom of speech.  
+**[306.22s] English:** Parallel, or there is a connection between the love of science and the love of freedom of speech.  
 **Translation:** 
 
 **[310.60s] English:** Yes.  
-**Translation:** 
+**Translation:** Vocabulary: parallel: 平行
 
 **[311.36s] English:** Can you maybe elaborate where that connection is?  
 **Translation:** 
 
 **[314.42s] English:** Sure. I think that for those of us who have devoted our lives to freedom of speech,  
-**Translation:** Vocabulary: elaborate: 详细说明
+**Translation:** Vocabulary: devoted: 献身; elaborate: 详述
 
-**[320.56s] English:** one thing that we are into, whether we know it or not, is epistemology. The study in philosophy,  
+**[320.56s] English:** One thing that we are into, whether we know it or not, is epistemology: the study in philosophy,  
 **Translation:** 
 
-**[328.22s] English:** the study of knowledge. Freedom of speech has lots of moral and philosophical dimensions,  
+**[328.22s] English:** The study of knowledge. Freedom of speech has many moral and philosophical dimensions,  
 **Translation:** Vocabulary: dimensions: 维度; epistemology: 认识论; philosophical: 哲学的
 
-**[334.32s] English:** but from a pragmatic standpoint, it is necessary because we're creatures of incredibly limited  
+**[334.32s] English:** But, from a pragmatic standpoint, it is necessary because we are creatures of incredibly limited capacity.  
 **Translation:** 
 
-**[340.10s] English:** knowledge. We are incredibly self-deceiving. I always love the fact that Yuval Harari  
-**Translation:** Vocabulary: harari: 赫拉利; pragmatic: 实用; standpoint: 观点
+**[340.10s] English:** Knowledge. We are incredibly self-deceived. I always love the fact that Yuval Harari  
+**Translation:** Vocabulary: pragmatic: 实用; standpoint: 立场
 
-**[345.38s] English:** refers to the Enlightenment as the discovery of ignorance, because that's exactly what it was.  
+**[345.38s] English:** Refers to the Enlightenment as "the discovery of ignorance," because that's exactly what it was.  
 **Translation:** 
 
-**[351.54s] English:** It was suddenly being like, wow, hold on a second. All this incredibly interesting folk wisdom we  
+**[351.54s] English:** It was suddenly like, "Wow, hold on a second." All this incredibly interesting folk wisdom we  
+**Translation:** Vocabulary: ignorance: 无知
+
+**[357.78s] English:** Got, which by the way, is not necessarily the truth. It's not necessarily the truth. It's not  
 **Translation:** 
 
-**[357.78s] English:** got, which by the way, is not necessarily the truth. It's not necessarily the truth. It's not  
+**[358.20s] English:** Necessarily the truth? By the way, it can be surprising.  
 **Translation:** 
 
-**[358.20s] English:** necessarily the truth. By the way, it can be surprising.  
+**[360.00s] English:** Surprisingly, it's been reliable here and there. When you start testing, a lot of it is just nonsense and it  
 **Translation:** 
 
-**[360.00s] English:** surprisingly reliable here and there. When you start testing, a lot of it is nonsense and it  
+**[366.32s] English:** Doesn't hold up. Even our ideas about the way things fall, as Galileo established, even our  
+**Translation:** Vocabulary: galileo: 伽利略
+
+**[372.62s] English:** Intuitions are just wrong. And so, a lot of the early history of free speech, it was  
 **Translation:** 
 
-**[366.32s] English:** doesn't hold up. Even our ideas about the way things fall, as Galileo established, even our  
+**[379.96s] English:** Happening at the same time as sort of the Scientific Revolution, so a lot of the early debates about...  
+**Translation:** Vocabulary: intuitions: 直觉
+
+**[386.10s] English:** Freedom of speech were tied in. So, certainly, Galileo—I always point out—that Kepler was.  
 **Translation:** 
 
-**[372.62s] English:** intuitions, they're just wrong. And so a lot of the early history of freedom of speech, it was  
+**[393.24s] English:** Probably, the even more radical idea is that there aren't even perfect spheres. But at the  
+**Translation:** Vocabulary: kepler: 开普勒; spheres: 球体
+
+**[397.78s] English:** At the same time, largely because of the invention of the printing press, you also had all these political  
 **Translation:** 
 
-**[379.96s] English:** happening at the same time as sort of the scientific revolution. So a lot of the early debates about  
-**Translation:** 
-
-**[386.10s] English:** freedom of speech were tied in. So certainly Galileo, I always point out like Kepler was  
-**Translation:** 
-
-**[393.24s] English:** probably like the even more radical idea that there weren't even perfect spheres. But at the  
-**Translation:** Vocabulary: galileo: 伽利略; kepler: 开普勒
-
-**[397.78s] English:** same time, largely because of the invention of the printing press, you also had all these political  
-**Translation:** 
-
-**[402.20s] English:** developments. And I always talk about Jan Hus, a famous Czech hero who was burned at the stake,  
-**Translation:** 
+**[402.20s] English:** Developments. And I always talk about Jan Hus, a famous Czech hero who was burned at the stake.  
+**Translation:** Vocabulary: czech: 捷克的
 
 **[414.02s] English:** I think in 1419.  
 **Translation:** 
 
 **[416.10s] English:** But he was basically Luther before the printing press. Before Luther could get his word out,  
+**Translation:** Vocabulary: luther: 路德
+
+**[423.60s] English:** You know, he didn't stand a chance. And that was exactly what Jan Hus was. But a century later,...  
 **Translation:** 
 
-**[423.60s] English:** you know, he didn't stand a chance. And that was exactly what Jan Hus was. But a century later,  
-**Translation:** 
-
-**[428.14s] English:** thanks to the printing press, everyone could know what Luther thought. And boy, did they.  
+**[428.14s] English:** Thanks to the printing press, everyone could know what Luther thought. And boy, did they.  
 **Translation:** 
 
 **[432.88s] English:** But it led to, of course, this completely crazy, hyper-disrupted period in European history.  
@@ -247,73 +248,73 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[440.58s] English:** Well, you mentioned, to jump around a little bit, the First Amendment. First of all,  
 **Translation:** 
 
-**[444.24s] English:** what is the First Amendment? And what is,  
+**[444.24s] English:** What is the First Amendment? And what is,  
 **Translation:** 
 
-**[446.10s] English:** the connection to you between the First Amendment, the freedom of speech, and cancel culture?  
+**[446.10s] English:** The connection between the First Amendment, freedom of speech, and cancel culture?  
 **Translation:** 
 
-**[451.12s] English:** Sure. So I'm a First Amendment lawyer, as I mentioned. And that's what I,  
+**[451.12s] English:** Sure. So, I'm a First Amendment lawyer, as I mentioned, and that's what I,  
 **Translation:** 
 
-**[456.70s] English:** it's my passion. That's what I studied. And I think American First Amendment law is incredibly  
+**[456.70s] English:** It's my passion. That's what I studied, and I think American First Amendment law is incredibly.  
 **Translation:** 
 
-**[460.08s] English:** interesting. In one sentence, the First Amendment is trying to get rid of basically all the reasons  
+**[460.08s] English:** Interesting. In one sentence, the First Amendment is trying to get rid of basically all the reasons for government censorship.  
 **Translation:** 
 
-**[466.58s] English:** why humankind had been killing each other for its entire existence. That we weren't going to  
-**Translation:** Vocabulary: humankind: 人类
+**[466.58s] English:** Why has humankind been killing each other for its entire existence? That we weren't going to  
+**Translation:** Vocabulary: censorship: 审查; humankind: 人类
 
-**[471.78s] English:** fight any more over opinion. We weren't going to fight any more of religion. That you have the  
+**[471.78s] English:** Fight any more over opinions. We weren't going to fight anymore about religion. That you have the  
 **Translation:** 
 
-**[475.88s] English:** right to approach your government for redress and grievances. That you have the freedom to  
+**[475.88s] English:** Right, you have the right to approach your government for redress and grievances. That you have the freedom to  
 **Translation:** Vocabulary: grievances: 不满
 
-**[480.00s] English:** That all of these things in one sentence, we're like, nope, the government will no longer interfere with your right to have these fundamental human rights.  
+**[480.00s] English:** That, in one sentence, we're like, "Nope, the government will no longer interfere with your right to have these fundamental human rights.  
 **Translation:** 
 
-**[491.92s] English:** And so one thing that makes FIRE a little different from other organizations is, however, we're not just a First Amendment organization.  
+**[491.92s] English:** And so, one thing that makes FIRE a little different from other organizations is: however, we're not just a First Amendment organization.  
 **Translation:** Vocabulary: interfere: 干涉
 
 **[499.86s] English:** We are a free speech organization.  
 **Translation:** 
 
-**[501.98s] English:** And so and but at the same time, a lot of what I think free speech is can be well explained with reference to a lot of First Amendment law, partially because in American history, some of our smartest people have been thinking about what the parameters of freedom of speech are in relationship to the First Amendment.  
+**[501.98s] English:** And so, and but at the same time, a lot of what I think free speech is can be well explained with reference to a lot of First Amendment law. Partially because, in American history, some of our smartest people have been thinking about what the parameters of freedom of speech are in relationship to the First Amendment.  
 **Translation:** 
 
-**[523.16s] English:** And a lot of those principles, they transfer very well just as pragmatic ideas.  
+**[523.16s] English:** And a lot of those principles transfer very well just as pragmatic ideas.  
 **Translation:** 
 
-**[527.96s] English:** So like the biggest sin in terms of censorship is called viewpoint.  
-**Translation:** Vocabulary: censorship: 审查制度; pragmatic: 实用主义
+**[527.96s] English:** So, like, the biggest sin in terms of censorship is called viewpoint.  
+**Translation:** Vocabulary: pragmatic: 实用; viewpoint: 观点
 
-**[531.98s] English:** Discrimination that essentially you allow freedom of speech except for that opinion.  
+**[531.98s] English:** Discrimination that essentially allows freedom of speech, except for that particular opinion.  
 **Translation:** 
 
-**[536.48s] English:** Now, it's and it's found to be kind of more defensible.  
+**[536.48s] English:** Now, it's found to be kind of more defensible.  
 **Translation:** Vocabulary: defensible: 可辩护的
 
-**[539.92s] English:** And I think this makes sense that if if you set up a forum and like we're only going to talk about economics to exclude people who want to talk about a different topic, but it's considered rightfully a bigger deal.  
+**[539.92s] English:** And I think this makes sense: if you set up a forum and, like, we're only going to talk about economics, to exclude people who want to discuss a different topic—but it's considered rightfully a bigger deal.  
 **Translation:** 
 
-**[551.04s] English:** If you set up a forum for economics, but we're not going to let people talk about that kind of economics or have that opinion on economics, most most particularly.  
+**[551.04s] English:** If you set up a forum for economics, but we're not going to let people talk about that kind of economics or have that opinion on economics—most particularly.  
+**Translation:** Vocabulary: exclude: 排除
+
+**[560.60s] English:** So, a lot of the principles from.  
 **Translation:** 
 
-**[560.60s] English:** So a lot of the principles from.  
-**Translation:** 
-
-**[561.98s] English:** First Amendment law actually make a lot of philosophical sense as good principles for when like what is protected, unprotected speech, what should get you in trouble, how you actually analyze it, which is why we actually try in our definition of cancel culture to work in some of the First Amendment norms just in the definition.  
+**[561.98s] English:** First Amendment law actually makes a lot of philosophical sense as good principles for determining what is protected, unprotected speech, what should get you in trouble, and how you actually analyze it. That is why we try, in our definition of cancel culture, to work in some of the First Amendment norms just in the definition.  
 **Translation:** Vocabulary: philosophical: 哲学上的; unprotected: 不受保护的
 
-**[579.66s] English:** So we don't have to bog down on them as well.  
+**[579.66s] English:** So, we don't have to bog down on them as well.  
 **Translation:** 
 
-**[581.98s] English:** You're saying so many interesting things, but if you can link on the viewpoint discrimination, is there any gray area of discussion there?  
+**[581.98s] English:** You're saying so many interesting things, but if you can link it to viewpoint discrimination, is there any gray area of discussion there?  
 **Translation:** 
 
-**[589.22s] English:** Like what isn't isn't economics for the example?  
+**[589.22s] English:** Like, what isn't economics in the example?  
 **Translation:** 
 
 **[591.80s] English:** You gave.  
@@ -322,130 +323,130 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[592.64s] English:** Yeah.  
 **Translation:** 
 
-**[593.42s] English:** Is there is there I mean, is it a science or is it an art to draw lines of what isn't isn't allowed?  
+**[593.42s] English:** Is there a science or is it an art to draw lines of what isn't allowed?  
 **Translation:** 
 
-**[600.00s] English:** Yeah. You know, if you're saying that something is or is not economics, well, you can say everything's economics and therefore I want to talk about poetry. There'd be some line drawing exercise in there. But let's say at once you decide to open up to poetry even. It's a big difference between saying, OK, now we're open to poetry, but you can't say, you know, Dante was bad.  
+**[600.00s] English:** Yeah. You know, if you're saying that something is or is not economics, well, you can say everything's economics and therefore I want to talk about poetry. There'd be some line-drawing exercise in there. But let's say at once you decide to open up to poetry even— it's a big difference between saying, "OK, now we're open to poetry," but you can't say, "you know, Dante was bad.  
 **Translation:** 
 
-**[621.72s] English:** Like that's a that's a forbidden opinion now officially in this otherwise open forum that would immediately at an intuitive level strike people as a bigger problem than just saying that poetry isn't economics.  
+**[621.72s] English:** Like that's a forbidden opinion now, officially in this otherwise open forum, that would immediately at an intuitive level strike people as a bigger problem than just saying that poetry isn't economics.  
 **Translation:** Vocabulary: dante: 但丁; intuitive: 直觉
 
-**[634.50s] English:** Yeah, I mean, that intuitive level that you speak to. I hope that all of us have that kind of basic intuition when the line is crossed. It's the same thing for like pornography.  
+**[634.50s] English:** Yeah, I mean, that intuitive level that you speak to. I hope that all of us have that kind of basic intuition when the line is crossed. It's the same thing for things like pornography.  
 **Translation:** 
 
 **[647.38s] English:** Yes.  
-**Translation:** Vocabulary: intuition: 直觉; pornography: 色情
+**Translation:** Vocabulary: intuition: 直觉; pornography: 色情内容
 
-**[647.70s] English:** You know, when you see it. I think there's the same level of.  
+**[647.70s] English:** You know, when you see it, I think there's the same level of.  
 **Translation:** 
 
-**[651.72s] English:** Intuition that should be applied across the board here. And it's when that intuition becomes deformed by whatever forces of society, that's when it starts to feel like censorship.  
-**Translation:** Vocabulary: censorship: 审查制度
+**[651.72s] English:** Intuition that should be applied across the board here. And it's when that intuition becomes deformed by whatever forces of society that it starts to feel like censorship.  
+**Translation:** 
 
-**[662.52s] English:** Yeah, I mean, people find it a different thing. You know, if someone loses their job simply for their political opinion, even if that employer has every right in the world to fire you, I think Americans should still be like, well, it's true.  
+**[662.52s] English:** Yeah, I mean, people find it a different thing. You know, if someone loses their job simply for their political opinion, even if that employer has every right in the world to fire you, I think Americans should still be like, "Well, it's true.  
 **Translation:** 
 
 **[674.42s] English:** They have every right in the world. And I'm not making a legal case that maybe you shouldn't fire someone for their political opinion.  
-**Translation:** 
+**Translation:** Vocabulary: employer: 雇主
 
 **[680.76s] English:** But think that through.  
 **Translation:** 
 
-**[681.88s] English:** Like, what society do we want to what kind of society do we want to live in? And it's been funny watching, you know, and I point this out. Yes, I will defend businesses, First Amendment rights of association to be able to have the legal right to decide, you know, who works for them.  
+**[681.88s] English:** Like, what kind of society do we want to live in? And it's been funny watching— you know, and I point this out. Yes, I will defend businesses' First Amendment rights of association to be able to have the legal right to decide who works for them.  
 **Translation:** 
 
-**[699.64s] English:** But from a moral or philosophical matter, if you think through the implications of if every business in America becomes an expressive association, in addition to being a profit maximizing.  
+**[699.64s] English:** But, from a moral or philosophical standpoint, if you think through the implications of whether every business in America becomes an expressive association, in addition to being a profit-maximizing entity, ...  
 **Translation:** 
 
-**[711.72s] English:** Organization, that would be a disaster for democracy, because you would end up in a situation where people would actually be saying to themselves, I don't think I can act.  
-**Translation:** Vocabulary: expressive: 表达性的; maximizing: 最大化; philosophical: 哲学的
+**[711.72s] English:** Organization, that would be a disaster for democracy, because you would end up in a situation where people would actually be saying to themselves, "I don't think I can act.  
+**Translation:** Vocabulary: expressive: 表达性的; implications: 含义; philosophical: 哲学的; standpoint: 观点
 
-**[720.00s] English:** actually say what I really think and still believe I can keep my job. And that's where I was worried.  
+**[720.00s] English:** Actually, I say what I really think, and still believe I can keep my job. And that's where I was worried.  
 **Translation:** 
 
-**[725.62s] English:** I felt like we were headed because a lot of the initial response to people getting canceled was  
+**[725.62s] English:** I felt like we were heading in the wrong direction because a lot of the initial responses to people getting canceled were  
 **Translation:** 
 
-**[731.46s] English:** very simply, you know, oh, but they have the right to get rid of this person. And that's the end and  
+**[731.46s] English:** Very simply, you know, oh, but they have the right to get rid of this person. And that's the end.  
 **Translation:** 
 
-**[738.62s] English:** beginning and end of the discussion. And I thought that was a dodge. I thought that wasn't actually  
+**[738.62s] English:** At the beginning and end of the discussion, and I thought that was a dodge. I thought that wasn't actually  
 **Translation:** Vocabulary: dodge: 回避
 
-**[743.76s] English:** a very serious way of that if you care about both the First Amendment and freedom of speech of  
+**[743.76s] English:** A very serious way, if you care about both the First Amendment and freedom of speech,  
 **Translation:** 
 
-**[748.70s] English:** thinking it through. So to you, just to clarify, the First Amendment is kind of a legal embodiment  
-**Translation:** Vocabulary: embodiment: 体现
+**[748.70s] English:** Thinking it through, so to clarify for you, the First Amendment is kind of a legal embodiment,...  
+**Translation:** Vocabulary: clarify: 使清晰; embodiment: 体现
 
-**[757.88s] English:** of the ideal of freedom of speech. And if you know, it's applied to government, and it's very  
+**[757.88s] English:** Of the ideal of freedom of speech. And if you know, it's applied to governments, and it's very  
 **Translation:** 
 
-**[762.20s] English:** specific, it applied to government. And freedom of speech is the application of the principle  
+**[762.20s] English:** Specifically, it applied to government. And freedom of speech is the application of the principle.  
 **Translation:** 
 
-**[767.90s] English:** to like everything, including like kind of the high level, philosophical ideal of what it of  
+**[767.90s] English:** To like everything, including kind of the high-level, philosophical ideal of what it is.  
 **Translation:** 
 
-**[775.68s] English:** the value of people being able to speak their mind.  
+**[775.68s] English:** The value of people being able to speak their minds.  
 **Translation:** 
 
-**[778.70s] English:** Yeah, it's an older, bolder, more expansive idea. And you can have a situation. And I talk about  
+**[778.70s] English:** Yeah, it's an older, bolder, more expansive idea. And you can have a situation. And I talk about...  
 **Translation:** 
 
-**[786.78s] English:** countries that have good free speech law, but not necessarily great free speech culture. And I talk  
-**Translation:** Vocabulary: expansive: 宽广的
+**[786.78s] English:** Countries that have good free-speech laws, but not necessarily great free-speech cultures. And I talk  
+**Translation:** Vocabulary: bolder: 更勇敢; expansive: 更大胆
 
-**[791.52s] English:** about how, when we sometimes make this distinction between free speech law and free speech culture,  
+**[791.52s] English:** About how, when we sometimes make this distinction between free speech law and free speech culture,  
 **Translation:** 
 
-**[796.26s] English:** we're thinking in a very cloudy kind of way. And what I mean by that is, that law is generally  
+**[796.26s] English:** We're thinking in a very cloudy kind of way. And what I mean by that is that law is generally  
 **Translation:** 
 
-**[808.70s] English:** very préchamberist. Those judges are people, too, and a lot of cases, common law is supposed to actually take our intuitive ideas of fairness and place them, you know, into the law. So if you actually have a culture that doesn't appreciate free speech, from a philosophical standpoint, it's not going to be able to protect free speech for the long haul, even in the law, because eventually, that's one of the reasons why I worry so much about some of these terrible cases coming out of law schools. Because I fear that even though sure, American First Amendment law is very strongly protective of First Amendment law, but in many cases, it also protects us from the law, which is a huge issue in our society. It's one of those major reasons that are at stake in our society. It's one of the key issues here. I think that those are fundamental things that are going to be important to that environment, and that's the third, I think, key points that I would like to talk about.  
+**[808.70s] English:** Very pre-chamberist. Those judges are people, too, and in a lot of cases, common law is supposed to actually take our intuitive ideas of fairness and place them, you know, into the law. So if you actually have a culture that doesn't appreciate free speech from a philosophical standpoint, it's not going to be able to protect free speech for the long haul, even in the law, because eventually, that's one of the reasons why I worry so much about some of these terrible cases coming out of law schools. Because I fear that even though American First Amendment law is very strongly protective of free speech, in many cases, it also protects us from the law, which is a huge issue in our society. It's one of those major reasons at stake in our society. It's one of the key issues here. I think that these are fundamental things that are going to be important to that environment, and that's the third, I think, key point that I would like to talk about.  
 **Translation:** 
 
-**[836.76s] English:** Dr. Grant Williams  
+**[836.76s] English:** Dr. Grant Williams.  
 **Translation:** Vocabulary: intuitive: 直觉; philosophical: 哲学; standpoint: 立场
 
-**[836.88s] English:** law is very strongly protective of First Amendment. For now.  
+**[836.88s] English:** The law is very strongly protective of the First Amendment for now.  
 **Translation:** 
 
-**[840.00s] English:** Now, it's not going to stay that way if you have generations of law students graduating who actually think there's nothing there's no higher goal than shouting down you're an opponent.  
+**[840.00s] English:** Now, it's not going to stay that way if you have generations of law students graduating who actually think there's nothing higher in life than shouting down your opponent.  
+**Translation:** Vocabulary: opponent: 对手
+
+**[850.16s] English:** Yeah. So, that's why a large fraction of your focus is on higher education or the education period, because education is the foundation of culture.  
 **Translation:** 
 
-**[850.16s] English:** Yeah. So that's why so much of your focus or a large fraction of your focus is on the higher education or education period is because education is the foundation of culture.  
+**[862.92s] English:** Yeah. You have this history; for example, in 1964, you had the free speech movement at Berkeley.  
+**Translation:** Vocabulary: berkeley: 伯克利
+
+**[868.18s] English:** And in 1965, you have "Repressive Tolerance" by Herbert Marcuse, which was a declaration that, by the way, we on the left shouldn't just have free speech; we should have free speech for us.  
 **Translation:** 
 
-**[862.92s] English:** Yeah. You have this history, you know, 64, you have the free speech movement on Berkeley.  
-**Translation:** Vocabulary: berkeley: 伯克利大学
+**[881.28s] English:** I mean, I went back and reread "Repressive Tolerance" and how clear it is.  
+**Translation:** Vocabulary: repressive: 压迫性的; tolerance: 容忍
 
-**[868.18s] English:** And in 65, you have repressive tolerance by Herbert Marcuse, which was a declaration of, by the way, we on the left, we shouldn't we should have free speech, but we should have free speech for us.  
-**Translation:** 
-
-**[881.28s] English:** I mean, I went one back and reread repressive tolerance and how clear it is.  
-**Translation:** Vocabulary: marcuse: 马尔库塞; repressive: 压迫的; tolerance: 容忍
-
-**[887.40s] English:** I forgot I had forgotten that it really is kind of like and these so-called conservatives and right wingers, we need to repress them because they're regressive thinkers.  
+**[887.40s] English:** I forgot I had forgotten that it really is kind of like—and these so-called conservatives and right-wingers—we need to repress them because they're regressive thinkers.  
 **Translation:** 
 
 **[895.96s] English:** It really doesn't come out to anything more sophisticated.  
-**Translation:** Vocabulary: regressive: 保守思想; sophisticated: 高深; thinkers: 思想家
+**Translation:** Vocabulary: regressive: 保守思想; repress: 压制; sophisticated: 高深; thinkers: 思想家
 
-**[898.18s] English:** Then the very old idea that our people are good.  
+**[898.18s] English:** Then, the very old idea that our people are good.  
 **Translation:** 
 
 **[902.20s] English:** They get free speech.  
 **Translation:** 
 
-**[903.68s] English:** We should they should keep it.  
+**[903.68s] English:** We should, they should, keep it.  
 **Translation:** 
 
-**[905.56s] English:** Other side bad.  
+**[905.56s] English:** The other side is bad.  
 **Translation:** 
 
-**[907.38s] English:** We should not have and we have to retrain society.  
+**[907.38s] English:** We should not have, and we have to retrain society.  
 **Translation:** 
 
 **[910.94s] English:** And of course, like it ends up being another.  
@@ -454,8 +455,8 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[913.56s] English:** He was also a fan of Mao.  
 **Translation:** 
 
-**[914.92s] English:** So it's not surprising that he of course, the system would have to rely on some kind of totalitarian system.  
-**Translation:** 
+**[914.92s] English:** So, it's not surprising that he would think the system would have to rely on some kind of totalitarian system.  
+**Translation:** Vocabulary: totalitarian: 极权主义的
 
 **[922.16s] English:** But that was a laughable position.  
 **Translation:** 
@@ -463,346 +464,346 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[927.26s] English:** You know.  
 **Translation:** 
 
-**[928.18s] English:** Say, thirty, forty years ago, the idea that essentially, you know, free speech for me, not for the as the great free speech champion that Hentoff used to say was something that you were supposed to be embarrassed by.  
+**[928.18s] English:** Say, thirty or forty years ago, the idea that essentially, you know, free speech for me, but not for them—the great free speech champion that Hentoff used to say—was something you were supposed to be embarrassed by.  
 **Translation:** 
 
-**[940.72s] English:** But I saw this when I was in law school in ninety seven.  
+**[940.72s] English:** But I saw this when I was in law school in 1997.  
+**Translation:** Vocabulary: hentoff: 亨特福德
+
+**[944.74s] English:** I saw this when I was interning at the ACLU in 1999: that there was a slow-motion train wreck coming, that essentially there were these bad ideas from campus that had been taking on more and more traction.  
 **Translation:** 
 
-**[944.74s] English:** I saw this when I was interning at the ACLU in ninety nine that there was a slow motion train wreck coming that essentially there was these bad ideas from campus that had been taking on more and more.  
+**[958.16s] English:** Steam of basically  
 **Translation:** 
 
-**[958.16s] English:** steam of basically  
-**Translation:** Vocabulary: interning: 实习
-
-**[960.00s] English:** no free speech for my opponent, were actually becoming more and more accepted, and partially  
+**[960.00s] English:** No free speech for my opponent—that's actually becoming more and more accepted, and partially,  
 **Translation:** 
 
-**[966.12s] English:** because academia was becoming less and less viewpoint diverse. I think that, as my co-author  
-**Translation:** Vocabulary: academia: 学术界
+**[966.12s] English:** Because academia was becoming less and less viewpoint diverse, I think that, as my co-author,  
+**Translation:** Vocabulary: academia: 学术界; opponent: 对手; viewpoint: 观点
 
-**[972.10s] English:** Jonathan Haidt points out, that when you have low viewpoint diversity, people start thinking in a  
+**[972.10s] English:** Jonathan Haidt points out that, when you have low viewpoint diversity, people start thinking in a  
 **Translation:** 
 
-**[976.78s] English:** very kind of tribal way. And if you don't have the respected dissenters, you don't have the people  
-**Translation:** Vocabulary: tribal: 部落式
+**[976.78s] English:** Very much in a tribal way. And if you don't have the respected dissenters, you don't have the people.  
+**Translation:** Vocabulary: respected: 受尊重的; tribal: 部落似的
 
-**[982.00s] English:** that you can point to that are like, hey, this is a smart person. This is a smart, reasonable,  
+**[982.00s] English:** That you can point to, like, hey, this is a smart person. This is a smart, reasonable,  
 **Translation:** 
 
-**[987.06s] English:** decent person that I disagree with. So I guess not everyone thinks alike on this issue. You start  
+**[987.06s] English:** A decent person that I disagree with. So, I guess not everyone thinks alike on this issue. You start  
 **Translation:** 
 
-**[992.56s] English:** getting much more kind of like only bad people, only heretics, only blasphemers, only right-wingers  
+**[992.56s] English:** Getting much more like only bad people, only heretics, only blasphemers, only right-wingers.  
 **Translation:** 
 
-**[999.54s] English:** can actually think in this way. Every time you say something, I always have a million thoughts  
-**Translation:** Vocabulary: blasphemers: 亵渎者; heretics: 异端分子
+**[999.54s] English:** Can actually think in this way. Every time you say something, I always have a million thoughts.  
+**Translation:** Vocabulary: blasphemers: 亵渎者; heretics: 异教徒
 
-**[1005.82s] English:** and a million questions that pop up. But since you mentioned there's a kind of drift, as you write  
+**[1005.82s] English:** And a million questions pop up. But since you mentioned there's a kind of drift as you write,...  
 **Translation:** 
 
-**[1010.62s] English:** about in the book, and you mentioned now there's a drift towards the left in academia, which you  
-**Translation:** Vocabulary: drift: 偏移
+**[1010.62s] English:** About the book, and you mentioned that there's now a drift towards the left in academia, which you  
+**Translation:** Vocabulary: drift: 趋势
 
-**[1016.48s] English:** also maybe...  
+**[1016.48s] English:** Also, maybe...  
 **Translation:** 
 
-**[1017.06s] English:** We draw a distinction here between the left and the right, and the cancel culture, as you present  
+**[1017.06s] English:** We draw a distinction here between the left and the right, and the cancel culture, as you present it.  
 **Translation:** 
 
-**[1021.36s] English:** in your book, is not necessarily associated with any one political viewpoint, that there's  
+**[1021.36s] English:** In your book, it is not necessarily associated with any one political viewpoint; that there's  
 **Translation:** 
 
-**[1026.94s] English:** mechanisms on both sides that result in cancellation and censorship in violation of freedom of speech.  
+**[1026.94s] English:** Mechanisms on both sides that result in cancellation and censorship in violation of freedom of speech.  
 **Translation:** Vocabulary: cancellation: 取消; censorship: 审查
 
-**[1033.70s] English:** So one thing I want to be really clear about is the book takes on both right and left cancel  
+**[1033.70s] English:** So, one thing I want to be really clear about is that the book takes on both right- and left-wing cancel culture.  
 **Translation:** 
 
-**[1037.72s] English:** culture. They're different in a lot of ways, and definitely, you know, cancel culture from the left  
+**[1037.72s] English:** Culture. They're different in a lot of ways, and definitely, you know, cancel culture from the left.  
 **Translation:** 
 
-**[1042.96s] English:** is more important in academia, where the left is more dominated.  
+**[1042.96s] English:** Is it more important in academia, where the left is more dominant?  
 **Translation:** 
 
 **[1047.06s] English:** Right.  
+**Translation:** Vocabulary: academia: 学术界; dominant: 占主导
+
+**[1047.64s] English:** We talk a lot about cancel culture coming from legislatures. We talk a lot about cancel culture, but it also comes from other sources.  
 **Translation:** 
 
-**[1047.64s] English:** We talk a lot about cancel culture coming from legislatures. We talk a lot about cancel culture  
-**Translation:** 
-
-**[1053.48s] English:** on campus, as well. Because even though most of the attempts that come from on campus to get people  
+**[1053.48s] English:** On campus, as well. Because even though most of the attempts that come from on-campus sources to get people  
 **Translation:** Vocabulary: legislatures: 立法机关
 
-**[1060.76s] English:** cancelled are still from the left, there are a lot of attacks that come from the right, that come from  
+**[1060.76s] English:** Cancelled are still from the left. There are a lot of attacks that come from the right, that come from  
 **Translation:** 
 
-**[1066.24s] English:** attempts by different organizations, and sometimes when there are stories in Fox News,  
+**[1066.24s] English:** Attempts by different organizations, and sometimes when there are stories on Fox News,  
 **Translation:** 
 
-**[1071.84s] English:** you know, like they'll go after professors. And about one-third of the attempts to get professors,  
+**[1071.84s] English:** You know, like they'll go after professors, and about one-third of the attempts to get professors.  
 **Translation:** 
 
-**[1077.06s] English:** punished that are successful actually do come from the right  
+**[1077.06s] English:** Punished that are successful, however, actually do come from the right.  
 **Translation:** 
 
-**[1080.00s] English:** right. And we talk about attempts to get books banned in the book. We talk about suing the  
+**[1080.00s] English:** Right. And we talk about attempts to get books banned in the book. We talk about suing the  
 **Translation:** 
 
-**[1089.38s] English:** Florida legislature. Ron DeSantis had something called the Stop Woke Act, which we told everyone  
+**[1089.38s] English:** Florida Legislature. Ron DeSantis had something called the Stop Woke Act, which we told everyone:  
+**Translation:** Vocabulary: legislature: 立法机关
+
+**[1095.02s] English:** This is laughably unconstitutional. They tried to ban particular topics in higher education. And we're  
 **Translation:** 
 
-**[1095.02s] English:** this is laughably unconstitutional. They tried to ban particular topics in higher ed. And we're  
-**Translation:** 
-
-**[1101.60s] English:** like, no, this is a joke. This will be laughed out of court. And they didn't listen to us.  
+**[1101.60s] English:** Like, no, this is a joke. This will be laughed out of court. And they didn't listen to us.  
 **Translation:** Vocabulary: unconstitutional: 违宪的
 
 **[1107.90s] English:** And they passed it. And we sued. And we won. Now they're trying again with something that's  
 **Translation:** 
 
-**[1115.20s] English:** equally as unconstitutional. And we will sue again. And we will win.  
+**[1115.20s] English:** Equally as unconstitutional, and we will sue again. And we will win.  
 **Translation:** 
 
-**[1119.74s] English:** Can you elaborate on the Stop Woke Act? So this is presumably trying to limit  
+**[1119.74s] English:** Can you elaborate on the Stop Woke Act? So, this is presumably trying to limit  
 **Translation:** 
 
-**[1123.28s] English:** certain topics from being taught in school?  
+**[1123.28s] English:** Certainly: Should certain topics be kept from being taught in school?  
 **Translation:** Vocabulary: elaborate: 详细说明; presumably: 大概
 
 **[1126.06s] English:** Yeah. Basically, woke topics. It came out of the sort of attempt to get at critical race theory.  
 **Translation:** 
 
-**[1132.90s] English:** So it's topics related to race, gender, et cetera. I don't remember,  
-**Translation:** Vocabulary: cetera: 等等
-
-**[1137.90s] English:** exactly how they tried to cabinet to CRT. But when you actually, the law is really well  
+**[1132.90s] English:** So, it's topics related to race, gender, etc. I don't remember.  
 **Translation:** 
 
-**[1145.48s] English:** established that you can't tell higher education what they're allowed to teach without violating  
-**Translation:** Vocabulary: violating: 违反
-
-**[1151.02s] English:** the First Amendment. And when this got in front of a judge, he was exactly as skeptical of it as  
+**[1137.90s] English:** Exactly how they tried to implement CRT. But when you actually look at the law, it's really well-designed.  
 **Translation:** 
 
-**[1159.60s] English:** we thought he'd be. I think he called this dystopian. And it wasn't a close call.  
-**Translation:** Vocabulary: dystopian: 乌托邦反面; skeptical: 怀疑
+**[1145.48s] English:** Established that you can't tell higher education what they're allowed to teach without violating...  
+**Translation:** Vocabulary: implement: 执行; violating: 侵犯
 
-**[1164.80s] English:** So if you're against that kind of teaching, the right way,  
+**[1151.02s] English:** The First Amendment. And when this got in front of a judge, he was exactly as skeptical of it as  
 **Translation:** 
 
-**[1167.90s] English:** to fight it is by making the case that it's not a good idea as part of the curriculum,  
+**[1159.60s] English:** We thought he'd be. I think he called this dystopian. And it wasn't a close call.  
+**Translation:** Vocabulary: dystopian: 乌托邦的反面; skeptical: 怀疑的
+
+**[1164.80s] English:** So, if you're against that kind of teaching (the right way),  
 **Translation:** 
 
-**[1172.54s] English:** as opposed to banning it from the curriculum.  
+**[1167.90s] English:** To fight it is by making the case that it's not a good idea as part of the curriculum.  
 **Translation:** 
 
-**[1174.40s] English:** Yeah. It just, the state doesn't have the power to simply say, to ban, you know, what professors  
+**[1172.54s] English:** As opposed to banning it from the curriculum.  
 **Translation:** 
 
-**[1181.20s] English:** in higher education teach. Now, it gets a little more complicated when you talk about K through 12,  
+**[1174.40s] English:** Yeah. It just is the case that the state doesn't have the power to simply ban what professors teach, you know.  
+**Translation:** Vocabulary: banning: 禁止
+
+**[1181.20s] English:** In higher education, teaching is straightforward. Now, it gets a little more complicated when you talk about K-12.  
 **Translation:** 
 
-**[1186.32s] English:** because the state has a role in deciding what public K through 12 teaches, because they're  
-**Translation:** 
+**[1186.32s] English:** Because the state has a role in deciding what public K-12 teaches, because they're  
+**Translation:** Vocabulary: straightforward: 简单明了
 
-**[1191.28s] English:** your kids. It's taxpayer funded. And generally, the legislature is involved.  
+**[1191.28s] English:** Your kids. It's taxpayer-funded. And generally, the legislature is involved.  
 **Translation:** 
 
 **[1197.20s] English:** There is democratic oversight of that process.  
+**Translation:** Vocabulary: legislature: 立法机关
+
+**[1200.00s] English:** So, for K-12, is there also a lean towards the left in terms of the administration that manages the curriculum?  
 **Translation:** 
 
-**[1200.00s] English:** So for K-12, is there also a lean towards the left in terms of the administration that manages the curriculum?  
+**[1205.96s] English:** Yeah, there definitely are issues in K-12. I mean, my kids go to public school; I have a five- and seven-year-old, and they have lovely teachers, but we have run into a lot of problems with education schools at FIRE.  
 **Translation:** 
 
-**[1205.96s] English:** Yeah, there definitely is in K-12. I mean, my kids go to public school. I have a five and a seven-year-old, and they have lovely teachers, but we have run into a lot of problems with education schools at FIRE.  
+**[1223.66s] English:** And a lot of the graduates of education schools end up being the administrators who clamp down on free speech in higher education. And so, I've been trying to think of positive ways to take on some of the problems that I see in K-12.  
 **Translation:** 
 
-**[1223.66s] English:** And a lot of the graduates of education school end up being the administrators who clamp down on free speech in higher education. And so I've been trying to think of positive ways to take on some of the problems that I see in K-12.  
+**[1237.18s] English:** I thought that the attempt to just dictate which books you won't teach—whether 10 or 20 or 200—was the wrong way to do it. Now, when it comes to deciding what books are in the curriculum, again, that's something the legislature actually can't have any say in, and that's pretty uncommon.  
+**Translation:** Vocabulary: clamp: 严格限制; dictate: 规定; uncommon: 不常见
+
+**[1253.66s] English:** It's pretty controversial in terms of the law. But when it comes to how you fight it, I had something that, since I'm kind of stuck with a formula, I called "Empowering the American Mind." I gave principles that were inconsistent with the sort of groupthink and heavy emphasis on identity politics that some of the critics are rightfully complaining about in K-12.  
 **Translation:** 
 
-**[1237.18s] English:** I thought that the attempt to just dictate you won't teach the following 10 books or 20 books or 200 books was the wrong way to do it. Now, when it comes to deciding what books are in the curriculum, again, that's something the legislature actually can't have some say in, and that's pretty uncommon.  
-**Translation:** Vocabulary: clamp: 严控; dictate: 规定; uncommon: 少见
-
-**[1253.66s] English:** It's pretty controversial in terms of the law. But when it comes to how you fight it, I had something that, since I'm kind of stuck with a formula, I called empowering of the American mind. I gave principles that were inconsistent with the sort of groupthink and heavy emphasis on identity politics that some of the critics are rightfully complaining about in K-12.  
-**Translation:** 
-
-**[1278.12s] English:** And that is actually in Canceling of the American Mind, but I have a more detailed explanation.  
+**[1278.12s] English:** And that is actually in "Canceling the American Mind," but I have a more detailed explanation.  
 **Translation:** Vocabulary: canceling: 取消; empowering: 赋权; groupthink: 团体思维
 
 **[1283.66s] English:** I have a more detailed explanation of it that I'm going to be putting up on my blog, The Eternally Radical Idea.  
 **Translation:** 
 
-**[1313.66s] English:** In K-12, you know, state legislatures, you know, they're part of that, and they can say, like, you should teach.  
+**[1313.66s] English:** In K-12, you know, state legislatures are part of that, and they can say, for example, "you should teach.  
 **Translation:** Vocabulary: legislatures: 立法机关
 
-**[1320.00s] English:** the following books right now of course people are always a little bit worried that um if you  
+**[1320.00s] English:** The following books, right now, of course, people are always a little bit worried that if you  
 **Translation:** 
 
-**[1324.16s] English:** uh if they were to recommend you know teach uh teach the declaration of independence you know  
+**[1324.16s] English:** Uh, if they were to recommend, you know, teaching the Declaration of Independence, you know,  
 **Translation:** 
 
-**[1330.00s] English:** that it will end up being well they're going to teach the declaration of independence was  
+**[1330.00s] English:** That it will end up being, well, they're going to teach the Declaration of Independence was.  
 **Translation:** 
 
-**[1333.04s] English:** just to protect slavery which yeah it wasn't yeah so teaching a particular topic matters which  
+**[1333.04s] English:** Just to protect slavery, which, yeah, it wasn't. So, teaching a particular topic matters, which  
 **Translation:** 
 
-**[1337.76s] English:** textbooks you choose which perspective you take all that kind of stuff yeah there's like religion  
+**[1337.76s] English:** Textbooks you choose, which perspective you take — all that kind of stuff; yeah, there's like religion.  
 **Translation:** 
 
-**[1342.16s] English:** starts to creep into the whole question of like how you know is the bible are you allowed to teach  
+**[1342.16s] English:** Starts to creep into the whole question of, like, how do you know if it's okay to teach from the Bible?  
 **Translation:** Vocabulary: creep: 渗透
 
-**[1347.36s] English:** into corporate that into education uh don't yeah i mean i'm i'm an atheist uh with an intense  
+**[1347.36s] English:** Into corporate and education, I don't really see a connection. Uh, don't get me wrong; I'm an atheist with an intense  
 **Translation:** 
 
-**[1354.16s] English:** interest in religion i actually read the entire bible this year just because i do stuff like that  
+**[1354.16s] English:** Interest in religion? I actually read the entire Bible this year, just because I do stuff like that.  
 **Translation:** Vocabulary: atheist: 无神论者
 
-**[1358.24s] English:** and i never actually had read it begin from beginning to end um then i read the quran  
+**[1358.24s] English:** And I never actually read it from beginning to end, then I read the Quran.  
 **Translation:** 
 
-**[1361.76s] English:** because you know and i'm going to try to do the book of mormon but you know well they started  
+**[1361.76s] English:** Because you know, I'm going to try to do the Book of Mormon, but you know, well, they started.  
 **Translation:** Vocabulary: mormon: 摩门教徒; quran: 古兰经
 
-**[1365.28s] English:** hey you're so fascinating um do you recommend doing that i think you should um just to know  
+**[1365.28s] English:** Hey, you're so fascinating. Um, do you recommend doing that? I think you should, just to know.  
 **Translation:** 
 
-**[1371.76s] English:** because it's such a touchstone um in in the way people talk about things it can get pretty  
+**[1371.76s] English:** Because it's such a touchstone, um, in the way people talk about things, it can get pretty...  
 **Translation:** Vocabulary: touchstone: 试金石
 
-**[1377.36s] English:** tedious but i even made myself read through all of the very specific instructions on how  
+**[1377.36s] English:** Tedious, but I even made myself read through all of the very specific instructions on how.  
 **Translation:** 
 
-**[1383.76s] English:** tall the different parts of the temple need to be and how long the garbs need to be and what shape  
-**Translation:** Vocabulary: garbs: 法衣; tedious: 单调乏味
+**[1383.76s] English:** All the different parts of the temple need to be considered, how long the garments should be, and what shape they should have.  
+**Translation:** Vocabulary: garments: 衣服; tedious: 单调乏味
 
-**[1388.80s] English:** they need to be and what like and those go on a lot um that it's surprisingly surprisingly  
+**[1388.80s] English:** They need to be addressed and what, like, and those issues go on a lot, um, that it's surprisingly...  
 **Translation:** 
 
-**[1395.68s] English:** big chunk of exodus um i thought that was more like in leviticus and deuteronomy um but then  
+**[1395.68s] English:** Big chunk of Exodus, um, I thought that was more like in Leviticus and Deuteronomy, um, but then...  
 **Translation:** Vocabulary: deuteronomy: 申命记; exodus: 出埃及记; leviticus: 利未记
 
-**[1400.88s] English:** you get to books like job you know wow i mean job is such a read and no way job originally  
+**[1400.88s] English:** You get to books like Job; you know, wow! I mean, Job is such a read, and no way Job was originally.  
 **Translation:** 
 
-**[1407.36s] English:** had that ending like job is basically it starts out of this perverse bet between god um and satan  
+**[1407.36s] English:** Had that ending, like a job is basically it starts out in this perverse bet between God and Satan.  
 **Translation:** Vocabulary: perverse: 邪恶的
 
-**[1415.60s] English:** about whether or not they can actually make a good man renounce god and initially they can't  
+**[1415.60s] English:** About whether or not they can actually make a good man renounce God, and initially, they can't.  
 **Translation:** 
 
-**[1419.84s] English:** it's all going very predictably and then they finally really torture job and he turns into the  
-**Translation:** Vocabulary: renounce: 放弃
+**[1419.84s] English:** It's all going very predictably, and then they finally really torture Job, and he turns into the  
+**Translation:** Vocabulary: renounce: 放弃; torture: 折磨
 
-**[1426.32s] English:** best why is god cruel how could god possibly exist how could a kind god do these things  
+**[1426.32s] English:** Best, why is God cruel? How could a kind God possibly exist? How could a kind God do these things?  
 **Translation:** 
 
-**[1432.08s] English:** and he beats he turns into like the best lawyer in the entire world and he defeats everyone all the  
+**[1432.08s] English:** And he beats them, turning into like the best lawyer in the entire world and defeating everyone all the  
+**Translation:** Vocabulary: defeating: 击败
+
+**[1437.36s] English:** People who come to argue with him, he argues the point.  
 **Translation:** 
 
-**[1437.36s] English:** people who come to argue with him he he argues the pan  
+**[1440.00s] English:** Off of them, and then suddenly at the end, God shows up, and He's like, "Um, you know, uh, I...  
 **Translation:** 
 
-**[1440.00s] English:** off of them and then suddenly at the end god shows up and he's like um well you know uh i  
+**[1447.40s] English:** I am everywhere, and it's a very confusing answer. He gives an answer kind of like "I am there when.  
 **Translation:** 
 
-**[1447.40s] English:** am everywhere and uh it's a very confusing answer he gives an answer kind of like i am there when  
-**Translation:** 
-
-**[1453.92s] English:** when when lionesses give birth and i am there and by the way there's this giant monster leviathan  
+**[1453.92s] English:** When lionesses give birth, and I am there, and by the way, there's this giant monster Leviathan.  
 **Translation:** Vocabulary: leviathan: 巨大怪兽
 
-**[1459.00s] English:** that's very big and it's very scary and i and i have to manage the universe and i'm kind of like  
+**[1459.00s] English:** That's very big, and it's very scary. And I have to manage the universe, and I'm kind of like  
 **Translation:** 
 
-**[1464.04s] English:** god are you saying that you're very busy is that it is that essentially your argument to job  
+**[1464.04s] English:** God, are you saying that you're very busy? Is that essentially your argument for not taking on the job?  
 **Translation:** 
 
-**[1470.46s] English:** and you don't mention the whole you don't mention the whole kind of like that i i have a bet that's  
+**[1470.46s] English:** And you don't mention the whole thing, kind of like that. I have a bet that's  
 **Translation:** 
 
-**[1476.26s] English:** why i was torturing you that doesn't come up and then at the end he decided god decides like job's  
+**[1476.26s] English:** Why I was torturing you doesn't come up, and then at the end, he decided; God decides, like Job's.  
 **Translation:** Vocabulary: torturing: 折磨
 
-**[1481.40s] English:** like oh no you're totally right i was totally wrong uh sorry um and i and god says i'm gonna  
+**[1481.40s] English:** Like, oh no, you're totally right. I was totally wrong. Uh, sorry, um, and I guess God says I'm gonna  
 **Translation:** 
 
-**[1486.36s] English:** punish those people who tried to argue with you and didn't didn't win so um so he gets rid of the  
+**[1486.36s] English:** Punish those people who tried to argue with you and didn't win, so he gets rid of them.  
 **Translation:** 
 
-**[1494.04s] English:** and then he gives job all his money back and all and it makes him super prosperous and i'm like  
+**[1494.04s] English:** And then he gives all his money back to the job, and it makes him super prosperous. I'm like,...  
 **Translation:** 
 
-**[1499.16s] English:** no way that was the original ending of that book like because this would like this was  
+**[1499.16s] English:** No way, that was the original ending of that book, like, because this wouldn't make sense.  
+**Translation:** Vocabulary: prosperous: 富有
+
+**[1504.20s] English:** Clearly, a beloved novel that they were like, but it can't have that ending, okay? So, so, so, yeah, so.  
 **Translation:** 
 
-**[1504.20s] English:** clearly a beloved novel that they were like but it can't have that ending okay so so so yeah so  
+**[1509.12s] English:** It's a long way of saying I actually think it's worthwhile. Some of it was, you're always kind of.  
 **Translation:** 
 
-**[1509.12s] English:** it's a long way of saying i actually think it's worthwhile some of it was you're always kind of  
+**[1513.68s] English:** Surprised when you end up in a part like, um, there are parts of it that will sneak up on you.  
 **Translation:** 
 
-**[1513.68s] English:** surprised when you end up in the part like um there are parts of it that will sneak up on you  
+**[1519.14s] English:** Kind of like Isaiah's a trip, um, Ecclesiastes, Depeche Mode.  
+**Translation:** Vocabulary: depeche: 德菲乐队; ecclesiastes: 传道书
+
+**[1523.18s] English:** You.  
 **Translation:** 
 
-**[1519.14s] English:** kind of like isaiah's a trip um ecclesiastes depeche mode  
-**Translation:** Vocabulary: depeche: 德菲模式; ecclesiastes: 使徒传
-
-**[1523.18s] English:** you  
-**Translation:** 
-
-**[1524.04s] English:** and you did you said you also uh the quran yeah which was fascinating so what is there it'd be  
+**[1524.04s] English:** And you did say you also, uh, the Quran, yeah, which was fascinating. So, what is there? It would be  
 **Translation:** Vocabulary: quran: 古兰经
 
-**[1529.64s] English:** interesting to ask is there a tension between the study of religious texts or the the following of  
+**[1529.64s] English:** Interesting to ask: Is there a tension between the study of religious texts or the following of?  
 **Translation:** 
 
-**[1536.52s] English:** religion and just believing in god and following the the various aspects of religion with freedom  
+**[1536.52s] English:** Religion, and just believing in God and following the various aspects of religion with freedom.  
 **Translation:** 
 
-**[1542.96s] English:** of speech um in the first amendment uh we we have something that we call the religion clause and i  
+**[1542.96s] English:** Of speech, um, in the First Amendment, uh, we have something that we call the religion clause, and I  
 **Translation:** 
 
-**[1549.20s] English:** have never liked calling it just that because it's two brilliant things right next to each other  
+**[1549.20s] English:** I have never liked calling it just that, because it's two brilliant things right next to each other.  
+**Translation:** Vocabulary: clause: 条款
+
+**[1554.04s] English:** The state may not establish an official religion, but it cannot interfere with your right to practice.  
 **Translation:** 
 
-**[1554.04s] English:** the state may not establish an official religion but it cannot interfere with your right to practice  
+**[1559.32s] English:** Your religion:  
 **Translation:** 
 
-**[1559.32s] English:** your religion  
-**Translation:** Vocabulary: cannot: 不能; interfere: 干涉
-
-**[1560.00s] English:** That's beautiful. Two things at the same time. And I think they're both exactly right. And I think sometimes the right gets very excited of the free exercise clause and the left gets very excited about establishment. And I like the fact that we have both of them together.  
+**[1560.00s] English:** That's beautiful. Two things at the same time, and I think they're both exactly right. And I think sometimes the right gets very excited about the free exercise clause, and the left gets very excited about the establishment clause. And I like the fact that we have both of them together.  
 **Translation:** 
 
-**[1574.72s] English:** Now, how does this relate to freedom of speech? And how does it relate to the curriculum like we were talking about? I actually think it would be great if public schools could teach the Bible, like in the sense of like read it as a historical document.  
+**[1574.72s] English:** Now, how does this relate to freedom of speech? And how does it relate to the curriculum, like we were talking about? I actually think it would be great if public schools could teach the Bible, like in the sense of reading it as a historical document.  
 **Translation:** 
 
-**[1589.50s] English:** But back when I was at the ACLU, every time I saw people trying this, it always turned into them actually advocating for a Catholic or a Protestant or some orthodox even kind of like read on religion.  
+**[1589.50s] English:** But, back when I was at the ACLU, every time I saw people trying this, it always turned into them actually advocating for a Catholic or a Protestant or some Orthodox, even kind of like reading on religion.  
 **Translation:** 
 
-**[1603.08s] English:** So if you actually.  
-**Translation:** Vocabulary: advocating: 提倡; orthodox: 正统
+**[1603.08s] English:** So, if you actually.  
+**Translation:** Vocabulary: advocating: 为...辩护; orthodox: 正统的
 
-**[1604.72s] English:** Make it into something advocating for a particular view on religion, then it crosses into the establishment class side.  
+**[1604.72s] English:** Make it into something advocating for a particular view on religion, and then it crosses into the Establishment Class side.  
 **Translation:** 
 
-**[1610.50s] English:** So Americans haven't figured out a way to actually teach it.  
+**[1610.50s] English:** So, Americans haven't figured out a way to actually teach it.  
 **Translation:** 
 
-**[1613.26s] English:** So it's probably better that you learn to learn about outside of a public school class.  
+**[1613.26s] English:** So, it's probably better that you learn to learn about outside of a public school class.  
 **Translation:** 
 
-**[1617.44s] English:** Do you think it's possible to teach religion from like world religions kind of course without disrespecting the religions?  
+**[1617.44s] English:** Do you think it's possible to teach about world religions in a course without disrespecting the religions?  
 **Translation:** 
 
-**[1629.54s] English:** I think the answer is it depends on from whose perspective.  
+**[1629.54s] English:** I think the answer is, "it depends on" from whose perspective.  
 **Translation:** 
 
-**[1633.08s] English:** Well, like the practitioners say.  
+**[1633.08s] English:** Well, as the practitioners say.  
 **Translation:** Vocabulary: practitioners: 从业者
 
 **[1634.72s] English:** You're like an orthodox follower of a particular religion.  
@@ -811,13 +812,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[1637.72s] English:** Yeah.  
 **Translation:** Vocabulary: follower: 信徒
 
-**[1639.12s] English:** Is it possible to not piss you off in teaching like all the major religions of the world?  
+**[1639.12s] English:** Is it possible to not piss you off in teaching, like all the major religions of the world?  
 **Translation:** 
 
-**[1645.06s] English:** For some people, the bottom line is you have to teach it as true.  
+**[1645.06s] English:** For some people, the bottom line is that you have to teach it as true.  
 **Translation:** 
 
-**[1651.40s] English:** And with that, under those conditions, then the answer is no, you can't teach it without offending someone, at least.  
+**[1651.40s] English:** And with that, under those conditions, then the answer is: No, you can't teach it without offending someone—at least.  
 **Translation:** 
 
 **[1658.34s] English:** Can't you say these people believe it's true?  
@@ -826,13 +827,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[1660.78s] English:** Can you reform it?  
 **Translation:** 
 
-**[1661.78s] English:** So you have to walk on eggshells, essentially.  
-**Translation:** 
+**[1661.78s] English:** So, you have to walk on eggshells, essentially.  
+**Translation:** Vocabulary: eggshells: 小心翼翼
 
 **[1663.84s] English:** You can.  
 **Translation:** 
 
-**[1664.58s] English:** You can try really hard, and you will still make some people angry, but serious people will be like, oh, no, you actually tried to be fair to the beliefs here.  
+**[1664.58s] English:** You can try really hard, and you will still make some people angry, but serious people will be like, "Oh, no, you actually tried to be fair to the beliefs here.  
 **Translation:** 
 
 **[1672.82s] English:** And I try to be respectful as much as I can about a lot of this.  
@@ -841,160 +842,160 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[1678.42s] English:** I still find myself much more drawn.  
 **Translation:** 
 
-**[1680.00s] English:** of both buddhism and stoicism though where do i go okay let's one interesting thing to get back  
+**[1680.00s] English:** Of both Buddhism and Stoicism, though, where do I go? Okay, let's see; one interesting thing to get back.  
 **Translation:** 
 
-**[1690.02s] English:** to college campuses is um fire keeps the college free speech rankings yes at rankings.thefire.org  
-**Translation:** Vocabulary: buddhism: 佛教; stoicism: 斯多葛主义
-
-**[1696.90s] English:** i'm very proud of them i highly recommend because forget that even just the ranking you get to learn  
+**[1690.02s] English:** To college campuses, is um, fire keeps the college free speech rankings, yes, at Rankings.TheFire.org.  
 **Translation:** 
 
-**[1701.38s] English:** a lot about the universities from this entirely different perspective than people are used to  
+**[1696.90s] English:** I'm very proud of them and I highly recommend them because, forget about the ranking, you get to learn so much more.  
 **Translation:** 
 
-**[1705.96s] English:** when they go to pick whatever university they want to go to it just gives another perspective  
+**[1701.38s] English:** A lot can be learned about the universities from this entirely different perspective than people are used to.  
 **Translation:** 
 
-**[1711.26s] English:** on the whole thing and it gives quotes from people that are students there and so on like  
+**[1705.96s] English:** When they go to pick whatever university they want to go to, it just gives another perspective.  
 **Translation:** 
 
-**[1715.42s] English:** about their experiences and and it gives different maybe you could speak to the the various measures  
+**[1711.26s] English:** On the whole thing, and it gives quotes from people who are students there, and so on.  
+**Translation:** Vocabulary: quotes: 引用
+
+**[1715.42s] English:** About their experiences, and it gives a chance to discuss maybe you could speak to the various measures.  
 **Translation:** 
 
-**[1720.92s] English:** here before we talk about who's in the top five and who's in the bottom five what what are the  
+**[1720.92s] English:** Here, before we talk about who's in the top five and who's in the bottom five, what are the  
 **Translation:** 
 
-**[1726.00s] English:** different uh parameters that contribute to the evaluation so people have been asking me since  
+**[1726.00s] English:** Different uh parameters that contribute to the evaluation, so people have been asking me since.  
 **Translation:** 
 
-**[1732.12s] English:** day one to do a ranking of schools according to freedom of speech  
+**[1732.12s] English:** Day one: To do a ranking of schools according to freedom of speech.  
+**Translation:** Vocabulary: evaluation: 评估
+
+**[1735.26s] English:** And even though I'm not sure, I'm not sure, I'm not sure, I'm not sure, I'm not sure, I'm not sure.  
 **Translation:** 
 
-**[1735.26s] English:** and even though i'm not sure i'm not sure i'm not sure i'm not sure i'm not sure i'm not sure  
+**[1735.94s] English:** We had the best database in existence of campus speech codes and policies that universities implemented.  
+**Translation:** Vocabulary: implemented: 执行
+
+**[1743.76s] English:** Have that violate First Amendment or First Amendment norms? We also have the best database.  
 **Translation:** 
 
-**[1735.94s] English:** we had we had the best database in existence of campus speech codes uh policies that universities  
+**[1748.36s] English:** Of, uh, we call the disinvitation database, but it's actually better named the  
+**Translation:** Vocabulary: disinvitation: 反对邀请; violate: 违反
+
+**[1754.28s] English:** De-platforming Database, which is what we're going to call it, um, and these are all cases where somebody  
 **Translation:** 
 
-**[1743.76s] English:** have that violate first amendment or first amendment norms we also have the best database  
+**[1759.18s] English:** Was invited as a speaker to campus, and they were later disinvited. Disinviting or deplatforming also includes:  
+**Translation:** Vocabulary: deplatforming: 从平台移除; disinvited: 被取消邀请; disinviting: 取消邀请
+
+**[1765.64s] English:** Shouting.  
 **Translation:** 
 
-**[1748.36s] English:** of uh we call the disinvitation database um but it's actually the um it's better named the  
-**Translation:** Vocabulary: disinvitation: 反对邀请记录
-
-**[1754.28s] English:** deplatforming database which is what we're going to call it um and these are all cases where somebody  
+**[1765.94s] English:** Down, um, so they showed up and they couldn't really speak, yeah, exactly. Um, and and, uh, and so having that...  
 **Translation:** 
 
-**[1759.18s] English:** was invited as a speaker to campus and they were disinvited disinvited or deplatforming also includes  
-**Translation:** Vocabulary: deplatforming: 下架; disinvited: 撤销邀请
-
-**[1765.64s] English:** shouting  
+**[1774.72s] English:** What we really needed was some serious social science to really make a serious  
 **Translation:** 
 
-**[1765.94s] English:** down um so they showed up and they couldn't really speak yeah exactly um and and uh and so having that  
+**[1779.64s] English:** Argument about what the ranking was, um, was to be able to get a better sense of how many.  
 **Translation:** 
 
-**[1774.72s] English:** what we really needed in order to have some serious social science to really make a serious  
+**[1785.76s] English:** Professors were actually getting punished during this time, um, and then the biggest missing...  
 **Translation:** 
 
-**[1779.64s] English:** argument about what the ranking was um was to be able to one get a better sense of how many  
+**[1791.36s] English:** The element was to be able to ask students directly what the  
 **Translation:** 
 
-**[1785.76s] English:** professors were actually getting punished during this time um and then the the biggest missing  
+**[1795.94s] English:** The environment on that campus for freedom of speech is great; are you comfortable disagreeing?  
 **Translation:** 
 
-**[1791.36s] English:** element was to be able to um ask students directly what the  
+**[1800.00s] English:** With each other? Are you comfortable disagreeing with your professors? Do you think violence is?  
 **Translation:** 
 
-**[1795.94s] English:** environment was like on that campus for freedom of speech are you comfortable disagreeing  
+**[1805.40s] English:** Acceptable in response to a speaker? Do you think shouting down is okay? Do you think  
 **Translation:** 
 
-**[1800.00s] English:** with each other? Are you comfortable disagreeing with your professors? Do you think violence is  
+**[1810.36s] English:** Blocking people's access to a speaker is okay? And once we were able to get all those elements.  
 **Translation:** 
 
-**[1805.40s] English:** acceptable in response to a speaker? Do you think shouting down is okay? Do you think  
+**[1816.32s] English:** Together, we first did a test run in 2019, which was about 50, and we've been doing it for four years.  
 **Translation:** 
 
-**[1810.36s] English:** blocking people's access to a speaker is okay? And once we were able to get all those elements  
-**Translation:** 
-
-**[1816.32s] English:** together, we first did a test run, I think in 2019, about 50, and we've been doing it for four  
-**Translation:** 
-
-**[1823.66s] English:** years now, always trying to make the methodology more and more precise to better reflect the actual  
+**[1823.66s] English:** Years now, always trying to make the methodology more and more precise to better reflect the actual.  
 **Translation:** Vocabulary: methodology: 方法论
 
-**[1829.64s] English:** environment at particular schools. And this year, the number one school was Michigan Technological  
+**[1829.64s] English:** Environment at particular schools. And this year, the number one school was Michigan Technological.  
 **Translation:** 
 
-**[1835.44s] English:** University, which was a nice surprise. The number two school was actually Auburn University,  
-**Translation:** Vocabulary: auburn: 红褐色的
+**[1835.44s] English:** University, which was a nice surprise. The number two school was actually Auburn University.  
+**Translation:** Vocabulary: auburn: Auburn大学
 
-**[1841.88s] English:** which was nice to see. In the top 10, the most well-known prestigious school is actually UVA,  
+**[1841.88s] English:** Which was nice to see. In the top 10, the most well-known and prestigious school is actually UVA.  
 **Translation:** 
 
-**[1848.42s] English:** which did really well this year. University of Chicago was not happy that they weren't number  
+**[1848.42s] English:** Which did really well this year. The University of Chicago was not happy that they weren't number one.  
 **Translation:** Vocabulary: prestigious: 声望高的
 
-**[1853.18s] English:** one, but University of Chicago was 13, and they had been number one or in the top three for years,  
+**[1853.18s] English:** One, but the University of Chicago was 13th, and they had been in the top three for years.  
 **Translation:** 
 
-**[1859.58s] English:** probably.  
+**[1859.58s] English:** Probably.  
 **Translation:** 
 
-**[1859.64s] English:** So can you explain? It's almost surprising. Is it because of the really strong economics  
+**[1859.64s] English:** So, can you explain? It's almost surprising. Is it because of the really strong economics?  
 **Translation:** 
 
-**[1864.88s] English:** departments and things like this, or why? They had a case involving a student. They  
+**[1864.88s] English:** Departments and things like this, or why? They had a case involving a student. They  
 **Translation:** 
 
-**[1869.40s] English:** wouldn't recognize a chapter of Turning Point USA, and they made a very classic argument,  
+**[1869.40s] English:** Wouldn't recognize a chapter of Turning Point USA, and they made a very classic argument.  
 **Translation:** 
 
-**[1875.92s] English:** and classic in the bad way, that we hear at campuses across the country,  
+**[1875.92s] English:** And it's classic in the bad way—that we hear on campuses across the country,  
 **Translation:** 
 
-**[1879.64s] English:** oh, we have a campus for Republicans, so we don't need this additional conservative group.  
+**[1879.64s] English:** Oh, we have a campus for Republicans, so we don't need this additional conservative group.  
 **Translation:** 
 
-**[1884.28s] English:** And we're like, no, I'm sorry. We've seen dozens and dozens, if not hundreds of attempts to get  
+**[1884.28s] English:** And we're like, "No, I'm sorry." We've seen dozens and dozens—if not hundreds—of attempts to get  
 **Translation:** 
 
-**[1889.14s] English:** this one.  
+**[1889.14s] English:** This one.  
 **Translation:** 
 
-**[1889.58s] English:** One particular conservative student group, de-recognized or not recognized. And so we told  
+**[1889.58s] English:** One particular conservative student group, whether de-recognized or not recognized, and so we told  
 **Translation:** 
 
-**[1897.84s] English:** them, like, listen, we told them at FIRE that we consider this serious, and they wouldn't recognize  
+**[1897.84s] English:** They, like, listen: we told them at FIRE that we consider this serious, and they wouldn't recognize.  
 **Translation:** 
 
-**[1904.64s] English:** the group. So that's a point down in our ranking, and it was enough to knock them from, they probably  
+**[1904.64s] English:** The group. So that's a point down in our ranking, and it was enough to knock them from their probable position.  
 **Translation:** 
 
-**[1911.34s] English:** would have been number two in the rankings. But now they're 13 out of 248. They're still one of  
+**[1911.34s] English:** It would have been number two in the rankings. But now they're 13 out of 248. They're still one of  
 **Translation:** 
 
-**[1916.60s] English:** the best schools in the country. I have no problem saying that.  
+**[1916.60s] English:** The best schools in the country. I have no problem saying that.  
 **Translation:** 
 
 **[1919.58s] English:** I have no problem saying that.  
 **Translation:** 
 
-**[1920.00s] English:** The school that did not do so well at a negative 10.69, negative 10.69, and we rounded up to zero, was Harvard.  
+**[1920.00s] English:** The school that did not do so well, at -10.69, -10.69, and we rounded up to zero, was Harvard.  
 **Translation:** 
 
 **[1931.34s] English:** And Harvard has been not very happy with that result.  
 **Translation:** 
 
 **[1935.36s] English:** The only school to receive the abysmal ranking.  
-**Translation:** Vocabulary: abysmal: 糟糕透了
+**Translation:** Vocabulary: abysmal: 极差的
 
 **[1937.88s] English:** Yeah.  
 **Translation:** 
 
-**[1938.64s] English:** And there are a couple people—  
+**[1938.64s] English:** And there are a couple of people—  
 **Translation:** 
 
 **[1939.42s] English:** Oh, Harvard.  
@@ -1003,13 +1004,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[1940.74s] English:** Oh, Harvard.  
 **Translation:** 
 
-**[1941.28s] English:** And there are a couple people who have actually been really, I think, making a mistake by getting very Harvard-sounding, by being like, I've had statisticians look at this, and they think your methodology is a joke, and pointing out, and this case wasn't that important.  
+**[1941.28s] English:** And there are a couple of people who have actually been really, I think, making a mistake by getting very Harvard-sounding, by being like, "I've had statisticians look at this, and they think your methodology is a joke," and pointing out, and this case wasn't that important.  
 **Translation:** 
 
-**[1955.64s] English:** And that scholar wasn't—that scholar—one of the arguments against one of the scholars that we counted against them for punishing was that that wasn't a very famous or influential scholar.  
-**Translation:** Vocabulary: methodology: 研究方法; statisticians: 统计学家
+**[1955.64s] English:** And that scholar wasn't—that scholar, one of the arguments against one of the scholars that we counted against them for punishing was that that wasn't a very famous or influential scholar.  
+**Translation:** Vocabulary: influential: 有影响力的; methodology: 研究方法; punishing: 惩罚; statisticians: 统计学家
 
-**[1966.12s] English:** So your argument seems to be snobbery.  
+**[1966.12s] English:** So, your argument seems to be snobbery.  
 **Translation:** 
 
 **[1971.28s] English:** Like, essentially, you're not understanding our methodology, for one thing.  
@@ -1018,34 +1019,34 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[1976.00s] English:** And then you're saying that actually that scholar wasn't important enough to count.  
 **Translation:** 
 
-**[1979.94s] English:** And by the way, Harvard, by the way, Harvard, if we—  
+**[1979.94s] English:** And by the way, Harvard; by the way, Harvard, if we—  
 **Translation:** 
 
-**[1985.62s] English:** The Harvard camera.  
+**[1985.62s] English:** The Harvard Camera.  
 **Translation:** 
 
 **[1986.12s] English:** Yeah.  
 **Translation:** 
 
-**[1987.02s] English:** If we—even if we took all of your arguments as true, even if we decided to get rid of those two professors, you would still be in negative numbers.  
+**[1987.02s] English:** If we—even if we took all of your arguments as true, and even if we decided to get rid of those two professors, you would still be in negative numbers.  
 **Translation:** 
 
 **[1997.26s] English:** You would still be dead last.  
 **Translation:** 
 
-**[1998.80s] English:** You would still be after Georgetown and Penn.  
+**[1998.80s] English:** You would still be interested in Georgetown and Penn.  
 **Translation:** 
 
 **[2000.70s] English:** And neither—  
 **Translation:** Vocabulary: georgetown: 乔治敦
 
-**[2001.26s] English:** Neither of those schools are good for freedom of speech.  
+**[2001.26s] English:** Neither of those schools is good for freedom of speech.  
 **Translation:** 
 
-**[2003.20s] English:** I should say the bottom five is the University of Pennsylvania, like you said, Penn, the University of South Carolina, Georgetown University, and Fordham University.  
+**[2003.20s] English:** I should say that the bottom five are the University of Pennsylvania (Penn), the University of South Carolina, Georgetown University, and Fordham University.  
 **Translation:** Vocabulary: fordham: 福特汉姆大学
 
-**[2012.40s] English:** All very well-earned.  
+**[2012.40s] English:** All very well earned.  
 **Translation:** 
 
 **[2013.78s] English:** They have so many bad cases at all of those schools.  
@@ -1054,292 +1055,292 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2016.54s] English:** What's the best way to find yourself in the bottom five if you're a university?  
 **Translation:** 
 
-**[2020.74s] English:** What's the fastest way to that negative—to that zero?  
+**[2020.74s] English:** What's the fastest way to get to that negative—zero?  
 **Translation:** 
 
-**[2023.36s] English:** A lot of deplatforming.  
+**[2023.36s] English:** A lot of de-platforming.  
 **Translation:** 
 
 **[2026.34s] English:** When we looked at the bottom five, 81% of attempts to get—  
-**Translation:** Vocabulary: deplatforming: 去平台化
-
-**[2031.18s] English:** Speakers deplatformed were successful at the bottom five.  
 **Translation:** 
 
-**[2034.92s] English:** There were a couple schools, I think Penn included, where every single attempt, every time a student—  
+**[2031.18s] English:** Speakers de-platformed were successful at the bottom five.  
 **Translation:** 
 
-**[2040.00s] English:** objected a student group objected to that speaker coming they canceled this this speech and i think  
+**[2034.92s] English:** There were a couple of schools, I think Penn included, where every single attempt, every time a student—  
 **Translation:** 
 
-**[2045.44s] English:** i think georgetown was 100 success rate i think penn had 100 success rate i think harvard did  
+**[2040.00s] English:** A student group objected to that speaker coming. They canceled this speech, and I think  
+**Translation:** 
+
+**[2045.44s] English:** I think Georgetown was 100% success rate. I think Penn had 100% success rate. I think Harvard did as well.  
 **Translation:** Vocabulary: objected: 反对
 
-**[2050.86s] English:** stand up for a couple but mostly uh people got deplatformed there as well so how do you push back  
+**[2050.86s] English:** Stand up for a couple, but mostly, uh, people got deplatformed there as well. So, how do you push back?  
 **Translation:** 
 
-**[2056.68s] English:** on deplatforming well who who would do it is it other students is it faculty is it the  
-**Translation:** Vocabulary: deplatformed: 被取消平台
+**[2056.68s] English:** On deplatforming: Well, who would do it? Is it other students? Is it faculty? Is it the  
+**Translation:** Vocabulary: deplatformed: 被逐出; deplatforming: 逐出
 
-**[2062.92s] English:** administration what's the dynamics of uh pushing back of basically because i imagine  
+**[2062.92s] English:** Administration: What's the dynamics of basically pushing back, because I imagine...  
 **Translation:** 
 
-**[2069.18s] English:** some of it is culture but imagine every university has a bunch of students who will  
+**[2069.18s] English:** Some of it is culture, but imagine that every university has a bunch of students who will  
 **Translation:** 
 
-**[2075.80s] English:** protest basically every speaker and it's a question of how you respond to that protest  
+**[2075.80s] English:** Protest basically every speaker, and it's a question of how you respond to that protest.  
 **Translation:** 
 
-**[2079.68s] English:** well here's here's the dirty little secret about like the big change in 2014 um and and fire and  
+**[2079.68s] English:** Well, here's the dirty little secret about the big change in 2014, um, and fire.  
 **Translation:** 
 
-**[2086.68s] English:** me and height um have been very clear that the big change that we saw on campus was that for most of  
+**[2086.68s] English:** Me and Height have been very clear that the big change we saw on campus was that for most of  
 **Translation:** 
 
-**[2092.46s] English:** my career students were great um on freedom of speech they were the best constituency for free  
+**[2092.46s] English:** My career students were great; um, on freedom of speech, they were the best constituency for free.  
 **Translation:** Vocabulary: constituency: 支持群体
 
-**[2096.94s] English:** speech absolutely unambiguous  
+**[2096.94s] English:** Speech is absolutely unambiguous.  
 **Translation:** 
 
-**[2099.18s] English:** until about 2013 2014 and it was only in 2014 where we had this very you know kind of sad for  
-**Translation:** Vocabulary: unambiguous: 明确无误
+**[2099.18s] English:** Until about 2013-2014, and it was only in 2014 that we had this very, you know, kind of sad situation.  
+**Translation:** Vocabulary: unambiguous: 明确无误的
 
-**[2106.14s] English:** us experience where suddenly students were the ones advocating for deplatforming and new speech  
+**[2106.14s] English:** Us experience where, suddenly, students were the ones advocating for deplatforming and new speech policies.  
 **Translation:** 
 
-**[2110.96s] English:** codes kind of in a similar way that they had been doing in say like the mid-80s uh for example but  
+**[2110.96s] English:** Codes kind of in a similar way that they had been doing, in say, the mid-80s, for example, but  
 **Translation:** Vocabulary: advocating: 提倡
 
-**[2116.34s] English:** here's the dirty little secret it's not this it's just the students it's students and administrators  
+**[2116.34s] English:** Here's the dirty little secret: It's not this; it's just the students, and administrators.  
 **Translation:** 
 
-**[2122.02s] English:** sometimes only a handful of them though working together to make uh to create some of these  
+**[2122.02s] English:** Sometimes, only a handful of them, though, working together to create some of these.  
 **Translation:** 
 
-**[2129.18s] English:** ways um and it's it's also it's interesting to me because i don't even know people who are  
+**[2129.18s] English:** Ways, um, and it's also interesting to me because I don't even know people who are.  
 **Translation:** 
 
-**[2133.98s] English:** doing this to me you know just kind of trying to say these things to me uh that's how it is  
+**[2133.98s] English:** Doing this to me, you know, just kind of trying to say these things to me — that's how it is.  
 **Translation:** 
 
-**[2137.74s] English:** um and i think i i don't have the time to talk about what that is but i'm involved in that  
+**[2137.74s] English:** Um, and I think I don't have the time to talk about what that is, but I'm involved in that.  
 **Translation:** 
 
-**[2141.26s] English:** the day before i was asked to do this and i was a student i was a classmate as a classmate and you  
+**[2141.26s] English:** The day before I was asked to do this, and I was a student; as a classmate, you  
 **Translation:** 
 
-**[2146.86s] English:** know i had never done any of the things that kyle duncan did before i learned that it was  
+**[2146.86s] English:** I knew I had never done any of the things Kyle Duncan did before I learned that it was  
 **Translation:** 
 
-**[2151.26s] English:** because i had never done anything like that before i learned i might have done a lot of things before  
+**[2151.26s] English:** Because I had never done anything like that before, I learned I might have done a lot of things before.  
 **Translation:** Vocabulary: duncan: 邓肯
 
-**[2155.82s] English:** so i said i'm gonna do it now so i'm uh i'm gonna do this in other places so they're just like new  
+**[2155.82s] English:** So I said I'm gonna do it now, so I'm gonna do this in other places too; they're just like new.  
 **Translation:** 
 
-**[2158.86s] English:** a DEI administrator.  
+**[2158.86s] English:** A DEI Administrator.  
 **Translation:** 
 
-**[2160.00s] English:** gets up with a prepared speech that she that she's written that's a seven minute long speech  
+**[2160.00s] English:** Gets up with a prepared speech that she has written, which is seven minutes long.  
 **Translation:** 
 
-**[2164.92s] English:** where she talks about uh free speech maybe the juice isn't worth the squeeze and we we're at  
+**[2164.92s] English:** Where she talks about free speech, maybe the juice isn't worth the squeeze, and we're at.  
+**Translation:** Vocabulary: squeeze: 榨取
+
+**[2171.02s] English:** This law school, where people could learn to challenge these norms, so it's clear that there.  
 **Translation:** 
 
-**[2171.02s] English:** this law school where people could learn to challenge these norms so it's clear that there  
+**[2176.04s] English:** Was coordination, you know, among some of these administrators, and from talking to students, there  
 **Translation:** 
 
-**[2176.04s] English:** was coordination you know amongst some of these administrators and from talking to students there  
+**[2180.52s] English:** They were in extensive meetings for a long time. They show up, do a shout-down, and then they...  
 **Translation:** 
 
-**[2180.52s] English:** they were in meetings extensive meetings for a long time they show up do a shout down then they  
+**[2185.90s] English:** Take an additional seven minutes to lecture the speaker on free speech not being "the juice.  
 **Translation:** 
 
-**[2185.90s] English:** take an additional seven minutes to to to lecture the speaker on free speech not being not the juice  
+**[2193.26s] English:** Of free speech not being worth the squeeze, um, and then for the rest of it, it's just constant heckling.  
 **Translation:** 
 
-**[2193.26s] English:** of free speech not being worth the squeeze um and then for the rest of it it's just constant heckling  
-**Translation:** 
-
-**[2199.14s] English:** um after she after she leaves this is clearly and this and something very similar you know happened  
+**[2199.14s] English:** Um, after she leaves, this is clearly something very similar, you know, happened.  
 **Translation:** Vocabulary: heckling: 恶意打断
 
-**[2205.12s] English:** a number of times at yale where it was very clearly administrators were helping along with  
+**[2205.12s] English:** A number of times at Yale, where it was very clearly administrators were helping along with.  
 **Translation:** 
 
-**[2209.72s] English:** with a lot of these disruptions so i think every time there is a shout down at a university the  
-**Translation:** Vocabulary: disruptions: 干扰事件
+**[2209.72s] English:** With a lot of these disruptions, I think every time there is a shut-down at a university,  
+**Translation:** Vocabulary: disruptions: 干扰
 
-**[2215.90s] English:** investigation should be first and foremost did administrators help create this problem did  
+**[2215.90s] English:** Investigation should be first and foremost: Did administrators help create this problem?  
 **Translation:** 
 
-**[2223.12s] English:** they do anything to stop it because i think a lot of what's really going on here is the  
+**[2223.12s] English:** They do anything to stop it because I think a lot of what's really going on here is the  
 **Translation:** Vocabulary: foremost: 首要的
 
-**[2227.48s] English:** hyper-bureaucratization of universities with a lot more ideological people who think of their  
+**[2227.48s] English:** Hyper-bureaucratization of universities, with a lot more ideologically driven people who think of their  
 **Translation:** 
 
-**[2232.18s] English:** primary job as basically like policing speech more or less they're encouraging students sorry  
-**Translation:** Vocabulary: ideological: 意识形态的
+**[2232.18s] English:** Primary job is basically like policing speech, more or less. They're encouraging students, sorry.  
+**Translation:** Vocabulary: ideologically: 思想上
 
-**[2238.22s] English:** they're encouraging students who have opinions they like um to do shout downs um and that's why  
+**[2238.22s] English:** They're encouraging students who have opinions they like, um, to do shout-downs, and that's why.  
 **Translation:** 
 
-**[2243.58s] English:** they really need to investigate this  
+**[2243.58s] English:** They really need to investigate this.  
 **Translation:** 
 
-**[2245.90s] English:** and it is uh at stanford the administrator who who gave the prepared remarks um about the juice  
+**[2245.90s] English:** And it is at Stanford, the administrator who gave the prepared remarks about the juice.  
 **Translation:** 
 
-**[2252.86s] English:** not being worth the squeeze she has not been invited back to stanford but she's one of the  
-**Translation:** Vocabulary: stanford: 斯坦福大学
+**[2252.86s] English:** Not being worth the squeeze, she has not been invited back to Stanford, but she's one of the  
+**Translation:** Vocabulary: remarks: 讲话; squeeze: 挤果汁; stanford: 斯坦福
 
-**[2257.16s] English:** only examples i can think of when these things happen a lot where an administrator clearly  
+**[2257.16s] English:** Only examples I can think of when these things happen a lot are when an administrator clearly  
 **Translation:** 
 
-**[2261.44s] English:** facilitated something that was a shout down or deplatforming or resulted in a professor getting  
-**Translation:** Vocabulary: deplatforming: 下架处理; facilitated: 协助进行
+**[2261.44s] English:** Facilitated something that was a shout-down, or de-platforming, or resulted in a professor getting  
+**Translation:** Vocabulary: facilitated: 促进
 
-**[2266.84s] English:** fired or resulted in a student getting expelled where the administrator has got off scott free  
+**[2266.84s] English:** Fired, or resulted in a student getting expelled, where the administrator has gotten off scot-free.  
 **Translation:** 
 
-**[2273.24s] English:** or probably in some cases even gotten a promotion  
+**[2273.24s] English:** Or, in some cases, they may have even gotten a promotion.  
 **Translation:** Vocabulary: expelled: 开除
 
-**[2275.90s] English:** and so a small number of administrators maybe even a single administrator  
+**[2275.90s] English:** And so, a small number of administrators—maybe even a single administrator.  
 **Translation:** 
 
-**[2280.00s] English:** could participate in the encouraging and the organization and thereby empower the whole  
+**[2280.00s] English:** Could participate in the encouraging, organizing, and thereby empower the whole.  
 **Translation:** Vocabulary: empower: 赋予权力
 
-**[2285.70s] English:** process. And that's something I've seen throughout my entire career. And the only thing is kind of  
+**[2285.70s] English:** Process, and that's something I've seen throughout my entire career. And the only thing is kind of...  
 **Translation:** 
 
-**[2289.58s] English:** hard to catch this sort of in the act, so to speak. And that's one of the reasons why it's  
+**[2289.58s] English:** Hard to catch this sort of thing "in the act," so to speak. And that's one of the reasons why it's  
 **Translation:** 
 
-**[2292.90s] English:** helpful for people to know about this, because there was this amazing case. This was at University  
+**[2292.90s] English:** Helpful for people to know about this, because there was this amazing case. This was at the University,...  
 **Translation:** 
 
-**[2299.98s] English:** of Washington. And we've actually featured this in a documentary made in 2015, that came out in  
+**[2299.98s] English:** Of Washington. And we've actually featured this in a documentary made in 2015 that came out in  
 **Translation:** 
 
-**[2305.74s] English:** 2015, 2016, called Can We Take a Joke? And this was when we started noticing something was  
+**[2305.74s] English:** 2015, 2016: Called "Can We Take a Joke"? And this was when we started noticing something was  
 **Translation:** 
 
-**[2311.24s] English:** changing on campus. We also heard that comedians were saying that they couldn't use their good  
+**[2311.24s] English:** Changing on campus. We also heard that comedians were saying that they couldn't use their good.  
+**Translation:** Vocabulary: comedians: 喜剧人
+
+**[2315.10s] English:** Humor, anymore. This was right around the time that Jerry Seinfeld and Chris Rock said that.  
 **Translation:** 
 
-**[2315.10s] English:** humor anymore. This was right around the time that Jerry Seinfeld and Chris Rock said that  
+**[2319.80s] English:** They didn't want to play on campuses because they couldn't be funny. But we featured a case.  
 **Translation:** 
 
-**[2319.80s] English:** they didn't want to play on campuses because they couldn't be funny. But we featured a case  
-**Translation:** 
-
-**[2326.46s] English:** of a comedian who wanted to do a musical called The Passion of the Musical, Making Fun of the  
+**[2326.46s] English:** Of a comedian who wanted to do a musical called "The Passion of the Musical: Making Fun of the...  
 **Translation:** 
 
 **[2331.60s] English:** Passion of the Christ, with the stated goal of offending everyone.  
 **Translation:** Vocabulary: offending: 冒犯
 
-**[2335.74s] English:** Every group equally. It was very much a South Park mission. And it's an unusual case because  
+**[2335.74s] English:** Every group equally. It was very much a South Park mission, and it's an unusual case because  
 **Translation:** 
 
-**[2342.76s] English:** we actually got documentation of administrators buying tickets for angry students and holding  
+**[2342.76s] English:** We actually got documentation of administrators buying tickets for angry students and holding.  
 **Translation:** 
 
-**[2349.52s] English:** an event where they trained them to jump up in the middle of it and shout,  
+**[2349.52s] English:** An event where they trained them to jump up in the middle of it and shout,  
 **Translation:** 
 
-**[2355.06s] English:** I'm offended. They bought them tickets. They sent them to this thing with the goal of shouting it  
+**[2355.06s] English:** I'm offended. They bought them tickets. They sent them to this thing with the goal of shouting it down.  
 **Translation:** Vocabulary: offended: 受冒犯
 
-**[2361.46s] English:** down. Now, unsurprisingly, when you send an angry group of students,  
+**[2361.46s] English:** Down. Now, unsurprisingly, when you send an angry group of students,  
 **Translation:** 
 
-**[2365.74s] English:** to shut down a play, it's not going to end at just, I'm offended. And it got heated. There  
+**[2365.74s] English:** To shut down a play, it's not going to end at "I'm offended." And it got heated. There,...  
 **Translation:** Vocabulary: unsurprisingly: 不出所料
 
-**[2372.68s] English:** were death threats being thrown. And then the Pullman, Washington police told Chris Lee,  
+**[2372.68s] English:** Were death threats being thrown? And then the Pullman, Washington police told Chris Lee,  
 **Translation:** 
 
-**[2380.80s] English:** the guy who made the play, that they wouldn't actually protect him. Now, it's not every day  
-**Translation:** Vocabulary: pullman: 太平洋号
-
-**[2384.84s] English:** you're going to have that kind of hard evidence of actually seeing the administrators be so brazen  
+**[2380.80s] English:** The guy who made the play; they wouldn't actually protect him. Now, it's not every day,...  
 **Translation:** 
 
-**[2391.92s] English:** that they recorded the fact that they bought them tickets and sent them. But I think a lot  
+**[2384.84s] English:** You're going to have that kind of hard evidence of actually seeing the administrators be so brazen.  
+**Translation:** 
+
+**[2391.92s] English:** That they recorded the fact that they bought them tickets and sent them. But I think a lot,...  
 **Translation:** Vocabulary: brazen: 胆大妄为
 
-**[2395.74s] English:** of that stuff is going on. And I think it's the...  
+**[2395.74s] English:** Of that stuff is going on, and I think it's the...  
 **Translation:** 
 
-**[2400.00s] English:** a good excuse to cut down on one of the big problems in higher education today, which is  
+**[2400.00s] English:** A good excuse to cut down on one of the big problems in higher education today, which is  
 **Translation:** 
 
-**[2403.68s] English:** hyper-bureaucratization. In your experience, is there a distinction between administrators  
+**[2403.68s] English:** Hyper-bureaucratization. In your experience, is there a distinction between administrators?  
 **Translation:** 
 
-**[2407.86s] English:** and faculty in terms of perpetrators of these kinds of things? So if we got rid of all,  
+**[2407.86s] English:** And faculty, in terms of perpetrators of these kinds of things? So, if we got rid of all,  
 **Translation:** Vocabulary: perpetrators: 实施者
 
-**[2415.18s] English:** like Harvey's talked about, getting rid of a large percentage of the administration, does that  
+**[2415.18s] English:** Like Harvey's talked about, getting rid of a large percentage of the administration, does that  
 **Translation:** 
 
-**[2419.88s] English:** help fix the problem? Or is the faculty also, small percent of the faculty also part of the  
+**[2419.88s] English:** Help fix the problem? Or is the faculty also a small percent of the faculty also part of the  
 **Translation:** 
 
-**[2427.12s] English:** encouraging in the organization of these kinds of cancel models? Yeah. And that's something that  
+**[2427.12s] English:** Encouraging in the organization of these kinds of cancel models? Yeah. And that's something that  
 **Translation:** 
 
-**[2431.54s] English:** has been profoundly disappointing, is that when you look at the huge uptick in attempts to get  
-**Translation:** Vocabulary: profoundly: 深刻地
+**[2431.54s] English:** Has been profoundly disappointing that when you look at the huge uptick in attempts to get  
+**Translation:** Vocabulary: uptick: 增长
 
-**[2437.50s] English:** professors fired that we've seen over the last 10 years, and actually over the last 22 years,  
+**[2437.50s] English:** Professors have been fired over the last 10 years, and actually over the last 22 years.  
 **Translation:** 
 
-**[2442.70s] English:** as far back as our records go, at first, they were overwhelmingly led by administrators  
+**[2442.70s] English:** As far back as our records go, at first, they were overwhelmingly led by administrators.  
 **Translation:** Vocabulary: overwhelmingly: 压倒性地
 
-**[2449.76s] English:** attempts to get professors punished. And that was most, I'd say that was my career up until 2013.  
+**[2449.76s] English:** Attempts to get professors punished. And that was most of what I did, I'd say that was my career up until 2013.  
 **Translation:** 
 
-**[2457.12s] English:** It was fighting back at administrative excesses. Then you start having the problem in 2014 of  
+**[2457.12s] English:** It was fighting back against administrative excesses. Then, you started having the problem in 2014 of  
 **Translation:** Vocabulary: excesses: 过度行为
 
-**[2462.88s] English:** students trying to get people canceled. And that really accelerated in 2017. And the number,  
+**[2462.88s] English:** Students are trying to get people canceled, and that really accelerated in 2017. The number,  
 **Translation:** 
 
-**[2467.58s] English:** so one way that, one thing that makes it easier to document are the petitions to get professors  
+**[2467.58s] English:** So, one way that makes it easier to document is the use of petitions to get professors' signatures.  
 **Translation:** Vocabulary: accelerated: 加速
 
-**[2472.94s] English:** fired or punished, and how disproportionately that those actually do come from students.  
+**[2472.94s] English:** Fired or punished, and how disproportionately those actually do come from students.  
 **Translation:** 
 
-**[2477.92s] English:** But another big uptick has been fellow professors demanding that their fellow professors get  
-**Translation:** Vocabulary: disproportionately: 不成比例地
+**[2477.92s] English:** But another big uptick has been in fellow professors demanding that their fellow professors get  
+**Translation:** Vocabulary: demanding: 要求苛刻; disproportionately: 不成比例地
 
-**[2484.22s] English:** punished. And that to me- It makes me really sad.  
+**[2484.22s] English:** Punished. And that, to me, makes me really sad.  
 **Translation:** 
 
 **[2486.24s] English:** It's kind of shameful.  
+**Translation:** Vocabulary: shameful: 羞耻的
+
+**[2487.12s] English:** You shouldn't be proud of signing the petition to get your fellow professor. And what's even more concerning is that it sets a precedent for favoritism.  
 **Translation:** 
 
-**[2487.12s] English:** You shouldn't be proud of signing the petition to get your fellow professor. And what's even more  
-**Translation:** 
+**[2493.86s] English:** Shameful is that we get, "this has almost become a cliché" within FIRE when someone is facing one.  
+**Translation:** Vocabulary: favoritism: 偏袒; precedent: 先例
 
-**[2493.86s] English:** shameful is that we get, this has almost become a cliche within FIRE. When someone is facing one  
-**Translation:** Vocabulary: cliche: 陈词滥调
-
-**[2501.60s] English:** of these cancellation campaigns as a professor, I would get letters from some of my friends saying,  
+**[2501.60s] English:** Of these cancellation campaigns, as a professor, I would get letters from some of my friends saying,  
 **Translation:** 
 
 **[2507.36s] English:** I am so sorry this has happened to you. And these were the same people who publicly signed the  
-**Translation:** Vocabulary: cancellation: 取消
+**Translation:** Vocabulary: campaigns: 活动; cancellation: 取消
 
-**[2512.52s] English:** petition to get them fired. Yeah.  
+**[2512.52s] English:** Petition to get them fired. Yeah.  
 **Translation:** 
 
 **[2515.82s] English:** Yeah.  
@@ -1348,10 +1349,10 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2517.12s] English:** Yeah. Integrity.  
 **Translation:** 
 
-**[2520.00s] English:** Integrity is an important thing in this world, and I think some of it – I'm so surprised people don't stand up more for this because there's so much hunger for it.  
+**[2520.00s] English:** Integrity is an important thing in this world, and I think some of it—I'm so surprised people don't stand up more for this because there's so much hunger for it.  
 **Translation:** 
 
-**[2531.56s] English:** And if you have the guts as a faculty or an administrator to really stand up with eloquence, with rigor, with integrity, I feel like it's impossible for anyone to do anything because there's such a hunger.  
+**[2531.56s] English:** And if you have the guts as a faculty or an administrator to really stand up with eloquence, with rigor, with integrity, I feel like it's impossible for anyone to do nothing because there's such a hunger.  
 **Translation:** 
 
 **[2549.12s] English:** It's so refreshing.  
@@ -1363,7 +1364,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2551.10s] English:** I think everybody agrees that freedom of speech is a good thing.  
 **Translation:** 
 
-**[2556.42s] English:** Oh, I don't –  
+**[2556.42s] English:** Oh, I don't.  
 **Translation:** 
 
 **[2557.50s] English:** Okay, sorry.  
@@ -1372,154 +1373,154 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2558.50s] English:** I don't agree.  
 **Translation:** 
 
-**[2559.06s] English:** The majority of people, even at the universities, that there's a hunger, but it's almost like this kind of nervousness around it because there's a small number of loud voices that are doing the shouting.  
+**[2559.06s] English:** The majority of people, even at the universities, feel a hunger for something, but it's almost like this kind of nervousness around it because there's a small number of loud voices doing the shouting.  
 **Translation:** Vocabulary: nervousness: 紧张感
 
 **[2571.66s] English:** So, I mean, again, that's where great leadership comes in.  
 **Translation:** 
 
-**[2574.84s] English:** And so presidents of universities should probably be making –  
+**[2574.84s] English:** And so, presidents of universities should probably be making –  
 **Translation:** 
 
-**[2579.12s] English:** Making clear declarations of, like, this is not – this is a place where we value the freedom of expression.  
+**[2579.12s] English:** Making clear declarations of, like, "this is not—this is a place where we value the freedom of expression.  
 **Translation:** 
 
-**[2585.14s] English:** And this was all throughout my career.  
+**[2585.14s] English:** And this was true throughout my entire career.  
 **Translation:** Vocabulary: declarations: 声明
 
-**[2587.84s] English:** A president, a university president who puts their foot down early and says, nope, we are not entertaining firing this professor.  
+**[2587.84s] English:** A president, a university president, who puts their foot down early and says, "Nope, we are not entertaining firing this professor.  
 **Translation:** 
 
 **[2596.90s] English:** We are not expelling this student.  
-**Translation:** Vocabulary: expelling: 开除
+**Translation:** Vocabulary: entertaining: 考虑; expelling: 开除
 
-**[2598.36s] English:** It ends the issue often very fast.  
+**[2598.36s] English:** It ends the issue very fast.  
 **Translation:** 
 
-**[2601.82s] English:** Although sometimes – and this is where you can really tell the administrative involvement.  
+**[2601.82s] English:** Although sometimes, and this is where you can really tell the administrative involvement.  
 **Translation:** 
 
 **[2605.40s] English:** Students will do things like take over the president's office.  
 **Translation:** 
 
-**[2608.38s] English:** And then that takeover will be catered by the university.  
+**[2608.38s] English:** And then, that takeover will be handled by the university.  
 **Translation:** Vocabulary: takeover: 接管
 
-**[2612.06s] English:** People will point this out sometimes as being kind of like, oh, it's clearly – like my friend Sam Abrams when they tried to get him fired at Sarah Lawrence College.  
+**[2612.06s] English:** People will point this out sometimes as being kind of like, "oh, it's clearly" — like my friend Sam Abrams when they tried to get him fired at Sarah Lawrence College.  
 **Translation:** 
 
-**[2622.52s] English:** And that was one of the times that it was used as kind of like, oh, this was hostile to the university because they – the students took over the president's office.  
+**[2622.52s] English:** And that was one of the times it was used, kind of like, "oh, this was hostile to the university" because they—the students—took over the president's office.  
 **Translation:** Vocabulary: abrams: Abrams; hostile: 敌对的
 
-**[2631.34s] English:** And I'm like, no, they let them take over the president's office.  
+**[2631.34s] English:** And I'm like, "No, they let them take over the president's office.  
 **Translation:** 
 
-**[2633.76s] English:** And I don't know if that was one of the cases in which the takeover was catered.  
+**[2633.76s] English:** And I don't know if that was one of the cases in which the takeover was targeted.  
 **Translation:** 
 
-**[2637.88s] English:** But if there was ever sort of like a sign that's kind of like –  
+**[2637.88s] English:** But if there was ever, sort of, like a sign that's kind of like —  
 **Translation:** 
 
-**[2640.00s] English:** yes this isn't this is actually really quite friendly well in some sense like protesting  
+**[2640.00s] English:** Yes, this isn't; this is actually really quite friendly. Well, in some sense, it's like protesting.  
 **Translation:** Vocabulary: protesting: 抗议
 
-**[2644.72s] English:** and having really strong opinions even like ridiculous crazy wild opinions is a good thing  
+**[2644.72s] English:** And having really strong opinions, even like ridiculous, crazy, wild ones, is a good thing.  
 **Translation:** 
 
-**[2649.76s] English:** it's just it shouldn't lead to actual firing or deplatforming of people like it's good to protest  
-**Translation:** Vocabulary: deplatforming: 去平台化
+**[2649.76s] English:** It's just that it shouldn't lead to actual firing or deplatforming of people; it's good to protest.  
+**Translation:** Vocabulary: deplatforming: 从平台上移除
 
-**[2655.20s] English:** it's just not good to for universities to support that and take action based on it and this is one  
+**[2655.20s] English:** It's just not good for universities to support that and take action based on it, and this is one.  
 **Translation:** 
 
-**[2660.64s] English:** one of those like um tensions in in in first amendment that actually i think has a pretty easy  
+**[2660.64s] English:** One of those, like, um, tensions in First Amendment issues that I think actually has a pretty easy.  
 **Translation:** 
 
-**[2665.20s] English:** release essentially you have app you absolutely have the right to uh devote your life to ending  
+**[2665.20s] English:** Release; essentially, you have the right to absolutely devote your life to ending.  
 **Translation:** 
 
-**[2672.48s] English:** freedom of speech and ridiculing as a concept and and there are people who who really are can come  
-**Translation:** Vocabulary: ridiculing: 嘲笑
+**[2672.48s] English:** Freedom of speech and ridiculing as a concept, and there are people who really can come.  
+**Translation:** Vocabulary: devote: 奉献; ridiculing: 嘲讽
 
-**[2678.96s] English:** off as very contemptible about even the philosophy of freedom of speech um and we will defend your  
+**[2678.96s] English:** Off, as very contemptible about even the philosophy of freedom of speech; um, and we will defend your.  
 **Translation:** 
 
-**[2683.92s] English:** right to do that we will also disagree with you and if you try to get a professor fired we will  
-**Translation:** Vocabulary: contemptible: 不值一提
+**[2683.92s] English:** Right, to do that, we will also disagree with you, and if you try to get a professor fired, we will  
+**Translation:** Vocabulary: contemptible: 卑鄙可耻
 
-**[2689.52s] English:** be on the other side of that now i think you had randy kennedy who i really i love him i think i  
+**[2689.52s] English:** Be on the other side of that now. I think you had Randy Kennedy, who I really love; I think.  
 **Translation:** 
 
-**[2694.72s] English:** think he's a great guy i think he's a great guy i think he's a great guy i think he's a great guy  
+**[2694.72s] English:** I think he's a great guy. I think he's a great guy. I think he's a great guy. I think he's a great guy.  
 **Translation:** Vocabulary: randy: 兰迪
 
-**[2695.18s] English:** great guy but he's he criticized us for our deplatforming database as saying this is saying  
+**[2695.18s] English:** Great guy, but he's criticized us for deplatforming the database, saying this is problematic.  
 **Translation:** 
 
-**[2701.90s] English:** that that students can't protest speakers i'm like okay that's silly um we fire as an organization  
+**[2701.90s] English:** That students can't protest speakers? I'm like, okay, that's silly. Um, we fire as an organization.  
 **Translation:** 
 
-**[2709.18s] English:** have defended the right to protest all the time we are constantly defending the rights of the  
+**[2709.18s] English:** Have defended the right to protest, all the time we are constantly defending the rights of the  
 **Translation:** 
 
-**[2713.58s] English:** rights protesters not believing that the protesters have the right to say this would like  
+**[2713.58s] English:** Rights protesters, not believing that the protesters have the right to say this, would like  
 **Translation:** 
 
-**[2718.62s] English:** basically that would be punishing the speakers we're not calling for punishing um uh the protesters  
+**[2718.62s] English:** Basically, that would be punishing the speakers. We're not calling for punishing the protesters.  
 **Translation:** 
 
-**[2724.70s] English:** but what we are saying is you can't let the protesters win if they're demanding someone  
+**[2724.70s] English:** But what we are saying is, you can't let the protesters win if they're demanding someone  
+**Translation:** Vocabulary: demanding: 要求; punishing: 惩罚
+
+**[2728.94s] English:** Be fired for their freedom of speech, so the line there is between protesters protesting and  
 **Translation:** 
 
-**[2728.94s] English:** be fired for their freedom of speech so the line there is between protesters protesting and  
+**[2736.38s] English:** The university taking action based on the protest, yeah, exactly, and of course.  
+**Translation:** Vocabulary: protesting: 抗议
+
+**[2741.34s] English:** Shouts down that that's just mob censorship, um, and that's something where the university  
 **Translation:** 
 
-**[2736.38s] English:** the university taking action based on the protest yeah exactly and of course  
+**[2746.22s] English:** The way you actually deal with that tension in First Amendment law.  
 **Translation:** 
 
-**[2741.34s] English:** shout downs that that's just mob censorship um and that's something where the university  
+**[2750.14s] English:** Is essentially kind of like the one positive duty that the government has—the first, the negative...  
 **Translation:** 
 
-**[2746.22s] English:** the way that the way you actually you deal with that tension in first amendment law  
-**Translation:** Vocabulary: censorship: 审查制度
-
-**[2750.14s] English:** is essentially kind of like the one positive duty that the government has the the first the negative  
-**Translation:** 
-
-**[2754.22s] English:** the negative duty the thing that it's not allowed to do is censor you um but its positive duty is  
+**[2754.22s] English:** The negative duty, the thing that it's not allowed to do, is censor you; um, but its positive duty is.  
 **Translation:** Vocabulary: censor: 审查
 
-**[2759.58s] English:** that if  
+**[2759.58s] English:** That if  
 **Translation:** 
 
-**[2760.00s] English:** That if I want to say awful things, or for that matter, great things that aren't popular in a public park, you can't let the crowd just shout me down.  
+**[2760.00s] English:** That, if I want to say awful things—or, for that matter, great things that aren't popular—in a public park, you can't let the crowd just shout me down.  
 **Translation:** 
 
 **[2769.12s] English:** You can't allow what's called a heckler's veto.  
 **Translation:** 
 
-**[2772.96s] English:** Heckler's veto.  
+**[2772.96s] English:** heckler's veto.  
 **Translation:** 
 
-**[2773.98s] English:** That's so interesting because I feel like that comes into play on social media as well.  
+**[2773.98s] English:** That's so interesting because I feel like it comes into play on social media as well.  
 **Translation:** 
 
 **[2779.20s] English:** There's this whole discussion about censorship and freedom of speech.  
-**Translation:** 
+**Translation:** Vocabulary: censorship: 审查制度
 
-**[2782.02s] English:** But to me, the carrot question is almost more interesting once the freedom of speech is established is how do you incentivize high-quality debate and disagreement?  
+**[2782.02s] English:** But to me, the "carrot" question is almost more interesting once freedom of speech is established: how do you incentivize high-quality debate and disagreement?  
 **Translation:** 
 
 **[2793.80s] English:** I'm thinking a lot about that.  
-**Translation:** Vocabulary: incentivize: 激励
+**Translation:** Vocabulary: disagreement: 意见不合; incentivize: 激励
 
-**[2795.46s] English:** And that's one of the things we talk about in Canceling of the American Mind is arguing towards truth and that cancel culture is cruel, it's merciless, it's anti-intellectual, but it also will never get you anywhere in your truth.  
+**[2795.46s] English:** And that's one of the things we talk about in "Canceling the American Mind": arguing towards truth, and that cancel culture is cruel, it's merciless, it's anti-intellectual, but it also will never get you anywhere in your quest for truth.  
 **Translation:** 
 
 **[2808.44s] English:** And you are going to waste so much time destroying your opponents.  
-**Translation:** Vocabulary: canceling: 取消; merciless: 残酷
+**Translation:** Vocabulary: canceling: 取消; merciless: 无情; opponents: 对手
 
-**[2812.02s] English:** In something that can actually never get you to truth through the process, of course, of you never actually get directly at truth.  
+**[2812.02s] English:** In something that can actually never get you to the truth through the process; of course, in the sense that you never actually get directly at truth.  
 **Translation:** 
 
 **[2818.42s] English:** You just chip away at falsity.  
@@ -1528,56 +1529,56 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2820.32s] English:** Yeah.  
 **Translation:** 
 
-**[2820.82s] English:** But everybody having a megaphone on the internet with anonymity, it seems like it's better than censorship.  
+**[2820.82s] English:** But, everyone having a megaphone on the internet with anonymity, it seems like it's better than censorship.  
 **Translation:** Vocabulary: anonymity: 匿名; megaphone: 扩音器
 
-**[2830.12s] English:** But it feels like there's incentives on top of that you can construct to incentivize better discourse.  
+**[2830.12s] English:** But it feels like there are incentives on top of that you can construct to incentivize better discourse.  
 **Translation:** 
 
 **[2839.50s] English:** Yeah.  
 **Translation:** Vocabulary: discourse: 交流; incentives: 激励
 
-**[2840.16s] English:** It's like to incentivize.  
+**[2840.16s] English:** It's like incentivizing.  
 **Translation:** 
 
-**[2841.90s] English:** It's like to incentivize somebody who puts a huge amount of effort to make even the most ridiculous arguments, but basically ones that don't include any of the things you highlight in terms of all the rhetorical tricks to shut down conversations.  
-**Translation:** Vocabulary: rhetorical: 修辞的
+**[2841.90s] English:** It's like incentivizing somebody who puts a huge amount of effort to make even the most ridiculous arguments—but basically ones that don't include any of the things you highlight in terms of all the rhetorical tricks to shut down conversations.  
+**Translation:** Vocabulary: highlight: 强调; incentivizing: 激励; rhetorical: 修辞的
 
 **[2855.16s] English:** Just make really good arguments for whatever.  
 **Translation:** 
 
-**[2858.32s] English:** It doesn't matter if it's communism, for fascism, whatever the heck you want to say.  
+**[2858.32s] English:** It doesn't matter if it's communism, fascism, or whatever the heck you want to say.  
 **Translation:** Vocabulary: communism: 共产主义; fascism: 法西斯主义
 
 **[2862.80s] English:** Yeah.  
 **Translation:** 
 
-**[2862.98s] English:** But do it with skill, with historical context, with steel manning the other side, all those kind of elements.  
+**[2862.98s] English:** But do it with skill, with historical context, with steel-manning the other side — all those kinds of elements.  
 **Translation:** 
 
 **[2870.32s] English:** We try to make three major points.  
 **Translation:** 
 
-**[2871.90s] English:** One is just simply cancel culture is real.  
+**[2871.90s] English:** One is simply that cancel culture is real.  
 **Translation:** 
 
 **[2876.24s] English:** It's a historic era, and it's on a historic scale.  
 **Translation:** 
 
-**[2880.00s] English:** The second one is you should think of cancel culture as part of a rhetorical, as a larger, lazy rhetorical approach to what we refer to as winning arguments without winning arguments.  
+**[2880.00s] English:** The second one is that you should think of cancel culture as part of a larger, lazy rhetorical approach to what we refer to as "winning" arguments without actually winning them.  
 **Translation:** 
 
-**[2893.72s] English:** And we mean that in two senses, without having winning arguments or without actually having won arguments.  
+**[2893.72s] English:** And we mean that in two senses: without having winning arguments, or without actually having won any arguments.  
 **Translation:** 
 
-**[2898.88s] English:** And we talk about all the different what we call rhetorical fortresses that both the left and the right have that prevent you from that allow you to just dismiss the person or dodge the argument without actually ever getting to the substance of the argument.  
-**Translation:** Vocabulary: dodge: 回避
+**[2898.88s] English:** And we talk about all the different rhetorical fortresses that both the left and the right have, which prevent you from actually getting to the substance of the argument, allowing you to simply dismiss the person or dodge the argument.  
+**Translation:** Vocabulary: dismiss: 轻视; dodge: 回避; substance: 实质
 
-**[2913.58s] English:** Third part is just, you know, how do we fix it? But the rhetorical fortress stuff is actually something I've been very passionate about because it interferes with our ability to get at truth and it wastes time.  
+**[2913.58s] English:** The third part is just, you know, how do we fix it? But the rhetorical fortress stuff is actually something I've been very passionate about because it interferes with our ability to get at the truth and it wastes time.  
 **Translation:** 
 
-**[2924.84s] English:** And frankly, it also kind of since cancel culture is part of that rhetorical.  
-**Translation:** Vocabulary: interferes: 干扰
+**[2924.84s] English:** And frankly, it also kind of makes sense since cancel culture is part of that rhetoric.  
+**Translation:** Vocabulary: frankly: 坦白讲; interferes: 干扰; passionate: 热情的; rhetoric: 修辞; rhetorical: 修辞的; wastes: 浪费
 
 **[2928.88s] English:** It can also ruin lives.  
 **Translation:** 
@@ -1585,7 +1586,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2931.24s] English:** It would actually be really fun to talk about this particular aspect of the book.  
 **Translation:** 
 
-**[2934.54s] English:** And I highly recommend if you're listening to this, go preorder the book now.  
+**[2934.54s] English:** And I highly recommend that if you're listening to this, go preorder the book now.  
 **Translation:** 
 
 **[2940.24s] English:** When does it come out?  
@@ -1594,55 +1595,55 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[2941.44s] English:** October 17th.  
 **Translation:** 
 
-**[2942.20s] English:** Okay. The Canceling of the American Mind.  
-**Translation:** Vocabulary: canceling: 取消
+**[2942.20s] English:** Okay. "The Cancellation of the American Mind.  
+**Translation:** Vocabulary: cancellation: 取消
 
-**[2943.80s] English:** Okay. So in the book, you also have a list of cheap rhetorical tactics that both the left and the right use.  
+**[2943.80s] English:** Okay. So, in the book, you also have a list of cheap rhetorical tactics that both the left and the right use.  
 **Translation:** 
 
-**[2953.10s] English:** And then you have a list of tactics that the left uses and the right uses.  
+**[2953.10s] English:** And then you have a list of tactics that the left uses, and the right uses.  
 **Translation:** Vocabulary: tactics: 策略
 
 **[2958.88s] English:** Yeah.  
 **Translation:** 
 
-**[2959.58s] English:** So there's the rhetorical, the perfect rhetorical fortress that the left uses and the efficient rhetorical fortress that the right uses.  
+**[2959.58s] English:** So, there's the rhetorical, perfect rhetorical fortress that the left uses, and the efficient rhetorical fortress that the right uses.  
 **Translation:** 
 
 **[2966.92s] English:** Yeah.  
 **Translation:** 
 
-**[2967.18s] English:** First one is what about ism?  
+**[2967.18s] English:** First, one is "what about ism"?  
 **Translation:** 
 
 **[2969.48s] English:** Yeah.  
 **Translation:** 
 
-**[2969.62s] English:** And maybe we can go through a few of them that capture your heart in this particular moment as we talk about it.  
+**[2969.62s] English:** And maybe we can go through a few of them that capture your heart in this particular moment, as we talk about it.  
 **Translation:** 
 
-**[2974.86s] English:** And if you can describe examples of it or if there's aspects of it that you see there, especially effective.  
+**[2974.86s] English:** And if you can describe examples of it, or if there are aspects of it that you see, especially those that are particularly effective.  
 **Translation:** 
 
-**[2983.84s] English:** So what about ism is defending against criticism of your side by bringing up the other side.  
+**[2983.84s] English:** So, what about using ism to defend against criticism of your side by bringing up the other side?  
 **Translation:** 
 
 **[2988.88s] English:** It's alleged wrongdoing.  
 **Translation:** 
 
-**[2991.28s] English:** I want to make little cards of these, of all of these tactics and start using them on X all the time because they are so commonly deployed.  
+**[2991.28s] English:** I want to make little cards of these, of all of these tactics, and start using them on X all the time because they are so commonly deployed.  
 **Translation:** Vocabulary: alleged: 指控; deployed: 使用; wrongdoing: 不当行为
 
-**[3000.00s] English:** And whataboutism, I put first for a reason.  
+**[3000.00s] English:** And "whataboutism," I put first for a reason.  
 **Translation:** 
 
-**[3002.94s] English:** You know, it would be an interesting idea to actually integrate that into Twitter slash X, where people, you know, instead of clicking heart, they can click which of the rhetorical tactics this is.  
-**Translation:** Vocabulary: integrate: 整合; rhetorical: 修辞的; whataboutism: 转移话题
+**[3002.94s] English:** You know, it would be an interesting idea to actually integrate that into Twitter/X, where people, you know, instead of clicking the heart, they can click which of the rhetorical tactics it is.  
+**Translation:** Vocabulary: integrate: 合并; whataboutism: 转移话题
 
-**[3015.84s] English:** And then, because, you know, there's actually community notes.  
+**[3015.84s] English:** And then, because you know, there are actually community notes.  
 **Translation:** 
 
-**[3018.22s] English:** I don't know if you've seen on X, people can contribute notes.  
+**[3018.22s] English:** I don't know if you've seen on X that people can contribute notes.  
 **Translation:** 
 
 **[3022.62s] English:** And it's quite fascinating.  
@@ -1663,16 +1664,16 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3030.44s] English:** Yeah.  
 **Translation:** 
 
-**[3030.64s] English:** I actually, when I was thinking about ways that X could be used to argue towards truth, I wouldn't want to have it so that, you know, everybody would be bound to that.  
+**[3030.64s] English:** I actually, when I was thinking about ways that X could be used to argue toward the truth, I wouldn't want it to be something that everyone had to adhere to.  
 **Translation:** 
 
-**[3039.48s] English:** But I think that I imagine almost being like a stream within X that was truth focused, that agrees to some additional rules on how they would argue.  
-**Translation:** 
+**[3039.48s] English:** But I think that I imagine almost being like a stream within X, which is truth-focused and agrees to some additional rules on how they would argue.  
+**Translation:** Vocabulary: adhere: 遵守
 
 **[3048.86s] English:** Man, I would love that.  
 **Translation:** 
 
-**[3050.86s] English:** Where, like, there's, in terms of streams that intersect and can be separated, the shit-talking one, where people just enjoy.  
+**[3050.86s] English:** Where, like, there's in terms of streams that intersect and can be separated, the shit-talking one, where people just enjoy.  
 **Translation:** Vocabulary: intersect: 相交
 
 **[3058.60s] English:** Yeah, yeah.  
@@ -1687,13 +1688,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3060.20s] English:** And then there's, like, truth.  
 **Translation:** 
 
-**[3061.82s] English:** And then, I mean, there, like, then there's humor.  
+**[3061.82s] English:** And then, I mean, there's also humor.  
 **Translation:** 
 
-**[3066.32s] English:** Then there's, like, good vibes.  
+**[3066.32s] English:** Then there are, like, good vibes.  
 **Translation:** Vocabulary: vibes: 感觉
 
-**[3068.30s] English:** Like, you know, I'm not, like, somebody who absolutely needs good vibes all the time.  
+**[3068.30s] English:** Like, you know, I'm not like somebody who absolutely needs good vibes all the time.  
 **Translation:** 
 
 **[3072.78s] English:** But sometimes.  
@@ -1702,26 +1703,26 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3073.80s] English:** It's nice to have.  
 **Translation:** 
 
-**[3074.34s] English:** It's nice to just log in and not have to see, like, the drama, the fighting, the bickering, the cancellations, the moms, all of this.  
+**[3074.34s] English:** It's nice to just log in and not have to see, like, the drama, the fighting, the bickering, the cancellations, the moms—all of this.  
 **Translation:** Vocabulary: bickering: 争吵; cancellations: 取消
 
 **[3083.14s] English:** It's good to just see.  
 **Translation:** 
 
-**[3084.90s] English:** That's why I go to Reddit, R, awe.  
+**[3084.90s] English:** That's why I go to Reddit, r/aww.  
 **Translation:** 
 
 **[3088.04s] English:** Or, like.  
 **Translation:** 
 
-**[3088.98s] English:** What are the cute animals ones?  
+**[3088.98s] English:** What are the cute animal ones?  
 **Translation:** 
 
-**[3090.52s] English:** Where there's cute puppies and kittens.  
+**[3090.52s] English:** Where there are cute puppies and kittens.  
 **Translation:** 
 
 **[3092.10s] English:** And it's like.  
-**Translation:** 
+**Translation:** Vocabulary: kittens: 小猫; puppies: 小狗
 
 **[3092.52s] English:** I just want to see Ryan Reynolds singing with Will Ferrell.  
 **Translation:** 
@@ -1738,262 +1739,262 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3097.96s] English:** Yeah.  
 **Translation:** 
 
-**[3098.66s] English:** Not all the time, just a little bit.  
+**[3098.66s] English:** Not all the time; just a little bit.  
 **Translation:** 
 
 **[3100.36s] English:** And right back to the battle for truth.  
 **Translation:** 
 
-**[3103.92s] English:** Okay, so what about-ism?  
+**[3103.92s] English:** Okay, so what about -ism?  
 **Translation:** 
 
-**[3104.98s] English:** What about-ism?  
+**[3104.98s] English:** What about - ism?  
 **Translation:** 
 
 **[3105.86s] English:** Yeah, that's everywhere when you look at it.  
 **Translation:** 
 
-**[3108.34s] English:** When you look at Twitter, when you look at social media in general.  
+**[3108.34s] English:** When you look at Twitter, or when you look at social media in general.  
 **Translation:** 
 
-**[3111.94s] English:** And the first, what we call the obstacle course is basically time-tested, old-fashioned, you know.  
+**[3111.94s] English:** And the first, what we call the obstacle course, is basically time-tested and old-fashioned, you know.  
 **Translation:** 
 
-**[3118.60s] English:** Argumentative dodges.  
+**[3118.60s] English:** Argumentative Dods.  
 **Translation:** 
 
-**[3120.00s] English:** that everybody uses and what about ism is just bringing up something uh you know like someone  
-**Translation:** Vocabulary: dodges: 回避论点
-
-**[3124.70s] English:** makes an argument like biden is corrupt and and then someone says well trump was worse you know  
+**[3120.00s] English:** That everybody uses, and what about ISM is just bringing up something, you know, like someone.  
 **Translation:** 
 
-**[3129.26s] English:** like and that's not an illegitimate you know argument to make back but it does it seems to  
-**Translation:** Vocabulary: illegitimate: 不合法的
-
-**[3136.54s] English:** happen every time someone makes an assertion someone just points out some other thing that  
+**[3124.70s] English:** Makes an argument like Biden is corrupt, and then someone says, "Well, Trump was worse," you know.  
 **Translation:** 
 
-**[3139.38s] English:** was going on and it can get increasingly attenuated from from what you're actually  
+**[3129.26s] English:** Like, and that's not an illegitimate argument to make, but it does seem to  
+**Translation:** Vocabulary: corrupt: 贪污; illegitimate: 不正当
+
+**[3136.54s] English:** Happen every time, someone makes an assertion, someone just points out some other thing that  
+**Translation:** 
+
+**[3139.38s] English:** What was going on and it can get increasingly attenuated from what you're actually  
 **Translation:** Vocabulary: assertion: 断言; attenuated: 减弱
 
-**[3143.18s] English:** trying to argue and when you and that you see this all the time on social media and it's kind  
+**[3143.18s] English:** Trying to argue, and when you see this all the time on social media, and it's kind  
 **Translation:** 
 
-**[3148.72s] English:** of you know i was a big fan of john stewart's daily show but an awful lot of what the humor  
+**[3148.72s] English:** Of course, I was a big fan of Jon Stewart's Daily Show, but an awful lot of the humor  
 **Translation:** 
 
-**[3153.72s] English:** was and what the tactic was for arguing was this thing over here it's like oh i'm making this  
+**[3153.72s] English:** Was and what the tactic was for arguing was: this thing over here, it's like, oh, I'm making this.  
 **Translation:** 
 
-**[3157.94s] English:** argument about this important problem oh actually you know there's this other problem over here that  
+**[3157.94s] English:** An argument about this important problem, oh, actually, you know, there's this other problem over here that...  
 **Translation:** Vocabulary: tactic: 策略
 
-**[3162.96s] English:** i'm more concerned about and it you know and on the you know let's let's pick on the right here  
+**[3162.96s] English:** I'm more concerned about and, you know, and on the right here.  
 **Translation:** 
 
-**[3167.74s] English:** so january 6th you know watching everybody arguing about um chop you know like the um uh the the  
+**[3167.74s] English:** So, January 6th, you know, watching everybody argue about, um, the chop, you know, like the, the  
 **Translation:** 
 
-**[3175.60s] English:** occupied part of seattle or the occupied part of portland  
+**[3175.60s] English:** Occupied part of Seattle or the occupied part of Portland.  
 **Translation:** 
 
-**[3178.72s] English:** and so and basically trying to like oh you're bringing up the the the riot on january 6th  
+**[3178.72s] English:** And so, basically, trying to bring up the riot on January 6th.  
 **Translation:** Vocabulary: portland: 波特兰; seattle: 西雅图
 
-**[3183.52s] English:** um and by the way i live on capitol hill so believe me i was very aware of like how  
+**[3183.52s] English:** Um, and by the way, I live on Capitol Hill, so believe me, I was very aware of how  
 **Translation:** 
 
-**[3187.84s] English:** scary and bad it was um you know like i just my dad grew up in yugoslavia and that was a night  
-**Translation:** Vocabulary: yugoslavia: 南斯拉夫
+**[3187.84s] English:** Scary and bad—it was, um, you know, like I just remember my dad growing up in Yugoslavia, and that was a night.  
+**Translation:** Vocabulary: capitol: 国会山; yugoslavia: 南斯拉夫
 
-**[3193.84s] English:** where we all ate dinner in the basement because i'm like oh when the goes down eat in  
+**[3193.84s] English:** Where we all ate dinner in the basement, because I'm like, "Oh, when the power goes down, eat in.  
 **Translation:** 
 
-**[3197.52s] English:** the basement it was it was it was genuinely scary and people would try to deflect from january 6th  
-**Translation:** Vocabulary: deflect: 转移话题
+**[3197.52s] English:** The basement was genuinely scary, and people would try to deflect from January 6th.  
+**Translation:** Vocabulary: deflect: 转移注意; genuinely: 确实
 
-**[3203.36s] English:** being serious by actually be making the argument that oh well there are crazy horrible things  
+**[3203.36s] English:** Being serious, by actually making the argument that, oh, well, there are crazy and horrible things.  
 **Translation:** 
 
-**[3208.72s] English:** in all over the country uh you know riots uh um that came from some of the social justice protests  
-**Translation:** Vocabulary: riots: 暴乱
+**[3208.72s] English:** In all over the country, uh, you know, riots that came from some of the social justice protests.  
+**Translation:** Vocabulary: protests: 社会正义抗议; riots: 暴乱
 
-**[3215.60s] English:** and of course the answer is you can be concerned about both of these things and and find them both  
+**[3215.60s] English:** And, of course, the answer is that you can be concerned about both of these things and find them both important.  
 **Translation:** 
 
-**[3220.56s] English:** problems but you know if i'm arguing about chop you know someone bringing up january 6th isn't  
+**[3220.56s] English:** Problems, but you know, if I'm arguing about "chop," you know, someone bringing up January 6th isn't  
 **Translation:** 
 
-**[3226.32s] English:** super relevant to it or if i'm arguing about january 6 someone uh bringing up the riots in 2020  
+**[3226.32s] English:** Super relevant to it, or if I'm arguing about January 6, someone bringing up the riots in 2020.  
 **Translation:** 
 
-**[3232.24s] English:** isn't that helpful we took a long dark journey from what aboutism yeah and uh related to that  
+**[3232.24s] English:** Isn't that helpful? We took a long, dark journey from whataboutism, yeah, and related to that.  
+**Translation:** Vocabulary: whataboutism: 以牙还牙的论调
+
+**[3238.72s] English:** And steel manning, so Mr.  
 **Translation:** 
 
-**[3238.72s] English:** and steel manning so mr  
+**[3240.00s] English:** Representing the perspective of the opposing perspective, and this is something also.  
 **Translation:** 
 
-**[3240.00s] English:** representing the the the perspective of the the opposing perspective and this is something also  
+**[3246.70s] English:** Uh, I guess it's very prevalent, and it's difficult to do the reverse of that, which is steel manning.  
 **Translation:** 
 
-**[3246.70s] English:** uh i guess it's very prevalent and it's difficult to do the reverse of that which is steel manning  
+**[3254.24s] English:** Requires empathy, requires eloquence, requires understanding—actually doing the research and  
+**Translation:** Vocabulary: eloquence: 口才; empathy: 共情; prevalent: 普遍
+
+**[3259.72s] English:** Understanding the alternative perspective, my wonderful employee Angelo has.  
 **Translation:** 
 
-**[3254.24s] English:** requires empathy requires eloquence requires understanding actually doing the research and  
-**Translation:** Vocabulary: eloquence: 口才; empathy: 同理心; prevalent: 普遍
+**[3265.50s] English:** Something that he calls Star Manning, and I find myself doing this a lot; it's nice to have.  
+**Translation:** Vocabulary: angelo: 安杰洛
 
-**[3259.72s] English:** understanding the the the alternative perspective my uh wonderful employee angel anduardo has  
+**[3270.54s] English:** You know, with two immigrant parents, I remember being in San Francisco, uh,  
 **Translation:** 
 
-**[3265.50s] English:** something that he calls star manning and and i find myself doing this a lot it's nice to have  
-**Translation:** Vocabulary: anduardo: 安德拉杜
-
-**[3270.54s] English:** you know two immigrant parents um because i remember being in san francisco uh you know  
-**Translation:** 
-
-**[3276.08s] English:** in the weird kind of like aclu slash burning man kind of cohort and having a friend there who was  
+**[3276.08s] English:** In the weird, kind of like ACLU slash Burning Man kind of cohort, and having a friend there who was  
 **Translation:** Vocabulary: cohort: 同辈群体; immigrant: 移民
 
-**[3285.00s] English:** an artist who would talk about hating kansas and that was his metaphor for middle america  
+**[3285.00s] English:** An artist who would talk about hating Kansas, and that was his metaphor for Middle America.  
 **Translation:** 
 
-**[3290.88s] English:** is what he meant by it and but he was kind of proud of the fact that he hated  
+**[3290.88s] English:** Is what he meant by it, and but he was kind of proud of the fact that he hated.  
 **Translation:** Vocabulary: kansas: 堪萨斯; metaphor: 比喻
 
-**[3295.48s] English:** kansas and i'm like you got to understand i still see all of you a little bit as foreigners  
+**[3295.48s] English:** Kansas, and I'm like, you've got to understand; I still see all of you a little bit as foreigners.  
 **Translation:** 
 
-**[3301.18s] English:** and think about like change the name of kansas to croatia you know change the name of kansas to to  
+**[3301.18s] English:** And think about changing the name of Kansas to Croatia, you know?  
+**Translation:** Vocabulary: croatia: 克罗地亚
+
+**[3309.28s] English:** To some, that's what it sounds like to me, and the "Star Manning" idea, which I like, is...  
 **Translation:** 
 
-**[3309.28s] English:** to some that's what it sounds like to me and the star manning idea which i which i like is is the  
+**[3315.12s] English:** The idea of being like, so you're saying that you really hate your dominant religious minority?  
+**Translation:** Vocabulary: dominant: 优势的
+
+**[3319.46s] English:** Like, and that's when you start actually detaching yourself a little bit from it.  
 **Translation:** 
 
-**[3315.12s] English:** idea of being like so you're saying that you really hate your dominant religious minority  
-**Translation:** 
-
-**[3319.46s] English:** like and that's when you start actually detaching yourself a little bit from it  
-**Translation:** 
-
-**[3323.68s] English:** how typical  
+**[3323.68s] English:** How typical.  
 **Translation:** Vocabulary: detaching: 脱离
 
-**[3325.48s] English:** america is exceptional in a number of ways but some of our dynamics are  
+**[3325.48s] English:** America is exceptional in a number of ways, but some of our dynamics are  
 **Translation:** 
 
-**[3329.56s] English:** incredibly typical it's one of the reasons why like when people start reading thomas soul for  
-**Translation:** Vocabulary: exceptional: 与众不同
+**[3329.56s] English:** Incredibly typical; it's one of the reasons why, like, when people start reading Thomas Soul,  
+**Translation:** Vocabulary: exceptional: 特殊的
 
-**[3334.46s] English:** example they start getting hooked because one of the things he does is he does comparative analysis  
+**[3334.46s] English:** Example, they start getting hooked because one of the things he does is he performs comparative analysis.  
 **Translation:** 
 
-**[3338.44s] English:** of countries problems and points out that some of these things that we think are just unique to the  
+**[3338.44s] English:** Of countries, problems, and points out that some of these things that we think are just unique to the  
+**Translation:** Vocabulary: hooked: 上瘾
+
+**[3343.22s] English:** United States exists in, you know, 75% of the rest of the countries in the world, Francis Fukuyama's, um,...  
 **Translation:** 
 
-**[3343.22s] English:** united states exist in you know 75 of the rest of the countries in the world francis fukuyama's um  
+**[3349.68s] English:** The book that I'm reading right now, "Origins of Political Order," actually does this wonderful  
 **Translation:** 
 
-**[3349.68s] English:** the book that i'm reading right now origins of the political order actually does this wonderful  
+**[3353.68s] English:** Job of pointing out how we're not.  
 **Translation:** 
 
-**[3353.68s] English:** job of pointing out how we're not  
+**[3355.48s] English:** Special in a variety of ways, this is actually something that's very much on my mind.  
 **Translation:** 
 
-**[3355.48s] English:** special in a variety of ways this is actually something that's very much on my mind  
+**[3360.00s] English:** And Fukuyama—of course—it's a great book.  
 **Translation:** 
 
-**[3360.00s] English:** And Fukuyama, of course, it's a great book.  
-**Translation:** 
-
-**[3366.12s] English:** It's stilted a little bit in its writing because his term for one of the things he's concerned about what destroys societies is repatrimonialization, which is the reversion to societies in which you favor your family and friends.  
+**[3366.12s] English:** It's a bit stilted in its writing because his term for one of the things he's concerned about—what destroys societies—is "repatrimonialization," which is the reversion to societies in which you favor your family and friends.  
 **Translation:** Vocabulary: fukuyama: 福山; repatrimonialization: 再家产化; reversion: 逆转; stilted: 造作
 
 **[3383.94s] English:** And I actually think a lot of what I'm seeing in the United States.  
 **Translation:** 
 
-**[3389.82s] English:** It makes me worried that we might be going through a little bit of a process of repatrimonialization.  
+**[3389.82s] English:** It makes me worry that we might be going through a little bit of a process of repatrimonialization.  
 **Translation:** 
 
 **[3394.06s] English:** And I think that's one of the reasons why people are so angry.  
 **Translation:** 
 
-**[3396.06s] English:** I think having I think the prospect that we, you know, we very nearly seem to have an election that was going to be, you know, Jeb Bush versus Hillary Clinton.  
-**Translation:** Vocabulary: hillary: 希拉里
+**[3396.06s] English:** I think having the prospect that we, you know, we very nearly seemed to have an election where it was going to be, you know, Jeb Bush versus Hillary Clinton.  
+**Translation:** Vocabulary: hillary: 希拉里; prospect: 可能性
 
 **[3406.28s] English:** It's like, are we a dynastic country now?  
 **Translation:** 
 
 **[3408.68s] English:** Is that what's kind of happening?  
-**Translation:** Vocabulary: dynastic: 世袭制
+**Translation:** Vocabulary: dynastic: 帝王家的
 
-**[3410.40s] English:** But also, it's one of the reasons why people are getting so angry about the about legacy admissions, about like how much, you know, certain families seem to be able to keep their people.  
+**[3410.40s] English:** But also, it's one of the reasons why people are getting so angry about legacy admissions—about how much, you know, certain families seem to be able to keep their people.  
 **Translation:** 
 
-**[3419.82s] English:** In the upper classes of the United States perpetually.  
+**[3419.82s] English:** In the upper classes of the United States, this is perpetually true.  
 **Translation:** Vocabulary: perpetually: 长久地
 
-**[3422.72s] English:** And believe me, like I was poor when I was a kid and I went and I got to go to I got to go to one of the fancies.  
+**[3422.72s] English:** And believe me, like I was poor when I was a kid, and I got to go to one of the fancier places.  
 **Translation:** 
 
-**[3428.82s] English:** I got to go to Stanford and I got to see how people.  
-**Translation:** Vocabulary: stanford: 斯坦福大学
-
-**[3436.16s] English:** They treat you differently in a way that's almost insulting, like basically like suddenly to a certain kind of person.  
+**[3428.82s] English:** I got to go to Stanford, and I got to see how people.  
 **Translation:** 
 
-**[3443.54s] English:** I was a legitimate person and I look at how much America relies on Harvard on Yale.  
-**Translation:** Vocabulary: insulting: 侮辱
-
-**[3449.82s] English:** To produce its I'm going to use a very Marxist sounding term ruling class and that's one of the reasons why you have to be particularly worried about what goes on at these elite colleges and these elite colleges with the exception of University of Chicago and UVA do really badly regarding freedom of speech and that has all sorts of problems.  
+**[3436.16s] English:** They treat you differently in a way that's almost insulting, like basically, suddenly to a certain kind of person.  
 **Translation:** 
 
-**[3470.68s] English:** It doesn't bode well for the future of the protection of freedom of speech for the rest of the society.  
+**[3443.54s] English:** I was a legitimate person, and I look at how much America relies on Harvard and Yale.  
+**Translation:** Vocabulary: insulting: 侮辱; legitimate: 正当
+
+**[3449.82s] English:** To produce its content, I'm going to use a very Marxist-sounding term, "ruling class," and that's one of the reasons why you have to be particularly worried about what goes on at these elite colleges. With the exception of University of Chicago and UVA, these elite colleges do really badly regarding freedom of speech, and that has all sorts of problems.  
 **Translation:** 
 
-**[3477.48s] English:** So can you also empathize there?  
+**[3470.68s] English:** It doesn't bode well for the future of the protection of freedom of speech for the rest of society.  
+**Translation:** 
+
+**[3477.48s] English:** So, can you empathize with that as well?  
 **Translation:** 
 
 **[3479.82s] English:** I don't think so.  
-**Translation:** Vocabulary: empathize: 感同身受
+**Translation:** Vocabulary: empathize: 同感
 
-**[3480.00s] English:** with the folks who voted for Donald Trump, because precisely that is a resistance to this  
+**[3480.00s] English:** With the folks who voted for Donald Trump, because precisely that is a resistance to this.  
 **Translation:** 
 
-**[3488.24s] English:** kind of momentum of the ruling class, this royalty that passes on the rule from generation to  
+**[3488.24s] English:** Kind of momentum of the ruling class, this royalty that passes on the rule from generation to generation.  
+**Translation:** Vocabulary: precisely: 正是; royalty: 王室
+
+**[3499.12s] English:** Generation. I try really hard to empathize with everyone, to a degree, and try to really see where.  
 **Translation:** 
 
-**[3499.12s] English:** generation. I try really hard to empathize with, to a degree, everybody and try to really see where  
+**[3505.60s] English:** They're coming from, and the anger on the right, I get it. I feel like the book... So, coddling the  
 **Translation:** 
 
-**[3505.60s] English:** they're coming from. And the anger on the right, I get it. I feel like the book... So Coddling the  
+**[3515.76s] English:** American Mind was a book that could be sort of a crowd-pleaser to a degree, partially because we  
 **Translation:** 
 
-**[3515.76s] English:** American Mind was a book that could be sort of a crowd pleaser to a degree, partially because we  
-**Translation:** 
-
-**[3521.90s] English:** really meant what we said in the subtitle, that these are good intentions and bad ideas that are  
+**[3521.90s] English:** Really, we meant what we said in the subtitle: that these are good intentions and bad ideas that are  
 **Translation:** Vocabulary: subtitle: 副标题
 
-**[3528.72s] English:** hurting people. And if you understand it and read the book, you can say, it's like, okay, this isn't  
+**[3528.72s] English:** Hurtling people. And if you understand it and read the book, you can say, "It's like, okay, this isn't...  
 **Translation:** 
 
 **[3533.58s] English:** anybody being...  
+**Translation:** Vocabulary: hurtling: 飞驰
+
+**[3535.60s] English:** Malicious. This is people trying to protect their kids. They're just doing it in a way that actually.  
 **Translation:** 
 
-**[3535.60s] English:** Malicious. This is people trying to protect their kids. They're just doing it in a way that actually  
+**[3540.30s] English:** Can actually lead to greater anxiety, depression, and, strangely, eventually pose a threat to freedom.  
+**Translation:** Vocabulary: malicious: 恶意; strangely: 奇怪地
+
+**[3546.66s] English:** Of speech. But in this one, we can't be quite... Me and my... Oh, I haven't even mentioned my.  
 **Translation:** 
 
-**[3540.30s] English:** can actually lead to greater anxiety, depression, and strangely, eventually pose a threat to freedom  
+**[3552.80s] English:** Brilliant co-author, Rikki Schlatt, a 23-year-old genius. She's amazing. I started working with her.  
 **Translation:** 
 
-**[3546.66s] English:** of speech. But in this one, we can't be quite... Me and my... Oh, I haven't even mentioned my  
-**Translation:** 
-
-**[3552.80s] English:** brilliant co-author, Rikki Schlatt, a 23-year-old genius. She's amazing. I started working with her  
-**Translation:** Vocabulary: rikki: 里基
-
-**[3559.28s] English:** when she was 20, who's my co-author on this book. So when I'm saying we, I'm talking about me and  
+**[3559.28s] English:** When she was 20, she's my co-author on this book. So when I'm saying "we," I'm talking about me and  
 **Translation:** 
 
 **[3564.20s] English:** Rikki.  
@@ -2002,80 +2003,80 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3564.56s] English:** She's a libertarian.  
 **Translation:** 
 
-**[3565.84s] English:** Libertarian journalist.  
+**[3565.84s] English:** Libertarian Journalist.  
 **Translation:** Vocabulary: libertarian: 自由主义者
 
-**[3566.98s] English:** And a journalist. Yeah, brilliant mind.  
+**[3566.98s] English:** And a journalist. Yeah, what a brilliant mind.  
 **Translation:** 
 
 **[3570.14s] English:** But we can't actually write this in a way that's too kind, because counselors aren't kind. There's  
 **Translation:** 
 
-**[3575.68s] English:** a cruelty and a mercilessness about it. I mean, I started getting really depressed this past year  
+**[3575.68s] English:** A cruelty and a mercilessness about it. I mean, I started getting really depressed this past year.  
 **Translation:** 
 
-**[3580.84s] English:** when I was writing it, and I didn't even want to tell my staff why I was getting so anxious and  
-**Translation:** Vocabulary: mercilessness: 冷酷无情
+**[3580.84s] English:** When I was writing it, and I didn't even want to tell my staff why I was getting so anxious and...  
+**Translation:** Vocabulary: cruelty: 残忍; mercilessness: 残酷
 
-**[3584.12s] English:** depressed. It's partially because I'm talking about people who will, in some of the cases we're  
+**[3584.12s] English:** Depressed. It's partially because I'm talking about people who will, in some of the cases, we're  
 **Translation:** 
 
-**[3590.10s] English:** talking about, go to your house, target your kids.  
+**[3590.10s] English:** Talking about it, go to your house and target your kids.  
 **Translation:** 
 
-**[3593.06s] English:** So that's a long-winded way of saying I kind of can get...  
+**[3593.06s] English:** So, that's a long-winded way of saying I kind of can get...  
 **Translation:** 
 
-**[3600.00s] English:** what sort of drives the right nuts to a degree in this i feel like they're constantly feeling  
+**[3600.00s] English:** What sort of drive does the right nut to a degree in this? I feel like they're constantly feeling.  
 **Translation:** 
 
-**[3604.40s] English:** like they're being gas lit um elite education is really insulting to the working class um  
+**[3604.40s] English:** Like they're being gaslit, elite education is really insulting to the working class.  
 **Translation:** 
 
-**[3612.56s] English:** like it part of the ideology that is dominant right now kind of treats almost 70 of the american  
-**Translation:** Vocabulary: ideology: 思想体系; insulting: 侮辱
+**[3612.56s] English:** Like it's part of the ideology that is dominant right now, kind of treats almost 70% of the American  
+**Translation:** Vocabulary: dominant: 占主导地位; gaslit: 被操纵; ideology: 意识形态; insulting: 侮辱性的; treats: 对待
 
-**[3618.96s] English:** public like they're we thought we developed this a little bit in the perfect rhetorical fortress  
+**[3618.96s] English:** Public, like they're thinking we developed this a little bit in the perfect rhetorical fortress.  
 **Translation:** 
 
-**[3622.96s] English:** like they're to some some way illegitimate um and not worthy of respect or compassion  
-**Translation:** Vocabulary: compassion: 同情; illegitimate: 非法; rhetorical: 修辞
+**[3622.96s] English:** Like they're somehow illegitimate, and not worthy of respect or compassion.  
+**Translation:** Vocabulary: compassion: 同情; illegitimate: 不合法; rhetorical: 修辞的
 
-**[3630.40s] English:** yeah the the general elitism that radiates self-fueling elitism that radiates from the  
+**[3630.40s] English:** Yeah, the general elitism that radiates, self-fueling elitism that radiates from the  
 **Translation:** 
 
-**[3637.76s] English:** people that go to these institutions and what's funny is the the the elitism has been repackaged  
+**[3637.76s] English:** People who go to these institutions, and what's funny is that the elitism has been repackaged.  
 **Translation:** Vocabulary: elitism: 精英主义; radiates: 辐射
 
-**[3644.32s] English:** as a kind of it masquerades as kind of infinite compassion but essentially it's based in a sort of  
+**[3644.32s] English:** As a kind of thing, it masquerades as kind of infinite compassion, but essentially it's based in a sort of  
 **Translation:** 
 
-**[3653.28s] English:** a very to be frank overly simple ideology and over simply a simple explanation of the world and  
-**Translation:** Vocabulary: masquerades: 伪装成
+**[3653.28s] English:** A very, to be frank, overly simple ideology and oversimplifying a simple explanation of the world and  
+**Translation:** Vocabulary: infinite: 无尽; masquerades: 伪装; overly: 过于; oversimplifying: 简化过度
 
-**[3661.28s] English:** breaking people into groups and judging people on how oppressed they are on their on the intersection  
+**[3661.28s] English:** Breaking people into groups and judging them on how oppressed they are on their own intersectionality.  
 **Translation:** 
 
-**[3667.36s] English:** of their various identities um and it came to that i think initially with with it had appeal  
-**Translation:** Vocabulary: intersection: 多重身份交集
+**[3667.36s] English:** Of their various identities, um, and it came to that; I think initially, it had appeal.  
+**Translation:** Vocabulary: intersectionality: 多重身份交叉; oppressed: 受压迫
 
-**[3674.64s] English:** from a compassionate core but it gets used in a way that is can be very cruel very dismissive  
+**[3674.64s] English:** From a compassionate core, but it gets used in a way that can be very cruel and dismissive.  
 **Translation:** 
 
-**[3682.96s] English:** compassionless and allows you to not take seriously most of your fellow human beings  
-**Translation:** Vocabulary: compassionate: 同情的; compassionless: 无情的
+**[3682.96s] English:** Compassionless, and it allows you to not take most of your fellow human beings seriously.  
+**Translation:** Vocabulary: compassionate: 富有同情心; compassionless: 冷酷无情
 
-**[3689.04s] English:** it's really weird how that happened maybe you can explore why a thing that has  
+**[3689.04s] English:** It's really weird how that happened. Maybe you can explore why a thing that has.  
 **Translation:** 
 
-**[3695.68s] English:** kind of sounds good at first yeah can be can create can become such a cruel weapon of  
+**[3695.68s] English:** Kind of sounds good at first, yeah. Can be, can become such a cruel weapon of.  
 **Translation:** 
 
-**[3703.76s] English:** canceling and hurting people and ignoring people i mean this is what you describe with  
+**[3703.76s] English:** Canceling, hurting, and ignoring people—I mean, this is what you describe with.  
 **Translation:** 
 
-**[3708.08s] English:** a perfect rhetorical fortress yeah which is a set of questions maybe you can  
-**Translation:** Vocabulary: canceling: 取消
+**[3708.08s] English:** A perfect rhetorical fortress, yeah— which is a set of questions—maybe you can.  
+**Translation:** Vocabulary: canceling: 取消; rhetorical: 修辞的
 
 **[3711.60s] English:** Can you elaborate? I want the perfect rhetorical fortresses.  
 **Translation:** 
@@ -2083,139 +2084,139 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3715.04s] English:** Yeah, so the perfect rhetorical fortress is the way that's been developed.  
 **Translation:** Vocabulary: elaborate: 详细说明
 
-**[3720.00s] English:** on the left to not ever get to someone's actual argument. I want to make a chart,  
+**[3720.00s] English:** On the left, to never get to someone's actual argument. I want to make a chart.  
 **Translation:** 
 
-**[3726.50s] English:** like a flow chart of this about like, here's the argument and here is this perfect fortress that  
+**[3726.50s] English:** Like a flowchart of this, about how here's the argument, and here is this perfect fortress that  
+**Translation:** Vocabulary: flowchart: 流程图
+
+**[3730.48s] English:** Will deflect you every time from getting to the argument. And I started to notice this certainly.  
 **Translation:** 
 
-**[3730.48s] English:** will deflect you every time from getting to the argument. And I started to notice this certainly  
+**[3736.10s] English:** When I was in law school, there were lots of different ways you could dismiss people.  
+**Translation:** Vocabulary: deflect: 偏离; dismiss: 驳回
+
+**[3740.14s] English:** And it's a perfect rhetorical fortress—step one. And I can attest to this because I was guilty of it.  
 **Translation:** 
 
-**[3736.10s] English:** when I was in law school, that there were lots of different ways you could dismiss people.  
-**Translation:** Vocabulary: deflect: 偏离
-
-**[3740.14s] English:** And perfect rhetorical fortress, step one, and I can attest to this because I was guilty of this  
+**[3746.54s] English:** As well, you can dismiss people if you can argue that they're conservative. They don't have  
 **Translation:** 
 
-**[3746.54s] English:** as well, that you can dismiss people if you can argue that they're conservative. They don't have  
-**Translation:** Vocabulary: rhetorical: 论辩的
-
-**[3752.34s] English:** to be conservative to be clear. You just have to say that they are. So I never read Thomas Sowell  
+**[3752.34s] English:** To be conservative, to be clear: you just have to say that they are. So, I never read Thomas Sowell.  
 **Translation:** 
 
-**[3758.54s] English:** because he was a right winger. I didn't read Camille Paglia because someone had convinced  
-**Translation:** Vocabulary: camille: Pagli娅; sowell: 萨缪尔
+**[3758.54s] English:** Because he was a right winger, I didn't read Camille Paglia because someone had convinced me.  
+**Translation:** Vocabulary: camille: Pagli娅; sowell: 右翼; winger: 政治派别
 
-**[3764.86s] English:** me she was a right winger. There were lots of authors that, and when I was in law school,  
+**[3764.86s] English:** Me, she was a right-winger. There were lots of authors that, and when I was in law school,  
 **Translation:** 
 
-**[3769.56s] English:** among a lot of very bright people, it really was already an intellectual habit that if you  
+**[3769.56s] English:** Among a lot of very bright people, it really was already an intellectual habit that if you  
 **Translation:** 
 
-**[3776.52s] English:** could designate something conservative, then you didn't really have to think about it very much  
+**[3776.52s] English:** Could designate something as conservative, then you didn't really have to think about it very much.  
 **Translation:** 
 
-**[3780.28s] English:** anymore or take it particularly seriously. That's a childish way of arguing. But nonetheless,  
+**[3780.28s] English:** Anymore, or take it particularly seriously. That's a childish way of arguing. But nonetheless,...  
 **Translation:** Vocabulary: childish: 幼稚
 
-**[3786.14s] English:** I engaged in it. It was a common tactic. I even mentioned in the book, there was a time when a  
+**[3786.14s] English:** I engaged in it. It was a common tactic. I even mentioned in the book: there was a time when a  
 **Translation:** 
 
-**[3790.12s] English:** a gay activist friend who was, I think, decidedly to my left, but nonetheless had that pragmatic  
+**[3790.12s] English:** A gay activist friend, who was, I think, decidedly to my left, but nonetheless had that pragmatic  
 **Translation:** Vocabulary: decidedly: 明确地; pragmatic: 实用的; tactic: 策略
 
-**[3797.24s] English:** experience of actually being an activist, said something like, well, just because someone's  
+**[3797.24s] English:** Experience of actually being an activist, said something like, "Well, just because someone's  
 **Translation:** 
 
-**[3801.38s] English:** conservative doesn't mean they're wrong. And I remember feeling kind of scandalized at some  
+**[3801.38s] English:** Conservative doesn't mean they're wrong. And I remember feeling kind of scandalized at some.  
 **Translation:** Vocabulary: scandalized: 震惊
 
-**[3806.28s] English:** level.  
+**[3806.28s] English:** Level.  
 **Translation:** 
 
-**[3806.52s] English:** Just being like, well, no, that's kind of, it's not the whole thing. What we're saying is that  
+**[3806.52s] English:** Just being like, well, no, that's kind of not the whole thing. What we're saying is that,...  
 **Translation:** 
 
-**[3809.28s] English:** they're just kind of bad people with bad ideas. You can just throw a, oh, that guy's a right  
+**[3809.28s] English:** They're just kind of bad people with bad ideas. You can just throw a, oh, that guy's a right.  
 **Translation:** 
 
-**[3813.78s] English:** winger. You can just throw that. Don't have to think about you anymore. Yeah. And then it can,  
+**[3813.78s] English:** Winger: You can just throw that. You don't have to think about me anymore. Yeah. And then it can,...  
 **Translation:** 
 
-**[3818.28s] English:** if you're popular enough, it can be those, it can be kind of sticky. Yeah. Like, and it's weird  
+**[3818.28s] English:** If you're popular enough, it can be sticky. It's kind of like that. Yeah, and it's weird.  
 **Translation:** 
 
-**[3824.42s] English:** because, because it's effective. That's why it keeps on getting used. It essentially, it, it  
+**[3824.42s] English:** Because it's effective. That's why it keeps on getting used. It essentially is.  
 **Translation:** 
 
-**[3829.74s] English:** should have hit someone's because, because I, you know, I have a great liberal pedigree, you know,  
+**[3829.74s] English:** Should have hit someone's because, you know, I have a great liberal pedigree, you know.  
 **Translation:** 
 
-**[3835.78s] English:** everything from working in the military to, you know, working in the military to, you know,  
-**Translation:** Vocabulary: pedigree: 家世背景
+**[3835.78s] English:** Everything from working in the military to, you know, working in the military to, you know,  
+**Translation:** Vocabulary: pedigree: 家世
 
-**[3836.28s] English:** from working at the ACLU to doing refugee law in Eastern Europe to, I was part of.  
+**[3836.28s] English:** From working at the ACLU to doing refugee law in Eastern Europe, I was part of.  
 **Translation:** 
 
-**[3840.00s] English:** an environmental mentoring program for inner city high school kids in DC. I can defend myself as  
-**Translation:** Vocabulary: mentoring: 导师制
+**[3840.00s] English:** An environmental mentoring program for inner-city high school kids in DC. I can defend myself as  
+**Translation:** Vocabulary: mentoring: 导师制; refugee: 难民
 
-**[3849.38s] English:** being on the left, but I hate doing that because there's also part of me that's like, okay,  
+**[3849.38s] English:** Being on the left, but I hate doing that because there's also a part of me that's like, okay,  
 **Translation:** 
 
-**[3855.44s] English:** so what? Are you really saying that if you can magically make me argue or convince yourself that  
+**[3855.44s] English:** So, what? Are you really saying that if you could magically make me argue or convince myself that  
 **Translation:** 
 
-**[3863.14s] English:** I'm on the right, that you don't have to listen to me anymore? And again, that's arguing like  
+**[3863.14s] English:** I'm on the right; do you not have to listen to me anymore? And again, that's arguing like  
 **Translation:** 
 
-**[3867.40s] English:** children. And the reason why this has become so popular is because even among, or maybe especially  
+**[3867.40s] English:** Children. And the reason why this has become so popular is because, even among, or maybe especially,  
 **Translation:** 
 
-**[3873.20s] English:** among elites that it works so effectively as a perfect weapon that you can use uncritically.  
+**[3873.20s] English:** Among elites, it is often seen as working so effectively as a perfect weapon that it can be used uncritically.  
 **Translation:** 
 
-**[3878.58s] English:** If I can just prove you're on the right, I don't have to think about you. It's no wonder that  
-**Translation:** Vocabulary: uncritically: 不加批判地
+**[3878.58s] English:** If I can just prove you're on the right track, I don't have to think about it. It's no wonder that.  
+**Translation:** Vocabulary: elites: 精英; uncritically: 不加批判地
 
-**[3882.80s] English:** suddenly you start seeing people calling the ACLU right wing and calling the New York Times right  
+**[3882.80s] English:** Suddenly, you start seeing people calling the ACLU "right-wing" and calling the New York Times "right.  
 **Translation:** 
 
-**[3888.32s] English:** wing because it's been such an effective way to delegitimize people as thinkers. Stephen Pinker,  
+**[3888.32s] English:** Wing has argued because it's been such an effective way to delegitimize people as thinkers. Stephen Pinker,  
 **Translation:** Vocabulary: delegitimize: 使合法化受损; thinkers: 思想家
 
-**[3896.28s] English:** who's on our board.  
+**[3896.28s] English:** Who's on our board?  
 **Translation:** 
 
-**[3897.40s] English:** He refers to academia as being the left pole, that essentially it's a position that from that  
+**[3897.40s] English:** He refers to academia as being the "left pole," that essentially it's a position that from that.  
 **Translation:** Vocabulary: academia: 学术界
 
-**[3904.58s] English:** point of view, everything looks as if it's on the right. But once it becomes a tactic that we  
+**[3904.58s] English:** Point of view, everything looks as if it's on the right. But once it becomes a tactic, that's when things get interesting.  
 **Translation:** 
 
-**[3911.30s] English:** accept, and that's one of the reasons why I'm more on the left, but I think I'm left of center  
+**[3911.30s] English:** Accept, and that's one of the reasons why I'm more on the left, but I think I'm left of center.  
+**Translation:** Vocabulary: tactic: 策略
+
+**[3918.62s] English:** Liberal. Ricky is more conservative and libertarian. And initially, I was kind of like, "Should I really?  
 **Translation:** 
 
-**[3918.62s] English:** liberal. Ricky is more conservative, libertarian. And initially I was kind of like, should I really  
+**[3924.98s] English:** Are we writing something with someone who's more on the right? And I'm like,  
+**Translation:** Vocabulary: libertarian: 自由主义者
+
+**[3927.40s] English:** Absolutely, I should be. I have to actually live up to what I believe in on this stuff, because it's  
 **Translation:** 
 
-**[3924.98s] English:** be writing something with someone who's more on the right? And I'm like,  
-**Translation:** Vocabulary: libertarian: 自由至上主义者
+**[3932.56s] English:** It's ridiculous that we have this primitive idea that you can dismiss someone as soon as you claim,  
+**Translation:** Vocabulary: dismiss: 轻视
 
-**[3927.40s] English:** absolutely I should be. I have to actually live up to what I believe on this stuff, because it's  
+**[3937.12s] English:** Rightly or wrongly, they think they're on the right. Well, correct me if I'm wrong, but I feel like  
 **Translation:** 
 
-**[3932.56s] English:** ridiculous that we have this primitive idea that you can dismiss someone as soon as you claim,  
-**Translation:** 
+**[3943.12s] English:** You were recently called "right-wing fire," maybe by association because of that debate.  
+**Translation:** Vocabulary: rightly: 正确地; wrongly: 错误地
 
-**[3937.12s] English:** rightly or wrongly, that they're on the right. Well, correct me if I'm wrong, but I feel like  
-**Translation:** 
-
-**[3943.12s] English:** you were recently called right wing fire, maybe you by association because of that debate.  
-**Translation:** 
-
-**[3949.84s] English:** Oh, not the LA Times.  
+**[3949.84s] English:** Oh, not the Los Angeles Times.  
 **Translation:** 
 
 **[3951.40s] English:** The LA Times.  
@@ -2224,7 +2225,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3952.48s] English:** Oh, fun. Let's talk about the LA Times.  
 **Translation:** 
 
-**[3954.10s] English:** So yes, there's an article, there's a debate. I can't wait to hear it.  
+**[3954.10s] English:** So, yes, there's an article, and there's a debate. I can't wait to hear it.  
 **Translation:** 
 
 **[3955.44s] English:** I'm not sure if it's going to be a debate. I'm not sure if it's going to be a debate.  
@@ -2236,188 +2237,188 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[3955.66s] English:** I can't wait to watch it because I don't think it's available yet.  
 **Translation:** 
 
-**[3960.00s] English:** to watch on video you had to attend in person i can't wait to see it uh but fire was in part  
+**[3960.00s] English:** To watch on video, you had to attend in person. I can't wait to see it; uh, but "fire" was in part.  
 **Translation:** 
 
-**[3965.12s] English:** supporting and then la times wrote um a scathing article about uh that everybody in the debate was  
+**[3965.12s] English:** Supporting, and then The Los Angeles Times wrote a scathing article about that everybody in the debate was.  
 **Translation:** 
 
-**[3971.92s] English:** basically right leaning right okay uh so much to unpack there uh you know barry weiss has this you  
-**Translation:** Vocabulary: scathing: 严厉批评
+**[3971.92s] English:** Basically, right-leaning, right? Okay, so much to unpack there. Uh, you know, Barry Weiss has this,  
+**Translation:** Vocabulary: scathing: 严厉批评; unpack: 深入分析
 
-**[3979.54s] English:** know great great project the free press i've been very impressed it's covering stories that the that  
+**[3979.54s] English:** Know, great project—the Free Press. I've been very impressed; it's covering stories that the traditional media often overlook.  
 **Translation:** 
 
-**[3984.20s] English:** a lot of the media right or left isn't willing to cover um and we did a uh we hosted a debate with  
+**[3984.20s] English:** A lot of the media, whether right or left, isn't willing to cover it. And we did host a debate with  
+**Translation:** Vocabulary: overlook: 忽视
+
+**[3991.18s] English:** Her, um, uh, and we wanted to make it as fun and controversial as possible, uh, so fire and the free.  
 **Translation:** 
 
-**[3991.18s] English:** her um uh and we wanted to make it as fun and controversial as possible uh so fire and the free  
+**[3998.78s] English:** Press hosted a debate: "Did the Sexual Revolution Fail?" So, the debate was really exciting and really fun.  
 **Translation:** 
 
-**[3998.78s] English:** press hosted a debate did the sexual revolution fail so the debate was really exciting really fun  
+**[4004.84s] English:** The side that said the sexual revolution wasn't a failure, that Grimes and Sarah Haden were on.  
 **Translation:** 
 
-**[4004.84s] English:** the side that said the sexual revolution wasn't a failure that that grimes and sarah hader were on  
+**[4010.06s] English:** One, um, it was you know a nice.  
+**Translation:** Vocabulary: grimes: 布雷姆斯
+
+**[4014.20s] English:** Meaty, thoughtful night, and we got a rev. There was a review of it that was just sort of scathing.  
 **Translation:** 
 
-**[4010.06s] English:** one um it was you know a nice  
+**[4019.26s] English:** About the whole thing, and it included a line saying that "uh, fire" which claims to believe in  
+**Translation:** Vocabulary: meaty: 有深度; thoughtful: 深思熟虑
+
+**[4024.54s] English:** Free speech, but only defends viewpoints it agrees with. I can't believe that even made it into the discussion.  
 **Translation:** 
 
-**[4014.20s] English:** meaty thoughtful night and we got a rev there was a review of it that was just sort of scathing  
+**[4029.60s] English:** Magazine, because it's not just calling us; of course, you know, the implication, of course, is...  
+**Translation:** Vocabulary: defends: 支持; implication: 暗示; viewpoints: 观点
+
+**[4032.60s] English:** That we're right-wing, um, at which we're not actually; the staff leans decidedly more to the  
 **Translation:** 
 
-**[4019.26s] English:** about the whole thing and it included a line saying that uh fire which claims to believe in  
-**Translation:** Vocabulary: meaty: 内容充实; thoughtful: 深思熟虑
-
-**[4024.54s] English:** free speech but only defends viewpoints it agrees with i can't believe that even made it into the  
-**Translation:** 
-
-**[4029.60s] English:** magazine because it's not just calling us because of course you know the implication of course is  
-**Translation:** Vocabulary: implication: 暗示; viewpoints: 观点
-
-**[4032.60s] English:** that we're right wing um at which we're not actually the staff leans decidedly more to the  
-**Translation:** 
-
-**[4037.16s] English:** left and to the right um but we also defend people all over the spectrum all the time like  
+**[4037.16s] English:** Left and to the right, um, but we also defend people across the entire spectrum all the time, like.  
 **Translation:** Vocabulary: decidedly: 明确地
 
-**[4044.18s] English:** that's something that that even the most minimal google search would have solved so like we've been  
+**[4044.18s] English:** That's something that an even minimal Google search would have solved, so like we've been  
 **Translation:** 
 
-**[4048.30s] English:** given la times some heat on this because it's like yeah if you said in my opinion they're right wing  
+**[4048.30s] English:** Given The Times some heat on this, because it's like, yeah, if you said in my opinion, they're right-wing.  
+**Translation:** Vocabulary: minimal: 最少的
+
+**[4053.84s] English:** We would have argued back, you know, saying, "Well, here are the following 50,000 examples.  
 **Translation:** 
 
-**[4053.84s] English:** we would have argued back you know um saying well here here's the following 50 000 examples of of of  
+**[4061.20s] English:** Us not being, but when you actually make the factual claim that we only defend opinions we agree with.  
 **Translation:** 
 
-**[4061.20s] English:** us not being but when you actually make the factual claim that we only defend opinions we agree with  
+**[4066.10s] English:** First of all, there's no way for us to agree on opinions because we actually have different political views.  
 **Translation:** 
 
-**[4066.10s] English:** first of all there's no way for us to agree with opinions because we actually have a politically  
+**[4070.70s] English:** Diverse staff who won't even agree on which opinions are right, and so we're not going to.  
 **Translation:** 
 
-**[4070.70s] English:** diverse staff who won't even agree on which opinions are right and so we're not going to  
+**[4074.18s] English:** Agree on which opinions are good and what opinions we have, but yeah, I had a time once when someone  
 **Translation:** 
 
-**[4074.18s] English:** agree on which opinions are good and what opinions we have but yeah i i had a one time when someone  
+**[4079.18s] English:** Did something like this happen?  
 **Translation:** 
 
-**[4079.18s] English:** did something like this  
+**[4080.00s] English:** And they were just being a little bit flippant about free speech being fine; I did.  
 **Translation:** 
 
-**[4080.00s] English:** and they were just being a little bit flippant about kind of like free speech being fine i did  
+**[4084.88s] English:** A 70-tweet-long thread, you know, just being like, "Hey, do you really think this is fine?" I decided not.  
+**Translation:** Vocabulary: flippant: 轻率的
+
+**[4090.90s] English:** To do that, um, on this particular one, um, but the nice thing about it is that it demonstrated two parts.  
 **Translation:** 
 
-**[4084.88s] English:** a 70 tweet long uh thread you know just being like hey do you really think this is fine i decided not  
-**Translation:** Vocabulary: flippant: 轻率
-
-**[4090.90s] English:** to do that um on this particular one um but the nice thing about it is it demonstrated two parts  
-**Translation:** 
-
-**[4097.38s] English:** of the book uh canceling of the american mind if not more one of them is dismissing someone  
+**[4097.38s] English:** Of the book "Canceling the American Mind," if not more, one of them is dismissing someone.  
 **Translation:** Vocabulary: canceling: 取消; dismissing: 轻视
 
-**[4102.36s] English:** because they're conservative uh and because that was the implication don't have to listen to fire  
+**[4102.36s] English:** Because they're conservative, uh, and because that was the implication; don't have to listen to fire.  
 **Translation:** 
 
-**[4106.08s] English:** because they're conservative but the other one is something a term i uh that i that i invented  
+**[4106.08s] English:** Because they're conservative, but the other one is something of a term I uh invented.  
 **Translation:** 
 
-**[4110.58s] English:** specifically for the way people argue on twitter which is hypocrisy projection hi i'm person who  
+**[4110.58s] English:** Specifically, for the way people argue on Twitter, which is hypocrisy and projection: hi, I'm a person who  
 **Translation:** 
 
-**[4117.38s] English:** only cares about one side of the political fence and i think everyone else is a hypocrite  
+**[4117.38s] English:** Only cares about one side of the political fence, and I think everyone else is a hypocrite.  
 **Translation:** Vocabulary: hypocrisy: 虚伪; hypocrite: 伪君子; projection: 投射
 
-**[4122.28s] English:** and by the way i haven't done any actual research on this but i assume everyone else is a hypocrite  
+**[4122.28s] English:** And, by the way, I haven't done any actual research on this, but I assume everyone else is a hypocrite.  
 **Translation:** 
 
-**[4128.12s] English:** and you see this happen all the time the the and this happens to fire a lot where someone  
+**[4128.12s] English:** And you see this happen all the time, the thing is, and this happens a lot with fires where someone  
 **Translation:** 
 
-**[4132.58s] English:** where is fire on this case and we're like we are literally  
+**[4132.58s] English:** Where is the fire on this case, and we're like, we are literally...  
 **Translation:** 
 
-**[4136.08s] English:** quoted in the link you just sent but didn't actually read or it's like where's fire on this  
+**[4136.08s] English:** Quoted in the link you just sent, but didn't actually read—or it's like, "Where's the fire?  
+**Translation:** Vocabulary: quoted: 引用的
+
+**[4142.46s] English:** It's like, here's a lawsuit we have about it from six months ago. It's one of our favorite things, and also,...  
 **Translation:** 
 
-**[4142.46s] English:** is like here's a here's our lawsuit about it from six months ago um so it's a favorite thing and also  
+**[4149.88s] English:** John Stewart, on The Daily Show: "Like, the whole idea that these...  
+**Translation:** Vocabulary: lawsuit: 诉讼
+
+**[4156.80s] English:** People must be hypocrites is something that's great as comedy, but as far as actually being a rhetorical device, that's not so effective.  
 **Translation:** 
 
-**[4149.88s] English:** john stewart daily show like the the the um what about ism and the kind of like idea that these  
+**[4161.72s] English:** Tactic that will get you to the truth just assuming that your opponent, or just accusing your  
+**Translation:** Vocabulary: hypocrites: 假仁假义的人; opponent: 对手; rhetorical: 修辞的; tactic: 策略
+
+**[4166.08s] English:** The opponent of always being a hypocrite is not a good tactic for truth, but by the way, it tends to  
 **Translation:** 
 
-**[4156.80s] English:** people must be hypocrites is something that great as comedy but as far as actually a rhetorical  
+**[4172.34s] English:** Always come from people who aren't actually consistent on free speech themselves, so that.  
 **Translation:** 
 
-**[4161.72s] English:** tactic that will get you to truth just assuming that your opponent or just accusing your  
+**[4177.62s] English:** Hence, the projection, but basically, they are not doing the research to determine whether the person is or isn't a  
 **Translation:** 
 
-**[4166.08s] English:** opponent of always being a hypocrite is not a good tactic for truth but by the way it tends to  
+**[4182.96s] English:** Hypocrite, and assuming that others, or a large fraction of others reading it, will also not do the research.  
 **Translation:** 
 
-**[4172.34s] English:** always come from people who aren't actually consistent on free speech themselves so that  
-**Translation:** Vocabulary: tactic: 策略
-
-**[4177.62s] English:** hence the projection but basically not doing the research about whether the person is or isn't a  
+**[4189.88s] English:** And therefore, this kind of statement becomes a kind of truthiness without any grounding in actual  
 **Translation:** 
 
-**[4182.96s] English:** hypocrite and assuming others or a large fraction of others reading it will also not do the research  
-**Translation:** 
-
-**[4189.88s] English:** and therefore this kind of statement becomes a kind of truthiness without a grounding in actual  
-**Translation:** 
-
-**[4196.08s] English:** reality yeah it breaks down that barrier between what is and isn't true because  
-**Translation:** Vocabulary: truthiness: 事实依据
+**[4196.08s] English:** Reality, yeah, it breaks down that barrier between what is and what isn't true because.  
+**Translation:** Vocabulary: barrier: 界限; truthiness: 真实性
 
 **[4200.00s] English:** If the mob says something is true, it takes too much effort to correct it.  
 **Translation:** 
 
-**[4204.64s] English:** And there are three ways I want to respond to this, which is just giving example after example of times where we defended people on both sides of every major issue, basically every major issue, whether it's Israel, Palestine, whether it's terrorism, whether it's gay marriage, we have been abortion.  
+**[4204.64s] English:** And there are three ways I want to respond to this: which is just giving example after example of times where we defended people on both sides of every major issue—basically, every major issue, whether it's Israel and Palestine, whether it's terrorism, whether it's gay marriage, or abortion.  
 **Translation:** Vocabulary: abortion: 人工流产; palestine: 巴勒斯坦
 
 **[4222.00s] English:** We have defended both sides of that argument.  
 **Translation:** 
 
-**[4224.18s] English:** The other part, and I call these the orphans of the culture war, I really want to urge the media to start caring about free speech cases that actually don't have a political valence, that are actually just about good old fashioned exercise of power against the little guy or little girl or little group on campus or off campus for that matter.  
-**Translation:** Vocabulary: valence: 价值
+**[4224.18s] English:** The other part, and I call these the "orphans" of the culture war: I really want to urge the media to start caring about free speech cases that actually don't have a political valence—that are actually just about good old-fashioned exercise of power against the little guy or little girl or little group on campus or off-campus, for that matter.  
+**Translation:** Vocabulary: caring: 关心; valence: 价值
 
-**[4246.34s] English:** Because these cases happen, a lot of our litigation are just little people, just regular people being told that they can't protest, that they can't hold signs.  
+**[4246.34s] English:** Because these cases happen, a lot of our litigation are just about little people—just regular people—who are being told that they can't protest or hold signs.  
 **Translation:** 
 
-**[4254.18s] English:** And then the last part of the argument that I want people to really get is like, yeah, and by the way, right wingers get in trouble too.  
+**[4254.18s] English:** And then, the last part of the argument that I want people to really get is: yeah, and by the way, right-wingers get in trouble too.  
 **Translation:** 
 
-**[4261.48s] English:** And there are attacks from the left and you should take those seriously too.  
+**[4261.48s] English:** And there are attacks from the left, and you should take those seriously, too.  
 **Translation:** 
 
-**[4265.68s] English:** You should care when Republicans get in trouble.  
+**[4265.68s] English:** You should care when Republicans get into trouble.  
 **Translation:** 
 
-**[4268.16s] English:** You should care when California has a DEI program that requires this, California community colleges has a DEI program, a policy that actually requires even chemistry professors to work in different DEI ideas.  
+**[4268.16s] English:** You should care because California's community college system has a DEI program that actually requires even chemistry professors to work with different DEI ideas.  
 **Translation:** 
 
-**[4284.18s] English:** You should care when California has a DEI program that requires even chemistry professors to work in different DEI ideas.  
+**[4284.18s] English:** You should care when California has a DEI program that requires even chemistry professors to work with different DEI ideas.  
 **Translation:** 
 
-**[4289.18s] English:** You should care when California has a DEI program that requires even chemistry professors to work in different DEI ideas.  
+**[4289.18s] English:** You should care when California has a DEI program that requires even chemistry professors to work with different DEI ideas.  
 **Translation:** 
 
-**[4293.30s] English:** You should care when California has a DEI program that requires even chemistry professors to work in different DEI ideas.  
+**[4293.30s] English:** You should care when California has a DEI program that requires even chemistry professors to work with different DEI ideas.  
 **Translation:** Vocabulary: california: 加利福尼亚州
 
 **[4295.96s] English:** Like we fought and defeated in Florida.  
 **Translation:** 
 
-**[4298.64s] English:** It's even worse to tell them what they MUST SAY.  
+**[4298.64s] English:** It's even worse to tell them what they must say.  
+**Translation:** Vocabulary: defeated: 失败
+
+**[4300.72s] English:** That's downright totalitarian, and we're suing against this.  
 **Translation:** 
 
-**[4300.72s] English:** That's downright totalitarian and we're suing against this.  
-**Translation:** 
-
-**[4303.00s] English:** And what I'm saying is this...  
-**Translation:** Vocabulary: totalitarian: 极权主义
+**[4303.00s] English:** And what I'm saying is this:  
+**Translation:** Vocabulary: totalitarian: 极权主义的
 
 **[4306.96s] English:** When you're dismissing someone for just being on the other side of the political fence, you are also being brought in by the other side of the political fence.  
 **Translation:** 
@@ -2425,136 +2426,136 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4308.64s] English:** And you couldn't have just called someone about what you think is right.  
 **Translation:** Vocabulary: dismissing: 轻视
 
-**[4309.94s] English:** And you don't look at your 2015 papers, you're looking at the current college students...  
+**[4309.94s] English:** And you don't look at your 2015 papers; you're looking at the current college students....  
 **Translation:** 
 
 **[4311.56s] English:** You have to be able to give them a critical look at this.  
 **Translation:** 
 
-**[4312.08s] English:** of the political fence, you are also kind of making a claim that none of these cases  
+**[4312.08s] English:** Of the political fence, you are also kind of making a claim that none of these cases  
 **Translation:** 
 
-**[4317.46s] English:** matter as well.  
+**[4317.46s] English:** Matter, as well.  
 **Translation:** 
 
 **[4318.34s] English:** And I want people to care.  
 **Translation:** 
 
-**[4320.00s] English:** about censorship when it even is peep against people they hate censorship a  
+**[4320.00s] English:** About censorship, when it's even used as a tool against people they hate, censorship is a problem.  
 **Translation:** Vocabulary: censorship: 审查制度
 
-**[4326.42s] English:** censorship if we can't take that tangent briefly with DEI the diversity equity  
+**[4326.42s] English:** Censorship: if we can't take that tangent briefly with DEI, the diversity and equity,  
 **Translation:** 
 
-**[4334.38s] English:** and inclusion what is the good and what is the harm of such programs di I know  
-**Translation:** Vocabulary: tangent: 旁枝逸出
+**[4334.38s] English:** And inclusion: What is the good and what is the harm of such programs? Do I know?  
+**Translation:** Vocabulary: tangent: 旁枝斜出的话题
 
-**[4341.42s] English:** people who are di consultants or some actually I have a dear friend who I love  
+**[4341.42s] English:** People who are DI consultants, or some actually—I have a dear friend who I love.  
 **Translation:** 
 
-**[4347.18s] English:** very much who does di absolutely decent people what they want to do is create  
-**Translation:** Vocabulary: consultants: 咨询顾问
+**[4347.18s] English:** Very much so, who does "di" absolutely decent people want to do is create.  
+**Translation:** Vocabulary: consultants: 顾问
 
-**[4355.10s] English:** bonds of understanding friendship compassion among two people people who  
+**[4355.10s] English:** Bonds of understanding, friendship, and compassion among two people who  
 **Translation:** 
 
-**[4359.84s] English:** are different unfortunately the research on what a lot of di actually does this  
+**[4359.84s] English:** Are there differences? Unfortunately, the research on what a lot of people actually do is this.  
 **Translation:** Vocabulary: compassion: 同情
 
-**[4365.18s] English:** often has the opposite of that and I think that it's partially a problem with  
+**[4365.18s] English:** Often has the opposite effect, and I think that it's partially a problem with.  
 **Translation:** 
 
-**[4370.28s] English:** some of the ideology that comes from critical race theory which is a real  
+**[4370.28s] English:** Some of the ideology that comes from critical race theory, which is a real  
 **Translation:** Vocabulary: ideology: 思想体系
 
-**[4374.24s] English:** thing by the way that informs a lot of di  
+**[4374.24s] English:** Thing, by the way, that informs a lot of DI.  
 **Translation:** 
 
-**[4377.12s] English:** you  
+**[4377.12s] English:** You.  
+**Translation:** Vocabulary: informs: 提供信息
+
+**[4377.18s] English:** That actually makes it something more likely to divide than unite. Well, we talk.  
 **Translation:** 
 
-**[4377.18s] English:** that actually makes it something more likely to divide than unite well we talk  
-**Translation:** 
-
-**[4380.84s] English:** about this in coddling in the American mind as the difference between common  
+**[4380.84s] English:** About this in "Coddling of the American Mind" as the difference between common  
 **Translation:** Vocabulary: coddling: 溺爱
 
-**[4384.92s] English:** humanity identity politics and common enemy identity politics and I think that  
+**[4384.92s] English:** Humanity, identity politics, and a common enemy: identity politics, and I think that.  
 **Translation:** 
 
-**[4390.32s] English:** I know some of the people that I know who do di they really want it to be  
+**[4390.32s] English:** I know some of the people that I know who do, but they really want it to be.  
 **Translation:** 
 
-**[4395.18s] English:** common humanity identity politics but some of the actual ideological  
+**[4395.18s] English:** Common humanity, identity politics: but some of the actual ideological.  
 **Translation:** 
 
-**[4399.70s] English:** assumptions that are baked in can actually cause people to feel more  
-**Translation:** Vocabulary: assumptions: 假设; ideological: 意识形态
+**[4399.70s] English:** Assumptions that are baked in can actually cause people to feel more.  
+**Translation:** Vocabulary: assumptions: 前提; ideological: 意识形态的
 
-**[4403.40s] English:** alienated from each other now when I started  
+**[4403.40s] English:** Alienated from each other now; when I started.  
 **Translation:** 
 
-**[4407.12s] English:** at fire my first cases involved 9-11,  
+**[4407.12s] English:** At first, my cases involved 9/11.  
 **Translation:** Vocabulary: alienated: 疏远
 
-**[4411.76s] English:** and it was bad  
+**[4411.76s] English:** And it was bad.  
 **Translation:** 
 
-**[4412.94s] English:** professors were getting targeted  
+**[4412.94s] English:** Professors were getting targeted.  
 **Translation:** 
 
-**[4414.58s] English:** professors were losing their jobs for saying insensitive things about 9-11 and  
+**[4414.58s] English:** Professors were losing their jobs for saying insensitive things about 9/11 and  
 **Translation:** 
 
-**[4419.60s] English:** both from from the right and the left actually it in that case actually  
+**[4419.60s] English:** Both from the right and the left, actually, it in that case actually.  
 **Translation:** Vocabulary: insensitive: 不敏感
 
-**[4422.34s] English:** sometimes a lot more from the right and it  
+**[4422.34s] English:** Sometimes, a lot more from the right, and it  
 **Translation:** 
 
-**[4426.86s] English:** was really bad and about five professors lost their jobs  
+**[4426.86s] English:** It was really bad, and about five professors lost their jobs.  
 **Translation:** 
 
-**[4430.00s] English:** that's bad  
+**[4430.00s] English:** That's bad.  
 **Translation:** 
 
-**[4431.60s] English:** five professors under over relatively short period of time being fired for a  
+**[4431.60s] English:** Five professors were fired over a relatively short period of time for a  
 **Translation:** 
 
-**[4434.90s] English:** political opinion that's something that you know things are becoming even greater  
+**[4434.90s] English:** Political opinion: that's something you know, things are becoming even greater.  
 **Translation:** 
 
-**[4435.20s] English:** than what you've heard for a good reason  
+**[4435.20s] English:** Than what you've heard, there's a good reason.  
 **Translation:** 
 
-**[4435.80s] English:** someone studied journalism they started an education education and learning and  
+**[4435.80s] English:** Someone studied journalism, they started an education in education and learning, and  
 **Translation:** 
 
-**[4436.30s] English:** Dark black Humanities and looked at history made them a huge source of discomfort towards  
+**[4436.30s] English:** Dark, black humanities and looked at history made them a huge source of discomfort for them.  
+**Translation:** Vocabulary: discomfort: 不适; humanities: 人文学科; journalism: 新闻学
+
+**[4436.64s] English:** Arm forces and work forth between Confederation and right-wing niches: a kind of  
 **Translation:** 
 
-**[4436.64s] English:** arm forces and work and forth between Confederation and right wing niches a kind of  
-**Translation:** 
-
-**[4436.94s] English:** you know, would get written up in any previous decades.  
+**[4436.94s] English:** You know, it would have been written up in any previous decade.  
 **Translation:** Vocabulary: confederation: 联盟; niches: 细分领域
 
-**[4440.00s] English:** We're now evaluating how many professors have been targeted for cancellation between 2014 and the middle of this year, July of 2023.  
+**[4440.00s] English:** We're now evaluating how many professors have been targeted for cancellation between 2014 and July of 2023, the middle of this year.  
 **Translation:** 
 
 **[4451.96s] English:** We're at well over 1,000 attempts to get professors fired or punished, usually driven by students and administrators, often driven by professors, unfortunately, as well.  
 **Translation:** Vocabulary: cancellation: 解雇; evaluating: 评估
 
-**[4463.10s] English:** About two-thirds of those result in the professor being punished in some way, everything from having their article removed to suspension, etc.  
+**[4463.10s] English:** About two-thirds of these results in the professor being punished in some way, ranging from having their article removed to suspension, etc.  
 **Translation:** 
 
-**[4474.64s] English:** About one-fifth of those result in professors being fired.  
+**[4474.64s] English:** About one-fifth of those results in professors being fired.  
 **Translation:** 
 
-**[4479.46s] English:** So right now, it's almost 200, it's around 190 professors being fired.  
+**[4479.46s] English:** So, right now, it's almost 200, with around 190 professors being fired.  
 **Translation:** 
 
-**[4484.32s] English:** So I want to give some context here.  
+**[4484.32s] English:** So, I want to give some context here.  
 **Translation:** 
 
 **[4487.56s] English:** The Red Scare is generally considered to have been from 1947 to 1957.  
@@ -2573,7 +2574,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **Translation:** 
 
 **[4506.62s] English:** You know, they can't be dissuaded.  
-**Translation:** Vocabulary: doctrinaire: 教条主义的
+**Translation:** Vocabulary: doctrinaire: 教条的
 
 **[4508.06s] English:** I'm going to fire them.  
 **Translation:** 
@@ -2581,22 +2582,22 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4509.68s] English:** They thought they actually could do that.  
 **Translation:** 
 
-**[4512.18s] English:** And it was only 1957 when the law was established.  
+**[4512.18s] English:** And it was only in 1957 when the law was established.  
 **Translation:** 
 
-**[4514.44s] English:** So, like, right now, these are happening in an environment where freedom of speech, academic freedom are clearly protected at public colleges in the United States.  
+**[4514.44s] English:** So, like, right now, these are happening in an environment where freedom of speech and academic freedom are clearly protected at public colleges in the United States.  
 **Translation:** 
 
-**[4523.10s] English:** And we're still seeing these kind of numbers.  
+**[4523.10s] English:** And we're still seeing these kinds of numbers.  
 **Translation:** 
 
-**[4525.10s] English:** During the Red Scare, the biggest study that was done of what was going on, and I think this came out in, like, 55, and the evaluation was that there was about 62 professors fired for being communists and about 90-something professors fired for political views overall.  
+**[4525.10s] English:** During the Red Scare, the biggest study done on what was going on came out around 1955, and the evaluation was that there were about 62 professors fired for being communists, and about 90-some professors fired for political views overall.  
+**Translation:** Vocabulary: evaluation: 评估结果
+
+**[4545.98s] English:** That is usually reported as being about 100.  
 **Translation:** 
 
-**[4545.98s] English:** That usually is reported as being about 100.  
-**Translation:** 
-
-**[4550.72s] English:** So 60, 90, 100.  
+**[4550.72s] English:** So, 60, 90, 100.  
 **Translation:** 
 
 **[4553.10s] English:** 90, 100, depending on how you look at it.  
@@ -2605,31 +2606,31 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4555.10s] English:** I think the number is actually higher, but that's only because of hindsight.  
 **Translation:** Vocabulary: hindsight: 事后诸葛
 
-**[4560.00s] English:** What I mean by hindsight is we can look back and we actually find there were more professors who were fired as time reveals.  
+**[4560.00s] English:** What I mean by hindsight is that we can look back and actually find there were more professors who were fired as time reveals.  
 **Translation:** 
 
 **[4567.24s] English:** We're at 190 professors fired, and I still have to put up with people saying this isn't even happening.  
 **Translation:** 
 
-**[4572.92s] English:** And I'm like, in the nine and a half years of cancel culture, 190 professors fired.  
+**[4572.92s] English:** And I'm like, in the nine and a half years of cancel culture, 190 professors have been fired.  
 **Translation:** 
 
-**[4577.36s] English:** In the 11 years of the Red Scare, probably somewhere around 100, probably more.  
+**[4577.36s] English:** In the 11 years of the Red Scare, probably somewhere around 100 people were affected, and possibly more.  
 **Translation:** 
 
 **[4585.12s] English:** The number is going to keep going up.  
 **Translation:** 
 
-**[4587.20s] English:** But unlike during the Red Scare, where people could clearly tell something was happening, the craziest thing about cancel culture is I'm still dealing with people who are saying this isn't happening at all.  
+**[4587.20s] English:** But unlike during the Red Scare, where people could clearly tell something was happening, the craziest thing about cancel culture is that I'm still dealing with people who are saying this isn't happening at all.  
 **Translation:** 
 
 **[4595.82s] English:** And it hasn't been subtle on campus.  
 **Translation:** 
 
 **[4598.14s] English:** And we know that's a wild undercount, by the way, because when we surveyed professors, 17% of them said that they had been threatened with investigation or actually investigated for what they taught, said, or their research.  
-**Translation:** Vocabulary: undercount: 少报
+**Translation:** Vocabulary: investigated: 被调查; subtle: 不明显; undercount: 低估
 
-**[4614.30s] English:** And one third of them said that they're...  
+**[4614.30s] English:** And one-third of them said that they're...  
 **Translation:** 
 
 **[4617.20s] English:** They were told by administrators not to take on controversial research.  
@@ -2638,10 +2639,10 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4621.12s] English:** So, like, extrapolating that out, that's a huge number.  
 **Translation:** 
 
-**[4623.90s] English:** And the reason why you're not going to hear about a lot of these cases is because there are so many different conformity-inducing mechanisms in the whole thing.  
+**[4623.90s] English:** And the reason why you're not going to hear about a lot of these cases is because there are so many different conformity-inducing mechanisms involved in the whole thing.  
 **Translation:** Vocabulary: extrapolating: 推断出
 
-**[4630.98s] English:** And that's one of the reasons why the idea that you'd add something like requiring a DEI statement to be hired or to get into a school under the current environment is so completely nuts.  
+**[4630.98s] English:** And that's one of the reasons why the idea that you'd add something like requiring a DEI statement to be hired or to get into a school, under the current environment, is so completely nuts.  
 **Translation:** 
 
 **[4642.34s] English:** We have had a genuine crisis of academic freedom over the last, you know, particularly since 2017.  
@@ -2650,20 +2651,20 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4647.20s] English:** On campuses, we have very low viewpoint diversity to begin with.  
 **Translation:** 
 
-**[4652.32s] English:** And under these circumstances, administrators just start saying, you know what the problem is?  
-**Translation:** 
+**[4652.32s] English:** And, under these circumstances, administrators just start saying, "You know what? The problem is...  
+**Translation:** Vocabulary: viewpoint: 观点
 
 **[4657.36s] English:** We have too much heterogeneous thought.  
 **Translation:** 
 
 **[4660.12s] English:** We're not homogeneous enough.  
-**Translation:** Vocabulary: heterogeneous: 不同类的; homogeneous: 同类的
+**Translation:** Vocabulary: heterogeneous: 种类不同的; homogeneous: 成分相同的
 
 **[4661.78s] English:** We actually need, you know, we need another political litmus test, which is nuts.  
 **Translation:** 
 
 **[4666.56s] English:** And that's what a DEI statement effectively is, because there's no way to actually fill out a DEI statement without someone evaluating you on your politics.  
-**Translation:** 
+**Translation:** Vocabulary: evaluating: 评估
 
 **[4675.28s] English:** It's crystal clear.  
 **Translation:** 
@@ -2671,17 +2672,17 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4676.34s] English:** It's crystal clear.  
 **Translation:** 
 
-**[4677.20s] English:** And an experiment on this, a neat honeycut.  
+**[4677.20s] English:** And an experiment on this: a neat honeycut.  
 **Translation:** 
 
-**[4680.00s] English:** He got something like almost like 3,000 professors to participate, evaluating different kinds of DEI statements.  
-**Translation:** Vocabulary: evaluating: 评估; honeycut: 蜂蜜切割
+**[4680.00s] English:** He got something like almost 3,000 professors to participate, evaluating different kinds of DEI statements.  
+**Translation:** Vocabulary: honeycut: 蜂蜜切割
 
-**[4688.74s] English:** And one was basically like the standard kind of identity politics intersectionality one.  
+**[4688.74s] English:** And one was basically like the standard kind of identity politics intersectionality, one.  
 **Translation:** 
 
 **[4694.58s] English:** One was about viewpoint diversity.  
-**Translation:** Vocabulary: intersectionality: 交叉不平等
+**Translation:** Vocabulary: intersectionality: 不同身份交叉影响
 
 **[4697.30s] English:** One was about religious diversity.  
 **Translation:** 
@@ -2689,41 +2690,41 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4698.84s] English:** And one was about socioeconomic diversity.  
 **Translation:** Vocabulary: socioeconomic: 社会经济的
 
-**[4701.42s] English:** And as far as where my heart really is, it's that we have too little socioeconomic diversity, particularly in elite higher ed, but also in education, period.  
+**[4701.42s] English:** And as far as where my heart really is, it's that we have too little socioeconomic diversity, particularly in elite higher education, but also in education, period.  
 **Translation:** 
 
-**[4708.82s] English:** So the experiment had large participation, really interestingly set up, and it tried to model the way a lot of these DEI policies were actually implemented.  
-**Translation:** 
+**[4708.82s] English:** So, the experiment had large participation, really interestingly set up, and it tried to model the way a lot of these DEI policies were actually implemented.  
+**Translation:** Vocabulary: implemented: 执行
 
-**[4719.84s] English:** And one of the ways these have been implemented, and I think in some of the California schools, is that administrators go through the DEI statements before anyone else looks at them and then eliminates people off the top, depending on how they feel about their DEI statements.  
+**[4719.84s] English:** And one of the ways these have been implemented, and I think in some of the California schools, is that administrators go through the DEI statements before anyone else looks at them, and then eliminate people from consideration, depending on how they feel about their DEI statements.  
 **Translation:** 
 
 **[4736.90s] English:** And the one on.  
-**Translation:** Vocabulary: california: 加利福尼亚; eliminates: 淘汰
+**Translation:** Vocabulary: california: 加利福尼亚州
 
-**[4738.82s] English:** Viewpoint diversity, I think like half of the people who reviewed it would would eliminate it right out, and I think it was basically the same for religious diversity.  
+**[4738.82s] English:** Viewpoint diversity: I think about half of the people who reviewed it would eliminate it right away, and I think it was basically the same for religious diversity.  
 **Translation:** 
 
-**[4749.38s] English:** It was slightly better, like 40% for socioeconomic diversity.  
+**[4749.38s] English:** It was slightly better, at about 40% for socioeconomic diversity.  
+**Translation:** Vocabulary: viewpoint: 观点
+
+**[4754.82s] English:** But that kills me—like, the idea that, you know, yeah, that actually is the kind of diversity that I think we need a great deal more of in higher education.  
 **Translation:** 
 
-**[4754.82s] English:** But that kills me, like the idea that kind of like, yeah, that actually is the kind of diversity that I think we need a great deal more of in higher education.  
-**Translation:** 
-
-**[4761.30s] English:** You can agree with it's not hostile to the other kinds, by the way, but the idea that we need more people from the bottom.  
+**[4761.30s] English:** You can agree that it's not hostile to the other kinds, by the way, but the idea that we need more people from the bottom.  
 **Translation:** Vocabulary: hostile: 敌对的
 
 **[4767.92s] English:** You know, of.  
 **Translation:** 
 
-**[4768.82s] English:** Three quarters of American society, like in higher education, I think should be something we could all get around, but the only one that really succeeded was the one that's that sprouted back exactly the kind of ideology that they thought the viewers would like, which is like, okay, there's no way this couldn't be a political test.  
-**Translation:** Vocabulary: ideology: 思想体系; sprouted: 产生
+**[4768.82s] English:** Three-quarters of American society, like in higher education, I think should be something we could all get around, but the only one that really succeeded was the one that sprouted back exactly the kind of ideology that they thought the viewers would like, which is, like, okay, there's no way this couldn't be a political test.  
+**Translation:** Vocabulary: ideology: 思想体系; sprouted: 产生; viewers: 观众
 
-**[4787.00s] English:** We've proved that it's a political test and still school after school is adding these to its application process to make schools still more ideologically homogenous.  
+**[4787.00s] English:** We've proved that it's a political test, and still, school after school is adding these to its application process to make schools even more ideologically homogeneous.  
 **Translation:** 
 
-**[4797.42s] English:** Why does that have an.  
-**Translation:** Vocabulary: homogenous: 同质的; ideologically: 意识形态地
+**[4797.42s] English:** Why does that have an?  
+**Translation:** Vocabulary: homogeneous: 成分相同
 
 **[4798.70s] English:** Anger.  
 **Translation:** 
@@ -2731,401 +2732,401 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[4798.82s] English:** Negative effect?  
 **Translation:** 
 
-**[4799.32s] English:** Is it because.  
+**[4799.32s] English:** Is it because?  
 **Translation:** 
 
-**[4800.00s] English:** It enforces a kind of groupthink where people are afraid, start becoming afraid to sort of think and speak freely, liberally about whatever.  
+**[4800.00s] English:** It enforces a kind of groupthink where people are afraid and start becoming afraid to think and speak freely and liberally about whatever.  
 **Translation:** Vocabulary: enforces: 强制; groupthink: 团体思维; liberally: 自由地
 
-**[4815.78s] English:** Well, one, it selects for people who tend to be farther to the left in a situation where you already have people, a situation where universities do lean decidedly that way.  
+**[4815.78s] English:** Well, one, it selects for people who tend to be farther to the left in a situation where you already have people, and a situation where universities do lean decidedly that way.  
 **Translation:** 
 
-**[4826.24s] English:** But it also establishes essentially a set of sacred ideas that if you're being quizzed on whether, you know, what you've done to advance anti-racism, how you've been conscious of intersectionality, it's unlikely that you'd actually get in.  
-**Translation:** Vocabulary: decidedly: 明确地; intersectionality: 交叉性
+**[4826.24s] English:** But it also establishes essentially a set of sacred ideas: if you're being quizzed on whether, you know, what you've done to advance anti-racism, how you've been conscious of intersectionality, it's unlikely that you'd actually get in.  
+**Translation:** Vocabulary: decidedly: 明确地; intersectionality: 交叉性; selects: 挑选
 
-**[4844.18s] English:** And if you said, by the way, I actually think these are dubious concepts. I think they're thin. I think they're philosophically not very defensible.  
+**[4844.18s] English:** And if you said, by the way, "I actually think these are dubious concepts. I think they're thin. I think they're philosophically not very defensible.  
 **Translation:** 
 
-**[4851.08s] English:** Basically, like if your position was I actually I actually reject.  
-**Translation:** Vocabulary: defensible: 站得住脚; dubious: 可疑; philosophically: 从哲学角度看
+**[4851.08s] English:** Basically, like if your position was, "I actually reject.  
+**Translation:** Vocabulary: defensible: 可辩护的; dubious: 可疑的; philosophically: 从哲学角度看
 
-**[4856.24s] English:** These concepts as being oversimple, you're not you're not going to get in.  
+**[4856.24s] English:** These concepts are oversimplistic; you're not going to get in.  
 **Translation:** 
 
-**[4861.06s] English:** And I think that the person that I always think of that wasn't a right winger that would be like, go to hell if you if you made him fill one of these things out.  
-**Translation:** Vocabulary: oversimple: 过于简化
+**[4861.06s] English:** And I think that the person that I always think of — that wasn't a right-winger — that would be like, "Go to hell" if you made him fill one of these things out.  
+**Translation:** Vocabulary: oversimplistic: 过于简化
 
-**[4869.90s] English:** It's Feynman. I feel like if you if you gave one of these things to Richard Feynman, he'd be like he would tear it to pieces.  
+**[4869.90s] English:** It's Feynman. I feel like if you gave one of these things to Richard Feynman, he'd be like, he would tear it to pieces.  
 **Translation:** 
 
-**[4878.04s] English:** Yeah, not get the job.  
+**[4878.04s] English:** Yeah, didn't get the job.  
 **Translation:** Vocabulary: feynman: 费曼
 
-**[4881.06s] English:** Yeah, there's some element of it that creates this.  
+**[4881.06s] English:** Yeah, there's an element of it that creates this.  
 **Translation:** 
 
-**[4886.24s] English:** Hard to pin down fear.  
+**[4886.24s] English:** Hard to Pin Down Fear.  
 **Translation:** 
 
-**[4888.12s] English:** So you said like the firing.  
+**[4888.12s] English:** So, you said something about the firing.  
 **Translation:** 
 
-**[4889.60s] English:** The thing I wanted to say is firing 100 people or 200 people.  
+**[4889.60s] English:** The thing I wanted to say is, firing 100 people or 200 people.  
 **Translation:** 
 
-**[4893.54s] English:** The point is even firing one person.  
+**[4893.54s] English:** The point is, even firing one person.  
 **Translation:** 
 
 **[4896.20s] English:** I've just seen it.  
 **Translation:** 
 
-**[4897.24s] English:** It can create this quiet ripple effect of fear.  
+**[4897.24s] English:** It can create this quiet, ripple effect of fear.  
 **Translation:** 
 
 **[4901.02s] English:** Of course, that single firing of a fact.  
-**Translation:** Vocabulary: ripple: 微波效应
+**Translation:** Vocabulary: ripple: 波纹效应
 
 **[4904.16s] English:** Oh, absolutely.  
 **Translation:** 
 
-**[4905.10s] English:** Has a ripple effect across tens of thousands of people of educators of of who is hired.  
+**[4905.10s] English:** Has a ripple effect across tens of thousands of people, including educators who are hired.  
 **Translation:** Vocabulary: educators: 教育工作者
 
 **[4912.40s] English:** What kind of conversations are being had?  
 **Translation:** 
 
-**[4914.56s] English:** What kind of textbooks are chosen will kind of self-censorship and different flavors of that is happening.  
+**[4914.56s] English:** What kind of textbooks are chosen will kind of reflect self-censorship, and different flavors of that are happening.  
+**Translation:** Vocabulary: flavors: 不同版本
+
+**[4920.00s] English:** Happening, it's hard to measure that. Yeah, I mean, when you ask professors about, you know, are they  
 **Translation:** 
 
-**[4920.00s] English:** happening it's hard to measure that yeah i mean when you ask professors about you know are they  
-**Translation:** 
-
-**[4925.66s] English:** intimidated under the current environment um the the answer is yes and particularly conservative  
+**[4925.66s] English:** Intimidated under the current environment, um, the answer is yes, and particularly conservative.  
 **Translation:** Vocabulary: intimidated: 感到害怕
 
-**[4931.98s] English:** professors you know already you know reporting that they're you know afraid for their jobs in  
+**[4931.98s] English:** Professors, you know, already they're afraid for their jobs, you know.  
 **Translation:** 
 
-**[4937.48s] English:** a lot of different cases you have a lot of good statistics in the book things like self-censorship  
+**[4937.48s] English:** A lot of different cases, you have a lot of good statistics in the book, such as self-censorship.  
 **Translation:** 
 
-**[4941.70s] English:** when provided with a definition of self-censorship at least a quarter of students said they self  
+**[4941.70s] English:** When provided with a definition of self-censorship, at least a quarter of students said they self- censor.  
 **Translation:** 
 
-**[4946.82s] English:** censor fairly often or very often during conversations with other students with  
+**[4946.82s] English:** Censor fairly often or very often during conversations with other students,  
 **Translation:** Vocabulary: censor: 审查
 
-**[4950.58s] English:** professors and during classroom discussions 25 27 and 28 respectively a quarter of students  
+**[4950.58s] English:** Professors and during classroom discussions, 25%, 27%, and 28% respectively, of students  
 **Translation:** 
 
-**[4958.50s] English:** also said that they are more likely to self-censor on campus now at the time they were surveyed than  
+**[4958.50s] English:** Also, they said that they are more likely to self-censor on campus now compared to when they were surveyed.  
 **Translation:** 
 
-**[4965.74s] English:** they were when they first started college so sort of college is kind of instilling this idea of  
+**[4965.74s] English:** They were when they first started college, so sort of college is kind of instilling this idea of  
 **Translation:** 
 
-**[4972.04s] English:** of censorship and self-censorship and back to the red scare comparison and this is one of the  
+**[4972.04s] English:** Of censorship and self-censorship, and back to the red scare comparison; this is one of the  
 **Translation:** Vocabulary: censorship: 审查; instilling: 灌输
 
-**[4976.74s] English:** interesting things about the red scare comparison is that it's not just about the  
+**[4976.74s] English:** Interesting things about the red scare comparison is that it's not just about the  
 **Translation:** 
 
-**[4976.80s] English:** interesting things about the data as well is that that same study that i was talking about the  
+**[4976.80s] English:** Interesting things about the data, as well, is that the same study I was talking about,  
 **Translation:** 
 
-**[4981.38s] English:** most comprehensive study of the red scare there was polling about whether or not professors were  
+**[4981.38s] English:** Most comprehensive studies of the Red Scare included polling about whether or not professors were  
 **Translation:** 
 
-**[4986.18s] English:** self-censoring due to the fear of the environment and nine percent of professors said that they were  
+**[4986.18s] English:** Self-censoring due to the fear of the environment, and nine percent of professors said that they were.  
+**Translation:** Vocabulary: polling: 民意调查
+
+**[4991.66s] English:** Self-censoring their research, and that what they were saying—nine percent—is really bad. Um, that's  
 **Translation:** 
 
-**[4991.66s] English:** self-censoring their research and that what they were saying nine percent's really bad um that's  
+**[4998.12s] English:** Almost a tenth of professors said that their speech was chilled when we did this.  
+**Translation:** Vocabulary: chilled: 抑制
+
+**[5003.62s] English:** Question for Professors on Our Latest Faculty  
 **Translation:** 
 
-**[4998.12s] English:** almost a tenth of professors saying that they were actually their speech was chilled when we did this  
+**[5006.72s] English:** Survey, um, when you factor that together, if they're self-censoring, in their  
 **Translation:** 
 
-**[5003.62s] English:** question for professors on our latest faculty  
+**[5011.70s] English:** Research: Are they self-censoring in class? Are they still censoring online, etc.? It's 90 percent.  
 **Translation:** 
 
-**[5006.72s] English:** survey um when you factor together if they're we asked them are they self-censoring in their  
-**Translation:** 
-
-**[5011.70s] English:** research are they self-censoring in class are they still censoring online etc it's 90 percent  
-**Translation:** 
-
-**[5016.22s] English:** of professors so the the idea that we're actually in an environment that is historic um in terms of  
+**[5016.22s] English:** Of professors, so the idea that we're actually in an environment that is historic, um, in terms of  
 **Translation:** Vocabulary: censoring: 审查
 
-**[5022.96s] English:** like how scared people are actually of expressing controversial views i think that it's it's the  
+**[5022.96s] English:** Like how scared people are actually of expressing controversial views; I think that it's the  
 **Translation:** 
 
-**[5028.82s] English:** reason why we're going to actually be studying this in 50 years the same the the same way we  
+**[5028.82s] English:** The reason why we're going to actually be studying this in 50 years, the same way we  
 **Translation:** 
 
-**[5033.68s] English:** study the red scare um it's not the the idea that  
+**[5033.68s] English:** Study the Red Scare; it's not the idea that...  
 **Translation:** 
 
-**[5036.64s] English:** this isn't happening is we'll just be correctly viewed as insane  
+**[5036.64s] English:** This isn't happening; we'll just be correctly viewed as insane.  
 **Translation:** 
 
-**[5040.00s] English:** So maybe we can just discuss the leaning, the current leaning of academia towards the left, which you describe in various different perspectives. So one, there's a voter registration ratio chart that you have by department, which I think is interesting. Can you explain this chart and can you explain what it shows?  
+**[5040.00s] English:** So, maybe we can just discuss the current leaning of academia towards the left, which you describe from various different perspectives. For instance, there's a voter registration ratio chart by department that you have, which I find particularly interesting. Could you explain this chart and what it shows?  
 **Translation:** 
 
 **[5058.44s] English:** Yeah. When I started at FIRE in 2001, I didn't take the viewpoint diversity issue as seriously. I thought it was just something that right-wingers complained about. But I really started to get what happens when you have a community with low viewpoint diversity.  
-**Translation:** Vocabulary: academia: 学术界; perspectives: 观点
+**Translation:** Vocabulary: academia: 学术界; leaning: 倾向; perspectives: 观点; viewpoint: 视角
 
 **[5076.20s] English:** And actually, a lot of the research that I got most interested in was done in conjunction with the great Cass Sunstein, who writes a lot about group polarization.  
 **Translation:** 
 
-**[5086.90s] English:** And the research  
+**[5086.90s] English:** And the research...  
 **Translation:** Vocabulary: conjunction: 合作; polarization: 极化
 
-**[5088.42s] English:** on this is very strong, that essentially when you have groups with political diversity, and you can see this actually in judges, for example, it tends to produce, you know, reliably more moderate, you know, outcomes, whereas groups that have low political diversity tend to sort of spiral off in their own direction.  
+**[5088.42s] English:** On this, there is very strong evidence that when you have groups with political diversity, such as judges, for example, it tends to produce reliably more moderate outcomes. Whereas groups with low political diversity tend to spiral off in their own direction.  
 **Translation:** 
 
-**[5106.92s] English:** And when you have a super majority of people from just one political perspective, that's a problem for the production of ideas. It creates a situation where there are sacred ideas.  
-**Translation:** Vocabulary: reliably: 可靠地
+**[5106.92s] English:** And when you have a supermajority of people from just one political perspective, that's a problem for the production of ideas. It creates a situation where there are sacred ideas.  
+**Translation:** Vocabulary: outcomes: 结果; reliably: 可靠地; supermajority: 超多数
 
 **[5116.92s] English:** And when you look at some of the departments,  
 **Translation:** 
 
-**[5118.42s] English:** you know, I think the estimate from the Crimson is that Harvard has 3% conservatives. But when you look at different departments, there are elite departments that have literally no conservatives in them.  
-**Translation:** Vocabulary: crimson: 哈佛深红
+**[5118.42s] English:** You know, I think the estimate from Crimson is that Harvard has 3% conservatives. But when you look at different departments, there are elite departments that have literally no conservatives in them.  
+**Translation:** Vocabulary: crimson: 康乃尔; estimate: 估计
 
-**[5131.54s] English:** And I think that's, that's an unhealthy intellectual environment. The problem is definitely worse. As you get more elite, we definitely see more cases of lefty professors getting canceled at less elite schools, it gets worse as you as you get down from the elite schools. That's a problem.  
+**[5131.54s] English:** And I think that's an unhealthy intellectual environment. The problem is definitely worse. As you get more elite, we definitely see more cases of left-leaning professors getting canceled at less elite schools; it gets worse as you go down from the elite schools. That's a problem.  
 **Translation:** 
 
-**[5148.42s] English:** where a lot of the one third of attempts to get professors punished that are successful, you know, do do come from the right and largely from off campus, off campus sources, and we spend a lot of time talking about  
+**[5148.42s] English:** Where a lot of the one-third of attempts to get professors punished that are successful do come from the right and largely from off-campus sources, and we spend a lot of time talking about  
 **Translation:** 
 
-**[5160.00s] English:** that in the book as well. It's something that I do think is underappreciated. But when it comes  
+**[5160.00s] English:** That's something that I do think is underappreciated, and it's mentioned in the book as well. But when it comes...  
 **Translation:** 
 
-**[5165.60s] English:** to the low viewpoint diversity, it's, you know, it works out kind of like you'd expect to a degree.  
-**Translation:** Vocabulary: underappreciated: 未被充分认可
+**[5165.60s] English:** To the low viewpoint diversity, it's, you know, it works out kind of like you'd expect to a degree.  
+**Translation:** Vocabulary: viewpoint: 观点
 
-**[5171.00s] English:** You know, economics is what, four to one or something like that. It's not as bad. But then  
+**[5171.00s] English:** You know, economics is what four to one or something like that. It's not as bad. But then,...  
 **Translation:** 
 
-**[5176.08s] English:** when you start getting into some of the humanities, you know, like there are departments that  
+**[5176.08s] English:** When you start getting into some of the humanities, you know, like there are departments that  
+**Translation:** Vocabulary: humanities: 人文学科
+
+**[5179.64s] English:** They're literally none. Is there a good reason why did the university's faculty meet this way?  
 **Translation:** 
 
-**[5179.64s] English:** they're literally none. Is there a good why to why did the university's university faculty  
+**[5187.68s] English:** Administration moving to the left? Yeah. I don't love it, and this is an argument that you'll  
 **Translation:** 
 
-**[5187.68s] English:** administration move to the left? Yeah. I don't love, and this is an argument that you'll  
+**[5193.00s] English:** Sometimes we run into the argument that, well, people on the left are just smarter.  
 **Translation:** 
 
-**[5193.00s] English:** sometimes run into on the left, just the argument that, well, people on the left are just smarter.  
+**[5198.58s] English:** Right. And it's like, okay. It's interesting because, at least the research as of 10 years ago,  
 **Translation:** 
 
-**[5198.58s] English:** Right. And it's like, okay. It's interesting because at least the research as of 10 years  
+**[5204.36s] English:** Ago was indicating that if you dig a little bit deeper into that, a lot of the people who  
 **Translation:** 
 
-**[5204.36s] English:** ago was indicating that if you dig a little bit deeper into that, a lot of the people who  
+**[5208.38s] English:** Do consider themselves on the left, tend to be a little bit more libertarian. This is something,  
+**Translation:** Vocabulary: libertarian: 自由主义者
+
+**[5213.24s] English:** That Pinker wrote a fair amount about. The idea that we're,  
 **Translation:** 
 
-**[5208.38s] English:** do consider themselves on the left tend to be a little bit more libertarian. This is something  
+**[5217.68s] English:** We're just smarter. It's not an opinion I'm at least a bit comfortable with. I do think that.  
 **Translation:** 
 
-**[5213.24s] English:** that Pinker, you know, wrote a fair amount about. The idea that we're,  
+**[5225.48s] English:** Departments take on momentum when they become a place where you're like, "Wow, it'd be really  
 **Translation:** 
 
-**[5217.68s] English:** we're just smarter. It's not an opinion I'm at least a bit comfortable with. I do think that  
-**Translation:** 
-
-**[5225.48s] English:** departments take on momentum when they become a place where you're like, wow, it'd be really  
-**Translation:** 
-
-**[5232.22s] English:** unpleasant for me to work in this department if I'm the token conservative. And I think that  
+**[5232.22s] English:** It would be unpleasant for me to work in this department if I'm the token conservative. And I think that  
 **Translation:** Vocabulary: token: 象征性的人
 
-**[5236.12s] English:** takes on a life of its own. There are also departments where a lot of the ideology is  
+**[5236.12s] English:** Takes on a life of its own. There are also departments where a lot of the ideology is.  
 **Translation:** 
 
-**[5241.66s] English:** kind of explicitly leftist. You look at education schools, a lot of the,  
-**Translation:** Vocabulary: explicitly: 明确地; ideology: 意识形态
-
-**[5247.68s] English:** the stuff that is actually left over from what is correctly called critical race theories  
+**[5241.66s] English:** Kind of explicitly leftist. You look at education schools; a lot of the,  
 **Translation:** 
 
-**[5252.08s] English:** is present. And you end up having that in a number of the departments. And it would be very strange  
+**[5247.68s] English:** The stuff that is actually left over from what is correctly called critical race theory.  
 **Translation:** 
 
-**[5259.28s] English:** to be a, in many departments, a, you know, a conservative social worker professor. I'm sure  
+**[5252.08s] English:** Is present, and you end up having that in a number of the departments. It would be very strange.  
 **Translation:** 
 
-**[5264.28s] English:** they exist. But there's a lot of pressure to shut up if you are.  
+**[5259.28s] English:** To be a, in many departments, a known conservative social work professor. I'm sure.  
 **Translation:** 
 
-**[5271.20s] English:** So the process on the left of cancellation, as you started to talk about with the perfect  
+**[5264.28s] English:** They exist, but there's a lot of pressure to shut up if you are.  
 **Translation:** 
 
-**[5275.96s] English:** rhetorical fortress, the,  
-**Translation:** Vocabulary: cancellation: 取消; rhetorical: 修辞的
-
-**[5277.68s] English:** the first step is,  
+**[5271.20s] English:** So, the process on the left of cancellation, as you started to talk about, with the perfect.  
 **Translation:** 
 
-**[5280.00s] English:** dismiss a person if they're just if you can put a label of conservative on them you can dismiss  
+**[5275.96s] English:** Rhetorical Fortress, the,  
 **Translation:** 
 
-**[5286.06s] English:** them in that way what what other efficient or what other effective uh dismissal mechanisms are there  
+**[5277.68s] English:** The first step is,  
 **Translation:** 
 
-**[5293.04s] English:** we have a little bit of fun with uh uh with demographic numbers but i run this by height  
+**[5280.00s] English:** Dismiss a person if they're just if you can put a label of "conservative" on them, you can dismiss.  
+**Translation:** Vocabulary: dismiss: 解雇
+
+**[5286.06s] English:** What other efficient or effective dismissal mechanisms are there?  
+**Translation:** 
+
+**[5293.04s] English:** We have a little bit of fun with some demographic numbers, but I run this by height.  
 **Translation:** Vocabulary: demographic: 人口统计的
 
-**[5298.60s] English:** um uh and i remember him being kind of like don't don't don't include the actual percentage i'm like  
+**[5298.60s] English:** Um, uh, and I remember him being kind of like, "don't don't don't include the actual percentage," I'm like  
 **Translation:** 
 
-**[5302.84s] English:** no we need to include the actual percentages because people are really bad at estimating  
+**[5302.84s] English:** No, we need to include the actual percentages because people are really bad at estimating.  
 **Translation:** Vocabulary: estimating: 估算; percentages: 百分比
 
-**[5307.10s] English:** what what the demographics of the u.s actually looks like both the right and the left in  
+**[5307.10s] English:** What the demographics of the U.S. actually look like, both the right and the left, in  
 **Translation:** 
 
-**[5311.66s] English:** different ways um so we put in the numbers and we talk about you know um being dismissed for  
-**Translation:** Vocabulary: demographics: 人口统计
+**[5311.66s] English:** Different ways, um, so we put in the numbers and we talk about, you know, um, being dismissed for.  
+**Translation:** Vocabulary: demographics: 人口统计数据; dismissed: 被忽视
 
-**[5317.04s] English:** being white or being dismissed for uh being straight or being dismissed for being male  
+**[5317.04s] English:** Being white, or being dismissed for being straight, or being dismissed for being male.  
 **Translation:** 
 
-**[5321.70s] English:** um and we uh and you can already dismiss people for being conservative and we so we we give  
+**[5321.70s] English:** Um, and we can already dismiss people for being conservative, and we so we give  
 **Translation:** 
 
-**[5327.06s] English:** examples in the book of of these being used to dismiss people and oftentimes on topics not  
+**[5327.06s] English:** Examples in the book of these being used to dismiss people, and oftentimes on topics not  
 **Translation:** 
 
-**[5332.04s] English:** related to the fact that they are male or whether or not they're minority and then we get to i think  
+**[5332.04s] English:** Related to the fact that they are male, or whether or not they're a minority, and then we get to, I think.  
 **Translation:** Vocabulary: oftentimes: 经常
 
-**[5336.60s] English:** it's like  
+**[5336.60s] English:** It's like  
 **Translation:** 
 
-**[5336.88s] English:** you know  
+**[5336.88s] English:** You know,  
 **Translation:** 
 
-**[5337.08s] English:** layer six and we're like surprise guess what you're down to 0.4 percent of the population and  
+**[5337.08s] English:** Layer six, and we're like, "Guess what? You're down to 0.4 percent of the population!  
 **Translation:** 
 
-**[5341.80s] English:** none of it mattered because if you have the wrong opinion even if you're in that 0.4 percent of the  
+**[5341.80s] English:** None of it mattered because, if you have the wrong opinion, even if you're in that 0.4 percent of the  
 **Translation:** 
 
-**[5346.74s] English:** most intersectional person who ever lived and you have the wrong opinion you're a heretic and you  
+**[5346.74s] English:** Most intersectional person who ever lived, and you have the wrong opinion—you're a heretic, and you  
 **Translation:** 
 
-**[5350.64s] English:** actually probably will be hated even more and the most interesting part of the research we did for  
-**Translation:** Vocabulary: heretic: 异端; intersectional: 跨学科
+**[5350.64s] English:** Actually, it probably will be hated even more, and the most interesting part of the research we did was for  
+**Translation:** Vocabulary: heretic: 异端; intersectional: 跨领域的
 
-**[5355.98s] English:** this was just asking every prominent uh black conservative and moderate that that we knew  
+**[5355.98s] English:** This was just asking every prominent black conservative and moderate that we knew.  
 **Translation:** 
 
-**[5363.46s] English:** personally have you been told that you're not really  
+**[5363.46s] English:** Personaly, have you been told that you're not really  
 **Translation:** 
 
-**[5366.26s] English:** black for an opinion you had every single one of them was like oh yeah no and it's kind of funny  
+**[5366.26s] English:** Black for an opinion, you had every single one of them was like "Oh, yeah, no," and it's kind of funny.  
 **Translation:** 
 
-**[5372.66s] English:** because it's like oftentimes white lefties telling them that's like oh do you consider yourself black  
+**[5372.66s] English:** Because it's like, oftentimes, white lefties telling them, "Oh, do you consider yourself Black?  
+**Translation:** Vocabulary: lefties: 左倾人士
+
+**[5377.56s] English:** John McWarder talked about having a reporter, um, when he talked about when he showed that he  
 **Translation:** 
 
-**[5377.56s] English:** john mcwarder talked about having a reporter um when he talked about when he showed that he  
+**[5382.16s] English:** Dissenting from some of what he described as kind of like "woke racism" in his book.  
+**Translation:** Vocabulary: racism: 种族主义
+
+**[5386.78s] English:** Woke, ideas the reporter actually is. Like, so do you consider yourself Black? He's like.  
 **Translation:** 
 
-**[5382.16s] English:** dissented from some of uh what he described as kind of like woke racism uh in his book  
-**Translation:** Vocabulary: mcwarder: 麦克沃德
+**[5391.12s] English:** He's like, what are you crazy? Of course I do, and Coleman Hughes had one of the best.  
+**Translation:** Vocabulary: coleman: 科曼; hughes: 休斯
 
-**[5386.78s] English:** woke ideas the reporter actually is like so do you consider yourself black he's like  
+**[5395.98s] English:** Quotes on it," he said. "I'm constantly being told that the most important...  
 **Translation:** 
 
-**[5391.12s] English:** he's like what are you crazy of course i do and coleman hughes had one of the best  
-**Translation:** Vocabulary: coleman: 科尔曼
+**[5400.00s] English:** Thing, uh, is whether or not my opinion is legitimate, but then when  
+**Translation:** Vocabulary: legitimate: 正当的; quotes: 引语
 
-**[5395.98s] English:** quotes on it he said i'm constantly being told that the most important  
+**[5406.36s] English:** I have a dissenting opinion. I get told I'm not really Black, so perfect—like there's no  
 **Translation:** 
 
-**[5400.00s] English:** thing uh to the how legitimate my opinion is is whether uh whether or not i'm black but then when  
+**[5412.86s] English:** A way to falsify this argument, um, that one really struck me so  
+**Translation:** Vocabulary: falsify: 使无效
+
+**[5419.90s] English:** And you lay this out really nicely in the book: there is this process of saying, "Are you...  
 **Translation:** 
 
-**[5406.36s] English:** i have a dissenting opinion i get told i'm not really black so perfect like there's there's no  
+**[5423.66s] English:** Conservative: Yes, you can dismiss the person. Are you white? Dismiss the person. Are you male? You can.  
+**Translation:** Vocabulary: dismiss: 轻视; nicely: 清晰地
+
+**[5430.76s] English:** Dismiss the person; there are these categories that make it easier for you to dismiss a person's ideas.  
 **Translation:** 
 
-**[5412.86s] English:** way to falsify uh this argument um that one really that investigation really struck me so  
-**Translation:** Vocabulary: falsify: 证明虚假
-
-**[5419.90s] English:** and you lay this out really nicely in the book that there is this process of saying are you  
+**[5437.22s] English:** Based on that, and like you said, you end up in that tiny percentage, you can still dismiss it; and it's not  
 **Translation:** 
 
-**[5423.66s] English:** conservative yes you can dismiss the person are you white dismiss the person are you male you can  
+**[5441.34s] English:** Just dismiss; we'll talk about this from a practical standpoint, considering the limitations.  
 **Translation:** 
 
-**[5430.76s] English:** dismiss the person there's these categories that make it easier for you to dismiss a person's ideas  
+**[5446.98s] English:** You know, reality and one of them is time. Um, and a lot of cancel culture, um, as well as other cultural phenomena.  
+**Translation:** Vocabulary: standpoint: 观点
+
+**[5453.64s] English:** Norms: As this way of winning arguments without actually winning them is about running out the clock.  
 **Translation:** 
 
-**[5437.22s] English:** based on that and like you said you end up in that tiny percentage you can still dismiss and it's not  
+**[5458.24s] English:** Because, by the time you get down to the bottom of the issue, even to get a couple  
 **Translation:** 
 
-**[5441.34s] English:** just dismiss we talk about this from a from a practical standpoint the way the limitations on  
+**[5463.80s] English:** Steps into the perfect rhetorical fortress, and you know where the time has gone; you know, like.  
 **Translation:** 
 
-**[5446.98s] English:** you know reality and one of them is time um and a lot of cancel culture um as as as cultural  
-**Translation:** Vocabulary: standpoint: 立场
-
-**[5453.64s] English:** norms as this way of winning arguments without winning arguments is about running out the clock  
-**Translation:** 
-
-**[5458.24s] English:** because by the time you get down to the bottom of the uh of the actually even to get a couple  
-**Translation:** 
-
-**[5463.80s] English:** steps into the perfect rhetorical fortress and you know where is the time gone you know like  
-**Translation:** 
-
-**[5467.88s] English:** you're you're you probably just give up uh trying to uh you know trying to actually have the  
+**[5467.88s] English:** You're probably just giving up, trying to actually have the  
 **Translation:** Vocabulary: rhetorical: 修辞的
 
-**[5474.00s] English:** argument and you never get to the argument in the first place and all of these things  
+**[5474.00s] English:** Argument, and you never get to the argument in the first place, and all of these things.  
 **Translation:** 
 
-**[5477.00s] English:** are pretty sticky on social media social media practically invented the perfect rhetorical  
+**[5477.00s] English:** Are they pretty sticky on social media? Social media practically invented the perfect rhetorical device.  
+**Translation:** Vocabulary: practically: 几乎
+
+**[5481.56s] English:** Fortress, so that each one of those states,...  
 **Translation:** 
 
-**[5481.56s] English:** fortress so that each one of those states  
-**Translation:** 
-
-**[5483.64s] English:** has a virality to it yeah so it could it could stick and then it can get people really excited  
+**[5483.64s] English:** Has a virality to it, yeah, so it could stick and then it can get people really excited.  
 **Translation:** Vocabulary: virality: 传播性
 
-**[5488.76s] English:** it allows you to feel outrage and superiority yeah because of that that at the scale of the  
+**[5488.76s] English:** It allows you to feel outrage and superiority, yeah, because of that—at the scale of  
 **Translation:** 
 
-**[5494.08s] English:** virality allows you to never get to the actual discussion of the point um so but you know it's  
+**[5494.08s] English:** Virality allows you to never get to the actual discussion of the point, um, so but you know it's.  
+**Translation:** Vocabulary: outrage: 愤怒; superiority: 优越感
+
+**[5499.24s] English:** Not just the left; it's the right, too. Sure, also so efficient a rhetorical fortress that there's  
 **Translation:** 
 
-**[5499.24s] English:** not just the left it's the right sure also so efficient rhetorical fortress uh so there's  
+**[5505.36s] English:** Something to be proud of on the right; it's more efficient, yeah. Uh, so you don't have to listen to  
 **Translation:** 
 
-**[5505.36s] English:** something to be proud of on the right it's more efficient yeah uh so you don't have to listen to  
+**[5510.86s] English:** Liberals, and anyone, can be labeled a liberal if  
 **Translation:** 
 
-**[5510.86s] English:** liberals and anyone can be labeled a liberal if  
+**[5513.64s] English:** They have a wrong opinion. I've seen "liberal" and "left," and "leftist" all used as a in the same kind of  
+**Translation:** Vocabulary: labeled: 贴标签; liberals: 自由派
+
+**[5519.72s] English:** Way.  
 **Translation:** 
 
-**[5513.64s] English:** they have a wrong opinion i've seen liberal and left and leftist all used as a in the same kind of  
+**[5520.00s] English:** Yeah, that's leftist nonsense. You don't have to listen to experts, even conservative experts, if they have the wrong opinion. You don't have to listen to journalists, even conservative journalists, if they have the wrong opinion. And among the MAGA wing, there's a fourth proposition: there's a fourth provision. You don't need to listen to anyone who isn't pro-Trump.  
+**Translation:** Vocabulary: provision: 条款
+
+**[5542.10s] English:** Yeah. And we call it efficient because it eliminates a lot of people you probably should listen to—at least sometimes. We point out sometimes how cancel culture can interfere with faith and expertise. So we get kind of suspicious of experts. But at the same time, if you follow that and you follow it mechanically—and I definitely think everybody in the US probably has some older uncle who exercises some of these—it is a really efficient way to sort of  
 **Translation:** 
 
-**[5519.72s] English:** way  
-**Translation:** 
-
-**[5520.00s] English:** Yeah, that's leftist nonsense. You don't have to listen to experts, even conservative experts, if they have the wrong opinion. You don't have to listen to journalists, even conservative journalists, if they have the wrong opinion. And among the MAGA wing, there's a fourth proposition. There's a fourth provision. You don't need to listen to anyone who isn't pro-Trump.  
-**Translation:** 
-
-**[5542.10s] English:** Yeah. And we call it efficient because it eliminates a lot of people you probably should listen to, at least sometimes. We point out sometimes how cancel culture can interfere with faith and expertise. So we get kind of being a little suspicious of experts. But at the same time, if you follow that and you follow it mechanically, and I definitely think everybody in the US probably has some older uncle who exercises some of these, it is a really efficient way to sort of  
-**Translation:** 
-
-**[5572.10s] English:** wall yourself off from the rest of the world and dismiss, you know, at least some people you really should be listening to.  
-**Translation:** Vocabulary: eliminates: 消除; interfere: 干扰; mechanically: 机械地
+**[5572.10s] English:** Wall yourself off from the rest of the world and dismiss, you know, at least some people you really should be listening to.  
+**Translation:** Vocabulary: dismiss: 否认同行; eliminates: 消除冗余; interfere: 干扰信仰; mechanically: 机械地; suspicious: 怀疑专家
 
 **[5578.28s] English:** The way you laid it out, it made me realize that we just take up so much of our brainpower with these things. It's literally time.  
 **Translation:** 
@@ -3133,11 +3134,11 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5586.30s] English:** We could be solving things.  
 **Translation:** Vocabulary: brainpower: 脑力
 
-**[5587.54s] English:** And you get like, you kind of exhaust yourself through this process of being outraged based on these labels, and you never get to actually, there's almost not enough time for empathy, for like looking at a person thinking, well, maybe they're right, because you're so busy.  
+**[5587.54s] English:** And you get like, you kind of exhaust yourself through this process of being outraged based on these labels, and you never get to actually have enough time for empathy — for looking at a person and thinking, "Well, maybe they're right" — because you're so busy.  
 **Translation:** 
 
 **[5601.72s] English:** Yeah.  
-**Translation:** Vocabulary: empathy: 同理心; outraged: 愤怒
+**Translation:** Vocabulary: empathy: 同理心; exhaust: 耗尽; labels: 标签; outraged: 愤怒
 
 **[5602.10s] English:** Categorizing them.  
 **Translation:** 
@@ -3145,11 +3146,11 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5603.72s] English:** What's the fun in empathy?  
 **Translation:** Vocabulary: categorizing: 分类
 
-**[5605.52s] English:** And I mean, what's so interesting about this is that so much societal energy seems to be spent on these nasty primal desires, where essentially, a lot of it is like, please tell me who I'm allowed to hate.  
+**[5605.52s] English:** And, I mean, what's so interesting about this is that so much societal energy seems to be spent on these nasty primal desires, where essentially, a lot of it is like, "please tell me who I'm allowed to hate.  
 **Translation:** 
 
-**[5619.12s] English:** Where can I legitimately be cruel?  
-**Translation:** Vocabulary: legitimately: 正当; primal: 原始; societal: 社会
+**[5619.12s] English:** Where can I be legitimately cruel?  
+**Translation:** Vocabulary: desires: 欲望; legitimately: 正当; primal: 原始; societal: 社会的
 
 **[5621.60s] English:** Where can I actually exercise some aggression against somebody?  
 **Translation:** 
@@ -3157,11 +3158,11 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5625.24s] English:** And it seems to sometimes be just finding new justifications for that.  
 **Translation:** Vocabulary: aggression: 攻击
 
-**[5629.82s] English:** And it's an understandable, you know, human.  
+**[5629.82s] English:** And it's an understandable, you know, human response.  
 **Translation:** 
 
-**[5632.10s] English:** And failing that sometimes can be used to defend justice.  
-**Translation:** Vocabulary: understandable: 容易理解的
+**[5632.10s] English:** And, failing that, sometimes can be used to defend justice.  
+**Translation:** Vocabulary: understandable: 可以理解的
 
 **[5637.00s] English:** But again, it will never get you anywhere near the truth.  
 **Translation:** 
@@ -3172,7 +3173,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5644.98s] English:** Yeah.  
 **Translation:** 
 
-**[5645.60s] English:** So how did cancel culture come into play on the topic of COVID?  
+**[5645.60s] English:** So, how did cancel culture come into play on the topic of COVID?  
 **Translation:** 
 
 **[5649.60s] English:** Yeah, I think that COVID was a big blow to people's faith and expertise, and cancel culture played a big role in that.  
@@ -3187,13 +3188,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5665.30s] English:** She was a vice president at Levi's.  
 **Translation:** 
 
-**[5667.56s] English:** She talked about actually potentially to be the president of Levi's Jeans.  
+**[5667.56s] English:** She talked about potentially being the president of Levi's Jeans.  
 **Translation:** 
 
 **[5672.12s] English:** And she was a big advocate for kids.  
 **Translation:** Vocabulary: advocate: 提倡者
 
-**[5675.98s] English:** And when they started shutting down the schools, she started saying, this is going to be a disaster.  
+**[5675.98s] English:** And when they started shutting down the schools, she started saying, "This is going to be a disaster.  
 **Translation:** 
 
 **[5681.70s] English:** This is going to hurt the poor and disadvantaged kids the most.  
@@ -3211,451 +3212,451 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[5697.24s] English:** Yeah.  
 **Translation:** 
 
-**[5697.56s] English:** All sorts of, you know, petitions for her to be fired and that she needed to apologize and all this kind of stuff.  
+**[5697.56s] English:** All sorts of petitions, you know, asking for her to be fired and that she needed to apologize, and all this kind of stuff.  
 **Translation:** 
 
-**[5703.00s] English:** And, you know, she was offered, I think, like a million dollar severance, which she wouldn't take because she wanted to tell the world what she thought about this and that she wanted to continue saying that she hadn't changed her mind, that this was a disaster for young people.  
+**[5703.00s] English:** And, you know, she was offered, I think, like a million-dollar severance, which she wouldn't take because she wanted to tell the world what she thought about this and that; she wanted to continue saying that she hadn't changed her mind, that this was a disaster for young people.  
 **Translation:** Vocabulary: severance: 解雇补偿
 
-**[5717.76s] English:** And now that's kind of the conventional wisdom.  
+**[5717.76s] English:** And now, that's kind of the conventional wisdom.  
 **Translation:** 
 
-**[5721.76s] English:** And the research is pretty is quite clear that this was devastating to particularly.  
+**[5721.76s] English:** And the research is pretty clear that this was devastating, particularly.  
+**Translation:** Vocabulary: conventional: 传统的
+
+**[5727.56s] English:** Disadvantaged youths, like many people, understand this as being okay, and she was probably right.  
 **Translation:** 
 
-**[5727.56s] English:** Disadvantaged youths like people understand this as being OK, and she was probably right.  
+**[5732.30s] English:** But one of the really sad aspects of cancel culture is that people forget why you're canceled and they just know they hate you.  
 **Translation:** 
 
-**[5732.30s] English:** But one of the one of the really sad aspects of cancel culture is people forget why you are canceled and they just know they hate you.  
+**[5740.94s] English:** There's this lingering feeling, kind of like, well, I don't have to take them seriously anymore.  
 **Translation:** 
 
-**[5740.94s] English:** There's this lingering kind of like, well, I don't have to take them seriously anymore.  
-**Translation:** 
-
-**[5744.32s] English:** But by the way, did you notice they happen to be right on something very important?  
+**[5744.32s] English:** But by the way, did you notice that they happen to be right on something very important?  
 **Translation:** Vocabulary: lingering: 持续的
 
-**[5748.38s] English:** Now, one funny thing about freedom of speech, freedom of speech wouldn't exist if you didn't also have the right to say things that were wrong, because if you can't,  
+**[5748.38s] English:** Now, one funny thing about freedom of speech: freedom of speech wouldn't exist if you didn't also have the right to say things that were wrong, because if you can't,...  
 **Translation:** 
 
-**[5756.80s] English:** you know, engage in idea for you, if you can't actually.  
+**[5756.80s] English:** You know, engage in an idea for you if you can't actually.  
 **Translation:** 
 
-**[5760.00s] English:** speculate you'll never actually get to something that's right in the first place but it's especially  
+**[5760.00s] English:** Speculate, you'll never actually get to something that's right in the first place, but it's especially  
 **Translation:** 
 
-**[5764.82s] English:** galling when people who were right were censored and you uh and never actually get the credit that  
-**Translation:** Vocabulary: censored: 被抑制; speculate: 猜测
+**[5764.82s] English:** It's galling when people who were right were censored, and you know, and never actually get the credit that they deserve.  
+**Translation:** Vocabulary: censored: 被审查; galling: 令人气愤; speculate: 猜测
 
-**[5771.24s] English:** they deserve well this might be a good place to ask a little bit more about the freedom of speech  
+**[5771.24s] English:** They deserve well; this might be a good place to ask a little bit more about the freedom of speech.  
 **Translation:** 
 
-**[5776.80s] English:** and so you said that included in the freedom of speech is to say things that are wrong yep um  
+**[5776.80s] English:** And so, you said that included in the freedom of speech is to say things that are wrong? Yep, um.  
 **Translation:** 
 
-**[5784.12s] English:** what is your perspective on hate speech hate speech is the best marketing campaign for censorship  
+**[5784.12s] English:** What is your perspective on hate speech? Hate speech is the best marketing campaign for censorship.  
 **Translation:** 
 
-**[5793.12s] English:** and it came from academia um of the of the 20th century and that when i talked about the anti-free  
-**Translation:** Vocabulary: academia: 学术界; censorship: 审查
+**[5793.12s] English:** And it came from academia, um, of the 20th century, and that when I talked about the anti-free.  
+**Translation:** Vocabulary: academia: 学术界; censorship: 审查制度
 
-**[5800.62s] English:** speech movement uh that was one of their first inventions um there was a lot of talk about  
+**[5800.62s] English:** Speech, movement—uh—that was one of their first inventions. Um, there was a lot of talk about it.  
 **Translation:** 
 
-**[5805.24s] English:** critical race theory um and and being against critical race theory and fire will sue if you  
+**[5805.24s] English:** Critical Race Theory, um, and being against Critical Race Theory — and Fire will sue if you.  
 **Translation:** 
 
-**[5811.26s] English:** say that people can't advocate for it or teach  
+**[5811.26s] English:** Say that people can't advocate for it or teach.  
 **Translation:** 
 
-**[5814.12s] English:** it or research it uh because you do absolutely have the right to to pursue it academically  
-**Translation:** Vocabulary: academically: 学术上; advocate: 提倡
-
-**[5819.78s] English:** however every time someone mentions crt they should also say the very first project of the  
+**[5814.12s] English:** It or research it, uh, because you do absolutely have the right to pursue it academatically.  
 **Translation:** 
 
-**[5826.84s] English:** people who founded crt um richard delgado mary matsuda um etc was to go was to create this new  
-**Translation:** Vocabulary: delgado: 德尔加多
-
-**[5834.22s] English:** category of unprotected speech called hate speech and to get it banned the person who enabled this  
+**[5819.78s] English:** However, every time someone mentions CRT, they should also say the very first project of the  
 **Translation:** 
 
-**[5839.90s] English:** drift of course was herbert marcus in 1965 you know basically  
-**Translation:** Vocabulary: drift: 趋势; unprotected: 不受保护
+**[5826.84s] English:** People who founded CRT, such as Richard Delgado and Mary Matsuda, etc., were to go and create this new.  
+**Translation:** Vocabulary: delgado: 德尔加多; matsuda: 马茨达
 
-**[5843.58s] English:** questionable  
+**[5834.22s] English:** Category of unprotected speech called hate speech, and to get it banned, the person who enabled this:  
 **Translation:** 
 
-**[5844.12s] English:** questioning whether or not free speech should be a sacred value on the left and he was on the losing  
+**[5839.90s] English:** Drift, of course, was Herbert Marcus in 1965; you know, basically.  
+**Translation:** Vocabulary: drift: 趋势; marcus: 马库斯; unprotected: 不受保护
+
+**[5843.58s] English:** Questionable.  
 **Translation:** 
 
-**[5848.14s] English:** side for a really long time the liberals you know the way i grew up that was basically being pro-free  
+**[5844.12s] English:** Questioning whether or not free speech should be a sacred value on the left, he was on the losing side.  
 **Translation:** 
 
-**[5853.90s] English:** speech was synonymous with being a liberal but that started to be etched away on campus and  
-**Translation:** Vocabulary: etched: 刻板印象; synonymous: 同义词
-
-**[5860.40s] English:** the way it was was with with the idea of hate speech um that essentially oh but you should um  
+**[5848.14s] English:** Side for a really long time, the liberals—you know, the way I grew up, that was basically being pro-free.  
 **Translation:** 
 
-**[5867.10s] English:** we can designate particularly bad speech as uh not protected um and and  
+**[5853.90s] English:** Speech was synonymous with being a liberal, but that started to be etched away on campus and  
+**Translation:** Vocabulary: etched: 刻写; liberals: 自由派; synonymous: 同义的
+
+**[5860.40s] English:** The way it was, was with the idea of hate speech, um, oh, but you should, um,...  
 **Translation:** 
 
-**[5873.22s] English:** who's going to enforce it who's going to decide what hate speech actually is well it's usually  
+**[5867.10s] English:** We can designate particularly bad speech as not protected, um, and and  
 **Translation:** 
 
-**[5878.20s] English:** overwhelmingly can only  
-**Translation:** Vocabulary: overwhelmingly: 压倒性地
-
-**[5880.00s] English:** happen in an environment of really low viewpoint diversity because you have to actually agree  
+**[5873.22s] English:** Who's going to enforce it? Who's going to decide what hate speech actually is? Well, it's usually...  
 **Translation:** 
 
-**[5884.08s] English:** on what the most hateful and wrong things are. There's a bedrock principle. It's referred to  
-**Translation:** Vocabulary: bedrock: 基础原则
+**[5878.20s] English:** Overwhelmingly, it can only  
+**Translation:** Vocabulary: enforce: 强制执行; overwhelmingly: 压倒性地
 
-**[5892.12s] English:** this in a great case about flag burning in the First Amendment that I think all the world could  
+**[5880.00s] English:** Happen in an environment of really low viewpoint diversity, because you have to actually agree.  
 **Translation:** 
 
-**[5896.88s] English:** benefit from. You can't ban speech just because it's offensive. It's too subjective. It's one  
+**[5884.08s] English:** On what the most hateful and wrong things are, there's a bedrock principle. It's referred to  
+**Translation:** Vocabulary: bedrock: 基本原则; viewpoint: 观点
+
+**[5892.12s] English:** This is a great case about flag burning in the First Amendment that I think everyone could  
 **Translation:** 
 
-**[5903.60s] English:** of the reasons why these kind of codes have been more happily adopted in places like Europe where  
+**[5896.88s] English:** Benefits from. You can't ban speech just because it's offensive. It's too subjective. It's one  
 **Translation:** 
 
-**[5909.10s] English:** they have a sense that there's like a modal German or a modal Englishman. I think this is  
+**[5903.60s] English:** Of the reasons why these kinds of codes have been more happily adopted in places like Europe, where  
+**Translation:** 
+
+**[5909.10s] English:** They have a sense that there's, like, a modal German or a modal Englishman. I think this is  
 **Translation:** Vocabulary: englishman: 英国人
 
-**[5914.30s] English:** offensive. Therefore, I can say that this is wrong. In a more multicultural, in a genuinely  
+**[5914.30s] English:** Offensive. Therefore, I can say that this is wrong. In a more multicultural, genuinely  
 **Translation:** 
 
-**[5921.02s] English:** more diverse country that's never actually had an honest thought that there is a single kind of  
+**[5921.02s] English:** More diverse, the country has never actually had an honest thought that there is a single kind of  
 **Translation:** 
 
-**[5926.58s] English:** American. We had the idea of Uncle Sam, but that was always kind of a joke. Boston always knew it  
+**[5926.58s] English:** American. We had the idea of Uncle Sam, but that was always kind of a joke. Boston always knew it.  
 **Translation:** 
 
-**[5933.84s] English:** wasn't, Richmond always knew it wasn't, Georgia always knew it wasn't, Alaska. We've always been  
-**Translation:** Vocabulary: richmond: 城市例子
+**[5933.84s] English:** Wasn't Richmond always knowing it wasn't? Georgia always knew it wasn't, and Alaska. We've always been.  
+**Translation:** Vocabulary: richmond: 里士满
 
-**[5938.88s] English:** a hockey team. We've always been a hockey team. It's always been a hockey team. It's always been  
+**[5938.88s] English:** A hockey team. We've always been a hockey team. It's always been a hockey team. It's always been.  
 **Translation:** 
 
-**[5939.08s] English:** a hockey team. It's always been a hockey team. It's always been a hockey team. It's always been a  
+**[5939.08s] English:** A hockey team. It's always been a hockey team. It's always been a hockey team. It's always been a  
 **Translation:** 
 
-**[5939.10s] English:** And we get in a society that diverse that you can't ban things simply because they're offensive. And that's one of the reasons why hate speech is not an unprotected category of speech. And I go further. My theory on freedom of speech is slightly different than most other constitutional lawyers.  
+**[5939.10s] English:** And, in a society that is so diverse, you can't ban things simply because they're offensive. And that's one of the reasons why hate speech is not an unprotected category of speech. And I go further: my theory on freedom of speech is slightly different than most other constitutional lawyers.  
 **Translation:** 
 
-**[5958.50s] English:** And I think and I think that's partially because some of the ways some of these theories, although a lot of them are really good, are inadequate. They're not expansive enough. And I sometimes call my theory the pure informational theory of freedom of speech or sometimes when I want to be fancy, the lab and the looking glass theory.  
-**Translation:** Vocabulary: expansive: 包容的; inadequate: 不够
+**[5958.50s] English:** And I think that's partially because some of these theories, although a lot of them are really good, are inadequate—they're not expansive enough. And I sometimes call my theory the "pure informational theory" of freedom of speech, or sometimes when I want to be fancy, the "lab and looking glass" theory.  
+**Translation:** Vocabulary: expansive: 包容的; inadequate: 不够全面; unprotected: 不受保护
 
-**[5976.80s] English:** And its most important tenet is that there is that if the goal is the project of human knowledge, which is to know the world it is, you cannot know the world as it is without knowledge.  
+**[5976.80s] English:** And its most important tenet is that, if the goal is the project of human knowledge (which is to know the world as it is), you cannot know the world as it is without knowledge.  
 **Translation:** 
 
-**[5988.50s] English:** Knowing what people really think and what people really think is an incredibly important fact to know. So every time you're actually saying you can't say that you're actually depriving.  
+**[5988.50s] English:** Knowing what people really think, and what they really think, is an incredibly important fact to know. So, every time you're actually saying "you can't say that," you're actually depriving.  
 **Translation:** Vocabulary: cannot: 不能; depriving: 剥夺; tenet: 信条
 
-**[6000.00s] English:** yourself of the knowledge of what people really think, you're causing what Timur Karan, who's on  
+**[6000.00s] English:** Of your own knowledge of what people really think, you're causing what Timur Karan, who's on, to say.  
 **Translation:** 
 
-**[6004.56s] English:** our board of advisors, calls preference falsification. You end up with an inaccurate  
-**Translation:** Vocabulary: falsification: 虚假陈述; inaccurate: 不准确
+**[6004.56s] English:** Our board of advisors calls it "preference falsification." You end up with an inaccurate  
+**Translation:** Vocabulary: advisors: 顾问; falsification: 歪曲; inaccurate: 不准确
 
-**[6008.96s] English:** picture of the world, which by the way, in a lot of cases, because there are activists who want to  
+**[6008.96s] English:** Picture of the world, which, by the way, in a lot of cases, because there are activists who want to,  
 **Translation:** 
 
-**[6014.60s] English:** restrict more speech, they actually tend to think that people are more prejudiced than they might  
-**Translation:** Vocabulary: prejudiced: 先入为主
+**[6014.60s] English:** Restricting more speech, they actually tend to think that people are more prejudiced than they might.  
+**Translation:** Vocabulary: prejudiced: 先入为主的; restricting: 限制
 
-**[6019.52s] English:** be. And actually, these kind of restrictions, there was a book called Racial Paranoia that  
+**[6019.52s] English:** Be. And actually, these kinds of restrictions, there was a book called "Racial Paranoia" that  
 **Translation:** 
 
-**[6024.78s] English:** came out about 15 years ago that was making the point that the imposition of some of these codes  
+**[6024.78s] English:** Came out about 15 years ago, that was making the point that the imposition of some of these codes  
 **Translation:** Vocabulary: imposition: 强加; paranoia: 妄想
 
-**[6030.18s] English:** can sometimes make people think that the only thing holding you back from being a raging racist  
+**[6030.18s] English:** Can sometimes make people think that the only thing holding you back from being a raging racist is  
 **Translation:** 
 
-**[6034.98s] English:** are these codes. So it must be really, really bad. It can actually make all these things worse.  
+**[6034.98s] English:** These are the codes. So it must be really, really bad. It can actually make all these things worse.  
+**Translation:** Vocabulary: raging: 狂热的
+
+**[6040.16s] English:** And one, which we talk about in the book, is one very real and practical way it makes things worse.  
 **Translation:** 
 
-**[6040.16s] English:** And one, which we talk about in the book, one very real practical way it makes things worse  
+**[6044.76s] English:** Is when you censor people, it doesn't change their opinion. It just encourages them to not.  
 **Translation:** 
 
-**[6044.76s] English:** is when you censor people, it doesn't change their opinion. It just encourages them to not  
-**Translation:** Vocabulary: censor: 审查
-
-**[6051.02s] English:** share it with people who will get them in trouble. So it leads them to  
+**[6051.02s] English:** Share it with people who will get them in trouble. So, it leads them to.  
 **Translation:** 
 
-**[6054.66s] English:** talk about it in a way that they don't want to hear about it. And so it's a very practical way  
+**[6054.66s] English:** Talk about it in a way that they don't want to hear about it, and so it's a very practical way.  
 **Translation:** 
 
-**[6054.76s] English:** to talk to people who they already agree with, and group polarization takes off. So we have some  
+**[6054.76s] English:** To talk to people who they already agree with, and group polarization takes off. So we have some.  
 **Translation:** 
 
-**[6060.08s] English:** interesting data in the book about how driving people off of Twitter, for example, you know,  
+**[6060.08s] English:** Interesting data in the book about how driving people off of Twitter, for example, you know,  
 **Translation:** Vocabulary: polarization: 极化
 
-**[6066.76s] English:** in 2017, and then again, I think in 2020, driving people to gab led to, you know, greater radicalization  
+**[6066.76s] English:** In 2017, and then again, I think in 2020, driving people to gab led to, you know, greater radicalization.  
 **Translation:** 
 
-**[6074.04s] English:** among those people. It's a very predictable force. Censorship doesn't actually change people's minds,  
+**[6074.04s] English:** Among those people, it's a very predictable force: censorship doesn't actually change people's minds.  
 **Translation:** Vocabulary: censorship: 审查; predictable: 可预测; radicalization: 激进化
 
-**[6079.80s] English:** and it pushes them in directions that actually, by very, you know, solid research,  
+**[6079.80s] English:** And it pushes them in directions that, by very solid research, actually  
 **Translation:** 
 
-**[6084.44s] English:** will actually make them more radicalized. So yeah, I think that the attempt to ban hate speech,  
+**[6084.44s] English:** Will actually make them more radicalized. So, yeah, I think that the attempt to ban hate speech,  
 **Translation:** Vocabulary: radicalized: 激进化
 
-**[6090.84s] English:** it doesn't really protect us from it, but it gives the government such a vast  
+**[6090.84s] English:** It doesn't really protect us from it, but it gives the government such a vast  
 **Translation:** 
 
-**[6095.62s] English:** weapon to use against us that we will regret giving them.  
+**[6095.62s] English:** A weapon to use against us that we will regret giving them.  
 **Translation:** 
 
-**[6101.46s] English:** Is there a way to sort of to look at extreme cases to test this idea out a little bit? So  
+**[6101.46s] English:** Is there a way to sort of look at extreme cases to test this idea out a little bit? So,  
 **Translation:** 
 
-**[6107.36s] English:** if we look on campus, what's your view about allowing, say, white supremacists on campus?  
+**[6107.36s] English:** If we look on campus, what is your view about allowing, say, white supremacists on campus?  
 **Translation:** Vocabulary: supremacists: 至上主义者
 
-**[6114.32s] English:** To do to do speeches? Okay, KK, I think you should be able to study.  
+**[6114.32s] English:** To do speeches? Okay, KK, I think you should be able to study.  
 **Translation:** 
 
-**[6120.56s] English:** what people think and i think it's important that we actually do so i think that you know  
+**[6120.56s] English:** What people think, and I think it's important that we actually do so; I think that you know.  
 **Translation:** 
 
-**[6126.24s] English:** um let's take for example q anon yeah q anon's wrong um but where did it come from why did they  
+**[6126.24s] English:** Um, let's take, for example, QAnon. Yeah, QAnon is wrong, but where did it come from? Why did it start?  
 **Translation:** 
 
-**[6133.84s] English:** think that what's the motivation who taught them it who came up with these ideas this is important  
+**[6133.84s] English:** Think about what the motivation was, who taught them, and who came up with these ideas. This is important.  
 **Translation:** 
 
-**[6138.80s] English:** to understand history that's under important to understand modern american politics and so if you  
+**[6138.80s] English:** To understand history, it is important to understand modern American politics, and so if you  
 **Translation:** 
 
-**[6144.88s] English:** put your act if you put your scholar hat on and which you should be curious about kind of  
+**[6144.88s] English:** Put your thinking cap on, and which you should be curious about, kind of.  
 **Translation:** 
 
-**[6151.60s] English:** everyone about where they're coming from daryl davis who i'm sure you're familiar with part of  
+**[6151.60s] English:** Everyone, about where they're coming from. Daryl Davis, whom I'm sure you're familiar with, is part of this.  
 **Translation:** 
 
-**[6157.36s] English:** his goal was just simply to get to know where people were coming from and in the process  
+**[6157.36s] English:** His goal was simply to get to know where people were coming from, and in the process,  
+**Translation:** Vocabulary: daryl: 戴尔
+
+**[6161.60s] English:** He actually de-radicalized a number of clan members when they actually realized that this.  
 **Translation:** 
 
-**[6161.60s] English:** he actually de-radicalized a number of clans members when they actually realized that this  
+**[6165.84s] English:** The black man who had befriended them actually was compassionate; he was a decent person, and they realized it.  
+**Translation:** Vocabulary: befriended: 结识; compassionate: 同情的
+
+**[6170.96s] English:** All their preconceptions were wrong, so it can have a de-radicalizing factor by the  
 **Translation:** 
 
-**[6165.84s] English:** black man who had befriended them actually was compassionate was a decent person they realized  
-**Translation:** Vocabulary: befriended: 结识; clans: 宗族; compassionate: 同情的
+**[6174.88s] English:** Way, but even when it doesn't, it's still really important to know what the bad people in your  
+**Translation:** Vocabulary: preconceptions: 先入为主观念
 
-**[6170.96s] English:** all their preconceptions were wrong so it can have a de-radicalizing factor by the  
+**[6179.44s] English:** Society thinks that, honestly, in some ways, it's for your own safety that it's probably more important to  
 **Translation:** 
 
-**[6174.88s] English:** way but even when it doesn't it's still really important to know what the bad people in your  
+**[6185.84s] English:** Know what the bad people in your society actually think? I personally, I don't know what you think.  
 **Translation:** 
 
-**[6179.44s] English:** society think honestly in some ways it's for for your own safety it's probably more important to  
+**[6190.24s] English:** About that, but I personally think that freedom of speech in cases like that, like KKK and campus,  
 **Translation:** 
 
-**[6185.84s] English:** know what the bad people in your society actually think i personally i don't know what you think  
+**[6194.96s] English:** Can do more harm in the short term, but much more benefit in the long term, because you can.  
 **Translation:** 
 
-**[6190.24s] English:** about that but i personally think that freedom of speech in cases like that like kkk and campus  
+**[6202.48s] English:** Sometimes we argue that it will hurt.  
 **Translation:** 
 
-**[6194.96s] English:** can do more harm in the short term but much more benefit in the long term because you can  
+**[6205.44s] English:** Yeah, in the short term, but I mean, Harvey said this is like, "consider the alternative," yeah, because...  
+**Translation:** Vocabulary: harvey: 哈维
+
+**[6211.60s] English:** You've just kind of made the case for how this might be a good thing, even in the  
 **Translation:** 
 
-**[6202.48s] English:** sometimes argue for like this is going to hurt  
+**[6216.40s] English:** Short-term, and it often is, I think, especially in a stable society like ours with a strong middle class.  
 **Translation:** 
 
-**[6205.44s] English:** yeah in the short term but i mean harvey said this is like consider the alternative yeah because  
+**[6222.48s] English:** Class, all these kinds of things where people have the comforts to reason through things, yeah, um,  
 **Translation:** 
 
-**[6211.60s] English:** you've just kind of made the case for like this potentially would be a good thing even in the  
+**[6227.28s] English:** But, you know, to me it's like, even if it hurts in the short term, even if it does create more hate,  
 **Translation:** 
 
-**[6216.40s] English:** short term and it often is i think especially in a stable society like ours uh with a strong middle  
+**[6234.88s] English:** The long-term, it really comes into play in the long term. Like I would say that I think it's a real  
 **Translation:** 
 
-**[6222.48s] English:** class all these kinds of things where people have like the comforts to reason through things yeah um  
+**[6237.68s] English:** A way for people to negotiate, and you know, I think that's why I think what we're still  
 **Translation:** 
 
-**[6227.28s] English:** but you know to me it's like even if it hurts in the short term even if it does create more hate in  
+**[6240.00s] English:** The truth: The entirety of society toward a deeper, more accurate understanding of life on Earth.  
 **Translation:** 
 
-**[6234.88s] English:** the long term it really comes into play in the long term like i would say that i think it's a real  
+**[6241.04s] English:** Doing is, we're kind of a bit of a  
+**Translation:** Vocabulary: entirety: 全部
+
+**[6247.28s] English:** Society, how people function; ethics, metaphysics — of everything, yeah, and that's in the  
 **Translation:** 
 
-**[6237.68s] English:** way for people to negotiate and you know i think that's why i think i think that what we're still  
+**[6250.38s] English:** Stand by, but like what I'm trying to do is that I've been doing it for months, and I've been doing  
+**Translation:** Vocabulary: metaphysics: 本体论
+
+**[6254.14s] English:** Long-term is a huge benefit; it gets rid of the Nazis in the long term, even if it adds to the  
 **Translation:** 
 
-**[6241.04s] English:** doing is we're kind of a bit of a  
+**[6254.88s] English:** It's been so long, so like I haven't really been able to speak to you in the last couple of days.  
+**Translation:** Vocabulary: nazis: 纳粹分子
+
+**[6259.44s] English:** But I think if you're willing to take whatever you need to take, and all of these things, you're going to  
 **Translation:** 
 
-**[6250.38s] English:** stand-by but like what i'm trying to do is like i've been doing it for months and i've been doing  
+**[6260.22s] English:** Number of Nazis, in the short term, yeah, well, and meanwhile, just for the reality check part of...  
 **Translation:** 
 
-**[6254.88s] English:** it for all these years so like i haven't really been able to speak to you in the last couple days  
+**[6262.08s] English:** Have a lot of factors that are important, I think. Like, I don't know, I feel that there's a lot, I'm just  
 **Translation:** 
 
-**[6259.44s] English:** but i think if you're willing to take whatever you need to take all of these things you're going to  
+**[6264.82s] English:** This is something people always bring up: "What about the clan on campus?" I'm like, they're never invited.  
 **Translation:** 
 
-**[6262.08s] English:** have a lot of factors that are important i think like my i don't know i i feel that there's a lot i'm just  
+**[6269.12s] English:** Um, the thing is, I haven't seen a case where they've been invited; usually, this the clan...  
 **Translation:** 
 
-**[6240.00s] English:** the truth the entirety of society towards a deeper more accurate understanding of life on earth of  
-**Translation:** Vocabulary: entirety: 整体
-
-**[6247.28s] English:** society of how people function of ethics of metaphysics of everything yeah and that in the  
+**[6276.64s] English:** The argument gets thrown out when people are trying to excuse, and that's why we shouted down Ben Shapiro.  
 **Translation:** 
 
-**[6254.14s] English:** long term is a huge benefit it gets rid of the nazis in the long term even if it adds to the  
-**Translation:** Vocabulary: metaphysics: 本体论; nazis: 纳粹
-
-**[6260.22s] English:** number of nazis in the short term yeah well and meanwhile just for and the reality check part of  
+**[6282.10s] English:** Right, and that's why you can't have Bill Maher on campus. That's why you know, and it's like, okay, um,...  
 **Translation:** 
 
-**[6264.82s] English:** this is people always bring up what about the clan on campus i'm like they're never invited  
-**Translation:** 
-
-**[6269.12s] English:** um the the the i haven't seen a case where they've been invited um usually this the clan  
-**Translation:** 
-
-**[6276.64s] English:** argument gets thrown out when people are trying to excuse and that's why we shouted down ben shapiro  
-**Translation:** 
-
-**[6282.10s] English:** right and that's why you can't have bill maher on campus that's why you know and it's like okay um  
-**Translation:** 
-
-**[6288.66s] English:** you know and it's a it's a little bit of that what about ism again about being like well that  
+**[6288.66s] English:** You know, and it's a little bit of that "ism" again about being like, well, that.  
 **Translation:** Vocabulary: maher: 马赫
 
-**[6292.74s] English:** thing over there is terrible and therefore this comedian shouldn't come uh so i do have a question  
+**[6292.74s] English:** The thing over there is terrible, and therefore, this comedian shouldn't come, uh. So, I do have a question.  
 **Translation:** 
 
-**[6297.80s] English:** maybe by way of  
+**[6297.80s] English:** Maybe, by way of  
 **Translation:** 
 
-**[6299.12s] English:** advice sure you know interviewing folks and seeing this like a like a podcast as a platform  
+**[6299.12s] English:** Advice: Sure, you know, interviewing folks and seeing this like a podcast as a platform.  
 **Translation:** 
 
-**[6305.30s] English:** in deciding who to talk to or not that's something i have to come face to face with  
+**[6305.30s] English:** In deciding who to talk to or not, that's something I have to face.  
 **Translation:** 
 
-**[6311.92s] English:** on occasion my natural inclination before i started the podcast was i would talk to  
+**[6311.92s] English:** On occasion, my natural inclination before I started the podcast was to talk to  
 **Translation:** 
 
-**[6316.64s] English:** anyone and including people which i'm still interested in who are you know the current  
+**[6316.64s] English:** Anyone, and including people that I'm still interested in, who are you know currently...  
 **Translation:** Vocabulary: inclination: 倾向
 
-**[6323.58s] English:** members of the kkk and to me there's a responsibility to do that with  
+**[6323.58s] English:** Members of the KKK, and to me, there's a responsibility to do that with.  
 **Translation:** 
 
-**[6329.12s] English:** skill yeah um and that responsibility has been weighing heavier and heavier on me because you  
+**[6329.12s] English:** Skills, yeah, um, and that responsibility has been weighing heavier and heavier on me because you  
 **Translation:** 
 
-**[6335.70s] English:** realize how much skill it actually takes because you have to know to understand so much because i  
+**[6335.70s] English:** Realize how much skill it actually takes, because you have to know and understand so much. Because I  
 **Translation:** 
 
-**[6341.56s] English:** i've come to understand that the devil is always going to be charismatic yeah um the devil's not  
+**[6341.56s] English:** I've come to understand that the devil is always going to be charismatic, yeah. Um, the devil's not  
+**Translation:** Vocabulary: charismatic: 有魅力的
+
+**[6347.78s] English:** Going to look like the devil, and so you have to realize you have to, you can't always come to the  
 **Translation:** 
 
-**[6347.78s] English:** going to look like the devil and so you have to realize you have to you can't always come to the  
+**[6354.50s] English:** Table with a deep compassion for another human being, you have to have, you know, about 90 percent.  
+**Translation:** Vocabulary: compassion: 同情
+
+**[6359.12s] English:** Compassion and  
 **Translation:** 
 
-**[6354.50s] English:** table with a deep compassion for another human being you have to have you know like 90 percent  
-**Translation:** Vocabulary: compassion: 同情心
-
-**[6359.12s] English:** compassion and  
+**[6360.00s] English:** And another 90% consists of deep historical knowledge about the context of the battles around this particular area.  
 **Translation:** 
 
-**[6360.00s] English:** and another 90% deep historical knowledge about the context of the battles around this particular  
+**[6366.36s] English:** Issue, and that takes just a huge amount of effort. But I don't know if there are any thoughts.  
 **Translation:** 
 
-**[6366.36s] English:** issue. And that takes just a huge amount of effort. But I don't know if there's thoughts  
-**Translation:** 
-
-**[6371.36s] English:** you have about this, how to handle speech in a way without censoring, bringing it to the surface,  
+**[6371.36s] English:** You have to handle speech in a way without censoring, bringing it to the surface.  
 **Translation:** Vocabulary: censoring: 审查
 
-**[6381.98s] English:** but in a way that creates more love in the world.  
+**[6381.98s] English:** But, in a way that creates more love in the world.  
 **Translation:** 
 
-**[6384.30s] English:** I remember Steve Bannon got disinvited from the New Yorker Festival. And Jim Carrey freaked out,  
-**Translation:** Vocabulary: bannon: 班农; disinvited: 被取消邀请
+**[6384.30s] English:** I remember Steve Bannon got disinvited from the New Yorker Festival, and Jim Carrey freaked out.  
+**Translation:** Vocabulary: bannon: 布雷顿; disinvited: 被取消邀请; freaked: 大惊小怪
 
-**[6392.82s] English:** and all sorts of other people freaked out, and he got disinvited. And I got invited to speak  
+**[6392.82s] English:** And all sorts of other people freaked out, and he got disinvited. And I got invited to speak.  
 **Translation:** 
 
-**[6398.32s] English:** on Smirconish about this. And I was saying, listen, you don't have people to your conference  
-**Translation:** Vocabulary: smirconish: 斯米克尼什
+**[6398.32s] English:** On Smirconish about this. And I was saying, "Listen, you don't have people to your conference.  
+**Translation:** Vocabulary: smirconish: 小型会议
 
-**[6407.08s] English:** because you agree with them. We have to get out of this idea. Because they were trying to make  
+**[6407.08s] English:** Because you agree with them, we have to get out of this idea. Because they were trying to make  
 **Translation:** 
 
-**[6413.74s] English:** it sound like that.  
+**[6413.74s] English:** It sounds like that.  
 **Translation:** 
 
-**[6414.30s] English:** That's an endorsement of Steve Bannon. That's nonsense. If you actually look at the opinions  
+**[6414.30s] English:** That's an endorsement of Steve Bannon. That's nonsense. If you actually look at the opinions,  
 **Translation:** 
 
-**[6417.84s] English:** of all the people who are there, you can't possibly endorse all the opinions that all  
-**Translation:** Vocabulary: endorsement: 支持声明
+**[6417.84s] English:** Of all the people who are there, you can't possibly endorse all the opinions that they have.  
+**Translation:** Vocabulary: endorse: 支持; endorsement: 支持声明
 
-**[6422.10s] English:** these other people who are going to be there actually have. And in the process of making  
+**[6422.10s] English:** These other people who are going to be there actually have, and in the process of making.  
 **Translation:** 
 
-**[6425.74s] English:** that argument, I got, and also, of course, the very classic, it's very valuable to know what  
+**[6425.74s] English:** That argument, I got, and also, of course, the very classic: it's very valuable to know what  
 **Translation:** 
 
-**[6431.34s] English:** someone Steve Bannon thinks. You should be curious about that. And I remember someone arguing back  
+**[6431.34s] English:** Someone, Steve Bannon, thinks you should be curious about that. And I remember someone arguing back.  
 **Translation:** 
 
-**[6435.68s] English:** saying, well, would you want someone to interview a jihadi? Because at the moment, it was the time  
+**[6435.68s] English:** Saying, "Well, would you want someone to interview a jihadi?" Because at the moment, it was the time.  
 **Translation:** 
 
-**[6441.96s] English:** when ISIS was really going.  
+**[6441.96s] English:** When ISIS was really going.  
 **Translation:** 
 
-**[6444.30s] English:** Going for it. And I was like, would you not want to go to a talk where someone was trying to figure  
+**[6444.30s] English:** Going for it. And I was like, "Wouldn't you want to go to a talk where someone was trying to figure it out?  
 **Translation:** 
 
-**[6451.16s] English:** out what makes some of these people tick? Because that changes your framing. That essentially,  
+**[6451.16s] English:** What makes some of these people tick? Because that changes your framing. That essentially,  
 **Translation:** 
 
-**[6455.98s] English:** it's like, no, it's curiosity. It is the cure for a lot of this stuff. And we need a great deal more  
+**[6455.98s] English:** It's like, no, it's curiosity. It is the cure for a lot of this stuff, and we need a great deal more.  
+**Translation:** Vocabulary: framing: 框架
+
+**[6461.48s] English:** Curiosity and a lot less unwarranted certainty. And there's a question of: how do you conduct  
 **Translation:** 
 
-**[6461.48s] English:** curiosity and a lot less unwarranted certainty. And there's a question of like, how do you conduct  
+**[6466.78s] English:** Such conversations? And I feel deeply underqualified. Who do you think is especially...  
 **Translation:** 
 
-**[6466.78s] English:** such conversations? And I feel deeply underqualified. Who do you think is especially  
+**[6472.40s] English:** Good at that?  
 **Translation:** 
 
-**[6472.40s] English:** good at that?  
+**[6474.30s] English:** I feel like documentary filmmakers usually do a much better job, and the best job is usually done  
 **Translation:** 
 
-**[6474.30s] English:** I feel like documentary filmmakers usually do a much better job. And the best job is usually done  
+**[6479.24s] English:** By biographers.  
 **Translation:** 
 
-**[6479.24s] English:** by biographers.  
-**Translation:** 
+**[6480.00s] English:** So, the more time you give to a particular conversation—like really deep thought, historical context, and studying the people, how they think, looking at all different perspectives, looking at the psychology of the person, upbringing, their parents, their grandparents—all of this.  
+**Translation:** Vocabulary: biographers: 传记作家; perspectives: 观点; upbringing: upbringing
 
-**[6480.00s] English:** So the more time you give to a particular conversation, like really deep thought and historical context and studying the people, how they think, looking at all different perspectives, looking at the psychology of the person, upbringing, their parents, their grandparents, all of this.  
-**Translation:** Vocabulary: biographers: 传记作家; perspectives: 观点; upbringing: 养育方式
-
-**[6496.46s] English:** The more time you spend with that, the better the quality of the conversation is because you get to really empathize with the person, with the people he or she represents, and you get to see the common humanity, all of this.  
+**[6496.46s] English:** The more time you spend with that, the better the quality of the conversation is because you get to really empathize with the person, with the people they represent, and you get to see the common humanity— all of this.  
 **Translation:** 
 
 **[6516.02s] English:** Interviewers often don't do that work.  
 **Translation:** Vocabulary: empathize: 感同身受
 
-**[6520.18s] English:** So the best stuff I've seen is interviews that are part of a documentary.  
+**[6520.18s] English:** So, the best stuff I've seen is interviews that are part of a documentary.  
 **Translation:** 
 
 **[6523.96s] English:** Yeah.  
@@ -3664,26 +3665,26 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[6524.20s] English:** But even now, documentaries are like...  
 **Translation:** 
 
-**[6526.22s] English:** There's a huge incentive to do as quickly as possible.  
-**Translation:** Vocabulary: incentive: 动力
+**[6526.22s] English:** There's a huge incentive to do it as quickly as possible.  
+**Translation:** Vocabulary: documentaries: 纪实节目; incentive: 动力
 
 **[6528.82s] English:** Yeah.  
 **Translation:** 
 
-**[6529.06s] English:** There's not an incentive to really spend time with the person.  
+**[6529.06s] English:** There's no incentive to really spend time with the person.  
 **Translation:** 
 
 **[6531.86s] English:** There's a great new documentary about Floyd Abrams that I really recommend.  
 **Translation:** 
 
-**[6536.00s] English:** We did a documentary about Ira Glasser called Mighty Ira, which was my video team and my protege, Nico Perino, and Chris Malby and Aaron Reese put it together.  
-**Translation:** Vocabulary: aaron: 艾伦; abrams: 阿姆斯特朗; floyd: 弗莱德; protege: 得意门生; reese: 雷士
+**[6536.00s] English:** We did a documentary about Ira Glasser, called "Mighty Ira," which was put together by my video team and my protégé, Nico Perino, and Chris Malby and Aaron Reese.  
+**Translation:** Vocabulary: aaron: 艾伦; abrams: 阿姆斯特朗; floyd: 弗莱德; mighty: 强大的; reese: 雷士
 
 **[6547.14s] English:** And it just follows the life and times of Ira Glasser, the former head of the ACLU.  
 **Translation:** 
 
 **[6553.02s] English:** If you could just linger on that, that's a fascinating story.  
-**Translation:** 
+**Translation:** Vocabulary: linger: 停留
 
 **[6556.22s] English:** Oh, yeah.  
 **Translation:** 
@@ -3694,25 +3695,25 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[6557.86s] English:** Amazing.  
 **Translation:** 
 
-**[6558.88s] English:** Ira, he wasn't a lawyer.  
+**[6558.88s] English:** Ira; he wasn't a lawyer.  
 **Translation:** 
 
-**[6560.78s] English:** He started working at the NYCLU, the New York Civil Liberties Union, back in, I think, the 60s.  
+**[6560.78s] English:** He started working at the NYCLU, the New York Civil Liberties Union, back in the 1960s.  
 **Translation:** 
 
-**[6566.92s] English:** I think Robert Kennedy recommended that he go in that direction.  
+**[6566.92s] English:** I think Robert F. Kennedy recommended that he go in that direction.  
 **Translation:** 
 
-**[6571.96s] English:** And he became the president of the ACLU right at the time that they were suffering from defending the Nazis at Skokie.  
+**[6571.96s] English:** And he became the president of the ACLU right at the time that they were suffering from defending the Nazis in Skokie.  
 **Translation:** 
 
-**[6580.82s] English:** And Nico and Aaron and Chris put together this...  
+**[6580.82s] English:** And Nico, and Aaron, and Chris put together this...  
 **Translation:** Vocabulary: nazis: 纳粹; skokie: 斯科基
 
-**[6585.16s] English:** And they'd never done a documentary.  
+**[6585.16s] English:** And they had never done a documentary.  
 **Translation:** 
 
-**[6586.22s] English:** And it came out so, so well.  
+**[6586.22s] English:** And it came out so well.  
 **Translation:** 
 
 **[6590.50s] English:** And it tells the story of the Nazis in Skokie.  
@@ -3724,91 +3725,91 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[6596.04s] English:** It tells the story of the ACLU at the time and what a great leader Ira Glasser was.  
 **Translation:** 
 
-**[6600.00s] English:** One of the things that's so great is like when you get to see the Nazis at Skokie, they come off like the idiots that you would expect them to.  
+**[6600.00s] English:** One of the things that's so great is, when you get to see the Nazis at Skokie, they come off like the idiots that you would expect them to be.  
+**Translation:** Vocabulary: idiots: 白痴
+
+**[6608.92s] English:** There's a moment when the rally isn't going very well, and the leader gets flustered.  
 **Translation:** 
 
-**[6608.92s] English:** There's a moment when the rally is not going very well and the leader gets flustered.  
-**Translation:** 
-
-**[6615.00s] English:** And it almost seems like he's going to like shout out kind of like you're making this Nazi rally into a mockery.  
+**[6615.00s] English:** And it almost seems like he's going to like shout out, kind of like you're making this Nazi rally into a mockery.  
 **Translation:** Vocabulary: flustered: 慌张; mockery: 嘲弄
 
-**[6620.68s] English:** So it showed how actually allowing the Nazis to speak at Skokie kind of took the wind out of their sails.  
+**[6620.68s] English:** So, it showed how actually allowing the Nazis to speak at Skokie kind of took the wind out of their sails.  
 **Translation:** 
 
-**[6626.72s] English:** Like if they had the whole movement, like everybody was kind of it all kind of dissolved after that because they looked like racist fools.  
+**[6626.72s] English:** Like, if they had the whole movement, it kind of all dissolved after that because they looked like racist fools.  
 **Translation:** 
 
-**[6635.54s] English:** They were they were, you know, even Blues Brothers made jokes about them.  
+**[6635.54s] English:** They were, you know, even the Blues Brothers made jokes about them.  
 **Translation:** 
 
-**[6639.96s] English:** And it didn't turn into the disaster that people thought it was going to be just by letting them speak.  
+**[6639.96s] English:** And it didn't turn into the disaster that people thought it would be just by letting them speak.  
 **Translation:** 
 
 **[6645.22s] English:** And Ira Glasser.  
 **Translation:** 
 
-**[6646.60s] English:** OK, so he has this wonderful story about how Jackie Robinson joined the Brooklyn Dodgers and how there was a moment when it was.  
-**Translation:** Vocabulary: dodgers: 布鲁克林道奇队; jackie: 杰基·罗宾逊
+**[6646.60s] English:** OK, so he has this wonderful story about how Jackie Robinson joined the Brooklyn Dodgers, and how there was a moment when it was.  
+**Translation:** Vocabulary: brooklyn: 布鲁克林; dodgers: 道奇队; jackie: 杰基·罗宾逊
 
-**[6656.72s] English:** Seeing someone, an African-American, as on their literally on their team and how that really got him excited about the cause of racial equality.  
+**[6656.72s] English:** Seeing someone African-American on his team and how that really got him excited about the cause of racial equality.  
 **Translation:** 
 
 **[6665.52s] English:** And that became a big part of what his life was.  
 **Translation:** 
 
-**[6668.66s] English:** And I just think of that as such a great metaphor is expanding your circle and seeing more people as being quite literally on your team is the solution to so many of these problems.  
+**[6668.66s] English:** And I just think of that as such a great metaphor: expanding your circle and seeing more people as being quite literally on your team is the solution to so many of these problems.  
 **Translation:** 
 
-**[6680.06s] English:** And I worry that one of the things that is absolutely just a fact of life in America is like we do see.  
+**[6680.06s] English:** And I worry that one of the things that is absolutely just a fact of life in America is something we do see.  
 **Translation:** Vocabulary: metaphor: 比喻
 
-**[6686.72s] English:** Each other more as enemy camps as as opposed to people on the same team.  
+**[6686.72s] English:** Each other more like enemies, rather than people on the same team.  
 **Translation:** 
 
-**[6690.98s] English:** And that was actually something in the early days, like me and Will Creeley, the legal director of FIRE, wrote about the forthcoming free speech challenges of everyone being on Facebook.  
-**Translation:** Vocabulary: forthcoming: 即将来临的
+**[6690.98s] English:** And that was actually something from the early days: me and Will Creeley, the legal director of FIRE, wrote about the forthcoming free-speech challenges of everyone being on Facebook.  
+**Translation:** Vocabulary: creeley: 菲利法律主任; forthcoming: 即将来临的
 
-**[6700.22s] English:** And one thing that I was hoping was that as more people were exposing more of their lives, we had realized a lot of these things we knew intellectually, like kids go to the bar and get drunk and do stupid things that that when we started.  
+**[6700.22s] English:** And one thing that I was hoping was that as more people exposed more of their lives, we had realized a lot of these things we knew intellectually — like kids go to the bar and get drunk and do stupid things — that we didn't really understand until we started.  
 **Translation:** 
 
 **[6716.54s] English:** See.  
-**Translation:** Vocabulary: intellectually: 用理智
+**Translation:** Vocabulary: intellectually: 用理智理解
 
 **[6716.66s] English:** Seeing the evidence of them doing stupid things that we.  
 **Translation:** 
 
-**[6720.00s] English:** you might be shocked at first, but then eventually get more sophisticated and be like, well, come on,  
-**Translation:** Vocabulary: sophisticated: 复杂多变
+**[6720.00s] English:** You might be shocked at first, but then eventually get more sophisticated and be like, "Well, come on,  
+**Translation:** Vocabulary: sophisticated: 复杂精明的
 
-**[6723.94s] English:** people are like that. That never actually really seemed to happen. I think that there are plenty  
+**[6723.94s] English:** People are like that. That never actually seemed to happen. I think that there are plenty,  
 **Translation:** 
 
-**[6730.34s] English:** of things we know about human nature and we know about dumb things people say, and we've made it  
+**[6730.34s] English:** Of things we know about human nature and we know about dumb things people say, and we've made it.  
 **Translation:** 
 
-**[6736.70s] English:** into an environment where there's just someone out there waiting to be kind of like, oh, remember  
+**[6736.70s] English:** Into an environment where there's just someone out there waiting, to be kind of like, "Oh, remember?  
 **Translation:** 
 
-**[6743.34s] English:** that dumb thing you said we were 14? Well, I'm going to make sure that you don't get into your  
+**[6743.34s] English:** That dumb thing you said when we were 14? Well, I'm going to make sure that you don't get into your  
 **Translation:** 
 
-**[6747.00s] English:** dream school because of that. That's offense archaeology. That's not my term, though. It's a  
+**[6747.00s] English:** Dream school, because of that. That's "offense archaeology." That's not my term, though. It's  
 **Translation:** 
 
-**[6751.66s] English:** great term. It's a great term. We steal from the best. Digging through someone's past comments to  
-**Translation:** Vocabulary: archaeology: 考古学
+**[6751.66s] English:** Great term. It's a great term. We steal from the best: digging through someone's past comments to  
+**Translation:** Vocabulary: archaeology: 考古; offense: 攻击
 
-**[6756.30s] English:** find a speech that hasn't aged well. And that one's tactical. That one isn't just someone not  
+**[6756.30s] English:** Find a speech that hasn't aged well. And that one's tactical. That one isn't just someone not.  
 **Translation:** 
 
-**[6761.10s] English:** being empathetic. They're like, I'm going to punish you for this. And that's one of the reasons why I  
-**Translation:** Vocabulary: empathetic: 缺乏共情; tactical: 策略性
+**[6761.10s] English:** Being empathetic, they're like, "I'm going to punish you for this." And that's one of the reasons why I  
+**Translation:** Vocabulary: tactical: 策略性的
 
-**[6765.36s] English:** got depressed writing this book, because there's already people who don't love me because of  
+**[6765.36s] English:** Got depressed writing this book, because there are already people who don't love me because of  
 **Translation:** 
 
-**[6771.72s] English:** Coddling the American Mind, usually based on a misunderstanding of what we actually said in  
+**[6771.72s] English:** Coddling the American Mind, usually based on a misunderstanding of what we actually said, in  
 **Translation:** Vocabulary: coddling: 溺爱
 
 **[6775.36s] English:** Coddling the American Mind, but nonetheless.  
@@ -3817,40 +3818,40 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[6777.56s] English:** But on this one, I'm calling out people for being very cruel in a lot of cases. But one thing that  
 **Translation:** 
 
-**[6786.58s] English:** was really scary about studying a lot of these cases is that once you have that target on your  
+**[6786.58s] English:** It was really scary about studying a lot of these cases is that once you have that target on your  
 **Translation:** 
 
-**[6791.30s] English:** back, what they're going to try to cancel you for could be anything. They might go back into your  
+**[6791.30s] English:** Back, what they're going to try to cancel you for could be anything. They might go back into your  
 **Translation:** 
 
-**[6796.64s] English:** old post, find something that you said in 1995, do something where essentially it looks like it's  
+**[6796.64s] English:** Old post: Find something you said in 1995, and do something where essentially it looks like it's  
 **Translation:** 
 
-**[6805.70s] English:** this entire other thing.  
+**[6805.70s] English:** This is an entire other thing.  
 **Translation:** 
 
-**[6807.00s] English:** But really, what's going on is they didn't like your opinion. They didn't like your point of view on  
+**[6807.00s] English:** But really, what's going on is that they didn't like your opinion. They didn't like your point of view on  
 **Translation:** 
 
-**[6812.00s] English:** something. And they're going to find a way that from now on, anytime your name comes up, it's like,  
+**[6812.00s] English:** Something. And they're going to find a way that, from now on, anytime your name comes up, it's like,  
 **Translation:** Vocabulary: anytime: 任何时候
 
-**[6816.44s] English:** oh, remember this? This thing I didn't like about him? And it's, again, it's cruel. It doesn't get  
+**[6816.44s] English:** Oh, remember this? This thing I didn't like about him? And it's, again, it's cruel. It doesn't get  
 **Translation:** 
 
-**[6821.66s] English:** you anywhere closer to the truth. But it is a little scary to stick your neck out.  
+**[6821.66s] English:** You're anywhere closer to the truth, but it is a little scary to stick your neck out.  
 **Translation:** 
 
-**[6826.52s] English:** Okay. In terms of solutions, I'm going to ask you a few things. So one, parenting.  
+**[6826.52s] English:** Okay. In terms of solutions, I'm going to ask you a few things. One, parenting.  
 **Translation:** 
 
-**[6832.76s] English:** Yeah. Five and seven-year-old.  
+**[6832.76s] English:** Yeah. Five and seven-year-olds.  
 **Translation:** 
 
 **[6835.56s] English:** Yeah.  
 **Translation:** 
 
-**[6836.04s] English:** So I'm sure you've...  
+**[6836.04s] English:** So, I'm sure you've...  
 **Translation:** 
 
 **[6837.00s] English:** Figured it all out then.  
@@ -3859,419 +3860,419 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[6838.22s] English:** Oh, God, no.  
 **Translation:** 
 
-**[6839.12s] English:** From a free speech...  
+**[6839.12s] English:** From a free-speech perspective,...  
 **Translation:** 
 
-**[6840.00s] English:** perspective yeah from a free speech culture perspective how to be a good parent yeah i think  
+**[6840.00s] English:** From a free-speech culture perspective, how to be a good parent? Yeah, I think  
 **Translation:** 
 
-**[6846.68s] English:** the first quality you should be cultivating in your children if you want to have a free speech  
+**[6846.68s] English:** The first quality you should be cultivating in your children, if you want to have a free speech.  
 **Translation:** 
 
-**[6852.20s] English:** culture is curiosity and an awareness of the vastness that will always be unknown and getting  
+**[6852.20s] English:** Culture is curiosity and an awareness of the vastness that will always be unknown, and getting.  
 **Translation:** Vocabulary: cultivating: 培养; vastness: 广阔
 
-**[6861.78s] English:** my kids excited about the idea that's like we're gonna spend our whole lives learning about stuff  
+**[6861.78s] English:** My kids are excited about the idea that's like, we're gonna spend our whole lives learning about stuff.  
 **Translation:** 
 
-**[6866.68s] English:** and it's fast and exciting and endless and will never make a big dent in it but the journey will  
+**[6866.68s] English:** And it's fast and exciting and endless, and will never make a big dent in it, but the journey will.  
 **Translation:** 
 
-**[6874.38s] English:** be amazing but only fools think they know everything um and sometimes dangerous fools at  
+**[6874.38s] English:** Be amazing, but only fools think they know everything. Um, and sometimes dangerous fools.  
 **Translation:** 
 
-**[6881.40s] English:** that so giving the sense of intellectual humility early on being also you know saying things that  
+**[6881.40s] English:** That's so important for giving the sense of intellectual humility early on, being also open to saying things we might be wrong.  
 **Translation:** Vocabulary: humility: 谦逊
 
-**[6888.86s] English:** actually do sound kind of old-fashioned like but i say things to my kids like listen if you  
+**[6888.86s] English:** Actually, it does sound a bit old-fashioned, but I say things to my kids like "listen" if you  
 **Translation:** 
 
-**[6894.22s] English:** enjoy  
+**[6894.22s] English:** Enjoy.  
 **Translation:** 
 
-**[6896.68s] English:** study and work both things that i very much enjoy i do for fun um your life is going to feel great  
+**[6896.68s] English:** Study and work—both things I very much enjoy—I do for fun, um. Your life is going to feel great.  
 **Translation:** 
 
-**[6902.74s] English:** and it's going to feel easy um so some of some you know some of those old-fashioned virtues  
+**[6902.74s] English:** And it's going to feel easy, um, so some of those old-fashioned virtues...  
+**Translation:** Vocabulary: virtues: 美德
+
+**[6907.56s] English:** Are things I try to preach, um, counterintuitive stuff like outdoor time, playing, and having time.  
 **Translation:** 
 
-**[6907.56s] English:** are things i try to preach um counterintuitive stuff like outdoor time playing um having time  
+**[6913.78s] English:** That which are not intermediated experiences is really important, and little things like, um, I  
+**Translation:** Vocabulary: counterintuitive: 违反直觉; intermediated: 中介的; preach: 布道
+
+**[6921.68s] English:** Talk about when my kids are watching something that's scary and I'm not.  
 **Translation:** 
 
-**[6913.78s] English:** that are not intermediated experiences is really is really important and little things like um i  
-**Translation:** Vocabulary: counterintuitive: 逆常理的; intermediated: 中介化的; preach: 布道
-
-**[6921.68s] English:** talk about in the book about when my kids are watching something that's scary and i'm not  
+**[6926.68s] English:** Talking about, like, zombie movies, you know, I'm talking about a cartoon that has...  
 **Translation:** 
 
-**[6926.68s] English:** talking about like zombie movies you know i'm talking about like you know a cartoon that has  
-**Translation:** Vocabulary: zombie: 丧尸
-
-**[6930.50s] English:** kind of a scary moment and saying that they want to turn the tv off and i and i talk to them and i  
+**[6930.50s] English:** Kind of a scary moment, and saying that they want to turn the TV off. I then talk to them, and I  
 **Translation:** 
 
-**[6936.40s] English:** say listen i'm gonna sit next to you and we're gonna finish this show and i want you to tell me  
+**[6936.40s] English:** Say, listen, I'm gonna sit next to you and we're gonna finish this show, and I want you to tell me.  
 **Translation:** 
 
-**[6942.56s] English:** what you think of of this afterwards and i sat next to my sons um and by the end of it every  
+**[6942.56s] English:** What do you think of this afterwards? And I sat next to my sons; by the end of it, every  
 **Translation:** 
 
-**[6950.06s] English:** single time i you know when i asked them was that as scary as you thought it was going to be  
+**[6950.06s] English:** Single time I, you know, when I asked them, was that as scary as you thought it was going to be?  
 **Translation:** 
 
-**[6953.90s] English:** and there was like no daddy that was fine and i'm like you know i'm not gonna do that i'm not gonna  
+**[6953.90s] English:** And there was, like, no daddy, that was fine. And I'm like, "You know, I'm not gonna do that. I'm not gonna.  
 **Translation:** 
 
-**[6956.68s] English:** that's one of the great lessons in life the fear that you don't  
+**[6956.68s] English:** That's one of the great lessons in life: the fear that you don't  
 **Translation:** 
 
-**[6960.00s] English:** go through becomes much bigger in your head than actually simply facing it that's one of the  
+**[6960.00s] English:** Go through it becomes much bigger in your head than simply facing it. That's one of the  
 **Translation:** 
 
-**[6965.82s] English:** reasons why i'm fighting back against this culture i love you know for all of our kids to be able to  
+**[6965.82s] English:** Reasons why I'm fighting back against this culture: I love you, know, for all of our kids to be able to.  
 **Translation:** 
 
-**[6969.78s] English:** grow up in an environment where people give you grace and you know accept the fact that sometimes  
+**[6969.78s] English:** Grow up in an environment where people give you grace, and you know to accept the fact that sometimes  
 **Translation:** 
 
-**[6975.96s] English:** people are going to say things that piss you off take seriously the possibility might be wrong and  
+**[6975.96s] English:** People are going to say things that piss you off. Take seriously the possibility that they might be wrong, and  
 **Translation:** 
 
-**[6980.42s] English:** and uh be curious well i'm i have hope that the thing you mentioned which is because so much of  
+**[6980.42s] English:** And, uh, to be curious, well, I have hope that the thing you mentioned, which is because so much of  
 **Translation:** 
 
-**[6986.16s] English:** young people's stuff is on the internet that they're going to give each other a break because  
+**[6986.16s] English:** Young people's stuff is on the internet, that they're going to give each other a break because  
 **Translation:** 
 
-**[6991.00s] English:** then everybody's cancel worthy generation z hates cancel culture the most and that's another reason  
+**[6991.00s] English:** Then, everybody's cancel-worthy; Generation Z hates cancel culture the most, and that's another reason.  
 **Translation:** 
 
-**[6996.62s] English:** why it's like people still claiming this is even happening it's kind of like no you actually can  
+**[6996.62s] English:** Why it's like people still claiming this is even happening? It's kind of like, no, you actually can't.  
 **Translation:** 
 
-**[7000.34s] English:** ask you know kids what they think of cancel culture and they hate it yeah well i kind of  
+**[7000.34s] English:** Ask you know, kids what they think of cancel culture, and they hate it, yeah? Well, I kind of do too.  
 **Translation:** 
 
-**[7005.56s] English:** think of them as like the immune system that's like that's the culture waking up to like no this  
+**[7005.56s] English:** Think of them as like the immune system—that's like, the culture waking up to, like, "No, this.  
 **Translation:** 
 
-**[7010.26s] English:** is not a good thing i i am glad though i mean i i i'm one of those kids who you know is  
+**[7010.26s] English:** Is not a good thing. I am, however, glad though; I mean, I am one of those kids who you know are.  
 **Translation:** 
 
-**[7016.10s] English:** really interested in canceling and i'm very interested in canceling and i'm very interested  
+**[7016.10s] English:** Really interested in canceling, and I'm very interested in canceling; I'm very interested.  
 **Translation:** Vocabulary: canceling: 取消
 
-**[7016.14s] English:** in canceling and i'm very interested in canceling and i'm very interested in canceling and i'm very  
+**[7016.14s] English:** In canceling, I am very interested in canceling.  
 **Translation:** 
 
-**[7016.16s] English:** really glad that i was a little kid in the 80s and a teenager in the 90s because having everything  
+**[7016.16s] English:** Really glad that I was a little kid in the 80s and a teenager in the 90s, because having everything  
 **Translation:** 
 
-**[7021.60s] English:** potentially online uh it's it's not a an upbringing i envy well i because you can also you do the  
+**[7021.60s] English:** Potentially, online—it's not an upbringing I envy. Well, you can also do the  
 **Translation:** 
 
-**[7029.54s] English:** absolute free speech i like leaning into it yeah where i hope for a future where a lot of our  
-**Translation:** Vocabulary: upbringing: 教育方式
+**[7029.54s] English:** Absolute free speech—I like leaning into it, yeah. Where I hope for a future where a lot of our  
+**Translation:** Vocabulary: leaning: 倾向; upbringing: 教养
 
-**[7038.90s] English:** insecurities flaws everything's out there yeah and to be raw honest with it uh i think that leads  
+**[7038.90s] English:** Insecurities, flaws—everything's out there, yeah. And to be raw and honest about it, I think that leads...  
 **Translation:** 
 
-**[7047.76s] English:** to a better world because the flaws are beautiful i mean that's the flaws is the uh the basic  
+**[7047.76s] English:** To a better world, because the flaws are beautiful. I mean, that's the flaws—is the basic.  
 **Translation:** 
 
-**[7052.76s] English:** ingredients of human connection uh robert wright he wrote a book on uh on on buddhism um and i  
+**[7052.76s] English:** Ingredients of human connection, uh, Robert Wright he wrote a book on, uh, on Buddhism, um, and I.  
 **Translation:** 
 
-**[7059.18s] English:** talked about trying to use social media from a from a buddhist perspective and like as if you're  
+**[7059.18s] English:** Talked about trying to use social media from a Buddhist perspective, and as if you're  
 **Translation:** Vocabulary: buddhism: 佛教; buddhist: 佛教徒
 
-**[7064.40s] English:** as if it's the collective unconscious meditating and  
+**[7064.40s] English:** As if it's the collective unconscious meditating and...  
 **Translation:** 
 
-**[7068.12s] English:** you  
+**[7068.12s] English:** You.  
 **Translation:** Vocabulary: meditating: 冥想; unconscious: 无意识
 
-**[7068.90s] English:** seeing those little like angry bits that are trying to cancel you or get you to shut up and  
+**[7068.90s] English:** Seeing those little, angry bits that are trying to cancel you or get you to shut up and...  
 **Translation:** 
 
-**[7074.10s] English:** just kind of like letting them go the same way you're supposed to watch your thoughts kind of  
+**[7074.10s] English:** Just kind of like letting them go, the same way you're supposed to watch your thoughts, kind of.  
 **Translation:** 
 
-**[7078.40s] English:** i would love to  
+**[7078.40s] English:** I would love to.  
 **Translation:** 
 
-**[7080.00s] English:** see that like visualized whatever the whatever the drama going on going on just seeing the sea of it  
-**Translation:** Vocabulary: visualized: 可视化
+**[7080.00s] English:** See that, visualized, whatever the drama is going on; just seeing the sea of it.  
+**Translation:** Vocabulary: visualized: 想象中的
 
-**[7086.76s] English:** of the collective consciousness just processing this and having a little like panic attack and  
+**[7086.76s] English:** Of the collective consciousness, just processing this and having a little like panic attack and  
 **Translation:** 
 
-**[7092.98s] English:** just kind of like yeah reading it in look at the little sort of hateful angry voices kind of pop  
+**[7092.98s] English:** Just kind of like, yeah, reading it in, look at the little sort of hateful, angry voices kind of pop.  
+**Translation:** Vocabulary: consciousness: 集体意识
+
+**[7097.76s] English:** Up and be like, "Okay, there you are," and I'm still focused on that thing because that is...  
 **Translation:** 
 
-**[7097.76s] English:** up and be like okay there you are and i'm still focused on on that thing because that is that that  
+**[7103.92s] English:** Is one of the things, okay? Yeah, actually, this is probably too late in the game to be giving my.  
 **Translation:** 
 
-**[7103.92s] English:** is one of the things is okay yeah actually this is probably late in the game to be to giving my  
+**[7108.96s] English:** Grand theory on this stuff, um, but uh, never too late. So, so what I was studying, um, in law school.  
 **Translation:** 
 
-**[7108.96s] English:** grand theory on this stuff um but uh never too late so so what i was studying um in law school  
+**[7118.12s] English:** When I ran out of First Amendment classes, I decided to study censorship during the Tudor period.  
+**Translation:** Vocabulary: censorship: 审查; tudor: 都铎
+
+**[7122.58s] English:** Dynasty, uh, because that's where we get our ideas of prior restraint, uh, that come from the licensing.  
 **Translation:** 
 
-**[7118.12s] English:** when i ran out of first amendment classes um i decided to study censorship during the tudor  
-**Translation:** Vocabulary: censorship: 审查制度; tudor: 都铎时期
+**[7127.86s] English:** Of the printing press, um, which was something that Henry the Eighth was the first to do, where  
+**Translation:** Vocabulary: eighth: 第八位; restraint: 约束
 
-**[7122.58s] English:** dynasty uh because that's where we get our ideas of prior restraint uh that come from the licensing  
+**[7131.98s] English:** Basically, um, the idea was that if you can't print anything in England unless it's with these, uh,  
 **Translation:** 
 
-**[7127.86s] English:** of the printing press um which was something that henry the eighth was the first to do where  
+**[7138.96s] English:** Your Majesty, approved printers; it will prevent heretical works and anti-Henry the Eighth stuff.  
+**Translation:** Vocabulary: majesty: 陛下的批准
+
+**[7145.88s] English:** From coming out, it's a pretty pretty pretty pretty pretty um efficient idea, if nothing else, um.  
 **Translation:** 
 
-**[7131.98s] English:** basically um the idea was that if you can't print anything in england unless it's with these uh  
+**[7152.92s] English:** And I always thought that's when he started getting angry about the printing press around 1521, and then things escalated.  
+**Translation:** Vocabulary: escalated: 升级
+
+**[7158.80s] English:** Something, um, that required Prince Henry to be along with Parliament in 1538, uh, and I always  
 **Translation:** 
 
-**[7138.96s] English:** your majesty approved printers um it will prevent heretical work and anti-henry the eighth stuff  
-**Translation:** Vocabulary: heretical: 异端的; majesty: 陛下
-
-**[7145.88s] English:** from coming out a pretty pretty pretty pretty pretty um efficient idea if nothing else um  
+**[7168.96s] English:** Thought that was a pretty good idea because we had this, back then we had the original.  
 **Translation:** 
 
-**[7152.92s] English:** and i always and so he started getting angry at the printing press around 1521 and then passed  
+**[7172.96s] English:** Disruptive technology—you know, writing—was probably really bad, but the next one, which was the  
 **Translation:** 
 
-**[7158.80s] English:** something um that required prince prince to be along with parliament in 1538 uh and i always  
+**[7177.12s] English:** Printing press, which was absolutely calamitous, and I mean, and I say calamitous on purpose.  
+**Translation:** Vocabulary: calamitous: 灾难性的; disruptive: 颠覆性的
+
+**[7182.08s] English:** Because, in the short term, the witch hunts went up like crazy, because the printing press allowed you  
 **Translation:** 
 
-**[7168.96s] English:** thought that was a pretty good idea because we have this we had the back then we had the original  
-**Translation:** 
-
-**[7172.96s] English:** disruptive technology you know writing was probably really bad but the next one which which was the  
-**Translation:** 
-
-**[7177.12s] English:** printing press which was absolutely calamitous and i mean and i and i say calamitous on purpose  
-**Translation:** Vocabulary: calamitous: 灾难性的
-
-**[7182.08s] English:** because in the short term the witch hunts went up like crazy because the printing press allowed you  
-**Translation:** 
-
-**[7187.68s] English:** to get that manual on how to find witches um that the religious wars went crazy um it led to all  
+**[7187.68s] English:** To get that manual on how to find witches, um, that the religious wars went crazy; it led to all  
 **Translation:** Vocabulary: witch: 女巫; witches: 女巫们
 
-**[7195.60s] English:** sorts of distress misinformation nastiness  
+**[7195.60s] English:** Sorts of distress, misinformation, nastiness.  
 **Translation:** 
 
-**[7198.96s] English:** the eighth was trying to put the genie  
-**Translation:** Vocabulary: distress: 痛苦; genie: 精灵; misinformation: 假信息; nastiness: 恶劣
+**[7198.96s] English:** The eighth was trying to put the genie back in the bottle.  
+**Translation:** Vocabulary: distress: 痛苦; genie: 精灵; misinformation: 错误信息; nastiness: 恶劣行为
 
-**[7200.00s] English:** you back in the bottle you know he was kind of like i i can i can i want to use this for good  
+**[7200.00s] English:** You're back in the bottle, you know? He was kind of like, I can, I can, I want to use this for good.  
 **Translation:** 
 
-**[7204.60s] English:** like uh like i feel like it could it could be used but he was in an unavoidable period of epistemic  
+**[7204.60s] English:** Like, uh, I feel like it could be used, but he was in an unavoidable period of epistemic.  
 **Translation:** Vocabulary: epistemic: 知识论的
 
-**[7212.06s] English:** anarchy there's nothing you can do to make the period after the printing press come uh came out  
+**[7212.06s] English:** Anarchy; there's nothing you can do to make the period after the printing press come. It just came out that way.  
 **Translation:** 
 
-**[7218.40s] English:** to be a non-disruptive non-crazy period other than like absolute totalitarianism and destroy  
+**[7218.40s] English:** To be a non-disruptive, non-crazy period, other than like absolute totalitarianism and destruction.  
 **Translation:** Vocabulary: anarchy: 无政府状态; totalitarianism: 极权主义
 
-**[7224.42s] English:** all the print presses which simply was not possible in europe so i feel like that's kind  
+**[7224.42s] English:** All the print presses were simply not possible in Europe, so I feel like that's kind.  
 **Translation:** 
 
-**[7230.34s] English:** of like where we are now that disruption came from adding i think you know several million  
-**Translation:** Vocabulary: disruption: 打破常规
+**[7230.34s] English:** Of, like, where we are now, that disruption came from adding, I think you know, several million.  
+**Translation:** Vocabulary: disruption: 中断; presses: 印刷机
 
-**[7235.50s] English:** people to the european conversation and then eventually the global conversation  
+**[7235.50s] English:** People to the European conversation, and eventually the global conversation.  
 **Translation:** 
 
-**[7238.66s] English:** but eventually it became the best tool for disconfirmation for getting rid of falsity  
-**Translation:** Vocabulary: disconfirmation: 反驳; falsity: 谬误
+**[7238.66s] English:** But eventually, it became the best tool for disconfirmation for getting rid of falsehood.  
+**Translation:** Vocabulary: disconfirmation: 否定证据; falsehood: 谬误
 
-**[7245.60s] English:** for spotting bad ideas and it's the benefits the long-term benefits of the printing press  
+**[7245.60s] English:** For spotting bad ideas, and it's the long-term benefits of the printing press.  
 **Translation:** 
 
-**[7252.80s] English:** are incalculable  
-**Translation:** Vocabulary: incalculable: 无法衡量的
+**[7252.80s] English:** Are incalculable.  
+**Translation:** Vocabulary: incalculable: 无法估量的
 
-**[7254.40s] English:** great um and that's what gives me some optimism for where we are now with social media because  
+**[7254.40s] English:** Great, um, and that's what gives me some optimism for where we are now with social media because  
 **Translation:** 
 
-**[7260.10s] English:** we are in that unavoidably anarchical period and i do worry that that they're um uh that  
-**Translation:** Vocabulary: anarchical: 无序; optimism: 乐观
+**[7260.10s] English:** We are in that unavoidably anarchic period, and I do worry that things might get worse.  
+**Translation:** Vocabulary: anarchic: 无政府状态; optimism: 乐观情绪
 
-**[7265.70s] English:** their attempts in states to pass things to try to put the genie back in the bottle like if we ban  
+**[7265.70s] English:** Their attempts in states to pass things to try to put the genie back in the bottle, like if we ban,...  
 **Translation:** 
 
-**[7270.08s] English:** a tiktok or we say that um nobody under 18 can be on on the internet unless they have parental  
+**[7270.08s] English:** A TikTok, or we say that nobody under 18 can be on the internet unless they have parental consent.  
 **Translation:** 
 
-**[7277.18s] English:** permission we're going at something that no amount of sort of top down is going to  
+**[7277.18s] English:** Permission, we're going at something that no amount of top-down approach is going to  
 **Translation:** 
 
-**[7284.38s] English:** be able to fix it we have to culturally adapt to the fact of it um in ways that make us wiser  
+**[7284.38s] English:** We will be able to fix it if we culturally adapt to the fact of it in ways that make us wiser.  
 **Translation:** Vocabulary: culturally: 文化上
 
-**[7292.34s] English:** that actually um and allow it potentially to be that wonderful engine for disconfirmation that  
+**[7292.34s] English:** That actually, um, and allow it potentially to be that wonderful engine for disconfirmation.  
 **Translation:** 
 
-**[7299.46s] English:** we're nowhere near yet by the way but think about it additional millions of eyes on problems um  
+**[7299.46s] English:** We're nowhere near yet, by the way, but think about it: additional millions of eyes on these problems, um,...  
 **Translation:** 
 
-**[7306.12s] English:** thanks to the printing press helped create the scientific revolution the enlightenment  
+**[7306.12s] English:** Thanks to the printing press, it helped create the Scientific Revolution and the Enlightenment.  
 **Translation:** 
 
-**[7310.40s] English:** the discovery of ignorance um  
+**[7310.40s] English:** The discovery of ignorance, um,...  
 **Translation:** Vocabulary: enlightenment: 启蒙运动; ignorance: 无知
 
-**[7314.38s] English:** now i've added billions of eyes and voices to solving problems and we're just we're using  
+**[7314.38s] English:** Now, I've added billions of eyes and voices to solving problems, and we're just getting started.  
 **Translation:** 
 
-**[7319.80s] English:** them  
+**[7319.80s] English:** Them  
 **Translation:** 
 
-**[7320.00s] English:** for cat videos and canceling but that those are just the early days of the printing press  
+**[7320.00s] English:** For cat videos and canceling, but that those are just the early days of the printing press.  
 **Translation:** 
 
-**[7325.36s] English:** all starts with the cats and the canceling is there something about x about twitter  
+**[7325.36s] English:** All starts with the cats, and the canceling—is there something about X on Twitter?  
 **Translation:** Vocabulary: canceling: 取消
 
-**[7331.70s] English:** which is perhaps the most uh energetic source of cats and canceling it seems like the collective  
+**[7331.70s] English:** Which is perhaps the most energetic source of cats, and canceling it seems like the collective.  
 **Translation:** 
 
-**[7338.58s] English:** unconscious of the species i mean like it's one of these things where the tendency to  
+**[7338.58s] English:** Unconscious of the species, I mean, like it's one of those things where the tendency to  
 **Translation:** Vocabulary: unconscious: 集体无意识
 
-**[7344.52s] English:** want to see patterns in history sometimes can limit the actual batshit crazy experience of  
+**[7344.52s] English:** Want to see patterns in history sometimes can limit the actual, batshit-crazy experience of.  
 **Translation:** 
 
-**[7353.36s] English:** what history actually is because yes we we have these nice comforting ideas that it's going to  
+**[7353.36s] English:** What history actually is, because, yes, we have these nice, comforting ideas that it's going to  
+**Translation:** Vocabulary: comforting: 令人安心的
+
+**[7357.80s] English:** It's like last time; we don't know if it has happened yet, and I think Twitter is unusually quiet.  
 **Translation:** 
 
-**[7357.80s] English:** be like last time we don't know it it hasn't happened yet and i think how unusual twitter  
+**[7365.82s] English:** Is because I think of it as, like, the "because" because people talk about, you know, writing and  
 **Translation:** 
 
-**[7365.82s] English:** is because i think of it as like the because because people talk about you know writing and  
+**[7372.38s] English:** Mass communications and  
 **Translation:** 
 
-**[7372.38s] English:** mass communications and  
+**[7374.50s] English:** As it is expanding the size of our collective brain, but now we're kind of looking at our  
 **Translation:** 
 
-**[7374.50s] English:** as being expanding the size of our collective brain but now we're kind of looking at our  
+**[7380.74s] English:** Collective brain in real time, and it's filled just like our own brains with all sorts of information.  
 **Translation:** 
 
-**[7380.74s] English:** collective brain in real time and it's filled just like our own brains with all sorts of like  
+**[7385.20s] English:** Little crazy things that pop up and appear, kind of all over the place, like virtual particles.  
 **Translation:** 
 
-**[7385.20s] English:** little crazy things that pop up and and and appear like virtual particles kind of all over the place  
+**[7390.74s] English:** Of people, um, you know, reacting in real time to things, there's never been anything even close.  
 **Translation:** 
 
-**[7390.74s] English:** of people um you know reacting in real time to things there's never been anything even  
+**[7397.18s] English:** Vaguely, I like it, and it can be at its worst, awful to see. At its best, sometimes seeing people like...  
+**Translation:** Vocabulary: reacting: 反应; vaguely: 大致
+
+**[7404.32s] English:** Just  
 **Translation:** 
 
-**[7397.18s] English:** vaguely like it and it can be at its worst awful to see at its best sometimes seeing people like  
-**Translation:** Vocabulary: vaguely: 模糊地
-
-**[7404.32s] English:** just  
-**Translation:** 
-
-**[7404.50s] English:** getting euphoric over something going on and cracking absolutely brilliant immediate jokes  
+**[7404.50s] English:** Getting euphoric over something going on and cracking absolutely brilliant, immediate jokes.  
 **Translation:** Vocabulary: cracking: 非常幽默; euphoric: 极度兴奋
 
-**[7409.78s] English:** you know at the same time it can be it can even be a joyful experience um i i feel like uh and  
+**[7409.78s] English:** You know, at the same time, it can be an even joyful experience. I feel like, um,...  
 **Translation:** 
 
-**[7418.26s] English:** i live in a neighborhood now on x where i i mostly deal with people that i think are actually  
+**[7418.26s] English:** I live in a neighborhood now on X, where I mostly deal with people that I think are actually  
 **Translation:** 
 
-**[7424.34s] English:** thoughtful even if i disagree with them um and and it's not such a bad experience i occasionally run  
+**[7424.34s] English:** Thoughtful, even if I disagree with them. Um, and it's not such a bad experience; I occasionally run.  
 **Translation:** 
 
-**[7430.02s] English:** into those other sort of what i call neighborhoods on x where it's just all  
-**Translation:** Vocabulary: thoughtful: 体贴的
+**[7430.02s] English:** Into those other sorts of what I call neighborhoods on X, where it's just all  
+**Translation:** Vocabulary: thoughtful: 深思熟虑的
 
-**[7434.32s] English:** canceling all nastiness and it's always kind of an unpleasant visit to those places  
+**[7434.32s] English:** Canceling all nastiness, and it's always kind of an unpleasant visit to those places.  
 **Translation:** 
 
-**[7438.00s] English:** i'm not saying the whole thing needs to be  
-**Translation:** Vocabulary: nastiness: 恶劣行为
+**[7438.00s] English:** I'm not saying the whole thing needs to be  
+**Translation:** Vocabulary: nastiness: 粗鲁行为
 
-**[7440.00s] English:** uh like like my experience but i do think that the reason why people keep on coming back to it  
+**[7440.00s] English:** Like my experience, but I do think that the reason why people keep coming back to it,...  
 **Translation:** 
 
-**[7446.66s] English:** is it reveals raw aspects of humanity that sometimes we prefer to pretend don't exist  
+**[7446.66s] English:** Is it that it reveals raw aspects of humanity that sometimes we prefer to pretend don't exist?  
 **Translation:** 
 
-**[7452.10s] English:** yeah but also it's totally new like you said yeah it's just the virality the speed the news  
+**[7452.10s] English:** Yeah, but also it's totally new, like you said. Yeah, it's just the virality, the speed, the news.  
 **Translation:** 
 
-**[7458.46s] English:** travels that opinions travel that the battle over ideas travels battle over information too  
+**[7458.46s] English:** Travels that opinions travel, that the battle over ideas travels, the battle over information too.  
 **Translation:** Vocabulary: virality: 传播速度
 
-**[7463.74s] English:** yeah of what is true and not lies travel the old mark twain thing pretty fast on the thing  
+**[7463.74s] English:** Yeah, of what is true and not lies—travel the old Mark Twain thing pretty fast on that thing.  
 **Translation:** 
 
-**[7469.26s] English:** yeah and it changes your understanding of how to interpret information it also stress you out to  
-**Translation:** Vocabulary: interpret: 解释
+**[7469.26s] English:** Yeah, and it changes your understanding of how to interpret information. It also stresses you out.  
+**Translation:** Vocabulary: interpret: 解释; stresses: 压力
 
-**[7476.22s] English:** no end i remember to get off it sometimes the stats are pretty bad on mental health uh with  
+**[7476.22s] English:** No end; I remember to get off it sometimes. The stats are pretty bad on mental health, uh.  
 **Translation:** 
 
-**[7482.08s] English:** with young people and i'm definitely in the camp of people who think that social media is part of  
+**[7482.08s] English:** With young people, and I'm definitely in the camp of people who think that social media is part of  
 **Translation:** 
 
-**[7486.34s] English:** that i understand you know the debate but i'm pretty persuaded that one of the things that is  
+**[7486.34s] English:** That I understand, you know, the debate, but I'm pretty persuaded that one of the things that is  
 **Translation:** 
 
-**[7490.54s] English:** hasn't been great for mental health i mean of people is this just constantly being exposed  
+**[7490.54s] English:** Hasn't been great for mental health, I mean. Of people, is this just constantly being exposed?  
 **Translation:** 
 
-**[7496.28s] English:** yeah absolutely i i think it's possible  
+**[7496.28s] English:** Yeah, absolutely. I think it's possible.  
 **Translation:** 
 
-**[7498.98s] English:** you  
+**[7498.98s] English:** You.  
 **Translation:** 
 
-**[7499.26s] English:** to create social media that makes a huge amount of money makes people happy  
+**[7499.26s] English:** To create social media that makes a huge amount of money and makes people happy.  
 **Translation:** 
 
-**[7503.42s] English:** to me like it's possible to align yeah the the incentives so in terms of yeah making teenagers  
-**Translation:** Vocabulary: align: 使一致; incentives: 激励措施
+**[7503.42s] English:** To me, it's possible to align the incentives so that, in terms of making teenagers  
+**Translation:** Vocabulary: align: 使一致; incentives: 动机
 
-**[7510.44s] English:** making uh every stage of life giving you long-term fulfillment and happiness with your physical  
+**[7510.44s] English:** Making every stage of life give you long-term fulfillment and happiness with your physical  
 **Translation:** 
 
-**[7516.56s] English:** existence outside the social media and on social media helping you grow as a human being uh helping  
+**[7516.56s] English:** Existence outside the social media, and on social media helping you grow as a human being, uh, helping  
 **Translation:** Vocabulary: fulfillment: 满足感
 
-**[7522.54s] English:** challenge you just the right amount and just the right amount of cat videos whatever gives this  
+**[7522.54s] English:** Challenge you just the right amount, and just the right amount of cat videos—whatever gives this.  
 **Translation:** 
 
-**[7527.42s] English:** full rich human experience  
+**[7527.42s] English:** Full, rich human experience.  
 **Translation:** 
 
-**[7529.26s] English:** i think it's just a machine learning problem it's like it's not easy to create a feed so the easiest  
+**[7529.26s] English:** I think it's just a machine learning problem. It's like it's not easy to create a feed, so the easiest...  
 **Translation:** 
 
-**[7536.98s] English:** feed you could do is like maximize engagement yeah but that's just like a really dumb algorithm  
-**Translation:** Vocabulary: algorithm: 算法; maximize: 最大化
+**[7536.98s] English:** The feed you could do is like maximize engagement, yeah, but that's just like a really dumb algorithm.  
+**Translation:** Vocabulary: algorithm: 计算方法; maximize: 最大化
 
-**[7541.96s] English:** yeah it's like for the for the algorithm to learn enough about you to understand what will make you  
+**[7541.96s] English:** Yeah, it's like for the algorithm to learn enough about you to understand what will make you  
 **Translation:** 
 
-**[7549.58s] English:** truly happy as a human being to grow long term that's just a very difficult problem to solve  
+**[7549.58s] English:** Truly, as a human being, it is happy to grow long-term; that's just a very difficult problem to solve.  
 **Translation:** 
 
-**[7555.16s] English:** if you ever watch fleabag it's absolutely brilliant uh british show it's a great show it's a great show  
+**[7555.16s] English:** If you ever watch Fleabag, it's absolutely brilliant — a great British show! It's a great show.  
 **Translation:** 
 
-**[7559.26s] English:** um  
-**Translation:** Vocabulary: fleabag: Flea Bag 剧
+**[7559.26s] English:** Um.  
+**Translation:** Vocabulary: fleabag: 破旧的家具
 
 **[7560.00s] English:** And it sets you up.  
 **Translation:** 
 
-**[7561.88s] English:** One of the reasons why people love it so much is it sets you up that you're watching like a raunchy British sex in the city, except the main character is the most promiscuous one.  
-**Translation:** Vocabulary: promiscuous: 放浪形骸; raunchy: 淫秽
+**[7561.88s] English:** One of the reasons why people love it so much is that it sets you up to watch something like a raunchy British "Sex and the City," except the main character is the most promiscuous one.  
+**Translation:** Vocabulary: promiscuous: 放荡的; raunchy: 淫秽的
 
 **[7572.34s] English:** It's like, okay.  
 **Translation:** 
@@ -4279,7 +4280,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7573.38s] English:** And you kind of roll your eyes a little bit.  
 **Translation:** 
 
-**[7575.04s] English:** It's kind of funny and it's kind of cute and kind of spicy.  
+**[7575.04s] English:** It's kind of funny, and kind of cute, and kind of spicy.  
 **Translation:** 
 
 **[7579.08s] English:** And then you realize that the person is actually kind of suffering and having a hard time.  
@@ -4288,10 +4289,10 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7584.60s] English:** And it gets deeper and deeper as the show goes on.  
 **Translation:** 
 
-**[7588.38s] English:** And she will do these incredible speeches about, tell me what to do.  
+**[7588.38s] English:** And she will give these incredible speeches about telling me what to do.  
 **Translation:** 
 
-**[7593.24s] English:** I know there's experts out there.  
+**[7593.24s] English:** I know there are experts out there.  
 **Translation:** 
 
 **[7595.40s] English:** I know there's knowledge out there.  
@@ -4300,46 +4301,46 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7596.88s] English:** I know there's an optimal way to live my life.  
 **Translation:** 
 
-**[7599.70s] English:** So why can't someone just tell me what to do?  
+**[7599.70s] English:** So, why can't someone just tell me what to do?  
 **Translation:** Vocabulary: optimal: 最佳的
 
-**[7602.10s] English:** And it's this wonderfully accurate, I think, aspect of human desire that what if something could actually tell me the optimal way to go?  
+**[7602.10s] English:** And it's this wonderfully accurate aspect of human desire: what if something could actually tell me the optimal way to go?  
 **Translation:** 
 
 **[7615.12s] English:** Because I think there is a desire to give up some amount.  
 **Translation:** 
 
-**[7618.38s] English:** Of your own freedom and discretion in order to be told to do the optimally right thing.  
+**[7618.38s] English:** Of your own freedom and discretion, in order to be told to do the optimally right thing.  
 **Translation:** 
 
 **[7624.06s] English:** But that path scares me to death.  
-**Translation:** Vocabulary: optimally: 最优化地
+**Translation:** Vocabulary: optimally: 最优化; scares: 吓到
 
 **[7627.34s] English:** Yeah.  
 **Translation:** 
 
 **[7627.66s] English:** But see, the way you phrased it, that scares me, too.  
-**Translation:** 
+**Translation:** Vocabulary: phrased: 表达方式
 
-**[7630.88s] English:** So there's several things.  
+**[7630.88s] English:** So, there are several things.  
 **Translation:** 
 
 **[7632.08s] English:** One, you could be constantly distracted in a TikTok way by things that keep you engaged.  
 **Translation:** Vocabulary: distracted: 分心
 
-**[7637.32s] English:** So removing that and giving you a bunch of options constantly and learning from long term what results in your actual long term.  
+**[7637.32s] English:** So, removing that and giving you a bunch of options constantly, and learning from long-term data what results in your actual long-term success.  
 **Translation:** 
 
-**[7648.38s] English:** Happiness is like, which amounts of challenging ideas are good for you that, you know, for somebody like me, just for, but there is a number like that for you, Greg, like for me, that number is pretty high.  
+**[7648.38s] English:** Happiness is like: which amounts of challenging ideas are good for you—that, you know, for somebody like me, just for—but there is a number like that for you, Greg; for me, that number is pretty high.  
 **Translation:** 
 
 **[7665.06s] English:** I love debate.  
 **Translation:** 
 
-**[7666.68s] English:** I love I love the feeling of, like, realizing, holy shit, I've been wrong.  
+**[7666.68s] English:** I love the feeling of, like, realizing, holy shit, I've been wrong.  
 **Translation:** 
 
-**[7671.62s] English:** Yes, but like, you know, and I would love for the algorithm to know that about me and to help me.  
+**[7671.62s] English:** Yes, but, like, you know, and I would love for the algorithm to know that about me and to help me.  
 **Translation:** 
 
 **[7677.56s] English:** But always give.  
@@ -4348,160 +4349,160 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7678.32s] English:** Giving me options if I want to descend.  
 **Translation:** 
 
-**[7680.00s] English:** to cat videos and so on the educational aspect of it yes education yes like the idea of kind of like  
+**[7680.00s] English:** To cat videos, and so on—the educational aspect of it, yes, education—like the idea of, kind of like,  
+**Translation:** Vocabulary: descend: 下降
+
+**[7685.76s] English:** Both going the speed that you need to, and running as fast as you can—yeah, you know, I mean, there's  
 **Translation:** 
 
-**[7685.76s] English:** both going the speed that you need to and running as fast as you can yeah you know i mean there's  
+**[7690.38s] English:** That you know, the whole flow thing, I just feel YouTube recommendations are better or worse.  
+**Translation:** Vocabulary: recommendations: 视频推荐
+
+**[7696.44s] English:** If used correctly, it feels like it does a pretty good job. Whenever I just refuse to click on stuff.  
 **Translation:** 
 
-**[7690.38s] English:** that you know the whole flow thing i just feel youtube recommendation for for better or worse  
+**[7702.30s] English:** That's just dopamine-based, and click on only educational things, yeah, the recommendation.  
+**Translation:** Vocabulary: recommendation: 建议
+
+**[7707.38s] English:** Provides a really damn good solution, so I feel like it's a solvable problem at least in this space.  
 **Translation:** 
 
-**[7696.44s] English:** if used correctly it feels like it does a pretty good job whenever i just refuse to click on stuff  
-**Translation:** 
-
-**[7702.30s] English:** that's just dopamine based and click on only educational things yeah the recommendation  
-**Translation:** Vocabulary: dopamine: 多巴胺
-
-**[7707.38s] English:** provides a really damn good so i feel like it's a solvable problem at least in this in the space  
-**Translation:** 
-
-**[7713.78s] English:** of education of challenging yourself but also expanding your realm of knowledge and all this  
+**[7713.78s] English:** Of education, it's about challenging yourself but also expanding your realm of knowledge—and all this.  
 **Translation:** Vocabulary: solvable: 可解决的
 
-**[7718.40s] English:** kind of stuff and i'm definitely more in the we're in an inescapably anarchical period and  
+**[7718.40s] English:** Kind of stuff, and I'm definitely more in the view that we're in an inescapably anarchic period, and  
 **Translation:** 
 
-**[7722.76s] English:** require big cultural adjustments and there's gonna there's no way that this isn't going to  
-**Translation:** Vocabulary: adjustments: 调整; anarchical: 无政府; inescapably: 不可避免
+**[7722.76s] English:** Require big cultural adjustments, and there's no way that this isn't going to.  
+**Translation:** Vocabulary: adjustments: 调整; anarchic: 无政府的; inescapably: 不可避免地
 
-**[7727.54s] English:** be difficult transition is there any specific little or big things that you'd like to see x  
+**[7727.54s] English:** It can be a difficult transition. Is there anything, big or small, that you'd like to see?  
 **Translation:** 
 
-**[7732.76s] English:** do twitter do i have lots of thoughts on that  
+**[7732.76s] English:** Do Twitter? I have lots of thoughts on that.  
 **Translation:** 
 
-**[7736.52s] English:** with the  
+**[7736.52s] English:** With the  
 **Translation:** 
 
-**[7737.28s] English:** with the  
+**[7737.28s] English:** With the  
 **Translation:** 
 
-**[7737.36s] English:** funding press an extra millions of eyes on any problem can tear down any institution any any  
+**[7737.36s] English:** Funding a press campaign can put millions of eyes on any problem, tearing down any institution.  
 **Translation:** 
 
-**[7742.42s] English:** person or any idea and that's good in some ways because a lot of medieval institutions needed to  
-**Translation:** Vocabulary: medieval: 中世纪的
+**[7742.42s] English:** Transcript: Person, or any idea, and that's good in some ways, because a lot of medieval institutions needed to.  
+**Translation:** Vocabulary: medieval: 中世纪的; transcript: 录音文字稿
 
-**[7746.78s] English:** be torn down and some people did too and a lot of ideas needed to be torn down same thing is true  
+**[7746.78s] English:** Be torn down, and some people did, too. And a lot of ideas needed to be torn down. Same thing is true.  
 **Translation:** 
 
-**[7751.56s] English:** now an extra billions of eyes on every problem can tear down any person idea or institution  
+**[7751.56s] English:** Now, with an extra billion eyes on every problem, any person, idea, or institution can be torn down.  
 **Translation:** 
 
-**[7756.36s] English:** and some again some of those things needed to be torn down but it can't build yet we are not at  
+**[7756.36s] English:** And some of those things needed to be torn down, but it can't be built yet; we are not at.  
 **Translation:** 
 
-**[7763.02s] English:** the stage that can build yet but it has shown us how thin our knowledge was it's one of the  
+**[7763.02s] English:** The stage that can build, yet it has shown us how thin our knowledge was. It's one of the  
 **Translation:** 
 
-**[7767.26s] English:** reasons why we're also aware of the replication crisis it's one of the reasons why we're also aware of how kind of shoddy our research is how much our expert class is arrogant in in many cases but people don't want to live in a world where they don't have people that they respect and they can look at and i think what's happening.  
+**[7767.26s] English:** Reasons why we're also aware of the replication crisis: it's one of the reasons why we're also aware of how shoddy our research is, how much our expert class is arrogant in many cases. But people don't want to live in a world where they don't have people that they respect and can look up to. I think what's happening.  
 **Translation:** 
 
-**[7787.18s] English:** possibly now but we'll we'll continue to happen as people are going to establish themselves as being high integrity that they will always be honest i think you are establishing yourself as someone who is high integrity.  
-**Translation:** Vocabulary: arrogant: 傲慢; shoddy: 低质
+**[7787.18s] English:** Possibly now, but we'll continue to happen as people are going to establish themselves as being of high integrity and will always be honest. I think you are establishing yourself as someone of high integrity.  
+**Translation:** Vocabulary: arrogant: 傲慢; shoddy: 低质量
 
-**[7797.26s] English:** where the where they can trust that person.  
+**[7797.26s] English:** Where they can trust that person.  
 **Translation:** 
 
-**[7800.00s] English:** fire wants to be um you know the institution that people can come to is like if it's free speech we  
+**[7800.00s] English:** Fire wants to be, you know, the institution that people can come to—like, if it's free speech, we  
 **Translation:** 
 
-**[7804.60s] English:** will defend it period and i think that people need new uh need to have authorities that they  
+**[7804.60s] English:** Will defend it, period. And I think that people need new authorities that they  
 **Translation:** 
 
-**[7811.62s] English:** can actually trust and i think that if you actually had a stream that maybe people can watch  
+**[7811.62s] English:** Can actually trust, and I think that if you actually had a stream that maybe people could watch.  
 **Translation:** 
 
-**[7815.60s] English:** in action but not flood with you know stupid cancel culture stuff or dumb cat means where  
+**[7815.60s] English:** In action, but not flooded with you know, stupid cancel culture stuff or dumb cat memes, where?  
 **Translation:** 
 
-**[7822.14s] English:** it is actually a serious discussion bounded around rules no perfect rhetorical fortress  
-**Translation:** Vocabulary: rhetorical: 修辞的
+**[7822.14s] English:** It is actually a serious discussion bounded around rules, no perfect rhetorical fortress.  
+**Translation:** Vocabulary: bounded: 限定; rhetorical: 修辞的
 
-**[7826.66s] English:** no efficient rhetorical fortress none of the the bs ways we debate i think you could start to  
+**[7826.66s] English:** No efficient rhetorical fortress; none of the "bs" ways we debate. I think you could start to.  
 **Translation:** 
 
-**[7832.26s] English:** actually create something that could actually be a major improvement in the in the in the speed with  
+**[7832.26s] English:** Actually, we can create something that could actually be a major improvement in the speed with  
 **Translation:** 
 
-**[7837.58s] English:** which we come up with new better ideas and establish and and separate truth from falsity  
+**[7837.58s] English:** Which we come up with new, better ideas and establish and separate truth from falsity.  
 **Translation:** 
 
-**[7841.36s] English:** yeah if it's done well it can inspire a large number of people to become higher and higher  
+**[7841.36s] English:** Yeah, if it's done well, it can inspire a large number of people to become higher and higher.  
 **Translation:** Vocabulary: falsity: 虚假
 
-**[7846.96s] English:** integrity and it can create integrity as a value to strive for yeah i mean like you know there's  
+**[7846.96s] English:** Integrity and it can create integrity as a value to strive for, yeah. I mean, like, you know, there's  
 **Translation:** 
 
-**[7852.36s] English:** been projects throughout the internet that have  
+**[7852.36s] English:** Been projects throughout the Internet that have  
+**Translation:** Vocabulary: strive: 努力追求
+
+**[7855.46s] English:** Done, incredible!  
 **Translation:** 
 
-**[7855.46s] English:** done incredible  
+**[7856.66s] English:** Incredible job of that, but have been also very flawed — like Wikipedia is an example of a big.  
+**Translation:** Vocabulary: flawed: 有缺陷的
+
+**[7861.44s] English:** Leap forward in doing that is pretty damn impressive. What's your overall take? I mean, I'm  
 **Translation:** 
 
-**[7856.66s] English:** incredible job of that but have been also very flawed like wikipedia is an example of a big  
+**[7866.82s] English:** Mostly impressed, so there are a few really powerful ideas for the people who edit Wikipedia. One of  
 **Translation:** 
 
-**[7861.44s] English:** leap forward in doing that it's pretty damn impressive what's your overall take i mean i i'm  
+**[7874.18s] English:** Which is, each editor kind of for themselves declares, you know, I'm into politics and I really.  
 **Translation:** 
 
-**[7866.82s] English:** mostly impressed so there's a few really powerful ideas for the people who edit wikipedia one of  
+**[7882.42s] English:** Kind of a left-leaning guy, so I really shouldn't be editing.  
+**Translation:** Vocabulary: editing: 编辑
+
+**[7886.34s] English:** You.  
 **Translation:** 
 
-**[7874.18s] English:** which is each editor kind of for themselves declares you know i'm into politics and i really  
+**[7886.66s] English:** Political articles, because I have a bias. Oh, that's great; they declare their biases, and they often do.  
+**Translation:** Vocabulary: biases: 偏见
+
+**[7892.00s] English:** A good job of actually declaring the biases, but they'll still find a way to justify.  
 **Translation:** 
 
-**[7882.42s] English:** kind of left-leaning guy so i really shouldn't be editing  
+**[7898.60s] English:** They seem like something will piss them off, yeah, and they want to correct it because they love to be right.  
+**Translation:** Vocabulary: justify: 辩解
+
+**[7903.70s] English:** Correcting untruth into truth, but the perspective of what is true or not is affected by their bias.  
 **Translation:** 
 
-**[7886.34s] English:** you  
+**[7910.04s] English:** The truth is hard to know, and it is true that there is a left-leaning bias among the editors.  
 **Translation:** 
 
-**[7886.66s] English:** political articles because i have bias oh that's great they declare their biases and they often do  
+**[7915.88s] English:** Of Wikipedia.  
 **Translation:** 
 
-**[7892.00s] English:** a good job of actually declaring the biases but they'll still like they'll find a way to justify  
+**[7916.58s] English:** So, for that, what happens is on  
 **Translation:** 
 
-**[7898.60s] English:** themselves like something will piss them off yeah and they want to correct it because they they love  
+**[7920.00s] English:** Articles, which I mostly appreciate and that don't have a political aspect to them—scientific articles or technical articles, for example—can be really strong.  
 **Translation:** 
 
-**[7903.70s] English:** correcting untruth into truth but the perspective of what is true or not is affected by their bias  
-**Translation:** 
-
-**[7910.04s] English:** truth is hard to know and i and and it is true that there is a left-leaning bias on the editors  
-**Translation:** 
-
-**[7915.88s] English:** of wikipedia  
-**Translation:** 
-
-**[7916.58s] English:** so for that what happens is on  
-**Translation:** 
-
-**[7920.00s] English:** Articles, which I mostly appreciate, that don't have a political aspect to them, scientific articles or technical articles, they can be really strong.  
-**Translation:** 
-
-**[7933.14s] English:** Even history, just describing the facts of history that don't have a subjective element, strong.  
+**[7933.14s] English:** Even history, which just describes the facts of history without any subjective elements, is strong.  
 **Translation:** 
 
 **[7938.72s] English:** Also, just using my own brain, I can kind of filter out if it's something about January 6th or something like this.  
 **Translation:** 
 
-**[7946.68s] English:** I know I'm going to be like, I'm not, whatever's going on here, I'm going to kind of read it, but most I'm going to look to other sources.  
+**[7946.68s] English:** I know I'm going to be like, "I'm not," whatever's going on here, I'm going to kind of read it, but mostly I'm going to look to other sources.  
 **Translation:** 
 
-**[7954.34s] English:** I'm going to look to a bunch of different perspectives on it.  
+**[7954.34s] English:** I'm going to look at a bunch of different perspectives on it.  
 **Translation:** 
 
 **[7956.62s] English:** It's going to be very tense.  
@@ -4510,14 +4511,14 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7958.12s] English:** There's probably going to be some kind of bias.  
 **Translation:** 
 
-**[7960.32s] English:** Maybe some wording will be such, which is where Wikipedia does its thing, the way they word stuff will be biased, the choice of words.  
-**Translation:** 
+**[7960.32s] English:** Maybe some wording will be such that it's where Wikipedia does its thing—the way they word stuff will be biased, the choice of words.  
+**Translation:** Vocabulary: biased: 有偏见的
 
 **[7972.70s] English:** But Wikipedia editors themselves are so self-reflective.  
 **Translation:** 
 
-**[7976.32s] English:** They literally have articles describing these very effects of how you can use words to inject bias in all the ways that you talk about it.  
-**Translation:** 
+**[7976.32s] English:** They literally have articles describing these very effects, of how you can use words to inject bias in all the ways that you talk about it.  
+**Translation:** Vocabulary: inject: 注入
 
 **[7985.74s] English:** That sounds healthier than most environments.  
 **Translation:** 
@@ -4525,19 +4526,19 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[7987.60s] English:** It's incredibly healthy, but I think you could do better.  
 **Translation:** Vocabulary: environments: 环境
 
-**[7990.82s] English:** One of the big flaws of Wikipedia to me that Community Notes on X does better is the accessibility of becoming an editor.  
+**[7990.82s] English:** One of the big flaws of Wikipedia, to me, is that Community Notes on X does a better job in terms of the accessibility of becoming an editor.  
 **Translation:** 
 
-**[8000.34s] English:** It's difficult to become an editor, and it's not as visible, the process of editing.  
-**Translation:** Vocabulary: accessibility: 易访问性
+**[8000.34s] English:** It's difficult to become an editor, and it's not as visible; the process of editing.  
+**Translation:** Vocabulary: accessibility: 易用性; editing: 编辑
 
-**[8005.68s] English:** So I would...  
+**[8005.68s] English:** So, I would...  
 **Translation:** 
 
-**[8006.32s] English:** I would love, like you said, a stream for everyone to be able to observe this debate between people with integrity of when they discuss things like January 6th,  
+**[8006.32s] English:** I would love, as you said, a stream for everyone to be able to observe this debate between people with integrity when they discuss things like January 6th.  
 **Translation:** 
 
-**[8016.36s] English:** which are very controversial topics, to just see how the process of the debate goes, as opposed to being hidden in the shadows, which it currently is in Wikipedia.  
+**[8016.36s] English:** Which are very controversial topics, to just see how the process of the debate goes, as opposed to being hidden in the shadows, which it currently is on Wikipedia.  
 **Translation:** 
 
 **[8024.88s] English:** You can access it.  
@@ -4546,88 +4547,88 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8025.70s] English:** It's just hard to access.  
 **Translation:** 
 
-**[8027.66s] English:** And I've also seen how they will use certain articles on certain people, like articles about people I've learned to trust less.  
+**[8027.66s] English:** And I've also seen how they will use certain articles on certain people—like articles about people I've learned to trust less.  
 **Translation:** 
 
 **[8036.32s] English:** Yeah.  
 **Translation:** 
 
-**[8036.96s] English:** Because they'll literally will use those to make...  
+**[8036.96s] English:** Because they'll literally use those to make....  
 **Translation:** 
 
-**[8040.00s] English:** personal attacks and this is something you write about they'll use descriptions of different  
+**[8040.00s] English:** Personal attacks, and this is something you write about; they'll use descriptions of different  
 **Translation:** 
 
-**[8045.42s] English:** controversies to paint a picture of a person that's that doesn't to me at least feel like  
+**[8045.42s] English:** Controversies to paint a picture of a person that, to me at least, doesn't feel like  
+**Translation:** Vocabulary: controversies: 争议
+
+**[8051.28s] English:** An accurate representation of the person is like writing an article about Einstein, mentioning  
 **Translation:** 
 
-**[8051.28s] English:** an accurate representation of the person it's like writing an article about einstein mentioning  
+**[8057.38s] English:** Something about the theory of relativity, and saying that he was a womanizer, an abuser, and  
+**Translation:** Vocabulary: abuser: 施暴者; relativity: 相对论
+
+**[8062.46s] English:** Like controversy, you know. Yeah, he is Feynman, also, you know, not you know, was that you know.  
 **Translation:** 
 
-**[8057.38s] English:** something about uh theory of relativity and saying that he was a womanizer an abuser and a  
-**Translation:** Vocabulary: einstein: 爱因斯坦; relativity: 相对论
+**[8069.22s] English:** They're not exactly the perfect humans, especially in terms of women, but like there are other aspects to this human.  
+**Translation:** Vocabulary: controversy: 争论; feynman: 费曼
 
-**[8062.46s] English:** like controversy you know yeah he is feinman also you know not you know was that you know  
+**[8076.12s] English:** And to capture that human properly, there's a certain way to do it, I think, Wikipedia will.  
 **Translation:** 
 
-**[8069.22s] English:** they're not exactly the perfect human in terms of women but like there's other aspects to this human  
+**[8081.84s] English:** Often, they really try to be self-reflective and try to stop it, but they will lean into the  
 **Translation:** 
 
-**[8076.12s] English:** and to capture that human properly there's a certain way to do it i think wikipedia will  
+**[8088.94s] English:** Drama if it matches the bias, yeah, but again, much better than the world—I believe is much better.  
 **Translation:** 
 
-**[8081.84s] English:** often lean they really try to be self-reflective and try to stop this but they will lean into the  
+**[8096.90s] English:** Uh, because Wikipedia,...  
 **Translation:** 
 
-**[8088.94s] English:** drama if it matches the bias yeah but again much better than the world i believe is much better  
+**[8099.22s] English:** Exists, but now that we're in these adolescent stages, we're growing and trying to come up with.  
 **Translation:** 
 
-**[8096.90s] English:** uh because wikipedia  
-**Translation:** 
-
-**[8099.22s] English:** exists but now that we're in these adolescent stages we're growing and trying to come up with  
-**Translation:** 
-
-**[8104.92s] English:** different technologies the idea of a stream yeah is really really interesting as you get more and  
+**[8104.92s] English:** Different technologies—the idea of a stream, yeah—is really interesting as you get more and  
 **Translation:** Vocabulary: adolescent: 青春期的
 
-**[8110.42s] English:** more people into this discourse that where the value is let's try to get the truth yeah  
+**[8110.42s] English:** More people into this discourse where the value lies. Let's try to get to the truth, yeah.  
 **Translation:** 
 
-**[8116.42s] English:** yeah and that basically you know you get the little cards for nope wrong nope wrong and the  
+**[8116.42s] English:** Yeah, and that basically, you know, you get the little cards for nothing, wrong, wrong, and the  
 **Translation:** Vocabulary: discourse: 讨论
 
-**[8122.02s] English:** different the different rhetorical techniques that are being used to avoid actually discussing  
+**[8122.02s] English:** Different rhetorical techniques are being used to avoid actually discussing.  
 **Translation:** 
 
-**[8126.38s] English:** yeah and i think actually you can make it a little bit fun by you get a limited number of  
+**[8126.38s] English:** Yeah, and I think actually you can make it a little bit fun by getting a limited number of  
 **Translation:** Vocabulary: rhetorical: 修辞的
 
-**[8129.22s] English:** them um you know it's kind of like you get three whataboutism cards it's a game of finding the  
+**[8129.22s] English:** They, um, you know, it's kind of like you get three "what aboutism" cards. It's a game of finding the  
 **Translation:** 
 
-**[8134.90s] English:** whole thing uh absolutely yeah uh let me ask you about uh so you mentioned going to some difficult  
-**Translation:** Vocabulary: whataboutism: 以牙还牙
+**[8134.90s] English:** Whole thing, uh, absolutely, yeah. Let me ask you about that. So, you mentioned going to some difficult...  
+**Translation:** Vocabulary: aboutism: 啰嗦提问
 
-**[8141.20s] English:** moments in your life sure um what what has been your experience with uh with depression  
+**[8141.20s] English:** Moments in your life, sure. What has been your experience with depression?  
 **Translation:** 
 
-**[8147.76s] English:** what has been your experience getting out of it overcoming it yeah i mean the whole thing  
+**[8147.76s] English:** What has been your experience getting out of it and overcoming it? Yeah, I mean, the whole thing.  
+**Translation:** Vocabulary: overcoming: 克服
+
+**[8153.46s] English:** The whole journey, um, would that be with "Coddling the American Mind" beginning with me?  
 **Translation:** 
 
-**[8153.46s] English:** the whole journey um would that be uh with coddling the american mind began with me  
-**Translation:** 
-
-**[8159.22s] English:** um  
+**[8159.22s] English:** Um.  
 **Translation:** Vocabulary: coddling: 溺爱
 
-**[8160.00s] English:** At the Belmont Psychiatric Facility in Philadelphia back in 2007, I had called 911 in a moment of clarity because I'd gone to the hardware store to make sure that when I killed myself that it stuck.  
+**[8160.00s] English:** At the Belmont Psychiatric Facility in Philadelphia back in 2007, I had called 911 in a moment of clarity because I'd gone to the hardware store to make sure that when I killed myself, it would stick.  
 **Translation:** 
 
-**[8176.10s] English:** I wanted to make sure that I had my head wrapped and everything.  
-**Translation:** Vocabulary: belmont: 贝尔蒙; psychiatric: 精神科
+**[8176.10s] English:** I wanted to make sure that I had my head wrapped, and everything.  
+**Translation:** Vocabulary: belmont: 贝尔蒙特; clarity: 清晰; psychiatric: 精神的
 
-**[8179.16s] English:** So if all the drugs I was planning to take didn't work, that I wouldn't be able to claw my way out.  
+**[8179.16s] English:** So, if all the drugs I was planning to take didn't work, I wouldn't be able to claw my way out.  
 **Translation:** 
 
 **[8185.00s] English:** It had been a really rough year, and I always had issues with depression.  
@@ -4636,8 +4637,8 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8190.00s] English:** But they were getting worse.  
 **Translation:** 
 
-**[8192.38s] English:** And frankly, one of the reasons why this cancel culture stuff is so important to me is that the thing that I didn't emphasize as much in Coddling the American Mind, which, by the way, that description that I give of trying to kill myself was the first time I'd ever written it down.  
-**Translation:** 
+**[8192.38s] English:** And frankly, one of the reasons why this cancel culture stuff is so important to me is that the thing I didn't emphasize as much in *Coddling the American Mind*, which, by the way, that description that I give of trying to kill myself was the first time I'd ever written it down.  
+**Translation:** Vocabulary: emphasize: 强调; frankly: 坦白地说
 
 **[8207.06s] English:** Nobody in my family was aware of it being like that.  
 **Translation:** 
@@ -4645,7 +4646,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8211.64s] English:** My wife had never seen it.  
 **Translation:** 
 
-**[8213.02s] English:** And basically, the only way I was able to write that was by doing—you know how you can kind of trick yourself?  
+**[8213.02s] English:** And basically, the only way I was able to write that was by doing— you know, how you can kind of trick yourself?  
 **Translation:** 
 
 **[8218.96s] English:** And I was like,  
@@ -4663,13 +4664,13 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8233.10s] English:** Because I was originally the legal director of FIRE.  
 **Translation:** 
 
-**[8235.18s] English:** Then I became president of FIRE in 2005.  
+**[8235.18s] English:** Then, I became president of FIRE in 2005.  
 **Translation:** 
 
 **[8237.80s] English:** Moved to Philadelphia, where I get depressed.  
 **Translation:** 
 
-**[8240.58s] English:** And it's just I don't have family there.  
+**[8240.58s] English:** And it's just that I don't have any family there.  
 **Translation:** 
 
 **[8243.60s] English:** There's something about the town.  
@@ -4684,16 +4685,16 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8250.00s] English:** There was a girl that I was dating.  
 **Translation:** 
 
-**[8252.68s] English:** I remember, you know, she didn't seem to really approve of what I did, and a lot of people didn't really seem to.  
+**[8252.68s] English:** I remember; you know, she didn't seem to really approve of what I did, and a lot of people didn't really seem to.  
 **Translation:** 
 
-**[8258.06s] English:** And meanwhile, like, I was defending people on the left all the time.  
+**[8258.06s] English:** And meanwhile, I was defending people on the left all the time.  
 **Translation:** 
 
-**[8262.22s] English:** And they'd be like, oh, that's good that you're defending someone on the left, but they still would never forgive me for defending someone on the right.  
+**[8262.22s] English:** And they'd be like, "Oh, that's good that you're defending someone on the left," but they still would never forgive me for defending someone on the right.  
 **Translation:** 
 
-**[8267.24s] English:** And I remember saying at one point, I'm like, listen, I'm like, I'm a true believer in this stuff.  
+**[8267.24s] English:** And I remember saying at one point, "I'm like, listen, I'm a true believer in this stuff.  
 **Translation:** 
 
 **[8272.28s] English:** I'm willing to defend Nazis.  
@@ -4702,224 +4703,224 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8273.94s] English:** I'm certainly willing to defend Republicans.  
 **Translation:** 
 
-**[8276.62s] English:** And she actually said, I think Republicans might be worse.  
+**[8276.62s] English:** And she actually said, "I think Republicans might be worse.  
 **Translation:** 
 
-**[8280.00s] English:** um and that didn't that relationship didn't go very well and then i nearly got in fist fights  
+**[8280.00s] English:** Um, and that relationship didn't go very well, and then I nearly got into fist fights.  
 **Translation:** 
 
-**[8285.68s] English:** a couple times with with people on the right um because they found out i defended people who  
+**[8285.68s] English:** A couple of times with people on the right, um, because they found out I defended people who  
 **Translation:** 
 
-**[8290.00s] English:** cracked jokes about 9 11. like this happened more than once i'm not you know by that time in my 20s  
+**[8290.00s] English:** Cracked jokes about 9/11. Like, this happened more than once—I'm not, you know, by that time in my 20s.  
 **Translation:** 
 
-**[8295.36s] English:** i'm not fist fighting again um but yeah it was always like that you you see how hypocritical  
+**[8295.36s] English:** I'm not fistfighting again, um, but yeah, it was always like that. You see how hypocritical.  
+**Translation:** Vocabulary: cracked: 开玩笑; fistfighting: 拳斗; hypocritical: 虚伪的
+
+**[8301.92s] English:** People can be, as you can see, how friends can turn on you if they don't like your politics, so I got.  
 **Translation:** 
 
-**[8301.92s] English:** people can be you can see how friends can turn on you if they don't like your politics so i got  
+**[8307.44s] English:** An early preview of this, of what the culture we were heading into, by being the president of.  
 **Translation:** 
 
-**[8307.44s] English:** an early preview of this of of what the culture we were heading into by being the president of  
+**[8313.84s] English:** Fire, and it was exhausting. Um, and that was one of the main things that led me to be, you know,  
 **Translation:** 
 
-**[8313.84s] English:** fire and it was exhausting um and that was one of the main things that led me to be you know  
+**[8320.48s] English:** Suicidally depressed, uh, at the Belmont Center, if you told me that, that would be the beginning of a  
+**Translation:** Vocabulary: belmont: 贝尔蒙特; exhausting: 令人筋疲力尽的; suicidally: 有自杀倾向地
+
+**[8327.04s] English:** A new and better life for me? I would have laughed if I could have, but I wouldn't—you know—I don't like.  
 **Translation:** 
 
-**[8320.48s] English:** suicidally depressed uh at the belmont center if you told me that that would be the beginning of a  
-**Translation:** Vocabulary: belmont: 贝尔蒙特; exhausting: 令人筋疲力尽; suicidally: 自杀地
-
-**[8327.04s] English:** new and better life for me i would have laughed if i could have but i would you know i don't like  
+**[8332.08s] English:** You can tell I'm okay if I'm still laughing, and I wasn't laughing at that point, so  
 **Translation:** 
 
-**[8332.08s] English:** you can tell i'm okay if i'm still laughing and i wasn't laughing um at that point so  
+**[8337.44s] English:** Um, I got a doctor, and I started doing cognitive behavioral therapy. I started having all these.  
 **Translation:** 
 
-**[8337.44s] English:** um i got a doctor and i started doing cognitive behavioral therapy i started having all these  
+**[8343.44s] English:** Voices in my head that were catastrophizing, and, um, you know, it gave me overgeneralization.  
+**Translation:** Vocabulary: catastrophizing: 灾难化; cognitive: 认知; overgeneralization: 过度概括
+
+**[8352.80s] English:** Fortune-telling, you know, mind-reading—all of these things that they teach you not to do.  
 **Translation:** 
 
-**[8343.44s] English:** voices in my head that were catastrophizing and um you know it gave me over over generalization and  
-**Translation:** Vocabulary: catastrophizing: 灾难化; cognitive: 认知; generalization: 泛化
-
-**[8352.80s] English:** fortune telling you know mind reading all of these things that they teach you not to do  
+**[8357.44s] English:** And, it is essentially what you do in CBT that you have  
 **Translation:** 
 
-**[8357.44s] English:** and it and what what you do in cbt is essentially you you have  
+**[8363.52s] English:** Something makes you upset, and then you just write down what the thought was.  
 **Translation:** 
 
-**[8363.52s] English:** something makes you upset and then you just write down what the thought was  
+**[8367.60s] English:** And you know, something minor could happen, and your response was, "you know, like, um, well, the date didn't.  
 **Translation:** 
 
-**[8367.60s] English:** and you know something minor could happen and your response was you know like um well the date didn't  
+**[8373.60s] English:** It seems to be going very well, um, and that's because I'm broken and will die alone, and you're like, "Okay.  
 **Translation:** 
 
-**[8373.60s] English:** seem to go very well um and that's because i'm broken and will die alone and you're like okay  
+**[8378.08s] English:** Okay, okay. What are the following things you know? That's catastrophizing. That's mind-reading.  
 **Translation:** 
 
-**[8378.08s] English:** okay okay what what are what are the following you know uh that's catastrophizing that's mine reading  
+**[8383.36s] English:** That's a fortune telling. That's all the stuff, um, and you have to do this several times a day.  
 **Translation:** 
 
-**[8383.36s] English:** that's a fortune telling that's all the stuff um and you have to do this several times a day  
+**[8389.20s] English:** Forever, I actually need to brush up on it at the moment, um, and it slowly over time has affected my voices.  
 **Translation:** 
 
-**[8389.20s] English:** forever i actually need to brush up on it at the moment um and it slowly over time voices in my  
+**[8396.24s] English:** Head, that have been saying, "Oh my god, what's going on? What's going on? What's going on? What's going on?  
 **Translation:** 
 
-**[8396.24s] English:** head that have been saying oh my god what's going on what's going on what's going on what's going on  
+**[8397.44s] English:** Horrible, you know, horrible internal talk.  
 **Translation:** 
 
-**[8397.44s] English:** horrible you know horrible internal talk  
+**[8400.00s] English:** It just didn't sound as convincing anymore, which was a really kind of subtle effect, like it.  
 **Translation:** 
 
-**[8400.00s] English:** it just didn't sound as convincing anymore which was a really kind of like subtle effect like it  
+**[8405.52s] English:** It was just kind of like, "Oh, wait, I don't buy that I'm broken. You know, that doesn't sound true.  
+**Translation:** Vocabulary: subtle: 微妙
+
+**[8410.94s] English:** That doesn't sound like truth from God anymore, like it used to. And nine months after I was.  
 **Translation:** 
 
-**[8405.52s] English:** was just kind of like oh wait i don't buy that i'm broken you know like that doesn't sound true  
+**[8418.04s] English:** Planning to kill myself, I was probably happier than I'd been in a decade, um, and that was one  
 **Translation:** 
 
-**[8410.94s] English:** that doesn't sound like truth from god like like it used to and nine months after i was  
+**[8425.22s] English:** Of the things that you know, CBT is what led me to notice this in my own work; it felt  
 **Translation:** 
 
-**[8418.04s] English:** planning to kill myself i was probably happier than i'd been in a decade um and that was one  
+**[8430.98s] English:** Like administrators were kind of selling cognitive distortions, but students weren't buying yet, and  
+**Translation:** Vocabulary: cognitive: 认知; distortions: 扭曲
+
+**[8436.22s] English:** Then, when I started noticing that they seemed to come in already believing in a lot of  
 **Translation:** 
 
-**[8425.22s] English:** of the things that you know that the cbt is what led me to notice this in my own work that it felt  
+**[8439.62s] English:** This stuff would be very dangerous, and that led to calling the American Mind and all that.  
 **Translation:** 
 
-**[8430.98s] English:** like administrators were kind of selling cognitive distortions but students weren't buying yet and  
-**Translation:** Vocabulary: distortions: 认知扭曲
-
-**[8436.22s] English:** then when i started noticing that they seemed to come in actually already believing in a lot of  
+**[8443.34s] English:** Stuff, but the thing that was rough about writing "Canceling the American Mind," I've mentioned this.  
 **Translation:** 
 
-**[8439.62s] English:** this stuff that would be very dangerous and that led to calling the american mind and all that  
-**Translation:** 
-
-**[8443.34s] English:** stuff but the thing that was rough about writing canceling the american mind i've mentioned this  
-**Translation:** 
-
-**[8449.04s] English:** already a couple of times i got really depressed this past year um because i was studying you know  
+**[8449.04s] English:** Already a couple of times I've gotten really depressed this past year, um, because I was studying, you know.  
 **Translation:** Vocabulary: canceling: 取消
 
-**[8454.58s] English:** there  
+**[8454.58s] English:** There.  
 **Translation:** 
 
-**[8455.02s] English:** there's a friend in there that i talk about who killed himself um after being canceled i talked  
+**[8455.02s] English:** There's a friend I talk about who killed himself after being canceled, and I talked  
 **Translation:** 
 
-**[8459.26s] English:** to him a week before he killed himself and i hadn't actually um i hadn't actually checked in  
+**[8459.26s] English:** To him, a week before he killed himself, and I hadn't actually checked in.  
 **Translation:** 
 
-**[8464.26s] English:** with him because he seemed so confident i thought he would be totally fine because he he had an  
+**[8464.26s] English:** With him, because he seemed so confident; I thought he would be totally fine because he had an  
 **Translation:** 
 
-**[8469.06s] English:** insensitive tweet in june of 2020 and you know got got forced out uh in a way that didn't actually  
+**[8469.06s] English:** Insensitive tweet in June of 2020, and you know, got forced out in a way that didn't actually  
 **Translation:** 
 
-**[8475.20s] English:** sound as bad as a lot of the other professors he actually at least got a severance package but  
-**Translation:** Vocabulary: insensitive: 缺乏敏感性; severance: 遣散费
+**[8475.20s] English:** Sound as bad as a lot of the other professors; he actually, at least, got a severance package, but  
+**Translation:** Vocabulary: insensitive: 不敏感; severance: 遣散费
 
-**[8478.40s] English:** they knew he'd sue and win um because he had before and so i waited to check in on him because  
+**[8478.40s] English:** They knew he'd sue and win, um, because he had before, and so I waited to check in on him because  
 **Translation:** 
 
-**[8484.62s] English:** we were so  
+**[8484.62s] English:** We were so  
 **Translation:** 
 
-**[8485.00s] English:** overwhelmed with the request for helps and he was saying people were coming to his house still  
+**[8485.00s] English:** Overwhelmed with the request for help, and he was saying that people were still coming to his house.  
 **Translation:** 
 
-**[8489.24s] English:** and then he shot himself the next week and i i definitely and because everyone knows i'm so  
+**[8489.24s] English:** And then he shot himself the next week, and I definitely and because everyone knows I'm so  
 **Translation:** 
 
-**[8494.04s] English:** public about you know my struggles with this stuff everybody um who fights this stuff comes  
+**[8494.04s] English:** Public about you know, my struggles with this stuff; everybody who fights this stuff comes  
 **Translation:** 
 
-**[8499.56s] English:** to me when they're having a hard time and this is a very hard psychologically taxing business to be  
-**Translation:** Vocabulary: psychologically: 心理上
+**[8499.56s] English:** To me, when they're having a hard time, and this is a very hard, psychologically taxing business to be in.  
+**Translation:** Vocabulary: psychologically: 心理上; struggles: 挣扎; taxing: 耗费精力的
 
-**[8505.48s] English:** in and even admitting this right now like i think about like all the all the vultures out there  
+**[8505.48s] English:** In, and even admitting this right now, like I think about all the vultures out there.  
 **Translation:** 
 
-**[8511.08s] English:** they'll have fun with it just like the same way when when my friend mike adams killed himself there  
-**Translation:** Vocabulary: vultures: 秃鹫
+**[8511.08s] English:** They'll have fun with it, just like the same way when my friend Mike Adams killed himself, there.  
+**Translation:** Vocabulary: vultures: 贪婪之徒
 
-**[8514.60s] English:** were people like celebrating on twitter um that that a man was dead uh because they  
+**[8514.60s] English:** Were people like celebrating on Twitter, um, that a man was dead, uh, because they  
 **Translation:** 
 
-**[8520.00s] English:** didn't like his tweets and but somehow that made them compassionate for some abstract other person  
-**Translation:** Vocabulary: compassionate: 同情; tweets: 推特
+**[8520.00s] English:** Didn't like his tweets, and but somehow that made them compassionate for some abstract other person.  
+**Translation:** Vocabulary: compassionate: 同情; tweets: 推特发文
 
-**[8526.76s] English:** so i was getting a little depressed and anxious and the thing that really helped me  
+**[8526.76s] English:** So, I was feeling a bit depressed and anxious, and the thing that really helped me.  
 **Translation:** 
 
-**[8530.94s] English:** more than anything else um was confessing to my staff that i you know i books take a lot of energy  
-**Translation:** Vocabulary: confessing: 坦白
+**[8530.94s] English:** More than anything else, um, was confessing to my staff that I, you know, books take a lot of energy.  
+**Translation:** Vocabulary: confessing: 坦白自己的事情
 
-**[8540.54s] English:** so i knew they didn't want to hear that not only was this taking a lot of the boss's time  
+**[8540.54s] English:** So I knew they didn't want to hear that not only was this taking a lot of the boss's time,...  
 **Translation:** 
 
-**[8544.78s] English:** this was making him depressed and anxious but when i finally told my the leadership of my staff  
+**[8544.78s] English:** This was making him depressed and anxious, but when I finally told my staff leadership,  
 **Translation:** 
 
-**[8549.82s] English:** um you know people that even though i try to maintain a lot of distance from i love very very  
+**[8549.82s] English:** Um, you know, people that even though I try to maintain a lot of distance, I love very, very  
 **Translation:** 
 
-**[8554.78s] English:** much um it made such a difference you know um because i could be open about that and the other  
+**[8554.78s] English:** Much, um, it made such a difference, you know. Um, because I could be open about that, and the other...  
 **Translation:** 
 
-**[8560.52s] English:** thing was have you heard this conference dialogue oh yes it's like an invite only thing it's oran  
+**[8560.52s] English:** Thing was, have you heard about this conference dialogue? Oh, yes, it's like an invite-only thing; it's ORAN.  
 **Translation:** 
 
-**[8566.36s] English:** hoffman um runs it um it intentionally tries to get people over the political spectrum um to come  
+**[8566.36s] English:** Hoffman, um, runs it. It intentionally tries to get people over the political spectrum, um, to come.  
 **Translation:** Vocabulary: hoffman: 霍夫曼
 
-**[8572.64s] English:** together uh and have off the record conversations about big issues and it was nice to be in a room  
+**[8572.64s] English:** Together, uh, and have off-the-record conversations about big issues. It was nice to be in a room.  
 **Translation:** 
 
-**[8579.28s] English:** where  
+**[8579.28s] English:** Where  
 **Translation:** 
 
-**[8579.82s] English:** liberal conservative none of the above were all like oh thank god someone's taking on council  
+**[8579.82s] English:** Liberal, conservative, none of the above — were all like, "Oh, thank God, someone's taking on council.  
 **Translation:** 
 
-**[8584.62s] English:** culture and where it felt like it felt like maybe this won't be the the disaster for me and my  
+**[8584.62s] English:** Culture, and where it felt like maybe this wouldn't be the disaster for me and my  
 **Translation:** 
 
-**[8592.00s] English:** family that i was that i was starting to be afraid it would be that taking the stuff on  
+**[8592.00s] English:** Family, that I was starting to be afraid it would be that taking the stuff off.  
 **Translation:** 
 
-**[8596.24s] English:** might actually have a happy ending well one thing i just stands out from that  
+**[8596.24s] English:** Might actually have a happy ending? Well, one thing just stands out from that.  
 **Translation:** 
 
-**[8600.52s] English:** is the the pain of cancellation can be really intense  
+**[8600.52s] English:** The pain of cancellation can be really intense.  
 **Translation:** 
 
-**[8609.82s] English:** and that doesn't necessarily mean losing your job but just even you can call it bullying you can call  
+**[8609.82s] English:** And that doesn't necessarily mean losing your job, but just even you can call it bullying; you can call it whatever you want.  
 **Translation:** Vocabulary: bullying: 欺凌; cancellation: 取消
 
-**[8615.20s] English:** whatever name but just some number of people on the internet and that number can be small kind of  
+**[8615.20s] English:** Whatever name, but just some number of people on the Internet, and that number can be small, kind of.  
 **Translation:** 
 
-**[8621.98s] English:** saying bad things to you yeah that can be a pretty powerful force to the human psyche which is but was  
+**[8621.98s] English:** Saying bad things to you, yeah, that can be a pretty powerful force on the human psyche, which is but was.  
 **Translation:** Vocabulary: psyche: 心理
 
-**[8630.24s] English:** very surprising and then the flip side also of that um it really makes me sad how cruel people  
+**[8630.24s] English:** Very surprising, and then the flip side of that also makes me sad how cruel people can be.  
 **Translation:** 
 
-**[8638.32s] English:** can be yeah that's it that makes it really sad i think it's it's really sad i think it's really sad  
+**[8638.32s] English:** Can be, yeah. That's it. That makes it really sad. I think it's really sad.  
 **Translation:** 
 
-**[8638.48s] English:** be yeah it's it's  
+**[8638.48s] English:** Be, yeah, it's it's  
 **Translation:** 
 
-**[8640.00s] English:** Thinking that your cause is social justice in many cases can lead people to think, I can be as cruel as I want in pursuit of this.  
+**[8640.00s] English:** Thinking that your cause is social justice can, in many cases, lead people to believe they can be as cruel as they want in pursuit of it.  
+**Translation:** Vocabulary: pursuit: 追求
+
+**[8649.66s] English:** When there are lots of times, it's just a way to sort of vent some aggression on a person that you think of only as an abstraction.  
 **Translation:** 
 
-**[8649.66s] English:** When a lot of times it's just a way to sort of vent some aggression on a person that you think of only as an abstraction.  
-**Translation:** 
-
-**[8658.10s] English:** So I think it's important for people to realize that whatever negative energy, whatever negativity you want to put out there, there's real people that can get hurt.  
-**Translation:** Vocabulary: abstraction: 抽象对象; aggression: 攻击; negativity: 负面情绪
+**[8658.10s] English:** So, I think it's important for people to realize that, whenever they put out negative energy or negativity, there are real people who can get hurt.  
+**Translation:** Vocabulary: abstraction: 抽象; aggression: 攻击; negativity: 消极
 
 **[8674.68s] English:** You can really get people to, one, be the worst version of themselves, or two, possibly take their own life.  
 **Translation:** 
@@ -4927,16 +4928,16 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8682.20s] English:** And it's not as real.  
 **Translation:** 
 
-**[8685.02s] English:** Yeah, well, that's one of the things that we do in the book.  
+**[8685.02s] English:** Yeah, well, that's one of the things we do in the book.  
 **Translation:** 
 
 **[8687.86s] English:** Yeah.  
 **Translation:** 
 
-**[8688.10s] English:** To really kind of address people who still try to claim this isn't real, is we just quote, we quote the Pope, we quote Obama, we quote James Carville, we quote Taylor Swift on cancel culture.  
+**[8688.10s] English:** To really kind of address people who still try to claim this isn't real, we just quote the Pope, we quote Obama, we quote James Carville, and we quote Taylor Swift on cancel culture.  
 **Translation:** 
 
-**[8701.78s] English:** And Taylor Swift's quote is essentially about how behind all of this, when it gets particularly nasty, there's this very clear, you know, kill yourself kind of undercurrent to it.  
+**[8701.78s] English:** And Taylor Swift's quote is essentially about how, behind all of this, when it gets particularly nasty, there's this very clear "kill yourself" kind of undercurrent to it.  
 **Translation:** Vocabulary: carville: 卡罗维; obama: 奥巴马; undercurrent: 暗流
 
 **[8713.66s] English:** And it's cruel.  
@@ -4949,18 +4950,18 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **Translation:** 
 
 **[8727.48s] English:** But then you have to remember the misrepresentation, getting back to the old idioms.  
-**Translation:** Vocabulary: transgressive: 逾矩行为
+**Translation:** Vocabulary: idioms: 成语; transgressive: 越界
 
-**[8732.42s] English:** Sticks and stones will break my bones, but names will never hurt me, has been reimagined in campus debates in the most asinine way.  
+**[8732.42s] English:** Sticks and stones will break my bones, but names will never hurt me has been reimagined in campus debates in the most asinine way.  
 **Translation:** 
 
-**[8743.10s] English:** People will literally say stuff like, but now we know words can hurt.  
-**Translation:** Vocabulary: asinine: 愚蠢; reimagined: 重新想象
+**[8743.10s] English:** People will literally say stuff like, "but now we know words can hurt.  
+**Translation:** Vocabulary: asinine: 愚蠢; reimagined: 重新想象; sticks: 棍子
 
 **[8746.66s] English:** And it's like, now we know?  
 **Translation:** 
 
-**[8748.10s] English:** Now words can hurt?  
+**[8748.10s] English:** Now, words can hurt?  
 **Translation:** 
 
 **[8749.62s] English:** Guys, you didn't have to come up with a special little thing that you teach children to make words hurt less if they never hurt in the first place.  
@@ -4969,17 +4970,17 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8757.90s] English:** It wouldn't even make sense, the saying.  
 **Translation:** 
 
-**[8760.00s] English:** It's a saying that you repeat to yourself to give yourself strength when the bullies have noticed you're a little weird.  
+**[8760.00s] English:** It's a saying you repeat to yourself to give yourself strength when the bullies have noticed you're a little weird.  
 **Translation:** 
 
 **[8767.90s] English:** That might be a little personal.  
-**Translation:** 
+**Translation:** Vocabulary: bullies: 欺凌者
 
 **[8769.98s] English:** And it helps.  
 **Translation:** 
 
-**[8771.98s] English:** It really does help to be like, listen, okay, assholes are going to say asshole things, and I can't let them have that kind of power over me.  
-**Translation:** Vocabulary: asshole: 混蛋; assholes: 混蛋们
+**[8771.98s] English:** It really does help to be like: "Listen, okay, assholes are going to say asshole things, and I can't let them have that kind of power over me.  
+**Translation:** Vocabulary: asshole: 混蛋; assholes: 混蛋
 
 **[8780.36s] English:** Yeah.  
 **Translation:** 
@@ -4990,34 +4991,34 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8782.04s] English:** It still is a learning experience because it does hurt.  
 **Translation:** 
 
-**[8785.72s] English:** But for the good people out there who actually just sometimes think that they're vented, think about it.  
-**Translation:** Vocabulary: vented: 发泄
+**[8785.72s] English:** But for the good people out there who actually just sometimes think that they're venting, think about it.  
+**Translation:** Vocabulary: venting: 发泄
 
 **[8791.66s] English:** Remember that there are people on the other side of it.  
 **Translation:** 
 
-**[8794.76s] English:** Yeah, for me, it hurts my kind of faith in humanity.  
+**[8794.76s] English:** Yeah, for me, it hurts my faith in humanity.  
 **Translation:** 
 
 **[8798.12s] English:** I know it shouldn't, but it does sometimes.  
 **Translation:** 
 
-**[8800.52s] English:** When I just see people being cruel to each other, it floats a cloud over my perspective of the world that I wish didn't have to be there.  
+**[8800.52s] English:** When I just see people being cruel to each other, it casts a cloud over my perspective of the world that I wish didn't have to be there.  
 **Translation:** 
 
 **[8812.78s] English:** Yeah, that was always my sort of flippant.  
 **Translation:** 
 
-**[8815.16s] English:** But yeah.  
+**[8815.16s] English:** But, yeah.  
 **Translation:** Vocabulary: flippant: 轻浮的
 
-**[8815.72s] English:** The answer to that, if mankind is basically good or basically evil, being the biggest debate in philosophy and being like, well, the problem with the first is there's nothing basic about humanity.  
+**[8815.72s] English:** The answer to that—whether mankind is basically good or basically evil—is a big debate in philosophy. And the problem with the first assumption is that there's nothing "basic" about humanity.  
 **Translation:** 
 
 **[8829.20s] English:** Yeah.  
 **Translation:** 
 
-**[8829.86s] English:** What gives you hope about this whole thing, about this dark state that we're in as you describe how can we get out?  
+**[8829.86s] English:** What gives you hope about this whole thing, about this dark state that we're in, as you describe how can we get out?  
 **Translation:** 
 
 **[8838.42s] English:** What gives you hope that we will get out?  
@@ -5033,9 +5034,9 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **Translation:** 
 
 **[8849.38s] English:** And that's really what censorship is.  
-**Translation:** Vocabulary: authentic: 真实; censorship: 审查
+**Translation:** Vocabulary: authentic: 真实的; censorship: 审查
 
-**[8851.70s] English:** It's basically telling you don't be yourself.  
+**[8851.70s] English:** It's basically telling you, "Don't be yourself.  
 **Translation:** 
 
 **[8853.42s] English:** Don't actually say what you think.  
@@ -5044,7 +5045,7 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8855.92s] English:** Don't show your personality.  
 **Translation:** 
 
-**[8857.44s] English:** Don't dissent.  
+**[8857.44s] English:** Do not dissent.  
 **Translation:** 
 
 **[8858.38s] English:** Don't be weird.  
@@ -5057,48 +5058,48 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **Translation:** 
 
 **[8862.34s] English:** I think that people have kind of had enough of it.  
-**Translation:** 
+**Translation:** Vocabulary: sustainable: 持久的
 
-**[8866.24s] English:** But one thing I definitely want to say to your audience is it can't just be up to us arguers.  
+**[8866.24s] English:** But, one thing I definitely want to say to your audience is that it can't just be up to us arguers.  
 **Translation:** 
 
 **[8875.72s] English:** To try to fix this.  
-**Translation:** Vocabulary: arguers: 争论者
+**Translation:** Vocabulary: arguers: 争论的人
 
 **[8879.28s] English:** And I think.  
 **Translation:** 
 
 **[8880.00s] English:** And this may sound like it's an unrelated problem. I think if there were highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing, that actually can give the Harvards and the Yales of the world a run for their money, I think that might be the most positive thing we could do to deal with a lot of these problems. And why?  
-**Translation:** Vocabulary: hardworking: 勤奋; harvards: 哈佛大学
+**Translation:** Vocabulary: hardworking: 勤奋; harvards: 哈佛大学; respected: 受尊敬的
 
-**[8905.48s] English:** I think the fact that we have become a weird America with a great anti elitist tradition has become weirdly elitist in this in the respect that we not only, again, our leadership coming from these few fancy schools, we actually have like great admiration for them, we kind of look up to them.  
+**[8905.48s] English:** I think the fact that we have become a weird America with a great anti-elitist tradition has become weirdly elitist in this respect: not only is our leadership coming from these few fancy schools, but we actually have great admiration for them and kind of look up to them.  
 **Translation:** 
 
-**[8925.66s] English:** But I think we'd have a lot healthier of a society if people could prove, you know, their excellence in ways that are coming from completely different streams.  
-**Translation:** Vocabulary: elitist: 精英主义
+**[8925.66s] English:** But I think we'd have a much healthier society if people could prove, you know, their excellence in ways that are coming from completely different streams.  
+**Translation:** Vocabulary: admiration: 敬佩; elitist: 精英主义; weirdly: 怪异地
 
-**[8934.04s] English:** And that are hard.  
+**[8934.04s] English:** And those are hard.  
 **Translation:** 
 
-**[8935.48s] English:** I think if there were highly respected, I sometimes talk about there should be a test that anyone who passes it gets like a, you know, a BA in the humanities that is like a super BA, like something like someone not a GED.  
-**Translation:** 
+**[8935.48s] English:** I think if there were highly respected tests, I sometimes talk about there should be a test that anyone who passes it gets, like, a BA in the humanities—that's kind of like a super BA, you know, something like that but not a GED.  
+**Translation:** Vocabulary: humanities: 人文学科
 
-**[8947.92s] English:** That's not what I'm talking about. I'm talking about something that like, you know, one out of only a couple, like 100 people can pass some other way of actually of not going through these massive, bloated, expensive institutions that people can raise their hands and say, I'm smart and hardworking.  
+**[8947.92s] English:** That's not what I'm talking about. I'm talking about something that, you know, only one out of a couple hundred people can pass—some other way of actually not going through these massive, bloated, expensive institutions that people can raise their hands and say, "I'm smart and hardworking.  
 **Translation:** 
 
 **[8963.22s] English:** I think that could be an incredibly healthy.  
-**Translation:** Vocabulary: bloated: 臃肿的
+**Translation:** Vocabulary: bloated: 臃肿的; hardworking: 勤奋的
 
-**[8965.48s] English:** I think we need additional streams for creative people to be solving problems, whether that's on X or someplace else.  
+**[8965.48s] English:** I think we need additional streams for creative people to be solving problems, whether that's on X or somewhere else.  
 **Translation:** 
 
-**[8971.04s] English:** I think that there's lots of things that technology could do to really help with this.  
-**Translation:** Vocabulary: someplace: 其他地方
+**[8971.04s] English:** I think that there are lots of things that technology could do to really help with this.  
+**Translation:** 
 
 **[8975.46s] English:** I think some of the stuff that Sal Khan is working on at Khan Academy could really help.  
 **Translation:** 
 
-**[8979.72s] English:** So I think there's a lot of ways but they exist largely around coming up with new ways of doing things, not just expecting the old things that have say, $40 billion in the bank that they're going to reform themselves.  
+**[8979.72s] English:** So, I think there are a lot of ways, but they largely exist around coming up with new ways of doing things, not just expecting the old ones, which have, say, $40 billion in the bank, to reform themselves.  
 **Translation:** 
 
 **[8993.52s] English:** And here's my, you know,  
@@ -5107,29 +5108,29 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[8995.24s] English:** I've been picking on Harvard a lot, but I'm going to pick on them a little bit more.  
 **Translation:** 
 
-**[9000.00s] English:** And I talk a lot about class again. And, you know, there's a great book called Poison Ivy by Evan Mandry, which I recommend to everybody. And it's outrageous. It sounds like me on a rant at Stanford, which was, and I think the stat is, you know, elite higher education has more kids from the top 1% than they have from the bottom 50 or 60%, depending on the school.  
+**[9000.00s] English:** And I talk a lot about class again. And, you know, there's a great book called Poison Ivy by Evan Mandry, which I recommend to everybody. And it's outrageous. It sounds like me on a rant at Stanford, which was—and I think the stat is—that elite higher education has more kids from the top 1% than from the bottom 50 or 60%, depending on the school.  
 **Translation:** 
 
-**[9021.64s] English:** Um, and when you look at how much they actually like replicate class privilege, it's, it's really distressing. So everybody should read Poison Ivy.  
-**Translation:** Vocabulary: distressing: 令人担忧; outrageous: 荒谬的
+**[9021.64s] English:** Um, and when you look at how much they actually like to replicate class privilege, it's really distressing. So everyone should read "Poison Ivy.  
+**Translation:** Vocabulary: distressing: 令人不安; outrageous: 荒谬的; poison: 毒草; privilege: 特权; stanford: 斯坦福
 
-**[9030.62s] English:** And above all else, uh, if you're weird, continue being weird.  
+**[9030.62s] English:** And above all else, if you're weird, continue being weird.  
 **Translation:** 
 
-**[9037.72s] English:** And you're one of the most interesting, one of the weirdest in the most beautiful way people have ever met. Greg, thank you for the really important work you do.  
-**Translation:** Vocabulary: weirdest: 最古怪的人
+**[9037.72s] English:** And you're one of the most interesting, one of the weirdest (in the most beautiful way) that people have ever met. Greg, thank you for the really important work you do.  
+**Translation:** Vocabulary: weirdest: 最奇特的
 
 **[9045.80s] English:** This was, this is...  
 **Translation:** 
 
-**[9048.62s] English:** Everybody watch Kid Cosmic.  
+**[9048.62s] English:** Everybody, watch Kid Cosmic.  
 **Translation:** Vocabulary: cosmic: 宇宙的
 
-**[9051.64s] English:** I appreciate the class, the hilarity that you brought here today, man. Um, this is an amazing conversation. Thank you for the work you do. Thank you. Thank you. And for me, who deeply cares about education, higher education, thank you for holding the MITs and the Harvards accountable, uh, for, um, doing right by the people that walk their halls. So thank you so much for talking today.  
+**[9051.64s] English:** I appreciate the class and the hilarity that you brought here today, man. Um, this is an amazing conversation. Thank you for the work you do. Thank you. Thank you. And for me, who deeply cares about education, higher education—thank you for holding MITs and Harvards accountable, uh, for doing right by the people that walk their halls. So thank you so much for talking today.  
 **Translation:** 
 
 **[9075.70s] English:** Thanks for listening to this conversation with Greg Lukianoff. To support this podcast, please check out our sponsors.  
-**Translation:** 
+**Translation:** Vocabulary: harvards: 哈佛; hilarity: 幽默; sponsors: 赞助商
 
 **[9081.64s] English:** In the description. And now, let me leave you with some words from Noam Chomsky.  
 **Translation:** 
@@ -5140,14 +5141,14 @@ Source file: Lex Fridman - Greg Lukianoff： Cancel Culture, Deplatforming, Cens
 **[9092.62s] English:** Gables was in favor of freedom of speech for views he liked.  
 **Translation:** 
 
-**[9096.48s] English:** So was Stalin.  
+**[9096.48s] English:** So, was Stalin.  
 **Translation:** Vocabulary: stalin: 斯大林
 
 **[9097.82s] English:** If you're in favor of freedom of speech, that means you're in favor of freedom of speech precisely for views you despise.  
 **Translation:** 
 
-**[9105.48s] English:** Thank you for listening, and hope to see you next time.  
-**Translation:** 
+**[9105.48s] English:** Thank you for listening. Hope to see you next time.  
+**Translation:** Vocabulary: precisely: 准确地
 
 **[9111.64s] English:** Thank you.  
 **Translation:** 

@@ -1,23 +1,24 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and Cancel Culture ｜ Lex Fridman Podcast #285.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** I hate affirmative action. I don't just disagree with it. I don't just think it's against the 14th Amendment.  
+**[0.00s] English:** I hate affirmative action. I don't just disagree with it; I don't just think it's against the 14th Amendment.  
 **Translation:** 
 
-**[6.38s] English:** I hate it. The hatred comes from an understanding that it is a bandaid, that it is a substitute for the actual development of the capacities of our people to compete.  
-**Translation:** Vocabulary: affirmative: 肯定的; bandaid: 临时措施; capacities: 能力
+**[6.38s] English:** I hate it. The hatred comes from an understanding that it is a Band-Aid, that it is a substitute for the actual development of the capacities of our people to compete.  
+**Translation:** Vocabulary: affirmative: 肯定的; capacities: 能力; substitute: 替代品
 
 **[16.22s] English:** They want to tell African-Americans to pat us on the head. We're going to have a separate program for you.  
 **Translation:** 
 
-**[22.06s] English:** We're going to give you a side door that you can come into. That doesn't make us any smarter.  
+**[22.06s] English:** We're going to give you a side door that you can come in through. That doesn't make us any smarter.  
 **Translation:** 
 
-**[26.22s] English:** It doesn't make us any more creative. And it doesn't make us any more fit for the actual competition that's unfolding before us.  
+**[26.22s] English:** It doesn't make us any more creative, and it doesn't make us any more fit for the actual competition that's unfolding before us.  
 **Translation:** 
 
-**[38.98s] English:** The following is a conversation with Glenn Lowry, professor of economics and social sciences at Brown University.  
-**Translation:** 
+**[38.98s] English:** The following is a conversation with Glenn Lowry, Professor of Economics and Social Sciences at Brown University.  
+**Translation:** Vocabulary: unfolding: 展开
 
 **[45.38s] English:** He is one of the great minds and communicators of our time, writing and speaking about race and inequality.  
 **Translation:** 
@@ -25,19 +26,19 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[52.94s] English:** I highly encourage you to listen to his show.  
 **Translation:** Vocabulary: communicators: 沟通者; inequality: 不平等
 
-**[56.22s] English:** He has a show on YouTube and Substack simply called The Glenn Show.  
+**[56.22s] English:** He has a show on YouTube, and it's simply called "The Glenn Show" on Substack.  
 **Translation:** 
 
 **[60.74s] English:** This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description.  
-**Translation:** Vocabulary: friedman: 莱克斯·弗里德曼; glenn: Glenn; sponsors: 赞助商; substack: 订阅栈
+**Translation:** Vocabulary: friedman: 莱克斯·弗里德曼; glenn: Glenn; sponsors: 赞助商; substack: 订阅平台
 
 **[66.10s] English:** And now, dear friends, here's Glenn Lowry.  
 **Translation:** 
 
-**[70.00s] English:** Martin Luther King, Jr.'s I Have a Dream speech I think is the greatest speech in American history.  
-**Translation:** Vocabulary: lowry: 劳瑞
+**[70.00s] English:** Martin Luther King, Jr.'s "I Have a Dream" speech is, I think, the greatest speech in American history.  
+**Translation:** Vocabulary: lowry: 劳瑞; luther: 路德
 
-**[75.40s] English:** If I may, I'd like to read a few words of it.  
+**[75.40s] English:** If I may, I'd like to read a few words from it.  
 **Translation:** 
 
 **[77.64s] English:** Sure.  
@@ -53,7 +54,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[88.98s] English:** We hold these truths to be self-evident.  
-**Translation:** 
+**Translation:** Vocabulary: creed: 信条
 
 **[91.60s] English:** That all men are created equal.  
 **Translation:** 
@@ -64,7 +65,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[107.00s] English:** I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression,  
 **Translation:** 
 
-**[116.22s] English:** will be transformed into an oasis of freedom and justice.  
+**[116.22s] English:** Will be transformed into an oasis of freedom and justice.  
 **Translation:** Vocabulary: oasis: 绿洲; sweltering: 酷热
 
 **[120.00s] English:** I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character.  
@@ -73,34 +74,34 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[132.22s] English:** I have a dream today.  
 **Translation:** 
 
-**[134.38s] English:** First of all, damn, I mentioned to you offline, I immigrated to America, and this is why I love this country.  
+**[134.38s] English:** First of all, damn, I mentioned to you offline that I immigrated to America, and this is why I love this country.  
 **Translation:** 
 
-**[140.88s] English:** This is one of the great species that represents what this country is about.  
+**[140.88s] English:** This is one of the great species that represents what this country is all about.  
 **Translation:** Vocabulary: immigrated: 移民
 
-**[144.22s] English:** Yeah. So what is this ideal of equality that we should strive for as a nation, this that all men are created equal?  
+**[144.22s] English:** Yeah. So, what is this ideal of equality that we should strive for as a nation—this "that all men are created equal"?  
 **Translation:** 
 
-**[153.20s] English:** What does that mean to you, this equality?  
-**Translation:** 
+**[153.20s] English:** What does that mean to you: this equality?  
+**Translation:** Vocabulary: strive: 努力追求
 
 **[157.12s] English:** Well, if we put this in historical context, King is speaking in 1963 when he gives that speech.  
 **Translation:** 
 
-**[167.14s] English:** It's exactly 100 years after Abraham Lincoln signs the Emancipation.  
-**Translation:** Vocabulary: emancipation: 解放
+**[167.14s] English:** It's exactly 100 years after Abraham Lincoln signed the Emancipation Proclamation.  
+**Translation:** Vocabulary: emancipation: 解放; proclamation: 公告
 
 **[174.22s] English:** Proclamation declaring the enslaved people to be free.  
 **Translation:** 
 
 **[181.20s] English:** They're not yet citizens in 1863.  
-**Translation:** Vocabulary: enslaved: 被奴役; proclamation: 公告
+**Translation:** Vocabulary: enslaved: 被奴役的
 
-**[186.22s] English:** But the end of slavery is has become the position of the federal government when Lincoln issues that Emancipation Proclamation.  
+**[186.22s] English:** But the end of slavery had become the position of the federal government when Lincoln issued the Emancipation Proclamation.  
 **Translation:** 
 
-**[197.50s] English:** So putting it in context, enslaved people, four million or so.  
+**[197.50s] English:** So, putting it in context, there were about four million enslaved people.  
 **Translation:** 
 
 **[204.06s] English:** Afro-Lincoln.  
@@ -112,19 +113,19 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[204.20s] English:** Afro-Lincoln.  
 **Translation:** 
 
-**[204.22s] English:** Afro-Lincoln descended enslaved people.  
-**Translation:** Vocabulary: descended: 后代
+**[204.22s] English:** Afro-Lincoln descended from enslaved people.  
+**Translation:** Vocabulary: descended: 出自
 
 **[207.82s] English:** How do they become citizens?  
 **Translation:** 
 
-**[211.14s] English:** How do they become in this status of subjugation and domination and stigma and exclusion?  
+**[211.14s] English:** How do they become subject to a status of subjugation, domination, stigma, and exclusion?  
 **Translation:** 
 
 **[222.14s] English:** How do they become citizens?  
 **Translation:** 
 
-**[224.20s] English:** It seems to me that that's the that's the heart of it.  
+**[224.20s] English:** It seems to me that that's the heart of it.  
 **Translation:** 
 
 **[228.10s] English:** The equality that King is talking about is an equality of.  
@@ -133,7 +134,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[234.22s] English:** It seems to me that that's the heart of it.  
 **Translation:** 
 
-**[235.78s] English:** Status as members of the nation.  
+**[235.78s] English:** Status as Members of the Nation.  
 **Translation:** 
 
 **[237.92s] English:** The equality of status as members of our state.  
@@ -142,112 +143,112 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[239.36s] English:** As free.  
 **Translation:** 
 
+**[240.00s] English:** And equal citizens within the republic. Now, I think it's really important to understand that.  
+**Translation:** 
+
 **[240.30s] English:** There are two provisions for equality.  
 **Translation:** 
 
-**[242.24s] English:** The first, freedom of the Free Hand reacting to its rights.  
+**[242.24s] English:** The first is freedom of the Free Hand reacting to its rights.  
+**Translation:** Vocabulary: provisions: 规定; reacting: 回应
+
+**[247.90s] English:** Slavery was not merely a legal order, but it was also a social system that had symbolism.  
 **Translation:** 
 
-**[258.86s] English:** And the United States of America continues to spent a huge amount of president's wealth on global has it.  
+**[258.86s] English:** And the United States of America continues to spend a huge amount of its wealth on global health initiatives.  
+**Translation:** Vocabulary: initiatives: 健康项目
+
+**[259.92s] English:** Attached to it. They had a big journey to make from their subjugated status as serfs.  
 **Translation:** 
 
-**[263.74s] English:** I'm curious thinking about it.  
+**[263.74s] English:** I'm curious about it.  
+**Translation:** Vocabulary: serfs: 农奴; subjugated: 被压迫的
+
+**[269.28s] English:** As landless people, as uneducated, unfit for citizenship, really, in the minds of many.  
 **Translation:** 
 
-**[240.00s] English:** and equal citizens within the republic. Now, I think it's really important to understand that  
+**[275.60s] English:** So, I think that's what, in 1963, 100 years later, King is appealing to: this idea that  
+**Translation:** Vocabulary: appealing: 吸引; landless: 无地; uneducated: 文盲
+
+**[285.36s] English:** When Thomas Jefferson, in the Declaration of Independence, wrote these words,  
 **Translation:** 
 
-**[247.90s] English:** slavery was not merely a legal order, but it was also a social system that had the symbolism  
+**[292.02s] English:** All men are created equal, and endowed by their Creator with certain inalienable rights.  
+**Translation:** Vocabulary: endowed: 赋予; inalienable: 不可剥夺的
+
+**[298.68s] English:** He didn't; Thomas Jefferson, a slave owner, didn't have in mind when he wrote those words.  
 **Translation:** 
 
-**[259.92s] English:** attached to it. They had a big journey to make from their subjugated status as serfs,  
-**Translation:** Vocabulary: serfs: 农奴; subjugated: 被压迫
-
-**[269.28s] English:** as landless people, as uneducated, unfit for citizenship, really, in the minds of many.  
-**Translation:** 
-
-**[275.60s] English:** So I think that's what, in 1963, 100 years later, that King is appealing to, this idea that  
-**Translation:** Vocabulary: appealing: 呼吁; landless: 无地; uneducated: 文盲
-
-**[285.36s] English:** when Thomas Jefferson, in the Declaration of Independence, writes these words,  
-**Translation:** 
-
-**[292.02s] English:** all men are created equal and endowed by their creator with certain inalienable rights,  
-**Translation:** Vocabulary: endowed: 赋予; inalienable: 不可剥夺
-
-**[298.68s] English:** he didn't, Thomas Jefferson, a slave owner, didn't have in mind when he wrote those words  
-**Translation:** 
-
-**[306.80s] English:** the people who were slaves. But by the time you get to 1963, King is invoking this idea,  
+**[306.80s] English:** The people who were slaves. But by the time you get to 1963, King is invoking this idea,  
 **Translation:** Vocabulary: invoking: 引用
 
-**[317.70s] English:** all men, and of course he means all persons, he doesn't only mean men, he means men and women,  
+**[317.70s] English:** All men, and of course, he means all persons; he doesn't only mean men, but also women.  
 **Translation:** 
 
-**[324.16s] English:** are created equal. He wants this idea,  
+**[324.16s] English:** All are created equal. He wants this idea.  
 **Translation:** 
 
-**[328.68s] English:** to be embraced by the country in reference to the descendants of the African slaves.  
+**[328.68s] English:** To be embraced by the country in reference to the descendants of African slaves.  
 **Translation:** 
 
-**[334.92s] English:** That's his dream. That's his idea. The legacy of slavery would be erased,  
-**Translation:** Vocabulary: descendants: 后代; embraced: 被接纳; erased: 消除
+**[334.92s] English:** That's his dream. That's his idea. The legacy of slavery would be erased.  
+**Translation:** Vocabulary: descendants: 后代; embraced: 接纳; erased: 消除
 
-**[341.32s] English:** that the position of African Americans would be equalized within the political community,  
+**[341.32s] English:** That the position of African Americans would be equalized within the political community.  
 **Translation:** 
 
-**[348.84s] English:** which is the United States of America. That's my sense of it in any case.  
-**Translation:** 
+**[348.84s] English:** Which is the United States of America. That's my sense of it, in any case.  
+**Translation:** Vocabulary: equalized: 平等化
 
-**[353.48s] English:** So on a very basic level, the worth of a human being is equal.  
+**[353.48s] English:** So, on a very basic level, the worth of a human being is equal.  
 **Translation:** 
 
 **[358.68s] English:** It's just...  
 **Translation:** 
 
-**[360.00s] English:** literally the worth of a human being so i mentioned to you offline that i came from  
+**[360.00s] English:** Literally, the worth of a human being. So, I mentioned to you offline that I came from  
 **Translation:** 
 
-**[365.04s] English:** the soviet union my grandfather fought in world war ii and for hitler the worth of a slavic person  
-**Translation:** Vocabulary: slavic: 斯拉夫人的
+**[365.04s] English:** The Soviet Union: My grandfather fought in World War II, and for Hitler, the worth of a Slavic person.  
+**Translation:** Vocabulary: hitler: 希特勒; slavic: 斯拉夫的
 
-**[377.52s] English:** as they were captured there's different numbers but it's in the hundreds to one german  
+**[377.52s] English:** As they were captured, there's different numbers, but it's in the hundreds, to one German.  
 **Translation:** 
 
-**[383.36s] English:** in terms of the value of the person to the great germany so he wanted germany to expand and  
+**[383.36s] English:** In terms of the value of the person to Great Germany, so he wanted Germany to expand and  
 **Translation:** 
 
-**[392.22s] English:** conquer a large part of the world and within that future world that third reich  
+**[392.22s] English:** Conquer a large part of the world, and within that future world, the Third Reich.  
 **Translation:** 
 
-**[396.80s] English:** the worth of a russian or slavic person is one hundredth or one thousandth of a german person  
+**[396.80s] English:** The worth of a Russian or Slavic person is one-hundredth or one-thousandth of a German person.  
 **Translation:** Vocabulary: reich: 帝国
 
-**[405.76s] English:** of a pure german person so that has to do with not some kind of public policy or politics or  
+**[405.76s] English:** Of a pure German person, so that has to do with not some kind of public policy or politics or  
 **Translation:** 
 
-**[412.16s] English:** all that kind of stuff  
+**[412.16s] English:** All that kind of stuff.  
 **Translation:** 
 
-**[413.04s] English:** it has to do with the basic worth of a human being and that's what dr king is speaking to  
+**[413.04s] English:** It has to do with the basic worth of a human being, and that's what Dr. King is speaking to.  
 **Translation:** 
 
-**[418.30s] English:** that all people on some kind of deep level are worth the same  
+**[418.30s] English:** That, at some kind of deep level, all people are worth the same.  
 **Translation:** 
 
-**[425.36s] English:** if you're somehow weighing uh the value of a person  
+**[425.36s] English:** If you're somehow weighing the value of a person,...  
 **Translation:** 
 
-**[430.10s] English:** we're equal and that's basic fundamental worth yeah i think that's correct i think that's very  
+**[430.10s] English:** We're equal, and that's basic, fundamental worth. Yeah, I think that's correct. I think that's very  
 **Translation:** 
 
-**[437.14s] English:** well said i don't know that he had in mind the position of slavic people in central europe  
+**[437.14s] English:** Well, said I don't know that he had in mind the position of Slavic people in Central Europe.  
 **Translation:** 
 
-**[442.98s] English:** you know i think that's correct i think that's very well said  
+**[442.98s] English:** You know, I think that's correct. I think that's very well said.  
 **Translation:** 
 
-**[443.02s] English:** in the middle of the 20th century or the first part of the 20th century king.  
+**[443.02s] English:** In the middle of the 20th century, or the first part of the 20th century, King.  
 **Translation:** 
 
 **[447.86s] English:** I don't know that he had that in mind.  
@@ -256,16 +257,16 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[449.42s] English:** He might well have done, but certainly that's the idea.  
 **Translation:** 
 
-**[454.22s] English:** So you don't think he was really thinking about this particular civil rights struggle  
+**[454.22s] English:** So, you don't think he was really thinking about this particular civil rights struggle?  
 **Translation:** 
 
-**[459.72s] English:** and the particular struggle against the backdrop of the history of slavery in America  
+**[459.72s] English:** And the particular struggle against the backdrop of the history of slavery in America.  
 **Translation:** 
 
-**[467.60s] English:** and thinking about African Americans.  
+**[467.60s] English:** And thinking about African Americans.  
 **Translation:** Vocabulary: backdrop: 背景
 
-**[469.24s] English:** He wasn't thinking about the basic—he wasn't speaking to the basic worth of all human beings.  
+**[469.24s] English:** He wasn't thinking about the basic— he wasn't speaking to the basic worth of all human beings.  
 **Translation:** 
 
 **[474.88s] English:** No, I don't mean to say that.  
@@ -277,25 +278,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[480.00s] English:** The dream in 1963 at that march was within the context of the United States.  
 **Translation:** 
 
-**[488.28s] English:** And he was it was within the context of the civil rights movement.  
+**[488.28s] English:** And he was; it was within the context of the Civil Rights Movement.  
 **Translation:** 
 
 **[492.22s] English:** There was a movement that was going on.  
 **Translation:** 
 
-**[494.10s] English:** He was an actor in a political drama that was American that had to do with the fight over equal rights for voting, for housing, for employment, for citizenship of blacks in America.  
+**[494.10s] English:** He was an actor in a political drama that was American and had to do with the fight over equal rights for voting, for housing, for employment, and for citizenship of blacks in America.  
 **Translation:** 
 
 **[514.56s] English:** But King was informed, I think, by a much broader Christian ethic of the equality of all persons.  
 **Translation:** 
 
-**[524.10s] English:** I mean, he gets killed in 1968, the five years after that speech in Washington.  
+**[524.10s] English:** I mean, he gets killed in 1968, five years after that speech in Washington.  
 **Translation:** 
 
-**[531.32s] English:** He spends developing his worldview and the things that he had to say, for example, about the war in Southeast Asia that was going on at that time, made appeals to universal principles of equality.  
-**Translation:** 
+**[531.32s] English:** He spent time developing his worldview and the things he had to say, for example, about the war in Southeast Asia, which was going on at that time. He made appeals to universal principles of equality.  
+**Translation:** Vocabulary: appeals: 呼吁; worldview: 世界观
 
-**[551.40s] English:** He was a pacifist to some degree.  
+**[551.40s] English:** He was a pacifist, to some degree.  
 **Translation:** 
 
 **[553.62s] English:** He was.  
@@ -304,26 +305,26 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[554.10s] English:** He was a socialist to some degree.  
 **Translation:** 
 
-**[558.36s] English:** He might not have worn that label publicly, but he believed in a decent society where the poor would not go untended, where health care would be available to people who needed it and this kind of thing.  
-**Translation:** Vocabulary: untended: 无人照料
+**[558.36s] English:** He might not have worn that label publicly, but he believed in a decent society where the poor would not go untended, where healthcare would be available to those who needed it, and this kind of thing.  
+**Translation:** Vocabulary: healthcare: 医疗; untended: 无人照料
 
-**[572.50s] English:** A humanitarian who saw that the value of a life was not dependent upon the color of the skin, upon the native mother tongue that might be spoken.  
+**[572.50s] English:** A humanitarian who saw that the value of a life was not dependent upon the color of the skin, or upon the native mother tongue that might be spoken.  
 **Translation:** 
 
-**[583.38s] English:** He believed that women met signifying and understanding and that they would not be forced by the law, but that white women had the dignity of being complete citizens and not the ugly, too, and that they were not forced by those who had those.  
-**Translation:** Vocabulary: humanitarian: 人道主义者; signifying: 象征意义
+**[583.38s] English:** He believed that women met "signifying" and "understanding," and that they would not be forced by the law. But he also thought that white women had the dignity of being complete citizens, not just "the ugly," and that they were not forced by those who held such views.  
+**Translation:** Vocabulary: dignity: 尊严; humanitarian: 人道主义者; signifying: 象征意义
 
-**[584.22s] English:** He read the first four pages of Martin Luther King'sPodcasts and he wrote.  
+**[584.22s] English:** He read the first four pages of Martin Luther King's podcasts and he wrote.  
 **Translation:** 
 
-**[586.46s] English:** I mean, he was anti-Russians, anti-Russians, anti-Russians, anti-Russians and anti-Russians.  
-**Translation:** 
+**[586.46s] English:** I mean, he was anti-Russian, anti-Russian, anti-Russian, anti-Russian, and anti-Russian.  
+**Translation:** Vocabulary: luther: 路德
 
-**[590.22s] English:** He said, in fact, he allege to the point that when he fights for the law, and it is about the rights of women, it is about the rights of men, the rights of women, and it is about the rights of all people, and it is about the rights of men, of the rights of men, and it is about the rights of women.  
+**[590.22s] English:** He said, in fact, he alleges to the point that when he fights for the law, and it is about the rights of women, the rights of men, the rights of all people.  
 **Translation:** 
 
 **[592.26s] English:** He was more than  
-**Translation:** Vocabulary: allege: 指控
+**Translation:** Vocabulary: alleges: 指控
 
 **[600.00s] English:** What did you learn about human nature by looking at the history of slavery in America?  
 **Translation:** 
@@ -331,29 +332,29 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[607.18s] English:** Oh, my.  
 **Translation:** 
 
-**[608.04s] English:** So what does that tell you about people?  
+**[608.04s] English:** So, what does that tell you about people?  
 **Translation:** 
 
 **[610.56s] English:** Well, I think of two things right off the top of my head.  
 **Translation:** 
 
-**[613.88s] English:** One is about the capacity of people for looking the other way in the face of unethical and morally profoundly problematic practice.  
+**[613.88s] English:** One is about the capacity of people for looking the other way in the face of unethical and morally profoundly problematic practices.  
 **Translation:** 
 
 **[637.76s] English:** So, I mean, slavery was controversial.  
-**Translation:** Vocabulary: profoundly: 深刻地
+**Translation:** Vocabulary: morally: 道德上; profoundly: 深刻地; unethical: 不道德的
 
-**[639.96s] English:** It was controversial going all the way back to the founding of the United States.  
+**[639.96s] English:** It was controversial all the way back to the founding of the United States.  
 **Translation:** 
 
 **[643.88s] English:** The United States of America, the country was founded on a compromise where half of the country thought that slavery was abhorrent and would not have had it countenanced in the Constitution.  
-**Translation:** Vocabulary: abhorrent: 令人厌恶; founding: 创立
+**Translation:** Vocabulary: abhorrent: 令人厌恶; compromise: 妥协; founding: 创立
 
-**[659.26s] English:** The other half of the country were steeped in the dependence on the labor of these African captives and their descendants.  
+**[659.26s] English:** The other half of the country was steeped in the dependence on the labor of these African captives and their descendants.  
 **Translation:** 
 
 **[668.52s] English:** The economy depended upon it.  
-**Translation:** Vocabulary: captives: 被俘者; descendants: 后代
+**Translation:** Vocabulary: captives: 被俘虏的人; descendants: 后代; steeped: 沉浸于
 
 **[670.48s] English:** They owned them as property.  
 **Translation:** 
@@ -364,97 +365,97 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[672.66s] English:** Their wealth was invested.  
 **Translation:** 
 
-**[673.98s] English:** To some degree in the value of these human beings.  
+**[673.98s] English:** To some degree, there is a value in these human beings.  
 **Translation:** 
 
-**[677.82s] English:** And in order for the United States to come together as a confederation of the several colonies, there had to be a compromise made.  
+**[677.82s] English:** And, in order for the United States to come together as a confederation of the several colonies, there had to be a compromise made.  
 **Translation:** 
 
 **[685.90s] English:** And it was made where slavery was allowed to persist.  
-**Translation:** Vocabulary: confederation: 联盟
+**Translation:** Vocabulary: confederation: 联邦; persist: 存在
 
-**[691.16s] English:** And the people who were against it or who thought it morally problematic were able to countenance the practice in the southern states.  
+**[691.16s] English:** And the people who were against it, or who thought it morally problematic, were able to countenance the practice in the Southern states.  
 **Translation:** 
 
-**[702.90s] English:** And that went on for 75 years after the founding of the country until the crisis of the late 1850s that led to the Civil War and ultimately to the emancipation.  
+**[702.90s] English:** And that went on for 75 years after the founding of the country, until the crisis of the late 1850s that led to the Civil War and ultimately to emancipation.  
 **Translation:** Vocabulary: emancipation: 解放
 
-**[716.78s] English:** So one thing I think about human nature.  
+**[716.78s] English:** So, one thing I think about is human nature.  
 **Translation:** 
 
-**[720.00s] English:** from the fact of slavery is that the ability of people to live with terrible, morally questionable  
+**[720.00s] English:** From the fact of slavery, it is clear that the ability of people to live with terrible, morally questionable practices exists.  
+**Translation:** Vocabulary: morally: 道德上
+
+**[730.16s] English:** Practices and have that as a part of their institutions. It took a movement—a massive  
 **Translation:** 
 
-**[730.16s] English:** practices and have that as a part of their institutions. It took a movement, a massive  
-**Translation:** 
-
-**[737.24s] English:** movement of abolitionists struggling against slavery for the better part of a century before  
+**[737.24s] English:** Movement of abolitionists, struggling against slavery for the better part of a century, before  
 **Translation:** Vocabulary: abolitionists: 废奴主义者
 
-**[745.40s] English:** that practice could be eradicated. But the other thing about human nature that I see  
+**[745.40s] English:** That practice could be eradicated, but the other thing about human nature that I see,...  
 **Translation:** 
 
-**[753.56s] English:** is the ability of people to sustain their humanity under the most awful, oppressive conditions.  
-**Translation:** Vocabulary: eradicated: 根除; oppressive: 压迫的
+**[753.56s] English:** Is the ability of people to sustain their humanity under the most awful, oppressive conditions.  
+**Translation:** Vocabulary: eradicated: 根除; oppressive: 压迫的; sustain: 维持
 
-**[764.86s] English:** The enslaved persons, the slaves and their children, I mean, they were chattel. They were  
+**[764.86s] English:** The enslaved persons, the slaves, and their children were chattel. They were  
 **Translation:** 
 
-**[771.90s] English:** bought and sold like horses or cattle.  
-**Translation:** Vocabulary: chattel: 财物; enslaved: 奴隶
+**[771.90s] English:** Bought and sold like horses or cattle.  
+**Translation:** Vocabulary: chattel: 财物; enslaved: 被奴役的
 
-**[775.40s] English:** And yet, they were not, their humanity was not destroyed by that. And they were able  
+**[775.40s] English:** And yet, they were not; their humanity was not destroyed by that. And they were able  
 **Translation:** 
 
-**[783.58s] English:** to sustain their dignity to some degree in such a manner that once emancipation finally  
+**[783.58s] English:** To sustain their dignity to some degree in such a manner that, once emancipation finally  
+**Translation:** Vocabulary: dignity: 尊严; emancipation: 解放
+
+**[791.70s] English:** Did they arrive, the freedmen and women—the persons who had been enslaved and who were set free—?  
 **Translation:** 
 
-**[791.70s] English:** did arrive, the freedmen and women, the persons who had been enslaved and who were set free,  
+**[800.12s] English:** We were able to...  
+**Translation:** Vocabulary: freedmen: 被解放的男性奴隶
+
+**[802.86s] English:** Over the following...  
 **Translation:** 
 
-**[800.12s] English:** were able to…  
-**Translation:** Vocabulary: freedmen: 被解放的男性
-
-**[802.86s] English:** Over the following…  
+**[804.66s] English:** Decades built a foundation for the development of African Americans within the context of American history.  
 **Translation:** 
 
-**[804.66s] English:** decades build a foundation for the development of African Americans within the context of American  
+**[814.06s] English:** Society that eventually culminated in the Civil Rights Movement of the mid-20th century.  
 **Translation:** 
 
-**[814.06s] English:** society that eventually culminated in the civil rights movement of the middle of the 20th century  
-**Translation:** 
-
-**[820.68s] English:** and has led us into the present day so you know human nature can countenance awful evil but human  
+**[820.68s] English:** And it has led us into the present day, so you know, human nature can countenance awful evil, but human  
 **Translation:** Vocabulary: culminated: 达到顶点
 
-**[833.94s] English:** nature can also survive in the face of terrible evil that's what I take from  
+**[833.94s] English:** Nature can also survive in the face of terrible evil—that's what I take from.  
 **Translation:** 
 
 **[840.00s] English:** That survival, that flame can burn even when the world around it tries to put it out.  
 **Translation:** 
 
-**[847.86s] English:** There's still a little flame of human consciousness, of spirit, of culture, of whatever the hell that is that makes humans flourish and makes humans beautiful, that lives on.  
+**[847.86s] English:** There's still a little flame of human consciousness, of spirit, of culture — of whatever the hell that is — that makes humans flourish and makes them beautiful, and that lives on.  
 **Translation:** 
 
 **[860.98s] English:** That's very well said.  
-**Translation:** Vocabulary: flourish: 繁荣
+**Translation:** Vocabulary: consciousness: 觉醒; flourish: 繁荣
 
 **[862.00s] English:** Yeah, I think you put it very well.  
 **Translation:** 
 
 **[863.96s] English:** There's got to be some poetic way of expressing that.  
-**Translation:** 
+**Translation:** Vocabulary: poetic: 诗意的
 
 **[867.98s] English:** Leave it to the poets.  
 **Translation:** 
 
-**[871.54s] English:** What about the people that look the other way?  
+**[871.54s] English:** What about the people who look the other way?  
 **Translation:** 
 
-**[874.48s] English:** How many people do you think, just regular people, knew that something is wrong?  
+**[874.48s] English:** How many people do you think, just regular people, knew that something was wrong?  
 **Translation:** 
 
-**[880.82s] English:** Or do people through generations convince themselves, most people, most regular people, convince themselves that there's nothing wrong?  
+**[880.82s] English:** Or do people through generations convince themselves—most people, most regular people—that there's nothing wrong?  
 **Translation:** 
 
 **[892.20s] English:** Yeah.  
@@ -463,47 +464,47 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[892.88s] English:** I ask this question because I wonder what we're looking the other way on today.  
 **Translation:** 
 
-**[897.98s] English:** Also, because you have to ask yourself these difficult questions of assuming we're the same people we were back then, then we can be flawed in that same kind of way.  
+**[897.98s] English:** Also, because you have to ask yourself these difficult questions of whether we're still the same people we were back then, then we can be flawed in that same kind of way.  
 **Translation:** 
 
-**[914.24s] English:** We can look the other way just as others have in history.  
-**Translation:** 
+**[914.24s] English:** We can look the other way, just as others have in history.  
+**Translation:** Vocabulary: flawed: 有缺陷的
 
-**[919.54s] English:** Yeah, you spoke of the European context and of the Nazis and certainly...  
+**[919.54s] English:** Yeah, you spoke of the European context and of the Nazis, and certainly...  
 **Translation:** 
 
 **[927.98s] English:** A lot of people had to be looking the other way when the massive crimes that were committed by that regime were being undertaken.  
 **Translation:** Vocabulary: nazis: 纳粹; undertaken: 实施
 
-**[936.16s] English:** I mean, railroad cars full of human beings being taken off to be slaughtered or to be worked to death in labor camps or to be gassed, etc.  
+**[936.16s] English:** I mean, railroad cars full of human beings being taken off to be slaughtered, or to be worked to death in labor camps, or to be gassed, etc.  
 **Translation:** 
 
-**[947.68s] English:** A lot of people had to know about what was going on and look the other way or enthusiastically supported the persecution of the Jews.  
+**[947.68s] English:** A lot of people had to know about what was going on, and either looked the other way or enthusiastically supported the persecution of the Jews.  
 **Translation:** Vocabulary: enthusiastically: 热情地; persecution: 迫害; slaughtered: 屠杀
 
-**[957.98s] English:** The Jews and the gypsies and...  
+**[957.98s] English:** The Jews and the Gypsies and...  
 **Translation:** 
 
-**[960.00s] English:** So, and I don't know, I wasn't, you know, I wasn't around in 1840. My sense of the matter is that like many practices that are unjust, most people thought that's just the way it is. I mean, that's the world that they inherited. They were not moralists. They were not revolutionaries. They just wanted to go along.  
+**[960.00s] English:** So, and I don't know; I wasn't, you know, around in 1840. My sense of the matter is that, like many practices that are unjust, most people thought that's just the way it is. I mean, that's the world they inherited. They were not moralists. They were not revolutionaries. They just wanted to go along.  
 **Translation:** Vocabulary: gypsies: 吉普赛人; inherited: 继承; moralists: 道德家; revolutionaries: 革命者
 
-**[981.96s] English:** Uh, some people might've been troubled by it, but thought there's nothing that can be done. Some people might've thought, well, they're these black Africans. They're not really like us. And, you know, they are lucky to be here. If they were in Africa, they'd be worse off still.  
+**[981.96s] English:** Uh, some people might have been troubled by it, but thought there's nothing that can be done. Some people might have thought, well, they're these black Africans. They're not really like us. And, you know, they are lucky to be here. If they were in Africa, they'd be worse off still.  
 **Translation:** 
 
-**[998.14s] English:** Some people might've thought that, uh, some people might've been disturbed, but not been able to see what it is that they could do about it. Uh, they, they might've thought, oh, this is, you know, this is disgusting.  
+**[998.14s] English:** Some people might have thought that, uh, some people might have been disturbed, but not been able to see what it is that they could do about it. They, they might have thought, oh, this is, you know, this is disgusting.  
 **Translation:** 
 
-**[1011.24s] English:** This is, uh, you know, not something I would want to have anything to do with, but, uh, not knowing whether there's any practical way of opposing it. That's why you need a movement. You need for the people who are troubled by the practice to know that there are others like themselves equally troubled.  
+**[1011.24s] English:** This is, uh, you know, not something I would want to have anything to do with, but, uh, not knowing whether there's any practical way of opposing it, that's why you need a movement. You need for the people who are troubled by the practice to know that there are others like themselves, equally troubled.  
 **Translation:** 
 
-**[1033.62s] English:** And as they gather together collectively, they can exert their, their influence. I mean, a debate.  
+**[1033.62s] English:** And as they gather together collectively, they can exert their influence. I mean, in a debate.  
+**Translation:** Vocabulary: exert: 发挥影响力
+
+**[1041.24s] English:** It's about the wrongness of slavery. As I say, go all the way back to the founding of the country. There were abolitionists, and there were people who opposed the compromise that led to the framing documents and institutions that created the United States of America. They opposed the countenancing of slavery in that situation.  
 **Translation:** 
 
-**[1041.24s] English:** It's about the, the wrongness of slavery. As I say, go all the way back to the founding of the country. Uh, there, there were abolitionists and there were people who were, who opposed the compromise that led to the, uh, framing, uh, documents and, uh, institutions that created the United States of America opposed, uh, the countenancing of slavery in that, in that situation.  
-**Translation:** 
-
-**[1065.96s] English:** Um, but it took a while before that could come to, uh, come to a head.  
-**Translation:** Vocabulary: abolitionists: 废奴主义者; founding: 建国
+**[1065.96s] English:** Um, but it took a while before that could come to a head.  
+**Translation:** Vocabulary: abolitionists: 废奴主义者; compromise: 妥协; founding: 建国; framing: 制定
 
 **[1071.24s] English:** And, um, produced the crisis, which ultimately led to the eradication of slavery.  
 **Translation:** 
@@ -511,178 +512,178 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[1078.92s] English:** I would note.  
 **Translation:** Vocabulary: eradication: 根除
 
-**[1080.00s] English:** that slavery is not unique to the United States, it's not unique to the Western hemisphere,  
+**[1080.00s] English:** That slavery is not unique to the United States, it's not unique to the Western Hemisphere,  
 **Translation:** 
 
-**[1088.46s] English:** that enslavement of people, the trafficking in human chattel is something that one sees  
+**[1088.46s] English:** That enslavement of people, the trafficking in human chattel, is something one sees  
 **Translation:** Vocabulary: chattel: 奴隶; enslavement: 奴役; hemisphere: 半球; trafficking: 贩卖
 
-**[1096.14s] English:** on a global basis, one sees it going all the way back to antiquity. So we might ask,  
+**[1096.14s] English:** On a global basis, one sees it going all the way back to antiquity. So, we might ask,  
 **Translation:** 
 
-**[1103.88s] English:** how is it that people finally came to turn their backs and eradicate the practice? That might be  
+**[1103.88s] English:** How is it that people finally came to turn their backs and eradicate the practice? That might be  
 **Translation:** Vocabulary: antiquity: 古代; eradicate: 根除
 
-**[1110.72s] English:** the thing worth really trying to understand, because the practice itself is, you know,  
+**[1110.72s] English:** The thing worth really trying to understand is because the practice itself is, you know,  
 **Translation:** 
 
-**[1116.94s] English:** there's a wonderful book by the sociologist Orlando Patterson called Slavery and Social Death  
+**[1116.94s] English:** There's a wonderful book by the sociologist Orlando Patterson called "Slavery and Social Death.  
 **Translation:** Vocabulary: sociologist: 社会学家
 
-**[1125.06s] English:** that was published in 1982, which is a comprehensive history and social analysis  
+**[1125.06s] English:** That was published in 1982, which is a comprehensive history and social analysis.  
 **Translation:** 
 
-**[1133.06s] English:** of the institution. And it's a book that's been published in 1982, which is a comprehensive  
+**[1133.06s] English:** Of the institution. And it's a book that was published in 1982, which is a comprehensive  
 **Translation:** 
 
-**[1133.86s] English:** history and social analysis of the institution of slavery over 2,500 years, going back to the  
+**[1133.86s] English:** History and social analysis of the institution of slavery over 2,500 years, going back to the  
 **Translation:** 
 
-**[1140.56s] English:** classical Greek and Roman civilizations, finding slavery in Africa amongst Africans, finding  
+**[1140.56s] English:** Classical Greek and Roman civilizations, finding slavery in Africa among Africans, finding  
 **Translation:** Vocabulary: civilizations: 文明
 
-**[1147.96s] English:** slavery in the Middle East, finding slavery in the Far East, finding slavery in South Asia,  
+**[1147.96s] English:** Slavery in the Middle East, finding slavery in the Far East, and finding slavery in South Asia,  
 **Translation:** 
 
-**[1154.60s] English:** the enslavement of people, the practice of taking someone as a captive in war,  
+**[1154.60s] English:** The enslavement of people, the practice of taking someone as a captive in war,  
+**Translation:** Vocabulary: captive: 战俘
+
+**[1159.46s] English:** And then, instead of killing them, which you could do, making them into your  
 **Translation:** 
 
-**[1159.46s] English:** and then instead of killing them, which you could do, making them into your,  
+**[1163.86s] English:** Property was very, very widespread in human culture. So, I'd like to make this point.  
 **Translation:** 
 
-**[1163.86s] English:** property was very, very widespread in human culture. So, I mean, I'd like to make this point  
+**[1172.76s] English:** Sometimes, when people are talking about how wrong slavery was, and I agree without any question.  
 **Translation:** 
 
-**[1172.76s] English:** sometimes when people are talking about how wrong slavery was, and I agree without any question  
+**[1178.48s] English:** That the practice was profoundly morally problematic. But I'd like to make the point that  
+**Translation:** Vocabulary: morally: 道德上; profoundly: 深刻地
+
+**[1187.94s] English:** Given how wrong it was, think about how  
 **Translation:** 
 
-**[1178.48s] English:** that the practice was profoundly morally problematic. But I'd like to make the point that  
+**[1191.16s] English:** Impressive,  
 **Translation:** 
 
-**[1187.94s] English:** given how wrong it was, think about how  
+**[1193.86s] English:** The accomplishment of the eradication of slavery was something. I mean, there were 600  
 **Translation:** 
 
-**[1191.16s] English:** impressive,  
+**[1200.00s] English:** Thousand dead in the war between the states, 1861 to 1865, in a country of 30 million people.  
+**Translation:** Vocabulary: accomplishment: 成就; eradication: 根除
+
+**[1207.96s] English:** That's a lot of dead people, uh, who gave their lives not to eradicate slavery and  
 **Translation:** 
 
-**[1193.86s] English:** was the accomplishment of the eradication of slavery. That was something, I mean, there were 600  
+**[1215.98s] English:** In every instance, probably most of them were just fighting because they enlisted or were drafted.  
+**Translation:** Vocabulary: drafted: 征召; enlisted: 应征; eradicate: 根除
+
+**[1222.98s] English:** Conscripted into the forces, and they fought and they died, but the net effect of their having  
 **Translation:** 
 
-**[1200.00s] English:** thousand dead in the war between the states 1861 to 1865 in a country of 30 million people  
-**Translation:** Vocabulary: eradication: 根除
-
-**[1207.96s] English:** that's a that's a lot of dead people uh who gave their lives not to eradicate slavery and  
+**[1228.92s] English:** Fought and died, uh, was to push along a process that led to the eradication of slavery—that's an  
 **Translation:** 
 
-**[1215.98s] English:** in every instance probably most of them were just fighting for uh you know they enlisted or were  
-**Translation:** Vocabulary: enlisted: 参军
-
-**[1222.98s] English:** conscripted into the forces and they fought and they died but the net effect of their having  
+**[1235.16s] English:** Amazing achievement, uh, the slaves themselves were largely uneducated and, you know, backward in.  
 **Translation:** 
 
-**[1228.92s] English:** fought and died uh was to push along a process that led to the eradication of slavery that's an  
-**Translation:** 
-
-**[1235.16s] English:** amazing achievement uh the slaves themselves were largely uneducated and uh you know backward in  
-**Translation:** 
-
-**[1246.22s] English:** their of course what else could they have been they they were kept in captivity they were  
+**[1246.22s] English:** Their, of course, what else could they have been? They were kept in captivity.  
 **Translation:** Vocabulary: backward: 落后; captivity: 囚禁; uneducated: 未受教育
 
-**[1251.14s] English:** prevented from developing their human potential and yet uh after the end of slavery  
+**[1251.14s] English:** Prevented from developing their human potential, and yet, after the end of slavery,...  
 **Translation:** 
 
-**[1258.22s] English:** that  
+**[1258.22s] English:** That  
 **Translation:** 
 
-**[1258.92s] English:** that population that four million plus african descended people uh became the foundation for  
+**[1258.92s] English:** That population, of four million-plus African-descended people, became the foundation for.  
 **Translation:** 
 
-**[1266.16s] English:** what a century later leads to martin luther king standing in the washington mall and giving that  
+**[1266.16s] English:** What a century later leads to Martin Luther King standing in the Washington Mall and giving that.  
+**Translation:** Vocabulary: luther: 马丁路德
+
+**[1273.16s] English:** Great speech, and now here we are, 150 years down the road, and Barack Obama is President of the United States.  
+**Translation:** 
+
+**[1280.80s] English:** United States; now, he did not descend from slaves. I think we must not lose track of that, but he.  
+**Translation:** Vocabulary: barack: 巴拉克; descend: 后代; obama: 奥巴马
+
+**[1288.92s] English:** Is a part of the great republic, or at least his protest was, in fact, specific and was a part of.  
+**Translation:** 
+
+**[1294.96s] English:** The population, which consisted largely of people who descended from slaves, um, and we are.  
 **Translation:** Vocabulary: descended: 后代
 
-**[1273.16s] English:** great speech and now here we are 150 years down the road and barack obama is president of the  
+**[1301.88s] English:** African-Americans are, for all practical purposes, fully equal citizens of this great republic.  
 **Translation:** 
 
-**[1280.80s] English:** united states now he did not descend from slaves i think we must not lose track of that but he  
-**Translation:** Vocabulary: barack: 巴拉克; obama: 奥巴马
+**[1310.80s] English:** That has happened within a century and a half, and I don't know that you can find any parallel to that.  
+**Translation:** Vocabulary: parallel: 可比的事物
 
-**[1288.92s] English:** is a part of the great republic or at least his protest was uh in fact specific and was a part of  
+**[1316.92s] English:** From human chattel to full citizen.  
 **Translation:** 
 
-**[1294.96s] English:** the population that consisted largely of people who descended from slaves um and uh we are we  
+**[1320.00s] English:** Of the Republic. Anywhere in human history, it's certainly worth celebrating the achievement of.  
+**Translation:** Vocabulary: chattel: 奴隶
+
+**[1327.36s] English:** The eradication of slavery—I would say—and it probably started with a few people.  
 **Translation:** 
 
-**[1301.88s] English:** african-americans are for all practical purposes fully equal citizens of this great republic  
+**[1333.04s] English:** That inside their mind dared to rebel. It's interesting to think about how it all started.  
 **Translation:** 
 
-**[1310.80s] English:** that has happened within a century and a half and i don't know that you can find any parallel to that  
+**[1341.90s] English:** How, in the state of injustice, does the revolution percolate, like how it starts? You said  
 **Translation:** 
 
-**[1316.92s] English:** from human chattel to full citizen.  
+**[1353.16s] English:** People who see something is wrong find each other. It's in the ideas of charismatic individuals.  
+**Translation:** Vocabulary: charismatic: 有魅力的; percolate: 渗透
+
+**[1362.36s] English:** That not only know that something is wrong, but are able to tell others about it and be  
 **Translation:** 
 
-**[1320.00s] English:** of the Republic. Anywhere in human history, it's certainly worth celebrating the achievement of  
+**[1370.32s] English:** Convincing.  
 **Translation:** 
 
-**[1327.36s] English:** the eradication of slavery, I would say. And it probably started with a few people  
+**[1370.84s] English:** And then, together, they gather and rise up. It's interesting to make this kind of incredible.  
 **Translation:** 
 
-**[1333.04s] English:** that inside their mind dared to rebel. It's interesting to think about how it all started,  
-**Translation:** Vocabulary: eradication: 根除
-
-**[1341.90s] English:** how in the state of injustice, the revolution percolates, like where it starts. You said  
+**[1377.26s] English:** Progress from slavery to where we are today, to live out the ideal that all men are created equal.  
 **Translation:** 
 
-**[1353.16s] English:** people that see something is wrong find each other. It's in the ideas of charismatic individuals  
-**Translation:** Vocabulary: charismatic: 有魅力的; percolates: 渗透
-
-**[1362.36s] English:** that not only know that something is wrong, but are able to tell others about it and be  
-**Translation:** 
-
-**[1370.32s] English:** convincing.  
-**Translation:** 
-
-**[1370.84s] English:** And then together gather and rise up. It's interesting to make this kind of incredible  
-**Translation:** 
-
-**[1377.26s] English:** progress from slavery to where we are today, to live out the ideal of this all men are  
-**Translation:** 
-
-**[1382.86s] English:** created equal. The power of individual, because I don't know what you think about it, but  
+**[1382.86s] English:** Created equal. The power of individual, because I don't know what you think about it, but...  
 **Translation:** 
 
 **[1390.12s] English:** I tend to think that a few small individuals probably originated this. It's the power of  
 **Translation:** Vocabulary: originated: 起源于
 
-**[1397.42s] English:** the individual, because sometimes we think there's injustice in the world, what can I  
+**[1397.42s] English:** The individual, because sometimes we think there's injustice in the world, what can I?  
 **Translation:** 
 
-**[1400.68s] English:** possibly do?  
+**[1400.68s] English:** Possibly, do?  
 **Translation:** 
 
-**[1400.84s] English:** But I tend to think one person can be the seed of starting to fix the injustice.  
+**[1400.84s] English:** But I tend to think that one person can be the seed for starting to fix the injustice.  
 **Translation:** 
 
-**[1408.46s] English:** Sure. One person here, one person there. Yeah. One thinks, of course, of Frederick Douglass,  
-**Translation:** 
+**[1408.46s] English:** Sure. One person here, one person there. Yeah. One thinks, of course, of Frederick Douglass.  
+**Translation:** Vocabulary: douglass: 弗雷德里克·道格拉斯
 
-**[1418.84s] English:** this massively significant figure who was born in slavery, who stole his freedom. And  
+**[1418.84s] English:** This massively significant figure, who was born in slavery and stole his freedom, and  
 **Translation:** 
 
 **[1428.74s] English:** I think that's a very important figure. I think that's a very important figure. I think that's a  
-**Translation:** Vocabulary: massively: 大规模地
+**Translation:** Vocabulary: massively: 巨大地
 
-**[1430.82s] English:** very important figure. I think that's a very important figure. I think that's a very important figure.  
+**[1430.82s] English:** Very important figure. I think that's a very important figure. I think that's a very important figure.  
 **Translation:** 
 
-**[1431.28s] English:** Because he was property, and he decided he was not going to be property anymore. And he took it  
+**[1431.28s] English:** Because he was property, and he decided he was not going to be property anymore. And he took it.  
 **Translation:** 
 
-**[1435.38s] English:** unto himself to emancipate himself personally. And who  
+**[1435.38s] English:** To emancipate himself personally, and who  
 **Translation:** 
 
-**[1440.00s] English:** Became an educated, powerfully articulate, massively influential person in the United States and in England, going around presenting himself as an embodiment of human dignity and commitment to ideals of equality.  
+**[1440.00s] English:** Became an educated, powerfully articulate, and massively influential person in the United States and in England, going around presenting himself as an embodiment of human dignity and commitment to ideals of equality.  
 **Translation:** 
 
 **[1464.04s] English:** And, you know, I mean, he's just one person, but there were others like him.  
@@ -691,25 +692,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[1470.40s] English:** Just one person. All it takes is just one person.  
 **Translation:** 
 
-**[1473.64s] English:** So here we are on this topic of equality in the 21st century.  
+**[1473.64s] English:** So, here we are on the topic of equality in the 21st century.  
 **Translation:** 
 
-**[1482.56s] English:** So what does equality mean today?  
+**[1482.56s] English:** So, what does equality mean today?  
 **Translation:** 
 
-**[1484.74s] English:** If you start to think about this idea of equality of outcome.  
+**[1484.74s] English:** If you start to think about the idea of equality of outcome.  
 **Translation:** 
 
-**[1490.18s] English:** Or the injustice of inequality, at which point does equality of outcome is just, at which point is it unjust?  
+**[1490.18s] English:** Or the injustice of inequality, at which point does equality of outcome become just, at which point is it unjust?  
 **Translation:** Vocabulary: inequality: 不平等
 
-**[1503.56s] English:** Sort of looking at our world today and looking at inequality.  
+**[1503.56s] English:** Sorting through our world today, and looking at inequality.  
 **Translation:** 
 
-**[1508.46s] English:** How do we know that some inequality is a sign of injustice and some is the way of life?  
-**Translation:** 
+**[1508.46s] English:** How do we know that some inequality is a sign of injustice, and some is just the way of life?  
+**Translation:** Vocabulary: sorting: 分类
 
-**[1516.14s] English:** So what does equality mean when we look at the world today?  
+**[1516.14s] English:** So, what does equality mean when we look at the world today?  
 **Translation:** 
 
 **[1519.46s] English:** Different from what we know today.  
@@ -718,8 +719,8 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[1520.16s] English:** Different from what we know today.  
 **Translation:** 
 
-**[1520.18s] English:** I don't think King's speech, I have a dream that one day my four little children will be judged not by the color of their skin, but by the content of their character, requires equality of outcome.  
-**Translation:** 
+**[1520.18s] English:** I don't think King's "I Have a Dream" speech, in which he envisioned a day when his four little children would be judged "not by the color of their skin, but by the content of their character," requires equality of outcome.  
+**Translation:** Vocabulary: envisioned: 想象
 
 **[1539.76s] English:** He says his children will be judged by the content of their character.  
 **Translation:** 
@@ -730,23 +731,38 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[1546.22s] English:** That is, the judgment will depend upon the content of their character.  
 **Translation:** 
 
-**[1550.16s] English:** Not the color of their skin, but it doesn't follow from that, that the outcomes, whatever outcomes we.  
+**[1550.16s] English:** Not the color of their skin, but it doesn't follow from that that the outcomes; whatever outcomes we see,  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[1560.00s] English:** Considered wealth and economic power, position within the society, representation in the various  
 **Translation:** 
 
-**[1560.70s] English:** I think when you touch that point, you understand this a little better than you do.  
+**[1560.70s] English:** I think when you touch that point, you understand it a little better than you do.  
 **Translation:** 
 
-**[1568.10s] English:** So we see if the program, you know, Bobby and Frank, private money, he understands it completely extremely correctly, but it means that he, it tells the whole story.  
-**Translation:** Vocabulary: bobby: 鲍比
-
-**[1574.78s] English:** It means that expert decisions and it tells approaches that he...  
+**[1568.10s] English:** So, we see that if the program is explained to Bobby and Frank, who understand it completely and extremely correctly with private money, it means that they tell the whole story.  
 **Translation:** 
 
-**[1580.06s] English:** In the book they use, as in old yummy me say, in the book when you how you how you joke, you call it a joke.  
+**[1568.42s] English:** Professions, the various measures of social achievement do not always follow from simply judging by the  
+**Translation:** Vocabulary: bobby: 鲍比; professions: 职业
+
+**[1574.78s] English:** It means that expert decisions and it tells approaches that he... (It appears there might be a missing word or context at the end of the sentence.)  
+**Translation:** 
+
+**[1576.34s] English:** Content of character and that color of skin—that when we look at the end of the day in terms of social  
+**Translation:** Vocabulary: approaches: 方法
+
+**[1580.06s] English:** In the book, they use, as in "old yummy me" said, in the book, when you how you joke, you call it a joke.  
+**Translation:** 
+
+**[1582.16s] English:** Outcomes should be equal across different groups, in fact, I think there is.  
 **Translation:** 
 
 **[1588.46s] English:** So.  
 **Translation:** 
+
+**[1588.50s] English:** Contradiction in the idea that groups will be equal in all various social outcomes, that  
+**Translation:** Vocabulary: contradiction: 矛盾
 
 **[1589.16s] English:** So.  
 **Translation:** 
@@ -757,304 +773,289 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[1589.86s] English:** So.  
 **Translation:** 
 
-**[1560.00s] English:** considered wealth and economic power, position within the society, representation in the various  
+**[1594.08s] English:** They will be equally successful in business, that they will be proportionately represented in the  
+**Translation:** Vocabulary: proportionately: 按比例
+
+**[1600.98s] English:** Various professions, that they will have the same educational achievement, that the  
 **Translation:** 
 
-**[1568.42s] English:** professions, the various measures of social achievement doesn't follow from judging by the  
-**Translation:** 
-
-**[1576.34s] English:** content of character and that color of skin, that when we look at the end of the day at the social  
-**Translation:** 
-
-**[1582.16s] English:** outcomes, that they will be equal across the different groups. In fact, I think there's a  
-**Translation:** 
-
-**[1588.50s] English:** contradiction in the idea that groups will be equal in all the various social outcomes, that  
-**Translation:** 
-
-**[1594.08s] English:** they will be equally successful in business, that they will be proportionately represented in the  
-**Translation:** Vocabulary: contradiction: 矛盾; proportionately: 按比例
-
-**[1600.98s] English:** various professions, that they will have the same educational achievement, that the  
-**Translation:** 
-
-**[1606.78s] English:** occupational profiles will look the same. If they are, in fact, distinct groups with their own  
+**[1606.78s] English:** Occupational profiles will look the same. If they are, in fact, distinct groups with their own  
 **Translation:** Vocabulary: occupational: 职业的; profiles: 特征
 
-**[1615.88s] English:** cultural traditions and practices,  
+**[1615.88s] English:** Cultural traditions and practices,  
 **Translation:** 
 
-**[1618.50s] English:** with their own ideals and norms, various immigrant populations, people coming to the United States of  
+**[1618.50s] English:** With their own ideals and norms, various immigrant populations, people coming to the United States of America,  
 **Translation:** Vocabulary: immigrant: 移民
 
-**[1627.72s] English:** America from all corners of the world, the descendants of the African slaves, the Black  
+**[1627.72s] English:** America: from all corners of the world, the descendants of African slaves, the Black.  
 **Translation:** 
 
 **[1635.74s] English:** Americans here today, who are ourselves various with different origins and so on, the different  
 **Translation:** Vocabulary: descendants: 后代
 
-**[1642.64s] English:** religious practices and commitments that Jewish or Mormon or  
+**[1642.64s] English:** Religious practices and commitments, such as those of Jews or Mormons, or  
 **Translation:** 
 
-**[1648.50s] English:** Christian or whatever. However we parcel up the total population into the various groups,  
-**Translation:** Vocabulary: mormon: Mormons
+**[1648.50s] English:** Christian, or however we parcel up the total population into various groups,  
+**Translation:** Vocabulary: mormons: 摩门教徒; parcel: 划分
 
-**[1658.76s] English:** these groups are themselves different from one another. They have different norms within their  
+**[1658.76s] English:** These groups are themselves different from one another. They have different norms within their respective cultures.  
 **Translation:** 
 
-**[1665.76s] English:** own cultural practice. How would we expect if, in fact, we recognize that the groups are  
+**[1665.76s] English:** Own cultural practice. How would we expect it to be if, in fact, we recognize that the groups are  
 **Translation:** 
 
-**[1672.24s] English:** different from one another, that in a world that is fair, they would all come out  
+**[1672.24s] English:** Different from one another, in a world that is fair, they would all come out.  
 **Translation:** 
 
-**[1678.50s] English:** equally represented?  
+**[1678.50s] English:** Equally represented?  
 **Translation:** 
 
-**[1680.00s] English:** in every undertaking. They're not equally represented. And that fact, I'm arguing,  
+**[1680.00s] English:** In every undertaking, they're not equally represented. And that fact, I'm arguing,  
 **Translation:** 
 
-**[1685.64s] English:** is in and of itself insufficient to justify the conclusion that they're not somehow being  
-**Translation:** Vocabulary: insufficient: 不足的; undertaking: 着手做某事
+**[1685.64s] English:** Is, in and of itself, insufficient to justify the conclusion that they're not somehow being.  
+**Translation:** Vocabulary: justify: 证明...合理; undertaking: 任务
 
-**[1693.28s] English:** fairly treated. Fair treatment doesn't imply equal outcomes in a world in which  
+**[1693.28s] English:** Fair treatment doesn't imply equal outcomes in a world in which.  
 **Translation:** 
 
-**[1699.58s] English:** the populations in question are themselves different with respect to their culture,  
+**[1699.58s] English:** The populations in question are themselves different with respect to their culture.  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[1704.68s] English:** Their practices, their norms, their traditions, their beliefs, and their ideals.  
 **Translation:** 
 
-**[1704.68s] English:** their practices, their norms, their traditions, their beliefs, their ideals.  
+**[1710.00s] English:** And so on. The fact is that there are different norms, traditions, and beliefs,  
 **Translation:** 
 
-**[1710.00s] English:** And so on. The fact of those different norms, traditions, beliefs,  
+**[1714.60s] English:** Cultural orientations and ideals will have consequences in terms of their different  
 **Translation:** 
 
-**[1714.60s] English:** cultural orientations, and ideals will have consequences in terms of their different  
-**Translation:** 
-
-**[1721.36s] English:** social outcomes. So I just think it's a mistake that people are making when they think  
+**[1721.36s] English:** Social outcomes. So, I just think it's a mistake that people are making when they think  
 **Translation:** Vocabulary: orientations: 价值观导向
 
-**[1728.60s] English:** fairness of treatment implies equality of outcomes. It does not. Is the process by which  
+**[1728.60s] English:** Fairness of treatment implies equality of outcomes. It does not; is the process by which  
 **Translation:** 
 
-**[1739.32s] English:** we're...  
-**Translation:** 
+**[1739.32s] English:** We're...  
+**Translation:** Vocabulary: implies: 意味着
 
 **[1740.00s] English:** We're speaking now in the midst of the National Basketball Association's playoffs.  
 **Translation:** 
 
-**[1747.42s] English:** I confess to being a Boston Celtics fan. I mean, I'm just... It's a very good team,  
-**Translation:** Vocabulary: playoffs: 季后赛
+**[1747.42s] English:** I confess to being a Boston Celtics fan. I mean, I'm just... It's a very good team.  
+**Translation:** Vocabulary: confess: 承认; playoffs: 季后赛
 
-**[1753.52s] English:** and I'm excited about my Celtics. We defeated the Brooklyn Nets. I mean, we defeated Kevin Durant  
+**[1753.52s] English:** And I'm excited about my Celtics. We defeated the Brooklyn Nets. I mean, we defeated Kevin Durant.  
 **Translation:** 
 
-**[1764.98s] English:** and Kyrie Irving and company, okay, in a playoffs.  
-**Translation:** Vocabulary: durant: 杜兰特; irving: 欧文; kyrie: Kyrie
+**[1764.98s] English:** And Kyrie Irving and company, okay, in the playoffs.  
+**Translation:** Vocabulary: brooklyn: 布鲁克林; defeated: 击败; durant: 杜兰特; irving: 欧文; kyrie: Kyrie
 
-**[1770.00s] English:** We whipped them. And we're on our way to the Eastern Conference Finals, and we're on our way  
+**[1770.00s] English:** We whipped them. And we're on our way to the Eastern Conference Finals, and we're on our way.  
 **Translation:** 
 
-**[1778.52s] English:** to the NBA Finals. And if I were a betting man, I'd put down a few bucks that the Boston Celtics,  
-**Translation:** Vocabulary: bucks: 赌注
+**[1778.52s] English:** To the NBA Finals. And if I were a betting man, I'd put down a few bucks that the Boston Celtics,  
+**Translation:** Vocabulary: bucks: 赌注; whipped: 击败
 
-**[1785.72s] English:** underrated as we are, have a very good chance of winning the NBA Finals.  
+**[1785.72s] English:** Underrated as we are, we have a very good chance of winning the NBA Finals.  
 **Translation:** 
 
-**[1790.68s] English:** Okay, so that's the NBA. That's the National Basketball Association. I'm a sports fan. I  
+**[1790.68s] English:** Okay, so that's the NBA: the National Basketball Association. I'm a sports fan. I  
 **Translation:** 
 
-**[1794.38s] English:** like basketball. Slightly biased prediction, but yes. Yeah, it is somewhat biased.  
+**[1794.38s] English:** Like basketball. Slightly biased prediction, but yes. Yeah, it is somewhat biased.  
 **Translation:** 
 
-**[1800.00s] English:** saying is if you take a look at who the star players are in the national basketball association  
+**[1800.00s] English:** Saying is that if you take a look at who the star players are in the National Basketball Association,  
+**Translation:** Vocabulary: biased: 有偏见的
+
+**[1805.92s] English:** You're going to find that there are some Eastern Europeans, you know, there's some really good.  
 **Translation:** 
 
-**[1805.92s] English:** you're going to find that there's some eastern europeans you know there's some really good  
+**[1810.96s] English:** Basketball players coming out of Eastern Europe, you know, and more power to them. Um, and  
 **Translation:** 
 
-**[1810.96s] English:** basketball players coming out of uh eastern europe you know and more power to them um and  
+**[1817.20s] English:** There are a lot of African Americans; uh, we're overrepresented. They're not that many Jews.  
 **Translation:** 
 
-**[1817.20s] English:** there are a lot of african americans uh we're overrepresented uh they're not that many jews  
+**[1823.10s] English:** As far as I know, no offense intended, Lex, but I mean the NBA is not equally representative.  
 **Translation:** 
 
-**[1823.10s] English:** as far as i know no offense intended there lex but i mean the nba is not equally representative  
-**Translation:** Vocabulary: overrepresented: 比例过高
-
-**[1833.68s] English:** of all of the different populations in the united states now we could go into the reasons why but  
+**[1833.68s] English:** Of all the different populations in the United States, now we could go into the reasons why, but  
 **Translation:** 
 
-**[1839.20s] English:** i'm just saying the process by which you get to be playing in the nba is fair if you can play  
+**[1839.20s] English:** I'm just saying the process by which you get to be playing in the NBA is fair if you can play.  
 **Translation:** 
 
-**[1845.30s] English:** you can get on the court that they all they're looking for is people who can play i think  
+**[1845.30s] English:** You can get on the court; that's all they're looking for: people who can play, I think.  
 **Translation:** 
 
-**[1851.50s] English:** something like that is true  
+**[1851.50s] English:** Something like that is true.  
 **Translation:** 
 
-**[1853.10s] English:** in many different venues i expect if you're a really good technical engineer companies are  
+**[1853.10s] English:** In many different venues, I expect that if you're a really good technical engineer, companies are  
 **Translation:** 
 
-**[1862.12s] English:** going to employ you uh and if you can make money they're going to advance you and and you will be  
+**[1862.12s] English:** Going to employ you, uh, and if you can make money, they're going to advance you, and you will be.  
+**Translation:** Vocabulary: employ: 雇佣; venues: 场所
+
+**[1868.26s] English:** Able to rise to the top of that profession, I expect that the people who are engaged in  
 **Translation:** 
 
-**[1868.26s] English:** able to uh rise to the top of that profession i i expect that the people who are uh engaged in  
+**[1875.60s] English:** Financial transactions, who are actually making bets on the market by and large, are the people,  
 **Translation:** 
 
-**[1875.60s] English:** financial transactions who are actually making bets on the market by and large are the people  
+**[1881.50s] English:** Who are good?  
 **Translation:** 
 
-**[1881.50s] English:** who are good  
+**[1882.64s] English:** You.  
 **Translation:** 
 
-**[1882.64s] English:** you  
+**[1883.10s] English:** At that activity, and if you're good at that activity in this modern world,  
 **Translation:** 
 
-**[1883.10s] English:** , at that activity and if you're good at that activity in this world in this modern world  
-**Translation:** 
-
-**[1887.86s] English:** you're gonna rise to uh rise to the top um i'm not saying that there are no barriers  
+**[1887.86s] English:** You're gonna rise to the top, um, I'm not saying that there are no barriers.  
 **Translation:** Vocabulary: barriers: 障碍
 
-**[1896.10s] English:** of discrimination of course of course there are of many different sorts but i'm saying that to  
+**[1896.10s] English:** Of course, of course, there are many different sorts, but I'm saying that to  
 **Translation:** 
 
-**[1901.54s] English:** expect that there would be okay i mean let's look at who's actually writing code let's look at who's  
+**[1901.54s] English:** Expect that there would be, okay? I mean, let's look at who's actually writing the code; let's look at who's  
 **Translation:** 
 
-**[1906.82s] English:** actually trading bonds so let's look at uh who's who's actually starting businesses  
+**[1906.82s] English:** Actually, they're trading bonds, so let's look at who's actually starting businesses.  
 **Translation:** 
 
-**[1913.10s] English:** um and so on to say that if that in a fair world i would expect that if blacks are 10 of the population  
+**[1913.10s] English:** Um, and so on to say that if, in a fair world, I would expect that if blacks are 10% of the population,  
 **Translation:** 
 
-**[1920.00s] English:** Maybe 10 percent of every one of those things is to ignore the reality that the differences in the culture and practices and norms of the various population groups will lead to differences in their representation amongst people who are outstanding performers in one or another activity.  
+**[1920.00s] English:** Maybe 10 percent of every one of those things is to ignore the reality that the differences in the culture, practices, and norms of the various population groups will lead to differences in their representation among people who are outstanding performers in one or another activity.  
 **Translation:** 
 
-**[1939.64s] English:** How do you know if the difference in culture accounts for the difference in outcomes or it's the existence of barriers, especially barriers early on in life of discrimination that are racially based?  
-**Translation:** Vocabulary: racially: 种族上
+**[1939.64s] English:** How do you know if the difference in culture accounts for the difference in outcomes, or is it the existence of barriers, especially those early-on-in-life barriers of racial discrimination?  
+**Translation:** Vocabulary: outcomes: 结果
 
-**[1955.06s] English:** So if you think about affirmative action, in which ways is affirmative action empowering?  
+**[1955.06s] English:** So, if you think about affirmative action, in which ways is it empowering?  
 **Translation:** 
 
-**[1964.68s] English:** In which way is it limiting?  
+**[1964.68s] English:** In what way is it limiting?  
 **Translation:** Vocabulary: affirmative: 肯定的; empowering: 赋权的
 
-**[1967.42s] English:** For these early development of the...  
+**[1967.42s] English:** For these early developments of the...  
 **Translation:** 
 
 **[1969.62s] English:** Of the different groups, but let's just speak to African-Americans.  
 **Translation:** 
 
-**[1973.00s] English:** We should say that you went to some no-name Northwestern University at first, but then you ended up with a great university of MIT.  
+**[1973.00s] English:** We should say that you went to some no-name Northwestern University at first, but then you ended up at a great university like MIT.  
 **Translation:** 
 
-**[1981.54s] English:** So that's your, not early, but middle development.  
+**[1981.54s] English:** So that's your middle development, not early.  
 **Translation:** 
 
-**[1986.90s] English:** So speaking of the development, the opportunities, the equality of opportunity, how do we know we got that equality right?  
+**[1986.90s] English:** So, speaking of development, opportunities, and equality of opportunity, how do we know we've got that equality right?  
 **Translation:** 
 
-**[1996.66s] English:** Yeah, I'm glad you put it like that.  
+**[1996.66s] English:** Yeah, I'm glad you put it that way.  
 **Translation:** 
 
 **[1999.02s] English:** We were talking about results.  
 **Translation:** 
 
-**[2000.62s] English:** Now we're talking about opportunity.  
+**[2000.62s] English:** Now, we're talking about opportunity.  
 **Translation:** 
 
-**[2001.82s] English:** I was taking a position that when King says, I have a dream and he envisions a world where his children will not be barred from the good things in life because of the color of their skin.  
+**[2001.82s] English:** I was taking the position that when King says "I have a dream," and he envisions a world where his children will not be barred from the good things in life because of the color of their skin.  
 **Translation:** 
 
 **[2016.54s] English:** We're talking about opportunity, not about results.  
 **Translation:** Vocabulary: envisions: 想象
 
-**[2022.44s] English:** But opportunity is not just something that depends upon what the law is and what public opinion is.  
+**[2022.44s] English:** But, opportunity is not just something that depends upon what the law is and what public opinion is.  
 **Translation:** 
 
-**[2028.90s] English:** Our opportunity also depends upon the social conditions in which people are raised, the social and economic conditions.  
+**[2028.90s] English:** Our opportunity also depends upon the social conditions in which people are raised, as well as the social and economic conditions.  
 **Translation:** 
 
-**[2038.12s] English:** So the child...  
+**[2038.12s] English:** So, the child...  
 **Translation:** 
 
-**[2040.00s] English:** of a poor family that has no resources, it doesn't have the same opportunity as a child  
+**[2040.00s] English:** Of a poor family that has no resources, it doesn't have the same opportunities as a child.  
 **Translation:** 
 
-**[2046.80s] English:** of a wealthy family to realize their full human potential. You asked me, how can we tell whether  
+**[2046.80s] English:** Of a wealthy family to realize their full human potential. You asked me, "How can we tell whether  
 **Translation:** 
 
-**[2053.60s] English:** or not a difference in outcomes is a reflection of unequal opportunity, or it's a reflection of  
-**Translation:** Vocabulary: unequal: 不公平
+**[2053.60s] English:** Or is a difference in outcomes a reflection of unequal opportunity, or is it a reflection of  
+**Translation:** Vocabulary: outcomes: 结果; unequal: 不平等; wealthy: 富有
 
-**[2062.16s] English:** differences in culture and interest and practice? And I don't know that there's a single answer to  
+**[2062.16s] English:** Differences in culture, interest, and practice? And I don't know that there's a single answer to.  
 **Translation:** 
 
-**[2069.66s] English:** that question, but I think one wants to look at the data. One wants to try to measure,  
+**[2069.66s] English:** That question, but I think one wants to look at the data. One wants to try to measure,  
 **Translation:** 
 
-**[2077.18s] English:** you know, as a social scientist, I would say what you want to do is you want to estimate  
+**[2077.18s] English:** You know, as a social scientist, I would say what you want to do is estimate,...  
 **Translation:** 
 
-**[2084.70s] English:** the significance of various factors for determining the outcome. If the outcome is  
+**[2084.70s] English:** The significance of various factors for determining the outcome. If the outcome is  
+**Translation:** Vocabulary: estimate: 估算
+
+**[2089.30s] English:** How much money does a person make when they work in the labor market? So, you look at their wages.  
 **Translation:** 
 
-**[2089.30s] English:** how much money does a person make when they work in the labor market, so you look at their wages  
+**[2094.78s] English:** And you think, well, that depends upon a number of things. It depends upon  
 **Translation:** 
 
-**[2094.78s] English:** and you think, well, that depends upon a number of things. It depends upon  
+**[2099.32s] English:** The...  
 **Translation:** 
 
-**[2099.32s] English:** the...  
+**[2099.66s] English:** How educated they are, what kinds of skills they have, and what kind of work experience they have,  
 **Translation:** 
 
-**[2099.66s] English:** how educated they are, what kind of skills they have, what kind of work experience they have,  
+**[2105.64s] English:** And so on, and those things are all legitimate factors that might determine how much they end.  
 **Translation:** 
 
-**[2105.64s] English:** and so on. And those things are all legitimate factors that might determine how much they end  
+**[2113.42s] English:** Up in the labor market, but you also want to perhaps control for those things.  
+**Translation:** Vocabulary: legitimate: 正当的
+
+**[2119.56s] English:** See whether or not the fact that they are Black or Latino or whatever,  
 **Translation:** 
 
-**[2113.42s] English:** up making in the labor market. But you also want to perhaps, controlling for those things,  
-**Translation:** 
-
-**[2119.56s] English:** see whether or not the fact that they are Black or they are Latino or whatever,  
-**Translation:** 
-
-**[2125.24s] English:** or the fact that they are male or that they are female, the fact that they do or do not speak  
+**[2125.24s] English:** Or the fact that they are male or female, that they do or do not speak,  
 **Translation:** Vocabulary: latino: 拉丁美洲人
 
-**[2131.18s] English:** English as their native language, this kind of thing, whether those factors also are implicated  
+**[2131.18s] English:** English as their native language, this kind of thing; whether those factors are also implicated.  
 **Translation:** 
 
-**[2138.48s] English:** in determining how successful they are in the labor market. And if you find that  
+**[2138.48s] English:** In determining how successful they are in the labor market, and if you find that  
 **Translation:** Vocabulary: implicated: 牵涉
 
-**[2143.84s] English:** after you have controlled for the things that are legitimately determining success and failure in  
+**[2143.84s] English:** After you have controlled for the things that are legitimately determining success and failure,  
 **Translation:** 
 
-**[2152.24s] English:** the labor market, like skills and education,  
+**[2152.24s] English:** The labor market, like skills and education,  
 **Translation:** Vocabulary: legitimately: 正当地
 
-**[2155.24s] English:** and experience, having controlled for those things, the fact that a person is Black,  
+**[2155.24s] English:** And, after controlling for those things, the fact that a person is Black,  
 **Translation:** 
 
-**[2160.00s] English:** or is a woman or is an immigrant or is of Latino background also affects their earnings,  
+**[2160.00s] English:** Or being a woman, or an immigrant, or of Latino background also affects their earnings.  
+**Translation:** Vocabulary: earnings: 收入; immigrant: 移民
+
+**[2171.60s] English:** Then you might conclude that, to that extent, they are not getting equal opportunity in the labor market—that kind of idea.  
 **Translation:** 
 
-**[2171.60s] English:** then you might conclude that to that extent, they are not getting equal opportunity in the labor market, that kind of idea.  
+**[2178.48s] English:** But I want to focus a little bit more here on what we mean by opportunity.  
 **Translation:** 
 
-**[2178.48s] English:** But I want to focus a little bit more here on what we mean by opportunity,  
+**[2183.54s] English:** Because it's not just whether employers treat the worker on a fair and even basis,  
 **Translation:** 
 
-**[2183.54s] English:** because it's not just whether employers treat the worker on a fair and even basis,  
-**Translation:** 
-
-**[2192.86s] English:** irregardless of the worker's racial or ethnic background.  
+**[2192.86s] English:** Irrespective of the worker's racial or ethnic background.  
 **Translation:** 
 
 **[2196.46s] English:** That's one opportunity issue, but that's at the end of the development process.  
@@ -1066,7 +1067,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[2210.86s] English:** That's the end of the line.  
 **Translation:** 
 
-**[2212.04s] English:** And what about the developmental opportunity, the opportunity to acquire skills in the first place?  
+**[2212.04s] English:** And what about the developmental opportunity—the opportunity to acquire skills in the first place?  
 **Translation:** 
 
 **[2218.48s] English:** That goes all the way back. That goes all the way back to birth.  
@@ -1075,25 +1076,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[2221.56s] English:** It even goes back to before birth.  
 **Translation:** 
 
-**[2225.04s] English:** The mother carrying the infant in the womb, she has certain nutritional practices.  
+**[2225.04s] English:** The mother carrying the infant in the womb has certain nutritional practices.  
 **Translation:** 
 
-**[2235.36s] English:** She might be smoking or drinking alcohol or something like that.  
-**Translation:** Vocabulary: nutritional: 营养的
+**[2235.36s] English:** She might be smoking, or drinking alcohol, or something like that.  
+**Translation:** Vocabulary: infant: 婴儿; nutritional: 营养的
 
 **[2239.02s] English:** I'm not saying she is. I'm not saying she isn't.  
 **Translation:** 
 
-**[2240.76s] English:** I'm just saying whether.  
+**[2240.76s] English:** I'm just saying, whether.  
 **Translation:** 
 
-**[2242.04s] English:** She is, so she is, and it will affect the development of the fetus, the newborn.  
+**[2242.04s] English:** She is, so she is, and it will affect the development of the fetus and the newborn.  
 **Translation:** 
 
-**[2248.96s] English:** Now there's a question of environment.  
+**[2248.96s] English:** Now, there's a question of environment.  
 **Translation:** Vocabulary: fetus: 胎儿
 
-**[2251.92s] English:** There's a question of the development of their neurological potential.  
+**[2251.92s] English:** There is a question of the development of their neurological potential.  
 **Translation:** 
 
 **[2257.72s] English:** Do they learn how to read?  
@@ -1123,65 +1124,65 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[2279.94s] English:** What about the values?  
 **Translation:** 
 
-**[2280.00s] English:** norms of the surrounding human communities in which they're embedded? Do they encourage the  
+**[2280.00s] English:** Norms of the surrounding human communities in which they are embedded? Do they encourage the  
 **Translation:** 
 
-**[2287.56s] English:** young person to apply themselves in a systematic way to their studies and to their focus on their  
+**[2287.56s] English:** A young person should apply themselves in a systematic way to their studies and to their focus on their  
 **Translation:** Vocabulary: embedded: 融入其中
 
-**[2296.42s] English:** acquisition of language command and of their educational potential? So development is not  
+**[2296.42s] English:** Acquisition of language and command over it, as well as their educational potential? So, development is not  
 **Translation:** 
 
-**[2304.54s] English:** only something that is controlled by the society's practices. It's also something that is influenced  
+**[2304.54s] English:** Only something that is controlled by society's practices. It's also something that is influenced,  
+**Translation:** Vocabulary: acquisition: 获得
+
+**[2311.50s] English:** By the cultural background of the individual, and those things are not equal; they vary.  
 **Translation:** 
 
-**[2311.50s] English:** by the cultural background of the individual. And those things are not equal. Those things vary  
+**[2321.22s] English:** Across groups in a very significant way. And that, too, will be a factor determining...  
 **Translation:** 
 
-**[2321.22s] English:** across groups in a very significant way. And that, too, will be a factor determining  
+**[2330.72s] English:** Disparities of outcome.  
 **Translation:** 
 
-**[2330.72s] English:** disparities of outcome.  
+**[2333.48s] English:** So, when I see outcomes,  
+**Translation:** Vocabulary: disparities: 差异; outcomes: 结果
+
+**[2334.54s] English:** That are different, I see wealth holdings that are different. I see educational achievements that are  
 **Translation:** 
 
-**[2333.48s] English:** So when I see outcomes,  
-**Translation:** Vocabulary: disparities: 差距
-
-**[2334.54s] English:** that are different, I see wealth holding that's different. I see educational achievement that's  
+**[2340.18s] English:** Different. I see representation in the professional schools—and law school and medical school—that's  
 **Translation:** 
 
-**[2340.18s] English:** different. I see representation in the professional schools and law school and medical school that's  
+**[2345.22s] English:** Different between groups: one question is, are the institutions treating people fairly? But another,  
 **Translation:** 
 
-**[2345.22s] English:** different between groups. One question is, are the institutions treating people fairly? But another  
+**[2351.42s] English:** The question is: Do the backgrounds in social and cultural influences equip people in the same way?  
+**Translation:** Vocabulary: treating: 对待
+
+**[2360.24s] English:** And we know that the answer to that is not in every instance do they equip people with.  
 **Translation:** 
 
-**[2351.42s] English:** question is, do the background in social and cultural influences equip people in the same way?  
+**[2364.52s] English:** The same way, and so it makes the judgment, the moral judgment that we make when we see.  
 **Translation:** 
 
-**[2360.24s] English:** And we know that the answer to that, not in every instance do they equip people in  
+**[2369.42s] English:** Inequality of outcome is complex. Inequality of outcome is a systemic factor to some extent.  
 **Translation:** 
 
-**[2364.52s] English:** the same way. And so it makes the judgment, the moral judgment that we make when we see  
-**Translation:** 
-
-**[2369.42s] English:** inequality of outcome, complicated. Inequality of outcome is a systemic factor to some  
-**Translation:** 
-
-**[2377.98s] English:** degree. But it is also a cultural factor to some degree, I want to say. Now, that's  
+**[2377.98s] English:** Degree. But it is also a cultural factor, to some degree, I want to say. Now, that's  
 **Translation:** Vocabulary: inequality: 不平等
 
-**[2385.20s] English:** controversial. I know a lot of people, they think of themselves as being progressive.  
+**[2385.20s] English:** Controversial. I know a lot of people who think of themselves as being progressive.  
 **Translation:** 
 
-**[2393.30s] English:** point a finger at society whenever they see a disparity. But I think that that's a mistake.  
+**[2393.30s] English:** Pointing a finger at society whenever they see a disparity is, in my opinion, a mistake.  
 **Translation:** Vocabulary: disparity: 差距
 
 **[2400.00s] English:** I think it misunderstands the difficulty of the problem. You think that if you get the right law, if you have the right public policy, if the right politicians are elected to office, suddenly those disparities will go away. And I'm here to tell you that that's a false hope.  
 **Translation:** 
 
 **[2420.48s] English:** And moreover, it is probably the wrong goal.  
-**Translation:** Vocabulary: misunderstands: 误解
+**Translation:** Vocabulary: disparities: 差距; misunderstands: 误解
 
 **[2450.48s] English:** Which is how I ended up at MIT in the first place. And I got a very good technical training in mathematics when I was at Northwestern.  
 **Translation:** 
@@ -1189,11 +1190,11 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[2459.58s] English:** You love both mathematics and human nature, which is why you ended up going into economics at one of the great economics programs in the world at MIT and getting a PhD there.  
 **Translation:** 
 
-**[2473.00s] English:** So one of the many hats you wear is that of an economist, which allows you to think systematically and rigorously about the way the world works.  
+**[2473.00s] English:** So, one of the many hats you wear is that of an economist, which allows you to think systematically and rigorously about the way the world works.  
 **Translation:** 
 
-**[2480.48s] English:** And with the way humans work at scale, trying to remove the full mushy mess of humans, like a psychology perspective, economics allows you to do.  
-**Translation:** Vocabulary: economist: 经济学家; mushy: 糊状; rigorously: 严谨地
+**[2480.48s] English:** And, with the way humans work at scale, trying to remove the full "mushy" mess of humans, like from a psychology or economic perspective, allows you to do so.  
+**Translation:** Vocabulary: economist: 经济学家; rigorously: 严谨地
 
 **[2493.18s] English:** Well, economics is one of the social sciences. I think there's value in psychology and in sociology.  
 **Translation:** 
@@ -1207,277 +1208,277 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[2509.50s] English:** And, yeah.  
 **Translation:** 
 
-**[2510.48s] English:** You know, trade and, you know, so on.  
+**[2510.48s] English:** You know, trade, and so on.  
 **Translation:** 
 
 **[2514.38s] English:** But, yeah, speaking personally, as I was coming along, I was fascinated.  
-**Translation:** Vocabulary: fascinated: 着迷
+**Translation:** Vocabulary: fascinated: 着迷的
 
-**[2520.00s] English:** by mathematics. I was good at it and ended up at Northwestern and took a lot of courses there in,  
+**[2520.00s] English:** By mathematics. I was good at it and ended up at Northwestern, where I took a lot of courses there in.  
 **Translation:** 
 
-**[2527.46s] English:** you know, functional analysis and logic and mathematics and dynamical systems and, you know,  
-**Translation:** Vocabulary: dynamical: 动力系统
+**[2527.46s] English:** You know, functional analysis, logic, and mathematics, and dynamical systems, and you know,  
+**Translation:** Vocabulary: dynamical: 动力学; functional: 函数
 
-**[2535.52s] English:** stuff that I ended up employing in my graduate studies in economics. But you're right, I was  
+**[2535.52s] English:** Stuff that I ended up employing in my graduate studies in economics. But you're right; I was.  
 **Translation:** 
 
-**[2543.92s] English:** not satisfied simply to be proving theorems. I wanted to be addressing issues of social  
+**[2543.92s] English:** Not satisfied simply to prove theorems, I wanted to address issues of social importance.  
 **Translation:** Vocabulary: employing: 使用; theorems: 定理
 
-**[2550.52s] English:** significance. And economics, I discovered, to my delight, was a field of study that allowed me both  
+**[2550.52s] English:** Significance. And economics, I discovered, to my delight, was a field of study that allowed me both.  
 **Translation:** 
 
-**[2559.02s] English:** to develop rigorous analytical frameworks, you know, modeling and precision of logical,  
-**Translation:** Vocabulary: analytical: 分析的; rigorous: 严格的
+**[2559.02s] English:** To develop rigorous analytical frameworks, you know, modeling and precision in logic,  
+**Translation:** Vocabulary: analytical: 分析的; delight: 喜悦; rigorous: 严格的
 
-**[2569.70s] English:** you know, deduction and inference.  
+**[2569.70s] English:** You know, deduction and inference.  
 **Translation:** 
 
-**[2573.92s] English:** On the one hand, satisfying my mathematical interest, but on the other hand, could address  
+**[2573.92s] English:** On the one hand, satisfying my mathematical interest; but on the other hand, it could address  
 **Translation:** Vocabulary: deduction: 演绎; inference: 推理; mathematical: 数学的
 
-**[2581.78s] English:** questions of social significance, like why does racial inequality persist? Why are some countries  
+**[2581.78s] English:** Questions of social significance, like why does racial inequality persist? Why are some countries  
 **Translation:** 
 
-**[2588.84s] English:** prospering and growing and others less so? Why do the prices of raw materials fluctuate in the way  
-**Translation:** Vocabulary: fluctuate: 波动; inequality: 不平等; prospering: 繁荣
+**[2588.84s] English:** Prospering and growing, while others are less so? Why do the prices of raw materials fluctuate in this way?  
+**Translation:** Vocabulary: fluctuate: 波动; inequality: 不平等; persist: 持续; prospering: 繁荣
 
-**[2596.34s] English:** that they do over time and so on and so forth? And I ended up falling in love with the application  
+**[2596.34s] English:** That they do over time, and so on and so forth? And I ended up falling in love with the application.  
 **Translation:** 
 
-**[2603.56s] English:** of the math. And I ended up falling in love with the application of the math. And I ended up falling  
+**[2603.56s] English:** Of the math, and I ended up falling in love with the application of the math. And I ended up falling.  
 **Translation:** 
 
-**[2603.92s] English:** in love with the application of the math. And I ended up falling in love with the application of the math.  
+**[2603.92s] English:** In love with the application of math, and I ended up falling in love with the application of math.  
 **Translation:** 
 
 **[2603.96s] English:** And I ended up falling in love with the application of the math. And I ended up falling in love with the  
 **Translation:** 
 
-**[2603.98s] English:** of mathematical analysis to the study of social issues.  
+**[2603.98s] English:** Of mathematical analysis to the study of social issues.  
 **Translation:** 
 
-**[2609.36s] English:** What to you is beautiful about mathematics, about mathematical puzzles, about logic, all those kinds  
+**[2609.36s] English:** What do you find beautiful about mathematics, about mathematical puzzles, about logic, and all those kinds?  
+**Translation:** Vocabulary: puzzles: 谜题
+
+**[2616.34s] English:** Of course, because it's still there. The love for math is still there for you. So, is there something  
 **Translation:** 
 
-**[2616.34s] English:** of things? Because it's still there. The love for math is still there for you. So is there something  
-**Translation:** 
-
-**[2621.92s] English:** you could speak to? What is the kernel, the flame of that love?  
+**[2621.92s] English:** You could speak to? What is the kernel, the flame of that love?  
 **Translation:** Vocabulary: kernel: 核心
 
-**[2627.80s] English:** It's like magic. I mean, you know, being able to prove something and,  
+**[2627.80s] English:** It's like magic. I mean, being able to prove something and,  
 **Translation:** 
 
-**[2633.92s] English:** you know, I think of offhand, you know, there's no largest prime number, okay?  
+**[2633.92s] English:** You know, I think offhand, there's no largest prime number, okay?  
+**Translation:** Vocabulary: offhand: 随手
+
+**[2640.00s] English:** So how would somebody know that? OK, what's a prime number? A prime number is a number that has no divisor other than one. There are no divisors of the number that make it a prime number, like 13 or 19 or 37, etc. OK, so they're prime numbers.  
 **Translation:** 
 
-**[2640.00s] English:** So how would somebody know that? OK, what's a prime number? So a prime number is a number that has a whole number that has no divisor other than one. There are no divisors of the number that makes it a prime number like 13 or 19 or 37, whatever. OK, so they're prime numbers.  
+**[2658.42s] English:** There's no largest prime number. There are infinitely many prime numbers. There's no largest prime number. OK, that's an idea. You can get your mind around it in an instant; it doesn't take a whole lot of depth to see the question. There's no largest prime number.  
+**Translation:** Vocabulary: divisor: 除数; divisors: 除数; infinitely: 无穷地
+
+**[2672.94s] English:** I wonder if prime numbers show up in economics. I mean, they don't show up in economics, except for cryptography. I understand. Yes, yes, yes. For coding stuff, you know, and that does show up in economics. But in terms of models, yeah.  
 **Translation:** 
 
-**[2658.42s] English:** There's no largest prime number. There are infinite number of prime numbers. There's no largest prime number. OK, that's an idea. You can get your mind around it in an instant. It doesn't take a whole lot of depth to see the question. There's no largest prime number.  
-**Translation:** Vocabulary: divisors: 除数
+**[2688.42s] English:** Probably not. That's so, because prime numbers are little, you know, in abstract algebra. It's like they show up in all these places. They're just like beautiful mathematical puzzles that don't immediately have an application, but somehow maybe challenge you.  
+**Translation:** Vocabulary: algebra: 抽象代数; cryptography: 密码学; mathematical: 数学的
 
-**[2672.94s] English:** I wonder if prime numbers show up in economics. I mean, they don't show up in economics, except cryptography. I understand. Yes. Yes. Yes. For code, you know, in coding stuff. And that shows up in economics. But in terms of models. Yeah.  
+**[2708.60s] English:** And as a result, it pushes mathematics forward, like Fermat's Last Theorem. You know, as far as I know, no obvious real-world application.  
 **Translation:** 
 
-**[2688.42s] English:** Probably not. That's that's so prime numbers are little, you know, in abstract algebra. It's like they show up in all these places. They're just like beautiful mathematical puzzles that don't immediately have an application, but somehow maybe challenge you.  
-**Translation:** Vocabulary: algebra: 抽象代数; cryptography: 密码学
+**[2717.50s] English:** But it has challenged mathematicians throughout the centuries. Indeed, and somehow indirectly progressed the field. The rational numbers are countable; they can be put into a one-to-one relationship with the integers.  
+**Translation:** Vocabulary: integers: 整数; mathematicians: 数学家; progressed: 促进; theorem: 定理
 
-**[2708.60s] English:** And as a result, push mathematics forward, like Fermat's last theorem. You know, as far as I know, no obvious real world application.  
+**[2735.52s] English:** And, you know, but that the real numbers are not countable. And there are a lot more, quote-unquote, "real" numbers. These are orders of infinity. This is Cantor—Georg Cantor—and all that kind of stuff.  
 **Translation:** 
 
-**[2717.50s] English:** But it has challenged mathematicians throughout the centuries. Indeed. And and somehow indirectly progressed the field. But that the rational numbers are countable, they can be put in one to one relationship with the integers.  
-**Translation:** Vocabulary: integers: 整数; mathematicians: 数学家; progressed: 进步; theorem: 定理
-
-**[2735.52s] English:** And, you know, but that the real numbers are not countable. And there's a lot more real, quote unquote, more real numbers. These are orders of infinity. This is Cantor, Georg Cantor and all that kind of.  
+**[2747.50s] English:** That kind of stuff, or girders of theorems. I studied this as an undergraduate: the incompleteness theorem, that there are propositions within any logical system that's rich enough to accommodate.  
 **Translation:** 
 
-**[2747.50s] English:** That kind of stuff or girdles of theorem. I studied this as an undergraduate, you know, the incompleteness theorem that there are propositions within any logical system that's rich enough to accommodate.  
+**[2760.00s] English:** Accommodate arithmetic. There are going to be propositions that you can formulate that are  
 **Translation:** 
 
-**[2760.00s] English:** accommodate arithmetic. There are going to be propositions that you can formulate that are  
-**Translation:** 
-
-**[2766.02s] English:** true, but that you cannot prove to be true. So the idea that you could systematically  
+**[2766.02s] English:** True, but that you cannot prove to be true. So the idea that you could systematically  
 **Translation:** Vocabulary: accommodate: 包容; arithmetic: 算术; cannot: 不能; propositions: 命题
 
-**[2773.28s] English:** develop a logical framework for mathematical inquiry that could demonstrate the truth or  
+**[2773.28s] English:** Develop a logical framework for mathematical inquiry that could demonstrate the truth or  
 **Translation:** 
 
-**[2781.28s] English:** falsity of any proposition is not a feasible goal. This was Hilbert's project, as I understand  
+**[2781.28s] English:** The falsity of any proposition is not a feasible goal. This was Hilbert's project, as I understand it.  
 **Translation:** Vocabulary: falsity: 虚假; feasible: 可行; mathematical: 数学的
 
-**[2790.24s] English:** it, and Gödel showed that there was no hope ever of being able to demonstrate the closure  
+**[2790.24s] English:** It, and Gödel showed that there was no hope ever of demonstrating the closure.  
 **Translation:** 
 
-**[2798.94s] English:** of logical systems that were rich enough to accommodate the real numbers.  
-**Translation:** 
+**[2798.94s] English:** Of logical systems that were rich enough to accommodate the real numbers.  
+**Translation:** Vocabulary: closure: 完备性
 
 **[2803.74s] English:** They gave an existential crisis to all mathematicians and scientists alike, and humans, because  
 **Translation:** 
 
-**[2810.88s] English:** maybe...  
-**Translation:** Vocabulary: existential: 存在主义的
+**[2810.88s] English:** Maybe...  
+**Translation:** Vocabulary: existential: 存在主义的; mathematicians: 数学家
 
 **[2811.28s] English:** You can't prove everything.  
 **Translation:** 
 
-**[2812.28s] English:** I remember when I was a junior college, a community college student before I transferred  
+**[2812.28s] English:** I remember when I was a junior college or community college student before I transferred.  
 **Translation:** 
 
-**[2818.72s] English:** to Northwestern, and I took a calculus course, and it was a lot of fun. And it was differentiating  
+**[2818.72s] English:** To Northwestern, and I took a calculus course, and it was a lot of fun. It was also differentiating.  
 **Translation:** 
 
-**[2826.56s] English:** algebraic expressions and integrating and using trigonometric substitutions, and it  
+**[2826.56s] English:** Algebraic expressions, and integrating and using trigonometric substitutions, and it  
 **Translation:** Vocabulary: algebraic: 代数的; calculus: 微积分; differentiating: 求导; integrating: 积分; substitutions: 替换; trigonometric: 三角的
 
-**[2833.68s] English:** was a lot of simple problem solving. I get to Northwestern, I take a course in differential  
+**[2833.68s] English:** There was a lot of simple problem-solving. I got to Northwestern, and I took a course in differential.  
 **Translation:** 
 
-**[2838.58s] English:** equations. And again, it was a lot of...  
-**Translation:** Vocabulary: differential: 微分; equations: 方程
+**[2838.58s] English:** Equations. And again, it was a lot of....  
+**Translation:** Vocabulary: differential: 差分; equations: 方程
 
 **[2841.28s] English:** I'm not going to formulate applying a...  
 **Translation:** 
 
-**[2843.38s] English:** You get a differential equation of this structure, like if it's linear, you've got exponentials,  
-**Translation:** Vocabulary: equation: 方程; exponentials: 指数函数
+**[2843.38s] English:** You get a differential equation of this structure. Like, if it's linear, you've got exponentials.  
+**Translation:** Vocabulary: equation: 方程; exponentials: 指数函数; linear: 线性的
 
-**[2847.56s] English:** et cetera, you can solve it. And then I took a course that showed me where the question  
+**[2847.56s] English:** Et cetera, you can solve it. And then, I took a course that showed me where the question mark belongs.  
 **Translation:** 
 
-**[2853.94s] English:** was not how to solve any particular functional expression, but it was proving the existence  
+**[2853.94s] English:** Was not about solving any particular functional expression, but rather proving the existence.  
+**Translation:** Vocabulary: cetera: 等等; functional: 函数
+
+**[2860.98s] English:** Of a solution to a differential equation where it was like \(\dot{x} = f(x, t)\), and  
 **Translation:** 
 
-**[2860.98s] English:** of a solution to a differential equation where it was like x dot equals f of x and t, and  
+**[2866.82s] English:** F is just some arbitrary function. What do I have to assume about the function? And I...  
+**Translation:** Vocabulary: arbitrary: 任意的
+
+**[2871.28s] English:** Have to think about the function f in order to know that there exists a solution to the  
 **Translation:** 
 
-**[2866.82s] English:** f is just some arbitrary function. What do I have to assume about the function? And I  
+**[2874.90s] English:** Differential equation: dx/dt = f(x, t).  
 **Translation:** 
 
-**[2871.28s] English:** have to think about the function f in order to know that there exists a solution to the  
+**[2880.00s] English:** And it's basically what they called a Lipschitz condition. It's a condition about the bounding of the slope of the function F as a function of X, that it doesn't exceed a certain uniform bound on that function.  
 **Translation:** 
 
-**[2874.90s] English:** differential equation, dx dt equals f of x and t.  
+**[2897.10s] English:** And then you can use an iterative process to show that the sequence of partial solutions to the problem converges to something that is a solution to the actual problem. Anyway, again, I'm not going to bore you or pretend that I'm a mathematician; I'm not.  
+**Translation:** Vocabulary: bounding: 界限; converges: 收敛; exceed: 超过; iterative: 迭代; lipschitz: 利普希茨; mathematician: 数学家
+
+**[2912.50s] English:** But, what I'm saying is, the difference between a specific algebraic formula that you can manipulate and solve on the one hand, and the abstract question of whether there exists a solution in the general.  
 **Translation:** 
 
-**[2880.00s] English:** And it's basically they called it a Lipschitz condition. It's a condition about the bounding of the slope of the function F as a function of X that it doesn't that you can sort of uniformly bound the slope on that function.  
-**Translation:** 
+**[2927.10s] English:** The case was like a huge step for me in my study of mathematics and the techniques that you have to employ to address these larger questions, and so on.  
+**Translation:** Vocabulary: algebraic: 代数的; employ: 运用; manipulate: 操作
 
-**[2897.10s] English:** And then you can use a iterative process to show that the sequence of partial solutions to the thing converges to something that's a solution to the real thing. Anyway, again, I'm not not going to bore you or pretend that I'm a mathematician. I'm not.  
-**Translation:** Vocabulary: bounding: 边界限制
-
-**[2912.50s] English:** But what I'm saying is the difference between a specific algebraic formula that you can manipulate and solve on the one hand and the abstract question of whether there exists a solution in the general.  
-**Translation:** 
-
-**[2927.10s] English:** Case is like a huge was like a huge step for me in my study of mathematics and the techniques that you have to employ to address these larger questions and so on.  
-**Translation:** Vocabulary: manipulate: 操作
-
-**[2939.68s] English:** So I, you know, when I was an undergraduate, I took the first year Ph.D. sequence in math analysis at Northwestern from a brilliant mathematician named Avner Friedman and learned about measure theory.  
+**[2939.68s] English:** So, I know, when I was an undergraduate, I took the first-year Ph.D. sequence in math analysis at Northwestern from a brilliant mathematician named Avner Friedman and learned about measure theory.  
 **Translation:** 
 
 **[2956.68s] English:** And.  
-**Translation:** Vocabulary: mathematician: 数学家; undergraduate: 本科生
+**Translation:** Vocabulary: undergraduate: 本科学生
 
-**[2957.10s] English:** You know, I learned about some some early functional analysis ideas. And when I saw that those ideas were being applied by advanced study in economics, I was delighted. I found an intellectual home.  
+**[2957.10s] English:** You know, I learned about some early functional analysis ideas. And when I saw that those ideas were being applied by advanced studies in economics, I was delighted. I found an intellectual home.  
 **Translation:** 
 
-**[2973.64s] English:** So that one of the fascinating challenges in mathematics is to think how can you which echoes the challenge of economics?  
-**Translation:** 
+**[2973.64s] English:** So, one of the fascinating challenges in mathematics is to think: how can you do this, which echoes the challenge of economics?  
+**Translation:** Vocabulary: echoes: 类似于; functional: 功能分析
 
 **[2985.28s] English:** What are the properties?  
 **Translation:** 
 
-**[2987.10s] English:** Of an equation that allow you to say something profound and say it's simply.  
+**[2987.10s] English:** Of an equation that allows you to say something profound and say it simply.  
+**Translation:** Vocabulary: equation: 等式; profound: 深奥
+
+**[2993.80s] English:** And so, the question of economics is: how do you construct a model where you can generalize nicely?  
 **Translation:** 
 
-**[2993.80s] English:** And so the question of economics is how do you construct a model where you can generalize nicely?  
+**[3000.00s] English:** Say something profound and say it simply, so one of the questions might be: "One of the...  
+**Translation:** Vocabulary: generalize: 泛化; nicely: 良好地
+
+**[3005.92s] English:** Challenges in economics include macro versus micro economics, yeah. Is you know,  
 **Translation:** 
 
-**[3000.00s] English:** say something profound and say it simply so one of the questions one of the  
-**Translation:** Vocabulary: generalize: 概括; profound: 深刻
-
-**[3005.92s] English:** challenges of economics is macro versus micro economics yeah is you know the  
+**[3014.10s] English:** The world is made up of individuals, so there's a connection to this our.  
 **Translation:** 
 
-**[3014.10s] English:** world is made up of individuals so there's a connection to this our  
+**[3017.82s] English:** Discussion of race and discrimination, and outcomes, and all those kinds of issues.  
 **Translation:** 
 
-**[3017.82s] English:** discussion of of race and discrimination and outcomes and all those kinds of  
+**[3022.62s] English:** Things the world is made up of individuals, but in order to say,  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[3027.48s] English:** Something general: We have to construct groups in order to analyze the data we.  
 **Translation:** 
 
-**[3022.62s] English:** things the world is made up of individuals but in order to say  
-**Translation:** 
-
-**[3027.48s] English:** something general we have to construct groups in order to analyze the data we  
-**Translation:** 
-
-**[3035.94s] English:** have to aggregate that data somehow we have to make an average over some set of  
+**[3035.94s] English:** We have to aggregate that data somehow; we have to make an average over some set of.  
 **Translation:** Vocabulary: aggregate: 汇总
 
-**[3040.26s] English:** people so what are the pros and cons of looking at things like equality of  
+**[3040.26s] English:** People, so what are the pros and cons of looking at things like equality of?  
 **Translation:** 
 
-**[3047.48s] English:** opportunity and equality of outcome based on groups versus based on  
+**[3047.48s] English:** Opportunity and equality of outcome based on groups, versus based on individual merit.  
+**Translation:** Vocabulary: merit: 功绩
+
+**[3051.96s] English:** Individuals, and what are the groups if they're  
 **Translation:** 
 
-**[3051.96s] English:** individuals and what are the groups if they're  
+**[3057.48s] English:** There's any pros to looking at groups that we should be looking at, okay? Those.  
 **Translation:** 
 
-**[3057.48s] English:** there's any pros to looking at groups that we should be looking at okay those  
+**[3063.24s] English:** Those are big questions. I mean, in economics, you're right. I mean, micro...  
 **Translation:** 
 
-**[3063.24s] English:** those are big questions I mean in economics you're right I mean micro you  
+**[3067.84s] English:** Have an account of how individuals make decisions about spending their  
 **Translation:** 
 
-**[3067.84s] English:** have a an account of how individuals make decisions about spending their  
+**[3072.00s] English:** Money on this consumption side, and about how enterprises make decisions about  
 **Translation:** 
 
-**[3072.00s] English:** money on this consumption side and about how enterprises make decisions about  
+**[3077.78s] English:** What to produce, how much of it, what inputs to use, and what techniques of.  
+**Translation:** Vocabulary: enterprises: 企业; inputs: 投入物
+
+**[3082.56s] English:** Production and so on, individual firms, individual consumers.  
 **Translation:** 
 
-**[3077.78s] English:** what to produce how much of it what inputs to use what techniques of  
-**Translation:** Vocabulary: enterprises: 企业
-
-**[3082.56s] English:** production and so on individual firms individual consumers  
+**[3086.88s] English:** You.  
 **Translation:** 
 
-**[3086.88s] English:** you  
+**[3087.48s] English:** And then you want to aggregate, you know, so there's a theory of so-called "theory of...  
 **Translation:** 
 
-**[3087.48s] English:** and then you want to aggregate you so there's a theory of so-called theory of  
-**Translation:** 
-
-**[3090.90s] English:** general equilibrium where you know you think supply and demand and a bunch of  
+**[3090.90s] English:** General equilibrium, where you know you think about supply and demand and a bunch of  
 **Translation:** Vocabulary: equilibrium: 平衡状态
 
-**[3096.66s] English:** markets you think prices that move to equilibrate but you recognize that the  
+**[3096.66s] English:** Markets, you think, prices that move to equilibrate, but you recognize that the  
 **Translation:** 
 
-**[3101.98s] English:** price in one market affects people's behavior in another the markets  
+**[3101.98s] English:** Price in one market affects people's behavior in another, the markets.  
 **Translation:** Vocabulary: equilibrate: 达到平衡
 
-**[3105.30s] English:** interacting with each other you realize that the behavior one individual affects  
+**[3105.30s] English:** Interacting with each other, you realize that the behavior of one individual affects  
 **Translation:** 
 
-**[3109.44s] English:** the supplies and available resources and for other individuals so they're knitted  
+**[3109.44s] English:** The supplies and available resources, as well as for other individuals, so they can be knitted.  
+**Translation:** Vocabulary: interacting: 互相作用; knitted: 编织在一起
+
+**[3116.40s] English:** Together in some kind of  
 **Translation:** 
 
-**[3116.40s] English:** together in some kind of  
+**[3117.48s] English:** Systematic way  
 **Translation:** 
 
-**[3117.48s] English:** systematic way  
+**[3120.00s] English:** And you want to try to demonstrate the fact that, notwithstanding all these interdependencies,  
 **Translation:** 
 
-**[3120.00s] English:** And you want to try to demonstrate the fact that notwithstanding all these interdependencies,  
-**Translation:** 
+**[3127.32s] English:** There exists a solution to the system of equations that equate demand and supply across all markets.  
+**Translation:** Vocabulary: equate: 使等于; equations: 方程; notwithstanding: 尽管
 
-**[3127.32s] English:** there exists a solution to the system of equations that equates demand and supply across all  
-**Translation:** Vocabulary: equates: 等于; equations: 方程; notwithstanding: 尽管
-
-**[3134.40s] English:** the different markets.  
+**[3134.40s] English:** The different markets.  
 **Translation:** 
 
 **[3135.10s] English:** This is the existence of general equilibrium.  
@@ -1492,8 +1493,8 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3145.42s] English:** Well, what do you mean by efficiency?  
 **Translation:** 
 
-**[3146.70s] English:** Well, the idea of so-called Pareto efficient outcomes.  
-**Translation:** Vocabulary: pareto: 帕累托最优
+**[3146.70s] English:** Well, the idea of so-called Pareto-efficient outcomes.  
+**Translation:** Vocabulary: outcomes: 结果
 
 **[3152.00s] English:** These are outcomes that cannot be uniformly improved upon.  
 **Translation:** 
@@ -1507,7 +1508,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3163.46s] English:** What do you mean by competition?  
 **Translation:** 
 
-**[3165.22s] English:** You mean that people take their actions to do the best for themselves that they can.  
+**[3165.22s] English:** You mean that people take actions to do the best for themselves that they can.  
 **Translation:** 
 
 **[3171.78s] English:** Profits of firms, well-being of consumers.  
@@ -1522,37 +1523,37 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3178.78s] English:** But they do so in reference to a set of prices that they believe they cannot control.  
 **Translation:** 
 
-**[3183.62s] English:** That's the criterion of competitive market circumstance.  
-**Translation:** Vocabulary: cannot: 无法; circumstance: 情况; criterion: 标准
+**[3183.62s] English:** That's the criterion of a competitive market circumstance.  
+**Translation:** Vocabulary: cannot: 不能; circumstance: 情况; criterion: 标准
 
-**[3188.48s] English:** So does a competitive equilibrium exist?  
+**[3188.48s] English:** So, does a competitive equilibrium exist?  
 **Translation:** 
 
-**[3191.32s] English:** Do there exist a set of prices which, if everybody recognizes them as given and responds to those  
+**[3191.32s] English:** Do there exist a set of prices which, if everybody recognizes them as given and responds to those, will lead to an equilibrium in the market?  
+**Translation:** Vocabulary: equilibrium: 市场平衡
+
+**[3197.34s] English:** Prices on behalf of their own interests, the outcome will be supply equalizing demand in  
 **Translation:** 
 
-**[3197.34s] English:** prices on behalf of their own interest, the outcome will be supply equaling demand in  
+**[3204.48s] English:** All the markets where people are interacting with one another.  
+**Translation:** Vocabulary: equalizing: 平衡; interacting: 互动
+
+**[3207.34s] English:** And that requires the use of some concepts in topology, fixed-point theorems, and so on.  
 **Translation:** 
 
-**[3204.48s] English:** all the markets where people are interacting with one another.  
-**Translation:** Vocabulary: equaling: 等于
-
-**[3207.34s] English:** And that requires the use of some concepts in topology, fixed point theorems and whatnot  
-**Translation:** 
-
-**[3214.02s] English:** that are familiar to mathematics.  
-**Translation:** Vocabulary: theorems: 定理; topology: 拓扑学; whatnot: 等等
+**[3214.02s] English:** That are familiar to mathematics.  
+**Translation:** Vocabulary: theorems: 定理; topology: 拓扑学
 
 **[3215.90s] English:** Not very deep mathematical results, but important to economics.  
 **Translation:** 
 
-**[3220.36s] English:** That's all about general equilibrium and whatnot.  
-**Translation:** Vocabulary: equilibrium: 平衡状态; mathematical: 数学的
+**[3220.36s] English:** That's all about general equilibrium, and so on.  
+**Translation:** Vocabulary: mathematical: 数学的
 
 **[3223.06s] English:** But you ask about groups.  
 **Translation:** 
 
-**[3225.02s] English:** By the way, amazing whirlwind summary of all of economics.  
+**[3225.02s] English:** By the way, an amazing whirlwind summary of all of economics.  
 **Translation:** Vocabulary: whirlwind: 旋风
 
 **[3229.30s] English:** But yes, go ahead.  
@@ -1561,11 +1562,11 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3230.64s] English:** That was great.  
 **Translation:** 
 
-**[3233.74s] English:** Markets of competition.  
+**[3233.74s] English:** Markets of Competition.  
 **Translation:** 
 
 **[3236.70s] English:** Well, Pareto efficiency.  
-**Translation:** 
+**Translation:** Vocabulary: pareto: 帕累托效率
 
 **[3237.84s] English:** Anyway, but yes, groups.  
 **Translation:** 
@@ -1573,76 +1574,76 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3239.04s] English:** And prices.  
 **Translation:** 
 
-**[3240.00s] English:** And by the way, there are some very beautiful, you know, formalizations of everything that I'm saying here.  
+**[3240.00s] English:** And by the way, there are some very beautiful formalizations of everything that I'm saying here, you know.  
 **Translation:** 
 
 **[3250.06s] English:** You know, you end up in vector spaces. You end up with sets of bundles of consumption and production.  
-**Translation:** Vocabulary: bundles: 消费与生产组合
+**Translation:** Vocabulary: bundles: 消费与生产的组合
 
-**[3256.30s] English:** You end up with convexity. You end up with hyperplanes, which are, you know, in this finite dimensional vector space,  
+**[3256.30s] English:** You end up with convexity. You end up with hyperplanes, which are, in this finite-dimensional vector space,  
 **Translation:** 
 
-**[3263.76s] English:** which are, you know, all of the bundles that have the same value at a certain price.  
-**Translation:** Vocabulary: convexity: 凸性; finite: 有限的; hyperplanes: 超平面
+**[3263.76s] English:** Which are, you know, all of the bundles that have the same value at a certain price.  
+**Translation:** Vocabulary: convexity: 凸性
 
-**[3270.60s] English:** But you end up with inner products, you know, and and, you know, it's just it's very pretty.  
+**[3270.60s] English:** But you end up with inner products, you know, and it's just very pretty.  
 **Translation:** 
 
-**[3276.40s] English:** Yeah. But you almost forget that it's just a bunch of humans transacting with each other, that that markets are made up of individuals.  
+**[3276.40s] English:** Yeah. But you almost forget that it's just a bunch of humans transacting with each other—that markets are made up of individuals.  
 **Translation:** 
 
 **[3287.00s] English:** Markets are made up of individuals. And in order to carry out this formalization,  
 **Translation:** 
 
-**[3291.34s] English:** you have to make assumptions about the individual.  
+**[3291.34s] English:** You have to make assumptions about the individual.  
 **Translation:** Vocabulary: assumptions: 假设
 
-**[3293.76s] English:** And the end result is true in a formal sense, but may not be true as a representation of the reality,  
+**[3293.76s] English:** And the end result is true in a formal sense, but may not be true as a representation of reality.  
 **Translation:** 
 
-**[3302.34s] English:** because it depends upon assumptions that themselves may not hold.  
+**[3302.34s] English:** Because it depends upon assumptions that themselves may not hold.  
 **Translation:** 
 
-**[3307.46s] English:** But at least, you know what it is that has to be true in order for your formal framework to be relevant,  
+**[3307.46s] English:** But at least, you know what it is that has to be true in order for your formal framework to be relevant.  
 **Translation:** 
 
-**[3315.14s] English:** which is already a step in the right direction, I think.  
+**[3315.14s] English:** Which is already a step in the right direction, I think.  
 **Translation:** 
 
-**[3318.76s] English:** I mean, the formalization is better than the intuition, the armchair intuition,  
+**[3318.76s] English:** I mean, the formalization is better than the intuition—the armchair intuition.  
 **Translation:** 
 
-**[3323.54s] English:** which is a step in the right direction, I think.  
+**[3323.54s] English:** Which is a step in the right direction, I think.  
 **Translation:** Vocabulary: intuition: 直觉
 
 **[3323.76s] English:** And I think that's where we sit back and we don't really know exactly what we're talking about because we haven't pinned it down in a precise way.  
 **Translation:** 
 
-**[3332.92s] English:** I'm in favor of the formalization. People, they think, what is mathematics and the social sciences?  
+**[3332.92s] English:** I'm in favor of the formalization. People think: what is mathematics and the social sciences?  
+**Translation:** Vocabulary: pinned: 确定
+
+**[3339.08s] English:** After all, we're dealing with people. People are not automatons. I agree with that.  
 **Translation:** 
 
-**[3339.08s] English:** After all, we're dealing with people. People are not automata. I agree with that.  
+**[3343.46s] English:** But the analysis of the interaction of people, I think, to be rigorous, requires us to be specific about what we are talking about.  
+**Translation:** Vocabulary: automatons: 机械人; rigorous: 严谨
+
+**[3353.54s] English:** About what we're talking about: markets, consumers, firms, profits, technology, and preferences.  
 **Translation:** 
 
-**[3343.46s] English:** But the analysis of the interaction of people, I think, to be rigorous, requires us to be specific about what we're talking about.  
-**Translation:** Vocabulary: automata: 机械人; rigorous: 严谨
+**[3360.00s] English:** And that's the language of economics. But people's behavior depends upon what they seek in life—what depends upon their goals and objectives. Those things are at play, and they can be pushed this way or that.  
+**Translation:** Vocabulary: objectives: 目标
 
-**[3353.54s] English:** About what we're talking about, about markets, about consumers, about firms, about profits, about technology, about preferences.  
-**Translation:** 
-
-**[3360.00s] English:** And that's the language of economics. But people's behavior depends upon what they seek in life, what depends upon their goals and their objectives. Those things are at play. They can be pushed this way or that.  
-**Translation:** 
-
-**[3379.80s] English:** So, I mean, you know, nationalism, fighting and dying for your country. Religion, sacrificing on behalf of some abstract ideal of the good or of, you know, what is the human situation and what is the meaning of life?  
+**[3379.80s] English:** So, I mean, you know, nationalism—fighting and dying for your country. Religion—sacrificing on behalf of some abstract ideal of the good, or of, you know, what is the human situation and what is the meaning of life?  
 **Translation:** 
 
 **[3398.12s] English:** Economists have to assume that these things are some particular thing before they can turn the crank on their machine to analyze the outcomes of human interaction.  
-**Translation:** Vocabulary: crank: 把手; economists: 经济学家; sacrificing: 牺牲
+**Translation:** Vocabulary: crank: 把手; economists: 经济学家; outcomes: 结果; sacrificing: 牺牲
 
-**[3408.10s] English:** And yet these things.  
+**[3408.10s] English:** And yet, these things.  
 **Translation:** 
 
-**[3410.68s] English:** Belief in my identity, but the things that I'm willing to sacrifice and die for purposes of life that I affirm and pass on to my children are important preconditions for actually carrying out any economic analysis.  
+**[3410.68s] English:** Belief in my identity, but the things that I'm willing to sacrifice and die for—purposes of life that I affirm and pass on to my children—are important preconditions for actually carrying out any economic analysis.  
 **Translation:** Vocabulary: affirm: 确认; preconditions: 前提; sacrifice: 牺牲
 
 **[3426.84s] English:** And they are subject to manipulation and to change over time.  
@@ -1651,34 +1652,34 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3430.76s] English:** And that's not something that economics has a whole lot to say about.  
 **Translation:** Vocabulary: manipulation: 操控
 
-**[3434.82s] English:** Well, is there some general things that are really powerful in terms?  
+**[3434.82s] English:** Well, are there some general things that are really powerful in terms?  
 **Translation:** 
 
-**[3439.80s] English:** Have you said nation, religion?  
+**[3439.80s] English:** Have you said "nation" or "religion"?  
 **Translation:** 
 
 **[3442.22s] English:** Those are groups.  
 **Translation:** 
 
-**[3444.14s] English:** Can you group people nicely in helping you understand human nature?  
-**Translation:** 
+**[3444.14s] English:** Can you group people nicely to help you understand human nature?  
+**Translation:** Vocabulary: nicely: 巧妙地
 
-**[3449.56s] English:** So group them into nations based on their citizenry.  
+**[3449.56s] English:** So, group them into nations based on their citizenry.  
 **Translation:** 
 
 **[3453.88s] English:** That's geography, right?  
+**Translation:** Vocabulary: citizenry: 国民
+
+**[3456.22s] English:** The geographic location of your birth, or your long-term residence, or maybe religious belief.  
 **Translation:** 
 
-**[3456.22s] English:** The geographic location of your birth or your long-term residence or maybe religious belief.  
+**[3464.62s] English:** What religion do you believe in over time?  
 **Translation:** 
 
-**[3464.62s] English:** What religion you believe over time.  
+**[3468.18s] English:** Is there a group like that?  
 **Translation:** 
 
-**[3468.18s] English:** Is there groups like that?  
-**Translation:** 
-
-**[3469.60s] English:** And then race.  
+**[3469.60s] English:** And then, race.  
 **Translation:** 
 
 **[3472.06s] English:** Is that useful?  
@@ -1687,253 +1688,253 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3475.76s] English:** What are the pros and cons of looking at outcomes based on?  
 **Translation:** 
 
-**[3480.00s] English:** on these kinds of groups, race in particular?  
+**[3480.00s] English:** On these kinds of groups, especially race, in particular?  
 **Translation:** 
 
-**[3486.82s] English:** I think there are pros and I think there are cons.  
+**[3486.82s] English:** I think there are pros, and I think there are cons.  
 **Translation:** 
 
-**[3489.14s] English:** I mean, I am myself, Glenn Lowry,  
+**[3489.14s] English:** I mean, I am myself, Glenn Lowry.  
 **Translation:** 
 
-**[3491.74s] English:** sits before you right now,  
-**Translation:** Vocabulary: glenn: 格伦; lowry: 洛里
+**[3491.74s] English:** Sits before you right now,  
+**Translation:** 
 
-**[3494.42s] English:** a black American, an African American.  
+**[3494.42s] English:** A black American, an African American.  
 **Translation:** 
 
 **[3496.86s] English:** I quote, unquote, I identify as, you know,  
 **Translation:** Vocabulary: unquote: 引用结束
 
-**[3499.18s] English:** that's the way they talk about it nowadays.  
+**[3499.18s] English:** That's the way they talk about it nowadays.  
 **Translation:** 
 
-**[3501.26s] English:** I identify as a black American.  
+**[3501.26s] English:** I identify as a Black American.  
 **Translation:** 
 
 **[3502.68s] English:** My skin is brown.  
 **Translation:** 
 
 **[3504.28s] English:** My hair is coarse.  
+**Translation:** Vocabulary: coarse: 粗糙
+
+**[3505.98s] English:** My nose is broad, relative to the way  
 **Translation:** 
 
-**[3505.98s] English:** My nose is broad relative to the way  
-**Translation:** 
-
-**[3509.32s] English:** other people's noses look.  
+**[3509.32s] English:** Other people's noses look.  
 **Translation:** 
 
 **[3511.02s] English:** My lips are thicker.  
 **Translation:** 
 
-**[3512.54s] English:** That's a consequence of my ancestral descent  
+**[3512.54s] English:** That's a consequence of my ancestral descent.  
+**Translation:** Vocabulary: ancestral: 祖先的; descent: 血统
+
+**[3517.02s] English:** From the human population resident,  
 **Translation:** 
 
-**[3517.02s] English:** from the human population resident  
-**Translation:** 
-
-**[3521.42s] English:** in the African continent in millennia past.  
+**[3521.42s] English:** In the African continent in millennia past.  
 **Translation:** Vocabulary: millennia: 千年
 
-**[3526.10s] English:** My race.  
+**[3526.10s] English:** My race:  
 **Translation:** 
 
 **[3528.90s] English:** Here in the United States,  
 **Translation:** 
 
-**[3530.60s] English:** we have various quote, unquote, races  
+**[3530.60s] English:** We have various "quote, unquote" races.  
 **Translation:** 
 
-**[3533.46s] English:** defined crudely in the way  
+**[3533.46s] English:** Defined crudely, in the way,  
+**Translation:** Vocabulary: crudely: 粗略地
+
+**[3536.74s] English:** That's just what I tried to define myself as.  
 **Translation:** 
 
-**[3536.74s] English:** that I just tried to define myself.  
+**[3539.32s] English:** You could say, and I think,  
 **Translation:** 
 
-**[3539.32s] English:** You could say, and I think  
+**[3541.42s] English:** There is a very powerful argument.  
 **Translation:** 
 
-**[3541.42s] English:** there is a very powerful argument  
-**Translation:** 
-
-**[3543.10s] English:** that these are superficial differences.  
+**[3543.10s] English:** That these are superficial differences.  
 **Translation:** Vocabulary: superficial: 表面的
 
 **[3547.36s] English:** I mean, really?  
 **Translation:** 
 
-**[3549.06s] English:** Why should it matter that your eye color  
+**[3549.06s] English:** Why should it matter that your eye color?  
 **Translation:** 
 
-**[3551.22s] English:** or your hair color  
+**[3551.22s] English:** Or your hair color?  
 **Translation:** 
 
-**[3553.02s] English:** or the shape of the bones in your face  
+**[3553.02s] English:** Or the shape of the bones in your face.  
 **Translation:** 
 
-**[3556.22s] English:** or the color, the tone of your skin,  
+**[3556.22s] English:** Or, for the color of your skin or its tone,  
 **Translation:** 
 
-**[3559.22s] English:** the amount of melanin,  
+**[3559.22s] English:** The amount of melanin,  
 **Translation:** Vocabulary: melanin: 黑色素
 
-**[3560.22s] English:** how it is that you react to ultraviolet radiation  
+**[3560.22s] English:** How is it that you react to ultraviolet radiation?  
 **Translation:** 
 
-**[3562.98s] English:** in terms of your skin?  
+**[3562.98s] English:** In terms of your skin?  
+**Translation:** Vocabulary: ultraviolet: 紫外线
+
+**[3566.54s] English:** What is that to base?  
 **Translation:** 
 
-**[3566.54s] English:** What is that to base,  
-**Translation:** 
-
-**[3569.32s] English:** the basis of anything?  
+**[3569.32s] English:** The basis of anything?  
 **Translation:** 
 
 **[3570.72s] English:** I mean, that's arbitrary.  
 **Translation:** 
 
 **[3572.08s] English:** That's not meaningful.  
+**Translation:** Vocabulary: arbitrary: 主观随意的
+
+**[3573.32s] English:** Could there really be meaning?  
 **Translation:** 
 
-**[3573.32s] English:** Could there really be meaning  
+**[3574.68s] English:** In these superficial differences among human beings?  
 **Translation:** 
 
-**[3574.68s] English:** in these superficial differences among human beings?  
+**[3578.00s] English:** Isn't that an archaic or barbaric way?  
 **Translation:** 
 
-**[3578.00s] English:** Isn't that a archaic or barbaric way  
+**[3580.94s] English:** Of thinking about ourselves.  
+**Translation:** Vocabulary: archaic: 古板的; barbaric: 野蛮的
+
+**[3582.16s] English:** To look at each other's skin color or hair texture.  
 **Translation:** 
 
-**[3580.94s] English:** of thinking about ourselves  
-**Translation:** Vocabulary: archaic: 古板; barbaric: 野蛮
-
-**[3582.16s] English:** to look at each other's skin color or hair texture  
+**[3586.00s] English:** And then to decide,  
 **Translation:** 
 
-**[3586.00s] English:** and then to decide,  
+**[3586.98s] English:** Oh, that's a black, or that's a white.  
 **Translation:** 
 
-**[3586.98s] English:** oh, that's a black or that's a white  
+**[3589.46s] English:** Or that's a Latin, or that's an Asian.  
 **Translation:** 
 
-**[3589.46s] English:** or that's a Latin or that's an Asian  
+**[3591.42s] English:** Or that's a whatever.  
 **Translation:** 
 
-**[3591.42s] English:** or that's a whatever.  
+**[3594.26s] English:** That's something that we should outgrow.  
 **Translation:** 
 
-**[3594.26s] English:** That's something that we should outgrow,  
-**Translation:** 
-
-**[3597.52s] English:** a person might say.  
+**[3597.52s] English:** A person might say.  
 **Translation:** 
 
 **[3599.32s] English:** That's a...  
 **Translation:** 
 
-**[3600.00s] English:** relic of a kind of tribal society of a kind of pre-modern society where  
+**[3600.00s] English:** Relic of a kind of tribal society, of a kind of pre-modern society, where  
 **Translation:** 
 
-**[3608.32s] English:** we built real structure on the basis of such superficial difference a person could say that  
+**[3608.32s] English:** We built a real structure on the basis of such superficial differences; a person could say that.  
 **Translation:** Vocabulary: tribal: 部落的
 
-**[3616.96s] English:** on the other hand i am a black american i mean that's part of my  
+**[3616.96s] English:** On the other hand, I am a Black American. I mean, that's part of me.  
 **Translation:** 
 
-**[3622.16s] English:** identity that's part of my heritage it's part of the stories that i tell myself about  
+**[3622.16s] English:** Identity that's part of my heritage—it's part of the stories I tell myself about.  
 **Translation:** 
 
-**[3630.00s] English:** who my people are what why do i need a people why do i need a narrative of  
+**[3630.00s] English:** Who are my people? What do I need them for? Why do I need a narrative?  
 **Translation:** 
 
-**[3636.08s] English:** descent in which i affiliate with a racially defined people do i really need that i mean i  
-**Translation:** Vocabulary: affiliate: 结成联盟; racially: 按种族
+**[3636.08s] English:** Descent in which I affiliate with a racially defined people, do I really need that? I mean, I...  
+**Translation:** Vocabulary: affiliate: 结盟; descent: 血统; racially: 种族地
 
-**[3645.92s] English:** think that's an important question i i in fact this is a confession think of myself as black  
+**[3645.92s] English:** I think that's an important question. In fact, this is a confession: I consider myself Black.  
 **Translation:** 
 
-**[3652.32s] English:** i could think of myself as simply human i could not identify specifically as black i could i could say  
-**Translation:** Vocabulary: confession: 忏悔
+**[3652.32s] English:** I could think of myself as simply human; I could not identify specifically as Black. I could...  
+**Translation:** Vocabulary: confession: 坦白
 
-**[3660.00s] English:** uh my my eyes are brown too so what i'm a brown eye i mean you know i'm going to invent a group  
+**[3660.00s] English:** Uh, my eyes are brown too, so I'm a brown-eyed person, you know? I'm going to invent a group.  
 **Translation:** 
 
-**[3666.32s] English:** based on my eye color um i weigh 290 pounds i'm going to have a body size group i'm a plus 200 and  
+**[3666.32s] English:** Based on my eye color, I weigh 290 pounds, so I'm going to have a body size group; I'm a plus-size 200.  
 **Translation:** 
 
-**[3673.92s] English:** that's quote who i am close quote i don't do that i came from chicago yes i do have a certain sense  
+**[3673.92s] English:** That's 'who I am.' I don't do that. I came from Chicago, yes, I do have a certain sense.  
 **Translation:** 
 
-**[3681.52s] English:** of affinity with my hometown i'm a chicago-born person but frankly i haven't lived in chicago since  
-**Translation:** Vocabulary: affinity: 亲和力
+**[3681.52s] English:** Of all the affinities with my hometown, I'm a Chicago-born person, but frankly, I haven't lived in Chicago since.  
+**Translation:** Vocabulary: affinities: 亲和力; frankly: 坦白地说
 
 **[3688.08s] English:** 1979.  
 **Translation:** 
 
-**[3690.56s] English:** that's a long time uh i wear my chicago origins very very lightly  
+**[3690.56s] English:** That's a long time. Uh, I wear my Chicago Origins very, very lightly.  
 **Translation:** 
 
-**[3697.44s] English:** i would not go to war with someone from cleveland or st louis and fight to the death with that uh  
+**[3697.44s] English:** I would not go to war with someone from Cleveland or St. Louis and fight to the death with that, uh,...  
 **Translation:** 
 
-**[3704.24s] English:** st louis person or that cleveland person based upon the fact that we come from different cities  
+**[3704.24s] English:** St. Louis person, or that Cleveland person, based upon the fact that we come from different cities.  
+**Translation:** Vocabulary: cleveland: 克利夫兰
+
+**[3709.52s] English:** And you have even abandoned in your heart the Chicago Bulls; there's still some Chicago left.  
 **Translation:** 
 
-**[3709.52s] English:** and you have even abandoned in your heart the chicago bulls there's some chicago that's still  
+**[3714.96s] English:** In me, I suppose, but it's not very deep; it's not, "who I am," uh.  
 **Translation:** 
 
-**[3714.96s] English:** in me i suppose but it's not it's not very deep it's not quote who i am uh  
+**[3720.00s] English:** Anymore. And I'm wondering out here; I'm trying to pose a question. Why is it that being a descendant  
 **Translation:** 
 
-**[3720.00s] English:** anymore. And I'm wondering out here, I'm trying to pose a question. Why is it that being a descendant  
-**Translation:** 
-
-**[3725.10s] English:** of African slaves should be who I am? So there's some answers. One answer is people will look at me  
+**[3725.10s] English:** Of African slaves, should I be who I am? So, there are some answers. One answer is that people will look at me,  
 **Translation:** Vocabulary: descendant: 后代
 
-**[3732.52s] English:** and deal with me differently based upon what they see. I don't have control over that. I'm going to  
+**[3732.52s] English:** And deal with me differently based on what they see. I don't have control over that. I'm going to  
 **Translation:** 
 
-**[3739.60s] English:** be perceived as a member of a group, whether or not I elect to affiliate myself with that group  
+**[3739.60s] English:** Be perceived as a member of a group, whether or not I elect to affiliate myself with that group.  
+**Translation:** Vocabulary: affiliate: 结盟; perceived: 被感知
+
+**[3745.58s] English:** Or not. Therefore, I need to be mindful of the fact that, regardless of what my internal  
 **Translation:** 
 
-**[3745.58s] English:** or not. Therefore, I need to be mindful of the fact that regardless of what my internal  
+**[3754.08s] English:** Orientation is, the world will perceive me in a particular way, and will perceive me differently.  
+**Translation:** Vocabulary: orientation: 观点; perceive: 看待
+
+**[3761.84s] English:** Based upon the color of my skin. So a police officer who stops me at two o'clock in the morning.  
 **Translation:** 
 
-**[3754.08s] English:** orientation is, the world will perceive me in a particular way and will perceive me differently  
-**Translation:** Vocabulary: orientation: 观念; perceive: 看待
+**[3767.40s] English:** Because my tail light is out, they asked me for my automobile registration, and I reached quickly to  
+**Translation:** Vocabulary: automobile: 汽车
 
-**[3761.84s] English:** based upon the color of my skin. So a police officer who stops me at two o'clock in the morning  
-**Translation:** 
-
-**[3767.40s] English:** because my taillight is out and ask me for my automobile registration, and I reach quickly to  
-**Translation:** Vocabulary: automobile: 汽车; taillight: 尾灯
-
-**[3775.24s] English:** the glove box and I'm like, I don't know what to do. And I'm like, I don't know what to do. And  
+**[3775.24s] English:** The glove box, and I'm like, "I don't know what to do." And I'm like, "I don't know what to do." And  
 **Translation:** 
 
 **[3775.56s] English:** I'm like, I don't know what to do. And I'm like, I don't know what to do. And I'm like, I don't know what to do. And  
 **Translation:** 
 
-**[3775.58s] English:** the police officer says, show me your hands. And I don't quite hear what he says, or I ignore what  
+**[3775.58s] English:** The police officer says, "Show me your hands." And I don't quite hear what he says, or I ignore what he says.  
 **Translation:** 
 
-**[3784.64s] English:** he says as I'm getting my document out of my glove compartment. But the police officer thinks  
+**[3784.64s] English:** He says, "As I'm getting my document out of my glove compartment." But the police officer thinks,  
 **Translation:** Vocabulary: compartment: 储物格
 
-**[3789.84s] English:** because I have not responded to his demand to show my hands that I might be reaching for a weapon.  
+**[3789.84s] English:** Because I have not responded to his demand to show my hands, that I might be reaching for a weapon.  
 **Translation:** 
 
 **[3795.40s] English:** And the police officer sees that I'm black and fears that the likelihood that I might have a  
 **Translation:** Vocabulary: likelihood: 可能性
 
-**[3805.56s] English:** The people who get stopped with weapons in their car happen to be black and male and so on.  
+**[3805.56s] English:** The people who get stopped with weapons in their cars happen to be black and male, and so on.  
 **Translation:** 
 
-**[3812.40s] English:** And he pulls his weapon and he discharges it and I'm bleeding out there and I'm dead now.  
+**[3812.40s] English:** And he pulls his weapon and he discharges it, and I'm bleeding out there, and I'm dead now.  
 **Translation:** Vocabulary: discharges: 开枪
 
-**[3817.58s] English:** And all of that is a possibility that's very real and it's based upon the color of my skin.  
+**[3817.58s] English:** And all of that is a possibility that's very real, and it's based upon the color of my skin.  
 **Translation:** 
 
 **[3822.42s] English:** And therefore, when he stops me, I keep my hands on the steering wheel and I don't go to the glove compartment.  
@@ -1942,73 +1943,73 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3828.78s] English:** And I'm fearful of the fact that he might mistake me for a criminal, etc.  
 **Translation:** 
 
-**[3834.52s] English:** Or I walk into a high end store, clothing store. I see you're nicely dressed there.  
+**[3834.52s] English:** Or I walk into a high-end store, a clothing store. I see you're nicely dressed there.  
+**Translation:** Vocabulary: fearful: 害怕; nicely: 漂亮地
+
+**[3840.00s] English:** I'm not, but that's okay. I do have some good clothes at home. I just didn't wear them here.  
 **Translation:** 
 
-**[3840.00s] English:** I'm not, but that's okay. I do have some good clothes at home. I just didn't wear them here  
+**[3845.60s] English:** Today, but you know what I mean? And the salesman in the clothing store either treats me like an  
+**Translation:** Vocabulary: salesman: 店员; treats: 对待
+
+**[3854.86s] English:** Old friend, and is warm and welcoming. What can I do for you, sir? And let me show you this, and  
 **Translation:** 
 
-**[3845.60s] English:** today. But you know what I mean? And the salesman in the clothing store either treats me like an  
+**[3860.56s] English:** That. And what are you looking for? Because he thinks I'm going to spend $1,000 there that day.  
 **Translation:** 
 
-**[3854.86s] English:** old friend and is warm and welcoming and what can I do for you, sir? And let me show you this and  
+**[3864.58s] English:** And he's going to get a 5% commission, or whatever it is. And he either does that or he ignores me.  
 **Translation:** 
 
-**[3860.56s] English:** that. And what are you looking for? Because he thinks I'm going to spend $1,000 there that day  
+**[3871.16s] English:** And he looks at me with suspicion, thinking I might be trying to shoplift something, or thinks I'm  
 **Translation:** 
 
-**[3864.58s] English:** and he's going to get a 5% commission or whatever it is. And he either does that or he ignores me  
+**[3875.14s] English:** Only, I'm going to spend $50 and not $500, and therefore, I'm not worth his time.  
 **Translation:** 
 
-**[3871.16s] English:** and looks at me with suspicion and thinks I might be trying to shoplift something or thinks I'm  
-**Translation:** Vocabulary: shoplift: 偷窃商品
-
-**[3875.14s] English:** only going to spend $50 and not $500 and therefore I'm not worth his time.  
+**[3880.38s] English:** And I am aware of the fact that when I go into the clothing store, especially the high-end places,  
 **Translation:** 
 
-**[3880.38s] English:** And I'm aware of the fact that when I go into the clothing store, especially the high-end places  
+**[3885.92s] English:** Where can I buy a good suit, or some really good dress shirts or slacks that fit me well?  
 **Translation:** 
 
-**[3885.92s] English:** where I can buy a good suit or buy some really good dress shirts or slacks that fit me well and  
-**Translation:** 
-
-**[3893.20s] English:** so on.  
+**[3893.20s] English:** So on.  
 **Translation:** Vocabulary: slacks: 长裤
 
 **[3893.98s] English:** I'm aware of that.  
 **Translation:** 
 
-**[3894.56s] English:** I'm aware of the fact that I may not be taken seriously by the salesman based upon the fact  
+**[3894.56s] English:** I'm aware of the fact that I may not be taken seriously by the salesman, based upon the fact  
 **Translation:** 
 
-**[3900.16s] English:** that he's looking at me and he sees a Black person. And therefore, I dress up before I go out  
+**[3900.16s] English:** That he's looking at me and he sees a Black person. And therefore, I dress up before I go out.  
 **Translation:** 
 
-**[3907.08s] English:** to buy clothes because I want to present myself as not someone who just walked in off the street,  
+**[3907.08s] English:** To buy clothes because I want to present myself as not someone who just walked in off the street.  
 **Translation:** 
 
-**[3913.14s] English:** but as one of those Black people who is really prepared to spend some money in the store so  
+**[3913.14s] English:** But, as one of those Black people who is really prepared to spend some money in the store, so  
 **Translation:** 
 
-**[3917.48s] English:** that I can be treated with respect. And I have to carry the burden, such as it is, of knowing that  
+**[3917.48s] English:** That I can be treated with respect. And I have to carry the burden, such as it is, of knowing that.  
+**Translation:** Vocabulary: burden: 负担
+
+**[3924.56s] English:** I need to earn being taken seriously by overcoming the suppositions that people may have about me.  
 **Translation:** 
 
-**[3924.56s] English:** I need to earn the being taken seriously by overcoming the suppositions that people may  
+**[3933.44s] English:** Have they judged me based upon the color of my skin, something like that? Or I ask myself,  
+**Translation:** Vocabulary: overcoming: 克服; suppositions: 假设
+
+**[3941.36s] English:** What am I going to teach my children about who they are and where they come from? What  
 **Translation:** 
 
-**[3933.44s] English:** have about me based upon the color of my skin, something like that. Or I ask myself,  
-**Translation:** Vocabulary: suppositions: 成见
-
-**[3941.36s] English:** what am I going to teach my children about who they are and where they come from? What  
+**[3946.54s] English:** Stories am I going to tell them about their ancestors? Who are their ancestors?  
 **Translation:** 
 
-**[3946.54s] English:** stories am I going to tell them about their ancestors? Who are their ancestors?  
+**[3952.40s] English:** Every African American has your...  
 **Translation:** 
 
-**[3952.40s] English:** Every African-American has your...  
-**Translation:** 
-
-**[3954.56s] English:** European ancestors. Every Black person in the United States of America, I think that...  
+**[3954.56s] English:** European Ancestors. Every Black person in the United States of America, I think that...  
 **Translation:** 
 
 **[3960.00s] English:** I can say that almost without exception. We could go to 23andMe and look at the DNA.  
@@ -2017,40 +2018,40 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[3964.78s] English:** They have European ancestors. They're not purely African. That's a fact, and that's a consequence of the experience of African-descended people, because it's a mixed population.  
 **Translation:** 
 
-**[3977.56s] English:** My name is Lowry, spelled L-O-U-R-Y, but pronounced as if it were L-O-W-E-R-Y. And I gather, if you trace the history of that name, that it's Scottish.  
+**[3977.56s] English:** My name is Lowry, spelled L-O-U-R-Y, but pronounced as if it were LOW-ER-EE. And I gather, if you trace the history of that name, that it's Scottish.  
 **Translation:** 
 
-**[3992.96s] English:** So you could identify as a Scot.  
-**Translation:** Vocabulary: lowry: 较低的雨
+**[3992.96s] English:** So, you could identify as a Scot.  
+**Translation:** Vocabulary: lowry: 劳里; scottish: 苏格兰的
 
 **[3995.22s] English:** Well, or I could claim some Scottish descent, but I don't. I don't know who those ancestors are, and frankly, I don't know who my enslaved ancestors are.  
 **Translation:** 
 
 **[4007.08s] English:** I can't.  
-**Translation:** Vocabulary: enslaved: 被奴役的; scottish: 苏格兰的
+**Translation:** Vocabulary: descent: 血统; enslaved: 被奴役的; frankly: 坦白地说
 
 **[4007.56s] English:** I can't trace my family history back very far into the 19th century.  
 **Translation:** 
 
-**[4014.74s] English:** But so what stories do I tell my children about who we are, about who their ancestors are?  
+**[4014.74s] English:** But what stories do I tell my children about who we are, about who their ancestors are?  
 **Translation:** 
 
-**[4019.30s] English:** I mean, I want to tell my children some story, and that story is going to be colored, quote-unquote, by my race.  
+**[4019.30s] English:** I mean, I want to tell my children some story, and that story is going to be "colored," as they say, by my race.  
 **Translation:** 
 
-**[4027.96s] English:** So even though it is superficial, and in an ideal world, you might think, why would human beings—I mean, I read science.  
+**[4027.96s] English:** So, even though it is superficial, and in an ideal world, you might think: "Why would human beings—I mean, I read science.  
 **Translation:** Vocabulary: superficial: 表面的
 
-**[4037.56s] English:** So there's this Chinese writer, Cixin Liu is his name.  
+**[4037.56s] English:** So there's this Chinese writer named Cixin Liu.  
 **Translation:** 
 
 **[4041.48s] English:** I might not pronounce it exactly right.  
 **Translation:** 
 
-**[4043.00s] English:** C-I-X-I-N-L-I-U, Cixin Liu.  
+**[4043.00s] English:** Cixin Liu, Cixin Liu.  
 **Translation:** 
 
-**[4047.26s] English:** He has a trilogy, The Three-Body Problem, The Dark Forest, and Death's End.  
+**[4047.26s] English:** He has a trilogy: "The Three-Body Problem," "The Dark Forest," and "Death's End.  
 **Translation:** Vocabulary: trilogy: 三部曲
 
 **[4055.46s] English:** Those are the three books of Cixin Liu's trilogy about how Trisolaris, which is another star system within a few light years of the solar system, and Earth.  
@@ -2059,40 +2060,40 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[4067.56s] English:** Get into a conflict.  
 **Translation:** Vocabulary: trisolaris: 三体星
 
-**[4069.94s] English:** And when the Trisolaris come down to dominate Earth, suddenly all of these differences between the Chinese and the—  
+**[4069.94s] English:** And when the Trisolarans come down to dominate Earth, suddenly all of these differences between the Chinese and the —  
 **Translation:** 
 
-**[4080.00s] English:** North Americans and the Europeans and the Africans and the South Asians become kind of insignificant because, after all, the Trisolarians with their advanced civilization, whose star system is dying, have their eyes on the solar system, which has a planet, the third rock from the sun, that is pretty habitable.  
-**Translation:** Vocabulary: dominate: 统治; trisolarians: 三体人
+**[4080.00s] English:** North Americans and the Europeans and the Africans and the South Asians become kind of insignificant because, after all, the Trisolarians, with their advanced civilization (whose star system is dying), have their eyes on the solar system, which has a planet, the third rock from the sun, that is pretty habitable.  
+**Translation:** Vocabulary: asians: 亚洲人; dominate: 统治; trisolarans: 三体人; trisolarians: 三体人
 
-**[4099.14s] English:** And, you know, the difference between us become pretty insignificant. So we shouldn't need for an invasion by extraterrestrial beings to have to happen before we would recognize the common humanity that we all share that is profound and is deep.  
+**[4099.14s] English:** And, you know, the difference between us becomes pretty insignificant. So, we shouldn't need an invasion by extraterrestrial beings to happen before we recognize the common humanity that we all share, which is profound and deep.  
 **Translation:** 
 
 **[4122.60s] English:** We all descend, in effect, from the same ancestral population of Homo sapiens who walked out of.  
-**Translation:** Vocabulary: ancestral: 祖先的; extraterrestrial: 外星的; profound: 深刻的; sapiens: 智人的
+**Translation:** Vocabulary: ancestral: 祖先的; descend: 源自; extraterrestrial: 外星的; profound: 深刻的; sapiens: 智人的
 
-**[4129.14s] English:** East Africa eons ago and have survived amongst all of the different possible, you know, variations of species and whatnot of humanoid population.  
+**[4129.14s] English:** East Africa eons ago, and have survived among all of the different possible variations of species and whatnot in the humanoid population.  
 **Translation:** 
 
-**[4140.72s] English:** The Homo sapiens have flourished. The others have died out. And here we are. And, you know, we can just look at the genetic endowments that characterize our biological essence and we can see that we are all, quote unquote, the same beneath the skin.  
-**Translation:** Vocabulary: characterize: 特征; endowments: 天赋; flourished: 繁荣; humanoid: 类人; whatnot: 等等
+**[4140.72s] English:** The Homo sapiens have flourished. The others have died out. And here we are. And, you know, we can just look at the genetic endowments that characterize our biological essence, and we can see that we are all, quote-unquote, the same beneath the skin.  
+**Translation:** Vocabulary: characterize: 特征; endowments: 天赋; flourished: 繁荣; humanoid: 类人; variations: 变异; whatnot: 等等
 
-**[4156.64s] English:** And yet we end up.  
+**[4156.64s] English:** And yet, we end up.  
 **Translation:** 
 
-**[4159.14s] English:** Freighting so much weight onto these superficial differences. So I can I can see both sides of the issue is what I'm saying.  
+**[4159.14s] English:** Freighting so much weight onto these superficial differences. So, I can see both sides of the issue, I'm saying.  
 **Translation:** Vocabulary: freighting: 装载; superficial: 表面的
 
-**[4167.24s] English:** I can see the argument race is an irrelevancy because at the end of the day, deep down it is.  
+**[4167.24s] English:** I can see the argument that race is an irrelevancy because, at the end of the day, deep down, it is.  
 **Translation:** 
 
-**[4175.38s] English:** But I can also see the argument that I hold on to racial identity because, A, my racial presentation colors how other people deal with me.  
+**[4175.38s] English:** But I can also see the argument that I hold onto racial identity because, A, my racial presentation colors how other people deal with me.  
 **Translation:** Vocabulary: irrelevancy: 无关性
 
-**[4186.02s] English:** But B, because everybody needs to be able to see that.  
+**[4186.02s] English:** But B, because everyone needs to be able to see that.  
 **Translation:** 
 
-**[4189.14s] English:** It's a story, you know, everybody needs an account.  
+**[4189.14s] English:** It's a story, you know—everybody needs an account.  
 **Translation:** 
 
 **[4192.60s] English:** You tell me you're Jewish.  
@@ -2105,189 +2106,189 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[4197.78s] English:** I do know that it's a culturally.  
-**Translation:** Vocabulary: culturally: 文化上
+**Translation:** Vocabulary: culturally: 文化上; genetically: 基因上
 
-**[4200.00s] English:** profound identity for a lot of people based upon maybe some of the same kind of forces that I'm  
+**[4200.00s] English:** Profound identity for a lot of people, based upon maybe some of the same kinds of forces that I'm  
 **Translation:** 
 
-**[4209.02s] English:** talking about. A, they won't let you not be Jewish. You could say you're not Jewish, but when  
+**[4209.02s] English:** Talking about it, they won't let you not be Jewish. You could say you're not Jewish, but when  
+**Translation:** Vocabulary: profound: 深刻的
+
+**[4214.54s] English:** Hitler is rounding up people. What you say doesn't have a whole lot to do with what the Gestapo was.  
 **Translation:** 
 
-**[4214.54s] English:** Hitler is rounding people up, what you say doesn't have a whole lot to do with what the Gestapo was  
+**[4220.92s] English:** About. And B, you need to tell your children a story. That's the fascinating thing about this.  
+**Translation:** Vocabulary: gestapo: 盖世太保; hitler: 希特勒; rounding: 逮捕
+
+**[4227.58s] English:** Tribalism, that you spoke about—that we form tribes as humans throughout human history,  
 **Translation:** 
 
-**[4220.92s] English:** about. And B, you need to tell your children a story. That's the fascinating thing about this  
-**Translation:** Vocabulary: gestapo: 盖世太保; rounding: 逮捕
+**[4236.42s] English:** Form tribes and have directed hate toward other tribes, and sometimes violence and destruction.  
+**Translation:** Vocabulary: tribalism: 部落主义; tribes: 部落
 
-**[4227.58s] English:** tribalism that you spoke about, that we form tribes as humans throughout human history,  
+**[4244.08s] English:** And yet, tribalism allows you to tell a story to your children and allows you to grow a culture.  
 **Translation:** 
 
-**[4236.42s] English:** form tribes and have directed hate toward other tribes and sometimes violence and destruction.  
-**Translation:** Vocabulary: tribalism: 部落主义
-
-**[4244.08s] English:** And yet, tribalism allows you to tell a story to your children, allows you to grow a culture.  
+**[4251.32s] English:** There's something about defining yourself within a particular tribe that allows you to.  
 **Translation:** 
 
-**[4251.32s] English:** There's something about defining yourself within a particular tribe that allows you to  
-**Translation:** 
-
-**[4255.98s] English:** have a tradition.  
+**[4255.98s] English:** We have a tradition.  
 **Translation:** 
 
 **[4257.58s] English:** Yeah.  
 **Translation:** 
 
-**[4258.72s] English:** You have an article that you wrote called The Case for Black Patriotism.  
+**[4258.72s] English:** You have an article that you wrote called "The Case for Black Patriotism.  
 **Translation:** 
 
 **[4265.40s] English:** Oh, yeah.  
 **Translation:** Vocabulary: patriotism: 爱国情怀
 
-**[4267.46s] English:** So I should also say, it's so interesting because for me personally, I feel, identify as,  
+**[4267.46s] English:** So, I should also say, it's so interesting because, for me personally, I feel and identify as,  
 **Translation:** 
 
-**[4278.58s] English:** believe I am an American. And yet within the American umbrella, it feels that there's a  
+**[4278.58s] English:** Believe me, I am an American. And yet, within the American umbrella, it feels that there's a  
 **Translation:** 
 
-**[4285.30s] English:** longing for other tribes. You mentioned,  
+**[4285.30s] English:** Longing for other tribes. You mentioned,  
 **Translation:** 
 
-**[4287.58s] English:** I'm Jewish, but what I honestly feel is, I mean, a lot of it is humor and culture and so on,  
+**[4287.58s] English:** I'm Jewish, but what I honestly feel is that a lot of it is humor and culture and so on.  
 **Translation:** 
 
-**[4294.40s] English:** is Russian and Ukrainian, because that's where I come from. That's where my family is from.  
+**[4294.40s] English:** Is Russian and Ukrainian, because that's where I'm from. That's where my family is from.  
 **Translation:** 
 
-**[4300.06s] English:** You know, there's like stereotypical things that are funny, humorous type of thing about  
-**Translation:** Vocabulary: stereotypical: 刻板印象
+**[4300.06s] English:** You know, there are like stereotypical things that are funny or humorous types of things about  
+**Translation:** Vocabulary: humorous: 幽默; stereotypical: 刻板印象
 
-**[4307.40s] English:** Russians, showing no emotion, good at chess and math, into wrestling, drinking vodka. I mean,  
+**[4307.40s] English:** Russians, showing no emotion, are good at chess and math, into wrestling, drinking vodka. I mean,  
 **Translation:** 
 
-**[4317.22s] English:** there's literally every single stereotype. I'm in the  
-**Translation:** Vocabulary: stereotype: 刻板印象; vodka: 伏特加; wrestling: 摔跤
+**[4317.22s] English:** There's literally every single stereotype. I'm in the  
+**Translation:** Vocabulary: stereotype: 刻板印象; vodka: 伏特加酒; wrestling: 摔跤
 
-**[4320.00s] English:** embodiment of that so there's a you celebrate that in certain kinds of ways there's a tradition there  
+**[4320.00s] English:** Embodiment of that, so there's a way to celebrate that in certain kinds of ways, there's a tradition there.  
 **Translation:** 
 
-**[4325.52s] English:** within the american umbrella and some of it is humor some of it is uh little quirks of culture  
-**Translation:** Vocabulary: embodiment: 体现; quirks: 怪癖
+**[4325.52s] English:** Within the American umbrella, and some of it is humor, some of it is, uh, little quirks of culture.  
+**Translation:** Vocabulary: embodiment: 具体表现; quirks: 怪癖
 
-**[4332.96s] English:** but now with the war in russia and ukraine interestingly enough even that little thing  
+**[4332.96s] English:** But now, with the war in Russia and Ukraine, interestingly enough, even that little thing.  
 **Translation:** 
 
-**[4338.48s] English:** it becomes also a source of uh negative tribalism but anyway uh that context aside  
+**[4338.48s] English:** It becomes also a source of negative tribalism, but anyway, that context aside.  
+**Translation:** Vocabulary: tribalism: 部落主义
+
+**[4346.24s] English:** What is black patriotism, and why do you feel that way? I mean, I'm speaking in an article called "The Case  
 **Translation:** 
 
-**[4346.24s] English:** what is black patriotism and why do you feel i mean i'm speaking in an article called the case  
+**[4355.78s] English:** For black patriotism in a particular context, and what I'm saying basically is very simple.  
+**Translation:** Vocabulary: patriotism: 爱国情怀
+
+**[4365.22s] English:** I'm saying we are African Americans, and the emphasis should be on the American.  
 **Translation:** 
 
-**[4355.78s] English:** for black patriotism in a particular context and what i'm saying basically is very simple  
+**[4371.02s] English:** I actually don't much care.  
 **Translation:** 
 
-**[4365.22s] English:** i'm saying we are african americans and the emphasis should be on the american  
+**[4376.24s] English:** For the framing of African-Americans, but I'm not going to fight with people about it; it's you know.  
 **Translation:** 
 
-**[4371.02s] English:** i actually don't even much care  
+**[4384.24s] English:** I don't think it's worth fighting about; that's not how I would just say, "We're Americans," or if you.  
+**Translation:** Vocabulary: framing: 定性
+
+**[4388.64s] English:** We're certainly not African; we're Black Americans, that is, the African-American population.  
 **Translation:** 
 
-**[4376.24s] English:** for the framing african-american but i'm not going to fight with people about it it it's you know  
+**[4396.32s] English:** Is there a population of people who come into existence here in North America through the cauldron of?  
+**Translation:** Vocabulary: cauldron: 大锅
+
+**[4403.84s] English:** Slavery.  
 **Translation:** 
 
-**[4384.24s] English:** i don't think it's worth fighting about that's not how i would just say we're americans or if you  
+**[4405.84s] English:** There are  
 **Translation:** 
 
-**[4388.64s] English:** want we're black americans we're certainly not african that is the african-american population  
+**[4406.24s] English:** Also, immigrants from East Africa, immigrants from West Africa, immigrants from  
 **Translation:** 
 
-**[4396.32s] English:** is a population of people who come into existence here in north america through the cauldron of  
-**Translation:** Vocabulary: cauldron: 大熔炉
+**[4411.44s] English:** Southern Africa immigrants from the Caribbean, who descend from an ancestral population which is  
+**Translation:** Vocabulary: ancestral: 祖先的; caribbean: 加勒比海地区的; descend: 后代
 
-**[4403.84s] English:** slavery  
+**[4418.32s] English:** African: We, you know, the history of the world since 1500 is a history in which people of African descent have played significant roles.  
 **Translation:** 
 
-**[4405.84s] English:** there are  
+**[4426.00s] English:** Descent are scattered because of slavery throughout the Western Hemisphere, and so here we are.  
+**Translation:** Vocabulary: descent: 血统; hemisphere: 半球
+
+**[4436.24s] English:** In an empire where the African-American population has done totally ja.  
 **Translation:** 
 
-**[4406.24s] English:** also immigrants immigrants from east africa immigrants from west africa immigrants from  
+**[4440.00s] English:** The institution of slavery ended in 1863 in the United States.  
 **Translation:** 
 
-**[4411.44s] English:** southern africa immigrants from the caribbean who descend from an ancestral population which is  
-**Translation:** Vocabulary: ancestral: 祖先的; caribbean: 加勒比海地区的
-
-**[4418.32s] English:** african we you know the history of the world since 1500 is a history in which people of african  
+**[4444.24s] English:** Abilah  
 **Translation:** 
 
-**[4426.00s] English:** descent are scattered because of slavery throughout the western hemisphere and uh so here we are  
-**Translation:** Vocabulary: hemisphere: 半球
-
-**[4436.24s] English:** in an empire where the the african-american population has done totallyja  
+**[4446.32s] English:** The struggle that we started out talking about.  
 **Translation:** 
 
-**[4444.24s] English:** abilah  
+**[4450.32s] English:** Which, um, gave rise to Martin Luther King giving that speech that you say is the greatest speech.  
 **Translation:** 
 
-**[4455.12s] English:** um  
+**[4455.12s] English:** Um.  
+**Translation:** Vocabulary: luther: 路德
+
+**[4455.52s] English:** In American history, and I'm not going to argue with you about that. Happened right here in the  
 **Translation:** 
 
-**[4440.00s] English:** institution of slavery ended in 1863 in the united states  
+**[4460.24s] English:** United States, yes, we are. This is what the United States is: the United States is a nation of immigrants.  
 **Translation:** 
 
-**[4446.32s] English:** the struggle that we started out talking about  
+**[4467.20s] English:** Uh, the population of the North American continent was sparsely populated by an  
 **Translation:** 
 
-**[4450.32s] English:** which um gave rise to martin luther king giving that speech that you say is the greatest speech  
+**[4472.88s] English:** Indigenous population, which was destroyed in conquest by a European population that settled,  
+**Translation:** Vocabulary: conquest: 征服; indigenous: 土著的; sparsely: 稀疏地
+
+**[4482.08s] English:** Here in North America, they appropriated the land and have built a civilization here.  
 **Translation:** 
 
-**[4455.52s] English:** in american history and i'm not going to argue with you about that happened right here in the  
+**[4488.72s] English:** Which has been peopled by a large influx of individuals from Europe, Irish, and Italian,  
+**Translation:** Vocabulary: influx: 大量涌入
+
+**[4497.28s] English:** Greek, Slavic, and Jewish Russians (and Jews) coming in large numbers in waves, and so on.  
 **Translation:** 
 
-**[4460.24s] English:** united states yes we are this what is the united states the united states is a nation of immigrants  
-**Translation:** 
-
-**[4467.20s] English:** uh the population of the north american continent was sparsely populated by an  
-**Translation:** 
-
-**[4472.88s] English:** indigenous population which was destroyed in conquest by a european population that settled  
-**Translation:** Vocabulary: conquest: 征服; indigenous: 土著; sparsely: 稀疏
-
-**[4482.08s] English:** here in north america and appropriated the land and have built a civilization here  
-**Translation:** 
-
-**[4488.72s] English:** which has been peopled by a large influx of individuals from europe to irish and italian and  
-**Translation:** 
-
-**[4497.28s] English:** greek and slavic and uh jewish russian jews coming in large numbers and uh so on in wave  
-**Translation:** 
-
-**[4504.72s] English:** after wave after wave of immigration asian latin american population of people have come  
+**[4504.72s] English:** After wave after wave of immigration, the Asian and Latin American populations have come.  
 **Translation:** Vocabulary: slavic: 斯拉夫的
 
-**[4511.76s] English:** uh to reside here in the united states and we black americans who descend from slaves  
+**[4511.76s] English:** Uh, to reside here in the United States, and we Black Americans who descend from slaves.  
 **Translation:** 
 
-**[4517.28s] English:** we african americans who descend from slaves so here we are this is a great nation i mean this is  
-**Translation:** Vocabulary: reside: 居住
+**[4517.28s] English:** We African Americans, who descend from slaves—so here we are. This is a great nation, I mean, this is...  
+**Translation:** Vocabulary: descend: 后代; reside: 居住
 
-**[4525.44s] English:** a monumentally  
+**[4525.44s] English:** A monumentally  
 **Translation:** 
 
-**[4527.20s] English:** significant political force which is the united states of america founded in  
+**[4527.20s] English:** Significant political force, which is the United States of America, founded in  
+**Translation:** Vocabulary: monumentally: 极其
+
+**[4533.60s] English:** 1776-1787, they fought a war of independence from the British, and established a republic, which is a  
 **Translation:** 
 
-**[4533.60s] English:** 1776 1787 uh fought a war of independence from the british uh established a republic which is a  
+**[4545.84s] English:** Confederation of these independent colonies, which has grown into,  
+**Translation:** Vocabulary: confederation: 邦联
+
+**[4549.60s] English:** Now, the 50 states of the United States of America, continental nation, the richest and most powerful.  
 **Translation:** 
 
-**[4545.84s] English:** confederation of these independent colonies which has grown into  
-**Translation:** Vocabulary: confederation: 联盟
-
-**[4549.60s] English:** now the 50 states of the united states of america continental nation the richest and most powerful  
-**Translation:** 
-
-**[4557.20s] English:** nation on the planet with many  
+**[4557.20s] English:** Nation on the planet with many.  
 **Translation:** Vocabulary: continental: 大陆的
 
-**[4560.00s] English:** massive influence throughout the world for good and for ill.  
+**[4560.00s] English:** Massive influence throughout the world, for good and for ill.  
 **Translation:** 
 
 **[4564.90s] English:** That's who we are, I want to say to Black people.  
@@ -2296,142 +2297,142 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[4568.84s] English:** There is no other home for us.  
 **Translation:** 
 
-**[4571.68s] English:** This fantasy of we being a people apart,  
+**[4571.68s] English:** This fantasy of us being a people apart,  
 **Translation:** 
 
-**[4576.82s] English:** back in the day when I was coming along in the 1960s,  
+**[4576.82s] English:** Back in the day when I was coming along in the 1960s,  
 **Translation:** 
 
-**[4580.04s] English:** there was something called  
+**[4580.04s] English:** There was something called  
 **Translation:** 
 
-**[4580.88s] English:** the Republic of New Africa Movement.  
+**[4580.88s] English:** The Republic of New Africa Movement.  
 **Translation:** 
 
-**[4583.76s] English:** And they wanted some states in the South  
+**[4583.76s] English:** And they wanted some states in the South.  
 **Translation:** 
 
-**[4586.28s] English:** given over to Black people  
+**[4586.28s] English:** Given over to Black people.  
 **Translation:** 
 
-**[4587.48s] English:** and we were going to have our own country.  
+**[4587.48s] English:** And we were going to have our own country.  
 **Translation:** 
 
-**[4590.00s] English:** And that's a joke, it's a fantasy,  
+**[4590.00s] English:** And that's a joke; it's a fantasy.  
 **Translation:** 
 
-**[4593.38s] English:** it's a mythic, unbalanced, unrealistic, fanciful politics.  
-**Translation:** Vocabulary: fanciful: 离奇; unbalanced: 失衡; unrealistic: 不现实
+**[4593.38s] English:** It's a mythic, unbalanced, unrealistic, and fanciful politics.  
+**Translation:** Vocabulary: fanciful: 奇思妙想; mythic: 神话般的; unbalanced: 失衡的; unrealistic: 不现实的
 
 **[4606.86s] English:** It's not a serious politics.  
 **Translation:** 
 
-**[4608.22s] English:** We're Americans, we're not going anywhere here.  
+**[4608.22s] English:** We're Americans; we're not going anywhere here.  
 **Translation:** 
 
-**[4611.90s] English:** The idea that, and I want to say this  
+**[4611.90s] English:** The idea that, and I want to say this:  
 **Translation:** 
 
-**[4614.56s] English:** in a number of different registers,  
-**Translation:** 
+**[4614.56s] English:** In a number of different registers,  
+**Translation:** Vocabulary: registers: 登记处
 
 **[4616.86s] English:** I want to say, first of all,  
 **Translation:** 
 
-**[4618.82s] English:** we need to make peace  
+**[4618.82s] English:** We need to make peace.  
 **Translation:** 
 
-**[4619.98s] English:** with the fact that that's who we are  
+**[4619.98s] English:** With the fact that that's who we are.  
 **Translation:** 
 
-**[4621.40s] English:** and that's where we are.  
+**[4621.40s] English:** And that's where we are.  
 **Translation:** 
 
-**[4623.30s] English:** So nobody is coming.  
+**[4623.30s] English:** So, nobody is coming.  
 **Translation:** 
 
-**[4626.44s] English:** The world court is not going to litigate our disputes.  
+**[4626.44s] English:** The World Court is not going to litigate our disputes.  
 **Translation:** Vocabulary: disputes: 争端; litigate: 诉讼
 
-**[4630.30s] English:** The United Nations is not going to set up a desk  
+**[4630.30s] English:** The United Nations is not going to set up a desk.  
 **Translation:** 
 
-**[4633.12s] English:** for people of African descent who reside in North America.  
+**[4633.12s] English:** For people of African descent who reside in North America.  
+**Translation:** Vocabulary: reside: 居住
+
+**[4637.30s] English:** We have to work out whatever our concerns are.  
 **Translation:** 
 
-**[4637.30s] English:** We have to work out whatever our concerns are  
+**[4640.24s] English:** With our fellow Americans, right here.  
 **Translation:** 
 
-**[4640.24s] English:** with our fellow Americans right here  
-**Translation:** 
-
-**[4642.26s] English:** within the context of American politics.  
+**[4642.26s] English:** Within the context of American politics.  
 **Translation:** 
 
 **[4645.26s] English:** That means compromise.  
+**Translation:** Vocabulary: compromise: 妥协
+
+**[4647.38s] English:** That means looking for a framework, a framework, another framework,  
 **Translation:** 
 
-**[4647.38s] English:** That means looking for a framework, a framework, a framework,  
+**[4648.88s] English:** A framework, a framework, a framework, a framework.  
 **Translation:** 
 
-**[4648.88s] English:** a framework, a framework, a framework, a framework,  
+**[4649.84s] English:** A framework for political expression,  
 **Translation:** 
 
-**[4649.84s] English:** a framework for political expression,  
+**[4652.94s] English:** Which is broader than our racial identity, etc.  
 **Translation:** 
 
-**[4652.94s] English:** which is broader than our racial identity, et cetera.  
-**Translation:** 
-
-**[4656.40s] English:** So I want to say that.  
+**[4656.40s] English:** So, I want to say that.  
 **Translation:** 
 
 **[4658.26s] English:** But I also want to say,  
 **Translation:** 
 
-**[4659.10s] English:** there's no reason to apologize for this.  
+**[4659.10s] English:** There's no reason to apologize for this.  
 **Translation:** 
 
 **[4660.88s] English:** There's something positive to affirm.  
 **Translation:** Vocabulary: affirm: 肯定
 
-**[4662.96s] English:** I take on this question about slavery in brief, in brief,  
+**[4662.96s] English:** I take on this question about slavery, in brief.  
 **Translation:** 
 
-**[4667.50s] English:** because in fact, slavery was awful and it was wrong  
+**[4667.50s] English:** Because, in fact, slavery was awful and it was wrong.  
 **Translation:** 
 
-**[4670.62s] English:** and it was on the backs of the enslaved Africans  
+**[4670.62s] English:** And it was on the backs of enslaved Africans.  
 **Translation:** 
 
-**[4673.90s] English:** and it had consequences that endured,  
-**Translation:** Vocabulary: enslaved: 被奴役的
-
-**[4677.28s] English:** that have endured long after the termination of the,  
+**[4673.90s] English:** And it had consequences that endured.  
 **Translation:** 
 
-**[4679.70s] English:** the thing.  
+**[4677.28s] English:** That have endured long after the termination of the,  
 **Translation:** 
 
-**[4680.00s] English:** But I also want to say, look at what has happened in the last 150 years for African Americans. And I want to say, look at the vitality of the institutions here in the United States of America, of the Democratic Republic of the United States of America, again, not perfect, which are malleable enough, these institutions, to allow for the transformation of the status of African Americans such as has occurred.  
+**[4679.70s] English:** The thing.  
+**Translation:** Vocabulary: endured: 忍耐
+
+**[4680.00s] English:** But I also want to say: look at what has happened in the last 150 years for African Americans. And I want to say: look at the vitality of the institutions here in the United States of America, of the Democratic Republic of the United States of America—again, not perfect—which are malleable enough, these institutions, to allow for the transformation of the status of African Americans such as has occurred.  
 **Translation:** 
 
-**[4710.00s] English:** Since the end of slavery. And I want to say there's a lot to celebrate in that. So this is our country. We are full members of the polity. We have burdens and responsibilities, as well as privileges that are associated with our membership in this republic.  
-**Translation:** Vocabulary: malleable: 可塑性; privileges: 特权; vitality: 活力
+**[4710.00s] English:** Since the end of slavery, and I want to say there's a lot to celebrate in that. So, this is our country: we are full members of the polity. We have burdens and responsibilities, as well as privileges that are associated with our membership in this republic.  
+**Translation:** Vocabulary: burdens: 负担; malleable: 可塑的; polity: 政治体; privileges: 特权; vitality: 活力
 
 **[4732.44s] English:** That does not mean that we should not fight for what we believe to be right, although we are not one voice.  
 **Translation:** 
 
-**[4740.00s] English:** Here, we black Americans, it does not mean that we should not protest things that we think are deserving of protest. But I want to say it does mean that we should not reject the framework that we're operating in, because we basically don't have any alternative. And because when viewed in full context, a noble and profoundly significant achievement, the United States of America, and a beacon to the rest of the world.  
-**Translation:** Vocabulary: beacon: 灯塔; profoundly: 深刻地
+**[4740.00s] English:** Here, as black Americans, it does not mean that we should not protest things that we think are deserving of protest. But I want to say it does mean that we should not reject the framework we're operating in, because we basically don't have any alternative. And because, when viewed in full context, the United States of America is a noble and profoundly significant achievement—and a beacon to the rest of the world.  
+**Translation:** Vocabulary: beacon: 灯塔; deserving: 值得的; profoundly: 深刻地
 
-**[4770.00s] English:** You know, go off in some starry-eyed kind of jingoistic celebration of America as the greatest civilization, etc, etc. But this great nation is our nation. And I think we do best by beginning, we black Americans do best by beginning, this is my argument in the piece, by beginning from a framework which accepts that fact, and then builds on it.  
+**[4770.00s] English:** You know, going off in some starry-eyed kind of jingoistic celebration of America as the greatest civilization, etc., etc. But this great nation is our nation. And I think we do best by beginning — we black Americans do best by beginning — this is my argument in the piece, by beginning from a framework which accepts that fact, and then builds on it.  
 **Translation:** 
 
-**[4800.00s] English:** So black patriotism is, if not exactly the same, rhymes, echoes American patriotism.  
-**Translation:** Vocabulary: jingoistic: 好战思想; patriotism: 爱国情怀
+**[4800.00s] English:** So, black patriotism is, if not exactly the same, it rhymes and echoes American patriotism.  
+**Translation:** Vocabulary: echoes: 回响; jingoistic: 好战的; patriotism: 爱国主义; rhymes: 押韵
 
-**[4811.68s] English:** So a black American is first and foremost an American.  
+**[4811.68s] English:** So, a Black American is first and foremost an American.  
 **Translation:** 
 
 **[4816.06s] English:** Yeah.  
@@ -2446,14 +2447,14 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[4830.00s] English:** And another powerful, impactful individual, Malcolm X, to ask you the question.  
 **Translation:** 
 
-**[4837.68s] English:** Well, first, people often, perhaps inaccurately, portray them as representing two different ideals, approaches to the fight for civil rights.  
-**Translation:** Vocabulary: inaccurately: 不准确地; malcolm: 马尔科姆; portray: 描绘
+**[4837.68s] English:** Well, first, people often (perhaps inaccurately) portray them as representing two different ideals and approaches to the fight for civil rights.  
+**Translation:** Vocabulary: approaches: 方法; inaccurately: 不准确地; malcolm: 马尔科姆; portray: 描绘
 
-**[4852.06s] English:** So Martin Luther King for the nonviolent approach, the peacemaker.  
+**[4852.06s] English:** So, Martin Luther King was for the nonviolent approach, the peacemaker.  
 **Translation:** 
 
-**[4857.00s] English:** And Malcolm X is the...  
-**Translation:** Vocabulary: nonviolent: 非暴力; peacemaker: 和平使者
+**[4857.00s] English:** And Malcolm X is the....  
+**Translation:** Vocabulary: luther: 马丁; nonviolent: 非暴力; peacemaker: 和平使者
 
 **[4860.00s] English:** By any means necessary.  
 **Translation:** 
@@ -2461,29 +2462,29 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[4862.98s] English:** What do you think about this distinction?  
 **Translation:** 
 
-**[4865.38s] English:** And broadly speaking, in black patriotism, in the future of black Americans in the 21st century, what is the role of anger?  
+**[4865.38s] English:** And, broadly speaking, in black patriotism and the future of Black Americans in the 21st century, what is the role of anger?  
 **Translation:** 
 
 **[4874.86s] English:** What is the role of protest?  
-**Translation:** 
+**Translation:** Vocabulary: broadly: 大致上
 
 **[4878.30s] English:** Even, you know, violence encompasses a lot of things.  
 **Translation:** 
 
-**[4882.02s] English:** But just aggression and the, you know, fuck the man, we're going to have to make change, force change.  
+**[4882.02s] English:** But just aggression and the, you know, fuck the man, we're going to have to make change and force change.  
 **Translation:** Vocabulary: aggression: 攻击; encompasses: 包括
 
 **[4890.00s] English:** Okay.  
 **Translation:** 
 
-**[4892.00s] English:** I think you put your finger on something really important in the context of we were just discussing my black patriotism essay, and it's not the only, it's not the only story.  
-**Translation:** 
+**[4892.00s] English:** I think you've put your finger on something really important in the context of the essay we were just discussing about my black patriotism, and it's not the only story.  
+**Translation:** Vocabulary: patriotism: 爱国情怀
 
-**[4904.72s] English:** There is another story, and Malcolm X is someone you identify, and his memory lives on and is powerfully influential.  
+**[4904.72s] English:** There is another story, and Malcolm X is someone you can identify; and his memory lives on and is powerfully influential.  
 **Translation:** 
 
 **[4915.58s] English:** And I think you see it in Black Lives Matter.  
-**Translation:** Vocabulary: powerfully: 强有力地
+**Translation:** Vocabulary: influential: 有影响力的; powerfully: 强有力地
 
 **[4918.46s] English:** And I think you see it in the Black Lives Matter movement.  
 **Translation:** 
@@ -2494,214 +2495,214 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[4919.98s] English:** And I think you see it in the Black Lives Matter movement.  
 **Translation:** 
 
-**[4920.00s] English:** protest and rioting and so forth that has broken out periodically going all the  
-**Translation:** Vocabulary: rioting: 暴乱
+**[4920.00s] English:** Protests and rioting, and so forth, have broken out periodically, going all the  
+**Translation:** Vocabulary: protests: 抗议; rioting: 暴乱
 
-**[4925.34s] English:** way back to the 1960s and before but especially since the 1960s you saw it in  
+**[4925.34s] English:** Way back to the 1960s and before, but especially since the 1960s, you saw it in  
 **Translation:** 
 
-**[4932.36s] English:** Los Angeles in 1992 the Rodney King civil disturbances that broke out there  
+**[4932.36s] English:** Los Angeles in 1992, the Rodney King civil disturbances that broke out there.  
 **Translation:** Vocabulary: disturbances: 骚乱
 
-**[4938.18s] English:** and the balled-up fist the radical afro centric rejection of the American story  
+**[4938.18s] English:** And the balled-up fist, the radical Afro-centric rejection of the American story.  
 **Translation:** 
 
-**[4950.66s] English:** that Martin Luther King he believed in he believed in a magnificent promissory  
-**Translation:** Vocabulary: rejection: 拒绝
-
-**[4954.14s] English:** note and a lot of people are rolling their eyes you know and saying you know  
+**[4950.66s] English:** That Martin Luther King believed in a magnificent promissory note.  
 **Translation:** 
 
-**[4958.76s] English:** as you say fuck the man magnificent promissory note I mean just get your knee  
+**[4954.14s] English:** Note, and a lot of people are rolling their eyes, you know, and saying, "You know,  
 **Translation:** 
 
-**[4964.52s] English:** off my neck you could that's what you can do for me don't ask me to believe in  
+**[4958.76s] English:** As you say, "fuck the man," that's a magnificent promissory note. I mean, just get your knee off the table.  
 **Translation:** 
 
-**[4968.10s] English:** you don't ask me to believe in you don't ask me to believe in you don't ask me to believe in you  
+**[4964.52s] English:** Off my neck, you could. That's what you can do for me. Don't ask me to believe in  
 **Translation:** 
 
-**[4968.16s] English:** your BS about some magnificent promissory note some founding fathers  
+**[4968.10s] English:** You don't ask me to believe in you. Don't ask me to believe in you. Don't ask me to believe in you.  
 **Translation:** 
 
-**[4972.40s] English:** who were all slave owners anyway I mean just get your knee off my neck now I can  
+**[4968.16s] English:** Your BS about some magnificent promissory note, some founding fathers.  
+**Translation:** 
+
+**[4972.40s] English:** Who were all the slave owners, anyway? I mean, just get your knee off my neck. Now I can.  
 **Translation:** Vocabulary: founding: 创立
 
-**[4978.88s] English:** relate to that as I mentioned I grew up in Chicago in the 1950s in the 1960s I  
+**[4978.88s] English:** Relate to that: As I mentioned, I grew up in Chicago in the 1950s and the 1960s.  
 **Translation:** 
 
-**[4986.28s] English:** remember Malcolm X I mean literally in real time I remember when he was  
+**[4986.28s] English:** Remember, Malcolm X—I mean, literally in real time—I remember when he was.  
 **Translation:** Vocabulary: malcolm: 马尔科姆
 
-**[4991.08s] English:** murdered in 1965 in the Audubon ballroom in Harlem  
+**[4991.08s] English:** Murdered in 1965 in the Audubon Ballroom in Harlem.  
 **Translation:** 
 
-**[4998.08s] English:** in Manhattan in New York City I remember my uncle I was raised in a  
-**Translation:** Vocabulary: audubon: 奥杜邦; ballroom: 舞厅; harlem: 哈莱姆
+**[4998.08s] English:** In Manhattan, in New York City, I remember my uncle; I was raised in a  
+**Translation:** Vocabulary: audubon: 奥杜邦; ballroom: 舞厅; harlem: 哈莱姆; manhattan: 曼哈顿
 
-**[5005.84s] English:** house where my aunt and uncle were the master of the house and my mother and my  
+**[5005.84s] English:** House where my aunt and uncle were the masters of the house, and my mother and I were guests.  
 **Translation:** 
 
-**[5010.58s] English:** sister and I lived in a small apartment upstairs in the back of this of this big  
+**[5010.58s] English:** Sister and I lived in a small apartment upstairs in the back of this big building.  
 **Translation:** 
 
-**[5016.46s] English:** house that my successful aunt and uncle owned and my uncle was a small  
+**[5016.46s] English:** House that my successful aunt and uncle owned, and my uncle was a small  
 **Translation:** 
 
-**[5021.96s] English:** businessman a barber and a tradesman he was he was a hustler I mean each and every day, money was sucked.  
-**Translation:** Vocabulary: hustler: 投机商; tradesman: 手艺人
+**[5021.96s] English:** Businessman, a barber, and a tradesman; he was, he was a hustler. I mean, each and every day, money was sucked.  
+**Translation:** Vocabulary: hustler: 辛勤工作者; sucked: 被榨干; tradesman: 手艺人
 
-**[5028.08s] English:** He did what he had to do to make money. He was very enterprising, not especially well-educated, but very intelligent and disciplined and resourceful.  
+**[5028.08s] English:** He did what he had to do to make money. He was very enterprising, not especially well-educated, but very intelligent, disciplined, and resourceful.  
 **Translation:** 
 
-**[5040.00s] English:** provider for his family which included myself my sister and my mother in their household  
-**Translation:** Vocabulary: disciplined: 有纪律; enterprising: 有进取心; resourceful: 机智灵活
+**[5040.00s] English:** Provider for his family, which included myself, my sister, and my mother in their household.  
+**Translation:** Vocabulary: disciplined: 有纪律; enterprising: 有进取心; provider: 养家糊口的人; resourceful: 机智的
 
-**[5046.02s] English:** and we called him uncle mooney because he had moon-shaped eyes that protruded and were round  
+**[5046.02s] English:** And we called him Uncle Mooney because he had moon-shaped, protruding, round eyes.  
 **Translation:** 
 
-**[5052.24s] English:** uncle mooney uh james ellis was his name uncle mooney james ellis lee was my uncle mooney but  
-**Translation:** Vocabulary: mooney: 莫尼; protruded: 突出
+**[5052.24s] English:** Uncle Mooney, James Ellis was his name. Uncle Mooney, James Ellis Lee was my uncle Mooney, but  
+**Translation:** Vocabulary: mooney: 莫尼; protruding: 突出的
 
-**[5061.84s] English:** i'm saying all that to say this he admired the nation of islam i mean king and malcolm x  
+**[5061.84s] English:** I'm saying all that to say this: He admired the Nation of Islam—i.e., King and Malcolm X.  
 **Translation:** 
 
-**[5069.76s] English:** martin king and malcolm x differed along a number of different dimensions malcolm x was a muslim  
-**Translation:** Vocabulary: differed: 分歧; dimensions: 方面; islam: 伊斯兰; muslim: 穆斯林
+**[5069.76s] English:** Martin King and Malcolm X differed along a number of different dimensions. Malcolm X was a Muslim.  
+**Translation:** Vocabulary: differed: 差异; dimensions: 方面; islam: 伊斯兰教; malcolm: 马尔科姆; muslim: 穆斯林
 
-**[5074.20s] English:** and martin luther king jr was a christian minister  
+**[5074.20s] English:** And Martin Luther King Jr. was a Christian minister.  
 **Translation:** 
 
-**[5077.54s] English:** my uncle mooney didn't have any time for these christian ministers he thought that was the white  
+**[5077.54s] English:** My Uncle Mooney didn't have any time for these Christian ministers; he thought that was the white people's business.  
+**Translation:** Vocabulary: luther: 路德
+
+**[5084.94s] English:** Man's religion, you know, and back in that day, you'd go into a black church and you'd see a portrait,  
 **Translation:** 
 
-**[5084.94s] English:** man's religion he you know and back in that day you go into a black church and you'd see a portrait  
+**[5091.86s] English:** Of Jesus, and He'd be a blonde-haired, blue-eyed guy, yeah; He didn't even look like a Mediterranean.  
 **Translation:** 
 
-**[5091.86s] English:** of jesus and he'd be a blonde hair blue eyed yeah he didn't even look like uh like a mediterranean  
+**[5099.76s] English:** He didn't; I mean, he didn't look like somebody who came from Palestine. I mean, he looked like  
 **Translation:** 
 
-**[5099.76s] English:** he didn't i mean he didn't look like somebody who came from uh palestine i mean he looked like  
-**Translation:** 
-
-**[5104.16s] English:** somebody who came uh from northern europe or something like that the picture of jesus and  
+**[5104.16s] English:** Somebody who came, uh, from Northern Europe or something like that, the picture of Jesus and  
 **Translation:** Vocabulary: palestine: 巴勒斯坦
 
-**[5108.00s] English:** my uncle mooney rejected that whole thing he would be damned if he was gonna bend his knee to some  
+**[5108.00s] English:** My uncle Mooney rejected that whole thing; he would be damned if he was gonna bend his knee to some.  
 **Translation:** 
 
-**[5114.50s] English:** white jesus but he was not a muslim either but he respected the muslims he brought home  
+**[5114.50s] English:** White Jesus, but he was not a Muslim either. But he respected the Muslims; he brought them home.  
+**Translation:** Vocabulary: damned: 该死; respected: 尊重
+
+**[5122.94s] English:** Their newspaper, it was called "Muhammad Speaks." This is the Nation of Islam, which is the Black  
 **Translation:** 
 
-**[5122.94s] English:** their newspaper it was called muhammad speaks this is the nation of islam which is the black  
-**Translation:** 
-
-**[5129.76s] English:** movement uh founded uh in uh american cities in detroit and then chicago uh going back to the  
+**[5129.76s] English:** Movement, uh, founded in American cities like Detroit and then Chicago, going back to the  
 **Translation:** Vocabulary: detroit: 底特律; muhammad: 穆罕默德
 
-**[5137.28s] English:** early middle 20th century and growing into a very significant movement uh that had a lot of  
+**[5137.28s] English:** Early in the middle 20th century, and growing into a very significant movement that had a lot of  
 **Translation:** 
 
-**[5144.46s] English:** influence lewis farrakhan and a controversial figure descends from this movement it has  
-**Translation:** Vocabulary: descends: 源自; farrakhan: 法哈拉罕
-
-**[5150.44s] English:** uh fractured now and uh has the major part of the legacy of the black muslims  
+**[5144.46s] English:** Influences Lewis Farrakhan, and a controversial figure descends from this movement, it has.  
 **Translation:** 
 
-**[5159.76s] English:** i have  
-**Translation:** Vocabulary: fractured: 破碎
-
-**[5160.00s] English:** assimilated itself into Islam proper. Malcolm X made a famous pilgrimage to Mecca and Medina and  
+**[5150.44s] English:** Uh, it's fractured now, and has the major part of the legacy of the Black Muslims.  
 **Translation:** 
 
-**[5169.44s] English:** came back with a very different vision about what it meant to be a Muslim and  
-**Translation:** Vocabulary: assimilated: 融合; mecca: 麦加; medina: 麦地那; pilgrimage: 朝圣
+**[5159.76s] English:** I have  
+**Translation:** Vocabulary: fractured: 分裂
 
-**[5173.60s] English:** understood himself to be a part of the large tradition and religious culture of Islam that  
+**[5160.00s] English:** Assimilated itself into Islam proper. Malcolm X made a famous pilgrimage to Mecca and Medina, and  
 **Translation:** 
 
-**[5179.36s] English:** has a global reach. And he had a different vision when he came back from that. Some people say  
+**[5169.44s] English:** Came back with a very different vision about what it meant to be a Muslim and  
+**Translation:** Vocabulary: assimilated: 融合; islam: 伊斯兰教; mecca: 麦加; medina: 麦地那; muslim: 穆斯林; pilgrimage: 朝圣
+
+**[5173.60s] English:** Understood himself to be a part of the large tradition and religious culture of Islam,  
 **Translation:** 
 
-**[5184.40s] English:** that's why he was killed and so on. I don't know. I certainly find that to be plausible, that he  
+**[5179.36s] English:** Has a global reach. And he had a different vision when he came back from that. Some people say,  
 **Translation:** 
 
-**[5190.88s] English:** became the constitutive threat to the sect, which was the Black Muslims and had to be dealt with.  
+**[5184.40s] English:** That's why he was killed, and so on. I don't know. I certainly find that to be plausible; that he  
+**Translation:** 
+
+**[5190.88s] English:** Became the constitutive threat to the sect, which was the Black Muslims, and had to be dealt with.  
 **Translation:** Vocabulary: constitutive: 构成性的; plausible: 合情合理的
 
-**[5200.24s] English:** I don't know if we'll ever know the full story on that. But anyway, what I'm trying to say is  
+**[5200.24s] English:** I don't know if we'll ever know the full story on that. But anyway, what I'm trying to say is:  
 **Translation:** 
 
-**[5205.36s] English:** the Black Muslims were there. Malcolm X was there. And in my experience, it constituted a counterpoint  
-**Translation:** Vocabulary: counterpoint: 对比观点; malcolm: 马拉默德
-
-**[5214.16s] English:** to  
+**[5205.36s] English:** The Black Muslims were there. Malcolm X was there. And in my experience, it constituted a counterpoint.  
 **Translation:** 
 
-**[5214.40s] English:** the position of king, which depended on a kind of respect for the best of the tradition  
+**[5214.16s] English:** To  
 **Translation:** 
 
-**[5222.64s] English:** of American democracy, appealing to the better nature of our oppressors, live up to the full  
+**[5214.40s] English:** The position of King, which depended on a kind of respect for the best of the tradition.  
 **Translation:** 
 
-**[5231.52s] English:** meaning of our creed. I mean, these are words that he would use. A magnificent promissory note  
-**Translation:** Vocabulary: appealing: 打动; creed: 信条; oppressors: 压迫者
-
-**[5237.74s] English:** is what he would think of as the Declaration of Independence and the legacy of Abraham Lincoln.  
+**[5222.64s] English:** Of American democracy, appealing to the better nature of our oppressors, we must live up to the full  
 **Translation:** 
 
-**[5244.40s] English:** An unfulfilled ideal. And the Black Muslims were like, fuck that. We're going to take care of our  
-**Translation:** Vocabulary: unfulfilled: 未实现的理想
+**[5231.52s] English:** The meaning of our creed. I mean, these are words that he would use. A magnificent promissory note.  
+**Translation:** Vocabulary: appealing: 吸引; creed: 信条; oppressors: 压迫者
 
-**[5252.86s] English:** own. We're going to build our own schools. We're going to build our own businesses. We're not  
+**[5237.74s] English:** This is what he would think of as the Declaration of Independence and the legacy of Abraham Lincoln.  
 **Translation:** 
 
-**[5260.82s] English:** waiting for the white man to do anything. Get your knee off my neck and get out of my way and let me  
+**[5244.40s] English:** An unfulfilled ideal. And the Black Muslims were like, "Fuck that." We're going to take care of our  
+**Translation:** Vocabulary: abraham: 亚伯拉罕; unfulfilled: 未实现的
+
+**[5252.86s] English:** Our own. We're going to build our own schools. We're going to build our own businesses. We're not  
 **Translation:** 
 
-**[5264.62s] English:** take care of my own. And my uncle respected that. He respected the straight back, the stand up  
+**[5260.82s] English:** Waiting for the white man to do anything. Get your knee off my neck, get out of my way, and let me.  
 **Translation:** 
 
-**[5271.60s] English:** straight with your shoulders back. That's a Jordan Peterson. But I mean, that was,  
-**Translation:** Vocabulary: peterson: 约旦·皮特森
-
-**[5274.40s] English:** that was way before Jordan Peterson, but that was his philosophy. Stand up straight, but just  
+**[5264.62s] English:** Take care of my own. And my uncle respected that. He respected the straight back and the stand-up.  
 **Translation:** 
 
-**[5278.48s] English:** raise your children.  
+**[5271.60s] English:** Straighten up with your shoulders back. That's a Jordan Peterson. But I mean, that was,  
+**Translation:** Vocabulary: peterson: 约旦·皮特森; respected: 尊重; straighten: 挺直
+
+**[5274.40s] English:** That was way before Jordan Peterson, but that was his philosophy: stand up straight, but just.  
 **Translation:** 
 
-**[5280.00s] English:** Don't be depending upon welfare. You're taking welfare from the white man.  
+**[5278.48s] English:** Raise your children.  
+**Translation:** 
+
+**[5280.00s] English:** Don't depend on welfare. You're taking welfare from the white man.  
 **Translation:** 
 
 **[5284.62s] English:** You need to get busy. You need to educate yourself. You need to clean up your act.  
 **Translation:** 
 
-**[5288.70s] English:** Put down the fried chicken because it's going to kill you.  
+**[5288.70s] English:** Put down the fried chicken because it's going to kill you!  
 **Translation:** 
 
-**[5292.72s] English:** My uncle Mooney loved this book that Elijah Muhammad, they called him the honorable Elijah Muhammad, was the founder and the leader of the Nation of Islam.  
-**Translation:** Vocabulary: elijah: 埃利亚贾; honorable: 尊贵的; islam: 伊斯兰; muhammad: 穆罕默德
+**[5292.72s] English:** My uncle Mooney loved this book, which was founded and led by Elijah Muhammad, whom they called "the Honorable" Elijah Muhammad.  
+**Translation:** Vocabulary: elijah: 以利亚; honorable: 尊贵的; muhammad: 穆罕默德
 
-**[5303.20s] English:** He had a book and all the book said was. Be smart, eat green vegetables, don't eat fried food, don't eat pork.  
+**[5303.20s] English:** He had a book, and all it said was: "Be smart, eat green vegetables, don't eat fried food, don't eat pork.  
 **Translation:** 
 
-**[5312.54s] English:** They're Muslims. Don't eat pork and take responsibility for your diet and be healthy.  
+**[5312.54s] English:** They're Muslims. Don't eat pork, and take responsibility for your diet and be healthy.  
 **Translation:** 
 
 **[5319.92s] English:** And, you know, don't be putting a whole lot of pills into your body.  
 **Translation:** 
 
-**[5323.44s] English:** You don't need to do that if you just get control of your diet and you eat properly.  
+**[5323.44s] English:** You don't need to do that if you just get control of your diet and eat properly.  
 **Translation:** 
 
 **[5327.56s] English:** You know, my uncle loves this idea of responsibility for self.  
 **Translation:** 
 
-**[5333.20s] English:** And a determination to build, you know, he he respected that in the Muslims, even if he didn't buy the religious part of it.  
+**[5333.20s] English:** And a determination to build— you know, he respected that in the Muslims, even if he didn't buy the religious part of it.  
 **Translation:** 
 
-**[5343.96s] English:** And so now and by the way, when my uncle died.  
+**[5343.96s] English:** And so, now—and by the way—when my uncle died.  
 **Translation:** 
 
 **[5348.20s] English:** In 1983.  
@@ -2711,24 +2712,24 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[5355.60s] English:** It wasn't money, unfortunately.  
-**Translation:** Vocabulary: bequest: 遗嘱
+**Translation:** Vocabulary: bequest: 遗赠
 
-**[5357.66s] English:** It was his complete collection of the recorded speeches.  
+**[5357.66s] English:** It was his complete collection of recorded speeches.  
 **Translation:** 
 
 **[5363.20s] English:** Of Malcolm X.  
 **Translation:** 
 
-**[5365.20s] English:** And I have I have these albums.  
+**[5365.20s] English:** And I have these albums.  
 **Translation:** 
 
-**[5367.20s] English:** These are 33 and a third LPs.  
+**[5367.20s] English:** These are 33 and one-third LPs.  
 **Translation:** 
 
-**[5369.20s] English:** There's six of them.  
+**[5369.20s] English:** There are six of them.  
 **Translation:** 
 
-**[5371.20s] English:** And I have a complete collection as best as my uncle could assemble of the recorded speeches of Malcolm X.  
+**[5371.20s] English:** And I have a complete collection, as best as my uncle could assemble, of the recorded speeches of Malcolm X.  
 **Translation:** Vocabulary: assemble: 收集
 
 **[5377.20s] English:** Now, why did he do that?  
@@ -2746,7 +2747,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[5385.20s] English:** Stand up straight with your shoulders back.  
 **Translation:** 
 
-**[5387.20s] English:** Proud black man.  
+**[5387.20s] English:** Proud Black man.  
 **Translation:** 
 
 **[5389.20s] English:** Take care of your business.  
@@ -2764,109 +2765,109 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[5397.20s] English:** This was this philosophy.  
 **Translation:** 
 
-**[5400.00s] English:** uh so violence now that's another story i mean malcolm x would say you know uh we're going to  
+**[5400.00s] English:** Uh, so violence—now that's another story. I mean, Malcolm X would say, "You know, we're going to...  
 **Translation:** Vocabulary: malcolm: 马尔科姆
 
-**[5408.84s] English:** defend ourselves so you're going to mess with us you know you racist ku klux klan or whatever we're  
+**[5408.84s] English:** Defend ourselves, so you're going to mess with us? You know, you racist Ku Klux Klan or whatever—we're  
 **Translation:** 
 
-**[5414.48s] English:** going to arm ourselves and we're going to fight you back you racist police who are uh oppressing  
+**[5414.48s] English:** Going to arm ourselves and we're going to fight you back, you racist police who are oppressing.  
 **Translation:** Vocabulary: oppressing: 压迫
 
-**[5421.90s] English:** and persecuting uh and abusing our people well you better be ready because we're going to fight  
+**[5421.90s] English:** And persecuting, and abusing our people? Well, you better be ready because we're going to fight.  
 **Translation:** 
 
-**[5427.98s] English:** you back uh and that too was the spirit that my uncle that was a kind of attitude a kind of  
-**Translation:** Vocabulary: persecuting: 迫害
+**[5427.98s] English:** You back, uh, and that was the spirit—that was kind of an attitude—a kind of  
+**Translation:** Vocabulary: abusing: 虐待; persecuting: 迫害
 
-**[5435.10s] English:** posture my uncle was not a radical he was he was a businessman but he respected this idea you uh  
+**[5435.10s] English:** Posture: My uncle was not a radical; he was a businessman, but he respected this idea, you know?  
 **Translation:** 
 
-**[5443.04s] English:** take your life in your own hands when you mess with us because we're prepared to defend ourselves  
+**[5443.04s] English:** Take your life in your hands when you mess with us, because we're prepared to defend ourselves.  
+**Translation:** Vocabulary: respected: 尊敬
+
+**[5447.58s] English:** So, that blood runs in you, too: that threat is when you write about black patriotism.  
 **Translation:** 
 
-**[5447.58s] English:** so that blood runs in you too that threat is when you write about black patriotism  
-**Translation:** 
-
-**[5452.98s] English:** that threat is there too it's like you embody both the  
+**[5452.98s] English:** That threat is there, too. It's like you embody both the  
 **Translation:** Vocabulary: embody: 体现; patriotism: 爱国情怀
 
-**[5457.98s] English:** ideal that we're all american but also that there is this oppressive history there there is the  
+**[5457.98s] English:** Ideal that we're all American, but also that there is this oppressive history there.  
 **Translation:** 
 
-**[5466.44s] English:** powerful that are manipulating you that are oppressing you and you can't just wait around  
-**Translation:** Vocabulary: manipulating: 操控; oppressive: 压迫
+**[5466.44s] English:** Powerful forces are manipulating you, oppressing you, and you can't just wait around.  
+**Translation:** Vocabulary: manipulating: 操控; oppressive: 压迫的
 
-**[5475.84s] English:** for things to fix themselves you have to take action you have to take things into your own  
+**[5475.84s] English:** For things to fix themselves, you have to take action; you have to take things into your own hands.  
 **Translation:** 
 
-**[5482.38s] English:** hands and sometimes that means being angry sometimes that means being violent that's there  
+**[5482.38s] English:** Hands, and sometimes that means being angry; sometimes that means being violent. That's there.  
 **Translation:** 
 
-**[5487.30s] English:** too  
+**[5487.30s] English:** Too,  
 **Translation:** 
 
-**[5487.98s] English:** yeah it's there but um here and and the but is i don't me today glenn lowry in 2022 think that  
+**[5487.98s] English:** Yeah, it's there, but um, here and, and the but is that I don't think Glenn Lowry in 2022 believes that.  
 **Translation:** 
 
-**[5498.04s] English:** that is the answer i i don't think that violent rebellion gets us anywhere at the end of the day  
+**[5498.04s] English:** That is the answer. I don't think that violent rebellion gets us anywhere at the end of the day.  
 **Translation:** 
 
-**[5506.14s] English:** i i think we're past that uh there there aren't knight rider ku klux klan uh people  
-**Translation:** Vocabulary: rebellion: 反抗
+**[5506.14s] English:** I think we're past that. There aren't any Knight Rider or Ku Klux Klan people anymore.  
+**Translation:** Vocabulary: knight: 骑士; rebellion: 起义
 
-**[5513.14s] English:** breaking down your door and dragging you away there are not uh  
+**[5513.14s] English:** Breaking down your door and dragging you away—there are not.  
 **Translation:** 
 
-**[5517.98s] English:** nooses thrown thrown over a tree  
+**[5517.98s] English:** Nooses thrown over a tree.  
 **Translation:** Vocabulary: nooses: 绳套
 
-**[5520.00s] English:** limb where you hang somebody from the tree because they whistled at a white woman or they  
+**[5520.00s] English:** Limb where you hang somebody from the tree because they whistled at a white woman, or they  
 **Translation:** 
 
-**[5525.70s] English:** got too much property in your community and you became, you know, they were uppity Negroes and  
-**Translation:** Vocabulary: uppity: 傲慢; whistled: 吹口哨
+**[5525.70s] English:** Got too much property in your community, and you became, you know, they were "uppity Negroes," and  
+**Translation:** Vocabulary: negroes: 黑人; uppity: 趾高气扬的; whistled: 吹口哨
 
-**[5530.32s] English:** whatnot like that. That is a thing of the past in America that the situation is no longer the one  
+**[5530.32s] English:** What, not like that. That is a thing of the past in America; the situation is no longer the same.  
 **Translation:** 
 
-**[5539.30s] English:** that requires that kind of violent reaction. And that there is, if we look at the net effect  
-**Translation:** Vocabulary: whatnot: 杂项物品
-
-**[5547.06s] English:** of the so-called rebellions in American cities, they're negative. The George Floyd  
+**[5539.30s] English:** That requires that kind of violent reaction. And, if we look at the net effect,...  
 **Translation:** 
 
-**[5557.04s] English:** protests, which became violent and arsonist in the aftermath of civil disturbance and whatnot in  
-**Translation:** Vocabulary: aftermath: 后果; arsonist: 纵火犯; rebellions: 叛乱
-
-**[5565.28s] English:** the summer of 2020, I think set back the program for African Americans. I don't think it advanced  
+**[5547.06s] English:** Of the so-called rebellions in American cities, they're negative. The George Floyd  
 **Translation:** 
 
-**[5571.84s] English:** it. I think there are things to be concerned about.  
+**[5557.04s] English:** Protests, which became violent and included arsonists in the aftermath of civil disturbances and other incidents.  
+**Translation:** Vocabulary: aftermath: 后果; arsonists: 纵火者; disturbances: 骚乱; protests: 抗议; rebellions: 叛乱
+
+**[5565.28s] English:** In the summer of 2020, I think it set back the program for African Americans. I don't think it advanced.  
 **Translation:** 
 
-**[5577.06s] English:** Schools that are not working, police that are not respecting citizens and so forth. But I think  
+**[5571.84s] English:** It. I think there are things to be concerned about.  
 **Translation:** 
 
-**[5583.00s] English:** that those are things that affect white Americans as well. And that the way to ultimately correct  
+**[5577.06s] English:** Schools that are not working, police that are not respecting citizens, and so forth. But I think,...  
 **Translation:** 
 
-**[5591.64s] English:** those things is to make alliance and associate oneself with Americans who are  
+**[5583.00s] English:** That those are things that affect white Americans as well, and that the way to ultimately correct...  
+**Translation:** Vocabulary: respecting: 尊重
+
+**[5591.64s] English:** Those things are to make alliances and associate oneself with Americans who are  
 **Translation:** 
 
-**[5601.38s] English:** concerned to change these things. And I don't think it's properly framed as a racial  
+**[5601.38s] English:** Concerned to change these things, and I don't think it's properly framed as a racial issue.  
+**Translation:** Vocabulary: alliances: 联盟; oneself: 自己
+
+**[5607.06s] English:** Problem. And I certainly don't think that, you know, violent rebellion gets us anywhere. You,  
 **Translation:** 
 
-**[5607.06s] English:** problem. And I certainly don't think that, you know, violent rebellion gets us anywhere. You  
+**[5617.00s] English:** Know, I get the historical salience of that posture, and it made a lot of sense in the early days.  
+**Translation:** Vocabulary: rebellion: 反抗; salience: 重要性
+
+**[5626.88s] English:** And in the mid-20th century, I don't think it makes very much sense at all in the early 21st century.  
 **Translation:** 
 
-**[5617.00s] English:** know, I get the historical salience of that posture, and it made a lot of sense in the early  
-**Translation:** Vocabulary: salience: 重要性
-
-**[5626.88s] English:** and the mid-20th century. I don't think it makes very much sense at all in the early 21st century.  
-**Translation:** 
-
-**[5632.40s] English:** Well, thank you for allowing me for a brief answer.  
+**[5632.40s] English:** Well, thank you for allowing me a brief answer.  
 **Translation:** 
 
 **[5636.20s] English:** Thank you.  
@@ -2878,44 +2879,44 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[5637.02s] English:** Thank you.  
 **Translation:** 
 
-**[5640.00s] English:** maybe Malcolm X in this conversation as we look forward to the 21st century.  
+**[5640.00s] English:** Maybe Malcolm X in this conversation, as we look forward to the 21st century.  
 **Translation:** Vocabulary: malcolm: 马拉默德
 
-**[5644.84s] English:** You mentioned that in part you're troubled by the term African American.  
+**[5644.84s] English:** You mentioned that, in part, you're troubled by the term "African American.  
 **Translation:** 
 
-**[5653.08s] English:** So words are funny things until they're not.  
+**[5653.08s] English:** So, words are funny things—until they're not.  
 **Translation:** 
 
-**[5657.98s] English:** So let me ask you about what I think is one of the most powerful  
+**[5657.98s] English:** So, let me ask you about what I think is one of the most powerful  
 **Translation:** 
 
-**[5661.76s] English:** and controversial words in the English language, the N-word.  
+**[5661.76s] English:** And one of the most controversial words in the English language is the N-word.  
 **Translation:** 
 
-**[5665.20s] English:** So this is a word that I can't say, that only certain people have the right to say.  
+**[5665.20s] English:** So, this is a word that I can't say; that only certain people have the right to say.  
 **Translation:** 
 
 **[5674.58s] English:** I have a friend, Joe Rogan, who has, what would you say?  
 **Translation:** 
 
-**[5681.70s] English:** There was mass pushback or highlighting of the fact that he didn't just say N-word,  
+**[5681.70s] English:** There was mass pushback, or highlighting of the fact that he didn't just say the N-word,  
 **Translation:** 
 
-**[5688.08s] English:** but said the full word many times throughout his conversations  
+**[5688.08s] English:** But he said the full word many times throughout his conversations.  
 **Translation:** Vocabulary: highlighting: 强调; pushback: 反对
 
-**[5693.12s] English:** when referring to...  
+**[5693.12s] English:** When referring to...  
 **Translation:** 
 
-**[5695.20s] English:** in a meta way, about the power of words,  
+**[5695.20s] English:** In a meta way, about the power of words.  
 **Translation:** 
 
-**[5700.26s] English:** especially when related to certain comedians using those words.  
+**[5700.26s] English:** Especially when related to certain comedians using those words.  
 **Translation:** 
 
 **[5705.90s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: comedians: 喜剧演员
 
 **[5707.10s] English:** What do you think about this word?  
 **Translation:** 
@@ -2932,10 +2933,10 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[5717.26s] English:** What does it mean for race in America?  
 **Translation:** 
 
-**[5721.60s] English:** What does it mean that people like Joe Rogan were...  
+**[5721.60s] English:** What does it mean that people like Joe Rogan were...?  
 **Translation:** 
 
-**[5725.20s] English:** essentially, there's an attack to cancel him for using the word?  
+**[5725.20s] English:** Essentially, is there an attack to cancel him for using the word?  
 **Translation:** 
 
 **[5730.80s] English:** Just as a scholar of human nature, what do you think about this whole thing?  
@@ -2947,331 +2948,331 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[5738.50s] English:** Okay.  
 **Translation:** 
 
-**[5739.50s] English:** The N-word, nigger, I can say it because I'm black.  
+**[5739.50s] English:** The N-word, "nigger," I can say it because I'm black.  
 **Translation:** 
 
-**[5744.50s] English:** But I mean, I can also say it because I like hip hop.  
+**[5744.50s] English:** But I mean, I can also say it because I like hip-hop.  
 **Translation:** Vocabulary: nigger: 黑人
 
-**[5747.50s] English:** And when I listen to hip hop, I hear the word all the time.  
+**[5747.50s] English:** And when I listen to hip-hop, I hear the word "all" the time.  
 **Translation:** 
 
-**[5750.50s] English:** These niggas ain't did, you know, watch out for these, you know, et cetera.  
+**[5750.50s] English:** These niggas ain't did, you know. Watch out for these, you know, et cetera.  
 **Translation:** 
 
-**[5755.20s] English:** I heard the word constantly as I was growing up as a boy and a...  
+**[5755.20s] English:** I heard the word constantly as I was growing up, as a boy and a...  
 **Translation:** 
 
-**[5760.00s] English:** young man in chicago niggas ain't shit that was said that was you know the the and that could be  
+**[5760.00s] English:** Young man in Chicago, "niggas ain't shit." That was said, you know, the and that could be.  
 **Translation:** 
 
-**[5767.26s] English:** a reflection of some kind of pathology within the african-american community of self-hatred and  
+**[5767.26s] English:** A reflection of some kind of pathology within the African-American community—of self-hatred and  
 **Translation:** 
 
-**[5773.20s] English:** so forth it could be or it could just be a colloquial linguistic way i mean i assume  
+**[5773.20s] English:** So forth, it could be, or it could just be a colloquial linguistic way. I mean, I assume.  
 **Translation:** Vocabulary: colloquial: 口语的; linguistic: 语言的; pathology: 病态
 
-**[5779.26s] English:** other groups also have uh their various i don't know how the irish talk about their irish  
+**[5779.26s] English:** Other groups also have their various ways, I don't know how the Irish talk about theirs.  
 **Translation:** 
 
-**[5785.42s] English:** brothers and you know whatever and um i i don't know how the jews talk about the jewish brothers  
+**[5785.42s] English:** Brothers, and you know, whatever, and um, I don't know how the Jews talk about the Jewish brothers.  
 **Translation:** 
 
-**[5791.48s] English:** and whatever but black people when talking about other black people use the n-word all the time  
+**[5791.48s] English:** And, whenever black people are talking about other black people, they use the N-word all the time.  
 **Translation:** 
 
-**[5799.80s] English:** my nigga yeah n-i-g-g-a yeah you know my nigga uh that is a term of endearment  
+**[5799.80s] English:** My nigga, yeah! N-I-G-G-A, yeah. You know, my nigga." Uh, that is a term of endearment.  
 **Translation:** Vocabulary: endearment: 亲爱
 
-**[5807.76s] English:** my friend randall kennedy uh the law professor at harvard university has  
+**[5807.76s] English:** My friend Randall Kennedy, the law professor at Harvard University, has  
 **Translation:** 
 
-**[5815.36s] English:** lieutenants  
+**[5815.36s] English:** Lieutenants  
 **Translation:** Vocabulary: lieutenants: 助手
 
-**[5815.42s] English:** book called nigger and he uses the word in the title of the book the history of a strange history  
+**[5815.42s] English:** A book called "Nigger," and he uses the word in the title of the book: The History of a Strange Word.  
 **Translation:** 
 
-**[5822.06s] English:** of a of a provocative word it's something there's a subtitle but the title of the book  
+**[5822.06s] English:** Of a provocative word, it's something. There's a subtitle, but the title of the book.  
 **Translation:** Vocabulary: provocative: 引起争议的; subtitle: 副标题
 
-**[5828.22s] English:** is n-i-g-g-e-r colon and then he has a subtitle um i think of course the use of the word as a  
+**[5828.22s] English:** Is "nigger": And then he has a subtitle. Um, I think, of course, the use of the word as a  
 **Translation:** 
 
-**[5839.98s] English:** slur and an insult which is a part of the history of black people in the united states  
+**[5839.98s] English:** Slur and an insult, which is a part of the history of Black people in the United States.  
+**Translation:** Vocabulary: nigger: 侮辱用语
+
+**[5847.98s] English:** The use of the word "by the southern racist segregationists, we don't want no niggas up.  
 **Translation:** 
 
-**[5847.98s] English:** the use of the word by the southern racist segregationists we don't want no niggas up  
-**Translation:** 
-
-**[5852.94s] English:** in here y'all you know niggas niggas have no place in my restaurant in my store etc  
+**[5852.94s] English:** In here, y'all, you know, niggas have no place in my restaurant, in my store, etc.  
 **Translation:** Vocabulary: segregationists: 种族隔离支持者
 
-**[5858.14s] English:** that's meant to be an insult it's an insult to people it's a fighting word it's a way that you  
+**[5858.14s] English:** That's meant to be an insult. It's an insult to people, it's a fighting word, it's a way that you  
 **Translation:** 
 
-**[5863.02s] English:** say that to somebody it's a it's a invitation for conflict that said  
+**[5863.02s] English:** Say that to somebody, it's an invitation for conflict that said.  
+**Translation:** Vocabulary: insult: 侮辱
+
+**[5870.54s] English:** What is it about this particular word, and also the asymmetry of it?  
 **Translation:** 
 
-**[5870.54s] English:** what is it that about this particular word and also the asymmetry of it  
-**Translation:** 
-
-**[5875.42s] English:** that do you think it's empowering to the black community  
+**[5875.42s] English:** That do you think is empowering to the Black community?  
 **Translation:** Vocabulary: asymmetry: 不对称; empowering: 赋权
 
-**[5880.00s] English:** to own a word my my honest answer to you is i don't know i don't fully understand it  
+**[5880.00s] English:** To own a word, my honest answer to you is: I don't know; I don't fully understand it.  
 **Translation:** 
 
-**[5888.32s] English:** it has become symbolic in a way and the policing of the use of the word i can say it but white  
-**Translation:** Vocabulary: symbolic: 象征意义
+**[5888.32s] English:** It has become symbolic in a way, and the policing of the use of the word—I can say it—but white.  
+**Translation:** Vocabulary: symbolic: 象征性的
 
-**[5894.56s] English:** people can't say it i can say it i'm not a racist i'm not a self-hating black you know i'm just  
+**[5894.56s] English:** People can't say it. I can say it. I'm not a racist. I'm not a self-hating black. You know, I'm just...  
 **Translation:** 
 
-**[5900.56s] English:** speaking the language of colloquial english that has emerged amongst african americans in which  
+**[5900.56s] English:** Speaking the language of colloquial English that has emerged among African Americans, which  
 **Translation:** Vocabulary: colloquial: 口语的
 
-**[5907.12s] English:** that word plays a big role but the prohibition on its use by others and of course in the joe rogan  
+**[5907.12s] English:** That word plays a big role, but the prohibition on its use by others, and of course in the Joe Rogan podcast.  
 **Translation:** 
 
-**[5913.76s] English:** case it wasn't as if he was calling anybody an n-word he was simply pointing out that people  
+**[5913.76s] English:** Case in point, it wasn't as if he was calling anybody an N-word; he was simply pointing out that people  
 **Translation:** 
 
-**[5921.28s] English:** had said stuff in which the n-word was a part of what they said now he did make the statement about  
+**[5921.28s] English:** Had said stuff in which the n-word was a part of what they said, now he did make the statement about.  
 **Translation:** 
 
-**[5926.72s] English:** uh uh how did he put in the planet of the apes that one of the in offensive things that he said  
+**[5926.72s] English:** Uh, uh, how did he put in the Planet of the Apes that one of the most offensive things he said?  
 **Translation:** 
 
-**[5932.56s] English:** had you know he walked into a room there's a bunch of black guys standing around he says like planet  
+**[5932.56s] English:** Had you known, he walked into a room where there's a bunch of black guys standing around, and he said something like "planet.  
 **Translation:** 
 
-**[5936.16s] English:** of the apes  
+**[5936.16s] English:** Of the apes.  
 **Translation:** 
 
-**[5937.28s] English:** he said this like africa planet of the apes yeah he should have and he should have been  
+**[5937.28s] English:** He said this, like Africa: Planet of the Apes. Yeah, he should have. And he should have been.  
 **Translation:** 
 
-**[5941.76s] English:** a little bit more careful that was that was an insult uh that was that was you know something  
+**[5941.76s] English:** A little bit more careful, that was an insult, uh, that was, you know, something.  
 **Translation:** 
 
-**[5948.40s] English:** that uh you know if you say that and people are offended they have a right to be offended and if  
+**[5948.40s] English:** That, you know, if you say that and people are offended, they have a right to be offended, and if  
 **Translation:** 
 
-**[5953.60s] English:** you didn't mean to offend them you can apologize and he did apologize i accept his apology  
-**Translation:** Vocabulary: offended: 感到冒犯
+**[5953.60s] English:** You didn't mean to offend them. You can apologize, and he did. I accept his apology.  
+**Translation:** Vocabulary: offend: 冒犯; offended: 感到冒犯
 
-**[5958.00s] English:** joe's okay with me as far as that goes um in fact uh mcwarder and i john mcwarder and i  
+**[5958.00s] English:** Joe is okay with me, as far as that goes. In fact, John McWarder and I,...  
 **Translation:** 
 
-**[5964.16s] English:** at the podcast that i do the glenn show i had a conversation  
-**Translation:** Vocabulary: glenn: Glenn秀; mcwarder: 约翰·麦沃德
+**[5964.16s] English:** At the podcast that I do, The Glenn Show, I had a conversation  
+**Translation:** Vocabulary: glenn: 格伦
 
-**[5967.12s] English:** with joe rogan and we made a lot of no aka part of which touched on the joe rogan phenomenon and  
+**[5967.12s] English:** With Joe Rogan, and we made a lot of noise, aka part of which touched on the Joe Rogan phenomenon and  
 **Translation:** 
 
-**[5973.60s] English:** we concluded he didn't really do anything wrong i mean i mean you can like eric mill you can  
+**[5973.60s] English:** We concluded he didn't really do anything wrong. I mean, you can say that about Eric Mill, too.  
 **Translation:** 
 
-**[5977.84s] English:** hate him or whatever but the idea that he's a racist is kind of ridiculous so frankly i mean  
+**[5977.84s] English:** Hate him or whatever, but the idea that he's a racist is kind of ridiculous, so frankly, I mean.  
 **Translation:** 
 
-**[5984.16s] English:** if that's your test of what constitutes a racist the utterance of the word  
-**Translation:** Vocabulary: utterance: 陈述
+**[5984.16s] English:** If that's your test of what constitutes a racist, the utterance of the word,...  
+**Translation:** Vocabulary: frankly: 坦白讲; utterance: 发言
 
-**[5989.68s] English:** then you know it's kind of uh it's it's kind of silly as far as i'm concerned what do you think  
+**[5989.68s] English:** Then, you know, it's kind of silly, as far as I'm concerned. What do you think?  
 **Translation:** 
 
-**[5995.36s] English:** about the rigorous testing of the law  
-**Translation:** Vocabulary: rigorous: 严格
+**[5995.36s] English:** About the rigorous testing of the law.  
+**Translation:** Vocabulary: rigorous: 严格的
 
-**[5997.12s] English:** of people to the degree they're racist or not.  
+**[5997.12s] English:** Of people, to what degree they're racist or not.  
 **Translation:** 
 
-**[6000.00s] English:** not the accusation of racism being a way um to attack to uh to bully to divide so what are the  
-**Translation:** Vocabulary: accusation: 指控
+**[6000.00s] English:** Not the accusation of racism being a way to attack, to bully, or to divide—so, what are the solutions?  
+**Translation:** Vocabulary: accusation: 指责; racism: 种族主义
 
-**[6011.50s] English:** pros and cons of that once again because it does reveal the assholes and the racists but it can  
+**[6011.50s] English:** Pros and cons of that, once again, because it does reveal the assholes and the racists, but it can...  
 **Translation:** 
 
-**[6016.70s] English:** hurt people who are not well i think we have a history here in the united states  
-**Translation:** Vocabulary: assholes: 混蛋
+**[6016.70s] English:** Hurt people who are not well, I think we have a history here in the United States.  
+**Translation:** Vocabulary: assholes: 无赖; racists: 种族主义者
 
-**[6025.24s] English:** of blatant racism that goes back a long way and that has present day echoes so there are racists  
+**[6025.24s] English:** Of blatant racism that goes back a long way and that has present-day echoes, so there are racists.  
 **Translation:** 
 
-**[6035.94s] English:** i mean there are people who will look and see oh those are black people they're they're patronizing  
-**Translation:** Vocabulary: blatant: 明显; patronizing: 居高临下
+**[6035.94s] English:** I mean, there are people who will look and see, "oh, those are black people," and they're being patronizing.  
+**Translation:** Vocabulary: blatant: 明显的; echoes: 回声; patronizing: 居高临下的
 
-**[6040.32s] English:** this business i don't want to patronize this business anymore who if their daughter or their  
+**[6040.32s] English:** This business, I don't want to patronize anymore. Who would if their daughter or their  
 **Translation:** 
 
-**[6044.56s] English:** son is dating somebody that is black they will say i really wish you wouldn't do that i mean why  
+**[6044.56s] English:** Son is dating somebody that is Black, they will say, "I really wish you wouldn't do that. I mean, why?  
 **Translation:** Vocabulary: patronize: 光顾
 
-**[6049.48s] English:** are you hanging out with those people don't you know who they are uh there are people there are  
+**[6049.48s] English:** Are you hanging out with those people? Don't you know who they are? Uh, there are people there.  
 **Translation:** 
 
-**[6053.68s] English:** racists okay there are  
+**[6053.68s] English:** Racists, okay, there are.  
 **Translation:** 
 
-**[6055.24s] English:** black racists that is black people who see somebody who's white and who then invoke a whole  
+**[6055.24s] English:** Black racists—that is, black people who see someone who's white and who then invoke a whole  
 **Translation:** 
 
-**[6060.94s] English:** lot of stereotypes or whatever or have a uh you know visceral dislike based upon nothing other  
-**Translation:** Vocabulary: stereotypes: 刻板印象; visceral: 直觉的
-
-**[6069.70s] English:** than the color of the person's skin such people exist racism is a real thing etc on the other hand  
+**[6060.94s] English:** A lot of stereotypes, or whatever, or have a, you know, visceral dislike based upon nothing else.  
 **Translation:** 
 
-**[6076.06s] English:** i think this uh throwing around you know uh the accusation of racism a college professor is  
+**[6069.70s] English:** Than the color of the person's skin, such people exist; racism is a real thing, etc. On the other hand,  
 **Translation:** 
 
-**[6084.20s] English:** teaching a course  
+**[6076.06s] English:** I think this, uh, throwing around you know, the accusation of racism against a college professor is  
 **Translation:** 
 
-**[6085.08s] English:** a college professor is teaching a course  
+**[6084.20s] English:** Teaching a course  
 **Translation:** 
 
-**[6085.24s] English:** he says in the context of teaching the course that the underrepresentation of blacks  
+**[6085.08s] English:** A college professor is teaching a course.  
 **Translation:** 
 
-**[6093.04s] English:** in physics uh program at this university is because they score lower on the test  
-**Translation:** Vocabulary: underrepresentation: 少数代表性不足
-
-**[6100.16s] English:** than other groups and they're not qualified so say the professor gives a lecture and he says  
+**[6085.24s] English:** He says, in the context of teaching the course, that the underrepresentation of blacks  
 **Translation:** 
 
-**[6108.32s] English:** we don't have more blacks in the physics department at this university because they're not enough  
+**[6093.04s] English:** In the physics program at this university, students are admitted because they score lower on the test.  
 **Translation:** 
 
-**[6112.46s] English:** qualified blacks somebody in the  
+**[6100.16s] English:** Than other groups, and they're not qualified. So, says the professor, when he gives a lecture and he says,  
 **Translation:** 
 
-**[6115.08s] English:** classroom who hears that a black student objects he's a race  
+**[6108.32s] English:** We don't have more blacks in the physics department at this university because there aren't enough.  
 **Translation:** 
 
-**[6120.00s] English:** Okay. That's a power move. It's a move to try to control the conversation. It's not an argument. It's an epithet. You've said that a person who has a particular idea that you don't like, maybe that idea is I'm against affirmative action. I think it's unfair.  
+**[6112.46s] English:** Qualified Blacks, somebody in the  
 **Translation:** 
 
-**[6141.08s] English:** I was just with Dorian Abbott. Dorian Abbott is a scientist at the University of Chicago who published a piece in Newsweek magazine in which he said that he thought affirmative action and racial balancing was unethical.  
-**Translation:** Vocabulary: abbott: Abbott; affirmative: 肯定的; balancing: 平衡; dorian: 多里安; epithet: 贬称; newsweek: 新闻周刊; unethical: 不道德
+**[6115.08s] English:** Classroom: Who hears that a black student objects; he's a race?  
+**Translation:** 
+
+**[6120.00s] English:** Okay. That's a power move. It's a move to try to control the conversation. It's not an argument; it's an epithet. You've said that a person who has a particular idea that you don't like — maybe that idea is "I'm against affirmative action. I think it's unfair.  
+**Translation:** 
+
+**[6141.08s] English:** I was just with Dorian Abbott. Dorian Abbott is a scientist at the University of Chicago, who published a piece in Newsweek magazine in which he said that he thought affirmative action and racial balancing were unethical.  
+**Translation:** Vocabulary: abbott: 阿伯特; affirmative: 肯定的; balancing: 平衡; dorian: 多里安; epithet: 贬义词; newsweek: 新闻周刊; unethical: 不道德
 
 **[6162.36s] English:** He was invited to give a lecture at MIT, a very distinguished lecture in his field based on planetary science. I don't know exactly what it is.  
 **Translation:** 
 
-**[6171.08s] English:** I'm not a scientist. But in any case, because he had said that he didn't like affirmative action and he thought affirmative action was racist, that's basically what he said.  
+**[6171.08s] English:** I'm not a scientist. But, in any case, because he had said that he didn't like affirmative action and he thought affirmative action was racist, that's basically what he said.  
+**Translation:** Vocabulary: distinguished: 卓有成就的
+
+**[6182.82s] English:** Why are we looking at people based upon their race and deciding we should just do it based on their merit? That was his position.  
 **Translation:** 
 
-**[6182.82s] English:** Why are we looking at people based upon their race and decide we should just do it on their merit? That was his position.  
-**Translation:** 
-
-**[6189.16s] English:** Now, people are protesting at the university where he was invited, MIT, saying that he's a racist because he had that opinion. He gets disinvited.  
+**[6189.16s] English:** Now, people are protesting at the university where he was invited — MIT — saying that he's a racist because he had that opinion. He gets disinvited.  
 **Translation:** Vocabulary: disinvited: 被取消邀请; merit: merits; protesting: 抗议
 
-**[6201.08s] English:** Charles Murray is a popular social science writer who is famous for his book about IQ, The Bell Curve, one chapter of which chronicles the racial differences between black and white in performance on mental ability tests and speculates about the extent to which such differences may be connected with the genetic inheritance of these racially distinct populations.  
+**[6201.08s] English:** Charles Murray is a popular social science writer who is famous for his book, "The Bell Curve." One chapter of the book chronicles the racial differences between black and white in performance on mental ability tests and speculates about the extent to which such differences may be connected with the genetic inheritance of these racially distinct populations.  
 **Translation:** 
 
-**[6231.08s] English:** Now, he could be wrong about everything that he's saying.  
-**Translation:** Vocabulary: chronicles: 记载; inheritance: 遗传; racially: 种族上; speculates: 推测
+**[6231.08s] English:** Now, he could be wrong about everything he's saying.  
+**Translation:** Vocabulary: chronicles: 记载; inheritance: 遗传; racially: 按种族; speculates: 推测
 
-**[6234.92s] English:** The Southern Poverty Law Center calls him a white supremacist because  
+**[6234.92s] English:** The Southern Poverty Law Center calls him a white supremacist, because  
 **Translation:** 
 
-**[6240.00s] English:** he observes that there are racial differences in measured intellectual ability amongst Americans  
+**[6240.00s] English:** He observes that there are racial differences in measured intellectual ability among Americans.  
 **Translation:** Vocabulary: observes: 观察; supremacist: 至上主义者
 
-**[6249.44s] English:** of different racial descent. He could be wrong. Let me stipulate that he is wrong. I mean,  
+**[6249.44s] English:** Of different racial descent. He could be wrong. Let me stipulate that he is wrong. I mean,  
 **Translation:** 
 
-**[6256.36s] English:** I don't want to argue about whether he's right or about whether he's wrong.  
-**Translation:** Vocabulary: stipulate: 规定
+**[6256.36s] English:** I don't want to argue about whether he's right or whether he's wrong.  
+**Translation:** Vocabulary: descent: 种族; stipulate: 规定
 
-**[6260.44s] English:** He's addressing himself to a factual issue. And now the issue becomes, instead of grappling with  
+**[6260.44s] English:** He's addressing himself to a factual issue. And now the issue becomes, instead of grappling with...  
 **Translation:** 
 
-**[6267.92s] English:** the factual questions at hand and demonstrating his rightness or wrongness about those questions,  
-**Translation:** Vocabulary: grappling: 应对
+**[6267.92s] English:** The factual questions at hand, and demonstrating his rightness or wrongness about those questions.  
+**Translation:** Vocabulary: grappling: 辩论
 
-**[6273.46s] English:** the issue becomes his character. He's a racist. That's, in my mind, a lot like calling him a  
+**[6273.46s] English:** The issue becomes his character. He's a racist. That's, in my mind, a lot like calling him a  
 **Translation:** 
 
-**[6282.54s] English:** witch. The use of that word now, I think, has parallels to accusing people of witchcraft  
-**Translation:** Vocabulary: witch: 女巫; witchcraft: 巫术
+**[6282.54s] English:** Witch. The use of that word now, I think, has parallels to accusing people of witchcraft.  
+**Translation:** Vocabulary: witch: 女巫; witchcraft: 施巫术
 
-**[6293.06s] English:** because they have views about substantive questions that bear on  
+**[6293.06s] English:** Because they have views about substantive questions that bear on  
 **Translation:** 
 
-**[6297.64s] English:** reality.  
+**[6297.64s] English:** Reality.  
+**Translation:** Vocabulary: substantive: 实质的
+
+**[6297.92s] English:** Racial inequality or racial differences that a person finds unacceptable, or that a person  
 **Translation:** 
 
-**[6297.92s] English:** Racial inequality or racial difference that a person finds unacceptable or that a person  
-**Translation:** 
-
-**[6304.72s] English:** disagrees with. And you think you can shut somebody up. Crime in the cities of Chicago,  
+**[6304.72s] English:** Disagrees with. And you think you can shut somebody up? Crime in the cities of Chicago,  
 **Translation:** Vocabulary: inequality: 种族不平等; unacceptable: 不能接受的
 
-**[6313.84s] English:** St. Louis, Baltimore, Philadelphia, Washington, D.C. is out of control, some person might say.  
+**[6313.84s] English:** St. Louis, Baltimore, Philadelphia, and Washington, D.C., are out of control, some person might say.  
 **Translation:** 
 
-**[6321.04s] English:** Murder rate is high. Who's committing those crimes? They're mostly Black young men who are  
+**[6321.04s] English:** The murder rate is high. Who's committing those crimes? They're mostly Black young men, who are  
 **Translation:** Vocabulary: baltimore: 巴尔的摩
 
-**[6326.72s] English:** doing the carjacking.  
+**[6326.72s] English:** Doing the carjacking.  
 **Translation:** 
 
-**[6327.92s] English:** And who are doing the shootings. They're killing each other. They're making our city unlivable.  
-**Translation:** Vocabulary: carjacking: 抢夺汽车; shootings: 枪击事件; unlivable: 不宜居住
+**[6327.92s] English:** And who is doing the shootings? They're killing each other, and they're making our city unlivable.  
+**Translation:** Vocabulary: carjacking: 抢夺汽车; shootings: 枪击; unlivable: 不宜居住
 
-**[6333.00s] English:** Now, that's a hypothetical statement that I offer. It might be correct. It might be incorrect. It  
+**[6333.00s] English:** Now, that's a hypothetical statement that I offer. It might be correct. It might be incorrect.  
 **Translation:** 
 
-**[6341.76s] English:** might be appropriate. It might be inappropriate. It may be true, but something that we would be  
+**[6341.76s] English:** Might be appropriate. It might be inappropriate. It may be true, but something that we would be  
 **Translation:** Vocabulary: hypothetical: 假设的; inappropriate: 不合适的
 
-**[6347.16s] English:** better off if people didn't focus on. I don't know. Responding to someone making that statement,  
+**[6347.16s] English:** Better off if people didn't focus on it. I don't know. Responding to someone making that statement,  
 **Translation:** 
 
-**[6353.96s] English:** have you seen what has happened to my city?  
+**[6353.96s] English:** Have you seen what has happened to my city?  
 **Translation:** 
 
-**[6356.92s] English:** It used to be that you could go to North Michigan Avenue  
+**[6356.92s] English:** It used to be that you could go to North Michigan Avenue.  
 **Translation:** 
 
-**[6360.00s] English:** And you could find one after another after another high end shop. This is in Chicago, my hometown. And tourists would come and they'd go to the theater and there were restaurants and they'd go out. They don't do it anymore. You know what? Half of those stores are boarded up now. You know why? Because when George Floyd was killed, black people mobbed in the city and they burnt and they rioted and they looted. And it hasn't been the same ever since. And I'm moving to the suburbs.  
-**Translation:** Vocabulary: floyd: 乔治·弗洛伊德; looted: 抢劫; mobbed: 围攻; rioted: 暴动
+**[6360.00s] English:** And you could find one after another high-end shop. This is in Chicago, my hometown. And tourists would come and they'd go to the theater, and there were restaurants; they'd go out. They don't do it anymore. You know what? Half of those stores are boarded up now. You know why? Because when George Floyd was killed, black people mobbed in the city and they burnt, they rioted, and they looted. And it hasn't been the same ever since. And I'm moving to the suburbs.  
+**Translation:** Vocabulary: floyd: 乔治·弗洛伊德; looted: 抢劫; mobbed: 聚集; rioted: 暴动; suburbs: 郊区
 
-**[6386.98s] English:** I'll be damned if I'm going to send my children to those schools. A person could say that. They might be right. They might be wrong to say it. Calling them a racist is exactly not a rebuttal of what they said. It's a move. It's a move to try to take control of the conversation by accusing someone of having bad character because they said something that made you uncomfortable, which you can't deal with.  
+**[6386.98s] English:** I'll be damned if I'm going to send my children to those schools. A person could say that. They might be right. They might be wrong to say it. Calling them a racist is exactly not a rebuttal of what they said; it's a move — a move to try to take control of the conversation by accusing someone of having bad character because they said something that made you uncomfortable, which you can't deal with.  
 **Translation:** 
 
-**[6409.70s] English:** So you think you can shut them up by calling them a racist. You might as well be calling them a witch. You might as well be calling for their head on a platter because they believe that Satan is Lord, because that's the kind of, quote, argument, close quote, which is precisely not an argument that people who invoke that term are using.  
-**Translation:** Vocabulary: platter: 大盘子; witch: 女巫
+**[6409.70s] English:** So, you think you can shut them up by calling them a racist? You might as well be calling them a witch. You might as well be calling for their head on a platter because they believe that Satan is Lord, because that's the kind of, "quote," argument," close quote, which is precisely not an argument that people who invoke that term are using.  
+**Translation:** Vocabulary: damned: 该死; invoke: 引用; platter: 托盘; precisely: 恰好; witch: 巫婆
 
-**[6429.82s] English:** And here's what I have to say about that. It's a fool's errand to try to refute somebody by calling them a witch.  
+**[6429.82s] English:** And here's what I have to say about that: it's a fool's errand to try to refute somebody by calling them a witch.  
 **Translation:** 
 
-**[6439.70s] English:** It's a fool's errand to try to rebut the contrary forces in American politics that are a reaction often to real things that are going on on the ground in black communities in the cities across this country by calling people a racist.  
-**Translation:** Vocabulary: errand: 徒劳之事
+**[6439.70s] English:** It's a fool's errand to try to rebut the contrary forces in American politics that are a reaction, often, to real things that are going on on the ground in black communities in the cities across this country, by calling people racist.  
+**Translation:** Vocabulary: errand: 徒劳的任务; refute: 反驳
 
-**[6455.32s] English:** You may shut them up, but you won't change their minds. And you know what? At the end of the day, they're going to go to the ballot box and they're going to vote. They're going to pick up their store and they're going to move it to the other side of town or to another town altogether.  
+**[6455.32s] English:** You may shut them up, but you won't change their minds. And you know what? At the end of the day, they're going to go to the ballot box and they're going to vote. They're going to pick up their store and move it to the other side of town or to another town altogether.  
 **Translation:** 
 
-**[6469.70s] English:** They're going to keep their children away from places where they think the influences are harmful to those children. They may not even talk about it in public. You can believe that in.  
+**[6469.70s] English:** They're going to keep their children away from places where they think the influences are harmful to those children. They may not even talk about it in public. You can believe that.  
+**Translation:** Vocabulary: ballot: 投票
+
+**[6480.00s] English:** That they're talking about it with each other, you had better find a more effective way of.  
 **Translation:** 
 
-**[6480.00s] English:** that they're talking about it with each other, you had better find a more effective way of  
+**[6485.68s] English:** Dealing with the conflicts in this country that fall along racial fault lines than calling  
 **Translation:** 
 
-**[6485.68s] English:** dealing with the conflicts in this country that fall along racial fault lines than calling  
+**[6490.46s] English:** People, witches — which is what this, you know, anti-racist: you're a racist because you think...  
 **Translation:** 
 
-**[6490.46s] English:** people witches, which is what this, you know, anti-racist, you're a racist because you think  
-**Translation:** 
+**[6497.46s] English:** That the out-of-wedlock birth rate among Black Americans is seven babies out of ten.  
+**Translation:** Vocabulary: witches: 女巫
 
-**[6497.46s] English:** that the out-of-wedlock birth rate amongst Black Americans is seven babies out of 10  
-**Translation:** Vocabulary: witches: 例子
-
-**[6501.72s] English:** are born to a woman without a husband.  
+**[6501.72s] English:** Are children born to a woman without a husband.  
 **Translation:** 
 
 **[6503.72s] English:** Their families are falling apart.  
@@ -3280,40 +3281,40 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[6505.38s] English:** Now, no one says that in public because they'd be called a racist if they said it in public.  
 **Translation:** 
 
-**[6509.10s] English:** But as a matter of fact, the families are falling apart.  
+**[6509.10s] English:** But, as a matter of fact, the families are falling apart.  
 **Translation:** 
 
 **[6512.28s] English:** You didn't change that in the least by telling people to shut up about it.  
 **Translation:** 
 
 **[6516.12s] English:** Daniel Patrick Moynihan is called a racist in the 1960s.  
+**Translation:** Vocabulary: moynihan: 莫尼汉
+
+**[6519.88s] English:** The late Senator from New York, who was both a federal employee and an intellectual,  
 **Translation:** 
 
-**[6519.88s] English:** The late senator, the late New York senator who was a federal employee and an intellectual  
-**Translation:** 
-
-**[6524.74s] English:** writing reports, and he writes a report about the Negro family.  
+**[6524.74s] English:** Writing reports, and he writes one about the Negro family.  
 **Translation:** 
 
 **[6527.76s] English:** He called it in those years.  
 **Translation:** 
 
-**[6529.08s] English:** If I use the word Negro, now they're going to call me a racist if I'm a white person.  
+**[6529.08s] English:** If I use the word "Negro," now they're going to call me a racist if I'm a white person.  
 **Translation:** 
 
-**[6532.30s] English:** I can't even use the word Negro, which is a historically legitimate reference to the  
+**[6532.30s] English:** I can't even use the word "Negro," which is a historically legitimate reference to the  
 **Translation:** 
 
-**[6538.20s] English:** descendants of the Negro family.  
-**Translation:** Vocabulary: descendants: 后代; historically: 历史上
+**[6538.20s] English:** Descendants of the Negro family.  
+**Translation:** Vocabulary: descendants: 后代; historically: 历史上; legitimate: 正当的
 
-**[6539.10s] English:** The slaves, enslaved people, which we were, as Black Americans, proud to use until yesterday.  
+**[6539.10s] English:** The slaves, enslaved people, which we were, as Black Americans, were proud to call ourselves until yesterday.  
 **Translation:** 
 
-**[6546.52s] English:** So all of this linguistic policing is a sign of weakness.  
+**[6546.52s] English:** So, all of this linguistic policing is a sign of weakness.  
 **Translation:** Vocabulary: enslaved: 被奴役; linguistic: 语言学的
 
-**[6552.08s] English:** It's false Black power.  
+**[6552.08s] English:** It's false black power.  
 **Translation:** 
 
 **[6555.64s] English:** People will cede you the ground.  
@@ -3337,25 +3338,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[6563.62s] English:** I don't want to be called a racist.  
 **Translation:** 
 
-**[6564.88s] English:** OK, so I won't express my opinion.  
+**[6564.88s] English:** Okay, so I won't express my opinion.  
 **Translation:** 
 
-**[6566.40s] English:** You haven't changed anybody's mind.  
+**[6566.40s] English:** You haven't changed anyone's mind.  
 **Translation:** 
 
-**[6569.10s] English:** And you've also mentioned that for that, you haven't changed anybody's mind, but also  
+**[6569.10s] English:** And you've also mentioned that for that, you haven't changed anybody's mind, but also,...  
 **Translation:** 
 
-**[6576.54s] English:** for things like in universities and institutions, there's diversity, inclusion, and equity  
+**[6576.54s] English:** For things like diversity, inclusion, and equity in universities and institutions, there is a focus.  
 **Translation:** 
 
-**[6583.68s] English:** kind of meetings and education and so on.  
+**[6583.68s] English:** Kind of meetings and education, and so on.  
 **Translation:** 
 
-**[6586.90s] English:** And I believe I read somewhere, I've been, like I mentioned to you offline, big fan of  
+**[6586.90s] English:** And I believe I read somewhere; I've been, as I mentioned to you offline, a big fan of.  
 **Translation:** 
 
-**[6592.06s] English:** your Glenn show.  
+**[6592.06s] English:** Your Glenn Show.  
 **Translation:** 
 
 **[6593.14s] English:** People should listen to it.  
@@ -3370,44 +3371,44 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[6599.08s] English:** I believe.  
 **Translation:** 
 
-**[6600.00s] English:** You mentioned somewhere that even those kinds of meetings, people might sit through and nod along, but that doesn't necessarily mean that's making progress, that they may actually be bottling up a frustration.  
+**[6600.00s] English:** You mentioned somewhere that even those kinds of meetings, people might sit through and nod along, but that doesn't necessarily mean that's making progress; they may actually be bottling up a frustration.  
 **Translation:** 
 
-**[6614.74s] English:** The fear is that that's going to result in a pendulum sort of pushback towards this idea of forced appreciation, like forced anti-racism kind of thing.  
+**[6614.74s] English:** The fear is that this will result in a pendulum-like pushback toward the idea of forced appreciation, like forced anti-racism kinds of things.  
 **Translation:** 
 
 **[6631.88s] English:** I talk about this often in my podcast.  
-**Translation:** Vocabulary: pendulum: 摆动; pushback: 反对
+**Translation:** Vocabulary: pushback: 反对
 
 **[6634.04s] English:** That's the Glenn Show.  
 **Translation:** 
 
-**[6635.00s] English:** You can find the Glenn Show on my YouTube channel and also at Substack.  
+**[6635.00s] English:** You can find the Glenn Show on my YouTube channel, and also at Substack.  
 **Translation:** Vocabulary: substack: 订阅邮件列表
 
 **[6641.02s] English:** Yeah, you have a great Substack.  
 **Translation:** 
 
-**[6642.42s] English:** You and your friend do Q&A.  
+**[6642.42s] English:** You and your friend do a Q&A.  
 **Translation:** 
 
-**[6644.86s] English:** He's in all that kind of stuff on Patreon.  
+**[6644.86s] English:** He's into all that kind of stuff on Patreon.  
 **Translation:** 
 
 **[6646.84s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: patreon: Patreon支持者
 
-**[6647.18s] English:** So people should definitely follow you.  
+**[6647.18s] English:** So, people should definitely follow you.  
 **Translation:** 
 
 **[6649.68s] English:** It's a brilliant conversation.  
 **Translation:** 
 
-**[6651.38s] English:** But yeah, I mean, one concern is that the policing of the superficial policing, this is a part of political correctness.  
+**[6651.38s] English:** But, yeah, I mean, one concern is that the policing of the superficial aspects is part of political correctness.  
 **Translation:** 
 
-**[6660.44s] English:** The insistence that you only use certain words, that you only talk in a certain way is a phony kind of power because it doesn't actually persuade people about the issues that are at hand.  
-**Translation:** Vocabulary: correctness: 正确性; insistence: 坚持; phony: 虚伪; superficial: 表面的
+**[6660.44s] English:** The insistence that you only use certain words, that you only talk in a certain way, is a phony kind of power because it doesn't actually persuade people about the issues that are at hand.  
+**Translation:** Vocabulary: correctness: 正确性; insistence: 坚持; phony: 虚伪的; superficial: 表面的
 
 **[6670.52s] English:** Instead, it forces them underground in their talk about.  
 **Translation:** 
@@ -3415,25 +3416,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[6674.74s] English:** And that's problematic.  
 **Translation:** 
 
-**[6678.88s] English:** Much better that we have overt and explicit and honest disagreement to the extent that there are disagreement about things that are going on than that we have a superficial kind of, you know, conversation that is purged of any real biting.  
+**[6678.88s] English:** Much better that we have overt, explicit, and honest disagreement to the extent that there are disagreements about things that are going on than that we have a superficial kind of conversation that is purged of any real biting.  
 **Translation:** 
 
 **[6701.88s] English:** You know.  
-**Translation:** Vocabulary: explicit: 明确; overt: 公开; purged: 清除
+**Translation:** Vocabulary: disagreement: 意见不合; disagreements: 意见不合; explicit: 明确的; overt: 公开的; purged: 清除的
 
-**[6704.94s] English:** Discomforting confrontation with with the realities of the situation at hand.  
+**[6704.94s] English:** Disconcerting confrontation with the realities of the situation at hand.  
 **Translation:** 
 
-**[6709.92s] English:** And for black Americans, I think one big part of the reality of the situation at hand is violent crime, violent crime.  
-**Translation:** Vocabulary: confrontation: 面对; discomforting: 令人不安的
+**[6709.92s] English:** And for Black Americans, I think one big part of the reality of the situation is violent crime, violent crime.  
+**Translation:** Vocabulary: confrontation: 对抗; realities: 现实
 
 **[6717.94s] English:** You know, a police officer is afraid when.  
 **Translation:** 
 
-**[6720.00s] English:** He stops the car because it's an 18 year old driver in the vehicle.  
+**[6720.00s] English:** He stops the car because it's an 18-year-old driver in the vehicle.  
 **Translation:** 
 
-**[6724.24s] English:** He's got dreadlocks. He's a black person. The car doesn't have the right license plate.  
+**[6724.24s] English:** He's got dreadlocks. He's a Black person. The car doesn't have the right license plate.  
 **Translation:** 
 
 **[6729.36s] English:** He's afraid to deal with that person.  
@@ -3443,117 +3444,117 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[6738.36s] English:** Their violence is usually perpetrated against others who look like themselves, but not always.  
-**Translation:** Vocabulary: perpetrated: 实施
+**Translation:** Vocabulary: behaving: 行为; perpetrated: 实施; violently: 暴力地
 
 **[6742.24s] English:** And that reality doesn't get changed by, you know, telling a newspaper writer who writes about it that they are racist or enforcing within a newsroom.  
 **Translation:** 
 
-**[6756.26s] English:** You can't cover that story in that way because to do so would be racist.  
+**[6756.26s] English:** You can't cover that story in that way, because to do so would be racist.  
 **Translation:** Vocabulary: enforcing: 强制; newsroom: 新闻室
 
 **[6760.68s] English:** I think it's a monumental mistake to enforce a closure on public discussion.  
 **Translation:** 
 
-**[6772.24s] English:** Based upon a calculation that if we allow people, if Twitter allows this kind of post, if the Washington Post runs this kind of story, et cetera, you end up with a superficial politeness, but a subterranean seething resentment that only makes matters worse.  
-**Translation:** Vocabulary: politeness: 表面礼貌; seething: 沸腾的; subterranean: 地下的
+**[6772.24s] English:** Based upon a calculation that, if we allow people, if Twitter allows this kind of post, if the Washington Post runs this kind of story, etc., you end up with a superficial politeness, but a subterranean seething resentment that only makes matters worse.  
+**Translation:** Vocabulary: closure: 关闭; enforce: 强制; monumental: 巨大; politeness: 礼貌; seething: 沸腾的; subterranean: 地下的; superficial: 表面的
 
-**[6801.06s] English:** If I can get your.  
+**[6801.06s] English:** If I can get your permission, may I continue?  
 **Translation:** 
 
-**[6802.24s] English:** Maybe you have ideas because it does seem that this kind of attack works of being called a racist, being called maybe not sexist, but somebody, you know, like we're going through a Johnny Depp trial now, right?  
-**Translation:** Vocabulary: johnny: 约翰尼·德普
+**[6802.24s] English:** Maybe you have ideas because it does seem that this kind of attack works by being called a racist. Being called, maybe not sexist, but someone like we're going through in the Johnny Depp trial, right?  
+**Translation:** Vocabulary: johnny: 约翰尼; sexist: 性别歧视的
 
 **[6823.90s] English:** It's a defamation trial.  
 **Translation:** 
 
-**[6825.32s] English:** And the reason it's a defamation trial is because all it took is a single accusation of Johnny Depp being.  
+**[6825.32s] English:** And the reason it's a defamation trial is because all it took was a single accusation of Johnny Depp being.  
 **Translation:** Vocabulary: accusation: 指控; defamation: 诽谤
 
-**[6832.24s] English:** Somebody who sexually and physically abused ever heard, and all it took is just a single article, no proof.  
+**[6832.24s] English:** Somebody who sexually and physically abused: ever heard, and all it took was just a single article, no proof.  
 **Translation:** 
 
-**[6840.00s] English:** was given um except the accusation itself and the world believed it so it's effective  
+**[6840.00s] English:** Was given, um, except for the accusation itself, and the world believed it, so it's effective.  
+**Translation:** Vocabulary: abused: 虐待
+
+**[6848.34s] English:** So, how do you fight back if it's so damn effective that you can just call anybody racist?  
 **Translation:** 
 
-**[6848.34s] English:** so how do you fight back if it's so damn effective that you can just call anybody racist  
+**[6854.64s] English:** And it works; it's hard to wash off. It's, uh, you get the idea.  
 **Translation:** 
 
-**[6854.64s] English:** and it works it's hard to wash off it's it's uh uh you're  
+**[6863.04s] English:** You know, you're not proven in the court of law, or anything like that, but  
 **Translation:** 
 
-**[6863.04s] English:** you know you're not proven in the court of law or anything like that but  
+**[6868.90s] English:** We get those articles, we get that label, and then the world moves on and just assumes that.  
 **Translation:** 
 
-**[6868.90s] English:** we we get those articles we get that label and then the world moves on and just assumes that  
+**[6875.94s] English:** The person is racist, so what? How do you do anything to fight back? No, I don't actually.  
 **Translation:** 
 
-**[6875.94s] English:** person is racist so what how do you do you have any ideas how to fight back no i don't frankly  
+**[6882.02s] English:** Um, just highlight Roseanne Burrow, who made this statement about Valerie Jared; she made some kind  
+**Translation:** Vocabulary: burrow: 洞穴; highlight: 强调; roseanne: 罗赛安; valerie: 瓦莱丽
+
+**[6888.98s] English:** Of ape-like reference, to the whatever, and her show got canceled, and...  
 **Translation:** 
 
-**[6882.02s] English:** um just highlight roseanne burr who made this statement about valerie jared she made some kind  
-**Translation:** Vocabulary: roseanne: 罗蕾安; valerie: 瓦莱丽
-
-**[6888.98s] English:** of ape like reference to the whatever and her show got canceled and and  
+**[6893.04s] English:** And she's a racist, so, first of all, pointing it out is one of the most powerful things.  
 **Translation:** 
 
-**[6893.04s] English:** and she's a racist so first of all pointing it out i suppose is one of the most powerful things  
+**[6898.28s] English:** That's the hypocrisy of it. You say it works, I guess you're right. It used to be  
 **Translation:** 
 
-**[6898.28s] English:** that this the uh the hypocrisy of it the you say it works i guess you're right it used to be the  
-**Translation:** 
-
-**[6907.42s] English:** calling someone a communist yeah worked i mean going back to the late 40s early 50s red scare  
+**[6907.42s] English:** Calling someone a communist, yeah, worked—I mean, going back to the late '40s and early '50s, red scare.  
 **Translation:** Vocabulary: hypocrisy: 虚伪
 
-**[6914.58s] English:** mccarthyism and whatnot and uh the person might have belonged to a club that was pro  
+**[6914.58s] English:** McCarthyism and whatnot, and uh, the person might have belonged to a club that was pro-...  
 **Translation:** 
 
-**[6922.72s] English:** socialist  
-**Translation:** Vocabulary: mccarthyism: 麦卡锡主义
+**[6922.72s] English:** Socialist  
+**Translation:** Vocabulary: whatnot: 等等
 
-**[6923.04s] English:** soviet union in the 1930s when they were in college they might have voted for the socialist  
+**[6923.04s] English:** Soviet Union in the 1930s, when they were in college, they might have voted for the socialist.  
 **Translation:** 
 
-**[6927.48s] English:** candidate henry wallace in the presidential election of 1948 they might belong to the  
+**[6927.48s] English:** Candidate Henry Wallace in the presidential election of 1948, they might belong to the  
+**Translation:** Vocabulary: wallace: 亨利·华莱士
+
+**[6932.72s] English:** Communist Party: They might think Karl Marx was right about a lot of stuff, about  
 **Translation:** 
 
-**[6932.72s] English:** communist party they they might think karl marx was uh right about a whole lot of stuff about  
+**[6937.82s] English:** Capitalism, and whatnot, and they got called a communist or a Marxist, and it could have ruined.  
+**Translation:** Vocabulary: capitalism: 资本主义; marxist: 马克思主义者
+
+**[6943.28s] English:** Their career could have ruined their lives, um, you know, and a lot of people just shut up about it.  
 **Translation:** 
 
-**[6937.82s] English:** capitalism and whatnot and they got called a communist or a marxist and it could have ruined  
-**Translation:** Vocabulary: capitalism: 资本主义; whatnot: 等等
-
-**[6943.28s] English:** their career could have ruined their lives um you know and a lot of people shut up about it  
+**[6949.46s] English:** And it took a long time, and it went on for a long time.  
 **Translation:** 
 
-**[6949.46s] English:** and it took and it went on for a long time uh  
+**[6953.04s] English:** And, in a way, and in a way, it kind of still is going on. I mean, you call somebody a Marxist.  
 **Translation:** 
 
-**[6953.04s] English:** and in a way and in a way it kind of still is going on i mean you call somebody a marxist  
+**[6958.36s] English:** If you can make that stick.  
 **Translation:** 
 
-**[6958.36s] English:** if you can make that stick  
+**[6960.00s] English:** They're certainly not going to get elected president of the United States. But I don't know about this. I think, you know, I once read this book by a German political scientist called Elizabeth Noilly Neumann. That was the writer's name, Elizabeth Noilly Neumann.  
 **Translation:** 
 
-**[6960.00s] English:** They're certainly not going to get elected president of the United States. But I don't know about this. I think, you know, I once read this book by a German political scientist called Elizabeth Noyla Neumann. That was the writer's name, Elizabeth Noyla Neumann.  
+**[6980.92s] English:** The book was called "The Spiral of Silence." And the argument was: there can be some views or issues in society that get defined in such a way that it's inappropriate to hold those views.  
+**Translation:** Vocabulary: inappropriate: 不合适的; neumann: 诺伊曼
+
+**[6998.04s] English:** And as a result, people who don't want to be shamed or ostracized don't express those views.  
 **Translation:** 
 
-**[6980.92s] English:** The book was called The Spiral of Silence. And the argument was, there can be some views, some issues in society that get defined in such a way that it's inappropriate to hold those views.  
-**Translation:** Vocabulary: inappropriate: 不合适的; neumann: 诺伊拉·内曼
+**[7005.86s] English:** And when they don't express them, anyone holding the view because they don't hear it said by others.  
+**Translation:** Vocabulary: ostracized: 被排斥; shamed: 羞愧
 
-**[6998.04s] English:** And as a result, people who don't want to be shamed, who don't want to be ostracized, don't express those views.  
+**[7010.80s] English:** They think that they're the only one, or one of the few, who holds the view.  
 **Translation:** 
 
-**[7005.86s] English:** And when they don't express them, anybody holding the view because they don't hear it said by others.  
-**Translation:** Vocabulary: ostracized: 被排斥
-
-**[7010.80s] English:** They think that they're the only one or one of the few who hold the view.  
+**[7014.32s] English:** And so, they don't want to be the only one out there saying something. So they keep it to themselves.  
 **Translation:** 
 
-**[7014.32s] English:** And so they don't want to be the only one out there saying something. So they keep it to themselves.  
-**Translation:** 
-
-**[7019.16s] English:** So now this view, this attitude in society could be held by a large number of people.  
+**[7019.16s] English:** So, now this view and attitude in society could be held by a large number of people.  
 **Translation:** 
 
 **[7026.32s] English:** But because of the fear that if they were to express it, they'd be ostracized.  
@@ -3574,106 +3575,106 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[7052.02s] English:** Everybody can see that this dude is naked.  
 **Translation:** 
 
-**[7055.88s] English:** OK, but everybody thinks that, you know, I don't want to be the only one to say it.  
+**[7055.88s] English:** OK, but everybody thinks that, you know—I don't want to be the only one to say it.  
 **Translation:** 
 
 **[7060.90s] English:** And so we all kind of collaborate in this charade of keeping the view to ourselves.  
 **Translation:** 
 
-**[7068.28s] English:** Then along comes.  
+**[7068.28s] English:** Then, along comes.  
 **Translation:** Vocabulary: charade: 假戏; collaborate: 合作
 
-**[7070.80s] English:** An event that somebody decides to defy the consensus and to speak out.  
+**[7070.80s] English:** An event that somebody decides to defy the consensus and speak out.  
 **Translation:** 
 
-**[7080.00s] English:** could be a little kid who, in the story about the emperor has no clothes, doesn't realize that he's  
+**[7080.00s] English:** Could be a little kid who, in the story about the Emperor has no clothes, doesn't realize that he's  
 **Translation:** 
 
-**[7084.54s] English:** not supposed to say that the emperor is naked. The thing about the kid in the story who says  
+**[7084.54s] English:** Not supposed to say that the emperor is naked. The thing about the kid in the story who says,  
 **Translation:** 
 
-**[7090.40s] English:** that the emperor is naked is not that he's saying it. It's not even that other people hear him  
+**[7090.40s] English:** That the emperor is naked is not that he's saying it. It's not even that other people hear him.  
 **Translation:** 
 
-**[7095.90s] English:** saying it. It's that everybody knows that everybody else heard him say it. The kid who speaks out  
+**[7095.90s] English:** Saying it. It's that everybody knows that everybody else heard him say it. The kid who speaks out.  
 **Translation:** 
 
-**[7104.30s] English:** and says the emperor has no clothes creates a circumstance in which it's common knowledge  
+**[7104.30s] English:** And he says, "the emperor has no clothes," creating a circumstance in which it's common knowledge.  
 **Translation:** Vocabulary: circumstance: 情况
 
-**[7109.82s] English:** that the emperor has no clothes. Now, common knowledge does not just mean knowledge.  
+**[7109.82s] English:** That the emperor has no clothes. Now, common knowledge does not just mean knowledge.  
 **Translation:** 
 
-**[7113.76s] English:** It does not even mean widespread knowledge. It means comprehensive knowledge of other person's  
+**[7113.76s] English:** It does not even mean widespread knowledge. It means comprehensive knowledge of the other person's  
 **Translation:** 
 
-**[7119.56s] English:** knowledge of the thing, okay? So the spiral of silence is an equilibrium that is susceptible  
+**[7119.56s] English:** Knowledge of the thing, okay? So the spiral of silence is an equilibrium that is susceptible,...  
 **Translation:** 
 
-**[7127.10s] English:** to being undermined by a process of a kind of cumulative process, a snowballing process of  
-**Translation:** Vocabulary: cumulative: 累积的; snowballing: 滚雪球; susceptible: 易受影响的; undermined: 动摇
+**[7127.10s] English:** To be undermined by a process of a kind of cumulative, snowballing process,  
+**Translation:** Vocabulary: cumulative: 累积的; equilibrium: 平衡; snowballing: 滚雪球; susceptible: 易受影响的; undermined: 动摇
 
-**[7135.28s] English:** revelation that you're not the only one who thinks this way, okay?  
+**[7135.28s] English:** Revelation that you're not the only one who thinks this way, okay?  
 **Translation:** 
 
 **[7139.82s] English:** It's fascinating to think that there's an ocean of common knowledge that we're waiting for the  
 **Translation:** Vocabulary: revelation: 揭示
 
-**[7144.96s] English:** little kid to wake us up to, different little parts of it. That's correct. And the little kid,  
+**[7144.96s] English:** Little kid to wake us up to, different little parts of it. That's correct. And the little kid,  
 **Translation:** 
 
-**[7150.46s] English:** by the way, could be somebody like Donald Trump, only more effective than Donald Trump.  
+**[7150.46s] English:** By the way, it could be someone like Donald Trump, only more effective than Donald Trump.  
 **Translation:** 
 
 **[7154.98s] English:** Somebody who is smarter than Donald Trump. Somebody who is shrewder than Donald Trump.  
 **Translation:** 
 
 **[7161.02s] English:** Somebody who figures out that when Colin Kaepernick takes a knee at a football game  
+**Translation:** Vocabulary: kaepernick: 科林·卡佩尼克; shrewder: 更精明
+
+**[7168.30s] English:** And says,  
 **Translation:** 
 
-**[7168.30s] English:** and says,  
+**[7169.02s] English:** I'm not going to stand for this preference, that a vast number of people are very unhappy.  
 **Translation:** 
 
-**[7169.02s] English:** I'm not going to stand for this predilegence, that a vast number of people are very unhappy  
-**Translation:** Vocabulary: predilegence: 偏好
-
-**[7177.46s] English:** about that. Somebody who understands that when a Black Lives Matter activist stands up with his  
+**[7177.46s] English:** About that. Somebody who understands that when a Black Lives Matter activist stands up,  
 **Translation:** 
 
-**[7184.24s] English:** bald fist and says, burn this bitch down about a city in the United States of America, that a lot  
+**[7184.24s] English:** Bald fist and says, "Burn this bitch down!" about a city in the United States of America, that's a lot.  
 **Translation:** 
 
-**[7190.28s] English:** of people are upset about that. A lot of them. A person, a shrewd politician, a shrewd manager of  
+**[7190.28s] English:** Of people are upset about that. A lot of them. A person; a shrewd politician, a shrewd manager,  
 **Translation:** 
 
-**[7198.46s] English:** public image.  
-**Translation:** Vocabulary: shrewd: 精明
+**[7198.46s] English:** Public image.  
+**Translation:** Vocabulary: shrewd: 精明的
 
-**[7200.00s] English:** could build on and create a circumstance in which more and more people will feel safe  
+**[7200.00s] English:** Could build on and create a circumstance in which more and more people will feel safe.  
 **Translation:** 
 
-**[7206.32s] English:** to express that view. And the more who express it, the safer those who have yet to express it,  
+**[7206.32s] English:** To express that view, and the more who express it, the safer those who have yet to express it.  
+**Translation:** Vocabulary: circumstance: 环境
+
+**[7211.96s] English:** But who holds it will feel in expressing it. And to the extent that the view is very widespread,  
 **Translation:** 
 
-**[7211.96s] English:** but who hold it, will feel in expressing it. And to the extent that the view is very widespread,  
+**[7217.78s] English:** But it's kept under wraps — an explosion could happen. And you can look up tomorrow and have.  
 **Translation:** 
 
-**[7217.78s] English:** but is kept under wraps, an explosion could happen. And you can look up tomorrow and have  
+**[7223.22s] English:** A very different country than you have today, because of the conspiracy of silence and the spiral...  
 **Translation:** 
 
-**[7223.22s] English:** a very different country than you had today, because the conspiracy of silence, the spiral  
+**[7230.18s] English:** Of silence, ends up getting unraveled by somebody who steps out away from the consensus and dares to  
+**Translation:** Vocabulary: consensus: 一致意见; conspiracy: 阴谋; unraveled: 揭露
+
+**[7237.48s] English:** Take the slings and arrows of exposing themselves as a naysayer, but taps into a sentiment that's  
 **Translation:** 
 
-**[7230.18s] English:** of silence, ends up getting unraveled by somebody who steps out away from the consensus, dares to  
-**Translation:** Vocabulary: unraveled: 解开
+**[7243.78s] English:** Very widespread. And I fear that, with respect to many racial issues, this is the situation.  
+**Translation:** Vocabulary: naysayer: 反对者; sentiment: 情绪; slings: 投射物
 
-**[7237.48s] English:** take the slings and arrows of exposing themselves as a naysayer, but taps into a sentiment that's  
-**Translation:** 
-
-**[7243.78s] English:** very widespread. And I fear that with respect to many racial issues, this is the situation that  
-**Translation:** Vocabulary: naysayer: 反对者; sentiment: 情绪; slings: 攻击
-
-**[7252.48s] English:** we're actually conducting.  
+**[7252.48s] English:** We're actually conducting.  
 **Translation:** 
 
 **[7253.22s] English:** That it could unravel in a very ugly way.  
@@ -3682,100 +3683,100 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[7257.30s] English:** But it could also unravel in a beautiful way. So it's depending. There is a spiral of silence,  
 **Translation:** 
 
-**[7263.62s] English:** you're saying. And it could be, because speaking of children, charismatic children,  
+**[7263.62s] English:** You're saying, and it could be, because speaking of children, charismatic children,  
 **Translation:** Vocabulary: charismatic: 有魅力的
 
-**[7269.14s] English:** there's a guy named Elon Musk who might be a candidate for such an unraveling, right? You  
+**[7269.14s] English:** There's a guy named Elon Musk who might be a candidate for such an unraveling, right?  
 **Translation:** 
 
-**[7276.98s] English:** mentioned the person that speaks out could be a Donald Trump, but in this current situation,  
+**[7276.98s] English:** Mentioned the person that speaks out could be a Donald Trump, but in this current situation,  
 **Translation:** Vocabulary: unraveling: 事情瓦解
 
-**[7283.22s] English:** that we live in, like as this week, Elon has purchased Twitter.  
+**[7283.22s] English:** That we live in, like this week, Elon has purchased Twitter.  
 **Translation:** 
 
 **[7288.18s] English:** That's what I hear.  
 **Translation:** 
 
-**[7289.48s] English:** And is pushing for, in all kinds of ways, the increase of free speech on Twitter. And speaking  
+**[7289.48s] English:** And they are pushing for, in all kinds of ways, the increase of free speech on Twitter. And speaking,...  
 **Translation:** 
 
-**[7298.34s] English:** about some of the issues that we've been speaking about here with you, but maybe in broader strokes,  
+**[7298.34s] English:** About some of the issues we've been speaking about here with you, but maybe in broader strokes.  
+**Translation:** Vocabulary: strokes: 笔触
+
+**[7306.22s] English:** About just the fact that you have to, it's okay to point out that the emperor wears no clothes, and  
 **Translation:** 
 
-**[7306.22s] English:** about just the fact that you have to, it's okay to point out that the emperor wears no clothes and  
-**Translation:** 
-
-**[7313.22s] English:** to do so from all sides in a way that everybody's a little bit pissed off, but not too much.  
+**[7313.22s] English:** To do so from all sides, in a way that everybody's a little bit pissed off, but not too much.  
 **Translation:** Vocabulary: pissed: 生气
 
-**[7320.00s] English:** you think about this whole effort of free speech uh in these public platforms um elon in particular  
+**[7320.00s] English:** You think about this whole effort of free speech, uh, in these public platforms, um, Elon, in particular.  
 **Translation:** 
 
-**[7326.94s] English:** twitter you're a avid twitter user um but just public platforms for discourse for us as a  
+**[7326.94s] English:** Twitter, you're an avid Twitter user, um, but just public platforms for discourse for us as a  
 **Translation:** Vocabulary: discourse: 讨论
 
-**[7335.22s] English:** civilization to figure stuff out yeah well the people on the left are very upset about the  
+**[7335.22s] English:** Civilization to figure stuff out, yeah. Well, the people on the left are very upset about the  
 **Translation:** 
 
-**[7342.88s] English:** possibility that elon musk and twitter will be open to more open to uh provocative uh public  
+**[7342.88s] English:** Possibility that Elon Musk and Twitter will be more open to provocative public figures.  
 **Translation:** Vocabulary: provocative: 挑逗性的
 
-**[7352.24s] English:** speech that has heretofore been banned or suppressed and um i think they might be right  
+**[7352.24s] English:** Speech that has heretofore been banned or suppressed, and I think they might be right.  
 **Translation:** 
 
-**[7360.62s] English:** to be concerned that that could happen i don't know enough about the technology and about the  
+**[7360.62s] English:** To be concerned that that could happen, I don't know enough about the technology and about the  
 **Translation:** Vocabulary: heretofore: 以前; suppressed: 压制
 
-**[7365.96s] English:** market to really i mean social media and whatnot it seems like it's a complicated  
+**[7365.96s] English:** Market to really, I mean, social media and whatnot—it seems like it's a complicated  
 **Translation:** 
 
-**[7371.88s] English:** uh system  
+**[7371.88s] English:** Uh, system.  
 **Translation:** Vocabulary: whatnot: 等等
 
-**[7372.88s] English:** of interactions between people and who the users are and so forth and so on  
+**[7372.88s] English:** Of interactions between people, who the users are, and so forth and so on.  
 **Translation:** 
 
-**[7377.34s] English:** um i do know that that uh new york post uh story about hunter biden's laptop was real news  
+**[7377.34s] English:** Um, I do know that the New York Post story about Hunter Biden's laptop was real news.  
+**Translation:** Vocabulary: laptop: 便携电脑
+
+**[7385.34s] English:** And it could have affected the outcome of the election, and it was suppressed.  
 **Translation:** 
 
-**[7385.34s] English:** and could have affected the outcome of the election and it was suppressed  
-**Translation:** 
-
-**[7389.84s] English:** and that uh twitter had a role in suppressing it i do know that the question of where the  
+**[7389.84s] English:** And that, uh, Twitter had a role in suppressing it; I do know that the question of where the  
 **Translation:** Vocabulary: suppressing: 压制
 
-**[7397.28s] English:** covid-19 virus originated in the role that a lab leak account could have played  
+**[7397.28s] English:** The COVID-19 virus could have originated from a lab leak, according to some accounts.  
 **Translation:** 
 
-**[7402.86s] English:** in the public processing of that event was real news and that it was suppressed by people who  
+**[7402.86s] English:** In the public processing of that event, there was real news, and it was suppressed by people who  
 **Translation:** Vocabulary: originated: 起源于
 
-**[7409.74s] English:** were trying to control misinformation disinformation russian disinformation campaigns and whatnot  
+**[7409.74s] English:** We're trying to control misinformation, disinformation, Russian disinformation campaigns, and so on.  
 **Translation:** 
 
-**[7418.22s] English:** so twitter has users i'm one of them and it has a lot of users it's not as big as facebook i gather  
-**Translation:** Vocabulary: disinformation: 虚假信息; misinformation: 错误信息
+**[7418.22s] English:** So, Twitter has users—I'm one of them—and it has a lot of users. It's not as big as Facebook, I gather.  
+**Translation:** Vocabulary: campaigns: 信息战; disinformation: 假信息; misinformation: 错误信息
 
-**[7423.74s] English:** it's not but um it's important the ability to construct counter platforms or people moving around  
+**[7423.74s] English:** It's not, but um, it's important the ability to construct counter-platforms or people moving around.  
 **Translation:** 
 
-**[7432.86s] English:** and whatnot uh it's a kind of network dynamic that maybe i should understand  
+**[7432.86s] English:** And, you know, it's a kind of network dynamic that maybe I should understand.  
 **Translation:** 
 
-**[7437.66s] English:** it better than i do being a social scientist but  
+**[7437.66s] English:** It's better than I do being a social scientist, but  
 **Translation:** 
 
 **[7440.00s] English:** I don't think anyone understands it, even people inside Twitter, which is fascinating.  
 **Translation:** 
 
-**[7445.46s] English:** It's a monster because of just the bandwidth of messaging, and you don't know who is a bot and who is a human.  
+**[7445.46s] English:** It's a monster because of the bandwidth of messaging, and you don't know who is a bot and who is a human.  
 **Translation:** 
 
 **[7452.62s] English:** That's a fascinating dynamic.  
 **Translation:** Vocabulary: bandwidth: 带宽
 
-**[7455.38s] English:** And the viral nature of negativity, all of those dynamics, of course, you are probably the right person to understand it from a social scientist perspective, from an economics perspective.  
+**[7455.38s] English:** And the viral nature of negativity—all of those dynamics. Of course, you are probably the right person to understand it from a social science and economics perspective.  
 **Translation:** 
 
 **[7470.00s] English:** But nobody really understands.  
@@ -3784,25 +3785,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[7471.28s] English:** And it's fascinating.  
 **Translation:** 
 
-**[7472.82s] English:** Within that domain, how do you allow for free speech, not allow for free speech, encourage free speech, defend free speech, and at the same time manage millions of ongoing conversations from just becoming insanely chaotic?  
+**[7472.82s] English:** Within that domain, how do you allow for free speech, not allow for free speech, encourage free speech, defend free speech, and at the same time manage millions of ongoing conversations from becoming insanely chaotic?  
+**Translation:** Vocabulary: chaotic: 混乱
+
+**[7497.12s] English:** From a Twitter perspective, they want people to be...  
 **Translation:** 
 
-**[7497.12s] English:** From Twitter perspective, they want people to be…  
+**[7500.00s] English:** Happy to grow, to actually have difficult, critical conversations.  
 **Translation:** 
 
-**[7500.00s] English:** Happy, to grow, to actually have difficult, critical conversations.  
-**Translation:** 
-
-**[7505.50s] English:** And the problem with humans is they think they know what that is, and they think they can label things as misinformation, as counterproductive for healthy conversations, in quotes.  
+**[7505.50s] English:** And the problem with humans is that they think they know what it is, and they think they can label things as "misinformation" or "counterproductive for healthy conversations.  
 **Translation:** 
 
 **[7518.82s] English:** And the problem is, as we are learning, humans are not able to do that effectively.  
-**Translation:** Vocabulary: counterproductive: 适得其反
+**Translation:** Vocabulary: counterproductive: 适得其反; misinformation: 虚假信息
 
 **[7525.20s] English:** First of all, power corrupts.  
 **Translation:** 
 
-**[7527.32s] English:** There's something delicious about…  
+**[7527.32s] English:** There's something delicious about....  
 **Translation:** Vocabulary: corrupts: 使腐败
 
 **[7530.00s] English:** Having the power to label something as misinformation.  
@@ -3821,99 +3822,99 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[7541.70s] English:** It feels good to label something as misinformation or disinformation that you just don't like.  
-**Translation:** Vocabulary: disinformation: 错误信息; misinformation: 误导信息
+**Translation:** Vocabulary: disinformation: 错误信息
 
-**[7548.94s] English:** And over time, especially if there's a culture inside of a company that leans a certain political direction or leans in all the groups that we talked about, leans a certain way.  
+**[7548.94s] English:** And over time, especially if there's a culture inside a company that leans a certain political direction or aligns with any of the groups we talked about, it tends to lean a certain way.  
 **Translation:** 
 
-**[7559.26s] English:** They'll start to…  
+**[7559.26s] English:** They'll start to...  
+**Translation:** Vocabulary: aligns: 一致
+
+**[7560.00s] English:** Labels misinformation as things they just don't like, and there's that power—is delicious, and it.  
 **Translation:** 
 
-**[7560.00s] English:** labels misinformation things they just don't like and there's that power is delicious and it  
+**[7566.84s] English:** Corrupts, you have to construct mechanisms, like the founding fathers did, for somehow preventing you.  
+**Translation:** Vocabulary: founding: 创立; labels: 贴标签
+
+**[7572.60s] English:** From allowing that power to get too delicious.  
 **Translation:** 
 
-**[7566.84s] English:** corrupts you have to construct mechanisms like the founding fathers did for somehow preventing you  
-**Translation:** Vocabulary: founding: 创立
-
-**[7572.60s] English:** from allowing that power to get too delicious  
+**[7575.52s] English:** At least, that's my perspective on what's going on. I'll just tell you—personally, I'm excited about it.  
 **Translation:** 
 
-**[7575.52s] English:** at least that's my perspective on what's going on i'll just tell you personally i'm excited about  
+**[7582.20s] English:** The prospect: I'm glad to see Musk making the move that he's making, and we'll see what happens at.  
 **Translation:** 
 
-**[7582.20s] English:** the prospect i'm glad to see musk making the move that he's making and we'll see what happens at  
+**[7587.08s] English:** Twitter, and so forth. You're looking forward to what did he say? Let's make...  
+**Translation:** Vocabulary: prospect: 前景
+
+**[7593.64s] English:** Twitter, more fun! I'm looking forward to the fun you've talked about. You are at a  
 **Translation:** 
 
-**[7587.08s] English:** twitter and so forth you look you're looking forward for the uh what did he say let's make  
+**[7601.02s] English:** Prestigious university, Brown University, Brown University; uh, and you've mentioned that universities.  
+**Translation:** Vocabulary: prestigious: 著名的
+
+**[7608.66s] English:** Might be in trouble. I think it's with Jordan, but everywhere else "that barbarians are at the gate.  
 **Translation:** 
 
-**[7593.64s] English:** twitter more fun i'm looking forward to uh uh to the fun you've talked about you are at a  
+**[7614.12s] English:** Who are the barbarians?  
+**Translation:** Vocabulary: barbarians: 野蛮人
+
+**[7616.22s] English:** At the gate of the university, so, first of all, what is beautiful about the ideal of the  
 **Translation:** 
 
-**[7601.02s] English:** prestigious university brown university brown university uh and you've mentioned that universities  
-**Translation:** Vocabulary: prestigious: 声望高的
-
-**[7608.66s] English:** might be in trouble i think it's with jordan but everywhere else that barbarians are at the gate  
-**Translation:** 
-
-**[7614.12s] English:** who are the barbarians  
-**Translation:** Vocabulary: barbarians: 外敌
-
-**[7616.22s] English:** at the gate of the university so first of all what is to you beautiful about the ideal of the  
-**Translation:** 
-
-**[7624.78s] English:** university in america of academia and what is a threat well you know a university is dedicated  
+**[7624.78s] English:** University in America of Academia, and What Is a Threat? Well, you know, a university is dedicated,...  
 **Translation:** Vocabulary: academia: 学术界
 
-**[7634.98s] English:** to the pursuit of truth and to the education and nurturing of young people as they enter into the  
+**[7634.98s] English:** To the pursuit of truth and to the education and nurturing of young people as they enter into the  
 **Translation:** 
 
-**[7644.94s] English:** pursuit of truth  
-**Translation:** Vocabulary: nurturing: 培养
+**[7644.94s] English:** Pursuit of truth  
+**Translation:** Vocabulary: nurturing: 培养; pursuit: 追求
 
-**[7646.22s] English:** to doing research and to teaching uh in a environment of free inquiry and civil discourse  
+**[7646.22s] English:** To do research and to teach in an environment of free inquiry and civil discourse.  
 **Translation:** 
 
-**[7655.78s] English:** so free inquiry means you go wherever the evidence and your imagination may lead you  
+**[7655.78s] English:** So, free inquiry means you go wherever the evidence and your imagination may lead you.  
 **Translation:** Vocabulary: discourse: 文明讨论
 
-**[7662.94s] English:** and civil discourse means that you exchange arguments with people when you don't agree  
+**[7662.94s] English:** And civil discourse means that you exchange arguments with people when you don't agree.  
 **Translation:** 
 
-**[7667.68s] English:** with them on behalf of trying to get to the bottom of things um i think the university is  
+**[7667.68s] English:** With them on behalf of trying to get to the bottom of things, I think the university is.  
 **Translation:** 
 
-**[7673.72s] English:** a magnificent institution  
+**[7673.72s] English:** A magnificent institution.  
 **Translation:** 
 
-**[7676.22s] English:** it is a relatively modern uh  
+**[7676.22s] English:** It is a relatively modern, uh  
 **Translation:** 
 
-**[7680.00s] English:** I mean, last 500 years or so, I mean, there are universities that are older than that,  
+**[7680.00s] English:** I mean, in the last 500 years or so, I mean, there are universities that are older than that.  
 **Translation:** 
 
-**[7684.82s] English:** but the great research universities of the world, and not only here in the United States,  
+**[7684.82s] English:** But the great research universities of the world, and not just here in the United States,  
 **Translation:** 
 
-**[7691.26s] English:** are places where human ingenuity is nurtured, where new knowledge is created, and where  
+**[7691.26s] English:** Are there places where human ingenuity is nurtured, where new knowledge is created, and where  
 **Translation:** 
 
-**[7698.50s] English:** young people are equipped to answer questions that are open questions about our existence  
-**Translation:** Vocabulary: ingenuity: 聪明才智; nurtured: 培养
+**[7698.50s] English:** Young people are equipped to answer questions that are open-ended questions about our existence.  
+**Translation:** Vocabulary: equipped: 准备充分; ingenuity: 创造性; nurtured: 培养
 
-**[7706.20s] English:** in the world that we live in.  
+**[7706.20s] English:** In the world that we live in.  
 **Translation:** 
 
-**[7708.12s] English:** You can trace to the university much, if not most, of the advances in technology and resourcefulness  
-**Translation:** Vocabulary: resourcefulness: 聪明才智
+**[7708.12s] English:** You can trace much, if not most, of the advances in technology and resourcefulness to the university.  
+**Translation:** Vocabulary: advances: 进步; resourcefulness: 创造力
 
-**[7715.82s] English:** and our understanding of the origins of the species, of the nature of the universe, cosmology,  
+**[7715.82s] English:** And our understanding of the origins of species, of the nature of the universe (cosmology),  
 **Translation:** 
 
-**[7720.80s] English:** et cetera, science, the pursuit of humanistic understanding, the nurturing of traditions  
+**[7720.80s] English:** Et cetera, science, the pursuit of humanistic understanding, the nurturing of traditions.  
 **Translation:** Vocabulary: cosmology: 宇宙学; humanistic: 人文学的
 
-**[7727.70s] English:** of inquisitiveness.  
+**[7727.70s] English:** Of inquisitiveness.  
 **Translation:** 
 
 **[7728.70s] English:** That's the university.  
@@ -3923,39 +3924,39 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **Translation:** 
 
 **[7733.02s] English:** The people who are trying to shut down open inquiry at the university on behalf of their  
+**Translation:** Vocabulary: barbarians: 外敌
+
+**[7738.10s] English:** Particular views about things are a threat to what the university stands for, and they  
 **Translation:** 
 
-**[7738.10s] English:** particular view about things are a threat to what the university stands for, and they  
+**[7744.74s] English:** Should be resisted.  
+**Translation:** Vocabulary: resisted: 抵制
+
+**[7746.58s] English:** So, if I am inquiring about the nature of human intelligence, and I want to study differences,  
 **Translation:** 
 
-**[7744.74s] English:** should be resisted.  
-**Translation:** 
+**[7754.72s] English:** Between human populations and their acquisition or expression of cognitive abilities,  
+**Translation:** Vocabulary: acquisition: 获取; cognitive: 认知; inquiring: 询问
 
-**[7746.58s] English:** So if I'm inquiring about the nature of human intelligence, and I want to study differences  
-**Translation:** 
-
-**[7754.72s] English:** between human populations and their acquisition of or their expression of cognitive ability,  
-**Translation:** Vocabulary: cognitive: 认知; inquiring: 询问
-
-**[7762.24s] English:** that's fair game.  
+**[7762.24s] English:** That's fair game.  
 **Translation:** 
 
 **[7763.26s] English:** It's an open question.  
 **Translation:** 
 
-**[7764.94s] English:** If I want to know something about the nature of...  
+**[7764.94s] English:** If I want to know something about the nature of....  
 **Translation:** 
 
-**[7767.80s] English:** Gender affiliation and identity and gender dysphoria and whatnot, that's fair game to  
-**Translation:** Vocabulary: affiliation: 隶属关系; dysphoria: 不悦感; whatnot: 等等
+**[7767.80s] English:** Gender affiliation and identity, as well as gender dysphoria, and related topics—that's fair game to  
+**Translation:** Vocabulary: affiliation: 关系; dysphoria: 不悦感
 
-**[7775.40s] English:** study in a university.  
+**[7775.40s] English:** Study in a university.  
 **Translation:** 
 
 **[7776.52s] English:** You can't shut that down.  
 **Translation:** 
 
-**[7778.34s] English:** You shouldn't be able to by saying, I have a particular position here.  
+**[7778.34s] English:** You shouldn't be able to say, "I have a particular position here.  
 **Translation:** 
 
 **[7784.04s] English:** I'm a member of a particular identity group.  
@@ -3964,103 +3965,103 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[7786.02s] English:** Suppose I want to study the history of colonialism.  
 **Translation:** 
 
-**[7790.14s] English:** And there's a narrative on the progressive side, which is colonialism is about Europeans  
+**[7790.14s] English:** And there's a narrative on the progressive side, which is that colonialism is about Europeans.  
 **Translation:** Vocabulary: colonialism: 殖民主义
 
-**[7795.74s] English:** dominating and stealing or whatever.  
+**[7795.74s] English:** Dominating and stealing, or whatever.  
 **Translation:** 
 
-**[7797.58s] English:** And I happen to think, well, there's another...  
+**[7797.58s] English:** And I happen to think that there's another...  
 **Translation:** Vocabulary: dominating: 占据主导
 
-**[7800.00s] English:** aspect to the story about colonialism, too, which is that it's a mechanism for the diffusion  
+**[7800.00s] English:** Aspects of the story about colonialism, too, are that it's a mechanism for the diffusion,...  
 **Translation:** 
 
-**[7804.26s] English:** of the best in human civilization to populations that were significantly lagging behind with  
+**[7804.26s] English:** Of the best in human civilization to populations that were significantly lagging behind.  
 **Translation:** Vocabulary: diffusion: 传播; lagging: 落后
 
-**[7810.50s] English:** respect to that. It brought literacy to the southern hemispheric populations that were  
+**[7810.50s] English:** Respectfully, it brought literacy to the southern hemisphere's populations that were  
 **Translation:** 
 
-**[7815.84s] English:** dominated in the process of the colonizing thing. It's complicated. I'm not taking that position,  
-**Translation:** Vocabulary: colonizing: 殖民; hemispheric: 半球
+**[7815.84s] English:** Dominated in the process of colonization? It's complicated. I'm not taking that position.  
+**Translation:** Vocabulary: colonization: 殖民; dominated: 被统治; respectfully: 恭敬地
 
-**[7821.30s] English:** by the way. I'm just saying somebody at a university should be able to take it up  
+**[7821.30s] English:** By the way, I'm just saying somebody at a university should be able to take it up.  
 **Translation:** 
 
-**[7826.86s] English:** and pursue it and engage in argument with people about it. I'm talking about race and ethnicity,  
+**[7826.86s] English:** And pursue it, engaging in arguments with people about it. I'm talking about race and ethnicity.  
 **Translation:** Vocabulary: ethnicity: 种族
 
-**[7831.88s] English:** but this extends to a wide range of things. Suppose we're talking about climate,  
+**[7831.88s] English:** But this extends to a wide range of things. Suppose we're talking about climate,  
 **Translation:** 
 
-**[7836.12s] English:** and one person says the Earth is endangered because of carbon in global warming, etc.,  
+**[7836.12s] English:** And one person says the Earth is endangered because of carbon in global warming, etc.  
 **Translation:** 
 
-**[7842.24s] English:** etc., and another person says, no, wait, no, wait. Look at where we stand in the 21st century. We're  
+**[7842.24s] English:** etc., and another person says, "No, wait, no, wait." Look at where we stand in the 21st century. We're  
 **Translation:** 
 
-**[7848.34s] English:** vastly richer than our ancestors just 250 years ago. We have much more knowledge about that,  
+**[7848.34s] English:** Vastly richer than our ancestors just 250 years ago. We have much more knowledge about that.  
+**Translation:** Vocabulary: vastly: 极其
+
+**[7853.28s] English:** And so forth, and so on. Two hundred and fifty years from now,  
 **Translation:** 
 
-**[7853.28s] English:** and so forth, and so on. Two hundred and fifty years from now,  
+**[7856.48s] English:** Human civilization is going to be a place where we are going to be.  
 **Translation:** 
 
-**[7856.48s] English:** human civilization is going to be a place where we're going to be a place where we're going to  
+**[7856.84s] English:** Be a place where we're going to be.  
 **Translation:** 
 
-**[7856.84s] English:** be a place where we're going to be a place where we're going to be a place where we're going to be.  
-**Translation:** 
-
-**[7856.86s] English:** Human ingenuity will have devised in ways that we cannot even begin to anticipate  
+**[7856.86s] English:** Human ingenuity will have devised ways that we cannot even begin to anticipate.  
 **Translation:** Vocabulary: anticipate: 预知; cannot: 不能; devised: 设计; ingenuity: 智慧
 
-**[7861.82s] English:** all manner of technological means for managing the problem. There's no reason that we should  
+**[7861.82s] English:** All manner of technological means are available for managing the problem. There's no reason that we should  
 **Translation:** 
 
-**[7870.18s] English:** shut down industrial civilization today because we fear the consequences of it,  
+**[7870.18s] English:** Shut down industrial civilization today because we fear the consequences of it.  
 **Translation:** 
 
-**[7876.84s] English:** when in fact we are vastly richer than our ancestors, and those who come up two centuries  
+**[7876.84s] English:** When, in fact, we are vastly richer than our ancestors, and those who come up two centuries later.  
 **Translation:** 
 
-**[7881.78s] English:** after us will be vastly more effective at dealing with problems than we are now,  
+**[7881.78s] English:** After us, there will be those who are vastly more effective at dealing with problems than we are now.  
 **Translation:** 
 
-**[7886.60s] English:** let's, you know, etc. I'm not actually making that argument. I'm just saying  
+**[7886.60s] English:** Let's, you know, etc. I'm not actually making that argument; I'm just saying,...  
 **Translation:** 
 
-**[7891.46s] English:** the tendency to try to say, oh, no, that person is a climate denier. They can't pursue that  
+**[7891.46s] English:** The tendency to try to say, "Oh, no, that person is a climate denier." They can't pursue that.  
+**Translation:** Vocabulary: denier: 否认气候变迁的人
+
+**[7897.78s] English:** The area of inquiry is against the spirit of the university. I think the barbarians are at the gates.  
 **Translation:** 
 
-**[7897.78s] English:** area of inquiry is against the spirit of the university. I think the barbarians at the gates  
+**[7906.90s] English:** Has to do with the people who think they know what the right side of history is and try to  
+**Translation:** Vocabulary: barbarians: 外族入侵者
+
+**[7912.54s] English:** Make the university stand on the right side of history.  
 **Translation:** 
 
-**[7906.90s] English:** has to do with the people who think they know what the right side of history is and try to  
-**Translation:** Vocabulary: barbarians: 外敌入侵
-
-**[7912.54s] English:** make the university stand on the right side of history.  
-**Translation:** 
-
-**[7915.28s] English:** My position is you don't know what the right side of history is.  
+**[7915.28s] English:** My position is, you don't know what the right side of history is.  
 **Translation:** 
 
 **[7920.00s] English:** And the purpose of a university is to equip you to be able to think about what is the right side of history?  
 **Translation:** 
 
-**[7927.56s] English:** What is the solution to the dilemmas that confront us as human beings living on this planet with the billions that we are in the condition that we are?  
+**[7927.56s] English:** What is the solution to the dilemmas that confront us as human beings living on this planet, with the billions that we are, and in the condition that we are?  
 **Translation:** Vocabulary: confront: 面对; dilemmas: 困境
 
-**[7937.48s] English:** So the identitarians, the ones who want to make the university kowtow to their particular understandings about their own identity, we now have at Brown University and various other places, we don't do Columbus Day anymore.  
+**[7937.48s] English:** So, the identitarians, the ones who want to make the university kowtow to their particular understandings about their own identity, we now have at Brown University and various other places—we don't do Columbus Day anymore.  
 **Translation:** 
 
-**[7957.90s] English:** We do Indigenous Peoples Day. When that day comes up in October, we don't talk about Columbus.  
+**[7957.90s] English:** We celebrate Indigenous Peoples Day. When that day comes up in October, we don't talk about Columbus.  
 **Translation:** Vocabulary: columbus: 哥伦布; identitarians: 身份认同主义者; indigenous: 土著的; kowtow: 巴结; understandings: 理解
 
-**[7964.36s] English:** They're taking down statues of Columbus all across the country and so forth and so on.  
+**[7964.36s] English:** They're taking down statues of Columbus all across the country, and so on.  
 **Translation:** 
 
-**[7967.48s] English:** I'm not arguing anything here other than that the latter-day position, BIPOCs, Black, Indigenous, and other people of color, the latter-day position that the university has to reflect a particular sensibility about these identity questions, I think it's a threat to the integrity of the enterprise.  
+**[7967.48s] English:** I'm not arguing anything here other than that the latter-day position — BIPOCs, Black, Indigenous, and other people of color — the latter-day position that the university has to reflect a particular sensibility about these identity questions, I think it's a threat to the integrity of the enterprise.  
 **Translation:** Vocabulary: sensibility: 敏感性
 
 **[7994.46s] English:** I don't think you're overstating it.  
@@ -4069,187 +4070,187 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[7996.62s] English:** I agree.  
 **Translation:** Vocabulary: overstating: 夸大其词
 
-**[7997.48s] English:** I tend to be, just from my limited knowledge of MIT, but perhaps it applies broadly, I think the beauty of the university, broadly speaking, is the faculty and the students.  
+**[7997.48s] English:** I tend to be, just from my limited knowledge of MIT, but perhaps it applies broadly: I think the beauty of the university, broadly speaking, is the faculty and the students.  
 **Translation:** 
 
 **[8011.66s] English:** And the problem arises from the overreach of an overgrowing administration.  
+**Translation:** Vocabulary: arises: 出现; broadly: 广泛地
+
+**[8023.62s] English:** That gives, again, the impression that it knows enough to make rules and conclusions based on a set of beliefs, and then, based on that, empowers a certain small selection.  
 **Translation:** 
 
-**[8023.62s] English:** That gives, again, thinks that it knows enough to make rules and conclusions based on a set of beliefs, and then based on that, empowers a certain small selection.  
+**[8040.00s] English:** Of students to be the sort of voices of activism for a particular idea, and not, I think, activism is.  
+**Translation:** Vocabulary: empowers: 赋予权力
+
+**[8049.00s] English:** Beautiful, but not just activism; but anybody that disagrees is shut down, and I think that.  
 **Translation:** 
 
-**[8040.00s] English:** of students to be the sort of voices of activism of a particular idea and not i think activism is  
-**Translation:** Vocabulary: empowers: 授权
-
-**[8049.00s] English:** beautiful but not just activism but anybody that disagrees is shut down and that that i think the  
+**[8056.66s] English:** The blame lies with the administration, so I think the solution is in lessening, just like the solution.  
 **Translation:** 
 
-**[8056.66s] English:** the blame lies with the administration so i think the solution is in lessening just like the solution  
+**[8064.08s] English:** With too big of a government and too big of a bureaucracy, there needs to be a redistribution.  
 **Translation:** 
 
-**[8064.08s] English:** with too big of a government too big of a bureaucracy is there needs to be a redistribution  
-**Translation:** 
-
-**[8070.90s] English:** of power to what makes universities beautiful which is the old students and the young students  
+**[8070.90s] English:** Of power to what makes universities beautiful: it is the old students and the young students.  
 **Translation:** Vocabulary: bureaucracy: 官僚体系; redistribution: 权力再分配
 
-**[8078.76s] English:** old students being professors so the scholars the curious minds the people that are in this  
+**[8078.76s] English:** Old students becoming professors, so the scholars, the curious minds—the people who are here.  
 **Translation:** 
 
-**[8087.02s] English:** whole thing to explore the world to be curious about it on a salary that's probably way too  
+**[8087.02s] English:** Whole thing to explore the world, to be curious about it, on a salary that's probably way too low.  
 **Translation:** 
 
-**[8093.10s] English:** low for the thing they're doing  
+**[8093.10s] English:** Low for the thing they're doing.  
 **Translation:** 
 
-**[8094.08s] English:** that's that's the that's the whole point and then the administration  
+**[8094.08s] English:** That's the whole point, and then the administration...  
 **Translation:** 
 
-**[8098.22s] English:** just gets in the way and um is the source of this kind of they i i would say the in your  
+**[8098.22s] English:** Just gets in the way and, um, is the source of this kind of thing. I'd say the in-your-face attitude.  
 **Translation:** 
 
-**[8107.70s] English:** beautiful phrasing i would say the administration is the barbarians at the gate so um the solution  
-**Translation:** Vocabulary: barbarians: 野蛮人; phrasing: 表达方式
+**[8107.70s] English:** Beautiful phrasing; I would say the administration is the barbarians at the gate, so um, the solution.  
+**Translation:** Vocabulary: barbarians: 门外野蛮人; phrasing: 表达方式
 
-**[8113.58s] English:** is a smaller bureaucracy smaller administrations i have to on this point you had this conversation  
+**[8113.58s] English:** Is a smaller bureaucracy really better, with smaller administrations? I have to on this point agree; you had this conversation.  
 **Translation:** 
 
-**[8118.80s] English:** you put on your self-stack uh with jordan uh jordan peterson about  
-**Translation:** Vocabulary: administrations: 小的管理机构; peterson: Peterson
+**[8118.80s] English:** You put on your self-stack, uh, with Jordan, uh, Jordan Peterson about.  
+**Translation:** Vocabulary: administrations: 管理机构; peterson: 佩顿
 
-**[8123.50s] English:** cognizant  
+**[8123.50s] English:** Cognizant  
 **Translation:** 
 
-**[8124.08s] English:** with cognitive inequality i think it's titled wrestling with cognitive inequality  
-**Translation:** Vocabulary: cognitive: 认知; cognizant: 意识到; inequality: 不平等; wrestling: 应对
+**[8124.08s] English:** With cognitive inequality, I think it's titled "Wrestling with Cognitive Inequality.  
+**Translation:** Vocabulary: cognitive: 认知; cognizant: 意识到; inequality: 不平等; wrestling: 斗争
 
-**[8127.94s] English:** this particular topic of just iq differences between groups why is this  
+**[8127.94s] English:** This particular topic of just IQ differences between groups: why is this?  
 **Translation:** 
 
-**[8135.88s] English:** why is it so dangerous to talk about why this particular topic well it's like you're calling  
+**[8135.88s] English:** Why is it so dangerous to talk about why this particular topic? Well, it's like you're calling  
 **Translation:** 
 
-**[8143.74s] English:** black people inferior it's like you're saying they're genetically inferior that's what  
+**[8143.74s] English:** Black people are inferior; it's like you're saying they're genetically inferior. That's what.  
 **Translation:** 
 
-**[8147.34s] English:** people are saying it's like you're rationalizing the disparity of outcomes by reference to the  
-**Translation:** Vocabulary: disparity: 差距; inferior: 较差
+**[8147.34s] English:** People are saying it's like you're rationalizing the disparity of outcomes by reference to the  
+**Translation:** Vocabulary: disparity: 差距; genetically: 基因上; inferior: inferior; outcomes: 结果
 
-**[8154.08s] English:** inferiority of black people if you if you say cognitive ability matters  
+**[8154.08s] English:** Inferiority of black people, if you say cognitive ability matters.  
 **Translation:** 
 
-**[8158.60s] English:** for  
+**[8158.60s] English:** For  
+**Translation:** Vocabulary: inferiority: inferior 感
+
+**[8160.00s] English:** Social outcomes, if you say cognitive ability exists, people really are different in terms of  
 **Translation:** 
 
-**[8160.00s] English:** social outcomes, if you say cognitive ability exists, people really are different in terms of  
+**[8165.16s] English:** Their intellectual functioning. And if you say cognitive ability differences are substantial,...  
 **Translation:** 
 
-**[8165.16s] English:** their intellectual functioning. And if you say cognitive ability differences are substantial  
+**[8171.72s] English:** Between racially defined populations, the sum of that is cognitive ability, which matters.  
 **Translation:** 
 
-**[8171.72s] English:** between racially defined populations, the sum of that, there is cognitive ability, it matters,  
+**[8177.74s] English:** And it differs by race; is the conclusion that outcome differences by race are, in part, due to  
 **Translation:** 
 
-**[8177.74s] English:** and it differs by race, is the conclusion that outcome differences by race are in part due to  
-**Translation:** Vocabulary: racially: 按种族
-
-**[8184.76s] English:** natural differences between the populations. People find that to be completely offensive  
+**[8184.76s] English:** Natural differences between the populations. People find that to be completely offensive.  
 **Translation:** 
 
-**[8190.68s] English:** and unacceptable. So that's what I think is going on. Can you steel man that case that we should be  
-**Translation:** Vocabulary: unacceptable: 不能接受
+**[8190.68s] English:** And it's unacceptable. So, that's what I think is going on. Can you steel-man that case that we should be  
+**Translation:** Vocabulary: unacceptable: 不能接受的
 
-**[8198.42s] English:** careful doing that kind of research? So this has to do with research. It's like the Nazis used  
+**[8198.42s] English:** Careful doing that kind of research? So, this has to do with research. It's like the Nazis used  
 **Translation:** 
 
 **[8208.78s] English:** Nietzsche in their propaganda, right? You can use  
-**Translation:** Vocabulary: nazis: 纳粹; nietzsche: 尼采
+**Translation:** Vocabulary: nazis: 纳粹; nietzsche: 尼采; propaganda: 宣传
 
-**[8214.76s] English:** white supremacists could use conclusions, cherry pick conclusions of studies to push their agenda.  
+**[8214.76s] English:** White supremacists could use conclusions, cherry-pick conclusions of studies to push their agenda.  
 **Translation:** 
 
-**[8224.78s] English:** Can you steel man the case that we should be careful?  
-**Translation:** Vocabulary: supremacists: 种族至上主义者
+**[8224.78s] English:** Can you steel-man the case that we should be careful?  
+**Translation:** Vocabulary: supremacists: 白人至上主义者
 
-**[8227.08s] English:** Yeah, I could do it at three levels. One is, what do we mean by cognitive ability? So there's many  
+**[8227.08s] English:** Yeah, I could do it at three levels. One is, what do we mean by cognitive ability? So, there's many  
 **Translation:** 
 
-**[8232.36s] English:** different kinds of intelligence a person might say. How good are IQ tests at measuring other  
+**[8232.36s] English:** Different kinds of intelligence, a person might say. How good are IQ tests at measuring other?  
 **Translation:** 
 
-**[8238.52s] English:** kinds of human capacities that are pertinent to success in life, like temperance?  
+**[8238.52s] English:** Kinds of human capacities that are pertinent to success in life, like temperance?  
 **Translation:** 
 
-**[8244.76s] English:** Like emotional intelligence and so on. So intelligence is not a one dimensional  
-**Translation:** Vocabulary: capacities: 能力; pertinent: 相关; temperance: 节制
+**[8244.76s] English:** Like emotional intelligence, and so on. So, intelligence is not a one-dimensional concept.  
+**Translation:** Vocabulary: capacities: 能力; pertinent: 相关的; temperance: 节制
 
-**[8249.52s] English:** thing measured by G. The cognitive psychologists talk about G, the general intelligence factor,  
+**[8249.52s] English:** A thing measured by G. The cognitive psychologists talk about G, the general intelligence factor.  
 **Translation:** 
 
-**[8258.38s] English:** which is a statistical construction. It's a factor analytic resolution of the  
-**Translation:** Vocabulary: analytic: 分析性的; cognitive: 认知的
-
-**[8265.06s] English:** correlation across individuals in their performance on a battery, a different kind of test. And they  
+**[8258.38s] English:** Which is a statistical construction. It's a factor-analytic resolution of the  
 **Translation:** 
 
-**[8271.02s] English:** use that to define a  
+**[8265.06s] English:** Correlation across individuals in their performance on a battery of a different kind of test. And they  
+**Translation:** 
+
+**[8271.02s] English:** Use that to define a  
 **Translation:** Vocabulary: correlation: 相关性
 
-**[8274.76s] English:** general factor of intelligence. And a person could say, that is a very narrow view of  
+**[8274.76s] English:** General factor of intelligence. And a person could say, "That is a very narrow view of  
 **Translation:** 
 
-**[8280.00s] English:** what human mental capacities actually are, and that it's much better to think about  
+**[8280.00s] English:** What human mental capacities actually are, and that it's much better to think about  
 **Translation:** 
 
-**[8287.68s] English:** multidimensional measures of human mental functioning rather than a single cognitive  
+**[8287.68s] English:** Multidimensional measures of human mental functioning, rather than a single cognitive,  
 **Translation:** 
 
-**[8294.42s] English:** ability measure, a so-called IQ, which is a narrow construction that doesn't capture all of the  
-**Translation:** Vocabulary: multidimensional: 多维度的
+**[8294.42s] English:** Ability measures, such as an IQ test, which is a narrow construct that doesn't capture all of the  
+**Translation:** Vocabulary: cognitive: 认知; multidimensional: 多维度
 
-**[8303.44s] English:** subtle nuance of human difference in functioning. Functioning is not just the ability to  
+**[8303.44s] English:** Subtle nuances of human differences in functioning. Functioning is not just the ability to  
 **Translation:** 
 
-**[8311.28s] English:** recite backwards a sequence of numbers. I say 8, 7, 9, 5, 3, 2. You say 2, 3, 5, 7, 8, 9.  
-**Translation:** Vocabulary: backwards: 倒着; nuance: 细微差别
+**[8311.28s] English:** Recite backwards a sequence of numbers. I say 8, 7, 9, 5, 3, 2. You say 2, 3, 5, 7, 8, 9.  
+**Translation:** Vocabulary: backwards: 倒着; nuances: 细微差别; recite: 背诵; subtle: 微妙的
 
-**[8319.56s] English:** It's not just that. Intelligence is a complex management of many different dimensions of human  
+**[8319.56s] English:** It's not just that; intelligence is a complex management of many different dimensions of human.  
 **Translation:** 
 
-**[8329.08s] English:** performance, including things like being able to  
+**[8329.08s] English:** Performance, including things like being able to  
 **Translation:** Vocabulary: dimensions: 方面
 
-**[8333.42s] English:** stick with a task and not give up, things like being able to discipline and control your impulses  
+**[8333.42s] English:** Stick with a task and not give up; things like being able to discipline and control your impulses.  
 **Translation:** 
 
-**[8340.38s] English:** so as to remain focused and so forth. That could be one dimension. I could start by questioning  
-**Translation:** Vocabulary: dimension: 维度; impulses: 冲动
+**[8340.38s] English:** So, as to remain focused—and so forth—that could be one dimension. I could start by questioning.  
+**Translation:** Vocabulary: dimension: 维度; discipline: 自制力; impulses: 冲动
 
-**[8345.78s] English:** the very foundation of the argument for racial differences in cognitive ability by saying that  
+**[8345.78s] English:** The very foundation of the argument for racial differences in cognitive ability, by saying that,  
 **Translation:** 
 
-**[8353.82s] English:** your measure of cognitive ability is flawed. I could go to a higher level. I could say what  
+**[8353.82s] English:** Your measure of cognitive ability is flawed. I could go to a higher level. I could say what  
+**Translation:** Vocabulary: flawed: 有缺陷的
+
+**[8361.54s] English:** We're really interested in  
 **Translation:** 
 
-**[8361.54s] English:** we're really interested in  
+**[8363.42s] English:** Is social outcomes and the question of what factors influence social outcomes an area that extends well?  
+**Translation:** Vocabulary: outcomes: 结果
+
+**[8370.84s] English:** Beyond just mental ability, there are many other things. For example, visual acuity: how well do you see?  
 **Translation:** 
 
-**[8363.42s] English:** is social outcomes and the question of what factors influence social outcomes extends well  
+**[8380.68s] English:** See? You're not wearing glasses. I am. Visual acuity varies between human beings. Some people  
+**Translation:** Vocabulary: acuity: 视力外的敏锐度
+
+**[8389.44s] English:** See better than other people do. Visual acuity can be very different. You can see better than  
 **Translation:** 
 
-**[8370.84s] English:** beyond mental ability to many other things. So here's an example. Visual acuity. How well do you  
+**[8393.40s] English:** Other people do this. Visual acuity can be measured. I can put you at the chart, and you can identify and read that bottom line in small print—or not.  
 **Translation:** 
 
-**[8380.68s] English:** see? You're not wearing glasses. I am. Visual acuity varies between human beings. Some people  
-**Translation:** Vocabulary: acuity: 视觉敏锐度
-
-**[8389.44s] English:** see better than other people do. Visual acuity can be very different. You can see better than  
-**Translation:** 
-
-**[8393.40s] English:** other people do. Visual acuity can be measured. I can put you at the chart and you can can you identify and read that bottom line in small print or not.  
-**Translation:** 
-
-**[8400.00s] English:** So we can measure visual acuity, and it varies between human beings.  
+**[8400.00s] English:** So, we can measure visual acuity, and it varies between human beings.  
 **Translation:** 
 
 **[8404.06s] English:** Visual acuity is partly genetic.  
@@ -4258,202 +4259,202 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[8407.34s] English:** I think that's undoubtedly true.  
 **Translation:** 
 
-**[8409.52s] English:** We inherit genes that influence whether or not we are nearsighted or farsighted or astigmatic or whatever.  
-**Translation:** Vocabulary: astigmatic: 散光; farsighted: 远视; nearsighted: 近视; undoubtedly: 毫无疑问
+**[8409.52s] English:** We inherit genes that influence whether or not we are nearsighted, farsighted, or astigmatic, or whatever.  
+**Translation:** Vocabulary: astigmatic: 散光; farsighted: 远视; inherit: 继承; nearsighted: 近视; undoubtedly: 毫无疑问
 
-**[8415.40s] English:** So visual acuity differs between people and can be measured and is under genetic control.  
+**[8415.40s] English:** So, visual acuity differs between people and can be measured and is under genetic control.  
 **Translation:** 
 
-**[8423.00s] English:** On the other hand, corrective lenses allow for us to level the playing field between people who are differently endowed in terms of visual acuity.  
-**Translation:** Vocabulary: endowed: 天赋
+**[8423.00s] English:** On the other hand, corrective lenses allow us to level the playing field between people who are differently endowed in terms of visual acuity.  
+**Translation:** Vocabulary: differs: 不同; endowed: 天赋; lenses: 镜片
 
-**[8434.18s] English:** Likewise, social outcomes are what we're really interested in, employment, earnings, whether or not they're law-abiding, how do they conduct themselves and their families and so forth amongst individuals.  
+**[8434.18s] English:** Likewise, social outcomes are what we're really interested in: employment, earnings, whether or not they're law-abiding, how they conduct themselves and their families, and so forth, among individuals.  
 **Translation:** 
 
 **[8445.76s] English:** Yes, social outcomes are influenced by so-called cognitive ability, but they're influenced by many other things as well.  
-**Translation:** Vocabulary: cognitive: 认知; likewise: 同样
+**Translation:** Vocabulary: cognitive: 认知; earnings: 收入; likewise: 同样地; outcomes: 结果
 
-**[8451.52s] English:** If there are interventions that can be undertaken in society that level the playing field between people who have different natural endowments of cognitive ability, the fact that people or groups differ in cognitive ability becomes less significant, just like it's less significant that people differ with respect to how well they see when corrective lenses allow for the leveling of that playing field.  
+**[8451.52s] English:** If there are interventions that can be undertaken in society that level the playing field between people who have different natural endowments of cognitive ability, the fact that people or groups differ in cognitive ability becomes less significant. Just like it's less significant that people differ with respect to how well they see when corrective lenses allow for the leveling of that playing field.  
 **Translation:** 
 
-**[8476.38s] English:** There are, in fact, interventions, educational interventions, early childhood interventions.  
+**[8476.38s] English:** There are, in fact, interventions: educational interventions, early childhood interventions.  
 **Translation:** Vocabulary: endowments: 天赋; leveling: 平衡; undertaken: 实施
 
-**[8481.52s] English:** There are, in fact, interventions, educational interventions, early childhood interventions that have been shown to level the playing field to create better life outcomes for people, even if they happen to be endowed with low intelligence.  
+**[8481.52s] English:** There are, in fact, interventions—educational interventions and early childhood interventions—that have been shown to level the playing field and create better life outcomes for people, even if they happen to be endowed with low intelligence.  
 **Translation:** 
 
-**[8490.88s] English:** So a second level of arguing against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
+**[8490.88s] English:** So, a second level of arguing against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
 **Translation:** Vocabulary: endowment: 天赋; racially: 种族地
 
-**[8511.52s] English:** So a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
+**[8511.52s] English:** So, a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
 **Translation:** 
 
-**[8511.86s] English:** So a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
+**[8511.86s] English:** So, a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
 **Translation:** 
 
-**[8511.88s] English:** So a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
+**[8511.88s] English:** So, a second level of argument against this whole program of research on human differences in intelligence is to observe that, yes, human beings and perhaps racially defined groups may differ on the average in intellectual endowment, but there well may be social interventions that level the playing field, whether it's an educational intervention or a social intervention.  
 **Translation:** 
 
-**[8520.00s] English:** which is that if you talk like this, you're going to encourage a kind of politics, which is very ugly.  
+**[8520.00s] English:** Which is that if you talk like this, you're going to encourage a kind of politics which is very ugly.  
 **Translation:** 
 
-**[8525.22s] English:** And it's best to frame the discussion in ways that don't put emphasis on racially defined natural differences between populations.  
+**[8525.22s] English:** And it's best to frame the discussion in a way that doesn't emphasize racially defined natural differences between populations.  
 **Translation:** 
 
-**[8537.12s] English:** That's an argument that I am myself personally conflicted about.  
-**Translation:** Vocabulary: conflicted: 矛盾的
+**[8537.12s] English:** That's an argument that I am myself, personally, conflicted about.  
+**Translation:** Vocabulary: emphasize: 强调
 
-**[8543.94s] English:** On the one hand, I think, you know, those people are just stupid.  
+**[8543.94s] English:** On the one hand, I think those people are just stupid.  
 **Translation:** 
 
-**[8548.34s] English:** It is racist. OK. On the other hand, I think the calculation we shouldn't do this kind of research.  
+**[8548.34s] English:** It is racist. OK. On the other hand, I think we shouldn't do this kind of research.  
 **Translation:** 
 
-**[8558.12s] English:** Suppose I'm at the National Science Foundation of research team submits a proposal.  
+**[8558.12s] English:** Suppose I am at the National Science Foundation, where a research team submits a proposal.  
 **Translation:** 
 
-**[8562.34s] English:** The proposal proposes to undertake a study. The study would explore the extent to which people and racial groups differ with respect to their intellectual performance and how that's influenced by their genetic and environmental interaction.  
-**Translation:** 
+**[8562.34s] English:** The proposal proposes to undertake a study. The study would explore the extent to which people and racial groups differ with respect to their intellectual performance, and how that is influenced by their genetic and environmental interactions.  
+**Translation:** Vocabulary: proposes: 提议; submits: 提交; undertake: 承担
 
 **[8576.26s] English:** And I decide not to.  
 **Translation:** 
 
-**[8578.34s] English:** So I'm going to do it based on a political calculation that the subject is too sensitive.  
+**[8578.34s] English:** So, I'm going to do it based on a political calculation that the subject is too sensitive.  
 **Translation:** 
 
 **[8584.56s] English:** And if you explore that subject, you might get the wrong answer.  
 **Translation:** 
 
 **[8588.24s] English:** And if you get the wrong answer, the white supremacists will be encouraged.  
-**Translation:** Vocabulary: supremacists: 种族至上主义者
+**Translation:** Vocabulary: supremacists: 白人至上主义者
 
-**[8592.42s] English:** Well, that is presuming before the research is done that I know the outcome of the research and that I can calculate what the political consequence of the research outcome is going to be.  
+**[8592.42s] English:** Well, that is presuming, before the research is done, that I know the outcome of the research and that I can calculate what the political consequences of the research outcome will be.  
 **Translation:** 
 
-**[8605.22s] English:** That's assuming the thing before you even know what the thing actually is.  
+**[8605.22s] English:** That's assuming the thing, before you even know what the thing actually is.  
 **Translation:** 
 
 **[8608.12s] English:** Right.  
 **Translation:** 
 
-**[8608.34s] English:** is. It's a kind of omniscience. It presumes that you as the master of the universe can tell people  
+**[8608.34s] English:** Is it a kind of omniscience? It presumes that you, as the master of the universe, can tell people.  
 **Translation:** Vocabulary: omniscience: 全知全能
 
-**[8616.54s] English:** what it is that people are being treated like children, what it is that they're capable of  
+**[8616.54s] English:** What is it that people are being treated like children, and what is it that they're capable of?  
 **Translation:** 
 
-**[8621.14s] English:** knowing and what it is that they're not capable of knowing. It would be like someone saying to  
+**[8621.14s] English:** Knowing and what it is that they're not capable of knowing. It would be like someone saying to,  
 **Translation:** 
 
-**[8626.02s] English:** Einstein, I don't know about that special relativity theory, you know, it could well lead  
+**[8626.02s] English:** Einstein, I don't know about that special relativity theory, you know; it could well lead...  
 **Translation:** 
 
-**[8630.88s] English:** to the development of technologies that would allow nuclear weapons. Or someone saying to  
+**[8630.88s] English:** To the development of technologies that would allow nuclear weapons. Or someone saying,  
 **Translation:** Vocabulary: einstein: 爱因斯坦; relativity: 相对论
 
-**[8635.10s] English:** Oppenheimer, who was a physicist overseeing the Manhattan Project, where the U.S. developed a  
+**[8635.10s] English:** Oppenheimer, who was a physicist overseeing the Manhattan Project, where the U.S. developed an  
 **Translation:** 
 
-**[8640.00s] English:** nuclear weapons capacity, don't carry out that project because the results of acquiring that  
-**Translation:** Vocabulary: oppenheimer: 奥本海默; overseeing: 监督; physicist: 物理学家
+**[8640.00s] English:** Nuclear weapons capacity: Don't carry out that project because the results of acquiring that  
+**Translation:** Vocabulary: manhattan: 曼哈顿计划; oppenheimer: 奥本海默; overseeing: 监督; physicist: 物理学家
 
-**[8647.84s] English:** knowledge may be more than we can deal with. Or someone saying to someone doing biomedical  
+**[8647.84s] English:** Knowledge may be more than we can deal with. Or someone might say to someone working in biomedical research.  
 **Translation:** 
 
-**[8652.54s] English:** research who's interested in exploring the nature of the human genome, don't carry out that  
-**Translation:** Vocabulary: biomedical: 生物医学; genome: 基因组
+**[8652.54s] English:** Research who's interested in exploring the nature of the human genome, don't carry out that.  
+**Translation:** Vocabulary: biomedical: 生物医学的; genome: 基因组
 
-**[8660.24s] English:** experiment, that cloning undertaking, whatever, because the consequences could be deleterious.  
+**[8660.24s] English:** Experiment, that cloning undertaking, whatever, because the consequences could be deleterious.  
 **Translation:** 
 
-**[8665.68s] English:** Well, the consequences could be deleterious. The consequences could also be the cure of cancer.  
+**[8665.68s] English:** Well, the consequences could be deleterious. The consequences could also be the cure for cancer.  
 **Translation:** Vocabulary: deleterious: 有害的; undertaking: 尝试
 
-**[8670.22s] English:** The consequences could also be being able to generate electric power without producing carbon  
+**[8670.22s] English:** The consequences could also be being able to generate electricity without producing carbon.  
 **Translation:** 
 
-**[8675.06s] English:** effluent. So who are you to tell me, you being the person in the political position to control  
+**[8675.06s] English:** Effluent. So, who are you to tell me? You being the person in the political position to control...  
 **Translation:** Vocabulary: effluent: 废水
 
-**[8682.62s] English:** the research, what the consequence of doing the research is? I think I don't want to cede  
+**[8682.62s] English:** The research: what is the consequence of doing the research? I think I don't want to cede.  
 **Translation:** 
 
-**[8688.90s] English:** that kind of power to politicians over the course of human inquiry. So yes, I would want there to be  
+**[8688.90s] English:** That kind of power to politicians over the course of human inquiry. So, yes, I would want there to be.  
 **Translation:** 
 
-**[8698.48s] English:** regulations, government, and the like. But I don't want to cede that kind of power to politicians  
+**[8698.48s] English:** Regulations, government, and the like. But I don't want to cede that kind of power to politicians.  
 **Translation:** 
 
-**[8699.98s] English:** over the course of human inquiry. So yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians  
+**[8699.98s] English:** Over the course of human inquiry, so yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians.  
 **Translation:** 
 
-**[8700.58s] English:** over the course of human inquiry. So yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians  
+**[8700.58s] English:** Over the course of human inquiry, so yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians.  
 **Translation:** 
 
-**[8700.60s] English:** over the course of human inquiry. So yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians  
+**[8700.60s] English:** Over the course of human inquiry, so yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians.  
 **Translation:** 
 
-**[8701.10s] English:** over the course of human inquiry. So yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians  
+**[8701.10s] English:** Over the course of human inquiry, so yes, I would want there to be regulations, government, and the like. But I don't want to cede that kind of power to politicians.  
 **Translation:** 
 
-**[8701.60s] English:** biologically sensitive and potentially dangerous pathogens in a lab in Wuhan or anyplace else.  
-**Translation:** Vocabulary: anyplace: 任何地方; biologically: 生物地; pathogens: 病原体; wuhan: 武汉
+**[8701.60s] English:** Biologically sensitive and potentially dangerous pathogens in a lab in Wuhan, or anywhere else.  
+**Translation:** Vocabulary: biologically: 生物地; pathogens: 病原体; wuhan: 武汉
 
 **[8709.72s] English:** I would not want to simply leave that to laissez-faire. On the other hand, I think that  
 **Translation:** 
 
-**[8715.50s] English:** the tendency to try to shut down inquiry on behalf of supposed adverse political consequences  
+**[8715.50s] English:** The tendency to try to shut down inquiry on behalf of supposed adverse political consequences.  
+**Translation:** Vocabulary: adverse: 不利的
+
+**[8723.52s] English:** Is the road to ignorance and impoverishment at the end of the day for humankind, denying ourselves?  
 **Translation:** 
 
-**[8723.52s] English:** is the road to ignorance and impoverishment at the end of the day for humankind, denying ourselves  
-**Translation:** 
-
-**[8730.38s] English:** the potential benefits of that kind of inquiry. I think we need to take our chances with inquiry  
+**[8730.38s] English:** The potential benefits of that kind of inquiry. I think we need to take our chances with inquiry.  
 **Translation:** Vocabulary: humankind: 人类; ignorance: 无知; impoverishment: 贫困
 
-**[8735.36s] English:** rather than to try to control it. And I feel that way about the exploration of human intelligence  
+**[8735.36s] English:** Rather than try to control it, and I feel that way about the exploration of human intelligence.  
 **Translation:** 
 
-**[8740.36s] English:** as much as anything else. So you've asked me to steel man the case against  
+**[8740.36s] English:** As much as anything else, so you've asked me to steel-man the case against  
 **Translation:** 
 
-**[8745.32s] English:** research on IQ of the sort that Charles Murray is famous for popularizing. And I've said,  
+**[8745.32s] English:** Research on IQ of the sort that Charles Murray is famous for popularizing. And I've said,  
 **Translation:** 
 
-**[8752.36s] English:** A, your measure of intelligence is single-dimensional and it ought to be  
-**Translation:** Vocabulary: popularizing: 普及
+**[8752.36s] English:** A, your measure of intelligence is single-dimensional, and it ought to be  
+**Translation:** Vocabulary: murray: 默里; popularizing: 推广
 
-**[8756.76s] English:** multidimensional. I've said, B, the  
+**[8756.76s] English:** Multidimensional. I've said, B, the  
 **Translation:** 
 
-**[8760.00s] English:** The consequences of people's differing in intelligence depends not only on the natural endowments of the people, but also on the environment and the potential for intervening in that environment through one or another kind of instrument, as the metaphorical example of the use of corrective lenses to level the playing field between people with different visual acuity indicates.  
-**Translation:** Vocabulary: acuity: 敏锐; endowments: 天赋; intervening: 干预; metaphorical: 比喻; multidimensional: 多维度
-
-**[8784.50s] English:** But finally, I've said, yes, research on racial differences in IQ can foster political beliefs that we would regard to be noxious.  
+**[8760.00s] English:** The consequences of people's differing in intelligence depend not only on the natural endowments of the people, but also on the environment and the potential for intervening in that environment through one or another kind of instrument, as the metaphorical example of the use of corrective lenses to level the playing field between people with different visual acuity indicates.  
 **Translation:** 
 
-**[8797.86s] English:** On the other hand, to presume that what we don't know yet and might find out from the research is going to be harmful is to assume a kind of presumption or of knowing what the outcome of unknown processes might be,  
+**[8784.50s] English:** But finally, I've said that yes, research on racial differences in IQ can foster political beliefs that we would regard as noxious.  
+**Translation:** 
+
+**[8797.86s] English:** On the other hand, to presume that what we don't know yet and might find out from the research is going to be harmful is to assume a kind of knowledge or presumption about the outcome of unknown processes.  
 **Translation:** Vocabulary: foster: 培养; noxious: 有害的
 
-**[8812.42s] English:** which we ought to be very slow.  
+**[8812.42s] English:** Which we ought to be very slow.  
 **Translation:** 
 
-**[8814.50s] English:** To embrace, because if we had done so in the past, we wouldn't have nuclear power.  
+**[8814.50s] English:** To embrace it, because if we had done so in the past, we wouldn't have nuclear power.  
+**Translation:** Vocabulary: embrace: 接纳
+
+**[8819.94s] English:** There are a lot of things that we wouldn't know.  
 **Translation:** 
 
-**[8819.94s] English:** There's a lot of things that we wouldn't know.  
+**[8821.16s] English:** I mean, what were people saying about Darwin and the exploration of evolution and the origin of species?  
 **Translation:** 
 
-**[8821.16s] English:** I mean, what were people saying about Darwin and exploration of the evolution and origin of the species?  
-**Translation:** 
-
-**[8827.90s] English:** They were afraid that it was going to, in effect, disprove the religious based accounts of, you know, what were they saying about Copernicus and et cetera, et cetera.  
+**[8827.90s] English:** They were afraid that it would, in effect, disprove the religious-based accounts of, you know, what they were saying about Copernicus, and so on.  
 **Translation:** 
 
 **[8837.74s] English:** So, you know, that was a masterful layering of quotes.  
-**Translation:** Vocabulary: cetera: 等等; copernicus: 哥白尼; disprove: 反驳; layering: 叠加; masterful: 精湛
+**Translation:** Vocabulary: copernicus: 哥白尼; disprove: 反驳; layering: 层叠; masterful: 精湛; quotes: 引语
 
-**[8844.50s] English:** Well, wrestling with the cognitive inequality, you dragged in nuclear research, Copernicus, Darwin, biomedical research with genetics, even COVID and the lab leak.  
+**[8844.50s] English:** Well, wrestling with the cognitive inequality, you dragged in nuclear research, Copernicus, Darwin, biomedical research with genetics, even COVID-19 and the lab-leak theory.  
 **Translation:** 
 
 **[8857.18s] English:** I mean, that was just fun to listen to.  
@@ -4468,470 +4469,470 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[8861.16s] English:** Let me ask you about your politics.  
 **Translation:** 
 
-**[8864.50s] English:** So you've recently said that you're a conservative leaning.  
+**[8864.50s] English:** So, you've recently said that you're a conservative-leaning individual.  
 **Translation:** 
 
-**[8868.48s] English:** I mean, maybe that's a day to day thing.  
+**[8868.48s] English:** I mean, maybe that's a day-to-day thing.  
 **Translation:** 
 
 **[8870.86s] English:** Maybe you can push back.  
 **Translation:** 
 
-**[8872.34s] English:** But so you have somebody like your friend.  
+**[8872.34s] English:** But, so you have someone like your friend.  
 **Translation:** 
 
 **[8874.50s] English:** John McWhorter, who we could say is on your left.  
 **Translation:** 
 
-**[8880.00s] English:** yeah to the left of you and then you have somebody like um uh thomas sold who maybe is on  
+**[8880.00s] English:** Yeah, to the left of you, and then you have someone like, um, Thomas Sold, who maybe is on.  
 **Translation:** 
 
-**[8887.64s] English:** to the right of you yeah probably uh and yet there's a a lot of overlap between the three of  
+**[8887.64s] English:** To the right of you, yeah, probably, and yet there's a lot of overlap between the three of them.  
+**Translation:** Vocabulary: overlap: 重叠
+
+**[8893.34s] English:** You're right. So, to what degree does politics affect your view on race in America, and maybe to what extent does it influence it?  
 **Translation:** 
 
-**[8893.34s] English:** you right so to what degree does politics affect your view on race in america and maybe to what  
+**[8901.98s] English:** Degree does your view on race affect your politics? Okay, and that for people who don't know,  
 **Translation:** 
 
-**[8901.98s] English:** degree does your uh view on race affect your politics okay and that for people who don't know  
+**[8911.34s] English:** Has shifted over time; you've been on quite a roller coaster, as anybody who thinks about the  
 **Translation:** 
 
-**[8911.34s] English:** has shifted over time you've been on quite a roller coaster as anybody who thinks about the  
+**[8917.84s] English:** The world should be well; let's begin with the fact that I was trained as an economist.  
+**Translation:** Vocabulary: economist: 经济学家; roller: 过山车; shifted: 变化
+
+**[8925.58s] English:** In a tradition of what many people would call  
 **Translation:** 
 
-**[8917.84s] English:** world should be well let's begin with the fact that i was trained as an economist  
-**Translation:** 
-
-**[8925.58s] English:** in a tradition of what many people would call  
-**Translation:** 
-
-**[8930.28s] English:** neoliberalism  
+**[8930.28s] English:** Neoliberalism  
 **Translation:** Vocabulary: neoliberalism: 新自由主义
 
-**[8931.98s] English:** neoliberalism i was trained at mit which was not a right-wing place by any means  
+**[8931.98s] English:** Neoliberalism; I was trained at MIT, which was not a right-wing place by any means.  
 **Translation:** 
 
-**[8938.62s] English:** but it was a place where you learned about markets and about the benefits of  
+**[8938.62s] English:** But it was a place where you learned about markets and about the benefits of.  
 **Translation:** 
 
-**[8947.20s] English:** capitalism as a way of organizing society the virtues of free enterprise the fact that the  
+**[8947.20s] English:** Capitalism, as a way of organizing society, the virtues of free enterprise, and the fact that the  
 **Translation:** 
 
-**[8957.02s] English:** pursuit of profit was not necessarily a bad thing but it well might be  
-**Translation:** Vocabulary: capitalism: 资本主义
+**[8957.02s] English:** The pursuit of profit was not necessarily a bad thing, but it well might be.  
+**Translation:** Vocabulary: capitalism: 资本主义; pursuit: 追求; virtues: 美德
 
-**[8960.78s] English:** the road to  
+**[8960.78s] English:** The road to  
 **Translation:** 
 
-**[8961.96s] English:** prosperity and to economic growth the idea that private property  
+**[8961.96s] English:** Prosperity and economic growth: the idea that private property  
 **Translation:** 
 
-**[8965.96s] English:** and individuals seeking to acquire and succeeding in acquiring wealth  
+**[8965.96s] English:** And individuals seeking to acquire, and succeeding in acquiring, wealth.  
 **Translation:** 
 
-**[8971.56s] English:** did create inequality but it also created opportunity and it also expanded our knowledge  
-**Translation:** 
-
-**[8976.92s] English:** and our control over uh the physical environment which we embedded in it etc um so we were not  
-**Translation:** 
-
-**[8984.92s] English:** marxists uh at mit although we did read marks i mean those of us who were intellectually curious  
-**Translation:** Vocabulary: embedded: 植入; intellectually: 智力地; marxists: 马克思主义者
-
-**[8989.96s] English:** you read marks marx was an important  
-**Translation:** 
-
-**[8991.96s] English:** figure in the history of the west and i think mark should be read in  
-**Translation:** 
-
-**[8995.96s] English:** capital three volumes etc uh alienation of labor  
-**Translation:** 
-
-**[9000.00s] English:** and whatnot, the implications of modernization, of the advent of industrial capitalism, etc.,  
-**Translation:** Vocabulary: alienation: 脱离; modernization: 现代化; whatnot: 等等
-
-**[9008.66s] English:** that kind of dynamic deserves to be studied and to come at it in a critical way,  
-**Translation:** 
-
-**[9015.48s] English:** informed by the intellectual inheritance of Marx and Marxism. I think that's a part of a  
-**Translation:** 
-
-**[9022.72s] English:** full education in social philosophy and economic analysis that an open-minded person ought to  
-**Translation:** 
-
-**[9030.60s] English:** acquaint themselves with. But at the end of the day, I think that the free marketeers have the  
-**Translation:** 
-
-**[9039.80s] English:** better of it. I think the story of the 20th century as far as economic development is concerned  
-**Translation:** 
-
-**[9045.08s] English:** reflects that. I think that the experiments where centralized control over  
-**Translation:** 
-
-**[9052.72s] English:** economic decisions was the order of the day failed uh i think that the fact of the 21st  
-**Translation:** 
-
-**[9060.24s] English:** century rise of china as a force has a lot to do with the spread of in effect capitalist oriented  
-**Translation:** Vocabulary: capitalist: 资本主义; oriented: 导向的
-
-**[9068.24s] English:** modes of entering economic uh exchange freeing up prices markets property uh and so forth although  
-**Translation:** 
-
-**[9075.84s] English:** obviously it's a complicated political economic system i'm talking about china  
-**Translation:** 
-
-**[9081.28s] English:** but i think that the story of the 20th century and the hope for the 21st century  
-**Translation:** 
-
-**[9088.16s] English:** is that prosperity is enhanced through the free exchange of goods and the pursuit and acquisition  
-**Translation:** 
-
-**[9098.24s] English:** of property uh by people in a more or less capitalist oriented  
-**Translation:** 
-
-**[9105.92s] English:** a system that that's you know that's the view that i hold  
-**Translation:** 
-
-**[9109.68s] English:** i guess that makes me a conservative i don't know i want to say  
-**Translation:** 
-
-**[9113.68s] English:** that's not to the exclusion of a social safety net i'm not saying that old people  
-**Translation:** Vocabulary: exclusion: 排除
-
-**[9120.00s] English:** in an ideal social system would be left to their own devices, regardless of whether or not they  
-**Translation:** 
-
-**[9125.48s] English:** had saved for their retirement. I'm not saying that the ideal of extending decent access to  
-**Translation:** 
-
-**[9133.98s] English:** healthcare to all people, regardless of whether or not they can afford it, decent access to education  
-**Translation:** 
-
-**[9139.54s] English:** to people, regardless of whether or not they can afford it, is standing in the way of prosperity.  
-**Translation:** Vocabulary: healthcare: 全民医疗
-
-**[9145.56s] English:** I don't believe that. I think the mixed economies that we see in Northern Europe and in North  
-**Translation:** 
-
-**[9150.28s] English:** America are a balancing of the virtues of free enterprise property and the pursuit of wealth,  
-**Translation:** Vocabulary: balancing: 权衡
-
-**[9159.10s] English:** on the one hand, against the needs to have a decent society in which people who fall between  
-**Translation:** 
-
-**[9165.96s] English:** the cracks, nevertheless, are bolstered through a sense of social solidarity that is accommodated  
-**Translation:** Vocabulary: accommodated: 包容; bolstered: 支持
-
-**[9172.96s] English:** by our common membership within a single  
-**Translation:** 
-
-**[9175.34s] English:** nation-state, which is why I think nationalism is important, and it's why I think borders are  
-**Translation:** 
-
-**[9180.96s] English:** important, because without a coherent polity who can see themselves as in a common situation and  
-**Translation:** 
-
-**[9192.40s] English:** agree through their politics to support each other to some extent, you can't sustain a safety net.  
-**Translation:** 
-
-**[9198.86s] English:** You cannot have a social safety net for a global population. You can only have a social safety net  
-**Translation:** 
-
-**[9204.56s] English:** for a global population. You can only have a social safety net for a global population.  
-**Translation:** 
-
-**[9205.32s] English:** You cannot have a social safety net for a global population. You can only have a social pocket,  
-**Translation:** 
-
-**[9205.72s] English:** who have a sense of common membership in an ongoing political enterprise, which they pay  
-**Translation:** 
-
-**[9213.70s] English:** their dues through their taxes in order to sustain it. There's a balancing that has to go on.  
-**Translation:** 
-
-**[9218.98s] English:** So that's the first thing that I would say about my politics. I'm a neoliberal economist. I believe  
-**Translation:** Vocabulary: economist: 经济学家; neoliberal: 新自由主义者
-
-**[9224.38s] English:** in markets. I believe in prices. I believe in profit. Corporations are not an incarnation of  
-**Translation:** 
-
-**[9229.96s] English:** evil. Corporations are a legal nexus through which  
-**Translation:** Vocabulary: nexus: 纽带 关联
-
-**[9235.32s] English:** Production gets organized in which you solicit the cooperation of workers.  
-**Translation:** 
-
-**[9240.00s] English:** of people who provide capital, of people who provide raw materials and input, of customers,  
-**Translation:** Vocabulary: solicit: 征求
-
-**[9245.88s] English:** and so on. And that functionality allows for the production of goods and their distribution  
-**Translation:** 
-
-**[9253.84s] English:** and their earning of income and its distribution, which at the end of the day is the foundation of  
-**Translation:** Vocabulary: functionality: 功能
-
-**[9261.38s] English:** our prosperity. Corporations are people too. Mitt Romney got in trouble for saying that in 2012.  
-**Translation:** 
-
-**[9265.90s] English:** But corporations are nothing but a legal fiction. The corporation is not a person as such. But the  
-**Translation:** 
-
-**[9272.72s] English:** nexus of contracts and relationships amongst the stakeholders who intersect in the context of the  
-**Translation:** 
-
-**[9280.22s] English:** corporation is the way in which we organize the massively complex set of activities that are  
-**Translation:** Vocabulary: intersect: 交汇; massively: 大规模地
-
-**[9286.52s] English:** necessary in order to produce economic benefits, in order to feed people, in order to have everybody  
-**Translation:** 
-
-**[9293.52s] English:** with a cell phone in their pocket, in order to be able to  
-**Translation:** 
-
-**[9295.88s] English:** travel from one side of a continent to another on a device that is with almost absolute certainty  
-**Translation:** 
-
-**[9301.54s] English:** going to safely take off and land, and in order to be able to build cities, and et cetera.  
-**Translation:** 
-
-**[9307.20s] English:** But do the markets, the ideal of the market collide with the ideal of all men are created  
-**Translation:** 
-
-**[9313.52s] English:** equal? The identity, the struggle that we've been talking about of what it means to sort of empower  
-**Translation:** Vocabulary: collide: 冲突; empower: 赋权
-
-**[9320.46s] English:** humans that make up this great country, do they collide and where do they collide?  
-**Translation:** 
-
-**[9325.88s] English:** Well, markets are going to produce inequality. And all men being equal is a statement about the  
+**[8971.56s] English:** Did it create inequality, but it also created opportunity and it also expanded our knowledge?  
 **Translation:** Vocabulary: inequality: 不平等
 
-**[9332.58s] English:** intrinsic worth of people, not about the situation that will come about when people interact with each  
+**[8976.92s] English:** And our control over the physical environment, which we embedded in it, etc., so we were not.  
 **Translation:** 
 
-**[9338.06s] English:** other through markets, because people are actually different. And because there are factors that are  
+**[8984.92s] English:** Marxists, uh, at MIT, although we did read Marx; I mean, those of us who were intellectually curious.  
+**Translation:** Vocabulary: embedded: 植入; intellectually: 智力地; marxists: 马克思主义者
+
+**[8989.96s] English:** You read: Marks Marx was an important.  
 **Translation:** 
 
-**[9343.30s] English:** beyond anybody's control called luck and chance that, you know, you and I both invest. It looked  
+**[8991.96s] English:** Figure in the history of the West, and I think Mark should be read.  
 **Translation:** 
 
-**[9349.54s] English:** a priori like your investment and my investment were equally likely to succeed. But as a matter  
+**[8995.96s] English:** Capital: Three Volumes, etc., on the Alienation of Labor.  
 **Translation:** 
 
-**[9354.16s] English:** of fact, ex post facto, your investment and my investment were equally likely to succeed.  
+**[9000.00s] English:** And, for example, the implications of modernization, the advent of industrial capitalism, etc.  
+**Translation:** Vocabulary: advent: 出现; alienation: 疏远; implications: 含义; modernization: 现代化
+
+**[9008.66s] English:** That kind of dynamic deserves to be studied and should be approached in a critical way.  
 **Translation:** 
 
-**[9355.88s] English:** My investment succeeds, my investment doesn't succeed. I don't have wealth and you have  
+**[9015.48s] English:** Informed by the intellectual inheritance of Marx and Marxism, I think that's a part of a  
+**Translation:** Vocabulary: approached: 被研究; inheritance: 思想传承; marxism: 马克思主义
+
+**[9022.72s] English:** Full education in social philosophy and economic analysis is what an open-minded person ought to have.  
 **Translation:** 
 
-**[9360.00s] English:** have wealth, that is an inevitable consequence of an environment in which both of us are free  
+**[9030.60s] English:** Acquaint themselves with. But at the end of the day, I think that the free marketeers have the  
+**Translation:** Vocabulary: acquaint: 使了解
+
+**[9039.80s] English:** Better of it. I think the story of the 20th century, as far as economic development is concerned,...  
 **Translation:** 
 
-**[9365.22s] English:** to make our investment choices and where the consequences of investment depend in part upon  
+**[9045.08s] English:** Reflects that. I think that the experiments where centralized control over  
+**Translation:** Vocabulary: experiments: 尝试
+
+**[9052.72s] English:** Economic decisions were the order of the day, but I think that the fact of the 21st century was also on everyone's mind.  
 **Translation:** 
 
-**[9370.84s] English:** random circumstances of which no one has control. But you asked me about my politics,  
+**[9060.24s] English:** The century's rise of China as a force has a lot to do with the spread, in effect, of capitalist-oriented ideas.  
 **Translation:** 
 
-**[9376.26s] English:** and I was just trying to lay down a foundation by saying I begin as an economist in the tradition  
-**Translation:** Vocabulary: economist: 经济学家
-
-**[9383.22s] English:** of liberalism, Adam Smith and so forth, John Maynard Keynes for that matter, and so forth.  
+**[9068.24s] English:** Modes of entering economic exchange, freeing up prices, markets, property, and so forth, although...  
 **Translation:** 
 
-**[9390.00s] English:** That Milton Friedman and so forth, that Paul Samuelson, Bob Solow, James Tobin, and so forth.  
+**[9075.84s] English:** Obviously, it's a complicated political and economic system, I'm talking about China.  
 **Translation:** 
 
-**[9401.88s] English:** Thomas Sowell, yes, that appreciates property, the virtues of free enterprise,  
+**[9081.28s] English:** But I think that the story of the 20th century and the hope for the 21st century.  
 **Translation:** 
 
-**[9409.92s] English:** the set of institutions that allow for security of contract, a rule of law, things of this kind.  
+**[9088.16s] English:** Is that prosperity is enhanced through the free exchange of goods and the pursuit and acquisition?  
+**Translation:** Vocabulary: acquisition: 购买; enhanced: 提高; pursuit: 追求
+
+**[9098.24s] English:** Of property, by people in a more or less capitalist-oriented manner.  
 **Translation:** 
 
-**[9419.08s] English:** So that's one thing.  
+**[9105.92s] English:** A system that, you know, is the view that I hold.  
 **Translation:** 
 
-**[9420.16s] English:** Another thing to say about my politics, and you're right, I've moved around,  
+**[9109.68s] English:** I guess that makes me a conservative. I don't know; I want to say.  
 **Translation:** 
 
-**[9426.08s] English:** is that I began south side of Chicago, black kid, I was a liberal Democrat.  
+**[9113.68s] English:** That's not to the exclusion of a social safety net; I'm not saying that old people  
 **Translation:** 
 
-**[9433.08s] English:** I encountered the economics curriculum at the MIT, and I became trained in economics in the  
+**[9120.00s] English:** In an ideal social system, people would be left to their own devices, regardless of whether or not they  
+**Translation:** 
+
+**[9125.48s] English:** Had they saved for their retirement, I'm not saying that the ideal of extending decent access to  
+**Translation:** 
+
+**[9133.98s] English:** Healthcare to all people, regardless of whether or not they can afford it, and decent access to education.  
+**Translation:** 
+
+**[9139.54s] English:** To people, regardless of whether or not they can afford it, access to education is standing in the way of prosperity.  
+**Translation:** Vocabulary: healthcare: 全民医疗
+
+**[9145.56s] English:** I don't believe that. I think the mixed economies that we see in Northern Europe and in North America are more effective.  
+**Translation:** 
+
+**[9150.28s] English:** America is a balance of the virtues of free enterprise, property, and the pursuit of wealth.  
+**Translation:** Vocabulary: virtues: 优点
+
+**[9159.10s] English:** On the one hand, there is the need for a decent society in which people who fall between  
+**Translation:** 
+
+**[9165.96s] English:** The cracks, nevertheless, are bolstered through a sense of social solidarity that is accommodated.  
+**Translation:** Vocabulary: accommodated: 被包容; bolstered: 得到支持; cracks: 缝隙
+
+**[9172.96s] English:** By our common membership within a single  
+**Translation:** 
+
+**[9175.34s] English:** A nation-state, which is why I think nationalism is important, and it's why I think borders are  
+**Translation:** 
+
+**[9180.96s] English:** Important, because without a coherent polity who can see themselves as part of a common situation and  
+**Translation:** 
+
+**[9192.40s] English:** Agreeing through their politics to support each other to some extent, you can't sustain a safety net.  
+**Translation:** Vocabulary: coherent: 条理清晰; polity: 政治体; sustain: 维持
+
+**[9198.86s] English:** You cannot have a social safety net for a global population. You can only have a social safety net for a certain region or country.  
+**Translation:** 
+
+**[9204.56s] English:** For a global population, you can only have a social safety net.  
+**Translation:** 
+
+**[9205.32s] English:** You cannot have a social safety net for a global population. You can only have a social pocket.  
+**Translation:** 
+
+**[9205.72s] English:** Who have a sense of common membership in an ongoing political enterprise, which they pay  
+**Translation:** 
+
+**[9213.70s] English:** Their dues through their taxes are needed to sustain it. There's a balancing that has to go on.  
+**Translation:** 
+
+**[9218.98s] English:** So, that's the first thing that I would say about my politics. I'm a neoliberal economist. I believe,...  
+**Translation:** Vocabulary: balancing: 权衡; economist: 经济学家; neoliberal: 新自由主义者
+
+**[9224.38s] English:** In markets, I believe in prices. I believe in profit. Corporations are not an incarnation of.  
+**Translation:** 
+
+**[9229.96s] English:** Evil. Corporations are a legal nexus through which  
+**Translation:** Vocabulary: corporations: 企业; nexus: 纽带
+
+**[9235.32s] English:** Production gets organized, in which you solicit the cooperation of workers.  
+**Translation:** 
+
+**[9240.00s] English:** Of people who provide capital, of those who provide raw materials and inputs, of customers,  
+**Translation:** Vocabulary: inputs: 原材料; solicit: 征求
+
+**[9245.88s] English:** And so on, and that functionality allows for the production of goods and their distribution.  
+**Translation:** 
+
+**[9253.84s] English:** And their earning of income and its distribution, which at the end of the day is the foundation of...  
+**Translation:** Vocabulary: functionality: 功能
+
+**[9261.38s] English:** Our prosperity. Corporations are people, too. Mitt Romney got in trouble for saying that in 2012.  
+**Translation:** 
+
+**[9265.90s] English:** But corporations are nothing but a legal fiction. The corporation is not a person, as such. But the  
+**Translation:** Vocabulary: romney: Romney
+
+**[9272.72s] English:** Nexus of contracts and relationships among the stakeholders who intersect in the context of the  
+**Translation:** 
+
+**[9280.22s] English:** Corporation is the way in which we organize the massively complex set of activities that are  
+**Translation:** Vocabulary: massively: 大规模地
+
+**[9286.52s] English:** Necessary in order to produce economic benefits, in order to feed people, in order to have everybody.  
+**Translation:** 
+
+**[9293.52s] English:** With a cell phone in their pocket, in order to be able to  
+**Translation:** 
+
+**[9295.88s] English:** Travel from one side of a continent to another on a device that is, with almost absolute certainty,  
+**Translation:** 
+
+**[9301.54s] English:** Going to safely take off and land, and in order to build cities, and so on.  
+**Translation:** 
+
+**[9307.20s] English:** But do the markets, the ideal of the market, collide with the ideal that "all men are created equal"?  
+**Translation:** 
+
+**[9313.52s] English:** Equal? The identity, the struggle that we've been talking about of what it means to sort of empower.  
+**Translation:** Vocabulary: collide: 冲突; empower: 赋权
+
+**[9320.46s] English:** Humans that make up this great country, do they collide, and where do they collide?  
+**Translation:** 
+
+**[9325.88s] English:** Well, markets are going to produce inequality. And "all men are created equal" is a statement about the  
+**Translation:** Vocabulary: inequality: 不平等
+
+**[9332.58s] English:** Intrinsic worth of people is not about the situation that will come about when people interact with each other.  
+**Translation:** 
+
+**[9338.06s] English:** Other through markets, because people are actually different. And because there are factors that are  
+**Translation:** Vocabulary: intrinsic: 内在的
+
+**[9343.30s] English:** Beyond anyone's control, called luck and chance, you know, you and I both invest. It looked  
+**Translation:** 
+
+**[9349.54s] English:** A priori, it seemed that your investment and my investment were equally likely to succeed. But as a matter  
+**Translation:** Vocabulary: priori: 先验地
+
+**[9354.16s] English:** Of fact, ex post facto, your investment and my investment were equally likely to succeed.  
+**Translation:** 
+
+**[9355.88s] English:** My investment succeeds, but my investment doesn't succeed. I don't have wealth, and you have.  
+**Translation:** 
+
+**[9360.00s] English:** Have wealth is an inevitable consequence of an environment in which both of us are free.  
+**Translation:** 
+
+**[9365.22s] English:** To make our investment choices, and where the consequences of investment depend in part upon  
+**Translation:** 
+
+**[9370.84s] English:** Random circumstances of which no one has control. But you asked me about my politics.  
+**Translation:** 
+
+**[9376.26s] English:** And I was just trying to lay down a foundation by saying I begin as an economist in the tradition.  
+**Translation:** 
+
+**[9383.22s] English:** Of liberalism, Adam Smith, and so forth; John Maynard Keynes, for that matter, and so forth.  
+**Translation:** 
+
+**[9390.00s] English:** That Milton Friedman and so forth; that Paul Samuelson, Robert Solow, James Tobin, and so forth.  
+**Translation:** Vocabulary: friedman: 弗里德曼; keynes: 凯恩斯; liberalism: 自由主义; maynard: 梅纳德; milton: 米尔顿; samuelson: 萨缪尔森; tobin: 托宾
+
+**[9401.88s] English:** Thomas Sowell, yes, appreciates property, the virtues of free enterprise,  
+**Translation:** 
+
+**[9409.92s] English:** The set of institutions that allow for security of contracts, a rule of law, and things of this kind.  
+**Translation:** 
+
+**[9419.08s] English:** So, that's one thing.  
+**Translation:** 
+
+**[9420.16s] English:** Another thing to say about my politics, and you're right—I've moved around,  
+**Translation:** 
+
+**[9426.08s] English:** Is that I began on the South Side of Chicago; I was a black kid and a liberal Democrat.  
+**Translation:** 
+
+**[9433.08s] English:** I encountered the economics curriculum at MIT, and I became trained in economics there.  
 **Translation:** Vocabulary: democrat: 民主党人; encountered: 遇到
 
-**[9440.08s] English:** tradition that I've just described. And I encountered also the Reagan revolution. This  
+**[9440.08s] English:** Tradition that I've just described, and I also encountered the Reagan Revolution.  
 **Translation:** 
 
-**[9447.64s] English:** is the late 70s and early 80s.  
+**[9447.64s] English:** In the late 1970s and early 1980s.  
 **Translation:** Vocabulary: reagan: 里根革命
 
-**[9450.20s] English:** These are big debates about economic policy and so on. And I found a lot to admire  
+**[9450.20s] English:** These are big debates about economic policy, and so on. And I found a lot to admire.  
 **Translation:** 
 
-**[9457.98s] English:** in the supply siders, the people who were saying, you know, let's get the government out of the way,  
+**[9457.98s] English:** In the supply-siders, the people who were saying, you know, let's get the government out of the way,  
 **Translation:** 
 
-**[9465.18s] English:** the people who were worried about national debt, which is a lot more now than it was then,  
+**[9465.18s] English:** The people who were worried about national debt, which is a lot more now than it was then.  
 **Translation:** 
 
-**[9469.92s] English:** the people who were worried that the welfare state could be too big,  
+**[9469.92s] English:** The people who were worried that the welfare state could be too big,  
 **Translation:** 
 
-**[9473.06s] English:** that the incentives of transfer programs could be counterproductive, that you had a war on poverty,  
+**[9473.06s] English:** That the incentives of transfer programs could be counterproductive, that you had a War on Poverty,  
 **Translation:** 
 
-**[9478.32s] English:** and we did have a war on poverty.  
+**[9478.32s] English:** And we did have a War on Poverty.  
 **Translation:** Vocabulary: incentives: 激励措施
 
 **[9479.64s] English:** And part of that was because we had a lot of people who were worried about national debt.  
 **Translation:** 
 
-**[9480.00s] English:** Poverty won. And there's a lot of evidence that the war on poverty was lost by the people who were trying to, quote, unquote, eradicate poverty in our time.  
-**Translation:** Vocabulary: eradicate: 根除; unquote: 反引号
+**[9480.00s] English:** Poverty won. And there's a lot of evidence that the war on poverty was lost by the people who were trying, quote, unquote, to eradicate poverty in our time.  
+**Translation:** Vocabulary: eradicate: 根除; unquote: 引用结束
 
-**[9491.12s] English:** That incentives really do matter and that the state, which is driven by politics, is often unresponsive to the dictates of incentives, whereas markets eliminate people who are inefficient and who are not cognizant of the consequences of incentives because they can't cover their bottom line.  
+**[9491.12s] English:** That incentives really do matter, and that the state, which is driven by politics, is often unresponsive to the dictates of incentives. Whereas, markets eliminate people who are inefficient and who are not cognizant of the consequences of incentives because they can't cover their bottom line.  
 **Translation:** 
 
-**[9509.30s] English:** And they won't persist for very long if they can't cover their bottom line. They're forced to respond to the realities of differences in costs and benefits and so forth in a way that governments can cover because they have their hand in our pocket.  
-**Translation:** Vocabulary: cognizant: 意识到; dictates: 指令; inefficient: 低效; unresponsive: 不响应
+**[9509.30s] English:** And they won't persist for very long if they can't cover their bottom line. They're forced to respond to the realities of differences in costs and benefits, and so forth, in a way that governments can avoid because they have their hand in our pockets.  
+**Translation:** Vocabulary: cognizant: 意识到的; dictates: 指令; inefficient: 低效的; persist: 持续; realities: 现实; unresponsive: 不响应
 
-**[9521.50s] English:** They can cover their losses and they can make accounts balanced, notwithstanding their mistakes, because they can take my property by fiat, by the power of the state. The tax collector comes if I don't pay, he seizes my holdings and they can carry on in that way.  
+**[9521.50s] English:** They can cover their losses and make accounts balanced, notwithstanding their mistakes, because they can take my property by fiat—by the power of the state. The tax collector comes if I don't pay; he seizes my holdings, and they can carry on in that way.  
 **Translation:** 
 
 **[9538.68s] English:** They.  
-**Translation:** Vocabulary: collector: 税务征收人员; notwithstanding: 尽管
+**Translation:** Vocabulary: balanced: 收支相抵; collector: 税务员; notwithstanding: 尽管; seizes: 没收
 
-**[9539.30s] English:** Need the corrective influence of markets in order to be responsive to the realities of life. I mean, I may not like it that prices are telling me that something that I want to do is infeasible. I may not like it.  
+**[9539.30s] English:** We need the corrective influence of markets in order to be responsive to the realities of life. I mean, I may not like it that prices are telling me that something I want to do is infeasible. I may not like it.  
 **Translation:** 
 
-**[9553.90s] English:** But what the prices are telling me is that the costs of doing it exceed the benefits to be derived from doing it. And if I persist in doing it, notwithstanding that, I'm going to run losses and those losses will accumulate and the net effect of that over an entire.  
-**Translation:** Vocabulary: accumulate: 累积; infeasible: 不可行
+**[9553.90s] English:** But what the prices are telling me is that the costs of doing it exceed the benefits to be derived from doing it. And if I persist in doing it, notwithstanding that, I'm going to run losses, and those losses will accumulate, and the net effect of that over an entire...  
+**Translation:** Vocabulary: accumulate: 累积; exceed: 超过; infeasible: 不可行
 
-**[9569.30s] English:** Society is stagnation and ultimate attenuation of the economic benefits that might be available with people. Again, I think if you look at the developing world in the post colonial period, the second half of the 20th century, that's exactly what you see planning doesn't work centralized control of resource allocation doesn't work. Okay, so I became more conservative in that respect, but I also and this has to do with race.  
+**[9569.30s] English:** Society is stagnation and ultimate attenuation of the economic benefits that might be available with people. Again, I think if you look at the developing world in the post-colonial period, the second half of the 20th century, that's exactly what you see—planning doesn't work, centralized control of resource allocation doesn't work. Okay, so I became more conservative in that respect, but I also—and this has to do with race.  
 **Translation:** 
 
 **[9599.30s] English:** Lost.  
-**Translation:** Vocabulary: allocation: 资源配置; attenuation: 减弱; stagnation: 停滞
+**Translation:** Vocabulary: allocation: 分配; attenuation: 减弱; stagnation: 停滞
 
-**[9600.00s] English:** faith in the posture that what became of the civil rights movement. I mean, the civil rights  
+**[9600.00s] English:** Faith in the posture that what became of the Civil Rights Movement. I mean, the civil rights,...  
 **Translation:** 
 
-**[9609.44s] English:** movement, you quote King 1963, the civil rights movement starts out as we want equal membership  
+**[9609.44s] English:** Movement: You quote King in 1963, where he says the civil rights movement starts out as "we want equal membership.  
 **Translation:** 
 
-**[9616.66s] English:** in the polity, but it becomes a systematized cover, I'm going to argue, for deficiencies  
+**[9616.66s] English:** In the polity, but it becomes a systematized cover, I'm going to argue, for deficiencies.  
 **Translation:** 
 
-**[9631.68s] English:** that are discernible within Black American society, which only we could correct. That's a  
-**Translation:** Vocabulary: deficiencies: 不足; discernible: 可辨识的
+**[9631.68s] English:** That are discernible within Black American society, which only we could correct. That's a  
+**Translation:** Vocabulary: deficiencies: 不足; discernible: 可辨识的; polity: 政治体制
 
-**[9639.22s] English:** very controversial statement. I make it with trepidation. I don't take any pleasure in saying  
+**[9639.22s] English:** Very controversial statement. I make it with trepidation. I don't take any pleasure in saying.  
 **Translation:** 
 
-**[9646.18s] English:** it.  
-**Translation:** Vocabulary: trepidation: 恐惧感
+**[9646.18s] English:** It.  
+**Translation:** Vocabulary: trepidation: 恐惧
 
-**[9646.66s] English:** But here's what I'm talking about. So I'm talking about the family. So the family  
+**[9646.66s] English:** But here's what I'm talking about: so, I'm talking about the family. So, the family,...  
 **Translation:** 
 
-**[9653.90s] English:** is a matter internal to the community about how men and women relate to each other and engage in  
+**[9653.90s] English:** Is a matter internal to the community about how men and women relate to and engage with each other.  
 **Translation:** 
 
-**[9664.10s] English:** social reproduction, childbearing, the standing up of households, the context within which  
+**[9664.10s] English:** Social reproduction, childbearing, the establishment of households, in the context of which  
 **Translation:** 
 
-**[9670.86s] English:** children are developed, are maturing, and so forth and so on. So the African American family  
-**Translation:** Vocabulary: childbearing: 生育; maturing: 成熟
+**[9670.86s] English:** Children are developed, are maturing, and so forth. So the African American family,...  
+**Translation:** Vocabulary: childbearing: 生育; maturing: 成长
 
-**[9675.98s] English:** is a matter of internal to the community about how men and women relate to each other and engage  
+**[9675.98s] English:** It is a matter of internal to the community about how men and women relate to and engage with each other.  
 **Translation:** 
 
-**[9676.64s] English:** in social reproduction, childbearing, the standing up of households, the context within which  
+**[9676.64s] English:** In social reproduction, childbearing, the standing up of households, the context within which,...  
 **Translation:** 
 
-**[9677.12s] English:** they relate to each other and engage in social reproduction, childbearing, the context within which  
+**[9677.12s] English:** They relate to each other and engage in social reproduction, childbearing, and the context within which.  
 **Translation:** 
 
-**[9677.72s] English:** women are faced with childbearing, the context within which  
+**[9677.72s] English:** Women are faced with childbearing, the context within which  
 **Translation:** 
 
-**[9678.38s] English:** people are embraced and encouraged, people are fostered, others are raised to spend and  
+**[9678.38s] English:** People are embraced and encouraged; people are fostered, and others are raised to spend and  
 **Translation:** 
 
-**[9683.80s] English:** they're encouraged, people are registered as adults, and they are also, I think,  
+**[9683.80s] English:** They're encouraged, people are registered as adults, and they are also, I think,  
 **Translation:** Vocabulary: embraced: 被拥抱; fostered: 被培养
 
-**[9683.94s] English:** just more self- содержance on social interaction.  
+**[9683.94s] English:** Just more self-confidence in social interactions.  
 **Translation:** 
 
 **[9684.90s] English:** And specifically, one of the things everyone in the butchery community thinks is  
 **Translation:** Vocabulary: butchery: 屠宰
 
-**[9686.36s] English:** best about society is thinking about the books and their forms of household  
+**[9686.36s] English:** The best about society is thinking about the books and their forms of government.  
 **Translation:** 
 
-**[9701.86s] English:** business.  
+**[9701.86s] English:** Business.  
 **Translation:** 
 
-**[9702.18s] English:** Now, this is what really gren各 tribe thinks is true. We want to bring out the  
+**[9702.18s] English:** Now, this is what the Gren tribe really believes is true. We want to bring it out.  
 **Translation:** 
 
-**[9705.32s] English:** course Omni changing activity in配ering society into society as a whole. So in an  
+**[9705.32s] English:** Course, omni-changing activity in perceiving society into society as a whole. So, in an  
+**Translation:** Vocabulary: perceiving: 感知
+
+**[9705.94s] English:** Correctly evaporated social and sociological models, we want to inscribe.  
 **Translation:** 
 
-**[9705.94s] English:** correctly evaporated social and sociological model, we want to einsparce."  
+**[9706.42s] English:** Is Jamila P alright?  
+**Translation:** Vocabulary: inscribe: 镌刻; sociological: 社会学的
+
+**[9706.62s] English:** Speak of Black people. Of course, we're not the only people in society for whom violence is a  
 **Translation:** 
 
-**[9706.42s] English:** Jamila P thựcärtá?  
-**Translation:** 
-
-**[9706.62s] English:** speak of Black people. Of course, we're not the only people in society for whom violence is an  
-**Translation:** 
-
-**[9710.80s] English:** issue. It's an order of magnitude more prevalent in our communities. I'm talking about schooling  
+**[9710.80s] English:** Issue: It's an order of magnitude more prevalent in our communities. I'm talking about schooling.  
 **Translation:** Vocabulary: prevalent: 普遍存在的
 
-**[9717.96s] English:** and school failure.  
+**[9717.96s] English:** And school failure.  
 **Translation:** 
 
-**[9720.00s] English:** So we have affirmative action as a cover. It's a bandaid on differences in the development of intellectual performance, which is only partly a consequence of the natural intelligence of people and largely a consequence of how people spend their time, what they value, how they discipline themselves, what they do with their opportunities, how parents raise their children, what peer groups value and things of this kind.  
-**Translation:** Vocabulary: affirmative: 肯定行动; bandaid: 临时措施
+**[9720.00s] English:** So we have affirmative action as a cover. It's a band-aid on differences in the development of intellectual performance, which is only partly a consequence of the natural intelligence of people and largely a consequence of how people spend their time, what they value, how they discipline themselves, what they do with their opportunities, how parents raise their children, what peer groups value, and things of this kind.  
+**Translation:** Vocabulary: discipline: 约束
 
 **[9748.42s] English:** The Asian students who are scoring off the charts on these exams are doing it not because they're intrinsically more intelligent than other people, but because they work harder, because their parents are more insistent on focusing on their intellectual performance, because they're disciplined, because of the way that they devote their time and their resources to equipping their children to function in the 21st century.  
 **Translation:** 
 
 **[9772.46s] English:** This is what I believe. I think it's demonstrably the case.  
-**Translation:** Vocabulary: demonstrably: 无可辩驳地; disciplined: 自律的; equipping: 装备; insistent: 坚持的; intrinsically: 本质上
+**Translation:** Vocabulary: demonstrably: 显而易见地; devote: 投入; disciplined: 自律的; equipping: 装备; insistent: 坚持的; intrinsically: 本质上
 
-**[9776.20s] English:** And it is a factor in racial.  
+**[9776.20s] English:** And it is a factor in race.  
 **Translation:** 
 
-**[9778.42s] English:** The way that the civil rights movement has evolved under the wing of the Democratic Party into an organized apologia of for the failures of African-Americans to seize the opportunities that exist for us now in the 21st century, but did not exist in the first half of the 20th century.  
-**Translation:** Vocabulary: apologia: 辩护
+**[9778.42s] English:** The way that the civil rights movement has evolved under the wing of the Democratic Party into an organized apologia for the failures of African-Americans to seize the opportunities that exist for us now in the 21st century, but did not exist in the first half of the 20th century.  
+**Translation:** Vocabulary: apologia: 辩护; evolved: 演变
 
-**[9801.04s] English:** The way in which the civil rights movement has become an avoidance mechanism for us not taking.  
+**[9801.04s] English:** The way in which the civil rights movement has become an avoidance mechanism for us, not taking.  
 **Translation:** 
 
-**[9808.28s] English:** And we African-Americans responsible.  
+**[9808.28s] English:** And we African-Americans are responsible.  
 **Translation:** 
 
 **[9809.96s] English:** This is Glenn Lowry.  
 **Translation:** 
 
-**[9810.80s] English:** Not everybody's going to agree with it is part of what makes me a conservative.  
+**[9810.80s] English:** Not everybody's going to agree with it—is part of what makes me a conservative.  
 **Translation:** 
 
-**[9816.70s] English:** I am tired of the belly aching.  
+**[9816.70s] English:** I am tired of the stomach aching.  
 **Translation:** 
 
-**[9818.96s] English:** I'm tired of the excuse me, white supremacy.  
-**Translation:** Vocabulary: supremacy: 至高无上的地位
+**[9818.96s] English:** I'm tired of the "excuse me, white supremacy.  
+**Translation:** Vocabulary: aching: 疼痛; supremacy: 优越感
 
 **[9822.12s] English:** It is, in my mind, a joke.  
 **Translation:** 
 
 **[9825.30s] English:** I lament the fact that that kind of rhetoric is so seductively attractive to African-Americans and so widely adopted by others.  
-**Translation:** Vocabulary: lament: 哀叹; rhetoric: 修辞; seductively: 诱人地
+**Translation:** Vocabulary: rhetoric: 修辞; seductively: 有吸引力地
 
 **[9838.28s] English:** And.  
 **Translation:** 
@@ -4942,25 +4943,25 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[9840.00s] English:** As I am fond of saying, at the end of the day, nobody is coming to save us.  
 **Translation:** 
 
-**[9844.86s] English:** I mean, higher education, MIT, Caltech, Stanford, where the future is happening, that is about mastery over the achievements of human civilization, such as they manifest themselves in the 21st century.  
-**Translation:** Vocabulary: caltech: 加州理工学院; manifest: 显现; stanford: 斯坦福大学
+**[9844.86s] English:** I mean, higher education at institutions like MIT, Caltech, and Stanford, where the future is happening, is all about mastering the achievements of human civilization as they manifest themselves in the 21st century.  
+**Translation:** Vocabulary: caltech: 加州理工学院; manifest: 显现; mastering: 掌握; stanford: 斯坦福大学
 
 **[9862.16s] English:** There's no substitute for actually acquiring mastery over the material.  
 **Translation:** 
 
 **[9867.38s] English:** There's no substitute for that.  
-**Translation:** 
+**Translation:** Vocabulary: mastery: 精通; substitute: 替代物
 
-**[9870.00s] English:** To be patronized, to have the standards lowered, they want to get rid of the test.  
+**[9870.00s] English:** To be patronized, to have the standards lowered—they want to get rid of the test.  
 **Translation:** 
 
 **[9876.94s] English:** They want to tell African-Americans to pat us on the head.  
-**Translation:** Vocabulary: patronized: 被轻视
+**Translation:** Vocabulary: lowered: 降低; patronized: patronize
 
 **[9880.86s] English:** We're going to have a separate program for you.  
 **Translation:** 
 
-**[9882.86s] English:** We're going to give you a side door that you can come into.  
+**[9882.86s] English:** We're going to give you a side door that you can come in through.  
 **Translation:** 
 
 **[9885.56s] English:** That doesn't make us any smarter.  
@@ -4975,13 +4976,13 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[9898.10s] English:** Now, you want to be.  
 **Translation:** Vocabulary: unfolding: 展开
 
-**[9900.08s] English:** Ten percent of the population that's carried along for the next hundred years.  
+**[9900.08s] English:** Ten percent of the population will be carried along for the next hundred years.  
 **Translation:** 
 
 **[9903.82s] English:** You want to be a ward of the state in the late 21st century.  
 **Translation:** 
 
-**[9909.04s] English:** You go ahead because the Chinese are coming.  
+**[9909.04s] English:** You go ahead; because the Chinese are coming.  
 **Translation:** 
 
 **[9912.16s] English:** You're not going to hold them back.  
@@ -4993,23 +4994,23 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[9919.86s] English:** If you don't get on board with the dynamic advancement of the civilization in which we are embedded, you're going to end up being dependent on other people to look.  
 **Translation:** Vocabulary: advancement: 进步; embedded: 嵌入
 
-**[9930.20s] English:** So you have to think kindly upon you in this story that you've got this bellyache.  
+**[9930.20s] English:** So, you have to think kindly of me in this story—that you've got this bellyache.  
 **Translation:** 
 
-**[9938.02s] English:** This excuse my ancestors were slaves.  
+**[9938.02s] English:** This is an excuse: my ancestors were slaves.  
 **Translation:** Vocabulary: bellyache: 肚子疼
 
 **[9942.68s] English:** It's only going to work for so long.  
 **Translation:** 
 
-**[9947.22s] English:** So that makes me, I suppose, a kind of conservative, I hate affirmative action.  
+**[9947.22s] English:** So, that makes me, I suppose, a kind of conservative. I hate affirmative action.  
 **Translation:** Vocabulary: affirmative: 肯定的
 
-**[9952.84s] English:** I don't just disagree with it.  
+**[9952.84s] English:** I don't just disagree with it; I completely反对的话，这里不需要翻译。保持原意即可。 I don't just disagree with it. I completely oppose it.  
 **Translation:** 
 
-**[9954.20s] English:** I don't just think it's against the 14th Amendment.  
-**Translation:** 
+**[9954.20s] English:** I don't just think it's against the 14th Amendment; I believe it violates its principles.  
+**Translation:** Vocabulary: violates: 违反
 
 **[9957.02s] English:** I hate it.  
 **Translation:** 
@@ -5017,425 +5018,425 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[9958.02s] English:** The hatred.  
 **Translation:** 
 
-**[9958.94s] English:** that it is a band-aid.  
+**[9958.94s] English:** That is a band-aid.  
 **Translation:** 
 
-**[9960.00s] English:** that it is a substitute for the actual development of the capacities of our people to compete,  
-**Translation:** Vocabulary: capacities: 能力
+**[9960.00s] English:** That it is a substitute for the actual development of the capacities of our people to compete.  
+**Translation:** Vocabulary: capacities: 能力; substitute: 替代品
 
-**[9965.60s] English:** I'd much rather be in the position of having them try to keep me out because I'm so damn good,  
+**[9965.60s] English:** I'd much rather be in the position of having them try to keep me out because I'm so damn good.  
 **Translation:** 
 
-**[9972.30s] English:** like they're doing with the Asians, than having them have to beg the Supreme Court  
+**[9972.30s] English:** Like they're doing with the Asians, than having them have to beg the Supreme Court.  
+**Translation:** Vocabulary: asians: 亚裔人群
+
+**[9977.96s] English:** To allow for a special dispensation on my behalf, because they need diversity and inclusion, and  
 **Translation:** 
 
-**[9977.96s] English:** to allow for a special dispensation on my behalf because they need diversity and inclusion and  
-**Translation:** 
-
-**[9984.66s] English:** belonging. It's not just diversity. It's not just diversity and inclusion. It's diversity and  
+**[9984.66s] English:** Belonging. It's not just diversity. It's not just diversity and inclusion. It's diversity, and  
 **Translation:** Vocabulary: dispensation: 特许
 
-**[9989.30s] English:** inclusion and belonging. I'm whining because I feel like I don't belong. That's a position  
+**[9989.30s] English:** Inclusion and Belonging. I'm whining because I feel like I don't belong. That's a position.  
 **Translation:** 
 
-**[9996.44s] English:** of weakness. It's pathetic. And it's only political correctness that keeps people who  
+**[9996.44s] English:** Of weakness. It's pathetic. And it's only political correctness that keeps people who  
 **Translation:** Vocabulary: correctness: 正确性; pathetic: 可怜; whining: 抱怨
 
-**[10003.04s] English:** can see this, and believe me, a lot of people can see it, from saying so out loud.  
+**[10003.04s] English:** Can you see this, and believe me, a lot of people can see it, from saying so out loud.  
 **Translation:** 
 
-**[10009.38s] English:** So you want the Black American community to represent strength?  
+**[10009.38s] English:** So, you want the Black American community to represent strength?  
 **Translation:** 
 
-**[10014.04s] English:** Correct. And I want us to deal with what it is that we have to deal with in order to be able to  
+**[10014.04s] English:** Correct. And I want us to deal with what it is that we have to deal with in order to be able to.  
 **Translation:** 
 
-**[10019.00s] English:** project strength in an increasingly competitive world.  
+**[10019.00s] English:** Project strength in an increasingly competitive world.  
 **Translation:** 
 
-**[10024.64s] English:** Let me ask you, I know you said you're angry or dislike affirmative action. Let me ask you  
+**[10024.64s] English:** Let me ask you: I know you said you're angry or dislike affirmative action.  
 **Translation:** 
 
-**[10034.98s] English:** about something that even to my ear cut wrong. Now, I'm relatively apolitical.  
+**[10034.98s] English:** About something that, even to my ear, sounded wrong. Now, I'm relatively apolitical.  
+**Translation:** Vocabulary: apolitical: 不涉政治的
+
+**[10043.16s] English:** So, when President Biden was running for president, he gave a campaign承诺已结束，不再接受新的输入。如果您有其他任务需要帮助，请告诉我。  
 **Translation:** 
 
-**[10043.16s] English:** So President Biden, when he was running for president, gave a campaign,  
-**Translation:** 
-
-**[10049.00s] English:** promised that he will nominate a Black woman to the U.S. Supreme Court, saying,  
+**[10049.00s] English:** Promised that he would nominate a Black woman to the U.S. Supreme Court, saying,  
 **Translation:** Vocabulary: nominate: 提名
 
-**[10053.60s] English:** quote, the person I will nominate will be someone with extraordinary qualifications,  
+**[10053.60s] English:** The person I will nominate will be someone with extraordinary qualifications,  
 **Translation:** 
 
-**[10059.30s] English:** character, experience, and integrity. First sentence. Second sentence. And that person  
+**[10059.30s] English:** Character, experience, and integrity. First sentence. Second sentence. And that person.  
 **Translation:** Vocabulary: qualifications: 能力条件
 
-**[10065.22s] English:** will be the first Black woman ever nominated to the United States Supreme Court. Do you wish he  
+**[10065.22s] English:** Will be the first Black woman ever nominated to the United States Supreme Court. Do you wish he  
 **Translation:** 
 
-**[10071.42s] English:** only said the first sentence and not the second? Yes, I wish that he had only said the first  
+**[10071.42s] English:** Only said the first sentence and not the second? Yes, I wish that he had only said the first.  
 **Translation:** Vocabulary: nominated: 被提名
 
-**[10077.58s] English:** sentence.  
+**[10077.58s] English:** Sentence.  
 **Translation:** 
 
-**[10079.00s] English:** And if his intention was.  
+**[10079.00s] English:** And if his intention was:  
 **Translation:** 
 
-**[10080.00s] English:** to do what he said he was going to do in the second sentence. In other words, I wish that  
+**[10080.00s] English:** To do what he said he was going to do in the second sentence. In other words, I wish that.  
 **Translation:** 
 
-**[10084.38s] English:** he had simply said, if I have the opportunity to nominate someone to the Supreme Court,  
+**[10084.38s] English:** He had simply said, "If I have the opportunity to nominate someone to the Supreme Court,  
 **Translation:** 
 
-**[10088.78s] English:** it's going to be a superbly qualified person to carry out that position. And he might have kept  
+**[10088.78s] English:** It's going to be a superbly qualified person to carry out that position. And he might have kept.  
 **Translation:** 
 
-**[10093.80s] English:** to himself his intention to name an African-American woman to that position, and then going ahead and  
+**[10093.80s] English:** To himself, he intended to name an African-American woman to that position, and then went ahead and  
+**Translation:** Vocabulary: superbly: 极好地
+
+**[10099.68s] English:** Named an African-American woman to that position. And I'm sure that Katonji Brown Jackson, I don't  
 **Translation:** 
 
-**[10099.68s] English:** named an African-American woman to that position. And I'm sure that Katonji Brown Jackson, I don't  
+**[10105.70s] English:** Doubt that she's exceptionally qualified. She has a distinguished career. She served as a judge on  
+**Translation:** Vocabulary: distinguished: 卓著的; exceptionally: 特别地
+
+**[10109.94s] English:** The D.C. Circuit Court of Appeals. She is a graduate of Harvard Law School. She has  
 **Translation:** 
 
-**[10105.70s] English:** doubt that she's exceptionally qualified. She has a distinguished career. She served as a judge on  
-**Translation:** Vocabulary: exceptionally: 特别地
+**[10113.44s] English:** A background. You do not have to be a world-class constitutional legal scholar to get onto the  
+**Translation:** Vocabulary: appeals: 上诉
 
-**[10109.94s] English:** the D.C. Circuit Court of Appeals. She's a graduate at Harvard Law School. She has  
+**[10121.94s] English:** United States Supreme Court. A lot of members of the United States Supreme Court have had different experiences.  
 **Translation:** 
 
-**[10113.44s] English:** a background. You do not have to be a world-class constitutional legal scholar to get onto the  
-**Translation:** 
-
-**[10121.94s] English:** United States Supreme Court. A lot of members of the United States Supreme Court have had different  
-**Translation:** 
-
-**[10126.46s] English:** kinds of legal careers before they were elevated to that position. Earl Warren of the famed Warren  
+**[10126.46s] English:** Kinds of legal careers before they were elevated to that position. Earl Warren, of the famed Warren Court.  
 **Translation:** Vocabulary: elevated: 晋升
 
-**[10134.54s] English:** Court of the 1950s and 60s was a politician, as well as a  
+**[10134.54s] English:** The Court of the 1950s and 60s was a politician, as well as a  
 **Translation:** 
 
-**[10139.94s] English:** leading jurist and whatnot. I mean, many kinds of people in the U.S. Supreme Court. I have no doubt  
-**Translation:** Vocabulary: jurist: 法官; whatnot: 等等
+**[10139.94s] English:** Leading jurists and whatnot—I mean, many kinds of people serve on the U.S. Supreme Court. I have no doubt.  
+**Translation:** Vocabulary: jurists: 法官; whatnot: 等等
 
-**[10143.90s] English:** that Judge Katonji Brown Jackson is a qualified member to be on the Supreme Court. I wish that  
+**[10143.90s] English:** That Judge Ketanji Brown Jackson is a qualified member to be on the Supreme Court. I wish that.  
 **Translation:** 
 
-**[10151.04s] English:** Biden had not done what he did. He could have just appointed a Black woman by saying that he  
+**[10151.04s] English:** Biden had not done what he did. He could have just appointed a Black woman by saying that he would.  
+**Translation:** Vocabulary: ketanji: 卡特尼·布朗·江森
+
+**[10157.30s] English:** Was he limiting his considerations to Black women? And what are Black women as a percentage of all?  
 **Translation:** 
 
-**[10157.30s] English:** was limiting his considerations to Black women. And what are Black women as a percentage of all  
+**[10161.92s] English:** Potential appointees to the Supreme Court? Three percent? Four percent? I don't know.  
 **Translation:** 
 
-**[10161.92s] English:** potential appointees to the Supreme Court? Three percent? Four percent? I don't know.  
+**[10167.46s] English:** We could look up the number.  
 **Translation:** 
 
-**[10167.46s] English:** We could look the number up.  
-**Translation:** 
-
-**[10169.94s] English:** By saying that he puts an asterisk on the appointment, but it's worse than that,  
+**[10169.94s] English:** By saying that he puts an asterisk on the appointment, but it's worse than that.  
 **Translation:** Vocabulary: asterisk: 星号
 
-**[10175.18s] English:** because she will live down the asterisk if a person is inclined to do that. She will have  
+**[10175.18s] English:** Because she will live down the asterisk, if a person is inclined to do that. She will have  
 **Translation:** 
 
-**[10182.90s] English:** the opportunity to show through her performance exactly what kind of jurist she is, just as  
+**[10182.90s] English:** The opportunity to show, through her performance, exactly what kind of jurist she is, just as  
+**Translation:** Vocabulary: inclined: 倾向于; jurist: 法官
+
+**[10187.74s] English:** Justice Clarence Thomas has shown, through his performance, that he was qualified and more than  
 **Translation:** 
 
-**[10187.74s] English:** Justice Clarence Thomas has shown through his performance that he was qualified and more than  
-**Translation:** 
-
-**[10193.18s] English:** qualified to be on the United States Supreme Court. What I disliked was the pandering,  
+**[10193.18s] English:** Qualified to be on the United States Supreme Court. What I disliked was the pandering.  
 **Translation:** Vocabulary: pandering: 讨好奉承
 
-**[10199.94s] English:** too.  
+**[10199.94s] English:** Too.  
 **Translation:** 
 
-**[10200.00s] English:** he was seeking votes from Black people by pandering to us, and he's treating us like  
+**[10200.00s] English:** He was seeking votes from Black people by pandering to us, and he's treating us like  
 **Translation:** 
 
-**[10207.88s] English:** children. Why should I care what color the person is who's on the United States Supreme Court?  
+**[10207.88s] English:** Children, why should I care what color the person is who's on the United States Supreme Court?  
 **Translation:** 
 
-**[10214.28s] English:** What I should care about is what kind of opinions they're going to write when they're on the United  
+**[10214.28s] English:** What I should care about is what kind of opinions they're going to write when they're on the United States Supreme Court.  
 **Translation:** 
 
-**[10219.48s] English:** States. Do I suppose that being a Black woman means that you're going to write different kind  
+**[10219.48s] English:** States. Do I suppose that being a Black woman means that you're going to write a different kind?  
 **Translation:** 
 
-**[10223.42s] English:** of opinions than others? Well, perhaps. Perhaps. That kind of identity politics at the highest  
+**[10223.42s] English:** Of course, than others? Well, perhaps. Perhaps. That kind of identity politics at the highest  
 **Translation:** 
 
-**[10231.36s] English:** level of American legal establishment is something that rubs me very much the wrong way.  
+**[10231.36s] English:** The level of the American legal establishment is something that rubs me very much the wrong way.  
 **Translation:** 
 
-**[10238.88s] English:** What I should care about is the nature and the future of the law. I'm actually struck by this  
+**[10238.88s] English:** What I should care about is the nature and the future of the law. I'm actually struck by this.  
 **Translation:** 
 
-**[10245.64s] English:** because the court is conservative. It has six conservative members,  
+**[10245.64s] English:** Because the court is conservative, it has six conservative members.  
 **Translation:** 
 
-**[10253.42s] English:** and it has three liberal members on it. If I were, and I'm not, a liberal Democrat,  
+**[10253.42s] English:** And it has three liberal members on it. If I were, and I'm not, a liberal Democrat,...  
 **Translation:** Vocabulary: democrat: 民主党人
 
-**[10262.64s] English:** the highest concern that I would have about an appointment to the Supreme Court is,  
+**[10262.64s] English:** The highest concern that I would have about an appointment to the Supreme Court is,  
 **Translation:** 
 
-**[10266.86s] English:** is this a person who is going to be effective in advocating my liberal views within the highest  
-**Translation:** Vocabulary: advocating: 辩护
+**[10266.86s] English:** Is this a person who is going to be effective in advocating my liberal views within the highest levels?  
+**Translation:** Vocabulary: advocating: 提倡
 
-**[10274.70s] English:** counsel of American law? Now, the fact that that person is a woman or is a Black person is way down  
+**[10274.70s] English:** Counsel of American law? Now, the fact that that person is a woman or a Black person is way down.  
 **Translation:** 
 
-**[10281.70s] English:** the list of the things that I would care about. I would care about the fact that that person is  
+**[10281.70s] English:** The list of the things that I would care about. I would care about the fact that that person is.  
 **Translation:** 
 
-**[10283.42s] English:** going to be effective in advocating my liberal views within the highest counsel of American law.  
+**[10283.42s] English:** Going to be effective in advocating my liberal views within the highest councils of American law.  
 **Translation:** 
 
-**[10283.64s] English:** That's one of the things that I would think are important to the kinds of opinions that they're  
+**[10283.64s] English:** That's one of the things I would think is important to the kinds of opinions they're  
 **Translation:** 
 
-**[10288.48s] English:** going to write. So, I mean, I think Joe Biden, this is just a piece of a larger political  
+**[10288.48s] English:** Going to write. So, I mean, I think Joe Biden: this is just a piece of a larger political  
 **Translation:** 
 
-**[10297.26s] English:** strategy to cobble together a coalition that'll be successful at the polls in sustaining Democrats.  
-**Translation:** Vocabulary: cobble: 拼凑; democrats: 民主党人; polls: 选举; sustaining: 维持
+**[10297.26s] English:** Strategy to cobble together a coalition that'll be successful at the polls for sustaining Democrats.  
+**Translation:** Vocabulary: coalition: 联合; cobble: 拼凑; democrats: 民主党人; polls: 选举; sustaining: 维持
 
-**[10306.36s] English:** Jim Crow 2.0, this whole characterization of the conflict in the States about  
+**[10306.36s] English:** Jim Crow 2.0: This whole characterization of the conflict in the states about  
 **Translation:** 
 
-**[10313.42s] English:** election security and voting rights is another part of that strategy. He is  
+**[10313.42s] English:** Election security and voting rights is another part of that strategy. He is  
 **Translation:** 
 
-**[10320.00s] English:** pandering to Black voters. He is trying to frighten us, thinking that if the Republicans  
+**[10320.00s] English:** Pandering to Black voters, he is trying to frighten us, thinking that if the Republicans  
 **Translation:** 
 
-**[10326.44s] English:** win, our rights will be taken away. And I think it is an infantilization of African American  
-**Translation:** Vocabulary: infantilization: 成人不懌; pandering: 迎合
+**[10326.44s] English:** Win, our rights will be taken away. And I think it is an infantilization of African Americans.  
+**Translation:** Vocabulary: infantilization: 成人被视为婴儿; pandering: 讨好
 
-**[10335.70s] English:** politics. I think Black people ought not to be as concerned about the color of the skin of a person  
+**[10335.70s] English:** Politics. I think black people ought not to be as concerned about the color of a person's skin.  
 **Translation:** 
 
-**[10342.32s] English:** who is serving in government as they are about the content of their character and the focus of  
+**[10342.32s] English:** Who is serving in government, as they are focused on the content of their character and the focus of  
 **Translation:** 
 
-**[10348.72s] English:** their political and ideological orientation, which for me would be center or even center-right,  
+**[10348.72s] English:** Their political and ideological orientation, which for me would be center or even center-right.  
 **Translation:** 
 
-**[10357.32s] English:** but that's me. And it should not have a significant impact. Nevertheless, he said she can  
+**[10357.32s] English:** But that's me. And it should not have a significant impact. Nevertheless, he said she can.  
 **Translation:** Vocabulary: ideological: 意识形态; orientation: 倾向
 
-**[10362.68s] English:** overcome the asterisks, but to me it was deeply disrespectful that anyone would give an extra  
+**[10362.68s] English:** Overcome the asterisks, but to me, it was deeply disrespectful that anyone would give an extra.  
 **Translation:** 
 
-**[10369.74s] English:** asterisk to have to overcome. He didn't have to say it. All he had to do was do it. If he wanted  
-**Translation:** Vocabulary: asterisk: 星号
+**[10369.74s] English:** *Asterisk* to have to overcome, he didn't have to say it. All he had to do was do it. If he wanted,  
+**Translation:** Vocabulary: asterisk: 星号; asterisks: 星号; disrespectful: 不尊重的
 
-**[10374.36s] English:** to put a Black woman on the court, then he could have gone ahead and done it. The reason he said  
+**[10374.36s] English:** To put a Black woman on the court, then he could have gone ahead and done it. The reason he said:  
 **Translation:** 
 
-**[10378.26s] English:** it is because...  
+**[10378.26s] English:** It is because...  
 **Translation:** 
 
 **[10378.72s] English:** Because he wanted Black people to vote for him by saying it. And I'm saying that treats us like  
 **Translation:** 
 
-**[10382.94s] English:** we're children.  
+**[10382.94s] English:** We're children.  
+**Translation:** Vocabulary: treats: 看待
+
+**[10384.26s] English:** It's not a political statement. I just thought, as a leader, that was kind of disgusting.  
 **Translation:** 
 
-**[10384.26s] English:** It's not a political statement. I just thought as a leader that was kind of disgusting.  
+**[10392.46s] English:** Let me ask you about Thomas Sowell. You mentioned him. He's a colleague, and somebody who's an  
+**Translation:** Vocabulary: colleague: 同行
+
+**[10397.98s] English:** Influence in the space of ideas. So, what impact has he had on your ideas?  
 **Translation:** 
 
-**[10392.46s] English:** Let me ask you about Thomas Sowell. You mentioned him. He's a colleague and somebody who's an  
-**Translation:** Vocabulary: colleague: 同事
-
-**[10397.98s] English:** influence in the space of ideas. So what impact has he had on your ideas,  
+**[10408.72s] English:** And how do you think he shaped the landscape of ideas in our culture, in general?  
 **Translation:** 
 
-**[10408.72s] English:** and how do you think he shaped the landscape of ideas in our culture in general?  
-**Translation:** 
-
-**[10415.08s] English:** I think Thomas Sowell, he's in his 90s now. He's been around for a long time.  
+**[10415.08s] English:** I think Thomas Sowell; he's in his 90s now. He's been around for a long time.  
 **Translation:** 
 
 **[10419.10s] English:** He's still got it. He's still going at it.  
 **Translation:** Vocabulary: sowell: 索洛维
 
-**[10421.34s] English:** He's still going at it. Books continue to come out. I think he's a great man.  
+**[10421.34s] English:** He's still going at it; books continue to come out. I think he's a great man.  
 **Translation:** 
 
-**[10424.82s] English:** I think Thomas Sowell, regardless of his race, he's Black, is one of the 100 most significant  
+**[10424.82s] English:** I think Thomas Sowell, regardless of his race—he's Black—is one of the 100 most significant  
 **Translation:** 
 
-**[10435.20s] English:** economists of the 20th century. He has chosen...  
+**[10435.20s] English:** Economists of the 20th century. He has chosen...  
 **Translation:** 
 
-**[10438.72s] English:** He has chosen as his subject a...  
+**[10438.72s] English:** He has chosen as his subject a....  
 **Translation:** Vocabulary: economists: 经济学家
 
-**[10440.00s] English:** part of his subject to investigate the deep causes and consequences of racial disparity  
+**[10440.00s] English:** Part of his subject is to investigate the deep causes and consequences of racial disparity.  
 **Translation:** 
 
-**[10447.88s] English:** of one kind or another. He's written fundamental books about that, many of them. He's a social  
+**[10447.88s] English:** Of one kind or another. He's written fundamental books about that—many of them. He's a social.  
 **Translation:** Vocabulary: disparity: 差距
 
-**[10456.30s] English:** philosopher. He is an economic historian. He is a combatant in the conflict of ideas  
+**[10456.30s] English:** Philosopher. He is an economic historian. He is a combatant in the conflict of ideas.  
 **Translation:** 
 
-**[10464.84s] English:** around how to think about society and this beyond racial differences, although race has been a big  
-**Translation:** Vocabulary: combatant: 思想争锋参与者
+**[10464.84s] English:** Around how to think about society and this beyond racial differences, although race has been a big  
+**Translation:** Vocabulary: combatant: 思想争锋的参与者
 
-**[10471.16s] English:** part of what he's written about. He's been critical of affirmative action, and he didn't  
+**[10471.16s] English:** Part of what he has written about includes being critical of affirmative action, and he didn't  
 **Translation:** 
 
-**[10475.82s] English:** just stand back and wag his finger. He got busy looking at the consequences of affirmative action  
+**[10475.82s] English:** Just stand back and wag his finger. He got busy looking at the consequences of affirmative action.  
 **Translation:** 
 
-**[10480.68s] English:** in societies all around the world, and he's written books about that. He's been critical of  
+**[10480.68s] English:** In societies all around the world, and he's written books about that. He's been critical of.  
 **Translation:** 
 
-**[10485.92s] English:** the narrative about civil rights and racial inequality. He believes in small government.  
+**[10485.92s] English:** The narrative about civil rights and racial inequality. He believes in small government.  
 **Translation:** Vocabulary: inequality: 不平等
 
 **[10491.82s] English:** He doesn't think that efforts to redistribute  
 **Translation:** 
 
-**[10494.84s] English:** income have proved to be the solution to the problem of racial disparity. Tom has not been  
+**[10494.84s] English:** Income has proved to be the solution to the problem of racial disparity. Tom has not been.  
 **Translation:** Vocabulary: redistribute: 重新分配
 
-**[10501.58s] English:** honored by the committee that hands out Nobel recognition in economic science and probably  
+**[10501.58s] English:** Honored by the committee that hands out Nobel recognition in economic science, and probably  
 **Translation:** 
 
-**[10507.26s] English:** won't be because he's controversial, and I reckon that that committee would be loathe to encourage  
-**Translation:** Vocabulary: loathe: 厌恶; nobel: 诺贝尔
+**[10507.26s] English:** Won't be because he's controversial, and I reckon that the committee would be loath to encourage.  
+**Translation:** Vocabulary: loath: 不愿意; nobel: 诺贝尔; reckon: 认为
 
-**[10514.22s] English:** the blowback that they would be sure to receive if they were to take a controversial and politically  
+**[10514.22s] English:** The blowback that they would be sure to receive if they were to take a controversial and politically sensitive action.  
 **Translation:** 
 
-**[10520.08s] English:** a focus in expressive Black  
-**Translation:** Vocabulary: blowback: 反作用; expressive: 表达; politically: 政治地
+**[10520.08s] English:** A focus on expressive Black  
+**Translation:** Vocabulary: blowback: 反作用; expressive: 表达的; politically: 政治地
 
-**[10524.24s] English:** concern.  
+**[10524.24s] English:** Concern.  
 **Translation:** 
 
-**[10524.84s] English:** I think another reason is that Tom, as a methodological matter, is not especially  
+**[10524.84s] English:** I think another reason is that Tom, as a methodological matter, is not especially.  
 **Translation:** Vocabulary: methodological: 方法论的
 
-**[10533.56s] English:** quantitative. He pays attention to data, but he doesn't do statistical analysis,  
+**[10533.56s] English:** Quantitative. He pays attention to data, but he doesn't do statistical analysis.  
 **Translation:** 
 
-**[10537.88s] English:** and he doesn't do modeling. So from a methodological point of view, he's not a cutting-edge,  
+**[10537.88s] English:** And he doesn't do modeling. So, from a methodological point of view, he's not a cutting-edge,  
 **Translation:** Vocabulary: quantitative: 数量的
 
-**[10543.70s] English:** kind of mathematically sophisticated, kind of quantitatively, statistically oriented,  
+**[10543.70s] English:** Kind of mathematically sophisticated, kind of quantitatively and statistically oriented,  
 **Translation:** 
 
-**[10551.24s] English:** but he does descriptive stuff. He writes in a style,  
-**Translation:** Vocabulary: descriptive: 描述性; mathematically: 数学地; oriented: 导向的; quantitatively: 定量地; sophisticated: 复杂的
+**[10551.24s] English:** But he does descriptive stuff. He writes in a style,  
+**Translation:** Vocabulary: descriptive: 描述性的; mathematically: 数学地; oriented: 导向的; quantitatively: 定量地; sophisticated: 复杂的; statistically: 统计地
 
-**[10554.84s] English:** that is much more like a social historian than it is like a  
+**[10554.84s] English:** That is much more like a social historian than it is like a  
 **Translation:** 
 
-**[10560.00s] English:** Like a mathematically trained analytical economist. On the other hand, he is an economist in the Chicago School, Milton Friedman and George Stickler, prominent amongst his teachers, who takes price theory, which is the analysis of the interplay of market forces, mindful of incentives and so on.  
-**Translation:** Vocabulary: analytical: 分析型; economist: 经济学家; friedman: 弗里德曼; incentives: 激励; stickler: 斯蒂克勒
-
-**[10585.42s] English:** And to, you know, implement the basic insights from economic science. You know, there is no free lunch. I mean, there's always going to be a cost to anything that you do and so on. People respond to incentives, demand curves slope downward. You know, competition tends to work best when people are free to enter and not and so on. I mean, that kind of thing.  
+**[10560.00s] English:** Like a mathematician-trained analytical economist. On the other hand, he is an economist from the Chicago School, where Milton Friedman and George Stigler were among his prominent teachers, who takes price theory—the analysis of the interplay of market forces—mindful of incentives and so on.  
 **Translation:** 
 
-**[10606.80s] English:** But Tom is also a social historian and philosopher in the tradition of Friedrich von Hayek.  
+**[10585.42s] English:** And to implement the basic insights from economic science, you know, there is no free lunch. I mean, there's always going to be a cost to anything that you do, and so on. People respond to incentives; demand curves slope downward. You know, competition tends to work best when people are free to enter—and not to enter—so on. I mean, that kind of thing.  
 **Translation:** 
 
-**[10615.42s] English:** One of Tom's books I deeply admire, Knowledge and Decisions, is an extension of the Hayekian arguments about the limits of central planning and whatnot.  
+**[10606.80s] English:** But Tom is also a social historian and philosopher, in the tradition of Friedrich von Hayek.  
+**Translation:** Vocabulary: friedrich: 弗里德里希; implement: 实施; incentives: 激励
+
+**[10615.42s] English:** One of Tom's books, which I deeply admire, is "Knowledge and Decisions." It is an extension of the Hayekian arguments about the limits of central planning and related ideas.  
 **Translation:** 
 
-**[10628.60s] English:** So I think Tom Sowell, Thomas Sowell, African-American, born, as I understand it, in Louisiana, raised in New York City, a graduate of Harvard College, a military veteran.  
-**Translation:** Vocabulary: hayekian: 哈耶克观点; sowell: 索洛尔; whatnot: 等等
+**[10628.60s] English:** So, I think Tom Sowell (or Thomas Sowell), is African-American. He was born, as I understand it, in Louisiana, raised in New York City, and a graduate of Harvard College. He was also a military veteran.  
+**Translation:** Vocabulary: hayekian: 哈耶克观点; sowell: 索洛; veteran: 退伍军人
 
 **[10644.48s] English:** A.  
 **Translation:** 
 
 **[10645.42s] English:** Ph.D. in economics from the University of Chicago, a black conservative social scientist of very high stature. I think he's a great man.  
+**Translation:** Vocabulary: stature: 地位
+
+**[10654.32s] English:** And one of the great intellectuals of the 20th century, and you're saying implicitly that he or she deserves a Nobel Prize.  
 **Translation:** 
 
-**[10654.32s] English:** And one of the great intellectuals of the 20th century. And you're saying implicitly deserves a Nobel Prize.  
-**Translation:** 
+**[10662.96s] English:** Yeah, I do think so. I mean, Hayek was awarded by the committee. Gunnar Myrdal, the Swedish economist, wrote about economic development and wrote a famous book on the subject.  
+**Translation:** Vocabulary: economist: 经济学家; implicitly: 暗指; intellectuals: 知识分子; nobel: 诺贝尔; swedish: 瑞典的
 
-**[10662.96s] English:** Yeah, I do think so. I mean, Hayek was awarded by the committee. Gunnar Myrdal, the Swedish economist, wrote about economic development, wrote a famous.  
-**Translation:** Vocabulary: implicitly: 含蓄地; intellectuals: 知识分子; nobel: 诺贝尔; swedish: 瑞典的
-
-**[10675.42s] English:** Two volume work, An American Dilemma, about the status of blacks.  
+**[10675.42s] English:** Two-volume work, "An American Dilemma," about the status of blacks.  
 **Translation:** 
 
 **[10678.82s] English:** I mean, I think.  
-**Translation:** 
+**Translation:** Vocabulary: dilemma: 困境
 
-**[10680.00s] English:** Obama could be put in that company very easily without any difficulty.  
+**[10680.00s] English:** Obama could be put in that company very easily, without any difficulty.  
 **Translation:** 
 
 **[10686.06s] English:** I agree.  
 **Translation:** 
 
-**[10686.86s] English:** Daniel Kahneman, so it doesn't have to be –  
+**[10686.86s] English:** Daniel Kahneman: So, it doesn't have to be —  
 **Translation:** 
 
-**[10689.84s] English:** Psychologists, the United Economists, Eleanor Ostrom, the political scientist who was honored in a joint prize given to her and Oliver Williamson 15 years ago or so.  
-**Translation:** Vocabulary: economists: 经济学家; kahneman: 丹尼尔·卡内曼; williamson: 威廉姆森
+**[10689.84s] English:** Psychologists, the United Economists, Eleanor Ostrom, the political scientist who was honored in a joint prize given to her and Oliver Williamson about 15 years ago.  
+**Translation:** Vocabulary: economists: 经济学家; kahneman: 丹尼尔·卡内曼; williamson: 奥利ver·威廉森
 
 **[10701.66s] English:** He could be put in that company really quite easily.  
 **Translation:** 
 
-**[10704.30s] English:** Let me ask you, you mentioned Obama in the very beginning that we were talking about.  
+**[10704.30s] English:** Let me ask you: You mentioned Obama at the very beginning of what we were talking about.  
 **Translation:** Vocabulary: obama: 奥巴马
 
-**[10713.66s] English:** How did it feel that it seems like forever ago that in 2008 Barack Obama became president?  
+**[10713.66s] English:** How did it feel that it seemed like forever ago when Barack Obama became president in 2008?  
 **Translation:** 
 
-**[10721.74s] English:** Now at that time, perhaps you identified as conservative already.  
+**[10721.74s] English:** Now, at that time, perhaps you identified as conservative already.  
+**Translation:** Vocabulary: barack: 巴拉克
+
+**[10728.60s] English:** So, politics aside, just in general.  
 **Translation:** 
 
-**[10728.60s] English:** So politics aside, just in general.  
+**[10734.30s] English:** How did it feel that, in 150 years, this country has come so far?  
 **Translation:** 
 
-**[10734.30s] English:** How did it feel that in 150 years where this country has come along?  
+**[10743.20s] English:** Well, yeah, I didn't identify as a conservative to the same extent in 2008 that I do today.  
 **Translation:** 
 
-**[10743.20s] English:** Well, yeah, I didn't identify in 2008 as a conservative to the same extent that I do today.  
-**Translation:** 
-
-**[10751.16s] English:** I was kind of in transition yet again.  
+**[10751.16s] English:** I was kind of in transition again.  
 **Translation:** 
 
 **[10754.90s] English:** I was excited by the Obama candidacy.  
 **Translation:** 
 
-**[10759.06s] English:** At first I was skeptical because after all, he's not black.  
-**Translation:** Vocabulary: candidacy: 参选资格; skeptical: 怀疑的
+**[10759.06s] English:** At first, I was skeptical because, after all, he's not black.  
+**Translation:** Vocabulary: candidacy: 参选; skeptical: 怀疑的
 
-**[10764.30s] English:** The man's father is a Kenyan and the man's mother is a white American and he identifies as black.  
+**[10764.30s] English:** The man's father is Kenyan, and his mother is a white American. He identifies as Black.  
 **Translation:** 
 
-**[10774.76s] English:** I find it interesting that the first black president of the United States, and I could have put inverted commas around black, and the first black vice president of the United States, neither of them descend from American slaves.  
-**Translation:** Vocabulary: identifies: 自我认同; kenyan: 肯尼亚的
-
-**[10789.38s] English:** Kamala Harris's father is of African ancestry in part.  
+**[10774.76s] English:** I find it interesting that the first Black President of the United States (and I could have put inverted commas around "Black") and the first Black Vice President of the United States neither descended from American slaves.  
 **Translation:** 
 
-**[10794.30s] English:** He's a Jamaican immigrant and her mother is an Indian immigrant.  
-**Translation:** Vocabulary: ancestry: 血统; immigrant: 移民
-
-**[10800.00s] English:** She was Kamala Harris, raised up largely in Canada, though born in the United States. Barack Obama is, as I've said, of mixed ancestry, and neither of his parents are the descendants of American descendants of African slaves.  
+**[10789.38s] English:** Kamala Harris's father is of African ancestry, in part.  
 **Translation:** 
 
-**[10825.82s] English:** But blackness is flexible. It's something that you can put on or you can take off to a certain degree for some people, and so be it.  
-**Translation:** Vocabulary: barack: 巴拉克; descendants: 后裔; kamala: 卡玛拉; obama: 奥巴马
+**[10794.30s] English:** He's a Jamaican immigrant, and her mother is an Indian immigrant.  
+**Translation:** Vocabulary: ancestry: 血统; immigrant: 移民; jamaican: 牙买加的
 
-**[10841.04s] English:** I was excited. Our time has come. Hope and change. We are the ones we've been waiting for. These are slogans from 2008.  
+**[10800.00s] English:** She was Kamala Harris, raised largely in Canada, though born in the United States. Barack Obama, as I've said, is of mixed ancestry, and neither of his parents are descendants of American descendants of African slaves.  
+**Translation:** 
+
+**[10825.82s] English:** But blackness is flexible. It's something that you can put on or take off to a certain degree for some people, and so be it.  
+**Translation:** Vocabulary: barack: 巴拉克; descendants: 后裔; flexible: 灵活; kamala: 卡玛拉; obama: 奥巴马
+
+**[10841.04s] English:** I was excited. Our time has come. "Hope and Change." We are the ones we've been waiting for. These are slogans from 2008.  
 **Translation:** 
 
 **[10854.12s] English:** I can't believe I bought.  
-**Translation:** 
+**Translation:** Vocabulary: slogans: 口号
 
 **[10855.82s] English:** I bought that crap.  
 **Translation:** 
@@ -5446,19 +5447,19 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[10868.00s] English:** Yeah.  
 **Translation:** 
 
-**[10869.60s] English:** I mean, Barack Obama is black when it matters, when you're talking to a white supremacist.  
-**Translation:** 
+**[10869.60s] English:** I mean, Barack Obama is black when it matters — when you're talking to a white supremacist.  
+**Translation:** Vocabulary: supremacist: 至上主义者
 
 **[10880.38s] English:** Yeah.  
 **Translation:** 
 
-**[10880.58s] English:** When you're talking to, if you're a slave owner, he's black.  
+**[10880.58s] English:** When you're talking to a slave owner, if he's black.  
 **Translation:** 
 
-**[10885.82s] English:** Just like you said, when Hitler comes around, a Jew is a Jew. It doesn't matter how you identify. It doesn't matter what.  
+**[10885.82s] English:** Just like you said, when Hitler comes around, a Jew is a Jew. It doesn't matter how you identify; it doesn't matter what.  
 **Translation:** 
 
-**[10895.86s] English:** So in that sense, don't you think that Barack Obama is black in the most powerful of ways, which is designating how far the MLK, the Dr. King vision?  
+**[10895.86s] English:** So, in that sense, don't you think that Barack Obama is black in the most powerful of ways—designating how far the MLK, Dr. King's vision has come?  
 **Translation:** 
 
 **[10909.18s] English:** Oh, sure. And look, I said it a little bit tongue-in-cheek.  
@@ -5467,70 +5468,70 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[10912.68s] English:** Yes, yes, of course.  
 **Translation:** 
 
-**[10913.50s] English:** But I think Obama...  
+**[10913.50s] English:** But I think Obama....  
 **Translation:** 
 
-**[10915.82s] English:** Has been very careful about manufacturing a kind of public...  
+**[10915.82s] English:** Has been very careful about manufacturing a kind of public... opinion.  
 **Translation:** 
 
-**[10920.00s] English:** persona that is intended to um position him in the most effective way you mean like every  
+**[10920.00s] English:** Persona that is intended to position him in the most effective way, you mean, like every  
 **Translation:** 
 
-**[10929.84s] English:** politician yeah like every politician sure and that the racial identity piece is an aspect of  
+**[10929.84s] English:** Politician: Yeah, like every politician, sure, and that the racial identity piece is an aspect of.  
 **Translation:** 
 
-**[10936.30s] English:** that i mean anything i say here would only be speculation because i have no facts about the  
+**[10936.30s] English:** That I mean anything I say here would only be speculation, because I have no facts about the  
 **Translation:** 
 
-**[10943.38s] English:** personal history of barack obama and i accept barack hussein obama as hillary clinton what  
-**Translation:** Vocabulary: hillary: 希拉里; hussein: 穆罕默德; speculation: 猜测
+**[10943.38s] English:** Personal history of Barack Obama, and I accept Barack Hussein Obama as Hillary Clinton, what?  
+**Translation:** Vocabulary: barack: 巴拉克; hillary: 希拉里; hussein: 苏希恩; obama: 奥巴马; speculation: 猜测
 
-**[10948.98s] English:** said i take him at his word uh about uh whatever she was talking about uh well was he a christian  
+**[10948.98s] English:** Said, "I take him at his word, uh, about whatever she was talking about. Well, was he a Christian?  
 **Translation:** 
 
-**[10955.78s] English:** i think is what the the question was and uh you know there was some right-wing attack on obama for  
-**Translation:** Vocabulary: obama: 奥巴马
-
-**[10961.16s] English:** you know having been raised in for some years in the philippines and um all of that or indonesia  
+**[10955.78s] English:** I think that's what the question was, and you know, there was some right-wing attack on Obama for  
 **Translation:** 
 
-**[10967.82s] English:** i beg your pardon in indonesia and his stepfather and all of that but um she took him at his word  
-**Translation:** Vocabulary: indonesia: 印度尼西亚; stepfather: 继父
-
-**[10973.74s] English:** and i take him at his word about his racial identity no  
+**[10961.16s] English:** You know, having been raised in the Philippines for some years, and all of that, or Indonesia.  
 **Translation:** 
 
-**[10978.98s] English:** you were captivated by the power of his words and you regret to the degree you were captivated  
-**Translation:** Vocabulary: captivated: 着迷
+**[10967.82s] English:** I beg your pardon, in Indonesia and with his stepfather, and all of that, but she took him at his word.  
+**Translation:** Vocabulary: indonesia: 印度尼西亚; philippines: 菲律宾; stepfather: 继父
 
-**[10984.16s] English:** well i mean i think in retrospect that whole campaign looks like a pie in the sky kind of  
+**[10973.74s] English:** And I take him at his word about his racial identity, no.  
 **Translation:** 
 
-**[10990.46s] English:** fairy tale we are the ones we've been waiting for i can't quote exactly that speech that he  
-**Translation:** Vocabulary: retrospect: 回顾
-
-**[10998.06s] English:** gave in grant park in chicago when he was announced as the winner of the election  
+**[10978.98s] English:** You were captivated by the power of his words, and you regret to the degree you were captivated.  
 **Translation:** 
 
-**[11002.96s] English:** but uh today is the day that the rise of the ocean stop or words to this effect i mean i'm not going to  
+**[10984.16s] English:** Well, I mean, I think in retrospect, that whole campaign looks like a pie-in-the-sky kind of  
 **Translation:** 
 
-**[11008.98s] English:** i mean uh those who doubted that uh we could do it that tonight is your answer this was going to be  
+**[10990.46s] English:** From a fairy tale, "We are the ones we've been waiting for." I can't quote exactly that speech; he  
 **Translation:** 
 
-**[11014.84s] English:** a new day it was going to be a new regime well it wasn't a new day and it wasn't a new regime  
+**[10998.06s] English:** Gave in Grant Park in Chicago, when he was announced as the winner of the election.  
 **Translation:** 
 
-**[11018.96s] English:** it was american politics more or less as usual barack obama turns out not to be  
+**[11002.96s] English:** But, uh, today is the day that the rise of the ocean stops—or words to this effect. I mean, I'm not going to  
 **Translation:** 
 
-**[11024.92s] English:** the messiah uh maybe there should be no surprise in that um race relations got set back during  
-**Translation:** Vocabulary: barack: 巴拉克; messiah: 救世主
-
-**[11031.44s] English:** obama's tenure um my beef with obama is that you okay you're black you say you're black you're  
+**[11008.98s] English:** I mean, uh, those who doubted that we could do it — tonight is your answer; this was going to be  
 **Translation:** 
 
-**[11038.98s] English:** you got a  
+**[11014.84s] English:** A new day, it was going to be a new regime. Well, it wasn't a new day, and it wasn't a new regime.  
+**Translation:** Vocabulary: doubted: 怀疑
+
+**[11018.96s] English:** It was American politics, more or less, as usual. Barack Obama turns out not to be.  
+**Translation:** 
+
+**[11024.92s] English:** The Messiah, uh, maybe there shouldn't be any surprise in that; um, race relations got set back during  
+**Translation:** Vocabulary: barack: 巴拉克; messiah: 救世主; obama: 奥巴马
+
+**[11031.44s] English:** Obama's Tenure: Um, my beef with Obama is that, you know, you're black, you say you're black, you're  
+**Translation:** 
+
+**[11038.98s] English:** You got it.  
 **Translation:** 
 
 **[11040.00s] English:** Now we have a black president, a black president.  
@@ -5539,119 +5540,119 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11045.04s] English:** You can do stuff that nobody else could do.  
 **Translation:** 
 
-**[11048.68s] English:** You're a black president.  
+**[11048.68s] English:** You're a Black president.  
 **Translation:** 
 
-**[11050.64s] English:** You could tell the people burning down the city to get their butts back in their houses and to stop it.  
+**[11050.64s] English:** You could tell the people burning down the city, "To get their butts back in their houses and to stop it.  
 **Translation:** 
 
-**[11059.36s] English:** You know, you could tell the race hustlers, the Al Sharpton's of the world.  
+**[11059.36s] English:** You know, you could tell the race hustlers, like Al Sharpton and his ilk.  
 **Translation:** 
 
-**[11064.24s] English:** So not only has our time come for those who supported my campaign, your time is over for those who want to carry on a advocacy rooted in racial grievance.  
-**Translation:** Vocabulary: advocacy: 倡导; grievance: 怨愤; hustlers: 煽动者
+**[11064.24s] English:** So, not only has our time come for those who supported my campaign; your time is over for those who want to carry on an advocacy rooted in racial grievance.  
+**Translation:** Vocabulary: advocacy: 倡导; grievance: 怨恨; hustlers: 煽动者
 
-**[11079.88s] English:** The election of myself to this highest office proves that the institution of the state are legitimate and open to all comers.  
+**[11079.88s] English:** The election of myself to this highest office proves that the institutions of the state are legitimate and open to all comers.  
 **Translation:** 
 
 **[11090.04s] English:** I think Barack Obama, when the S.H.I.T.  
+**Translation:** Vocabulary: legitimate: 合法的
+
+**[11094.14s] English:** Hit.  
 **Translation:** 
 
-**[11094.14s] English:** hit.  
+**[11094.24s] English:** The fan, if I had a son, he would look like Trayvon.  
+**Translation:** Vocabulary: trayvon: 特雷文
+
+**[11098.16s] English:** I deeply regret that he said that he's the president of the United States, the color of his skin, and the color of Trayvon's skin, the correlation between those two things.  
 **Translation:** 
 
-**[11094.24s] English:** The fan, if I had a son, he looked like Trayvon.  
-**Translation:** 
-
-**[11098.16s] English:** I deeply regret that he said that he's president of the United States, the color of his skin and the color of Trayvon skin, the correlation between those two things.  
-**Translation:** 
-
-**[11108.08s] English:** If I had a son, he looked like Trayvon.  
+**[11108.08s] English:** If I had a son, he would look like Trayvon.  
 **Translation:** Vocabulary: correlation: 关联
 
-**[11109.46s] English:** Now, he says when he said it, he only meant to sympathize with the parents.  
+**[11109.46s] English:** Now, he says that when he said it, he only meant to sympathize with the parents.  
 **Translation:** 
 
-**[11115.30s] English:** But in fact, when he said it from the highest office in the land and then sent his attorney general, Eric Holder, out to enforce this narrative.  
-**Translation:** Vocabulary: sympathize: 同情
+**[11115.30s] English:** But, in fact, when he said it from the highest office in the land and then sent his Attorney General, Eric Holder, out to enforce this narrative.  
+**Translation:** Vocabulary: enforce: 强制执行; holder: 霍尔德; sympathize: 同情
 
 **[11123.56s] English:** He doubled down on a racial narrative that I think is actually false.  
 **Translation:** 
 
-**[11129.94s] English:** I think the story that systemic racism in America as reflected in policing that terrorizes black people because of the color of the skin is demonstrably false.  
-**Translation:** Vocabulary: demonstrably: 无可辩驳地; terrorizes: 恐吓
+**[11129.94s] English:** I think the story that systemic racism in America, as reflected in policing that terrorizes Black people because of the color of their skin, is demonstrably false.  
+**Translation:** Vocabulary: demonstrably: 无可辩驳地; racism: 种族主义; terrorizes: 恐吓
 
-**[11142.66s] English:** I think that the central threat to black lives is violent crime perpetrated largely by black people against other black people.  
+**[11142.66s] English:** I think that the central threat to black lives is violent crime, perpetrated largely by black people against other black people.  
 **Translation:** 
 
-**[11153.44s] English:** I think there is such a thing as police brutality, and I think there are reasons to have regulations of police, but I think it is a.  
+**[11153.44s] English:** I think there is such a thing as police brutality, and I think there are reasons to have regulations on police, but I think it is a.  
 **Translation:** Vocabulary: brutality: 残忍; perpetrated: 实施
 
-**[11159.82s] English:** I think there is such a thing as police brutality, and I think there are reasons to have regulations of police, but I think there are reasons to have regulations of police.  
+**[11159.82s] English:** I think there is such a thing as police brutality, and I think there are reasons to have regulations of the police, but I think there are reasons for regulations of the police.  
 **Translation:** 
 
-**[11160.00s] English:** second order issue in terms of the quality of life of African-Americans. I think Obama could  
+**[11160.00s] English:** Second-order issue in terms of the quality of life of African-Americans. I think Obama could.  
 **Translation:** Vocabulary: obama: 奥巴马
 
-**[11167.88s] English:** have told the people who, after Freddie Gray died in police custody in a van in Baltimore and who  
+**[11167.88s] English:** Have told the people who, after Freddie Gray died in police custody in a van in Baltimore, and who  
 **Translation:** 
 
-**[11174.32s] English:** undertook to burn that city down, to get their asses off the street and go back to their  
-**Translation:** Vocabulary: baltimore: 巴尔的摩; freddie: 弗雷迪; undertook: 图谋
+**[11174.32s] English:** Undertook to burn that city down, to get their asses off the street and go back to their  
+**Translation:** Vocabulary: baltimore: 巴尔的摩; custody: 拘留; freddie: 弗雷迪; undertook: 着手
 
-**[11180.18s] English:** apartments and stop it. I think he could have said in the aftermath of Michael Brown being  
+**[11180.18s] English:** Apartments and stop it. I think he could have said, in the aftermath of Michael Brown's death,  
 **Translation:** 
 
-**[11184.44s] English:** shot dead by Darren Wilson in Ferguson, Missouri, and there was a grand jury deliberation that  
+**[11184.44s] English:** Shot dead by Darren Wilson in Ferguson, Missouri, and there was a grand jury deliberation that  
 **Translation:** Vocabulary: aftermath: 后果; deliberation: 审议; ferguson: 弗格森
 
-**[11190.84s] English:** elected not to indict Officer Wilson, and people took the streets in that city and stood on top  
+**[11190.84s] English:** Elected not to indict Officer Wilson, and people took to the streets in that city and stood on top.  
 **Translation:** 
 
-**[11196.46s] English:** of vehicles and so forth and so on. He could have told them, we don't mob around courthouses  
+**[11196.46s] English:** Of vehicles and so forth. He could have told them: we don't mob around courthouses.  
 **Translation:** Vocabulary: courthouses: 法院; indict: 起诉
 
-**[11202.80s] English:** in this country. We respect the rule of law. Get your butts off the streets and back into  
+**[11202.80s] English:** In this country, we respect the rule of law. Get your butts off the streets and back into  
 **Translation:** 
 
-**[11209.02s] English:** your apartments. He didn't do that. So to push back a little bit,  
+**[11209.02s] English:** Your apartments. He didn't do that. So, to push back a little bit,  
 **Translation:** 
 
 **[11214.44s] English:** Yeah, good. Push back.  
 **Translation:** 
 
-**[11216.30s] English:** I think you're asking Barack Obama, the first black president of the United States,  
+**[11216.30s] English:** I think you're asking about Barack Obama, the first Black President of the United States,  
 **Translation:** Vocabulary: barack: 巴拉克
 
-**[11224.28s] English:** to do the thing that I think should be done by the second black president of the United States.  
+**[11224.28s] English:** To do the thing that I think should be done by the second Black president of the United States.  
 **Translation:** 
 
 **[11229.40s] English:** I think his very example, given the color of his skin, was the most powerful thing.  
 **Translation:** 
 
-**[11238.12s] English:** And actually doing some of these hard Thomas Sowell type of, Glenn Lurie type of  
+**[11238.12s] English:** And actually, doing some of these hard Thomas Sowell-type of, Glenn Lurie-type of  
 **Translation:** 
 
-**[11244.44s] English:** strong words about race, it may be too much to ask, given the nature of modern day politics.  
-**Translation:** 
+**[11244.44s] English:** Strong words about race may be too much to ask, given the nature of modern-day politics.  
+**Translation:** Vocabulary: glenn: 格伦
 
 **[11251.74s] English:** He is a politician.  
 **Translation:** 
 
-**[11253.22s] English:** He is a politician. He needed to get elected. He needed to get reelected.  
+**[11253.22s] English:** He is a politician. He needed to get elected. He needed to get re-elected.  
 **Translation:** 
 
 **[11256.88s] English:** Yeah.  
 **Translation:** 
 
-**[11258.18s] English:** It was in his second term where most of what I'm talking about happened. So he wasn't facing  
+**[11258.18s] English:** It was in his second term where most of what I'm talking about happened. So, he wasn't facing  
 **Translation:** 
 
-**[11262.16s] English:** further election. But Obama was, what, 46 or 47 when he was inaugurated? He served for eight  
+**[11262.16s] English:** Further election. But Obama was, what, 46 or 47 when he was inaugurated? He served for eight years.  
 **Translation:** 
 
-**[11269.36s] English:** years. So he's in his mid-50s. He's got another half century or 40 years of life.  
-**Translation:** 
+**[11269.36s] English:** Years. So, he's in his mid-50s. He's got another half-century or 40 years of life.  
+**Translation:** Vocabulary: inaugurated: 就职; obama: 奥巴马
 
 **[11274.30s] English:** Yeah.  
 **Translation:** 
@@ -5662,94 +5663,94 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11274.44s] English:** God willing. His post-presidency, I think, was what was primarily  
 **Translation:** 
 
-**[11280.00s] English:** Not getting elected to anything, but being enshrined in a certain way. And the persona that he is now embodying, which depends upon a racial narrative that I and Thomas Sowell and others object to, I think was very much in the forefront of his mind when he made decisions as the chief executive officer of the country that we've all now have to live with.  
-**Translation:** Vocabulary: embodying: 体现; enshrined: 铭记
+**[11280.00s] English:** Not getting elected to anything, but being enshrined in a certain way. And the persona that he is now embodying, which depends upon a racial narrative that I and Thomas Sowell and others object to, I think was very much in the forefront of his mind when he made decisions as the chief executive officer of the country — that we've all now have to live with.  
+**Translation:** Vocabulary: embodying: 体现; enshrined: 被铭记; forefront: forefront
 
-**[11308.90s] English:** Yeah, but the fact is, he opened the door in a way that hasn't been done in the history of the United States, that I don't see there being even a significant discussion when an African American, a black man or a black woman runs for president, maybe a black man, let's say, because there still hasn't been a woman president.  
+**[11308.90s] English:** Yeah, but the fact is, he opened the door in a way that hasn't been done in the history of the United States. I don't see there being even a significant discussion when an African American—a black man or a black woman—runs for president; maybe a black man, let's say, because there still hasn't been a woman president.  
 **Translation:** 
 
-**[11336.52s] English:** I just see that that broke open the possibility of that. That's not even a discussion. And that example by itself, I mean, to me, the role of the president isn't just policy, it's to inspire, it's to do the Dr. King thing, which is, I have a dream. And Barack Obama is an example of somebody that could give one hell of a speech. It got you to believe.  
-**Translation:** Vocabulary: barack: 巴拉克; obama: 奥巴马
+**[11336.52s] English:** I just see that breaking open the possibility of that. That's not even a discussion. And that example by itself, to me, means the role of the president isn't just policy; it's to inspire, like Dr. King did with "I have a dream." Barack Obama is an example of someone who could give one hell of a speech and get you to believe.  
+**Translation:** Vocabulary: barack: 奥巴马
 
-**[11364.24s] English:** Obama is a smooth operator without any questions.  
+**[11364.24s] English:** Obama is a smooth operator, without any questions.  
 **Translation:** 
 
-**[11366.52s] English:** He's a master of his craft. He did the impossible. I mean, he beat Hillary Clinton in that primary fight. And he beat John McCain in that general election. And hats off to him. And moreover, he remains a iconic figure in American culture. I don't think there's any doubt about that.  
+**[11366.52s] English:** He's a master of his craft. He did the impossible. I mean, he beat Hillary Clinton in that primary fight, and he beat John McCain in that general election. And hats off to him. And moreover, he remains an iconic figure in American culture; I don't think there's any doubt about that.  
 **Translation:** 
 
-**[11385.38s] English:** Let me just mention, Clarence Thomas is also black. Clarence Thomas has a story that is vivid and inspiring.  
+**[11385.38s] English:** Let me just mention: Clarence Thomas is also Black. Clarence Thomas has a story that is vivid and inspiring.  
 **Translation:** 
 
 **[11396.00s] English:** Just like...  
 **Translation:** 
 
-**[11396.52s] English:** Just like Obama's story. He overcome obstacles, just like Obama did.  
+**[11396.52s] English:** Just like Obama's story: he overcame obstacles, just like Obama did.  
 **Translation:** 
 
-**[11400.00s] English:** I mean, extreme poverty and so forth and so on. Clarence Thomas has served longer than any other member of the United States Supreme Court.  
+**[11400.00s] English:** I mean, extreme poverty, and so forth and so on. Clarence Thomas has served longer than any other member of the United States Supreme Court.  
+**Translation:** Vocabulary: clarence: 克拉伦斯; obama: 奥巴马; overcame: 克服
+
+**[11409.48s] English:** He is one of nine justices, and it's part of the three equal branches of government.  
 **Translation:** 
 
-**[11409.48s] English:** He is one of nine justices and it's three equal branches of government.  
+**[11415.66s] English:** So, Clarence Thomas, by my arithmetic, personifies one twenty-seventh of the American Senate.  
+**Translation:** Vocabulary: arithmetic: 计算; personifies: 象征
+
+**[11422.30s] English:** He is an iconic figure. His example should be an inspiration to Americans of all races, but especially to black American youth.  
 **Translation:** 
 
-**[11415.66s] English:** So Clarence Thomas, by my arithmetic, personifies one twenty seventh of the American state.  
-**Translation:** Vocabulary: arithmetic: 计算; clarence: 克拉伦斯; personifies: 象征
+**[11436.22s] English:** He happens to be conservative. He's very conservative. So, what the fuck?  
+**Translation:** Vocabulary: iconic: 具有象征意义的
 
-**[11422.30s] English:** He is an iconic figure. His example should be an inspiration to Americans of all races, but especially a black American youngsters.  
-**Translation:** 
-
-**[11436.22s] English:** He happens to be conservative. He's very conservative. So fucking what?  
-**Translation:** Vocabulary: youngsters: 年轻人
-
-**[11443.32s] English:** He, too, deserves to be in that pantheon. He is not by the custodians of American education.  
+**[11443.32s] English:** He, too, deserves to be in that pantheon. He is not recognized by the custodians of American education.  
 **Translation:** 
 
 **[11450.68s] English:** Clarence Thomas's name is not on that many schools. Barack Obama's name will be on many of them.  
-**Translation:** Vocabulary: custodians: 教育守护者; pantheon: 名人堂
+**Translation:** Vocabulary: barack: 奥巴马; custodians: 管理者; pantheon: 神殿
 
-**[11455.28s] English:** I'm not equating them. They're different people. The offices are very different.  
+**[11455.28s] English:** I'm not equating them; they're different people, and the offices are very different.  
 **Translation:** 
 
 **[11459.36s] English:** But the same logic that you just used to extol the significance of Barack Obama's ascendancy could and should be applied to Clarence Thomas, in my opinion.  
-**Translation:** Vocabulary: ascendancy: 优势; barack: 奥巴马; equating: 等同; extol: 颂扬
+**Translation:** Vocabulary: ascendancy: 优势; equating: 等同; extol: 颂扬
 
-**[11471.70s] English:** Yes, but, you know, it's the office, but also there is a resume and there's accomplishments.  
+**[11471.70s] English:** Yes, but you know, it's the office, but also there's a resume and accomplishments.  
 **Translation:** 
 
-**[11480.68s] English:** But then there is oratory and charisma and a number of Twitter followers.  
-**Translation:** Vocabulary: charisma: 魅力; oratory: 演说
+**[11480.68s] English:** But then there is oratory and charisma, and a number of Twitter followers.  
+**Translation:** Vocabulary: charisma: 魅力; followers: 粉丝; oratory: 演讲; resume: 简历
 
-**[11486.22s] English:** So there's ability to captivate a large number of people.  
+**[11486.22s] English:** So, there's an ability to captivate a large number of people.  
 **Translation:** 
 
-**[11491.00s] English:** And that's a skill that's a skill that correlates, but is not directly connected to with how impressive your resume is.  
-**Translation:** Vocabulary: captivate: 吸引注意; correlates: 相关联
+**[11491.00s] English:** And that's a skill that's correlated, but is not directly connected to how impressive your resume is.  
+**Translation:** Vocabulary: captivate: 使着迷; correlated: 相关联的
 
-**[11500.78s] English:** I agree. And moreover, the judicial function, the judge doesn't go out and give speeches of that sort because it's exactly antithetical to what he's doing.  
+**[11500.78s] English:** I agree. And moreover, the judicial function; the judge doesn't go out and give speeches of that sort, because it's exactly antithetical to what he's doing.  
 **Translation:** 
 
 **[11508.28s] English:** He's a custodian of the law.  
 **Translation:** Vocabulary: antithetical: 对立的; custodian: 守护者
 
-**[11510.68s] English:** He's not a popular feature figure in American policy.  
+**[11510.68s] English:** He's not a particularly popular figure in American policy.  
 **Translation:** 
 
 **[11514.72s] English:** He doesn't stand for election. And it's a good thing, too.  
 **Translation:** 
 
-**[11517.82s] English:** So I take that point here.  
+**[11517.82s] English:** So, I take that point here.  
 **Translation:** 
 
 **[11520.00s] English:** I want to say something else, though, that's provocative.  
-**Translation:** Vocabulary: provocative: 激昂的
+**Translation:** Vocabulary: provocative: 挑逗性的
 
-**[11522.02s] English:** The next black president, you say the first black president shouldn't have been the one to do that.  
+**[11522.02s] English:** The next black president, you say, the first black president shouldn't have been the one to do that.  
 **Translation:** 
 
-**[11526.80s] English:** The second one should is more likely than not going to be a Republican.  
+**[11526.80s] English:** The second one should be more likely than not a Republican.  
 **Translation:** 
 
-**[11530.54s] English:** I'm not I don't have a particular person in mind.  
+**[11530.54s] English:** I'm not; I don't have a particular person in mind.  
 **Translation:** 
 
 **[11532.40s] English:** I'm just saying.  
@@ -5767,10 +5768,10 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11537.42s] English:** And that's why it's going to be super fun.  
 **Translation:** 
 
-**[11540.36s] English:** Let me ask you to put put on your wise sage hat and give advice to young people.  
+**[11540.36s] English:** Let me ask you to put on your wise sage hat and give advice to young people.  
 **Translation:** 
 
-**[11546.78s] English:** So if you're talking to somebody who's in high school, in college, what advice would you give them about their career, about life in general, how to live a life they can be proud of?  
+**[11546.78s] English:** So, if you're talking to somebody who's in high school or college, what advice would you give them about their career, about life in general, and how to live a life they can be proud of?  
 **Translation:** 
 
 **[11560.36s] English:** Well, I'd say.  
@@ -5779,7 +5780,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11562.82s] English:** The world is your oyster.  
 **Translation:** Vocabulary: oyster: 牡蛎
 
-**[11564.18s] English:** I mean, first order of business, you're not a victim.  
+**[11564.18s] English:** I mean, first order of business: you're not a victim.  
 **Translation:** 
 
 **[11565.98s] English:** I don't care what color you are.  
@@ -5788,7 +5789,7 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11567.10s] English:** I don't care.  
 **Translation:** 
 
-**[11567.34s] English:** You're male, female, you're gay, straight, whatever.  
+**[11567.34s] English:** You're male, female, gay, straight—whatever.  
 **Translation:** 
 
 **[11569.36s] English:** The world is your oyster.  
@@ -5806,230 +5807,230 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11576.86s] English:** Believe me, you can do anything.  
 **Translation:** 
 
-**[11578.98s] English:** OK.  
+**[11578.98s] English:** Okay.  
 **Translation:** 
 
-**[11580.50s] English:** Secondly, I would say mastery over the medium in which we're embedded is the key to the future.  
+**[11580.50s] English:** Secondly, I would say that mastery over the medium in which we're embedded is the key to the future.  
 **Translation:** 
 
-**[11591.48s] English:** So get educated, focus, work hard, you know, invest in your future by acquiring the skills that you need to be able to navigate the 21st century.  
-**Translation:** Vocabulary: embedded: 植入其中; navigate: 导航
+**[11591.48s] English:** So, get educated, focus, work hard. You know, invest in your future by acquiring the skills you need to be able to navigate the 21st century.  
+**Translation:** Vocabulary: educated: 受过教育的; embedded: 嵌入的; mastery: 精通; navigate: 导航
 
 **[11605.18s] English:** I would say.  
 **Translation:** 
 
-**[11607.02s] English:** The Chinese are coming and I don't mean anything against China.  
+**[11607.02s] English:** The Chinese are coming, and I don't mean anything against China.  
 **Translation:** 
 
-**[11610.32s] English:** I just mean to say the world's a small place and it's getting smaller.  
+**[11610.32s] English:** I just mean to say that the world's a small place, and it's getting smaller.  
 **Translation:** 
 
-**[11614.36s] English:** And, you know, you better get moving and you better get moving quickly.  
+**[11614.36s] English:** And, you know, you better get moving, and you better get moving quickly.  
 **Translation:** 
 
-**[11623.02s] English:** I'd say your identity, your coloration, your orientation, your your your category is not the most important thing about you that, you know.  
+**[11623.02s] English:** I'd say your identity, your coloration, your orientation, or your category isn't the most important thing about you, you know.  
 **Translation:** 
 
 **[11636.06s] English:** So.  
-**Translation:** Vocabulary: orientation: 方向性
+**Translation:** Vocabulary: orientation: 方向
 
 **[11636.78s] English:** The temptation to limit.  
 **Translation:** 
 
-**[11640.00s] English:** yourself. I give this speech to my kids. I say, I quote James Joyce. He has a passage in  
+**[11640.00s] English:** Yourself. I give this speech to my kids. I say, "I quote James Joyce." He has a passage in  
 **Translation:** Vocabulary: joyce: 乔伊斯; temptation: 诱惑
 
-**[11652.98s] English:** Portrait of an Artist as a Young Man, in which he says, do you know what Ireland is?  
+**[11652.98s] English:** Portrait of an Artist as a Young Man, in which he says, "Do you know what Ireland is?  
 **Translation:** 
 
-**[11660.88s] English:** Ireland is an old sow that eats her pharaoh. This is Joyce. He says,  
+**[11660.88s] English:** Ireland is an old sow that eats its young. This is Joyce. He says,  
 **Translation:** 
 
-**[11670.98s] English:** Stephan Dedalus is the character that he has in mind in this chronicle. He says,  
+**[11670.98s] English:** Stephan Dedalus is the character that he has in mind in this chronicle. He says:  
 **Translation:** 
 
-**[11676.72s] English:** your ethnic inheritance, he's talking about Irish nationalism, are like nets holding you back,  
+**[11676.72s] English:** Your ethnic inheritance, he's talking about Irish nationalism, are like nets holding you back.  
 **Translation:** Vocabulary: chronicle: 纪实; inheritance: 遗传
 
-**[11685.98s] English:** that your challenge is to learn how to turn those nets into wings,  
+**[11685.98s] English:** That your challenge is to learn how to turn those nets into wings.  
 **Translation:** 
 
-**[11691.36s] English:** and thereby to fly, flying into the open skies of modern society. Don't be your grandfather. Don't  
+**[11691.36s] English:** And thereby to fly, flying into the open skies of modern society. Don't be like your grandfather. Don't  
 **Translation:** 
 
-**[11700.62s] English:** be your father. Don't wear your things so heavily that it keeps you from being open to everything  
+**[11700.62s] English:** Be your father. Don't wear your things so heavily that it keeps you from being open to everything.  
 **Translation:** 
 
-**[11706.46s] English:** that's new in the world. Wear it lightly. Yes, everybody comes from somewhere, but it doesn't  
+**[11706.46s] English:** That's new in the world. Wear it lightly. Yes, everybody comes from somewhere, but it doesn't  
 **Translation:** 
 
-**[11712.78s] English:** have to be where you end up. You're not your father. You're not your grandfather.  
+**[11712.78s] English:** You have to be where you end up. You're not your father. You're not your grandfather.  
 **Translation:** 
 
 **[11719.68s] English:** You are.  
 **Translation:** 
 
-**[11720.88s] English:** This wonderfully blessed human being in the middle of going into the middle of the 21st century,  
+**[11720.88s] English:** This wonderfully blessed human being is in the middle of going into the middle of the 21st century.  
 **Translation:** 
 
-**[11728.94s] English:** and don't miss it. Don't live blinkedly. Don't live small. Live big.  
-**Translation:** Vocabulary: blinkedly: 目不暇接
+**[11728.94s] English:** And don't miss it. Don't live blindly. Don't live small. Live big.  
+**Translation:** Vocabulary: blindly: 盲目地
 
 **[11740.54s] English:** Live big and wear your history lightly.  
 **Translation:** 
 
-**[11747.52s] English:** Yeah. Everybody's got a mother tongue.  
+**[11747.52s] English:** Yeah. Everyone has a mother tongue.  
 **Translation:** 
 
 **[11751.34s] English:** Everybody's got a story. Everybody has a people, but the world is a small place.  
 **Translation:** 
 
-**[11756.40s] English:** I love that you're quoting.  
+**[11756.40s] English:** I love that you're quoting!  
+**Translation:** Vocabulary: quoting: 引用
+
+**[11760.00s] English:** An Irishman, one of the greatest writers of the 20th century, a profound one, but an Irishman.  
 **Translation:** 
 
-**[11760.00s] English:** an irishman one of the greatest writers of the 20th century a profound one um but an irishman  
-**Translation:** 
-
-**[11768.44s] English:** nevertheless the the uh the levels of humor within that is not lost on me let me just mention the  
+**[11768.44s] English:** Nevertheless, the levels of humor within that are not lost on me. Let me just mention the  
 **Translation:** Vocabulary: irishman: 爱尔兰人; profound: 深刻的
 
-**[11775.64s] English:** great ralph ellison the african-american writer invisible man is his uh masterpiece uh embodied  
+**[11775.64s] English:** Great, Ralph Ellison, the African-American writer, wrote "Invisible Man," which is his masterpiece and embodies.  
 **Translation:** 
 
-**[11782.50s] English:** this spirit okay we black americans we do come from somewhere that coming from somewhere from  
-**Translation:** Vocabulary: ellison: 埃利森; embodied: 体现; masterpiece: 代表作
+**[11782.50s] English:** This spirit, okay. We Black Americans, we do come from somewhere. Coming from somewhere, from  
+**Translation:** Vocabulary: ellison: 埃利森; embodies: 体现; invisible: 隐形; masterpiece: 杰作
 
-**[11787.96s] English:** slavery in america that's our ancestral heritage but that's not what we are skin and bone these are  
+**[11787.96s] English:** Slavery in America—that's our ancestral heritage, but that's not who we are. Skin and bone, these are.  
 **Translation:** 
 
-**[11797.84s] English:** superficial things the spirit and if i were a more religious person i could give a whole  
+**[11797.84s] English:** Superficial things, the spirit. And if I were a more religious person, I could give a whole  
 **Translation:** Vocabulary: ancestral: 祖先的; superficial: 表面的
 
-**[11802.58s] English:** disposition about that but it's the spirit it's that light that's inside that's that's who we are  
+**[11802.58s] English:** Disposition about that, but it's the spirit—it's that light that's inside—that's who we are.  
 **Translation:** 
 
-**[11807.36s] English:** and our challenge is to live in the fullness of it uh as opposed to this blinkered thing where we  
-**Translation:** Vocabulary: blinkered: 短视; disposition: 性格
+**[11807.36s] English:** And our challenge is to live in the fullness of it, as opposed to this blinkered thing where we  
+**Translation:** Vocabulary: blinkered: 短视; disposition: 性格倾向
 
-**[11813.62s] English:** don't look left we don't look right we're just fitting within this template  
+**[11813.62s] English:** Don't look left; we don't look right; we're just fitting within this template.  
 **Translation:** 
 
-**[11817.96s] English:** that we inherit uh that is a travesty really glenn you've lived an incredible life a productive  
-**Translation:** Vocabulary: template: 模板; travesty: 悲剧
+**[11817.96s] English:** That we inherit—uh, that is a travesty, really. Glenn, you've lived an incredible life; a productive...  
+**Translation:** Vocabulary: inherit: 遗赠; template: 模板; travesty: 讽刺
 
-**[11826.72s] English:** one but just representing um some powerful ideas some powerful ideals but life comes to an end  
+**[11826.72s] English:** One, but just representing some powerful ideas and ideals, but life comes to an end.  
 **Translation:** 
 
-**[11835.68s] English:** yeah do you think about your death are you afraid of it  
+**[11835.68s] English:** Yeah, do you think about your death? Are you afraid of it?  
 **Translation:** 
 
-**[11841.68s] English:** well  
+**[11841.68s] English:** Well,  
 **Translation:** 
 
-**[11844.36s] English:** it is a  
+**[11844.36s] English:** It is a  
 **Translation:** 
 
-**[11847.96s] English:** really interesting coincidence that you posed me that question  
+**[11847.96s] English:** Really interesting coincidence that you posed me that question.  
 **Translation:** 
 
-**[11851.30s] English:** because i'm coming from a funeral  
+**[11851.30s] English:** Because I'm coming from a funeral.  
 **Translation:** Vocabulary: coincidence: 巧合
 
-**[11854.76s] English:** uh today is sunday on the preceding tuesday five days ago i was at the funeral of eugene wesley  
+**[11854.76s] English:** Uh, today is Sunday. On the preceding Tuesday, five days ago, I was at Eugene Wesley's funeral.  
 **Translation:** 
 
-**[11867.34s] English:** smith uh who was my brother-in-law he was my sister's husband my sister leonette passed away  
-**Translation:** Vocabulary: leonette: 莱奥内特; preceding: 前一个; wesley: 韦斯利
+**[11867.34s] English:** Smith, uh, who was my brother-in-law—he was my sister's husband—my sister Leonette passed away.  
+**Translation:** Vocabulary: eugene: 尤金; leonette: 莱奥内特; preceding: 前一个
 
-**[11877.96s] English:** he passed away  
+**[11877.96s] English:** He passed away.  
 **Translation:** 
 
-**[11880.20s] English:** but while he was in prison it was his private life and in fact i have been to  
+**[11880.00s] English:** In 2021, her husband died at the age of 68 in April 2022, and I was at his funeral.  
 **Translation:** 
 
-**[11884.10s] English:** the funeral in august of 2020  
+**[11880.20s] English:** But while he was in prison, it was his private life, and in fact, I have been to  
 **Translation:** 
 
-**[11892.00s] English:** uh  
+**[11884.10s] English:** The funeral in August of 2020.  
 **Translation:** 
 
-**[11896.42s] English:** august of 2020  
+**[11892.00s] English:** Uh  
 **Translation:** 
 
-**[11901.58s] English:** before he died  
+**[11892.24s] English:** He died suddenly of a heart attack that came completely out of the blue. He seemed to be in perfect health just days ago.  
 **Translation:** 
 
-**[11904.92s] English:** august of 2020  
+**[11896.42s] English:** August of 2020  
 **Translation:** 
 
-**[11906.20s] English:** in august of 2020  
+**[11896.42s] English:** Perfect health. He was a magnificent human being. I could go into the details, but, you know.  
 **Translation:** 
 
-**[11907.24s] English:** of 2020  
+**[11901.58s] English:** Before he died,  
 **Translation:** 
 
-**[11880.00s] English:** 2021, her husband has died at the age of 68 in April of 2022, and I was at his funeral.  
+**[11903.38s] English:** Take my word for it. He was a businessman, a steel trader and metals trader. He would buy and  
+**Translation:** Vocabulary: trader: 商人
+
+**[11904.92s] English:** August of 2020  
 **Translation:** 
 
-**[11892.24s] English:** He died suddenly of a heart attack that came completely out of the blue. He seemed to be in  
+**[11906.20s] English:** In August of 2020  
 **Translation:** 
 
-**[11896.42s] English:** perfect health. He was a magnificent human being. I could go into the details, but, you know,  
+**[11907.24s] English:** Of 2020  
 **Translation:** 
 
-**[11903.38s] English:** take my word for it. He was a businessman, a steel trader, metals trader. He would buy and  
+**[11909.74s] English:** Sell. He worked mostly from his home office. He had clients, counterparties, and people he did business with.  
+**Translation:** Vocabulary: counterparties: 交易对方
+
+**[11915.72s] English:** Business with companies all over the world. He had three sons, one of whom is in his early 30s, and two of whom  
 **Translation:** 
 
-**[11909.74s] English:** sell. He worked mostly from his home office. He had clients, counterparties, people he did  
-**Translation:** Vocabulary: counterparties: 交易对手
-
-**[11915.72s] English:** business with all over the world. He had three sons, one of whom is in his early 30s, two of whom  
-**Translation:** 
-
-**[11924.52s] English:** are in their late 30s. These are my sister's children. She's deceased. Now he's deceased.  
+**[11924.52s] English:** They are in their late 30s. These are my sister's children. She is deceased. Now, he is deceased.  
 **Translation:** Vocabulary: deceased: 已故
 
 **[11930.10s] English:** The older two sons are severely developmentally disabled, and although they're in their late 30s,  
 **Translation:** 
 
-**[11936.92s] English:** they're not independently viable.  
-**Translation:** Vocabulary: developmentally: 发育上; independently: 独立地
+**[11936.92s] English:** They're not independently viable.  
+**Translation:** Vocabulary: developmentally: 发育上; independently: 独立地; viable: 可行的
 
 **[11939.74s] English:** They don't function effectively. They have to be cared for.  
 **Translation:** 
 
-**[11944.38s] English:** That responsibility has now fallen to the family, but mainly to the surviving son who lives with his  
+**[11944.38s] English:** That responsibility has now fallen to the family, but mainly to the surviving son, who lives with his  
 **Translation:** 
 
-**[11952.40s] English:** wife and his two young children and has assumed the responsibility. They've cared at home. My  
+**[11952.40s] English:** Wife and his two young children, and has assumed the responsibility. They've been caring at home. My  
 **Translation:** 
 
-**[11958.22s] English:** sister and her husband, Wesley, Eugene Wesley Smith, cared for their disabled sons at home.  
+**[11958.22s] English:** Sister and her husband, Wesley Eugene Smith, cared for their disabled sons at home.  
+**Translation:** Vocabulary: caring: 照料
+
+**[11965.00s] English:** They didn't want to see them institutionalized. They had some help from programs at the state level.  
 **Translation:** 
 
-**[11965.00s] English:** They didn't want to see them institutionalized. They had some help from programs at the state  
-**Translation:** 
+**[11969.22s] English:** And in social work, they didn't want to see them institutionalized. They had some help from  
+**Translation:** Vocabulary: institutionalized: 制度化
 
-**[11969.22s] English:** and social work. They didn't want to see them institutionalized. They had some help from  
-**Translation:** 
-
-**[11969.72s] English:** programs at the state and social work. They had some help from programs at the state and social work.  
+**[11969.72s] English:** Programs at the state and social work. They had some help from programs at the State and Social Work.  
 **Translation:** 
 
 **[11969.74s] English:** They mainly took on the burden of caring for them at home.  
+**Translation:** Vocabulary: burden: 负担
+
+**[11974.36s] English:** Anyway, I go on at length here, and I don't know how much of this you'll choose to make use of.  
 **Translation:** 
 
-**[11974.36s] English:** Anyway, I go on at length here, and I don't know how much of this you'll choose to make use of,  
+**[11979.40s] English:** And it doesn't matter, really. I'm just trying to respond to your question.  
 **Translation:** 
 
-**[11979.40s] English:** and it doesn't matter, really. I'm just trying to respond to your question.  
+**[11983.20s] English:** I was asked to offer some remarks at the funeral, and I did.  
 **Translation:** 
 
-**[11983.20s] English:** I was asked to offer some remarks at the funeral, and I offered them.  
-**Translation:** 
-
-**[11993.60s] English:** I spoke well of this great man. He was a great man. He had a straight back.  
-**Translation:** 
+**[11993.60s] English:** I spoke well of this great man. He was a great man, and he had a straight back.  
+**Translation:** Vocabulary: remarks: 悼词
 
 **[11998.60s] English:** He was a stand-up. He was a great man. He was a great man. He was a great man. He was a great man.  
 **Translation:** 
@@ -6037,269 +6038,269 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[11999.72s] English:** He was a great man. He was a great man. He was a great man.  
 **Translation:** 
 
-**[12000.00s] English:** he could be counted on. His word was his bond. He had broad shoulders. He carried a lot of people  
+**[12000.00s] English:** He could be counted on. His word was his bond. He had broad shoulders, and he carried a lot of people.  
 **Translation:** 
 
-**[12005.84s] English:** with him, business associates, family members, and so forth and so on.  
+**[12005.84s] English:** With him, business associates, family members, and so on.  
 **Translation:** 
 
-**[12010.48s] English:** He had a huge heart. He was a giving and kind person. He had a great mind. He was an intellectual,  
+**[12010.48s] English:** He had a huge heart. He was a giving and kind person. He had a great mind. He was an intellectual.  
 **Translation:** 
 
-**[12016.16s] English:** even though as a businessman, much of his day was taken up with the minutia of contracts and  
-**Translation:** Vocabulary: minutia: 细枝末节
+**[12016.16s] English:** Even though, as a businessman, much of his day was taken up with the minutiae of contracts and  
+**Translation:** Vocabulary: minutiae: 琐碎细节
 
-**[12024.24s] English:** the details of the order being delivered and not being delivered, of the quality of the product,  
+**[12024.24s] English:** The details of the order being delivered and not being delivered, as well as the quality of the product,  
 **Translation:** 
 
-**[12030.10s] English:** of the financing, and so forth and so on. There was still a powerful mind there.  
+**[12030.10s] English:** Of the financing, and so forth, there was still a powerful mind there.  
+**Translation:** Vocabulary: financing: 融资情况
+
+**[12034.12s] English:** Yeah, he was a powerful mind. He studied and read books. He was interested in music and art.  
 **Translation:** 
 
-**[12034.12s] English:** Yeah, he was a powerful mind. He studied. He read books. He was interested in music and art.  
-**Translation:** 
-
-**[12038.80s] English:** He was a spiritual seeker, had been ordained as a child minister in his youth. While he remained  
+**[12038.80s] English:** He was a spiritual seeker, having been ordained as a child minister in his youth. While he remained,  
 **Translation:** Vocabulary: ordained: 受戒
 
-**[12048.24s] English:** a master of the Christian canon, he also explored  
+**[12048.24s] English:** A master of the Christian canon, he also explored.  
 **Translation:** 
 
-**[12054.24s] English:** Eastern religion and other spiritual paths and kind of stood above any particular tradition as  
+**[12054.24s] English:** Eastern religions and other spiritual paths kind of stood above any particular tradition, as  
 **Translation:** 
 
-**[12061.96s] English:** a man who believed in God, but thought that God manifests himself in many ways to human beings  
+**[12061.96s] English:** A man who believed in God, but thought that God manifests Himself in many ways to human beings.  
 **Translation:** 
 
-**[12067.60s] English:** and that there was much to learn from other religious traditions as well. This is Wesley.  
+**[12067.60s] English:** And that there was much to learn from other religious traditions as well. This is Wesley.  
 **Translation:** Vocabulary: manifests: 显现
 
-**[12073.06s] English:** We called him Wesley by his middle name, Eugene Wesley Smith. May he rest in peace.  
+**[12073.06s] English:** We called him Wesley, by his middle name, Eugene Wesley Smith. May he rest in peace.  
 **Translation:** 
 
-**[12077.94s] English:** 68. That's five years younger than I am right now. He dropped dead without any warning. I could too.  
-**Translation:** Vocabulary: wesley: 威利斯
+**[12077.94s] English:** That's five years younger than I am, right now. He dropped dead without any warning. I could too.  
+**Translation:** Vocabulary: eugene: 尤金; wesley: 韦斯利
 
-**[12084.24s] English:** How did that make you feel? What were the thoughts in your mind leading up to it,  
+**[12084.24s] English:** How did that make you feel? What were the thoughts in your mind leading up to it?  
 **Translation:** 
 
-**[12091.68s] English:** having to give that speech in the days that followed?  
+**[12091.68s] English:** Having to give that speech in the days that followed?  
 **Translation:** 
 
-**[12094.18s] English:** First of all, I wondered, what would I say? What would I say? There was no way to prepare,  
+**[12094.18s] English:** First of all, I wondered what I would say. What would I say? There was no way to prepare.  
 **Translation:** 
 
-**[12098.48s] English:** and I decided I rehearsed in my mind. He had a straight back. He had broad shoulders. He had  
-**Translation:** Vocabulary: rehearsed: 反复练习
+**[12098.48s] English:** And I decided: I rehearsed in my mind. He had a straight back. He had broad shoulders. He had  
+**Translation:** Vocabulary: rehearsed: 反复思考
 
-**[12103.94s] English:** a big heart. He had a great mind. He had a capacious spirit and whatnot. I used that  
+**[12103.94s] English:** A big heart. He had a great mind. He had a capacious spirit, and whatnot. I used that.  
 **Translation:** 
 
-**[12110.04s] English:** as a template for making my remarks. But my main thought was, my God,  
-**Translation:** Vocabulary: template: 模板
+**[12110.04s] English:** As a template for making my remarks, but my main thought was, "My God,  
+**Translation:** Vocabulary: remarks: 讲话; template: 模板
 
-**[12114.24s] English:** life is precious and life is fleeting, and death is a part of life.  
+**[12114.24s] English:** Life is precious and life is fleeting, and death is a part of life.  
 **Translation:** 
 
-**[12120.00s] English:** my death is a part of my life. And I thought, you know, well, I want to take better care of  
-**Translation:** Vocabulary: fleeting: 短暂
+**[12120.00s] English:** My death is a part of my life. And I thought, you know, well, I want to take better care of myself.  
+**Translation:** Vocabulary: fleeting: 短暂的
 
-**[12126.76s] English:** myself than I do, you know, et cetera, et cetera. But I also thought a lot of this is not in my  
+**[12126.76s] English:** Myself, than I do, you know, et cetera, et cetera. But I also thought a lot of this is not in my control.  
 **Translation:** 
 
-**[12132.32s] English:** hands at all. I thought one should have his affairs in order. My brother did not have all  
+**[12132.32s] English:** Hands at all. I thought one should have his affairs in order. My brother did not have them all.  
 **Translation:** 
 
-**[12137.86s] English:** of his affairs in order in the sense that there is a lot of, you know, things are going to probate.  
+**[12137.86s] English:** Of his affairs in order, in the sense that there is a lot of things going to probate.  
 **Translation:** 
 
-**[12142.62s] English:** There was no will. There's, you know, this is kind of unsettled. I don't want that to happen  
-**Translation:** Vocabulary: probate: 遗嘱认证; unsettled: 不明确
+**[12142.62s] English:** There was no will. There's, you know, this is kind of unsettled. I don't want that to happen.  
+**Translation:** Vocabulary: probate: 遗嘱认证; unsettled: 未解决
 
-**[12147.16s] English:** to my surviving family members. I want to have my affairs such that should, heaven forbid,  
+**[12147.16s] English:** To my surviving family members, I want my affairs such that, heaven forbid,  
 **Translation:** 
 
-**[12154.38s] English:** I fall over one day and don't get up again. People don't have to scramble about how to  
-**Translation:** Vocabulary: scramble: 忙乱
+**[12154.38s] English:** I fall over one day and don't get up again. People don't have to scramble about how to.  
+**Translation:** Vocabulary: scramble: 乱哄哄
 
-**[12160.20s] English:** take care of things from that point forward. But as a human, are you afraid?  
+**[12160.20s] English:** Take care of things from that point forward. But, as a human, are you afraid?  
 **Translation:** 
 
-**[12167.46s] English:** I'm afraid. Now, I read this wonderful book called The Swerve. It's about Lucretius. It's about  
+**[12167.46s] English:** I'm afraid. Now, I read this wonderful book called *The Swerve*. It's about Lucretius. It's about  
 **Translation:** Vocabulary: swerve: 偏离
 
-**[12175.30s] English:** the nature of things, which is this  
+**[12175.30s] English:** The nature of things, which is this.  
 **Translation:** 
 
-**[12177.14s] English:** great classical work from the Roman period by this guy, Lucretius. And I'm trying to think of  
+**[12177.14s] English:** Great classical work from the Roman period by this guy, Lucretius. And I'm trying to think of  
 **Translation:** 
 
-**[12184.58s] English:** the name of the author, but you could look it up. The Swerve is the book. It won like a National  
+**[12184.58s] English:** The name of the author, but you could look it up. The Swerve is the book. It won, like, a National.  
 **Translation:** 
 
-**[12188.74s] English:** Book Award or a Pulitzer Prize. And it's the history of the recovery of this book  
+**[12188.74s] English:** Book Award or a Pulitzer Prize. And it's the history of the recovery of this book.  
 **Translation:** Vocabulary: pulitzer: 普利策奖
 
-**[12193.46s] English:** by one of these Italian, Renaissance Italian people who would go into the monasteries in  
+**[12193.46s] English:** By one of these Italian Renaissance people who would go into the monasteries,  
 **Translation:** 
 
-**[12202.78s] English:** Central Europe and look through the scrolls. And they discovered,  
-**Translation:** Vocabulary: renaissance: 文艺复兴; scrolls: 手卷
+**[12202.78s] English:** Central Europe, and look through the scrolls. And they discovered,  
+**Translation:** Vocabulary: monasteries: monastery; renaissance: 文艺复兴; scrolls: 卷轴
 
-**[12207.14s] English:** these classical works from antiquity, which had been lost through the Dark Ages. And they  
+**[12207.14s] English:** These classical works from antiquity, which had been lost through the Dark Ages, and they  
 **Translation:** 
 
-**[12212.08s] English:** republish and read these works. And Lucretius's great work on the nature of things was one of  
+**[12212.08s] English:** Republish and read these works. And Lucretius's great work on the nature of things was one of  
 **Translation:** Vocabulary: antiquity: 古代
 
-**[12221.54s] English:** these books, Poggio Baccalini. I don't remember the Italian guy's name, but this all could be  
+**[12221.54s] English:** These books, Poggio Baccanelli. I don't remember the Italian guy's name, but this all could be.  
 **Translation:** 
 
-**[12227.82s] English:** looked up. Yeah, Poggio Baccalini, 15th century. 15th century and the name of the  
-**Translation:** Vocabulary: baccalini: 巴卡利尼
+**[12227.82s] English:** Looked up. Yeah, Poggio Baccanelli, 15th century. 15th century, and the name of the  
+**Translation:** Vocabulary: baccanelli: 巴卡内利
 
-**[12237.14s] English:** author is Stephen Greenblatt.  
+**[12237.14s] English:** The author is Stephen Greenblatt.  
 **Translation:** 
 
-**[12240.00s] English:** Steven Greenblatt, a magnificent book and a terrific story. Anyway, one of Lucretius's points, he was an atheist. I mean, he was a Roman. I mean, he didn't believe in mysticism. And he argued it's irrational to be afraid of death. Why should I fear death? Death is coming to all of us.  
+**[12240.00s] English:** Steven Greenblatt, a magnificent book and a terrific story. Anyway, one of Lucretius's points: he was an atheist. I mean, he was a Roman, and he didn't believe in mysticism. He argued it's irrational to be afraid of death. Why should I fear death? Death is coming to all of us.  
 **Translation:** 
 
-**[12263.20s] English:** The point of being afraid. I mean, I'm wasting my time fearing something that I have no ultimate control over. It's irrational to be afraid of death.  
+**[12263.20s] English:** The point of being afraid: I mean, I'm wasting my time fearing something that I have no ultimate control over. It's irrational to be afraid of death.  
 **Translation:** 
 
 **[12274.04s] English:** Yeah, because you can't predict when it happens. You only know that it happens. So why be afraid? How's that?  
-**Translation:** Vocabulary: irrational: 不合逻辑
+**Translation:** Vocabulary: fearing: 害怕; irrational: 不合逻辑
 
-**[12283.52s] English:** And therefore live every day fully, live every day purposefully, you know, and so on. But these are all just words.  
+**[12283.52s] English:** And therefore, live every day fully, live every day purposefully, you know—and so on. But these are all just words.  
 **Translation:** 
 
-**[12291.68s] English:** You know, I don't want to die. I want to live forever. I'm not going to live forever. I don't want to. I don't want to suffer. I see people suffering.  
+**[12291.68s] English:** You know, I don't want to die. I want to live forever. I'm not going to live forever—I don't want to. I don't want to suffer. I see people suffering.  
 **Translation:** Vocabulary: purposefully: 有目的
 
-**[12300.96s] English:** I saw my late wife, Linda Datcher Lowry, Dr. Linda Datcher Lowry, professor of economics at Tufts University, whom I met in graduate school at MIT. Black woman from Baltimore. We married. We raised two sons together. She died at the age of 59 from metastatic breast cancer.  
+**[12300.96s] English:** I saw my late wife, Dr. Linda Datcher Lowry, a professor of economics at Tufts University, whom I met in graduate school at MIT. She was a Black woman from Baltimore. We married and raised two sons together. She died at the age of 59 from metastatic breast cancer.  
 **Translation:** 
 
-**[12321.68s] English:** And I watched her suffer and I watched her die. And it took a while. And we cared for her at home right up until the very end. She died in our bed with our sons on either side of her and the dog curled up by the door, the porch door in the bedroom. And she expired. And I watched her suffer and I watched her die. And I don't want to suffer. Who does? I don't want to die.  
-**Translation:** Vocabulary: expired: 去世; linda: 琳达; lowry: 洛里; metastatic: 转移的; tufts: 塔夫茨
+**[12321.68s] English:** And I watched her suffer and I watched her die. It took a while. We cared for her at home right up until the very end. She died in our bed, with our sons on either side of her, and the dog curled up by the door—by the porch door in the bedroom. And she expired. And I don't want to suffer. Who does? I don't want to die.  
+**Translation:** Vocabulary: baltimore: 巴尔的摩; curled: 蜷缩; datcher: 达奇; expired: 去世; linda: 琳达; lowry: 洛里; metastatic: 转移性; tufts: 塔夫茨
 
 **[12349.60s] English:** I am likely to suffer.  
 **Translation:** 
 
-**[12351.68s] English:** before I die. I am likely to see my death coming and to lament it.  
+**[12351.68s] English:** Before I die, I am likely to see my death coming and to lament it.  
 **Translation:** Vocabulary: lament: 哀悼
 
-**[12360.00s] English:** There is a book by Richard John Newhouse, the theologian, called As I Lay Dying. As I Lay Dying, Richard John Newhouse. He had stomach cancer, and he thought he was dying, and he wrote this book As He Lay Dying.  
+**[12360.00s] English:** There is a book by Richard John Newhouse, the theologian, called "As I Lay Dying." Richard John Newhouse had stomach cancer, and he thought he was dying, so he wrote this book, "As He Lay Dying.  
 **Translation:** 
 
-**[12377.82s] English:** And then he recovered. He went into remission, and he had another couple of years. He thought he was dying, and he had another couple of years. And I can remember meeting him at a bookstore in suburban Boston when he was on a tour.  
-**Translation:** Vocabulary: newhouse: 纽豪斯; suburban: 郊区; theologian: 神学家
+**[12377.82s] English:** And then he recovered. He went into remission and had another couple of years. He thought he was dying, and he had another couple of years. And I can remember meeting him at a bookstore in suburban Boston when he was on a tour.  
+**Translation:** Vocabulary: newhouse: 纽豪斯; suburban: 近郊; theologian: 神学家
 
 **[12393.76s] English:** This was a friend of mine, a theologian and public intellectual. He founded the Institute on Religion and Public Life in New York City, which still exists, Richard John Newhouse.  
 **Translation:** 
 
-**[12407.02s] English:** And he's contemplating his own death from the point of view of a Christian minister. He was first a Lutheran pastor, and then he converted to Catholicism, or as he would have put it, I returned to the church, because he thought the Renaissance was over.  
-**Translation:** Vocabulary: contemplating: 考虑; lutheran: 路德教的; renaissance: 文艺复兴
+**[12407.02s] English:** And he is contemplating his own death from the point of view of a Christian minister. He was first a Lutheran pastor, and then he converted to Catholicism—or, as he would have put it, "I returned to the Church," because he thought the Renaissance was over.  
+**Translation:** Vocabulary: contemplating: 考虑; converted: 改宗; lutheran: 路德教的; pastor: 牧师; renaissance: 文艺复兴
 
-**[12420.66s] English:** I mean, I'm sorry, the Reformation, Richard thought was over. He says there's only one church, you know, et cetera. Get into theology stuff here.  
+**[12420.66s] English:** I mean, I'm sorry, but Richard thought the Reformation was over. He says there's only one church, you know, et cetera. Get into theology stuff here.  
 **Translation:** 
 
-**[12430.98s] English:** But I'm saying all that to say, I read that book aloud to my wife, Linda, as she lay.  
-**Translation:** 
+**[12430.98s] English:** But I'm saying all that to say: I read that book aloud to my wife, Linda, as she lay.  
+**Translation:** Vocabulary: linda: 琳达
 
 **[12437.02s] English:** Dying in that bed. I read that book, and it was filled with hope. I mean, it first acknowledged the dread.  
 **Translation:** 
 
-**[12445.18s] English:** Yes, I lie dying. I don't want to die. I'm a Christian minister. Christ was raised from the dead. I'm supposed to believe in everlasting life.  
-**Translation:** Vocabulary: everlasting: 永恒
+**[12445.18s] English:** Yes, I am lying dying. I don't want to die. I'm a Christian minister. Christ was raised from the dead. I'm supposed to believe in everlasting life.  
+**Translation:** Vocabulary: everlasting: 永恒的
 
 **[12454.16s] English:** But the fact of the matter is, this is me, and I'm lying here, and I'm dying. This is the end of me.  
 **Translation:** 
 
-**[12459.76s] English:** How are you going to do anything other than dread the end of me? So let's acknowledge that I don't want to die.  
+**[12459.76s] English:** How are you going to do anything other than dread the end of me? So, let's acknowledge that I don't want to die.  
 **Translation:** 
 
 **[12465.14s] English:** OK, I'm just going to tell you that up front.  
 **Translation:** 
 
-**[12467.78s] English:** But that is not the end of my death is not the end of life.  
+**[12467.78s] English:** But that is not the end of my death; it is not the end of life.  
 **Translation:** 
 
-**[12475.36s] English:** I have lived well and fully. I will go and do my best.  
+**[12475.36s] English:** I have lived well and fully. I will go, and do my best.  
 **Translation:** 
 
-**[12480.00s] English:** up until the end. I will accept what is inevitable, and I will hold out this belief. And  
+**[12480.00s] English:** Up until the end, I will accept what is inevitable, and I will hold on to this belief.  
 **Translation:** 
 
-**[12487.04s] English:** he's a Christian minister, so he holds out this belief. And he knows that the belief is not  
+**[12487.04s] English:** He's a Christian minister, so he holds this belief out. And he knows that the belief is not  
 **Translation:** 
 
-**[12490.84s] English:** rational. It's not a reasoned, deductive, scientific conclusion. It's spiritual in the  
+**[12490.84s] English:** Rational. It's not a reasoned, deductive, scientific conclusion. It's spiritual in the  
 **Translation:** Vocabulary: deductive: 演绎的
 
-**[12498.34s] English:** most fundamental way. It is something that people hold on to, and they have hope. And he had hope.  
+**[12498.34s] English:** Most fundamentally, it is something that people hold onto, and they have hope. And he had hope.  
 **Translation:** 
 
-**[12505.78s] English:** I don't know if I have that hope. I used to be, but I'm no longer a Christian, and I'm no longer  
+**[12505.78s] English:** I don't know if I have that hope anymore. I used to, but I'm no longer a Christian.  
+**Translation:** Vocabulary: fundamentally: 从根本上
+
+**[12517.58s] English:** A theist, really? I'm with Lucretius there. I mean, there's no magic going on here.  
 **Translation:** 
 
-**[12517.58s] English:** a theist, really. I'm with Lucretius there. I mean, there's no magic that's going on here.  
-**Translation:** 
-
-**[12526.60s] English:** There's no unseen hand behind the scene that's arranging things. What I believe is that when  
-**Translation:** 
+**[12526.60s] English:** There's no unseen hand behind the scenes that's arranging things. What I believe is that when  
+**Translation:** Vocabulary: arranging: 安排
 
 **[12532.42s] English:** I look at the natural world, I see the evolution of the world, and I see the evolution of the  
 **Translation:** 
 
-**[12535.76s] English:** world, and I see the evolution of the world. And I see the evolution of the world, and I see the  
+**[12535.76s] English:** World, and I see the evolution of the world. And I see the  
 **Translation:** 
 
-**[12535.78s] English:** the species i see the organic development of the of the planets i mean the earth is going to not  
+**[12535.78s] English:** The species I see the organic development of the planets; I mean, the Earth is going to not.  
 **Translation:** 
 
-**[12541.86s] English:** exist in a finite number of years i think with a very high probability the sun is going to die  
-**Translation:** Vocabulary: finite: 有限的
+**[12541.86s] English:** Exist in a finite number of years, I think. With a very high probability, the Sun is going to die.  
+**Translation:** Vocabulary: finite: 有穷的
 
-**[12548.42s] English:** it's going to you know implode it's going to go supernova whatever is going to happen and there's  
+**[12548.42s] English:** It's going to, you know, implode. It's going to go supernova. Whatever is going to happen, and there's  
 **Translation:** 
 
-**[12553.38s] English:** not going to be any there there what's the meaning of life glenn larry that's the meaning of life  
-**Translation:** Vocabulary: implode: 坍塌; supernova: 超新星
+**[12553.38s] English:** Not going to be any there, there. What's the meaning of life, Glenn? Larry, that's the meaning of life.  
+**Translation:** Vocabulary: implode: 爆炸; supernova: 超新星
 
-**[12561.06s] English:** yeah let's go let's go what's the why or is that something economists and social scientists  
+**[12561.06s] English:** Yeah, let's go. Let's go. What's the why? Or is that something economists and social scientists  
 **Translation:** 
 
-**[12569.86s] English:** and mathematicians are not equipped to answer surely you know i think we live we try to live  
-**Translation:** Vocabulary: economists: 经济学家; mathematicians: 数学家
+**[12569.86s] English:** And mathematicians are not equipped to answer. Surely, you know? I think we live—we try to live.  
+**Translation:** Vocabulary: economists: 经济学家; equipped: 有能力; mathematicians: 数学家
 
-**[12576.90s] English:** well and meaningfully within our time we bond we reproduce we try to pass on and we accept  
+**[12576.90s] English:** Well, and meaningfully within our time, we bond, we reproduce, we try to pass on, and we accept.  
 **Translation:** 
 
-**[12584.34s] English:** our limitations and our mortality we try to contribute  
-**Translation:** 
+**[12584.34s] English:** Our limitations and our mortality—we try to contribute.  
+**Translation:** Vocabulary: reproduce: 繁衍
 
-**[12591.06s] English:** um and uh that's through our children and uh through our work um  
+**[12591.06s] English:** Um, and uh, that's through our children and through our work, um.  
 **Translation:** 
 
 **[12600.00s] English:** And we're in this together. We're not in this alone. We are connected to other people.  
 **Translation:** 
 
-**[12607.94s] English:** I get a lot of gratitude out of teaching. I'm a teacher. My students are going to outlive me.  
+**[12607.94s] English:** I get a lot of gratitude out of teaching. I'm a teacher, and my students are going to outlive me.  
 **Translation:** 
 
-**[12615.86s] English:** They're going to have students. I'm a writer. My writing is going to outlive me. I don't want to be  
+**[12615.86s] English:** They're going to have students. I'm a writer. My writing is going to outlive me. I don't want to be remembered solely for it.  
+**Translation:** Vocabulary: outlive: 活得比...长
+
+**[12621.82s] English:** Self-important or pretentious here; I doubt that I'll be the James Joyce of the 21st.  
 **Translation:** 
 
-**[12621.82s] English:** self-important or pretentious here. I doubt that I'm going to be the James Joyce of the 21st  
+**[12627.94s] English:** Century. They may not be reading my stuff in 100 years, as people will certainly be reading.  
+**Translation:** Vocabulary: joyce: 乔伊斯; pretentious: 虚张声势
+
+**[12633.78s] English:** Ulysses in 100 years, but I try to have an impact on the world that I'm a part of and try to leave  
 **Translation:** 
 
-**[12627.94s] English:** century. They may not be reading my stuff in 100 years, as people will certainly be reading  
-**Translation:** Vocabulary: joyce: 乔伊斯; pretentious: 自命不凡
-
-**[12633.78s] English:** Ulysses in 100 years. But I try to have an impact on the world that I'm a part of and try to leave  
-**Translation:** 
-
-**[12643.88s] English:** a legacy that's dignified. I could give some flowery words here, truth-seeking and whatnot.  
-**Translation:** Vocabulary: dignified: 庄严; flowery: 华丽; whatnot: 等等
+**[12643.88s] English:** A legacy that's dignified. I could give some flowery words here: truth-seeking, and so on.  
+**Translation:** Vocabulary: dignified: 有尊严的; flowery: 华丽
 
 **[12651.10s] English:** What about love?  
 **Translation:** 
@@ -6310,34 +6311,34 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[12654.82s] English:** What role does love play in this?  
 **Translation:** 
 
-**[12657.94s] English:** Love makes the world go round. Without love, what have we got? We don't have  
+**[12657.94s] English:** Love makes the world go round. Without love, what have we got? We don't have anything.  
 **Translation:** 
 
-**[12664.20s] English:** family. We certainly have missed out if love is not a central part of our existence.  
+**[12664.20s] English:** Family. We certainly have missed out if love is not a central part of our existence.  
 **Translation:** 
 
-**[12678.38s] English:** But stop asking me questions like that.  
+**[12678.38s] English:** But, stop asking me questions like that.  
 **Translation:** 
 
 **[12681.82s] English:** Glenn, thank you for doing everything you do, for thinking the way you do, for being  
 **Translation:** 
 
-**[12686.00s] English:** fearless and bold.  
+**[12686.00s] English:** Fearless and bold.  
 **Translation:** Vocabulary: fearless: 无所畏惧
 
-**[12687.94s] English:** Thank you for being who you are in the Glenn Show, in your writing, in your work, and just  
+**[12687.94s] English:** Thank you for being who you are on the Glenn Show, in your writing, in your work, and just  
 **Translation:** 
 
-**[12692.60s] English:** being who you are. Thank you for being you. And thank you for giving me the huge honor of spending  
-**Translation:** Vocabulary: glenn: Glenn 演员
+**[12692.60s] English:** Being who you are. Thank you for being you, and thank you for giving me the huge honor of spending  
+**Translation:** Vocabulary: glenn: 格伦
 
-**[12697.46s] English:** your extremely valuable time with me today. This was awesome.  
+**[12697.46s] English:** Your extremely valuable time with me today. This was awesome.  
 **Translation:** 
 
 **[12700.84s] English:** It's been my pleasure, Lex. I mean, really. And it has been like four hours, man. I mean,  
 **Translation:** 
 
-**[12705.62s] English:** you're wearing me out.  
+**[12705.62s] English:** You're wearing me out.  
 **Translation:** 
 
 **[12706.44s] English:** For me.  
@@ -6349,17 +6350,17 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[12709.10s] English:** Thanks for listening to this conversation with Glenn Lowry. To support this podcast,  
 **Translation:** 
 
-**[12712.98s] English:** please check out our sponsors in the description. And now,  
+**[12712.98s] English:** Please check out our sponsors in the description. And now,  
 **Translation:** 
 
-**[12716.46s] English:** let me leave you with some words from Glenn Lowry.  
+**[12716.46s] English:** Let me leave you with some words from Glenn Lowry.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
 **[12717.94s] English:** Dr. Martin Luther King, Jr.  
 **Translation:** 
 
 **[12720.00s] English:** If you can't fly, then run.  
-**Translation:** 
+**Translation:** Vocabulary: luther: 路德
 
 **[12722.64s] English:** If you can't run, then walk.  
 **Translation:** 
@@ -6367,10 +6368,10 @@ Source file: Lex Fridman - Glenn Loury： Race, Racism, Identity Politics, and C
 **[12725.02s] English:** If you can't walk, then crawl.  
 **Translation:** 
 
-**[12727.58s] English:** But whatever you do, you have to keep moving forward.  
+**[12727.58s] English:** But, whatever you do, you have to keep moving forward.  
 **Translation:** 
 
-**[12732.14s] English:** Thank you for listening and hope to see you next time.  
+**[12732.14s] English:** Thank you for listening, and I hope to see you next time.  
 **Translation:** 
 
 

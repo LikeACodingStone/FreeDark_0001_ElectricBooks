@@ -1,5 +1,6 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex Fridman Podcast #381.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** On one axis, you have more hardware coming in.  
 **Translation:** 
@@ -7,47 +8,47 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1.82s] English:** On the other hand, you have an explosion of innovation in AI.  
 **Translation:** 
 
-**[5.46s] English:** And so what happened with both TensorFlow and PyTorch is that the explosion of innovation in AI has led to,  
+**[5.46s] English:** And so, what happened with both TensorFlow and PyTorch is that the explosion of innovation in AI has led to,  
 **Translation:** 
 
-**[11.32s] English:** it's not just about matrix multiplication and convolution.  
+**[11.32s] English:** It's not just about matrix multiplication and convolution.  
 **Translation:** Vocabulary: convolution: 卷积; matrix: 矩阵; multiplication: 乘法
 
-**[13.76s] English:** These things have now like 2,000 different operators.  
+**[13.76s] English:** These things now have over 2,000 different operators.  
 **Translation:** 
 
-**[17.18s] English:** And on the other hand, you have, I don't know how many pieces of hardware there are out there.  
-**Translation:** 
+**[17.18s] English:** And on the other hand, you have—I don't know how many pieces of hardware there are out there.  
+**Translation:** Vocabulary: operators: 操作员
 
 **[20.38s] English:** It's a lot.  
 **Translation:** 
 
-**[21.04s] English:** Part of my thesis, part of my belief of where computing goes, if you look out 10 years from now,  
-**Translation:** Vocabulary: computing: 计算技术
+**[21.04s] English:** Part of my thesis, and part of my belief about where computing will go, if you look 10 years from now,  
+**Translation:** Vocabulary: computing: 计算; thesis: 论文
 
-**[26.24s] English:** is it's not going to get simpler.  
+**[26.24s] English:** It's not going to get simpler.  
 **Translation:** 
 
 **[27.32s] English:** If physics isn't going back to where we came from, it's only going to get weirder from here on out, right?  
+**Translation:** Vocabulary: weirder: 更奇怪
+
+**[33.52s] English:** And so, to me, the exciting part about what we're building is that it's a universal platform.  
 **Translation:** 
 
-**[33.52s] English:** And so to me, the exciting part about what we're building is it's about building that universal platform,  
-**Translation:** 
-
-**[40.26s] English:** which the world can continue to get weird, because again, I don't think it's avoidable.  
+**[40.26s] English:** Which the world can continue to get weird, because again, I don't think it's avoidable.  
 **Translation:** 
 
 **[44.26s] English:** It's physics.  
 **Translation:** 
 
-**[45.30s] English:** But we can help lift people's scale, do things with it,  
+**[45.30s] English:** But we can help lift people's standards, do things with it.  
 **Translation:** 
 
-**[48.36s] English:** and they don't have to rewrite their code every time a new device comes out.  
+**[48.36s] English:** And they don't have to rewrite their code every time a new device comes out.  
 **Translation:** 
 
 **[50.90s] English:** And I think that's pretty cool.  
-**Translation:** 
+**Translation:** Vocabulary: rewrite: 重写代码
 
 **[54.38s] English:** The following is a conversation with Chris Ladner.  
 **Translation:** 
@@ -58,31 +59,31 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[59.26s] English:** As I've said many times before, he's one of the most brilliant engineers in modern computing.  
 **Translation:** 
 
-**[64.64s] English:** Having created LLM Compiler Infrastructure Project, the Clang Compiler, the Swift Programming Language,  
+**[64.64s] English:** Having created the LLM Compiler Infrastructure Project, the Clang Compiler, and the Swift Programming Language,  
 **Translation:** Vocabulary: clang: clang 编译器
 
-**[70.96s] English:** a lot of key contributions to TensorFlow and TPUs as part of Google.  
+**[70.96s] English:** A lot of key contributions to TensorFlow and TPUs, as part of Google.  
 **Translation:** 
 
 **[74.30s] English:** He served as Vice President of Autopilot Software at Tesla, was a software innovator and leader at Apple,  
 **Translation:** Vocabulary: innovator: 创新者
 
-**[81.92s] English:** and now he co-created a new full-stack AI infrastructure for distribution.  
+**[81.92s] English:** And now, he co-created a new full-stack AI infrastructure for distribution.  
 **Translation:** 
 
-**[87.32s] English:** He has distributed training, inference, and deployment on all kinds of hardware called Modular,  
+**[87.32s] English:** He has distributed training, inference, and deployment on all kinds of hardware called Modular.  
 **Translation:** Vocabulary: deployment: 部署; inference: 推理; modular: 模块化
 
-**[92.50s] English:** and a new programming language called Mojo that is a superset of Python,  
+**[92.50s] English:** And a new programming language called Mojo, which is a superset of Python.  
 **Translation:** 
 
-**[98.12s] English:** giving you all the usability of Python, but with the performance of C, C++.  
+**[98.12s] English:** Giving you all the usability of Python, but with the performance of C and C++.  
 **Translation:** Vocabulary: usability: 易用性
 
 **[103.16s] English:** In many cases, Mojo code has demonstrated over 30,000x speedup over Python.  
 **Translation:** 
 
-**[111.56s] English:** If you love machine learning, if you love Python, you should definitely give Mojo a try.  
+**[111.56s] English:** If you love machine learning, or if you love Python, you should definitely give Mojo a try.  
 **Translation:** Vocabulary: speedup: 加速
 
 **[116.36s] English:** This program is a great example of that.  
@@ -91,109 +92,109 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[117.22s] English:** This programming language, this new AI framework,  
 **Translation:** 
 
-**[120.00s] English:** and infrastructure, and this conversation with Chris is mind-blowing. I love it.  
+**[120.00s] English:** And infrastructure, and this conversation with Chris is mind-blowing. I love it.  
 **Translation:** 
 
-**[127.34s] English:** It gets pretty technical at times, so I hope you hang on for the ride. This is the Lex Friedman  
+**[127.34s] English:** It gets pretty technical at times, so I hope you hang on for the ride. This is Lex Friedman.  
 **Translation:** 
 
-**[132.68s] English:** podcast. To support it, please check out our sponsors in the description. And now, dear friends,  
+**[132.68s] English:** Podcast. To support it, please check out our sponsors in the description. And now, dear friends,  
 **Translation:** 
 
-**[137.98s] English:** here's Chris Lattner. It's been, I think, two years since we last talked, and in that time,  
+**[137.98s] English:** Here's Chris Lattner. It's been, I think, two years since we last talked, and in that time,  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[144.30s] English:** you somehow went and co-created a new programming language called Mojo. So it's optimized for AI.  
+**[144.30s] English:** You somehow went and co-created a new programming language called Mojo. It's optimized for AI.  
 **Translation:** 
 
 **[151.80s] English:** It's a superset of Python. Let's look at the big picture. What is the vision for Mojo?  
-**Translation:** Vocabulary: optimized: 优化
+**Translation:** Vocabulary: optimized: 优化的
 
-**[157.60s] English:** For Mojo? Well, I think you have to zoom out. I've been working on a lot of related technologies for  
+**[157.60s] English:** For Mojo? Well, I think you have to zoom out. I've been working on a lot of related technologies for.  
 **Translation:** 
 
-**[163.38s] English:** many, many years. I've worked on LLVM and a lot of things, and mobile, and servers, and things like  
+**[163.38s] English:** Many, many years. I've worked on LLVM and a lot of things, and mobile, and servers, and things like that.  
 **Translation:** 
 
-**[169.20s] English:** this. But the world's changing, and what's happened with AI is we have new GPUs and new  
+**[169.20s] English:** This. But the world's changing, and what's happened with AI is that we have new GPUs and new  
 **Translation:** 
 
-**[174.30s] English:** machine learning accelerators and other ASICs and things like that that make AI go real fast.  
+**[174.30s] English:** Machine learning accelerators and other ASICs, and things like that, make AI go really fast.  
 **Translation:** Vocabulary: accelerators: 加速器
 
-**[180.74s] English:** At Google, I worked on TPUs. That's one of the biggest, larger-scale deployed systems that exist  
+**[180.74s] English:** At Google, I worked on TPUs. That's one of the biggest, larger-scale deployed systems that exist.  
 **Translation:** 
 
-**[185.52s] English:** for AI. And really what you see is if you look across all of the things that are happening in  
+**[185.52s] English:** For AI, and really what you see is that if you look across all of the things that are happening in  
 **Translation:** Vocabulary: deployed: 部署
 
-**[190.44s] English:** the industry, there's this new compute platform coming. And it's not just about CPUs, or GPUs,  
+**[190.44s] English:** The industry is seeing a new compute platform coming. And it's not just about CPUs or GPUs.  
 **Translation:** 
 
-**[196.22s] English:** or TPUs, or NPUs, or IPUs, or whatever, all the PUs. It's about how do we program these things?  
-**Translation:** 
+**[196.22s] English:** Or TPUs, or NPUs, or IPUs, or whatever—just all the PUs. It's about how do we program these things?  
+**Translation:** Vocabulary: compute: 计算
 
 **[204.30s] English:** For software folks like us, it doesn't do us any good if there's this amazing hardware that we  
 **Translation:** 
 
-**[209.80s] English:** can't use. And one of the things you find out really quick is that having the theoretical  
+**[209.80s] English:** Can't use, and one of the things you find out really quickly is that having the theoretical  
 **Translation:** 
 
-**[214.94s] English:** capability of programming something, and then having the world's power and the innovation of  
+**[214.94s] English:** Capability of programming something, and then having the world's power and the innovation of,...  
 **Translation:** 
 
-**[220.14s] English:** all the smart people in the world get unleashed on something can be quite different. And so really  
+**[220.14s] English:** All the smart people in the world get unleashed on something can be quite different. And so, really,...  
 **Translation:** Vocabulary: capability: 能力; unleashed: 释放
 
-**[225.74s] English:** where Mojo came from was starting from a problem of we need to be able to take machine learning,  
+**[225.74s] English:** Where did Mojo come from? It was starting from a problem: we needed to be able to take machine learning,  
 **Translation:** 
 
-**[231.02s] English:** take the infrastructure underneath it, and make it way more accessible, way more,  
-**Translation:** 
+**[231.02s] English:** Take the infrastructure underneath it and make it way more accessible, way more.  
+**Translation:** Vocabulary: underneath: 在...下面
 
-**[234.30s] English:** usable, way more understandable by normal people and researchers and other folks that are not  
+**[234.30s] English:** Usable, it's way more understandable for normal people, researchers, and other folks who aren't experts.  
 **Translation:** 
 
 **[239.38s] English:** themselves.  
-**Translation:** Vocabulary: understandable: 容易理解; usable: 可用
+**Translation:** Vocabulary: understandable: 容易理解的; usable: 可用的
 
-**[240.00s] English:** of, like, experts in GPUs and things like this.  
+**[240.00s] English:** Of, like, experts in GPUs and things like this.  
 **Translation:** 
 
-**[242.44s] English:** And then through that journey, we realized, hey, we need syntax for this.  
+**[242.44s] English:** And then, through that journey, we realized: "Hey, we need syntax for this.  
 **Translation:** Vocabulary: syntax: 语法规则
 
 **[245.90s] English:** We need to do a programming language.  
 **Translation:** 
 
-**[247.36s] English:** So one of the main features of the language, I say so fully in jest,  
+**[247.36s] English:** So, one of the main features of the language, I say, is fully in jest.  
 **Translation:** 
 
-**[252.32s] English:** is that it allows you to have the file extension to be an emoji or the fire emoji,  
+**[252.32s] English:** Is that it allows you to have the file extension to be an emoji or the fire emoji?  
 **Translation:** 
 
-**[260.12s] English:** which is one of the first emojis used as a file extension I've ever seen in my life.  
+**[260.12s] English:** Which is one of the first emojis used as a file extension, I've ever seen in my life.  
 **Translation:** 
 
-**[267.10s] English:** And then you ask yourself the question, why in the 21st century are we not using Unicode for file extensions?  
+**[267.10s] English:** And then you ask yourself the question: Why in the 21st century are we not using Unicode for file extensions?  
 **Translation:** 
 
 **[274.64s] English:** I mean, it's an epic decision.  
-**Translation:** Vocabulary: extensions: 文件扩展名
+**Translation:** Vocabulary: extensions: 文件扩展名; unicode: 统一码字符集
 
-**[276.48s] English:** I think clearly the most important decision you made, but you could also just use MOJO as the file extension.  
+**[276.48s] English:** I think, clearly, the most important decision you made was to use MOJO as the file extension.  
 **Translation:** 
 
-**[282.28s] English:** Well, so, okay, so take a step back.  
+**[282.28s] English:** Well, so okay, let's take a step back.  
 **Translation:** 
 
-**[283.88s] English:** I mean, come on, Lex, do you think that the world's ready for this?  
+**[283.88s] English:** I mean, come on, Lex: do you think the world is ready for this?  
 **Translation:** 
 
 **[285.80s] English:** This is a big moment in the world, right?  
 **Translation:** 
 
-**[287.82s] English:** We're releasing this onto the world.  
+**[287.82s] English:** We're releasing this into the world.  
 **Translation:** 
 
 **[289.42s] English:** This is innovation.  
@@ -208,20 +209,20 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[297.10s] English:** Why is it not in programming?  
 **Translation:** 
 
-**[300.18s] English:** Well, and, like, you take a step back and look at what file extensions are, right?  
+**[300.18s] English:** Well, and like, you take a step back and look at what file extensions are, right?  
 **Translation:** 
 
 **[304.66s] English:** They're basically metadata, right?  
 **Translation:** 
 
-**[306.56s] English:** And so why are we spending all the screen space on them and all this stuff?  
+**[306.56s] English:** And so, why are we spending all the screen space on them and all this stuff?  
 **Translation:** Vocabulary: metadata: 元数据
 
-**[309.74s] English:** Also, you know, you have them stacked up next to text files and PDF files and whatever else.  
+**[309.74s] English:** Also, you know, you have them stacked up next to text files and PDF files, and whatever else.  
 **Translation:** 
 
 **[313.86s] English:** Like, if you're going to do something cool, you want it to stand out, right?  
-**Translation:** 
+**Translation:** Vocabulary: stacked: 堆放在一起
 
 **[316.62s] English:** Emojis are colorful.  
 **Translation:** 
@@ -232,8 +233,8 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[318.58s] English:** They're beautiful, right?  
 **Translation:** 
 
-**[319.94s] English:** What's been the response so far from, is there support on, like, Windows on operating systems in displaying, like, File Explorer?  
-**Translation:** Vocabulary: explorer: 资源管理器
+**[319.94s] English:** What's been the response so far from users regarding support for Windows operating systems in displaying File Explorer?  
+**Translation:** Vocabulary: explorer: 文件资源管理器
 
 **[326.64s] English:** Yeah.  
 **Translation:** 
@@ -241,7 +242,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[327.10s] English:** The one problem I've seen is that Git doesn't escape it right.  
 **Translation:** 
 
-**[331.48s] English:** And so it thinks that the Fire Emoji is unprintable, and so it, like, prints out weird hex things if you use the command line Git tool.  
+**[331.48s] English:** And so it thinks that the fire emoji is unprintable, and so it prints out weird hex things if you use the command-line Git tool.  
 **Translation:** 
 
 **[337.10s] English:** But everything else, as far as I'm aware, works fine.  
@@ -250,7 +251,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[339.54s] English:** And I have faith that Git can be improved.  
 **Translation:** 
 
-**[341.82s] English:** And so GitHub is fine.  
+**[341.82s] English:** And so, GitHub is fine.  
 **Translation:** 
 
 **[343.96s] English:** GitHub is fine.  
@@ -262,115 +263,115 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[345.28s] English:** GitHub is fine.  
 **Translation:** 
 
-**[346.18s] English:** Visual Studio Code, Windows, like, all this stuff, totally ready.  
+**[346.18s] English:** Visual Studio Code, Windows, and all this stuff, are totally ready.  
 **Translation:** 
 
-**[349.30s] English:** Because people have internationalization in their normal part of their paths.  
+**[349.30s] English:** Because people have internationalization as a normal part of their path.  
 **Translation:** 
 
-**[354.24s] English:** So this is just, like, taking the next step, right?  
+**[354.24s] English:** So, this is just like taking the next step, right?  
 **Translation:** 
 
-**[355.80s] English:** Somewhere between, oh, wow, that makes sense.  
+**[355.80s] English:** Somewhere between, oh, wow—that makes sense.  
 **Translation:** 
 
 **[359.42s] English:** Cool.  
 **Translation:** 
 
-**[360.00s] English:** i like new things too oh my god you're killing my baby like what are you talking about this can  
+**[360.00s] English:** I like new things, too. Oh my God! You're killing my baby! Like, what are you talking about this can't  
 **Translation:** 
 
-**[364.72s] English:** never be like i can never handle this how am i going to type this like all these things and so  
+**[364.72s] English:** Never be like, "I can never handle this. How am I going to type this? There are just so many things.  
 **Translation:** 
 
-**[369.76s] English:** this is something where i think that the world will get there we don't have to bet  
+**[369.76s] English:** This is something where I think that the world will get there, and we don't have to bet.  
 **Translation:** 
 
-**[373.36s] English:** the whole farm on this i think we can provide both paths but i think it'll be great uh when can we  
+**[373.36s] English:** The whole farm: I think we can provide both paths, but I think it'll be great. When can we?  
 **Translation:** 
 
-**[379.36s] English:** have emojis as part of the code i wonder uh yeah so i mean lots of languages provide that so um i  
+**[379.36s] English:** Have emojis as part of the code? I wonder, uh, yeah, so I mean, lots of languages provide that, so...  
 **Translation:** 
 
-**[384.96s] English:** think that we have partial support for that it's probably not fully done yet but but yeah you can  
+**[384.96s] English:** I think that we have partial support for that; it's probably not fully done yet, but yeah, you can.  
 **Translation:** 
 
-**[389.52s] English:** you can do that for example in swift you can do that for sure so an example we give david apple  
+**[389.52s] English:** You can do that, for example, in Swift. You can do that for sure. So, an example we could give is David Apple.  
 **Translation:** 
 
-**[394.88s] English:** was the the dog cow yeah so that's a classical mac heritage thing and so you use the dog and the cow  
+**[394.88s] English:** Was the dog or the cow? Yeah, so that's a classic Mac heritage thing, and so you use the dog and the cow.  
 **Translation:** 
 
-**[400.88s] English:** emoji together and that could be your variable name but of course the internet went and made  
+**[400.88s] English:** Emoji together, and that could be your variable name, but of course, the Internet went and made  
 **Translation:** 
 
-**[404.72s] English:** pile of poop for everything yeah so you know if you want to name your function pile of poop then  
+**[404.72s] English:** Pile of poop for everything, yeah? So, you know, if you want to name your function "pile of poop," then  
 **Translation:** 
 
-**[409.60s] English:** you can totally go to town and see how that gets through code review  
+**[409.60s] English:** You can totally go to town and see how that gets through code review.  
 **Translation:** 
 
-**[414.16s] English:** okay so uh let me just ask a bunch of random questions uh so is  
+**[414.16s] English:** Okay, so, uh, let me just ask a bunch of random questions. Uh, so, is  
 **Translation:** 
 
-**[419.12s] English:** moji  
+**[419.12s] English:** Moji  
 **Translation:** 
 
-**[419.52s] English:** joe primarily designed for ai's or is it a general purpose programming yeah good question  
+**[419.52s] English:** Joe primarily designed it for AI, or is it a general-purpose programming language? Yeah, good question.  
 **Translation:** 
 
-**[424.24s] English:** so it's ai first and so ai is driving a lot of the requirements and so um modular is building and  
+**[424.24s] English:** So, it's AI-first, and AI is driving a lot of the requirements. So, um, modular is building and  
 **Translation:** 
 
-**[431.28s] English:** designing and driving mojo forward and it's not because it's an interesting project theoretically  
+**[431.28s] English:** Designing and driving MoJo forward, and it's not because it's an interesting project theoretically.  
 **Translation:** Vocabulary: modular: 模块化; theoretically: 理论上
 
-**[436.00s] English:** to build it's because we need it and so at modular we're really tackling the ai infrastructure  
+**[436.00s] English:** To build it, it's because we need it, and so at Modular, we're really tackling AI infrastructure.  
 **Translation:** 
 
-**[442.48s] English:** landscape and the big problems in ai and the reasons that it is so difficult to use and scale  
+**[442.48s] English:** Landscape, and the big problems in AI, and the reasons that it is so difficult to use and scale.  
 **Translation:** Vocabulary: tackling: 应对
 
-**[446.96s] English:** and adopt and deploy and like all these  
+**[446.96s] English:** And adopt and deploy, and like all these.  
 **Translation:** 
 
-**[449.52s] English:** big problems in ai and so we're coming at it from that perspective now when you do that  
+**[449.52s] English:** Big problems in AI, and so we're coming at it from that perspective now. When you do that,...  
 **Translation:** Vocabulary: deploy: 部署
 
-**[454.72s] English:** when you start tackling these problems you realize that the um solution to these problems isn't  
+**[454.72s] English:** When you start tackling these problems, you realize that the solution to these problems isn't  
 **Translation:** 
 
-**[460.64s] English:** actually an ai specific solution and so while we're doing this we're building mojo to be a  
+**[460.64s] English:** Actually, it's an AI-specific solution, and so while we're doing this, we're building Mojo to be a  
 **Translation:** 
 
-**[464.80s] English:** fully general programming language and that means that you can uh obviously tackle gpus  
+**[464.80s] English:** A fully general programming language and that means you can, obviously, tackle GPUs.  
 **Translation:** 
 
-**[470.40s] English:** and cpus and like these ai things but it's also a really great way to build  
+**[470.40s] English:** And CPUs, and like these AI things, but it's also a really great way to build.  
+**Translation:** Vocabulary: tackle: 应对
+
+**[474.64s] English:** Numpy and other things, like that, or you know, just if you look at what many Python libraries do.  
 **Translation:** 
 
-**[474.64s] English:** numpy and other things like that or you know just if you look at what many python library  
-**Translation:** 
-
-**[479.52s] English:** are today.  
+**[479.52s] English:** Are we today?  
 **Translation:** 
 
 **[480.00s] English:** Often they're a layer of Python for the API, and they end up being C and C++ code underneath them.  
 **Translation:** 
 
 **[485.70s] English:** That's very true in AI.  
-**Translation:** 
+**Translation:** Vocabulary: underneath: 在...下面
 
 **[487.30s] English:** That's true in lots of other domains as well.  
 **Translation:** 
 
-**[489.28s] English:** And so anytime you see this pattern, that's an opportunity for Mojo to help simplify the world and help people have one thing.  
-**Translation:** Vocabulary: anytime: 任何时候; simplify: 简化
+**[489.28s] English:** And so, anytime you see this pattern, that's an opportunity for Mojo to help simplify the world and help people have one thing.  
+**Translation:** Vocabulary: anytime: 任何时候; simplify: 使简化
 
-**[495.78s] English:** To optimize through simplification by having one thing.  
+**[495.78s] English:** To optimize through simplification, have just one thing.  
 **Translation:** 
 
-**[500.40s] English:** So you mentioned modular.  
+**[500.40s] English:** So, you mentioned modular.  
 **Translation:** Vocabulary: optimize: 优化; simplification: 简化
 
 **[501.98s] English:** Mojo is the programming language.  
@@ -379,17 +380,17 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[503.30s] English:** Modular is the whole software stack.  
 **Translation:** 
 
-**[505.60s] English:** So just over a year ago, we started this company called Modular.  
+**[505.60s] English:** So, just over a year ago, we started this company called Modular.  
 **Translation:** 
 
 **[508.12s] English:** Yeah.  
 **Translation:** 
 
-**[508.48s] English:** What Modular is about is it's about taking AI and up-leveling it into the next generation.  
+**[508.48s] English:** What Modular is about is that it's about taking AI and up-leveled it into the next generation.  
 **Translation:** 
 
-**[514.38s] English:** And so if you take a step back, what's gone on in the last five, six, seven, eight years is that we've had things like TensorFlow and PyTorch and these other systems come in.  
-**Translation:** 
+**[514.38s] English:** And so, if you take a step back, what has gone on in the last five, six, seven, or eight years is that we've had things like TensorFlow and PyTorch and these other systems come in.  
+**Translation:** Vocabulary: modular: 模块化的
 
 **[524.78s] English:** You've used them.  
 **Translation:** 
@@ -397,7 +398,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[525.38s] English:** You know this.  
 **Translation:** 
 
-**[526.38s] English:** And what's happened is these things have grown like crazy.  
+**[526.38s] English:** And what's happened is that these things have grown like crazy.  
 **Translation:** 
 
 **[529.68s] English:** They get tons of users.  
@@ -421,7 +422,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[541.32s] English:** But the challenge with these systems is that they haven't always been thought out with current demands in mind.  
 **Translation:** 
 
-**[549.06s] English:** And so you think about it, where were LLMs eight years ago?  
+**[549.06s] English:** And so you think about it: where were LLMs eight years ago?  
 **Translation:** 
 
 **[553.26s] English:** Well, they didn't exist, right?  
@@ -430,25 +431,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[554.74s] English:** AI has changed so much.  
 **Translation:** 
 
-**[556.20s] English:** And a lot of what people are doing today are very different than when these systems were built.  
+**[556.20s] English:** And a lot of what people are doing today is very different from when these systems were built.  
 **Translation:** 
 
 **[560.06s] English:** And meanwhile, the hardware side of this has gotten into a huge mess.  
 **Translation:** 
 
-**[563.04s] English:** There's tons of new chips and accelerators, and every big company is announcing a new chip every day, it feels like.  
+**[563.04s] English:** There are tons of new chips and accelerators, and it feels like every big company is announcing a new one every day.  
 **Translation:** Vocabulary: accelerators: 加速器
 
-**[568.52s] English:** So between that, you have this one moving system on one side, a moving system on the other side, and it just turns into this gigantic mess, which makes it very difficult for people to actually use AI, particularly in production deployment scenarios.  
+**[568.52s] English:** So, between that, you have this one moving system on one side, a moving system on the other side, and it just turns into this gigantic mess, which makes it very difficult for people to actually use AI, particularly in production deployment scenarios.  
 **Translation:** 
 
-**[582.38s] English:** And so what Modular is doing is we're helping build out that software stack to help solve some of those problems, so then people can be more productive and get more AI research into production.  
-**Translation:** Vocabulary: gigantic: 巨大的; modular: 模块化的
+**[582.38s] English:** And so, what Modular is doing is helping build out that software stack to help solve some of those problems, so that people can be more productive and get more AI research into production.  
+**Translation:** Vocabulary: gigantic: 巨大的
 
 **[591.02s] English:** Now, what Mojo does is it's a really, really, really important piece of that.  
 **Translation:** 
 
-**[595.26s] English:** And so that is part of that engine and part of the technology.  
+**[595.26s] English:** And so, that is part of the engine and part of the technology.  
 **Translation:** 
 
 **[597.22s] English:** That's what it's doing.  
@@ -466,19 +467,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[598.10s] English:** It's really good.  
 **Translation:** 
 
-**[598.38s] English:** So yeah.  
+**[598.38s] English:** So, yeah.  
 **Translation:** 
 
-**[598.48s] English:** allows us to solve this problem.  
+**[598.48s] English:** Allows us to solve this problem.  
 **Translation:** 
 
-**[600.68s] English:** So Mojo is a programming language that allows you to do the high-level programming, the low-level programming.  
+**[600.68s] English:** So, Mojo is a programming language that allows you to do both high-level and low-level programming.  
 **Translation:** 
 
-**[607.90s] English:** They do all kinds of programming in that spectrum that gets you closer and closer to the hardware.  
+**[607.90s] English:** They do all kinds of programming in that spectrum, which gets you closer and closer to the hardware.  
 **Translation:** 
 
-**[614.10s] English:** So take a step back.  
+**[614.10s] English:** So, take a step back.  
 **Translation:** 
 
 **[614.78s] English:** So, Lex, what do you love about Python?  
@@ -505,16 +506,16 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[625.26s] English:** Yes.  
 **Translation:** 
 
-**[627.20s] English:** How intuitive it is.  
+**[627.20s] English:** How intuitive it is!  
 **Translation:** 
 
-**[630.00s] English:** How it feels like I'm writing natural language English.  
-**Translation:** Vocabulary: intuitive: 直观的
+**[630.00s] English:** How does it feel like I'm writing natural, English-language text?  
+**Translation:** Vocabulary: intuitive: 直觉的
 
-**[636.00s] English:** How when I can not just write, but read other people's code, somehow I can understand it faster.  
+**[636.00s] English:** How, when I can't just write, but also read other people's code, somehow I can understand it faster.  
 **Translation:** 
 
-**[642.24s] English:** It's more condensed than other languages, like ones I'm really familiar with, like C++ and C.  
+**[642.24s] English:** It's more condensed than other languages, like C++ and C, which I'm really familiar with.  
 **Translation:** Vocabulary: condensed: 浓缩的
 
 **[650.94s] English:** There's a bunch of sexy little features.  
@@ -523,7 +524,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[653.62s] English:** Yeah.  
 **Translation:** 
 
-**[654.82s] English:** We'll probably talk about some of them, but list comprehensions and stuff like this.  
+**[654.82s] English:** We'll probably talk about some of them, but list comprehensions and stuff like that.  
 **Translation:** 
 
 **[658.90s] English:** And don't forget the entire ecosystem of all the packages.  
@@ -544,7 +545,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[667.84s] English:** Yeah.  
 **Translation:** 
 
-**[668.14s] English:** So it's not just the ecosystem of the packages and the ecosystem of the humans that do it.  
+**[668.14s] English:** So, it's not just the ecosystem of the packages and the ecosystem of the humans who do it.  
 **Translation:** 
 
 **[674.40s] English:** That's an interesting dynamic.  
@@ -553,31 +554,31 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[677.54s] English:** That's huge.  
 **Translation:** 
 
-**[678.00s] English:** I think something about the usability and the ecosystem makes the thing viral.  
+**[678.00s] English:** I think something about the usability and the ecosystem makes it viral.  
 **Translation:** 
 
 **[684.16s] English:** It grows, and then it's a virtuous cycle, I think.  
 **Translation:** Vocabulary: usability: 易用性; viral: 病毒式传播; virtuous: 良性循环
 
-**[687.08s] English:** Well, and there's many things that went into that.  
+**[687.08s] English:** Well, and there are many things that went into that.  
 **Translation:** 
 
 **[688.90s] English:** I think that ML was very good for Python.  
 **Translation:** 
 
-**[691.42s] English:** And so I think that TensorFlow and PyTorch and these systems embracing Python really took and helped Python grow.  
+**[691.42s] English:** And so, I think that TensorFlow and PyTorch, and these systems, embracing Python really took and helped Python grow.  
 **Translation:** 
 
 **[698.00s] English:** But I think that the major thing underlying it is that Python's like the universal connector.  
 **Translation:** Vocabulary: connector: 连接器; embracing: 接纳
 
-**[703.30s] English:** It really helps bring together lots of different systems so you can compose them and build out larger systems without having to understand how it works.  
+**[703.30s] English:** It really helps bring together lots of different systems, so you can compose them and build out larger systems without having to understand how it works.  
 **Translation:** 
 
-**[710.36s] English:** But then what is the problem with Python?  
-**Translation:** 
+**[710.36s] English:** But then, what is the problem with Python?  
+**Translation:** Vocabulary: compose: 组合
 
-**[713.16s] English:** Well, I guess you could say several things, but probably that it's slow.  
+**[713.16s] English:** Well, I guess you could say several things, but probably the most accurate description is that it's slow.  
 **Translation:** 
 
 **[716.96s] English:** I think that's usually what people complain about.  
@@ -589,17 +590,17 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[719.38s] English:** And so...  
 **Translation:** 
 
-**[720.00s] English:** So, I mean, other people complain about tabs and spaces versus curly braces or whatever, but, I mean, those people are just wrong because it is actually just better to use indentation.  
+**[720.00s] English:** So, I mean, other people complain about tabs and spaces versus curly braces or whatever, but those people are just wrong; because it is actually just better to use indentation.  
 **Translation:** 
 
 **[731.12s] English:** Wow, strong words.  
 **Translation:** Vocabulary: braces: 花括号; indentation: 缩进
 
-**[732.90s] English:** So, actually, on a small tangent, let's actually take that.  
+**[732.90s] English:** So, actually, on a small tangent, let's take that.  
 **Translation:** 
 
 **[735.80s] English:** Let's take all kinds of tangents.  
-**Translation:** Vocabulary: tangent: 旁枝话题; tangents: 旁支话题
+**Translation:** Vocabulary: tangent: 旁枝话题; tangents: 旁枝话题
 
 **[737.36s] English:** Oh, come on, Lex.  
 **Translation:** 
@@ -617,9 +618,9 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[744.18s] English:** Okay.  
-**Translation:** Vocabulary: emacs: 编辑器
+**Translation:** Vocabulary: emacs: 一种文本编辑器
 
-**[744.36s] English:** The kind of hate mail I had to receive because on the way to doing that, I also said I've considered Vim and chose not to and went with VS Code.  
+**[744.36s] English:** The kind of hate mail I had to receive was because, on the way to doing that, I also said I've considered Vim and chose not to, and went with VS Code.  
 **Translation:** 
 
 **[753.84s] English:** You're touching on deep religions, right?  
@@ -649,7 +650,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[786.80s] English:** But I can defend it rationally, right?  
 **Translation:** 
 
-**[788.32s] English:** So, first of all, Python 1 has millions of programmers.  
+**[788.32s] English:** So, first of all, Python has millions of programmers.  
 **Translation:** 
 
 **[792.64s] English:** It's huge.  
@@ -664,181 +665,181 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[795.06s] English:** So, factually, it is the thing, right?  
 **Translation:** 
 
-**[798.34s] English:** Second of all, if you look at it, C code, C++ code, Java, whatever, Swift, curly brace languages.  
+**[798.34s] English:** Second of all, if you look at it, C code, C++ code, Java, whatever, Swift—curly brace languages.  
 **Translation:** Vocabulary: brace: 花括号
 
-**[804.36s] English:** Also, run through formatting tools and get indented.  
+**[804.36s] English:** Also, run through formatting tools and indent.  
 **Translation:** 
 
 **[808.90s] English:** And so, if they're not indented correctly, first of all, it will twist your brain around.  
-**Translation:** Vocabulary: formatting: 排版; indented: 缩进
+**Translation:** Vocabulary: formatting: 排版; indent: 首行缩进; indented: 已缩进
 
 **[813.86s] English:** It can lead to bugs.  
 **Translation:** 
 
-**[815.14s] English:** There's notorious bugs that have happened across time where the indentation was wrong or misleading, and it wasn't formatted right.  
-**Translation:** Vocabulary: formatted: 格式正确
+**[815.14s] English:** There are notorious bugs that have happened over time where the indentation was wrong or misleading, and it wasn't formatted correctly.  
+**Translation:** Vocabulary: formatted: 格式化; indentation: 缩进; misleading: 误导的
 
 **[821.20s] English:** And so, it turned into an issue, right?  
 **Translation:** 
 
-**[823.56s] English:** And so, what ends up happening in modern, large-scale code bases is people run automatic formatters.  
-**Translation:** Vocabulary: formatters: 自动格式化工具
+**[823.56s] English:** And so, what ends up happening in modern, large-scale codebases is that people run automatic formatters.  
+**Translation:** Vocabulary: codebases: 代码库; formatters: 格式化工具
 
 **[828.92s] English:** So, now what you end up with is indentation and curly braces.  
 **Translation:** 
 
 **[833.24s] English:** Well, if you're going to have...  
+**Translation:** Vocabulary: braces: 花括号
+
+**[834.36s] English:** You know, the notion of grouping — why not have just one thing?  
 **Translation:** 
 
-**[834.36s] English:** You know, the notion of grouping, why not have one thing?  
+**[840.00s] English:** Right, and get rid of all the clutter and have a more beautiful thing, right? Also, you look at many  
+**Translation:** Vocabulary: clutter: 杂乱的东西; grouping: 分组
+
+**[843.36s] English:** Of these languages, it's like okay, well, you can have curly braces or you can omit them if there's  
 **Translation:** 
 
-**[840.00s] English:** right and get rid of all the clutter and have a more beautiful thing right also you look at many  
-**Translation:** Vocabulary: clutter: 杂乱; grouping: 分类
-
-**[843.36s] English:** of these languages it's like okay well you can have curly braces or you can omit them if there's  
-**Translation:** 
-
-**[847.36s] English:** one statement or you just like enter this entire world of complicated design space that objectively  
+**[847.36s] English:** One statement, or you just like enter this entire world of complicated design space that objectively.  
 **Translation:** Vocabulary: objectively: 客观地
 
-**[852.56s] English:** you don't need if you have python style indentation so yeah i would love to actually see statistics on  
+**[852.56s] English:** You don't need it if you have Python-style indentation, so yeah, I would love to actually see statistics on that.  
 **Translation:** 
 
-**[857.44s] English:** errors made because of indentation like how many errors are made in python versus in c plus plus  
-**Translation:** Vocabulary: indentation: 缩进
-
-**[863.44s] English:** that have to do with basic formatting all that kind of stuff i would love to see i think it's  
+**[857.44s] English:** Errors made because of indentation: like how many errors are made in Python versus C++?  
 **Translation:** 
 
-**[867.76s] English:** probably pretty minor because once you get uh like you use vs code i do too so if you get vs  
+**[863.44s] English:** That has to do with basic formatting—all that kind of stuff—I would love to see; I think it's  
 **Translation:** 
 
-**[872.88s] English:** code set up it does the indentation for you generally right and so you don't you know it's  
+**[867.76s] English:** Probably, pretty minor because once you get, say, VS Code (I do too), so if you get VS Code,...  
 **Translation:** 
 
-**[876.64s] English:** actually really nice to not have to fight it and then what you can see is the editor is telling you  
+**[872.88s] English:** Code sets up indentation for you, generally, and so you don't have to worry about it.  
 **Translation:** 
 
-**[881.84s] English:** how your code will work by indenting it which i think is pretty cool i honestly don't think  
+**[876.64s] English:** Actually, it's really nice to not have to fight it, and then what you can see is the editor is telling you.  
 **Translation:** 
 
-**[887.76s] English:** i've ever i don't remember having an error in python because i indented stuff wrong so i mean  
+**[881.84s] English:** How your code will work by indenting it, which I think is pretty cool. I honestly don't think  
+**Translation:** 
+
+**[887.76s] English:** I've never remember having an error in Python because I indented stuff wrong, so I mean.  
 **Translation:** Vocabulary: indenting: 缩进
 
-**[893.84s] English:** i think that there's again this is a religious thing and so i can joke about it and i love  
+**[893.84s] English:** I think that, again, this is a religious thing, and so I can joke about it, and I love  
 **Translation:** 
 
-**[897.76s] English:** i love to kind of you know i realize that this is such a polarizing thing and everybody wants to  
+**[897.76s] English:** I love to kind of, you know, I realize that this is such a polarizing thing, and everybody wants to  
 **Translation:** Vocabulary: polarizing: 引起争议的
 
-**[903.28s] English:** argue about it and so i like poking at the bear a little bit right but but frankly right come back  
+**[903.28s] English:** Argue about it, and so I like poking at the bear a little bit, right? But, frankly, come back.  
 **Translation:** 
 
-**[908.80s] English:** to the first point python one like it's huge it's an ai um it's the right thing for us like we see  
-**Translation:** Vocabulary: poking: 戳一下
+**[908.80s] English:** To the first point, Python One is like it's huge — it's an AI, um, it's the right thing for us. Like, we see  
+**Translation:** Vocabulary: frankly: 坦白讲; poking: 逗弄
 
-**[914.00s] English:** mojo as being an incredible part of the python ecosystem we're not looking to break python or  
+**[914.00s] English:** Mojo is being an incredible part of the Python ecosystem. We're not looking to break Python or  
 **Translation:** 
 
-**[918.88s] English:** change it or quote unquote fix it we love python for what it is our view is that python is just  
-**Translation:** Vocabulary: unquote: 引号
-
-**[924.56s] English:** not done yet and so if you look at you know you mentioned python it's just not done yet  
+**[918.88s] English:** Change it, or "quote-unquote" fix it. We love Python for what it is. Our view is that Python is just  
 **Translation:** 
 
-**[927.76s] English:** python being slow well there's a couple of different things that go into that which we  
+**[924.56s] English:** Not done yet, and so if you look at it, you know, you mentioned Python; it's just not done yet.  
 **Translation:** 
 
-**[930.48s] English:** can talk about if you want but one of them is it just doesn't have those features that you would  
+**[927.76s] English:** Python Being Slow? Well, there are a couple of different things that go into that, which we  
 **Translation:** 
 
-**[934.80s] English:** use to do c-like programming and so if you say okay well i'm forced out of python into c for  
+**[930.48s] English:** Can talk about if you want, but one of them is that it just doesn't have those features that you would.  
 **Translation:** 
 
-**[940.96s] English:** certain use cases well then what we're doing is we're saying okay well why why is that can we  
+**[934.80s] English:** Use to do C-like programming, and so if you say okay, well, I'm forced out of Python into C for.  
 **Translation:** 
 
-**[945.92s] English:** just add those features that are missing from python back up to mojo and then you can have  
+**[940.96s] English:** Certain use cases, well, then what we're doing is we're saying, "Okay, well, why is that? Can we...  
 **Translation:** 
 
-**[950.72s] English:** everything that's great about python all the things you're talking about that you love  
+**[945.92s] English:** Just add those features that are missing from Python back to Mojo, and then you can have...  
 **Translation:** 
 
-**[954.08s] English:** plus not be forced out of it when you do something a little bit  
+**[950.72s] English:** Everything that's great about Python, all the things you're talking about that you love.  
 **Translation:** 
 
-**[957.76s] English:** more computationally intense or weird or  
+**[954.08s] English:** Plus, you shouldn't be forced out of it when you do something a little bit.  
 **Translation:** 
 
-**[960.00s] English:** or hardware-y, or whatever it is that you're doing.  
+**[957.76s] English:** More computationally intense, or weird, or  
+**Translation:** 
+
+**[960.00s] English:** Or hardware-related, or whatever it is you're doing.  
 **Translation:** Vocabulary: computationally: 计算上
 
-**[962.96s] English:** Well, a million questions I want to ask,  
+**[962.96s] English:** Well, I have a million questions I want to ask.  
 **Translation:** 
 
-**[965.08s] English:** but high level again, is it compiled  
-**Translation:** Vocabulary: compiled: 汇编而成
+**[965.08s] English:** But at a high level, is it compiled?  
+**Translation:** Vocabulary: compiled: 整理过
 
-**[967.28s] English:** or is it an interpretive language?  
+**[967.28s] English:** Or is it an interpretive language?  
 **Translation:** 
 
-**[968.48s] English:** So Python is just-in-time compilation.  
+**[968.48s] English:** So, Python is just-in-time compilation.  
 **Translation:** Vocabulary: compilation: 编译; interpretive: 解释型
 
 **[971.18s] English:** What's Mojo?  
 **Translation:** 
 
-**[973.92s] English:** So Mojo, the complicated answer,  
+**[973.92s] English:** So, Mojo, the complicated answer is,...  
 **Translation:** 
 
-**[975.48s] English:** does all the things.  
+**[975.48s] English:** Does it do all the things?  
 **Translation:** 
 
-**[976.84s] English:** So it's interpreted, it's JIT compiled,  
-**Translation:** Vocabulary: interpreted: 解释执行
+**[976.84s] English:** So it's interpreted, and it's JIT-compiled.  
+**Translation:** Vocabulary: interpreted: 解释执行的
 
-**[978.38s] English:** and it's statically compiled.  
+**[978.38s] English:** And it's statically compiled.  
 **Translation:** 
 
-**[981.68s] English:** And so this is for a variety of reasons.  
+**[981.68s] English:** And so, this is for a variety of reasons.  
 **Translation:** Vocabulary: statically: 静态地
 
-**[984.12s] English:** So one of the things that makes Python beautiful  
+**[984.12s] English:** So, one of the things that makes Python beautiful.  
 **Translation:** 
 
-**[986.96s] English:** is that it's very dynamic.  
+**[986.96s] English:** Is that it's very dynamic?  
 **Translation:** 
 
-**[989.36s] English:** And because it's dynamic, one of the things they added  
+**[989.36s] English:** And because it's dynamic, one of the things they added:  
 **Translation:** 
 
-**[992.16s] English:** is that it has this powerful metaprogramming feature.  
+**[992.16s] English:** Is that it has this powerful metaprogramming feature?  
 **Translation:** Vocabulary: metaprogramming: 元编程
 
-**[995.10s] English:** And so if you look at something like PyTorch,  
+**[995.10s] English:** And so, if you look at something like PyTorch,  
 **Translation:** 
 
-**[997.04s] English:** or TensorFlow, or even a simple use case,  
+**[997.04s] English:** For TensorFlow, or even in a simple use case,  
 **Translation:** 
 
-**[1001.52s] English:** like you define a class that has the plus method.  
+**[1001.52s] English:** Like, you define a class that has the plus method.  
 **Translation:** 
 
-**[1005.46s] English:** You can overload the dunder methods,  
-**Translation:** Vocabulary: dunder: 双下划线方法
+**[1005.46s] English:** You can overload the dunder methods.  
+**Translation:** Vocabulary: dunder: 双下划线; overload: 重载
 
-**[1007.22s] English:** like dunder add, for example,  
+**[1007.22s] English:** Like "dunder," for example,  
 **Translation:** 
 
-**[1008.80s] English:** and then the plus method works on your class.  
+**[1008.80s] English:** And then, the plus method works in your class.  
 **Translation:** 
 
-**[1011.02s] English:** And so it has very nice and very expressive  
+**[1011.02s] English:** And so, it has been very nice and very expressive.  
 **Translation:** 
 
-**[1013.54s] English:** dynamic metaprogramming features.  
+**[1013.54s] English:** Dynamic Metaprogramming Features.  
 **Translation:** Vocabulary: expressive: 富有表现力的
 
 **[1016.76s] English:** In Mojo, we want all those features to come in.  
@@ -850,223 +851,223 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1019.34s] English:** Like Python, we want it all to work.  
 **Translation:** 
 
-**[1020.84s] English:** But the problem is you can't run those super dynamic features  
+**[1020.84s] English:** But the problem is, you can't run those super-dynamic features.  
 **Translation:** 
 
-**[1024.06s] English:** on an embedded processor, or on a GPU, right?  
+**[1024.06s] English:** On an embedded processor, or on a GPU, right?  
 **Translation:** 
 
-**[1029.02s] English:** Or if you could, you probably don't want to  
+**[1029.02s] English:** Or, if you could, you probably don't want to.  
+**Translation:** Vocabulary: embedded: 嵌入式; processor: 处理器
+
+**[1030.76s] English:** Just because of the performance.  
 **Translation:** 
 
-**[1030.76s] English:** just because of the performance.  
+**[1031.96s] English:** And so we entered the question of saying,  
 **Translation:** 
 
-**[1031.96s] English:** And so we entered this question of saying,  
+**[1034.68s] English:** Okay, how do you get the power of this dynamic metaprogramming?  
 **Translation:** 
 
-**[1034.68s] English:** okay, how do you get the power of this dynamic metaprogramming  
+**[1038.88s] English:** Into a language that has to be super-efficient.  
 **Translation:** 
 
-**[1038.88s] English:** into a language that has to be super efficient  
+**[1041.80s] English:** In specific cases?  
 **Translation:** 
 
-**[1041.80s] English:** in specific cases?  
+**[1043.14s] English:** And so, what we did was we said,  
 **Translation:** 
 
-**[1043.14s] English:** And so what we did was we said,  
-**Translation:** 
-
-**[1044.32s] English:** okay, we'll take that interpreter.  
+**[1044.32s] English:** Okay, we'll take that interpreter.  
 **Translation:** 
 
 **[1045.88s] English:** Python has an interpreter in it, right?  
 **Translation:** Vocabulary: interpreter: 解释器
 
-**[1048.02s] English:** Take that interpreter and allow it  
+**[1048.02s] English:** Take that interpreter, and allow it.  
 **Translation:** 
 
-**[1049.12s] English:** to run at compile time.  
+**[1049.12s] English:** To run at compile time.  
 **Translation:** 
 
-**[1051.46s] English:** And so now what you get is you get compile time metaprogramming.  
+**[1051.46s] English:** And so, now what you get is compile-time metaprogramming.  
 **Translation:** 
 
-**[1054.40s] English:** And so this is super interesting and super powerful  
+**[1054.40s] English:** And so, this is super interesting and super powerful.  
 **Translation:** 
 
-**[1056.58s] English:** because one of the big advantages you get  
+**[1056.58s] English:** Because one of the big advantages you get  
 **Translation:** 
 
-**[1059.32s] English:** is you get Python-style expressive APIs.  
+**[1059.32s] English:** Is it that you get Python-style, expressive APIs?  
 **Translation:** 
 
-**[1062.12s] English:** You get the ability to have overloaded operators.  
+**[1062.12s] English:** You get the ability to overload operators.  
 **Translation:** 
 
-**[1065.02s] English:** And if you look at what happens inside of like PyTorch,  
-**Translation:** Vocabulary: overloaded: 重载的
+**[1065.02s] English:** And if you look at what happens inside of PyTorch,  
+**Translation:** Vocabulary: operators: 运算符
 
-**[1067.36s] English:** for example, with automatic differentiation  
+**[1067.36s] English:** For example, with automatic differentiation,  
 **Translation:** 
 
-**[1069.34s] English:** and eager mode and like all these things,  
+**[1069.34s] English:** And in eager mode, and like all these things,  
 **Translation:** Vocabulary: differentiation: 求导
 
-**[1071.08s] English:** they're using these really dynamic  
+**[1071.08s] English:** They're using these really dynamic  
 **Translation:** 
 
-**[1072.66s] English:** and powerful features at runtime.  
+**[1072.66s] English:** And powerful features at runtime.  
 **Translation:** Vocabulary: runtime: 运行时
 
-**[1074.70s] English:** But we can take those features and lift them  
+**[1074.70s] English:** But we can take those features and lift them.  
 **Translation:** 
 
-**[1076.48s] English:** so that they run at compile time.  
+**[1076.48s] English:** So, they run at compile time.  
+**Translation:** Vocabulary: compile: 编译
+
+**[1078.24s] English:** So, you're...  
 **Translation:** 
 
-**[1078.24s] English:** So you're...  
+**[1079.12s] English:** Because, if you pass, pass.  
 **Translation:** 
 
-**[1079.12s] English:** Because if you pass pass  
-**Translation:** 
-
-**[1080.00s] English:** of metaprogramming with templates, but it's really messy.  
+**[1080.00s] English:** Of metaprogramming with templates, but it's really messy.  
 **Translation:** 
 
 **[1085.36s] English:** It's super messy.  
-**Translation:** Vocabulary: templates: 模板
+**Translation:** Vocabulary: metaprogramming: 元编程; templates: 模板
 
-**[1086.50s] English:** It's always, it was accidentally, I mean,  
+**[1086.50s] English:** It's always been accidentally, I mean,  
 **Translation:** 
 
-**[1089.66s] English:** different people have different interpretations.  
+**[1089.66s] English:** Different people have different interpretations.  
 **Translation:** Vocabulary: interpretations: 解释
 
 **[1091.50s] English:** My interpretation is that it was made accidentally powerful.  
 **Translation:** 
 
-**[1094.40s] English:** It was not designed to be Turing-complete, for example,  
+**[1094.40s] English:** It was not designed to be Turing-complete, for example.  
+**Translation:** Vocabulary: interpretation: 解释
+
+**[1097.70s] English:** But that was discovered kind of along the way, accidentally.  
 **Translation:** 
 
-**[1097.70s] English:** but that was discovered kind of along the way, accidentally.  
+**[1101.14s] English:** And so, there have been a number of languages in the space.  
 **Translation:** 
 
-**[1101.14s] English:** And so there have been a number of languages in the space,  
+**[1104.40s] English:** And so they usually have templates or code instantiation.  
 **Translation:** 
 
-**[1104.40s] English:** and so they usually have templates or code instantiation,  
-**Translation:** 
-
-**[1107.88s] English:** code copying features of various sorts.  
+**[1107.88s] English:** Code copying features of various sorts.  
 **Translation:** Vocabulary: instantiation: 实例化
 
-**[1110.78s] English:** Some more modern languages or some more newer languages, let's say,  
+**[1110.78s] English:** Some more modern languages, or some even newer languages, let's say.  
 **Translation:** 
 
-**[1114.38s] English:** like, you know, they're fairly unknown, like Zig, for example, says,  
+**[1114.38s] English:** Like, you know, they're fairly unknown. For example, Zig says,  
 **Translation:** 
 
-**[1120.20s] English:** okay, well, let's take all of those types that you can run it,  
+**[1120.20s] English:** Okay, well, let's take all of those types that you can run it.  
 **Translation:** 
 
-**[1123.80s] English:** all those things you can do at runtime,  
+**[1123.80s] English:** All those things you can do at runtime.  
 **Translation:** 
 
-**[1125.40s] English:** and allow them to happen at compile time.  
+**[1125.40s] English:** And allow them to happen at compile time.  
 **Translation:** 
 
-**[1128.24s] English:** And so one of the problems with C++, I mean,  
+**[1128.24s] English:** And so one of the problems with C++ is that,  
 **Translation:** 
 
-**[1131.16s] English:** which is one of the problems with C++ is...  
+**[1131.16s] English:** Which is one of the problems with C++ is....  
 **Translation:** 
 
-**[1134.20s] English:** There we go.  
+**[1134.20s] English:** There, we go.  
 **Translation:** 
 
 **[1134.96s] English:** Wrong words.  
 **Translation:** 
 
 **[1135.88s] English:** We're going to offend everybody today.  
-**Translation:** 
+**Translation:** Vocabulary: offend: 冒犯
 
 **[1137.06s] English:** Oh, it's okay.  
 **Translation:** 
 
-**[1137.80s] English:** I mean, everybody hates me for a variety of reasons anyways.  
+**[1137.80s] English:** I mean, everybody hates me for a variety of reasons, anyway.  
 **Translation:** 
 
 **[1139.78s] English:** I'm sure, right?  
 **Translation:** 
 
-**[1141.40s] English:** I've written enough...  
+**[1141.40s] English:** I've written enough....  
 **Translation:** 
 
 **[1142.34s] English:** It's just the way they show love.  
 **Translation:** 
 
 **[1143.44s] English:** I have written enough C++ code to earn a little bit of grumpiness with C++.  
-**Translation:** Vocabulary: grumpiness: 爱发牢骚
+**Translation:** Vocabulary: grumpiness: 爱发牢骚的性子
 
-**[1147.56s] English:** But one of the problems with it is that the metaprogramming system templates  
+**[1147.56s] English:** But one of the problems with it is that the metaprogramming system templates.  
 **Translation:** 
 
-**[1152.36s] English:** is just a completely different universe from the normal runtime programming world.  
-**Translation:** Vocabulary: metaprogramming: 元编程
-
-**[1158.26s] English:** And so if you do metaprogramming and programming,  
+**[1152.36s] English:** It is just a completely different universe from the normal runtime programming world.  
 **Translation:** 
 
-**[1160.32s] English:** it's just like a different universe, different syntax, different concepts,  
+**[1158.26s] English:** And so, if you do metaprogramming and programming,  
+**Translation:** 
+
+**[1160.32s] English:** It's just like a different universe: different syntax, different concepts.  
 **Translation:** Vocabulary: syntax: 语法规则
 
-**[1163.78s] English:** different stuff going on.  
+**[1163.78s] English:** Different stuff is going on.  
 **Translation:** 
 
-**[1164.76s] English:** And so, again, one of our goals with Mojo is to make things really easy to use,  
+**[1164.76s] English:** And so, again, one of our goals with Mojo is to make things really easy to use.  
 **Translation:** 
 
-**[1168.92s] English:** easy to learn,  
+**[1168.92s] English:** Easy to learn,  
 **Translation:** 
 
-**[1169.72s] English:** and so there's a natural stepping stone.  
+**[1169.72s] English:** And so, there's a natural stepping stone.  
 **Translation:** 
 
-**[1172.78s] English:** And so as you do this, you say,  
+**[1172.78s] English:** And so, as you do this, you say,  
 **Translation:** 
 
-**[1173.94s] English:** okay, well, I have to do programming at runtime.  
-**Translation:** 
+**[1173.94s] English:** Okay, well, I have to do programming at runtime.  
+**Translation:** Vocabulary: runtime: 运行时
 
-**[1176.46s] English:** I have to do programming at compile time.  
+**[1176.46s] English:** I have to do programming at compile-time.  
 **Translation:** 
 
 **[1179.06s] English:** Why are these different things?  
 **Translation:** 
 
-**[1181.22s] English:** How hard is that to pull it off?  
+**[1181.22s] English:** How hard is that to pull off?  
 **Translation:** 
 
-**[1182.38s] English:** Because that sounds, to me as a fan of metaprogramming in C++ even,  
+**[1182.38s] English:** Because that sounds, to me as a fan of metaprogramming in C++, even.  
+**Translation:** Vocabulary: metaprogramming: 元编程
+
+**[1187.06s] English:** How hard is it to pull that off?  
 **Translation:** 
 
-**[1187.06s] English:** how hard is it to pull that off?  
+**[1189.00s] English:** That sounds really, really exciting!  
 **Translation:** 
 
-**[1189.00s] English:** That sounds really, really exciting  
-**Translation:** 
-
-**[1190.38s] English:** because you can do the same style of programming at compile time and at runtime.  
+**[1190.38s] English:** Because you can do the same style of programming at compile time and at runtime.  
 **Translation:** 
 
 **[1194.18s] English:** That's really, really exciting.  
-**Translation:** Vocabulary: runtime: 运行时
+**Translation:** Vocabulary: compile: 编译
 
 **[1195.88s] English:** And so, I mean, in terms of the compiler implementation details,  
 **Translation:** 
 
-**[1198.90s] English:** it's hard.  
+**[1198.90s] English:** It's hard.  
 **Translation:** Vocabulary: implementation: 实现细节
 
 **[1199.72s] English:** Yeah.  
@@ -1078,44 +1079,44 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1201.88s] English:** It's super hard.  
 **Translation:** 
 
-**[1202.98s] English:** It requires, I mean, what Mojo has underneath the covers  
+**[1202.98s] English:** It requires, I mean, what Mojo has underneath the covers.  
+**Translation:** Vocabulary: underneath: 在...下面
+
+**[1205.66s] English:** It is a completely new approach to the design of the compiler itself.  
 **Translation:** 
 
-**[1205.66s] English:** is a completely new approach to the design of the compiler itself.  
+**[1209.20s] English:** And so this builds on these technologies, like MLIR, that you mentioned.  
 **Translation:** 
 
-**[1209.20s] English:** And so this builds on these technologies like MLIR that you mentioned,  
+**[1212.98s] English:** But it also includes other things, like caching and other interpreters.  
 **Translation:** 
 
-**[1212.98s] English:** but it also includes other, like, caching and other interpreters  
-**Translation:** 
-
-**[1217.22s] English:** and JIT compilers and other stuff like that.  
+**[1217.22s] English:** And JIT compilers and other stuff like that.  
 **Translation:** Vocabulary: caching: 缓存; compilers: 编译器; interpreters: 解释器
 
-**[1219.22s] English:** So you have, like, an interpreter inside the compiler.  
+**[1219.22s] English:** So, you have an interpreter inside the compiler.  
 **Translation:** 
 
 **[1220.62s] English:** Within the compiler, yes.  
 **Translation:** Vocabulary: interpreter: 解释器
 
-**[1222.96s] English:** And so it really takes the standard model of programming languages  
+**[1222.96s] English:** And so, it really takes the standard model of programming languages.  
 **Translation:** 
 
-**[1227.92s] English:** and kind of twists it and unifies it with the runtime model,  
-**Translation:** 
+**[1227.92s] English:** And it kind of twists it and unifies it with the runtime model.  
+**Translation:** Vocabulary: twists: 扭曲; unifies: 统一
 
-**[1232.14s] English:** which I think is really cool.  
+**[1232.14s] English:** Which I think is really cool.  
 **Translation:** 
 
 **[1234.12s] English:** And to me, the value of that is that, again,  
 **Translation:** 
 
-**[1236.26s] English:** many of these languages have metaprogramming features.  
+**[1236.26s] English:** Many of these languages have metaprogramming features.  
 **Translation:** 
 
-**[1238.18s] English:** Like, they grow macros or something.  
-**Translation:** Vocabulary: macros: 宏
+**[1238.18s] English:** Like, they grow macroalgae or something.  
+**Translation:** Vocabulary: macroalgae: 海藻
 
 **[1240.18s] English:** Lisp, right?  
 **Translation:** 
@@ -1132,97 +1133,97 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1246.70s] English:** And so, you know, if you go back to Lisp,  
 **Translation:** 
 
-**[1248.38s] English:** one of the most powerful things about it is that it said that  
+**[1248.38s] English:** One of the most powerful things about it is that it said that.  
 **Translation:** 
 
-**[1250.98s] English:** the metaprogramming and the programming are the same, right?  
+**[1250.98s] English:** The metaprogramming and the programming are the same, right?  
 **Translation:** 
 
-**[1254.06s] English:** And so that made it way simpler, way more consistent,  
+**[1254.06s] English:** And so that made it way simpler, way more consistent.  
 **Translation:** 
 
-**[1256.56s] English:** way easier to understand and reason about.  
+**[1256.56s] English:** It's way easier to understand and reason about.  
 **Translation:** 
 
 **[1258.04s] English:** And it made it more composable.  
+**Translation:** Vocabulary: composable: 可组合的
+
+**[1259.78s] English:** So, if you build a library, you can use it both at runtime and compile time.  
 **Translation:** 
 
-**[1259.78s] English:** So if you build a library, you can use it both at runtime and compile time,  
-**Translation:** 
-
-**[1263.40s] English:** which is pretty cool.  
-**Translation:** 
+**[1263.40s] English:** Which is pretty cool.  
+**Translation:** Vocabulary: runtime: 运行时
 
 **[1264.44s] English:** Yeah.  
 **Translation:** 
 
 **[1264.68s] English:** And for machine learning, I think metaprogramming,  
-**Translation:** 
+**Translation:** Vocabulary: metaprogramming: 元编程
 
-**[1267.18s] English:** I think we could generally say, is extremely useful.  
+**[1267.18s] English:** I think we could generally say that it is extremely useful.  
 **Translation:** 
 
 **[1271.88s] English:** And so you get features.  
 **Translation:** 
 
-**[1273.42s] English:** I mean, I'll jump around, but there's the feature of auto-tuning  
+**[1273.42s] English:** I mean, I'll jump around, but there's the feature of auto-tuning.  
 **Translation:** 
 
-**[1276.90s] English:** and adaptive compilation just blows my mind.  
-**Translation:** Vocabulary: adaptive: 自适应; compilation: 编译
+**[1276.90s] English:** And adaptive compilation just blows my mind.  
+**Translation:** Vocabulary: adaptive: 自适应的; compilation: 编译
 
-**[1280.84s] English:** Well, so, okay, so let's come back to that.  
+**[1280.84s] English:** Well, so okay, so let's come back to that.  
 **Translation:** 
 
 **[1282.26s] English:** All right.  
 **Translation:** 
 
-**[1282.82s] English:** So what is machine learning?  
+**[1282.82s] English:** So, what is machine learning?  
 **Translation:** 
 
-**[1285.14s] English:** Or what is a machine learning model?  
+**[1285.14s] English:** What is a machine learning model?  
 **Translation:** 
 
-**[1286.42s] English:** Like, you take a PyTorch model off there,  
+**[1286.42s] English:** Like, you take a PyTorch model, and there you go.  
 **Translation:** 
 
-**[1287.94s] English:** and then, right, it's really interesting to me  
+**[1287.94s] English:** And then, right, it's really interesting to me.  
 **Translation:** 
 
-**[1290.32s] English:** because what PyTorch and what TensorFlow and all these frameworks  
+**[1290.32s] English:** Because what PyTorch and what TensorFlow, and all these frameworks,  
 **Translation:** 
 
-**[1293.64s] English:** are kind of pushing compute into  
+**[1293.64s] English:** Are kind of pushing compute into  
+**Translation:** Vocabulary: compute: 计算
+
+**[1295.56s] English:** Is there pushing into this abstract specification?  
 **Translation:** 
 
-**[1295.56s] English:** is they're pushing into, like, this abstract specification  
+**[1298.76s] English:** Of a compute problem,  
+**Translation:** Vocabulary: specification: 规范
+
+**[1300.90s] English:** Which then gets mapped in a whole bunch of different ways, right?  
 **Translation:** 
 
-**[1298.76s] English:** of a compute problem,  
-**Translation:** Vocabulary: specification: 规范说明
-
-**[1300.90s] English:** which then gets mapped in a whole bunch of different ways, right?  
+**[1303.38s] English:** And so, this is why it became a metaprogramming problem.  
 **Translation:** 
 
-**[1303.38s] English:** And so this is why it became a metaprogramming problem,  
-**Translation:** Vocabulary: metaprogramming: 元编程
-
-**[1305.36s] English:** is that you want to be able to say,  
+**[1305.36s] English:** Is that you want to be able to say,  
 **Translation:** 
 
-**[1306.92s] English:** cool, I have this neural net.  
-**Translation:** 
+**[1306.92s] English:** Cool, I have this neural network.  
+**Translation:** Vocabulary: neural: 神经的
 
-**[1308.74s] English:** Now run it with batch size 1,000, right?  
+**[1308.74s] English:** Now, run it with a batch size of 1,000, right?  
 **Translation:** 
 
 **[1311.46s] English:** Do a mapping across batch.  
 **Translation:** 
 
-**[1314.46s] English:** Or, okay, I want to take this problem,  
+**[1314.46s] English:** Or, okay, I want to take this problem.  
 **Translation:** 
 
-**[1316.08s] English:** now run it across 1,000 CPUs.  
+**[1316.08s] English:** Now run it across 1,000 CPUs.  
 **Translation:** 
 
 **[1318.30s] English:** Or GPUs, right?  
@@ -1231,11 +1232,11 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1319.64s] English:** And so...  
 **Translation:** 
 
-**[1320.00s] English:** Like, this problem of, like, describe the compute and then map it and do things and transform it are, like, actually it's very profound, and that's one of the things that makes machine learning systems really special.  
+**[1320.00s] English:** Like, this problem of, like, describing the computation and then mapping it and doing things and transforming it are, like, actually very profound, and that's one of the things that make machine learning systems really special.  
 **Translation:** 
 
-**[1332.00s] English:** Maybe can you describe auto-tuning and how do you pull off – I mean, I guess adaptive compilation is what we're talking about as metaprogramming.  
-**Translation:** Vocabulary: profound: 深刻
+**[1332.00s] English:** Maybe you could describe auto-tuning and how you accomplish it—I mean, I guess adaptive compilation is what we're talking about, as metaprogramming.  
+**Translation:** Vocabulary: computation: 计算; profound: 深刻的
 
 **[1339.54s] English:** Yeah.  
 **Translation:** 
@@ -1246,10 +1247,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1340.76s] English:** I mean, is that as profound as I think it is?  
 **Translation:** 
 
-**[1343.22s] English:** It seems like a really, like, you know, we mentioned list comprehensions.  
+**[1343.22s] English:** It seems like a really interesting topic, like, you know, we mentioned list comprehensions.  
 **Translation:** Vocabulary: comprehensions: 理解
 
-**[1347.58s] English:** To me, from a quick glance at Mojo, which, by the way, I have to absolutely, like, dive in, as I realize how amazing this is, I absolutely must dive in, that looks like just an incredible feature for machine learning people.  
+**[1347.58s] English:** To me, from a quick glance at Mojo, which, by the way, I have to absolutely, like, dive in—as I realize how amazing this is—I absolutely must dive in. That looks like just an incredible feature for machine learning people.  
 **Translation:** 
 
 **[1363.22s] English:** Yeah.  
@@ -1258,22 +1259,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1363.50s] English:** Well, so what is auto-tuning?  
 **Translation:** 
 
-**[1364.70s] English:** So take a step back.  
+**[1364.70s] English:** So, take a step back.  
 **Translation:** 
 
 **[1366.20s] English:** Auto-tuning is a feature in Mojo.  
 **Translation:** 
 
-**[1367.82s] English:** It's not – so very little of what we're doing is actually research.  
+**[1367.82s] English:** It's not, so very little of what we're doing is actually research.  
 **Translation:** 
 
-**[1371.02s] English:** Like, many of these ideas have existed in other systems and other places, and so what we're doing is we're pulling together good ideas, remixing them.  
+**[1371.02s] English:** Like, many of these ideas have existed in other systems and other places, and so what we're doing is pulling together good ideas and remixing them.  
 **Translation:** 
 
 **[1377.58s] English:** And making them into, hopefully, a beautiful system, right?  
-**Translation:** Vocabulary: remixing: 重新混音
+**Translation:** Vocabulary: remixing: 重新混搭
 
-**[1381.54s] English:** And so auto-tuning, the observation is that it turns out hardware systems, algorithms are really complicated.  
+**[1381.54s] English:** And so, auto-tuning: the observation is that it turns out hardware systems and algorithms are really complicated.  
 **Translation:** 
 
 **[1389.16s] English:** It turns out maybe you don't actually want to know how the hardware works, right?  
@@ -1282,146 +1283,146 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1393.48s] English:** A lot of people don't, right?  
 **Translation:** 
 
-**[1394.74s] English:** And so there are lots of really smart hardware people – I know a lot of them – where they know everything about, okay, the cache size is this, and the number of registers is that.  
-**Translation:** Vocabulary: cache: 缓存
+**[1394.74s] English:** And so there are lots of really smart hardware people—I know a lot of them—where they know everything about, okay, the cache size is this, and the number of registers is that.  
+**Translation:** Vocabulary: cache: 缓存; registers: 寄存器
 
 **[1404.32s] English:** And if you use this length of vector, it's going to be super efficient because it maps.  
 **Translation:** 
 
-**[1407.58s] English:** It maps directly onto what it can do and, like, all this kind of stuff.  
+**[1407.58s] English:** It maps directly onto what it can do, and, like, all this kind of stuff.  
 **Translation:** 
 
-**[1410.08s] English:** Or the GPU has SMs and it has a warp size of whatever, right?  
+**[1410.08s] English:** Or the GPU has SMs, and it has a warp size of whatever, right?  
 **Translation:** 
 
 **[1413.36s] English:** All the stuff that goes into these things, or the tile size of a TPU is 128, like these factoids, right?  
-**Translation:** Vocabulary: factoids: 琐闻趣事
+**Translation:** Vocabulary: factoids: 琐碎事实
 
-**[1420.26s] English:** My belief is that most normal people – and I love hardware people also.  
+**[1420.26s] English:** My belief is that most normal people — and I love hardware people, too.  
 **Translation:** 
 
 **[1424.46s] English:** I'm not trying to offend literally everybody on the internet.  
-**Translation:** 
+**Translation:** Vocabulary: offend: 冒犯
 
 **[1427.24s] English:** But most programmers actually don't want to know this stuff, right?  
 **Translation:** 
 
-**[1431.70s] English:** And so if you come at it from the perspective of how do we allow people to build both more abstracted but also more portable?  
+**[1431.70s] English:** And so, if you come at it from the perspective of how do we allow people to build both more abstracted and also more portable?  
 **Translation:** Vocabulary: abstracted: 抽象化; programmers: 程序员
 
-**[1437.58s] English:** Because, you know, it could be –  
+**[1437.58s] English:** Because, you know, it could be—  
 **Translation:** 
 
-**[1440.00s] English:** the vector length changes or the cache size changes or it could be that the tile size of  
+**[1440.00s] English:** The vector length changes, or the cache size changes, or it could be that the tile size changes.  
 **Translation:** 
 
-**[1443.20s] English:** your matrix changes or the number you know an a100 versus an h100 versus a volta versus a whatever  
+**[1443.20s] English:** Your matrix changes, or the number you know, A100 versus H100 versus Volta versus a whatever.  
 **Translation:** 
 
-**[1448.56s] English:** gpu have different characteristics right a lot of the algorithms that you run are actually the same  
-**Translation:** Vocabulary: matrix: 矩阵; volta: 伏特
+**[1448.56s] English:** GPU have different characteristics, right? A lot of the algorithms that you run are actually the same.  
+**Translation:** Vocabulary: characteristics: 特性; matrix: 矩阵; volta: 伏特
 
-**[1454.40s] English:** but the parameters these magic numbers you have to fill in end up being really fiddly numbers  
+**[1454.40s] English:** But the parameters, these magic numbers you have to fill in, end up being really fiddly numbers.  
 **Translation:** 
 
-**[1458.88s] English:** that an expert has to go figure out and so what auto tuning does it says okay well guess what  
+**[1458.88s] English:** That an expert has to go figure out, and so what auto-tuning does is it says, "Okay, well, guess what?  
 **Translation:** Vocabulary: fiddly: 繁琐的
 
-**[1464.32s] English:** there's a lot of compute out there right so instead of having humans go randomly try all  
+**[1464.32s] English:** There's a lot of compute out there, right? So instead of having humans go randomly trying all possibilities,  
 **Translation:** 
 
-**[1469.12s] English:** the things or do a grid search or go search some complicated multi-dimensional space  
+**[1469.12s] English:** The things, or do a grid search or go search some complicated multi-dimensional space.  
+**Translation:** Vocabulary: compute: 计算能力
+
+**[1474.00s] English:** How about we have computers do that, right? And so, what auto-tuning does is you can say, "Hey, here's  
 **Translation:** 
 
-**[1474.00s] English:** how about we have computers do that right and so what auto tuning does is you can say hey here's  
+**[1478.32s] English:** My algorithm, if it's a matrix operation or something like that, you can say, "Okay, I'm going  
+**Translation:** Vocabulary: algorithm: 计算方法
+
+**[1483.84s] English:** To carve it up into blocks, I'm going to do those blocks in parallel, and I want this with 128.  
 **Translation:** 
 
-**[1478.32s] English:** my algorithm if it's a a matrix operation or something like that you can say okay i'm going  
-**Translation:** Vocabulary: algorithm: 算法
+**[1489.52s] English:** Things that I'm running on, I want to cut it this way or that way, or whatever, and you can say, "Hey,  
+**Translation:** Vocabulary: parallel: 并行处理
 
-**[1483.84s] English:** to carve it up into blocks i'm going to do those blocks in parallel and i want this this with 128  
+**[1493.44s] English:** Go see which one's actually empirically better on the system, and then the result of that you  
 **Translation:** 
 
-**[1489.52s] English:** things that i'm running on i want to cut it this way or that way or whatever and you can say hey  
+**[1498.72s] English:** Cache  
+**Translation:** Vocabulary: cache: 缓存; empirically: 根据实验
+
+**[1499.12s] English:** For that system, you save it and so come back to twisting your compiler brain, right? So, not only  
 **Translation:** 
 
-**[1493.44s] English:** go see which one's actually empirically better on the system and then the result of that you  
+**[1505.92s] English:** Does the compiler have an interpreter that's used to do metaprogramming, that compiler that?  
+**Translation:** Vocabulary: interpreter: 解释器; metaprogramming: 元编程; twisting: 绞尽脑汁
+
+**[1510.72s] English:** Interpreter, that metaprogramming now has to actually take your code and go run it on a  
 **Translation:** 
 
-**[1498.72s] English:** cache  
-**Translation:** Vocabulary: empirically: 根据实证
+**[1515.04s] English:** Target machine, see which one it likes the best, and then stitch it in, and then keep going.  
+**Translation:** Vocabulary: stitch: 缝合代码
 
-**[1499.12s] English:** for that system yep you save it and so come back to twisting your compiler brain right so not only  
+**[1520.56s] English:** Right, so part of the compilation is machine-specific, yeah. Well, so I mean, this is an optional...  
 **Translation:** 
 
-**[1505.92s] English:** does the compiler have an interpreter that's used to do metaprogramming that compiler that  
-**Translation:** Vocabulary: interpreter: 解释器; metaprogramming: 元编程
+**[1525.20s] English:** Feature, right, so you don't have to use it for everything, but yeah, if you are, so one of  
+**Translation:** Vocabulary: compilation: 汇编; optional: 可选的
 
-**[1510.72s] English:** interpreter that metaprogramming now has to actually take your code and go run it on a  
+**[1529.12s] English:** The things that we're in the quest for is ultimate performance, yes, right? Ultimate performance is  
 **Translation:** 
 
-**[1515.04s] English:** target machine see see which one it likes the best and then stitch it in and then keep going  
+**[1535.04s] English:** Important for a couple of reasons, right? So, if you're an enterprise, you're looking to save costs.  
 **Translation:** 
 
-**[1520.56s] English:** right so part of the compilation is machine specific yeah well so i mean this is an optional  
+**[1538.56s] English:** And compute, and things like that, ultimately translate to fewer servers.  
 **Translation:** 
 
-**[1525.20s] English:** feature right so you don't have to use it for everything but yeah if you if you're so one of  
-**Translation:** Vocabulary: compilation: 汇编; optional: 可选
-
-**[1529.12s] English:** the things that we're in the quest of is ultimate performance yes right ultimate performance is  
+**[1543.76s] English:** Like, if you care about the environment, hey, better performance leads to more efficiency, right? I mean,...  
 **Translation:** 
 
-**[1535.04s] English:** important for a couple of reasons right so if you're an enterprise you're looking to save costs  
+**[1549.84s] English:** You could joke and say, "Like, you know, Python's bad for the environment.  
 **Translation:** 
 
-**[1538.56s] English:** and compute and things like this ultimate performance translates to you know fewer servers  
+**[1553.76s] English:** Right, and so if you move to MoJo, it's at least 10x better just out of the box, and keep going.  
 **Translation:** 
 
-**[1543.76s] English:** like if you care about the environment hey better performance leads to more efficiency right i mean  
+**[1558.08s] English:** Right.  
 **Translation:** 
 
-**[1549.84s] English:** you could joke and say like you know python's bad for the environment  
-**Translation:** 
-
-**[1553.76s] English:** right and so if you move to mojo it's like at least 10x better just out of the box and keep going  
-**Translation:** 
-
-**[1558.08s] English:** right  
-**Translation:** 
-
-**[1559.12s] English:** um  
+**[1559.12s] English:** Um.  
 **Translation:** 
 
 **[1560.00s] English:** But performance is also interesting because it leads to better products.  
 **Translation:** 
 
-**[1563.64s] English:** And so in the space of machine learning, right,  
+**[1563.64s] English:** And so, in the space of machine learning, right,  
 **Translation:** 
 
-**[1565.84s] English:** if you reduce the latency of a model so that it runs faster,  
+**[1565.84s] English:** If you reduce the latency of a model so that it runs faster,  
 **Translation:** 
 
-**[1569.84s] English:** so every time you query the server running the model, it takes less time,  
+**[1569.84s] English:** So, every time you query the server running the model, it takes less time.  
 **Translation:** Vocabulary: latency: 响应延迟
 
-**[1572.76s] English:** well, then the product team can go and make the model bigger.  
+**[1572.76s] English:** Well, then the product team can go and make the model bigger.  
 **Translation:** 
 
-**[1575.50s] English:** Well, that actually makes it so you have a better experience as a customer,  
+**[1575.50s] English:** Well, that actually makes it so you have a better experience as a customer.  
 **Translation:** 
 
-**[1579.88s] English:** and so a lot of people care about that.  
+**[1579.88s] English:** And so, a lot of people care about that.  
 **Translation:** 
 
-**[1581.52s] English:** So for auto-tuning, for, like, tile size, you mentioned 128 for TPU,  
+**[1581.52s] English:** So, for auto-tuning, for example, tile size, you mentioned 128 for TPU.  
 **Translation:** 
 
-**[1585.08s] English:** you would specify, like, a bunch of options to try?  
+**[1585.08s] English:** You would specify, like, a bunch of options to try?  
 **Translation:** 
 
 **[1587.54s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: specify: 指定
 
 **[1588.16s] English:** Just in the code?  
 **Translation:** 
@@ -1429,10 +1430,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1589.20s] English:** Yep.  
 **Translation:** 
 
-**[1589.38s] English:** It's just a simple statement, and then you can just set and forget  
+**[1589.38s] English:** It's just a simple statement, and then you can just set and forget.  
 **Translation:** 
 
-**[1592.74s] English:** and know depending on wherever it compiles, it'll actually be the fastest.  
+**[1592.74s] English:** And know that, depending on where it compiles, it'll actually be the fastest.  
 **Translation:** Vocabulary: compiles: 编译外
 
 **[1597.34s] English:** Yeah, exactly.  
@@ -1441,28 +1442,28 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1598.04s] English:** And the beauty of this is that it helps you in a whole bunch of different ways, right?  
 **Translation:** 
 
-**[1600.66s] English:** So if you're building – so often what will happen is that, you know,  
+**[1600.66s] English:** So, if you're building, so often what will happen is that, you know,  
 **Translation:** 
 
-**[1603.92s] English:** you've written a bunch of software yourself, right?  
+**[1603.92s] English:** You've written a bunch of software yourself, right?  
 **Translation:** 
 
-**[1606.00s] English:** You wake up one day, you say, I have an idea.  
+**[1606.00s] English:** You wake up one day and say, "I have an idea.  
 **Translation:** 
 
-**[1607.94s] English:** I'm going to go code up some code.  
+**[1607.94s] English:** I'm going to go code up some more code.  
 **Translation:** 
 
 **[1609.34s] English:** I get to work.  
 **Translation:** 
 
-**[1610.86s] English:** I forget about it.  
+**[1610.86s] English:** I forgot about it.  
 **Translation:** 
 
 **[1612.56s] English:** I move on with life.  
 **Translation:** 
 
-**[1613.58s] English:** I come back six months or a year or two years or three years later.  
+**[1613.58s] English:** I'll come back six months, or a year, or two years, or three years later.  
 **Translation:** 
 
 **[1615.94s] English:** You dust it off, and you go use it again in a new environment.  
@@ -1474,43 +1475,43 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1619.38s] English:** And maybe your GPU is different.  
 **Translation:** 
 
-**[1620.76s] English:** Maybe you're running on a server instead of a laptop.  
+**[1620.76s] English:** Maybe you're running it on a server instead of a laptop.  
+**Translation:** Vocabulary: laptop: 笔记本电脑
+
+**[1623.20s] English:** Maybe—whatever, right?  
 **Translation:** 
 
-**[1623.20s] English:** Maybe – whatever, right?  
+**[1624.50s] English:** And so the problem now is, you say, "Okay, well— I mean, again, not everybody cares about performance.  
 **Translation:** 
 
-**[1624.50s] English:** And so the problem now is you say, okay, well – I mean, again, not everybody cares about performance.  
-**Translation:** 
-
-**[1629.20s] English:** But if you do, you say, okay, well, I want to take advantage of all these new features.  
+**[1629.20s] English:** But if you do, you say, "Okay, well, I want to take advantage of all these new features.  
 **Translation:** 
 
 **[1632.98s] English:** I don't want to break the old thing, though, right?  
 **Translation:** 
 
-**[1635.78s] English:** And so the typical way of handling this kind of stuff before is, you know,  
+**[1635.78s] English:** And so, the typical way of handling this kind of stuff before was, you know,  
 **Translation:** 
 
-**[1640.34s] English:** if you're talking about C++ templates or you're talking about C with macros,  
+**[1640.34s] English:** If you're talking about C++ templates, or you're talking about C with macros,  
 **Translation:** Vocabulary: macros: 宏; templates: 模板
 
-**[1644.36s] English:** you end up with if-defs.  
+**[1644.36s] English:** You end up with if-defs.  
 **Translation:** 
 
-**[1645.34s] English:** You get, like, all these weird things get layered in, make the code super complicated,  
-**Translation:** 
+**[1645.34s] English:** You get, like, all these weird things layered in, making the code super complicated.  
+**Translation:** Vocabulary: layered: 叠加的
 
-**[1649.38s] English:** and how do you test it, right?  
+**[1649.38s] English:** And how do you test it, right?  
 **Translation:** 
 
 **[1651.04s] English:** It becomes this crazy complexity, multidimensional space that you have to worry about.  
-**Translation:** Vocabulary: complexity: 复杂性; multidimensional: 多维空间
+**Translation:** Vocabulary: complexity: 复杂性; multidimensional: 多维的
 
 **[1655.58s] English:** And, you know, that just doesn't scale very well.  
 **Translation:** 
 
-**[1658.84s] English:** Actually, let me just jump around before I go to some specific features.  
+**[1658.84s] English:** Actually, let me just jump around a bit before I go into some specific features.  
 **Translation:** 
 
 **[1662.14s] English:** Like, the increase in performance here that we're talking about can be just insane.  
@@ -1531,256 +1532,256 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[1679.38s] English:** Oh, okay.  
 **Translation:** 
 
-**[1680.00s] English:** to that so uh so first of all when we say that we're talking about what's called c python it's  
+**[1680.00s] English:** To that, so uh, so first of all, when we say that, we're talking about what's called CPython.  
 **Translation:** 
 
-**[1687.18s] English:** the default python that everybody uses when you type python 3 that's like typically the one you  
+**[1687.18s] English:** The default Python that everybody uses when you type `python3` is typically the one you.  
 **Translation:** 
 
-**[1691.68s] English:** use right c python is an interpreter and so interpreters they have an extra layer of like  
+**[1691.68s] English:** Use "right.c" Python is an interpreter, and so interpreters have an extra layer of like.  
 **Translation:** 
 
-**[1697.66s] English:** byte codes and things like this that they have to go read parse interpret and it makes them kind of  
-**Translation:** Vocabulary: interpret: 解释执行; interpreter: 解释器; interpreters: 解释器; parse: 解析
+**[1697.66s] English:** Byte codes and things like this that they have to go read, parse, and interpret, and it makes them kind of...  
+**Translation:** Vocabulary: interpret: 解释; interpreter: 解释器; interpreters: 解释器; parse: 解析
 
-**[1701.98s] English:** slow from that perspective and so one of the first things we do is we move to a compiler  
+**[1701.98s] English:** Slow from that perspective, and so one of the first things we do is move to a compiler.  
 **Translation:** 
 
-**[1706.28s] English:** and so i'm just moving to a compiler getting the interpreter out of the loop  
+**[1706.28s] English:** And so, I'm just moving to a compiler and getting the interpreter out of the loop.  
 **Translation:** 
 
-**[1709.74s] English:** is two to five to ten x speed up depending on the code so just out of the gate just using  
+**[1709.74s] English:** It's two to five times faster, depending on the code, so just out of the gate, just using...  
 **Translation:** 
 
-**[1716.64s] English:** more modern techniques right now if you do that one of the things you can do is you can start to  
+**[1716.64s] English:** More modern techniques, right? Now, if you do that, one of the things you can do is start to  
 **Translation:** 
 
-**[1721.60s] English:** look at how c python started to lay out data and so one of the things that c python did and this  
+**[1721.60s] English:** Look at how C++ Python started to lay out data, and so one of the things that C++ Python did, and this  
 **Translation:** 
 
-**[1729.02s] English:** isn't part of the python spec necessarily but this is just sets of decisions is that if you take an  
+**[1729.02s] English:** Isn't part of the Python spec, necessarily, but this is just a set of decisions: if you take an  
 **Translation:** 
 
-**[1735.30s] English:** integer for example  
+**[1735.30s] English:** Integer, for example.  
 **Translation:** 
 
-**[1736.28s] English:** it'll put it in an object because in python everything's an object and so they do the  
+**[1736.28s] English:** It will put it in an object, because in Python everything is an object, and so they do this.  
 **Translation:** Vocabulary: integer: 整数
 
-**[1741.22s] English:** very logical thing of keeping the memory representation of all objects the same  
+**[1741.22s] English:** Very logical thing of keeping the memory representation of all objects the same.  
 **Translation:** 
 
-**[1746.10s] English:** so all objects have a header they have like payload data they and what this means is that  
+**[1746.10s] English:** So, all objects have a header, which contains payload data. This means that:  
 **Translation:** Vocabulary: payload: 载荷数据
 
-**[1751.22s] English:** every time you pass around an object you're passing around a pointer to the data well this  
+**[1751.22s] English:** Every time you pass around an object, you're passing around a pointer to the data. Well, this  
 **Translation:** 
 
-**[1755.86s] English:** has overhead it turns out that modern computers don't like chasing pointers very much and things  
+**[1755.86s] English:** It has overhead, and it turns out that modern computers don't like chasing pointers very much, and things.  
+**Translation:** Vocabulary: chasing: 追逐指针
+
+**[1760.54s] English:** Like this, it means that you have to allocate the data, which means you have to reference-count it.  
 **Translation:** 
 
-**[1760.54s] English:** like this it means that you have to allocate the data means you have to reference count it which  
-**Translation:** 
-
-**[1764.94s] English:** is another way of that python  
+**[1764.94s] English:** Is another way of saying that Python.  
 **Translation:** Vocabulary: allocate: 分配
 
-**[1766.18s] English:** uses keep track of memory and so this has a lot of overhead and so if you say okay let's try to get  
+**[1766.18s] English:** Uses keep track of memory, and so this has a lot of overhead. And so, if you say okay, let's try to get  
 **Translation:** 
 
-**[1772.30s] English:** that out of the heap out of a box out of an indirection and into the registers that's that's  
+**[1772.30s] English:** That out of the heap, out of a box, out of an indirection, and into the registers—that's that's  
+**Translation:** Vocabulary: registers: 寄存器
+
+**[1780.98s] English:** Another 10x, so it adds up if you're reference-counting every single thing.  
 **Translation:** 
 
-**[1780.98s] English:** another 10x so it adds up if you if you're reference counting every single every every  
+**[1785.94s] English:** Single thing you create that adds up, yeah, and if you look at it, you know, people complain about the  
 **Translation:** 
 
-**[1785.94s] English:** single thing you create that adds up yep and if you look at you know people complain about the  
+**[1790.10s] English:** Python, Gill. This is one of the things that hurts parallelism; that's because the reference counter.  
 **Translation:** 
 
-**[1790.10s] English:** python gill this is one of the things that hurts parallelism that's because the reference counter  
-**Translation:** 
-
-**[1796.18s] English:** right and so the gill and reference counting are very tightly intertwined in python it's not the only  
+**[1796.18s] English:** Right, and so the gil and reference counting are very tightly intertwined in Python; it's not the only...  
 **Translation:** Vocabulary: intertwined: 紧密相关
 
-**[1800.00s] English:** but it's very tightly intertwined and so then you lean into this and you say okay cool well  
+**[1800.00s] English:** But it's very tightly intertwined, and so then you lean into this and you say, "Okay, cool, well...  
 **Translation:** 
 
-**[1804.04s] English:** modern computers they can do more than one operation at a time and so they have vectors  
+**[1804.04s] English:** Modern computers can do more than one operation at a time, and so they have vectors.  
+**Translation:** Vocabulary: vectors: 向量
+
+**[1808.52s] English:** What is a vector? Well, a vector allows you to take multiple pieces of data instead of just one and do an  
 **Translation:** 
 
-**[1808.52s] English:** what is a vector well a vector allows you to take one instead of taking one piece of data doing an  
+**[1812.68s] English:** Add or multiply, and then pick up the next one. You can now do four, eight, or 16, or 32 at a time.  
+**Translation:** Vocabulary: multiply: 相乘
+
+**[1818.46s] English:** Right, well, Python doesn't expose that because of reasons, and so now you can say, "Okay, well, you can.  
 **Translation:** 
 
-**[1812.68s] English:** add or multiply and then pick up the next one you can now do four or eight or 16 or 32 at a time  
-**Translation:** Vocabulary: multiply: 乘法
+**[1822.78s] English:** Adopt that now you have threads, and now you have like additional things, like you can control memory.  
+**Translation:** Vocabulary: threads: 线程
 
-**[1818.46s] English:** right well python doesn't expose that because of reasons and so now you can say okay well you can  
+**[1827.44s] English:** And so, what MoJo allows you to do is that it allows you to start taking advantage of all these powerful  
 **Translation:** 
 
-**[1822.78s] English:** adopt that now you have threads now you have like additional things like you can control memory  
+**[1831.94s] English:** Things that have been built into the hardware over time, and it gives the library a very nice feature set.  
 **Translation:** 
 
-**[1827.44s] English:** and so what mojo allows you to do is it allows you to start taking advantage of all these powerful  
+**[1837.28s] English:** Features, so you can say, "just parallelize this; do this in parallel," right? So it's very, very...  
 **Translation:** 
 
-**[1831.94s] English:** things that have been built into the hardware over time and it gives the library gives um very nice  
+**[1843.78s] English:** Powerful weapons against slowness, which is why people have been, I think, having fun, like just.  
+**Translation:** Vocabulary: parallel: 并行
+
+**[1849.16s] English:** Taking code and making it go fast because it's just kind of an adrenaline rush to see how.  
 **Translation:** 
 
-**[1837.28s] English:** features so you can say just parallelize this do this in parallel right so it's very um very  
-**Translation:** 
-
-**[1843.78s] English:** powerful weapons against slowness which is why people have been i think having fun like just  
-**Translation:** 
-
-**[1849.16s] English:** taking code and making it go fast because it's just kind of an adrenaline rush to see like how  
-**Translation:** 
-
-**[1853.06s] English:** fast you can get things before i talk about some of the interesting stuff with parallelization all  
+**[1853.06s] English:** Fast, you can get things done before I talk about some of the interesting stuff with parallelization, all.  
 **Translation:** Vocabulary: adrenaline: 肾上腺素
 
-**[1857.18s] English:** that  
+**[1857.18s] English:** That  
 **Translation:** 
 
-**[1857.40s] English:** let's let's first talk about like the basics we talked to indentation right so this thing looks  
+**[1857.40s] English:** Let's first talk about the basics. We talked about indentation, right? So this thing looks  
 **Translation:** Vocabulary: indentation: 缩进
 
-**[1862.16s] English:** like python it's sexy and beautiful like python as we mentioned uh is it a typed language so what's  
+**[1862.16s] English:** Like Python, it's sexy and beautiful. Like Python, as we mentioned, is it a typed language? So, what's  
 **Translation:** 
 
-**[1869.54s] English:** the role of types yeah good question so python has types it has strings has integers it has  
+**[1869.54s] English:** The role of types, yeah—good question. So Python has types; it has strings, has integers, it has...  
 **Translation:** Vocabulary: integers: 整数
 
-**[1876.42s] English:** dictionaries and like all that stuff but they all live at runtime right and so because all those  
+**[1876.42s] English:** Dictionaries and, like, all that stuff, but they all live at runtime, right? And so, because all those...  
 **Translation:** 
 
-**[1882.16s] English:** types live at runtime in python you never or you don't have to spell them python also has  
+**[1882.16s] English:** Types live at runtime in Python; you never have to spell them out. Python also has:  
 **Translation:** Vocabulary: runtime: 运行时
 
-**[1887.40s] English:** like this whole typing thing going on now and a lot of people use it yeah i'm not talking about  
+**[1887.40s] English:** Like this, with the whole typing thing going on now, and a lot of people use it. Yeah, I'm not talking about...  
 **Translation:** 
 
-**[1891.22s] English:** that that's that's kind of a different thing we can go back to that if you want but but typically  
+**[1891.22s] English:** That's kind of a different thing. We can go back to that if you want, but typically,...  
 **Translation:** 
 
-**[1894.70s] English:** the um you know you just say i take i have a def and my def takes two parameters i'm going to call  
+**[1894.70s] English:** The um, you know, you just say "I take I have a def that takes two parameters," and I'm going to call  
 **Translation:** 
 
-**[1900.68s] English:** them a and b and i don't have to write a type okay so that is great but what that does is that forces  
+**[1900.68s] English:** They are A and B, and I don't have to write a type okay, so that's great, but what that does is force  
 **Translation:** 
 
-**[1907.10s] English:** what's called a consistent representation so these things have to be a pointer to an object with the  
+**[1907.10s] English:** What's called a "consistent representation" so these things have to be a pointer to an object with the  
 **Translation:** 
 
-**[1912.08s] English:** object header and they all have to look the same and then when you dispatch a method you go through  
-**Translation:** Vocabulary: dispatch: 分发调用
+**[1912.08s] English:** Object headers, and they all have to look the same. And then, when you dispatch a method, you go through...  
+**Translation:** Vocabulary: dispatch: 分发
 
-**[1916.90s] English:** all the same things and you have to look the same thing and you have to look the same thing and you  
+**[1916.90s] English:** All the same things, and you have to look at the same thing, and you have to look at the same thing, and you  
 **Translation:** 
 
-**[1917.40s] English:** different paths no matter what the the receiver whatever that  
+**[1917.40s] English:** Different paths, no matter what the receiver is, whatever that.  
 **Translation:** 
 
-**[1920.00s] English:** type is so what mojo does is it allows you to have more than one kind of type and so what it does is  
+**[1920.00s] English:** Type is so, what MoJo does is that it allows you to have more than one kind of type, and so what it does is:  
 **Translation:** 
 
-**[1925.84s] English:** allows you to say okay cool i have i have an object and objects behave like python does and so it's  
+**[1925.84s] English:** Allows you to say, "Okay, cool. I have an object, and objects behave like Python does," and so it is.  
 **Translation:** 
 
-**[1930.48s] English:** fully dynamic and that's all great and for many things classes like that's all very powerful and  
+**[1930.48s] English:** Fully dynamic, and that's all great. And for many things, classes like that are very powerful, and  
 **Translation:** 
 
-**[1934.96s] English:** very important but if you want to say hey it's an integer and it's 32 bits or 64 bits or whatever it  
+**[1934.96s] English:** Very important, but if you want to say "hey, it's an integer" and it's 32 bits or 64 bits or whatever it is.  
 **Translation:** Vocabulary: integer: 整数
 
-**[1940.48s] English:** is or it's a floating point value it's 64 bits well then the compiler can take that and it can  
+**[1940.48s] English:** Is or it's a floating-point value, it's 64 bits. Well, then the compiler can take that and it can  
 **Translation:** 
 
-**[1946.08s] English:** use that to do way better optimization it turns out again getting rid of the interactions that's  
+**[1946.08s] English:** Use that to do way better optimization, it turns out. Again, getting rid of the interactions that's  
 **Translation:** Vocabulary: optimization: 优化
 
-**[1950.88s] English:** huge means you can get better code completion because you have um because compiler knows what  
+**[1950.88s] English:** Huge means you can get better code completion because you have more information, because the compiler knows what  
 **Translation:** 
 
-**[1956.08s] English:** the type is and so it knows what operations work on it and so that's actually pretty huge and so  
+**[1956.08s] English:** The type is, and so it knows what operations work on it. And so that's actually pretty huge, and so  
+**Translation:** Vocabulary: completion: 补全
+
+**[1961.68s] English:** What MoJo does is that it allows you to progressively adopt types into your program, and so you can...  
 **Translation:** 
 
-**[1961.68s] English:** what mojo does is it allows you to progressively adopt types into your program and so you can  
+**[1966.80s] English:** Start again; it's compatible with Python, and so then you can add however many types you want.  
+**Translation:** Vocabulary: compatible: 兼容的; progressively: 逐步地
+
+**[1971.04s] English:** Wherever you want them, and if you don't want to deal with it, you don't have to deal with it, right?  
 **Translation:** 
 
-**[1966.80s] English:** start again it's compatible with python and so then you can add however many types you want  
-**Translation:** Vocabulary: compatible: 兼容; progressively: 逐步
-
-**[1971.04s] English:** wherever you want them and if you don't want to deal with it you don't have to deal with it right  
+**[1974.88s] English:** And so, one of them was  
 **Translation:** 
 
-**[1974.88s] English:** and so one of one of  
+**[1976.08s] English:** You know, our opinion on this is that it's not that types are the right thing or the wrong thing.  
 **Translation:** 
 
-**[1976.08s] English:** you know our opinions on this is that it's not that types are the right thing or the wrong thing  
-**Translation:** 
-
-**[1983.04s] English:** it's that they're a useful thing well so it's kind of optional it's not strict typing you don't have  
+**[1983.04s] English:** It's that they're a useful thing, well, so it's kind of optional; it's not strict typing, you don't have to use them.  
 **Translation:** Vocabulary: optional: 可选的
 
-**[1988.16s] English:** to specify a type exactly okay so starting from the thing that python's kind of reaching towards  
+**[1988.16s] English:** To specify a type exactly, okay, so starting from the thing that Python's kind of reaching towards.  
 **Translation:** 
 
-**[1993.68s] English:** right now with trying to inject types into it yeah with a very different approach but yes  
+**[1993.68s] English:** Right now, with trying to inject types into it, yeah, with a very different approach, but yes.  
+**Translation:** Vocabulary: inject: 注入; specify: 指定
+
+**[1999.60s] English:** Yeah, what's the different approach? I'm actually one of the people who haven't been using types.  
 **Translation:** 
 
-**[1999.60s] English:** yeah what's the different approach i'm actually one of the people that have not been using types  
+**[2005.60s] English:** Very much.  
 **Translation:** 
 
-**[2005.60s] English:** very much  
+**[2006.08s] English:** In Python, seven, okay. Why did you say "it just"? Well, because I know the importance. It's like adults.  
 **Translation:** 
 
-**[2006.08s] English:** in python seven okay why did you say it just well because i i know the importance it's like adults  
-**Translation:** 
-
-**[2012.72s] English:** use strict typing and so i i refuse to grow up in that sense it's a it's a kind of rebellion but i i  
+**[2012.72s] English:** Use strict typing, and so I refuse to grow up in that sense. It's a kind of rebellion, but I...  
 **Translation:** Vocabulary: rebellion: 反抗
 
-**[2019.84s] English:** just know that um it probably reduces the amount of errors even just for forget about performance  
+**[2019.84s] English:** Just know that, um, it probably reduces the amount of errors, even just for forget about performance.  
 **Translation:** 
 
-**[2026.16s] English:** improvements it probably reduces errors when you do strict typing yeah so i mean i think it's  
+**[2026.16s] English:** Improvements, it probably reduces errors when you do strict typing, yeah. So I mean, I think it's.  
 **Translation:** 
 
-**[2030.24s] English:** interesting if you look at that right and the reason i'm giving you a hard time again is that  
+**[2030.24s] English:** Interesting, if you look at that right. The reason I'm giving you a hard time again is that:  
 **Translation:** 
 
-**[2034.40s] English:** that there's this  
+**[2034.40s] English:** That there's this  
 **Translation:** 
 
-**[2036.08s] English:** this cultural norm this pressure this like there has to be a right way to do things  
+**[2036.08s] English:** This cultural norm, this pressure—there has to be a right way to do things.  
 **Translation:** 
 
-**[2040.00s] English:** It's like, you know, grown-ups only do it one way,  
+**[2040.00s] English:** It's like, you know, grown-ups only do it one way.  
 **Translation:** 
 
-**[2041.94s] English:** and if you don't do that, you should feel bad, right?  
+**[2041.94s] English:** And if you don't do that, you should feel bad, right?  
 **Translation:** 
 
-**[2043.94s] English:** Like, some people feel like Python's a guilty pleasure or something,  
+**[2043.94s] English:** Like, some people feel that Python is a guilty pleasure or something.  
 **Translation:** 
 
-**[2046.88s] English:** and it's like, when it gets serious, I need to go rewrite it, right?  
+**[2046.88s] English:** And it's like, when it gets serious, I need to go rewrite it, right?  
 **Translation:** 
 
 **[2049.50s] English:** Yeah, exactly.  
+**Translation:** Vocabulary: rewrite: 重写
+
+**[2050.20s] English:** Well, I mean, that's cool. I understand history.  
 **Translation:** 
 
-**[2050.20s] English:** Well, I mean, cool, I understand history,  
+**[2052.74s] English:** And I understand kind of where this comes from.  
 **Translation:** 
 
-**[2052.74s] English:** and I understand kind of where this comes from,  
+**[2054.24s] English:** But I don't think it has to be a guilty pleasure, right?  
 **Translation:** 
 
-**[2054.24s] English:** but I don't think it has to be a guilty pleasure, right?  
-**Translation:** 
-
-**[2057.50s] English:** So if you look at that, you say, why do you have to rewrite it?  
+**[2057.50s] English:** So, if you look at that, you might ask, why do you have to rewrite it?  
 **Translation:** 
 
 **[2060.12s] English:** Well, you have to rewrite it to deploy.  
@@ -1789,101 +1790,101 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[2062.18s] English:** Well, why do you want to deploy?  
 **Translation:** Vocabulary: deploy: 部署
 
-**[2063.40s] English:** Well, you care about performance, or you care about predictability,  
+**[2063.40s] English:** Well, you care about performance, or you care about predictability.  
 **Translation:** 
 
-**[2065.90s] English:** or you want, you know, a tiny thing on the server  
+**[2065.90s] English:** Or, you know, a tiny thing on the server.  
 **Translation:** 
 
-**[2068.88s] English:** that has no dependencies, or, you know,  
+**[2068.88s] English:** That has no dependencies, or, you know,  
 **Translation:** 
 
-**[2070.46s] English:** you have objectives that you're trying to attain.  
+**[2070.46s] English:** You have objectives that you're trying to attain.  
+**Translation:** Vocabulary: attain: 达成; objectives: 目标
+
+**[2074.00s] English:** So, what if Python can achieve those objectives?  
 **Translation:** 
 
-**[2074.00s] English:** So what if Python can achieve those objectives?  
+**[2077.44s] English:** So, if you want types, well, maybe you want types.  
 **Translation:** 
 
-**[2077.44s] English:** So if you want types, well, maybe you want types  
-**Translation:** 
-
-**[2079.34s] English:** because you want to make sure you're passing on the right thing.  
+**[2079.34s] English:** Because you want to make sure you're passing on the right thing.  
 **Translation:** 
 
 **[2081.78s] English:** Sure, you can add a type.  
 **Translation:** 
 
-**[2083.14s] English:** If you don't care, you're prototyping some stuff,  
+**[2083.14s] English:** If you don't care, you're prototyping some stuff.  
 **Translation:** 
 
-**[2085.78s] English:** you're hacking some things out,  
+**[2085.78s] English:** You're hacking some things out.  
 **Translation:** Vocabulary: hacking: 快速开发; prototyping: 原型制作
 
-**[2086.86s] English:** you're, like, pulling some RAM code off the Internet,  
+**[2086.86s] English:** You're like pulling some RAM code off the Internet.  
 **Translation:** 
 
-**[2088.98s] English:** it should just work, right?  
+**[2088.98s] English:** It should just work, right?  
 **Translation:** 
 
 **[2091.02s] English:** And you shouldn't be, like, pressured.  
 **Translation:** 
 
-**[2093.10s] English:** You shouldn't feel bad about doing the right thing  
+**[2093.10s] English:** You shouldn't feel bad about doing the right thing.  
 **Translation:** 
 
-**[2095.52s] English:** or the thing that feels good.  
+**[2095.52s] English:** Or the thing that feels good.  
 **Translation:** 
 
-**[2096.62s] English:** Now, if you're in a team, right,  
+**[2096.62s] English:** Now, if you're on a team, right,  
 **Translation:** 
 
-**[2098.76s] English:** you're working at some massive Internet company  
+**[2098.76s] English:** You're working at some massive Internet company.  
 **Translation:** 
 
-**[2100.86s] English:** and you have 400 million lines of Python code,  
+**[2100.86s] English:** And you have 400 million lines of Python code.  
 **Translation:** 
 
-**[2103.74s] English:** well, they may have a house rule that you use types, right?  
+**[2103.74s] English:** Well, they may have a house rule that you use types, right?  
 **Translation:** 
 
-**[2107.08s] English:** Because it makes it easier for different humans  
+**[2107.08s] English:** Because it makes it easier for different humans.  
 **Translation:** 
 
-**[2108.54s] English:** to talk to each other and understand what's going on  
+**[2108.54s] English:** To talk to each other and understand what's going on.  
 **Translation:** 
 
-**[2110.30s] English:** and bugs at scale, right?  
+**[2110.30s] English:** And bugs at scale, right?  
 **Translation:** 
 
-**[2112.44s] English:** And so there are lots of good reasons  
+**[2112.44s] English:** And so, there are lots of good reasons.  
 **Translation:** 
 
-**[2114.06s] English:** why you might want to use types,  
+**[2114.06s] English:** Why you might want to use types,  
 **Translation:** 
 
-**[2115.84s] English:** but that doesn't mean that everybody should use them all the time, right?  
+**[2115.84s] English:** But that doesn't mean that everybody should use them all the time, right?  
 **Translation:** 
 
-**[2118.84s] English:** So what Mojo does is it says,  
+**[2118.84s] English:** So, what Mojo does is it says,  
 **Translation:** 
 
-**[2120.06s] English:** cool, well, allow people to use types,  
+**[2120.06s] English:** Cool, well, allow people to use types.  
 **Translation:** 
 
-**[2122.62s] English:** and if you use types, you get nice things out of it, right?  
+**[2122.62s] English:** And if you use types, you get nice things out of it, right?  
 **Translation:** 
 
 **[2125.46s] English:** You get better performance and things like this, right?  
 **Translation:** 
 
-**[2127.80s] English:** But Mojo,  
+**[2127.80s] English:** But, Mojo,...  
 **Translation:** 
 
-**[2128.76s] English:** there's a full compatible superset of Python, right?  
+**[2128.76s] English:** There's a full, compatible superset of Python, right?  
 **Translation:** 
 
-**[2133.32s] English:** And so that means it has to work without types.  
-**Translation:** 
+**[2133.32s] English:** And so, that means it has to work without types.  
+**Translation:** Vocabulary: compatible: 兼容的
 
 **[2136.76s] English:** It has to support all the dynamic things.  
 **Translation:** 
@@ -1894,22 +1895,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[2139.34s] English:** It has to support list comprehensions and things like this, right?  
 **Translation:** 
 
-**[2143.88s] English:** And so that starting point, I think, is really important.  
+**[2143.88s] English:** And so, that starting point is really important.  
 **Translation:** Vocabulary: comprehensions: 理解能力
 
 **[2147.18s] English:** And I think that, again,  
 **Translation:** 
 
-**[2149.18s] English:** you can look at why I care so much about this,  
+**[2149.18s] English:** You can look at why I care so much about this.  
 **Translation:** 
 
-**[2151.00s] English:** and there's many different aspects of that,  
+**[2151.00s] English:** And there are many different aspects of that.  
 **Translation:** 
 
-**[2152.62s] English:** one of which is the world went through a very challenging migration  
-**Translation:** 
+**[2152.62s] English:** One of which is that the world went through a very challenging migration.  
+**Translation:** Vocabulary: migration: 人口迁移
 
-**[2156.20s] English:** from Python 2 to Python 3.  
+**[2156.20s] English:** From Python 2 to Python 3.  
 **Translation:** 
 
 **[2158.76s] English:** Right?  
@@ -1918,796 +1919,796 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[2159.46s] English:** Yes.  
 **Translation:** 
 
-**[2160.00s] English:** this migration took many years and it was very painful for many teams right and there's a lot of  
+**[2160.00s] English:** This migration took many years and it was very painful for many teams, right? And there's a lot of  
 **Translation:** 
 
-**[2164.66s] English:** a lot of things that went on in that um i'm not an expert in all the details i honestly don't want to  
+**[2164.66s] English:** A lot of things went on in that, um, I'm not an expert in all the details, and I honestly don't want to.  
 **Translation:** 
 
-**[2170.12s] English:** be i don't want the world to have to go through that yeah right and you know people can ignore  
+**[2170.12s] English:** Be, I don't want the world to have to go through that, yeah, right? And you know, people can ignore.  
 **Translation:** 
 
-**[2174.54s] English:** mojo and if it's not their thing that's that's cool but if they want to use mojo i don't want  
+**[2174.54s] English:** Mojo, and if it's not their thing, that's cool, but if they want to use mojo, I don't want  
 **Translation:** 
 
-**[2178.36s] English:** them to have to rewrite all their code i mean this okay the superset part is it's just i mean  
+**[2178.36s] English:** They would have to rewrite all their code, I mean. This, the superset part, is just, I mean.  
+**Translation:** Vocabulary: rewrite: 重写代码
+
+**[2184.30s] English:** So much brilliant stuff here that is definitely incredible. We'll talk about that, yeah.  
 **Translation:** 
 
-**[2184.30s] English:** so much brilliant stuff here that definitely is is incredible um we'll talk about that yeah  
+**[2189.96s] English:** First, how is the typing implemented differently in Python versus MoJo?  
+**Translation:** Vocabulary: implemented: 实现
+
+**[2196.42s] English:** So, this heterogeneous flexibility you said is definitely implemented, yeah. So I'm not a full...  
 **Translation:** 
 
-**[2189.96s] English:** first of all how's the typing implemented differently in uh in python versus uh mojo  
-**Translation:** 
-
-**[2196.42s] English:** so this heterogeneous flexibility you said is definitely implemented yeah so i'm not a full  
-**Translation:** 
-
-**[2202.36s] English:** expert in the whole backstory on types in python so i'll give you i'll give you that i can give  
+**[2202.36s] English:** An expert in the whole backstory on types in Python, so I'll give you; I can give.  
 **Translation:** Vocabulary: flexibility: 灵活性; heterogeneous: 异构的
 
-**[2206.94s] English:** you my understanding um my understanding is basically like many dynamic languages the  
+**[2206.94s] English:** You know, my understanding is basically like many dynamic languages, the  
 **Translation:** 
 
-**[2212.54s] English:** ecosystem went through a phase where people went from writing scripts to writing large scale  
+**[2212.54s] English:** Ecosystem went through a phase where people went from writing scripts to writing large-scale  
 **Translation:** 
 
-**[2217.88s] English:** huge code bases in python  
+**[2217.88s] English:** Huge code bases in Python.  
 **Translation:** 
 
-**[2219.96s] English:** and at scale it kind of helps have types yeah people want to be able to reason about interfaces  
+**[2219.96s] English:** And, at scale, it kind of helps to have typed interfaces; yeah, people want to be able to reason about them.  
 **Translation:** Vocabulary: interfaces: 接口
 
-**[2225.46s] English:** what what do you expect string or an inch or like what these basic things right and so what the  
+**[2225.46s] English:** What do you expect—string or an inch? Like, what are these basic things, right? And so what the  
 **Translation:** 
 
-**[2230.72s] English:** python community started doing is it started saying okay let's have tools on the side checker  
-**Translation:** 
-
-**[2236.52s] English:** tools right that go and like enforce invariance check for bugs try to identify things these are  
-**Translation:** 
-
-**[2242.72s] English:** called static analysis tools generally and so these tools run over your code and try to look  
-**Translation:** Vocabulary: invariance: 不变性
-
-**[2246.68s] English:** for bugs what ended up happening is there's so many of these things so many of these things  
-**Translation:** 
-
-**[2249.96s] English:** made different weird patterns and different approaches on specifying the types and different  
-**Translation:** Vocabulary: specifying: 指定
-
-**[2253.58s] English:** things going on that the python community realized and recognized hey hey there's a thing here and so  
-**Translation:** 
-
-**[2259.12s] English:** what they started to do is they started to standardize the syntax for adding types to python  
-**Translation:** Vocabulary: standardize: 规范化; syntax: 语法规则
-
-**[2262.66s] English:** now one of the challenges that they had is that they're coming from kind of this fragmented world  
-**Translation:** 
-
-**[2267.22s] English:** where there's lots of different tools they have different trade-offs and interpretations and the  
-**Translation:** Vocabulary: fragmented: 支离破碎; interpretations: 解释
-
-**[2270.90s] English:** types being different things and so if you look at types in python according to the python spec  
-**Translation:** 
-
-**[2275.74s] English:** the types are ignored right so according to python the types are ignored and so they're  
-**Translation:** 
-
-**[2279.96s] English:** the types that are ignored so if you look at you know children and children can be a little bit  
-**Translation:** 
-
-**[2285.28s] English:** forgetful and they're not secret and it's kind of interesting but if you look at the game experience  
-**Translation:** 
-
-**[2288.90s] English:** and you kind of like the game experience and you're like oh this is what this is it's going to be  
-**Translation:** 
-
-**[2291.84s] English:** different right so you can find lots of things to focus on and you can you can use them to gain  
-**Translation:** 
-
-**[2296.62s] English:** understanding for each of these things and so we started to after we started to think about how to  
-**Translation:** 
-
-**[2300.90s] English:** make this work the key is to start to think about what do we want to do and what it's going to look  
-**Translation:** 
-
-**[2305.40s] English:** like and then we started to think about how to do things without any kind of scientific knowledge  
-**Translation:** 
-
-**[2309.30s] English:** and so we started to think about how to use the 컨 merchant to create a database that was going to be  
-**Translation:** 
-
-**[2309.78s] English:** a Python's database and so in our case we started to think about the type that was going to be meant to be a  
-**Translation:** 
-
-**[2280.00s] English:** spec you can write pretty much anything in a type position okay and um you can technically you can  
-**Translation:** 
-
-**[2288.10s] English:** write any expression okay now that's beautiful because you can extend it you can do cool things  
-**Translation:** 
-
-**[2294.34s] English:** you can write build your own tools you can build your own house linter or something like that right  
+**[2230.72s] English:** The Python community started doing is that it began saying, "Okay, let's have tools on the side, like a linter," to help with code checking.  
 **Translation:** Vocabulary: linter: 代码检查工具
 
-**[2298.48s] English:** but it's also a problem because any existing python program may be using different tools  
+**[2236.52s] English:** Tools, right? That go and like enforce invariance, check for bugs, try to identify things; these are.  
 **Translation:** 
 
-**[2303.86s] English:** and they have different interpretations and so if you adopt somebody's package into your ecosystem  
+**[2242.72s] English:** Called static analysis tools generally, and so these tools run over your code and try to look  
+**Translation:** Vocabulary: enforce: 强制; invariance: 不变性
+
+**[2246.68s] English:** For bugs, what ended up happening is there are so many of these things.  
 **Translation:** 
 
-**[2308.38s] English:** try around the tool you prefer it may throw out tons of weird errors and warnings and problems  
+**[2249.96s] English:** Made different, weird patterns and different approaches on specifying the types and different.  
+**Translation:** Vocabulary: approaches: 方法; specifying: 指定
+
+**[2253.58s] English:** Things going on that the Python community realized and recognized: hey, hey, there's a thing here, and so...  
 **Translation:** 
 
-**[2312.82s] English:** just because it's incompatible with how these things work also because they're added late and  
+**[2259.12s] English:** What they started to do is they started to standardize the syntax for adding types to Python.  
+**Translation:** Vocabulary: standardize: 规范化; syntax: 语法规则
+
+**[2262.66s] English:** Now, one of the challenges they had was that they're coming from a kind of fragmented world.  
+**Translation:** 
+
+**[2267.22s] English:** Where there are lots of different tools, they have different trade-offs and interpretations, and the  
+**Translation:** Vocabulary: fragmented: 支离破碎的; interpretations: 解释
+
+**[2270.90s] English:** Types can be different things, and so if you look at types in Python according to the Python specification,  
+**Translation:** 
+
+**[2275.74s] English:** The types are ignored, right? So, according to Python, the types are ignored, and so they're  
+**Translation:** Vocabulary: specification: 规范
+
+**[2279.96s] English:** The types that are ignored, so if you look at, you know, children and children can be a little bit.  
+**Translation:** 
+
+**[2280.00s] English:** Sure, here is the improved version: "Spec: You can write pretty much anything in a type position, okay? And, um, you can technically...  
+**Translation:** Vocabulary: technically: 理论上
+
+**[2285.28s] English:** Forgetful, and they're not secret — it's kind of interesting, but if you look at the game experience,...  
+**Translation:** 
+
+**[2288.10s] English:** Write any expression, okay? Now, that's beautiful because you can extend it and you can do cool things.  
+**Translation:** 
+
+**[2288.90s] English:** And you kind of like the game experience, and you're like, "Oh, this is what it's going to be.  
+**Translation:** 
+
+**[2291.84s] English:** Different, right? So, you can find lots of things to focus on, and you can use them to gain.  
+**Translation:** 
+
+**[2294.34s] English:** You can write your own tools, such as a custom house linter, right?  
+**Translation:** 
+
+**[2296.62s] English:** Understanding for each of these things, and so we started to think about how to.  
+**Translation:** 
+
+**[2298.48s] English:** But it's also a problem because any existing Python program may be using different tools.  
+**Translation:** 
+
+**[2300.90s] English:** Make this work; the key is to start thinking about what we want to do and what it's going to look like.  
+**Translation:** 
+
+**[2303.86s] English:** And they have different interpretations, and so if you adopt somebody's package into your ecosystem,...  
+**Translation:** 
+
+**[2305.40s] English:** Like, and then we started to think about how to do things without any kind of scientific knowledge.  
+**Translation:** 
+
+**[2308.38s] English:** Try around the tool you prefer; it may throw out tons of weird errors, warnings, and problems.  
+**Translation:** 
+
+**[2309.30s] English:** And so, we started to think about how to use the merchant to create a database that was going to be  
+**Translation:** 
+
+**[2309.78s] English:** A Python's database, and so in our case, we started to think about the type that was going to be meant to be a.  
+**Translation:** 
+
+**[2312.82s] English:** Just because it's incompatible with how these things work, also because they're added late, and  
 **Translation:** Vocabulary: incompatible: 不兼容
 
-**[2317.70s] English:** they're not checked by the python interpreter it's always kind of more of a hint than it is a  
+**[2317.70s] English:** They're not checked by the Python interpreter; it's always more of a hint than it is a  
 **Translation:** 
 
-**[2321.20s] English:** requirement also uh the c python implementation can't use them for performance and so it's really  
-**Translation:** Vocabulary: implementation: 实现; interpreter: 解释器
-
-**[2327.26s] English:** that's a big one right so you can't utilize the for the compilation for the just in time  
+**[2321.20s] English:** Requirement: Also, the Python implementation can't use them for performance reasons, and so it's really  
 **Translation:** 
 
-**[2331.38s] English:** compilation okay exactly and this this all comes back to the design principle of it's  
-**Translation:** Vocabulary: compilation: 编译
-
-**[2335.82s] English:** it's kind of they're kind of hints they're kind of the definition  
+**[2327.26s] English:** That's a big one, right? So, you can't utilize it for the compilation or just-in-time.  
 **Translation:** 
 
-**[2338.38s] English:** is a little bit murky it's unclear exactly the interpretation in a bunch of cases and so  
-**Translation:** Vocabulary: murky: 模糊不清
+**[2331.38s] English:** Compilation, okay. Exactly, and this all comes back to the design principle that it's  
+**Translation:** Vocabulary: compilation: 编译; utilize: 利用
 
-**[2342.14s] English:** because of that you can't actually um even if you want to it's really difficult to use them to say  
+**[2335.82s] English:** It's kind of like they're kind of hints, they're kind of the definition.  
 **Translation:** 
 
-**[2347.00s] English:** like it is going to be an int and if it's not it's a problem right a lot of code would break if you  
+**[2338.38s] English:** It is a little bit murky; it's unclear exactly how to interpret things in a bunch of cases, and so  
+**Translation:** Vocabulary: interpret: 解释; murky: 模糊
+
+**[2342.14s] English:** Because of that, you can't actually use them, even if you want to; it's really difficult.  
 **Translation:** 
 
-**[2351.94s] English:** did that so so in mojo right so you can still use those kind of type annotations it's fine  
+**[2347.00s] English:** Like, it's going to be an int, and if it's not, it's a problem, right? A lot of code would break if you  
 **Translation:** 
 
-**[2356.76s] English:** but in mojo if you declare a type and you use it then it means it is going to be that type  
+**[2351.94s] English:** Did that so, so in MoJo? Right, so you can still use those kinds of type annotations; it's fine.  
+**Translation:** 
+
+**[2356.76s] English:** But in Mojo, if you declare a type and you use it, then it means it is going to be that type.  
 **Translation:** Vocabulary: annotations: 注解
 
-**[2362.50s] English:** and the compiler helps you check that and force it and it's safe um and it's not it's not a like  
+**[2362.50s] English:** And the compiler helps you check that and force it, and it's safe. Um, and it's not like  
 **Translation:** 
 
-**[2368.38s] English:** best effort hint kind of a thing so if you try to shove a string type thing into an integer you  
+**[2368.38s] English:** Best effort, hint, kind of a thing. So, if you try to shove a string-type thing into an integer,  
 **Translation:** Vocabulary: integer: 整数; shove: 强行插入
 
-**[2374.42s] English:** get an error and you get another from the compiler compile time nice okay what kind of basic types  
+**[2374.42s] English:** Get an error, and you get another from the compiler at compile-time. Nice, okay? What kind of basic types?  
 **Translation:** 
 
-**[2381.14s] English:** are there yeah so uh mojo is um pretty hardcore in terms of what it tries to do in the language  
-**Translation:** Vocabulary: hardcore: 严格要求的
+**[2381.14s] English:** Are there, yeah? So, uh, Mojo is pretty hardcore in terms of what it tries to do with the language.  
+**Translation:** Vocabulary: hardcore: 严格
 
-**[2389.26s] English:** which is the philosophy there is that we um again if you if you look at python right python's  
+**[2389.26s] English:** Which is the philosophy, there is that we, um, again, if you look at Python, right? Python's  
 **Translation:** 
 
-**[2396.78s] English:** beautiful language because it's so extensible  
+**[2396.78s] English:** Beautiful, because it's so extensible.  
 **Translation:** Vocabulary: extensible: 可扩展的
 
-**[2398.38s] English:** right and so all of  
+**[2398.38s] English:** Right, and so all of  
 **Translation:** 
 
-**[2400.00s] English:** the different things in python like for loops and plus and like all these things can be accessed  
+**[2400.00s] English:** The different things in Python, like for loops and plus, and all these things, can be accessed.  
 **Translation:** Vocabulary: accessed: 被访问
 
-**[2405.34s] English:** through these underbar armbar methods okay so you have to say okay if i make something that is super  
+**[2405.34s] English:** Through these underhook armbar methods, okay, so you have to say, "Okay, if I make something that is super...  
 **Translation:** 
 
-**[2411.56s] English:** fast i can go all the way down to the metal why do i need to have integers built into the language  
-**Translation:** Vocabulary: integers: 整数
+**[2411.56s] English:** Fast, I can go all the way down to the metal. Why do I need to have integers built into the language?  
+**Translation:** Vocabulary: integers: 整数; underhook: 锁腿勾
 
-**[2415.80s] English:** right and so what mojo does is it says okay well we can have this notion of structs  
+**[2415.80s] English:** Right, and so what MOJO does is it says, "Okay, well, we can have this notion of structs.  
 **Translation:** 
 
-**[2420.70s] English:** so you have classes in python now you can have structs classes are dynamic structs are static  
+**[2420.70s] English:** So, you have classes in Python now. You can also have structs. Classes are dynamic, while structs are static.  
+**Translation:** Vocabulary: structs: 结构体
+
+**[2426.22s] English:** Cool, we can get high-performance results by writing C++ code with structs if you want these.  
 **Translation:** 
 
-**[2426.22s] English:** cool we can get high performance we can write c++ kind of code with structs if you want these  
+**[2431.74s] English:** Things mix and work beautifully together, but what that means is that you can go and implement  
+**Translation:** Vocabulary: implement: 实现
+
+**[2436.08s] English:** Strings, and ints, and floats, and arrays, and all that kind of stuff in the language—right? And so  
 **Translation:** 
 
-**[2431.74s] English:** things mix and work beautifully together um but what that means is that you can go and implement  
+**[2441.96s] English:** That's really cool because, you know, to me, as an idealizing compiler language type of person.  
+**Translation:** Vocabulary: arrays: 数组
+
+**[2449.82s] English:** What I want to do is get magic out of the compiler and put it in the libraries, because if  
 **Translation:** 
 
-**[2436.08s] English:** strings and ints and floats and arrays and all that kind of stuff in the language right and so  
+**[2454.64s] English:** Somebody, can you know, if we  
 **Translation:** 
 
-**[2441.96s] English:** that's really cool because you know to me as a ideal idealizing compiler language type of person  
+**[2456.20s] English:** Can build an integer that's beautiful, and it has an amazing API; it does all the things you'd expect.  
 **Translation:** 
 
-**[2449.82s] English:** what i want to do is i want to get magic out of the compiler and put in the libraries because if  
+**[2460.00s] English:** An integer, to do, but you don't like it. Maybe you want a big integer, maybe you want to do it sideways.  
+**Translation:** Vocabulary: integer: 整数; sideways: 横向
+
+**[2465.46s] English:** Integer? I don't know, like what all the spaces of integers are, um, then you can do that.  
 **Translation:** 
 
-**[2454.64s] English:** somebody can you know if we  
+**[2471.80s] English:** And it's not a second-class citizen, and so if you look at certain other languages like C++, one  
 **Translation:** 
 
-**[2456.20s] English:** can build an integer that's beautiful and it has an amazing api it does all the things you'd expect  
+**[2478.14s] English:** Also, we love and use a lot; however, "um int" is hardcoded in the language, but "complex" is not.  
 **Translation:** 
 
-**[2460.00s] English:** an integer to do but you don't like it maybe you want a big integer maybe you want to like sideways  
-**Translation:** Vocabulary: sideways: 横着
+**[2485.66s] English:** The  
+**Translation:** Vocabulary: hardcoded: 固定编写
 
-**[2465.46s] English:** integer i don't know like what what all the space of integers are um then uh then you can do that  
+**[2486.20s] English:** And so, isn't it kind of weird that you have this `std::complex` class, but you have `int` and `complex`?  
 **Translation:** 
 
-**[2471.80s] English:** and it's not a second class citizen and so if you look at certain other languages like c++ one i  
+**[2492.98s] English:** Tries to look like a natural numeric type, and so on, but integers and floating-point numbers.  
+**Translation:** Vocabulary: integers: 整数; numeric: 数值的
+
+**[2498.42s] English:** Have these like special promotion rules, and other things like that, that are magic and they're hacked.  
 **Translation:** 
 
-**[2478.14s] English:** also love and use a lot um int is hardcoded in the language but complex is not  
+**[2502.56s] English:** Into the compiler, and because of that, you can't actually make something that works like the built-in functions.  
+**Translation:** Vocabulary: hacked: 被篡改
+
+**[2506.16s] English:** In terms of types, is there something provided as a standard because, you know, because it's AI-first, you know?  
 **Translation:** 
 
-**[2485.66s] English:** the  
-**Translation:** Vocabulary: hardcoded: 固定不变的
-
-**[2486.20s] English:** and so isn't it kind of weird that you have this std complex class but you have int and complex  
-**Translation:** 
-
-**[2492.98s] English:** tries to look like a natural numeric type and things like this but integers and floating point  
-**Translation:** Vocabulary: numeric: 数值的
-
-**[2498.42s] English:** have these like special promotion rules and other things like that that are magic and they're hacked  
-**Translation:** 
-
-**[2502.56s] English:** into the compiler and because of that you can't actually make something that works like the built  
-**Translation:** Vocabulary: hacked: 被修改
-
-**[2506.16s] English:** in types is there something provided as a standard because uh you know because it's ai first you know  
-**Translation:** 
-
-**[2514.12s] English:** numerical types are so important here so is there something like a nice standard  
+**[2514.12s] English:** Numerical types are so important here. Is there something like a nice standard?  
 **Translation:** Vocabulary: numerical: 数字的
 
-**[2520.00s] English:** implementation of integer and float yeah so so we're still building all that stuff out so we  
+**[2520.00s] English:** Implementation of integers and floats, yeah. So, so we're still building all that stuff out, so.  
 **Translation:** 
 
-**[2523.18s] English:** provide integers and floats and all that kind of stuff we also provide like buffers and tensors  
-**Translation:** Vocabulary: implementation: 实现; integer: 整数
+**[2523.18s] English:** Provide integers, floats, and all that kind of stuff. We also provide buffers and tensors.  
+**Translation:** Vocabulary: buffers: 缓冲区; implementation: 实现
 
-**[2527.06s] English:** and things like that that you'd expect in an ml context honestly we need to keep designing and  
+**[2527.06s] English:** And things like that, which you'd expect in an ML context, honestly, we need to keep designing and.  
 **Translation:** 
 
-**[2532.64s] English:** redesigning and working with the community to build that out and make that better that's not  
+**[2532.64s] English:** Redesigning and working with the community to build that out and make it better isn't  
 **Translation:** 
 
-**[2535.32s] English:** our strength right now give us six months or a year and i think it'll be way better but um but  
+**[2535.32s] English:** Our strength right now will give us six months or a year, and I think it'll be way better, but...  
 **Translation:** 
 
-**[2540.70s] English:** the power of putting in the library means we can have teams of experts that aren't compiler  
+**[2540.70s] English:** The power of putting it in the library means we can have teams of experts, not compilers.  
+**Translation:** Vocabulary: compilers: 编译者
+
+**[2544.74s] English:** Engineers that can help us design, refine, and drive us forward—so, one of the exciting things,...  
 **Translation:** 
 
-**[2544.74s] English:** engineers that can help us design and refine and drive us forward so uh one of the exciting things  
-**Translation:** 
-
-**[2550.24s] English:** we should mention here is that this is uh this is new and fresh this cake is unbaked it's almost  
+**[2550.24s] English:** We should mention here that this is new and fresh. This cake is unbaked; it's almost  
 **Translation:** Vocabulary: refine: 精炼; unbaked: 未烤
 
-**[2558.28s] English:** baked you can tell it's delicious but it's not fully ready to be consumed yep that's very fair  
+**[2558.28s] English:** Baked, you can tell it's delicious, but it's not fully ready to be consumed. Yep, that's very fair.  
 **Translation:** 
 
-**[2563.72s] English:** it is very useful but it's very useful if you're a super low level programmer right now and what  
-**Translation:** Vocabulary: programmer: 程序员
-
-**[2568.20s] English:** we're doing is we're working our way up the stack and so the way i would look at mojo today in may  
+**[2563.72s] English:** It is very useful, but it's only really helpful if you're a super low-level programmer right now and what?  
 **Translation:** 
 
-**[2573.50s] English:** in 2023  
+**[2568.20s] English:** We're doing that by working our way up the stack, and so the way I would look at MoJo today in May,...  
 **Translation:** 
 
-**[2574.74s] English:** is that it's like a 0.1 so i think that you know a year from now it's gonna be way more interesting  
+**[2573.50s] English:** In 2023  
 **Translation:** 
 
-**[2582.02s] English:** to a variety of people but what we're doing is we're we decide to release it early so that people  
+**[2574.74s] English:** Is that it's like 0.1? So, I think that you know, a year from now, it's gonna be way more interesting.  
 **Translation:** 
 
-**[2587.50s] English:** can get access to and play with and we can build with community we um have a big roadmap fully  
+**[2582.02s] English:** To a variety of people, but what we're doing is deciding to release it early so that people  
 **Translation:** 
 
-**[2593.54s] English:** published being transparent about this and a lot of people are involved in this stuff and so what  
-**Translation:** Vocabulary: transparent: 公开透明
-
-**[2597.48s] English:** we're doing is we're really optimizing for building this thing the right way and building it the right  
+**[2587.50s] English:** Can we get access to and play with it, and we can build with the community? We have a big roadmap, fully.  
 **Translation:** 
 
-**[2602.80s] English:** way is kind of interesting working with the community  
+**[2593.54s] English:** Published, be transparent about this, and a lot of people are involved in this stuff, so what?  
+**Translation:** Vocabulary: roadmap: 发展规划; transparent: 公开透明
+
+**[2597.48s] English:** We're doing is we're really optimizing for building this thing the right way, and building it the right  
+**Translation:** 
+
+**[2602.80s] English:** It's kind of interesting working with the community.  
 **Translation:** Vocabulary: optimizing: 优化
 
-**[2604.74s] English:** because everybody wants it yesterday and so it's sometimes it's kind of you know there's some  
+**[2604.74s] English:** Because everybody wants it yesterday, and so it's sometimes kind of like you know, there's some  
 **Translation:** 
 
-**[2611.12s] English:** dynamics there but yeah i think it's a good it's the right thing so there's a discord also so the  
+**[2611.12s] English:** Dynamics are there, but yeah, I think it's a good idea; it's the right thing to do. There's also a Discord server, so...  
 **Translation:** 
 
-**[2615.86s] English:** dynamics is pretty interesting sometimes the community probably can be very chaotic  
+**[2615.86s] English:** Dynamics is pretty interesting. Sometimes, the community can probably be very chaotic.  
 **Translation:** 
 
-**[2619.98s] English:** and uh introduce a lot of stress guido famously quit over the stress of the walrus operator i  
-**Translation:** Vocabulary: guido: 古迪奥; walrus: 海象
+**[2619.98s] English:** And, uh, it introduced a lot of stress. Guido famously quit over the stress of the Walrus Operator.  
+**Translation:** Vocabulary: chaotic: 混乱; walrus: 海象
 
-**[2628.06s] English:** mean yes you know i broke maybe that was the camel's back exactly and so like it could be  
+**[2628.06s] English:** Mean, yes, you know, I broke. Maybe that was the camel's back, exactly. And so, it could be.  
 **Translation:** 
 
-**[2633.70s] English:** very stressful as you do it but i think it's a good thing because i think it's a good thing because  
+**[2633.70s] English:** Very stressful as you do it, but I think it's a good thing because I think it's a good thing because  
 **Translation:** 
 
-**[2634.74s] English:** it's a good thing to develop but can you just a tangent upon a tangent is it stressful to do  
+**[2634.74s] English:** It's a good thing to develop, but can you just stay on topic? Is it stressful to do?  
 **Translation:** 
 
-**[2640.00s] English:** uh to work through the design of various features here given that the community is so  
-**Translation:** Vocabulary: tangent: 旁枝逸出
-
-**[2646.20s] English:** richly involved well so um so i've been doing open development and community stuff for decades now  
+**[2640.00s] English:** Uh, to work through the design of various features here, given that the community is so...  
 **Translation:** 
 
-**[2651.84s] English:** somehow this has happened to me um so i've i've learned some tricks but the the thing that always  
+**[2646.20s] English:** Richly involved, well, so um, so I've been doing open development and community stuff for decades now.  
 **Translation:** 
 
-**[2657.10s] English:** gets me is i want to make people happy right and so this this is maybe not all people all happy all  
+**[2651.84s] English:** Somehow, this has happened to me. Um, so I've learned some tricks, but the thing that always...  
 **Translation:** 
 
-**[2663.14s] English:** the time but generally i want i want people to be happy right and so the challenge is that again  
+**[2657.10s] English:** Gets me is that I want to make people happy, right? And so, this is maybe not making all people completely happy.  
 **Translation:** 
 
-**[2668.32s] English:** we're tapping into some long some deep-seated long tensions and pressures both in the python  
+**[2663.14s] English:** The time, but generally, I want people to be happy, right? And so the challenge is that...  
 **Translation:** 
 
-**[2675.02s] English:** world but also in the ai world in the hardware world and things like this and so people just  
+**[2668.32s] English:** We're tapping into some long, deep-seated tensions and pressures both in the Python community.  
 **Translation:** 
 
-**[2678.88s] English:** want us to move faster right and so again our decision was let's release this early let's get  
+**[2675.02s] English:** World, but also in the AI world, in the hardware world, and things like this, and so people just.  
 **Translation:** 
 
-**[2685.00s] English:** people used to it or access to it and play with it and like let's let's build in the open which  
+**[2678.88s] English:** We want to move faster, right? And so, again, our decision was to release this early and get  
 **Translation:** 
 
-**[2690.16s] English:** we could have you know had the the language monk sitting in the cloister up on the hilltop like  
+**[2685.00s] English:** People used to access it, play with it, and like it. Let's build it in the open, which  
 **Translation:** 
 
-**[2698.32s] English:** wearing away trying to build something but in my experience you get something that's way better if  
+**[2690.16s] English:** We could have, you know, had the Language Monk sitting in the cloister up on the hilltop like  
+**Translation:** 
+
+**[2698.32s] English:** Wearing away, trying to build something, but in my experience, you get something that's way better if  
 **Translation:** Vocabulary: cloister: 僧院; hilltop: 山顶
 
-**[2701.76s] English:** you work with the community right uh and so yes it can be frustrating can be challenging for lots of  
+**[2701.76s] English:** You work with the community, right? And so, yes, it can be frustrating and challenging for lots of people.  
 **Translation:** 
 
-**[2706.68s] English:** people involved and you know if you i mean if you mention our discord we have over 10 000 people on  
+**[2706.68s] English:** People involved, and you know, if you mention our Discord, we have over 10,000 people on.  
 **Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[2711.18s] English:** the discord 11 000 people or something keep in mind we released mojo like two weeks ago yeah  
+**[2711.18s] English:** The Discord server has around 11,000 people or so. Keep in mind we released MoJo just two weeks ago, yeah.  
 **Translation:** 
 
-**[2715.64s] English:** so um it's very active so it's very cool um but what that means is that um you know 10 11 000  
+**[2715.64s] English:** So, um, it's very active and very cool, um, but what that means is that, you know, 10,100 or so.  
 **Translation:** 
 
-**[2723.36s] English:** people all will want something different right and so what we've done is we've tried to say  
+**[2723.36s] English:** People will all want something different, right? And so, what we've done is we've tried to say  
 **Translation:** 
 
-**[2728.32s] English:** okay cool here's our roadmap here here and the roadmap isn't completely arbitrary it's based on  
-**Translation:** Vocabulary: arbitrary: 随意
+**[2728.32s] English:** Okay, cool. Here's our roadmap. And the roadmap isn't completely arbitrary; it's based on  
+**Translation:** Vocabulary: arbitrary: 随意; roadmap: 路线图
 
-**[2734.32s] English:** here's the logical order in which to build these features or add these capabilities and things like  
+**[2734.32s] English:** Here's the logical order in which to build these features or add these capabilities, and things like:  
 **Translation:** 
 
-**[2738.48s] English:** that and what we've done is we've spun really fast on like bug fixes and so we actually have  
+**[2738.48s] English:** That and what we've done is, we've spun really fast on bug fixes, and so we actually have  
+**Translation:** Vocabulary: capabilities: 功能
+
+**[2743.12s] English:** Very few bugs, which is cool. I mean, actually, for a project in the state, but then what we're doing is  
 **Translation:** 
 
-**[2743.12s] English:** very few bugs which is cool i mean actually for a project in the state but then what we're doing is  
-**Translation:** 
-
-**[2748.96s] English:** we're dropping in features very deliberately i mean this is fun to watch because you got the two  
+**[2748.96s] English:** We're dropping in features very deliberately. I mean, this is fun to watch because you've got the two...  
 **Translation:** Vocabulary: deliberately: 有目的地
 
-**[2753.84s] English:** gigantic communities of like hardware like systems engineers and then you have  
+**[2753.84s] English:** Gigantic communities of like hardware and systems engineers, and then you have  
 **Translation:** 
 
-**[2758.32s] English:** the machine learning  
+**[2758.32s] English:** The machine learning  
 **Translation:** Vocabulary: gigantic: 巨大的
 
-**[2760.00s] English:** any python people that are like higher level yeah and it's just too like for like army like uh  
+**[2760.00s] English:** Any Python people that are like higher-level, yeah, and it's just too much for someone like Army, uh.  
 **Translation:** 
 
-**[2767.20s] English:** they've been at war yeah they've been at war right and so so here's a tolkien novel or something okay  
+**[2767.20s] English:** They've been at war, yeah. They've been at war, right? And so, here's a Tolkien novel or something, okay?  
+**Translation:** Vocabulary: tolkien: 托尔金
+
+**[2773.66s] English:** So, here's the test again. It's super funny for something that's only been out for  
 **Translation:** 
 
-**[2773.66s] English:** so here's the test again like it's it's super funny for for something that's only been out for  
+**[2777.24s] English:** Two weeks, right? People are so impatient, right? But okay, cool. Let's fast-forward a year, like in a  
 **Translation:** 
 
-**[2777.24s] English:** two weeks right people are so impatient right but okay cool let's fast forward a year like in a  
+**[2783.48s] English:** Year's time, Mojo will be actually quite amazing and solve tons of problems and be very good.  
 **Translation:** 
 
-**[2783.48s] English:** year's time mojo will be actually quite amazing and solve tons of problems and be very good um  
+**[2788.78s] English:** People still have these problems, right? And so, you look at this and you say, "The way I look at it,  
 **Translation:** 
 
-**[2788.78s] English:** people still have these problems right and so you you look at this and you say and the way i look at  
+**[2794.50s] English:** This, at least, is to say: Okay, well, we're solving big, long-standing problems. To me, I'm again working.  
 **Translation:** 
 
-**[2794.50s] English:** this at least is to say okay well we're solving big long-standing problems to me i again working  
+**[2802.38s] English:** On many different problems, I want to make sure we do it right. There's a responsibility.  
 **Translation:** 
 
-**[2802.38s] English:** on many different problems i want to make sure we do it right right there's like a responsibility  
+**[2806.08s] English:** You feel because if you mess it up, there are very few opportunities to do projects like this.  
 **Translation:** 
 
-**[2806.08s] English:** you feel because if you mess it up right there's very few opportunities to do projects like this  
+**[2811.68s] English:** And have them really make an impact on the world if we do it right, then maybe we can take those.  
 **Translation:** 
 
-**[2811.68s] English:** and have them really have impact on the world if we do it right then maybe we can take those  
+**[2816.00s] English:** Feuding armies, and actually heal some of those wounds.  
 **Translation:** 
 
-**[2816.00s] English:** feuding armies and actually heal some of those wounds  
+**[2818.78s] English:** Yeah, this is like, this feels like a speech by George Washington or Abraham Lincoln or something.  
+**Translation:** Vocabulary: feuding: 内斗; wounds: 伤痕
+
+**[2824.10s] English:** And you look at this, and it's like, okay, well, how different are we? Yeah, we all want beautiful things.  
 **Translation:** 
 
-**[2818.78s] English:** yeah this is like this feels this feels like a speech by george washington or abraham or something  
-**Translation:** Vocabulary: feuding: 争吵
-
-**[2824.10s] English:** and you look at this and it's like okay well how different are we yeah we all want beautiful things  
+**[2829.44s] English:** We all want something that's nice. We all want to be able to work together. We all want our stuff to  
 **Translation:** 
 
-**[2829.44s] English:** we all want something that's nice we all want to be able to work together we all want our stuff to  
+**[2832.54s] English:** Be used right, and so if we can help heal that now, I'm not optimistic that all people will use mojo.  
 **Translation:** 
 
-**[2832.54s] English:** be used right and so if we can help heal that now i'm not optimistic that all people will use mojo  
+**[2838.04s] English:** And they'll stop using C++ like that's not my goal, right? But if we can heal some of that, I  
+**Translation:** Vocabulary: optimistic: 乐观
+
+**[2842.88s] English:** Think that'd be pretty cool, yeah? And we start by putting the people who like braces into the  
 **Translation:** 
 
-**[2838.04s] English:** and they'll stop using c++ like that's not my goal right but um but if we can heal some of that i  
-**Translation:** 
-
-**[2842.88s] English:** think that'd be pretty cool yeah and and we start by putting the people who like braces into the  
-**Translation:** 
-
-**[2848.78s] English:** mojo uh so so so there are proposals for adding braces to mojo and we just what's your thing we  
+**[2848.78s] English:** Mojo, uh, so, so, so there are proposals for adding braces to Mojo, and we just — what's your thing? We  
 **Translation:** Vocabulary: braces: 牙套
 
-**[2854.02s] English:** tell them no okay politely yeah anyway so there's a lot of amazing features on the roadmap and those  
+**[2854.02s] English:** Tell them no, okay, politely. Yeah, anyway, so there are a lot of amazing features on the roadmap, and those...  
 **Translation:** 
 
-**[2861.76s] English:** already implemented it'd be awesome i could just ask you a few things so uh the the other  
-**Translation:** Vocabulary: politely: 礼貌地
+**[2861.76s] English:** Already implemented, it'd be awesome. I could just ask you a few things, so uh, the other...  
+**Translation:** Vocabulary: implemented: 已实现; politely: 礼貌地; roadmap: 路线图
 
-**[2867.68s] English:** performance improvement comes from immutability so what's the what's this var and this let  
+**[2867.68s] English:** Performance improvement comes from immutability. So, what's this "var" and "let"?  
 **Translation:** 
 
-**[2873.02s] English:** thing that we got going on well what's immutability yeah so one of the things that  
+**[2873.02s] English:** The thing we've got going on, well, what's immutability, yeah? So, one of the things that  
 **Translation:** Vocabulary: immutability: 不可变性
 
-**[2878.78s] English:** uh useful  
+**[2878.78s] English:** Uh, useful.  
 **Translation:** 
 
-**[2880.00s] English:** and it's not always required but it's useful is knowing whether something can change out from  
+**[2880.00s] English:** And it's not always required, but it's useful to know whether something can be changed out.  
 **Translation:** 
 
-**[2884.34s] English:** underneath you right and so in python you have a pointer to an array right and so you pass that  
+**[2884.34s] English:** Underneath, you have a pointer to an array in Python, right, and so you pass that.  
 **Translation:** 
 
-**[2890.38s] English:** pointer to an array around to things if you pass into a function they may take that and scroll away  
-**Translation:** Vocabulary: scroll: 滚动
+**[2890.38s] English:** A pointer to an array around; to things, if you pass into a function, they may take that and scroll away.  
+**Translation:** Vocabulary: scroll: 滚动; underneath: 在...下面
 
-**[2896.32s] English:** in some other data structure and so you get your array back and you go to use it now somebody else  
+**[2896.32s] English:** In some other data structure, and so you get your array back and you go to use it, now somebody else  
 **Translation:** 
 
-**[2901.08s] English:** is like putting stuff in your array how do you reason about that it gets to be very complicated  
+**[2901.08s] English:** It's like putting stuff in your array. How do you reason about that? It gets to be very complicated.  
 **Translation:** 
 
-**[2906.26s] English:** at least lots of bugs right and so one of the things that you know again this is not something  
+**[2906.26s] English:** At least, lots of bugs, right? And so, one of the things that you know—again, this is not something  
 **Translation:** 
 
-**[2911.50s] English:** mojo forces on you but something that mojo enables is a thing called value semantics and what value  
+**[2911.50s] English:** Mojo forces on you, but something that mojo enables is a thing called value semantics, and what value?  
 **Translation:** Vocabulary: semantics: 语义
 
-**[2916.76s] English:** semantics do is they take collections like arrays like dictionaries also tensors and strings and  
+**[2916.76s] English:** Semantics do is that they take collections, like arrays, like dictionaries, also tensors and strings, and  
 **Translation:** 
 
-**[2924.66s] English:** things like this that are much higher level and make them behave like proper values and so it  
+**[2924.66s] English:** Things like this that are much higher-level and make them behave like proper values, and so it  
+**Translation:** Vocabulary: arrays: 数组
+
+**[2929.94s] English:** It makes it look like, if you pass these things around, you get a logical copy of all the data.  
 **Translation:** 
 
-**[2929.94s] English:** makes it look like if you pass these things around you get a logical copy of all the data  
+**[2934.54s] English:** And so, if I pass you.  
 **Translation:** 
 
-**[2934.54s] English:** and so if i pass you  
+**[2936.14s] English:** You.  
 **Translation:** 
 
-**[2936.14s] English:** you  
+**[2936.26s] English:** An array; it's your array. You can go and do what you want to. It, you're not going to hurt my array.  
 **Translation:** 
 
-**[2936.26s] English:** an array it's your array you can go do what you want to it you're not going to hurt my array  
+**[2939.72s] English:** Now, that is an interesting and very powerful design principle. It defines away a ton of bugs.  
 **Translation:** 
 
-**[2939.72s] English:** now that is an interesting and very powerful design principle it defines away a ton of bugs  
+**[2945.20s] English:** You have to be careful to implement it in an efficient way; it can have a performance hit.  
 **Translation:** 
 
-**[2945.20s] English:** you have to be careful to implement it in an efficient way it has their performance hit  
+**[2949.96s] English:** That's a significant thing, though generally not if you implement it the right way, but it requires a  
 **Translation:** 
 
-**[2949.96s] English:** that's a significant uh generally not if you implement it the right way but it requires a  
+**[2956.34s] English:** A lot of very low-level, uh, getting the language right bits. I assume there'll be a huge performance improvement.  
+**Translation:** Vocabulary: implement: 实施
+
+**[2962.18s] English:** Hit because it's a really nice benefit because you don't get into absolute i.  
 **Translation:** 
 
-**[2956.34s] English:** lot of very low level uh getting the language right bits i assume there'll be a huge performance  
+**[2966.14s] English:** Hope so.  
 **Translation:** 
 
-**[2962.18s] English:** hit because it's a really the benefit is really nice because you don't get into absolutely i  
+**[2966.26s] English:** Yeah, well, the trick is that you can't do copies, so you have to provide.  
 **Translation:** 
 
-**[2966.14s] English:** hope so  
+**[2970.68s] English:** The behavior of copying without actually doing the copy, yeah. How do you do that?  
 **Translation:** 
 
-**[2966.26s] English:** yeah well the trick is is you can't do you can't do copies so you have to provide  
+**[2978.84s] English:** That it's not magic; it's just actually pretty cool. Well, so first, before we talk about...  
 **Translation:** 
 
-**[2970.68s] English:** the behavior of copying without doing the copy yeah how do you do that is that how do you do  
+**[2983.38s] English:** How does that work? Let's talk about how it works in Python, right? So in Python, you define a person.  
 **Translation:** 
 
-**[2978.84s] English:** that it's not magic it's just it's actually pretty cool well so first before we talk about  
+**[2988.28s] English:** Class, or maybe a person class, is a bad idea. You define a database class, right? And database class.  
 **Translation:** 
 
-**[2983.38s] English:** how that works let's talk about how it works in python right so in python you define a person  
+**[2992.98s] English:** Has an array of records, something like that, right? And so the problem is that you can't do that in a  
 **Translation:** 
 
-**[2988.28s] English:** class or maybe a person class is a bad idea you define a database class right and database class  
+**[2996.26s] English:** Database: If you pass in a record or a class instance into the data,  
 **Translation:** 
 
-**[2992.98s] English:** has an array of records something like that right and so the problem is that you can't do that in a  
+**[3000.00s] English:** It will take ahold of that object, and then it assumes it has it. If you're  
+**Translation:** Vocabulary: ahold: 占有
+
+**[3005.68s] English:** Passing an object in, you have to know that the database is going to take it.  
 **Translation:** 
 
-**[2996.26s] English:** database if you pass in a record or a class instance into the data  
+**[3009.40s] English:** And therefore, you shouldn't change it after you put it in the database, right?  
 **Translation:** 
 
-**[3000.00s] English:** it'll take a hold of that object and then it assumes it has it and if you're  
+**[3012.12s] English:** Is this just kind of something you have to know that you just have to kind of know that?  
 **Translation:** 
 
-**[3005.68s] English:** passing an object in you have to know that that database is gonna take take it  
+**[3014.76s] English:** Right, and so you roll out version one of the database, you just kind of have to.  
 **Translation:** 
 
-**[3009.40s] English:** and therefore you shouldn't change it after you put in the database right this  
+**[3018.78s] English:** Know that, of course, Lex uses his own database, right? Yeah, right, because you built it.  
 **Translation:** 
 
-**[3012.12s] English:** is this is just kind of have to know that you just have to kind of know that  
+**[3022.74s] English:** If you understand, this works right; when somebody else joins the team, they don't.  
 **Translation:** 
 
-**[3014.76s] English:** right and so you roll out version one of the database you just kind of have to  
+**[3026.16s] English:** Know this: Yes, right, and so now they suddenly get bugs; you're having to  
 **Translation:** 
 
-**[3018.78s] English:** know that of course Lex uses his own database right yeah right cuz you built  
+**[3030.06s] English:** Maintain the database, you shake your fist, you argue for the tenth time this.  
 **Translation:** 
 
-**[3022.74s] English:** it you understand this works right somebody else joins the team they don't  
+**[3034.38s] English:** Happens, you're like, "Okay, we have to do something different," right? And so, what?  
 **Translation:** 
 
-**[3026.16s] English:** know this yes right and so now they suddenly get bugs you're having to  
+**[3037.20s] English:** You do that by going and changing your Python code and you change your database class to  
 **Translation:** 
 
-**[3030.06s] English:** maintain the database you shake your fist you argue the tenth time this  
+**[3040.86s] English:** Copy the record every time you add it, and so what ends up happening is you say:  
 **Translation:** 
 
-**[3034.38s] English:** happens you're like okay we have to do something different right and so what  
+**[3045.06s] English:** Okay, I will do what's called a defensive copy inside the database, and then that  
 **Translation:** 
 
-**[3037.20s] English:** you do is you go change your Python code and you change your database class to  
+**[3050.10s] English:** Way, if somebody passes something in, I will have my own copy of it, and they can  
 **Translation:** 
 
-**[3040.86s] English:** copy the record every time you add it and so what ends up happening is you say  
+**[3054.92s] English:** Go, do whatever, and they're not gonna break.  
 **Translation:** 
 
-**[3045.06s] English:** okay I will do what's called a defensive copy inside the database and then that  
+**[3056.10s] English:** My code, and they're not gonna break it. My code, and they're not gonna break it.  
 **Translation:** 
 
-**[3050.10s] English:** way if somebody passes something in I will have my own copy of it and they can  
+**[3056.14s] English:** And they're not gonna break my thing, okay? This is usually the two design.  
 **Translation:** 
 
-**[3054.92s] English:** go do whatever and they're not gonna break  
+**[3060.22s] English:** Patterns, if you look in PyTorch, for example, this is cloning a tensor like:  
 **Translation:** 
 
-**[3056.10s] English:** my code and they're not gonna break my code and they're not gonna break my code  
+**[3063.86s] English:** There's a specific thing, and you have to know where to call it. If you don't call it,  
 **Translation:** 
 
-**[3056.14s] English:** and they're not gonna break my thing okay this is usually the the two design  
+**[3066.46s] English:** In the right place, you get these bugs, and this is state-of-the-art, right? So,  
 **Translation:** 
 
-**[3060.22s] English:** patterns if you look in pytorch for example this is cloning a tensor like  
+**[3070.76s] English:** Different approaches are used in many languages, so I work with it in Swift as  
+**Translation:** Vocabulary: approaches: 方法
+
+**[3074.86s] English:** You say, okay, well, let's provide value semantics, and so we want to provide the  
 **Translation:** 
 
-**[3063.86s] English:** there's a specific thing and you have to know where to call it if you don't call  
-**Translation:** 
-
-**[3066.46s] English:** in the right place you get these bugs and this is state-of-the-art right so a  
-**Translation:** 
-
-**[3070.76s] English:** different approach so it's used in many languages so I work with it in Swift as  
-**Translation:** 
-
-**[3074.86s] English:** you say okay well let's provide value semantics and so we want to provide the  
-**Translation:** 
-
-**[3079.36s] English:** view that you get a logically independent copy but we want to do that  
+**[3079.36s] English:** View that you get a logically independent copy, but we want to do that.  
 **Translation:** Vocabulary: logically: 逻辑上; semantics: 语义
 
-**[3083.62s] English:** lazily and so what what we do  
+**[3083.62s] English:** Lazily, and so what? What do we do?  
 **Translation:** 
 
-**[3086.08s] English:** is you say okay if you pass something into a function it doesn't actually make  
+**[3086.08s] English:** Is it okay if you pass something into a function? It doesn't actually make  
 **Translation:** 
 
-**[3089.76s] English:** a copy what actually does is it just increment the reference to it and if you  
+**[3089.76s] English:** A copy what actually does is just increment the reference to it, and if you  
 **Translation:** 
 
-**[3093.46s] English:** pass it around you stick in your database it can go in the database you  
+**[3093.46s] English:** Pass it around, you stick it in your database; it can go in there.  
 **Translation:** Vocabulary: increment: 增加
 
-**[3096.78s] English:** own it and then you come back out of the stack nobody's copied anything you come  
+**[3096.78s] English:** Own it, and then you come back out of the stack; nobody's copied anything, you come.  
 **Translation:** 
 
-**[3101.50s] English:** back out of the stack and then the caller lets go of it well then you've  
+**[3101.50s] English:** Back out of the stack, and then the caller lets go of it; well, then you've  
+**Translation:** Vocabulary: caller: 呼叫者
+
+**[3105.48s] English:** Just handed it off to the database; you've transferred it, and there's no  
 **Translation:** 
 
-**[3105.48s] English:** just handed it off to the database you've transferred it and there's no  
+**[3109.06s] English:** Copies made, now, on the other hand, if you know your  
 **Translation:** 
 
-**[3109.06s] English:** copies made now on the other hand if you know your  
+**[3113.14s] English:** A co-worker goes and hands you a record, and you pass it.  
 **Translation:** 
 
-**[3113.14s] English:** co-worker goes and hands you a record and you pass it  
-**Translation:** 
-
-**[3116.00s] English:** it in you stick in the database and then you go to town and you start modifying it  
+**[3116.00s] English:** It in you stick in the database, and then you go to town and start modifying it.  
 **Translation:** Vocabulary: modifying: 修改
 
-**[3120.00s] English:** what happens is you get a copy lazily on demand and so what this does is gives you copies only  
+**[3120.00s] English:** What happens is, you get a copy lazily on demand, and so what this does is give you copies only when needed.  
 **Translation:** 
 
-**[3126.40s] English:** when you need them and it also so it defines away the bugs but also generally reduces the  
+**[3126.40s] English:** When you need them, and it also defines away the bugs, but also generally reduces the  
 **Translation:** 
 
-**[3131.04s] English:** number of copies in practice and so but the implementation details are tricky here  
+**[3131.04s] English:** Number of copies: in practice, and so on, but the implementation details are tricky here.  
 **Translation:** 
 
-**[3135.92s] English:** so this is yes something with reference counting but to make it performant uh across a number of  
-**Translation:** Vocabulary: implementation: 实现细节
+**[3135.92s] English:** So, this is something with reference counting, but to make it performant across a number of  
+**Translation:** Vocabulary: implementation: 实现; tricky: 棘手
 
-**[3143.20s] English:** different kinds of objects yeah so you need a couple of things and so there's many so this  
+**[3143.20s] English:** Different kinds of objects, yeah. So, you need a couple of things, and so there are many.  
 **Translation:** 
 
-**[3148.88s] English:** concept has existed in many different worlds and so again it's not novel research at all right the  
+**[3148.88s] English:** Concept has existed in many different worlds, and so again, it's not novel research at all, right?  
 **Translation:** 
 
-**[3155.28s] English:** magic is getting the design right so that you can do this in a reasonable way right and so there's  
+**[3155.28s] English:** Magic is getting the design right, so that you can do this in a reasonable way, right? And so there's  
 **Translation:** 
 
-**[3159.68s] English:** a number of components that go into this one is when you're passing around so you we're talking  
+**[3159.68s] English:** A number of components that go into this: when you're passing around, so we're talking  
 **Translation:** 
 
-**[3164.24s] English:** about python and reference counting at the expense of doing that when you're passing values around  
+**[3164.24s] English:** About Python and reference counting, but at the expense of doing that when you're passing values around.  
 **Translation:** 
 
-**[3169.12s] English:** you don't want to do extra reference counting for no good reason and so you have to make sure that  
+**[3169.12s] English:** You don't want to do extra reference counting for no good reason, and so you have to make sure that  
 **Translation:** 
 
-**[3172.96s] English:** you're efficient and you transfer ownership instead of duplicating references and things  
+**[3172.96s] English:** You're efficient, and you transfer ownership instead of duplicating references and things.  
 **Translation:** 
 
-**[3177.44s] English:** like that which is a very low level  
+**[3177.44s] English:** Like that, which is a very low level.  
 **Translation:** Vocabulary: duplicating: 复制
 
-**[3178.88s] English:** problem you also have to adopt this and you have to build these data structures and so if you say  
+**[3178.88s] English:** Problem: You also have to adopt this, and you have to build these data structures. And so, if you say,...  
 **Translation:** 
 
-**[3186.00s] English:** you know mojo has to be compatible with python so of course the default  
+**[3186.00s] English:** You know, MoJo has to be compatible with Python, so of course the default...  
 **Translation:** Vocabulary: compatible: 兼容的
 
-**[3189.36s] English:** list is a reference semantic list that works the way you'd expect in python but then you  
+**[3189.36s] English:** List is a reference-semantic list that works the way you'd expect in Python, but then you  
 **Translation:** 
 
-**[3194.40s] English:** have to design a value semantic list and so you just have to implement that and then you  
-**Translation:** Vocabulary: semantic: 语义
+**[3194.40s] English:** Have to design a value-semantic list, and so you just have to implement that, and then you  
+**Translation:** Vocabulary: implement: 实现
 
-**[3198.40s] English:** implement the logic within and so the the role of the language here is to provide all the  
+**[3198.40s] English:** Implement the logic within, and so the role of the language here is to provide all the  
 **Translation:** 
 
-**[3203.04s] English:** low-level hooks that allow the author of the type to be able to get and express this behavior without  
+**[3203.04s] English:** Low-level hooks that allow the author of the type to be able to get and express this behavior without  
 **Translation:** 
 
-**[3208.88s] English:** forcing it into all cases or hardcoding this into the language itself but there's a ownership so  
+**[3208.88s] English:** Forcing it into all cases or hardcoding this into the language itself, but there's ownership, so  
 **Translation:** 
 
-**[3214.08s] English:** you you're constantly transferring you're tracking who owns the thing yes and so there's a whole  
+**[3214.08s] English:** You're constantly transferring ownership and tracking who owns it, yes, and so there's a whole  
 **Translation:** Vocabulary: hardcoding: 固化; transferring: 转移
 
-**[3217.84s] English:** system called ownership and so this is related to work done in the rust community also the swift  
+**[3217.84s] English:** A system called ownership, and so this is related to work done in the Rust community, as well as Swift.  
 **Translation:** 
 
-**[3223.84s] English:** community has done a bunch of work and there's a bunch of different other languages that have  
+**[3223.84s] English:** The community has done a bunch of work, and there are a bunch of different other languages that have  
 **Translation:** 
 
-**[3226.74s] English:** all kind of c plus plus actually has copy constructors and destructors and things like that  
+**[3226.74s] English:** All kinds of C++ actually have copy constructors and destructors and things like that.  
 **Translation:** 
 
-**[3231.44s] English:** and so um and i mean c++ has everything so it has move constructors it has like this whole world of  
+**[3231.44s] English:** And so, um, and I mean, C++ has everything—so it has move constructors, and it has this whole world of  
 **Translation:** Vocabulary: constructors: 构造函数; destructors: 析构函数
 
-**[3236.64s] English:** things and so this is uh you know one of my favorite things about c++ is the ability to do this and uh  
+**[3236.64s] English:** Things, and so this is, you know, one of my favorite things about C++ is the ability to do this and, uh,  
 **Translation:** 
 
-**[3236.96s] English:** and and i think that's one of my favorite things about c++ is that you can you can kind of do the whole thing  
+**[3236.96s] English:** And I think that's one of my favorite things about C++: you can kind of do the whole thing.  
 **Translation:** 
 
-**[3237.42s] English:** and that's one of the things about c++ is that you have to build this thing and you have to work on  
+**[3237.42s] English:** And that's one of the things about C++: you have to build this thing, and you have to work on it.  
 **Translation:** 
 
-**[3237.88s] English:** This is a...  
+**[3237.88s] English:** This is a....  
 **Translation:** 
 
-**[3240.00s] English:** body of work that's kind of been developing for many, many years now. And so Mojo takes some of  
+**[3240.00s] English:** Body of work that's kind of been developing for many, many years now. And so, Mojo takes some of  
 **Translation:** 
 
-**[3244.34s] English:** the best ideas out of all these systems and remixes in a nice way so that you get the power  
+**[3244.34s] English:** The best ideas out of all these systems and remixes, in a nice way, so that you get the power.  
+**Translation:** Vocabulary: remixes: 重新混音
+
+**[3250.50s] English:** Of something like the Rust programming language, but you don't have to deal with it when you don't.  
 **Translation:** 
 
-**[3250.50s] English:** of something like the Rust programming language, but you don't have to deal with it when you don't  
+**[3255.04s] English:** Want to, which is a major thing in terms of teaching and learning and being able to use.  
 **Translation:** 
 
-**[3255.04s] English:** want to, which is a major thing in terms of teaching and learning and being able to use  
+**[3258.86s] English:** And scale these systems. How do they play with argument conventions? What are they? Why are they important?  
 **Translation:** 
 
-**[3258.86s] English:** and scale these systems. How does that play with argument conventions? What are they? Why are they  
-**Translation:** 
-
-**[3264.72s] English:** important? How does the value semantics, how does the transfer ownership work with the arguments  
+**[3264.72s] English:** Important? How does the value semantics work, and how does transfer ownership work with the arguments?  
 **Translation:** Vocabulary: conventions: 约定俗成; semantics: 语义
 
-**[3269.90s] English:** when they're passing? So if you go deep into systems programming land, this isn't again,  
+**[3269.90s] English:** When are they passing? So, if you go deep into systems programming land, this isn't again,  
 **Translation:** 
 
-**[3275.54s] English:** it's not something for everybody, but if you go deep into systems programming land,  
+**[3275.54s] English:** It's not something for everybody, but if you go deep into systems programming land,  
 **Translation:** 
 
-**[3278.64s] English:** what you encounter is you encounter these types that get weird. So if you're used to Python,  
+**[3278.64s] English:** What you encounter is that you get these types that get weird. So, if you're used to Python,  
 **Translation:** 
 
-**[3284.86s] English:** you think about everything. I can just copy it around. I can go change it and mutate it and do  
-**Translation:** Vocabulary: mutate: 变异
+**[3284.86s] English:** You think about everything. I can just copy it around. I can go change it, mutate it, and do  
+**Translation:** Vocabulary: encounter: 遇到; mutate: 改变
 
-**[3289.48s] English:** these things and it's all cool. If you get into systems programming land, you get into these  
+**[3289.48s] English:** These things, and it's all cool. If you get into systems programming land, you get into these.  
 **Translation:** 
 
-**[3294.24s] English:** things like I have an atomic number or I have a mutex or I have a  
+**[3294.24s] English:** Things, like I have an atomic number, or I have a mutex, or I have a  
 **Translation:** 
 
-**[3299.12s] English:** students.  
+**[3299.12s] English:** Students.  
 **Translation:** 
 
-**[3299.90s] English:** uniquely owned database handle things like this right so these types you can't necessarily copy  
-**Translation:** Vocabulary: uniquely: 独一无二地
+**[3299.90s] English:** Uniquely owned database handles things like this, right? So, these types you can't necessarily copy.  
+**Translation:** Vocabulary: uniquely: 唯一地
 
-**[3305.58s] English:** sometimes you can't necessarily even move them to a different address and so what mojo allows you to  
+**[3305.58s] English:** Sometimes, you can't necessarily even move them to a different address, and so what MoJo allows you to do is  
 **Translation:** 
 
-**[3311.16s] English:** do is it allows you to express hey i don't want to get a copy of this thing i want to actually  
+**[3311.16s] English:** Does it allow you to express, "Hey, I don't want to get a copy of this thing; I want to actually..."?  
 **Translation:** 
 
-**[3316.34s] English:** just get a reference to it and by doing that what you can say is you can say okay if i'm defining  
+**[3316.34s] English:** Just get a reference to it, and by doing that, you can say, "Okay, if I'm defining...  
 **Translation:** 
 
-**[3320.92s] English:** something weird like a atomic number or something it's like it has to be so an atomic number is a  
+**[3320.92s] English:** Something weird, like an atomic number or something; it's got to be so. An atomic number is a  
 **Translation:** 
 
-**[3327.62s] English:** an area in memory that multiple threads can access at a time without synchronous without  
+**[3327.62s] English:** An area in memory that multiple threads can access at a time without synchronization.  
 **Translation:** 
 
-**[3332.38s] English:** without locks right and so uh and so like the definition of atomic numbers multiple different  
-**Translation:** Vocabulary: synchronous: 同步的
-
-**[3338.54s] English:** things have to be poking it that therefore they have to agree on where it is right so you can't  
+**[3332.38s] English:** Without locks, right? And so, uh, and so, like, the definition of atomic numbers, multiple different.  
 **Translation:** 
 
-**[3342.74s] English:** just like move it out from underneath one because it kind of breaks what what it means and so that's  
-**Translation:** Vocabulary: poking: 捅戳
-
-**[3347.10s] English:** an example of a type that you can't even you can't copy you can't move it like once you create it has  
+**[3338.54s] English:** Things have to be poking it, so therefore they have to agree on where it is right; so you can't.  
 **Translation:** 
 
-**[3351.74s] English:** to be where it was right now if you look at many other examples like a database handle right it's  
+**[3342.74s] English:** Just like move it out from underneath one, because it kind of breaks what it means, and so that's.  
+**Translation:** Vocabulary: poking: 刺探; underneath: 在...下面
+
+**[3347.10s] English:** An example of a type that you can't even copy; you can't move it. Once you create it, it has...  
 **Translation:** 
 
-**[3357.62s] English:** so okay well what happens  
+**[3351.74s] English:** To be where it was right now, if you look at many other examples, like a database handle: right, it's  
+**Translation:** 
+
+**[3357.62s] English:** So, okay, well, what happens?  
 **Translation:** 
 
 **[3360.00s] English:** How do you copy a database handle?  
@@ -2719,41 +2720,41 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[3363.00s] English:** That's not something you necessarily want to do.  
 **Translation:** 
 
-**[3366.32s] English:** There's a lot of types like that where you want to be able to say that they are uniquely owned.  
+**[3366.32s] English:** There are a lot of types like that, where you want to be able to say that they are uniquely owned.  
 **Translation:** 
 
-**[3371.74s] English:** So there's always one of this thing.  
+**[3371.74s] English:** So, there's always one of these things.  
 **Translation:** 
 
 **[3375.50s] English:** Or if I create a thing, I don't copy it.  
 **Translation:** 
 
-**[3379.44s] English:** And so what Mojo allows you to do is it allows you to say,  
+**[3379.44s] English:** And so, what Mojo allows you to do is it allows you to say,  
 **Translation:** 
 
-**[3382.18s] English:** hey, I want to pass around a reference to this thing without copying it.  
+**[3382.18s] English:** Hey, I want to pass around a reference to this thing without copying it.  
 **Translation:** 
 
 **[3384.50s] English:** And so it has borrowed conventions.  
-**Translation:** 
+**Translation:** Vocabulary: conventions: 惯例
 
-**[3386.90s] English:** So you can say you can use it, but you don't get to change it.  
+**[3386.90s] English:** So, you can say you can use it, but you don't get to change it.  
 **Translation:** 
 
 **[3391.06s] English:** You can pass it by mutable reference.  
-**Translation:** 
+**Translation:** Vocabulary: mutable: 可变的
 
-**[3393.36s] English:** And so if you do that, then you get a reference to it, but you can change it.  
+**[3393.36s] English:** And so, if you do that, then you get a reference to it, but you can change it.  
 **Translation:** 
 
 **[3397.44s] English:** And so it manages all that kind of stuff.  
 **Translation:** 
 
-**[3399.78s] English:** So it's just a really nice implementation of like C++ has the different kinds of pointers.  
+**[3399.78s] English:** So, it's just a really nice implementation of how C++ has different kinds of pointers.  
 **Translation:** 
 
 **[3407.22s] English:** Yeah, it has pointers.  
-**Translation:** Vocabulary: implementation: 实现方式
+**Translation:** Vocabulary: implementation: 实现
 
 **[3408.40s] English:** Different kinds of implementations and smart pointers that you can explicitly define.  
 **Translation:** 
@@ -2761,16 +2762,16 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[3412.72s] English:** But you're saying that's more like the weird case versus the clunky.  
 **Translation:** Vocabulary: clunky: 笨拙的; explicitly: 明确地; implementations: 实现方式
 
-**[3416.90s] English:** Well, it depends on where, I mean, I don't think I'm a normal person.  
+**[3416.90s] English:** Well, it depends on where. I mean, I don't think I'm a normal person.  
 **Translation:** 
 
 **[3421.88s] English:** So, I mean, I'm not one to call other people weird.  
 **Translation:** 
 
-**[3425.18s] English:** But, you know, if you talk to a normal Python, a typical Python programmer,  
+**[3425.18s] English:** But, you know, if you talk to a normal Python programmer,  
 **Translation:** 
 
-**[3430.76s] English:** you're typically not thinking about this, right?  
+**[3430.76s] English:** You're typically not thinking about this, right?  
 **Translation:** Vocabulary: programmer: 程序员
 
 **[3432.28s] English:** This is a lower level of abstraction.  
@@ -2779,811 +2780,811 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[3434.00s] English:** Now, if you talk to a C++ programmer, certainly if you talk to a Rust programmer,  
 **Translation:** Vocabulary: abstraction: 抽象
 
-**[3437.42s] English:** again, they're not weird, they're delightful.  
+**[3437.42s] English:** Again, they're not weird; they're delightful.  
 **Translation:** 
 
-**[3439.54s] English:** Like these are all good people, right?  
+**[3439.54s] English:** Like, these are all good people, right?  
 **Translation:** 
 
 **[3441.98s] English:** Those folks will think about all the time, right?  
 **Translation:** 
 
-**[3444.74s] English:** And so I look at this as there's a spectrum.  
+**[3444.74s] English:** And so, I look at this as there's a spectrum.  
 **Translation:** 
 
-**[3446.90s] English:** I mean, very deep, low-level systems.  
+**[3446.90s] English:** I mean very deep, low-level systems.  
 **Translation:** 
 
-**[3449.14s] English:** I'm going to go poke the bits and care about how they're laid out in memory  
+**[3449.14s] English:** I'm going to go poke the bits and care about how they're laid out in memory.  
 **Translation:** 
 
-**[3451.78s] English:** all the way up to application and scripting and other things like this.  
+**[3451.78s] English:** All the way up to application and scripting, and other things like this.  
 **Translation:** 
 
 **[3455.66s] English:** And so it's not that anybody's right or wrong.  
 **Translation:** 
 
-**[3457.80s] English:** It's about how do we build one system that scales.  
+**[3457.80s] English:** It's about how we build one system that scales.  
 **Translation:** 
 
-**[3460.98s] English:** By the way, the idea of an atomic number has been something that always brought me deep happiness  
+**[3460.98s] English:** By the way, the idea of an atomic number has always brought me deep happiness.  
 **Translation:** 
 
-**[3470.28s] English:** because the flip side of that,  
+**[3470.28s] English:** Because the flip side of that,  
 **Translation:** 
 
-**[3473.10s] English:** the idea that threads can just,  
+**[3473.10s] English:** The idea that threads can just,  
+**Translation:** Vocabulary: threads: 线程
+
+**[3476.90s] English:** You know, modifying stuff is  
 **Translation:** 
 
-**[3476.90s] English:** you know, modify stuff is  
+**[3480.00s] English:** Synchronously, the whole idea of concurrent programming is a source of  
+**Translation:** Vocabulary: concurrent: 同时发生的; modifying: 修改; synchronously: 同步地
+
+**[3483.70s] English:** Infinite stress for me.  
 **Translation:** 
 
-**[3480.00s] English:** synchronously. The whole idea of concurrent programming is a source of  
-**Translation:** Vocabulary: concurrent: 同时发生的
+**[3485.36s] English:** Again, you zoom out and get out of programming languages or compilers.  
+**Translation:** Vocabulary: compilers: 编译器; infinite: 无限的
 
-**[3483.70s] English:** infinite stress for me.  
+**[3492.04s] English:** And you just look at what the industry has done. My mind is constantly...  
 **Translation:** 
 
-**[3485.36s] English:** Again, you zoom out and get out of programming languages or compilers  
-**Translation:** Vocabulary: compilers: 编译器
-
-**[3492.04s] English:** and you just look at what the industry has done. My mind is constantly  
-**Translation:** 
-
-**[3495.60s] English:** blown by this. And you look at Moore's Law.  
+**[3495.60s] English:** Blown by this, and you look at Moore's Law.  
 **Translation:** 
 
 **[3500.02s] English:** Moore's Law has this idea that computers, for a long time,  
 **Translation:** 
 
-**[3503.42s] English:** single-thread performance just got faster and faster and faster and faster for free.  
+**[3503.42s] English:** Single-thread performance has just gotten faster and faster and faster and faster for free.  
 **Translation:** 
 
-**[3506.40s] English:** But then physics and other things intervened  
+**[3506.40s] English:** But then physics and other things intervened.  
 **Translation:** 
 
-**[3510.40s] English:** and power consumption and other things started to matter. And so what ended up happening  
+**[3510.40s] English:** And power consumption and other things started to matter. And so, what ended up happening,...  
 **Translation:** Vocabulary: intervened: 介入
 
-**[3514.28s] English:** is we went from single-core computers to multi-core. Then we went to accelerators.  
+**[3514.28s] English:** We went from single-core computers to multi-core, then to accelerators.  
 **Translation:** 
 
-**[3518.98s] English:** And this trend towards specialization of hardware is only going to  
+**[3518.98s] English:** And this trend toward specialization of hardware is only going to  
 **Translation:** 
 
-**[3522.40s] English:** continue. And so for years, us programming  
+**[3522.40s] English:** Continue. And so, for years, we have been programming.  
 **Translation:** 
 
-**[3526.50s] English:** language nerds and compiler people have been saying, okay, well, how do we  
+**[3526.50s] English:** Language nerds and compiler people have been saying, "Okay, well, how do we?  
 **Translation:** Vocabulary: nerds: 痴迷者
 
-**[3529.94s] English:** tackle multi-core? For a while, it was like, multi-core is the future. We have to get on top of this  
+**[3529.94s] English:** Tackle multi-core? For a while, it was like, "Multi-core is the future." We have to get on top of this.  
 **Translation:** 
 
-**[3534.46s] English:** thing. And then it was, multi-core is the  
+**[3534.46s] English:** Thing. And then it was: multi-core is the  
+**Translation:** Vocabulary: tackle: 应对
+
+**[3536.38s] English:** Fault. What are we doing with this thing? And then it's like, there are chips with hundreds of  
 **Translation:** 
 
-**[3536.38s] English:** fault. What are we doing with this thing? And then it's like, there's chips with hundreds of  
-**Translation:** 
-
-**[3540.28s] English:** cores in them. What happened? And so  
+**[3540.28s] English:** Cores in them? What happened? And so...  
 **Translation:** 
 
 **[3543.70s] English:** I'm super inspired by the fact that, in the face of this,  
 **Translation:** 
 
-**[3548.44s] English:** those machine learning people invented this idea of a tensor.  
+**[3548.44s] English:** Those machine learning people invented the idea of a tensor.  
 **Translation:** 
 
-**[3552.82s] English:** And what is a tensor? A tensor is an arithmetic  
+**[3552.82s] English:** And what is a tensor? A tensor is an arithmetic object.  
 **Translation:** 
 
-**[3556.38s] English:** and algebraic concept. It's like an abstraction around a  
+**[3556.38s] English:** And it's an algebraic concept, like an abstraction around a  
 **Translation:** Vocabulary: abstraction: 抽象; algebraic: 代数的; arithmetic: 算术的
 
-**[3560.30s] English:** gigantic, parallelizable data set. And because  
+**[3560.30s] English:** Gigantic, parallelizable data set. And because  
 **Translation:** 
 
-**[3564.30s] English:** of that, and because of things like TensorFlow and PyTorch, we're able to say, okay, we'll  
-**Translation:** Vocabulary: gigantic: 巨大的; parallelizable: 可并行的
+**[3564.30s] English:** Of that, and because of things like TensorFlow and PyTorch, we're able to say, "Okay, we'll  
+**Translation:** Vocabulary: gigantic: 巨大的; parallelizable: 可并行处理的
 
-**[3567.92s] English:** express the math of the system. This enables you to do  
+**[3567.92s] English:** Express the math of the system. This enables you to do  
 **Translation:** 
 
-**[3572.22s] English:** automatic differentiations, enables you to do all these cool things.  
-**Translation:** Vocabulary: differentiations: 微分计算
+**[3572.22s] English:** Automatic differentiation enables you to do all these cool things.  
+**Translation:** Vocabulary: differentiation: 求导
 
-**[3576.42s] English:** And it's an abstract representation. Because you have  
+**[3576.42s] English:** And it's an abstract representation. Because you have.  
 **Translation:** 
 
-**[3580.36s] English:** that abstract representation, you can now map it onto these parallel machines without  
+**[3580.36s] English:** That abstract representation, you can now map it onto these parallel machines without  
+**Translation:** Vocabulary: parallel: 相同的
+
+**[3584.14s] English:** Having to control, okay, put that byte here, put that byte there, put that byte,  
 **Translation:** 
 
-**[3584.14s] English:** having to control, okay, put that byte here, put that byte there, put that byte  
-**Translation:** 
+**[3588.32s] English:** There. And this has enabled an explosion in terms of AI and compute.  
+**Translation:** Vocabulary: compute: 计算
 
-**[3588.32s] English:** there. And this has enabled an explosion in terms of AI, compute,  
-**Translation:** 
-
-**[3592.86s] English:** accelerators, all the stuff.  
+**[3592.86s] English:** Accelerators: all the stuff.  
 **Translation:** 
 
 **[3594.30s] English:** And so that's super, super exciting.  
-**Translation:** Vocabulary: accelerators: 加速器
-
-**[3596.38s] English:** What about the deployment and the execution across multiple machines?  
 **Translation:** 
 
-**[3600.00s] English:** So you write that the modular compute platform dynamically partitions models with billions of parameters and distributes their execution across multiple machines, enabling unparalleled efficiency scale and reliability for the largest workloads.  
-**Translation:** Vocabulary: deployment: 部署; distributes: 分配; dynamically: 动态地; modular: 模块化; partitions: 划分; reliability: 可靠性; workloads: 工作负载
-
-**[3622.52s] English:** So how do you do this abstraction of distributed deployment of large models?  
+**[3596.38s] English:** What about the deployment and execution across multiple machines?  
 **Translation:** 
 
-**[3652.52s] English:** Yeah. So so if you look at just TensorFlow and PyTorch, which is pretty recent history in the big picture. Right. But TensorFlow is all about graphs. PyTorch, I think, pretty unarguably ended up winning. And why did it win? Mostly because of usability. Right. And the usability of PyTorch is, I think, huge. And I think, again, that's a huge testament to the power of taking abstract theoretical technical concepts and bring it to the masses. Right.  
-**Translation:** Vocabulary: testament: 证明; unarguably: 无可争议地; usability: 易用性
+**[3600.00s] English:** So, you write that the modular compute platform dynamically partitions models with billions of parameters and distributes their execution across multiple machines, enabling unparalleled efficiency, scale, and reliability for the largest workloads.  
+**Translation:** Vocabulary: deployment: 部署; distributes: 分配; dynamically: 动态地; execution: 执行; modular: 模块化; partitions: 划分; reliability: 可靠性; workloads: 工作负载
 
-**[3680.24s] English:** Now, the challenge with what.  
+**[3622.52s] English:** So, how do you do this abstraction of distributed deployment of large models?  
 **Translation:** 
 
-**[3682.52s] English:** The TensorFlow versus the PyTorch design points was that TensorFlow is kind of difficult to use for researchers, but it was actually pretty good for deployment. PyTorch is really good for researchers. It kind of not super great for deployment. Right. And so I think that we as an industry have been struggling. And if you look at what deploying a machine learning model today means is that you'll have researchers who are, I mean, wicked smart, of course, but they're wicked smart at model architecture and data and calculus.  
-**Translation:** Vocabulary: calculus: 微积分; deploying: 部署; wicked: 非常聪明
+**[3652.52s] English:** Yeah. So, so if you look at just TensorFlow and PyTorch, which is pretty recent history in the big picture, right. But TensorFlow is all about graphs. PyTorch, I think, pretty unarguably ended up winning. And why did it win? Mostly because of usability, right. And the usability of PyTorch is, I think, huge. And I think, again, that's a huge testament to the power of taking abstract theoretical technical concepts and bringing it to the masses, right.  
+**Translation:** Vocabulary: abstraction: 抽象; graphs: 图形; masses: 大众; testament: 证明; unarguably: 毋庸置疑; usability: 易用性
 
-**[3712.52s] English:** And they're wicked smart in various domains. They don't want to know anything about the hardware deployment or C++ or things like this. Right. And so what's.  
+**[3680.24s] English:** Now, the challenge with what?  
 **Translation:** 
 
-**[3720.00s] English:** happened is you get people who train the model they throw over throw it over the fence and they  
+**[3682.52s] English:** The TensorFlow versus the PyTorch design points were that TensorFlow was kind of difficult to use for researchers, but it was actually pretty good for deployment. PyTorch is really good for researchers. It's kind of not super great for deployment, right? And so I think that we as an industry have been struggling. And if you look at what deploying a machine learning model today means, it's that you'll have researchers who are, of course, wicked smart—but they're wicked smart at model architecture and data and calculus.  
+**Translation:** Vocabulary: calculus: 微积分; deploying: 部署; deployment: 部署; wicked: 非常
+
+**[3712.52s] English:** And they're wicked smart in various domains. They don't want to know anything about the hardware deployment or C++, or things like that, right? And so what's...  
 **Translation:** 
 
-**[3724.36s] English:** have people that try to deploy the model well every time you have a team a does x they throw  
+**[3720.00s] English:** Happened is that you get people who train the model, they throw it over the fence and they  
 **Translation:** 
 
-**[3732.04s] English:** it over the fence and team y does some team b does y like you have a problem because of course  
+**[3724.36s] English:** Have people who try to deploy the model well. Every time you have a team, and they do X, they throw...  
+**Translation:** 
+
+**[3732.04s] English:** It over the fence, and Team Y does some while Team B does others. You like, you have a problem, because, of course.  
 **Translation:** Vocabulary: deploy: 部署
 
-**[3738.76s] English:** it never works the first time and so you throw over the fence they figure out okay it's too slow  
+**[3738.76s] English:** It never works the first time, and so you throw it over the fence; they figure out okay, it's too slow.  
 **Translation:** 
 
-**[3743.44s] English:** it won't fit doesn't use the right operator the tool crashes whatever the problem is then they  
+**[3743.44s] English:** It won't fit; doesn't use the right operator. The tool crashes. Whatever the problem is, then they...  
 **Translation:** 
 
-**[3750.50s] English:** have to throw it back over the fence and every time you throw a thing over a fence it takes three  
+**[3750.50s] English:** Have to throw it back over the fence, and every time you throw something over a fence, it takes three.  
 **Translation:** 
 
-**[3755.30s] English:** weeks of project managers and meetings and things like this and so uh what we've seen today is that  
+**[3755.30s] English:** Weeks of project managers, meetings, and things like this, and so, uh, what we've seen today is that.  
 **Translation:** 
 
-**[3760.16s] English:** getting models in production can take weeks or months like it's not atypical right i talked to  
+**[3760.16s] English:** Getting models into production can take weeks or months, as it's not atypical. I talked to  
 **Translation:** 
 
-**[3765.14s] English:** lots of people and you talk about like vp of software at some internet company trying to  
+**[3765.14s] English:** Lots of people, and you talk about someone like a VP of Software at some internet company trying to  
 **Translation:** 
 
-**[3769.56s] English:** deploy a model and they're like why do i need a team of 45 people  
+**[3769.56s] English:** Deploy a model, and they're like, "Why do I need a team of 45 people?  
 **Translation:** 
 
-**[3772.54s] English:** you  
+**[3772.54s] English:** You.  
 **Translation:** 
 
-**[3773.44s] English:** like it's so easy to train a model why why can't i deploy it right and if you dig into this  
+**[3773.44s] English:** Like, it's so easy to train a model, why can't I deploy it right? And if you dig into this,...  
 **Translation:** 
 
-**[3779.18s] English:** every layer is problematic so if you look at the language piece i mean this is tip of the  
-**Translation:** 
-
-**[3784.56s] English:** iceberg it's a very exciting tip of the iceberg for folks but you've got python on one side and  
-**Translation:** 
-
-**[3789.68s] English:** c++ on the other side python doesn't really deploy i mean can theoretically technically  
+**[3779.18s] English:** Every layer is problematic, so if you look at the language piece, I mean, this is the tip of the iceberg.  
 **Translation:** Vocabulary: iceberg: 冰山一角
 
-**[3794.70s] English:** in some cases but often a lot of production teams will want to get things out of python  
+**[3784.56s] English:** Iceberg: It's a very exciting tip of the iceberg for folks, but you've got Python on one side and  
 **Translation:** 
 
-**[3798.52s] English:** because they get better performance and control and whatever else so mojo can help with that  
+**[3789.68s] English:** C++ on the other side, Python doesn't really deploy; I mean, can theoretically and technically.  
+**Translation:** Vocabulary: technically: 理论上; theoretically: 技术上
+
+**[3794.70s] English:** In some cases, but often a lot of production teams will want to get things out of Python.  
 **Translation:** 
 
-**[3803.44s] English:** if you look at serving so you talk about gigantic models well a gigantic model won't fit on one  
+**[3798.52s] English:** Because they get better performance, control, and whatever else, so MoJo can help with that.  
 **Translation:** 
 
-**[3809.26s] English:** machine right and so now you have this model it's written in python it has to be rerun in c++  
-**Translation:** Vocabulary: gigantic: 巨大的模型
-
-**[3815.56s] English:** now it also has to be carved up so that half of it runs on one machine half of it runs on another  
+**[3803.44s] English:** If you look at serving, so you talk about gigantic models, well, a gigantic model won't fit on one  
 **Translation:** 
 
-**[3819.94s] English:** machine or maybe it runs on 10 machines well so now suddenly the complexity is exploding right  
-**Translation:** Vocabulary: complexity: 复杂性; exploding: 激增
+**[3809.26s] English:** Machine, right? And so, now you have this model. It's written in Python, but it has to be re-run in C++.  
+**Translation:** Vocabulary: gigantic: 巨大的
 
-**[3826.80s] English:** and the reason for this is that if you if you look into tense flow pytorch these systems they weren't  
+**[3815.56s] English:** Now, it also has to be carved up so that half of it runs on one machine and half of it runs on another.  
 **Translation:** 
 
-**[3832.78s] English:** really designed to be able to run on one machine so you have to be able to run on one machine and  
+**[3819.94s] English:** Machine, or maybe it runs on 10 machines. Well, so now suddenly the complexity is exploding, right?  
+**Translation:** Vocabulary: carved: 分割; complexity: 复杂性; exploding: 激增
+
+**[3826.80s] English:** And the reason for this is that, if you look into tense-flow PyTorch, these systems weren't.  
 **Translation:** 
 
-**[3833.44s] English:** for this world right they were designed for you know back in the day when we were starting and  
+**[3832.78s] English:** Really, it was designed to be able to run on just one machine, so you have to be able to run on one machine and...  
 **Translation:** 
 
-**[3838.54s] English:** doing things where  
+**[3833.44s] English:** For this world, they were designed, you know, back in the day when we were just starting and.  
 **Translation:** 
 
-**[3840.00s] English:** it was a different much simpler world like you want to run resnet 50 or some ancient model  
+**[3838.54s] English:** Doing things where  
 **Translation:** 
 
-**[3844.48s] English:** architecture like this it was just a it was a completely different world than rain on one gpu  
+**[3840.00s] English:** It was a different, much simpler world; like you just wanted to run ResNet 50 or some ancient model.  
 **Translation:** 
 
-**[3849.44s] English:** exactly doing alex one gp yeah alex net right in the major breakthrough and um and the world  
+**[3844.48s] English:** Architecture like this, it was just a completely different world than Rain on one GPU.  
 **Translation:** 
 
-**[3856.64s] English:** has changed right and so now the challenge is is that tense flow pytorch these systems they  
+**[3849.44s] English:** Exactly, doing Alex one GP, yeah, Alex Net right in the major breakthrough and um and the world.  
 **Translation:** 
 
-**[3860.80s] English:** weren't actually designed for llms like that that was not that was not a thing and so what where  
+**[3856.64s] English:** Has changed, right? And so now the challenge is to maintain a tense flow in PyTorch; these systems they...  
 **Translation:** 
 
-**[3865.76s] English:** tenseville actually has amazing power in terms of scale and deployment and things like that and i  
+**[3860.80s] English:** Weren't actually designed for LLMs; like, that was not a thing, and so what?  
+**Translation:** 
+
+**[3865.76s] English:** Tenseville actually has amazing power in terms of scale and deployment, and things like that, and I  
 **Translation:** Vocabulary: deployment: 部署
 
-**[3870.00s] English:** think google is i mean maybe not unmatched but they're like incredible in terms of their  
+**[3870.00s] English:** Think Google is, I mean, maybe not unmatched, but they're like incredible in terms of their  
 **Translation:** 
 
-**[3874.24s] English:** capabilities and gigantic scale um many researchers using pytorch right and so pytorch doesn't have  
+**[3874.24s] English:** Capabilities and gigantic scale: um, many researchers are using PyTorch right now, and so PyTorch doesn't have  
+**Translation:** Vocabulary: capabilities: 能力
+
+**[3881.44s] English:** Those same capabilities, and so what modular can do is help with that. Now, if you take a  
 **Translation:** 
 
-**[3881.44s] English:** those same capabilities and so what modular can do is it can help with that now if you take a  
-**Translation:** 
-
-**[3885.12s] English:** step back and say like what is modular doing right so modular has like a a bitter enemy  
+**[3885.12s] English:** Step back and say, "Like, what is Modular doing right?" So, Modular has a bitter enemy.  
 **Translation:** Vocabulary: modular: 模块化
 
-**[3891.76s] English:** that we're fighting against in the industry and it's one of these things where everybody  
+**[3891.76s] English:** That we're fighting against in the industry, and it's one of those things where everyone  
 **Translation:** 
 
-**[3895.76s] English:** knows it but nobody is usually willing to talk about it the bitter enemy the bitter thing that  
+**[3895.76s] English:** Knows it, but nobody is usually willing to talk about it: the bitter enemy, the bitter thing that.  
 **Translation:** 
 
-**[3903.36s] English:** we have to destroy that we're all struggling with and it's like all right it's like fish can't see  
+**[3903.36s] English:** We have to destroy that, we're all struggling with, and it's like, "fish can't see.  
 **Translation:** 
 
-**[3907.28s] English:** water it's complexity sure yes it's complexity right that was very philosophical and so if you  
-**Translation:** Vocabulary: philosophical: 哲学的
+**[3907.28s] English:** Water, it's complexity, sure, yes, its complexity, right? That was very philosophical, and so if you  
+**Translation:** Vocabulary: complexity: 复杂性; philosophical: 哲学的
 
-**[3915.44s] English:** look at it yes it is on the hardware side yes all these all these accelerators all these software  
+**[3915.44s] English:** Look at it. Yes, it is on the hardware side. Yes, all these accelerators and all this software.  
 **Translation:** 
 
-**[3920.72s] English:** stacks that go with the accelerator all these like there's massive complexity over there you look at  
-**Translation:** Vocabulary: accelerator: 加速器; accelerators: 加速器
-
-**[3926.08s] English:** what's happening on the modeling side massive amount of complexity like things are changing  
+**[3920.72s] English:** Stacks that go with the accelerator — all these, like, there's massive complexity over there. You look at  
 **Translation:** 
 
-**[3930.32s] English:** all the time people are inventing turns out the research is not done right and so people want to  
+**[3926.08s] English:** What's happening on the modeling side is a massive amount of complexity, as things are changing rapidly.  
 **Translation:** 
 
-**[3935.20s] English:** be able to move fast transformers are amazing but there's a ton of diversity even within  
+**[3930.32s] English:** All the time, people are inventing things, but it turns out the research isn't done right, and so people want to  
 **Translation:** 
 
-**[3939.68s] English:** transformers and what's the next transformer right and you look into serving also huge amounts of  
+**[3935.20s] English:** Be able to move fast; transformers are amazing, but there's a ton of diversity even within.  
 **Translation:** 
 
-**[3946.08s] English:** complexity it turns out that all the cloud providers right have all their very weird but  
+**[3939.68s] English:** Transformers, and what's the next transformer? Right, and you look into serving also huge amounts of.  
 **Translation:** 
 
-**[3951.04s] English:** very cool hardware for networking all this kind of stuff and it's all very complicated people aren't  
-**Translation:** Vocabulary: complexity: 复杂性
-
-**[3955.76s] English:** doing that you look at classical serving right there there's this whole  
+**[3946.08s] English:** Complexity: It turns out that all the cloud providers, however, have their own very weird but  
 **Translation:** 
 
-**[3960.00s] English:** world of people who know how to write high performance servers with zero copy networking  
+**[3951.04s] English:** Very cool hardware for networking; all this kind of stuff, and it's all very complicated. People aren't  
+**Translation:** Vocabulary: providers: 供应商
+
+**[3955.76s] English:** Doing that, you look at classical serving: right there, there's this whole.  
 **Translation:** 
 
-**[3963.44s] English:** and like all all this fancy asynchronous io and like all these fancy things in the in the serving  
+**[3960.00s] English:** World of people who know how to write high-performance servers with zero-copy networking.  
 **Translation:** 
 
-**[3969.98s] English:** community very little that has pervaded into the machine learning world right and why is that well  
+**[3963.44s] English:** And, like all this fancy asynchronous I/O, and like all these fancy things in the serving layer,...  
+**Translation:** 
+
+**[3969.98s] English:** Community, very little of that has pervaded into the machine learning world, right? And why is that, well,...  
 **Translation:** Vocabulary: asynchronous: 异步的; pervaded: 渗透
 
-**[3975.72s] English:** it's because again these systems have been built up over many years they they haven't been rethought  
+**[3975.72s] English:** It's because, again, these systems have been built up over many years and haven't been rethought.  
 **Translation:** 
 
-**[3981.20s] English:** there hasn't been a first principles approach to this and so what modular is doing is we're saying  
+**[3981.20s] English:** There hasn't been a first-principles approach to this, and so what Modular is doing is we're saying,...  
+**Translation:** Vocabulary: modular: 模块化的
+
+**[3985.52s] English:** Okay, we've built many of these things. Like, so I've worked on TensorFlow and TPUs and things.  
 **Translation:** 
 
-**[3985.52s] English:** okay we've built many of these things like so i've worked on tensorflow and tpus and things  
+**[3991.08s] English:** Like that, other folks on our team have worked on PyTorch core, we've worked on Onyx runtime, we've  
+**Translation:** Vocabulary: runtime: 运行时
+
+**[3996.60s] English:** Worked on many of these other systems and so built systems like the Apple accelerators and all.  
 **Translation:** 
 
-**[3991.08s] English:** like that other folks on our team like worked on pytorch core we've worked on onyx runtime we've  
-**Translation:** Vocabulary: runtime: 运行时环境
-
-**[3996.60s] English:** worked on many of these other systems and so built the systems like the apple accelerators and all  
+**[4002.04s] English:** That kind of stuff, like our team is quite amazing, and so one of the things that roughly everybody  
 **Translation:** 
 
-**[4002.04s] English:** that kind of stuff like our team is quite amazing and so one of the things that roughly everybody  
+**[4007.80s] English:** At Modular is grumpy about this because when you're working on one of these projects, you have a first.  
 **Translation:** 
 
-**[4007.80s] English:** at modular is grumpy about is that when you're working on one of these projects you have a first  
+**[4012.64s] English:** Order: Goal - Get the hardware to work.  
+**Translation:** Vocabulary: grumpy: 脾气坏的
+
+**[4015.20s] English:** Get the hardware to work. Get the hardware to work. Get the hardware to work. Get the hardware to work.  
 **Translation:** 
 
-**[4012.64s] English:** order goal get the hardware to work  
-**Translation:** Vocabulary: grumpy: 爱发脾气; modular: 模块化
-
-**[4015.20s] English:** get the hardware to work get the hardware to work get the hardware to work get the hardware to work  
+**[4015.50s] English:** Get the system to enable one more model. Get this product out the door. Enable the specific.  
 **Translation:** 
 
-**[4015.50s] English:** get the system to enable one more model get this product out the door enable the specific  
+**[4020.40s] English:** Workload, or make it solve this problem for this product team, right? And nobody's been given.  
 **Translation:** 
 
-**[4020.40s] English:** workload or make it solve this problem for this this product team right and nobody's been given  
-**Translation:** 
-
-**[4025.68s] English:** a chance to actually do that step back and so we as an industry we didn't take two steps forward  
+**[4025.68s] English:** A chance to actually do that, step back. And so, we as an industry, didn't take two steps forward.  
 **Translation:** Vocabulary: workload: 工作量
 
-**[4029.96s] English:** we took like 18 steps forward in terms of all this really cool technology across compilers and systems  
+**[4029.96s] English:** We took about 18 steps forward in terms of all this really cool technology, across compilers and systems.  
 **Translation:** 
 
-**[4035.38s] English:** and runtimes and heterogeneous computing like all this kind of stuff and like all this technology  
-**Translation:** Vocabulary: compilers: 编译器; computing: 计算; heterogeneous: 异构; runtimes: 运行时
+**[4035.38s] English:** And runtimes, and heterogeneous computing—like all this kind of stuff—and like all this technology.  
+**Translation:** Vocabulary: compilers: 编译器; computing: 计算; heterogeneous: 异构的; runtimes: 运行时
 
-**[4039.46s] English:** has been you know i wouldn't say uh beautifully designed but it's been proven in different  
+**[4039.46s] English:** Has been, you know, I wouldn't say beautifully designed, but it's been proven in different  
 **Translation:** 
 
-**[4044.82s] English:** quadrants like you know you look at google with tpus massive huge exaflops of compute strapped  
-**Translation:** Vocabulary: exaflops: 每秒千万亿次; quadrants: 不同区域; strapped: 配备
+**[4044.82s] English:** Quadrants, like you know, you look at Google with TPUs—massive, huge exaflops of compute strapped.  
+**Translation:** Vocabulary: compute: 计算; exaflops: 每秒千万亿次浮点运算; quadrants: 象限; strapped: 连接
 
-**[4051.94s] English:** together and into machines that researchers are programming in python in a notebook that's huge  
+**[4051.94s] English:** Together, they program machines using Python in a notebook that's huge.  
 **Translation:** 
 
-**[4057.66s] English:** that's amazing that's incredible right it's incredible and so you look at the technology  
+**[4057.66s] English:** That's amazing! That's incredible, right? It's incredible, and so you look at the technology.  
 **Translation:** 
 
-**[4061.40s] English:** that goes into that and the the algorithms are actually quite general and so lots of other  
+**[4061.40s] English:** That goes into that, and the algorithms are actually quite general, so lots of other  
 **Translation:** 
 
-**[4067.74s] English:** hardware out there and lots of other teams out there don't have the sophistication or maybe the  
+**[4067.74s] English:** Hardware out there, and lots of other teams out there, don't have the sophistication or maybe the  
 **Translation:** Vocabulary: sophistication: 复杂程度
 
-**[4071.94s] English:** the years working on it or the the budget or whatever and so i think it's a really good  
+**[4071.94s] English:** The years working on it, or the budget, or whatever, and so I think it's a really good.  
 **Translation:** 
 
-**[4074.82s] English:** example of how people are using the same algorithms and and how they're using the same  
+**[4074.82s] English:** Example of how people are using the same algorithms, and how they're using them differently.  
 **Translation:** 
 
-**[4078.70s] English:** algorithms and and so i think it's a really good example of how people are using the same  
+**[4078.70s] English:** Algorithms, and so I think it's a really good example of how people are using the same  
 **Translation:** 
 
-**[4080.00s] English:** right and so what modular is doing is we're saying cool this is not research anymore like we've we've  
+**[4080.00s] English:** Right, and so what Modular is doing is we're saying, "Cool, this is not research anymore; we've  
+**Translation:** Vocabulary: modular: 模块化的
+
+**[4085.52s] English:** Built auto-tuning into many systems, we've also developed programming languages, and so on.  
 **Translation:** 
 
-**[4085.52s] English:** built auto tuning in many systems we've built programming languages right and so like have  
+**[4090.72s] English:** Have you known that they have implemented C++, Swift, and many others?  
+**Translation:** Vocabulary: implemented: 实现
+
+**[4094.08s] English:** These things, and so you know, this is hard but it's not research; you look at accelerators.  
 **Translation:** 
 
-**[4090.72s] English:** have you know implemented c plus plus have implemented swift have implemented many of  
-**Translation:** 
-
-**[4094.08s] English:** these things and so you know this it's hard but it's not research and you look at accelerators  
-**Translation:** 
-
-**[4101.52s] English:** well we know there's a bunch of different weird kind of accelerators but they actually cluster  
+**[4101.52s] English:** Well, we know there are a bunch of different weird kinds of accelerators, but they actually cluster.  
 **Translation:** Vocabulary: accelerators: 加速器; cluster: 聚集
 
-**[4106.00s] English:** together right and you look at gpus well there's a couple of major vendors of gpus and they maybe  
+**[4106.00s] English:** Together, right? And you look at GPUs; well, there are a couple of major vendors of GPUs, and they might  
 **Translation:** 
 
-**[4111.36s] English:** don't always get along but their architectures are very similar you look at cpus cpus are still  
+**[4111.36s] English:** Don't always get along, but their architectures are very similar. You look at CPUs; CPUs are still  
+**Translation:** Vocabulary: vendors: 供应商
+
+**[4116.32s] English:** Super important for the deployment side of things, and you see new architectures coming out from.  
 **Translation:** 
 
-**[4116.32s] English:** super important for the deployment side of things and you see new new architectures coming out from  
+**[4120.96s] English:** All the cloud providers, and things like this, are all super important to the world.  
+**Translation:** Vocabulary: deployment: 部署; providers: 供应商
+
+**[4125.04s] English:** Right, but they don't have the 30 years of development that the entrenched people do.  
 **Translation:** 
 
-**[4120.96s] English:** all the cloud providers and things like this and they're all super important to the world  
-**Translation:** 
-
-**[4125.04s] English:** right but they don't have the 30 years of development that the entrenched people do  
-**Translation:** 
-
-**[4129.36s] English:** right and so what modular can do is we're saying okay all this complexity like it's not it's not  
+**[4129.36s] English:** Right, and so what modular can do is we're saying, okay, all this complexity—it's not.  
 **Translation:** Vocabulary: complexity: 复杂性; entrenched: 根深蒂固的
 
-**[4136.00s] English:** it's actually innovation right and so it's innovation that's happening and it's for good  
+**[4136.00s] English:** It's actually about innovation, right? And so it's innovation that's happening, and it's for good.  
 **Translation:** 
 
-**[4142.16s] English:** reasons but i have sympathy for the poor software people right i mean again i'm a generally software  
+**[4142.16s] English:** Reasons, but I have sympathy for the poor software people, right? I mean, again, I'm a generally software person.  
 **Translation:** 
 
-**[4147.84s] English:** person too i love hardware but software people want to build applications and products and  
+**[4147.84s] English:** Person, too; I love hardware, but software people want to build applications and products and...  
 **Translation:** 
 
-**[4152.64s] English:** solutions that scale over many years they don't want to build a solution for one generation of  
+**[4152.64s] English:** Solutions that scale over many years; they don't want to build a solution for just one generation of.  
 **Translation:** 
 
-**[4158.16s] English:** hardware with one vendor's tools right and because of this they need something that  
+**[4158.16s] English:** Hardware with one vendor's tools, and because of this, they need something that  
 **Translation:** 
 
-**[4162.96s] English:** scales with them they need something that works on cloud and they need something that works on  
+**[4162.96s] English:** Scales with them, they need something that works on cloud, and they need something that works on...  
 **Translation:** 
 
-**[4166.00s] English:** mobile right because you know their product manager said hey i want it to be have lower  
+**[4166.00s] English:** Mobile, right? Because you know, their product manager said, "I want it to be have lower  
 **Translation:** 
 
-**[4171.12s] English:** latency and it's better for personalization or whatever they decide right products evolve and so  
-**Translation:** Vocabulary: latency: 延迟
+**[4171.12s] English:** Latency and it's better for personalization, or whatever they decide. Right? Products evolve, and so do their features.  
+**Translation:** Vocabulary: evolve: 演变; latency: 延迟
 
-**[4177.44s] English:** the challenge with the machine learning technology and the infrastructure we have today in the  
+**[4177.44s] English:** The challenge with the machine learning technology and the infrastructure we have today in the  
 **Translation:** 
 
-**[4181.04s] English:** industry is that it's all these point solutions and because there are all these point solutions  
+**[4181.04s] English:** The industry is that it's all these point solutions, and because there are all these point solutions,...  
 **Translation:** 
 
-**[4186.08s] English:** it means that as your product evolves you have to like switch different technology stacks or  
+**[4186.08s] English:** It means that as your product evolves, you have to like switch different technology stacks or  
 **Translation:** 
 
-**[4189.76s] English:** switch to a different vendor and what that does is that slows down progress so basically  
+**[4189.76s] English:** Switch to a different vendor, and what that does is slow down progress. So basically,  
+**Translation:** Vocabulary: evolves: 发展; stacks: 技术栈; vendor: 供应商
+
+**[4196.00s] English:** A lot of the things we've developed in those little uh silos.  
 **Translation:** 
 
-**[4196.00s] English:** a lot of the things we've developed in those little uh silos  
+**[4200.00s] English:** For machine learning tasks, you want to make it the first-class citizen of a general-purpose  
+**Translation:** Vocabulary: silos: 独立部门
+
+**[4205.06s] English:** A programming language that can then be compiled across all these kinds of hardware, well, so it's  
 **Translation:** 
 
-**[4200.00s] English:** for machine learning tasks you want to make that the first class citizen of a general purpose  
-**Translation:** Vocabulary: silos: 独立系统
+**[4209.22s] English:** Not really about a programming language; I mean, the programming language is a component of the  
+**Translation:** Vocabulary: compiled: 编译的
 
-**[4205.06s] English:** programming language that can then be compiled across all these kinds of hardware well so it's  
+**[4212.84s] English:** Mission: Right, and the mission is our not-literal but joking mission is to save the world from...  
 **Translation:** 
 
-**[4209.22s] English:** not really about a programming language i mean the programming language is a component of the  
+**[4217.92s] English:** Terrible AI software, excellent okay? So, so you know, if you look at this mission, you need a syntax.  
+**Translation:** Vocabulary: syntax: 句法
+
+**[4225.90s] English:** So, that's true. You do need a programming language, right? And, we wouldn't have to build everything from scratch.  
 **Translation:** 
 
-**[4212.84s] English:** mission right and the mission is our not literal but our joking mission is to save the world from  
+**[4231.28s] English:** Programming language, if one existed, right? So, if Python was already good enough, then cool—we would.  
+**Translation:** Vocabulary: scratch: 从头开始
+
+**[4235.44s] English:** Just used it, right? We're not just doing very large-scale, expensive engineering projects for the sake of it.  
 **Translation:** 
 
-**[4217.92s] English:** terrible ai software excellent okay so so you know if you look at this mission you need a syntax  
+**[4240.40s] English:** Of it, like it's to solve a problem, right? It's also about um, uh, accelerators, it's also about  
 **Translation:** 
 
-**[4225.90s] English:** so that's so yes you need a programming language right and and like we wouldn't have to build the  
+**[4247.74s] English:** Exotic numerics, and B Float 16, and matrix multiplications and convolutions, and so on.  
 **Translation:** 
 
-**[4231.28s] English:** programming language if one existed right so if python was already good enough then cool we would  
+**[4252.50s] English:** This kind of stuff, um, within the stack, there are things like, uh,...  
+**Translation:** Vocabulary: convolutions: 卷积; exotic: 奇异; matrix: 矩阵; multiplications: 乘法; numerics: 数值
+
+**[4255.90s] English:** Kernel Fusion: that's an esoteric but really important thing that leads to much better.  
 **Translation:** 
 
-**[4235.44s] English:** just used it right we're not just doing very large scale expensive engineering projects for the sake  
+**[4260.90s] English:** Performance and much more general research, hackability together—right? And that's  
+**Translation:** Vocabulary: esoteric: 深奥的; fusion: 融合; hackability: 可破解性; kernel: 内核
+
+**[4267.52s] English:** Enabled by the ASICS, that's enabled by certain hardware, so it's like where's the dance between...  
 **Translation:** 
 
-**[4240.40s] English:** of it like it's to solve a problem right it's also about um uh accelerators it's also about  
+**[4272.68s] English:** Um, I mean, there are several questions here, like how do you add a piece of hardware to this stack?  
 **Translation:** 
 
-**[4247.74s] English:** exotic numerics and b float 16 and matrix multiplications and convolutions and like this  
+**[4277.86s] English:** Yeah, if I had this genius invention of a specialized accelerator, yeah, how  
 **Translation:** 
 
-**[4252.50s] English:** this kind of stuff um within the stack there are things like uh  
-**Translation:** Vocabulary: convolutions: 卷积; matrix: 矩阵; multiplications: 乘法; numerics: 数值
+**[4285.08s] English:** Do I add that?  
+**Translation:** Vocabulary: accelerator: 加速器
 
-**[4255.90s] English:** kernel fusion that's a esoteric but really important thing that leads to much better  
+**[4285.90s] English:** To the modular framework, and also how does modular as a standard start to define the kind of  
 **Translation:** 
 
-**[4260.90s] English:** performance and much more general research hackability together right and that that's  
-**Translation:** Vocabulary: esoteric: 深奥; hackability: 易用性; kernel: 内核
+**[4292.44s] English:** Hardware that should be developed, yeah. So, let me take a step back and talk about the status quo.  
+**Translation:** Vocabulary: modular: 模块化的
 
-**[4267.52s] English:** enabled by the asics that's enabled by certain hardware so it's like where's the dance between  
+**[4297.62s] English:** Okay, and so, if you go back to TensorFlow 1.x and PyTorch 1.x in that kind of time frame, um,...  
 **Translation:** 
 
-**[4272.68s] English:** um i mean there's several questions here like how do you add a piece of hardware to this stack  
+**[4305.84s] English:** These have all evolved and gone way more complicated, so let's go back to the glorious...  
+**Translation:** Vocabulary: evolved: 发展
+
+**[4309.36s] English:** Simple days, right? These things basically were CPUs and CUDA, and so what you do is you say "go.  
 **Translation:** 
 
-**[4277.86s] English:** yeah if a new piece like if i have this genius invention of a specialized accelerator yeah how  
-**Translation:** 
-
-**[4285.08s] English:** do i add that  
-**Translation:** 
-
-**[4285.90s] English:** to the modular framework and also how does modular as a standard start to define the kind of  
-**Translation:** 
-
-**[4292.44s] English:** hardware that should be developed yeah so let me take a step back and talk about status quo  
-**Translation:** Vocabulary: modular: 模块化
-
-**[4297.62s] English:** okay and so um if you go back to tensorflow one pytorch one the this kind of time frame um and  
-**Translation:** 
-
-**[4305.84s] English:** these have all evolved and gone way more complicated so let's go back to the the glorious  
-**Translation:** 
-
-**[4309.36s] English:** simple days right these things basically were cpus and cuda and so what you do is you say go  
-**Translation:** 
-
-**[4315.90s] English:** to a dense layer and a dense layer has a matrix multiplication in it  
+**[4315.90s] English:** To a dense layer, and a dense layer has a matrix multiplication in it.  
 **Translation:** Vocabulary: multiplication: 矩阵乘法
 
-**[4320.00s] English:** right and so when you say that you say go do this big operation matrix multiplication  
+**[4320.00s] English:** Right, and so when you say that, you say "go" and do this big operation, matrix multiplication.  
 **Translation:** 
 
-**[4324.80s] English:** and if it's on a gpu kick off a cuda kernel if it's on a cpu go do like an intel algorithm or  
+**[4324.80s] English:** And if it's on a GPU, kick off a CUDA kernel; if it's on a CPU, go do like an Intel algorithm.  
 **Translation:** Vocabulary: algorithm: 计算方法
 
-**[4331.84s] English:** something like that with the intel mko okay now that's really cool if you're either nvidia or  
+**[4331.84s] English:** Something like that with the Intel MKO, okay? Now that's really cool if you're either NVIDIA or  
 **Translation:** 
 
-**[4337.84s] English:** intel right but then more hardware comes in right and and on one access you have more hardware  
+**[4337.84s] English:** Intel, right? But then more hardware comes in, right? And on one access, you have more hardware.  
 **Translation:** 
 
-**[4344.96s] English:** coming in on the other hand you have an explosion of innovation in ai and so what happened with both  
+**[4344.96s] English:** Coming in, on the other hand, you have an explosion of innovation in AI, and so what happened with both...  
 **Translation:** 
 
-**[4350.16s] English:** tensorflow and pytorch is that the explosion of innovation in ai has led to it's not just  
+**[4350.16s] English:** TensorFlow and PyTorch are that the explosion of innovation in AI has led to it's not just  
 **Translation:** 
 
-**[4355.28s] English:** about matrix multiplication and convolution these things have now like 2 000 different operators  
+**[4355.28s] English:** About matrix multiplication and convolution, these things have now over 2,000 different operators.  
 **Translation:** 
 
-**[4360.64s] English:** and on the other hand you have i don't know how many pieces of hardware out there are there it's  
-**Translation:** Vocabulary: convolution: 卷积运算
+**[4360.64s] English:** And, on the other hand, you have I don't know how many pieces of hardware out there are; it's  
+**Translation:** Vocabulary: convolution: 卷积; matrix: 矩阵; operators: 运算符
 
-**[4364.08s] English:** a lot okay it's it's not it's not even hundreds it's probably thousands okay and across all of  
+**[4364.08s] English:** A lot, okay. It's not even in the hundreds; it's probably thousands, okay, and across all of  
 **Translation:** 
 
-**[4370.08s] English:** edge and across like all all the different things that are used at scale yeah exactly  
+**[4370.08s] English:** Edge and across, like all the different things that are used at scale, yeah, exactly.  
 **Translation:** 
 
-**[4374.96s] English:** it's not just like everywhere yeah it's not a handful of tpu alternatives correct it's it's  
+**[4374.96s] English:** It's not just like everywhere, yeah. It's not a handful of TPU alternatives, correct? It's  
 **Translation:** 
 
-**[4380.80s] English:** it's every phone often with many different right chips inside of it from different vendors right  
+**[4380.80s] English:** It's every phone, often with many different right chips inside of it from different vendors.  
+**Translation:** Vocabulary: vendors: 供应商
+
+**[4387.20s] English:** Like, it's AI everywhere; it's a thing, right? Why are they all making their own chips, like?  
 **Translation:** 
 
-**[4387.20s] English:** like it's ai is everywhere it's a thing right why are they all making their own chips like  
+**[4392.72s] English:** Why is everybody making their own thing? Uh, well, so because... Is that a good thing, for sure? So, Chris.  
 **Translation:** 
 
-**[4392.72s] English:** why is everybody making their own thing uh well so because is that a good thing for sure so chris's  
+**[4398.32s] English:** Philosophy on hardware, yeah, right. So, my philosophy is that there isn't one right solution, right?  
 **Translation:** 
 
-**[4398.32s] English:** philosophy on hardware yeah right so my philosophy is that there isn't one right solution right  
+**[4404.96s] English:** And so, I think that again, we're at the end of Moore's Law; specialization happens, yeah.  
 **Translation:** 
 
-**[4404.96s] English:** and so i think that again we're at the end of moore's law specialization happens yeah if you  
+**[4409.92s] English:** If you're building or training GPT-5, you want some crazy, supercomputer data center thingy.  
 **Translation:** 
 
-**[4409.92s] English:** if you're building if you're training gpt5 you want some crazy supercomputer data center thingy  
+**[4417.92s] English:** If you're making a smart camera that runs on batteries, you want something that looks very  
+**Translation:** Vocabulary: supercomputer: 超级计算机; thingy: 小装置
+
+**[4422.80s] English:** Different if you're building a phone, you want something that looks very different. If you have  
 **Translation:** 
 
-**[4417.92s] English:** if you're making a smart camera that runs on batteries you want something that looks very  
-**Translation:** Vocabulary: supercomputer: 超级计算机
+**[4426.24s] English:** Something like a laptop, you want something that looks maybe similar, but a different scale, right?  
+**Translation:** Vocabulary: laptop: 便携式电脑
 
-**[4422.80s] English:** different if you're building a phone you want something that looks very different if you have  
+**[4431.04s] English:** And so AI ends up touching all of our lives, robotics included.  
 **Translation:** 
 
-**[4426.24s] English:** something like a laptop you want something that looks maybe similar but a different scale right  
+**[4434.96s] English:** Right, and like lots of different things, and so as you look into this, these have different powers.  
+**Translation:** Vocabulary: robotics: 机器人技术
+
+**[4440.00s] English:** Envelopes: There are different trade-offs in terms of the algorithms, and there are new innovations.  
 **Translation:** 
 
-**[4431.04s] English:** and so ai ends up touching all of our lives robotics  
+**[4444.08s] English:** Sparsity and other data formats, and things like that, and so on — I think hardware innovation is a  
+**Translation:** Vocabulary: innovations: 新技术; sparsity: 稀疏性
+
+**[4449.46s] English:** Really, a good thing, right? And what I'm interested in is unlocking that innovation. There's also, like,  
 **Translation:** 
 
-**[4434.96s] English:** right and like lots of different things and so as you look into this these have different power  
+**[4453.40s] English:** Analog and quantum — and like all that really weird stuff, right? And so, if somebody can come up...  
+**Translation:** Vocabulary: analog: 模拟; quantum: 量子; unlocking: 解锁
+
+**[4459.94s] English:** With a chip that uses analog computing, and it's 100x more power-efficient, think what that would.  
 **Translation:** 
 
-**[4440.00s] English:** envelopes there's different trade-offs in terms of the algorithms there's new innovations and  
-**Translation:** 
-
-**[4444.08s] English:** sparsity and other data formats and things like that and so uh hardware innovation i think is a  
-**Translation:** Vocabulary: innovations: 创新; sparsity: 稀疏性
-
-**[4449.46s] English:** really good thing right and what i'm interested in is unlocking that innovation there's also like  
-**Translation:** 
-
-**[4453.40s] English:** analog and quantum and like all the the the really weird stuff right and so if somebody can come up  
-**Translation:** Vocabulary: analog: 模拟; unlocking: 解锁
-
-**[4459.94s] English:** with a chip that uses analog computing and it's 100x more power efficient think what that would  
-**Translation:** 
-
-**[4464.42s] English:** mean in terms of the daily impact on the products we use that'd be huge now if you're building an  
+**[4464.42s] English:** Meaning, in terms of the daily impact on the products we use, that would be huge. Now, if you're building an  
 **Translation:** Vocabulary: computing: 计算
 
-**[4471.04s] English:** analog computer you may not be a compiler specialist right these are different skill sets right and so  
+**[4471.04s] English:** Analog computers: You may not be a compiler specialist, right? These are different skill sets, right, and so  
 **Translation:** 
 
-**[4476.82s] English:** you can hire some compiler people if you're running a big company maybe but it turns out  
+**[4476.82s] English:** You can hire some compiler people if you're running a big company, maybe, but it turns out  
 **Translation:** 
 
-**[4481.30s] English:** these are really uh like exotic new generation of compilers like this this is a different thing  
+**[4481.30s] English:** These are really like exotic new generations of compilers; like, this is a different thing.  
 **Translation:** 
 
-**[4487.66s] English:** right and so if you if you take a step back out and come back to what is the status quo  
-**Translation:** Vocabulary: compilers: 编译器
+**[4487.66s] English:** Right, and so if you take a step back and come back to what is the status quo?  
+**Translation:** Vocabulary: compilers: 编译器; exotic: 异域的
 
-**[4491.24s] English:** status quo is that if you're intelligent  
+**[4491.24s] English:** The status quo is that if you're intelligent,  
 **Translation:** 
 
-**[4494.42s] English:** or you're in video you continue to keep up with the industry and you chase and  
+**[4494.42s] English:** Or, you're in video, you continue to keep up with the industry and you chase...  
 **Translation:** 
 
-**[4497.72s] English:** okay there's 1900 now there's 2000 now there's 2100 and you have a huge team of people that  
+**[4497.72s] English:** Okay, there's 1900, now there's 2000, now there's 2100, and you have a huge team of people that  
 **Translation:** 
 
-**[4503.06s] English:** are like trying to keep up and tune and optimize and even when uh one of the big guys comes out  
+**[4503.06s] English:** Are like trying to keep up, tune, and optimize, and even when one of the big guys comes out,  
 **Translation:** Vocabulary: optimize: 优化
 
-**[4507.76s] English:** with a new generation of their chip they have to go back and rewrite all these things right so  
+**[4507.76s] English:** With a new generation of their chip, they have to go back and rewrite all these things, right?  
 **Translation:** 
 
-**[4512.30s] English:** really it's only powered by having hundreds of people they're all like frantically trying to  
-**Translation:** Vocabulary: frantically: 疯狂地
+**[4512.30s] English:** Really, it's only powered by having hundreds of people who are all like frantically trying to.  
+**Translation:** Vocabulary: frantically: 疯狂地; rewrite: 重写
 
-**[4516.76s] English:** keep up and what that does is that keeps out the little guys and sometimes they're not so little  
+**[4516.76s] English:** Keep up, and what that does is keep out the little guys — and sometimes they're not so little.  
 **Translation:** 
 
-**[4520.96s] English:** guys the big guys that are also just not not in those dominant positions  
+**[4520.96s] English:** Guys, the big guys that are also just not in those dominant positions.  
+**Translation:** Vocabulary: dominant: 占据优势地位的
+
+**[4524.42s] English:** And so, um, and so, what has been happening? And so, a lot of you talk about the rise of new exotic.  
 **Translation:** 
 
-**[4524.42s] English:** and so um and so what has been happening and so a lot of you talk about the rise of new exotic  
-**Translation:** 
-
-**[4531.04s] English:** crazy accelerators is people have been trying to turn this from a let's go write lots of special  
+**[4531.04s] English:** Crazy accelerators is that people have been trying to turn this into a "let's go, write lots of special" approach.  
 **Translation:** Vocabulary: accelerators: 加速器
 
-**[4535.38s] English:** kernels problem into a compiler problem and so we and i contributed to this as well we as an  
+**[4535.38s] English:** Kernels problem into a compiler problem, and so we—and I—contributed to this as well.  
 **Translation:** 
 
-**[4542.34s] English:** industry went into it like let's go make this compiler problem phase let's call it and much of  
+**[4542.34s] English:** Industry went into it like, "Let's go make this compiler problem a phase," and much of  
 **Translation:** Vocabulary: kernels: 内核
 
-**[4548.04s] English:** the industry is still in this phase by the way so it's i wouldn't say this phase is over and so the  
+**[4548.04s] English:** The industry is still in this phase, by the way. So, I wouldn't say this phase is over, and so the  
 **Translation:** 
 
-**[4552.30s] English:** idea is to say look okay  
+**[4552.30s] English:** The idea is to say, "Look, okay?  
 **Translation:** 
 
-**[4554.42s] English:** what a compiler does is it provides a much more general extensible  
+**[4554.42s] English:** What a compiler does is, it provides a much more general and extensible way...  
 **Translation:** 
 
-**[4558.10s] English:** uh  
+**[4558.10s] English:** Uh  
 **Translation:** Vocabulary: extensible: 可扩展的
 
-**[4560.00s] English:** hackable interface for dealing with the general case right and so um within machine learning  
+**[4560.00s] English:** Hackable interface for dealing with the general case, right? And so, within machine learning.  
 **Translation:** 
 
-**[4567.68s] English:** algorithms for example people figured out that hey if i do a matrix multiplication and i do a relu  
-**Translation:** Vocabulary: hackable: 可破解; interface: 接口; matrix: 矩阵; multiplication: 乘法
+**[4567.68s] English:** Algorithms, for example, people figured out that if I do a matrix multiplication and I do a ReLU.  
+**Translation:** Vocabulary: hackable: 可破解的; interface: 接口; matrix: 矩阵; multiplication: 乘法
 
-**[4572.88s] English:** right the classic activation function it is way faster to do one pass over the data and then do  
+**[4572.88s] English:** Right, the classic activation function; it is way faster to do one pass over the data and then do  
 **Translation:** 
 
-**[4580.56s] English:** the relu on the output where i'm writing out the data because relu is just a maximum operation  
+**[4580.56s] English:** The ReLU on the output, where I'm writing out the data, because ReLU is just a maximum operation.  
 **Translation:** 
 
-**[4585.92s] English:** right max with zero and so it's an amazing optimization take matmul relu squished together  
+**[4585.92s] English:** Right, max with zero, and so it's an amazing optimization to keep matmul and ReLU squished together.  
 **Translation:** 
 
-**[4592.72s] English:** in one operation now i have matmul relu well wait a second if i do that now i just went from having  
-**Translation:** Vocabulary: optimization: 优化; squished: 压缩
+**[4592.72s] English:** In one operation, now I have matmul followed by ReLU. Well, wait a second; if I do that now, I just went from having  
+**Translation:** Vocabulary: optimization: 优化; squished: 紧挨着
 
-**[4598.80s] English:** you know two operators to three but now i figure out okay well there's a lot of activation functions  
+**[4598.80s] English:** You know, two operators to three, but now I figured out okay, well, there are a lot of activation functions.  
 **Translation:** 
 
-**[4603.52s] English:** what about uh leaky value what about like like a million things that are out there right and  
-**Translation:** Vocabulary: leaky: 漏激活
+**[4603.52s] English:** What about, uh, leaky values? What about like a million things that are out there, right?  
+**Translation:** Vocabulary: leaky: 漏掉的; operators: 操作符
 
-**[4609.36s] English:** so as i start fusing these in now i get permutations of all these algorithms right  
+**[4609.36s] English:** So, as I start fusing these in now, I get permutations of all these algorithms, right?  
 **Translation:** 
 
-**[4614.32s] English:** and so what the compiler people said is they said  
+**[4614.32s] English:** And so, what the compiler people said is that they said  
 **Translation:** Vocabulary: fusing: 融合; permutations: 排列组合
 
-**[4615.92s] English:** hey cool well i will go enumerate all the algorithms and i will enumerate all the pairs  
+**[4615.92s] English:** Hey, cool! Well, I'll go ahead and enumerate all the algorithms and all the pairs.  
 **Translation:** 
 
-**[4619.84s] English:** and i will actually generate a kernel for you and i think that this has been very very useful for the  
+**[4619.84s] English:** And I will actually generate a kernel for you, and I think that this has been very, very useful for the  
 **Translation:** Vocabulary: enumerate: 列举; kernel: 内核
 
-**[4624.72s] English:** industry this is one of the things that powers google tpus uh pytorch twos like rolling out  
+**[4624.72s] English:** Industry: This is one of the things that powers Google TPUs, uh, PyTorch two's like rolling out.  
 **Translation:** 
 
-**[4629.60s] English:** really cool compiler stuff with triton this other technology and things like this and so the compiler  
-**Translation:** Vocabulary: triton: 编译技术
+**[4629.60s] English:** Really cool compiler stuff with Triton, this other technology, and things like that, and so the compiler...  
+**Translation:** Vocabulary: triton: Triton编译技术
 
-**[4634.88s] English:** people are kind of coming into their four and saying like awesome this is a compiler problem  
+**[4634.88s] English:** People are kind of coming in at four and saying, "Awesome, this is a compiler problem.  
 **Translation:** 
 
-**[4638.56s] English:** we'll compiler it here's the problem not everybody's a compiler person i love compiler  
+**[4638.56s] English:** We'll compile it. Here's the problem: not everybody's a compiler person. I love compilers.  
+**Translation:** Vocabulary: compile: 编译; compilers: 编译器
+
+**[4644.32s] English:** People trust me, right? But not everybody's a compiler. I love compiler people, right?  
 **Translation:** 
 
-**[4644.32s] English:** people trust me right but not everybody's a compiler but i love compiler people trust me right  
+**[4645.92s] English:** I can or should be a compiler person. It turns out that they are people who know analog computers.  
+**Translation:** Vocabulary: analog: 模拟的
+
+**[4651.20s] English:** Really, well, or they know some GPU internal architecture thing really well, or they know  
 **Translation:** 
 
-**[4645.92s] English:** i can or should be a compiler person it turns out that they're people that know analog computers  
-**Translation:** 
-
-**[4651.20s] English:** really well or they know some gpu internal architecture thing really well or they know  
-**Translation:** 
-
-**[4656.48s] English:** some crazy sparse numeric interesting algorithm that is the cusp of research but they're not  
+**[4656.48s] English:** Some crazy, sparse, numeric, interesting algorithm that is on the cusp of research, but they're not.  
 **Translation:** Vocabulary: algorithm: 算法; numeric: 数值的; sparse: 稀疏的
 
-**[4662.56s] English:** compiler people and so one of the challenges with this new wave of technology trying to turn  
+**[4662.56s] English:** Compiler people, and so on, one of the challenges with this new wave of technology is trying to turn  
 **Translation:** 
 
-**[4667.04s] English:** everything into a compiler is again is excluded a ton of people and so you look at what does mojo  
-**Translation:** Vocabulary: excluded: 排除
+**[4667.04s] English:** Everything into a compiler is again excluded for a ton of people, and so you look at what Mojo does.  
+**Translation:** Vocabulary: excluded: 被排除
 
-**[4673.04s] English:** do what does the modular stack do this brings programming  
+**[4673.04s] English:** What does the modular stack do? This brings programming closer.  
 **Translation:** 
 
-**[4675.92s] English:** ability back into this world like it enables i wouldn't say normal people  
-**Translation:** Vocabulary: modular: 模块化
+**[4675.92s] English:** Ability back into this world, like it enables—I wouldn't say normal people.  
+**Translation:** Vocabulary: modular: 模块化的
 
-**[4680.00s] English:** people, but like a new, you know,  
+**[4680.00s] English:** People, but like a new, you know,  
 **Translation:** 
 
-**[4681.92s] English:** a different kind of delightful nerd that cares about numerics or cares about  
+**[4681.92s] English:** A different kind of delightful nerd that cares about numerics or cares about:  
 **Translation:** 
 
-**[4685.40s] English:** hardware or cares about things like this to be able to express that in the  
+**[4685.40s] English:** Hardware, or cares about things like this, to be able to express that in the  
 **Translation:** 
 
-**[4688.56s] English:** stack and extend the stack without having to actually go hack the compiler  
+**[4688.56s] English:** Stack and extend the stack without having to actually go hack the compiler.  
 **Translation:** 
 
-**[4692.20s] English:** itself.  
+**[4692.20s] English:** Itself.  
 **Translation:** 
 
-**[4692.84s] English:** So extend the stack on the, on the algorithm side.  
+**[4692.84s] English:** So, extend the stack on the algorithm side.  
 **Translation:** 
 
 **[4695.86s] English:** Yeah.  
 **Translation:** 
 
-**[4696.48s] English:** And then on the hardware side.  
+**[4696.48s] English:** And then, on the hardware side.  
 **Translation:** 
 
 **[4698.42s] English:** Yeah.  
 **Translation:** 
 
-**[4698.66s] English:** So again, go back to like the simplest example of int, right?  
+**[4698.66s] English:** So, again, go back to the simplest example of int, right?  
 **Translation:** 
 
-**[4701.56s] English:** And so what both Swift and Mojo and other things like this did is we said,  
+**[4701.56s] English:** And so, what both Swift and Mojo, and other things like these, did is that we said,  
 **Translation:** 
 
-**[4705.22s] English:** okay,  
+**[4705.22s] English:** Okay,  
 **Translation:** 
 
-**[4705.68s] English:** pull magic out of the compiler and put it in the standard library.  
+**[4705.68s] English:** Pull magic out of the compiler and put it in the standard library.  
 **Translation:** 
 
 **[4708.76s] English:** Right.  
 **Translation:** 
 
-**[4709.16s] English:** And so what modular is doing with the engine that we're providing and like  
+**[4709.16s] English:** And so, what Modular is doing with the engine that we're providing, and like  
 **Translation:** 
 
-**[4711.90s] English:** this, this very deep technology stack, right.  
+**[4711.90s] English:** This, this very deep technology stack, right.  
 **Translation:** 
 
-**[4714.60s] English:** Which goes into heterogeneous runtimes and like a whole bunch of really cool,  
+**[4714.60s] English:** Which goes into heterogeneous runtimes and, like, a whole bunch of really cool,  
 **Translation:** 
 
-**[4718.60s] English:** really cool things.  
+**[4718.60s] English:** Really cool things.  
 **Translation:** Vocabulary: heterogeneous: 异构的; runtimes: 运行时环境
 
 **[4720.62s] English:** This,  
 **Translation:** 
 
-**[4721.18s] English:** this whole stack allows that stack to be extended and hacked and changed by  
+**[4721.18s] English:** This whole stack allows it to be extended, hacked, and changed by  
 **Translation:** Vocabulary: hacked: 破解
 
-**[4725.84s] English:** researchers and by hardware innovators and by people who know things that we  
+**[4725.84s] English:** Researchers, by hardware innovators, and by people who know things that we  
 **Translation:** 
 
-**[4730.28s] English:** don't know.  
+**[4730.28s] English:** Don't know.  
 **Translation:** Vocabulary: innovators: 创新者
 
-**[4731.46s] English:** Cause you know,  
+**[4731.46s] English:** Because you know,  
 **Translation:** 
 
-**[4732.28s] English:** modular has some smart people,  
+**[4732.28s] English:** Modular has some smart people.  
 **Translation:** 
 
-**[4733.24s] English:** but we don't have all the smart people it turns out.  
+**[4733.24s] English:** But we don't have all the smart people, it turns out.  
 **Translation:** 
 
 **[4735.16s] English:** Right.  
@@ -3598,19 +3599,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[4738.24s] English:** So,  
 **Translation:** 
 
-**[4738.48s] English:** so what is,  
+**[4738.48s] English:** So, what is?  
 **Translation:** 
 
-**[4740.54s] English:** what is heterogeneous,  
+**[4740.54s] English:** What is heterogeneous?  
 **Translation:** 
 
-**[4741.24s] English:** right?  
+**[4741.24s] English:** Right?  
 **Translation:** 
 
-**[4741.42s] English:** So heterogeneous just means many different kinds of things together.  
+**[4741.42s] English:** So, heterogeneous just means many different kinds of things together.  
 **Translation:** 
 
-**[4744.54s] English:** And so the simple simplest example you might come up with is a CPU and a  
+**[4744.54s] English:** And so, the simplest example you might come up with is a CPU and a  
 **Translation:** 
 
 **[4748.28s] English:** GPU.  
@@ -3619,25 +3620,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[4749.54s] English:** And so it's a simple heterogeneous computer to say,  
 **Translation:** 
 
-**[4752.46s] English:** I will run my data loading and pre-processing and other algorithms on the  
+**[4752.46s] English:** I will run my data loading, and pre-processing, and other algorithms on the  
 **Translation:** 
 
-**[4755.64s] English:** CPU.  
+**[4755.64s] English:** CPU:  
 **Translation:** 
 
-**[4756.58s] English:** And then once I get it into the right shape,  
+**[4756.58s] English:** And then, once I get it into the right shape,  
 **Translation:** 
 
 **[4758.16s] English:** I shove it into the GPU.  
 **Translation:** Vocabulary: shove: 硬塞
 
-**[4759.54s] English:** I do a lot of matrix multiplications and convolutions and things like this,  
+**[4759.54s] English:** I do a lot of matrix multiplications and convolutions and things like that.  
 **Translation:** 
 
-**[4763.24s] English:** and I get it back out and I do some reductions and summaries and they shove  
-**Translation:** Vocabulary: convolutions: 卷积; matrix: 矩阵; multiplications: 乘法
+**[4763.24s] English:** And I get it back out, and I do some reductions and summaries, and they shove  
+**Translation:** Vocabulary: convolutions: 卷积; matrix: 矩阵; multiplications: 乘法; reductions: 归约
 
-**[4767.34s] English:** it across the wire.  
+**[4767.34s] English:** It's across the wire.  
 **Translation:** 
 
 **[4768.26s] English:** They're across the network to another machine.  
@@ -3646,364 +3647,364 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[4770.96s] English:** Right.  
 **Translation:** 
 
-**[4771.26s] English:** And so you've got now what are effectively two computers,  
+**[4771.26s] English:** And so you've got now what are effectively two computers.  
 **Translation:** 
 
-**[4776.06s] English:** a CPU and a GPU talking to each other,  
+**[4776.06s] English:** A CPU and a GPU are talking to each other,  
 **Translation:** 
 
-**[4778.34s] English:** working together in a heterogeneous system.  
+**[4778.34s] English:** Working together in a heterogeneous system.  
 **Translation:** 
 
 **[4780.98s] English:** Um,  
 **Translation:** 
 
-**[4782.12s] English:** but that was 10 years ago.  
+**[4782.12s] English:** But that was 10 years ago.  
 **Translation:** 
 
 **[4784.28s] English:** Okay.  
 **Translation:** 
 
-**[4785.18s] English:** You look at a modern cell phone,  
+**[4785.18s] English:** You look at a modern cell phone.  
 **Translation:** 
 
-**[4787.34s] English:** modern cell phone,  
+**[4787.34s] English:** Modern cell phone,  
 **Translation:** 
 
-**[4788.00s] English:** you've got CPUs and they're not just CPUs.  
+**[4788.00s] English:** You've got CPUs, and they're not just CPUs.  
 **Translation:** 
 
-**[4791.12s] English:** There's like big dot,  
+**[4791.12s] English:** There's a big dot.  
 **Translation:** 
 
-**[4792.00s] English:** little CPUs.  
+**[4792.00s] English:** Little CPUs.  
 **Translation:** 
 
-**[4793.04s] English:** And so there's multiple different kinds of CPUs that are kind of working  
+**[4793.04s] English:** And so, there are multiple different kinds of CPUs that are kind of working.  
 **Translation:** 
 
-**[4795.44s] English:** together.  
+**[4795.44s] English:** Together.  
 **Translation:** 
 
 **[4796.20s] English:** They're multi-core.  
 **Translation:** 
 
-**[4797.32s] English:** You've got GPUs,  
+**[4797.32s] English:** You've got GPUs.  
 **Translation:** 
 
-**[4798.12s] English:** you've got neural network.  
+**[4798.12s] English:** You've got a neural network.  
 **Translation:** 
 
-**[4800.00s] English:** accelerators you got dedicated hardware blocks for for media so for video decode and jpeg decode  
-**Translation:** Vocabulary: accelerators: 专用加速器; neural: 神经网络
+**[4800.00s] English:** Accelerators you got dedicated hardware blocks for, like, media so for video decode and JPEG decode.  
+**Translation:** Vocabulary: accelerators: 加速器; neural: 神经网络
 
-**[4806.50s] English:** and things like this and so you've got this massively complicated system and this isn't  
+**[4806.50s] English:** And things like this, and so you've got this massively complicated system, and this isn't  
 **Translation:** 
 
-**[4809.88s] English:** just cell phones every laptop these days is doing the same thing and all these blocks can run at the  
-**Translation:** Vocabulary: massively: 大规模地
+**[4809.88s] English:** Just cell phones, every laptop these days is doing the same thing, and all these blocks can run at the  
+**Translation:** Vocabulary: laptop: 笔记本; massively: 大规模地
 
-**[4815.06s] English:** same time and need to be choreographed right and so again one of the cool things about machine  
+**[4815.06s] English:** Same time, and they need to be choreographed right? And so, again, one of the cool things about machines is that  
 **Translation:** 
 
-**[4821.78s] English:** learning is it's moving things to like data flow graphs and higher level of abstractions and tensors  
-**Translation:** Vocabulary: abstractions: 抽象层次; choreographed: 协调动作
+**[4821.78s] English:** Learning is it's moving things to like data flow graphs and higher levels of abstractions and tensors.  
+**Translation:** Vocabulary: abstractions: 抽象; choreographed: 编排; graphs: 图表
 
-**[4826.34s] English:** and these things that it doesn't specify here's how to do the algorithm it gives the system a lot  
+**[4826.34s] English:** And these things that it doesn't specify here, it's how to do the algorithm, and it gives the system a lot.  
 **Translation:** 
 
-**[4831.92s] English:** more flexibility in terms of how to translate or map or compile it onto the system that you have  
-**Translation:** Vocabulary: algorithm: 算法; flexibility: 灵活性
+**[4831.92s] English:** More flexibility in terms of how to translate, map, or compile it onto the system that you have.  
+**Translation:** Vocabulary: algorithm: 算法; compile: 编译; flexibility: 灵活性; specify: 规定
 
-**[4836.72s] English:** and so what you need you know at the bottom is part of the layer there is a way for all these  
+**[4836.72s] English:** And so, what you need to know at the bottom is that part of the layer provides a way for all these.  
 **Translation:** 
 
-**[4841.58s] English:** devices to talk to each other and so this is one thing that you know i'm very passionate about i  
+**[4841.58s] English:** Devices to talk to each other, and so this is one thing that I'm very passionate about. I  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[4845.78s] English:** I mean, you know, I'm a nerd, but um, all these machines and all these systems are...  
 **Translation:** 
 
-**[4845.78s] English:** i mean you know i'm a nerd but um but all these all these machines and all these systems are  
+**[4851.46s] English:** Effectively, parallel computers running at the same time sending messages to each other.  
+**Translation:** Vocabulary: parallel: 并行的
+
+**[4856.32s] English:** And so they're all fully asynchronous. Well, this is actually a small version of the same problem.  
 **Translation:** 
 
-**[4851.46s] English:** effectively parallel computers running at the same time sending messages to each other  
-**Translation:** 
-
-**[4856.32s] English:** and so they're all fully asynchronous well this is actually a small version of the same problem  
-**Translation:** 
-
-**[4861.66s] English:** you have in a data center right in a data center you now have multiple different machines sometimes  
+**[4861.66s] English:** You have multiple different machines right in a data center, sometimes.  
 **Translation:** Vocabulary: asynchronous: 非同步
 
-**[4866.66s] English:** very specialized sometimes with gpus or tpus in one node and sometimes with disks and other nodes  
+**[4866.66s] English:** Very specialized, sometimes with GPUs or TPUs in one node, and sometimes with disks and other nodes.  
 **Translation:** 
 
-**[4872.02s] English:** and so you get a much larger scale heterogeneous computer and so what ends up happening is you have  
+**[4872.02s] English:** And so, you get a much larger-scale, heterogeneous computer. And so, what ends up happening is that you have  
 **Translation:** Vocabulary: heterogeneous: 异构的
 
-**[4877.32s] English:** this like multi-layer abstraction of hierarchical parallelism hierarchical asynchronous communication  
+**[4877.32s] English:** This is a multi-layer abstraction of hierarchical parallelism and hierarchical asynchronous communication.  
 **Translation:** 
 
-**[4883.78s] English:** and making that again the enemy  
-**Translation:** Vocabulary: abstraction: 抽象; hierarchical: 层次的
+**[4883.78s] English:** And making that again the enemy.  
+**Translation:** Vocabulary: abstraction: 抽象; hierarchical: 层次化的
 
-**[4886.32s] English:** my enemy is complexity by getting that away from being different specialized systems at every  
+**[4886.32s] English:** My enemy is complexity, by getting rid of it and avoiding having different, specialized systems at every turn.  
 **Translation:** 
 
-**[4892.08s] English:** different part of the stack and having more consistency and uniformity i think we can help  
+**[4892.08s] English:** Different parts of the stack and having more consistency and uniformity, I think we can help.  
 **Translation:** Vocabulary: complexity: 复杂性
 
-**[4896.60s] English:** lift the world and make it much simpler and actually get used but how do you leverage like  
+**[4896.60s] English:** Lift the world and make it much simpler, and actually get used to it—but how do you leverage that?  
 **Translation:** 
 
-**[4900.84s] English:** the strengths of the different specialized systems so we're looking inside the smartphone  
+**[4900.84s] English:** The strengths of the different specialized systems, so we're looking inside the smartphone.  
 **Translation:** Vocabulary: leverage: 利用
 
-**[4904.38s] English:** yeah like there's just what i don't know five six computers essentially inside the smartphone  
+**[4904.38s] English:** Yeah, like there are just five or six computers essentially inside the smartphone.  
 **Translation:** 
 
-**[4909.34s] English:** uh how do you uh without trying to minimize the explicit  
+**[4909.34s] English:** Uh, how do you, uh, without trying to minimize the explicit,  
 **Translation:** Vocabulary: explicit: 明确的
 
-**[4916.32s] English:** uh making it explicit which which computer is supposed to be useful  
+**[4916.32s] English:** Uh, making it explicit which computer is supposed to be useful.  
 **Translation:** 
 
-**[4920.00s] English:** operation yeah so there's there's a pretty well-known algorithm and what you're doing  
+**[4920.00s] English:** Operation: Yeah, so there's a pretty well-known algorithm, and what you're doing...  
+**Translation:** Vocabulary: algorithm: 算法
+
+**[4923.94s] English:** Is there a factor of sending data from, you're looking at two factors: you're looking at the factor of sending data from,...  
 **Translation:** 
 
-**[4923.94s] English:** is you're looking at two two factors you're looking at the factor of sending data from  
+**[4927.78s] English:** One thing to another, right? Because it takes time to get it from that side of the chip to that side.  
 **Translation:** 
 
-**[4927.78s] English:** one thing to another right because it takes time to get it from that side of the chip to that side  
+**[4931.50s] English:** Of the chip, and things like this, and then you're looking at what is the time it takes to do an  
 **Translation:** 
 
-**[4931.50s] English:** of the chip and things like this and then you're looking at what is the time it takes to do an  
+**[4936.00s] English:** Operation on a particular block: so, take CPUs—CPUs are fully general; they can do anything, right?  
 **Translation:** 
 
-**[4936.00s] English:** operation on a particular block so take cpus cpus are fully general they can do anything right but  
+**[4943.84s] English:** Then, you have a neural net accelerator that's really good at matrix multiplications, okay?  
 **Translation:** 
 
-**[4943.84s] English:** then you have a neural net accelerator that's really good at matrix multiplications okay and  
+**[4948.16s] English:** So, you say okay; well, if my workload is all matrix multiplications, I start up and send the data over.  
+**Translation:** Vocabulary: accelerator: 加速器; matrix: 矩阵; multiplications: 乘法; neural: 神经; workload: 工作负载
+
+**[4953.22s] English:** The neural net thing goes and does matrix multiplications when it's done, it sends me back.  
 **Translation:** 
 
-**[4948.16s] English:** so you say okay well if my workload is all matrix multiplications i start up i send the data over  
-**Translation:** Vocabulary: accelerator: 加速器; matrix: 矩阵; multiplications: 乘法; neural: 神经; workload: 工作量
-
-**[4953.22s] English:** the neural net thing it goes and does matrix multiplications when it's done it sends me back  
+**[4957.26s] English:** The result is all good, right? And so, the simplest thing is just to say "do matrix, do matrix operations.  
 **Translation:** 
 
-**[4957.26s] English:** the result all is good right and so the simplest thing is just saying do matrix do matrix operations  
+**[4963.20s] English:** Over there, right? But then you realize you get a little bit more complicated because you can do...  
 **Translation:** 
 
-**[4963.20s] English:** over there right but then you realize you get a little bit more complicated because you can do  
+**[4967.54s] English:** Matrix multiplications can be done on a GPU, on a neural net accelerator, or on a CPU.  
 **Translation:** 
 
-**[4967.54s] English:** matrix multiplications on a gpu you can do it on a neural net accelerator you can do it on cpu  
+**[4973.64s] English:** And they'll have different trade-offs and costs, and it's not just matrix multiplication.  
 **Translation:** 
 
-**[4973.64s] English:** and they'll have different trade-offs and costs and it's not just matrix multiplication  
-**Translation:** 
-
-**[4977.50s] English:** and  
+**[4977.50s] English:** And  
 **Translation:** Vocabulary: multiplication: 乘法
 
-**[4978.16s] English:** so what you actually look at is you look at i have generally a graph of compute i want to do  
+**[4978.16s] English:** So, what you actually look at is that you look at a general graph of compute I want to do.  
 **Translation:** 
 
-**[4983.62s] English:** a partitioning i want to look at the communication the bisection bandwidth and like the overhead and  
-**Translation:** Vocabulary: bandwidth: 带宽; bisection: 二分; partitioning: 划分
+**[4983.62s] English:** A partitioning: I want to look at the communication, the bisection bandwidth, and like the overhead.  
+**Translation:** Vocabulary: bandwidth: 带宽; bisection: 二分; compute: 计算; partitioning: 划分
 
-**[4989.22s] English:** the sending of all these different things and and build a model for this and then decide okay  
+**[4989.22s] English:** The sending of all these different things, and then build a model for this, and then decide okay.  
 **Translation:** 
 
-**[4994.04s] English:** it's an optimization problem where do i want to place this compute so it's the old school  
+**[4994.04s] English:** It's an optimization problem: where do I want to place this compute? So it's the old-school way of thinking.  
 **Translation:** Vocabulary: optimization: 最优化
 
-**[4999.04s] English:** theoretical computer science problem of scheduling and then how does uh presumably it's possible to  
+**[4999.04s] English:** Theoretical computer science problem of scheduling, and then how does it presumably become possible to  
 **Translation:** 
 
-**[5006.50s] English:** somehow magically include  
-**Translation:** Vocabulary: presumably: 似乎
+**[5006.50s] English:** Somehow, magically include  
+**Translation:** Vocabulary: scheduling: 排程
 
-**[5008.16s] English:** autotune into this absolutely so i mean in my opinion this is an opinion this is not uh not  
+**[5008.16s] English:** Auto-tune into this, absolutely! So, I mean, in my opinion, this is an opinion; this is not...  
 **Translation:** 
 
-**[5015.82s] English:** everybody would agree with this but in my opinion the world benefits from simple and predictable  
-**Translation:** Vocabulary: autotune: 自动调谐; predictable: 可预测的
+**[5015.82s] English:** Everybody would agree with this, but in my opinion, the world benefits from simple and predictable rules.  
+**Translation:** Vocabulary: predictable: 可预测的
 
-**[5020.54s] English:** systems at the bottom that you can control but then once you have a predictable execution layer  
+**[5020.54s] English:** Systems at the bottom that you can control, but then once you have a predictable execution layer,...  
 **Translation:** 
 
-**[5026.64s] English:** you can build lots of different policies on top of it right and so one policy can be that  
+**[5026.64s] English:** You can build lots of different policies on top of it, right? And so one policy can be that,...  
+**Translation:** Vocabulary: execution: 执行层
+
+**[5031.52s] English:** The human programmer says, "Do that here, do that here, do that here, do that here," and then like.  
 **Translation:** 
 
-**[5031.52s] English:** the human programmer says do that here do that here do that here do that here and like  
+**[5038.16s] English:** This is a set of these kinds of defaults that you can do what you want with it for the  
 **Translation:** 
 
-**[5038.16s] English:** this you have a set of these kind of defaults that you can do what you want it to do for the  
+**[5040.00s] English:** And the system should just do it right then; you quickly get into the mode of, "I don't want to.  
 **Translation:** 
 
-**[5049.62s] English:** function and then that's what really sets it up so if you build aNET you can do this the way it would  
+**[5044.50s] English:** Have to tell it to do it, yeah. And so, the next logical step that people typically take is they  
 **Translation:** 
 
-**[5050.62s] English:** otherwise and that's when at the end of the day you need to build your own code so here's a couple  
+**[5048.92s] English:** Write some terrible heuristic: oh, if it's a major multiplication, do it over there, or if it's  
 **Translation:** 
 
-**[5052.04s] English:** things to consider before we end the video you just need to know that the data server does not  
+**[5049.62s] English:** Function, and then that's what really sets it up. So, if you build a NET, you can do this the way it would.  
+**Translation:** Vocabulary: heuristic: 启发式方法
+
+**[5050.62s] English:** Otherwise, and that's when at the end of the day, you need to build your own code. Here's a couple:  
 **Translation:** 
 
-**[5054.74s] English:** necessarily control everything the human programmer has to do this to know that it can control it  
+**[5052.04s] English:** Things to consider before we end the video: You just need to know that the data server does not.  
 **Translation:** 
 
-**[5056.66s] English:** individually and that's why we've been able to explore these applications and to type out the  
+**[5053.80s] English:** Floating-point operations, do it on the GPU; if it's integer, do it on the CPU, like something like that, right?  
 **Translation:** 
 
-**[5058.54s] English:** information into that that you want and then we're going to go over these in the next slide  
+**[5054.74s] English:** Necessarily, the human programmer has to do this to know that it can control it.  
+**Translation:** Vocabulary: integer: 整数; programmer: 程序员
+
+**[5056.66s] English:** Individually, and that's why we've been able to explore these applications and to type out the  
+**Translation:** 
+
+**[5057.10s] English:** And then you get into this mode where people care more and more and more, and you  
 **Translation:** Vocabulary: individually: 单独地
 
-**[5060.78s] English:** that we need to take a look at so the the following is a little bit more detailed but we're  
+**[5058.54s] English:** Information into that you want, and then we're going to go over these in the next slide.  
 **Translation:** 
 
-**[5062.70s] English:** going to go over this completely a lot and we're going to talk about the other things so  
+**[5060.78s] English:** That we need to take a look at, so the following is a little bit more detailed, but we're  
 **Translation:** 
 
-**[5040.00s] English:** and the system should just do it right then you quickly get in the mode of like i don't want to  
+**[5062.36s] English:** Say, okay, well, let's actually make the heuristic better. Let's get into auto-tuning. Let's  
 **Translation:** 
 
-**[5044.50s] English:** have to tell it to do it yeah and so the next logical step that people typically take is they  
+**[5062.70s] English:** Going to go over this completely a lot, and we're going to talk about the other things, so  
 **Translation:** 
 
-**[5048.92s] English:** write some terrible heuristic oh if it's a major multiplication do it over there or if it's  
+**[5067.88s] English:** Actually, do a search of the space to decide what is actually better, right? Well, then you get  
 **Translation:** 
 
-**[5053.80s] English:** floating point do it on the gpu if it's integer do it on the cpu like something like that right  
-**Translation:** Vocabulary: heuristic: 启发式; integer: 整数
-
-**[5057.10s] English:** and and then you you then get into this mode of like people care more and more and more and you  
+**[5076.30s] English:** Into this problem, where you realize this is not a small space; this is a many-dimensional one.  
 **Translation:** 
 
-**[5062.36s] English:** say okay well let's actually um like make the heuristic better let's get into auto tuning let's  
+**[5079.62s] English:** Hyper-dimensional space that you cannot exhaustively search—so, do you know of any?  
 **Translation:** 
 
-**[5067.88s] English:** actually do a search of the space to decide well what is actually better right well then you get  
+**[5086.56s] English:** Algorithms that are good at searching very complicated spaces, don't tell me you're  
 **Translation:** 
 
-**[5076.30s] English:** into this problem where you realize this is not a small space this is a many-dimensional  
+**[5090.98s] English:** Going to turn this into a machine learning problem, so then you become a machine learning problem.  
 **Translation:** 
 
-**[5079.62s] English:** hyper-dimensional space that you cannot exhaustively search so do you know of any  
+**[5095.10s] English:** And then you have a space of genetic algorithms and reinforcement learning.  
+**Translation:** Vocabulary: reinforcement: 强化学习
+
+**[5097.88s] English:** Learning, and like all of these, but can you include that in the stack?  
 **Translation:** 
 
-**[5086.56s] English:** algorithms that are good at searching very complicated spaces for don't tell me you're  
-**Translation:** Vocabulary: cannot: 不能; exhaustively: 彻底地
+**[5103.34s] English:** Modular stack, yeah, yeah. And where does it sit? Where does it live? Is it a separate thing or is it...  
+**Translation:** Vocabulary: modular: 模块化的
 
-**[5090.98s] English:** going to turn this into a machine learning problem so then you turn into a machine learning problem  
+**[5107.40s] English:** It's part of the compilation, so you start with simple and predictable models, and so you can.  
 **Translation:** 
 
-**[5095.10s] English:** and then you have a space of genetic algorithms and reinforcements  
-**Translation:** Vocabulary: reinforcements: 加强部队
+**[5112.42s] English:** Have full control, and you can have coarse-grain knobs that, like nudges, you don't.  
+**Translation:** Vocabulary: compilation: 汇编; knobs: 旋钮; nudges: 微调; predictable: 可预测的
 
-**[5097.88s] English:** learning and like all these all these but can you include that into the stack into the into the  
+**[5117.54s] English:** Have to do this, but if you really care about getting the best — you know, the last ounce out of —  
 **Translation:** 
 
-**[5103.34s] English:** modular stack yeah yeah and where does it sit where does it live is it separate thing or is  
-**Translation:** Vocabulary: modular: 模块化
-
-**[5107.40s] English:** it part of the compilation so you start from simple and predictable models and so you can  
+**[5122.34s] English:** A problem, then you can use additional tools. And the cool thing is, you don't want to do it without them.  
 **Translation:** 
 
-**[5112.42s] English:** have full control and you can have coarse grain knobs that like nudge nudge systems you don't  
-**Translation:** Vocabulary: compilation: 汇编; knobs: 旋钮; nudge: 微调
-
-**[5117.54s] English:** have to do this but if you really care about getting the best you know the last ounce out of  
+**[5126.74s] English:** This every time you run a model.  
 **Translation:** 
 
-**[5122.34s] English:** a problem then you can use additional tools and they're the cool thing is you don't want to do  
+**[5127.88s] English:** You want to figure out the right answer, and then cash it in. Once you do that, you can get started.  
 **Translation:** 
 
-**[5126.74s] English:** this every time you run a model  
+**[5133.46s] English:** Say, okay, cool; I can get up and running very quickly. I can get good execution out of my system.  
 **Translation:** 
 
-**[5127.88s] English:** you want to figure out the right answer and then cash it and once you do that you can get you can  
+**[5140.26s] English:** Decide if something's important, and if it is, I can go through a bunch of machines.  
+**Translation:** Vocabulary: execution: 执行
+
+**[5143.72s] English:** At it, and do a big, expensive search over the space using whatever technique I feel like.  
 **Translation:** 
 
-**[5133.46s] English:** say okay cool i can get up and running very quickly i can get good execution out of my system i can  
+**[5148.38s] English:** Really, I'm up to the problem, and then when I get the right answer, it's cool; I can just start using it.  
 **Translation:** 
 
-**[5140.26s] English:** decide if something's important and if it's important i can go throw a bunch of machines  
+**[5152.34s] English:** Right, and so you can get out of this trade-off between, okay, am I going to like spend  
 **Translation:** 
 
-**[5143.72s] English:** at it and do a big expensive search over the space using whatever technique i feel like it's  
+**[5157.88s] English:** Forever doing a thing, or do I get up and running quick?  
 **Translation:** 
 
-**[5148.38s] English:** really up to the problem and then when i get the right answer cool i can just start using it  
+**[5160.00s] English:** And it's a quality result.  
 **Translation:** 
 
-**[5152.34s] English:** right and so you can get out of this um this trade-off between okay am i going to like spend  
-**Translation:** 
-
-**[5157.88s] English:** forever doing a thing or do i get up and running quick  
-**Translation:** 
-
-**[5160.00s] English:** and is a quality result.  
-**Translation:** 
-
-**[5161.66s] English:** These are actually not in contention with each other  
+**[5161.66s] English:** These are actually not in contention with each other.  
 **Translation:** Vocabulary: contention: 竞争
 
-**[5164.98s] English:** if the system is designed to scale.  
+**[5164.98s] English:** If the system is designed to scale.  
 **Translation:** 
 
-**[5167.10s] English:** You started and did a little bit of a whirlwind overview  
-**Translation:** Vocabulary: whirlwind: 旋风式
+**[5167.10s] English:** You started and did a little bit of a whirlwind overview.  
+**Translation:** Vocabulary: whirlwind: 旋风般的
 
-**[5170.82s] English:** of how you get the 35,000x speedup or more over Python.  
+**[5170.82s] English:** Of how you get a 35,000x speedup or more over Python.  
 **Translation:** 
 
-**[5177.72s] English:** Jeremy Howard did a really great presentation  
-**Translation:** Vocabulary: speedup: 加速倍数
+**[5177.72s] English:** Jeremy Howard did a really great presentation.  
+**Translation:** Vocabulary: speedup: 加速
 
-**[5179.64s] English:** about sort of the basic, like, look at the code,  
+**[5179.64s] English:** About sort of the basic: look at the code.  
 **Translation:** 
 
-**[5182.44s] English:** here's how you get the speedup.  
+**[5182.44s] English:** Here's how you get the speedup.  
 **Translation:** 
 
-**[5183.86s] English:** Like you said, that's something probably developers can do  
+**[5183.86s] English:** Like you said, that's something probably developers can do.  
 **Translation:** 
 
-**[5187.26s] English:** for their own code to see how you can get  
+**[5187.26s] English:** For their own code, to see how you can get.  
 **Translation:** 
 
-**[5189.56s] English:** this gigantic speedup.  
+**[5189.56s] English:** This gigantic speedup.  
 **Translation:** 
 
 **[5191.16s] English:** But can you maybe speak to the machine learning task in general?  
 **Translation:** Vocabulary: gigantic: 巨大的
 
-**[5194.14s] English:** How do you make some of this code fast, some specifics?  
+**[5194.14s] English:** How do you make some of this code fast? Some specifics would be helpful.  
 **Translation:** 
 
-**[5196.94s] English:** Like, what would you say is the main bottleneck  
+**[5196.94s] English:** Like, what would you say is the main bottleneck?  
 **Translation:** Vocabulary: bottleneck: 瓶颈
 
-**[5199.98s] English:** for machine learning tasks?  
+**[5199.98s] English:** For machine learning tasks?  
 **Translation:** 
 
-**[5204.82s] English:** So are we talking about matmul, matrix multiplication?  
+**[5204.82s] English:** So, are we talking about matrix multiplication (matmul)?  
 **Translation:** Vocabulary: matrix: 矩阵; multiplication: 乘法
 
 **[5209.04s] English:** How do you make that fast?  
 **Translation:** 
 
-**[5210.32s] English:** So, I mean, if you just look at the Python problem, right,  
+**[5210.32s] English:** So, I mean, if you just look at the Python problem, right?  
 **Translation:** 
 
-**[5212.84s] English:** you can say, how do I make Python faster?  
+**[5212.84s] English:** You can ask, "How do I make Python faster?  
 **Translation:** 
 
-**[5215.92s] English:** And there's been a lot of people that have been working on the,  
+**[5215.92s] English:** And there have been a lot of people working on the,  
 **Translation:** 
 
-**[5218.18s] English:** okay, how do I make Python 2?  
+**[5218.18s] English:** Okay, how do I make Python 2?  
 **Translation:** 
 
 **[5219.56s] English:** 10x faster, 10x faster, or something like that, right?  
@@ -4012,7 +4013,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5221.48s] English:** And there have been a ton of projects in that vein, right?  
 **Translation:** 
 
-**[5224.30s] English:** Mojo started from the, what can the hardware do?  
+**[5224.30s] English:** Mojo started by asking, "What can the hardware do?  
 **Translation:** 
 
 **[5228.32s] English:** Like, what is the limit of physics?  
@@ -4027,37 +4028,37 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5233.22s] English:** And then, how do I express that?  
 **Translation:** 
 
-**[5235.56s] English:** Right, and so it wasn't anchored relatively on  
+**[5235.56s] English:** Right, and so it wasn't anchored relatively on.  
 **Translation:** 
 
-**[5238.48s] English:** make Python a little bit faster.  
+**[5238.48s] English:** Make Python a little bit faster.  
 **Translation:** Vocabulary: anchored: 固定
 
-**[5240.24s] English:** It's saying, cool, I know what the hardware can do.  
+**[5240.24s] English:** It's saying, "Cool, I know what the hardware can do.  
 **Translation:** 
 
 **[5242.58s] English:** Let's unlock that, right?  
+**Translation:** Vocabulary: unlock: 解锁
+
+**[5243.86s] English:** Now, when you are right now.  
 **Translation:** 
 
-**[5243.86s] English:** Now, when you, right now.  
+**[5245.66s] English:** You can just say how gutsy that is to be in the meeting.  
+**Translation:** Vocabulary: gutsy: 勇敢的
+
+**[5248.86s] English:** And, you know, be in the meeting.  
 **Translation:** 
 
-**[5245.66s] English:** You can just say how gutsy that is to be in the meeting  
-**Translation:** Vocabulary: gutsy: 勇敢
-
-**[5248.86s] English:** and, you know, be in the meeting.  
+**[5249.56s] English:** As opposed to trying to see it, how do we get the improvement?  
 **Translation:** 
 
-**[5249.56s] English:** As opposed to trying to see, how do we get the improvement?  
+**[5251.78s] English:** It's like, what can physics do?  
 **Translation:** 
 
-**[5251.78s] English:** It's like, what can the physics do?  
+**[5253.80s] English:** I mean, maybe I'm a special kind of nerd.  
 **Translation:** 
 
-**[5253.80s] English:** I mean, maybe I'm a special kind of nerd,  
-**Translation:** 
-
-**[5255.88s] English:** but you look at that, what is the limit of physics?  
+**[5255.88s] English:** But look at that; what is the limit of physics?  
 **Translation:** 
 
 **[5258.62s] English:** How fast can these things go, right?  
@@ -4066,122 +4067,122 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5261.40s] English:** When you start looking at that,  
 **Translation:** 
 
-**[5262.86s] English:** typically, it ends up being a memory problem, right?  
+**[5262.86s] English:** Typically, it ends up being a memory problem, right?  
 **Translation:** 
 
-**[5265.52s] English:** And so today, particularly with these specialized accelerators,  
+**[5265.52s] English:** And so, today, particularly with these specialized accelerators,  
 **Translation:** 
 
-**[5269.38s] English:** the problem is that you can do a lot of math within them,  
+**[5269.38s] English:** The problem is that you can do a lot of math within them.  
 **Translation:** Vocabulary: accelerators: 加速器
 
-**[5272.84s] English:** but you get bottleneck sending data back and forth to memory,  
+**[5272.84s] English:** But you get a bottleneck sending data back and forth to memory.  
 **Translation:** 
 
-**[5276.32s] English:** whether it be local memory or distant memory,  
+**[5276.32s] English:** Whether it be local memory or distant memory,  
 **Translation:** 
 
-**[5279.56s] English:** or distant memory.  
+**[5279.56s] English:** Or distant memory.  
 **Translation:** 
 
-**[5280.00s] English:** or whatever it is and and that that bottleneck particularly as the training sizes get large  
+**[5280.00s] English:** Or, whatever it is, and that bottleneck, particularly as training sizes get large.  
+**Translation:** Vocabulary: bottleneck: 瓶颈
+
+**[5285.20s] English:** As you start doing tons of inferences all over the place, it becomes a huge bottleneck.  
 **Translation:** 
 
-**[5285.20s] English:** as you start doing tons of inferences all all over the place like that becomes a huge bottleneck for  
-**Translation:** 
-
-**[5290.24s] English:** people right so again what happened is we went through a phase of many years where people took  
+**[5290.24s] English:** People, right? So, again, what happened is that we went through a phase of many years where people took  
 **Translation:** Vocabulary: inferences: 推断
 
-**[5296.16s] English:** the special case and hand tuned it and tweaked it and tricked it out and they knew exactly how  
+**[5296.16s] English:** The special case, and they hand-tuned it, tweaked it, and tricked it out. They knew exactly how.  
 **Translation:** 
 
-**[5300.48s] English:** the hardware worked and they knew the model and they made it they made it fast didn't generalize  
-**Translation:** Vocabulary: generalize: 泛化; tweaked: 调整
+**[5300.48s] English:** The hardware worked, and they knew the model. They made it fast, but it didn't generalize.  
+**Translation:** Vocabulary: generalize: 泛化; tricked: 欺骗; tweaked: 调整
 
-**[5304.64s] English:** and so you can make you know resident 50 or some or alex net or something inception v1 like you can  
+**[5304.64s] English:** And so, you can make, you know, a resident 50 or some variant, or AlexNet, or something like Inception V1.  
 **Translation:** 
 
-**[5310.64s] English:** you can do that right because the models are small they fit in your head right but as the models get  
-**Translation:** Vocabulary: inception: 创生
+**[5310.64s] English:** You can do that, right? Because the models are small and fit in your head, right? But as the models get larger,...  
+**Translation:** Vocabulary: inception: inception 引导思想
 
-**[5316.16s] English:** bigger more complicated as the machines get more complicated it stops working right and so this is  
+**[5316.16s] English:** Bigger, more complicated as the machines get more complicated, it stops working right, and so this is.  
 **Translation:** 
 
-**[5321.28s] English:** where things like kernel fusion come in so what is kernel fusion this is this idea of saying let's  
+**[5321.28s] English:** Where things like kernel fusion come in. So, what is kernel fusion? This is the idea of saying, "Let's  
+**Translation:** Vocabulary: fusion: 融合; kernel: 内核
+
+**[5327.20s] English:** Avoid going to memory, and let's do that by building a new hybrid kernel and a numerical algorithm.  
 **Translation:** 
 
-**[5327.20s] English:** avoid going to memory and let's do that by building a new hybrid kernel and a numerical algorithm  
+**[5334.64s] English:** That actually keeps things in the accelerator instead of having to write it all the way out.  
+**Translation:** Vocabulary: accelerator: 加速器; algorithm: 算法; hybrid: 混合的; numerical: 数值的
+
+**[5339.12s] English:** Memory, right? What's happened with these accelerators now? You get multiple levels of.  
 **Translation:** 
 
-**[5334.64s] English:** that actually keeps things in the accelerator instead of having to write all the way out to  
-**Translation:** Vocabulary: accelerator: 加速器; algorithm: 算法; kernel: 内核; numerical: 数值的
-
-**[5339.12s] English:** memory right what's happened with with these accelerators now you get multiple levels of  
+**[5343.68s] English:** Memory, like in a GPU, for example, you'll have global memory and local memory, and all these things.  
 **Translation:** 
 
-**[5343.68s] English:** memory like in a gpu for example you'll have global memory and local memory and like all these things  
+**[5350.40s] English:** If you zoom way into how hardware works, the register file is actually a memory, so the  
 **Translation:** 
 
-**[5350.40s] English:** if you zoom way into how hardware works the register file is actually a memory so the  
+**[5356.32s] English:** Registers are like an L0 cache, and so a lot of taking advantage of the hardware ends up being  
+**Translation:** Vocabulary: cache: 高速缓存; registers: 寄存器
+
+**[5363.68s] English:** Fully used.  
 **Translation:** 
 
-**[5356.32s] English:** registers are like an l0 cache and so a lot of taking advantage of the hardware ends up being  
-**Translation:** Vocabulary: cache: 高速缓存
+**[5364.64s] English:** Utilizing the full power of its capabilities and this has a number of problems, right? One of  
+**Translation:** Vocabulary: capabilities: 能力; utilizing: 利用
 
-**[5363.68s] English:** fully used  
+**[5370.96s] English:** Which is, again, the complexity of a disaster: there's simply too much hardware, even if you just say.  
 **Translation:** 
 
-**[5364.64s] English:** utilizing the full power in all of its capability and this has a number of problems right one of  
-**Translation:** Vocabulary: capability: 能力; utilizing: 利用
+**[5375.84s] English:** Let's look at the chips from one vendor, like Apple or Intel or whatever it is.  
+**Translation:** Vocabulary: complexity: 复杂性; vendor: 供应商
 
-**[5370.96s] English:** which is again the complexity of disaster right there's too much hardware even if you just say  
+**[5381.92s] English:** Each version of the chip comes out with new features, and they change things so that it  
 **Translation:** 
 
-**[5375.84s] English:** let's look at the chips from one line of vendor like apple or intel or whatever it is  
+**[5386.32s] English:** It takes more time or less time to do different things, and you can't rewrite all the software.  
 **Translation:** 
 
-**[5381.92s] English:** each version of the chip comes out with new features and they change things so that it  
+**[5390.08s] English:** Whenever a new chip comes out, right, and so this is where you need a much more scalable approach.  
 **Translation:** 
 
-**[5386.32s] English:** takes more time or less time to do different things and you can't rewrite all the software  
+**[5394.64s] English:** And this is what Mojo and the modular stack provide: they provide this infrastructure, and  
+**Translation:** Vocabulary: modular: 模块化的; scalable: 可扩展的
+
+**[5400.00s] English:** For factoring all this complexity,  
 **Translation:** 
 
-**[5390.08s] English:** whenever a new chip comes out right and so this is where you need a much more scalable approach  
-**Translation:** 
-
-**[5394.64s] English:** and this is what mojo and what the modular stack provides is it provides this infrastructure and  
-**Translation:** Vocabulary: modular: 模块化; scalable: 可扩展
-
-**[5400.00s] English:** for factoring all this complexity  
-**Translation:** 
-
-**[5401.66s] English:** and then allowing people to express algorithms.  
-**Translation:** Vocabulary: complexity: 复杂性; factoring: 简化
+**[5401.66s] English:** And then allowing people to express algorithms.  
+**Translation:** Vocabulary: factoring: 分解
 
 **[5404.14s] English:** You talk about auto-tuning, for example,  
 **Translation:** 
 
-**[5406.48s] English:** express algorithms in a more portable way  
+**[5406.48s] English:** Express algorithms in a more portable way.  
 **Translation:** 
 
-**[5408.70s] English:** so that when a new chip comes out,  
+**[5408.70s] English:** So, that when a new chip comes out,  
 **Translation:** 
 
-**[5410.68s] English:** you don't have to rewrite it all.  
+**[5410.68s] English:** You don't have to rewrite it all.  
+**Translation:** Vocabulary: rewrite: 重新编写
+
+**[5413.54s] English:** So, to me, I kind of joke: what is a compiler?  
 **Translation:** 
 
-**[5413.54s] English:** So to me, I kind of joke, what is a compiler?  
+**[5416.88s] English:** Well, there are many ways to explain that.  
 **Translation:** 
 
-**[5416.88s] English:** Well, there's many ways to explain that.  
+**[5419.38s] English:** You convert thing A into thing B.  
 **Translation:** 
 
-**[5419.38s] English:** You convert thing A into thing B  
-**Translation:** 
-
-**[5421.26s] English:** and you convert source code to machine code.  
-**Translation:** 
+**[5421.26s] English:** And you convert source code to machine code.  
+**Translation:** Vocabulary: convert: 转换
 
 **[5423.54s] English:** You can talk about many, many things that compilers do.  
 **Translation:** 
@@ -4189,73 +4190,73 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5427.96s] English:** But to me, it's about a bag of tricks.  
 **Translation:** Vocabulary: compilers: 编译器
 
-**[5430.78s] English:** It's about a system and a framework  
+**[5430.78s] English:** It's about a system and a framework.  
 **Translation:** 
 
-**[5432.48s] English:** that you can hang complexity.  
+**[5432.48s] English:** That you can hang onto complexity.  
 **Translation:** 
 
-**[5435.04s] English:** It's a system that can then generalize  
+**[5435.04s] English:** It's a system that can then generalize.  
 **Translation:** 
 
-**[5436.98s] English:** and it can work on problems that are bigger  
+**[5436.98s] English:** And it can work on problems that are bigger.  
 **Translation:** Vocabulary: generalize: 泛化
 
-**[5438.44s] English:** than fit in one human's head, right?  
+**[5438.44s] English:** Than fit in one human's head, right?  
 **Translation:** 
 
-**[5441.34s] English:** And so what that means, what a good stack  
+**[5441.34s] English:** And so, what that means is, what a good stack.  
 **Translation:** 
 
-**[5443.82s] English:** and what the modular stack provides  
+**[5443.82s] English:** And what the modular stack provides:  
 **Translation:** 
 
-**[5445.50s] English:** is the ability to walk up to it with a new problem  
+**[5445.50s] English:** Is the ability to walk up to it with a new problem.  
 **Translation:** 
 
-**[5448.66s] English:** and it'll generally work quite well.  
+**[5448.66s] English:** And it will generally work quite well.  
 **Translation:** 
 
-**[5451.34s] English:** And that's something that a lot of machine learning  
+**[5451.34s] English:** And that's something that a lot of machine learning models struggle with.  
 **Translation:** 
 
-**[5452.88s] English:** infrastructure and tools and technologies don't have.  
+**[5452.88s] English:** Infrastructure, and tools and technologies that don't exist.  
 **Translation:** 
 
-**[5456.54s] English:** Typical state of the art today is you walk up,  
+**[5456.54s] English:** Typical state-of-the-art today is that you walk up,  
 **Translation:** 
 
-**[5458.72s] English:** particularly if you're deploying,  
+**[5458.72s] English:** Particularly if you're deploying,  
 **Translation:** 
 
-**[5459.60s] English:** if you walk up with a new model,  
+**[5459.60s] English:** If you walk up with a new model,  
 **Translation:** 
 
-**[5461.20s] English:** you try to push it through the converter  
+**[5461.20s] English:** You try to push it through the converter.  
 **Translation:** 
 
-**[5462.50s] English:** and the converter crashes.  
+**[5462.50s] English:** And the converter crashes.  
 **Translation:** Vocabulary: converter: 转换器
 
 **[5466.10s] English:** That's crazy.  
 **Translation:** 
 
-**[5467.46s] English:** The state of ML tooling today  
+**[5467.46s] English:** The state of ML tooling today.  
 **Translation:** 
 
-**[5469.64s] English:** is not anything that a C programmer would ever accept, right?  
+**[5469.64s] English:** Is not anything that a C programmer would ever accept, right?  
 **Translation:** 
 
-**[5473.60s] English:** And it's always been this kind of flaky set of tooling  
+**[5473.60s] English:** And it's always been a kind of flaky set of tools.  
 **Translation:** Vocabulary: flaky: 不稳定的; programmer: 程序员
 
-**[5476.54s] English:** that's never been integrated well  
+**[5476.54s] English:** That's never been integrated well.  
 **Translation:** 
 
-**[5477.86s] English:** and it's been never worked together  
-**Translation:** 
+**[5477.86s] English:** And it's never worked together.  
+**Translation:** Vocabulary: integrated: 融合
 
-**[5480.88s] English:** because it's not designed together.  
+**[5480.88s] English:** Because it's not designed together.  
 **Translation:** 
 
 **[5482.94s] English:** It's built by different teams.  
@@ -4265,147 +4266,147 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[5485.56s] English:** It's built by different systems.  
+**Translation:** Vocabulary: vendors: 供应商
+
+**[5486.80s] English:** It's built by different Internet companies.  
 **Translation:** 
 
-**[5486.80s] English:** It's built by different internet companies  
+**[5488.26s] English:** That are trying to solve their,  
 **Translation:** 
 
-**[5488.26s] English:** that are trying to solve their,  
+**[5489.14s] English:** Their problems, right?  
 **Translation:** 
 
-**[5489.14s] English:** their problems, right?  
-**Translation:** 
-
-**[5490.70s] English:** And so that means that we get this fragmented,  
+**[5490.70s] English:** And so that means we get this fragmented,  
 **Translation:** Vocabulary: fragmented: 支离破碎
 
-**[5493.58s] English:** terrible mess of complexity.  
+**[5493.58s] English:** Terrible mess of complexity.  
 **Translation:** 
 
 **[5495.76s] English:** So, I mean, the specifics of,  
 **Translation:** 
 
-**[5497.74s] English:** and Jeremy showed this,  
+**[5497.74s] English:** And Jeremy showed this.  
 **Translation:** 
 
-**[5499.40s] English:** there's the vectorized function,  
+**[5499.40s] English:** There's the vectorized function.  
 **Translation:** 
 
-**[5500.68s] English:** which I guess is built into Mojo.  
+**[5500.68s] English:** Which I guess is built into Mojo.  
 **Translation:** 
 
 **[5507.36s] English:** Vectorized, as he showed, is built into the library.  
 **Translation:** Vocabulary: vectorized: 向量化的
 
-**[5509.40s] English:** Into the library, instead of the library.  
+**[5509.40s] English:** Into the library, rather than the library.  
 **Translation:** 
 
 **[5512.06s] English:** Vectorized, parallelized,  
 **Translation:** 
 
-**[5513.98s] English:** which vectorized is more low level,  
+**[5513.98s] English:** Which is more low-level, which vectorized?  
 **Translation:** 
 
-**[5516.52s] English:** parallelized is higher level.  
+**[5516.52s] English:** Parallelized is a higher-level concept.  
 **Translation:** 
 
-**[5518.20s] English:** There's the tiling,  
+**[5518.20s] English:** There's the tiling.  
 **Translation:** 
 
-**[5519.14s] English:** which is how he,  
+**[5519.14s] English:** Which is how he,  
+**Translation:** Vocabulary: tiling: 铺砖
+
+**[5520.00s] English:** Demonstrated the auto-tune, I think. So, think of this in levels, hierarchical.  
 **Translation:** 
 
-**[5520.00s] English:** demonstrated the um autotune i think so so think of think about this in like levels hierarchical  
+**[5527.82s] English:** Levels of abstraction, right? And so, at the very lowest level, if you zoom all the way into a compute problem, you  
+**Translation:** Vocabulary: abstraction: 抽象; compute: 计算; hierarchical: 层次结构
+
+**[5533.34s] English:** Have one floating-point number, right? And so then you say, "Okay, I want to be able to do things one at a time.  
 **Translation:** 
 
-**[5527.82s] English:** levels of abstraction right and so at the very if you zoom all the way into a compute problem you  
-**Translation:** Vocabulary: abstraction: 抽象; autotune: 自动校准; hierarchical: 层次分明的
-
-**[5533.34s] English:** have one floating point number right and so then you say okay i want to be i can do things one at  
+**[5538.06s] English:** A time in an interpreter, it's pretty slow, right? So I can get to doing one at a time in a compiler.  
 **Translation:** 
 
-**[5538.06s] English:** a time in an interpreter it's pretty slow right so i can get to doing one one at a time in a compiler  
-**Translation:** Vocabulary: interpreter: 解释器
-
-**[5544.60s] English:** i can see then i can get to doing four or eight or sixteen at a time with vectors that's called  
+**[5544.60s] English:** I can see, then I can get to doing four, eight, or sixteen at a time with vectors—that's called.  
 **Translation:** 
 
-**[5551.08s] English:** vectorization then you can say hey i have a whole bunch of different you know what what a multi-core  
-**Translation:** Vocabulary: vectorization: 向量处理
+**[5551.08s] English:** Vectorization, then you can say, "Hey, I have a whole bunch of different... you know, what a multi-core...  
+**Translation:** Vocabulary: vectorization: 向量运算; vectors: 向量
 
-**[5557.02s] English:** computer is is basically a bunch of computers right so they're all independent computers that  
+**[5557.02s] English:** A computer is basically a bunch of independent computers, right? So they're all independent computers that  
 **Translation:** 
 
-**[5562.62s] English:** they can talk to each other and they share memory and so now what parallelize does it says okay  
+**[5562.62s] English:** They can talk to each other and they share memory, and so now, what parallelize does it say? Okay.  
 **Translation:** 
 
-**[5567.16s] English:** run multiple instances on different computers and now they can all work together on chrome  
+**[5567.16s] English:** Run multiple instances on different computers, and now they can all work together in Chrome.  
 **Translation:** 
 
-**[5571.94s] English:** right and so what you're doing is you're saying keep going out  
+**[5571.94s] English:** Right, and so what you're doing is you're saying, "keep going out.  
 **Translation:** 
 
-**[5574.58s] English:** to the next level out and and as you do that how do i take advantage of this so tiling is  
+**[5574.58s] English:** To the next level, out, and as you do that, how do I take advantage of this? So, tiling is  
 **Translation:** 
 
-**[5580.74s] English:** a memory optimization right it says okay let's make sure that we're keeping the data close to  
+**[5580.74s] English:** A memory optimization, right? It says, okay, let's make sure that we're keeping the data close to  
 **Translation:** Vocabulary: optimization: 优化
 
-**[5585.62s] English:** the compute part of the problem instead of sending it all back and forth through memory  
+**[5585.62s] English:** The compute part of the problem, instead of sending it all back and forth through memory.  
 **Translation:** 
 
-**[5590.74s] English:** every every time i load a block and the size of the block size is as all that's how you get to  
+**[5590.74s] English:** Every time I load a block, and the size of the block is all that's how you get to.  
 **Translation:** 
 
-**[5595.86s] English:** the auto tune to make sure it's optimized yeah well so all of these the details matter so much  
+**[5595.86s] English:** The auto-tune to make sure it's optimized, yeah. Well, so all of these details matter so much.  
 **Translation:** 
 
-**[5600.18s] English:** to get good performance um this is another funny thing about machine learning and high  
+**[5600.18s] English:** To get good performance, um, this is another funny thing about machine learning and high  
 **Translation:** Vocabulary: optimized: 优化
 
-**[5604.42s] English:** performance is that it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's  
+**[5604.42s] English:** Performance is that it's inconsistent.  
 **Translation:** 
 
-**[5604.58s] English:** performance computing that is very different than c compilers we all grew up grew up with where  
-**Translation:** Vocabulary: compilers: 编译器; computing: 计算
-
-**[5610.20s] English:** you know if you get a new version of gcc or new version of clang or something like that  
+**[5604.58s] English:** Performance computing that is very different from C compilers we all grew up with, where  
 **Translation:** 
 
-**[5614.64s] English:** you know maybe something will go one percent faster right and so compiler engineers will work  
+**[5610.20s] English:** You know, if you get a new version of GCC or Clang or something like that,  
+**Translation:** 
+
+**[5614.64s] English:** You know, maybe something will go 1% faster, right? And so compiler engineers will work.  
 **Translation:** Vocabulary: clang: 编译器
 
-**[5621.24s] English:** really really really hard to get half a percent out of your c code something like that but when  
+**[5621.24s] English:** It's really, really, really hard to get half a percent out of your C code. Something like that, but when...  
 **Translation:** 
 
-**[5626.88s] English:** you're talking about an accelerator or an ai application or you're talking about these kinds  
+**[5626.88s] English:** You're talking about an accelerator or an AI application, or you're talking about these kinds.  
+**Translation:** Vocabulary: accelerator: 加速器
+
+**[5631.76s] English:** Of algorithms, and these are things people used to write down, and they're not going to be able to:  
 **Translation:** 
 
-**[5631.76s] English:** of algorithms and these are things people used to write down and they're not going to be able to  
-**Translation:** 
-
-**[5634.58s] English:** write in fortran for example right if you get it wrong it's not five percent or one percent  
+**[5634.58s] English:** Write in Fortran, for example. If you get it wrong, it's not five percent or one percent.  
 **Translation:** 
 
 **[5640.00s] English:** It could be 2x or 10x, right?  
 **Translation:** 
 
-**[5643.00s] English:** If you think about it, you really want to make use of the full memory you have, the cache, for example.  
+**[5643.00s] English:** If you think about it, you really want to make use of the full memory you have, such as the cache.  
 **Translation:** Vocabulary: cache: 缓存
 
 **[5649.04s] English:** But if you use too much space, it doesn't fit in the cache.  
 **Translation:** 
 
-**[5651.76s] English:** Now you're going to be thrashing all the way back out to main memory.  
-**Translation:** Vocabulary: thrashing: 频繁置换
+**[5651.76s] English:** Now, you're going to be thrashed all the way back out to main memory.  
+**Translation:** Vocabulary: thrashed: 频繁置换
 
-**[5654.78s] English:** And these can be 2x, 10x, major performance differences.  
+**[5654.78s] English:** And these can be 2x, 10x, or major performance differences.  
 **Translation:** 
 
-**[5658.34s] English:** And so this is where getting these magic numbers and these things right is really actually quite important.  
+**[5658.34s] English:** And so, this is where getting these magic numbers and these things right is really actually quite important.  
 **Translation:** 
 
-**[5664.06s] English:** So you mentioned that Moji is a superset of Python.  
+**[5664.06s] English:** So, you mentioned that Moji is a superset of Python.  
 **Translation:** 
 
 **[5667.14s] English:** Can you run Python code as if it's Mojo code?  
@@ -4417,13 +4418,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5677.20s] English:** Yes.  
 **Translation:** 
 
-**[5678.58s] English:** And this has two sides of it.  
+**[5678.58s] English:** And this has two sides to it.  
 **Translation:** 
 
-**[5681.30s] English:** So Mojo's not done yet.  
+**[5681.30s] English:** So, Mojo's not done yet.  
 **Translation:** 
 
-**[5682.62s] English:** So I'll give you a disclaimer.  
+**[5682.62s] English:** So, I'll give you a disclaimer.  
 **Translation:** 
 
 **[5683.66s] English:** Mojo's not done yet.  
@@ -4433,15 +4434,15 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[5692.82s] English:** Somebody was just tweeting about that yesterday, which is pretty cool.  
-**Translation:** Vocabulary: speedups: 加速倍数; tweeting: 发推文
+**Translation:** Vocabulary: speedups: 提速; tweeting: 发推
 
 **[5696.04s] English:** And again, interpretation.  
 **Translation:** 
 
 **[5697.30s] English:** First, compilers, right?  
-**Translation:** 
+**Translation:** Vocabulary: compilers: 编译器; interpretation: 解释
 
-**[5698.12s] English:** And so without changing any code, without – also, this is not JIT compiling or doing anything fancy.  
+**[5698.12s] English:** And so, without changing any code, without doing anything else — this is not JIT compiling or doing anything fancy.  
 **Translation:** 
 
 **[5705.14s] English:** This is just basic stuff.  
@@ -4459,10 +4460,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5713.22s] English:** And our North Star is to be a full superset of Python.  
 **Translation:** 
 
-**[5715.86s] English:** And so you can bring over basically arbitrary Python code and have it just work.  
+**[5715.86s] English:** And so, you can bring over basically arbitrary Python code and have it just work.  
 **Translation:** 
 
-**[5720.42s] English:** And it may not always be 12x faster, but it should be at least as fast and way faster in many cases.  
+**[5720.42s] English:** And it may not always be 12x faster, but it should be at least as fast, and way faster in many cases.  
 **Translation:** 
 
 **[5726.42s] English:** This is the goal.  
@@ -4471,22 +4472,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5727.38s] English:** Right.  
 **Translation:** 
 
-**[5729.28s] English:** Now, it'll take time to do that.  
+**[5729.28s] English:** Now, it will take time to do that.  
 **Translation:** 
 
-**[5731.08s] English:** And Python is a complicated language.  
+**[5731.08s] English:** And Python is a complex language.  
 **Translation:** 
 
-**[5732.48s] English:** There's not just the obvious things, but there's also non-obvious things that are complicated.  
+**[5732.48s] English:** There's not just the obvious things; there are also non-obvious things that are complicated.  
 **Translation:** 
 
-**[5737.56s] English:** Like, we have to be able to talk to CPython packages that talk to the CAPI.  
+**[5737.56s] English:** Like, we have to be able to talk to CPython packages that talk to the C API.  
 **Translation:** 
 
-**[5742.00s] English:** And there's a bunch of pieces to this.  
+**[5742.00s] English:** And there are a bunch of pieces to this.  
 **Translation:** 
 
-**[5744.52s] English:** So you have to – I mean, just to make explicit the obvious, it may not be so obvious until you think about it.  
+**[5744.52s] English:** So, you have to—I mean, just to make the obvious explicit; it may not be so obvious until you think about it.  
 **Translation:** Vocabulary: explicit: 明确的
 
 **[5751.20s] English:** So, you know, to run Python code, that means you have to run all the Python packages and libraries.  
@@ -4498,22 +4499,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5757.14s] English:** Yeah.  
 **Translation:** 
 
-**[5757.82s] English:** So that means what?  
+**[5757.82s] English:** So, that means what?  
 **Translation:** 
 
 **[5759.68s] English:** How?  
 **Translation:** 
 
-**[5760.00s] English:** What's the relationship between Mojo and CPython, the interpreter that presumably would be tasked with getting those packages to work?  
+**[5760.00s] English:** What is the relationship between Mojo and CPython, the interpreter that is presumably tasked with getting those packages to work?  
 **Translation:** Vocabulary: interpreter: 解释器; presumably: 大概
 
 **[5769.62s] English:** Yep.  
 **Translation:** 
 
-**[5769.90s] English:** So in the fullness of time, Mojo will solve for all the problems, and you'll be able to move Python packages over and run them in Mojo.  
+**[5769.90s] English:** So, in the fullness of time, Mojo will solve all the problems, and you'll be able to move Python packages over and run them in Mojo.  
 **Translation:** 
 
-**[5777.94s] English:** Without the CPython?  
+**[5777.94s] English:** Without CPython?  
 **Translation:** 
 
 **[5779.20s] English:** Without CPython.  
@@ -4528,8 +4529,8 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5781.52s] English:** Not today, but someday.  
 **Translation:** 
 
-**[5783.26s] English:** And that'll be a beautiful day, because then you'll get a whole bunch of advantages, and you'll get massive speedups and things like this.  
-**Translation:** 
+**[5783.26s] English:** And that will be a beautiful day, because then you'll get a whole bunch of advantages, and you'll get massive speedups and things like that.  
+**Translation:** Vocabulary: speedups: 加速
 
 **[5789.04s] English:** But you can do that one at a time, right?  
 **Translation:** 
@@ -4549,28 +4550,28 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5795.96s] English:** The ecosystem is too broad.  
 **Translation:** 
 
-**[5797.70s] English:** We want to both be able to build Mojo out.  
+**[5797.70s] English:** We want to be able to build Mojo out.  
 **Translation:** 
 
-**[5800.58s] English:** We also want to do it the right way without intense time pressure.  
+**[5800.58s] English:** We also want to do it the right way, without intense time pressure.  
 **Translation:** 
 
 **[5804.62s] English:** We're obviously moving fast.  
 **Translation:** 
 
-**[5806.04s] English:** And so what we do is we say, okay, well, let's make it so you can import an arbitrary existing package.  
-**Translation:** 
+**[5806.04s] English:** And so, what we do is we say, okay, well, let's make it so you can import an arbitrary existing package.  
+**Translation:** Vocabulary: import: 导入
 
 **[5814.24s] English:** Arbitrary.  
 **Translation:** 
 
-**[5815.60s] English:** Including, like, you write your own on your local disk or whatever.  
-**Translation:** Vocabulary: arbitrary: 任意
+**[5815.60s] English:** Including, like, you can write your own on your local disk or whatever.  
+**Translation:** Vocabulary: arbitrary: 随意的
 
 **[5818.80s] English:** It's not.  
 **Translation:** 
 
-**[5819.04s] English:** It's not like a standard, like, an arbitrary package.  
+**[5819.04s] English:** It's not like a standard, arbitrary package.  
 **Translation:** 
 
 **[5821.54s] English:** And import that using CPython.  
@@ -4579,34 +4580,34 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5824.20s] English:** Because CPython already runs all the packages, right?  
 **Translation:** 
 
-**[5826.92s] English:** And so what we do is we built an integration layer where we can actually use CPython.  
+**[5826.92s] English:** And so, what we do is build an integration layer where we can actually use CPython.  
 **Translation:** 
 
-**[5832.00s] English:** Again, I'm practical.  
+**[5832.00s] English:** Again, I am practical.  
 **Translation:** 
 
 **[5834.20s] English:** And to actually just load and use all the existing packages as they are.  
 **Translation:** 
 
 **[5838.22s] English:** The downside of that is you don't get the benefits of Mojo for those packages, right?  
-**Translation:** Vocabulary: downside: 不利之处
+**Translation:** Vocabulary: downside: 缺点
 
 **[5842.06s] English:** And so they'll run as fast as they do in the traditional CPython way.  
 **Translation:** 
 
-**[5846.32s] English:** But what that does is that gives you an incremental migration.  
-**Translation:** Vocabulary: incremental: 逐步的
+**[5846.32s] English:** But what that does is give you an incremental migration.  
+**Translation:** Vocabulary: incremental: 逐步的; migration: 迁移
 
-**[5849.04s] English:** And so if you say, hey, cool, well, here's a, you know, the Python ecosystem is vast.  
+**[5849.04s] English:** And so, if you say, "Hey, cool," well, here's the thing: the Python ecosystem is vast.  
 **Translation:** 
 
-**[5854.10s] English:** I want all of it to just work.  
+**[5854.10s] English:** I want everything to just work.  
 **Translation:** 
 
-**[5855.70s] English:** But there's certain things that are really important.  
+**[5855.70s] English:** But there are certain things that are really important.  
 **Translation:** 
 
-**[5857.80s] English:** And so if I'm doing weather forecasting or something, well, I want to be able to load all the data.  
+**[5857.80s] English:** And so, if I'm doing weather forecasting or something, I want to be able to load all the data.  
 **Translation:** Vocabulary: forecasting: 天气预报
 
 **[5863.88s] English:** I want to be able to work with it.  
@@ -4621,13 +4622,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5870.08s] English:** If I can write in Mojo and have one system that scales, well, that's way easier to work with.  
 **Translation:** 
 
-**[5874.64s] English:** Is it hard to do that, to have that layer that's running?  
+**[5874.64s] English:** Is it hard to do that, to have that layer running?  
 **Translation:** 
 
 **[5878.72s] English:** See Python.  
 **Translation:** 
 
-**[5880.00s] English:** Because is there some communication back and forth?  
+**[5880.00s] English:** Because is there any communication back and forth?  
 **Translation:** 
 
 **[5882.40s] English:** Yes, it's complicated.  
@@ -4651,22 +4652,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5900.50s] English:** And we use those objects as is.  
 **Translation:** 
 
-**[5902.60s] English:** And so that way, we're fully compatible with all the CPython objects and all the, you know,  
+**[5902.60s] English:** And so, that way, we're fully compatible with all the CPython objects and all the, you know,  
 **Translation:** 
 
-**[5908.20s] English:** it's not just the Python part.  
+**[5908.20s] English:** It's not just the Python part.  
 **Translation:** Vocabulary: compatible: 兼容的
 
-**[5910.10s] English:** It's also the C packages, the C libraries underneath them, because they're often hybrid.  
+**[5910.10s] English:** It's also the C packages and the C libraries underneath them, because they're often hybrid.  
 **Translation:** 
 
-**[5914.22s] English:** And so we can fully run and we're fully compatible with all that.  
-**Translation:** 
+**[5914.22s] English:** And so, we can fully run, and we're fully compatible with all of that.  
+**Translation:** Vocabulary: hybrid: 混杂的; underneath: 在...下面
 
 **[5917.22s] English:** And the way we do that is that we have to play by the rules, right?  
 **Translation:** 
 
-**[5920.22s] English:** And so we keep objects in that representation when they're coming from that world.  
+**[5920.22s] English:** And so, we keep objects in that representation when they're coming from that world.  
 **Translation:** 
 
 **[5924.52s] English:** What's the representation that's being used?  
@@ -4684,55 +4685,55 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5937.52s] English:** Super low level.  
 **Translation:** 
 
-**[5938.20s] English:** It's super low level fiddly, and it's not like Python.  
+**[5938.20s] English:** It's super low-level and fiddly, and it's not like Python.  
 **Translation:** Vocabulary: fiddly: 繁琐的
 
 **[5940.22s] English:** It's like how the interpreter works, okay?  
 **Translation:** 
 
-**[5942.72s] English:** And so that gets all exposed out, and then you have to define wrappers around the low level C code, right?  
+**[5942.72s] English:** And so that gets all exposed out, and then you have to define wrappers around the low-level C code, right?  
 **Translation:** Vocabulary: wrappers: 接口封装
 
-**[5948.94s] English:** And so what this means is you have to know not only C, which is a different rule from Python, obviously,  
+**[5948.94s] English:** And so, what this means is that you have to know not only C, which is a different rule from Python, obviously.  
 **Translation:** 
 
-**[5956.46s] English:** not only Python.  
+**[5956.46s] English:** Not only Python.  
 **Translation:** 
 
 **[5957.98s] English:** But the wrappers.  
 **Translation:** 
 
-**[5958.88s] English:** But the interpreter and the wrappers and the implementation details and the conventions,  
+**[5958.88s] English:** But the interpreter, and the wrappers, and the implementation details, and the conventions,  
 **Translation:** Vocabulary: conventions: 约定; implementation: 实现
 
-**[5962.50s] English:** and it's just this really complicated mess.  
+**[5962.50s] English:** And it's just a really complicated mess.  
 **Translation:** 
 
-**[5964.72s] English:** And when you do that, now suddenly you have a debugger that debugs Python,  
+**[5964.72s] English:** And when you do that, suddenly you have a debugger that debugs Python.  
 **Translation:** 
 
-**[5968.58s] English:** they can't step into C code.  
+**[5968.58s] English:** They can't step into C code.  
 **Translation:** 
 
-**[5971.00s] English:** So you have this two-world problem, right?  
+**[5971.00s] English:** So, you have this two-world problem, right?  
 **Translation:** 
 
-**[5973.10s] English:** And so by pulling this all into Mojo, what you get is you get one world.  
+**[5973.10s] English:** And so, by pulling this all into Mojo, what you get is one world.  
 **Translation:** 
 
-**[5978.46s] English:** You get the ability to say, cool, I have untyped, very dynamic, beautiful, simple code.  
-**Translation:** Vocabulary: untyped: 未类型化
+**[5978.46s] English:** You get the ability to say, "Cool, I have untyped, very dynamic, beautiful, and simple code.  
+**Translation:** Vocabulary: untyped: 无类型
 
 **[5984.26s] English:** Okay, I care about performance for whatever reason, right?  
 **Translation:** 
 
-**[5986.64s] English:** There's lots of reasons you might care.  
+**[5986.64s] English:** There are lots of reasons you might care.  
 **Translation:** 
 
-**[5989.66s] English:** And so then you add types, you can parallelize things, you can vectorize things,  
+**[5989.66s] English:** And so, then you add types; you can parallelize things, and you can vectorize things.  
 **Translation:** 
 
-**[5992.98s] English:** you can use these techniques, which are general techniques to solve a problem.  
+**[5992.98s] English:** You can use these techniques, which are general techniques to solve a problem.  
 **Translation:** Vocabulary: vectorize: 向量化
 
 **[5997.02s] English:** And then you can do that.  
@@ -4741,83 +4742,83 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[5998.16s] English:** You can do that by staying in the system.  
 **Translation:** 
 
-**[6000.00s] English:** And if you have that one Python package  
+**[6000.00s] English:** And if you have that one Python package,  
 **Translation:** 
 
-**[6003.22s] English:** that's really important to you,  
+**[6003.22s] English:** That's really important to you.  
 **Translation:** 
 
-**[6004.12s] English:** you can move it to Mojo.  
+**[6004.12s] English:** You can move it to Mojo.  
 **Translation:** 
 
-**[6005.18s] English:** You get massive performance benefits on that  
+**[6005.18s] English:** You get massive performance benefits from that.  
 **Translation:** 
 
-**[6007.12s] English:** and other advantages.  
+**[6007.12s] English:** And other advantages.  
 **Translation:** 
 
 **[6009.38s] English:** You know, if you like stack types,  
 **Translation:** 
 
-**[6010.56s] English:** it's nice if they're enforced.  
+**[6010.56s] English:** It's nice if they're enforced.  
 **Translation:** 
 
-**[6012.34s] English:** Some people like that, right, rather than being hints.  
+**[6012.34s] English:** Some people like that, right, rather than hints.  
 **Translation:** Vocabulary: enforced: 强制执行
 
-**[6014.66s] English:** So there's other advantages too.  
+**[6014.66s] English:** So, there are other advantages too.  
 **Translation:** 
 
 **[6016.56s] English:** And then you can do that incrementally as you go.  
 **Translation:** Vocabulary: incrementally: 逐步地
 
-**[6022.12s] English:** So one different perspective on this  
+**[6022.12s] English:** So, one different perspective on this.  
 **Translation:** 
 
-**[6024.84s] English:** would be why Mojo instead of making CPython faster,  
+**[6024.84s] English:** Would it be because of Mojo instead of making CPython faster?  
 **Translation:** 
 
-**[6030.98s] English:** redesigning CPython?  
+**[6030.98s] English:** Redesigning CPython?  
 **Translation:** 
 
 **[6032.48s] English:** Yeah.  
 **Translation:** 
 
-**[6033.10s] English:** Well, I mean, you could argue Mojo is redesigning CPython.  
+**[6033.10s] English:** Well, I mean, you could argue that Mojo is redesigning CPython.  
 **Translation:** 
 
-**[6036.08s] English:** But why not make CPython faster and better  
+**[6036.08s] English:** But why not make CPython faster and better?  
 **Translation:** 
 
-**[6039.68s] English:** and other things like that?  
+**[6039.68s] English:** And other things like that?  
 **Translation:** 
 
-**[6040.98s] English:** There's lots of people working on that.  
+**[6040.98s] English:** There are lots of people working on that.  
 **Translation:** 
 
-**[6042.94s] English:** So actually, there's a team at Microsoft  
+**[6042.94s] English:** So, actually, there's a team at Microsoft.  
 **Translation:** 
 
-**[6044.36s] English:** that is really improving.  
+**[6044.36s] English:** That is really improving.  
 **Translation:** 
 
-**[6046.78s] English:** I think CPython 3.11 came out in October,  
+**[6046.78s] English:** I think CPython 3.11 came out in October.  
 **Translation:** 
 
-**[6050.56s] English:** something like that.  
+**[6050.56s] English:** Something like that.  
 **Translation:** 
 
 **[6051.26s] English:** And it was 15% faster, 20% faster.  
 **Translation:** 
 
-**[6054.84s] English:** Across the board, which is pretty huge  
+**[6054.84s] English:** Across the board, which is pretty huge.  
 **Translation:** 
 
-**[6057.06s] English:** given how mature Python is and things like this.  
+**[6057.06s] English:** Given how mature Python is, and things like this.  
 **Translation:** 
 
 **[6060.48s] English:** And so that's awesome.  
-**Translation:** 
+**Translation:** Vocabulary: mature: 成熟的
 
 **[6062.64s] English:** I love it.  
 **Translation:** 
@@ -4829,7 +4830,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[6068.06s] English:** It doesn't do vectors.  
-**Translation:** 
+**Translation:** Vocabulary: vectors: 向量
 
 **[6068.94s] English:** It doesn't do things.  
 **Translation:** 
@@ -4837,19 +4838,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6071.36s] English:** 20% is good.  
 **Translation:** 
 
-**[6072.52s] English:** 35,000 times is better.  
+**[6072.52s] English:** Thirty-five thousand times is better.  
 **Translation:** 
 
-**[6074.92s] English:** So they're definitely...  
+**[6074.92s] English:** So, they're definitely...  
 **Translation:** 
 
-**[6077.98s] English:** I'm a huge fan of that work, by the way,  
+**[6077.98s] English:** I'm a huge fan of that work, by the way.  
 **Translation:** 
 
-**[6079.46s] English:** and it composes well with what we're doing.  
-**Translation:** Vocabulary: composes: 搭配得当
+**[6079.46s] English:** And it complements what we're doing well.  
+**Translation:** Vocabulary: complements: 补充
 
-**[6081.16s] English:** And so it's not like we're fighting or anything like that.  
+**[6081.16s] English:** And so, it's not like we're fighting or anything like that.  
 **Translation:** 
 
 **[6083.92s] English:** It's actually just generalizing.  
@@ -4861,43 +4862,43 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6086.06s] English:** But it's just a different path, right?  
 **Translation:** 
 
-**[6087.84s] English:** And again, we're not working forwards  
+**[6087.84s] English:** And again, we're not working forwards.  
 **Translation:** 
 
-**[6089.88s] English:** from making Python a little bit better.  
+**[6089.88s] English:** From making Python a little bit better.  
 **Translation:** 
 
 **[6091.92s] English:** We're working backwards from what is the limit of physics.  
 **Translation:** 
 
 **[6095.16s] English:** What's the process of porting Python code to Mojo?  
-**Translation:** Vocabulary: backwards: 逆向
+**Translation:** Vocabulary: backwards: 倒着; porting: 移植
 
-**[6098.88s] English:** Is there...  
+**[6098.88s] English:** Is there...?  
 **Translation:** 
 
 **[6100.16s] English:** What's involved in that process?  
 **Translation:** 
 
-**[6103.42s] English:** Is there tooling for that?  
+**[6103.42s] English:** Is there any tooling for that?  
 **Translation:** 
 
 **[6104.88s] English:** Not yet.  
 **Translation:** 
 
-**[6105.48s] English:** So we're missing some basic features right now.  
+**[6105.48s] English:** So, we're missing some basic features right now.  
 **Translation:** 
 
-**[6108.28s] English:** And so we're continuing to drop out new features  
+**[6108.28s] English:** And so, we're continuing to drop new features.  
 **Translation:** 
 
-**[6110.36s] English:** on a weekly basis.  
+**[6110.36s] English:** On a weekly basis.  
 **Translation:** 
 
 **[6111.40s] English:** But at the fullness of time,  
 **Translation:** 
 
-**[6114.84s] English:** give us a year and a half, maybe two years.  
+**[6114.84s] English:** Give us a year and a half, maybe two years.  
 **Translation:** 
 
 **[6117.96s] English:** Is it an automatable process?  
@@ -4913,12 +4914,12 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[6130.52s] English:** Yeah.  
-**Translation:** Vocabulary: automate: 自动化
+**Translation:** Vocabulary: automate: 自动化; conversion: 转换
 
 **[6130.86s] English:** You're saying it's possible.  
 **Translation:** 
 
-**[6131.98s] English:** Well, so, and this is why, I mean, among other reasons why we use tabs.  
+**[6131.98s] English:** Well, so, and this is why: I mean, among other reasons, we use tabs.  
 **Translation:** 
 
 **[6136.58s] English:** Yes.  
@@ -4957,7 +4958,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6162.50s] English:** Right?  
 **Translation:** 
 
-**[6162.96s] English:** And so, if you leave it at C, fine, you can't use the cool features, but it still works.  
+**[6162.96s] English:** And so, if you leave it at C, fine—you can't use the cool features—but it still works.  
 **Translation:** 
 
 **[6166.48s] English:** Right?  
@@ -4967,7 +4968,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[6168.94s] English:** And so, that's the analogy.  
-**Translation:** 
+**Translation:** Vocabulary: analogy: 类比
 
 **[6170.42s] English:** Right?  
 **Translation:** 
@@ -4990,7 +4991,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6182.24s] English:** And so, if you want to stay with Python, that's cool.  
 **Translation:** 
 
-**[6185.10s] English:** But the tooling should be actually very beautiful and simple because we're doing the hard work of defining a superset.  
+**[6185.10s] English:** But the tooling should be actually very beautiful and simple, because we're doing the hard work of defining a superset.  
 **Translation:** 
 
 **[6192.70s] English:** Right.  
@@ -5002,26 +5003,26 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6193.54s] English:** Right.  
 **Translation:** 
 
-**[6193.88s] English:** So, there's several things to say there, but also the conversion tooling should probably give you hints as to, like, how you can improve the code.  
+**[6193.88s] English:** So, there are several things to say there, but also the conversion tooling should probably give you hints as to how you can improve the code.  
 **Translation:** 
 
-**[6200.64s] English:** And then you...  
+**[6200.64s] English:** And then you....  
 **Translation:** 
 
 **[6201.14s] English:** Yeah, exactly.  
 **Translation:** 
 
-**[6201.68s] English:** Once you're in the new world, then you can build all kinds of cool tools to say, like, hey, should you adopt this feature?  
+**[6201.68s] English:** Once you're in the new world, then you can build all kinds of cool tools to say, "Hey, should you adopt this feature?  
 **Translation:** 
 
-**[6206.22s] English:** Or, like...  
+**[6206.22s] English:** Or, like,...  
 **Translation:** 
 
-**[6206.70s] English:** And we haven't built those tools yet, but I fully expect those tools will exist.  
+**[6206.70s] English:** And we haven't built those tools yet, but I fully expect that those tools will exist.  
 **Translation:** 
 
-**[6209.90s] English:** And then you can, like, you know, quote, unquote, modernize your code or however you want to look at it.  
-**Translation:** Vocabulary: modernize: 现代化; unquote: 引用结束
+**[6209.90s] English:** And then you can, like, you know, "modernize" your code—or however you want to look at it.  
+**Translation:** Vocabulary: modernize: 使现代化
 
 **[6213.86s] English:** Right?  
 **Translation:** 
@@ -5029,10 +5030,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6214.34s] English:** So, I mean, one of the things that I think is really interesting about Mojo is that there have been a lot of projects to improve Python over the years.  
 **Translation:** 
 
-**[6222.66s] English:** Everything from, you know, getting Python to run on the Java virtual machine, PyPy, which is a JIT compiler.  
+**[6222.66s] English:** Everything from getting Python to run on the Java Virtual Machine (JIT compiler like PyPy), which is a JIT compiler.  
 **Translation:** 
 
-**[6229.32s] English:** There's tons of these projects out there that have been working on improving Python in various ways.  
+**[6229.32s] English:** There are tons of these projects out there that have been working on improving Python in various ways.  
 **Translation:** 
 
 **[6234.30s] English:** They fall into one of two camps.  
@@ -5041,106 +5042,106 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6235.68s] English:** So, PyPy is a great example of a camp that is trying to be compatible.  
 **Translation:** Vocabulary: compatible: 兼容的
 
-**[6240.00s] English:** with python even there not really it doesn't work with all the c packages and stuff like that  
+**[6240.00s] English:** With Python, even though it doesn't work with all the C packages and stuff like that.  
 **Translation:** 
 
-**[6245.10s] English:** but um but they're trying to be compatible with python there's also another category of these  
+**[6245.10s] English:** But, um, but they're trying to be compatible with Python. There's also another category of these.  
 **Translation:** 
 
-**[6249.84s] English:** things where they're saying well python is too complicated and you know i'm gonna cheat on the  
+**[6249.84s] English:** Things where they're saying, "Well, Python is too complicated," and you know, I'm gonna cheat on the  
 **Translation:** 
 
-**[6255.54s] English:** edges and it you know like integers in python can be an arbitrary size integer like if you care about  
-**Translation:** Vocabulary: arbitrary: 任意的; integer: 整数; integers: 整数
+**[6255.54s] English:** Edges, and it you know, like integers in Python can be an arbitrary-size integer; if you care about...  
+**Translation:** Vocabulary: integer: 整数; integers: 整数
 
-**[6261.84s] English:** it fitting in a going fast in a register in a computer that's really annoying right and so you  
+**[6261.84s] English:** It's fitting in a going fast in a register in a computer that's really annoying, right? And so you...  
 **Translation:** 
 
-**[6267.48s] English:** can you can choose to pass on that right you can say well people don't really use big integers that  
+**[6267.48s] English:** Can you choose to pass on that right? You can say, "Well, people don't really use big integers that much.  
 **Translation:** 
 
-**[6272.62s] English:** often therefore i'm going to just not do it and it'll be fine not not a python superset or you  
+**[6272.62s] English:** Often, therefore, I'm going to just not do it, and it'll be fine. Not a Python superset, or you?  
 **Translation:** 
 
-**[6279.46s] English:** can do the hard thing and say okay this is python you can't be a superset of python without being a  
+**[6279.46s] English:** Can we do the hard thing and say, "Okay, this is Python. You can't be a superset of Python without being a  
 **Translation:** 
 
-**[6285.84s] English:** superset of python and that's a really hard technical problem but it's in my opinion worth  
+**[6285.84s] English:** A superset of Python, and that's a really hard technical problem, but it's, in my opinion, worth.  
 **Translation:** 
 
-**[6291.62s] English:** it right and it's worth it because it's not about any one package it's about this ecosystem it's  
+**[6291.62s] English:** It's right and it's worth it because it's not about any one package; it's about this ecosystem.  
 **Translation:** 
 
-**[6296.86s] English:** about  
+**[6296.86s] English:** About  
 **Translation:** 
 
-**[6297.48s] English:** what python means for the world and it also means we don't want to repeat the python 2 to python 3  
+**[6297.48s] English:** What Python means for the world, and it also means we don't want to repeat the transition from Python 2 to Python 3.  
 **Translation:** 
 
-**[6302.16s] English:** transition like we want we want people to be able to adopt this stuff quickly and so by doing that  
+**[6302.16s] English:** Transition: Like, we want people to be able to adopt this stuff quickly, and so by doing that,...  
 **Translation:** 
 
-**[6307.62s] English:** work we can help lift people yeah the challenge it's really interesting technical philosophical  
-**Translation:** Vocabulary: philosophical: 哲学的
+**[6307.62s] English:** Work, we can help lift people. Yeah, the challenge is really interesting, technical, and philosophical.  
+**Translation:** Vocabulary: philosophical: 哲学上的
 
-**[6312.76s] English:** challenge of really making a language a superset of another language that's breaking my brain a  
+**[6312.76s] English:** The challenge of really making a language a superset of another language is breaking my brain.  
 **Translation:** 
 
-**[6320.96s] English:** little bit well it paints you into corners so um again i'm very happy with python i so joking all  
+**[6320.96s] English:** Little bit, well, it paints you into corners, so again, I'm very happy with Python—I'm just joking around.  
 **Translation:** 
 
-**[6326.86s] English:** joking aside  
+**[6326.86s] English:** Joking aside,  
 **Translation:** 
 
-**[6327.48s] English:** i think that the annotation thing is not the actual important part of the problem yes right but  
+**[6327.48s] English:** I think that the annotation thing is not the actually important part of the problem, yes, right?  
 **Translation:** Vocabulary: annotation: 注释
 
-**[6333.32s] English:** the the fact that python has amazing dynamic metaprogramming features and they translate to  
+**[6333.32s] English:** The fact that Python has amazing dynamic metaprogramming features and they translate to  
 **Translation:** 
 
-**[6337.80s] English:** beautiful static metaprogramming features i think is profound i think that's huge right and so python  
-**Translation:** Vocabulary: metaprogramming: 元编程; profound: 深刻
+**[6337.80s] English:** Beautiful static metaprogramming features—I think—is profound. I think that's huge, right? And so Python.  
+**Translation:** Vocabulary: metaprogramming: 元编程; profound: 深刻的
 
-**[6343.76s] English:** i've talked with guido about this it's it's like it was not designed to do what we're doing that  
+**[6343.76s] English:** I've talked with Guido about this. It's like it wasn't designed to do what we're doing.  
 **Translation:** 
 
-**[6350.02s] English:** was not the reason they built it this way but because they really cared and they were very  
+**[6350.02s] English:** Was not the reason they built it this way, but because they really cared and they were very  
 **Translation:** 
 
-**[6353.26s] English:** thoughtful about how they designed the language it scales very elegantly in the space  
+**[6353.26s] English:** Thoughtful about how they designed the language, it scales very elegantly in the space.  
 **Translation:** 
 
-**[6357.48s] English:** but if you look at other languages for example  
-**Translation:** Vocabulary: elegantly: 优雅地; thoughtful: 周到
+**[6357.48s] English:** But if you look at other languages, for example,  
+**Translation:** Vocabulary: elegantly: 优雅地; thoughtful: 深思熟虑的
 
-**[6360.00s] English:** of C and C++, right?  
+**[6360.00s] English:** Of C and C++, right?  
 **Translation:** 
 
 **[6362.66s] English:** If you're building a superset,  
 **Translation:** 
 
-**[6364.50s] English:** you get stuck with the design decisions of the subset, right?  
+**[6364.50s] English:** You get stuck with the design decisions of the subset, right?  
 **Translation:** 
 
-**[6369.50s] English:** And so, you know, C++ is way more complicated  
+**[6369.50s] English:** And so, you know, C++ is way more complicated.  
 **Translation:** 
 
-**[6373.54s] English:** because of C in the legacy than it would have been  
+**[6373.54s] English:** Because of C in the legacy, it would have been different.  
 **Translation:** 
 
-**[6376.40s] English:** if they would have theoretically designed  
+**[6376.40s] English:** If they would have theoretically designed  
 **Translation:** Vocabulary: theoretically: 理论上
 
-**[6378.14s] English:** a from scratch thing.  
+**[6378.14s] English:** A from-scratch thing.  
 **Translation:** 
 
-**[6380.30s] English:** And there's lots of people right now  
+**[6380.30s] English:** And there are lots of people right now.  
 **Translation:** 
 
-**[6381.70s] English:** that are trying to make C++ better and re-syntax C++.  
+**[6381.70s] English:** That are trying to make C++ better and re-syntax C++.  
 **Translation:** 
 
-**[6385.32s] English:** It's gonna be great, we'll just change all the syntax.  
+**[6385.32s] English:** It's going to be great; we'll just change all the syntax.  
 **Translation:** Vocabulary: syntax: 语法规则
 
 **[6388.00s] English:** But if you do that, now suddenly you have zero packages.  
@@ -5149,13 +5150,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6391.18s] English:** You don't have compatibility.  
 **Translation:** Vocabulary: compatibility: 兼容性
 
-**[6392.18s] English:** So what are the, if you could just linger on that,  
+**[6392.18s] English:** So, what are the options, if you could just linger on that?  
 **Translation:** 
 
-**[6395.98s] English:** what are the biggest challenges  
-**Translation:** 
+**[6395.98s] English:** What are the biggest challenges?  
+**Translation:** Vocabulary: linger: 停留
 
-**[6398.28s] English:** of keeping that superset status?  
+**[6398.28s] English:** Of keeping that superset status?  
 **Translation:** 
 
 **[6400.84s] English:** What are the things you're struggling with?  
@@ -5164,40 +5165,40 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6402.48s] English:** Is it all boiled down to having a big integer?  
 **Translation:** 
 
-**[6405.72s] English:** No, I mean, it's-  
+**[6405.72s] English:** No, I mean, it's -  
 **Translation:** Vocabulary: integer: 整数
 
 **[6406.72s] English:** What are the other things like?  
 **Translation:** 
 
-**[6408.02s] English:** Usually it's the long tail weird things.  
+**[6408.02s] English:** Usually, it's the long-tail weird things.  
 **Translation:** 
 
-**[6410.94s] English:** So let me give you a war story.  
+**[6410.94s] English:** So, let me give you a war story.  
 **Translation:** 
 
-**[6412.96s] English:** So war story in the space is you go way back in time  
+**[6412.96s] English:** So, war story in space is that you go way back in time.  
 **Translation:** 
 
-**[6418.00s] English:** and you have this project you're working on  
+**[6418.00s] English:** And you have this project you're working on.  
 **Translation:** 
 
-**[6421.04s] English:** and it's called Clang.  
-**Translation:** Vocabulary: clang: 编译器
+**[6421.04s] English:** And it's called Clang.  
+**Translation:** Vocabulary: clang: 金属撞击声
 
-**[6422.50s] English:** Clang, what it is is a C, C++ parser, right?  
+**[6422.50s] English:** Clang: What it is is a C, C++ parser, right?  
 **Translation:** 
 
 **[6426.02s] English:** And when I started working on Clang,  
 **Translation:** Vocabulary: parser: 解析器
 
-**[6428.86s] English:** it must have been like 2006 or something,  
+**[6428.86s] English:** It must have been around 2006 or something.  
 **Translation:** 
 
-**[6430.98s] English:** it was when I, 2007, 2006,  
+**[6430.98s] English:** It was in 2006 and 2007 when I...  
 **Translation:** 
 
-**[6433.20s] English:** when I first started working on it, right?  
+**[6433.20s] English:** When I first started working on it, right?  
 **Translation:** 
 
 **[6435.52s] English:** It's funny how time flies.  
@@ -5212,62 +5213,62 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6438.68s] English:** I started that project, and I'm like,  
 **Translation:** 
 
-**[6440.62s] English:** okay, well, I wanna build a C parser,  
-**Translation:** Vocabulary: wanna: 想要
-
-**[6443.98s] English:** C++ parser for LLVM.  
+**[6440.62s] English:** Okay, well, I want to build a C parser.  
 **Translation:** 
 
-**[6446.24s] English:** It's gonna be, the world, GCC, is UDL,  
+**[6443.98s] English:** C++ Parser for LLVM.  
 **Translation:** 
 
-**[6446.26s] English:** it's gonna be the world, GCC, is UDL,  
+**[6446.24s] English:** It's going to be the world, GCC, is UDL.  
 **Translation:** 
 
-**[6446.36s] English:** it's gonna be the world, GCC, is UDL,  
+**[6446.26s] English:** It's going to be the world, GCC, IS UDL.  
 **Translation:** 
 
-**[6447.46s] English:** it's gonna be the world, GCC, is UDL,  
+**[6446.36s] English:** It's going to be the world, GCC, IS UDL.  
 **Translation:** 
 
-**[6447.50s] English:** it's gonna be the world, GCC, is UDL, is yucky.  
+**[6447.46s] English:** It's going to be the world, GCC, IS UDL.  
+**Translation:** 
+
+**[6447.50s] English:** It's gonna be the world, GCC, is UDL, is yucky.  
 **Translation:** Vocabulary: yucky: 难吃
 
 **[6449.16s] English:** This is me in earlier times.  
 **Translation:** 
 
-**[6451.62s] English:** It's yucky, it's unprincipled,  
-**Translation:** Vocabulary: unprincipled: 道德败坏
+**[6451.62s] English:** It's yucky, it's unprincipled.  
+**Translation:** Vocabulary: unprincipled: 没有原则的
 
-**[6453.00s] English:** it has all these weird features,  
+**[6453.00s] English:** It has all these weird features.  
 **Translation:** 
 
-**[6454.14s] English:** like all these bugs, like it's yucky,  
+**[6454.14s] English:** Like all these bugs, it's yucky.  
 **Translation:** 
 
-**[6457.42s] English:** so I'm gonna build a standard compliant C and C++ parser.  
+**[6457.42s] English:** So, I'm going to build a standards-compliant C and C++ parser.  
 **Translation:** 
 
-**[6461.56s] English:** It's gonna be beautiful, it'll be amazing,  
-**Translation:** Vocabulary: compliant: 符合标准
-
-**[6463.78s] English:** well engineered, all the cool things  
+**[6461.56s] English:** It's going to be beautiful; it'll be amazing.  
 **Translation:** 
 
-**[6465.04s] English:** an engineer wants to do.  
+**[6463.78s] English:** Well-engineered, all the cool things.  
 **Translation:** 
 
-**[6466.74s] English:** And so I started implementing and building it out  
+**[6465.04s] English:** An engineer wants to do.  
 **Translation:** 
 
-**[6468.18s] English:** and building it out and building it out,  
+**[6466.74s] English:** And so, I started implementing and building it out.  
 **Translation:** 
 
-**[6469.36s] English:** and then I got to include standardio.h.  
+**[6468.18s] English:** And building it out, and building it out,  
+**Translation:** Vocabulary: implementing: 执行
+
+**[6469.36s] English:** And then I had to include stdio.h.  
 **Translation:** 
 
 **[6474.02s] English:** And all of the headers in the world use all the GCC stuff.  
-**Translation:** Vocabulary: standardio: 标准输入输出
+**Translation:** 
 
 **[6477.50s] English:** Mm-hmm.  
 **Translation:** 
@@ -5275,28 +5276,28 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6478.84s] English:** Okay, this ends.  
 **Translation:** 
 
-**[6480.00s] English:** So again, come back away from theory back to reality, right?  
+**[6480.00s] English:** So, again, come back away from theory back to reality, right?  
 **Translation:** 
 
 **[6485.64s] English:** I was at a fork in the road.  
 **Translation:** 
 
-**[6488.12s] English:** I could have built an amazingly beautiful academic thing  
+**[6488.12s] English:** I could have built an amazingly beautiful academic thing.  
 **Translation:** 
 
-**[6491.06s] English:** that nobody would ever use.  
+**[6491.06s] English:** That nobody would ever use.  
 **Translation:** 
 
 **[6493.38s] English:** Or I could say, well, it's yucky in various ways.  
 **Translation:** 
 
-**[6498.04s] English:** All these design mistakes, accents of history, the legacy.  
+**[6498.04s] English:** All these design mistakes, accents of history, and the legacy.  
 **Translation:** 
 
-**[6501.64s] English:** At that point, GCC was like over 20 years old,  
+**[6501.64s] English:** At that point, GCC was over 20 years old.  
 **Translation:** 
 
-**[6504.86s] English:** which, by the way, now LLVM's over 20 years old, right?  
+**[6504.86s] English:** Which, by the way, is now over 20 years old, right?  
 **Translation:** 
 
 **[6507.80s] English:** So it's funny how time catches up to you, right?  
@@ -5305,29 +5306,29 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6510.36s] English:** And so you say, okay, well, what is easier, right?  
 **Translation:** 
 
-**[6515.50s] English:** I mean, as an engineer, it's actually much easier for me  
+**[6515.50s] English:** I mean, as an engineer, it's actually much easier for me.  
 **Translation:** 
 
-**[6518.42s] English:** to go implement long-tail compatibility weird features,  
-**Translation:** Vocabulary: compatibility: 兼容性
+**[6518.42s] English:** To go implement long-tail compatibility weird features.  
+**Translation:** Vocabulary: compatibility: 兼容性; implement: 实现
 
-**[6521.52s] English:** even if they're distasteful, and just do the hard work  
+**[6521.52s] English:** Even if they're distasteful, and just do the hard work.  
 **Translation:** 
 
-**[6524.66s] English:** and figure it out, reverse engineer it, understand what it is,  
-**Translation:** Vocabulary: distasteful: 令人不悦
+**[6524.66s] English:** And figure it out, reverse-engineer it, understand what it is.  
+**Translation:** Vocabulary: distasteful: 令人不悦的
 
-**[6528.08s] English:** write a bunch of test cases, try to understand the behavior.  
+**[6528.08s] English:** Write a bunch of test cases and try to understand the behavior.  
 **Translation:** 
 
-**[6531.02s] English:** It's way easier to do all that work as an engineer  
+**[6531.02s] English:** It's way easier to do all that work as an engineer.  
 **Translation:** 
 
-**[6533.36s] English:** than it is to go talk to all C programmers and argue with them  
+**[6533.36s] English:** Than it is to go talk to all C programmers and argue with them.  
 **Translation:** 
 
-**[6536.70s] English:** and try to get them to rewrite.  
-**Translation:** Vocabulary: programmers: 程序员
+**[6536.70s] English:** And try to get them to rewrite.  
+**Translation:** Vocabulary: programmers: 程序员; rewrite: 重写代码
 
 **[6537.80s] English:** That's their code.  
 **Translation:** 
@@ -5345,33 +5346,33 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[6543.48s] English:** And you have realities.  
+**Translation:** Vocabulary: realities: 现实情况
+
+**[6545.10s] English:** Like, nobody actually even understands how the code works.  
 **Translation:** 
 
-**[6545.10s] English:** Like, nobody actually even understands how the code works  
-**Translation:** 
-
-**[6547.60s] English:** because it was written by the person who quit 10 years ago.  
+**[6547.60s] English:** Because it was written by the person who quit 10 years ago.  
 **Translation:** 
 
 **[6551.28s] English:** Right?  
 **Translation:** 
 
-**[6551.82s] English:** And so this software is kind of frustrating that way,  
+**[6551.82s] English:** And so, this software is kind of frustrating that way.  
 **Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[6556.46s] English:** but that's how the world works.  
+**[6556.46s] English:** But that's how the world works.  
 **Translation:** 
 
-**[6559.08s] English:** Yeah, unfortunately, it can never be this perfect, beautiful thing.  
+**[6559.08s] English:** Yeah, unfortunately, it can never be this perfect and beautiful thing.  
 **Translation:** 
 
 **[6563.10s] English:** Well, there are occasions in which you get to build,  
 **Translation:** 
 
-**[6566.02s] English:** like, you know, you invent a new.  
+**[6566.02s] English:** Like, you know, you invent a new.  
 **Translation:** 
 
-**[6567.80s] English:** Data structure or something like that.  
+**[6567.80s] English:** Data structure, or something like that.  
 **Translation:** 
 
 **[6569.40s] English:** Or there's this beautiful algorithm that just, like, makes you super happy.  
@@ -5383,163 +5384,163 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6574.08s] English:** But when you're working with people,  
 **Translation:** 
 
-**[6575.98s] English:** and you're working with code and dusty deck code bases  
+**[6575.98s] English:** And you're working with code and dusty, deck-code bases.  
 **Translation:** 
 
-**[6578.60s] English:** and things like this, right,  
+**[6578.60s] English:** And things like this, right?  
 **Translation:** 
 
-**[6580.18s] English:** it's not about what's theoretically beautiful.  
+**[6580.18s] English:** It's not about what is theoretically beautiful.  
 **Translation:** 
 
-**[6582.80s] English:** It's about what's practical, what's real, what people actually use.  
+**[6582.80s] English:** It's about what's practical, what's real, and what people actually use.  
 **Translation:** Vocabulary: theoretically: 理论上
 
-**[6585.78s] English:** And I don't meet a lot of people that say,  
+**[6585.78s] English:** And I don't meet a lot of people who say,  
 **Translation:** 
 
 **[6588.56s] English:** I want to rewrite all my code just for the sake of it.  
 **Translation:** 
 
-**[6592.32s] English:** By the way, there could be interesting possibilities,  
+**[6592.32s] English:** By the way, there could be interesting possibilities.  
 **Translation:** 
 
-**[6594.26s] English:** and we'll probably talk about it, where AI can help rewrite some code.  
+**[6594.26s] English:** And we'll probably talk about where AI can help rewrite some code.  
 **Translation:** 
 
 **[6597.34s] English:** Yeah.  
 **Translation:** 
 
-**[6597.62s] English:** It might be farther out future.  
+**[6597.62s] English:** It might be farther out in the future.  
 **Translation:** 
 
-**[6600.00s] English:** but it's a really interesting one how that could create more be a a tool in the battle against this  
+**[6600.00s] English:** But it's a really interesting one: how that could create more of a tool in the battle against this.  
 **Translation:** 
 
-**[6607.50s] English:** monster of complexity that you mentioned yeah you mentioned guido the the benevolent dictator for  
+**[6607.50s] English:** Monster of complexity that you mentioned—yeah, you mentioned Guido, the benevolent dictator for  
 **Translation:** Vocabulary: benevolent: 仁慈的; complexity: 复杂性; dictator: 独裁者
 
-**[6615.72s] English:** life of python what does he think about mojo have you talked to him much about it uh i have talked  
+**[6615.72s] English:** Life of Python: What does he think about Mojo? Have you talked to him much about it? Uh, I have talked.  
 **Translation:** 
 
-**[6621.74s] English:** with him about it he found it very interesting um we actually talked with guido before it launched  
-**Translation:** Vocabulary: guido: 吉多·范·罗苏姆
+**[6621.74s] English:** With him about it, he found it very interesting. Um, we actually talked with Guido before it launched.  
+**Translation:** Vocabulary: guido: Guido van Rossum
 
-**[6625.92s] English:** and so he was aware of it before it went public um i have a ton of respect for guido for a bunch  
+**[6625.92s] English:** And so, he was aware of it before it went public. Um, I have a ton of respect for Guido for a bunch.  
 **Translation:** 
 
-**[6630.62s] English:** of different reasons you talk about walrus operator and like guido is pretty amazing in  
+**[6630.62s] English:** Of different reasons, you talk about the walrus operator, and like Guido is pretty amazing in.  
 **Translation:** Vocabulary: walrus: 海象
 
-**[6636.52s] English:** terms of steering such a huge and diverse community and and and like driving it forward and  
+**[6636.52s] English:** Terms of steering such a huge and diverse community, and driving it forward.  
 **Translation:** 
 
-**[6644.46s] English:** i think python is what it is thanks to him right and so to me it was really important starting to  
+**[6644.46s] English:** I think Python is what it is, thanks to him, right? And so, to me, it was really important starting to.  
+**Translation:** Vocabulary: steering: 掌舵
+
+**[6651.30s] English:** Work on Mojo to get his feedback, get his input, and get his eyes on this right.  
 **Translation:** 
 
-**[6651.30s] English:** work on mojo to get his feedback and get his input and get his eyes on this right  
+**[6655.92s] English:** Now, um, a lot of what Guido was, and is, I think, concerned about is whether we haven't fragmented.  
+**Translation:** Vocabulary: fragmented: 分裂
+
+**[6662.58s] English:** The community, yeah, we don't want a Python 2 to Python 3 thing like that; it was really troublesome.  
 **Translation:** 
 
-**[6655.92s] English:** now um a lot of what guido was is was and is i think concerned about is have we not fragment  
+**[6667.30s] English:** Painful for everybody involved, and so we spent quite a bit of time talking about that and some.  
+**Translation:** Vocabulary: troublesome: 麻烦的
+
+**[6671.38s] English:** Of the tricks I learned from Swift, for example, so in the migration from Swift, we managed to like  
 **Translation:** 
 
-**[6662.58s] English:** the community yeah we don't want a python 2 to python 3 thing like that was that was really  
+**[6676.68s] English:** Not just convert Objective C into a slightly prettier Objective C, which is what we did; we then  
+**Translation:** Vocabulary: convert: 转换; migration: 迁移
+
+**[6682.98s] English:** Converted, not entirely, but almost.  
 **Translation:** 
 
-**[6667.30s] English:** painful for everybody involved and so we spent quite a bit of time talking about that and some  
+**[6685.92s] English:** An entire community to a completely different language, right? And so there are a bunch of tricks.  
+**Translation:** Vocabulary: converted: 转换了
+
+**[6691.42s] English:** That you learn along the way that are directly relevant to what we do, and so this is where.  
 **Translation:** 
 
-**[6671.38s] English:** of the tricks i learned from swift for example so in the migration from swift we managed to like  
-**Translation:** 
-
-**[6676.68s] English:** not just convert objective c into a slightly prettier objective c which we did we then  
-**Translation:** 
-
-**[6682.98s] English:** converted not entirely but almost  
-**Translation:** 
-
-**[6685.92s] English:** an entire community to a completely different language right and so there's a bunch of tricks  
-**Translation:** 
-
-**[6691.42s] English:** that you learn along the way that are directly relevant to what we do and so this is where  
-**Translation:** 
-
-**[6695.62s] English:** for example the you leverage c python while bringing up the new thing like that that approach  
+**[6695.62s] English:** For example, you leverage C++ Python while bringing up the new thing like that—that approach.  
 **Translation:** Vocabulary: leverage: 利用
 
-**[6701.96s] English:** is i think proven and and comes from experience and so guido was very interested in like okay  
+**[6701.96s] English:** Is it proven and comes from experience, and so Guido was very interested in, like, okay?  
 **Translation:** 
 
-**[6707.62s] English:** cool like i think the python is really his legacy it's his baby i have tons of respect for that  
+**[6707.62s] English:** Cool; I think the Python is really his legacy; it's his baby. I have tons of respect for that.  
+**Translation:** Vocabulary: guido: 古德罗
+
+**[6712.98s] English:** Incidentally, I see MoJo as a member of the Python family.  
 **Translation:** 
 
-**[6712.98s] English:** incidentally i see mojo as a member of the python family  
+**[6715.92s] English:** We're not trying to take Python away from Guido and from the Python community, um.  
+**Translation:** Vocabulary: incidentally: 顺便说一下
+
+**[6720.00s] English:** And so, to me, it's really important that we are a good member of that community.  
 **Translation:** 
 
-**[6715.92s] English:** we're not trying to take python away from guido and from the python community um  
-**Translation:** 
-
-**[6720.00s] English:** And so to me, it's really important that we're a good member of that community.  
-**Translation:** 
-
-**[6725.24s] English:** And so I think that, again, you would have to ask Guido this, but I think that he was very interested in this notion of like, cool, Python gets beaten up for being slow.  
-**Translation:** 
+**[6725.24s] English:** And so I think that, again, you would have to ask Guido this, but I think that he was very interested in the notion of, "cool, Python gets beaten up for being slow.  
+**Translation:** Vocabulary: beaten: 挨打
 
 **[6735.56s] English:** Maybe there's a path out of that.  
 **Translation:** 
 
-**[6738.38s] English:** Right. And that, you know, the future is Python.  
+**[6738.38s] English:** Right. And that, you know, the future is in Python.  
 **Translation:** 
 
-**[6742.96s] English:** Right. I mean, look, look at the far outside.  
+**[6742.96s] English:** Right. I mean, look: look at the far outside.  
 **Translation:** 
 
-**[6745.72s] English:** Case on this. Right. And I'm not saying this is Guido's perspective, but, you know, there's this path of saying like, OK, well, suddenly Python can suddenly go all the places it's never been able to go before.  
+**[6745.72s] English:** Case on this. Right. And I'm not saying this is Guido's perspective, but, you know, there's this path of saying, like, okay, well, suddenly Python can suddenly go all the places it's never been able to go before.  
 **Translation:** 
 
-**[6758.20s] English:** Right. And that means that Python can go even further and can have even more impact on the world.  
+**[6758.20s] English:** Right. And that means that Python can go even further and have even more impact on the world.  
 **Translation:** 
 
-**[6762.22s] English:** So in some sense, Mojo could be seen as Python 4.0.  
+**[6762.22s] English:** So, in some sense, Mojo could be seen as Python 4.0.  
 **Translation:** 
 
-**[6767.92s] English:** I would not say that. I think that would drive a lot of people really crazy.  
+**[6767.92s] English:** I would not say that. I think that would drive a lot of people, really, crazy.  
 **Translation:** 
 
-**[6771.40s] English:** Because of the PTSD of the 3.0, 2.0.  
+**[6771.40s] English:** Because of the PTSD of the 3.0 and 2.0.  
 **Translation:** 
 
 **[6774.10s] English:** I'm willing to annoy people about Emacs.  
 **Translation:** 
 
 **[6775.72s] English:** Emacs versus Vim.  
-**Translation:** 
+**Translation:** Vocabulary: emacs: 伊姆斯风格
 
 **[6776.44s] English:** But not that one.  
 **Translation:** 
 
 **[6776.98s] English:** Emacs versus Spaces.  
-**Translation:** Vocabulary: emacs: 编辑器
+**Translation:** 
 
 **[6777.74s] English:** But not that one.  
 **Translation:** 
 
-**[6778.52s] English:** I don't know. That might be a little bit far even for me.  
+**[6778.52s] English:** I don't know. That might be a little bit far, even for me.  
 **Translation:** 
 
 **[6780.46s] English:** Like, my skin may not be that thick.  
 **Translation:** 
 
-**[6782.12s] English:** But the point is the step to being a superset and allowing all of these capabilities, I think, is the evolution of a language.  
-**Translation:** 
+**[6782.12s] English:** But the point is: the step to becoming a superset and allowing all of these capabilities, I think, is the evolution of a language.  
+**Translation:** Vocabulary: capabilities: 能力
 
 **[6790.30s] English:** It feels like an evolution of a language.  
 **Translation:** 
 
-**[6792.82s] English:** So he's interested by the ideas that you're playing with, but also concerned about the fragmentation.  
+**[6792.82s] English:** So, he's interested in the ideas you're playing with, but also concerned about the fragmentation.  
 **Translation:** Vocabulary: fragmentation: 碎片化
 
-**[6798.46s] English:** So how, what are the ideas you've learned?  
+**[6798.46s] English:** So, how have the ideas you've learned been?  
 **Translation:** 
 
 **[6800.90s] English:** What are you thinking about?  
@@ -5555,7 +5556,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[6809.34s] English:** I don't know what to call the Mojo people.  
-**Translation:** 
+**Translation:** Vocabulary: pythonistas: Python编程爱好者
 
 **[6812.50s] English:** Magicians.  
 **Translation:** 
@@ -5563,13 +5564,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6813.16s] English:** The magicians. I like it.  
 **Translation:** Vocabulary: magicians: 魔术师
 
-**[6814.68s] English:** There you go.  
+**[6814.68s] English:** There, you go.  
 **Translation:** 
 
 **[6815.32s] English:** Can coexist happily and share code.  
 **Translation:** Vocabulary: coexist: 共存
 
-**[6818.34s] English:** And basically just have these big code bases that are using CPython and more and more moving towards Mojo.  
+**[6818.34s] English:** And basically, just have these big code bases that are using CPython, and are increasingly moving towards Mojo.  
 **Translation:** 
 
 **[6826.26s] English:** Well, so again, these are lessons I learned from Swift.  
@@ -5578,13 +5579,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6828.28s] English:** And here we face very similar problems, right?  
 **Translation:** 
 
-**[6831.14s] English:** In Swift, you have Objective-C, super dynamic.  
+**[6831.14s] English:** In Swift, you have Objective-C, which is super dynamic.  
 **Translation:** 
 
-**[6835.72s] English:** They're very different syntax, right?  
+**[6835.72s] English:** They're very different in syntax, right?  
 **Translation:** 
 
-**[6839.40s] English:** But...  
+**[6839.40s] English:** But,...  
 **Translation:** Vocabulary: syntax: 句法
 
 **[6840.00s] English:** You're talking to people who have large-scale codebases.  
@@ -5593,19 +5594,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6843.28s] English:** I mean, Apple's got the biggest, largest-scale codebase of Objective-C code, right?  
 **Translation:** Vocabulary: codebase: 代码库; codebases: 代码库
 
-**[6847.68s] English:** And so, you know, none of the companies, none of the iOS developers, none of the other developers want to rewrite everything all at once.  
+**[6847.68s] English:** And so, you know, none of the companies, none of the iOS developers, and none of the other developers want to rewrite everything all at once.  
 **Translation:** 
 
-**[6853.74s] English:** And so you want to be able to adopt things piece at a time.  
-**Translation:** 
+**[6853.74s] English:** And so, you want to be able to adopt things one piece at a time.  
+**Translation:** Vocabulary: rewrite: 重写代码
 
-**[6856.34s] English:** And so a thing that I found that worked very well in the Swift community was saying, okay, cool.  
+**[6856.34s] English:** And so, a thing that I found worked very well in the Swift community was saying, "Okay, cool.  
 **Translation:** 
 
 **[6860.94s] English:** And this is when Swift was very young.  
 **Translation:** 
 
-**[6863.28s] English:** And she'd say, okay, you have a million line of code Objective-C app.  
+**[6863.28s] English:** And she'd say, "Okay, you have a million lines of code in an Objective-C app.  
 **Translation:** 
 
 **[6867.86s] English:** Don't rewrite it all.  
@@ -5614,14 +5615,14 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6868.88s] English:** But when you implement a new feature, go implement that new class using Swift, right?  
 **Translation:** 
 
-**[6875.42s] English:** And so now this, it turns out, is a very wonderful thing for an app developer, but it's a huge challenge for the compiler team and the systems people that are implementing this, right?  
-**Translation:** Vocabulary: implementing: 实现
+**[6875.42s] English:** And so, now this turns out to be a very wonderful thing for an app developer, but it's a huge challenge for the compiler team and the systems people that are implementing this, right?  
+**Translation:** Vocabulary: implement: 实现; implementing: 实现
 
-**[6885.58s] English:** And this comes back to what is this tradeoff between doing the hard thing that enables scale versus doing the theoretically pure and ideal thing, right?  
+**[6885.58s] English:** And this comes back to what is the tradeoff between doing the hard thing that enables scale versus doing the theoretically pure and ideal thing, right?  
 **Translation:** 
 
-**[6893.98s] English:** And so Swift adopted and built a lot of different machinery to deeply integrate.  
-**Translation:** Vocabulary: integrate: 整合; machinery: 机械; theoretically: 理论上; tradeoff: 权衡
+**[6893.98s] English:** And so, Swift adopted and built a lot of different machinery to deeply integrate.  
+**Translation:** Vocabulary: integrate: 融合; machinery: 机械; theoretically: 理论上; tradeoff: 权衡
 
 **[6898.88s] English:** With the Objective-C runtime.  
 **Translation:** 
@@ -5629,19 +5630,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6900.12s] English:** And we're doing the same thing with Python, right?  
 **Translation:** Vocabulary: runtime: 运行时
 
-**[6902.48s] English:** Now, what happened in the case of Swift is that Swift as a language got more and more and more mature over time, right?  
+**[6902.48s] English:** Now, what happened in the case of Swift is that Swift, as a language, got more and more and more mature over time, right?  
 **Translation:** 
 
 **[6909.78s] English:** And incidentally, Mojo is a much simpler language than Swift in many ways.  
-**Translation:** 
+**Translation:** Vocabulary: incidentally: 顺便说一下; mature: 成熟
 
-**[6913.40s] English:** And so I think that Mojo will develop way faster than Swift for a variety of reasons.  
+**[6913.40s] English:** And so, I think that Mojo will develop way faster than Swift for a variety of reasons.  
 **Translation:** 
 
 **[6917.62s] English:** But as the language gets more mature, in parallel with that, you have new people starting new projects, right?  
-**Translation:** 
+**Translation:** Vocabulary: parallel: 并行
 
-**[6923.56s] English:** And so when the language is mature and somebody's starting a new project, that's when they say, okay, cool.  
+**[6923.56s] English:** And so, when the language is mature and somebody's starting a new project, that's when they say, "Okay, cool.  
 **Translation:** 
 
 **[6927.80s] English:** I'm not dealing with...  
@@ -5653,305 +5654,305 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[6929.92s] English:** I'll just start and use the new thing for my whole stack.  
 **Translation:** 
 
-**[6932.98s] English:** Now, the problem is, again, you come back to where communities and where people that work together, you build a new subsystem or a new feature, a new thing in Swift or you build a new thing in Mojo.  
+**[6932.98s] English:** Now, the problem is, again, you come back to where communities and people who work together build a new subsystem or a new feature, a new thing in Swift, or you build a new thing in Mojo.  
 **Translation:** 
 
 **[6945.06s] English:** Then you want to end up being used on the other side, right?  
 **Translation:** 
 
-**[6949.28s] English:** And so then you need to work on integration back the other way.  
+**[6949.28s] English:** And so, then you need to work on integration back the other way.  
 **Translation:** 
 
-**[6952.54s] English:** And so it's not just Mojo talking to Python.  
+**[6952.54s] English:** And so, it's not just Mojo talking to Python.  
 **Translation:** 
 
 **[6955.40s] English:** It's also Python talking to Mojo, right?  
 **Translation:** 
 
-**[6957.96s] English:** And so what I would love...  
+**[6957.96s] English:** And so, what I would love...  
 **Translation:** 
 
-**[6958.88s] English:** I'd love to see...  
+**[6958.88s] English:** I'd love to see....  
 **Translation:** 
 
 **[6959.64s] English:** I don't know.  
 **Translation:** 
 
-**[6960.00s] English:** see this next month right but what i want to see over the course of time is i would love to see  
+**[6960.00s] English:** See, this next month, right? But what I want to see over the course of time is, I would love to see,...  
 **Translation:** 
 
-**[6964.56s] English:** people that are building these packages like you know numpy or uh you know tensorflow or what you  
+**[6964.56s] English:** People who are building these packages, like you know, numpy or TensorFlow, or what you.  
 **Translation:** 
 
-**[6970.96s] English:** know these packages that are half python half c plus plus and if you say okay cool i want to get  
+**[6970.96s] English:** Know these packages that are half Python, half C++, and if you say, "Okay, cool, I want to get  
 **Translation:** 
 
-**[6977.68s] English:** out of this python c plus plus world into a unified world and so i can move to mojo but i  
+**[6977.68s] English:** Out of this Python C++ world into a unified world, and so I can move to Mojo.  
 **Translation:** 
 
-**[6984.40s] English:** can't give up all my python clients because they're like these libraries get used by everybody  
+**[6984.40s] English:** Can't give up all my Python clients because they're like these libraries; get used by everybody.  
 **Translation:** 
 
-**[6990.00s] English:** and they're not all going to switch all you know all once and maybe never right well so the way we  
+**[6990.00s] English:** And they're not all going to switch, you know, all at once and maybe never, right? Well, so the way we  
 **Translation:** 
 
-**[6995.76s] English:** should do that is we should vend python interfaces to the mojo types and that's what we did in swift  
+**[6995.76s] English:** What we should do is vend Python interfaces to the MOJO types, and that's what we did in Swift.  
 **Translation:** 
 
-**[7001.84s] English:** and worked great i mean it was a huge implementation challenge for the compiler people  
+**[7001.84s] English:** And it worked great. I mean, it was a huge implementation challenge for the compiler people.  
 **Translation:** Vocabulary: implementation: 实现; interfaces: 接口
 
-**[7005.84s] English:** right but um there's only a dozen of those compiler people and there are millions of users  
+**[7005.84s] English:** Right, but um, there's only a dozen of those compiler people, and there are millions of users.  
 **Translation:** 
 
-**[7010.80s] English:** and so it's a very expensive capital intensive  
+**[7010.80s] English:** And so, it's a very expensive, capital-intensive process.  
 **Translation:** 
 
-**[7014.40s] English:** like skill set intensive problem but once you solve that problem it really helps adoption it  
+**[7014.40s] English:** Like a skill-set-intensive problem, but once you solve that problem, it really helps with adoption.  
 **Translation:** 
 
-**[7020.28s] English:** really helps the community progressively adopt technologies and so i think that this approach  
-**Translation:** Vocabulary: progressively: 逐步地
+**[7020.28s] English:** Really helps the community progressively adopt technologies, and so I think that this approach is beneficial.  
+**Translation:** Vocabulary: adoption: 采纳; beneficial: 有益的; progressively: 逐步地
 
-**[7024.50s] English:** will work quite well with with the python and the mojo world so for a package ported to mojo  
+**[7024.50s] English:** Will work quite well with the Python and the MOJO world, so for a package ported to MOJO.  
 **Translation:** 
 
-**[7029.48s] English:** and then create a python interface yep so how do just to linger on these packages numpy  
-**Translation:** Vocabulary: interface: 接口
+**[7029.48s] English:** And then create a Python interface, yeah? So, how do we just linger on these packages, NumPy?  
+**Translation:** Vocabulary: interface: 接口; ported: 移植
 
-**[7037.64s] English:** py torch tensorflow yeah how do they play nicely together so is uh mojo supposed to be let's  
+**[7037.64s] English:** PyTorch, TensorFlow: Yeah, how do they play nicely together? So, is Uh-Mojo supposed to be let's...  
 **Translation:** 
 
-**[7044.38s] English:** talk about the machine learning ones is mojo kind of vision to replace py torch intensive flow  
+**[7044.38s] English:** Talk about the machine learning ones, like MOJO, kind of vision to replace PyTorch and Intensive Flow.  
+**Translation:** Vocabulary: nicely: 和谐地
+
+**[7051.32s] English:** Uh, to incorporate it, what's the relationship here, all right? So, um, let's take a step back.  
 **Translation:** 
 
-**[7051.32s] English:** uh to incorporate it what's what's the relationship in this all right so um dance so take a step back  
+**[7057.20s] English:** So, I wear many hats. You're angling it on the MoJo side, yes? MoJo is a programming language.  
+**Translation:** Vocabulary: angling: 钓鱼; incorporate: 合并
+
+**[7064.76s] English:** And so, it can help solve the C++, Python feud that's happening. The fire emoji got me; I'm  
 **Translation:** 
 
-**[7057.20s] English:** so i wear many hats so you're you're angling it on the mojo side yes mojo is a programming language  
-**Translation:** Vocabulary: incorporate: 吸收
-
-**[7064.76s] English:** and so it can help solve the c c plus plus python feud that's happening the fire emoji got me i'm  
-**Translation:** 
-
-**[7071.52s] English:** sorry we should be talking about modular yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes  
+**[7071.52s] English:** Sorry, we should be talking about modular, yes.  
 **Translation:** Vocabulary: modular: 模块化的
 
-**[7074.38s] English:** yes okay so the fire emoji is amazing i love it uh it's it's a big deal the  
+**[7074.38s] English:** Yes, okay, so the fire emoji is amazing; I love it. It's a big deal, uh,...  
 **Translation:** 
 
-**[7080.00s] English:** other side of this is the fire emoji is in service of solving some big ai problems right and so the  
+**[7080.00s] English:** Other side of this is that the fire emoji is in service of solving some big AI problems, right? And so the  
 **Translation:** 
 
-**[7085.66s] English:** big ai problems are again this fragmentation this hardware nightmare this uh this explosion of new  
+**[7085.66s] English:** Big AI problems are again this fragmentation, this hardware nightmare, and this explosion of new technologies.  
 **Translation:** 
 
-**[7091.94s] English:** potential but that's not getting felt by the industry right and so when you look at how does  
-**Translation:** Vocabulary: fragmentation: 碎片化
+**[7091.94s] English:** Potential, but that's not getting felt by the industry, right? And so, when you look at how this is playing out,  
+**Translation:** Vocabulary: fragmentation: 碎片化; nightmare: 噩梦
 
-**[7097.62s] English:** the modular engine help tensorflow and pytorch right it's not replacing them right in fact when  
+**[7097.62s] English:** The modular engine helps TensorFlow and PyTorch, right? It's not replacing them, right? In fact, when  
 **Translation:** 
 
-**[7103.28s] English:** i talk to people again they don't like to rewrite all their code you have people that are using a  
+**[7103.28s] English:** I talk to people again, and they don't like to rewrite all their code. You have people that are using a  
+**Translation:** Vocabulary: rewrite: 重新编写代码
+
+**[7107.72s] English:** A bunch of PyTorch, and a bunch of TensorFlow—they have models that they've been building over the course.  
 **Translation:** 
 
-**[7107.72s] English:** bunch of pytorch a bunch of tensorflow they have models that they've been building over the course  
+**[7112.02s] English:** Of many years, right? And when I talk to them, there are a few exceptions, but generally they don't.  
 **Translation:** 
 
-**[7112.02s] English:** of many years right and when i talk to them there's a few exceptions but generally they don't  
-**Translation:** Vocabulary: exceptions: 例外
-
-**[7117.00s] English:** want to rewrite all their code right and so what we're doing is we're saying okay well you don't  
+**[7117.00s] English:** We want to rewrite all their code right, and so what we're doing is we're saying, "Okay, well, you don't  
 **Translation:** 
 
-**[7121.36s] English:** have to rewrite all your code what happens is the modular engine goes in there and goes underneath  
+**[7121.36s] English:** Have to rewrite all your code. What happens is, the modular engine goes in there and goes underneath.  
+**Translation:** Vocabulary: underneath: 在下面
+
+**[7125.74s] English:** TensorFlow and PyTorch: It's fully compatible, and just provides better performance and better predictability.  
 **Translation:** 
 
-**[7125.74s] English:** tensorflow and pytorch it's fully compatible and just provides better performance better predictability  
+**[7131.12s] English:** Better tooling is a better experience that helps lift TensorFlow and PyTorch and make them even stronger.  
+**Translation:** Vocabulary: compatible: 兼容的
+
+**[7136.10s] English:** Better; I love Python.  
 **Translation:** 
 
-**[7131.12s] English:** better tooling it's a better experience that helps lift tensorflow and pytorch and make them even  
-**Translation:** Vocabulary: compatible: 兼容
-
-**[7136.10s] English:** better i love python  
+**[7137.72s] English:** I love TensorFlow, I love PyTorch. Right? This is about making the world better because we need AI.  
 **Translation:** 
 
-**[7137.72s] English:** i love tensorflow i love pytorch right this is about making the world better because we need ai  
+**[7143.22s] English:** To go further, but if I have a process that trains a model and I have a process that performs  
 **Translation:** 
 
-**[7143.22s] English:** to go further but uh if i have a process that trains a model and i have a process that performs  
-**Translation:** 
-
-**[7148.56s] English:** inference on that model and i have the model itself uh what should i do with that in the long  
+**[7148.56s] English:** Inference on that model, and I have the model itself. What should I do with that in the long term?  
 **Translation:** Vocabulary: inference: 推断
 
-**[7154.60s] English:** arc of history uh in terms of if i use pytorch to train it should i rewrite stuff in mojo would  
+**[7154.60s] English:** Arc of history, uh, in terms of if I use PyTorch to train it, should I rewrite stuff in MoJo?  
 **Translation:** 
 
-**[7162.36s] English:** that if i care about performance oh so i mean again it depends so if you care about performance  
+**[7162.36s] English:** That, if I care about performance, oh, so I mean, again, it depends. So, if you care about performance,...  
 **Translation:** 
 
-**[7167.72s] English:** then writing in mojo is going to be way better than writing in python but if you look at um if  
+**[7167.72s] English:** Then, writing in MoJo will be way better than writing in Python, but if you look at it, um,...  
 **Translation:** 
 
-**[7172.60s] English:** you look at llm companies for example so you look at open ai rumored and you look at many of the  
+**[7172.60s] English:** You look at LLM companies, for example, so you look at OpenAI (rumor has it), and you look at many of the  
 **Translation:** 
 
-**[7177.38s] English:** other folks that are working on many of these many of these llms and other like innovative  
+**[7177.38s] English:** Other folks who are working on many of these LLMs and other similar innovations.  
 **Translation:** 
 
-**[7182.82s] English:** machine learning models on the one hand they're innovating in the data collection and the model  
-**Translation:** Vocabulary: innovating: 创新
+**[7182.82s] English:** Machine learning models, on the one hand, are innovating in the data collection and the model.  
+**Translation:** Vocabulary: innovating: 创新; innovations: 创新成果
 
-**[7187.36s] English:** billions of parameters and the model architecture and the rle hf and the the like all these all  
+**[7187.36s] English:** Billions of parameters, and the model architecture, and the RLE HF, and the like—all these things.  
 **Translation:** 
 
-**[7194.18s] English:** the cool things that people are talking about but on the other hand there's still a lot of  
+**[7194.18s] English:** The cool things that people are talking about, but on the other hand, there's still a lot of  
 **Translation:** 
 
-**[7197.72s] English:** a lot of time writing cuda girls  
+**[7197.72s] English:** A lot of time writing "CUDA Girls.  
 **Translation:** 
 
-**[7200.00s] English:** right and so you say wait a second how much faster could all this progress go if they were not having  
+**[7200.00s] English:** Right, and so you say, wait a second: how much faster could all this progress go if they were not having?  
 **Translation:** 
 
-**[7206.26s] English:** to handwrite all these cuda kernels right and so there are a few technologies that are out there  
+**[7206.26s] English:** To handwrite all these CUDA kernels is right, and so there are a few technologies out there.  
 **Translation:** 
 
-**[7210.34s] English:** and people have been working on this problem for a while and um and they're trying to solve  
-**Translation:** Vocabulary: handwrite: 亲手书写; kernels: 内核
+**[7210.34s] English:** And people have been working on this problem for a while, and they're trying to solve it.  
+**Translation:** Vocabulary: handwrite: 手工编写; kernels: 内核
 
-**[7214.72s] English:** subsets of the problem again kind of fragmenting the space and so what mojo provides for these  
+**[7214.72s] English:** Subsets of the problem, again, kind of fragmenting the space, and so what MOJO provides for these.  
 **Translation:** 
 
-**[7219.02s] English:** kinds of companies is the ability to say cool i can have a unifying theory right and again this  
+**[7219.02s] English:** Kinds of companies is the ability to say, "Cool, I can have a unifying theory," and again, this  
 **Translation:** Vocabulary: fragmenting: 分割; unifying: 统一
 
-**[7224.10s] English:** the the better together the unifying theory the the two world problem or the three world problem  
+**[7224.10s] English:** The "Better Together" theory, the unifying theory, the two-world problem, or the three-world problem.  
 **Translation:** 
 
-**[7228.90s] English:** or the n world problem like this is the thing that is slowing people down and so as we help  
+**[7228.90s] English:** Or, the one world problem like this is the thing that is slowing people down, and so as we help,...  
 **Translation:** 
 
-**[7233.10s] English:** solve this problem i think it'll be very helpful for making this whole cycle go faster so obviously  
+**[7233.10s] English:** Solve this problem, I think it'll be very helpful for making this whole cycle go faster. So, obviously,...  
 **Translation:** 
 
-**[7238.66s] English:** we've talked about uh the transition from objective c to swift if design this uh programming  
+**[7238.66s] English:** We've talked about the transition from Objective-C to Swift, if that's what you're designing this programming for.  
 **Translation:** 
 
-**[7244.86s] English:** language and you've also talked quite a bit about the use of swift for machine learning  
+**[7244.86s] English:** Language, and you've also talked quite a bit about the use of Swift for machine learning.  
 **Translation:** 
 
-**[7249.12s] English:** context why have you decided to move away from uh maybe an intense focus on swift  
+**[7249.12s] English:** Context: Why have you decided to move away from, perhaps, an intense focus on Swift?  
 **Translation:** 
 
-**[7258.90s] English:** for the machine learning context versus sort of designing a new programming language that happens  
+**[7258.90s] English:** For the machine learning context, versus designing a new programming language that happens.  
 **Translation:** 
 
-**[7265.50s] English:** to be a superset this is an irrational set of life choices i make did you go to the desert  
+**[7265.50s] English:** To be a superset, this is an irrational set of life choices I make. Did you go to the desert?  
 **Translation:** Vocabulary: irrational: 不合逻辑的选择
 
-**[7271.62s] English:** and did you meditate on it okay all right no it was bold it was bold and needed and i think uh  
+**[7271.62s] English:** And did you meditate on it, okay? All right, no, it was bold; it was bold and needed, and I think...  
 **Translation:** 
 
-**[7278.58s] English:** i mean it's just bold and sometimes to take those leaps is a difficult leap to take yeah well so  
+**[7278.58s] English:** I mean, it's just bold, and sometimes to take those leaps is a difficult leap to take, yeah. Well, so...  
 **Translation:** Vocabulary: meditate: 静思
 
-**[7283.46s] English:** okay i mean i think there's a couple of different things so um actually i left apple back in 2017  
+**[7283.46s] English:** Okay, I mean, I think there are a couple of different things. So, um, actually, I left Apple back in 2017.  
 **Translation:** 
 
-**[7288.90s] English:** like january 2017 so it's been a number of years that i left apple and the reason i left apple was  
+**[7288.90s] English:** Like January 2017, so it's been several years since I left Apple, and the reason I left Apple was  
 **Translation:** 
 
-**[7295.46s] English:** to do ai okay so and again i won't comment on apple and ai but the uh uh at the time right i  
+**[7295.46s] English:** To do AI, okay, so and again, I won't comment on Apple and AI, but the thing is, at the time, right?  
 **Translation:** 
 
-**[7305.28s] English:** wanted to get into and understand and understand the technology understand the applications the  
+**[7305.28s] English:** Wanted to get into and understand the technology, as well as its applications.  
 **Translation:** 
 
-**[7309.62s] English:** workloads and so i was like okay i'm gonna go dive deep into applied and ai and then the technology  
+**[7309.62s] English:** Workloads, and so I was like, okay, I'm gonna go dive deep into applied and AI and then the technology.  
 **Translation:** 
 
-**[7314.68s] English:** underneath it right um i found myself at google  
+**[7314.68s] English:** Underneath it, right? Um, I found myself at Google.  
+**Translation:** Vocabulary: underneath: 在...下面; workloads: 工作负载
+
+**[7318.90s] English:** And I was like  
 **Translation:** 
 
-**[7318.90s] English:** and i was like  
+**[7320.00s] English:** And TPUs were waking up exactly, and so I found myself at Google, and uh, Jeff Dean, who's  
 **Translation:** 
 
-**[7320.00s] English:** and tpus were yep waking up exactly and so i found myself at google and uh jeff dean who's  
+**[7326.70s] English:** A rock star, as you know, right? And in 2017, Tense Flow is really taking off and doing  
 **Translation:** 
 
-**[7326.70s] English:** a rock star as you know right and the and in 2017 tense flow is like really taking off and doing  
+**[7333.68s] English:** Incredible things, and I was attracted to Google to help them with the TPUs. Right? And TPUs are an  
 **Translation:** 
 
-**[7333.68s] English:** incredible things and i was attracted to google to help them with the tpus right and tpus are an  
+**[7339.02s] English:** Innovative hardware accelerator platforms, I mean, I think they've now proven massive scale and like.  
 **Translation:** 
 
-**[7339.02s] English:** innovative hardware accelerator platform uh have now i mean i think proven massive scale and like  
+**[7344.64s] English:** Done incredible things, right? And so, one of the things that this led into was a bunch of different  
 **Translation:** 
 
-**[7344.64s] English:** done incredible things right and so one of the things that this led into is a bunch of different  
+**[7350.64s] English:** Projects which I'll skip over, one of which was the Swift for Tense Flow project, and so  
 **Translation:** 
 
-**[7350.64s] English:** projects which i'll skip over right one of which was this swift for tense flow project right and so  
+**[7355.76s] English:** That project was a research project, and so the idea behind it is to say, "Okay, well, let's look at  
 **Translation:** 
 
-**[7355.76s] English:** that project was a research project and so the idea of that is say okay well let's look at  
+**[7361.66s] English:** Innovative new programming models, where we can get a fast programming language, we can get  
 **Translation:** 
 
-**[7361.66s] English:** innovative new programming models where we can get a fast programming language we can get  
+**[7366.48s] English:** Automatic differentiation: Let's push the boundaries of these things in a research.  
+**Translation:** Vocabulary: differentiation: 求导; innovative: 创新的
+
+**[7371.36s] English:** Setting right now that  
 **Translation:** 
 
-**[7366.48s] English:** automatic differentiation into language let's push the boundaries of these things in a research  
-**Translation:** Vocabulary: differentiation: 自动求导
+**[7374.64s] English:** Project, I think, lasted two or three years. There are some really cool outcomes of that, so one of them is...  
+**Translation:** Vocabulary: outcomes: 结果
 
-**[7371.36s] English:** setting right now that  
+**[7379.16s] English:** Of the things that's really interesting is that I published a talk at an LVM conference in 2018.  
 **Translation:** 
 
-**[7374.64s] English:** project i think lasted two three years there's some really cool outcomes of that so one of one  
-**Translation:** 
-
-**[7379.16s] English:** of the things that's really interesting is um i published a talk at an lvm conference in 2018  
-**Translation:** 
-
-**[7385.70s] English:** again this seems like so long ago uh about graph program abstraction which is basically the thing  
+**[7385.70s] English:** Again, this seems like such a long time ago. Uh, about graph program abstraction, which is basically the thing.  
 **Translation:** Vocabulary: abstraction: 抽象
 
-**[7391.34s] English:** that's in pytorch 2 and so pytorch 2 with all this dynamo real thing it's all about this graph  
+**[7391.34s] English:** That's in PyTorch 2, and so PyTorch 2 with all this Dynamo real thing is all about this graph.  
 **Translation:** 
 
-**[7396.28s] English:** program abstraction thing from python bytecodes and so a lot of the research that was done um  
-**Translation:** Vocabulary: bytecodes: 字节码; dynamo: 动态编译
+**[7396.28s] English:** Program abstraction from Python bytecodes, and so a lot of the research that was done, um,...  
+**Translation:** Vocabulary: bytecodes: 字节码; dynamo: 动态引擎
 
-**[7401.92s] English:** ended up pursuing and going out through the  
+**[7401.92s] English:** Ended up pursuing and going out through the  
 **Translation:** 
 
-**[7404.64s] English:** history and influencing things and i think it's super exciting and awesome to see that  
+**[7404.64s] English:** History and influencing things, and I think it's super exciting and awesome to see that.  
+**Translation:** Vocabulary: influencing: 影响
+
+**[7408.04s] English:** But the Swift for test project itself did not work out super well, and so there are a couple of  
 **Translation:** 
 
-**[7408.04s] English:** but the swift for test project itself did not work out super well and so there's a couple of  
+**[7412.64s] English:** Different problems with that one include the fact that, as you may have noticed, Swift is not Python.  
 **Translation:** 
 
-**[7412.64s] English:** different problems with that one of which is that uh you may have noticed swift is not python  
+**[7417.46s] English:** There are a few people who write Python code, yes, and so it turns out that all of ML is pretty happy.  
 **Translation:** 
 
-**[7417.46s] English:** there's a few people that write python code yes and so it turns out that all of ml is pretty happy  
+**[7425.72s] English:** With Python, it's actually a problem that other programming languages have as well, that they're  
 **Translation:** 
 
-**[7425.72s] English:** with python it's actually a problem other programming languages have as well that they're  
+**[7430.50s] English:** Not Python; we'll probably maybe briefly talk about Julia.  
 **Translation:** 
 
-**[7430.50s] English:** not python we'll probably maybe briefly talk about julia  
+**[7434.64s] English:** It was a very interesting, beautiful programming language, but it's not Python exactly. Well, and so...  
 **Translation:** 
 
-**[7434.64s] English:** it was a very interesting uh beautiful programming language but it's not python exactly well and so  
-**Translation:** 
-
-**[7440.00s] English:** Like, if you're saying, I'm going to solve a machine learning problem where all the programmers are Python programmers, and you say the first thing you have to do is switch to a different language, well, your new thing may be good or bad or whatever, but if it's a new thing, the adoption barrier is massive.  
+**[7440.00s] English:** Like, if you're saying that I'm going to solve a machine learning problem where all the programmers are Python programmers, and you say the first thing you have to do is switch to a different language, well, your new thing may be good or bad or whatever, but if it's a new thing, the adoption barrier is massive.  
 **Translation:** 
 
 **[7457.44s] English:** It's still possible.  
-**Translation:** Vocabulary: programmers: 程序员
+**Translation:** Vocabulary: adoption: 接受障碍; barrier: 障碍; programmers: 程序员
 
 **[7458.52s] English:** It's still possible.  
 **Translation:** 
@@ -5962,19 +5963,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7459.62s] English:** The world changes and evolves, and there's definitely room for new and good ideas, but it just makes it so much harder.  
 **Translation:** 
 
-**[7465.12s] English:** And so, lesson learned, Swift is not Python, and people are not always in search of learning a new thing for the sake of learning a new thing.  
+**[7465.12s] English:** And so, the lesson learned is that Swift is not Python, and people are not always in search of learning a new thing for the sake of learning a new thing.  
+**Translation:** Vocabulary: evolves: 演变
+
+**[7473.48s] English:** And if you want to be compatible with all the world's code, turns out you need to meet the world where it is.  
 **Translation:** 
 
-**[7473.48s] English:** And if you want to be compatible with all the world's code, turns out, meet the world where it is.  
-**Translation:** 
-
-**[7479.74s] English:** Second thing is that, you know, a lesson learned is that Swift, as a very fast and efficient language, kind of like Mojo, but a different take on it still, really worked well with eager mode.  
-**Translation:** 
+**[7479.74s] English:** The second thing is that, you know, a lesson learned is that Swift, as a very fast and efficient language, kind of like Mojo, but a different take on it, really worked well with eager mode.  
+**Translation:** Vocabulary: compatible: 兼容的
 
 **[7494.42s] English:** And so.  
 **Translation:** 
 
-**[7495.12s] English:** So, eager mode is something that PyTorch does, and it proved out really well, and it enables really expressive and dynamic and easy-to-debug programming.  
+**[7495.12s] English:** So, eager mode is something that PyTorch does, and it has proven to be really well-suited for the task, enabling expressive, dynamic, and easy-to-debug programming.  
 **Translation:** Vocabulary: expressive: 富有表现力的
 
 **[7505.32s] English:** TensorFlow at the time was not set up for that, let's say.  
@@ -5986,13 +5987,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7509.46s] English:** The timing is also important in this world.  
 **Translation:** 
 
-**[7511.66s] English:** Yeah, yeah, and TensorFlow is a good thing, and it has many, many strengths, but you could say Swift for TensorFlow is a good idea, except for the Swift and except for the TensorFlow part.  
-**Translation:** 
+**[7511.66s] English:** Yeah, yeah, and TensorFlow is a good thing, and it has many, many strengths. But you could say Swift for TensorFlow is a good idea, except for the Swift and except for the TensorFlow part.  
+**Translation:** Vocabulary: timing: 时机
 
 **[7524.42s] English:** Swift.  
 **Translation:** 
 
-**[7525.12s] English:** Because it's not Python and TensorFlow, because it's not eager.  
+**[7525.12s] English:** Because it's not Python or TensorFlow, because it's not eager.  
 **Translation:** 
 
 **[7527.50s] English:** It wasn't set up for eager mode at the time.  
@@ -6031,154 +6032,154 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7551.28s] English:** Right?  
 **Translation:** 
 
-**[7551.54s] English:** And I think a lot of the engineers that worked on it also learned a tremendous amount.  
+**[7551.54s] English:** And I think a lot of the engineers who worked on it also learned a tremendous amount.  
 **Translation:** 
 
-**[7555.12s] English:** And so, you know, I think that that's just really exciting to see.  
+**[7555.12s] English:** And so, you know, I think that's just really exciting to see.  
 **Translation:** 
 
-**[7559.00s] English:** And, you know, I'm  
+**[7559.00s] English:** And, you know, I'm.  
 **Translation:** 
 
-**[7560.00s] English:** sorry that the project didn't work out i wish it did of course right but um uh but you know it's  
+**[7560.00s] English:** Sorry that the project didn't work out. I wish it had, of course, right? But, you know, it's  
 **Translation:** 
 
-**[7566.44s] English:** it's it's a research project and so you're there to learn from it well it's interesting to think  
+**[7566.44s] English:** It's a research project, and so you're there to learn from it. Well, it's interesting to think about.  
 **Translation:** 
 
-**[7570.38s] English:** about uh the evolution of programming as we come up with these whole new set of algorithms in  
+**[7570.38s] English:** About the evolution of programming as we come up with these whole new sets of algorithms,  
 **Translation:** 
 
-**[7579.68s] English:** machine learning in artificial intelligence and what's going to win out because it could be a new  
+**[7579.68s] English:** Machine learning in artificial intelligence: and what's going to win out, because it could be a new...  
 **Translation:** 
 
-**[7584.62s] English:** programming language yeah it could be um i mean we i just mentioned julia i think there's a lot  
+**[7584.62s] English:** Programming language, yeah; it could be. Um, I mean, we just mentioned Julia, I think there's a lot  
 **Translation:** 
 
-**[7591.98s] English:** of ideas behind julia that mojo shares um what what are your thoughts about julia in general  
+**[7591.98s] English:** Of the ideas behind Julia, that MOJO shares, what are your thoughts on Julia in general?  
 **Translation:** 
 
-**[7599.28s] English:** um so i would i will have to say that when we launched mojo the one of the biggest things i  
+**[7599.28s] English:** Um, so I would have to say that when we launched Mojo, one of the biggest things I  
 **Translation:** 
 
-**[7605.96s] English:** didn't predict was the response from the julia community and so um i was not i mean i've okay  
+**[7605.96s] English:** Did not predict was the response from the Julia community, and so, um, I was not — I mean, I've okay.  
 **Translation:** 
 
-**[7612.28s] English:** let me take a step back i've known the julia  
+**[7612.28s] English:** Let me take a step back. I've known Julia for a while.  
 **Translation:** 
 
-**[7614.62s] English:** folks for a really long time they were they're an adopter of llvm a long time ago they've been  
+**[7614.62s] English:** Folks, for a really long time, they have been an adopter of LLVM, a long time ago, and they've been  
 **Translation:** 
 
-**[7619.64s] English:** pushing state of the art in a bunch of different ways julia is a really cool system um i had always  
+**[7619.64s] English:** Pushing the state-of-the-art in a bunch of different ways, Julia is a really cool system. Um, I had always  
+**Translation:** Vocabulary: adopter: 采用者
+
+**[7625.14s] English:** Thought of Julia as being mostly a scientific computing-focused environment, right, and I  
 **Translation:** 
 
-**[7625.14s] English:** thought of julia as being mostly a scientific computing focused environment right and and i  
+**[7630.74s] English:** Thought that was its focus, um, I neglected to understand that one of their missions is to like.  
+**Translation:** Vocabulary: neglected: 疏忽
+
+**[7636.72s] English:** Help make Python work end-to-end, and so I think that was my mistake for not understanding that.  
 **Translation:** 
 
-**[7630.74s] English:** thought that was its focus um i neglected to understand that one of their missions is to like  
-**Translation:** Vocabulary: computing: 计算; neglected: 忽视
-
-**[7636.72s] English:** help make python work end to end and so i think that was my my error for not understanding that  
+**[7643.08s] English:** So, I could have been maybe more.  
 **Translation:** 
 
-**[7643.08s] English:** so i could have been maybe more  
+**[7644.48s] English:** Sensitive to that, but um, but there are major differences between what Mojo is doing and  
 **Translation:** 
 
-**[7644.48s] English:** sensitive to that but um but there's major differences between what mojo is doing and  
+**[7649.10s] English:** What Julia is doing, so as you say, Julia is not Python, right? And so, one of the things that a lot  
 **Translation:** 
 
-**[7649.10s] English:** what julia is doing so as you say julia is not python right and so one of the things that a lot  
+**[7655.18s] English:** Of the Julia people came out and said, "Is like, okay, well, if we put a ton more energy and...  
 **Translation:** 
 
-**[7655.18s] English:** of the julia people came out and said is like okay well if we put a ton of more energy and  
+**[7660.28s] English:** More money or engineering, or whatever, into Julia maybe; that would be better than starting.  
 **Translation:** 
 
-**[7660.28s] English:** ton more money or engineering or whatever into julia maybe uh that would be better than starting  
+**[7666.50s] English:** Mojo, right? Well, I mean, maybe that's true, but it still wouldn't make Julian into Python. So, if you've  
 **Translation:** 
 
-**[7666.50s] English:** mojo right well i mean maybe that's true but it still wouldn't make julian to python so if you've  
+**[7672.96s] English:** Worked backwards from the goal: let's build something for Python programmers without requiring  
+**Translation:** Vocabulary: backwards: 逆向; programmers: 程序员
+
+**[7678.00s] English:** To relearn them,  
 **Translation:** 
 
-**[7672.96s] English:** worked backwards from the goal of let's build something for python programmers without requiring  
-**Translation:** Vocabulary: backwards: 倒着; programmers: 编程者
+**[7680.00s] English:** Syntax, then Julia just isn't there, right? I mean, that's a different thing, right? And so if you...  
+**Translation:** Vocabulary: syntax: 句法
 
-**[7678.00s] English:** them to relearn  
+**[7687.00s] English:** Anchor: On "I Love Julia," and I want Julia to go further. Then, you can look at it from a  
 **Translation:** 
 
-**[7680.00s] English:** syntax then julia just isn't there right i mean that's a different thing right and so if you  
-**Translation:** Vocabulary: syntax: 语法规则
+**[7691.68s] English:** Different lens, but the lens we were coming at was: "Hey, everybody is using Python; Python isn't.  
+**Translation:** Vocabulary: anchor: 定锚
 
-**[7687.00s] English:** anchor on i love julia and i want julia to go further then you can you can look at it from a  
+**[7696.98s] English:** Syntax isn't broken. Let's take what's great about Python, make it even better, and so it's just a  
 **Translation:** 
 
-**[7691.68s] English:** different lens but the lens we were coming at was hey everybody is using python python isn't  
+**[7701.90s] English:** Different starting point, so I think Julia is a great language; the community is a lovely community.  
 **Translation:** 
 
-**[7696.98s] English:** syntax isn't broken let's take what's great about python make it even better and so it's just a  
+**[7706.08s] English:** They're doing really cool stuff, but it's just a different, slightly different angle, but it does.  
 **Translation:** 
 
-**[7701.90s] English:** different starting point so i think julia is a great language the community is a lovely community  
+**[7710.86s] English:** It seems that Python is quite sticky. Is there some kind of philosophical thing you could say about it?  
+**Translation:** Vocabulary: philosophical: 哲学上的
+
+**[7718.10s] English:** Why, by many measures, Python seems to be the most popular programming language in the world, well, I  
 **Translation:** 
 
-**[7706.08s] English:** they're doing really cool stuff but it's just a different slightly different angle but it does  
+**[7723.32s] English:** Can tell you things I love about it. Maybe that's one way to answer the question, right? So, huge package.  
 **Translation:** 
 
-**[7710.86s] English:** seem that python is quite sticky uh is there some uh philosophical almost thing you could say about  
-**Translation:** Vocabulary: philosophical: 哲学的
-
-**[7718.10s] English:** why python by many measures seems to be the most popular programming language in the world well i  
+**[7728.02s] English:** Ecosystem is super lightweight and easy to integrate. It has very low startup time, right? So, what about startup?  
 **Translation:** 
 
-**[7723.32s] English:** can tell you things i love about it maybe that's one way to answer the question right so huge package  
+**[7735.48s] English:** What time do you mean?  
+**Translation:** Vocabulary: integrate: 集成; lightweight: 轻量级
+
+**[7736.02s] English:** Yeah, so if you look at certain other languages, like Go, and it just  
 **Translation:** 
 
-**[7728.02s] English:** ecosystem super lightweight and easy to integrate it has very low startup time right so what startup  
+**[7741.98s] English:** Takes a look at Java, for example; it takes a long time to compile all the things, and then the VM.  
+**Translation:** Vocabulary: compile: 编译
+
+**[7747.52s] English:** Starts up, and the garbage cluster kicks in, and then it revs its engines, and then it can plow.  
 **Translation:** 
 
-**[7735.48s] English:** time you mean  
-**Translation:** Vocabulary: integrate: 集成; lightweight: 轻量
+**[7751.26s] English:** Through a lot of Internet stuff, or whatever—right? Um, Python is like scripting; it's just goes.  
+**Translation:** Vocabulary: cluster: 垃圾集群
 
-**[7736.02s] English:** yeah so if you if you look at certain other languages that you say like go and it just  
+**[7756.78s] English:** Right, um, Python has very little compile-time checking, so you're not sitting there waiting for it to compile.  
 **Translation:** 
 
-**[7741.98s] English:** takes a like java for example it takes a long time to compile all the things and and then the the vm  
+**[7761.38s] English:** Integrates into notebooks in a very elegant way that makes exploration super interactive.  
+**Translation:** Vocabulary: elegant: 优雅; integrates: 集成; interactive: 交互式
+
+**[7766.02s] English:** And it's awesome, right? Python is also kind of like the glue of computing because it has  
 **Translation:** 
 
-**[7747.52s] English:** starts up and the garbage clusters kicks in and then it revs its engines and then it can plow  
+**[7773.10s] English:** Such a simple object representation; a lot of things plug into it, that's what dynamic metaprogramming is about.  
+**Translation:** Vocabulary: computing: 计算机; metaprogramming: 元编程
+
+**[7778.50s] English:** Thing we were talking about also enables really expressive and beautiful APIs, right? So there's  
 **Translation:** 
 
-**[7751.26s] English:** through a lot of internet stuff or whatever right um python is like scripting like it's it just goes  
-**Translation:** Vocabulary: clusters: 垃圾集群
-
-**[7756.78s] English:** right um python has very little compile time like so you're not sitting there waiting python  
-**Translation:** 
-
-**[7761.38s] English:** integrates into notebooks in a very elegant way that makes exploration super interactive  
-**Translation:** Vocabulary: integrates: 集成; interactive: 交互式
-
-**[7766.02s] English:** and it's awesome right python is also um it's like almost the glue of computing because it has  
-**Translation:** 
-
-**[7773.10s] English:** such a simple object representation a lot of things plug into it that dynamic metaprogramming  
-**Translation:** Vocabulary: computing: 计算机计算; metaprogramming: 元编程
-
-**[7778.50s] English:** thing we were talking about also enables really expressive and beautiful apis right so there's  
-**Translation:** 
-
-**[7782.90s] English:** lots of reasons that you can look at technical things that python has done and say like okay  
+**[7782.90s] English:** Lots of reasons that you can look at technical things Python has done and say, "Okay,  
 **Translation:** Vocabulary: expressive: 富有表现力的
 
-**[7788.28s] English:** wow this is actually a pretty amazing thing and any one of those you can neglect people i'll just  
+**[7788.28s] English:** Wow, this is actually a pretty amazing thing, and any one of those you can neglect—people, I'll just.  
 **Translation:** 
 
-**[7793.72s] English:** talk about indentation and it can be a pretty amazing thing and it can be a pretty amazing thing  
-**Translation:** Vocabulary: indentation: 缩进
+**[7793.72s] English:** Talk about indentation, and it can be a pretty amazing thing.  
+**Translation:** Vocabulary: indentation: 缩进; neglect: 忽视
 
-**[7796.02s] English:** ignore like the fundamental things but then you also look at the community side  
+**[7796.02s] English:** Ignore the fundamental things, but then you also look at the community side.  
 **Translation:** 
 
-**[7800.00s] English:** So Python owns machine learning.  
+**[7800.00s] English:** So, Python owns machine learning.  
 **Translation:** 
 
 **[7802.80s] English:** Machine learning is pretty big.  
@@ -6193,7 +6194,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7805.88s] English:** And it's growing in importance, right?  
 **Translation:** 
 
-**[7807.28s] English:** And there's a reputation and prestige to machine learning to where, like, if you're a new programmer, you're thinking about, like, which programming language do I use?  
+**[7807.28s] English:** And there's a reputation and prestige associated with machine learning, so if you're a new programmer, you might be thinking, "Which programming language should I use?  
 **Translation:** 
 
 **[7816.42s] English:** Well, I should probably care about machine learning.  
@@ -6214,38 +6215,38 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7826.22s] English:** Right, not because I'm telling them to learn Python, but because.  
 **Translation:** 
 
-**[7829.76s] English:** Were they rebelling against you or what?  
+**[7829.76s] English:** Were they rebelling against you, or what?  
 **Translation:** Vocabulary: rebelling: 反抗
 
 **[7831.74s] English:** Well, no, no, right.  
 **Translation:** 
 
 **[7832.38s] English:** Well, they also learn Scratch, right, and things like this, too.  
-**Translation:** 
+**Translation:** Vocabulary: scratch: 擦刮
 
-**[7834.78s] English:** But it's because Python is taught everywhere, right, because it's easy to learn, right, and because it's pervasive, right?  
+**[7834.78s] English:** But it's because Python is taught everywhere, right? Because it's easy to learn, right? And because it's pervasive, right?  
 **Translation:** 
 
 **[7840.62s] English:** Back in my day, we learned Java and C++.  
-**Translation:** Vocabulary: pervasive: 无处不在
+**Translation:** Vocabulary: pervasive: 无处不在的
 
 **[7844.06s] English:** Yeah, well.  
 **Translation:** 
 
-**[7845.74s] English:** Uphill both directions.  
-**Translation:** Vocabulary: uphill: 逆着坡走
+**[7845.74s] English:** Uphill, both directions.  
+**Translation:** Vocabulary: uphill: 逆着坡向上走
 
 **[7847.48s] English:** But, yes, I guess Python is the main language of teaching software engineering in schools now.  
 **Translation:** 
 
-**[7851.78s] English:** Yeah, well, and if you look at this, there's these growth cycles, right?  
+**[7851.78s] English:** Yeah, well, and if you look at this, there are these growth cycles, right?  
 **Translation:** 
 
-**[7856.22s] English:** And if you look at what causes things to become popular and then gain in popularity, there's reinforcing feedback loops and things like this.  
+**[7856.22s] English:** And if you look at what causes things to become popular and then gain in popularity, there are reinforcing feedback loops and things like that.  
 **Translation:** 
 
-**[7863.50s] English:** And I think Python has done, again, the whole community has done a really good job of building those growth loops and help propel the ecosystem.  
-**Translation:** Vocabulary: propel: 推动; reinforcing: 强化
+**[7863.50s] English:** And I think Python has done, again, the whole community has done a really good job of building those growth loops and helping to propel the ecosystem.  
+**Translation:** Vocabulary: popularity: 受欢迎程度; propel: 推动; reinforcing: 强化的
 
 **[7870.08s] English:** And I think that, again, you look at what you can get done with just a few lines of code.  
 **Translation:** 
@@ -6253,13 +6254,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7873.34s] English:** It's amazing.  
 **Translation:** 
 
-**[7874.20s] English:** So this kind of self-building loop is interesting to understand because when you look at Mojo, what it stands for, some of the features,  
+**[7874.20s] English:** So, this kind of self-building loop is interesting to understand because, when you look at Mojo, what it stands for, and some of its features,...  
 **Translation:** 
 
-**[7884.50s] English:** is it seems sort of clear that this is a good direction for programming languages to evolve in the machine learning community.  
-**Translation:** 
+**[7884.50s] English:** It seems sort of clear that this is a good direction for programming languages to evolve, especially in the machine learning community.  
+**Translation:** Vocabulary: evolve: 发展
 
-**[7893.28s] English:** But it's still not obvious that it will because of this, whatever the engine of popularity, of virality.  
+**[7893.28s] English:** But it's still not obvious that it will, because of this engine of popularity and virality.  
 **Translation:** 
 
 **[7900.94s] English:** Is there something you could speak to, like, how do you get people to switch?  
@@ -6269,7 +6270,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[7910.74s] English:** Yes.  
-**Translation:** Vocabulary: viral: 病毒式的
+**Translation:** Vocabulary: unicode: 统一码; viral: 病毒式
 
 **[7911.16s] English:** I think the Unicode file extensions are what I'm betting on.  
 **Translation:** 
@@ -6280,100 +6281,100 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[7914.76s] English:** Yeah.  
 **Translation:** 
 
-**[7915.82s] English:** Tell the kids that you could use the fire emoji and they'd be like, what?  
+**[7915.82s] English:** Tell the kids that you could use the fire emoji, and they'd be like, "What?  
 **Translation:** 
 
 **[7919.16s] English:** Exactly.  
 **Translation:** 
 
-**[7920.00s] English:** uh well in all seriousness like i mean i think there's really i'll give you two opposite answers  
+**[7920.00s] English:** Uh, well, in all seriousness, I mean, I think there's really two opposite answers.  
 **Translation:** 
 
-**[7926.64s] English:** one is i hope if it's useful if it solves problems and people care about those problems being solved  
+**[7926.64s] English:** One is: I hope it's useful if it solves problems, and people care about those problems being solved.  
 **Translation:** 
 
-**[7932.96s] English:** they'll adopt the tech right that's the that's kind of the simple answer and when you're looking  
+**[7932.96s] English:** They'll adopt the tech, right? That's the kind of simple answer, and when you're looking...  
 **Translation:** 
 
-**[7938.82s] English:** to get tech adopted the question is is it solving an important problem people need solved and is the  
+**[7938.82s] English:** To get tech adopted, the question is: Is it solving an important problem that people need solved, and is the  
 **Translation:** 
 
-**[7944.80s] English:** adoption cost low enough that they're willing to make the switch and cut over and do do the pain  
+**[7944.80s] English:** Adoption cost low enough that they're willing to make the switch, cut over, and do the pain.  
+**Translation:** Vocabulary: adoption: 采纳
+
+**[7951.68s] English:** Up front, so that they can actually do it right, and so hopefully mojo will be that for a bunch of.  
 **Translation:** 
 
-**[7951.68s] English:** up front so that they can actually do it right and so hopefully mojo will be that for a bunch of  
+**[7956.94s] English:** People, and you know, people building these hybrid packages are suffering and it's really painful.  
+**Translation:** Vocabulary: hybrid: 混合型的
+
+**[7962.04s] English:** And so, I think that we have a good shot at helping people, but the other side is like, "it's okay if...  
 **Translation:** 
 
-**[7956.94s] English:** people and you know people building these hybrid packages are suffering and it's really painful  
+**[7966.86s] English:** People don't use mojo like it's not my job to say, like everybody should do this; I'm not saying.  
 **Translation:** 
 
-**[7962.04s] English:** and so i think that we have a good shot of helping people but the other side is like it's okay if  
+**[7971.58s] English:** Python is bad, like I hope. Python sees itself as better than all these.  
 **Translation:** 
 
-**[7966.86s] English:** people don't use mojo like it's not my job to say like everybody should do this like i'm not saying  
-**Translation:** 
-
-**[7971.58s] English:** python is bad like i hope python see python like all these  
-**Translation:** 
-
-**[7974.64s] English:** implementations are going to be okay but i think it's okay if people don't use mojo  
+**[7974.64s] English:** Implementations are going to be okay, but I think it's okay if people don't use MOJO.  
 **Translation:** Vocabulary: implementations: 实现版本
 
-**[7974.78s] English:** because python ecosystem is not just see python it's also a bunch of different implementations  
+**[7974.78s] English:** Because the Python ecosystem is not just Python; it's also a bunch of different implementations.  
 **Translation:** 
 
-**[7979.42s] English:** with different trade-offs and this ecosystem is really powerful and exciting as are other  
+**[7979.42s] English:** With different trade-offs, and this ecosystem is really powerful and exciting—as are others.  
 **Translation:** 
 
-**[7984.62s] English:** programming languages it's not like typescript or something is going to go away right and so it's  
+**[7984.62s] English:** Programming languages—it's not like TypeScript or something is going to go away, right—and so it's  
 **Translation:** 
 
-**[7989.58s] English:** not a there's not a winner-take-all thing and so i hope that mojo is exciting and useful to people  
+**[7989.58s] English:** There's not a winner-take-all thing, and so I hope that Mojo is exciting and useful to people.  
 **Translation:** 
 
-**[7994.22s] English:** but if it's not that's also fine but i also wonder what the the use case for why you should try mojo  
+**[7994.22s] English:** But if it's not, that's also fine, but I also wonder what the use case is for why you should try Mojo.  
 **Translation:** 
 
-**[8002.24s] English:** would be so practically speaking  
+**[8002.24s] English:** Would be so, practically speaking.  
+**Translation:** Vocabulary: practically: 实际上
+
+**[8004.62s] English:** It seems like, uh, so there's entertainment; there's a dopamine hit of saying, "Holy shit, this is 10 times...  
 **Translation:** 
 
-**[8004.62s] English:** it seems like uh so there's entertainment there's a dopamine hit of saying holy shit this is 10 times  
-**Translation:** 
-
-**[8013.38s] English:** faster uh this little piece of code is 10 times faster in mojo out of the box before you get to  
+**[8013.38s] English:** Faster, uh, this little piece of code is 10 times faster in MoJo out of the box before you get to  
 **Translation:** Vocabulary: dopamine: 多巴胺
 
-**[8019.14s] English:** 35 000 exactly i mean just even that i mean that's the dopamine hit that uh every programmer sort of  
+**[8019.14s] English:** 35,000 exactly. I mean, just even that—I mean, that's the dopamine hit that every programmer sorts of gets.  
 **Translation:** 
 
-**[8027.02s] English:** dreams of is uh the optimization it's it's also the drug that can uh pull you in and have you  
-**Translation:** Vocabulary: optimization: 代码优化; programmer: 程序员
+**[8027.02s] English:** Dreams of is, uh, the optimization—it's also the drug that can, uh, pull you in and have you.  
+**Translation:** Vocabulary: optimization: 优化; programmer: 程序员
 
-**[8034.20s] English:** waste your time and money and you know you're not going to be able to do anything about it  
+**[8034.20s] English:** Waste your time and money, and you'll know you're not going to be able to do anything about it.  
 **Translation:** 
 
-**[8034.46s] English:** waste way too much of your life optimizing and over optimizing right um  
+**[8034.46s] English:** Waste way too much of your life optimizing and over-optimizing, right? Um,...  
+**Translation:** Vocabulary: optimizing: 优化过度
+
+**[8040.00s] English:** But, so, what do you see that would be like comedy?  
 **Translation:** 
 
-**[8040.00s] English:** But so what do you see that would be like comedy?  
+**[8043.32s] English:** It's very hard to predict, of course, but if you look 10 years from now and Mojo is super successful, what do you think would be the thing where people try it and then use it regularly, and it kind of grows and grows and grows?  
 **Translation:** 
 
-**[8043.32s] English:** It's very hard to predict, of course, but if you look 10 years from now and Mojo is super successful, what do you think would be the thing where people try it and then use it regularly and it kind of grows and grows and grows?  
-**Translation:** 
-
-**[8058.48s] English:** Well, so you talk about dopamine hit.  
+**[8058.48s] English:** Well, so you talk about a dopamine hit.  
 **Translation:** 
 
 **[8059.80s] English:** And so, again, humans are not one thing.  
 **Translation:** 
 
-**[8064.48s] English:** And some people love rewriting their code and learning new things and throwing themselves in the deep end and trying out a new thing.  
+**[8064.48s] English:** And some people love rewriting their code, learning new things, and throwing themselves into the deep end by trying out a new thing.  
 **Translation:** 
 
-**[8070.18s] English:** In my experience, most people don't like they're too busy.  
+**[8070.18s] English:** In my experience, most people don't like when they're too busy.  
 **Translation:** Vocabulary: rewriting: 重写代码
 
-**[8074.58s] English:** They have other things going on by number.  
+**[8074.58s] English:** They have other things going on, by number.  
 **Translation:** 
 
 **[8077.78s] English:** Most people don't like this.  
@@ -6382,8 +6383,8 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8079.46s] English:** I want to rewrite all my code.  
 **Translation:** 
 
-**[8083.36s] English:** But even those people, the too busy people, the people that don't actually care about the language, just care about getting stuff done.  
-**Translation:** 
+**[8083.36s] English:** But even those people—the too-busy people, the people that don't actually care about the language, just care about getting stuff done.  
+**Translation:** Vocabulary: rewrite: 重写代码
 
 **[8090.44s] English:** Those people do like learning new things.  
 **Translation:** 
@@ -6395,15 +6396,15 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[8096.50s] English:** Wow, that's cool.  
-**Translation:** 
+**Translation:** Vocabulary: dopamine: 多巴胺
 
 **[8097.12s] English:** I want to do that again.  
 **Translation:** 
 
-**[8098.32s] English:** Well, it's also like here's here's the thing.  
+**[8098.32s] English:** Well, it's also like here's the thing.  
 **Translation:** 
 
-**[8100.02s] English:** I've heard about in a different domain and I don't have to rewrite all my code.  
+**[8100.02s] English:** I've heard about it in a different domain, and I don't have to rewrite all my code.  
 **Translation:** 
 
 **[8102.92s] English:** I can learn a new trick.  
@@ -6415,13 +6416,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8105.14s] English:** Well, that's called growth.  
 **Translation:** 
 
-**[8107.12s] English:** And so and so one thing that I think is cool about Mojo and again, those will take a little bit of time for, for example, the blog posts and the books and like all that kind of stuff develop and the language needs to get further along.  
+**[8107.12s] English:** And so, one thing that I think is cool about Mojo is that it will take a little bit of time for, for example, the blog posts and the books and all that kind of stuff to develop, and the language needs to get further along.  
 **Translation:** 
 
-**[8118.92s] English:** But what we're doing, you talk about types like you can say, look, you can start with the world you already know and you can progressively learn new things and adopt them where it makes sense.  
+**[8118.92s] English:** But what we're doing is, you talk about types like you can say, "Look, you can start with the world you already know, and you can progressively learn new things and adopt them where it makes sense.  
 **Translation:** Vocabulary: progressively: 逐步地
 
-**[8128.34s] English:** If you never do that.  
+**[8128.34s] English:** If you never do that,  
 **Translation:** 
 
 **[8130.00s] English:** That's cool.  
@@ -6430,13 +6431,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8130.80s] English:** You're not a bad person.  
 **Translation:** 
 
-**[8131.70s] English:** If you if you get really excited about it, want to go all the way in the deep end and rewrite everything and like, whatever, that's cool, right?  
+**[8131.70s] English:** If you get really excited about it and want to go all the way in the deep end and rewrite everything, that's cool, right?  
 **Translation:** 
 
-**[8138.82s] English:** But I think the middle path is actually the more likely one where it's, you know, you come out with a new a new idea and you discover, wow, that makes my code way simpler, way more beautiful, way faster, way whatever.  
+**[8138.82s] English:** But I think the middle path is actually the more likely one, where it's, you know, you come out with a new idea and you discover, wow, that makes my code way simpler, way more beautiful, way faster, way whatever.  
 **Translation:** 
 
-**[8150.32s] English:** And I think that's what people like now, if you fast forward and you said, like, 10 years out, right, I can give you a very different answer on that, which is.  
+**[8150.32s] English:** And I think that's what people like now. If you fast-forward and say, "Like, in 10 years," though, I could give you a very different answer on that, which is.  
 **Translation:** 
 
 **[8158.70s] English:** Yeah.  
@@ -6466,14 +6467,14 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8160.00s] English:** I mean, if you go back and look at what computers looked like 20 years ago, every 18 months they got faster for free, right?  
 **Translation:** 
 
-**[8169.12s] English:** 2x faster every 18 months, it was like clockwork, it was free, right?  
+**[8169.12s] English:** 2X faster every 18 months—it was like clockwork, it was free, right?  
 **Translation:** Vocabulary: clockwork: 机械装置
 
-**[8173.18s] English:** You go back 10 years ago, and we entered in this world where suddenly we had multi-core CPUs, and we had GPUs.  
+**[8173.18s] English:** You go back 10 years ago, and we entered into this world where suddenly we had multi-core CPUs and GPUs.  
 **Translation:** 
 
 **[8179.56s] English:** And if you squint and turn your head, what a GPU is, it's just a mini-core, very simple CPU thing, kind of, right?  
-**Translation:** Vocabulary: squint: 眯眼看
+**Translation:** Vocabulary: squint: 眯眼
 
 **[8186.50s] English:** And 10 years ago, it was CPUs and GPUs and graphics.  
 **Translation:** 
@@ -6481,13 +6482,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8193.80s] English:** Today, we have CPUs, GPUs, graphics, and AI.  
 **Translation:** 
 
-**[8199.42s] English:** Because it's so important, because the compute is so demanding, because of the smart cameras and the watches and all the different places the AI needs to work in our lives, it's caused this explosion of hardware.  
+**[8199.42s] English:** Because it's so important, because the computation is so demanding, because of the smart cameras and watches, and all the different places where AI needs to work in our lives, it has caused this explosion of hardware.  
 **Translation:** 
 
-**[8210.32s] English:** And so part of my thesis, part of my belief of where computing goes, if you look out 10 years from now,  
-**Translation:** Vocabulary: computing: 计算
+**[8210.32s] English:** And so, part of my thesis and part of my belief about where computing will go—if you look 10 years from now,...  
+**Translation:** Vocabulary: computation: 计算; computing: 计算; demanding: 需求大; thesis: 论点
 
-**[8216.18s] English:** is that it's not just a computer, it's a machine.  
+**[8216.18s] English:** Is that it's not just a computer; it's a machine.  
 **Translation:** 
 
 **[8216.48s] English:** It's a machine.  
@@ -6502,91 +6503,91 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8220.60s] English:** It's only going to get weirder from here on out, right?  
 **Translation:** 
 
-**[8223.48s] English:** And so to me, the exciting part about what we're building is it's about building that universal platform, which the world can continue to get weird, because again, I don't think it's avoidable, it's physics.  
-**Translation:** 
+**[8223.48s] English:** And so, to me, the exciting part about what we're building is that it's a universal platform. Which means the world can continue to get weird, because, again, I don't think it's avoidable—it's physics.  
+**Translation:** Vocabulary: weirder: 更奇怪
 
-**[8235.28s] English:** But we can help lift people's scale, do things with it, and they don't have to rewrite their code every time a new device comes out.  
+**[8235.28s] English:** But we can help lift people's standards, do things with it, and they don't have to rewrite their code every time a new device comes out.  
 **Translation:** 
 
 **[8240.96s] English:** And I think that's pretty cool.  
+**Translation:** Vocabulary: rewrite: 重新编写代码
+
+**[8242.22s] English:** And so, if Mojo can help with that problem, then I think that it will be, hopefully,  
 **Translation:** 
 
-**[8242.22s] English:** And so if Mojo can help with that problem, then I think that it will be, hopefully,  
-**Translation:** 
-
-**[8246.34s] English:** quite interesting and quite useful to a wide range of people, because there's so much potential.  
+**[8246.34s] English:** Quite interesting and quite useful to a wide range of people, because there's so much potential.  
 **Translation:** 
 
 **[8251.16s] English:** And maybe analog computers will become a thing or something, right?  
 **Translation:** 
 
-**[8255.22s] English:** And we need to be able to get into a mode where we can move this programming model forward,  
+**[8255.22s] English:** And we need to be able to get into a mode where we can move this programming model forward.  
 **Translation:** Vocabulary: analog: 模拟的
 
-**[8259.96s] English:** but do so in a way where we're lifting people and growing them instead of forcing them to rewrite all their code and exploding them.  
+**[8259.96s] English:** But do so in a way where we're lifting people and growing them, instead of forcing them to rewrite all their code and exploding them.  
 **Translation:** 
 
-**[8266.70s] English:** Do you think there'll be a few major libraries that go Mojo first?  
+**[8266.70s] English:** Do you think there'll be a few major libraries that go MoJo first?  
 **Translation:** Vocabulary: exploding: 摧毁
 
 **[8273.52s] English:** Well, so I mean, the modular engine is all Mojo.  
 **Translation:** 
 
-**[8276.34s] English:** So again, come back to like, we're not building Mojo because it's fun.  
+**[8276.34s] English:** So, again, we're not building Mojo because it's fun.  
 **Translation:** Vocabulary: modular: 模块化的
 
-**[8280.00s] English:** because we had to to solve these accelerators that's the origin story but i mean ones that  
+**[8280.00s] English:** Because we had to solve these accelerators—that's the origin story—but I mean, ones that  
 **Translation:** 
 
-**[8284.54s] English:** are currently in python yeah so i think that a number of these projects will and so one of the  
+**[8284.54s] English:** Are currently in Python, yeah. So I think that a number of these projects will, and so one of the  
+**Translation:** Vocabulary: accelerators: 加速器
+
+**[8288.46s] English:** Things again, this is just my best guess. Like each of the package maintainers also has, I'm sure, plenty.  
 **Translation:** 
 
-**[8288.46s] English:** things again this is just my best guess like each of the package maintainers also has i'm sure plenty  
-**Translation:** 
-
-**[8293.46s] English:** of other things going on people don't like really don't like rewriting code just for the sake of  
+**[8293.46s] English:** Of other things going on, people don't really like rewriting code just for the sake of it.  
 **Translation:** Vocabulary: maintainers: 维护者; rewriting: 重写代码
 
-**[8297.10s] English:** rewriting code um but sometimes like people are excited about like adopting a new idea yeah it  
+**[8297.10s] English:** Rewriting code, um, but sometimes, like, people are excited about adopting a new idea, yeah.  
 **Translation:** 
 
-**[8304.78s] English:** turns out that while rewriting code is generally not people's first thing turns out that redesigning  
+**[8304.78s] English:** Turns out that, while rewriting code is generally not people's first thing, redesigning...  
 **Translation:** 
 
-**[8311.14s] English:** something while you rewrite it and using a rewrite as an excuse to redesign can lead to the 2.0 of  
+**[8311.14s] English:** Something like this can happen when you rewrite it and use a rewrite as an excuse to redesign, leading to the 2.0 version.  
 **Translation:** 
 
-**[8317.88s] English:** your thing that's way better than the 1.0 right and so i have no idea i can't predict that but  
+**[8317.88s] English:** Your thing is way better than the 1.0, right? And so I have no idea; I can't predict that, but...  
 **Translation:** 
 
-**[8323.66s] English:** there's a lot of these places where again if you have a package that is half c and half python  
+**[8323.66s] English:** There are a lot of these places where, again, if you have a package that is half C and half Python.  
 **Translation:** 
 
-**[8328.76s] English:** right you just solve the pain make it easier to move things faster make it easier to debug and  
+**[8328.76s] English:** Right; you just solve the pain, make it easier to move things faster, and make it easier to debug and...  
 **Translation:** 
 
-**[8333.60s] English:** evolve your  
+**[8333.60s] English:** Evolve your  
 **Translation:** 
 
-**[8334.22s] English:** you  
+**[8334.22s] English:** You.  
+**Translation:** Vocabulary: evolve: 进化
+
+**[8334.78s] English:** Major tech adopting MOJO kind of makes sense to start with, and then it gives you this opportunity.  
 **Translation:** 
 
-**[8334.78s] English:** major tech adopting mojo kind of makes sense to start with and then it gives you this opportunity  
+**[8338.88s] English:** To rethink these things, so the two big gains are that there's a performance gain, and then  
 **Translation:** 
 
-**[8338.88s] English:** to rethink these things so the two big gains are that there's a performance gain and then  
+**[8345.34s] English:** There's the portability to all kinds of different devices, and there's safety too. So you talk about  
 **Translation:** 
 
-**[8345.34s] English:** there's the portability to all kinds of different devices and there's safety right so you talk about  
-**Translation:** 
-
-**[8352.26s] English:** real types i mean not saying this is for everybody but that's actually a pretty big thing right  
+**[8352.26s] English:** Real types, I mean, not saying this is for everybody, but that's actually a pretty big thing, right?  
 **Translation:** Vocabulary: portability: 便携性
 
-**[8357.92s] English:** and so there's a bunch of different aspects of what you know what value mojo provides  
+**[8357.92s] English:** And so, there are a bunch of different aspects of what value Mojo provides.  
 **Translation:** 
 
-**[8362.78s] English:** and so i mean it's funny for me  
+**[8362.78s] English:** And so, it's funny for me.  
 **Translation:** 
 
 **[8364.22s] English:** Like, I've been working on these kinds of technologies and tools for too many years now.  
@@ -6598,16 +6599,16 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8371.96s] English:** And we talked about Swift for TensorFlow, but Swift as a programming language, right?  
 **Translation:** 
 
-**[8376.34s] English:** Swift's now 13 years old from when I started it.  
+**[8376.34s] English:** Swift is now 13 years old from when I started it.  
 **Translation:** 
 
 **[8381.30s] English:** Yeah.  
 **Translation:** 
 
-**[8381.92s] English:** Because I started in 2010, if I remember.  
+**[8381.92s] English:** Because I started in 2010, if I remember correctly.  
 **Translation:** 
 
-**[8384.46s] English:** And so that project, and I was involved with it for 12 years or something, right?  
+**[8384.46s] English:** And so that project, and I was involved with it for 12 years or so, right?  
 **Translation:** 
 
 **[8390.16s] English:** That project has gone through its own really interesting story arc, right?  
@@ -6616,25 +6617,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8393.66s] English:** And it's a mature, successful, used by millions of people system, right?  
 **Translation:** 
 
-**[8397.72s] English:** Certainly not dead yet, right?  
+**[8397.72s] English:** Certainly, not dead yet, right?  
+**Translation:** Vocabulary: mature: 成熟的
+
+**[8400.00s] English:** But also, going through that story arc, I learned a tremendous amount about building languages, about building compilers, about working with the community, and things like this.  
 **Translation:** 
 
-**[8400.00s] English:** But also, going through that story arc, I learned a tremendous amount about building languages, about building compilers, about working with community, and things like this.  
-**Translation:** 
-
-**[8407.78s] English:** And so that experience, I'm helping channel and bring directly into Mojo.  
+**[8407.78s] English:** And so that experience, I'm helping to channel and bring directly into Mojo.  
 **Translation:** Vocabulary: compilers: 编译器
 
-**[8412.18s] English:** And other systems, same thing.  
+**[8412.18s] English:** And other systems: same thing.  
 **Translation:** 
 
 **[8414.16s] English:** Apparently, I like building and iterating and evolving things.  
-**Translation:** Vocabulary: evolving: 发展演变
+**Translation:** Vocabulary: evolving: 发展
 
 **[8417.36s] English:** And so you look at this LLVM thing I worked on 20 years ago, and you look at MLIR, right?  
 **Translation:** 
 
-**[8422.60s] English:** And so a lot of the lessons learned in LLVM got fed into MLIR.  
+**[8422.60s] English:** And so, a lot of the lessons learned in LLVM got fed into MLIR.  
 **Translation:** 
 
 **[8426.50s] English:** And I think that MLIR is a way better system than LLVM was.  
@@ -6655,13 +6656,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8445.52s] English:** Yeah.  
 **Translation:** 
 
-**[8445.98s] English:** And from the interface perspective and from the hardware perspective, what's this incredible thing running on?  
+**[8445.98s] English:** And, from both the interface perspective and the hardware perspective, what's this incredible thing running on?  
 **Translation:** 
 
 **[8454.54s] English:** Yeah.  
 **Translation:** Vocabulary: interface: 用户界面
 
-**[8454.86s] English:** So right now, here we are two weeks after launch.  
+**[8454.86s] English:** So, right now, we are two weeks after launch.  
 **Translation:** 
 
 **[8457.62s] English:** Yes.  
@@ -6673,19 +6674,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8459.40s] English:** We have this incredible set of technology that we think might be good, but we have not given it to lots of people yet.  
 **Translation:** 
 
-**[8466.48s] English:** And so we were very conservative and said, let's put it in a workbook so that if it crashes, we can do something about it.  
+**[8466.48s] English:** And so we were very conservative and said, "Let's put it in a workbook so that if it crashes, we can do something about it.  
 **Translation:** 
 
 **[8471.66s] English:** We can monitor and track that, right?  
 **Translation:** Vocabulary: workbook: 工作簿
 
-**[8473.56s] English:** And so, again, things are still super early, but we're having, like, one person a minute sign up with over 70,000 people two weeks in.  
+**[8473.56s] English:** And so, again, things are still super early, but we're having, like, one person a minute sign up—with over 70,000 people signed up in just two weeks.  
 **Translation:** 
 
 **[8485.02s] English:** It's kind of crazy.  
 **Translation:** 
 
-**[8485.84s] English:** So you can sign up to Mojo Playground, and you can use it.  
+**[8485.84s] English:** So, you can sign up for Mojo Playground, and you can use it.  
 **Translation:** 
 
 **[8489.40s] English:** In the cloud.  
@@ -6695,60 +6696,60 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[8491.22s] English:** In your browser.  
-**Translation:** 
+**Translation:** Vocabulary: browser: 浏览器
 
-**[8492.40s] English:** And so what that's running on, right?  
+**[8492.40s] English:** And so what is that running on, right?  
 **Translation:** 
 
 **[8493.48s] English:** Notebook.  
 **Translation:** 
 
-**[8493.80s] English:** Yeah, what that's running on is that's running on cloud VMs.  
+**[8493.80s] English:** Yeah, what's running on is running on cloud VMs.  
 **Translation:** 
 
-**[8497.40s] English:** And so you share a machine with a bunch of other people.  
+**[8497.40s] English:** And so, you share a machine with a bunch of other people.  
 **Translation:** 
 
-**[8500.66s] English:** But it turns out there's a bunch of them now because there's a lot of people.  
+**[8500.66s] English:** But it turns out there are a bunch of them now because there are a lot of people.  
 **Translation:** 
 
-**[8503.90s] English:** And so what you're doing is you're getting free compute, and you're getting to play with this thing in kind of a limited, controlled way so that we can make sure that it doesn't totally crash and be embarrassing, right?  
-**Translation:** 
+**[8503.90s] English:** And so, what you're doing is getting free compute, and you're getting to play with this thing in a kind of limited, controlled way so that we can make sure it doesn't totally crash and be embarrassing, right?  
+**Translation:** Vocabulary: compute: 计算资源
 
 **[8514.84s] English:** Yeah.  
 **Translation:** 
 
-**[8515.78s] English:** So now a lot of the feedback we've gotten is people want to download it locally.  
+**[8515.78s] English:** So, now a lot of the feedback we've gotten is that people want to download it locally.  
 **Translation:** 
 
-**[8518.80s] English:** So we're working on that.  
+**[8518.80s] English:** So, we're working on that.  
 **Translation:** 
 
 **[8519.40s] English:** Right now.  
 **Translation:** 
 
-**[8520.00s] English:** So that's the goal, to be able to download locally into it.  
+**[8520.00s] English:** So, that's the goal: to be able to download locally into it.  
 **Translation:** 
 
-**[8523.40s] English:** Yeah, that's what everybody expects.  
+**[8523.40s] English:** Yeah, that's what everyone expects.  
 **Translation:** 
 
-**[8524.66s] English:** And so we're working on that right now.  
+**[8524.66s] English:** And so, we're working on that right now.  
 **Translation:** 
 
-**[8525.94s] English:** And so we just want to make sure that we do it right.  
+**[8525.94s] English:** And so, we just want to make sure that we do it right.  
 **Translation:** 
 
-**[8527.98s] English:** And I think this is one of the lessons I learned from Swift also, by the way,  
+**[8527.98s] English:** And I think this is one of the lessons I learned from Swift, as well.  
 **Translation:** 
 
-**[8532.62s] English:** is that when we launched Swift, gosh, it feels like forever ago.  
+**[8532.62s] English:** Is that when we launched Swift? Gosh, it feels like forever ago.  
 **Translation:** 
 
 **[8536.10s] English:** It was 2014.  
 **Translation:** 
 
-**[8537.72s] English:** And we, I mean, it was super exciting.  
+**[8537.72s] English:** And we—mean, it was super exciting.  
 **Translation:** 
 
 **[8540.90s] English:** I and we, the team, had worked on Swift for a number of years in secrecy.  
@@ -6757,49 +6758,49 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8545.44s] English:** And we, four years into this development, roughly,  
 **Translation:** Vocabulary: secrecy: 秘密
 
-**[8550.00s] English:** of working on this thing, at that point,  
+**[8550.00s] English:** Of working on this thing, at that point,  
 **Translation:** 
 
-**[8552.54s] English:** about 250 people at Apple knew about it.  
+**[8552.54s] English:** About 250 people at Apple knew about it.  
 **Translation:** 
 
-**[8555.48s] English:** Okay, so it was secret.  
+**[8555.48s] English:** Okay, so it was a secret.  
 **Translation:** 
 
 **[8556.58s] English:** Apple's good at secrecy, and it was a secret project.  
 **Translation:** 
 
-**[8559.02s] English:** And so we launched this at WWC, a bunch of hoopla and excitement,  
+**[8559.02s] English:** And so we launched this at WWC with a bunch of hoopla and excitement.  
 **Translation:** 
 
-**[8562.98s] English:** and said, developers, you're going to be able to develop  
-**Translation:** Vocabulary: hoopla: 喧闹
+**[8562.98s] English:** And said, "Developers, you're going to be able to develop...  
+**Translation:** 
 
-**[8565.46s] English:** and submit apps to the App Store in three months.  
+**[8565.46s] English:** And submit apps to the App Store in three months.  
 **Translation:** 
 
 **[8569.08s] English:** Well, several interesting things happened, right?  
+**Translation:** Vocabulary: submit: 提交
+
+**[8571.62s] English:** So, first of all, we learned that it had a lot of bugs.  
 **Translation:** 
 
-**[8571.62s] English:** So first of all, we learned that, A, it had a lot of bugs.  
-**Translation:** 
-
-**[8575.72s] English:** It was not actually production quality.  
+**[8575.72s] English:** It was not actually production-quality.  
 **Translation:** 
 
 **[8578.36s] English:** And it was extremely stressful.  
 **Translation:** 
 
-**[8580.00s] English:** In terms of, like, trying to get it working for a bunch of people.  
+**[8580.00s] English:** In terms of trying to get it working for a bunch of people.  
 **Translation:** 
 
 **[8583.72s] English:** And so what happened was we went from zero to, you know,  
 **Translation:** 
 
-**[8586.82s] English:** I don't know how many developers Apple had at the time,  
+**[8586.82s] English:** I don't know how many developers Apple had at the time.  
 **Translation:** 
 
-**[8588.68s] English:** but a lot of developers overnight.  
+**[8588.68s] English:** But a lot of developers overnight.  
 **Translation:** 
 
 **[8591.10s] English:** And they ran into a lot of bugs, and it was really embarrassing.  
@@ -6808,22 +6809,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8593.92s] English:** And it was very stressful for everybody involved, right?  
 **Translation:** 
 
-**[8596.66s] English:** It was also very exciting, because everybody was excited about that.  
+**[8596.66s] English:** It was also very exciting, because everyone was excited about that.  
 **Translation:** 
 
 **[8599.88s] English:** The other thing I learned is that when that happened,  
 **Translation:** 
 
-**[8602.14s] English:** roughly every software engineer who did not know about the project at Apple,  
+**[8602.14s] English:** Roughly, every software engineer who did not know about the project at Apple,  
 **Translation:** 
 
-**[8605.74s] English:** their head exploded when it was launched, because they didn't know it was coming.  
+**[8605.74s] English:** Their heads exploded when it was launched, because they didn't know it was coming.  
 **Translation:** 
 
 **[8609.28s] English:** And so,  
-**Translation:** Vocabulary: exploded: 爆裂
+**Translation:** Vocabulary: exploded: 情绪爆发
 
-**[8610.02s] English:** they're like, wait, what is this?  
+**[8610.02s] English:** They're like, "Wait, what is this?  
 **Translation:** 
 
 **[8611.18s] English:** I signed up to work for Apple because I love Objective-C.  
@@ -6835,25 +6836,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8614.92s] English:** And so,  
 **Translation:** 
 
-**[8615.90s] English:** now what that meant, practically,  
+**[8615.90s] English:** Now, what that meant practically,  
 **Translation:** 
 
-**[8618.96s] English:** is that the push from launch to, first of all, the fall,  
+**[8618.96s] English:** Is that the push from launch to, first of all, the fall?  
+**Translation:** Vocabulary: practically: 实际上
+
+**[8623.16s] English:** But then to 2.0 and 3.0, and, like, all the way forward,  
 **Translation:** 
 
-**[8623.16s] English:** but then to 2.0 and 3.0 and, like, all the way forward,  
-**Translation:** 
-
-**[8626.82s] English:** was super painful for the engineering team and myself.  
+**[8626.82s] English:** It was super painful for the engineering team and me.  
 **Translation:** 
 
 **[8631.34s] English:** It was very stressful.  
 **Translation:** 
 
-**[8633.12s] English:** The developer community was very grumpy about it,  
+**[8633.12s] English:** The developer community was very grumpy about it.  
 **Translation:** Vocabulary: grumpy: 脾气坏的
 
-**[8635.04s] English:** because they're like, okay, well, wait a second.  
+**[8635.04s] English:** Because they're like, okay, well, wait a second.  
 **Translation:** 
 
 **[8636.48s] English:** You're changing and breaking my code, and, like, we have to fix the bugs.  
@@ -6865,13 +6866,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8644.90s] English:** There's a lot of technical debt in the compiler because we have to run really fast.  
 **Translation:** 
 
-**[8649.36s] English:** You have to go implement the thing and unblock the use case and do the thing.  
+**[8649.36s] English:** You have to go implement the thing, unblock the use case, and do the thing.  
 **Translation:** 
 
 **[8651.90s] English:** And you know it's not right, but you never have time to go back and do it right.  
-**Translation:** 
+**Translation:** Vocabulary: implement: 执行
 
-**[8654.86s] English:** And I'm very proud of the Swift team because they've come, I mean, we, but they came so far and made so much progress over this time since launch.  
+**[8654.86s] English:** And I'm very proud of the Swift team because they've come so far and made so much progress since launch. We have, but they did.  
 **Translation:** 
 
 **[8666.14s] English:** It's pretty incredible.  
@@ -6883,25 +6884,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8668.70s] English:** And I just don't want to do that again, right?  
 **Translation:** 
 
-**[8671.16s] English:** So iterate more through the development process.  
+**[8671.16s] English:** So, iterate more thoroughly through the development process.  
 **Translation:** 
 
-**[8675.56s] English:** And so what we're doing is we're not launching it when it's hopefully 0.9 with no testers.  
-**Translation:** 
+**[8675.56s] English:** And so, what we're doing is, we're not launching it when it's hopefully 0.9 with no testers.  
+**Translation:** Vocabulary: thoroughly: 仔细地
 
 **[8680.28s] English:** We're launching it and saying it's 0.1, right?  
 **Translation:** 
 
-**[8683.12s] English:** And so we're setting expectations of saying like, okay, well, don't use this for production, right?  
+**[8683.12s] English:** And so, we're setting expectations by saying, "Okay, well, don't use this for production, right?  
 **Translation:** 
 
-**[8688.10s] English:** If you're interested in what we're doing, we'll do it in an open way and we can do it together.  
+**[8688.10s] English:** If you're interested in what we're doing, we'll do it in an open way, and we can do it together.  
 **Translation:** 
 
 **[8693.10s] English:** But don't use it in production yet.  
 **Translation:** 
 
-**[8694.80s] English:** Like we'll get there, but let's do it the right way.  
+**[8694.80s] English:** Like, we'll get there, but let's do it the right way.  
 **Translation:** 
 
 **[8697.52s] English:** And I'm also saying.  
@@ -6919,7 +6920,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8704.60s] English:** Right.  
 **Translation:** 
 
-**[8705.08s] English:** Because if you do it right and it lifts the industry, it doesn't matter if it takes an extra two months.  
+**[8705.08s] English:** Because, if you do it right and it lifts the industry, it doesn't matter if it takes an extra two months.  
 **Translation:** 
 
 **[8709.96s] English:** Yeah.  
@@ -6928,22 +6929,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8710.48s] English:** Like two months is worth waiting.  
 **Translation:** 
 
-**[8711.56s] English:** And so doing it right and not being overwhelmed with technical debt and things like this is like, again, war wounds, lessons learned, whatever you want to say, I think is absolutely the right thing to do.  
+**[8711.56s] English:** And so, doing it right and not being overwhelmed with technical debt and things like this is, again, like war wounds, lessons learned — whatever you want to say. I think it's absolutely the right thing to do.  
+**Translation:** Vocabulary: wounds: 伤痕
+
+**[8723.98s] English:** Even though right now people are very frustrated because you can't download it or it doesn't have a feature.  
 **Translation:** 
 
-**[8723.98s] English:** Even though right now people are very frustrated that, you know, you can't download it or it doesn't have feature.  
+**[8728.70s] English:** X, or something like this.  
 **Translation:** 
 
-**[8728.70s] English:** X or something like this.  
-**Translation:** 
-
-**[8730.06s] English:** What have you learned in a little bit of time since it's been released into the wild that people have been complaining about feature X or Y or Z?  
+**[8730.06s] English:** What have you learned in a little bit of time since it's been released into the wild that people have been complaining about feature X, Y, or Z?  
 **Translation:** 
 
 **[8741.74s] English:** What have they been complaining about?  
 **Translation:** 
 
-**[8743.26s] English:** What they have been excited about?  
+**[8743.26s] English:** What have they been excited about?  
 **Translation:** 
 
 **[8746.48s] English:** Like, yeah, almost like detailed things versus.  
@@ -6961,253 +6962,253 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[8753.48s] English:** Well, so, I mean, I've been very pleased.  
 **Translation:** 
 
-**[8754.68s] English:** I mean, in fact, I mean, we've been massively overwhelmed with response, which is.  
+**[8754.68s] English:** I mean, in fact, we've been massively overwhelmed with responses, which is great.  
 **Translation:** 
 
 **[8758.70s] English:** A good problem to have.  
 **Translation:** Vocabulary: massively: 极其
 
-**[8760.00s] English:** have um it's kind of like a success disaster yeah in a sense right um and um so i mean if you go  
+**[8760.00s] English:** It's kind of like a success disaster, yeah, in a sense, right? And, um, so I mean, if you go...  
 **Translation:** 
 
-**[8767.42s] English:** back in time when we started modular which is just not yet a year and a half ago so it's still a  
+**[8767.42s] English:** Back in time when we started Modular, which is just not yet a year and a half ago, so it's still a  
 **Translation:** Vocabulary: modular: 模块化的
 
-**[8772.88s] English:** pretty new company new team small but very good team of people like we started with extreme  
+**[8772.88s] English:** Pretty new, company, new team—small but very good. Team of people, like we started with extreme.  
 **Translation:** 
 
-**[8778.98s] English:** conviction that there's a set of problems that we need to solve and if we solve it then people will  
+**[8778.98s] English:** Conviction that there's a set of problems that we need to solve, and if we solve them, then people will...  
 **Translation:** 
 
-**[8784.06s] English:** be interested in what we're doing right but but again you're building in basically secret right  
+**[8784.06s] English:** Be interested in what we're doing, right? But, but again, you're building it basically in secret, right?  
 **Translation:** 
 
-**[8789.38s] English:** you're trying to figure it out it's the creation is a messy process you're having to go through  
+**[8789.38s] English:** You're trying to figure it out; it's a messy process, and you're having to go through it.  
 **Translation:** 
 
-**[8793.98s] English:** different paths and understand what you want to do and how to explain it often when you're doing  
+**[8793.98s] English:** Different paths, and understand what you want to do and how to explain it; often, when you're doing.  
 **Translation:** 
 
-**[8798.14s] English:** disruptive and new kinds of things just knowing how to explain it is super difficult right um and  
+**[8798.14s] English:** Disruptive and new kinds of things—just knowing how to explain it is super difficult, right? Um,...  
 **Translation:** Vocabulary: disruptive: 破坏性的
 
-**[8804.62s] English:** so when we launched we hoped people would be excited but you know i'm i'm an optimist but i'm  
+**[8804.62s] English:** So, when we launched, we hoped people would be excited. But, you know, I'm an optimist, but I'm  
 **Translation:** 
 
-**[8810.64s] English:** also like don't want to get ahead of myself and so when people found out about mojo i think their  
-**Translation:** Vocabulary: optimist: 乐天派
+**[8810.64s] English:** Also, I don't want to get ahead of myself, and so when people found out about Mojo, I think their  
+**Translation:** Vocabulary: optimist: 乐观主义者
 
-**[8816.08s] English:** heads exploded a little bit right and you know  
+**[8816.08s] English:** Heads exploded a little bit, right? And you know,...  
 **Translation:** 
 
-**[8819.38s] English:** here here's a i think a pretty credible team that has built some languages and some tools before and  
-**Translation:** Vocabulary: credible: 可信的
+**[8819.38s] English:** Here, I think a pretty credible team that has built some languages and some tools before.  
+**Translation:** Vocabulary: credible: 可信的; exploded: 爆炸
 
-**[8823.58s] English:** so they have some lessons learned and are tackling some of the deep problems in the python ecosystem  
+**[8823.58s] English:** So, they have some lessons learned and are tackling some of the deep problems in the Python ecosystem.  
 **Translation:** 
 
-**[8829.26s] English:** and giving it the love and attention that it should be getting and i think people got very  
+**[8829.26s] English:** And giving it the love and attention that it should be getting, I think people got very  
 **Translation:** Vocabulary: tackling: 应对
 
-**[8833.32s] English:** excited about that and so if you look at that i mean i think people are excited about ownership  
+**[8833.32s] English:** Excited about that, and so if you look at it, I mean, I think people are excited about ownership.  
 **Translation:** 
 
-**[8837.32s] English:** and taking a step beyond rust right there's people that are very excited about that there's people  
+**[8837.32s] English:** And taking a step beyond Rust, there are people who are very excited about that, there are people  
 **Translation:** 
 
-**[8841.22s] English:** that are excited about uh you know just like i made game of life go 400 times faster right and  
+**[8841.22s] English:** That are excited about, you know, just like I made "Game of Life" go 400 times faster, right?  
 **Translation:** 
 
-**[8848.20s] English:** things like that and that's really cool  
+**[8848.20s] English:** Things like that, and that's really cool.  
 **Translation:** 
 
-**[8849.38s] English:** there are people that are really excited about the okay i really hate writing stuff in c++  
+**[8849.38s] English:** There are people that are really excited about it, okay, but I really hate writing stuff in C++.  
 **Translation:** 
 
-**[8853.94s] English:** save me like systems in your they're like stepping up like yeah yes so that that's that's that's that's  
+**[8853.94s] English:** Save me, like systems. In your case, they're like stepping up, yeah, yes. So that's that's that's that's  
 **Translation:** 
 
-**[8859.38s] English:** me by the way also um i really want to stop writing c++ but the um i get third person excitement  
+**[8859.38s] English:** By the way, I also really want to stop writing C++, but the thing is, I get this third-person excitement.  
 **Translation:** 
 
-**[8867.54s] English:** when people tweet yeah i made this code game of life or whatever it's faster and you're like yeah  
+**[8867.54s] English:** When people tweet, "Yeah, I made this code game of life or whatever; it's faster," and you're like, "Yeah.  
 **Translation:** 
 
-**[8873.94s] English:** yeah and and also like um well i would also say that um let me let me cast blame  
+**[8873.94s] English:** Yeah, and also, like, um, well, I would also say that, um, let me cast blame.  
 **Translation:** 
 
-**[8879.38s] English:** out  
+**[8879.38s] English:** Out.  
 **Translation:** 
 
-**[8880.00s] English:** to people who deserve it sure these terrible people who convinced me to do some of this yes  
+**[8880.00s] English:** To people who deserve it, sure; these terrible people who convinced me to do some of this, yes.  
 **Translation:** 
 
-**[8886.18s] English:** jeremy howard yes that guy well he's been pushing for this kind of thing he's wanted this for years  
+**[8886.18s] English:** Jeremy Howard: Yes, that guy. Well, he's been pushing for this kind of thing; he's wanted it for years.  
 **Translation:** Vocabulary: jeremy: 杰里米
 
-**[8892.94s] English:** yeah he's wanted this for a long time for years and for people who don't know jeremy howard he's  
+**[8892.94s] English:** Yeah, he's wanted this for a long time—years—and for people who don't know Jeremy Howard, he's  
 **Translation:** 
 
-**[8897.44s] English:** like one of the most legit people in the machine learning community he's uh he's a grassroots he  
+**[8897.44s] English:** Like one of the most legit people in the machine learning community, he's a true grassroots guy.  
 **Translation:** Vocabulary: grassroots: 基层; legit: 正经
 
-**[8903.84s] English:** really teaches he's an incredible educator he's an incredible teacher but also legit uh in terms  
+**[8903.84s] English:** Really, he teaches; he's an incredible educator and teacher, but also legit.  
 **Translation:** 
 
-**[8908.72s] English:** of a machine learning engineer himself yeah he's been running the fast.ai and looking i think for  
+**[8908.72s] English:** Of a machine learning engineer, himself, yeah. He's been running fast.ai and looking, I think, for  
 **Translation:** Vocabulary: educator: 教育者
 
-**[8914.84s] English:** exactly what you exactly and so and so um i mean the first time so i met jeremy pretty early on  
+**[8914.84s] English:** Exactly, what you exactly and so-and-so, um, I mean, the first time I met Jeremy was pretty early on.  
 **Translation:** 
 
-**[8922.12s] English:** but the first time i sat up and i'm like this guy is ridiculous is when i was at google and  
+**[8922.12s] English:** But the first time I sat up and thought, "This guy is ridiculous," was when I was at Google.  
 **Translation:** 
 
-**[8929.50s] English:** we're bringing up tpus and we had a whole team of people and we're there's this competition called  
+**[8929.50s] English:** We're bringing up TPUs, and we had a whole team of people. There's this competition called...  
 **Translation:** 
 
-**[8935.42s] English:** dawn bench of who can train uh  
+**[8935.42s] English:** Dawn's bench: of who can train, uh  
 **Translation:** 
 
-**[8938.72s] English:** image net yeah fastest right yes and jeremy and one of his researchers  
+**[8938.72s] English:** ImageNet, yeah, fastest, right? Yes, and Jeremy and one of his researchers.  
 **Translation:** 
 
-**[8943.46s] English:** crushed google by not through sheer force of the amazing amount of compute and the number of tpus  
+**[8943.46s] English:** Crushed Google by not through sheer force, but through an amazing amount of compute and the number of TPUs.  
+**Translation:** Vocabulary: compute: 计算能力
+
+**[8950.36s] English:** And stuff like that, he just decided that progressive image resizing was the right way to.  
 **Translation:** 
 
-**[8950.36s] English:** and stuff like that that he just decided that progressive imagery sizing was the right way to  
+**[8955.58s] English:** Train the model and double the epochs faster, and make the whole thing go vroom, right? And I'm like,...  
+**Translation:** Vocabulary: epochs: 训练周期; vroom: 加速运行
+
+**[8961.94s] English:** This guy is incredible, right? And so you can say, anyway, come back to where's mojo coming.  
 **Translation:** 
 
-**[8955.58s] English:** train the model and fury epochs faster and make the whole thing go go vroom right and i'm like  
-**Translation:** Vocabulary: epochs: 训练周期; vroom: 加速
-
-**[8961.94s] English:** this guy is incredible right and so you can say anyways come back to you know where's mojo coming  
-**Translation:** 
-
-**[8968.72s] English:** chris finally listened to jeremy it's all his fault but there's a kind of very uh refreshing uh  
-**Translation:** 
-
-**[8977.92s] English:** pragmatic view that he has about machine learning that um i don't know if it's like this mix of uh  
-**Translation:** 
-
-**[8986.68s] English:** desire for efficiency but ultimately grounded and desire to make uh machine learning more  
-**Translation:** Vocabulary: pragmatic: 实用主义的
-
-**[8992.14s] English:** accessible to a lot of people i don't know what that is i guess that's coupled with efficiency  
-**Translation:** 
-
-**[8996.32s] English:** and performance but it's not just efficiency it's not just efficiency it's not just efficiency it's  
-**Translation:** 
-
-**[8998.56s] English:** not just efficiency it's not just efficiency it's not just efficiency it's not just efficiency  
-**Translation:** 
-
-**[8998.72s] English:** i'm not just obsessed about  
-**Translation:** 
-
-**[9000.00s] English:** performance so a lot of ai and ai research ends up being that it has to go fast enough to get scale  
-**Translation:** 
-
-**[9006.48s] English:** so a lot of people don't actually care about performance particularly on the research side  
-**Translation:** 
-
-**[9010.48s] English:** until it allows them to have more a bigger data set right and so suddenly now you care about  
-**Translation:** 
-
-**[9015.48s] English:** distributed compute and like all these exotic hpc like you don't actually want to know about that  
-**Translation:** 
-
-**[9020.16s] English:** you just want to be able to do more experiments faster and do so with bigger data sets right  
-**Translation:** 
-
-**[9024.60s] English:** and so jeremy has been really pushing the limits and one of the things i'll say about jeremy  
+**[8968.72s] English:** Chris finally listened to Jeremy. It's all his fault, but there's a kind of very, uh, refreshing, uh  
 **Translation:** Vocabulary: jeremy: 杰里米
 
-**[9029.14s] English:** and there's many things i could say about jeremy because i'm a fanboy of his but uh he uh it fits  
+**[8977.92s] English:** Pragmatic view that he has about machine learning—that, um, I don't know if it's like this mix of  
 **Translation:** 
 
-**[9035.22s] English:** in his head and jeremy actually takes the time where many people don't to really dive deep into  
+**[8986.68s] English:** Desire for efficiency, but ultimately grounded in a desire to make machine learning more  
+**Translation:** Vocabulary: pragmatic: 实用的
+
+**[8992.14s] English:** Accessible to a lot of people, I don't know what that is; I guess that's coupled with efficiency.  
 **Translation:** 
 
-**[9041.28s] English:** why is the beta parameter of the atom optimizer equal to this yeah right and he'll go survey and  
+**[8996.32s] English:** And performance, but it's not just efficiency; it's not just efficiency; it's not just efficiency; it's  
 **Translation:** 
 
-**[9048.18s] English:** understand what are all the activation functions and the trade-offs and why is it that everybody  
+**[8998.56s] English:** Not just efficiency; it's not just efficiency; it's not just efficiency; it's not just efficiency.  
+**Translation:** 
+
+**[8998.72s] English:** I'm not just obsessed about  
+**Translation:** Vocabulary: obsessed: 痴迷
+
+**[9000.00s] English:** Performance is such that a lot of AI and AI research ends up having to go fast enough to achieve scale.  
+**Translation:** 
+
+**[9006.48s] English:** So, a lot of people don't actually care about performance, particularly on the research side.  
+**Translation:** 
+
+**[9010.48s] English:** Until it allows them to have a bigger data set, right? And so suddenly, now you care about  
+**Translation:** 
+
+**[9015.48s] English:** Distributed computing, and like all these exotic HPC technologies, you don't actually want to know about that.  
+**Translation:** Vocabulary: computing: 计算; exotic: 稀奇
+
+**[9020.16s] English:** You just want to be able to do more experiments faster and with bigger data sets, right?  
+**Translation:** 
+
+**[9024.60s] English:** And so Jeremy has been really pushing the limits, and one of the things I'll say about Jeremy is that  
+**Translation:** Vocabulary: experiments: 实验
+
+**[9029.14s] English:** And there are many things I could say about Jeremy, because I'm a fan boy of his, but uh, it just fits.  
+**Translation:** 
+
+**[9035.22s] English:** In his head, Jeremy actually takes the time where many people don't to really dive deep into.  
+**Translation:** 
+
+**[9041.28s] English:** Why is the beta parameter of the Atom Optimizer equal to this? Yeah, right, and he'll go survey and  
+**Translation:** 
+
+**[9048.18s] English:** Understand what all the activation functions are, and the trade-offs, and why it is that everyone  
 **Translation:** Vocabulary: optimizer: 优化器; parameter: 参数
 
-**[9052.24s] English:** that does uh you know this model pick that thing so the why not just trying different values like  
+**[9052.24s] English:** That does, uh, you know, this model pick that thing, so why not just try different values like  
 **Translation:** 
 
-**[9058.84s] English:** really  
+**[9058.84s] English:** Really?  
 **Translation:** 
 
-**[9059.14s] English:** what is going on here right and so as a consequence of that like he's always he  
+**[9059.14s] English:** What is going on here, right? And so, as a consequence of that, he's always he,...  
 **Translation:** 
 
-**[9063.54s] English:** again he makes time but he he spends time to understand things at a depth that a lot of people  
+**[9063.54s] English:** Again, he makes time but he spends time to understand things at a depth that a lot of people don't.  
 **Translation:** 
 
-**[9068.80s] English:** don't and as you say he then brings it and teaches people and he's his mission is to help lift you  
+**[9068.80s] English:** Don't, and as you say, he then brings it and teaches people. And his mission is to help lift you.  
 **Translation:** 
 
-**[9076.14s] English:** know his website says making ai uncool again like it's about like forget about the hype let's it's  
+**[9076.14s] English:** Know his website says, "Making AI uncool again, like it's about... Let's forget about the hype.  
 **Translation:** 
 
-**[9081.24s] English:** actually practical and useful let's teach people how to do this right now the problem jeremy  
+**[9081.24s] English:** Actually, it's practical and useful to teach people how to do this right now. The problem, Jeremy.  
 **Translation:** 
 
-**[9085.54s] English:** struggled with is that he's pushing the envelope right research isn't  
-**Translation:** Vocabulary: struggled: 挣扎
-
-**[9089.14s] English:** about doing the thing that is staying on the happy path or the the well-paved road right  
+**[9085.54s] English:** Struggled with is that he's pushing the envelope, right? Research isn't  
 **Translation:** 
 
-**[9093.70s] English:** and so a lot of the systems today have been these really fragile fragmented things or special case  
-**Translation:** Vocabulary: fragile: 易碎; fragmented: 碎片化
-
-**[9099.38s] English:** in this happy path and if you fall off the happy path you get eaten by an alligator uh so  
+**[9089.14s] English:** About doing the thing that is staying on the happy path or the well-paved road, right?  
 **Translation:** 
 
-**[9105.54s] English:** what about uh so python has this giant ecosystem of packages uh  
+**[9093.70s] English:** And so, a lot of the systems today have been these really fragile, fragmented things or special cases.  
+**Translation:** Vocabulary: fragile: 易碎的; fragmented: 碎片化的
+
+**[9099.38s] English:** In this happy path, and if you fall off the happy path, you get eaten by an alligator, uh.  
+**Translation:** 
+
+**[9105.54s] English:** What about, uh, so Python has this giant ecosystem of packages, uh,  
 **Translation:** Vocabulary: alligator: 鳄鱼
 
-**[9112.48s] English:** and there's a package repository do you have ideas of how to do that well for mojo yeah how to do it  
+**[9112.48s] English:** And there's a package repository. Do you have any ideas of how to do that well for Mojo? Yes, how to do it.  
 **Translation:** 
 
-**[9119.14s] English:** repository at  
+**[9119.14s] English:** Repository at  
 **Translation:** Vocabulary: repository: 软件仓库
 
 **[9120.00s] English:** Well, so that's another really interesting problem that I knew about, but I didn't understand how big of a problem it was.  
 **Translation:** 
 
-**[9126.88s] English:** Python packaging, a lot of people have very big pain points and a lot of scars with Python packaging.  
+**[9126.88s] English:** Python packaging: a lot of people have very big pain points and a lot of scars with Python packaging.  
 **Translation:** 
 
-**[9133.12s] English:** Oh, you mean, so there's several things.  
+**[9133.12s] English:** Oh, you mean, there are several things.  
 **Translation:** 
 
-**[9134.98s] English:** Building and distributing and managing dependencies and versioning and all this stuff.  
-**Translation:** Vocabulary: versioning: 版本管理
+**[9134.98s] English:** Building, distributing, and managing dependencies and versioning—and all this stuff.  
+**Translation:** Vocabulary: distributing: 分发; versioning: 版本管理
 
-**[9139.88s] English:** So from the perspective of if you want to create your own package.  
+**[9139.88s] English:** So, from the perspective of creating your own package,  
 **Translation:** 
 
 **[9143.16s] English:** Yes.  
 **Translation:** 
 
-**[9143.46s] English:** Or you want to build on top of a bunch of other people's packages and then they get updated and things like this.  
+**[9143.46s] English:** Or you want to build on top of a bunch of other people's packages, and then they get updated, and things like this.  
 **Translation:** 
 
 **[9148.52s] English:** Now, I'm not an expert in this, so I don't know the answer.  
 **Translation:** 
 
-**[9153.58s] English:** I think this is one of the reasons why it's great that we work as a team and there's other really good and smart people involved.  
+**[9153.58s] English:** I think this is one of the reasons why it's great that we work as a team, and there are other really good and smart people involved.  
 **Translation:** 
 
-**[9160.56s] English:** But one of the things I've heard from smart people who've done a lot of this is that the packaging becomes a huge disaster when you get the Python and C together.  
+**[9160.56s] English:** But, one of the things I've heard from smart people who've done a lot of this is that the packaging becomes a huge disaster when you get Python and C together.  
 **Translation:** 
 
-**[9170.86s] English:** And so if you have this problem where you have code split between Python and C.  
+**[9170.86s] English:** And so, if you have this problem where you have code split between Python and C.  
 **Translation:** 
 
 **[9175.68s] English:** Now, not only do you have to package the C code.  
@@ -7219,47 +7220,47 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9180.00s] English:** C doesn't have a package manager.  
 **Translation:** 
 
-**[9182.40s] English:** C doesn't have a dependency versioning management system.  
+**[9182.40s] English:** C does not have a dependency versioning management system.  
 **Translation:** 
 
-**[9185.94s] English:** And so I'm not experienced in the state of the art and all the different Python package managers.  
+**[9185.94s] English:** And so, I'm not experienced with the state-of-the-art and all the different Python package managers.  
 **Translation:** 
 
-**[9192.58s] English:** But my understanding is that's a massive part of the problem.  
+**[9192.58s] English:** But, my understanding is that's a massive part of the problem.  
 **Translation:** 
 
-**[9195.92s] English:** And I think Mojo solves that part of the problem directly heads on.  
+**[9195.92s] English:** And I think Mojo solves that part of the problem directly, head-on.  
 **Translation:** 
 
-**[9199.36s] English:** Now, one of the things I think we'll do with the community, and this isn't, again, we're not solving all the world's problems at once.  
+**[9199.36s] English:** Now, one of the things I think we'll do with the community, and this isn't — again, we're not solving all the world's problems at once.  
 **Translation:** 
 
 **[9205.18s] English:** We have to be kind of focused to start with.  
 **Translation:** 
 
-**[9207.54s] English:** Is that.  
+**[9207.54s] English:** Is that?  
 **Translation:** 
 
-**[9208.18s] English:** I think that we will have an opportunity to reevaluate packaging.  
-**Translation:** Vocabulary: reevaluate: 重新评估
+**[9208.18s] English:** I think we will have an opportunity to reevaluate packaging.  
+**Translation:** 
 
 **[9211.74s] English:** Right.  
 **Translation:** 
 
-**[9212.18s] English:** And so I think that we can come back and say, OK, well, given the new tools and technologies and the cool things we have that we've built up because we have not just syntax.  
+**[9212.18s] English:** And so I think that we can come back and say, "OK, well, given the new tools and technologies and the cool things we have built up, because we're not just dealing with syntax.  
 **Translation:** Vocabulary: syntax: 句法
 
 **[9219.90s] English:** We have an entirely new compiler stack that works in a new way.  
 **Translation:** 
 
-**[9222.82s] English:** Maybe there's other innovations we can bring together and maybe we can help solve that problem.  
+**[9222.82s] English:** Maybe there are other innovations we can bring together, and maybe we can help solve that problem.  
 **Translation:** Vocabulary: innovations: 创新
 
-**[9227.02s] English:** So almost a tangent to that question from the user perspective of packages.  
+**[9227.02s] English:** So, almost a tangent to that question, from the user's perspective on packages.  
 **Translation:** 
 
 **[9230.40s] English:** It was always surprising to me that it was not easier to sort of explore and find packages.  
-**Translation:** Vocabulary: tangent: 旁枝话题
+**Translation:** Vocabulary: tangent: 旁枝逸出
 
 **[9238.18s] English:** Yes.  
 **Translation:** 
@@ -7273,85 +7274,85 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9238.38s] English:** Yes.  
 **Translation:** 
 
-**[9240.00s] English:** you know with with pip install and it just it feels uh it's an incredible ecosystem it's just  
+**[9240.00s] English:** You know, with `pip install`, and it just feels like an incredible ecosystem; it's just  
 **Translation:** 
 
-**[9246.86s] English:** uh interesting that it wasn't made it's still i think not made easier to discover packages to do  
+**[9246.86s] English:** Uh, interesting that it wasn't made easier to discover packages to do.  
 **Translation:** 
 
-**[9253.24s] English:** yeah like uh uh search and discovery as youtube calls it well i mean it's kind of funny because  
+**[9253.24s] English:** Yeah, like uh search and discovery, as YouTube calls it. Well, I mean, it's kind of funny because  
 **Translation:** 
 
-**[9261.58s] English:** this is one of the challenges of these like intentionally decentralized communities  
+**[9261.58s] English:** This is one of the challenges of these intentionally decentralized communities.  
 **Translation:** Vocabulary: decentralized: 分散管理的
 
-**[9266.56s] English:** and so i don't know what the right answer is for python i mean there are many people that would  
+**[9266.56s] English:** And so, I don't know what the right answer is for Python. I mean, there are many people who would  
 **Translation:** 
 
-**[9271.02s] English:** or i don't even know the right answer for mojo like so there are many people that would have  
+**[9271.02s] English:** Or, I don't even know the right answer for Mojo. Like, so there are many people that would have.  
 **Translation:** 
 
-**[9277.08s] English:** much more informed opinions than i do but but it's interesting if you look at this right open  
+**[9277.08s] English:** Much more informed opinions than I do, but it's interesting if you look at this right open.  
 **Translation:** 
 
-**[9280.74s] English:** source communities um you know there's git git is a fully decentralized anybody could do it any  
+**[9280.74s] English:** Source communities, um, you know, there's Git; Git is a fully decentralized system; anybody could do it anytime.  
+**Translation:** Vocabulary: anytime: 随时
+
+**[9286.84s] English:** They can do it their way, but then there's GitHub, right? And GitHub is centralized and commercial, in that case, right?  
 **Translation:** 
 
-**[9286.84s] English:** way they want but then there's github right and github centralized commercial in that case right  
+**[9292.84s] English:** Thing, uh, really helped pull together and help solve some of the discoveries.  
 **Translation:** 
 
-**[9292.84s] English:** thing uh really helped pull together and help solve some of the discoveries  
+**[9296.56s] English:** Problems and help build a more consistent community, and so maybe there are opportunities.  
 **Translation:** 
 
-**[9296.56s] English:** problems and help build a more consistent community and so maybe there's opportunities  
+**[9301.48s] English:** For something like GitHub, yeah, although, even GitHub—I might be wrong on this—but  
 **Translation:** 
 
-**[9301.48s] English:** for something like a github for yeah although even github i might be wrong on this but the  
+**[9306.94s] English:** Search and discovery for GitHub is not that great; like, I still use Google search. Yeah, well, I mean.  
 **Translation:** 
 
-**[9306.94s] English:** search and discovery for github is not that great like i still use google search yeah well i mean  
+**[9313.90s] English:** Maybe that's because GitHub doesn't want to replace Google Search, right? And I think there,...  
 **Translation:** 
 
-**[9313.90s] English:** maybe that's because github doesn't want to replace google search right and i think there  
+**[9319.24s] English:** Is there room for specialized solutions to specific problems, but sure, I don't know; I don't know the.  
 **Translation:** 
 
-**[9319.24s] English:** is room for specialized solutions to specific problems but sure i don't know i don't know the  
+**[9324.28s] English:** The right answer for GitHub, I think.  
 **Translation:** 
 
-**[9324.28s] English:** right answer for github either that's i think  
+**[9326.56s] English:** They can go figure that out, but the point is to have an interface that's usable and accessible.  
 **Translation:** 
 
-**[9326.56s] English:** they can go figure that out but the point is to have an interface that's usable that's accessible  
-**Translation:** 
-
-**[9331.48s] English:** to people of all different skill levels well well and again like what are the benefit of standards  
+**[9331.48s] English:** To people of all different skill levels, well, well, and again, what are the benefits of standards?  
 **Translation:** Vocabulary: interface: 人机界面; usable: 可使用的
 
-**[9335.88s] English:** right standards allow you to build these next level up ecosystem the next level of infrastructure  
+**[9335.88s] English:** Right standards allow you to build these next-level ecosystems and infrastructure.  
 **Translation:** 
 
-**[9340.84s] English:** or next level of things and so um again come back to i hate complexity c c plus python is  
-**Translation:** Vocabulary: complexity: 复杂性
+**[9340.84s] English:** Or the next level of things, and so again, I come back to: I hate complexity. C++, Python, is...  
+**Translation:** Vocabulary: ecosystems: 生态系统
 
-**[9348.12s] English:** complicated it makes everything more difficult to deal with it makes it difficult to port move  
+**[9348.12s] English:** It complicates everything, making it more difficult to deal with. It makes it difficult to port and move.  
 **Translation:** 
 
-**[9352.84s] English:** code around work with all these things get more complicated and so  
+**[9352.84s] English:** Code around work with all these things gets more complicated, and so  
+**Translation:** Vocabulary: complicates: 使复杂化
+
+**[9356.56s] English:** I mean, I'm not an expert, but maybe Mojo can help a little bit by.  
 **Translation:** 
 
-**[9356.56s] English:** i mean i'm not an expert but maybe mojo can help a little bit by  
+**[9360.00s] English:** Helping to reduce the amount of C in this ecosystem.  
 **Translation:** 
 
-**[9360.00s] English:** helping reduce the amount of C in this ecosystem  
+**[9362.42s] English:** And make it, therefore, scale better.  
 **Translation:** 
 
-**[9362.42s] English:** and make it, therefore, scale better.  
-**Translation:** 
+**[9363.88s] English:** So, any kind of packages that are hybrid in nature,...  
+**Translation:** Vocabulary: hybrid: 混合的
 
-**[9363.88s] English:** So any kind of packages that are hybrid in nature  
-**Translation:** 
-
-**[9366.50s] English:** would be a natural fit to move to Moja.  
+**[9366.50s] English:** It would be a natural fit to move to Moja.  
 **Translation:** 
 
 **[9369.42s] English:** Which is a lot of them, by the way.  
@@ -7360,7 +7361,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9370.94s] English:** A lot of them, especially,  
 **Translation:** 
 
-**[9373.56s] English:** they're doing some interesting stuff, computation-wise.  
+**[9373.56s] English:** They're doing some interesting stuff, computation-wise.  
 **Translation:** 
 
 **[9376.82s] English:** Let me ask you about some features.  
@@ -7369,23 +7370,23 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9378.86s] English:** Yeah.  
 **Translation:** 
 
-**[9379.66s] English:** So we talked about, obviously, indentation,  
+**[9379.66s] English:** So, we talked about, obviously, indentation,  
 **Translation:** 
 
-**[9382.26s] English:** that it's a typed language or optionally typed.  
+**[9382.26s] English:** That it's a typed language, or optionally typed.  
 **Translation:** Vocabulary: indentation: 缩进; optionally: 可选地
 
 **[9385.80s] English:** Is that the right way to say it?  
 **Translation:** 
 
-**[9387.22s] English:** It's either optionally or progressively.  
-**Translation:** Vocabulary: progressively: 逐步地
+**[9387.22s] English:** It's either optional or progressive.  
+**Translation:** Vocabulary: optional: 任选的
 
 **[9389.04s] English:** Progressively.  
 **Translation:** 
 
-**[9389.44s] English:** So people have very strong opinions on the right word to use.  
-**Translation:** 
+**[9389.44s] English:** So, people have very strong opinions on the right word to use.  
+**Translation:** Vocabulary: progressively: 逐步地
 
 **[9393.58s] English:** Yeah.  
 **Translation:** 
@@ -7396,20 +7397,20 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9395.06s] English:** I look forward to your letters.  
 **Translation:** 
 
-**[9397.58s] English:** So there's the var versus let.  
+**[9397.58s] English:** So, there's `var` versus `let`.  
 **Translation:** 
 
-**[9400.08s] English:** But let is for constants.  
+**[9400.08s] English:** But let's talk about constants.  
 **Translation:** 
 
 **[9402.44s] English:** Var is an optional.  
-**Translation:** Vocabulary: constants: 常量; optional: 可选的
+**Translation:** Vocabulary: constants: 不变量
 
-**[9404.44s] English:** Yeah, var makes it mutable, so you can reassign.  
+**[9404.44s] English:** Yeah, `var` makes it mutable, so you can reassign.  
 **Translation:** 
 
 **[9407.16s] English:** Okay.  
-**Translation:** Vocabulary: reassign: 重新分配
+**Translation:** Vocabulary: mutable: 可变的; reassign: 重新赋值
 
 **[9408.28s] English:** Then there's function overloading.  
 **Translation:** 
@@ -7420,58 +7421,58 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9413.30s] English:** Yeah.  
 **Translation:** 
 
-**[9414.12s] English:** I mean, there's a lot of source of happiness for me,  
+**[9414.12s] English:** I mean, there are a lot of sources of happiness for me,  
 **Translation:** 
 
-**[9416.34s] English:** but function overloading, that's, I guess,  
+**[9416.34s] English:** But function overloading—that's, I guess,—  
 **Translation:** 
 
-**[9419.44s] English:** is that for performance?  
+**[9419.44s] English:** Is that for performance?  
 **Translation:** 
 
 **[9423.50s] English:** Why does Python not have function overloading?  
 **Translation:** 
 
-**[9427.04s] English:** So I can speculate.  
+**[9427.04s] English:** So, I can speculate.  
 **Translation:** Vocabulary: speculate: 猜测
 
-**[9428.40s] English:** So Python is a dynamic language.  
+**[9428.40s] English:** So, Python is a dynamic language.  
 **Translation:** 
 
-**[9430.58s] English:** The way it works is that Python and Objective-C  
+**[9430.58s] English:** The way it works is that Python and Objective-C.  
 **Translation:** 
 
-**[9435.18s] English:** are actually very similar worlds if you ignore syntax.  
+**[9435.18s] English:** Are actually very similar worlds, if you ignore syntax.  
 **Translation:** 
 
-**[9441.04s] English:** And so Objective-C is straight line derived from small talk,  
-**Translation:** Vocabulary: syntax: 语法规则
+**[9441.04s] English:** And so, Objective-C is a straight-line descendant of Smalltalk.  
+**Translation:** Vocabulary: descendant: 后代; syntax: 语法
 
-**[9446.58s] English:** a really venerable, interesting,  
+**[9446.58s] English:** A really venerable, interesting,  
 **Translation:** 
 
-**[9449.44s] English:** language that much of the world has forgotten about,  
-**Translation:** Vocabulary: venerable: 德高望重
+**[9449.44s] English:** Language that much of the world has forgotten about,  
+**Translation:** Vocabulary: venerable: 值得尊敬的
 
-**[9451.84s] English:** but the people that remember it love it, generally.  
+**[9451.84s] English:** But the people who remember it love it, generally.  
 **Translation:** 
 
 **[9454.84s] English:** And the way that small talk works is that every object  
 **Translation:** 
 
-**[9457.34s] English:** has a dictionary in it.  
+**[9457.34s] English:** It has a dictionary in it.  
 **Translation:** 
 
-**[9459.10s] English:** And the dictionary maps from the name of a function  
+**[9459.10s] English:** And the dictionary maps from the name of a function.  
 **Translation:** 
 
-**[9461.42s] English:** or the name of a value within an object to its implementation.  
+**[9461.42s] English:** Or, give the name of a value within an object to its implementation.  
 **Translation:** 
 
-**[9465.64s] English:** And so the way you call a method in Objective-C is you say,  
+**[9465.64s] English:** And so, the way you call a method in Objective-C is you say,  
 **Translation:** Vocabulary: implementation: 实现
 
-**[9469.02s] English:** go look up, the way I call foo is I go look up foo,  
+**[9469.02s] English:** Go look up: The way I call foo is "I go look up foo.  
 **Translation:** 
 
 **[9472.10s] English:** I get a pointer to the function back, and then I call it.  
@@ -7483,100 +7484,100 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9476.68s] English:** Right.  
 **Translation:** 
 
-**[9477.52s] English:** And so now the problem with that is that,  
+**[9477.52s] English:** And so now, the problem with that is that,  
 **Translation:** 
 
-**[9479.28s] English:** the dictionary  
+**[9479.28s] English:** The dictionary.  
 **Translation:** 
 
-**[9480.00s] English:** within a python object all the keys are strings and it's a dictionary yeah so you can only have  
+**[9480.00s] English:** Within a Python object, all the keys are strings and it's a dictionary, yeah, so you can only have  
 **Translation:** 
 
-**[9485.46s] English:** one entry per name you think it's as simple as that i think it's as simple as that and so now  
+**[9485.46s] English:** One entry per name — I think it's as simple as that. And so now,  
 **Translation:** 
 
-**[9490.60s] English:** why do they never fix this like why do they not change it to not be a dictionary when they don't  
+**[9490.60s] English:** Why do they never fix this? Like, why don't they change it to not be a dictionary when they don't need to?  
 **Translation:** 
 
-**[9495.52s] English:** change like do other things um well you don't really have to in python because it's dynamic  
+**[9495.52s] English:** Change, like, doing other things. Um, well, you don't really have to, in Python because it's dynamic.  
 **Translation:** 
 
-**[9501.40s] English:** and so you can say i get into the function now if i got past an integer do some dynamic tests for it  
+**[9501.40s] English:** And so, you can say, "I get into the function now. If I've passed an integer, do some dynamic tests for it.  
 **Translation:** 
 
-**[9507.22s] English:** if it's a string go do another thing um there's another additional challenge which is even if you  
+**[9507.22s] English:** If it's a string, go do another thing. Um, there's an additional challenge which is even if you  
 **Translation:** Vocabulary: integer: 整数
 
-**[9512.34s] English:** did support overloading you're saying okay well here's a version of a function for integers and  
+**[9512.34s] English:** Did you support overloading? You're saying, okay, here's a version of a function for integers and  
 **Translation:** 
 
-**[9516.44s] English:** a function for strings well you'd have even if you could put it in that dictionary you'd have  
+**[9516.44s] English:** A function for strings: well, you'd have, even if you could put it in that dictionary, you'd have.  
+**Translation:** Vocabulary: integers: 整数; overloading: 重载
+
+**[9520.64s] English:** To have the caller do the dispatch, and so every time you call the function, you'd have to say,  
 **Translation:** 
 
-**[9520.64s] English:** to have the caller do the dispatch and so every time you call the function you'd have to say like  
+**[9525.08s] English:** Is an integer, is a string, and so you'd have to figure out where to do that test, and so in a  
+**Translation:** Vocabulary: caller: 呼叫者; dispatch: 分发
+
+**[9529.52s] English:** Dynamic languages, um, overloading is something you generally don't have to have, so but now you  
 **Translation:** 
 
-**[9525.08s] English:** is an integer is a string and so you'd have to figure out where to do that test and so in a  
-**Translation:** Vocabulary: dispatch: 分发处理
-
-**[9529.52s] English:** dynamic language um overloading is something you generally you don't have to have so but now you  
+**[9536.48s] English:** Get into the test.  
 **Translation:** 
 
-**[9536.48s] English:** get into a test  
-**Translation:** Vocabulary: overloading: 重载函数
-
-**[9537.22s] English:** language and you know in python if you subscript with an integer then you get typically one element  
+**[9537.22s] English:** Language, and you know, in Python if you subscript with an integer, then you typically get one element.  
 **Translation:** 
 
-**[9544.92s] English:** out of a collection if you subscript with a range you get a different thing out right and so often  
+**[9544.92s] English:** Out of a collection, if you subscript with a range, you get a different thing, right? And so often,...  
 **Translation:** 
 
-**[9551.04s] English:** in type languages you'll want to be able to express the fact that cool i have different behavior  
+**[9551.04s] English:** In type languages, you'll want to be able to express the fact that "cool" has different behavior.  
 **Translation:** 
 
-**[9556.22s] English:** depending on what i actually pass into this thing if you can model that it can make it safer and  
+**[9556.22s] English:** Depending on what I actually pass into this thing, if you can model that, it can make it safer and...  
 **Translation:** 
 
-**[9560.76s] English:** more predictable and faster and like all these things it somehow feels safer yes but also feels  
+**[9560.76s] English:** More predictable and faster, and like all these things, it somehow feels safer. Yes, but also feels...  
 **Translation:** 
 
-**[9566.96s] English:** impossible  
+**[9566.96s] English:** Impossible.  
 **Translation:** Vocabulary: predictable: 可预测的
 
-**[9567.22s] English:** like in terms of clarity like you don't have to design hold different functions yeah well this is  
+**[9567.22s] English:** Like, in terms of clarity, you don't have to design for different functions, yeah? Well, this is  
 **Translation:** 
 
-**[9573.32s] English:** also one of the the challenges with the existing python typing systems is that in practice like you  
+**[9573.32s] English:** Also, one of the challenges with the existing Python typing systems is that, in practice, like you  
+**Translation:** Vocabulary: clarity: 清晰性
+
+**[9580.64s] English:** Take, for example, many of these functions; they don't have just one signature.  
 **Translation:** 
 
-**[9580.64s] English:** take subscript like in practice a lot of these functions they don't have one signature they  
+**[9585.78s] English:** Actually, they have different behaviors in different cases, and so this is why it's difficult to like.  
 **Translation:** 
 
-**[9585.78s] English:** actually have different behavior in different cases and so this is why it's difficult to like  
+**[9589.70s] English:** Retrofit this into existing Python code and make it play well with typing; you kind of have to design it that way.  
 **Translation:** 
 
-**[9589.70s] English:** retrofit this into existing python code and make it play well with typing you kind of have to design  
+**[9596.48s] English:** For that,  
+**Translation:** Vocabulary: retrofit: 改造以适应
+
+**[9597.22s] English:** Okay, so there's an interesting distinction.  
 **Translation:** 
 
-**[9596.48s] English:** for that  
-**Translation:** Vocabulary: retrofit: 返工以适应
-
-**[9597.22s] English:** okay so there's a interesting distinction  
+**[9600.00s] English:** That, for people who program in Python, might be interesting is "def" versus "fn".  
 **Translation:** 
 
-**[9600.00s] English:** that people that program Python might be interested in is def versus fn.  
+**[9605.48s] English:** So, it's two different ways to define a function.  
 **Translation:** 
 
-**[9605.48s] English:** So it's two different ways to define a function.  
+**[9608.76s] English:** And Fn is a stricter version of Def.  
 **Translation:** 
 
-**[9608.76s] English:** And fn is a stricter version of def.  
+**[9613.58s] English:** What's the coolness that comes from strictness?  
 **Translation:** 
 
-**[9613.58s] English:** What's the coolness that comes from the strictness?  
-**Translation:** 
-
-**[9616.26s] English:** So here you get into what is the tradeoff with a superset?  
+**[9616.26s] English:** So, here you get into what is the tradeoff with a superset?  
 **Translation:** Vocabulary: tradeoff: 权衡取舍
 
 **[9619.84s] English:** Yes.  
@@ -7585,13 +7586,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9620.52s] English:** Okay.  
 **Translation:** 
 
-**[9621.22s] English:** So a superset, you have to or you really want to be compatible.  
+**[9621.22s] English:** So, a superset, you have to or you really want to be compatible.  
 **Translation:** 
 
-**[9624.88s] English:** If you're doing a superset, you've decided compatibility with existing code.  
+**[9624.88s] English:** If you're doing a superset, you've decided on compatibility with existing code.  
 **Translation:** Vocabulary: compatibility: 兼容性; compatible: 兼容的
 
-**[9630.00s] English:** It's the important thing, even if some of the decisions they made were maybe not what you choose.  
+**[9630.00s] English:** It's the important thing, even if some of the decisions they made were maybe not what you chose.  
 **Translation:** 
 
 **[9634.34s] English:** Yeah.  
@@ -7600,80 +7601,80 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9634.74s] English:** Okay.  
 **Translation:** 
 
-**[9636.04s] English:** So that means you put a lot of time into compatibility, and it means that you get locked into decisions of the past, even if they may not have been a good thing, right?  
+**[9636.04s] English:** So, that means you put a lot of time into compatibility, and it means that you get locked into decisions of the past, even if they may not have been a good thing, right?  
 **Translation:** 
 
 **[9644.38s] English:** Now, systems programmers typically like to control things, right?  
 **Translation:** 
 
-**[9649.18s] English:** And they want to make sure that, you know, not in all cases, of course, and even systems programmers are not one thing, right?  
+**[9649.18s] English:** And they want to make sure that, you know, not in all cases, of course, and even systems programmers aren't one thing, right?  
 **Translation:** Vocabulary: programmers: 程序员
 
-**[9655.24s] English:** But often you want predictability.  
+**[9655.24s] English:** But often, you want predictability.  
 **Translation:** 
 
-**[9657.54s] English:** And so one of the things that Python has, for example...  
+**[9657.54s] English:** And so, one of the things that Python has, for example,...  
 **Translation:** 
 
-**[9660.00s] English:** As you know, is that if you define a variable, you just say x equals 4.  
+**[9660.00s] English:** As you know, if you define a variable, you just say x = 4.  
 **Translation:** 
 
 **[9663.88s] English:** I have a variable named x.  
 **Translation:** 
 
-**[9666.62s] English:** Now I say some long name equals 17.  
+**[9666.62s] English:** Now, I say some long name equals 17.  
 **Translation:** 
 
 **[9671.32s] English:** Print out some long name.  
-**Translation:** 
+**Translation:** Vocabulary: equals: 等于
 
-**[9673.38s] English:** Oops, but I typoed it.  
+**[9673.38s] English:** Oops, but I typosped it.  
 **Translation:** 
 
 **[9675.32s] English:** Right?  
+**Translation:** Vocabulary: typosped: 打错字
+
+**[9675.54s] English:** Well, the Python compiler doesn't always know what you're defining and what you're using.  
 **Translation:** 
 
-**[9675.54s] English:** Well, the compiler, the Python compiler doesn't know, in all cases, what you're defining and what you're using.  
-**Translation:** 
-
-**[9681.08s] English:** And did you typo the use of it or the definition?  
+**[9681.08s] English:** And did you typo the use of "it" or the definition?  
 **Translation:** 
 
 **[9684.64s] English:** Right?  
 **Translation:** 
 
-**[9684.76s] English:** And so for people coming from type languages, again, I'm not saying they're right or wrong.  
+**[9684.76s] English:** And so, for people coming from typed languages, again, I'm not saying they're right or wrong.  
 **Translation:** 
 
-**[9690.00s] English:** But that drives them crazy because they want the compiler to tell them, you typoed the name of this thing, right?  
+**[9690.00s] English:** But that drives them crazy because they want the compiler to tell them, "You typoed the name of this thing," right?  
 **Translation:** 
 
-**[9695.34s] English:** And so what FN does is it turns on, as you say, it's a strict mode.  
+**[9695.34s] English:** And so what FN does is it turns on, as you say, it's in strict mode.  
 **Translation:** 
 
-**[9698.68s] English:** And so it says, okay, well, you have to actually intentionally declare your variables before you use them.  
+**[9698.68s] English:** And so it says: Okay, well, you have to actually intentionally declare your variables before you use them.  
 **Translation:** 
 
-**[9703.34s] English:** That gives you more predictability, more error checking and things like this.  
+**[9703.34s] English:** That gives you more predictability, more error-checking, and things like that.  
 **Translation:** 
 
 **[9707.54s] English:** But you don't have to use it.  
 **Translation:** 
 
-**[9711.66s] English:** And this is a way that Mojo is both compatible, because defs work the same way that defs have always worked.  
-**Translation:** 
+**[9711.66s] English:** And this is a way that Mojo is both compatible, because defs work the same way that they have always worked.  
+**Translation:** Vocabulary: compatible: 兼容的
 
 **[9717.80s] English:** But it provides a new alternative that gives you more compatibility.  
 **Translation:** 
 
-**[9720.00s] English:** and it allows certain kinds of people that have a different philosophy  
-**Translation:** 
+**[9720.00s] English:** And it allows certain kinds of people who have a different philosophy.  
+**Translation:** Vocabulary: compatibility: 兼容性
 
-**[9723.04s] English:** to be able to express that and get that.  
+**[9723.04s] English:** To be able to express that and get it.  
 **Translation:** 
 
 **[9725.50s] English:** But usually, if you're writing Mojo code from scratch, you'll be using Fn.  
-**Translation:** 
+**Translation:** Vocabulary: scratch: 从零开始
 
 **[9730.52s] English:** It depends.  
 **Translation:** 
@@ -7681,29 +7682,29 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9731.28s] English:** Again, it depends on your mentality, right?  
 **Translation:** 
 
-**[9733.32s] English:** It's not that def is Python and Fn is Mojo.  
+**[9733.32s] English:** It's not that DEF is Python and FN is Mojo.  
 **Translation:** 
 
 **[9737.64s] English:** Mojo has both, and it loves both, right?  
 **Translation:** 
 
-**[9739.70s] English:** It really depends on...  
+**[9739.70s] English:** It really depends on....  
 **Translation:** 
 
-**[9740.58s] English:** Python is just straight.  
-**Translation:** 
+**[9740.58s] English:** Python is just straightforward.  
+**Translation:** Vocabulary: straightforward: 直截了当
 
 **[9741.40s] English:** Yeah, exactly.  
 **Translation:** 
 
-**[9742.32s] English:** Are you playing around and scripting something out,  
+**[9742.32s] English:** Are you playing around and scripting something out?  
 **Translation:** 
 
-**[9745.06s] English:** and is it a one-off throwaway script?  
+**[9745.06s] English:** And is it a one-off, throwaway script?  
 **Translation:** 
 
 **[9747.14s] English:** Cool.  
-**Translation:** Vocabulary: throwaway: 一次性用品
+**Translation:** Vocabulary: throwaway: 一次性使用的
 
 **[9747.70s] English:** Like, Python is great at that.  
 **Translation:** 
@@ -7747,43 +7748,43 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9767.86s] English:** And I love other people who like strict things, right?  
 **Translation:** 
 
-**[9770.44s] English:** But I don't want to say that that's the right thing,  
+**[9770.44s] English:** But I don't want to say that that's the right thing.  
 **Translation:** 
 
-**[9773.50s] English:** because Python is also very beautiful for hacking around  
+**[9773.50s] English:** Because Python is also very beautiful for hacking around.  
 **Translation:** Vocabulary: hacking: 随意编程
 
-**[9775.90s] English:** and doing stuff and research and these other cases  
+**[9775.90s] English:** And doing stuff, researching, and these other cases.  
 **Translation:** 
 
-**[9778.30s] English:** where you may not want that.  
-**Translation:** 
+**[9778.30s] English:** Where you may not want that.  
+**Translation:** Vocabulary: researching: 研究
 
 **[9779.20s] English:** You see, I just feel like...  
 **Translation:** 
 
-**[9781.50s] English:** Maybe I'm wrong on that,  
+**[9781.50s] English:** Maybe I'm wrong about that.  
 **Translation:** 
 
-**[9782.60s] English:** but it feels like strictness leads to faster debugging.  
+**[9782.60s] English:** But it feels like strictness leads to faster debugging.  
 **Translation:** 
 
-**[9785.68s] English:** So in terms of going from...  
+**[9785.68s] English:** So, in terms of going from,...  
 **Translation:** 
 
 **[9787.82s] English:** Even on a small project, from zero to completion,  
 **Translation:** 
 
-**[9790.82s] English:** it just...  
+**[9790.82s] English:** It just...  
+**Translation:** Vocabulary: completion: 完成
+
+**[9791.60s] English:** I guess it depends on how many bugs you generate, usually.  
 **Translation:** 
 
-**[9791.60s] English:** I guess it depends how many bugs you generate, usually.  
+**[9794.94s] English:** Well, so, I mean, it's again, lessons learned.  
 **Translation:** 
 
-**[9794.94s] English:** Well, so, I mean, it's, again, lessons learned  
-**Translation:** 
-
-**[9796.88s] English:** in looking at the ecosystem.  
+**[9796.88s] English:** In looking at the ecosystem.  
 **Translation:** 
 
 **[9798.08s] English:** It's really...  
@@ -7795,31 +7796,31 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9800.60s] English:** If you study some of these languages over time,  
 **Translation:** 
 
-**[9802.88s] English:** like the Ruby community, for example.  
+**[9802.88s] English:** Like the Ruby community, for example.  
 **Translation:** 
 
 **[9805.22s] English:** Now, Ruby is a pretty well-developed,  
 **Translation:** 
 
-**[9807.16s] English:** pretty established community,  
+**[9807.16s] English:** Pretty established community,  
 **Translation:** 
 
-**[9808.12s] English:** but along the way, it's a pretty well-developed community.  
+**[9808.12s] English:** But along the way, it's a pretty well-developed community.  
 **Translation:** 
 
-**[9809.10s] English:** So I think that the Ruby community  
+**[9809.10s] English:** So, I think that the Ruby community  
 **Translation:** 
 
-**[9813.32s] English:** has really pushed forward the state-of-the-art of testing  
+**[9813.32s] English:** Has really pushed forward the state-of-the-art of testing.  
 **Translation:** 
 
-**[9816.52s] English:** because they didn't have a type system  
+**[9816.52s] English:** Because they didn't have a type system.  
 **Translation:** 
 
-**[9818.42s] English:** that caught a lot of bugs at compile time, right?  
-**Translation:** 
+**[9818.42s] English:** That caught a lot of bugs at compile time, right?  
+**Translation:** Vocabulary: compile: 编译
 
-**[9820.92s] English:** And so you can have the best of both worlds.  
+**[9820.92s] English:** And so, you can have the best of both worlds.  
 **Translation:** 
 
 **[9823.20s] English:** You can have good testing and good types, right?  
@@ -7828,20 +7829,20 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9824.86s] English:** And things like this.  
 **Translation:** 
 
-**[9825.86s] English:** But I thought that it was really interesting  
+**[9825.86s] English:** But I thought that it was really interesting.  
 **Translation:** 
 
-**[9827.72s] English:** to see how certain challenges get solved.  
+**[9827.72s] English:** To see how certain challenges get solved.  
 **Translation:** 
 
 **[9830.06s] English:** And in Python, for example,  
 **Translation:** 
 
-**[9831.94s] English:** the interactive notebook kind of experiences  
+**[9831.94s] English:** The interactive notebook kind of experiences  
 **Translation:** 
 
-**[9833.68s] English:** and stuff like this are really amazing.  
-**Translation:** Vocabulary: interactive: 互动的
+**[9833.68s] English:** And stuff like this is really amazing.  
+**Translation:** Vocabulary: interactive: 交互式的
 
 **[9835.54s] English:** And if you typo something, it doesn't matter.  
 **Translation:** 
@@ -7852,176 +7853,176 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[9838.46s] English:** That's fine.  
 **Translation:** 
 
-**[9838.82s] English:** And so I think...  
+**[9838.82s] English:** And so, I think...  
 **Translation:** 
 
-**[9840.00s] English:** that the trade-offs are very different if you're building a um you know large-scale production  
+**[9840.00s] English:** That the trade-offs are very different if you're building a large-scale production system.  
 **Translation:** 
 
-**[9844.16s] English:** system versus you're building and exploring a notebook and speaking of control the hilarious  
+**[9844.16s] English:** System versus, you're building and exploring a notebook. And speaking of control, the hilarious...  
+**Translation:** Vocabulary: hilarious: 滑稽的
+
+**[9848.92s] English:** If you look at the code I write just for myself for fun, it's littered with asserts everywhere.  
 **Translation:** 
 
-**[9848.92s] English:** thing if you look at code i write just for myself for fun it's like littered with asserts everywhere  
+**[9854.26s] English:** Okay, it's kind of yeah, you'd like types; it's basically saying, uh, in a dictatorial way.  
+**Translation:** Vocabulary: asserts: 断言; dictatorial: 专制的; littered: 布满
+
+**[9864.10s] English:** This should be true now, otherwise, everything stops. Well, and that's the sign again.  
 **Translation:** 
 
-**[9854.26s] English:** okay it's it's a kind of yeah you'd like types it's basically saying uh in a dictatorial way  
-**Translation:** Vocabulary: dictatorial: 专制; littered: 布满
-
-**[9864.10s] English:** this should be true now otherwise everything stops well and that that is the sign again i  
+**[9871.16s] English:** Love you, man, but that is a sign of somebody who likes control, yeah. And so, yes, I think that you'll  
 **Translation:** 
 
-**[9871.16s] English:** love you man but that is a sign of somebody who likes control yeah and so yes i think that you'll  
+**[9876.18s] English:** Like, fn, this turn, I think you'll like Mojo Therapy session. Yes, I definitely will. Uh, uh, speaking of...  
 **Translation:** 
 
-**[9876.18s] English:** like fn this turn i think you'll like mojo therapy session yes i definitely will uh uh speaking of  
+**[9882.86s] English:** Asserts: Uh, exceptions are called errors. Why is it called "errors"? So, we... I mean, we use the same...  
 **Translation:** 
 
-**[9882.86s] English:** asserts uh exceptions are called errors why is it called errors so we i mean we we use the same  
+**[9889.08s] English:** We're the same as Python, right? But we implement it in a very different way, right?  
 **Translation:** 
 
-**[9889.08s] English:** we're the same as python right but um we implement in a very different way right and so  
+**[9894.10s] English:** If you look at other languages, like we'll pick on C++, our favorite, right? C++ has a thing,  
+**Translation:** Vocabulary: implement: 实现
+
+**[9900.62s] English:** Called zero-cost exception handling; okay, so, and this is, in my opinion, something to learn from.  
 **Translation:** 
 
-**[9894.10s] English:** if you look at um other languages like we'll pick on c++ our favorite right uh c++ has a thing  
+**[9908.42s] English:** From it's a nice, polite way of saying it, and so on, and so forth, zero-cost exception handling the way.  
 **Translation:** 
 
-**[9900.62s] English:** called zero cost exception handling okay so and this is in my opinion something to learn lessons  
+**[9915.52s] English:** It works is that it's called "zero cost" because if you don't throw an exception, there's supposed to be.  
 **Translation:** 
 
-**[9908.42s] English:** from it's a nice polite way of saying it and so um and so zero cost exception handling the way  
+**[9921.66s] English:** There will be no overhead for the non-error.  
 **Translation:** 
 
-**[9915.52s] English:** it works is that it's called zero cost because if you don't throw an exception there's supposed to  
+**[9924.04s] English:** Um.  
 **Translation:** 
 
-**[9921.66s] English:** be no overhead for the non-error  
+**[9924.10s] English:** Code, and so it takes the error path out of the common path. It does this by making...  
 **Translation:** 
 
-**[9924.04s] English:** um  
+**[9932.00s] English:** Throwing an error is extremely expensive, and so if you actually throw an error with a C++ compiler,...  
 **Translation:** 
 
-**[9924.10s] English:** code and so it takes the error path out of the uh the common path um it does this by making  
+**[9937.96s] English:** Using exceptions has to go look up in tables on the side and do all this stuff, and so throwing...  
+**Translation:** Vocabulary: exceptions: 异常
+
+**[9942.38s] English:** An error could be 10,000 times more expensive than returning from a function, right? Also, it's  
 **Translation:** 
 
-**[9932.00s] English:** throwing an error extremely expensive and so if you actually throw an error with a c++ compiler  
+**[9948.68s] English:** Called "zero cost" exceptions, but it's not zero cost by any stretch of the imagination because  
 **Translation:** 
 
-**[9937.96s] English:** using exceptions has to go look up in tables on the side and do all this stuff and so throwing  
-**Translation:** Vocabulary: exceptions: 异常处理
-
-**[9942.38s] English:** an error could be like 10 000 times more expensive than returning from a function right um also it's  
+**[9953.04s] English:** It massively bloats out.  
 **Translation:** 
 
-**[9948.68s] English:** called zero cost exceptions but it's not zero cost by any stretch of the imagination because  
-**Translation:** 
+**[9954.04s] English:** Your code, your binary, it also adds a whole bunch of different paths because of destruction.  
+**Translation:** Vocabulary: binary: 可执行文件; bloats: 膨胀; massively: 大幅地
 
-**[9953.04s] English:** it massively bloats out  
-**Translation:** 
-
-**[9954.04s] English:** your code your binary it also adds a whole bunch of different paths because of destruction  
-**Translation:** Vocabulary: binary: 二进制文件; bloats: 膨胀; massively: 大量地
-
-**[9960.00s] English:** and other things like that that exist in C++.  
+**[9960.00s] English:** And other things, like that, exist in C++.  
 **Translation:** 
 
 **[9962.46s] English:** And it reduces the number of optimizations.  
 **Translation:** Vocabulary: optimizations: 优化
 
-**[9964.60s] English:** It has like all these effects.  
+**[9964.60s] English:** It has, like, all these effects.  
 **Translation:** 
 
-**[9966.24s] English:** And so this thing that was called zero cost exceptions,  
+**[9966.24s] English:** And so, this thing that was called "zero-cost exceptions,  
 **Translation:** 
 
-**[9969.88s] English:** it really ain't, okay?  
+**[9969.88s] English:** It really isn't, okay?  
 **Translation:** 
 
-**[9972.44s] English:** Now, if you fast forward to newer languages  
+**[9972.44s] English:** Now, if you fast-forward to newer languages,...  
 **Translation:** 
 
-**[9975.76s] English:** and this includes Swift and Rust and Go and now Mojo,  
+**[9975.76s] English:** And this includes Swift and Rust and Go, and now Mojo.  
 **Translation:** 
 
-**[9982.88s] English:** well, and Python's a little bit different  
+**[9982.88s] English:** Well, and Python's a little bit different.  
 **Translation:** 
 
-**[9984.12s] English:** because it's interpreted.  
+**[9984.12s] English:** Because it's interpreted.  
 **Translation:** 
 
-**[9985.00s] English:** And so like, it's got a little bit  
-**Translation:** Vocabulary: interpreted: 解释
+**[9985.00s] English:** And so, it's got a little bit.  
+**Translation:** Vocabulary: interpreted: 解释过的
 
-**[9986.22s] English:** of a different thing going on.  
+**[9986.22s] English:** Of a different thing going on.  
 **Translation:** 
 
 **[9987.06s] English:** But if you look at compiled languages,  
+**Translation:** Vocabulary: compiled: 编译的
+
+**[9990.00s] English:** Many newer languages say, "Okay, well,  
 **Translation:** 
 
-**[9990.00s] English:** many newer languages say, okay, well,  
+**[9993.46s] English:** Let's not do that zero-cost exception handling thing.  
 **Translation:** 
 
-**[9993.46s] English:** let's not do that zero cost exception handling thing.  
+**[9997.00s] English:** Let's actually treat throwing an error the same.  
 **Translation:** 
 
-**[9997.00s] English:** Let's actually treat throwing an error the same  
+**[10000.10s] English:** As returning a variant,  
 **Translation:** 
 
-**[10000.10s] English:** as returning a variant,  
-**Translation:** 
-
-**[10002.96s] English:** returning either the normal result or an error.  
+**[10002.96s] English:** Returning either the normal result or an error.  
 **Translation:** 
 
 **[10006.82s] English:** Now, programmers generally don't want to deal  
 **Translation:** Vocabulary: programmers: 程序员
 
-**[10010.62s] English:** with all the typing machinery  
+**[10010.62s] English:** With all the typing machinery,  
 **Translation:** 
 
-**[10011.98s] English:** and like pushing around a variant.  
-**Translation:** Vocabulary: machinery: 机器设备
+**[10011.98s] English:** And, like, pushing around a variant.  
+**Translation:** Vocabulary: machinery: 机器
 
-**[10014.76s] English:** And so you use all the syntax that Python gives us,  
+**[10014.76s] English:** And so you use all the syntax that Python gives us.  
 **Translation:** 
 
-**[10017.26s] English:** for example, try and catch,  
+**[10017.26s] English:** For example, try and catch,  
 **Translation:** Vocabulary: syntax: 语法规则
 
-**[10018.60s] English:** you know, functions that raise and things like this.  
+**[10018.60s] English:** You know, functions that raise and things like this.  
 **Translation:** 
 
-**[10021.52s] English:** You can put a raises decorator on your functions,  
+**[10021.52s] English:** You can put a @raises decorator on your functions.  
 **Translation:** Vocabulary: decorator: 装饰器
 
-**[10024.32s] English:** stuff like this.  
+**[10024.32s] English:** Stuff like this.  
 **Translation:** 
 
 **[10025.24s] English:** And if you want to control that,  
 **Translation:** 
 
-**[10026.68s] English:** and then the language can provide syntax for it,  
+**[10026.68s] English:** And then the language can provide syntax for it.  
 **Translation:** 
 
-**[10029.90s] English:** but under the hood, the way the computer executes it,  
+**[10029.90s] English:** But under the hood, the way the computer executes it,  
 **Translation:** Vocabulary: executes: 运行
 
-**[10032.56s] English:** throwing an error is basically as fast as returning something.  
+**[10032.56s] English:** Throwing an error is basically as fast as returning something.  
 **Translation:** 
 
 **[10035.86s] English:** Oh, interesting.  
 **Translation:** 
 
-**[10036.70s] English:** So it's exactly the same way from a compiler perspective.  
+**[10036.70s] English:** So, it's exactly the same way from a compiler perspective.  
 **Translation:** 
 
-**[10039.12s] English:** And so this is actually, I mean,  
+**[10039.12s] English:** And so, this is actually—I mean,  
 **Translation:** 
 
-**[10041.26s] English:** it's a fairly nerdy thing, right?  
+**[10041.26s] English:** It's a fairly nerdy thing, right?  
 **Translation:** 
 
 **[10043.24s] English:** Which is why I love it.  
-**Translation:** Vocabulary: nerdy: 书呆子气的
+**Translation:** Vocabulary: nerdy: 书呆子的
 
 **[10044.80s] English:** But this has a huge impact on the way you design your API.  
 **Translation:** 
@@ -8029,25 +8030,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10047.90s] English:** You design your APIs, right?  
 **Translation:** 
 
-**[10049.82s] English:** So in C++, huge communities turn off exceptions  
+**[10049.82s] English:** So, in C++, huge communities turn off exceptions.  
 **Translation:** 
 
-**[10055.06s] English:** because the cost is just so high, right?  
+**[10055.06s] English:** Because the cost is just so high, right?  
+**Translation:** Vocabulary: exceptions: 异常处理
+
+**[10057.52s] English:** And so the zero-cost cost is so high, right?  
 **Translation:** 
 
-**[10057.52s] English:** And so the zero cost cost is so high, right?  
+**[10060.42s] English:** And so, that means that you can't actually use exceptions.  
 **Translation:** 
 
-**[10060.42s] English:** And so that means that you can't actually use exceptions  
-**Translation:** Vocabulary: exceptions: 例外情况
-
-**[10063.42s] English:** in many libraries, right?  
+**[10063.42s] English:** In many libraries, right?  
 **Translation:** 
 
-**[10066.62s] English:** And even for the people that do use it, well, okay,  
+**[10066.62s] English:** And even for the people who do use it, well, okay,  
 **Translation:** 
 
-**[10069.46s] English:** how and when do you want to pay the cost?  
+**[10069.46s] English:** How and when do you want to pay the cost?  
 **Translation:** 
 
 **[10071.92s] English:** If I try to open a file, should I throw an error?  
@@ -8057,57 +8058,57 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[10077.88s] English:** Right?  
-**Translation:** 
+**Translation:** Vocabulary: probing: 试探
 
 **[10078.72s] English:** I'm looking it up and made different paths.  
 **Translation:** 
 
-**[10080.00s] English:** If it's really slow to do that, maybe I'll add another function that doesn't throw an error or turns an error code instead.  
+**[10080.00s] English:** If it's really slow to do that, maybe I'll add another function that doesn't throw an error or returns an error code instead.  
 **Translation:** 
 
-**[10086.90s] English:** And now I have two different versions of the same thing.  
+**[10086.90s] English:** And now, I have two different versions of the same thing.  
 **Translation:** 
 
 **[10089.12s] English:** And so it causes you to fork your APIs.  
 **Translation:** 
 
-**[10091.68s] English:** And so, you know, one of the things I learned from Apple and I still love is the art of API design is actually really profound.  
+**[10091.68s] English:** And so, you know, one of the things I learned from Apple—and I still love—is the art of API design; it's actually really profound.  
 **Translation:** 
 
-**[10098.76s] English:** I think this is something that Python's also done a pretty good job at in terms of building out this large-scale package ecosystem.  
-**Translation:** Vocabulary: profound: 深奥
+**[10098.76s] English:** I think this is something that Python has also done a pretty good job at, in terms of building out this large-scale package ecosystem.  
+**Translation:** Vocabulary: profound: 深奥的
 
-**[10104.30s] English:** It's about having standards and things like this.  
+**[10104.30s] English:** It's about having standards, and things like this.  
 **Translation:** 
 
 **[10106.26s] English:** And so, you know, we wouldn't want to enter a mode where, you know, there's this theoretical feature that exists in language, but people don't use it in practice.  
 **Translation:** 
 
-**[10114.84s] English:** Now, I'll also say one of the other really cool things about this implementation approach is that it can run on GPUs and it can run on accelerators and things like this.  
+**[10114.84s] English:** Now, I'll also say that one of the other really cool things about this implementation approach is that it can run on GPUs and accelerators, and things like this.  
 **Translation:** 
 
-**[10122.46s] English:** And that standard zero-cost exception thing would never work on an accelerator.  
+**[10122.46s] English:** And that "standard zero-cost exception" thing would never work on an accelerator.  
 **Translation:** Vocabulary: accelerator: 加速器; accelerators: 加速器; implementation: 实现方式
 
-**[10127.42s] English:** And so this is also part of how Mojo can scale all the way down to, like, little embedded systems and to running on GPUs and things like that.  
+**[10127.42s] English:** And so, this is also part of how Mojo can scale all the way down to, like, little embedded systems and to running on GPUs and things like that.  
 **Translation:** 
 
-**[10134.40s] English:** Can you actually say about this?  
+**[10134.40s] English:** Can you actually say anything about this?  
 **Translation:** 
 
-**[10136.26s] English:** Maybe is there some high-level way to describe the challenge of exceptions and how they work in code during compilation?  
+**[10136.26s] English:** Maybe there's a high-level way to describe the challenge of exceptions and how they work in code during compilation?  
 **Translation:** 
 
-**[10146.66s] English:** So it's just this idea of percolating up a thing, an error.  
-**Translation:** Vocabulary: compilation: 编译; percolating: 渗透
+**[10146.66s] English:** So it's just the idea of percolating up an error.  
+**Translation:** Vocabulary: compilation: 编译; exceptions: 异常; percolating: 传导
 
 **[10151.92s] English:** Yeah.  
 **Translation:** 
 
-**[10152.56s] English:** Yeah, so the way to think about it is think about a function that doesn't return anything, just as a simple case, right?  
+**[10152.56s] English:** Yeah, so the way to think about it is to consider a function that doesn't return anything, just as a simple case, right?  
 **Translation:** 
 
-**[10158.28s] English:** And so you have function one calls function two, calls function three, calls function four.  
+**[10158.28s] English:** And so you have Function One calling Function Two, which calls Function Three, which calls Function Four.  
 **Translation:** 
 
 **[10164.94s] English:** Along that call stack.  
@@ -8116,10 +8117,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10166.26s] English:** There are try blocks, right?  
 **Translation:** 
 
-**[10168.14s] English:** And so if you have function one calls function two, function two has a try block, and then within it, it calls function three, right?  
+**[10168.14s] English:** And so, if you have Function One calling Function Two, and Function Two has a try block, and then within it, it calls Function Three, right?  
 **Translation:** 
 
-**[10174.40s] English:** Well, what happens if function three throws?  
+**[10174.40s] English:** Well, what happens if Function Three throws?  
 **Translation:** 
 
 **[10177.72s] English:** Well, actually, start simpler.  
@@ -8128,85 +8129,85 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10179.44s] English:** What happens if it returns?  
 **Translation:** 
 
-**[10180.68s] English:** Well, if it returns, it's supposed to go back out and continue executing and then fall off the bottom of the try block and keep going and all's good.  
-**Translation:** 
+**[10180.68s] English:** Well, if it returns, it's supposed to go back out and continue executing, and then fall off the bottom of the try block and keep going; all's good.  
+**Translation:** Vocabulary: executing: 运行中
 
 **[10186.50s] English:** But if the function throws, you're supposed to exit the current function and then get into the accept clause, right?  
 **Translation:** 
 
-**[10194.10s] English:** And then do whatever code's there and then keep falling off.  
+**[10194.10s] English:** And then do whatever code is there, and then keep falling off.  
+**Translation:** Vocabulary: clause: 条款
+
+**[10196.26s] English:** And so, the way that a compiler like Mojo works.  
 **Translation:** 
 
-**[10196.26s] English:** And so the way that a compiler like Mojo works.  
+**[10200.00s] English:** Is that the call to that function, which happens in the accept block, calls a function, and then  
 **Translation:** 
 
-**[10200.00s] English:** is that the call to that function, which happens in the accept block, calls a function, and then  
+**[10206.00s] English:** Instead of returning nothing, it actually returns a variant between nothing and an error.  
 **Translation:** 
 
-**[10206.00s] English:** instead of returning nothing, it actually returns, you know, a variant between nothing and an error.  
+**[10213.00s] English:** And so, if you return normally, fall off the bottom, or do return, you return nothing. And if you throw,...  
 **Translation:** 
 
-**[10213.00s] English:** And so if you return normally, fall off the bottom or do return, you return nothing. And if you throw  
+**[10219.00s] English:** An error: You return the variant that is, I'm an error, right? So when you get to the call,  
 **Translation:** 
 
-**[10219.00s] English:** an error, you return the variant that is, I'm an error, right? So when you get to the call,  
+**[10225.38s] English:** You say, "Okay, cool, I called a function." Hey, I know locally I'm in a try block, right? And so I  
 **Translation:** 
 
-**[10225.38s] English:** you say, okay, cool, I called a function. Hey, I know locally I'm in a try block, right? And so I  
+**[10231.12s] English:** Call the function, and then I check to see what it returns. Aha, if it's that error thing,...  
 **Translation:** 
 
-**[10231.12s] English:** call the function, and then I check to see what it returns. Aha, if it's that error thing,  
+**[10235.60s] English:** Jump to the accept block, and that's all done for you behind the scenes, exactly. And so the  
 **Translation:** 
 
-**[10235.60s] English:** jump to the accept block. And that's all done for you behind the scenes. Exactly. And so the  
+**[10240.56s] English:** The compiler does all this for you. And, I mean, one of the things—if you dig into how this stuff works—  
 **Translation:** 
 
-**[10240.56s] English:** compiler does all this for you. And I mean, one of the things, if you dig into how this stuff works  
+**[10244.64s] English:** In Python, it gets a little bit more complicated because you have finally blocks, which now you  
 **Translation:** 
 
-**[10244.64s] English:** in Python, it gets a little bit more complicated because you have finally blocks, which now you  
-**Translation:** 
-
-**[10249.78s] English:** need to go into, do some stuff, and then those can also throw and return. Wait, what?  
+**[10249.78s] English:** Need to go into, do some stuff, and then those can also throw and return. Wait, what?  
 **Translation:** 
 
 **[10254.72s] English:** Yeah.  
 **Translation:** 
 
-**[10255.38s] English:** Oh, and like this stuff matters for compatibility. Like there's-  
+**[10255.38s] English:** Oh, and like this stuff matters for compatibility. Like, there's—  
 **Translation:** 
 
 **[10259.68s] English:** Really? You can nest them?  
 **Translation:** Vocabulary: compatibility: 兼容性
 
-**[10260.82s] English:** There's with clauses. And so with clauses are kind of like finally blocks with some special  
+**[10260.82s] English:** There's with clauses. And so, with clauses are kind of like finally blocks with some special.  
 **Translation:** 
 
-**[10264.58s] English:** stuff going on. And so there's-  
+**[10264.58s] English:** Stuff is going on, and so there's -  
+**Translation:** Vocabulary: clauses: 从句
+
+**[10266.18s] English:** Nesting, in general, including nesting of functions, should be illegal.  
 **Translation:** 
 
-**[10266.18s] English:** Nesting in general, nesting of anything, nesting of functions should be illegal.  
-**Translation:** 
-
-**[10271.76s] English:** Well-  
-**Translation:** 
+**[10271.76s] English:** Well,  
+**Translation:** Vocabulary: nesting: 嵌套
 
 **[10272.44s] English:** It just feels like it adds a level of complexity.  
 **Translation:** 
 
-**[10275.06s] English:** Lex, I'm merely an implementer. And so this is, again, one of the trade-offs you get when you  
+**[10275.06s] English:** Lex, I'm merely an implementer. And so, this is, again, one of the trade-offs you get when you  
 **Translation:** Vocabulary: complexity: 复杂性; implementer: 实施者
 
-**[10281.88s] English:** decide to build a superset is you get to implement a full fidelity.  
+**[10281.88s] English:** Decide to build a superset, and you get to implement a full-fidelity version.  
 **Translation:** 
 
-**[10285.38s] English:** Yeah, I mean, we can complain about the reality of the world and shake our fist, but-  
-**Translation:** Vocabulary: fidelity: 保真度
+**[10285.38s] English:** Yeah, I mean, we can complain about the reality of the world and shake our fists, but—  
+**Translation:** Vocabulary: fists: 拳头; implement: 实施
 
-**[10296.18s] English:** It always feels like you shouldn't be allowed to do that, like to declare functions and  
+**[10296.18s] English:** It always feels like you shouldn't be allowed to do that—like declaring functions and  
 **Translation:** 
 
-**[10300.66s] English:** set functions inside functions.  
+**[10300.66s] English:** Set functions inside functions.  
 **Translation:** 
 
 **[10303.48s] English:** Oh, wait, wait, wait. What happened to Lex, the Lisp guy?  
@@ -8215,7 +8216,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10307.62s] English:** No, I understand that. But Lisp is what I used to do in college.  
 **Translation:** 
 
-**[10312.20s] English:** So now you've grown up?  
+**[10312.20s] English:** So, now you've grown up?  
 **Translation:** 
 
 **[10313.46s] English:** Yeah.  
@@ -8284,7 +8285,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10314.86s] English:** Yeah.  
 **Translation:** 
 
-**[10315.38s] English:** You've all done things in college you're not proud of.  
+**[10315.38s] English:** You've all done things in college that you're not proud of.  
 **Translation:** 
 
 **[10317.18s] English:** No, no, no.  
@@ -8302,46 +8303,46 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10319.60s] English:** I love Lisp.  
 **Translation:** 
 
-**[10320.00s] English:** Okay, yeah, I was going to say, you're afraid of me irritating the whole internet?  
-**Translation:** Vocabulary: irritating: 烦扰
+**[10320.00s] English:** Okay, yeah, I was going to say, you're afraid of me irritating the whole Internet?  
+**Translation:** Vocabulary: irritating: 烦人的
 
 **[10323.64s] English:** Yeah, I love this.  
 **Translation:** 
 
-**[10325.48s] English:** It worked as a joke in my head and it came out right.  
+**[10325.48s] English:** It worked as a joke in my head, and it came out just right.  
 **Translation:** 
 
-**[10329.26s] English:** So nested functions are, joking aside, actually really great for certain things, right?  
+**[10329.26s] English:** So, nested functions are, joking aside, actually really great for certain things, right?  
 **Translation:** 
 
-**[10333.82s] English:** And so these are also called closures.  
-**Translation:** Vocabulary: closures: 闭包
+**[10333.82s] English:** And so, these are also called closures.  
+**Translation:** Vocabulary: closures: 闭包; nested: 嵌套
 
 **[10336.34s] English:** Closures are pretty cool, and you can pass callbacks.  
 **Translation:** 
 
-**[10338.92s] English:** There's a lot of good patterns.  
+**[10338.92s] English:** There are a lot of good patterns.  
 **Translation:** Vocabulary: callbacks: 回调函数
 
-**[10339.82s] English:** So speaking of which, I don't think you have nested functions implemented yet in Mojo.  
+**[10339.82s] English:** So, speaking of which, I don't think you have nested functions implemented yet in Mojo.  
 **Translation:** 
 
 **[10348.44s] English:** We don't have lambda syntax, but we do have nested functions.  
-**Translation:** Vocabulary: lambda: 匿名函数; syntax: 语法
-
-**[10352.44s] English:** There's a few things on the roadmap that you have that it would be cool to sort of just fly through  
 **Translation:** 
 
-**[10357.24s] English:** because it's interesting to see how many features there are in a language, small and big,  
+**[10352.44s] English:** There are a few things on the roadmap that you have that would be cool to sort of just fly through.  
 **Translation:** 
 
-**[10363.38s] English:** that you have to implement.  
+**[10357.24s] English:** Because it's interesting to see how many features there are in a language, both small and big.  
+**Translation:** Vocabulary: roadmap: 计划概览
+
+**[10363.38s] English:** That you have to implement.  
 **Translation:** 
 
-**[10364.94s] English:** So first of all, there's tuple support.  
+**[10364.94s] English:** So, first of all, there's tuple support.  
 **Translation:** Vocabulary: tuple: 元组
 
-**[10367.02s] English:** That has to do with some very specific aspect of it, like the parentheses or not parentheses, that?  
+**[10367.02s] English:** That has to do with some very specific aspect of it, like the parentheses or not (parentheses), that?  
 **Translation:** 
 
 **[10372.48s] English:** Yeah, this is just totally a syntactic thing.  
@@ -8350,320 +8351,320 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10374.44s] English:** A syntactic thing.  
 **Translation:** 
 
-**[10375.60s] English:** Okay, but it's cool still.  
+**[10375.60s] English:** Okay, but it's still cool.  
 **Translation:** 
 
-**[10378.44s] English:** So keyword arguments and functions?  
+**[10378.44s] English:** So, keyword arguments and functions?  
 **Translation:** 
 
-**[10381.34s] English:** Yeah, so this is where in Python you can say call a function x equals 4.  
+**[10381.34s] English:** Yeah, so this is where in Python you can say: call a function, x = 4.  
 **Translation:** Vocabulary: keyword: 关键字参数
 
 **[10385.68s] English:** Yeah.  
 **Translation:** 
 
-**[10386.06s] English:** And x is the name of the argument.  
+**[10386.06s] English:** And X is the name of the argument.  
 **Translation:** 
 
-**[10387.64s] English:** That's a nice sort of documenting, self-documenting feature.  
+**[10387.64s] English:** That's a nice, self-documenting feature.  
 **Translation:** 
 
 **[10391.22s] English:** Yeah, I mean, and again, this isn't rocket science to implement.  
-**Translation:** Vocabulary: documenting: 文档记录
+**Translation:** Vocabulary: implement: 实现
 
-**[10393.52s] English:** It's just the laundry list of things.  
+**[10393.52s] English:** It's just a laundry list of things.  
 **Translation:** 
 
 **[10394.42s] English:** It's just on the list.  
-**Translation:** 
+**Translation:** Vocabulary: laundry: 洗衣服
 
 **[10396.40s] English:** The bigger features are things like traits.  
 **Translation:** 
 
-**[10399.58s] English:** So traits are when you want to define abstract.  
-**Translation:** 
+**[10399.58s] English:** So, traits are when you want to define abstract.  
+**Translation:** Vocabulary: traits: 特性
 
-**[10402.62s] English:** So when you get into typed languages, you need the ability to write generics.  
+**[10402.62s] English:** So, when you get into typed languages, you need the ability to write generics.  
 **Translation:** 
 
 **[10407.70s] English:** And so you want to say,  
-**Translation:** Vocabulary: generics: 泛型编程
+**Translation:** Vocabulary: generics: 泛型
 
-**[10408.44s] English:** I'm going to write this function,  
+**[10408.44s] English:** I'm going to write this function.  
 **Translation:** 
 
-**[10409.46s] English:** and now I want to work on all things that are arithmetic-like.  
+**[10409.46s] English:** And now, I want to work on all things that are arithmetic-like.  
 **Translation:** 
 
-**[10413.28s] English:** Well, what does arithmetic-like mean?  
+**[10413.28s] English:** Well, what does "arithmetic-like" mean?  
 **Translation:** 
 
-**[10414.94s] English:** Well, arithmetic-like is a categorization of a bunch of types.  
+**[10414.94s] English:** Well, "arithmetic-like" is a categorization of a bunch of types.  
 **Translation:** 
 
-**[10419.24s] English:** And so, again, you can define it in many different ways,  
+**[10419.24s] English:** And so, again, you can define it in many different ways.  
 **Translation:** 
 
-**[10421.92s] English:** and I'm not going to go into ring theory or something.  
+**[10421.92s] English:** And I'm not going to go into ring theory or anything.  
 **Translation:** 
 
-**[10424.70s] English:** But you can say it's arithmetic-like if you can add, subtract, multiply, divide it, for example.  
+**[10424.70s] English:** But you can say it's arithmetic-like if you can add, subtract, multiply, and divide it, for example.  
 **Translation:** 
 
-**[10429.94s] English:** And so what you're saying is you're saying there's a set of traits that apply to a broad variety of types.  
+**[10429.94s] English:** And so, what you're saying is, you're saying there's a set of traits that apply to a broad variety of types.  
 **Translation:** Vocabulary: multiply: 乘法; subtract: 减法
 
-**[10437.58s] English:** And so there are...  
+**[10437.58s] English:** And so there are....  
 **Translation:** 
 
 **[10438.44s] English:** There are all these types of arithmetic-like.  
 **Translation:** 
 
-**[10440.00s] English:** all these tensors and floating point integer and like there's this category of types and then i can  
+**[10440.00s] English:** All these tensors, and floating-point integers — and like, there's a category of types, and then I can  
 **Translation:** 
 
-**[10445.36s] English:** define on an orthogonal axis algorithms that then work against types that have those properties  
-**Translation:** Vocabulary: integer: 整数; orthogonal: 正交
+**[10445.36s] English:** Define algorithms on an orthogonal axis, which then work against types that have those properties.  
+**Translation:** Vocabulary: integers: 整数; orthogonal: 正交
 
-**[10450.64s] English:** and so this is a again it's a widely known thing it's been implemented in swift and rust and many  
+**[10450.64s] English:** And so, this is a widely known thing; it has been implemented in Swift and Rust, and many others.  
 **Translation:** 
 
-**[10457.86s] English:** languages so it's not haskell which is where everybody learns learns their tricks from  
-**Translation:** Vocabulary: haskell: 哈斯克尔
+**[10457.86s] English:** Languages, so it's not Haskell, which is where everyone learns their tricks from.  
+**Translation:** Vocabulary: haskell: 哈斯克尔; implemented: 实现
 
-**[10463.98s] English:** but the uh but we need to implement that and that will enable a new level of expressivity  
+**[10463.98s] English:** But we need to implement that, and that will enable a new level of expressivity.  
 **Translation:** 
 
-**[10470.00s] English:** uh so classes yeah classes are big deal it's a big deal still to be implemented  
+**[10470.00s] English:** Uh, so classes—yeah, classes are a big deal. It's still a big deal to implement.  
 **Translation:** 
 
-**[10475.64s] English:** um like you said lambda syntax and there's like detailed stuff like whole module import  
+**[10475.64s] English:** Um, like you said, lambda syntax, and there's like detailed stuff, such as whole module imports.  
 **Translation:** 
 
-**[10482.76s] English:** support for top level code and file scope so and then global variables also  
-**Translation:** Vocabulary: lambda: 匿名函数; module: 模块; syntax: 语法
+**[10482.76s] English:** Support for top-level code and file scope, as well as global variables, also.  
+**Translation:** Vocabulary: imports: 模块导入; lambda: lambda表达式; module: 模块; syntax: 语法
 
-**[10489.98s] English:** so being able to have variables outside of a top level well and so this comes back to the  
+**[10489.98s] English:** So, being able to have variables outside of a top-level scope works well, and this comes back to the  
 **Translation:** 
 
-**[10495.66s] English:** where mojo came from and the fact that this is your point one right and so  
+**[10495.66s] English:** Where did Mojo come from, and the fact that this is point one—right? And so,...  
 **Translation:** 
 
-**[10499.44s] English:** you  
+**[10499.44s] English:** You.  
 **Translation:** 
 
-**[10500.00s] English:** we're building so modular is building an ai stack right and an ai stack has a bunch of  
-**Translation:** Vocabulary: modular: 模块化
+**[10500.00s] English:** We're building something modular, like an AI stack, right? And an AI stack has a bunch of  
+**Translation:** Vocabulary: modular: 模块化的
 
-**[10505.20s] English:** problems working with hardware and writing high performance kernels and doing this kernel fusion  
+**[10505.20s] English:** Problems working with hardware, and writing high-performance kernels, and doing this kernel fusion.  
 **Translation:** 
 
-**[10509.68s] English:** thing i was talking about and getting the most out of the hardware and so we've really prioritized  
-**Translation:** Vocabulary: kernel: 内核; kernels: 内核; prioritized: 优先
+**[10509.68s] English:** Thing I was talking about, and getting the most out of the hardware. So, we've really prioritized.  
+**Translation:** Vocabulary: fusion: 融合; kernel: 内核; kernels: 内核; prioritized: 优先
 
-**[10513.80s] English:** and built mojo to solve modular's problem right now our north star is build out and support all  
+**[10513.80s] English:** And we built Mojo to solve Modular's problem. Right now, our north star is to build out and support all.  
 **Translation:** 
 
-**[10520.62s] English:** the things and so we're making incredible progress by the way mojo is only like seven months old  
+**[10520.62s] English:** The things, and so we're making incredible progress. By the way, MoJo is only about seven months old.  
 **Translation:** 
 
-**[10524.90s] English:** so that's another interesting thing i mean part of the reason i wanted to mention some of these  
+**[10524.90s] English:** So, that's another interesting thing. I mean, part of the reason I wanted to mention some of these.  
 **Translation:** 
 
-**[10529.64s] English:** things is because i think it's a really interesting thing and i think it's a really interesting thing  
+**[10529.64s] English:** Things are because I think it's a really interesting thing, and I think it's a really interesting thing.  
 **Translation:** 
 
-**[10529.98s] English:** is like there's a lot to to do and it's pretty cool how you just kind of sometimes you take for  
+**[10529.98s] English:** It's like there's a lot to do, and it's pretty cool how you just kind of sometimes take things as they come.  
 **Translation:** 
 
-**[10536.68s] English:** granted how much there is in a programming language how many cool features you kind of rely on and this  
+**[10536.68s] English:** Granted, how much there is in a programming language, how many cool features you kind of rely on, and this.  
 **Translation:** 
 
-**[10540.60s] English:** is kind of a nice reminder when you lay it as a to-do list yeah and so i mean but also you look  
+**[10540.60s] English:** Is kind of a nice reminder when you lay it out as a to-do list, yeah. And so I mean, but also you look  
 **Translation:** 
 
-**[10546.08s] English:** into it's it's amazing how much is also there and you take it for granted that a value if you define  
+**[10546.08s] English:** It's amazing how much is there, and you take it for granted until you define its value.  
+**Translation:** Vocabulary: reminder: 提醒
+
+**[10553.62s] English:** It will get destroyed automatically, like that little feature itself is actually really complicated.  
 **Translation:** 
 
-**[10553.62s] English:** it it will get destroyed automatically like that little feature itself is actually really complicated  
+**[10559.20s] English:** To do, and so I think it's a really interesting thing to look into, and I think it's a really  
 **Translation:** 
 
-**[10559.20s] English:** to do and so i think it's a really interesting thing to look into and i think it's a really  
+**[10559.98s] English:** An interesting thing to look into, and I think it's really interesting to look into.  
 **Translation:** 
 
-**[10559.98s] English:** interesting thing to look into and i think it's a really interesting thing to look into and i think  
+**[10560.00s] English:** And the way the ownership system has to work,  
 **Translation:** 
 
-**[10560.00s] English:** and the way the ownership system has to work,  
+**[10561.92s] English:** And the way that works within Mojo.  
 **Translation:** 
 
-**[10561.92s] English:** and the way that works within Mojo  
-**Translation:** 
-
-**[10563.90s] English:** is a huge step forward from what Rust and Swift have done.  
+**[10563.90s] English:** It is a huge step forward from what Rust and Swift have done.  
 **Translation:** 
 
 **[10566.54s] English:** Can you say that again?  
 **Translation:** 
 
-**[10567.38s] English:** When a value, when you define it,  
+**[10567.38s] English:** When a value is defined,  
 **Translation:** 
 
-**[10569.26s] English:** it gets destroyed automatically.  
+**[10569.26s] English:** It gets destroyed automatically.  
 **Translation:** 
 
-**[10570.10s] English:** Yeah, so like say you have a string, right?  
+**[10570.10s] English:** Yeah, so, like, say you have a string, right?  
 **Translation:** 
 
-**[10572.00s] English:** So you define a string on the stack, okay?  
+**[10572.00s] English:** So, you define a string on the stack, okay?  
 **Translation:** 
 
 **[10574.04s] English:** Or whatever that means, like in your local function, right?  
 **Translation:** 
 
-**[10577.68s] English:** And so you say, like whether it be in a def,  
+**[10577.68s] English:** And so you say, like whether it be in a deed,  
 **Translation:** 
 
-**[10580.76s] English:** and so you just say x equals hello world, right?  
-**Translation:** 
+**[10580.76s] English:** And so you just say x equals "hello world," right?  
+**Translation:** Vocabulary: equals: 等于
 
 **[10584.10s] English:** Well, if your string type requires you to allocate memory,  
 **Translation:** 
 
-**[10587.94s] English:** then when it's destroyed, you have to deallocate it.  
+**[10587.94s] English:** Then, when it's destroyed, you have to deallocate it.  
 **Translation:** Vocabulary: allocate: 分配; deallocate: 释放
 
-**[10590.74s] English:** So in Python and in Mojo,  
+**[10590.74s] English:** So, in Python and in Mojo,  
 **Translation:** 
 
-**[10591.94s] English:** you define that with the del method, right?  
+**[10591.94s] English:** You define that with the `del` method, right?  
 **Translation:** 
 
 **[10594.96s] English:** Where does that get run?  
 **Translation:** 
 
-**[10598.72s] English:** Well, it gets run sometime between the last use of the value  
+**[10598.72s] English:** Well, it gets run sometime between the last use of the value.  
 **Translation:** 
 
-**[10603.56s] English:** and the end of the program.  
+**[10603.56s] English:** And at the end of the program.  
 **Translation:** 
 
-**[10607.32s] English:** Like in this, you now get into garbage collection,  
+**[10607.32s] English:** Like in this, you now get into garbage collection.  
 **Translation:** 
 
-**[10609.56s] English:** you get into like all these long debated,  
+**[10609.56s] English:** You get into all these long-debated,  
 **Translation:** 
 
-**[10611.94s] English:** you talk about religions and trade-offs  
+**[10611.94s] English:** You talk about religions and trade-offs.  
 **Translation:** 
 
-**[10615.42s] English:** and things like this.  
+**[10615.42s] English:** And things like this.  
 **Translation:** 
 
-**[10616.26s] English:** This is a hugely,  
+**[10616.26s] English:** This is hugely,  
+**Translation:** Vocabulary: hugely: 极其地
+
+**[10617.18s] English:** Hotly contested,  
 **Translation:** 
 
-**[10617.18s] English:** hotly contested,  
-**Translation:** 
-
-**[10617.92s] English:** contested world.  
+**[10617.92s] English:** Contested world.  
 **Translation:** 
 
 **[10619.38s] English:** If you look at C++,  
 **Translation:** 
 
-**[10620.70s] English:** the way this works is that if you define a variable  
+**[10620.70s] English:** The way this works is that if you define a variable,...  
 **Translation:** 
 
-**[10624.14s] English:** or a set of variables within a function,  
+**[10624.14s] English:** For a set of variables within a function,  
 **Translation:** 
 
-**[10626.52s] English:** they get destroyed in a last in, first out order.  
+**[10626.52s] English:** They get destroyed in a last-in, first-out order.  
 **Translation:** 
 
 **[10630.80s] English:** So it's like nesting, okay?  
 **Translation:** 
 
 **[10633.58s] English:** This has a huge problem because if you define,  
+**Translation:** Vocabulary: nesting: 嵌套
+
+**[10635.70s] English:** You have a big scope.  
 **Translation:** 
 
-**[10635.70s] English:** you have a big scope,  
+**[10636.84s] English:** And you define a whole bunch of values at the top.  
 **Translation:** 
 
-**[10636.84s] English:** and you define a whole bunch of values at the top,  
+**[10638.92s] English:** And then you use them.  
 **Translation:** 
 
-**[10638.92s] English:** and then you use them,  
+**[10640.06s] English:** And then you do a whole bunch of code that doesn't use them.  
 **Translation:** 
 
-**[10640.06s] English:** and then you do a whole bunch of code that doesn't use them,  
-**Translation:** 
-
-**[10642.64s] English:** they don't get destroyed until the very end of that scope.  
+**[10642.64s] English:** They don't get destroyed until the very end of that scope.  
 **Translation:** 
 
 **[10645.44s] English:** Right?  
 **Translation:** 
 
-**[10646.28s] English:** And so this also destroys tail calls.  
+**[10646.28s] English:** And so, this also destroys tail calls.  
 **Translation:** 
 
-**[10647.80s] English:** So good functional programming, right?  
+**[10647.80s] English:** So, good functional programming, right?  
+**Translation:** Vocabulary: functional: 函数式的
+
+**[10650.08s] English:** This has a bunch of different impacts on,  
 **Translation:** 
 
-**[10650.08s] English:** This, this has a bunch of different impacts on,  
+**[10652.56s] English:** You know, you talk about reference-counting optimizations.  
+**Translation:** Vocabulary: optimizations: 优化
+
+**[10655.14s] English:** And things like this,  
 **Translation:** 
 
-**[10652.56s] English:** you know, you talk about reference counting optimizations  
-**Translation:** Vocabulary: optimizations: 优化措施
-
-**[10655.14s] English:** and things like this,  
+**[10655.98s] English:** A bunch of very low-level things.  
 **Translation:** 
 
-**[10655.98s] English:** a bunch of very low level things.  
+**[10657.90s] English:** And so, what Mojo does is it has a different approach.  
 **Translation:** 
 
-**[10657.90s] English:** And so what Mojo does is it has a different approach  
+**[10660.58s] English:** On that, from any language I'm familiar with,  
 **Translation:** 
 
-**[10660.58s] English:** on that from any language I'm familiar with,  
+**[10662.84s] English:** Where it destroys them as soon as possible.  
 **Translation:** 
 
-**[10662.84s] English:** where it destroys them as soon as possible.  
+**[10666.32s] English:** And by doing that, you get better memory usage.  
 **Translation:** 
 
-**[10666.32s] English:** And by doing that, you get better memory use,  
+**[10668.38s] English:** You get better predictability.  
 **Translation:** 
 
-**[10668.38s] English:** you get better predictability,  
+**[10669.66s] English:** You get tail calls that work.  
 **Translation:** 
 
-**[10669.66s] English:** you get tail calls that work,  
+**[10671.38s] English:** You get a bunch of other things.  
 **Translation:** 
 
-**[10671.38s] English:** you get a bunch of other things,  
+**[10672.82s] English:** You get better ownership tracking.  
 **Translation:** 
 
-**[10672.82s] English:** you get better ownership tracking.  
+**[10674.24s] English:** There's a bunch of these very simple things that are very fun.  
 **Translation:** 
 
-**[10674.24s] English:** There's a bunch of these very simple things that are very fun,  
+**[10677.42s] English:** Fundamental that are already built in.  
 **Translation:** 
 
-**[10677.42s] English:** fundamental that are already built in  
+**[10680.00s] English:** Or in Mojo today, those are the things that nobody talks about generally.  
 **Translation:** 
 
-**[10680.00s] English:** or in Mojo today that are the things that nobody talks about generally,  
+**[10684.02s] English:** But when they don't work right, you find out and you have to complain about it.  
 **Translation:** 
 
-**[10684.02s] English:** but when they don't work right, you find out and you have to complain about.  
+**[10687.60s] English:** Is it trivial to know what's the soonest possible time to delete a thing?  
 **Translation:** 
 
-**[10687.60s] English:** Is it trivial to know what's the soonest possible to delete a thing  
-**Translation:** 
-
-**[10692.54s] English:** that's not going to be used again?  
-**Translation:** 
+**[10692.54s] English:** That's not going to be used again?  
+**Translation:** Vocabulary: trivial: 琐碎的
 
 **[10694.00s] English:** Yeah, well, I mean, it's generally trivial.  
 **Translation:** 
@@ -8671,10 +8672,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10695.98s] English:** It's after the last use of it.  
 **Translation:** 
 
-**[10697.42s] English:** So if you define X as a string,  
+**[10697.42s] English:** So, if you define X as a string,  
 **Translation:** 
 
-**[10699.34s] English:** and then you have some use of X somewhere in your code.  
+**[10699.34s] English:** And then you have some use of X somewhere in your code.  
 **Translation:** 
 
 **[10701.80s] English:** Within that scope, you mean?  
@@ -8686,16 +8687,16 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10705.24s] English:** Yeah, exactly.  
 **Translation:** 
 
-**[10706.20s] English:** So you can only use something within its scope,  
+**[10706.20s] English:** So, you can only use something within its scope.  
 **Translation:** 
 
-**[10707.88s] English:** and so then it doesn't wait until the end of the scope to delete it.  
+**[10707.88s] English:** And so, then it doesn't wait until the end of the scope to delete it.  
 **Translation:** 
 
 **[10711.42s] English:** It destroys it after the last use.  
 **Translation:** 
 
-**[10714.18s] English:** So there's kind of some very eager machine that's just sitting there and deleting.  
+**[10714.18s] English:** So, there's a kind of very eager machine that's just sitting there and deleting.  
 **Translation:** 
 
 **[10718.32s] English:** Yeah, and it's all in the compiler, so it's not at runtime, which is also cool.  
@@ -8704,64 +8705,64 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10722.16s] English:** And this is actually non-trivial because you have control flow.  
 **Translation:** 
 
-**[10728.30s] English:** And so it gets complicated pretty quickly,  
+**[10728.30s] English:** And so it gets complicated pretty quickly.  
 **Translation:** 
 
-**[10730.16s] English:** and so getting this right was not...  
+**[10730.16s] English:** And so, getting this right was not...  
 **Translation:** 
 
-**[10731.70s] English:** Oh, so you have to insert delete in a lot of places.  
+**[10731.70s] English:** Oh, so you have to insert "delete" in a lot of places.  
 **Translation:** Vocabulary: insert: 插入
 
 **[10734.28s] English:** Potentially, yeah, exactly.  
 **Translation:** 
 
-**[10735.46s] English:** So the compiler has to reason about this,  
+**[10735.46s] English:** So, the compiler has to reason about this.  
 **Translation:** 
 
-**[10737.30s] English:** and this is where...  
+**[10737.30s] English:** And this is where...  
 **Translation:** 
 
-**[10737.86s] English:** Again, it's experience building languages and not getting this right.  
+**[10737.86s] English:** Again, it's experience in building languages and not getting this right.  
 **Translation:** 
 
-**[10741.18s] English:** So again, you get another chance to do it,  
+**[10741.18s] English:** So, again, you get another chance to do it.  
 **Translation:** 
 
-**[10742.94s] English:** and you get basic things like this, right?  
+**[10742.94s] English:** And you get basic things like this, right?  
 **Translation:** 
 
 **[10745.52s] English:** But it's extremely powerful when you do that.  
 **Translation:** 
 
-**[10748.20s] English:** And so there's a bunch of things like that that kind of combine together.  
+**[10748.20s] English:** And so, there are a bunch of things like that that kind of combine together.  
 **Translation:** 
 
 **[10752.20s] English:** And this comes back to the...  
 **Translation:** 
 
-**[10753.78s] English:** You get a chance to do it the right way, do it the right way,  
+**[10753.78s] English:** You get a chance to do it the right way; do it the right way.  
 **Translation:** 
 
-**[10756.16s] English:** and make sure that every brick you put down is really good,  
+**[10756.16s] English:** And make sure that every brick you put down is really good.  
 **Translation:** 
 
-**[10758.54s] English:** so that when you put more bricks on top of it,  
+**[10758.54s] English:** So that when you put more bricks on top of it,  
 **Translation:** 
 
-**[10760.68s] English:** they stack up to something that's beautiful.  
+**[10760.68s] English:** They stack up to something that's beautiful.  
 **Translation:** 
 
 **[10762.16s] English:** Well, there's also...  
 **Translation:** 
 
-**[10764.16s] English:** Like, how many...  
+**[10764.16s] English:** Like, how many...?  
 **Translation:** 
 
-**[10765.16s] English:** design discussions do there have to be about particular details,  
+**[10765.16s] English:** Design discussions don't have to be about particular details,  
 **Translation:** 
 
-**[10770.58s] English:** like implementation of particular small features?  
+**[10770.58s] English:** Like the implementation of particular small features?  
 **Translation:** 
 
 **[10772.86s] English:** Because the features that seem small,  
@@ -8770,10 +8771,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10776.54s] English:** I bet some of them might be, like,  
 **Translation:** 
 
-**[10779.52s] English:** really...  
+**[10779.52s] English:** Really....  
 **Translation:** 
 
-**[10780.72s] English:** require really big design decisions.  
+**[10780.72s] English:** Require really big design decisions.  
 **Translation:** 
 
 **[10782.78s] English:** Yeah.  
@@ -8782,20 +8783,20 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10783.50s] English:** Well, so, I mean, let me give you another example of this.  
 **Translation:** 
 
-**[10785.74s] English:** Python has a feature called async await.  
-**Translation:** Vocabulary: async: 异步等待
+**[10785.74s] English:** Python has a feature called async/await.  
+**Translation:** Vocabulary: async: 异步
 
-**[10787.88s] English:** So it's a new feature.  
+**[10787.88s] English:** So, it's a new feature.  
 **Translation:** 
 
-**[10790.28s] English:** I mean, in the long arc of Python history,  
+**[10790.28s] English:** In the long arc of Python history,  
 **Translation:** 
 
-**[10792.86s] English:** it's a relatively new feature, right?  
+**[10792.86s] English:** It's a relatively new feature, right?  
 **Translation:** 
 
-**[10795.16s] English:** That allows way more expressive asynchronous programming.  
-**Translation:** Vocabulary: asynchronous: 异步的; expressive: 富有表现力的
+**[10795.16s] English:** That allows for much more expressive asynchronous programming.  
+**Translation:** Vocabulary: asynchronous: 非同步的; expressive: 富有表现力的
 
 **[10799.20s] English:** Okay.  
 **Translation:** 
@@ -8803,31 +8804,31 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10799.32s] English:** Okay.  
 **Translation:** 
 
-**[10800.00s] English:** Again, this is a, Python's a beautiful thing,  
+**[10800.00s] English:** Again, this is a beautiful thing, Python's a beautiful thing.  
 **Translation:** 
 
-**[10802.58s] English:** and they did things that are great for Mojo  
+**[10802.58s] English:** And they did things that are great for Mojo.  
 **Translation:** 
 
-**[10804.30s] English:** for completely different reasons.  
+**[10804.30s] English:** For completely different reasons.  
 **Translation:** 
 
-**[10806.70s] English:** The reason that async await got added to Python,  
+**[10806.70s] English:** The reason Async/Await got added to Python,  
 **Translation:** 
 
-**[10809.68s] English:** as far as I know, is because Python doesn't support threads.  
+**[10809.68s] English:** As far as I know, it is because Python doesn't support threads.  
 **Translation:** 
 
 **[10813.04s] English:** Okay?  
+**Translation:** Vocabulary: threads: 线程
+
+**[10813.98s] English:** And so, Python doesn't support threads.  
 **Translation:** 
 
-**[10813.98s] English:** And so Python doesn't support threads,  
+**[10816.48s] English:** But you want to work with networking.  
 **Translation:** 
 
-**[10816.48s] English:** but you want to work with networking  
-**Translation:** 
-
-**[10818.54s] English:** and other things like that that can block.  
+**[10818.54s] English:** And other things, like that, can block.  
 **Translation:** 
 
 **[10820.54s] English:** I mean, Python does support threads.  
@@ -8836,32 +8837,32 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10821.88s] English:** It's just not its strength.  
 **Translation:** 
 
-**[10822.88s] English:** And so they added this feature called async await.  
+**[10822.88s] English:** And so, they added this feature called async/await.  
 **Translation:** 
 
-**[10827.74s] English:** It's also seen in other languages,  
+**[10827.74s] English:** It's also seen in other languages.  
 **Translation:** 
 
-**[10828.96s] English:** like Swift and JavaScript and many other places as well.  
+**[10828.96s] English:** Like Swift and JavaScript, and many other places as well.  
 **Translation:** 
 
-**[10833.60s] English:** Async await in Mojo is amazing  
+**[10833.60s] English:** Async Await in Mojo is amazing.  
 **Translation:** 
 
-**[10835.06s] English:** because we have a high-performance heterogeneous compute runtime  
-**Translation:** Vocabulary: heterogeneous: 异构的
+**[10835.06s] English:** Because we have a high-performance heterogeneous compute runtime.  
+**Translation:** Vocabulary: compute: 计算; heterogeneous: 异构的; runtime: 运行时
 
-**[10837.80s] English:** underneath the covers that then allows non-blocking I.O.  
+**[10837.80s] English:** Underneath the covers, that then allows non-blocking I/O.  
 **Translation:** 
 
-**[10842.62s] English:** so you get full use of your accelerator.  
-**Translation:** 
+**[10842.62s] English:** So, you get full use of your accelerator.  
+**Translation:** Vocabulary: accelerator: 加速器; underneath: 在...下面
 
-**[10845.52s] English:** That's huge, it turns out.  
+**[10845.52s] English:** That's huge; it turns out.  
 **Translation:** 
 
 **[10847.14s] English:** It's actually really an important part of fully utilizing a machine.  
-**Translation:** Vocabulary: utilizing: 充分利用
+**Translation:** Vocabulary: utilizing: 使用
 
 **[10850.64s] English:** You talk about design discussions.  
 **Translation:** 
@@ -8872,22 +8873,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10854.66s] English:** And it probably will require more iteration.  
 **Translation:** 
 
-**[10856.86s] English:** And so my philosophy with Mojo  
-**Translation:** Vocabulary: iteration: 迭代
+**[10856.86s] English:** And so, my philosophy with Mojo.  
+**Translation:** Vocabulary: iteration: 循环迭代
 
-**[10858.76s] English:** is that we have a small team of really good people  
+**[10858.76s] English:** Is that we have a small team of really good people?  
 **Translation:** 
 
-**[10861.20s] English:** that are pushing forward,  
+**[10861.20s] English:** That are pushing forward,  
 **Translation:** 
 
-**[10862.34s] English:** and they're very good at the extremely deep,  
+**[10862.34s] English:** And they're very good at the extremely deep,  
 **Translation:** 
 
-**[10865.26s] English:** knowing how the compiler and runtime  
-**Translation:** Vocabulary: runtime: 运行时环境
+**[10865.26s] English:** Knowing how the compiler and runtime work,  
+**Translation:** 
 
-**[10866.72s] English:** and all the low-level stuff works together.  
+**[10866.72s] English:** And all the low-level stuff works together.  
 **Translation:** 
 
 **[10870.24s] English:** But they're not perfect.  
@@ -8896,70 +8897,70 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10871.44s] English:** Same thing as the Swift team, right?  
 **Translation:** 
 
-**[10873.04s] English:** And this is where one of the reasons we released Mojo much earlier  
+**[10873.04s] English:** And this is where one of the reasons we released Mojo much earlier.  
 **Translation:** 
 
-**[10876.44s] English:** is so we can get feedback.  
+**[10876.44s] English:** It is so we can get feedback.  
 **Translation:** 
 
-**[10878.00s] English:** And we've already renamed a keyword  
+**[10878.00s] English:** And we've already renamed a keyword.  
 **Translation:** Vocabulary: keyword: 关键词; renamed: 重命名
 
-**[10879.94s] English:** due to community feedback.  
+**[10879.94s] English:** Due to community feedback.  
 **Translation:** 
 
 **[10882.24s] English:** Which one?  
 **Translation:** 
 
-**[10883.70s] English:** We used an ampersand, and now it's named in-out.  
+**[10883.70s] English:** We used an ampersand, and now it's named In-Out.  
 **Translation:** 
 
-**[10886.70s] English:** We're not renaming existing Python keywords,  
-**Translation:** Vocabulary: ampersand: 与号; keywords: 关键字; renaming: 重命名
-
-**[10888.76s] English:** because that breaks compatibility, right?  
+**[10886.70s] English:** We're not renaming existing Python keywords.  
 **Translation:** 
 
-**[10890.36s] English:** We're renaming things we're adding  
-**Translation:** Vocabulary: compatibility: 兼容性
-
-**[10891.96s] English:** and making sure that they are designed well,  
+**[10888.76s] English:** Because that breaks compatibility, right?  
 **Translation:** 
 
-**[10895.16s] English:** we get usage experience,  
+**[10890.36s] English:** We're renaming things, and we're adding more.  
+**Translation:** Vocabulary: compatibility: 兼容性; renaming: 重命名
+
+**[10891.96s] English:** And making sure that they are designed well,  
 **Translation:** 
 
-**[10896.64s] English:** we iterate and work with the community,  
+**[10895.16s] English:** We get usage experience.  
 **Translation:** 
 
-**[10897.84s] English:** because, again, if you scale something really fast  
+**[10896.64s] English:** We iterate and work with the community.  
 **Translation:** 
 
-**[10900.50s] English:** and everybody writes all their code  
+**[10897.84s] English:** Because, again, if you scale something really fast,...  
 **Translation:** 
 
-**[10901.38s] English:** and they start using it in production,  
+**[10900.50s] English:** And everyone writes all their code.  
 **Translation:** 
 
-**[10902.80s] English:** then it's impossible to change.  
+**[10901.38s] English:** And they start using it in production.  
 **Translation:** 
 
-**[10904.66s] English:** And so you want to learn from people,  
+**[10902.80s] English:** Then it's impossible to change.  
 **Translation:** 
 
-**[10906.20s] English:** you want to iterate and work on that early on,  
+**[10904.66s] English:** And so you want to learn from people.  
 **Translation:** 
 
-**[10908.14s] English:** and this is where design discussions,  
+**[10906.20s] English:** You want to iterate and work on that early on.  
 **Translation:** 
 
-**[10910.02s] English:** it's actually quite important.  
+**[10908.14s] English:** And this is where design discussions,  
 **Translation:** 
 
-**[10911.58s] English:** Could you incorporate an emoji into the language,  
-**Translation:** Vocabulary: incorporate: 吸收
+**[10910.02s] English:** It's actually quite important.  
+**Translation:** 
 
-**[10915.08s] English:** into the main language?  
+**[10911.58s] English:** Could you incorporate an emoji into the language?  
+**Translation:** Vocabulary: incorporate: 合并
+
+**[10915.08s] English:** Into the main language?  
 **Translation:** 
 
 **[10916.44s] English:** Good.  
@@ -8974,104 +8975,104 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[10919.60s] English:** Well, I really...  
 **Translation:** 
 
-**[10920.00s] English:** really like uh in terms of humor like uh rawful whatever rolling on the floor laughing so that  
+**[10920.00s] English:** Really, I like humor that makes me roll on the floor laughing.  
 **Translation:** 
 
-**[10926.70s] English:** could be like uh what would that be the use case for that like an exception throw an exception of  
+**[10926.70s] English:** Could be like, uh, what would that be the use case for that? Like, throw an exception.  
 **Translation:** 
 
-**[10931.92s] English:** some sort i don't know you should totally file a feature request uh or maybe a hard one it has to  
+**[10931.92s] English:** Some sort—I don't know, you should totally file a feature request, or maybe a bug report? It has to.  
 **Translation:** 
 
-**[10938.24s] English:** be a hard one uh people have told me that i'm insane so this is this is this is i i'm liking  
+**[10938.24s] English:** Be a hard one, uh. People have told me that I'm insane, so this is... This is... I'm liking.  
 **Translation:** 
 
-**[10943.16s] English:** this i'm gonna i'm gonna use the viral nature of the internet to to actually get this to get this  
-**Translation:** Vocabulary: viral: 病毒式的
-
-**[10949.24s] English:** passed i mean it's funny you come back to the flame emoji file extension right the uh um you  
+**[10943.16s] English:** This is what I'm going to use the viral nature of the Internet to actually get this to get this.  
 **Translation:** 
 
-**[10955.42s] English:** know we have the option to use the flame emoji which just even that concept cause for example  
+**[10949.24s] English:** Passed; I mean, it's funny you come back to the flame emoji file extension, right? Um,...  
 **Translation:** 
 
-**[10961.08s] English:** the people at github say now i've seen everything you know like yeah there's something uh it kind of  
+**[10955.42s] English:** We know we have the option to use the flame emoji, which just even that concept alone can cause, for example,  
 **Translation:** 
 
-**[10967.68s] English:** it's reinvigorating it's like uh it's like oh that's possible that's really cool that  
-**Translation:** Vocabulary: reinvigorating: 振奋人心
-
-**[10973.18s] English:** for some reason that makes everything else really exciting the world is ready for this stuff right  
+**[10961.08s] English:** The people at GitHub say, "Now I've seen everything, you know? Like, yeah, there's something... uh, it kind of...  
 **Translation:** 
 
-**[10978.16s] English:** and so you know when we have  
+**[10967.68s] English:** It's reinvigorating. It's like, oh, that's possible! That's really cool.  
+**Translation:** Vocabulary: reinvigorating: 振奋人心的
+
+**[10973.18s] English:** For some reason, that makes everything else really exciting; the world is ready for this stuff, right?  
 **Translation:** 
 
-**[10979.20s] English:** a  
+**[10978.16s] English:** And so, you know, when we have  
 **Translation:** 
 
-**[10979.24s] English:** package manager we'll clearly have to innovate by having the compiled package thing be the little  
-**Translation:** Vocabulary: compiled: 编译后的; innovate: 创新
-
-**[10983.80s] English:** box with the bow on it right i mean it has to be done it has to be done is there some stuff on the  
+**[10979.20s] English:** A  
 **Translation:** 
 
-**[10990.80s] English:** roadmap that you're particularly stressed about or excited about that you're thinking about a lot  
+**[10979.24s] English:** Package manager: We'll clearly have to innovate by having the compiled package thing be the little  
+**Translation:** Vocabulary: compiled: 编译好的; innovate: 创新
+
+**[10983.80s] English:** Box with the bow on it, right? I mean, it has to be done. Is there some stuff on the  
 **Translation:** 
 
-**[10995.68s] English:** i mean as a today snapshot which will be obsolete tomorrow uh the lifetime stuff is really exciting  
+**[10990.80s] English:** Roadmap that you're particularly stressed about or excited about, that you're thinking about a lot.  
+**Translation:** Vocabulary: roadmap: 计划表
+
+**[10995.68s] English:** I mean, as a today snapshot, which will be obsolete tomorrow, uh, the lifetime stuff is really exciting.  
 **Translation:** 
 
-**[11001.46s] English:** and so lifetimes give you safe references to memory without dangling pointers and so this  
-**Translation:** Vocabulary: dangling: 悬空的; lifetimes: 生命周期; obsolete: 过时的; snapshot: 快照
+**[11001.46s] English:** And so, lifetime annotations give you safe references to memory without dangling pointers, and so this  
+**Translation:** Vocabulary: annotations: 注解; dangling: 悬空的; obsolete: 过时的; snapshot: 快照
 
-**[11008.12s] English:** has been done in languages  
+**[11008.12s] English:** Has been done in languages.  
 **Translation:** 
 
-**[11009.20s] English:** like rust before and so we have a new approach which is really cool i'm very excited about that  
+**[11009.20s] English:** Like rust, but before, and so we have a new approach, which is really cool. I'm very excited about that.  
 **Translation:** 
 
-**[11012.72s] English:** that'll be out to the community very soon um the traits feature is really a big deal and so that's  
+**[11012.72s] English:** That will be out to the community very soon. Um, the Traits feature is really a big deal, and so that's  
 **Translation:** 
 
-**[11019.42s] English:** blocking a lot of api design and so there's that i think that's really exciting um a lot of it is  
+**[11019.42s] English:** Blocking a lot of API design, and so there's that. I think that's really exciting. Um, a lot of it is  
+**Translation:** Vocabulary: traits: 特性
+
+**[11025.96s] English:** These kinds of table-stakes features, um, one of the things that is again also a lesson learned with.  
 **Translation:** 
 
-**[11025.96s] English:** these kind of table stakes features um one of the things that is again also lessons learned with  
+**[11031.78s] English:** Swift, uh, is that programmers in general like to add syntactic sugar.  
+**Translation:** Vocabulary: programmers: 程序员; syntactic: 语法
+
+**[11037.64s] English:** Mm-hmm.  
 **Translation:** 
 
-**[11031.78s] English:** swift uh is that uh programmers in general like to add syntactic sugar  
-**Translation:** Vocabulary: programmers: 程序员; syntactic: 语法糖
-
-**[11037.64s] English:** mm-hmm  
+**[11038.32s] English:** And so, that's the thing that's really exciting, and we have a new approach which is really cool, and  
 **Translation:** 
 
-**[11038.32s] English:** and so that's the thing that's really exciting and so we have a new approach which is really cool and  
+**[11039.16s] English:** So it's like, "oh.  
 **Translation:** 
 
-**[11039.16s] English:** So it's like, oh.  
+**[11040.00s] English:** Well, this annoying thing, like in Python,  
 **Translation:** 
 
-**[11040.00s] English:** well, this annoying thing, like in Python,  
-**Translation:** 
-
-**[11042.72s] English:** you have to spell it under bar, under bar, add.  
+**[11042.72s] English:** You have to spell it "underbar," "underbar," add.  
 **Translation:** 
 
 **[11045.06s] English:** Why can't I just use plus?  
-**Translation:** 
+**Translation:** Vocabulary: underbar: 下划线连接
 
-**[11047.22s] English:** Def plus, come on.  
+**[11047.22s] English:** Definitely, come on.  
 **Translation:** 
 
 **[11048.34s] English:** Why can't I just do that, right?  
 **Translation:** 
 
-**[11049.40s] English:** And so, trivial bit of syntactic sugar,  
+**[11049.40s] English:** And so, a trivial bit of syntactic sugar,  
 **Translation:** 
 
-**[11051.48s] English:** it makes sense, it's beautiful, it's obvious.  
-**Translation:** 
+**[11051.48s] English:** It makes sense, it's beautiful, it's obvious.  
+**Translation:** Vocabulary: trivial: 琐碎的
 
 **[11053.82s] English:** We're trying not to do that.  
 **Translation:** 
@@ -9079,79 +9080,79 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11056.26s] English:** And so, for two different reasons,  
 **Translation:** 
 
-**[11058.90s] English:** one of which is that, again, lesson learned with Swift.  
+**[11058.90s] English:** One of which is that, again, a lesson learned with Swift.  
 **Translation:** 
 
-**[11061.54s] English:** Swift has a lot of syntactic sugar,  
+**[11061.54s] English:** Swift has a lot of syntactic sugar.  
 **Translation:** 
 
-**[11064.50s] English:** which may be a good thing, may be not, I don't know.  
+**[11064.50s] English:** Which may be a good thing, may be not; I don't know.  
 **Translation:** 
 
 **[11067.66s] English:** But because it's such an easy and addictive thing to do,  
 **Translation:** Vocabulary: addictive: 上瘾的
 
-**[11071.90s] English:** sugar, like make sure blood get crazy, right?  
+**[11071.90s] English:** Sugar, like, makes blood sugar levels go crazy, right?  
 **Translation:** 
 
-**[11075.58s] English:** Like the community will really dig into that  
+**[11075.58s] English:** Like the community will really dig into that.  
 **Translation:** 
 
-**[11077.62s] English:** and want to do a lot of that.  
+**[11077.62s] English:** And we want to do a lot of that.  
 **Translation:** 
 
-**[11078.68s] English:** And I think it's very distracting  
+**[11078.68s] English:** And I think it's very distracting.  
 **Translation:** Vocabulary: distracting: 分散注意力的
 
-**[11079.82s] English:** from building the core abstractions.  
+**[11079.82s] English:** From building the core abstractions.  
 **Translation:** 
 
-**[11082.00s] English:** The second is we want to be a good member  
-**Translation:** Vocabulary: abstractions: 抽象概念
+**[11082.00s] English:** The second is that we want to be a good member.  
+**Translation:** Vocabulary: abstractions: 抽象
 
-**[11083.34s] English:** of the Python community, right?  
+**[11083.34s] English:** Of the Python community, right?  
 **Translation:** 
 
 **[11086.72s] English:** And so, we want to work with the broader Python community.  
 **Translation:** 
 
-**[11090.02s] English:** And yeah, we're pushing forward  
+**[11090.02s] English:** And yeah, we're pushing forward.  
 **Translation:** 
 
-**[11091.80s] English:** a bunch of systems programming features  
+**[11091.80s] English:** A bunch of systems programming features.  
 **Translation:** 
 
-**[11093.40s] English:** and we need to build them out to understand them.  
+**[11093.40s] English:** And we need to build them out to understand them.  
 **Translation:** 
 
-**[11095.08s] English:** But once we get a long ways forward,  
+**[11095.08s] English:** But once we get a long way forward,  
 **Translation:** 
 
-**[11097.42s] English:** I want to make sure that we go back  
+**[11097.42s] English:** I want to make sure that we go back.  
 **Translation:** 
 
-**[11098.80s] English:** to the Python community and say,  
+**[11098.80s] English:** To the Python community and say,  
 **Translation:** 
 
-**[11099.98s] English:** okay, let's do some design reviews.  
+**[11099.98s] English:** Okay, let's do some design reviews.  
 **Translation:** 
 
 **[11101.28s] English:** Let's actually talk about this stuff.  
 **Translation:** 
 
-**[11102.42s] English:** Let's figure out how we want this stuff  
+**[11102.42s] English:** Let's figure out how we want to handle this stuff.  
 **Translation:** 
 
-**[11103.94s] English:** all to work together.  
+**[11103.94s] English:** All to work together.  
 **Translation:** 
 
-**[11105.00s] English:** And syntactic sugar just makes all that more complicated.  
+**[11105.00s] English:** And syntactic sugar just makes it all more complicated.  
 **Translation:** 
 
 **[11109.04s] English:** And yeah, list comprehensions are yet to be implemented.  
-**Translation:** Vocabulary: comprehensions: 列表推导式
+**Translation:** Vocabulary: comprehensions: 列表推导; implemented: 实现
 
-**[11112.78s] English:** And my favorite, I mean, dictionaries.  
+**[11112.78s] English:** And my favorite—I mean—dictionaries.  
 **Translation:** 
 
 **[11116.66s] English:** Yeah, there's some basic stuff.  
@@ -9163,25 +9164,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11119.54s] English:** 0.1.  
 **Translation:** 
 
-**[11120.64s] English:** Yeah, but nonetheless,  
+**[11120.64s] English:** Yeah, but, nonetheless,  
 **Translation:** 
 
-**[11121.46s] English:** it's actually still quite interesting and useful.  
+**[11121.46s] English:** It's actually still quite interesting and useful.  
 **Translation:** 
 
 **[11123.40s] English:** As you mentioned, modular is very new.  
 **Translation:** 
 
-**[11127.42s] English:** It's a relatively small team  
+**[11127.42s] English:** It's a relatively small team.  
 **Translation:** Vocabulary: modular: 模块化的
 
-**[11130.22s] English:** that's building up this gigantic stack,  
+**[11130.22s] English:** That's building up this gigantic stack.  
 **Translation:** 
 
-**[11134.90s] English:** this incredible stack that's going to perhaps define  
+**[11134.90s] English:** This incredible stack that's going to perhaps define...  
 **Translation:** Vocabulary: gigantic: 巨大的
 
-**[11137.98s] English:** the future of development of our AI overlords.  
+**[11137.98s] English:** The future of development of our AI overlords.  
 **Translation:** 
 
 **[11143.42s] English:** We just hope it will be useful.  
@@ -9190,118 +9191,118 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11146.40s] English:** As do all of us.  
 **Translation:** 
 
-**[11148.76s] English:** So, what have you learned  
+**[11148.76s] English:** So, what have you learned?  
 **Translation:** 
 
-**[11150.86s] English:** from this process of building up a team?  
+**[11150.86s] English:** From this process of building up a team?  
 **Translation:** 
 
-**[11154.02s] English:** Maybe one question is, how do you hire?  
+**[11154.02s] English:** Maybe one question is: How do you hire?  
 **Translation:** 
 
 **[11156.84s] English:** Yeah.  
 **Translation:** 
 
-**[11157.42s] English:** Great programmers, great...  
+**[11157.42s] English:** Great programmers: great...  
 **Translation:** Vocabulary: programmers: 程序员
 
-**[11160.00s] English:** people that operate in this compiler hardware machine learning software interface design space  
+**[11160.00s] English:** People that operate in this compiler, hardware, machine learning, software, and interface design space.  
 **Translation:** 
 
-**[11170.52s] English:** yeah and maybe are a little bit fluid yeah what they can do so okay so language design too so  
+**[11170.52s] English:** Yeah, and maybe it's a little bit fluid, yeah? What they can do, so okay, so language design too, so  
 **Translation:** Vocabulary: interface: 接口
 
-**[11176.54s] English:** building a company is just as interesting in different ways as building a language like  
+**[11176.54s] English:** Building a company is just as interesting in different ways as building a language, like  
 **Translation:** 
 
-**[11182.12s] English:** different skill sets different things but super interesting and i've built a lot of teams a lot  
+**[11182.12s] English:** Different skill sets, different things, but it's super interesting, and I've built a lot of teams a lot.  
 **Translation:** 
 
-**[11186.04s] English:** of different places um if you zoom in from the big problem into recruiting well so here's our  
+**[11186.04s] English:** Of different places, um, if you zoom in from the big problem into recruiting, well, so here's our  
 **Translation:** 
 
-**[11192.40s] English:** problem okay i'll just i'll be very straightforward about this we started modular with a lot of  
+**[11192.40s] English:** Problem, okay. I'll just be very straightforward about this. We started modular with a lot of  
 **Translation:** Vocabulary: recruiting: 招聘; straightforward: 直截了当
 
-**[11198.00s] English:** conviction about we understand the problems we understand the customer pain points we need to  
+**[11198.00s] English:** Conviction about it, we understand the problems, and we understand the customer pain points. We need to  
 **Translation:** 
 
-**[11202.64s] English:** work backwards from the suffering in the industry and if we solve those problems we think it'll be  
+**[11202.64s] English:** Work backwards from the suffering in the industry, and if we solve those problems, we think it'll be  
 **Translation:** Vocabulary: backwards: 逆向
 
-**[11207.30s] English:** useful for people but the problem is is that the people we need to hire as you say are all these  
+**[11207.30s] English:** Useful for people, but the problem is that the people we need to hire, as you say, are all these.  
 **Translation:** 
 
-**[11212.82s] English:** super specialized people that have jobs at big tech  
+**[11212.82s] English:** Super-specialized people who have jobs at big tech.  
 **Translation:** 
 
-**[11216.02s] English:** big tech worlds right and you know we i don't think we have um product market fit in the way  
+**[11216.02s] English:** Big tech world, right? And you know, I don't think we have it quite yet in the way.  
 **Translation:** 
 
-**[11222.90s] English:** that a normal startup does we don't have product market fit challenges because right now everybody's  
+**[11222.90s] English:** That's different from a normal startup, as we don't have product-market fit challenges because right now everyone's  
 **Translation:** 
 
-**[11228.92s] English:** using ai and so many of them are suffering and they want help and so again we started with strong  
+**[11228.92s] English:** Using AI, and so many of them are suffering and they want help. And so, again, we started with strong.  
 **Translation:** 
 
-**[11233.52s] English:** conviction now again you have to hire and recruit the best and the best all have jobs and so what  
+**[11233.52s] English:** Conviction, now again, you have to hire and recruit the best, and the best all have jobs, and so what?  
+**Translation:** Vocabulary: recruit: 招募
+
+**[11239.32s] English:** We've done is we said, "Okay, well, let's build an amazing culture—start with that." That's usually  
 **Translation:** 
 
-**[11239.32s] English:** we've done is we said okay well let's build an amazing culture start with that that's usually  
+**[11244.46s] English:** Not something a company starts with.  
 **Translation:** 
 
-**[11244.46s] English:** not something a company starts with  
+**[11246.02s] English:** Usually, you hire a bunch of people, and then it starts to turn into a gigantic mess as people begin to fight.  
 **Translation:** 
 
-**[11246.02s] English:** usually you hire a bunch of people and then it people start fighting and it turns into a gigantic  
+**[11250.34s] English:** Mess, and then you try to figure out how to improve your culture later. My co-founder Tim, in particular,  
+**Translation:** Vocabulary: gigantic: 巨大的
+
+**[11255.28s] English:** Is super passionate about making sure that's right, and we've spent a lot of time early on to  
 **Translation:** 
 
-**[11250.34s] English:** mess and then you try to figure out how to improve your culture later my co-founder tim in particular  
+**[11260.18s] English:** Make sure that we can scale. Can you comment on that, sorry? Before we get to the second point, yeah, what makes for a  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[11264.74s] English:** Good culture, um, so I mean, there are many different cultures, and I have learned many things from them.  
 **Translation:** 
 
-**[11255.28s] English:** is super passionate about making sure that that's right and we've spent a lot of time early on to  
+**[11270.00s] English:** Several very unique, almost famously unique, cultures, and some of them, I  
 **Translation:** 
 
-**[11260.18s] English:** make sure that we can scale can you comment sorry before we get to the second yeah what makes for a  
+**[11276.02s] English:** Learned what to do, and some of them I learned what not to do, okay, and so.  
 **Translation:** 
 
-**[11264.74s] English:** good culture um so i mean there's many different cultures and i have learned many things from  
-**Translation:** 
-
-**[11270.00s] English:** several very unique almost famously unique cultures and some of them i  
-**Translation:** 
-
-**[11276.02s] English:** learned what to do and some of them i learned what not to do okay and so  
-**Translation:** 
-
-**[11280.00s] English:** So we want an inclusive culture.  
+**[11280.00s] English:** So, we want an inclusive culture.  
 **Translation:** Vocabulary: inclusive: 包容的
 
 **[11284.00s] English:** I believe in amazing people working together.  
 **Translation:** 
 
-**[11289.06s] English:** And so I've seen cultures where you have amazing people  
+**[11289.06s] English:** And so, I've seen cultures where you have amazing people.  
 **Translation:** 
 
-**[11291.46s] English:** and they're fighting each other.  
+**[11291.46s] English:** And they're fighting each other.  
 **Translation:** 
 
-**[11293.24s] English:** I see amazing people and they're told what to do.  
+**[11293.24s] English:** I see amazing people, and they're told what to do.  
 **Translation:** 
 
-**[11296.58s] English:** Like, thou shalt line up and do what I say.  
+**[11296.58s] English:** Like, you shall line up and do what I say.  
 **Translation:** 
 
 **[11298.80s] English:** It doesn't matter if it's the right thing.  
-**Translation:** Vocabulary: shalt: 必须
+**Translation:** 
 
-**[11300.08s] English:** Do it, right?  
+**[11300.08s] English:** Do it right?  
 **Translation:** 
 
 **[11301.58s] English:** And neither of these is the...  
 **Translation:** 
 
-**[11303.10s] English:** And I've seen people that have no direction.  
+**[11303.10s] English:** And I've seen people who have no direction.  
 **Translation:** 
 
 **[11304.72s] English:** They're just kind of floating in different places.  
@@ -9313,166 +9314,166 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11308.34s] English:** They just don't know how.  
 **Translation:** 
 
-**[11309.00s] English:** And so a lot of it starts with have a clear vision, right?  
+**[11309.00s] English:** And so a lot of it starts with having a clear vision, right?  
 **Translation:** 
 
-**[11313.12s] English:** And so we have a clear vision of what we're doing.  
+**[11313.12s] English:** And so, we have a clear vision of what we're doing.  
 **Translation:** 
 
 **[11315.28s] English:** And so I kind of grew up at Apple in my engineering life, right?  
 **Translation:** 
 
 **[11319.86s] English:** And so a lot of the Apple DNA rubbed off on me.  
+**Translation:** Vocabulary: rubbed: 影响
+
+**[11323.36s] English:** My co-founder, Tim, is also like a strong product guy.  
 **Translation:** 
 
-**[11323.36s] English:** My co-founder, Tim, also is like a strong product guy.  
-**Translation:** 
-
-**[11326.10s] English:** And so what we learned is, you know,  
+**[11326.10s] English:** And so, what we learned is:  
 **Translation:** 
 
 **[11328.22s] English:** I was taught at Apple that you don't work from building cool technology.  
 **Translation:** 
 
-**[11332.08s] English:** You don't work from, like, come up with a cool product  
+**[11332.08s] English:** You don't work from, like, come up with a cool product.  
 **Translation:** 
 
-**[11334.64s] English:** and think about the features you'll have  
+**[11334.64s] English:** And think about the features you'll have.  
 **Translation:** 
 
-**[11336.02s] English:** and the big checkboxes and stuff like this.  
+**[11336.02s] English:** And the big checkboxes, and stuff like that.  
 **Translation:** Vocabulary: checkboxes: 复选框
 
-**[11337.68s] English:** Because if you go talk to customers,  
+**[11337.68s] English:** Because, if you go talk to customers,  
 **Translation:** 
 
-**[11339.48s] English:** they don't actually care about your product.  
+**[11339.48s] English:** They don't actually care about your product.  
 **Translation:** 
 
 **[11341.62s] English:** They don't care about your technology.  
 **Translation:** 
 
-**[11343.20s] English:** What they care about is their problems, right?  
+**[11343.20s] English:** What they care about are their problems, right?  
 **Translation:** 
 
 **[11346.60s] English:** And if your product can help solve their problems,  
 **Translation:** 
 
-**[11349.38s] English:** well, hey, they might be interested in that, right?  
+**[11349.38s] English:** Well, hey, they might be interested in that, right?  
 **Translation:** 
 
-**[11351.82s] English:** And so if you speak to them about their problems,  
+**[11351.82s] English:** And so, if you speak to them about their problems,  
 **Translation:** 
 
-**[11353.26s] English:** if you understand and you have compassion,  
+**[11353.26s] English:** If you understand and have compassion,  
 **Translation:** Vocabulary: compassion: 同情
 
-**[11354.72s] English:** you understand what people are working with,  
+**[11354.72s] English:** You understand what people are working with.  
 **Translation:** 
 
-**[11356.94s] English:** then you can work backwards to building an amazing product.  
+**[11356.94s] English:** Then, you can work backwards to building an amazing product.  
 **Translation:** Vocabulary: backwards: 逆向
 
-**[11359.36s] English:** So the vision starts by defining the problem.  
+**[11359.36s] English:** So, the vision starts by defining the problem.  
 **Translation:** 
 
 **[11361.78s] English:** And then you can work backwards in solving technology.  
 **Translation:** 
 
-**[11364.24s] English:** And at Apple, like, it's, I think, pretty famously said that, you know,  
+**[11364.24s] English:** And at Apple, like, it's pretty famously said that, you know,  
 **Translation:** 
 
-**[11367.48s] English:** for every, you know, there's 100 no's for every yes.  
+**[11367.48s] English:** For every yes, you know, there are 100 nos.  
 **Translation:** 
 
-**[11372.72s] English:** I would refine that to say that there's 100 not yet's for every yes.  
+**[11372.72s] English:** I would refine that to say that there are 100 "not-yets" for every "yes.  
 **Translation:** 
 
 **[11376.50s] English:** But famously, if you go back to the iPhone, for example, right?  
+**Translation:** Vocabulary: refine: 精炼
+
+**[11379.86s] English:** The iPhone 1—I mean, many people laughed at it.  
 **Translation:** 
 
-**[11379.86s] English:** The iPhone 1, I mean, many people laughed at it  
-**Translation:** 
-
-**[11382.54s] English:** because it didn't have 3G.  
+**[11382.54s] English:** Because it didn't have 3G.  
 **Translation:** 
 
 **[11384.14s] English:** It didn't have copy and paste, right?  
 **Translation:** 
 
-**[11387.12s] English:** And then a year later, okay, finally it has 3G,  
+**[11387.12s] English:** And then, a year later, okay, it finally has 3G.  
 **Translation:** 
 
-**[11390.38s] English:** but it still doesn't have copy and paste.  
+**[11390.38s] English:** But it still doesn't have copy and paste.  
 **Translation:** 
 
 **[11392.02s] English:** It's a joke.  
 **Translation:** 
 
-**[11392.50s] English:** Nobody will ever use this product, blah, blah, blah, blah, blah, blah, blah, right?  
+**[11392.50s] English:** Nobody will ever use this product, blah, blah, blah, right?  
 **Translation:** 
 
-**[11395.54s] English:** Well, year three, it had...  
+**[11395.54s] English:** Well, in year three, it had...  
 **Translation:** 
 
 **[11397.48s] English:** Copy and paste, and people stopped talking about it, right?  
 **Translation:** 
 
-**[11400.00s] English:** And so being laser-focused and having conviction and understanding what the core problems are  
+**[11400.00s] English:** And so, being laser-focused and having conviction, and understanding what the core problems are,...  
 **Translation:** 
 
-**[11406.24s] English:** and giving the team the space to be able to build the right tech is really important.  
+**[11406.24s] English:** And giving the team the space to be able to build the right tech is really important.  
 **Translation:** 
 
-**[11411.78s] English:** Also, I mean, you come back to recruiting, you have to pay well, right?  
+**[11411.78s] English:** Also, I mean, you come back to recruiting; you have to pay well, right?  
 **Translation:** Vocabulary: recruiting: 招聘
 
-**[11415.98s] English:** So we have to pay industry-leading salaries and have good benefits and things like this.  
+**[11415.98s] English:** So, we have to pay industry-leading salaries and good benefits, and things like that.  
 **Translation:** 
 
 **[11419.20s] English:** That's a big piece.  
-**Translation:** Vocabulary: salaries: 薪酬水平
+**Translation:** Vocabulary: salaries: 工资
 
 **[11420.54s] English:** We're a remote-first company.  
 **Translation:** 
 
-**[11422.40s] English:** And so we have to – so remote-first has a very strong set of pros and cons.  
+**[11422.40s] English:** And so, we have to acknowledge that remote-first has a very strong set of pros and cons.  
 **Translation:** 
 
-**[11430.88s] English:** On the one hand, you can hire people from wherever they are, and you can attract amazing talent  
+**[11430.88s] English:** On the one hand, you can hire people from wherever they are, and you can attract amazing talent.  
 **Translation:** 
 
-**[11435.82s] English:** even if they live in strange places or unusual places.  
+**[11435.82s] English:** Even if they live in strange or unusual places.  
 **Translation:** 
 
 **[11439.08s] English:** On the other hand, you have time zones.  
 **Translation:** 
 
-**[11442.04s] English:** On the other hand, you have, like, everybody on the Internet will fight if they don't understand each other.  
+**[11442.04s] English:** On the other hand, you have like everybody on the Internet will fight if they don't understand each other.  
 **Translation:** 
 
-**[11447.46s] English:** And so we've had to learn how to, like, have a system where we actually fly people in  
+**[11447.46s] English:** And so we've had to learn how to, like, have a system where we actually fly people in.  
 **Translation:** 
 
-**[11451.46s] English:** and we get the whole thing.  
+**[11451.46s] English:** And we get the whole thing.  
 **Translation:** 
 
-**[11452.40s] English:** We build the whole company together periodically, and then we get work groups together,  
+**[11452.40s] English:** We build the whole company together periodically, and then we get workgroups together.  
 **Translation:** 
 
-**[11455.10s] English:** and we plan and execute together.  
-**Translation:** 
+**[11455.10s] English:** And we plan and execute together.  
+**Translation:** Vocabulary: execute: 执行; workgroups: 工作小组
 
-**[11456.80s] English:** And there's, like, an intimacy to the in-person brainstorming that I guess you lose.  
+**[11456.80s] English:** And there's, like, an intimacy to in-person brainstorming that I guess you lose.  
 **Translation:** 
 
 **[11461.78s] English:** But maybe you don't.  
 **Translation:** Vocabulary: brainstorming: 头脑风暴; intimacy: 亲密氛围
 
-**[11462.90s] English:** Maybe if you get to know each other well and you trust each other, maybe you can do that.  
+**[11462.90s] English:** Maybe, if you get to know each other well and you trust each other, maybe you can do that.  
 **Translation:** 
 
-**[11466.48s] English:** Well, so when the pandemic first hit, I mean, I'm curious about your experience too.  
+**[11466.48s] English:** Well, so when the pandemic first hit, I'm curious about your experience too.  
 **Translation:** Vocabulary: pandemic: 全球大流行
 
 **[11469.98s] English:** The first thing I missed was having whiteboards.  
@@ -9484,22 +9485,22 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11473.50s] English:** Right?  
 **Translation:** 
 
-**[11473.76s] English:** Those design discussions where, like, I can high-intensity work through things, get things done,  
+**[11473.76s] English:** Those design discussions, where I can high-intensity work through things and get things done,  
 **Translation:** 
 
-**[11479.90s] English:** work through the problem of the day, understand where you're on.  
+**[11479.90s] English:** Work through the problem of the day, understand where you are.  
 **Translation:** 
 
-**[11481.80s] English:** And figure out and solve the problem and move forward.  
+**[11481.80s] English:** And figure out, solve the problem, and move forward.  
 **Translation:** 
 
 **[11484.60s] English:** Yeah.  
 **Translation:** 
 
-**[11486.10s] English:** But we've figured out ways to work around that now with, you know, all these screen sharing  
+**[11486.10s] English:** But we've figured out ways to work around that now with, you know, all these screen-sharing tools.  
 **Translation:** 
 
-**[11491.68s] English:** and other things like that that we do.  
+**[11491.68s] English:** And other things, like that, that we do.  
 **Translation:** 
 
 **[11493.08s] English:** The thing I miss now is sitting down at a lunch table with the team.  
@@ -9508,49 +9509,49 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11496.92s] English:** Yeah.  
 **Translation:** 
 
-**[11497.60s] English:** The spontaneous things, like the coffee bar things and the bumping into each other  
-**Translation:** Vocabulary: spontaneous: 随机发生
+**[11497.60s] English:** The spontaneous things, like the coffee bar interactions and bumping into each other.  
+**Translation:** Vocabulary: bumping: 偶然遇见; spontaneous: 自发的
 
-**[11504.04s] English:** and getting to know people outside of the transactional solve-a-problem-over-Zoom thing.  
+**[11504.04s] English:** And getting to know people outside of the transactional, solve-a-problem-over-Zoom thing.  
 **Translation:** 
 
-**[11509.26s] English:** And I think there's just a lot of stuff that...  
+**[11509.26s] English:** And I think there's just a lot of stuff that....  
 **Translation:** 
 
 **[11511.80s] English:** I'm not an expert at this.  
 **Translation:** 
 
-**[11513.76s] English:** I don't know who is.  
+**[11513.76s] English:** I don't know who it is.  
 **Translation:** 
 
-**[11515.02s] English:** Hopefully, there's some people.  
+**[11515.02s] English:** Hopefully, there are some people.  
 **Translation:** 
 
 **[11516.34s] English:** But there's stuff that somehow is missing on Zoom.  
 **Translation:** 
 
-**[11519.56s] English:** Even...  
+**[11519.56s] English:** Even....  
 **Translation:** 
 
-**[11520.00s] English:** With the whiteboard, if you look at that, if you have a room with one person at the whiteboard and there's, like, three other people at a table, there's a – first of all, there's a social aspect to that where you're just shooting the shit a little bit, almost like –  
+**[11520.00s] English:** With the whiteboard, if you look at that, in a room with one person at the whiteboard and three others at a table, there's a—first of all, there's a social aspect to that where you're just shooting the shit a little bit, almost like—  
 **Translation:** 
 
-**[11535.66s] English:** Yeah, as people are just kind of coming in and –  
+**[11535.66s] English:** Yeah, as people are just kind of coming in and—  
 **Translation:** 
 
-**[11537.58s] English:** Yeah, that, but also while, like, it's a breakout discussion that happens for, like, seconds at a time, maybe an inside joke, or it's, like, this interesting dynamic that happens that Zoom –  
+**[11537.58s] English:** Yeah, that, but also, while, like, it's a breakout discussion that happens for, like, seconds at a time—maybe an inside joke—or it's, like, this interesting dynamic that happens on Zoom.  
 **Translation:** Vocabulary: breakout: 分组讨论
 
 **[11550.38s] English:** And you're bonding, yeah.  
 **Translation:** 
 
 **[11551.38s] English:** You're bonding, you're bonding, but through that bonding, you get the excitement.  
+**Translation:** Vocabulary: bonding: 增进感情
+
+**[11555.82s] English:** There are certain ideas that are, like, complete bullshit, and you'll see that in the faces of others that you won't necessarily see on Zoom.  
 **Translation:** 
 
-**[11555.82s] English:** There's certain ideas that are, like, complete bullshit, and you'll see that in the faces of others that you won't see necessarily on Zoom.  
-**Translation:** 
-
-**[11564.30s] English:** Like, something – it feels like that should be possible.  
+**[11564.30s] English:** Like, something feels like it should be possible.  
 **Translation:** Vocabulary: bullshit: 胡说八道
 
 **[11567.58s] English:** It should be possible to do without being in person.  
@@ -9559,19 +9560,19 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11570.78s] English:** Well, I mean, being in person is a very different thing.  
 **Translation:** 
 
-**[11573.36s] English:** I don't –  
+**[11573.36s] English:** I don't.  
 **Translation:** 
 
 **[11574.02s] English:** It's worth it, but you can't always do it.  
 **Translation:** 
 
-**[11576.44s] English:** And so, again, we're still learning, and we're all still learning as, like, humanity with this new reality, right?  
+**[11576.44s] English:** And so, again, we're still learning, and we're all still learning, as humanity, with this new reality, right?  
 **Translation:** 
 
-**[11582.94s] English:** But what we found is that getting people together, whether it be a team or the whole company or whatever, is worth the expense because people work together and are happier after that.  
+**[11582.94s] English:** But what we found is that getting people together, whether it be a team or the whole company or whatever, is worth the expense because people work together and are happier afterward.  
 **Translation:** 
 
-**[11593.18s] English:** Like, it just – like, there's a massive period of time where you, like, go out and things.  
+**[11593.18s] English:** Like, it just feels like there's a massive period of time where you go out and do things.  
 **Translation:** 
 
 **[11597.60s] English:** You start getting afraid, pull people together, and then you realize that we're all working together.  
@@ -9581,21 +9582,21 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **Translation:** 
 
 **[11603.04s] English:** We work through the disagreement or the misunderstanding.  
+**Translation:** Vocabulary: disagreement: 意见不合
+
+**[11604.98s] English:** We're talking over each other, and then you work much better together.  
 **Translation:** 
 
-**[11604.98s] English:** We're talking across each other, and then you work much better together.  
+**[11608.18s] English:** And so, things like that, I think, are really quite important.  
 **Translation:** 
 
-**[11608.18s] English:** And so things like that, I think, are really quite important.  
-**Translation:** 
-
-**[11610.74s] English:** What about people that are kind of specialized in very different aspects of the stack working together?  
+**[11610.74s] English:** What about people who are specialized in very different aspects of the stack working together?  
 **Translation:** 
 
 **[11616.36s] English:** What are some interesting challenges there?  
 **Translation:** 
 
-**[11618.32s] English:** Yeah, well, so, I mean, there's lots of interesting people, as you can tell.  
+**[11618.32s] English:** Yeah, well, so, I mean, there are lots of interesting people as you can tell.  
 **Translation:** 
 
 **[11621.02s] English:** I'm, you know, hard to deal with, too.  
@@ -9604,274 +9605,274 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[11624.36s] English:** You're one of the most lovable people.  
 **Translation:** 
 
-**[11627.58s] English:** So one of the – so there's different philosophies in building teams.  
-**Translation:** Vocabulary: lovable: 讨人喜欢; philosophies: 哲学
-
-**[11631.64s] English:** For me – and so some people say, hire 10x programmers, and that's the only thing – whatever that means, right?  
+**[11627.58s] English:** So, one of the different philosophies in building teams is...  
 **Translation:** 
 
-**[11638.78s] English:** What I believe in is build –  
+**[11631.64s] English:** For me—and some people say to hire 10x programmers—and that's the only thing, whatever that means, right?  
+**Translation:** 
+
+**[11638.78s] English:** What I believe in is build.  
 **Translation:** Vocabulary: programmers: 程序员
 
-**[11640.00s] English:** building well-balanced teams teams that have people that are different in them like if you  
+**[11640.00s] English:** Building well-balanced teams, teams that have people who are different from each other — like if you  
 **Translation:** 
 
-**[11645.72s] English:** have all generals and no troops or all troops and no generals or you have all people that think in  
+**[11645.72s] English:** Have all generals and no troops, or all troops and no generals, or you have all people that think in  
 **Translation:** 
 
-**[11651.90s] English:** one way and not the other way what you get is you get a very biased and skewed and weird situation  
+**[11651.90s] English:** One way, and not the other way, and what you get is a very biased, skewed, and weird situation.  
 **Translation:** 
 
-**[11656.28s] English:** where people end up being unhappy and so what i like to do is i like to build teams of people  
-**Translation:** Vocabulary: skewed: 歪曲的
+**[11656.28s] English:** Where people end up being unhappy, and so what I like to do is build teams of people.  
+**Translation:** Vocabulary: biased: 有偏见的; skewed: 歪曲的
 
-**[11660.66s] English:** where they're not all the same you know we do have teams and they're focused on like runtime  
+**[11660.66s] English:** Where they're not all the same, you know, we do have teams, and they're focused on things like runtime.  
 **Translation:** 
 
-**[11665.60s] English:** or compiler gpu or accelerator or whatever the the speciality is but people bring a different  
-**Translation:** Vocabulary: accelerator: 加速器; runtime: 运行时
+**[11665.60s] English:** Or, for a compiler, GPU, or accelerator—or whatever the specialty is—but people bring a different  
+**Translation:** Vocabulary: accelerator: 加速器; runtime: 运行时; specialty: 专长
 
-**[11670.54s] English:** take and have a different perspective and i look for people that complement each other  
+**[11670.54s] English:** Take a step back, have a different perspective, and I look for people who complement each other.  
 **Translation:** 
 
-**[11674.62s] English:** and particularly if you look at leadership teams and things like this you don't want  
+**[11674.62s] English:** And particularly, if you look at leadership teams and things like this, you don't want  
 **Translation:** 
 
-**[11678.52s] English:** everybody thinking the same way you want people bringing different perspectives and experiences  
+**[11678.52s] English:** Everybody's thinking the same way, but you want people bringing different perspectives and experiences.  
 **Translation:** 
 
-**[11683.22s] English:** and so i think that's really important that's team but what about building a company as ambitious  
+**[11683.22s] English:** And so, I think that's really important—that's the team—but what about building a company that is just as ambitious?  
 **Translation:** Vocabulary: perspectives: 观点
 
-**[11688.40s] English:** as modular so what uh some interesting questions there oh i mean so many like so um one of the  
+**[11688.40s] English:** As it is modular, so what? Uh, some interesting questions there. Oh, I mean, so many, like, um, one of the  
 **Translation:** 
 
-**[11695.44s] English:** things that i've been doing is i've been doing a lot of things that i've been doing for a long  
+**[11695.44s] English:** Things that I've been doing is that I've been doing a lot of things for a long time.  
 **Translation:** Vocabulary: modular: 模块化的
 
-**[11695.58s] English:** time and one of the things i love about okay so modular is the first company i built from scratch  
+**[11695.58s] English:** Time, and one of the things I love about it is that it was the first company I built from scratch.  
 **Translation:** 
 
-**[11699.18s] English:** um uh one of the first things that was profound was i'm not cleaning up somebody else's mess  
-**Translation:** Vocabulary: profound: 深刻
+**[11699.18s] English:** Um, uh, one of the first things that was profound was I'm not cleaning up somebody else's mess.  
+**Translation:** Vocabulary: profound: 深刻; scratch: 从零开始
 
-**[11707.02s] English:** right and so if you look at that's liberating to some degree it's super liberating and um  
+**[11707.02s] English:** Right, and so if you look at that, it's liberating to some degree—it's super liberating—and um,...  
 **Translation:** 
 
-**[11712.76s] English:** and also many of the projects i've built in the past have not been core to the product of the  
-**Translation:** Vocabulary: liberating: 解放性的
+**[11712.76s] English:** And also, many of the projects I've built in the past have not been core to the product of the  
+**Translation:** Vocabulary: liberating: 令人解放
 
-**[11718.56s] English:** company swift is not apple's product right uh mlir is not google's product is not apple's product  
+**[11718.56s] English:** Company Swift is not Apple's product, right? MLIR is not Google's product; it is not Apple's product.  
 **Translation:** 
 
-**[11725.58s] English:** is not google's revenue machine or whatever right it's not it's it's important but it's like working  
+**[11725.58s] English:** Is not Google's revenue machine, or whatever—right? It's not; it's important, but it's like working.  
 **Translation:** 
 
-**[11731.10s] English:** on the accounting software for you know the the retail giant or something right it's it's it's  
+**[11731.10s] English:** On the accounting software for, you know, the retail giant or something, it's, it's, it's  
 **Translation:** 
 
-**[11736.76s] English:** it's like enabling infrastructure and technology and so at modular the the tech we're building is  
+**[11736.76s] English:** It's like enabling infrastructure and technology, and so at Modular, the tech we're building is  
 **Translation:** 
 
-**[11742.48s] English:** here to solve people's problems like it is directly the thing that we're giving to people  
+**[11742.48s] English:** Here, we are solving people's problems, like it is the very thing we are giving to people.  
 **Translation:** 
 
-**[11747.10s] English:** and so this is a really big difference and what it means for me as a leader but also  
+**[11747.10s] English:** And so, this is a really big difference, and what it means for me as a leader, but also,...  
 **Translation:** 
 
-**[11751.82s] English:** for many of our engineers is they're working on the thing that matters  
+**[11751.82s] English:** For many of our engineers, they're working on the thing that matters.  
 **Translation:** 
 
-**[11755.58s] English:** and that's actually pretty i mean again for for compiler people and things like that that's that's  
+**[11755.58s] English:** And that's actually pretty. I mean, again, for compiler people and things like that, that's that's.  
 **Translation:** 
 
-**[11760.00s] English:** usually not the case right and so that's that's also pretty exciting and and quite nice but the  
+**[11760.00s] English:** Usually, not the case, right? And so that's also pretty exciting and quite nice, but the  
 **Translation:** 
 
-**[11765.84s] English:** um one of the ways that this manifests is it makes it easier to make decisions  
-**Translation:** Vocabulary: manifests: 表现
+**[11765.84s] English:** Um, one of the ways that this manifests is that it makes it easier to make decisions.  
+**Translation:** Vocabulary: manifests: 显现
 
-**[11771.20s] English:** and so one of the challenges i've had in other worlds is it's like okay well  
+**[11771.20s] English:** And so, one of the challenges I've had in other worlds is it's like, "okay, well,  
 **Translation:** 
 
-**[11775.44s] English:** community matters somehow for the goodness of the world like or open source matters theoretically  
+**[11775.44s] English:** Community matters, somehow, for the goodness of the world, like or open source matters theoretically.  
 **Translation:** Vocabulary: theoretically: 理论上
 
-**[11781.68s] English:** but i don't want to pay for a t-shirt yeah right or some swag like well t-shirts cost  
+**[11781.68s] English:** But I don't want to pay for a t-shirt, yeah? Right? Or some swag, like, t-shirts cost.  
 **Translation:** 
 
-**[11787.84s] English:** 10 bucks each you can have 100 t-shirts for a thousand dollars to a mega corp a thousand dollars  
-**Translation:** Vocabulary: bucks: 美元
-
-**[11792.64s] English:** is uncountably can't count that low right but justifying it and getting a t-shirt by the way  
+**[11787.84s] English:** $10 each. You can have 100 t-shirts for $1,000 to a mega-corp. $1,000.  
 **Translation:** 
 
-**[11799.52s] English:** if you'd like a t-shirt i can give you a t-shirt well i would 100 percent like a t-shirt are you  
-**Translation:** Vocabulary: justifying: 辩解
-
-**[11804.56s] English:** joking you can have a fire emoji t-shirt i will i will treasure this i will pass it down to my  
+**[11792.64s] English:** Is uncountably, can't count that low, right? But justifying it and getting a t-shirt, by the way.  
 **Translation:** 
 
-**[11812.32s] English:** grandchildren and so you know it's very liberating to be able to decide i think that should have a  
+**[11799.52s] English:** If you'd like to give me a T-shirt, I can take one. Would you happen to have one?  
+**Translation:** Vocabulary: justifying: 证明合理性
+
+**[11804.56s] English:** Joking, you can have a "fire" emoji T-shirt. I will treasure this and pass it down to my  
 **Translation:** 
 
-**[11816.80s] English:** t-shirt  
+**[11812.32s] English:** Grandchildren, and so you know, it's very liberating to be able to decide. I think that should have a  
+**Translation:** Vocabulary: liberating: 令人解放
+
+**[11816.80s] English:** T-shirt  
 **Translation:** 
 
-**[11818.80s] English:** right and it becomes very simple because i like lex this this uh this is awesome um so  
+**[11818.80s] English:** Right, and it becomes very simple because I like Lex; this is awesome, um, so  
 **Translation:** 
 
-**[11829.68s] English:** i have to ask you about the one of the interesting developments with large language models  
+**[11829.68s] English:** I have to ask you about one of the interesting developments with large language models.  
 **Translation:** 
 
-**[11838.00s] English:** is that they're able to generate code uh recently really well yes to a degree that uh maybe a  
+**[11838.00s] English:** Is that they're able to generate code, uh, recently, really well? Yes, to a degree that, uh, maybe a  
 **Translation:** 
 
-**[11848.80s] English:** i don't know if you understand but i have i struggle to understand because it  
+**[11848.80s] English:** I don't know if you understand, but I have trouble understanding because it...  
 **Translation:** 
 
-**[11853.12s] English:** it forces me to ask questions about the nature of programming of the nature of thought because  
+**[11853.12s] English:** It forces me to ask questions about the nature of programming and the nature of thought because.  
 **Translation:** 
 
-**[11860.24s] English:** the uh language models are able to predict the kind of code i was about to write so well  
+**[11860.24s] English:** The language models are able to predict the kind of code I was about to write so well.  
 **Translation:** 
 
-**[11865.12s] English:** yep that it makes me wonder like how unique my brain is and where the valuable  
+**[11865.12s] English:** Yep, that makes me wonder how unique my brain is and where the value lies.  
 **Translation:** 
 
-**[11869.60s] English:** ideas actually come from like how much do i contribute in terms of uh ingenuity innovation  
+**[11869.60s] English:** Ideas actually come from how much I contribute in terms of ingenuity and innovation.  
 **Translation:** 
 
-**[11877.12s] English:** to code  
-**Translation:** Vocabulary: ingenuity: 创造力
+**[11877.12s] English:** To code.  
+**Translation:** Vocabulary: ingenuity: 创造性
 
-**[11877.84s] English:** i write or design and that kind of  
+**[11877.84s] English:** I write or design, and that kind of  
 **Translation:** 
 
-**[11880.00s] English:** stuff um when you stand on the shoulders of giants are you really doing anything and what llms are  
+**[11880.00s] English:** Stuff, um, when you stand on the shoulders of giants, are you really doing anything? And what LLMs are?  
 **Translation:** 
 
-**[11885.40s] English:** helping you do is they help you stand on the shoulders of giants in your program  
+**[11885.40s] English:** Helping you do that is they help you stand on the shoulders of giants in your program.  
 **Translation:** 
 
-**[11889.90s] English:** there's mistakes they're interesting that you learn from but i just it would love to get your  
+**[11889.90s] English:** There are mistakes, they're interesting because you learn from them, but I just would love to get your.  
 **Translation:** 
 
-**[11895.28s] English:** opinion first high level yeah of what you think about uh this impact of large language models  
+**[11895.28s] English:** Opinion: First, high-level, yeah, of what you think about this impact of large language models.  
 **Translation:** 
 
-**[11901.30s] English:** when they do program synthesis when they generate code yeah well so um i don't know where it all  
+**[11901.30s] English:** When they do program synthesis, when they generate code, yeah, well, so, um, I don't know where it all  
 **Translation:** Vocabulary: synthesis: 合成
 
-**[11907.98s] English:** goes yeah um i'm an optimist and i'm a human optimist right i think that um things i've seen  
+**[11907.98s] English:** Goes: Yeah, um, I'm an optimist and a human optimist, right? I think that, um, things I've seen...  
 **Translation:** 
 
-**[11914.66s] English:** are that a lot of the llms are really good at crushing leak code projects and they can reverse  
+**[11914.66s] English:** Are there a lot of LLMs that are really good at crushing leak code projects and they can reverse?  
 **Translation:** Vocabulary: optimist: 乐观主义者
 
-**[11919.80s] English:** the link list like crazy um well it turns out there's a lot of instances of that on the internet  
+**[11919.80s] English:** The link list like crazy, um. Well, it turns out there are a lot of instances of that on the Internet.  
 **Translation:** 
 
-**[11925.18s] English:** and it's a pretty stock thing and so if you want to see standard questions answered llms can  
+**[11925.18s] English:** And it's a pretty standard thing, and so if you want to see standard questions answered, LLMs can.  
 **Translation:** 
 
-**[11931.06s] English:** memorize all the answers and that can be amazing and also they do generalize out from that and so  
+**[11931.06s] English:** Memorize all the answers, and that can be amazing; and also, they do generalize out from that, and so.  
 **Translation:** 
 
-**[11935.30s] English:** there's good work on that but um  
-**Translation:** Vocabulary: generalize: 归纳; memorize: 记忆
+**[11935.30s] English:** There's good work on that, but, um,...  
+**Translation:** Vocabulary: generalize: 泛化; memorize: 记忆
 
-**[11937.98s] English:** but i think that if you in my experience building things building something like you talk about  
+**[11937.98s] English:** But I think that, if you look at my experience building things, building something like you're talking about,...  
 **Translation:** 
 
-**[11942.94s] English:** mojo or you talk about these things you talk about building an applied solution to a problem it's  
+**[11942.94s] English:** Mojo, or when you talk about these things, you talk about building an applied solution to a problem, it's  
 **Translation:** 
 
-**[11948.12s] English:** also about working with people it's about understanding the problem what is the product  
+**[11948.12s] English:** Also, it's about working with people, understanding the problem: what is the product?  
 **Translation:** 
 
-**[11952.06s] English:** that you want to build what are the use case what are the customers you can't just go survey all the  
+**[11952.06s] English:** That you want to build, what are the use cases? What are the customers? You can't just go and survey all the  
 **Translation:** 
 
-**[11956.34s] English:** customers because they'll tell you that they want a faster horse maybe they need a car right and so  
+**[11956.34s] English:** Customers, because they'll tell you that they want a faster horse, maybe they need a car, right?  
 **Translation:** 
 
-**[11961.78s] English:** a lot of it comes into um you know i don't feel like we have to compete with llms i think they'll  
+**[11961.78s] English:** A lot of it comes into, um, you know, I don't feel like we have to compete with LLMs; I think they'll  
 **Translation:** 
 
-**[11966.86s] English:** help automate a ton of the problems that we're dealing with and i think that's a really good  
+**[11966.86s] English:** Help automate a ton of the problems we're dealing with, and I think that's a really good idea.  
 **Translation:** 
 
-**[11967.98s] English:** thing to do and i think that's a really good thing to do and i think that's a really good thing to do  
+**[11967.98s] English:** A thing to do, and I think that's a really good thing to do, and I think that's a really good thing to do.  
 **Translation:** Vocabulary: automate: 自动化
 
-**[11968.04s] English:** mechanical stuff out of the way and just like you know i think we all try to scale through  
+**[11968.04s] English:** Mechanical stuff out of the way, and just like you know, I think we all try to scale through.  
 **Translation:** 
 
-**[11973.00s] English:** delegation and things like this delegating wrote things to an llm i think is an extremely valuable  
-**Translation:** Vocabulary: delegating: 委托任务
+**[11973.00s] English:** Delegation and things like this, delegating tasks to an LLM, I think is an extremely valuable.  
+**Translation:** Vocabulary: delegating: 分配任务
 
-**[11978.16s] English:** and approach that will help us all scale and be more productive but i think it's a it's a  
+**[11978.16s] English:** And, I think an approach that will help us all scale and be more productive, but I believe it's also important to note that...  
 **Translation:** 
 
-**[11983.78s] English:** fascinating companion but i'd say i don't think that means that we're going to be done with coding  
+**[11983.78s] English:** Fascinating companion, but I'd say I don't think that means we're going to be done with coding.  
 **Translation:** 
 
-**[11987.36s] English:** but there's power in it as a companion and from there i could i would love to zoom in onto mojo  
+**[11987.36s] English:** But there's power in it as a companion, and from there I could really love to zoom in on Mojo.  
 **Translation:** 
 
-**[11995.94s] English:** a little bit do you think uh  
+**[11995.94s] English:** A little bit, do you think, uh,...  
 **Translation:** 
 
-**[11997.98s] English:** do you think about that do you think about  
+**[11997.98s] English:** Do you think about that? Do you think about  
 **Translation:** 
 
-**[12000.00s] English:** about LLMs generating Mojo code and helping sort of like when you design a new programming language,  
+**[12000.00s] English:** About LLMs generating Mojo code and helping, kind of like when you design a new programming language.  
 **Translation:** 
 
-**[12007.64s] English:** it almost seems like, man, it would be nice to sort of almost as a way to learn how I'm supposed to use this thing for them to be trained on some of the Mojo code.  
+**[12007.64s] English:** It almost seems like, man, it would be nice to sort of almost as a way to learn how I'm supposed to use this thing for them to be trained on some of the Mojo code.  
 **Translation:** 
 
-**[12019.48s] English:** So I do lead an AI company, so maybe there will be a Mojo LLM at some point.  
+**[12019.48s] English:** So, I do lead an AI company, so maybe there will be a Mojo LLM at some point.  
 **Translation:** 
 
-**[12024.76s] English:** But if your question is like, how do we make a language to be suitable for LLMs?  
+**[12024.76s] English:** But if your question is, "How do we make a language suitable for LLMs?  
 **Translation:** 
 
-**[12030.72s] English:** I think the cool thing about LLMs is you don't have to, right?  
+**[12030.72s] English:** I think the cool thing about LLMs is that you don't have to, right?  
 **Translation:** 
 
-**[12036.96s] English:** And so if you look at what is English or any of these other terrible languages that we as humans deal with on a continuous basis,  
+**[12036.96s] English:** And so, if you look at what English—or any of these other terrible languages that we humans have to deal with on a continuous basis—is like,  
 **Translation:** 
 
-**[12043.22s] English:** they're never designed for machines, and yet they're the intermediate representation.  
+**[12043.22s] English:** They're never designed for machines, and yet they're the intermediate representation.  
 **Translation:** 
 
 **[12048.44s] English:** They're the exchange format that we humans use to get stuff done, right?  
 **Translation:** 
 
-**[12052.24s] English:** And so these programming languages, they're an intermediate.  
+**[12052.24s] English:** And so these programming languages are an intermediate.  
 **Translation:** 
 
-**[12054.76s] English:** They're an intermediate representation between the human and the computer, or the human and the compiler, roughly, right?  
+**[12054.76s] English:** They are an intermediate representation between the human and the computer, or the human and the compiler, roughly, right?  
 **Translation:** 
 
-**[12060.58s] English:** And so I think the LLMs will have no problem learning whatever keyword we pick.  
-**Translation:** Vocabulary: keyword: 关键字
+**[12060.58s] English:** And so, I think the LLMs will have no problem learning whatever keyword we pick.  
+**Translation:** Vocabulary: keyword: 关键词
 
-**[12065.60s] English:** Maybe the phi emoji is going to be critical.  
+**[12065.60s] English:** Maybe the φ emoji is going to be critical.  
 **Translation:** 
 
 **[12067.60s] English:** Oh, maybe that's going to break it. It doesn't tokenize.  
 **Translation:** Vocabulary: tokenize: 分词
 
-**[12069.42s] English:** No, the reverse of that, it will actually enable it.  
+**[12069.42s] English:** No; the reverse of that will actually enable it.  
 **Translation:** 
 
-**[12072.42s] English:** Because one of the issues I could see with being a superset of Python is there would be confusion about the gray area.  
+**[12072.42s] English:** Because one of the issues I could see with being a superset of Python is that there would be confusion about the gray area.  
 **Translation:** 
 
-**[12079.26s] English:** So it would be mixing stuff.  
+**[12079.26s] English:** So, it would be mixing stuff.  
 **Translation:** 
 
 **[12083.00s] English:** Well, I'm a human optimist. I'm awesome.  
@@ -9892,16 +9893,16 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12098.02s] English:** They really want the indentation to be right.  
 **Translation:** 
 
-**[12099.50s] English:** They really want the colon to be there on your else, or else it will complain, right?  
+**[12099.50s] English:** They really want the colon to be there in your else, or else it will complain, right?  
 **Translation:** Vocabulary: indentation: 缩进
 
 **[12103.24s] English:** I mean, compilers can do better at this, but LLMs can totally help solve that problem.  
 **Translation:** 
 
-**[12108.66s] English:** And so I'm very happy about the new predictive coding and copilot-type features and things like this,  
-**Translation:** Vocabulary: predictive: 预测性
+**[12108.66s] English:** And so, I'm very happy about the new predictive coding and copilot-type features, and things like this.  
+**Translation:** Vocabulary: predictive: 预测性的
 
-**[12113.78s] English:** because I think it will all just make sense.  
+**[12113.78s] English:** Because I think it will all just make sense.  
 **Translation:** 
 
 **[12114.60s] English:** I think it will all just make sense.  
@@ -9910,10 +9911,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12114.74s] English:** I think it's more productive.  
 **Translation:** 
 
-**[12115.98s] English:** It's still messy and fuzzy and uncertain, unpredictable.  
-**Translation:** Vocabulary: fuzzy: 模糊
+**[12115.98s] English:** It's still messy, fuzzy, and uncertain—unpredictable.  
+**Translation:** Vocabulary: fuzzy: 模糊; unpredictable: 不可预测
 
-**[12120.00s] English:** But is there a future you see, given how big of a leap GPT-4 was, where you start to see something like LLMs inside a compiler or no?  
+**[12120.00s] English:** But is there a future you see, given how big of a leap GPT-4 was, where you start to see something like LLMs inside a compiler—or no?  
 **Translation:** 
 
 **[12131.58s] English:** I mean, you could do that.  
@@ -9931,59 +9932,59 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12136.36s] English:** Well, I mean, it would be very expensive.  
 **Translation:** 
 
-**[12139.36s] English:** So compilers run fast and they're very efficient and LLMs are currently very expensive.  
+**[12139.36s] English:** So, compilers run fast and they're very efficient, and LLMs are currently very expensive.  
 **Translation:** 
 
-**[12143.94s] English:** There's on-device LLMs and there's other things going on.  
+**[12143.94s] English:** There's on-device LLMs, and there are other things going on.  
 **Translation:** 
 
-**[12146.30s] English:** And so maybe there's an answer there.  
+**[12146.30s] English:** And so, maybe there's an answer there.  
 **Translation:** 
 
-**[12148.34s] English:** I think that one of the things that I haven't seen enough of is that LLMs to me are amazing when you tap into the creative potential of the hallucinations.  
+**[12148.34s] English:** I think that one of the things I haven't seen enough of is that LLMs, to me, are amazing when you tap into the creative potential of hallucinations.  
 **Translation:** Vocabulary: hallucinations: 幻觉
 
-**[12160.16s] English:** And so if you're doing creative brainstorming or creative writing or things like that, the hallucinations work in your favor.  
+**[12160.16s] English:** And so, if you're doing creative brainstorming or creative writing or things like that, the hallucinations work in your favor.  
 **Translation:** 
 
 **[12168.26s] English:** If you're writing code that has to be correct because you're going to ship it in production, then maybe that's not actually a feature.  
 **Translation:** Vocabulary: brainstorming: 头脑风暴
 
-**[12173.60s] English:** And so I think that there has been research and there has been work on building.  
+**[12173.60s] English:** And so, I think that there has been research and work on building.  
 **Translation:** 
 
-**[12178.34s] English:** And so I think that there could be interesting work in terms of building more reliable at scale systems.  
-**Translation:** 
+**[12178.34s] English:** And so, I think that there could be interesting work in terms of building more reliable and scalable systems.  
+**Translation:** Vocabulary: scalable: 可扩展的
 
 **[12190.10s] English:** And that could be interesting.  
 **Translation:** 
 
-**[12191.38s] English:** But if you chase that rabbit hole down, the question then becomes, how do you express your intent to the machine?  
-**Translation:** 
+**[12191.38s] English:** But if you chase that rabbit hole down, the question then becomes: How do you express your intent to the machine?  
+**Translation:** Vocabulary: intent: 意图
 
-**[12196.78s] English:** And so maybe you want LLM to provide the spec, but you have a different kind of net that then actually implements the code.  
+**[12196.78s] English:** And so, maybe you want the LLM to provide the specification, but you have a different kind of network that then actually implements the code.  
 **Translation:** 
 
 **[12203.60s] English:** Right.  
-**Translation:** Vocabulary: implements: 实现代码
+**Translation:** Vocabulary: implements: 实现; specification: 规范
 
-**[12204.16s] English:** So it's to use the documentation and inspiration.  
+**[12204.16s] English:** So, it's to use the documentation and inspiration.  
 **Translation:** 
 
 **[12208.34s] English:** This is the actual implementation.  
-**Translation:** 
+**Translation:** Vocabulary: implementation: 实施方案
 
 **[12210.62s] English:** Yeah, potentially.  
 **Translation:** 
 
-**[12213.08s] English:** Since a successful modular will be the thing that runs, I say so jokingly, our AI overlords.  
+**[12213.08s] English:** Since a successful modular will be the thing that runs, I say, jokingly, "our AI overlords.  
 **Translation:** Vocabulary: modular: 模块化
 
-**[12220.98s] English:** But AI systems that are used across, I know it's a cliche term, but Internet of Things.  
+**[12220.98s] English:** But AI systems that are used across, I know it's a cliché term, but the Internet of Things.  
 **Translation:** 
 
-**[12227.74s] English:** So I'll joke and say like AGI should be written in Mojo.  
-**Translation:** Vocabulary: cliche: 陈词滥调
+**[12227.74s] English:** So, I'll joke and say that AGI should be written in Mojo.  
+**Translation:** 
 
 **[12232.12s] English:** Yeah, AGI should be written in Mojo.  
 **Translation:** 
@@ -9991,40 +9992,40 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12234.12s] English:** You're joking, but it's also possible that it's not a joke.  
 **Translation:** 
 
-**[12238.34s] English:** That a lot of the ideas.  
+**[12238.34s] English:** That's a lot of ideas.  
 **Translation:** 
 
-**[12240.00s] English:** behind Mojo, it seems like the natural set of ideas that would enable at-scale training  
+**[12240.00s] English:** Behind Mojo, it seems like the natural set of ideas that would enable at-scale training.  
 **Translation:** 
 
-**[12246.90s] English:** and inference of AI systems.  
+**[12246.90s] English:** And inference of AI systems.  
 **Translation:** 
 
-**[12250.46s] English:** So I just have to ask you about the big philosophical question about human civilization.  
+**[12250.46s] English:** So, I just have to ask you about the big philosophical question regarding human civilization.  
 **Translation:** Vocabulary: inference: 推理; philosophical: 哲学的
 
-**[12255.04s] English:** So folks like Eliezer Yudkowsky are really concerned about the threat of AI.  
+**[12255.04s] English:** So, folks like Eliezer Yudkowsky are really concerned about the threat of AI.  
 **Translation:** 
 
-**[12260.40s] English:** Do you think about the good and the bad that can happen at scale deployment of AI systems?  
+**[12260.40s] English:** Do you think about the good and the bad that can happen with large-scale deployment of AI systems?  
 **Translation:** Vocabulary: deployment: 部署
 
-**[12269.16s] English:** Well, so I've thought a lot about it, and there's a lot of different parts to this problem,  
+**[12269.16s] English:** Well, so I've thought a lot about it, and there are a lot of different parts to this problem.  
 **Translation:** 
 
-**[12274.00s] English:** everything from job displacement to Skynet, things like this.  
-**Translation:** Vocabulary: displacement: 岗位替代
+**[12274.00s] English:** Everything from job displacement to Skynet, things like this.  
+**Translation:** Vocabulary: displacement: 失业
 
-**[12278.52s] English:** And so you can zoom into subparts of this problem.  
+**[12278.52s] English:** And so, you can zoom into subparts of this problem.  
 **Translation:** 
 
 **[12283.32s] English:** I'm not super optimistic about AGI being solved next year.  
 **Translation:** Vocabulary: optimistic: 乐观; subparts: 子部分
 
-**[12288.10s] English:** I don't think that's going to happen personally.  
+**[12288.10s] English:** I don't think that's going to happen, personally.  
 **Translation:** 
 
-**[12290.16s] English:** So you have a kind of Zen-like calm about it.  
+**[12290.16s] English:** So, you have a kind of Zen-like calm about it.  
 **Translation:** 
 
 **[12294.00s] English:** There's a nervousness because the leap of GPT-4 seemed so big.  
@@ -10033,29 +10034,29 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12298.74s] English:** Sure.  
 **Translation:** Vocabulary: nervousness: 焦虑感
 
-**[12299.70s] English:** It's like we're almost where there's some kind of transitionary period.  
+**[12299.70s] English:** It's like we're almost in a transitional period.  
 **Translation:** 
 
 **[12304.04s] English:** You're thinking we're a little bit over.  
-**Translation:** Vocabulary: transitionary: 过渡的
+**Translation:** Vocabulary: transitional: 过渡的
 
-**[12305.96s] English:** So, I mean, there's a couple of things going on there.  
+**[12305.96s] English:** So, I mean, there are a couple of things going on there.  
 **Translation:** 
 
-**[12307.80s] English:** One is I'm sure GPT-5 and 7 and 19 will be also huge leaps.  
+**[12307.80s] English:** One is, I'm sure GPT-5, 7, and 19 will be huge leaps as well.  
 **Translation:** 
 
 **[12313.42s] English:** They're also getting much more expensive to run.  
 **Translation:** 
 
-**[12315.80s] English:** And so there may be a limiting function in terms of just expense on the one hand and train.  
+**[12315.80s] English:** And so, there may be a limiting factor in terms of just expense on the one hand, and training.  
 **Translation:** 
 
 **[12320.50s] English:** That could be a limiter that slows things down.  
 **Translation:** 
 
-**[12323.12s] English:** But I think the bigger limiter is outside of Skynet takes over.  
-**Translation:** 
+**[12323.12s] English:** But I think the bigger limitation is outside of when Skynet takes over.  
+**Translation:** Vocabulary: limiter: 限制器
 
 **[12328.08s] English:** And I don't spend any time.  
 **Translation:** 
@@ -10063,13 +10064,13 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12329.16s] English:** I'm thinking about that because if Skynet takes over and kills us all, then I'll be dead.  
 **Translation:** 
 
-**[12332.12s] English:** So I don't worry about that.  
+**[12332.12s] English:** So, I don't worry about that.  
 **Translation:** 
 
-**[12334.10s] English:** So, you know, I mean, that's just OK.  
+**[12334.10s] English:** So, you know, I mean, that's just okay.  
 **Translation:** 
 
-**[12336.66s] English:** Other things to worry about, I'll just focus on.  
+**[12336.66s] English:** Other things to worry about; I'll just focus on.  
 **Translation:** 
 
 **[12338.58s] English:** I'll focus and not worry about that one.  
@@ -10078,110 +10079,110 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12341.22s] English:** But I think that the other thing I'd say is that AI moves quickly, but humans move slowly and we adapt slowly.  
 **Translation:** 
 
-**[12348.90s] English:** And so what I expect to happen is just like any technology diffusion, like the promise and then the application takes time to roll out.  
+**[12348.90s] English:** And so, what I expect to happen is just like any technology diffusion: the promise and then the application take time to roll out.  
 **Translation:** Vocabulary: diffusion: 扩散
 
-**[12358.16s] English:** And so I think that I'm.  
+**[12358.16s] English:** And so, I think that I am.  
 **Translation:** 
 
-**[12360.00s] English:** not even too worried about autonomous cars defining away all the taxi drivers remember  
+**[12360.00s] English:** Not even too worried about autonomous cars defining away all the taxi drivers, remember?  
+**Translation:** Vocabulary: autonomous: 自主的
+
+**[12365.02s] English:** Autonomy is supposed to be solved by 2020, yeah. I do remember that, so like, I think...  
 **Translation:** 
 
-**[12365.02s] English:** autonomy is supposed to be solved by 2020 yeah i boy do i remember so and um and so like i think  
-**Translation:** 
-
-**[12371.26s] English:** that on the one hand we can see amazing progress but on the other hand we can see that uh you know  
+**[12371.26s] English:** That, on one hand, we can see amazing progress, but on the other hand, we can see that, you know,  
 **Translation:** Vocabulary: autonomy: 自主权
 
-**[12377.00s] English:** the reality is a little bit more complicated and it may take longer to roll out than than you might  
+**[12377.00s] English:** The reality is a little bit more complicated, and it may take longer to roll out than you might.  
 **Translation:** 
 
-**[12381.50s] English:** expect well that's in the physical space i i do think in the digital space is uh the stuff that's  
+**[12381.50s] English:** Expect, well, that's in the physical space. I do think in the digital space is the stuff that's  
 **Translation:** 
 
-**[12386.96s] English:** built on top of llms that runs you know the millions of apps that can be built on top of them  
+**[12386.96s] English:** Built on top of LLMs, that run you know the millions of apps that can be built on top of them.  
 **Translation:** 
 
-**[12393.22s] English:** and that could be run on millions of devices millions of types of devices yeah i i just think  
+**[12393.22s] English:** And that could be run on millions of devices, millions of types of devices. Yeah, I just think.  
 **Translation:** 
 
-**[12400.20s] English:** that the rapid effect it has on human civilization could be  
+**[12400.20s] English:** That the rapid effect it has on human civilization could be  
 **Translation:** 
 
-**[12405.60s] English:** truly transformative to it yeah well we don't even know well and so that predict well and there  
+**[12405.60s] English:** Truly transformative to it, yeah? Well, we don't even know yet, do we? And so that predicts... well, and there.  
 **Translation:** 
 
-**[12411.24s] English:** i think it depends on are you an optimist or a pessimist or a masochist um just to clarify  
+**[12411.24s] English:** I think it depends on whether you're an optimist, a pessimist, or a masochist, just to clarify.  
 **Translation:** 
 
-**[12416.96s] English:** uh optimist about human civilization me too and so i look at that as saying okay cool well yeah i do  
+**[12416.96s] English:** Uh, I'm an optimist about human civilization, and so I look at that as saying, "Okay, cool. Yeah, I do.  
 **Translation:** Vocabulary: masochist: 受虐者; optimist: 乐观主义者; pessimist: 悲观主义者
 
-**[12424.06s] English:** right and so some people say oh my god it's going to destroy us all how do we prevent that  
+**[12424.06s] English:** Right, and so some people say, "Oh my God, it's going to destroy us all. How do we prevent that?  
 **Translation:** 
 
-**[12427.94s] English:** i i kind of look at it from a is it going to unlock us all right you talk about coding it's  
+**[12427.94s] English:** I kind of look at it from the perspective: is it going to unlock us all right? You talk about coding; it's  
+**Translation:** Vocabulary: unlock: 解锁
+
+**[12433.84s] English:** Going to make so I don't have to do all the repetitive stuff. Well, suddenly that's a very  
 **Translation:** 
 
-**[12433.84s] English:** going to make so i don't have to do all the repetitive stuff well suddenly that's a very  
+**[12437.62s] English:** Optimistically, you can look at what many of these technologies have done to.  
+**Translation:** Vocabulary: optimistically: 乐观地; repetitive: 重复的
+
+**[12442.94s] English:** Improve our lives, and I want that to go faster.  
 **Translation:** 
 
-**[12437.62s] English:** optimistic way to look at and you look at what a lot of a lot of these technologies have done to  
-**Translation:** Vocabulary: optimistic: 乐观; repetitive: 重复
-
-**[12442.94s] English:** improve our lives and i want that to go faster  
+**[12445.34s] English:** So,  
 **Translation:** 
 
-**[12445.34s] English:** so  
+**[12445.60s] English:** What do you think the future of programming looks like in the next 10, 20, 30, and 50 years?  
 **Translation:** 
 
-**[12445.60s] English:** what do you think the future of programming looks like in the next 10 20 30 50 years  
+**[12451.24s] English:** The LMS and uh, with Mojo, with modular-like the vision for devices, the hardware to the compilers.  
+**Translation:** Vocabulary: compilers: 编译器
+
+**[12461.46s] English:** To this, to the different stacks of software, yeah. Well, so what I want, I mean, coming back to...  
 **Translation:** 
 
-**[12451.24s] English:** the lms and uh with with mojo with modular like the vision for devices the hardware to the compilers  
-**Translation:** Vocabulary: compilers: 编译器; modular: 模块化
+**[12466.48s] English:** My arch-nemesis, right? It's complexity, right? So, again, me being the optimist, if we drive down...  
+**Translation:** Vocabulary: complexity: 复杂性; stacks: 堆栈
 
-**[12461.46s] English:** to this to the different stacks of software yeah well so what i want i mean coming coming back to  
+**[12473.10s] English:** Complexity: We can make these tools easier, and we can make them even easier.  
 **Translation:** 
 
-**[12466.48s] English:** my arch nemesis right it's complexity right so again me being the optimist if we drive down  
-**Translation:** Vocabulary: complexity: 复杂性; nemesis: 宿敌
+**[12475.60s] English:** Technologies like these cool hardware widgets are making them accessible to way more people, right?  
+**Translation:** Vocabulary: widgets: 小部件
 
-**[12473.10s] English:** complexity we can make these tools easier and we can make these tools easier and we can make these  
-**Translation:** 
-
-**[12475.60s] English:** technologies these cool hardware widgets accessible to way more people right and  
-**Translation:** Vocabulary: widgets: 小工具
-
-**[12480.00s] English:** So what I'd love to see is more personalized experiences, more things, the research getting into production instead of being lost at NeurIPS, right?  
+**[12480.00s] English:** So, what I'd love to see is more personalized experiences, more things. The research should get into production instead of being lost at NeurIPS, right?  
 **Translation:** 
 
 **[12488.36s] English:** And these things that impact people's lives by entering products.  
 **Translation:** 
 
-**[12495.28s] English:** And so one of the things that I'm a little bit concerned about is right now, the big companies are investing huge amounts of money and are driving the top line of AI capability forward really quickly.  
+**[12495.28s] English:** And so, one of the things that I'm a little bit concerned about is that right now, the big companies are investing huge amounts of money and are driving the top line of AI capability forward really quickly.  
 **Translation:** 
 
-**[12505.32s] English:** But if it means that you have to have $100 million to train a model or more, $100 billion, right?  
+**[12505.32s] English:** But if it means that you have to have $100 million to train a model or more, like $100 billion, right?  
 **Translation:** Vocabulary: capability: 能力
 
-**[12512.26s] English:** Well, that's going to make it very concentrated with very few people in the world that can actually do this stuff.  
+**[12512.26s] English:** Well, that's going to make it very concentrated, with very few people in the world that can actually do this stuff.  
 **Translation:** 
 
 **[12518.34s] English:** I would much rather see lots of people across the industry be able to participate and use this, right?  
 **Translation:** 
 
-**[12525.24s] English:** And you look at this, you know, I mean, a lot of great research has been done in the health world and looking at like detecting pathologies and doing radiology with AI and like doing.  
+**[12525.24s] English:** And you look at this—you know—lots of great research has been done in the health world, and looking at things like detecting pathologies and doing radiology with AI, and like doing.  
 **Translation:** 
 
 **[12535.32s] English:** Well, the problem today is that to deploy and build these systems, you have to be an expert in radiology and an expert in AI.  
 **Translation:** Vocabulary: deploy: 部署; detecting: 检测; pathologies: 病理; radiology: 放射学
 
-**[12543.82s] English:** And if we can break down the barriers so that more people can use AI techniques, and it's more like programming Python, which roughly everybody can do if they want to, right?  
+**[12543.82s] English:** And if we can break down the barriers so that more people can use AI techniques, and it's more like programming Python, which, roughly, everybody can do if they want to, right?  
 **Translation:** 
 
-**[12554.98s] English:** Then I think that we'll get a lot more practical application of these techniques and a lot more nichier, cool, but narrower domains.  
-**Translation:** Vocabulary: barriers: 障碍; narrower: 更窄
+**[12554.98s] English:** Then I think that we'll get a lot more practical applications of these techniques and a lot more niche, cool, but narrower domains.  
+**Translation:** Vocabulary: barriers: 障碍; narrower: 更窄的; niche: 利基市场
 
 **[12562.36s] English:** And I think that's going to be really cool.  
 **Translation:** 
@@ -10189,7 +10190,7 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12564.00s] English:** Do you think we'll have more?  
 **Translation:** 
 
-**[12565.32s] English:** Or less programmers in the world than now?  
+**[12565.32s] English:** Or are there fewer programmers in the world now?  
 **Translation:** 
 
 **[12568.64s] English:** Well, so I think we'll have more programmers, but they may not consider themselves to be programmers.  
@@ -10201,11 +10202,11 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12574.94s] English:** Right?  
 **Translation:** 
 
-**[12575.18s] English:** I mean, do you consider somebody that uses, you know, I think that arguably the most popular programming language is Excel.  
+**[12575.18s] English:** I mean, do you consider someone who uses, you know, I think that arguably the most popular programming language is Excel.  
 **Translation:** 
 
 **[12582.68s] English:** Yeah.  
-**Translation:** Vocabulary: arguably: 可以说
+**Translation:** Vocabulary: arguably: 或许
 
 **[12584.08s] English:** Right?  
 **Translation:** 
@@ -10213,10 +10214,10 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12584.80s] English:** Yeah.  
 **Translation:** 
 
-**[12585.10s] English:** And so do they consider themselves to be programmers?  
+**[12585.10s] English:** And so, do they consider themselves to be programmers?  
 **Translation:** 
 
-**[12587.46s] English:** Maybe not.  
+**[12587.46s] English:** Maybe, not.  
 **Translation:** 
 
 **[12588.22s] English:** I mean, some of them make crazy macros and stuff like that.  
@@ -10225,85 +10226,85 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12591.02s] English:** But what you mentioned, Steve?  
 **Translation:** 
 
-**[12595.32s] English:** Steve Jobs, it's the bicycle for the mind that allows you to go fast.  
+**[12595.32s] English:** Steve Jobs: It's the bicycle for the mind that allows you to go fast.  
 **Translation:** 
 
-**[12600.00s] English:** right and so i think that as we look forward right what is ai i look at it as hopefully a  
+**[12600.00s] English:** Right, and so I think that as we look forward, what is AI? I look at it as hopefully a  
 **Translation:** 
 
-**[12605.82s] English:** new programming paradigm it's like object-oriented programming right if you want to write a cat  
+**[12605.82s] English:** New programming paradigm, it's like object-oriented programming, right? If you want to write a cat.  
 **Translation:** 
 
-**[12610.22s] English:** detector you don't use for loops it turns out that's not the right tool for the job right  
+**[12610.22s] English:** Detector, you don't use for loops; it turns out that's not the right tool for the job, right?  
 **Translation:** Vocabulary: detector: 检测器; paradigm: 范式
 
-**[12614.42s] English:** and so right now unfortunately because i mean it's not unfortunate but it's just kind of where  
+**[12614.42s] English:** And so, right now, unfortunately, because I mean, it's not unfortunate, but it's just kind of where  
 **Translation:** 
 
-**[12619.02s] English:** things are ai is this weird different thing that's not integrated into programming languages  
+**[12619.02s] English:** Things are AI; it's a weird, different thing that's not integrated into programming languages.  
+**Translation:** Vocabulary: integrated: 融合
+
+**[12624.84s] English:** And normal toolchains, and all the technology is really weird and doesn't work right, and you  
 **Translation:** 
 
-**[12624.84s] English:** and normal tool chains and all the technology is really weird and doesn't work right and you  
+**[12629.30s] English:** Have to babysit it, and every time you switch hardware, it's different. It shouldn't be that way.  
+**Translation:** Vocabulary: babysit: 细心照料; toolchains: 工具链
+
+**[12633.88s] English:** When you change that, when you fix that, suddenly the tools and technologies can be way easier to use.  
 **Translation:** 
 
-**[12629.30s] English:** have to babysit it and every time you switch hardware it's different it shouldn't be that way  
+**[12638.64s] English:** You can start using them for many more things, and so that's why I would be excited.  
 **Translation:** 
 
-**[12633.88s] English:** when you change that when you fix that suddenly again the tools technologies can be way easier to  
+**[12642.74s] English:** About what kind of advice could you give to somebody in high school right now, or maybe early?  
 **Translation:** 
 
-**[12638.64s] English:** use you can start using them for many more things and so that that's that's why i would be excited  
+**[12647.58s] English:** College students who are curious about programming and feel like the world is changing really quickly.  
 **Translation:** 
 
-**[12642.74s] English:** about what kind of advice could you give to somebody in high school right now or maybe early  
+**[12655.22s] English:** Here, yeah, well, what kind of stuff to learn? What kind of stuff to work on?  
 **Translation:** 
 
-**[12647.58s] English:** college who's curious about programming and feeling like the world is changing really quickly  
+**[12659.04s] English:** You.  
 **Translation:** 
 
-**[12655.22s] English:** here yeah well what kind of stuff to learn what kind of stuff to work on  
+**[12659.30s] English:** Should they finish college, they go work at a company. Should they build something, what do you?  
 **Translation:** 
 
-**[12659.04s] English:** you  
+**[12664.92s] English:** Think well; so, I mean, one of the things I'd say is that you'll be most successful if you work on  
 **Translation:** 
 
-**[12659.30s] English:** should they finish college they go work at a company should they build a thing what do you  
+**[12670.04s] English:** Something you're excited by, and so don't get the book and read it cover to cover and study.  
 **Translation:** 
 
-**[12664.92s] English:** think well so i mean one of the things i'd say is that um you'll be most successful if you work on  
+**[12676.70s] English:** And memorize, and recite, and use flashcards—and go build something, like solve a problem or build the  
+**Translation:** Vocabulary: flashcards: 记忆卡片; memorize: 背诵; recite: 朗读
+
+**[12681.90s] English:** The thing you want to exist, go build an app, go build a model, like, go build something and  
 **Translation:** 
 
-**[12670.04s] English:** something you're excited by and so don't get the book and read the book cover to cover and study  
+**[12688.16s] English:** Actually, use it and set a goal for you.  
 **Translation:** 
 
-**[12676.70s] English:** and memorize and recite and flashcard and go build something like go solve a problem go build the  
-**Translation:** Vocabulary: flashcard: 速记卡片; memorize: 记忆
-
-**[12681.90s] English:** thing that you want to exist go build an app go build train a model like go build something and  
+**[12689.28s] English:** Yourself, and if you do that, then you'll know there's a success; there's the adrenaline rush.  
 **Translation:** 
 
-**[12688.16s] English:** actually use it and set a goal for you  
+**[12694.44s] English:** There's the achievement, there's the unlock. That I think is where, if you keep setting goals.  
+**Translation:** Vocabulary: adrenaline: 肾上腺素; unlock: 解锁
+
+**[12699.02s] English:** And you keep doing things and building things; learning by building is really powerful, um.  
 **Translation:** 
 
-**[12689.28s] English:** yourself and if you do that then you'll you know there's a success there's the adrenaline rush  
+**[12704.24s] English:** Terms of career advice, I mean, everybody's different; it's very hard to give generalized.  
+**Translation:** Vocabulary: generalized: 概括性建议
+
+**[12707.46s] English:** Experience generalized advice, um, I'll speak as you know, a compiler nerd, if everyone's going.  
 **Translation:** 
 
-**[12694.44s] English:** there's the achievement there's the unlock that i think is where you know if you keep setting goals  
-**Translation:** Vocabulary: adrenaline: 肾上腺素
-
-**[12699.02s] English:** and you keep doing things and building things learning by building is really powerful um in  
+**[12713.82s] English:** Left. Sometimes it's pretty cool to go right. Yeah, and so just because everybody's going left is  
 **Translation:** 
 
-**[12704.24s] English:** terms of career advice i mean everybody's different it's very hard to give generalized  
-**Translation:** Vocabulary: generalized: 泛化
-
-**[12707.46s] English:** experience generalized advice um i'll speak as you know a compiler nerd if everybody's going  
-**Translation:** 
-
-**[12713.82s] English:** left sometimes it's pretty cool to go right yeah and so just because everybody's going left is  
-**Translation:** 
-
-**[12719.28s] English:** doing a thing  
+**[12719.28s] English:** Doing a thing.  
 **Translation:** 
 
 **[12720.00s] English:** It doesn't mean you have to do the same thing and follow the herd.  
@@ -10312,37 +10313,37 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12723.96s] English:** In fact, I think that sometimes the most exciting paths through life lead to being curious about  
 **Translation:** 
 
-**[12730.58s] English:** things that nobody else actually focuses on, right?  
+**[12730.58s] English:** Things that nobody else actually focuses on, right?  
 **Translation:** 
 
-**[12733.40s] English:** And it turns out that understanding deeply parts of the problem that people want to take  
+**[12733.40s] English:** And it turns out that understanding deeply parts of the problem that people want to tackle is crucial.  
 **Translation:** 
 
-**[12738.84s] English:** for granted makes you extremely valuable and specialized in ways that the herd is not.  
-**Translation:** 
+**[12738.84s] English:** For granted, it makes you extremely valuable and specialized in ways that the herd is not.  
+**Translation:** Vocabulary: crucial: 至关重要; tackle: 应对
 
-**[12744.38s] English:** And so, again, I mean, there's lots of rooms for specialization, lots of rooms for generalists.  
+**[12744.38s] English:** And so, again, I mean, there are lots of rooms for specialization, as well as lots of room for generalists.  
 **Translation:** 
 
 **[12749.44s] English:** There's lots of room for different kinds and parts of the problem.  
-**Translation:** Vocabulary: generalists: 通才人士
+**Translation:** Vocabulary: generalists: 通才
 
-**[12752.24s] English:** But I think that it's, you know, just because everybody's doing one thing doesn't mean you  
+**[12752.24s] English:** But I think that it's, you know, just because everybody's doing one thing doesn't mean you should.  
 **Translation:** 
 
-**[12756.66s] English:** should necessarily do it.  
+**[12756.66s] English:** Should we necessarily do it?  
 **Translation:** 
 
-**[12757.94s] English:** And now the herd is using Python, so if you want to be a rebel, go check out Mojo and  
+**[12757.94s] English:** And now the herd is using Python, so if you want to be a rebel, go check out Mojo and...  
 **Translation:** 
 
-**[12765.72s] English:** help Chris and the rest of the world fight the arch nemesis of complexity, because simple  
-**Translation:** Vocabulary: complexity: 复杂性; nemesis: 宿敌
+**[12765.72s] English:** Help Chris and the rest of the world fight the arch-nemesis of complexity, because simplicity.  
+**Translation:** Vocabulary: complexity: 复杂性; simplicity: 简洁性
 
-**[12770.80s] English:** is beautiful.  
+**[12770.80s] English:** It is beautiful.  
 **Translation:** 
 
-**[12771.44s] English:** There you go.  
+**[12771.44s] English:** There, you go.  
 **Translation:** 
 
 **[12772.58s] English:** Chris, you're an incredible person.  
@@ -10357,25 +10358,25 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12778.16s] English:** I'm forever grateful.  
 **Translation:** 
 
-**[12779.60s] English:** Thank you for being who you are, for being legit, for being kind, for fighting this really  
+**[12779.60s] English:** Thank you for being who you are, for being legit, for being kind, for fighting this really hard.  
 **Translation:** 
 
-**[12787.06s] English:** interesting problem of how to make AI accessible to a huge number of people, a huge number  
-**Translation:** Vocabulary: legit: 正直的
+**[12787.06s] English:** An interesting problem: how to make AI accessible to a huge number of people, a huge number.  
+**Translation:** Vocabulary: legit: 正经的
 
-**[12792.78s] English:** of devices.  
+**[12792.78s] English:** Of devices.  
 **Translation:** 
 
 **[12793.98s] English:** Yeah.  
 **Translation:** 
 
-**[12794.26s] English:** Well, so Lex, you're a pretty special person, too, right?  
+**[12794.26s] English:** Well, so, Lex, you're a pretty special person, too, right?  
 **Translation:** 
 
-**[12796.40s] English:** And so I think that, you know, one of the funny things about you is that besides being  
+**[12796.40s] English:** And so I think that, you know, one of the funny things about you is that, besides being  
 **Translation:** 
 
-**[12801.26s] English:** curious and pretty damn smart, you're actually willing to push on things.  
+**[12801.26s] English:** Curious and pretty damn smart, you're actually willing to push on things.  
 **Translation:** 
 
 **[12804.56s] English:** And I think that you've got an agenda to, like, make the world think.  
@@ -10411,14 +10412,14 @@ Source file: Lex Fridman - Chris Lattner： Future of Programming and AI ｜ Lex
 **[12828.42s] English:** I fear the lack of them.  
 **Translation:** 
 
-**[12831.54s] English:** Thank you for listening, and hope to see you next time.  
+**[12831.54s] English:** Thank you for listening, and hope to see you next time!  
 **Translation:** 
 
 **[12839.44s] English:** Thank you.  
 **Translation:** 
 
-**[12840.00s] English:** Teksting av Nicolai Winther  
-**Translation:** Vocabulary: teksting: 测序
+**[12840.00s] English:** Testing of Nicolai Winther  
+**Translation:** 
 
 
 <!-- TRANSCRIPTION_COMPLETE -->

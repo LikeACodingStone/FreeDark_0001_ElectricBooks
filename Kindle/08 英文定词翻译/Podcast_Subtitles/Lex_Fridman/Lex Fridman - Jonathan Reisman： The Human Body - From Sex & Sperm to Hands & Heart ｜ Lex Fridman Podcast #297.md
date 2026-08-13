@@ -1,35 +1,36 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm to Hands & Heart ｜ Lex Fridman Podcast #297.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** we have two tubes that are right next to each other in the throat. One is for food,  
+**[0.00s] English:** We have two tubes that are right next to each other in the throat. One is for food,  
 **Translation:** 
 
-**[4.42s] English:** drink, saliva, mucus, snot, whatever you're going to swallow. All of that stuff must go  
-**Translation:** Vocabulary: mucus: 鼻涕; saliva: 唾液
+**[4.42s] English:** Drink, saliva, mucus, snot—whatever you're going to swallow. All of that stuff must go.  
+**Translation:** Vocabulary: mucus: 黏液
 
-**[9.48s] English:** down the esophagus, the food tube, and end up in the stomach. And right next to the esophagus,  
+**[9.48s] English:** Down the esophagus, the food tube, and end up in the stomach. And right next to the esophagus,  
 **Translation:** 
 
-**[14.22s] English:** millimeters away, is the windpipe or the trachea, which goes down to the lungs.  
+**[14.22s] English:** Millimeters away is the windpipe, or the trachea, which goes down to the lungs.  
 **Translation:** Vocabulary: esophagus: 食道; millimeters: 毫米; trachea: 气管; windpipe: 气管
 
 **[19.10s] English:** Throat, heart, feces, genitals.  
 **Translation:** 
 
-**[21.50s] English:** Every organ from moment to moment keeps us alive and ensures our survival. The genitals are,  
-**Translation:** Vocabulary: feces: 排泄物; genitals: 生殖器官
+**[21.50s] English:** Every organ, from moment to moment, keeps us alive and ensures our survival. The genitals are,  
+**Translation:** Vocabulary: ensures: 保证; feces: 粪便; genitals: 生殖器
 
-**[26.74s] English:** in a way, the opposite. How would you improve the penis and the vagina?  
+**[26.74s] English:** In a way, the opposite. How would you improve the penis and the vagina?  
 **Translation:** 
 
-**[33.40s] English:** The following is a conversation with Jonathan Reisman, a physician and writer of The Unseen  
-**Translation:** Vocabulary: vagina: 阴道
-
-**[39.24s] English:** Body, a doctor's journey through the hidden wonders of human anatomy. He has practiced  
+**[33.40s] English:** The following is a conversation with Jonathan Reisman, a physician and writer of "The Unseen.  
 **Translation:** 
 
-**[44.84s] English:** medicine in some of the world's most remote places, including the Alaskan and Russian Arctic,  
-**Translation:** Vocabulary: alaskan: 阿拉斯加的
+**[39.24s] English:** Body: A Doctor's Journey Through the Hidden Wonders of Human Anatomy. He has practiced  
+**Translation:** 
+
+**[44.84s] English:** Medicine in some of the world's most remote places, including the Alaskan and Russian Arctic,  
+**Translation:** Vocabulary: alaskan: 阿拉斯加的; anatomy: 解剖学; arctic: 北极的
 
 **[51.64s] English:** Antarctica, and the Himalayan mountains of Nepal.  
 **Translation:** 
@@ -37,409 +38,409 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[56.46s] English:** This is Jonathan Reisman, and I'm sure you've all heard him say,  
 **Translation:** Vocabulary: antarctica: 南极洲; himalayan: 喜马拉雅的; nepal: 尼泊尔
 
-**[56.72s] English:** this is a Lex Friedman podcast. To support it, please check out our sponsors in the description.  
+**[56.72s] English:** This is a Lex Friedman podcast. To support it, please check out our sponsors in the description.  
 **Translation:** 
 
 **[62.36s] English:** And now, dear friends, here's Jonathan Reisman.  
-**Translation:** Vocabulary: friedman: 弗里德曼; reisman: 雷伊斯曼; sponsors: 赞助商
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[66.34s] English:** You wrote a book called Unseen Body, all about the human body, the messy, the weird, the beautiful,  
+**[66.34s] English:** You wrote a book called Unseen Body, all about the human body: the messy, the weird, and the beautiful.  
 **Translation:** 
 
-**[72.90s] English:** and the fascinating details. So, from an evolutionary perspective, are most parts of  
-**Translation:** Vocabulary: evolutionary: 进化
+**[72.90s] English:** And the fascinating details. So, from an evolutionary perspective, are most parts of  
+**Translation:** Vocabulary: evolutionary: 进化的
 
-**[79.14s] English:** the human body a feature or a bug? Is it like the optimal solution or just a duct tape solution?  
+**[79.14s] English:** The human body: a feature or a bug? Is it like the optimal solution, or just a duct-tape solution?  
 **Translation:** 
 
 **[86.04s] English:** Great question.  
-**Translation:** Vocabulary: optimal: 最佳解决方案
+**Translation:** Vocabulary: optimal: 最佳的
 
 **[86.72s] English:** I think that most of the time, the way the body works is the best solution. I haven't seen many  
 **Translation:** 
 
-**[93.30s] English:** alternatives, so it's hard to compare. But I think there's some parts of the body that make  
+**[93.30s] English:** Alternatives, so it's hard to compare. But I think there are some parts of the body that make  
 **Translation:** 
 
-**[98.52s] English:** more sense than others. The way our hands work, for instance, the muscles are up in the forearm,  
+**[98.52s] English:** More sense than others. The way our hands work, for instance, the muscles are up in the forearm.  
 **Translation:** 
 
-**[105.28s] English:** and then the tendons kind of come down like strings on a puppet. And just the dexterity  
+**[105.28s] English:** And then the tendons kind of come down like strings on a puppet, and just the dexterity.  
 **Translation:** Vocabulary: dexterity: 灵巧; forearm: 前臂; puppet: 木偶; tendons: 肌腱
 
-**[109.90s] English:** it gives our hands is just really amazing. And it's hard to imagine a better tool than the human  
+**[109.90s] English:** It gives our hands just really amazing abilities, and it's hard to imagine a better tool than the human hand.  
 **Translation:** 
 
-**[115.72s] English:** hand to do everything. And I think that's a great question.  
+**[115.72s] English:** Hand to do everything. And I think that's a great question.  
 **Translation:** 
 
-**[116.70s] English:** Hold things to play piano.  
+**[116.70s] English:** Hold things to play the piano.  
 **Translation:** 
 
-**[120.00s] English:** do a million other daily activities that we do. One thing I talk about in the book,  
+**[120.00s] English:** Do a million other daily activities that we do. One thing I talk about in the book,  
 **Translation:** 
 
-**[125.06s] English:** there's some other body parts that seem to be lacking that kind of brilliant design,  
+**[125.06s] English:** There are some other body parts that seem to be lacking that kind of brilliant design.  
 **Translation:** 
 
-**[130.20s] English:** such as the throat, you know, where the food, drink are swallowed and air is inhaled. And  
+**[130.20s] English:** Such as the throat, where food and drink are swallowed and air is inhaled. And  
+**Translation:** Vocabulary: inhaled: 吸入
+
+**[136.38s] English:** Those two paths come within millimeters of each other. And if you slip up once, you'll laugh it off.  
 **Translation:** 
 
-**[136.38s] English:** those two paths come within millimeters of each other. And you slip up once, you laugh while  
+**[141.56s] English:** Eating, or you speak while trying to swallow, and you die from choking. So it seems less than  
+**Translation:** Vocabulary: choking: 窒息; millimeters: 毫米
+
+**[147.84s] English:** Optimal, though I'm not sure it could be any better given how we're formed in the womb.  
 **Translation:** 
 
-**[141.56s] English:** eating, or you speak while trying to swallow and you die from choking. So it seems less than  
-**Translation:** Vocabulary: millimeters: 毫米
-
-**[147.84s] English:** optimal, though I'm not sure it could be better from the way we're kind of formed in the womb  
+**[152.62s] English:** As a beginning, it's like this tiny little tube. I don't think it could have been done any better or  
 **Translation:** 
 
-**[152.62s] English:** as a beginning as this tiny little tube. I don't think it could have been done any better or  
+**[157.76s] English:** There's any other way to do it, but it is an unfortunate thing that, you know, does lead to.  
 **Translation:** 
 
-**[157.76s] English:** there's any other way to do it, but it is an unfortunate thing that, you know, does lead to  
+**[161.94s] English:** Some problems. So, the hand—if I could just link to that for a second—you talk about the wisdom.  
 **Translation:** 
 
-**[161.94s] English:** some problems. So the hand, if I could just link on that for a second, you talk about the wisdom  
+**[167.50s] English:** Of a design in the book, what are the important things about the hand? It seems like very useful.  
 **Translation:** 
 
-**[167.50s] English:** of a design in the book. What are the important things about the hand? It seems like very useful  
+**[174.06s] English:** For many things, and it seems to be quite effective.  
 **Translation:** 
 
-**[174.06s] English:** for many things, and it seems to be quite effective.  
+**[176.60s] English:** A lot of people think the thumb is foundational to human civilization. Is there any truth to this?  
 **Translation:** 
 
-**[176.60s] English:** A lot of people think the thumb is foundational to the human civilization. Is there any truth to  
-**Translation:** 
-
-**[186.22s] English:** that? I think that is true. Actually, one of the ways in which the importance of individual fingers  
+**[186.22s] English:** That? I think that is true. Actually, one of the ways in which the importance of individual fingers is demonstrated...  
 **Translation:** Vocabulary: foundational: 基础的
 
-**[191.16s] English:** comes to attention is when people have severe injuries to their fingers. For instance, I have  
+**[191.16s] English:** Comes to attention is when people have severe injuries to their fingers. For instance, I have.  
 **Translation:** 
 
-**[197.50s] English:** a story in the book about a guy whose thumb is nearly ripped off by his dog's leash. And, you  
+**[197.50s] English:** A story in the book about a guy whose thumb is nearly ripped off by his dog's leash. And, you  
+**Translation:** Vocabulary: ripped: 撕裂
+
+**[206.58s] English:** Know, sometimes it's orthopedic surgeons. They will debate, you know, how important it is to save  
 **Translation:** 
 
-**[206.58s] English:** know, sometimes it's orthopedic surgeons. They will debate, you know, how important is it to save  
-**Translation:** 
-
-**[213.20s] English:** this finger or how important is it to save, you know, let's say the kind of tip, the one-third,  
+**[213.20s] English:** This finger, or how important is it to save, you know, let's say the kind of tip, the one-third.  
 **Translation:** Vocabulary: orthopedic: 骨科的
 
-**[219.48s] English:** the tip one-third of one of your fingers. You know, it depends on the length that you'll lose. It  
+**[219.48s] English:** The tip, one-third of one of your fingers. You know, it depends on the length that you'll lose. It  
 **Translation:** 
 
-**[223.20s] English:** depends on which finger. And so the thumb really is the most crucial just, you know, for your  
+**[223.20s] English:** Depends on which finger. And so the thumb really is the most crucial, just you know, for your.  
+**Translation:** Vocabulary: crucial: 至关重要的
+
+**[228.94s] English:** Occupation, in most cases, is just daily life and your ability to get around and take care of yourself.  
 **Translation:** 
 
-**[228.94s] English:** occupation in most cases to just daily life and your ability to get around and take care of  
+**[234.52s] English:** Yourself and others. So, the thumb is the most crucial thing. And so,  
 **Translation:** 
 
-**[234.52s] English:** yourself and others. So, you know, the thumb is the most crucial thing. And so, you know,  
+**[236.58s] English:** They'll be more willing to go further, do more surgeries.  
 **Translation:** 
 
-**[236.58s] English:** they'll be more, they're willing to go further, do more surgeries.  
+**[240.00s] English:** More aggressive therapy to save a thumb, let's say, than, you know, the tip of your pinky finger.  
+**Translation:** Vocabulary: pinky: 小指; surgeries: 手术
+
+**[245.48s] English:** So, in that way, I do think the thumb does seem like the most important in many ways.  
 **Translation:** 
 
-**[240.00s] English:** more aggressive therapy to save a thumb, let's say, than, you know, the tip of your pinky finger.  
+**[249.90s] English:** It's nice that there are backups. I wonder if that's part of the feature.  
+**Translation:** Vocabulary: backups: 备用方案
+
+**[252.92s] English:** Or is it just the symmetry that nature produces? You think the two hands are like,  
 **Translation:** 
 
-**[245.48s] English:** So in that way, I do think the thumb, you know, does seem like the most important in many ways.  
+**[258.46s] English:** Is it about symmetry, or is it about backup?  
+**Translation:** Vocabulary: backup: 备用; symmetry: 对称
+
+**[261.56s] English:** We would be much less formidable hunters, gatherers, and survivors in any way if we only had one hand. So, I  
 **Translation:** 
 
-**[249.90s] English:** It's nice that there's backups. I wonder if that's part of the feature,  
+**[269.70s] English:** I think it's important to have two so we can, you know, kind of double-check everything.  
+**Translation:** Vocabulary: formidable: 强大的
+
+**[275.46s] English:** An animal to firing a bow and arrow, to butchering an animal. You really need two hands to do it.  
 **Translation:** 
 
-**[252.92s] English:** or is it just the symmetry that nature produces? You think the two hands is like,  
-**Translation:** 
-
-**[258.46s] English:** is it about the symmetry or is it about backup?  
-**Translation:** Vocabulary: symmetry: 对称
-
-**[261.56s] English:** We'd be much less formidable hunters, gatherers, survivors in any way if we only had one hand. So I  
-**Translation:** 
-
-**[269.70s] English:** think that is important to have two so we can, you know, even everything from kind of spearing an  
-**Translation:** Vocabulary: formidable: 强大的; spearing: 刺穿
-
-**[275.46s] English:** animal to firing a bow and arrow to butchering an animal. You really need two hands to do it  
-**Translation:** 
-
-**[279.12s] English:** very effectively. But can you do a better job with three? Great question. And we'll never know,  
+**[279.12s] English:** Very effectively. But can you do a better job in three? Great question. And we'll never know.  
 **Translation:** Vocabulary: butchering: 屠宰
 
-**[285.52s] English:** perhaps. You tweeted, now I'm going to analyze your tweets like it's Shakespeare sometimes.  
+**[285.52s] English:** Perhaps. You tweeted, and now I'm going to analyze your tweets like it's Shakespeare sometimes.  
 **Translation:** 
 
-**[294.10s] English:** You tweeted that, quote, millions of years of sex and death designed the human body.  
+**[294.10s] English:** You tweeted that, "millions of years of sex and death designed the human body.  
 **Translation:** Vocabulary: tweets: 微博
 
-**[299.70s] English:** It's like poetry. Are those two basic activities basically summarize everything that resulted in  
+**[299.70s] English:** It's like poetry. Are those two basic activities basically a summary of everything that resulted in?  
 **Translation:** 
 
-**[307.94s] English:** humans on Earth? So like, is that a good summary of the evolutionary process that led to this  
-**Translation:** Vocabulary: evolutionary: 进化; summarize: 总结
+**[307.94s] English:** Humans on Earth? So, is that a good summary of the evolutionary process that led to this?  
+**Translation:** Vocabulary: evolutionary: 进化的
 
-**[314.60s] English:** conscious, intelligent being is death and sex? In a way, yeah. So sex is how more of us get  
+**[314.60s] English:** A conscious, intelligent being is death and sex? In a way, yeah. So, sex is how more of us get  
 **Translation:** 
 
-**[322.28s] English:** made, obviously. And death is how we get weeded out or the gene pool gets weeded out and certain  
+**[322.28s] English:** Made, obviously. And death is how we get weeded out, or the gene pool gets weeded out, and certain  
+**Translation:** Vocabulary: weeded: 淘汰
+
+**[328.40s] English:** Genes survive, and others don't.  
 **Translation:** 
 
-**[328.40s] English:** genes survive and others don't.  
-**Translation:** 
-
-**[329.86s] English:** And, you know, the age at which we die, whether it's before we've, you know, had sex and reproduced  
+**[329.86s] English:** And, you know, the age at which we die, whether it's before we've, you know, had sex and reproduced.  
 **Translation:** Vocabulary: reproduced: 繁殖
 
-**[336.60s] English:** ourselves, is a big factor. And who survives, who doesn't, who passes on their genes and what the  
+**[336.60s] English:** Ourselves, is a big factor. And who survives, who doesn't, who passes on their genes, and what the  
 **Translation:** 
 
-**[341.60s] English:** future of the body looks like, you know, who lived and who died before they were able to be at  
+**[341.60s] English:** The future of the body looks like, you know, who lived and who died before they were able to be there.  
 **Translation:** 
 
-**[348.16s] English:** reproductive age a million years ago was pretty important in what we look like now. And perhaps  
+**[348.16s] English:** Reproductive age a million years ago was pretty important in what we look like now. And perhaps,  
 **Translation:** 
 
-**[353.36s] English:** how we have sex and die now will determine what we're shaped like, unless technology has an even  
+**[353.36s] English:** How we have sex and die now will determine what we're shaped like, unless technology has an even greater impact.  
 **Translation:** 
 
-**[359.70s] English:** bigger role in it.  
+**[359.70s] English:** Bigger role in it.  
 **Translation:** 
 
-**[360.00s] English:** that you know a million years from now so you think that's fundamental to like if there's alien  
+**[360.00s] English:** That you know a million years from now, so you think that's fundamental to whether there's alien life?  
 **Translation:** Vocabulary: alien: 外星的
 
-**[364.04s] English:** civilizations out there that have uh the same order of magnitude of intelligence or greater  
+**[364.04s] English:** Civilizations out there that have the same order of magnitude of intelligence or greater.  
 **Translation:** 
 
-**[368.84s] English:** do you think that we will see something like sex and something like death so the reproducing  
-**Translation:** Vocabulary: civilizations: 外星文明; reproducing: 繁殖
+**[368.84s] English:** Do you think that we will see something like sex, and something like death — so, the reproducing?  
+**Translation:** Vocabulary: civilizations: 文明; reproducing: 繁殖
 
-**[375.72s] English:** and this selection process plus the uh weeding out of the old to make room for the new is that  
+**[375.72s] English:** And this selection process, plus the uh-weeding out of the old to make room for the new, is that  
 **Translation:** 
 
-**[383.50s] English:** kind of foundational to life i would think so i mean it sure seems to be on earth you know perhaps  
+**[383.50s] English:** Kind of foundational to life, I would think so. I mean, it sure seems to be on Earth, you know, perhaps.  
 **Translation:** Vocabulary: foundational: 基础的
 
-**[388.44s] English:** in some distant future when medicine is nearing you know perfection and people can live a really  
+**[388.44s] English:** In some distant future, when medicine is nearing perfection and people can live really  
 **Translation:** 
 
-**[394.40s] English:** long time uh maybe we won't even need to reproduce as much or something like that you know it's hard  
+**[394.40s] English:** Long time, uh, maybe we won't even need to reproduce as much, or something like that. You know, it's hard.  
+**Translation:** Vocabulary: reproduce: 繁殖
+
+**[401.30s] English:** To even know what life will be like in the distant future, but I would guess that any alien  
 **Translation:** 
 
-**[401.30s] English:** to even know what what life will be like in the distant future but i would guess that any alien  
+**[406.34s] English:** Civilization will have the same dependence on who has sex and who dies — that's the problem with it.  
 **Translation:** 
 
-**[406.34s] English:** civilization will have the same dependence on who has sex and who dies well that's the problem with  
+**[410.90s] English:** Immortality: How are we going to clear out the old to make room for the new, which is a kind  
 **Translation:** 
 
-**[410.90s] English:** immortality how we're going to clear out the old to make room for the new which is a kind  
-**Translation:** 
-
-**[418.40s] English:** of  
+**[418.40s] English:** Of  
 **Translation:** Vocabulary: immortality: 永生
 
-**[418.44s] English:** it's like a framework of adaptability to changing environments so as long as the environment is  
+**[418.44s] English:** It's like a framework of adaptability to changing environments, so long as the environment is  
 **Translation:** 
 
-**[425.98s] English:** changing and it seems to always be because this the entirety of the earth system is a complex  
+**[425.98s] English:** Changing, and it seems to always be because this is the entirety of the Earth system a complex.  
 **Translation:** Vocabulary: adaptability: 适应性; entirety: 整体; environments: 环境
 
-**[431.86s] English:** system it seems like you have to adapt and to adapt you have to kill off the stubborn old ideas  
+**[431.86s] English:** System, it seems like you have to adapt, and to adapt, you have to kill off the stubborn old ideas.  
 **Translation:** 
 
-**[438.40s] English:** and uh unless there's a way to like not become stubborn and old but it feels like the nature of  
+**[438.40s] English:** And, uh, unless there's a way to like not become stubborn and old, but it feels like the nature of  
 **Translation:** 
 
-**[446.34s] English:** wisdom is stubborn  
+**[446.34s] English:** Wisdom is stubborn.  
 **Translation:** 
 
-**[448.40s] English:** and old like that's that's what wisdom is it's like the lessons of life solid the lessons of  
+**[448.40s] English:** And old, like that's what wisdom is—it's like the lessons of life, solid and enduring.  
+**Translation:** Vocabulary: enduring: 持久的
+
+**[455.16s] English:** Experience solidified, and the solidification is the thing that actually prevents you.  
 **Translation:** 
 
-**[455.16s] English:** experience solidified and the solidification is the thing that actually prevents you  
+**[460.58s] English:** From reinventing yourself to adapt to the new, changing conditions, but then again, why not?  
+**Translation:** Vocabulary: solidification: 固化; solidified: 已经固化
+
+**[468.50s] English:** Have that both those modes? Like, I have two minds, and one person—one immortal person—that, like,  
 **Translation:** 
 
-**[460.58s] English:** from reinventing yourself to adapt to the new um changing conditions but then again why not  
-**Translation:** Vocabulary: solidification: 固化; solidified: 固化了
+**[474.18s] English:** The morning they act like a teenager, in the evening they act like an old person, and in the evening they...  
+**Translation:** Vocabulary: immortal: 长生不老的
 
-**[468.50s] English:** have that both those modes like i have two minds and one person one immortal person that like in  
+**[478.40s] English:** Act like a good, wise man.  
 **Translation:** 
 
-**[474.18s] English:** the morning they act like a teenager in the evening they act like a old person and in the evening they  
-**Translation:** Vocabulary: immortal: 长生不老的人
-
-**[478.40s] English:** act like a good wise man  
+**[480.00s] English:** It's possible. So, you can imagine within one mind  
 **Translation:** 
 
-**[480.00s] English:** It's possible. So you can imagine within one mind  
-**Translation:** 
-
-**[483.46s] English:** both modes. But those are required.  
+**[483.46s] English:** Both modes, but those are required.  
 **Translation:** 
 
 **[488.14s] English:** You have to have the ability to completely  
 **Translation:** 
 
-**[492.36s] English:** reinvent yourself, which is what death does in an  
+**[492.36s] English:** Reinvent yourself, which is what death does, in an  
 **Translation:** 
 
-**[496.20s] English:** ugly way. Or a beautiful way, depending on your  
+**[496.20s] English:** Ugly way. Or a beautiful way, depending on your perspective.  
 **Translation:** 
 
-**[500.12s] English:** perspective. Depending on whether you take the human perspective or the nature's  
+**[500.12s] English:** Perspective. Depending on whether you take the human perspective or nature's  
 **Translation:** 
 
-**[504.16s] English:** perspective. And then you have to have the selection. So competition.  
+**[504.16s] English:** Perspective. And then you have to have the selection. So, competition.  
 **Translation:** 
 
-**[507.76s] English:** So sexual selection. It's an interesting little  
+**[507.76s] English:** So, sexual selection. It's an interesting little  
 **Translation:** 
 
-**[512.10s] English:** planet we got. What's the weirdest part, function, concept, idea  
+**[512.10s] English:** Planet: We got. What's the weirdest part, function, concept, or idea?  
 **Translation:** Vocabulary: weirdest: 最奇怪的
 
-**[516.68s] English:** about the human body to you? We'll talk about fascinating details.  
+**[516.68s] English:** About the human body, will you learn fascinating details?  
 **Translation:** 
 
-**[520.78s] English:** But what's... I should say, for people  
+**[520.78s] English:** But what's more, I should say, for people,...  
 **Translation:** 
 
-**[524.06s] English:** that should read your book, they will come face to face  
+**[524.06s] English:** That should read your book; they will come face to face.  
 **Translation:** 
 
-**[528.34s] English:** with the fact that you do not shy away from the weird and the wonderful  
+**[528.34s] English:** With the fact that you do not shy away from the weird and wonderful,  
 **Translation:** 
 
-**[532.00s] English:** of the human body. It's like... It's fun,  
+**[532.00s] English:** Of the human body, it's like... it's fun.  
 **Translation:** 
 
-**[536.26s] English:** but it's honest.  
+**[536.26s] English:** But it's honest.  
 **Translation:** 
 
-**[538.22s] English:** So given that, sorry to make you  
+**[538.22s] English:** So, given that, I'm sorry to make you  
 **Translation:** 
 
-**[542.22s] English:** pick one of your children, but what's the weirdest one, would you say?  
+**[542.22s] English:** Pick one of your children, but which one is the weirdest, I wonder?  
 **Translation:** 
 
-**[546.48s] English:** The weirdest body part. Or concept.  
+**[546.48s] English:** The weirdest body part—or concept.  
 **Translation:** 
 
-**[550.64s] English:** Or function. So the chapters, you divide it up  
+**[550.64s] English:** Or function. So, the chapters—you divide it up.  
 **Translation:** 
 
-**[554.16s] English:** kind of into parts. But there could be a thread  
+**[554.16s] English:** Kind of into parts, but there could be a thread.  
 **Translation:** 
 
-**[558.34s] English:** that connects all of them. The weirdness. Maybe... Or maybe  
+**[558.34s] English:** That connects all of them. The weirdness. Maybe... or maybe.  
 **Translation:** Vocabulary: weirdness: 怪异程度
 
-**[561.96s] English:** the texture of the substance. Could be the liquids, the solids. I don't know.  
+**[561.96s] English:** The texture of the substance could be liquids or solids. I don't know.  
 **Translation:** 
 
-**[565.82s] English:** Definitely every body part and bodily fluid has their own  
+**[565.82s] English:** Definitely, every body part and bodily fluid has its own.  
+**Translation:** Vocabulary: liquids: 液体; solids: 固体; substance: 物质
+
+**[569.94s] English:** Kind of both gross and fascinating aspects. That's probably why.  
 **Translation:** 
 
-**[569.94s] English:** kind of both gross and fascinating aspects. That's probably why  
+**[574.14s] English:** I'm a generalist as a doctor and couldn't just, as you said, pick one of my specialties to focus on.  
+**Translation:** Vocabulary: generalist: 全科医生; specialties: 专科
+
+**[578.22s] English:** Children, become a specialist, because I like them all.  
 **Translation:** 
 
-**[574.14s] English:** I'm a generalist as a doctor and couldn't just, as you said, pick one of my  
-**Translation:** Vocabulary: generalist: 通才
-
-**[578.22s] English:** children, become a specialist, because I like them all.  
+**[582.08s] English:** I feel like one of the strangest concepts about the human body is...  
 **Translation:** 
 
-**[582.08s] English:** I feel like one of the strangest concepts about the human body  
+**[585.82s] English:** Is that kind of the aspects of it that are the most universal?  
 **Translation:** 
 
-**[585.82s] English:** is that kind of the aspects of it that are the most universal  
-**Translation:** 
-
-**[590.30s] English:** that we all do are the most taboo socially.  
+**[590.30s] English:** That we all do are the most taboo socially.  
 **Translation:** Vocabulary: taboo: 禁忌
 
 **[594.04s] English:** I wouldn't have expected that.  
 **Translation:** 
 
-**[595.82s] English:** I had just looked from the outside, like what we do in the bathroom, what we do in the bedroom.  
+**[595.82s] English:** I had just looked from the outside, like what we do in the bathroom and what we do in the bedroom.  
 **Translation:** 
 
-**[600.00s] English:** bedroom, what we do to our own genitals, what we do to our, you know, quote-unquote private parts,  
+**[600.00s] English:** Bedroom activities, what we do to our own genitals, what we do to our so-called private parts,  
 **Translation:** 
 
-**[606.90s] English:** they're private, even though it's sort of the thing that we all have in common, is the most  
+**[606.90s] English:** They're private, even though it's sort of the thing that we all have in common, is the most.  
 **Translation:** Vocabulary: genitals: 生殖器官
 
-**[612.20s] English:** we try to hide from other people and don't talk about in polite company. I mean, it makes sense  
+**[612.20s] English:** We try to hide from other people and don't talk about it in polite company. I mean, it makes sense.  
 **Translation:** 
 
-**[616.28s] English:** as a human living in the society, but from the outside, it sort of might be surprising.  
+**[616.28s] English:** As a human living in the society, but from the outside, it sort of might be surprising.  
 **Translation:** 
 
-**[620.18s] English:** How do you make sense of that if you put on your Sigmund Freud hat? The thing we all do,  
+**[620.18s] English:** How do you make sense of that if you put on your Sigmund Freud hat? The thing we all do.  
 **Translation:** 
 
-**[625.88s] English:** why do we make that a taboo thing? Is it because we like taboos? Maybe our kinks as humans is to  
-**Translation:** Vocabulary: kinks: 怪癖; taboos: 禁忌
+**[625.88s] English:** Why do we make that a taboo thing? Is it because we like taboos? Maybe our kinks as humans is to  
+**Translation:** Vocabulary: kinks: 性癖; taboos: 禁忌
 
-**[635.96s] English:** have taboos, and it's kind of efficient to have taboos about the things that everybody does.  
+**[635.96s] English:** Have taboos, and it's kind of efficient to have taboos about the things that everybody does.  
 **Translation:** 
 
-**[641.88s] English:** Like, you can make walking taboo or something, I don't know. But just maybe that's what we love,  
+**[641.88s] English:** Like, you can make walking taboo or something—I don't know. But just maybe that's what we love.  
 **Translation:** 
 
-**[648.34s] English:** that's what's exciting to us, is the forbidden. I think, yes, society loves rules, for sure.  
+**[648.34s] English:** That's what's exciting to us: the forbidden. I think, yes, society loves rules, for sure.  
 **Translation:** 
 
-**[654.50s] English:** They love...  
+**[654.50s] English:** They love....  
 **Translation:** 
 
-**[655.88s] English:** Some societies more than others, you know, they love controlling how you think and what you do  
+**[655.88s] English:** Some societies, more than others, you know, love controlling how you think and what you do.  
 **Translation:** 
 
-**[661.04s] English:** in public versus in private. You know, there's a lot of societies where, for instance, parents  
+**[661.04s] English:** In public versus in private. You know, there are a lot of societies where, for instance, parents  
 **Translation:** 
 
-**[665.44s] English:** have sex in front of children. Not, you know, for instance, like in a traditional Inupiat Eskimo  
+**[665.44s] English:** Have sex in front of children. Not, you know, for instance, like in a traditional Inupiat Eskimo.  
 **Translation:** 
 
-**[671.74s] English:** society, that was sort of normal. I mean, but what are you going to do, go outside in the middle of  
-**Translation:** Vocabulary: eskimo: 因纽特人
+**[671.74s] English:** Society, that was sort of normal. I mean, but what are you going to do, go outside in the middle of?  
+**Translation:** Vocabulary: eskimo: 爱斯基摩人; inupiat: 因努皮亚特人
 
-**[676.50s] English:** the winter in the Arctic and do it out there? Of course not. So, you know, there's different  
+**[676.50s] English:** The winter in the Arctic and do it out there? Of course not. So, you know, there are different  
 **Translation:** 
 
-**[681.98s] English:** taboos in different societies. Some taboos make perfect sense.  
+**[681.98s] English:** Taboos in Different Societies. Some taboos make perfect sense.  
+**Translation:** Vocabulary: arctic: 北极
+
+**[685.16s] English:** Some taboos are even public health measures, you know. Like, as I talk in the book, about incest.  
 **Translation:** 
 
-**[685.16s] English:** Some taboos are even public health measures, you know, like as I talk in the book about in  
+**[690.84s] English:** India, where they, you know, the hands are symmetrical, as you said, but in Indian culture,  
+**Translation:** Vocabulary: incest: 近亲结婚; symmetrical: 对称的
+
+**[696.92s] English:** And the left hand is taboo, and the right hand is what you use for shaking hands, for eating.  
 **Translation:** 
 
-**[690.84s] English:** India, where they, you know, the hands are symmetric, as you said, but in Indian culture,  
-**Translation:** Vocabulary: symmetric: 对称的
+**[702.54s] English:** For other things, and the left hand is the dirty hand that you use for wiping your own bottom. You  
+**Translation:** Vocabulary: taboo: 禁忌; wiping: 擦抹
 
-**[696.92s] English:** and the left hand is taboo, and the right hand is what you use for shaking hands, for eating,  
+**[707.62s] English:** Know, that's the toilet paper in your left hand. So, while the body is anatomically symmetric,...  
 **Translation:** 
 
-**[702.54s] English:** for other things. And the left hand is the dirty hand that you use for wiping your own bottom. You  
-**Translation:** 
-
-**[707.62s] English:** know, that's the toilet paper is your left hand. So, while the body is anatomically symmetric,  
-**Translation:** 
-
-**[712.48s] English:** the taboo creates this pretty intense asymmetry.  
-**Translation:** Vocabulary: anatomically: 解剖上; asymmetry: 不对称; taboo: 禁忌
+**[712.48s] English:** The taboo creates this pretty intense asymmetry.  
+**Translation:** Vocabulary: anatomically: 解剖上
 
 **[715.16s] English:** But for a good reason, you know, you probably shouldn't be shaking hands with other people.  
 **Translation:** 
 
-**[720.00s] English:** With the same hand that you use to kind of clean your bottom.  
+**[720.00s] English:** With the same hand that you use to kind of clean your bottom,  
 **Translation:** 
 
-**[722.24s] English:** So in that sense, it makes sense.  
+**[722.24s] English:** So, in that sense, it makes sense.  
 **Translation:** 
 
 **[725.46s] English:** Yeah, maybe the roots of it make sense, but the way it propagates, especially as the times change, might not.  
@@ -451,7 +452,7 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[734.02s] English:** But the taboo remains.  
 **Translation:** 
 
-**[736.16s] English:** Right, society is very slow to change.  
+**[736.16s] English:** Right; society is very slow to change.  
 **Translation:** 
 
 **[739.12s] English:** What is the most fascinating part, function, or concept in the human body?  
@@ -460,31 +461,31 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[743.62s] English:** So, you know, something that fills you with awe.  
 **Translation:** 
 
-**[750.00s] English:** I guess the most obvious one is the brain, partly because it's so, you know, sort of poorly understood, though we understand more than we ever have in the past.  
+**[750.00s] English:** I guess the most obvious one is the brain, partly because it's so, you know, sort of poorly understood—though we understand more than we've ever had in the past.  
 **Translation:** 
 
-**[759.68s] English:** There's still so much that we don't understand about how the lump of matter in our skulls kind of creates this subjective experience that we all kind of understand quite viscerally.  
+**[759.68s] English:** There's still so much that we don't understand about how the lump of matter in our skulls kind of creates this subjective experience, which we all kind of understand quite viscerally.  
 **Translation:** 
 
 **[770.42s] English:** That's an easy one.  
-**Translation:** Vocabulary: viscerally: 直觉上
+**Translation:** Vocabulary: skulls: 头骨; viscerally: 直觉地
 
 **[771.46s] English:** I would say the kidneys are an underappreciated organ.  
 **Translation:** 
 
-**[775.26s] English:** The way they tinker with the bloodstream, raise levels of this, lower.  
-**Translation:** Vocabulary: bloodstream: 血流; tinker: 调节; underappreciated: 被忽视的
+**[775.26s] English:** The way they tinker with the bloodstream, raising levels of this and lowering others.  
+**Translation:** Vocabulary: bloodstream: 血流; kidneys: 肾脏; lowering: 降低; tinker: 调节; underappreciated: 被低估的
 
-**[780.00s] English:** The levels of that kind of our entire lives from inside the womb until we die is just really incredible.  
+**[780.00s] English:** The levels of that kind of experience span our entire lives, from inside the womb until we die, and it's just really incredible.  
 **Translation:** 
 
-**[787.12s] English:** And when you look at how much energy different organs consume, the brain and the kidneys are two of the biggest ones, because the brain obviously in us is always active and controlling parts of the body.  
+**[787.12s] English:** And when you look at how much energy different organs consume, the brain and the kidneys are two of the biggest ones, because the brain, obviously, is always active and controlling parts of the body.  
 **Translation:** 
 
 **[797.96s] English:** But the kidneys are just consuming a ton of energy to do what they do.  
 **Translation:** 
 
-**[801.84s] English:** They're kind of the unsung hero of the body, relegated to the back of the abdomen like some forgotten organ.  
+**[801.84s] English:** They're kind of the unsung heroes of the body, relegated to the back of the abdomen like some forgotten organ.  
 **Translation:** Vocabulary: abdomen: 腹部
 
 **[807.36s] English:** But they are great.  
@@ -496,151 +497,151 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[810.00s] English:** I was just a kidney specialist because I was so taken with the kidneys, but decided I like all the organs, so couldn't pick just one.  
 **Translation:** 
 
-**[817.36s] English:** So your book is ordered in a particular way.  
-**Translation:** 
+**[817.36s] English:** So, your book is ordered in a particular way.  
+**Translation:** Vocabulary: kidney: 肾脏
 
-**[820.18s] English:** It's throat, heart, feces, genitals, liver, pineal gland, brain, skin, urine, fat, lungs, eyes, mucus, fingers and toes, and blood.  
+**[820.18s] English:** It's the throat, heart, feces, genitals, liver, pineal gland, brain, skin, urine, fat, lungs, eyes, mucus, fingers, and toes, and blood.  
 **Translation:** 
 
 **[837.22s] English:** All right.  
-**Translation:** Vocabulary: feces: 粪便; genitals: 生殖器; gland: 腺体; mucus: 黏液; urine: 尿液
+**Translation:** Vocabulary: feces: 粪便; genitals: 生殖器; gland: 腺体; mucus: 黏液; pineal: 松果体; urine: 尿液
 
-**[838.42s] English:** First of all, great.  
+**[838.42s] English:** First of all, great!  
 **Translation:** 
 
-**[840.00s] English:** Great chapter titles. Is there a reason for this ordering, or is it all madness?  
+**[840.00s] English:** Great chapter titles! Is there a reason for this ordering, or is it all madness?  
+**Translation:** Vocabulary: madness: 胡乱
+
+**[846.14s] English:** There are a few different reasons that went into it. I did want to start with the throat, for the reason that it kind of presents the topic of death, which is, of course, very important in the training of a physician and in the career of a physician.  
 **Translation:** 
 
-**[846.14s] English:** There's a few different reasons that went into it. I did want to start with the throat for the reason that it kind of presents the topic of death, which is sort of obviously very important in the training of a physician, in the career of a physician.  
+**[862.98s] English:** It's a big part of what I deal with. You know, on the first day of medical school, we started the dissection of a cadaver in the class called Anatomy Lab. And so, in a way, we were kind of thrown right in there at the beginning: "This is the end of the human story," you know? Understand this. And then we sort of backed up to the beginning with embryology and reproduction and stuff.  
+**Translation:** Vocabulary: anatomy: 解剖; cadaver: 遗体; dissection: 解剖; embryology: 胚胎学; physician: 医师
+
+**[883.48s] English:** So, it's kind of like we got, and I got thrown into that right away, right in the beginning: kind of like, "Here's a dead body. Now, start cutting it apart and learn the names and functions.  
 **Translation:** 
 
-**[862.98s] English:** It's a big part of what I deal with. You know, on the first day of medical school, we started the dissection of a cadaver in the class called Anatomy Lab. And so, in a way, we were kind of thrown right in there in the beginning, like, this is the end of the human story, you know, understand this. And then we sort of backed up to the beginning with embryology and reproduction and stuff.  
-**Translation:** Vocabulary: cadaver: 尸体; dissection: 解剖; embryology: 胚胎学
-
-**[883.48s] English:** So, it's kind of like we got, and I got thrown into that right away, right in the beginning, kind of like, here's a dead body. Now, start cutting it apart and learn the name and function.  
+**[892.98s] English:** How did that change you? That first experience with the cold honesty of human biology?  
 **Translation:** 
 
-**[892.98s] English:** How did that change you, that first experience with the cold honesty of human biology?  
+**[901.44s] English:** Right; that's exactly what it was: cold honesty about the kind of story of each individual human body. It has an end, and that's it. I think that, well, actually, before the end of that first day—so, what we did on that first day was study the superficial muscles of the back, like the lats or latissimus dorsi, and some other muscles.  
 **Translation:** 
 
-**[901.44s] English:** Right, that's exactly what it was, is cold honesty about the kind of the story of each individual human body. It has an end, and that's it. I think that, well, actually, before the end of that first day, so what we did on that first day was study the superficial muscles of the back, like the lats or latissimus dorsi and some other muscles.  
-**Translation:** 
-
-**[919.06s] English:** You know, we cut through the skin of the back. My cadaver was laying face down on this.  
-**Translation:** Vocabulary: dorsi: 背阔肌; latissimus: 背阔肌; superficial: 表层的
+**[919.06s] English:** You know, we cut through the skin of the back. My cadaver was lying face down on this.  
+**Translation:** Vocabulary: dorsi: 背侧; latissimus: 最长的; superficial: 表层的
 
 **[922.98s] English:** We pulled back the kind of plastic sheets that would keep him moist for the next four months as we dissected him, cut through the skin on his back, and then started dissecting through the superficial muscles of the back.  
 **Translation:** 
 
-**[933.84s] English:** And that was really all we saw that first day. We didn't get any deeper, didn't enter the abdominal or chest cavity to see internal organs, but I was so fascinated with this sort of behind-the-scenes look at how things work in the body, how you move your arms, how you arch your back.  
+**[933.84s] English:** And that was really all we saw that first day. We didn't get any deeper; we didn't enter the abdominal or chest cavity to see internal organs. But I was so fascinated with this sort of behind-the-scenes look at how things work in the body—how you move your arms, how you arch your back.  
 **Translation:** Vocabulary: abdominal: 腹部; cavity: 腔; dissected: 解剖; dissecting: 解剖; fascinated: 着迷; moist: 湿润
 
 **[950.14s] English:** You know, these are the muscles that do it.  
 **Translation:** 
 
-**[951.80s] English:** And so I decided I wanted to donate my own body for the same purpose.  
+**[951.80s] English:** And so, I decided I wanted to donate my own body for the same purpose.  
+**Translation:** Vocabulary: donate: 捐赠
+
+**[956.08s] English:** So, I made that decision literally before the end of that first day of class.  
 **Translation:** 
 
-**[956.08s] English:** So I made that decision literally before the end of that first day of class.  
-**Translation:** 
-
-**[960.00s] English:** and i i'm still sticking to it so someday there will be a medical student they can watch and  
+**[960.00s] English:** And I'm still sticking to it, so someday there will be a medical student they can watch and.  
 **Translation:** Vocabulary: sticking: 坚持
 
-**[967.14s] English:** listen to this podcast and while dissecting your body it could happen they might not know that that  
+**[967.14s] English:** Listen to this podcast, and while dissecting your body, it could happen that they might not know that.  
 **Translation:** 
 
-**[973.62s] English:** person they're listening to on the podcast will be the carcass in front of them but like we don't  
+**[973.62s] English:** Person they're listening to on the podcast will be the carcass in front of them, but like, we don't.  
 **Translation:** Vocabulary: carcass: 尸体
 
-**[978.24s] English:** we never learned the universe will know the universe and they will acknowledge the irony  
+**[978.24s] English:** We never learned; the universe will know, the universe and they will acknowledge the irony.  
 **Translation:** 
 
-**[983.54s] English:** or the humor the absurdity of that the universe will chuckle but the medical student won't know  
-**Translation:** Vocabulary: absurdity: 荒谬; irony: 讽刺
+**[983.54s] English:** Or, the humor and the absurdity of that—the universe will chuckle, but the medical student won't know.  
+**Translation:** Vocabulary: absurdity: 荒谬; chuckle: 轻笑; irony: 讽刺
 
-**[989.26s] English:** because they never as i did not learn any uh you know personal information about the person  
+**[989.26s] English:** Because they never, as I did not, learn any personal information about the person.  
 **Translation:** 
 
-**[994.96s] English:** only what i could glean from looking inside him which actually tells you quite a bit i knew he  
+**[994.96s] English:** Only what I could glean from looking inside him, which actually tells you quite a bit; I knew he  
 **Translation:** Vocabulary: glean: 推断出
 
-**[999.26s] English:** was a smoker i knew he had coronary artery disease you know you you get a a window into i knew he was  
+**[999.26s] English:** Was a smoker. I knew he had coronary artery disease. You know, you get a window into... I knew he was.  
 **Translation:** 
 
-**[1004.36s] English:** overweight you get a window into people's lives just by looking in their in their bodies after  
+**[1004.36s] English:** Overweight, you get a window into people's lives just by looking at their bodies after.  
+**Translation:** Vocabulary: artery: 血管; coronary: 冠状的; smoker: 吸烟者
+
+**[1009.02s] English:** Death, other, other—um, cadavers in the lab; not my own, or I shared one with three other students, but...  
 **Translation:** 
 
-**[1009.02s] English:** death other other um cadavers in the lab not my own or i shared one with three other students but  
+**[1015.94s] English:** Other cadavers; some had, you know, metal joints like a  
+**Translation:** Vocabulary: cadavers: 尸体; joints: 关节
+
+**[1019.26s] English:** Replacement: Some had a kidney missing, so they probably and we could tell it was surgically removed.  
 **Translation:** 
 
-**[1015.94s] English:** other cadavers some had you know metal joints like a  
-**Translation:** Vocabulary: cadavers: 尸体
+**[1024.00s] English:** Removed, not that he was born with one, and we could tell that he probably had a kidney tumor.  
+**Translation:** Vocabulary: kidney: 肾脏; surgically: 手术地
 
-**[1019.26s] English:** replacement some had a kidney missing so they probably and we could tell it was surgically  
+**[1028.84s] English:** Or, for cancer that was removed, you do get an insight into people's lives from, you know, picking.  
 **Translation:** 
 
-**[1024.00s] English:** removed not that he was born with one uh and we could tell that he probably had a kidney tumor  
+**[1034.32s] English:** They can't be kept apart after they're dead, but you don't know their name or what podcast they've been on.  
 **Translation:** 
 
-**[1028.84s] English:** or cancer that was removed so you you do get an insight into people's lives from you know picking  
+**[1038.46s] English:** So, as the book title says, "Unseen Body," it tells some kind of story of your life.  
 **Translation:** 
 
-**[1034.32s] English:** them apart after they're dead but you don't know their name or what podcast they've been on  
+**[1047.18s] English:** So, it does capture the  
 **Translation:** 
 
-**[1038.46s] English:** so the as the book title says unseen body so it tells some kind of story of your life  
+**[1049.26s] English:** Decisions you've made in your life, the things you've done that might be kind of secret.  
 **Translation:** 
 
-**[1047.18s] English:** so it does capture the  
+**[1054.04s] English:** To that person, and maybe to a few others that knew him or her well, that's so fascinating.  
 **Translation:** 
 
-**[1049.26s] English:** decisions you've made in your life the things you've done that might be kind of secret  
+**[1063.02s] English:** What kind of things can it reveal, like what kinds of choices in terms of the injuries?  
 **Translation:** 
 
-**[1054.04s] English:** to that person and maybe to a few others that knew him or her well that's so fascinating so  
+**[1071.60s] English:** Catastrophic events, the lifestyle choices of smoking and diet, and all those kinds of things.  
 **Translation:** 
 
-**[1063.02s] English:** what kind of things can it reveal like what kind of choices in terms of the injuries the the the  
+**[1079.26s] English:** What can you see? What kind of  
 **Translation:** 
 
-**[1071.60s] English:** catastrophic events the lifestyle choices of smoking and diet and all those kinds of things  
+**[1080.00s] English:** Can you see a history about the human before you?  
 **Translation:** 
 
-**[1079.26s] English:** what can you see what kind of  
-**Translation:** 
-
-**[1080.00s] English:** A history can you see about the human before you?  
-**Translation:** 
-
-**[1083.44s] English:** So all those things you mentioned are things you can see.  
+**[1083.44s] English:** So, all those things you mentioned are things you can see.  
 **Translation:** 
 
 **[1086.00s] English:** You can, you know, take the skin, for example, right?  
 **Translation:** 
 
-**[1088.18s] English:** Most things that happen to us leave a mark, you know, as I say, a kind of a story written  
+**[1088.18s] English:** Most things that happen to us leave a mark, you know. As I say, a kind of a story written,...  
 **Translation:** 
 
-**[1093.88s] English:** in the language of scar, where it tells you injuries you've had.  
+**[1093.88s] English:** In the language of scars, where it tells you of the injuries you've had.  
 **Translation:** 
 
-**[1096.96s] English:** And same thing with animals.  
+**[1096.96s] English:** And the same thing with animals.  
 **Translation:** 
 
 **[1098.00s] English:** You know, I've seen deer hides that have marks that look like they're made by maybe a barbed  
 **Translation:** Vocabulary: barbed: 带刺的
 
-**[1103.04s] English:** wire fence, something like that.  
+**[1103.04s] English:** Wire fence, something like that.  
 **Translation:** 
 
-**[1104.42s] English:** You can tell, you know, sometimes it's conjecture, but you can sort of imagine what might have  
+**[1104.42s] English:** You can tell; you know, sometimes it's conjecture, but you can sort of imagine what might have happened.  
 **Translation:** Vocabulary: conjecture: 猜测
 
-**[1109.58s] English:** happened to cause that.  
+**[1109.58s] English:** Happened to cause that?  
 **Translation:** 
 
-**[1110.74s] English:** Perhaps, you know, two bucks were fighting and one got injured with an antler.  
+**[1110.74s] English:** Perhaps, you know, two bucks were fighting, and one got injured with an antler.  
 **Translation:** Vocabulary: antler: 鹿角; bucks: 公鹿
 
 **[1114.96s] English:** And the same with humans.  
@@ -649,19 +650,19 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1116.28s] English:** You know, I have scars on my body, and when I notice them, I remember what happened.  
 **Translation:** 
 
-**[1120.82s] English:** You know, I got a big cut on my hand when I was 13, and it's still there, and I remember  
+**[1120.82s] English:** You know, I got a big cut on my hand when I was 13, and it's still there, and I remember.  
 **Translation:** 
 
-**[1126.24s] English:** what happened, you know, every time I look at it.  
+**[1126.24s] English:** What happened, you know, every time I look at it.  
 **Translation:** 
 
-**[1128.94s] English:** So in that way, only I might know that story, but other people, you know, when they dissect  
+**[1128.94s] English:** So, in that way, only I might know that story, but other people, you know, when they dissect...  
 **Translation:** 
 
-**[1134.58s] English:** me and notice the same scars, it can fire their imagination as my cadaver, you know,  
-**Translation:** Vocabulary: cadaver: 尸体
+**[1134.58s] English:** Me and them noticing the same scars can fire their imagination, as with my cadaver, you know.  
+**Translation:** Vocabulary: cadaver: 尸体; dissect: 解剖
 
-**[1139.26s] English:** did.  
+**[1139.26s] English:** Did.  
 **Translation:** 
 
 **[1139.58s] English:** For me.  
@@ -671,12 +672,12 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **Translation:** 
 
 **[1142.68s] English:** That's such an interesting way that the skin does tell a story, both tattoos and scars.  
-**Translation:** 
+**Translation:** Vocabulary: tattoos: 纹身
 
 **[1149.44s] English:** Right.  
 **Translation:** 
 
-**[1150.44s] English:** Some of the fun you've had and some of the damage you've done.  
+**[1150.44s] English:** Some of the fun you've had, and some of the damage you've done.  
 **Translation:** 
 
 **[1154.06s] English:** Right.  
@@ -685,23 +686,23 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1154.42s] English:** And even when I evaluate a patient, I can use scars to help me make medical decisions.  
 **Translation:** Vocabulary: evaluate: 评估
 
-**[1160.50s] English:** So for instance, someone that comes in with abdominal pain into the emergency room, you  
+**[1160.50s] English:** So, for instance, someone who comes in with abdominal pain to the emergency room, you  
 **Translation:** 
 
-**[1164.36s] English:** can see scars on their abdomen that tell you about, you know, the past kind of activities  
+**[1164.36s] English:** Can see scars on their abdomen that tell you about, you know, the past kinds of activities.  
 **Translation:** Vocabulary: abdomen: 腹部; abdominal: 腹腔的
 
-**[1169.06s] English:** of a surgeon.  
+**[1169.06s] English:** Of a surgeon.  
 **Translation:** 
 
-**[1169.58s] English:** Perhaps I know I recognize the scars that are left when someone has their gallbladder  
+**[1169.58s] English:** Perhaps I know, I recognize the scars that are left when someone has had their gallbladder removed.  
 **Translation:** Vocabulary: gallbladder: 胆囊
 
-**[1174.48s] English:** removed, the scars when someone has their appendix removed, when maybe when someone's  
+**[1174.48s] English:** Removed, the scars are visible when someone has their appendix removed, when maybe after a few months.  
 **Translation:** 
 
-**[1178.06s] English:** had a hysterectomy, and that can tell you what it might be or what it isn't.  
-**Translation:** Vocabulary: appendix: 阑尾; hysterectomy: 子宫切除
+**[1178.06s] English:** Had a hysterectomy, and that can tell you what it might be or what it isn't.  
+**Translation:** Vocabulary: appendix: 阑尾; hysterectomy: 子宫切除术
 
 **[1182.42s] English:** You know, if someone doesn't have an appendix, their abdominal pain is not appendicitis.  
 **Translation:** 
@@ -709,61 +710,61 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1185.56s] English:** End of story.  
 **Translation:** Vocabulary: appendicitis: 阑尾炎
 
-**[1186.68s] English:** So in that way, I'm sort of looking at these the tracks of the footprints of past surgeries  
+**[1186.68s] English:** So, in that way, I'm sort of looking at the tracks of the footprints of past surgeries.  
 **Translation:** 
 
-**[1192.50s] English:** to tell me what what might and might not be the cause of this patient's abdominal pain,  
-**Translation:** Vocabulary: footprints: 手术痕迹
+**[1192.50s] English:** To tell me what might and might not be the cause of this patient's abdominal pain,  
+**Translation:** Vocabulary: footprints: 手术痕迹; surgeries: 手术
 
-**[1196.40s] English:** which is kind of my main job in the ER is figuring out what's causing it.  
+**[1196.40s] English:** Which is kind of my main job in the ER is figuring out what's causing it.  
 **Translation:** 
 
 **[1199.58s] English:** I help them.  
 **Translation:** 
 
-**[1200.00s] English:** is there ways to get more data about the human body  
+**[1200.00s] English:** Is there a way to get more data about the human body?  
 **Translation:** 
 
-**[1205.38s] English:** as we look into the future of medicine and biology  
+**[1205.38s] English:** As we look into the future of medicine and biology,  
 **Translation:** 
 
-**[1208.54s] English:** that will be helpful to fill in some of the gaps of the story?  
+**[1208.54s] English:** That will be helpful to fill in some of the gaps of the story?  
 **Translation:** 
 
-**[1212.78s] English:** So you have companies, you have research  
+**[1212.78s] English:** So, you have companies, you have research.  
 **Translation:** 
 
-**[1218.06s] English:** that looks at a collection of blood over long periods of time  
+**[1218.06s] English:** That looks at a collection of blood over long periods of time.  
 **Translation:** 
 
-**[1223.44s] English:** to paint a picture of what's happening in your body,  
+**[1223.44s] English:** To paint a picture of what's happening in your body,  
 **Translation:** 
 
-**[1228.04s] English:** mostly to help with lifestyle decisions,  
+**[1228.04s] English:** Mostly to help with lifestyle decisions,  
 **Translation:** 
 
-**[1230.00s] English:** but also to anticipate things that can go wrong and all that kind of stuff.  
+**[1230.00s] English:** But also to anticipate things that can go wrong, and all that kind of stuff.  
 **Translation:** Vocabulary: anticipate: 预知
 
-**[1235.48s] English:** Can you just speak to a greater digital world that we're stepping in,  
+**[1235.48s] English:** Can you just speak to the greater digital world we're stepping into?  
 **Translation:** 
 
-**[1240.82s] English:** how that can help tell a richer story?  
+**[1240.82s] English:** How can that help tell a richer story?  
 **Translation:** 
 
-**[1244.60s] English:** I certainly think that we have more data than we know what to do with right now,  
+**[1244.60s] English:** I certainly think that we have more data than we know what to do with right now.  
 **Translation:** 
 
-**[1250.36s] English:** especially with kind of direct-to-consumer medical devices,  
+**[1250.36s] English:** Especially with direct-to-consumer medical devices,  
 **Translation:** 
 
-**[1254.34s] English:** smartwatches, et cetera, that are just collecting these reams of data.  
+**[1254.34s] English:** Smartwatches, et cetera, are just collecting these reams of data.  
 **Translation:** 
 
-**[1258.76s] English:** I have not seen...  
+**[1258.76s] English:** I have not seen....  
 **Translation:** Vocabulary: cetera: 等等; reams: 大量; smartwatches: 智能手表
 
-**[1260.00s] English:** I haven't seen them put to, I think, the eventual use that they will.  
+**[1260.00s] English:** I haven't seen them put to the eventual use that they will.  
 **Translation:** 
 
 **[1263.78s] English:** I think that the potential is sort of just unimaginable.  
@@ -772,19 +773,19 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1269.58s] English:** And I hope we're heading into a new age where you can determine,  
 **Translation:** 
 
-**[1273.48s] English:** for instance, is a person going to have more of the dangerous side effects  
+**[1273.48s] English:** For instance, is a person going to have more of the dangerous side effects?  
 **Translation:** 
 
-**[1277.00s] English:** to a drug based on their genetics?  
+**[1277.00s] English:** To which drug, based on their genetics?  
 **Translation:** 
 
 **[1278.86s] English:** Or are they going to tolerate one drug better than the other based on their genetics?  
 **Translation:** Vocabulary: tolerate: 耐受
 
-**[1284.56s] English:** And we are slowly moving into that age,  
+**[1284.56s] English:** And we are slowly moving into that age.  
 **Translation:** 
 
-**[1287.64s] English:** and especially the age of kind of completely...  
+**[1287.64s] English:** And, especially, the age of completely...  
 **Translation:** 
 
 **[1290.00s] English:** Synthesizing drugs in a lab.  
@@ -796,19 +797,19 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1298.08s] English:** Like Moderna never had the virus in their lab.  
 **Translation:** 
 
-**[1301.12s] English:** They made that vaccine completely without ever having the virus themselves,  
+**[1301.12s] English:** They made that vaccine completely without ever having the virus themselves.  
+**Translation:** Vocabulary: moderna: 莫德纳; vaccine: 疫苗
+
+**[1303.96s] English:** Just by having the genome, which is sort of astounding.  
 **Translation:** 
 
-**[1303.96s] English:** just by having the genome, which is sort of astounding.  
-**Translation:** 
-
-**[1306.62s] English:** And there's a lot of potential going forward based on that technology and some others.  
+**[1306.62s] English:** And there's a lot of potential going forward, based on that technology and some others.  
 **Translation:** Vocabulary: astounding: 令人惊讶; genome: 基因组
 
 **[1311.14s] English:** I didn't know that.  
 **Translation:** 
 
-**[1311.90s] English:** So basically, it's all in the computer.  
+**[1311.90s] English:** So, basically, it's all in the computer.  
 **Translation:** 
 
 **[1314.00s] English:** It's computational.  
@@ -821,234 +822,234 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **Translation:** 
 
 **[1316.10s] English:** You have tremendous power, even if you don't have the organism itself.  
+**Translation:** Vocabulary: organism: 生物体
+
+**[1320.00s] English:** Do you think of Elizabeth Holmes and efforts like that? First of all, I am curious; I'm drawn...  
 **Translation:** 
 
-**[1320.00s] English:** do you make of elizabeth holmes and efforts like that first of all i am a um curious i'm drawn  
+**[1332.62s] English:** To the darkness in human nature, because that somehow reveals the full spectrum of what  
+**Translation:** Vocabulary: holmes: 霍尔姆斯
+
+**[1341.58s] English:** Humans could be so; there are a lot of sort of controversial thoughts about who she is and her.  
 **Translation:** 
 
-**[1332.62s] English:** to the darkness in human nature because that somehow reveals um the full spectrum of what  
+**[1347.14s] English:** Efforts and so on—I think you may have even tweeted about it, but I've read a lot of your  
 **Translation:** 
 
-**[1341.58s] English:** humans could be so there's a lot of sort of controversial thoughts about who she is and her  
+**[1351.82s] English:** Tweets, so I'm not forgetting. But, what do you make of her and those two efforts?  
 **Translation:** 
 
-**[1347.14s] English:** efforts and so on i think you may have even tweeted about it but i've read a lot of your  
+**[1356.94s] English:** And the charlatans, uh, that sort of um snake-oil salesmen that's promised those efforts.  
+**Translation:** Vocabulary: charlatans: 江湖骗子; salesmen: 推销员; tweets: 推特帖子
+
+**[1367.94s] English:** To do more than they currently can, I think that her goal was to achieve that.  
 **Translation:** 
 
-**[1351.82s] English:** tweets so i'm not forgetting um but what do you make of her and those both those efforts  
-**Translation:** 
-
-**[1356.94s] English:** and the charlatans uh that sort of um snake oil salesman that's promised those efforts  
-**Translation:** Vocabulary: charlatans: 江湖骗子; tweets: 推特
-
-**[1367.94s] English:** to do more than they currently can i think that her you know that goal that she had that she  
-**Translation:** 
-
-**[1375.34s] English:** created theranos to try to  
+**[1375.34s] English:** Created Theranos to try to  
 **Translation:** Vocabulary: theranos: 天美士
 
-**[1376.88s] English:** achieve  
+**[1376.88s] English:** Achieve  
 **Translation:** 
 
-**[1377.12s] English:** to use less blood in tests is a very worthy goal and a huge frontier that we have not  
+**[1377.12s] English:** To use less blood in tests is a very worthy goal, and a huge frontier that we have not yet explored.  
 **Translation:** Vocabulary: frontier: 未开发领域
 
-**[1383.58s] English:** achieved and that i hope we will achieve so i understand why you know what someone describes  
+**[1383.58s] English:** Achieved, and that I hope we will achieve, so I understand why you know what someone describes.  
 **Translation:** 
 
-**[1390.30s] English:** what a huge step forward that would be and it would be indeed i understand why people put a  
+**[1390.30s] English:** What a huge step forward that would be, and it would indeed be, I understand why people put a  
 **Translation:** 
 
-**[1394.42s] English:** ton of money behind it can you describe what was the promise what what are we even talking about  
+**[1394.42s] English:** A ton of money is behind it. Can you describe what the promise was? What are we even talking about?  
 **Translation:** 
 
-**[1399.38s] English:** what's theranos what just uh for people who don't know so theranos is a company that was basically  
+**[1399.38s] English:** What's Theranos? What just... for people who don't know, so Theranos is a company that was basically  
 **Translation:** 
 
-**[1404.80s] English:** started to revolutionize the  
+**[1404.80s] English:** Started to revolutionize the  
 **Translation:** 
 
-**[1407.10s] English:** way medical blood tests are done both to use a whole lot less blood in doing it you know if  
+**[1407.10s] English:** Way medical blood tests are done, both to use a whole lot less blood in doing it, you know.  
 **Translation:** Vocabulary: revolutionize: 彻底改变
 
-**[1413.30s] English:** anyone's ever been to the doctor and had five to ten tubes of blood removed from them it can be  
+**[1413.30s] English:** Anyone who has ever been to the doctor and had five to ten tubes of blood removed from them can be  
 **Translation:** 
 
-**[1418.12s] English:** quite surprising how much they take out uh and and it's you know that's the limitation of our  
+**[1418.12s] English:** Quite surprising how much they take out. And, you know, that's the limitation of our system.  
 **Translation:** 
 
-**[1424.38s] English:** technology that we need those volumes of blood to run all the tests that we want to and so the  
+**[1424.38s] English:** Technology that we need those volumes of blood to run all the tests that we want to, and so the  
 **Translation:** 
 
-**[1428.24s] English:** promise of theranos was that perhaps with a single drop of blood we would be able to know as much  
+**[1428.24s] English:** The promise of Theranos was that, perhaps, with a single drop of blood, we would be able to know as much.  
 **Translation:** 
 
-**[1433.54s] English:** about the person's the condition of their their body  
+**[1433.54s] English:** About the person's condition of their body.  
 **Translation:** 
 
-**[1437.10s] English:** without drawing all that blood and and thereby you know  
+**[1437.10s] English:** Without drawing all that blood and, thereby, you know.  
 **Translation:** 
 
-**[1440.00s] English:** there would be these devices she was going to create that would sort of do it. You put a drop  
+**[1440.00s] English:** There would be these devices she was going to create that would, sort of, do it. You put a drop...  
 **Translation:** 
 
-**[1444.28s] English:** of blood in and spits out everything you ever wanted to know about what's in your bloodstream.  
+**[1444.28s] English:** Of blood, in and out: it spits out everything you ever wanted to know about what's in your bloodstream.  
 **Translation:** Vocabulary: bloodstream: 血管; spits: 吐出
 
-**[1447.54s] English:** And in a way that would make it so much easier, you know, it could be, you could have one in your  
+**[1447.54s] English:** And, in a way that would make it so much easier, you know, it could be—like, you could have one in your  
 **Translation:** 
 
-**[1451.38s] English:** home theoretically, and you, I don't know why you'd wonder what your potassium level is on any  
+**[1451.38s] English:** Home, theoretically, and you—I don't know why you'd wonder what your potassium level is—on any  
 **Translation:** Vocabulary: potassium: 钾; theoretically: 理论上
 
-**[1455.72s] English:** given day, but you could check if you wanted to. And so that goal is very worthy. You know,  
+**[1455.72s] English:** Given a day, but you could check if you wanted to. And so that goal is very worthy. You know,  
 **Translation:** 
 
-**[1461.52s] English:** I put that goal up there with the frontier of making painkillers that are as good as opioids  
-**Translation:** Vocabulary: opioids: 阿片类药物; painkillers: 止痛药
+**[1461.52s] English:** I put that goal up there: with the frontier of making painkillers that are as good as opioids.  
+**Translation:** Vocabulary: frontier: 前沿; opioids: 阿片类药物; painkillers: 止痛药
 
-**[1467.48s] English:** without the addictive quality. You know, that would be such a huge revolution if we did have  
+**[1467.48s] English:** Without the addictive quality, you know, that would be such a huge revolution if we did have.  
 **Translation:** 
 
-**[1471.22s] English:** that in medicine. But particularly for me, because I trained in both pediatrics and internal medicine,  
-**Translation:** Vocabulary: addictive: 成瘾性; pediatrics: 儿科
+**[1471.22s] English:** That's true in medicine. But particularly for me, because I trained in both pediatrics and internal medicine,  
+**Translation:** Vocabulary: addictive: 成瘾的; pediatrics: 儿科
 
-**[1477.24s] English:** so I learned to care for both children and adults. In children, we do draw much less blood. They have  
+**[1477.24s] English:** So, I learned to care for both children and adults. In children, we draw much less blood. They have  
 **Translation:** 
 
-**[1482.38s] English:** a much lower blood volume. And we use these tiny little tubes to draw their blood. And we seemingly  
+**[1482.38s] English:** A much lower blood volume. And we use these tiny little tubes to draw their blood. And we seemingly  
 **Translation:** 
 
-**[1487.92s] English:** get equivalent information out of the larger tubes we draw from adults. And I'm still unclear,  
+**[1487.92s] English:** Get equivalent information out of the larger tubes we draw from adults. And I'm still unclear.  
 **Translation:** 
 
-**[1493.14s] English:** to be honest, why we can't draw that little amount of blood from adults. It seems technically  
-**Translation:** 
+**[1493.14s] English:** To be honest, why we can't draw that little amount of blood from adults. It seems technically  
+**Translation:** Vocabulary: technically: 技术上
 
-**[1497.42s] English:** possible. I don't know what the barriers are. I'm sure there are, or else we'd be doing it.  
+**[1497.42s] English:** Possible. I don't know what the barriers are. I'm sure there are, or else we'd be doing it.  
 **Translation:** 
 
 **[1501.96s] English:** But I do think that that is a very important goal. And if Theranos had done it, they would  
 **Translation:** Vocabulary: barriers: 障碍
 
-**[1506.26s] English:** really revolutionize the practice of medicine. So to return to that cadaver, that first day  
+**[1506.26s] English:** Really, it could revolutionize the practice of medicine. So, to return to that cadaver, that first day,  
 **Translation:** 
 
-**[1515.28s] English:** when you got to meet with a dead, with a human body that's no longer living. So how quickly  
-**Translation:** Vocabulary: cadaver: 尸体
+**[1515.28s] English:** When you get to meet with a deceased human body that's no longer living, so how quickly  
+**Translation:** Vocabulary: cadaver: 尸体; deceased: 已故的人; revolutionize: 革新
 
-**[1523.22s] English:** did it take for you to get used to sort of...  
+**[1523.22s] English:** Did it take for you to get used to sort of...?  
 **Translation:** 
 
-**[1527.42s] English:** You said looking at the surface muscles of the back. I mean, that can be overwhelming as a  
+**[1527.42s] English:** You said looking at the surface muscles of the back. I mean, that can be overwhelming as a beginner.  
 **Translation:** 
 
-**[1534.54s] English:** thought. And people listening to this that have never dissected anything might be overwhelmed by  
+**[1534.54s] English:** Thought. And people listening to this who have never dissected anything might be overwhelmed by  
 **Translation:** 
 
-**[1539.62s] English:** that thought. So how quickly were you able to get used to the brutal honesty of the biology before  
-**Translation:** Vocabulary: brutal: 残酷; dissected: 解剖
+**[1539.62s] English:** That thought. So, how quickly were you able to get used to the brutal honesty of the biology before?  
+**Translation:** Vocabulary: brutal: 残酷的; dissected: 解剖
 
-**[1547.24s] English:** you? For me, it did not take long at all. I guess I've never been a squeamish person. So for me,  
+**[1547.24s] English:** You? For me, it didn't take long at all. I guess I've never been a squeamish person. So for me,  
 **Translation:** 
 
-**[1553.66s] English:** it was kind of riveting and fascinating right from the first moment. But I do,  
+**[1553.66s] English:** It was kind of riveting and fascinating right from the first moment. But I do,  
 **Translation:** Vocabulary: riveting: 引人入胜; squeamish: 怕脏
 
-**[1557.42s] English:** know some of my fellow classmates.  
+**[1557.42s] English:** Know some of my fellow classmates.  
 **Translation:** 
 
-**[1560.00s] English:** did have some trouble with it. Some of them I heard had nightmares in the first few weeks of  
+**[1560.00s] English:** Did have some trouble with it. Some of them I heard had nightmares in the first few weeks of.  
 **Translation:** Vocabulary: nightmares: 噩梦
 
-**[1565.92s] English:** anatomy lab. But then everyone, as far as I know, got used to it. And that was also actually a big  
+**[1565.92s] English:** Anatomy lab. But then, as far as I know, everyone got used to it. And that was also actually a big  
 **Translation:** 
 
-**[1572.72s] English:** lesson for me that it's pretty amazing what people can get used to in their daily lives.  
+**[1572.72s] English:** A lesson for me that it's pretty amazing what people can get used to in their daily lives.  
 **Translation:** 
 
-**[1576.64s] English:** And I kind of extrapolated that to people living through war and through, you know,  
+**[1576.64s] English:** And I kind of extrapolated that to people living through war and, you know,  
 **Translation:** 
 
-**[1580.94s] English:** just terrible situations and living under, you know, oppressive regimes. And it really is amazing  
-**Translation:** Vocabulary: extrapolated: 推断; oppressive: 压迫
+**[1580.94s] English:** Just terrible situations and living under, you know, oppressive regimes. And it really is amazing.  
+**Translation:** Vocabulary: extrapolated: 推断; oppressive: 压迫的; regimes: 政权
 
-**[1588.24s] English:** what people can get used to, almost anything. But, you know, in war, people often come back  
+**[1588.24s] English:** What people can get used to, almost anything. But, you know, in war, people often come back.  
 **Translation:** 
 
-**[1595.48s] English:** and they have nightmares. They suffer through it. There's PTSD. There's a lot of complicated  
+**[1595.48s] English:** And they have nightmares. They suffer through it. There's PTSD, and there's a lot of complicated issues.  
 **Translation:** 
 
-**[1601.00s] English:** feelings with that. Are echoes of those same complicated feelings possible in the case of  
+**[1601.00s] English:** Feelings with that. Are echoes of those same complicated feelings possible in the case of?  
 **Translation:** 
 
-**[1608.54s] English:** training to be and becoming a doctor? It's a good point. Yeah, I think, you know,  
+**[1608.54s] English:** Training to be and becoming a doctor? It's a good point. Yeah, I think, you know,  
+**Translation:** Vocabulary: echoes: 回响
+
+**[1613.42s] English:** Sometimes, just as a barbed wire fence can leave a scar on your skin,  
 **Translation:** 
 
-**[1613.42s] English:** sometimes just as, you know, a barbed wire fence can leave a scar on your skin,  
+**[1618.24s] English:** You know, emotional or psychological experiences can leave a mark on your brain or your memory.  
+**Translation:** Vocabulary: barbed: 带刺的
+
+**[1623.50s] English:** And I think that that definitely could be a problem in medical training. You do see a lot.  
 **Translation:** 
 
-**[1618.24s] English:** you know, emotional, psychological experiences can leave a mark on your brain or your memory.  
+**[1631.72s] English:** Of things that are very shocking, very repulsive, things that you'd never forget. I know one of...  
+**Translation:** Vocabulary: repulsive: 令人作呕的
+
+**[1637.44s] English:** Those students who had nightmares initially went on to become surgeons. So, I imagine she's not having any now.  
 **Translation:** 
 
-**[1623.50s] English:** And I think that that definitely could be a problem in medical training. You do see a lot  
+**[1642.96s] English:** The PTSD of seeing inside her first dead body, because she sees inside them all day, every day.  
+**Translation:** Vocabulary: nightmares: 恶梦
+
+**[1647.58s] English:** Day, now.  
 **Translation:** 
 
-**[1631.72s] English:** of things that are very shocking, very repulsive, things that you'd never forget. I know one of  
-**Translation:** Vocabulary: repulsive: 令人作呕
+**[1648.24s] English:** But I'm sure it could. You know, we go on to see so many kinds of grosser or more shocking things.  
+**Translation:** Vocabulary: grosser: 更恶心的
 
-**[1637.44s] English:** those students that had nightmares initially went on to be a surgeon. So I imagine she's not having  
+**[1655.06s] English:** Things in medical training through medical school, and then by working with actual.  
 **Translation:** 
 
-**[1642.96s] English:** the PTSD of kind of seeing inside her first dead body because she sees inside them all day, every  
-**Translation:** 
-
-**[1647.58s] English:** day now.  
-**Translation:** 
-
-**[1648.24s] English:** But I'm sure it could. You know, we go on to see so many kind of grosser or more shocking  
-**Translation:** 
-
-**[1655.06s] English:** things in medical training through medical school, and then by working with actual  
-**Translation:** 
-
-**[1659.08s] English:** living patients, not just dead and embalmed bodies. So I do think that things can leave a mark,  
+**[1659.08s] English:** Living patients, not just dead and embalmed bodies. So I do think that things can leave a mark.  
 **Translation:** Vocabulary: embalmed: 防腐的
 
-**[1666.66s] English:** but I don't think that initial cadaver would be the most traumatic.  
+**[1666.66s] English:** But I don't think that initial cadaver would be the most traumatic.  
 **Translation:** 
 
-**[1671.70s] English:** Yeah, but maybe some of that trauma, the demons make you a better surgeon. Just like  
+**[1671.70s] English:** Yeah, but maybe some of that trauma, the demons, make you a better surgeon. Just like  
 **Translation:** Vocabulary: cadaver: 尸体; demons: 恶魔; trauma: 创伤; traumatic: 创伤性的
 
-**[1678.24s] English:** some of your own psychological trauma.  
+**[1678.24s] English:** Some of your own psychological trauma.  
 **Translation:** 
 
-**[1680.00s] English:** might make you a better psychiatrist. Returning to the ordering, is it order or is it chaos to  
+**[1680.00s] English:** Might make you a better psychiatrist. Returning to the ordering, is it order or is it chaos?  
 **Translation:** Vocabulary: psychiatrist: 精神科医生
 
-**[1688.06s] English:** the ordering of the chapters from throat and heart and feces and genitals all the way to  
+**[1688.06s] English:** The ordering of the chapters, from throat and heart and feces and genitals, all the way to...  
 **Translation:** 
 
-**[1694.48s] English:** fingers and toes and blood? So I did mention that, you know, throat was the first one because I kind  
+**[1694.48s] English:** Fingers and toes and blood? So, I did mention that—you know—the throat was the first one because I kind  
 **Translation:** Vocabulary: feces: 粪便; genitals: 生殖器
 
-**[1700.00s] English:** of wanted to throw the reader right into the brutal honesty of death. And I followed it up  
+**[1700.00s] English:** Of all, I wanted to throw the reader right into the brutal honesty of death. And I followed it up,  
 **Translation:** 
 
-**[1705.32s] English:** with feces as the third chapter in a way, partly to also throw them right into the deep end of  
-**Translation:** Vocabulary: brutal: 残酷
-
-**[1711.82s] English:** how I like discussing parts of the body and revealing their gross and fascinating aspects.  
+**[1705.32s] English:** With "feces" as the third chapter, in a way, partly to also throw them right into the deep end.  
 **Translation:** 
 
-**[1717.94s] English:** So I didn't want to hide anything. You know, when you train to be a doctor, everything is  
+**[1711.82s] English:** How I like discussing parts of the body and revealing their gross and fascinating aspects!  
 **Translation:** 
 
-**[1722.00s] English:** on the table, literally, in the cadaver lab, but also just, you know, you deal with blood and piss  
+**[1717.94s] English:** So, I didn't want to hide anything. You know, when you train to be a doctor, everything is  
 **Translation:** 
 
-**[1727.28s] English:** and vomit and feces, and that's kind of the medium of your craft.  
+**[1722.00s] English:** On the table, literally, in the cadaver lab, but also, you know, you deal with blood and piss.  
+**Translation:** 
+
+**[1727.28s] English:** And vomit and feces, and that's kind of the medium of your craft.  
 **Translation:** 
 
 **[1732.34s] English:** Yes, the medium of the craft, that's right.  
@@ -1057,67 +1058,67 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1734.80s] English:** Right.  
 **Translation:** 
 
-**[1735.32s] English:** Like if you're a painter, this is the paint that you're wearing.  
+**[1735.32s] English:** Like, if you're a painter, this is the paint that you're wearing.  
 **Translation:** 
 
 **[1740.10s] English:** Exactly.  
 **Translation:** 
 
-**[1740.72s] English:** And then you have to create a masterpiece with it. Like almost like a dance because there's  
+**[1740.72s] English:** And then you have to create a masterpiece with it, like almost a dance, because there's  
 **Translation:** 
 
-**[1745.96s] English:** multiple painters. One of the painters is the biology. So let's return to throat. You mentioned  
+**[1745.96s] English:** Multiple painters. One of the painters is Biology. So, let's return to the throat. You mentioned  
 **Translation:** Vocabulary: masterpiece: 杰作
 
-**[1750.80s] English:** it's a weird one. So first of all, a friend of mine said, I just see humans as a, like a bunch  
+**[1750.80s] English:** It's a weird one. So, first of all, a friend of mine said, "I just see humans as a bunch,  
 **Translation:** 
 
-**[1758.66s] English:** of holes that just walk around.  
+**[1758.66s] English:** Of holes that just walk around.  
 **Translation:** 
 
 **[1763.80s] English:** Not untrue.  
 **Translation:** 
 
-**[1765.32s] English:** It's a funny way to look at humans. So we have ears, we have nose, we have mouth, we have the  
+**[1765.32s] English:** It's a funny way to look at humans. So, we have ears, we have a nose, we have a mouth, and we have the  
 **Translation:** 
 
-**[1774.02s] English:** sexual holes, vagina, penis, and then, you know, what's the medical term for your asshole?  
+**[1774.02s] English:** Sexual holes, vagina, penis, and then, you know, what's the medical term for your anus?  
 **Translation:** 
 
 **[1782.62s] English:** Anus.  
-**Translation:** Vocabulary: asshole: 肛门; vagina: 阴道
+**Translation:** Vocabulary: vagina: 阴道
 
 **[1783.22s] English:** Anus. Thank you. This is a very technical discussion.  
 **Translation:** 
 
-**[1787.14s] English:** The rectum's further in. Don't confuse the two.  
+**[1787.14s] English:** The rectum is further in. Don't confuse the two.  
 **Translation:** 
 
 **[1789.72s] English:** Oh, that's very important. Is there a difference between throat and mouth? By the way, so when you  
 **Translation:** 
 
-**[1794.82s] English:** say throat, are we talking about when that hole actually becomes tubular?  
+**[1794.82s] English:** Say "throat," are we talking about when that hole actually becomes tubular?  
 **Translation:** Vocabulary: tubular: 管状的
 
-**[1800.88s] English:** The throat I would count as just sort of the very back of the, you know, the back of the mouth,  
+**[1800.88s] English:** The throat, I would count as just sort of the very back of the mouth, you know.  
 **Translation:** 
 
-**[1806.02s] English:** where the nose also comes down and meets it, where the tonsils are and the uvula.  
+**[1806.02s] English:** Where the nose also comes down and meets it, where the tonsils are and the uvula.  
 **Translation:** Vocabulary: tonsils: 扁桃体; uvula: 软腭垂
 
 **[1811.22s] English:** But you're right that, you know, we are a bunch of holes.  
 **Translation:** 
 
-**[1813.22s] English:** But more accurately, we're a tube, right?  
+**[1813.22s] English:** But, more accurately, we're a tube, right?  
 **Translation:** 
 
-**[1815.12s] English:** We start in the womb as kind of this microscopic little disc, almost like a, you know, a flatbread.  
+**[1815.12s] English:** We start in the womb as kind of this microscopic little disc, almost like a flatbread.  
 **Translation:** 
 
-**[1821.86s] English:** And then we roll almost like a burrito into this tube.  
-**Translation:** Vocabulary: burrito: 玉米煎饼; flatbread: 薄饼; microscopic: 显微镜下的
+**[1821.86s] English:** And then we roll almost like a burrito, into this tube.  
+**Translation:** Vocabulary: burrito: 像卷饼; flatbread: 薄饼; microscopic: 微小的
 
-**[1825.94s] English:** And we're a simple microscopic tube.  
+**[1825.94s] English:** And we're a simple, microscopic tube.  
 **Translation:** 
 
 **[1827.54s] English:** And from there, we grow into this bigger and bigger tube.  
@@ -1126,22 +1127,22 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1830.08s] English:** And we become more complicated.  
 **Translation:** 
 
-**[1831.88s] English:** And each end of the tube does split into various holes.  
+**[1831.88s] English:** And each end of the tube splits into various holes.  
+**Translation:** Vocabulary: splits: 分支
+
+**[1835.08s] English:** So, all the holes you mentioned at the front end of the tube, the front end of our body, right?  
 **Translation:** 
 
-**[1835.08s] English:** So all the holes you mentioned at the front end of the tube, the front end of our body, right?  
-**Translation:** 
-
-**[1838.32s] English:** It splits into the nose, the mouth, the ears, the sinuses, the tube to the lungs, which is the windpipe,  
+**[1838.32s] English:** It splits into the nose, the mouth, the ears, the sinuses, and the tube to the lungs, which is the windpipe.  
 **Translation:** Vocabulary: sinuses: 鼻窦; windpipe: 气管
 
-**[1845.98s] English:** the tube down to the stomach, which is the esophagus.  
+**[1845.98s] English:** The tube down to the stomach, which is the esophagus.  
 **Translation:** 
 
-**[1848.44s] English:** And then the other end of the tube splits as well.  
+**[1848.44s] English:** And then, the other end of the tube splits as well.  
 **Translation:** Vocabulary: esophagus: 食道
 
-**[1851.54s] English:** You know, men end up with two holes, and women end up with three holes.  
+**[1851.54s] English:** You know, men end up with two holes, and women end up with three.  
 **Translation:** 
 
 **[1856.16s] English:** You know, the urethra.  
@@ -1153,233 +1154,233 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[1857.54s] English:** The vagina and the anus.  
 **Translation:** 
 
-**[1858.74s] English:** And men just, you know, the urethra and kind of the reproductive system, they share a hole.  
+**[1858.74s] English:** And men, just you know, the urethra and their reproductive system share a hole.  
 **Translation:** 
 
 **[1863.48s] English:** I'm learning a lot today.  
 **Translation:** 
 
-**[1865.78s] English:** It really is incredible that you start from sperm and an egg, and you have some DNA information.  
+**[1865.78s] English:** It really is incredible that you start from sperm and an egg, and you end up with some DNA information.  
 **Translation:** 
 
 **[1872.40s] English:** And from that, the building project begins.  
 **Translation:** Vocabulary: sperm: 精子
 
-**[1875.58s] English:** And then what that leads to is like pizza dough.  
+**[1875.58s] English:** And then, what that leads to is like pizza dough.  
 **Translation:** 
 
 **[1880.72s] English:** And then you roll it into a tube.  
 **Translation:** Vocabulary: dough: 面团
 
-**[1883.58s] English:** And that tube then eventually...  
+**[1883.58s] English:** And that tube then eventually....  
 **Translation:** 
 
-**[1886.58s] English:** Eventually sort of becomes more and more complicated and gets eyes and a brain and then can create a Twitter account.  
+**[1886.58s] English:** Eventually, it sort of becomes more and more complicated and gets eyes and a brain, and then can create a Twitter account.  
 **Translation:** 
 
-**[1898.62s] English:** So it's really incredible that we're just a fancy tube.  
+**[1898.62s] English:** So, it's really incredible that we're just a fancy tube.  
 **Translation:** 
 
 **[1903.66s] English:** Right, we are.  
 **Translation:** 
 
-**[1904.52s] English:** And we sprout eyes and a brain and a sense of smell and taste pretty much to regulate what comes in the front of the tube.  
+**[1904.52s] English:** And we sprout eyes and a brain, and a sense of smell and taste, pretty much to regulate what comes in through the front of the tube.  
 **Translation:** 
 
 **[1911.56s] English:** You know, we don't want to eat anything dangerous or poisonous.  
-**Translation:** Vocabulary: regulate: 调节; sprout: 萌生
+**Translation:** Vocabulary: poisonous: 有毒的; regulate: 调节; sprout: 萌出
 
 **[1915.06s] English:** You know, we want to choose what we eat.  
 **Translation:** 
 
-**[1917.36s] English:** Even choose who we kiss.  
+**[1917.36s] English:** Even who we kiss.  
 **Translation:** 
 
-**[1918.42s] English:** Well, we seem to be motivated by...  
+**[1918.42s] English:** Well, we seem to be motivated by....  
 **Translation:** 
 
-**[1920.00s] English:** what comes out of the tube as well in part that's not just output it's a feedback mechanism  
+**[1920.00s] English:** What comes out of the tube, as well as in part that's not just output; it's a feedback mechanism.  
+**Translation:** Vocabulary: motivated: 受到激励的
+
+**[1926.84s] English:** Seemingly, we are also monitoring the functioning of the output; we're not just  
 **Translation:** 
 
-**[1926.84s] English:** seemingly like we're also monitoring the functioning of the output we're not just  
+**[1931.64s] English:** Obsessed about the input, we're very obsessed with the output. You're absolutely right about that.  
+**Translation:** Vocabulary: obsessed: 痴迷于
+
+**[1936.88s] English:** People you know have medical complaints about their output very often, that are, you know, I'm  
 **Translation:** 
 
-**[1931.64s] English:** obsessed about the input we're very obsessed with the output you're absolutely right about that  
+**[1943.02s] English:** Never have I ceased to be surprised by a new kind of complaint or observation about the output I.  
+**Translation:** Vocabulary: ceased: 停止
+
+**[1948.14s] English:** Think people have gone to war over the output, and perhaps sometimes the lack of it, or  
 **Translation:** 
 
-**[1936.88s] English:** people you know have medical complaints about their output very often that are you know i'm  
+**[1955.10s] English:** The desire for output from the particular other humans that you're fancying, the brain and the  
+**Translation:** Vocabulary: fancying: 喜欢
+
+**[1962.18s] English:** Eyes that sprouted somehow convinced the rest of the body that this one particular other tube was necessary.  
 **Translation:** 
 
-**[1943.02s] English:** never i never cease to be surprised by a new kind of complaint or observation about the output i  
+**[1970.04s] English:** Is it really fanciful to think that going to major wars will lead to global suffering?  
+**Translation:** Vocabulary: fanciful: 空想的; sprouted: 长出
+
+**[1976.82s] English:** Fancy and the desire for output.  
 **Translation:** 
 
-**[1948.14s] English:** think people have gone to wars over the output and uh maybe sometimes the lack of the output or  
+**[1978.14s] English:** For additional output, we can use the other tube, okay? So that's so... on the throat; that part of the tube.  
 **Translation:** 
 
-**[1955.10s] English:** the desire for output for the particular other humans um that you're you fancy the brain and the  
+**[1987.70s] English:** Is it true that you said the design isn't perhaps a little bit better with some other options?  
 **Translation:** 
 
-**[1962.18s] English:** eyes that sprouted somehow convinced the the rest of the body that this one particular other tube  
+**[1995.82s] English:** Because it's too multifunctional, could you sort of elaborate on the multifunctional nature?  
+**Translation:** Vocabulary: elaborate: 详述; multifunctional: 多功能的
+
+**[2002.02s] English:** Of this part are a lot of parts of the human body multifunctional, or do you find that it's  
 **Translation:** 
 
-**[1970.04s] English:** is fanciful so you're going to go to major wars and lead global suffering because because of the  
-**Translation:** Vocabulary: fanciful: 空想; sprouted: 萌出
-
-**[1976.82s] English:** fancy and the desire for output  
+**[2007.34s] English:** More special.  
 **Translation:** 
 
-**[1978.14s] English:** for additional output with the other uh tube okay so that's so uh on the throat that part of the tube  
+**[2008.14s] English:** Than the other parts of the human body, or do you find that it's more special than the other parts?  
 **Translation:** 
 
-**[1987.70s] English:** is it uh you said the design is not you could have thought of maybe a little bit better options  
+**[2009.14s] English:** Of the human body, or do you find that it's more special than the other parts of the human body?  
 **Translation:** 
 
-**[1995.82s] English:** because it's too multifunctional is that can you sort of elaborate on the multifunctional nature  
-**Translation:** Vocabulary: elaborate: 详细说明; multifunctional: 多功能的
-
-**[2002.02s] English:** of this part are a lot of parts of the human body multifunctional or do you find that it's  
+**[2012.14s] English:** There is a lot of organs, for instance, that do have multiple functions. You know, the pancreas, is one of them.  
 **Translation:** 
 
-**[2007.34s] English:** more special  
+**[2016.98s] English:** Two, it's like two organs in one. One knows secretes hormones like insulin into the blood.  
+**Translation:** Vocabulary: hormones: 内分泌; insulin: 胰岛素; pancreas: 胰腺
+
+**[2022.10s] English:** Stream, and the other aspect of it secretes uh digestive enzymes into the gut to help you.  
 **Translation:** 
 
-**[2008.14s] English:** than the other parts of the human body or do you find that it's more special than the other parts  
+**[2027.32s] English:** Digest and absorb food, the liver is like 15 organs in one. It's just amazing how many different things it does.  
+**Translation:** Vocabulary: digest: 消化; digestive: 消化的; enzymes: 酶
+
+**[2032.78s] English:** It does, but the throat, you know. So, basically, the problem with the throat is as I said, it's  
 **Translation:** 
 
-**[2009.14s] English:** of the human body or do you find that it's more special than the other parts of the human body  
+**[2038.14s] English:** The throat, you know, is like 15 organs in one. It's just amazing how many different things it does.  
 **Translation:** 
 
-**[2012.14s] English:** there is a lot of organs for instance do have multiple functions you know the pancreas is has  
+**[2038.16s] English:** It does, but the throat, you know, is like 15 organs in one. It's just amazing how many different things we have two tubes that have.  
 **Translation:** 
 
-**[2016.98s] English:** two it's like two organs in one one you know secretes hormones like insulin into the blood  
-**Translation:** Vocabulary: hormones: 激素; pancreas: 胰脏
+**[2040.00s] English:** Are right next to each other in the throat. One is for food, drink, saliva, mucus, and snot.  
+**Translation:** Vocabulary: mucus: 黏液; saliva: 唾液
 
-**[2022.10s] English:** stream and the other aspect of it secretes uh digestive enzymes into the gut to help you  
+**[2040.18s] English:** We have two tubes that have.  
 **Translation:** 
 
-**[2027.32s] English:** digest and absorb food the liver is like 15 organs in one it's just amazing how many different things  
-**Translation:** Vocabulary: digestive: 消化的
-
-**[2032.78s] English:** it does but the throat you know so basically the problem with the throat is as i said it's  
-**Translation:** 
-
-**[2038.14s] English:** the throat you know is like 15 organs in one it's just amazing how many different things  
-**Translation:** 
-
-**[2038.16s] English:** it does but the throat you know is like 15 organs in one it's just amazing how many different things we have two tubes that have  
-**Translation:** 
-
-**[2040.18s] English:** we have two tubes that have  
-**Translation:** 
-
-**[2040.00s] English:** are right next to each other in the throat. One is for food, drink, saliva, mucus, snot,  
-**Translation:** 
-
-**[2045.42s] English:** whatever you're going to swallow. All of that stuff must go down the esophagus, the food tube,  
+**[2045.42s] English:** Whatever you're going to swallow. All of that stuff must go down the esophagus, the food tube.  
 **Translation:** Vocabulary: esophagus: 食道
 
-**[2050.04s] English:** and end up in the stomach. And right next to the esophagus, millimeters away, is the windpipe or  
+**[2050.04s] English:** And it ends up in the stomach. And right next to the esophagus, just a few millimeters away, is the windpipe or  
 **Translation:** 
 
-**[2055.50s] English:** the trachea, which goes down to the lungs. And your throat does these daily gymnastics to keep  
-**Translation:** Vocabulary: millimeters: 毫米; trachea: 气管; windpipe: 气管
+**[2055.50s] English:** The trachea, which goes down to the lungs, and your throat performs these daily gymnastics to keep  
+**Translation:** Vocabulary: gymnastics: 体操; millimeters: 毫米; trachea: 气管; windpipe: 气管
 
-**[2063.24s] English:** everything but air out of the windpipe because, you know, you slip up once and you can die.  
+**[2063.24s] English:** Everything but air out of the windpipe, because, you know, you slip up once and you can die.  
 **Translation:** 
 
-**[2070.00s] English:** You can choke. You know, you laugh or speak while eating, and it's curtains, unfortunately.  
+**[2070.00s] English:** You can choke. You know, you laugh or speak while eating, and it's curtains—unfortunately.  
+**Translation:** Vocabulary: curtains: 帷幕落下
+
+**[2075.06s] English:** So, it seems like every aspect of the body, when I was learning about it in med school,  
 **Translation:** 
 
-**[2075.06s] English:** So it seems like, you know, every aspect of the body, when I was learning about it in med school,  
+**[2078.74s] English:** Seemed so brilliant and so perfectly designed by evolution—or whoever you might think designed it.  
 **Translation:** 
 
-**[2078.74s] English:** seemed so brilliant and so perfectly designed by evolution or whoever you might think designed it  
+**[2085.40s] English:** To favor survival and enhance life, but the throat seemed the opposite. It seemed  
 **Translation:** 
 
-**[2085.40s] English:** to, you know, favor survival, to enhance life. But the throat seemed the opposite. It seemed  
+**[2094.00s] English:** Set up almost for failure. And, you know, we developed all these mechanisms as a compensation.  
+**Translation:** Vocabulary: enhance: 提高
+
+**[2099.74s] English:** For that. And, you know, we developed all these mechanisms as a compensation for that.  
 **Translation:** 
 
-**[2094.00s] English:** set up almost for failure. And, you know, we developed all these mechanisms as a compensation  
+**[2100.00s] English:** We have the gag reflex. Whenever food or something is headed towards your airpipe,  
+**Translation:** Vocabulary: airpipe: 气管; reflex: 反射
+
+**[2106.38s] English:** Your windpipe, or down to your lungs, your throat has this sort of like rejection of it; it pushes.  
 **Translation:** 
 
-**[2099.74s] English:** for that. And, you know, we developed all these mechanisms as a compensation for that.  
+**[2110.98s] English:** It triggered a gag reflex. At the same time, we have a cough, which is something our body does when  
+**Translation:** Vocabulary: rejection: 拒绝感
+
+**[2116.54s] English:** Something inappropriate does get down the windpipe. You know, when we get a little food down the wrong way.  
 **Translation:** 
 
-**[2100.00s] English:** We have the gag reflex. Whenever food or something is headed towards your air pipe,  
+**[2121.00s] English:** Pipe: We end up coughing, and the coughing usually flushes it out and gets rid of it. We even  
+**Translation:** Vocabulary: coughing: 咳嗽; flushes: 冲洗
+
+**[2127.60s] English:** Have something called the mucus elevator.  
 **Translation:** 
 
-**[2106.38s] English:** your windpipe, or down to your lungs, your throat has this sort of, like, rejection of it. It pushes  
+**[2130.00s] English:** In our lungs, there is a constant flow of mucus up the airways, up to the trachea.  
+**Translation:** Vocabulary: airways: 气道; mucus: 黏液
+
+**[2135.82s] English:** Dragging with it all kinds of particulates that we've inhaled, and perhaps some food that went.  
 **Translation:** 
 
-**[2110.98s] English:** it away in a gag reflex. At the same time, we have a cough, which is something our body does when  
-**Translation:** Vocabulary: reflex: 反射; rejection: 排斥
+**[2140.32s] English:** Down the wrong pipe, and it drags it up into the throat, and we swallow it kind of unconsciously.  
+**Translation:** Vocabulary: inhaled: 吸入; particulates: 颗粒物; unconsciously: 无意识地
 
-**[2116.54s] English:** something inappropriate does get down the windpipe. You know, when we get a little food down the wrong  
-**Translation:** 
-
-**[2121.00s] English:** pipe, we end up coughing, and the coughing does usually flush it out and get rid of it. We even  
-**Translation:** Vocabulary: coughing: 咳嗽; flush: 冲洗
-
-**[2127.60s] English:** have something called the mucus elevator.  
-**Translation:** 
-
-**[2130.00s] English:** In our lungs, which is this constant flow of mucus up the airways, up to the trachea,  
-**Translation:** Vocabulary: airways: 呼吸道; mucus: 黏液
-
-**[2135.82s] English:** dragging with it all kinds of particulates that we've inhaled, and perhaps some food that went  
-**Translation:** 
-
-**[2140.32s] English:** down the wrong pipe, and drags it up into the throat, and we swallow it kind of unconsciously  
-**Translation:** Vocabulary: particulates: 微粒; unconsciously: 无意识地
-
-**[2145.22s] English:** all day, every day, is the truth. Even the mechanism of swallowing is super complicated.  
+**[2145.22s] English:** All day, every day, is the truth. Even the mechanism of swallowing is super complicated.  
 **Translation:** 
 
 **[2149.94s] English:** You know, it uses a number of cranial nerves. It uses over 15 different muscles.  
-**Translation:** Vocabulary: cranial: 颅神经
+**Translation:** Vocabulary: cranial: 颅骨; nerves: 神经
 
-**[2155.22s] English:** It's this coordinated act to keep food out of the airway. You know,  
+**[2155.22s] English:** It's a coordinated act to keep food out of the airway. You know,  
 **Translation:** 
 
 **[2160.00s] English:** You can see someone's Adam's apple in their neck kind of jump upward when they swallow, which helps lift the airway up against the epiglottis, which plugs it closed and allows food or swallowed drink to kind of skirt just past it.  
-**Translation:** Vocabulary: airway: 气道
+**Translation:** Vocabulary: airway: 气道; coordinated: 协调; epiglottis: 会厌
 
 **[2174.96s] English:** But every time we swallow, those things do come within millimeters of going down the wrong pipe.  
 **Translation:** 
 
-**[2179.82s] English:** And it's just thanks to these kind of compensations, these adaptations we have to the danger of the throat that keeps us alive.  
-**Translation:** Vocabulary: adaptations: 适应性; compensations: 补偿机制; millimeters: 毫米
+**[2179.82s] English:** And it's just thanks to these kinds of compensations and adaptations we have to the danger to the throat that keeps us alive.  
+**Translation:** Vocabulary: adaptations: 适应; compensations: 补偿; millimeters: 毫米
 
-**[2185.94s] English:** And as I actually took a sip of water, it's kind of, it makes you appreciate the wonderful machinery of it all.  
+**[2185.94s] English:** And as I actually took a sip of water, it's kind of amazing how it makes you appreciate the wonderful machinery of it all.  
 **Translation:** 
 
-**[2196.56s] English:** By the way, we have pulled up your Instagram that people should follow.  
-**Translation:** Vocabulary: machinery: 机械装置
+**[2196.56s] English:** By the way, we have pulled up your Instagram account that people should follow.  
+**Translation:** 
 
-**[2200.54s] English:** You have a post about the throat and just showing so many different components from the tongue to the trachea, the esophagus, just the entire machinery of it all.  
+**[2200.54s] English:** You have a post about the throat and are just showing so many different components—from the tongue to the trachea, the esophagus—and just the entire machinery of it all.  
 **Translation:** 
 
 **[2215.92s] English:** Okay.  
 **Translation:** Vocabulary: esophagus: 食道
 
-**[2215.94s] English:** The teeth for the chewing.  
+**[2215.94s] English:** The teeth are for chewing.  
 **Translation:** 
 
 **[2219.08s] English:** It's so interesting.  
+**Translation:** Vocabulary: chewing: 咀嚼
+
+**[2220.48s] English:** And so, a lot of the structure of this—the anatomy and the physiology—does it echo other mammals?  
 **Translation:** 
 
-**[2220.48s] English:** And so a lot of the structure of this, the anatomy and the physiology, does it echo other mammals?  
-**Translation:** 
-
-**[2228.00s] English:** Are we just basically borrowing a lot of stuff from evolution and maybe making small adjustments, maybe due to the fact that we're not using our mouth to murder things as other predators might?  
-**Translation:** Vocabulary: adjustments: 微调; mammals: 哺乳动物; physiology: 生理; predators: 捕食者
+**[2228.00s] English:** Are we just basically borrowing a lot of stuff from evolution and maybe making small adjustments—maybe due to the fact that we're not using our mouths to murder things, as other predators might?  
+**Translation:** Vocabulary: adjustments: 微调; anatomy: 解剖学; mammals: 哺乳动物; physiology: 生理学; predators: 捕食者
 
 **[2242.18s] English:** We use our thumbs.  
 **Translation:** 
 
 **[2243.80s] English:** Exactly.  
-**Translation:** 
+**Translation:** Vocabulary: thumbs: 拇指
 
 **[2244.10s] English:** We have hands.  
 **Translation:** 
@@ -1390,50 +1391,50 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[2246.54s] English:** Yeah, there's a lot of overlap between different animals, which I find very comforting and fascinating.  
 **Translation:** 
 
-**[2252.78s] English:** You know, someone asked me, is there any animal in which the throat is better designed?  
-**Translation:** 
+**[2252.78s] English:** You know, someone asked me: Is there any animal in which the throat is better designed?  
+**Translation:** Vocabulary: comforting: 令人安心; overlap: 重叠
 
 **[2256.46s] English:** And my first thought was whales, because the blowhole is kind of up on the top of their head.  
 **Translation:** 
 
-**[2260.70s] English:** So I was thinking, oh, maybe they are more separate.  
+**[2260.70s] English:** So, I was thinking that maybe they are more separate.  
 **Translation:** Vocabulary: blowhole: 喷气孔
 
 **[2264.14s] English:** But when I looked into it, actually, no, you know, the paths do come very close, just like in us.  
 **Translation:** 
 
-**[2268.98s] English:** And I saw a paper about some new discovered organ that actually helps keep food and drink out of the air.  
+**[2268.98s] English:** And I saw a paper about some newly discovered organ that actually helps keep food and drink out of the air.  
 **Translation:** 
 
-**[2275.90s] English:** In Wales that they hadn't ever noticed before.  
+**[2275.90s] English:** In Wales, they hadn't ever noticed it before.  
 **Translation:** 
 
-**[2278.26s] English:** So it's a different mechanism.  
+**[2278.26s] English:** So, it's a different mechanism.  
+**Translation:** Vocabulary: wales: 威尔士
+
+**[2280.00s] English:** But the same kind of basic problem is that, you know, we're tubes, and the air tube and food tube are right next to each other.  
 **Translation:** 
 
-**[2280.00s] English:** But the same kind of basic problem is that, you know, we're tubes and the air tube and food tube are right next to each other.  
+**[2286.16s] English:** How well do we understand this little part of the system, and is there still mystery surrounding its complexity? Just link your hand to keep it simple.  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[2293.72s] English:** Because you mentioned just how even swallowing all these parts in the brain that are responsible and all the different things that have to work together, like an orchestra.  
 **Translation:** 
 
-**[2286.16s] English:** How well do we understand, so just even link your hand, this little part, is there still mysteries about the complexity of the system?  
-**Translation:** Vocabulary: complexity: 系统复杂性
-
-**[2293.72s] English:** Because you mentioned just even for swallowing all these parts in the brain that are responsible and all the different things that have to, like an orchestra, play together.  
+**[2302.62s] English:** Do we have a good sense from both a medical perspective and a biological perspective, or are there still mysteries?  
 **Translation:** 
 
-**[2302.62s] English:** Do we have a good sense from both a medical perspective and a biology perspective, or is there still mysteries?  
-**Translation:** 
-
-**[2308.72s] English:** There's definitely still mysteries. We understand a lot about, for instance, how the swallowing mechanism, you know, is coordinated in the brainstem, sometimes using some higher levels of the brain.  
+**[2308.72s] English:** There's definitely still mysteries. We understand a lot about, for instance, how the swallowing mechanism is coordinated in the brainstem—sometimes using some higher levels of the brain.  
 **Translation:** 
 
 **[2319.74s] English:** But it is a very thoughtless thing, as you mentioned when you drank the water.  
-**Translation:** Vocabulary: brainstem: 脑干; coordinated: 协调; thoughtless: 不经意
+**Translation:** Vocabulary: brainstem: 脑干; coordinated: 协调; thoughtless: 不经意的
 
 **[2323.86s] English:** You know, it's not something we have to think about, thankfully, or we'd be thinking about it all day.  
 **Translation:** 
 
-**[2328.78s] English:** There's a lot we don't understand about the basic mechanisms, perhaps, about how the nerves fire and how they kind of, you know, coordinate on the microscopic level.  
-**Translation:** Vocabulary: coordinate: 协调; microscopic: 显微的
+**[2328.78s] English:** There's a lot we don't understand about the basic mechanisms—perhaps, about how the nerves fire and how they kind of coordinate on the microscopic level.  
+**Translation:** Vocabulary: coordinate: 协调; microscopic: 显微的; nerves: 神经
 
 **[2338.12s] English:** How?  
 **Translation:** 
@@ -1444,187 +1445,187 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[2343.24s] English:** But we sure understand a heck of a lot, and it's very fascinating.  
 **Translation:** 
 
-**[2347.64s] English:** So moving on to chapter two, we'll jump around.  
+**[2347.64s] English:** So, moving on to Chapter Two, we'll jump around.  
 **Translation:** 
 
 **[2352.10s] English:** And you actually said the liver does a lot of things.  
 **Translation:** 
 
-**[2356.76s] English:** I also saw you retweet something where it said, you know, showing that the liver is bigger than the heart, which is the body or the universe's way of saying.  
-**Translation:** 
+**[2356.76s] English:** I also saw you retweet something where it said, "you know, showing that the liver is bigger than the heart, which is the body or the universe's way of saying.  
+**Translation:** Vocabulary: retweet: 转发微博
 
-**[2368.72s] English:** You should drink more and care less.  
+**[2368.72s] English:** You should drink more, and care less.  
 **Translation:** 
 
 **[2371.10s] English:** It's a good line.  
 **Translation:** 
 
-**[2372.40s] English:** So you give props, like you said, to the kidney, to the liver, to the maybe to the organs, to the parts that don't often get as much credit as they deserve.  
+**[2372.40s] English:** So, you give props, like you said, to the kidney, to the liver, to maybe the heart, and other organs that don't often get as much credit as they deserve.  
 **Translation:** 
 
-**[2384.76s] English:** But let us go for time to the human heart.  
-**Translation:** Vocabulary: props: 表扬
+**[2384.76s] English:** But let us go forth to the human heart.  
+**Translation:** Vocabulary: kidney: 肾脏; props: 称赞
 
 **[2389.92s] English:** We get chest pain.  
 **Translation:** 
 
-**[2392.50s] English:** We talk about it when we talk about love for some reason.  
+**[2392.50s] English:** We talk about it when we talk about love, for some reason.  
 **Translation:** 
 
 **[2395.64s] English:** Why do we talk about the heart when we talk about love?  
 **Translation:** 
 
-**[2398.20s] English:** There sometimes can actually be.  
+**[2398.20s] English:** There can sometimes actually be.  
 **Translation:** 
 
-**[2400.00s] English:** some chest pain involved in love. I remember when I was a med student, I was very smitten  
+**[2400.00s] English:** Some chest pain involved in love. I remember when I was a med student; I was very smitten.  
 **Translation:** 
 
-**[2404.72s] English:** with another medical student who was totally brilliant and beautiful. And it actually does  
-**Translation:** Vocabulary: smitten: 一见钟情
+**[2404.72s] English:** With another medical student who was totally brilliant and beautiful, and it actually did.  
+**Translation:** Vocabulary: smitten: 心醉
 
-**[2410.10s] English:** cause this kind of burning in your chest. I don't know what that is. I don't think it's from the  
+**[2410.10s] English:** Cause this kind of burning in your chest. I don't know what that is. I don't think it's from the  
 **Translation:** 
 
-**[2414.68s] English:** heart itself. I don't know if it was like acid reflux because I was so nervous. I'm not really  
+**[2414.68s] English:** Heartburn, I don't know if it was like acid reflux because I was so nervous. I'm not really sure.  
+**Translation:** Vocabulary: heartburn: 胃酸反流; reflux: 反流
+
+**[2419.10s] English:** Sure. But I definitely felt something in my chest whenever I saw her. I don't know what that is. But...  
 **Translation:** 
 
-**[2419.10s] English:** sure. But I definitely felt something in my chest whenever I saw her. I don't know what that is. But  
+**[2424.80s] English:** You could see why someone might think, "Oh, you know, maybe it is your heart." That's kind of the  
 **Translation:** 
 
-**[2424.80s] English:** you could see why someone might think, oh, you know, maybe it is your heart. That's kind of the  
+**[2428.52s] English:** Most prominent organ in your chest. When people come to the ER with chest pain, you know, the big  
 **Translation:** 
 
-**[2428.52s] English:** most prominent organ in your chest. When people come to the ER with chest pain, you know, the big  
+**[2432.54s] English:** The question is: Is it my heart? And that's my main job—to figure out if it is or not. So, I could  
 **Translation:** 
 
-**[2432.54s] English:** question is, is it my heart? And that's my main job is figuring out if it is or not. So I could  
+**[2437.20s] English:** See why? You know, the way ancients saw the functions of different organs is fascinating.  
 **Translation:** 
 
-**[2437.20s] English:** see why. You know, the way ancients saw the functions of different organs is fascinating,  
-**Translation:** 
-
-**[2443.08s] English:** but often hard to explain. Would it be fair to say that if you look at the entirety of human  
+**[2443.08s] English:** But often, it's hard to explain. Would it be fair to say that if you look at the entirety of human  
 **Translation:** Vocabulary: entirety: 整体
 
-**[2450.02s] English:** history, the way most people die has to do with the heart? Well, like in America today,  
+**[2450.02s] English:** History shows that, for most people, death is caused by the heart? Well, like in America today,  
 **Translation:** 
 
-**[2457.50s] English:** cardiovascular.  
+**[2457.50s] English:** Cardiovascular.  
 **Translation:** Vocabulary: cardiovascular: 心血管的
 
-**[2458.52s] English:** And, you know, coronary artery disease is one of the most common, perhaps the most common cause of  
+**[2458.52s] English:** And, you know, coronary artery disease is one of the most common—perhaps the most common—cause of  
 **Translation:** 
 
-**[2464.00s] English:** death. You know, 100 years ago, 200 years ago, it was probably not. People were not living as long  
+**[2464.00s] English:** Death. You know, 100 years ago, 200 years ago, it was probably not the case that people were living as long.  
 **Translation:** 
 
-**[2469.60s] English:** and people were dying of infections that we tend to die less of these days.  
+**[2469.60s] English:** And people were dying of infections that we tend to die from less these days.  
 **Translation:** 
 
-**[2474.42s] English:** Sure. That's true. But in terms of things to stab, so I'm trying to sort of introspect, like,  
+**[2474.42s] English:** Sure. That's true. But in terms of things to stab, so I'm trying to sort of introspect, like,...  
 **Translation:** Vocabulary: introspect: 自我反省
 
-**[2481.04s] English:** why talk about the heart and love? My thought would be that it's because  
+**[2481.04s] English:** Why talk about the heart and love? My thought would be that it's because  
 **Translation:** 
 
-**[2488.52s] English:** the heart was seen as the most important organism. It would be like the origin of life comes from the  
+**[2488.52s] English:** The heart was seen as the most important organ. It would be like the origin of life coming from the  
 **Translation:** 
 
-**[2494.94s] English:** heart, the originator of life. And the way you figure that out from sort of an ancient perspective  
+**[2494.94s] English:** Heart, the originator of life. And the way you figure that out from an ancient perspective,...  
 **Translation:** 
 
-**[2499.78s] English:** is when you stab things, what is likely to lead to issues. It's like, it's possible to imagine that  
-**Translation:** Vocabulary: originator: 始源者
+**[2499.78s] English:** It is when you stab things; what is likely to lead to issues. It's like; it's possible to imagine that.  
+**Translation:** Vocabulary: originator: 始作俑者
 
-**[2508.24s] English:** the brain is not as special as we might think from when you don't understand modern biology or  
+**[2508.24s] English:** The brain is not as special as we might think, especially when you don't understand modern biology or  
 **Translation:** 
 
-**[2514.88s] English:** physiology or neuroscience, all those kinds of things.  
+**[2514.88s] English:** Physiology or neuroscience—all those kinds of things.  
 **Translation:** Vocabulary: neuroscience: 神经科学; physiology: 生理学
 
-**[2518.52s] English:** Especially because pain  
+**[2518.52s] English:** Especially because pain.  
 **Translation:** 
 
-**[2520.00s] English:** you know it's painless too uh if you stab it the brain i mean yeah um yeah anyway so that's that's  
-**Translation:** Vocabulary: painless: 无痛
+**[2520.00s] English:** You know, it's painless too. If you stab it in the brain, I mean, yeah. Um, yeah, anyway. So that's that's.  
+**Translation:** Vocabulary: painless: 无痛的
 
-**[2529.32s] English:** really interesting i'm sure there's a there's a kind of a poetic answer to maybe the way people  
+**[2529.32s] English:** Really interesting; I'm sure there's a kind of poetic answer to maybe the way people.  
 **Translation:** 
 
-**[2534.20s] English:** wrote about it but what to you is um the wisdom in the design of the heart i mean the main function  
+**[2534.20s] English:** Wrote about it, but what do you think is the wisdom in the design of the heart? I mean, the main function...  
+**Translation:** Vocabulary: poetic: 诗意的
+
+**[2541.44s] English:** Of the heart, basically, is to push blood through the cardiovascular system through the branching vessels.  
 **Translation:** 
 
-**[2541.44s] English:** of the heart basically is to push blood through the cardiovascular system through the branching  
+**[2546.32s] English:** Blood vessels feed every cell in the body, you know. When our ancestors started off, I believe,...  
+**Translation:** Vocabulary: cardiovascular: 心血管的
+
+**[2553.22s] English:** As single-celled organisms floating in some ancient brew, and they were surrounded by the  
 **Translation:** 
 
-**[2546.32s] English:** blood vessels to feed every cell in the body you know when our i believe our ancestors started off  
+**[2558.92s] English:** A medium that would bring them all the nutrients they needed, so there's no issue there, and then  
 **Translation:** 
 
-**[2553.22s] English:** as single-celled organisms floating in some ancient brew and they were surrounded by the  
+**[2562.68s] English:** Once you start getting multicellular organisms that are thicker and the ones on the  
 **Translation:** 
 
-**[2558.92s] English:** medium that would bring them all the nutrients they needed so there's no issues there and then  
+**[2567.24s] English:** Inside, they aren't in contact with that sort of nutritious brew that they're growing in.  
+**Translation:** Vocabulary: multicellular: 多细胞的; nutritious: 有营养的
+
+**[2571.36s] English:** You kind of need a way to distribute those nutrients to every cell, and that's what  
 **Translation:** 
 
-**[2562.68s] English:** once you start getting multicellular organisms the kind of that are thicker and the ones on the  
-**Translation:** 
-
-**[2567.24s] English:** inside aren't in contact with that sort of nutritious brew that they're growing in  
-**Translation:** Vocabulary: multicellular: 多细胞; nutritious: 营养丰富的
-
-**[2571.36s] English:** you kind of need a way to distribute those nutrients to every cell and so that's what  
-**Translation:** 
-
-**[2576.32s] English:** the heart and the branching vascular tree do so the heart you know it's the most the biggest  
+**[2576.32s] English:** The heart and the branching vascular tree do so. The heart, you know, it's the most important and biggest.  
 **Translation:** Vocabulary: vascular: 血管的
 
-**[2581.96s] English:** disconnect between how the organs talked about in poetry and through history versus his actual  
+**[2581.96s] English:** Disconnect between how the organs were talked about in poetry and through history versus his actual.  
 **Translation:** 
 
-**[2586.46s] English:** function is probably the heart because we ascribe all these things like love and passion and life  
+**[2586.46s] English:** Function is probably the heart, because we ascribe all these things like love, and passion, and life to it.  
 **Translation:** Vocabulary: ascribe: 归因; disconnect: 脱节
 
-**[2591.62s] English:** itself sometimes to the heart but actually it's just a simple mechanical pump you know that's all  
+**[2591.62s] English:** Itself, sometimes, it can feel like it's going to the heart, but actually, it's just a simple mechanical pump, you know—that's all.  
 **Translation:** 
 
-**[2596.42s] English:** it is i don't want to downplay it it's amazing but um you know it just pushes it fills with blood and  
+**[2596.42s] English:** It is amazing, but it just pushes and fills with blood.  
 **Translation:** 
 
-**[2601.82s] English:** then squeezes it fills the button squeezes it and just that squeezing that pushing creates the blood  
+**[2601.82s] English:** Then she squeezes it, fills the button, squeezes it, and just that squeezing and pushing creates the blood.  
 **Translation:** 
 
-**[2606.32s] English:** pressure that you need to get blood to every cell in your body especially when you're standing  
+**[2606.32s] English:** Pressure that you need to get blood to every cell in your body, especially when you're standing.  
 **Translation:** Vocabulary: squeezes: 挤压; squeezing: 挤压
 
-**[2610.62s] English:** upright to get blood to your brain you need a certain amount of pressure to get it up there  
+**[2610.62s] English:** Upright, to get blood to your brain, you need a certain amount of pressure to get it up there.  
 **Translation:** 
 
-**[2614.84s] English:** isn't it amazing to you how much volume of blood just gets pushed through by this by this pump  
+**[2614.84s] English:** Isn't it amazing to you how much volume of blood just gets pushed through by this pump?  
+**Translation:** Vocabulary: upright: 直立
+
+**[2622.10s] English:** Absolutely, they say that every red blood cell takes about five minutes to circulate.  
 **Translation:** 
 
-**[2622.10s] English:** absolutely they say every red blood cell takes about five minutes to circulate  
+**[2626.94s] English:** And come back to the heart, and that circulation kind of starts.  
+**Translation:** Vocabulary: circulate: 流动; circulation: 循环
+
+**[2630.84s] English:** At birth, and continues more or less until the moment we die.  
 **Translation:** 
 
-**[2626.94s] English:** and come back to the heart and that circulation kind of you know starts  
-**Translation:** Vocabulary: circulate: 循环; circulation: 血液循环
-
-**[2630.84s] English:** at in the womb and continues and kind of until the moment that we die  
+**[2634.62s] English:** But the volume is trying to get to the heart, so it's kind of a little bit of a  
 **Translation:** 
 
-**[2634.62s] English:** but the volume is trying to get to the heart so it's kind of a little bit of a  
-**Translation:** 
-
-**[2636.32s] English:** tremendous and it can never see you know take a break basically  
+**[2636.32s] English:** Tremendous, and it can never see you know, take a break, basically.  
 **Translation:** 
 
 **[2640.00s] English:** And it's sort of propagating all kinds of stuff throughout the body.  
 **Translation:** Vocabulary: propagating: 传播
 
-**[2644.58s] English:** It's a delivery mechanism, blood, for all kinds of good stuff and bad stuff.  
+**[2644.58s] English:** It's a delivery mechanism, like blood, for all kinds of good stuff and bad stuff.  
 **Translation:** 
 
-**[2649.74s] English:** Nutrition, drugs, all that.  
+**[2649.74s] English:** Nutrition, drugs—all that.  
 **Translation:** 
 
 **[2653.80s] English:** Right. Medications, too.  
@@ -1636,194 +1637,194 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[2658.80s] English:** And it also takes the waste away.  
 **Translation:** 
 
-**[2660.80s] English:** It kind of brings the nutritious stuff, brings the nutrients, especially oxygen, but many other things.  
+**[2660.80s] English:** It kind of brings the nutritious stuff, brings the nutrients, especially oxygen, but many other things too.  
+**Translation:** Vocabulary: nutritious: 有营养的
+
+**[2665.58s] English:** And then, as it passes the cell, it also takes the cell's waste.  
 **Translation:** 
 
-**[2665.58s] English:** And then it also, as it passes the cell, takes the cell's waste.  
-**Translation:** 
+**[2668.90s] English:** So, it's sort of the freshwater and the sewage system in one.  
+**Translation:** Vocabulary: freshwater: 淡水; sewage: 污水
 
-**[2668.90s] English:** So it's sort of the freshwater and the sewage system in one.  
-**Translation:** Vocabulary: freshwater: 淡水
-
-**[2673.70s] English:** So about blood, what to you is fascinating about blood?  
+**[2673.70s] English:** So, about blood—what do you find fascinating about it?  
 **Translation:** 
 
 **[2678.76s] English:** So we talk about the pump that spreads the blood, but the blood itself.  
+**Translation:** Vocabulary: spreads: 输送
+
+**[2683.22s] English:** Right. So, the blood itself is, sort of, I mean, it's the most important bodily fluid, of course.  
 **Translation:** 
 
-**[2683.22s] English:** Right. So the blood itself is sort of, I mean, it's the most important bodily fluid, of course.  
+**[2687.78s] English:** You know, from moment to moment, every cell in the body needs a flow of blood to bring it, most importantly, oxygen.  
 **Translation:** 
 
-**[2687.78s] English:** You know, from moment to moment, every cell in the body needs a flow of blood to bring it, most importantly, oxygen,  
+**[2695.34s] English:** But also, again, all the other nutrients, and to take away waste.  
 **Translation:** 
 
-**[2695.34s] English:** but also, again, all the other nutrients and to take away waste.  
-**Translation:** 
-
-**[2697.90s] English:** And if that stops...  
+**[2697.90s] English:** And if that stops,...  
 **Translation:** 
 
 **[2699.06s] English:** If that stops for even a few moments, you can be in big trouble.  
 **Translation:** 
 
-**[2702.38s] English:** So blood is sort of, you know, the most important medium.  
+**[2702.38s] English:** So, blood is sort of the most important medium.  
 **Translation:** 
 
-**[2705.74s] English:** It's also, doctors use it to kind of evaluate the body.  
+**[2705.74s] English:** It's also used by doctors to kind of evaluate the body.  
 **Translation:** 
 
-**[2709.28s] English:** It does have this kind of all-seeing quality to it where, you know, we can evaluate organs through the blood.  
+**[2709.28s] English:** It does have this kind of all-seeing quality to it, where we can evaluate organs through the blood.  
 **Translation:** Vocabulary: evaluate: 评估
 
-**[2716.68s] English:** I can tell you about your liver, your heart, your kidney just by taking a sample of your blood.  
+**[2716.68s] English:** I can tell you about your liver, your heart, and your kidneys just by taking a sample of your blood.  
 **Translation:** 
 
-**[2721.22s] English:** So it's sort of like this crystal ball in a way, and we use it kind of all the time, you know, to assess someone's health, to assess their disease.  
+**[2721.22s] English:** So, it's sort of like a crystal ball in a way, and we use it kind of all the time—to assess someone's health, to assess their disease.  
+**Translation:** Vocabulary: assess: 评估; kidneys: 肾脏
+
+**[2728.90s] English:** Is it also an attack vector for diseases, for bacteria, for viruses, and all that kind of stuff?  
 **Translation:** 
 
-**[2728.90s] English:** Is it also the attack vector for diseases, for bacteria, for viruses and all that kind of stuff?  
+**[2737.60s] English:** So, viruses seem to attack either the throat; maybe you can correct me, but they seem to attack different parts of the body.  
 **Translation:** 
 
-**[2737.60s] English:** So viruses seem to attack either the throat, maybe you can correct me, but they seem to attack different parts of the body,  
-**Translation:** Vocabulary: bacteria: 细菌
-
-**[2743.40s] English:** depending on how easy it is to access and how easy it is to get in deep, depending on what you prefer.  
+**[2743.40s] English:** Depending on how easy it is to access and how easy it is to get in deep, depending on what you prefer.  
 **Translation:** 
 
-**[2751.96s] English:** If you want to do a little bit of hard work, but you get in deep, or you don't want to do the hard work,  
+**[2751.96s] English:** If you want to do a little bit of hard work, but you get in deep, or you don't want to do the hard work.  
 **Translation:** 
 
-**[2758.18s] English:** but you don't...  
+**[2758.18s] English:** But you don't...  
 **Translation:** 
 
-**[2758.90s] English:** You don't get in deep.  
+**[2758.90s] English:** You don't get too deep.  
 **Translation:** 
 
-**[2760.00s] English:** of the choices viruses have, but is blood one of the sort of attack vectors? What's like,  
+**[2760.00s] English:** Of the choices viruses have, but is blood one of the sort of attack vectors? What's more,  
 **Translation:** 
 
-**[2764.70s] English:** if you were trying to break into the human body, like a parasite, a virus, a bacteria,  
+**[2764.70s] English:** If you were trying to break into the human body, like a parasite, a virus, or a bacterium,  
+**Translation:** Vocabulary: bacterium: 细菌; parasite: 寄生虫; vectors: 传播途径
+
+**[2771.82s] English:** How would you do it? Like, what would you, what attack vectors would you explore?  
 **Translation:** 
 
-**[2771.82s] English:** how would you do it? Like, what would you, what would be the attack vectors you would explore?  
+**[2776.26s] English:** Right, so you've got to look for the body's weaknesses, of course. We have  
 **Translation:** 
 
-**[2776.26s] English:** Right, so you got to look for the body's weaknesses, of course. You know, we have  
+**[2779.94s] English:** Inherent weaknesses, for instance, like our respiratory tract. We have to breathe; we have to  
 **Translation:** 
 
-**[2779.94s] English:** inherent weaknesses, for instance, like our respiratory tract. We have to breathe, we have to  
+**[2784.58s] English:** Get air in from the outside, and so that's one of the entries into the body. And so,  
+**Translation:** Vocabulary: respiratory: 呼吸系统
+
+**[2789.00s] English:** You know, when we inhale, let's say, a poisonous gas, it's an easy way in. You have to  
 **Translation:** 
 
-**[2784.58s] English:** get air in from the outside, and so that's one of the entries into the body. And so,  
+**[2793.94s] English:** Breathe; you can't hold your breath very long. But, you know, air in our lungs is still kind of...  
+**Translation:** Vocabulary: inhale: 吸入; poisonous: 有毒的
+
+**[2799.04s] English:** Contiguous with the external atmosphere, it's not really inside the body until it does cross.  
 **Translation:** 
 
-**[2789.00s] English:** you know, when we inhale, let's say, a poisonous gas, you know, it's an easy way in. You have to  
-**Translation:** 
-
-**[2793.94s] English:** breathe, you can't hold your breath very long. But, you know, air in our lungs is still kind of  
-**Translation:** 
-
-**[2799.04s] English:** contiguous with the external atmosphere. It's not really inside the body until it does cross  
-**Translation:** 
-
-**[2804.02s] English:** across the lining of the alveoli into the blood, as you said. That's when it really gets inside.  
-**Translation:** Vocabulary: alveoli: 肺泡; contiguous: 相邻
+**[2804.02s] English:** Across the lining of the alveoli into the blood, as you said. That's when it really gets inside.  
+**Translation:** Vocabulary: alveoli: 肺泡; contiguous: 相邻的
 
 **[2809.94s] English:** And the other, besides the respiratory tract, the gastrointestinal tract is another way,  
 **Translation:** 
 
-**[2813.88s] English:** kind of a chink in the armor. You know, we have to eat, we have to drink, and therefore,  
-**Translation:** Vocabulary: chink: 弱点; gastrointestinal: 消化道; respiratory: 呼吸的
+**[2813.88s] English:** Kind of a chink in the armor. You know, we have to eat, we have to drink, and therefore,...  
+**Translation:** Vocabulary: chink: 弱点; gastrointestinal: 消化道
 
-**[2817.88s] English:** we're taking the external.  
+**[2817.88s] English:** We're taking the external.  
 **Translation:** 
 
-**[2819.00s] English:** world into ourselves, into our gut, in order to extract from it what we need and let the rest kind  
+**[2819.00s] English:** World into ourselves, into our gut, in order to extract from it what we need and let the rest go.  
+**Translation:** Vocabulary: extract: 提取
+
+**[2824.02s] English:** Of flow out. So, those two—the gastrointestinal and respiratory tracts—there's a reason.  
 **Translation:** 
 
-**[2824.02s] English:** of flow out. So, those two, the gastrointestinal and respiratory tract, you know, there's a reason  
+**[2828.74s] English:** That, you know, respiratory tract infections and gastrointestinal infections are kind of the most.  
+**Translation:** Vocabulary: tracts: 管道
+
+**[2833.60s] English:** Common that afflict us, because those are the ways into the body. So, I would definitely pick one of.  
 **Translation:** 
 
-**[2828.74s] English:** that, you know, respiratory tract infections and gastrointestinal infections are kind of the most  
+**[2838.94s] English:** Those weren't just lazy colds with a stuffy nose, but really more aggressive cases of pneumonia deeper in.  
+**Translation:** Vocabulary: afflict: 使受苦; pneumonia: 肺炎; stuffy: 鼻塞
+
+**[2844.54s] English:** The lungs and get across that barrier into the blood.  
 **Translation:** 
 
-**[2833.60s] English:** common that afflict us because those are the ways in to the body. So, I would definitely pick one of  
+**[2847.52s] English:** Dr. Justin Marchegiani: But also,  
+**Translation:** Vocabulary: barrier: 屏障
+
+**[2848.58s] English:** The whole...  
 **Translation:** 
 
-**[2838.94s] English:** those. Not just be a lazy cold in the nose, but really a more aggressive pneumonia down deep in  
-**Translation:** Vocabulary: afflict: 使受苦; pneumonia: 肺炎
-
-**[2844.54s] English:** the lungs and get across that barrier into the blood.  
-**Translation:** 
-
-**[2847.52s] English:** Dr. Justin Marchegiani But also,  
-**Translation:** 
-
-**[2848.58s] English:** the whole...  
-**Translation:** 
-
-**[2849.00s] English:** The whole sex thing that humans do. So, speaking of which, let us go for a time to the genitals  
+**[2849.00s] English:** The whole sex thing that humans do. So, speaking of which, let's go for a bit to the genitals.  
 **Translation:** Vocabulary: genitals: 生殖器官
 
-**[2857.18s] English:** chapter. So, what are genitals? I think I've heard of those. I think I've read about a penis and a  
+**[2857.18s] English:** Chapter. So, what are genitals? I think I've heard of those. I think I've read about a penis and a  
 **Translation:** 
 
-**[2865.26s] English:** vagina. Can you explain to me how those work? Just asking for a friend, but also, what you use  
+**[2865.26s] English:** Vagina. Can you explain to me how those work? Just asking for a friend, but also, what you use.  
 **Translation:** Vocabulary: vagina: 阴道
 
-**[2872.76s] English:** fascinating about it, and maybe what's misunderstood or little known about them?  
+**[2872.76s] English:** Fascinating about it, and maybe what's misunderstood or little-known about them?  
 **Translation:** 
 
-**[2878.58s] English:** Dr. Justin Marchegiani  
-**Translation:** Vocabulary: misunderstood: 误解的
+**[2878.58s] English:** Dr. Justin Marchegiani.  
+**Translation:** Vocabulary: misunderstood: 被误解的
 
-**[2880.00s] English:** Sure. So, they're very unique organs, I would say. One of the things that I like to point out is that, you know, while every organ from moment to moment keeps us alive and ensures our survival, the genitals are in a way the opposite. You know, we don't need them from moment to moment. You don't even have to use them at all. And in fact, they often make us do stupid things that are the opposite of kind of enhancing survival.  
+**[2880.00s] English:** Sure. So, they're very unique organs, I would say. One of the things that I like to point out is that, you know, while every organ from moment to moment keeps us alive and ensures our survival, the genitals are in a way the opposite. You know, we don't need them from moment to moment. You don't even have to use them at all. And, in fact, they often make us do stupid things that are the opposite of enhancing survival.  
 **Translation:** 
 
-**[2902.98s] English:** So, and they, you know, they've affected the brain and you can become sort of focused and nuts based on those desires that kind of stem from the genitals. So, they can be dangerous organs too.  
-**Translation:** Vocabulary: enhancing: 提高
+**[2902.98s] English:** So, and they, you know, they've affected the brain, and you can become sort of focused and nuts based on those desires that kind of stem from the genitals. So, they can be dangerous organs, too.  
+**Translation:** Vocabulary: desires: 欲望; enhancing: 提高; ensures: 确保
 
-**[2914.56s] English:** But, you know, I mean, sexual dimorphism helps with genetic variability, as it does in so many other organisms. You know, you take two people and mix them together, their genetics, you just get a lot more variation and more opportunities to try different genetic codes and see what will enhance survival, as we talked about.  
+**[2914.56s] English:** But, you know, I mean, sexual dimorphism helps with genetic variability, as it does in so many other organisms. You know, you take two people and mix them together; their genetics just get a lot more variation, and more opportunities to try different genetic codes and see what will enhance survival, as we talked about.  
 **Translation:** 
 
-**[2932.82s] English:** Sex and death. I talk about in the book, a lot of, for instance, the female genital tract, how the uterus is very unusual because, you know, it doesn't even sort of wake up and start doing its thing until the second decade of life. You know, it's even though babies, female babies are born with all of the eggs they'll ever have in their ovaries already. They're just sort of in this stasis until they start waking up kind of once a month. And it's this cycle, you know, there's so much in our bodies that are cyclical and rhythmic.  
-**Translation:** Vocabulary: cyclical: 周期性; dimorphism: 性别差异; genital: 生殖的; ovaries: 卵巢; rhythmic: 有节奏的; stasis: 静止; uterus: 子宫; variability: 变异
+**[2932.82s] English:** Sex and death. I talk about these topics a lot in the book, for instance, the female genital tract, how the uterus is very unusual because, you know, it doesn't even sort of wake up and start doing its thing until the second decade of life. You know, it's even though female babies are born with all of the eggs they'll ever have in their ovaries already; they're just sort of in this stasis until they start waking up kind of once a month. And it's this cycle—there's so much in our bodies that are cyclical and rhythmic.  
+**Translation:** Vocabulary: cyclical: 周期性的; dimorphism: 两性差异; enhance: 增强; genital: 生殖的; ovaries: 卵巢; rhythmic: 有节奏的; stasis: 静止状态; uterus: 子宫; variability: 可变性; variation: 变化
 
-**[2962.82s] English:** The heartbeat, the breathing. But menstruation is kind of a very strange rhythm that takes over a decade to start. And only, you know, the rhythm beats once a month, which is very slow compared to every other rhythm of the body.  
+**[2962.82s] English:** The heartbeat, the breathing. But menstruation is kind of a very strange rhythm that takes over a decade to start. And only, you know, it beats once a month, which is very slow compared to every other rhythm of the body.  
 **Translation:** 
 
-**[2977.14s] English:** The other unusual thing is, you know, in medicine, when rhythms of the body cease, when they stop, those are emergencies, right? When your heart stops, that's a cardiac arrest. You need CPR, maybe an electric shock to restart it.  
-**Translation:** Vocabulary: cardiac: 心脏的; menstruation: 月经
+**[2977.14s] English:** The other unusual thing is, you know, in medicine, when the rhythms of the body cease or stop, those are emergencies, right? When your heart stops, that's a cardiac arrest. You need CPR, maybe an electric shock to restart it.  
+**Translation:** 
 
 **[2989.86s] English:** When your breathing stops, you know, you need breathing.  
 **Translation:** 
 
-**[2992.82s] English:** You need a machine to breathe for you or something to reverse whatever might be causing the suppression of your breathing.  
+**[2992.82s] English:** You need a machine to breathe for you, or something to reverse whatever might be causing the suppression of your breathing.  
 **Translation:** Vocabulary: suppression: 抑制
 
-**[2997.22s] English:** But when menstruation stops...  
+**[2997.22s] English:** But when menstruation stops,...  
 **Translation:** 
 
-**[3000.00s] English:** It's the point of menstruation in the first place.  
+**[3000.00s] English:** It's the point of menstruation, in the first place.  
+**Translation:** Vocabulary: menstruation: 月经
+
+**[3003.16s] English:** The whole reason that the uterus grows a lining and sheds it each month is to one day, you know, prepare for pregnancy.  
 **Translation:** 
 
-**[3003.16s] English:** The whole reason that the uterus grows a lining and sheds it each month is to one day, you know,  
-**Translation:** 
-
-**[3009.40s] English:** get the ovum to get fertilized and for it to implant in the lining.  
+**[3009.40s] English:** Get the ovum to get fertilized, and for it to implant in the lining.  
 **Translation:** Vocabulary: fertilized: 受精
 
-**[3013.36s] English:** And then the rhythm ceases.  
+**[3013.36s] English:** And then, the rhythm ceases.  
 **Translation:** 
 
 **[3014.54s] English:** And that's obviously not a medical emergency.  
+**Translation:** Vocabulary: ceases: 停止
+
+**[3016.50s] English:** Unlike most other rhythms, you know, it's the point of the whole thing in the first place.  
 **Translation:** 
 
-**[3016.50s] English:** Unlike most other rhythms, you know, cessations, it's the point of the whole thing in the first place.  
+**[3021.26s] English:** So, these particular penis and vagina, along with the uterus, and whatever else.  
 **Translation:** 
-
-**[3021.26s] English:** So these particular penis and vagina are that whole thing, the uterus, whatever.  
-**Translation:** Vocabulary: cessations: 停顿; vagina: 阴道
 
 **[3027.04s] English:** Am I not using the wrong terms?  
 **Translation:** 
@@ -1840,25 +1841,25 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3032.20s] English:** There's more technical.  
 **Translation:** 
 
-**[3033.12s] English:** There's parts, various, various parts.  
+**[3033.12s] English:** There are parts, various parts.  
 **Translation:** 
 
-**[3035.36s] English:** In medical school, you learn every bump and, you know, every little part of every little organ, including the genitals.  
+**[3035.36s] English:** In medical school, you learn about every bump and, you know, every little part of every little organ, including the genitals.  
 **Translation:** 
 
-**[3043.46s] English:** I never really thought of it this way, as you said, is that most organs are kind of full-time employees.  
+**[3043.46s] English:** I never really thought of it this way, as you said: most organs are kind of full-time employees.  
 **Translation:** Vocabulary: genitals: 生殖器官
 
 **[3051.66s] English:** Like 24-7, they're doing something.  
 **Translation:** 
 
-**[3054.38s] English:** And then there's some organs, penis, vagina being.  
+**[3054.38s] English:** And then there are some organs, like the penis and vagina, being.  
+**Translation:** Vocabulary: vagina: 阴道
+
+**[3059.42s] English:** Well, they are not functioning all the time.  
 **Translation:** 
 
-**[3059.42s] English:** Well, representative of this, they're not functioning all the time.  
-**Translation:** 
-
-**[3063.24s] English:** They're only functioning every once in a while and then get us to do stupid stuff or awesome stuff and all that kind of stuff.  
+**[3063.24s] English:** They're only functioning every once in a while, and then they get us to do stupid stuff or awesome stuff—and all that kind of stuff.  
 **Translation:** 
 
 **[3069.44s] English:** But they're not essential for human survival on a second-by-second basis.  
@@ -1867,13 +1868,13 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3073.84s] English:** And the whole cyclical nature of the human body.  
 **Translation:** Vocabulary: cyclical: 循环的
 
-**[3078.30s] English:** How many other cycles are on a monthly basis?  
+**[3078.30s] English:** How many other cycles are there on a monthly basis?  
 **Translation:** 
 
-**[3081.00s] English:** Like that far apart.  
+**[3081.00s] English:** Like that, far apart.  
 **Translation:** 
 
-**[3083.46s] English:** That's a fascinating design that the human body would do that and wouldn't start until...  
+**[3083.46s] English:** That's a fascinating design; the human body would do that, and wouldn't start until...  
 **Translation:** 
 
 **[3089.42s] English:** Until the second decade of life.  
@@ -1888,112 +1889,112 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3099.42s] English:** Like this is the optimal solution for the sexual selection mechanism among somewhat intelligent species.  
 **Translation:** 
 
-**[3108.48s] English:** Like it's useful to, after the brain has developed sufficiently long, to now be making sexual selection decisions.  
-**Translation:** Vocabulary: optimal: 最佳; sufficiently: 足够
+**[3108.48s] English:** It's useful to make sexual selection decisions after the brain has developed sufficiently long.  
+**Translation:** Vocabulary: optimal: 最佳; sufficiently: 足够地
 
-**[3118.88s] English:** Like you need...  
+**[3118.88s] English:** Like, you need...  
 **Translation:** 
 
 **[3119.40s] English:** You need time.  
 **Translation:** 
 
-**[3120.00s] English:** for this computer this really powerful computer to load in the info interesting you also need the  
+**[3120.00s] English:** For this computer, this really powerful computer, to load in the info, it's interesting you also need the  
 **Translation:** 
 
-**[3127.14s] English:** body to develop you know a child simply isn't big enough to be pregnant and deliver a you know  
+**[3127.14s] English:** Body to develop, you know, a child simply isn't big enough to be pregnant and deliver a, you know.  
 **Translation:** 
 
-**[3133.26s] English:** another baby i wonder if there's animals in which this happens much more accelerated pace in  
+**[3133.26s] English:** Another baby—I wonder if there's animals in which this happens at a much more accelerated pace.  
 **Translation:** 
 
-**[3137.94s] English:** different stages definitely especially you know certain kinds of insects you know like um drosophila  
+**[3137.94s] English:** Different stages definitely, especially you know, certain kinds of insects, you know, like Drosophila.  
 **Translation:** Vocabulary: accelerated: 加快; drosophila: 果蝇
 
-**[3143.66s] English:** a lot of um the fruit fly a lot of experiments are done on because their life cycle is so rapid  
+**[3143.66s] English:** A lot of experiments are done on the fruit fly because their life cycle is so rapid.  
 **Translation:** 
 
-**[3148.00s] English:** you know a lot of kind of insects and other creatures are almost ready to mate as soon as  
+**[3148.00s] English:** You know, a lot of insects and other creatures are almost ready to mate as soon as  
+**Translation:** Vocabulary: experiments: 实验
+
+**[3152.74s] English:** They're born, not us. Not us—is there any improvements to the design? So, a lot of people are very...  
 **Translation:** 
 
-**[3152.74s] English:** they're born not us not us is there any improvements to the design so a lot of people are very  
-**Translation:** 
-
-**[3164.64s] English:** interested in these particular body parts um if you were to sort of step back as a as a geneticist  
+**[3164.64s] English:** Interested in these particular body parts, um, if you were to sort of step back as a geneticist,...  
 **Translation:** Vocabulary: geneticist: 遗传学家
 
-**[3171.50s] English:** biological designer or maybe a computer scientist computer engineer trying to build  
+**[3171.50s] English:** Biological designer, or maybe a computer scientist, computer engineer, trying to build,...  
 **Translation:** 
 
-**[3176.20s] English:** um  
+**[3176.20s] English:** Um.  
 **Translation:** 
 
-**[3178.00s] English:** human 2.0 or maybe a robot how would you improve the penis and the vagina  
+**[3178.00s] English:** Human 2.0, or maybe a robot, how would you improve the penis and the vagina?  
 **Translation:** 
 
-**[3183.78s] English:** well the penis for starters i mean let's also discuss the testicles you know they're very  
+**[3183.78s] English:** Well, the penis, for starters. I mean, let's also discuss the testicles; you know, they're very  
 **Translation:** 
 
-**[3189.78s] English:** important too i mean okay so they're yes right so they're fragile and they're important and yet  
+**[3189.78s] English:** Important, too. I mean, okay, so they're yes, right? So they're fragile and they're important, and yet.  
 **Translation:** 
 
-**[3195.16s] English:** they're hanging off the body in danger basically so um does that make sense you know they begin  
+**[3195.16s] English:** They're hanging off the body in danger, basically. So, does that make sense? You know, they begin.  
 **Translation:** Vocabulary: fragile: 易碎的
 
-**[3201.00s] English:** in the womb they begin inside the abdomen and they slowly descend and and sometimes before birth  
+**[3201.00s] English:** In the womb, they begin inside the abdomen and slowly descend; sometimes before birth.  
 **Translation:** 
 
-**[3206.56s] English:** sometimes in the first year of life and then they're in the womb and then they're in the  
-**Translation:** Vocabulary: abdomen: 腹部
+**[3206.56s] English:** Sometimes in the first year of life, and then they're in the womb, and then they're in the  
+**Translation:** Vocabulary: abdomen: 腹部; descend: 下降
 
-**[3208.00s] English:** sometimes never they pop out of the body and end up hanging in the scrotum there's a reason because  
+**[3208.00s] English:** Sometimes, they pop out of the body and end up hanging in the scrotum. There's a reason for this.  
 **Translation:** 
 
-**[3213.76s] English:** the chemical reactions that create sperm function best at a few degrees cooler than body temperature  
-**Translation:** Vocabulary: scrotum: 阴囊; sperm: 精子
+**[3213.76s] English:** The chemical reactions that create sperm function best at a few degrees cooler than body temperature.  
+**Translation:** Vocabulary: reactions: 化学反应; scrotum: 阴囊; sperm: 精子
 
-**[3220.72s] English:** and so that's why you might notice in the warm weather they might hang further down and in the  
+**[3220.72s] English:** And so, that's why you might notice in the warm weather they might hang further down and in the  
 **Translation:** 
 
-**[3226.32s] English:** cold weather they scrunch themselves up to get closer to the body to maintain that ideal  
-**Translation:** Vocabulary: scrunch: 缩紧
+**[3226.32s] English:** Cold weather makes them scrunch themselves up to get closer to the body to maintain that ideal.  
+**Translation:** Vocabulary: scrunch: 挤成一团
 
-**[3231.52s] English:** temperature a few degrees uh cooler um so it's hard you know if you could create a sperm production  
+**[3231.52s] English:** Temperature a few degrees cooler, um, so it's hard, you know, if you could create sperm production...  
 **Translation:** 
 
-**[3238.00s] English:** organism that did not rely on that lower temperature  
+**[3238.00s] English:** Organism that did not rely on that lower temperature.  
+**Translation:** Vocabulary: organism: 生物
+
+**[3240.00s] English:** That would be great. Keep them inside the body, protected, like the ovaries are.  
 **Translation:** 
 
-**[3240.00s] English:** that would be great. Keep them inside the body, protected like the ovaries are.  
+**[3244.90s] English:** Oh, then you wouldn't rely on the lower temperature. I thought you meant to use it as a backup.  
+**Translation:** Vocabulary: backup: 备用; ovaries: 卵巢
+
+**[3247.80s] English:** Create some kind of weird internal cooling mechanism.  
 **Translation:** 
 
-**[3244.90s] English:** Oh, then you wouldn't rely on the lower temperature. I thought you meant  
-**Translation:** Vocabulary: ovaries: 卵巢
-
-**[3247.80s] English:** create some kind of weird internal cooling mechanism.  
+**[3252.00s] English:** Well, I guess that would be one solution, but just maybe a different type of chemical reaction.  
 **Translation:** 
 
-**[3252.00s] English:** Well, I guess that would be one solution, but just maybe a different type of chemical reaction  
+**[3257.30s] English:** Would not be reliant on the lower temperature, let's say. It would be great to design a  
 **Translation:** 
 
-**[3257.30s] English:** would not be reliant on the lower temperature, let's say. It would be great to design a  
+**[3263.98s] English:** Spermatogenesis, or sperm production, is a process that functions best at body temperature.  
+**Translation:** Vocabulary: reliant: 依赖; spermatogenesis: 精子生成
+
+**[3269.14s] English:** And then we can keep those delicate organs inside the body and not have them hanging out in danger.  
 **Translation:** 
 
-**[3263.98s] English:** spermatogenesis or sperm production process that would function best at body temperature,  
-**Translation:** Vocabulary: spermatogenesis: 精子生成
-
-**[3269.14s] English:** and then we can keep those delicate organs inside the body and not have them hanging out in danger.  
+**[3275.28s] English:** Or maybe the argument for this design is that it's nice to put them in danger, so you...  
 **Translation:** 
 
-**[3275.28s] English:** Or maybe the argument for this design is maybe it's nice to put them in danger so you  
-**Translation:** 
-
-**[3282.92s] English:** are constantly concerned about it.  
+**[3282.92s] English:** Are they constantly concerned about it?  
 **Translation:** 
 
 **[3285.74s] English:** Could be. Maybe that's beneficial for male psychology. I'm not really sure.  
-**Translation:** 
+**Translation:** Vocabulary: beneficial: 有益的
 
-**[3290.12s] English:** There's a psychological element here about the evolution that could be. So that's the testicles.  
+**[3290.12s] English:** There's a psychological element here about the evolution that could be. So, that's the testicles.  
 **Translation:** 
 
 **[3296.36s] English:** Penis?  
@@ -2002,14 +2003,14 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3298.08s] English:** A better...  
 **Translation:** 
 
-**[3299.14s] English:** A better way to do it. I mean, it's pretty good as it is. It kind of, when it's time for it to  
+**[3299.14s] English:** A better way to do it. I mean, it's pretty good as it is. It kind of falls short when it's time for it to.  
 **Translation:** 
 
-**[3305.14s] English:** work, it grows and stiffens. And when it's time for it not to work, it kind of shrinks and hangs  
+**[3305.14s] English:** Work, it grows and stiffens. And when it's time for it not to work, it kind of shrinks and hangs.  
 **Translation:** 
 
-**[3311.36s] English:** out.  
-**Translation:** Vocabulary: stiffens: 变僵硬
+**[3311.36s] English:** Out.  
+**Translation:** Vocabulary: shrinks: 收缩; stiffens: 变僵硬
 
 **[3312.82s] English:** Saw this on a Seinfeld episode, so I know how it works.  
 **Translation:** 
@@ -2023,247 +2024,247 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3319.46s] English:** But that's also a bit unique, I suppose, that the way it has this erectile tissue. Actually,  
 **Translation:** Vocabulary: erectile: 阴茎海绵体
 
-**[3326.84s] English:** they're similar in the mouth.  
+**[3326.84s] English:** They're similar in the mouth.  
 **Translation:** 
 
-**[3329.14s] English:** Of certain baleen whales, there's a certain similar kind of erectile tissue that helps  
+**[3329.14s] English:** Of certain baleen whales, there's a certain similar kind of erectile tissue that helps.  
 **Translation:** Vocabulary: baleen: 鲸须
 
-**[3334.58s] English:** cool them off because they have so much blubber and create so much heat in moving around and  
+**[3334.58s] English:** Cool them off because they have so much blubber and create so much heat in moving around, and  
 **Translation:** 
 
-**[3342.24s] English:** feeding that they have actually a similar to the penis organ in their mouth that helps cool their  
+**[3342.24s] English:** Feeding that they have actually a similar organ to the penis in their mouth that helps cool their food.  
 **Translation:** Vocabulary: blubber: 脂肪层
 
-**[3346.52s] English:** bodies because it's a big problem. They have to store all that blubber for fuel, but it makes  
+**[3346.52s] English:** Bodies, because it's a big problem. They have to store all that blubber for fuel, but it makes  
 **Translation:** 
 
-**[3351.38s] English:** them too hot. So as a compensation, they have this kind of erectile organ in their mouth.  
+**[3351.38s] English:** They're too hot. So, as a compensation, they have this kind of erectile organ in their mouth.  
 **Translation:** 
 
-**[3355.10s] English:** Okay. What about vagina?  
+**[3355.10s] English:** Okay. What about the vagina?  
 **Translation:** 
 
-**[3359.14s] English:** You know, the fact  
+**[3359.14s] English:** You know, the fact,  
 **Translation:** Vocabulary: vagina: 阴道
 
-**[3360.00s] English:** that miscarriages sometimes happen because of sexually transmitted diseases, because of trauma.  
+**[3360.00s] English:** That miscarriages sometimes happen because of sexually transmitted diseases, or because of trauma.  
 **Translation:** 
 
-**[3367.08s] English:** You know, it'd be great if the uterus where the growing fetus is sort of even more protected from  
-**Translation:** Vocabulary: fetus: 胎儿; transmitted: 传染; trauma: 创伤; uterus: 子宫
+**[3367.08s] English:** You know, it would be great if the uterus, where the growing fetus is, were sort of even more protected from  
+**Translation:** Vocabulary: fetus: 胎儿; transmitted: 传染的; trauma: 创伤; uterus: 子宫
 
-**[3373.00s] English:** those things. You know, I guess that's a side effect of the fact that people still have sex  
+**[3373.00s] English:** Those things. You know, I guess that's a side effect of the fact that people still have sex.  
 **Translation:** 
 
-**[3380.12s] English:** when they're pregnant, are still, you know, exposed to injury. There's a way to make it  
+**[3380.12s] English:** When they're pregnant, they are still, you know, exposed to injury. There's a way to make it safer.  
 **Translation:** 
 
-**[3384.34s] English:** more protected, perhaps. That would be even better. I did see an article recently about  
+**[3384.34s] English:** More protection, perhaps. That would be even better. I did see an article recently about  
 **Translation:** 
 
-**[3389.10s] English:** artificial wombs, which are rapidly becoming a reality. And in animal studies, they're able to  
+**[3389.10s] English:** Artificial wombs, which are rapidly becoming a reality, and in animal studies, they're able to  
 **Translation:** Vocabulary: wombs: 人工子宫
 
-**[3396.00s] English:** prolong the gestation of a fetus by a month in an artificial womb.  
+**[3396.00s] English:** Prolong the gestation of a fetus by a month in an artificial womb.  
 **Translation:** 
 
 **[3400.86s] English:** Can you explain the artificial aspect of the artificial womb?  
 **Translation:** Vocabulary: gestation: 胎儿发育
 
-**[3403.52s] English:** Sure. I believe it acts almost like a heart-lung bypass machine. So when someone's getting bypass  
+**[3403.52s] English:** Sure. I believe it acts almost like a heart-lung bypass machine. So, when someone's getting bypass surgery, this device temporarily takes over the functions of the heart and lungs.  
 **Translation:** 
 
-**[3410.74s] English:** surgery, their heart is stopped. Literally, they throw ice in the chest, and they give a potassium  
-**Translation:** Vocabulary: bypass: 旁路手术; potassium: 钾
+**[3410.74s] English:** Surgery, their heart is stopped. Literally, they throw ice in the chest, and they give a dose of potassium.  
+**Translation:** Vocabulary: bypass: 旁路; potassium: 钾; temporarily: 暂时
 
-**[3417.58s] English:** infusion through the blood, which stops them.  
+**[3417.58s] English:** Infusion through the blood, which stops them.  
 **Translation:** 
 
-**[3419.10s] English:** It stops the heart. But the blood is run through a machine that basically does the work of the  
+**[3419.10s] English:** It stops the heart. But the blood is run through a machine that basically does the work of the heart.  
 **Translation:** Vocabulary: infusion: 输液
 
-**[3426.68s] English:** heart and lungs together. It gets oxygen into the blood and then pushes it back into the body.  
+**[3426.68s] English:** Heart and lungs together. It gets oxygen into the blood, and then pushes it back into the body.  
 **Translation:** 
 
-**[3431.72s] English:** So I believe it's a sort of similar mechanism to keep blood and nutrition flowing to this fetus.  
+**[3431.72s] English:** So, I believe it's a sort of similar mechanism to keep blood and nutrition flowing to this fetus.  
 **Translation:** 
 
-**[3437.72s] English:** And so it's just not inside the body of a parent. It's in some kind of other device. But I think  
+**[3437.72s] English:** And so, it's just not inside the body of a parent; it's in some kind of other device. But I think,...  
 **Translation:** 
 
-**[3443.92s] English:** that science is going to rapidly improve. One benefit is, you know, babies are born,  
+**[3443.92s] English:** That science is going to rapidly improve. One benefit is that babies are born,  
 **Translation:** 
 
-**[3449.10s] English:** premature. And while, you know, neonatology is able to continuously kind of lower the age of  
+**[3449.10s] English:** Premature. And while, you know, neonatology is able to continuously kind of lower the age of  
 **Translation:** 
 
-**[3455.18s] English:** viability through better technology and understanding how, what you can, medicines and other things you  
-**Translation:** Vocabulary: neonatology: 新生儿学; premature: 早产; viability: 存活
+**[3455.18s] English:** Viability through better technology and understanding of what you can achieve, including medicines and other things you need.  
+**Translation:** Vocabulary: neonatology: 新生儿学; premature: 早产; viability: 存活率
 
-**[3460.74s] English:** can do to premature babies when they're born, you know, ideally, if, let's say, premature labor  
+**[3460.74s] English:** Can we do anything for premature babies when they're born? You know, ideally, if let's say premature labor occurs,  
 **Translation:** 
 
-**[3465.70s] English:** begins, you can't stop it. That baby's coming out one way or the other. If you could just then stick  
+**[3465.70s] English:** Begins, you can't stop it. That baby's coming out one way or the other. If you could just then stick.  
+**Translation:** Vocabulary: ideally: 理想情况下
+
+**[3470.64s] English:** It could be placed into an artificial womb where it can continue its development, which would save a whole host of  
 **Translation:** 
 
-**[3470.64s] English:** it into an artificial womb where it can continue its development, that would save a whole host of  
-**Translation:** 
-
-**[3475.62s] English:** problems off. And those babies born very early suffer from...  
+**[3475.62s] English:** Problems off. And those babies born very early suffer from...  
 **Translation:** 
 
 **[3479.10s] English:** Damage to various...  
 **Translation:** 
 
-**[3480.00s] English:** organs including the brain you know for the rest of their life so that could be a very important  
+**[3480.00s] English:** Organs, including the brain, can continue to function for the rest of their life, so that could be very important.  
 **Translation:** 
 
-**[3483.68s] English:** technology so some aspects of the human body we can develop technologies that outsource them sort of  
+**[3483.68s] English:** Technology, so some aspects of the human body, we can develop technologies that outsource them, sort of.  
 **Translation:** 
 
-**[3493.04s] English:** offload some of the stress and the workload from the human body to do it elsewhere like dialysis  
+**[3493.04s] English:** Offload some of the stress and the workload from the human body to do it elsewhere, like dialysis.  
 **Translation:** Vocabulary: dialysis: 血液透析; offload: 卸载; outsource: 外包; workload: 工作量
 
-**[3500.48s] English:** does that for kidneys you know people can live decades without kidneys as long as they get  
+**[3500.48s] English:** Does that for kidneys? You know, people can live for decades without kidneys as long as they get regular dialysis or a transplant.  
 **Translation:** 
 
-**[3505.92s] English:** dialysis which does the work for them not every organ can do that for instance the liver there's  
+**[3505.92s] English:** Dialysis, which does the work for them. Not every organ can do that; for instance, the liver: there's  
 **Translation:** 
 
-**[3511.84s] English:** no dialysis version for the liver like if your liver fails you need a liver transplant and  
+**[3511.84s] English:** No dialysis version for the liver; like, if your liver fails, you need a liver transplant, and  
 **Translation:** 
 
-**[3516.80s] English:** that's the only thing that's gonna do it for you so that's the world's first artificial womb for  
+**[3516.80s] English:** That's the only thing that's going to do it for you, so that's the world's first artificial womb for.  
 **Translation:** 
 
-**[3524.56s] English:** humans and we're looking at a picture of what looks like gigantic balloons matrix here we come  
+**[3524.56s] English:** Humans, and we're looking at a picture of what looks like gigantic balloons. Matrix, here we come!  
 **Translation:** 
 
-**[3531.76s] English:** this is very matrixy how are they floating  
+**[3531.76s] English:** This is very matrix-y. How are they floating?  
 **Translation:** Vocabulary: gigantic: 巨大的; matrix: 矩阵
 
-**[3535.28s] English:** what are we even  
+**[3535.28s] English:** What are we even doing?  
 **Translation:** 
 
-**[3535.92s] English:** looking at there's giant red spheres this really looks like the matrix  
+**[3535.92s] English:** Looking at it, there are giant red spheres. This really looks like The Matrix.  
+**Translation:** Vocabulary: spheres: 球体
+
+**[3542.88s] English:** Um, I wonder where it's from. So, there seems to be a paper on this, too. Um, I don't know too much about it.  
 **Translation:** 
 
-**[3542.88s] English:** um i wonder where it's from so there seems to be a paper on this too um i don't know too much about  
-**Translation:** 
-
-**[3548.64s] English:** it but i did see that there it's advancing very rapidly the world's first artificial womb for  
+**[3548.64s] English:** It, but I did see that it's advancing very rapidly—the world's first artificial womb for.  
 **Translation:** Vocabulary: advancing: 快速发展
 
-**[3554.24s] English:** humans scientists in the netherlands say they're within 10 years of developing an artificial womb  
+**[3554.24s] English:** Humans scientists in the Netherlands say they're within 10 years of developing an artificial womb.  
 **Translation:** 
 
-**[3560.16s] English:** that could save the lives of premature babies premature birth before 37 weeks is globally the  
-**Translation:** Vocabulary: globally: 全世界
+**[3560.16s] English:** That could save the lives of premature babies, born before 37 weeks, is globally a  
+**Translation:** Vocabulary: premature: 早产的
 
-**[3565.92s] English:** cause of death among newborns but the development also raises ethical questions about the future of  
+**[3565.92s] English:** Cause of death among newborns, but the development also raises ethical questions about the future of.  
 **Translation:** 
 
-**[3572.08s] English:** baby making and so on and so forth wow we're going to be facing a lot of ethical questions  
+**[3572.08s] English:** Baby-making, and so on and so forth—wow, we're going to be facing a lot of ethical questions.  
 **Translation:** Vocabulary: newborns: 新生儿
 
-**[3581.28s] English:** as we start to mess with human biology in in in an effort to help  
+**[3581.28s] English:** As we start to mess with human biology in an effort to help,  
 **Translation:** 
 
-**[3589.28s] English:** human biology we might start to mess with it and it's going to be very interesting as we take steps  
+**[3589.28s] English:** Human biology: We might start to mess with it, and it's going to be very interesting as we take steps.  
 **Translation:** 
 
-**[3595.28s] English:** towards um towards the matrix  
+**[3595.28s] English:** Towards the matrix.  
 **Translation:** 
 
-**[3600.00s] English:** All right. What about the neighbors? Poop, feces. There seems to be a lot of interesting stories in that particular output as well.  
-**Translation:** Vocabulary: feces: 粪便
+**[3600.00s] English:** All right. What about the neighbors? Poop, feces. There seem to be a lot of interesting stories in that particular output as well.  
+**Translation:** Vocabulary: feces: 排泄物
 
-**[3616.22s] English:** What to you is fascinating? What to you maybe is misunderstood or little known about poop?  
+**[3616.22s] English:** What is fascinating to you? What do you think might be misunderstood or little-known about poop?  
 **Translation:** 
 
-**[3630.00s] English:** Well, it's hilarious for one thing, that we do it. The word is great as well. There's so many different words. When I'm talking to the parents of pediatric patients, I use the word poop. I don't often, when I'm talking to adult patients, try to choose a more mature word.  
-**Translation:** Vocabulary: misunderstood: 被误解的; pediatric: 儿科的
+**[3630.00s] English:** Well, it's hilarious for one thing that we do it. The word is great as well; there are so many different words. When I'm talking to the parents of pediatric patients, I use the word "poop." I don't often, when I'm talking to adult patients, try to choose a more mature word.  
+**Translation:** Vocabulary: hilarious: 好笑; mature: 成熟; misunderstood: 误解; pediatric: 儿科
 
-**[3648.26s] English:** But poop is amazing. I mean, I guess it's sort of the most dirtiest, the most vile, the most hated aspect of our bodies. It's the grossest.  
+**[3648.26s] English:** But poop is amazing. I mean, I guess it's sort of the most dirty, the most vile, the most hated aspect of our bodies. It's the grossest.  
 **Translation:** 
 
 **[3659.08s] English:** We don't want to think about it.  
-**Translation:** Vocabulary: grossest: 最恶心
+**Translation:** Vocabulary: grossest: 最恶心的
 
-**[3660.00s] English:** We don't want to think about it, talk about it, have it anywhere near our, you know, food or social interactions. With good reason. You know, I mentioned gastrointestinal infections are one of the most common infections the human body suffers from. And, you know, what we call the way they spread from person to person, grossly enough, is referred to as the fecal-oral route, which means a bit of someone's stool is getting into your, you're swallowing it, you know, through the water supply.  
+**[3660.00s] English:** We don't want to think about it, talk about it, or have it anywhere near our food or social interactions. With good reason. You know, I mentioned that gastrointestinal infections are one of the most common infections the human body suffers from. And, you know, what we call the way they spread from person to person is grossly enough referred to as the "fecal-oral route," which means a bit of someone's stool is getting into your system through the water supply.  
 **Translation:** 
 
-**[3687.46s] English:** For instance, diarrhea is actually quite a...  
-**Translation:** Vocabulary: diarrhea: 腹泻; gastrointestinal: 胃肠
+**[3687.46s] English:** For instance, diarrhea is actually quite a common condition.  
+**Translation:** Vocabulary: diarrhea: 腹泻; gastrointestinal: 消化道; grossly: 令人作呕地
 
-**[3690.00s] English:** It's a brilliant mechanism of these microbes, right? If you, let's say you're in the intestine of one person, your goal is to get into the intestines of another person. Brilliant to just trick their intestines into secreting all this fluid into the intestines to increase the volume of stool and its runniness so that when they do poop, it gets into the water supply and then everyone else kind of ends up getting infected as well.  
+**[3690.00s] English:** It's a brilliant mechanism of these microbes, right? If you're in the intestine of one person, your goal is to get into the intestines of another person. Brilliant to just trick their intestines into secreting all this fluid into the intestines to increase the volume of stool and its runniness. So, when they do poop, it gets into the water supply, and then everyone else kind of ends up getting infected as well.  
 **Translation:** 
 
 **[3712.72s] English:** Wow, that's brilliant.  
-**Translation:** Vocabulary: intestine: 肠; intestines: 肠道; microbes: 微生物; runniness: 稀流动性
+**Translation:** Vocabulary: infected: 感染; intestine: 肠; intestines: 肠道; microbes: 微生物; runniness: 稀流动性
 
-**[3714.02s] English:** Just the same way like, you know, tuberculosis or coronavirus kind of infects your lungs and makes you cough.  
+**[3714.02s] English:** Just the same way, like you know, tuberculosis or coronavirus kind of infects your lungs and makes you cough.  
 **Translation:** 
 
 **[3720.00s] English:** And you send it out into the air, and it ends up in other people's lungs.  
-**Translation:** Vocabulary: coronavirus: 冠状病毒; tuberculosis: 肺结核
+**Translation:** Vocabulary: coronavirus: 冠状病毒; infects: 感染; tuberculosis: 肺结核
 
-**[3722.66s] English:** And that's all evolution.  
+**[3722.66s] English:** And that's all there is to evolution.  
 **Translation:** 
 
 **[3724.54s] English:** Yeah, it's brilliant.  
 **Translation:** 
 
-**[3726.02s] English:** So diarrhea is intelligent.  
+**[3726.02s] English:** So, diarrhea is intelligent.  
 **Translation:** 
 
 **[3728.66s] English:** It's a big takeaway lesson.  
 **Translation:** Vocabulary: takeaway: 重要教训
 
-**[3730.74s] English:** It's one of the most intelligent things we can do as an entirety of an organism,  
+**[3730.74s] English:** It's one of the most intelligent things we can do as an entirety of an organism.  
 **Translation:** 
 
-**[3735.82s] English:** not just a particular cognitive organism.  
-**Translation:** Vocabulary: cognitive: 认知; entirety: 整体
+**[3735.82s] English:** Not just a particular cognitive organism.  
+**Translation:** Vocabulary: cognitive: 认知; entirety: 整体; organism: 有机体
 
-**[3738.00s] English:** But we're made up of bacteria and viruses, and there's a lot of visitors and so on.  
+**[3738.00s] English:** But we're made up of bacteria and viruses, and there are lots of visitors and so on.  
 **Translation:** 
 
-**[3744.34s] English:** As the entirety of the system, diarrhea is one of our better accomplishments.  
-**Translation:** Vocabulary: bacteria: 细菌
+**[3744.34s] English:** As part of the entire system, diarrhea is one of our better accomplishments.  
+**Translation:** 
 
 **[3748.40s] English:** It's fascinating.  
 **Translation:** 
 
-**[3750.00s] English:** And I wonder, why is poop funny?  
+**[3750.00s] English:** And I wonder why poop is funny?  
 **Translation:** 
 
-**[3754.46s] English:** I think a lot of that is socially constructed,  
+**[3754.46s] English:** I think a lot of that is socially constructed.  
 **Translation:** 
 
-**[3757.02s] English:** just how it's sort of supposed to be hidden away.  
+**[3757.02s] English:** Just how it's supposed to be hidden away.  
 **Translation:** 
 
 **[3759.42s] English:** It's something we always do, something we chuckle about as children.  
 **Translation:** 
 
-**[3763.18s] English:** But even in health care, it becomes this big topic of conversation,  
-**Translation:** 
+**[3763.18s] English:** But even in healthcare, it becomes a big topic of conversation.  
+**Translation:** Vocabulary: chuckle: 偷笑; healthcare: 医疗卫生
 
-**[3768.12s] English:** because you end up talking about it constantly.  
+**[3768.12s] English:** Because you end up talking about it constantly.  
 **Translation:** 
 
 **[3770.46s] English:** In the ER, people come in.  
 **Translation:** 
 
-**[3773.32s] English:** They're complete strangers, sometimes a nice old lady who resembles my grandmother.  
+**[3773.32s] English:** They're complete strangers—sometimes a nice old lady who resembles my grandmother.  
 **Translation:** 
 
-**[3778.76s] English:** And all of a sudden, I have to ask her,  
+**[3778.76s] English:** And all of a sudden, I had to ask her,  
 **Translation:** 
 
-**[3779.86s] English:** oh, I'm sorry, I'm sorry.  
+**[3779.86s] English:** Oh, I'm sorry, I'm sorry.  
 **Translation:** 
 
 **[3780.00s] English:** It's all about what's happening in the bathroom.  
@@ -2284,46 +2285,46 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3790.28s] English:** Is it hard to flush?  
 **Translation:** 
 
-**[3791.22s] English:** I mean, there's a million different questions you learn as a medical student.  
+**[3791.22s] English:** I mean, there are a million different questions you learn as a medical student.  
 **Translation:** Vocabulary: flush: 脸红
 
-**[3795.64s] English:** And you're like this poop detective when people come in with issues.  
+**[3795.64s] English:** And you're like a poop detective when people come in with issues.  
 **Translation:** 
 
-**[3799.40s] English:** And so it's funny.  
+**[3799.40s] English:** And so, it's funny.  
 **Translation:** 
 
-**[3801.64s] English:** I guess in the exam room, the doctor-patient relationship, there's sort of no barriers.  
+**[3801.64s] English:** I guess in the exam room, the doctor-patient relationship is sort of barrier-free.  
 **Translation:** 
 
 **[3806.48s] English:** You talk about everything.  
-**Translation:** Vocabulary: barriers: 障碍
-
-**[3807.50s] English:** And you're talking about the most intimate details,  
 **Translation:** 
 
-**[3809.74s] English:** of a person's life, even though you just met them a second ago.  
+**[3807.50s] English:** And you're talking about the most intimate details.  
+**Translation:** 
+
+**[3809.74s] English:** Of a person's life, even though you just met them a second ago.  
 **Translation:** Vocabulary: intimate: 私密的
 
-**[3813.12s] English:** It's so different than normal social interactions.  
+**[3813.12s] English:** It's so different from normal social interactions.  
 **Translation:** 
 
-**[3816.80s] English:** Yet there is this social aspect.  
+**[3816.80s] English:** Yet, there is this social aspect.  
 **Translation:** 
 
 **[3818.94s] English:** A lot of what I do is social.  
 **Translation:** 
 
-**[3820.58s] English:** You know, it seems like doctors, what they do is mostly scientific.  
+**[3820.58s] English:** You know, it seems like doctors mostly do scientific work.  
 **Translation:** 
 
 **[3823.58s] English:** But actually, it's just relating to another person.  
 **Translation:** 
 
-**[3826.48s] English:** And you have to maintain, you know, your professional demeanor  
+**[3826.48s] English:** And you have to maintain your professional demeanor, you know.  
 **Translation:** 
 
-**[3829.62s] English:** and this normal human-level interaction, even though you're talking about poop.  
+**[3829.62s] English:** And this normal human-level interaction, even though you're talking about poop.  
 **Translation:** 
 
 **[3834.50s] English:** And that's a skill.  
@@ -2338,50 +2339,50 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3838.04s] English:** Actually, I want to linger on that.  
 **Translation:** 
 
-**[3839.74s] English:** Because...  
+**[3839.74s] English:** Because,...  
+**Translation:** Vocabulary: linger: 停留
+
+**[3840.00s] English:** I'm a fan of just diving into conversations right away with strangers, just getting straight to the point, no small talk.  
 **Translation:** 
 
-**[3840.00s] English:** I'm a fan of just diving into conversations right away with strangers, just getting no small talk.  
-**Translation:** 
-
-**[3848.32s] English:** And this is like the ultimate, I don't know if it's the ultimate, but it's one version of no small talk.  
+**[3848.32s] English:** And this is like the ultimate (pause) — I don't know if it's the ultimate, but it's one version of no small talk.  
 **Translation:** 
 
 **[3854.50s] English:** You get right to the point.  
 **Translation:** 
 
-**[3857.80s] English:** That's really powerful from a psychology perspective.  
+**[3857.80s] English:** That's really powerful from a psychological perspective.  
 **Translation:** 
 
-**[3861.32s] English:** You're a kind of therapist, or you have the power to be a therapist.  
+**[3861.32s] English:** You're a kind of therapist, or you have the power to become one.  
 **Translation:** 
 
-**[3865.10s] English:** And I don't mean just about the medical condition of the body, but the psychological.  
+**[3865.10s] English:** And I don't mean just about the medical condition of the body, but the psychological either.  
 **Translation:** Vocabulary: therapist: 心理治疗师
 
 **[3870.50s] English:** There's so much fear connected to this concern.  
 **Translation:** 
 
-**[3875.78s] English:** Also, self-doubt, insecurities, even sort of existential thoughts about your mortality.  
+**[3875.78s] English:** Also, self-doubt, insecurities, and even some existential thoughts about your mortality.  
 **Translation:** Vocabulary: existential: 存在主义的
 
 **[3886.28s] English:** All of those things are right there in the room.  
 **Translation:** 
 
-**[3889.72s] English:** So I think one way doctors deal with that is they kind of have this cold way about them.  
+**[3889.72s] English:** So, I think one way doctors deal with that is they kind of have this cold way about them.  
 **Translation:** 
 
 **[3894.80s] English:** They.  
 **Translation:** 
 
-**[3895.10s] English:** Almost like a dual mode.  
+**[3895.10s] English:** Almost like a dual-mode system.  
 **Translation:** 
 
-**[3896.80s] English:** One is like, I'm going to be friendly on the surface and cold about the brutal honesty of the biology.  
+**[3896.80s] English:** One is like: I'm going to be friendly on the surface and cold about the brutal honesty of biology.  
 **Translation:** 
 
-**[3905.54s] English:** But I wonder if there's like a skillful middle ground, this dangerous place where you can help people deal with their psychological insecurities, concerns, fears, all those kinds of things.  
-**Translation:** Vocabulary: brutal: 残酷; skillful: 熟练
+**[3905.54s] English:** But I wonder if there's like a skillful middle ground: this dangerous place where you can help people deal with their psychological insecurities, concerns, and fears, all those kinds of things.  
+**Translation:** Vocabulary: brutal: 残酷的; skillful: 熟练的
 
 **[3920.96s] English:** Is that just really tough to do?  
 **Translation:** 
@@ -2392,16 +2393,16 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3925.10s] English:** Being a doctor is dealing with the psychological aspects of whatever's going on with a patient's body.  
 **Translation:** 
 
-**[3930.18s] English:** I mean, in the ER, you deal with psychiatric emergencies kind of left and right more than ever these days.  
+**[3930.18s] English:** I mean, in the ER, you deal with psychiatric emergencies kind of left and right, more than ever these days.  
 **Translation:** Vocabulary: psychiatric: 精神的
 
-**[3935.66s] English:** And, you know, that's a huge issue, not to mention sort of drug use, alcohol related stuff.  
+**[3935.66s] English:** And, you know, that's a huge issue, not to mention sort of drug use and alcohol-related stuff.  
 **Translation:** 
 
 **[3941.36s] English:** You know, that gets into sort of psychology and the human love of intoxicants and changing the brain's chemistry.  
 **Translation:** Vocabulary: intoxicants: 麻醉品
 
-**[3947.70s] English:** And, you know, and habit, of course, we're creatures of habit.  
+**[3947.70s] English:** And, you know, and habit—of course, we're creatures of habit.  
 **Translation:** 
 
 **[3950.68s] English:** And that plays in as well.  
@@ -2449,109 +2450,109 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[3954.50s] English:** Right.  
 **Translation:** 
 
-**[3955.10s] English:** And, you know, kind of convincing them, giving them the confidence.  
+**[3955.10s] English:** And, you know, kind of convincing them and giving them the confidence.  
 **Translation:** 
 
-**[3960.00s] English:** that what's going on with their child is not serious, will go away on its own, does not need  
+**[3960.00s] English:** That what's going on with their child is not serious, will go away on its own, and does not need  
 **Translation:** 
 
-**[3964.52s] English:** any particular intervention. But adults too, you know, reassurance is a huge part of the game.  
+**[3964.52s] English:** Any particular intervention, but adults, too, you know, reassurance is a huge part of the game.  
 **Translation:** 
 
-**[3973.12s] English:** Yeah, you know, in the ER, you see humanity at its most raw. I feel like you get this tremendous  
+**[3973.12s] English:** Yeah, you know, in the ER, you see humanity at its most raw. I feel like you get this tremendous range of people and situations.  
 **Translation:** 
 
-**[3979.14s] English:** insight into people, how they live, what they worry about, what they think about, how their  
+**[3979.14s] English:** Insight into people, how they live, what they worry about, what they think about, and how their  
 **Translation:** 
 
-**[3983.62s] English:** body works, and also how their mind works that you almost don't see anywhere else. It's a really  
+**[3983.62s] English:** Body works, and also how their mind works — that you almost don't see anywhere else. It's a really  
 **Translation:** 
 
-**[3988.80s] English:** interesting place to work. And also, the way our society is shaped, the ER is where people go for  
+**[3988.80s] English:** An interesting place to work. And also, the way our society is shaped, the ER is where people go for.  
 **Translation:** 
 
-**[3994.72s] English:** almost everything. When they're suicidal, they come to the ER. When they're too high on drugs  
-**Translation:** Vocabulary: suicidal: 自杀的
+**[3994.72s] English:** Almost everything. When they're suicidal, they come to the ER. When they're too high on drugs,...  
+**Translation:** Vocabulary: suicidal: 想自杀的
 
-**[3999.24s] English:** to walk, they come to the ER. You know, children who have been abused, sexually abused, physically  
+**[3999.24s] English:** To walk, they come to the ER. You know, children who have been abused — sexually or physically.  
 **Translation:** 
 
-**[4003.24s] English:** abused, come to the ER for us to investigate. It's sort of like the all-purpose waste bin for  
+**[4003.24s] English:** Abused, they came to the ER for us to investigate. It's sort of like the all-purpose waste bin for  
+**Translation:** Vocabulary: abused: 遭受虐待的
+
+**[4008.64s] English:** The dregs of society: what people do to themselves, and what they do to other people. You know, you  
 **Translation:** 
 
-**[4008.64s] English:** the dregs of society, what people do to themselves and what they do to other people. You know, you  
+**[4013.54s] English:** Mentioned your interest in the darkness of humanity. It made me think of the ER, where you  
 **Translation:** 
 
-**[4013.54s] English:** mentioned your interest in the darkness of humanity. It made me think of the ER, where you  
-**Translation:** Vocabulary: dregs: 社会底层
-
-**[4017.18s] English:** really see.  
+**[4017.18s] English:** Really, I see.  
 **Translation:** 
 
-**[4018.80s] English:** Yeah, what human life is like in the ER.  
+**[4018.80s] English:** Yeah, what life in the ER is like.  
 **Translation:** 
 
-**[4021.88s] English:** Okay, you tweet about, you write about, you think about the emergency room ER. That's really  
+**[4021.88s] English:** Okay, you tweet about it, write about it, and think about the emergency room (ER). That's really  
 **Translation:** 
 
-**[4028.10s] English:** fascinating. Just the little window you give to that world is fascinating. What lessons about  
+**[4028.10s] English:** Fascinating. Just the little window you give to that world is fascinating. What lessons about...  
 **Translation:** 
 
-**[4038.48s] English:** humanity do you draw from this place where you're so near to death? There's so much chaos. There's  
+**[4038.48s] English:** Humanity, do you draw from this place where you're so near to death? There's so much chaos.  
 **Translation:** 
 
-**[4047.10s] English:** so much variety of what's wrong. There's so much chaos. There's so much variety of what's wrong.  
+**[4047.10s] English:** So much variety of what's wrong. There's so much chaos.  
 **Translation:** 
 
-**[4048.80s] English:** There's so much variety of what's wrong. So little information, or the urgent nature of the  
+**[4048.80s] English:** There's so much variety of what's wrong. So little information, or the urgent nature of the issue, is often overlooked.  
 **Translation:** 
 
-**[4055.34s] English:** information inflows such that you can't really reason sort of thoroughly and deeply and collect  
+**[4055.34s] English:** Information inflows are such that you can't really reason thoroughly and deeply enough.  
+**Translation:** Vocabulary: inflows: 信息流入; overlooked: 被忽视; thoroughly: 深入地
+
+**[4061.32s] English:** All the data—every kind of thing. You have to act fast, and then everyone's freaking out.  
 **Translation:** 
 
-**[4061.32s] English:** all the data, all those kinds of things. You have to act fast. And then everybody's freaking out.  
+**[4065.60s] English:** Can you just speak to the human condition that you get a glimpse of through the ER experience?  
+**Translation:** Vocabulary: freaking: 狂躁
+
+**[4074.74s] English:** Yeah, I think you do see all those things. I think, on the other hand,  
 **Translation:** 
 
-**[4065.60s] English:** Can you just speak to the human condition that you get a glimpse at through the ER experience?  
-**Translation:** Vocabulary: freaking: 惊慌失措
-
-**[4074.74s] English:** Yeah, I think you do see all those things. I think on one hand,  
+**[4078.80s] English:** There's so much chaos. I think, on the other hand, there's so much chaos. I think, on the other hand,  
 **Translation:** 
 
-**[4078.80s] English:** there's so much chaos. I think on the other hand, there's so much chaos. I think on the other hand,  
+**[4080.00s] English:** It is this very unique place where you get all these unique insights. On the other end, it can become a ho-hum workplace just like any other, which is sort of surprising. As I mentioned before, humans seem to be able to get used to almost anything. And doctors can get ho-hum used to, oh, dying of a heart attack; oh, actively in labor and the baby's half out. Oh, you know, just ho-hum—I know what to do, going about my job and go home and have dinner with my family and not think too much about it. That's amazing.  
 **Translation:** 
 
-**[4080.00s] English:** It is this very unique place where you get all these unique insights. On the other end, it can become a ho-hum workplace just like any other, which is sort of surprising. As I mentioned before, humans seem to be able to get used to almost anything. And doctors can get ho-hum used to, oh, dying of a heart attack, oh, actively in labor and the baby's half out. Oh, you know, just ho-hum, I know what to do, going about my job and go home and have dinner with my family and not think too much about it. That's amazing.  
+**[4107.82s] English:** I do try to maintain both my fascination. I think writers in general tend to think more about what they see, write more about what they see, maybe drawing connections with what they see to other things. So, I do think that writer's perspective helps me kind of maintain my fascination and a more insightful perspective than just a ho-hum, water-cooler conversation.  
+**Translation:** Vocabulary: actively: 积极地; fascination: 着迷
+
+**[4131.40s] English:** But you do see a lot, you know. In a way, medical problems are sort of the great equalizer, right? Class, race, culture, background— you know, the failings of the human body, the way it fails and what we can do to help in those situations—is almost universal.  
 **Translation:** 
 
-**[4107.82s] English:** I do try to maintain both my fascination. I think writers in general tend to think more about what they see, write more about what they see, maybe draw connections with what they see to other things. So I do think that writer's perspective does help me kind of maintain my fascination and my kind of more of an insightful perspective than just a ho-hum, water cooler conversation.  
-**Translation:** Vocabulary: fascination: 浓厚兴趣
+**[4149.86s] English:** I always like this quote from Chekhov, who was a doctor and a writer. He treated a lot of peasants (from the lower class) and also treated a lot of aristocrats.  
+**Translation:** Vocabulary: aristocrats: 贵族; chekhov: 契诃夫; equalizer: 平衡器; peasants: 农民
 
-**[4131.40s] English:** But you do see a lot, you know, in a way, medical problems are sort of the great equalizer, right? Class, race, culture, background, you know, the failings of the human body, the way it fails and what we can do to help in those situations is almost universal.  
+**[4160.74s] English:** And he wrote that they all have the same ugly bodies, basically, which I think is really right on. And, you know, you can see people underneath a superficial layer of clothing—maybe it's the most expensive clothing bought from the fanciest places—but underneath their body is still failing in the same way.  
 **Translation:** 
 
-**[4149.86s] English:** I always like this quote from, you know, Chekhov was a doctor and a writer, and he treated a lot of peasants very low class and also treated a lot of aristocrats.  
-**Translation:** Vocabulary: aristocrats: 贵族; equalizer: 平衡器; peasants: 农民
+**[4178.38s] English:** And they still have the same anxieties, the same worries about mortality, the same concerns about why their poop turned green today—and all these things that they bring to the table.  
+**Translation:** Vocabulary: anxieties: 忧虑; fanciest: 最时髦的; superficial: 表面的; underneath: 在...下面
 
-**[4160.74s] English:** And he wrote that they all have the same ugly bodies, basically, which I think is really right on. And, you know, it's sort of you can see people underneath a superficial layer of clothing, maybe it's the most expensive clothing bought from the fanciest places, but underneath their body is still failing in the same way.  
+**[4187.24s] English:** So, in a way, it is this great equalizer where people...  
 **Translation:** 
 
-**[4178.38s] English:** And they still have the same anxieties, the same worry about mortality, the same concerns about why their poop turned green today, all these things that they bring to the table.  
-**Translation:** Vocabulary: anxieties: 忧虑; fanciest: 最legant; superficial: 表面的
+**[4190.74s] English:** Yeah, I feel like people sometimes classify money, fame,  
+**Translation:** Vocabulary: classify: 分类
 
-**[4187.24s] English:** So in a way, it is this great equalizer where people...  
+**[4200.00s] English:** Power makes you, for a time, forget that you're just a meat vehicle—and just as good and just as bad as the other meat vehicles all around you.  
 **Translation:** 
 
-**[4190.74s] English:** Yeah, I feel like people sometimes class, money, fame,  
+**[4213.70s] English:** In that sense, there's sometimes a question raised: are some people better than others?  
 **Translation:** 
 
-**[4200.00s] English:** Power makes you for a time forget that you're just a meat vehicle and just as good and just as bad as the other meat vehicles all around you.  
-**Translation:** 
-
-**[4213.70s] English:** In that sense, there's this question sometimes raised, are some people better than others?  
-**Translation:** 
-
-**[4220.24s] English:** And I usually answer no to that question because of that.  
+**[4220.24s] English:** And I usually answer no to that question, because of that.  
 **Translation:** 
 
 **[4224.66s] English:** Yeah, some people might be better at math.  
@@ -2566,10 +2567,10 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[4233.14s] English:** Beautiful as we are.  
 **Translation:** 
 
-**[4235.10s] English:** There's a poem that just a small tangent I want to take.  
-**Translation:** Vocabulary: tangent: 旁枝斜出
+**[4235.10s] English:** There's a poem, and just a small tangent I want to take.  
+**Translation:** Vocabulary: tangent: 旁枝逸出
 
-**[4239.92s] English:** I just saw it just acting that you have written.  
+**[4239.92s] English:** I just saw it acting like you have written.  
 **Translation:** 
 
 **[4247.20s] English:** I have to.  
@@ -2581,40 +2582,40 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[4250.06s] English:** Yeah.  
 **Translation:** 
 
-**[4250.82s] English:** At first, if I may read it.  
+**[4250.82s] English:** At first, if I may, I'll read it.  
 **Translation:** 
 
-**[4252.90s] English:** At first, you enter the clinic, shoulders weighed down by white coat pockets, book stuffed.  
+**[4252.90s] English:** At first, you enter the clinic, shoulders weighed down by white-coat pockets, and a book stuffed inside.  
 **Translation:** 
 
-**[4258.88s] English:** Timid, you act out a role, your white coat, a costume, your questions, a script, your demeanor, a rehearsed act.  
+**[4258.88s] English:** Timid, you act out a role: your white coat, a costume; your questions, a script; your demeanor, a rehearsed act.  
 **Translation:** 
 
 **[4268.30s] English:** No one is going to buy this.  
-**Translation:** Vocabulary: rehearsed: 排练过的; timid: 胆怯的
+**Translation:** Vocabulary: costume: 戏服; rehearsed: 排练过的; timid: 胆怯的
 
-**[4270.02s] English:** But then as you play the role again and again, repeating the lines and the motions, the script slowly dissolves and the interaction becomes thoughtless.  
+**[4270.02s] English:** But then, as you play the role again and again, repeating the lines and the motions, the script slowly dissolves, and the interaction becomes thoughtless.  
 **Translation:** 
 
 **[4280.88s] English:** And the rehearsed act slowly fades into a profession.  
-**Translation:** Vocabulary: dissolves: 消解; thoughtless: 无思考
+**Translation:** Vocabulary: dissolves: 消解; motions: 动作; thoughtless: 无思考的
 
-**[4284.26s] English:** You suddenly find yourself unable to tell if you're still acting or.  
+**[4284.26s] English:** You suddenly find yourself unable to tell if you're still acting or....  
 **Translation:** 
 
 **[4288.88s] English:** If you're doing it for real.  
 **Translation:** 
 
-**[4291.24s] English:** And now you're a doctor.  
+**[4291.24s] English:** And now, you're a doctor.  
 **Translation:** 
 
-**[4293.70s] English:** Jonathan Reisman, M.D., Harvard, Massachusetts General Hospital Medicine Pediatrics Department.  
-**Translation:** Vocabulary: pediatrics: 儿科
+**[4293.70s] English:** Jonathan Reisman, M.D., from Harvard and Massachusetts General Hospital, Department of Medicine, Pediatrics.  
+**Translation:** Vocabulary: pediatrics: 小儿科
 
 **[4299.96s] English:** Beautiful.  
 **Translation:** 
 
-**[4300.68s] English:** So that is what it is to be a doctor.  
+**[4300.68s] English:** So, that is what it is to be a doctor.  
 **Translation:** 
 
 **[4304.22s] English:** You're just acting.  
@@ -2629,793 +2630,793 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[4306.86s] English:** Fake it till you make it.  
 **Translation:** 
 
-**[4308.18s] English:** And I think I imagine every medical student has this feeling when they first go into a room.  
+**[4308.18s] English:** And I think I imagine that every medical student has this feeling when they first go into a room.  
 **Translation:** 
 
-**[4312.98s] English:** Like I talked about asking this nice old lady about the color of her poop for the first time.  
+**[4312.98s] English:** Like, I talked about asking this nice old lady about the color of her poop for the first time.  
 **Translation:** 
 
 **[4318.46s] English:** And you're just like.  
 **Translation:** 
 
-**[4318.88s] English:** Like what am I doing here?  
+**[4318.88s] English:** Like, what am I doing here?  
 **Translation:** 
 
-**[4320.00s] English:** here. Does she believe I'm a doctor? This just feels absurd. But then it's, again, ho-hum becomes  
+**[4320.00s] English:** Here. Does she believe I'm a doctor? This just feels absurd. But then it's, again, ho-hum, becomes  
 **Translation:** 
 
-**[4327.08s] English:** normal. Now, there's not a sperm chapter in your book. You mentioned offline that this is a second  
-**Translation:** Vocabulary: sperm: 精子
+**[4327.08s] English:** Normal. Now, there's no sperm chapter in your book. You mentioned offline that this is a second  
+**Translation:** Vocabulary: absurd: 荒谬; sperm: 精子
 
-**[4336.58s] English:** and a third book that you're working on all about sperm. No, I'm just kidding. Or maybe I'm not.  
+**[4336.58s] English:** And a third book that you're working on—all about sperm. No, I'm just kidding. Or maybe I'm not.  
 **Translation:** 
 
-**[4342.52s] English:** But humor tends to make way for reality. So the tweet was that an average human male produces  
+**[4342.52s] English:** But humor tends to make way for reality. So, the tweet was that an average human male produces.  
 **Translation:** 
 
-**[4352.96s] English:** 500 billion sperm, I believe, which is about four to five times more than the number of people who  
+**[4352.96s] English:** 500 billion sperm, I believe, which is about four to five times more than the number of people who.  
 **Translation:** 
 
-**[4361.52s] English:** have ever lived. And each of those sperm is genetically unique. So you can think of them,  
-**Translation:** 
+**[4361.52s] English:** Have ever lived. And each of those sperm is genetically unique. So you can think of them,  
+**Translation:** Vocabulary: genetically: 基因上
 
-**[4367.32s] English:** you can kind of imagine the possible humans they could have created. And they're all different.  
+**[4367.32s] English:** You can kind of imagine the possible humans they could have created, and they're all different.  
 **Translation:** 
 
 **[4373.00s] English:** They have similarities, of course, but they have peculiarities that make them different.  
 **Translation:** Vocabulary: peculiarities: 特殊之处
 
-**[4377.66s] English:** And you can think of all the different trajectories, all the Einsteins, the Feynmans,  
+**[4377.66s] English:** And you can think of all the different trajectories—of all the Einsteins, the Feynmans—  
 **Translation:** 
 
-**[4381.48s] English:** the Hitlers, and all the people who would have died during childbirth, who would have died early  
-**Translation:** Vocabulary: childbirth: 分娩; einsteins: 爱因斯坦; feynmans: 费曼; trajectories: 轨迹
+**[4381.48s] English:** The Hitlers, and all the people who would have died during childbirth, who would have died early.  
+**Translation:** Vocabulary: childbirth: 分娩; einsteins: 爱因斯坦; feynmans: 费曼; hitlers: 希特勒; trajectories: 轨迹
 
-**[4389.10s] English:** in their years, given the different diseases. It's fascinating to think about. An average human.  
+**[4389.10s] English:** In their years, given the different diseases, it's fascinating to think about an average human.  
 **Translation:** 
 
-**[4394.10s] English:** Yeah, we're all winners of a very competitive race. So the people who make it, we're winners.  
+**[4394.10s] English:** Yeah, we're all winners of a very competitive race. So, the people who make it are winners.  
 **Translation:** 
 
-**[4402.52s] English:** Hashtag winning. Is there something that you find fascinating, interesting, beautiful,  
+**[4402.52s] English:** Hashtag Winning. Is there something that you find fascinating, interesting, or beautiful?  
 **Translation:** 
 
-**[4413.90s] English:** ugly, surprising about sperm?  
-**Translation:** 
+**[4413.90s] English:** Ugly, Surprising About Sperm?  
+**Translation:** Vocabulary: sperm: 精子
 
 **[4418.42s] English:** I think sperm is, yes, it is a very interesting bodily fluid. Maybe I'll write about it in a  
 **Translation:** 
 
-**[4424.56s] English:** second or third book. We'll see. But I guess sperm is interesting because it's kind of the  
+**[4424.56s] English:** Second or third book. We'll see. But I guess sperm is interesting because it's kind of the  
 **Translation:** 
 
-**[4429.96s] English:** only projectile bodily fluid. It's the only projectile bodily fluid. It's the only projectile  
+**[4429.96s] English:** Only projectile bodily fluid. It's the only projectile bodily fluid. It's the only projectile.  
 **Translation:** 
 
-**[4432.06s] English:** bodily fluid. It's the only projectile bodily fluid. It's the only projectile bodily fluid. It's  
+**[4432.06s] English:** Bodily fluid. It's the only projectile bodily fluid. It's the only projectile bodily fluid. It's  
 **Translation:** Vocabulary: projectile: 投射物
 
-**[4432.50s] English:** the only projectile bodily fluid. It's the only projectile bodily fluid from the body.  
+**[4432.50s] English:** The only projectile bodily fluid. It is the only projectile bodily fluid from the body.  
 **Translation:** 
 
-**[4435.40s] English:** You know, vomit can be projectile. Usually that's a disease state. That's not the expected.  
+**[4435.40s] English:** You know, vomit can be projectile. Usually, that's a disease state. That's not the expected.  
 **Translation:** 
 
-**[4440.00s] English:** normal healthy state. Oh, sneezing, would you classify that or no?  
+**[4440.00s] English:** Normal healthy state. Oh, sneezing—would you classify that, or no?  
 **Translation:** 
 
-**[4443.84s] English:** True. I guess it's, yeah, there's some particles in the air. I guess it's not a  
-**Translation:** Vocabulary: classify: 分类; sneezing: 打喷嚏
+**[4443.84s] English:** True. I guess it's yeah, there are some particles in the air. I guess it's not a  
+**Translation:** Vocabulary: classify: 分类; particles: 颗粒; sneezing: 打喷嚏
 
-**[4447.82s] English:** fluid. I mean, not a liquid, but true. I mean, cough in addition to sneeze, right? Sneeze is  
+**[4447.82s] English:** Fluid. I mean, not a liquid, but true. I mean, like coughing in addition to sneezing, right? Sneezing is  
 **Translation:** 
 
-**[4454.38s] English:** how our nose gets rid of something that shouldn't be there. Cough is how our lungs get rid of  
+**[4454.38s] English:** How our nose gets rid of something that shouldn't be there. A cough is how our lungs get rid of it.  
+**Translation:** Vocabulary: coughing: 咳嗽
+
+**[4458.16s] English:** Something that shouldn't be there. Vomiting is sometimes how our stomachs get rid of something.  
 **Translation:** 
 
-**[4458.16s] English:** something that shouldn't be there. Vomiting is sometimes how our stomachs get rid of something  
+**[4461.40s] English:** That shouldn't be there. All projectiles, sometimes in their own way, are sort of interesting.  
+**Translation:** Vocabulary: projectiles: 投射物; vomiting: 呕吐
+
+**[4466.52s] English:** It's created with the food for its journey. Sperm mostly feed off of fructose, a kind of sugar.  
 **Translation:** 
 
-**[4461.40s] English:** that shouldn't be there. All projectiles sometimes in their own way. Sperm is sort of interesting.  
-**Translation:** Vocabulary: projectiles: 呕吐物; sperm: 精子; vomiting: 呕吐
-
-**[4466.52s] English:** It's created with the food for its journey. Sperm mostly feed off of fructose, a kind of sugar,  
-**Translation:** 
-
-**[4471.78s] English:** you know, for the few days that they live inside the female genital tract.  
+**[4471.78s] English:** You know, for the few days that they live inside the female genital tract.  
 **Translation:** Vocabulary: fructose: 果糖; genital: 生殖器
 
-**[4475.74s] English:** But it's sort of, I like comparing our genitals to the genitals of the plant world, which is  
+**[4475.74s] English:** But it's sort of like comparing our genitals to the genitals of the plant world, which is  
 **Translation:** 
 
-**[4479.84s] English:** flowers. And in the same way that, you know, a touch-me-not, for instance, the kind of flower  
+**[4479.84s] English:** Flowers. And, in the same way that, for instance, a touch-me-not is, the kind of flower...  
 **Translation:** Vocabulary: genitals: 生殖器官
 
-**[4485.26s] English:** where when you brush up against it, it sort of launches seeds into the distance to try to  
+**[4485.26s] English:** Where, when you brush up against it, it sort of launches seeds into the distance to try to...  
 **Translation:** 
 
-**[4490.12s] English:** survive. In a way, kind of the sperm is doing something similar, launched into the female  
+**[4490.12s] English:** Survive. In a way, kind of the sperm is doing something similar, launched into the female.  
 **Translation:** 
 
-**[4495.78s] English:** genital tract.  
+**[4495.78s] English:** Genital tract.  
 **Translation:** 
 
-**[4496.52s] English:** And then all trying to find this, competing against each other to find this egg. It's really  
+**[4496.52s] English:** And then everyone is trying to find this, competing against each other to find this egg. It's really  
 **Translation:** 
 
-**[4501.84s] English:** amazing. And when you learn about it from the biological perspective, the most amazing thing  
+**[4501.84s] English:** Amazing. And when you learn about it from a biological perspective, the most amazing thing is...  
 **Translation:** 
 
-**[4505.98s] English:** is how many things can go wrong, you know, just in the sperm not surviving long enough for it  
+**[4505.98s] English:** Is how many things can go wrong, you know, just in the sperm not surviving long enough for it.  
 **Translation:** 
 
-**[4512.22s] English:** making it to the egg, and then some genetic abnormality causing a miscarriage. It's sort  
+**[4512.22s] English:** Making it to the egg, and then some genetic abnormality causing a miscarriage. It's sort of how it works.  
 **Translation:** 
 
-**[4518.18s] English:** of astounding that it works as often as it does. And I think the lesson there is just that people  
+**[4518.18s] English:** It's astounding that it works as often as it does. And I think the lesson there is just that people  
 **Translation:** Vocabulary: abnormality: 异常; astounding: 令人惊讶
 
-**[4523.58s] English:** have a lot of sex, and so statistics just favor it.  
+**[4523.58s] English:** Have a lot of sex, and so statistics just favor it.  
 **Translation:** 
 
-**[4526.52s] English:** Yeah, and there might be intelligence in the design of just the sheer number of sperm. Maybe  
+**[4526.52s] English:** Yeah, and there might be intelligence in the design of just the sheer number of sperm. Maybe.  
 **Translation:** 
 
-**[4534.14s] English:** that's yet another way to inject variety into the system.  
+**[4534.14s] English:** That's yet another way to inject variety into the system.  
 **Translation:** 
 
-**[4538.72s] English:** And redundancy, I guess. You know, we have two kidneys, we have two hands. If we lose  
+**[4538.72s] English:** And redundancy, I guess. We have two kidneys, and we have two hands. If we lose one, the other can take over.  
+**Translation:** Vocabulary: inject: 注入; kidneys: 肾脏; redundancy: 冗余
+
+**[4543.18s] English:** One, we can still go on. We have, you know, however many millions of sperm that get sort of  
 **Translation:** 
 
-**[4543.18s] English:** one, we can still go on. We have, you know, however many millions of sperm get sort of  
+**[4548.40s] English:** Launched in every ejaculation is, you know, if a bunch fail or don't make it inside, others.  
+**Translation:** Vocabulary: ejaculation: 射精; sperm: 精子
+
+**[4554.84s] English:** Will.  
 **Translation:** 
 
-**[4548.40s] English:** launched in every ejaculation is, you know, if a bunch fail or don't make it inside, others  
-**Translation:** Vocabulary: ejaculation: 射精
+**[4555.84s] English:** I have a little book that I skimmed for some reason, not read.  
+**Translation:** Vocabulary: skimmed: 浏览
 
-**[4554.84s] English:** will.  
+**[4560.00s] English:** Which is, uh, talking about which sperm usually wins—what are the characteristics of the sperm?  
 **Translation:** 
 
-**[4555.84s] English:** I have a little book that I read for some reason, not read, but skimmed for some reason.  
+**[4566.12s] English:** That are winning, and it's not the fastest, so apparently there's some kind of slaughter that.  
+**Translation:** Vocabulary: characteristics: 特征; slaughter: 淘汰
+
+**[4573.54s] English:** Happens early on, people will correct me, but it's not the fastest; it's there is an aspect of it's.  
 **Translation:** 
 
-**[4560.00s] English:** which is uh talking about which sperm usually wins like what are the characteristics of sperms  
+**[4578.68s] English:** The luckiest thing is really like the body trying to make it a random selection that tries to make it.  
 **Translation:** 
 
-**[4566.12s] English:** that are winning and it's not the fastest so apparently there's some kind of slaughter that  
-**Translation:** Vocabulary: slaughter: 屠杀; sperms: 精子
-
-**[4573.54s] English:** happens early on people will correct me but it's not the fastest it's there is a aspect of it's  
+**[4584.28s] English:** Fair, and making it as random as possible. Interesting, and also interesting that they're  
 **Translation:** 
 
-**[4578.68s] English:** the luckiest it really is like the body tries to make it a random selection that tries to make it  
+**[4589.80s] English:** Fueled by fructose, I didn't really think about that. So, they're a carb-loaded athlete.  
+**Translation:** Vocabulary: fructose: 果糖; fueled: 动力来源
+
+**[4596.28s] English:** Right, I need food for the journey, food for the journey, because I'm someone that actually does.  
 **Translation:** 
 
-**[4584.28s] English:** fair and making it as random as possible interesting and also interesting that they're  
+**[4601.10s] English:** A lot of running. On, um, I guess you would call me a fat-adapted athlete, so I do sort of eat meat.  
 **Translation:** 
 
-**[4589.80s] English:** fueled by fructose i didn't really think about that so they're a um they're a carb loaded athlete  
+**[4609.38s] English:** A heavy diet, and so you could do a lot of endurance-type stuff.  
 **Translation:** 
 
-**[4596.28s] English:** right with food for the journey food for the journey because i'm somebody that actually does  
+**[4613.38s] English:** When you don't  
 **Translation:** 
 
-**[4601.10s] English:** a lot of running on um i guess you would call me a fat adapted athlete so i do sort of meat  
+**[4614.28s] English:** Need any carbs, any glucose, any of that kind of stuff? And any or very low; it's interesting to  
 **Translation:** 
 
-**[4609.38s] English:** heavy diet and so you could do a lot of endurance kind of stuff  
+**[4620.64s] English:** I think that sperm are like, nope, they're total bros, let's go to the gym, uh, sprint, uh, performance.  
+**Translation:** Vocabulary: carbs: 碳水化合物; glucose: 葡萄糖; sprint: 短跑
+
+**[4628.14s] English:** Short-term performance is everything, all right? Well, that's sperm—they're turning to the liver.  
 **Translation:** 
 
-**[4613.38s] English:** when you don't  
-**Translation:** Vocabulary: endurance: 持久力
-
-**[4614.28s] English:** need any carbs any glucose any of that kind of stuff and any or very low it's interesting to  
+**[4635.98s] English:** The place that deals with all our poor decisions, no, um, many of them, many of our poor decisions.  
 **Translation:** 
 
-**[4620.64s] English:** think that sperm are like nope they're total bros let's go to the gym uh sprint uh performance  
+**[4643.92s] English:** Is there a way to deal with all our poor decisions?  
 **Translation:** 
 
-**[4628.14s] English:** short-term performance is everything all right well that's sperm they're turning to the liver  
+**[4644.26s] English:** There, um, you said that the liver does uh quite a few things. Uh, what to you is fascinating and beautiful?  
 **Translation:** 
 
-**[4635.98s] English:** the place that deals with all our poor decisions no um many of them many of our poor decisions  
-**Translation:** Vocabulary: sperm: 精液
-
-**[4643.92s] English:** is there a way to deal with all our poor decisions  
+**[4651.80s] English:** About the liver, I would say its primary function seems to be as the sort of gatekeeper for what we  
 **Translation:** 
 
-**[4644.26s] English:** there um you said that the liver does uh quite a few things uh what to you is fascinating beautiful  
-**Translation:** 
-
-**[4651.80s] English:** about the liver i would say its primary function seems to be as the sort of gatekeeper for what we  
-**Translation:** 
-
-**[4658.12s] English:** eat and absorb um you know the entire gastrointestinal tract from the esophagus to the  
+**[4658.12s] English:** Eat and absorb, um, you know, the entire gastrointestinal tract from the esophagus to the  
 **Translation:** Vocabulary: esophagus: 食道
 
-**[4664.86s] English:** rectum the blood flows from it not back to the heart but to the liver where it's first examined  
+**[4664.86s] English:** Rectum: The blood flows from it, not back to the heart, but to the liver, where it's first examined.  
 **Translation:** 
 
-**[4671.62s] English:** kind of things are evaluated  
+**[4671.62s] English:** Kind of things are evaluated.  
 **Translation:** Vocabulary: evaluated: 评估; rectum: 直肠
 
-**[4674.26s] English:** uh you know processed detoxified perhaps um it's kind of this  
+**[4674.26s] English:** Uh, you know, processed, detoxified—perhaps? Um, it's kind of this.  
 **Translation:** 
 
-**[4680.00s] English:** great overseer of what we digest and absorb. And so, it kind of keeps track of what's coming in,  
-**Translation:** Vocabulary: detoxified: 解毒; overseer: 监督者; processed: 加工
+**[4680.00s] English:** Great overseer of what we digest and absorb. And so, it kind of keeps track of what's coming in.  
+**Translation:** Vocabulary: detoxified: 解毒; digest: 消化; overseer: 监督者; processed: 加工
 
-**[4687.66s] English:** you know, the outside world that comes in and will become part of us. You know, that's why  
+**[4687.66s] English:** You know, the outside world that comes in and will become part of us. You know, that's why.  
 **Translation:** 
 
-**[4693.16s] English:** partly the liver suffers sometimes the injury from certain toxins like alcohol. But beyond that,  
-**Translation:** Vocabulary: toxins: 毒物
+**[4693.16s] English:** Partly, the liver suffers sometimes from injury due to certain toxins, like alcohol. But beyond that,  
+**Translation:** Vocabulary: toxins: 毒素
 
-**[4700.34s] English:** the liver is also the place, as I said, it metabolizes things too. So, it metabolizes  
+**[4700.34s] English:** The liver is also the place, as I said; it metabolizes things too. So, it metabolizes  
 **Translation:** 
 
-**[4704.76s] English:** alcohol and why it can be injured by alcohol. It metabolizes drugs like Tylenol, which is why  
-**Translation:** Vocabulary: metabolizes: 代谢
+**[4704.76s] English:** Alcohol and why it can be injured by alcohol. It metabolizes drugs like Tylenol, which is why.  
+**Translation:** Vocabulary: metabolizes: 代谢; tylenol: 泰诺
 
 **[4709.88s] English:** Tylenol can be very toxic to the liver when taken as an overdose. So, the liver, you know,  
 **Translation:** 
 
-**[4717.66s] English:** even beyond that, the liver produces a lot of different, you know, things that float in the  
+**[4717.66s] English:** Even beyond that, the liver produces a lot of different things that float in the  
 **Translation:** 
 
-**[4723.02s] English:** bloodstream. It packages cholesterol and fats and sends them to where they're needed. It deals with  
+**[4723.02s] English:** Bloodstream. It packages cholesterol and fats and sends them to where they're needed. It deals with  
 **Translation:** 
 
-**[4728.66s] English:** protein in the blood. It deals with clotting factors in the blood, helping the blood clot.  
+**[4728.66s] English:** Protein in the blood. It deals with clotting factors in the blood, helping the blood to clot.  
 **Translation:** Vocabulary: bloodstream: 血液; cholesterol: 胆固醇; clotting: 凝血
 
-**[4733.76s] English:** You know, processes things like bilirubin and other things that really, as I mentioned,  
+**[4733.76s] English:** You know, processes like bilirubin and other things, that really, as I mentioned,  
 **Translation:** 
 
-**[4738.44s] English:** is like 15 organs wrapped in.  
+**[4738.44s] English:** Is like 15 organs wrapped in.  
 **Translation:** Vocabulary: bilirubin: 胆红素
 
 **[4739.88s] English:** Maybe that's why it's sort of the biggest internal organ. The skin's bigger,  
 **Translation:** 
 
-**[4743.76s] English:** but it's not an internal organ.  
+**[4743.76s] English:** But it's not an internal organ.  
 **Translation:** 
 
 **[4746.24s] English:** Right. The biggest organ in the human body is the skin.  
 **Translation:** 
 
-**[4750.34s] English:** Right. But the liver is the biggest internal organ, and it really is a powerhouse and does a lot,  
-**Translation:** Vocabulary: powerhouse: 动力源泉
+**[4750.34s] English:** Right. But the liver is the biggest internal organ, and it really is a powerhouse and does a lot.  
+**Translation:** Vocabulary: powerhouse: 动力源
 
-**[4755.96s] English:** which is why when people suffer from liver failure, kind of everything goes wrong in a way.  
+**[4755.96s] English:** Which is why, when people suffer from liver failure, pretty much everything goes wrong in a way.  
 **Translation:** 
 
-**[4761.44s] English:** And in terms of replacing organs, what are organs that are easily replaceable, which are not?  
-**Translation:** 
+**[4761.44s] English:** And, in terms of replacing organs, which ones are easily replaceable, and which ones are not?  
+**Translation:** Vocabulary: replaceable: 可替换的
 
 **[4769.88s] English:** Like on the list of things that are hard to replace and not,  
 **Translation:** 
 
-**[4772.50s] English:** where would you put a number one? Where would you put it, like, at the bottom?  
+**[4772.50s] English:** Where would you put a number one? Where would you put it, like, at the bottom?  
 **Translation:** 
 
-**[4777.12s] English:** Well, I'd say the kidneys are, you know, nothing's easy, but kidneys are easiest in a way.  
+**[4777.12s] English:** Well, I'd say the kidneys are—you know—nothing's easy, but kidneys are easiest in a way.  
 **Translation:** 
 
-**[4781.82s] English:** Partly, I mean, maybe a big factor there is that other people have two of them  
+**[4781.82s] English:** Partly, I mean, maybe a big factor there is that other people have two of them.  
 **Translation:** 
 
-**[4785.26s] English:** and can give one to you. So, you don't have to wait for people to die,  
+**[4785.26s] English:** And we can give one to you. So, you don't have to wait for people to die.  
 **Translation:** 
 
-**[4787.96s] English:** which is the case with hearts and livers. Sometimes you can take a part of a liver  
+**[4787.96s] English:** Which is the case with hearts and livers. Sometimes, you can take a part of a liver.  
+**Translation:** Vocabulary: livers: 肝脏
+
+**[4791.68s] English:** From someone who's alive, and the liver does have this kind of mythological ability to regenerate.  
 **Translation:** 
 
-**[4791.68s] English:** from someone who's alive, and the liver does have this kind of mythological ability to regenerate  
-**Translation:** 
-
-**[4797.86s] English:** itself. In the myth of,  
+**[4797.86s] English:** Itself. In the myth of,  
 **Translation:** Vocabulary: mythological: 神话般的; regenerate: 再生
 
-**[4799.80s] English:** you know,  
+**[4799.80s] English:** You know,  
 **Translation:** 
 
-**[4800.00s] English:** you can take a part of a liver from someone who's alive, and the liver does have this kind of  
+**[4800.00s] English:** You can take a part of a liver from someone who's alive, and the liver does have this kind of  
 **Translation:** 
 
-**[4800.00s] English:** Prometheus, he's, you know, chained to a rock and the bird eats his liver every day and it  
+**[4800.00s] English:** Prometheus is chained to a rock, and the bird eats his liver every day, and it  
 **Translation:** 
 
-**[4805.02s] English:** grows back every day. And that's actually biologically accurate. Not that you can  
+**[4805.02s] English:** Grows back every day, and that's actually biologically accurate. Not that you can.  
 **Translation:** Vocabulary: biologically: 生物学上; prometheus: 普罗米修斯
 
-**[4810.70s] English:** completely get rid of it and it'll appear again, but when pieces of it are removed or injured,  
+**[4810.70s] English:** Completely get rid of it, and it'll appear again, but when pieces of it are removed or injured,  
 **Translation:** 
 
-**[4814.92s] English:** it does regenerate itself pretty amazingly. So, I'd say the kidneys, the fact that they're more  
+**[4814.92s] English:** It does regenerate itself pretty amazingly. So, I'd say the kidneys—the fact that they're more  
 **Translation:** 
 
-**[4820.96s] English:** around. Also, it's, you know, the kidney is a smaller organ. It's often just, you don't have  
+**[4820.96s] English:** Around. Also, it's you know, the kidney is a smaller organ; it's often just not as noticeable.  
 **Translation:** 
 
-**[4825.38s] English:** to put a transplanted kidney where the kidney should be in the back of the abdomen. You can  
+**[4825.38s] English:** To put a transplanted kidney where the kidney should be, in the back of the abdomen. You can  
+**Translation:** Vocabulary: abdomen: 腹部; kidney: 肾脏
+
+**[4829.48s] English:** Just kind of stuff it into the pelvis there, because it's a smaller organ. The liver would...  
 **Translation:** 
 
-**[4829.48s] English:** just kind of stuff it into the pelvis there because it's a smaller organ. The liver would  
-**Translation:** 
-
-**[4833.16s] English:** be hard because it's huge. And I guess we just have the most experience with kidney transplants  
+**[4833.16s] English:** It would be hard because it's huge, and I guess we just have the most experience with kidney transplants.  
 **Translation:** Vocabulary: pelvis: 骨盆
 
-**[4839.40s] English:** because they are the most common. And the heart and the brain are probably  
+**[4839.40s] English:** Because they are the most common. And the heart and the brain are probably.  
 **Translation:** 
 
-**[4844.08s] English:** quite difficult. Brain, as far as I know, hasn't been successfully done. The heart is done. And  
+**[4844.08s] English:** Quite difficult. As far as I know, the brain hasn't been successfully done yet. The heart has been done. And  
 **Translation:** 
 
-**[4852.58s] English:** definitely, I've evaluated a lot of patients with a heart transplant. It does work pretty well. The  
+**[4852.58s] English:** Definitely, I've evaluated a lot of patients with a heart transplant. It does work pretty well. The  
 **Translation:** 
 
-**[4858.38s] English:** mechanical heart...  
+**[4858.38s] English:** Mechanical heart....  
 **Translation:** Vocabulary: evaluated: 评估过
 
 **[4859.48s] English:** Heart substitutes are also advancing quite rapidly these days. For a failing heart,  
 **Translation:** 
 
-**[4864.70s] English:** there are certain kinds of devices they can surgically implant. Like when a failing heart  
-**Translation:** Vocabulary: advancing: 快速发展; substitutes: 替代品; surgically: 手术地
+**[4864.70s] English:** There are certain kinds of devices they can surgically implant, like when a failing heart.  
+**Translation:** Vocabulary: advancing: 发展; substitutes: 替代物; surgically: 手术地
 
-**[4869.30s] English:** isn't able to push hard enough, you know, that's the heart's job is pushing blood with sufficient  
+**[4869.30s] English:** Isn't able to push hard enough; you know, that's the heart's job—to push blood with sufficient  
 **Translation:** 
 
-**[4873.54s] English:** pressure to create blood pressure. When it fails, there are actually these devices you can strap on  
+**[4873.54s] English:** Pressure to create a blood pressure monitor. When it fails, there are actually these devices you can strap on.  
 **Translation:** Vocabulary: strap: 固定带
 
-**[4878.80s] English:** to the heart to help it pump harder. Those are rapidly advancing. Many of those were not available  
+**[4878.80s] English:** To the heart to help it pump harder, those are rapidly advancing. Many of those were not available.  
 **Translation:** 
 
-**[4884.30s] English:** even 10 years ago when I got out of med school, and now they're commonly used.  
+**[4884.30s] English:** Even 10 years ago, when I got out of med school, and now they're commonly used.  
 **Translation:** 
 
-**[4888.86s] English:** So maybe heart transplant won't be as necessary in the future if those  
+**[4888.86s] English:** So, maybe heart transplants won't be as necessary in the future if those  
 **Translation:** 
 
-**[4892.02s] English:** mechanical things do advance. And as I said, the heart is basically a mechanical pump.  
+**[4892.02s] English:** Mechanical things do advance. And as I said, the heart is basically a mechanical pump.  
 **Translation:** 
 
-**[4896.90s] English:** So perhaps it would be the easiest organ to replace with some mechanical device.  
+**[4896.90s] English:** So, perhaps it would be the easiest organ to replace with some mechanical device.  
 **Translation:** 
 
-**[4901.78s] English:** Now for something completely different, returning to testicles for a time. You posted  
+**[4901.78s] English:** Now, for something completely different, let's return to testicles for a bit. You posted  
+**Translation:** Vocabulary: testicles: 睾丸
+
+**[4905.46s] English:** An Instagram post of testicles as food. Perhaps eating them doesn't help libido because  
 **Translation:** 
 
-**[4905.46s] English:** an Instagram post of testicles as food. Perhaps eating them doesn't help libido because  
-**Translation:** 
-
-**[4914.62s] English:** ingested testosterone is totally metabolized in the liver.  
-**Translation:** Vocabulary: ingested: 摄入; libido: 性欲; metabolized: 代谢; testicles: 睾丸; testosterone: 雄激素
+**[4914.62s] English:** Ingested testosterone is totally metabolized in the liver.  
+**Translation:** Vocabulary: ingested: 摄入; libido: 性欲; metabolized: 代谢; testosterone: 睾酮
 
 **[4918.86s] English:** Returning to our  
 **Translation:** 
 
-**[4920.00s] English:** liver leaving none to reach the bloodstream that is why testosterone only comes as injection or  
+**[4920.00s] English:** Liver leaves none to reach the bloodstream, that is why testosterone only comes as an injection or.  
 **Translation:** Vocabulary: bloodstream: 血液; injection: 注射
 
-**[4926.80s] English:** topical foam not as pills on the other hand estrogen and progesterone can be absorbed orally  
+**[4926.80s] English:** Topical foam is not as effective as pills. On the other hand, estrogen and progesterone can be absorbed orally.  
 **Translation:** 
 
-**[4936.02s] English:** hence the pill but testosterone is mostly responsible for libido in women too i was not  
-**Translation:** Vocabulary: estrogen: 雌激素; progesterone: 孕激素
+**[4936.02s] English:** Hence, the pill, but testosterone is mostly responsible for libido in women, too. I was not.  
+**Translation:** Vocabulary: estrogen: 雌激素; orally: 口服; progesterone: 孕激素
 
-**[4941.76s] English:** expecting for this biology lesson when i was looking at an instagram picture of are we looking  
+**[4941.76s] English:** Expecting this biology lesson, when I was looking at an Instagram picture of are we looking.  
 **Translation:** 
 
-**[4948.98s] English:** at testicles yeah are these like which species i believe all those are from cows from cows cow  
+**[4948.98s] English:** At the testicles, yeah. Are these like which species? I believe all those are from cows. From cows. Cow.  
 **Translation:** 
 
-**[4957.22s] English:** that's technically female so bulls yeah well uh speaking of which just we'll jump around a bit  
+**[4957.22s] English:** That's technically female, so bulls, yeah. Well, uh, speaking of which, just we'll jump around a bit.  
 **Translation:** 
 
-**[4963.70s] English:** but you've also traveled the world quite a bit uh what have you what is the craziest food you've  
+**[4963.70s] English:** But you've also traveled the world quite a bit, uh, what have you tried that was the craziest food you've had?  
+**Translation:** Vocabulary: technically: 从技术上说
+
+**[4973.54s] English:** Eaten across the world, what have you learned about the extremes?  
 **Translation:** 
 
-**[4973.54s] English:** eaten uh across the world what what have you learned about the extremes  
-**Translation:** 
-
-**[4978.18s] English:** of the world  
+**[4978.18s] English:** Of the world.  
 **Translation:** Vocabulary: extremes: 两端
 
-**[4978.98s] English:** the culinary arts by traveling the world i would say i guess i've always been extra fascinated with  
+**[4978.98s] English:** The culinary arts by traveling the world, I would say I've always been especially fascinated with.  
 **Translation:** 
 
-**[4987.84s] English:** the diets of of natives of the far north um i spent some time there in russia and in alaska  
+**[4987.84s] English:** The diets of natives of the far north, um, I spent some time there in Russia and Alaska.  
 **Translation:** Vocabulary: culinary: 烹饪; fascinated: 着迷
 
-**[4994.52s] English:** and always loved their diet so when i was i worked in alaska in emergency room and did some other  
+**[4994.52s] English:** And I always loved their diet. So, when I was working in Alaska in the emergency room and did some other  
 **Translation:** 
 
-**[5002.14s] English:** travels in the in arctic alaska and you know they eat a lot of fat and traditionally before  
+**[5002.14s] English:** Travels in the Arctic, Alaska, and you know, they eat a lot of fat, and traditionally before.  
+**Translation:** Vocabulary: arctic: 北极的
+
+**[5008.98s] English:** Contact: You know, more than half of all calories in the Inupiaq Eskimo diet came from blubber and marine sources.  
 **Translation:** 
 
-**[5008.98s] English:** contact you know more than half of all calories in the inupiaq eskimo diet came from blubber marine  
+**[5015.34s] English:** Mammal fat, or you know, also fat from fish, fat from ducks and other birds that go up there to.  
+**Translation:** Vocabulary: blubber: 鲸脂; inupiaq: 因纽皮克; mammal: 哺乳动物
+
+**[5020.34s] English:** Mate in the summer, um, so things like raw whale blubber, um, were especially interesting for me.  
 **Translation:** 
 
-**[5015.34s] English:** mammal fat or you know also fat from fish fat from ducks and other other birds that go up there to  
-**Translation:** Vocabulary: blubber: 鲸脂; eskimo: 因纽特人; mammal: 哺乳动物
-
-**[5020.34s] English:** mate in the summer um so things like raw whale blubber um was especially uh interesting for me  
-**Translation:** 
-
-**[5026.54s] English:** and very exciting um you know i had some uh beluga beluga whale chowder things like that  
+**[5026.54s] English:** And it was very exciting, you know. I had some beluga whale chowder things like that.  
 **Translation:** Vocabulary: beluga: 白鲸; chowder: 汤
 
-**[5032.18s] English:** there's just all these very unusual dishes uh you know they uh there's a a dish called mickey yuck  
+**[5032.18s] English:** There's just all these very unusual dishes, you know. They have a dish called Mickey Yuck.  
 **Translation:** 
 
-**[5038.98s] English:** which is whale  
-**Translation:** Vocabulary: mickey: 米奇
-
-**[5040.00s] English:** meat fermented in whale blood, which is quite delicious, actually.  
+**[5038.98s] English:** Which is a whale?  
 **Translation:** 
 
-**[5045.12s] English:** So is it cooked? Is it eaten raw? How do they like their fat, like in the same up north in Russia,  
+**[5040.00s] English:** Meat fermented in whale blood, which is quite delicious, actually.  
+**Translation:** 
+
+**[5045.12s] English:** So, is it cooked? Is it eaten raw? How do they like their fat—like in the same up north in Russia?  
 **Translation:** Vocabulary: fermented: 发酵
 
-**[5053.52s] English:** as you mentioned? So they often eat it raw. So the raw whale blubber is called moktuk,  
+**[5053.52s] English:** As you mentioned, so they often eat it raw. So, the raw whale blubber is called moktuk.  
 **Translation:** 
 
-**[5059.44s] English:** and it's often just sliced thin. And it's sort of cold, but not frozen often when they eat it,  
+**[5059.44s] English:** And it's often just sliced thin. And it's sort of cold, but not frozen, when they eat it.  
+**Translation:** Vocabulary: sliced: 切片的
+
+**[5065.52s] English:** And they slice it thin. And a lot of people assume it would be very chewy, but it's not that way.  
 **Translation:** 
 
-**[5065.52s] English:** and they slice it thin. And a lot of people assume it would be very chewy, but it's not that  
+**[5071.04s] English:** Chewy. It's quite pleasant, actually, and has this kind of sea smell to it as you're eating it. I  
+**Translation:** Vocabulary: chewy: 韧性的
+
+**[5076.30s] English:** Quite like it. And what's the culinary culture like? Meaning, is it just a source of energy,  
 **Translation:** 
 
-**[5071.04s] English:** chewy. It's quite pleasant, actually, and has this kind of sea smell to it as you're eating it. I  
-**Translation:** Vocabulary: chewy: 韧性强
+**[5083.88s] English:** Or is it art? Well, there's you know, traditionally, there's not a lot of cooking.  
+**Translation:** Vocabulary: culinary: 烹饪的
 
-**[5076.30s] English:** quite like it. And what's the culinary culture like? Meaning, is it just source of energy,  
+**[5088.48s] English:** In the Arctic, you know, a lot of things are eaten raw, partly because there's not a lot of  
 **Translation:** 
 
-**[5083.88s] English:** or is it art? Well, there's, you know, traditionally, there's not a lot of cooking  
+**[5095.10s] English:** Fuel.  
+**Translation:** Vocabulary: arctic: 北极的
+
+**[5095.52s] English:** For making fires, so they will, you know, some in some of the big rivers in Russia, for instance.  
 **Translation:** 
 
-**[5088.48s] English:** in, you know, in the Arctic. A lot of things are eaten raw, partly because there's not a lot of  
+**[5101.20s] English:** That flow north, they will bring trees—dead trees and logs—up to the north.  
 **Translation:** 
 
-**[5095.10s] English:** fuel.  
+**[5105.74s] English:** And they can get some wood that way. And the same thing in some of the rivers, kind of flowing.  
 **Translation:** 
 
-**[5095.52s] English:** for making fires. So they will, you know, some in some of the big rivers in Russia, for instance,  
-**Translation:** 
-
-**[5101.20s] English:** that flow north, they will bring trees, you know, dead trees and logs up to the north,  
-**Translation:** 
-
-**[5105.74s] English:** and they can get some wood that way. And same thing in some of the rivers kind of flowing  
-**Translation:** 
-
-**[5110.02s] English:** northward from the Brooks Range of Alaska. You do get some trees, but just not enough to really  
+**[5110.02s] English:** Northward from the Brooks Range of Alaska, you do get some trees, but just not enough to really  
 **Translation:** Vocabulary: brooks: 小溪; northward: 向北
 
-**[5115.22s] English:** produce a culinary art that requires cooking with heat. You know, they do have traditionally  
+**[5115.22s] English:** Produce a culinary art that requires cooking with heat. You know, they do have traditionally.  
 **Translation:** 
 
-**[5122.94s] English:** blubber lamps, where the blubbers of seals and  
-**Translation:** Vocabulary: blubbers: 鲸脂; culinary: 烹饪
+**[5122.94s] English:** Blubber lamps, where the blubber of seals and  
+**Translation:** Vocabulary: blubber: 鲸脂
 
-**[5125.46s] English:** wings are used to cook. And they do have, you know, traditionally, blubber lamps, where the  
+**[5125.46s] English:** Wings are used to cook. And they do have, you know, traditionally, blubber lamps, where the  
 **Translation:** 
 
-**[5125.50s] English:** males are used to create a little flame. Often, that's for light and for a little bit of heat,  
+**[5125.50s] English:** Males are used to create a little flame. Often, that's for light and a little bit of heat.  
 **Translation:** 
 
-**[5131.64s] English:** and less for cooking. But eating things raw is definitely a huge part of the culture there. And  
+**[5131.64s] English:** And it's less about cooking. But eating things raw is definitely a huge part of the culture there. And  
 **Translation:** 
 
-**[5138.00s] English:** while I was, I went on a whale hunting trip out on the spring ice in the Arctic Ocean by Barrow,  
-**Translation:** Vocabulary: barrow: 手推车
+**[5138.00s] English:** While I was out on the spring ice in the Arctic Ocean near Barrow, I went on a whale hunting trip.  
+**Translation:** Vocabulary: barrow: 雪橇
 
-**[5143.54s] English:** Alaska. And two of the guys, the Inupiat guys who had invited me, were kind of talking about how  
+**[5143.54s] English:** Alaska. And two of the guys—the Inupiat guys who had invited me—were kind of talking about how  
 **Translation:** 
 
-**[5150.38s] English:** eating things raw is sort of the most essential characteristic of Inupiat culture. And the one  
-**Translation:** Vocabulary: characteristic: 特征
+**[5150.38s] English:** Eating things raw is sort of the most essential characteristic of Inupiat culture, and the one  
+**Translation:** Vocabulary: characteristic: 特点; inupiat: 因纽皮特人
 
-**[5155.30s] English:** guy who invited me, he was like, I don't know, I don't know, I don't know, I don't know, I don't  
+**[5155.30s] English:** The guy who invited me, he was like, "I don't know, I don't know, I don't know, I don't know, I don't.  
 **Translation:** 
 
-**[5155.48s] English:** know. And the guy who's half white, half Inupiat said people often doubt his ethnicity because he  
-**Translation:** Vocabulary: ethnicity: 民族身份
+**[5155.48s] English:** Know. And the guy who's half white, half Inupiat said people often doubt his ethnicity because he  
+**Translation:** Vocabulary: ethnicity: 种族身份
 
-**[5159.34s] English:** looks like a white guy.  
+**[5159.34s] English:** It looks like a white guy.  
 **Translation:** 
 
-**[5160.00s] English:** guy. So he'll bite the head off of a raw bird to show them that he is truly Inupiaq, is what he  
+**[5160.00s] English:** Guy: So he'll bite the head off of a raw bird to show them that he is truly Inupiaq, is what he said.  
+**Translation:** Vocabulary: inupiaq: 因纽皮克人
+
+**[5166.34s] English:** Said, "That's how you prove you're legit." We're looking at an Instagram pic. As a doctor, I was  
 **Translation:** 
 
-**[5166.34s] English:** said. That's how you prove you're legit. We're looking at an Instagram pic. As a doctor, I was  
+**[5172.30s] English:** Used to knowing fat as the most maligned of all body parts and the culprit in an obesity epidemic.  
+**Translation:** Vocabulary: culprit: 罪魁祸首; epidemic: 流行病; legit: 正牌的; maligned: 被诋毁的; obesity: 肥胖
+
+**[5179.34s] English:** But in Arctic Alaska, fat has always meant health and survival. In fact, the entire story of life,  
 **Translation:** 
 
-**[5172.30s] English:** used to knowing fat as the most maligned of all body parts and the culprit in an obesity epidemic.  
-**Translation:** Vocabulary: culprit: 罪魁祸首; epidemic: 流行病; legit: 正牌; maligned: 诋毁; obesity: 肥胖
-
-**[5179.34s] English:** But in Arctic Alaska, fat has always meant health and survival. In fact, the entire story of life  
-**Translation:** 
-
-**[5186.54s] English:** in the Arctic, especially human life, is basically a tale of fat. And in Borough, what's AK?  
-**Translation:** 
+**[5186.54s] English:** In the Arctic, especially when it comes to human life, is basically a tale of fat. And in Borough, what's AK?  
+**Translation:** Vocabulary: arctic: 北极; borough: 区
 
 **[5193.54s] English:** Alaska.  
 **Translation:** 
 
-**[5194.18s] English:** Alaska, okay. A lawn covered with whale blubber is still equivalent of a plush green lawn in  
-**Translation:** Vocabulary: blubber: 鲸脂; plush: 柔软的
-
-**[5202.62s] English:** temperature suburbia swelling in its owner with pride. And that's what we're looking at is a lawn  
+**[5194.18s] English:** Alaska, okay. A lawn covered with whale blubber would still be equivalent to a plush, green lawn in terms of texture and appearance.  
 **Translation:** 
 
-**[5209.10s] English:** full of whale blubber. A beautiful, and this, so this is, I mean, there's a lot of calories there.  
-**Translation:** Vocabulary: suburbia: 郊区
+**[5202.62s] English:** Temperature, like a swelling in its owner with pride, is what we're looking at—a lawn.  
+**Translation:** 
 
-**[5216.54s] English:** And this can feed a lot of people, a lot of energy, a lot of warmth.  
+**[5209.10s] English:** Full of whale blubber, it's beautiful—and this, so this is, I mean, there are a lot of calories there.  
+**Translation:** Vocabulary: blubber: 鲸脂; swelling: 肿胀
+
+**[5216.54s] English:** And this can feed a lot of people, a lot of energy, and a lot of warmth.  
 **Translation:** 
 
 **[5221.26s] English:** Absolutely. And it's delicious. And this was like, I was a kid in a candy store, basically. I rounded  
 **Translation:** 
 
-**[5227.34s] English:** a corner in Borough. So when people do get a whale during the spring whaling season, they raise a  
+**[5227.34s] English:** A corner in Borough. So, when people do get a whale during the spring whaling season, they raise a  
 **Translation:** 
 
-**[5232.62s] English:** flag or the whaling captain raises a flag over his house and everyone in town is welcome to come  
+**[5232.62s] English:** Flag, or the whaling captain, raises a flag over his house, and everyone in town is welcome to come.  
+**Translation:** Vocabulary: whaling: 捕鲸
+
+**[5237.28s] English:** Try some. And so, before I went inside to try some, I was kind of playing around with blubber, and I  
 **Translation:** 
 
-**[5237.28s] English:** try some. And so before I went inside to try some, I was kind of playing around with blubber and I  
-**Translation:** 
-
-**[5244.20s] English:** saw that this is a bowhead whale.  
+**[5244.20s] English:** Saw that this is a bowhead whale.  
 **Translation:** Vocabulary: bowhead: 座頭鲸
 
-**[5246.54s] English:** I saw its heart, which was huge, like the size of a yoga ball. And that was for me just like  
+**[5246.54s] English:** I saw its heart, which was huge, like the size of a yoga ball. And that was just like  
 **Translation:** 
 
-**[5253.10s] English:** amazing. I spent probably the next 45 minutes just looking at all aspects of it. And the stump of  
+**[5253.10s] English:** Amazing. I spent probably the next 45 minutes just looking at all aspects of it. And the stump,  
 **Translation:** Vocabulary: stump: 树桩
 
-**[5258.08s] English:** aorta that was attached to it was the size of my thigh. That was really fascinating.  
+**[5258.08s] English:** Aorta that was attached to it was the size of my thigh. That was really fascinating.  
 **Translation:** 
 
-**[5263.62s] English:** It's similar Alaska and Northern Russia, like Siberian out there. So where were you? I think  
-**Translation:** Vocabulary: aorta: 主动脉; siberian: 西伯利亚的
+**[5263.62s] English:** It's similar to Alaska and northern Russia, like Siberia out there. So, where were you? I think  
+**Translation:** Vocabulary: aorta: 主动脉; siberia: 西伯利亚
 
-**[5270.84s] English:** you have some pics from that time. Where were you in Russia?  
+**[5270.84s] English:** You have some pics from that time. Where were you in Russia?  
 **Translation:** 
 
-**[5275.26s] English:** So I spent a lot of time in Russia. I spent a lot of time in Russia. I spent a lot of time in Russia.  
+**[5275.26s] English:** So, I spent a lot of time in Russia. I spent a lot of time in Russia. I spent a lot of time in Russia.  
 **Translation:** 
 
-**[5276.52s] English:** in kind of Western Russia as well.  
+**[5276.52s] English:** In kind of Western Russia as well.  
 **Translation:** 
 
-**[5278.66s] English:** But I did...  
+**[5278.66s] English:** But I did....  
 **Translation:** 
 
-**[5280.00s] English:** take two trips to Kamchatka, including northern Kamchatka. I didn't go far enough. I didn't go  
+**[5280.00s] English:** Take two trips to Kamchatka, including northern Kamchatka. I didn't go far enough. I didn't go  
 **Translation:** 
 
-**[5286.98s] English:** to Chukotka, for instance, until more recently when I was a ship doctor on a wildlife cruise  
-**Translation:** Vocabulary: chukotka: 楚科奇卡; kamchatka: 卡梅切卡
+**[5286.98s] English:** To Chukotka, for instance, until more recently, when I was a ship doctor on a wildlife cruise.  
+**Translation:** Vocabulary: chukotka: 楚科奇; kamchatka: Kamchatka半岛
 
-**[5292.34s] English:** that sailed from Anadyr, Russia, up through the Bering Strait into Wrangell Island.  
+**[5292.34s] English:** That sailed from Anadyr, Russia, up through the Bering Strait into Wrangell Island.  
 **Translation:** 
 
-**[5298.98s] English:** And we stopped in some villages in Chukotka, and I got a chance to try some whale and stuff like  
+**[5298.98s] English:** And we stopped in some villages in Chukotka, and I got a chance to try some whale and stuff like it.  
+**Translation:** Vocabulary: anadyr: 安德罗夫港; bering: 白令的; sailed: 航行; strait: 海峡; wrangell: 拉朗格尔岛
+
+**[5304.70s] English:** That. In northern Kamchatka, where it's more the Koryak or the indigenous people, they do a lot.  
 **Translation:** 
 
-**[5304.70s] English:** that. Northern Kamchatka, where it's more the Koryak or the indigenous people, they do a lot  
+**[5309.68s] English:** Of seal hunting, so I had a lot of seal blubber, but I don't believe they do any whale hunting.  
 **Translation:** 
 
-**[5309.68s] English:** of seal hunting. So I had a lot of seal blubber, but I don't believe they do any whale hunting  
-**Translation:** Vocabulary: indigenous: 土著的; koryak: 科亚克族
-
-**[5313.70s] English:** quite there. But the Chukchi, in a way, are sort of similar to the Inupiat in their diet and their  
+**[5313.70s] English:** Quite close, but the Chukchi, in a way, are sort of similar to the Inupiat in their diet and their  
 **Translation:** 
 
-**[5320.94s] English:** life ways. Of course, everyone's diet, all these people's diet has changed dramatically in the last  
-**Translation:** Vocabulary: chukchi: 楚克奇人; dramatically: 剧烈地
+**[5320.94s] English:** Life ways. Of course, everyone's diet, all these people's diets, have changed dramatically in the last  
+**Translation:** Vocabulary: chukchi: 楚克奇人; dramatically: 剧烈地; inupiat: 因纽皮特人
 
-**[5326.10s] English:** hundred years, as it has for actually everyone living in kind of modern societies. But for them,  
+**[5326.10s] English:** Hundred years, as it has for actually everyone living in kind of modern societies. But for them,  
 **Translation:** 
 
-**[5331.28s] English:** perhaps more than anyone else, since their diet was the most extreme, I think, of any human culture  
+**[5331.28s] English:** Perhaps more than anyone else, since their diet was the most extreme of any human culture, I think.  
 **Translation:** 
 
-**[5336.14s] English:** on earth.  
+**[5336.14s] English:** On Earth.  
 **Translation:** 
 
 **[5337.68s] English:** Just to stay on...  
 **Translation:** 
 
-**[5339.68s] English:** The wild travel you did. And I should say, I'm using the word travel, but it really...  
+**[5339.68s] English:** The wild travel you did. And I should say, I'm using the word "travel," but it really...  
 **Translation:** 
 
 **[5346.00s] English:** You were a doctor there.  
 **Translation:** 
 
-**[5350.80s] English:** First of all, can you just comment on the decision to go to such places and to help  
+**[5350.80s] English:** First of all, can you just comment on the decision to go to such places and to help?  
 **Translation:** 
 
-**[5356.70s] English:** people to be a doctor there? What was the motivation? What was the thinking behind it?  
+**[5356.70s] English:** People want to be a doctor there? What was the motivation? What was the thinking behind it?  
 **Translation:** 
 
-**[5360.76s] English:** Well, I think I got the travel bug before I ever went to medical school and even wanted to be a  
+**[5360.76s] English:** Well, I think I got the travel bug before I ever went to medical school, and even wanted to be a  
 **Translation:** 
 
-**[5366.34s] English:** doctor. So right after college, I kind of...  
+**[5366.34s] English:** Doctor, so right after college, I kind of...  
 **Translation:** 
 
-**[5369.68s] English:** I wasn't very into college, didn't enjoy things, kind of wanted to get out there and see the world,  
+**[5369.68s] English:** I wasn't very into college; I didn't enjoy things and kind of wanted to get out there and see the world.  
 **Translation:** 
 
-**[5375.40s] English:** get out of New York City, where I was a student at NYU. The first thing I did after finishing  
+**[5375.40s] English:** Get out of New York City, where I was a student at NYU. The first thing I did after finishing,  
 **Translation:** 
 
-**[5381.56s] English:** college was I was invited to be an intern at a research center in St. Petersburg, Russia.  
+**[5381.56s] English:** College was where I was invited to be an intern at a research center in St. Petersburg, Russia.  
 **Translation:** 
 
-**[5386.64s] English:** I spent six months there on my first trip and went back four more times to Russia,  
+**[5386.64s] English:** I spent six months there on my first trip and went back four more times to Russia.  
 **Translation:** Vocabulary: intern: 实习生; petersburg: 圣彼得堡
 
-**[5392.58s] English:** traveled all over, including to Kamchatka twice and other parts of the country I'd never heard of,  
+**[5392.58s] English:** Traveled all over, including to Kamchatka twice and other parts of the country I'd never heard of.  
 **Translation:** 
 
-**[5398.64s] English:** cities like...  
-**Translation:** 
+**[5398.64s] English:** Cities, like...  
+**Translation:** Vocabulary: kamchatka: 堪察加 Peninsula
 
 **[5399.68s] English:** Petrovka.  
 **Translation:** 
 
-**[5400.00s] English:** zavodsk and siktivkar and pskov i didn't even know a word could start with psk like the city of  
-**Translation:** Vocabulary: petrovka: 彼得罗夫卡; pskov: 普斯科夫
+**[5400.00s] English:** Zavodsk, Siktivkar, and Pskov—I didn't even know a word could start with "Psk" like the city of.  
+**Translation:** Vocabulary: petrovka: 彼得罗夫卡; pskov: 普斯科夫; siktivkar: 西捷列夫; zavodsk: 工厂区
 
-**[5406.42s] English:** pskov but it can yeah um and uh i was sort of fascinated i was actually studying uh the  
+**[5406.42s] English:** Pskov, but it can, yeah, um, and I was sort of fascinated. I was actually studying uh, the  
 **Translation:** 
 
-**[5413.04s] English:** international environmental movement and how it came to russia after the fall of the soviet union  
+**[5413.04s] English:** International environmental movement and how it came to Russia after the fall of the Soviet Union.  
 **Translation:** Vocabulary: fascinated: 着迷
 
-**[5417.94s] English:** and how organizations like greenpeace and world wildlife fund and the world bank are trying to  
+**[5417.94s] English:** And how organizations like Greenpeace, World Wildlife Fund, and the World Bank are trying to  
 **Translation:** 
 
-**[5424.40s] English:** kind of push the timber industry which is huge in russia toward a more sustainable path and so  
-**Translation:** Vocabulary: greenpeace: 绿色和平组织
+**[5424.40s] English:** Kind of push the timber industry, which is huge in Russia, toward a more sustainable path, and so.  
+**Translation:** Vocabulary: greenpeace: 绿色和平; sustainable: 可持续的
 
-**[5430.12s] English:** sort of evaluating how is it working if not why not and that seems like such a little niche such  
+**[5430.12s] English:** Sort of evaluating how it's working, if not, why not? And that seems like such a small niche, such  
 **Translation:** 
 
-**[5436.58s] English:** a small detail about russian society but in a way researching that in depth was almost this window  
-**Translation:** Vocabulary: evaluating: 评估; niche: 细分市场
+**[5436.58s] English:** A small detail about Russian society, but in a way, researching that in depth was almost like opening a window.  
+**Translation:** Vocabulary: evaluating: 评估; niche: 细分领域; researching: 研究
 
-**[5442.60s] English:** into the entire country and the history in a place i knew nothing about and i learned the language  
+**[5442.60s] English:** Into the entire country and its history, in a place I knew nothing about, and I learned the language.  
 **Translation:** 
 
-**[5447.84s] English:** traveled all over the country you know got to know the food the history the literature is just a  
+**[5447.84s] English:** Traveled all over the country, you know, got to know the food, the history, and the literature is just amazing.  
 **Translation:** 
 
-**[5453.54s] English:** immersive and  
+**[5453.54s] English:** Immersive and  
 **Translation:** 
 
-**[5454.40s] English:** amazing and life-changing experience that made me want to see every every spot on the globe  
+**[5454.40s] English:** An amazing and life-changing experience that made me want to see every spot on the globe.  
 **Translation:** Vocabulary: immersive: 身临其境的
 
-**[5460.48s] English:** basically learn about every culture so i took that desire with me to medical school um i decided i  
+**[5460.48s] English:** Basically, I learned about every culture so I took that desire with me to medical school. Um, I decided I  
 **Translation:** 
 
-**[5467.04s] English:** would go to medical school and uh from the very beginning i was intent on traveling around the  
+**[5467.04s] English:** Would go to medical school, and from the very beginning, I was intent on traveling around the world.  
+**Translation:** Vocabulary: intent: 决心
+
+**[5472.30s] English:** The world has shaped a lot of my career, so I've been practicing medicine in a place with  
 **Translation:** 
 
-**[5472.30s] English:** world so a lot of my career has been fashioned so that i'm practicing medicine in a place with  
+**[5478.44s] English:** An interesting geographic context, in an interesting place with an interesting cultural context.  
 **Translation:** 
 
-**[5478.44s] English:** an interesting geographic context an interesting place with an interesting cultural context  
+**[5483.58s] English:** Um.  
 **Translation:** 
 
-**[5483.58s] English:** um  
+**[5484.40s] English:** And that just makes it more interesting, I find. Not only are medical services often more needed in  
 **Translation:** 
 
-**[5484.40s] English:** and that just makes it more interesting i find not only are medical services often more needed in  
+**[5489.92s] English:** These remote and rural parts of the country and world, so I feel like I'm really making a difference.  
 **Translation:** 
 
-**[5489.92s] English:** these remote and rural parts of the country and world so i feel like i'm you know taking my  
+**[5495.04s] English:** Knowledge and education can be taken to places where it's needed, but also for me, it's just such an  
 **Translation:** 
 
-**[5495.04s] English:** knowledge and education experience to places where it's needed but also for me it's just a such an  
+**[5500.00s] English:** An enlightening experience: the way culture, history, geography, and climate affect medical diseases, but just  
 **Translation:** 
 
-**[5500.00s] English:** enlightening experience the way culture history geography climate affects medical disease but just  
-**Translation:** 
-
-**[5506.72s] English:** getting to know people getting another culture being a very useful traveler by um you know  
+**[5506.72s] English:** Getting to know people and getting to understand another culture can be very useful for a traveler, you know.  
 **Translation:** Vocabulary: enlightening: 启发性的
 
-**[5512.16s] English:** providing medical services in that place and i think that's just kind of a core element to the  
+**[5512.16s] English:** Providing medical services in that place, and I think that's just kind of a core element to the  
 **Translation:** 
 
-**[5514.24s] English:** And that's taken me to Arctic Alaska, to Pine Ridge Reservation, South Dakota. I currently work  
+**[5514.24s] English:** And that's taken me to Arctic Alaska and Pine Ridge Reservation, South Dakota. I currently work.  
+**Translation:** Vocabulary: arctic: 北极的
+
+**[5520.00s] English:** In a few different parts of Pennsylvania, Appalachia, which for me is a unique geography.  
 **Translation:** 
 
-**[5520.00s] English:** in a few different parts of Pennsylvania, Appalachia, which for me is a unique geography  
+**[5526.06s] English:** And culture that I didn't grow up with, and wasn't familiar with. So, in some ways, it's exotic for me.  
+**Translation:** Vocabulary: appalachia: Appalachian 地区; exotic: 独特的
+
+**[5531.42s] English:** Me, as well. I worked in other places too, like Calcutta, India, and Nepal. I think my love of travel,...  
 **Translation:** 
 
-**[5526.06s] English:** and culture that I didn't grow up with, wasn't familiar with. So in some ways, it's exotic for  
-**Translation:** 
-
-**[5531.42s] English:** me as well. I worked in other places too, like Calcutta, India, Nepal. I think my love of travel  
-**Translation:** 
-
-**[5538.98s] English:** has shaped my medical career. And being a doctor does give you these opportunities to go to places  
+**[5538.98s] English:** Has shaped my medical career. And being a doctor does give you these opportunities to go to places.  
 **Translation:** Vocabulary: calcutta: 加尔各答; nepal: 尼泊尔
 
-**[5544.18s] English:** and travel in a unique way through the medical profession.  
+**[5544.18s] English:** And travel in a unique way through the medical profession.  
 **Translation:** 
 
-**[5550.00s] English:** There's a documentary, Happy People, here in the Taiga or something like that.  
+**[5550.00s] English:** There's a documentary called "Happy People," here in the taiga, or something like that.  
 **Translation:** Vocabulary: taiga: 针叶林区
 
-**[5555.18s] English:** I think Warner Herzog voices it. It tells a story of a simple life of survival  
+**[5555.18s] English:** I think Werner Herzog voices it. It tells a story of a simple life of survival.  
 **Translation:** 
 
-**[5561.90s] English:** in the Taiga. And I think they're trapping for food. And there's an alcoholism problem too as  
-**Translation:** Vocabulary: alcoholism: 酗酒问题; herzog: 赫尔佐格
+**[5561.90s] English:** In the Taiga, and I think they're trapping for food. And there's also an alcoholism problem too.  
+**Translation:** Vocabulary: alcoholism: 酒精成瘾
 
-**[5571.52s] English:** well. There's a very basic life of survival, of loneliness, of desperation, but also,  
+**[5571.52s] English:** Well, there's a very basic life of survival, of loneliness, of desperation, but also,...  
 **Translation:** 
 
-**[5580.00s] English:** I think the underlying claim of the documentary is that that simple life actually has a kind of simple happiness to it, hence the name Happy People.  
+**[5580.00s] English:** I think the underlying claim of the documentary is that a simple life actually has a kind of simple happiness to it, hence the name "Happy People.  
 **Translation:** Vocabulary: desperation: 绝望; loneliness: 孤独
 
-**[5598.38s] English:** Can you speak to the life that people live in those places when it may be simpler than you would in sort of big city life?  
+**[5598.38s] English:** Can you speak to the life that people live in those places, when it may be simpler than life in a big city?  
 **Translation:** 
 
 **[5612.16s] English:** It's definitely very different, for sure.  
 **Translation:** 
 
-**[5616.16s] English:** You know, I guess I found, like in some of the remote villages of Kamchatka, I was actually surprised how similar they were in that, you know,  
+**[5616.16s] English:** You know, I guess I found, like in some of the remote villages of Kamchatka, I was actually surprised how similar they were—in that, you know,  
 **Translation:** 
 
 **[5625.70s] English:** I saw the same family strife.  
-**Translation:** Vocabulary: strife: 矛盾冲突
+**Translation:** Vocabulary: kamchatka: Kamchatka地区; strife: 冲突
 
-**[5628.38s] English:** The same fights, the same, you know, kind of pairing of relationships and bickering and politics and, you know, in a way, from the  
+**[5628.38s] English:** The same fights: the same, you know, kind of pairing of relationships and bickering and politics, and, you know, in a way, from the  
 **Translation:** 
 
-**[5640.00s] English:** New Jersey suburbs, and yet being in this remote village of northern Kamchatka, I remember writing  
-**Translation:** Vocabulary: bickering: 争吵; kamchatka: 堪察加
+**[5640.00s] English:** New Jersey suburbs, and yet being in this remote village of northern Kamchatka, I remember writing.  
+**Translation:** Vocabulary: bickering: 争吵; suburbs: 郊区
 
-**[5646.30s] English:** an email to my friend about how it just seemed so similar, even though on the surface, it was  
+**[5646.30s] English:** An email to my friend about how it just seemed so similar, even though on the surface, it was.  
 **Translation:** 
 
-**[5650.24s] English:** this exotic other world, the incredible material know-how they must have to get their food from  
+**[5650.24s] English:** This exotic other world, the incredible material know-how they must have to get their food from,...  
+**Translation:** Vocabulary: exotic: 异域的
+
+**[5656.96s] English:** The land, you know, has a number of animal species, plant species, and the behaviors of the  
 **Translation:** 
 
-**[5656.96s] English:** the land, you know, that the number of animal species, plant species, the behaviors of the  
+**[5661.54s] English:** Animals, seasons, and how to live that way. In a way, it's more complicated; in another way, I find...  
 **Translation:** 
 
-**[5661.54s] English:** animals, seasons, how to live that way. In a way, it's more complicated in a way that I find  
+**[5667.46s] English:** Fascinating how people live on the land and the knowledge and experience it takes to do it well.  
 **Translation:** 
 
-**[5667.46s] English:** fascinating, how people live on the land and the knowledge and experience it takes to do it well  
+**[5671.96s] English:** And survive. You know, obviously, other aspects of modern life in a city are much more complicated.  
 **Translation:** 
 
-**[5671.96s] English:** and survive. You know, obviously, other aspects of modern life in a city are much more complicated  
+**[5677.84s] English:** Than it would be there, but I guess that was something that struck me, too; it's simpler.  
 **Translation:** 
 
-**[5677.84s] English:** than they would be there, but I guess that was something that struck me, too, that it's simpler  
-**Translation:** 
-
-**[5683.10s] English:** in some ways, but more complicated in other ways. So, some of the complexity that happens in life  
+**[5683.10s] English:** In some ways, but more complicated in other ways. So, some of the complexity that happens in life.  
 **Translation:** Vocabulary: complexity: 复杂性
 
-**[5688.44s] English:** is originated from humans, not from the technology or all that kind of stuff around us.  
+**[5688.44s] English:** Is it originated from humans, not from the technology or all that kind of stuff around us?  
 **Translation:** 
 
 **[5695.12s] English:** You can take the human out of modernity, but...  
@@ -3427,235 +3428,235 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[5698.30s] English:** They're still human, and they fill the empty space with their own human complexities.  
 **Translation:** 
 
-**[5703.06s] English:** Are there people that just stand out, memorable people, memorable experiences from those places?  
+**[5703.06s] English:** Are there people that just stand out, memorable people, and memorable experiences from those places?  
 **Translation:** 
 
-**[5713.54s] English:** Some people that maybe made you smile, made you cry,  
+**[5713.54s] English:** Some people might have made you smile, or made you cry.  
 **Translation:** 
 
-**[5718.34s] English:** change who you are as a man, change who you are as a doctor? Anything jumps to mind?  
+**[5718.34s] English:** Change who you are as a man, change who you are as a doctor? Anything comes to mind?  
 **Translation:** 
 
 **[5724.12s] English:** I think, you know, when I was... It was interesting when I was in Russia,  
 **Translation:** 
 
-**[5727.20s] English:** I found...  
+**[5727.20s] English:** I found....  
 **Translation:** 
 
 **[5727.46s] English:** I found that most of the people I hung out with were old women. I'm not sure why. I mean,  
 **Translation:** 
 
-**[5733.24s] English:** actually, I didn't meet a lot of old men in Russia, which might speak to kind of  
+**[5733.24s] English:** Actually, I didn't meet a lot of old men in Russia, which might speak to that fact.  
 **Translation:** 
 
-**[5737.34s] English:** life expectancy there for men in particular. But I found women, older Russian women, including,  
+**[5737.34s] English:** Life expectancy there, particularly for men. But I found women, especially older Russian women, including,  
 **Translation:** 
 
-**[5744.86s] English:** you know, Russian from St. Petersburg or some of the elderly women in Kamchatka who were,  
+**[5744.86s] English:** You know, Russian from St. Petersburg or some of the elderly women in Kamchatka who were,  
 **Translation:** 
 
-**[5750.48s] English:** you know, some were Koryak, some were half Koryak, half Russian, some were Chukchi.  
-**Translation:** Vocabulary: chukchi: 楚科奇人; koryak: 科亚克人; petersburg: 彼得堡
+**[5750.48s] English:** You know, some were Koryak, some were half-Koryak and half-Russian, and some were Chukchi.  
+**Translation:** Vocabulary: chukchi: 楚科奇人; kamchatka: 堪察加; koryak: 科亚克人; petersburg: 彼得堡
 
-**[5754.90s] English:** I just found them to have... To be so...  
+**[5754.90s] English:** I just found them to have... to be so...  
 **Translation:** 
 
-**[5757.46s] English:** To be so enlightening the way they talked about...  
+**[5757.46s] English:** To be so enlightening, the way they talked about...  
 **Translation:** Vocabulary: enlightening: 启发性的
 
-**[5760.00s] English:** history, about people, so insightful about humanity, you know, all they've lived through  
+**[5760.00s] English:** History, about people, is so insightful about humanity—you know, all they've lived through.  
 **Translation:** 
 
-**[5764.76s] English:** in the last 50 years in some of these parts of Russia, like the upheaval, societal upheaval,  
+**[5764.76s] English:** In the last 50 years, in some parts of Russia, there has been significant societal upheaval.  
 **Translation:** Vocabulary: societal: 社会的; upheaval: 动荡
 
-**[5770.42s] English:** the destruction, the building up. It's just something I could not even imagine.  
+**[5770.42s] English:** The destruction, the building up. It's just something I could not even imagine.  
 **Translation:** 
 
-**[5775.86s] English:** And I think their insights were just very, I'm not thinking of anything in particular,  
+**[5775.86s] English:** And I think their insights were just very, I'm not thinking of anything in particular.  
 **Translation:** 
 
-**[5779.76s] English:** but I just remember I could listen to some of these elderly women talk about their lives for  
+**[5779.76s] English:** But I just remember I could listen to some of these elderly women talk about their lives for.  
 **Translation:** 
 
-**[5784.26s] English:** hours and hours. I remember there was this older, elderly, blind, Koriak woman, who you would have  
+**[5784.26s] English:** Hours and hours. I remember there was an older, elderly, blind Koryak woman, whom you would have  
 **Translation:** 
 
-**[5791.06s] English:** thought was the, you know, most country bumpkin of country bumpkin, and yet she couldn't stop  
+**[5791.06s] English:** Thought was the most country bumpkin of all, and yet she couldn't stop.  
 **Translation:** 
 
-**[5795.02s] English:** talking about how much she loved reading Dostoevsky and Tolstoy, which might also speak to the Soviet  
+**[5795.02s] English:** Talking about how much she loved reading Dostoevsky and Tolstoy, which might also speak to the Soviet.  
 **Translation:** Vocabulary: bumpkin: 乡巴佬; dostoevsky: 陀思妥耶夫斯基; tolstoy: 托尔斯泰
 
-**[5799.96s] English:** education system. And it was just sort of surprising and fascinating, and just those  
+**[5799.96s] English:** Education system. And it was just sort of surprising and fascinating, and just those.  
 **Translation:** 
 
-**[5805.20s] English:** stories and perspectives on life really stayed with me.  
+**[5805.20s] English:** Stories and perspectives on life really stayed with me.  
 **Translation:** Vocabulary: perspectives: 观点
 
 **[5808.96s] English:** Yeah, with Babushka, there's  
 **Translation:** 
 
-**[5814.10s] English:** a  
-**Translation:** Vocabulary: babushka: 老妇人头巾
+**[5814.10s] English:** A  
+**Translation:** Vocabulary: babushka: 老妇人
 
-**[5814.26s] English:** wisdom, there's a kindness. I mean, I suppose that's true for older people in general,  
+**[5814.26s] English:** Wisdom, there's a kindness. I mean, I suppose that's true for older people in general.  
 **Translation:** 
 
-**[5825.60s] English:** but there's something about, it's not just Russia, it's Eastern Europe. It's like this kind of look  
+**[5825.60s] English:** But there's something about it; it's not just Russia, it's Eastern Europe. It's like this kind of look.  
 **Translation:** 
 
-**[5835.38s] English:** of wisdom, and not just like sort of middle class wisdom or something like that. It's like,  
+**[5835.38s] English:** Of wisdom, and not just some sort of middle-class wisdom or something like that. It's like,  
 **Translation:** 
 
-**[5844.26s] English:** I have seen some shit, wisdom. I've seen it all. And on the other side, I'm left here with a  
+**[5844.26s] English:** I have seen some shit, Wisdom. I've seen it all. And on the other side, I'm left here with a  
 **Translation:** 
 
-**[5853.92s] English:** pragmatism and a compassion, and also an ability to cook really well.  
+**[5853.92s] English:** Pragmatism and a compassion, and also an ability to cook really well.  
 **Translation:** 
 
 **[5859.40s] English:** That's for sure. Absolutely.  
 **Translation:** Vocabulary: compassion: 同情; pragmatism: 实用主义
 
-**[5861.58s] English:** There's just this balance of just deep intelligence and deep kindness. And yeah, I mean, I,  
+**[5861.58s] English:** There's just a balance of deep intelligence and deep kindness. And, yeah, I mean, I,...  
 **Translation:** 
 
-**[5868.78s] English:** part, much of who I am is because of the relationship I had with my grandmother, who was  
+**[5868.78s] English:** Part of who I am is because of the relationship I had with my grandmother, who was  
 **Translation:** 
 
-**[5874.26s] English:** a, a Russian, Ukrainian born, Russian grandmother.  
+**[5874.26s] English:** A Russian, Ukrainian-born, Russian grandmother.  
 **Translation:** 
 
-**[5880.00s] English:** did you learn the russian language i did it's quite rusty at this point but um i did uh one  
+**[5880.00s] English:** Did you learn the Russian language? I did, but it's quite rusty at this point, but um, I did, uh, one  
 **Translation:** 
 
-**[5888.06s] English:** of the one of these wonderful elderly russians in in uh saint petersburg sort of adopted me i think  
+**[5888.06s] English:** Of the one of these wonderful elderly Russians in Saint Petersburg, sort of adopted me, I think.  
 **Translation:** 
 
-**[5892.78s] English:** that was another thing that a lot of these um elderly women on every side of the country kind  
+**[5892.78s] English:** That was another thing that a lot of these elderly women on every side of the country kind  
 **Translation:** Vocabulary: petersburg: 圣彼得堡
 
-**[5898.38s] English:** of adopted me or saw me as this real curiosity you know sort of just not i mean this was around  
+**[5898.38s] English:** Of all those who adopted me or saw me as this real curiosity, you know, sort of just not—this was around.  
 **Translation:** 
 
-**[5903.46s] English:** 2002 2003 it just wasn't common for this sort of strange american to suddenly show up in the  
+**[5903.46s] English:** In 2002 and 2003, it just wasn't common for this sort of strange American to suddenly show up in the  
 **Translation:** 
 
-**[5909.66s] English:** middle of kamchatka or even saint petersburg um and just absolutely ravenously curious about  
+**[5909.66s] English:** Middle of Kamchatka, or even Saint Petersburg, um, and just absolutely ravenously curious about.  
 **Translation:** 
 
-**[5914.96s] English:** everything they had to say so i often got adopted and one of them taught me russian and how to ride  
-**Translation:** Vocabulary: kamchatka: 堪察加; ravenously: 贪婪地
+**[5914.96s] English:** Everything they had to say, so I often got adopted. And one of them taught me Russian and how to ride.  
+**Translation:** Vocabulary: kamchatka: 堪察加; ravenously: 如饥似渴地
 
-**[5920.74s] English:** a horse um so the same same babushka taught me both of those things and like you said also i  
+**[5920.74s] English:** A horse, um, so the same babushka taught me both of those things, and, like you said, also I.  
 **Translation:** 
 
-**[5927.74s] English:** should mention that there's something about the soviet education system where yeah everybody  
+**[5927.74s] English:** Should mention that there's something about the Soviet education system where, yeah, everybody  
+**Translation:** Vocabulary: babushka: 老妇人
+
+**[5932.02s] English:** Reads Tolstoy, Dostoevsky; it's exceptionally well-read, no matter where life has taken you, no matter.  
 **Translation:** 
 
-**[5932.02s] English:** reads tolstoy dostoevsky it's exceptionally well read no matter where life has taken you no matter  
-**Translation:** 
-
-**[5938.80s] English:** where you come from  
+**[5938.80s] English:** Where do you come from?  
 **Translation:** Vocabulary: dostoevsky: 陀思妥耶夫斯基; exceptionally: 非常; tolstoy: 托尔斯泰
 
-**[5939.66s] English:** the literature the mathematics the sciences they're all like um extremely well educated  
+**[5939.66s] English:** The literature, the mathematics, the sciences—they're all like extremely well-educated.  
 **Translation:** 
 
-**[5946.34s] English:** and that creates a fascinating um populace like then you take that education that excellent  
-**Translation:** Vocabulary: populace: 人群
-
-**[5955.76s] English:** early education and you throw a bunch of hardship at those people and then they kind of um cook in  
+**[5946.34s] English:** And that creates a fascinating population. Like, then you take that education, which is excellent.  
 **Translation:** 
 
-**[5965.46s] English:** that hardship and come out really fascinating people on the other end  
+**[5955.76s] English:** Early education, and you throw a bunch of hardships at those people, and then they kind of struggle.  
 **Translation:** 
 
-**[5969.66s] English:** um it makes me surprised sort of that for instance like russian medical science is not  
+**[5965.46s] English:** That's a tough journey, and coming out the other end, you find some really fascinating people.  
+**Translation:** Vocabulary: hardships: 艰难困苦
+
+**[5969.66s] English:** Um, it makes me a bit surprised that, for instance, Russian medical science is not  
 **Translation:** 
 
-**[5975.00s] English:** doesn't you don't see a lot of sort of studies uh medical studies advancing of medical science  
-**Translation:** Vocabulary: advancing: 发展
+**[5975.00s] English:** Don't you see a lot of studies, or medical studies advancing medical science?  
+**Translation:** Vocabulary: advancing: 推动
 
-**[5981.02s] English:** come out of russia it's just sort of i i'm surprised sort of i wish that it would you  
+**[5981.02s] English:** Come out of Russia; it's just sort of, I'm surprised. Sort of, I wish that it would...  
 **Translation:** 
 
-**[5985.78s] English:** know i visited akadem gorodok outside uh novosibirsk which is an entire city the soviets  
-**Translation:** Vocabulary: novosibirsk: 诺夫诺尔斯克
+**[5985.78s] English:** I know I visited Akademgorodok outside of Novosibirsk, which is an entire city the Soviets  
+**Translation:** Vocabulary: akademgorodok: 科学院城; soviets: 苏联
 
-**[5990.80s] English:** created just for the study of science and it's like there's the geology building and there's  
+**[5990.80s] English:** Created just for the study of science, and it's like there's the geology building, and there's  
 **Translation:** 
 
-**[5994.78s] English:** the biology building and there's the chemistry building and i just feel like russia has a lot of  
+**[5994.78s] English:** The biology building, and there's the chemistry building, and I just feel like Russia has a lot of.  
 **Translation:** 
 
-**[5999.66s] English:** this  
+**[5999.66s] English:** This  
 **Translation:** 
 
-**[6000.00s] English:** to be a science powerhouse or even in the medical sciences but i guess you just i don't see it i'm  
+**[6000.00s] English:** To be a science powerhouse, or even in the medical sciences, but I guess you just don't see it; I'm  
 **Translation:** Vocabulary: powerhouse: 强大力量
 
-**[6005.70s] English:** not sure why i mean you can certainly guess as to why and i i i see the same thing in the other in  
+**[6005.70s] English:** Not sure why I mean, you can certainly guess as to why, and I see the same thing in the other one too.  
 **Translation:** 
 
-**[6013.80s] English:** the sciences i hold the dearest sort of in computer science in the engineering fields  
+**[6013.80s] English:** The sciences I hold the dearest are in computer science and the engineering fields.  
 **Translation:** 
 
-**[6019.30s] English:** i kind of long held this uh desire by long i mean last couple years because a bunch of people  
+**[6019.30s] English:** I kind of had this long-held desire, by "long" I mean over the last couple of years, because a bunch of people...  
 **Translation:** 
 
-**[6028.02s] English:** reached out to me from yandex and moscow state to give lectures there to sort of connect you know  
+**[6028.02s] English:** Reached out to me from Yandex and Moscow State to give lectures there to sort of connect, you know.  
 **Translation:** 
 
-**[6034.58s] English:** why why so little science is coming out of there why so little um that we hear about and it feels  
+**[6034.58s] English:** Why is so little science coming out of there? Why do we hear so little about it, and it feels  
 **Translation:** 
 
-**[6042.00s] English:** like we should be able to bridge the scientific community like uh the science let's even say  
+**[6042.00s] English:** Like, we should be able to bridge the scientific community, like, even say, "the science  
 **Translation:** 
 
-**[6049.36s] English:** even in turmoil of geopolitics even in global conflict i feel like science should be bigger  
+**[6049.36s] English:** Even in the turmoil of geopolitics, and even in global conflict, I feel like science should be bigger.  
 **Translation:** 
 
-**[6055.06s] English:** than that um but  
-**Translation:** Vocabulary: geopolitics: 地缘政治; turmoil: 动荡
+**[6055.06s] English:** Than that, um, but  
+**Translation:** Vocabulary: geopolitics: 国际政治; turmoil: 动荡
 
-**[6057.04s] English:** um  
+**[6057.04s] English:** Um.  
 **Translation:** 
 
-**[6058.02s] English:** why do we not hear from the scientists is because of the limitations on human freedoms on scientific  
+**[6058.02s] English:** Why don't we hear from the scientists because of the limitations on human freedoms in scientific research?  
 **Translation:** 
 
-**[6064.02s] English:** freedoms i feel like in in china in russia in any regime of its sort you should give freedom  
+**[6064.02s] English:** Freedoms: I feel like, in China, in Russia, in any regime of its sort, you should give freedom.  
 **Translation:** 
 
-**[6074.00s] English:** to scientists to to flourish and to interact with others and you can only grow from that  
+**[6074.00s] English:** To scientists, to flourish and interact with others, and you can only grow from that.  
 **Translation:** Vocabulary: flourish: 蓬勃发展
 
-**[6080.64s] English:** you shouldn't suppress that the sort of cold war ideas we should put those aside  
+**[6080.64s] English:** You shouldn't suppress the idea that, sort of, cold war thinking should be put aside.  
 **Translation:** 
 
-**[6086.54s] English:** as uh somebody  
+**[6086.54s] English:** As someone, uh,...  
 **Translation:** Vocabulary: suppress: 压制
 
-**[6088.02s] English:** who spent time in russia as somebody who learned russian do you have some thoughts that you want to  
+**[6088.02s] English:** Who spent time in Russia as somebody who learned Russian? Do you have some thoughts that you want to share?  
 **Translation:** 
 
-**[6098.02s] English:** say about the war in ukraine currently it's tragic of course um seemingly pointless to watch the  
-**Translation:** Vocabulary: pointless: 毫无意义
+**[6098.02s] English:** Say about the war in Ukraine, currently it's tragic, of course, seemingly pointless to watch the.  
+**Translation:** Vocabulary: pointless: 毫无意义的
 
-**[6106.90s] English:** destruction of a country in real time um i guess it's you know when you read russian history and  
+**[6106.90s] English:** Destruction of a country in real time, um, I guess it's you know, when you read Russian history and  
 **Translation:** 
 
-**[6113.92s] English:** ukrainian history i guess it just it's sort of you know destruction of a country in real time  
+**[6113.92s] English:** Ukrainian history—I guess it's just kind of the destruction of a country in real time.  
 **Translation:** 
 
-**[6118.02s] English:** is a big part of it  
+**[6118.02s] English:** Is a big part of it.  
 **Translation:** 
 
-**[6120.00s] English:** The populace being beaten down is a big part of it, you know, from the Mongolian hordes through the Tsar and the Soviets and Putin.  
-**Translation:** Vocabulary: hordes: 部落; mongolian: 蒙古人; populace: 民众
+**[6120.00s] English:** The populace being beaten down is a big part of it, you know—from the Mongolian hordes through the Tsar and the Soviets and Putin.  
+**Translation:** Vocabulary: beaten: 被压迫; hordes: 部落; mongolian: 蒙古的; populace: 民众; soviets: 苏联
 
-**[6129.00s] English:** I guess, you know, it's just in science, in particular medical science, it feels like this sort of unrealized potential.  
+**[6129.00s] English:** I guess, you know, it's just in science, in particular medical science, it feels like there's this sort of unrealized potential.  
 **Translation:** 
 
 **[6136.02s] English:** You know, the culture is so beautiful.  
@@ -3664,62 +3665,62 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[6138.18s] English:** The people are so smart and well-educated.  
 **Translation:** 
 
-**[6140.66s] English:** I think the word unrealized potential is kind of how I feel.  
+**[6140.66s] English:** I think the term "unrealized potential" is kind of how I feel.  
 **Translation:** 
 
-**[6144.22s] English:** That's why I wanted to celebrate that part of the world is there's so many beautiful people, so many brilliant people.  
+**[6144.22s] English:** That's why I wanted to celebrate that part of the world; there are so many beautiful people, so many brilliant people.  
 **Translation:** 
 
-**[6151.64s] English:** And I just happen to know the language, so I'm able to appreciate the beauty of those people.  
+**[6151.64s] English:** And I just happen to know the language, so I'm able to appreciate the beauty of their people.  
 **Translation:** 
 
 **[6156.24s] English:** I'm sure the same is true in China.  
 **Translation:** 
 
-**[6158.66s] English:** I'm sure that's one of the things that makes me sad is there's all these cultures that I don't know about.  
+**[6158.66s] English:** I'm sure that's one of the things that makes me sad: there are all these cultures that I don't know about.  
 **Translation:** 
 
 **[6164.68s] English:** I can't fully appreciate their brilliance.  
 **Translation:** 
 
-**[6166.34s] English:** Even Japan and places like that, there's channels of communication wide open and there's a lot of interaction.  
+**[6166.34s] English:** Even in Japan and places like that, there are wide-open channels of communication and a lot of interaction.  
 **Translation:** Vocabulary: brilliance: 卓越
 
-**[6174.30s] English:** It's still, not knowing the language, I feel like I miss some of the culture.  
+**[6174.30s] English:** It's still, not knowing the language, that I feel like I'm missing out on some of the culture.  
 **Translation:** 
 
-**[6178.56s] English:** Or Portuguese and, you know, looking at South America and all that kind of stuff.  
+**[6178.56s] English:** Or Portuguese, and you know, looking at South America and all that kind of stuff.  
 **Translation:** Vocabulary: portuguese: 葡萄牙语
 
 **[6184.26s] English:** But anyway, in Russia, there certainly is that unrealized potential.  
 **Translation:** 
 
-**[6188.42s] English:** In Ukraine, so many brilliant scientists, engineers came from Ukraine, from Russia.  
+**[6188.42s] English:** In Ukraine, so many brilliant scientists and engineers came from Ukraine and Russia.  
 **Translation:** 
 
 **[6194.02s] English:** And I hope they get to flourish soon.  
 **Translation:** 
 
-**[6198.54s] English:** And I hope we put this, I hope we stop this war.  
-**Translation:** Vocabulary: flourish: 繁荣昌盛
+**[6198.54s] English:** And I hope we can put an end to this war.  
+**Translation:** Vocabulary: flourish: 繁荣
 
 **[6204.22s] English:** Because all war is hell.  
 **Translation:** 
 
-**[6208.54s] English:** Is there something to comment about the biology of war?  
+**[6208.54s] English:** Is there anything to comment on the biology of war?  
 **Translation:** 
 
-**[6215.40s] English:** Is there echoes of the emergency room experience?  
+**[6215.40s] English:** Is there any echo of the emergency room experience?  
 **Translation:** 
 
-**[6221.04s] English:** Have you dealt with patients that have been touched by wartime?  
+**[6221.04s] English:** Have you dealt with patients that have been touched by war?  
 **Translation:** 
 
 **[6229.60s] English:** Definitely.  
 **Translation:** 
 
-**[6230.44s] English:** War and medicine has a very intricate and complex relationship.  
-**Translation:** 
+**[6230.44s] English:** War and medicine have a very intricate and complex relationship.  
+**Translation:** Vocabulary: intricate: 错综复杂的
 
 **[6234.94s] English:** I don't know if it was Walt Whitman who said it, though he was a nurse during the Civil War.  
 **Translation:** 
@@ -3727,173 +3728,173 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[6238.84s] English:** That war.  
 **Translation:** Vocabulary: whitman: 惠特曼
 
-**[6240.00s] English:** is the best medical school, but some people have said that. And, you know, even advancements in  
+**[6240.00s] English:** Is the best medical school, but some people have said that. And, you know, even advancements in,...  
 **Translation:** 
 
-**[6246.36s] English:** medicine come from war. You know, the wars in Iraq and Afghanistan have, in some ways,  
+**[6246.36s] English:** Medicine comes from war. You know, the wars in Iraq and Afghanistan have, in some ways,  
 **Translation:** Vocabulary: advancements: 进步; afghanistan: 阿富汗
 
-**[6252.22s] English:** really revolutionized certain aspects of the way we treat trauma patients in the civilian world as  
+**[6252.22s] English:** Really, it has revolutionized certain aspects of the way we treat trauma patients in the civilian world.  
 **Translation:** 
 
-**[6256.88s] English:** well. The importance of tourniquets, the importance of transfusing whole blood instead of, you know,  
+**[6256.88s] English:** Well, the importance of tourniquets, the importance of transfusing whole blood instead of, you know,  
 **Translation:** Vocabulary: revolutionized: 彻底改变; tourniquets: 止血带; transfusing: 输血; trauma: 创伤
 
-**[6263.12s] English:** red blood cells isolated from serum and platelets, etc. The importance of pain control in the  
+**[6263.12s] English:** Red blood cells isolated from serum and platelets, etc. The importance of pain control in the  
 **Translation:** 
 
-**[6268.70s] English:** battlefield, that's changed dramatically. Everything from ketamine injections to fentanyl  
-**Translation:** Vocabulary: battlefield: 战场; dramatically: 显著地; fentanyl: 芬太尼; injections: 注射; isolated: 分离; ketamine: 氯胺酮; platelets: 血小板; serum: 血清
+**[6268.70s] English:** Battlefield medicine has changed dramatically. Everything from ketamine injections to fentanyl  
+**Translation:** Vocabulary: battlefield: 战场; dramatically: 剧烈地; fentanyl: 芬太尼; injections: 注射; isolated: 分离; ketamine: 氯胺酮; platelets: 血小板; serum: 血清
 
-**[6272.74s] English:** lollipops in the battlefield. So war has really improved medicine in many ways. In another way,  
+**[6272.74s] English:** Lollipops in the battlefield? So, war has really improved medicine in many ways. In another way,  
 **Translation:** 
 
-**[6280.48s] English:** you know, the Department of Defense spends a lot of money on medical research and kind of really  
-**Translation:** Vocabulary: lollipops: 糖果棒
+**[6280.48s] English:** You know, the Department of Defense spends a lot of money on medical research and kind of really.  
+**Translation:** Vocabulary: lollipops: 糖豆
 
-**[6285.62s] English:** pushes the envelope. You know, DARPA is one aspect of the military budget that really funds these  
+**[6285.62s] English:** Pushes the envelope. You know, DARPA is one aspect of the military budget that really funds these.  
 **Translation:** 
 
-**[6291.16s] English:** moonshot experiments that are really fascinating and really push the frontiers more than seemingly  
-**Translation:** Vocabulary: frontiers: 前沿; moonshot: 雄心勃勃的项目
+**[6291.16s] English:** Moonshot experiments that are really fascinating and really push the frontiers more than seemingly.  
+**Translation:** Vocabulary: experiments: 实验; frontiers: 边界; moonshot: 雄心勃勃的项目
 
-**[6298.70s] English:** most, you know, kind of universities doing it, doctors and researchers doing their research.  
+**[6298.70s] English:** Most, you know, kind of universities are doing it, doctors and researchers conducting their research.  
 **Translation:** 
 
-**[6304.24s] English:** So in a way, you know, the space program, which sort of was military initially, then became  
+**[6304.24s] English:** So, in a way, you know, the space program, which was initially military, then became  
+**Translation:** Vocabulary: conducting: 进行
+
+**[6308.86s] English:** Civilian research under NASA also led to a lot of advances and understandings of health on Earth.  
 **Translation:** 
 
-**[6308.86s] English:** civilian under NASA, also led to a lot of advances and understandings of health, you know, on Earth  
+**[6315.18s] English:** And in space. So, the military, or war in general, is a huge way that medicine advances.  
+**Translation:** Vocabulary: advances: 进步; understandings: 认知
+
+**[6323.04s] English:** Not to mention the epidemics that come. You know, my grandmother was from what is today Moldova.  
 **Translation:** 
 
-**[6315.18s] English:** and in space. So the military is, or war in general, is a huge way that medicine advances,  
-**Translation:** Vocabulary: understandings: 认知
-
-**[6323.04s] English:** not to mention the epidemics that come. You know, my grandmother was from, what's today, Moldova.  
-**Translation:** 
-
-**[6328.70s] English:** Then Romania, she got typhus during World War II. So there's typhus outbreaks, there's cholera  
+**[6328.70s] English:** Then, Romania got typhus during World War II. So, there were typhus outbreaks, and there was cholera.  
 **Translation:** Vocabulary: cholera: 霍乱; epidemics: 流行病; outbreaks: 爆发; typhus: 斑疹伤寒
 
-**[6334.92s] English:** outbreaks, you know, all these, even infectious disease things can advance in war, which you  
+**[6334.92s] English:** Outbreaks, you know, all these, even infectious diseases, can advance in war, which you  
 **Translation:** 
 
-**[6340.28s] English:** wouldn't expect. You expect sort of trauma to be the sort of main problem, but actually infection  
+**[6340.28s] English:** You wouldn't expect. You expect sort of trauma to be the main problem, but actually, it's infection.  
+**Translation:** Vocabulary: infectious: 传染的; trauma: 创伤
+
+**[6344.42s] English:** Is a huge problem throughout history in war. So, we can learn a lot. It's this kind of horrific.  
 **Translation:** 
 
-**[6344.42s] English:** is a huge problem throughout history in war. So we can learn a lot. It's this kind of horrific  
-**Translation:** 
-
-**[6350.06s] English:** natural experiment in medical care. Yeah, and I've recently been reading about some of the horrific  
+**[6350.06s] English:** Natural experiment in medical care. Yeah, and I've recently been reading about some of the horrific  
 **Translation:** Vocabulary: horrific: 恐怖的
 
-**[6357.84s] English:** medical experiments.  
+**[6357.84s] English:** Medical experiments.  
 **Translation:** 
 
-**[6358.70s] English:** It's performed by  
+**[6358.70s] English:** It's performed by:  
 **Translation:** 
 
-**[6360.00s] English:** nazi scientists nazi germany it's um i'll talk about it another time perhaps but  
+**[6360.00s] English:** Nazi scientists in Nazi Germany: It's um, I'll talk about it another time perhaps, but...  
 **Translation:** 
 
-**[6366.00s] English:** nothing reveals the honesty of human biology like war um just to stay on your wild journeys  
+**[6366.00s] English:** Nothing reveals the honesty of human biology like war, um, just to stay on your wild journeys.  
 **Translation:** 
 
-**[6374.74s] English:** for a little bit longer um you have a tweet about shackleton saying here's a photo of shackleton's  
+**[6374.74s] English:** For a little bit longer, um, you have a tweet about Shackleton saying, "Here's a photo of Shackleton's  
 **Translation:** 
 
-**[6381.44s] English:** medical kit from his storied expedition to antarctica in the 1910s some paragoric for pain  
-**Translation:** Vocabulary: antarctica: 南极洲; expedition: 探险; paragoric: 软膏
+**[6381.44s] English:** A medical kit from his storied expedition to Antarctica in the 1910s, including some paragoric for pain.  
+**Translation:** Vocabulary: antarctica: 南极; expedition: 探险; paragoric: 止痛膏; shackleton: 沙克尔顿
 
-**[6388.46s] English:** some laxatives only the essentials would you put laxative under the essentials  
+**[6388.46s] English:** Some laxatives, only the essentials. Would you put laxatives under the essentials?  
 **Translation:** 
 
-**[6395.76s] English:** anyway sorry to interrupt uh when i worked as a ship doctor in antarctica in 2018 i had a huge  
-**Translation:** Vocabulary: laxative: 通便药; laxatives: 通便药
+**[6395.76s] English:** Anyway, sorry to interrupt. Uh, when I worked as a ship doctor in Antarctica in 2018, I had a huge...  
+**Translation:** Vocabulary: essentials: 必需品; interrupt: 打断; laxatives: 泻药
 
-**[6404.86s] English:** cabinet full of meds and even ekg machine um so if you can comment sort of on that contrast  
+**[6404.86s] English:** Cabinet full of meds, and even an EKG machine. Um, so if you can comment on that contrast.  
 **Translation:** 
 
-**[6413.42s] English:** first of all your own journey how harsh was it how difficult was it  
+**[6413.42s] English:** First of all, how harsh was your own journey? How difficult was it?  
 **Translation:** 
 
-**[6417.86s] English:** and  
+**[6417.86s] English:** And  
 **Translation:** 
 
-**[6418.46s] English:** given that context can you think about how hard shackleton's journey was  
+**[6418.46s] English:** Given that context, can you think about how hard Shackleton's journey was?  
 **Translation:** 
 
-**[6425.00s] English:** i think the difference is unimaginably stark um one thing i do want to point out is that  
+**[6425.00s] English:** I think the difference is unimaginably stark. Um, one thing I do want to point out is that.  
 **Translation:** 
 
-**[6431.26s] English:** the use of laxatives early in the 20th century and before that it was they were used for a  
+**[6431.26s] English:** The use of laxatives early in the 20th century, and before that, they were used for a  
 **Translation:** Vocabulary: stark: 鲜明; unimaginably: 难以想象
 
-**[6436.58s] English:** surprising number of ailments where they probably did not help at all but um i think that was a  
+**[6436.58s] English:** Surprising number of ailments, where they probably didn't help at all, but um, I think that was a  
 **Translation:** 
 
-**[6442.52s] English:** holdover from sort of the old theory of medicine the humoral theory where you have to balance the  
-**Translation:** Vocabulary: holdover: 遗留观念
+**[6442.52s] English:** Holdover from sort of the old theory of medicine, the humoral theory, where you have to balance the  
+**Translation:** Vocabulary: ailments: 疾病; holdover: 遗留; humoral: 体液的
 
-**[6448.46s] English:** body and so causing people to vomit causing them to have diarrhea or purposely taking blood out of  
+**[6448.46s] English:** Body and so causing people to vomit, causing them to have diarrhea, or purposely taking blood out of.  
 **Translation:** 
 
-**[6454.28s] English:** them in bloodletting was a big part and i think that crazy use of laxatives was um maybe a holdover  
+**[6454.28s] English:** They used bloodletting as a big part of treatment, and I think that the crazy use of laxatives was perhaps a holdover.  
 **Translation:** Vocabulary: bloodletting: 放血; diarrhea: 腹泻; purposely: 故意
 
-**[6460.28s] English:** from that time but that being said they were probably not eating very high fiber food on that  
+**[6460.28s] English:** From that time, but that being said, they were probably not eating a very high-fiber food on that.  
 **Translation:** 
 
-**[6466.50s] English:** expedition so perhaps laxatives could have been helpful you know there's a lot of seal um penguin  
+**[6466.50s] English:** Expedition, so perhaps laxatives could have been helpful, you know, there's a lot of seal, um, penguin.  
+**Translation:** Vocabulary: expedition: 考察; penguin: 企鹅
+
+**[6472.58s] English:** And seal meat being eaten, which is not super high in fiber, so I don't want to discount the  
 **Translation:** 
 
-**[6472.58s] English:** and seal meat being eaten which is not super high in fiber so i don't want to discount the  
-**Translation:** 
-
-**[6478.46s] English:** importance of laxatives in that setting  
-**Translation:** 
+**[6478.46s] English:** Importance of laxatives in that setting.  
+**Translation:** Vocabulary: laxatives: 润肠药
 
 **[6480.00s] English:** But that wouldn't be the essential thing. If you're thinking of a tiny kit that has only the essentials, I mean, pain, yes. Laxatives, I don't know, maybe not.  
 **Translation:** 
 
-**[6491.12s] English:** I think the medical kit possibilities were much narrower back then. This was before antibiotics, before I think germ theory might have been. It was known, but there wasn't much to do about it.  
-**Translation:** Vocabulary: antibiotics: 抗生素; narrower: 更有限
+**[6491.12s] English:** I think the medical kit possibilities were much narrower back then. This was before antibiotics, and before I think germ theory had been fully established. It was known, but there wasn't much to do about it.  
+**Translation:** Vocabulary: antibiotics: 抗生素; essentials: 必需品; narrower: 更有限
 
-**[6505.10s] English:** So, the availability of medicines, I mean, that's something that exploded over the course of the 20th century. So, what I can put in a backpack today filled with modern medications, whether injectable or to be taken orally, is just many orders of magnitude greater than what they had back then.  
+**[6505.10s] English:** So, the availability of medicines—I mean—that's something that exploded over the course of the 20th century. What I can put in a backpack today, filled with modern medications, whether injectable or to be taken orally, is just many orders of magnitude greater than what they had back then.  
 **Translation:** 
 
 **[6521.92s] English:** So, when I went, my expedition was nothing like Shackleton's. I was on a huge cruise ship with 160 Japanese passengers who came with their own translators.  
-**Translation:** Vocabulary: expedition: 考察队; exploded: 激增; injectable: 可注射的; medications: 药品; translators: 翻译员
+**Translation:** Vocabulary: availability: 可获得性; exploded: 急剧增加; injectable: 注射用; medications: 药品; orally: 口服; translators: 翻译员
 
-**[6533.96s] English:** And...  
+**[6533.96s] English:** And,...  
 **Translation:** 
 
-**[6535.10s] English:** As I said, I had cabinets, not just one cabinet, many cabinets full of medications, both injectable, some patches, some pills. I was very impressed, actually, with what was available there. And I didn't have to use a lot of it, thankfully, though I did use some of it for people.  
-**Translation:** Vocabulary: cabinets: 药柜
+**[6535.10s] English:** As I said, I had cabinets, not just one cabinet, but many cabinets full of medications, both injectable, some patches, and some pills. I was very impressed, actually, with what was available there. And I didn't have to use a lot of it, thankfully; though I did use some of it for people.  
+**Translation:** Vocabulary: cabinets: 药柜; patches: 贴剂
 
-**[6553.92s] English:** And I slept and, you know, I got free room and board on the ship. So, every southern summer, cruise ships go take people to Antarctica.  
+**[6553.92s] English:** And I slept, and you know, I got free room and board on the ship. So, every southern summer, cruise ships go take people to Antarctica.  
 **Translation:** 
 
-**[6563.94s] English:** The southern Atlantic islands, like the Falklands and other parts of the South Pacific. And then in the northern summer, the same kind of cruise ship explosion happens, you know, going to Greenland and Iceland and Svalbard and Franz Josef Land and other parts of the North Alaska.  
+**[6563.94s] English:** The southern Atlantic islands, like the Falklands, and other parts of the South Pacific. And then in the northern summer, the same kind of cruise ship explosion happens, going to Greenland and Iceland, Svalbard, Franz Josef Land, and other parts of North Alaska.  
 **Translation:** Vocabulary: antarctica: 南极洲; falklands: 福克兰群岛; franz: 弗朗兹; greenland: 格陵兰; iceland: 冰岛; josef: 约瑟夫; svalbard: 斯瓦尔巴
 
 **[6580.08s] English:** So, and every ship needs a doctor. So, it's a great opportunity. They want specifically ER doctors, you know, to deal with emergencies. But you're really working in the middle of nowhere.  
 **Translation:** 
 
 **[6591.64s] English:** And all you have is the medication.  
+**Translation:** Vocabulary: medication: 药品
+
+**[6593.92s] English:** And all you have is the medications there on the ship, and supplies, and your knowledge and experience. And so, it's a very different experience than we're used to.  
 **Translation:** 
 
-**[6593.92s] English:** And all you have is the medications there on the ship and supplies and your knowledge and experience. And so, it's a very different experience than we're used to.  
+**[6600.00s] English:** Working in a high-tech, modern hospital with every bit of technology.  
 **Translation:** 
 
-**[6600.00s] English:** working in a high-tech modern hospital with every bit of technology  
-**Translation:** 
-
-**[6603.18s] English:** and every subspecialist consultant available.  
+**[6603.18s] English:** And every subspecialist consultant was available.  
 **Translation:** 
 
 **[6606.20s] English:** But I sort of like that challenge.  
-**Translation:** Vocabulary: subspecialist: 专科医生
+**Translation:** Vocabulary: consultant: 顾问; subspecialist: 专科医生
 
 **[6608.12s] English:** I mean, I like going to the ends of the earth.  
 **Translation:** 
@@ -3901,65 +3902,65 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[6609.70s] English:** It's beautiful. It's exciting. It's fascinating.  
 **Translation:** 
 
-**[6612.86s] English:** Practicing medicine in those settings is extra challenging  
+**[6612.86s] English:** Practicing medicine in those settings is extra challenging.  
 **Translation:** 
 
-**[6615.44s] English:** and really makes you hone some of your skills,  
+**[6615.44s] English:** And it really makes you hone some of your skills.  
 **Translation:** 
 
-**[6618.76s] English:** which is part of the reason that I sought them out.  
+**[6618.76s] English:** Which is part of the reason that I sought them out.  
 **Translation:** 
 
 **[6622.50s] English:** Do you see echoes of some of that same effort?  
+**Translation:** Vocabulary: echoes: 回声
+
+**[6625.00s] English:** I've gotten a chance to interact with astronauts and those kinds of folks.  
 **Translation:** 
 
-**[6625.00s] English:** I've gotten a chance to interact with astronauts and those kinds of folks  
+**[6628.86s] English:** Working on space missions.  
 **Translation:** 
 
-**[6628.86s] English:** working on space missions.  
+**[6630.78s] English:** Do you see some of those same echoes of challenging efforts going out into space?  
 **Translation:** 
 
-**[6630.78s] English:** Do you see some of those same echoes of challenging efforts going out into space  
-**Translation:** 
-
-**[6635.92s] English:** and maybe landing on Mars and maybe beginning to build a small colony on Mars?  
+**[6635.92s] English:** And maybe landing on Mars, and maybe beginning to build a small colony on Mars?  
 **Translation:** 
 
 **[6642.20s] English:** Yeah, I think the health care that is needed will be a big part of that.  
 **Translation:** 
 
-**[6645.78s] English:** Obviously, we're probably going to send overall quite healthy people,  
+**[6645.78s] English:** Obviously, we're probably going to send overall quite healthy people.  
 **Translation:** 
 
-**[6649.74s] English:** but there's a lot of medical decisions to make about what should be brought,  
+**[6649.74s] English:** But there are a lot of medical decisions to make about what should be brought.  
 **Translation:** 
 
-**[6652.96s] English:** what should be expected.  
+**[6652.96s] English:** What should be expected?  
 **Translation:** 
 
 **[6653.84s] English:** To some extent, I've had a lot of doctors say,  
 **Translation:** 
 
-**[6657.28s] English:** oh my goodness, I can't believe you work in the middle.  
+**[6657.28s] English:** Oh my goodness, I can't believe you work in the middle.  
 **Translation:** 
 
-**[6658.86s] English:** What do you do if someone gets a brain bleed,  
+**[6658.86s] English:** What do you do if someone gets a brain bleed?  
 **Translation:** 
 
-**[6662.32s] English:** falls, hits their head, needs a neurosurgeon?  
+**[6662.32s] English:** Falls, hits their head—does it need a neurosurgeon?  
 **Translation:** Vocabulary: neurosurgeon: 神经外科医生
 
-**[6664.42s] English:** The obvious answer is they die.  
+**[6664.42s] English:** The obvious answer is that they die.  
 **Translation:** 
 
 **[6667.24s] English:** When you're in the middle of Antarctica,  
+**Translation:** Vocabulary: antarctica: 南极洲
+
+**[6669.48s] English:** Things kill you that wouldn't if you're inside a university hospital.  
 **Translation:** 
 
-**[6669.48s] English:** things kill you that wouldn't if you're inside a university hospital  
-**Translation:** 
-
-**[6673.06s] English:** that's fully equipped to help with every problem that arises.  
-**Translation:** 
+**[6673.06s] English:** That's fully equipped to help with every problem that arises.  
+**Translation:** Vocabulary: arises: 出现; equipped: 配备
 
 **[6676.68s] English:** Mars takes that to a crazy extreme, obviously.  
 **Translation:** 
@@ -3967,233 +3968,233 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[6680.10s] English:** I know that even going to Antarctica,  
 **Translation:** 
 
-**[6682.14s] English:** different countries have had different strategies.  
+**[6682.14s] English:** Different countries have had different strategies.  
 **Translation:** 
 
 **[6684.14s] English:** I believe Australia used to, just in anticipation,  
 **Translation:** Vocabulary: anticipation: 预期
 
-**[6688.88s] English:** remove people's gallbladders just so that it wouldn't get inflamed  
+**[6688.88s] English:** Remove people's gallbladders just so that it wouldn't get inflamed.  
 **Translation:** 
 
-**[6693.42s] English:** because that is a very common medical emergency.  
+**[6693.42s] English:** Because that is a very common medical emergency.  
 **Translation:** Vocabulary: gallbladders: 胆囊; inflamed: 发炎
 
-**[6696.08s] English:** They would just remove it beforehand, even though it was not diseased at all,  
+**[6696.08s] English:** They would just remove it beforehand, even though it was not diseased at all.  
 **Translation:** 
 
-**[6699.78s] English:** just so that while they're stuck in Antarctica over the winter, for instance,  
-**Translation:** Vocabulary: antarctica: 南极洲; beforehand: 提前; diseased: 患病的
+**[6699.78s] English:** Just so that while they're stuck in Antarctica over the winter, for instance,  
+**Translation:** Vocabulary: beforehand: 提前; diseased: 患病的
 
-**[6703.06s] English:** that wouldn't be a problem.  
+**[6703.06s] English:** That wouldn't be a problem.  
 **Translation:** 
 
-**[6704.68s] English:** There's many other issues that can arise.  
+**[6704.68s] English:** There are many other issues that can arise.  
 **Translation:** 
 
 **[6707.38s] English:** Those are some decisions to make.  
 **Translation:** 
 
-**[6709.70s] English:** Maybe the people who go into Mars should have their appendix removed,  
+**[6709.70s] English:** Maybe the people who go to Mars should have their appendix removed.  
 **Translation:** 
 
-**[6712.40s] English:** their gallbladder removed.  
+**[6712.40s] English:** Their gallbladder was removed.  
 **Translation:** 
 
-**[6713.78s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease  
-**Translation:** Vocabulary: cardiac: 心脏的; coronary: 冠状动脉的
+**[6713.78s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease.  
+**Translation:** Vocabulary: artery: 血管; cardiac: 心脏的; coronary: 冠状动脉; gallbladder: 胆囊
 
-**[6716.82s] English:** just to know their chances of getting a heart attack.  
+**[6716.82s] English:** Just to know their chances of getting a heart attack.  
 **Translation:** 
 
-**[6718.74s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease  
+**[6718.74s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease.  
 **Translation:** 
 
-**[6718.84s] English:** just to know their chances of getting a heart attack.  
+**[6718.84s] English:** Just to know their chances of getting a heart attack.  
 **Translation:** 
 
-**[6719.00s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease  
+**[6719.00s] English:** Maybe they should have a cardiac cath to see if they have coronary artery disease.  
 **Translation:** 
 
-**[6719.08s] English:** though it's not always predicted.  
+**[6719.08s] English:** Though it's not always predictable.  
 **Translation:** 
 
-**[6720.00s] English:** predictive you know it's hard to predict who's going to get a heart attack but maybe with all  
-**Translation:** Vocabulary: predictive: 预测性的
-
-**[6724.08s] English:** the data around today we'll get you know better at predicting but that will be a huge part you  
+**[6720.00s] English:** Predictive: You know, it's hard to predict who's going to get a heart attack, but maybe with all...  
 **Translation:** 
 
-**[6727.96s] English:** know we can't have people the few people few pioneers in a mars colony dying of heart attacks  
+**[6724.08s] English:** The data around today will get you much better at predicting, but that will be a huge part of it.  
+**Translation:** 
+
+**[6727.96s] English:** We can't have people, even just a few pioneers in a Mars colony, dying of heart attacks.  
 **Translation:** Vocabulary: pioneers: 先驱者
 
-**[6732.44s] English:** and things like that just based off would you go you've gone to some harsh conditions to be a  
+**[6732.44s] English:** And things like that, just based off: would you go? You've gone to some harsh conditions to be a...  
 **Translation:** 
 
-**[6738.08s] English:** doctor would you go to mars to be a doctor um it would definitely be amazing i think because i have  
+**[6738.08s] English:** Doctor, would you go to Mars to be a doctor? Um, it would definitely be amazing, I think, because I have  
 **Translation:** 
 
-**[6745.10s] English:** a wife and two small children probably not in the cards for me at this point but you humans  
+**[6745.10s] English:** A wife and two small children probably aren't in the cards for me at this point, but you humans,...  
 **Translation:** 
 
-**[6751.32s] English:** with your human attachments sex and death if you just put more priority on the death than the sex  
+**[6751.32s] English:** With your human attachments, sex and death: if you just put more priority on death than on sex.  
 **Translation:** Vocabulary: attachments: 情感纽带
 
-**[6759.08s] English:** i think we would be uh better off no i would love to go to mars and actually i you know i practice  
+**[6759.08s] English:** I think we would be much better off. No, I would love to go to Mars, and actually, I've been practicing.  
 **Translation:** 
 
-**[6766.30s] English:** high altitude medicine in nepal space medicine is sort of an extension of that you know the air is  
-**Translation:** Vocabulary: altitude: 高空; nepal: 尼泊尔
+**[6766.30s] English:** High-altitude medicine in Nepal is sort of an extension of that, you know, the air is  
+**Translation:** Vocabulary: nepal: 尼泊尔
 
-**[6771.16s] English:** just much thinner like non-existent you know as you go higher in the mountains  
+**[6771.16s] English:** Just much thinner, like non-existent, you know, as you go higher in the mountains.  
 **Translation:** 
 
-**[6774.54s] English:** the  
+**[6774.54s] English:** The  
 **Translation:** 
 
-**[6775.08s] English:** things that happen to human physiology are very bizarre and strange and still not well  
+**[6775.08s] English:** Things that happen to human physiology are very bizarre and strange, and still not well-understood.  
 **Translation:** 
 
-**[6780.38s] English:** explained by science um and in space it's just like a crazy extension of high altitude  
+**[6780.38s] English:** Explained by science, um, and in space, it's just like a crazy extension of high altitude.  
+**Translation:** Vocabulary: altitude: 高度; bizarre: 奇异; physiology: 生理
+
+**[6785.00s] English:** If I could just return to this, we didn't really mention the food much at all.  
 **Translation:** 
 
-**[6785.00s] English:** if i could just return to this we didn't really i think we mentioned a little bit about the food  
+**[6792.40s] English:** You had just, if we couldn't high-level say what is the greatest meal you've ever had, so your last?  
 **Translation:** 
 
-**[6792.40s] English:** you had just if we couldn't high level say what is the greatest meal you've ever had so your last  
+**[6799.40s] English:** Meal, let's go. If one more meal, I get to uh, murder you after this.  
 **Translation:** 
 
-**[6799.40s] English:** meal let's go if one more meal i get to uh murder you after this  
+**[6805.08s] English:** This is your last day. We get to spend it together. Where in the world would you go?  
 **Translation:** 
 
-**[6805.08s] English:** this is your last day we get to spend it together where in the world would you go  
+**[6809.46s] English:** What would you eat? I would say the most delicious thing is bone marrow, and I would love a full meal.  
 **Translation:** 
 
-**[6809.46s] English:** what would you eat i would say the most delicious thing is bone marrow and i would love a full meal  
-**Translation:** 
-
-**[6817.42s] English:** of bone marrow for my last last dish i did on my birthday in 2002 ate a kilogram and a half of crab  
+**[6817.42s] English:** Of bone marrow, for my last dish I did on my birthday in 2002, I ate a kilogram and a half of crab.  
 **Translation:** Vocabulary: marrow: 骨髓
 
-**[6825.28s] English:** meat in kamchatka and that was also amazingly delicious uh the king crab they have there is  
+**[6825.28s] English:** Meat in Kamchatka, and that was also amazingly delicious. The king crab they have there is  
 **Translation:** 
 
-**[6831.42s] English:** incredible um but i would go with bone marrow which is the most delicious thing i've ever had  
+**[6831.42s] English:** Incredible, um, but I would go with bone marrow, which is the most delicious thing I've ever had.  
+**Translation:** Vocabulary: kamchatka: Kamchatka半岛
+
+**[6835.08s] English:** Which is, I think, just one of the most delicious foods, and it's sort of this weird body part you.  
 **Translation:** 
 
-**[6835.08s] English:** which is um i think just one of the most delicious foods and it's sort of this weird body part you  
+**[6840.00s] English:** It's basically all your stem cells, not all of them, but the stem cells that produce all your  
 **Translation:** 
 
-**[6840.00s] English:** it's basically all your stem cells, not all of them, but the stem cells that produce all your  
+**[6844.32s] English:** Blood cells. So they are spitting out billions of white blood cells, red blood cells, and platelets.  
 **Translation:** 
 
-**[6844.32s] English:** blood cells. So they are spitting out billions of white blood cells, red blood cells and platelets  
-**Translation:** 
-
-**[6848.70s] English:** every day. And there's a bunch of fat in there as well. Just one of the places the body stores fat.  
+**[6848.70s] English:** Every day, and there's a bunch of fat in there as well. Just one of the places the body stores fat.  
 **Translation:** Vocabulary: platelets: 血小板; spitting: 分泌
 
-**[6854.50s] English:** And so you basically add heat and that's all you need. It's like the perfect food. You add heat,  
+**[6854.50s] English:** And so you basically add heat, and that's all you need. It's like the perfect food: you add heat,  
 **Translation:** 
 
-**[6859.58s] English:** the fat for frying the stem cells is already there. There's naturally a bone vessel to contain  
+**[6859.58s] English:** The fat for frying the stem cells is already there. There's naturally a bone vessel to contain.  
 **Translation:** 
 
-**[6864.70s] English:** it all. Probably add some flavor too. It's like the perfect food. Does it matter which animal?  
+**[6864.70s] English:** It's all good. Probably add some flavor too. It's like the perfect food. Does it matter which animal?  
 **Translation:** 
 
-**[6873.28s] English:** I prefer a larger animal just so there's more of it. I actually like, well, that's true. I actually  
+**[6873.28s] English:** I prefer a larger animal just so there's more of it. I actually like that, well, that's true. I actually  
 **Translation:** 
 
-**[6877.68s] English:** really like sort of bone marrow from like chicken bones. Right. Just sucking it out of the bone.  
+**[6877.68s] English:** Really like sort of bone marrow from, like, chicken bones. Right? Just sucking it out of the bone.  
 **Translation:** 
 
-**[6882.30s] English:** Yes. I'm known for leaving absolutely nothing edible on the plate except bone itself.  
-**Translation:** Vocabulary: edible: 可食用的
+**[6882.30s] English:** Yes. I'm known for leaving absolutely nothing edible on the plate, except the bone itself.  
+**Translation:** Vocabulary: edible: 可食用的; sucking: 吸吮
 
-**[6888.54s] English:** There's one other human I know that loves  
+**[6888.54s] English:** There's one other human I know that loves.  
 **Translation:** 
 
-**[6892.14s] English:** bone marrow.  
+**[6892.14s] English:** Bone marrow.  
 **Translation:** 
 
-**[6894.70s] English:** As much as you do. And that's Joe Rogan. So it's unnatural how much that man loves bone marrow.  
+**[6894.70s] English:** As much as you do, and that's Joe Rogan. So it's unnatural how much that man loves bone marrow.  
 **Translation:** 
 
 **[6901.48s] English:** I understand why. It's amazing.  
-**Translation:** Vocabulary: unnatural: 不自然
+**Translation:** Vocabulary: marrow: 骨髓; unnatural: 不自然
 
-**[6902.48s] English:** I love the steak part. You know what? Let me argue with you because I don't know.  
+**[6902.48s] English:** I love the steak part. You know what? Let me argue with you, because I don't know.  
 **Translation:** 
 
-**[6910.36s] English:** It could be an acquired taste, but there's just too much. It's like too much  
+**[6910.36s] English:** It could be an acquired taste, but there's just too much. It's like too much!  
 **Translation:** 
 
-**[6917.22s] English:** with too little work for it. Like it's as if you gave me lobster meat without the  
+**[6917.22s] English:** With too little work for it. It's like you gave me lobster meat without the claws and tail.  
 **Translation:** 
 
-**[6924.70s] English:** lobster having to clean the lobster. I just feel like I'm spoiling myself. So it's very fatty.  
-**Translation:** Vocabulary: fatty: 肥腻; spoiling: 纵容
+**[6924.70s] English:** Lobster: Having to clean the lobster, I just feel like I'm spoiling myself. So it's very fatty.  
+**Translation:** Vocabulary: claws: 蟹爪; fatty: 肥腻; lobster: 龙虾; spoiling: 纵容
 
 **[6931.94s] English:** It's, I don't know. Maybe I want to work for something that tastes like that.  
 **Translation:** 
 
-**[6936.14s] English:** Well, if you start from the whole animal, you do have to work to get at it, right? A lot of animals  
+**[6936.14s] English:** Well, if you start from the whole animal, you do have to work to get at it, right? A lot of animals.  
 **Translation:** 
 
-**[6940.10s] English:** have the teeth and the jaw muscles to chomp through bone. We do not. So, you know, when you  
+**[6940.10s] English:** Have the teeth and the jaw muscles to chomp through bone. We do not. So, you know, when you  
 **Translation:** 
 
-**[6946.72s] English:** buy it from the store, it's already sawed up. But I've definitely gotten marrow out of deer bones,  
-**Translation:** Vocabulary: chomp: 咬碎; marrow: 骨髓
+**[6946.72s] English:** Buy it from the store; it's already sawed up. But I've definitely gotten marrow out of deer bones.  
+**Translation:** Vocabulary: chomp: 咬
 
-**[6951.78s] English:** you know, with a hatchet. Just chop off.  
+**[6951.78s] English:** You know, with a hatchet. Just chop off.  
 **Translation:** 
 
-**[6953.62s] English:** Just chop off.  
+**[6953.62s] English:** Just chop it off.  
+**Translation:** Vocabulary: hatchet: 斧头
+
+**[6954.70s] English:** The fat one and start spooning it out.  
 **Translation:** 
 
-**[6954.70s] English:** The fat end and start spooning it out.  
-**Translation:** 
-
-**[6956.52s] English:** Or maybe I'll revisit it. That's fascinating. And where?  
+**[6956.52s] English:** Or maybe I'll revisit it. That's fascinating! And where?  
 **Translation:** 
 
 **[6960.00s] English:** Where would you eat it?  
 **Translation:** 
 
-**[6961.86s] English:** In which place of the world?  
+**[6961.86s] English:** In which place in the world?  
 **Translation:** 
 
-**[6963.84s] English:** Is there something about who cooks it, who you eat it with?  
+**[6963.84s] English:** Is there something about who cooks it, or who you eat it with?  
 **Translation:** 
 
-**[6970.60s] English:** You're not allowed to pick your family.  
+**[6970.60s] English:** You're not allowed to choose your family.  
 **Translation:** 
 
-**[6977.00s] English:** So, like, which place in the world, rural or in the city, those kinds of things.  
+**[6977.00s] English:** So, like, which place in the world—rural or in the city—those kinds of things.  
 **Translation:** 
 
 **[6982.14s] English:** You've been to so many fascinating places.  
 **Translation:** 
 
-**[6983.94s] English:** I would say Antarctica, I would say, is one of the most picturesque places I've ever been.  
+**[6983.94s] English:** I would say Antarctica is one of the most picturesque places I've ever been.  
 **Translation:** 
 
-**[6991.26s] English:** I really did not, I didn't know how mountainous it was.  
-**Translation:** Vocabulary: antarctica: 南极洲; picturesque: 如画的
+**[6991.26s] English:** I really didn't know how mountainous it was.  
+**Translation:** Vocabulary: antarctica: 南极洲; picturesque: 风景如画
 
 **[6995.00s] English:** And I guess I knew there'd be ice, but just, I didn't know how much ice it was.  
 **Translation:** 
 
-**[6999.54s] English:** You know, it's ice and mountains, just overwhelming.  
+**[6999.54s] English:** You know, it's ice and mountains—just overwhelming.  
 **Translation:** 
 
-**[7002.22s] English:** I just, you know, as kind of overwhelming bone marrow might seem to you, sort of that feast for your eyes.  
+**[7002.22s] English:** I just, you know, as kind of overwhelming as bone marrow might seem to you, it's sort of a feast for your eyes.  
 **Translation:** 
 
-**[7009.42s] English:** And just ice in general is amazing.  
-**Translation:** 
+**[7009.42s] English:** And, just ice in general is amazing.  
+**Translation:** Vocabulary: marrow: 骨髓
 
 **[7011.58s] English:** Like the icebergs floating around Antarctica.  
 **Translation:** 
@@ -4204,50 +4205,50 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[7015.30s] English:** Like the different shapes, the sizes are incredible.  
 **Translation:** 
 
-**[7019.54s] English:** There's actually a, I believe it's a U.S. Navy website that tracks the largest icebergs.  
+**[7019.54s] English:** There's actually a U.S. Navy website that tracks the largest icebergs.  
 **Translation:** 
 
 **[7023.96s] English:** And you can read about each of them and how big they are.  
 **Translation:** 
 
-**[7026.54s] English:** And just the formations you see, similar up near Greenland, though I have not been to Greenland.  
+**[7026.54s] English:** And just the formations you see—similar up near Greenland, though I have not been to Greenland.  
 **Translation:** Vocabulary: formations: 地质构造; greenland: 格陵兰
 
-**[7032.30s] English:** Just ice in general is just amazing.  
+**[7032.30s] English:** Just ice, in general, is just amazing.  
 **Translation:** 
 
-**[7034.22s] English:** So I could just look at its different forms while eating bone marrow forever, until you kill me, that is.  
+**[7034.22s] English:** So, I could just look at its different forms while eating bone marrow forever—until you kill me, that is.  
 **Translation:** 
 
 **[7039.00s] English:** Yeah, and afterwards we go.  
 **Translation:** 
 
-**[7041.56s] English:** It's back to the death of the death insects.  
+**[7041.56s] English:** It's back to the death of the dead insects.  
 **Translation:** 
 
 **[7043.58s] English:** What is it about the ice?  
 **Translation:** 
 
-**[7046.90s] English:** Is it sort of the enormity of nature that just reminds you that it's going to be there before you and after?  
+**[7046.90s] English:** Is it, sort of, the enormity of nature that just reminds you that it's going to be there before you and after?  
 **Translation:** Vocabulary: enormity: 巨大性
 
-**[7055.02s] English:** And then you get to partake in the eating of the thing you need for maintaining of your biological, temporary biological organism?  
+**[7055.02s] English:** And then you get to partake in the eating of the thing you need for maintaining your biological, temporary, biological organism?  
 **Translation:** 
 
 **[7065.32s] English:** Yeah, I think it's a few things.  
-**Translation:** Vocabulary: partake: 参与食用
+**Translation:** Vocabulary: organism: 生物; partake: 参与
 
 **[7067.00s] English:** One is just the shapes that you see.  
 **Translation:** 
 
-**[7068.90s] English:** You know, the wave action, just eating away at these pieces of ice.  
+**[7068.90s] English:** You know, the wave action just eating away at these pieces of ice.  
 **Translation:** 
 
-**[7073.58s] English:** You get these arches and just these shapes.  
+**[7073.58s] English:** You get these arches, and just these shapes.  
 **Translation:** 
 
 **[7075.98s] English:** I mean, it's just like...  
-**Translation:** 
+**Translation:** Vocabulary: arches: 拱门
 
 **[7076.96s] English:** Geometry.  
 **Translation:** 
@@ -4258,346 +4259,346 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[7079.40s] English:** I studied math.  
 **Translation:** 
 
-**[7080.00s] English:** as an undergrad, and I've always appreciated geometry. And just the shapes alone just look  
+**[7080.00s] English:** As an undergrad, and I've always appreciated geometry. And just the shapes alone just look so interesting.  
 **Translation:** Vocabulary: undergrad: 本科学生
 
-**[7087.02s] English:** like brilliant works of modernist art. And just obviously, no two are ever the same.  
+**[7087.02s] English:** Like brilliant works of modernist art, and just obviously, no two are ever the same.  
 **Translation:** 
 
-**[7092.58s] English:** Not to mention, a lot of them are this unearthly blue color that is just really startling and  
+**[7092.58s] English:** Not to mention, a lot of them are this unearthly blue color that is just really startling and...  
 **Translation:** Vocabulary: startling: 惊人的
 
-**[7098.52s] English:** fascinating. The same color of glaciers, you know, in various parts of the world. That blue color is  
+**[7098.52s] English:** Fascinating. The same color of glaciers, you know, in various parts of the world. That blue color is  
 **Translation:** 
 
-**[7103.88s] English:** just really amazing. And I also just love how it's sort of this constant shedding from our  
+**[7103.88s] English:** Just really amazing. And I also just love how it's sort of a constant shedding from ours.  
 **Translation:** Vocabulary: glaciers: 冰川; shedding: 融化
 
-**[7110.40s] English:** Antarctic continent, from Greenland. You know, it's this constant process of snow falling inland  
+**[7110.40s] English:** Antarctic continent, similar to Greenland, is a constant process of snow falling inland.  
 **Translation:** 
 
-**[7114.26s] English:** and pushing the glaciers further out to sea and then breaking loose. I mean, obviously,  
-**Translation:** Vocabulary: antarctic: 南极大陆
+**[7114.26s] English:** And pushing the glaciers further out to sea and then breaking loose. I mean, obviously,...  
+**Translation:** Vocabulary: antarctic: 南极大陆; greenland: 格陵兰
 
-**[7119.20s] English:** it seems to be happening faster these days, but it's sort of this constant shedding and sort of,  
+**[7119.20s] English:** It seems to be happening faster these days, but it's sort of a constant shedding, and sort of...  
 **Translation:** 
 
-**[7124.22s] English:** I always like thinking about how the body has something similar. You know, we're constantly  
+**[7124.22s] English:** I always like thinking about how the body has something similar. We're constantly  
 **Translation:** 
 
-**[7127.16s] English:** shedding and renewing and rebuilding everything. And so, ice is sort of this constant,  
+**[7127.16s] English:** Shedding and renewing, and rebuilding everything. And so, ice is sort of this constant,  
 **Translation:** 
 
-**[7133.88s] English:** similar process.  
-**Translation:** Vocabulary: renewing: 更新换代
+**[7133.88s] English:** Similar process.  
+**Translation:** Vocabulary: renewing: 更新
 
-**[7136.64s] English:** Yeah. I did not know you were a math undergrad. So that, I mean, you just keep getting more  
+**[7136.64s] English:** Yeah. I didn't know you were a math undergrad. So, that, I mean, you just keep getting more interesting.  
 **Translation:** 
 
-**[7143.02s] English:** fascinating. Can you maybe take a small step into that direction? What do you find beautiful  
+**[7143.02s] English:** Fascinating. Can you maybe take a small step in that direction? What do you find beautiful?  
 **Translation:** 
 
-**[7150.44s] English:** about mathematics? Why did you journey into that part of the world for a time?  
+**[7150.44s] English:** About mathematics? Why did you journey into that part of the world for a time?  
 **Translation:** 
 
-**[7155.38s] English:** I liked math. I especially liked, so college math. I did some calculus in high school.  
+**[7155.38s] English:** I liked math. I especially liked college math. I did some calculus in high school.  
 **Translation:** Vocabulary: calculus: 微积分
 
-**[7160.26s] English:** When I got to college math, I was amazed that  
+**[7160.26s] English:** When I got to college math, I was amazed that.  
 **Translation:** 
 
-**[7162.96s] English:** there were...  
+**[7162.96s] English:** There were...  
 **Translation:** 
 
-**[7163.88s] English:** There were no more numbers. You know, the digits disappeared. It was just variables,  
+**[7163.88s] English:** There were no more numbers. You know, the digits disappeared. It was just variables.  
 **Translation:** 
 
-**[7168.50s] English:** concepts, you know, there was almost no more numbers at all. It was like this totally abstract,  
-**Translation:** Vocabulary: digits: 阿拉伯数字
+**[7168.50s] English:** Concepts, you know, there were almost no numbers at all. It was like a totally abstract,  
+**Translation:** Vocabulary: digits: 位数
 
-**[7174.58s] English:** you know, kind of way of thinking, but that sort of reflects the natural world and teaches you  
+**[7174.58s] English:** You know, it's kind of a way of thinking, but that sort of reflects the natural world and teaches you.  
 **Translation:** 
 
-**[7180.62s] English:** about the natural world, though it's sort of this perfect, you know, platonic ideal,  
-**Translation:** Vocabulary: platonic: 理念中的
+**[7180.62s] English:** About the natural world, though it's sort of a perfect, you know, Platonic ideal.  
+**Translation:** Vocabulary: platonic: 理念
 
-**[7185.06s] English:** perhaps, of the natural world that can still sort of help explain what happens in the natural world.  
+**[7185.06s] English:** Perhaps, of the natural world, that can still sort of help explain what happens in the natural world.  
 **Translation:** 
 
-**[7190.00s] English:** But just these concepts are so abstract from, like,  
+**[7190.00s] English:** But just these concepts are so abstract, from, like,...  
 **Translation:** 
 
-**[7193.88s] English:** life and from, you know, the natural world. And I was actually getting interested in the  
+**[7193.88s] English:** Life and from the natural world. And I was actually getting interested in the  
 **Translation:** 
 
-**[7198.54s] English:** natural world at the same time.  
+**[7198.54s] English:** Natural world, at the same time.  
 **Translation:** 
 
-**[7199.92s] English:** So I was actually getting interested in the natural world at the same time.  
+**[7199.92s] English:** So, I was actually getting interested in the natural world at the same time.  
 **Translation:** 
 
-**[7200.00s] English:** When I was at NYU studying math, I took a tour of Central Park. The guy, Steve Brill, was pointing out these wild edible plants, and I was learning to identify the first plants and knowing what's edible, what's not. That was totally fascinating and sort of this kind of thing that I felt like was connecting me to nature, and it was balanced with this utterly abstract science or utterly abstract lessons I was getting in math class where I was thinking through series.  
-**Translation:** Vocabulary: brill: Brill; edible: 可食用
+**[7200.00s] English:** When I was at NYU studying math, I took a tour of Central Park. The guy, Steve Brill, was pointing out these wild edible plants, and I was learning to identify the first plants and knowing what's edible, what's not. That was totally fascinating and sort of this kind of thing that I felt like was connecting me to nature. And it was balanced with this utterly abstract science or utterly abstract lessons I was getting in math class where I was thinking through series.  
+**Translation:** Vocabulary: balanced: 均衡; brill: brill; edible: 可食用; utterly: 完全地
 
-**[7228.82s] English:** As we approach infinity, what happens to these equations and concepts of rings and abstract algebra? I don't know. It was just this dichotomy that I enjoyed both aspects of.  
+**[7228.82s] English:** As we approach infinity, what happens to these equations and concepts of rings and abstract algebra? I don't know. It was just this dichotomy that I enjoyed—both aspects.  
 **Translation:** 
 
-**[7239.64s] English:** Yeah, the concepts, but so different, this kind of logical, rigorous view of the world and the world of biology.  
-**Translation:** 
+**[7239.64s] English:** Yeah, the concepts, but so different: this kind of logical, rigorous view of the world versus the world of biology.  
+**Translation:** Vocabulary: algebra: 抽象代数; dichotomy: 对立面; equations: 方程; infinity: 无穷; rigorous: 严谨
 
 **[7252.04s] English:** How did that feel to take the leap into the biological, the mushy?  
 **Translation:** 
 
-**[7258.82s] English:** The mushy mess of the human body from the mathematical, which is all very clean.  
+**[7258.82s] English:** The mushy mess of the human body, from a mathematical perspective, which is all very clean.  
 **Translation:** Vocabulary: mathematical: 严谨的; mushy: 软绵绵的
 
-**[7264.96s] English:** Right. It does feel like a big step. I think there's more connection than you think. We talked about symmetry of the body earlier. That is a real thing.  
+**[7264.96s] English:** Right. It does feel like a big step. I think there's more connection than you think. We talked about the symmetry of the body earlier. That is a real thing.  
 **Translation:** 
 
-**[7273.52s] English:** You know, fluid dynamics of how our various bodily fluids flow and what makes them not flow as well and what makes them flow better.  
-**Translation:** Vocabulary: symmetry: 对称性
+**[7273.52s] English:** You know, the fluid dynamics of how our various bodily fluids flow, and what makes them not flow as well as what makes them flow better.  
+**Translation:** Vocabulary: fluids: 体液; symmetry: 对称性
 
 **[7282.14s] English:** All these different aspects of science go into the body.  
 **Translation:** 
 
-**[7285.78s] English:** You know, everything from hard bone to softer kind of flesh to liquids of various consistencies.  
-**Translation:** 
+**[7285.78s] English:** You know, everything from hard bone to softer kinds of flesh to liquids of various consistencies.  
+**Translation:** Vocabulary: liquids: 各种液体
 
-**[7296.00s] English:** You know, a lot of science and math does teach you about kind of how the body works, how it can work better, what happens in sort of disease states.  
+**[7296.00s] English:** You know, a lot of science and math does teach you about how the body works, how it can work better, and what happens in various disease states.  
 **Translation:** 
 
 **[7305.40s] English:** Yeah, I suppose there's a connection.  
 **Translation:** 
 
-**[7308.82s] English:** There's also kind of sort of computational biology.  
+**[7308.82s] English:** There's also, kind of, sort of, computational biology.  
 **Translation:** 
 
-**[7314.62s] English:** There's computational equations.  
-**Translation:** Vocabulary: computational: 计算相关的; equations: 方程
+**[7314.62s] English:** There are computational equations.  
+**Translation:** Vocabulary: computational: 计算的
 
-**[7315.78s] English:** There's the equivalence of each of the disciplines, which are becoming more and more fascinating.  
+**[7315.78s] English:** There's an equivalence of each of the disciplines, which are becoming more and more fascinating.  
 **Translation:** 
 
-**[7320.00s] English:** with all the work that DeepMind is doing and the work of genetics,  
+**[7320.00s] English:** With all the work that DeepMind is doing and the work in genetics,  
 **Translation:** Vocabulary: disciplines: 学科; equivalence: 等同
 
-**[7324.20s] English:** all that kind of stuff, simulating different parts of the body  
+**[7324.20s] English:** All that kind of stuff, simulating different parts of the body.  
 **Translation:** 
 
-**[7326.54s] English:** to try to gain an intuition and understanding of it.  
+**[7326.54s] English:** To try to gain an intuition and understanding of it.  
 **Translation:** Vocabulary: intuition: 直觉; simulating: 模拟
 
-**[7329.72s] English:** That, to me, is super fascinating,  
+**[7329.72s] English:** That, to me, is super fascinating.  
 **Translation:** 
 
-**[7332.80s] English:** but sometimes it does feel like an oversimplification of the way the body really does it  
+**[7332.80s] English:** But sometimes it does feel like an oversimplification of the way the body really does it.  
 **Translation:** Vocabulary: oversimplification: 简化解释
 
-**[7336.60s] English:** because the body is an incredibly weird, complex system,  
+**[7336.60s] English:** Because the body is an incredibly weird, complex system,  
 **Translation:** 
 
-**[7342.84s] English:** and it finds a way.  
+**[7342.84s] English:** And it finds a way.  
 **Translation:** 
 
-**[7344.80s] English:** The adaptability, the resilience, the redundancy that's built in  
+**[7344.80s] English:** The adaptability, the resilience, and the redundancy that are built in.  
 **Translation:** 
 
-**[7348.88s] English:** is weird, and it's incredibly powerful,  
-**Translation:** Vocabulary: adaptability: 适应能力; redundancy: 冗余; resilience: 韧性
+**[7348.88s] English:** It is weird, and it's incredibly powerful.  
+**Translation:** Vocabulary: adaptability: 适应性; redundancy: 冗余; resilience: 韧性
 
-**[7353.80s] English:** and so unlike the kind of computer-based systems that we build,  
+**[7353.80s] English:** And so, unlike the kinds of computer-based systems that we build,  
 **Translation:** 
 
-**[7358.44s] English:** at least we engineer in the software engineering world,  
+**[7358.44s] English:** At least, we engineers in the software engineering world,  
 **Translation:** 
 
-**[7360.84s] English:** which kind of starts to make you think,  
+**[7360.84s] English:** Which kind of starts to make you think.  
 **Translation:** 
 
-**[7363.28s] English:** how can we engineer computer systems in a different way  
+**[7363.28s] English:** How can we engineer computer systems in a different way?  
 **Translation:** 
 
-**[7367.80s] English:** that make them more resilient in the real world?  
+**[7367.80s] English:** That makes them more resilient in the real world?  
 **Translation:** 
 
 **[7370.54s] English:** That's sort of the robotics question.  
-**Translation:** Vocabulary: resilient: 坚强
+**Translation:** Vocabulary: resilient: 坚强; robotics: 机器人学
 
 **[7373.52s] English:** What do you think about that?  
 **Translation:** 
 
-**[7375.36s] English:** What does it take to build a humanoid robot  
-**Translation:** Vocabulary: humanoid: 类人形
+**[7375.36s] English:** What does it take to build a humanoid robot?  
+**Translation:** Vocabulary: humanoid: 类人形的
 
-**[7378.76s] English:** that's going to be able to do that?  
+**[7378.76s] English:** That's going to be able to do that?  
 **Translation:** 
 
 **[7378.88s] English:** Or robots that are as resilient as the human body?  
 **Translation:** 
 
-**[7382.16s] English:** How difficult do you think is that problem?  
+**[7382.16s] English:** How difficult do you think that problem is?  
 **Translation:** 
 
 **[7384.12s] English:** Having studied the human body,  
 **Translation:** 
 
-**[7386.50s] English:** how hard is the engineering problem of building systems  
+**[7386.50s] English:** How hard is the engineering problem of building systems?  
 **Translation:** 
 
-**[7390.32s] English:** like that guy over there, the legged guy,  
+**[7390.32s] English:** Like that guy over there, the legged guy.  
 **Translation:** 
 
-**[7393.04s] English:** that is as resilient as the human body  
+**[7393.04s] English:** That is as resilient as the human body.  
 **Translation:** 
 
-**[7395.52s] English:** to the harsh conditions of the real world?  
+**[7395.52s] English:** To the harsh conditions of the real world?  
 **Translation:** 
 
 **[7399.44s] English:** I think it's very hard, and we definitely haven't gotten there yet.  
 **Translation:** 
 
-**[7402.26s] English:** I think we could probably learn lessons from people  
+**[7402.26s] English:** I think we could probably learn lessons from people.  
 **Translation:** 
 
-**[7404.18s] English:** who are trying to grow artificial organs in the lab  
+**[7404.18s] English:** Who are trying to grow artificial organs in the lab?  
 **Translation:** 
 
-**[7406.92s] English:** to eventually transplant into the human body.  
+**[7406.92s] English:** To eventually transplant into the human body.  
 **Translation:** 
 
-**[7408.76s] English:** Which would solve the huge problem  
+**[7408.76s] English:** Which would solve the huge problem?  
 **Translation:** 
 
-**[7411.14s] English:** of needing to get those organs from others  
+**[7411.14s] English:** Of needing to get those organs from others.  
 **Translation:** 
 
-**[7413.20s] English:** and the rejection of putting a foreign material inside your body.  
+**[7413.20s] English:** And the rejection of putting a foreign material inside your body.  
 **Translation:** 
 
 **[7417.08s] English:** Your immune system tends not to like that.  
-**Translation:** Vocabulary: immune: 免疫; rejection: 排斥
+**Translation:** Vocabulary: immune: 免疫的
 
 **[7420.62s] English:** That has advanced a lot recently.  
 **Translation:** 
 
-**[7422.76s] English:** I think some advances actually have been  
+**[7422.76s] English:** I think some advances have actually been  
+**Translation:** Vocabulary: advances: 进步
+
+**[7426.18s] English:** Where we pay a lot of attention to stem cells,  
 **Translation:** 
 
-**[7426.18s] English:** where we pay a lot of attention to stem cells,  
+**[7428.96s] English:** Stem cells, stem cells.  
 **Translation:** 
 
-**[7428.96s] English:** stem cells, stem cells.  
+**[7429.90s] English:** We can grow whatever we want out of stem cells.  
 **Translation:** 
 
-**[7429.90s] English:** We can grow whatever we want out of stem cells,  
+**[7431.80s] English:** But now there's sort of a recognition.  
 **Translation:** 
 
-**[7431.80s] English:** but now there's sort of a recognition  
+**[7433.36s] English:** That is what we call the extracellular matrix,  
 **Translation:** 
 
-**[7433.36s] English:** that what we call the extracellular matrix,  
-**Translation:** 
-
-**[7436.74s] English:** which is sort of the, you know,  
+**[7436.74s] English:** Which is sort of the, you know,  
 **Translation:** Vocabulary: extracellular: 细胞外的; matrix: 基质
 
-**[7438.76s] English:** foundation of the body,  
+**[7438.76s] English:** Foundation of the body,  
 **Translation:** 
 
-**[7440.00s] English:** the thing that holds all the cells into their proper shape and keeps them where they should be,  
+**[7440.00s] English:** The thing that holds all the cells into their proper shape and keeps them where they should be.  
 **Translation:** 
 
-**[7444.66s] English:** that is actually crucial. And there's probably a lot of signaling that goes on, like you stick a  
+**[7444.66s] English:** That is actually crucial. And there's probably a lot of signaling that goes on; like, you stick a  
 **Translation:** 
 
-**[7449.96s] English:** stem cell on the right extracellular matrix, it will turn into the kind of cell that you want  
+**[7449.96s] English:** Stem cell on the right, in contact with the extracellular matrix, it will turn into the kind of cell that you want.  
+**Translation:** Vocabulary: crucial: 至关重要; signaling: 信号传递
+
+**[7454.72s] English:** And take the right shape and position, and start functioning. I think that's been a huge  
 **Translation:** 
 
-**[7454.72s] English:** and take the right shape and position and start functioning. I think that's been a huge  
+**[7459.28s] English:** Advance, knowing that it's not just these, you know, celebrity stem cells that are the answer.  
 **Translation:** 
 
-**[7459.28s] English:** advance, knowing that it's not just these, you know, celebrity stem cells that are the answer,  
+**[7465.38s] English:** It's this kind of part in the background, this sort of thing just like laying the foundation.  
 **Translation:** 
 
-**[7465.38s] English:** it's this kind of part in the background, this sort of just like laying the foundation,  
+**[7469.52s] English:** The system that you put these cells onto. And we're not there yet, but there's definitely a lot.  
 **Translation:** 
 
-**[7469.52s] English:** the system that you put these cells onto. And we're not there yet, but there's definitely a lot  
+**[7474.60s] English:** Happening a lot of research, and I think there'll be some advances probably soon.  
 **Translation:** 
 
-**[7474.60s] English:** happening, a lot of research happening, and I think there'll be some advances probably soon.  
+**[7479.66s] English:** So, now, on the topic of the interaction between computational systems and biology. If you look at a company,...  
+**Translation:** Vocabulary: computational: 计算的
+
+**[7488.42s] English:** Like Neuralink or the whole effort of brain-computer interfaces, now there's a neurosurgery.  
 **Translation:** 
 
-**[7479.66s] English:** So now on the topic of interaction of computational systems with biology. So if you look at a company  
-**Translation:** Vocabulary: computational: 计算相关的
+**[7494.66s] English:** Component there. We have to connect the electrical systems.  
+**Translation:** Vocabulary: interfaces: 接口; neurosurgery: 神经外科手术
 
-**[7488.42s] English:** like Neuralink or the whole effort of brain-computer interfaces, now there's a neurosurgery  
+**[7499.52s] English:** With biological systems, so just implanting is difficult. Then the communication...  
 **Translation:** 
 
-**[7494.66s] English:** component there. We have to connect electrical systems.  
-**Translation:** Vocabulary: interfaces: 人机接口; neurosurgery: 神经外科
-
-**[7499.52s] English:** With biological systems. So just even the implanting is difficult. Then the communication  
+**[7509.90s] English:** It is difficult. But what would you say, given what you know about the brain and what you know about  
 **Translation:** 
 
-**[7509.90s] English:** is difficult. But what would you say from what you know about the brain, what you know about  
+**[7514.30s] English:** The human body, and all the beautiful mess that's there—how difficult is the effort of Neuralink?  
 **Translation:** 
 
-**[7514.30s] English:** the human body and all the beautiful mess that's there, how difficult is the effort of Neuralink?  
-**Translation:** 
-
-**[7520.50s] English:** Do you think it's feasible? I think it's definitely feasible. I think we need to probably know more  
+**[7520.50s] English:** Do you think it's feasible? I think it's definitely feasible. I think we need to know more.  
 **Translation:** Vocabulary: feasible: 可行的
 
-**[7526.94s] English:** than we do and know how to connect. And I think it's definitely feasible. I think we need to  
+**[7526.94s] English:** Than we do, and know how to connect. And I think it's definitely feasible. I think we need to.  
 **Translation:** 
 
-**[7529.52s] English:** connect it in all these ways. I think some advances, for instance, much less sexy, but  
+**[7529.52s] English:** Connect it in all these ways. I think some advances, for instance, are much less sexy, but  
+**Translation:** Vocabulary: advances: 进步
+
+**[7535.92s] English:** Really, it's already impacting medical care in something called deep brain stimulation, which is done for  
 **Translation:** 
 
-**[7535.92s] English:** really already impacting medical care is something called deep brain stimulation, which is done for  
+**[7540.84s] English:** Parkinson's disease, and other conditions, where neurosurgeons implant this device that electrically stimulates.  
+**Translation:** Vocabulary: electrically: 通过电; neurosurgeons: 神经外科医生; stimulates: 刺激; stimulation: 刺激
+
+**[7547.12s] English:** The part of the brain that is not functioning in Parkinson's disease, and it's quite dramatic.  
 **Translation:** 
 
-**[7540.84s] English:** Parkinson's disease and others where neurosurgeons implant this device that electrically stimulates  
-**Translation:** Vocabulary: electrically: 通过电流; neurosurgeons: 神经外科医生; stimulates: 刺激; stimulation: 刺激
-
-**[7547.12s] English:** the part of the brain that is not functioning in Parkinson's disease. And it's quite dramatic  
+**[7552.58s] English:** How effective it works. And I remember, as a med student, watching a neurologist literally like  
 **Translation:** 
 
-**[7552.58s] English:** how effective it works. And I remember as a med student watching a neurologist literally like  
+**[7557.90s] English:** Turn the electricity up on this hand. And I was like, "Oh, my God, I'm going to die. I'm going to...  
 **Translation:** 
 
-**[7557.90s] English:** turn the electricity up on this hand. And I was like, oh, my God, I'm going to die. I'm going to  
+**[7559.52s] English:** Die. I'm going to die. I'm going to die. I'm going to die. I'm going to die. I'm going to die.  
 **Translation:** 
 
-**[7559.52s] English:** die. I'm going to die. I'm going to die. I'm going to die. I'm going to die. I'm going to die.  
+**[7560.00s] English:** And you could see the person's Parkinson's tremor go away, and you could see them start to walk in a more steady fashion. And I know there are studies—there are actually studies—or there may be studies in the future studying the same deep brain stimulation for everything from eating disorders to severe OCD, like paralyzing OCD, not just, "I want to wash my hands three times.  
 **Translation:** 
 
-**[7560.00s] English:** And you could see the person's Parkinson's tremor go away, and you could see them start to walk in a more steady fashion. And I know there's studies, there's actually studies, or there may be studies in the future studying the same deep brain stimulation for everything from eating disorders to severe OCD, like severe OCD, like paralyzing OCD, not just like, I want to wash my hands three times.  
-**Translation:** 
-
-**[7583.16s] English:** And so I think the, you know, the potential is there, but I guess connecting the brain in a microscopic way and sort of a multifaceted way, you know, there needs to be sort of a million connections or some very high number of connections for them to work fluidly. As far as I know, I'm not an expert in the area.  
-**Translation:** Vocabulary: microscopic: 显微的; multifaceted: 多面的; paralyzing: 瘫痪性的
+**[7583.16s] English:** And so, I think the potential is there, but I guess connecting the brain in a microscopic and multifaceted way — you know, there needs to be sort of a million connections or some very high number of connections for them to work fluidly. As far as I know, I'm not an expert in the area.  
+**Translation:** Vocabulary: disorders: 疾病; fluidly: 流畅地; microscopic: 显微的; multifaceted: 多面的; paralyzing: 瘫痪性的; tremor: 震颤
 
 **[7603.02s] English:** First of all, I believe and I trust in the adaptability of the biological system to whatever crazy stuff you try to shove in there.  
 **Translation:** 
 
-**[7610.74s] English:** So it's going to potentially reject.  
+**[7610.74s] English:** So, it's going to potentially reject.  
 **Translation:** Vocabulary: adaptability: 适应性; shove: 塞
 
-**[7613.16s] English:** But it's also going to, if it doesn't reject things, adapt. And if we can create computational systems that also adapt, AI systems that adapt, and can kind of both of them reach towards each other and figure stuff out. But actually, our current AI systems are not very adaptable to the, like, in the wild way that biology is adaptable, like adaptable to anything.  
+**[7613.16s] English:** But it's also going to, if it doesn't reject things, adapt. And if we can create computational systems that also adapt, AI systems that adapt, and can kind of reach towards each other and figure stuff out. But actually, our current AI systems are not very adaptable in the wild way that biology is adaptable—like, adaptable to anything.  
 **Translation:** 
 
-**[7639.24s] English:** And if we can build AI systems like that, I feel like there's some interesting things.  
-**Translation:** Vocabulary: adaptable: 适应性强; computational: 计算的
+**[7639.24s] English:** And if we can build AI systems like that, I feel like there are some interesting things.  
+**Translation:** Vocabulary: adaptable: 易适应的; computational: 计算的
 
-**[7643.16s] English:** But of course, there's ethics, and there's real human lives at stake. And there, you can't quite experiment, you have to have things that work. And maybe simulation can help, but reality is, it's a, it's a dangerous playground to play on.  
+**[7643.16s] English:** But of course, there's ethics, and there are real human lives at stake. And there, you can't just experiment; you have to have things that work. Maybe simulation can help, but the reality is, it's a dangerous playground to play on.  
 **Translation:** 
 
 **[7664.08s] English:** It is messy.  
-**Translation:** Vocabulary: simulation: 模拟
+**Translation:** 
 
-**[7665.20s] English:** You tweeted that, quote, if you look back from far enough into the future, every doctor today will look like a total quack.  
+**[7665.20s] English:** You tweeted that, "if you look back from far enough into the future, every doctor today will look like a total quack.  
 **Translation:** 
 
 **[7673.16s] English:** But if you look back from far enough into the future, every doctor today will look like a total quack.  
@@ -4606,134 +4607,134 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[7676.66s] English:** First of all, that's humbling to think about.  
 **Translation:** 
 
-**[7680.00s] English:** like we don't know what we're doing in the great like there's been so much progress that  
+**[7680.00s] English:** Like, we don't know what we're doing. In the great scheme of things, there's been so much progress that...  
 **Translation:** Vocabulary: humbling: 令人谦卑
 
-**[7686.24s] English:** we kind of have this confidence that we figured it all out if you look at history and you read  
+**[7686.24s] English:** We kind of have this confidence that we've figured it all out. If you look at history and you read,...  
 **Translation:** 
 
-**[7691.44s] English:** how people thought i mean there's so many moments in history where people really thought that they  
+**[7691.44s] English:** How people thought — I mean, there are so many moments in history where people really thought that they  
 **Translation:** 
 
-**[7697.12s] English:** figured it all out it's almost like there's nothing else left to do at every stage in history  
+**[7697.12s] English:** Figured it all out; it's almost like there's nothing else left to do, at every stage in history.  
 **Translation:** 
 
-**[7702.96s] English:** and uh and then you realize no progress often happens uh like exponentially and every moment  
+**[7702.96s] English:** And, uh, and then you realize that no progress often happens like exponentially, and every moment.  
 **Translation:** 
 
-**[7711.20s] English:** you continue to think you figured it all out but if you're being honest if you're being humble  
+**[7711.20s] English:** You continue to think you've figured it all out, but if you're being honest and humble,...  
 **Translation:** 
 
-**[7717.28s] English:** then you realize we're just shrouded in mystery so what do we make of this  
-**Translation:** Vocabulary: shrouded: 笼罩
+**[7717.28s] English:** Then you realize we're just shrouded in mystery, so what do we make of this?  
+**Translation:** Vocabulary: humble: 谦逊; shrouded: 笼罩
 
-**[7721.44s] English:** like how should we feel that how should you feel as a doctor how should we feel as scientific  
+**[7721.44s] English:** Like, how should we feel? How should you feel as a doctor? How should we feel as scientists?  
 **Translation:** 
 
-**[7727.52s] English:** explorers of the human body the fact that we're probably going to be wrong about everything  
-**Translation:** Vocabulary: explorers: 探索者
+**[7727.52s] English:** Explorers of the human body, the fact that we're probably going to be wrong about everything.  
+**Translation:** Vocabulary: explorers: 人体探索者
 
-**[7732.96s] English:** we currently know right there's a saying actually by the time you finish med school  
+**[7732.96s] English:** We currently know: there's actually a saying, "By the time you finish med school,  
 **Translation:** 
 
-**[7737.92s] English:** half of what you learned is wrong um which is quite illustrative and becoming more true as  
-**Translation:** Vocabulary: illustrative: 举例说明的
+**[7737.92s] English:** Half of what you learned is wrong, um, which is quite illustrative and becoming more true as.  
+**Translation:** Vocabulary: illustrative: 说明性的
 
-**[7744.72s] English:** time goes on you know so much medical research going on so much learning going on it's really  
+**[7744.72s] English:** Time goes on, you know, so much medical research is going on, so much learning is going on; it's really...  
 **Translation:** 
 
-**[7748.96s] English:** wonderful in a way but in some ways we still learn these concepts you know from the past and  
+**[7748.96s] English:** Wonderful, in a way, but in some ways, we still learn these concepts from the past, you know.  
 **Translation:** 
 
-**[7754.72s] English:** i know when you take a test as a medical student sometimes  
+**[7754.72s] English:** I know when you take a test as a medical student, sometimes  
 **Translation:** 
 
-**[7758.80s] English:** you know they want to ask you they want you to give the old answer but you know there's a new  
+**[7758.80s] English:** You know, they want to ask you to give the old answer, but you know, there's a new  
 **Translation:** 
 
-**[7762.96s] English:** answer because of recent science but you know to give the old answer that's now incorrect to get  
+**[7762.96s] English:** Answer because of recent science, but you know, to give the old answer that's now incorrect to get  
 **Translation:** 
 
-**[7767.20s] English:** the question right on the test that happens actually quite a bit because things change so  
+**[7767.20s] English:** The question right on the test that happens, actually, quite a bit because things change so  
 **Translation:** 
 
-**[7771.36s] English:** quickly um yeah you know when i look back at doctors from centuries past i mean it's absurd  
+**[7771.36s] English:** Quickly, um, yeah. You know, when I look back at doctors from centuries past, I mean, it's absurd.  
 **Translation:** 
 
-**[7777.92s] English:** what they were doing to their patients i mean for probably for most of human history they were doing  
+**[7777.92s] English:** What they were doing to their patients; I mean, for probably most of human history, they were doing.  
+**Translation:** Vocabulary: absurd: 荒谬
+
+**[7781.92s] English:** More harm than good, you know. They're draining people of their blood, uh, that was...  
 **Translation:** 
 
-**[7781.92s] English:** more harm than good you know they're draining people of their blood uh that was you know  
+**[7786.88s] English:** Bloodletting was a huge part of medical care, you know, um,...  
+**Translation:** Vocabulary: bloodletting: 放血; draining: 抽血
+
+**[7792.40s] English:** George Walker  
 **Translation:** 
 
-**[7786.88s] English:** bloodletting was a huge part of of medical care you know um  
+**[7792.96s] English:** Hushington died of a para-tonsillar abscess—an abscess right next to the tonsil.  
+**Translation:** Vocabulary: abscess: 脓肿; tonsil: 扁桃体
+
+**[7797.04s] English:** Which has the great name of Quincy, and they bled him to death.  
 **Translation:** 
 
-**[7792.40s] English:** george walker  
+**[7800.00s] English:** You know, I mean, kind of adding insult to injury. Doctors are a menace and do a lot of harm. I mean, hopefully not intentionally. You know, even medical errors are still a huge problem, causing death and morbidity. So we do a lot of things that are not great. But, you know, our knowledge is very imperfect at this point.  
+**Translation:** Vocabulary: insult: 侮辱; menace: 威胁; morbidity: 病死率
+
+**[7819.62s] English:** I do have some confidence, you know—I guess—that perfect scientific studies that try to get at the reality of the universe are essential. Because when I think of why a certain medication works for a certain condition, it might make perfect sense in my head, knowing the biology, the biochemistry, the anatomy—it makes perfect sense—and it must work. I gave it to the patient, they got better. And that's happened 20 times in the last year. But it's, you know—I'm wrong. Like when you actually do a study, it actually doesn't help.  
 **Translation:** 
 
-**[7792.96s] English:** hushington died of a paratonsill their abscess an abscess right next to the tonsil  
-**Translation:** Vocabulary: abscess: 脓肿; paratonsill: 扁桃体旁; tonsil: 扁桃体
+**[7849.36s] English:** Maybe it hurts. And that's really, I think, the way we explain medications working in our minds is often wrong when you end up finally doing the study. And some of the most interesting experiments involve what we call sham surgery. For instance, people who injure their knee might undergo arthroscopy, where an orthopedic surgeon goes in there with a scope, gets bits of bone out, shaves down the cartilage, and cleans things up. And it helps some people.  
+**Translation:** Vocabulary: anatomy: 解剖学; arthroscopy: 关节镜手术; biochemistry: 生物化学; cartilage: 软骨; experiments: 实验; medication: 药物; medications: 药物; orthopedic: 骨科的; shaves: 刮除
 
-**[7797.04s] English:** which has the great name of quincy and they bled him to death  
+**[7878.04s] English:** But they actually did some studies where one group of people got the true arthroscopy, and others just got sham surgery, where they put them to sleep, made little cuts in the skin, so they woke up with scars. And then it turned out that it's not clear whether arthroscopy is actually helping.  
 **Translation:** 
 
-**[7800.00s] English:** You know, I mean, kind of adding insult to injury. Doctors are a menace and do a lot of harm. I mean, hopefully not intentionally. You know, even medical errors are still a huge problem, cause of death and morbidity. So we do a lot of things that are not great. But, you know, our knowledge, yeah, it's very imperfect at this point.  
-**Translation:** Vocabulary: menace: 危害; morbidity: 致病性
+**[7893.52s] English:** And the same, there was a recent huge study on doing a stent procedure in someone's coronary arteries if they have stable chest pain—not like I'm having a heart attack, you need a stent right then—but more like chronic coronary artery disease.  
+**Translation:** Vocabulary: arteries: 动脉; artery: 动脉; chronic: 慢性的; coronary: 冠状的; stent: 支架
 
-**[7819.62s] English:** I do have some confidence, you know, I guess, perfect scientific studies that try to get at the reality of the universe are essential. Because when I think of why a certain medication works for a certain condition, it might make perfect sense in my head, knowing the biology, the biochemistry, the anatomy, it makes perfect sense, it must work. I gave it to the patient, they got better. And that's happened 20 times in the last year. But it's, you know, I'm wrong. Like when you actually do a study, it actually doesn't help.  
+**[7908.04s] English:** Where every time I run up the stairs, I get chest pain. And then when I rest, it goes away. Like, obviously, you put a stent, you increase blood flow to the heart—how could that not work? But then when they did the sham catheterization,...  
 **Translation:** 
 
-**[7849.36s] English:** Maybe it hurts. And that's really, I think, the way we explain medications working in our minds is often wrong when you end up finally doing the study. And some of the most interesting experiments involve what we call sham surgery. So for instance, people who injure their knee, you know, arthroscopy, where an orthopedic surgeon goes in there with a scope, gets bits of bone out, shaves down the cartilage, you know, cleans things up. And it helps some people.  
-**Translation:** Vocabulary: arthroscopy: 关节镜手术; biochemistry: 生物化学; cartilage: 软骨; medications: 药物; orthopedic: 骨科
+**[7920.00s] English:** It actually looks like it might not actually help any better than the sham.  
+**Translation:** Vocabulary: catheterization: 导管插入术
 
-**[7878.04s] English:** But they actually did some studies where one group of people got the true arthroscopy, and others just got sham surgery, where they put them to sleep, made little cuts in the skin, so they woke up with scars. And then it turned out that it's not clear arthroscopy is actually helping.  
-**Translation:** 
-
-**[7893.52s] English:** And the same, there was a recent huge study of doing, putting a stent in someone's coronary arteries, if they have stable chest pain, not like I'm having a heart attack, you need a stent, like right then. But, you know, kind of chronic coronary artery disease.  
-**Translation:** Vocabulary: arteries: 动脉; coronary: 冠状的; stent: 支架
-
-**[7908.04s] English:** Where every time I run up the stairs, I get chest pain. And then when I rest, it goes away. Like, obviously, you put a stent, you increase blood flow to the heart, like, how could that not work? But then when they did the sham catheterization,  
-**Translation:** 
-
-**[7920.00s] English:** It actually looks like it might not actually help better than the sham.  
-**Translation:** Vocabulary: catheterization: 导管插入
-
-**[7924.42s] English:** So I think those placebo-controlled studies are essential.  
+**[7924.42s] English:** So, I think those placebo-controlled studies are essential.  
 **Translation:** 
 
 **[7927.32s] English:** I mean, it is shocking, and this has been driven home during the last two years, how  
 **Translation:** 
 
-**[7932.28s] English:** hard it is to figure out what the hell's going on in the universe, and especially with our  
+**[7932.28s] English:** It's hard to figure out what the hell is going on in the universe, and especially with ours.  
 **Translation:** 
 
-**[7935.92s] English:** bodies.  
+**[7935.92s] English:** Bodies.  
 **Translation:** 
 
-**[7936.70s] English:** Like, it is really hard to get at the truth, and what you think makes sense, like, often  
+**[7936.70s] English:** Like, it is really hard to get at the truth, and what you think makes sense, often  
 **Translation:** 
 
-**[7941.00s] English:** turns out.  
+**[7941.00s] English:** Turns out.  
 **Translation:** 
 
 **[7941.70s] English:** I mean, the history of modern medicine is littered with examples where it made perfect  
 **Translation:** 
 
-**[7945.76s] English:** sense, and it seemed to help some patients, and it turns out it's not doing anything.  
+**[7945.76s] English:** Sense, and it seemed to help some patients, but it turns out it's not doing anything.  
 **Translation:** Vocabulary: littered: 充满例子
 
 **[7950.08s] English:** Or it's harmful.  
 **Translation:** 
 
-**[7951.26s] English:** Yeah, there's all kinds of narratives swimming around.  
-**Translation:** 
+**[7951.26s] English:** Yeah, there are all kinds of narratives swimming around.  
+**Translation:** Vocabulary: narratives: 叙述
 
 **[7953.30s] English:** We convince ourselves as a human civilization that something is true.  
 **Translation:** 
 
 **[7957.66s] English:** There's propaganda machines.  
-**Translation:** 
+**Translation:** Vocabulary: propaganda: 宣传
 
 **[7959.62s] English:** There's just self-delusion.  
 **Translation:** 
@@ -4741,16 +4742,16 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[7962.86s] English:** There's centralized communities.  
 **Translation:** 
 
-**[7965.56s] English:** Like, there's a scientific community that believes a certain thing.  
+**[7965.56s] English:** Like, there is a scientific community that believes a certain thing.  
 **Translation:** 
 
-**[7968.04s] English:** There's the conspiracy theories that believe a certain thing.  
+**[7968.04s] English:** There are conspiracy theories that believe in a certain thing.  
+**Translation:** Vocabulary: conspiracy: 阴谋论
+
+**[7971.22s] English:** Sometimes, the scientific community is right.  
 **Translation:** 
 
-**[7971.22s] English:** Sometimes the scientific community is right.  
-**Translation:** 
-
-**[7972.92s] English:** Sometimes the conspiracy theorists are right.  
+**[7972.92s] English:** Sometimes, the conspiracy theorists are right.  
 **Translation:** Vocabulary: theorists: 阴谋论者
 
 **[7976.26s] English:** Throughout human history, I mean.  
@@ -4765,370 +4766,370 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[7982.78s] English:** We're way smarter than we were in the past.  
 **Translation:** 
 
-**[7984.82s] English:** And then there's these, like, interesting studies that I've seen.  
+**[7984.82s] English:** And then there are these, like, interesting studies that I've seen.  
 **Translation:** 
 
-**[7989.34s] English:** I think Robin Hanson mentioned it to me, that if you look at the entirety of medication,  
-**Translation:** Vocabulary: entirety: 全部
+**[7989.34s] English:** I think Robin Hanson mentioned it to me that if you look at the entirety of medications,  
+**Translation:** Vocabulary: entirety: 全部; medications: 药物
 
-**[7996.60s] English:** like, the effect of medication on human health, if you do those kinds of broad studies, does  
+**[7996.60s] English:** Like, the effect of medication on human health, if you do those kinds of broad studies, does  
 **Translation:** 
 
-**[8002.16s] English:** it actually help?  
+**[8002.16s] English:** Does it actually help?  
+**Translation:** Vocabulary: medication: 药物
+
+**[8004.18s] English:** Like, does quality of life, life span, certain measures of well-being, actually matter?  
 **Translation:** 
 
-**[8004.18s] English:** Like, does quality of life, life span, certain measures of the well-being, does it actually  
+**[8010.54s] English:** And you look at human society as a whole: does taking medication or not actually help?  
 **Translation:** 
 
-**[8010.54s] English:** And you look at human society as a whole, does taking medication or not actually help?  
-**Translation:** 
-
-**[8017.34s] English:** And those studies find there's no positive or negative effect with medication.  
+**[8017.34s] English:** And those studies find that there is no positive or negative effect with medication.  
 **Translation:** 
 
 **[8022.04s] English:** And that's a very kind of interesting perspective.  
 **Translation:** 
 
-**[8026.74s] English:** I mean, you could probably argue a lot of ways.  
+**[8026.74s] English:** I mean, you could probably argue it in lots of different ways.  
 **Translation:** 
 
 **[8031.38s] English:** But the point is, because you can bring up literally a billion cases where medication  
 **Translation:** 
 
-**[8038.82s] English:** is significant positive.  
+**[8038.82s] English:** Is significant positive.  
 **Translation:** 
 
-**[8040.00s] English:** impact on a particular patient but you have to kind of zoom out and honestly look at the positive  
+**[8040.00s] English:** Impact on a particular patient, but you have to kind of zoom out and honestly look at the positives.  
+**Translation:** Vocabulary: positives: 积极面
+
+**[8045.92s] English:** Effects of medicine, um, of lifestyle choices, such as diet choices and whether or not you exercise, or maybe we'll.  
 **Translation:** 
 
-**[8045.92s] English:** effects of medicine um of lifestyle choices diet choices of uh exercise or not you know maybe we'll  
+**[8052.98s] English:** Find eventually that exercise is actually bad for you, but maybe, like, there are all kinds of  
 **Translation:** 
 
-**[8052.98s] English:** find eventually that exercise is actually bad for you but maybe like there there's all kinds of  
+**[8059.78s] English:** Things that we're going to, I feel like, we're going to figure out one of the things I think.  
 **Translation:** 
 
-**[8059.78s] English:** things that we're going to um uh i feel like we're going to figure out one of the things i think  
+**[8065.12s] English:** We're going to figure out everything I've learned about my body. Um, is that aside from it being  
 **Translation:** 
 
-**[8065.12s] English:** we're going to figure out everything i've learned about my body um is that aside from it being  
+**[8073.32s] English:** Adaptable: There are a lot of very unique parameters that are opaque to me, and I'm measuring through...  
 **Translation:** 
 
-**[8073.32s] English:** adaptable there's a lot of very unique parameters that are opaque to me that i'm measuring through  
+**[8079.90s] English:** This feedback mechanism works by trying stuff and learning from it. One of the things we might  
+**Translation:** Vocabulary: adaptable: 灵活; opaque: 难懂
+
+**[8085.72s] English:** Learn is that medicine cannot be done without collecting a huge amount of data about each.  
 **Translation:** 
 
-**[8079.90s] English:** this feedback mechanism by trying stuff and learning about it and one of the things we might  
-**Translation:** Vocabulary: adaptable: 灵活多变; opaque: 晦涩难懂
+**[8091.90s] English:** Individual humans, so it's absurd.  
+**Translation:** Vocabulary: absurd: 荒谬; cannot: 不能
 
-**[8085.72s] English:** learn is that medicine cannot be done without collecting a huge amount of data about each  
+**[8095.12s] English:** To be like, if I show up and see a doctor, it's absurd for that doctor to have just a couple of  
 **Translation:** 
 
-**[8091.90s] English:** individual human so like it's absurd  
-**Translation:** Vocabulary: cannot: 不能
+**[8101.84s] English:** Minutes with me, like just like looking at basic symptoms, looking at stuff like uh crappy data.  
+**Translation:** Vocabulary: crappy: 糟糕的数据
 
-**[8095.12s] English:** to be like if i show up uh and see a doctor it's absurd for that doctor to have just a couple of  
+**[8112.00s] English:** Like, first of all, no, um, long-term data, no longitude, no data, no historical data, no.  
 **Translation:** 
 
-**[8101.84s] English:** minutes with me like just like looking at basic symptoms looking at such like uh crappy uh data  
-**Translation:** Vocabulary: crappy: 糟糕的
-
-**[8112.00s] English:** like first of all no um long-term data no longitude no data no historical data no  
-**Translation:** 
-
-**[8121.32s] English:** um detailed analysis of all the possible things  
+**[8121.32s] English:** Um, a detailed analysis of all the possible things.  
 **Translation:** Vocabulary: longitude: 经度
 
-**[8125.10s] English:** not just the related to your symptoms but related to other things that you're not complaining about  
+**[8125.10s] English:** Not just related to your symptoms, but related to other things you're not complaining about.  
 **Translation:** 
 
-**[8130.60s] English:** just giving you a full picture of the data and then using ai to help the human doctor highlight  
+**[8130.60s] English:** Just give you a full picture of the data, and then use AI to help the human doctor highlight.  
+**Translation:** Vocabulary: highlight: 突出显示
+
+**[8137.70s] English:** The things that you should perhaps pay extra attention to, I think we'll look back at this.  
 **Translation:** 
 
-**[8137.70s] English:** the things that you should perhaps pay extra attention to i think we'll look back at this  
+**[8143.32s] English:** Time is ridiculous that doctors were expected to help anybody whatsoever without having the data.  
+**Translation:** Vocabulary: whatsoever: 任何情况下
+
+**[8148.58s] English:** Without having a huge amount of data about the human body, like you have to do, you have to rely on so much.  
 **Translation:** 
 
-**[8143.32s] English:** time is ridiculous that doctors were expected to help anybody whatsoever without having the data  
-**Translation:** Vocabulary: whatsoever: 任何事物
-
-**[8148.58s] English:** without having a huge amount of data about the human body like you're you have to do so much  
+**[8154.02s] English:** With so little data,  
 **Translation:** 
 
-**[8154.02s] English:** with so little data  
+**[8155.10s] English:** It's very 19th century; it's very 19th century, so it relies on the  
 **Translation:** 
 
-**[8155.10s] English:** it's very 19th century it's very 19th century so it relies on the  
-**Translation:** 
-
-**[8160.00s] English:** of doctors and of course the intuition the instinct you build up over time right and that's  
+**[8160.00s] English:** Of doctors, and of course the intuition and instinct you build up over time, right, and that's  
 **Translation:** Vocabulary: instinct: 直觉; intuition: 直觉
 
-**[8165.56s] English:** quite powerful the human brain is pretty pretty damn good for using experience to teach you how  
+**[8165.56s] English:** Quite powerful, the human brain is pretty pretty damn good at using experience to teach you how.  
 **Translation:** 
 
-**[8171.34s] English:** to make good decisions but still it's it's uh it's you might as well be bloodletting  
+**[8171.34s] English:** To make good decisions, but still, it's like you might as well be bloodletting.  
 **Translation:** 
 
-**[8176.66s] English:** like uh it's humbling to think about that it's humbling it is humbling and it's important i  
+**[8176.66s] English:** Like, uh, it's humbling to think about that. It's humbling, and it is important. I  
 **Translation:** 
 
-**[8184.20s] English:** think doctors sometimes lose that uh humble uh perspective on what they do and i think it's  
-**Translation:** Vocabulary: humbling: 令人谦卑
+**[8184.20s] English:** Think doctors sometimes lose that humble perspective on what they do, and I think it's  
+**Translation:** Vocabulary: humble: 谦逊; humbling: 令人谦逊
 
-**[8191.06s] English:** very important because as i said you know medical history is just medical dogma has been tossed into  
+**[8191.06s] English:** Very important because, as I said, you know, medical history is just medical dogma that has been tossed into.  
 **Translation:** 
 
-**[8195.86s] English:** the trash bin so many times something doctors were sure of was the case is not and it's important to  
+**[8195.86s] English:** The trash bin: Something doctors were sure of was the case is not, and it's important to.  
 **Translation:** Vocabulary: dogma: 教条
 
-**[8202.02s] English:** to be cognizant of that um you tweeted about somebody that had a big impact just by reading  
+**[8202.02s] English:** To be cognizant of that, um, you tweeted about somebody that had a big impact just by reading.  
 **Translation:** 
 
-**[8212.88s] English:** about him on my life  
-**Translation:** Vocabulary: cognizant: 知晓
+**[8212.88s] English:** About him, on my life.  
+**Translation:** Vocabulary: cognizant: 意识到的
 
-**[8214.20s] English:** as well i still think about him uh rest in peace dr paul farmer a big inspiration to me his medical  
+**[8214.20s] English:** As well, I still think about him. Uh, rest in peace, Dr. Paul Farmer — a big inspiration to me. His medical  
 **Translation:** 
 
-**[8222.40s] English:** career was a testament to what one person can do to improve the world so who was paul farmer and  
+**[8222.40s] English:** Career was a testament to what one person can do to improve the world. So, who was Paul Farmer?  
 **Translation:** Vocabulary: testament: 证明
 
-**[8229.78s] English:** what made him a great doctor and a great man and um somebody who was an inspiration to you  
+**[8229.78s] English:** What made him a great doctor and a great man, and someone who was an inspiration to you?  
 **Translation:** 
 
-**[8234.88s] English:** so paul farmer um was a kind of pioneer of global health he um started partners in health which is  
+**[8234.88s] English:** So, Paul Farmer was a kind of pioneer of global health. He started Partners in Health, which is  
+**Translation:** Vocabulary: pioneer: 先驱
+
+**[8243.44s] English:** Kind of an  
 **Translation:** 
 
-**[8243.44s] English:** kind of an  
+**[8244.02s] English:** Interesting.  
 **Translation:** 
 
-**[8244.02s] English:** interesting  
+**[8244.18s] English:** An international health organization that operates originally in Haiti, Rwanda, and elsewhere.  
 **Translation:** 
 
-**[8244.18s] English:** international health organization that operates originally in haiti also rwanda and elsewhere  
+**[8249.38s] English:** And I think he was just so zealous about getting health care to some of the poorest people in the  
+**Translation:** Vocabulary: haiti: 海地; rwanda: 卢旺达; zealous: 热忱的
+
+**[8258.06s] English:** World, and I remember reading some of his books and a book about him by Tracy Kidder—that's really  
 **Translation:** 
 
-**[8249.38s] English:** and i think he was just so a zealot for getting health care to some of the poorest people in the  
-**Translation:** Vocabulary: haiti: 海地; rwanda: 卢旺达; zealot: 热心分子
-
-**[8258.06s] English:** world and he i remember reading some of his books and a book about him by tracy kidder that's really  
-**Translation:** 
-
-**[8263.44s] English:** great mountains beyond mountains about how even when he was a medical student he was flying back  
+**[8263.44s] English:** Great mountains, beyond mountains. About how, even when he was a medical student, he was flying back.  
 **Translation:** Vocabulary: tracy: 特蕾西
 
-**[8268.64s] English:** and forth to haiti in between exams and just with this really intense uh  
+**[8268.64s] English:** And forth to Haiti in between exams, and just with this really intense, uh  
 **Translation:** 
 
-**[8274.00s] English:** focus and interest in in getting health care to where it's where it's not and i think traveling  
+**[8274.00s] English:** Focus and interest in getting health care to where it's needed, and I think traveling can help.  
 **Translation:** 
 
-**[8280.00s] English:** the world, especially to poorer places like India, Calcutta, Nepal, you really see how  
+**[8280.00s] English:** The world, especially poorer places like India, Calcutta, and Nepal, you really see how  
 **Translation:** 
 
-**[8286.06s] English:** unevenly the benefits of modern medicine are spread over the surface of the earth.  
+**[8286.06s] English:** Unevenly, the benefits of modern medicine are spread over the surface of the earth.  
 **Translation:** Vocabulary: calcutta: 加尔各答; nepal: 尼泊尔
 
-**[8290.30s] English:** Not only because if you're in Antarctica and have a heart attack, you're in serious  
+**[8290.30s] English:** Not only because if you're in Antarctica and have a heart attack, you're in serious trouble.  
 **Translation:** 
 
-**[8294.22s] English:** trouble, but just medications that cost pennies a day can help people.  
-**Translation:** Vocabulary: antarctica: 南极洲; medications: 药物
+**[8294.22s] English:** Trouble, but just medications that cost pennies a day can help people.  
+**Translation:** Vocabulary: antarctica: 南极洲; medications: 药物; pennies: 便士
 
-**[8301.20s] English:** A lot of children in India under five die of diarrhea, and all they need is oral rehydration  
+**[8301.20s] English:** A lot of children in India under five die of diarrhea, and all they need is oral rehydration.  
 **Translation:** 
 
-**[8306.96s] English:** solutions to stay hydrated.  
-**Translation:** Vocabulary: diarrhea: 腹泻; hydrated: 补充水分; rehydration: 补液
+**[8306.96s] English:** Solutions to Stay Hydrated.  
+**Translation:** Vocabulary: diarrhea: 腹泻; hydrated: 水合; rehydration: 补水
 
 **[8310.00s] English:** You know, most of them can't afford IV fluids, for instance, to get admitted to the hospital.  
 **Translation:** 
 
 **[8313.62s] English:** And really, dehydration just kills hundreds of thousands of kids throughout the world.  
-**Translation:** Vocabulary: dehydration: 脱水
+**Translation:** Vocabulary: dehydration: 脱水; fluids: 液体
 
-**[8318.76s] English:** Not to mention, bacterial pneumonia also is a major cause of death in children under five,  
+**[8318.76s] English:** Not to mention, bacterial pneumonia also is a major cause of death in children under five.  
 **Translation:** 
 
-**[8324.60s] English:** and many of them, not all, would be saved by amoxicillin, which is just pennies.  
+**[8324.60s] English:** And many of them, not all, would be saved by amoxicillin, which is just a few pennies.  
 **Translation:** 
 
-**[8329.98s] English:** And for me, you know, I had a path, and I wanted to have a career in global health,  
+**[8329.98s] English:** And for me, you know, I had a path, and I wanted to have a career in global health.  
 **Translation:** 
 
-**[8336.12s] English:** and I started.  
+**[8336.12s] English:** And I started.  
 **Translation:** 
 
-**[8337.08s] English:** I was traveling abroad to India and elsewhere when I was a medical student, and I continued  
+**[8337.08s] English:** I was traveling abroad to India and elsewhere when I was a medical student, and I continued.  
 **Translation:** 
 
-**[8340.68s] English:** doing that.  
+**[8340.68s] English:** Doing that.  
 **Translation:** 
 
 **[8341.82s] English:** Paul Farmer was sort of one of the first to kind of open everyone's eyes, I think, about  
 **Translation:** 
 
-**[8346.26s] English:** the good you can do with just money that we would, you know, change that we would throw  
+**[8346.26s] English:** The good you can do with just money—that we would, you know—change to something we would throw.  
 **Translation:** 
 
-**[8351.98s] English:** away, just, you know, put in a purse and forget it, or wherever we accumulate change these  
+**[8351.98s] English:** Away, just you know, put it in a purse and forget it, or wherever we accumulate change.  
 **Translation:** 
 
-**[8356.06s] English:** days.  
+**[8356.06s] English:** Days.  
 **Translation:** Vocabulary: accumulate: 积攒
 
-**[8356.60s] English:** So that's very eye-opening.  
+**[8356.60s] English:** So, that's very eye-opening.  
 **Translation:** 
 
-**[8358.76s] English:** And while medical science advances, and that's good, you know, we shouldn't forget that  
+**[8358.76s] English:** And while medical science advances—and that's good—we shouldn't forget that  
+**Translation:** Vocabulary: advances: 进步
+
+**[8363.20s] English:** 100-Year-Old Treatments Could Save Lives in Parts of the World Where They're Just Not  
 **Translation:** 
 
-**[8363.20s] English:** 100-year-old treatments could save lives in parts of the world where they're just not  
+**[8366.46s] English:** Available.  
 **Translation:** 
 
-**[8366.46s] English:** available.  
+**[8367.48s] English:** People should definitely read "Mountains beyond Mountains.  
 **Translation:** 
 
-**[8367.48s] English:** People should definitely read Mountains Beyond Mountains.  
+**[8370.92s] English:** Just for me, at least—a sort of person from outside all of it—it was the first person.  
 **Translation:** 
 
-**[8370.92s] English:** Just for me, at least, sort of a person from outside all of it, it was the first person  
+**[8378.46s] English:** To make me realize how difficult and the amount of humanity that's involved in being a doctor.  
 **Translation:** 
 
-**[8378.46s] English:** to make me realize how difficult and the amount of humanity that's involved in being a doctor.  
+**[8386.02s] English:** So, it's not some kind of cold, economics-based argument about where to send treatments and  
 **Translation:** 
 
-**[8386.02s] English:** So it's not some kind of cold economics-based argument about where to send treatments and  
+**[8391.84s] English:** So on.  
 **Translation:** 
 
-**[8391.84s] English:** so on.  
-**Translation:** 
-
-**[8392.80s] English:** That is there, too, like you said, basic treatments.  
+**[8392.80s] English:** That is there, too, like you said: basic treatments.  
 **Translation:** 
 
 **[8396.96s] English:** Hundreds of thousands, millions of people.  
 **Translation:** 
 
-**[8400.00s] English:** in many parts of the world but it's also look when you have a patient in front of  
+**[8400.00s] English:** In many parts of the world, but it's also important to look when you have a patient in front of you.  
 **Translation:** 
 
-**[8407.92s] English:** you there's some aspect of you that's willing to give a lot of your time a lot  
+**[8407.92s] English:** You, there's some aspect of you that's willing to give a lot of your time, a lot.  
 **Translation:** 
 
-**[8412.72s] English:** of your money a lot of your effort to saving them even though it doesn't make  
+**[8412.72s] English:** Of your money, a lot of your effort to saving them, even though it doesn't make  
 **Translation:** 
 
-**[8417.94s] English:** any sense it's a it's irrational in some sense but it's also human and that's the  
+**[8417.94s] English:** Any sense, it's a bit irrational in some sense, but it's also human, and that's the  
 **Translation:** 
 
-**[8424.30s] English:** struggle of every doctor like when you have to choose how to allocate your time  
+**[8424.30s] English:** Struggle of every doctor, like when you have to choose how to allocate your time.  
 **Translation:** Vocabulary: allocate: 分配; irrational: 不合逻辑
 
-**[8427.78s] English:** how to allocate your mental energy right it's a tough it's a tough choice  
+**[8427.78s] English:** How to allocate your mental energy, right? It's a tough choice.  
 **Translation:** 
 
-**[8433.00s] English:** that a doctor has to make and it's a human choice it's not some kind of cold  
+**[8433.00s] English:** That a doctor has to make, and it's a human choice—it's not some kind of cold.  
 **Translation:** 
 
-**[8437.60s] English:** game theoretic choice it's also a human choice and it can be irrational in some  
+**[8437.60s] English:** Game-theoretic choice is also a human choice, and it can be irrational in some cases.  
 **Translation:** 
 
-**[8443.08s] English:** sense right people are asking you for help that's basically what every patient  
-**Translation:** Vocabulary: theoretic: 理论的
-
-**[8447.58s] English:** interaction is someone's asking you for help so your inclination is to help them  
+**[8443.08s] English:** Sense, right? People are asking you for help—that's basically what every patient does.  
 **Translation:** 
 
-**[8451.84s] English:** and even if it means going above and beyond you know I mean a lot of factors  
-**Translation:** Vocabulary: inclination: 意愿
-
-**[8455.86s] English:** affect how compassionate  
+**[8447.58s] English:** Interaction is when someone asks you for help, so your inclination is to help them.  
 **Translation:** 
 
-**[8457.72s] English:** it is to be able to help them and even if it means going above and beyond you  
-**Translation:** Vocabulary: compassionate: 富有同情心
-
-**[8457.76s] English:** guys they're not even paying attention to what a doctor might be in any given  
+**[8451.84s] English:** And even if it means going above and beyond, you know, I mean, a lot of factors.  
 **Translation:** 
 
-**[8460.78s] English:** day or you know point in their career their own stress and burnout etc but  
+**[8455.86s] English:** Affect How Compassionate  
+**Translation:** 
+
+**[8457.72s] English:** It is to be able to help them, and even if it means going above and beyond, you.  
+**Translation:** Vocabulary: compassionate: 富有同情心的
+
+**[8457.76s] English:** Guys, they're not even paying attention to what a doctor might be in any given situation.  
+**Translation:** 
+
+**[8460.78s] English:** Day, or you know, at some point in their career, they experience their own stress and burnout, etc.  
 **Translation:** Vocabulary: burnout: 职业倦怠
 
-**[8467.18s] English:** it's someone asking you for help and so you do what you can to help them you've  
+**[8467.18s] English:** It's someone asking you for help, and so you do what you can to help them. You've  
 **Translation:** 
 
-**[8472.98s] English:** done quite a lot of things in your life it's been interesting  
+**[8472.98s] English:** Done quite a lot of things in your life; it's been interesting.  
 **Translation:** 
 
-**[8478.00s] English:** journey you know of course there's a lot of story yet to be written  
+**[8478.00s] English:** Journey, you know; of course, there's a lot more story yet to be written.  
 **Translation:** 
 
-**[8481.96s] English:** but what advice would you give to young people today in high school maybe  
+**[8481.96s] English:** But what advice would you give to young people today, in high school, maybe?  
 **Translation:** 
 
-**[8487.70s] English:** knowledge starting out on that journey? Maybe trying to pick majors, trying to pick jobs,  
+**[8487.70s] English:** Knowledge starting out on that journey? Maybe trying to pick majors, trying to pick jobs.  
 **Translation:** 
 
-**[8495.02s] English:** careers, dreams, and goals they can pursue. What advice would you give them to have a career they  
+**[8495.02s] English:** Careers, dreams, and goals they can pursue. What advice would you give them to have a career they can be proud of?  
 **Translation:** 
 
-**[8500.92s] English:** can be proud of or to even have a life they can be proud of? Well, I think having passion,  
+**[8500.92s] English:** Can be proud of, or to even have a life they can be proud of? Well, I think having passion,  
 **Translation:** 
 
-**[8508.20s] English:** which isn't always a voluntary thing, you know, you just have it or you don't perhaps, but  
+**[8508.20s] English:** Which isn't always a voluntary thing, you know; you just have it or you don't, perhaps.  
 **Translation:** Vocabulary: voluntary: 自愿的
 
-**[8512.32s] English:** becoming passionate about something and following it, you know, wherever it takes you,  
+**[8512.32s] English:** Becoming passionate about something and following it, you know, wherever it takes you.  
 **Translation:** 
 
-**[8517.66s] English:** I think is really important. You know, when  
-**Translation:** 
+**[8517.66s] English:** I think it's really important. You know, when  
+**Translation:** Vocabulary: passionate: 热情的
 
 **[8520.00s] English:** And I finished college and sort of went to Russia for the first time.  
 **Translation:** 
 
 **[8523.92s] English:** That was, in some ways, the beginning of my whole career and passions in my life.  
+**Translation:** Vocabulary: passions: 热情
+
+**[8529.24s] English:** And I didn't know what I was going for, what was going to happen, or what kind of career I would have.  
 **Translation:** 
 
-**[8529.24s] English:** And I didn't know what I was going for, what was going to happen, what kind of career I  
-**Translation:** 
-
-**[8533.54s] English:** would turn into, what kind of job would it help me get when I got back.  
+**[8533.54s] English:** What kind of job would it help me get when I got back?  
 **Translation:** 
 
 **[8536.02s] English:** I wasn't thinking about any of that.  
 **Translation:** 
 
-**[8537.64s] English:** I'm very fortunate I got that opportunity.  
+**[8537.64s] English:** I'm very fortunate to have gotten that opportunity.  
 **Translation:** 
 
 **[8540.52s] English:** I'm very fortunate to be able to go and see those places and have my mind opened.  
 **Translation:** 
 
-**[8545.58s] English:** And I think that really just the fuel from that passion that was created during that  
+**[8545.58s] English:** And I think that, really, just the fuel from that passion that was created during that  
 **Translation:** 
 
-**[8550.30s] English:** time is still, 20 years later, going strong.  
+**[8550.30s] English:** Time is still going strong, 20 years later.  
 **Translation:** 
 
 **[8553.48s] English:** You know, I'm partial to healthcare.  
-**Translation:** Vocabulary: healthcare: 医疗卫生
+**Translation:** Vocabulary: healthcare: 医疗保健
 
 **[8555.04s] English:** I love being a doctor.  
 **Translation:** 
 
-**[8556.68s] English:** I think it's the perfect combination of kind of intellectual problem-solving, being a detective,  
+**[8556.68s] English:** I think it's the perfect combination of kind of intellectual problem-solving, being a detective.  
 **Translation:** 
 
-**[8562.58s] English:** while also working with your hands, you know, when you do procedures, especially in the  
+**[8562.58s] English:** While also working with your hands, you know, when you do procedures, especially in the  
 **Translation:** 
 
 **[8566.72s] English:** ER, it's sort of the perfect combination.  
 **Translation:** 
 
-**[8569.12s] English:** I'm not a surgeon, but I do use my hands quite a bit, whether, you know, for a variety of  
+**[8569.12s] English:** I'm not a surgeon, but I do use my hands quite a bit, whether, you know, for a variety of tasks.  
 **Translation:** 
 
-**[8574.92s] English:** reasons.  
+**[8574.92s] English:** Reasons.  
 **Translation:** 
 
 **[8575.28s] English:** And so, I always loved working with my hands.  
@@ -5137,23 +5138,23 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[8578.00s] English:** I loved crafts, especially prehistoric crafts, before medical school.  
 **Translation:** Vocabulary: prehistoric: 史前的
 
-**[8583.46s] English:** And I just love kind of problem-solving, getting clues, figuring out what's going on, you know,  
+**[8583.46s] English:** And I just love kind of problem-solving, getting clues, figuring out what's going on, you know.  
 **Translation:** 
 
-**[8588.88s] English:** following your nose, using your instincts, your knowledge, and also just keen observation  
+**[8588.88s] English:** Following your nose, using your instincts, your knowledge, and also just keen observation.  
 **Translation:** Vocabulary: instincts: 直觉
 
-**[8593.88s] English:** of the patient.  
+**[8593.88s] English:** Of the patient.  
 **Translation:** 
 
 **[8594.86s] English:** You know, after seeing patient after patient, hundreds of patients, maybe thousands over  
 **Translation:** 
 
-**[8598.60s] English:** years, you do get this sort of innate kind of sense, this gestalt about what might be  
+**[8598.60s] English:** Years later, you do get this sort of innate, kind of sense, this gestalt about what might be.  
 **Translation:** 
 
-**[8603.56s] English:** going on.  
-**Translation:** Vocabulary: gestalt: 整体感知
+**[8603.56s] English:** Going on.  
+**Translation:** Vocabulary: gestalt: 整体感知; innate: 天生的
 
 **[8604.16s] English:** And, you know, it's not always.  
 **Translation:** 
@@ -5164,254 +5165,254 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[8606.12s] English:** That's the thing.  
 **Translation:** 
 
-**[8606.74s] English:** There's always, there's, gestalt is actually a big part of medicine.  
+**[8606.74s] English:** There's always a gestalt that's actually a big part of medicine.  
 **Translation:** 
 
-**[8610.66s] English:** You know, you often, in ERs or in hospitals, hear a nurse or a doctor say something like,  
+**[8610.66s] English:** You know, you often hear a nurse or a doctor say something like,  
 **Translation:** 
 
-**[8615.62s] English:** this patient just doesn't look good.  
+**[8615.62s] English:** This patient just doesn't look good.  
 **Translation:** 
 
-**[8617.86s] English:** And it's sort of, you can't point to a number, a value, a level in their blood, you know,  
+**[8617.86s] English:** And it's sort of like you can't point to a specific number, value, or level in their blood, you know.  
 **Translation:** 
 
-**[8622.38s] English:** a test, but something about them.  
+**[8622.38s] English:** A test, but something about them.  
 **Translation:** 
 
-**[8625.16s] English:** And a lot of that, I think, has to do with the color of their skin, believe it or not,  
+**[8625.16s] English:** And a lot of that, I think, has to do with the color of their skin, believe it or not.  
 **Translation:** 
 
-**[8629.48s] English:** which can change in certain disease states.  
+**[8629.48s] English:** Which can change in certain disease states.  
 **Translation:** 
 
 **[8632.66s] English:** But I think that it's...  
 **Translation:** 
 
-**[8635.28s] English:** It's just medicine combines this observation, the skills, the knowledge.  
+**[8635.28s] English:** It's just that medicine combines this observation, the skills, and the knowledge.  
 **Translation:** 
 
-**[8640.00s] English:** It's art and science. It's human and it's robotic, you know, algorithmic at the same time. And I think it just, yeah, combines kind of all my passions all in one. And I would, you know, if anyone's going into healthcare, I'd strongly encourage them to do so, but I'm very biased.  
+**[8640.00s] English:** It's art and science. It's human and it's robotic, you know, algorithmic at the same time. And I think it just, yeah, combines all my passions all in one. And if anyone's going into healthcare, I'd strongly encourage them to do so, but I'm very biased.  
 **Translation:** 
 
-**[8656.26s] English:** So with that early passion, whatever that little flame was that brought you to Russia, were you able to vocalize it or was it just something like a gut that's pulled you towards some exploration of the unknown or something like this?  
-**Translation:** Vocabulary: algorithmic: 算法; vocalize: 表达
+**[8656.26s] English:** So, with that early passion—whatever that little flame was that brought you to Russia—were you able to vocalize it, or was it just something more like a gut feeling that pulled you toward some exploration of the unknown or something like this?  
+**Translation:** Vocabulary: algorithmic: 算法; biased: 偏见; healthcare: 医疗; passions: 热情; robotic: 机械; vocalize: 表达
 
-**[8672.68s] English:** I think it was a combination of things. One was just going to a different place that was different from where I grew up, you know. The suburbs, you know, when you're in high school, you hate them. Later on, they don't seem so bad.  
+**[8672.68s] English:** I think it was a combination of things. One was just going to a different place that was different from where I grew up—you know. The suburbs—when you're in high school, you hate them; later on, they don't seem so bad.  
 **Translation:** 
 
-**[8684.14s] English:** But, you know, I just wanted to get, I mean, I'm...  
+**[8684.14s] English:** But, you know, I just wanted to get across that I'm...  
+**Translation:** Vocabulary: suburbs: 郊区
+
+**[8686.26s] English:** I'm very fortunate how I was raised and never wanted for anything that wasn't rich, but just to get out and see a different place, a different people with a different culture and history and language and literature, and to see different climates, geographies, and ecosystems.  
 **Translation:** 
 
-**[8686.26s] English:** I'm very fortunate how I was raised and never wanted for anything that wasn't rich, but just to get out and see a different place, a different people with a different culture and history and language and literature and to see different climates and geographies and ecosystems.  
-**Translation:** 
+**[8701.30s] English:** I just wanted to see something different. And that—I guess that's what I've, you know, sought after ever since. So, that was just so fascinating. Like my trip to Kamchatka in 2003, where I was there for four months, and I didn't speak English for, I think, two weeks.  
+**Translation:** Vocabulary: climates: 气候; ecosystems: 生态系统; geographies: 地理; kamchatka: 堪察加
 
-**[8701.30s] English:** I just wanted to see something different. And that, I guess that's what I've, you know, sought after ever since. So just that was just so fascinating. Like my trip to Kamchatka in 2003, where I was there for four months, and I didn't speak English for, I think, two weeks.  
-**Translation:** Vocabulary: climates: 气候; geographies: 地理; kamchatka: 堪察加
-
-**[8716.26s] English:** Two months out of it. And just, I remember lying on the floor, some wooden floor in a hunter's cabin in the middle of northern Kamchatka, just being like, what am I doing here? This is, I'm just so grateful for, like, the experiences I was having, what I was seeing and realizing and learning. It was just, I was so grateful, even though I was lying on this hard, uncomfortable floor. It's just like, this is so amazing. And that, I don't think I'll ever have another travel as meaningful and life-changing as that particular trip to Kamchatka was.  
+**[8716.26s] English:** Two months out of it. And just, I remember lying on the floor — some wooden floor in a hunter's cabin in the middle of northern Kamchatka — just being like, "What am I doing here?" This is, I'm just so grateful for, like, the experiences I was having, what I was seeing and realizing and learning. It was just, I was so grateful, even though I was lying on this hard, uncomfortable floor. It's just like, this is so amazing. And that, I don't think I'll ever have another travel as meaningful and life-changing as that particular trip to Kamchatka was.  
 **Translation:** 
 
 **[8745.38s] English:** Yeah.  
 **Translation:** 
 
-**[8746.26s] English:** I'm still striving after it. You know, you never replicate that first high, but you always try. So I just think that seeing something different is kind of the game.  
+**[8746.26s] English:** I'm still striving for it. You know, you can't replicate that first high, but you always try. So I just think that seeing something different is kind of the game.  
 **Translation:** 
 
 **[8756.06s] English:** And there wasn't really a plan, because I got a chance to talk to the CEO.  
 **Translation:** Vocabulary: striving: 努力
 
-**[8760.00s] English:** of qualcomm recently and he his advice is always have a plan and it sounds like you're saying  
+**[8760.00s] English:** Of Qualcomm recently, and he says his advice is always to have a plan. It sounds like you're saying  
 **Translation:** 
 
-**[8770.98s] English:** don't have a don't have a plan don't need to have a plan just listen to your gut your passion and  
-**Translation:** Vocabulary: qualcomm: 高通公司
+**[8770.98s] English:** Don't have a plan? Don't need to have a plan. Just listen to your gut and your passion.  
+**Translation:** Vocabulary: qualcomm: 高通
 
-**[8778.82s] English:** follow that and see see where that takes you because it's telling you something yeah i think  
+**[8778.82s] English:** Follow that and see where that takes you, because it's telling you something. Yeah, I think.  
 **Translation:** 
 
-**[8783.80s] English:** you know i guess the plan could be specific or could be as general as i just want to go far away  
+**[8783.80s] English:** You know, I guess the plan could be specific, or it could be as general as "I just want to go far away.  
 **Translation:** 
 
-**[8789.48s] English:** and see something very different that's my plan and i did just one line it just followed my nose  
+**[8789.48s] English:** And see something very different—that's my plan. I did just one line; it just followed my nose.  
 **Translation:** 
 
-**[8794.92s] English:** from one thing to the next just being interested following my passion and again very fortunate i  
+**[8794.92s] English:** From one thing to the next, just being interested, following my passion, and again, I've been very fortunate.  
 **Translation:** 
 
-**[8800.02s] English:** could do that are there places in the world you're kind of thinking about that your life might take  
+**[8800.02s] English:** Could do that? Are there places in the world you're kind of thinking about that your life might take?  
 **Translation:** 
 
-**[8808.50s] English:** you at some point just um to be a doctor there for a time to explore for a time that you haven't yet  
+**[8808.50s] English:** You, at some point, just to be a doctor for a time to explore, for a time that you haven't yet.  
 **Translation:** 
 
-**[8817.82s] English:** you know i have some colleagues  
+**[8817.82s] English:** You know, I have some colleagues.  
 **Translation:** 
 
-**[8819.48s] English:** who do kind of global health work in various countries in africa and central and south america  
+**[8819.48s] English:** Who do kind of global health work in various countries in Africa and Central and South America?  
+**Translation:** Vocabulary: colleagues: 同行
+
+**[8824.76s] English:** I would really love to go to some of those places—not just for a short trip, but hopefully for longer stays.  
 **Translation:** 
 
-**[8824.76s] English:** i would really love to um go to some of those places not just for a short trip but hopefully  
+**[8831.92s] English:** For an extended period of time, um, with sort of health care being the ticket in, um, but then  
 **Translation:** 
 
-**[8831.92s] English:** for an extended period of time um with sort of the health care being the ticket in um but then  
+**[8837.84s] English:** Maybe even bringing my children, or just you know, I guess at this point, some of the travel I dream about.  
 **Translation:** 
 
-**[8837.84s] English:** maybe even bringing my children or just you know i guess at this point some of the travel i dream  
+**[8843.12s] English:** About is sort of replicating what I did and showing it to my kids in a way, but there's still a lot.  
 **Translation:** 
 
-**[8843.12s] English:** about is sort of replicating what i did and showing it to my kids in a way um but there's still a lot  
+**[8849.48s] English:** I would love to see as well, but um, I think those opportunities sort of lend themselves well.  
 **Translation:** 
 
-**[8849.48s] English:** i would love to see as well but um i think those opportunities sort of lend themselves well  
+**[8854.06s] English:** Um, you know, as a doctor with the ability to go there and sort of help, but  
 **Translation:** 
 
-**[8854.06s] English:** um you know as a doctor with kind of the ability to go there and sort of help but  
+**[8858.80s] English:** Help patients, but also teach medical students and residents; teaching is actually a huge responsibility.  
 **Translation:** 
 
-**[8858.80s] English:** help patients but also teach medical students and residents um teaching is actually a huge  
+**[8863.72s] English:** Part of being a doctor that's often underappreciated, but that's actually part of the fun of being a  
+**Translation:** Vocabulary: underappreciated: 未被充分认可的
+
+**[8868.50s] English:** Doctor, is that you're also a teacher? Of course, the word "doctor" means teacher, but um, it's come  
 **Translation:** 
 
-**[8863.72s] English:** part of being a doctor that's um underappreciated but that's actually part of the fun of being a  
-**Translation:** Vocabulary: underappreciated: 未被充分认可
-
-**[8868.50s] English:** doctor is that you're also a teacher of course the word doctor means teacher but um it's come  
+**[8873.10s] English:** To mean something else, um, but uh, you know, I in some of my jobs I'm working alongside...  
 **Translation:** 
 
-**[8873.10s] English:** to mean something else um but uh you know i in some of my jobs i'm working alongside  
+**[8879.48s] English:** Medical students  
 **Translation:** 
 
-**[8879.48s] English:** medical students  
+**[8880.00s] English:** Residents, and I'm giving them my knowledge and wisdom, sharing with them stories, and that's  
 **Translation:** 
 
-**[8880.00s] English:** residents and i'm giving them my knowledge my wisdom sharing with them stories and so that's  
+**[8884.96s] English:** A very satisfying part of the job, if we could take a brief step into a dark place.  
 **Translation:** 
 
-**[8884.96s] English:** a very uh satisfying part of the job if we could take a brief step into a dark place  
+**[8893.04s] English:** Together for a time, is there? Um, what is a dark place you've gone into in your mind or in your life?  
 **Translation:** 
 
-**[8893.04s] English:** together for a time is there um what is a dark place you've uh gone in your mind in your life  
+**[8902.26s] English:** What would be the darkest place you've ever gone for a time, for a moment?  
 **Translation:** 
 
-**[8902.26s] English:** what would be the darkest place you've ever gone for a time for a moment  
+**[8909.78s] English:** Um, and how did you survive? How did you overcome it? That's a very good question. I would say, um,...  
 **Translation:** 
 
-**[8909.78s] English:** um and how did you survive how did you overcome it that's a very good question i would say um  
+**[8920.78s] English:** I haven't had as dark moments as many of the people I care for in the emergency room.  
 **Translation:** 
 
-**[8920.78s] English:** i haven't had as dark moments as many of the people who i care for in the emergency room  
+**[8929.32s] English:** I'm fortunate in that way; I've had a pretty  
 **Translation:** 
 
-**[8929.32s] English:** i'm fortunate in that way i've had a pretty  
+**[8932.26s] English:** You know, an enjoyable and satisfying life; you know, I think everybody has dark moments, though.  
 **Translation:** 
 
-**[8932.26s] English:** you know enjoyable satisfying life you know i think everybody um has dark moments though  
-**Translation:** 
-
-**[8939.86s] English:** including me one of the most shocking things i feel like becoming an adult my two big realizations  
+**[8939.86s] English:** Including me, one of the most shocking things I feel like becoming an adult is that my two big realizations are...  
 **Translation:** Vocabulary: realizations: 深刻认识
 
-**[8946.04s] English:** have been one no one knows what they're doing and two suicide is incredibly common like in all  
+**[8946.04s] English:** There have been one, no one knows what they're doing, and two, suicide is incredibly common—like in all.  
 **Translation:** 
 
-**[8953.00s] English:** humans in all societies and that i just find shocking i mean i've never seriously contemplated  
+**[8953.00s] English:** Humans in all societies, and that I just find shocking. I mean, I've never seriously contemplated...  
 **Translation:** Vocabulary: contemplated: 考虑过
 
-**[8957.84s] English:** myself but i wouldn't say it hasn't crossed my mind during some more stressful  
+**[8957.84s] English:** Myself, but I wouldn't say it hasn't crossed my mind during some more stressful.  
 **Translation:** 
 
-**[8962.26s] English:** um times of life um i think it crosses everyone's mind and it's sort of as a kid  
+**[8962.26s] English:** Um, thoughts about life— I think it crosses everyone's mind, and it's sort of something that kids start thinking about too.  
 **Translation:** 
 
-**[8968.66s] English:** i found that i never would have guessed how common suicide is it's an important question to  
+**[8968.66s] English:** I found that I never would have guessed how common suicide is. It's an important question to consider.  
 **Translation:** 
 
-**[8974.30s] English:** sort of the uh the camus question like why live why why it's like life especially when you're  
-**Translation:** Vocabulary: camus: 加缪问题
-
-**[8984.58s] English:** struggling especially when life is shit like why am i doing any of this and then on top of  
+**[8974.30s] English:** Sort of the Camus question, like "why live?" Why is life worth living, especially when you're  
 **Translation:** 
 
-**[8992.12s] English:** that i think it's a very difficult question to ask because it's a very difficult question to ask  
+**[8984.58s] English:** Struggling, especially when life is shit—like why am I doing any of this—and then on top of that,  
 **Translation:** 
 
-**[8992.26s] English:** that chemistry of your brain it could be as simple as diet and nutrition and a form  
+**[8992.12s] English:** That I think it's a very difficult question to ask, because it's a very difficult question to ask.  
 **Translation:** 
 
-**[9000.00s] English:** mentioned exercise and things like this that affect the chemistry such that you're more  
+**[8992.26s] English:** That chemistry of your brain could be as simple as diet and nutrition, and a form.  
 **Translation:** 
 
-**[9004.98s] English:** predisposed to go to the places of asking the question why and maybe um struggling to find a  
+**[9000.00s] English:** Mentioned exercise and things like this that affect the chemistry, such that you're more.  
 **Translation:** 
 
-**[9012.26s] English:** good answer because it's actually a question with no good answer except something in your chemistry  
+**[9004.98s] English:** Predisposed to go to the places where I ask the question "why" and maybe, um, struggling to find a  
+**Translation:** 
+
+**[9012.26s] English:** Good answer, because it's actually a question with no good answer, except something in your chemistry.  
 **Translation:** Vocabulary: predisposed: 倾向
 
-**[9020.96s] English:** says well i kind of like it but there's no good intellectual answer and especially if day-to-day  
+**[9020.96s] English:** Says, "Well, I kind of like it, but there's no good intellectual answer, and especially if day-to-day.  
 **Translation:** 
 
-**[9027.90s] English:** it's pain you get to see these stories of um you know robin williams these people that are on top  
+**[9027.90s] English:** It's painful to see these stories of, you know, Robin Williams and other people who were on top.  
 **Translation:** 
 
-**[9035.82s] English:** of the world from an external perspective but from an internal perspective it's struggle  
+**[9035.82s] English:** Of the world from an external perspective, but from an internal perspective, it's a struggle.  
 **Translation:** 
 
-**[9042.58s] English:** every day is pain feels hopeless and um yeah that's a that's a question we all have to struggle  
+**[9042.58s] English:** Every day feels like pain, and it's hopeless. And, um, yeah, that's a question we all have to struggle with.  
 **Translation:** 
 
-**[9051.20s] English:** with or learn how to ignore maybe because if you ask the question too much you're not gonna  
+**[9051.20s] English:** With or learn how to ignore, maybe because if you ask the question too much, you're not gonna.  
 **Translation:** 
 
-**[9056.12s] English:** you're not going to find  
+**[9056.12s] English:** You're not going to find  
 **Translation:** 
 
-**[9057.90s] English:** a good answer that's a choice you make i personally think you should ask that question a  
+**[9057.90s] English:** A good answer is one that you make. I personally think you should ask that question.  
 **Translation:** 
 
-**[9062.22s] English:** lot um but maybe because i have the luxury of the chemistry i have where i'm not in danger  
+**[9062.22s] English:** Lot, um, but maybe because I have the luxury of the chemistry I have, where I'm not in danger.  
 **Translation:** 
 
-**[9069.98s] English:** of uh seriously contemplating suicide but why live is an important question to  
+**[9069.98s] English:** Of uh, seriously contemplating suicide, but "why live" is an important question to  
 **Translation:** 
 
-**[9076.56s] English:** answer constantly and struggle to answer that constantly  
+**[9076.56s] English:** Answer constantly, and struggle to answer that constantly.  
 **Translation:** Vocabulary: contemplating: 考虑
 
-**[9079.50s] English:** but people i am uh i've gotten up i've been extremely fortunate  
+**[9079.50s] English:** But, people, I have been extremely fortunate.  
 **Translation:** 
 
-**[9085.02s] English:** to meet people  
+**[9085.02s] English:** To meet people.  
 **Translation:** 
 
-**[9087.90s] English:** over the past couple of years that are really struggling and um  
+**[9087.90s] English:** Over the past couple of years, they have been really struggling and, um,...  
 **Translation:** 
 
-**[9092.76s] English:** you have probably met people who are really struggling like orders of magnitude more people  
+**[9092.76s] English:** You have probably met people who are really struggling, like orders of magnitude more people.  
 **Translation:** 
 
-**[9102.94s] English:** who are really struggling some of it is psychological a lot of it is biological  
+**[9102.94s] English:** Who are really struggling; some of it is psychological, and a lot of it is biological.  
 **Translation:** 
 
-**[9108.08s] English:** and man life life is a motherfucker it's pretty tough very true i do think also past trauma is a  
-**Translation:** Vocabulary: motherfucker: 狗娘养的; trauma: 创伤
+**[9108.08s] English:** And man, life is a motherfucker; it's pretty tough. Very true. I do think also that past trauma is a  
+**Translation:** Vocabulary: motherfucker: 混蛋; trauma: 创伤
 
-**[9117.90s] English:** plays a  
+**[9117.90s] English:** Plays a  
 **Translation:** 
 
-**[9118.94s] English:** big role there like we talked about  
+**[9118.94s] English:** Big role there, like we talked about.  
 **Translation:** 
 
-**[9120.00s] English:** You know, war wounds and PTSD. And a lot of people grew up, I mean, with just horrific childhoods. They're abused in one way or another. And I think a lot of people who have not, I'm not saying a majority, but a lot of people, for instance, who I see in the ER coming in for threatening suicide or actually trying and failing and being brought to the ER.  
+**[9120.00s] English:** You know, war wounds and PTSD. And a lot of people grew up—meaning, with just horrific childhoods. They're abused in one way or another. And I think a lot of people who have not (I'm not saying a majority, but a lot of people), for instance, who I see in the ER coming in for threatening suicide or actually trying and failing and being brought to the ER.  
 **Translation:** 
 
-**[9141.76s] English:** You know, a lot of them just have really traumatic experiences, you know, saw their parent commit suicide, were abused, you know, these leave scars in the human brain and mind. And a lot of their subsequent lives of whether it's substance abuse, alcoholism, etc., is almost trying to escape from their own memories. And it's sort of such this overwhelming battle sometimes, like sometimes people get ruined, it seems, and just can't be fixed. You know what I mean?  
-**Translation:** Vocabulary: alcoholism: 酒精成瘾; horrific: 恐怖的; traumatic: 创伤的
+**[9141.76s] English:** You know, a lot of them just have really traumatic experiences—saw their parent commit suicide, were abused. These leave scars in the human brain and mind. And a lot of their subsequent lives, whether it's substance abuse or alcoholism, etc., is almost trying to escape from their own memories. And it's sort of an overwhelming battle sometimes; like sometimes people get ruined, and just can't be fixed. You know what I mean?  
+**Translation:** Vocabulary: abused: 被虐待; alcoholism: 酒精成瘾; horrific: 恐怖的; substance: 物质; traumatic: 创伤性的; wounds: 伤痕
 
-**[9171.16s] English:** Yes, you can improve diet and health and your life choices and seek out your passion and exercise, and those definitely will help. But sometimes just like, you know, you bear the scars of the past, and there's no getting rid of them.  
+**[9171.16s] English:** Yes, you can improve your diet and health and make better life choices, seek out your passions, and exercise—and those definitely will help. But sometimes, just like you bear the scars of the past, there's no getting rid of them.  
 **Translation:** 
 
 **[9184.34s] English:** Yeah, I think it's possible to live with them.  
-**Translation:** 
+**Translation:** Vocabulary: passions: 热情
 
 **[9188.78s] English:** I think so, too.  
 **Translation:** 
@@ -5419,16 +5420,16 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[9189.48s] English:** Through the struggle.  
 **Translation:** 
 
-**[9189.96s] English:** I would never say give up, you know.  
+**[9189.96s] English:** I would never say, "give up," you know.  
 **Translation:** 
 
-**[9192.14s] English:** Keep fighting.  
+**[9192.14s] English:** Keep fighting!  
 **Translation:** 
 
-**[9193.70s] English:** It is a constant, it can be a constant battle for some people.  
+**[9193.70s] English:** It is a constant; it can be a constant battle for some people.  
 **Translation:** 
 
-**[9196.38s] English:** I know it can be, and I've talked to many of those folks.  
+**[9196.38s] English:** I know it can be challenging, and I've talked to many of those folks.  
 **Translation:** 
 
 **[9200.36s] English:** I know it can feel hopeless.  
@@ -5440,13 +5441,13 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[9204.62s] English:** Hopelessness.  
 **Translation:** 
 
-**[9205.06s] English:** Keep up the good fight.  
-**Translation:** Vocabulary: hopelessness: 毫无希望
+**[9205.06s] English:** Keep up the good fight!  
+**Translation:** Vocabulary: hopelessness: 毫无希望感
 
 **[9206.32s] English:** Hopelessness is kind of one of the big suicide risk factors that you sort of ask about as a doctor.  
 **Translation:** 
 
-**[9212.26s] English:** You know, do you feel hopeless?  
+**[9212.26s] English:** Do you know if you feel hopeless?  
 **Translation:** 
 
 **[9213.78s] English:** And that sort of can be a harbinger.  
@@ -5455,346 +5456,346 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[9216.98s] English:** I have quite a few dark moments.  
 **Translation:** Vocabulary: harbinger: 预兆
 
-**[9219.62s] English:** So if you're listening and you're struggling, we're in this together, brother and sister.  
+**[9219.62s] English:** So, if you're listening and you're struggling, we're in this together, brother and sister.  
 **Translation:** 
 
-**[9227.50s] English:** Keep up the good fight.  
+**[9227.50s] English:** Keep up the good fight!  
 **Translation:** 
 
 **[9228.46s] English:** Life is a motherfucker, as you said.  
 **Translation:** 
 
-**[9234.04s] English:** It's really harder.  
+**[9234.04s] English:** It's really hard.  
 **Translation:** Vocabulary: motherfucker: 混蛋
 
-**[9235.10s] English:** I think as a kid, you know, in a joy-free childhood, you don't realize, like, obviously there's a...  
+**[9235.10s] English:** I think, as a kid, you know, in a joy-free childhood, you don't realize, of course, that there's...  
 **Translation:** 
 
-**[9240.00s] English:** you don't realize about life but then when you get to be an adult you realize just how complex and  
+**[9240.00s] English:** You don't realize how complex and nuanced life is until you become an adult.  
+**Translation:** Vocabulary: nuanced: 细腻的
+
+**[9245.52s] English:** It's hard to tell if it's this hard for adult animals. I don't know; I don't think it is, um, so I haven't.  
 **Translation:** 
 
-**[9245.52s] English:** hard it is is it this hard for adult animals i don't know i don't think it is um so i haven't  
-**Translation:** 
-
-**[9253.68s] English:** seen the honesty of biology before you do you think about your own death do you contemplate  
+**[9253.68s] English:** Seen the honesty of biology before, you do you think about your own death? Do you contemplate?  
 **Translation:** Vocabulary: contemplate: 深思
 
-**[9264.56s] English:** death are you afraid of your own death how do you make sense of it i've definitely thought about it  
+**[9264.56s] English:** Death, are you afraid of your own death? How do you make sense of it? I've definitely thought about it.  
 **Translation:** 
 
-**[9271.60s] English:** especially maybe while doing certain risky things um ice climbing and others where every time i  
+**[9271.60s] English:** Especially, maybe while doing certain risky things, like ice climbing, and others, where every time I  
 **Translation:** 
 
-**[9277.36s] English:** look down i thought about my own death but um i think you know i think having kids changes  
+**[9277.36s] English:** Look down. I thought about my own death, but, um, I think you know, I think having kids changes.  
 **Translation:** 
 
-**[9283.52s] English:** the equation for sure um should change the equation perhaps so i think a lot of  
-**Translation:** Vocabulary: equation: 方程式
+**[9283.52s] English:** The equation, for sure, should change. Perhaps we should rewrite it entirely. I think a lot of  
+**Translation:** Vocabulary: equation: 方程式; rewrite: 重写
 
-**[9290.56s] English:** now when i think about what will happen when i die you know there's a lot of  
+**[9290.56s] English:** Now, when I think about what will happen when I die, you know, there's a lot of  
 **Translation:** 
 
-**[9295.28s] English:** worrying about what will happen to the people i care for you know you think about things like  
+**[9295.28s] English:** Worrying about what will happen to the people I care for, you know, you think about things like:  
+**Translation:** Vocabulary: worrying: 担忧
+
+**[9299.76s] English:** An insurance policy, like life insurance and you know, disability insurance that's not related to death.  
 **Translation:** 
 
-**[9299.76s] English:** insurance policy like life insurance and you know disability insurance that's not related to death  
+**[9305.92s] English:** But more just injuries, and that's part of the weight I guess that, um, you know, you feel as an.  
 **Translation:** 
 
-**[9305.92s] English:** but more just injuries and that's part of the weight i guess that um you know you feel as an  
+**[9312.16s] English:** Adult, um, that I think grows rapidly when you have kids, though not only—you know, there are other people.  
 **Translation:** 
 
-**[9312.16s] English:** adult um that i think grows rapidly when you have kids though not only you know there's other people  
+**[9318.24s] English:** You can care for your own parents and loved ones, like a lot of people depend on individuals, and so.  
 **Translation:** 
 
-**[9318.24s] English:** you can care for your own parents and loved ones like a lot of people depend on individuals and so  
+**[9324.56s] English:** What will happen to the other people when you die, but also to push back that weight might be.  
 **Translation:** 
 
-**[9324.56s] English:** what will happen to the other people when you die but also to push back that weight might be  
+**[9332.08s] English:** Something you've convinced yourself to think about; it's an important way to think about.  
 **Translation:** 
 
-**[9332.08s] English:** something you've convinced yourself to think about it's an important way to think about  
+**[9337.60s] English:** But you focus on that way to escape, but there's another weight which is...  
 **Translation:** 
 
-**[9337.60s] English:** but you focus on that way to escape the other weight which is  
+**[9345.36s] English:** That's one point where this consciousness just comes to an end, and it's hard to make sense of that.  
+**Translation:** Vocabulary: consciousness: 觉醒状态
+
+**[9354.56s] English:** We kind of delude ourselves and think that, okay, it just ends as a natural way of things.  
 **Translation:** 
 
-**[9345.36s] English:** that's one point this consciousness just comes to an end and it's hard to make sense of of that  
-**Translation:** 
-
-**[9354.56s] English:** we kind of delude ourselves and thinking okay it just yeah it ends as a natural way of things  
-**Translation:** 
-
-**[9359.20s] English:** and so on  
+**[9359.20s] English:** And so on.  
 **Translation:** Vocabulary: delude: 自我欺骗
 
-**[9360.00s] English:** make sense or good okay that's the way that's the way of life but like i don't think it's  
+**[9360.00s] English:** Make sense or is good, okay? That's the way; that's the way of life, but like I don't think it's.  
 **Translation:** 
 
-**[9364.74s] English:** like cognitively easy to just realize how terrifying that is we we we love life so much  
-**Translation:** Vocabulary: cognitively: 认知上; terrifying: 令人恐惧的
+**[9364.74s] English:** Like cognitively, it's easy to realize how terrifying that is. We love life so much.  
+**Translation:** Vocabulary: cognitively: 认知上; terrifying: 恐怖的
 
-**[9374.58s] English:** that's the end of it it just um  
+**[9374.58s] English:** That's the end of it; it just...  
 **Translation:** 
 
-**[9379.60s] English:** it's something that makes no sense and if you linger on that thought i think it's a painful  
+**[9379.60s] English:** It's something that makes no sense, and if you linger on that thought, I think it's a painful experience.  
+**Translation:** Vocabulary: linger: 逗留
+
+**[9387.26s] English:** It's a painful, I would say even terrifying, thought. Not scared in the way you might be, though.  
 **Translation:** 
 
-**[9387.26s] English:** it's a it's a painful i would say even terrifying thought not scared of like um in a way that's  
+**[9394.24s] English:** Almost like philosophically terrifying, like it just reminds you, maybe humbles you, that you don't  
+**Translation:** Vocabulary: humbles: 使谦卑; philosophically: 从哲学角度
+
+**[9399.92s] English:** Know anything about anything, but one thing we do as humans really well is we  
 **Translation:** 
 
-**[9394.24s] English:** almost like philosophically terrifying like it just reminds you maybe humbles you that you don't  
-**Translation:** Vocabulary: philosophically: 哲学地
+**[9407.50s] English:** Especially with kids, you realize that we start caring for others in the community and family.  
+**Translation:** Vocabulary: caring: 关爱
 
-**[9399.92s] English:** know any of the anything about anything but one of the things we do as humans really well is we  
+**[9414.02s] English:** And so on, and that distracts us because then we can at least focus on the other side of the  
 **Translation:** 
 
-**[9407.50s] English:** especially with kids you realize okay we start caring for others in the community in the family  
-**Translation:** 
-
-**[9414.02s] English:** and so on and that distracts us because then we can at least focus on the other side of the  
-**Translation:** 
-
-**[9417.24s] English:** world and we can focus on the other side of the world and we can focus on the other side of the  
+**[9417.24s] English:** World, and we can focus on the other side of the world, and we can focus on the other side of the...  
 **Translation:** Vocabulary: distracts: 分散注意力
 
-**[9417.26s] English:** world and we can focus on other people's problems and not deal with their own  
+**[9417.26s] English:** World, and we can focus on other people's problems and not deal with their own.  
 **Translation:** 
 
-**[9419.66s] English:** when i was a medical student i was particularly fascinated with kind of what actually happens as  
+**[9419.66s] English:** When I was a medical student, I was particularly fascinated by what actually happens.  
 **Translation:** Vocabulary: fascinated: 着迷
 
-**[9427.84s] English:** people die like in the last minute seconds of life it's sort of surprising sometimes like what  
+**[9427.84s] English:** People die, like in the last minutes of life; it's sort of surprising sometimes, like what.  
 **Translation:** 
 
-**[9432.72s] English:** actually kills people you know like um you can get a let's say a bad head injury and um you know  
+**[9432.72s] English:** Actually, it can kill people. You know, like, um, you can get a bad head injury, and, um, you know,  
 **Translation:** 
 
-**[9438.04s] English:** what kills you sometimes it's just your consciousness decreases and you become kind of  
+**[9438.04s] English:** What kills you, sometimes it's just that your consciousness decreases, and you become kind of...  
 **Translation:** 
 
-**[9444.32s] English:** comatose you aspirate your oxygen and you're like oh my god i'm gonna die  
-**Translation:** Vocabulary: aspirate: 吸入; comatose: 昏迷
+**[9444.32s] English:** Coma-tose, you aspirate your oxygen, and you're like, "Oh my god, I'm gonna die!  
+**Translation:** Vocabulary: aspirate: 吸入; consciousness: 意识; decreases: 减少
 
-**[9447.24s] English:** oxygen plummets and you get cardiac arrest you know that kind of sequence of events or  
+**[9447.24s] English:** Oxygen plummets, and you get cardiac arrest—you know, that kind of sequence of events, or  
 **Translation:** 
 
-**[9451.84s] English:** you know a heroin overdose let's say you stop breathing similarly your oxygen goes down then  
-**Translation:** Vocabulary: cardiac: 心脏; heroin: 海洛因; plummets: 急剧下降
+**[9451.84s] English:** You know, in a heroin overdose, if you stop breathing, your oxygen levels go down then.  
+**Translation:** Vocabulary: cardiac: 心脏的; heroin: 海洛因; plummets: 急剧下降
 
-**[9457.70s] English:** you get a cardiac arrest so i was i was really fascinated with what actually happens what makes  
+**[9457.70s] English:** You get a cardiac arrest, so I was really fascinated with what actually happens and what makes it happen.  
 **Translation:** 
 
-**[9461.86s] English:** people die and it was sort of a morbid fascination obviously like most of med school is  
-**Translation:** Vocabulary: fascination: 兴趣; morbid: 病态的
+**[9461.86s] English:** People die, and it was sort of a morbid fascination—obviously, like most of med school is.  
+**Translation:** Vocabulary: fascination: 强烈兴趣; morbid: 病态的
 
-**[9467.10s] English:** and i had many instances where i've had patients pass um and as a medical student i was sort of  
+**[9467.10s] English:** And I had many instances where I've had patients pass away, and as a medical student, I was sort of  
 **Translation:** 
 
-**[9474.62s] English:** sort of learning what's actually happening watching it happen  
+**[9474.62s] English:** Sort of learning what's actually happening by watching it happen.  
 **Translation:** 
 
-**[9477.24s] English:** and you know not only is always being able to prevent it  
+**[9477.24s] English:** And you know, not only can we always prevent it.  
 **Translation:** 
 
-**[9480.00s] English:** it was sort of a scientific exploration. Then the patient's family comes in and are just devastated.  
+**[9480.00s] English:** It was sort of a scientific exploration, then the patient's family came in and were just devastated.  
 **Translation:** 
 
-**[9486.02s] English:** And then it's like, rips you out of the scientific perspective, and you just  
+**[9486.02s] English:** And then it's like it rips you out of the scientific perspective, and you just  
 **Translation:** 
 
-**[9490.60s] English:** realize how horrible death is. But the person's fine. You know, it's the family, I guess. And  
+**[9490.60s] English:** Realize how horrible death is. But the person is fine. You know, it's the family, I guess. And  
 **Translation:** 
 
-**[9495.62s] English:** that's why it's always, I guess, that pointed out just how what people leave behind is often  
+**[9495.62s] English:** That's why it's always, I guess, pointed out just how much people leave behind is often.  
 **Translation:** 
 
-**[9501.12s] English:** kind of the horribleness of death. Like, just becoming unconscious and staying that way doesn't  
-**Translation:** Vocabulary: horribleness: 恐怖; unconscious: 无知觉
+**[9501.12s] English:** Kind of the horribleness of death. Like, just becoming unconscious and staying that way doesn't.  
+**Translation:** Vocabulary: horribleness: 可怕; unconscious: 无意识
 
-**[9505.46s] English:** seem, I guess, to me personally, so bad. Sort of like going to sleep, not waking up, not counting  
+**[9505.46s] English:** It seems, I guess, to me personally, so bad. Sort of like going to sleep and not waking up, not counting.  
 **Translation:** 
 
-**[9511.40s] English:** the pain and stuff that precedes it. So, the actual pain, the actual suffering is often felt  
+**[9511.40s] English:** The pain and stuff that precedes it. So, the actual pain and suffering is often felt...  
 **Translation:** Vocabulary: precedes: 在...之前
 
-**[9516.06s] English:** by the people who love the person who died. Right. So, both financial pain, psychological pain,  
+**[9516.06s] English:** By the people who loved the person who died. Right. So, both financial pain, psychological pain,  
 **Translation:** 
 
-**[9523.92s] English:** for years missing them, all those kinds of things. Right. Never forgetting the anniversary of their  
+**[9523.92s] English:** For years, missing them, all those kinds of things. Right. Never forgetting the anniversary of their.  
 **Translation:** 
 
-**[9529.66s] English:** death. You know, just having flashbacks or something reminding you. That's sort of,  
+**[9529.66s] English:** Death. You know, just having flashbacks or something reminding you. That's sort of,  
 **Translation:** 
 
-**[9535.08s] English:** you know, it's like, you know, it's like, you know, it's like, you know, it's like,  
-**Translation:** Vocabulary: flashbacks: 闪回
+**[9535.08s] English:** You know, it's like, you know, it's like, you know, it's like.  
+**Translation:** Vocabulary: flashbacks: 短暂回忆
 
-**[9535.46s] English:** brought home to me sort of what death means. And it was more about what people leave behind than  
+**[9535.46s] English:** Brought home to me, sort of, what death means. And it was more about what people leave behind than  
 **Translation:** 
 
-**[9540.14s] English:** what happens to them specifically. See, I like those concerns, because I feel like I can do  
+**[9540.14s] English:** What happens to them specifically? See, I like those concerns because I feel like I can address them.  
 **Translation:** 
 
-**[9545.58s] English:** a lot about those. Those make sense to me. Then just be, if you're a father, just be a good father.  
+**[9545.58s] English:** A lot of those make sense to me. Then, just be a good father.  
 **Translation:** 
 
-**[9553.60s] English:** If you're sort of, you mentioned sort of insurance. Yeah, there's like financial  
+**[9553.60s] English:** If you're talking about insurance, yeah, there are like financial  
 **Translation:** 
 
-**[9556.90s] English:** stuff to take care of. What I don't know what to do with is the philosophical  
+**[9556.90s] English:** Stuff to take care of. What I don't know what to do with is the philosophical.  
 **Translation:** 
 
-**[9563.40s] English:** existential crisis of the fact that this freaking thing ends. It doesn't, I don't know how to deal  
-**Translation:** Vocabulary: existential: 存在主义; freaking: 该死的; philosophical: 哲学的
+**[9563.40s] English:** Existential crisis of the fact that this freaking thing ends. It doesn't, and I don't know how to deal with it.  
+**Translation:** Vocabulary: existential: 存在主义的; freaking: damn; philosophical: 哲学的
 
-**[9572.34s] English:** with the mystery that's beyond death. Why are we here? Why are we born at all? What is consciousness?  
+**[9572.34s] English:** With the mystery that's beyond death, why are we here? Why are we born at all? What is consciousness?  
 **Translation:** 
 
 **[9579.54s] English:** And you just look at yourself. What is this? Why do I have the capacity to suffer?  
+**Translation:** Vocabulary: consciousness: 觉醒
+
+**[9585.68s] English:** Why? Why? All these kinds of "why" questions that don't have answers.  
 **Translation:** 
 
-**[9585.68s] English:** Why? Why? All these kinds of why questions that don't have answers.  
+**[9589.08s] English:** Speaking of which, let me ask you a why question: the biggest ridiculous question.  
 **Translation:** 
 
-**[9589.08s] English:** Speaking of which, let me ask you a why question. The biggest ridiculous question,  
+**[9593.38s] English:** What do you think is the meaning of life? Having studied this book,  
 **Translation:** 
 
-**[9593.38s] English:** what do you think is the meaning of life? Having with this book study,  
+**[9600.00s] English:** The incredible, beautiful biology of life: this is the components, the engineering components they  
 **Translation:** 
 
-**[9600.00s] English:** the incredible beautiful biology of life this the components the engineering components they  
+**[9607.64s] English:** Make up this human body, but when you look at the entirety of it, what is — why are we here?  
 **Translation:** 
 
-**[9607.64s] English:** make up this human body but when you look at the entirety of it what is why why are we here  
-**Translation:** 
-
-**[9615.92s] English:** sometimes probably more often than not feel like the question of why is a trick of the human brain  
+**[9615.92s] English:** Sometimes, probably more often than not, we feel like the question of "why" is a trick of the human brain.  
 **Translation:** Vocabulary: entirety: 整体
 
-**[9621.14s] English:** and outside of our thoughts there is no why why is not a something that's in the universe it's  
+**[9621.14s] English:** And outside of our thoughts, there is no "why." Why is not something that's in the universe; it's...  
 **Translation:** 
 
-**[9628.22s] English:** just this trick happening inside our brain um so why why is it game that the human brain plays  
+**[9628.22s] English:** Just this trick happening inside our brain, um, so why does the human brain play this game?  
 **Translation:** 
 
-**[9635.22s] English:** on itself and then the reality of life doesn't have wise i do wonder if asking why is sort of  
+**[9635.22s] English:** On its own, and then the reality of life doesn't seem very wise. I do wonder if asking "why" is sort of  
 **Translation:** 
 
-**[9643.36s] English:** an evolutionary adaptation like um why you know maybe hunting gathering why does this plant grow  
-**Translation:** Vocabulary: adaptation: 适应; evolutionary: 进化的
-
-**[9650.00s] English:** there and not there why do i see the same deer tracks and by the same tree every three days  
+**[9643.36s] English:** An evolutionary adaptation, like, perhaps, hunting and gathering: why does this plant grow?  
 **Translation:** 
 
-**[9655.30s] English:** why you know why is this why is that  
+**[9650.00s] English:** There, and not there. Why do I see the same deer tracks by the same tree every three days?  
 **Translation:** 
 
-**[9657.84s] English:** why does this plant uh make me vomit and that plant doesn't i guess those  
+**[9655.30s] English:** Why, you know, why is this, why is that?  
 **Translation:** 
 
-**[9664.28s] English:** whys are very practical and oriented towards survival but then obviously you know we not  
-**Translation:** Vocabulary: oriented: 导向
-
-**[9670.54s] English:** only use why you know we use it to maybe hunt better gather better survive better but then  
+**[9657.84s] English:** Why does this plant make me vomit, and that plant doesn't? I guess those...  
 **Translation:** 
 
-**[9675.56s] English:** we sort of extrapolate it into these unanswerable questions you know um about why like why does life  
+**[9664.28s] English:** Why are they very practical and oriented toward survival, but then, obviously, you know, we don't  
+**Translation:** Vocabulary: oriented: 面向
+
+**[9670.54s] English:** Only use it because you know we use it to maybe hunt better, gather better, and survive better, but then.  
+**Translation:** 
+
+**[9675.56s] English:** We sort of extrapolate it into these unanswerable questions, you know, um, about why, like, does life...  
 **Translation:** Vocabulary: extrapolate: 推断
 
-**[9683.38s] English:** exist and it's possible that they're not unanswerable in the long arc of life  
+**[9683.38s] English:** Exist, and it's possible that they're not unanswerable in the long arc of life.  
 **Translation:** 
 
-**[9687.84s] English:** of science and history it's we're just striving for the really difficult questions right now we  
+**[9687.84s] English:** Of science and history, we're just striving for the really difficult questions right now.  
 **Translation:** 
 
-**[9693.84s] English:** just don't know much about anything and so we're striving but there there's long so most of human  
+**[9693.84s] English:** Just don't know much about anything, and so we're striving, but there's a long way to go, so most of humanity.  
 **Translation:** 
 
-**[9700.82s] English:** history you were asking why questions for which we now have very precise answers including with  
+**[9700.82s] English:** History: You were asking why questions for which we now have very precise answers, including with  
+**Translation:** Vocabulary: striving: 努力
+
+**[9707.82s] English:** Biology and physics, and all those kinds of things, and maybe the "why" is at the cutting edge of science.  
 **Translation:** 
 
-**[9707.82s] English:** biology and physics and all those kinds of things and maybe the why is this cutting edge of science  
+**[9713.66s] English:** Of the explorer, of the curiosity of the human mind.  
+**Translation:** Vocabulary: explorer: 探险家
+
+**[9717.84s] English:** Like man's search for meaning.  
 **Translation:** 
 
-**[9713.66s] English:** of the explorer of the curiosity of the human mind  
-**Translation:** Vocabulary: explorer: 探索者
-
-**[9717.84s] English:** like man's search for meaning  
+**[9720.00s] English:** Is the sort of the ultimate driver of the why?  
 **Translation:** 
 
-**[9720.00s] English:** is the sort of the ultimate driver of the why.  
+**[9724.10s] English:** And it's almost like it could be an evolutionary adaptation.  
 **Translation:** 
 
-**[9724.10s] English:** And it's almost like it could be an evolutionary adaptation  
+**[9727.30s] English:** Of asking exceptionally hard "why" questions.  
+**Translation:** Vocabulary: adaptation: 适应; evolutionary: 进化的; exceptionally: 极其地
+
+**[9730.36s] English:** That will never get answered.  
 **Translation:** 
 
-**[9727.30s] English:** of asking exceptionally hard why questions  
-**Translation:** Vocabulary: exceptionally: 特别地
-
-**[9730.36s] English:** that will never get answered.  
+**[9734.78s] English:** Like, so you should always have it, like, kind of like a queue.  
 **Translation:** 
 
-**[9734.78s] English:** Like, so you should always have, like, it's like a queue.  
+**[9738.76s] English:** It's a stack of "why" questions.  
 **Translation:** 
 
-**[9738.76s] English:** It's a stack of questions, why questions,  
-**Translation:** 
-
-**[9741.50s] English:** and that thing should never come to the bottom.  
+**[9741.50s] English:** And that thing should never come to the bottom.  
 **Translation:** 
 
 **[9744.40s] English:** It should always be striving.  
 **Translation:** 
 
-**[9746.30s] English:** And that's useful for humans to come up with better  
-**Translation:** Vocabulary: striving: 努力
-
-**[9748.84s] English:** and better ways of survival.  
+**[9746.30s] English:** And that's useful for humans to come up with better.  
 **Translation:** 
 
-**[9750.98s] English:** And maybe in a bigger perspective for the universe  
+**[9748.84s] English:** And better ways of survival.  
 **Translation:** 
 
-**[9754.64s] English:** to figure out something about itself.  
+**[9750.98s] English:** And, maybe, in a bigger perspective for the universe.  
 **Translation:** 
 
-**[9757.16s] English:** And it's just humans, just a useful tool for that.  
+**[9754.64s] English:** To figure out something about itself.  
 **Translation:** 
 
-**[9760.54s] English:** Or life on Earth is a useful tool for that.  
+**[9757.16s] English:** And it's just humans; just a useful tool for that.  
+**Translation:** 
+
+**[9760.54s] English:** Or, life on Earth is a useful tool for that.  
 **Translation:** 
 
 **[9763.04s] English:** Well, John, for people who should know,  
 **Translation:** 
 
-**[9768.98s] English:** you're from Philadelphia.  
+**[9768.98s] English:** You're from Philadelphia.  
 **Translation:** 
 
 **[9770.10s] English:** I'm from Philadelphia.  
 **Translation:** 
 
-**[9771.22s] English:** So it's an honor that you would travel all this way  
+**[9771.22s] English:** So, it's an honor that you would travel all this way.  
 **Translation:** 
 
-**[9774.28s] English:** from a place I love to the new place I love  
+**[9774.28s] English:** From a place I love to the new place I love.  
 **Translation:** 
 
-**[9777.00s] English:** and that you would write this really incredible book  
+**[9777.00s] English:** And that you would write this really incredible book.  
 **Translation:** 
 
-**[9780.00s] English:** that celebrates the human body in the most honest of ways.  
+**[9780.00s] English:** That celebrates the human body in the most honest of ways.  
 **Translation:** 
 
-**[9784.26s] English:** And thank you for everything you do,  
+**[9784.26s] English:** And thank you for everything you do.  
 **Translation:** 
 
-**[9785.68s] English:** for being a great educator, for being a great doctor,  
+**[9785.68s] English:** For being a great educator, for being a great doctor,  
 **Translation:** Vocabulary: educator: 教育者
 
-**[9788.04s] English:** for being a great person,  
+**[9788.04s] English:** For being a great person,  
 **Translation:** 
 
-**[9789.04s] English:** and for spending your really valuable time with me today.  
+**[9789.04s] English:** And for spending your really valuable time with me today.  
 **Translation:** 
 
 **[9791.94s] English:** Thank you, John.  
@@ -5803,37 +5804,37 @@ Source file: Lex Fridman - Jonathan Reisman： The Human Body - From Sex & Sperm
 **[9792.64s] English:** Thanks for having me, Lex.  
 **Translation:** 
 
-**[9794.54s] English:** Thanks for listening to this conversation  
+**[9794.54s] English:** Thanks for listening to this conversation.  
 **Translation:** 
 
-**[9796.20s] English:** with Jonathan Reisman.  
+**[9796.20s] English:** With Jonathan Reisman.  
 **Translation:** 
 
 **[9797.66s] English:** To support this podcast,  
 **Translation:** 
 
-**[9798.82s] English:** please check out our sponsors in the description.  
+**[9798.82s] English:** Please check out our sponsors in the description.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[9801.46s] English:** And now, let me leave you with some words from Paul Farmer,  
+**[9801.46s] English:** And now, let me leave you with some words from Paul Farmer:  
 **Translation:** 
 
-**[9804.76s] English:** a doctor who has inspired both Jonathan and me  
+**[9804.76s] English:** A doctor who has inspired both Jonathan and me.  
 **Translation:** 
 
-**[9807.24s] English:** with the way he practiced medicine  
+**[9807.24s] English:** With the way he practiced medicine,  
 **Translation:** 
 
-**[9809.18s] English:** and the way he taught me how to do it.  
+**[9809.18s] English:** And the way he taught me how to do it.  
 **Translation:** 
 
-**[9809.98s] English:** The idea that some lives matter less  
+**[9809.98s] English:** The idea that some lives matter less.  
 **Translation:** 
 
-**[9814.90s] English:** is the root of all that is wrong with the world.  
+**[9814.90s] English:** Is the root of all that is wrong with the world.  
 **Translation:** 
 
-**[9819.46s] English:** Thank you for listening and hope to see you next time.  
+**[9819.46s] English:** Thank you for listening, and I hope to see you next time.  
 **Translation:** 
 
 

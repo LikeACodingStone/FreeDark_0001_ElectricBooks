@@ -1,160 +1,164 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & the AI Revolution ｜ Lex Fridman Podcast #494.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** The following is a conversation with Jensen Huang, CEO of NVIDIA, one of the most important  
 **Translation:** 
 
-**[6.72s] English:** and influential companies in the history of human civilization. NVIDIA is the engine powering the AI  
-**Translation:** Vocabulary: huang: 黄
+**[6.72s] English:** And NVIDIA is one of the most influential companies in the history of human civilization, as the engine powering the AI revolution.  
+**Translation:** Vocabulary: huang: 黄; influential: 有影响力的
 
-**[13.32s] English:** revolution, and a lot of its success can be directly attributed to Jensen's sheer force of  
+**[13.32s] English:** Revolution, and a lot of its success can be directly attributed to Jensen's sheer force of will.  
 **Translation:** 
 
-**[19.00s] English:** will and his many brilliant bets and decisions as a leader, engineer, and innovator. This is  
+**[19.00s] English:** Will and his many brilliant bets and decisions as a leader, engineer, and innovator. This is  
 **Translation:** Vocabulary: attributed: 归因; innovator: 创新者
 
-**[27.06s] English:** Alex Friedman Podcast, and now, dear friends, here's Jensen Huang.  
+**[27.06s] English:** Alex Friedman Podcast, and now, dear friends: here's Jensen Huang.  
 **Translation:** 
 
 **[33.08s] English:** You've propelled NVIDIA into a new era in AI, moving beyond its focus on chip-scale design to  
 **Translation:** Vocabulary: friedman: 弗里德曼; propelled: 推动
 
-**[40.36s] English:** now rack-scale design. And I think it's fair to say that winning for NVIDIA for a long time used  
+**[40.36s] English:** Now, rack-scale design. And I think it's fair to say that winning for NVIDIA for a long time has used  
 **Translation:** 
 
-**[46.00s] English:** to be about building the best GPU possible, and you still do. But now you've expanded that to  
+**[46.00s] English:** To be about building the best GPU possible, and you still do. But now you've expanded that to  
 **Translation:** 
 
-**[51.64s] English:** extreme co-design of GPU, CPU, memory, networking, storage, power, cooling,  
+**[51.64s] English:** Extreme Co-Design of GPU, CPU, Memory, Networking, Storage, Power, Cooling,  
 **Translation:** 
 
-**[57.06s] English:** software, the rack itself, the pod that you've announced, and even the data center.  
+**[57.06s] English:** Software, the rack itself, the pod that you've announced, and even the data center.  
 **Translation:** 
 
-**[62.14s] English:** So let's talk about extreme co-design. What is the hardest part of co-designing a system with  
+**[62.14s] English:** So, let's talk about extreme co-design. What is the hardest part of co-designing a system with?  
 **Translation:** 
 
-**[67.42s] English:** that many complex components and design variables? Yeah, thanks for that question. So first of all,  
+**[67.42s] English:** That involves many complex components and design variables, right? Yeah, thanks for that question. So, firstly,  
+**Translation:** Vocabulary: firstly: 首先
+
+**[73.66s] English:** The reason why extreme co-design is necessary is because the problem no longer fits inside.  
 **Translation:** 
 
-**[73.66s] English:** the reason why extreme co-design is necessary is because the problem no longer fits inside  
+**[79.02s] English:** One computer to be accelerated by one GPU. The problem that you're trying to solve is: you would  
 **Translation:** 
 
-**[79.02s] English:** one computer to be accelerated by one GPU. The problem that you're trying to solve is you would  
+**[87.06s] English:** Like going faster than the number of computers you add. So, if you added, say, 10,000...  
 **Translation:** 
 
-**[87.06s] English:** like to go faster than the number of computers that you add. So you added, you know, 10,000  
+**[93.52s] English:** Computers, but you would like it to go a million times faster. Then all of a sudden, you have to.  
 **Translation:** 
 
-**[93.52s] English:** computers, but you would like it to go a million times faster. Then all of a sudden, you have to  
+**[100.94s] English:** Take the algorithm; you have to break it up, refactor it, and then proceed.  
 **Translation:** 
 
-**[100.94s] English:** take the algorithm, you have to break up the algorithm, you have to refactor it, you have to  
+**[107.04s] English:** Shard the pipeline; you have to shard the data, you have to shard the model. Now, all of a sudden,  
+**Translation:** Vocabulary: algorithm: 算法; pipeline: 流程; refactor: 重构; shard: 分片
+
+**[112.98s] English:** When you distribute the problem this way, not just,...  
 **Translation:** 
 
-**[107.04s] English:** shard the pipeline, you have to shard the data, you have to shard the model. Now, all of a sudden,  
-**Translation:** Vocabulary: algorithm: 算法; pipeline: 管道; refactor: 重构; shard: 分片
+**[117.06s] English:** Scaling up the problem, but you're distributing the problem.  
+**Translation:** Vocabulary: distributing: 分配
 
-**[112.98s] English:** when you distribute the problem this way, not just,  
+**[120.00s] English:** Then everything gets in the way. This is the Amdahl's Law problem, where the amount of speed-up achievable by parallel computing is limited by the time needed for the sequential portion of an application to execute.  
 **Translation:** 
 
-**[117.06s] English:** scaling up the problem, but you're distributing the problem.  
-**Translation:** 
+**[126.74s] English:** Up, what you have for something depends on how much of the total workload it is. And so if computation,...  
+**Translation:** Vocabulary: achievable: 可实现的; computation: 计算; computing: 计算; execute: 执行; parallel: 并行; sequential: 顺序; workload: 工作负载
 
-**[120.00s] English:** then everything gets in the way. This is the Amdahl's law problem, where the amount of speed  
-**Translation:** 
-
-**[126.74s] English:** up you have for something depends on how much of the total workload it is. And so if computation  
-**Translation:** Vocabulary: computation: 计算; workload: 工作量
-
-**[134.20s] English:** represents 50% of the problem, and I sped up computation infinitely, like a million times,  
+**[134.20s] English:** Represents 50% of the problem, and I sped up computation infinitely, like a million times.  
 **Translation:** 
 
 **[142.96s] English:** I only sped up the total workload by a factor of two. Now, all of a sudden, not only do you have  
 **Translation:** Vocabulary: infinitely: 无限地
 
-**[149.54s] English:** to distribute the computation, you have to, you know, shard the pipeline somehow, you also have  
+**[149.54s] English:** To distribute the computation, you have to, you know, shard the pipeline somehow, and you also have  
 **Translation:** 
 
-**[155.74s] English:** to solve the networking problem. Because you've got all of these computers are all connected  
+**[155.74s] English:** To solve the networking problem, because you've got all of these computers and they're all connected.  
 **Translation:** 
 
-**[160.62s] English:** together. And so distributed computing at the scale that we do, the CPU is a problem, the GPU  
+**[160.62s] English:** Together. And so, at the scale that we do distributed computing, the CPU is a problem; the GPU,  
 **Translation:** 
 
-**[168.62s] English:** is a problem, the networking is a problem, the switching is a problem. And distributing the  
-**Translation:** Vocabulary: computing: 计算
-
-**[174.18s] English:** workload across all these computers are a problem. It's just a massively complex  
+**[168.62s] English:** Is a problem; the networking is a problem; the switching is a problem. And distributing the  
 **Translation:** 
 
-**[179.36s] English:** computation.  
-**Translation:** Vocabulary: massively: 大规模地
-
-**[179.54s] English:** And so we just got to bring every technology to bear. Otherwise, we scale up linearly,  
+**[174.18s] English:** Workload across all these computers is a problem. It's just a massively complex.  
 **Translation:** 
 
-**[187.56s] English:** or we scale up based on the capabilities of Moore's law, which has largely slowed because  
+**[179.36s] English:** Computation.  
+**Translation:** Vocabulary: massively: 极其
+
+**[179.54s] English:** And so we just have to bring every technology to bear. Otherwise, we scale up linearly.  
 **Translation:** 
 
-**[194.94s] English:** Dennard scaling has slowed. I'm sure there's trade offs there. Plus, you have a complete  
+**[187.56s] English:** Or we scale up based on the capabilities of Moore's Law, which has largely slowed because  
+**Translation:** Vocabulary: capabilities: 能力
+
+**[194.94s] English:** Dennard scaling has slowed. I'm sure there are trade-offs there. Plus, you have a complete  
 **Translation:** 
 
-**[199.32s] English:** disparate disciplines here. I'm sure you have specialists in each one of these high bandwidth  
-**Translation:** Vocabulary: bandwidth: 数据带宽; dennard: Dennard; disciplines: 学科领域; disparate: 不同类
+**[199.32s] English:** Disparate disciplines here. I'm sure you have specialists in each one of these high-bandwidth areas.  
+**Translation:** Vocabulary: dennard: Dennard缩放; disciplines: 学科; disparate: 不同的
 
-**[203.92s] English:** memory, the network and the NV link, the NICs, the optics and the copper that you're doing,  
+**[203.92s] English:** Memory, the network, and the NVLink; the NICs, the optics, and the copper that you're doing.  
 **Translation:** 
 
-**[208.96s] English:** the power delivery.  
-**Translation:** Vocabulary: optics: 光纤
+**[208.96s] English:** The power delivery.  
+**Translation:** Vocabulary: copper: 铜; optics: 光学
 
-**[209.54s] English:** The cooling all that. I mean, there's like world experts in each of those. How do you  
+**[209.54s] English:** The cooling is all that. I mean, there are like world experts in each of those. How do you?  
 **Translation:** 
 
-**[213.48s] English:** get them in a room together to figure out why my staff is so large?  
+**[213.48s] English:** Get them in a room together to figure out why my staff is so large?  
 **Translation:** 
 
 **[217.56s] English:** What's the product? Can you take me through the process of the specialists and the journalists?  
 **Translation:** 
 
-**[222.18s] English:** Like, how do you put together the rack when you know this, the set of things you have  
+**[222.18s] English:** Like, how do you put together the rack when you know what set of things you have?  
 **Translation:** 
 
-**[226.36s] English:** to shove into a rack together? Yeah, like, what does that process look like of designing  
+**[226.36s] English:** To shove into a rack together? Yeah, like, what does that process look like of designing?  
 **Translation:** 
 
-**[230.54s] English:** it all together?  
-**Translation:** Vocabulary: shove: 推入
+**[230.54s] English:** Is it all together?  
+**Translation:** Vocabulary: shove: 硬塞
 
-**[231.26s] English:** There's the first question, which is what is extreme co design? You're, you were optimizing  
+**[231.26s] English:** There's the first question, which is "What is extreme co-design?" You were optimizing.  
 **Translation:** 
 
-**[236.88s] English:** across the entire stack of software.  
+**[236.88s] English:** Across the entire stack of software.  
 **Translation:** Vocabulary: optimizing: 优化
 
 **[238.88s] English:** Yeah.  
 **Translation:** 
 
-**[239.88s] English:** And so you're like, oh, okay, because I, you know, I don't like to go out there and  
+**[239.88s] English:** And so you're like, "Oh, okay," because I, you know, I don't like to go out there and  
 **Translation:** 
 
-**[240.88s] English:** get like, I'm not like, I'm really into it. But if I go in and I'm like, I want to go  
+**[240.00s] English:** To chips, to systems, to system software, to the algorithms, to the applications. That's  
 **Translation:** 
 
-**[241.88s] English:** to every store and look at, you know, I'm really into it. Yeah.  
+**[240.88s] English:** Get, like, I'm not like, I'm really into it. But if I go in and I'm like, "I want to go.  
+**Translation:** 
+
+**[241.88s] English:** To every store and look at it, you know—I'm really into it. Yeah.  
 **Translation:** 
 
 **[242.00s] English:** Yeah.  
 **Translation:** 
 
-**[242.08s] English:** And so you have a lot of different recording systems that you, you guys have to, you've  
+**[242.08s] English:** And so, you have a lot of different recording systems that you guys have to deal with.  
 **Translation:** 
 
-**[242.86s] English:** got to choose like in the office, you've got to, I've got to some kind of domain  
+**[242.86s] English:** Got to choose, like in the office; you've got to, I've got to, some kind of domain.  
 **Translation:** 
 
-**[243.56s] English:** explanation to do it.  
+**[243.56s] English:** Explanation: To do it.  
 **Translation:** 
 
 **[243.80s] English:** Right.  
@@ -172,10 +176,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[244.22s] English:** Cool.  
 **Translation:** 
 
-**[244.36s] English:** So then I don't have this one end up.  
+**[244.36s] English:** So, then, I don't want this one to end up.  
 **Translation:** 
 
 **[244.44s] English:** Yeah, no, I've got this.  
+**Translation:** 
+
+**[244.66s] English:** One layer. The second thing that you and I just talked about goes beyond CPUs and GPUs and  
 **Translation:** 
 
 **[244.68s] English:** Let's see.  
@@ -193,157 +200,151 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[245.10s] English:** So, here's what I would like to do.  
 **Translation:** 
 
-**[240.00s] English:** to chips, to systems, to system software, to the algorithms, to the applications. That's  
+**[250.76s] English:** Networking chips, and scale-up switches and scale-out switches. And then, of course, you've  
 **Translation:** 
 
-**[244.66s] English:** one layer. The second thing that you and I just talked about goes beyond CPUs and GPUs and  
+**[256.10s] English:** Got to include power and cooling and all of that because, you know, all these computers are.  
 **Translation:** 
 
-**[250.76s] English:** networking chips and scale-up switches and scale-out switches. And then, of course, you've  
+**[262.18s] English:** Extremely power-hungry. They do a lot of work, and they're very energy-efficient.  
 **Translation:** 
 
-**[256.10s] English:** got to include power and cooling and all of that because, you know, all these computers are  
-**Translation:** 
-
-**[262.18s] English:** extremely, extremely power-hungry. They do a lot of work, and they're very energy-efficient,  
-**Translation:** 
-
-**[268.08s] English:** but they, in aggregate, still consume a lot of power. And so that's one. The first question is,  
+**[268.08s] English:** But they, in aggregate, still consume a lot of power. And so that's one. The first question is:  
 **Translation:** Vocabulary: aggregate: 总体
 
-**[273.18s] English:** what is it? The second question is, why is it? And we just spoke about the reason, you know,  
+**[273.18s] English:** What is it? The second question is, why is it? And we just spoke about the reason, you know.  
 **Translation:** 
 
-**[278.50s] English:** you want to distribute the workloads so that you can exceed the benefit of just increasing the  
+**[278.50s] English:** You want to distribute the workloads so that you can exceed the benefit of just increasing the.  
+**Translation:** Vocabulary: exceed: 超过; workloads: 工作负载
+
+**[285.58s] English:** Number of computers. And then the third question is: how is it? How do you do it? And that's kind.  
 **Translation:** 
 
-**[285.58s] English:** number of computers. And then the third question is, how is it? How do you do it? And that's kind  
+**[294.26s] English:** Of the miracle of this company. You know, when you're designing a computer, you have  
 **Translation:** 
 
-**[294.26s] English:** of the miracle of this company. You know, when you're designing a computer, you have  
+**[298.02s] English:** To have a lot of power. And so that's one. The second question is: why is it? And we just spoke.  
 **Translation:** 
 
-**[298.02s] English:** to have a lot of power. And so that's one. The second question is, why is it? And we just spoke  
+**[298.06s] English:** To have an operating system for computers. When you're designing a company, you should first  
 **Translation:** 
 
-**[298.06s] English:** to have an operating system of computers. When you're designing a company, you should first  
+**[303.14s] English:** Think about what it is that you want the company to produce. You know, I see a lot of companies  
 **Translation:** 
 
-**[303.14s] English:** think about, what is it that you want the company to produce? You know, I see a lot of companies'  
+**[307.40s] English:** Organization charts, and they all look the same. Hamburger organization charts, software organization.  
 **Translation:** 
 
-**[307.40s] English:** organization charts, and they all look the same. Hamburger organization charts, software organization  
+**[312.76s] English:** Charts, and car company organization charts, all look the same. And it doesn't make any sense.  
 **Translation:** 
 
-**[312.76s] English:** charts, and car company organization charts, they all look the same. And it doesn't make any sense  
+**[317.22s] English:** To me, you know, the goal of a company is to be the machinery, the mechanism, the system that  
+**Translation:** Vocabulary: machinery: 机器
+
+**[323.94s] English:** Produces the output, and that output is the product of the company. And that output is the  
 **Translation:** 
 
-**[317.22s] English:** to me. You know, the goal of a company is to be the machinery, the mechanism, the system that  
-**Translation:** Vocabulary: machinery: 机器设备
-
-**[323.94s] English:** produces the output. And that output is the product of the company. And that output is the  
+**[328.04s] English:** That we would like to create. It is also designed; the architecture of the company should reflect...  
 **Translation:** 
 
-**[328.04s] English:** that we'd like to create. It is also designed, the architecture of the company should reflect  
+**[333.26s] English:** The environment in which it exists. It almost directly says what you should do with the.  
 **Translation:** 
 
-**[333.26s] English:** the environment by which it exists. It almost directly says what you should do with the  
+**[339.14s] English:** Organization. My direct staff is 60 people. You know, I don't have one-on-one meetings with them.  
 **Translation:** 
 
-**[339.14s] English:** organization. My direct staff is 60 people. You know, I don't have one-on-ones with them  
+**[345.04s] English:** Because it's impossible. You can't have 60 people on your staff if you're, you know,  
 **Translation:** 
 
-**[345.04s] English:** because it's impossible. You can't have 60 people on your staff if you're, you know,  
+**[349.94s] English:** Going to get work done. So, you still have 60 reports. You still have more. Yeah.  
 **Translation:** 
 
-**[349.94s] English:** going to get work done. So you still have 60 reports. You still have more. Yeah.  
+**[353.78s] English:** More. Yeah. And most stars, at least have a  
 **Translation:** 
 
-**[353.78s] English:** More. Yeah. And most stars at least have a  
+**[357.98s] English:** Foot in Engineering. Almost.  
 **Translation:** 
 
-**[357.98s] English:** foot in engineering. Almost.  
+**[360.00s] English:** All of them: there are experts in memory, experts in CPUs, and experts in optical technology.  
 **Translation:** 
 
-**[360.00s] English:** all of them there's experts in memory there's experts in cpus there's experts in optical all  
+**[366.40s] English:** Yeah, GPUs and architecture, algorithms, and design—so you constantly have an eye on the entire stack.  
+**Translation:** Vocabulary: optical: 光学的
+
+**[373.70s] English:** And you're having intense discussions about the design of the entire set, and no conversation.  
 **Translation:** 
 
-**[366.40s] English:** yeah gpus and architecture algorithms design so you constantly have an eye on the entire stack  
+**[379.42s] English:** Is there ever one person? That's why I don't do one-on-ones. We present a problem, and all of us...  
 **Translation:** 
 
-**[373.70s] English:** and you're having like intense discussions about the design of the entire set and no conversation  
+**[385.46s] English:** Attack it, you know, because we're doing extreme code design, and literally the company is doing  
 **Translation:** 
 
-**[379.42s] English:** is ever one person that's why i don't do one-on-ones we present a problem and all of us  
+**[391.26s] English:** Extreme code design all the time, so even if you're talking about a particular component,...  
 **Translation:** 
 
-**[385.46s] English:** attack it you know because we're doing extreme code design and literally the company is doing  
+**[395.54s] English:** Like cooling, networking; everybody's listening in, yeah, and they can contribute. Well, this doesn't.  
 **Translation:** 
 
-**[391.26s] English:** extreme code design all the time so even if you're talking about a particular component  
+**[402.96s] English:** Work for the power distribution. This doesn't exactly work for the power distribution.  
 **Translation:** 
 
-**[395.54s] English:** like cooling networking everybody's listening in yeah and they can contribute well this doesn't  
+**[407.08s] English:** The memory: this doesn't work for this, exactly. And whoever wants to tune out, feel free to do so.  
 **Translation:** 
 
-**[402.96s] English:** work for the for the power distribution this doesn't exactly this doesn't work for the for  
+**[413.48s] English:** Yeah, and the reason for that is because  
 **Translation:** 
 
-**[407.08s] English:** the memory this doesn't work for this exactly and whoever wants to tune out tune out you know  
+**[415.18s] English:** Because the people on the staff know when to pay attention; they're supposed to.  
 **Translation:** 
 
-**[413.48s] English:** yeah and the reason for that is because  
+**[420.10s] English:** You know, something they could have contributed to, they didn't contribute to. I'm going to call  
 **Translation:** 
 
-**[415.18s] English:** because the people who are on the staff they they know when to pay attention they're supposed  
+**[423.68s] English:** They're out, you know, and so hey, come on, let's get in here. So, as you mentioned in the videos, this company...  
 **Translation:** 
 
-**[420.10s] English:** you know something they could have contributed to they didn't contribute to i'm going to call  
+**[429.52s] English:** Is adapting to the environment, so at which point can you say that the environment changed and you began?  
+**Translation:** Vocabulary: adapting: 适应
+
+**[435.64s] English:** Began adapting, sort of secretly, in the early days, from GPU for gaming, maybe the early deep.  
 **Translation:** 
 
-**[423.68s] English:** them out you know and so hey come on let's get in here so as you mentioned in videos this company  
+**[443.68s] English:** Learning Revolution: We're now going to be part of the early deep learning revolution.  
 **Translation:** 
 
-**[429.52s] English:** is adapting to the environment so which point can you say did the environment change you began  
+**[445.16s] English:** Early days, from GPU for gaming, maybe the early deep learning revolution, and we're now going to start.  
 **Translation:** 
 
-**[435.64s] English:** began adapting sort of secretly in the early days from gpu for gaming maybe the early deep  
+**[445.78s] English:** Thinking of it as an AI factory, what does NVIDIA do? It produces AI. Let's build a factory.  
 **Translation:** 
 
-**[443.68s] English:** learning revolution to we're now going to be the early deep learning revolution to the  
+**[450.70s] English:** I could, you could, I could reason through it just systematically. Um, we started out as an accelerator.  
 **Translation:** 
 
-**[445.16s] English:** early days from gpu for gaming maybe the early deep learning revolution to we're now going to start  
-**Translation:** 
-
-**[445.78s] English:** thinking of it as an ai factory what does nvidia do is produces ai let's build a factory  
-**Translation:** 
-
-**[450.70s] English:** i could you could i could reason through it just systematically um we started out as an accelerator  
-**Translation:** 
-
-**[457.64s] English:** company but the problem with accelerators is that the application domain is too narrow it has the  
+**[457.64s] English:** Company, but the problem with accelerators is that the application domain is too narrow; it has the  
 **Translation:** Vocabulary: accelerator: 加速器; accelerators: 加速器
 
-**[463.52s] English:** benefit of being incredibly optimized for the job you know any specialist has that benefit the  
+**[463.52s] English:** The benefit of being incredibly optimized for the job—you know, any specialist has that benefit.  
 **Translation:** 
 
-**[470.02s] English:** problem with intense specialization is that of course your market reach  
+**[470.02s] English:** The problem with intense specialization is that, of course, your market reach can suffer.  
 **Translation:** Vocabulary: optimized: 优化
 
-**[475.16s] English:** is narrower but that's that's even fine the problem is  
+**[475.16s] English:** Is it narrower, but that's okay. The problem is...  
 **Translation:** 
 
 **[480.00s] English:** The market size also dictates your R&D capacity, and your R&D capacity ultimately dictates the influence and impact that you can possibly have in computing.  
-**Translation:** Vocabulary: computing: 计算机领域; dictates: 决定; narrower: 更窄
+**Translation:** Vocabulary: computing: 计算; dictates: 决定; narrower: 更窄
 
-**[494.34s] English:** And so when we first started out as an accelerator, a very specific accelerator, we always knew that that was going to be our first step.  
+**[494.34s] English:** And so, when we first started out as an accelerator, a very specific one, we always knew that would be our first step.  
 **Translation:** 
 
-**[502.70s] English:** We had to find a way to become accelerated computing.  
+**[502.70s] English:** We had to find a way to become an accelerated computing solution.  
 **Translation:** Vocabulary: accelerated: 加速的
 
-**[505.78s] English:** But the problem is when you become a computing company, it's too general purpose, and it takes away from your specialization.  
+**[505.78s] English:** But the problem is, when you become a computing company, it's too general-purpose, and it takes away from your specialization.  
 **Translation:** 
 
 **[513.40s] English:** I connected two words that actually have fundamental tension.  
@@ -352,7 +353,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[519.44s] English:** The better computing company we become, the worse we become as a specialist.  
 **Translation:** 
 
-**[523.68s] English:** The more of a specialist, the less capacity we have to do overall computing.  
+**[523.68s] English:** The more specialized we become, the less capacity we have for overall computing.  
 **Translation:** 
 
 **[529.22s] English:** And I connected those two words together on purpose.  
@@ -361,181 +362,181 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[532.70s] English:** That the company has to find that really narrow path, step by step by step, to expand our aperture of computing, but not give up on the most important specialization that we had.  
 **Translation:** Vocabulary: aperture: 视野
 
-**[546.72s] English:** Okay, so the first step that we took beyond acceleration was we invented the programmable pixel shader.  
+**[546.72s] English:** Okay, so the first step that we took beyond acceleration was to invent the programmable pixel shader.  
 **Translation:** 
 
-**[553.00s] English:** So that was the first step towards programmability.  
+**[553.00s] English:** So, that was the first step towards programmability.  
 **Translation:** Vocabulary: pixel: 像素; shader: 着色器
 
-**[556.62s] English:** You know, it was our first journey towards moving into the world of computing.  
+**[556.62s] English:** You know, it was our first journey toward moving into the world of computing.  
 **Translation:** 
 
-**[560.58s] English:** The second thing that we did was we...  
+**[560.58s] English:** The second thing that we did was we....  
+**Translation:** Vocabulary: computing: 计算
+
+**[562.70s] English:** We created and put FP32 into our shaders.  
 **Translation:** 
 
-**[562.70s] English:** We created, we put FP32 into our shaders.  
+**[567.86s] English:** That FP32 step, IEEE-compatible FP32, was a huge step in the direction of computing.  
+**Translation:** Vocabulary: shaders: 着色器
+
+**[576.46s] English:** It was the reason why all of the people who were working on stream processors and other types of data flow processors discovered us.  
 **Translation:** 
 
-**[567.86s] English:** That FP32 step, IEEE compatible FP32, was a huge step in the direction of computing.  
-**Translation:** Vocabulary: compatible: 兼容的; shaders: 着色器
-
-**[576.46s] English:** It was the reason why all of the people who were working on stream processors and, you know, other types of data flow processors discovered us.  
-**Translation:** 
-
-**[586.32s] English:** And they said, hey, all of a sudden, you know, we might be able to use this GPU that's incredibly computationally intensive.  
+**[586.32s] English:** And they said, "Hey, all of a sudden, you know, we might be able to use this GPU that's incredibly computationally intensive.  
 **Translation:** Vocabulary: computationally: 计算上; processors: 处理器
 
 **[591.98s] English:** And it's now.  
 **Translation:** 
 
-**[593.24s] English:** You know, compliant with IEEE.  
-**Translation:** Vocabulary: compliant: 符合要求
+**[593.24s] English:** You know, it's compliant with IEEE.  
+**Translation:** Vocabulary: compliant: 符合要求的
 
-**[594.84s] English:** I can take my software that I was writing, you know, previously on CPUs, and I can...  
+**[594.84s] English:** I can take the software that I was writing previously for CPUs and I can...  
 **Translation:** 
 
-**[600.00s] English:** you know see about about you know using the gpu for them and which led us to create put c  
+**[600.00s] English:** You know, seeing about using the GPU for them and which led us to create Put C.  
 **Translation:** 
 
-**[607.24s] English:** on top of fp32 was called we call cg that cg path took us to eventually cuda cuda step by step by  
+**[607.24s] English:** On top of FP32, we called it CG. That CG path took us to eventually CUDA, step by step.  
 **Translation:** 
 
-**[616.14s] English:** step um uh with well putting cuda on g-force that that was a strategic decision that was very very  
+**[616.14s] English:** Step, um, uh, with well, putting CUDA on G-Force—that was a strategic decision that was very, very  
 **Translation:** 
 
-**[624.00s] English:** hard to do because it cost the company enormous amounts of our profits and we couldn't afford it  
+**[624.00s] English:** It's hard to do because it costs the company enormous amounts of our profits, and we couldn't afford it.  
 **Translation:** 
 
-**[629.80s] English:** at the time but we did it anyways because we wanted to be a computing company a computing  
-**Translation:** Vocabulary: computing: 计算
-
-**[635.30s] English:** company has a computing architecture a computing architecture has to be compatible across all of  
+**[629.80s] English:** At the time, but we did it anyway because we wanted to be a computing company.  
 **Translation:** 
 
-**[641.14s] English:** the chips that we build can you can you take me to that decision so putting cuda on g-force could  
+**[635.30s] English:** The company's computing architecture must be compatible across all of  
 **Translation:** 
 
-**[645.44s] English:** not afford to do can you explain that decision why why boldly choose to do that anyway yeah you  
+**[641.14s] English:** The chips that we build, can you take me through that decision? So, putting CUDA on G-Force could...  
+**Translation:** Vocabulary: compatible: 兼容的; computing: 计算
+
+**[645.44s] English:** Not afford to do? Can you explain that decision? Why, why did you boldly choose to do that anyway? Yeah, you.  
 **Translation:** 
 
-**[652.42s] English:** explain that excellent that was that was the first i would i would say that that was the first um  
+**[652.42s] English:** Explain that, excellent—that was the first. I would say that was the first, um,  
+**Translation:** Vocabulary: boldly: 勇敢地
+
+**[659.80s] English:** The first strategic decision that is as close to an existential threat for those who don't know  
 **Translation:** 
 
-**[659.80s] English:** the first strategic decision that that is as close to an existential threat for people who don't know  
+**[667.78s] English:** It turned out to be (spoiler alert) one of the most incredibly brilliant decisions ever made by a  
+**Translation:** Vocabulary: spoiler: 剧透
+
+**[675.04s] English:** Company, so CUDA turned out to be an incredible foundation for computation, uh, in this AI.  
 **Translation:** 
 
-**[667.78s] English:** it turned out to be spoiler alert one of the most incredibly brilliant decisions ever made by a  
-**Translation:** 
-
-**[675.04s] English:** company so cuda turned out to be an incredible foundation for computation uh in this ai  
-**Translation:** 
-
-**[681.70s] English:** infrastructure world so so you're just setting the context it turned out to be a good decision  
+**[681.70s] English:** Infrastructure world: So, you're just setting the context. It turned out to be a good decision.  
 **Translation:** Vocabulary: computation: 计算
 
-**[687.12s] English:** yeah it turned out to have been good decision i think the  
+**[687.12s] English:** Yeah, it turned out to have been a good decision, I think.  
 **Translation:** 
 
-**[689.80s] English:** so so here here's the way it went so we invented this thing called cuda and um uh it expanded the  
+**[689.80s] English:** So, here's the way it went: We invented this thing called CUDA, and it expanded the  
 **Translation:** 
 
-**[696.30s] English:** the aperture of applications that that we can accelerate with our accelerator the question is  
+**[696.30s] English:** The aperture of applications that we can accelerate with our accelerator: the question is...  
 **Translation:** 
 
-**[702.90s] English:** how do we how do we attract developers to cuda because a computing platform is all about  
+**[702.90s] English:** How do we attract developers to CUDA, because a computing platform is all about  
 **Translation:** Vocabulary: accelerate: 加速; accelerator: 加速器; aperture: 通路
 
-**[710.30s] English:** developers and developers don't come to a computing platform just because you know it  
+**[710.30s] English:** Developers and developers don't come to a computing platform just because you know it.  
 **Translation:** 
 
-**[718.32s] English:** could perform something interesting and they don't come to a computing platform just because  
+**[718.32s] English:** Could perform something interesting, and they don't come to a computing platform just because.  
 **Translation:** 
 
-**[719.80s] English:** they're inputters just because they want to change it if you know what they think the information  
+**[719.80s] English:** They're inputters, just because they want to change it if you know what they think the information is.  
 **Translation:** 
 
-**[725.74s] English:** approach is if it's classical information and they can appreciate all kinds of information  
+**[720.00s] English:** They come to a computing platform because the install base is large, because a developer likes  
 **Translation:** Vocabulary: inputters: 输入者
 
-**[732.32s] English:** and toggles and stuff like that so um i think that i i i think it's really important to differentiate  
+**[725.40s] English:** Anybody else wants to develop software that reaches a lot of people, so the install base?  
 **Translation:** 
 
-**[737.96s] English:** between what may come out as information and and what may not and create something that is  
+**[725.74s] English:** The approach is if it's classical information and they can appreciate all kinds of information.  
+**Translation:** 
+
+**[730.14s] English:** Is, in fact, the single most important part of an architecture; the architecture could attract.  
+**Translation:** 
+
+**[732.32s] English:** And toggles and stuff like that, so, um, I think it's really important to differentiate.  
 **Translation:** Vocabulary: differentiate: 区分; toggles: 切换按钮
 
-**[742.30s] English:** ommen meant to be and so i'm just going to go ahead and run through some statements overall  
+**[736.42s] English:** Enormous amounts of criticism, for example; no architecture has ever attracted more.  
 **Translation:** 
 
-**[747.34s] English:** today try something we've talked about a lot today the first thing that we want to do is toücht  
+**[737.96s] English:** Between what may come out as information and what may not, create something that is  
 **Translation:** 
 
-**[749.12s] English:** throughaved to avoid collusion with the inflation right so if you're doing like your company or  
+**[742.30s] English:** Ommen meant to be, and so I'm just going to go ahead and run through some statements overall.  
 **Translation:** 
 
-**[720.00s] English:** they come to a computing platform because the install base is large because a developer like  
-**Translation:** Vocabulary: collusion: 勾结
-
-**[725.40s] English:** anybody else wants to develop software that reaches a lot of people so the install base  
+**[743.12s] English:** Than the x86, you know, as a less-than-elegant architecture, but it is the  
 **Translation:** 
 
-**[730.14s] English:** is in fact the single most important part of an architecture the architecture could attract  
+**[747.34s] English:** Today, let's try something we've talked about a lot. The first thing we want to do is toücht.  
 **Translation:** 
 
-**[736.42s] English:** enormous amounts of criticism for example no architecture has ever attracted more criticism  
+**[749.12s] English:** Through saved to avoid collusion with the inflation, right? So if you're doing something like your company or  
+**Translation:** Vocabulary: collusion: 勾结; inflation: 通货膨胀
+
+**[751.52s] English:** Defining the architecture of today, it gives you an example that in fact, so many risk architectures.  
 **Translation:** 
 
-**[743.12s] English:** than the x86 you know as as a less than less than elegant architecture but yet it is the  
+**[757.84s] English:** Which were beautifully architectured, incredibly well-designed by some of the brightest computer experts.  
+**Translation:** Vocabulary: architectured: 精心设计的
+
+**[765.48s] English:** Scientists in the world largely failed, and so I've given you two examples where one is, you know,  
 **Translation:** 
 
-**[751.52s] English:** defining architecture of today it gives you an example that in fact so many risk architectures  
+**[772.14s] English:** One is elegant.  
+**Translation:** Vocabulary: elegant: 优雅的
+
+**[773.06s] English:** One is elegant.  
 **Translation:** 
 
-**[757.84s] English:** which were beautifully architected incredibly well designed by some of the brightest computer  
-**Translation:** Vocabulary: architected: 精心设计
-
-**[765.48s] English:** scientists in the world largely failed and so i've given you two examples where one is you know  
+**[773.10s] English:** One is elegant.  
 **Translation:** 
 
-**[772.14s] English:** one is elegant  
+**[773.12s] English:** The other one's barely aesthetic, and so X86 survived — install base is everything.  
 **Translation:** 
 
-**[773.06s] English:** one is elegant  
+**[779.58s] English:** Base defines an architecture, not everything else is secondary, okay. And so, there were other...  
+**Translation:** Vocabulary: aesthetic: 美感
+
+**[785.92s] English:** Architectures at the time CUDA came out, OpenCL was here, and there were, you know, several others.  
 **Translation:** 
 
-**[773.10s] English:** one is elegant  
+**[790.88s] English:** Competing architectures, but the thing that we decided was good was that we said  
 **Translation:** 
 
-**[773.12s] English:** the other one's barely aesthetic and so yet x86 survived and install base is everything install  
+**[795.90s] English:** Hey, look; ultimately, it's about the install base, and what is the best way we could get a new  
 **Translation:** 
 
-**[779.58s] English:** base defines an architecture not everything else is secondary okay and so there were other  
-**Translation:** Vocabulary: aesthetic: 审美
-
-**[785.92s] English:** architectures at the time cuda came out opencl was here there were you know there's several other  
-**Translation:** 
-
-**[790.88s] English:** competing architectures but the the thing that the decision that we made that was good was we said  
-**Translation:** 
-
-**[795.90s] English:** hey look ultimately it's about um install base and what is the best way we could get a new  
-**Translation:** 
-
-**[803.24s] English:** computing architecture into the world by that time frame geforce had become successful we were already  
+**[803.24s] English:** Computing architecture into the world by that time frame, GeForce had become successful, and we were already...  
 **Translation:** Vocabulary: computing: 计算
 
-**[810.30s] English:** selling millions and millions of geforce gpus a year and we said you know we we had to put cuda  
+**[810.30s] English:** Selling millions and millions of GeForce GPUs a year, and we said, "You know, we had to put CUDA...  
 **Translation:** 
 
-**[815.86s] English:** on geforce and put it into every single pc whether customers use it or not and use it as a starting  
+**[815.86s] English:** On GeForce, and put it into every single PC, whether customers use it or not, and use it as a starting point.  
 **Translation:** 
 
-**[825.08s] English:** point of  
+**[825.08s] English:** Point of  
 **Translation:** 
 
-**[825.90s] English:** cultivating our install base meanwhile we'll go and attract developers and went to universities  
+**[825.90s] English:** Cultivating our install base, meanwhile, we'll go and attract developers and visit universities.  
 **Translation:** Vocabulary: cultivating: 培养
 
-**[833.70s] English:** and wrote books and taught classes and put cuda everywhere and eventually people will discover  
+**[833.70s] English:** And he wrote books, taught classes, and put CUDA everywhere, and eventually people will discover.  
 **Translation:** 
 
 **[840.00s] English:** And at the time, the PC was the primary computing vehicle.  
@@ -544,37 +545,37 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[843.62s] English:** There was no cloud.  
 **Translation:** 
 
-**[844.72s] English:** And we could put a supercomputer in the hands of every researcher in school, every scientist,  
+**[844.72s] English:** And we could put a supercomputer in the hands of every researcher in school and every scientist.  
 **Translation:** Vocabulary: supercomputer: 超级计算机
 
-**[849.78s] English:** every engineer in school, every student in school, and eventually something amazing will  
+**[849.78s] English:** Every engineer in school, every student in school, and eventually something amazing will happen.  
 **Translation:** 
 
-**[854.78s] English:** happen.  
+**[854.78s] English:** Happen.  
 **Translation:** 
 
-**[855.58s] English:** Well, the problem was CUDA increased our cost of that GPU, which is a consumer product,  
+**[855.58s] English:** Well, the problem was that CUDA increased our cost of that GPU, which is a consumer product.  
 **Translation:** 
 
-**[862.16s] English:** so tremendously it completely consumed all of the company's gross profit dollars.  
+**[862.16s] English:** So, it was tremendously consuming, completely consuming all of the company's gross profit dollars.  
 **Translation:** Vocabulary: tremendously: 巨大地
 
-**[868.56s] English:** And so at the time, the company was probably worth, I don't know, at the time, $8 billion  
+**[868.56s] English:** And so at the time, the company was probably worth, I don't know, $8 billion.  
 **Translation:** 
 
-**[877.06s] English:** or something, $6, $7 billion or something like that.  
+**[877.06s] English:** Or something, $6 or $7 billion or something like that.  
 **Translation:** 
 
 **[880.22s] English:** After we launched CUDA, I recognized that it was going to add so much cost, but it was  
 **Translation:** 
 
-**[887.88s] English:** something we believed in.  
+**[887.88s] English:** Something we believed in.  
 **Translation:** 
 
-**[890.04s] English:** Our market cap went down to like $1.5 billion.  
+**[890.04s] English:** Our market cap went down to about $1.5 billion.  
 **Translation:** 
 
-**[893.32s] English:** And so we were down there for a while.  
+**[893.32s] English:** And so, we were down there for a while.  
 **Translation:** 
 
 **[896.96s] English:** And we clawed our way.  
@@ -586,28 +587,28 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[900.54s] English:** But we carried CUDA on GeForce.  
 **Translation:** 
 
-**[903.14s] English:** I always say that NVIDIA is the house that GeForce built because it was GeForce that  
+**[903.14s] English:** I always say that NVIDIA is the house that GeForce built, because it was GeForce that  
 **Translation:** 
 
-**[908.36s] English:** took CUDA out to everybody.  
+**[908.36s] English:** Took CUDA out to everyone.  
 **Translation:** 
 
-**[910.78s] English:** Researchers, scientists, they discovered CUDA on GeForce because they were all, you know,  
+**[910.78s] English:** Researchers and scientists discovered CUDA on GeForce because they were all, you know,  
 **Translation:** 
 
-**[918.10s] English:** many of them were gamers.  
+**[918.10s] English:** Many of them were gamers.  
 **Translation:** 
 
-**[919.82s] English:** Many of them built their own PCs anyways.  
+**[919.82s] English:** Many of them built their own PCs, anyway.  
 **Translation:** 
 
-**[922.52s] English:** In a university lab, many of them built clusters themselves, you know, using PC components.  
+**[922.52s] English:** In a university lab, many of them built clusters themselves, using PC components.  
 **Translation:** 
 
-**[928.56s] English:** And so that, you know, that's kind of how we got going.  
+**[928.56s] English:** And so, you know, that's kind of how we got going.  
 **Translation:** Vocabulary: clusters: 计算集群
 
-**[931.58s] English:** And then that became the platform, the foundation for the deep learning revolution.  
+**[931.58s] English:** And then that became the platform and foundation for the deep learning revolution.  
 **Translation:** 
 
 **[935.18s] English:** That was also another great, great observation.  
@@ -617,75 +618,75 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **Translation:** 
 
 **[937.94s] English:** That existential moment.  
-**Translation:** 
+**Translation:** Vocabulary: existential: 存在主义的
 
 **[939.48s] English:** Do you remember, like, what were those meetings like?  
 **Translation:** 
 
-**[942.76s] English:** What were those discussions like, deciding as a company, risking everything?  
+**[942.76s] English:** What were those discussions like, deciding as a company to risk everything?  
 **Translation:** 
 
 **[948.38s] English:** Well, I had to make it clear to the board what we were trying to do.  
 **Translation:** 
 
 **[956.04s] English:** And the management team knew our gross margins.  
-**Translation:** 
+**Translation:** Vocabulary: margins: 利润 margin
 
 **[958.56s] English:** We were going to get crushed.  
 **Translation:** 
 
-**[960.00s] English:** So you could imagine a world where GeForce would carry the burden of CUDA, and none of the gamers would appreciate it, and none of the gamers would pay for it. They only pay a certain price, and it doesn't matter what your cost is.  
-**Translation:** 
+**[960.00s] English:** So, you could imagine a world where GeForce would carry the burden of CUDA, and none of the gamers would appreciate it, and none of the gamers would pay for it. They only pay a certain price, and it doesn't matter what your cost is.  
+**Translation:** Vocabulary: burden: 负担
 
 **[974.54s] English:** And so we increased our cost by 50%, and we were a 35% gross margin company. And so it was quite a difficult decision to make. But you could imagine that someday this would go into workstations, and it would go into supercomputers, and in those segments, maybe we can capture more margin.  
 **Translation:** 
 
-**[997.26s] English:** So you could reason your way into being able to afford this, but it still took a decade.  
-**Translation:** Vocabulary: segments: 市场部分; supercomputers: 超级计算机; workstations: 工作站
+**[997.26s] English:** So, you could reason your way into being able to afford this, but it still took a decade.  
+**Translation:** Vocabulary: margin: 利润率; segments: 市场细分; supercomputers: 超级计算机; workstations: 工作站
 
-**[1004.54s] English:** But that's more of a conversation with the board, convincing them, but you psychologically. Because NVIDIA has continued to make bold bets that predict the future, and in part, especially now, define the future. So I'm almost looking for wisdom about how you were able to make those decisions, to make leaps like that as a company.  
+**[1004.54s] English:** But that's more of a conversation with the board, convincing them psychologically. Because NVIDIA has continued to make bold bets that predict the future—and in part, especially now, define it. So I'm almost looking for wisdom about how you were able to make those decisions and take leaps like that as a company.  
 **Translation:** 
 
 **[1030.60s] English:** Yeah.  
 **Translation:** Vocabulary: psychologically: 心理上
 
-**[1034.54s] English:** Well, first of all, I'm informed by a lot of curiosity.  
+**[1034.54s] English:** Well, first of all, I'm driven by a lot of curiosity.  
 **Translation:** 
 
-**[1041.30s] English:** At some point, there's a reasoning system that convinces me so clearly this outcome will happen, that this will happen.  
+**[1041.30s] English:** At some point, there's a reasoning system that convinces me so clearly that this outcome will happen, and this will happen.  
 **Translation:** Vocabulary: convinces: 说服
 
-**[1054.62s] English:** And so I believe it in my mind, and when I believe it in my mind, you know how it is. You manifest a future, and that future is so convincing.  
+**[1054.62s] English:** And so I believe it in my mind, and when I believe it, you know how it is: you manifest a future, and that future is so convincing.  
 **Translation:** 
 
 **[1064.54s] English:** And there's no way it won't happen. There's a lot of suffering in between, but you've got to believe what you believe.  
 **Translation:** Vocabulary: manifest: 显现
 
-**[1072.86s] English:** So you envision the future.  
+**[1072.86s] English:** So, you envision the future.  
 **Translation:** 
 
 **[1075.48s] English:** Yeah.  
 **Translation:** Vocabulary: envision: 构想
 
-**[1075.92s] English:** And you essentially, from a sort of engineering perspective, manifest it.  
+**[1075.92s] English:** And you essentially, from an engineering perspective, manifest it.  
 **Translation:** 
 
 **[1079.68s] English:** Yeah.  
 **Translation:** 
 
-**[1080.00s] English:** You reason about how to get there. You reason about why it must exist. We all reason. The management team will reason about it. We spend a lot of time reasoning about it.  
+**[1080.00s] English:** You reason about how to get there. You reason about why it must exist. We all reason. The management team will reason about it, and we spend a lot of time reasoning about it.  
 **Translation:** 
 
-**[1094.76s] English:** The thing that the next part of it is probably a skill thing, which is oftentimes in leadership, the leadership stays quiet or they learn about something and then they do some manifesto and it's a brand new year.  
-**Translation:** Vocabulary: manifesto: 宣言; oftentimes: 常常
+**[1094.76s] English:** The thing that the next part of it is probably a skill thing, which is oftentimes in leadership, the leaders stay quiet or they learn about something and then do some manifesto, and it's a brand new year.  
+**Translation:** Vocabulary: manifesto: 宣言; oftentimes: 经常
 
-**[1109.96s] English:** And somehow at the end of the year, next year, we're going to have a brand new plan, big, huge layoff this way, big, huge organization change this way, new mission statement, brand new logos, that kind of stuff.  
+**[1109.96s] English:** And somehow, at the end of the year, next year, we're going to have a brand-new plan, a big, huge layoffs this way, a big, huge organizational change this way, a new mission statement, and brand-new logos—stuff like that.  
 **Translation:** 
 
 **[1123.24s] English:** I never do things that way.  
-**Translation:** Vocabulary: layoff: 裁员
+**Translation:** Vocabulary: layoffs: 裁员
 
-**[1126.96s] English:** When I learn about something and it's starting to influence how I think, I'll make it very clear to everybody near me that this is interesting.  
+**[1126.96s] English:** When I learn about something and it's starting to influence how I think, I'll make it very clear to everyone near me that this is interesting.  
 **Translation:** 
 
 **[1137.08s] English:** This is going to make a difference.  
@@ -694,16 +695,16 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1139.56s] English:** This is going to impact that.  
 **Translation:** 
 
-**[1141.70s] English:** And I reason about things step by step by step.  
+**[1141.70s] English:** And I reason about things step by step, by step.  
 **Translation:** 
 
-**[1144.36s] English:** Oftentimes, I've already made up my mind, but I'll take every possible opportunity, external information, new insights, new discoveries.  
+**[1144.36s] English:** Oftentimes, I've already made up my mind, but I'll take every possible opportunity, external information, new insights, and new discoveries.  
 **Translation:** 
 
-**[1152.70s] English:** New engineering, you know, revelations, new milestones develop.  
-**Translation:** Vocabulary: milestones: 重要节点; revelations: 重大发现
+**[1152.70s] English:** New engineering revelations emerge as new milestones develop.  
+**Translation:** Vocabulary: milestones: 重要节点; revelations: 新发现
 
-**[1157.74s] English:** I'll take those opportunities and I'll use it to shape everybody else's belief system.  
+**[1157.74s] English:** I'll take those opportunities, and I'll use them to shape everyone else's belief system.  
 **Translation:** 
 
 **[1165.58s] English:** And I'm doing that literally every single day.  
@@ -718,236 +719,236 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1172.14s] English:** I'm doing that with my employees.  
 **Translation:** 
 
-**[1173.76s] English:** I'm trying to shape their belief system such that when I come the day I say, hey, let's buy Mellanox.  
+**[1173.76s] English:** I'm trying to shape their belief system such that when I come, the day I say, "Hey, let's buy Mellanox.  
 **Translation:** Vocabulary: mellanox: 美林诺克斯
 
-**[1182.70s] English:** It's completely obvious to everybody that we absolutely should on the day that on the day that I that I said, hey, guys, let's go all in on deep learning.  
+**[1182.70s] English:** It's completely obvious to everybody that we absolutely should have gone all in on deep learning on the day that I said, "Hey, guys, let's go all in on deep learning.  
 **Translation:** 
 
 **[1194.10s] English:** And let me tell you why.  
 **Translation:** 
 
-**[1195.24s] English:** I've already been laying down the bricks to different organizations.  
+**[1195.24s] English:** I've already laid down the bricks for different organizations.  
 **Translation:** 
 
-**[1200.00s] English:** inside the company every organization and every everybody many of the people might have heard  
+**[1200.00s] English:** Inside the company, every organization and everyone — many of the people might have heard.  
 **Translation:** 
 
-**[1206.48s] English:** everything most of the company heard here's of course pieces of it and on the day that i announce  
+**[1206.48s] English:** Everything, most of the company, had heard here, of course, were pieces of it, and on the day that I announced,  
 **Translation:** 
 
-**[1212.98s] English:** it um everybody's kind of bought into many pieces of it and in a lot of ways i like to announce  
+**[1212.98s] English:** It, um, everybody's kind of bought into many pieces of it, and in a lot of ways, I like to announce.  
 **Translation:** 
 
-**[1221.48s] English:** these things and i imagine um that that the employees are kind of saying you know jensen  
+**[1221.48s] English:** These things, and I imagine that the employees are kind of saying, you know, Jensen.  
 **Translation:** 
 
-**[1228.90s] English:** what took you so long and and in fact i've been shaping their belief system for some time  
+**[1228.90s] English:** What took you so long? And, in fact, I've been shaping their belief system for some time.  
 **Translation:** 
 
-**[1233.80s] English:** and therefore leadership sometimes it looks like you're leading from behind but you've been shaping  
+**[1233.80s] English:** And therefore, leadership sometimes looks like you're leading from behind, but you've been shaping.  
 **Translation:** 
 
-**[1240.28s] English:** there you know to the point where on the day that i declared it a hundred percent buy-in but that's  
+**[1240.28s] English:** There, you know, to the point where on the day that I declared it, a hundred percent buy-in, but that's  
 **Translation:** 
 
-**[1245.62s] English:** what you want you want to bring everybody along you know otherwise we announce something about  
+**[1245.62s] English:** What you want to bring everybody along, you know, otherwise we announce something about.  
 **Translation:** 
 
-**[1250.14s] English:** deep learning and everybody goes what are you talking about you know you announce something  
+**[1250.14s] English:** Deep learning, and everybody goes, "What are you talking about?" You know, you announce something.  
 **Translation:** 
 
-**[1253.94s] English:** about let's go all in on this thing and and your your management team  
+**[1253.94s] English:** About, let's go all in on this thing, and your management team.  
 **Translation:** 
 
-**[1258.90s] English:** your board your employees your customers they're kind of like where's this coming from you know  
+**[1258.90s] English:** Your board, your employees, your customers—they're kind of like, "Where's this coming from?"你知道吗？  
 **Translation:** 
 
-**[1263.00s] English:** this is insane and so so gtc in fact if you go back in time you look at look at the keynotes  
+**[1263.00s] English:** This is insane, and so so GTCT. In fact, if you go back in time and look at the keynotes,  
 **Translation:** 
 
-**[1270.08s] English:** i'm also shaping the belief system of my partners in the industry and and i'm using that to shape  
+**[1270.08s] English:** I'm also shaping the belief system of my partners in the industry, and I'm using that to shape...  
+**Translation:** Vocabulary: keynotes: keynote演讲
+
+**[1277.84s] English:** You know, the belief system of my own employees, and so by the time I announced  
 **Translation:** 
 
-**[1277.84s] English:** you know the belief system of my own employees and and and so by the time that i announced  
+**[1283.00s] English:** Something, like for example, we just announced Grok; we've been late.  
 **Translation:** 
 
-**[1283.00s] English:** something like for example we just now we just announced grok we've been late  
+**[1288.90s] English:** I've been talking about the stepping stones for two and a half years. You guys just go back and  
 **Translation:** 
 
-**[1288.90s] English:** i've been talking about the stepping stones for two and a half years you guys just go back and  
+**[1294.50s] English:** Oh, my goodness! They've been talking about it for two and a half years, and so I've been laying the  
 **Translation:** 
 
-**[1294.50s] English:** oh my gosh they've been talking about it for two and a half years and so i've been laying the  
+**[1299.42s] English:** Foundation, step by step, so when the time comes, you announce it; everybody's, you know, what.  
 **Translation:** 
 
-**[1299.42s] English:** foundation step by step by step so when the time comes you announce it everybody's you know what  
+**[1303.78s] English:** Took you so long, but it's not just inside the company; you're shaping the landscape more broadly.  
+**Translation:** Vocabulary: broadly: 广泛地
+
+**[1307.42s] English:** Global landscape of innovation, like putting those ideas out there, you really are manifesting reality.  
 **Translation:** 
 
-**[1303.78s] English:** took you so long but it's not just inside the company you're shaping the landscape the broader  
-**Translation:** 
-
-**[1307.42s] English:** global landscape of innovation like putting those ideas out there you really are manifesting reality  
-**Translation:** 
-
-**[1312.62s] English:** we don't build computers we actually don't build clouds we don't as it turns out we're  
+**[1312.62s] English:** We don't build computers; we actually don't build clouds. We don't, as it turns out.  
 **Translation:** Vocabulary: manifesting: 显现
 
-**[1317.98s] English:** computing platform companies we don't build computers we don't build clouds we don't build  
+**[1317.98s] English:** Computing platform companies: We don't build computers, we don't build clouds, we don't build...  
 **Translation:** 
 
-**[1318.90s] English:** cloud companies we don't build cloud companies we don't build cloud companies we don't build  
+**[1318.90s] English:** Cloud companies? We don't build. Cloud companies? We don't build. Cloud companies? We don't build.  
+**Translation:** Vocabulary: computing: 计算
+
+**[1320.00s] English:** Nobody can buy anything from us. That's the weird thing. We vertically design and vertically integrate.  
 **Translation:** 
 
-**[1320.00s] English:** Nobody can buy anything from us. That's the weird thing. We vertically design, vertically integrate  
-**Translation:** 
-
-**[1328.26s] English:** to design and optimize, but then we open up the entire platform at every single layer to be  
+**[1328.26s] English:** To design and optimize, but then we open up the entire platform at every single layer to be:  
 **Translation:** Vocabulary: integrate: 整合; optimize: 优化; vertically: 纵向
 
-**[1335.08s] English:** integrated into other companies' products and services and clouds and supercomputers and OEM  
+**[1335.08s] English:** Integrated into other companies' products and services, as well as clouds and supercomputers, and OEM.  
 **Translation:** 
 
-**[1341.04s] English:** computers. The amazing thing is I can't do what I do without having convinced them first.  
-**Translation:** Vocabulary: supercomputers: 超级计算机
+**[1341.04s] English:** Computers: The amazing thing is, I can't do what I do without having convinced them first.  
+**Translation:** Vocabulary: integrated: 融合; supercomputers: 超级计算机
 
-**[1348.00s] English:** And so most of GTC is about manifesting a future that by the time that my product is ready,  
+**[1348.00s] English:** And so, most of GTC is about manifesting a future that, by the time that my product is ready,  
 **Translation:** 
 
-**[1355.82s] English:** they're going, what took you so long? Yeah. So one of the things you've been a believer  
+**[1355.82s] English:** They're going, what took you so long? Yeah. So, one of the things you've been a believer  
 **Translation:** Vocabulary: believer: 信仰者
 
-**[1362.10s] English:** for a long time is scaling laws broadly defined. So are you still a believer in the scaling laws?  
+**[1362.10s] English:** For a long time, scaling laws (broadly defined) have been a topic of belief. Are you still a believer in the scaling laws?  
 **Translation:** 
 
-**[1369.62s] English:** Yeah, we have more scaling laws now. So I think you've outlined four of them with pre-training,  
+**[1369.62s] English:** Yeah, we have more scaling laws now. So I think you've outlined four of them with pre-training.  
+**Translation:** Vocabulary: outlined: 列举
+
+**[1374.30s] English:** Post-training, test time, and agentic scaling.  
 **Translation:** 
 
-**[1374.30s] English:** post-training, test time, and agentic scaling.  
+**[1376.94s] English:** Scaling. What do you think, when you think about the future—deep future and the near-term future—?  
+**Translation:** Vocabulary: agentic: 自主的
+
+**[1384.10s] English:** What are the blockers that you're most concerned about that keep you up at night, and that you have to  
 **Translation:** 
 
-**[1376.94s] English:** Scaling. What do you think, when you think about the future, deep future and the near-term future,  
+**[1389.58s] English:** Overcome challenges in order to keep scaling? Well, we can go back and reflect on  
 **Translation:** 
 
-**[1384.10s] English:** what are the blockers that you're most concerned about that keep you up at night that you have to  
+**[1394.08s] English:** What people thought were blockers. So, in the beginning, we were the first, the pre-training.  
 **Translation:** 
 
-**[1389.58s] English:** overcome in order to keep scaling? Well, we can go back and reflect on  
+**[1399.90s] English:** Scaling Law. People thought, well, rightfully so, that the amount of data we have,  
 **Translation:** 
 
-**[1394.08s] English:** what people thought were blockers. So in the beginning, we were the first, the pre-training  
+**[1406.50s] English:** High-quality data, high-quality data, high-quality data, high-quality data, high-quality data,  
 **Translation:** 
 
-**[1399.90s] English:** scaling law. People thought, well, rightfully so, that the amount of data that we have,  
+**[1406.92s] English:** Data that we have will limit the intelligence that we achieve. And that scaling law was an.  
 **Translation:** 
 
-**[1406.50s] English:** high quality data, high quality data, high quality data, high quality data, high quality data,  
+**[1412.30s] English:** Important: very important scaling law. The larger the model, the corresponding amount of data increases.  
 **Translation:** 
 
-**[1406.92s] English:** data that we have will limit the intelligence that we achieve. And that scaling law was an  
+**[1417.00s] English:** Results in a better, smarter AI. And so that was pre-training. And Ilya Sutskever.  
+**Translation:** Vocabulary: corresponding: 相应的
+
+**[1424.84s] English:** Ilya said, "We're out of data, or something like that." Pre-training is over, or something like that.  
 **Translation:** 
 
-**[1412.30s] English:** important, very important scaling law. The larger the model, the correspondingly more data  
-**Translation:** 
-
-**[1417.00s] English:** results in a better, results in a smarter AI. And so that was pre-training. And Ilya Suskofer,  
-**Translation:** Vocabulary: correspondingly: 相应地
-
-**[1424.84s] English:** Ilya said, we're out of data or something like that. Pre-training is over or something like that.  
-**Translation:** 
-
-**[1429.24s] English:** The industry panicked that this is the end of AI. And of course, that's obviously not true.  
-**Translation:** 
+**[1429.24s] English:** The industry panicked that this is the end of AI. And, of course, that's obviously not true.  
+**Translation:** Vocabulary: panicked: 恐慌
 
 **[1436.92s] English:** We're going to keep on scaling the amount of data that we have.  
 **Translation:** 
 
-**[1440.00s] English:** have to train with, a lot of that data is probably going to be synthetic.  
+**[1440.00s] English:** Have to train with a lot of that data, which is probably going to be synthetic.  
+**Translation:** Vocabulary: synthetic: 人造的
+
+**[1444.34s] English:** And that also confused people. And what people don't realize is that they've kind of forgotten.  
+**Translation:** 
+
+**[1450.42s] English:** That most of the data we train on, teach each other with, and inform each other with,  
+**Translation:** 
+
+**[1456.42s] English:** Is synthetic. It's synthetic because it didn't come out of nature. You created it. I'm consuming.  
+**Translation:** 
+
+**[1465.14s] English:** It. I modify it, augment it. I regenerate it. Somebody else consumes it. And so we've now  
+**Translation:** Vocabulary: augment: 增加; consumes: 消耗; regenerate: 再生
+
+**[1474.32s] English:** Reached a level where AI is able to take ground truth, augment it, enhance it, and synthetically generate new data.  
+**Translation:** 
+
+**[1485.06s] English:** Generate an enormous amount of data, and that part of post-training continues to scale. And so,...  
+**Translation:** Vocabulary: enhance: 提升; synthetically: 合成
+
+**[1491.42s] English:** The amount of data that we could use that is human-generated,  
+**Translation:** 
+
+**[1495.14s] English:** Will be smaller and smaller and smaller. The amount of data that we use to train a model,...  
+**Translation:** 
+
+**[1500.82s] English:** Is going to continue to scale to the point where we're no longer limited. Training is no longer  
+**Translation:** 
+
+**[1507.82s] English:** Limited by data. It's now limited by compute. And the reason for that is most of the data is  
+**Translation:** Vocabulary: compute: 计算能力
+
+**[1512.22s] English:** Synthetic. Then, the next phase is test time. And I still remember people telling me that.  
+**Translation:** 
+
+**[1521.04s] English:** Inference: oh, yeah, that's easy. Pre-training, that's hard.  
 **Translation:** Vocabulary: synthetic: 合成的
-
-**[1444.34s] English:** And that also confused people. And what people don't realize is that they've kind of forgotten  
-**Translation:** 
-
-**[1450.42s] English:** that most of the data that we are training, that we teach each other with, inform each other with,  
-**Translation:** 
-
-**[1456.42s] English:** is synthetic. It's synthetic because it didn't come out of nature. You created it. I'm consuming  
-**Translation:** 
-
-**[1465.14s] English:** it. I modify it, augment it. I regenerate it. Somebody else consumes it. And so we've now  
-**Translation:** Vocabulary: consumes: 消耗; regenerate: 再生
-
-**[1474.32s] English:** reached a level where AI is able to take ground truth, augment it, enhance it, synthetically  
-**Translation:** 
-
-**[1485.06s] English:** generate an enormous amount of data. And that part of post-training continues to scale. And so  
-**Translation:** Vocabulary: synthetically: 合成地
-
-**[1491.42s] English:** the amount of data that we could use that is human-generated,  
-**Translation:** 
-
-**[1495.14s] English:** will be smaller and smaller and smaller. The amount of data that we use to train a model  
-**Translation:** 
-
-**[1500.82s] English:** is going to continue to scale to the point where we're no longer limited. Training is no longer  
-**Translation:** 
-
-**[1507.82s] English:** limited by data. It's now limited by compute. And the reason for that is most of the data is  
-**Translation:** 
-
-**[1512.22s] English:** synthetic. Then the next phase is test time. And I still remember people telling me that  
-**Translation:** 
-
-**[1521.04s] English:** inference, oh yeah, that's easy. Pre-training, that's hard.  
-**Translation:** Vocabulary: inference: 推理
 
 **[1525.02s] English:** Yeah.  
 **Translation:** 
 
-**[1525.12s] English:** These are giant systems that people are talking about. Inference must be easy. And so inference  
+**[1525.12s] English:** These are giant systems that people are talking about. Inference must be easy, and so it should be.  
+**Translation:** Vocabulary: inference: 推断
+
+**[1529.70s] English:** Chips are going to be little, tiny chips. And they're not like NVIDIA's chips. Oh, those are...  
 **Translation:** 
 
-**[1529.70s] English:** chips are going to be little tiny chips. And they're not like NVIDIA's chips. Oh, those are  
+**[1534.66s] English:** Going to be complicated and expensive. And in the future, inference is going to be the biggest.  
 **Translation:** 
 
-**[1534.66s] English:** going to be complicated and expensive. And in the future, inference is going to be the biggest  
+**[1541.54s] English:** Market. And it's going to be easy. And we're going to commoditize, and everybody can build.  
 **Translation:** 
 
-**[1541.54s] English:** market. And it's going to be easy. And we're going to commoditize. And everybody can build  
-**Translation:** 
-
-**[1546.04s] English:** their own chips. And that was always illogical to me because inference is thinking. And I think  
+**[1546.04s] English:** Their own chips. And that was always illogical to me because inference is thinking, and I think.  
 **Translation:** Vocabulary: commoditize: 商品化; illogical: 不合逻辑
 
-**[1554.14s] English:** thinking is hard.  
+**[1554.14s] English:** Thinking is hard.  
 **Translation:** 
 
 **[1555.00s] English:** Thinking is way harder than reading.  
 **Translation:** 
 
-**[1560.00s] English:** is just memorization and generalization, you know, and looking for patterns and relationships.  
+**[1560.00s] English:** It's just memorization and generalization, you know, and looking for patterns and relationships.  
 **Translation:** 
 
 **[1565.48s] English:** You're reading versus thinking, reasoning, solving problems, taking unexplored experiences,  
-**Translation:** Vocabulary: generalization: 概括; memorization: 记忆; unexplored: 未开发
+**Translation:** Vocabulary: generalization: 概括; memorization: 记忆; unexplored: 未探索
 
-**[1577.22s] English:** new experiences, and breaking it down into decomposing it into, you know, solvable pieces  
+**[1577.22s] English:** New experiences, and breaking it down into decomposing it into, you know, solvable pieces.  
 **Translation:** 
 
-**[1583.86s] English:** that we then go off either through first principle reasoning or, you know, through  
+**[1583.86s] English:** That we then go off either through first-principle reasoning or, you know, through  
 **Translation:** Vocabulary: decomposing: 分解; solvable: 可解决的
 
-**[1588.72s] English:** previous examples, prior experiences, you know, or just exploration and search and,  
+**[1588.72s] English:** Previous examples, prior experiences, you know, or just exploration and search, and  
 **Translation:** 
 
-**[1596.94s] English:** you know, trying different things.  
+**[1596.94s] English:** You know, trying different things.  
 **Translation:** 
 
-**[1598.84s] English:** And that whole process of test time scaling inference is really about thinking.  
+**[1598.84s] English:** And that whole process of testing, time-scaling, and inference is really about thinking.  
 **Translation:** 
 
 **[1606.84s] English:** And it's about reasoning.  
-**Translation:** 
+**Translation:** Vocabulary: inference: 推理
 
 **[1608.38s] English:** It's about planning.  
 **Translation:** 
@@ -955,19 +956,19 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1609.18s] English:** It's about search.  
 **Translation:** 
 
-**[1610.14s] English:** It's about, and so how could that possibly be compute light?  
+**[1610.14s] English:** It's about, and so how could that possibly be compute-light?  
 **Translation:** 
 
 **[1614.12s] English:** And we were absolutely right about that, you know.  
 **Translation:** 
 
-**[1616.12s] English:** So test time scaling is intense.  
+**[1616.12s] English:** So, test-time scaling is intense.  
 **Translation:** 
 
-**[1618.72s] English:** Intensely compute intensive.  
+**[1618.72s] English:** Intensely compute-intensive.  
 **Translation:** Vocabulary: intensely: 非常
 
-**[1621.00s] English:** Then the question is, okay, now we're at inference and we're at test time scaling.  
+**[1621.00s] English:** Then the question is: Okay, now we're at inference and test-time scaling.  
 **Translation:** 
 
 **[1624.44s] English:** What's beyond that?  
@@ -977,25 +978,25 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **Translation:** 
 
 **[1632.48s] English:** And that one agentic person has a large language model that we've now, you know, developed.  
+**Translation:** Vocabulary: agentic: 有自主性的
+
+**[1638.28s] English:** But during test time, that agentic system goes off and does research and bangs on databases.  
 **Translation:** 
 
-**[1638.28s] English:** But during test time, that agentic system goes off and does research and bangs on databases  
-**Translation:** 
-
-**[1644.84s] English:** and it goes and, you know, uses tools.  
+**[1644.84s] English:** And it goes and, you know, uses tools.  
 **Translation:** Vocabulary: databases: 数据库
 
-**[1647.94s] English:** And one of the most important things about test time scaling is that it's not just a  
+**[1647.94s] English:** And one of the most important things about test-time scaling is that it's not just a  
 **Translation:** 
 
-**[1648.70s] English:** single agent.  
+**[1648.70s] English:** Single agent.  
 **Translation:** 
 
-**[1648.74s] English:** One of the most important things it does is spins off and spawns off a whole bunch of  
+**[1648.74s] English:** One of the most important things it does is spin off and spawn off a whole bunch of  
 **Translation:** 
 
-**[1652.10s] English:** sub-agents, which means we're now creating large teams.  
-**Translation:** Vocabulary: spawns: 衍生出
+**[1652.10s] English:** Sub-agents, which means we're now creating large teams.  
+**Translation:** Vocabulary: spawn: 繁殖
 
 **[1656.34s] English:** It's so much easier to scale NVIDIA by hiring more employees than it is to scale myself.  
 **Translation:** 
@@ -1015,13 +1016,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1678.70s] English:** And I'm going to show you how to do that in just a moment.  
 **Translation:** 
 
-**[1680.00s] English:** And as we use the agentic systems, they're going to create a lot more data.  
+**[1680.00s] English:** And as we use agency systems, they're going to create a lot more data.  
 **Translation:** 
 
 **[1684.56s] English:** They're going to create a lot of experiences.  
 **Translation:** 
 
-**[1686.28s] English:** Some of it we're going to say, wow, this is really good.  
+**[1686.28s] English:** Some of it we're going to say, "Wow, this is really good.  
 **Translation:** 
 
 **[1689.76s] English:** We ought to memorize this.  
@@ -1036,31 +1037,31 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1697.10s] English:** We then refine it and fine-tune it back into post-training.  
 **Translation:** 
 
-**[1701.96s] English:** Then we enhance it even more with test time.  
-**Translation:** Vocabulary: refine: 精炼
+**[1701.96s] English:** Then we enhance it even more with test-time techniques.  
+**Translation:** Vocabulary: enhance: 提升; refine: 精炼
 
-**[1704.98s] English:** And the agentic systems put it out into the industry.  
+**[1704.98s] English:** And the agency systems put it out into the industry.  
 **Translation:** 
 
 **[1710.54s] English:** And so this loop, this cycle, is going to go on and on and on.  
 **Translation:** 
 
-**[1714.56s] English:** It kind of comes down to basically intelligence is going to scale by one thing, and that's compute.  
+**[1714.56s] English:** It kind of comes down to the fact that basic intelligence will scale primarily by one thing: compute.  
 **Translation:** 
 
-**[1721.86s] English:** But there's a tricky thing there that you have to anticipate and predict,  
-**Translation:** Vocabulary: anticipate: 预判
+**[1721.86s] English:** But there's a tricky thing there that you have to anticipate and predict.  
+**Translation:** Vocabulary: anticipate: 预判; compute: 计算; tricky: 棘手
 
-**[1725.18s] English:** which is some of these components, it requires different kind of hardware to really do it optimally.  
+**[1725.18s] English:** Which is some of these components; it requires a different kind of hardware to really do it optimally.  
 **Translation:** 
 
-**[1733.08s] English:** So you have to anticipate.  
+**[1733.08s] English:** So, you have to anticipate.  
 **Translation:** Vocabulary: optimally: 最优化地
 
-**[1734.32s] English:** You have to anticipate where the AI innovation is going to lead.  
+**[1734.32s] English:** You have to anticipate where AI innovation is going to lead.  
 **Translation:** 
 
-**[1737.06s] English:** For example, make sure that's first with sparsity.  
+**[1737.06s] English:** For example, make sure "that's" is first with sparsity.  
 **Translation:** Vocabulary: sparsity: 稀疏性
 
 **[1739.64s] English:** Perfect.  
@@ -1069,7 +1070,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1740.08s] English:** With hardware, you can't just pivot on a week's notice.  
 **Translation:** 
 
-**[1743.90s] English:** You have to anticipate what that's going to look like.  
+**[1743.90s] English:** You have to anticipate what that will look like.  
 **Translation:** 
 
 **[1746.08s] English:** So good.  
@@ -1090,16 +1091,16 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1759.00s] English:** And system architectures and hardware architectures,  
 **Translation:** 
 
-**[1763.00s] English:** kind of,  
+**[1763.00s] English:** Kind of,  
 **Translation:** 
 
-**[1763.32s] English:** every three years.  
+**[1763.32s] English:** Every three years.  
 **Translation:** 
 
-**[1766.08s] English:** And so you need to anticipate what likely is going to happen, you know, two, three years from now.  
+**[1766.08s] English:** And so, you need to anticipate what is likely to happen two or three years from now.  
 **Translation:** 
 
-**[1773.08s] English:** And there's a couple of ways that you could do that.  
+**[1773.08s] English:** And there are a couple of ways that you could do that.  
 **Translation:** 
 
 **[1774.64s] English:** First of all, we could do research internally ourselves.  
@@ -1114,7 +1115,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1780.00s] English:** We create our own models.  
 **Translation:** 
 
-**[1781.50s] English:** And so we have, we have hands on life experience right here.  
+**[1781.50s] English:** And so we have, we have hands-on life experience right here.  
 **Translation:** 
 
 **[1785.44s] English:** This is part of the co-design that I'm talking about.  
@@ -1123,17 +1124,17 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1788.10s] English:** We're also the only AI company in the world that works with literally every AI company in the world.  
 **Translation:** 
 
-**[1791.90s] English:** And to the extent that we can,  
+**[1791.90s] English:** And, to the extent that we can,  
 **Translation:** 
 
-**[1793.10s] English:** we try to get a sense of what are the challenges that people are experiencing.  
+**[1793.10s] English:** We try to get a sense of what challenges people are experiencing.  
 **Translation:** 
 
-**[1798.98s] English:** So you're listening to the whisper.  
+**[1798.98s] English:** So, you're listening to the whisper.  
 **Translation:** 
 
-**[1800.00s] English:** across the industry, the ad-libs.  
-**Translation:** 
+**[1800.00s] English:** Across the industry, the ad-libs.  
+**Translation:** Vocabulary: whisper: 耳语
 
 **[1802.50s] English:** That's right.  
 **Translation:** 
@@ -1141,79 +1142,79 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1802.98s] English:** You've got to listen and learn from everybody.  
 **Translation:** 
 
-**[1805.72s] English:** And then the last part is to have an architecture that's flexible,  
+**[1805.72s] English:** And then the last part is to have an architecture that's flexible.  
 **Translation:** 
 
-**[1810.86s] English:** that can adapt and move with the wind.  
-**Translation:** 
+**[1810.86s] English:** That can adapt and move with the wind.  
+**Translation:** Vocabulary: flexible: 有弹性的
 
 **[1813.62s] English:** And one of the benefits of CUDA is that it's, on the one hand,  
 **Translation:** 
 
-**[1818.64s] English:** an incredible accelerator.  
+**[1818.64s] English:** An incredible accelerator.  
 **Translation:** Vocabulary: accelerator: 加速器
 
 **[1820.14s] English:** On the other hand, it's really flexible.  
 **Translation:** 
 
-**[1822.92s] English:** And so that balance, incredible balance between specialization,  
+**[1822.92s] English:** And so that balance— incredible balance between specialization,  
 **Translation:** 
 
-**[1827.36s] English:** otherwise we can't accelerate the CPU,  
+**[1827.36s] English:** Otherwise, we can't accelerate the CPU.  
 **Translation:** 
 
-**[1830.94s] English:** versus generalization so that we can adapt with changing algorithms,  
+**[1830.94s] English:** Versus generalization, so that we can adapt to changing algorithms.  
 **Translation:** Vocabulary: accelerate: 加速; generalization: 泛化
 
-**[1835.30s] English:** that's really, really important.  
+**[1835.30s] English:** That's really, really important.  
 **Translation:** 
 
-**[1836.76s] English:** That's the reason why CUDA has been so resilient on the one hand,  
-**Translation:** Vocabulary: resilient: 坚韧不拔
+**[1836.76s] English:** That's the reason why CUDA has been so resilient, on the one hand,  
+**Translation:** Vocabulary: resilient: 坚韧的
 
-**[1842.48s] English:** and yet we continue to enhance it.  
+**[1842.48s] English:** And yet, we continue to enhance it.  
 **Translation:** 
 
-**[1844.14s] English:** We're at CUDA 13.2,  
+**[1844.14s] English:** We're at CUDA 13.2.  
+**Translation:** Vocabulary: enhance: 提高
+
+**[1846.04s] English:** And so, we're evolving the architecture so fast.  
 **Translation:** 
 
-**[1846.04s] English:** and so we're evolving the architecture so fast  
-**Translation:** 
-
-**[1849.16s] English:** that we can stay with the modern algorithms.  
-**Translation:** Vocabulary: evolving: 不断发展
+**[1849.16s] English:** That we can stay with the modern algorithms.  
+**Translation:** Vocabulary: evolving: 演变
 
 **[1855.28s] English:** For example,  
 **Translation:** 
 
-**[1857.36s] English:** when Mixture Experts came out,  
+**[1857.36s] English:** When Mixture Experts came out,  
+**Translation:** Vocabulary: mixture: 混合物
+
+**[1859.64s] English:** That's the reason why we had MVLink-72 instead of MVLink-8.  
 **Translation:** 
 
-**[1859.64s] English:** that's the reason why we had MVLink-72 instead of MVLink-8.  
+**[1863.64s] English:** We could now take an entire 4.1 trillion-parameter model.  
 **Translation:** 
 
-**[1863.64s] English:** We could now take an entire 4 trillion, 10 trillion parameter model  
-**Translation:** Vocabulary: parameter: 参数; trillion: 万亿
-
-**[1867.80s] English:** and put it in one computing domain as if it's running on one GPU.  
+**[1867.80s] English:** And put it in one computing domain, as if it's running on one GPU.  
 **Translation:** 
 
-**[1875.24s] English:** People probably didn't notice I said it,  
+**[1875.24s] English:** People probably didn't notice I said it.  
 **Translation:** Vocabulary: computing: 计算
 
-**[1879.00s] English:** but if you look at the architecture of the Grace Blackwell racks,  
+**[1879.00s] English:** But if you look at the architecture of the Grace Blackwell racks,  
 **Translation:** 
 
-**[1884.24s] English:** it was completely focused on doing one thing,  
+**[1884.24s] English:** It was completely focused on doing one thing.  
 **Translation:** Vocabulary: blackwell: 布莱克威尔
 
-**[1887.36s] English:** processing the LLM.  
+**[1887.36s] English:** Processing the LLM.  
 **Translation:** 
 
 **[1890.04s] English:** All of a sudden, one year later,  
 **Translation:** 
 
-**[1892.36s] English:** you're looking at a Vera Rubin rack.  
+**[1892.36s] English:** You're looking at a Vera Rubin rack.  
 **Translation:** 
 
 **[1894.42s] English:** It has storage accelerators.  
@@ -1228,10 +1229,10 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1905.88s] English:** It also has this new additional rack called Grok.  
 **Translation:** 
 
-**[1909.64s] English:** And so this entire rack system is completely different  
+**[1909.64s] English:** And so, this entire rack system is completely different.  
 **Translation:** 
 
-**[1914.02s] English:** than the previous one.  
+**[1914.02s] English:** Than the previous one.  
 **Translation:** 
 
 **[1916.04s] English:** And it's got all these new things.  
@@ -1243,10 +1244,10 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1918.32s] English:** And the reason for that is because the last...  
 **Translation:** 
 
-**[1920.00s] English:** This one was designed to run MOE large language models, inference, and this one is to run agents, and agents bang on tools.  
+**[1920.00s] English:** This one was designed to run MOE large language models for inference, and this one is for running agents, which bang on tools.  
 **Translation:** 
 
-**[1930.58s] English:** Obviously, the design of the system had to have been done before Cloud Code, Codex, OpenClaw.  
+**[1930.58s] English:** Obviously, the design of the system had to have been done before Cloud Code, Codex, and OpenClaw.  
 **Translation:** Vocabulary: codex: 代码库; inference: 推断
 
 **[1939.62s] English:** You were anticipating the future, essentially.  
@@ -1258,7 +1259,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1941.88s] English:** And that comes from what?  
 **Translation:** 
 
-**[1943.20s] English:** From the whispers, from the understanding what all the state-of-the-art is?  
+**[1943.20s] English:** From the whispers, from the understanding, what is all the state-of-the-art?  
 **Translation:** Vocabulary: whispers: 低语
 
 **[1946.24s] English:** No, it's easier than that.  
@@ -1294,13 +1295,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[1975.78s] English:** And I don't want to wait until this AI becomes universal.  
 **Translation:** 
 
-**[1980.00s] English:** I want to be universally smart about everything, past, present, and future, before I make it useful, and so, therefore, I might as well let it go do research.  
+**[1980.00s] English:** I want to be universally smart about everything, past, present, and future, before making it useful, and so, therefore, I might as well let it go do the research.  
 **Translation:** Vocabulary: universally: 普适地
 
-**[1989.50s] English:** It's obviously, if it wants to help me, it's got to use my tools.  
+**[1989.50s] English:** It's obvious that if it wants to help me, it's got to use my tools.  
 **Translation:** 
 
-**[1993.26s] English:** A lot of people would say, AI is going to completely destroy software.  
+**[1993.26s] English:** A lot of people would say that AI is going to completely destroy software.  
 **Translation:** 
 
 **[1998.16s] English:** We don't need software anymore.  
@@ -1319,327 +1320,327 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **Translation:** 
 
 **[2009.98s] English:** And think about all these things, and it would become completely obvious.  
-**Translation:** 
+**Translation:** Vocabulary: whiskey: 威士忌
 
-**[2012.84s] English:** Like, if I were to create the most amazing agent that we can imagine in the next 10 years, let's say it'd be a humanoid robot.  
+**[2012.84s] English:** Like, if I were to create the most amazing agent that we can imagine in the next 10 years, let's say it would be a humanoid robot.  
 **Translation:** 
 
 **[2023.00s] English:** If that humanoid robot were to be created, is it more likely that the humanoid robot comes into my house and uses the tools that I have to do the work that it needs to do?  
 **Translation:** Vocabulary: humanoid: 类人形的
 
-**[2034.24s] English:** Or does this hand turn into a 10-pound hammer in one instance?  
+**[2034.24s] English:** Does this hand turn into a 10-pound hammer in one instance?  
 **Translation:** 
 
 **[2039.52s] English:** Turns?  
-**Translation:** 
+**Translation:** Vocabulary: hammer: 铁锤
 
 **[2039.98s] English:** Turns.  
 **Translation:** 
 
-**[2040.00s] English:** to a scalpel in another instance and in order to boil water it beams you know microwaves out of  
-**Translation:** Vocabulary: microwaves: 微波; scalpel: 手术刀
+**[2040.00s] English:** To sterilize a scalpel, in another instance, and in order to boil water, it beams microwaves out.  
+**Translation:** Vocabulary: microwaves: 微波; scalpel: 手术刀; sterilize: 消毒
 
-**[2047.00s] English:** its fingers you know or is it more likely just to use the microwave you know and the first time it  
+**[2047.00s] English:** It's fingers, you know, or is it more likely just to use the microwave, you know, and the first time it  
 **Translation:** 
 
-**[2051.80s] English:** goes up to the microwave it probably doesn't know how to use it but that's okay it's connected to  
+**[2051.80s] English:** Goes up to the microwave, it probably doesn't know how to use it, but that's okay; it's connected to.  
 **Translation:** Vocabulary: microwave: 微波炉
 
-**[2057.26s] English:** the internet it reads the manual of this microwave reads it instantly becomes an expert and so it  
+**[2057.26s] English:** The Internet reads the manual of this microwave, instantly becomes an expert, and so it  
 **Translation:** 
 
-**[2065.06s] English:** uses it and so i i think the i just described in fact almost all of the properties of open claw  
+**[2065.06s] English:** Uses it, and so I think the one I just described, in fact, almost all of the properties of open claw.  
+**Translation:** Vocabulary: instantly: 立刻
+
+**[2073.86s] English:** You know that it's going to use tools, access files, and be able to do  
 **Translation:** 
 
-**[2073.86s] English:** you know that it's going to use tools that it's going to access files it's going to be able to do  
+**[2078.84s] English:** Research it has an IO subsystem, and when you're done reasoning through it, reasoning about it thoroughly.  
+**Translation:** Vocabulary: thoroughly: 详尽地
+
+**[2084.74s] English:** Through it in that way, um, then you say, "Oh my gosh, the impact to the future of computing is deeply  
 **Translation:** 
 
-**[2078.84s] English:** research it has io subsystem and when you're done reasoning through it reasoning about it through  
+**[2093.00s] English:** Profound, and the reason for that is  
+**Translation:** Vocabulary: computing: 计算; profound: 深远
+
+**[2095.06s] English:** I think we've just reinvented the computer, and then now you say, "Okay, when did we reason about...  
 **Translation:** 
 
-**[2084.74s] English:** through it in that way um then you say oh my gosh the impact to the future computing is deeply  
+**[2100.60s] English:** That when did we reason about the open claw? If you take the open claw schematic I used at GTC.  
+**Translation:** Vocabulary: schematic: 原理图
+
+**[2107.32s] English:** You'll find it; two years ago, literally two years ago at GTC, I was talking about...  
 **Translation:** 
 
-**[2093.00s] English:** profound and the reason for that is  
-**Translation:** Vocabulary: computing: 计算机; profound: 深刻
+**[2115.32s] English:** Agentic systems that exactly reflect OpenCL today, and of course, the confluence of  
+**Translation:** Vocabulary: agentic: 自主的; confluence: 汇合
 
-**[2095.06s] English:** i think we've just reinvented the computer and then now you say okay when did we reason about  
+**[2124.40s] English:** Of  
 **Translation:** 
 
-**[2100.60s] English:** that when did we reason about open claw if you take the open claw schematic that i used at gtc  
-**Translation:** Vocabulary: schematic: 电路图
-
-**[2107.32s] English:** you will find it two years ago literally two years ago at gtc i was talking about  
+**[2125.00s] English:** Of  
 **Translation:** 
 
-**[2115.32s] English:** agentic systems that exactly reflect open claw today and and of course the confluence of  
-**Translation:** Vocabulary: confluence: 汇合处
-
-**[2124.40s] English:** of  
+**[2125.02s] English:** Of  
 **Translation:** 
 
-**[2125.00s] English:** of  
+**[2125.04s] English:** Of  
 **Translation:** 
 
-**[2125.02s] English:** of  
+**[2125.06s] English:** Of many things had to happen, first of all, we needed Cloud and GPT, and you know, all of these.  
 **Translation:** 
 
-**[2125.04s] English:** of  
+**[2131.32s] English:** Models to reach a level of capability, so that their innovation and breakthroughs can be achieved, and their  
+**Translation:** Vocabulary: breakthroughs: 重大进展; capability: 能力
+
+**[2136.32s] English:** Continued advances were really important, and then, of course, someone had to create an open-source project.  
 **Translation:** 
 
-**[2125.06s] English:** of many things had to happen first of all we needed clod and and gpt and you know all of these  
+**[2142.48s] English:** You know, um, a project that is sufficiently robust, you know, it's sufficiently complete.  
+**Translation:** Vocabulary: advances: 进步; robust: 健壮; sufficiently: 足够
+
+**[2150.00s] English:** And that we can all put to work, and I think we can open claw.  
 **Translation:** 
 
-**[2131.32s] English:** models to reach a level of capability so so their innovation and their breakthroughs and their  
-**Translation:** Vocabulary: breakthroughs: 重大突破; capability: 能力
-
-**[2136.32s] English:** continued advances was really important and then of course somebody had to create a an open source  
-**Translation:** 
-
-**[2142.48s] English:** you know um project that that uh was sufficiently robust you know it's sufficiently complete  
-**Translation:** Vocabulary: robust: 强壮有力; sufficiently: 足够
-
-**[2150.00s] English:** and that we can all we can all put to put to work and and i think open claw  
-**Translation:** 
-
-**[2154.76s] English:** did for did for agentic systems what chat gpt did for generative systems  
+**[2154.76s] English:** Did Chat GPT do for generative systems what AGENTIC systems did for agentic systems?  
 **Translation:** Vocabulary: generative: 生成的
 
-**[2160.00s] English:** and i just think it's a very big deal yeah it's a really special moment i'm not exactly sure why  
+**[2160.00s] English:** And I just think it's a very big deal. Yeah, it's a really special moment. I'm not exactly sure why.  
 **Translation:** 
 
-**[2165.46s] English:** it captured so much of the world's attention but it did more than cloud code and codex and so on  
-**Translation:** Vocabulary: codex: 书卷
+**[2165.46s] English:** It captured so much of the world's attention, but it did more than Cloud Code and Codex, and so on.  
+**Translation:** Vocabulary: codex: 法典
 
-**[2171.82s] English:** because consumers could reach it sure yeah but there's also so much of this is vibes and  
+**[2171.82s] English:** Because consumers could reach it, sure, yeah, but there's also so much of this is about vibes.  
 **Translation:** 
 
-**[2177.82s] English:** and peter uh i had a podcast with him a wonderful human being so part of it is also the humans that  
+**[2177.82s] English:** And Peter, uh, I had a podcast with him; a wonderful human being. So, part of it is also about the humans that.  
 **Translation:** Vocabulary: vibes: 感觉
 
-**[2183.98s] English:** represent the thing and no doubt part of it is memes and the because we're all trying to figure  
+**[2183.98s] English:** Represent the thing, and no doubt part of it is memes. And because we're all trying to figure it out.  
 **Translation:** 
 
-**[2188.20s] English:** it out there's really serious and complicated security concerns about when you have such  
+**[2188.20s] English:** It out there's really serious and complicated security concerns about when you have such.  
 **Translation:** 
 
-**[2193.44s] English:** powerful technology how do you hand over your data so they can do useful stuff but then there's scary  
+**[2193.44s] English:** Powerful technology: How do you hand over your data so they can do useful stuff, but then there's scary.  
 **Translation:** 
 
-**[2198.04s] English:** things associated with that and we as a civilization as individual people and as a  
+**[2198.04s] English:** Things associated with that, and we as a civilization, as individual people, and as a  
 **Translation:** 
 
-**[2202.02s] English:** civilization figuring out how to find that right balance yeah we we uh we jumped on it right away  
+**[2202.02s] English:** Civilization figuring out how to find that right balance, yeah. We jumped on it right away.  
 **Translation:** 
 
-**[2206.44s] English:** and we sent a bunch of security experts this way and we did this thing called open shell it's it's  
+**[2206.44s] English:** And we sent a bunch of security experts this way, and we did this thing called Open Shell; it's  
 **Translation:** 
 
-**[2212.24s] English:** already been integrated into into open claw and nvidia put forward uh nemo claw  
+**[2212.24s] English:** Already been integrated into OpenCL, and NVIDIA put forward Nemo Claw.  
 **Translation:** 
 
-**[2218.18s] English:** yeah exactly they install super easy it makes sure that it's secure we give you two out of three  
+**[2218.18s] English:** Yeah, exactly. They install super easy. It makes sure that it's secure. We give you two out of three.  
+**Translation:** Vocabulary: integrated: 合并
+
+**[2224.70s] English:** Rights-agentic systems can access sensitive information, it can execute code, and it can  
 **Translation:** 
 
-**[2224.70s] English:** rights agentic systems can can access sensitive information it can execute code and it can  
+**[2230.20s] English:** Communicate externally, we could keep things safe if we gave you two out of those three.  
+**Translation:** Vocabulary: execute: 运行代码; externally: 外部地
+
+**[2237.36s] English:** Capabilities can be selected at any time, but not all three. Out of those, two out of three capabilities are also available.  
 **Translation:** 
 
-**[2230.20s] English:** communicate externally we could keep things safe if we gave you two out of those three  
-**Translation:** Vocabulary: externally: 外部地
+**[2243.24s] English:** Give you access control based on whatever rights you are given by.  
+**Translation:** Vocabulary: capabilities: 能力
 
-**[2237.36s] English:** capabilities at any time but not all three and out of those two out of three capabilities we also  
+**[2247.92s] English:** Enterprise.  
 **Translation:** 
 
-**[2243.24s] English:** give you access control based on based on whatever rights that you're given by  
-**Translation:** 
-
-**[2247.92s] English:** enterprise  
-**Translation:** 
-
-**[2248.18s] English:** and then we connect it to a policy engine that all these enterprises already have  
+**[2248.18s] English:** And then we connect it to a policy engine that all these enterprises already have.  
 **Translation:** Vocabulary: enterprises: 企业
 
-**[2252.86s] English:** and so um we're going to try to do our best to to uh help open claw become a better claw  
+**[2252.86s] English:** And so, um, we're going to try to do our best to help Open Claw become a better claw.  
 **Translation:** 
 
-**[2259.98s] English:** so you eloquently explained how we have a long history of blockers that we thought were going  
-**Translation:** Vocabulary: eloquently: 言辞优美地
+**[2259.98s] English:** So, you eloquently explained how we have a long history of blockers that we thought were going  
+**Translation:** Vocabulary: eloquently: 口才好地
 
-**[2265.42s] English:** to be blockers and we overcame them but now looking into the future what do you think might  
+**[2265.42s] English:** To be blockers, and we overcame them. But now, looking into the future, what do you think might  
 **Translation:** 
 
-**[2269.14s] English:** be the blockers now that it's clear that agents will be everywhere so it's obviously we're going  
+**[2269.14s] English:** Be the blockers now that it's clear that agents will be everywhere, so it's obviously we're going.  
 **Translation:** Vocabulary: overcame: 克服了障碍
 
-**[2274.76s] English:** to need compute so what is going to be the blocker for the future for the future for the  
+**[2274.76s] English:** To need compute, so what is going to be the blocker for the future?  
 **Translation:** 
 
-**[2278.16s] English:** future so the network's going to have to be structured after that scaling the democracy  
+**[2278.16s] English:** Future, so the network will have to be structured accordingly, scaling the democracy.  
+**Translation:** Vocabulary: accordingly: 相应地; compute: 计算
+
+**[2279.76s] English:** Of that, scaling badly; though Theaporger will take over.  
 **Translation:** 
 
-**[2279.76s] English:** of that scaling badly though theaporger will take over the  
+**[2280.00s] English:** Is a concern, but it's not the only concern. But that's the reason why we're pushing so hard on.  
 **Translation:** 
 
-**[2281.22s] English:** the gov  
-**Translation:** Vocabulary: theaporger: 道歉者
-
-**[2282.20s] English:** one thing else my my  
+**[2281.22s] English:** The Gov  
 **Translation:** 
 
-**[2302.18s] English:** good  
+**[2282.20s] English:** One thing else, my friend.  
 **Translation:** 
 
-**[2303.14s] English:** public  
+**[2285.48s] English:** Extreme co-design, so that we can improve tokens per second per watt by orders of magnitude.  
 **Translation:** 
 
-**[2304.28s] English:** but  
+**[2294.80s] English:** Every single year, and so in the last 10 years, Moore's law would have progressed computing about  
+**Translation:** Vocabulary: computing: 计算; progressed: 进展
+
+**[2302.18s] English:** Good.  
 **Translation:** 
 
-**[2307.30s] English:** yeah  
+**[2302.18s] English:** 100 times in the last 10 years. We progressed and scaled up computing by a million times in...  
 **Translation:** 
 
-**[2307.50s] English:** it's  
+**[2303.14s] English:** Public  
 **Translation:** 
 
-**[2307.72s] English:** going  
+**[2304.28s] English:** But  
 **Translation:** 
 
-**[2308.00s] English:** to  
+**[2307.30s] English:** Yeah.  
 **Translation:** 
 
-**[2280.00s] English:** is a concern, but it's not the only concern. But that's the reason why we're pushing so hard on  
+**[2307.50s] English:** It's  
 **Translation:** 
 
-**[2285.48s] English:** extreme co-design, so that we can improve the tokens per second, per watt, orders of magnitude  
+**[2307.72s] English:** Going.  
 **Translation:** 
 
-**[2294.80s] English:** every single year. And so in the last 10 years, Moore's law would have progressed computing about  
+**[2308.00s] English:** To  
 **Translation:** 
 
-**[2302.18s] English:** 100 times in the last 10 years. We progressed and scaled up computing by a million times in  
-**Translation:** Vocabulary: computing: 计算机性能; progressed: 提升
-
-**[2308.02s] English:** the last 10 years. And so we're going to keep on doing that through extreme co-design.  
+**[2308.02s] English:** The last 10 years, and so we're going to keep on doing that through extreme co-design.  
 **Translation:** 
 
-**[2312.96s] English:** So energy efficiency per watt completely affects the revenues of a company. It affects the revenues  
+**[2312.96s] English:** So, energy efficiency per watt completely affects a company's revenues. It affects the revenues,...  
 **Translation:** Vocabulary: revenues: 收入
 
-**[2321.46s] English:** of a factory. And we're just going to push that to the limit so that we can keep on driving token  
+**[2321.46s] English:** Of a factory, and we're just going to push that to the limit so that we can keep on driving tokens.  
 **Translation:** 
 
-**[2327.28s] English:** costs down as fast as we can. Our computer price is going up, but our token generation effectiveness  
+**[2327.28s] English:** Costs are coming down as fast as we can. Our computer prices are going up, but our token generation effectiveness is improving.  
 **Translation:** Vocabulary: effectiveness: 效果; token: 代币
 
-**[2336.50s] English:** is going up so much faster. And so we're going to keep on doing that through extreme co-design.  
+**[2336.50s] English:** Is going up so much faster. And so we're going to keep on doing that through extreme co-design.  
 **Translation:** 
 
-**[2338.02s] English:** The token cost is coming down. It's coming down an order of magnitude every year.  
+**[2338.02s] English:** The token cost is coming down. It's coming down by an order of magnitude every year.  
 **Translation:** 
 
-**[2344.68s] English:** So power, that's an interesting one. So the way to try to get around the power blocker is to try to,  
+**[2344.68s] English:** So, power—that's an interesting one. The way to try to get around the power blocker is to try to,  
 **Translation:** 
 
-**[2351.12s] English:** with the tokens per second per watt, try to make it more and more efficient. Of course,  
+**[2351.12s] English:** With the tokens per second per watt, we should try to make it more and more efficient. Of course.  
 **Translation:** 
 
-**[2354.30s] English:** there's the question of how do we get more power. We should also get more power.  
+**[2354.30s] English:** There's the question of how we get more power. We should also get more power.  
 **Translation:** 
 
-**[2357.60s] English:** That's a really complicated one. You've talked about small module nuclear power plants. There's  
-**Translation:** Vocabulary: module: 模块
+**[2357.60s] English:** That's a really complicated one. You've talked about small modular nuclear power plants. There's  
+**Translation:** Vocabulary: modular: 模块化的
 
-**[2361.46s] English:** all kinds of ideas for energy. How much does it keep you up at night? The bottlenecks in the  
+**[2361.46s] English:** All kinds of ideas for energy. How much do they keep you up at night? The bottlenecks in the  
 **Translation:** 
 
-**[2368.02s] English:** supply chain of AI, like ASML with EUV lithography machines, GSMC with advanced packaging, like COAS,  
+**[2368.02s] English:** Supply chain of AI, like ASML with EUV lithography machines, and GSMC with advanced packaging, such as COAS.  
 **Translation:** Vocabulary: bottlenecks: 瓶颈; lithography: 光刻
 
-**[2375.28s] English:** and SK Hynix with high bandwidth memory. All the time. And we're working on it all the time.  
+**[2375.28s] English:** And SK Hynix with high-bandwidth memory. All the time. And we're working on it all the time.  
 **Translation:** 
 
-**[2381.24s] English:** No company in history has ever grown at a scale that we're growing while accelerating that growth.  
-**Translation:** Vocabulary: accelerating: 加速; bandwidth: 带宽
+**[2381.24s] English:** No company in history has ever grown at a scale that we're growing, while accelerating that growth.  
+**Translation:** Vocabulary: accelerating: 加速
 
-**[2389.10s] English:** It's incredible. And it's hard for people to even understand this. In the overall world of AI  
+**[2389.10s] English:** It's incredible, and it's hard for people to even understand this. In the overall world of AI,...  
 **Translation:** 
 
-**[2395.44s] English:** computing, we're increasing share.  
+**[2395.44s] English:** Computing, we're increasing our share.  
+**Translation:** Vocabulary: computing: 计算
+
+**[2398.02s] English:** And so, supply chain; upstream.  
 **Translation:** 
 
-**[2398.02s] English:** And so supply chain, upstream.  
+**[2400.00s] English:** And downstream are really important to us. I spend a lot of time informing all the CEOs.  
+**Translation:** Vocabulary: downstream: 下游; informing: 通知; upstream: 上游
+
+**[2408.20s] English:** That I work with, what are the dynamics that will cause the growth to continue or even  
 **Translation:** 
 
-**[2400.00s] English:** and downstream are really important to us. I spend a lot of time informing all the CEOs  
+**[2414.78s] English:** Accelerate? It's part of the reason why, to the entire right-hand side of me, we're CEOs of  
+**Translation:** Vocabulary: accelerate: 加快
+
+**[2422.26s] English:** Practically the entire IT industry, upstream, and practically the entire  
 **Translation:** 
 
-**[2408.20s] English:** that I work with, what are the dynamics that's going to cause the growth to continue or even  
+**[2427.30s] English:** Infrastructure industry downstream. There were several hundred CEOs, and I don't think there's  
+**Translation:** Vocabulary: practically: 几乎
+
+**[2436.92s] English:** Ever been to keynotes where several hundred CEOs show up? Part of it is I'm telling them about...  
 **Translation:** 
 
-**[2414.78s] English:** accelerate? It's part of the reasons why to the entire right-hand side of me, we're CEOs of  
+**[2443.42s] English:** Our business condition now. I'm telling them about the growth drivers in the very near future.  
+**Translation:** Vocabulary: keynotes: 重要演讲
+
+**[2449.60s] English:** And what's happening? I'm also describing where we're going next, so that they can use.  
 **Translation:** 
 
-**[2422.26s] English:** practically the entire IT industry upstream and practically the entire  
+**[2457.30s] English:** To inform them how they want to invest, I inform them that way—like I inform my own employees.  
 **Translation:** 
 
-**[2427.30s] English:** infrastructure industry downstream. There were several hundred CEOs and I don't think there's  
+**[2466.16s] English:** Then, of course, I make trips out to them and make sure that, hey, listen; I want you to know.  
 **Translation:** 
 
-**[2436.92s] English:** ever been keynotes where several hundred CEOs show up. Part of it is I'm telling them about  
+**[2471.82s] English:** This quarter, this coming year, and the next year, these things are going to happen.  
 **Translation:** 
 
-**[2443.42s] English:** our business condition now. I'm telling them about the growth drivers in the very near future  
+**[2477.64s] English:** If you look at the CEOs of the DRAM industry, the number-one DRAM in the world is DDR memory for  
 **Translation:** 
 
-**[2449.60s] English:** and what's happening. I'm also describing where are we going to go next so that they could use  
+**[2487.30s] English:** CPUs and data centers. About three years ago, I was able to convince several of the CEOs that:  
 **Translation:** 
 
-**[2457.30s] English:** to inform how they want to invest. I inform them that way like I inform my own employees.  
+**[2496.18s] English:** Even though, at the time, HBM memory was used quite sparingly and barely by supercomputers,  
 **Translation:** 
 
-**[2466.16s] English:** Then of course, then I make trips out to them and make sure that, hey, listen, I want you to know  
+**[2503.02s] English:** That this was going to be a mainstream memory for data centers in the future. At first, it sounded  
+**Translation:** Vocabulary: mainstream: 主流; sparingly: 少量地; supercomputers: 超级计算机
+
+**[2508.30s] English:** Ridiculous, but several of the CEOs believed me and decided to invest in building HBM memories.  
 **Translation:** 
 
-**[2471.82s] English:** this quarter, this coming year, this next year, these things are going to happen.  
+**[2515.38s] English:** Another memory was...  
 **Translation:** 
 
-**[2477.64s] English:** If you look at the CEOs of the DRAM industry, the number one DRAM in the world was DDR memory for  
+**[2517.30s] English:** It's rather odd to put into a data center.  
 **Translation:** 
 
-**[2487.30s] English:** CPUs and data centers. About three years ago, I was able to convince several of the CEOs that  
+**[2520.00s] English:** The low-power memories that we use for cell phones.  
 **Translation:** 
 
-**[2496.18s] English:** even though at the time, HBM memory was used quite scarcely and barely by supercomputers,  
+**[2522.84s] English:** And we wanted them to adapt them.  
 **Translation:** 
 
-**[2503.02s] English:** that this was going to be a mainstream memory for data centers in the future. At first, it sounded  
-**Translation:** Vocabulary: mainstream: 主流; scarcely: 稀少; supercomputers: 超级计算机
-
-**[2508.30s] English:** ridiculous, but several of the CEOs believed me and decided to invest in building HBM memories.  
+**[2524.74s] English:** For supercomputers in the data center.  
 **Translation:** 
 
-**[2515.38s] English:** Another memory was  
-**Translation:** 
-
-**[2517.30s] English:** rather odd to put into a data center is  
-**Translation:** 
-
-**[2520.00s] English:** the low power memories that we use for cell phones.  
-**Translation:** 
-
-**[2522.84s] English:** And we wanted them to adapt them  
-**Translation:** 
-
-**[2524.74s] English:** for supercomputers in the data center.  
-**Translation:** 
-
-**[2527.48s] English:** And they go, cell phone memory for supercomputers?  
+**[2527.48s] English:** And they go, "Cell phone memory for supercomputers?  
 **Translation:** 
 
 **[2531.00s] English:** And I explained to them why.  
 **Translation:** 
 
-**[2533.26s] English:** Well, look at these two memories,  
+**[2533.26s] English:** Well, look at these two memories.  
 **Translation:** 
 
 **[2534.64s] English:** LPDDR5, HBM4.  
@@ -1651,37 +1652,37 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2539.92s] English:** All three of them had record years in history.  
 **Translation:** 
 
-**[2542.24s] English:** And these are 45-year companies.  
+**[2542.24s] English:** And these are 45-year-old companies.  
 **Translation:** 
 
-**[2545.66s] English:** And so, you know, that's part of my job  
+**[2545.66s] English:** And so, you know, that's part of my job.  
 **Translation:** 
 
-**[2548.82s] English:** is to inform and shape, inspire, you know?  
+**[2548.82s] English:** Is to inform and shape, inspire, you know?  
 **Translation:** 
 
-**[2556.16s] English:** So you're not just manifesting the future  
+**[2556.16s] English:** So, you're not just manifesting the future.  
 **Translation:** Vocabulary: manifesting: 显现
 
-**[2558.18s] English:** and maybe inspiring NVIDIA,  
+**[2558.18s] English:** And maybe inspiring NVIDIA,  
 **Translation:** 
 
-**[2561.32s] English:** the different engineers of the company.  
+**[2561.32s] English:** The different engineers of the company.  
 **Translation:** 
 
 **[2563.98s] English:** You're manifesting the supply chain of the future.  
 **Translation:** 
 
-**[2566.84s] English:** So you're having conversations with TSMC, with ASML.  
+**[2566.84s] English:** So, you're having conversations with TSMC, with ASML.  
 **Translation:** 
 
 **[2570.12s] English:** Upstream, downstream.  
 **Translation:** 
 
 **[2571.26s] English:** Upstream, downstream.  
-**Translation:** 
+**Translation:** Vocabulary: downstream: 水流向下游; upstream: 水流向上游
 
-**[2572.76s] English:** So that's the thing.  
+**[2572.76s] English:** So, that's the thing.  
 **Translation:** 
 
 **[2574.34s] English:** GEV, Caterpillar.  
@@ -1699,22 +1700,22 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2580.28s] English:** I mean, but that's so,  
 **Translation:** 
 
-**[2582.22s] English:** there's so much incredibly difficult engineering  
+**[2582.22s] English:** There's so much incredibly difficult engineering.  
 **Translation:** 
 
-**[2585.28s] English:** that happens in the entire semiconductor industry.  
+**[2585.28s] English:** That happens in the entire semiconductor industry.  
 **Translation:** 
 
-**[2588.80s] English:** And it just feels scary  
+**[2588.80s] English:** And it just feels scary.  
 **Translation:** 
 
-**[2591.82s] English:** how intricate the supply chain is,  
+**[2591.82s] English:** How intricate the supply chain is,  
+**Translation:** Vocabulary: intricate: 复杂的
+
+**[2595.76s] English:** How many components are there?  
 **Translation:** 
 
-**[2595.76s] English:** how many components there are.  
-**Translation:** 
-
-**[2596.94s] English:** But it works somehow.  
+**[2596.94s] English:** But it works, somehow.  
 **Translation:** 
 
 **[2598.64s] English:** Exactly.  
@@ -1723,37 +1724,37 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2599.08s] English:** The deep science, the deep engineering,  
 **Translation:** 
 
-**[2601.76s] English:** the incredible manufacturing,  
+**[2601.76s] English:** The incredible manufacturing,  
 **Translation:** 
 
-**[2603.24s] English:** and so much of the manufacturing is already robotics.  
+**[2603.24s] English:** And so much of the manufacturing is already done with robotics.  
+**Translation:** Vocabulary: robotics: 机器人技术
+
+**[2606.02s] English:** But we have a couple of hundred suppliers.  
 **Translation:** 
 
-**[2606.02s] English:** But we have a couple of hundred suppliers  
-**Translation:** 
-
-**[2608.78s] English:** that contribute the technology  
+**[2608.78s] English:** That contributes the technology.  
 **Translation:** Vocabulary: suppliers: 供应商
 
-**[2611.32s] English:** that goes into our 1.3 million component rack.  
+**[2611.32s] English:** That goes into our 1.3 million-component rack.  
 **Translation:** 
 
-**[2615.90s] English:** Each rack is 1.3, 1.5 million components.  
+**[2615.90s] English:** Each rack contains 1.3 to 1.5 million components.  
 **Translation:** 
 
 **[2621.12s] English:** There are 200 suppliers across the Vera Rubin rack.  
 **Translation:** 
 
-**[2625.00s] English:** So it's interesting that you don't list that  
-**Translation:** Vocabulary: rubin: 维拉·鲁宾
+**[2625.00s] English:** So, it's interesting that you don't list that.  
+**Translation:** Vocabulary: rubin: 鲁宾
 
-**[2626.64s] English:** as the thing that keeps you up at night  
+**[2626.64s] English:** As the thing that keeps you up at night.  
 **Translation:** 
 
-**[2628.00s] English:** in the list of blockers.  
+**[2628.00s] English:** In the list of blockers.  
 **Translation:** 
 
-**[2629.52s] English:** But I'm doing all the things necessary to...  
+**[2629.52s] English:** But I'm doing all the things necessary to....  
 **Translation:** 
 
 **[2632.36s] English:** Okay, to...  
@@ -1765,13 +1766,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2633.88s] English:** I can go to sleep because I checked it off.  
 **Translation:** 
 
-**[2635.78s] English:** I said, okay, you know, I go,  
+**[2635.78s] English:** I said, "Okay, you know, I go,  
 **Translation:** 
 
 **[2637.86s] English:** I can go to sleep.  
 **Translation:** 
 
-**[2638.76s] English:** I go...  
+**[2638.76s] English:** I go....  
 **Translation:** 
 
 **[2640.00s] English:** Well, let's see.  
@@ -1786,16 +1787,16 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2645.06s] English:** Okay, let's reason about this.  
 **Translation:** 
 
-**[2646.84s] English:** Because we changed the system architecture  
+**[2646.84s] English:** Because we changed the system architecture.  
 **Translation:** 
 
-**[2649.42s] English:** from the original DGX1 that you remembered  
+**[2649.42s] English:** From the original DGX-1 that you remembered.  
 **Translation:** 
 
-**[2652.42s] English:** to MVLink 72 rack scale computing,  
+**[2652.42s] English:** To MVLink 72 Rack Scale Computing,  
 **Translation:** Vocabulary: computing: 计算
 
-**[2656.42s] English:** what does that mean?  
+**[2656.42s] English:** What does that mean?  
 **Translation:** 
 
 **[2658.82s] English:** What does that mean to software?  
@@ -1804,178 +1805,178 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2661.28s] English:** What does that mean to engineering?  
 **Translation:** 
 
-**[2662.88s] English:** What does that mean to how we design and test?  
+**[2662.88s] English:** What does that mean for how we design and test?  
 **Translation:** 
 
 **[2665.84s] English:** And what does that mean to the supply chain?  
 **Translation:** 
 
-**[2667.24s] English:** Well, one of the things that it meant  
+**[2667.24s] English:** Well, one of the things that it meant was  
 **Translation:** 
 
-**[2670.00s] English:** was we moved supercomputer integration  
+**[2670.00s] English:** We moved towards supercomputer integration.  
 **Translation:** 
 
-**[2674.72s] English:** at the data center  
+**[2674.72s] English:** At the data center.  
+**Translation:** Vocabulary: supercomputer: 超级计算机
+
+**[2676.34s] English:** Into supercomputer manufacturing.  
 **Translation:** 
 
-**[2676.34s] English:** into supercomputer manufacturing  
-**Translation:** 
-
-**[2679.04s] English:** in the supply chain.  
+**[2679.04s] English:** In the supply chain.  
 **Translation:** 
 
 **[2682.22s] English:** If you're doing that,  
 **Translation:** 
 
-**[2684.26s] English:** you also have to recognize  
+**[2684.26s] English:** You also have to recognize.  
 **Translation:** 
 
-**[2685.30s] English:** you're going to move one.  
+**[2685.30s] English:** You're going to move one.  
 **Translation:** 
 
-**[2686.80s] English:** And if you're in a total footprint  
+**[2686.80s] English:** And if you're in a total footprint,  
 **Translation:** Vocabulary: footprint: 足迹
 
-**[2691.24s] English:** of whatever data center you're going to build,  
+**[2691.24s] English:** Of whatever data center you're going to build,  
 **Translation:** 
 
-**[2694.34s] English:** let's say you would like to have,  
+**[2694.34s] English:** Let's say you would like to have.  
 **Translation:** 
 
-**[2696.38s] English:** you know, 50 gigawatts of supercomputers  
+**[2696.38s] English:** You know, 50 gigawatts of supercomputers.  
 **Translation:** 
 
-**[2699.68s] English:** that are running simultaneously  
-**Translation:** Vocabulary: gigawatts: 千兆瓦; supercomputers: 超级计算机
+**[2699.68s] English:** That are running simultaneously.  
+**Translation:** Vocabulary: gigawatts: 兆瓦; supercomputers: 超级计算机
 
-**[2701.84s] English:** and it takes one week to manufacture  
+**[2701.84s] English:** And it takes one week to manufacture.  
 **Translation:** 
 
-**[2705.10s] English:** that 50 gigawatts of supercomputers,  
+**[2705.10s] English:** That is equivalent to 50 gigawatts of supercomputers.  
 **Translation:** 
 
-**[2708.20s] English:** then each week in the supply chain,  
+**[2708.20s] English:** Then, each week in the supply chain,  
 **Translation:** 
 
-**[2711.58s] English:** the supercomputers are going to need  
+**[2711.58s] English:** The supercomputers are going to need  
 **Translation:** 
 
-**[2712.78s] English:** a gigawatt of power.  
+**[2712.78s] English:** A gigawatt of power.  
 **Translation:** 
 
-**[2713.80s] English:** And so we're going to need the supply chain  
-**Translation:** Vocabulary: gigawatt: 吉瓦功率
+**[2713.80s] English:** And so, we're going to need the supply chain.  
+**Translation:** Vocabulary: gigawatt: 吉瓦
 
-**[2716.12s] English:** to increase the amount of power it has  
+**[2716.12s] English:** To increase the amount of power it has,  
 **Translation:** 
 
-**[2718.04s] English:** to build, test, to build and test  
+**[2718.04s] English:** To build and test.  
 **Translation:** 
 
-**[2721.46s] English:** the supercomputers in the supply chain  
+**[2721.46s] English:** The supercomputers in the supply chain.  
 **Translation:** 
 
-**[2723.62s] English:** before I ship it.  
+**[2723.62s] English:** Before I ship it.  
 **Translation:** 
 
-**[2725.02s] English:** Well, MVLink 72 literally built supercomputers  
+**[2725.02s] English:** Well, MVLink 72 literally built supercomputers.  
 **Translation:** 
 
-**[2727.40s] English:** in the supply chain and shipped them,  
+**[2727.40s] English:** In the supply chain, we kept track of them and shipped them.  
 **Translation:** 
 
-**[2729.68s] English:** two, three tons at a time per rack.  
+**[2729.68s] English:** Two to three tons at a time per rack.  
 **Translation:** 
 
-**[2732.74s] English:** It used to be, they used to come in parts  
+**[2732.74s] English:** It used to be that they used to come in parts.  
 **Translation:** 
 
-**[2735.02s] English:** and we used to assemble them inside the data center.  
+**[2735.02s] English:** And we used to assemble them inside the data center.  
 **Translation:** 
 
-**[2737.72s] English:** But that's impossible now  
+**[2737.72s] English:** But that's impossible now.  
 **Translation:** Vocabulary: assemble: 组装
 
-**[2738.86s] English:** because MVLink 72 is so dense.  
+**[2738.86s] English:** Because MVLink 72 is so dense.  
 **Translation:** 
 
-**[2741.18s] English:** And so that's an example.  
+**[2741.18s] English:** And so, that's an example.  
 **Translation:** 
 
 **[2742.58s] English:** And I would have to go into, you know,  
 **Translation:** 
 
-**[2745.08s] English:** I'd fly into the supply chain,  
+**[2745.08s] English:** I'd fly into the supply chain.  
 **Translation:** 
 
-**[2746.86s] English:** go meet my partners and say,  
+**[2746.86s] English:** Go meet my partners and say,  
 **Translation:** 
 
-**[2747.80s] English:** hey, I said, guess what?  
+**[2747.80s] English:** Hey, I said, "Guess what?  
 **Translation:** 
 
-**[2749.66s] English:** So here's what we're going to do with,  
+**[2749.66s] English:** So, here's what we're going to do:  
 **Translation:** 
 
-**[2751.40s] English:** this is the way we used to build our DGXs.  
+**[2751.40s] English:** This is the way we used to build our DGXs.  
 **Translation:** 
 
 **[2754.08s] English:** We're going to build them this way.  
 **Translation:** 
 
-**[2755.38s] English:** This is going to be so much better  
+**[2755.38s] English:** This is going to be so much better!  
 **Translation:** 
 
-**[2756.42s] English:** because we're going to need them for inference.  
+**[2756.42s] English:** Because we're going to need them for inference.  
 **Translation:** 
 
 **[2758.92s] English:** The market for inference,  
 **Translation:** Vocabulary: inference: 推理
 
-**[2759.68s] English:** inference.  
+**[2759.68s] English:** Inference.  
 **Translation:** 
 
-**[2760.00s] English:** is coming. The inflection point for inference is coming. It's going to be a big market.  
+**[2760.00s] English:** Is coming. The inflection point for inference is coming. It's going to be a big market.  
 **Translation:** Vocabulary: inflection: 转折点
 
-**[2765.48s] English:** And so I first explain to them what's going on, why it's going to happen. And then I ask them  
+**[2765.48s] English:** And so, I first explain to them what is going on and why it's going to happen. Then I ask them.  
 **Translation:** 
 
-**[2771.18s] English:** to make several billion dollars of capital investments each. And because they trust me  
+**[2771.18s] English:** To make several billion dollars of capital investments each, and because they trust me.  
+**Translation:** Vocabulary: investments: 资金投入
+
+**[2779.90s] English:** And I'm very respectful of them, and I give them every opportunity to question me, and I spend time doing so.  
 **Translation:** 
 
-**[2779.90s] English:** and I'm very respectful of them and I give them every opportunity to question me and I spend time  
+**[2786.14s] English:** To explain things to people, I reason about it. I draw them pictures and I reason about it.  
 **Translation:** 
 
-**[2786.14s] English:** to explain things to people and I reason about it. I draw them pictures and I reason about it  
+**[2790.82s] English:** In first principles. And by the time I'm done with them, there's no way to do it.  
 **Translation:** 
 
-**[2790.82s] English:** in first principles. And by the time I'm done with them, there's no what to do.  
+**[2795.36s] English:** So, a lot of it is about relationships and building a shared view of the future.  
 **Translation:** 
 
-**[2795.36s] English:** So a lot of it is about relationships and building a shared view of the future.  
+**[2801.40s] English:** But do you worry about certain bottlenecks? I mean, what are the biggest bottlenecks in this process?  
 **Translation:** 
 
-**[2801.40s] English:** But do you worry about certain bottlenecks? I mean, what are the biggest bottlenecks in  
-**Translation:** 
-
-**[2806.32s] English:** the supply chain? Are you worried about ASMLs, EUV tooling? Are you worried about  
+**[2806.32s] English:** The supply chain? Are you worried about ASML's EUV tooling? Are you worried about  
 **Translation:** Vocabulary: bottlenecks: 瓶颈
 
-**[2810.78s] English:** the packaging, co-op packaging of TSMC, about how fast it could scale?  
+**[2810.78s] English:** The packaging, Co-op packaging of TSMC, about how fast it could scale?  
 **Translation:** 
 
 **[2816.04s] English:** Like, what are the biggest bottlenecks in the supply chain?  
 **Translation:** 
 
-**[2816.14s] English:** Like you said, you're not only growing incredibly fast, you're accelerating your growth. So  
+**[2816.14s] English:** Like you said, you're not only growing incredibly fast; you're also accelerating your growth. So,  
 **Translation:** 
 
-**[2820.62s] English:** it feels like everybody in the supply chain and those are certainly bottlenecks would have to  
-**Translation:** 
+**[2820.62s] English:** It feels like everybody in the supply chain, and those are certainly bottlenecks, would have to  
+**Translation:** Vocabulary: accelerating: 加快
 
-**[2826.42s] English:** scale up. Are you having conversations with them? Like, how can you scale up this faster?  
+**[2826.42s] English:** Scale up. Are you having conversations with them? How can you scale this up faster?  
 **Translation:** 
 
 **[2832.22s] English:** Do you worry about it?  
@@ -1987,10 +1988,10 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2833.82s] English:** Okay.  
 **Translation:** 
 
-**[2834.46s] English:** Because I told them what I needed. They understood what I need. They told me what  
+**[2834.46s] English:** Because I told them what I needed, they understood what I needed, and they told me what  
 **Translation:** 
 
-**[2839.64s] English:** they're going to go do. And I believe in what they're going to do.  
+**[2839.64s] English:** They're going to go do it, and I believe in what they're going to do.  
 **Translation:** 
 
 **[2842.00s] English:** Interesting.  
@@ -1999,101 +2000,101 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[2842.52s] English:** Yeah.  
 **Translation:** 
 
-**[2842.72s] English:** That's great to hear. So maybe if we can just linger on the power,  
+**[2842.72s] English:** That's great to hear. So, maybe if we can just linger on the power,  
 **Translation:** 
 
-**[2846.00s] English:** for a little bit, what are your hopes for how to solve the energy problem?  
+**[2846.00s] English:** For a little bit, what are your hopes for how to solve the energy problem?  
+**Translation:** Vocabulary: linger: 停留
+
+**[2850.50s] English:** One of the areas that I would love us to talk about and just get the message out:  
 **Translation:** 
 
-**[2850.50s] English:** One of the areas that I would love us to talk about and just get the message out,  
+**[2858.50s] English:** Our power grid is designed for the worst-case condition with some margin. Well, 99% of the  
+**Translation:** Vocabulary: margin: 余量
+
+**[2870.82s] English:** Time, we're nowhere near the worst-case condition because the worst-case condition is just a few days in.  
 **Translation:** 
 
-**[2858.50s] English:** our power grid is designed for the worst case condition with some margin. Well, 99% of the  
+**[2875.02s] English:** The winter, a few days in the summer. And we're nowhere near the worst-case condition because the  
 **Translation:** 
 
-**[2870.82s] English:** time, we're nowhere near the worst case condition because the worst case condition is a few days in  
+**[2875.98s] English:** The worst-case condition is a few days in the summer and extreme weather.  
 **Translation:** 
 
-**[2875.02s] English:** the winter, a few days in the summer. And we're nowhere near the worst case condition because the  
+**[2880.00s] English:** At any given time, we're nowhere near the worst-case scenario, and we're probably just running around.  
+**Translation:** Vocabulary: scenario: 假设情况
+
+**[2884.90s] English:** Call it 60% of peak. And so, 99% of the time, our power grid has excess power, and they're just  
 **Translation:** 
 
-**[2875.98s] English:** worst case condition is a few days in the summer and extreme weather.  
+**[2895.66s] English:** Sitting idle, but they have to be there, sitting idle, because just in case, when the time comes,  
 **Translation:** 
 
-**[2880.00s] English:** at a time, we're nowhere near the worst case condition and we're probably running around,  
+**[2900.98s] English:** Hospitals have to be powered, and infrastructure has to be powered, and airports have to run, and  
 **Translation:** 
 
-**[2884.90s] English:** call it 60% of peak. And so 99% of the time, our power grid has excess power and they're just  
+**[2905.20s] English:** So, and so forth. And so, the question that I have is whether we could go and help them.  
 **Translation:** 
 
-**[2895.66s] English:** sitting idle. But they have to be there sitting idle because just in case, when the time comes,  
+**[2911.84s] English:** Understand and create contractual agreements and design computer architecture systems.  
 **Translation:** 
 
-**[2900.98s] English:** hospitals have to be powered and infrastructure has to be powered and airports have to run and  
+**[2917.54s] English:** Data centers, such that when they need the maximum power for infrastructure in society,  
 **Translation:** 
 
-**[2905.20s] English:** so on and so forth. And so the question that I have is whether we could go and help them  
+**[2926.60s] English:** That the data centers would get less, but that's in a very rare instance, anyway.  
 **Translation:** 
 
-**[2911.84s] English:** understand and create contractual agreements and design computer architecture systems,  
+**[2931.72s] English:** And during that time, we either have a backup generator for that little part of it.  
+**Translation:** Vocabulary: backup: 备用; generator: 发电机组
+
+**[2934.86s] English:** Or, we have a backup generator for that little part of it.  
 **Translation:** 
 
-**[2917.54s] English:** data centers, such that when they need the maximum power for infrastructure in society,  
+**[2935.20s] English:** Or we just have our computers shift a workload somewhere else, or we have the computers just do it themselves.  
+**Translation:** Vocabulary: workload: 工作任务
+
+**[2939.74s] English:** Run slower. We could degrade our performance, reduce our power consumption, and provide for  
 **Translation:** 
 
-**[2926.60s] English:** that the data centers would get less. But that's in a very rare instance anyways.  
-**Translation:** 
-
-**[2931.72s] English:** And during that time, we either have a backup generator for that little part of it,  
-**Translation:** 
-
-**[2934.86s] English:** or we have a backup generator for that little part of it.  
-**Translation:** 
-
-**[2935.20s] English:** Or we just have our computers shift a workload somewhere else, or we have the computers just  
-**Translation:** Vocabulary: generator: 备用发电机; workload: 工作负载
-
-**[2939.74s] English:** run slower. We could degrade our performance, reduce our power consumption, and provide for  
-**Translation:** 
-
-**[2947.24s] English:** a slightly longer latency response when somebody asks for an answer. And so I think that that way  
+**[2947.24s] English:** A slightly longer latency response when somebody asks for an answer. And so, I think that's the way.  
 **Translation:** Vocabulary: degrade: 降低; latency: 延迟
 
-**[2955.72s] English:** of using computers, of building data centers, instead of expecting 100% uptime and these  
+**[2955.72s] English:** Of using computers, of building data centers, instead of expecting 100% uptime, and these  
 **Translation:** 
 
-**[2963.40s] English:** contracts that are really, really...  
+**[2963.40s] English:** Contracts that are really, really...  
 **Translation:** Vocabulary: uptime: 开机时间
 
-**[2965.20s] English:** quite rigorous. It's putting a lot of pressure on the grid to be able to... Now they're going to  
+**[2965.20s] English:** Quite rigorous, it's putting a lot of pressure on the grid to be able to... Now they're going to.  
 **Translation:** 
 
-**[2970.48s] English:** have to increase from their maximum. I just want to use their excess. It's just sitting there.  
-**Translation:** Vocabulary: rigorous: 严格要求的
+**[2970.48s] English:** I have to increase from their maximum. I just want to use their excess; it's just sitting there.  
+**Translation:** Vocabulary: rigorous: 严格的
 
-**[2976.66s] English:** Yeah, that's not talked about enough. So what's stopping there? Is it regulation? Is it  
+**[2976.66s] English:** Yeah, that's not talked about enough. So, what's stopping it? Is it regulation? Is it  
 **Translation:** 
 
-**[2981.52s] English:** bureaucracy? I think it's a three-way problem. It starts with the end customer. The end customer  
+**[2981.52s] English:** Bureaucracy? I think it's a three-way problem. It starts with the end customer. The end customer,...  
 **Translation:** Vocabulary: bureaucracy: 官僚主义
 
-**[2988.28s] English:** puts requirements on the data centers that they can never...  
+**[2988.28s] English:** Puts requirements on the data centers that they can never...  
 **Translation:** 
 
 **[2995.20s] English:** Not be available. So that the end customer expects perfection.  
 **Translation:** 
 
-**[3000.00s] English:** Now, in order to deliver that perfection, you need a combination of backup generators and your grid power supplier to deliver on perfection.  
+**[3000.00s] English:** Now, in order to deliver that perfection, you need a combination of backup generators and your grid power supplier to deliver on it.  
 **Translation:** 
 
-**[3010.04s] English:** And so everybody's got to have six nines.  
+**[3010.04s] English:** And so everyone's got to have six nines.  
 **Translation:** Vocabulary: generators: 发电机组; supplier: 供应商
 
-**[3013.26s] English:** Well, I think, first of all, right now, we ought to have everybody understand that when the customer asks for these things, you have somebody in your data center operations team disconnected from the CEO.  
+**[3013.26s] English:** Well, I think, first of all, right now, we ought to have everybody understand that when the customer asks for these things, you have somebody in your data center operations team who is disconnected from the CEO.  
 **Translation:** 
 
 **[3025.38s] English:** I bet the CEO doesn't know this.  
-**Translation:** 
+**Translation:** Vocabulary: disconnected: 不联系的
 
 **[3026.84s] English:** I'm going to talk to all the CEOs.  
 **Translation:** 
@@ -2101,11 +2102,11 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3028.02s] English:** The CEOs are probably not paying any attention to the contracts that are being signed.  
 **Translation:** 
 
-**[3034.32s] English:** And so everybody wants to sign the best contract, of course.  
+**[3034.32s] English:** And so everyone wants to sign the best contract, of course.  
 **Translation:** 
 
-**[3037.26s] English:** And they go down to the cloud service providers and the two contract negotiators.  
-**Translation:** Vocabulary: negotiators: 谈判者
+**[3037.26s] English:** And they go down to the cloud service providers, and the two contract negotiators.  
+**Translation:** Vocabulary: negotiators: 谈判者; providers: 供应商
 
 **[3044.20s] English:** I could just see them now negotiating these multi-year contracts.  
 **Translation:** 
@@ -2119,13 +2120,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3057.10s] English:** And they expect the six nines.  
 **Translation:** Vocabulary: utilities: 公共事业
 
-**[3060.18s] English:** And so I think the first thing is just make sure that all of the customers, the CEOs of the customers, realize what they're asking for.  
+**[3060.18s] English:** And so, I think the first thing is just to make sure that all of the customers, and their CEOs, realize what they're asking for.  
 **Translation:** 
 
-**[3068.74s] English:** Now, the second thing is we have to build data centers that gracefully degrade.  
+**[3068.74s] English:** Now, the second thing is that we have to build data centers that gracefully degrade.  
 **Translation:** Vocabulary: degrade: 性能下降
 
-**[3073.50s] English:** And so if the power, if the utility, the grid tells us, listen, we're going to have to back you down to about 80 percent, we're going to say that's no problem at all.  
+**[3073.50s] English:** And so, if the power company, the grid, tells us, "Listen, we're going to have to back you down to about 80 percent," we're going to say that's no problem at all.  
 **Translation:** 
 
 **[3081.64s] English:** We're just going to move our workload around.  
@@ -2140,20 +2141,20 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3091.58s] English:** The quality of service degrades a little bit.  
 **Translation:** 
 
-**[3093.90s] English:** For the critical workloads, I shift that somewhere else right away so I don't have that problem.  
+**[3093.90s] English:** For the critical workloads, I shift them somewhere else right away so I don't have that problem.  
 **Translation:** Vocabulary: degrades: 下降; workloads: 负载
 
-**[3099.86s] English:** And so, you know, whoever, whichever data center still has 100 percent uptime.  
+**[3099.86s] English:** And so, you know, whoever or whichever data center still has 100 percent uptime.  
 **Translation:** 
 
-**[3103.70s] English:** And so how difficult of an engineering problem is that the smart, dynamic allocation of power in the data center?  
-**Translation:** Vocabulary: allocation: 电源分配; uptime: 正常运行; whichever: 任一
+**[3103.70s] English:** And so, how difficult of an engineering problem is the smart, dynamic allocation of power in the data center?  
+**Translation:** 
 
-**[3109.18s] English:** As soon as you could specify, you could engineer it.  
+**[3109.18s] English:** As soon as you could specify it, you could engineer it.  
 **Translation:** 
 
 **[3112.14s] English:** Beautifully put.  
-**Translation:** 
+**Translation:** Vocabulary: specify: 明确说明
 
 **[3114.30s] English:** So long as it obeys the laws of physics.  
 **Translation:** 
@@ -2164,52 +2165,52 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3118.26s] English:** What was the third thing you were mentioning?  
 **Translation:** 
 
-**[3120.00s] English:** So the second thing is the data centers. And the third thing is we need utilities to also recognize that this is an opportunity. And and instead of instead of saying, look, it's going to take me five years to increase my grid capability.  
+**[3120.00s] English:** So, the second thing is the data centers. And the third thing is we need utilities to also recognize that this is an opportunity. And instead of saying, "Look, it's going to take me five years to increase my grid capability.  
+**Translation:** Vocabulary: capability: 能力
+
+**[3137.50s] English:** Uh, if you're willing to take on this level of guarantee, I can make them available for you next month and at this price. And so if utilities also offered more segments of power delivery promises, then I think everybody will figure out what to do with it. Yeah. But there's just way too much waste in the grid right now. We should go after it.  
 **Translation:** 
 
-**[3137.50s] English:** Uh, if you, if you have, if you're willing to take power of this level of guarantee, I can make them available for you next month and at this price. And so if utilities also offered more segments of power delivery promises, then I think everybody will figure out what to do with it. Yeah. But there's just way too much waste in the, in the grid right now. We should, we should go after it.  
+**[3163.22s] English:** Uh, you've uh highly lauded Elon and, uh, XAICs.  
+**Translation:** Vocabulary: lauded: 赞扬; segments: 部分; utilities: 公用事业
+
+**[3167.50s] English:** He has accomplished building the Colossus supercomputer in Memphis in just four months, probably setting a record. It now boasts 200,000 GPUs and is growing very quickly. Is there something about his approach that you could speak to, which is instructive for all data center creators and enables that kind of accomplishment?  
 **Translation:** 
 
-**[3163.22s] English:** Uh, you've, uh, highly lauded Elon and, uh, XAICs.  
-**Translation:** Vocabulary: lauded: 高度赞扬; segments: 部分
-
-**[3167.50s] English:** He has accomplishment in Memphis in building, um, Colossus supercomputer, probably in record time in just four months. It's now at 200,000 GPUs and growing very quickly. Is there something that you could speak to the, uh, understand about his approach that's instructive to the broadly to all the data center creators that's, um, that enable that kind of accomplishment?  
-**Translation:** 
-
-**[3190.30s] English:** His approach to engineering, his approach to the whole management of construction, everything.  
-**Translation:** Vocabulary: colossus: 巨无霸; instructive: 有启发的; memphis: Memphis; supercomputer: 超级计算机
+**[3190.30s] English:** His approach to engineering, his approach to the whole management of construction—everything.  
+**Translation:** Vocabulary: accomplishment: 成就; boasts: 配备; colossus: 巨无霸; instructive: 有启发的; supercomputer: 超级计算机
 
 **[3195.86s] English:** First of all, Elon is deep.  
 **Translation:** 
 
 **[3197.50s] English:** In so many different topics, um, uh, yet he's also a really good systems thinker.  
-**Translation:** 
+**Translation:** Vocabulary: thinker: 思考者
 
-**[3204.54s] English:** And so he's able to think through multiple disciplines and, and, um, uh, he obviously, uh, pushes things, questions, everything where they're number one, is it necessary?  
+**[3204.54s] English:** And so he's able to think through multiple disciplines and, and, um, uh, he obviously, uh, pushes things, questions everything—where the number one question is: Is it necessary?  
 **Translation:** 
 
 **[3218.62s] English:** Number two, does it have to be done this way?  
 **Translation:** Vocabulary: disciplines: 学科领域
 
-**[3221.26s] English:** And in other words, you know, does it have, does it have to take this long?  
+**[3221.26s] English:** And, in other words, do we have to wait this long?  
 **Translation:** 
 
 **[3225.24s] English:** And, and so, so he.  
 **Translation:** 
 
-**[3227.50s] English:** He has, he has the, he has the ability, uh, to question everything, uh, to the point where everything is down to its minimal amount that's necessary.  
+**[3227.50s] English:** He has the ability to question everything to the point where everything is reduced to its minimal necessary amount.  
 **Translation:** 
 
 **[3238.16s] English:** You can't take anything else out.  
-**Translation:** 
+**Translation:** Vocabulary: minimal: 最少的
 
-**[3240.00s] English:** And yet the necessary capabilities of the product retains, and so he is as minimalist as you could possibly imagine, and he does it at a system scale.  
+**[3240.00s] English:** And yet, the necessary capabilities of the product retain, and so he is as minimalist as you could possibly imagine, and he does it at a system scale.  
 **Translation:** 
 
 **[3253.98s] English:** I also love the fact that he is represented. He is present at the point of action. He'll just go there. If there's a problem, he'll just go there and show me the problem.  
-**Translation:** Vocabulary: minimalist: 极简主义者
+**Translation:** Vocabulary: capabilities: 能力; minimalist: 极简主义者
 
-**[3271.12s] English:** When you do all of this in combination, you overcome a lot of previous, this is just the way we do it. I'm waiting for them.  
+**[3271.12s] English:** When you do all of this in combination, you overcome a lot of previous challenges. This is just the way we do it. I'm waiting for them.  
 **Translation:** 
 
 **[3282.98s] English:** I mean, it's just...  
@@ -2218,350 +2219,350 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3283.98s] English:** Everybody has a lot of excuses, and then the last thing is when you act personally with so much urgency, it causes everybody else to act with urgency, and every supplier has a lot of customers going on.  
 **Translation:** 
 
-**[3297.98s] English:** Every supplier has a lot of projects going on, and he makes it his business that he's the top priority of everybody else's projects, and so he does that by demonstrating it.  
+**[3297.98s] English:** Every supplier has a lot of projects going on, and he makes it his business to be the top priority of everybody else's projects, and so he does that by demonstrating it.  
 **Translation:** Vocabulary: supplier: 供应商; urgency: 紧迫感
 
-**[3309.80s] English:** Yeah, I've been in a bunch of those meetings. It's fun to watch because really not enough people.  
+**[3309.80s] English:** Yeah, I've been in a bunch of those meetings. It's fun to watch because really, not enough people show up.  
 **Translation:** 
 
-**[3313.98s] English:** Yeah, I've been in a bunch of those meetings. It's fun to watch because really not enough people.  
+**[3313.98s] English:** Yeah, I've been in a bunch of those meetings. It's fun to watch because really, not enough people show up.  
 **Translation:** 
 
-**[3343.98s] English:** And just building up that intuition from every single task involved in putting together the data center, you start to immediately get a sense at the detailed scale and at the broad system scale of...  
+**[3343.98s] English:** And just building up that intuition from every single task involved in putting together the data center, you start to immediately get a sense of the detailed scale and the broad system scale of...  
 **Translation:** 
 
-**[3360.00s] English:** where the inefficiencies are.  
+**[3360.00s] English:** Where the inefficiencies are.  
 **Translation:** Vocabulary: inefficiencies: 不效率; intuition: 直觉
 
-**[3361.62s] English:** And so you can make it more and more and more efficient.  
+**[3361.62s] English:** And so, you can make it more and more and more efficient.  
 **Translation:** 
 
-**[3364.28s] English:** Plus you have the big hammer of being able to say,  
-**Translation:** 
+**[3364.28s] English:** Plus, you have the big hammer of being able to say,  
+**Translation:** Vocabulary: hammer: 大杀器
 
-**[3366.88s] English:** let's do it totally different and remove all possible blockers.  
+**[3366.88s] English:** Let's do it totally different and remove all possible blockers.  
 **Translation:** 
 
 **[3370.62s] English:** That's right.  
 **Translation:** 
 
-**[3371.50s] English:** Is there parallels in the NVIDIA Extreme Systems  
+**[3371.50s] English:** Is there a parallel in the NVIDIA Extreme Systems?  
 **Translation:** 
 
-**[3374.16s] English:** co-design approach that you see in the way  
-**Translation:** 
+**[3374.16s] English:** Co-design approach that you see in the way,  
+**Translation:** Vocabulary: parallel: 相似之处
 
 **[3376.26s] English:** Elon approaches systems engineering?  
 **Translation:** 
 
-**[3378.62s] English:** Well, first of all, co-design is an ultimate  
+**[3378.62s] English:** Well, first of all, co-design is an ultimate.  
+**Translation:** Vocabulary: approaches: 倾向于
+
+**[3380.74s] English:** Systems engineering problem.  
 **Translation:** 
 
-**[3380.74s] English:** systems engineering problem.  
-**Translation:** 
-
-**[3382.06s] English:** And so we approach the work that we do from that principle.  
+**[3382.06s] English:** And so, we approach the work that we do from that principle.  
 **Translation:** 
 
 **[3386.82s] English:** The other thing that we do, and this is a philosophy that,  
 **Translation:** 
 
-**[3393.26s] English:** a thought, a state of mind, I guess,  
+**[3393.26s] English:** A thought, a state of mind—I guess.  
 **Translation:** 
 
-**[3397.86s] English:** a method that I started 30 years ago,  
+**[3397.86s] English:** A method that I started 30 years ago,  
 **Translation:** 
 
-**[3402.34s] English:** and it's called the speed of light.  
+**[3402.34s] English:** And it's called the speed of light.  
 **Translation:** 
 
 **[3404.22s] English:** The speed of light is not just about the speed.  
 **Translation:** 
 
-**[3405.92s] English:** The speed of light is my shorthand for what's the limit  
+**[3405.92s] English:** The speed of light is my shorthand for what's the limit.  
 **Translation:** Vocabulary: shorthand: 简化书写
 
-**[3411.24s] English:** of what physics can do.  
+**[3411.24s] English:** Of what physics can do.  
 **Translation:** 
 
-**[3412.96s] English:** And so everything that we do is compared against this  
+**[3412.96s] English:** And so, everything that we do is compared against this.  
 **Translation:** 
 
-**[3416.82s] English:** speed of light.  
+**[3416.82s] English:** Speed of light.  
 **Translation:** 
 
 **[3417.76s] English:** Memory speed, math speed, power, cost, time, effort,  
 **Translation:** 
 
-**[3425.24s] English:** number of people, manufacturing cycle time.  
+**[3425.24s] English:** Number of people, manufacturing cycle time.  
 **Translation:** 
 
 **[3429.08s] English:** And when you think about latency versus throughput,  
 **Translation:** Vocabulary: latency: 延迟; throughput: 吞吐量
 
-**[3432.78s] English:** when you think about cost versus throughput,  
+**[3432.78s] English:** When you think about cost versus throughput,  
 **Translation:** 
 
-**[3435.84s] English:** cost versus capacity, all of these things,  
+**[3435.84s] English:** Cost versus capacity: all of these things,  
 **Translation:** 
 
-**[3440.14s] English:** you test against the speed of light to achieve  
+**[3440.14s] English:** You test against the speed of light to achieve.  
 **Translation:** 
 
-**[3443.76s] English:** all of these different constraints,  
+**[3443.76s] English:** All of these different constraints,  
 **Translation:** Vocabulary: constraints: 限制条件
 
-**[3447.24s] English:** separately.  
+**[3447.24s] English:** Separately.  
 **Translation:** 
 
-**[3448.52s] English:** And then when you consider it together,  
+**[3448.52s] English:** And then, when you consider it together,  
+**Translation:** Vocabulary: separately: 单独地
+
+**[3451.42s] English:** You know, you have to make compromises.  
 **Translation:** 
 
-**[3451.42s] English:** you know you have to make compromises  
-**Translation:** 
-
-**[3452.84s] English:** because a system that achieves extremely low latency  
+**[3452.84s] English:** Because a system that achieves extremely low latency,...  
 **Translation:** Vocabulary: compromises: 妥协
 
-**[3456.00s] English:** versus a system that achieves very high throughput  
+**[3456.00s] English:** versus a system that achieves very high throughput.  
 **Translation:** 
 
-**[3458.96s] English:** are architected fundamentally differently.  
-**Translation:** Vocabulary: architected: 设计; fundamentally: 从根本上
+**[3458.96s] English:** Are they architected fundamentally differently?  
+**Translation:** Vocabulary: architected: 设计; fundamentally: 本质上
 
-**[3461.80s] English:** But you want to know what's the speed of light  
+**[3461.80s] English:** But, you want to know what the speed of light is?  
 **Translation:** 
 
-**[3464.16s] English:** of a system that achieves high throughput.  
+**[3464.16s] English:** Of a system that achieves high throughput.  
 **Translation:** 
 
-**[3467.82s] English:** What's the speed of light of a system  
+**[3467.82s] English:** What is the speed of light in a system?  
 **Translation:** 
 
-**[3469.58s] English:** that achieves low latency?  
+**[3469.58s] English:** That achieves low latency?  
 **Translation:** 
 
-**[3472.10s] English:** And then when you think about the total system,  
+**[3472.10s] English:** And then, when you think about the total system,  
 **Translation:** 
 
-**[3474.28s] English:** you could make trade-offs.  
+**[3474.28s] English:** You could make trade-offs.  
 **Translation:** 
 
 **[3475.96s] English:** And so I,  
 **Translation:** 
 
-**[3476.82s] English:** I force everybody to think about what's this,  
+**[3476.82s] English:** I force everyone to think about what this is.  
 **Translation:** 
 
-**[3478.56s] English:** what the first,  
+**[3478.56s] English:** What is the first,  
 **Translation:** 
 
-**[3479.04s] English:** the first principle.  
+**[3479.04s] English:** The first principle.  
 **Translation:** 
 
-**[3480.00s] English:** the limits the physical limits um for everything before we you know before we uh do anything  
+**[3480.00s] English:** The physical limits for everything, before we you know, before we do anything,  
 **Translation:** 
 
-**[3488.08s] English:** and and we test everything against that and so that's a good frame of mind i don't love  
+**[3488.08s] English:** And we test everything against that, and so that's a good frame of mind. I don't love it completely.  
 **Translation:** 
 
-**[3494.34s] English:** the other methods which is continuous improvement the problem with continuous improvement it  
+**[3494.34s] English:** The other method, which is continuous improvement, has the problem that it  
 **Translation:** 
 
-**[3501.76s] English:** first of all you should engineer something from first principles at the speed you know with speed  
+**[3501.76s] English:** First, you should engineer something from first principles at the speed you know with speed.  
 **Translation:** 
 
-**[3507.74s] English:** of light thinking limited only by physical limits and and physics limits and um after that of course  
+**[3507.74s] English:** Of light, thinking is limited only by physical and physics limits, and after that, of course.  
 **Translation:** 
 
-**[3516.50s] English:** you would improve it over time um but i don't like going into a problem and somebody says hey  
+**[3516.50s] English:** You would improve it over time, um, but I don't like going into a problem and somebody says, "hey,  
 **Translation:** 
 
-**[3522.88s] English:** you know it takes 74 days to do this today right now and we can do it for you in 72 days you know  
+**[3522.88s] English:** You know, it takes 74 days to do this today, right now, and we can do it for you in 72 days, you know.  
 **Translation:** 
 
-**[3530.10s] English:** i'd rather strip it all back to zero and say first of all explain to me why it's 74 days in the first  
+**[3530.10s] English:** I'd rather strip it all back to zero and say, first of all, explain to me why it's 74 days in the first place.  
 **Translation:** 
 
-**[3535.06s] English:** place and let's know let's think about it and let's think about it and let's think about it  
+**[3535.06s] English:** Place, and let's know. Let's think about it, and let's think about it, and let's think about it.  
 **Translation:** 
 
-**[3537.74s] English:** what's possible today and if i were to to build it completely from scratch you know how long would  
+**[3537.74s] English:** What is possible today, and if I were to build it completely from scratch, you know, how long would it take?  
+**Translation:** Vocabulary: scratch: 从头开始
+
+**[3543.80s] English:** It often takes, and you'd be surprised, it might come to six days. Now, the rest of the six days to.  
 **Translation:** 
 
-**[3543.80s] English:** it take oftentimes you'd be surprised and might come to six days now the rest of the six days to  
+**[3550.36s] English:** 74 could be very well-reasoned, and compromises, and you know, cost reductions, and all kinds of improvements.  
+**Translation:** Vocabulary: compromises: 妥协; reductions: 削减
+
+**[3557.78s] English:** Different things, but at least you know what they are, and then now that you know that it's six days.  
 **Translation:** 
 
-**[3550.36s] English:** 74 could be very well reasoned and compromises and you know cost reductions and all kinds of  
-**Translation:** Vocabulary: oftentimes: 经常
-
-**[3557.78s] English:** different things but at least you know what they are and then now that you know that six days  
+**[3562.26s] English:** Possible, then the conversation from 7:46.  
 **Translation:** 
 
-**[3562.26s] English:** possible then the conversation from 74 to six  
+**[3567.74s] English:** Surprisingly, it is much more effective in such incredibly complex systems that you're working with.  
 **Translation:** 
 
-**[3567.74s] English:** surprisingly much more effective in such incredibly complex systems that you're working  
-**Translation:** 
-
-**[3572.46s] English:** with is simplicity sometimes a good heuristic to to reach for i mean if i can just i mean the pod  
+**[3572.46s] English:** With simplicity sometimes a good heuristic to reach for, I mean, if I can just, I mean, the pod.  
 **Translation:** Vocabulary: heuristic: 启发法; simplicity: 简洁性
 
-**[3581.50s] English:** the vera rubin pod that you announced is just incredible uh we're talking about seven chips  
+**[3581.50s] English:** The Vera Rubin Pod that you announced is just incredible. Uh, we're talking about seven chips.  
 **Translation:** 
 
-**[3586.48s] English:** seven chip types five purpose built rack types 40 racks 1.2 quadrillion transistors  
-**Translation:** Vocabulary: quadrillion: 万亿; transistors: 晶体管
+**[3586.48s] English:** Seven chip types, five purpose-built rack types, 40 racks, 1.2 quadrillion transistors.  
+**Translation:** Vocabulary: quadrillion: 万亿; rubin: 鲁宾; transistors: 晶体管
 
-**[3592.06s] English:** nearly 20 000 nvidia dies over 1100 rubin gpus  
+**[3592.06s] English:** Nearly 20,000 NVIDIA chips over 1,100 Rubin GPUs.  
 **Translation:** 
 
-**[3597.74s] English:** 60 exaflops 10 petabytes per second  
-**Translation:** Vocabulary: petabytes: 千兆字节
+**[3597.74s] English:** 60 exaflops, 10 petabytes per second.  
+**Translation:** Vocabulary: exaflops: 每秒千万亿次浮点运算; petabytes: 千兆字节
 
-**[3600.00s] English:** going to scale bandwidth uh that's all just one that's just one pod that's just yeah that's just  
+**[3600.00s] English:** Going to scale bandwidth, that's just one pod. That's just yeah, that's just.  
 **Translation:** 
 
-**[3607.08s] English:** one five i mean so you have the and then even the the nvl 72 rack alone is 1.3 million components  
+**[3607.08s] English:** One point five, I mean, so you have the, and then even the NVL 72 rack alone is 1.3 million components.  
 **Translation:** Vocabulary: bandwidth: 带宽
 
-**[3615.16s] English:** 1300 chips 4000 pounds crammed into a single 19 inch wide rack and lex we'll probably kind of  
+**[3615.16s] English:** 1,300 chips, 4,000 pounds, crammed into a single 19-inch-wide rack. And Lex; we'll probably kind of...  
 **Translation:** 
 
-**[3620.56s] English:** crank out about 200 of these pods a week just to put in perspective the the amount of different  
+**[3620.56s] English:** Crank out about 200 of these pods a week, just to put in perspective the amount of different...  
 **Translation:** Vocabulary: crammed: 塞满; crank: 生产
 
-**[3627.16s] English:** components i suppose simplicity is impossible but is that a metric that you kind of reach for  
+**[3627.16s] English:** Components—I suppose, simplicity is impossible—but is that a metric that you kind of reach for?  
 **Translation:** 
 
-**[3633.52s] English:** and trying to design things you know the phrase the phrase that i use most often is we we need  
+**[3633.52s] English:** And trying to design things, you know, the phrase I use most often is "we need.  
+**Translation:** Vocabulary: metric: 衡量标准
+
+**[3639.88s] English:** Things should be as complex as necessary, but as simple as possible, and so the question is: is all that?  
 **Translation:** 
 
-**[3639.88s] English:** things to be as complex as necessary but as simple as possible and and so the question is is all that  
-**Translation:** 
-
-**[3645.86s] English:** complexity they're necessary and we ought to test for that and we ought to challenge that and then  
+**[3645.86s] English:** Complexity is necessary, and we ought to test for it and challenge it, and then  
 **Translation:** Vocabulary: complexity: 复杂性
 
-**[3652.18s] English:** after that everything else above it you know it's gratuitous  
+**[3652.18s] English:** After that, everything else above it, you know, is gratuitous.  
 **Translation:** 
 
-**[3655.90s] English:** but some of the most incredible semiconductor industry broadly but what nvidia is doing  
-**Translation:** Vocabulary: gratuitous: 多余; semiconductor: 半导体
+**[3655.90s] English:** But some of the most incredible things are happening in the semiconductor industry broadly, but what NVIDIA is doing stands out.  
+**Translation:** Vocabulary: broadly: 广泛地
 
-**[3660.92s] English:** uh some of the greatest engineering in history so these systems are just truly truly marvels  
+**[3660.92s] English:** Uh, some of the greatest engineering feats in history, so these systems are just truly marvelous.  
 **Translation:** 
 
-**[3668.98s] English:** of engineering it is the most complex computer the world has ever made yeah the engineering  
-**Translation:** Vocabulary: marvels: 奇迹
-
-**[3673.94s] English:** teams i mean i don't know it's not a competition but i don't know if it was like an olympics of  
+**[3668.98s] English:** Of all engineering, it is the most complex computer the world has ever made, yeah, the engineering.  
 **Translation:** 
 
-**[3678.20s] English:** engineering teams i mean tsmc does incredible engineering like i said asml at every scale  
+**[3673.94s] English:** Teams, I mean, I don't know; it's not a competition, but I don't know if it was like an Olympics of...  
 **Translation:** 
 
-**[3683.88s] English:** but nvidia is gonna  
+**[3678.20s] English:** Engineering teams, I mean, TSMC does incredible engineering, like I said, as well as ASML, at every scale.  
 **Translation:** 
 
-**[3685.90s] English:** give them a run for their money yeah just incredible incredible teams gold medal medalists  
+**[3683.88s] English:** But NVIDIA is gonna.  
 **Translation:** 
 
-**[3690.22s] English:** in every single every single sport all assembled right here and have to work together and report  
+**[3685.90s] English:** Give them a run for their money, yeah—just incredible! Incredible teams, gold medalists.  
 **Translation:** 
 
-**[3695.44s] English:** directly to you this is wonderful uh you've recently traveled to china uh so it's interesting  
-**Translation:** Vocabulary: assembled: 聚集
-
-**[3702.62s] English:** to ask you uh china has been incredibly successful in building up its technology sector what do you  
+**[3690.22s] English:** In every single sport, everyone has to assemble right here, work together, and report.  
 **Translation:** 
 
-**[3708.98s] English:** understand about um how china is able to over the past 10 years build so many incredible world-class  
+**[3695.44s] English:** Directly to you, this is wonderful. Uh, you've recently traveled to China, uh, so it's interesting.  
+**Translation:** Vocabulary: assemble: 集合
+
+**[3702.62s] English:** To ask you: China has been incredibly successful in building up its technology sector. What do you think about that?  
 **Translation:** 
 
-**[3715.90s] English:** companies world-class engineering teams and just this technology  
+**[3708.98s] English:** Understand about how China has been able to, over the past 10 years, build so many incredible world-class projects.  
 **Translation:** 
 
-**[3720.00s] English:** ecosystem that produces so many um incredible products a whole bunch of reasons for well first  
+**[3715.90s] English:** Companies with world-class engineering teams and just this technology.  
 **Translation:** 
 
-**[3726.90s] English:** of all let's start let's start with some facts 50 of the world's ai researchers are chinese  
+**[3720.00s] English:** Ecosystem that produces so many incredible products—there are a whole bunch of reasons for this, well, first,...  
 **Translation:** 
 
-**[3732.00s] English:** plus or minus and they're mostly in china still we have many of them here but there's amazing  
+**[3726.90s] English:** Of all, let's start with some facts: 50% of the world's AI researchers are Chinese.  
 **Translation:** 
 
-**[3741.58s] English:** researchers still in china um they their tech industry showed up at precisely the right time  
+**[3732.00s] English:** Plus or minus, and they're mostly in China still. We have many of them here, but there's amazing.  
 **Translation:** 
 
-**[3750.00s] English:** at the time of the mobile cloud era their way of contributing with software and so this is a  
+**[3741.58s] English:** Researchers, still in China, um, their tech industry showed up at precisely the right time.  
 **Translation:** 
 
-**[3755.64s] English:** country's incredible science and math really well educated kids um their tech industry was  
+**[3750.00s] English:** At the time of the mobile cloud era, their way of contributing with software, and so this is a  
+**Translation:** Vocabulary: precisely: 正好
+
+**[3755.64s] English:** The country's incredible science and math programs really well-educated kids, and their tech industry was  
 **Translation:** 
 
-**[3764.46s] English:** created during the era of software they're very comfortable with modern software  
+**[3764.46s] English:** Created during the era of software, they're very comfortable with modern software.  
 **Translation:** 
 
-**[3770.08s] English:** china is not one giant economic country it's got many provinces and cities  
+**[3770.08s] English:** China is not one giant economic country; it's got many provinces and cities.  
 **Translation:** 
 
-**[3779.00s] English:** with mayors all competing with each other that's the reason why there's so many ev companies that's  
+**[3779.00s] English:** With mayors all competing with each other, that's the reason why there are so many EV companies.  
+**Translation:** Vocabulary: mayors: 市长; provinces: 省份
+
+**[3784.42s] English:** The reason why there are so many AI companies is that there are so many opportunities.  
 **Translation:** 
 
-**[3784.42s] English:** the reason why there's so many ai companies that's the reason why there's so many every  
+**[3788.20s] English:** Company, you could imagine, they all create some of them, and as a result, they have insane.  
 **Translation:** 
 
-**[3788.20s] English:** company you could imagine um they all create some of them and and um as a result they have insane  
+**[3797.18s] English:** Competition internally, and you know, what remains is an incredible company. They also have a social.  
 **Translation:** 
 
-**[3797.18s] English:** competition internally and you know what remains is an incredible company um they also have a social  
-**Translation:** 
-
-**[3809.00s] English:** network where it's family first friend second and company third and so um  
+**[3809.00s] English:** Network: where it's family first, friends second, and company third, and so on.  
 **Translation:** Vocabulary: internally: 内部地
 
-**[3816.08s] English:** the amount of conversation that goes back and forth between they're essentially open source  
+**[3816.08s] English:** The amount of conversation that goes back and forth between them is essentially open source.  
 **Translation:** 
 
-**[3826.18s] English:** all the time so the fact that they contribute more to open source is so sensible because  
-**Translation:** Vocabulary: sensible: 合乎情理
+**[3826.18s] English:** All the time, so the fact that they contribute more to open source is so sensible because  
+**Translation:** Vocabulary: sensible: 合乎情理的
 
-**[3831.80s] English:** they're probably what are we protecting you know my engineers their brothers are in that company  
+**[3831.80s] English:** They're probably what we're protecting, you know, my engineers' brothers are in that company.  
 **Translation:** 
 
-**[3837.28s] English:** their friends are in that company and they're in that company and they're in that company and they're  
+**[3837.28s] English:** Their friends are in that company, and they're in that company, and they're in that company, and they're.  
 **Translation:** 
 
-**[3838.98s] English:** all schoolmates  
+**[3838.98s] English:** All schoolmates.  
 **Translation:** 
 
-**[3840.00s] English:** You know, the schoolmate concept is, you know, one schoolmate, your brother for life. And so they share knowledge very, very quickly. And so there's no sense keeping technology hidden. You might as well put it on open source. And so the open source community then amplifies, accelerates the innovation process.  
+**[3840.00s] English:** You know, the schoolmate concept is one schoolmate, your brother for life. And so they share knowledge very, very quickly. And so there's no sense in keeping technology hidden; you might as well put it on open source. And so the open source community then amplifies and accelerates the innovation process.  
 **Translation:** Vocabulary: accelerates: 加速; amplifies: 放大; schoolmate: 同学; schoolmates: 同学们
 
-**[3862.40s] English:** So you get this rapid, incredible, great talent, rapid innovation because of open source and just, you know, the nature of friends and insane competition among the company.  
+**[3862.40s] English:** So, you get this rapid, incredible, great talent, rapid innovation because of open source—and just, you know, the nature of friends and intense competition among companies.  
 **Translation:** 
 
 **[3877.06s] English:** What emerges is incredible stuff.  
+**Translation:** Vocabulary: emerges: 出现
+
+**[3880.20s] English:** And so, this is the fastest-innovating country in the world today.  
 **Translation:** 
 
-**[3880.20s] English:** And so this is the fastest innovating country in the world today.  
+**[3885.32s] English:** And this is something that has everything I've just said is fundamental to how the kids were grown.  
 **Translation:** 
 
-**[3885.32s] English:** And this is something that has everything that I've just said is fundamental to just how the kids were grown.  
-**Translation:** Vocabulary: innovating: 不断创新的
-
-**[3891.86s] English:** The fact that they have excellent education, the fact that their parents want them to do well in school, the fact that their culture is that way.  
+**[3891.86s] English:** The fact that they have excellent education, the fact that their parents want them to do well in school, and the fact that their culture is that way.  
 **Translation:** 
 
-**[3900.28s] English:** These are, you know, these are just the thing about their country.  
+**[3900.28s] English:** These are, you know, just things about their country.  
 **Translation:** 
 
-**[3903.60s] English:** And they showed up at precisely the time when technology is going through that exponential.  
+**[3903.60s] English:** And they showed up at precisely the time when technology is going through that exponential growth.  
 **Translation:** 
 
 **[3909.26s] English:** Plus, culturally, it's pretty cool to be an engineer.  
-**Translation:** Vocabulary: culturally: 文化上; exponential: 指数的
+**Translation:** Vocabulary: culturally: 文化上; exponential: 指数的; precisely: 精确地
 
 **[3912.40s] English:** It connects to all the components that you're mentioning.  
 **Translation:** 
@@ -2587,52 +2588,52 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3925.16s] English:** Their country's leaders.  
 **Translation:** 
 
-**[3926.32s] English:** And because we're they're trying to keep us safe.  
+**[3926.32s] English:** And because they're trying to keep us safe.  
 **Translation:** 
 
-**[3928.86s] English:** Rule of law governing their country was built out of poverty.  
+**[3928.86s] English:** The rule of law, governing their country, was built out of poverty.  
 **Translation:** 
 
-**[3935.30s] English:** And so most of their leaders are incredible engineers.  
+**[3935.30s] English:** And so, most of their leaders are incredible engineers.  
 **Translation:** 
 
 **[3940.38s] English:** Some of the brightest minds.  
 **Translation:** 
 
-**[3942.78s] English:** To take a small tangent, because you mentioned open source, I have to go to perplexity here, who you have been a fan of a long time.  
+**[3942.78s] English:** To take a small tangent, because you mentioned open source, I have to go to Perplexity here, who you have been a fan of for a long time.  
 **Translation:** 
 
 **[3951.14s] English:** I love it.  
-**Translation:** Vocabulary: tangent: 旁枝逸出
+**Translation:** 
 
 **[3951.68s] English:** Yeah.  
 **Translation:** 
 
-**[3951.86s] English:** And thank you for releasing open source Nematron three super, which you can also use inside perplexity to look stuff up now.  
-**Translation:** Vocabulary: nematron: 开源软件; perplexity: 困惑度
+**[3951.86s] English:** And thank you for releasing open-source Nematron 3.0, which you can also use inside Perplexity to look stuff up now.  
+**Translation:** Vocabulary: nematron: 内马tron; perplexity: 困惑
 
 **[3959.86s] English:** Thank you.  
 **Translation:** 
 
-**[3960.00s] English:** which is a 120 billion parameter open weight MOE model.  
+**[3960.00s] English:** Which is a 120 billion-parameter open-weight MOE model.  
 **Translation:** 
 
 **[3965.54s] English:** What's your vision with open source?  
 **Translation:** 
 
-**[3969.18s] English:** So you mentioned China with DeepSeek and Minimax  
+**[3969.18s] English:** So, you mentioned China with DeepSeek and Minimax.  
 **Translation:** Vocabulary: minimax: 最大最小值法
 
-**[3973.62s] English:** with all these companies really pushing forward  
+**[3973.62s] English:** With all these companies really pushing forward,  
 **Translation:** 
 
-**[3977.08s] English:** the open source AI movement.  
+**[3977.08s] English:** The open-source AI movement.  
 **Translation:** 
 
-**[3980.38s] English:** And NVIDIA is really leading the way  
+**[3980.38s] English:** And NVIDIA is really leading the way.  
 **Translation:** 
 
-**[3982.14s] English:** in close to state-of-the-art open source LLMs.  
+**[3982.14s] English:** In close to state-of-the-art open-source LLMs.  
 **Translation:** 
 
 **[3987.16s] English:** What's your vision there?  
@@ -2641,172 +2642,184 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[3988.76s] English:** First off,  
 **Translation:** 
 
-**[3990.00s] English:** if we're going to be a great AI computing company,  
+**[3990.00s] English:** If we are going to be a great AI computing company,  
 **Translation:** 
 
-**[3992.60s] English:** we have to understand how AI models are evolving.  
+**[3992.60s] English:** We have to understand how AI models are evolving.  
 **Translation:** Vocabulary: computing: 计算; evolving: 演变
 
-**[3996.28s] English:** One of the things that I love about Nemotron 3  
+**[3996.28s] English:** One of the things that I love about Nemotron 3:  
 **Translation:** 
 
-**[3998.70s] English:** is it's not just a pure transformer model.  
-**Translation:** Vocabulary: nemotron: 神经机器
+**[3998.70s] English:** It's not just a pure transformer model.  
+**Translation:** Vocabulary: nemotron: 奈莫tron
 
-**[4002.60s] English:** It's transformer and SSMs.  
+**[4002.60s] English:** It's transformers and SSMs.  
 **Translation:** 
 
-**[4005.30s] English:** And we were early in developing the conditional GANs,  
+**[4005.30s] English:** And we were early in developing the conditional GANs.  
 **Translation:** Vocabulary: conditional: 条件性的
 
-**[4011.94s] English:** that progressive GANs,  
+**[4011.94s] English:** That progressive GANs,  
 **Translation:** 
 
-**[4013.38s] English:** which led step-by-step to diffusion.  
+**[4013.38s] English:** Which led, step by step, to diffusion.  
 **Translation:** Vocabulary: diffusion: 扩散
 
-**[4015.88s] English:** And so the fact that we're doing basic research  
+**[4015.88s] English:** And so, the fact that we're doing basic research,...  
 **Translation:** 
 
-**[4019.02s] English:** and...  
+**[4019.02s] English:** And...  
 **Translation:** 
 
-**[4020.00s] English:** in model architecture and in different domains  
+**[4020.00s] English:** In model architecture and in different domains.  
 **Translation:** 
 
-**[4023.06s] English:** gives us visibility into, you know,  
+**[4023.06s] English:** Gives us visibility into, you know,  
 **Translation:** Vocabulary: visibility: 可见性
 
-**[4026.20s] English:** what kind of computing systems  
+**[4026.20s] English:** What kind of computing systems?  
 **Translation:** 
 
-**[4027.54s] English:** would do a good job for future models.  
+**[4027.54s] English:** It would do a good job for future models.  
 **Translation:** 
 
-**[4029.36s] English:** And so it is part of our extreme co-design strategy.  
+**[4029.36s] English:** And so, it is part of our extreme co-design strategy.  
 **Translation:** 
 
 **[4033.02s] English:** Second,  
 **Translation:** 
 
-**[4034.70s] English:** I think we rightfully recognize  
+**[4034.70s] English:** I think we rightfully recognize.  
 **Translation:** 
 
-**[4038.36s] English:** that on the one hand,  
+**[4038.36s] English:** That on the one hand,  
 **Translation:** 
 
-**[4041.64s] English:** we want world-class models as products  
+**[4041.64s] English:** We want world-class models as products.  
 **Translation:** 
 
-**[4044.82s] English:** and they should be proprietary.  
+**[4044.82s] English:** And they should be proprietary.  
 **Translation:** Vocabulary: proprietary: 专有技术
 
 **[4047.28s] English:** On the other hand,  
 **Translation:** 
 
-**[4048.84s] English:** we also want...  
+**[4048.84s] English:** We also want....  
 **Translation:** 
 
-**[4050.00s] English:** we want AI to diffuse into every industry  
+**[4050.00s] English:** We want AI to diffuse into every industry.  
 **Translation:** 
 
-**[4052.34s] English:** and every country,  
+**[4052.34s] English:** And every country,  
 **Translation:** Vocabulary: diffuse: 分散
 
-**[4053.70s] English:** every researcher,  
+**[4053.70s] English:** Every researcher,  
 **Translation:** 
 
-**[4055.16s] English:** every student.  
+**[4055.16s] English:** Every student.  
 **Translation:** 
 
 **[4057.10s] English:** And if everything is proprietary,  
 **Translation:** 
 
-**[4059.58s] English:** it's hard to do research  
+**[4059.58s] English:** It's hard to do research.  
 **Translation:** 
 
-**[4061.02s] English:** and it's hard to innovate on top of,  
+**[4061.02s] English:** And it's hard to innovate on top of.  
 **Translation:** 
 
-**[4064.14s] English:** around,  
+**[4064.14s] English:** Around,  
 **Translation:** Vocabulary: innovate: 创新
 
-**[4064.98s] English:** with.  
+**[4064.98s] English:** With.  
 **Translation:** 
 
-**[4066.34s] English:** And so open source is fundamentally necessary  
+**[4066.34s] English:** And so, open source is fundamentally necessary.  
 **Translation:** Vocabulary: fundamentally: 从根本上
 
-**[4069.80s] English:** for many industries to join the AI revolution.  
+**[4069.80s] English:** For many industries to join the AI revolution.  
 **Translation:** 
 
-**[4074.66s] English:** NVIDIA has the scale  
+**[4074.66s] English:** NVIDIA has the scale.  
 **Translation:** 
 
-**[4075.74s] English:** and we have the motives  
+**[4075.74s] English:** And we have the motives.  
 **Translation:** 
 
-**[4077.50s] English:** to not only...  
+**[4077.50s] English:** To not only...  
 **Translation:** 
 
-**[4079.86s] English:** for AI,  
+**[4079.86s] English:** For AI,  
 **Translation:** 
 
-**[4081.84s] English:** but for us to be able to do all the work  
+**[4080.00s] English:** Skills, scale, and motivation to build and continue to build these AI models for as long as we shall.  
 **Translation:** 
 
-**[4085.10s] English:** that we have to do to help us  
+**[4081.84s] English:** But, for us to be able to do all the work,...  
 **Translation:** 
 
-**[4086.46s] English:** to change the world around us.  
+**[4085.10s] English:** That we have to do to help us.  
+**Translation:** 
+
+**[4086.46s] English:** To change the world around us.  
 **Translation:** 
 
 **[4087.22s] English:** We'll be working on doing some of that.  
 **Translation:** 
 
-**[4088.58s] English:** So if we can see that,  
+**[4088.58s] English:** So, if we can see that,  
 **Translation:** 
 
-**[4090.06s] English:** you know,  
+**[4088.88s] English:** Live and so, therefore, we ought to do that. We can open up and activate every industry, every  
 **Translation:** 
 
-**[4090.10s] English:** I think we have a year and a half  
+**[4090.06s] English:** You know,  
 **Translation:** 
 
-**[4092.14s] English:** to do more research  
+**[4090.10s] English:** I think we have a year and a half.  
 **Translation:** 
 
-**[4093.58s] English:** and I think that's going to be something  
+**[4092.14s] English:** To do more research.  
 **Translation:** 
 
-**[4095.12s] English:** that we have to look at for the future.  
+**[4093.58s] English:** And I think that's going to be something.  
 **Translation:** 
 
-**[4097.14s] English:** So if we can look at the future,  
+**[4095.12s] English:** That we have to look at for the future.  
 **Translation:** 
 
-**[4098.34s] English:** it's going to be very, very, very important  
+**[4095.68s] English:** Researcher, you know, every country needs to be able to join the AI revolution, and there's the third reason.  
 **Translation:** 
 
-**[4100.40s] English:** to do that.  
+**[4097.14s] English:** So, if we could look into the future,  
 **Translation:** 
 
-**[4100.60s] English:** And I'm certainly looking forward to seeing  
+**[4098.34s] English:** It's going to be very, very, very important.  
 **Translation:** 
 
-**[4101.80s] English:** the way that we can do this.  
+**[4100.40s] English:** To do that.  
 **Translation:** 
 
-**[4103.42s] English:** I mean...  
+**[4100.60s] English:** And I'm certainly looking forward to seeing.  
 **Translation:** 
 
-**[4103.92s] English:** So thank you for all your time.  
+**[4101.80s] English:** The way we can do this.  
 **Translation:** 
 
-**[4104.70s] English:** And I think that's it  
+**[4102.26s] English:** Which is from that to recognizing that AI is not just about language; these AIs will likely use  
 **Translation:** 
 
-**[4106.04s] English:** for our discussion today.  
+**[4103.42s] English:** I mean....  
+**Translation:** 
+
+**[4103.92s] English:** So, thank you for all your time.  
+**Translation:** 
+
+**[4104.70s] English:** And I think that's it.  
+**Translation:** 
+
+**[4106.04s] English:** For our discussion today.  
 **Translation:** 
 
 **[4106.72s] English:** Thank you.  
@@ -2830,242 +2843,230 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[4108.68s] English:** Thank you.  
 **Translation:** 
 
-**[4080.00s] English:** skills scale and motivation to build and continue to build these ai models for as long as we shall  
-**Translation:** 
-
-**[4088.88s] English:** live and so therefore we ought to do that we can open up we can activate every industry every  
-**Translation:** 
-
-**[4095.68s] English:** researcher you know every country to be able to join the ai revolution there's the third reason  
-**Translation:** 
-
-**[4102.26s] English:** which is from that to recognizing that ai is not just language these ais will likely use  
-**Translation:** 
-
-**[4110.54s] English:** tools and models and sub-agents that were trained on other modalities of information  
+**[4110.54s] English:** Tools, and models, and sub-agents that were trained on other modalities of information.  
 **Translation:** Vocabulary: modalities: 信息模态
 
-**[4119.28s] English:** maybe it's biology or chemistry or um you know laws of physics or you know fluids and  
+**[4119.28s] English:** Maybe it's biology or chemistry, or um, you know, laws of physics or you know, fluids and  
 **Translation:** 
 
-**[4126.22s] English:** thermodynamics and not all of it is in language structure and so somebody has to go make sure  
-**Translation:** Vocabulary: thermodynamics: 热力学
+**[4126.22s] English:** Thermodynamics, and not all of it is in language structure, and so somebody has to go make sure.  
+**Translation:** Vocabulary: fluids: 流体; thermodynamics: 热力学
 
-**[4132.24s] English:** that weather prediction biology ai ai for biology physical ai all of that stuff stays  
+**[4132.24s] English:** That, weather prediction, biology, AI, AI for biology, physical AI — all of that stuff stays.  
 **Translation:** 
 
-**[4142.64s] English:** can be pushed to the limits and pushed to the frontier we don't build cars but we want to make  
-**Translation:** Vocabulary: frontier: 前沿
+**[4142.64s] English:** Can be pushed to the limits and pushed to the frontier. We don't build cars, but we want to make.  
+**Translation:** Vocabulary: frontier: 最前沿
 
-**[4147.36s] English:** sure every car company has access to great models we don't we don't discover drugs but i want to  
+**[4147.36s] English:** Sure, every car company has access to great models. We don't discover drugs, but I want to.  
 **Translation:** 
 
-**[4152.38s] English:** make sure that lily has the world's best biology ai systems so that they can go use it for  
+**[4152.38s] English:** Make sure that Lily has the world's best biology AI systems so that they can go use it for.  
 **Translation:** 
 
-**[4158.18s] English:** discovering drugs so these three fundamental reasons  
+**[4158.18s] English:** Discovering drugs: so, these three fundamental reasons.  
 **Translation:** 
 
-**[4161.64s] English:** you  
+**[4161.64s] English:** You.  
 **Translation:** 
 
-**[4162.24s] English:** both in in recognizing that ai is not just language that ai is really broad that we want  
+**[4162.24s] English:** Both in recognizing that AI is not just about language, that AI is really broad, and that we want  
 **Translation:** 
 
-**[4167.64s] English:** to engage everybody into the world of ai and then also co-design of ai well i have to say once again  
+**[4167.64s] English:** To engage everybody in the world of AI, and then also co-design of AI, well, I have to say once again,  
 **Translation:** 
 
-**[4174.02s] English:** thank you uh for open sourcing is really truly open sourcing uh nematron 3 and i appreciate you  
+**[4174.02s] English:** Thank you so much for truly open-sourcing NEMATRON 3. I appreciate it.  
 **Translation:** 
 
-**[4179.76s] English:** for saying that we open source the models we open source the weights we open source the data  
-**Translation:** Vocabulary: nematron: 神经网络; sourcing: 开源
-
-**[4183.82s] English:** we open source how we created it yeah it's pretty amazing it's really it's really incredible  
+**[4179.76s] English:** For saying that, we open-source the models, we open-source the weights, and we open-source the data.  
 **Translation:** 
 
-**[4190.02s] English:** you're originally from  
+**[4183.82s] English:** We open-sourced how we created it. Yeah, it's pretty amazing; it's really incredible.  
 **Translation:** 
 
-**[4192.24s] English:** taiwan and have a close relationship with tsmc so i have to ask uh tsmc i think uh  
+**[4190.02s] English:** You're originally from  
 **Translation:** 
 
-**[4200.00s] English:** also is a legendary company in terms of the engineering teams in terms of the  
+**[4192.24s] English:** Taiwan has a close relationship with TSMC, so I have to ask—uh, TSMC—I think, uh  
 **Translation:** 
 
-**[4203.70s] English:** incredible engineering work that they do uh what uh what do you understand about tsmc culture and  
+**[4200.00s] English:** Also, it is a legendary company in terms of its engineering teams.  
+**Translation:** Vocabulary: legendary: 传奇的
+
+**[4203.70s] English:** Incredible engineering work that they do. What do you understand about TSMC's culture and?  
 **Translation:** 
 
-**[4210.28s] English:** their approach that explains how they're able to achieve this singular unmatched success in uh  
+**[4210.28s] English:** Their approach, which explains how they're able to achieve this singular, unmatched success, is quite fascinating.  
 **Translation:** 
 
-**[4217.40s] English:** everything they're doing with semiconductors you know first of all the deepest misunderstanding  
+**[4217.40s] English:** Everything they're doing with semiconductors, you know, first of all, the deepest misunderstanding.  
 **Translation:** 
 
-**[4222.76s] English:** about tsmc is that that um their technology is all they have that somehow they they have a  
+**[4222.76s] English:** About TSMC, what's notable is that their technology is essentially all they have; somehow, they seem to have a  
 **Translation:** Vocabulary: semiconductors: 半导体
 
-**[4236.06s] English:** really great transistor and if somebody shows up another transistor game over it's the technology  
+**[4236.06s] English:** Really great transistor, and if somebody shows up with another transistor, game over—it's the technology.  
 **Translation:** 
 
-**[4242.90s] English:** and of course you know i don't mean just the transistor and metallization systems the  
-**Translation:** Vocabulary: transistor: 晶体管
+**[4242.90s] English:** And, of course, you know I don't mean just the transistors and metallization systems; the  
+**Translation:** Vocabulary: transistor: 晶体管; transistors: 晶体管
 
-**[4248.00s] English:** packaging the 3d packaging the silicon photonics that you know all of the  
+**[4248.00s] English:** Packaging the 3D, packaging the silicon photonics that you know, all of the  
 **Translation:** 
 
-**[4252.62s] English:** technology that they're concerned about is that it's it's a technology that they've  
-**Translation:** Vocabulary: photonics: 光子学
+**[4252.62s] English:** Technology that they're concerned about is that it's a technology that they've  
+**Translation:** Vocabulary: photonics: 光子学; silicon: 硅
 
-**[4252.74s] English:** they're concerned about is that they're concerned about is that it's a technology that they're  
+**[4252.74s] English:** They are concerned that it is a technology that they are  
 **Translation:** 
 
-**[4252.76s] English:** That technology is really what makes the company special. Their technology makes the company special. But their ability to orchestrate the demands, the dynamic demands of hundreds of companies in the world as they're moving up, shifting out, increasing, decreasing, pushing out, pulling in, changing from customer to customer.  
-**Translation:** Vocabulary: orchestrate: 协调; shifting: 变化
+**[4252.76s] English:** That technology is really what makes the company special. Their technology makes the company special. But their ability to orchestrate the demands—the dynamic demands of hundreds of companies in the world—as they're moving up, shifting out, increasing, decreasing, pushing out, pulling in, changing from customer to customer.  
+**Translation:** Vocabulary: decreasing: 减少; orchestrate: 协调; shifting: 变化
 
-**[4282.76s] English:** Wafer starting, wafer stopping, emergency wafer starts. All of this dynamics of the world's complexity as the world is shifting all the time. And somehow they're running a factory with high throughput, high yields, really great costs, excellent customer service.  
+**[4282.76s] English:** Wafer starting, wafer stopping, emergency wafer starts. All of this dynamics of the world's complexity, as the world is shifting all the time. And somehow, they're running a factory with high throughput, high yields, really great costs, and excellent customer service.  
 **Translation:** 
 
-**[4306.58s] English:** They take their promises seriously.  
-**Translation:** Vocabulary: complexity: 复杂性; throughput: 产出率; wafer: 晶圆
+**[4306.58s] English:** They take their promises very seriously.  
+**Translation:** Vocabulary: complexity: 复杂性; throughput: 产能; wafer: 晶圆; yields: 产量
 
 **[4310.56s] English:** Because they know that they're helping you.  
 **Translation:** 
 
-**[4312.76s] English:** When the wafers were promised to show up, the wafers show up so that you could run your company appropriately.  
-**Translation:** Vocabulary: appropriately: 恰当地; wafers: 硅片
+**[4312.76s] English:** When the wafers were promised to show up, they showed up so that you could run your company appropriately.  
+**Translation:** Vocabulary: appropriately: 适当地; wafers: 晶圆
 
-**[4320.00s] English:** And so their system, their manufacturing system is completely miraculous. I would say then the second thing is their culture. This culture is simultaneously technology focused on one hand, advancing technology, simultaneously customer service oriented on the other hand.  
+**[4320.00s] English:** And so, their manufacturing system is completely miraculous. I would say that the second thing is their culture. This culture is simultaneously technology-focused on one hand, advancing technology, and simultaneously customer-service-oriented on the other hand.  
 **Translation:** 
 
-**[4337.62s] English:** A lot of companies are very customer service oriented, but they're not very technology excellent. They're not at the bleeding edge of technology. There are a lot of companies who are at the bleeding edge of technology, but they're not the best customer service oriented company.  
+**[4337.62s] English:** A lot of companies are very customer-service oriented, but they're not very technology-excellent. They're not at the bleeding edge of technology. There are a lot of companies who are at the bleeding edge of technology, but they're not the best customer-service oriented company.  
 **Translation:** Vocabulary: advancing: 进步; miraculous: 奇迹; oriented: 导向
 
-**[4351.98s] English:** And so it just depends on somehow they've balanced these two and they're world class of both. And then probably the third thing is the technology that I most value in them, that they created this.  
+**[4351.98s] English:** And so it just depends on how they've balanced these two things, and they're world-class at both. And then, probably the third thing is the technology that I most value in them — that they created this.  
 **Translation:** 
 
-**[4367.62s] English:** Intangible called trust. I trust them to put my company on top of them. That's a very big deal.  
-**Translation:** Vocabulary: intangible: 无形
+**[4367.62s] English:** An intangible called trust. I trust them to put my company on top, and that's a very big deal.  
+**Translation:** Vocabulary: balanced: 权衡; intangible: 无形
 
-**[4375.24s] English:** Well, they trust. I mean, there's a really close relationship there that you have established and that trust is established based on many years of performance, but there's human relationships involved there as well.  
+**[4375.24s] English:** Well, they trust. I mean, there's a really close relationship there that you have established, and that trust is based on many years of performance, but there are also human relationships involved there as well.  
 **Translation:** 
 
-**[4385.14s] English:** Three decades. I don't know how many tens, hundreds of billions of dollars of business we've done through them and we don't have a contract. That's pretty great.  
+**[4385.14s] English:** Three decades. I don't know how many tens, hundreds of billions of dollars of business we've done through them, and we don't have a contract. That's pretty great.  
 **Translation:** 
 
-**[4395.32s] English:** Amazing. Okay. There's the story.  
+**[4395.32s] English:** Amazing. Okay, there's the story.  
 **Translation:** 
 
 **[4398.24s] English:** That in 2013, the founders of TSMC, Morris Chang, offered you the chance to become TSMC's chief executive. And you said you already had a job. Is this story true?  
-**Translation:** Vocabulary: chang: chang 氏; founders: 创始人
+**Translation:** Vocabulary: chang: 变化; founders: 创始人
 
-**[4409.98s] English:** Story is true. I didn't dismiss it, but I was deeply honored. And of course, I knew then, as I know now, TSMC is one of the most consequential companies in history.  
+**[4409.98s] English:** The story is true. I didn't dismiss it, but I was deeply honored. And of course, I knew then, as I know now, that TSMC is one of the most consequential companies in history.  
 **Translation:** 
 
 **[4423.90s] English:** Yeah.  
-**Translation:** Vocabulary: consequential: 有重大影响的
+**Translation:** Vocabulary: consequential: 有重大影响的; dismiss: 否定
 
 **[4425.78s] English:** And Morris is one of the...  
 **Translation:** 
 
-**[4427.62s] English:** The highest regarded executive and business and personal friend that I've had in my life. And for him to ask is...  
+**[4427.62s] English:** The highest-regarded executive and business, as well as personal, friend that I've had in my life. And for him to ask is...  
 **Translation:** 
 
-**[4440.00s] English:** uh, um, I w I was humbled and, and, um, really honored. Um, but, but the work that I'm doing  
+**[4440.00s] English:** Uh, um, I was humbled and really honored. Um, but the work that I'm doing,...  
 **Translation:** 
 
-**[4446.96s] English:** here is really important. And I've seen, you know, in my mind, in ways in my mind's eye,  
+**[4446.96s] English:** Here is really important. And I've seen, you know, in my mind's eye,  
+**Translation:** Vocabulary: humbled: 谦卑
+
+**[4452.34s] English:** What NVIDIA was going to be, and what the impact that we could have. And, um, it was really  
 **Translation:** 
 
-**[4452.34s] English:** what NVIDIA was going to be and what the impact that we could have. And, um, uh, it was really  
+**[4458.90s] English:** Important work. Uh, and it's my responsibility—my sole responsibility—to make this happen.  
 **Translation:** 
 
-**[4458.90s] English:** important work. Uh, and it's my responsibility, you know, my sole responsibility to make this  
+**[4464.64s] English:** Happen. And so, I declined it, you know, not because it wasn't an  
 **Translation:** 
 
-**[4464.64s] English:** happen. And so I, I, um, uh, I declined it, uh, you know, not, not because it wasn't an  
+**[4472.62s] English:** Incredible offer. Uh, it's an unbelievable offer. Um, but, but I simply couldn't take it.  
+**Translation:** Vocabulary: declined: 拒绝了
+
+**[4478.80s] English:** I think NVIDIA, both NVIDIA and TSMC, are two of the greatest companies in the history of humanity.  
 **Translation:** 
 
-**[4472.62s] English:** incredible offer. Uh, it's an unbelievable offer. Um, but, but I simply couldn't take it.  
+**[4484.82s] English:** Civilization and running either one, I'm sure, is an incredibly complicated effort and takes,  
 **Translation:** 
 
-**[4478.80s] English:** I think NVIDIA, both NVIDIA and TSMC are two of the greatest companies in the history of human  
+**[4489.94s] English:** You have to truly be all in, uh, everybody at every scale.  
 **Translation:** 
 
-**[4484.82s] English:** civilization and running either one, I'm sure is incredibly complicated effort and takes,  
+**[4494.06s] English:** Not just at the,  
 **Translation:** 
 
-**[4489.94s] English:** you have to truly be all in, uh, everybody at every scale,  
-**Translation:** 
-
-**[4494.06s] English:** not just at the,  
-**Translation:** 
-
-**[4494.64s] English:** the CEO level, everybody is really truly all in to accomplish this kind of complexity.  
+**[4494.64s] English:** At the CEO level, everyone is really, truly all in to accomplish this kind of complexity.  
 **Translation:** 
 
 **[4500.56s] English:** See, now I can help both companies.  
 **Translation:** Vocabulary: complexity: 复杂性
 
-**[4502.16s] English:** Exactly. Um, so NVIDIA is now the most valuable company in the world. I have to ask, what is the  
+**[4502.16s] English:** Exactly. Um, so, NVIDIA is now the most valuable company in the world. I have to ask, what is the  
 **Translation:** 
 
-**[4510.26s] English:** NVIDIA's biggest moat as the folks in the tech sector say, the edge you have that  
+**[4510.26s] English:** NVIDIA's biggest moat, as the folks in the tech sector say, is the edge you have that  
 **Translation:** 
 
-**[4517.34s] English:** protects you from the competition?  
+**[4517.34s] English:** Protects you from the competition?  
 **Translation:** 
 
 **[4520.28s] English:** Our single most important, uh,  
 **Translation:** 
 
-**[4524.64s] English:** property as a company is the install base of our computing platform. Our single most important  
+**[4524.64s] English:** Property as a company is the installed base of our computing platform. Our single most important  
 **Translation:** 
 
-**[4533.10s] English:** thing is the, today is our, is the install base of CUDA. Now, the reason why, uh,  
+**[4533.10s] English:** The thing is, today is our install base for CUDA. Now, the reason why, uh,  
+**Translation:** Vocabulary: computing: 计算
+
+**[4540.50s] English:** 20 years ago, of course, there was no install base, but what makes, and if somebody,  
 **Translation:** 
 
-**[4540.50s] English:** 20, 20 years ago, of course there was no install base, but what makes, and if somebody,  
+**[4548.04s] English:** If somebody came up with a GUDA or TUDA, it wouldn't make any difference at all.  
 **Translation:** 
 
-**[4548.04s] English:** if somebody came up with, with a GUDA or TUDA, uh, it wouldn't make any difference at all.  
+**[4554.64s] English:** And the reason for that is because it's never been just about the technology.  
 **Translation:** 
 
-**[4554.64s] English:** And the reason for that is because, because it's never been just about the technology,  
-**Translation:** 
-
-**[4559.16s] English:** the technology of  
+**[4559.16s] English:** The technology of  
 **Translation:** 
 
 **[4559.90s] English:** .  
 **Translation:** 
 
-**[4560.00s] English:** course, was incredible visionary. But it's the fact that the company was dedicated to it,  
-**Translation:** Vocabulary: visionary: 远见卓识的人
+**[4560.00s] English:** Course, he was an incredible visionary. But it's the fact that the company was dedicated to it,  
+**Translation:** Vocabulary: visionary: 有远见的人
 
-**[4567.02s] English:** stuck with it, expanded its reach. It wasn't three people that made CUDA successful. It was  
+**[4567.02s] English:** Stuck with it and expanded its reach. It wasn't just three people that made CUDA successful. It was  
 **Translation:** 
 
-**[4574.26s] English:** 43,000 people that made CUDA successful. And the several million developers that believed in us,  
+**[4574.26s] English:** 43,000 people that made CUDA successful, and several million developers that believed in us.  
 **Translation:** 
 
-**[4581.62s] English:** that trusted that we were going to continue to make CUDA 1, 2, 3, 13, that they decided to port  
+**[4581.62s] English:** That trusted that we were going to continue to make CUDA 1, 2, 3, and 13, that they decided to port.  
 **Translation:** 
 
-**[4588.34s] English:** and dedicate their software on top of it, their mountain of software on top of it.  
+**[4588.34s] English:** And they dedicate their software on top of it, their mountain of software on top of it.  
+**Translation:** Vocabulary: dedicate: 奉献
+
+**[4592.88s] English:** And so, the install base is the number one most important advantage. That install base,  
 **Translation:** 
 
-**[4592.88s] English:** And so the install base is the number one most important advantage. That install base,  
+**[4599.56s] English:** When you amplify it with the velocity of our execution, at the scale that we're talking about,  
+**Translation:** Vocabulary: amplify: 放大; execution: 执行
+
+**[4605.42s] English:** No company in history had ever built systems of this complexity, period.  
 **Translation:** 
 
-**[4599.56s] English:** when you amplify it with the velocity of our execution, at the scale that we're talking about,  
-**Translation:** 
-
-**[4605.42s] English:** no company in history had ever built systems of this complexity, period.  
-**Translation:** 
-
-**[4610.80s] English:** And then to build it once a year is impossible.  
-**Translation:** 
+**[4610.80s] English:** And then, building it once a year is impossible.  
+**Translation:** Vocabulary: complexity: 复杂性
 
 **[4616.18s] English:** And that's...  
 **Translation:** 
@@ -3073,226 +3074,226 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[4618.34s] English:** Velocity combined with the install base, in the developer's mind,  
 **Translation:** 
 
-**[4624.20s] English:** you just can now take a developer's mind. From the developer's perspective, if I support CUDA,  
+**[4624.20s] English:** You just can now take a developer's mind. From the developer's perspective, if I support CUDA,  
 **Translation:** 
 
-**[4630.98s] English:** tomorrow it will be 10 times better. I just have to wait six months on average.  
+**[4630.98s] English:** Tomorrow, it will be 10 times better. I just have to wait six months on average.  
 **Translation:** 
 
-**[4636.54s] English:** Not only that, if I develop it on CUDA, I reach a few hundred million people,  
+**[4636.54s] English:** Not only that, if I develop it on CUDA, I can reach a few hundred million people.  
 **Translation:** 
 
-**[4642.68s] English:** computers. I'm in every cloud. I'm in every computer company. I'm in every single industry.  
+**[4642.68s] English:** Computers. I'm in every cloud. I'm in every computer company. I'm in every single industry.  
 **Translation:** 
 
 **[4648.36s] English:** I'm in every single country.  
 **Translation:** 
 
-**[4651.00s] English:** So if I create an open source package and I put it on CUDA first,  
+**[4651.00s] English:** So, if I create an open-source package and put it on CUDA first,  
 **Translation:** 
 
-**[4655.44s] English:** I get these both attributes simultaneously.  
+**[4655.44s] English:** I get both attributes simultaneously.  
 **Translation:** 
 
 **[4660.32s] English:** And not only that,  
 **Translation:** Vocabulary: attributes: 特性
 
-**[4662.26s] English:** I trust 100% that NVIDIA is going to keep CUDA around and maintain it and improve it  
+**[4662.26s] English:** I trust 100% that NVIDIA is going to keep CUDA around, maintain it, and improve it.  
 **Translation:** 
 
-**[4670.84s] English:** and keep optimizing the libraries for as long as they shall live.  
+**[4670.84s] English:** And keep optimizing the libraries for as long as they shall live.  
+**Translation:** Vocabulary: optimizing: 优化
+
+**[4676.88s] English:** You could take that to the bank, and that library....  
 **Translation:** 
 
-**[4676.88s] English:** You could take that to the bank and that library...  
+**[4678.20s] English:** You could take that to the bank, and that library....  
 **Translation:** 
 
-**[4678.20s] English:** You could take that to the bank and that library...  
+**[4680.00s] English:** You put all that stuff together, and if I were a developer today, I would target CUDA first. I would target it most. And that's the reason I think, in the final analysis, is our first core advantage.  
 **Translation:** 
 
-**[4680.00s] English:** You put all that stuff together, if I were a developer today, I would target CUDA first. I would target CUDA most. And that's the reason that I think in the final analysis is our first, that's even our first core advantage.  
-**Translation:** 
-
-**[4698.10s] English:** Our second one is our ecosystem. The fact that we vertically integrated this incredibly complex system, but we integrated horizontally into every single company's computers. We're in the Google Cloud, we're in Amazon, we're in Azure. We're ramping up AWS like crazy right now. We're in new companies like CoreWeave and then Scale. We're in supercomputers at Lilly. We're in enterprise computers. We're at the edge in radio base stations.  
-**Translation:** Vocabulary: horizontally: 横向集成; supercomputers: 超级计算机; vertically: 纵向集成
+**[4698.10s] English:** Our second one is our ecosystem. The fact that we vertically integrated this incredibly complex system, but we also integrated horizontally into every single company's computers. We're in the Google Cloud, we're in Amazon, we're in Azure. We're ramping up AWS like crazy right now. We're in new companies like CoreWeave and Scale. We're in supercomputers at Lilly. We're in enterprise computers. We're at the edge in radio base stations.  
+**Translation:** Vocabulary: horizontally: 横向整合; integrated: 整合; ramping: 迅速增加; supercomputers: 超级计算机; vertically: 纵向
 
 **[4727.32s] English:** You know, I'm just...  
 **Translation:** 
 
-**[4728.10s] English:** It's just crazy. One architecture is in all these different systems. We're in cars, we're in robots, we're in satellites. We're out in space. And so the fact that you have this one architecture and the ecosystem is so broad, it basically covers every single industry in the world.  
+**[4728.10s] English:** It's just crazy. One architecture is used in all these different systems. We're in cars, we're in robots, we're in satellites. We're out in space. And so, the fact that you have this one architecture and such a broad ecosystem, it basically covers every single industry in the world.  
 **Translation:** 
 
-**[4743.32s] English:** Well, how does the CUDA install base evolve into the future with AI factories as a moat? Do you think it's possible that NVIDIA of the future is all about the AI factory?  
+**[4743.32s] English:** Well, how will the CUDA install base evolve into the future with AI factories as a moat? Do you think it's possible that NVIDIA in the future is all about the AI factory?  
 **Translation:** 
 
 **[4755.54s] English:** Well, the unit of computing...  
-**Translation:** Vocabulary: computing: 计算
+**Translation:** Vocabulary: computing: 计算; evolve: 演变
 
-**[4758.10s] English:** It used to be GPU to us. Then it became a computer. Then it became a cluster. Now it's an entire AI factory. When I see a computer, when I see what NVIDIA builds, in the old days, I visualized the chip. And then when I announced a new product, you know, new generation, like, ladies and gentlemen, we're announcing Ampere today. I pick up the chip.  
+**[4758.10s] English:** It used to be GPU to us. Then it became a computer. Then it became a cluster. Now it's an entire AI factory. When I see a computer, when I see what NVIDIA builds, in the old days, I visualized the chip. And then, when I announced a new product, like, new generation—like, "Ladies and gentlemen, we're announcing Ampere today"—I picked up the chip.  
 **Translation:** 
 
 **[4779.86s] English:** Yeah.  
-**Translation:** Vocabulary: ampere: 安培; cluster: 计算集群; visualized: 想象
+**Translation:** Vocabulary: ampere: 安培; cluster: 集群; visualized: 想象
 
-**[4780.14s] English:** That was my mental model of what I was building. Today, I wouldn't... Picking up the chip is kind of still adorable.  
+**[4780.14s] English:** That was my mental model of what I was building. Today, I wouldn't say picking up the chip is kind of still adorable.  
 **Translation:** 
 
 **[4787.56s] English:** Yeah.  
 **Translation:** 
 
-**[4788.10s] English:** Adorable. It's not my mental model of what I'm doing. My mental model is this giant gigawatt thing that has power generations connected.  
+**[4788.10s] English:** Adorable. It's not my mental model of what I'm doing. My mental model is this giant, gigawatt thing that has power generation connections.  
 **Translation:** 
 
-**[4800.00s] English:** to the grid it's got cooling systems and networking of incredible monstrosity you know  
-**Translation:** Vocabulary: gigawatt: gig瓦; monstrosity: 奇观外型
+**[4800.00s] English:** To the grid, it's got cooling systems and networking of incredible monstrosity, you know.  
+**Translation:** Vocabulary: gigawatt: 兆瓦; monstrosity: 怪兽般的东西
 
-**[4805.24s] English:** 10 000 people are in there trying to install it hundreds of networking engineers in there  
+**[4805.24s] English:** 10,000 people are in there trying to install it; hundreds of networking engineers are in there.  
 **Translation:** 
 
-**[4810.88s] English:** thousands of engineers behind it trying to power it up you know powering up one of those factories  
+**[4810.88s] English:** Thousands of engineers behind it, trying to power it up—you know, powering up one of those factories.  
 **Translation:** 
 
-**[4816.18s] English:** as you know it's not somebody going it's on now it takes thousands of people to bring it up so  
+**[4816.18s] English:** As you know, it's not something that one person can do; it takes thousands of people to make it happen now.  
 **Translation:** 
 
-**[4822.70s] English:** mentally you're actually when you're thinking about a single unit of compute you're like  
+**[4822.70s] English:** Mentally, you're actually thinking about a single unit of compute, and you're like,  
+**Translation:** Vocabulary: compute: 计算
+
+**[4826.46s] English:** Literally, when you go to bed at night, you're thinking about a collection of racks and pods.  
 **Translation:** 
 
-**[4826.46s] English:** literally when you go to bed at night you're thinking now about collection of racks so pods  
+**[4832.20s] English:** Not individual chips, but the entire infrastructure. And I'm hoping my next click is when I'm thinking.  
 **Translation:** 
 
-**[4832.20s] English:** not individual chips entire infrastructure and i'm hoping my next click is when i'm thinking  
+**[4836.78s] English:** About building computers, it's you know, planetary scale—that'll be the next big thing. What do you think?  
 **Translation:** 
 
-**[4836.78s] English:** about building computers it's you know planetary scale that'll be the next click what do you think  
+**[4842.80s] English:** About the space angle that Elon has talked about, doing computation in space to solve some of the  
+**Translation:** Vocabulary: computation: 计算
+
+**[4850.20s] English:** It makes some of the energy issues, in terms of scaling energy, easier.  
 **Translation:** 
 
-**[4842.80s] English:** about the space angle that elon has talked about doing compute in space for solving some of the  
+**[4856.08s] English:** You.  
 **Translation:** 
 
-**[4850.20s] English:** it makes some of the energy issues in terms of scaling energy easier  
+**[4856.46s] English:** Cooling issues are not easy, you know. Cooling, well, there's a large number of engineering considerations involved.  
 **Translation:** 
 
-**[4856.08s] English:** you  
-**Translation:** 
-
-**[4856.46s] English:** cooling issues is not easy you know cooling well there's a large number of engineering  
-**Translation:** 
-
-**[4861.36s] English:** complexities involved with that yeah so what you know nvidia has also announced that you're already  
+**[4861.36s] English:** Complexities involved with that, yeah. So, what you know, NVIDIA has also announced that you're already.  
 **Translation:** Vocabulary: complexities: 复杂性
 
-**[4867.58s] English:** thinking about that yeah we're already there uh nvidia gpus are the first gpus in space  
+**[4867.58s] English:** Thinking about that, yeah, we're already there. NVIDIA GPUs are the first GPUs in space.  
 **Translation:** 
 
-**[4872.84s] English:** and um i didn't realize it was it was so interesting to i would have declared it maybe  
+**[4872.84s] English:** And, um, I didn't realize it was so interesting; I would have declared it maybe.  
 **Translation:** 
 
-**[4879.68s] English:** we're in space you know little little astronaut suit on one of our gpus  
+**[4879.68s] English:** We're in space, you know—little astronaut suit on one of our GPUs.  
 **Translation:** 
 
-**[4886.46s] English:** but but we've been in space uh it's the right place to do a lot of imaging you know because  
+**[4886.46s] English:** But, but we've been in space; it's the right place to do a lot of imaging, you know.  
 **Translation:** 
 
-**[4892.44s] English:** those satellites have really high resolution imaging systems and they're sweeping the earth  
+**[4892.44s] English:** Those satellites have really high-resolution imaging systems, and they're sweeping the Earth.  
 **Translation:** 
 
-**[4897.30s] English:** you know continuously now and um you want you know centimeter scale you know imaging that is  
-**Translation:** Vocabulary: sweeping: 全面扫描
+**[4897.30s] English:** You know, continuously now, and you want centimeter-scale imaging that is.  
+**Translation:** Vocabulary: sweeping: 全面覆盖
 
-**[4904.76s] English:** done continuously uh for the world so that you know you'll basically have real-time telemetry  
+**[4904.76s] English:** Done continuously, uh, for the world, so that you'll basically have real-time telemetry.  
 **Translation:** 
 
-**[4910.66s] English:** of everything uh you don't want to beam that back down to earth it's just you know  
+**[4910.66s] English:** Of everything, uh, you don't want to beam that back down to Earth; it's just, you know,  
 **Translation:** Vocabulary: telemetry: 遥测数据
 
-**[4916.34s] English:** you don't want to beam that back down to earth it's just you know you don't want to beam that  
+**[4916.34s] English:** You don't want to beam that back down to Earth; it's just, you know, you don't want to beam that.  
 **Translation:** 
 
-**[4916.46s] English:** back down to earth it's just you know you don't want to beam that back down to earth petabytes and petabytes of data  
+**[4916.46s] English:** Back down to Earth; it's just that you don't want to beam that back down to Earth, petabytes and petabytes of data.  
 **Translation:** Vocabulary: petabytes: 千兆字节
 
-**[4918.84s] English:** petabytes and petabytes of data  
+**[4918.84s] English:** Petabytes and petabytes of data.  
 **Translation:** 
 
-**[4918.86s] English:** petabytes and petabytes of data you got to just do ai  
+**[4918.86s] English:** Petabytes and petabytes of data—you've got to just do AI.  
 **Translation:** 
 
-**[4920.00s] English:** you got to just do ai  
+**[4920.00s] English:** You've got to just do AI.  
 **Translation:** 
 
-**[4920.00s] English:** there at the edge throw away everything you don't need you've seen before didn't change  
+**[4920.00s] English:** There, at the edge, throw away everything you don't need; you've seen it before and it didn't change.  
 **Translation:** 
 
-**[4924.48s] English:** and then just keep the stuff that that you need and so ai ought to be done at the edge  
+**[4924.48s] English:** And then just keep the stuff that you need, and so AI ought to be done at the edge.  
 **Translation:** 
 
-**[4929.12s] English:** um obviously we have we have a 24 7 solar if we put it at the polars and um uh  
+**[4929.12s] English:** Um, obviously, we have a 24/7 solar system if we put it at the poles, and um, uh,  
 **Translation:** 
 
-**[4939.04s] English:** but you know there's no conduction no convection and so you know you're pretty much just radiation  
+**[4939.04s] English:** But you know, there's no conduction, no convection, and so you're pretty much just radiation.  
 **Translation:** 
 
-**[4945.44s] English:** and um uh but you know space is big i guess we're just going to put big giant radiators out there  
+**[4945.44s] English:** And, um, you know, space is big. I guess we're just going to put big, giant radiators out there.  
 **Translation:** Vocabulary: conduction: 热传导; convection: 对流; radiators: 散热器
 
-**[4951.92s] English:** how crazy of an idea do you think it is like is this is this five years out 10 years out 20 years  
+**[4951.92s] English:** How crazy of an idea do you think it is—like, is this five years out, ten years out, twenty years out?  
 **Translation:** 
 
-**[4956.88s] English:** out so uh we're talking about blockers for ai scaling you know i'm just so much more practical  
+**[4956.88s] English:** Out. So, uh, we're talking about blockers for AI scaling. You know, I'm just a lot more practical.  
 **Translation:** 
 
-**[4962.80s] English:** i i look for where where um uh my next next bucket of opportunities are first  
+**[4962.80s] English:** I look for where my next bucket of opportunities are first.  
 **Translation:** 
 
-**[4971.28s] English:** meanwhile i'm cultivating space and so i sent i sent engineers  
+**[4971.28s] English:** Meanwhile, I'm cultivating space, and so I sent engineers.  
 **Translation:** Vocabulary: cultivating: 培育
 
-**[4975.44s] English:** uh to go work on the problem we're starting we're learning a lot about it  
+**[4975.44s] English:** Uh, to go work on the problem, we're starting, and we're learning a lot about it.  
 **Translation:** 
 
-**[4980.40s] English:** how do we do with radiation how do we do with degrading performance how do we deal with um  
+**[4980.40s] English:** How do we handle radiation? How do we address degrading performance? How do we deal with...  
 **Translation:** Vocabulary: degrading: 性能下降
 
-**[4985.68s] English:** continuous uh testing and attestation of of um defects and and um you know how do we deal with  
+**[4985.68s] English:** Continuous, uh, testing and attestation of defects, and how do we deal with them?  
 **Translation:** 
 
-**[4992.48s] English:** redundancy and how do we degrade uh gracefully and things like that and so we could we could do  
-**Translation:** Vocabulary: degrade: 退化; redundancy: 冗余
+**[4992.48s] English:** Redundancy, and how do we degrade gracefully, and things like that. So, we could do  
+**Translation:** Vocabulary: defects: 缺陷; degrade: 降级; redundancy: 冗余
 
-**[4998.88s] English:** what about software how do you think about software and and redundancy and performance  
+**[4998.88s] English:** What about software? How do you think about software, redundancy, and performance?  
 **Translation:** 
 
-**[5005.44s] English:** so that so that the computer never breaks it just gets slower you know and um i so we could start  
+**[5005.44s] English:** So, that the computer never breaks; it just gets slower, you know. And um, I suppose we could start.  
 **Translation:** 
 
-**[5013.68s] English:** doing a lot of engineering exploration up front but in the meantime my my favorite answer is  
+**[5013.68s] English:** Doing a lot of engineering exploration up front, but in the meantime, my favorite answer is...  
 **Translation:** 
 
-**[5019.76s] English:** eliminate waste you know we've we've got all that idle power i want to evacuate it as fast as  
-**Translation:** Vocabulary: evacuate: 清除; meantime: meantime
+**[5019.76s] English:** Eliminate waste. You know, we've got all that idle power; I want to evacuate it as fast as possible.  
+**Translation:** Vocabulary: evacuate: 撤离; meantime: meantime
 
-**[5025.20s] English:** possible yeah yeah there's a lot of low-hanging fruit here on earth yeah uh that we can utilize  
+**[5025.20s] English:** Possible, yeah, yeah, there's a lot of low-hanging fruit here on Earth, yeah, that we can utilize.  
 **Translation:** 
 
-**[5032.24s] English:** uh for the ai scaling uh quick pause  
-**Translation:** 
+**[5032.24s] English:** Uh, for AI scaling, uh, quick pause.  
+**Translation:** Vocabulary: utilize: 利用
 
-**[5035.44s] English:** quick 30 second thank you to our sponsors check them out in the description  
+**[5035.44s] English:** Quick 30-second thank you to our sponsors. Check them out in the description.  
 **Translation:** 
 
 **[5040.00s] English:** It really is the best way to support this podcast.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[5042.72s] English:** Go to lexfriedman.com slash sponsors.  
+**[5042.72s] English:** Go to lexfriedman.com/sponsors.  
 **Translation:** 
 
 **[5046.26s] English:** We got Perplexity for curiosity-driven knowledge exploration, Shopify for selling stuff online,  
+**Translation:** Vocabulary: perplexity: 困惑; shopify: 电子商务平台
+
+**[5053.04s] English:** Element for electrolytes, Finn for customer service AI agents, and Quo for a phone system.  
 **Translation:** 
 
-**[5053.04s] English:** Element for electrolytes, Finn for customer service AI agents, and Quo for a phone system  
-**Translation:** 
-
-**[5060.18s] English:** like calls, texts, contacts for your business.  
+**[5060.18s] English:** Like calls, texts, and contacts for your business.  
 **Translation:** 
 
 **[5063.86s] English:** Choose wisely, my friends.  
@@ -3305,9 +3306,9 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **Translation:** 
 
 **[5076.00s] English:** Let's ask it this way.  
-**Translation:** Vocabulary: trillion: 万亿
+**Translation:** Vocabulary: trillion: 兆
 
-**[5077.84s] English:** What does the future of the world look like where that's true?  
+**[5077.84s] English:** What does the future of the world look like if that's true?  
 **Translation:** 
 
 **[5084.80s] English:** I think that NVIDIA's growth is extremely likely, and in my mind, inevitable.  
@@ -3319,17 +3320,17 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5096.64s] English:** We're the largest computer company in history.  
 **Translation:** 
 
-**[5100.00s] English:** That alone should beg the question, why?  
+**[5100.00s] English:** That alone should beg the question: why?  
 **Translation:** 
 
-**[5104.24s] English:** And the reason, of course, two reasons.  
+**[5104.24s] English:** And the reason, of course—two reasons.  
 **Translation:** 
 
-**[5106.78s] English:** First, two foundational technical reasons.  
+**[5106.78s] English:** First, two foundational technical reasons:  
 **Translation:** 
 
-**[5110.46s] English:** The first reason is that computing went from being a retrieval-based, file retrieval system.  
-**Translation:** 
+**[5110.46s] English:** The first reason is that computing went from being a retrieval-based, file-retrieval system.  
+**Translation:** Vocabulary: computing: 计算; foundational: 基础的
 
 **[5117.06s] English:** Almost everything is a file.  
 **Translation:** 
@@ -3349,29 +3350,29 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5124.72s] English:** We put it in a file.  
 **Translation:** 
 
-**[5125.32s] English:** And we use a recommender system, some smart filter,  
+**[5125.32s] English:** And we use a recommender system, some smart filter.  
 **Translation:** 
 
-**[5129.12s] English:** to figure out.  
+**[5129.12s] English:** To figure it out.  
 **Translation:** Vocabulary: recommender: 推荐系统
 
-**[5130.10s] English:** What to retrieve for you.  
+**[5130.10s] English:** What to retrieve for you?  
 **Translation:** 
 
-**[5131.50s] English:** And so we were a pre-recording, human pre-recording, and file retrieving system.  
-**Translation:** Vocabulary: retrieve: 找回; retrieving: 正在找回
+**[5131.50s] English:** And so we were a pre-recording, human-pre recording, and file-retrieving system.  
+**Translation:** Vocabulary: retrieve: 找回
 
 **[5136.60s] English:** That's what a computer is, largely.  
 **Translation:** 
 
-**[5139.38s] English:** To now, AI computers are contextually aware,  
+**[5139.38s] English:** To now, AI computers are contextually aware.  
 **Translation:** 
 
-**[5143.42s] English:** which means that it has to process and generate tokens in real time.  
+**[5143.42s] English:** Which means that it has to process and generate tokens in real time.  
 **Translation:** 
 
-**[5147.28s] English:** So we went from a retrieval-based computing system to a generative-based computing system.  
-**Translation:** Vocabulary: computing: 计算
+**[5147.28s] English:** So, we went from a retrieval-based computing system to a generative-based computing system.  
+**Translation:** 
 
 **[5153.50s] English:** We're going to need a lot more processing in this new world than in the old world.  
 **Translation:** 
@@ -3379,112 +3380,112 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5157.82s] English:** We need a lot of storage in the old world.  
 **Translation:** 
 
-**[5160.00s] English:** old world we need a lot of computation in this new world and so so that's that's the first part  
+**[5160.00s] English:** In the old world, we needed a lot of computation, but in this new world, we need even more, and so that's the first part.  
 **Translation:** 
 
-**[5167.40s] English:** of it we fundamentally changed computing in the way how computing is done the only thing that  
+**[5167.40s] English:** Of it, we fundamentally changed computing in the way it is done. The only thing that,...  
 **Translation:** Vocabulary: computation: 计算; fundamentally: 根本上
 
-**[5173.00s] English:** would cause it to go back is if this way of computation this way of computing generating  
+**[5173.00s] English:** Would cause it to go back is if this way of computation, this way of computing, generating.  
 **Translation:** 
 
-**[5179.52s] English:** information that's contextually relevant situationally aware that is grounded on new  
+**[5179.52s] English:** Information that is contextually relevant, situationally aware, and grounded in new data.  
 **Translation:** Vocabulary: situationally: 情境地
 
-**[5186.40s] English:** insight before it generates information this computation intensive way of doing computing  
+**[5186.40s] English:** Insight before it generates information in this computation-intensive way of doing computing.  
 **Translation:** 
 
-**[5192.36s] English:** would only go back if it's not effective so for the last 10-15 years while working on deep learning  
+**[5192.36s] English:** Would only go back if it's not effective, so for the last 10-15 years, while working on deep learning.  
+**Translation:** Vocabulary: computing: 计算; generates: 生成
+
+**[5200.06s] English:** If, at any single moment, I would have come to the conclusion that, you know, what this is not,...  
 **Translation:** 
 
-**[5200.06s] English:** if at any single moment i would have come to the conclusion that that you know what this is not  
+**[5207.70s] English:** Going to work out, I think this is a dead end, or it's not going to scale; it's not going to solve.  
 **Translation:** 
 
-**[5207.70s] English:** going to work out i think this is a dead end or it's not going to scale it's not going to solve  
+**[5212.00s] English:** This modality is not going to be used in this application, then of course I would feel very  
 **Translation:** 
 
-**[5212.00s] English:** this modality not going to be used in this application then of course i would feel very  
+**[5216.26s] English:** Different.  
+**Translation:** Vocabulary: modality: 方式
+
+**[5216.40s] English:** About it, but I think the last five years have given me more confidence than the last ten years.  
 **Translation:** 
 
-**[5216.26s] English:** different  
-**Translation:** Vocabulary: modality: 治疗方式
-
-**[5216.40s] English:** about it but i think the last five years has given me more confidence than the last 10 years  
+**[5223.62s] English:** The previous 10 years, the second idea is computers because it was a storage system.  
 **Translation:** 
 
-**[5223.62s] English:** the previous 10 years the second idea is computers because it was a storage system  
+**[5229.70s] English:** It was largely a warehouse, and we're now building factories; warehouses don't make much money.  
 **Translation:** 
 
-**[5229.70s] English:** it was largely a warehouse we're now building factories warehouses don't make much money  
+**[5238.58s] English:** Factories directly correlate with a company's revenues.  
+**Translation:** Vocabulary: correlate: 相关; revenues: 收入; warehouse: 仓库; warehouses: 仓库
+
+**[5244.10s] English:** And so  
 **Translation:** 
 
-**[5238.58s] English:** factories directly correlates with a company's revenues  
-**Translation:** Vocabulary: correlates: 相关联; revenues: 收入; warehouses: 仓库
+**[5246.40s] English:** The computer did two things: not only did it change the way it did it, but its purpose in the world also shifted.  
+**Translation:** Vocabulary: shifted: 改变
 
-**[5244.10s] English:** and so  
+**[5255.08s] English:** Changed, it's no longer a computer; it's a factory. It's used for generating revenues.  
 **Translation:** 
 
-**[5246.40s] English:** the computer did two things not only did it change the way it did it its purpose in the world  
+**[5262.86s] English:** We're now seeing not only is this factory generating products and commodities that people  
 **Translation:** 
 
-**[5255.08s] English:** changed it's no longer a computer it's a factory it's a factory is used for generation of revenues  
+**[5271.04s] English:** We want to consume, and we're seeing that the commodities are so interesting.  
 **Translation:** 
 
-**[5262.86s] English:** we're now seeing not only is this factory generating products commodities that people  
+**[5276.26s] English:** Valuable to so many different audiences.  
 **Translation:** 
 
-**[5271.04s] English:** want to consume we're seeing that the commodities are so interesting so  
+**[5280.00s] English:** That the tokens are starting to segment, like iPhones.  
 **Translation:** 
 
-**[5276.26s] English:** valuable so to so many different audiences  
+**[5283.66s] English:** You have free tokens, you have premium tokens.  
+**Translation:** Vocabulary: premium: 高级的; segment: 划分
+
+**[5287.88s] English:** And you have several tokens in the middle.  
 **Translation:** 
 
-**[5280.00s] English:** that the tokens are starting to segment, like iPhones.  
+**[5290.26s] English:** And so, intelligence, as it turns out,  
 **Translation:** 
 
-**[5283.66s] English:** You have free tokens, you have premium tokens,  
-**Translation:** Vocabulary: premium: 高级的
-
-**[5287.88s] English:** and you have several tokens in the middle.  
+**[5293.42s] English:** You know, it's a scalable product.  
 **Translation:** 
 
-**[5290.26s] English:** And so intelligence, as it turns out,  
-**Translation:** 
-
-**[5293.42s] English:** you know, it's a scalable product.  
-**Translation:** 
-
-**[5295.40s] English:** There's extremely high intelligence products,  
+**[5295.40s] English:** There's extremely high-intelligence products,  
 **Translation:** Vocabulary: scalable: 可扩展的
 
-**[5297.84s] English:** tokens that are used for specialized things.  
+**[5297.84s] English:** Tokens that are used for specialized things.  
 **Translation:** 
 
 **[5300.60s] English:** People will be willing to pay, you know,  
 **Translation:** 
 
-**[5302.76s] English:** the idea that somebody's willing to pay  
+**[5302.76s] English:** The idea that somebody's willing to pay  
 **Translation:** 
 
 **[5304.74s] English:** $1,000 per million tokens is just around the corner.  
 **Translation:** 
 
-**[5309.70s] English:** It's not if, it's only when.  
+**[5309.70s] English:** It's not if, but only when.  
 **Translation:** 
 
-**[5312.44s] English:** And so now we're seeing that the commodity  
+**[5312.44s] English:** And so, now we're seeing that the commodity  
 **Translation:** Vocabulary: commodity: 商品
 
-**[5316.32s] English:** that this factory makes is actually valuable  
+**[5316.32s] English:** That what this factory makes is actually valuable.  
 **Translation:** 
 
-**[5319.12s] English:** and is revenue generating and profit generating.  
+**[5319.12s] English:** And it is revenue-generating and profit-generating.  
 **Translation:** 
 
-**[5322.40s] English:** Now the question is, how many of these factories  
+**[5322.40s] English:** Now, the question is: How many of these factories?  
 **Translation:** 
 
-**[5324.84s] English:** does the world need?  
+**[5324.84s] English:** Does the world need something in particular?  
 **Translation:** 
 
 **[5327.90s] English:** How many tokens does the world need?  
@@ -3493,58 +3494,58 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5331.98s] English:** And how much is society willing to pay for these tokens?  
 **Translation:** 
 
-**[5338.88s] English:** And...  
+**[5338.88s] English:** And,...  
 **Translation:** 
 
-**[5339.70s] English:** What would happen to the world's economy  
+**[5339.70s] English:** What would happen to the world's economy?  
 **Translation:** 
 
-**[5341.82s] English:** if the productivity were to improve so substantially?  
+**[5341.82s] English:** If productivity were to improve so substantially?  
 **Translation:** 
 
 **[5346.82s] English:** What would happen?  
 **Translation:** 
 
-**[5348.48s] English:** Are we going to discover new drugs, new products, new services?  
+**[5348.48s] English:** Are we going to discover new drugs, new products, or new services?  
 **Translation:** 
 
-**[5352.44s] English:** And so when you take these things in combination,  
+**[5352.44s] English:** And so, when you take these things in combination,  
 **Translation:** 
 
-**[5355.64s] English:** I am absolutely certain  
+**[5355.64s] English:** I am absolutely certain.  
 **Translation:** 
 
-**[5357.06s] English:** that the world's GDP is going to accelerate in growth.  
+**[5357.06s] English:** That the world's GDP is going to accelerate in growth.  
+**Translation:** Vocabulary: accelerate: 加快
+
+**[5362.12s] English:** I'm absolutely certain the percentage of that GDP.  
 **Translation:** 
 
-**[5362.12s] English:** I'm absolutely certain the percentage of that GDP  
-**Translation:** 
-
-**[5366.56s] English:** that will be used for computation,  
+**[5366.56s] English:** That will be used for computation.  
 **Translation:** Vocabulary: computation: 计算
 
-**[5369.70s] English:** will be a hundred times more than the past  
+**[5369.70s] English:** There will be a hundred times more than in the past.  
 **Translation:** 
 
-**[5372.52s] English:** because it's no longer a storage unit.  
+**[5372.52s] English:** Because it's no longer a storage unit.  
 **Translation:** 
 
 **[5375.60s] English:** It's a product generation unit.  
 **Translation:** 
 
-**[5378.48s] English:** And so when you look at it in that context,  
+**[5378.48s] English:** And so, when you look at it in that context,  
 **Translation:** 
 
-**[5381.78s] English:** and then you back into what is NVIDIA's,  
+**[5381.78s] English:** And then you back into what is NVIDIA's.  
 **Translation:** 
 
-**[5385.18s] English:** what does NVIDIA do?  
+**[5385.18s] English:** What does NVIDIA do?  
 **Translation:** 
 
-**[5387.78s] English:** And how much of that new economics, new industry,  
+**[5387.78s] English:** And how much of that new economics and new industry,  
 **Translation:** 
 
-**[5393.28s] English:** would we have to benefit to address?  
+**[5393.28s] English:** Would we have to benefit to address?  
 **Translation:** 
 
 **[5396.24s] English:** I think we're going to be a lot, lot bigger.  
@@ -3553,127 +3554,127 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5398.46s] English:** And then the rest of it,  
 **Translation:** 
 
-**[5399.62s] English:** we're going to be a lot bigger.  
+**[5399.62s] English:** We're going to be a lot bigger.  
 **Translation:** 
 
-**[5400.00s] English:** To me, is it possible for NVIDIA to be a $3 trillion revenues company in the near future?  
-**Translation:** Vocabulary: revenues: 收入; trillion: 万亿
+**[5400.00s] English:** To me, is it possible for NVIDIA to be a $3 trillion revenue company in the near future?  
+**Translation:** Vocabulary: trillion: 万亿
 
 **[5408.56s] English:** The answer is, of course, yes.  
 **Translation:** 
 
-**[5410.20s] English:** And the reason for that is because it's not limited by any physical limits.  
+**[5410.20s] English:** And the reason for that is because it's not limited by any physical constraints.  
+**Translation:** Vocabulary: constraints: 限制
+
+**[5415.20s] English:** There's nothing that I see that says, "Gosh, $3 trillion is not possible.  
 **Translation:** 
 
-**[5415.20s] English:** There's nothing that I see that says, gosh, $3 trillion is not possible.  
+**[5421.22s] English:** And, as it turns out, the burden of NVIDIA's supply chain is shared by 200 companies.  
+**Translation:** Vocabulary: burden: 负担
+
+**[5431.04s] English:** And the fact that we scale out on the backs of, with the partnership of this ecosystem, the question is: Do we have the energy to do so?  
 **Translation:** 
 
-**[5421.22s] English:** And as it turns out, NVIDIA supply chain is the burden is shared by 200 companies.  
+**[5441.34s] English:** And surely, we will have the energy to do so.  
 **Translation:** 
 
-**[5431.04s] English:** And the fact that we scale out on the backs of with the partnership of this ecosystem, the question is, do we have the energy to do so?  
+**[5445.16s] English:** And so, all of these things combined—that number is just a number.  
 **Translation:** 
 
-**[5441.34s] English:** And surely we will have the energy to do so.  
+**[5451.22s] English:** And I still remember that NVIDIA was the first time we crossed a billion dollars.  
 **Translation:** 
 
-**[5445.16s] English:** And so all of these things combined, that number is just a number.  
+**[5457.76s] English:** I was reminded of a CEO who told me, Jensen: It's theoretically impossible for a fabulous semiconductor company to exceed a billion dollars.  
 **Translation:** 
 
-**[5451.22s] English:** And I still remember NVIDIA was the first time we crossed a billion dollars.  
+**[5467.68s] English:** And I won't bore you with why, but of course, it's illogical, and there's a lot of evidence we're not.  
+**Translation:** Vocabulary: exceed: 超过; fabulous: 卓越的; illogical: 不合逻辑的; semiconductor: 半导体; theoretically: 理论上
+
+**[5474.74s] English:** And then somebody told me, Jensen: "You'll never be more than $25 billion.  
 **Translation:** 
 
-**[5457.76s] English:** I was reminded of a CEO who told me, Jensen, it's theoretically impossible for a fabulous semiconductor company to exceed a billion dollars.  
+**[5479.94s] English:** Because of some other company, somebody told me that you'll never be, you know, because—and then, so that those aren't principles-first reasoning.  
 **Translation:** 
 
-**[5467.68s] English:** And I won't bore you with why, but of course, it's illogical and there's a lot of evidence we're not.  
-**Translation:** Vocabulary: illogical: 不合逻辑; semiconductor: 半导体; theoretically: 理论上
-
-**[5474.74s] English:** And then somebody told me, Jensen, you'll never be more than $25 billion.  
+**[5492.18s] English:** And the simple way to think about that is: what do we make, and how large is the opportunity we can create?  
 **Translation:** 
 
-**[5479.94s] English:** Because of some other company, somebody told me that you'll never be, you know, because, and then so that those, those aren't principle first principle reason thinking.  
+**[5502.02s] English:** Now, NVIDIA is not in the market-share business.  
 **Translation:** 
 
-**[5492.18s] English:** And the simple, the simple way to think about that is what is it that we make and how large is the opportunity that we can create?  
-**Translation:** 
-
-**[5502.02s] English:** Now, NVIDIA is not in the market share business.  
-**Translation:** 
-
-**[5504.98s] English:** Almost everything that I just talked about don't exist.  
+**[5504.98s] English:** Almost everything that I just talked about doesn't exist.  
 **Translation:** 
 
 **[5508.68s] English:** That's the part that's hard.  
 **Translation:** 
 
-**[5509.94s] English:** You know, if NVIDIA was a, was a, was a $10 billion company trying to take NVIDIA share, then it's easy to see for shareholders.  
+**[5509.94s] English:** You know, if NVIDIA was a $10 billion company trying to take market share from NVIDIA, then it's easy to see for shareholders.  
 **Translation:** 
 
-**[5520.00s] English:** that, oh yeah, if they could just take 10% share, they could be this much larger. But it's hard for  
+**[5520.00s] English:** That, oh, yeah, if they could just take a 10% share, they could be much larger. But it's hard for  
 **Translation:** Vocabulary: shareholders: 股东
 
-**[5528.02s] English:** people to imagine how large we could be because there's nobody I could take share from.  
+**[5528.02s] English:** People might imagine how large we could be, because there's nobody we could take a share from.  
 **Translation:** 
 
-**[5533.78s] English:** You know? And so I think that that's one of the challenges for the world is the imagination of  
+**[5533.78s] English:** You know, and so I think that that's one of the challenges for the world is the imagination of  
 **Translation:** 
 
-**[5540.14s] English:** the future. But I got plenty of time and I'll keep reasoning about it and I'll keep talking  
+**[5540.14s] English:** The future. But I've got plenty of time, and I'll keep reasoning about it and keep talking.  
 **Translation:** 
 
-**[5544.16s] English:** about it and every single GTC will become more and more real, you know, and then more and more  
+**[5544.16s] English:** About it, and every single GTC will become more and more real, you know, and then more and more.  
 **Translation:** 
 
-**[5549.38s] English:** people talk about it in one of these days, you know, we'll get there, but I'm a hundred percent  
+**[5549.38s] English:** People talk about it in one of these days, you know. We'll get there, but I'm a hundred percent.  
 **Translation:** 
 
-**[5553.50s] English:** we'll get there. Yeah. This view of, you know, token factories, essentially this token per second  
+**[5553.50s] English:** We'll get there. Yeah. This view of, you know, token factories—essentially, this token per second.  
 **Translation:** Vocabulary: token: 代币
 
-**[5559.72s] English:** per watt and every token having value, like it's an actual thing that brings value and it brings  
+**[5559.72s] English:** Per watt, and every token having value—like it's an actual thing that brings value and it brings.  
 **Translation:** 
 
-**[5566.10s] English:** different kinds of value, different amounts of value to different people with value. That's the  
+**[5566.10s] English:** Different kinds of value, different amounts of value to different people. That's the  
 **Translation:** 
 
-**[5570.02s] English:** actual product is really can be loosely thought of as the token. And so you have a bunch of token  
+**[5570.02s] English:** The actual product can really be loosely thought of as the token. And so you have a bunch of tokens.  
 **Translation:** 
 
-**[5574.26s] English:** factors and it's very easy. First principle is to imagine a future given all the potential things  
+**[5574.26s] English:** Factors, and it's very easy. First, the principle is to imagine a future given all the potential things.  
+**Translation:** Vocabulary: loosely: 大致地
+
+**[5579.28s] English:** That AI can solve this will require an exponential number of additional token factories.  
 **Translation:** 
 
-**[5579.28s] English:** that AI can solve that you're going to need an exponential number more of token factories.  
+**[5585.16s] English:** Yeah. And what's really interesting is the reason why I was so excited about it,  
+**Translation:** Vocabulary: exponential: 成倍的
+
+**[5589.78s] English:** The iPhone of tokens arrived. What do you call it? Wait, are you saying Open Clause iPhone?  
 **Translation:** 
 
-**[5585.16s] English:** Yeah. And what's really interesting, the reason why I was so excited about it,  
-**Translation:** Vocabulary: exponential: 指数的
+**[5593.86s] English:** Yeah. That's interesting. Agents. Yeah. Agents, in general. The iPhone of tokens.  
+**Translation:** Vocabulary: clause: 条款
 
-**[5589.78s] English:** the iPhone of tokens arrived. What do you call it? Wait, are you saying open clause iPhone?  
+**[5600.68s] English:** Arrived. It is the fastest-growing application in history. It went straight up. Yeah. Went.  
 **Translation:** 
 
-**[5593.86s] English:** Yeah. That's interesting. Agents. Yeah. Agents. True. Agents in general. The iPhone of tokens  
+**[5606.02s] English:** Straight up, that says something. Yup. There's no question.  
 **Translation:** 
 
-**[5600.68s] English:** arrived. It is the fastest growing application in history. It went straight up. Yeah. Went  
+**[5609.28s] English:** Open Claw is the iPhone of tokens. Yeah. There's something truly, as you know,  
 **Translation:** 
 
-**[5606.02s] English:** straight up. That says something. Yup. There's no question.  
+**[5614.58s] English:** Something truly special was happening from about December, where people really woke up to the  
 **Translation:** 
 
-**[5609.28s] English:** Open claw is the iPhone of tokens. Yeah. There's something truly, as you know,  
+**[5620.36s] English:** The power of cloud code and Codex of Open Claw. Um, I mean, I've been embarrassed to admit that on the way.  
 **Translation:** 
 
-**[5614.58s] English:** something truly special happening from about December where people really woke up to the  
-**Translation:** 
+**[5628.28s] English:** Here at the airport, I'm doing this for the first time in public, and I was "programming," quote unquote.  
+**Translation:** Vocabulary: codex: 法典; unquote: 引号外
 
-**[5620.36s] English:** power of cloud code of codex of open claw. Um, I mean, I've embarrassed to admit that on the way  
-**Translation:** 
-
-**[5628.28s] English:** here in the airport, I'm this first time I've done this in public, I was programming quote unquote  
-**Translation:** Vocabulary: unquote: 引用结束
-
-**[5636.30s] English:** by talking.  
+**[5636.30s] English:** By talking.  
 **Translation:** 
 
 **[5637.96s] English:** Yeah.  
@@ -3683,7 +3684,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **Translation:** 
 
 **[5640.00s] English:** Because I was pretending like I'm talking to a human colleague.  
-**Translation:** Vocabulary: colleague: 同事
+**Translation:** Vocabulary: colleague: 同行
 
 **[5643.82s] English:** I'm not sure how I feel about the future where everybody is walking around talking to their AI, but it's such an efficient way to get stuff done.  
 **Translation:** 
@@ -3694,43 +3695,43 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5657.76s] English:** And the reason for that is because it's getting stuff done so fast.  
 **Translation:** 
 
-**[5661.80s] English:** It's reporting back to you, I got that done.  
+**[5661.80s] English:** It's reporting back to you; I got that done.  
 **Translation:** 
 
 **[5664.34s] English:** What do you want me to do next?  
 **Translation:** 
 
-**[5665.52s] English:** You know, that's the part that I think most people don't realize is the person who's going to be chatting with them, texting them most, is their claw, is their lobster.  
+**[5665.52s] English:** You know, that's the part that I think most people don't realize: the person who's going to be chatting with them, texting them most, is their claw, is their lobster.  
 **Translation:** Vocabulary: lobster: 龙虾
 
-**[5677.50s] English:** What an incredible future.  
+**[5677.50s] English:** What an incredible future!  
 **Translation:** 
 
 **[5679.88s] English:** I read that you attribute a lot of your success to your ability to work harder than anyone and withstand more suffering than anyone.  
 **Translation:** Vocabulary: attribute: 归因; withstand: 承受
 
-**[5686.56s] English:** So we can list many of the things that entails.  
+**[5686.56s] English:** So, we can list many of the things that entail.  
 **Translation:** 
 
-**[5690.50s] English:** I mean, dealing with failure, the cost of engineering problems we've talked about.  
-**Translation:** Vocabulary: entails: 包含
+**[5690.50s] English:** I mean, dealing with failure and the cost of engineering problems we've talked about.  
+**Translation:** Vocabulary: entail: 包含
 
-**[5695.52s] English:** The human problems, uncertainty, responsibility, exhaustion, embarrassment, the near-death company moments that you've mentioned.  
+**[5695.52s] English:** The human problems, uncertainties, responsibilities, exhaustion, embarrassment, and the near-death company moments that you've mentioned.  
 **Translation:** 
 
 **[5705.68s] English:** But also the pressure.  
-**Translation:** Vocabulary: exhaustion: 疲劳
+**Translation:** Vocabulary: exhaustion: 疲劳; uncertainties: 不确定性
 
-**[5707.52s] English:** Now as the CEO of this company that economies and nations strategize around, plan their financial allocations around, plan their AI infrastructure around.  
+**[5707.52s] English:** Now, as the CEO of this company that economies and nations strategize around, plan their financial allocations around, and plan their AI infrastructure around.  
 **Translation:** 
 
 **[5723.06s] English:** How do you deal with this much pressure?  
 **Translation:** Vocabulary: allocations: 资金分配; strategize: 制定策略
 
-**[5725.52s] English:** What gives you strength given how many nations and peoples depend on you?  
+**[5725.52s] English:** What gives you strength, given how many nations and peoples depend on you?  
 **Translation:** 
 
-**[5737.28s] English:** I'm conscious about the fact that NVIDIA's success is very important to the United States.  
+**[5737.28s] English:** I'm conscious of the fact that NVIDIA's success is very important to the United States.  
 **Translation:** 
 
 **[5746.70s] English:** We generate enormous amounts of tax revenues.  
@@ -3745,55 +3746,55 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5755.52s] English:** It's important for national security.  
 **Translation:** 
 
-**[5757.32s] English:** National security not just in one aspect.  
+**[5757.32s] English:** National security is not just in one aspect.  
 **Translation:** 
 
-**[5760.00s] English:** of national security, all aspects of national security. When our country is more prosperous,  
+**[5760.00s] English:** Of national security, all aspects of national security. When our country is more prosperous,  
+**Translation:** Vocabulary: prosperous: 繁荣昌盛
+
+**[5765.28s] English:** We could do a better job with domestic policies and helping social benefits. Because we're  
 **Translation:** 
 
-**[5765.28s] English:** we could do a better job with domestic policies and helping social benefits. Because we're  
+**[5771.74s] English:** Generating so much re-industrialization in the United States, we're creating mountains of jobs.  
 **Translation:** 
 
-**[5771.74s] English:** generating so much re-industrialization in the United States, we're creating mountains of jobs.  
+**[5777.42s] English:** We're helping shift how we build things back to the United States in so many different plants.  
 **Translation:** 
 
-**[5777.42s] English:** We're helping shift how we build things back to the United States in so many different plants,  
+**[5787.84s] English:** Chips, computers, and, of course, these manufacturing facilities. I'm completely aware.  
 **Translation:** 
 
-**[5787.84s] English:** chips, computers, and of course, these manufactories. I'm completely aware  
-**Translation:** Vocabulary: manufactories: 工厂
-
-**[5793.68s] English:** and I have the benefit, and this is a real gift with mainstream investors,  
+**[5793.68s] English:** And I have the benefit, and this is a real gift for mainstream investors.  
 **Translation:** 
 
-**[5805.54s] English:** teachers, policemen who have somehow, for whatever reason, invested in NVIDIA or because they watched  
+**[5805.54s] English:** Teachers, policemen who have somehow, for whatever reason, invested in NVIDIA, or because they watched,  
 **Translation:** 
 
-**[5812.98s] English:** Jim Cramer, bought some stock and now are millionaires.  
+**[5812.98s] English:** Jim Cramer bought some stock and now they are millionaires.  
 **Translation:** 
 
 **[5817.84s] English:** And I am completely aware of that circumstance. I'm aware of the circumstance that NVIDIA  
-**Translation:** Vocabulary: circumstance: 情况; millionaires: 百万富翁
+**Translation:** Vocabulary: circumstance: 情况; cramer: 吉姆·克ramer; millionaires: 百万富翁
 
-**[5826.64s] English:** is central to a very large network of ecosystem partners behind us and downstream from us.  
+**[5826.64s] English:** Is central to a very large network of ecosystem partners behind us and downstream from us.  
 **Translation:** 
 
-**[5836.74s] English:** And so the way I deal with that is exactly what I just did. I reasoned about  
+**[5836.74s] English:** And so, the way I deal with that is exactly what I just did. I reasoned about  
+**Translation:** Vocabulary: downstream: 下游的
+
+**[5842.94s] English:** What is it that we're doing? What is it causing?  
 **Translation:** 
 
-**[5842.94s] English:** what is it that we're doing? What is it causing?  
+**[5847.84s] English:** What's the impact that has on other people, positively or even through a great burden?  
+**Translation:** Vocabulary: burden: 负担
+
+**[5855.84s] English:** For example, to address the supply chain? And the question is, therefore, what are you going to do about it?  
 **Translation:** 
 
-**[5847.84s] English:** What's the impact that has on other people positively or even through great burden,  
+**[5864.42s] English:** In almost everything that I feel, I break it down. I reason about: okay,  
 **Translation:** 
 
-**[5855.84s] English:** for example, to supply chain? And the question is, therefore, what are you going to do about it?  
-**Translation:** 
-
-**[5864.42s] English:** In almost everything that I feel, I break it down. I reason about, okay,  
-**Translation:** 
-
-**[5870.16s] English:** what's the circumstance? What has changed? What's hard? And what am I going to do about it?  
+**[5870.16s] English:** What's the circumstance? What has changed? What's hard? And what am I going to do about it?  
 **Translation:** 
 
 **[5876.14s] English:** And I break it down.  
@@ -3805,16 +3806,16 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5880.00s] English:** And the decomposition of these circumstances turns it into manageable things that I can do.  
 **Translation:** Vocabulary: decompose: 分解; decomposition: 分解
 
-**[5889.88s] English:** And the only thing that I, after that, I could do is, did you do it?  
+**[5889.88s] English:** And the only thing that I could do after that was ask, "Did you do it?  
 **Translation:** 
 
-**[5893.90s] English:** Did you either do it or did you get somebody else to do it?  
+**[5893.90s] English:** Did you do it, or did you get somebody else to do it?  
 **Translation:** 
 
-**[5897.06s] English:** And if you didn't do it, you reasoned that you need to do it and you didn't do it and you didn't get anybody else to do it, then stop crying about it, you know?  
+**[5897.06s] English:** And if you didn't do it, you reasoned that you needed to do it and you didn't do it, and you didn't get anybody else to do it, then stop crying about it, you know?  
 **Translation:** 
 
-**[5905.58s] English:** And so I'm fairly tough on myself.  
+**[5905.58s] English:** And so, I'm fairly tough on myself.  
 **Translation:** 
 
 **[5913.02s] English:** But I also break things down so that I don't panic.  
@@ -3823,28 +3824,28 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5918.54s] English:** I can go to sleep because I've made the list of things that needed to be done.  
 **Translation:** 
 
-**[5923.24s] English:** And I've made sure that everything that could put our company in harm's way, could put my partners in harm's way, put our industry in harm's way, I've told somebody.  
+**[5923.24s] English:** And I've made sure that everything that could put our company in harm's way, or my partners' or our industry's as well, I've told somebody.  
 **Translation:** 
 
 **[5934.04s] English:** Everything that I feel.  
 **Translation:** 
 
-**[5935.58s] English:** Could put anybody in harm's way, I've told someone.  
+**[5935.58s] English:** Could put anybody in harm's way; I've told someone.  
 **Translation:** 
 
-**[5940.18s] English:** And I've told that someone who could do something about it.  
+**[5940.18s] English:** And I've told someone who could do something about it.  
 **Translation:** 
 
-**[5943.42s] English:** And so I've gotten it off my chest.  
+**[5943.42s] English:** And so, I've gotten it off my chest.  
 **Translation:** 
 
-**[5945.16s] English:** Or I'm doing something about it.  
+**[5945.16s] English:** Or, I'm doing something about it.  
 **Translation:** 
 
 **[5947.32s] English:** And so after that, Lex, what else can you do?  
 **Translation:** 
 
-**[5950.54s] English:** So given all the insane, intense amount of suffering on the journey of building up NVIDIA, have you hit low points psychologically?  
+**[5950.54s] English:** So, given all the insane, intense amount of suffering on the journey of building up NVIDIA, have you hit low points psychologically?  
 **Translation:** Vocabulary: psychologically: 心理上
 
 **[5962.26s] English:** Oh, yeah.  
@@ -3871,7 +3872,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5971.82s] English:** See what you can do about it.  
 **Translation:** 
 
-**[5973.76s] English:** And part of, you know, Lex, part of it is forgetting.  
+**[5973.76s] English:** And part of it, Lex, is forgetting.  
 **Translation:** 
 
 **[5978.68s] English:** One of the most important attributes of AI learning, as you know, is systematic forgetting.  
@@ -3892,8 +3893,8 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5993.40s] English:** One of the things that I do very quickly.  
 **Translation:** 
 
-**[5994.90s] English:** One of the things that I do very quickly is I decompose the problem.  
-**Translation:** 
+**[5994.90s] English:** One of the things that I do very quickly is to decompose the problem.  
+**Translation:** Vocabulary: decompose: 分解
 
 **[5996.76s] English:** I reason about the problem.  
 **Translation:** 
@@ -3904,310 +3905,310 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[5999.72s] English:** When I say.  
 **Translation:** 
 
-**[6000.00s] English:** I tell everybody, I'm essentially sharing that burden as quickly as possible. Whatever worries  
+**[6000.00s] English:** I tell everybody: I'm essentially sharing that burden as quickly as possible. Whatever worries,...  
+**Translation:** Vocabulary: burden: 负担
+
+**[6007.14s] English:** Me, tell somebody else; don't just keep it to yourself, you know, don't let it decompose, and don't freak them out.  
 **Translation:** 
 
-**[6007.14s] English:** me, tell somebody else, don't just keep it, you know, decompose, don't, don't freak them out,  
+**[6013.02s] English:** Decompose the problem into smaller parts and get people to do it, and inspire them to be able to go do it.  
 **Translation:** 
 
-**[6013.02s] English:** decompose the problem into smaller parts and get people to, and inspire them to be able to go do  
-**Translation:** Vocabulary: decompose: 分解
-
-**[6019.66s] English:** something about it. But part of it is just, just forgetting, you know, I, a lot of it is you got  
+**[6019.66s] English:** Something about it, but part of it is just forgetting, you know. A lot of it is you've got  
 **Translation:** 
 
-**[6025.64s] English:** to be tough on yourself, you know, just come on, stop crying about it. Let's get going, you know,  
+**[6025.64s] English:** To be tough on yourself, you know, just come on; stop crying about it. Let's get going, you know.  
 **Translation:** 
 
-**[6030.26s] English:** and then you get out of bed. And then the other part is, is, um, you, you, you're attracted to  
+**[6030.26s] English:** And then you get out of bed. And then the other part is that you're attracted to  
 **Translation:** 
 
-**[6036.12s] English:** the next shiny light, the next future, you know, the next opportunity, the next, okay, that's  
+**[6036.12s] English:** The next shiny light, the next future, the next opportunity—okay, that's  
 **Translation:** 
 
-**[6041.08s] English:** behind us. What's next? And it's a lot, I think, you know, you watch this with great athletes,  
+**[6041.08s] English:** Behind us, what's next? And it's a lot, I think. You know, you watch this with great athletes,...  
 **Translation:** 
 
-**[6046.56s] English:** they, they just worry about the next point. The last point is behind them, the embarrassment,  
+**[6046.56s] English:** They just worry about the next point. The last point is behind them, and the embarrassment.  
 **Translation:** 
 
-**[6054.16s] English:** the, you know,  
+**[6054.16s] English:** The, you know,  
 **Translation:** 
 
-**[6055.64s] English:** you know, and then, and because I do so much of my job publicly, you know, Lex, you do a fair  
+**[6055.64s] English:** You know, and then, and because I do so much of my job publicly, Lex, you do a fair  
 **Translation:** 
 
-**[6062.82s] English:** amount of your job publicly too. And so, so I do a lot of my job publicly. And so, um, you know,  
+**[6062.82s] English:** Amount of my job is publicly visible. And so, I do a lot of my job publicly. And so, um, you know,  
 **Translation:** 
 
-**[6068.38s] English:** I, I say a lot of things that, that seem sensible at the time or funny at the time, mostly it's  
-**Translation:** Vocabulary: sensible: 合乎情理
+**[6068.38s] English:** I say a lot of things that seem sensible or funny at the time. Mostly, it's  
+**Translation:** Vocabulary: sensible: 合乎情理的
 
-**[6073.80s] English:** just because it's funny to me at the time. And then, you know, you reflect on it, it's less  
+**[6073.80s] English:** Just because it's funny to me at the time. And then, you know, you reflect on it; it's less.  
 **Translation:** 
 
-**[6077.92s] English:** funny, but, but yeah, no, trust me. I know, but you basically allow yourself to be pulled by  
+**[6077.92s] English:** Funny, but, yeah, no, trust me—I know. But you basically allow yourself to be pulled by  
 **Translation:** 
 
-**[6084.76s] English:** the light of the moment.  
+**[6084.76s] English:** The light of the moment.  
 **Translation:** 
 
-**[6085.64s] English:** of the future. Forget the past and just keep, keep, keep working towards that. I mean, you did  
+**[6085.64s] English:** Of the future. Forget the past and just keep, keep, keep working towards that. I mean, you did.  
 **Translation:** 
 
-**[6090.62s] English:** say there's this kind of famous thing. You said that, um, if you knew how hard it would be to  
+**[6090.62s] English:** Say there's this kind of famous thing. You said that, if you knew how hard it would be to  
 **Translation:** 
 
-**[6098.14s] English:** build NVIDIA, uh, it turned out to be, what is it? A million times more hard than you anticipated  
+**[6098.14s] English:** Build NVIDIA; uh, it turned out to be a million times harder than you anticipated.  
 **Translation:** 
 
-**[6104.56s] English:** that you wouldn't do it. Um, but it isn't, you know, when I hear that, that's probably true  
+**[6104.56s] English:** That you wouldn't do it. Um, but it isn't, you know, when I hear that, that's probably true.  
 **Translation:** 
 
-**[6112.02s] English:** about everything worth doing, right?  
+**[6112.02s] English:** About everything worth doing, right?  
 **Translation:** 
 
 **[6113.68s] English:** Exactly.  
 **Translation:** 
 
-**[6115.64s] English:** Because by the way, what I was trying to explain is that there's a, there's a,  
+**[6115.64s] English:** Because, by the way, what I was trying to explain is that there's a, there's a,  
 **Translation:** 
 
-**[6120.00s] English:** incredible superpower of being um being being uh have the mind of a child yeah you know and i say  
+**[6120.00s] English:** Incredible superpower of being, um, having the mind of a child, yeah. You know, and I say,...  
 **Translation:** 
 
-**[6128.76s] English:** to myself oftentimes when i look at something and and almost almost everything um my first  
+**[6128.76s] English:** To myself, oftentimes when I look at something—and almost everything—my first  
 **Translation:** Vocabulary: oftentimes: 经常; superpower: 超能力
 
-**[6136.54s] English:** thought is how hard can it be you know and so and so you get yourself into that mode how hard could  
+**[6136.54s] English:** Thought is, how hard can it be? You know, and so on, and so on. You get yourself into that mode: How hard could it be?  
 **Translation:** 
 
-**[6143.34s] English:** it be and and nobody's ever done it it looks gigantic it's going to cost hundreds of billions  
+**[6143.34s] English:** It would be, and nobody's ever done it before. It looks gigantic, and it's going to cost hundreds of billions.  
 **Translation:** Vocabulary: gigantic: 巨大的
 
-**[6150.18s] English:** of dollars it's going to take you know all this and you just go yeah but how hard could it be  
+**[6150.18s] English:** Of dollars, it's going to take you know, all this, and you just go, "Yeah, but how hard could it be?  
 **Translation:** 
 
-**[6154.84s] English:** you know yeah how hard could it be yeah and and so so you got to get yourself into that state of  
+**[6154.84s] English:** You know, yeah, how hard could it be? Yeah, and so you've got to get yourself into that state of...  
 **Translation:** 
 
-**[6160.00s] English:** mind you don't want to you don't want to actually over simulate everything and all the setbacks and  
+**[6160.00s] English:** Mind, you don't want to actually over-simulate everything and all the setbacks.  
 **Translation:** 
 
-**[6167.00s] English:** all the trials and tribulations and all the disappointments you don't want to simulate all  
+**[6167.00s] English:** All the trials and tribulations, and all the disappointments — you don't want to simulate all.  
 **Translation:** Vocabulary: disappointments: 失望; setbacks: 挫折; simulate: 模拟; tribulations: 磨难
 
-**[6170.86s] English:** that in advance you don't want to know that you don't you don't want to know that you don't want  
+**[6170.86s] English:** That in advance, you don't want to know; you don't want to know that you don't want.  
 **Translation:** 
 
-**[6173.32s] English:** want to go into a new experience thinking it's going to be perfect. It's going to be great.  
+**[6173.32s] English:** Want to go into a new experience thinking it's going to be perfect. It's going to be great.  
 **Translation:** 
 
-**[6177.86s] English:** It's going to be incredibly fun. And then while you're there, you need to have endurance. You  
+**[6177.86s] English:** It's going to be incredibly fun. And then, while you're there, you need to have endurance. You  
 **Translation:** 
 
-**[6184.50s] English:** need to have grit so that when the setbacks actually happened, and those setbacks are  
+**[6184.50s] English:** Need to have grit so that when the setbacks actually happen, and those setbacks are  
 **Translation:** Vocabulary: endurance: 毅力
 
-**[6189.52s] English:** going to surprise you, the disappointments aren't going to surprise you, the embarrassments are  
+**[6189.52s] English:** Going to surprise you, the disappointments aren't going to surprise you, the embarrassments are.  
 **Translation:** 
 
-**[6194.66s] English:** going to surprise you, the humiliations are going to surprise you. Now you just got to turn on the  
+**[6194.66s] English:** Going to surprise you: the humiliations are going to surprise you. Now you just have to turn on the  
 **Translation:** Vocabulary: embarrassments: 尴尬; humiliations: 羞辱
 
-**[6200.58s] English:** other bit, which is just forget about it. Move on. Keep moving. And to the extent that  
+**[6200.58s] English:** Other bit, which is just forget about it. Move on. Keep moving. And to the extent that,...  
 **Translation:** 
 
-**[6205.78s] English:** my assumptions about the future and why the future is going to manifest,  
+**[6205.78s] English:** My assumptions about the future, and why the future is going to manifest.  
 **Translation:** Vocabulary: assumptions: 假设; manifest: 显现
 
-**[6215.66s] English:** so long as those assumptions and that input doesn't change or didn't change materially,  
+**[6215.66s] English:** So long as those assumptions and inputs don't change or didn't change materially,  
 **Translation:** 
 
-**[6222.56s] English:** then I should expect that the output won't change. And so my simulated output of the future  
-**Translation:** Vocabulary: simulated: 模拟
+**[6222.56s] English:** Then, I should expect that the output won't change. And so, my simulated output of the future.  
+**Translation:** Vocabulary: inputs: 输入; materially: 实质上; simulated: 模拟的
 
-**[6228.74s] English:** is still going to happen.  
+**[6228.74s] English:** Is still going to happen.  
 **Translation:** 
 
 **[6230.58s] English:** And if it's still going to happen, I'm still going to go after it. I believe it's going to,  
 **Translation:** 
 
-**[6235.22s] English:** you know, and so there's a combination of two or three human characteristics.  
+**[6235.22s] English:** You know, and so there's a combination of two or three human characteristics.  
 **Translation:** 
 
-**[6240.00s] English:** the ability to go into a into an experience fresh-minded the ability to forget the setbacks  
+**[6240.00s] English:** The ability to go into an experience fresh-minded, the ability to forget the setbacks.  
+**Translation:** Vocabulary: characteristics: 性格特质
+
+**[6247.28s] English:** The ability to believe in yourself, you know, to believe what you believe and stay  
 **Translation:** 
 
-**[6247.28s] English:** the ability to believe in yourself you know to believe what you believe and stay  
+**[6253.62s] English:** Stay true to that belief, um, but you're constantly re-evaluating this combination of  
 **Translation:** 
 
-**[6253.62s] English:** stay true to that belief um but you're constantly re-evaluating this combination of  
+**[6261.20s] English:** Three, four, and five things I think are really important for resilience, and um,...  
 **Translation:** 
 
-**[6261.20s] English:** three four five things i think is is really important for resilience and and um  
-**Translation:** 
-
-**[6268.64s] English:** and you know i i'm fortunate that that whatever whatever life experience has led to this i've got  
+**[6268.64s] English:** And you know, I'm fortunate that whatever life experiences have led me to this point.  
 **Translation:** Vocabulary: resilience: 韧性
 
-**[6275.60s] English:** kind of those four or five things you know i'm always curious always learning i'm always learning  
+**[6275.60s] English:** Kind of, those four or five things. You know, I'm always curious and always learning.  
 **Translation:** 
 
-**[6281.22s] English:** from everybody you know i'm always asking what and because i'm humble about about about everything  
+**[6281.22s] English:** From everybody, I'm always asking "what," and because I'm humble about everything.  
+**Translation:** Vocabulary: humble: 谦逊
+
+**[6286.94s] English:** I'm always thinking, "Gosh, they did that so nicely; they did that so wonderfully, you know. I wonder...  
 **Translation:** 
 
-**[6286.94s] English:** i'm always thinking gosh they did that so nicely they did that so wonderfully you know i wonder  
+**[6293.30s] English:** What they're thinking through: how do they, you know? So I'm simulating everyone in a lot of ways.  
+**Translation:** Vocabulary: nicely: 做得很好; simulating: 模拟
+
+**[6298.64s] English:** You know, emulating almost everyone I watch; you're so empathetic, right?  
 **Translation:** 
 
-**[6293.30s] English:** what they're thinking through how do they you know so i'm simulating everybody in a lot of ways  
-**Translation:** Vocabulary: simulating: 模拟
+**[6303.02s] English:** Towards everything they do that you're observing, and respect and  
+**Translation:** Vocabulary: empathetic: 共情的; emulating: 模仿
 
-**[6298.64s] English:** you know emulating almost everybody i watch right you're you're empathetic towards  
+**[6306.96s] English:** And so, you're constantly learning, and you know you're now one of the wealthiest people on Earth.  
 **Translation:** 
 
-**[6303.02s] English:** towards everything that they do that that you're observing and respect and  
-**Translation:** Vocabulary: empathetic: 感同身受; emulating: 模仿
-
-**[6306.96s] English:** and so you you're constantly learning and you know you're now one of the wealthiest people on earth  
-**Translation:** 
-
-**[6314.22s] English:** one of the most successful humans on earth is it harder to be humble and to be able to  
+**[6314.22s] English:** One of the most successful humans on Earth is it harder to be humble and to be able to  
 **Translation:** Vocabulary: wealthiest: 最富有的人
 
-**[6320.88s] English:** do you feel the effect of money and power and fame in making it harder for you to  
+**[6320.88s] English:** Do you feel the effect of money, power, and fame making it harder for you to  
 **Translation:** 
 
-**[6328.64s] English:** sort of be wrong in your own head enough to  
+**[6328.64s] English:** Sort of be wrong in your own head enough to.  
 **Translation:** 
 
-**[6334.00s] English:** hear out an opinion of somebody else when it disagrees with you and learn from them  
+**[6334.00s] English:** Hear out an opinion of somebody else when it disagrees with you, and learn from them.  
 **Translation:** 
 
-**[6337.84s] English:** those kinds of things um surprisingly no and and i would i would actually go the other way  
+**[6337.84s] English:** Those kinds of things, um, surprisingly, no, and I would actually go the other way.  
 **Translation:** 
 
-**[6346.40s] English:** because i do so much of my work publicly when i'm wrong pretty much everybody sees it  
+**[6346.40s] English:** Because I do so much of my work publicly, when I'm wrong, pretty much everybody sees it.  
 **Translation:** 
 
-**[6353.52s] English:** you get humbled yeah and and uh and when i'm wrong when i'm wrong or  
+**[6353.52s] English:** You get humbled, yeah, and when I'm wrong, or  
 **Translation:** 
 
-**[6358.64s] English:** when things didn't turn out that way or  
+**[6358.64s] English:** When things didn't turn out that way, or  
 **Translation:** 
 
-**[6360.00s] English:** um you know i mean most of the things that that i say outside um i'm fairly certain about and the  
+**[6360.00s] English:** Um, you know, I mean, most of the things that I say outside, I'm fairly certain about and the  
 **Translation:** 
 
-**[6368.40s] English:** reason for that is because because it's going to impact somebody else and i want to be quite  
+**[6368.40s] English:** The reason for that is because it's going to impact somebody else, and I want to be quite.  
 **Translation:** 
 
-**[6372.70s] English:** concerned about that and quite quite circumspect about that um for stuff that that i'm reasoning  
+**[6372.70s] English:** Concerned about that, and quite circumspect about it for stuff I'm reasoning.  
 **Translation:** Vocabulary: circumspect: 谨慎
 
-**[6378.32s] English:** about inside a meeting you know a lot of things could turn out differently and so but it doesn't  
+**[6378.32s] English:** About inside a meeting, you know, a lot of things could turn out differently, and so but it doesn't.  
 **Translation:** 
 
-**[6384.54s] English:** ever stop me from reasoning the way that the way that i manage and lead uh you know i'm constantly  
+**[6384.54s] English:** Ever stop me from reasoning the way that I manage and lead? I'm constantly...  
 **Translation:** 
 
-**[6390.92s] English:** reasoning in front of people and even when i'm talking to you you can kind of see me kind of  
+**[6390.92s] English:** Reasoning in front of people, and even when I'm talking to you, you can kind of see me kind of.  
 **Translation:** 
 
-**[6394.64s] English:** reasoning through things and i want to make sure that you understand what i'm saying not because  
+**[6394.64s] English:** Reasoning through things, and I want to make sure that you understand what I'm saying, not because  
 **Translation:** 
 
-**[6398.34s] English:** i told you because i'm so humble about what i'm about to tell you i kind of show you the steps  
+**[6398.34s] English:** I told you because I'm so humble about what I'm about to tell you, I kind of show you the steps.  
 **Translation:** 
 
-**[6404.80s] English:** that i got there and then you could decide whether you believe what i said in the end  
+**[6404.80s] English:** That I got there, and then you could decide whether to believe what I said in the end.  
+**Translation:** Vocabulary: humble: 谦逊
+
+**[6408.44s] English:** And so, I'm doing that all day long in meetings with all of my employees; I'm constantly reasoning.  
 **Translation:** 
 
-**[6408.44s] English:** and so i'm doing that all day long in meetings with all of my employees i'm constantly reasoning  
+**[6414.30s] English:** Through  
 **Translation:** 
 
-**[6414.30s] English:** through  
+**[6414.52s] English:** Let me tell you: let me tell you what I see and how I reason through it; it gives everybody...  
 **Translation:** 
 
-**[6414.52s] English:** let me tell you let me tell you what how i see it and i reason through it it gives everybody  
+**[6419.52s] English:** The opportunity to intercept and say, "I disagree with that part." The nice thing about reasoning:  
+**Translation:** Vocabulary: intercept: 打断
+
+**[6425.26s] English:** Through things and letting people interact with them is that they don't have to  
 **Translation:** 
 
-**[6419.52s] English:** the opportunity to intercept and say i disagree with that part the nice thing about reasoning  
+**[6429.74s] English:** Disagree with your outcome, they can disagree with your reasoning steps, and they could pull me in.  
 **Translation:** 
 
-**[6425.26s] English:** through things and letting and letting people interact with it is that they don't have to  
+**[6436.22s] English:** Different directions, and then we can reason forward. So we're kind of you know,  
 **Translation:** 
 
-**[6429.74s] English:** disagree with your outcome they can disagree with your reasoning steps and they could pull me in  
+**[6444.48s] English:** Collective  
 **Translation:** 
 
-**[6436.22s] English:** different directions and then we can reason forward and so we're we're kind of you know  
+**[6444.52s] English:** Path searching method, and it's really fantastic! Yeah, you have this way about you of when you're  
 **Translation:** 
 
-**[6444.48s] English:** collective  
+**[6452.92s] English:** Explaining stuff, I can feel you actually reasoning on the spot about it with a constant open-mindedness.  
 **Translation:** 
 
-**[6444.52s] English:** path searching method and it's really fantastic yeah you have this way about you of when you're  
+**[6459.98s] English:** Where you could I could feel like I could steer your thinking, yeah, and that's really  
 **Translation:** 
 
-**[6452.92s] English:** explaining stuff i can feel you actually reasoning on the spot about it with a constant open-mindedness  
+**[6465.52s] English:** Beautiful that you've been able to maintain that after so many years of success and pain.  
 **Translation:** 
 
-**[6459.98s] English:** where you could i could feel like i could steer your thinking yeah and that's a that's really  
+**[6469.84s] English:** I think sometimes pain makes you close down a bit.  
 **Translation:** 
 
-**[6465.52s] English:** beautiful that you've been able to maintain that after so many years of success and pain  
+**[6474.48s] English:** Yeah, and I think you maintain a tolerance for embarrassment, I think it's  
 **Translation:** 
-
-**[6469.84s] English:** i think sometimes pain makes you close closes you down a bit  
-**Translation:** 
-
-**[6474.48s] English:** yeah and i think you maintain tolerance for embarrassment i think it's  
-**Translation:** Vocabulary: tolerance: 忍耐
 
 **[6480.00s] English:** That's the tolerance.  
 **Translation:** 
 
 **[6481.52s] English:** I mean, that's a real thing.  
-**Translation:** 
+**Translation:** Vocabulary: tolerance: 忍耐
 
 **[6483.00s] English:** Yeah.  
 **Translation:** 
 
-**[6483.50s] English:** There's many years of embarrassing yourself, even those meetings, knowing that there's people around you where you declared one idea and it was shown that that idea was wrong and be able to admit that and to grow from that.  
+**[6483.50s] English:** There are many years of embarrassing yourself, even in those meetings, knowing that there are people around you who have declared one idea and it was shown to be wrong, and being able to admit it and grow from that.  
 **Translation:** 
 
-**[6495.34s] English:** That's not, that's very difficult on a human level.  
+**[6495.34s] English:** That's not very difficult on a human level.  
 **Translation:** 
 
 **[6497.86s] English:** Yeah.  
 **Translation:** 
 
-**[6498.22s] English:** Well, you know, they knew I was, they knew that recently my first job was, was, you know, cleaning toilets.  
+**[6498.22s] English:** Well, you know, they knew I was, they knew that recently my first job was cleaning toilets.  
 **Translation:** 
 
-**[6504.32s] English:** So I'm glad you maintain that same spirit of Denny's, um, the, the work.  
+**[6504.32s] English:** So I'm glad you maintain that same spirit of Denny's, um, the way you approach the work.  
 **Translation:** 
 
-**[6510.30s] English:** I mean, that, that was beautiful.  
+**[6510.30s] English:** I mean, that was beautiful.  
 **Translation:** 
 
-**[6511.26s] English:** Your whole journey from starting from Denny's is a beautiful one.  
+**[6511.26s] English:** Your whole journey, from starting at Denny's, is a beautiful one.  
 **Translation:** 
 
 **[6514.72s] English:** Uh, let me ask you about video games.  
 **Translation:** 
 
-**[6518.22s] English:** So I'm a big gaming fan.  
+**[6518.22s] English:** So, I'm a big gaming fan.  
 **Translation:** 
 
 **[6520.56s] English:** Yeah.  
 **Translation:** 
 
-**[6521.32s] English:** So I have to say thank you to Nvidia for many years of incredible graphics.  
+**[6521.32s] English:** So, I have to say thank you to Nvidia for many years of incredible graphics.  
 **Translation:** 
 
-**[6526.92s] English:** Um, by the way, it is, GeForce is our still to this day.  
+**[6526.92s] English:** Um, by the way, GeForce is still ours to this day.  
 **Translation:** 
 
 **[6530.74s] English:** Yeah.  
@@ -4219,19 +4220,19 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[6535.20s] English:** Right.  
 **Translation:** 
 
-**[6535.72s] English:** People learn about Nvidia while they're in their teenage years and then they go to college and they know who Nvidia is.  
+**[6535.72s] English:** People learn about Nvidia while they're in their teenage years, and then they go to college and they know who Nvidia is.  
 **Translation:** 
 
-**[6542.14s] English:** And then in the beginning it's just, you know, playing Call of Duty, you know, you know, Fortnite.  
-**Translation:** Vocabulary: fortnite: 战术竞技游戏
+**[6542.14s] English:** And then in the beginning, it's just, you know, playing Call of Duty, you know, and Fortnite.  
+**Translation:** Vocabulary: fortnite: 一款多人在线战斗游戏
 
-**[6547.24s] English:** And then later they're using CUDA and then later they're using Nvidia on, you know, Blender and Dassault and Autodesk.  
+**[6547.24s] English:** And then later, they're using CUDA, and then later, they're using NVIDIA with Blender and Dassault and Autodesk.  
 **Translation:** 
 
-**[6556.26s] English:** I mean, I should say, I mentioned to a friend that I'm, uh, talking with you, he said, oh, they make great gaming.  
-**Translation:** Vocabulary: autodesk: Autodesk; dassault: 达索系统
+**[6556.26s] English:** I mean, I should say—I mentioned to a friend that I'm, uh, talking with you, and he said, "Oh, they make great games.  
+**Translation:** Vocabulary: autodesk: 建筑设计软件; blender: 三维建模软件; dassault: 航空航天公司
 
-**[6564.32s] English:** I mean, GPUs.  
+**[6564.32s] English:** I mean GPUs.  
 **Translation:** 
 
 **[6565.22s] English:** Yeah, exactly.  
@@ -4240,25 +4241,25 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[6566.54s] English:** Exactly.  
 **Translation:** 
 
-**[6567.18s] English:** You know, there's, there's more to it, but, but yeah, yeah.  
+**[6567.18s] English:** You know, there's more to it, but yeah.  
 **Translation:** 
 
-**[6570.88s] English:** People really love the, it really brought a lot of joy to a lot of people.  
+**[6570.88s] English:** People really love it; it brought a lot of joy to a lot of people.  
 **Translation:** 
 
-**[6574.40s] English:** The, the, the hardware really brings these worlds to life.  
+**[6574.40s] English:** The hardware really brings these worlds to life.  
 **Translation:** 
 
-**[6578.36s] English:** Uh, there was some controversy around this, uh, with DLSS five.  
+**[6578.36s] English:** Uh, there was some controversy around this with DLSS 5.  
 **Translation:** 
 
 **[6583.84s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: controversy: 争议
 
 **[6584.02s] English:** Can you explain to me the drama around this?  
 **Translation:** 
 
-**[6586.12s] English:** Uh, I guess people, gamers online were concerned that it makes games look like AI slop.  
+**[6586.12s] English:** Uh, I guess people, gamers online, were concerned that it makes games look like AI slop.  
 **Translation:** 
 
 **[6593.68s] English:** Yeah.  
@@ -4270,562 +4271,562 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[6596.28s] English:** Yeah.  
 **Translation:** 
 
-**[6597.32s] English:** I think their, their perspective makes.  
+**[6597.32s] English:** I think their perspective makes.  
 **Translation:** 
 
 **[6599.96s] English:** Yeah.  
 **Translation:** 
 
-**[6600.00s] English:** sense, and I could see where they're coming from, because I don't love AI slot myself.  
+**[6600.00s] English:** Sense, and I could see where they're coming from, because I don't love AI either myself.  
 **Translation:** 
 
 **[6605.76s] English:** You know, all of the AI-generated content increasingly looks similar, and they're all  
 **Translation:** 
 
-**[6613.14s] English:** beautiful, and I'm empathetic towards what they're thinking. That's just not what DLSS 5  
-**Translation:** Vocabulary: empathetic: 同情理解
+**[6613.14s] English:** Beautiful, and I'm empathetic toward what they're thinking. That's just not what DLSS 5.  
+**Translation:** Vocabulary: empathetic: 同情的
 
-**[6620.32s] English:** is trying to do. I showed several examples of it, but DLSS 5 is 3D-conditioned, 3D-guided,  
+**[6620.32s] English:** Is trying to do. I showed several examples of it, but DLSS 5 is 3D-conditioned, 3D-guided.  
 **Translation:** 
 
-**[6630.00s] English:** it's ground-truth, structured data-guided. And so the artist determined the geometry.  
+**[6630.00s] English:** It's ground-truth, structured data-guided. And so the artist determined the geometry.  
 **Translation:** Vocabulary: geometry: 几何结构
 
-**[6636.48s] English:** We are completely truthful to the geometry, maintain so in every single frame.  
+**[6636.48s] English:** We are completely truthful to the geometry, maintaining it so in every single frame.  
 **Translation:** 
 
-**[6643.90s] English:** It's conditioned by the textures, the artistry of the artist. And so every single frame,  
-**Translation:** Vocabulary: artistry: 艺术风格; truthful: 真实
+**[6643.90s] English:** It's conditioned by the textures, the artistry of the artist. And so, every single frame,  
+**Translation:** Vocabulary: artistry: 艺术家的技巧; truthful: 真实
 
-**[6650.96s] English:** it enhances, but it doesn't change anything. Now, the question is, the question about enhancing,  
+**[6650.96s] English:** It enhances, but it doesn't change anything. Now, the question is: the question about enhancing.  
 **Translation:** 
 
 **[6659.10s] English:** DLSS 5 also...  
 **Translation:** Vocabulary: enhances: 提升; enhancing: 提升
 
-**[6660.00s] English:** Because the system is open, you could train your own models to determine, and you could  
+**[6660.00s] English:** Because the system is open, you could train your own models to determine, and you could:  
 **Translation:** 
 
-**[6667.16s] English:** even, in the future, prompt it. You know, I want it to be a toon shader. I want it to  
-**Translation:** Vocabulary: shader: 着色器
+**[6667.16s] English:** Even in the future, prompt it. You know, I want it to be a toon shader. I want it to  
+**Translation:** Vocabulary: prompt: 提示; shader: 着色器
 
-**[6671.92s] English:** look like this kind of... So you can give it even an example, and it would generate  
+**[6671.92s] English:** Look like this: So, you can give it even an example, and it would generate.  
 **Translation:** 
 
-**[6677.26s] English:** in the style of that, all consistent with the artistry, the style, the intent of the  
+**[6677.26s] English:** In the style of that, all consistent with the artistry, the style, and the intent of the  
+**Translation:** Vocabulary: intent: 意图
+
+**[6684.96s] English:** Artist. And so, all of that is done for the artist.  
 **Translation:** 
 
-**[6684.96s] English:** artist. And so all of that is done for the artist.  
+**[6690.00s] English:** So that they can create something that is more beautiful, but still in the style that.  
 **Translation:** 
 
-**[6690.00s] English:** So that they can create something that is more beautiful, but still in the style that  
+**[6695.94s] English:** They want. I think that they got the impression that the games are going to come out the way  
 **Translation:** 
 
-**[6695.94s] English:** they want. I think that they got the impression that the games are going to come out the way  
+**[6703.40s] English:** The games are shipped the way they do, and then we're going to post-process it. That's not  
 **Translation:** 
 
-**[6703.40s] English:** the games are, ship the way they do, and then we're going to post-process it. That's not  
+**[6709.18s] English:** What DLSS is intended to do, DLSS is integrated with the artist, and so it's about giving  
 **Translation:** 
 
-**[6709.18s] English:** what DLSS is intended to do. DLSS is integrated with the artist. And so it's about giving  
+**[6715.94s] English:** The artist is the tool of AI, the tool of generative AI. They could design it. They could design it.  
+**Translation:** Vocabulary: generative: 生成式的; integrated: 整合的
+
+**[6720.00s] English:** To use it, you know, I think people are very sensitive to human faces, yeah, and we're now  
 **Translation:** 
 
-**[6715.94s] English:** the artist the tool of AI, the tool of generative AI. They could design it. They could design it.  
-**Translation:** Vocabulary: generative: 生成式
-
-**[6720.00s] English:** to use it you know i think people are very sensitive to human faces yeah and we're now  
+**[6725.04s] English:** Living in this moment, which I think is a beautiful one, where people are sensitive to.  
 **Translation:** 
 
-**[6725.04s] English:** living in this moment which i think is a is a beautiful one which is people are sensitive to  
+**[6729.92s] English:** AI_slope, yeah, it puts a mirror to ourselves to help us realize that what we seek are imperfections.  
 **Translation:** 
 
-**[6729.92s] English:** ai slop yeah it puts a mirror to ourselves to help us realize that what we seek is imperfections what  
-**Translation:** 
-
-**[6736.48s] English:** we seek is sometimes not perfect graphics it helps us understand what we find compelling  
+**[6736.48s] English:** We seek graphics that are sometimes not perfect, as they help us understand what we find compelling.  
 **Translation:** Vocabulary: compelling: 有吸引力的
 
-**[6742.64s] English:** in the worlds we create and that's beautiful and as long as it's tools that help us create those  
+**[6742.64s] English:** In the worlds we create, and that's beautiful. And as long as they're tools that help us create those,  
 **Translation:** 
 
-**[6747.66s] English:** worlds yeah that's right it's wonderful that's right it's yet yet another tool and they want  
+**[6747.66s] English:** Worlds, yeah, that's right. It's wonderful, that's right. It's yet another tool, and they want.  
 **Translation:** 
 
-**[6751.84s] English:** the generative uh models to generate the opposite of photo reel yeah it'll do that too  
+**[6751.84s] English:** The generative models can generate the opposite of a photo reel, too.  
 **Translation:** 
 
-**[6759.90s] English:** and so it's just yet another tool i think the um the gamers might might also appreciate that  
+**[6759.90s] English:** And so, it's just yet another tool I think the gamers might also appreciate that.  
 **Translation:** 
 
-**[6766.34s] English:** that um in the last couple years we we introduced uh skin shaders to the game developers  
+**[6766.34s] English:** That, um, in the last couple of years, we introduced skin shaders to the game developers.  
 **Translation:** 
 
-**[6776.66s] English:** and many  
+**[6776.66s] English:** And many  
 **Translation:** Vocabulary: shaders: 着色器
 
-**[6777.64s] English:** of those games have skin shaders that include subsurface scattering that make skin look more  
+**[6777.64s] English:** Of those games, have skin shaders that include subsurface scattering that make skin look more realistic.  
 **Translation:** 
 
-**[6783.98s] English:** skin like and so the industries game developers are looking for more and more and more tools  
+**[6783.98s] English:** Skin like, and so the industries' game developers are looking for more and more tools.  
 **Translation:** Vocabulary: scattering: 散射; subsurface: 次表面
 
-**[6790.72s] English:** to express their art and so this is just yet more one more tool they get to decide what to use  
+**[6790.72s] English:** To express their art, and so this is just yet another tool they get to decide what to use.  
 **Translation:** 
 
-**[6796.46s] English:** ridiculous question uh what do you think is the greatest or most influential game ever made  
+**[6796.46s] English:** Ridiculous question, uh. What do you think is the greatest or most influential game ever made?  
+**Translation:** Vocabulary: influential: 有影响力的
+
+**[6801.48s] English:** Maybe, from Nvidia's perspective, Doom unquestionably was the start of the 3D revolution.  
 **Translation:** 
 
-**[6801.48s] English:** maybe from nvidia's perspective doom doom unquestionably that was the start of the 3d  
+**[6808.30s] English:** I would say Doom from the intersection of cultural implications as well as the  
+**Translation:** Vocabulary: intersection: 交汇点
+
+**[6814.60s] English:** Industry turning a PC into a gaming device was a very important moment, now of course.  
 **Translation:** 
 
-**[6808.30s] English:** i would say doom from a from our the intersection of the cultural implication as well as the  
-**Translation:** Vocabulary: implication: 影响; intersection: 交汇点
+**[6820.90s] English:** Flight simulation companies were around before it, but they just didn't have the popularity that  
+**Translation:** Vocabulary: popularity: 知名度
 
-**[6814.60s] English:** industry turning a pc into a gaming device that was a very important moment now of course  
+**[6826.94s] English:** Doom did not have made the industry turn the PC from a  
 **Translation:** 
 
-**[6820.90s] English:** flight simulation companies were before it and um but they just didn't have the popularity that  
-**Translation:** Vocabulary: simulation: 模拟
-
-**[6826.94s] English:** doom did to have made the industry turn the pc from a  
+**[6831.00s] English:** Obviously,  
 **Translation:** 
 
-**[6831.00s] English:** obviously  
+**[6831.48s] English:** An office automation tool into a personal computer for families and gamers, and things like that.  
 **Translation:** 
 
-**[6831.48s] English:** office automation tool into a personal computer for families and gamers and things like that and  
+**[6837.36s] English:** So, Doom was really impactful there from an actual  
 **Translation:** 
 
-**[6837.36s] English:** so doom was really impactful there from a from an actual  
-**Translation:** Vocabulary: automation: 自动化
-
-**[6840.00s] English:** game technology perspective i would say virtual fighter and so we're great friends with both of  
+**[6840.00s] English:** From a game technology perspective, I would say Virtual Fighter, and so we're great friends with both of.  
 **Translation:** 
 
-**[6846.06s] English:** them you know and then there's games more recently i mean cyberpunk 2077 really nice gpu  
+**[6846.06s] English:** They, you know, and then there are games—more recently, I mean, Cyberpunk 2077—is really nice for GPU.  
 **Translation:** Vocabulary: cyberpunk: 赛博朋克
 
-**[6853.84s] English:** accelerated graphics like fully ray traced fully ray traced um also i like at first i'm a huge fan  
+**[6853.84s] English:** Accelerated graphics, like fully ray-traced graphics, are great. At first, I'm a huge fan.  
 **Translation:** 
 
-**[6861.22s] English:** of skyrim uh elder scrolls and the you know it's been released a long long time ago but people  
+**[6861.22s] English:** Of Skyrim, uh, Elder Scrolls, and the, you know, it's been released a long time ago, but people  
 **Translation:** Vocabulary: accelerated: 加速; scrolls: 卷轴
 
-**[6867.36s] English:** release mods and they love these i mean it's like a different game and it just allows me to  
+**[6867.36s] English:** Release mods, and they love these. I mean, it's like a different game, and it just allows me to.  
 **Translation:** 
 
-**[6874.96s] English:** replay the game over and over and you get it makes you realize that you can re-experience  
+**[6874.96s] English:** Replay the game over and over, and you get it. Makes you realize that you can re-experience.  
 **Translation:** 
 
-**[6880.98s] English:** in a totally new way the world you already love yeah so i do that all the time one of my favorite  
+**[6880.98s] English:** In a totally new way, the world you already love: yeah, so I do that all the time. One of my favorite...  
 **Translation:** 
 
-**[6886.66s] English:** things just walk around skyrim we created this thing called rtx mod uh-huh yeah it's a modding  
+**[6886.66s] English:** Things just walk around Skyrim. We created this thing called RTX mod, huh? Yeah, it's a modding project.  
+**Translation:** Vocabulary: modding: 修改模块
+
+**[6892.14s] English:** Tool awesome; it allows the community to inject the latest.  
 **Translation:** 
 
-**[6892.14s] English:** tool awesome it allows it allows the community to inject the latest  
+**[6897.36s] English:** Technology into an old game, of course. Like, what makes a great video game is not just graphics.  
+**Translation:** Vocabulary: inject: 注入
+
+**[6903.00s] English:** It's also about story and character development, but that's right; beautiful graphics can add to the  
 **Translation:** 
 
-**[6897.36s] English:** technology into an old game of course like what makes a great video game is not just graphics  
+**[6909.08s] English:** The immersion, the feeling like it's another place you're transported to.  
+**Translation:** Vocabulary: immersion: 沉浸感; transported: 被带入
+
+**[6914.32s] English:** Uh, what's accurate is that you said the AGI timeline fairly accurately.  
 **Translation:** 
 
-**[6903.00s] English:** it's also story and character development but that's right beautiful graphics can add to the  
+**[6920.32s] English:** The question rests on your definition of AGI.  
 **Translation:** 
 
-**[6909.08s] English:** the immersion the feeling like it's another place you're transported to  
-**Translation:** Vocabulary: immersion: 身临其境; transported: 被带入
-
-**[6914.32s] English:** uh what's uh you said i think accurately that the agi timeline  
+**[6925.00s] English:** So, let's  
 **Translation:** 
 
-**[6920.32s] English:** question rests on your definition of agi  
-**Translation:** 
-
-**[6925.00s] English:** so let's  
-**Translation:** 
-
-**[6927.36s] English:** let me ask you about possible timelines here let's this ridiculous definition perhaps of what agi is  
+**[6927.36s] English:** Let me ask you about possible timelines here. Let's use this ridiculous definition, perhaps, of what AGI is.  
 **Translation:** Vocabulary: timelines: 时间轴
 
-**[6935.04s] English:** but an ai system that's able to essentially do your job so run no start grow and run a successful  
+**[6935.04s] English:** But an AI system that's able to essentially do your job—so run, no start, grow, and run a successful...  
 **Translation:** 
 
-**[6948.80s] English:** technology company that's worth a good one or a one no it has to be worth more than a billion  
+**[6948.80s] English:** Technology company that's worth at least a billion, or better yet, much more.  
 **Translation:** 
 
-**[6957.36s] English:** dollars more more than a billion dollars  
+**[6957.36s] English:** Dollars more—more than a billion dollars.  
 **Translation:** 
 
-**[6960.00s] English:** so you know you know how hard it is to do all those components so how far are we away from  
+**[6960.00s] English:** So, you know how hard it is to do all those components. How far are we away from?  
 **Translation:** 
 
-**[6968.36s] English:** that so we're talking about open claw that does all the incredibly complex stuff that are required  
+**[6968.36s] English:** That's so we're talking about an open claw that does all the incredibly complex stuff that is required.  
 **Translation:** 
 
-**[6977.22s] English:** to to first of all innovate to find customers to sell to them to to manage to build a team  
+**[6977.22s] English:** To innovate, first of all, to find customers to sell to them, to manage, and to build a team.  
 **Translation:** Vocabulary: innovate: 创新
 
-**[6984.10s] English:** of some agents some humans all that kind of stuff is this 5 10 15 20 years away i think it's now i  
+**[6984.10s] English:** Of some agents, some humans, all that kind of stuff—is this 5, 10, 15, 20 years away? I think it's now.  
 **Translation:** 
 
-**[6992.52s] English:** think we've achieved agi you think you can have a company run by an ai system like this possible  
+**[6992.52s] English:** Do you think we've achieved AGI? Do you think it's possible to run a company with an AI system like this?  
 **Translation:** 
 
-**[6997.78s] English:** and the reason for that is this you said a billion and you didn't say forever and and so for example  
+**[6997.78s] English:** And the reason for that is: this. You said "a billion," and you didn't say "forever," and so, for example,  
 **Translation:** 
 
-**[7004.26s] English:** it is not out of the question that a claw was able to create a web service  
+**[7004.26s] English:** It is not out of the question that a claw was able to create a web service.  
 **Translation:** 
 
-**[7014.10s] English:** some interesting little app that all of a sudden you know a few billion people used  
+**[7014.10s] English:** Some interesting little app that, all of a sudden, you know, a few billion people used.  
 **Translation:** 
 
-**[7023.98s] English:** for 50 cents and then it went out of business again shortly after now we saw a whole bunch of  
+**[7023.98s] English:** For 50 cents, and then it went out of business again shortly after. Now, we saw a whole bunch of.  
 **Translation:** 
 
-**[7030.46s] English:** those type of companies during the internet era and most of those websites were not anything  
+**[7030.46s] English:** Those types of companies during the Internet era, and most of those websites were not much.  
 **Translation:** 
 
-**[7036.30s] English:** more sophisticated than what open claw could generate today achieve virality and monetize  
-**Translation:** Vocabulary: monetize: 变现; sophisticated: 复杂; virality: 病毒式传播
+**[7036.30s] English:** More sophisticated than what an open claw could generate today, achieving virality and monetization.  
+**Translation:** Vocabulary: monetization: 盈利; sophisticated: 复杂; virality: 病毒式传播
 
-**[7043.12s] English:** that virality yeah  
+**[7043.12s] English:** That virality, yeah.  
 **Translation:** 
 
-**[7044.10s] English:** it's just i don't know what it is but i did i couldn't have predicted any of those companies  
+**[7044.10s] English:** It's just; I don't know what it is, but I couldn't have predicted any of those companies.  
 **Translation:** 
 
-**[7048.18s] English:** at the time either you know you're gonna get a lot of people excited with that statement  
+**[7048.18s] English:** At the time, either you know, you're gonna get a lot of people excited with that statement.  
 **Translation:** 
 
-**[7052.04s] English:** yeah no it's like what do you mean i could i could just uh launch an agent and uh make a lot  
+**[7052.04s] English:** Yeah, no, it's like, what do you mean? I could just launch an agent and make a lot.  
 **Translation:** 
 
-**[7058.26s] English:** of money well by the way it's happening right now right you know that when you go to china  
+**[7058.26s] English:** Of course, money is being well managed right now, as you know when you go to China.  
 **Translation:** 
 
-**[7061.92s] English:** uh you're gonna see you're gonna see um a whole bunch of people uh teaching their getting their  
+**[7061.92s] English:** Uh, you're gonna see you're gonna see a whole bunch of people getting their  
 **Translation:** 
 
-**[7067.82s] English:** claws to try to go out and look for jobs and you know do work make money and and i'm not  
+**[7067.82s] English:** Claws to try to go out and look for jobs and, you know, do work, make money, and I'm not.  
 **Translation:** 
 
-**[7074.10s] English:** i'm not i'm not actually i wouldn't be surprised if some social thing happened or somebody  
+**[7074.10s] English:** I'm not; I'm not actually. I wouldn't be surprised if some social thing happened or somebody did something.  
 **Translation:** Vocabulary: claws: 爪子
 
-**[7080.00s] English:** created a digital influencer, super, super cute, or some social application that, you know,  
+**[7080.00s] English:** Created a digital influencer, super cute, or some social application that, you know,  
 **Translation:** 
 
-**[7087.44s] English:** feeds your little Tomagotchi or something like that. And it becomes an out of the blue and  
-**Translation:** Vocabulary: influencer: 意见领袖; tomagotchi: 电子宠物
+**[7087.44s] English:** Feeds your little Tomagotchi, or something like that. And it becomes out-of-the-blue and  
+**Translation:** Vocabulary: influencer: 网络红人; tomagotchi: 电子宠物
 
-**[7093.36s] English:** instant success. A lot of people use it for a couple of months and it kind of dies away.  
+**[7093.36s] English:** Instant success. A lot of people use it for a couple of months, and it kind of dies away.  
 **Translation:** 
 
-**[7098.84s] English:** Now, the odds of, you know, a hundred thousand of those agents building NVIDIA is zero percent.  
+**[7098.84s] English:** Now, the odds of a hundred thousand of those agents building NVIDIA are virtually zero percent.  
+**Translation:** Vocabulary: virtually: 几乎
+
+**[7106.88s] English:** And, and then, and then the one part that I will not do, and I want to make sure we  
 **Translation:** 
 
-**[7106.88s] English:** And, and then, and then the one part that I will, I won't do, and I, and I, I want to make sure we  
+**[7114.56s] English:** All we have to do is recognize that people are really worried about their jobs. And, I just want  
 **Translation:** 
 
-**[7114.56s] English:** all do is to recognize that people are really worried about their jobs. And, and I just want  
+**[7122.04s] English:** To remind them that the purpose of your job, and the tasks and the tools that you use to do your  
 **Translation:** 
 
-**[7122.04s] English:** to remind them that the purpose of your job and the tasks and the tools that you use to do your  
+**[7130.86s] English:** Jobs are related, but not the same. I've been doing my job for 33 years. I'm the longest-running tech  
 **Translation:** 
 
-**[7130.86s] English:** job are related, not the same. I've been doing my job for 33 years. I'm the longest running tech  
+**[7136.34s] English:** CEO in the World. I've been doing my job for 33 years. I'm the longest-running tech CEO in the  
 **Translation:** 
 
-**[7136.34s] English:** CEO in the world. I've been doing my job for 33 years. I'm the longest running tech CEO in the  
+**[7136.86s] English:** World. I've been doing my job for 34 years, and the tools that I've used to do my job have changed.  
 **Translation:** 
 
-**[7136.86s] English:** world. I've been doing my job for 34 years. And the tools that I've used to do my job has changed  
+**[7141.52s] English:** Continuously in the last 34 years, and sometimes quite dramatically, you know, over the course of  
 **Translation:** 
 
-**[7141.52s] English:** continuously in the last 34 years. And sometimes quite dramatically, you know, over the course of  
+**[7149.72s] English:** A couple of two or three years. And the one story that I really want to make sure  
+**Translation:** Vocabulary: dramatically: 剧烈地
+
+**[7154.70s] English:** That's the story everyone hears: the first job that computer scientists said.  
 **Translation:** 
 
-**[7149.72s] English:** a couple of two, three years. And, and the, the, the one story that I, I really want to make sure  
-**Translation:** Vocabulary: dramatically: 急剧地
-
-**[7154.70s] English:** that everybody hears is the story that the first job that every, that computer scientists said,  
-**Translation:** 
-
-**[7161.64s] English:** AI researchers said was going to go away was radiology because computer vision was going to  
-**Translation:** 
+**[7161.64s] English:** AI researchers said that what was going to go away was radiology because computer vision was going to  
+**Translation:** Vocabulary: radiology: 放射科
 
 **[7166.78s] English:** achieve that. And so, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,  
 **Translation:** 
 
-**[7166.86s] English:** achieve superhuman levels. And it did. Computer vision was superhuman in 2019, 20, maybe, maybe a  
+**[7166.86s] English:** Achieve superhuman levels. And it did. Computer vision was superhuman in 2019, 2020, maybe, maybe a little later.  
 **Translation:** 
 
-**[7176.92s] English:** little bit later, 2020. Okay. And so it's been a long time since computer vision has been superhuman.  
+**[7176.92s] English:** Little bit later, in 2020. Okay. And so it's been a long time since computer vision has been superhuman.  
 **Translation:** 
 
-**[7182.84s] English:** And so the prediction was radiologists would go away because studying radiology scans was  
-**Translation:** Vocabulary: radiologists: 放射科医生; radiology: 放射学
+**[7182.84s] English:** And so, the prediction was that radiologists would go away because studying radiology scans was  
+**Translation:** Vocabulary: radiologists: 放射科医生
 
-**[7188.76s] English:** thing of the past. AI will do that. Well, they were absolutely right.  
+**[7188.76s] English:** Thing of the past. AI will do that. Well, they were absolutely right.  
 **Translation:** 
 
 **[7194.78s] English:** Computer vision is completely superhuman.  
 **Translation:** 
 
-**[7196.86s] English:** every radiology platform and package today.  
+**[7196.86s] English:** Every radiology platform and package today.  
 **Translation:** 
 
-**[7200.00s] English:** is driven by AI and yet the number of radiologists grew and so the question is  
+**[7200.00s] English:** Is driven by AI, and yet the number of radiologists grew, so the question is:  
 **Translation:** 
 
-**[7207.12s] English:** why and we now have a shortage of radiologists in the world and so one the  
+**[7207.12s] English:** Why, and we now have a shortage of radiologists in the world, and so one the  
 **Translation:** 
 
-**[7213.28s] English:** alarmist warning went too far and it scared people from doing this profession  
+**[7213.28s] English:** An alarmist warning went too far and it scared people from pursuing this profession.  
 **Translation:** 
 
-**[7221.16s] English:** that is so important to society and so it did harm now why was it wrong the  
+**[7221.16s] English:** That is so important to society, and so it did harm. Now, why was it wrong?  
 **Translation:** 
 
-**[7227.12s] English:** reason why is because the purpose of a radiologist the purpose is to diagnose  
-**Translation:** Vocabulary: diagnose: 诊断; radiologist: 放射科医生
+**[7227.12s] English:** The reason is because the purpose of a radiologist is to diagnose.  
+**Translation:** Vocabulary: diagnose: 确诊; radiologist: 放射科医生
 
-**[7232.28s] English:** disease and help patients and doctors diagnose disease and because we're able  
+**[7232.28s] English:** Disease, and help patients and doctors diagnose diseases, and because we're able  
 **Translation:** 
 
-**[7239.84s] English:** to study scans is so much faster now you could study more scans you could  
+**[7239.84s] English:** To study scans is so much faster now; you could study more scans, you could.  
 **Translation:** 
 
-**[7244.58s] English:** diagnose better you could you could impatient faster we can see people more  
+**[7244.58s] English:** Diagnose better, you could be more patient and see more people faster.  
 **Translation:** 
 
-**[7251.54s] English:** the hospitals are making more money you have more patients in the hospital you  
+**[7251.54s] English:** The hospitals are making more money; you have more patients in the hospital, you  
 **Translation:** 
 
-**[7255.92s] English:** need more radiologists  
+**[7255.92s] English:** We need more radiologists.  
 **Translation:** 
 
-**[7257.12s] English:** I mean the the amazing thing is it's so obvious this was going to happen the  
+**[7257.12s] English:** I mean, the amazing thing is that it's so obvious this was going to happen.  
 **Translation:** 
 
-**[7263.54s] English:** number of software engineers at Nvidia is going to grow not decline and the  
+**[7263.54s] English:** The number of software engineers at Nvidia is going to grow, not decline, and the  
 **Translation:** 
 
-**[7268.82s] English:** reason for that is because the purpose of a software engineer and the task of a  
+**[7268.82s] English:** Reason for that is because the purpose of a software engineer and the task of a  
 **Translation:** 
 
-**[7273.14s] English:** software dream of coding are related not the same I wanted my software engineers  
+**[7273.14s] English:** Software dreams of coding are related, but not the same. I wanted my software engineers  
 **Translation:** 
 
-**[7277.94s] English:** to solve problems I didn't care how many lines of code they wrote you know but  
+**[7277.94s] English:** To solve problems, I didn't care how many lines of code they wrote, you know.  
 **Translation:** 
 
-**[7282.66s] English:** their job their purpose of their job didn't change solving problems working  
+**[7282.66s] English:** Their job's purpose didn't change: solving problems, working.  
 **Translation:** 
 
-**[7287.10s] English:** as a team diagnosing problems evaluating the result looking for new  
-**Translation:** Vocabulary: diagnosing: 诊断问题; evaluating: 评估结果
+**[7287.10s] English:** As a team, diagnosing problems, evaluating the results, looking for new solutions.  
+**Translation:** Vocabulary: diagnosing: 诊断; evaluating: 评估
 
-**[7292.64s] English:** problems to solve innovation connecting dots you know none of that stuff is  
+**[7292.64s] English:** Problems to solve, innovation, connecting the dots — you know, none of that stuff is  
 **Translation:** 
 
-**[7298.32s] English:** going to go away do you think it's possible that let's even take coding you  
+**[7298.32s] English:** Going away, do you think it's possible that, let's even take coding, you?  
 **Translation:** 
 
-**[7302.48s] English:** think the number of programmers in the world might increase that yes and the  
+**[7302.48s] English:** Think the number of programmers in the world might increase—that's yes, and  
 **Translation:** 
 
-**[7307.64s] English:** reason for that is this what is the definition of coding  
+**[7307.64s] English:** The reason for that is: What is the definition of coding?  
 **Translation:** Vocabulary: programmers: 程序员
 
-**[7311.66s] English:** I believe that is the definition coding as of today is simply specifying the  
+**[7311.66s] English:** I believe that is the definition. Coding, as of today, is simply specifying the  
 **Translation:** 
 
-**[7317.10s] English:** specification, and maybe  
-**Translation:** Vocabulary: specification: 规范; specifying: 规定
+**[7317.10s] English:** Specification, and maybe.  
+**Translation:** Vocabulary: specification: 规范; specifying: 制定
 
-**[7320.00s] English:** if you want to be rather directive you could even give it an architecture of the software the year  
+**[7320.00s] English:** If you want to be rather directive, you could even give it an architecture for the software in the year.  
 **Translation:** 
 
-**[7326.52s] English:** you wanted to write so the question is how many people could do that describe a specification for  
+**[7326.52s] English:** You wanted to write, so the question is: How many people could do that? Describe a specification for.  
 **Translation:** 
 
-**[7332.52s] English:** a computer to go telling the computer what to go build how many people i think we just went from  
+**[7332.52s] English:** A computer to go tell the computer what to go build; how many people? I think we just went from.  
 **Translation:** 
 
-**[7338.56s] English:** 30 million to probably 1 billion and so every every carpenter in the future will be a coder  
+**[7338.56s] English:** 30 million to probably 1 billion, and so every carpenter in the future will be a coder.  
 **Translation:** Vocabulary: carpenter: 木匠
 
-**[7347.04s] English:** except a carpenter with ai is also an architect they just increased the value that they could  
+**[7347.04s] English:** Except, a carpenter with AI is also an architect; they just increased the value they could.  
 **Translation:** 
 
-**[7355.04s] English:** deliver to the customer their their artistry just elevated tremendously i believe that every  
+**[7355.04s] English:** Deliver to the customer, and their artistry just elevated tremendously. I believe that every  
 **Translation:** Vocabulary: artistry: 艺术造诣; elevated: 提升; tremendously: 极大程度上
 
-**[7364.04s] English:** accountant is you know also your financial analyst also your financial advisor so all of these  
+**[7364.04s] English:** An accountant is, you know, also a financial analyst, also a financial advisor, so all of these.  
 **Translation:** 
 
-**[7370.48s] English:** professions have just been elevated and if i were a carpenter i sees a i see ai i would just  
+**[7370.48s] English:** Professions have just been elevated, and if I were a carpenter, I would see AI as just  
+**Translation:** Vocabulary: analyst: 分析人员; professions: 职业
+
+**[7376.72s] English:** Completely  
 **Translation:** 
 
-**[7376.72s] English:** completely  
+**[7377.02s] English:** Go berserk, you know, the services I can bring to my clients if I were a plumber — completely go berserk.  
+**Translation:** Vocabulary: berserk: 狂躁; plumber: 水管工
+
+**[7384.10s] English:** And the people who are currently programmers and software engineers, I think they're at the  
 **Translation:** 
 
-**[7377.02s] English:** go berserk you know the services i can bring to my clients if i were a plumber completely go berserk  
-**Translation:** Vocabulary: berserk: 狂躁
+**[7388.98s] English:** Cutting-edge understanding of intuitively communicating with the agents using natural  
+**Translation:** Vocabulary: intuitively: 直觉地; programmers: 程序员
 
-**[7384.10s] English:** and the people that are currently programmers and software engineers i think they're at the  
+**[7396.80s] English:** Language in order to design the best kind of software that's right, so over time they'll.  
 **Translation:** 
 
-**[7388.98s] English:** cutting edge of understanding intuitively how to communicate with the agents using natural  
-**Translation:** Vocabulary: intuitively: 直觉地
+**[7402.32s] English:** Converge, but I think there's still value in getting.  
+**Translation:** Vocabulary: converge: 汇聚
 
-**[7396.80s] English:** language in order to design the best kind of software that's right so over time they'll  
+**[7407.02s] English:** Uh, learning how to program is like learning what programming languages are; the old ones...  
 **Translation:** 
 
-**[7402.32s] English:** converge but i think uh there's still value in getting i think  
-**Translation:** Vocabulary: converge: 趋于一致
-
-**[7407.02s] English:** uh learning how to program like learning what programming languages are uh the old the old  
+**[7412.32s] English:** Kind of programming, uh, what are some good practices for programming languages?  
 **Translation:** 
 
-**[7412.32s] English:** kind of programming uh what what are good practices for programming languages what are  
+**[7417.80s] English:** Design principles for programming languages for large software systems, and the reasons for that.  
 **Translation:** 
 
-**[7417.80s] English:** design principles for programming languages for large software systems and the reason for that  
+**[7424.96s] English:** Lex, and you know, I just say for the audience, I think  
 **Translation:** 
 
-**[7424.96s] English:** lex and you know that i just say for the audience i think  
+**[7427.64s] English:** The goal and the artistry of specification.  
 **Translation:** 
 
-**[7427.64s] English:** the goal of the goal of specification the artistry of specification the goal and the artistry of it  
+**[7437.02s] English:** It's going to depend on what problem you're trying to solve.  
+**Translation:** Vocabulary: artistry: 技艺; specification: 规范
+
+**[7440.00s] English:** Trying to solve these issues, when I'm thinking about giving the company strategies and formulating corporate  
 **Translation:** 
 
-**[7437.02s] English:** It's going to depend on what problem you're  
-**Translation:** 
-
-**[7440.00s] English:** trying to solve. When I'm thinking about giving the company strategies and formulating corporate  
-**Translation:** 
-
-**[7447.60s] English:** directions and things that we should do, I describe it at a level that is sufficiently  
+**[7447.60s] English:** Directions and things that we should do, I describe it at a level that is sufficiently  
 **Translation:** Vocabulary: sufficiently: 足够地
 
-**[7455.54s] English:** specific that people generally understand the direction and it's actionable. It's so specific  
+**[7455.54s] English:** Specific that people generally understand the direction and it's actionable. It's so specific.  
 **Translation:** 
 
-**[7464.06s] English:** enough that they can take action on it, but I under-specify it on purpose so that enable 43,000  
+**[7464.06s] English:** Enough that they can take action on it, but I under-specify it on purpose so that it enables 43,000.  
 **Translation:** 
 
-**[7471.70s] English:** amazing people to make it even better than I imagined. And so when I'm working with engineers,  
+**[7471.70s] English:** Amazing people to make it even better than I imagined. And so, when I'm working with engineers,  
 **Translation:** 
 
-**[7479.30s] English:** when I'm working with people, I think about what problem am I trying to solve? Who am I working  
+**[7479.30s] English:** When I'm working with people, I think about what problem I'm trying to solve? Who am I working with?  
 **Translation:** 
 
-**[7485.84s] English:** with? And the level of specification, the level of architecture definition,  
+**[7485.84s] English:** With what? And the level of specification, the level of architecture definition,  
 **Translation:** 
 
-**[7493.80s] English:** you can't just say, I'm going to do this, I'm going to do that. You can't just say, I'm going to do that.  
-**Translation:** Vocabulary: specification: 详细说明
-
-**[7494.06s] English:** Relates to that. And so everybody's going to have to learn how, where in the spectrum of  
+**[7493.80s] English:** You can't just say, "I'm going to do this," or "I'm going to do that.  
 **Translation:** 
 
-**[7502.56s] English:** coding they want to be. Writing a specification is coding. And so you might decide to be  
+**[7494.06s] English:** Relates to that. And so, everyone's going to have to learn how, where in the spectrum of  
 **Translation:** 
 
-**[7507.46s] English:** quite prescriptive because there's a very specific outcome you're looking for.  
+**[7502.56s] English:** Coding, they want to be. Writing a specification is coding. And so you might decide to be.  
 **Translation:** 
 
-**[7512.36s] English:** You might decide that this is an area you want to be much more exploratory. And so you might  
+**[7507.46s] English:** Quite prescriptive, because there's a very specific outcome you're looking for.  
 **Translation:** 
 
-**[7518.02s] English:** under-specify and enable you to go back and forth with the AI to even push your own  
+**[7512.36s] English:** You might decide that this is an area you want to be much more exploratory, and so you might.  
 **Translation:** 
 
-**[7523.80s] English:** boundaries of creativity. And so this artistry of where you are in the spectrum,  
+**[7518.02s] English:** Under-specify and enable you to go back and forth with the AI to even push your own boundaries.  
+**Translation:** 
+
+**[7523.80s] English:** Boundaries of creativity. And so, this artistry of where you are in the spectrum,  
 **Translation:** Vocabulary: artistry: 艺术造诣
 
-**[7528.80s] English:** this is the future of coding. But just to linger on it outside of coding, I think a lot of people,  
+**[7528.80s] English:** This is the future of coding. But just to linger on it outside of coding, I think a lot of people,  
 **Translation:** 
 
-**[7534.66s] English:** rightfully so, are worried about their jobs, have a lot of anxiety about their jobs,  
+**[7534.66s] English:** Rightfully so, they are worried about their jobs and have a lot of anxiety about them.  
+**Translation:** Vocabulary: linger: 逗留
+
+**[7540.22s] English:** Especially in the white-collar sector, I don't think any of us know what to do.  
 **Translation:** 
 
-**[7540.22s] English:** especially in the white-collar sector. I don't think any of us know what to do  
+**[7549.98s] English:** With tumultuous times that always come when automation and new technologies,...  
+**Translation:** Vocabulary: automation: 自动化; tumultuous: 动荡的
+
+**[7553.80s] English:** Technology arrives. And I just, firstly, I think  
 **Translation:** 
 
-**[7549.98s] English:** with tumultuous times that always come when automations and new technologies,  
-**Translation:** Vocabulary: automations: 自动化; tumultuous: 动荡的
+**[7560.00s] English:** We all need to have compassion and the responsibility to feel, sort of, the burden.  
+**Translation:** Vocabulary: burden: 负担; compassion: 同情; firstly: 首先
 
-**[7553.80s] English:** technology arrives. And I just, first of all, I think  
+**[7565.36s] English:** Of what the actual suffering feels like for individuals and families that lose their  
 **Translation:** 
 
-**[7560.00s] English:** we all need to have compassion and the responsibility to feel sort of the burden  
-**Translation:** Vocabulary: compassion: 同情心
-
-**[7565.36s] English:** of what the actual suffering feels like for individual people and families that lose their  
+**[7570.32s] English:** Job: I think whenever you have transformative technology like that, coming with artificial intelligence,  
 **Translation:** 
 
-**[7570.32s] English:** job. I think whenever you have transformative technology like that's coming with artificial  
+**[7576.04s] English:** Intelligence, there's going to be a lot of pain. And I don't know what to do about that.  
 **Translation:** 
 
-**[7576.04s] English:** intelligence, there's going to be a lot of pain. And I don't know what to do about that  
+**[7580.20s] English:** Pain. Hopefully, it creates much more opportunities for those same people.  
 **Translation:** 
 
-**[7580.20s] English:** pain. Hopefully it creates much more opportunities for those same people  
+**[7584.14s] English:** For the same kind of job, as the tooling evolves and makes them more productive, it also makes them:  
 **Translation:** 
 
-**[7584.14s] English:** for the same kind of job as the tooling evolves and makes them more productive and makes them  
+**[7593.72s] English:** More fun. Hopefully, as it does in programming, I've been having so much fun programming; I have  
+**Translation:** Vocabulary: evolves: 发展
+
+**[7598.50s] English:** To say, I've never had this much fun. So hopefully it makes their job easier and automates the  
 **Translation:** 
 
-**[7593.72s] English:** more fun. Hopefully as it does in the programming, I've been having so much fun programming, I have  
-**Translation:** 
-
-**[7598.50s] English:** to say, like I've never had this much fun. So hopefully it makes their job, automates the  
-**Translation:** 
-
-**[7603.00s] English:** boring parts and makes the creative parts, the ones that the human beings are responsible for,  
+**[7603.00s] English:** Boring parts and makes the creative parts, the ones that the human beings are responsible for,  
 **Translation:** Vocabulary: automates: 自动化
 
-**[7609.00s] English:** but still there's going to be a lot of pain and suffering. So my first recommendation before  
+**[7609.00s] English:** But still, there is going to be a lot of pain and suffering. So, my first recommendation is before  
 **Translation:** 
 
-**[7613.98s] English:** and this is now how I deal with anxiety. In fact, we just talked about it earlier.  
+**[7613.98s] English:** And this is how I deal with anxiety. In fact, we just talked about it earlier.  
+**Translation:** Vocabulary: recommendation: 建议
+
+**[7619.48s] English:** Enormous anxiety about the future, enormous anxiety about the pressure.  
 **Translation:** 
 
-**[7619.48s] English:** Enormous anxiety about the future, enormous anxiety about the pressure,  
+**[7622.74s] English:** Enormous anxiety about uncertainty. I first break it down, and then I'm going to tell myself,...  
 **Translation:** 
 
-**[7622.74s] English:** enormous anxiety about uncertainty. I first break it down and then I'm going to tell myself,  
+**[7629.50s] English:** Okay, there are some things you can do something about. There are some things you can't do anything about.  
 **Translation:** 
 
-**[7629.50s] English:** okay, there are some things you can do something about. There's some things you can't do anything  
-**Translation:** 
-
-**[7634.22s] English:** about, but for the stuff that you can do something about, let's reason about it and let's go do it.  
+**[7634.22s] English:** About, but for the stuff that you can do something about, let's reason about it and let's go do it.  
 **Translation:** 
 
 **[7639.88s] English:** If we were to hire a new college graduate today,  
 **Translation:** 
 
-**[7643.18s] English:** and I have a chance to do it, I'm going to tell myself, I'm going to tell myself, I'm going to tell  
+**[7643.18s] English:** And if I have a chance to do it, I'm going to tell myself, "I'm going to tell myself," I'm going to tell  
 **Translation:** 
 
-**[7643.96s] English:** a choice between two, one that is no clue what AI is, and one that is expert in using AI.  
+**[7643.96s] English:** A choice between two: one that has no clue what AI is, and one that is an expert in using AI.  
 **Translation:** 
 
-**[7654.04s] English:** I would hire the one who's expert in using AI. If I had an accountant, a marketing person,  
+**[7654.04s] English:** I would hire the one who's an expert in using AI. If I had an accountant or a marketing person,  
 **Translation:** 
 
-**[7661.90s] English:** the one that is expert in using AI, supply chain, customer service, a salesperson,  
+**[7661.90s] English:** The one that is an expert in using AI, supply chain, customer service, and a salesperson.  
 **Translation:** 
 
-**[7668.20s] English:** business development, a lawyer, I would hire the one who is expert in using AI.  
-**Translation:** 
+**[7668.20s] English:** Business development: A lawyer, I would hire the one who is an expert in using AI.  
+**Translation:** Vocabulary: salesperson: 销售人员
 
-**[7673.96s] English:** And so I would, I would advise that every college student, every  
+**[7673.96s] English:** And so, I would advise that every college student, every  
 **Translation:** 
 
 **[7680.00s] English:** Every teacher should encourage their students to go use AI.  
@@ -4834,14 +4835,14 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7684.34s] English:** Every college student should graduate and be an expert in AI.  
 **Translation:** 
 
-**[7688.80s] English:** And everybody, if you're a carpenter, if you're an electrician, go use AI.  
+**[7688.80s] English:** And, for everyone who is a carpenter or an electrician, go use AI.  
 **Translation:** Vocabulary: carpenter: 木匠; electrician: 电工
 
 **[7695.48s] English:** Go see what it can do to transform your current job.  
 **Translation:** 
 
 **[7699.80s] English:** Elevate yourself.  
-**Translation:** 
+**Translation:** Vocabulary: elevate: 提升
 
 **[7701.00s] English:** If I were a farmer, I would absolutely use AI.  
 **Translation:** 
@@ -4852,68 +4853,68 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7707.20s] English:** I want to see what it could do to elevate my job.  
 **Translation:** 
 
-**[7710.00s] English:** So that I could be the innovator to revolutionize this industry myself.  
-**Translation:** Vocabulary: elevate: 提升; innovator: 创新者; revolutionize: 革新
+**[7710.00s] English:** So, that I could be the innovator to revolutionize this industry myself.  
+**Translation:** Vocabulary: innovator: 创新者; revolutionize: 彻底改变
 
-**[7716.48s] English:** And so that would be the first thing that I would do.  
+**[7716.48s] English:** And so, that would be the first thing that I would do.  
 **Translation:** 
 
-**[7718.94s] English:** And then I would also help them.  
+**[7718.94s] English:** And then, I would also help them.  
 **Translation:** 
 
-**[7723.62s] English:** It is the case that the technology will dislocate and will eliminate many tasks.  
+**[7723.62s] English:** It is the case that the technology will dislocate and eliminate many tasks.  
 **Translation:** 
 
 **[7732.02s] English:** And because it will automate it.  
-**Translation:** Vocabulary: automate: 自动化; dislocate: 使失业
+**Translation:** Vocabulary: automate: 自动化; dislocate: 使脱位
 
 **[7734.02s] English:** If your job is the task,  
 **Translation:** 
 
-**[7736.34s] English:** if your job is the task,  
+**[7736.34s] English:** If your job is the task,  
 **Translation:** 
 
-**[7738.54s] English:** then you're very high.  
+**[7738.54s] English:** Then you're very high.  
 **Translation:** 
 
-**[7740.00s] English:** You're very highly going to be disrupted.  
+**[7740.00s] English:** You're going to be highly disrupted.  
 **Translation:** Vocabulary: disrupted: 被打乱
 
 **[7742.32s] English:** If your job's purpose includes certain tasks,  
 **Translation:** 
 
-**[7748.06s] English:** then it's vital that you go learn how to use AI to automate those tasks.  
+**[7748.06s] English:** Then it's vital that you go learn how to use AI to automate those tasks.  
 **Translation:** 
 
-**[7752.44s] English:** And then there's the world of spectrum in between.  
+**[7752.44s] English:** And then, there's the world of spectrum in between.  
 **Translation:** 
 
 **[7754.86s] English:** And by the way, the beautiful thing about AI,  
 **Translation:** 
 
-**[7757.70s] English:** so the chatbot versions,  
+**[7757.70s] English:** So, the chatbot versions,  
 **Translation:** 
 
-**[7761.02s] English:** is you can break down, you have anxiety,  
-**Translation:** 
+**[7761.02s] English:** Is it that you can break down if you have anxiety?  
+**Translation:** Vocabulary: chatbot: 聊天机器人
 
-**[7764.74s] English:** and you can break down the problem by talking to it.  
+**[7764.74s] English:** And you can break down the problem by talking to it.  
 **Translation:** 
 
 **[7767.68s] English:** Like I've recently, it's really,  
 **Translation:** 
 
-**[7770.00s] English:** it's just incredible how much you can think through your life's problems and through,  
+**[7770.00s] English:** It's just incredible how much you can think through your life's problems and through,  
 **Translation:** 
 
-**[7774.20s] English:** and I don't mean like therapy problems.  
+**[7774.20s] English:** And I don't mean like therapy problems.  
 **Translation:** 
 
-**[7775.74s] English:** I mean, like very practically, okay, I'm worried about my, literally,  
+**[7775.74s] English:** I mean, like, very practically, okay, I'm worried about my, literally,...  
 **Translation:** 
 
 **[7779.72s] English:** I'm worried about my job.  
-**Translation:** 
+**Translation:** Vocabulary: practically: 实际上
 
 **[7780.76s] English:** What are the skills?  
 **Translation:** 
@@ -4924,10 +4925,10 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7782.72s] English:** How do I get better at AI?  
 **Translation:** 
 
-**[7783.92s] English:** Everything you just said, you can literally ask,  
+**[7783.92s] English:** Everything you just said, you can literally ask:  
 **Translation:** 
 
-**[7786.02s] English:** and it's going to give you a point by point plan.  
+**[7786.02s] English:** And it's going to give you a point-by-point plan.  
 **Translation:** 
 
 **[7789.06s] English:** I mean, it's just a great life coach, period.  
@@ -4936,40 +4937,40 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7791.90s] English:** I don't know how to use AI.  
 **Translation:** 
 
-**[7793.10s] English:** And the AI goes, well, let me show you.  
+**[7793.10s] English:** And the AI goes, "Well, let me show you.  
 **Translation:** 
 
 **[7795.76s] English:** It's very meta, but it's kind of incredible.  
 **Translation:** 
 
-**[7799.02s] English:** So people definitely should.  
+**[7799.02s] English:** So, people definitely should.  
 **Translation:** 
 
 **[7799.86s] English:** Yeah.  
 **Translation:** 
 
-**[7800.00s] English:** You can't walk up to Excel and say, I don't know how to use Excel.  
+**[7800.00s] English:** You can't just walk up to Excel and say, "I don't know how to use Excel.  
 **Translation:** 
 
 **[7802.54s] English:** You're done.  
 **Translation:** 
 
-**[7803.10s] English:** I mean, that's really what AI has done for me in all walks of life, is that initial friction of being a beginner, of using a thing for the first time.  
+**[7803.10s] English:** I mean, that's really what AI has done for me in all walks of life: it's reduced the initial friction of being a beginner, of using a thing for the first time.  
 **Translation:** Vocabulary: friction: 初始障碍
 
-**[7811.64s] English:** I can literally ask about any single thing, what are the first steps I need to take?  
+**[7811.64s] English:** I can literally ask about any single thing: what are the first steps I need to take?  
 **Translation:** 
 
 **[7816.62s] English:** That's right.  
 **Translation:** 
 
-**[7817.04s] English:** And that hand-holding that it does, removing the friction of all the experiences that the world offers, like I mentioned to you offline, you mentioned I'm going to China and Taiwan.  
+**[7817.04s] English:** And that hand-holding that it does, removing the friction of all the experiences that the world offers—like I mentioned to you offline, you mentioned I'm going to China and Taiwan.  
 **Translation:** 
 
-**[7830.44s] English:** So awesome.  
+**[7830.44s] English:** So awesome!  
 **Translation:** Vocabulary: taiwan: 台湾
 
-**[7831.36s] English:** I'm so excited for you.  
+**[7831.36s] English:** I'm so excited for you!  
 **Translation:** 
 
 **[7832.56s] English:** Where do I go?  
@@ -4978,13 +4979,13 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7834.14s] English:** How do I?  
 **Translation:** 
 
-**[7834.78s] English:** All of those questions immediately answered.  
+**[7834.78s] English:** All of those questions were immediately answered.  
 **Translation:** 
 
 **[7836.78s] English:** It is beautiful.  
 **Translation:** 
 
-**[7837.50s] English:** Well, when you go to Taiwan, just ask AI, what are Jensen's favorite restaurants in Taiwan?  
+**[7837.50s] English:** Well, when you go to Taiwan, just ask AI: What are Jensen's favorite restaurants in Taiwan?  
 **Translation:** 
 
 **[7844.04s] English:** Yeah.  
@@ -5011,70 +5012,70 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7850.16s] English:** Well, you're a rock star over there.  
 **Translation:** 
 
-**[7852.78s] English:** And like we also mentioned offline, maybe our paths will cross, which would be really wonderful.  
+**[7852.78s] English:** And, like we also mentioned offline, maybe our paths will cross, which would be really wonderful.  
 **Translation:** 
 
 **[7857.78s] English:** Computex.  
-**Translation:** Vocabulary: computex: 计算机展览
+**Translation:** Vocabulary: computex: COMPUTEX展览
 
 **[7858.36s] English:** NVIDIA GTC Taiwan.  
 **Translation:** 
 
-**[7860.00s] English:** Do you think there are some things about human nature, about human consciousness that is fundamentally non-computational?  
-**Translation:** Vocabulary: fundamentally: 本质上
+**[7860.00s] English:** Do you think there are some things about human nature, or about human consciousness, that is fundamentally non-computational?  
+**Translation:** Vocabulary: consciousness: 意识; fundamentally: 本质上
 
-**[7872.62s] English:** Maybe something a chip, no matter how powerful, can never replicate?  
+**[7872.62s] English:** Maybe there's something a chip, no matter how powerful, can never replicate?  
 **Translation:** 
 
 **[7877.78s] English:** I don't know if the chip will ever get nervous.  
 **Translation:** 
 
-**[7879.84s] English:** And that's the, you know, of course, the conditions by which that causes anxiety or nervousness or whatever emotion.  
+**[7879.84s] English:** And that's the conditions by which that causes anxiety or nervousness or whatever emotion.  
 **Translation:** 
 
-**[7890.00s] English:** But I believe that AI will be able to recognize those and understand those.  
+**[7890.00s] English:** But I believe that AI will be able to recognize those and understand them.  
 **Translation:** Vocabulary: nervousness: 紧张感
 
 **[7897.84s] English:** I don't think my chips will feel those.  
 **Translation:** 
 
-**[7901.48s] English:** And therefore, how that anxiety, how that feeling, how that excitement, how that, you know, all of those feelings manifest in human performance.  
-**Translation:** 
+**[7901.48s] English:** And therefore, how that anxiety, how that feeling, how that excitement, and how all of those feelings manifest in human performance.  
+**Translation:** Vocabulary: manifest: 显现
 
-**[7913.84s] English:** For example, extremely amazing human performance, athletic performance.  
+**[7913.84s] English:** For example, extremely amazing human and athletic performance.  
 **Translation:** 
 
 **[7918.72s] English:** You know, average or lesser.  
 **Translation:** 
 
-**[7920.00s] English:** than average, that entire spectrum of human performance that comes out of exactly the  
+**[7920.00s] English:** Than average, that entire spectrum of human performance that comes out of exactly the  
 **Translation:** 
 
-**[7927.50s] English:** same circumstances for different people manifesting in different outcome, manifesting in different  
-**Translation:** Vocabulary: manifesting: 显现
+**[7927.50s] English:** Same circumstances for different people manifesting in different outcomes, manifesting in different  
+**Translation:** Vocabulary: manifesting: 显现; outcomes: 结果
 
-**[7934.28s] English:** performance, I don't think there's anything that we're building that would suggest that  
+**[7934.28s] English:** Performance, I don't think there's anything that we're building that would suggest that.  
 **Translation:** 
 
-**[7942.46s] English:** two different computers being presented with all of exactly the same context, of course  
+**[7942.46s] English:** Two different computers being presented with all of exactly the same context, of course.  
 **Translation:** 
 
-**[7949.34s] English:** it would produce statistically different outcomes, but it's not because it felt different.  
+**[7949.34s] English:** It would produce statistically different outcomes, but it's not because it felt different.  
 **Translation:** 
 
-**[7954.36s] English:** Yeah, the subjective, boy, there's something truly special about the subjective experience  
+**[7954.36s] English:** Yeah, the subjective—boy, there's something truly special about the subjective experience.  
+**Translation:** Vocabulary: statistically: 统计上
+
+**[7959.56s] English:** That's how we humans feel.  
 **Translation:** 
 
-**[7959.56s] English:** that we humans feel.  
+**[7963.02s] English:** Like I mentioned to you, I was pretty nervous talking to you, and that  
 **Translation:** 
 
-**[7963.02s] English:** Like I mentioned to you, I was pretty nervous talking to you, like I mentioned to you, that  
+**[7968.22s] English:** The hope, the fear, the anxiety, and just life itself—the richness of life—and how amazing.  
 **Translation:** 
 
-**[7968.22s] English:** the hope, the fear, the anxiety, and just life itself, the richness of life, how amazing  
-**Translation:** 
-
-**[7974.58s] English:** everything is, how deeply we fall in love, how deeply our hearts get broken.  
+**[7974.58s] English:** Everything is about how deeply we fall in love, how deeply our hearts get broken.  
 **Translation:** 
 
 **[7979.34s] English:** How afraid we are of death, and how much pain we feel when our loved ones pass away.  
@@ -5083,35 +5084,35 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[7985.22s] English:** All of that, the whole thing.  
 **Translation:** 
 
-**[7987.60s] English:** I know it's very hard to think AI being able to, a computational device being able to do  
+**[7987.60s] English:** I know it's very hard to think that an AI, or a computational device, being able to do  
 **Translation:** 
 
-**[7993.14s] English:** that, but there's so many mysteries about this whole thing that we're yet to uncover  
+**[7993.14s] English:** That, but there are so many mysteries about this whole thing that we're yet to uncover.  
+**Translation:** Vocabulary: computational: 计算的; uncover: 揭开
+
+**[7997.70s] English:** That I am open to be surprised.  
 **Translation:** 
 
-**[7997.70s] English:** that I am open to be surprised.  
-**Translation:** 
-
-**[8000.98s] English:** I've been surprised a lot over the past few months and few years.  
+**[8000.98s] English:** I've been surprised a lot over the past few months and years.  
 **Translation:** 
 
 **[8005.42s] English:** Scaling can create some incredible miracles in the space of intelligence.  
 **Translation:** 
 
-**[8009.34s] English:** It has been truly marvelous to watch, so I'm open to surprise.  
+**[8009.34s] English:** It has been truly marvelous to watch, so I'm open to surprises.  
 **Translation:** 
 
-**[8014.26s] English:** And it's just really important to break down what is intelligence.  
+**[8014.26s] English:** And it's just really important to break down what intelligence is.  
 **Translation:** 
 
-**[8018.56s] English:** That word we use all the time, it's not a mysterious word.  
+**[8018.56s] English:** That word we use all the time is not a mysterious word.  
 **Translation:** 
 
-**[8023.38s] English:** Intelligence has a meaning, and it's a system that, it's something that we do that includes  
+**[8023.38s] English:** Intelligence has a meaning, and it's a system that, it's something we do that includes  
 **Translation:** 
 
-**[8032.30s] English:** perception and understanding and reasoning and the ability to do plan.  
-**Translation:** 
+**[8032.30s] English:** Perception, understanding, and reasoning, and the ability to plan.  
+**Translation:** Vocabulary: perception: 感觉与知觉
 
 **[8036.10s] English:** And that loop, that loop.  
 **Translation:** 
@@ -5119,67 +5120,67 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8039.34s] English:** That loop is.  
 **Translation:** 
 
-**[8040.00s] English:** is um the fundamentally what intelligence is intelligence is not one word that is exactly  
+**[8040.00s] English:** Is um, the fundamentally what intelligence is: intelligence is not one word that is exactly.  
 **Translation:** 
 
-**[8048.48s] English:** equal to humanity and that's i think it's really important to separate the two we have two words  
-**Translation:** Vocabulary: fundamentally: 根本上
+**[8048.48s] English:** Equal to humanity, and that's why I think it's really important to separate the two. We have two words.  
+**Translation:** Vocabulary: fundamentally: 本质上
 
-**[8054.42s] English:** for that i'm not i don't over fantasize about and i don't over romanticize about intelligence  
+**[8054.42s] English:** For that, I'm not one to over-fantasize or over-romanticize about intelligence.  
 **Translation:** 
 
-**[8062.34s] English:** intelligence is and people have heard me say it before i actually think intelligence is a commodity  
-**Translation:** Vocabulary: commodity: 商品; fantasize: 幻想
+**[8062.34s] English:** Intelligence is, and people have heard me say it before: I actually think intelligence is a commodity.  
+**Translation:** Vocabulary: commodity: 商品
 
-**[8068.34s] English:** i'm surrounded by intelligent people and i'm surrounded by intelligent people more intelligent  
+**[8068.34s] English:** I'm surrounded by intelligent people, and I'm surrounded by even more intelligent people.  
 **Translation:** 
 
-**[8075.52s] English:** than i am in each one of the spaces that they're in and yet i have a role in that circle it's  
+**[8075.52s] English:** Than I am in each one of the spaces that they're in, and yet I have a role in that circle; it's  
 **Translation:** 
 
-**[8083.16s] English:** actually kind of interesting they're more educated than i am they went to better schools than i did  
+**[8083.16s] English:** Actually, kind of interesting, they're more educated than I am; they went to better schools than I did.  
 **Translation:** 
 
-**[8090.50s] English:** they're deeper than in any in the fields that they're in all of them i have 60 of them they're  
+**[8090.50s] English:** They are deeper than in any of the fields they are in; all of them. I have 60 of them. They are  
 **Translation:** 
 
-**[8097.30s] English:** all superhuman to me  
+**[8097.30s] English:** All of that is superhuman to me.  
 **Translation:** 
 
-**[8098.34s] English:** and somehow i'm sitting in the middle orchestrating all 60 of them and so you got to ask yourself  
+**[8098.34s] English:** And somehow, I'm sitting in the middle, orchestrating all 60 of them, and so you've got to ask yourself.  
 **Translation:** 
 
-**[8104.26s] English:** what is what is it about a dishwasher that allows that dishwasher to sit in the middle of super  
+**[8104.26s] English:** What is it about a dishwasher that allows it to sit in the middle of such  
 **Translation:** 
 
-**[8112.42s] English:** humans does that make sense and so but that's my point my point is intelligence is a is a functional  
-**Translation:** Vocabulary: dishwasher: 洗碗机
+**[8112.42s] English:** Humans, does that make sense? And so, but that's my point: my point is that intelligence is a functional...  
+**Translation:** Vocabulary: dishwasher: 洗碗机; functional: 实用的
 
-**[8120.56s] English:** thing humanity is not a not specified functionally it's a much much bigger word  
+**[8120.56s] English:** Thing: Humanity is not just a function, but a much, much bigger concept.  
 **Translation:** 
 
-**[8128.34s] English:** and and our life experience our tolerance for pain our determination those are those are different  
+**[8128.34s] English:** And our life experiences, our tolerance for pain, our determination—those are all different.  
 **Translation:** Vocabulary: tolerance: 忍耐力
 
-**[8137.10s] English:** words in intelligence and so the the thing that i i want to help the audience understand  
+**[8137.10s] English:** Words in intelligence, and so the thing I want to help the audience understand.  
 **Translation:** 
 
-**[8142.70s] English:** if i could give them one thing is is intelligence is a word that we've elevated to very high form  
+**[8142.70s] English:** If I could give them one thing, it's that "intelligence" is a word we've elevated to a very high form.  
 **Translation:** Vocabulary: elevated: 提升
 
-**[8149.70s] English:** over time the the word we should really elevate is humanity character humanity all of those things  
+**[8149.70s] English:** Over time, the word we should really elevate is "humanity," its character, and all of those things.  
 **Translation:** 
 
-**[8158.34s] English:** and that's what i'm trying to do is i'm trying to give them a little bit more of a sense of generosity  
+**[8158.34s] English:** And that's what I'm trying to do: I'm trying to give them a little bit more of a sense of generosity.  
 **Translation:** Vocabulary: elevate: 提升; generosity: 慷慨
 
-**[8161.06s] English:** and i'm trying to give them a little bit more of a sense of generosity  
+**[8160.00s] English:** All of the things that you said just now, I believe are superhuman powers.  
 **Translation:** 
 
-**[8160.00s] English:** All of the things that you say just now, I believe those are superhuman powers.  
+**[8161.06s] English:** And I'm trying to give them a little bit more of a sense of generosity.  
 **Translation:** 
 
-**[8166.62s] English:** And that now intelligence is going to be commoditized because we've spoken about it.  
+**[8166.62s] English:** And that now, intelligence is going to be commoditized because we've spoken about it.  
 **Translation:** 
 
 **[8170.78s] English:** The most important thing is your education.  
@@ -5194,22 +5195,22 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8187.58s] English:** And life is more than one word.  
 **Translation:** 
 
-**[8190.92s] English:** And I'm just telling you, my life would suggest that being lower on the intelligence curve than everybody around me doesn't change the fact I'm the most successful.  
+**[8190.92s] English:** And I'm just telling you: my life would suggest that being lower on the intelligence curve than everybody around me doesn't change the fact that I'm the most successful.  
 **Translation:** 
 
-**[8203.02s] English:** And I'm hoping to inspire everybody else that don't let this democratization of intelligence, this commoditization of intelligence...  
+**[8203.02s] English:** And I'm hoping to inspire everybody else: don't let this democratization of intelligence, this commodification of intelligence,...  
 **Translation:** 
 
-**[8217.58s] English:** You know, cause you anxiety. You should be inspired by that.  
-**Translation:** Vocabulary: commoditization: 商品化; democratization: 民主化
+**[8217.58s] English:** You know, it causes you anxiety, but you should be inspired by that.  
+**Translation:** Vocabulary: commodification: 商品化; democratization: 民主化
 
-**[8220.08s] English:** Yeah, I think AI will help us celebrate humans more.  
+**[8220.08s] English:** Yeah, I think AI will help us celebrate humanity more.  
 **Translation:** 
 
-**[8223.92s] English:** And I'm certainly humanity and human first.  
+**[8223.92s] English:** And I am certainly human, and human-first.  
 **Translation:** 
 
-**[8230.42s] English:** And I think what makes this world incredible is humans forever will be so.  
+**[8230.42s] English:** And I think what makes this world incredible is that humans will always be so.  
 **Translation:** 
 
 **[8235.86s] English:** And just AI is this incredible tool that makes us humans more powerful.  
@@ -5218,14 +5219,14 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8240.02s] English:** That's exactly right.  
 **Translation:** 
 
-**[8242.10s] English:** So much of the success of NVIDIA and the lives of millions...  
+**[8242.10s] English:** So much of the success of NVIDIA and the lives of millions,...  
 **Translation:** 
 
 **[8247.58s] English:** The people that I mentioned depend on you.  
 **Translation:** 
 
-**[8251.66s] English:** But you're just one human, like we mentioned, mortal, like all of us.  
-**Translation:** 
+**[8251.66s] English:** But you're just one human, like we mentioned—mortal, like all of us.  
+**Translation:** Vocabulary: mortal: 凡人
 
 **[8256.76s] English:** Do you think about your mortality?  
 **Translation:** 
@@ -5245,7 +5246,7 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8268.64s] English:** I have really important work.  
 **Translation:** 
 
-**[8274.28s] English:** This is not a once in a...  
+**[8274.28s] English:** This is not a once-in-a-lifetime opportunity.  
 **Translation:** 
 
 **[8277.58s] English:** Once in a lifetime.  
@@ -5254,152 +5255,152 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8279.62s] English:** Once in a lifetime.  
 **Translation:** 
 
-**[8280.00s] English:** experience suggests that it has been experienced by many people, just not one person. This is a  
+**[8280.00s] English:** Experience suggests that it has been experienced by many people, just not one person. This is a  
 **Translation:** 
 
-**[8287.70s] English:** once-in-a-humanity experience, what I'm going through. NVIDIA is one of the most consequential  
+**[8287.70s] English:** Once in a humanity experience, what I'm going through. NVIDIA is one of the most consequential.  
 **Translation:** 
 
-**[8293.60s] English:** technology companies in history. We're doing very important work. I take it very seriously.  
+**[8293.60s] English:** Technology companies in history. We're doing very important work. I take it very seriously.  
 **Translation:** Vocabulary: consequential: 有重大影响的
 
-**[8300.76s] English:** And so some of the things that, of course, are practical things, like how do we think about  
+**[8300.76s] English:** And so, some of the things that, of course, are practical things, like how do we think about it?  
 **Translation:** 
 
-**[8307.26s] English:** succession planning? And I'm famous in saying that I don't believe in succession planning.  
+**[8307.26s] English:** Succession planning? And I'm famous in saying that I don't believe in succession planning.  
 **Translation:** 
 
 **[8315.96s] English:** And the reason for that isn't because I'm immortal. The reason for that is because  
 **Translation:** 
 
-**[8323.70s] English:** if you're worried about succession planning, if you're worried, all that anxiety of succession  
+**[8323.70s] English:** If you're worried about succession planning, if you're worried about all that anxiety surrounding it,  
 **Translation:** Vocabulary: immortal: 长生不老
 
-**[8330.42s] English:** planning, then what should you do about it? Then you break it all the way back down.  
+**[8330.42s] English:** Planning, then what should you do about it? Then, you break it all the way back down.  
 **Translation:** 
 
-**[8333.76s] English:** The most important thing you should do today, if you care about the future,  
+**[8333.76s] English:** The most important thing you should do today, if you care about the future, is [insert action].  
+**Translation:** Vocabulary: insert: 插入
+
+**[8337.26s] English:** Of your company, our posts are to pass on knowledge, information, insight, and skills.  
 **Translation:** 
 
-**[8337.26s] English:** of your company, post you, is to pass on knowledge, information, insight, skills,  
+**[8344.98s] English:** Experience as often and continuously as you can, which is the reason why I continue to reason.  
 **Translation:** 
 
-**[8344.98s] English:** experience as often and continuously as you can, which is the reason why I continuously reason  
+**[8350.34s] English:** About everything in front of my team. Every single meeting is about a reasoning meeting.  
 **Translation:** 
 
-**[8350.34s] English:** about everything in front of my team. Every single meeting is about a reasoning meeting.  
+**[8356.22s] English:** Every moment I spend inside or outside a company is about passing on knowledge to people.  
 **Translation:** 
 
-**[8356.22s] English:** Every moment I spend inside a company, outside a company, is about passing on knowledge to people  
+**[8362.02s] English:** As fast as I can. Nothing I learn ever sits on my desk.  
 **Translation:** 
 
-**[8362.02s] English:** as fast as I can. Nothing I learn ever sits on my desk.  
+**[8367.26s] English:** A fraction of a second. I'm passing that information and that knowledge. Oh my gosh.  
 **Translation:** 
 
-**[8367.26s] English:** A fraction of a second. I'm passing that information, that knowledge. Oh my gosh,  
+**[8372.06s] English:** This is cool. Before I even finish learning all of it myself, I've already pointed it to somebody.  
 **Translation:** 
 
-**[8372.06s] English:** this is cool. Before I even finish learning all of it myself, I've already pointed it to somebody  
+**[8377.30s] English:** Else, get on this. This is so cool. You're going to want to learn this. And so, I'm constantly...  
 **Translation:** 
 
-**[8377.30s] English:** else. Get on this. This is so cool. You're going to want to learn this. And so I'm constantly  
+**[8383.02s] English:** Passing knowledge, empowering people, elevating the capability of everyone around me, so that  
 **Translation:** 
 
-**[8383.02s] English:** passing knowledge, empowering people, elevating the capability of everybody around me so that  
-**Translation:** 
-
-**[8389.72s] English:** the outcome that I seek, that I hope for, is that I die on it.  
+**[8389.72s] English:** The outcome that I seek, that I hope for, is that I die on it.  
 **Translation:** Vocabulary: capability: 能力; elevating: 提升; empowering: 赋能
 
 **[8396.98s] English:** I die on it. I die on it. I die on it. I die on it. I die on it. I die on it. I die on it. I die on it. I die on it.  
 **Translation:** 
 
-**[8397.26s] English:** I die on the job.  
+**[8397.26s] English:** I died on the job.  
 **Translation:** 
 
-**[8400.00s] English:** i die on the job instantaneously yeah and there's no long periods of suffering you know  
+**[8400.00s] English:** I die on the job instantly, yeah, and there's no long periods of suffering, you know.  
 **Translation:** 
 
-**[8405.10s] English:** well from a fan perspective uh given your your uh extremely  
-**Translation:** Vocabulary: instantaneously: 瞬间
+**[8405.10s] English:** Well, from a fan's perspective, uh, given your extremely  
+**Translation:** Vocabulary: instantly: 立刻
 
-**[8411.36s] English:** um your enormous positive impact on civilization of course i hope you keep going but also it's  
+**[8411.36s] English:** Um, your enormous positive impact on civilization—of course, I hope you keep going, but also it's  
 **Translation:** 
 
-**[8419.48s] English:** just fun to watch what he is doing you know it's just the rate of innovation and i'm a huge fan  
+**[8419.48s] English:** Just fun to watch what he's doing; you know, it's just the rate of innovation, and I'm a huge fan.  
 **Translation:** 
 
-**[8425.70s] English:** of engineering it's so much incredible engineering is continuously being done by nvidia it's just fun  
+**[8425.70s] English:** Of engineering, it's so much incredible engineering is continuously being done by NVIDIA; it's just fun!  
 **Translation:** 
 
-**[8431.20s] English:** to watch it's a celebration of humanity celebration of great builders the celebration of great  
+**[8431.20s] English:** To watch, it's a celebration of humanity, a celebration of great builders, the celebration of great.  
 **Translation:** 
 
-**[8435.92s] English:** engineering so it represents something special uh so i hope you and nvidia keep going what gives  
+**[8435.92s] English:** Engineering, so it represents something special, uh. So I hope you and NVIDIA keep going. What gives?  
 **Translation:** 
 
-**[8442.80s] English:** you hope about this whole thing we got going on about humanity about the future of humanity when  
+**[8442.80s] English:** You hope about this whole thing we're got going on about humanity and the future of humanity when  
 **Translation:** 
 
-**[8448.66s] English:** you look out and you think about the future quite a bit when you look out 10 20 50 100 years from  
+**[8448.66s] English:** You look out and think about the future quite a bit when you look out 10, 20, 50, or 100 years from now.  
 **Translation:** 
 
-**[8453.80s] English:** now what gives you hope  
+**[8453.80s] English:** Now, what gives you hope?  
 **Translation:** 
 
-**[8455.70s] English:** i i've always had i've always had uh uh great confidence in in the in the kindness uh the  
+**[8455.70s] English:** I've always had great confidence in the kindness of people, uh-huh.  
 **Translation:** 
 
-**[8467.00s] English:** generosity uh um the compassion the human capacity i've always been extremely confident of that  
+**[8467.00s] English:** Generosity, uh, um, the compassion—the human capacity—I've always been extremely confident in that.  
 **Translation:** Vocabulary: compassion: 同情; generosity: 慷慨
 
-**[8478.42s] English:** sometimes um  
+**[8478.42s] English:** Sometimes, um,...  
 **Translation:** 
 
-**[8480.10s] English:** more so than i should  
+**[8480.10s] English:** More so than I should.  
 **Translation:** 
 
-**[8484.34s] English:** and  
+**[8484.34s] English:** And  
 **Translation:** 
 
-**[8485.70s] English:** and i get taken advantage of but it doesn't it doesn't ever cause me not to i start with  
+**[8485.70s] English:** And I get taken advantage of, but it doesn't ever cause me not to start with.  
 **Translation:** 
 
-**[8492.58s] English:** always uh that that people want want to do good people want to um uh help others and  
+**[8492.58s] English:** Always, uh, people want to do good and help others.  
 **Translation:** 
 
-**[8502.04s] English:** vastly i am proven right  
+**[8502.04s] English:** Vastly, I am proven right.  
+**Translation:** Vocabulary: vastly: 广泛地
+
+**[8506.12s] English:** Constantly proven right, and often exceeds my expectations.  
 **Translation:** 
 
-**[8506.12s] English:** constantly proven right and and often uh exceeds my expectations  
+**[8515.70s] English:** And so, I have complete confidence in the human capacity.  
+**Translation:** Vocabulary: exceeds: 超过
+
+**[8520.00s] English:** I think the things that give me incredible hope are what I see as I extrapolate: as what I see now is possible, and as I extrapolate based on the things we're doing, what will very likely happen.  
 **Translation:** 
 
-**[8515.70s] English:** and and so i have complete confidence in the human capacity  
-**Translation:** 
-
-**[8520.00s] English:** I think the things that give me incredible hope is what I see as I extrapolate, as what I see now is possible, and as I extrapolate based on the things that we're doing, what will very likely happen.  
-**Translation:** 
-
-**[8540.64s] English:** And that there's so many things that we want to solve. There's so many problems we want to solve. There's so many things that we want to build. There's so many good things that we want to do that are now within our reach and within the reach of my lifetime. You just can't possibly not be romantic about that. You know what I'm saying?  
+**[8540.64s] English:** And there are so many things that we want to solve. There are so many problems we want to address. There are so many things we want to build. There are so many good things we want to do, and they're now within our reach—and within the reach of my lifetime. You just can't possibly not be romantic about that, you know what I'm saying?  
 **Translation:** Vocabulary: extrapolate: 推断
 
-**[8565.84s] English:** Yeah, what an exciting time to be alive. Like truly, truly so.  
+**[8565.84s] English:** Yeah, what an exciting time to be alive. Truly, truly so.  
 **Translation:** 
 
 **[8570.32s] English:** How can you not be romantic about that? The fact that it's a reasonable thing to expect the end of disease. It's a reasonable thing to expect. It's a reasonable thing to expect that pollution will be drastically reduced. It's a reasonable thing to expect that traveling at the speed of light is actually in our future.  
-**Translation:** Vocabulary: drastically: 急剧地
+**Translation:** Vocabulary: drastically: 剧烈地
 
-**[8596.72s] English:** And then, you know, not for long distances, but short distances.  
+**[8596.72s] English:** And then, you know, not for long distances, but for short distances.  
 **Translation:** 
 
-**[8600.32s] English:** You know, people ask me how. Well, first of all, very soon, I'm going to put a humanoid on a spaceship, and it's going to be, you know, my humanoid. And we're going to send it out as soon as possible. And it's going to keep improving and enhancing along the flight.  
-**Translation:** Vocabulary: enhancing: 改进; humanoid: 类人机器人
+**[8600.32s] English:** You know, people ask me how. Well, first of all, very soon, I'm going to put a humanoid on a spaceship, and it's going to be my humanoid. And we're going to send it out as soon as possible. And it's going to keep improving and enhancing along the flight.  
+**Translation:** Vocabulary: enhancing: 提升; humanoid: 类人机器人
 
-**[8616.60s] English:** And then when it's time, all of my consciousness has already been, you know, so much of my life has been uploaded in the internet. Take all my inbox, take everything that I've done, everything I've said, you know, it's been becoming my AI.  
+**[8616.60s] English:** And then, when it's time, all of my consciousness has already been, you know, so much of my life has been uploaded to the internet. Take all my inbox, take everything that I've done, everything I've said—you know, it's been becoming my AI.  
 **Translation:** 
 
-**[8630.32s] English:** And, you know, when the time comes, you know, we'll just send that at the speed of light, catch up with my robot.  
-**Translation:** 
+**[8630.32s] English:** And, you know, when the time comes, we'll just send that at the speed of light to catch up with my robot.  
+**Translation:** Vocabulary: consciousness: 意识
 
 **[8640.00s] English:** Oh, that's brilliant.  
 **Translation:** 
@@ -5410,26 +5411,26 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8644.50s] English:** But also, for me, the curiosity-maxing perspective,  
 **Translation:** 
 
-**[8649.60s] English:** I just, all of those mysteries,  
+**[8649.60s] English:** I just can't believe all of those mysteries.  
 **Translation:** 
 
-**[8651.42s] English:** there's so much fascinating scientific questions there.  
+**[8651.42s] English:** There are so many fascinating scientific questions there.  
 **Translation:** 
 
 **[8654.72s] English:** Understanding the biological machine is right around the corner.  
 **Translation:** 
 
-**[8658.24s] English:** It's not 10 years, it's five years probably.  
+**[8658.24s] English:** It's not 10 years; it's five years, probably.  
 **Translation:** 
 
 **[8660.30s] English:** And the neurobiological machine, the human mind,  
+**Translation:** Vocabulary: neurobiological: 神经生物学的
+
+**[8663.06s] English:** And cracking physics and theoretical physics open is so exciting.  
 **Translation:** 
 
-**[8663.06s] English:** and cracking physics, theoretical physics open, it's so exciting.  
-**Translation:** 
-
-**[8666.42s] English:** Explaining consciousness, that one would be awesome.  
-**Translation:** Vocabulary: cracking: 难解的
+**[8666.42s] English:** Explaining consciousness—that would be awesome.  
+**Translation:** Vocabulary: cracking: 破解
 
 **[8668.72s] English:** And it's all within our reach.  
 **Translation:** 
@@ -5446,19 +5447,19 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8678.00s] English:** I can tell you're a great human being.  
 **Translation:** 
 
-**[8681.48s] English:** And I wish you incredible success this year.  
+**[8681.48s] English:** And I wish you incredible success this year!  
 **Translation:** 
 
 **[8685.84s] English:** I can't wait.  
 **Translation:** 
 
-**[8686.36s] English:** As a fan, I can't wait to see what you do next.  
+**[8686.36s] English:** As a fan, I can't wait to see what you'll do next.  
 **Translation:** 
 
 **[8688.48s] English:** And hopefully, I'll see you in Taiwan.  
 **Translation:** 
 
-**[8690.44s] English:** And thank you so much for talking today.  
+**[8690.44s] English:** And thank you so much for talking today!  
 **Translation:** Vocabulary: taiwan: 台湾
 
 **[8692.74s] English:** Thank you, Lex.  
@@ -5479,22 +5480,22 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8698.72s] English:** The interviews that you do, the depth, the respect that you go through with,  
 **Translation:** 
 
-**[8704.30s] English:** and the research that you do to reveal, you know, for all of us,  
+**[8704.30s] English:** And the research you do to reveal, you know, for all of us,  
 **Translation:** 
 
-**[8709.36s] English:** the amazing people that you've interviewed over the years.  
+**[8709.36s] English:** The amazing people that you've interviewed over the years.  
 **Translation:** 
 
 **[8712.78s] English:** I've enjoyed them immensely.  
 **Translation:** 
 
-**[8715.08s] English:** And as an innovator to have created this long form, unbelievable,  
-**Translation:** Vocabulary: immensely: 极其; innovator: 创新者
+**[8715.08s] English:** And as an innovator to have created this long-form, unbelievable,  
+**Translation:** Vocabulary: immensely: 非常; innovator: 创新者
 
-**[8722.32s] English:** and yet, you know, it's just captivating.  
+**[8722.32s] English:** And yet, you know, it's just captivating.  
 **Translation:** 
 
-**[8724.76s] English:** So anyways, thank you for everything you do.  
+**[8724.76s] English:** So, anyway, thank you for everything you do.  
 **Translation:** Vocabulary: captivating: 引人入胜
 
 **[8726.08s] English:** It means the world.  
@@ -5509,11 +5510,11 @@ Source file: Lex Fridman - Jensen Huang： NVIDIA - The $4 Trillion Company & th
 **[8729.08s] English:** Thank you for listening to this conversation with Jensen Huang.  
 **Translation:** Vocabulary: huang: 黄
 
-**[8732.46s] English:** To support this podcast, please check out our sponsor in the description,  
+**[8732.46s] English:** To support this podcast, please check out our sponsor in the description.  
 **Translation:** 
 
-**[8735.90s] English:** where you can also find links to contact me, ask questions, give feedback, and so on.  
-**Translation:** 
+**[8735.90s] English:** Where you can also find links to contact me, ask questions, give feedback, and so on.  
+**Translation:** Vocabulary: sponsor: 赞助商
 
 **[8742.24s] English:** And now, let me leave you with some words from Alan Kay.  
 **Translation:** 

@@ -1,5 +1,6 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Churchill & Kim Jong Un ｜ Lex Fridman Podcast #382.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** You know who drank?  
 **Translation:** 
@@ -7,7 +8,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1.06s] English:** It's Churchill.  
 **Translation:** Vocabulary: churchill: 丘吉尔
 
-**[2.12s] English:** That's my, hold on.  
+**[2.12s] English:** That's mine. Hold on.  
 **Translation:** 
 
 **[2.82s] English:** That's my guy.  
@@ -16,13 +17,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[3.66s] English:** Yeah.  
 **Translation:** 
 
-**[3.96s] English:** You know that's my guy, right?  
+**[3.96s] English:** You know, that's my guy, right?  
 **Translation:** 
 
-**[5.14s] English:** So he did champagne.  
+**[5.14s] English:** So, he did champagne.  
 **Translation:** 
 
-**[7.04s] English:** Well, you don't have to tell me a thing about Winston Churchill.  
+**[7.04s] English:** Well, you don't have to tell me anything about Winston Churchill.  
 **Translation:** 
 
 **[10.96s] English:** I found out about his daily routine.  
@@ -31,31 +32,31 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[13.28s] English:** Yeah.  
 **Translation:** 
 
-**[13.52s] English:** So his daily routine was a big breakfast, cigar, coffee, eggs sunny side up, toast, bacon, sausage, tomato, beans, fruit, orange juice, soft scotch, cigar in bed, and he'd sit there for three hours.  
+**[13.52s] English:** So, his daily routine was a big breakfast: a cigar, coffee, eggs sunny-side-up, toast, bacon, sausage, tomato, beans, fruit, and orange juice. He would then have a soft-scotch, a cigar in bed, and sit there for three hours.  
 **Translation:** 
 
 **[28.00s] English:** And then he'd get in the bathtub and drink champagne.  
-**Translation:** Vocabulary: bathtub: 浴缸; cigar: 雪茄; scotch: 威士忌
+**Translation:** Vocabulary: bathtub: 浴缸; cigar: 雪茄
 
 **[30.00s] English:** And then he'd go to lunch and have some goose with more champagne.  
 **Translation:** 
 
-**[34.16s] English:** And then he'd take a nap.  
+**[34.16s] English:** And then he would take a nap.  
 **Translation:** 
 
-**[35.34s] English:** And like, I love that.  
+**[35.34s] English:** And, like, I love that.  
 **Translation:** 
 
-**[36.38s] English:** So every year on the day of his death, I think it's January 24th, I celebrate Winston Churchill's life by living the way he did.  
+**[36.38s] English:** So, every year on the day of his death (January 24th), I celebrate Winston Churchill's life by living the way he did.  
 **Translation:** Vocabulary: winston: 温斯顿
 
-**[42.60s] English:** And so I have breakfast in bed with a soft scotch, and I just party all day.  
+**[42.60s] English:** And so I have breakfast in bed with a soft Scotch, and I just party all day.  
 **Translation:** 
 
 **[46.40s] English:** That would be the guy to drink with.  
-**Translation:** 
+**Translation:** Vocabulary: scotch: 苏格兰威士忌
 
-**[50.14s] English:** The following is a conversation with Bert Kreischer, a stand-up comedian, podcaster, actor, and a man they call The Machine.  
+**[50.14s] English:** The following is a conversation with Bert Kreischer, a stand-up comedian, podcaster, actor, and a man they call "The Machine.  
 **Translation:** 
 
 **[58.78s] English:** I've been a fan of his comedy and podcast for many years, and I highly recommend you watch him on BirdCast, Two Bears, One Cave with Tom Segura, his cooking show called Something is Burning, and finally, the new movie that tells the story of the man, the legend, the machine.  
@@ -67,7 +68,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[80.10s] English:** To support it, please check out our sponsors in the description.  
 **Translation:** Vocabulary: friedman: 弗里德曼; sponsors: 赞助商
 
-**[83.52s] English:** And now, dear friends, here's Bert Kreischer.  
+**[83.52s] English:** And now, dear friends: here's Bert Kreischer.  
 **Translation:** 
 
 **[86.78s] English:** I read somewhere.  
@@ -77,9 +78,9 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[90.44s] English:** Love him.  
-**Translation:** Vocabulary: hemingway: 海明威
+**Translation:** Vocabulary: ernest: 勤奋的; hemingway: 海明威
 
-**[91.44s] English:** There's a quote, there's nothing to writing.  
+**[91.44s] English:** There's a quote: 'There's nothing to writing.  
 **Translation:** 
 
 **[94.26s] English:** All you do is sit down at a typewriter and bleed.  
@@ -94,19 +95,19 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[99.56s] English:** I agree.  
 **Translation:** 
 
-**[100.28s] English:** Well, I agree with that with journaling.  
-**Translation:** Vocabulary: journaling: 日记写作
+**[100.28s] English:** Well, I agree with that about journaling.  
+**Translation:** Vocabulary: journaling: 记日记
 
 **[101.74s] English:** I can't write stand-up.  
 **Translation:** 
 
-**[105.40s] English:** I can't write a bit, but if I journal, I'll find something that I go just write.  
+**[105.40s] English:** I can't write much, but if I journal, I'll find something to just write about.  
 **Translation:** 
 
 **[110.36s] English:** I'm kind of writing where the pen's moving faster than your brain, and they're kind of doing it together.  
 **Translation:** 
 
-**[115.52s] English:** The thing I liked about Ernest Hemingway, this is so stupid.  
+**[115.52s] English:** The thing I liked about Ernest Hemingway; this is so stupid.  
 **Translation:** 
 
 **[119.48s] English:** I'm.  
@@ -117,6 +118,9 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 
 **[120.00s] English:** I'm.  
 **Translation:** 
+
+**[120.00s] English:** A little dyslexic, and so I'm not a good reader, and so he wrote very simply. It wasn't until  
+**Translation:** Vocabulary: dyslexic: 阅读困难的
 
 **[120.06s] English:** I'm.  
 **Translation:** 
@@ -151,394 +155,391 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[120.28s] English:** I'm.  
 **Translation:** 
 
-**[120.00s] English:** a little dyslexic and so i'm not a good reader and so he wrote very simply and it wasn't until  
+**[125.44s] English:** After I read a bunch of Ernest Hemingway, I was working on the parts of "Noble," and this person said  
 **Translation:** 
 
-**[125.44s] English:** after i read a bunch of ernest hemingway i was working the parts of noble and this person said  
-**Translation:** Vocabulary: dyslexic: 阅读困难
-
-**[130.48s] English:** don't you love his titles and i was like yeah sun also rises and they're like yeah but no the sun  
+**[130.48s] English:** Don't you love his titles? And I was like, "Yeah, *Sun Also Rises*," and they're like, "Yeah, but no, the Sun.  
 **Translation:** 
 
-**[135.28s] English:** also rises and i was like yeah sun also rises and they're like no this no the sun also rises and i  
+**[135.28s] English:** Also, it rises, and I was like, "Yeah, *Sun Also Rises*," and they're like, "No, this is not *The Sun Also Rises*.  
 **Translation:** 
 
-**[141.94s] English:** went oh oh yeah that is fucking badass yeah and then i'm like always late to the party with  
+**[141.94s] English:** Went, oh, oh, yeah, that is fucking badass! Yeah, and then I'm like, always late to the party with...  
 **Translation:** 
 
-**[149.44s] English:** anything and then that night we were all doing coke and uh it was like five in the morning and  
+**[149.44s] English:** Anything, and then that night we were all doing coke, and it was like five in the morning.  
 **Translation:** Vocabulary: badass: 牛逼
 
-**[154.90s] English:** we ended up on the roof of my apartment in greenwich village and it's like i'm a sunset  
+**[154.90s] English:** We ended up on the roof of my apartment in Greenwich Village, and it's like I'm watching a sunset.  
 **Translation:** 
 
-**[162.10s] English:** guy i grew up in florida but sunrises in new york are electric blue like electric blue  
+**[162.10s] English:** Guy, I grew up in Florida, but sunrises in New York are electric blue—like electric blue.  
 **Translation:** Vocabulary: greenwich: 格林威治; sunrises: 日出
 
-**[168.64s] English:** and i was like the sun also rises yeah he was so good with just a handful of words  
+**[168.64s] English:** And I was like, "The Sun Also Rises." Yeah, he was so good with just a handful of words.  
 **Translation:** 
 
-**[178.58s] English:** yeah the  
+**[178.58s] English:** Yeah, the  
 **Translation:** 
 
-**[179.44s] English:** simplicity the choice of words like uh basically his process is carving down right drunk edit sober  
+**[179.44s] English:** Simplicity: the choice of words, like "uh, basically." His process is carving down, right? Drunk edit, sober.  
 **Translation:** 
 
-**[185.84s] English:** right drunk edit sober yeah but he was good at like at like a small amount of words to to get  
-**Translation:** Vocabulary: simplicity: 简单; sober: 清醒
+**[185.84s] English:** Right, drunk, edit, sober—yeah, but he was good at using a small amount of words to get  
+**Translation:** Vocabulary: carving: 雕琢; simplicity: 简洁; sober: 清醒
 
-**[193.10s] English:** a point across i'm the exact fucking opposite well he's also said uh the first draft of anything's  
+**[193.10s] English:** A point across, I'm the exact fucking opposite. Well, he's also said that the first draft of anything is  
 **Translation:** 
 
-**[200.02s] English:** always shit is that uh is that true for you i think so it's the best one i have it goes downhill  
-**Translation:** Vocabulary: downhill: 下滑
+**[200.02s] English:** Always, I think it's the best one. It's true for you, right? It goes downhill from there.  
+**Translation:** Vocabulary: downhill: 走下坡路
 
-**[208.30s] English:** from there so for you  
+**[208.30s] English:** From there, so far, you.  
 **Translation:** 
 
-**[209.44s] English:** the first time i tell it the first time i tell it it's perfect it's perfect it just it works  
+**[209.44s] English:** The first time I tell it, it's perfect. It just works.  
 **Translation:** 
 
-**[218.28s] English:** and then i go great and then i take it and i try to fix it and make it better and jazzier i just  
+**[218.28s] English:** And then I go, "Great!" and then I take it and try to fix it and make it better and jazzier.  
 **Translation:** 
 
-**[223.42s] English:** joke and razzle dazzle about my daughters and i drive them past a deaf child sign and uh i just  
-**Translation:** Vocabulary: razzle: 耀目
+**[223.42s] English:** Joke and razzle-dazzle about my daughters, and I drive them past a "Deaf Child" sign, and I just  
+**Translation:** Vocabulary: jazzier: 更加有活力
 
-**[229.38s] English:** told it on stage it just happened and louis was in the audience he was i love that joke i said  
+**[229.38s] English:** Told it on stage, it just happened, and Louis was in the audience. He was, "I love that joke," I said.  
 **Translation:** 
 
-**[236.22s] English:** really he was yeah and i just told it and i went done louis ck said i love that joke i said really  
+**[236.22s] English:** Really, he was, yeah. And I just told it; and I went, "Done." Louis C.K. said, "I love that joke," and I said, "Really.  
 **Translation:** 
 
-**[239.44s] English:** he says he likes it  
+**[239.44s] English:** He says, "He likes it.  
 **Translation:** 
 
-**[240.00s] English:** joke it's fucking it's in the special mm-hmm and I tried to fucking razzle  
+**[240.00s] English:** Joke: It's fucking in the special, mm-hmm, and I tried to fucking razzle.  
+**Translation:** Vocabulary: razzle: 炫耀
+
+**[245.88s] English:** Dazzle that joke into a 15-minute bit; it got to the point where it was so...  
 **Translation:** 
 
-**[245.88s] English:** dazzle that joke into like a 15-minute bit it got to the point where it was so  
+**[249.88s] English:** Of course, if it wasn't so bad that I told him I did a podcast with him, I said, "What did?  
+**Translation:** Vocabulary: dazzle: 使印象深刻
+
+**[255.60s] English:** You like about that? Jokes, I can't get it to work anymore because it was just...  
 **Translation:** 
 
-**[249.88s] English:** of not it was so bad that I told him I did a podcast with him I said what did  
+**[259.24s] English:** It was simple: your daughter didn't know how they figure out where.  
 **Translation:** 
 
-**[255.60s] English:** you like about that jokes I can't get it to work anymore because it was just  
+**[262.88s] English:** Deaf kids, lived what? That's it. He's like, "Yeah," I was like, "Nothing about guns.  
 **Translation:** 
 
-**[259.24s] English:** simple it was simple that your daughter didn't know how they figure out where  
+**[267.12s] English:** Control, he was like, "Huh." I was like, "Oh fuck, man, I really fucked that joke up.  
 **Translation:** 
 
-**[262.88s] English:** deaf kids lived what that's it he's like yeah I was like nothing about gun  
+**[271.14s] English:** And then I had to go back to the beginning of it, but that first time.  
 **Translation:** 
 
-**[267.12s] English:** control he was like huh I was like oh fuck man I really fucked that joke up  
-**Translation:** 
-
-**[271.14s] English:** and then I had to I had to go back to the beginning of it but that first time  
-**Translation:** 
-
-**[273.88s] English:** that's what that's when the joke comes out purist for me and then it's always  
+**[273.88s] English:** That's what that's when the joke comes out, purist for me, and then it's always.  
 **Translation:** Vocabulary: purist: 完美主义者
 
-**[277.30s] English:** chasing back to get that get that first telling some jokes are different like  
+**[277.30s] English:** Chasing back to get that first telling; some jokes are different, like...  
 **Translation:** 
 
-**[280.98s] English:** the Machine obviously was a much longer story and like and like escape room for  
+**[280.98s] English:** The machine, obviously, was a much longer story and, like, an escape room for.  
+**Translation:** Vocabulary: chasing: 追根究底
+
+**[284.52s] English:** This one: the longer stories take a little work, but the simple ones are like  
 **Translation:** 
 
-**[284.52s] English:** this one the longer stories take a little work but the the simple ones like  
+**[289.38s] English:** Like the deaf child, and pajamas—and those first times are perfect. What do  
+**Translation:** Vocabulary: pajamas: 睡衣
+
+**[294.54s] English:** You think it's about the Machine story?  
 **Translation:** 
 
-**[289.38s] English:** like the deaf child and pajamas and those first times are perfect what do  
+**[297.10s] English:** That worked so captivately for people; I think it's amazing, but I don't  
+**Translation:** Vocabulary: captivately: 深深吸引地
+
+**[306.76s] English:** I know, I really wish I knew. I think it's a good story. I think it's a good  
 **Translation:** 
 
-**[294.54s] English:** you think is is it about the Machine story  
+**[311.50s] English:** Story: I think everyone has something similar that happened in their life.  
 **Translation:** 
 
-**[297.10s] English:** that works that was so captivating for people I think it's a I think I don't  
-**Translation:** Vocabulary: captivating: 引人入胜
-
-**[306.76s] English:** know I really wish I don't know I think it's a good story I think it's a good  
+**[314.74s] English:** Where they had a crazy night, and that no one believed it, and they told their friends.  
 **Translation:** 
 
-**[311.50s] English:** story I think everyone has something similar that happened in their life  
+**[320.22s] English:** And their friend, and they experienced that with a friend like that, and then I.  
 **Translation:** 
 
-**[314.74s] English:** where they had a crazy night and that no one believed and they told their friends  
+**[325.06s] English:** Think.  
 **Translation:** 
 
-**[320.22s] English:** and their friend and or they experienced that with a friend like that and and I  
+**[327.10s] English:** I think that's got to be it. I really don't know; I think there's a part of me that doubts it.  
 **Translation:** 
 
-**[325.06s] English:** think  
+**[330.52s] English:** I think there's a part of our community of comedy fans that were that  
 **Translation:** 
 
-**[327.10s] English:** I think that's got to be it I really don't know I think there's a part of I  
+**[335.34s] English:** Early death squad that was fun to watch; someone took something from the podcast.  
 **Translation:** 
 
-**[330.52s] English:** think there's a part of the like our community of comedy fans that were that  
+**[340.24s] English:** And turn it into a bit on stage, yeah. I think there was a lot of that, but I think  
 **Translation:** 
 
-**[335.34s] English:** early death squad that was fun to watch someone take something from the podcast  
+**[344.74s] English:** People identify with a wild, crazy night that got out of control that they've  
 **Translation:** 
 
-**[340.24s] English:** and turn it into a bit on stage yeah I think there was a lot of that but I think  
+**[350.98s] English:** Probably, I had to. I don't fucking know. You think Putin knows who you are?  
 **Translation:** 
 
-**[344.74s] English:** people identify with a wild crazy night that got out of control that they've  
+**[356.22s] English:** Because of that story, I don't fucking know. I don't fucking know. I don't fucking know.  
 **Translation:** 
 
-**[350.98s] English:** probably had to I think I don't fucking know you think Putin knows who you are  
+**[357.06s] English:** You think Putin knows who you are because of that story? I hope so. I fucking hope so.  
 **Translation:** 
 
-**[356.22s] English:** because of that story I don't fucking know I don't fucking know I don't fucking know  
+**[359.52s] English:** Because of that story, I hope so. I fucking hope so.  
 **Translation:** 
 
-**[357.06s] English:** you think Putin knows who you are because of that story I hope so I fucking hope so  
+**[360.00s] English:** Hope so, but there's a part of me that you've got to understand is like.  
 **Translation:** 
 
-**[359.52s] English:** because of that story I hope so I fucking hope so  
+**[364.32s] English:** I'm not the one who says stuff like that. I'm sure there's someone who hears that and goes  
 **Translation:** 
 
-**[360.00s] English:** hope so but there's there's a part of me that that you got to understand is like  
+**[369.34s] English:** Who is this fucking narcissist? You're, like, no, that's not it; I'm just telling.  
 **Translation:** 
 
-**[364.32s] English:** I'm not I say stuff like that I'm sure there's someone hears that and they go  
+**[372.36s] English:** You, the truth like I understand what I'm supposed to say. Well, you know, I don't.  
+**Translation:** Vocabulary: narcissist: 自恋的人
+
+**[376.20s] English:** Know, I don't. You know, I don't know. That's hard to say, but I don't fucking give afuck.  
 **Translation:** 
 
-**[369.34s] English:** who is this fucking narcissist you're like no that's not it I'm just telling  
+**[380.28s] English:** Shit, about that guy. I'm not that guy. I'm telling you everything that comes out of.  
 **Translation:** 
 
-**[372.36s] English:** you the truth like I understand what I'm supposed to say well you know I don't  
-**Translation:** Vocabulary: narcissist: 自恋狂
-
-**[376.20s] English:** know I do you know I I don't know that's hard to say but I don't fucking give a  
+**[383.88s] English:** My mouth, the second it comes out, I'm gonna be 100% honest: I don't know anything.  
 **Translation:** 
 
-**[380.28s] English:** shit about that guy I'm not that guy I'm telling you everything that comes out of  
+**[387.48s] English:** Other ways to live? I kind of hope so; that would be fucking cool, and I look forward to it.  
 **Translation:** 
 
-**[383.88s] English:** my mouth the second it comes out I'm gonna be 100% honest I don't know any  
+**[391.98s] English:** Know, he's a bat. I guess he's a bad dude. I don't follow politics, but it'd be  
 **Translation:** 
 
-**[387.48s] English:** other way to live I kind of hope so that would be fucking cool and I look I  
+**[395.04s] English:** Cool, like one day, someone's like, "He's on his computer," and so I'm gonna go.  
 **Translation:** 
 
-**[391.98s] English:** know he's a bat I guess he's a bad dude I don't follow politics done but it'd be  
+**[399.18s] English:** Stow it. And he's like, and he's like, and it shows it to him, and then he's.  
 **Translation:** 
 
-**[395.04s] English:** cool like one day someone's like he's he's on his computer and so I'm gonna go  
+**[407.76s] English:** Like fucking this guy, huh? It's not out of the realm of possibility that Putin  
 **Translation:** 
 
-**[399.18s] English:** stow it and he's like and he's like and it shows it to him and and then he's  
+**[413.46s] English:** Has watched it, and this podcast has kind of made me realize how  
 **Translation:** 
 
-**[407.76s] English:** like fucking this guy huh it's not out of the realm of possibility that Putin  
+**[416.76s] English:** Like, small the world is, but it's not out of the realm of possibility that Putin has watched it. This podcast has kind of made me realize how small the world really is.  
 **Translation:** 
 
-**[413.46s] English:** has watched it and this this podcast this has kind of made me realize how  
+**[417.46s] English:** I've gotten to know some incredibly interesting people, especially the ones you've met.  
 **Translation:** 
 
-**[416.76s] English:** like small the world is but it's not out of the realm of possibility that Putin has watched it and this this podcast this has kind of made me realize how like small the world  
+**[422.76s] English:** Like, that's the thing; I mean, that's gotten really crazy the  
 **Translation:** 
 
-**[417.46s] English:** is I've gotten to me some incredibly oh yeah especially the people you've met  
+**[430.24s] English:** The Internet's really insane, and Netflix is really insane, and the reach of it all is really something.  
 **Translation:** 
 
-**[422.76s] English:** like that's I mean that's the thing where I go it's gotten really crazy the  
+**[434.50s] English:** People who like this are really simple, but like, I'm a big fan of the show Drink.  
 **Translation:** 
 
-**[430.24s] English:** Internet's really insane and Netflix is really insane and the reach of like  
+**[439.30s] English:** Champs, I didn't think in a million years nor would he ever know who I was, and  
 **Translation:** 
 
-**[434.50s] English:** people that like this is really simple but like I'm a big fan of the show drink  
-**Translation:** 
-
-**[439.30s] English:** champs I didn't think in a million years nor he would ever know who I was and  
-**Translation:** 
-
-**[442.42s] English:** then he offered me to come to his podcast and then when I got there he  
+**[442.42s] English:** Then he offered me to come to his podcast, and then when I got there, he  
 **Translation:** Vocabulary: champs: 冠军
 
-**[445.60s] English:** told me he was a fan of mine and I went  
+**[445.60s] English:** Told me he was a fan of mine, and I went.  
 **Translation:** 
 
-**[447.46s] English:** like I remember moving to New York listening to you and Capone like I'm  
-**Translation:** Vocabulary: capone: 卡彭
-
-**[452.98s] English:** sitting there going wow like and then and the phone calls I've gotten since  
+**[447.46s] English:** Like I remember moving to New York, listening to you and Capone, as if I'm  
 **Translation:** 
 
-**[458.26s] English:** the movie came out and uh since razzle dazzle came out have been really insane  
-**Translation:** Vocabulary: razzle: 花哨
-
-**[463.18s] English:** when you realize as much as I know about people and I I like there's people I'm  
+**[452.98s] English:** Sitting there, going "wow," like, and then the phone calls I've gotten since.  
 **Translation:** 
 
-**[469.36s] English:** fans of that don't know who I am that that like that are like they're like  
+**[458.26s] English:** The movie came out, and since Razzle Dazzle came out, it has been really insane.  
+**Translation:** Vocabulary: dazzle: 炫目; razzle: 哗众取宠
+
+**[463.18s] English:** When you realize, as much as I know about people, and I like there's people I'm  
 **Translation:** 
 
-**[473.20s] English:** some uh pitcher in fucking Florida that I follow the kids I like I think I just  
+**[469.36s] English:** Fans of that don't know who I am, that like it, are like.  
 **Translation:** 
 
-**[476.74s] English:** I don't know who I am that like that are like they're like some uh pitcher in fucking Florida that I follow the kids I like I think I just  
+**[473.20s] English:** Some uh pitcher in Florida that I follow; the kids I like, I think I just  
 **Translation:** 
 
-**[477.30s] English:** I was fun to watch and pitch there was a softball player  
+**[476.74s] English:** I don't know who I am that's like, you know, some pitcher in fucking Florida that I follow. The kids, I like—I think I just  
+**Translation:** Vocabulary: pitcher: 投手
+
+**[477.30s] English:** I was fun to watch, and there was a softball player.  
 **Translation:** 
 
-**[480.00s] English:** in uh tempe that she's do catching drills and i was really into softball with my daughter and we  
-**Translation:** Vocabulary: softball: 软式棒球
+**[480.00s] English:** In Tempe, she's been doing catching drills, and I was really into softball with my daughter and we  
+**Translation:** Vocabulary: softball: 软式棒球; tempe: Tempe
 
-**[484.68s] English:** watch her catching girls there's a girl d glazer who me and my daughters will watch her dance  
+**[484.68s] English:** Watch her catching girls; there's a girl, D. Glazer, whom we and my daughters will watch dance.  
 **Translation:** 
 
-**[489.74s] English:** videos and then i hit her up she's like you know who i am and you're like oh yeah that's the way  
-**Translation:** Vocabulary: glazer: 玻璃匠
-
-**[492.60s] English:** the world works uh what world leader would you drink with if you could so you mentioned putin  
+**[489.74s] English:** Videos, and then I hit her up. She's like, "You know who I am," and you're like, "Oh, yeah, that's the way.  
 **Translation:** 
 
-**[497.24s] English:** so putin doesn't drink much yeah zelensky drinks more but also not much forrest yeltsin would have  
+**[492.60s] English:** The world works, huh? What world leader would you drink with if you could? So, you mentioned Putin.  
 **Translation:** 
 
-**[503.96s] English:** been a good one he would have been a fucking good one i mean like i i go hitler was a pussy  
+**[497.24s] English:** So Putin doesn't drink much, yeah? Zelensky drinks a bit more, but also not much. Forrest Yeltsin would have...  
 **Translation:** 
 
-**[509.88s] English:** like he he drank wine with a with a cut with a spoonful of sugar in it you never drank what  
+**[503.96s] English:** Been a good one, he would have been a fucking good one. I mean, like, I go, Hitler was a pussy.  
 **Translation:** 
 
-**[515.90s] English:** churchill that's my whole and that's my guy yeah you know that's my guy right no i don't know that's  
+**[509.88s] English:** Like he drank wine with a spoonful of sugar in it, you never drank what?  
+**Translation:** Vocabulary: hitler: 希特勒; pussy: 胆小鬼
+
+**[515.90s] English:** Churchill, that's my whole and that's my guy. Yeah, you know, that's my guy. Right? No, I don't know that's  
 **Translation:** 
 
-**[520.72s] English:** your guy so he uh he did champagne well let me do you don't have to tell me a thing about  
-**Translation:** Vocabulary: churchill: 丘吉尔
+**[520.72s] English:** Your guy so he uh did champagne, well let me rephrase — you don't have to tell me anything about it.  
+**Translation:** Vocabulary: churchill: 丘吉尔; rephrase: 重新表述
 
-**[526.22s] English:** winston churchill he i found out about his daily routine yeah so his daily routine was a big  
+**[526.22s] English:** Winston Churchill: He I found out about his daily routine, yeah. So, his daily routine was a big  
 **Translation:** 
 
-**[532.00s] English:** breakfast cigar coffee  
+**[532.00s] English:** Breakfast, cigar, coffee.  
 **Translation:** Vocabulary: cigar: 雪茄
 
-**[533.96s] English:** eggs over eggs sunny side up toast bacon sausage tomato beans uh fruit orange juice soft scotch  
+**[533.96s] English:** Eggs over easy, sunny-side up. Toast, bacon, sausage, tomato, beans. Uh, fruit, orange juice, and a soft-scotch egg.  
 **Translation:** 
 
-**[543.02s] English:** cigar in bed and he'd sit there for three hours and he'd hold morning breakfast and that's they'd  
-**Translation:** Vocabulary: scotch: 苏格兰威士忌
-
-**[549.04s] English:** come in and he'd run through his day and then he'd get in the bathtub for fucking an hour and  
+**[543.02s] English:** Cigar in bed, and he'd sit there for three hours. He'd hold off on morning breakfast, and that's what they'd do.  
 **Translation:** 
 
-**[553.36s] English:** drink champagne and then he'd go to lunch and have some goose or whatever the fuck they ate back then  
+**[549.04s] English:** Come in, and he'd run through his day, and then he'd get in the bathtub for fucking an hour.  
+**Translation:** 
+
+**[553.36s] English:** Drink champagne, and then he'd go to lunch and have some goose or whatever the fuck they ate back then.  
 **Translation:** Vocabulary: bathtub: 浴缸; goose: 鹅肉
 
-**[558.12s] English:** with more champagne and then and then and then i mean and then he'd take a nap and like  
+**[558.12s] English:** With more champagne, and then—and then—he'd take a nap, and then like.  
 **Translation:** 
 
-**[563.60s] English:** i don't know i don't know i don't know i don't know i don't know i don't know i don't know i don't  
+**[563.60s] English:** I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know.  
 **Translation:** 
 
-**[563.94s] English:** know i love that so every year on hit the day of his death and he's january 24th i celebrate  
+**[563.94s] English:** Know, I love that so every year on the day of his death (January 24th), I celebrate.  
 **Translation:** 
 
-**[567.86s] English:** winston churchill's life by living the way he did and so i have breakfast in bed with a soft scotch  
-**Translation:** Vocabulary: winston: 温斯顿
+**[567.86s] English:** Winston Churchill's life by living the way he did, and so I have breakfast in bed with a soft Scotch.  
+**Translation:** Vocabulary: scotch: 苏格兰威士忌; winston: 温斯顿
 
-**[572.82s] English:** and i just party all fucking day that would be the guy to drink with that would be the guy if you  
+**[572.82s] English:** And I'd just party all fucking day. That would be the guy to drink with. That would be the guy if you.  
 **Translation:** 
 
-**[578.62s] English:** could pick anyone to drink with he drank every day throughout the day he lived like 94 and was  
+**[578.62s] English:** Could pick anyone to drink with; he drank every day throughout the day. He lived like 94, and was  
 **Translation:** 
 
-**[584.76s] English:** one of the most heroic figures in human history never never surrender i mean what a fucking badass  
+**[584.76s] English:** One of the most heroic figures in human history never surrendered. I mean, what a fucking badass!  
 **Translation:** 
 
-**[592.84s] English:** thing you know he talked about his life and he was like i don't know i don't know i don't know i don't  
-**Translation:** Vocabulary: badass: 牛人
+**[592.84s] English:** Thing you know, he talked about his life, and he was like, "I don't know, I don't know, I don't know, I don't.  
+**Translation:** Vocabulary: badass: 牛逼; surrendered: 投降
 
-**[593.94s] English:** know he thought the queen the queen was like uh like a like a window licking idiot right like she  
+**[593.94s] English:** He thought the queen was like, oh, like a window-licking idiot, right?  
 **Translation:** 
 
-**[598.28s] English:** was she had a third grade  
+**[598.28s] English:** She had a third-grade education.  
 **Translation:** 
 
-**[600.00s] English:** education so like her dad dies and she's like 10 or 12 or whatever the first thing they do is they  
+**[600.00s] English:** Education, so, like, her dad dies, and she's around 10 or 12 or whatever. The first thing they do is they  
 **Translation:** 
 
-**[606.22s] English:** pull her out of school they're like you're done learning you're just gonna be the queen you gotta  
+**[606.22s] English:** Pull her out of school; they're like, "You're done learning. You're just gonna be the queen. You gotta.  
 **Translation:** 
 
-**[609.32s] English:** know this is what you need to learn don't make let people make eye contact with you put your  
+**[609.32s] English:** Know this is what you need to learn: don't make it easy for people to make eye contact with you; put your  
 **Translation:** 
 
-**[613.56s] English:** hand out like this don't let people touch you so she like she had like a really i saw that by the  
+**[613.56s] English:** Hand out like this; don't let people touch you, so she, like, had like a really nice, I saw that by the  
 **Translation:** 
 
-**[618.06s] English:** way i didn't do this research i just watched the crown okay and winston churchill kind of taught  
+**[618.06s] English:** Way I didn't do this research, I just watched The Crown, okay, and Winston Churchill kind of taught me.  
 **Translation:** 
 
-**[623.50s] English:** her about world politics and was that they'd like come in and she'd be like winston what did we do  
+**[623.50s] English:** She talked to him about world politics, and when they'd like to come in, she'd be like, "Winston, what did we do?  
+**Translation:** Vocabulary: churchill: 丘吉尔
+
+**[629.00s] English:** In Africa, and he's like, "This is gonna be a tough one," and so, yeah, so but Winston Churchill's the  
 **Translation:** 
 
-**[629.00s] English:** in africa and he's like this is gonna be a tough one and so yeah so but winston churchill's the  
+**[634.12s] English:** Badass, but if I had to drink with someone living like that, there's one who's too obvious.  
 **Translation:** 
 
-**[634.12s] English:** badass but if i had to drink with someone living like drink there's like there's a too obvious one  
+**[639.02s] English:** Like, obviously, it's fucking Kim Jong-un, right? You kind of want to think he drinks, no, he doesn't.  
 **Translation:** 
 
-**[639.02s] English:** like obviously it's fucking kim jong-un right you kind of want to he drinks no he does  
+**[644.38s] English:** You think my IVs are good in the morning, you know? Kim Jong-un's IVs are next. You're like, "I feel up.  
 **Translation:** 
 
-**[644.38s] English:** you think my ivs are good in the morning you know kim jong-un's ivs are next you're like i feel up  
+**[652.36s] English:** And he's like, "It's amphetamine; he would be a badass to drink." I think he drinks hard liquor.  
 **Translation:** 
 
-**[652.36s] English:** and he's like it's amphetamine he would be a badass to drink i think he drinks hard liquor  
+**[656.92s] English:** Uh, I think it's Scotch, Johnny Walker.  
+**Translation:** Vocabulary: amphetamine: 兴奋剂; johnny: 约翰尼; liquor: 烈酒; scotch: 威士忌
+
+**[658.98s] English:** Blue, that's what I've heard. I don't know where you heard this, but I like this. Okay, so I say things.  
 **Translation:** 
 
-**[656.92s] English:** uh i think it's scotch johnny walker  
-**Translation:** Vocabulary: amphetamine: 兴奋剂; johnny: 约翰尼; liquor: 烈酒
-
-**[658.98s] English:** blue that's what i've heard i don't know where you heard this but i like this okay so i say things  
+**[665.42s] English:** Like that, but then I'm sure I don't know if you ever party with someone who just parties all the time.  
 **Translation:** 
 
-**[665.42s] English:** like that but then i'm sure i i i i don't know if you ever party with someone who just parties a  
+**[670.24s] English:** Little different than you, and then you notice, like, sometimes celebrities or athletes.  
 **Translation:** 
 
-**[670.24s] English:** little different than you and then you notice like like sometimes celebrity like athletes  
+**[673.92s] English:** And then, like, you're at a strip club, and then they talk weird to a woman; you're like, "Oh...  
 **Translation:** 
 
-**[673.92s] English:** and then like you're at a strip club and then they they talk weird to a woman you're like oh  
+**[678.70s] English:** That's not me. I'm so sorry. So, that'd be the thing; the atrocities would be hard to get past with them.  
 **Translation:** 
 
-**[678.70s] English:** that's not me i'm so sorry so that'd be the thing the atrocities would be hard to get past with them  
-**Translation:** 
-
-**[682.60s] English:** not just the atrocity but the way of being i agree with you i actually don't like drinking with  
+**[682.60s] English:** Not just the atrocity, but the way it's done—I agree with you. I actually don't like drinking with  
 **Translation:** Vocabulary: atrocities: 暴行; atrocity: 暴行
 
-**[688.98s] English:** rich and powerful people often there's something weird about them yeah not not all of them and i  
+**[688.98s] English:** Rich and powerful people, often there's something weird about them, yeah. Not all of them, and I.  
 **Translation:** 
 
-**[695.26s] English:** don't like i don't like a drinking meeting like when someone goes like what's that people go like  
+**[695.26s] English:** Don't like; I don't like drinking meetings, like when someone goes, "What's that? People go, 'like  
 **Translation:** 
 
-**[702.36s] English:** hey uh i'm taking you out tonight we're drinking yeah and then i go oh that's not the way i like  
+**[702.36s] English:** Hey, uh, I'm taking you out tonight. We're drinking, yeah, and then I go, "Oh, that's not the way I like.  
 **Translation:** 
 
-**[707.38s] English:** to do it it gives me anxiety like um our lives are very different you and i yeah were you in a  
+**[707.38s] English:** To do it, it gives me anxiety. Like, um, our lives are very different, you and I. Yeah, were you in a  
 **Translation:** 
 
-**[714.16s] English:** fraternity no we could start there yet no i was not okay  
+**[714.16s] English:** Fraternity: No, we couldn't start there yet. No, I was not okay.  
 **Translation:** 
 
-**[718.98s] English:** you  
-**Translation:** Vocabulary: fraternity: 兄弟会
+**[718.98s] English:** You.  
+**Translation:** 
 
 **[720.00s] English:** And the differences continue from there, I'm sure.  
 **Translation:** 
 
-**[723.78s] English:** So when you get your pleasure pin, they take you out and their whole thing is we're getting you fucked up.  
+**[723.78s] English:** So, when you get your pleasure pin, they take you out, and their whole thing is, we're getting you fucked up.  
 **Translation:** 
 
 **[729.34s] English:** That energy is not my energy.  
@@ -553,47 +554,47 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[735.64s] English:** I never took mushrooms to see Jesus.  
 **Translation:** 
 
-**[738.10s] English:** I just wanted to enjoy Rain-X on a windshield.  
+**[738.10s] English:** I just wanted to enjoy using Rain-X on a windshield.  
 **Translation:** 
 
-**[741.12s] English:** So that, for me, is one of my things.  
+**[741.12s] English:** So, that's one of my things.  
 **Translation:** Vocabulary: windshield: 前挡风玻璃
 
-**[746.04s] English:** So if Kim Jong-un flew me to North Korea to drink with him, I'd be like,  
+**[746.04s] English:** So, if Kim Jong-un flew me to North Korea to drink with him, I'd be like,  
 **Translation:** 
 
 **[750.16s] English:** I'd have to start really getting blackout drunk on the plane to enjoy drinking with him that day.  
-**Translation:** Vocabulary: blackout: 醉倒
+**Translation:** Vocabulary: blackout: 醉酒失忆
 
-**[755.10s] English:** What's your favorite, like, different occasions, what's your favorite drink?  
+**[755.10s] English:** What's your favorite drink for different occasions?  
 **Translation:** 
 
 **[759.44s] English:** What's your favorite way of drinking?  
 **Translation:** 
 
-**[763.24s] English:** I've got, it varies.  
+**[763.24s] English:** I've got; it varies.  
 **Translation:** 
 
-**[765.70s] English:** So what are the different contexts here?  
+**[765.70s] English:** So, what are the different contexts here?  
 **Translation:** 
 
-**[767.04s] English:** It's like one-on-one.  
+**[767.04s] English:** It's like a one-on-one.  
 **Translation:** 
 
 **[769.22s] English:** One-on-one?  
 **Translation:** 
 
-**[770.34s] English:** Like you sit down with, I don't know, Rogan invites you, like it's a godfather,  
+**[770.34s] English:** Like you sit down with, say, Rogan invites you—like it's a godfather meeting.  
 **Translation:** 
 
-**[775.14s] English:** to sit down.  
-**Translation:** Vocabulary: godfather: 教父
+**[775.14s] English:** To sit down.  
+**Translation:** Vocabulary: godfather: 教父般的
 
-**[776.04s] English:** And finally have a talk about something.  
+**[776.04s] English:** And finally, let's have a talk about something.  
 **Translation:** 
 
 **[777.58s] English:** It's going to be whiskey.  
-**Translation:** 
+**Translation:** Vocabulary: whiskey: 威士忌
 
 **[779.04s] English:** It's going to be like a nice whiskey.  
 **Translation:** 
@@ -607,31 +608,31 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[782.38s] English:** And I like lots of rocks.  
 **Translation:** 
 
-**[783.70s] English:** It won't be something expensive, because Rogan is not, he's not a fancy boy.  
+**[783.70s] English:** It won't be something expensive, because Rogan isn't; he's not a fancy boy.  
 **Translation:** 
 
-**[788.42s] English:** You know, like he's a real regular, he's a really regular dude.  
+**[788.42s] English:** You know, he's a real regular guy.  
 **Translation:** 
 
-**[792.12s] English:** He's gotten less regular the more millions of dollars he has.  
+**[792.12s] English:** He's gotten less regular the more million dollars he has.  
 **Translation:** 
 
-**[795.80s] English:** I think there's parts of him where you're like, oh wow, we can do this?  
+**[795.80s] English:** I think there are parts of him where you're like, "Oh, wow, we can do this?  
 **Translation:** 
 
 **[800.64s] English:** Yeah.  
 **Translation:** 
 
-**[801.96s] English:** But he's a regular, he'd be like Jack on the Rocks, or like Buffalo Trace,  
-**Translation:** Vocabulary: buffalo: Bison
+**[801.96s] English:** But he's a regular — he'd be like Jack on the Rocks, or like Buffalo Trace.  
+**Translation:** Vocabulary: buffalo: 威士忌酒
 
-**[805.54s] English:** or one of the.  
+**[805.54s] English:** Or, one of the.  
 **Translation:** 
 
-**[806.04s] English:** Maybe a little whiskey he's buying.  
+**[806.04s] English:** Maybe he's buying a little whiskey.  
 **Translation:** 
 
-**[807.64s] English:** Rogan would be whiskey, rocks, and then like, that's a good.  
+**[807.64s] English:** Rogan would be whiskey, rocks, and then, that's a good.  
 **Translation:** 
 
 **[812.06s] English:** I haven't hung out with Joe by ourselves.  
@@ -643,19 +644,19 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[814.94s] English:** I was with him the other night.  
 **Translation:** 
 
-**[815.80s] English:** But like, it would be cool.  
+**[815.80s] English:** But, like, it would be cool.  
 **Translation:** 
 
-**[817.24s] English:** My times with Joe's are always on podcasts.  
+**[817.24s] English:** My times with Joe's are always discussed on podcasts.  
 **Translation:** 
 
 **[820.08s] English:** Yeah.  
 **Translation:** 
 
-**[820.34s] English:** And his, I miss the times where it was, where you just have you and him at the  
+**[820.34s] English:** And his, I miss the times where it was just you and him.  
 **Translation:** 
 
-**[823.90s] English:** store late night.  
+**[823.90s] English:** Store late-night.  
 **Translation:** 
 
 **[825.34s] English:** Yeah.  
@@ -664,10 +665,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[825.96s] English:** I'm okay with podcasts.  
 **Translation:** 
 
-**[827.48s] English:** Like I used to think this is like a performative or something like this,  
+**[827.48s] English:** Like, I used to think this was like a performance or something like that.  
 **Translation:** 
 
-**[831.08s] English:** but it's not really.  
+**[831.08s] English:** But it's not really.  
 **Translation:** 
 
 **[831.90s] English:** No.  
@@ -676,127 +677,127 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[832.32s] English:** It's just a chance to really sit down.  
 **Translation:** 
 
-**[833.94s] English:** I enjoy it because of the people I could never sit.  
+**[833.94s] English:** I enjoy it because of the people I could never sit with.  
 **Translation:** 
 
-**[836.00s] English:** Down with like David Cross.  
+**[836.00s] English:** Down with like David Cross!  
 **Translation:** 
 
 **[838.14s] English:** I would never sit down with David Cross.  
 **Translation:** 
 
-**[840.00s] English:** because we don't run in the same circles and but it's nice he has something to promote and  
+**[840.00s] English:** Because we don't run in the same circles, and but it's nice that he has something to promote.  
 **Translation:** 
 
-**[844.50s] English:** then he comes to my house and then we can sit down for an hour and talk and then i and then  
+**[844.50s] English:** Then he comes to my house, and then we can sit down for an hour and talk, and then I...  
 **Translation:** 
 
-**[848.84s] English:** or kevin smith like people i would never really hang out with tom um i enjoy being alone with tom  
+**[848.84s] English:** Or Kevin Smith, like people I would never really hang out with, Tom—um, I enjoy being alone with Tom.  
 **Translation:** 
 
-**[857.36s] English:** more off mic yeah we have a lot of history there's a lot of things secrets we know about  
+**[857.36s] English:** More off-mic, yeah, we have a lot of history. There are lots of things—secrets—we know about.  
 **Translation:** Vocabulary: kevin: 凯文
 
-**[865.48s] English:** each other and there's a lot of secrets going on in each other's lives that i would never share  
+**[865.48s] English:** Each other, and there are lots of secrets going on in each other's lives that I would never share.  
 **Translation:** 
 
-**[869.50s] English:** on podcasts that i that i can talk to him about and i really appreciate his and i know this isn't  
+**[869.50s] English:** On podcasts that I can talk to him about, and I really appreciate that. I know this isn't  
 **Translation:** 
 
-**[875.14s] English:** on brand of us beating each other up but like i really appreciate his insight as a as a dad  
+**[875.14s] English:** On brand of us beating each other up, but I really appreciate his insight as a dad.  
 **Translation:** 
 
-**[880.72s] English:** and as a dude and as a son but but he makes me giggle harder than anyone so doing a podcast is  
+**[880.72s] English:** And as a dude and as a son, but he makes me giggle harder than anyone. So, doing a podcast is  
+**Translation:** Vocabulary: giggle: 笑出声
+
+**[886.56s] English:** Fun, so there's something on a podcast that's performative for you with him, and then there's  
 **Translation:** 
 
-**[886.56s] English:** fun so there's something on a podcast that's performative for you with him and then there's  
+**[891.34s] English:** A part of me and him, because we're trying to make each other laugh, but I'll tell you if we're going...  
 **Translation:** 
 
-**[891.34s] English:** a part me and him because we're trying to make each other laugh but i'll tell you if we're going  
+**[895.54s] English:** Back to drinks, I'll tell you — like a great.  
 **Translation:** 
 
-**[895.54s] English:** back to drinks i'll tell you like a great  
+**[899.50s] English:** A great afternoon drink is a compari spritz; that's my one of my favorite drinks, and I don't even  
+**Translation:** Vocabulary: compari: 对比利酒; spritz: 斯普特兹
+
+**[904.46s] English:** Know what that is? Oh, Party Spritz Compari is an interesting alcohol because I think it's a bit bitter.  
 **Translation:** 
 
-**[899.50s] English:** a great afternoon drink is a compari spritz that's my one of my favorite drinks in the i don't even  
-**Translation:** Vocabulary: spritz: 开胃酒
-
-**[904.46s] English:** know what that is oh party spritz compari is an interesting alcohol because i think it's a bitter  
-**Translation:** 
-
-**[910.84s] English:** uh or it's a liqueur and it's got a weird rooty earthy taste it's red so it looks like kool-aid  
+**[910.84s] English:** Uh, or it's a liqueur and it has a weird, rooty, earthy taste. It's red, so it looks like Kool-Aid.  
 **Translation:** Vocabulary: earthy: 泥土味; liqueur: 利口酒; rooty: 根茎味
 
-**[916.60s] English:** that's why i got into it i thought compari on ice would be oh so nice there's an old commercial  
+**[916.60s] English:** That's why I got into it; I thought comparison shopping would be oh so nice. There's an old commercial.  
 **Translation:** 
 
-**[921.10s] English:** but man it's fucking like sucking the green giant's dick it is earthy what's earthy it's like  
+**[921.10s] English:** But man, it's fucking like sucking the Green Giant's dick. It is earthy; what's earthy? It's like  
+**Translation:** Vocabulary: sucking: 吸吮
+
+**[927.66s] English:** It's like tasting roots.  
 **Translation:** 
 
-**[927.66s] English:** it's it tastes like roots it's  
+**[929.50s] English:** It's not great, and there's a bitterness. It's just not great, and then someone...  
+**Translation:** Vocabulary: tasting: 品尝
+
+**[935.48s] English:** Introduces me to a Negroni, which is Campari and gin and a little soda water, and then  
 **Translation:** 
 
-**[929.50s] English:** it's not it's not it's oh there's a bitterness and like a it's just not great and then someone  
+**[940.74s] English:** Compara Spritz is compari Prosecco and soda water in a wine glass, and it is  
+**Translation:** Vocabulary: campari: 金巴利; compara: 错误拼写; negroni: 内格罗尼; prosecco: 普洛赛克
+
+**[950.22s] English:** So enjoyable, it's got so many different profiles to it, where you get the bitterness.  
 **Translation:** 
 
-**[935.48s] English:** introduced me to a negroni which is compari and gin and a little soda water and then  
+**[956.34s] English:** But the sweetness of the prosecco, and then it flattens it out with the  
+**Translation:** Vocabulary: flattens: 使其柔和; profiles: 不同风格
+
+**[959.50s] English:** Soda water  
 **Translation:** 
 
-**[940.74s] English:** compari spritz compari spritz is compari prosecco and soda water in like a wine glass and it is  
-**Translation:** Vocabulary: negroni: 尼格罗尼; prosecco: 普洛赛克
-
-**[950.22s] English:** so enjoyable it's got so many different profiles to it where you get the bitterness  
-**Translation:** 
-
-**[956.34s] English:** but the sweetness of the prosecco and then it flattens it out with the  
-**Translation:** Vocabulary: flattens: 平衡; profiles: 特点
-
-**[959.50s] English:** soda water  
-**Translation:** 
-
-**[960.00s] English:** and it looks like Kool-Aid, so I love it.  
+**[960.00s] English:** And it looks like Kool-Aid, so I love it.  
 **Translation:** 
 
 **[962.88s] English:** That's one of my favorite drinks.  
 **Translation:** 
 
-**[964.04s] English:** To share in what context?  
+**[964.04s] English:** To share, in what context?  
 **Translation:** 
 
-**[965.64s] English:** Oh, you're in Italy, and you've been walking around Venice,  
+**[965.64s] English:** Oh, you're in Italy, and you've been walking around Venice.  
 **Translation:** 
 
-**[970.04s] English:** and everyone went their own ways,  
+**[970.04s] English:** And everyone went their own ways.  
 **Translation:** Vocabulary: venice: 威尼斯
 
-**[971.92s] English:** and the whole family comes back together,  
+**[971.92s] English:** And the whole family comes back together.  
 **Translation:** 
 
-**[973.90s] English:** and you meet at a statue, and your wife's sweating,  
+**[973.90s] English:** And you meet at a statue, and your wife is sweating.  
 **Translation:** 
 
-**[977.86s] English:** and she's uncomfortable, and your daughters are 16 and 18,  
+**[977.86s] English:** And she's uncomfortable, and your daughters are 16 and 18.  
 **Translation:** 
 
-**[981.14s] English:** and they're like, what are we doing with the rest of the day?  
+**[981.14s] English:** And they're like, "What are we doing with the rest of the day?  
 **Translation:** 
 
-**[984.64s] English:** And you go, hey, guys, it's Europe.  
+**[984.64s] English:** And you go, "Hey, guys, it's Europe.  
 **Translation:** 
 
 **[987.28s] English:** Does anyone want to come party spritz?  
+**Translation:** Vocabulary: spritz: 鸡尾酒
+
+**[988.56s] English:** And everyone goes, "I don't know what that is.  
 **Translation:** 
 
-**[988.56s] English:** And everyone goes, I don't know what that is.  
+**[990.16s] English:** And you go for a Campari spritz.  
 **Translation:** 
 
-**[990.16s] English:** And you go, for Kampari spritz.  
+**[992.10s] English:** It's minor in alcohol, so it's not going to get them high.  
 **Translation:** 
 
-**[992.10s] English:** It's minor in alcohol, so it's not going to light them up,  
-**Translation:** 
-
-**[994.60s] English:** but it gives them a little bit of a buzz where they're like,  
+**[994.60s] English:** But it gives them a little bit of a buzz, where they're like,  
 **Translation:** 
 
 **[997.06s] English:** Dad, these are nice.  
@@ -809,30 +810,30 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[1001.18s] English:** Leanne had hers.  
-**Translation:** 
+**Translation:** Vocabulary: leanne: 莱琳
 
 **[1002.14s] English:** And we ordered another round.  
 **Translation:** 
 
-**[1003.50s] English:** I ordered, and they're fucking refreshing,  
+**[1003.50s] English:** I ordered, and they're fucking refreshing.  
 **Translation:** 
 
-**[1008.32s] English:** and the buzz is perfect.  
+**[1008.32s] English:** And the buzz is perfect.  
 **Translation:** 
 
-**[1010.76s] English:** It's not too much because it's just a little bit of champagne  
+**[1010.76s] English:** It's not too much because it's just a little bit of champagne.  
 **Translation:** 
 
-**[1013.40s] English:** and some Kampari.  
+**[1013.40s] English:** And some Campari.  
 **Translation:** 
 
 **[1014.78s] English:** The buzz is perfect.  
 **Translation:** 
 
-**[1016.24s] English:** And then a couple of them, and then they kind of disappear,  
+**[1016.24s] English:** And then a couple of them, and then they kind of disappear.  
 **Translation:** 
 
-**[1018.78s] English:** and then you're just walking around again.  
+**[1018.78s] English:** And then you're just walking around again.  
 **Translation:** 
 
 **[1020.72s] English:** That's a great fucking drink.  
@@ -841,16 +842,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1022.42s] English:** Do you ever drink alone?  
 **Translation:** 
 
-**[1026.88s] English:** So there's two kinds of alone.  
+**[1026.88s] English:** So, there are two kinds of alone.  
 **Translation:** 
 
 **[1029.68s] English:** One is alone, like at a bar.  
 **Translation:** 
 
-**[1032.52s] English:** There's other people, but they're strangers, right?  
+**[1032.52s] English:** There are other people, but they're strangers, right?  
 **Translation:** 
 
-**[1034.66s] English:** They're kind of like out there.  
+**[1034.66s] English:** They're kind of out there.  
 **Translation:** 
 
 **[1036.26s] English:** Okay, I've done that.  
@@ -862,25 +863,25 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1038.38s] English:** Keep going.  
 **Translation:** 
 
-**[1039.22s] English:** Walk me through all the alone, and then I'll tell you the rest.  
+**[1039.22s] English:** Walk me through all of it, and then I'll tell you the rest.  
 **Translation:** 
 
-**[1042.10s] English:** There's all kinds of them.  
+**[1042.10s] English:** There are all kinds of them.  
 **Translation:** 
 
-**[1043.40s] English:** There's alone on a train.  
+**[1043.40s] English:** There's someone alone on a train.  
 **Translation:** 
 
 **[1045.78s] English:** We're transporting someone.  
 **Translation:** 
 
-**[1046.62s] English:** I've drank alone on a train.  
+**[1046.62s] English:** I've drunk alone on a train.  
 **Translation:** Vocabulary: transporting: 运送
 
 **[1047.78s] English:** Train, plane.  
 **Translation:** 
 
-**[1049.04s] English:** And then there's just alone in an empty home.  
+**[1049.04s] English:** And then there's just being alone in an empty home.  
 **Translation:** 
 
 **[1053.20s] English:** Or a hotel room.  
@@ -895,19 +896,19 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1055.92s] English:** Sunday night.  
 **Translation:** 
 
-**[1056.68s] English:** And you're packing your bag, and you've got a flight at 6 a.m.  
+**[1056.68s] English:** And you're packing your bag, and you have a flight at 6 a.m.  
 **Translation:** 
 
 **[1060.24s] English:** Yeah.  
 **Translation:** 
 
-**[1061.04s] English:** But Roadhouse is on, and you're like, shit.  
+**[1061.04s] English:** But Roadhouse is on, and you're like,shit.  
 **Translation:** 
 
-**[1064.38s] English:** So you get out of the front desk and go, is the bar still open?  
+**[1064.38s] English:** So, you get out of the front desk and go, "Is the bar still open?  
 **Translation:** Vocabulary: roadhouse: 公路酒吧
 
-**[1067.56s] English:** And they go, yeah, can I order something to take to my room?  
+**[1067.56s] English:** And they go, "Yeah, can I order something to take to my room?  
 **Translation:** 
 
 **[1069.46s] English:** Sure.  
@@ -928,49 +929,49 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1075.16s] English:** You murdered her.  
 **Translation:** 
 
-**[1076.32s] English:** And you just say to yourself, I'm just getting six.  
+**[1076.32s] English:** And you just say to yourself, "I'm just getting six.  
 **Translation:** 
 
-**[1078.56s] English:** So that if I have four.  
+**[1078.56s] English:** So, that if I have four.  
 **Translation:** 
 
 **[1080.00s] English:** I just know I have two extra ones.  
 **Translation:** 
 
-**[1081.74s] English:** And then you go through six and you're like, oh, man, I'm not done yet.  
+**[1081.74s] English:** And then you go through six, and you're like, "Oh, man, I'm not done yet.  
 **Translation:** 
 
-**[1084.80s] English:** Dude, I've drank in every alone scenario you can possibly think of.  
+**[1084.80s] English:** Dude, I've drunk in every alone scenario you can possibly think of.  
+**Translation:** Vocabulary: scenario: 场景
+
+**[1088.84s] English:** I've drunk alone in a helicopter with a dude who didn't know I was drinking.  
 **Translation:** 
 
-**[1088.84s] English:** I've drank alone in a helicopter with a dude who didn't know I was drinking.  
+**[1096.02s] English:** I was like, "Can I drink here?  
+**Translation:** Vocabulary: helicopter: 直升机
+
+**[1097.14s] English:** And he was like, "Absolutely not.  
 **Translation:** 
 
-**[1096.02s] English:** I was like, can I drink in here?  
+**[1098.18s] English:** And then I poured it into a flask, opened it, and drank it.  
 **Translation:** 
 
-**[1097.14s] English:** And he was like, absolutely not.  
-**Translation:** 
-
-**[1098.18s] English:** And then I poured it in a flask and opened it and drank it.  
-**Translation:** 
-
-**[1100.52s] English:** And he's like, dude, we're in a fucking helicopter.  
+**[1100.52s] English:** And he's like, "Dude, we're in a fucking helicopter.  
 **Translation:** 
 
 **[1102.84s] English:** You don't think I smell that?  
 **Translation:** 
 
-**[1104.24s] English:** The best alone drinking you can ever do, in my opinion,  
+**[1104.24s] English:** The best alone drinking, in my opinion, is something you can ever do.  
 **Translation:** 
 
-**[1107.62s] English:** now we're getting into the weeds on it, is alone behind someone's back.  
+**[1107.62s] English:** Now we're getting into the weeds on it—is it alone behind someone's back?  
 **Translation:** 
 
 **[1112.72s] English:** What do you mean?  
 **Translation:** 
 
-**[1113.46s] English:** Like when they don't know you're drinking, but you're drinking.  
+**[1113.46s] English:** Like when they don't know you're drinking, but you are.  
 **Translation:** 
 
 **[1117.00s] English:** Like Christmas shopping.  
@@ -979,55 +980,55 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1120.10s] English:** Ah.  
 **Translation:** Vocabulary: christmas: 圣诞节
 
-**[1121.46s] English:** And your wife says, all right, let's all split up.  
+**[1121.46s] English:** And your wife says, "All right, let's all split up.  
 **Translation:** 
 
-**[1124.40s] English:** And you go, cool.  
+**[1124.40s] English:** And you go, "cool.  
 **Translation:** 
 
 **[1125.42s] English:** And it's like 11 o'clock on a Sunday.  
 **Translation:** 
 
 **[1127.90s] English:** And they just opened that bar by the elevator in the Beverly Center.  
-**Translation:** Vocabulary: beverly: 贝弗利
+**Translation:** Vocabulary: beverly: 贝弗利中心
 
-**[1131.12s] English:** And you just sneak over and you go, hey, man,  
+**[1131.12s] English:** And you just sneak over and you go, "Hey, man,  
 **Translation:** 
 
-**[1133.70s] English:** can I get a double jack on the Ross Ox for Rots?  
+**[1133.70s] English:** Can I get a double jack on the Ross Ox for Rots?  
 **Translation:** 
 
-**[1135.46s] English:** And they're like, sure.  
+**[1135.46s] English:** And they're like, "sure.  
 **Translation:** 
 
 **[1135.94s] English:** And you just have it.  
 **Translation:** 
 
-**[1136.70s] English:** And you just go, let's just.  
+**[1136.70s] English:** And you just go, "Let's just.  
 **Translation:** 
 
 **[1137.74s] English:** And then you're off.  
 **Translation:** 
 
-**[1139.00s] English:** And then you're like, yeah.  
+**[1139.00s] English:** And then you're like, "Yeah.  
 **Translation:** 
 
 **[1140.42s] English:** And then you just little sneak one.  
 **Translation:** 
 
-**[1142.16s] English:** Sneak it.  
+**[1142.16s] English:** Sneak it in.  
 **Translation:** 
 
-**[1142.70s] English:** Sneak it.  
+**[1142.70s] English:** Sneak it in.  
 **Translation:** 
 
-**[1143.26s] English:** And then you're buzzed and nobody knows.  
+**[1143.26s] English:** And then you're buzzed, and nobody knows.  
 **Translation:** 
 
-**[1145.26s] English:** And then your wife's like, wait, have you been drinking?  
+**[1145.26s] English:** And then your wife is like, "Wait, have you been drinking?  
 **Translation:** 
 
-**[1146.60s] English:** You're like, do I?  
+**[1146.60s] English:** You're like, "Do I?  
 **Translation:** 
 
 **[1147.90s] English:** Yeah, I'm drinking by myself in a fucking mall.  
@@ -1042,7 +1043,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1151.72s] English:** How sad do you think I am?  
 **Translation:** 
 
-**[1153.02s] English:** And then you go, yeah, I am.  
+**[1153.02s] English:** And then you go, "Yeah, I am.  
 **Translation:** 
 
 **[1155.16s] English:** What about mood?  
@@ -1051,10 +1052,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1156.90s] English:** Do you ever drink in a dark place?  
 **Translation:** 
 
-**[1159.22s] English:** So I broke.  
+**[1159.22s] English:** So, I broke.  
 **Translation:** 
 
-**[1160.10s] English:** I had a chick breakup or a chick cheat on me when I came back from Russia.  
+**[1160.10s] English:** I had a chick break up with me or a chick cheat on me when I came back from Russia.  
 **Translation:** Vocabulary: chick: 女生
 
 **[1165.02s] English:** And she slept with my best friend.  
@@ -1066,7 +1067,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1167.60s] English:** I didn't know how to deal with the emotions I had.  
 **Translation:** 
 
-**[1169.16s] English:** And my buddy, Mike Osborne, said, I can tell you this.  
+**[1169.16s] English:** And my buddy, Mike Osborne, said, "I can tell you this.  
 **Translation:** 
 
 **[1171.86s] English:** If you drink, they go away.  
@@ -1075,7 +1076,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1174.04s] English:** And I went, OK.  
 **Translation:** 
 
-**[1175.48s] English:** And that was the first and kind of last time I ever did that.  
+**[1175.48s] English:** And that was the first, and kind of last, time I ever did that.  
 **Translation:** 
 
 **[1180.42s] English:** Because I did it.  
@@ -1084,10 +1085,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1181.94s] English:** I've done it.  
 **Translation:** 
 
-**[1182.82s] English:** I've done it a couple times.  
+**[1182.82s] English:** I've done it a couple of times.  
 **Translation:** 
 
-**[1184.04s] English:** But I try to avoid if there's emotion going to alcohol.  
+**[1184.04s] English:** But I try to avoid alcohol if there's emotion involved.  
 **Translation:** 
 
 **[1189.38s] English:** Meaning, not when it's anxiety, but like depression.  
@@ -1108,595 +1109,595 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1198.92s] English:** Or.  
 **Translation:** 
 
-**[1200.00s] English:** Or just like getting worked up on some over something but with depression. I try to avoid alcohol and just sit in it  
+**[1200.00s] English:** Or, just like getting worked up about something, but with depression. I try to avoid alcohol and just sit with it.  
 **Translation:** 
 
-**[1208.10s] English:** Because I because I've gone there before  
+**[1208.10s] English:** Because I have been there before.  
 **Translation:** 
 
-**[1211.12s] English:** But anxieties up I land I land all the time but depression heartbreak all that you just sit in the feeling  
+**[1211.12s] English:** But anxieties come and go, I land and take off all the time, but depression and heartbreak—those are feelings you just sit with.  
 **Translation:** Vocabulary: anxieties: 忧虑; heartbreak: 心碎
 
-**[1218.00s] English:** Yeah  
+**[1218.00s] English:** Yeah.  
 **Translation:** 
 
-**[1219.24s] English:** Heartbreaks a weird one for me. So like the last time I got my heart broken at Leanne dumped me  
-**Translation:** Vocabulary: heartbreaks: 失恋例子
+**[1219.24s] English:** Heartbreak is a weird one for me. So, like, the last time I got my heart broken, Leanne dumped me.  
+**Translation:** Vocabulary: leanne: 莱恩
 
-**[1223.38s] English:** We were dating for like four months and she broke up with me and my instinct was to have a drink  
+**[1223.38s] English:** We were dating for about four months, and she broke up with me. My instinct was to have a drink.  
 **Translation:** 
 
-**[1228.10s] English:** my friends went to this  
+**[1228.10s] English:** My friends went to this.  
 **Translation:** Vocabulary: instinct: 直觉
 
-**[1229.78s] English:** This Middle Eastern restaurant and I told him what was going on to my buddy  
+**[1229.78s] English:** This Middle Eastern restaurant, and I told him what was going on to my buddy.  
 **Translation:** 
 
-**[1233.50s] English:** Of course, like let's get a cocktail and I was like, I don't want one  
+**[1233.50s] English:** Of course, I was like, let's get a cocktail, and I don't want one.  
 **Translation:** Vocabulary: cocktail: 鸡尾酒
 
-**[1235.78s] English:** I gotta figure this out because I want this chick and if I start drinking I'll be like, ah, fuck it  
+**[1235.78s] English:** I've got to figure this out because I want this chick, and if I start drinking, I'll be like, ah, fuck it.  
 **Translation:** 
 
-**[1241.98s] English:** So I got to figure it out. Like I wonder I'm gonna find out my dad dies one day  
+**[1241.98s] English:** So, I've got to figure it out. Like, I wonder if I'll find out that my dad dies one day.  
+**Translation:** Vocabulary: chick: 女孩
+
+**[1246.50s] English:** Or, my mom, but my dad will be the rough one. My mom will be equally rough.  
 **Translation:** 
 
-**[1246.50s] English:** Or my mom but my dad will be the rough one. My mom will be equally as rough  
+**[1250.72s] English:** My dad and I were really close, and I wonder if I thought about this a lot if I'll have a drink.  
 **Translation:** 
 
-**[1250.72s] English:** My dad and I were really close and I wonder if I thought about this a lot if I'll have a drink  
+**[1258.46s] English:** Dealing with that,  
 **Translation:** 
 
-**[1258.46s] English:** Dealing with that  
+**[1259.90s] English:** Like, I think about that a lot. I keep saying,...  
 **Translation:** 
 
-**[1259.90s] English:** Like I think about that a lot. I keep saying  
+**[1263.80s] English:** Everything I get with my dad is extra. My dad, my dad, had a  
 **Translation:** 
 
-**[1263.80s] English:** everything I get with my dad is extra my dad my dad had a  
+**[1267.98s] English:** 100% blockage in his Widowmaker, twice, and both times they saved his life and he got a stent.  
+**Translation:** Vocabulary: stent: 支架; widowmaker: 左主干
+
+**[1273.06s] English:** I think 12 or 13 years ago, and then he just got a stint this last.  
 **Translation:** 
 
-**[1267.98s] English:** 100% blockage in his Widowmaker twice and both times they saved his life and he got a stint  
-**Translation:** Vocabulary: stint: 支架; widowmaker: 左冠前降支
+**[1278.34s] English:** Year  
+**Translation:** Vocabulary: stint: 一段工作或服役时间
 
-**[1273.06s] English:** I think 12 or 13 years ago, and then he just got a stint this last  
+**[1279.50s] English:** But so, I feel like everything I get to do is extra, and so, you know.  
 **Translation:** 
 
-**[1278.34s] English:** year  
+**[1283.86s] English:** He was just at the premiere of my movie, and he got to see that—and he had a very emotional response.  
+**Translation:** Vocabulary: premiere: 首映
+
+**[1288.10s] English:** And I got that from him, and I was like, that's a little icing on the cake.  
 **Translation:** 
 
-**[1279.50s] English:** But so I everything I get to do I feel like his extra and so, you know  
+**[1292.50s] English:** I did; you know, the arena in Tampa was the first time he ever saw me do stand-up. That was like a little extra.  
+**Translation:** Vocabulary: tampa: 坦帕市
+
+**[1297.60s] English:** So, all these things I'm getting from him are extra. So, I have, you know, and he's 74, so  
 **Translation:** 
 
-**[1283.86s] English:** He was just at the premiere of my movie and he got to see that and he had a very emotional response  
+**[1304.98s] English:** Yeah, that'll be a tough one. Well, at the premiere, he was really proud.  
 **Translation:** 
 
-**[1288.10s] English:** And I got I got that from him and I was like that that's a little icing on the cake  
+**[1309.58s] English:** Yeah, he came out sobbing and crying, and he goes, "I've underestimated you your whole life.  
 **Translation:** 
 
-**[1292.50s] English:** I did, you know, the arena in Tampa was the first time he ever saw me do stand-up. That was like a little extra  
+**[1314.92s] English:** And I was like, "What news? Like, I need just... " and he was shaking.  
+**Translation:** Vocabulary: sobbing: 抽泣; underestimated: 低估
+
+**[1317.52s] English:** He goes, "I just underestimated you. I didn't know.  
 **Translation:** 
 
-**[1297.60s] English:** So all these things I'm getting with him are all extra. So I have a you know, and he's 74 so  
+**[1320.00s] English:** I didn't know you were this way.  
 **Translation:** 
 
-**[1304.98s] English:** Yeah, that'll be a tough one well at the premiere he was what proud  
+**[1322.48s] English:** I didn't do whatever.  
 **Translation:** 
 
-**[1309.58s] English:** Yeah, he came out he was sobbing crying and he goes I've underestimated you your whole life  
+**[1323.56s] English:** It was really hard to understand him, to be honest with you.  
 **Translation:** 
 
-**[1314.92s] English:** And I was like what news like I need just and he was shaking  
-**Translation:** Vocabulary: underestimated: 低估
-
-**[1317.52s] English:** He goes I just underestimated you I didn't know  
+**[1325.78s] English:** I don't know exactly what he said.  
 **Translation:** 
 
-**[1320.00s] English:** I didn't know you were this  
+**[1327.64s] English:** He might have just not liked the movie.  
 **Translation:** 
 
-**[1322.48s] English:** I didn't do whatever  
+**[1329.10s] English:** I think you were hearing what you wanted to hear.  
 **Translation:** 
 
-**[1323.56s] English:** It was really hard to understand him to be honest with you  
+**[1335.68s] English:** What did you learn about life?  
 **Translation:** 
 
-**[1325.78s] English:** I don't know totally what he said  
+**[1337.92s] English:** From your father.  
 **Translation:** 
 
-**[1327.64s] English:** He might have just not liked the movie  
+**[1338.62s] English:** It's not going to make sense.  
 **Translation:** 
 
-**[1329.10s] English:** I think you were hearing what you wanted to hear  
+**[1342.88s] English:** I feel like sometimes I'm like a professional wrestler.  
 **Translation:** 
 
-**[1335.68s] English:** What did you learn about life  
-**Translation:** 
-
-**[1337.92s] English:** From your father  
-**Translation:** 
-
-**[1338.62s] English:** It's not going to make sense  
-**Translation:** 
-
-**[1342.88s] English:** I feel like sometimes I'm like a professional fucking wrestler  
-**Translation:** 
-
-**[1345.96s] English:** Because all I care about  
+**[1345.96s] English:** Because, all I care about,...  
 **Translation:** Vocabulary: wrestler: 摔跤手
 
-**[1347.42s] English:** Is you come and see me do stand up  
+**[1347.42s] English:** Is your coming and see me, do stand up?  
 **Translation:** 
 
-**[1349.04s] English:** So whatever I got to do to get you there  
+**[1349.04s] English:** So, whatever I've got to do to get you there.  
 **Translation:** 
 
-**[1350.38s] English:** But the number one thing  
+**[1350.38s] English:** But the number one thing:  
 **Translation:** 
 
-**[1352.44s] English:** My one takeaway from that man's humility  
+**[1352.44s] English:** My one takeaway from that man's humility:  
 **Translation:** Vocabulary: humility: 谦逊; takeaway: 收获
 
-**[1354.46s] English:** And I applied  
+**[1354.46s] English:** And I applied.  
 **Translation:** 
 
-**[1357.02s] English:** I've applied it in different ways throughout my career  
+**[1357.02s] English:** I've applied it in different ways throughout my career.  
 **Translation:** 
 
-**[1359.00s] English:** On my 26th birthday  
+**[1359.00s] English:** On my 26th birthday.  
 **Translation:** 
 
 **[1361.24s] English:** He gave me a really  
 **Translation:** 
 
-**[1362.62s] English:** Aggressive speech  
+**[1362.62s] English:** Aggressive speech.  
 **Translation:** 
 
 **[1365.08s] English:** He  
 **Translation:** 
 
-**[1366.48s] English:** I was hungover  
+**[1366.48s] English:** I was hungover.  
 **Translation:** 
 
-**[1369.02s] English:** And I just thought he was going to say happy birthday  
+**[1369.02s] English:** And I just thought he was going to say, "Happy birthday!  
 **Translation:** Vocabulary: hungover: 宿醉
 
-**[1370.98s] English:** So I picked up the phone  
+**[1370.98s] English:** So, I picked up the phone.  
 **Translation:** 
 
-**[1372.20s] English:** And I was like hey  
+**[1372.20s] English:** And I was like, "hey.  
 **Translation:** 
 
-**[1373.80s] English:** And he was like you are a tremendous piece of shit  
+**[1373.80s] English:** And he was like, 'You are a tremendous piece of shit.  
 **Translation:** 
 
-**[1376.64s] English:** And he broke me off  
+**[1376.64s] English:** And he broke me off.  
 **Translation:** 
 
-**[1378.58s] English:** You have no humility  
+**[1378.58s] English:** You have no humility.  
 **Translation:** 
 
-**[1379.44s] English:** You have no this  
+**[1379.44s] English:** You have no choice.  
 **Translation:** 
 
-**[1380.08s] English:** You have never succeeded in anything  
+**[1380.08s] English:** You have never succeeded in anything.  
 **Translation:** 
 
-**[1381.38s] English:** You're lying to yourself  
+**[1381.38s] English:** You're lying to yourself.  
 **Translation:** 
 
-**[1383.22s] English:** You're lying to everyone around you  
+**[1383.22s] English:** You're lying to everyone around you.  
 **Translation:** 
 
-**[1384.46s] English:** You're not doing what  
+**[1384.46s] English:** You're not doing what?  
 **Translation:** 
 
-**[1385.28s] English:** You're going after your dream  
+**[1385.28s] English:** You're going after your dream!  
 **Translation:** 
 
-**[1386.28s] English:** I broke you  
+**[1386.28s] English:** I broke you.  
 **Translation:** 
 
-**[1387.14s] English:** I failed you as a father  
+**[1387.14s] English:** I failed you as a father.  
 **Translation:** 
 
-**[1388.06s] English:** This and that  
+**[1388.06s] English:** This and that.  
 **Translation:** 
 
-**[1388.54s] English:** I was like I thought you were going to wish me happy birthday  
+**[1388.54s] English:** I was like, I thought you were going to wish me happy birthday.  
 **Translation:** 
 
-**[1390.16s] English:** And so  
+**[1390.16s] English:** And so,...  
 **Translation:** 
 
-**[1392.34s] English:** In that speech he told me  
+**[1392.34s] English:** In that speech, he told me.  
 **Translation:** 
 
-**[1395.86s] English:** If I wanted something I had to go at it  
+**[1395.86s] English:** If I wanted something, I had to go at it.  
 **Translation:** 
 
-**[1397.84s] English:** And I had to go after it as hard as I could  
+**[1397.84s] English:** And I had to go after it as hard as I could.  
 **Translation:** 
 
-**[1399.92s] English:** And I had to do whatever I could do to achieve that  
+**[1399.92s] English:** And I had to do whatever I could to achieve that.  
 **Translation:** 
 
-**[1404.02s] English:** In this case it was working  
+**[1404.02s] English:** In this case, it was working.  
 **Translation:** 
 
-**[1405.70s] English:** Offering to do anything at the comedy club to get on stage  
+**[1405.70s] English:** Offering to do anything at the comedy club to get on stage.  
 **Translation:** 
 
-**[1408.58s] English:** He told me  
+**[1408.58s] English:** He told me.  
 **Translation:** 
 
-**[1410.32s] English:** I told him that's not how it works  
+**[1410.32s] English:** I told him, "That's not how it works.  
 **Translation:** 
 
-**[1411.40s] English:** And he said no that's how it works for some poor kid from Harlem  
+**[1411.40s] English:** And he said, 'No, that's how it works for some poor kid from Harlem.  
 **Translation:** 
 
-**[1414.32s] English:** Because that kid needs it  
-**Translation:** Vocabulary: harlem: 哈莱姆区
+**[1414.32s] English:** Because that kid needs it.  
+**Translation:** Vocabulary: harlem: 哈莱姆区的例证
 
-**[1416.86s] English:** He goes you've grown up with privilege your whole life  
+**[1416.86s] English:** He goes, "You've grown up with privilege your whole life.  
 **Translation:** 
 
-**[1418.76s] English:** You don't need it  
+**[1418.76s] English:** You don't need it.  
 **Translation:** 
 
-**[1419.48s] English:** You think you're going to be fine  
+**[1419.48s] English:** You think you're going to be fine?  
 **Translation:** 
 
-**[1420.68s] English:** And so I went  
+**[1420.68s] English:** And so I went.  
 **Translation:** 
 
-**[1422.32s] English:** And I ended up getting a job at the door  
+**[1422.32s] English:** And I ended up getting a job at the door.  
 **Translation:** 
 
 **[1425.36s] English:** But I  
 **Translation:** 
 
-**[1425.78s] English:** It's humbling  
+**[1425.78s] English:** It's humbling.  
 **Translation:** 
 
 **[1428.28s] English:** It's really like  
-**Translation:** Vocabulary: humbling: 令人谦卑
+**Translation:** Vocabulary: humbling: 使人谦卑
 
 **[1429.20s] English:** It makes me feel  
 **Translation:** 
 
-**[1430.58s] English:** It made me feel uncomfortable  
+**[1430.58s] English:** It made me feel uncomfortable.  
 **Translation:** 
 
-**[1431.66s] English:** And so that humility  
+**[1431.66s] English:** And so that humility.  
 **Translation:** 
 
-**[1433.64s] English:** It's the first time I really understood humility  
+**[1433.64s] English:** It's the first time I really understood humility.  
+**Translation:** Vocabulary: humility: 谦逊
+
+**[1437.90s] English:** And I've applied.  
 **Translation:** 
 
-**[1437.90s] English:** And I've applied  
+**[1438.58s] English:** That, in many,  
 **Translation:** 
 
-**[1438.58s] English:** That in many  
+**[1440.00s] English:** Respects, in like, in getting to be a paid regular at the comedy store—that happened late.  
 **Translation:** 
 
-**[1440.00s] English:** respects in like in like getting to be a paid regular at the comedy store that happened late  
+**[1445.12s] English:** In life, for me, and which I think most people would give up and be like "fuck, that," I'm already...  
 **Translation:** 
 
-**[1445.12s] English:** in life for me and which i think most people would give up and be like fuck that i'm already  
+**[1449.46s] English:** A touring comic? I'm on TV, I don't need that, but it's something I wanted and I knew I wanted.  
 **Translation:** 
 
-**[1449.46s] English:** a touring comic i'm on tv i don't need that but it's something i wanted and i knew i wanted  
-**Translation:** 
-
-**[1453.38s] English:** so i i just humbly went after it and then i think i i still apply it when it comes to  
+**[1453.38s] English:** So, I just humbly went after it, and then I think I still apply it when it comes to  
 **Translation:** Vocabulary: humbly: 谦卑地
 
-**[1460.46s] English:** selling tickets or or selling a project to the fans or even to doing podcasts i try to be as  
+**[1460.46s] English:** Selling tickets, or selling a project to the fans, or even doing podcasts—I try to be as  
 **Translation:** 
 
-**[1469.28s] English:** honest as i can about whatever i'm going through or whatever i'm dealing with but  
+**[1469.28s] English:** Honest as I can be about whatever I'm going through or whatever I'm dealing with, but  
 **Translation:** 
 
-**[1472.60s] English:** when it comes to like selling things i don't have i don't have a problem  
+**[1472.60s] English:** When it comes to selling things, I don't have a problem.  
 **Translation:** 
 
-**[1475.44s] English:** trying to make fun of myself or or get in front of people so that they know that that i have a  
+**[1475.44s] English:** Trying to make fun of myself or get in front of people so that they know that I have a  
 **Translation:** 
 
-**[1483.74s] English:** show because the thing i'm good at the the one thing i know i'm good at stand up and and i i  
+**[1483.74s] English:** Show because the thing I'm good at—the one thing I know I'm good at—is stand-up, and I...  
 **Translation:** 
 
-**[1489.52s] English:** say that humbly but like i want them to come there so like i've heard people make fun of me  
+**[1489.52s] English:** Say that humbly, but like I want them to come there, so I've heard people make fun of me.  
 **Translation:** 
 
-**[1493.98s] English:** like before they're like yeah i'm not some i'm not some clown and a speedo who's one is gonna  
+**[1493.98s] English:** Like before, they're like, "Yeah, I'm not some clown in a speedo who is.  
 **Translation:** 
 
-**[1498.52s] English:** i'm a real  
-**Translation:** Vocabulary: speedo: 快装泳裤
+**[1498.52s] English:** I'm a real  
+**Translation:** Vocabulary: speedo: 比基尼泳裤
 
-**[1499.22s] English:** you  
+**[1499.22s] English:** You.  
 **Translation:** 
 
-**[1499.28s] English:** comic and i go okay but i'm i want it i want them at my shows and you can be that guy and  
+**[1499.28s] English:** Comic, and I go "Okay, but I want them at my shows, and you can be that guy.  
 **Translation:** 
 
-**[1504.78s] English:** i'll be this guy yeah the clown the speedo yeah it's like what are you gonna do funny people make  
+**[1504.78s] English:** I'll be this guy, yeah—the clown in the speedo. Yeah, it's like, what are you gonna do? Funny people make.  
 **Translation:** 
 
-**[1510.70s] English:** fun of me for taking my shirt off like i guess behind my back no one ever does it to me like  
+**[1510.70s] English:** Fun of me for taking my shirt off, like I guess behind my back—no one ever does it to me like that.  
 **Translation:** 
 
-**[1515.02s] English:** no one would ever comics aren't comics aren't comics aren't that manly yeah yeah but i always  
+**[1515.02s] English:** No one would ever say comics aren't manly, yeah, yeah, but I always  
 **Translation:** 
 
-**[1524.12s] English:** go like i always go like who what do you care what am i what do you what do you care  
+**[1524.12s] English:** Go, like I always go. Like, who, what? Do you care? What am I? What do you care?  
 **Translation:** 
 
-**[1528.22s] English:** and you love taking shirt off more than anything you know when something becomes  
+**[1528.22s] English:** And you love taking your shirt off more than anything. You know, when something becomes  
 **Translation:** 
 
-**[1534.14s] English:** meme and becomes super popular it um it becomes easy to not love the thing anymore to get tired  
+**[1534.14s] English:** Meme and becomes super popular; it becomes easy to not love the thing anymore, to get tired.  
 **Translation:** 
 
-**[1541.32s] English:** of it you still love it well more than anything i like being shirtless more than having a shirt  
+**[1541.32s] English:** Of it, you still love it? Well, more than anything, I like being shirtless more than having a shirt.  
 **Translation:** 
 
-**[1549.00s] English:** i'm very uncomfortable in a shirt yeah like right now and i have tactile issues like i have  
-**Translation:** Vocabulary: shirtless: 光着上身
+**[1549.00s] English:** I'm very uncomfortable in a shirt, yeah, like right now. And I have tactile issues; like, I have  
+**Translation:** Vocabulary: shirtless: 光着上身; tactile: 触感的
 
-**[1553.86s] English:** legit tactile issues i'm most comfortable in stretchy  
+**[1553.86s] English:** Legit tactile issues; I'm most comfortable in stretchy.  
 **Translation:** 
 
-**[1558.22s] English:** jeans  
-**Translation:** Vocabulary: legit: 正经; stretchy: 有弹性的
+**[1558.22s] English:** Jeans.  
+**Translation:** Vocabulary: legit: 确实; stretchy: 有弹性的
 
-**[1560.00s] English:** loose fitting belt and then these shirts exactly but i don't i'm i like more like a v-neck i feel  
+**[1560.00s] English:** Loose-fitting belt, and then these shirts, exactly, but I don't; I prefer more of a V-neck, I feel.  
 **Translation:** 
 
-**[1565.62s] English:** i can feel this on my neck right now and i can feel it on my arms and so i'm i'll sit a certain  
+**[1565.62s] English:** I can feel this on my neck right now, and I can feel it on my arms too. So, I'll sit a certain  
 **Translation:** 
 
-**[1571.32s] English:** way because it it just rubs me wrong but yeah i'm more comfortable shirtless i can never wear what  
+**[1571.32s] English:** Way, because it just rubs me the wrong way, but yeah, I'm more comfortable shirtless. I can never wear what.  
 **Translation:** 
 
-**[1577.60s] English:** you're wearing uh yeah well this is my shirtless we each of us have to find our place in this world  
+**[1577.60s] English:** You're wearing, uh, yeah, well, this is my shirtless. We each of us have to find our place in this world.  
 **Translation:** 
 
-**[1584.78s] English:** in terms of fashion i would love to be able to wear what you wear yeah because it looks good  
+**[1584.78s] English:** In terms of fashion, I would love to be able to wear what you wear, yeah, because it looks good.  
 **Translation:** 
 
-**[1590.26s] English:** it feels like an escape from convention well you or me both of us yeah because this nobody wears  
+**[1590.26s] English:** It feels like an escape from convention. Well, you or me — both of us, yeah — because this nobody wears.  
 **Translation:** 
 
-**[1598.02s] English:** this unless you work security for somebody yeah but it looks good on you does it i don't know  
+**[1598.02s] English:** This, unless you work in security for somebody, yeah? But it looks good on you, doesn't it? I don't know.  
 **Translation:** 
 
-**[1604.36s] English:** you know i think people think i don't like they would say like what what if you lose weight  
+**[1604.36s] English:** You know, I think people think I don't like them, and they might say, "What if you lose weight?  
 **Translation:** 
 
-**[1611.10s] English:** you can't take your shirt off anymore go no i'm gonna fucking take my shirt off  
+**[1611.10s] English:** You can't take your shirt off anymore. Go! No, I'm gonna fucking take my shirt off.  
 **Translation:** 
 
-**[1614.48s] English:** you  
+**[1614.48s] English:** You.  
 **Translation:** 
 
-**[1614.78s] English:** fucking out of your mind i take my shirt off all the time uh you mentioned uh early on heartbreak  
+**[1614.78s] English:** Fucking out of your mind, I take my shirt off all the time. Uh, you mentioned, uh, early on, heartbreak.  
 **Translation:** 
 
-**[1620.88s] English:** after the russia trip with a girl who slept with your friend um let's go back to hemingway quotes  
-**Translation:** Vocabulary: heartbreak: 心碎; hemingway: 海明威
+**[1620.88s] English:** After the Russia trip with a girl who slept with your friend, um, let's go back to Hemingway quotes.  
+**Translation:** Vocabulary: heartbreak: 失恋; hemingway: 海明威; quotes: 引语
 
-**[1626.90s] English:** the best way to find out if you can trust somebody is to trust them  
+**[1626.90s] English:** The best way to find out if you can trust somebody is to trust them.  
 **Translation:** 
 
-**[1631.44s] English:** so to go all in with the trust i love hemingway so much um have you been betrayed in your life  
+**[1631.44s] English:** So, to go all in with the trust, I love Hemingway so much. Have you ever been betrayed in your life?  
 **Translation:** Vocabulary: betrayed: 被背叛
 
-**[1641.86s] English:** yeah what do you think about trust  
+**[1641.86s] English:** Yeah, what do you think about trust?  
 **Translation:** 
 
-**[1643.48s] English:** you  
+**[1643.48s] English:** You.  
 **Translation:** 
 
-**[1644.78s] English:** it's an interesting question um i've been betrayed in my professional life a couple times by really  
+**[1644.78s] English:** It's an interesting question. Um, I've been betrayed in my professional life a few times by really  
 **Translation:** 
 
-**[1652.82s] English:** close friends and uh i'm not someone who can't like i have a mantra that i mean i'm i don't know  
+**[1652.82s] English:** Close friends, and I'm not someone who can't — I have a mantra that I mean, I don't know.  
 **Translation:** Vocabulary: mantra: 座右铭
 
-**[1663.48s] English:** if people have heard it or not and i hate i hate sharing it but it's but it's true the mantra is  
+**[1663.48s] English:** If people have heard it or not, I hate to share it, but it's true: the mantra is...  
 **Translation:** 
 
-**[1669.26s] English:** so you think i'm weak like do you think it's like that's my thing because i i feel like people are  
+**[1669.26s] English:** So, you think I'm weak? Like, do you think it's "that's my thing" because I feel like people are.  
 **Translation:** 
 
-**[1674.78s] English:** take advantage of me and i go so you think i'm weak you forget everyone that  
+**[1674.78s] English:** Take advantage of me, and I'll go so you think I'm weak. You'll forget everyone that.  
 **Translation:** 
 
-**[1680.00s] English:** Like when I'm named the people that have betrayed me, I'm a larger man than all of them.  
+**[1680.00s] English:** Like when I'm named as one who has betrayed me, I'm a larger man than all of them.  
 **Translation:** 
 
-**[1685.02s] English:** And, and, but I, and so that's what really fucks with me is I go, so you think I'm weak?  
+**[1685.02s] English:** And, and, but I—so that's what really fucks with me is if you think I'm weak?  
 **Translation:** 
 
-**[1689.46s] English:** Like where I grew up, when you do stuff, there was physical consequences.  
+**[1689.46s] English:** Like where I grew up, when you do stuff, there were physical consequences.  
 **Translation:** Vocabulary: fucks: 困扰
 
 **[1693.44s] English:** I grew up in Florida.  
 **Translation:** 
 
-**[1694.18s] English:** Like I've, I've been beaten up a bunch.  
+**[1694.18s] English:** Like, I've been beaten up a bunch.  
+**Translation:** Vocabulary: beaten: 被打
+
+**[1696.44s] English:** I'm not saying I can fight, but, like, I'm not scared of getting beaten up.  
 **Translation:** 
 
-**[1696.44s] English:** I'm not saying I can fight, but like, I'm not scared of getting beaten up.  
+**[1700.44s] English:** And the times that I've been betrayed, I, and even, I know even by  
 **Translation:** 
 
-**[1700.44s] English:** And the, the times that I've been betrayed, I, and, and, and even, I know even like by  
+**[1706.18s] English:** Ari, whichever people see that as drugging as a betrayal.  
 **Translation:** 
 
-**[1706.18s] English:** Ari, whichever people see that drugging as a betrayal.  
-**Translation:** 
-
-**[1708.78s] English:** And I did for a period, but it was, it was only because it was Ari and he was my, one  
+**[1708.78s] English:** And I did for a period, but it was only because it was Ari and he was my one.  
 **Translation:** Vocabulary: betrayal: 背叛; whichever: 无论哪个
 
-**[1712.72s] English:** of my best friends and me and him had to work through that.  
+**[1712.72s] English:** Of my best friends and me, we had to work through that.  
 **Translation:** 
 
-**[1715.52s] English:** Cause I, I, I couldn't not love him.  
+**[1715.52s] English:** Because I couldn't help but love him.  
 **Translation:** 
 
-**[1717.76s] English:** Like I couldn't not have him in my life.  
+**[1717.76s] English:** Like, I couldn't have him in my life.  
 **Translation:** 
 
-**[1720.04s] English:** He meant, he means a lot to me.  
+**[1720.04s] English:** He meant a lot to me. He means a lot to me.  
 **Translation:** 
 
 **[1721.34s] English:** He really does.  
 **Translation:** 
 
-**[1722.36s] English:** He's a great friend to have, but he's also, I don't know what was going on with him at  
+**[1722.36s] English:** He's a great friend to have, but he's also; I don't know what was going on with him at  
 **Translation:** 
 
-**[1727.74s] English:** that time, but he made a bad decision and I had to forgive him for that because I knew  
+**[1727.74s] English:** That time, but he made a bad decision, and I had to forgive him for that because I knew.  
 **Translation:** 
 
-**[1730.60s] English:** he, he knew my mantra.  
+**[1730.60s] English:** He, he knew my mantra.  
 **Translation:** 
 
 **[1733.04s] English:** I think I'm harder to trust people now.  
 **Translation:** 
 
-**[1735.60s] English:** I'm, I'm not as apt to trust people at all.  
+**[1735.60s] English:** I'm not as apt to trust people at all.  
 **Translation:** 
 
-**[1739.66s] English:** But there was a moment, I don't know if I've ever shared this and I don't know how  
+**[1739.66s] English:** But there was a moment—I don't know if I've ever shared this—and I don't know how  
 **Translation:** 
 
-**[1742.90s] English:** this will sound, but there was a moment that information got leaked about a thing and all  
+**[1742.90s] English:** This will sound strange, but there was a moment when information got leaked about something, and all  
+**Translation:** Vocabulary: leaked: 泄露
+
+**[1747.58s] English:** My managers and agents, both—Tom and our managers and agents—would...  
 **Translation:** 
 
-**[1747.58s] English:** my managers and agents, both, both Tom and my, Tom and our managers and agents would  
-**Translation:** 
-
-**[1755.00s] English:** like to separate, either separate us or one of us, one of them get both of us.  
-**Translation:** 
+**[1755.00s] English:** Like to separate, either separating us or one of us, and one of them gets both of us.  
+**Translation:** Vocabulary: separating: 分开
 
 **[1760.94s] English:** It's just more lucrative for them.  
 **Translation:** 
 
 **[1762.40s] English:** Sure.  
-**Translation:** Vocabulary: lucrative: 有利可图
+**Translation:** Vocabulary: lucrative: 有利可图的
 
-**[1762.90s] English:** So they have always kind of pitted us against each other a little bit and they do it subtly.  
+**[1762.90s] English:** So, they have always kind of pitted us against each other a little bit, and they do it subtly.  
 **Translation:** 
 
 **[1767.94s] English:** Mm-hmm.  
-**Translation:** Vocabulary: subtly: 委婉地
+**Translation:** Vocabulary: pitted: 互相竞争; subtly: 微妙地
 
-**[1768.78s] English:** Um, they'll do it to me and my team and then his team will do it to me and then my team  
+**[1768.78s] English:** Um, they'll do it to me and my team, and then his team will do it to us, and then our team...  
 **Translation:** 
 
-**[1774.28s] English:** will do it to him and his team will do it to him.  
+**[1774.28s] English:** We'll do it to him, and his team will do it to him.  
 **Translation:** 
 
-**[1776.50s] English:** And there was a moment where information got leaked about this thing I was doing and my  
+**[1776.50s] English:** And, at a moment, information got leaked about this thing I was doing, and my  
 **Translation:** 
 
-**[1781.12s] English:** team was like, just so you know, your, your boy Tommy is, is the rat.  
+**[1781.12s] English:** The team was like, "Just so you know, your boy Tommy is the rat.  
 **Translation:** Vocabulary: tommy: 汤米
 
 **[1785.82s] English:** Mm-hmm.  
 **Translation:** 
 
-**[1786.30s] English:** And I had to, it was the one time and Leanne said, do you think Tom would do that?  
+**[1786.30s] English:** And I had to; it was the one time, and Leanne said, "Do you think Tom would do that?  
+**Translation:** Vocabulary: leanne: 莱恩
+
+**[1792.90s] English:** I said, "Uh, I don't know how faith works.  
 **Translation:** 
 
-**[1792.90s] English:** I said, uh, I don't know how faith works.  
+**[1796.32s] English:** Like, I'm not a super religious person.  
 **Translation:** 
 
-**[1796.32s] English:** Like I'm not a super religious person.  
+**[1798.78s] English:** But I will tell you, I'm not a super-religious person.  
 **Translation:** 
 
-**[1798.78s] English:** But I will tell you, I'm not a super religious person.  
-**Translation:** 
-
-**[1800.00s] English:** you that i believe in tom and i don't think he did it and i will stand by that ignorantly  
+**[1800.00s] English:** You, I believe in Tom and I don't think he did it, and I will stand by that ignorantly.  
 **Translation:** Vocabulary: ignorantly: 无知地
 
-**[1805.64s] English:** and and i will and i will ride or die with him because i cannot live in a world where i don't  
+**[1805.64s] English:** And I will ride or die with him because I cannot live in a world where I don't.  
 **Translation:** 
 
-**[1811.30s] English:** trust him yeah if i don't trust him then i am so fucked and uh and it wasn't him it wasn't him and  
+**[1811.30s] English:** Trust him, yeah. If I don't trust him, then I am so fucked. And it wasn't him; it wasn't him.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[1818.90s] English:** It's a cool feeling to know that you can blindly trust someone.  
 **Translation:** 
 
-**[1818.90s] English:** it was it's a cool feeling to know that you could like that you could blindly trust someone blindly  
+**[1824.80s] English:** Have faith in someone; know that they have your best interest at heart, but yeah, it took me a while.  
+**Translation:** Vocabulary: blindly: 毫无保留地
+
+**[1829.72s] English:** While I was getting there, Rogan helped me because I wasn't trusting him, Joey, or Tommy.  
 **Translation:** 
 
-**[1824.80s] English:** have faith in someone know that they're they have your best interest at heart but yeah it took me a  
+**[1833.46s] English:** For anyone, I wasn't trusting anyone; I'd gotten into a bad situation, and I just wasn't trusting anybody.  
 **Translation:** 
 
-**[1829.72s] English:** while to get there rogan helped me get there because i wasn't trusting him or joey or tommy  
+**[1837.84s] English:** And Rogan was like, "Yeah, man, we're trying to be your fucking friend," and I was like, "Yeah, I don't.  
 **Translation:** 
 
-**[1833.46s] English:** or anyone i wasn't trusting anyone i'd gotten in a bad thing and i just wasn't trusting anybody  
+**[1843.60s] English:** I don't need friends. I couldn't understand why Rogan was interested in me, and I said, "to like.  
 **Translation:** 
 
-**[1837.84s] English:** and rogan was like yeah man we're trying to be your fucking friend and i was like yeah i don't  
+**[1849.38s] English:** Someone, I was like, "Is he gay? Like, what the fuck, yeah?" And then he was just a nice guy; he's just a  
 **Translation:** 
 
-**[1843.60s] English:** i don't need friends i couldn't understand what why rogan was interested in me and i said to like  
+**[1854.92s] English:** Nice guy; that'd be hilarious if Joe was sexually attracted.  
+**Translation:** Vocabulary: hilarious: 好笑
+
+**[1859.72s] English:** To you, this whole time is the reason he keeps inviting you back. I would be  
 **Translation:** 
 
-**[1849.38s] English:** someone i was like is he gay like what the fuck yeah and then he was just a nice guy he's just a  
+**[1864.04s] English:** More excited I would be if he tried to kiss me on the lips just once—and just  
 **Translation:** 
 
-**[1854.92s] English:** nice guy that'd be hilarious if joe was sexually attracted  
+**[1869.62s] English:** And, like in a scene from "Boogie Nights" with Scotty Jayway, where he's like, "What do you like about my car?  
 **Translation:** 
 
-**[1859.72s] English:** to you this whole time this whole time's the reason he keeps inviting you back i would be  
-**Translation:** 
-
-**[1864.04s] English:** more excited i would be more excited if just if he tried to kiss me on the lips once just and just  
-**Translation:** 
-
-**[1869.62s] English:** and like in a scotty scotty jayway from boogie nights where he's like what do you like my car  
-**Translation:** 
-
-**[1874.52s] English:** yeah you know nobody would believe that story no one yeah if i was joe i would kiss dudes  
+**[1874.52s] English:** Yeah, you know, nobody would believe that story. No one, yeah. If I were Joe, I would kiss dudes.  
 **Translation:** Vocabulary: boogie: 舞会; scotty: 斯科蒂
 
-**[1879.86s] English:** all the time and then and then when they didn't kiss back oh you know i'll never know what i'll  
+**[1879.86s] English:** All the time, and then, and then, when they didn't kiss back, oh, you know, I'll never know what it was.  
 **Translation:** 
 
-**[1884.44s] English:** ever believe you yeah well when you trust people like that and they fuck you over that can be  
+**[1884.44s] English:** Ever believe you, yeah? Well, when you trust people like that and they fuck you over, that can be  
 **Translation:** 
 
-**[1889.72s] English:** really really really hurt you end up on a treadmill in a hotel room fighting with them  
+**[1889.72s] English:** Really, really, really, it hurts. You end up on a treadmill in a hotel room, fighting with them.  
 **Translation:** 
 
-**[1896.52s] English:** you fight with them all the time you fight with them all the time you fight with them constantly  
+**[1896.52s] English:** You fight with them all the time; you fight with them constantly.  
 **Translation:** Vocabulary: treadmill: 跑步机
 
-**[1902.38s] English:** and it's and i and i i have this uh thing like where i got ruminate on an idea and i can't get  
+**[1902.38s] English:** And it's like I have this thing where I get stuck ruminating on an idea and I can't get  
 **Translation:** 
 
-**[1908.08s] English:** it out of my head and i hear the words they say and i and i and so all in your head on a treadmill  
-**Translation:** Vocabulary: ruminate: 反复思考
+**[1908.08s] English:** It's out of my head, and I hear the words they say, and I'm just on a treadmill in my head.  
+**Translation:** Vocabulary: ruminating: 反复思考
 
-**[1913.68s] English:** in your head just fighting just fucking fighting and then yeah  
+**[1913.68s] English:** In your head, just fighting, just fucking fighting, and then, yeah.  
 **Translation:** 
 
-**[1919.72s] English:** you  
+**[1919.72s] English:** You.  
 **Translation:** 
 
-**[1920.00s] English:** And then one day you get past it.  
+**[1920.00s] English:** And then, one day, you get past it.  
 **Translation:** 
 
-**[1922.04s] English:** Like one day you just go, eh, fuck them.  
+**[1922.04s] English:** Like one day you just go, "Eh, fuck them.  
 **Translation:** 
 
 **[1925.18s] English:** I'm not going to let you give them real estate.  
@@ -1705,11 +1706,11 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1926.84s] English:** And then you just forget about them.  
 **Translation:** 
 
-**[1928.26s] English:** And then they reach out and they'll try to be a dick or a bully because they're bullies.  
+**[1928.26s] English:** And then they reach out, and they'll try to be a dick or a bully because they're bullies.  
 **Translation:** 
 
-**[1931.90s] English:** They're bullies is what they are.  
-**Translation:** 
+**[1931.90s] English:** They're bullies, is what they are.  
+**Translation:** Vocabulary: bullies: 欺凌他人的人
 
 **[1933.10s] English:** Don't ever forget it.  
 **Translation:** 
@@ -1721,15 +1722,15 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[1935.92s] English:** It's not their fault.  
-**Translation:** 
+**Translation:** Vocabulary: bullied: 被欺负
 
 **[1936.76s] English:** They got bullied.  
 **Translation:** 
 
-**[1938.90s] English:** And then they try to bully you and you don't have any connection anymore.  
+**[1938.90s] English:** And then they try to bully you, and you don't have any connection anymore.  
 **Translation:** 
 
-**[1941.92s] English:** And you're like, oh, you can go fuck yourself.  
+**[1941.92s] English:** And you're like, "Oh, you can go fuck yourself.  
 **Translation:** 
 
 **[1943.56s] English:** You can actually go fuck yourself.  
@@ -1750,10 +1751,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1947.90s] English:** Get the fuck out of my life.  
 **Translation:** 
 
-**[1949.02s] English:** But this kind of mantra that you're not weak, you still want to be able to be fragile to  
+**[1949.02s] English:** But this kind of mantra that you're not weak, you still want to be able to be fragile to.  
 **Translation:** Vocabulary: fragile: 易碎; mantra: 咒语
 
-**[1954.96s] English:** the world and appear weak almost.  
+**[1954.96s] English:** The world and appear weak almost.  
 **Translation:** 
 
 **[1957.24s] English:** I am.  
@@ -1762,10 +1763,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1957.72s] English:** I am.  
 **Translation:** 
 
-**[1958.12s] English:** I mean, that's the problem is I think I am pretty fucking weak.  
+**[1958.12s] English:** I mean, that's the problem: I think I am pretty fucking weak.  
 **Translation:** 
 
-**[1960.68s] English:** Like, I'm not the strongest dude out there.  
+**[1960.68s] English:** Like, I'm not the strongest guy out there.  
 **Translation:** 
 
 **[1963.76s] English:** I have really thin skin.  
@@ -1777,10 +1778,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1966.92s] English:** Yeah.  
 **Translation:** 
 
-**[1967.22s] English:** And so, but like, but it sucks when you watch, like, your friend see something in you that  
+**[1967.22s] English:** And so, but like, it sucks when you watch your friend see something in you that  
 **Translation:** 
 
-**[1975.24s] English:** you go, or they go, fuck him.  
+**[1975.24s] English:** You go, or they go: fuck him.  
 **Translation:** 
 
 **[1978.14s] English:** He's not paying attention.  
@@ -1810,7 +1811,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1985.52s] English:** He's a drunk alcoholic.  
 **Translation:** 
 
-**[1986.26s] English:** And you go, oh, no, bitch.  
+**[1986.26s] English:** And you go, "Oh, no, bitch.  
 **Translation:** Vocabulary: alcoholic: 酒鬼
 
 **[1987.36s] English:** I pay attention.  
@@ -1825,23 +1826,23 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[1990.26s] English:** I'm working my ass off.  
 **Translation:** 
 
-**[1991.76s] English:** You're not going to fucking.  
+**[1991.76s] English:** You're not going to fucking do it.  
 **Translation:** 
 
 **[1993.82s] English:** Well, that's the tough thing about, like, you and Tom Segura.  
 **Translation:** Vocabulary: segura: 塞古拉
 
-**[1996.28s] English:** You're at the top of your game on top of the world.  
+**[1996.28s] English:** You're at the top of your game, on top of the world.  
 **Translation:** 
 
 **[1998.86s] English:** Some of the most famous comics in the world.  
 **Translation:** 
 
-**[2000.92s] English:** And you could see money start to creep in like business decisions.  
+**[2000.92s] English:** And you could see money start to creep in, like business decisions.  
 **Translation:** 
 
 **[2006.94s] English:** Yeah.  
-**Translation:** Vocabulary: creep: 悄悄增加
+**Translation:** Vocabulary: creep: 缓慢增加
 
 **[2008.36s] English:** I don't know.  
 **Translation:** 
@@ -1855,7 +1856,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2011.44s] English:** It's really tough, you know, especially as we're growing.  
 **Translation:** 
 
-**[2015.08s] English:** And I'll tell you what.  
+**[2015.08s] English:** And I'll tell you what:  
 **Translation:** 
 
 **[2021.38s] English:** I don't know how much I'm allowed to say, but I can tell you this.  
@@ -1873,7 +1874,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2036.44s] English:** And one of us said,  
 **Translation:** 
 
-**[2039.02s] English:** To the other person.  
+**[2039.02s] English:** To the other person:  
+**Translation:** 
+
+**[2040.00s] English:** Person, our feelings are more important than the money, so let's just split the money and it was.  
 **Translation:** 
 
 **[2040.14s] English:** And I said,  
@@ -1966,100 +1970,97 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2041.44s] English:** I don't know.  
 **Translation:** 
 
-**[2040.00s] English:** person our feelings are more important than the money so let's just split the money and it was  
+**[2045.74s] English:** And it was really like a solid moment where both of us were  
 **Translation:** 
 
-**[2045.74s] English:** and it was and it was and and it was it was really like a solid moment where i where both of us were  
+**[2052.54s] English:** Like that is how we should run this, yeah. That's the interesting thing, like with bands, you have  
 **Translation:** 
 
-**[2052.54s] English:** like that is how we should run this yeah that's the interesting things like with bands you have  
+**[2058.84s] English:** Like popular bands that split, and even though it's clear that the contribution isn't  
 **Translation:** 
 
-**[2058.84s] English:** like popular bands that split and even yeah even though it's clear that the contribution is not  
+**[2066.14s] English:** Even it's like, uh, there's a front man and all that kind of stuff, but it's ultimately the right.  
 **Translation:** 
 
-**[2066.14s] English:** even it's like uh there's a front man and all that kind of stuff but it's ultimately the right  
+**[2070.64s] English:** A thing to do to say "fuck you" to money, for the most part, and prioritize your feelings, yeah.  
 **Translation:** 
 
-**[2070.64s] English:** thing to do to say fuck you to the money for the most part and prioritize the feelings yeah  
+**[2077.14s] English:** Especially because, like, I couldn't do it without him; he couldn't do it without me. We do it separately.  
+**Translation:** Vocabulary: prioritize: 优先; separately: 单独
+
+**[2083.14s] English:** We'll have guests on some shows, and they'll blow up, some won't. You can never figure it out, but when we're  
 **Translation:** 
 
-**[2077.14s] English:** especially because like i couldn't do it without him he couldn't do it without me we do it separately  
-**Translation:** Vocabulary: prioritize: 优先考虑
-
-**[2083.14s] English:** we'll have guest bears on some will blow up some won't you can never figure it out but when we're  
+**[2087.78s] English:** Together, it does well, and so we need each other for it to work. We've, you know, like I said.  
 **Translation:** 
 
-**[2087.78s] English:** together it does well and so we need each other for it to work and we've you know like i said  
+**[2093.58s] English:** We're on a handshake deal with two bears.  
 **Translation:** 
 
-**[2093.58s] English:** we're on a handshake deal with two bears  
-**Translation:** 
-
-**[2095.04s] English:** and  
+**[2095.04s] English:** And  
 **Translation:** Vocabulary: handshake: 握手协议
 
-**[2096.14s] English:** , no one likes that but we're like hey i mean we i don't like i to the point where like he'll call  
+**[2096.14s] English:** No one likes that, but we're like, "Hey, I mean, I don't like it to the point where he'll call.  
 **Translation:** 
 
-**[2102.72s] English:** me and go yo we have a deal to do this for x amount are you in and i go yeah i don't check  
+**[2102.72s] English:** Me and go yo, we have a deal to do this for X amount. Are you in? And I go, "Yeah, I'm in.  
 **Translation:** 
 
-**[2108.54s] English:** the books i don't need to i don't i don't i know him i just know him yeah what do you love most  
+**[2108.54s] English:** The books I don't need, I don't really care about. I just know him; yeah, what do you love most?  
 **Translation:** 
 
-**[2113.72s] English:** about tom segura  
+**[2113.72s] English:** About Tom Segura.  
 **Translation:** 
 
-**[2114.72s] English:** we saw a gay couple one time  
+**[2114.72s] English:** We saw a gay couple one time.  
 **Translation:** 
 
-**[2119.84s] English:** this is a good start and there was one guy was in khakis and one guy was in jean shorts with a  
+**[2119.84s] English:** This is a good start, and there was one guy in khakis and one guy in jeans shorts with a  
 **Translation:** Vocabulary: khakis: 卡其裤
 
-**[2125.50s] English:** python around his neck  
+**[2125.50s] English:** Python around his neck.  
 **Translation:** 
 
-**[2126.14s] English:** and tom goes if we were gay which one would you be i said i'm python  
+**[2126.14s] English:** And Tom goes, "If we were gay, which one would you be?" I said, "I'm Python.  
 **Translation:** 
 
-**[2131.82s] English:** yeah and he was like yeah i'm khaki and i go really he goes yeah that's why we work and  
+**[2131.82s] English:** Yeah, and he was like, "Yeah, I'm Khaki and I go really. He goes, 'That's why we work.  
 **Translation:** 
 
-**[2135.90s] English:** he goes all relationships are for pythons and khakis and i went really and he goes look at  
-**Translation:** Vocabulary: khaki: 卡其裤; pythons: 比喻
+**[2135.90s] English:** He goes, "All relationships are for pythons and khakis," and I went, "Really?" and he goes, "Look at.  
+**Translation:** Vocabulary: khaki: 卡其裤; pythons: 蟒蛇
 
-**[2139.18s] English:** you and leanne who do you think you are go python and he goes she's khaki and he goes me and push i  
+**[2139.18s] English:** You and Leanne, who do you think you are? Go, Python, and he goes, "She's Khaki," and he goes, "Me and push I.  
 **Translation:** 
 
-**[2144.54s] English:** go oh she's python he goes and i'm khaki he goes i'll always be khaki and sometimes i'll have a  
+**[2144.54s] English:** Go, oh! She's Python. He goes, and I'm Khaki. He goes. I'll always be Khaki, and sometimes I'll have a  
+**Translation:** Vocabulary: leanne: 莱anne
+
+**[2149.74s] English:** Relationship around the Python, but it's okay—I'm usually khaki, yeah, and I was like, "Yeah, I am a little bit of a  
 **Translation:** 
 
-**[2149.74s] English:** relationship around the python but it's i'm usually a khaki yeah and i was like yeah i am a little bit of a  
+**[2151.28s] English:** Yes, I'm usually khaki.  
 **Translation:** 
 
-**[2151.28s] English:** yes i'm usually a khaki  
+**[2153.20s] English:** Yeah, and I was like, "I have a much better relationship," than he said, "Yeah.  
 **Translation:** 
 
-**[2153.20s] English:** yeah and i was like yeah i have a much better relationship than he said yeah  
-**Translation:** 
-
-**[2154.28s] English:** yeah but usually it's always but only if the searche's slowness gets better but first paul and brenda  
+**[2154.28s] English:** Yeah, but usually it's always "but" only if the searcher's slowness gets better. But first, Paul and Brenda.  
 **Translation:** Vocabulary: brenda: 布伦达
 
 **[2154.80s] English:** I am a little bit of a lunatic.  
 **Translation:** 
 
-**[2156.84s] English:** I'll tell you a moment.  
+**[2156.84s] English:** I'll tell you in a moment.  
 **Translation:** Vocabulary: lunatic: 疯子
 
-**[2160.00s] English:** It explains me and him that the world will never see.  
+**[2160.00s] English:** It explains to me and him that the world will never see.  
 **Translation:** 
 
 **[2163.98s] English:** It was just a great moment.  
 **Translation:** 
 
-**[2165.14s] English:** We got stem cells with Rogan one weekend and one day, and I'd had surgery in my arm and  
+**[2165.14s] English:** We got stem cells with Rogan one weekend and one day, and I'd had surgery in my arm, and  
 **Translation:** 
 
 **[2170.62s] English:** I didn't want to do it.  
@@ -2068,13 +2069,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2171.54s] English:** I was terrified.  
 **Translation:** 
 
-**[2172.22s] English:** And Tom just said, just come out and meet up with us.  
+**[2172.22s] English:** And Tom just said, "Just come out and meet up with us.  
 **Translation:** 
 
 **[2173.72s] English:** Tom knew he was going to make me get them.  
 **Translation:** 
 
-**[2175.60s] English:** And so I got them and he, you know, Joe's there.  
+**[2175.60s] English:** And so I got them, and he, you know, Joe's there.  
 **Translation:** 
 
 **[2181.12s] English:** And so we're just all talking.  
@@ -2083,37 +2084,37 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2182.36s] English:** Yeah, yeah, yeah, yeah.  
 **Translation:** 
 
-**[2183.22s] English:** And I'm, and Tom can see that I'm spinning out a little bit and I get in the car and  
+**[2183.22s] English:** And I'm, and Tom can see that I'm spinning out a little bit, and I get in the car and  
 **Translation:** 
 
-**[2188.96s] English:** you know, Tom's got a Porsche.  
+**[2188.96s] English:** You know, Tom's got a Porsche.  
 **Translation:** Vocabulary: spinning: 失控
 
-**[2189.96s] English:** So we're like right next to each other.  
+**[2189.96s] English:** So, we're right next to each other.  
 **Translation:** 
 
-**[2191.88s] English:** And I just want to feel if it's swollen and it is a little swollen because I just got  
+**[2191.88s] English:** And I just want to feel if it's swollen, and it is a little swollen because I just got  
+**Translation:** Vocabulary: swollen: 肿胀
+
+**[2196.60s] English:** An injection, and then, and Tom is driving and he's got his hand on the thing.  
 **Translation:** 
 
-**[2196.60s] English:** an injection and then, and Tom's driving and he's got his hand on the thing.  
-**Translation:** 
-
-**[2200.72s] English:** He just puts his hand on my arm and he goes, you're okay.  
+**[2200.72s] English:** He just puts his hand on my arm and he goes, "You're okay.  
 **Translation:** Vocabulary: injection: 注射
 
-**[2204.22s] English:** He's just, he's watching.  
+**[2204.22s] English:** He's just watching.  
 **Translation:** 
 
 **[2205.60s] English:** He knows me so well that he knows that I'm spinning out of control.  
 **Translation:** 
 
-**[2210.00s] English:** He's like, you're okay.  
+**[2210.00s] English:** He's like, "You're okay.  
 **Translation:** 
 
 **[2211.42s] English:** And then I was like, and I felt okay.  
 **Translation:** 
 
-**[2213.30s] English:** I was like, you're right.  
+**[2213.30s] English:** I was like, "You're right.  
 **Translation:** 
 
 **[2214.08s] English:** I'm okay.  
@@ -2122,7 +2123,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2214.58s] English:** What the fuck am I doing?  
 **Translation:** 
 
-**[2215.54s] English:** My brain's that brain.  
+**[2215.54s] English:** My brain is that brain.  
 **Translation:** 
 
 **[2218.20s] English:** Man.  
@@ -2137,40 +2138,40 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2221.22s] English:** He does.  
 **Translation:** 
 
-**[2221.62s] English:** He has, uh, you know, he had a fantastic relationship with his dad and, and, and I think whatever  
+**[2221.62s] English:** He has, uh, you know, he had a fantastic relationship with his dad, and, and, and I think whatever.  
 **Translation:** 
 
-**[2232.04s] English:** that did, that dude did to create that dude, he hit it out of the fucking park.  
+**[2232.04s] English:** That did, that dude did to create that dude, he hit it out of the fucking park.  
 **Translation:** 
 
-**[2236.94s] English:** Cause he has so much, uh, love that he doesn't need reciprocated, like at all.  
+**[2236.94s] English:** Because he has so much love that he doesn't need it reciprocated — at all.  
 **Translation:** 
 
 **[2245.12s] English:** Like he can just love.  
-**Translation:** Vocabulary: reciprocated: 相互的
+**Translation:** Vocabulary: reciprocated: 回报
 
-**[2246.70s] English:** And then he, it feels good for him.  
+**[2246.70s] English:** And then he feels good about it.  
 **Translation:** 
 
 **[2248.88s] English:** To give and to like, take care of someone.  
 **Translation:** 
 
-**[2251.58s] English:** And like, you know, he started the whole birthday gift thing.  
+**[2251.58s] English:** And, like, you know, he started the whole birthday gift thing.  
 **Translation:** 
 
-**[2254.26s] English:** Cause, and he didn't need to, he just was like, Hey man, I had this bike.  
+**[2254.26s] English:** Cause, and he didn't need to, he just was like, "Hey, man, I had this bike.  
 **Translation:** 
 
 **[2257.08s] English:** I thought you'd like it.  
 **Translation:** 
 
-**[2258.54s] English:** And then of course I've turned it into a fucking bit.  
+**[2258.54s] English:** And then, of course, I've turned it into a fucking bit.  
 **Translation:** 
 
 **[2261.52s] English:** And now we're upside down.  
 **Translation:** 
 
-**[2262.60s] English:** I'm 120 upside down on a fucking race car that we can't make our money back on.  
+**[2262.60s] English:** I'm 120 feet upside down on a fucking race car that we can't make our money back on.  
 **Translation:** Vocabulary: upside: 倒挂
 
 **[2266.12s] English:** Uh, I love it.  
@@ -2179,7 +2180,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2267.18s] English:** Uh, what do you love most about Joe Rogan?  
 **Translation:** 
 
-**[2270.82s] English:** Oh, that dude.  
+**[2270.82s] English:** Oh, that guy.  
 **Translation:** 
 
 **[2272.92s] English:** I could go on and on about Joe Rogan.  
@@ -2189,7 +2190,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[2278.02s] English:** I've ever met.  
-**Translation:** Vocabulary: selfless: 无私
+**Translation:** Vocabulary: selfless: 无私的
 
 **[2280.00s] English:** He doesn't care if he has you on the podcast.  
 **Translation:** 
@@ -2212,16 +2213,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2294.90s] English:** He wants to put you over to his fans.  
 **Translation:** 
 
-**[2297.78s] English:** That shit did not exist before he started doing his podcast.  
+**[2297.78s] English:** That shit didn't exist before he started doing his podcast.  
 **Translation:** 
 
 **[2301.26s] English:** People didn't share you with their fans.  
 **Translation:** 
 
-**[2303.24s] English:** No one was like, hey, man, come on on the road with me.  
+**[2303.24s] English:** No one was like, "Hey, man, come on on the road with me.  
 **Translation:** 
 
-**[2305.14s] English:** They brought you on the road because they wanted you to suck, and they put you in bad scenarios.  
+**[2305.14s] English:** They brought you on the road because they wanted you to suffer, and they put you in bad scenarios.  
 **Translation:** 
 
 **[2308.66s] English:** Joe Rogan wanted you to shine.  
@@ -2245,16 +2246,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2323.02s] English:** I bring on these guys.  
 **Translation:** 
 
-**[2324.34s] English:** I'm going to be the funniest guy in the fucking room.  
+**[2324.34s] English:** I'm going to be the funniest guy in the room.  
 **Translation:** 
 
-**[2325.84s] English:** I know some guys that have done that.  
+**[2325.84s] English:** I know some guys who have done that.  
 **Translation:** 
 
 **[2327.76s] English:** It might be me.  
 **Translation:** 
 
-**[2329.20s] English:** I might talk over people and not listen really well.  
+**[2329.20s] English:** I might talk over people and not listen very well.  
 **Translation:** 
 
 **[2331.92s] English:** Joe did the opposite.  
@@ -2266,43 +2267,43 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2336.26s] English:** That guy, when you think about it,  
 **Translation:** 
 
-**[2338.14s] English:** you name 10 people,  
+**[2338.14s] English:** You name 10 people.  
 **Translation:** 
 
 **[2338.66s] English:** 10 of his friends,  
 **Translation:** 
 
 **[2339.50s] English:** I bet eight of them are doing arenas right now.  
+**Translation:** Vocabulary: arenas: 大型场馆
+
+**[2342.34s] English:** They're all doing theater.  
 **Translation:** 
 
-**[2342.34s] English:** They're all doing theaters.  
+**[2343.50s] English:** All his friends do theater.  
 **Translation:** 
 
-**[2343.50s] English:** All his friends do theaters.  
-**Translation:** 
-
-**[2344.74s] English:** All his friends do theaters.  
+**[2344.74s] English:** All his friends do theater.  
 **Translation:** 
 
 **[2347.30s] English:** He is just,  
 **Translation:** 
 
-**[2350.60s] English:** and he won't accept this compliment.  
+**[2350.60s] English:** And he won't accept this compliment.  
 **Translation:** 
 
-**[2353.30s] English:** I tried paying it to him  
+**[2353.30s] English:** I tried paying it to him.  
 **Translation:** 
 
-**[2354.90s] English:** in Austin when I was in Austin last night.  
+**[2354.90s] English:** In Austin, when I was in Austin last night.  
 **Translation:** 
 
 **[2359.32s] English:** He's not good at accepting compliments.  
-**Translation:** 
+**Translation:** Vocabulary: compliments: 赞美
 
 **[2361.12s] English:** I gave him a gift, too, and I said,  
 **Translation:** 
 
-**[2362.44s] English:** hey, I need to show you.  
+**[2362.44s] English:** Hey, I need to show you.  
 **Translation:** 
 
 **[2364.54s] English:** I can't just tell you this because it's going to fall on deaf ears.  
@@ -2311,10 +2312,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2366.64s] English:** I need to give you a minute.  
 **Translation:** 
 
-**[2367.60s] English:** So you have something so you know that I think about you,  
+**[2367.60s] English:** So, you have something, and you know that I think about you.  
 **Translation:** 
 
-**[2372.08s] English:** and I'm grateful for having you in my life a lot for many reasons.  
+**[2372.08s] English:** And I'm grateful for having you in my life a lot for many reasons.  
 **Translation:** 
 
 **[2375.52s] English:** I have more friends in my life because of you.  
@@ -2332,14 +2333,14 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2384.44s] English:** I do arenas because of you.  
 **Translation:** 
 
-**[2386.56s] English:** Without you in my life, a lot of these things maybe never would have happened.  
+**[2386.56s] English:** Without you in my life, a lot of these things might never have happened.  
 **Translation:** 
 
 **[2390.28s] English:** I never would have told the machine on stage.  
 **Translation:** 
 
-**[2391.96s] English:** I wouldn't have gotten, I would have never started a podcast.  
-**Translation:** 
+**[2391.96s] English:** I wouldn't have gotten into podcasting; I would have never started a podcast.  
+**Translation:** Vocabulary: podcasting: 播客制作
 
 **[2394.54s] English:** I wouldn't have three podcasts.  
 **Translation:** 
@@ -2347,1369 +2348,1369 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[2396.14s] English:** I mean,  
 **Translation:** 
 
-**[2396.56s] English:** all these things are things he not just  
+**[2396.56s] English:** All these things are things he is not just.  
 **Translation:** 
 
-**[2400.00s] English:** He didn't just take me to the water one time and give me a drink  
+**[2400.00s] English:** He didn't just take me to the water once and give me a drink.  
 **Translation:** 
 
-**[2403.38s] English:** He he gave me a machete and he said this is how I get to the water  
+**[2403.38s] English:** He gave me a machete and he said, "This is how I get to the water.  
 **Translation:** 
 
-**[2405.96s] English:** You got to put your own path, but just give me a heads up. You can also use my path whenever you want  
+**[2405.96s] English:** You've got to put your own path, but just give me a heads up. You can also use my path whenever you want.  
 **Translation:** Vocabulary: machete: 大砍刀
 
-**[2410.88s] English:** I mean he he is the most  
+**[2410.88s] English:** I mean, he is the most  
 **Translation:** 
 
-**[2413.68s] English:** selfless individual he will go down in history as  
-**Translation:** Vocabulary: selfless: 无私
+**[2413.68s] English:** Selfless individual, he will go down in history as.  
+**Translation:** Vocabulary: selfless: 无私的
 
-**[2416.84s] English:** One of the ten most important people in stand-up comedy without a doubt. He changed the game  
+**[2416.84s] English:** One of the ten most important people in stand-up comedy, without a doubt. He changed the game.  
 **Translation:** 
 
-**[2421.46s] English:** It didn't exist like this before him and and he won't accept that compliment. What was the gift? Yeah, I can't tell you  
+**[2421.46s] English:** It didn't exist like this before him, and he won't accept that compliment. What was the gift? Yeah, I can't tell you.  
 **Translation:** 
 
-**[2428.08s] English:** Is it a dildo? There's a dildo. It's a double-sided dildo. I go and when you get free time, can we scissor fuck each other?  
+**[2428.08s] English:** Is it a dildo? There's a dildo. It's a double-sided dildo. I go, and when you get some free time, can we scissor-fuck each other?  
 **Translation:** 
 
-**[2436.10s] English:** You're happily married for 19 years  
-**Translation:** Vocabulary: dildo: 振动棒; scissor: 剪刀式
+**[2436.10s] English:** You've been happily married for 19 years.  
+**Translation:** Vocabulary: dildo: 振动棒
 
-**[2439.68s] English:** So I think you're a good man to ask. How do you find love?  
+**[2439.68s] English:** So, I think you're a good man to ask. How do you find love?  
 **Translation:** 
 
-**[2443.00s] English:** How do you find how do you date in order to find a love of your life of a lifetime? This is gonna sound  
+**[2443.00s] English:** How do you find out how to date in order to find a lifelong love? This is going to sound  
 **Translation:** 
 
-**[2449.88s] English:** off  
+**[2449.88s] English:** Off.  
 **Translation:** 
 
-**[2452.68s] English:** But don't  
+**[2452.68s] English:** But don't.  
 **Translation:** 
 
-**[2455.84s] English:** Don't tie yourself down meaning like don't  
+**[2455.84s] English:** Don't tie yourself down; meaning, don't  
 **Translation:** 
 
-**[2458.48s] English:** Spend time  
+**[2458.48s] English:** Spend time.  
 **Translation:** 
 
-**[2461.76s] English:** Fucking with those little mini shrimp and peeling them every night when you know, you're looking for a lobster  
+**[2461.76s] English:** Fucking with those little mini shrimp and peeling them every night when you know you're looking for a lobster.  
 **Translation:** 
 
-**[2466.62s] English:** Yeah, like and so I think what happens a lot of guys  
-**Translation:** Vocabulary: lobster: 龙虾
+**[2466.62s] English:** Yeah, like, and so I think what happens a lot is that guys  
+**Translation:** Vocabulary: lobster: 龙虾; peeling: 剥壳
 
-**[2469.34s] English:** They just they're so busy and like just getting pussy and going from here to here to here  
+**[2469.34s] English:** They are just so busy, and like, just getting from here to here to here.  
 **Translation:** 
 
-**[2473.64s] English:** Yeah, I was never that guy. I always wanted I always wanted to find someone who understood me  
-**Translation:** Vocabulary: pussy: 性伴侣
-
-**[2478.32s] English:** I always wanted that and so, you know granted I haven't had sex with a lot of chicks  
+**[2473.64s] English:** Yeah, I was never that guy. I always wanted—someone who understood me.  
 **Translation:** 
 
-**[2483.18s] English:** But that's and it's and it's not by choice. I'm saying like maybe there was times I would have done it  
-**Translation:** Vocabulary: chicks: 女学生
-
-**[2488.08s] English:** But I but I know that I was always looking for someone to figure out  
+**[2478.32s] English:** I always wanted that, and so, you know, granted, I haven't had sex with a lot of chicks.  
 **Translation:** 
 
-**[2491.70s] English:** To get me and then and then I will say this when you know, you know when you know  
+**[2483.18s] English:** But that's, and it's, and it's not by choice. I'm saying, like, maybe there were times I would have done it.  
+**Translation:** Vocabulary: chicks: 女孩子们
+
+**[2488.08s] English:** But I know that I was always looking for someone to figure it out.  
 **Translation:** 
 
-**[2497.70s] English:** You know when you think there's I can't imagine a life without this person  
+**[2491.70s] English:** To get me, and then I will say this when you know what I mean, you know.  
 **Translation:** 
 
-**[2503.36s] English:** That that happened to me and I can only say my experiences. I had Leanne  
+**[2497.70s] English:** You know, when you think there's no life without this person.  
 **Translation:** 
 
-**[2507.88s] English:** I loved her and I and I didn't even realize it and the second she dumped me I went. Oh, no, no, no  
+**[2503.36s] English:** That happened to me, and I can only say what my experiences were. I had Leanne.  
+**Translation:** Vocabulary: leanne: 莱恩
+
+**[2507.88s] English:** I loved her, and I didn't even realize it until the second she dumped me; oh, no, no, no.  
 **Translation:** 
 
-**[2514.48s] English:** No, no. Oh, I I don't get to live a great life without her  
+**[2514.48s] English:** No, no. Oh, I don't get to live a great life without her.  
 **Translation:** 
 
-**[2518.08s] English:** She's the thing that's gonna  
+**[2518.08s] English:** She's the thing that's gonna.  
 **Translation:** 
 
-**[2520.00s] English:** me a great life i knew it undisputed i went for a run and she dumped me i went to my shower i  
-**Translation:** Vocabulary: undisputed: 毋庸置疑
+**[2520.00s] English:** Me, a great life; I knew it undisputed. I went for a run, and she dumped me. I went to my shower,  
+**Translation:** Vocabulary: undisputed: 毋庸置疑的
 
-**[2526.66s] English:** cried i went to barnes and noble i bought men from venus women from mars i've watched fight  
+**[2526.66s] English:** Cried. I went to Barnes and Noble. I bought "Men from Venus" and "Women from Mars." I've watched fight.  
 **Translation:** 
 
-**[2530.18s] English:** club in my closet i didn't drink i drank a lot of nyquil to sleep and then i went for a hike  
-**Translation:** Vocabulary: closet: 衣橱; venus: Venus
+**[2530.18s] English:** Club in my closet. I didn't drink; I drank a lot of NyQuil to sleep, and then I went for a hike.  
+**Translation:** Vocabulary: barnes: 书店; closet: 衣橱; venus: 金星
 
-**[2535.78s] English:** in runyon canyon i was running back down outpost by beneflex house and and the sun was setting  
+**[2535.78s] English:** In Runyon Canyon, I was running back down Outpost by Beneflex House, and the sun was setting.  
 **Translation:** 
 
-**[2541.94s] English:** and i just said god if you're listening just give me this chick back i'll never fuck it up  
-**Translation:** Vocabulary: beneflex: 苯氟
+**[2541.94s] English:** And I just said, "God, if You're listening, just give me this chick back. I'll never fuck it up.  
+**Translation:** Vocabulary: beneflex: 贝弗利; canyon: 峡谷; chick: 姑娘; runyon: 鲁尼恩
 
-**[2549.94s] English:** this is the one i won't fuck it up i won't cheat i'm not gonna be a bad dude i want to have kids  
+**[2549.94s] English:** This is the one; I won't fuck it up. I won't cheat; I'm not gonna be a bad dude. I want to have kids.  
 **Translation:** 
 
-**[2555.86s] English:** with her i'll be there i'll be a great fucking dude i'll take her out on dates like i'll love  
+**[2555.86s] English:** With her, I'll be there. I'll be a great guy. I'll take her out on dates, and I'll love.  
 **Translation:** 
 
-**[2561.72s] English:** this chick and i got home and she was in my room in a sundress yeah and i was like oh fuck you i  
+**[2561.72s] English:** This chick and I got home, and she was in my room in a sundress, yeah. And I was like, "Oh, fuck, you.  
 **Translation:** 
 
-**[2568.14s] English:** didn't know he was real yeah i was like shit man give me like one more night let me get some  
-**Translation:** Vocabulary: chick: 女朋友; sundress: 太阳裙
+**[2568.14s] English:** Didn't know he was real. Yeah, I was like, "Shit, man, give me one more night. Let me get some.  
+**Translation:** Vocabulary: sundress: 太阳裙
 
-**[2572.84s] English:** strange tale real quick yeah before i commit forever but i think when you know you know  
+**[2572.84s] English:** Strange tale, real quick: yeah, before I commit forever, but I think when you know, you know.  
 **Translation:** 
 
-**[2577.20s] English:** this is so silly but i follow that in business  
+**[2577.20s] English:** This is so silly, but I follow that in business.  
 **Translation:** 
 
-**[2579.94s] English:** like when you know you know and like my assistants with us and someone goes how did  
+**[2579.94s] English:** Like, when you know, you know, and like, my assistants with us, and someone goes, "How did  
 **Translation:** 
 
-**[2585.18s] English:** you how do you find a good assistant i go when you know you know like people will show you who  
+**[2585.18s] English:** How do you find a good assistant? I go by knowing, you know, like people will show you who.  
 **Translation:** 
 
-**[2588.52s] English:** they are uh i can tell you when i fell in love with my assistant we were doing a tv show and  
+**[2588.52s] English:** They are, uh, I can tell you when I fell in love with my assistant; we were doing a TV show and...  
 **Translation:** 
 
-**[2594.74s] English:** and and we worked past dinner and all the dinner places were closed yeah and he just said hey i  
+**[2594.74s] English:** And we worked past dinner, and all the dinner places were closed. Yeah, and he just said, "Hey, I...  
 **Translation:** 
 
-**[2599.52s] English:** got like four meals i didn't know which one you want so i got four different meals for you i  
+**[2599.52s] English:** Got like four meals; I didn't know which one you wanted, so I got four different meals for you.  
 **Translation:** 
 
-**[2603.38s] English:** ordered them they're up in your room and just let me know whichever you want i'll take care of the  
+**[2603.38s] English:** Ordered them; they're up in your room, and just let me know whichever you want; I'll take care of the  
 **Translation:** Vocabulary: whichever: 任意一个
 
-**[2606.64s] English:** rest of them yeah and i was like oh that that dude thinks about other people before he's going to  
+**[2606.64s] English:** Rest of them, yeah, and I was like, "Oh, that dude thinks about other people before he's going to.  
 **Translation:** 
 
-**[2609.94s] English:** work himself he didn't even get himself dinner he just got me four dinners and i was like fuck  
+**[2609.94s] English:** Worked himself so hard; he didn't even get himself dinner. He just got me four dinners, and I was like, "Fuck.  
 **Translation:** 
 
-**[2615.16s] English:** yeah i did the same thing with my social media manager the way she was operating was i was like  
+**[2615.16s] English:** Yeah, I did the same thing with my social media manager. The way she was operating, I was like  
 **Translation:** 
 
-**[2620.52s] English:** i feel like she's thinking about me yeah and we connected on so many levels on so many levels i  
+**[2620.52s] English:** I feel like she's thinking about me, yeah, and we connected on so many levels.  
 **Translation:** 
 
-**[2625.44s] English:** could talk to her about things and ideas i had and then i was like okay i want her i want him i want  
+**[2625.44s] English:** Could talk to her about things and ideas I had, and then I was like, "Okay, I want her; I want him; I want.  
 **Translation:** 
 
-**[2629.98s] English:** i think you i think it's got to be that thing when you know you know and it can be so simple as like  
+**[2629.98s] English:** I think you know, it's got to be one of those things when you just know, and it can be so simple, like  
 **Translation:** 
 
-**[2635.10s] English:** like a personal trainer or like a jiu-jitsu  
+**[2635.10s] English:** Like a personal trainer, or like a jiu-jitsu  
 **Translation:** 
 
-**[2639.94s] English:** you  
+**[2639.94s] English:** You.  
+**Translation:** Vocabulary: trainer: 私人教练
+
+**[2640.00s] English:** Class, or like, just where you go. Oh, I'm connecting right now, but you have to allow yourself to notice.  
 **Translation:** 
 
-**[2640.00s] English:** class or like just where you go oh i'm connecting right now but you have to allow yourself to notice  
+**[2645.50s] English:** That person, you know, I think you do have to put yourself out there and you have to  
 **Translation:** 
 
-**[2645.50s] English:** that person you i i think you do i mean i think you have to put yourself out there and you have  
+**[2649.90s] English:** To be available for it, you know—that's the hardest part, is just being available for it.  
 **Translation:** 
 
-**[2649.90s] English:** to be available for it you know that's the hardest part is just being available for it  
+**[2655.02s] English:** Because so many people just want to be busy dating, yeah, I just want to have someone.  
 **Translation:** 
 
-**[2655.02s] English:** because so people so many people just want to be busy just dating yeah i just want to have someone  
+**[2660.42s] English:** In my life, I don't want to be bored. I don't want to die alone. I don't want to. I like  
 **Translation:** 
 
-**[2660.42s] English:** in my life i don't want to be bored i don't want to what if i die alone i don't want to i like  
+**[2664.02s] English:** Just be available for it, uh. What is it you said—peeling the baby shrimp? Yeah, when you could be.  
+**Translation:** Vocabulary: peeling: 剥壳
+
+**[2669.94s] English:** Having a lobster is still a lot of work, I have to say. Yes, but well, it's lobster.  
 **Translation:** 
 
-**[2664.02s] English:** just be available for it uh what is it you said peeling the baby shrimp yeah when you could be  
-**Translation:** 
-
-**[2669.94s] English:** having a lobster lobster is still a lot of work i have to say yeah but well yeah but it's lobster  
-**Translation:** 
-
-**[2676.56s] English:** this is a fucking baby shrimp or like you ever get so you ever get the ones in brazil where you  
+**[2676.56s] English:** This is a fucking baby shrimp, or like, have you ever gotten the ones in Brazil where you  
 **Translation:** Vocabulary: lobster: 龙虾
 
-**[2681.34s] English:** just go fuck it i'll eat the shell i don't care anymore like i'm so fucking hungry you just  
+**[2681.34s] English:** Just go fuck it; I'll eat the shell. I don't care anymore. Like, I'm so fucking hungry; you just  
 **Translation:** 
 
-**[2685.30s] English:** handful of lobster like it's popcorn or baby shrimp like it's popcorn i've done that in vietnam  
+**[2685.30s] English:** A handful of lobster, like it's popcorn, or baby shrimp, like it's popcorn—I've done that in Vietnam.  
 **Translation:** Vocabulary: vietnam: 越南
 
-**[2690.70s] English:** i've done that where i just go it's too much work so when you're in it what's the secret to  
+**[2690.70s] English:** I've done that, but I just give up because it's too much work. So when you're in it, what's the secret to?  
 **Translation:** 
 
-**[2695.62s] English:** successful marriage what what do uh women want  
+**[2695.62s] English:** A successful marriage: What do women want?  
 **Translation:** 
 
-**[2699.38s] English:** um  
+**[2699.38s] English:** Um.  
 **Translation:** 
 
-**[2699.94s] English:** bird crusher oh fuck that's i'm the wrong guy to answer that i think how to make love to a woman  
+**[2699.94s] English:** Bird Crusher, oh fuck, that's not me. I think you might want to ask someone about how to make love to a woman.  
+**Translation:** Vocabulary: crusher: 粉碎机
+
+**[2705.34s] English:** By bird crusher, how do you make love to a woman? I'll tell you how I do it: yeah, uh, I go down on her.  
 **Translation:** 
 
-**[2705.34s] English:** by bird crusher how do you make love to a woman i'll tell you how i do it yeah uh i go down on her  
-**Translation:** 
-
-**[2712.66s] English:** first make sure she has an orgasm yeah and then i get my turn and that's over pretty quick  
+**[2712.66s] English:** First, make sure she has an orgasm; yeah, and then I get my turn — and that's over pretty quickly.  
 **Translation:** Vocabulary: orgasm: 高潮
 
-**[2719.80s] English:** it's like a it's like get your ears pierced it'll feel a little prick and it's over  
+**[2719.80s] English:** It's like getting your ears pierced; it'll feel a little prick, and that's over.  
 **Translation:** 
 
-**[2723.84s] English:** i um i don't know if i've done a great job  
+**[2723.84s] English:** I, um, I don't think I've done a great job.  
 **Translation:** Vocabulary: pierced: 穿孔
 
-**[2729.94s] English:** keeping her happy i think i keep her interested like i think i i i i keep her occupied like i'm  
+**[2729.94s] English:** Keeping her happy, I think I keep her interested, like I think I keep her occupied, like I'm trying to.  
 **Translation:** 
 
-**[2740.26s] English:** like a little bit of a rodeo clown like i don't know i mean like i i know we're happy right now  
-**Translation:** Vocabulary: rodeo: 竞技表演
+**[2740.26s] English:** Like a little bit of a rodeo clown, I don't know, I mean, like, I know we're happy right now.  
+**Translation:** Vocabulary: rodeo: 牛仔竞技
 
-**[2745.66s] English:** i know we're really happy but i don't know if i ever did as good a job as she did like she's  
+**[2745.66s] English:** I know we're really happy, but I don't know if I ever did as good a job as she did; like, she's  
 **Translation:** 
 
-**[2754.32s] English:** always been like she's always been a gangster like done did everything like she's always been a  
+**[2754.32s] English:** Always been like, she's always been a gangster, doing everything like she's always been a.  
 **Translation:** Vocabulary: gangster: 黑帮分子
 
-**[2759.92s] English:** just  
+**[2759.92s] English:** Just  
 **Translation:** 
 
-**[2760.00s] English:** does everything she does it all she does everything like fucking everything and she loves it she just  
+**[2760.00s] English:** Does everything she does, from start to finish, like fucking everything, and she loves it; she just...  
 **Translation:** 
 
-**[2764.42s] English:** does it and then she shows love for you by taking care of you and so like i have a lot of time just  
+**[2764.42s] English:** Does it, and then she shows love for you by taking care of you. So, like, I have a lot of time just  
 **Translation:** 
 
-**[2770.50s] English:** been this like almost like step and repeat husband where it's like i come in to take a picture like  
+**[2770.50s] English:** Been this like almost like a step-and-repeat husband, where it's like I come in to take a picture, like  
 **Translation:** 
 
-**[2776.88s] English:** hey monday tuesday all right i'm on the road wednesday take care guys or like travel channel  
+**[2776.88s] English:** Hey, Monday, Tuesday — all right, I'm on the road Wednesday. Take care, guys! Or like Travel Channel.  
 **Translation:** 
 
-**[2781.58s] English:** i'd live for two weeks at a time i left for the movie for three months so like i don't know that  
+**[2781.58s] English:** I'd live for two weeks at a time, and I left for the movie for three months, so like, I don't know, that.  
 **Translation:** 
 
-**[2786.26s] English:** i've ever done a bang-up job i buy it like i go i remember one time i was just like i don't cheat  
+**[2786.26s] English:** I've ever done a bang-up job; I buy it. Like, I go, "I remember one time, I was just like, 'I don't cheat.  
 **Translation:** 
 
-**[2794.28s] English:** on her i don't hit her i don't yell at her i'm a pretty good fighter i'm a really good fighter like  
+**[2794.28s] English:** On her, I don't hit her. I don't yell at her. I'm a pretty good fighter. I'm a really good fighter, like  
 **Translation:** 
 
-**[2799.28s] English:** like i'm good at like going like hey we're on the same team oh you mean de-escalation i'm really  
+**[2799.28s] English:** Like, I'm good at going, "Hey, we're on the same team." Oh, you mean de-escalation? I'm really  
 **Translation:** 
 
-**[2805.86s] English:** good at like i'm very self i'm very accountable i'm very self-correcting like if if we're in a  
+**[2805.86s] English:** Good at, like, I'm very self-accountable, I'm very self-correcting. Like, if we're in a  
 **Translation:** 
 
-**[2811.78s] English:** fight and she points something out and i go oh you're right i go fuck you're right about that  
+**[2811.78s] English:** Fight, and she points something out, and I go, "Oh, you're right." I go, "Fuck, you're right about that.  
 **Translation:** 
 
-**[2815.60s] English:** you're right you're totally right  
+**[2815.60s] English:** You're right; you're totally right.  
 **Translation:** 
 
-**[2816.26s] English:** oh in the moment in the moment i'm really good at that and my wife's not she's not a good  
+**[2816.26s] English:** Oh, in the moment, I'm really good at that, and my wife isn't. She's not good at it.  
 **Translation:** 
 
-**[2820.98s] English:** apologizer like she needs to sleep on an apology and then she can do it i can apologize in the  
+**[2820.98s] English:** An apologizer like she needs to sleep on an apology, and then she can do it. I can apologize immediately.  
 **Translation:** Vocabulary: apologizer: 道歉的人
 
-**[2826.06s] English:** moment if i realize i'm wrong and i'm really quick to find my fault yeah i look for my fault  
+**[2826.06s] English:** Moment: If I realize I'm wrong, I'm really quick to find my fault; yeah, I look for my fault.  
 **Translation:** 
 
-**[2832.22s] English:** because i go tell me what i did adversely as a parent i have pulled my daughters aside and been  
+**[2832.22s] English:** Because I went to tell me what I did adversely as a parent, I have pulled my daughters aside and been  
 **Translation:** Vocabulary: adversely: 不利地
 
-**[2839.54s] English:** like yo that wasn't you that was mom yeah i'm giving you a heads up because i don't want because  
+**[2839.54s] English:** Like, you weren't doing it. That was Mom. Yeah, I'm giving you a heads-up because I don't want you to think it was you.  
 **Translation:** 
 
-**[2846.18s] English:** i don't want to do that because i don't want to do that because i don't want to do that because  
+**[2846.18s] English:** I don't want to do that because I don't want to do that because I don't want to do that because.  
 **Translation:** 
 
-**[2846.24s] English:** i got really confused as a kid because my dad always made sure i knew i was wrong  
+**[2846.24s] English:** I got really confused as a kid because my dad always made sure I knew I was wrong.  
 **Translation:** 
 
-**[2850.10s] English:** and sometimes i wasn't yeah and then as a kid you're kind of fucked up you're like well how  
+**[2850.10s] English:** And sometimes I wasn't, yeah. And then as a kid, you're kind of fucked up; you're like, "Well, how?  
 **Translation:** 
 
-**[2854.58s] English:** do i know if i'm wrong and i think that raises so i was really good with my girls going like yo  
+**[2854.58s] English:** Do I know if I'm wrong, and I think that raises so? I was really good with my girls, going like 'yo.  
 **Translation:** 
 
-**[2858.26s] English:** and then and then parenting georgia taught me a lot about self-correcting  
+**[2858.26s] English:** And then, parenting Georgia taught me a lot about self-correcting.  
 **Translation:** 
 
-**[2862.60s] English:** self-correcting was that my oldest and only i parented like my dad parented like just like  
+**[2862.60s] English:** Self-correcting, it was that my oldest and only parented like my dad, parenting just like  
 **Translation:** 
 
-**[2869.52s] English:** raise your voice get up to here that's it no that doesn't fuck this how come the dogs don't have  
+**[2869.52s] English:** Raise your voice, get up to here. That's it. No, that doesn't cut it. This is ridiculous. How come the dogs don't have  
 **Translation:** 
 
-**[2874.14s] English:** goddamn leashes or collars on their necks  
+**[2874.14s] English:** Goddamn leashes or collars on their necks!  
 **Translation:** 
 
-**[2876.24s] English:** and so with georgia i had to learn through therapy  
-**Translation:** Vocabulary: goddamn: 该死的
+**[2876.24s] English:** And so, with Georgia, I had to learn through therapy.  
+**Translation:** Vocabulary: collars: 项圈; goddamn: damn; leashes: 绳索
 
-**[2880.00s] English:** that if the if the if the consequence is here and it and the highest it goes is here then why  
+**[2880.00s] English:** That if the consequence is here, and the highest it goes is here, then why?  
 **Translation:** 
 
-**[2887.72s] English:** the fuck wouldn't they lie and do everything because they go well i know what it's like to  
+**[2887.72s] English:** The fuck wouldn't they lie and do everything because they go? Well, I know what it's like to.  
 **Translation:** 
 
-**[2890.80s] English:** hear but if you can vary your consequence with a child and find some conversation in it then all  
+**[2890.80s] English:** Hear, but if you can vary your consequences with a child and find some conversation in it, then all  
 **Translation:** 
 
-**[2898.68s] English:** of a sudden they're like well fuck well i don't want to like this does this does suck i like this  
+**[2898.68s] English:** Of a sudden, they're like, "Well, fuck. Well, I don't want to, like, this does suck. I like this.  
 **Translation:** 
 
-**[2904.30s] English:** i like where we talk and he says write a thousand words on why driving around your kids in a car  
+**[2904.30s] English:** I like where we're talking, and he says to write a thousand words on why driving around your kids in a car is important.  
 **Translation:** 
 
-**[2909.00s] English:** kids in a car is bad so threaten extreme violence every once in a while just yeah let them know the  
+**[2909.00s] English:** Kids in a car is bad, so threaten extreme violence every once in a while—just yeah, let them know the  
 **Translation:** 
 
-**[2914.84s] English:** dog can fucking bite yeah the dog can bark the dog can bite but if you pet him on his belly  
+**[2914.84s] English:** A dog can fucking bite, yeah. The dog can bark; the dog can bite, but if you pet him on his belly,...  
 **Translation:** 
 
-**[2919.52s] English:** it'll wag its tail yeah uh do you worry about being away too much i mean you're one of the  
+**[2919.52s] English:** It'll wag its tail, yeah. Uh, do you worry about being away too much? I mean, you're one of the  
 **Translation:** 
 
-**[2927.00s] English:** most creative content pushers and creators out there you're just constantly innovating constantly  
+**[2927.00s] English:** Most creative content pushers and creators out there, you're just constantly innovating and constantly.  
 **Translation:** 
 
-**[2933.18s] English:** putting stuff out there but do you worry that pulls you away from like uh the mundane experience  
-**Translation:** Vocabulary: innovating: 不断创新; mundane: 平凡事务
+**[2933.18s] English:** Putting stuff out there, but do you worry that it might pull you away from, like, the mundane experience?  
+**Translation:** Vocabulary: innovating: 不断创新; mundane: 平凡日常
 
-**[2938.40s] English:** of like  
+**[2938.40s] English:** Of, like  
 **Translation:** 
 
-**[2939.00s] English:** yeah they can bring contentment and happiness yeah i feel like sometimes it cannibalizes your  
+**[2939.00s] English:** Yeah, they can bring contentment and happiness. Yeah, I feel like sometimes it cannibalizes your.  
 **Translation:** Vocabulary: contentment: 满足感
 
-**[2944.26s] English:** real life where you start going you start thinking in promo videos or you start looking at a vacation  
+**[2944.26s] English:** In real life, where you start thinking about promo videos or you start looking at vacations.  
 **Translation:** 
 
-**[2949.56s] English:** as a bit yeah like we should go ziplining why don't you do uh what shoes you wearing like  
+**[2949.56s] English:** As a bit, yeah, like we should go ziplining. Why don't you? Do you know what shoes you're wearing?  
 **Translation:** Vocabulary: promo: 促销; ziplining: 高空飞跃
 
-**[2957.16s] English:** it can it can definitely cannibalize your life my wife's really good at going like  
+**[2957.16s] English:** It can definitely cannibalize your life. My wife's really good at going like.  
 **Translation:** 
 
-**[2963.30s] English:** no like no phones the girls are really good the girls when i started  
+**[2963.30s] English:** No, like, no phones. The girls are really good. The girls were really good when I started.  
 **Translation:** Vocabulary: cannibalize: 侵蚀
 
-**[2969.00s] English:** scramming stuff they started saying stuff like dad hits mom and i'm like whoa whoa guys they're  
+**[2969.00s] English:** Scramming, stuff. They started saying stuff like "dad hits mom," and I'm like, "Whoa, whoa, guys, they're...  
 **Translation:** 
 
-**[2974.24s] English:** like no put your phone away yeah dad dad and less boys and i'm like whoa whoa whoa stop stop stop stop  
-**Translation:** Vocabulary: scramming: 乱糟糟
+**[2974.24s] English:** Like, no, put your phone away, yeah? Dad, dad, and less boys. I'm like, whoa, whoa, whoa, stop, stop, stop!  
+**Translation:** Vocabulary: scramming: 快走开
 
-**[2978.60s] English:** yeah uh what's um what are some secrets words of wisdom you can say for how to be successful  
+**[2978.60s] English:** Yeah, uh, what's some words of wisdom you can say for how to be successful?  
 **Translation:** 
 
-**[2985.64s] English:** online and all everything you've learned you're kind of like the the mr beast of comedy just  
+**[2985.64s] English:** Online, and all that you've learned—you're kind of like Mr. Beast of comedy, just  
 **Translation:** 
 
-**[2991.22s] English:** innovating constantly in terms of how to promote stuff in terms of how to present stuff across the  
+**[2991.22s] English:** Innovating constantly in terms of how to promote stuff, and in terms of how to present stuff across the  
 **Translation:** 
 
-**[2998.00s] English:** different social media  
+**[2998.00s] English:** Different social media  
 **Translation:** 
 
-**[2999.00s] English:** across ut  
+**[2999.00s] English:** Across UT.  
 **Translation:** 
 
-**[3000.00s] English:** podcasts all that stuff i think the number one thing is don't be afraid to suck no one sees the  
+**[3000.00s] English:** Podcasts: all that stuff. I think the number one thing is: don't be afraid to suck; no one sees that anyway.  
 **Translation:** 
 
-**[3007.94s] English:** shit that sucks doesn't get views it just gets forgotten yeah gets forgotten the good stuff they  
+**[3007.94s] English:** Shit, that sucks. Doesn't get views; it just gets forgotten. Yeah, gets forgotten—the good stuff, too.  
 **Translation:** 
 
-**[3013.66s] English:** remember and then that's all they bring up the stuff that sucks just goes away and they're like  
+**[3013.66s] English:** Remember, and then that's all they bring up—the stuff that sucks—just goes away, and they're like.  
 **Translation:** 
 
-**[3017.42s] English:** oh yeah did you do that i don't even think i saw that fuck it who cares yeah you know it's like  
+**[3017.42s] English:** Oh, yeah. Did you do that? I don't even think I saw that. Fuck it; who cares? Yeah, you know, it's like  
 **Translation:** 
 
-**[3022.80s] English:** it's like i watched i one of my favorite stories about this is uh a guy named uh sean patton  
+**[3022.80s] English:** It's like I watched one of my favorite stories about this is uh a guy named Sean Patton.  
 **Translation:** Vocabulary: patton: 塞恩·帕顿
 
-**[3029.24s] English:** i was explaining instagram stories to him and ari and mark norman and i was explaining that  
+**[3029.24s] English:** I was explaining Instagram Stories to him, Ari, and Mark Norman, and I was explaining that.  
 **Translation:** 
 
-**[3033.88s] English:** you can set now sell tickets on instagram stories it was back when they swiped up instead of tap the  
-**Translation:** Vocabulary: swiped: 向右滑动
+**[3033.88s] English:** You can now set up ticket sales on Instagram Stories; it was previously done by swiping up instead of tapping.  
+**Translation:** Vocabulary: swiping: 滑动
 
-**[3038.76s] English:** button swipe up and they didn't understand it and i said let me show you and i put up tickets for  
+**[3038.76s] English:** Button, swipe up, and they didn't understand it. I said, "Let me show you," and I put up tickets for.  
 **Translation:** 
 
-**[3043.46s] English:** sale and i said you know hey guys swipe up and then i just showed him in 10 minutes look there's  
+**[3043.46s] English:** Sale, and I said, "You know, hey guys, swipe up," and then I just showed him—in 10 minutes, look there's...  
 **Translation:** Vocabulary: swipe: 滑动
 
-**[3047.96s] English:** not many people swiped up it's 145 people it's a lot of people to buy tickets for a fucking comedy  
+**[3047.96s] English:** Not many people swiped up; it's 145 people, which is a lot to buy tickets for a fucking comedy.  
 **Translation:** 
 
-**[3052.08s] English:** club and they were like whoa and they're like what do you do stories about go fucking anything  
+**[3052.08s] English:** Club, and they were like, "Whoa!" And they're like, "What do you do? Stories about going, fucking anything?  
+**Translation:** Vocabulary: swiped: 滑动匹配
+
+**[3056.44s] English:** Who gives a shit? Just anything and some things work, but some things don't.  
 **Translation:** 
 
-**[3056.44s] English:** who gives a shit just anything and some things work some things don't  
+**[3059.24s] English:** And I watched Sean Patton shout out to Sean Patton try for about 15 minutes to do an Instagram story.  
 **Translation:** 
 
-**[3059.24s] English:** and i watched sean patton shout out to sean patton try for about 15 minutes to do an instagram story  
+**[3066.80s] English:** About his cup of tea, he was making a cup of tea and he kept going, "Hey, you got...  
 **Translation:** 
 
-**[3066.80s] English:** about uh his cup of tea he was making a cup of tea and he was making and he kept going hey you got  
+**[3072.90s] English:** Okay, hold on a moment. Let me finish. Yeah, I was filming him from the couch. Yeah, I was filming all these.  
 **Translation:** 
 
-**[3072.90s] English:** okay hold on hold on let me yeah i was filming him from the couch yeah i was filming all these  
+**[3077.36s] English:** The whole thing, yeah; I filmed every single one of my 15 different stories with him.  
 **Translation:** 
 
-**[3077.36s] English:** the whole thing yeah i filmed every single one of my like 15 different stories of him  
+**[3080.98s] English:** Trying to do that, I had 145,000 views on each story. He never posted it; he never posted it, and  
 **Translation:** 
 
-**[3080.98s] English:** trying to do that i had 145 000 views on each story he never posted it he never posted it and  
+**[3089.24s] English:** If he had just posted that one, he never posted anything in his stories, yeah. That one was worth 145, 500.  
 **Translation:** 
 
-**[3089.24s] English:** if he had just posted that one he never posted anything in his stories yeah that one 145 5 000  
+**[3094.06s] English:** People would have gone to his story to see that cup of tea being made, and see which one he finally chose.  
 **Translation:** 
 
-**[3094.06s] English:** people would have gone to his story to see that cup of tea being made and see which one he finally  
+**[3098.20s] English:** Went with, and so sometimes I think the biggest mistake you can make is just not doing it at all.  
 **Translation:** 
 
-**[3098.20s] English:** went with and so sometimes i think the biggest mistake you can make is just not doing it just  
+**[3103.48s] English:** Do it, just post it. Turn the camera on; the idea will show up, and that's the number one thing.  
 **Translation:** 
 
-**[3103.48s] English:** do it just post it turn the camera on the idea will show up and that that's the number one thing  
+**[3108.40s] English:** Just turn the camera on, and it'll come up. You'll figure it out. Do you do multiple takes, or no?  
 **Translation:** 
 
-**[3108.40s] English:** just turn the camera on and it'll come up you'll figure it out do you do multiple takes or no  
+**[3112.50s] English:** Maybe I'll do three likes, and I'm even talking about it in the dance video where I did the hip-hop.  
 **Translation:** 
 
-**[3112.50s] English:** maybe i do three like and i'm talking even like in the dance video i did where i did the hip-hop  
+**[3117.94s] English:** Dance: I did two takes. I did two takes. I did two takes. I did two takes. I did two takes. I did two.  
 **Translation:** 
 
-**[3117.94s] English:** dance i did two takes i did two takes i did two takes i did two takes i did two takes i did two  
+**[3119.24s] English:** Takes on that  
 **Translation:** 
 
-**[3119.24s] English:** takes on that  
+**[3120.00s] English:** Um, with when I had the marching band come to my house, I did two takes on that.  
 **Translation:** 
 
-**[3120.00s] English:** um with when i had the marching band come to my house i did two takes on that  
+**[3124.02s] English:** Um, once you start doing more takes, you lose the fun of it, I think, and then the fun ones, I  
 **Translation:** 
 
-**[3124.02s] English:** um once you start doing more takes you lose the fun of it i think and uh and then the fun ones i  
+**[3132.84s] English:** Mean, my favorite one—I've ever done, without a doubt. My favorite promo I've ever done is uh  
 **Translation:** 
 
-**[3132.84s] English:** mean my favorite one i've ever done without a doubt my favorite promo i've ever done is uh  
-**Translation:** 
-
-**[3139.98s] English:** i needed they added a second show in some city and uh and and they had a second show like friday  
+**[3139.98s] English:** I needed them to add a second show in some city, and they had a second show on Friday.  
 **Translation:** Vocabulary: promo: 促销活动
 
-**[3147.56s] English:** and saturday and our third show and i said i they just told me i was like fuck i'm leaving  
+**[3147.56s] English:** And on Saturday, and our third show, I said, "I? They just told me I'm leaving.  
 **Translation:** 
 
-**[3151.74s] English:** like tomorrow i need to sell tickets so i said real quick girls meet me outside and leah's like  
+**[3151.74s] English:** Like, tomorrow I need to sell tickets, so I said, "Real quick, girls, meet me outside," and Leah was like,  
 **Translation:** 
 
-**[3155.78s] English:** girls are doing homework i go to take five seconds i put on a speedo i got the american flag  
+**[3155.78s] English:** Girls are doing homework. I go to take five seconds, I put on a speedo, and I got the American flag.  
 **Translation:** 
 
-**[3159.62s] English:** i gave isla the hose i gave leah the leaf blower and i gave georgia the drone  
+**[3159.62s] English:** I gave Isla the hose, I gave Leah the leaf blower, and I gave Georgia the drone.  
 **Translation:** 
 
-**[3164.12s] English:** and i just had georgia drone it back to reveal the leaf blower and the mist you were seeing was  
+**[3164.12s] English:** And I just had Georgia drone it back to reveal the leaf blower and the mist you were seeing was.  
 **Translation:** 
 
-**[3171.38s] English:** coming from isla and leanne yeah i'm in a speedo with the american flag i have bob seger playing  
+**[3171.38s] English:** Coming from Isla and Leanne, yeah, I'm in a speedo with the American flag on it. I have Bob Seger playing.  
 **Translation:** 
 
-**[3176.90s] English:** rambling  
+**[3176.90s] English:** Rambling.  
 **Translation:** 
 
-**[3177.56s] English:** rambling man yeah and and that night larry the cable guy texted me and he goes this is  
-**Translation:** Vocabulary: rambling: 絮叨
+**[3177.56s] English:** Rambling man, yeah, and that night Larry, the cable guy, texted me and he goes, "This is  
+**Translation:** Vocabulary: rambling: 啰嗦地说话
 
-**[3184.24s] English:** fucking genius and i was like it was just and it was just like yo just let's just shoot something  
+**[3184.24s] English:** Fucking genius, and I was like, "It was just... and it was just like, 'Yo, just let's just shoot something.  
 **Translation:** 
 
-**[3188.88s] English:** who gives a fuck like just shoot something just just just say something and and and put a little  
+**[3188.88s] English:** Who gives a fuck? Like, just shoot something, just say something, and put a little  
 **Translation:** 
 
-**[3195.48s] English:** just do a little movement into it and and those are my back and that was i used to be i watched  
+**[3195.48s] English:** Just do a little movement into it, and those are my back muscles. That was something I used to watch.  
 **Translation:** 
 
-**[3200.78s] English:** a bunch of my promo clips back from back in the day i used to be really good now it's like  
+**[3200.78s] English:** A bunch of my promo clips back from back in the day; I used to be really good, now it's like  
 **Translation:** 
 
-**[3204.48s] English:** i'm promoting so fucking many things  
+**[3204.48s] English:** I'm promoting so many things.  
 **Translation:** 
 
-**[3207.56s] English:** i'm just like i'm almost like i'm exhausted about my promotions yeah because you know the the well  
+**[3207.56s] English:** I'm just like, I'm almost exhausted about my promotions, yeah, because you know, the...  
 **Translation:** 
 
-**[3212.94s] English:** can dry up in terms of ideas yeah and it's like how many times am i going to show a picture of my  
+**[3212.94s] English:** Can dry up in terms of ideas, yeah, and it's like, how many times am I going to show a picture of my?  
 **Translation:** 
 
-**[3216.74s] English:** ass my ass sells really good that's whatever my ass is on instagram fucking million views  
+**[3216.74s] English:** Ass, my ass sells really well—that's whatever my ass is on Instagram, fucking million views.  
 **Translation:** 
 
-**[3221.78s] English:** guaranteed a million views your ass and and and and enter and it's and it's an active post like  
+**[3221.78s] English:** Guaranteed a million views? Your ass, and... and... and enter. And it's an active post, like.  
 **Translation:** 
 
-**[3227.90s] English:** people are like i did the best one i did the other day was where i superimposed my ass on my front  
-**Translation:** Vocabulary: superimposed: 叠加
+**[3227.90s] English:** People are like, I did the best one; I did the other day, where I superimposed my ass on my front.  
+**Translation:** Vocabulary: guaranteed: 保证; superimposed: 叠加
 
-**[3232.52s] English:** and it just looked beautiful yeah no views oh so you  
+**[3232.52s] English:** And it just looked beautiful, yeah. No views, oh, so you?  
 **Translation:** 
 
-**[3237.56s] English:** got reported oh i see it looked like a front but  
+**[3237.56s] English:** Got reported? Oh, I see. It looked like a front, but...  
 **Translation:** 
 
-**[3240.00s] English:** vagina oh is that what it was yeah i think so but like but yeah my ass like i'm i'm in a place  
+**[3240.00s] English:** Vagina, oh, is that what it was? Yeah, I think so, but like, yeah, my ass—I'm in a place.  
 **Translation:** 
 
-**[3246.80s] English:** right now where i am promoting i'll be promoting this movie i'll be promoting this movie until it  
+**[3246.80s] English:** Right now, where I am promoting, I'll be promoting this movie until it  
 **Translation:** Vocabulary: vagina: 阴道
 
-**[3253.30s] English:** goes to a streamer i'll be promoting it uh shamelessly i am proud of it i i had a great  
+**[3253.30s] English:** Goes to a streamer; I'll be promoting it, uh, shamelessly. I am proud of it, and I had a great  
 **Translation:** 
 
-**[3259.18s] English:** time shooting it it's in theaters it'll be on video on demand it'll be on a streamer i'm sure  
-**Translation:** Vocabulary: shamelessly: 肆无忌惮; streamer: 直播平台
+**[3259.18s] English:** Time to shoot it! It's in theaters, it'll be on video on demand, and I'm sure it'll be on a streamer too.  
+**Translation:** Vocabulary: shamelessly: 毫不掩饰; streamer: 视频主播
 
-**[3264.40s] English:** i don't know but i'm sure i'm promoting fully loaded my summer festival with 19 different  
+**[3264.40s] English:** I don't know, but I'm sure I'm promoting fully loaded my summer festival with 19 different  
 **Translation:** 
 
-**[3269.26s] English:** comics i'm promoting the tops off world tour that starts again this fall i'm promoting my  
+**[3269.26s] English:** Comics: I'm promoting the Topps Off World Tour that starts again this fall.  
 **Translation:** 
 
-**[3274.22s] English:** cruise the fully loaded cruise i'm promoting red rocks i'm promoting so many things that today was  
+**[3274.22s] English:** Cruise the fully loaded cruise I'm promoting—red rocks! I'm promoting so many things, and today was  
 **Translation:** 
 
-**[3281.08s] English:** the very first time in my career where i said in january i'm going to take a break i'm going to  
+**[3281.08s] English:** The very first time in my career, where I said in January, "I'm going to take a break; I'm going to  
 **Translation:** 
 
-**[3287.00s] English:** take a break and go like hey man let's let's get your resting heart rate down yeah let's let's get  
+**[3287.00s] English:** Take a break and go, "Hey, man, let's get your resting heart rate down, yeah?  
 **Translation:** 
 
-**[3292.74s] English:** some sleep let's let's maybe take off like three months from drinking like let's just really like  
+**[3292.74s] English:** Some sleep, let's maybe take off like three months from drinking, like let's just really do that.  
 **Translation:** 
 
-**[3299.26s] English:** slow it down and and also not think when you're thinking in promo all the time it it can be a  
+**[3299.26s] English:** Slow it down, and also don't think when you're promoting all the time; it can be a  
 **Translation:** 
 
-**[3306.04s] English:** little exhausted i mean you think you think it's exhausting to look at my feed it's exhausting to  
-**Translation:** Vocabulary: exhausting: 使人疲惫; promo: 促销
+**[3306.04s] English:** Little exhausted, I mean. You think it's exhausting to look at my feed? It's exhausting to  
+**Translation:** Vocabulary: exhausting: 使人疲惫
 
-**[3309.74s] English:** be my feed i'm my feed that's not as less as more one of the things that nope one one of the things  
+**[3309.74s] English:** Be my feed; I'm my feed. That's not as less as more. One of the things, nope. One of the things.  
 **Translation:** 
 
-**[3319.50s] English:** that inspires me about rogan for example is um he almost never does this kind of stuff yeah yeah  
+**[3319.50s] English:** That inspires me about Rogan, for example, is that he almost never does this kind of stuff.  
+**Translation:** Vocabulary: inspires: 启发
+
+**[3327.74s] English:** And how seldom does he  
 **Translation:** 
 
-**[3327.74s] English:** and how seldomly does his  
+**[3329.26s] English:** Podcast: Because you're right, less is more. How often does he do it? Like once a month, no, he does it.  
+**Translation:** Vocabulary: seldom: 很少
+
+**[3333.20s] English:** Three times a fucking week, yeah. That's more. More is more, is perfect. But for example, when he does  
 **Translation:** 
 
-**[3329.26s] English:** podcast because you're right less is more how what does he do like once a month no he does it  
-**Translation:** Vocabulary: seldomly: 很少
-
-**[3333.20s] English:** three times a fucking week yeah that's more more is more is perfect but for example when he does  
-**Translation:** 
-
-**[3338.50s] English:** like a story or something like this yeah he does one take it's kind of shitty it's the same day  
+**[3338.50s] English:** Like a story, or something like this. Yeah, he does one; it's kind of shitty, it's the same day.  
 **Translation:** Vocabulary: shitty: 糟糕的
 
-**[3345.52s] English:** it's the same it's elk with a bunch of jalapenos a knife that he had sent to him by a fucking knife  
+**[3345.52s] English:** It's the same; it's an elk with a bunch of jalapeños, a knife that he had sent to him by a fucking knife.  
 **Translation:** 
 
-**[3351.16s] English:** maker and him going look at this look at this traeger smoker i reverse seared this this is  
-**Translation:** Vocabulary: jalapenos: 辣椒; seared: 煎至外焦里嫩
+**[3351.16s] English:** Maker, and him, going to look at this: look at this Traeger smoker. I reverse-seared this. This is  
+**Translation:** Vocabulary: smoker: 烟熏机; traeger: 特雷吉
 
-**[3357.04s] English:** what's great look at this i'm about to put it in the butter and like  
+**[3357.04s] English:** What's great! Look at this. I'm about to put it in the butter, and like.  
 **Translation:** 
 
-**[3359.26s] English:** this is grass  
+**[3359.26s] English:** This is grass.  
 **Translation:** 
 
-**[3360.00s] English:** butter this elk really raises my testosterone rogan is it's you're right with guys like rogan  
+**[3360.00s] English:** Butter this elk really raises my testosterone. Rogan, isn't it? You're right; guys like Rogan.  
 **Translation:** 
 
-**[3366.06s] English:** when he does do a story they're a little precious yeah and there's i don't think he's he's ever done  
+**[3366.06s] English:** When he does do a story, they're a little precious, yeah, and I don't think he's ever done  
 **Translation:** 
 
-**[3371.88s] English:** a second take any of those stories no there's i you have to really admire that like uh if the  
+**[3371.88s] English:** A second, take any of those stories? No, there's I you have to really admire that, like, uh, if the  
 **Translation:** 
 
-**[3379.94s] English:** shot is framed poorly if the audio sucks doesn't matter does that you remember when he this is like  
+**[3379.94s] English:** A shot is framed poorly if the audio sucks; it doesn't matter whether you remember when he this is like.  
 **Translation:** 
 
-**[3385.98s] English:** like i can get in the weeds on rogan but and especially when it's instagram do you remember  
+**[3385.98s] English:** Like, I can get in the weeds on Rogan, but and especially when it's Instagram, do you remember?  
 **Translation:** 
 
-**[3390.16s] English:** when he got his polar plunge and he couldn't sit in a minute and then the next day and then he must  
-**Translation:** Vocabulary: plunge: 跳水; polar: 极地
+**[3390.16s] English:** When he got his polar plunge, he couldn't sit still for a minute and then the next day, and then he must  
+**Translation:** Vocabulary: plunge: 跳入; polar: 极地的
 
-**[3395.04s] English:** have gotten it on the internet bad yeah he must have gotten it bad yeah the next day he sat it  
+**[3395.04s] English:** Have gotten it online, bad. Yeah, he must have gotten it really bad. Yeah, the next day he sat it.  
 **Translation:** 
 
-**[3401.14s] English:** for 20 minutes and he lowered his core temperature by like two degrees and it took him like a month  
+**[3401.14s] English:** For 20 minutes, he lowered his core temperature by about two degrees, and it took him around a month.  
+**Translation:** Vocabulary: lowered: 降低
+
+**[3405.70s] English:** To get that back, yeah, that is that fucking man. What an interesting... You know, I told you at the  
 **Translation:** 
 
-**[3405.70s] English:** to get that back yeah that is that fucking man what an interesting you know i told you at the  
+**[3411.48s] English:** At the beginning, we were just talking, and I really enjoy it; I draw inspiration from it.  
 **Translation:** 
 
-**[3411.48s] English:** beginning we were just talking i like i really enjoy i draw inspiration  
+**[3415.98s] English:** For men, I'm not like, um, you know, David Goggins, Cam Haynes, um, Andrew Huberman. I love, uh,  
 **Translation:** 
 
-**[3415.98s] English:** for men i'm not like um you david goggins cam haynes um andrew huberman huberman i love uh  
+**[3426.02s] English:** Uh, uh, fucking. I mean, there are so many guys like that, Rogen, you know, and Tim Kennedy, like there.  
+**Translation:** Vocabulary: goggins: 戈金斯; haynes: 海恩斯; huberman: 胡珀曼
+
+**[3433.88s] English:** There are a lot of guys who are just very different from me, and I love Jocko Willink; I love  
 **Translation:** 
 
-**[3426.02s] English:** uh uh fucking i mean there's so many guys like that rogan you know you do tim kennedy like there  
-**Translation:** Vocabulary: haynes: 海恩斯; huberman: Huberman
+**[3440.12s] English:** I love reading their stuff, or listening to their audiobooks, or tuning into their podcast.  
+**Translation:** Vocabulary: audiobooks: 有声书
 
-**[3433.88s] English:** are a lot of guys that are like just very different men than me and i love jocko wilnick like i love  
+**[3445.98s] English:** Because I'm not like that, but adding a little bit of that into my life works for me.  
 **Translation:** 
 
-**[3440.12s] English:** i love reading their stuff or listening to their audiobooks or what listen to their podcast  
-**Translation:** Vocabulary: audiobooks: 有声书; jocko: 乔科
-
-**[3445.98s] English:** because i'm so not like that but that to for me when i add a little bit of that in my life like i  
+**[3451.52s] English:** Remember, you went, I don't know what you were doing, but you were walking us through your day.  
 **Translation:** 
 
-**[3451.52s] English:** remember you went i don't know what you were doing but you were walking us through your day  
+**[3456.10s] English:** And it was so fascinating; it was like, I ran eight miles today, and I listened to an  
 **Translation:** 
 
-**[3456.10s] English:** and it was so fascinating it was like it was like i ran eight miles today i listened to an  
-**Translation:** 
-
-**[3465.74s] English:** audiobook i was running eight miles and then i came and i worked for about three hours straight  
+**[3465.74s] English:** Audiobook: I was running eight miles, and then I came and worked for about three hours straight.  
 **Translation:** Vocabulary: audiobook: 有声书
 
-**[3469.96s] English:** on ai stuff and i'm like and i was like wait you sat at a desk like you like sat at a desk  
+**[3469.96s] English:** On AI stuff, and I'm like, and I was like, "Wait, you sat at a desk? Like, you sat at a desk?  
 **Translation:** 
 
-**[3475.98s] English:** and like and i i actually i wouldn't even know what to do  
+**[3475.98s] English:** And, like, I actually wouldn't even know what to do.  
 **Translation:** 
 
-**[3480.00s] English:** i would start doing crafts like i would like to that you went i was like is your computer like  
+**[3480.00s] English:** I would start doing crafts, like I would like to. That you went, I was like, is your computer like?  
 **Translation:** 
 
-**[3485.76s] English:** yeah have you set for like four hours focused on a single task me yeah no no i have a hard time  
+**[3485.76s] English:** Yeah, have you ever set aside a single task for four hours straight? Me? No, I have a hard time.  
 **Translation:** 
 
-**[3496.24s] English:** sleeping for four hours yeah like i i don't have that i i don't have a brain that like i really  
+**[3496.24s] English:** Sleeping for four hours, yeah. Like, I don't have that. I don't have a brain that...  
 **Translation:** 
 
-**[3503.44s] English:** admired it when i listened to you do it because then you were like you're talking you were fasting  
+**[3503.44s] English:** I admired it when I listened to you do it, because then you were like, you're talking while fasting.  
 **Translation:** 
 
-**[3508.16s] English:** at the time you're doing your fast and then you talk about what you ate and i was jealous i wanted  
+**[3508.16s] English:** At the time, you're doing your fast, and then you talk about what you ate, and I was jealous; I wanted to join in.  
 **Translation:** 
 
-**[3513.28s] English:** to be able to be like that and i think at that time we started i think you're doing maybe bone  
+**[3513.28s] English:** To be able to be like that, and I think at that time we started. I think you're doing maybe bone.  
 **Translation:** 
 
-**[3517.12s] English:** broth or something and we started doing bone broth pretty religiously and adding that into a fast  
+**[3517.12s] English:** Broth, or something, and we started doing bone broth pretty religiously and adding that into a fast.  
 **Translation:** 
 
-**[3523.28s] English:** because i was like it does for someone like me it does feel cool to add a little bit of control  
+**[3523.28s] English:** Because I was like, it does feel cool to add a little bit of control for someone like me.  
 **Translation:** Vocabulary: broth: 汤; religiously: 有规律地
 
-**[3528.24s] English:** into life so integrating a little bit of a way of being from another person that you're not like  
+**[3528.24s] English:** Into life, so integrating a little bit of a way of being from another person that you're not like.  
 **Translation:** 
 
-**[3534.88s] English:** yeah like like uh like so so david goggins  
-**Translation:** Vocabulary: integrating: 融合
+**[3534.88s] English:** Yeah, like, like, uh, like so, so David Goggins.  
+**Translation:** Vocabulary: goggins: 戈金斯; integrating: 融合
 
-**[3538.16s] English:** is consistently pushing himself i love i did it i did it over the pandemic more but i loved going  
+**[3538.16s] English:** Is consistently pushing himself; I love it. I did it, I did it over the pandemic, and I loved going.  
 **Translation:** 
 
-**[3546.00s] English:** today i'm running a marathon i'm gonna get on the treadmill and it's not gonna be all at once  
-**Translation:** Vocabulary: pandemic: 新冠疫情; treadmill: 跑步机
+**[3546.00s] English:** Today, I'm running a marathon. I'm going to get on the treadmill, and it's not gonna be all at once.  
+**Translation:** Vocabulary: marathon: 长跑; pandemic: 全球疫情; treadmill: 跑步机
 
-**[3550.56s] English:** but i'm gonna get through a marathon today so let's get up give us six months from coffee and  
+**[3550.56s] English:** But I'm gonna get through a marathon today, so let's get up. Give us six months from now without coffee, and  
 **Translation:** 
 
-**[3555.68s] English:** let's see if we can do like five miles and then know that we started there and that was really fun  
+**[3555.68s] English:** Let's see if we can do like five miles and then know that we started there, and that was really fun.  
 **Translation:** 
 
-**[3561.52s] English:** to like um cam haynes does that too where he goes like he almost just sets the limit and then and  
+**[3561.52s] English:** To be like, um, Cam Haynes does that too, where he goes like, he almost just sets the limit and then...  
 **Translation:** 
 
-**[3568.16s] English:** achieves that his son truett is really fascinating because his son truett's right now  
+**[3568.16s] English:** Achieves that his son Truett is really fascinating, because his son Truett's right now.  
 **Translation:** Vocabulary: haynes: 海恩斯
 
-**[3572.56s] English:** is trying to get the and like i bet people would never think that this is who i watch but i get  
+**[3572.56s] English:** Is trying to get the and, like I bet people would never think that this is who I watch, but I get  
 **Translation:** 
 
-**[3577.04s] English:** real inspiration from those people because i showed jocko i showed a clip to jocko to isla  
-**Translation:** Vocabulary: jocko: 榜样
+**[3577.04s] English:** Real inspiration from those people because I showed Jocko a clip to Isla.  
+**Translation:** Vocabulary: jocko: 乔科
 
-**[3583.36s] English:** because isla's like me like like a person of her fluids impulse i walked in on her one time she was  
+**[3583.36s] English:** Because Isla is like me—like, a person of her fluids and impulses—I walked in on her one time, and she was  
 **Translation:** 
 
-**[3592.56s] English:** in the pantry in a bathrobe in the dark drinking a root beer  
-**Translation:** Vocabulary: bathrobe: 浴袍; pantry: 储藏室
+**[3592.56s] English:** In the pantry, in a bathrobe, in the dark, drinking a root beer.  
+**Translation:** Vocabulary: bathrobe: 浴袍; fluids: 体液; impulses: 冲动; pantry: 储藏室
 
-**[3598.16s] English:** yeah and i opened the door  
+**[3598.16s] English:** Yeah, and I opened the door.  
 **Translation:** 
 
-**[3600.00s] English:** and she went i said what she goes i thought you were mom shut the door and i shut the door to let  
+**[3600.00s] English:** And she went, "I said, what she goes? I thought you were Mom; shut the door," and I shut the door.  
 **Translation:** 
 
-**[3606.04s] English:** her finish the root beer yeah she has a hard time waking up so i look come in here i want you to see  
+**[3606.04s] English:** Her root beer is finished, yeah. She has a hard time waking up, so I'll come in here and I want you to see.  
 **Translation:** 
 
-**[3610.82s] English:** this clip from jocko she goes who's jocko i say he's a navy seal she goes he works at the zoo i  
+**[3610.82s] English:** This clip from Jocko: "She goes, 'Who's Jocko?' I say, 'He's a Navy SEAL.' She goes, 'He works at the zoo?  
 **Translation:** 
 
-**[3616.00s] English:** went no it's a navy fucking seal i go it's a badass job she goes it's a silly name and i went  
+**[3616.00s] English:** Went, no, it's a Navy SEAL. I go, it's a badass job. She goes, it's a silly name, and I went.  
 **Translation:** 
 
-**[3622.18s] English:** no it's not it isn't a silly name these guys are the toughest dudes in the world she goes she's  
-**Translation:** Vocabulary: badass: 牛逼; toughest: 最坚强
+**[3622.18s] English:** No, it's not. It isn't a silly name. These guys are the toughest dudes in the world, she goes, "she's  
+**Translation:** Vocabulary: badass: 牛逼; toughest: 最 tough
 
-**[3627.02s] English:** kind of right though about the silly name i never even realized that well yeah you talk to a child  
+**[3627.02s] English:** Kind of right, though, about the silly name—I never even realized that. Well, yeah, you talk to a child.  
 **Translation:** 
 
-**[3630.54s] English:** yeah and so i go watch just what he says about waking up so it hits the thing and jocko goes  
+**[3630.54s] English:** Yeah, and so I go watch just what he says about waking up; it hits the thing, and Jocko goes.  
 **Translation:** 
 
-**[3635.04s] English:** first thing you do when you hear that alarm clock you could roll over you could go back to bed you  
+**[3635.04s] English:** First, when you hear that alarm clock, you could roll over and go back to bed.  
 **Translation:** 
 
-**[3640.54s] English:** could snooze but you get out of bed and that's your first victory and isla hits pause and she goes  
+**[3640.54s] English:** Could snooze, but you get out of bed, and that's your first victory. Isla hits pause, and she goes:  
 **Translation:** Vocabulary: snooze: 多睡会
 
-**[3645.40s] English:** how great is that nap right after you hit snooze though it is pretty funny i go hang on you're  
+**[3645.40s] English:** How great is that nap right after you hit snooze? Though it is pretty funny, I go, "Hang on, you're...  
 **Translation:** 
 
-**[3651.74s] English:** missing the point yeah this whole speech he's with casey neistat when he's telling this speech he's  
-**Translation:** Vocabulary: casey: 尼斯特
-
-**[3656.18s] English:** with casey neistat  
+**[3651.74s] English:** Missing the point, yeah. This whole speech, he's with Casey Neistat when he's telling this speech, he's  
 **Translation:** 
 
-**[3657.02s] English:** and uh so i hit it and then he goes and then you've got a victory under your belt then you  
+**[3656.18s] English:** With Casey Neistat  
 **Translation:** 
 
-**[3660.94s] English:** go to the gym and you work out and i go you listen to this island she goes yeah and he goes and then  
+**[3657.02s] English:** And uh, so I hit it, and then he goes, and then you've got a victory under your belt, then you.  
+**Translation:** Vocabulary: casey: 凯西
+
+**[3660.94s] English:** Go to the gym and you workout, and I go, you listen to this island? She goes, "Yeah," and he goes, then.  
 **Translation:** 
 
-**[3664.96s] English:** when you go to work now you've got two victories you've worked out and you've woken up on time you  
+**[3664.96s] English:** When you go to work now, you've got two victories: you've worked out, and you've woken up on time.  
 **Translation:** 
 
-**[3668.58s] English:** didn't hit that snooze button so when you go into that break room and you see donuts and she hits  
+**[3668.58s] English:** Didn't hit that snooze button, so when you go into that break room and see donuts, she hits.  
 **Translation:** 
 
-**[3672.50s] English:** pause she goes um if he's about to say no to donuts i'm done listening i go he's definitely  
-**Translation:** Vocabulary: donuts: 点心
+**[3672.50s] English:** Pause. She goes, "Um, if he's about to say no to donuts, I'm done listening. I go, 'He's definitely.  
+**Translation:** Vocabulary: donuts: 甜甜圈
 
-**[3677.36s] English:** gonna say no to donuts do you think he's gonna have a donut and she goes you like this guy i go  
+**[3677.36s] English:** Gonna say no to donuts? Do you think he's gonna have a donut? And she goes, "You like this guy," I go,  
 **Translation:** 
 
-**[3682.30s] English:** i fucking love him and she goes do you think he'd like you and i go what do you mean she goes  
+**[3682.30s] English:** I fucking love him, and she goes, "Do you think he'd like you?" And I go, "What do you mean?  
 **Translation:** Vocabulary: donut: 甜甜圈
 
-**[3687.02s] English:** yeah you hit snooze you skip working out and you love donuts and i'm like yeah you're making a good  
+**[3687.02s] English:** Yeah, you hit snooze, you skip working out, and you love donuts, and I'm like, "Yeah, you're making a good...  
 **Translation:** 
 
-**[3691.82s] English:** fucking point i go i but i but i do love that like i love to watch that brain work and go like  
+**[3691.82s] English:** Fucking point, I go, I but I but I do love that—like, I love to watch that brain work and go, "like.  
 **Translation:** 
 
-**[3699.66s] English:** like i don't i don't hit snooze like i don't hit snooze now i go fuck it because i'm up but i and  
+**[3699.66s] English:** Like, I don't hit snooze anymore. Now I just get up because I'm already awake, but I...  
 **Translation:** 
 
-**[3707.64s] English:** then and then i go to the gym every single morning i go to the gym every single morning and today's  
+**[3707.64s] English:** Then, and then I go to the gym every single morning. I go to the gym every single morning, and today's  
 **Translation:** 
 
-**[3711.84s] English:** national donut day i didn't have a donut and so like i i like i try i like try to apply these  
+**[3711.84s] English:** National Donut Day, I didn't have a donut, and so, like, I try to apply these.  
 **Translation:** 
 
-**[3717.02s] English:** a little bit because i mean the other side of me is like tonight after we  
+**[3717.02s] English:** A little bit because, I mean, the other side of me is like tonight, after we  
 **Translation:** 
 
-**[3720.00s] English:** do this i'll do another podcast and then i'm gonna call leanne and go yo we're in beverly hills meet  
+**[3720.00s] English:** Do this, I'll do another podcast, and then I'm gonna call Leanne and go to Beverly Hills; meet us there.  
 **Translation:** 
 
-**[3725.04s] English:** me out here let's go have drinks let's go have a fucking couple kapari spritz let's i was over  
-**Translation:** Vocabulary: beverly: 比弗利 Hills; spritz: 桑普茨 鸡尾酒
+**[3725.04s] English:** Me, let's go out here and have some drinks. Let's go have a fucking couple of Kapari spritz. I was over.  
+**Translation:** Vocabulary: beverly: 比弗利; leanne: 莱恩; spritz: 桑普茨酒
 
-**[3731.28s] English:** a friend's house in overnight let's get some edibles and let's fucking have a night about it  
+**[3731.28s] English:** A friend's house overnight? Let's get some edibles and let's fucking have a night of it.  
 **Translation:** 
 
-**[3734.30s] English:** get some sushi go have sex in the hot tub and i gotta work out at fucking 10 in the morning  
+**[3734.30s] English:** Get some sushi, go have sex in the hot tub, and I've got to workout at fucking 10 in the morning.  
 **Translation:** Vocabulary: edibles: 可食用的; sushi: 寿司
 
-**[3738.26s] English:** i gotta tell you that nap when you press snooze is the sweetest that's that's my victory first  
+**[3738.26s] English:** I've got to tell you that nap when you press snooze is the sweetest—that's my victory first.  
 **Translation:** 
 
-**[3747.44s] English:** victory is pressing snooze and getting the nap out of the belt have you ever had i had so this  
-**Translation:** 
-
-**[3753.26s] English:** this morning i didn't work i didn't work out i'd press it like five in the morning until about six  
-**Translation:** 
-
-**[3758.52s] English:** you're going hard right now yeah yeah yeah and then i had a podcast flew to austin i was like  
-**Translation:** 
-
-**[3764.46s] English:** what huh yeah what just run around theaters and now you're back yeah run around theaters to do  
-**Translation:** 
-
-**[3771.88s] English:** to promote the movie and then look you only get one shot at these movies so you might as well do  
-**Translation:** 
-
-**[3776.58s] English:** and look it's really  
-**Translation:** 
-
-**[3777.42s] English:** hard to get people to go into a movie theater right now and so i woke up at like six did five  
-**Translation:** 
-
-**[3783.22s] English:** or six to seven did press and then i went and i said and i'm really into a podcast uh history  
-**Translation:** 
-
-**[3792.18s] English:** podcast right now and i was listening to this one about the conquistadors and i was and i was like  
-**Translation:** Vocabulary: conquistadors: 征服者
-
-**[3796.86s] English:** before when i woke up i was like i wouldn't mind going back to that and i said i'll tell you what  
-**Translation:** 
-
-**[3801.52s] English:** i'm gonna take a little nap and go now i slept good last night i slept like seven hours last  
-**Translation:** 
-
-**[3807.12s] English:** night  
-**Translation:** 
-
-**[3807.42s] English:** boy that 30 minute nap it felt like five hours and i woke up going i gotta readjust my sleep  
-**Translation:** 
-
-**[3816.26s] English:** score that has to be in the 97 that's the best fucking nap those little snooze naps are monsters  
-**Translation:** 
-
-**[3821.80s] English:** you know there's i don't care that's probably for me one of the peak experiences of life is those  
+**[3747.44s] English:** Victory is pressing "snooze" and getting the nap out of the belt. Have you ever had? I had, so this.  
 **Translation:** Vocabulary: snooze: 打盹
 
-**[3829.16s] English:** naps i don't know what that is have you ever slept in a tour bus a tour bus versus a regular bus like  
+**[3753.26s] English:** This morning, I didn't work and didn't work out. I pressed it around five in the morning until about six.  
 **Translation:** 
 
-**[3836.96s] English:** a tour bus like a tour bus like a tour bus like a tour bus like a tour bus like a tour bus like a tour bus  
+**[3758.52s] English:** You're going hard right now, yeah! Yeah! And then I had a podcast, flew to Austin, I was like,  
 **Translation:** 
 
-**[3837.42s] English:** like a tour bus like a tour bus like a tour bus like a tour bus like a tour bus like meaning like it's in a bunk  
+**[3764.46s] English:** What, huh? Yeah, what just runs around theaters, and now you're back? Yeah, run around theaters to do...  
 **Translation:** 
 
-**[3840.00s] English:** no i've taken a lot of buses in my life though what you mean like just like a like a greyhound  
-**Translation:** Vocabulary: greyhound: 长途客车
-
-**[3846.42s] English:** those are very different and uh people public transit listen they  
+**[3771.88s] English:** To promote the movie, and then, you only get one shot at these movies, so you might as well do it right.  
 **Translation:** 
 
-**[3851.62s] English:** that's just part of part of life and a greyhound i was on a greyhound one time  
+**[3776.58s] English:** And look; it's really  
 **Translation:** 
 
-**[3857.14s] English:** one time right when notorious big's album came out in college and i was going from tallahassee  
+**[3777.42s] English:** Hard to get people to go into a movie theater right now, and so I woke up at like six and did five.  
 **Translation:** 
 
-**[3863.70s] English:** down to tampa and the dude got on the tour bus got on the bus next to me black dude and he sat  
+**[3783.22s] English:** Or six to seven days, I did some pressing, and then I went and said that I'm really into a history podcast.  
+**Translation:** 
+
+**[3792.18s] English:** Podcast right now, and I was listening to this one about the conquistadors, and I was, like,...  
+**Translation:** Vocabulary: conquistadors: 征服者
+
+**[3796.86s] English:** Before, when I woke up, I was like I wouldn't mind going back to that, and I said, "I'll tell you what.  
+**Translation:** 
+
+**[3801.52s] English:** I'm gonna take a little nap and go now. I slept good last night; I slept like seven hours.  
+**Translation:** 
+
+**[3807.12s] English:** Night.  
+**Translation:** 
+
+**[3807.42s] English:** Boy, that 30-minute nap felt like five hours, and I woke up going, "I gotta readjust my sleep.  
+**Translation:** 
+
+**[3816.26s] English:** Score that has to be in the 97—that's the best fucking nap. Those little snooze naps are monsters.  
+**Translation:** 
+
+**[3821.80s] English:** You know, there's something I don't care about — that's probably one of the peak experiences of my life: those.  
+**Translation:** 
+
+**[3829.16s] English:** Naps—I don't know what that is. Have you ever slept in a tour bus? A tour bus versus a regular bus—like,  
+**Translation:** 
+
+**[3836.96s] English:** A tour bus, like a tour bus, like a tour bus, like a tour bus, like a tour bus, like a tour bus, like a tour bus.  
+**Translation:** 
+
+**[3837.42s] English:** Like a tour bus, like it's in a bunker.  
+**Translation:** 
+
+**[3840.00s] English:** No, I've taken a lot of buses in my life, though. What you mean is like a Greyhound, right?  
+**Translation:** Vocabulary: bunker: 防空洞; greyhound: 长途客车
+
+**[3846.42s] English:** Those are very different, and uh, people who use public transit listen they  
+**Translation:** 
+
+**[3851.62s] English:** That's just part of life, and I was on a greyhound bus one time.  
+**Translation:** 
+
+**[3857.14s] English:** One time, right when Notorious B.I.G.'s album came out, I was visiting Tallahassee.  
+**Translation:** 
+
+**[3863.70s] English:** Down to Tampa, and the dude got on the tour bus. He sat next to me; a black dude.  
 **Translation:** Vocabulary: tallahassee: 塔拉哈西; tampa: 坦帕
 
-**[3870.92s] English:** down he said where you headed and i said tampa he said you grew up in tampa i said yeah i said you  
+**[3870.92s] English:** Down, he said, "Where are you heading?" And I said, "Tampa." He said, "You grew up in Tampa," and I said, "Yeah.  
 **Translation:** 
 
-**[3875.98s] English:** and he goes yeah i said you go to school fam and because of fam you enforce say the two schools  
+**[3875.98s] English:** And he goes, "Yeah, I said you go to school, fam. And because of fam, you enforce saying the two schools.  
+**Translation:** Vocabulary: enforce: 强制执行
+
+**[3880.36s] English:** One's black, one's white. He goes, 'No, I just got out of prison.' I said, 'You got out of prison,' and he goes,  
 **Translation:** 
 
-**[3880.36s] English:** one's black one's white he goes no i just got out of prison i said you got out of prison and he goes  
+**[3885.30s] English:** Yeah, yeah, man. I got out of prison for stabbing the dude, and I've been in prison ever since.  
+**Translation:** Vocabulary: stabbing: 刺杀
+
+**[3890.76s] English:** Got out today? He goes, "What are you listening to?" I said, "No.  
 **Translation:** 
 
-**[3885.30s] English:** yeah yeah man i got out of prison i stabbed the dude and and uh and i've been in prison i just  
+**[3893.48s] English:** No.  
 **Translation:** 
 
-**[3890.76s] English:** got out today he goes what are you listening to i said no  
+**[3893.70s] English:** Notorious is big, and he goes, "Oh shit, that's out!" And I went, "Yeah," and he goes, "I want to hear it. Can I?  
 **Translation:** 
 
-**[3893.48s] English:** no  
+**[3899.64s] English:** Hear it, and I was like, "Yeah." And he used my headset for the whole bus ride to Tampa; I didn't have.  
+**Translation:** Vocabulary: headset: 耳机
+
+**[3905.24s] English:** Bob's like, he stabbed a man; they're yours now, I guess. And then I just sat next to him, and I was...  
 **Translation:** 
 
-**[3893.70s] English:** notorious big and he goes oh shit that's out and i went yeah and he goes i want to hear it can i  
+**[3909.42s] English:** Like, is he enjoying it? He's like, "This is good, no tour bus snaps." Yeah, when you're in a bun.  
+**Translation:** Vocabulary: stabbed: 刺伤
+
+**[3916.02s] English:** It's ice cold, the bus isn't moving. It's five o'clock. You know, we usually work out from like four until about five.  
 **Translation:** 
 
-**[3899.64s] English:** hear it and i was like yeah and he used my headset to the whole bus ride to tampa i didn't have the  
+**[3922.92s] English:** It's 5:30 o'clock.  
 **Translation:** 
 
-**[3905.24s] English:** bob's like he stabbed a man they're yours now i guess and then i just sat next to him and i was  
+**[3923.70s] English:** The show starts at seven, but I need to take a nap from five o'clock to six-thirty.  
 **Translation:** 
 
-**[3909.42s] English:** like is he enjoying it he's like this is good no tour bus snaps yeah when you're in a bunk  
+**[3927.12s] English:** It's pitch black; it's like a coffin, and it is ice cold. And you've got all your pillows and blankets in.  
+**Translation:** Vocabulary: pillows: 枕头
+
+**[3935.08s] English:** There, and you put a little history podcast on in the corner, and you just listen to it like  
 **Translation:** 
 
-**[3916.02s] English:** it's ice cold bus isn't moving five o'clock you like we work out from like up until like five  
+**[3940.52s] English:** Kurt Mimbashi, or like oh my god—so you're talking about around five to six p.m. for a seven p.m. meeting?  
+**Translation:** Vocabulary: mimbashi: 库特·米姆巴什
+
+**[3947.76s] English:** Show, oh, it's the best nap you'll ever have. You wake up so refreshed, yeah, like I've woken up and  
 **Translation:** 
 
-**[3922.92s] English:** o'clock 5 30.  
-**Translation:** 
-
-**[3923.70s] English:** show starts at seven but that five o'clock to six six thirty nap  
-**Translation:** 
-
-**[3927.12s] English:** it's pitch black it's like a coffin and it is ice cold and you got all your pillows and blankets in  
-**Translation:** 
-
-**[3935.08s] English:** there and you put a little history podcast on in the corner and you just listen to like  
-**Translation:** 
-
-**[3940.52s] English:** kurt mimbashi or or like oh my god so you're talking about like five six p.m for a seven p.m  
-**Translation:** Vocabulary: mimbashi: 库特·米班希
-
-**[3947.76s] English:** show oh it's the best nap you'll ever have you wake up so refreshed yeah like i've woken up and  
-**Translation:** 
-
-**[3953.70s] English:** up from naps like where i'm like fuck yeah like they're those those tour bus naps are the best  
+**[3953.70s] English:** Up from naps, like where I'm like, "fuck yeah," like those tour bus naps are the best.  
 **Translation:** Vocabulary: refreshed: 精神焕发
 
-**[3959.60s] English:** yeah  
+**[3959.60s] English:** Yeah.  
 **Translation:** 
 
-**[3960.00s] English:** i think having a full productive day and then like 5 6 p.m you do a nap and then you do something  
+**[3960.00s] English:** I think having a full, productive day, and then around 5 or 6 p.m., you do a nap and then you do something.  
 **Translation:** 
 
-**[3968.64s] English:** really stressful after that like really hyper like like a show but if i do like i really like  
+**[3968.64s] English:** Really stressful after that, like really hyper—like, a show. But if I do, I really like  
 **Translation:** 
 
-**[3975.18s] English:** doing podcasts like late at night after a nap i think i've fucked up my podcast rhythm because  
+**[3975.18s] English:** Doing podcasts like late at night after a nap, I think I've fucked up my podcast rhythm because  
 **Translation:** Vocabulary: hyper: 过度兴奋
 
-**[3980.90s] English:** we're doing them in the day yeah and so sometimes i'm just like i like if i work out in the morning  
+**[3980.90s] English:** We're doing them in the day, yeah, and so sometimes I'm just like, "I'd rather work out in the morning.  
 **Translation:** 
 
-**[3985.20s] English:** i'm good on a podcast but if i don't work out i suck on a podcast i'm just like uh-huh yeah yeah  
+**[3985.20s] English:** I'm good on a podcast, but if I don't work out, I suck on a podcast. I'm just like, uh-huh, yeah, yeah.  
 **Translation:** 
 
-**[3991.50s] English:** that's cool no i i i'm my favorite is i used to do this a lot i haven't done it in a while is  
+**[3991.50s] English:** That's cool. No, I'm just saying that my favorite is something I used to do a lot but haven't done in a while.  
 **Translation:** 
 
-**[4000.58s] English:** uh full busy day nap at home box of wine on the treadmill and do that until like midnight  
-**Translation:** 
-
-**[4009.42s] English:** watching tv box of wine box of wine on a treadmill it's the best how are you wait  
-**Translation:** 
-
-**[4015.00s] English:** how  
+**[4000.58s] English:** Uh, a full, busy day; nap at home; box of wine; on the treadmill, and do that until like midnight.  
 **Translation:** Vocabulary: treadmill: 跑步机
 
-**[4015.18s] English:** you sipping it dick you have a glass but you have a box the box fits on the corner on the treadmill  
+**[4009.42s] English:** Watching TV, "Box of Wine" on a treadmill—it's the best! How are you? Wait.  
 **Translation:** 
 
-**[4019.12s] English:** so you just got a little spigot yeah and you sit there and just put on like guys grocery games or  
-**Translation:** Vocabulary: grocery: 购物游戏; sipping: 喝着
-
-**[4024.64s] English:** like just something it's like a you walking or are you running i walk i walk like a three five  
+**[4015.00s] English:** How  
 **Translation:** 
 
-**[4028.96s] English:** so what will happen is if you start at three start at three casual walk 20 minutes you get a mile in  
+**[4015.18s] English:** You're sipping it, Dick. You have a glass, but you have a box. The box fits on the corner of the treadmill.  
 **Translation:** 
 
-**[4033.92s] English:** and you're gonna feel loose get up to a three five you can do seven miles on these things and  
+**[4019.12s] English:** So, you just get a little spigot, yeah, and you sit there and just put on like guys' grocery games or  
+**Translation:** Vocabulary: grocery: 杂货; sipping: 小口喝
+
+**[4024.64s] English:** Like, just something—it's like, are you walking or are you running? I walk like a three-five.  
 **Translation:** 
 
-**[4039.68s] English:** just and just and you're just enjoying your night especially like my wife back in the day when we  
+**[4028.96s] English:** So, what will happen is that if you start with a three-minute warm-up and go for a casual walk for 20 minutes, you'll get about a mile in.  
 **Translation:** 
 
-**[4043.82s] English:** lived in our old house my wife would come  
+**[4033.92s] English:** And you're going to feel loose. Get up to a three or five, and you can do seven miles on these things.  
 **Translation:** 
 
-**[4045.18s] English:** into the man cave and she sat on the couch and we watched tv together yeah and like watch game of  
+**[4039.68s] English:** Just, just enjoy your night, especially like my wife used to do back in the day.  
 **Translation:** 
 
-**[4048.92s] English:** thrones and you just like for an hour and you just get on the treadmill and do it oh man i i loved  
+**[4043.82s] English:** Lived in our old house, my wife would come.  
 **Translation:** 
 
-**[4054.08s] English:** haven't done that as much lately that was the fucking you can lose yourself you can forget  
+**[4045.18s] English:** Into the man cave, and she sat on the couch and we watched TV together, yeah, and like watch Game of Thrones.  
+**Translation:** Vocabulary: thrones: 王座
+
+**[4048.92s] English:** Thrones, and you just like for an hour, and you just get on the treadmill and do it? Oh, man; I loved it!  
 **Translation:** 
 
-**[4058.96s] English:** yourself you forget you're on a treadmill and you just start like walking and you're sweating  
+**[4054.08s] English:** Haven't done that as much lately. That was the fucking thing — you can lose yourself, you can forget.  
 **Translation:** 
 
-**[4062.80s] English:** and you're and you're having wine and then at certain points you're like like uh you like you  
+**[4058.96s] English:** Yourself, you forget you're on a treadmill and you just start walking, and you're sweating.  
 **Translation:** 
 
-**[4069.98s] English:** you start jogging especially like are we watching uh not all quiet on the restaurant front what's  
+**[4062.80s] English:** And you're having wine, and then at certain points, you're like, "uh, you.  
 **Translation:** 
 
-**[4074.98s] English:** the one where they've got a they've got to get the message to the front line  
+**[4069.98s] English:** You start jogging, especially when we're not all quiet on the restaurant front; what's  
 **Translation:** 
 
-**[4080.00s] English:** would run like i was in world war ii yeah i would run when they would run and it was  
+**[4074.98s] English:** The one where they've got to get the message to the front line.  
+**Translation:** Vocabulary: jogging: 慢跑
+
+**[4080.00s] English:** Would run like I was in World War II, yeah. I would run when they would run, and it was  
 **Translation:** 
 
-**[4083.84s] English:** awesome and i would be like because they were doing drinks they'd be like take a drink  
+**[4083.84s] English:** Awesome, and I would be like, because they were doing drinks, they'd be like, "Take a drink.  
 **Translation:** 
 
-**[4087.68s] English:** you got to run up there and be like okay yeah i'm really into i'm really into history podcasts  
+**[4087.68s] English:** You've got to run up there and be like, "Okay, yeah, I'm really into history podcasts.  
 **Translation:** 
 
-**[4092.56s] English:** right now like i've been in them for a while 20th century or everything everything everything i  
+**[4092.56s] English:** Right now, like I've been in them for a while—20th century or everything, everything, everything—I  
 **Translation:** 
 
-**[4098.16s] English:** listened to um uh was it marcus aurelius and cleopatra today uh in the middle of the podcast  
+**[4098.16s] English:** Listened to, um, was it Marcus Aurelius and Cleopatra today? In the middle of the podcast.  
 **Translation:** 
 
-**[4108.56s] English:** they're like you know just so you know cleopatra wasn't as hot as everyone says i was like why are  
-**Translation:** Vocabulary: aurelius: 马可·奥勒留; cleopatra: 克利奥帕特拉; marcus: 马库斯
+**[4108.56s] English:** They're like, you know, just so you know, Cleopatra wasn't as hot as everyone says. I was like, why are  
+**Translation:** Vocabulary: aurelius: 马库斯·奥勒留; cleopatra: 克利奥帕特拉; marcus: 马库斯
 
-**[4111.76s] English:** you saying that yeah tell me she's a six she looks like snooki yeah like why let me let me dream that  
+**[4111.76s] English:** You're saying that, yeah? Tell me, she's a six? She looks like Snooki, yeah? Like, why? Let me just dream about that.  
 **Translation:** 
 
-**[4117.04s] English:** she looks like kim kardashian yeah and then uh i listened to that one today i listened to world war  
+**[4117.04s] English:** She looks like Kim Kardashian, yeah, and then I listened to that one today; I listened to "World War.  
 **Translation:** 
 
-**[4123.36s] English:** ii a lot oh a lot of books on world war ii a lot of uh podcasts about it what's your favorite theater  
+**[4123.36s] English:** II: A lot, oh, a lot of books on World War II. A lot of uh, podcasts about it. What's your favorite theater?  
 **Translation:** 
 
-**[4129.92s] English:** the pacific or european uh no european pacific well because my family's so much of it has died  
+**[4129.92s] English:** The Pacific or European—no, European, Pacific. Well, because so much of it has died in my family.  
 **Translation:** 
 
-**[4137.36s] English:** in that theater so  
+**[4137.36s] English:** In that theater, so  
 **Translation:** 
 
-**[4138.56s] English:** to the person so much of it i hate to sound cliche like a marlon schwarzenegger in an 80s movie but  
-**Translation:** Vocabulary: cliche: 陈词滥调; marlon: 马龙; schwarzenegger: 施瓦辛格
+**[4138.56s] English:** To be honest, so much of it—I hate to sound cliché, like Marlon Schwarzenegger in an 80s movie, but  
+**Translation:** Vocabulary: marlon: 施瓦辛格; schwarzenegger: 施瓦辛格
 
-**[4143.92s] English:** it's personal well you know what i find funny about that yeah is lenin it was lenin right  
+**[4143.92s] English:** It's personal, you know what? I find something funny about that, yeah. It was Lenin, right?  
 **Translation:** 
 
-**[4150.64s] English:** uh john lennon no no no was it lenin was where we're two right or is it stalin stalin stalin  
+**[4150.64s] English:** Uh, John Lennon, no, no, no. Was it Lenin? Where are we two right, or is it Stalin? Stalin? Stalin?  
 **Translation:** Vocabulary: lenin: 列宁; lennon: Lennon; stalin: 斯大林
 
-**[4158.00s] English:** stalin thought him and hitler would be friends yeah i think that's so cute that he was like  
+**[4158.00s] English:** Stalin thought him and Hitler would be friends, yeah. I think that's so cute that he was like.  
 **Translation:** 
 
-**[4162.80s] English:** we're gonna be buddies yeah like we're boys yeah and then hitler's like oh you i'm hitler  
+**[4162.80s] English:** We're gonna be buddies, yeah, like we're boys, yeah. And then Hitler's like, "Oh, you? I'm Hitler.  
 **Translation:** 
 
-**[4168.56s] English:** this is what i do well at first he was like yeah yeah yeah yeah we'll be friends yeah yeah  
+**[4168.56s] English:** This is what I do. Well, at first, he was like, "Yeah, yeah, yeah, yeah, we'll be friends, yeah, yeah.  
 **Translation:** 
 
-**[4173.44s] English:** sure sure and then call me call me better yet i'll show up in winter how's that sound  
+**[4173.44s] English:** Sure, sure. And then call me—better yet, I'll show up in winter. How's that sound?  
 **Translation:** 
 
-**[4179.04s] English:** yeah that uh that uh i find that i find all of that so fascinating when i was a kid i had a hard  
+**[4179.04s] English:** Yeah, that—that, I find all of that so fascinating. When I was a kid, I had a hard time believing it.  
 **Translation:** 
 
-**[4185.60s] English:** time understanding how because we were always at war with russia when i was a kid and i had a hard  
+**[4185.60s] English:** Time, understanding how, because we were always at war with Russia when I was a kid, and I had a hard time.  
 **Translation:** 
 
-**[4190.72s] English:** time understanding how we could be on the same team as russia in world war ii and i was like  
+**[4190.72s] English:** Time understanding how we could be on the same team as Russia in World War II, and I was like  
 **Translation:** 
 
-**[4195.20s] English:** wait how did that turn south and then you just listen to podcasts  
+**[4195.20s] English:** Wait, how did that turn south, and then you just listen to podcasts?  
 **Translation:** 
 
-**[4198.56s] English:** yeah i'm that  
+**[4198.56s] English:** Yeah, I'm that.  
 **Translation:** 
 
-**[4200.00s] English:** all of that all of that like all of the world war ii i got really into the the pacific shit  
+**[4200.00s] English:** All of that, like, all of World War II—I got really into the Pacific shit.  
 **Translation:** 
 
-**[4208.74s] English:** for a while but i'm really deep in the in in the whole we we went to normandy from the cliffs of  
+**[4208.74s] English:** For a while, but I'm really deep into the whole thing. We went to Normandy from the cliffs of...  
 **Translation:** 
 
-**[4217.94s] English:** dover and to think so that's the fucking beach that's the fucking beach oh shit this is cold  
-**Translation:** Vocabulary: dover: 多佛; normandy: 诺曼底
+**[4217.94s] English:** Dover, and to think, that's the fucking beach! That's the fucking beach. Oh shit, this is cold.  
+**Translation:** Vocabulary: cliffs: 悬崖; dover: 多佛; normandy: 诺曼底
 
-**[4225.74s] English:** as fuck these dudes jumped in ice cold water yeah and this isn't like a cool beach like this is  
+**[4225.74s] English:** As fuck, these dudes jumped into icy-cold water. Yeah, and this isn't like a cool beach; this is  
 **Translation:** 
 
-**[4231.74s] English:** and it's just so insane to and then to see like the the it's pretty intense i don't know why i  
+**[4231.74s] English:** And it's just so insane to see, and then it's pretty intense. I don't know why.  
 **Translation:** 
 
-**[4240.50s] English:** got into history late in life i wasn't i was kind of into it but i'm really into it now and i love  
+**[4240.50s] English:** Got into history late in life; I wasn't really into it before, but I'm really into it now, and I love it.  
 **Translation:** 
 
-**[4245.54s] English:** just learning a little something about you know today was i listened to like the noiser has a  
+**[4245.54s] English:** Just learning a little something, you know, today was when I listened to "Noiser" has a.  
 **Translation:** 
 
-**[4251.92s] English:** great history stuff it's like history for dummies i think  
+**[4251.92s] English:** Great history stuff; it's like History for Dummies, I think.  
 **Translation:** 
 
-**[4254.92s] English:** you  
+**[4254.92s] English:** You.  
 **Translation:** Vocabulary: dummies: 初学者
 
-**[4255.74s] English:** like i get to i can't listen to the really smart stuff starts losing me too many names i'm gone  
+**[4255.74s] English:** Like, I get to listen to the really smart stuff, but it starts losing me too many names, and I'm gone.  
 **Translation:** 
 
-**[4260.78s] English:** yeah well dan carlin is always the best your podcast with dan carlin yeah was so fucking good  
-**Translation:** Vocabulary: carlin: 卡林
+**[4260.78s] English:** Yeah, well, Dan Carlin is always the best. Your podcast with Dan Carlin was so fucking good.  
+**Translation:** Vocabulary: carlin: 丹·卡林
 
-**[4268.32s] English:** yeah he is he is i mean i only know about martin luther because of dan carlin i only know like i  
+**[4268.32s] English:** Yeah, he is. He is. I mean, I only know about Martin Luther because of Dan Carlin; I only know like that.  
 **Translation:** 
 
-**[4276.64s] English:** would have i made a joke about some lutheran the other day and everyone laughed and i was like did  
-**Translation:** Vocabulary: lutheran: 路德宗信徒
+**[4276.64s] English:** Would have I made a joke about some Lutheran the other day, and everyone laughed, and I was like, "Did"?  
+**Translation:** Vocabulary: luther: 路德; lutheran: 路德宗
 
-**[4281.68s] English:** you guys listen to the same podcast i did because i just am quoting dan carlin  
+**[4281.68s] English:** You guys, listen to the same podcast I did because I'm just quoting Dan Carlin.  
 **Translation:** 
 
-**[4284.86s] English:** i  
+**[4284.86s] English:** I.  
+**Translation:** Vocabulary: quoting: 引用
+
+**[4285.74s] English:** Got his podcast, I mean, we all quoted the same thing about Ganga Khan about how he  
 **Translation:** 
 
-**[4285.74s] English:** got his podcast i mean we all quoted the same about gangas khan about how he  
+**[4293.58s] English:** Could shoot a dove off a horse's back, but we knew that all four hooves had to be off the ground at  
+**Translation:** Vocabulary: hooves: 马蹄; quoted: 引用
+
+**[4300.86s] English:** The same time they shot, they would sometimes take their meat and stick it under their saddles and  
 **Translation:** 
 
-**[4293.58s] English:** could shoot a dove off a horseback but we knew that all four hoofs had to be off the ground at  
-**Translation:** Vocabulary: hoofs: 马蹄; horseback: 马背
+**[4307.74s] English:** That I mean, Dan Carlin is the motherfucker, yeah. God, those were man, discovering podcasts were.  
+**Translation:** Vocabulary: saddles: 马鞍
 
-**[4300.86s] English:** the same time they shot they would sometimes take their meat and stick it under their saddles and  
-**Translation:** 
-
-**[4307.74s] English:** that i mean dan carlin is he is the motherfucker yeah god those were man discovering podcasts was  
-**Translation:** Vocabulary: motherfucker: 混蛋; saddles: 马鞍
-
-**[4315.26s] English:** the cool thing i did my podcast with dan carlin i didn't know him unless i had ever talked to him andọi  
+**[4315.26s] English:** The cool thing is, I did my podcast with Dan Carlin. I didn't know him until we had ever talked to each other.  
 **Translation:** 
 
 **[4315.68s] English:** Coolest time of my life.  
 **Translation:** 
 
-**[4317.84s] English:** And the interesting thing about him is...  
+**[4317.84s] English:** And the interesting thing about him is....  
 **Translation:** 
 
-**[4320.00s] English:** it's audio and so it's the voice so for me i mean everybody has a story with a prostitute in a motel  
+**[4320.00s] English:** It's audio, and so it's the voice. So, for me—I mean, everybody has a story with a prostitute in a motel.  
 **Translation:** Vocabulary: motel: 汽车旅馆; prostitute: 妓女
 
-**[4326.88s] English:** dan carlin was my prostitute in the motel i invited him to a motel i don't even remember  
+**[4326.88s] English:** Dan Carlin was my prostitute in the motel. I invited him to a motel, and I don't even remember.  
 **Translation:** 
 
-**[4332.46s] English:** in the middle of nowhere he shows up with that voice and the rest the rest is history so good  
+**[4332.46s] English:** In the middle of nowhere, he shows up with that voice, and the rest is history. So good!  
 **Translation:** 
 
-**[4338.32s] English:** things they will never know what happened to you oh boy did he like no i'm just kidding i'm i'm  
+**[4338.32s] English:** Things they will never know what happened to you. Oh, boy! Did he like... No, I'm just kidding. I'm...  
 **Translation:** 
 
-**[4343.50s] English:** really running with it yes we did we got along really i mean he's an incredibly kind and  
+**[4343.50s] English:** Really, we were running with it. Yes, we did. We got along really well. I mean, he's an incredibly kind and  
 **Translation:** 
 
-**[4349.02s] English:** thoughtful person constantly self-critical thinking he's not good enough he just works  
+**[4349.02s] English:** Thoughtful, self-critical person constantly thinks he's not good enough and just works.  
 **Translation:** 
 
-**[4353.34s] English:** on those episodes forever forever and he just thinks that there's these uh just like with  
+**[4353.34s] English:** On those episodes, forever and ever, and he just thinks that there are these, uh, just like with  
 **Translation:** Vocabulary: thoughtful: 深思熟虑的
 
-**[4359.94s] English:** goggins there's these other historians that i think like weigh on him like they're going to  
+**[4359.94s] English:** Goggins, there are these other historians that I think weigh on him a lot; they're going to  
 **Translation:** 
 
-**[4366.48s] English:** judge him or something like this in his mind i talked about i talked to him about daniel  
+**[4366.48s] English:** Judge him, or something like that, in his mind. I talked about it; I talked to him about Daniel.  
 **Translation:** 
 
-**[4371.88s] English:** patelian and i guess his thing is he i get i guess his his hang-up is carlin's  
+**[4371.88s] English:** Patelian and I guess his thing is that he has a hang-up about Carlin's.  
 **Translation:** 
 
-**[4378.94s] English:** is  
+**[4378.94s] English:** Is  
 **Translation:** Vocabulary: patelian: 帕特利安
 
-**[4379.02s] English:** he's not a he's not like this like he doesn't feel like he's a real historian yeah but he is  
+**[4379.02s] English:** He's not like that, though. He doesn't feel like he's a real historian, yeah, but he is.  
 **Translation:** 
 
-**[4385.22s] English:** yeah i mean he's the way he shares the story look we had a history teacher in seventh grade  
+**[4385.22s] English:** Yeah, I mean, he's the way he shares the story. Look, we had a history teacher in seventh grade.  
 **Translation:** 
 
-**[4390.02s] English:** who was a con artist and he came and taught our seventh grade and it was told con artist all he  
+**[4390.02s] English:** Who was a con artist, and he came and taught our seventh-grade class. It was told that he was a con artist; all he did was...  
 **Translation:** 
 
-**[4396.18s] English:** taught us about was barnstorming barnstorming and the jfk assassination i walked away having such  
-**Translation:** Vocabulary: assassination: 刺杀; barnstorming: 巡回表演
+**[4396.18s] English:** Taught us about was barnstorming, barnstorming, and the JFK assassination. I walked away having such  
+**Translation:** Vocabulary: assassination: 刺杀; barnstorming: 巡回宣传
 
-**[4401.98s] English:** an appreciation for barnstorming a very small blip on americana but i know a lot about barnstorming  
+**[4401.98s] English:** An appreciation for barnstorming; a very small blip on Americana, but I know a lot about barnstorming.  
 **Translation:** 
 
-**[4407.94s] English:** because of this guy and he's a great historian and he's a great historian and he's a great  
+**[4407.94s] English:** Because of this guy, and he's a great historian, and he's a great historian, and he's a great  
 **Translation:** 
 
-**[4408.94s] English:** because he was passionate about barnstorming it was the funnest seventh grade history class  
+**[4408.94s] English:** Because he was passionate about barnstorming, it was the funniest seventh-grade history class.  
 **Translation:** 
 
-**[4412.74s] English:** i'll ever take in my entire life uh you mentioned tour bus uh what's the best road trip you've been  
+**[4412.74s] English:** I'll ever take in my entire life. Uh, you mentioned tour bus—what's the best road trip you've been on?  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[4419.18s] English:** Have you ever driven across the country? Just us, no, we had one road trip in college.  
 **Translation:** 
 
-**[4419.18s] English:** on have you have you driven across the country just you no we had one road trip in college  
+**[4427.12s] English:** Where a bar had burned down, and we found out that the alcohol was still in the bar.  
 **Translation:** 
 
-**[4427.12s] English:** where a bar had burned down and we found out that the alcohol was still in the bar  
+**[4433.68s] English:** Yeah, so we took my Jetta over to the bar and we emptied it out.  
 **Translation:** 
 
-**[4433.68s] English:** yeah so we took my jetta yeah over to the bar and we emptied out the bar  
+**[4438.94s] English:** Of all the burnt-up  
 **Translation:** 
 
-**[4438.94s] English:** of all the burnt up  
+**[4440.00s] English:** Liquor—we didn't know what any of it was—and we threw it into the trunk with no clothes, like, no clothes.  
 **Translation:** 
 
-**[4440.00s] English:** liquor we didn't know what anything was we threw it into the trunk with no clothes like no no clothes  
-**Translation:** 
-
-**[4445.80s] English:** and we said let's just start driving and we drove from tallahassee and ended up in west virginia  
+**[4445.80s] English:** And we said, let's just start driving, and we drove from Tallahassee and ended up in West Virginia.  
 **Translation:** Vocabulary: liquor: 酒精
 
-**[4453.64s] English:** and just just drove just drove it was like five dudes we drank one person drove i i wasn't a big  
+**[4453.64s] English:** And just drove it. It was like five dudes. We drank, one person drove. I wasn't a big...  
 **Translation:** 
 
-**[4460.92s] English:** drink this sounds crazy i wasn't a big drinker in college until i went to russia and so i drove  
+**[4460.92s] English:** Drink this? Sounds crazy. I wasn't a big drinker in college until I went to Russia, and so I drove.  
 **Translation:** 
 
-**[4466.26s] English:** the majority of the way and then we we get somewhere and and we get a hotel room and it  
+**[4466.26s] English:** The majority of the way, and then we get somewhere and get a hotel room, and it  
 **Translation:** 
 
-**[4472.26s] English:** was one of the most epic fucking weekends of just debauchery and chaos and i think we took mushrooms  
+**[4472.26s] English:** It was one of the most epic fucking weekends of debauchery and chaos, and I think we took mushrooms.  
 **Translation:** Vocabulary: debauchery: 放纵行为
 
-**[4479.64s] English:** and we we we uh went down a river in tubes so it's mostly about the bond between the five people  
+**[4479.64s] English:** And we went down a river in tubes, so it's mostly about the bond between the five people.  
 **Translation:** 
 
-**[4487.34s] English:** versus like throwing yourself into meeting like strangers and this kind of stuff yeah and it was  
+**[4487.34s] English:** Versus, like throwing yourself into meeting strangers and this kind of stuff — yeah, and it was.  
 **Translation:** 
 
-**[4492.94s] English:** when it was when i was like i was trying to be a poet at that time and so like  
+**[4492.94s] English:** When I was trying to be a poet at that time, so like  
 **Translation:** 
 
-**[4496.26s] English:** we were actual poetry yeah it was a really bad part of my life i was just well you were like  
+**[4496.26s] English:** We were actually doing poetry, yeah. It was a really bad part of my life. I was just... You were like.  
 **Translation:** 
 
-**[4500.72s] English:** is like music is there too somewhere yeah i tried to be in a band too that didn't work out the way  
+**[4500.72s] English:** Is like music, is there, too? Somewhere, yeah. I tried to be in a band, too. That didn't work out the way.  
 **Translation:** 
 
-**[4505.20s] English:** i wanted it to i just was never i always was i was never the i'm not a good serious person  
+**[4505.20s] English:** I wanted to be, but I was never really the serious type of person.  
 **Translation:** 
 
-**[4510.26s] English:** like i'm a good funny person i'm good to be the fool but i'm not good when i try to be serious  
+**[4510.26s] English:** Like I'm a good, funny person; I'm good to be the fool, but I'm not good when I try to be serious.  
 **Translation:** 
 
-**[4514.98s] English:** it looks foolish and so even like you know someone said showed me throwing out the first pitch the  
+**[4514.98s] English:** It looks foolish, and so, even like, you know, someone said, showing me throwing out the first pitch the  
 **Translation:** 
 
-**[4521.54s] English:** other day as something and all i could see is my gut flying everywhere and i was like that's why  
+**[4521.54s] English:** One other day, as something was happening, and all I could see was my guts flying everywhere, and I was like, "That's why.  
 **Translation:** 
 
-**[4525.54s] English:** it went viral  
-**Translation:** Vocabulary: viral: 广泛传播的
+**[4525.54s] English:** It went viral.  
+**Translation:** Vocabulary: viral: 病毒性的
 
-**[4526.26s] English:** i was like fuck i thought it was my throwing style that was a pretty epic one the best road  
+**[4526.26s] English:** I was like, "Fuck, I thought it was my throwing style—that was a pretty epic one; the best road.  
 **Translation:** 
 
-**[4531.38s] English:** trips i ever took was during the pandemic during the pandemic when we were when we would we're  
-**Translation:** Vocabulary: pandemic: 流行病
+**[4531.38s] English:** Trips I ever took was during the pandemic, when we were when we would.  
+**Translation:** Vocabulary: pandemic: 全球大流行
 
-**[4537.32s] English:** doing that drive-in movie theater tour i created a drive-in movie theater tour when no one was  
+**[4537.32s] English:** Doing that drive-in movie theater tour, I created a drive-in movie theater tour when no one was.  
 **Translation:** 
 
-**[4542.06s] English:** working and the very first one we all no one had left our houses we all went to my house we got my  
+**[4542.06s] English:** Working, and the very first one we all knew — no one had left our houses yet. We all went to my house, and we got my  
 **Translation:** 
 
-**[4549.88s] English:** tour bus we had just wrapped the day the tour bus showed up we just wrapped the cabin just wrapped  
+**[4549.88s] English:** Tour bus, we had just wrapped for the day when the tour bus showed up. We just wrapped the cabin.  
 **Translation:** 
 
-**[4556.26s] English:** the cabin on netflix and we got covid tests  
+**[4556.26s] English:** The cabin on Netflix, and we got COVID tests.  
 **Translation:** 
 
-**[4560.00s] English:** Tested we got in the tour bus and we said let's create our bubble and stay safe and that night we drove  
+**[4560.00s] English:** Tested, we got on the tour bus and said, "Let's create our bubble and stay safe." That night, we drove.  
 **Translation:** 
 
-**[4565.84s] English:** I think just outside  
+**[4565.84s] English:** I think just outside.  
 **Translation:** 
 
-**[4568.24s] English:** uh  
+**[4568.24s] English:** Uh  
 **Translation:** 
 
-**[4569.36s] English:** gallop and we stayed in a  
+**[4569.36s] English:** Gallop, and we stayed at a  
 **Translation:** Vocabulary: gallop: 飞奔
 
-**[4571.84s] English:** and no one had been outside and we stayed at a at a  
+**[4571.84s] English:** And no one had been outside, and we stayed at a place.  
 **Translation:** 
 
-**[4576.32s] English:** Koa camp on arrival and we watched thunderstorms come in on a lake  
+**[4576.32s] English:** Koa camped on arrival, and we watched thunderstorms come in over a lake.  
 **Translation:** 
 
-**[4581.28s] English:** And we were all smoking cigars and drinking ipas and and it was fucking  
+**[4581.28s] English:** And we were all smoking cigars and drinking IPAs, and it was fucking awesome.  
 **Translation:** 
 
-**[4586.72s] English:** Matt and that whole road trip. We road tripped across the country to start the tours  
+**[4586.72s] English:** Matt and that whole road trip. We road-tripped across the country to start the tours.  
 **Translation:** Vocabulary: cigars: 雪茄
 
-**[4591.76s] English:** And then we just and we were outside for the first time and we were and it was that  
+**[4591.76s] English:** And then we were outside for the first time, and it was that  
 **Translation:** 
 
-**[4596.32s] English:** Period of my life. I'm, so grateful. I didn't make a ton of money  
+**[4596.32s] English:** Period of my life; I'm so grateful. I didn't make a ton of money.  
 **Translation:** 
 
-**[4599.20s] English:** So we had a big crew and I made sure I was trying to make sure everyone  
+**[4599.20s] English:** So, we had a big crew, and I made sure I was trying to make sure everyone.  
 **Translation:** 
 
-**[4602.80s] English:** Because no one had paid bills in a while  
+**[4602.80s] English:** Because no one had paid the bills for a while.  
 **Translation:** 
 
 **[4604.96s] English:** But that fucking  
 **Translation:** 
 
-**[4606.96s] English:** Tour was the funnest. We took up pickleball. We took up disc golf  
-**Translation:** Vocabulary: pickleball: 拍网球
+**[4606.96s] English:** The tour was the funniest. We took up pickleball, and we took up disc golf.  
+**Translation:** Vocabulary: pickleball: 混合网球
 
-**[4612.64s] English:** Everything was wide open in the middle of the country  
+**[4612.64s] English:** Everything was wide open in the middle of the country.  
 **Translation:** 
 
-**[4614.40s] English:** You could do things  
+**[4614.40s] English:** You could do things.  
 **Translation:** 
 
 **[4615.04s] English:** But we were still in our  
 **Translation:** 
 
-**[4615.84s] English:** bubble  
+**[4615.84s] English:** Bubble.  
 **Translation:** 
 
-**[4616.64s] English:** And we lived in that tour bus and at the at night we just get back in the tour bus by ourselves and get fucking  
+**[4616.64s] English:** And we lived in that tour bus, and at night we just got back in the tour bus by ourselves and got fucking beat up.  
 **Translation:** 
 
-**[4622.66s] English:** wasted and  
+**[4622.66s] English:** Wasted and  
 **Translation:** 
 
-**[4624.56s] English:** and I mean that fucking run it'll nothing will ever be like that, yeah, because  
+**[4624.56s] English:** And I mean, that fucking run—it'll never be like that, yeah, because.  
 **Translation:** 
 
-**[4630.48s] English:** You like rediscovered the humanity the camaraderie because uh, the pandemic kind of killed that  
-**Translation:** Vocabulary: camaraderie: 战友情; rediscovered: 重新发现
+**[4630.48s] English:** You've liked rediscovering the humanity and camaraderie because, uh, the pandemic kind of killed that.  
+**Translation:** Vocabulary: camaraderie: 同伴情谊; pandemic: 全球疫情; rediscovering: 重新发现
 
-**[4635.44s] English:** They suffocated us from like their basic connection. Yeah, and it and and there was this  
+**[4635.44s] English:** They suffocated us from their basic connection. Yeah, and it, and there was this.  
 **Translation:** 
 
-**[4642.88s] English:** You always had an anxiety attack halfway through that you got coven  
-**Translation:** Vocabulary: coven: 邪教; halfway: 中途; suffocated: 窒息
+**[4642.88s] English:** You always had an anxiety attack halfway through, and then you got coughing.  
+**Translation:** Vocabulary: coughing: 咳嗽; halfway: 中途; suffocated: 窒息
 
-**[4645.52s] English:** This one, you know cova was killing people and you were like, I know i've got coven and then and then we'd come in  
+**[4645.52s] English:** This one, you know Cova was killing people, and you were like, "I know; I've got coven," and then we'd come in.  
 **Translation:** 
 
-**[4651.60s] English:** to sedona  
-**Translation:** Vocabulary: sedona: 赛多纳
+**[4651.60s] English:** To Sedona  
+**Translation:** Vocabulary: coven: 巫會; sedona: 塞多納
 
-**[4652.88s] English:** And this is also why I didn't make a ton of money  
+**[4652.88s] English:** And this is also why I didn't make a lot of money.  
 **Translation:** 
 
-**[4654.56s] English:** We'd come into sedona and we get a house in sedona for five days at airbnb  
+**[4654.56s] English:** We came into Sedona and got a house there for five days on Airbnb.  
 **Translation:** 
 
-**[4658.88s] English:** And we'd all isolate there before we went home to our families. Yeah  
+**[4658.88s] English:** And we'd all isolate there before we went home to our families. Yeah.  
 **Translation:** 
 
-**[4663.76s] English:** I mean, I remember I remember the first time we did it. We didn't isolate  
+**[4663.76s] English:** I mean, I remember the first time we did it. We didn't isolate.  
 **Translation:** Vocabulary: isolate: 隔离
 
-**[4666.40s] English:** We just pulled back into la and all our families were freaked out. So I had to stay live on the tour bus in  
+**[4666.40s] English:** We just pulled back into LA, and all our families were freaked out. So I had to stay live on the tour bus in.  
 **Translation:** 
 
-**[4671.76s] English:** at a different house and it was fourth of july and I  
-**Translation:** 
+**[4671.76s] English:** At a different house, and it was July 4th, and I  
+**Translation:** Vocabulary: freaked: 惊慌
 
-**[4675.52s] English:** Came in and they were doing an egg toss and they're like, well, you can do an egg toss  
+**[4675.52s] English:** Came in, and they were doing an egg toss. They're like, "Well, you can do an egg toss.  
 **Translation:** 
 
 **[4680.00s] English:** This is how bad my anxiety gets.  
@@ -3718,14 +3719,14 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4681.54s] English:** You can do an egg toss with your daughter, Isla.  
 **Translation:** 
 
-**[4683.02s] English:** So Isla and I did an egg toss, and we fucking got it to like legit like 40 fucking feet  
+**[4683.02s] English:** So, Isla and I did an egg toss, and we fucking got it to like legit 40 fucking feet.  
 **Translation:** Vocabulary: legit: 真实的
 
-**[4689.84s] English:** where I was throwing overhand, lobbing them to her.  
+**[4689.84s] English:** Where I was throwing overhand, lobbing them to her.  
 **Translation:** 
 
 **[4693.02s] English:** And the egg cracked in her hands, and it broke over her face.  
-**Translation:** Vocabulary: lobbing: 斜向上方投掷
+**Translation:** Vocabulary: cracked: 破裂; lobbing: 高抛
 
 **[4696.04s] English:** And I got in bed that night, high on weed, fucking drunk.  
 **Translation:** 
@@ -3733,58 +3734,58 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4699.54s] English:** And I went, what if I gave my daughter COVID from an egg toss?  
 **Translation:** 
 
-**[4703.36s] English:** I go, that would be the most horrific way to kill a child.  
+**[4703.36s] English:** I go: that would be the most horrific way to kill a child.  
 **Translation:** 
 
 **[4706.94s] English:** And she got it from an egg toss.  
-**Translation:** Vocabulary: horrific: 恐怖至极
+**Translation:** Vocabulary: horrific: 恐怖的
 
 **[4708.18s] English:** It broke in her face.  
 **Translation:** 
 
-**[4708.94s] English:** Her dad did COVID.  
+**[4708.94s] English:** Her dad had COVID.  
 **Translation:** 
 
 **[4710.32s] English:** Yeah.  
 **Translation:** 
 
-**[4711.26s] English:** I mean, that's the scariest thing about COVID, I think, is not you dying,  
-**Translation:** Vocabulary: scariest: 最恐怖的
+**[4711.26s] English:** I mean, that's the scariest thing about COVID, I think, is not that you die,  
+**Translation:** Vocabulary: scariest: 最可怕的
 
-**[4716.92s] English:** but because of you, somebody else dies.  
+**[4716.92s] English:** But because of you, somebody else dies.  
 **Translation:** 
 
 **[4720.08s] English:** Oh, I got it.  
 **Translation:** 
 
-**[4721.76s] English:** That's the fear, I think, that really like took hold on people.  
+**[4721.76s] English:** That's the fear I think that really took hold on people.  
 **Translation:** 
 
 **[4725.84s] English:** That's why they were way more cautious than perhaps they needed to be.  
 **Translation:** 
 
-**[4730.30s] English:** It's just like, I don't want to be the guy that's responsible for killing somebody I love  
+**[4730.30s] English:** It's just like, I don't want to be the guy who's responsible for killing somebody I love.  
 **Translation:** 
 
-**[4733.98s] English:** or somebody that somebody else loves.  
+**[4733.98s] English:** Or somebody that someone else loves.  
 **Translation:** 
 
 **[4737.40s] English:** Leanne gave everyone in our family COVID.  
 **Translation:** 
 
-**[4740.54s] English:** She came up to me, and she gave me a hug after Christmas and gives me a hug.  
+**[4740.54s] English:** She came up to me and gave me a hug after Christmas, and she gives me a hug.  
 **Translation:** Vocabulary: christmas: 圣诞节
 
-**[4747.70s] English:** I said, what's the matter?  
+**[4747.70s] English:** I said, "What's the matter?  
 **Translation:** 
 
-**[4748.36s] English:** She goes, I think I have COVID.  
+**[4748.36s] English:** She goes, "I think I have COVID.  
 **Translation:** 
 
 **[4749.80s] English:** I go, bitch, six feet.  
 **Translation:** 
 
-**[4751.52s] English:** What the fuck are you doing?  
+**[4751.52s] English:** What the fuck are you doing?!  
 **Translation:** 
 
 **[4752.42s] English:** Yeah.  
@@ -3796,7 +3797,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4753.92s] English:** Like, fucking.  
 **Translation:** 
 
-**[4755.16s] English:** And then she, we went, and then she had it, and it went away, and we were all fine.  
+**[4755.16s] English:** And then she went and got it checked, and it went away, and we were all fine.  
 **Translation:** 
 
 **[4760.38s] English:** And we're like, okay.  
@@ -3805,31 +3806,31 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4761.70s] English:** We can still go to Park City.  
 **Translation:** 
 
-**[4763.16s] English:** So we all go to Park City.  
+**[4763.16s] English:** So, we all go to Park City.  
 **Translation:** 
 
-**[4764.36s] English:** Then Georgia gets COVID.  
+**[4764.36s] English:** Then, Georgia gets COVID.  
 **Translation:** 
 
-**[4766.16s] English:** And then Georgia starts crying.  
+**[4766.16s] English:** And then, Georgia starts crying.  
 **Translation:** 
 
-**[4767.22s] English:** And she goes, I think I gave you COVID.  
+**[4767.22s] English:** And she goes, "I think I gave you COVID.  
 **Translation:** 
 
-**[4768.78s] English:** And I was like, I'm fine.  
+**[4768.78s] English:** And I was like, "I'm fine.  
 **Translation:** 
 
-**[4769.44s] English:** She goes, you're in.  
+**[4769.44s] English:** She goes, "You're in.  
 **Translation:** 
 
 **[4770.00s] English:** I risk.  
 **Translation:** 
 
-**[4770.54s] English:** And I'm like, what?  
+**[4770.54s] English:** And I'm like, "What?  
 **Translation:** 
 
-**[4771.12s] English:** She's like, you're a fat alcoholic.  
+**[4771.12s] English:** She's like, "You're a fat alcoholic.  
 **Translation:** 
 
 **[4772.68s] English:** I'm like, whoa, easy.  
@@ -3841,7 +3842,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4774.10s] English:** What about feelings?  
 **Translation:** 
 
-**[4775.26s] English:** And then Georgia got COVID.  
+**[4775.26s] English:** And then, Georgia got COVID.  
 **Translation:** 
 
 **[4777.00s] English:** Me and Isla were still in Park City.  
@@ -3850,8 +3851,8 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4778.68s] English:** Leanne had it.  
 **Translation:** 
 
-**[4779.68s] English:** My tour bus came up, picked Georgia up.  
-**Translation:** 
+**[4779.68s] English:** My tour bus came up and picked Georgia up.  
+**Translation:** Vocabulary: leanne: 莱恩
 
 **[4781.70s] English:** Georgia and Leanne took her back to LA.  
 **Translation:** 
@@ -3883,355 +3884,355 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[4797.98s] English:** And Isla's like, if you gave me COVID.  
 **Translation:** 
 
-**[4799.84s] English:** I was like, I'm fine.  
+**[4799.84s] English:** I was like, "I'm fine.  
 **Translation:** 
 
-**[4800.00s] English:** covid and then she never got covid she never got covid uh you mentioned ipas what's the lay of the  
+**[4800.00s] English:** Covid, and then she never got Covid. She never got Covid, uh. You mentioned IPAS; what's the lay of the land?  
 **Translation:** 
 
-**[4807.34s] English:** land of great beers in um in this expansive world of ours i like pilsners i'm a pilsner guy i'm an  
+**[4807.34s] English:** Land of great beers in this expansive world of ours, I like pilsners; I'm a pilsner guy.  
 **Translation:** 
 
-**[4814.78s] English:** ice cold beer guy ice cold pilsner i like an ice cold beer i like an ice cold one of the best beer  
-**Translation:** Vocabulary: expansive: 广阔; pilsner: 皮尔森; pilsners: 皮尔森
+**[4814.78s] English:** Ice-cold beer, guy! I like an ice-cold Pilsner. I like an ice-cold one; it's the best beer.  
+**Translation:** Vocabulary: expansive: 广阔的; pilsner: 皮尔森啤酒; pilsners: 皮尔森啤酒
 
-**[4822.30s] English:** buzzes i ever had is uh we had bought a new house but we weren't building it and i and over covid i  
+**[4822.30s] English:** Buzzes, I've ever had is that we had bought a new house, but we weren't building it, and I... and over COVID.  
 **Translation:** 
 
-**[4829.40s] English:** didn't drink for like three months four months until we decided to go back out on tour and we  
+**[4829.40s] English:** Didn't drink for like three to four months until we decided to go back out on tour, and we  
+**Translation:** Vocabulary: buzzes: 震动
+
+**[4834.50s] English:** Figured that out, and I was in the backyard when Leanne came back with like two tall boys of German.  
 **Translation:** 
 
-**[4834.50s] English:** figured that out and i was in the backyard and leanne came back with like two tall boy german  
+**[4839.44s] English:** Pilsners and cracked them. She goes, "Let's have a beer," and I was like, "Fuck yeah!" And man, that second.  
+**Translation:** Vocabulary: backyard: 后院; cracked: 打开
+
+**[4846.40s] English:** That beer buzz is different than anything because, the second it touches you, you feel the sparkle.  
 **Translation:** 
 
-**[4839.44s] English:** pilsners and cracked them she goes let's have a beer and i was like fuck yeah and man that second  
-**Translation:** Vocabulary: backyard: 后院
+**[4852.42s] English:** And you're just like, "Yeah, baby, I'm back," and then she's like, "You want another one?" I'm like, "Fuck yeah!  
+**Translation:** Vocabulary: sparkle: 闪光
 
-**[4846.40s] English:** that beer buzz is different than anything because the second it it touches you you feel the sparkle  
+**[4859.40s] English:** And then we have another one, and then that beer buzz is especially in the afternoon.  
 **Translation:** 
 
-**[4852.42s] English:** and you're just like yeah baby i'm back and then she's like you want another one i'm like fuck yeah  
+**[4865.26s] English:** It's just so pretty; it's different than a night beer buzz. Night beer buzz is like, oh, I guess we'll have.  
 **Translation:** 
 
-**[4859.40s] English:** and then we have another one and then and that beer buzz is especially afternoon beer buzz  
+**[4870.64s] English:** A beer, and then I'll have a couple. I've got to go to work tomorrow, so see you in the afternoon.  
 **Translation:** 
 
-**[4865.26s] English:** is just so pretty it's different than a night beer buzz night beer buzz is like oh i guess we'll have  
+**[4873.92s] English:** Irresponsible beer, buzz pilsner, pilsner. There's; I don't mind an IPA, but it's got to be out of  
+**Translation:** Vocabulary: irresponsible: 不负责任的
+
+**[4881.40s] English:** It's got to be somewhere I have to be, and there has to be an IPA, like I like a.  
 **Translation:** 
 
-**[4870.64s] English:** a beer and then i'll have a couple i gotta go to work tomorrow all right but that afternoon  
-**Translation:** 
-
-**[4873.92s] English:** irresponsible beer buzz pilsner pilsner there's i don't mind an ipa but it's got to be out of  
-**Translation:** Vocabulary: irresponsible: 不负责任
-
-**[4881.40s] English:** it's got i got to be at somewhere i got to be at somewhere they got to have an ipa like i like a  
-**Translation:** 
-
-**[4889.40s] English:** enjoying an ipa uh i i threw up an ipa in a bathtub in uh salt lake city one time  
+**[4889.40s] English:** Enjoying an IPA, uh, I threw up an IPA in a bathtub in Salt Lake City one time.  
 **Translation:** Vocabulary: bathtub: 浴缸
 
-**[4896.70s] English:** what do you mean oh you threw up in the bathtub okay no no no i was drinking in the bathtub  
+**[4896.70s] English:** What do you mean? Oh, you threw up in the bathtub? Okay, no, no, no, I was drinking in the bathtub.  
 **Translation:** 
 
-**[4901.86s] English:** like bathtub with some water in it or no no no you're sitting in the bathtub no i'm getting  
+**[4901.86s] English:** Like a bathtub with some water in it, or no, no, no—you're sitting in the bathtub. No, I'm getting...  
 **Translation:** 
 
-**[4906.86s] English:** ready to take a shower and i had a growler of ipa yeah it's about six in the morning yeah i have to  
+**[4906.86s] English:** Ready to take a shower, and I had a growler of IPA. Yeah, it's about six in the morning. Yeah, I have to.  
 **Translation:** 
 
-**[4911.84s] English:** fly that day to vegas to jump off the stratosphere yeah all i need is a little bit of a buzz to get  
-**Translation:** Vocabulary: growler: 带盖啤酒罐; stratosphere: 高空跳伞; vegas: 拉斯维加斯
+**[4911.84s] English:** Fly that day to Vegas to jump off the Stratosphere? Yeah, all I need is a little bit of a buzz to get.  
+**Translation:** Vocabulary: growler: 带盖的容器; stratosphere: 高空; vegas: 拉斯维加斯
 
-**[4917.42s] English:** myself on this fucking plane yeah i have anxiety going  
+**[4917.42s] English:** Myself on this fucking plane, yeah, I have anxiety going.  
 **Translation:** 
 
-**[4920.00s] English:** threw my fucking head because i'm jumping the first person to jump off stratosphere  
+**[4920.00s] English:** Threw my fucking head back because I'm jumping the first person to jump off Stratosphere.  
 **Translation:** 
 
-**[4923.40s] English:** and so i'm drinking an ipa out of a growler in a bathtub at six in the morning  
+**[4923.40s] English:** And so, I'm drinking an IPA out of a growler in a bathtub at six in the morning.  
 **Translation:** 
 
-**[4928.44s] English:** and it just didn't sit right and i threw it up and i was off ipas for like 10 fucking years  
+**[4928.44s] English:** And it just didn't sit right, and I threw it up, and I was off IPAs for like 10 fucking years.  
 **Translation:** 
 
-**[4935.50s] English:** i didn't have another ipa until i was like 46 because i was like all i could think about  
+**[4935.50s] English:** I didn't have another IPA until I was like 46, because all I could think about was...  
 **Translation:** 
 
-**[4941.06s] English:** was throwing up that ipa in a bathtub in a shower and being like i mean i'm gonna throw up thinking  
+**[4941.06s] English:** Was throwing up that IPA in a bathtub in a shower, and being like, "I mean, I'm gonna throw up—thinking...  
 **Translation:** 
 
-**[4947.66s] English:** about it but yeah i don't i didn't fuck with ipas for a while and then during the pandemic i got it  
+**[4947.66s] English:** About it, but yeah, I didn't mess with IPAs for a while, and then during the pandemic, I got into them again.  
 **Translation:** 
 
-**[4951.92s] English:** i got back into ipas i was that way with jack and coke jack daniels and coke really got so drunk  
-**Translation:** Vocabulary: pandemic: 全球疫情
+**[4951.92s] English:** I got back into IPAs, just like I did with Jack and Coke (Jack Daniel's and Coke). Really, I got so drunk.  
+**Translation:** Vocabulary: pandemic: 全球大流行
 
-**[4958.90s] English:** many many years ago that just couldn't look at it i can't touch i can't touch uh uh what's janice  
+**[4958.90s] English:** Many, many years ago, I just couldn't look at it. I can't touch it. Uh, uh, what's Janice?  
 **Translation:** 
 
-**[4967.48s] English:** joplin's drink southern comfort i can't touch southern comfort she's just drinking straight  
+**[4967.48s] English:** Joplin's drink Southern Comfort. I can't touch Southern Comfort; she's just drinking straight.  
+**Translation:** Vocabulary: janice: 简西
+
+**[4971.42s] English:** Uh, well, Southern Comfort is at 40 percent—that's hard, no, it's almost like a liqueur, honestly; it's really  
 **Translation:** 
 
-**[4971.42s] English:** uh well southern comfort is at 40 that's hard no it's almost like a liqueur honestly it's really  
+**[4976.90s] English:** Sweet, yeah.  
+**Translation:** Vocabulary: liqueur: 利口酒
+
+**[4977.64s] English:** Jack, Jack, double Jack on the rocks, lots of rocks, yeah. I mean, I had a quote that I got a video that.  
 **Translation:** 
 
-**[4976.90s] English:** sweet yeah  
-**Translation:** Vocabulary: liqueur: 酒液
+**[4983.56s] English:** Went viral: "I'll never quit drinking." Yeah, and I have not gotten on a plane since that.  
+**Translation:** Vocabulary: viral: 迅速传播的
 
-**[4977.64s] English:** jack jack double jack on the rocks lots of rocks yeah i mean i had a quote that i got a video that  
+**[4989.48s] English:** Without having a flight attendant, not even asking what I want, they walked up with a double jack on the  
 **Translation:** 
 
-**[4983.56s] English:** went viral about i'll never quit drinking yeah and uh i have not gotten on a plane since that  
-**Translation:** Vocabulary: viral: 病毒性的
+**[4993.76s] English:** Rocks—lots of rocks. I mean, it happens so often. I don't want to drink, yeah. I flew to Austin the  
+**Translation:** Vocabulary: attendant: 乘务员
 
-**[4989.48s] English:** without having a flight attendant not even ask what i want walk up with a double jack on the  
+**[4999.74s] English:** One other day, I was like, "I'm not drinking on the plane because I felt sick," yeah, and man, he walked up.  
 **Translation:** 
 
-**[4993.76s] English:** rocks lots of rocks i mean it happens so on times i don't want to drink yeah i flew to austin the  
+**[5005.64s] English:** Goes double jack on the rocks, lots of rocks. I was like,...  
 **Translation:** 
 
-**[4999.74s] English:** other day i was like i'm not drinking on the plane because i felt sick yeah and man he walked up he  
+**[5007.64s] English:** Fuck, you know it, yeah, but yeah, that's my drink, uh, uh, wait, what's your drink? I thought you'd  
 **Translation:** 
 
-**[5005.64s] English:** goes double jack on the rocks lots of rocks i was like  
-**Translation:** 
-
-**[5007.64s] English:** fuck you know it yeah but yeah that's that's my drink uh uh wait what's your drink i thought you'd  
-**Translation:** 
-
-**[5014.36s] English:** be a vodka guy well uh vodka i associate with a lot of moments in my life of happiness because  
+**[5014.36s] English:** Be a vodka guy, well, uh, vodka I associate with a lot of moments in my life of happiness because.  
 **Translation:** Vocabulary: vodka: 伏特加
 
-**[5023.38s] English:** vodka is associated with shots and camaraderie and there's eastern europe in general a bunch of  
+**[5023.38s] English:** Vodka is associated with shots and camaraderie, and there's Eastern Europe in general, a bunch of  
 **Translation:** 
 
-**[5030.94s] English:** guys get together and you celebrate life intensely yeah people fight people fight people fight people  
-**Translation:** Vocabulary: camaraderie: 同袍情谊; intensely: 激烈地
+**[5030.94s] English:** Guys, get together and you celebrate life intensely, yeah. People fight, people fight, people fight.  
+**Translation:** Vocabulary: camaraderie: 同伴情谊; intensely: 激烈地
 
-**[5037.64s] English:** just feel people experience life  
+**[5037.64s] English:** Just feel how people experience life.  
 **Translation:** 
 
-**[5040.00s] English:** in a deep way just get too drunk for for like for a reason but i don't see that as like drinking  
+**[5040.00s] English:** In a deep way, I just get too drunk for no real reason, but I don't see that as drinking.  
 **Translation:** 
 
-**[5048.36s] English:** drinking that's like a a journey towards the destination it's like uh to me drinking is like  
+**[5048.36s] English:** Drinking is like a journey towards the destination; it's like, to me, drinking is like.  
 **Translation:** 
 
-**[5055.28s] English:** whiskey neat or beer like you said ice cold beer yeah there's that afternoon beer like for a person  
+**[5055.28s] English:** Whiskey neat, or beer—like you said, ice-cold beer? Yeah, there's that afternoon beer, like for a person.  
+**Translation:** Vocabulary: whiskey: 威士忌
+
+**[5061.52s] English:** Like me, who's extremely regimented and disciplined, sometimes you'll get a situation. I just remember  
 **Translation:** 
 
-**[5061.52s] English:** like me who's extremely regimented and disciplined sometimes you'll get the situation i just remember  
+**[5068.98s] English:** I mean, just to remember, there's a bar at MIT where I recall there was something happening in the afternoon.  
+**Translation:** Vocabulary: disciplined: 有纪律; regimented: 严格有序
+
+**[5073.66s] English:** Like a business meeting, I sat down. We started with a beer, and they were really crisply cold.  
 **Translation:** 
 
-**[5068.98s] English:** i mean just i remember uh there's a bar at mit where i just remember in the afternoon there was  
-**Translation:** Vocabulary: disciplined: 有纪律; regimented: 严格规定
-
-**[5073.66s] English:** like a business meeting i sat down we started with a beer and they're like really crisply cold  
-**Translation:** 
-
-**[5079.30s] English:** uh some kind of lager and then just one beer and two beers and all of a sudden you say  
+**[5079.30s] English:** Uh, some kind of lager, and then just one beer and two beers, and all of a sudden you say...  
 **Translation:** Vocabulary: crisply: 清爽; lager: 拉格啤酒
 
-**[5084.60s] English:** fuck it let's just the rest of the day this is what this is and you said bright like you just  
+**[5084.60s] English:** Fuck it, let's just get through the rest of the day. This is what this is, and you said "bright" like you just  
 **Translation:** 
 
-**[5092.08s] English:** like and nature is beautiful out there and you just said fuck it to all the meetings  
+**[5092.08s] English:** Like, and nature is beautiful out there, and you just said "fuck it" to all the meetings.  
 **Translation:** 
 
-**[5097.22s] English:** fuck it to everything else  
+**[5097.22s] English:** Fuck it to everything else.  
 **Translation:** 
 
-**[5098.76s] English:** you  
+**[5098.76s] English:** You.  
 **Translation:** 
 
-**[5098.98s] English:** just the camaraderie the just talking about life being silly being you know all of that see that  
+**[5098.98s] English:** Just the camaraderie, the just talking about life, being silly, being you know, all of that, see?  
 **Translation:** 
 
-**[5105.88s] English:** see you're describing something i'll never get because i'm not regimented i would love i would  
+**[5105.88s] English:** See, you're describing something I'll never get because I'm not regimented. I would love to experience it.  
 **Translation:** 
 
-**[5112.20s] English:** love i would love only for the moment that you get to have you get the most precious  
+**[5112.20s] English:** Love; I would love only for the moment that you get to have the most precious.  
 **Translation:** 
 
-**[5117.70s] English:** little angel's breath that anyone's gonna get because you live this life that's dialed in  
+**[5117.70s] English:** Little Angel's breath; that's anyone's guess, because you live this life that's dialed in.  
+**Translation:** Vocabulary: dialed: 调定
+
+**[5123.62s] English:** And it's scheduled, and so when you say "fuck it," it's like that's exactly what I'm doing.  
 **Translation:** 
 
-**[5123.62s] English:** and it's scheduled and so when you say fuck it it's like that's like me doing  
+**[5128.76s] English:** Coke, like, oh fuck, it, like, and you can just do that with beer—that is fucking amazing. I  
 **Translation:** 
 
-**[5128.76s] English:** coke like it's like oh fuck it like and you can just do that with beer that is fucking amazing i  
+**[5136.10s] English:** I would love to live a regimented life, just to get the chance to say, "Hey, guys, I'm not performing surgery.  
 **Translation:** 
 
-**[5136.10s] English:** would love to live a regimented life just to get the chance to go hey guys i'm not performing surgery  
+**[5143.82s] English:** Today, fuck it, hey guys. Yeah, this bus full of kids has got to drive itself home.  
 **Translation:** 
 
-**[5143.82s] English:** today fuck it hey guys yeah this this bus full of kids kids gotta it's gotta drive itself home  
+**[5150.54s] English:** Fuck it, I couldn't even tell you, you know, what's so interesting about me and you.  
 **Translation:** 
 
-**[5150.54s] English:** fuck it i couldn't even i couldn't even tell you you know what's so interesting about me and you  
+**[5156.74s] English:** You know, I'm a fan of yours.  
 **Translation:** 
 
-**[5156.74s] English:** you know i'm a fan of yours  
+**[5158.76s] English:** I couldn't even.  
 **Translation:** 
 
-**[5158.76s] English:** i couldn't even  
-**Translation:** 
-
-**[5160.00s] English:** don't really know what ai is like other than like dildos or ai right like like if it has some  
+**[5160.00s] English:** Don't really know what AI is, like dildos or something, right? Like, if it has some.  
 **Translation:** Vocabulary: dildos: 玩具
 
-**[5167.88s] English:** electronics in it no i don't think a dildo classifies as a robot because i thought that's  
+**[5167.88s] English:** Electronics in it, no. I don't think a dildo classifies as a robot because I thought that's  
 **Translation:** 
 
-**[5174.08s] English:** how they were going to take over fucking mankind just well they start with these the fucking  
-**Translation:** Vocabulary: classifies: 归类; dildo: 振动棒
+**[5174.08s] English:** How they were going to take over fucking mankind, just well, they start with these fucking  
+**Translation:** Vocabulary: classifies: 归类; electronics: 电子设备
 
-**[5178.92s] English:** womanizer that knows how to eat a pussy and then they're like we don't need men anymore but like  
+**[5178.92s] English:** Womanizer that knows how to eat a pussy, and then they're like, "We don't need men anymore," but like,...  
 **Translation:** 
 
-**[5182.54s] English:** it's so interesting that i couldn't even like i can barely tell you what my dad does for a living  
+**[5182.54s] English:** It's so interesting that I couldn't even tell you what my dad does for a living.  
 **Translation:** Vocabulary: pussy: 女性外阴
 
-**[5187.38s] English:** he's a lawyer i could kind of like he's called me and say hey man you gotta stop talking about  
+**[5187.38s] English:** He's a lawyer; I could kind of see why he's called me and say, "Hey, man, you gotta stop talking about...  
 **Translation:** 
 
-**[5191.14s] English:** what i do because you're not doing it right i go what do you mean he's like that's not whatever  
+**[5191.14s] English:** What I do, because you're not doing it right, is go, "What do you mean? He's like... that's not...  
 **Translation:** 
 
-**[5194.80s] English:** you're saying i do i don't do and so but like i couldn't even begin to explain your job to my  
+**[5194.80s] English:** You're saying I do, I don't do, and so but like I couldn't even begin to explain your job to my  
 **Translation:** 
 
-**[5201.66s] English:** daughter well i think there's the way you do the job which is the way you experience life the  
+**[5201.66s] English:** Daughter, well, I think there's the way you do the job, which is the way you experience life, the  
 **Translation:** 
 
-**[5207.98s] English:** regimented just even just a nine-to-five job right you do work nine to five no but i work much more  
+**[5207.98s] English:** Regimented, just a nine-to-five job, right? You do work from nine to five, no? But I work much more.  
 **Translation:** 
 
-**[5215.00s] English:** than that yeah but there's no  
-**Translation:** Vocabulary: regimented: 严格管理
-
-**[5216.78s] English:** you  
+**[5215.00s] English:** Than that, yeah, but there's no.  
 **Translation:** 
 
-**[5217.38s] English:** every kind of lifestyle has its complexities i think nine to five means you have to wake up at  
+**[5216.78s] English:** You.  
 **Translation:** 
 
-**[5223.04s] English:** a certain time every day do people tell you to to pull it back and they're like hey you're working  
+**[5217.38s] English:** Every kind of lifestyle has its complexities, I think. Nine-to-five means you have to wake up at  
+**Translation:** Vocabulary: complexities: 复杂性
+
+**[5223.04s] English:** At a certain time every day, people tell you to pull it back and they're like, "Hey, you're working.  
 **Translation:** 
 
-**[5227.22s] English:** too hard yeah a lot of people what i want in my life what i love in my life especially people  
+**[5227.22s] English:** Too hard, yeah. A lot of people, what I want in my life, what I love in my life, especially people.  
 **Translation:** 
 
-**[5232.40s] English:** close to me are the ones that say work harder because everybody how do you get them how do  
+**[5232.40s] English:** Close to me are the ones that say "work harder," because everybody, how do you get them? How do you motivate them?  
 **Translation:** 
 
-**[5237.50s] English:** you get them i don't have anyone in my life that does that everybody's always worried about me  
+**[5237.50s] English:** You get them. I don't have anyone in my life that does that. Everybody's always worried about me.  
+**Translation:** Vocabulary: motivate: 激励
+
+**[5241.44s] English:** Everyone's worried about me. Everyone's always worried about me, the only thing no one ever says.  
 **Translation:** 
 
-**[5241.44s] English:** everyone's worried about me everyone's always worried about me the only thing no one ever says  
+**[5247.38s] English:** Is it true that if you work hard, things can turn out yummy? And but, nothing's been as good in my life as if I showed you my DMs.  
 **Translation:** 
 
-**[5247.38s] English:** is if you work hard yummy and but nothing's like in my life if i showed you my dms right  
+**[5252.68s] English:** Now, my text is all it is like, "Hey, man, I'm worried about you, yeah, like Joe. How I love.  
 **Translation:** 
 
-**[5252.68s] English:** now my text all it is is like hey man i'm worried about you yeah like joe how i love  
+**[5258.20s] English:** Joe to death, not once has he. He always says I don't know if you've seen the "caring Joe" eyes, where...  
 **Translation:** 
 
-**[5258.20s] English:** joe to death not once has he he always i don't know if you've seen the caring joe eyes where  
+**[5263.68s] English:** Like, I'm worried about you; where it's like, "Hey, man, don't do that." Yeah, I'm worried about.  
 **Translation:** 
 
-**[5263.68s] English:** like i'm worried about you where it's like you're like hey man don't do that yeah i'm worried about  
+**[5270.92s] English:** You and you're like, don't worry about me; I'm just working. I love working.  
 **Translation:** 
 
-**[5270.92s] English:** you and you're like don't worry about me i'm working it's i'm just working i love working i  
+**[5276.02s] English:** I can only imagine that you love what you do as much as I love what I do, because that's all I  
 **Translation:** 
 
-**[5276.02s] English:** I can only imagine that you love what you do as much as I love what I do because that's all I  
+**[5280.00s] English:** Ever want to think about it? It's all I ever want to talk about. It's all I ever want.  
 **Translation:** 
 
-**[5280.00s] English:** ever want to think about it's all I ever want to talk about it's all I ever want  
+**[5282.34s] English:** To be like, I, when my wife wants me to take August wherever she's going.  
 **Translation:** 
 
-**[5282.34s] English:** to be like I I when my wife wants me to take August in whatever the August  
+**[5289.96s] English:** Whatever the fuck with September, that's no but like July and August off after we do.  
 **Translation:** 
 
-**[5289.96s] English:** whatever the fuck September that's no but like July and August off after we do  
+**[5295.30s] English:** Fully loaded, and I was like, "No, I was like, 'What do you mean?' Like, so like, well...  
 **Translation:** 
 
-**[5295.30s] English:** fully loaded and I was like no I was like what do you mean like so like well  
+**[5301.36s] English:** Just what am I gonna like sit in a chair and stuff? Signal you can do, take up a  
 **Translation:** 
 
-**[5301.36s] English:** just what am I gonna like sit in a chair and stuff signal you can do take up a  
+**[5305.62s] English:** Hobby, I go writing jokes. Can I get on stage? Can I do sets in the city? Because  
 **Translation:** 
 
-**[5305.62s] English:** hobby I go writing jokes can I get on stage can I do sets in the city because  
+**[5310.54s] English:** I'm not going to do that. You do you want me to? Like, I don't understand what I'm supposed to do.  
 **Translation:** 
 
-**[5310.54s] English:** I'm not gonna fucking you do you want me to like like I don't understand what I  
+**[5313.84s] English:** Don't understand people who don't have the  
 **Translation:** 
 
-**[5313.84s] English:** don't understand people who don't I don't understand people don't have the  
+**[5316.24s] English:** Drive to work all the time—I don't understand that. I envy it. I am BX. I go.  
 **Translation:** 
 
-**[5316.24s] English:** drive to work all the time I don't understand that I envy it I am BX I go I  
+**[5321.16s] English:** Would love to just be, like, "I'm gonna play video games," but I can't play a video.  
 **Translation:** 
 
-**[5321.16s] English:** would love to just be like I'm gonna play video games I can't play a video  
+**[5325.22s] English:** Game, if I did, I'll be on Twitch trying to make money. Like, I love how do you?  
 **Translation:** 
 
-**[5325.22s] English:** game if I did I'll be on Twitch trying to make money like I love how do you  
+**[5330.58s] English:** Find someone who goes, "You need to work harder." Yeah, especially when they see.  
 **Translation:** 
 
-**[5330.58s] English:** find someone who goes you need to work harder yeah especially when they see  
+**[5334.42s] English:** Like, I don't  
 **Translation:** 
 
-**[5334.42s] English:** like I don't  
+**[5335.60s] English:** Know what you look like, but I look tormented when I'm working very hard.  
 **Translation:** 
 
-**[5335.60s] English:** know what you look like but I I look tormented when I'm working very hard  
-**Translation:** 
-
-**[5339.32s] English:** like that it means like it's easy to worry for my well-being it's not like  
+**[5339.32s] English:** Like that, it means it's easy to worry about my well-being; it's not like  
 **Translation:** Vocabulary: tormented: 痛苦不堪
 
-**[5344.84s] English:** I'm happy-go-lucky but I'm happy underneath it my working too hard is  
+**[5344.84s] English:** I'm happy-go-lucky, but I'm happy underneath it all; I'm just working too hard.  
 **Translation:** 
 
-**[5349.58s] English:** like on a plane every other day or every day getting up at 6 working out and then  
+**[5349.58s] English:** Like on a plane, every other day or every day, getting up at 6, working out, and then  
+**Translation:** Vocabulary: underneath: 在...下面
+
+**[5356.84s] English:** Going into around 2 in the morning or 1 in the morning and then going to sleep and  
 **Translation:** 
 
-**[5356.84s] English:** going into like 2 in the morning or 1 in the morning and then going to sleep and  
+**[5361.46s] English:** Then, getting up at 6, working out, getting on a plane, going to another place, and  
 **Translation:** 
 
-**[5361.46s] English:** then getting up at 6 working out getting on a plane going to another place and  
+**[5365.60s] English:** Like, that's what my job is. It's just a lot of travel, and if I didn't drink.  
 **Translation:** 
 
-**[5365.60s] English:** like that's what my working it's just a lot of travel in mind if I didn't drink  
+**[5369.38s] English:** On planes, I don't think anyone would probably worry about me at all; they'd be  
 **Translation:** 
 
-**[5369.38s] English:** on planes I don't think anyone would probably worry about me at all they'd be  
+**[5371.72s] English:** Like, no, you're doing great, but the workout is there, so I've got to ask you.  
 **Translation:** 
 
-**[5371.72s] English:** like no you're doing great but the working out is there so I gotta ask you  
+**[5375.20s] English:** Because you and I seem to have a similar relationship with running, I like this.  
 **Translation:** 
 
-**[5375.20s] English:** because you and I seem to have a similar relationship with running I like this  
+**[5378.60s] English:** The idea of slow treadmill running—I like running slow, yeah, you know, like a 10-minute mile.  
 **Translation:** 
 
-**[5378.60s] English:** idea of slow treadmill I like running slow yeah you know like a 10-minute mile  
-**Translation:** 
-
-**[5385.64s] English:** or something like this so I'll just run forever just listen to an audiobook  
+**[5385.64s] English:** Or something like this, so I'll just run forever and just listen to an audiobook.  
 **Translation:** Vocabulary: audiobook: 有声书; treadmill: 跑步机
 
-**[5389.66s] English:** listen to brown noise think I love it what's brown noise it's actually brownie  
+**[5389.66s] English:** Listen to brown noise; I love it! What's brown noise? It's actually like a brownie.  
 **Translation:** 
 
-**[5395.36s] English:** and noise but short brown noise it's kind of like white noise but deeper  
-**Translation:** Vocabulary: brownie: 布朗尼蛋糕
+**[5395.36s] English:** And noise, but short and brown noise; it's kind of like white noise, but deeper.  
+**Translation:** Vocabulary: brownie: 巧克力曲奇
 
-**[5400.00s] English:** So it's just noise like that.  
+**[5400.00s] English:** So, it's just noise like that.  
 **Translation:** 
 
 **[5403.62s] English:** Oh, wow.  
@@ -4240,34 +4241,34 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5404.32s] English:** It kind of sounds like a waterfall.  
 **Translation:** 
 
-**[5405.98s] English:** And I'll just listen to it and something happens to me.  
+**[5405.98s] English:** And I'll just listen to it, and something happens to me.  
+**Translation:** Vocabulary: waterfall: 瀑布
+
+**[5408.16s] English:** I think there's something you can ask Huberman about this.  
 **Translation:** 
 
-**[5408.16s] English:** I think there's, you can ask Huberman about this.  
-**Translation:** 
-
-**[5410.42s] English:** I don't, but apparently there's some science  
+**[5410.42s] English:** I don't, but apparently there's some science.  
 **Translation:** Vocabulary: huberman: 胡伯曼
 
-**[5412.34s] English:** that kind of focuses the mind and so on.  
+**[5412.34s] English:** That kind of focuses the mind, and so on.  
 **Translation:** 
 
-**[5414.80s] English:** It's funny because I think sometimes  
+**[5414.80s] English:** It's funny because I think sometimes.  
 **Translation:** 
 
-**[5417.32s] English:** what people don't get about running is they go,  
+**[5417.32s] English:** What people don't get about running is that they go,  
 **Translation:** 
 
-**[5420.74s] English:** they get on and they put it on like a six right away  
+**[5420.74s] English:** They get on and put it on like a six right away.  
 **Translation:** 
 
-**[5423.00s] English:** on like a treadmill and they go,  
+**[5423.00s] English:** On like a treadmill, and they go.  
 **Translation:** 
 
 **[5424.66s] English:** I can't do this for fucking 30 minutes.  
 **Translation:** 
 
-**[5426.58s] English:** But you can if you build yourself up to your six.  
+**[5426.58s] English:** But you can, if you build yourself up to your sixth level.  
 **Translation:** 
 
 **[5430.00s] English:** And you play games.  
@@ -4276,49 +4277,49 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5431.06s] English:** I play games with myself a lot.  
 **Translation:** 
 
-**[5432.44s] English:** Like I'll play games where I go,  
+**[5432.44s] English:** Like, I'll play games where I go,  
 **Translation:** 
 
-**[5435.60s] English:** and I can do this, I can do this.  
+**[5435.60s] English:** And I can do this. I can do this.  
 **Translation:** 
 
-**[5437.32s] English:** I can do this almost, not all day long,  
+**[5437.32s] English:** I can do this almost, but not all day long.  
 **Translation:** 
 
-**[5439.30s] English:** but I can do this a lot longer.  
+**[5439.30s] English:** But I can do this a lot longer.  
 **Translation:** 
 
-**[5441.00s] English:** Like I did it for two hours the other day  
+**[5441.00s] English:** Like, I did it for two hours the other day.  
 **Translation:** 
 
-**[5442.62s] English:** before my workout, or no, an hour and a half  
+**[5442.62s] English:** Before my workout, or no, an hour and a half.  
 **Translation:** 
 
-**[5445.02s] English:** before my workout where I started a 3.5 walking.  
+**[5445.02s] English:** Before my workout, where I started with a 3.5 walk.  
 **Translation:** 
 
-**[5450.98s] English:** And then I get my jog up to like a five  
+**[5450.98s] English:** And then I get my jog up to about five.  
 **Translation:** 
 
-**[5453.32s] English:** and then I'm like 5.5, then I go six.  
+**[5453.32s] English:** And then I'm 5.5, then I go to 6.  
 **Translation:** 
 
 **[5455.60s] English:** And then I go, and once I'm at a six,  
 **Translation:** 
 
-**[5457.14s] English:** my body's really loose.  
+**[5457.14s] English:** My body's really loose.  
 **Translation:** 
 
-**[5458.64s] English:** And so then I'll go, all right,  
+**[5458.64s] English:** And so then I'll go, "All right,  
 **Translation:** 
 
-**[5459.70s] English:** bring it down to a 3.5.  
+**[5459.70s] English:** Bring it down to 3.5.  
 **Translation:** 
 
-**[5460.84s] English:** And then I go punch it to a 7.5 for a quarter of a mile.  
+**[5460.84s] English:** And then I go punch it to a 7.5 for a quarter-mile.  
 **Translation:** 
 
-**[5463.62s] English:** And then let's walk at a four.  
+**[5463.62s] English:** And then let's walk at four.  
 **Translation:** 
 
 **[5465.60s] English:** Let's jog at a five.  
@@ -4327,22 +4328,22 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5466.70s] English:** I can do that.  
 **Translation:** 
 
-**[5468.50s] English:** I love, they're called fartlets, I think.  
+**[5468.50s] English:** I love them; they're called fartlets, I think.  
 **Translation:** 
 
 **[5471.68s] English:** And I love those, like where it's like,  
 **Translation:** Vocabulary: fartlets: 小屁屁声
 
-**[5474.48s] English:** it's regimented running and sprinting at certain levels.  
+**[5474.48s] English:** It's regimented running and sprinting at certain levels.  
 **Translation:** 
 
 **[5478.60s] English:** I love that.  
 **Translation:** Vocabulary: regimented: 严格训练; sprinting: 短跑
 
-**[5479.10s] English:** And I love also when I work out to listen to music,  
+**[5479.10s] English:** And I love also listening to music when I work out.  
 **Translation:** 
 
-**[5482.88s] English:** but put on foreign language cooking shows on Netflix.  
+**[5482.88s] English:** But put on foreign language cooking shows on Netflix.  
 **Translation:** 
 
 **[5486.22s] English:** Can you explain that?  
@@ -4355,7 +4356,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[5489.56s] English:** For some reason, they're sexier.  
-**Translation:** 
+**Translation:** Vocabulary: sexier: 更性感
 
 **[5490.94s] English:** The way they're shot, they're sexier.  
 **Translation:** 
@@ -4363,7 +4364,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5492.40s] English:** Yeah.  
 **Translation:** 
 
-**[5492.74s] English:** And it's like street food Asia.  
+**[5492.74s] English:** And it's like street food in Asia.  
 **Translation:** 
 
 **[5495.02s] English:** And they're just watching them make street food in Asia.  
@@ -4378,10 +4379,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5500.54s] English:** And they're just making broths.  
 **Translation:** 
 
-**[5502.10s] English:** And you're like, fuck, I want some broth.  
-**Translation:** 
+**[5502.10s] English:** And you're like, "fuck, I want some broth.  
+**Translation:** Vocabulary: broths: 汤
 
-**[5504.26s] English:** So this is South America, this is Asia.  
+**[5504.26s] English:** So, this is South America, and this is Asia.  
 **Translation:** 
 
 **[5506.20s] English:** South America, Asia.  
@@ -4396,14 +4397,14 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5512.38s] English:** I've watched it.  
 **Translation:** 
 
-**[5513.52s] English:** There's like four episodes.  
+**[5513.52s] English:** There are about four episodes.  
 **Translation:** 
 
-**[5515.00s] English:** I've watched every episode so many times  
+**[5515.00s] English:** I've watched every episode so many times.  
 **Translation:** 
 
-**[5516.76s] English:** that my trainer goes, God, that's that fucking,  
-**Translation:** 
+**[5516.76s] English:** That my trainer goes, "God, that's that fucking,  
+**Translation:** Vocabulary: trainer: 教练
 
 **[5519.56s] English:** I would go.  
 **Translation:** 
@@ -4414,13 +4415,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5520.88s] English:** Yeah.  
 **Translation:** 
 
-**[5522.14s] English:** I love watching foreign language cooking shows on mute when I work out.  
+**[5522.14s] English:** I love watching foreign language cooking shows on mute when I workout.  
 **Translation:** 
 
 **[5526.44s] English:** While blasting music.  
 **Translation:** 
 
-**[5527.64s] English:** While blasting hip hop.  
+**[5527.64s] English:** While blasting hip-hop.  
 **Translation:** Vocabulary: blasting: 大声播放
 
 **[5528.26s] English:** She's there.  
@@ -4435,25 +4436,25 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5534.54s] English:** I don't mind hiking.  
 **Translation:** 
 
-**[5536.18s] English:** And I like I do, like, you know what, my fun thing, the fun thing I would do, and this  
+**[5536.18s] English:** And I like to do, like, you know, my fun thing—the fun thing I would do—and this.  
 **Translation:** 
 
-**[5539.20s] English:** is ripped off totally from Cam Haines, is I like to go, there's a great hike called  
-**Translation:** Vocabulary: haines: 海恩斯
+**[5539.20s] English:** Is ripped off totally from Cam Haines. It's like to go; there's a great hike called  
+**Translation:** Vocabulary: haines: 海恩斯; ripped: 抄袭
 
-**[5547.00s] English:** Fryman Canyon out in the valley where I live.  
+**[5547.00s] English:** Fryman Canyon, out in the valley where I live.  
 **Translation:** 
 
-**[5550.00s] English:** And I'd be like, all right, I'm going to run to Fryman Canyon, I'm going to jog to  
-**Translation:** 
+**[5550.00s] English:** And I'd be like, "All right, I'm going to run to Fryman Canyon, I'm going to jog to  
+**Translation:** Vocabulary: canyon: 峡谷
 
 **[5553.14s] English:** Fryman Canyon, I'm going to hike Fryman Canyon, and then I'm going to jog back.  
 **Translation:** 
 
-**[5557.98s] English:** And they go, I wonder how long that is.  
+**[5557.98s] English:** And they go, "I wonder how long that is.  
 **Translation:** 
 
-**[5560.06s] English:** And I go, don't think about it.  
+**[5560.06s] English:** And I say, "Don't think about it.  
 **Translation:** 
 
 **[5561.16s] English:** Just know that that's your thing.  
@@ -4462,10 +4463,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5562.64s] English:** Just know that that's your thing.  
 **Translation:** 
 
-**[5564.24s] English:** And then all of a sudden, you're like, shit, that was eight miles?  
+**[5564.24s] English:** And then all of a sudden, you're like,shit, that was eight miles?  
 **Translation:** 
 
-**[5566.68s] English:** You're like, that's a fucking beast.  
+**[5566.68s] English:** You're like, "That's a fucking beast.  
 **Translation:** 
 
 **[5568.30s] English:** The hike doesn't even feel like anything.  
@@ -4489,22 +4490,22 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5581.36s] English:** I think the name of the park is Hyde Park.  
 **Translation:** 
 
-**[5583.38s] English:** It was, get this, it was 80% downhill.  
+**[5583.38s] English:** It was, get this: it was 80% downhill.  
 **Translation:** 
 
 **[5587.32s] English:** Wow.  
 **Translation:** Vocabulary: downhill: 下坡
 
-**[5588.00s] English:** So this jog, you start at the park, and it was like, and I'll do it like this for you.  
+**[5588.00s] English:** So, this jog starts at the park, and it was like this: I'll do it like this for you.  
 **Translation:** 
 
-**[5592.34s] English:** You went like downhill like this, downhill like this, downhill like this, and then it  
+**[5592.34s] English:** You went downhill like this, downhill like this, downhill like this, and then it  
 **Translation:** 
 
-**[5598.74s] English:** was like a little steep incline to get to the beginning of it.  
+**[5598.74s] English:** It was like a little steep incline to get to the beginning of it.  
 **Translation:** 
 
-**[5602.18s] English:** So it was like a little like nice like lower back pain, and you're like, okay, okay.  
+**[5602.18s] English:** So it was like a little bit of nice, low-back pain, and you're like, "Okay, okay.  
 **Translation:** Vocabulary: incline: 斜坡
 
 **[5606.76s] English:** And then the jog was perfect.  
@@ -4519,7 +4520,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5610.58s] English:** I loved it.  
 **Translation:** 
 
-**[5611.24s] English:** My very first day I did it, a butterfly got in front of me.  
+**[5611.24s] English:** My very first day, I did it, and a butterfly got in front of me.  
 **Translation:** 
 
 **[5615.20s] English:** It's like six in the morning.  
@@ -4531,25 +4532,25 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5617.84s] English:** A butterfly got in front of me, and it ran the whole first mile in front of me, and I  
 **Translation:** 
 
-**[5621.62s] English:** just, it was like so surreal.  
+**[5621.62s] English:** It was like something so surreal.  
 **Translation:** 
 
 **[5623.12s] English:** It would disappear, and then it would show back up in front of me.  
 **Translation:** Vocabulary: surreal: 超现实的
 
-**[5625.76s] English:** You sure it was real?  
+**[5625.76s] English:** Did you sure it was real?  
 **Translation:** 
 
 **[5626.64s] English:** Yeah, definitely real.  
 **Translation:** 
 
-**[5627.84s] English:** And then the next day, and so I go, I'm on the right path.  
+**[5627.84s] English:** And then the next day, and so I go, "I'm on the right path.  
 **Translation:** 
 
 **[5630.54s] English:** I'm on the right path.  
 **Translation:** 
 
-**[5631.62s] English:** The next day I go for a jog, six in the morning, and it rained.  
+**[5631.62s] English:** The next day, I went for a jog at six in the morning, and it rained.  
 **Translation:** 
 
 **[5634.92s] English:** And as I'm doing this steep uphill incline, a tree collapsed in front of me.  
@@ -4558,454 +4559,454 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[5639.42s] English:** It just went.  
 **Translation:** 
 
-**[5640.00s] English:** and i went whoa a tree fell in the woods and i was here to see it shut the fuck up i was like  
+**[5640.00s] English:** And I went, "Whoa, a tree fell in the woods, and I was here to see it! Shut the fuck up!" I was like,...  
 **Translation:** 
 
-**[5646.18s] English:** that's crazy and it didn't hit me i'm on the right path and then i started getting over thinking it  
+**[5646.18s] English:** That's crazy, and it didn't hit me that I'm on the right path, and then I started getting overthinking it.  
 **Translation:** 
 
-**[5650.72s] English:** like the next day i saw a condom and i was like this is a good place to enjoy i was like people  
+**[5650.72s] English:** Like the next day, I saw a condom, and I was like, "This is a good place to enjoy," I was like, "People.  
+**Translation:** Vocabulary: condom: 避孕套; overthinking: 过度思考
+
+**[5654.04s] English:** Fucked up here last night, but yeah, that was one of the best jogs I've ever had. I could do that again.  
 **Translation:** 
 
-**[5654.04s] English:** fucked here last night but but yeah that was one of the best jogs i've ever had i could do that i  
+**[5657.90s] English:** Could run that park every single day; no one jogged that park in Serbia. I actually recently had a  
+**Translation:** Vocabulary: jogged: 慢跑
+
+**[5663.18s] English:** Condom on my doorstep, and I wanted to ask whoever is up there above what that means. What does it mean?  
 **Translation:** 
 
-**[5657.90s] English:** could run that park every single day no one jogged that park in serbia i actually recently had a  
+**[5671.58s] English:** You know, what the story behind that is? Yeah, they say it's just a pissed-off UPS guy I was.  
+**Translation:** Vocabulary: doorstep: 门口
+
+**[5681.28s] English:** It's compromised. What do you mean compromised? Like, was there stuff inside it? Oh, I didn't look.  
 **Translation:** 
 
-**[5663.18s] English:** condom on my doorstep and i wanted to ask whoever is up there above what what that means what the  
+**[5685.50s] English:** I mean, very few people put on a condom and go, "It's not for me; I'm gonna take it off.  
+**Translation:** Vocabulary: compromised: 泄露了
+
+**[5689.32s] English:** Yeah, it's a little tight. It could be to send a message like a horse's head.  
 **Translation:** 
 
-**[5671.58s] English:** you know what the story behind that is yeah they you know just a pissed off ups guy i i just was  
-**Translation:** Vocabulary: condom: 避孕套; doorstep: 门口; pissed: 生气
-
-**[5681.28s] English:** it compromised what do you mean compromised like was there stuff inside it oh i didn't look  
+**[5693.16s] English:** Kind of thing, oh, yeah. I don't know; I don't know what the message is exactly. Do you use condoms?  
 **Translation:** 
 
-**[5685.50s] English:** i mean very few people put on the condom and go it's not for me i'm gonna take it off  
-**Translation:** Vocabulary: compromised: 损害
-
-**[5689.32s] English:** yeah it's a little tight it could be to send a message like a horse's head  
+**[5697.38s] English:** If you had a one-night stand, would you use a condom? I don't know what a condom is; I've never.  
 **Translation:** 
 
-**[5693.16s] English:** kind of thing oh yeah i don't know i don't know what the message is exactly do you use condoms  
+**[5701.22s] English:** Heard call, I'm learning. Good call! I'm learning. I've learned about sex from you today, if my wife finds out.  
+**Translation:** 
+
+**[5707.52s] English:** Dies: There's no condoms in my future. I'll get pregnant. I don't care. Have babies? I don't give a shit.  
+**Translation:** 
+
+**[5711.66s] English:** You're a man of principle; I like it. Uh, Mark Maron wrote something about your book, many many...  
 **Translation:** Vocabulary: condoms: 避孕套
 
-**[5697.38s] English:** if you had a one night stand would you use a condom i don't know what a condom is i never  
+**[5718.64s] English:** Many ages ago, I think there's an interesting life of the party.  
 **Translation:** 
 
-**[5701.22s] English:** heard call i'm learning good call i'm learning i've learned about sex from you today if my wife  
+**[5722.90s] English:** Question:  
 **Translation:** 
 
-**[5707.52s] English:** dies there's no condoms in my future i'll get it i don't care have babies i don't give a shit  
+**[5723.14s] English:** In there, so first of all, he wrote eloquently about you. Burke Reicher is one of the great.  
 **Translation:** 
 
-**[5711.66s] English:** you're a man of principle i like it uh mark maron wrote something about your book many many  
+**[5728.80s] English:** American Wild Men: A Gonzo Warrior, driven not by cynicism or desire to reveal a dark truth, but  
+**Translation:** Vocabulary: eloquently: 流畅地; gonzo: gonzo
+
+**[5736.10s] English:** Instead, it's driven by a deep, almost essential need to have a good time, no matter what. His stories track the  
 **Translation:** 
 
-**[5718.64s] English:** many ages ago life of the party i think is there's an interesting  
+**[5742.58s] English:** Trials and tribulations of a big-hearted dude trying to fit in, help out, and party—and find  
+**Translation:** Vocabulary: tribulations: 苦难
+
+**[5747.64s] English:** Himself, after all is said and done, we arrive with him at the true humility of joy.  
 **Translation:** 
 
-**[5722.90s] English:** question  
+**[5753.14s] English:** So, when was this desire for pure joy born in you? It seems like you are  
+**Translation:** Vocabulary: humility: 谦逊
+
+**[5760.00s] English:** Are driven towards this joy, yeah. I think.  
 **Translation:** 
 
-**[5723.14s] English:** in there so first of all wrote eloquently about you burke reicher is one of the great  
+**[5768.36s] English:** I think I arrived at it in college. I wasn't always the guy I am; I was really a serious  
 **Translation:** 
 
-**[5728.80s] English:** american wild men a gonzo warrior driven not by cynicism or desire to reveal a dark truth but  
-**Translation:** Vocabulary: eloquently: 口才好; gonzo: 狂野的
-
-**[5736.10s] English:** instead by a deep almost essential need to have a good time no matter what his stories track the  
+**[5775.42s] English:** Pretty serious, dude. Like, when I got to college, it was dark and brooding and serious — yeah, I wanted to be.  
 **Translation:** 
 
-**[5742.58s] English:** trials and tribulations of a big-hearted dude trying to fit in help out and party and find  
-**Translation:** Vocabulary: tribulations: 艰难困苦
+**[5780.18s] English:** Like I wanted to be like Eddie Vetter and to be like a poet and a fucking lead singer, and  
+**Translation:** Vocabulary: brooding: 忧郁
 
-**[5747.64s] English:** himself after all is said and done we arrive with him at the true humility of joy  
+**[5784.70s] English:** I wanted to be taken seriously, and I wanted to be attractive, and I wanted to be  
 **Translation:** 
 
-**[5753.14s] English:** so when was this desire for pure joy born in you it seems like you are  
+**[5787.98s] English:** You know, like I wanted to be wanted by chicks and respected by dudes, and...  
+**Translation:** Vocabulary: chicks: 女孩子们; respected: 尊敬
+
+**[5796.26s] English:** Slowly but surely, I think the bird; I really am chipped away at that, and was like.  
 **Translation:** 
 
-**[5760.00s] English:** are driven towards this joy yeah i think  
+**[5802.28s] English:** Hey, man. Like, I would say funny things that would surprise me; they were  
+**Translation:** Vocabulary: chipped: 被磨损
+
+**[5807.34s] English:** So, funny—meaning, like in my fraternity, I'd say things that were the funniest things that I've ever said.  
 **Translation:** 
 
-**[5768.36s] English:** i think i arrived at it in college i wasn't always the guy i am i was really a serious  
+**[5813.46s] English:** How did I think of that? Yes, and then slowly I was like.  
 **Translation:** 
 
-**[5775.42s] English:** pretty serious dude like when i got to college like dark brooding serious yeah i wanted to be  
+**[5816.46s] English:** You.  
 **Translation:** 
 
-**[5780.18s] English:** like i wanted to be like eddie vetter and to be like a poet and a fucking lead singer and  
-**Translation:** Vocabulary: brooding: 深思的
-
-**[5784.70s] English:** i wanted to be taken seriously and i wanted to be attractive and i wanted to be  
+**[5817.98s] English:** And I remember as I chipped away at it, and as I got older, I would lean more.  
 **Translation:** 
 
-**[5787.98s] English:** you know like i wanted to be wanted by chicks and and respected by dudes and you know and  
-**Translation:** Vocabulary: chicks: 女生
-
-**[5796.26s] English:** slowly but surely i think the bird i really am chipped away at that and was like  
+**[5827.62s] English:** Towards that, we would go on a bus trip to Clemson, and I would get on the walkie-talkie.  
 **Translation:** 
 
-**[5802.28s] English:** hey man like i i would say funny i would say funny things that would surprise me they were  
+**[5833.62s] English:** Talkie on the bus, and I would do stand-up for like an hour. I just make jokes for an hour and I...  
+**Translation:** Vocabulary: clemson: 克莱姆森; talkie: 对讲机
+
+**[5839.24s] English:** Loved the impulse of, you know, you get on the bus and everyone's like, "We're gonna drink," and you...  
 **Translation:** 
 
-**[5807.34s] English:** so funny meaning like in my fraternity i'd say things that were the funniest thing that i i go  
+**[5844.14s] English:** Get that one group of girls who wasn't gonna drink, and then to break them; they're like,  
 **Translation:** 
 
-**[5813.46s] English:** how did i think of that yes and then slowly i was like  
+**[5847.98s] English:** Fuck it, fine. Let's drink and then watch that happen. I think.  
 **Translation:** 
 
-**[5816.46s] English:** you  
+**[5853.62s] English:** Then, once I went to Russia, this is so cliché for me to say.  
 **Translation:** 
 
-**[5817.98s] English:** and i remember as that as i chipped away at that and as i got older i would i would i would lean  
+**[5857.92s] English:** But interacting with those young bandits, they were pretty serious dudes; they didn't  
 **Translation:** 
 
-**[5827.62s] English:** towards that we would go on a bus trip to like clemson and i would get on the the the walkie  
+**[5865.92s] English:** They seemed pretty stoic, but when you could make them laugh, it was really something.  
+**Translation:** Vocabulary: bandits: 强盗; interacting: 互动; stoic: 沉着
+
+**[5872.56s] English:** It was a real joy; the silliest things I remember. You know, we were told  
 **Translation:** 
 
-**[5833.62s] English:** talkie on the bus and i would do stand up for like an hour i just make jokes for an hour and i and i  
-**Translation:** Vocabulary: walkie: 对讲机
-
-**[5839.24s] English:** loved the impulse of like you know you get on the bus and everyone's like we're gonna drink and you  
+**[5876.50s] English:** You know, we were told that we were going to drink, and then we were going to...  
 **Translation:** 
 
-**[5844.14s] English:** get that one group of girls that wasn't gonna drink and then to break them and they're like  
+**[5877.96s] English:** It was a club; it's called "It Was Like.  
 **Translation:** 
 
-**[5847.98s] English:** fuck it fine let's drink and then that to to watch that happen and i think  
-**Translation:** 
-
-**[5853.62s] English:** then once i and then when i went to russia this is so cliche for me to say  
-**Translation:** Vocabulary: cliche: 陈词滥调
-
-**[5857.92s] English:** but interacting with those young banditi they were they were pretty serious dudes they didn't  
-**Translation:** 
-
-**[5865.92s] English:** have like they were pretty stoic dudes and when you could make them laugh it was like a real it  
-**Translation:** Vocabulary: stoic: 意志坚强
-
-**[5872.56s] English:** was a real joy the silliest things i remember you know we were told  
-**Translation:** 
-
-**[5876.50s] English:** you know we were told that we were gonna drink and then we were gonna drink and then we were gonna  
-**Translation:** 
-
-**[5877.96s] English:** it was a club it's called it was like it was  
-**Translation:** 
-
-**[5880.00s] English:** called cafe or europa or maybe cafe americana there's where everyone really hung out like all  
+**[5880.00s] English:** Called Cafe, or Europa, or maybe Cafe Americana—there's where everyone really hung out, like all  
 **Translation:** Vocabulary: europa: 欧罗巴
 
-**[5885.46s] English:** the the real dudes the real dudes in saint petersburg and they had told us that like  
+**[5885.46s] English:** The real dudes in Saint Petersburg told us that, like,...  
 **Translation:** 
 
-**[5892.16s] English:** they told us in our class that uh russian women didn't have tampons so they were like bring  
+**[5892.16s] English:** They told us in our class that, uh, Russian women didn't have tampons, so they were like, "bring  
 **Translation:** Vocabulary: petersburg: 圣彼得堡; tampons: 卫生棉条
 
-**[5898.96s] English:** tampons to give to the babushka the davuchka that ran the floor after all this time the fact that  
+**[5898.96s] English:** Tampons to give to the babushka, the davuchka that ran the floor, after all this time: the fact that  
 **Translation:** 
 
-**[5905.98s] English:** your russian sucks is awesome yeah it's you keep mispronouncing words horribly i horribly i'm so  
+**[5905.98s] English:** Your Russian sucks, is awesome, yeah? It's you keep mispronouncing words horribly, I'm so  
 **Translation:** Vocabulary: babushka: 老妇人; davuchka: 小姑娘; horribly: 糟糕地; mispronouncing: 发音错误
 
-**[5912.26s] English:** fucking bad yeah i am so bad you know that's how you know that's how i got the name of the machine  
+**[5912.26s] English:** Fucking bad, yeah. I am so bad. You know, that's how you know that's how I got the name of the machine.  
 **Translation:** 
 
-**[5916.36s] English:** right yeah i was trying to say i'm a machine yeah and i said i'm a car yeah and they just were like  
+**[5916.36s] English:** Right, yeah, I was trying to say I'm a machine, yeah, and I said I'm a car, yeah, and they just were like.  
 **Translation:** 
 
-**[5921.38s] English:** huh and so i came into the room one night with a top pocket full of tampons yeah and they were  
+**[5921.38s] English:** Huh, and so I came into the room one night with a top pocket full of tampons, yeah, and they were  
 **Translation:** 
 
-**[5928.78s] English:** like what are those for i said girls how are we gonna pick up girls and the look on their face  
+**[5928.78s] English:** Like, what are those for? I said, "Guys, how are we gonna pick up girls?" and the look on their face.  
 **Translation:** 
 
-**[5933.32s] English:** was so it was so  
+**[5933.32s] English:** It was so, it was so.  
 **Translation:** 
 
-**[5935.98s] English:** pure joy i remember the first night i pulled out lemons and this is it sounds it sounds make  
+**[5935.98s] English:** Pure joy! I remember the first night I pulled out the lemons, and this is it — sounds made me so happy.  
 **Translation:** 
 
-**[5941.14s] English:** believe now to say it because it's been in the movie and i brought out lemons we were in lemon  
+**[5941.14s] English:** Believe me, now to say it because it's been in the movie. I brought out lemons; we were in lemon.  
 **Translation:** 
 
-**[5945.12s] English:** drops i had vodka and lemons and sugar and a pocket knife and a fanny pack and i put out lemons  
+**[5945.12s] English:** Drops: I had vodka, lemons, and sugar, and a pocket knife and a fanny pack, and I put out lemons.  
 **Translation:** Vocabulary: fanny: 腰包; vodka: 伏特加
 
-**[5951.10s] English:** and and this guy eager goes oh the machine runs on lemons like it was just so foreign that you  
+**[5951.10s] English:** And this guy, eager to learn, goes, "Oh, the machine runs on lemons! That's just so foreign.  
 **Translation:** 
 
-**[5956.98s] English:** would need lemon for them yeah and so i i think and i made friends with those guys like i mean  
+**[5956.98s] English:** Would need lemon for them, yeah, and so I think I made friends with those guys, like, I mean.  
 **Translation:** 
 
-**[5962.02s] English:** like friends whatever you can but like definitely me and that guy eager were  
+**[5962.02s] English:** Like friends, whatever you can, but like, definitely, me and that guy were.  
 **Translation:** 
 
-**[5965.98s] English:** legit friends legit friends like but from a place of joy like yeah it was like it was like real  
-**Translation:** Vocabulary: legit: 真正的
+**[5965.98s] English:** Legit friends, legit friends like, but from a place of joy, like, yeah, it was like, it was real.  
+**Translation:** Vocabulary: legit: 正经的
 
-**[5972.58s] English:** seeing them light up and then i remember backpacking through europe after that and realizing i could  
+**[5972.58s] English:** Seeing them light up, and then I remember backpacking through Europe after that, realizing I could.  
 **Translation:** 
 
-**[5977.94s] English:** bring a spark of fun to like a campfire and i had little tricks like i learned all the currencies  
-**Translation:** Vocabulary: backpacking: 背包旅行; campfire: 篝火
+**[5977.94s] English:** Bring a spark of fun, like a campfire, and I had little tricks, like learning all the currencies.  
+**Translation:** Vocabulary: backpacking: 背包旅行; campfire: 篝火; currencies: 货币
 
-**[5983.96s] English:** around the world and so i i challenged people to a currency game i go let's go head to head you say  
+**[5983.96s] English:** Around the world, and so I challenged people to a currency game: "Let's go head-to-head. You say,  
 **Translation:** 
 
-**[5990.68s] English:** you you name a country in the currency and i'll name a country in the currency and i would i would  
+**[5990.68s] English:** You name a country, I'll name a country in its currency, and I'd be happy to.  
 **Translation:** 
 
-**[5995.98s] English:** roll them i just do all the dollars right the chinese dollar the american dollar the australian  
+**[5995.98s] English:** Roll them. I just do all the dollars: the Chinese dollar, the American dollar, the Australian dollar.  
 **Translation:** 
 
-**[6000.00s] English:** I'd run through all the dollars and they'd be like you only know the dollars and then and then I get start getting really deep  
+**[6000.00s] English:** I'd run through all the dollars, and they'd be like "you only know the dollars," and then, and then I get really deep.  
 **Translation:** 
 
-**[6004.56s] English:** I could make an event out of a night in in Europe. I could make an event. I remember we were in  
+**[6004.56s] English:** I could make an event out of a night in in Europe. I could make an event. I remember we were in...  
 **Translation:** 
 
 **[6012.28s] English:** Strasburg and  
 **Translation:** Vocabulary: strasburg: 斯特拉斯堡
 
-**[6013.98s] English:** The bar was supposed to close but I had friends coming to the bar. They had the train hadn't gotten  
+**[6013.98s] English:** The bar was supposed to close, but I had friends coming to the bar. They had the train hadn't gotten.  
 **Translation:** 
 
-**[6018.76s] English:** in in yet and I said I  
+**[6018.76s] English:** In, in, yet, and I said, I  
 **Translation:** 
 
-**[6022.70s] English:** Said don't close the bar. I'll stand on the bar and I'll entertain everyone in this room. I'll dance  
+**[6022.70s] English:** Said, "Don't close the bar. I'll stand on the bar and I'll entertain everyone in this room. I'll dance.  
 **Translation:** 
 
-**[6027.60s] English:** I'll do whatever if you could just keep the bar open and the guy goes if you can keep me laughing  
+**[6027.60s] English:** I'll do whatever if you could just keep the bar open, and the guy goes, "If you can keep me laughing.  
 **Translation:** 
 
-**[6032.16s] English:** I'll keep the bar open and I  
+**[6032.16s] English:** I'll keep the bar open, and I  
 **Translation:** 
 
-**[6035.20s] English:** danced and  
+**[6035.20s] English:** Danced and  
 **Translation:** 
 
-**[6036.76s] English:** And made this guy laugh on a bar for legit  
+**[6036.76s] English:** And made this guy laugh in a bar for legit.  
 **Translation:** 
 
-**[6040.24s] English:** I'm not even like a legit 30 minutes until my friends walked in and they're like what the fuck's going on  
+**[6040.24s] English:** I'm not even like a legit 30 minutes until my friends walked in, and they're like, "What the fuck is going on?  
 **Translation:** 
 
-**[6046.50s] English:** I had this ability to  
+**[6046.50s] English:** I had this ability to.  
 **Translation:** 
 
-**[6050.56s] English:** Without humility I had mine looking like a fool and like doing and there were really stupid jokes at the time  
+**[6050.56s] English:** Without humility, I had mine looking like a fool and doing and there were really stupid jokes at the time.  
 **Translation:** Vocabulary: humility: 谦逊
 
-**[6056.52s] English:** Just very like  
+**[6056.52s] English:** Just very like,  
 **Translation:** 
 
-**[6057.56s] English:** American frat boy jokes  
+**[6057.56s] English:** American frat boy jokes.  
 **Translation:** 
 
-**[6060.02s] English:** But I had a spark and when I came back  
+**[6060.02s] English:** But I had a spark, and when I came back.  
 **Translation:** 
 
-**[6061.64s] English:** I feel I feel like I learned how to like  
+**[6061.64s] English:** I feel like I learned how to like.  
 **Translation:** 
 
-**[6064.12s] English:** To do that and do funny things that were like fun  
+**[6064.12s] English:** To do that, and do funny things that were like fun!  
 **Translation:** 
 
-**[6067.04s] English:** Like I would we go to a football game and I'd I brought a camera around with me a lot  
+**[6067.04s] English:** Like, I would go to a football game, and I'd bring a camera around with me a lot.  
 **Translation:** 
 
-**[6071.44s] English:** I like to take pictures and I remember one of the jokes I'd go is I go. Hey everybody  
+**[6071.44s] English:** I like to take pictures, and I remember one joke: "I go, hey everybody!  
 **Translation:** 
 
-**[6076.18s] English:** I told my parents I have a lot of friends. Can you guys gather around and we'll take a picture and so  
+**[6076.18s] English:** I told my parents I have a lot of friends. Can you guys gather around and we'll take a picture, and so  
 **Translation:** 
 
-**[6081.02s] English:** You know like 50 people would lean around like yeah, and like just the dumbest  
+**[6081.02s] English:** You know, like 50 people would lean around, like "yeah," and just the dumbest...  
 **Translation:** 
 
-**[6086.12s] English:** silliest things and and  
+**[6086.12s] English:** Silliest things, and and  
+**Translation:** Vocabulary: dumbest: 最愚蠢的
+
+**[6087.32s] English:** And  
 **Translation:** 
 
-**[6087.32s] English:** and  
+**[6088.42s] English:** And I know, and I wasn't a big self-promoter.  
 **Translation:** 
 
-**[6088.42s] English:** And I know and I wasn't a big self promoter  
+**[6090.98s] English:** So, these would happen, and I would just do them for me and my friends.  
 **Translation:** 
 
-**[6090.98s] English:** So these would happen and I would just I was just doing them for me and my friends. I  
+**[6095.70s] English:** Bring a guitar out, and I just make up songs and.  
 **Translation:** 
 
-**[6095.70s] English:** bring a guitar out and I just make up songs and  
+**[6098.64s] English:** And  
 **Translation:** 
 
-**[6098.64s] English:** and  
+**[6101.64s] English:** And so, I think, in watching this serious Bert get chipped away at.  
+**Translation:** Vocabulary: chipped: 被削弱
+
+**[6107.34s] English:** Until my six-and-a-half years of college, where it was just this silly guy, and then Rolling Stone wrote about me.  
 **Translation:** 
 
-**[6101.64s] English:** And so I think in in watching this this serious Bert get chipped away at  
+**[6114.22s] English:** I'm like, and then I'm like, "Well, and I remember a couple...  
 **Translation:** 
 
-**[6107.34s] English:** until my like six and a half year of college where it was just this silly guy and then Rolling Stone's written about me and  
+**[6117.32s] English:** Serious dad's going, you know, you got a chance to turn this around.  
 **Translation:** 
 
-**[6114.22s] English:** I'm like and then I'm like well and I remember a couple  
+**[6120.00s] English:** Into something, you need to go. You need to follow your dream, and I tried to stand up the.  
 **Translation:** 
 
-**[6117.32s] English:** Serious dad's going you know you got a chance to turn this  
+**[6123.70s] English:** First night, and I was like, "Maybe not the funniest guy," but man, they laughed, and we had a  
 **Translation:** 
 
-**[6120.00s] English:** into something you need to go to you need to follow your dream and i tried to stand up the  
+**[6129.08s] English:** Good time for 30 minutes, and it worked. It was a stream of consciousness, and I was like, "Yeah!  
 **Translation:** 
 
-**[6123.70s] English:** first night and i was like maybe not wasn't the funniest guy but man they laughed and we had a  
+**[6134.20s] English:** Then, of course, you know that same little path you take gets convoluted in New York because you  
 **Translation:** 
 
-**[6129.08s] English:** good time for 30 minutes and it worked and it was stream of consciousness and i was like yeah and  
-**Translation:** 
-
-**[6134.20s] English:** then of course you know that same little path you take gets convoluted in in new york because you  
-**Translation:** 
-
-**[6138.94s] English:** want to be a serious comic and you want to be taken seriously and you want to be edgy and you  
+**[6138.94s] English:** Want to be a serious comic, and you want to be taken seriously, and you want to be edgy, and you  
 **Translation:** Vocabulary: convoluted: 复杂化
 
-**[6142.42s] English:** want to say the and then slowly but surely that you the real burt chips away at it and he's like  
+**[6142.42s] English:** Want to say, "the and then slowly but surely that you really chip away at it, and he's like.  
 **Translation:** 
 
-**[6146.28s] English:** yo man just fucking take your shirt off kill a beer yeah like fucking tell the machine story  
+**[6146.28s] English:** Yo, man, just fucking take your shirt off, kill a beer, yeah? Like, fucking tell the machine story.  
 **Translation:** 
 
-**[6150.24s] English:** tell a story about your stupid kids like just you don't need to be the fucking edgiest dude in the  
+**[6150.24s] English:** Tell a story about your stupid kids, but you don't need to be the edgiest dude in the world.  
 **Translation:** 
 
-**[6154.12s] English:** room leave that to the good ones let let bill and fucking joe and tom they're the those are the  
+**[6154.12s] English:** Room, leave that to the good ones—let's say Bill and Fucking Joe and Tom. They're the ones.  
+**Translation:** Vocabulary: edgiest: 最前卫的
+
+**[6160.40s] English:** Legit fucking gangster comics; they're, I mean, those are the fucking ones. You're never gonna out-fucking-compete them.  
 **Translation:** 
 
-**[6160.40s] English:** legit fucking gangster comics they're i mean those are the fucking um you're never gonna out fucking  
+**[6166.76s] English:** Chapelle: Those guys are fucking gangsters. Do what you do, have fun, make life fun, and seize.  
+**Translation:** Vocabulary: chapelle: 乔佩尔; gangster: 黑帮; gangsters: 黑帮; legit: 正经
+
+**[6173.14s] English:** The day and fucking try to bring a spark to people and let them forget about you.  
 **Translation:** 
 
-**[6166.76s] English:** chapelle those those guys are fucking gangsters do what you do have fun make life fun and seize  
-**Translation:** Vocabulary: gangster: 黑帮分子; gangsters: 黑帮分子; legit: 正经的
-
-**[6173.14s] English:** the day and fucking try to bring a spark to people and let them forget about you  
+**[6176.26s] English:** About their fucking day, and the interesting thing about alcohol that I don't really like.  
 **Translation:** 
 
-**[6176.26s] English:** about their fucking day and the the interesting thing about alcohol that i've i don't really like  
+**[6182.10s] English:** Drinking, in terms of the actual physical effects, like how it makes me feel, but there's also the  
 **Translation:** 
 
-**[6182.10s] English:** drinking in terms of the actual physical like how it makes me feel but there's the that the  
-**Translation:** 
-
-**[6187.50s] English:** camaraderie that happens what i wish there was another way to get there but i don't think there  
+**[6187.50s] English:** Camaraderie that happens; I wish there was another way to get there, but I don't think there is.  
 **Translation:** Vocabulary: camaraderie: 同伴情谊
 
-**[6192.80s] English:** is that joy you get of just everybody getting together and taking shots or drinking not the  
+**[6192.80s] English:** Is that the joy you get from everyone getting together and taking shots or drinking?  
 **Translation:** 
 
-**[6198.66s] English:** polite kind of drinking but just everybody just the the fuck it kind of drinking yeah and when  
+**[6198.66s] English:** Polite, kind of drinking, but just everybody just the fuck it kind of drinking, yeah, and when.  
 **Translation:** 
 
-**[6204.04s] English:** someone goes all right i'm in like that all right  
+**[6204.04s] English:** Someone goes, all right? I'm in, like that. All right?  
 **Translation:** 
 
-**[6206.26s] English:** yeah that's the funnest and then especially when you have a big group yeah and there's like a big  
+**[6206.26s] English:** Yeah, that's the funnest, and then especially when you have a big group; yeah, and there's like a big  
+**Translation:** Vocabulary: funnest: 最有趣的
+
+**[6210.98s] English:** Group, and like we were at the premiere the other night, and I was working; I was legit.  
 **Translation:** 
 
-**[6210.98s] English:** group and like we were at the premiere the other night and and uh and i was working i was legit  
+**[6215.14s] English:** Working; I don't. I'm trying to sell the movie to media outlets, and uh, bust them with the.  
+**Translation:** Vocabulary: outlets: 媒体渠道; premiere: 首映
+
+**[6221.40s] English:** Bus with the boys! My wife flew them in to surprise me, and they're over on the red carpet, and they're  
 **Translation:** 
 
-**[6215.14s] English:** working i don't i'm trying to sell the movie to outlets media outlets and uh bust them with the  
-**Translation:** 
-
-**[6221.40s] English:** bus with the boys my wife flew them in to surprise me and they're over on the red carpet and they're  
-**Translation:** 
-
-**[6226.54s] English:** like yo let's let's scull a beer let's kill a beer and i was like oh and then i'm like oh  
+**[6226.54s] English:** Like, yo, let's scull a beer. Let's kill a beer, and I was like, "Oh," and then I'm like, "Oh.  
 **Translation:** Vocabulary: scull: 划船
 
-**[6231.16s] English:** fuck it i don't give a this is what life's about and that moment where they're like yeah that's the  
+**[6231.16s] English:** Fuck it, I don't give a damn. This is what life's about, and that moment where they're like, "Yeah, that's the  
 **Translation:** 
 
-**[6236.26s] English:** funnest fucking especially when i can get leanne to do it when i get leanne  
+**[6236.26s] English:** Funnest fucking, especially when I can get Leanne to do it when I get Leanne.  
+**Translation:** Vocabulary: leanne: 莱恩
+
+**[6240.00s] English:** To get a drink, and she'll be like, "I wasn't supposed to drink last.  
 **Translation:** 
 
-**[6240.00s] English:** to get a drink and she'll and she's like like I wasn't supposed to drink last  
+**[6244.56s] English:** At night, and she was like, "You want to just have a glass of wine?  
 **Translation:** 
 
-**[6244.56s] English:** night and she was like you want to just we still get have a glass wine in the  
+**[6247.68s] English:** Front yard, and you're like, "Oh, my heart skips a beat." I go glass wine in the  
 **Translation:** 
 
-**[6247.68s] English:** front yard and you're like oh my heart skips a beat I go glass wine in the  
+**[6252.00s] English:** Front yard, are we gonna talk? We're gonna say crazy shit to each other, like...  
 **Translation:** 
 
-**[6252.00s] English:** front yard are we gonna talk wild we're gonna say crazy shit to each other like  
+**[6255.24s] English:** Fuck yeah, on the front yard! Front yard, yeah, you're doing the front yard. Let's  
 **Translation:** 
 
-**[6255.24s] English:** fuck yeah on the front yard front yard yeah you're doing the front yard let the  
+**[6258.72s] English:** Dogs play under big trees in the front yard while you're sitting on the porch.  
 **Translation:** 
 
-**[6258.72s] English:** dogs play big trees in the front yard while you're sitting on the where were  
+**[6262.40s] English:** You're sitting on the front porch in the Adirondacks, letting the dogs play.  
 **Translation:** 
 
-**[6262.40s] English:** you sitting sitting in the Adirondacks on the front porch letting the dogs play  
-**Translation:** 
-
-**[6266.16s] English:** letting the dogs rest in the front yard maybe go over pick some cherries look at  
+**[6266.16s] English:** Letting the dogs rest in the front yard, maybe go over to pick some cherries, look at  
 **Translation:** Vocabulary: adirondacks: 阿迪朗达克山脉; cherries: 樱桃
 
-**[6270.14s] English:** the fucking trees hear the wind going through the front yard and then you go  
+**[6270.14s] English:** The fucking trees hear the wind going through the front yard, and then you go.  
 **Translation:** 
 
-**[6273.54s] English:** to the backyard that's where the cigar comes out a little more privacy but you  
+**[6273.54s] English:** To the backyard, that's where the cigar comes out; a little more privacy, but you  
 **Translation:** Vocabulary: backyard: 后院; cigar: 雪茄
 
-**[6276.90s] English:** have red line red wine maul back keep our sulfites low yeah wine is a whole  
+**[6276.90s] English:** Have a red line, red wine, maul back, keep our sulfites low? Yeah, wine is a whole...  
 **Translation:** 
 
-**[6283.84s] English:** nother one too I feel sophisticated oh yeah I've went I traveled before you  
-**Translation:** Vocabulary: nother: 另外; sophisticated: 有品味; sulfites: 亚硫酸盐
+**[6283.84s] English:** Another one, too. I feel sophisticated. Oh, yeah, I've gone traveling before you.  
+**Translation:** Vocabulary: sophisticated: 有品味; sulfites: 亚硫酸盐
 
-**[6291.06s] English:** create I went to Paris for the first time I drank wine there and I felt like  
+**[6291.06s] English:** I went to Paris for the first time, I drank wine there, and I felt like  
 **Translation:** 
 
-**[6294.92s] English:** I  
+**[6294.92s] English:** I.  
 **Translation:** 
 
-**[6296.16s] English:** was a sophisticated man you know dude I'm here to speak much French but you  
+**[6296.16s] English:** Was a sophisticated man, you know? Dude, I'm here to speak more French, but you  
 **Translation:** 
 
-**[6304.26s] English:** don't need to you don't need to just start smoking to just have a fucking  
+**[6304.26s] English:** Don't need to; you don't need to just start smoking to just have a fucking cigarette.  
 **Translation:** 
 
-**[6307.54s] English:** cigarette I was gonna start writing poetry during Hemingway there's like a  
+**[6307.54s] English:** Cigarette. I was gonna start writing poetry during Hemingway, there's like a  
 **Translation:** 
 
-**[6313.32s] English:** glass of wine in Italy and like like just out in like  
+**[6313.32s] English:** A glass of wine in Italy, and like, just out in like  
+**Translation:** Vocabulary: hemingway: 海明威
+
+**[6318.66s] English:** We went, we went, oh, the most beautiful fucking day of my life, just outside.  
 **Translation:** 
 
-**[6318.66s] English:** we went we went oh the most beautiful fucking day of my life just outside  
+**[6325.94s] English:** Outside Florence, they have all the vineyards and stuff, and we took a Vespa tour, nice and uh  
+**Translation:** Vocabulary: florence: 佛罗伦萨; vespa: 维斯帕; vineyards: 葡萄园
+
+**[6333.26s] English:** And it was fucking, and Isla's too young to ride, so she's on the back, and now everyone can drink.  
 **Translation:** 
 
-**[6325.94s] English:** outside florence they have all the vineyards and stuff and we took a vespa tour nice and uh  
-**Translation:** Vocabulary: florence: 佛罗伦萨; vespa: VESPA; vineyards: 葡萄园
-
-**[6333.26s] English:** and it was fucking and isla's too young to ride so she's on the back and now everyone can drink  
+**[6340.12s] English:** There, you know, you're not supposed to drink and drive Vespas, but they don't go beyond a glass of.  
 **Translation:** 
 
-**[6340.12s] English:** there you know you're not supposed to drink and drive vespas but they don't they go a glass of  
+**[6344.84s] English:** Wine is nothing, and you're like, "Okay, I guess I'll have a couple," then if you think one's nothing, then  
 **Translation:** 
 
-**[6344.84s] English:** wine is nothing and you're like okay i guess i'll have a couple then if you think one's nothing then  
+**[6350.26s] English:** I think two's nothing, also. So this is Drunk Burt on a Vespa. Drunk, not even drunk, but just.  
 **Translation:** 
 
-**[6350.26s] English:** i think two's nothing also so this is drunk burt on a vespa drunk not even drunk but just  
-**Translation:** 
-
-**[6355.06s] English:** lightly lightly feathered yeah where  
+**[6355.06s] English:** Lightly, lightly feathered, yeah, where?  
 **Translation:** 
 
 **[6360.00s] English:** And it's beautiful.  
@@ -5017,7 +5018,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6363.40s] English:** Georgia has.  
 **Translation:** 
 
-**[6364.16s] English:** Georgia's too young.  
+**[6364.16s] English:** Georgia is too young.  
 **Translation:** 
 
 **[6365.26s] English:** Isla is too young.  
@@ -5032,20 +5033,20 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6372.14s] English:** And it starts raining.  
 **Translation:** 
 
-**[6374.16s] English:** And I go, Isla, what are we missing?  
+**[6374.16s] English:** And I say, "Isla, what are we missing?  
 **Translation:** 
 
-**[6376.86s] English:** And she goes, music, big boy.  
+**[6376.86s] English:** And she goes, 'Music, big boy.  
 **Translation:** 
 
-**[6378.58s] English:** And I go, what do you want to hear?  
+**[6378.58s] English:** And I go, "What do you want to hear?  
 **Translation:** 
 
-**[6379.80s] English:** And then she just starts going, uka, shaka, uka, uka, uka, shaka, uka, uka.  
+**[6379.80s] English:** And then she just starts going: "uka, shaka, uka, uka, uka, shaka, uka, uka.  
 **Translation:** 
 
 **[6385.58s] English:** I can't stop this feeling.  
-**Translation:** Vocabulary: shaka: 哗啦声
+**Translation:** Vocabulary: shaka: 卡擦声
 
 **[6388.12s] English:** And she's screaming it behind.  
 **Translation:** 
@@ -5056,16 +5057,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6392.24s] English:** And then Leanne singing it.  
 **Translation:** 
 
-**[6393.50s] English:** And then Sandy and her two daughters are singing it.  
-**Translation:** 
+**[6393.50s] English:** And then, Sandy and her two daughters are singing it.  
+**Translation:** Vocabulary: leanne: 莱琳
 
 **[6395.92s] English:** We're all in these Vespas, and we're all singing it.  
 **Translation:** 
 
-**[6398.88s] English:** And I swear to God, if I hadn't been lightly feathered, I don't know if I would have been like, Isla, what are we missing?  
+**[6398.88s] English:** And I swear to God, if I hadn't been lightly feathered, I don't know if I would have been, Isla, what are we missing?  
 **Translation:** 
 
-**[6405.50s] English:** Because, you know, alcohol will give you that thing like, what's next?  
+**[6405.50s] English:** Because, you know, alcohol will give you that thing—what's next?  
 **Translation:** 
 
 **[6408.48s] English:** What's bigger?  
@@ -5074,10 +5075,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6409.22s] English:** How do we take this to the next level?  
 **Translation:** 
 
-**[6411.06s] English:** And then I got this little girl who's still my little girl.  
+**[6411.06s] English:** And then I got this little girl, who's still my little girl.  
 **Translation:** 
 
-**[6414.46s] English:** At that moment when she's singing, sing it.  
+**[6414.46s] English:** At that moment, when she's singing, sing it.  
 **Translation:** 
 
 **[6417.30s] English:** All the good.  
@@ -5086,13 +5087,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6418.12s] English:** Good times.  
 **Translation:** 
 
-**[6419.40s] English:** Heaming up so high.  
+**[6419.40s] English:** Heaving up so high.  
 **Translation:** 
 
 **[6421.22s] English:** Yeah.  
 **Translation:** 
 
-**[6421.52s] English:** Heaming up, girl.  
+**[6421.52s] English:** Heaving up, girl.  
 **Translation:** 
 
 **[6422.16s] English:** And then we stop at the light, and all of us are looking, and it's pouring rain.  
@@ -5111,7 +5112,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **Translation:** 
 
 **[6431.06s] English:** It is, I mean, I remember sobbing, crying, sobbing, crying, sobbing, crying.  
-**Translation:** 
+**Translation:** Vocabulary: sobbing: 抽泣
 
 **[6437.16s] English:** And then I was like, let's get these fucking Vespas up and get to a vineyard.  
 **Translation:** 
@@ -5122,26 +5123,26 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6440.66s] English:** And then we went to a vineyard, and all the girls tried a little wine.  
 **Translation:** 
 
-**[6443.90s] English:** No one got buzzed or anything, but you're just sitting there with your family going like,  
+**[6443.90s] English:** No one got buzzed or anything, but you're just sitting there with your family, going "like,  
+**Translation:** Vocabulary: buzzed: 微醺
+
+**[6448.12s] English:** Fuck, dude.  
 **Translation:** 
 
-**[6448.12s] English:** fuck, dude.  
-**Translation:** 
-
-**[6450.10s] English:** And I'm not certain you get that without a little bit of...  
+**[6450.10s] English:** And I'm not certain you get that without a little bit of....  
 **Translation:** 
 
 **[6452.88s] English:** A little bit.  
 **Translation:** 
 
-**[6453.66s] English:** But then a lot is also interesting.  
+**[6453.66s] English:** But then, a lot is also interesting.  
 **Translation:** 
 
 **[6455.70s] English:** I had a lot of whiskey with Rogan once.  
 **Translation:** 
 
 **[6459.16s] English:** I think I saw that.  
-**Translation:** 
+**Translation:** Vocabulary: whiskey: 威士忌
 
 **[6460.16s] English:** Yeah.  
 **Translation:** 
@@ -5152,22 +5153,22 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6462.30s] English:** He was Whitney.  
 **Translation:** 
 
-**[6462.78s] English:** And the push-up concert contest.  
+**[6462.78s] English:** And the push-up contest concert.  
 **Translation:** 
 
 **[6464.16s] English:** With David Goggins.  
 **Translation:** 
 
-**[6465.34s] English:** The only time I met David Goggins in person, one of the great embarrassments of my life,  
+**[6465.34s] English:** The only time I met David Goggins in person: one of the great embarrassments of my life.  
+**Translation:** Vocabulary: embarrassments: 尴尬
+
+**[6470.18s] English:** Is trashed out of my mind.  
 **Translation:** 
 
-**[6470.18s] English:** is trashed out of my mind.  
-**Translation:** 
+**[6473.20s] English:** I'm trying to say how much of a fan I am, and I could tell by the look in his eye that.  
+**Translation:** Vocabulary: trashed: 丢弃
 
-**[6473.20s] English:** I'm trying to say how much of a fan I am, and I could tell by the look in his eye that  
-**Translation:** 
-
-**[6477.28s] English:** what...  
+**[6477.28s] English:** What...?  
 **Translation:** 
 
 **[6477.96s] English:** It's actually coming out of my mouth.  
@@ -5176,220 +5177,220 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6479.34s] English:** It's not good.  
 **Translation:** 
 
-**[6480.00s] English:** it's not good and his wife is embarrassed standing right there also just everybody's  
+**[6480.00s] English:** It's not good, and his wife is embarrassed, standing right there, too. Everyone's  
 **Translation:** 
 
-**[6485.20s] English:** embarrassed for me man i'm trying my best and then somehow i find myself a minute later doing  
+**[6485.20s] English:** Embarrassed for me, man. I'm trying my best, and then somehow I find myself doing it a minute later.  
 **Translation:** 
 
-**[6490.94s] English:** push-ups with him as a challenge i didn't it wasn't counting all i knew i'm not stopping  
+**[6490.94s] English:** Push-ups with him as a challenge; I didn't, it wasn't counting. All I knew: I'm not stopping.  
 **Translation:** 
 
-**[6496.32s] English:** and he was polite enough to stop i think probably like 50 i don't know  
+**[6496.32s] English:** And he was polite enough to stop. I think probably around 50, I don't know.  
 **Translation:** 
 
-**[6501.76s] English:** there's a gift someone gives you when they get drunk and they allow you they get drunk and they  
+**[6501.76s] English:** There's a gift someone gives you when they get drunk and they allow you to see their true feelings.  
 **Translation:** 
 
-**[6507.02s] English:** lower their guard and they allow you to see them that way it's a gift it's a real gift it's just as  
+**[6507.02s] English:** Lower their guard, and they allow you to see them. That's a gift—it's a real gift. It's just as  
 **Translation:** 
 
-**[6512.20s] English:** cool as like pulling someone aside and going yo i'm into anime like are you cool with that and  
+**[6512.20s] English:** Cool, as in, pulling someone aside and going, "Yo, I'm into anime. Are you cool with that?  
 **Translation:** Vocabulary: anime: 动画
 
-**[6517.18s] English:** then they're going yeah oh yeah can i show you some cool anime and then you're like that's not  
+**[6517.18s] English:** Then they're going, "Yeah, oh yeah! Can I show you some cool anime?" And then you're like, "That's not...  
 **Translation:** 
 
-**[6521.54s] English:** my thing but it's like a cool thing it's like sharing cool music with someone or like telling  
+**[6521.54s] English:** My thing, but it's like a cool thing—it's like sharing cool music with someone or like telling.  
 **Translation:** 
 
-**[6526.28s] English:** them something about your childhood when you when you get drunk like real drunk around someone  
+**[6526.28s] English:** Tell them something about your childhood when you get really drunk around someone.  
 **Translation:** 
 
-**[6530.22s] English:** you're giving them a gift and that gift is i want you to see me for everything i am yeah you're not  
+**[6530.22s] English:** You're giving them a gift, and that gift is, "I want you to see me for everything I am." Yeah, you're not.  
 **Translation:** 
 
-**[6535.94s] English:** going to get any lies  
+**[6535.94s] English:** Going to get any lies?  
 **Translation:** 
 
-**[6537.00s] English:** you're not going to get any bullshit this is me at my absolute worst i have a rule i will never  
+**[6537.00s] English:** You're not going to get any bullshit. This is me at my absolute worst. I have a rule: I will never  
 **Translation:** Vocabulary: bullshit: 胡说八道
 
-**[6543.10s] English:** never get mad at someone for getting too fucked up because they're giving you a gift they're saying  
+**[6543.10s] English:** Never get mad at someone for getting too fucked up because they're giving you a gift; they're saying,  
 **Translation:** 
 
-**[6548.98s] English:** like yo i did this on accident but i trust you enough to let you know that this is who i am and  
+**[6548.98s] English:** Like, yo, I did this on accident, but I trust you enough to let you know that this is who I am, and  
 **Translation:** 
 
-**[6555.18s] English:** this is what you're getting i love it i love it especially when it comes from someone you don't  
+**[6555.18s] English:** This is what you're getting. I love it! I love it, especially when it comes from someone you don't expect.  
 **Translation:** 
 
-**[6559.58s] English:** expect like you shut the fuck up david gawkins should have hugged you and said thanks for showing  
+**[6559.58s] English:** Expect, like, you shut the fuck up, David Gawkins should have hugged you and said thanks for showing.  
+**Translation:** Vocabulary: hugged: 拥抱
+
+**[6565.48s] English:** This, yeah. I guess.  
 **Translation:** 
 
-**[6565.48s] English:** me this yeah i guess  
-**Translation:** 
-
-**[6567.00s] English:** really haven't you're right i haven't thought of it that way there's an intimacy to that  
+**[6567.00s] English:** Really, haven't you're right; I haven't thought of it that way. There's an intimacy to that.  
 **Translation:** Vocabulary: intimacy: 亲密
 
-**[6571.84s] English:** is that it is a gift of like fragility like this is me i mean i'm i'm a very loving drunk but i'm  
+**[6571.84s] English:** Is that it is a gift of like fragility, like this is me. I mean, I'm a very loving drunk, but I'm  
 **Translation:** 
 
-**[6577.94s] English:** boy am i a dumb drunk i'm just i bet you i bet you haven't seen dumb drunk well dumb in terms  
+**[6577.94s] English:** Boy, am I a dumb drunk! I'm just betting you—you bet you haven't seen a dumb drunk like me—well, dumb in terms of...  
 **Translation:** 
 
-**[6585.52s] English:** of the eloquence of the words that are coming out of my mouth so like you're just not stitching  
+**[6585.52s] English:** Of the eloquence of the words that are coming out of my mouth, so, you're just not listening.  
 **Translation:** 
 
-**[6590.86s] English:** words together correctly to make sentences no i turn into hemingway lawson translation  
-**Translation:** Vocabulary: eloquence: 口才; hemingway: 海明威; stitching: 拼凑
+**[6590.86s] English:** To put words together correctly to make sentences, Hemingway Lawson translation is not what I need.  
+**Translation:** Vocabulary: eloquence: 口才
 
-**[6597.00s] English:** like i'll start saying random words but like  
+**[6597.00s] English:** Like, I'll start saying random words, but like  
 **Translation:** 
 
-**[6600.00s] English:** like translated to japanese and back to english it's not making any sense but there's love like  
+**[6600.00s] English:** Like translated to Japanese and back to English, it's not making any sense, but there's love, like.  
 **Translation:** 
 
-**[6605.92s] English:** i think what you feel is this kind of desire to connect that i think i always feel towards other  
+**[6605.92s] English:** I think what you feel is this kind of desire to connect, that I think I always feel towards others.  
 **Translation:** 
 
-**[6611.18s] English:** people but when i'm drunk i'll just say fuck it i don't need to be polite i'll just be loving  
+**[6611.18s] English:** People, but when I'm drunk, I'll just say "fuck it; I don't need to be polite; I'll just be loving.  
 **Translation:** 
 
-**[6615.80s] English:** fully yeah yeah it's uh it's cool when people let you see that in them because some people are  
+**[6615.80s] English:** Fully, yeah, yeah, it's uh, pretty cool when people let you see that in them, because some people aren't.  
 **Translation:** 
 
-**[6622.92s] English:** really like measured like no one drink and then i'm done i don't want it no no no and you're like  
+**[6622.92s] English:** Really, I like to measure my drinks. I don't want to drink and then stop; I don't want any more after that. And you're like,  
 **Translation:** 
 
-**[6628.42s] English:** show me a little more and then like it's cool and i never like i love my favorite moments in  
+**[6628.42s] English:** Show me a little more, and then it's cool. I never, I love my favorite moments in.  
 **Translation:** 
 
-**[6634.22s] English:** the next morning when they're like did i make an ass out of myself and you get to say not at all  
+**[6634.22s] English:** The next morning, when they're like, "Did I make an ass out of myself?" and you get to say, "Not at all.  
 **Translation:** 
 
-**[6638.62s] English:** yeah not at all that's the coolest thing because some people bad people will leverage that over  
+**[6638.62s] English:** Yeah, not at all. That's the coolest thing because some people, bad people, will leverage that over.  
 **Translation:** 
 
-**[6644.48s] English:** yeah you can you see it's a bully tactic they'll leverage that the bad interactions i've had  
+**[6644.48s] English:** Yeah, you can see it's a bully tactic. They'll leverage that, the bad interactions I've had.  
 **Translation:** Vocabulary: leverage: 利用; tactic: 策略
 
-**[6648.66s] English:** with in this business that we were talking about earlier there were people that that when you got  
+**[6648.66s] English:** In this business that we were talking about earlier, there were people who, when you got  
 **Translation:** 
 
-**[6655.90s] English:** fucked up they used it against you yeah they  
+**[6655.90s] English:** Fucked up, they used it against you, yeah, they.  
 **Translation:** 
 
-**[6658.30s] English:** helped you  
+**[6658.30s] English:** Helped you.  
 **Translation:** 
 
-**[6658.42s] English:** it over your head and they said listen man i don't know what the fuck but if you want and you're like  
+**[6658.42s] English:** It over your head, and they said, "Listen, man. I don't know what the fuck, but if you want...  
 **Translation:** 
 
-**[6664.18s] English:** hold on and then and then they made you they gaslight you into thinking you were the only  
+**[6664.18s] English:** Hold on, and then they made you gaslight you into thinking you were the only  
 **Translation:** 
 
-**[6670.12s] English:** one that was fucked up and you're like okay i guess i know who you are now and i was like didn't  
+**[6670.12s] English:** One that was fucked up, and you're like, "Okay, I guess I know who you are now," and I was like, "Didn't  
 **Translation:** Vocabulary: gaslight: 误导
 
-**[6674.58s] English:** you get fucked up a little bit too yeah like i know we smoked weed and i thought we ate xanax but  
+**[6674.58s] English:** You got a little bit fucked up, too, yeah. Like I knew we smoked weed, but I thought we ate Xanax, but  
 **Translation:** 
 
-**[6678.68s] English:** like what about the i know i had a couple beers but like i wasn't that fucked up well whitney's  
+**[6678.68s] English:** Like, what about the fact that I had a couple beers, but I wasn't that fucked up? Well, Whitney's...  
 **Translation:** 
 
-**[6683.70s] English:** really good at that because she's the person i woke up next morning and she she said  
+**[6683.70s] English:** Really, she's really good at that because she's the person I woke up next to, and she said  
 **Translation:** 
 
-**[6688.42s] English:** yeah yeah you you're wonderful you were eloquent you were great i i'm sure she was making that up  
+**[6688.42s] English:** Yeah, yeah, you're wonderful. You were eloquent, you were great. I'm sure she was making that up.  
 **Translation:** Vocabulary: eloquent: 口才好
 
-**[6694.00s] English:** completely it was funny i got blackout drunk at whitney's roast of me like blackout drunk don't  
+**[6694.00s] English:** Completely, it was funny. I got blackout drunk at Whitney's roast of me — like, blackout drunk, don't.  
 **Translation:** 
 
-**[6698.16s] English:** remember any of it and don't remember any of it don't remember speaking on the microphone i don't  
+**[6698.16s] English:** Remember any of it, and don't remember speaking on the microphone at all.  
 **Translation:** Vocabulary: blackout: 醉到不省人事; microphone: 麦克风
 
-**[6703.18s] English:** remember talking in the microphone and and i i did this that apparently yeah and i said to whitney  
+**[6703.18s] English:** Remember, I was talking into the microphone, and I did this—that apparently, yeah—and I said to Whitney.  
 **Translation:** 
 
-**[6710.04s] English:** like in a real moment of vulnerability whitney's like a sister to me like a legit sister  
-**Translation:** Vocabulary: legit: 真正的; vulnerability: 脆弱
+**[6710.04s] English:** Like in a real moment of vulnerability, Whitney's like a sister to me—like a legit sister.  
+**Translation:** Vocabulary: legit: 正经; vulnerability: 脆弱
 
-**[6714.06s] English:** my daughters call her aunt whitney leanne it's like a sister leanne  
+**[6714.06s] English:** My daughters call her Aunt Whitney Leanne; it's like a sister, Leanne.  
 **Translation:** 
 
-**[6718.42s] English:** if she comes over to do a  
-**Translation:** Vocabulary: whitney: 惠特尼
-
-**[6720.00s] English:** podcast whitney i'll show up an hour early and sit with leanne out in leanne's rose garden and  
+**[6718.42s] English:** If she comes over to do a  
 **Translation:** 
 
-**[6724.16s] English:** just talk and whitney i i said the next day i called whitney and i was getting on a plane  
+**[6720.00s] English:** Podcast: Whitney, I'll show up an hour early and sit with Leanne out in Leanne's rose garden and...  
 **Translation:** 
 
-**[6731.86s] English:** and i was new i was hungover i said how bad was i last night she goes you were fucking fantastic  
+**[6724.16s] English:** Just talk, and Whitney. I said the next day, I called Whitney and I was getting on a plane.  
+**Translation:** Vocabulary: leanne: 莱anne; whitney: 惠特尼
+
+**[6731.86s] English:** And I was new, I was hungover. I said, "How bad was I last night?" She goes, "You were fucking fantastic.  
 **Translation:** 
 
-**[6737.16s] English:** and just didn't let me sit with it and then i watched the video and i was like oh i was  
+**[6737.16s] English:** And just didn't let me sit with it, and then I watched the video, and I was like, "Oh, I was...  
 **Translation:** Vocabulary: hungover: 宿醉
 
-**[6740.58s] English:** fucking out of control i was way out of control thank you for lying to me yeah so while being a  
+**[6740.58s] English:** Fucking, I was out of control. Thank you for lying to me. Yeah, so while being a  
 **Translation:** 
 
-**[6745.48s] English:** wild out there comic she's also this like caring and loving human being so interesting she is she  
+**[6745.48s] English:** Wild out there, but she's also a caring and loving human being. So interesting, she is!  
+**Translation:** Vocabulary: caring: 体贴的
+
+**[6750.98s] English:** Has the most nurturing sensibility; she is, you know, she sends my daughter gifts out of nowhere, just out of the blue.  
 **Translation:** 
 
-**[6750.98s] English:** has the most nurturing sensibility she is you she sends my daughter's gifts out of nowhere just out  
+**[6759.64s] English:** From nowhere, just sending Georgia gifts while she's at college; it's just a gift box, like she is just taking.  
+**Translation:** Vocabulary: nurturing: 关怀; sensibility: 敏感性
+
+**[6765.00s] English:** Care for people is her love language, and she's also the person who taught me what the hell.  
 **Translation:** 
 
-**[6759.64s] English:** of nowhere just send georgia gifts up at college it's just a gift box like she is just she takes  
-**Translation:** Vocabulary: nurturing: 养育感; sensibility: 敏感度
-
-**[6765.00s] English:** care of people that's her love language and she's also the person that taught me what what the hell  
+**[6769.92s] English:** Love Language: Even means, apparently, there's a book, and there are like five of them. Oh, you and Whitney.  
 **Translation:** 
 
-**[6769.92s] English:** love language even means apparently there's a book and there's like five of them oh you and whitney  
+**[6774.16s] English:** I would love to.  
 **Translation:** 
 
-**[6774.16s] English:** i would love to  
+**[6775.46s] English:** Sit in the fucking room and watch YouTube, talk. Yeah, she has a robot. Yeah, it looks like her.  
 **Translation:** 
 
-**[6775.46s] English:** sit in the fucking room and watch youtube talk yeah she has a robot yeah it looks like her  
+**[6779.96s] English:** And, um, that's the future where she said that robot should do porn.  
 **Translation:** 
 
-**[6779.96s] English:** and um that's the future that robot i told her she should have that robot do porn  
+**[6786.26s] English:** Let someone fuck that robot, and then she can deepfake the face if she wants, but I go.  
+**Translation:** Vocabulary: deepfake: 换脸视频
+
+**[6793.44s] English:** Promote it: promote a special, that way.  
 **Translation:** 
 
-**[6786.26s] English:** let someone fuck that robot and then and she can she could deep fake the face if she wants but i go  
+**[6796.02s] English:** Like a full-on, not like Showtime soft-core porn, like full-on porn, full-on, like the dude.  
+**Translation:** Vocabulary: showtime: 放映时间
+
+**[6804.64s] English:** She's like, hi!  
 **Translation:** 
 
-**[6793.44s] English:** promote it promote a special that way  
+**[6805.44s] English:** Welcome inside! You look tired. Do you need a drink? Yeah, oops—I'm stuck in the dryer. You know what's  
 **Translation:** 
 
-**[6796.02s] English:** like a full-on not like showtime softcore porn like full-on porn full-on like the dude like  
-**Translation:** Vocabulary: showtime: 精彩演出; softcore: 软色情
-
-**[6804.64s] English:** she's like hi  
+**[6813.52s] English:** The promotion you're most proud of, that you've done without a doubt, is got to be when I took  
 **Translation:** 
 
-**[6805.44s] English:** welcome inside you look tired do you need a drink yeah oops i'm stuck in the dryer you know what's  
+**[6818.86s] English:** Dance lessons, yeah, that was epic because I tried to get Joe, Tom, and Ari to do it for sober.  
+**Translation:** Vocabulary: sober: 清醒的
+
+**[6824.32s] English:** October: I was rooting for you, and they said no, so I was like, "Absolutely not!" You knew Joe was gonna.  
 **Translation:** 
 
-**[6813.52s] English:** the promotion you're most proud of that you've done without a doubt it's got to be when i took  
-**Translation:** 
+**[6829.06s] English:** Say no, but Joe's a legit dancer; like, he can legit dance. He took dance lessons for a movie, and  
+**Translation:** Vocabulary: legit: 真正的
 
-**[6818.86s] English:** dance lessons yeah that was epic because i tried to get joe and tom and ari to do it for sober  
-**Translation:** 
-
-**[6824.32s] English:** october i was rooting for you and they said no so i was like absolutely not you knew joe was gonna  
-**Translation:** 
-
-**[6829.06s] English:** say no but joe's a legit dancer like he can legit dance he took like dance lessons for a movie and  
-**Translation:** 
-
-**[6835.44s] English:** he's gonna be an amazing dancer and so you're right he could have said yes  
+**[6835.44s] English:** He's gonna be an amazing dancer, and so you're right; he could have said yes.  
 **Translation:** 
 
 **[6840.58s] English:** You could have said yes.  
@@ -5401,16 +5402,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6844.38s] English:** Yeah.  
 **Translation:** 
 
-**[6844.58s] English:** And I said, we all take hip-hop dance lessons.  
+**[6844.58s] English:** And I said, "We all take hip-hop dance lessons.  
 **Translation:** 
 
-**[6846.90s] English:** Your cardio is through the roof.  
+**[6846.90s] English:** Your cardio is through the roof!  
 **Translation:** 
 
 **[6848.20s] English:** Yeah.  
 **Translation:** 
 
-**[6848.86s] English:** And you do an hour dance lesson.  
+**[6848.86s] English:** And you do an hour-long dance lesson.  
 **Translation:** 
 
 **[6850.76s] English:** And then we all do a hip-hop dance.  
@@ -5422,13 +5423,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6854.58s] English:** And we see who has the best hip-hop dance.  
 **Translation:** 
 
-**[6856.38s] English:** It's different than the typical stuff we do.  
+**[6856.38s] English:** It's different from the typical stuff we do.  
 **Translation:** 
 
 **[6858.94s] English:** It's fun.  
 **Translation:** 
 
-**[6859.68s] English:** And we can also work out.  
+**[6859.68s] English:** And we can also work it out.  
 **Translation:** 
 
 **[6860.70s] English:** We can do everything.  
@@ -5437,34 +5438,34 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6861.22s] English:** But let's do hip-hop dance.  
 **Translation:** 
 
-**[6863.24s] English:** And Joe adamantly was like, that's a horrible idea.  
+**[6863.24s] English:** And Joe adamantly said, "That's a horrible idea.  
 **Translation:** 
 
 **[6866.02s] English:** I will not do that.  
 **Translation:** Vocabulary: adamantly: 坚决地
 
-**[6866.72s] English:** And then Tom and Ari just, you know, just whatever.  
+**[6866.72s] English:** And then Tom and Ari just, you know, did whatever.  
 **Translation:** 
 
-**[6869.94s] English:** They were like, yeah, I side with Joe.  
+**[6869.94s] English:** They were like, "Yeah, I side with Joe.  
 **Translation:** 
 
 **[6871.52s] English:** We'll do something else.  
 **Translation:** 
 
-**[6872.94s] English:** And then I was like, but I knew I liked hip-hop dance.  
+**[6872.94s] English:** And then I was like, "But I knew I liked hip-hop dance.  
 **Translation:** 
 
-**[6876.04s] English:** And so I was like, I'm going to take hip-hop dance lessons anyway.  
+**[6876.04s] English:** And so I was like, "I'm going to take hip-hop dance lessons anyway.  
 **Translation:** 
 
 **[6878.08s] English:** I'm going to just do it over Sober October.  
-**Translation:** Vocabulary: sober: 戒酒
+**Translation:** 
 
 **[6879.86s] English:** And I'm just going to fucking do it.  
 **Translation:** 
 
-**[6881.66s] English:** And then maybe I'll do a hip-hop dance video.  
+**[6881.66s] English:** And then, maybe I'll do a hip-hop dance video.  
 **Translation:** 
 
 **[6884.54s] English:** And then show it to them and let them rate me.  
@@ -5473,10 +5474,10 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6887.44s] English:** And then we did it.  
 **Translation:** 
 
-**[6889.70s] English:** And it was $1,200 for hip-hop dance lessons for like a month or whatever,  
+**[6889.70s] English:** And it was $1,200 for hip-hop dance lessons for about a month or so.  
 **Translation:** 
 
-**[6894.56s] English:** for like a couple weeks.  
+**[6894.56s] English:** For about a couple of weeks.  
 **Translation:** 
 
 **[6895.54s] English:** And then when we did it, I thought, you know what?  
@@ -5485,16 +5486,16 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6900.14s] English:** I bet we could put tour dates next to this.  
 **Translation:** 
 
-**[6902.18s] English:** Because it turned out being like kind of good, but kind of funny.  
+**[6902.18s] English:** Because it turned out to be kind of good, but kind of funny.  
 **Translation:** 
 
 **[6906.22s] English:** I bet we could put tour dates next to this.  
 **Translation:** 
 
-**[6908.14s] English:** And it was the beginning of me figuring out the whole like,  
+**[6908.14s] English:** And it was the beginning of me figuring out the whole thing,  
 **Translation:** 
 
-**[6911.54s] English:** my promos were short and quick.  
+**[6911.54s] English:** My promos were short and quick.  
 **Translation:** 
 
 **[6913.08s] English:** And they were always like something silly.  
@@ -5509,34 +5510,34 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6917.26s] English:** And then that one blew up.  
 **Translation:** 
 
-**[6919.52s] English:** And immediately I was announcing the tour.  
+**[6919.52s] English:** And immediately, I announced the tour.  
 **Translation:** 
 
-**[6921.56s] English:** And immediately every tour date sold out.  
+**[6921.56s] English:** And immediately, every tour date sold out.  
 **Translation:** 
 
-**[6923.70s] English:** And then every, we added shows.  
+**[6923.70s] English:** And then, we added more shows.  
 **Translation:** 
 
-**[6925.66s] English:** That day we added shows.  
+**[6925.66s] English:** That day, we added some shows.  
 **Translation:** 
 
 **[6927.22s] English:** And every one of those sold out.  
 **Translation:** 
 
-**[6929.06s] English:** And I was like, whoa.  
+**[6929.06s] English:** And I was like, "Whoa.  
 **Translation:** 
 
-**[6930.24s] English:** And then Tom was like, the fuck was that?  
+**[6930.24s] English:** And then Tom was like, "The fuck was that?  
 **Translation:** 
 
 **[6932.90s] English:** And I was like, I think I just sold out my whole fucking tour.  
 **Translation:** 
 
-**[6938.38s] English:** And then Tom, and then when Tom did his one like that  
+**[6938.38s] English:** And then Tom, and then when Tom did it like that.  
 **Translation:** 
 
-**[6943.30s] English:** and put his tour dates on it.  
+**[6943.30s] English:** And put his tour dates on it.  
 **Translation:** 
 
 **[6944.88s] English:** Yeah, went over the top.  
@@ -5545,7 +5546,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6946.16s] English:** He sold out his tours.  
 **Translation:** 
 
-**[6947.86s] English:** And he was like, whoa.  
+**[6947.86s] English:** And he was like, "Whoa.  
 **Translation:** 
 
 **[6949.14s] English:** He's like, dude, I sold out every fucking show.  
@@ -5554,412 +5555,412 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[6950.94s] English:** We've added shows.  
 **Translation:** 
 
-**[6951.60s] English:** I'm doing like an arena here.  
+**[6951.60s] English:** I'm doing something like an arena here.  
 **Translation:** 
 
 **[6953.38s] English:** And this is before we were doing arenas.  
 **Translation:** 
 
-**[6954.88s] English:** I was like, shut the fuck up.  
+**[6954.88s] English:** I was like, "Shut the fuck up.  
+**Translation:** Vocabulary: arenas: 大型场馆
+
+**[6955.54s] English:** And that changed my game, where I was like, "All right, so everything's got to be.  
 **Translation:** 
 
-**[6955.54s] English:** And that changed my game where I was like, all right, so everything's got to be.  
+**[6960.00s] English:** And then, I was like, I don't mind spending a little money. And then the next one I did was the  
 **Translation:** 
 
-**[6960.00s] English:** and then and then i was like i don't mind spending a little money and then the next one i did was the  
+**[6964.56s] English:** Marching band, and I was just like, "and but it was—you know, it's really crazy." I just said, "Can you guys...  
 **Translation:** 
 
-**[6964.56s] English:** marching band and i was just like and but it was you know it's real crazy i just said can you guys  
+**[6970.42s] English:** Get me a marching band, and they were like, "Yeah, it's like $2,400." I go, "Cool!  
 **Translation:** 
 
-**[6970.42s] English:** get me a marching band and they were like yeah it's like it's like 2400 bucks i go cool and  
-**Translation:** Vocabulary: bucks: 美元
-
-**[6974.80s] English:** they're like what do you want them to do and i go i don't know we'll figure it out and they came over  
+**[6974.80s] English:** They're like, "What do you want them to do?" And I go, "I don't know, we'll figure it out." And they came over.  
 **Translation:** 
 
-**[6978.12s] English:** and they had outfits and they were like so where do you what do you want us to play good what song  
+**[6978.12s] English:** And they had outfits, and they were like, "So, where do you want us to play? Good, what song?  
+**Translation:** Vocabulary: outfits: 服装
+
+**[6982.48s] English:** Do you guys know, and then they didn't even know each other; they were all hired people and they...  
 **Translation:** 
 
-**[6982.48s] English:** do you guys know and then they didn't even know each other they were all hired people and they  
+**[6986.92s] English:** We were like Rubber Band Man, and I was like, "Oh, sure, yeah," and then we just scripted it out. I was like,  
 **Translation:** 
 
-**[6986.92s] English:** were like rubber band man and i was like oh sure yeah and then we just scripted it out i was like  
+**[6992.10s] English:** All right, I'll pretend it's a regular thing. Listen; wait, I'll walk out and then I'll blow a whistle.  
 **Translation:** 
 
-**[6992.10s] English:** all right i'll pretend it's a regular thing listen wait i'll walk out and then i'll blow a whistle  
+**[6995.94s] English:** And then you came out with the, and then and then we got like two videos out of that.  
 **Translation:** 
 
-**[6995.94s] English:** and then you come out with the and then and then we got like two videos out of that and  
+**[7002.80s] English:** That sold-out date, and I was like, "Fuck.  
 **Translation:** 
 
-**[7002.80s] English:** that sold out dates and i was like fuck  
+**[7004.92s] English:** And then, and then, and then, and then, and then, the real baller one—the fucking real one—the real one.  
+**Translation:** Vocabulary: baller: 高手
+
+**[7014.78s] English:** Was I?  
 **Translation:** 
 
-**[7004.92s] English:** and then and then and then and then and then the real baller one the fucking real one the real one  
-**Translation:** Vocabulary: baller: 大佬
-
-**[7014.78s] English:** was i  
+**[7016.66s] English:** I.  
 **Translation:** 
 
-**[7016.66s] English:** i  
+**[7016.90s] English:** I.  
 **Translation:** 
 
-**[7016.90s] English:** i  
+**[7016.92s] English:** And then, and then, and then, and then, and then, and then, and then, and then, and then, and then, and then.  
 **Translation:** 
 
-**[7016.92s] English:** and then and then and then and then and then and then and then and then and then and then and then  
+**[7019.90s] English:** Shooting the movie, and I ripped all the tricep muscles off; they were retracted.  
 **Translation:** 
 
-**[7019.90s] English:** shooting the movie and i ripped all the tricep muscles off and they were retracted  
+**[7023.52s] English:** So, I'd go in for surgery, and the anesthesiologist said to me the night before, "What music?  
+**Translation:** Vocabulary: anesthesiologist: 麻醉医生; retracted: 收回; ripped: 撕裂
+
+**[7031.16s] English:** Do you want to go in and go under? I was like, "What? He goes, you can pick your music going under.  
 **Translation:** 
 
-**[7023.52s] English:** so i'd go in for surgery and the anesthesiologist said to me the night before he's like what music  
-**Translation:** Vocabulary: anesthesiologist: 麻醉医生; retracted: 收回
-
-**[7031.16s] English:** do you want going in going under and i was like what he goes you can pick your music going under  
+**[7034.46s] English:** I said, "Wait, hold on. What is it like? He goes, 'I go, is it like casual?' And he was like, 'Yeah.  
 **Translation:** 
 
-**[7034.46s] English:** i said wait hold on what is it like he go i go is it like casual and he was like yeah  
+**[7039.42s] English:** I said, "I'm doing a promo read." Going under, he goes, "What do you mean?" I said, "I'll explain to you.  
 **Translation:** 
 
-**[7039.42s] English:** i said i'm doing a promo read going under he goes what do you mean i said i'll explain to you  
-**Translation:** 
-
-**[7044.34s] English:** tomorrow but i'm gonna i'm not gonna count backwards  
+**[7044.34s] English:** Tomorrow, but I'm not gonna count backwards.  
 **Translation:** Vocabulary: backwards: 倒着; promo: 促销
 
-**[7046.90s] English:** i'm just gonna do a promo read until i pass out and my phone's gonna fall on the ground  
+**[7046.90s] English:** I'm just gonna do a promo read until I pass out, and my phone's gonna fall on the ground.  
 **Translation:** 
 
-**[7051.26s] English:** all i need you to do is hit stop record and so they rolled me into surgery i had red rocks i'd  
+**[7051.26s] English:** All I need you to do is hit "stop" and record. So, they rolled me into surgery. I had Red Rocks.  
 **Translation:** 
 
-**[7058.94s] English:** only sold like 75 of red rocks which is the biggest 10 000 the biggest venue i'd ever played  
+**[7058.94s] English:** Only sold about 75% of Red Rocks, which is the biggest 10,000-seat venue I've ever played.  
 **Translation:** 
 
-**[7064.48s] English:** in and i rolled in with my thing with ccr playing in the background and i just was like i was i lay  
+**[7064.48s] English:** In, I rolled in with my thing with CCR playing in the background, and I just laid there.  
 **Translation:** 
 
-**[7071.30s] English:** here on this mat or on this steel pile terrified as i go into surgery i want you to know one thing  
+**[7071.30s] English:** Here, on this mat or on this steel pile, terrified as I go into surgery, I want you to know one thing.  
 **Translation:** 
 
-**[7076.88s] English:** i'm playing red rock september 10th and  
+**[7076.88s] English:** I'm playing Red Rock on September 10th, and  
 **Translation:** 
 
-**[7080.00s] English:** I started doing my promo read and he was like yeah  
+**[7080.00s] English:** I started doing my promo read, and he was like, "Yeah.  
 **Translation:** 
 
-**[7082.18s] English:** I go Jimmy Buffett's there the night before and the night after he's like for real I go. Yeah, you want to come?  
-**Translation:** Vocabulary: jimmy: 吉米
+**[7082.18s] English:** I went to see Jimmy Buffett the night before and the night after; he's really something, man. Yeah, you want to come?  
+**Translation:** Vocabulary: buffett: 布什; jimmy: 吉米
 
-**[7086.26s] English:** He's like hell. Yeah, he's like all right. He's like you're going under and he hits it  
+**[7086.26s] English:** He's like hell. Yeah, he's all right. He's like you're going under, and he hits it.  
 **Translation:** 
 
-**[7089.54s] English:** I got sure and I dropped the phone  
+**[7089.54s] English:** I got sure and I dropped the phone.  
 **Translation:** 
 
-**[7092.38s] English:** Woke up at a surgery and the first thing I said is where's my phone and he goes you got it and Leanne's like I've already  
+**[7092.38s] English:** Woke up in the surgery, and the first thing I said was, "Where's my phone?" And he went, "You got it." Leanne's like, "I've already...  
 **Translation:** 
 
-**[7098.12s] English:** watched it it's good and I went for real and so like that was a  
+**[7098.12s] English:** Watched it; it's good, and I went for real. So, like, that was a  
 **Translation:** 
 
-**[7101.76s] English:** That was a that was a that was a big one. That was a big one, too  
+**[7101.76s] English:** That was a big one. That was a big one, too.  
 **Translation:** 
 
-**[7105.74s] English:** Yeah, that was genius, but that was sort of opportunity kind of jumping on an idea  
+**[7105.74s] English:** Yeah, that was genius, but that was sort of an opportunity to jump on an idea.  
 **Translation:** 
 
-**[7109.40s] English:** Have you ever met mr. Beast Jimmy? No  
+**[7109.40s] English:** Have you ever met Mr. Beast Jimmy? No.  
 **Translation:** 
 
-**[7112.42s] English:** So he he's I got to hang out with him for a day listen to brainstorm with the team ideas  
+**[7112.42s] English:** So, he's someone I have to hang out with for a day, listen, and brainstorm with the team about ideas.  
 **Translation:** 
 
-**[7117.90s] English:** Yeah, he kind of sounds like you but on steroids in terms of like  
+**[7117.90s] English:** Yeah, he kind of sounds like you, but on steroids, in terms of like.  
 **Translation:** 
 
-**[7121.62s] English:** first of all  
-**Translation:** Vocabulary: steroids: 增强版
+**[7121.62s] English:** First of all,  
+**Translation:** Vocabulary: steroids: 增强剂
 
-**[7123.38s] English:** willing to spend any amount of money on an idea like  
+**[7123.38s] English:** Willing to spend any amount of money on an idea like...  
 **Translation:** 
 
-**[7127.50s] English:** Anything anything is allowed anything is a lot. I love that energy. The only thing is  
+**[7127.50s] English:** Anything, anything is allowed; anything is a lot. I love that energy. The only thing is,...  
 **Translation:** 
 
-**[7133.80s] English:** No, like rated-r stuff. So he's really trying to go like  
+**[7133.80s] English:** No, like rated-R stuff. So he's really trying to go, like  
 **Translation:** 
 
-**[7138.42s] English:** for the broader  
+**[7138.42s] English:** For the broader  
 **Translation:** 
 
-**[7139.38s] English:** audience for kids and so on so that's the limitation so you can't do  
+**[7139.38s] English:** Audience for kids, and so on. So, that's the limitation; so you can't do  
 **Translation:** 
 
-**[7142.90s] English:** like most of the ideas that pop into my head when anything is allowed is kind of  
+**[7142.90s] English:** Like most of the ideas that pop into my head, when anything is allowed, they are kind of  
 **Translation:** 
 
-**[7147.02s] English:** Dark. Yeah, but the point is to really aggressively brainstorm every single day at the whiteboard like what and he does that for  
+**[7147.02s] English:** Dark. Yeah, but the point is to really aggressively brainstorm every single day at the whiteboard—like, what—and he does that for.  
 **Translation:** 
 
-**[7155.54s] English:** YouTube shorts too for one-minute videos really and just like really like what is the coolest thing we could possibly do  
-**Translation:** Vocabulary: aggressively: 猛烈地; whiteboard: 白板
+**[7155.54s] English:** YouTube Shorts, too, for one-minute videos—really, and just like, what is the coolest thing we could possibly do?  
+**Translation:** Vocabulary: aggressively: 积极地; whiteboard: 白板
 
-**[7162.38s] English:** I love that. I love that energy and that energy most people don't you do that and they should  
+**[7162.38s] English:** I love that. I love that energy, and that energy — most people don't, but you do that, and they should.  
 **Translation:** 
 
-**[7168.58s] English:** Basically youtubers do that because they're obsessed about this particular YouTube algorithm and so on and and Jimmy is the best at that  
-**Translation:** Vocabulary: algorithm: 算法
+**[7168.58s] English:** Basically, you tubers do that because they're obsessed with this particular YouTube algorithm, and so on. And Jimmy is the best at that.  
+**Translation:** Vocabulary: algorithm: 算法; obsessed: 着迷; tubers: 视频创作者
 
-**[7175.28s] English:** But like that can benefit you if you're a scientist if you're a comedian if you're whatever  
+**[7175.28s] English:** But, like, that can benefit you if you're a scientist, if you're a comedian, if you're whatever.  
 **Translation:** 
 
-**[7180.68s] English:** Just go all out. It's there's something really fun authentically fun about  
+**[7180.68s] English:** Just go all out. There's something really fun, authentically fun, about it.  
 **Translation:** Vocabulary: authentically: 真正地
 
-**[7186.08s] English:** Just coming up with a really stupid idea and just going let's see what happens who gives a fuck  
+**[7186.08s] English:** Just coming up with a really stupid idea, and just going, "Let's see what happens." Who gives a fuck?  
 **Translation:** 
 
-**[7190.88s] English:** we've had those like I thought I could catch an arrow one time and  
+**[7190.88s] English:** We've had those; like, I thought I could catch an arrow one time and  
 **Translation:** 
 
-**[7196.32s] English:** Yeah, my wife's like absolutely  
+**[7196.32s] English:** Yeah, my wife is absolutely  
 **Translation:** 
 
-**[7198.58s] English:** absolutely fucking not they go I  
+**[7198.58s] English:** Absolutely, fucking, not! They go, I.  
 **Translation:** 
 
-**[7200.00s] English:** really think i can i go let's just get really close shoot it and then i'll see if i can catch  
+**[7200.00s] English:** Really, I think I can. Let's just get really close, shoot it, and then I'll see if I can catch it.  
 **Translation:** 
 
-**[7204.92s] English:** it and she's like no that's not what you're doing and then my cousin's like hey we could cheat it to  
+**[7204.92s] English:** It and she's like, "No, that's not what you're doing." And then my cousin's like, "Hey, we could cheat it.  
 **Translation:** 
 
-**[7209.96s] English:** make you look like you caught an arrow and i went what he was yeah just okay let's do it like this  
+**[7209.96s] English:** Make you look like you caught an arrow, and I went, "What? He was, yeah, just okay—let's do it like this.  
 **Translation:** 
 
-**[7214.20s] English:** and so we did it they got sold a ton of tickets it looks like i really caught it everyone knows  
+**[7214.20s] English:** And so, we did it. They got sold a ton of tickets; it looks like I really caught it. Everyone knows.  
 **Translation:** 
 
-**[7218.46s] English:** i didn't catch an arrow i mean for the movie we did a promo legendary was like you do all the  
+**[7218.46s] English:** I didn't catch an arrow. I mean, for the movie, we did a promo. Legendary was like, "You do all the...  
 **Translation:** 
 
-**[7222.66s] English:** promos and we did a promo and i thought i could slide out of my car like tom cruise did in a in  
-**Translation:** Vocabulary: promo: 促销; promos: 促销
+**[7222.66s] English:** Promos, and we did a promo. And I thought I could slide out of my car like Tom Cruise did—in  
+**Translation:** Vocabulary: legendary: 传奇的; promo: 预告; promos: 预告
 
-**[7228.90s] English:** a helicopter yeah and with roller skates and get behind the car and then skate behind the car and  
+**[7228.90s] English:** A helicopter, yeah, and with roller skates, get behind the car and then skate behind the car and  
 **Translation:** 
 
-**[7234.74s] English:** we just ran over my foot and it was real and it was scary but we just caught it all and in doing  
+**[7234.74s] English:** We just ran over my foot, and it was really and suddenly scary. But we just caught it all on camera, and in doing so,  
+**Translation:** Vocabulary: helicopter: 直升机; roller: 滚轮
+
+**[7242.50s] English:** It's my cousin's, like, give me a read, and I'm like, "My movie comes out Memorial Day weekend; uh, I think.  
 **Translation:** 
 
-**[7242.50s] English:** it my cousin's like give me the read and i'm like my movie comes out memorial day weekend uh i think  
-**Translation:** 
-
-**[7248.86s] English:** we have to go to the hospital and then we went to the hospital and i'm in the speedo with a helmet  
+**[7248.86s] English:** We had to go to the hospital, and then we went to the hospital. I'm in the speedo with a helmet.  
 **Translation:** Vocabulary: speedo: 比基尼泳裤
 
-**[7252.00s] English:** on one broken roller skate and then and then that did really well and so like i said the whole thing  
+**[7252.00s] English:** On one broken roller skate, and then that did really well. And so, as I said, the whole thing worked out great.  
 **Translation:** 
 
-**[7258.32s] English:** is just turn the  
+**[7258.32s] English:** Is just turn the  
 **Translation:** 
 
-**[7258.88s] English:** camera on you never know what's gonna fucking happen and don't be afraid to look stupid and  
+**[7258.88s] English:** Camera on you, never know what's gonna fucking happen, and don't be afraid to look stupid.  
 **Translation:** 
 
-**[7263.62s] English:** all that kind of stuff just go all out fucking ego's the death of comedy like when you when you  
+**[7263.62s] English:** All that kind of stuff just goes all out, fucking egos are the death of comedy, like when you...  
 **Translation:** 
 
-**[7268.56s] English:** really give a like if it's hard to be the coolest guy in the room and still want to be a comedian  
+**[7268.56s] English:** Really, give a like if it's hard to be the coolest guy in the room and still want to be a comedian.  
 **Translation:** 
 
-**[7274.88s] English:** it's just let yourself be whoever you are and you'll see the great ones they're like that they  
+**[7274.88s] English:** It's just let yourself be whoever you are, and you'll see the great ones; they're like that.  
 **Translation:** 
 
-**[7279.66s] English:** don't they you know they're they're just regular fucking dudes and you get some real slick ones  
+**[7279.66s] English:** Don't they, you know? They're just regular fucking dudes, and you get some really slick ones.  
 **Translation:** 
 
-**[7285.02s] English:** like dave's probably might be the coolest guy in the fucking room he right might really might be  
+**[7285.02s] English:** Like, Dave's probably the coolest guy in the room. He, right, might really be.  
+**Translation:** Vocabulary: slick: 油滑的
+
+**[7288.64s] English:** Yeah.  
 **Translation:** 
 
-**[7288.64s] English:** yeah  
+**[7288.88s] English:** But I think that's just who the fuck he is. Who are the outsiders in your friend group?  
+**Translation:** Vocabulary: outsiders: 圈外人
+
+**[7294.60s] English:** Greats to you, top five outside of my friend group, so, um, like for me, probably Norm MacDonald.  
 **Translation:** 
 
-**[7288.88s] English:** but i think that's just who the fuck he is who are the outside your close friend group who are the  
+**[7302.68s] English:** Mitch Heidberg, George Carlin, Thomas Agoura: Number one. Oh, yeah. No, I said I wanted to say that it's an  
+**Translation:** Vocabulary: carlin: 乔治·卡尔林; heidberg: 米奇·海德伯格; mitch: 米奇
+
+**[7312.02s] English:** Interesting pairing. No, Mitch Heidberg, David Tell, David Tell, every everybody.  
 **Translation:** 
 
-**[7294.60s] English:** greats to you top five outside of my friend group so um like for me probably norm mcdonald  
+**[7318.88s] English:** Deeply respects.  
 **Translation:** 
 
-**[7302.68s] English:** mitch heidberg george carlin thomas agoura number one oh yeah no i said i wanted to say that it's an  
-**Translation:** Vocabulary: carlin: 乔治·卡林; mcdonald: 麦当劳; mitch: 米奇
-
-**[7312.02s] English:** interesting pairing no mitch heidberg david tell david tell david tell every everybody  
+**[7320.00s] English:** The other time, more than even his comedy, I love the show where he was an insomniac. Insomniac. He's  
 **Translation:** 
 
-**[7318.88s] English:** deeply respects  
+**[7326.00s] English:** So good at the natural comedy of human interaction, he's a brilliant comic; he's just a  
+**Translation:** Vocabulary: insomniac: 失眠的人
+
+**[7332.42s] English:** Brilliant fucking mind, um, Norm McDonald's a fucking genius—an absolute genius. I mean, look.  
 **Translation:** 
 
-**[7320.00s] English:** the other time more than even his comedy i love the show where he was uh insomniac insomniac he's  
+**[7338.58s] English:** You know, Chapelle and Bill Burr are the two best in our generation, in my opinion, and I  
+**Translation:** Vocabulary: chapelle: 哈普勒
+
+**[7345.98s] English:** That's you know, and that's understanding that I'm still friends with some of the best.  
 **Translation:** 
 
-**[7326.00s] English:** so good at just the the natural comedy of human interaction he's a brilliant comic he's just a  
-**Translation:** Vocabulary: insomniac: 失眠患者
-
-**[7332.42s] English:** brilliant fucking mind um norm mcdonald's a fucking genius an absolute genius i mean look  
+**[7349.06s] English:** In our generation, but like, just the way their brains work is really on the next level, like you  
 **Translation:** 
 
-**[7338.58s] English:** you know chapelle and bill burr are are the two best in our generation in my opinion and i and  
-**Translation:** Vocabulary: chapelle: 笑匠典范
-
-**[7345.98s] English:** that's you know and that's understanding that like i'm still friends with some of the best  
+**[7354.16s] English:** Know, those are guys; Stanhope is the same way, just fucking genius, you know? I've heard of Rogan and Sagura; those are.  
 **Translation:** 
 
-**[7349.06s] English:** in our generation but like just the way their brains work is really on the next level like you  
-**Translation:** 
-
-**[7354.16s] English:** know those are guys stanhope is the same way just fucking genius you know i rogan sagura those are  
-**Translation:** 
-
-**[7360.40s] English:** my friend group that's my really close friend group but like those other guys i'm friends with  
+**[7360.40s] English:** My friend group, that's my really close friend group, but like those other guys I'm friends with.  
 **Translation:** Vocabulary: stanhope: 斯坦霍普
 
-**[7364.66s] English:** but they're not like that's like yeah louis ck oh louis ck fuck he's amazing it's hard to do  
+**[7364.66s] English:** But they're not like, that's like, yeah, Louis C.K.? Oh, Louis C.K.! Fuck, he's amazing; it's hard to do.  
 **Translation:** 
 
-**[7371.98s] English:** because you start like forgetting the like people and then it's almost like people go oh so you  
+**[7371.98s] English:** Because you start forgetting about the people, and then it's almost like they think, "Oh, so you...  
 **Translation:** 
 
-**[7376.88s] English:** didn't like that person you're like no i fucking love that person  
+**[7376.88s] English:** Didn't like that person? You're like, no, I fucking love that person!  
 **Translation:** 
 
-**[7378.88s] English:** yeah  
+**[7378.88s] English:** Yeah.  
 **Translation:** 
 
-**[7379.06s] English:** i mean there's uh for me like robin williams was a whole nother thing oh yeah sarah silverman  
+**[7379.06s] English:** I mean, there's, uh, for me, like Robin Williams was a whole nother thing. Oh, yeah, Sarah Silverman.  
 **Translation:** 
 
-**[7386.42s] English:** uh fucking uh i love janine i mean i'm a fucking big janine fan i love her brain  
-**Translation:** Vocabulary: janine: 简宁; silverman: 莎拉·银曼
+**[7386.42s] English:** Uh, fuck. I love Janine. I mean, I'm a fucking big Janine fan. I love her brain.  
+**Translation:** Vocabulary: janine: 简宁; nother: 另外的; silverman: 席琳娜
 
-**[7393.20s] English:** marin's fucking hilarious you know uh patton's brilliant david cross i mean there's like it's  
+**[7393.20s] English:** Marin's fucking hilarious, you know? Uh, Patton's brilliant. David Cross—I mean, there's like it's  
 **Translation:** 
 
-**[7399.16s] English:** you know it's really to ignore those guys and those guys were like the whole forefront of the  
-**Translation:** Vocabulary: forefront: 前沿
+**[7399.16s] English:** You know, it's really hard to ignore those guys, and those guys were like the forefront of the  
+**Translation:** Vocabulary: forefront: 前沿; hilarious: 好笑
 
-**[7403.02s] English:** alternative comedy front they're fucking amazing yeah and the people that have like marin or  
+**[7403.02s] English:** Alternative comedy, front — they're fucking amazing, yeah, and the people that have, like, Marin or...  
 **Translation:** 
 
-**[7408.88s] English:** joe that have podcasts it's interesting it's an interesting pairing because you get to know like  
+**[7408.88s] English:** Joe, that have podcasts—it's interesting; it's an interesting pairing because you get to know people better.  
 **Translation:** Vocabulary: marin: 马林
 
-**[7412.84s] English:** everything about them but then they're also comedians and i've gotten i've gone to joe's club  
+**[7412.84s] English:** Everything about them, but then they're also comedians, and I've gotten to go to Joe's club.  
 **Translation:** 
 
-**[7418.34s] English:** a lot i listen joe and just that whole group of comics do comedy and go to the same set over and  
+**[7418.34s] English:** A lot. I listen to Joe, and just that whole group of comics do comedy and go to the same set over and  
+**Translation:** Vocabulary: comedians: 喜剧演员
+
+**[7425.08s] English:** Over and over, and to see how it changes—it's really cool. It's the coolest thing when I first saw it.  
 **Translation:** 
 
-**[7425.08s] English:** over and over and to see how it changes it's really cool it's the coolest thing when i first  
-**Translation:** 
-
-**[7428.64s] English:** started to watch someone i could tell was really brilliant at it because you'd watch him tinker  
+**[7428.64s] English:** Started to watch someone I could tell was really brilliant at it because you'd watch him tinker.  
 **Translation:** Vocabulary: tinker: 摆弄
 
-**[7432.28s] English:** with a set yeah and it'd be he'd have a an idea like hitting someone over the head with a hammer  
+**[7432.28s] English:** With a set, yeah, and it'd be like him having an idea, like hitting someone over the head with a hammer.  
 **Translation:** 
 
-**[7438.10s] English:** from behind  
+**[7438.10s] English:** From behind  
 **Translation:** 
 
-**[7438.72s] English:** and then he'd  
+**[7438.72s] English:** And then he'd  
 **Translation:** 
 
-**[7440.00s] English:** work it nine different ways you know and you'd be like whoa so you're the hitting hammer in the head  
+**[7440.00s] English:** Work it nine different ways, you know, and you'd be like, "Whoa!" So you're really hitting me in the head.  
 **Translation:** 
 
-**[7445.00s] English:** is the thing that he's working on i hope eddie murphy comes back he's one of the greats chris  
+**[7445.00s] English:** Is the thing that he's working on? I hope Eddie Murphy comes back; he's one of the greats, Chris.  
 **Translation:** 
 
-**[7451.78s] English:** rock chris rocks fucking bring the pain is like the reason i got in comedy yeah  
-**Translation:** Vocabulary: eddie: 埃迪·墨菲
+**[7451.78s] English:** Rock, Chris, rocks. Fucking bring the pain; it's like the reason I got into comedy, yeah.  
+**Translation:** Vocabulary: eddie: 埃迪; murphy: 墨菲
 
-**[7456.74s] English:** do you have advice for young folks you seem like a stellar example of a successful human being  
+**[7456.74s] English:** Do you have any advice for young folks? You seem like a stellar example of a successful human being.  
 **Translation:** 
 
-**[7464.56s] English:** or more seriously a very kind of non-linear life do you have advice for young people in  
-**Translation:** Vocabulary: stellar: 杰出的
+**[7464.56s] English:** Or, more seriously, a very kind of non-linear life: do you have any advice for young people in?  
+**Translation:** Vocabulary: stellar: 优秀的
 
-**[7471.36s] English:** high school and college how to have a good life they can be proud of don't worry too much  
+**[7471.36s] English:** High school and college: how to have a good life they can be proud of; don't worry too much.  
 **Translation:** 
 
-**[7478.78s] English:** about what you do when you get older but when you do start worrying find the thing you love  
+**[7478.78s] English:** About what you do when you get older, but when you do start worrying, find the thing you love.  
+**Translation:** Vocabulary: worrying: 忧虑
+
+**[7486.88s] English:** And it'll never feel like work to me. I can't imagine what it must feel like.  
 **Translation:** 
 
-**[7486.88s] English:** and it'll never feel like work the to fucking i can't imagine what it must feel like  
+**[7492.94s] English:** To be a lawyer, and have to be a lawyer, and have to be a lawyer, and have to.  
 **Translation:** 
 
-**[7492.94s] English:** to be a lawyer and have to be a lawyer and have to be a lawyer and have to  
+**[7494.54s] English:** To fucking hell, I can't imagine what it must feel like to be a lawyer and have to be a lawyer and have to.  
 **Translation:** 
 
-**[7494.54s] English:** to fucking i can't imagine what it must feel like to be a lawyer and have to be a lawyer and have to  
+**[7494.56s] English:** Read papers or whatever they do all day, and know that that's my day—yeah. I mean, it must feel like  
 **Translation:** 
 
-**[7494.56s] English:** read papers or whatever they do all day and know that that's my day yeah i mean it must feel like  
+**[7500.80s] English:** What it felt like for me in school, but if you find that thing you love to do, you will work.  
 **Translation:** 
 
-**[7500.80s] English:** what i was school felt like for me but if you find that thing you love to do you will work  
+**[7507.78s] English:** Endlessly, effortlessly, and hard as fucking shit—every day, and you'll love every day of your life.  
+**Translation:** Vocabulary: effortlessly: 轻松地; endlessly: 无尽地
+
+**[7514.66s] English:** Find what you love and let it kill you, Bakowski said. That's the fucking thing.  
 **Translation:** 
 
-**[7507.78s] English:** endlessly effortlessly and hard as fucking shit every day and you'll love every day of your life  
-**Translation:** Vocabulary: effortlessly: 毫不费力; endlessly: 无穷无尽
-
-**[7514.66s] English:** find what you love and let it kill you bakowski said that for then that's the fucking thing  
+**[7520.32s] English:** Because that's what I'm doing. I'm letting it fucking take me. I'm, I'm, I'm on that.  
 **Translation:** 
 
-**[7520.32s] English:** because that's what i'm doing i'm letting it fucking take i'm i'm fucking i'm i'm on that  
-**Translation:** Vocabulary: bakowski: 巴科夫斯基
-
-**[7525.86s] English:** fucking bullet train to fucking nowhere on this fucking comedy journey i love it i love it so it's  
+**[7525.86s] English:** Fucking bullet train to fucking nowhere on this fucking comedy journey, I love it! I love it so much; it's  
 **Translation:** 
 
-**[7532.08s] English:** like the hunter s thompson thing what is it however you put it you basically you're not  
+**[7532.08s] English:** Like the Hunter S. Thompson thing—what is it, however you put it—you basically aren't  
 **Translation:** 
 
-**[7536.60s] English:** supposed to be uh end up in a well-preserved box you slide in sideways smoke just beat up  
+**[7536.60s] English:** Supposed to be, uh, end up in a well-preserved box; you slide in sideways, smoke just beat up.  
 **Translation:** 
 
-**[7543.82s] English:** yeah just just a giant mess i love i love those guys that can really live that life that are like  
-**Translation:** Vocabulary: sideways: 侧着身子
+**[7543.82s] English:** Yeah, just a giant mess. I love those guys who can really live that life and be like...  
+**Translation:** Vocabulary: sideways: 斜着
 
-**[7550.32s] English:** yeah man i'm breaking it i'm breaking it down like a guy like tony hawk or matt hoffman who's like  
+**[7550.32s] English:** Yeah, man. I'm breaking it down like a guy like Tony Hawk or Matt Hoffman.  
 **Translation:** 
 
-**[7554.90s] English:** yeah if i if i don't fucking break the fuck out of this thing before i i'm then i'm not doing it right  
+**[7554.90s] English:** Yeah, if I don't fucking break the fuck out of this thing, then I'm not doing it right.  
 **Translation:** Vocabulary: hoffman: 霍夫曼
 
-**[7560.00s] English:** And again, there's also Churchill, who tried to break the thing, and he couldn't.  
+**[7560.00s] English:** And again, there's also Churchill, who tried to break it, and he couldn't.  
 **Translation:** 
 
-**[7563.24s] English:** Lived into his 90s, a bad motherfucker.  
+**[7563.24s] English:** Lived into his 90s; a bad motherfucker.  
 **Translation:** Vocabulary: churchill: 丘吉尔; motherfucker: 混账
 
 **[7566.02s] English:** Just a bad motherfucker.  
 **Translation:** 
 
-**[7567.96s] English:** So I guess the only hope we can have for Burt Kreischer is that you're going to be the Winston Churchill of comedy.  
-**Translation:** Vocabulary: winston: 温斯顿·丘吉尔
+**[7567.96s] English:** So, I guess the only hope we can have for Burt Kreischer is that you're going to be the Winston Churchill of comedy.  
+**Translation:** Vocabulary: kreischer: 伯特·克里谢; winston: 温斯顿
 
-**[7573.10s] English:** My life is lived perfectly if I'm 95 years old and all my friends are dead.  
+**[7573.10s] English:** My life is lived perfectly if I'm 95 years old, and all my friends are dead.  
 **Translation:** 
 
 **[7580.72s] English:** Yeah.  
 **Translation:** 
 
-**[7583.86s] English:** They're like, can you believe that wolf got Rogan?  
+**[7583.86s] English:** They're like, "Can you believe that wolf got Rogan?  
 **Translation:** 
 
 **[7587.92s] English:** Yeah.  
@@ -5974,14 +5975,14 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[7601.86s] English:** Just standing there in October.  
 **Translation:** 
 
-**[7604.66s] English:** So by October, just the two of you left.  
+**[7604.66s] English:** So, by October, just the two of you were left.  
 **Translation:** 
 
 **[7606.70s] English:** Just laughing.  
 **Translation:** 
 
-**[7608.28s] English:** By October, it's just, I'm 95 at the Mark Twain Awards, and they're like, Burt Kreischer's still fucking here.  
-**Translation:** Vocabulary: twain: 二位
+**[7608.28s] English:** By October, it's just that I'll be 95 at the Mark Twain Awards, and they're like, "Burt Kreischer's still fucking here.  
+**Translation:** Vocabulary: twain: 二
 
 **[7614.46s] English:** Who saw that coming?  
 **Translation:** 
@@ -5998,7 +5999,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[7619.82s] English:** It meant so much to me when you said that you knew who I was, like we were talking about.  
 **Translation:** 
 
-**[7624.48s] English:** It just, it's so cool.  
+**[7624.48s] English:** It's just so cool.  
 **Translation:** 
 
 **[7626.14s] English:** It's so cool.  
@@ -6037,13 +6038,13 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[7648.42s] English:** And now, let me leave you with some words from Hunter S. Thompson.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[7652.08s] English:** Life should not be a journey to the grave with the intention of arriving safely in a pretty and well-preserved body,  
+**[7652.08s] English:** Life should not be a journey to the grave with the intention of arriving safely in a pretty and well-preserved body.  
 **Translation:** 
 
-**[7658.68s] English:** but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming,  
-**Translation:** Vocabulary: broadside: 全速撞上; proclaiming: 高声宣告
+**[7658.68s] English:** But rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming,  
+**Translation:** Vocabulary: broadside: 侧面撞击; proclaiming: 宣告; thoroughly: 彻底地
 
-**[7668.56s] English:** Wow, what a ride.  
+**[7668.56s] English:** Wow, what a ride!  
 **Translation:** 
 
 **[7671.26s] English:** Thank you for listening, and I hope to see you next time.  
@@ -6052,7 +6053,7 @@ Source file: Lex Fridman - Bert Kreischer： Comedy, Drinking, Rogan, Segura, Ch
 **[7678.16s] English:** Thank you.  
 **Translation:** 
 
-**[7680.00s] English:** Teksting av Nicolai Winther  
+**[7680.00s] English:** Testing of Nicolai Winther  
 **Translation:** 
 
 

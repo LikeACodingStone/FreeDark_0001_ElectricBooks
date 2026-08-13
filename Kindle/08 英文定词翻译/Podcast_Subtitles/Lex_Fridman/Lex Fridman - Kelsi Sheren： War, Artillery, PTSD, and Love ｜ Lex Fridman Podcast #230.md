@@ -1,22 +1,23 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Lex Fridman Podcast #230.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The following is a conversation with Kelsey Sharon, Canadian Forces veteran, artillery gunner,  
+**[0.00s] English:** The following is a conversation with Kelsey Sharon, Canadian Forces veteran, artillery gunner.  
 **Translation:** 
 
-**[5.92s] English:** who served in Afghanistan at 18 years old and came home with severe PTSD.  
-**Translation:** Vocabulary: afghanistan: 阿富汗; artillery: 火炮
+**[5.92s] English:** Who served in Afghanistan at 18 years old and came home with severe PTSD.  
+**Translation:** Vocabulary: afghanistan: 阿富汗; artillery: 火炮; veteran: 退伍军人
 
-**[11.80s] English:** She went on to found Brass in Unity, which creates unique jewelry,  
+**[11.80s] English:** She went on to found Brass in Unity, which creates unique jewelry.  
 **Translation:** 
 
-**[15.52s] English:** large part of the proceeds from which go to help rehabilitate the lives, limbs, and mental health of veterans and first responders.  
+**[15.52s] English:** A large part of the proceeds goes to help rehabilitate the lives, limbs, and mental health of veterans and first responders.  
 **Translation:** Vocabulary: rehabilitate: 康复; responders: 救援人员
 
-**[24.98s] English:** She has a big personality, big heart, and an intense passion for life.  
+**[24.98s] English:** She has a big personality, a big heart, and an intense passion for life.  
 **Translation:** 
 
-**[30.00s] English:** So when our paths happened to cross, I knew we needed to talk.  
+**[30.00s] English:** So, when our paths happened to cross, I knew we needed to talk.  
 **Translation:** 
 
 **[35.14s] English:** This is the Lex Friedman Podcast.  
@@ -28,10 +29,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[40.74s] English:** And now, here's my conversation with Kelsey Sharon.  
 **Translation:** 
 
-**[45.08s] English:** You mentioned that studying history had a big impact on you and that your grandfather was a World War II vet.  
+**[45.08s] English:** You mentioned that studying history had a big impact on you, and that your grandfather was a World War II veteran.  
 **Translation:** 
 
-**[52.08s] English:** So people that have gone through World War II, in my family too, they don't seem to talk about it much.  
+**[52.08s] English:** So, people who have gone through World War II, in my family too, don't seem to talk about it much.  
 **Translation:** 
 
 **[57.02s] English:** Like, the worse the tragedy, the less they talk about it.  
@@ -40,7 +41,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[60.00s] English:** I mean, it's understandable. I can respect that.  
 **Translation:** 
 
-**[62.56s] English:** But I don't think people fully understood the value in human stories over time and sharing that.  
+**[62.56s] English:** But I don't think people fully understood the value in human stories over time, and sharing that.  
 **Translation:** Vocabulary: understandable: 可以理解的
 
 **[71.58s] English:** That certain civilizations don't have written language.  
@@ -49,709 +50,709 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[75.40s] English:** The value in that being passed down is extraordinary.  
 **Translation:** 
 
-**[79.16s] English:** But we didn't really have that with the World War II vets, it seems like.  
+**[79.16s] English:** But we didn't really have that with the World War II veterans, it seems like.  
 **Translation:** 
 
 **[83.12s] English:** Well, they kind of want to protect you from the pain.  
 **Translation:** 
 
-**[85.60s] English:** My grandmother went through...  
+**[85.60s] English:** My grandmother went through....  
 **Translation:** 
 
-**[90.00s] English:** Which is the Ukrainian starvation of millions of people.  
-**Translation:** Vocabulary: starvation: 饥荒
+**[90.00s] English:** Which is the Ukrainian famine that starved millions of people.  
+**Translation:** Vocabulary: famine: 饥荒
 
 **[93.44s] English:** And then, obviously, went through World War II with the Nazi occupation.  
 **Translation:** 
 
-**[99.52s] English:** And same on the grandfather's side.  
+**[99.52s] English:** And the same on the grandfather's side.  
 **Translation:** 
 
-**[103.02s] English:** On my dad's side, grandfather fought in World War II.  
+**[103.02s] English:** On my dad's side, Grandfather fought in World War II.  
 **Translation:** 
 
 **[107.12s] English:** And they seem to not want to talk about those experiences to protect you from the suffering.  
 **Translation:** 
 
-**[113.12s] English:** To protect you from the evil that they've experienced.  
+**[113.12s] English:** To protect you from the evil that they have experienced.  
 **Translation:** 
 
-**[115.26s] English:** Which is sad because...  
+**[115.26s] English:** Which is sad because,...  
 **Translation:** 
 
 **[118.14s] English:** The lessons from that.  
 **Translation:** 
 
-**[120.00s] English:** history and not then propagated through you. And also there's something about the strength you  
+**[120.00s] English:** History, and not then propagated through you. And also, there's something about the strength you.  
 **Translation:** Vocabulary: propagated: 传播
 
-**[125.66s] English:** carry with you knowing that that's in your blood. Those great heroes are in your blood and that  
+**[125.66s] English:** Carry with you, knowing that those great heroes are in your blood.  
 **Translation:** 
 
-**[130.22s] English:** suffering, overcoming that suffering is in your blood. I would argue that's exactly correct. If  
+**[130.22s] English:** Suffering, overcoming that suffering is in your blood. I would argue that's exactly correct. If  
+**Translation:** Vocabulary: overcoming: 克服
+
+**[135.24s] English:** You have someone you know that comes from your lineage who has done something super gnarly.  
 **Translation:** 
 
-**[135.24s] English:** you have someone you know that comes from your lineage that has done something super gnarly,  
-**Translation:** 
-
-**[141.20s] English:** that's just been a badass and in so many different ways, you want to know about that person. You have  
+**[141.20s] English:** That's just been a badass, and in so many different ways; you want to know about that person, you have  
 **Translation:** Vocabulary: badass: 牛逼; gnarly: 酷毙了; lineage: 血统
 
-**[147.00s] English:** that person's blood in you. That's important to acknowledge. And when that isn't shared,  
+**[147.00s] English:** That person's blood is in you. That's important to acknowledge. And when that isn't shared,...  
 **Translation:** 
 
-**[150.78s] English:** I feel like it's just a detriment to that individual. What do you make of World War II  
+**[150.78s] English:** I feel like it's just a detriment to that individual. What do you make of World War II?  
 **Translation:** 
 
-**[156.40s] English:** in terms of history? Do you think about those kinds of wars where two times more civilians died  
+**[156.40s] English:** In terms of history, do you think about those kinds of wars where twice as many civilians died?  
 **Translation:** 
 
-**[163.64s] English:** than the number of military personnel? So most of the war is basically just the death of civilians  
+**[163.64s] English:** Than the number of military personnel? So, most of the war is basically just the death of civilians.  
 **Translation:** 
 
-**[171.94s] English:** and the invasion of homes, the burning of homes, the bombing of homes, all of that.  
+**[171.94s] English:** And the invasion of homes, the burning of homes, the bombing of homes—all of that.  
 **Translation:** 
 
 **[176.48s] English:** World War II.  
+**Translation:** Vocabulary: bombing: 轰炸
+
+**[176.98s] English:** World War II, for me, I find that was the first experience where I became  
 **Translation:** 
 
-**[176.98s] English:** World War II for me, I find that was the first experience where I became  
+**[183.22s] English:** Just obsessed with history. World War II really did it for me. I'm not sure if it's because  
+**Translation:** Vocabulary: obsessed: 着迷
+
+**[191.80s] English:** Of the dramatization in films and TV, and the way our generation has looked at it. But for me,  
 **Translation:** 
 
-**[183.22s] English:** just obsessed with history. World War II really did it for me. I'm not sure if it's because  
-**Translation:** 
-
-**[191.80s] English:** of the dramatization of film and TV and the way that our generation has looked at it. But for me,  
-**Translation:** 
-
-**[199.98s] English:** it was more than that. I felt a deep connection to it and I still can't figure out why. Like a  
+**[199.98s] English:** It was more than that. I felt a deep connection to it, and I still can't figure out why. Like a  
 **Translation:** Vocabulary: dramatization: 戏剧化
 
-**[206.38s] English:** pull almost.  
+**[206.38s] English:** Pull almost.  
 **Translation:** 
 
-**[206.98s] English:** People joke around about those past lives and those things or those connections,  
+**[206.98s] English:** People joke around about those past lives and those things or those connections.  
 **Translation:** 
 
-**[212.26s] English:** and there's something deeper within me that feels a pull towards that. And I'm not quite sure  
+**[212.26s] English:** And there's something deeper within me that feels a pull towards that, and I'm not quite sure.  
 **Translation:** 
 
-**[218.02s] English:** if it's because I had family that escaped Hungary once the Soviets came in. So thanks for that.  
+**[218.02s] English:** If it's because I had family that escaped Hungary once the Soviets came in, so thanks for that.  
+**Translation:** Vocabulary: hungary: 匈牙利
+
+**[225.30s] English:** Or if it was because my grandfather served in it, or for whatever reason, I just,  
 **Translation:** 
 
-**[225.30s] English:** Or if it was because my grandfather served in it or for whatever reason, I just,  
+**[231.38s] English:** I have this pull to it. And so, when you think about the mass  
 **Translation:** 
 
-**[231.38s] English:** I have this pull to it. And so when you think about the mass  
+**[235.46s] English:** Casualty of the civilian population—that's very difficult for me.  
 **Translation:** 
 
-**[235.46s] English:** casualty of the civilian population, that's very difficult for me.  
+**[240.00s] English:** To wrap my brain around it after being in a war and seeing when you have a small subset of civilians,  
+**Translation:** Vocabulary: casualty: 伤亡
+
+**[246.40s] English:** Die; how much of an impact that has on that community, right there, and just in just a tiny.  
 **Translation:** 
 
-**[240.00s] English:** to wrap my brain around after being in a war and seeing when you have a small subset of civilians  
+**[251.60s] English:** Area, so to try to wrap my brain around what happened in Europe and all across and all.  
 **Translation:** 
 
-**[246.40s] English:** die how much of an impact that has on that community right there and just in just a tiny  
+**[257.12s] English:** Of that, I really struggle because I don't know if I can comprehend what that would.  
 **Translation:** 
 
-**[251.60s] English:** area so to try to wrap my brain around what happened in europe and all across and and all  
-**Translation:** 
-
-**[257.12s] English:** of that i really struggle with that because i don't know that i can comprehend what that would  
-**Translation:** 
-
-**[262.64s] English:** truly mean to somebody if i if i didn't experience it or or see it for what it is does that make  
+**[262.64s] English:** Truly mean to somebody if I didn't experience it or see it for what it is, does that make?  
 **Translation:** Vocabulary: comprehend: 理解
 
-**[268.40s] English:** sense yeah but uh so first of all you're right a lot of people are drawn to world war ii for  
+**[268.40s] English:** Sense, yeah, but uh, so first of all, you're right; a lot of people are drawn to World War II for  
 **Translation:** 
 
-**[274.00s] English:** different reasons so one is hitler and stalin trying to understand how it's possible to have  
+**[274.00s] English:** Different reasons: so, one is Hitler and Stalin trying to understand how it's possible to have.  
+**Translation:** Vocabulary: hitler: 希特勒; stalin: 斯大林
+
+**[280.72s] English:** That scale of evil, in very different flavors of evil, it's almost fascinating that humans can be capable of such things.  
 **Translation:** 
 
-**[280.72s] English:** that scale of evil in very different flavors of evil it's almost fascinating that human  
+**[287.44s] English:** Nature can allow for that, and it's fascinating that so many people can follow.  
+**Translation:** Vocabulary: flavors: 种类
+
+**[291.84s] English:** Leaders like that, with pride and love for their country, yeah, and that's like  
 **Translation:** 
 
-**[287.44s] English:** nature can allow for that and then also it's fascinating that so many people can follow  
+**[298.40s] English:** It's almost like this weird experiment. It's like, wow, I wonder if I'm still the same, I'm made from the  
 **Translation:** 
 
-**[291.84s] English:** leaders like that with with the pride and with the love of country yeah and that's like  
+**[304.24s] English:** Same, uh, cloth as those people: would I be a good German if I lived in Germany, uh?  
 **Translation:** 
 
-**[298.40s] English:** it's almost like this weird experiment it's like wow i wonder if i'm the the same i'm made from the  
+**[313.28s] English:** During the time of Hitler, I would believe that Germany has been done wrong, I'm  
 **Translation:** 
 
-**[304.24s] English:** same uh cloth as those people like would i be a good german if uh if i lived in germany uh and  
+**[318.96s] English:** Jewish, by the way, which makes me a little bit more comfortable talking about this; uh, is what I  
 **Translation:** 
 
-**[313.28s] English:** was you know during the time of hitler would i believe that germany has been done wrong i'm  
+**[325.28s] English:** Would I believe in the dream sold by God?  
 **Translation:** 
 
-**[318.96s] English:** jewish by the way which makes me a little bit more comfortable talking about this uh is what i  
+**[328.40s] English:** A charismatic dictator who says that wrongs have been done, and we need to correct those wrongs.  
 **Translation:** 
 
-**[325.28s] English:** would i believe in the dream sold by god  
+**[335.12s] English:** That to me is the compelling thing that draws me to World War II: the human nature question, I  
+**Translation:** Vocabulary: charismatic: 有魅力的; compelling: 令人信服的; dictator: 独裁者
+
+**[341.52s] English:** I would agree with you on that. I think there's a way to look at people like that, and at that time.  
 **Translation:** 
 
-**[328.40s] English:** charismatic dictator who says that wrongs have been done and we need to correct those wrongs  
-**Translation:** 
-
-**[335.12s] English:** that to me is the compelling thing that draws me to world war ii uh the human nature question i  
-**Translation:** Vocabulary: charismatic: 魅力无穷; compelling: 极具说服力; dictator: 独裁者
-
-**[341.52s] English:** would agree with you on that i think there's a way to look at people like that and at that time  
-**Translation:** 
-
-**[347.20s] English:** there was no real well there wasn't a full understanding of the psyche the way that we're  
+**[347.20s] English:** There was no real full understanding of the psyche the way that we are.  
 **Translation:** Vocabulary: psyche: 心理
 
-**[351.52s] English:** starting to i mean we still don't understand any of it but it seems like that you know the time gap  
+**[351.52s] English:** Starting to, I mean, we still don't understand any of it, but it seems like there's a time gap.  
 **Translation:** 
 
-**[358.40s] English:** back then there was  
+**[358.40s] English:** Back then, there was  
 **Translation:** 
 
-**[360.00s] English:** was no real understanding of sociopaths and narcissists and you know psychopaths and really  
+**[360.00s] English:** There was no real understanding of sociopaths and narcissists, and you know, psychopaths, and really.  
 **Translation:** 
 
-**[365.68s] English:** what those traits were and i feel like you you know people will follow blindly if they're given  
-**Translation:** Vocabulary: narcissists: 自恋者; psychopaths: 反社会者; sociopaths: 反社会者
+**[365.68s] English:** What those traits were, and I feel like people will follow blindly if they're given.  
+**Translation:** Vocabulary: blindly: 盲目地; narcissists: 自恋者; psychopaths: 反社会人格; sociopaths: 反社会人格; traits: 特征
 
-**[371.70s] English:** a good enough reason well if you have an individual who is ranting and screaming at the top of his  
+**[371.70s] English:** A good enough reason? Well, if you have an individual who is ranting and screaming at the top of his lungs,...  
 **Translation:** 
 
-**[377.66s] English:** lungs in the middle of these town squares and he's getting this attention it's human nature to want  
-**Translation:** Vocabulary: ranting: 大声喊叫
+**[377.66s] English:** Lungs in the middle of these town squares, and he's getting this attention. It's human nature to want...  
+**Translation:** Vocabulary: ranting: 狂喊乱叫
 
-**[383.62s] English:** to understand and be a part of a group mentality it's it's human nature to want to fit in and so  
+**[383.62s] English:** To understand and be a part of a group mentality, it's human nature to want to fit in, and so  
 **Translation:** 
 
-**[389.72s] English:** i don't know if it's more of people were at the beginning were just this is the cool thing to do  
+**[389.72s] English:** I don't know if it's more that people were just at the beginning, thinking this is the cool thing to do.  
 **Translation:** 
 
-**[396.10s] English:** or if it was they were genuinely terrified or if there was an aspect that was like this guy  
+**[396.10s] English:** Or, if it was that they were genuinely terrified, or if there was an aspect that was, like, this guy.  
 **Translation:** 
 
-**[402.88s] English:** is saying something that resonates with me there could be a lot of different things i think it's  
+**[402.88s] English:** Is saying something that resonates with me, there could be a lot of different things. I think it's  
+**Translation:** Vocabulary: genuinely: 真正地
+
+**[407.48s] English:** It's unfortunate that we didn't get to, or no one got to, really examine this individual's brain.  
 **Translation:** 
 
-**[407.48s] English:** unfortunate that we didn't get to or no one got to really you know examine this individual's brain  
+**[415.16s] English:** And this person thinks the way they think, and why they thought that way because I've always been  
 **Translation:** 
 
-**[415.16s] English:** and this person and and why they thought the way they thought because i that's always been  
+**[419.72s] English:** The biggest thing for me is that I'm really curious about why people do what they do, like deeply.  
 **Translation:** 
 
-**[419.72s] English:** the biggest thing for me is i'm really curious about why people do what they do like deeply  
+**[424.92s] English:** Deeply curious about it, I'm not sure who's more interesting: the people that followed Hitler or  
+**Translation:** Vocabulary: hitler: 希特勒
+
+**[430.08s] English:** Hitler himself, so I mean, that the question that's coupled with that is: would history  
 **Translation:** 
 
-**[424.92s] English:** deeply curious about it i'm not sure who's more interesting the people that follow hitler or  
+**[436.48s] English:** Roll out in similar ways, even if there wasn't a Hitler; you know, it's the people that created...  
 **Translation:** 
 
-**[430.08s] English:** hitler himself so i mean that the the question that's coupled with that is uh would history  
+**[442.14s] English:** Hitler, or did Hitler create the events of World War II? I think the people involved would be more interesting.  
 **Translation:** 
 
-**[436.48s] English:** roll out in similar ways even if there wasn't a hitler you know it's it's the people that created  
-**Translation:** 
-
-**[442.14s] English:** hitler or did hitler create the events of world war ii i think the people would be more interesting  
-**Translation:** 
-
-**[449.72s] English:** it seems to be the that the charismatic leaders are all out there uh the failed artist in the  
-**Translation:** 
-
-**[455.80s] English:** case of hitler they're all out there right and it's just when there's this environment of anger  
-**Translation:** 
-
-**[460.44s] English:** and fear charismatic leaders can take over right and uh it doesn't matter if they're evil or good  
+**[449.72s] English:** It seems to be the case that the charismatic leaders are all out there, and the failed artist is in.  
 **Translation:** Vocabulary: charismatic: 有魅力的
 
-**[467.86s] English:** it's like a roll of the dice in terms of history what uh how evil how truly insane they are  
+**[455.80s] English:** In the case of Hitler, they're all out there, right? And it's just when there's this environment of anger.  
 **Translation:** 
 
-**[474.38s] English:** like us i think stalin was much more cold and calculating  
+**[460.44s] English:** And fear that charismatic leaders can take over—right, and it doesn't matter if they're evil or good.  
 **Translation:** 
 
-**[479.72s] English:** you  
+**[467.86s] English:** It's like a roll of the dice in terms of history: what, uh, how evil and truly insane they are.  
 **Translation:** 
 
-**[480.00s] English:** he wasn't as insane as hitler hitler was legitimately insane uh like especially later  
-**Translation:** Vocabulary: legitimately: 确实地
+**[474.38s] English:** Like us, I think Stalin was much more cold and calculating.  
+**Translation:** Vocabulary: calculating: 精于算计; stalin: 斯大林
 
-**[485.84s] English:** on in the war where he would do irrational actions i would say so that but that that that's like a  
+**[479.72s] English:** You.  
 **Translation:** 
 
-**[492.40s] English:** weird roll of the dice you could have gotten a totally different leader uh the the wanting to  
+**[480.00s] English:** He wasn't as insane as Hitler, who was legitimately insane, especially later.  
+**Translation:** Vocabulary: legitimately: 真正地
+
+**[485.84s] English:** In the war, where he would do irrational actions, I would say, so that—but that's like a  
+**Translation:** 
+
+**[492.40s] English:** Weird roll of the dice; you could have gotten a totally different leader. Uh, the wanting to...  
 **Translation:** Vocabulary: irrational: 不合逻辑的
 
-**[497.36s] English:** take over the entirety of europe and then invading russia that's that's like insanity yeah that just  
+**[497.36s] English:** Take over the entirety of Europe and then invading Russia—that's, like, insanity, yeah. That just  
 **Translation:** 
 
-**[504.00s] English:** even just the the first part of that wanting to take over europe if you really think about the  
+**[504.00s] English:** Even just the first part of that, wanting to take over Europe—if you really think about it,  
 **Translation:** Vocabulary: entirety: 全部
 
-**[509.12s] English:** scale if you really sit down and go he want this one individual was like i want all of this if you  
+**[509.12s] English:** Scale: If you really sit down and go, "He wants this one individual; was like, 'I want all of this,' " if you  
 **Translation:** 
 
-**[515.60s] English:** really sat down and you were to sit down and put him in his traits that we know of into any sort of  
+**[515.60s] English:** Really, if you sat down and put him in his known traits into any sort of  
+**Translation:** Vocabulary: traits: 特征
+
+**[522.96s] English:** Document nowadays that deems somebody a psychopath or a narcissist: this guy would set it.  
 **Translation:** 
 
-**[522.96s] English:** document nowadays that that deems somebody a psychopath or a narcissist this guy would set it  
+**[528.72s] English:** On fire, there's you know, he himself was so, I think, deeply damaged, and he reminds me a lot of, um, people.  
+**Translation:** Vocabulary: narcissist: 自恋狂; psychopath: 反社会人格
+
+**[537.52s] English:** Now, who struggles with that, and I think that's one of the things that I think is really important.  
 **Translation:** 
 
-**[528.72s] English:** on fire there's you know he himself was so i think so damaged and he reminds me a lot of um people  
-**Translation:** Vocabulary: narcissist: 自恋狂; psychopath: 心理变态
+**[539.10s] English:** Is that he reminds me a lot of people who struggle to find their way? He reminds me a lot of angry.  
+**Translation:** Vocabulary: struggles: 挣扎
 
-**[537.52s] English:** now who who struggle with that and i think that's one of the things that i think is really important  
+**[542.06s] English:** Individuals who are told "no" either by women or by businesses or by whatever sector they're in,  
 **Translation:** 
 
-**[539.10s] English:** is that he reminds me a lot of people who struggle to find their way he reminds me a lot of angry  
+**[550.54s] English:** He reminds me very much of that, like what's the word I'm looking for? Just that individual who's  
 **Translation:** 
 
-**[542.06s] English:** individuals who are told no either by women or by business or by whatever the sector they're in  
+**[556.22s] English:** Just like the world is, and the world owes me everything — it's that mentality.  
 **Translation:** 
 
-**[550.54s] English:** he reminds me very much of that like what's the word i'm looking for just that individual who's  
-**Translation:** 
-
-**[556.22s] English:** just like the world is and the the world owes me everything and just it's that mentality  
-**Translation:** 
-
-**[562.22s] English:** he really came from that it seems like and when you foster that too long you get that there's a  
+**[562.22s] English:** He really came from that, it seems like. And when you foster that for too long, you get the feeling that there's a  
 **Translation:** Vocabulary: foster: 培养
 
-**[569.26s] English:** book called uh what is it man from underground by dostoevsky i might be misnaming the book but  
+**[569.26s] English:** Book called "The Underground Man" by Dostoevsky; I might be misnaming the book, but...  
 **Translation:** 
 
-**[575.66s] English:** it's about the bitterness of a man it's like it breeds within his mind and it just grows  
-**Translation:** Vocabulary: dostoevsky: 陀思妥耶夫斯基; misnaming: 误名
+**[575.66s] English:** It's about the bitterness of a man. It's like it breeds within his mind, and it just grows.  
+**Translation:** Vocabulary: breeds: 滋生; misnaming: 误名
 
-**[581.10s] English:** that bitterness i mean we we all have that sort of uh resenting of the world when you're  
+**[581.10s] English:** That bitterness—I mean, we all have that sort of resenting of the world when you're  
 **Translation:** 
 
-**[586.62s] English:** when you're younger when you have a choice when you fail do you blame the world  
+**[586.62s] English:** When you're younger, when you have a choice, when you fail, do you blame the world?  
 **Translation:** 
 
-**[593.10s] English:** or do you hold it's the jocko thing do you hold you carry the responsibility of that  
+**[593.10s] English:** Or do you hold it's the "jocko" thing? Do you hold and carry the responsibility of that?  
 **Translation:** 
 
-**[598.62s] English:** and  
-**Translation:** Vocabulary: jocko: 极酷的
-
-**[599.10s] English:** become a better  
+**[598.62s] English:** And  
 **Translation:** 
 
-**[600.00s] English:** man or woman because of that that's that's the decision and in some sense i mean unfortunately  
+**[599.10s] English:** Become a better  
 **Translation:** 
 
-**[605.44s] English:** see that's because he took responsibility and leadership i know you can't you can't say he  
+**[600.00s] English:** Man or woman, because of that—that's the decision, and in some sense, I mean, unfortunately.  
 **Translation:** 
 
-**[612.68s] English:** wasn't a leader yeah you can't so it's not that he's a failure he's not a person not a failure  
+**[605.44s] English:** See, that's because he took responsibility and leadership. I know you can't say he.  
 **Translation:** 
 
-**[618.74s] English:** but it's it's you can't say he's powerless did not take action i think he's just basically uh  
+**[612.68s] English:** Wasn't a leader, yeah. You can't really say he's a failure; he's just not a person who fits that role.  
 **Translation:** 
 
-**[624.82s] English:** embodiment of the anger and the fear of people at the time and but the insanity of uh obviously  
-**Translation:** Vocabulary: embodiment: 体现; powerless: 无力
-
-**[631.64s] English:** many of my relatives not just murdering them but putting them in camps and torturing them  
+**[618.74s] English:** But it's true that you can't say he's powerless or that he didn't take any action. I think he's just basically...  
 **Translation:** 
 
-**[636.62s] English:** but many of those people jewish people were also some of the best scientists the insanity of  
-**Translation:** Vocabulary: torturing: 折磨
+**[624.82s] English:** Embodiment of the anger and the fear of people at the time, and but the insanity of, uh, obviously.  
+**Translation:** Vocabulary: embodiment: 体现
 
-**[642.92s] English:** murdering some of the best germans yeah uh is i it makes no sense but so that's why it's  
+**[631.64s] English:** Many of my relatives were not just murdered; they were also put in camps and tortured.  
 **Translation:** 
 
-**[650.24s] English:** fascinating to kind of look back at that time in history is like and think  
+**[636.62s] English:** But many of those people, Jewish people were also some of the best scientists; the insanity of  
+**Translation:** Vocabulary: tortured: 折磨
+
+**[642.92s] English:** Murdering some of the best Germans, yeah, uh, is; it makes no sense, but that's why it's.  
 **Translation:** 
 
-**[654.82s] English:** are these the same humans and also are there echoes of that now yes and and are we is that  
+**[650.24s] English:** It's fascinating to kind of look back at that time in history and think.  
 **Translation:** 
 
-**[663.16s] English:** going to happen again is there going to be a world war three this in some other kind of way  
+**[654.82s] English:** Are these the same humans, and also are there echoes of that now? Yes, and are we... Is that...  
 **Translation:** 
 
-**[668.42s] English:** is there going to be some mass scale injustice in some other kind of way  
+**[663.16s] English:** Going to happen again? Is there going to be a World War III, or some other kind of way?  
+**Translation:** Vocabulary: echoes: 回声
+
+**[668.42s] English:** Is there going to be some massive injustice in some other kind of way?  
 **Translation:** 
 
-**[672.18s] English:** which uh we're not uh yet like because of our blindness uh and maybe not learning the lessons  
-**Translation:** Vocabulary: blindness: 视野有限
+**[672.18s] English:** Which, uh, we're not yet there, like because of our blindness, and maybe not learning the lessons.  
+**Translation:** Vocabulary: blindness: 视野局限
 
-**[679.64s] English:** of history will will allow to happen again and and then obviously it's a  
+**[679.64s] English:** Of history, we must not allow it to happen again, and obviously, it's a  
 **Translation:** 
 
-**[684.76s] English:** very very very very very very very very very very very very very very very very very  
+**[684.76s] English:** Very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very.  
 **Translation:** 
 
-**[684.80s] English:** common thing to whatever political leader you don't like to call them hitler  
+**[684.80s] English:** A common thing to do is to refer to any political leader you don't like as Hitler.  
 **Translation:** 
 
-**[688.84s] English:** that to me i gotta i gotta tell you when somebody calls somebody hitler  
+**[688.84s] English:** That to me, I've got to tell you when somebody calls somebody Hitler.  
 **Translation:** 
 
-**[694.60s] English:** the weight behind that has been completely lost in this generation this generation does  
+**[694.60s] English:** The weight behind that has been completely lost in this generation; this generation does.  
 **Translation:** 
 
-**[700.90s] English:** not understand what that truly means to call someone hitler or a nazi or stalin to be honest  
+**[700.90s] English:** Not understanding what that truly means to call someone Hitler, Nazi, or Stalin, to be honest.  
+**Translation:** Vocabulary: hitler: 希特勒; stalin: 斯大林
+
+**[709.58s] English:** The starvation issue has been on my mind lately, as I've been talking to a lot of folks recently, especially  
 **Translation:** 
 
-**[709.58s] English:** the uh the starvation has i've just been talking to a lot of folks recently especially  
+**[714.74s] English:** Like North Korea, yes. Why are you blaming me? I remember from my grandmother.  
+**Translation:** Vocabulary: starvation: 饥饿
+
+**[720.00s] English:** It wasn't; I mean, time and time again, not having food to eat is the thing that people say is the  
 **Translation:** 
 
-**[714.74s] English:** like north korea yes why you on me park starvation and i remember from my grandmother  
-**Translation:** Vocabulary: starvation: 饥荒
-
-**[720.00s] English:** it wasn't i mean time and time again not having food to eat is the thing that people say is the  
+**[727.82s] English:** Worst, everything—it's way worse than murder, not having food, and the places that take your mind.  
 **Translation:** 
 
-**[727.82s] English:** worst everything it's way worse than murder not having food and the places that takes your mind  
+**[735.68s] English:** And the actions that force you to do that are terrifying, and all of that seems very distant.  
 **Translation:** 
 
-**[735.68s] English:** and the actions that forces you to do that's terrifying and all of that seems very distant  
+**[741.46s] English:** In our history, yeah, I love her. I watched that interview with her; she is amazing. I want to talk to her.  
+**Translation:** Vocabulary: terrifying: 恐怖的
+
+**[747.30s] English:** Woman, so bad because when she was on Joe and she sat there and said, "Joe's, like, have you done  
 **Translation:** 
 
-**[741.46s] English:** in our history yeah i love her i watched that interview with her she is i want to talk to that  
-**Translation:** Vocabulary: terrifying: 令人恐惧的
-
-**[747.30s] English:** woman so bad because when she was on joe and she sat there and said joe's like do you have you done  
+**[752.52s] English:** Any therapy, and she laughed. I was like, "Oh, that's my girl!" It's such a fascinating thing; I mean, I would...  
 **Translation:** 
 
-**[752.52s] English:** any therapy and she laughed i was like oh that's my girl it's such a fascinating i mean i would  
+**[757.78s] English:** Love for you to kind of talk to her and explore her mind, because we kind of explore her story.  
 **Translation:** 
 
-**[757.78s] English:** love for you to kind of talk to her and explore her mind because we kind of explore her story  
+**[763.28s] English:** Right, and that's there's power and importance to her story, but it's so difficult to understand.  
 **Translation:** 
 
-**[763.28s] English:** right and that's there's power and importance to her story but it's so difficult to understand  
+**[769.64s] English:** Like, how does she become healthier and better, even more so than she is?  
 **Translation:** 
 
-**[769.64s] English:** like how does she become healthier and better uh even more so than she's  
+**[777.30s] English:** She's recovered quite a bit, you know. She's found herself quite a bit, but I wonder.  
 **Translation:** 
 
-**[777.30s] English:** she's she's recovered quite a bit you know she's found herself quite a bit but i wonder  
+**[783.02s] English:** Is she haunted? You're saying, questions I want to ask. Like, that's what I mean, because...  
 **Translation:** 
 
-**[783.02s] English:** is she haunted you're saying questions i want to ask like that's what i mean because  
+**[788.00s] English:** After being in a war, there are certain things, there are certain atrocities that you see that.  
+**Translation:** Vocabulary: atrocities: 暴行; haunted: 受惊
+
+**[795.10s] English:** It doesn't matter what therapy you do, and I don't care what all the special ops guys say, like  
 **Translation:** 
 
-**[788.00s] English:** after being in a war there are certain things there are certain atrocities that you see that  
-**Translation:** Vocabulary: atrocities: 暴行
-
-**[795.10s] English:** it doesn't matter the therapy that you do and i don't care what all the special ops guys say like  
+**[800.50s] English:** I know plenty of them that have a light switch and they turn it off, and they can still function.  
 **Translation:** 
 
-**[800.50s] English:** i know plenty of them that have a light switch and they turn it off and they can function but  
+**[803.82s] English:** I also know them when they've been out for 10 years; there's things that  
 **Translation:** 
 
-**[803.82s] English:** i also know them when they've been out for 10 years there's things that  
+**[807.30s] English:** They want people differently, but there's no way there's not something going on there deeply.  
 **Translation:** 
 
-**[807.30s] English:** they want people differently but there's no way there's not something going on there deeply  
+**[813.22s] English:** Yeah, but it's also extra levels of complexity in her case because, um, I mean, this is what just  
 **Translation:** 
 
-**[813.22s] English:** yeah but it's also extra levels of complexity in her case because um i mean this is what just  
-**Translation:** 
-
-**[823.32s] English:** looking at history about family is she spent much of her early life loving the dictator  
+**[823.32s] English:** Looking at history about family, she spent much of her early life loving the dictator.  
 **Translation:** Vocabulary: complexity: 复杂性; dictator: 独裁者
 
-**[832.28s] English:** right yeah we like the water or something yeah we like water or we like this because  
+**[832.28s] English:** Right, yeah, we like the water or something. Yeah, we like water, or we like it because  
 **Translation:** 
 
-**[837.30s] English:** there is no like individual like when they said there was  
+**[837.30s] English:** There is no individual, like, when they said there was.  
 **Translation:** 
 
-**[840.00s] English:** no love or anything but there is a love for the just that individual for that individual and so  
+**[840.00s] English:** No love or anything, but there is a love for the just individual—for that individual—and so.  
 **Translation:** 
 
-**[845.78s] English:** i mean it's like the ultimate abusive relationship oh yeah and but but it's still love the experience  
+**[845.78s] English:** I mean, it's like the ultimate abusive relationship. Oh, yeah, and but—but it's still love; the experience.  
 **Translation:** Vocabulary: abusive: 虐待的
 
-**[853.80s] English:** like you don't know the alternative so it's not even it's complicated because like  
+**[853.80s] English:** Like, you don't know the alternative, so it's not even complicated because, like,...  
 **Translation:** 
 
-**[858.76s] English:** i wonder if she truly explored it what you would find because uh the trauma much of her trauma i  
+**[858.76s] English:** I wonder if she truly explored it; what you would find, because much of her trauma, I  
 **Translation:** Vocabulary: trauma: 创伤
 
-**[867.28s] English:** think comes from when she was escaping north korea what treatment by china um it's like the  
+**[867.28s] English:** Think came from when she was escaping North Korea, what treatment by China—it's like the  
 **Translation:** 
 
-**[874.62s] English:** mom and when she had to witness within that and being helpless with that on her own so it's like  
+**[874.62s] English:** Mom, and when she had to witness that and be helpless with it on her own, so it's like  
+**Translation:** Vocabulary: helpless: 无能为力
+
+**[880.32s] English:** Evil men, essentially abusing her, trading her, you know, and doing so nonchalantly, as if it's just part of their routine.  
 **Translation:** 
 
-**[880.32s] English:** evil men essentially abusing her trading her you know and and doing so nonchalantly like it's part  
+**[886.28s] English:** Of just the way of life, I wonder if she sees it as kind of yeah, it's so complicated because.  
+**Translation:** Vocabulary: abusing: 虐待; nonchalantly: 漠然
+
+**[892.92s] English:** Childhood, it would be normal to her because she didn't know any different.  
 **Translation:** 
 
-**[886.28s] English:** of just the way of of life that i wonder if she sees kind of yeah it's so complicated because  
-**Translation:** Vocabulary: nonchalantly: 漫不经心地
-
-**[892.92s] English:** childhood it would be normal to her because she didn't know any different  
+**[896.88s] English:** Exactly.  
 **Translation:** 
 
-**[896.88s] English:** exactly  
+**[897.26s] English:** Exactly, and there's like, uh, I grew up poor, but I never sensed that because your parents didn't.  
 **Translation:** 
 
-**[897.26s] English:** exactly and there's like uh i grew up poor but i i never sensed that because your parents didn't  
+**[904.88s] English:** Make you well, and everyone else around was too, right? And so you don't notice it; I mean, it's a  
+**Translation:** Vocabulary: sensed: 察觉到
+
+**[910.66s] English:** Cultural thing; so, the way you grow up, you only start to notice it when you compare yourself to  
 **Translation:** 
 
-**[904.88s] English:** make you well and everyone else around was too right and so you don't notice it i mean it's a  
+**[915.42s] English:** Others, when you learn of the alternative—that's the dark reality—when you're abused, you...  
 **Translation:** 
 
-**[910.66s] English:** cultural thing so the way you grow up you only start to notice it when you compare yourself to  
+**[921.12s] English:** I wonder—I mean, you truly begin to suffer in some kind of way.  
 **Translation:** 
 
-**[915.42s] English:** others when you learn of the alternative that's the dark reality when you're abused you um  
+**[927.26s] English:** When you understand that you were being abused, that's a dark kind of thought, and I wonder.  
+**Translation:** Vocabulary: abused: 被虐待
+
+**[935.34s] English:** If you live your whole life just in that abuse, and if you don't know better, that's a safer that's  
 **Translation:** 
 
-**[921.12s] English:** i wonder i mean you truly and begin to suffer in some kind of way  
+**[941.58s] English:** Like, uh, which is better: suffering and then learning that you were suffering, or just?  
 **Translation:** 
 
-**[927.26s] English:** when you understand that you were being abused that that's a dark kind of thought that i wonder  
+**[948.86s] English:** Suffering until your last days: there's a two-way street to look at this. I'd argue, on one side, that  
 **Translation:** 
 
-**[935.34s] English:** if you live your whole life just in that abuse if you don't know better that that's a safer that's  
+**[954.14s] English:** Suffering and suffering till you die.  
 **Translation:** 
 
-**[941.58s] English:** like uh what's a better life going suffering and then learning that you were suffering or just  
+**[957.26s] English:** You know, no difference, so you can't have hope.  
 **Translation:** 
 
-**[948.86s] English:** suffering until your last days there's a two ways to look at this i'd argue on one side that  
+**[960.00s] English:** Can't have this idea that there's better, and sometimes that's keep that in its place.  
 **Translation:** 
 
-**[954.14s] English:** suffering and suffering till you die  
+**[966.42s] English:** Box, but then, if you have something like what you have with Park, where she knows  
 **Translation:** 
 
-**[957.26s] English:** you know no difference so you can't have hope  
+**[971.14s] English:** Now that there's something different, she knows that there's better, so you run into it.  
 **Translation:** 
 
-**[960.00s] English:** can't have this idea that there's better and sometimes that's keep that in its  
+**[974.70s] English:** Those, what is the damage that has been done? What is going to be passed on as?  
 **Translation:** 
 
-**[966.42s] English:** box but then if you have kind of what you have with Park where she she knows  
+**[978.54s] English:** Intergenerational trauma. I know she's a mom, so it's like now you've got to look.  
+**Translation:** Vocabulary: intergenerational: 代际的; trauma: 创伤
+
+**[982.56s] English:** Long-term, a little bit, because now she's an influence on a child, and there's  
 **Translation:** 
 
-**[971.14s] English:** now that there's different she knows that there's better then you run into  
+**[988.24s] English:** There's a positive to looking at both, I would say, and I know that sounds  
 **Translation:** 
 
-**[974.70s] English:** those what is the damage that has been done what is gonna be passed on as  
+**[993.26s] English:** Horrible for the living, and trauma your whole life, and just not knowing anything.  
 **Translation:** 
 
-**[978.54s] English:** intergenerational trauma I know she's a mom so it's like now you got to look  
-**Translation:** Vocabulary: intergenerational: 代际传递
-
-**[982.56s] English:** long-term a little bit because now she's an influence on a child and there's  
+**[996.72s] English:** Better, but I don't know if that saves the brain and the body and just...  
 **Translation:** 
 
-**[988.24s] English:** there's a positive to looking at both I would say and I know that sounds  
+**[1003.86s] English:** Just that overall, or if it actually would be better because there's no way,  
 **Translation:** 
 
-**[993.26s] English:** horrible for the living and trauma your whole life and just not knowing any  
+**[1008.78s] English:** To really find that out, I don't know for sure, but the reality is, when you give  
 **Translation:** 
 
-**[996.72s] English:** better but there's I don't know if that saves the brain and the body and just  
-**Translation:** Vocabulary: trauma: 创伤
-
-**[1003.86s] English:** just that overall or if it actually would be better because there's no way  
+**[1013.52s] English:** People hope, and you make them realize that they're suffering; you're putting a  
 **Translation:** 
 
-**[1008.78s] English:** to really find that out I don't yeah I think but the reality is when you give  
+**[1017.56s] English:** Burden on them.  
+**Translation:** Vocabulary: burden: 负担
+
+**[1018.22s] English:** That's the first step on a long journey, and so obviously, she now that she  
 **Translation:** 
 
-**[1013.52s] English:** people hope and you make them realize that they're suffering you're putting a  
+**[1023.14s] English:** Knows that the suffering she wants to make people in North Korea currently,  
 **Translation:** 
 
-**[1017.56s] English:** burden on them  
+**[1026.46s] English:** Suffer less, and that's the admirable goal—it's what we do to each other.  
 **Translation:** 
 
-**[1018.22s] English:** that's the first step on a long journey and so and obviously she now that she  
+**[1033.16s] English:** They strive to like: when you see suffering in the world, you try to make  
+**Translation:** Vocabulary: admirable: 值得敬佩; strive: 努力
+
+**[1036.84s] English:** It's better and unmasked; that's probably part of a long arc of history, going to make.  
 **Translation:** 
 
-**[1023.14s] English:** knows that the suffering she wants to make people in North Korea currently  
-**Translation:** 
-
-**[1026.46s] English:** suffer less and that's the admirable goal it's it is what we do to each other  
-**Translation:** 
-
-**[1033.16s] English:** they strive to like when you see suffering in the world you try to make  
-**Translation:** Vocabulary: admirable: 值得敬佩的
-
-**[1036.84s] English:** it better and unmasked that's probably in a long arc of history going to make  
-**Translation:** 
-
-**[1042.10s] English:** for for a better world I'm hopeful at that idea for North  
+**[1042.10s] English:** For a better world, I'm hopeful about that idea for North.  
 **Translation:** Vocabulary: unmasked: 揭露
 
-**[1047.98s] English:** Korea  
+**[1047.98s] English:** Korea.  
 **Translation:** 
 
-**[1048.22s] English:** I'm hopeful for that because you you never want to leave individuals suffering  
+**[1048.22s] English:** I'm hopeful for that because you never want to leave individuals suffering.  
 **Translation:** 
 
-**[1053.06s] English:** when you know that they're actively suffering while you're just living your  
+**[1053.06s] English:** When you know that they're actively suffering while you're just living your  
 **Translation:** 
 
-**[1057.10s] English:** day to day life in the western world just out grocery shopping and you see  
-**Translation:** Vocabulary: grocery: 杂货购物
+**[1057.10s] English:** Day-to-day life in the Western world just involves going grocery shopping, and you see  
+**Translation:** Vocabulary: actively: 积极地; grocery: 杂货
 
-**[1060.66s] English:** all this food and you know in the back of your mind like I interview fuck me up  
+**[1060.66s] English:** All this food, and you know, in the back of your mind, like, "I interview; fuck me up.  
 **Translation:** 
 
-**[1064.24s] English:** a little but I won't lie like and I had some of the girls in my office listen to  
+**[1064.24s] English:** A little, but I won't lie—like and I had some of the girls in my office listen to  
 **Translation:** 
 
-**[1066.82s] English:** it they're just following because there's we're all parents and there's  
+**[1066.82s] English:** It's just following because we're all parents, and there's  
 **Translation:** 
 
-**[1071.50s] English:** this idea that not being able to feed our children that just the idea of that  
+**[1071.50s] English:** This idea that we can't feed our children—that just the thought of that is devastating.  
 **Translation:** 
 
-**[1077.54s] English:** damage that happens with things I don t give aע CAR PRESIDENT HAYWOOD'S ATTACK  
+**[1077.54s] English:** Damage that happens with things I don't give a damn about. -CAR PRESIDENT HAYWOOD'S ATTACK  
 **Translation:** 
 
-**[1078.22s] English:** the psyche. It brings  
+**[1078.22s] English:** The psyche. It brings.  
 **Translation:** Vocabulary: psyche: 心理
 
-**[1080.00s] English:** up the pain in the chest like just the idea of it and so going to the grocery store for about a week  
+**[1080.00s] English:** Up the pain in the chest, like just the idea of it, and so going to the grocery store for about a week.  
 **Translation:** 
 
-**[1085.24s] English:** after that i just remember standing there looking and just going the fuck are we doing but then  
+**[1085.24s] English:** After that, I just remember standing there, looking around, and just going, "The fuck? Are we doing this?  
 **Translation:** 
 
-**[1091.24s] English:** there's that snap reality that comes into play and goes so how do we fix that you got to take on  
+**[1091.24s] English:** There's that snap reality that comes into play, and it goes so, how do we fix that? You've got to take on...  
 **Translation:** 
 
-**[1098.78s] English:** china that's never gonna happen and the reason that's not gonna happen it's happening again so  
+**[1098.78s] English:** China: That's never gonna happen, and the reason that's not gonna happen is that it's happening again, so...  
 **Translation:** 
 
-**[1104.58s] English:** akani comes down through afghanistan chinese are all through afghanistan iran makes the deal with  
+**[1104.58s] English:** Akaní comes down through Afghanistan, Chinese are all through Afghanistan, Iran makes the deal with...  
 **Translation:** 
 
-**[1110.14s] English:** china for her the roadway to get the oil well that's done in the blink of an eye without anyone  
+**[1110.14s] English:** China for her the roadway to get to the oil well—that's done in the blink of an eye, without anyone.  
 **Translation:** Vocabulary: afghanistan: 阿富汗; roadway: 道路
 
-**[1115.42s] English:** knowing there's no way there's just so much at play with china they control such a large aspect  
+**[1115.42s] English:** Knowing there's no way, there's just so much at play with China; they control such a large aspect.  
 **Translation:** 
 
-**[1122.94s] English:** of our world unfortunately that to take and free north korea a drastic action would have to happen  
+**[1122.94s] English:** Of our world, unfortunately, it would take a drastic action to free North Korea.  
 **Translation:** Vocabulary: drastic: 剧烈的
 
-**[1130.52s] English:** and then your people would come in it would be a mess what do you mean  
+**[1130.52s] English:** And then your people would come in; it would be a mess. What do you mean?  
 **Translation:** 
 
-**[1134.56s] English:** your people what do you mean your people your russians did you hear what she said about russians  
+**[1134.56s] English:** Your people? What do you mean, "your people"? Russians? Did you hear what she said about Russians?  
 **Translation:** 
 
-**[1140.34s] English:** did you hear what she says russians i love russians you know what i didn't love the russian  
+**[1140.34s] English:** Did you hear what she said? Russians—I love Russians, you know. What I didn't love was the Russian.  
 **Translation:** 
 
-**[1144.56s] English:** recruiting video that came out that shit was terrifying did you watch it i told you about it  
-**Translation:** Vocabulary: recruiting: 招募; terrifying: 恐怖
+**[1144.56s] English:** Recruiting video that came out—that shit was terrifying. Did you watch it? I told you about it.  
+**Translation:** Vocabulary: recruiting: 招聘; terrifying: 恐怖
 
-**[1149.28s] English:** of course you didn't watch it i didn't watch it um the usa put out a recruiting video yes and then  
+**[1149.28s] English:** Of course, you didn't watch it; I didn't watch it, either. The USA put out a recruiting video, yes, and then...  
 **Translation:** 
 
-**[1156.36s] English:** like a day or two later russia put one out and the recruiting for video in the states was a  
+**[1156.36s] English:** Like a day or two later, Russia put one out, and the recruiting for videos in the states was a  
 **Translation:** 
 
-**[1162.28s] English:** animation of a  
+**[1162.28s] English:** Animation of an  
 **Translation:** 
 
-**[1164.56s] English:** a female soldier yeah with two moms and she was gonna go change the world right russia came out  
+**[1164.56s] English:** A female soldier, yeah, with two moms. She was gonna go change the world, right? Russia came out.  
 **Translation:** 
 
-**[1172.50s] English:** with it's like it's the the character from like rocky essentially and there are guys in the mud  
+**[1172.50s] English:** With it's like it's the character from Rocky, essentially, and there are guys in the mud.  
 **Translation:** 
 
-**[1180.52s] English:** and just in the rain just fucking doing push-ups just pushing it out they're just like they see  
+**[1180.52s] English:** And just in the rain, just fucking doing push-ups, just pushing it out; they're just like they see.  
 **Translation:** 
 
-**[1184.76s] English:** their boot they're just like crushing things and i'm like and it's all like and the deep russian  
+**[1184.76s] English:** Their boots are just like crushing things, and I'm like, "And it's all like... and the deep Russian.  
 **Translation:** 
 
-**[1189.38s] English:** voice i'm like oh my god yeah which one is better would you say which bothered you  
-**Translation:** Vocabulary: bothered: 烦扰
+**[1189.38s] English:** Voice: "I'm like, oh my God, yeah, which one is better? Would you say which bothered you?  
+**Translation:** Vocabulary: bothered: 烦恼
 
-**[1194.56s] English:** more what do you mean by bother specify so deception is a funny  
+**[1194.56s] English:** More, what do you mean by "bother"? Specify, so deception is a funny...  
 **Translation:** 
 
-**[1200.00s] English:** thing because when you're young and you're choosing to go to the military or not it's not  
-**Translation:** Vocabulary: deception: 欺骗
+**[1200.00s] English:** Thing because when you're young and you're choosing to go to the military or not, it's not  
+**Translation:** Vocabulary: specify: 详细说明
 
-**[1204.24s] English:** like you know like none of us know what the best trajectory for life is right for many people go to  
+**[1204.24s] English:** Like, you know, like none of us know what the best trajectory for life is, right? For many people, go to  
 **Translation:** 
 
-**[1209.74s] English:** the military is a really makes them incredible human beings some of the best people in this  
+**[1209.74s] English:** The military is really what makes them incredible human beings—some of the best people I've ever met.  
+**Translation:** Vocabulary: trajectory: 人生轨迹
+
+**[1214.50s] English:** World, I know are soldiers, so it's not that I don't mean like it's somehow bad to go to the military.  
 **Translation:** 
 
-**[1214.50s] English:** world i know are soldiers so it's i'm not i don't mean like it's somehow bad to go to the military  
+**[1220.22s] English:** I think it's a great choice, but there is something — the honest truth is — I just don't like marketing.  
 **Translation:** 
 
-**[1220.22s] English:** i think it's a great choice but there is something the honest truth is i just don't like marketing  
+**[1226.32s] English:** People well, and so this is essentially a marketing effort, yeah. It is a marketing effort, so which one?  
 **Translation:** 
 
-**[1226.32s] English:** people well and so this is essentially a marketing effort yeah it is a marketing effort so which one  
+**[1232.50s] English:** Do you like, as a marketing effort, Russia? Okay, yeah, I do. There you go. I do because Canada.  
 **Translation:** 
 
-**[1232.50s] English:** do you like as a marketing effort better russia okay yeah i do there you go i do because canada  
+**[1239.16s] English:** Doesn't it, you know, what our recruiting videos are? It's like, um, uh, I love it; they're the best.  
 **Translation:** 
 
-**[1239.16s] English:** doesn't you know what our recruiting videos are it's like um uh i love it they're the best  
+**[1244.66s] English:** Sorry, a yeah, oh fuck, here we go, it's starting. It started awesome, so Canada does these ones where  
+**Translation:** Vocabulary: recruiting: 招聘
+
+**[1252.38s] English:** It's like, um, it'll have a bunch of soldiers doing movements.  
 **Translation:** 
 
-**[1244.66s] English:** sorry a yeah oh fuck here we go it's starting it started awesome so canada does these ones where  
+**[1256.32s] English:** And then they'll snip it together really quick; it'll be like a navy one, and then a guy.  
 **Translation:** 
 
-**[1252.38s] English:** it's like um it'll have a bunch of like soldiers doing movements  
+**[1260.56s] English:** Jumping out of a plane, and then it'll be like artillery, and then like armored, and then it'll be  
 **Translation:** 
 
-**[1256.32s] English:** and then they'll like snip it together really quick it'll be like a navy one and then a guy  
+**[1264.48s] English:** Like, join the Canadian Forces today, and it's like that's very  
+**Translation:** Vocabulary: artillery: 火炮
+
+**[1270.94s] English:** Marketable, very palatable to Canadians who don't really want war and who don't really acknowledge it.  
 **Translation:** 
 
-**[1260.56s] English:** jumping out of a plane and then it'll be like an artillery and then like an armored then it'll be  
+**[1277.12s] English:** Their military, in the first place, and do everything they can to make sure that vets don't get any.  
 **Translation:** 
 
-**[1264.48s] English:** like join the canadian forces today and like that's like their their videos so it's like very  
-**Translation:** Vocabulary: artillery: 炮兵
-
-**[1270.94s] English:** marketable very palatable to canadians who don't really want war and who don't really acknowledge  
+**[1282.24s] English:** Support when they come home, so I can see why that one is uh  
 **Translation:** 
 
-**[1277.12s] English:** their military in the first place and do everything they can to make sure that vets don't get any  
+**[1286.32s] English:** Acceptable, what Russia did was meant to be more of an intimidation tactic, in my opinion.  
+**Translation:** Vocabulary: intimidation: 恐吓; tactic: 策略
+
+**[1292.88s] English:** I like that style better, though I think we need harder standards. I need people to be harder-working.  
 **Translation:** 
 
-**[1282.24s] English:** support when they come home so they i can see why that one is uh  
-**Translation:** 
-
-**[1286.32s] English:** acceptable what russia did was meant to be more of an intimidation tactic in my opinion  
-**Translation:** Vocabulary: intimidation: 恐吓手段; tactic: 策略
-
-**[1292.88s] English:** i like that style better though i think we need harder i need i think we need people to be harder  
-**Translation:** 
-
-**[1298.48s] English:** i think it's acceptable and okay to say that our soldiers need to have a harder mindset a stronger  
+**[1298.48s] English:** I think it's acceptable and okay to say that our soldiers need to have a harder mindset and stronger.  
 **Translation:** Vocabulary: mindset: 思想观念
 
-**[1304.00s] English:** mindset a better mentality and mental health support going into the service and a harder body  
+**[1304.00s] English:** Mindset: a better mentality and mental health support going into the service, and a harder body.  
 **Translation:** 
 
-**[1309.84s] English:** because i know when you go to the us i've also encountered plenty of soldiers that are 600 pounds  
+**[1309.84s] English:** Because I know when you go to the U.S., I've also encountered plenty of soldiers that are 600 pounds.  
 **Translation:** Vocabulary: encountered: 遇到
 
-**[1316.32s] English:** what are you gonna do so we should say  
+**[1316.32s] English:** What are you gonna do? So, we should say,...  
 **Translation:** 
 
-**[1320.00s] English:** that when you joined the military,  
+**[1320.00s] English:** That when you joined the military,  
 **Translation:** 
 
-**[1321.84s] English:** you were in incredible shape,  
+**[1321.84s] English:** You were in incredible shape.  
 **Translation:** 
 
-**[1323.28s] English:** or not maybe incredible,  
+**[1323.28s] English:** Or, not maybe incredible.  
 **Translation:** 
 
-**[1325.04s] English:** but very good shape.  
+**[1325.04s] English:** But, in very good shape.  
 **Translation:** 
 
 **[1325.88s] English:** No, I was in incredible shape.  
@@ -778,38 +779,38 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1332.72s] English:** I used to do sit-ups.  
 **Translation:** 
 
-**[1333.56s] English:** No, I would do sit-ups in the morning when I was little  
+**[1333.56s] English:** No, I would do sit-ups in the morning when I was little.  
 **Translation:** 
 
-**[1336.94s] English:** until I could see my,  
+**[1336.94s] English:** Until I could see my,  
 **Translation:** 
 
-**[1338.24s] English:** I always had a six pack,  
+**[1338.24s] English:** I always had a six-pack.  
 **Translation:** 
 
-**[1339.60s] English:** because all I did was train.  
+**[1339.60s] English:** Because all I did was train.  
 **Translation:** 
 
 **[1341.50s] English:** But if I couldn't see it,  
 **Translation:** 
 
-**[1343.96s] English:** I would just sit there in morning cartoons  
+**[1343.96s] English:** I would just sit there in the morning, watching cartoons.  
 **Translation:** 
 
-**[1345.90s] English:** and just do sit-ups.  
+**[1345.90s] English:** And just do sit-ups.  
 **Translation:** 
 
-**[1346.80s] English:** And my mom and dad thought  
+**[1346.80s] English:** And my mom and dad thought.  
 **Translation:** 
 
-**[1347.70s] English:** that was normal, acceptable behavior.  
+**[1347.70s] English:** That was normal, acceptable behavior.  
 **Translation:** 
 
-**[1350.16s] English:** So if you had Instagram back then,  
+**[1350.16s] English:** So, if you had Instagram back then,  
 **Translation:** 
 
-**[1351.82s] English:** you'd be a David Goggins.  
-**Translation:** 
+**[1351.82s] English:** You'd be a David Goggins.  
+**Translation:** Vocabulary: goggins: 戈金斯
 
 **[1352.98s] English:** You would be just screaming.  
 **Translation:** 
@@ -823,17 +824,17 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1356.70s] English:** Okay, got it.  
 **Translation:** 
 
-**[1358.10s] English:** So, I mean, the people should know,  
+**[1358.10s] English:** So, I mean, the people should know.  
 **Translation:** 
 
-**[1360.12s] English:** because they probably already know,  
+**[1360.12s] English:** Because they probably already know.  
 **Translation:** 
 
-**[1361.12s] English:** that you also competed in Taekwondo,  
+**[1361.12s] English:** That you also competed in Taekwondo,  
 **Translation:** 
 
-**[1363.10s] English:** like you were an athlete of all kinds.  
-**Translation:** Vocabulary: taekwondo: 跆拳道
+**[1363.10s] English:** Like you were an athlete of all kinds.  
+**Translation:** Vocabulary: competed: 参赛; taekwondo: 跆拳道
 
 **[1365.84s] English:** They even saw rugby in there.  
 **Translation:** 
@@ -841,40 +842,40 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1367.32s] English:** Yeah, I was good at rugby.  
 **Translation:** 
 
-**[1370.34s] English:** I played that for seven, six years,  
+**[1370.34s] English:** I played that for seven years.  
 **Translation:** 
 
-**[1374.06s] English:** I guess you could say, total.  
+**[1374.06s] English:** I guess you could say, "total.  
 **Translation:** 
 
-**[1376.00s] English:** I think the worst injury  
+**[1376.00s] English:** I think the worst injury is often overlooked.  
 **Translation:** 
 
-**[1377.48s] English:** I've ever ended up having  
-**Translation:** 
+**[1377.48s] English:** I've ended up having.  
+**Translation:** Vocabulary: overlooked: 未被注意到
 
-**[1378.52s] English:** was I tore my right eyelid off.  
+**[1378.52s] English:** I tore my right eyelid off.  
 **Translation:** 
 
 **[1380.84s] English:** We were doing an exhibition game.  
-**Translation:** 
+**Translation:** Vocabulary: eyelid: 眼睑
 
 **[1382.76s] English:** I don't do exhibition games well.  
 **Translation:** 
 
-**[1384.26s] English:** I don't do like for fun well.  
+**[1384.26s] English:** I don't do it for fun, well.  
 **Translation:** 
 
-**[1386.20s] English:** I don't do like-  
+**[1386.20s] English:** I don't do that.  
 **Translation:** 
 
-**[1387.04s] English:** So you're very competitive.  
+**[1387.04s] English:** So, you're very competitive.  
 **Translation:** 
 
 **[1387.88s] English:** No, not me.  
 **Translation:** 
 
-**[1389.84s] English:** So you're being funny.  
+**[1389.84s] English:** So, you're being funny.  
 **Translation:** 
 
 **[1390.98s] English:** Ah, there it is.  
@@ -886,139 +887,139 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1392.86s] English:** You see, he's not a robot.  
 **Translation:** 
 
-**[1395.46s] English:** What I was saying though to you  
+**[1395.46s] English:** What I was saying, though, to you.  
 **Translation:** 
 
-**[1397.80s] English:** was that we did an exhibition game  
+**[1397.80s] English:** Was that we did an exhibition game?  
 **Translation:** 
 
-**[1402.22s] English:** and the team ahead was winning.  
+**[1402.22s] English:** And the team ahead was winning.  
 **Translation:** 
 
-**[1404.66s] English:** The team we were playing was winning,  
+**[1404.66s] English:** The team we were playing was winning.  
 **Translation:** 
 
-**[1406.60s] English:** which was annoying.  
+**[1406.60s] English:** Which was annoying.  
 **Translation:** 
 
-**[1407.44s] English:** And so there was an opportunity to take out a girl  
+**[1407.44s] English:** And so there was an opportunity to take out a girl.  
 **Translation:** 
 
-**[1411.16s] English:** that was going one end of the field to the other,  
+**[1411.16s] English:** That was going from one end of the field to the other.  
 **Translation:** 
 
-**[1414.20s] English:** and she just kept hitting tries left, right, and center.  
+**[1414.20s] English:** And she just kept hitting tries left, right, and center.  
 **Translation:** 
 
 **[1416.70s] English:** She was fast.  
 **Translation:** 
 
-**[1417.88s] English:** So I figured if I just aimed her up like she's a target  
+**[1417.88s] English:** So, I figured if I just aimed her up like a target.  
 **Translation:** 
 
-**[1421.26s] English:** and I just run full force at her,  
+**[1421.26s] English:** And I just ran full force at her.  
 **Translation:** 
 
-**[1423.24s] English:** because she was really, she was a tall individual.  
+**[1423.24s] English:** Because she was really tall.  
 **Translation:** 
 
-**[1425.94s] English:** If I do that, I'll take her out of the knees.  
+**[1425.94s] English:** If I do that, I'll take her out of the game.  
 **Translation:** 
 
-**[1428.42s] English:** So I did that, but what that resulted in was  
+**[1428.42s] English:** So I did that, but what that resulted in was:  
 **Translation:** 
 
-**[1432.08s] English:** she put her tooth through her mouth guard  
+**[1432.08s] English:** She put her tooth through her mouthguard.  
+**Translation:** Vocabulary: mouthguard: 牙套
+
+**[1433.64s] English:** And she knocked out and didn't just stay there.  
 **Translation:** 
 
-**[1433.64s] English:** and knocked out and didn't just, she just stayed there.  
+**[1435.46s] English:** But when I stood up, I tore.  
 **Translation:** 
 
-**[1435.46s] English:** But when I stood up, I tore,  
+**[1437.44s] English:** The right eyelid was torn off, and it was hanging from the inner corner.  
 **Translation:** 
 
-**[1437.44s] English:** the right eyelid off and it was hanging from the inner corner.  
+**[1440.00s] English:** Yeah, my mom was there because she was my mom's biggest fan, and she was so supportive. Oh, she's  
 **Translation:** 
 
-**[1440.00s] English:** yeah my mom was there because mom was my mom's my biggest fan and she was supportive oh she's  
+**[1446.84s] English:** Supportive of everything, she didn't miss a game and didn't miss anything. And I stood up.  
 **Translation:** 
 
-**[1446.84s] English:** supportive of everything she didn't miss a game she didn't miss in anything and um i stood up and  
-**Translation:** 
-
-**[1451.94s] English:** i kind of turned around and we already had a girl break her nose that day so she was on the sideline  
+**[1451.94s] English:** I kind of turned around, and we already had a girl break her nose that day, so she was on the sideline.  
 **Translation:** Vocabulary: sideline: 替补席
 
-**[1456.14s] English:** with her nose sideways and just bloody my mom was like i'll take her to the emergency after once the  
+**[1456.14s] English:** With her nose sideways, and just bloody, my mom was like, "I'll take her to the emergency room after.  
 **Translation:** 
 
-**[1461.12s] English:** game's over and so i turned around and looked at her and she just she almost vomited on the spot  
-**Translation:** Vocabulary: sideways: 歪着
+**[1461.12s] English:** The game's over, and so I turned around and looked at her, and she just about vomited on the spot.  
+**Translation:** Vocabulary: bloody: 污秽的; sideways: 歪着; vomited: 呕吐
 
-**[1466.48s] English:** and i was like what's wrong she's like don't move your eyelids off i'm like but i can see like i was  
+**[1466.48s] English:** And I was like, "What's wrong?" She's like, "Don't move your eyelids," and I was like, "But I can see.  
 **Translation:** 
 
-**[1471.28s] English:** trying to blink but like it was just down so i could just constantly see she's like we're just  
+**[1471.28s] English:** Trying to blink, but it was just down, so I could just constantly see her. We're just  
+**Translation:** Vocabulary: eyelids: 眼睑
+
+**[1476.54s] English:** We're just gonna go to the emergency room. We're just gonna go there now. Was there blood? Yeah, there's.  
 **Translation:** 
 
-**[1476.54s] English:** we're just gonna go to the emergency we're just gonna go there now was there blood yeah there's  
+**[1480.86s] English:** Lots of it, but I couldn't really tell. Okay, were you okay with blood at that point? Yeah, I mean, I  
 **Translation:** 
 
-**[1480.86s] English:** lots of it but i couldn't really tell okay were you okay with blood at that point yeah i mean i  
+**[1487.26s] English:** Guess you did taekwondo and all that. Yeah, I didn't get knocked out very often, I didn't really.  
 **Translation:** 
 
-**[1487.26s] English:** guess you did taekwondo and all that yeah i didn't get knocked out very often i didn't really  
-**Translation:** 
-
-**[1491.26s] English:** when i was younger in taekwondo i was really good i only lost a handful of times  
+**[1491.26s] English:** When I was younger in taekwondo, I was really good; I only lost a handful of times.  
 **Translation:** Vocabulary: taekwondo: 跆拳道
 
-**[1495.48s] English:** so  
+**[1495.48s] English:** So,  
 **Translation:** 
 
-**[1496.48s] English:** when i did lose that was bad um but i never had like a broken nose or a lot of blood on my face  
+**[1496.48s] English:** When I did lose, that was bad, um, but I never had like a broken nose or a lot of blood on my face.  
 **Translation:** 
 
-**[1503.44s] English:** like nothing like that really so nothing freaked me out too much was there aggression there or  
+**[1503.44s] English:** Like nothing like that—really, so nothing freaked me out too much. Was there aggression there or?  
 **Translation:** 
 
-**[1508.92s] English:** just purely competition over skill a mix of both i was this was right after not too long after  
-**Translation:** Vocabulary: aggression: 攻击
+**[1508.92s] English:** Just purely competition over skill, a mix of both. I was this was right after, not too long after.  
+**Translation:** Vocabulary: aggression: 攻击; freaked: 惊吓
 
-**[1517.38s] English:** my coach went to prison for statutory rape um and that was like how you talk about park talking  
+**[1517.38s] English:** My coach went to prison for statutory rape, um, and that was like how you talk about Park talking.  
 **Translation:** 
 
-**[1524.14s] English:** about how that was  
+**[1524.14s] English:** About how that was.  
 **Translation:** 
 
-**[1526.12s] English:** like she knew love because of that person that person was like a god to me and so when that  
+**[1526.12s] English:** Like she knew love because of that person, who was like a god to me, and so when that...  
 **Translation:** 
 
-**[1534.00s] English:** happened i was just an angry individual from that point on so there was competition and aggression  
+**[1534.00s] English:** Happened, I was just an angry individual from that point on. So, there was competition and aggression.  
 **Translation:** 
 
-**[1537.80s] English:** mixed in there oh like it was betrayal that there's just somebody that is was a symbol of  
+**[1537.80s] English:** Mixed in there, oh, like it was betrayal — that there's just somebody who was a symbol of.  
 **Translation:** 
 
-**[1543.80s] English:** love for you was could also be a very bad person i used to eat sleep and breathe whatever that man  
+**[1543.80s] English:** Love for you was could also be with a very bad person. I used to eat, sleep, and breathe whatever that man.  
 **Translation:** Vocabulary: betrayal: 背弃
 
-**[1549.16s] English:** said from four years old on i lived with my coaches at a point so i could train that much i  
+**[1549.16s] English:** Said, from four years old on, I lived with my coaches at a point so I could train that much.  
 **Translation:** 
 
-**[1556.12s] English:** helped look after their daughter i i was at the club 24 7.  
+**[1556.12s] English:** Helped look after their daughter; I was at the club 24/7.  
 **Translation:** 
 
-**[1560.00s] English:** Just the idea that somebody could do something like that, yeah, that really messed me up.  
+**[1560.00s] English:** Just the idea that somebody could do something like that, yeah, really messed me up.  
 **Translation:** 
 
-**[1565.34s] English:** Where were you on 9-11?  
-**Translation:** 
+**[1565.34s] English:** Where were you on 9/11?  
+**Translation:** Vocabulary: messed: 搞乱
 
 **[1569.72s] English:** I was 11, and I was in my parents' basement.  
 **Translation:** 
 
-**[1575.18s] English:** In where?  
+**[1575.18s] English:** In which one?  
 **Translation:** 
 
 **[1576.80s] English:** Ontario.  
@@ -1030,10 +1031,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1579.12s] English:** Ontario, Canada.  
 **Translation:** 
 
-**[1580.26s] English:** What did you think of 9-11 at that age from Canada?  
+**[1580.26s] English:** What did you think of 9/11 at that age from Canada?  
 **Translation:** 
 
-**[1584.02s] English:** Did it have an impact on you in terms of changing the level of evil you thought is there in the world today?  
+**[1584.02s] English:** Did it have an impact on you, in terms of changing the level of evil you thought was there in the world today?  
 **Translation:** 
 
 **[1595.24s] English:** Not initially.  
@@ -1042,16 +1043,16 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1596.50s] English:** I remember it really vividly.  
 **Translation:** 
 
-**[1598.48s] English:** I have a decent memory for certain things, it seems like.  
-**Translation:** 
+**[1598.48s] English:** I have a decent memory for certain things, it seems.  
+**Translation:** Vocabulary: vividly: 清晰地
 
-**[1602.18s] English:** Stuff like that I stick with really well.  
+**[1602.18s] English:** Stuff like that, I stick with really well.  
 **Translation:** 
 
 **[1604.58s] English:** I remember watching it.  
 **Translation:** 
 
-**[1605.66s] English:** I was sitting on the couch, and my mom called my dad because my parents are truck drivers.  
+**[1605.66s] English:** I was sitting on the couch and my mom called my dad because my parents are truck drivers.  
 **Translation:** 
 
 **[1611.26s] English:** My dad was on the road, if I'm not mistaken.  
@@ -1066,8 +1067,8 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1617.68s] English:** My mom was a little panicky, so she tried to get a hold of him.  
 **Translation:** 
 
-**[1621.50s] English:** I think at the time it was beepers.  
-**Translation:** Vocabulary: beepers: 寻呼机; panicky: 焦虑的
+**[1621.50s] English:** I think, at the time, it was beepers.  
+**Translation:** Vocabulary: beepers: 呼机; panicky: 焦虑的
 
 **[1625.98s] English:** He would get a beep.  
 **Translation:** 
@@ -1091,7 +1092,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[1643.26s] English:** I remember the stereotypical hand over her mouth, and she just felt sick.  
-**Translation:** Vocabulary: stereotypical: 刻板印象
+**Translation:** Vocabulary: stereotypical: 刻板印象的
 
 **[1647.20s] English:** She just was so confused.  
 **Translation:** 
@@ -1105,445 +1106,445 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[1656.78s] English:** You could hear the teachers kind of reminiscing about it.  
 **Translation:** Vocabulary: reminiscing: 回忆
 
-**[1659.30s] English:** There was a point that week that all of a sudden, all of the children who were from a Middle Eastern family were not at school.  
+**[1659.30s] English:** There was a point that week that, all of a sudden, none of the children from a Middle Eastern family were at school.  
 **Translation:** 
 
-**[1670.46s] English:** I just remember them saying, a lot of people aren't coming.  
+**[1670.46s] English:** I just remember them saying, "A lot of people aren't coming.  
 **Translation:** 
 
 **[1673.20s] English:** I'm going to school.  
 **Translation:** 
 
-**[1674.06s] English:** It was in particular.  
+**[1674.06s] English:** It was, in particular.  
 **Translation:** 
 
 **[1676.58s] English:** I think parents were afraid once it got out that it was of a certain nature.  
 **Translation:** 
 
-**[1680.00s] English:** certain um group they were afraid for their own kids and fair enough i mean you never know you  
+**[1680.00s] English:** Certain um group, they were afraid for their own kids, and fair enough; I mean, you never know.  
 **Translation:** 
 
-**[1686.40s] English:** don't know and um i knew it impacted me enough that i did write i remember i the school was  
+**[1686.40s] English:** Don't know, and um, I knew it impacted me enough that I did write. I remember the school was  
 **Translation:** 
 
-**[1693.18s] English:** doing a memorial for it and i remember they asked i wrote a poem and a reporter was there and i read  
+**[1693.18s] English:** Doing a memorial for it, and I remember they asked me to write a poem. A reporter was there, and I read it.  
 **Translation:** 
 
-**[1699.90s] English:** it on air that's like i remember like it was it was like it was a very short one but i remember i  
+**[1699.90s] English:** It was on air, that's like, I remember; it was very short, but I remember it.  
 **Translation:** 
 
-**[1706.44s] English:** wanted to do something but i didn't know why or for for what reason i just i knew i wanted to do  
+**[1706.44s] English:** Wanted to do something, but I didn't know why or for what reason. I just knew I wanted to do it.  
 **Translation:** 
 
-**[1711.70s] English:** something to honor it but i didn't i couldn't grasp why you eventually went to afghanistan  
+**[1711.70s] English:** Something to honor it, but I didn't; I couldn't grasp why you eventually went to Afghanistan.  
 **Translation:** 
 
-**[1716.46s] English:** yeah did that begin to plant the seed of thinking about conflict in the world it's a good question  
+**[1716.46s] English:** Yeah, did that begin to plant the seed of thinking about conflict in the world? It's a good question.  
+**Translation:** Vocabulary: afghanistan: 阿富汗
+
+**[1725.00s] English:** I've never thought about it that in-depth. I mean, I've done 12 years of therapy; you think that would...  
 **Translation:** 
 
-**[1725.00s] English:** i've never thought about it that in depth i mean i've done 12 years of therapy you think that would  
+**[1729.24s] English:** Have come up, Dr. Passy, but apparently not. We'll work on it, though. I mean, when did, uh, like, when?  
+**Translation:** Vocabulary: passy: 帕西医生
+
+**[1735.12s] English:** Did the idea of war come to mind?  
 **Translation:** 
 
-**[1729.24s] English:** have come up dr passy but apparently not we'll work on it though i mean when did uh like when  
-**Translation:** Vocabulary: passy: 医生帕西
-
-**[1735.12s] English:** did the idea of war  
+**[1736.24s] English:** Start entering my mind in late high school, I think it was then that I finished high school.  
 **Translation:** 
 
-**[1736.24s] English:** start entering your mind late high school i think it was for me um i was i finished high school at  
+**[1743.22s] English:** I moved away and went to college. I went to Algonquin College because I wasn't smart enough.  
 **Translation:** 
 
-**[1743.22s] English:** 17 i moved away and went to college i went to algonquin college because i wasn't smart enough  
+**[1748.86s] English:** To get into Ottawa U, so I was like, "Well, Algonquin—she is; I just wanted to play sports," and frankly, I  
+**Translation:** Vocabulary: algonquin: 阿冈昆学院; frankly: 坦白讲; ottawa: 渥太华大学
+
+**[1756.28s] English:** Wanted away from my small town that I was living in, I went through like a bad high school breakup.  
 **Translation:** 
 
-**[1748.86s] English:** to get into ottawa u so i was like well algonquin she is i just wanted to play sports and frankly i  
-**Translation:** Vocabulary: algonquin: 阿冈昆学院; ottawa: 渥太华大学
+**[1760.00s] English:** As a kid, and you know, that's the person you think is like the love of your life, and you just can't  
+**Translation:** Vocabulary: breakup: 分手
 
-**[1756.28s] English:** wanted away from my small town that i was living in i went through like a bad high school breakup  
+**[1764.36s] English:** Bear to be anywhere near anybody.  
 **Translation:** 
 
-**[1760.00s] English:** as a kid and you know that where you think that's like the love of your life and you just can't  
+**[1766.22s] English:** And so I moved away as fast as I possibly could, and I didn't fully grasp it yet at that point.  
 **Translation:** 
 
-**[1764.36s] English:** bear to be anywhere near anybody  
+**[1773.64s] English:** Love and heartbreak. Okay, why did you become a soldier? Why did you want to become a soldier?  
 **Translation:** 
 
-**[1766.22s] English:** and so i i moved away as fast as i possibly could and i didn't grasp it still at that point  
-**Translation:** 
-
-**[1773.64s] English:** love and heartbreak okay why did you become a soldier why did you want to become a soldier  
-**Translation:** 
-
-**[1784.26s] English:** my parents told me from an early age they always figured i would either be a cop  
+**[1784.26s] English:** My parents told me from an early age that they always figured I would either be a cop.  
 **Translation:** Vocabulary: heartbreak: 心碎
 
-**[1788.02s] English:** i would do they didn't think military but they thought it would be like a type a personality  
+**[1788.02s] English:** I would do; they didn't think military, but they thought it would be like a Type A personality.  
 **Translation:** 
 
-**[1793.66s] English:** possibly carry a gun situation  
+**[1793.66s] English:** Possibly, carry a gun; situation.  
 **Translation:** 
 
-**[1796.22s] English:** and um i'd never hunted before we never had guns  
+**[1796.22s] English:** And, um, I'd never hunted before; we never had guns.  
 **Translation:** 
 
-**[1800.00s] English:** our house i was never exposed to weapons of any kind if anything it was it was the opposite we  
+**[1800.00s] English:** Our house, I was never exposed to weapons of any kind. If anything, it was the opposite. We  
+**Translation:** Vocabulary: hunted: 打猎
+
+**[1806.32s] English:** Just, all the hunters on the property; like, all the deer would come to our property, and all the  
 **Translation:** 
 
-**[1806.32s] English:** just all the hunters on the property like all the deer would come to our property and all the  
+**[1810.64s] English:** Hunters would be no; I'm not. My mom would put salt on them so that they wouldn't get killed, you know?  
 **Translation:** 
 
-**[1810.64s] English:** hunters would be no i'm not my mom would put salt looks out so that they wouldn't get killed your  
+**[1814.88s] English:** Property was the safe space for the deer, yeah. It was 17 acres of forest, and they just had two.  
 **Translation:** 
 
-**[1814.88s] English:** property was the safe space for the deer yeah it was 17 acres of forest and they just we had two  
+**[1820.72s] English:** Turkeys that used to walk up and down the driveway every day—we had bears in there, and nobody bothered.  
+**Translation:** Vocabulary: driveway: 车道
+
+**[1825.28s] English:** They and so there was no aspect of "I want to go kill" that was not something I had.  
 **Translation:** 
 
-**[1820.72s] English:** turkeys that used to walk up and down the driveway every day we had bears in there nobody bothered  
-**Translation:** Vocabulary: bothered: 打扰; driveway: 车道
-
-**[1825.28s] English:** them and so there was no aspect of like i want to go kill that was not like a thing i had  
+**[1831.36s] English:** No idea; I wanted to take anybody off the face of the earth or anything. I went to school, and  
 **Translation:** 
 
-**[1831.36s] English:** no idea i wanted to take anybody off the face of the earth or anything i went to school and  
+**[1837.04s] English:** Because I'm a history person, my parents have always made it really important that  
 **Translation:** 
 
-**[1837.04s] English:** because i'm a history person i my parents has always always made it uh really important that  
+**[1844.16s] English:** Remembrance Day is the thing in our life, so that's Veterans Day for you, so it's November 11th, and  
+**Translation:** Vocabulary: remembrance: 纪念日
+
+**[1848.80s] English:** It's you go. You honor. I don't care if you don't want to go. I don't care if it's raining; you go.  
 **Translation:** 
 
-**[1844.16s] English:** remembrance day is the thing in our life so that's veterans day for you so it's november 11th and  
+**[1855.68s] English:** And so I went to the Remembrance Day ceremony in Ottawa that year, which was our capital.  
+**Translation:** Vocabulary: ottawa: 渥太华
+
+**[1861.28s] English:** Which is, yeah, it's our capital and it's really small. And so I went.  
 **Translation:** 
 
-**[1848.80s] English:** it's you go you honor i don't care if you don't want to go i don't care if it's raining you go  
+**[1866.00s] English:** But I took the bus and was on the bus back to Algonquin, and I met a lady who was like a  
+**Translation:** Vocabulary: algonquin: 阿冈昆地区
+
+**[1872.72s] English:** World War II vet, really old lady, she had an Air Force uniform on and just like this row of medals.  
 **Translation:** 
 
-**[1855.68s] English:** and so i went to the remembrance day ceremony in ottawa that year which was it's our capital  
+**[1878.72s] English:** And I mean, I think you can tell by our limited to extreme interactions we've had.  
 **Translation:** 
 
-**[1861.28s] English:** which is yeah it's our capital and it's really small and so i went  
+**[1885.28s] English:** Over the short period of time, I'm curious, and I'll just ask you. So, I just got up and talked to...  
 **Translation:** 
 
-**[1866.00s] English:** but i took the bus and i was on the bus back to algonquin and i met a lady who was like a  
+**[1890.56s] English:** She and I just started talking, and she didn't say anything specific, but I don't remember exactly her words.  
 **Translation:** 
 
-**[1872.72s] English:** world war ii vet really old lady she had an air force uniform on and just like this row of medals  
+**[1895.84s] English:** She served; she was one of the first females to fly, and you know, all these kinds of things.  
 **Translation:** 
 
-**[1878.72s] English:** and i mean i think you can tell by our limited to extreme interactions we've had  
+**[1903.04s] English:** Stuck in my head, and we just kind of kept talking. I missed my stop, and then I finished talking.  
 **Translation:** 
 
-**[1885.28s] English:** over the short period of time i'm curious and i'll just ask you and so i just got up and talked to  
+**[1908.56s] English:** To her, and I got back on the bus and went back to the college and walked into my small apartment.  
 **Translation:** 
 
-**[1890.56s] English:** her and just started talking to her and she didn't say like i don't remember exactly her words but  
+**[1915.28s] English:** Where I had two roommates, these two guys I went to high school with; one of them went to high school.  
+**Translation:** Vocabulary: roommates: 同住的朋友
+
+**[1920.00s] English:** With one, it was from out of town, and I just didn't like it; I wasn't happy, I wasn't doing anything I liked.  
 **Translation:** 
 
-**[1895.84s] English:** she served she was one of the first females to fly and you know all these kind of things that  
+**[1926.08s] English:** What I wanted to do, and I didn't know what I wanted to do truthfully; something just said.  
 **Translation:** 
 
-**[1903.04s] English:** stuck in my head and we just kind of kept talking and i missed my stop and then i finished talking  
+**[1933.20s] English:** Why don't you join the army, like in myself? My self-talk was like, "Let's just join the military.  
 **Translation:** 
 
-**[1908.56s] English:** to her and i got back on the bus and went back to the college and walked into my uh my small apartment  
+**[1937.44s] English:** Let's do it. Are you, in general, someone that just follows the gut, like when your heart tells you to?  
 **Translation:** 
 
-**[1915.28s] English:** where i had two roommates these two guys i went to high school with one of them went to high school  
-**Translation:** Vocabulary: roommates: 同住的人
-
-**[1920.00s] English:** with one was from out of town and i i just didn't like what i was i wasn't happy i wasn't doing  
+**[1943.20s] English:** You know, something you go with it for the most part because I figured that out at least now.  
 **Translation:** 
 
-**[1926.08s] English:** what i wanted to do and i didn't know what i wanted to do truthfully something just said  
+**[1948.96s] English:** What parts can I like? What feelings can I trust, and which ones can't I? Which ones are anxiety versus?  
 **Translation:** 
 
-**[1933.20s] English:** why don't you join the army like in myself my my self-talk was like let's just join the military  
+**[1954.64s] English:** Which one is my actual intuition talking? So, why did you sign up to be an artillery gunner, because?  
 **Translation:** 
 
-**[1937.44s] English:** let's do it are you in general somebody that just follows the gut like when your heart tells  
+**[1959.60s] English:** They wouldn't let me be infantry. I mean, is it why would you want to be infantry?  
+**Translation:** Vocabulary: artillery: 火炮; infantry: 步兵; intuition: 直觉
+
+**[1968.48s] English:** I mean, this—you're naming a lot of dangerous activities, yeah, but that wasn't  
 **Translation:** 
 
-**[1943.20s] English:** you something you go with it for the most part because i figured out at least now i figured out  
+**[1973.84s] English:** A thought in my mind at the time was: if I was going to do this, and I was going to put  
 **Translation:** 
 
-**[1948.96s] English:** what parts i could like what feeling i can trust and which one i can't which one's anxiety versus  
+**[1978.64s] English:** Myself out there, and I was going to do this. I was going to put myself out there, and I was going  
 **Translation:** 
 
-**[1954.64s] English:** which one's my actual intuition talking so why did you sign up to be an artillery gunner because  
+**[1978.94s] English:** Through the training and all of the hell and the push-ups, I screamed at.  
 **Translation:** 
 
-**[1959.60s] English:** they wouldn't let me be infantry i mean is it why why would you want to be infantry  
-**Translation:** Vocabulary: artillery: 火炮部队; infantry: 步兵; intuition: 直觉
-
-**[1968.48s] English:** i mean this you're you're you're you're naming a lot of dangerous activities yeah but that wasn't  
+**[1983.90s] English:** I wanted to do something that I knew would actually be affecting something, and what I knew...  
 **Translation:** 
 
-**[1973.84s] English:** a thought in my mind at the time my idea was if i was going to do this and i was going to put  
+**[1987.50s] English:** Was making changes or affecting things, or being on the front lines—was it infantry, artillery, or armored? So I was.  
 **Translation:** 
 
-**[1978.64s] English:** myself out there and i was going to do this and i was going to put myself out there and i was going  
+**[1992.78s] English:** Like, can you explain the difference between infantry, artillery, and armored units? Do you want me to go into detail on that?  
 **Translation:** 
 
-**[1978.94s] English:** through the and the training and all of the hell and the push-ups and the game i screamed at  
+**[1997.66s] English:** The layman's term, or do you want me to actually explain? Well, listen to your conversation.  
 **Translation:** 
 
-**[1983.90s] English:** i wanted to do something that i know was actually going to be affecting something and what i knew  
+**[2002.06s] English:** With Jaco, especially, I love how you get into details. Okay, so let's detail this. Okay, so infantry.  
 **Translation:** 
 
-**[1987.50s] English:** was making change or affecting or on the front lines was infantry artillery or armored so i was  
+**[2007.82s] English:** Is your front line? You're in the front line! You're in the front line! You're in the front line!  
 **Translation:** 
 
-**[1992.78s] English:** like one of those can you explain the difference infantry artillery and armored do you want like  
+**[2008.62s] English:** Front-line door kicking, you know, blasting the door open, running in and getting on the ground.  
 **Translation:** 
 
-**[1997.66s] English:** the layman's term or do you want me to actually explain explain well listen to your conversation  
+**[2016.46s] English:** They're the guys that you know, doubletap you in the face, and they show up in the middle of the  
+**Translation:** Vocabulary: blasting: 猛烈破拆; doubletap: 连续击打
+
+**[2019.82s] English:** Night, and put a barrel in your head—like those are the guys that are sleeping in the trenches that.  
 **Translation:** 
 
-**[2002.06s] English:** with jaco especially i love how you get into details okay so let's detail this okay so infantry  
-**Translation:** 
-
-**[2007.82s] English:** is your front line you're in the front line you're in the front line you're in the front line you're  
-**Translation:** 
-
-**[2008.62s] English:** front line door kicking you know blasting the door open running and get the on the ground  
-**Translation:** 
-
-**[2016.46s] English:** they're the guys that you know double tap you in the face and they show up in the middle of the  
-**Translation:** 
-
-**[2019.82s] English:** night and put a barrel in your head like those are the guys that are sleeping in the trenches that  
-**Translation:** 
-
-**[2024.94s] English:** are eating mres who are being shot at who are being blown up who are doing the dirty work and  
+**[2024.94s] English:** Are they eating MREs, who are being shot at, who are being blown up, who are doing the dirty work, and  
 **Translation:** Vocabulary: trenches: 战壕
 
-**[2030.62s] English:** not sleeping and carrying the 100 pound pack and  
+**[2030.62s] English:** Not sleeping and carrying the 100-pound pack and  
 **Translation:** 
 
-**[2033.74s] English:** and are side by side with your buddies in the trenches i wanted that that  
+**[2033.74s] English:** And they're side by side with your buddies in the trenches. I wanted that.  
 **Translation:** 
 
-**[2038.62s] English:** they said it was too  
+**[2038.62s] English:** They said it was too.  
 **Translation:** 
 
-**[2040.00s] English:** small for that so then you're sorry to interrupt you are too small under 100 pounds um at the time  
+**[2040.00s] English:** Small for that, so then you're sorry to interrupt; you are too small (under 100 pounds) at the time.  
+**Translation:** Vocabulary: interrupt: 打断
+
+**[2046.14s] English:** I was about 103, and I'm five feet tall, like if you rolled my back out, it would measure that.  
 **Translation:** 
 
-**[2046.14s] English:** i was about 103 and i'm i'm five foot like on a if you roll my back out like i really  
+**[2051.38s] English:** Try, I'm five feet tall at the time, though I think my license said 4'11".  
 **Translation:** 
 
-**[2051.38s] English:** try i'm five foot at the time though i think my my license said 411  
+**[2057.10s] English:** So, so you were too small, too small for infantry, yeah. They just liked there was no mandate.  
 **Translation:** 
 
-**[2057.10s] English:** so so you were too small too small for infantry yeah they just like there was no mandate  
+**[2065.32s] English:** At which they said, "You can't be," but they said, "You know, we don't want to put you through training.  
+**Translation:** Vocabulary: infantry: 步兵; mandate: 命令
+
+**[2069.94s] English:** That you're going to fail out of, and then have to recuse yourself, and then find a new job for you.  
 **Translation:** 
 
-**[2065.32s] English:** at which they said you can't be but they said you know we don't want to put you through training  
-**Translation:** Vocabulary: mandate: 命令
+**[2073.62s] English:** They want to try to make sure, if this is what you're going in for, that you follow through with it.  
+**Translation:** Vocabulary: recuse: 回避
 
-**[2069.94s] English:** that you're going to fail out of and then have to recourse you and then find a new job for you and  
+**[2078.16s] English:** Path, so then there was armored—which are your tanks—so that's your movie like Fury, where your  
 **Translation:** 
 
-**[2073.62s] English:** they want to try to if this is what you're going in for they want to have you follow through that  
-**Translation:** Vocabulary: recourse: 救济途径
-
-**[2078.16s] English:** path so then there was armored which are your tanks so that's your movie like fury where your  
+**[2085.66s] English:** Tank battles, and which we don't really do anymore, but you're rolling around in tanks; you've got guys.  
 **Translation:** 
 
-**[2085.66s] English:** tank battles and which we don't really do anymore but you're rolling around in tanks you got guys  
+**[2090.50s] English:** In the back, or you're a driver. You're a turret gunner, which I would have enjoyed, but the idea...  
 **Translation:** 
 
-**[2090.50s] English:** in the back or you're a driver you're a turret gunner which i would have enjoyed but the idea  
-**Translation:** 
-
-**[2095.30s] English:** of being in a closed metal box something about it made me  
+**[2095.30s] English:** Of being in a closed metal box, something about it made me.  
 **Translation:** Vocabulary: turret: 炮塔
 
-**[2099.94s] English:** so i was like maybe not for me uh there's of course power to that kind of uh big gun  
+**[2099.94s] English:** So, I was like, maybe not for me. Uh, there's of course power in that kind of big gun.  
 **Translation:** 
 
-**[2106.62s] English:** well that's why i went for the bigger one okay by the way i think russia leads the world the  
+**[2106.62s] English:** Well, that's why I went for the bigger one, okay. By the way, I think Russia leads the world.  
 **Translation:** 
 
-**[2111.60s] English:** number of tanks they're still it's very like uh what is it alpha demonstration of like force like  
+**[2111.60s] English:** Number of tanks; they're still, it's very much like an alpha demonstration of force, like.  
 **Translation:** 
 
-**[2118.14s] English:** look we have largest number of tanks you know what takes tanks out though what some gasoline  
-**Translation:** Vocabulary: alpha: 阿尔法; gasoline: 汽油
+**[2118.14s] English:** Look, we have the largest number of tanks. You know what takes out tanks, though? What some gasoline.  
+**Translation:** Vocabulary: alpha: 首肯; gasoline: 汽油
 
-**[2123.12s] English:** some old batteries and a wire yeah but tanks still look badass they look great but they don't last  
+**[2123.12s] English:** Some old batteries and a wire, yeah, but tanks still look badass; they look great, but they don't last.  
 **Translation:** 
 
-**[2129.00s] English:** but so much of what we're doing is we're not going to be able to do anything about it  
+**[2129.00s] English:** But so much of what we're doing is that we're not going to be able to do anything about it.  
 **Translation:** Vocabulary: badass: 酷毙了
 
-**[2129.94s] English:** we're not going to be able to do anything about it we're not going to be able to do anything about it  
+**[2129.94s] English:** We're not going to be able to do anything about it. We're not going to be able to do anything about it.  
 **Translation:** 
 
-**[2130.00s] English:** the military like we said with the recruiting videos it's a display of power versus the actual  
+**[2130.00s] English:** The military, like we said in the recruiting videos, is a display of power versus the actual.  
 **Translation:** Vocabulary: recruiting: 招募
 
-**[2134.82s] English:** implementation of power fair okay artillery so i'm doing my best here yeah i don't even know  
+**[2134.82s] English:** Implementation of power sharing, okay. Artillery, so I'm doing my best here, yeah. I don't even know.  
 **Translation:** 
 
-**[2141.12s] English:** what double tap means which you said earlier so it's double shots like two shots to the face why  
+**[2141.12s] English:** What does "double tap" mean, which you said earlier? So it's double shots, like two shots to the face, why?  
 **Translation:** Vocabulary: artillery: 大炮; implementation: 实施
 
-**[2145.98s] English:** two to be sure okay all right you guys taxpayers pay for the ammo it's fine so but you don't want  
+**[2145.98s] English:** Two to be sure, okay, all right. You guys taxpayers pay for the ammo; it's fine, so but you don't want.  
 **Translation:** 
 
-**[2152.62s] English:** to do three because it's wasting well that's now that's a waste okay double tap the face there's  
+**[2152.62s] English:** To do three because it's wasting; well, that's now that's a waste, okay. Double-tap the face there's.  
 **Translation:** 
 
-**[2157.26s] English:** so much awesome terminology here or uh  
+**[2157.26s] English:** So much awesome terminology here, or uh,...  
 **Translation:** 
 
-**[2159.94s] English:** so  
+**[2159.94s] English:** So,  
 **Translation:** Vocabulary: terminology: 术语
 
-**[2160.00s] English:** terminology depending on your perspective okay so artillery yeah so that's the hand of god  
+**[2160.00s] English:** Terminology, depending on your perspective, okay. So, artillery: yeah, so that's the hand of God.  
 **Translation:** 
 
-**[2168.32s] English:** sorry no i i that's that's intensely uh romanticized version but okay artillery  
+**[2168.32s] English:** Sorry, no; I mean, that's an intensely romanticized version, but okay, artillery.  
 **Translation:** Vocabulary: intensely: 强烈地
 
-**[2174.88s] English:** the hand of god so because it will reach out and touch you from wherever we want  
+**[2174.88s] English:** The hand of God, so because it will reach out and touch you from wherever we want.  
 **Translation:** 
 
-**[2179.52s] English:** it's like it's like f um f-18 pilots or bombers they'll you won't know they're there until  
+**[2179.52s] English:** It's like F-18 pilots or bombers—they'll be there, and you won't know they're there until...  
+**Translation:** Vocabulary: bombers: 轰炸机
+
+**[2186.80s] English:** They're there, and so for artillery, I really honestly didn't think it would be a fit.  
 **Translation:** 
 
-**[2186.80s] English:** they're there and so for artillery i i really honestly didn't think artillery would be a fit  
+**[2193.20s] English:** For me, I didn't know much about it; they were just like these are what you can pick from, and I was.  
 **Translation:** 
 
-**[2193.20s] English:** for me i didn't know much about it they were just like these are what you can pick from and i was  
+**[2198.48s] English:** Like, I'll go here: So, in World War II, they used much closer artillery, so it's the way they did it.  
 **Translation:** 
 
-**[2198.48s] English:** like i'll go here so in world war ii they used much closer artillery so it's the we're called  
+**[2204.80s] English:** The Royal Canadian Horse Artillery, because the Queen made us Royal Canadian Artillery and, um, we  
 **Translation:** 
 
-**[2204.80s] English:** the royal canadian horse artillery because the queen made us royal canadian artillery and um we  
+**[2210.96s] English:** We shoot these rounds when you're in training. You shoot smaller, smaller ammunition; they're about 40.  
 **Translation:** 
 
-**[2210.96s] English:** we shoot these rounds when you're in training you shoot smaller smaller ammunition they're about 40  
-**Translation:** 
-
-**[2216.80s] English:** i'm going to get this wrong 20k 20 kilometers so whatever that is in your  
+**[2216.80s] English:** I'm going to get this wrong: 20k is 20 kilometers, so however you measure it, that's what it is.  
 **Translation:** Vocabulary: ammunition: 弹药
 
-**[2222.48s] English:** mile things and um they have a casing on them and uh they're much easier they're easier to handle  
+**[2222.48s] English:** Milestones, and they have a casing on them, and they're much easier to handle.  
 **Translation:** 
 
-**[2230.16s] English:** the guns are smaller you need less people for them they're basically what you train on nowadays it's  
+**[2230.16s] English:** The guns are smaller; you need fewer people for them. They're basically what you train on nowadays.  
+**Translation:** Vocabulary: milestones: 重要里程碑
+
+**[2234.32s] English:** Not what we use overseas; what we use overseas now—those things are beautiful; those are just a sheer.  
 **Translation:** 
 
-**[2234.32s] English:** not what we use overseas what we use overseas now those things are beautiful those are just a sheer  
+**[2240.96s] English:** Work of the engineering behind them just makes my heart skip a beat. Yeah, the engineering on modern...  
 **Translation:** 
 
-**[2240.96s] English:** work of the engineering behind them just makes my heart skip a beat yeah the engineering on modern  
+**[2246.80s] English:** Guns are amazing, so are we talking about machine guns here? So, no, fully automatic—no, you're talking...  
 **Translation:** 
 
-**[2246.80s] English:** guns is amazing so are we talking about machine guns here so no fully automatic no you're talking  
+**[2250.96s] English:** About an artillery gun, so what it is: it's a 155-millimeter howitzer that shoots up to 40 kilometers.  
+**Translation:** Vocabulary: artillery: 大炮; howitzer: 榴弹炮; millimeter: 毫米
+
+**[2256.64s] English:** Kilometers accurately: 45, unrecorded, and it shoots a hundred-pound round. Oh, okay, so that, but there is.  
 **Translation:** 
 
-**[2250.96s] English:** about an artillery gun so what it is it's a 155 millimeter howitzer that shoots up to up to 40  
-**Translation:** Vocabulary: howitzer: 加农榴弹炮; millimeter: 毫米
-
-**[2256.64s] English:** kilometers accurately 45 unrecorded and it shoots a hundred pound round oh okay so that but there is  
+**[2269.04s] English:** The precision is accurate, as hell accurate, okay? Accurate—if the people behind it are shooting.  
 **Translation:** 
 
-**[2269.04s] English:** the precision accurate as hell accurate okay accurate if the people behind it that are shooting  
+**[2274.56s] English:** It, and aiming it for accuracy.  
 **Translation:** 
 
-**[2274.56s] English:** it and aiming it or accurate  
+**[2276.80s] English:** Yeah, uh, so, so, how about at which  
+**Translation:** Vocabulary: aiming: 瞄准
+
+**[2280.00s] English:** Stage of the warfare, do they come in? Are they saving you, like, say, a bunch of people get uh  
 **Translation:** 
 
-**[2276.80s] English:** yeah uh so so how at which  
+**[2285.36s] English:** Raided a bunch of the Soul Infantry, got raided, and then the artillery saves them—or are they?  
+**Translation:** Vocabulary: infantry: 步兵; raided: 突袭; warfare: warfare
+
+**[2290.22s] English:** The first line of attack: or, what? Where are they? Where does the artillery go—like the hand of God?  
 **Translation:** 
 
-**[2280.00s] English:** stage of the warfare do they come in are they saving you like say a bunch of people get uh  
+**[2295.62s] English:** Presumes because they're helping, yeah. Yeah, that's well, that's it. So, depending on the operation,...  
 **Translation:** 
 
-**[2285.36s] English:** raided a bunch of the soul infantry get raided and then the artillery saves them or are they  
-**Translation:** Vocabulary: artillery: 火炮; infantry: 步兵; raided: 突袭
-
-**[2290.22s] English:** the first line of attack or what where are they where does the artillery go like the hand of god  
+**[2301.98s] English:** Whomever is running it, or how they want it done, sometimes if they just know there are targets.  
 **Translation:** 
 
-**[2295.62s] English:** presumes because they're helping yeah yeah that's well that's it so depending on the operation or  
+**[2306.22s] English:** They'll use us, you know, as high-value targets. So, we have this round; it's called the X-Caliber round.  
+**Translation:** Vocabulary: whomever: 无论谁
+
+**[2312.20s] English:** It costs about half a million dollars per round. It comes in a special tube that is like sealed.  
 **Translation:** 
 
-**[2301.98s] English:** whomever is running it or how they want it done sometimes if they just know there's targets  
+**[2318.52s] English:** And locked; you have to get permission from Ottawa to shoot it, and it's only used for VIPs.  
+**Translation:** Vocabulary: sealed: 密封
+
+**[2322.50s] English:** Targets, so like we have VIP for everyone, and it's GPS-guided, it's rocket-propelled.  
 **Translation:** 
 
-**[2306.22s] English:** they'll use us you know high value targets so we have this round it's called the x caliber round  
-**Translation:** Vocabulary: caliber: 口径; whomever: 无论谁
-
-**[2312.20s] English:** it costs about half a million dollars per round it comes in a special tube that is like sealed  
+**[2329.74s] English:** And when you fire it, it will. If this is a wall and somebody's standing on this,  
 **Translation:** 
 
-**[2318.52s] English:** and locked and you have to get permission from ottawa to shoot it and it's only used for vip  
+**[2336.20s] English:** Side of it will hit you right there; we won't touch that wall. It will hit you, pinpoint it'll.  
 **Translation:** 
 
-**[2322.50s] English:** targets so like we have vip for everyone and it will it's gps guided it's rocket propelled  
-**Translation:** 
-
-**[2329.74s] English:** and when you fire it it will if this is a wall and somebody's standing on this  
-**Translation:** Vocabulary: propelled: 推进
-
-**[2336.20s] English:** side of it will hit you right there we won't touch that wall it will hit you pinpoint it'll  
-**Translation:** 
-
-**[2341.52s] English:** go right through whatever concrete whatever and it will destroy so it's basically uh the same  
+**[2341.52s] English:** Go right through whatever concrete, and it will destroy. So, it's basically the same.  
 **Translation:** Vocabulary: pinpoint: 精确点
 
-**[2348.14s] English:** thing as being a sniper but with a much more damaging we don't use that round often i think  
+**[2348.14s] English:** Thing is, being a sniper but with a much more damaging weapon—we don't use that round often, I think.  
 **Translation:** 
 
-**[2354.06s] English:** it's only been used a handful of times max in afghanistan that i'm aware of again i haven't  
+**[2354.06s] English:** It's only been used a handful of times, max, in Afghanistan that I'm aware of. Again, I haven't  
 **Translation:** Vocabulary: afghanistan: 阿富汗; sniper: 狙击手
 
-**[2359.34s] English:** i wasn't there from 2009 until 21 but i i know people that still deployed in that in those units  
+**[2359.34s] English:** I wasn't there from 2009 until 2021, but I know people who were still deploying to those units.  
 **Translation:** 
 
-**[2365.68s] English:** and i don't know if they're still there but i don't know if they're still there  
-**Translation:** Vocabulary: deployed: 部署
+**[2365.68s] English:** And I don't know if they're still there, but I don't know if they're still there.  
+**Translation:** Vocabulary: deploying: 部署
 
-**[2366.20s] English:** don't know that it was used very often but the regular rounds so there's he there's loom so he is  
+**[2366.20s] English:** Don't know that it was used very often, but the regular rounds — so there's a loom, so he is.  
 **Translation:** 
 
-**[2371.24s] English:** high explosive there's loom you shoot that it explodes in the sky it lights up the sky for  
-**Translation:** Vocabulary: explodes: 爆炸; explosive: 炸药
+**[2371.24s] English:** High explosives, they look like this: you shoot them, and they explode in the sky, lighting it up.  
+**Translation:** Vocabulary: explode: 爆炸; explosives: 炸药; lighting: 照明
 
-**[2376.56s] English:** the infantry below um and then there's shrapnel rounds that will explode in the sky and then  
+**[2376.56s] English:** The infantry below, um, and then there are shrapnel rounds that will explode in the sky and then  
 **Translation:** 
 
-**[2381.72s] English:** shrapnel just rains down hell on you he is what you use normally in my i'm trying to say this  
-**Translation:** Vocabulary: shrapnel: 碎弹片
+**[2381.72s] English:** Shrapnel just rained down on you, hell on you. He is what you use; normally, in my I'm trying to say this.  
+**Translation:** Vocabulary: infantry: 步兵; shrapnel: 碎弹片
 
-**[2388.90s] English:** right because i i know people squawked at me about some of the stuff on jocko so i'm trying to be  
+**[2388.90s] English:** Right, because I know people squawked at me about some of the stuff on Jocko, so I'm trying to be.  
 **Translation:** 
 
-**[2392.84s] English:** very accurate in my experience we used he rounds and we used shrapnel rounds and we used shrapnel  
+**[2392.84s] English:** Very accurate, in my experience. We used HE rounds and we used shrapnel rounds, and we used shrapnel.  
+**Translation:** Vocabulary: squawked: 抱怨
+
+**[2396.20s] English:** Rounds were used to wipe people off the face of the earth when the infantry needed us.  
 **Translation:** 
 
-**[2396.20s] English:** rounds to wipe people off the face of the earth when the infantry needed us  
+**[2400.00s] English:** So, we would get a call at any time, and there are always two guns together; you never go solo with a gun, ever.  
 **Translation:** 
 
-**[2400.00s] English:** So we would get a call at any time, and there's always two guns together, so you never go solo gun, ever.  
-**Translation:** 
-
-**[2408.34s] English:** If you are, it's sketchy, and bad shit's happening.  
+**[2408.34s] English:** If you are aware of it, it's sketchy, and bad stuff is happening.  
 **Translation:** 
 
 **[2412.72s] English:** Can you explain that?  
 **Translation:** Vocabulary: sketchy: 可疑的
 
-**[2413.42s] English:** So there's two people, two guns?  
+**[2413.42s] English:** So there are two people, two guns?  
 **Translation:** 
 
 **[2415.18s] English:** No, two guns with each gun troop.  
 **Translation:** 
 
-**[2417.42s] English:** So each gun troop has five to seven people running a gun at all times.  
+**[2417.42s] English:** So, each gun troop has five to seven people running a gun at all times.  
 **Translation:** 
 
 **[2420.38s] English:** Oh, wow.  
@@ -1553,48 +1554,48 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[2422.46s] English:** How much electronics is there?  
+**Translation:** Vocabulary: electronics: 电子设备
+
+**[2424.26s] English:** The GPS, like the computer system that's on it, I never ran that much.  
 **Translation:** 
 
-**[2424.26s] English:** The GPS, like the computer system that's on it itself, I never ran that much,  
-**Translation:** 
-
-**[2427.96s] English:** but it is completely technologically, it's GPS guided.  
+**[2427.96s] English:** But it is completely technologically advanced; it's GPS-guided.  
 **Translation:** Vocabulary: technologically: 技术上
 
-**[2432.30s] English:** All you have to do is literally type in the coordinates, then you've got the two big,  
+**[2432.30s] English:** All you have to do is literally type in the coordinates, then you've got the two big,...  
 **Translation:** 
 
-**[2437.62s] English:** there's a technical word for it, but basically wheels.  
+**[2437.62s] English:** There's a technical word for it, but basically, it's wheels.  
 **Translation:** Vocabulary: coordinates: 经纬度
 
-**[2441.32s] English:** And one does the trajectory, you know, you do your, and you're just kind of doing this,  
+**[2441.32s] English:** And one does the trajectory; you know, you do your thing, and you're just kind of doing this.  
 **Translation:** 
 
-**[2445.22s] English:** and you're watching, they're watching it, and once you hit your target, that's, you know, it'll tell you.  
+**[2445.22s] English:** And you're watching; they're watching it, and once you hit your target, that's it; you know, it'll tell you.  
 **Translation:** 
 
 **[2449.70s] English:** That's where you need to hit.  
 **Translation:** 
 
-**[2450.54s] English:** Do you know if there's any, like, AI stuff, like computer vision, like where there's cameras,  
+**[2450.54s] English:** Do you know if there's any AI stuff, like computer vision, where there are cameras?  
 **Translation:** 
 
-**[2456.16s] English:** and they help you target?  
+**[2456.16s] English:** And they help you target?  
 **Translation:** 
 
-**[2457.96s] English:** Do you use it using, like, all different kinds of cameras to see through, like, the fog, all those kinds of things?  
+**[2457.96s] English:** Do you use it with all different kinds of cameras to see through, like, fog and all those kinds of things?  
 **Translation:** 
 
-**[2464.24s] English:** No, we use the FU, which are Forward Observation Officers,  
+**[2464.24s] English:** No, we use the FUs, which are Forward Observation Officers,  
 **Translation:** 
 
-**[2468.50s] English:** which are an artillery individual that is embedded with an infantry unit.  
-**Translation:** Vocabulary: artillery: 火炮; embedded: 嵌入; infantry: 步兵
+**[2468.50s] English:** Which are artillery pieces, individually embedded with an infantry unit.  
+**Translation:** Vocabulary: artillery: 大炮; embedded: 嵌入; individually: 单独地; infantry: 步兵
 
 **[2474.08s] English:** Oh, wow, okay.  
 **Translation:** 
 
-**[2474.84s] English:** They call from the front, give us their grid coordinates, and basically say, like, don't drop this on us.  
+**[2474.84s] English:** They call from the front, give us their grid coordinates, and basically say, "Don't drop this on us.  
 **Translation:** 
 
 **[2480.42s] English:** Got it.  
@@ -1627,7 +1628,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[2491.32s] English:** But you can't hear it until it's too close.  
 **Translation:** 
 
-**[2492.86s] English:** So, like, when I went...  
+**[2492.86s] English:** So, like, when I went,...  
 **Translation:** 
 
 **[2493.72s] English:** Sorry, go ahead.  
@@ -1636,14 +1637,14 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[2494.18s] English:** You were going to say something.  
 **Translation:** 
 
-**[2494.58s] English:** No, I was going to say, what's the experience on the other...  
+**[2494.58s] English:** No, I was going to say, what's the experience on the other side?  
 **Translation:** 
 
-**[2498.76s] English:** Like, what does it feel like to be maybe infantry or...  
+**[2498.76s] English:** Like, what does it feel like to be maybe an infantry soldier or...  
 **Translation:** 
 
 **[2502.22s] English:** Underneath it?  
-**Translation:** 
+**Translation:** Vocabulary: underneath: 在...下面
 
 **[2503.24s] English:** Underneath the artillery.  
 **Translation:** 
@@ -1654,436 +1655,436 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[2512.14s] English:** It's terrifying.  
 **Translation:** 
 
-**[2514.36s] English:** Because I know the people that are shooting it, and I know them personally,  
+**[2514.36s] English:** Because I know the people who are shooting it, and I know them personally,  
 **Translation:** Vocabulary: terrifying: 令人恐惧的
 
-**[2517.44s] English:** and I know what they're like as humans, and for the most part,  
+**[2517.44s] English:** And I know what they're like as humans, and for the most part,  
 **Translation:** 
 
-**[2520.00s] English:** they're dialed but you get the odd duck where you're like i've seen people have an nd which  
+**[2520.00s] English:** They're dialed, but you get the odd duck where you're like, "I've seen people have an 'ND,' which  
+**Translation:** Vocabulary: dialed: 状态良好
+
+**[2524.08s] English:** Is a negligent discharge—you basically get charged for it, and you're getting into a lot of trouble because you  
 **Translation:** 
 
-**[2524.08s] English:** is a negligent discharge you basically get charged for it you're getting a lot of trouble because you  
+**[2529.26s] English:** Can blow people up, and I know it's like accidents happen, and so I know accidents can happen in stressful situations.  
+**Translation:** Vocabulary: discharge: 释放; negligent: 疏忽的
+
+**[2534.80s] English:** Situations, and when I was with the Brits, we had to call "danger close" artillery, and when it goes,...  
 **Translation:** 
 
-**[2529.26s] English:** can blow people up and i it like accidents happen and so i know accidents can happen in stressful  
-**Translation:** Vocabulary: discharge: 释放; negligent: 疏忽
-
-**[2534.80s] English:** situations and when i was with the brits we had to call danger close artillery and when it goes  
-**Translation:** 
-
-**[2540.48s] English:** over top of you it sounds like thunder and lightning so you fire it and it's not the  
+**[2540.48s] English:** Over the top of you, it sounds like thunder and lightning. So you fire it, and it's not the  
 **Translation:** Vocabulary: brits: 英国人
 
-**[2546.88s] English:** stereotype that you hear in world war ii where it kind of like that it's more of like a crackle  
+**[2546.88s] English:** Stereotype that you hear in World War II, where it kind of crackles.  
 **Translation:** 
 
-**[2553.28s] English:** and then you just hear like a whiz and it shit just goes everywhere it's loud it shakes the  
-**Translation:** Vocabulary: crackle: 爆裂声; stereotype: 刻板印象
+**[2553.28s] English:** And then you just hear like a whoosh, and it shits just goes everywhere; it's loud, it shakes the  
+**Translation:** Vocabulary: crackles: 发出噼啪声
 
-**[2560.88s] English:** ground it shakes you it you feel it okay is there some more words you can put to like the experience  
+**[2560.88s] English:** Ground, it shakes; you feel it. Okay, are there some more words you can add to describe the experience?  
 **Translation:** 
 
-**[2569.48s] English:** of what it's like to be in the heat of of battle there so what is i is there literally is it hot  
+**[2569.48s] English:** Of what it's like to be in the heat of battle, there? So, is it literally hot?  
 **Translation:** 
 
-**[2576.88s] English:** is it are you talking about being under it or shooting it under it oh yeah it 55 degree heat  
+**[2576.88s] English:** Is it about being under it or shooting it under it? Oh, yeah, it's 55-degree heat.  
 **Translation:** 
 
-**[2582.30s] English:** you're you know that you're waiting for it to be called you feel an overwhelming excitement to  
+**[2582.30s] English:** You know, you're waiting for it to be called, and you feel an overwhelming excitement.  
 **Translation:** 
 
-**[2587.62s] English:** start because for me i'd never been under it so i was like okay i had my camera ready like i was a  
+**[2587.62s] English:** Start, because for me I'd never been underwater so I was like, "Okay, I had my camera ready—like, I was a  
 **Translation:** 
 
-**[2593.24s] English:** kid at a candy store and i'm like i want to watch this happen and once you hear the crackle i got  
+**[2593.24s] English:** Kid at a candy store, and I'm like, "I want to watch this happen." Once you hear the crackle, I got  
+**Translation:** Vocabulary: crackle: 爆裂声
+
+**[2600.44s] English:** Really, I was fearful. My anxiety kicked up significantly, and I got to the point where  
 **Translation:** 
 
-**[2600.44s] English:** really fearful my anxiety kicked up significantly i i got to the point where  
+**[2606.88s] English:** I got numb, like I was. My nerves were on overdrive so much that my body would go numb.  
+**Translation:** Vocabulary: fearful: 害怕; nerves: 神经; overdrive: 超速
+
+**[2613.00s] English:** Like I could move, but my nerves were numb—like that. What were the nerves like?  
 **Translation:** 
 
-**[2606.88s] English:** i got numb like i was my nerves were on overdrive so much that like my body would go like numb  
+**[2618.10s] English:** We're talking about fear, or is it just anxious excitement — anxious excitement, hopeful that they'll succeed.  
 **Translation:** 
 
-**[2613.00s] English:** like i could move but like my nerves were numb if that makes sense what what were the nerves like  
+**[2624.08s] English:** Wouldn't blow it up on us, and there was this excitement that's hard to describe.  
 **Translation:** 
 
-**[2618.10s] English:** we're talking about fear or is it just anxious excitement anxious excitement hopeful that they  
+**[2631.10s] English:** Because you don't want to be excited that you're dropping bombs on people, but when you just saw,...  
 **Translation:** 
 
-**[2624.08s] English:** wouldn't blow it up on us and there was this there was this excitement that's hard to describe  
+**[2636.88s] English:** Faces, and they're shooting at you. There's this overwhelming...  
 **Translation:** 
 
-**[2631.10s] English:** because you don't want to be excited that you're dropping bombs on people but when you just saw  
+**[2640.00s] English:** Feeling of "got you," motherfucker! Yeah, yeah. Well, we'll talk about that because that's such a  
+**Translation:** Vocabulary: motherfucker: 混账
+
+**[2646.98s] English:** Difficult thing about wars, you forget that it's other human beings, yeah, because those other humans...  
 **Translation:** 
 
-**[2636.88s] English:** faces and they're shooting at you there's this overwhelming  
+**[2654.22s] English:** Beings are doing really bad things to you, and so the very basic anger takes over. Um, hate can take  
 **Translation:** 
 
-**[2640.00s] English:** feeling of got you motherfucker yeah yeah well we'll talk about that because that's such a  
-**Translation:** Vocabulary: motherfucker: 混蛋
-
-**[2646.98s] English:** difficult thing about wars you forget that it's other human beings yeah because those other human  
+**[2662.38s] English:** Over, and then also just the excitement of almost like a video game-like aspect of war, you know.  
 **Translation:** 
 
-**[2654.22s] English:** beings are doing really bad things to you and so the very basic anger takes over um hate can take  
+**[2671.30s] English:** Sport; it's like sport, that all of those elements are all baked in. It's really hard to be...  
 **Translation:** 
 
-**[2662.38s] English:** over and then also just the excitement of almost like video game like you know aspect of war like  
+**[2676.80s] English:** Philosophical in that situation, it seems like I've never played video games, so I can't compare.  
 **Translation:** 
 
-**[2671.30s] English:** sport it's it's like sport that all of those elements are all baked in it's it's hard to be  
-**Translation:** 
-
-**[2676.80s] English:** philosophical in that situation it seems like i've never played video games so i can't compare  
-**Translation:** 
-
-**[2682.48s] English:** it to that but like from from like a sports perspective yeah i could i could argue that  
+**[2682.48s] English:** It's like that, but from a sports perspective, yeah, I could argue that.  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[2686.46s] English:** like i felt like we won there for a second and it's it's not just like a heat from outside  
+**[2686.46s] English:** Like I felt like we won there for a second, and it's not just a heat from outside.  
 **Translation:** 
 
-**[2692.38s] English:** it's like this radiation within you that is something i've never felt since  
+**[2692.38s] English:** It's like this radiation within you — something I've never felt since.  
 **Translation:** 
 
-**[2696.82s] English:** you uh just to take a small step back to the weapons training  
+**[2696.82s] English:** You, uh, just to take a small step back to the weapons training.  
 **Translation:** 
 
-**[2702.64s] English:** what uh what kind of guns did you train on because you also mentioned a rocket launcher  
-**Translation:** Vocabulary: launcher: 火箭发射器
-
-**[2707.80s] English:** i love carl kristoff's what are those what are those carl g carl g's what what's that what's uh  
+**[2702.64s] English:** What kind of guns did you train on, because you also mentioned a rocket launcher?  
 **Translation:** 
 
-**[2715.50s] English:** what's it like my only experience with the rocket launchers is from the movie commando  
+**[2707.80s] English:** I love Carl Kristoff's. What are those? Carl G's, what's that? Uh,...  
+**Translation:** 
+
+**[2715.50s] English:** What's it like? My only experience with the rocket launchers is from the movie Commando.  
 **Translation:** Vocabulary: commando: 突击队员; launchers: 发射器
 
-**[2719.54s] English:** with arlen schwarzenegger oh yeah and we've all discussed i haven't seen it  
+**[2719.54s] English:** With Arlen Schwarzenegger, oh, yeah, and we've all discussed it; I haven't seen it.  
 **Translation:** 
 
-**[2722.36s] English:** that yet and i've heard about it and people have made me tell yeah i know i feel like you haven't  
+**[2722.36s] English:** That's yet, and I've heard about it. People have made me tell; yeah, I know. I feel like you haven't.  
 **Translation:** 
 
-**[2725.72s] English:** seen a single movie that's relevant to war military because every time anyone brings it up  
+**[2725.72s] English:** Seen a single movie that's relevant to war or military, because every time anyone brings it up,...  
 **Translation:** 
 
-**[2733.32s] English:** i don't have time to watch movies lex platoon you haven't seen platoon which is um you're the  
-**Translation:** Vocabulary: platoon: 步兵班
+**[2733.32s] English:** I don't have time to watch movies, Lex. Platoon—you haven't seen Platoon, right?  
+**Translation:** Vocabulary: platoon: 步兵小分队
 
-**[2737.96s] English:** scientist how do you have the time i'm not a scientist i just play one on tv okay sure so  
+**[2737.96s] English:** Scientist, how do you have the time? I'm not a scientist; I just play one on TV, okay? Sure, so...  
 **Translation:** 
 
-**[2745.08s] English:** uh what can you talk about the rocket launcher and maybe any other yeah for both engineering  
+**[2745.08s] English:** Uh, what can you talk about the rocket launcher, and maybe any other weapons too, for both engineering?  
+**Translation:** Vocabulary: launcher: 发射器
+
+**[2751.00s] English:** Actually, to me, those guns are very interesting from an engineering perspective, too. Well, they  
 **Translation:** 
 
-**[2751.00s] English:** actually to me those guns are very interesting from an engineering perspective too well they  
+**[2755.56s] English:** Should be: They're fascinating when you take them apart, and you see how small the parts get down to.  
 **Translation:** 
 
-**[2755.56s] English:** should be they're fascinating when you take them apart and you see how small the parts get down to  
+**[2760.00s] English:** And how necessary every single little piece is to make that thing run, and even without  
 **Translation:** 
 
-**[2760.00s] English:** and how how necessary every single little piece is to make that thing run and even without  
+**[2764.72s] English:** The tiniest little BB, smaller than a piece of lead from an artillery gun, might not work, so we were.  
+**Translation:** Vocabulary: artillery: 大炮; tiniest: 最小的
+
+**[2770.48s] English:** Trained on Carl G's, um, and called M72s, which are disposable rocket launchers. I'll back up Carl G's.  
 **Translation:** 
 
-**[2764.72s] English:** the tiniest little bb smaller than a piece on there an artillery gun might not run so we were  
-**Translation:** Vocabulary: artillery: 大炮
-
-**[2770.48s] English:** trained on carl g's um and called m72s which are disposable rocket launchers i'll back up carl g's  
-**Translation:** 
-
-**[2778.88s] English:** are around i don't know the exact millimeter of the round it's been a while since i shot them we  
+**[2778.88s] English:** Are around, I don't know the exact millimeter of the round; it's been a while since I shot them. We  
 **Translation:** Vocabulary: disposable: 一次性; millimeter: 毫米
 
-**[2784.72s] English:** only did those in training but essentially it takes most people one person can fire it  
+**[2784.72s] English:** Only those in training did it, but essentially, it takes most people about one minute to fire it.  
 **Translation:** 
 
-**[2790.24s] English:** you know effectively hold it and fire it it takes another person to load it  
+**[2790.24s] English:** You know, effectively holding and firing it takes another person to load it.  
 **Translation:** 
 
-**[2794.56s] English:** so you put it onto your shoulder and it weighs i would i don't know 30 pounds 40 pounds oh wow  
+**[2794.56s] English:** So, you put it onto your shoulder, and it weighs—I would say—30 to 40 pounds. Oh, wow!  
 **Translation:** 
 
-**[2800.16s] English:** can't remember it's been a minute it's been one person can carry it oh yeah okay i don't know it  
+**[2800.16s] English:** Can't remember; it's been a minute. It's been one person can carry it, oh, yeah, okay, I don't know it.  
 **Translation:** 
 
-**[2807.20s] English:** just seems like a rocket launcher is pretty uh intense kind of device it just for sure is i mean  
+**[2807.20s] English:** Just seems like a rocket launcher is pretty intense, kind of device; it's for sure, I mean.  
 **Translation:** 
 
-**[2814.72s] English:** it's the diameter i can't even tell you diameter they're about that big i mean and it goes on your  
+**[2814.72s] English:** It's the diameter; I can't even tell you. Diameter, they're about that big. I mean, and it goes on your...  
 **Translation:** 
 
-**[2820.08s] English:** shoulder goes on your shoulder and then it has a little sight that pops out that's almost like  
+**[2820.08s] English:** Shoulder goes on your shoulder, and then it has a little sight that pops out, which is almost like  
 **Translation:** 
 
-**[2824.64s] English:** plastic like which is kind of funny because it reminds me of like the uh little um green army man  
+**[2824.64s] English:** Plastic, like which is kind of funny because it reminds me of, like, the little green Army Man.  
 **Translation:** 
 
-**[2830.80s] English:** it just felt so flimsy to me i was like this is hilarious and then another person stands behind  
+**[2830.80s] English:** It just felt so flimsy to me. I was like, "This is hilarious," and then another person stands behind.  
 **Translation:** 
 
-**[2836.16s] English:** you and opens the hatch and so there's this there's these two um levers and you just kind of  
-**Translation:** Vocabulary: flimsy: 脆弱
+**[2836.16s] English:** You, and he opens the hatch. And there are these two levers, and you just kind of  
+**Translation:** Vocabulary: flimsy: 脆弱; hilarious: 好笑; levers: 杠杆
 
-**[2842.16s] English:** open it and then the back end which is  
+**[2842.16s] English:** Open it, and then the back end, which is  
 **Translation:** 
 
-**[2844.72s] English:** flared so it's just a tube and then it's flared that will open it and drop down and you load a  
-**Translation:** Vocabulary: flared: 扩张的
+**[2844.72s] English:** Flared, so it's just a tube, and then it's flared. That will open it and drop down, and you load a  
+**Translation:** Vocabulary: flared: 喇叭形的
 
-**[2850.16s] English:** round into that and then you load it back up got it and you're never supposed to stand behind it  
+**[2850.16s] English:** Round into that, and then you load it back up. Got it, and you're never supposed to stand behind it.  
 **Translation:** 
 
-**[2855.52s] English:** because the blast behind it will kill you it's yeah but in my case when i fired it it was me  
+**[2855.52s] English:** Because the blast behind it will kill you, it's yeah. But in my case, when I fired it, it was me.  
 **Translation:** 
 
-**[2863.44s] English:** and another individual um i want to say it wasn't sarah pellegrin but it was another girl that was  
+**[2863.44s] English:** And another individual—um—I want to say it wasn't Sarah Pellegrin, but it was another girl that was.  
 **Translation:** 
 
-**[2868.24s] English:** smaller and the person is supposed to wrap around your waist and tuck low and hold your stability  
-**Translation:** Vocabulary: pellegrin: 佩雷格里诺
+**[2868.24s] English:** Smaller, and the person is supposed to wrap around your waist, tuck low, and hold your stability.  
+**Translation:** Vocabulary: pellegrin: 佩勒格里诺
 
-**[2873.92s] English:** and we were just aiming for it and we were just aiming for it and we were just aiming for it and we  
+**[2873.92s] English:** And we were just aiming for it, and we were just aiming for it, and we were just aiming for it, and we.  
 **Translation:** 
 
-**[2874.70s] English:** at tanks that day and they were just concrete um heads so they would just either they would hit  
+**[2874.70s] English:** On that day, the tanks were just concrete heads, so they would just hit.  
+**Translation:** Vocabulary: aiming: 瞄准
+
+**[2880.00s] English:** Bounce off, or whatever, and so when my sergeant saw that, he just kind of looked at both of us.  
 **Translation:** 
 
-**[2880.00s] English:** bounce off or whatever and so when my sergeant saw that he just kind of looked at both of us  
+**[2886.68s] English:** And he was like, "No, I'm just gonna," and he got really low and just like wrapped both of us, and then...  
+**Translation:** Vocabulary: bounce: 反弹; sergeant: 军士
+
+**[2893.40s] English:** We'd fire it, and it feels like you're getting punched in the side of the head over and over again.  
 **Translation:** 
 
-**[2886.68s] English:** and was like no i'm just gonna and he got real low and just like wrapped both of us and then  
+**[2898.92s] English:** Jocko, yeah. If you lose all your hearing, you just get stuff coming out of your nose, and you're  
+**Translation:** Vocabulary: jocko: 乔科; punched: 被拳击
+
+**[2907.06s] English:** Just kind of discombobulated for a minute. It's a real mind-fuck, isn't there anything else?  
 **Translation:** 
 
-**[2893.40s] English:** we'd fire it and it feels like you're getting punched in the side of the head on repeat by  
+**[2914.46s] English:** Kind of guns that, um, in that time, because you were new to this and hadn't shot guns when you  
+**Translation:** Vocabulary: discombobulated: 混乱
+
+**[2920.62s] English:** Were younger that were really impressive to you in the training, all of them, because I've never.  
 **Translation:** 
 
-**[2898.92s] English:** jocko yeah it you lose all your hearing you just like just snot comes out of your nose and you're  
-**Translation:** Vocabulary: jocko: 乔科
-
-**[2907.06s] English:** just kind of discombobulated for a minute it's a real mind fuck is it is there other uh any other  
+**[2925.86s] English:** Fired a weapon, so we had the C7s, which are like your M16s, I believe. Um, the long barrel, the cute.  
 **Translation:** 
 
-**[2914.46s] English:** kind of guns that um in at that time because you were new to this you haven't shot guns when you  
-**Translation:** Vocabulary: discombobulated: 晕头转向
-
-**[2920.62s] English:** were younger that were really impressive to you in in the training all of them because i've never  
+**[2932.84s] English:** A thing about those is, when I have it slung, my barrel drags on the ground.  
 **Translation:** 
 
-**[2925.86s] English:** fired a weapon so we had the c7s which are like your m16s i believe um the long barrel the cute  
-**Translation:** 
-
-**[2932.84s] English:** thing about those is when i have that slung my barrel drags on the ground  
-**Translation:** 
-
-**[2935.82s] English:** you  
+**[2935.82s] English:** You.  
 **Translation:** Vocabulary: slung: 悬挂
 
-**[2937.06s] English:** so that's fun and they shoot uh you know your 762 or your 556 round i loved that i preferred the um  
+**[2937.06s] English:** So, that's fun, and they shoot, you know, your 762 or your 556 round. I loved that; I preferred the um...  
 **Translation:** 
 
-**[2944.84s] English:** the c8 which was a short barrel which is what the sf guys use not because it's cooler looking which  
+**[2944.84s] English:** The C8, which was a short-barrel version, is what the SF guys use—not because it's cooler-looking, which  
 **Translation:** 
 
-**[2950.34s] English:** it obviously is but because it was functional for my body height and it didn't drag on the  
+**[2950.34s] English:** It obviously is, but because it was functional for my body height and it didn't drag on the  
 **Translation:** 
 
-**[2955.50s] English:** ground when i ran i loved those they're your personal weapon being an artillery gunner if  
+**[2955.50s] English:** When I ran, I loved them; they're your personal weapon, being an artillery gunner if.  
+**Translation:** Vocabulary: artillery: 火炮; functional: 实用的
+
+**[2960.90s] English:** You're not an officer, at least in our unit. You didn't get a sidearm, and I didn't either.  
 **Translation:** 
 
-**[2960.90s] English:** you're not an officer at least in our unit you didn't get a side a side piece i didn't have a  
+**[2965.82s] English:** Side Piece Lex.  
+**Translation:** Vocabulary: sidearm: 副武器
+
+**[2967.06s] English:** Um, so I never had a handgun of any type; I fired those in training—you can't get over that.  
 **Translation:** 
 
-**[2965.82s] English:** side piece lex  
+**[2972.86s] English:** Piece, comment: Look at you. Uh, I was gonna say I know what a side piece is; you don't have to explain to me.  
 **Translation:** 
 
-**[2967.06s] English:** um so i never had a handgun of any type i fired those in training you can't get over that side  
+**[2977.72s] English:** Me, but you're single, so how do you even have a side piece if you don't have a main piece? The joke.  
 **Translation:** 
 
-**[2972.86s] English:** piece comment look at you uh i was gonna say i know what a side piece is you don't have to explain to  
+**[2981.54s] English:** The joke would be the fact that we have a total misunderstanding of what "side piece" is—okay, great.  
 **Translation:** 
 
-**[2977.72s] English:** me but you're single so how do you even have a side piece if you don't have a main piece the joke  
+**[2986.68s] English:** You didn't have a side piece as a non-officer, right? So I never fired them much. We did use grenades.  
 **Translation:** 
 
-**[2981.54s] English:** the joke would be the fact that we have a total misunderstanding what side piece is okay great  
-**Translation:** 
-
-**[2986.68s] English:** you didn't have a side piece as a non-officer right so i never fired those much we did grenades  
-**Translation:** 
-
-**[2991.86s] English:** in training oh cool yeah grenades are fun i love grenades i have a massive one tattooed on me i i  
+**[2991.86s] English:** In training, oh, cool! Yeah, grenades are fun. I love grenades. I even have a massive one tattooed on me.  
 **Translation:** Vocabulary: grenades: 手榴弹; tattooed: 纹身
 
-**[2997.06s] English:** have them all over my office how does a grenade work  
+**[2997.06s] English:** Have them all over my office. How does a grenade work?  
 **Translation:** 
 
-**[3000.00s] English:** There's the spoon and the pin so this the pin holds the spoon in place when you pull that pin  
-**Translation:** 
-
-**[3006.06s] English:** The firing mechanism inside as long as that the spoon is up against it  
-**Translation:** 
-
-**[3011.30s] English:** It won't fire as soon as that spoon goes  
-**Translation:** 
-
-**[3013.12s] English:** I believe it causes a reaction on the inside and you've got about five seconds to check it  
-**Translation:** 
-
-**[3018.08s] English:** You'd be better to ask that question, too. I don't want me to get philosophical. No, you're not but there's something about a grenade  
+**[3000.00s] English:** There's the spoon and the pin. So, this pin holds the spoon in place when you pull that pin.  
 **Translation:** Vocabulary: grenade: 手榴弹
 
-**[3025.32s] English:** Because you're essentially committing suicide  
+**[3006.06s] English:** The firing mechanism inside will activate as long as the spoon is up against it.  
 **Translation:** 
 
-**[3027.32s] English:** Unless you get rid of the thing  
+**[3011.30s] English:** It won't fire as soon as that spoon goes.  
 **Translation:** 
 
-**[3032.02s] English:** There's something like or if you're unlucky and it just goes off when you pull the pin which has happened to tons of people  
+**[3013.12s] English:** I believe it causes a reaction on the inside, and you've got about five seconds to check it.  
 **Translation:** 
 
-**[3037.72s] English:** So it just feels like a very kind of leap  
+**[3018.08s] English:** You'd be better off asking that question, too. I don't want to get philosophical. No, you're not, but there's something about a grenade.  
 **Translation:** 
 
-**[3040.62s] English:** It's a dangerous leap into the abyss every time  
+**[3025.32s] English:** Because you're essentially committing suicide.  
 **Translation:** 
 
-**[3044.50s] English:** He's the thing because when you shoot a gun like the gun is much less likely to malfunction  
+**[3027.32s] English:** Unless you get rid of the thing,  
+**Translation:** 
+
+**[3032.02s] English:** There's something like, or if you're unlucky and it just goes off when you pull the pin, which has happened to tons of people.  
+**Translation:** 
+
+**[3037.72s] English:** So, it just feels like a very kind of leap.  
+**Translation:** Vocabulary: unlucky: 倒霉的
+
+**[3040.62s] English:** It's a dangerous leap into the abyss every time.  
+**Translation:** 
+
+**[3044.50s] English:** He's the thing because when you shoot a gun, it is much less likely to malfunction.  
 **Translation:** Vocabulary: malfunction: 故障
 
-**[3049.20s] English:** In terms of like all the possible ways to go wrong. It just seems like grenade is like  
+**[3049.20s] English:** In terms of all the possible ways to go wrong, it just seems like a grenade is like  
 **Translation:** 
 
-**[3054.90s] English:** Primitive almost. Yeah, it's primitive  
+**[3054.90s] English:** Primitive, almost. Yeah, it's primitive.  
 **Translation:** 
 
-**[3056.90s] English:** It's like  
+**[3056.90s] English:** It's like...  
 **Translation:** 
 
-**[3057.30s] English:** It's also real like in a way that like a bar fight is like being punched in the face is real  
+**[3057.30s] English:** It's also real, like in a way that, like, a bar fight is—being punched in the face is real.  
+**Translation:** Vocabulary: punched: 被打
+
+**[3062.34s] English:** Yeah, it's like you're here with a weapon of destruction. It's just you and the thing.  
 **Translation:** 
 
-**[3062.34s] English:** Yeah, it's like you're here with a weapon of destruction. It's just you and in the thing  
-**Translation:** 
-
-**[3067.32s] English:** Yeah, you have to get rid of it. I don't know. Is that is that terrifying to you?  
+**[3067.32s] English:** Yeah, you have to get rid of it. I don't know. Is that terrifying to you?  
 **Translation:** Vocabulary: terrifying: 令人恐惧的
 
-**[3071.10s] English:** Like Pete do people still use grenades in warfare? Oh, yeah. Okay. Yeah, those are fantastic  
+**[3071.10s] English:** Like Pete, do people still use grenades in warfare? Oh, yeah. Okay. Yeah, those are fantastic.  
 **Translation:** 
 
-**[3075.78s] English:** The Taliban were throwing them over the wall at the airport in Kabul  
-**Translation:** Vocabulary: kabul: 喀布尔
+**[3075.78s] English:** The Taliban were throwing them over the wall at the airport in Kabul.  
+**Translation:** Vocabulary: grenades: 手榴弹; warfare: 战争
 
-**[3079.66s] English:** People use them all the time because when you're in Afghanistan  
+**[3079.66s] English:** People use them all the time because, when you're in Afghanistan,  
 **Translation:** 
 
-**[3082.02s] English:** If you're in a rural area, you're going from village to village and they're there, you know, they're mud hut walls like  
+**[3082.02s] English:** If you're in a rural area, you're going from village to village, and they're there—known for their mud-hut walls.  
+**Translation:** Vocabulary: afghanistan: 阿富汗
+
+**[3086.76s] English:** They're tall, but you're walking through corridors and stuff. All you get is  
 **Translation:** 
 
-**[3086.76s] English:** They're tall but you're walking through corridors and stuff. All you get it  
+**[3090.06s] English:** Lob one of those; it's gonna take the whole unit out that just walked by, like it's. They're accurate if you're close enough.  
 **Translation:** 
 
-**[3090.06s] English:** Lob one of those it's gonna take the whole unit out that just walked by like it's they're accurate if you're close enough  
-**Translation:** Vocabulary: corridors: 过道
-
-**[3095.66s] English:** And they're effective if you're close enough  
+**[3095.66s] English:** And they're effective if you're close enough.  
 **Translation:** 
 
-**[3098.50s] English:** I  
+**[3098.50s] English:** I.  
 **Translation:** 
 
-**[3099.72s] English:** love them though, I  
+**[3099.72s] English:** Love them though, I  
 **Translation:** 
 
-**[3101.52s] English:** think  
+**[3101.52s] English:** Think.  
 **Translation:** 
 
-**[3102.60s] English:** They're fascinating to me because there's such a tiny little thing with such devastation  
+**[3102.60s] English:** They're fascinating to me because there's such a tiny little thing with such devastating power.  
 **Translation:** 
 
-**[3108.90s] English:** They just can cause such devastation. But for me when I had them  
+**[3108.90s] English:** They just can cause such devastation. But for me, when I had them,...  
 **Translation:** Vocabulary: devastation: 毁灭
 
-**[3113.08s] English:** the some of the Canadians would make fun of me because when I did go outside the wire at the  
+**[3113.08s] English:** The some of the Canadians would make fun of me because when I did go outside the wire at the  
 **Translation:** 
 
-**[3116.76s] English:** British I had to right here and  
+**[3116.76s] English:** British: I had to do it right here and  
 **Translation:** 
 
-**[3119.00s] English:** I remember  
+**[3119.00s] English:** I remember.  
 **Translation:** 
 
-**[3120.00s] English:** i put a piece of tape over the spoons because in my mind i could picture myself searching  
+**[3120.00s] English:** I put a piece of tape over the spoons because, in my mind, I could picture myself searching.  
 **Translation:** 
 
-**[3125.92s] English:** someone and grabbing me and pulling that and that would be me that that would have been like yep  
+**[3125.92s] English:** Someone grabbed me and pulled me, and that would have been like, "Yep.  
 **Translation:** 
 
-**[3130.96s] English:** that if anyone that was going to happen to it was her for sure so you were deployed to afghanistan  
-**Translation:** Vocabulary: afghanistan: 阿富汗; deployed: 部署
+**[3130.96s] English:** That, if anyone, was going to happen to it, was definitely her. So, you were deployed to Afghanistan.  
+**Translation:** Vocabulary: deployed: 部署
 
-**[3137.36s] English:** in 2009 okay and uh like we said you were in a great no perfect physical shape epic shape  
+**[3137.36s] English:** In 2009, okay, and, uh, like we said, you were in a great—perfect—physical shape, epic shape.  
 **Translation:** 
 
-**[3147.20s] English:** epic shape six-pack or i mean yeah okay so uh you could do pull a lot of pull-ups and push-ups and  
+**[3147.20s] English:** Epic shape, six-pack or I mean, yeah, okay, so, uh, you could do a lot of pull-ups and push-ups and  
 **Translation:** 
 
-**[3155.84s] English:** okay uh and well trained would you say were you already what like no no no i'll argue that point  
+**[3155.84s] English:** Okay, uh, and well-trained, would you say? No, no, no, I'll argue that point.  
 **Translation:** 
 
-**[3164.00s] English:** till i'm blue in the face i spoke to recently i actually spoke to my sergeant he's not a sergeant  
+**[3164.00s] English:** Till I'm blue in the face, I've spoken to someone recently. I actually spoke to my sergeant, but he's not a sergeant anymore.  
+**Translation:** Vocabulary: sergeant: 军士
+
+**[3168.40s] English:** Anymore, but Sergeant Mark LeBlanc—he's in Africa right now on a deployment. He gave me a call the  
 **Translation:** 
 
-**[3168.40s] English:** anymore but sergeant mark leblanc he's in africa right now on a deployment he gave me a call the  
+**[3172.24s] English:** One other day, and I remember talking to him about this. It's frustrating because...  
+**Translation:** Vocabulary: deployment: 部署; frustrating: 令人沮丧的
+
+**[3177.20s] English:** We were involved in an active war, and we were sorry about it. The units that...  
 **Translation:** 
 
-**[3172.24s] English:** other day and i remember talking to him about this and it's frustrating because  
-**Translation:** Vocabulary: deployment: 部署; frustrating: 令人沮丧
+**[3182.72s] English:** I was tagged red, which meant they needed people, so when you need people, things go quick.  
+**Translation:** Vocabulary: tagged: 标记为需要
 
-**[3177.20s] English:** we were at an active war we were sorry we were involved in an active war where we the units that  
+**[3190.80s] English:** Whether or not that's right, I mean, you could argue that's similar to what's happening in  
 **Translation:** 
 
-**[3182.72s] English:** i were in were dagged red which meant they needed people so when you need people things go quick  
+**[3195.44s] English:** The world, right now, we needed a vaccine; we got a vaccine. Is it the best it could be?  
+**Translation:** Vocabulary: vaccine: 疫苗
+
+**[3201.28s] English:** Could it be better? Could it do more things? Sure, probably, but with the time that we had, we did the best we could.  
 **Translation:** 
 
-**[3190.80s] English:** whether or not that's right i mean you could argue that's the similar thing to what's happening in  
+**[3207.20s] English:** Best that we could—that's my logic on that. For me, I joined the military in November 2007, and I was in.  
 **Translation:** 
 
-**[3195.44s] English:** the world right now we needed a vaccine we got a vaccine is it the best it could be  
+**[3216.00s] English:** Basic training in January of 2008, I was graduated from BSQ, which is all your weapons training.  
 **Translation:** 
 
-**[3201.28s] English:** could it be better could it do more things sure probably but with the time that we had we did the  
+**[3223.36s] English:** DP1: Which is your trade-specific training? So, whatever trade you're going to go into, whether  
 **Translation:** 
 
-**[3207.20s] English:** best that we could that's my logic on that for me i joined the military in november 2007. i was in  
+**[3229.92s] English:** It's infantry, armored, artillery, medic—whatever. That's your DP-1. It's called different things in  
 **Translation:** 
 
-**[3216.00s] English:** basic training in january of 2008 i was graduated basic sq which is all your weapons training your  
-**Translation:** 
-
-**[3223.36s] English:** dp1 which is your trade specific training so whatever trade you're going to go into whether  
-**Translation:** 
-
-**[3229.92s] English:** it's infantry armored artillery medic whatever that's your dp1 it's called different things in  
-**Translation:** 
-
-**[3235.20s] English:** different units and then  
+**[3235.20s] English:** Different units, and then  
 **Translation:** Vocabulary: artillery: 火炮; infantry: 步兵
 
-**[3237.20s] English:** i got posted to my unit in september  
+**[3237.20s] English:** I got posted to my unit in September.  
 **Translation:** 
 
-**[3240.00s] English:** So January to September, I had done all my training and I'm an English speaking individual.  
+**[3240.00s] English:** So from January to September, I had done all my training, and I am an English-speaking individual.  
 **Translation:** 
 
-**[3245.40s] English:** I got posted to a French unit that only speaks French and had to learn all of the weapon systems, everything again that I just learned in that short time frame in French.  
+**[3245.40s] English:** I was posted to a French unit that only speaks French, and had to learn all of the weapon systems—everything—again, in that short time frame, in French.  
 **Translation:** 
 
-**[3255.44s] English:** This part of your story that you're telling this to Jocko is one way to say it is very impressive that you had to learn all of this in French.  
-**Translation:** Vocabulary: jocko: 乔科
+**[3255.44s] English:** This part of your story, that you're telling to Jocko, is very impressive: you had to learn all of this in French.  
+**Translation:** 
 
-**[3264.84s] English:** So there's also the camaraderie, the social aspect of it, which is difficult probably.  
+**[3264.84s] English:** So there's also the camaraderie and the social aspect of it, which can be difficult, probably.  
 **Translation:** 
 
 **[3268.90s] English:** I didn't have any.  
@@ -2092,19 +2093,19 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3270.06s] English:** Yeah, I didn't have any.  
 **Translation:** 
 
-**[3272.12s] English:** But it also makes you a more effective soldier to be socially, for that cohesion to be there, right?  
-**Translation:** Vocabulary: cohesion: 凝聚力
+**[3272.12s] English:** But it also makes you a more effective soldier to be socially skilled, for that cohesion to be there, right?  
+**Translation:** Vocabulary: cohesion: 凝聚力; skilled: 熟练的
 
 **[3278.74s] English:** Yeah.  
 **Translation:** 
 
-**[3279.14s] English:** But also just understanding the basic terminology.  
+**[3279.14s] English:** But also, just understanding the basic terminology.  
 **Translation:** Vocabulary: terminology: 术语
 
 **[3283.56s] English:** Correct.  
 **Translation:** 
 
-**[3284.48s] English:** The right way to say something on the radio, the right way to run a gun, the right way to, because you got to move with those guns.  
+**[3284.48s] English:** The right way to say something on the radio, the right way to run a gun; the right way to, because you've got to move with those guns.  
 **Translation:** 
 
 **[3290.16s] English:** You got seven people.  
@@ -2116,22 +2117,22 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3294.58s] English:** I'll send you a video.  
 **Translation:** 
 
-**[3295.74s] English:** When we did some live fire and workup training in Texas.  
+**[3295.74s] English:** When we did some live-fire and workup training in Texas.  
 **Translation:** Vocabulary: texas: 德克萨斯; workup: 综合训练
 
-**[3298.68s] English:** This is before we left, we did a competition between the other gun to see who could fire 10 rounds fast, like faster.  
+**[3298.68s] English:** This is what we did before we left: we had a competition between the guns to see who could fire 10 rounds the fastest, like as quick as possible.  
 **Translation:** 
 
 **[3303.78s] English:** Wow.  
 **Translation:** 
 
-**[3305.58s] English:** It is truly beautiful to watch an artillery unit fire a gun because it's like a symphony.  
+**[3305.58s] English:** It is truly beautiful to watch an artillery unit fire a gun, because it's like a symphony.  
 **Translation:** 
 
-**[3312.60s] English:** Everyone has their parts and everyone knows and everyone's yelling, but they know why they're yelling and everyone, this guy's got to do this in order for this guy to load the round.  
-**Translation:** 
+**[3312.60s] English:** Everyone has their part, and everyone knows it. They're all yelling, but they know why. Everyone: This guy's got to do this in order for him to load the round.  
+**Translation:** Vocabulary: yelling: 大声喊叫
 
-**[3321.28s] English:** It's just, it's beautiful.  
+**[3321.28s] English:** It's just beautiful.  
 **Translation:** 
 
 **[3322.78s] English:** It really is.  
@@ -2143,17 +2144,17 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3325.18s] English:** I miss it deeply.  
 **Translation:** 
 
-**[3326.60s] English:** Is there, by the way, for a gun.  
+**[3326.60s] English:** Is there, by the way, a gun?  
 **Translation:** 
 
-**[3328.32s] English:** Is there like.  
+**[3328.32s] English:** Is there, like.  
 **Translation:** 
 
-**[3328.72s] English:** One person responsible for the, for the aim and the, or like the specification of the location and somebody else that pulls the presses.  
+**[3328.72s] English:** One person is responsible for the aim and the specification of the location, while somebody else pulls the presses.  
 **Translation:** 
 
 **[3337.74s] English:** The lanyard.  
-**Translation:** Vocabulary: lanyard: 安全带; specification: 规范
+**Translation:** Vocabulary: lanyard: 安全带; presses: 印刷机; specification: 规范说明
 
 **[3338.64s] English:** Is that the lanyard?  
 **Translation:** 
@@ -2173,11 +2174,11 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3343.42s] English:** Okay.  
 **Translation:** 
 
-**[3343.68s] English:** Um, yours, there's your Sergeant in charge and then they have their two IC.  
+**[3343.68s] English:** Um, yours, there's your sergeant in charge, and then they have their two ICs.  
 **Translation:** 
 
-**[3348.90s] English:** And so the comms come in to the Sergeant and the Sergeant is the, or your master bombardier, Bombardier chef.  
-**Translation:** Vocabulary: bombardier: 炮兵班班长
+**[3348.90s] English:** And so the comms come in to the sergeant, and the sergeant is, or your master bombardier and bombardier chef.  
+**Translation:** Vocabulary: bombardier: 炮手; sergeant: 班长
 
 **[3356.96s] English:** Um, yeah.  
 **Translation:** 
@@ -2191,115 +2192,115 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3359.00s] English:** But.  
 **Translation:** 
 
-**[3360.00s] English:** Bombardier chef what? Bombardier chef. Bombardier chef. Oh, that's the French. Master bombardier.  
+**[3360.00s] English:** Bombardier chef? What? Bombardier chef. Bombardier chef. Oh, that's the French. Master bombardier.  
 **Translation:** 
 
-**[3365.86s] English:** So it goes like private in the north, like in infantry or in a regular unit, it's like private  
+**[3365.86s] English:** So, it goes like this: Private in the north, like in an infantry or a regular unit, is like private.  
 **Translation:** Vocabulary: infantry: 步兵
 
-**[3371.60s] English:** corporal, master corporal sergeant. In artillery, it goes gunner, bombardier, master bombardier,  
+**[3371.60s] English:** Corporal, Master Corporal, Sergeant. In artillery, it goes Gunner, Bombardier, Master Bombardier.  
 **Translation:** 
 
-**[3380.06s] English:** sergeant, and off like that. So you have two people, but the serge is like, you don't move  
+**[3380.06s] English:** Sergeant, and off like that. So you have two people, but the sergeant is like, "You don't move.  
 **Translation:** Vocabulary: artillery: 火炮; corporal: 下士
 
-**[3386.36s] English:** till he says move. You don't fire till he says fire. Like he's your guy. He'll give you the  
+**[3386.36s] English:** Till he says, "Move." You don't fire until he says, "Fire." Like he's your guy; he'll give you the  
 **Translation:** 
 
-**[3390.56s] English:** coordinates. He'll feed them to the guy that's doing the GPS, that portion. I really never did  
+**[3390.56s] English:** Coordinates. He'll feed them to the guy that's doing the GPS for that portion. I really never did.  
 **Translation:** Vocabulary: coordinates: 坐标
 
-**[3395.84s] English:** it much. I wasn't tall enough to see it. Like legitimately the way, how high it is up on the  
+**[3395.84s] English:** It was much. I wasn't tall enough to see it. Like, legitimately, the way how high it is up on the  
 **Translation:** 
 
-**[3400.28s] English:** gun. Like it was, I couldn't see clearly enough. It was not good. So. Obviously you have a big  
+**[3400.28s] English:** Gun. Like it was, I couldn't see clearly enough. It was not good. So obviously, you have a big  
 **Translation:** Vocabulary: legitimately: 真正地
 
-**[3406.12s] English:** personality, you're a strong person. You don't say. And you have a big hat currently. I always  
+**[3406.12s] English:** Personality, you're a strong person. You don't say. And you have a big hat currently. I always  
 **Translation:** 
 
-**[3412.38s] English:** wear a hat, Lex. You always, okay. It seems like your height and your size.  
+**[3412.38s] English:** Wear a hat, Lex. You always forget, okay. It seems like your height and your size.  
 **Translation:** 
 
-**[3416.36s] English:** Was a factor. Oh, for sure. How were you able to step up in all those moments? And  
+**[3416.36s] English:** Was a factor. Oh, for sure. How were you able to step up in all those moments? And,...  
 **Translation:** 
 
-**[3421.00s] English:** how difficult was it? I don't know that I realized it was difficult while I was doing it because  
+**[3421.00s] English:** How difficult was it? I didn't realize it was difficult while I was doing it because  
 **Translation:** 
 
-**[3427.12s] English:** that's just the way it's been. I've always been the short person. That's life. Nothing I can do  
+**[3427.12s] English:** That's just the way it's been. I've always been the short person. That's life. Nothing I can do.  
 **Translation:** 
 
-**[3431.88s] English:** to fix that. So there was no point. When am I going to whine about it? I'm going to break my  
+**[3431.88s] English:** To fix that, so there was no point. When am I going to whine about it? I'm going to break my  
 **Translation:** Vocabulary: whine: 抱怨
 
-**[3434.90s] English:** femurs and insert things to make me grow a little bit. Maybe, maybe since you're in robotics,  
+**[3434.90s] English:** Femurs and insert things to make me grow a little bit. Maybe, maybe since you're in robotics,  
 **Translation:** 
 
-**[3440.16s] English:** you can figure that out. Okay. That's your task now. Make me be five foot three. That'd be  
-**Translation:** Vocabulary: femurs: 大腿骨; insert: 植入
+**[3440.16s] English:** You can figure that out. Okay. That's your task now: make me be five feet three. That'd be  
+**Translation:** Vocabulary: femurs: 大腿骨; insert: 植入; robotics: 机器人技术
 
-**[3446.34s] English:** great. Um, for artillery, really what it came down to was the unit. When I got there, there was  
+**[3446.34s] English:** Great. Um, for artillery, really what it came down to was the unit. When I got there, there were  
 **Translation:** 
 
-**[3453.54s] English:** only a couple of people who spoke any sort of English and my Sergeant was not one of them, but  
+**[3453.54s] English:** Only a couple of people spoke any sort of English, and my sergeant was not one of them, but  
+**Translation:** Vocabulary: sergeant: 班长
+
+**[3459.00s] English:** Once he kind of started to get to know me a little bit, the best that he could, he started to put  
 **Translation:** 
 
-**[3459.00s] English:** once he kind of started to get to know me a little bit, the best that he could, he started to put  
+**[3464.52s] English:** Effort into making sure I could lift the rounds, train, and make sure my capacity to do my job was adequate.  
 **Translation:** 
 
-**[3464.52s] English:** effort into making sure I could lift the rounds, train, make sure my, my capacity to do my job was  
+**[3470.92s] English:** There. And so he took me under his wing in that aspect. So he would take me to the gym.  
 **Translation:** 
 
-**[3470.92s] English:** there. And so he took me under his wing in that, in that aspect. So he would take me to the gym  
+**[3475.84s] English:** With him.  
 **Translation:** 
 
-**[3475.84s] English:** with him.  
+**[3476.34s] English:** And he would show me exercises that.  
 **Translation:** 
 
-**[3476.34s] English:** And he would show me exercises that  
+**[3480.00s] English:** Would specifically help me load the round. So pick it up from the ground, like a  
 **Translation:** 
 
-**[3480.00s] English:** would specifically help me load the round. So pick the round up from the ground, pick it up like a  
+**[3486.48s] English:** Trick: Put your knee under it, use your legs instead of just picking it up, use your back, pull.  
 **Translation:** 
 
-**[3486.48s] English:** trick to put your knee under it, use your legs instead of just pick it up, use your back, pull  
+**[3491.30s] English:** Your back out. He would work on that. And then, depending on the position, I was running the gun.  
 **Translation:** 
 
-**[3491.30s] English:** your back out. He would work on that. And then depending on the position I was running the gun  
+**[3496.04s] English:** In, if I were running the side that had the charge bags, I'll explain that in a second. But if I were  
 **Translation:** 
 
-**[3496.04s] English:** in, if I was running the side that had the charge bags, I'll explain that in a second. But if I was  
+**[3502.48s] English:** Running the side that had the charge bags, I could step up onto the gun. And if I leaned inward,...  
+**Translation:** Vocabulary: inward: 向内; leaned: 倾斜
+
+**[3510.82s] English:** Enough with my right hand and the charge. I kind of kicked off and could kind of jump and.  
 **Translation:** 
 
-**[3502.48s] English:** running the side that had the charge bags, I could step up onto the gun. And if I leaned inward  
-**Translation:** 
-
-**[3510.82s] English:** enough with my right hand with the charge and I kind of kicked off, I could kind of jump and  
-**Translation:** 
-
-**[3517.44s] English:** shove it up the tube. Got it. Almost enough. Yeah. If I was running the lanyard, which is the thing  
+**[3517.44s] English:** Shove it up the tube. Got it. Almost enough. Yeah. If I were running the lanyard, which is the thing,...  
 **Translation:** Vocabulary: lanyard: 吊绳; shove: 推入
 
-**[3524.86s] English:** that makes it go boom, it's really easy. It's a long rope. You hook it on and you put it, your  
+**[3524.86s] English:** That makes it go "boom" — it's really easy. It's a long rope. You hook it on, and you put it, your  
 **Translation:** 
 
-**[3531.60s] English:** right hand on your hip.  
+**[3531.60s] English:** Right hand on your hip.  
 **Translation:** 
 
-**[3532.48s] English:** And on your left and you hold it there and you just stare at your sergeant like this and you  
+**[3532.48s] English:** And, on your left, and you hold it there. You just stare at your sergeant like this, and you...  
 **Translation:** 
 
-**[3536.56s] English:** just wait for him to yell fire. And he points at you when he does it. And when you do it, you turn  
+**[3536.56s] English:** Just wait for him to yell "fire." And he'll point at you when he does it. And when you do it, you turn.  
+**Translation:** Vocabulary: sergeant: 军士
+
+**[3540.96s] English:** Your whole body with it. And when you do that, it alleviates the misfire essentially, because if  
 **Translation:** 
 
-**[3540.96s] English:** your whole body with it. And when you do that, it alleviates the, a misfire essentially, because if  
-**Translation:** 
+**[3548.40s] English:** You just pull it; sometimes that's not enough. You've got to really give it your whole body into it.  
+**Translation:** Vocabulary: alleviates: 减轻; misfire: 失火
 
-**[3548.40s] English:** you just pull it, sometimes that's not enough. You got to really give it your whole body into it.  
-**Translation:** Vocabulary: alleviates: 减轻; misfire: 失灵
-
-**[3552.36s] English:** And so he would train me on how to do things differently so that I could do them effectively.  
+**[3552.36s] English:** And so he would train me on how to do things differently, so that I could do them effectively.  
 **Translation:** 
 
 **[3558.42s] English:** And I wasn't a shit pump.  
@@ -2308,106 +2309,106 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3560.80s] English:** A what?  
 **Translation:** 
 
-**[3561.94s] English:** So shit pump.  
+**[3561.94s] English:** So, shit pump.  
 **Translation:** 
 
-**[3562.48s] English:** Shit pump is a term that we use in Canada to call somebody useless. A shit pump is a useless soldier  
+**[3562.48s] English:** Shit泵 is a term that we use in Canada to call somebody useless. A shit泵 is a useless soldier.  
 **Translation:** 
 
-**[3568.00s] English:** who is just, you're there and that's the shit pump. And so we all just deal with it, but somehow  
+**[3568.00s] English:** Who is just there, and that's the shit. Pump. And so we all just deal with it, but somehow.  
 **Translation:** 
 
-**[3574.86s] English:** they're still there.  
+**[3574.86s] English:** They're still there.  
 **Translation:** 
 
 **[3575.96s] English:** Yeah. What were we talking about? The lanyard? Okay.  
 **Translation:** 
 
-**[3578.42s] English:** Yeah. We were talking about the artillery guns. So those things though, what you would find  
+**[3578.42s] English:** Yeah. We were talking about the artillery guns. So, those things, though, what you would find,...  
 **Translation:** 
 
-**[3584.12s] English:** fascinating is just how they break down when you have to take one of those apart. I think your mind  
+**[3584.12s] English:** Fascinating is just how they break down when you have to take one of those apart. I think your mind.  
 **Translation:** Vocabulary: artillery: 大炮
 
-**[3590.78s] English:** would really find it fascinating.  
+**[3590.78s] English:** Would really find it fascinating.  
 **Translation:** 
 
-**[3593.00s] English:** How a breach comes apart all the way down to like ball bearing size. And the only, and there's a way  
+**[3593.00s] English:** How a breach comes apart all the way down to, like, ball-bearing size. And the only thing is, there's a way...  
 **Translation:** Vocabulary: breach: 漏洞
 
-**[3598.68s] English:** to just make that gun complete.  
+**[3598.68s] English:** To just make that gun complete.  
 **Translation:** 
 
-**[3600.00s] English:** ineffective and all you have to do when you're on the charge side there's a magazine that's a long  
-**Translation:** Vocabulary: ineffective: 无效
+**[3600.00s] English:** Ineffective, and all you have to do when you're on the charge side is there's a magazine that's long.  
+**Translation:** Vocabulary: ineffective: 无效的
 
-**[3606.18s] English:** linear magazine and it holds like 15 little rounds if you just take that thing out that thing's not  
+**[3606.18s] English:** Linear magazine, and it holds about 15 little rounds. If you just take that thing out, that thing's not  
 **Translation:** 
 
-**[3611.74s] English:** firing how many people does it take to move that like how easy it is to move that thing to move a  
+**[3611.74s] English:** Firing: How many people does it take to move that? Like, how easy is it to move that thing? To move a  
+**Translation:** Vocabulary: linear: 线性的
+
+**[3616.66s] English:** Triple Seven, Triple Seven—I like it; that's what they're called. M-Triple Seven is a lot of the  
 **Translation:** 
 
-**[3616.66s] English:** triple seven triple seven i like it that's what they're called m triple seven is a lot of the  
+**[3622.54s] English:** Terminology: Crossover—the same in English and French, no? Okay, I mean M-TRIPL-7, does because.  
+**Translation:** Vocabulary: crossover: 跨平台; terminology: 术语; triple: 三重
+
+**[3627.98s] English:** It's an obvious howitzer, I'm sure it has a separate word, but like if you're running it.  
 **Translation:** 
 
-**[3622.54s] English:** terminology crossover the same in english and french no okay i mean m triple seven does because  
-**Translation:** Vocabulary: crossover: 跨领域; terminology: 术语; triple: 三重
-
-**[3627.98s] English:** it's an obvious howitzer i'm sure it has a separate word but like if you're running it  
-**Translation:** 
-
-**[3631.76s] English:** you're running it in french so like when i'd be running the when i'm doing the charge bags and  
+**[3631.76s] English:** You're running it in French, so like when I'm doing the charge bags and  
 **Translation:** Vocabulary: howitzer: 榴弹炮
 
-**[3637.06s] English:** i'm doing i'm doing you know i'm loading everything and i'm getting that ready and  
+**[3637.06s] English:** I'm doing, I'm loading everything and getting it ready and...  
 **Translation:** 
 
-**[3642.28s] English:** that's my position that day i'm also controlling the breach so like how it opens how it closes when  
+**[3642.28s] English:** That's my position that day. I'm also controlling how it opens and how it closes.  
 **Translation:** 
 
-**[3648.98s] English:** it locks and so but you have to yell that as you do it so you're yelling like my lib culasse  
+**[3648.98s] English:** It locks, and so but you have to yell that as you do it, so you're yelling, "My Lib Culasse!  
 **Translation:** 
 
-**[3654.48s] English:** like you have to yell all these things you have to learn  
+**[3654.48s] English:** Like, you have to yell all these things, you have to learn.  
+**Translation:** Vocabulary: yelling: 喊叫
+
+**[3657.96s] English:** Them, though, and so for a long time, it's been a little frustrating—I won't lie.  
 **Translation:** 
 
-**[3657.96s] English:** them though and so for a long time it's it's it's it was a little frustrating i won't lie  
-**Translation:** 
-
-**[3664.74s] English:** it's really exciting i took a lot of french but i forgot all of it but i think it's a beautiful  
+**[3664.74s] English:** It's really exciting. I took a lot of French, but I forgot all of it, but I think it's a beautiful...  
 **Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[3669.18s] English:** romantic language it's a good language if it's from quebec it's a yeah that's true it's a good  
+**[3669.18s] English:** Romantic language; it's a good language. If it's from Quebec, it's a yeah—that's true—it's a good...  
 **Translation:** 
 
-**[3674.78s] English:** language to fall in love with not as good as russian but i mean english is all right i mean  
+**[3674.78s] English:** Language to fall in love with, not as good as Russian, but I mean English is all right. I mean.  
+**Translation:** Vocabulary: quebec: 加拿大魁北克省
+
+**[3681.48s] English:** Russian, we really is that like a love language? It is to me. I mean, because you're Russian, but  
 **Translation:** 
 
-**[3681.48s] English:** russian we really is that like a love language it is to me i mean because you're russian but  
+**[3686.30s] English:** Like, if somebody walked up to me, it was like  
 **Translation:** 
 
-**[3686.30s] English:** like if somebody walked up to me it was like  
+**[3687.96s] English:** Hey, Kelsey. I like you. I'd be like, "Oh God, he's gonna put me in a camp!" That's because you don't...  
 **Translation:** 
 
-**[3687.96s] English:** hey kelsey i like you i'd be like oh god he's gonna put me in a camp that's because you don't  
+**[3693.78s] English:** Understand, love Kelsey? I don't. We'll talk about that okay. How many people does it take to move?  
 **Translation:** 
 
-**[3693.78s] English:** understand love kelsey i don't we'll talk about that okay how many people does it take to move  
-**Translation:** Vocabulary: kelsey: 凯尔西
-
-**[3699.02s] English:** them triple seven it depends if you're moving it by ground you're moving it on a truck and when  
+**[3699.02s] English:** They, triple seven. It depends if you're moving it by ground (on a truck), and when.  
 **Translation:** 
 
-**[3703.16s] English:** you're moving it on a truck you're hooking the back of it onto you're hooking the front of the  
+**[3703.16s] English:** You're moving it on a truck, you're hooking the back of it onto, and you're hooking the front of it.  
+**Translation:** Vocabulary: hooking: 挂钩; triple: 三重
+
+**[3707.32s] English:** Barrel onto one of those big transport-looking trucks that has those cargo tents that's got  
 **Translation:** 
 
-**[3707.32s] English:** barrel onto one of those big transport looking trucks that has those cargo tents that's got  
+**[3712.78s] English:** Soldiers: In it, you don't want to ever move an M777 that way if you don't have to; the barrel.  
 **Translation:** 
 
-**[3712.78s] English:** soldiers in it you don't want to ever move an m777 by that way if you don't have to the barrel  
-**Translation:** 
-
-**[3717.96s] English:** dollars wow  
+**[3717.96s] English:** Dollars, wow!  
 **Translation:** 
 
 **[3720.00s] English:** Okay, so this is like a serious piece of equipment.  
@@ -2419,22 +2420,22 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3723.12s] English:** Okay.  
 **Translation:** 
 
-**[3723.62s] English:** When we got to Kandahar, we were there for a couple days.  
+**[3723.62s] English:** When we got to Kandahar, we were there for a couple of days.  
 **Translation:** 
 
-**[3727.58s] English:** We got flown out to the FOB we were going to be at for an observation base.  
+**[3727.58s] English:** We got flown out to the FOB where we were going to be at for an observation base.  
 **Translation:** Vocabulary: kandahar: 坎大哈
 
-**[3732.16s] English:** Kandahar is the safe space or was the major base in Afghanistan that we were at.  
+**[3732.16s] English:** Kandahar was the major base in Afghanistan that we were at—or a safe space, as it was known.  
 **Translation:** 
 
-**[3736.56s] English:** There's things like Tim Hortons there.  
-**Translation:** Vocabulary: afghanistan: 阿富汗
+**[3736.56s] English:** There's places like Tim Hortons there.  
+**Translation:** Vocabulary: afghanistan: 阿富汗; hortons: 蒂姆霍顿斯
 
 **[3738.94s] English:** There's Canada House.  
 **Translation:** 
 
-**[3740.84s] English:** There's a British side, an American side, a Canadian side.  
+**[3740.84s] English:** There's a British side, an American side, and a Canadian side.  
 **Translation:** 
 
 **[3743.24s] English:** And that's where you see all the different countries in the world kind of come together.  
@@ -2467,10 +2468,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3757.84s] English:** There's a boardwalk.  
 **Translation:** Vocabulary: boardwalk: 木板人行道
 
-**[3758.68s] English:** There's hockey there, like floor hockey because Canada had to have that.  
+**[3758.68s] English:** There's hockey there, like floor hockey, because Canada had to have that.  
 **Translation:** 
 
-**[3761.80s] English:** There's a Tim Hortons, a Subway, a Pizza Hut, a PX.  
+**[3761.80s] English:** There's a Tim Hortons, a Subway, a Pizza Hut, and a PX.  
 **Translation:** 
 
 **[3766.64s] English:** I think there's a restaurant there somewhere, but I didn't get to go.  
@@ -2479,7 +2480,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3771.10s] English:** Stuff like that.  
 **Translation:** 
 
-**[3771.88s] English:** There's gyms.  
+**[3771.88s] English:** There are gyms.  
 **Translation:** 
 
 **[3772.42s] English:** You can run around it.  
@@ -2488,7 +2489,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3773.74s] English:** You feel fairly safe.  
 **Translation:** 
 
-**[3774.94s] English:** You always have a weapon on you, but you can live your life.  
+**[3774.94s] English:** You always have a weapon on you, but you can still live your life.  
 **Translation:** 
 
 **[3778.24s] English:** When you get out to the FOB, the guns.  
@@ -2497,13 +2498,13 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3780.04s] English:** We're already there.  
 **Translation:** 
 
-**[3781.44s] English:** So those M777s get lifted by a Chinook.  
+**[3781.44s] English:** So, those M777s get lifted by a Chinook.  
 **Translation:** 
 
 **[3784.26s] English:** Normally, if they're going by air, they go by Chinook because they're heavy as hell.  
 **Translation:** Vocabulary: chinook: 奇努克直升机
 
-**[3787.76s] English:** And Chinooks can hook them under the bottom and they fly them and then they'll drop them down.  
+**[3787.76s] English:** And Chinooks can hook them under the bottom, and they fly them and then they'll drop them down.  
 **Translation:** 
 
 **[3793.06s] English:** They have wheels on them, but you don't need them if you're going to leave it in place.  
@@ -2515,7 +2516,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3798.98s] English:** And you're getting information about IEDs.  
 **Translation:** 
 
-**[3801.34s] English:** You're getting a lay of the land as to what's been going on in the country for the past six months.  
+**[3801.34s] English:** You're getting a feel for the land as to what's been going on in the country for the past six months.  
 **Translation:** 
 
 **[3806.32s] English:** And you know nothing.  
@@ -2527,7 +2528,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3809.28s] English:** You're getting deployed.  
 **Translation:** 
 
-**[3810.00s] English:** So what was your deployment like?  
+**[3810.00s] English:** So, what was your deployment like?  
 **Translation:** 
 
 **[3812.00s] English:** Can you tell the story of your deployment to Afghanistan?  
@@ -2536,7 +2537,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[3816.66s] English:** Like the whole deployment?  
 **Translation:** 
 
-**[3818.78s] English:** Getting like actual deploying, not the deployment itself.  
+**[3818.78s] English:** Getting actually deploying, not the deployment itself.  
 **Translation:** Vocabulary: deploying: 部署
 
 **[3821.94s] English:** What's the difference between the two?  
@@ -2549,801 +2550,801 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[3828.98s] English:** Got it.  
-**Translation:** Vocabulary: buildup: 情绪积累
+**Translation:** Vocabulary: buildup: 累积
 
-**[3829.70s] English:** And some of the memorable things that kind of you remember from that experience, both on the excitement.  
+**[3829.70s] English:** And some of the memorable things that you remember from that experience, both in terms of the excitement.  
 **Translation:** 
 
-**[3837.72s] English:** I get to see battle.  
+**[3837.72s] English:** I get to see a battle.  
 **Translation:** 
 
 **[3838.98s] English:** I get to be part of that.  
 **Translation:** 
 
-**[3840.00s] English:** this and the fear and also like being surprised like with the tim hortons and all those kinds of  
+**[3840.00s] English:** This and the fear, and also like being surprised, like with Tim Hortons and all those kinds of.  
+**Translation:** Vocabulary: hortons: 蒂姆霍顿斯
+
+**[3845.60s] English:** So, like the lead-up before everything hit the fan, okay—cool. So, you're such a fascinating person, but  
 **Translation:** 
 
-**[3845.60s] English:** so like the lead up before everything hit the fan okay cool so you're such a fascinating person but  
+**[3853.08s] English:** Yes, something like that. I've been called many things, yeah. That starts with the letter F, yeah.  
 **Translation:** 
 
-**[3853.08s] English:** yes something like that i've been called many things yeah that start with the letter f yeah  
+**[3859.18s] English:** No, I don't know. I don't know many words with "f." Okay, so with the buildup, so the uh, deployment.  
 **Translation:** 
 
-**[3859.18s] English:** no i don't know i don't know many words with f okay so with the build-up so the uh deployment  
+**[3865.04s] English:** So, for the build-up for the deployment, I was in Quebec, and my unit was deploying from Quebec, and  
+**Translation:** Vocabulary: quebec: 魁北克
+
+**[3870.78s] English:** At that time, you kind of get your marching orders. You know, you're deploying. I knew I was deploying.  
 **Translation:** 
 
-**[3865.04s] English:** so for the build-up for the deployment i was in quebec and my unit was deploying from quebec and  
+**[3875.66s] English:** Before I even graduated, that's how much they needed people. So once I did all that training,...  
 **Translation:** 
 
-**[3870.78s] English:** at that time you kind of get your marching orders you know you're deploying i knew i was deploying  
+**[3881.04s] English:** On graduation parade day, a couple of men from Quebec in uniforms came over and said, "You, you, and you.  
 **Translation:** 
 
-**[3875.66s] English:** before i even graduated that's how much they needed people so once i did all that training  
+**[3887.12s] English:** Are all being posted back yet? And you're going to deploy with us in April, so that's how it works.  
+**Translation:** Vocabulary: parade: 毕业检阅
+
+**[3891.42s] English:** I found out I was deploying. Why was there such a need for troops in Afghanistan?  
 **Translation:** 
 
-**[3881.04s] English:** on graduation parade day a couple men from quebec in uniforms came over and said you you you and you  
-**Translation:** 
-
-**[3887.12s] English:** are all being posted to back yet say and you're going to deploy with us in april so that's how  
-**Translation:** 
-
-**[3891.42s] English:** i found out i was deploying why was there such a need for troops in afghanistan is  
-**Translation:** 
-
-**[3895.02s] English:** that that was a well-known thing that that there's a scaling up of troops and 2007 on canada really  
+**[3895.02s] English:** That was a well-known thing that there's a scaling up of troops, and in 2007, Canada really.  
 **Translation:** Vocabulary: afghanistan: 阿富汗
 
-**[3900.74s] English:** started taking a combat role before it was very much more a un type deal we're doing what we  
+**[3900.74s] English:** Started taking on a combat role before it was very much of a one-man show; we were just doing our best.  
 **Translation:** 
 
-**[3905.64s] English:** normally do in most wars where we just we wear blue and we don't shoot anyone and so we're there  
+**[3905.64s] English:** Normally, we just wear blue and don't shoot anyone, and so we're there.  
+**Translation:** Vocabulary: combat: 战斗
+
+**[3911.94s] English:** To help, and so they were really scaling up. There wasn't a lot of people in those areas, though.  
 **Translation:** 
 
-**[3911.94s] English:** to help and so they were really they were scaling up and there wasn't a lot of people in those uh  
+**[3917.74s] English:** Trades initially, I think, when the war kind of started, Canada really started to scale.  
 **Translation:** 
 
-**[3917.74s] English:** trades initially i think when the war kind of started so canada really started to scale  
+**[3921.70s] English:** And so, when I got to Quebec,...  
 **Translation:** 
 
-**[3921.70s] English:** and so when i got to quebec  
+**[3925.02s] English:** We've kind of found that, oh, yeah, we're deploying, and it was a weird situation because I've never actually...  
 **Translation:** 
 
-**[3925.02s] English:** we've kind of found oh yeah we're deploying and it was a weird situation because i've never actually  
+**[3929.18s] English:** Been at a non-deployable unit, so I don't know what they do day-to-day that's different from.  
 **Translation:** 
 
-**[3929.18s] English:** been at a unit on a non-deployable unit so i don't know what they do day to day that's different from  
+**[3934.18s] English:** What I did, I just knew what to do, so we would do things like in the morning, we would get up and we  
 **Translation:** 
 
-**[3934.18s] English:** what i did i just know what i did so we would do things like in the morning we would get up and we  
+**[3939.66s] English:** Would meet for PT at 5 a.m., and that would include going for a 10-k run or playing ball hockey for a  
 **Translation:** 
 
-**[3939.66s] English:** would meet for pt at 5 a.m and that would include going for a 10k run or playing ball hockey for a  
+**[3947.66s] English:** Few hours in the gym or lifting weights together, or you know, just going on a ruck march for a long time.  
 **Translation:** 
 
-**[3947.66s] English:** few hours in the gym or lifting weights together or you know just going on a ruck march a long  
+**[3952.52s] English:** Ruck march, just stuff like that—you would have a chance to do that—and so I was like, "Oh, yeah, we're  
 **Translation:** 
 
-**[3952.52s] English:** ruck march just stuff like that you would have a chance to do that and so i was like oh yeah we're  
+**[3955.02s] English:** You would meet, and then you would just sit around the campfire.  
+**Translation:** Vocabulary: campfire: 篝火
+
+**[3960.00s] English:** Just sit around the regiment, and you would. If there was busy work, you'd mop the floors.  
 **Translation:** 
 
-**[3955.02s] English:** you would meet and then you would just sit around the regiment you would just  
-**Translation:** Vocabulary: regiment: 编制单位
+**[3965.52s] English:** Would clean weapons, there wasn't a whole lot until there was a whole lot to do. We did a lot for that.  
+**Translation:** Vocabulary: regiment: 部队
 
-**[3960.00s] English:** just sit around the regiment and you would if there was busy work you'd mop the floors you  
+**[3972.00s] English:** While and then we went away on work-up training to Texas for a week, and we came down here and we did  
 **Translation:** 
 
-**[3965.52s] English:** would clean weapons there wasn't a whole lot until there was a whole lot to do we did a lot for a  
+**[3979.18s] English:** Live fire with our other troop that was going to be with us, so Alpha had two guns.  
+**Translation:** Vocabulary: alpha: 阿尔法; texas: 德克萨斯州
+
+**[3985.92s] English:** And two guns means there were two groups of people, and so we all would go down to Texas and we did live fire.  
 **Translation:** 
 
-**[3972.00s] English:** while and then we went away on workup training to texas for a week we came down here and we did  
+**[3992.64s] English:** Here for a week, and I ended up getting gastro, which was awesome. So, thanks for that. Um, apparently,...  
 **Translation:** 
 
-**[3979.18s] English:** live fire with um with our other troop that was going to be with us so alpha alpha had two guns  
-**Translation:** Vocabulary: alpha: 阿尔法; workup: 体能训练
-
-**[3985.92s] English:** and two guns has two groups of people and so we all would go down to texas and we did live fire  
+**[4000.14s] English:** There was a problem with water and sanitation, so everyone was affected.  
 **Translation:** 
 
-**[3992.64s] English:** here for a week and i ended up getting gastro which was awesome so thanks for that um apparently  
-**Translation:** Vocabulary: texas: 德克萨斯州
+**[4004.20s] English:** On the base, okay, so it just makes your life way harder. I didn't get it towards the end till.  
+**Translation:** Vocabulary: sanitation: 卫生设施
 
-**[4000.14s] English:** there was uh they were having water problems and sanitary problems so everyone was getting it  
+**[4010.18s] English:** Towards the end, so that was fortunate. So, we would do live fire; we would go out to the middle of...  
 **Translation:** 
 
-**[4004.20s] English:** on the base okay so it just makes your life way harder i didn't get it towards the end till  
-**Translation:** Vocabulary: sanitary: 卫生的
-
-**[4010.18s] English:** towards the end so that was fortunate so we would fire live fire we would go out to the middle of  
+**[4015.92s] English:** Where the guns would be, we would get off a truck of rounds and we would do  
 **Translation:** 
 
-**[4015.92s] English:** where the guns would be there and we would get uh offload a truck of uh rounds and we would do  
-**Translation:** Vocabulary: offload: 卸下
-
-**[4021.46s] English:** live fire and we would practice just constant practice what's that saying perfect practice  
+**[4021.46s] English:** Live fire, and we would practice—just constant practice. What's that saying? "Perfect practice makes perfect.  
 **Translation:** 
 
-**[4026.34s] English:** makes perfect yeah so this is a sensory uh like a shooting range for artillery for artillery for  
-**Translation:** Vocabulary: artillery: 火炮
+**[4026.34s] English:** Makes perfect sense, yeah. So, this is a sensory shooting range for artillery.  
+**Translation:** Vocabulary: artillery: 大炮; sensory: 感觉
 
-**[4033.30s] English:** long range so what's what does practice look like so you roll up in your trucks in your your you  
+**[4033.30s] English:** Long-range practice looks like rolling up in your trucks, I suppose.  
 **Translation:** 
 
-**[4038.68s] English:** know you've got uh each group of people you've got two trucks and then you've got like a medic  
+**[4038.68s] English:** You know, for each group of people, you've got two trucks, and then you've got a medic like that.  
 **Translation:** 
 
-**[4043.60s] English:** vehicle and then you've got like an officer vehicle and a combat vehicle and then you've got  
+**[4043.60s] English:** Vehicle, and then you've got an officer's vehicle and a combat vehicle, and then you've got  
 **Translation:** 
 
-**[4045.90s] English:** a comms vehicle and you you go to your prospective guns and then you offload your ammo and then you  
-**Translation:** Vocabulary: combat: 战斗; prospective: 预期的
+**[4045.90s] English:** A comms vehicle, and you go to your prospective guns, and then you offload your ammo, and then you  
+**Translation:** Vocabulary: combat: 战斗车辆; offload: 卸载; prospective: 预期的
 
-**[4051.72s] English:** basically wait for them to send you like a uh a fire mission wow get that together they would  
+**[4051.72s] English:** Basically, wait for them to send you a fire mission. Wow, get that together; they would.  
 **Translation:** 
 
-**[4058.46s] English:** call they would say a mission sit so it'd be a fire mission so we'd wait for that and once we  
+**[4058.46s] English:** They would say "a mission, " sit, so it'd be a fire mission. So we'd wait for that, and once we...  
 **Translation:** 
 
-**[4062.84s] English:** got that then you all run like a bunch of scattered rats to the gun like it's like the greatest thing  
+**[4062.84s] English:** Got that? Then you all run like a bunch of scattered rats to the gun, like it's the greatest thing.  
 **Translation:** 
 
-**[4067.72s] English:** you've ever seen and then um you just wait you wait for the call for the sergeant to say and  
+**[4067.72s] English:** You've ever seen, and then you just wait for the call from the sergeant to say...  
+**Translation:** Vocabulary: sergeant: 班长
+
+**[4072.58s] English:** Then you'll hear it because it's not headphones; you can hear it honestly, it's not headphones.  
 **Translation:** 
 
-**[4072.58s] English:** then you'll hear it because it's not headphones you can hear it honestly it's not headphones you  
+**[4075.90s] English:** Can you hear it? It's not a speaker, and it'd be like, "I'm not gonna," in French, don't ask.  
 **Translation:** 
 
-**[4075.90s] English:** can hear it it's not a speaker and it'd be like i'm not gonna do in french don't ask it'd be  
+**[4080.00s] English:** Like, um, uh, so and so, 10 rounds. Um, fire when ready, and then you get your rounds ready.  
 **Translation:** 
 
-**[4080.00s] English:** like um uh so and so 10 rounds um fire when ready and then you get your rounds ready and  
+**[4089.40s] English:** Everyone would have them ready, would be in their respective positions, and then you.  
 **Translation:** 
 
-**[4089.40s] English:** everyone would have them ready would be in their perspective um respective positions and then you  
+**[4093.66s] English:** Would wait, and then they would say "Fire when ready," and as soon as they say "Fire when ready,  
 **Translation:** 
 
-**[4093.66s] English:** would wait and then they would say fire when ready and as soon as they say fire when ready  
+**[4097.78s] English:** That means just start going, just start, and then that's when the magic starts. You go, like, in a loop.  
 **Translation:** 
 
-**[4097.78s] English:** that means just start going just start and then that's when the magic starts you go like the loop  
+**[4103.22s] English:** Like, you know, when you shoot one or whatever, there's a reloading process; there's a loop, so what you  
 **Translation:** 
 
-**[4103.22s] English:** like you you shoot one or whatever there's a reloading process there's a loop so what you  
+**[4107.56s] English:** Would you get the fire mission? You would find out the rounds, the two I see, would be standing by.  
+**Translation:** Vocabulary: reloading: 装弹过程
+
+**[4111.64s] English:** The rounds, and it was his job to make sure the amount of rounds that was told would be the only ones used.  
 **Translation:** 
 
-**[4107.56s] English:** would do you get the fire mission you would find out the rounds the two i see would be standing by  
-**Translation:** Vocabulary: reloading: 换弹过程
-
-**[4111.64s] English:** the rounds and it was his job to make sure the amount of rounds that was told would be the only  
+**[4115.78s] English:** Rounds that would go down-range, and so he'd stand there, and on each round, depending on the type of  
 **Translation:** 
 
-**[4115.78s] English:** rounds that would go down range and so he'd stand there and on each round depending on the type of  
+**[4121.10s] English:** Round is a fuse which gets screwed onto the top of another round, so they're about that big, and it's  
 **Translation:** 
 
-**[4121.10s] English:** round is a fuse which gets screwed on to the top of the round so they're about that big and it's  
+**[4128.00s] English:** Just a point, and then you would have to put it on, give it a spin, and depending if it was a timepiece.  
+**Translation:** Vocabulary: timepiece: 计时器
+
+**[4134.52s] English:** Release, you had a little um.  
 **Translation:** 
 
-**[4128.00s] English:** just a point and then you would have to put it on give it a spin and depending if it was a time  
+**[4137.56s] English:** What do you call it? You get those at IKEA when you have to build everything, Alan? Alan, yeah, yeah.  
 **Translation:** 
 
-**[4134.52s] English:** release you had a little um  
+**[4141.42s] English:** Yeah, you know what I'm talking about. Yeah, and then like a big one, or something—no, just a little one.  
 **Translation:** 
 
-**[4137.56s] English:** what do you call it you get those at ikea when you have to build everything alan alan yeah yeah  
+**[4145.26s] English:** Because it's a tiny little hole, and you just have to click it to where it's supposed to go.  
 **Translation:** 
 
-**[4141.42s] English:** yeah you know what i'm talking about yeah and then like a big one or something no just a little one  
+**[4148.26s] English:** And it depended on what the call was for, and it was a timer when you said, "like, wheel," you mean like  
 **Translation:** 
 
-**[4145.26s] English:** because it's a tiny little hole and you just got to click it to where it's supposed to go  
+**[4153.68s] English:** A little thing, then, is that what we're talking about? No, I'm talking about the round.  
 **Translation:** 
 
-**[4148.26s] English:** and it depended on what the call was for and it was a timer when you said like wheel you mean like  
+**[4157.60s] English:** Itself, so you would put a fuse on top of the round. So you would unload the ammo, and then you would put  
 **Translation:** 
 
-**[4153.68s] English:** a little thing then is that is that what we're talking about no i'm talking about the round  
+**[4163.48s] English:** Fuses on them, and the fuses are on the top; they're like a little like a  
+**Translation:** Vocabulary: fuses: 保险丝; unload: 卸载
+
+**[4167.56s] English:** Ice cream topper kind of thing, and you would spin those on, okay. And then, once they're on, depending if  
 **Translation:** 
 
-**[4157.60s] English:** itself so you would put a fuse on top of the round so you would unload the ammo and then you would put  
+**[4173.70s] English:** It's a time-release, or not; you would take this little thing, and you would move it to the top.  
 **Translation:** 
 
-**[4163.48s] English:** fuses on them and the fuses are on the top and they're like a little like a  
-**Translation:** Vocabulary: fuses: 保险丝
-
-**[4167.56s] English:** ice cream topper kind of thing and you would spin those on okay and then once they're on depending if  
+**[4177.86s] English:** That would be almost like a little timer, cool, yeah? It depended so; you're assembling a bullet.  
 **Translation:** 
 
-**[4173.70s] English:** it's a time release or not you would take this little thing and you would move it the top and  
-**Translation:** 
-
-**[4177.86s] English:** that would it's almost like a little timer cool yeah it depended so you're assembling a bullet  
-**Translation:** 
-
-**[4183.54s] English:** essentially a very big one that goes up to my waist cool yeah this is this is very cool and  
+**[4183.54s] English:** Essentially, a very big one that goes up to my waist. Cool! Yeah, this is very cool and...  
 **Translation:** Vocabulary: assembling: 组装
 
-**[4189.20s] English:** you're you're a fascinating person okay so that you just that you still even years later have  
+**[4189.20s] English:** You're a fascinating person, okay? So that you still, even years later, have...  
 **Translation:** 
 
-**[4194.30s] English:** all this in your memory it's not all perfectly accurate and that's what  
+**[4194.30s] English:** All this in your memory is not all perfectly accurate, and that's what  
 **Translation:** 
 
-**[4197.56s] English:** irritates me though is because i'm  
+**[4197.56s] English:** Irritates me, though, is because I'm  
 **Translation:** 
 
-**[4200.00s] English:** bothers me when I can't remember things accurately but I have a lot of I've had a lot of memory  
-**Translation:** Vocabulary: irritates: 烦扰我
+**[4200.00s] English:** Bothers me when I can't remember things accurately, but I've had a lot of memory problems.  
+**Translation:** Vocabulary: irritates: 烦扰
 
-**[4204.92s] English:** issues and problems after like having too many hits to the head and this is from earlier in  
+**[4204.92s] English:** Issues and problems after, like, having too many hits to the head, and this is from earlier in.  
 **Translation:** 
 
-**[4209.80s] English:** childhood or later uh both okay both the military did not help it where's where was the hits in the  
+**[4209.80s] English:** Childhood, or later — both, okay. Both the military didn't help it. Where's the hit? Where was the hit?  
 **Translation:** 
 
-**[4216.50s] English:** head in the military well when you have a carl ghost up beside your face like this and it shoots  
+**[4216.50s] English:** Head in the military, well, when you have a Carl Ghost up beside your face like this and it shoots.  
 **Translation:** 
 
-**[4221.08s] English:** around it gives you a concussive blast also there's new research being done I'll find out  
-**Translation:** Vocabulary: concussive: 震荡的
+**[4221.08s] English:** Around it, it gives you a concussive blast. Also, there's new research being done; I'll find out.  
+**Translation:** Vocabulary: concussive: 冲击波的
 
-**[4226.14s] English:** exactly what it is but there's new research that's being done that shows that if you're an  
+**[4226.14s] English:** Exactly what it is, but there's new research being done that shows that if you're an  
 **Translation:** 
 
-**[4229.78s] English:** artillery gunner and you stand within a certain range of that gun you get the same amount of  
+**[4229.78s] English:** Artillery gunner, and you stand within a certain range of that gun, you get the same amount of  
 **Translation:** Vocabulary: artillery: 大炮
 
-**[4234.30s] English:** concussive blasts and it there's a there's a range I had no idea but you feel it when it goes off like  
+**[4234.30s] English:** Concussive blasts, and it turns out there's a range I had no idea about. You feel it when it goes off, like  
 **Translation:** 
 
-**[4240.18s] English:** it hurt your whole body feels it your mind is fascinating because it's like literally the  
+**[4240.18s] English:** It hurts your whole body. It feels like it's affecting your mind, which is fascinating because it's literally...  
+**Translation:** Vocabulary: blasts: 爆炸
+
+**[4246.10s] English:** Opposite of mine, you're able to speak very quickly, very clearly, and very sharply. No, what I talk.  
 **Translation:** 
 
-**[4246.10s] English:** opposite of my one you're able to speak very quickly very clearly very sharply no what I talk  
+**[4252.78s] English:** Too fast, and I'm not that perfect. My hearing is pretty good, I mean, I admire people who can pick up on things that quickly, but I can't do any of that.  
+**Translation:** Vocabulary: sharply: 敏锐地
+
+**[4257.52s] English:** And you listen extremely well.  
 **Translation:** 
 
-**[4252.78s] English:** too fast and I'm not that's perfect my hearing I admire I mean I admire that I can't do any of that  
+**[4259.78s] English:** And you're extremely attentive, and you have a good memory, so anyway, it's just fun to watch you at.  
+**Translation:** Vocabulary: attentive: 专心的
+
+**[4265.12s] English:** Um, I can tell you were a great soldier and all the different aspects of it. Thank you. Okay.  
 **Translation:** 
 
-**[4257.52s] English:** and you listen extremely well  
-**Translation:** 
-
-**[4259.78s] English:** and you're extremely attentive and you have a good memory so anyway it's just fun fun to watch you at  
-**Translation:** Vocabulary: attentive: 专心
-
-**[4265.12s] English:** um I can tell you were a great soldier and just all different aspects of it thank you okay  
-**Translation:** 
-
-**[4270.36s] English:** but what the heck we're talking about oh build up to the deployment how did we get to Texas  
+**[4270.36s] English:** But what the heck are we talking about? Oh, building up to the deployment. How did we get to Texas?  
 **Translation:** Vocabulary: deployment: 部署
 
-**[4276.02s] English:** because that was part of the build up to my deployment and live fire you got to what did  
+**[4276.02s] English:** Because that was part of the buildup to my deployment, and live fire—you got to do it.  
 **Translation:** 
 
-**[4279.76s] English:** that feel good  
+**[4279.76s] English:** That feels good.  
+**Translation:** Vocabulary: buildup: 增强
+
+**[4280.42s] English:** It's so good! What's the favorite? What's the best part about?  
 **Translation:** 
 
-**[4280.42s] English:** it's so good what's the favorite what's the best part about  
+**[4289.78s] English:** Like shooting artillery, what's the thing that feels good? Which part?  
 **Translation:** 
 
-**[4289.78s] English:** like shooting artillery like what what's the thing that's that feels good which part the  
+**[4296.80s] English:** Well, the full feeling of power is the best moment, the highest moment of the feeling.  
 **Translation:** 
 
-**[4296.80s] English:** well the full the feeling of power when is the best moment of the highest moment of the feeling  
+**[4302.20s] English:** Of power, is it the whole process that you love, or is there like when you actually shoot it?  
 **Translation:** 
 
-**[4302.20s] English:** of power is it the whole process that you love or is there like when you actually shoot it it's  
+**[4308.54s] English:** Symbiotic—it's a beautiful thing to watch. To know that a gun can fire, it takes kind of a dance.  
 **Translation:** 
 
-**[4308.54s] English:** symbiotic it's a beautiful thing to watch to know that a gun can fire and it takes kind of a dance  
-**Translation:** 
-
-**[4315.22s] English:** to make it work there's something about that to me that just got my heart racing  
+**[4315.22s] English:** To make it work, there's something about that to me that just got my heart racing.  
 **Translation:** Vocabulary: symbiotic: 共生的
 
-**[4319.78s] English:** when  
+**[4319.78s] English:** When  
 **Translation:** 
 
-**[4320.00s] English:** you actually shoot the round and you see it go and you hear it it's unlike it you can't describe  
+**[4320.00s] English:** You actually shoot the round, and you see it go and you hear it. It's unlike anything; you can't describe it.  
 **Translation:** 
 
-**[4326.92s] English:** there's no i've never felt another feeling i've also never been in like an f18 or an f like 16  
+**[4326.92s] English:** There's no way I've ever felt a feeling like that, and I've also never been in an F-18 or an F-16.  
 **Translation:** 
 
-**[4333.78s] English:** or like any i've never been in anything like that and i've you know i've never trying to think of  
+**[4333.78s] English:** Or, like any, I've never been in anything like that, and I've you know, I've never tried to think of it.  
 **Translation:** 
 
-**[4339.74s] English:** something else that'd be comparable i've never been in like a formula one car those are the  
+**[4339.74s] English:** Something else that would be comparable, I've never been in a Formula One car; those are the  
 **Translation:** 
 
-**[4342.64s] English:** only things i can picture being that much for me because to shoot one of those and to know  
+**[4342.64s] English:** Only things I can picture being that much for me, because to shoot one of those and to know...  
 **Translation:** 
 
-**[4350.04s] English:** that you've done your job right means that you've helped and that to me was really what did it for  
+**[4350.04s] English:** That you've done your job right means that you've helped, and that to me was really what did it for.  
 **Translation:** 
 
-**[4356.72s] English:** me when you hear your sergeant say mission accomplished target hit tired acquired then  
+**[4356.72s] English:** When you hear your sergeant say, "Mission accomplished, target hit," feel tired and acquired.  
+**Translation:** Vocabulary: sergeant: 军士长
+
+**[4362.90s] English:** You're like, "That's a good feeling. That's the stuff." Quick pause. Take a break, Lex. Okay, so live.  
 **Translation:** 
 
-**[4362.90s] English:** you're like that's a good feeling that's the stuff quick pause take a break lex okay so live  
+**[4371.84s] English:** Fire and  
 **Translation:** 
 
-**[4371.84s] English:** fire and  
+**[4372.50s] English:** Test.  
 **Translation:** 
 
-**[4372.50s] English:** test  
-**Translation:** 
-
-**[4372.62s] English:** we're in texas by the way fort worth or fort hood one of them okay so like it's what is that  
+**[4372.62s] English:** We're in Texas, by the way—Fort Worth or Fort Hood—one of them, okay? So, like, what is that?  
 **Translation:** Vocabulary: texas: 德克萨斯州
 
-**[4378.38s] English:** close to a big major city do you remember visiting a city oh god no we we fly right  
+**[4378.38s] English:** Close to a big major city, do you remember visiting a city? Oh, God, no. We just fly right over them.  
 **Translation:** 
 
-**[4383.94s] English:** into the tarmac and they're like don't touch the snakes and then they send you out to the field  
-**Translation:** Vocabulary: tarmac: 飞机跑道
-
-**[4389.56s] English:** got it let's see the only instructions no really we went into a classroom and they're like these  
-**Translation:** 
-
-**[4393.76s] English:** are the animals that are in the wildlife in texas if you see any of them do not approach  
-**Translation:** 
-
-**[4398.40s] English:** do not go pee outside do not squat down it is snake season people and i was like  
-**Translation:** 
-
-**[4402.48s] English:** i have to pee and squat down why why texas and from like canada is it a simulation of uh afghanistan  
-**Translation:** 
-
-**[4411.44s] English:** yes okay so that's okay so you're getting and that's the way the live fire was seen in  
-**Translation:** 
-
-**[4417.40s] English:** artilleries like you're trying to simulate certain aspects of what you might actually  
-**Translation:** Vocabulary: artilleries: 火炮; simulate: 模拟
-
-**[4421.82s] English:** see in afghanistan i would think so i mean we it it looks like it's hot like it you're out in the  
-**Translation:** 
-
-**[4432.34s] English:** and we started to get to wear our tan boots in our tan like our combat tan stuff before you couldn't  
-**Translation:** Vocabulary: afghanistan: 阿富汗; combat: 战斗装备
-
-**[4438.86s] English:** wear that so it gave us an opportunity to kind of break in  
-**Translation:** 
-
-**[4440.00s] English:** break in how we were going to be doing this what it was going to look like how the guns were going  
-**Translation:** 
-
-**[4443.76s] English:** to work and all of those lovely things how do you go from there to being deployed what were what was  
-**Translation:** 
-
-**[4450.48s] English:** the next part of the journey so then we go to wainwright alberta often called or referenced as  
-**Translation:** Vocabulary: deployed: 部署; referenced: 引用; wainwright: 瓦尼特
-
-**[4456.42s] English:** waincock because it sucks so bad it is a massive open space in alberta which most of alberta is  
-**Translation:** 
-
-**[4464.14s] English:** and it's outside of a small town called wainwright and it is a field x training area for all of the  
-**Translation:** 
-
-**[4471.40s] English:** canadian military and it's where you do live fire but you also do workup training so you go out  
-**Translation:** 
-
-**[4478.52s] English:** there for a month or two i think it is i don't remember the exact time we were there because it  
-**Translation:** Vocabulary: workup: 适应性训练
-
-**[4482.16s] English:** was just you sleep in a tent you're in you're caught you're in like full mission mode and you  
-**Translation:** 
-
-**[4488.24s] English:** go outside and we did this operation called operation maple leaf i think it was and you  
-**Translation:** 
-
-**[4494.12s] English:** put on these little suits these uh they have haptic uh you can feel when you're shot and then  
-**Translation:** 
-
-**[4501.14s] English:** there's a little camera and sorry screen in the front of it and it's got button options and so  
-**Translation:** Vocabulary: haptic: 触觉的
-
-**[4506.06s] English:** it's to mimic if you get shot it'll say gunshot wound and then you have to choose okay do i do  
-**Translation:** 
-
-**[4511.42s] English:** this or do i do this and depending on your response person dies or lives and they have other people  
-**Translation:** 
-
-**[4516.78s] English:** who aren't on a rotation for deployment come and act as the taliban and attack you in the middle  
-**Translation:** 
-
-**[4523.14s] English:** of the night  
-**Translation:** Vocabulary: deployment: 部署
-
-**[4524.12s] English:** is there a good understanding of the tactics that the taliban used to attack  
-**Translation:** 
-
-**[4530.10s] English:** i mean this may be fast forwards to our conversation a little bit but is there  
-**Translation:** Vocabulary: tactics: 策略
-
-**[4536.62s] English:** predictable strategies on the other side that are being used in afghanistan by the taliban by  
-**Translation:** 
-
-**[4543.02s] English:** the taliban oh 100 ieds suicide bombers uh vehicle-borne ieds um their their standard  
-**Translation:** Vocabulary: predictable: 可预测的
-
-**[4551.28s] English:** way to hit people really was  
-**Translation:** 
-
-**[4553.02s] English:** i don't know  
-**Translation:** 
-
-**[4554.12s] English:** ieds and vehicle-borne ieds suicide bombers they put um like backpacks full of  
-**Translation:** 
-
-**[4560.00s] English:** of an id and then put like toys around it and then just be like so they will conceal it certain  
-**Translation:** 
-
-**[4565.60s] English:** ways and probably use civilians oh a hundred percent yeah and women were a great way to get  
-**Translation:** 
-
-**[4570.20s] English:** close to the soldiers because women seem non-threatening when you see a burka walk up to  
-**Translation:** Vocabulary: burka: 面纱
-
-**[4574.46s] English:** you you're not expecting an ak-47 to roll out of that and then or you know but they're they're  
-**Translation:** 
-
-**[4579.80s] English:** great ways to get close okay so what is wayne something wayne cock no that's not how wayne  
-**Translation:** 
-
-**[4586.58s] English:** right so let's go to alberta okay okay so i mean we don't have to go to alberta nobody wants to  
-**Translation:** 
-
-**[4592.00s] English:** now let's in our minds and in our imagination so okay so that's getting you closer to afghanistan  
-**Translation:** Vocabulary: afghanistan: 阿富汗
-
-**[4599.48s] English:** right uh what what was that like i mean are you getting anxious at this point is there a build-up  
-**Translation:** 
-
-**[4604.90s] English:** what are you thinking or is this just all part of the training for me it was more part of the  
-**Translation:** 
-
-**[4609.04s] English:** training i was i was excited to go because i did know that we were going to do some live fire i did  
-**Translation:** 
-
-**[4615.08s] English:** know that we were going to be  
-**Translation:** 
-
-**[4616.58s] English:** doing more of the military type job i i thought we were going to be doing because up until that  
-**Translation:** 
-
-**[4621.88s] English:** point i had just done training so i was learning how to march and salute and who to salute and not  
-**Translation:** Vocabulary: salute: 敬礼
-
-**[4626.76s] English:** salute like that was the focus of that was my experience of the military and then the next  
-**Translation:** 
-
-**[4631.04s] English:** experience was sitting in a regiment just working out a lot and going for breakfast a lot and  
-**Translation:** Vocabulary: regiment: 编制单位
-
-**[4635.82s] English:** drinking like that was so i was like this is the army so when i actually got to go to wayne rate i  
-**Translation:** 
-
-**[4640.24s] English:** got my first full taste of okay well there's fire picket duty so one person gets picked every night  
-**Translation:** Vocabulary: picket: 哨兵
-
-**[4646.14s] English:** to  
-**Translation:** 
-
-**[4646.42s] English:** you know do sentry there's a little less sleep you're eating out of a canteen now you're drinking  
-**Translation:** Vocabulary: sentry: 哨兵
-
-**[4652.82s] English:** in a canteen you're in your kit more you're in your deployable kit now you're in your  
-**Translation:** 
-
-**[4656.42s] English:** you know you're wearing um your tack vest you're you're getting ready to practice having plates on  
-**Translation:** Vocabulary: deployable: 可部署的
-
-**[4662.08s] English:** you're having ammunition on you you've got your weapon with you all the time when you're on base  
-**Translation:** 
-
-**[4666.62s] English:** and in that case say in quebec you're you're just like an everyday job maybe you can paint a clear  
-**Translation:** Vocabulary: ammunition: 弹药
-
-**[4672.58s] English:** picture to me when was there an understanding that you're actually getting deployed when was there an  
-**Translation:** 
-
-**[4676.42s] English:** was it just a sense that you're getting deployed or was this efficient  
-**Translation:** 
-
-**[4680.00s] English:** told to you i was officially told on graduation day you're deploying in april with vacuets oh  
-**Translation:** 
-
-**[4684.60s] English:** there was okay there's a date they're like they they knew so what had happened is the reason that  
-**Translation:** Vocabulary: deploying: 部署
-
-**[4689.72s] English:** vacuets a unit needed more people so they came to that and they picked five people there was  
-**Translation:** 
-
-**[4694.80s] English:** five english-speaking people that went to vacuets it wasn't just myself there was a couple other  
-**Translation:** 
-
-**[4698.66s] English:** people i knew that were english-speaking that got put on other guns within the regiment i wasn't  
-**Translation:** 
-
-**[4703.72s] English:** with any of them we all kind of got split up and so there was an understanding that we were going  
-**Translation:** 
-
-**[4711.00s] English:** to always be deploying next year it was like 2009 you're deploying whether you left in may or april  
-**Translation:** 
-
-**[4717.74s] English:** we were deploying because that was the rotation time so each canadian unit did between six and  
-**Translation:** 
-
-**[4723.40s] English:** nine months and then you knew right around that point another base of individuals would then  
-**Translation:** 
-
-**[4728.54s] English:** deploy so you would go on these rotations and so even when i was on my deployment then i  
-**Translation:** Vocabulary: deploy: 部署; deployment: 部署; rotations: 轮换
-
-**[4733.70s] English:** was slated to go again the following year but towards the end of the year so there was always  
-**Translation:** 
-
-**[4739.34s] English:** a rotation if you were in a combat arms unit and you were in one that was a deployable unit so  
-**Translation:** Vocabulary: combat: 战斗; slated: 计划
-
-**[4743.68s] English:** if you were from edmonton a ppcli which were you know the princess patricia's which were their  
-**Translation:** 
-
-**[4749.70s] English:** infantry unit if you were rcr out of uh petawawa ontario you knew you were deploying if you were  
-**Translation:** Vocabulary: edmonton: 埃德蒙顿; infantry: 步兵; petawawa: 佩塔瓦瓦
-
-**[4756.78s] English:** vacuets you knew you were deploying there's combat arms bases and then there's like naval bases  
-**Translation:** 
-
-**[4761.60s] English:** i didn't know their deployment structure i didn't  
-**Translation:** 
-
-**[4763.68s] English:** know how they worked i i'm on the ground i don't worry about the boats so i didn't know how the  
-**Translation:** 
-
-**[4768.50s] English:** air force deployed i knew vacuets it was deploying in april you were going get ready that was that  
-**Translation:** Vocabulary: deployed: 部署
-
-**[4776.60s] English:** so you show up to afghanistan right what is it a combat arms unit looks like what's the situation  
-**Translation:** 
-
-**[4783.98s] English:** look like how much chaos is there how much clarity about mission is there what are your feelings  
-**Translation:** 
-
-**[4791.10s] English:** about the whole thing so when you leave  
-**Translation:** 
-
-**[4793.68s] English:** uh the day you leave we left quebec we got driven to the airport and then we walked onto the tarmac  
+**[4383.94s] English:** Into the tarmac, and they're like, "Don't touch the snakes," and then they send you out to the field.  
 **Translation:** Vocabulary: tarmac: 停机坪
 
-**[4799.04s] English:** and we load our own  
+**[4389.56s] English:** Got it. Let's see. The only instructions were that we went into a classroom, and they're like these.  
 **Translation:** 
 
-**[4800.00s] English:** eggs and we got on a plane and it's just empty it's just it's our plane right and you don't go  
+**[4393.76s] English:** Are the animals that are in the wildlife in Texas? If you see any of them, do not approach.  
 **Translation:** 
 
-**[4804.74s] English:** right to afghanistan you go to a stopover point which i don't know if i'm allowed to say where  
+**[4398.40s] English:** Do not go pee outside; do not squat down. It is snake season, people. I was like,  
 **Translation:** 
 
-**[4809.34s] English:** that is frankly so i just say it's somewhere overseas okay and you go there and you go there  
-**Translation:** Vocabulary: afghanistan: 阿富汗; stopover: 经停
+**[4402.48s] English:** I have to pee and squat down—why? Why Texas, and from like Canada—is it a simulation of Afghanistan?  
+**Translation:** Vocabulary: squat: 蹲下
 
-**[4815.04s] English:** for a couple days i think it's like a day or two and that's where you get like your kit that's where  
+**[4411.44s] English:** Yes, okay, so that's okay. So you're getting, and that's the way the live-fire exercise was seen in.  
 **Translation:** 
 
-**[4818.88s] English:** you get your bulletproof plates for the first time and realize how heavy those fucking things are  
+**[4417.40s] English:** Artillery, like you're trying to simulate certain aspects of what you might actually  
+**Translation:** Vocabulary: artillery: 火炮; simulate: 模拟
+
+**[4421.82s] English:** See, in Afghanistan, I would think so. I mean, we it looks like it's hot; like, it's as if you're out in the  
+**Translation:** 
+
+**[4432.34s] English:** And we started to get into wearing our tan boots and combat-tan stuff before you couldn't.  
+**Translation:** Vocabulary: afghanistan: 阿富汗
+
+**[4438.86s] English:** Wear that, so it gave us an opportunity to kind of break it in.  
+**Translation:** 
+
+**[4440.00s] English:** Break in how we were going to be doing this, what it was going to look like, and how the guns were going to be used.  
+**Translation:** 
+
+**[4443.76s] English:** To work and all of those lovely things, how do you go from there to being deployed? What were the steps?  
+**Translation:** 
+
+**[4450.48s] English:** The next part of the journey: so, then we go to Wainwright, Alberta (often called or referenced as)  
+**Translation:** Vocabulary: deployed: 部署; referenced: 引用; wainwright: 温内维尔
+
+**[4456.42s] English:** Waincoop because it "sucks" so bad, it is a massive open space in Alberta, which most of Alberta is.  
+**Translation:** 
+
+**[4464.14s] English:** And it's outside of a small town called Wainwright, and it is a field X training area for all of the  
+**Translation:** Vocabulary: waincoop: 威尼科普
+
+**[4471.40s] English:** Canadian military, and it's where you do live-fire training, but you also do work-up training, so you go out.  
+**Translation:** 
+
+**[4478.52s] English:** There, for a month or two, I think it is. I don't remember the exact time we were there because it  
+**Translation:** 
+
+**[4482.16s] English:** Was just sleeping in a tent; you're in full mission mode, and you're caught right there.  
+**Translation:** 
+
+**[4488.24s] English:** Go outside, and we did this operation called Operation Maple Leaf, I think, and you  
+**Translation:** 
+
+**[4494.12s] English:** Put on these little suits; they have haptic feedback, so you can feel when you're shot, and then  
+**Translation:** 
+
+**[4501.14s] English:** There's a little camera and sorry, screen in the front of it, and it's got button options, and so  
+**Translation:** Vocabulary: haptic: 触觉反馈
+
+**[4506.06s] English:** It's to mimic: if you get shot, it'll say "gunshot wound," and then you have to choose: "Okay, do I?  
+**Translation:** 
+
+**[4511.42s] English:** This, or do I do this? And depending on your response, a person dies or lives, and they have other people.  
+**Translation:** 
+
+**[4516.78s] English:** Who aren't on a rotation for deployment come and act as the Taliban and attack you in the middle.  
+**Translation:** 
+
+**[4523.14s] English:** Of the night.  
+**Translation:** Vocabulary: deployment: 部署
+
+**[4524.12s] English:** Is there a good understanding of the tactics that the Taliban used to attack?  
+**Translation:** 
+
+**[4530.10s] English:** I mean, this may be fast-forwarding to our conversation a little bit, but is there  
+**Translation:** Vocabulary: tactics: 策略
+
+**[4536.62s] English:** Predictable strategies on the other side, which are being used in Afghanistan by the Taliban.  
+**Translation:** 
+
+**[4543.02s] English:** The Taliban, oh, 100 IEDs, suicide bombers—uh, vehicle-borne IEDs. Their standard...  
+**Translation:** Vocabulary: afghanistan: 阿富汗; bombers: 炸弹; predictable: 可预测的
+
+**[4551.28s] English:** A way to hit people really was  
+**Translation:** 
+
+**[4553.02s] English:** I don't know.  
+**Translation:** 
+
+**[4554.12s] English:** IEDs and vehicle-borne IEDs, suicide bombers they put, like backpacks full of.  
+**Translation:** 
+
+**[4560.00s] English:** Of an ID, and then put like toys around it, and then just be like, "So they'll conceal it," certain.  
+**Translation:** Vocabulary: backpacks: 背 pack; conceal: 隐藏
+
+**[4565.60s] English:** Ways, and probably use civilians—oh, a hundred percent, yeah—and women were a great way to get.  
+**Translation:** 
+
+**[4570.20s] English:** Close to the soldiers because women seem non-threatening when you see a burka walk up to.  
+**Translation:** Vocabulary: burka: 面纱
+
+**[4574.46s] English:** You're not expecting an AK-47 to roll out of that, are you? But they're  
+**Translation:** 
+
+**[4579.80s] English:** Great ways to get close, okay? So, what is Wayne? Something Wayne? Cock, no, that's not how Wayne.  
+**Translation:** 
+
+**[4586.58s] English:** Right, so let's go to Alberta, okay? Okay, so I mean, we don't have to go to Alberta; nobody wants to.  
+**Translation:** 
+
+**[4592.00s] English:** Now, let's bring Afghanistan into our minds and imagination. So, okay, that's getting you closer to Afghanistan.  
+**Translation:** 
+
+**[4599.48s] English:** Right, uh, what was that like? I mean, are you getting anxious at this point? Is there a build-up?  
+**Translation:** 
+
+**[4604.90s] English:** What are you thinking, or is this just all part of the training for me? It was more part of the  
+**Translation:** 
+
+**[4609.04s] English:** Training: I was excited to go because I did know that we were going to do some live-fire exercises.  
+**Translation:** 
+
+**[4615.08s] English:** Know that we were going to be  
+**Translation:** 
+
+**[4616.58s] English:** Doing more of the military-type job, I thought we were going to be doing because, up until that point,  
+**Translation:** 
+
+**[4621.88s] English:** Point: I had just done training, so I was learning how to march and salute, and who to salute—and not.  
+**Translation:** Vocabulary: salute: 敬礼
+
+**[4626.76s] English:** Salute like that was the focus of what my experience of the military was, and then the next thing was...  
+**Translation:** 
+
+**[4631.04s] English:** The experience was sitting in a regiment, just working out a lot and going for breakfast a lot and  
+**Translation:** Vocabulary: regiment: 编制单位
+
+**[4635.82s] English:** Drinking like that was so I was like, "This is the Army," so when I actually got to Wayne Rat, I  
+**Translation:** 
+
+**[4640.24s] English:** Got my first full taste of, okay. Well, there's fire picket duty, so one person gets picked every night.  
+**Translation:** Vocabulary: picket: 哨兵
+
+**[4646.14s] English:** To  
+**Translation:** 
+
+**[4646.42s] English:** You know, do sentry? There's a little less sleep. You're eating out of a canteen now, and you're drinking.  
+**Translation:** Vocabulary: canteen: 食堂; sentry: 哨兵
+
+**[4652.82s] English:** In a canteen, you're in your kit more; you're in your deployable kit, now you're in your  
+**Translation:** 
+
+**[4656.42s] English:** You know, you're wearing your tack vest, you're getting ready to practice with plates on.  
+**Translation:** Vocabulary: deployable: 可部署的
+
+**[4662.08s] English:** You're having ammunition on you; you've got your weapon with you all the time when you're on base.  
+**Translation:** 
+
+**[4666.62s] English:** And, in that case, say in Quebec, you're just like an everyday job; maybe you can paint a clear picture.  
+**Translation:** Vocabulary: ammunition: 弹药
+
+**[4672.58s] English:** Picture to me when there was an understanding that you're actually getting deployed?  
+**Translation:** 
+
+**[4676.42s] English:** Was it just a sense that you're getting deployed, or was this efficient?  
+**Translation:** Vocabulary: deployed: 被部署
+
+**[4680.00s] English:** Told to you, I was officially told on graduation day: "You're deploying in April with Vacuets." Oh.  
+**Translation:** 
+
+**[4684.60s] English:** There was, okay. There's a date they're like, they knew so what had happened is the reason that.  
+**Translation:** Vocabulary: deploying: 部署
+
+**[4689.72s] English:** Vacuets is a unit needed more people, so they came to that and they picked five people; there was.  
+**Translation:** 
+
+**[4694.80s] English:** Five English-speaking people went to Vaucet's. It wasn't just myself; there were a couple of others.  
+**Translation:** 
+
+**[4698.66s] English:** People I knew that were English-speaking that got put on other guns within the regiment I wasn't.  
+**Translation:** 
+
+**[4703.72s] English:** With any of them, we all kind of got split up, and so there was an understanding that we were going.  
+**Translation:** 
+
+**[4711.00s] English:** To always be deploying next year, it was like in 2009; you're deploying whether you left in May or April.  
+**Translation:** 
+
+**[4717.74s] English:** We were deploying because that was the rotation time, so each Canadian unit did between six and  
+**Translation:** 
+
+**[4723.40s] English:** Nine months, and then you knew right around that point that another base of individuals would then.  
+**Translation:** 
+
+**[4728.54s] English:** Deploy, so you would go on these rotations, and so even when I was on my deployment, then I  
+**Translation:** Vocabulary: deploy: 部署; deployment: 部署; rotations: 轮换
+
+**[4733.70s] English:** Was slated to go again the following year, but towards the end of the year, so there was always...  
+**Translation:** 
+
+**[4739.34s] English:** A rotation, if you were in a combat arms unit and you were in one that was a deployable unit, so  
+**Translation:** Vocabulary: combat: 战斗; deployable: 可部署的; slated: 计划
+
+**[4743.68s] English:** If you were from Edmonton, APPCLI, which were you know the Princess Patricia's Canadian Light Infantry, which were they?  
+**Translation:** 
+
+**[4749.70s] English:** An infantry unit: If you were RCR out of Petawawa, Ontario, you knew you were deploying.  
+**Translation:** Vocabulary: edmonton: 埃德蒙顿; infantry: 步兵; petawawa: 彼得瓦瓦
+
+**[4756.78s] English:** Vacuums, you knew you were deploying there's combat arms bases, and then there's like naval bases.  
+**Translation:** 
+
+**[4761.60s] English:** I didn't know their deployment structure; I didn't.  
+**Translation:** Vocabulary: vacuums: 真空
+
+**[4763.68s] English:** Know how they worked. I'm on the ground, so I don't worry about the boats, so I didn't know how the  
+**Translation:** 
+
+**[4768.50s] English:** Air Force deployed; I knew VACUETS, it was deploying in April. You were going to get ready—that was that.  
+**Translation:** Vocabulary: deployed: 部署; deploying: 正在部署
+
+**[4776.60s] English:** So, you show up to Afghanistan, right? What is it, a combat arms unit? Looks like what's the situation?  
+**Translation:** 
+
+**[4783.98s] English:** Look, like, how much chaos is there? How much clarity about mission is there? What are your feelings?  
+**Translation:** Vocabulary: afghanistan: 阿富汗; clarity: 清晰度
+
+**[4791.10s] English:** About the whole thing, so when you leave,  
+**Translation:** 
+
+**[4793.68s] English:** Uh, the day you left, we left Quebec and got driven to the airport, and then we walked onto the tarmac.  
+**Translation:** Vocabulary: quebec: 魁北克; tarmac: 停机坪
+
+**[4799.04s] English:** And we load our own.  
+**Translation:** 
+
+**[4800.00s] English:** Eggs, and we got on a plane, and it's just empty — it's just our plane, right? And you don't go.  
+**Translation:** 
+
+**[4804.74s] English:** Right, when you go to Afghanistan, you typically stop over at a point, which I don't know if I'm allowed to say where.  
+**Translation:** 
+
+**[4809.34s] English:** That is, frankly, so I just say it's somewhere overseas, okay? And you go there, and you go there.  
+**Translation:** Vocabulary: frankly: 坦白地说
+
+**[4815.04s] English:** For a couple of days, I think it's like a day or two, and that's where you get your kit.  
+**Translation:** 
+
+**[4818.88s] English:** You get your bulletproof plates for the first time and realize how heavy those fucking things are.  
 **Translation:** Vocabulary: bulletproof: 防弹的
 
-**[4822.20s] English:** it's where you get your your weapon and your ammunition your first few mags it's where you  
+**[4822.20s] English:** It's where you get your weapon, your ammunition, and your first few magazines. It's where you  
 **Translation:** 
 
-**[4826.84s] English:** get your helmet and your vests and you get everything that you need while you're there  
-**Translation:** Vocabulary: ammunition: 弹药; vests: 背心
+**[4826.84s] English:** Get your helmet and your vest, and you'll have everything you need while you're there.  
+**Translation:** Vocabulary: ammunition: 弹药
 
-**[4831.96s] English:** it's pretty nonchalant it's it's hot as hell it's your first time being in that kind of heat  
+**[4831.96s] English:** It's pretty nonchalant. It's really hot as hell. It's your first time being in that kind of heat.  
 **Translation:** 
 
-**[4836.82s] English:** so you just never stop sweating the place we were in it's just the second you got out of the shower  
+**[4836.82s] English:** So, you just never stop sweating. The place we were in—it's just the second you got out of the shower.  
 **Translation:** Vocabulary: nonchalant: 不以为意
 
-**[4841.52s] English:** you were still wet after you got it what the hell is happening it's so humid and i'm like is this  
+**[4841.52s] English:** You were still wet after you got it? What the hell is happening? It's so humid, and I'm like, "Is this?  
 **Translation:** 
 
-**[4846.60s] English:** going to be like this in afghanistan they're like no it's not humid there at all i'm like  
+**[4846.60s] English:** Going to be like this in Afghanistan? They're like, "No, it's not humid there at all." I'm like,...  
 **Translation:** 
 
-**[4849.22s] English:** why is it so bad here like it'll be fine don't worry about it so and where we were there  
+**[4849.22s] English:** Why is it so bad here? Like, it'll be fine; don't worry about it, so and where we were there.  
 **Translation:** 
 
-**[4856.84s] English:** it was kind of cute we were like in a base within a base and they had like turf and we had like ice  
+**[4856.84s] English:** It was kind of cute. We were like in a base within a base, and they had like turf, and we had like ice.  
 **Translation:** 
 
-**[4863.52s] English:** cream and fruit and you could go get on a computer you could go make calls you had showers you had  
+**[4863.52s] English:** Cream and fruit, and you could go get on a computer, you could go make calls, you had showers, you had.  
 **Translation:** 
 
-**[4869.80s] English:** real bed it was very kind of okay for that point and then you got all your stuff and then okay  
+**[4869.80s] English:** Real bed; it was very kind of okay for that point, and then you got all your stuff, and okay.  
 **Translation:** 
 
-**[4875.78s] English:** we're rolling out which is about a five-hour flight again my experience with helicopters is  
+**[4875.78s] English:** We're rolling out, which is about a five-hour flight. Again, my experience with helicopters is...  
 **Translation:** 
 
-**[4879.74s] English:** mostly uh from another arnold schwarzenegger movie the predator  
-**Translation:** Vocabulary: helicopters: 直升机
+**[4879.74s] English:** Mostly, though, from another Arnold Schwarzenegger movie, The Predator.  
+**Translation:** Vocabulary: arnold: 阿诺德; helicopters: 直升机; predator: 掠食者; schwarzenegger: 施瓦辛格
 
-**[4886.84s] English:** i'm not do you want me to say i've never seen it i've never seen it lex you haven't seen it no  
+**[4886.84s] English:** I'm not sure. Do you want me to say I've never seen it? I've never seen it, Lex. You haven't seen it, no.  
 **Translation:** 
 
-**[4891.64s] English:** you want to tell the audience the all the uh excellent shows that you mentioned me offline  
+**[4891.64s] English:** You want to tell the audience about all the excellent shows that you mentioned offline.  
 **Translation:** 
 
-**[4897.56s] English:** that you watch instead instead of platoon listen yeah that's nine is sex in the city was that more  
+**[4897.56s] English:** That you might watch instead of Platoon, listen? Yeah, that's Nine is Sex in the City. Was that more?  
 **Translation:** 
 
-**[4903.96s] English:** important than oh no i've never seen that don't don't put me in that category did you just put me  
+**[4903.96s] English:** Important, than oh, no! I've never seen that. Don't put me in that category. Did you just put me?  
 **Translation:** Vocabulary: platoon: 步兵班
 
-**[4908.60s] English:** in a box i did i watched like homeland i watched no i watched like i watch a lot of documentaries  
+**[4908.60s] English:** In a box, I did. I watched "Homeland," but I watch a lot of documentaries too.  
 **Translation:** 
 
-**[4914.92s] English:** i watch i like to watch real  
-**Translation:** Vocabulary: homeland: 祖国
+**[4914.92s] English:** I watch; I like to watch real.  
+**Translation:** Vocabulary: documentaries: 纪实节目; homeland: Homeland剧
 
-**[4916.84s] English:** real things more than than than just  
+**[4916.84s] English:** Real things, more than just  
 **Translation:** 
 
-**[4920.00s] English:** film i did a little bit of um film stuff when i got back um into canada and i was like once you're  
+**[4920.00s] English:** Film: I did a little bit of film stuff when I got back to Canada, and I was like, "Once you're  
 **Translation:** 
 
-**[4926.36s] English:** once you've seen how it's made i'm like i don't want to do you want to yeah i mean i'm the same  
+**[4926.36s] English:** Once you've seen how it's made, I'm like, "I don't want to." Do you want to? Yeah, I mean, I'm the same.  
 **Translation:** 
 
-**[4930.50s] English:** way as superhero movies it doesn't i want i want um i want something closer to reality but then  
+**[4930.50s] English:** As with superhero movies, I don't want something that's too fantastical; I want something closer to reality, but then...  
+**Translation:** Vocabulary: fantastical: 离奇的
+
+**[4936.22s] English:** Movies like Platoon reveal some deep aspects of reality. Without it, I did Superman: Made of Steel.  
 **Translation:** 
 
-**[4936.22s] English:** movies like platoon reveal some deep aspect of reality without it i did superman made of steel  
+**[4942.42s] English:** Wait, you're sorry? You were saying what do you mean? I wasn't a military expert, but I was a  
 **Translation:** 
 
-**[4942.42s] English:** wait you sorry you you were what do you mean you did i was not a military expert but i was a  
+**[4947.90s] English:** A stunt expert; even though I didn't actually have to do any stunts, it's just because I had  
 **Translation:** 
 
-**[4947.90s] English:** a stunt expert even though i didn't actually have to do any stunts it's just because i had  
-**Translation:** 
-
-**[4952.98s] English:** previous military experience and they were going to have me as an extra as a military person but  
+**[4952.98s] English:** Previous military experience, and they were going to have me as an extra as a military person, but  
 **Translation:** Vocabulary: stunt: 特技; stunts: 特技
 
-**[4956.60s] English:** if you have previous experience they have to make it as like a stunt role like so you get paid more  
+**[4956.60s] English:** If you have previous experience, they have to make it as a stunt role, so you get paid more.  
 **Translation:** 
 
-**[4960.26s] English:** got it so i got to sit at a desk and i was in that i was in that like you see me like for like  
+**[4960.26s] English:** Got it, so I had to sit at a desk, and I was in that, like you see me, for like  
 **Translation:** 
 
-**[4965.74s] English:** two seconds so you what you're saying is you were the mastermind behind that movie for the entire  
+**[4965.74s] English:** Two seconds. So, what you're saying is, you were the mastermind behind that movie for the entire  
 **Translation:** 
 
-**[4970.68s] English:** thing you're so accurate okay great your representation of me is just fantastic the  
+**[4970.68s] English:** Thing, you're so accurate. Okay, great! Your representation of me is just fantastic. The  
 **Translation:** Vocabulary: mastermind: 主谋
 
-**[4976.54s] English:** combat arms unit right  
+**[4976.54s] English:** Combat arms unit, right?  
 **Translation:** 
 
-**[4977.90s] English:** afghanistan um the ice cream machine what like when you actually get closer and closer to the  
+**[4977.90s] English:** Afghanistan, um, the ice cream machine—what, like, when you actually get closer and closer to the  
 **Translation:** Vocabulary: afghanistan: 阿富汗; combat: 战斗
 
-**[4985.12s] English:** mission what uh when does that happen when i you know got to where we were before we were leaving  
+**[4985.12s] English:** Mission, what, uh, when does that happen when I get to where we were before we were leaving?  
 **Translation:** 
 
-**[4990.36s] English:** to get on the plane i don't really real i don't think i realized what the hell i was doing truth  
+**[4990.36s] English:** To get on the plane, I don't really think I realized what the hell I was doing, truth be told.  
 **Translation:** 
 
-**[4995.78s] English:** truthfully like you're asking me all these like what did you feel how do you like when i really  
+**[4995.78s] English:** Truthfully, like you're asking me all these questions, like 'what did you feel?' and 'how do you like it? When I really  
 **Translation:** 
 
-**[4999.72s] English:** think about it if i sit there and really think about it i was deploying i was aware i knew what  
+**[4999.72s] English:** Think about it: if I sit there and really think about it, I was deploying; I was aware; I knew what.  
 **Translation:** 
 
-**[5005.72s] English:** i was going to do i knew my job  
+**[5005.72s] English:** I was going to do; I knew my job.  
 **Translation:** 
 
-**[5007.90s] English:** but once we actually stepped onto that her to leave to get into the afghan airspace i think  
-**Translation:** Vocabulary: afghan: 阿富汗; airspace: 领空
+**[5007.90s] English:** But once we actually stepped onto Afghan airspace, I think she left to get in.  
+**Translation:** Vocabulary: afghan: 阿富汗的; airspace: 领空
 
-**[5013.82s] English:** that's when it hit me yeah i think it smacked me in the face so hard and that's when the overwhelming  
+**[5013.82s] English:** That's when it hit me. Yeah, I think it smacked me in the face so hard. That's when the overwhelming...  
 **Translation:** 
 
-**[5020.66s] English:** just reality was that oh fuck oh oh oh when they said uh make weapons ready put the barrels of  
+**[5020.66s] English:** Just reality was that, oh fuck. Oh, oh, oh, when they said "make weapons ready," put the barrels...  
 **Translation:** Vocabulary: smacked: 撞击
 
-**[5032.84s] English:** the ground put your helmets on that's when they start flying tactically which means they're going  
+**[5032.84s] English:** The ground puts their helmets on, that's when they start flying tactically, which means they're going.  
 **Translation:** 
 
-**[5036.92s] English:** between the mountains  
-**Translation:** Vocabulary: tactically: 有策略地
+**[5036.92s] English:** Between the mountains.  
+**Translation:** Vocabulary: helmets: 头盔; tactically: 有策略地
 
-**[5037.90s] English:** that means we're going to land soon which means  
+**[5037.90s] English:** That means we're going to land soon, which means  
 **Translation:** 
 
-**[5040.00s] English:** you're flying like this it's because RPGs can hit you so that was my first  
+**[5040.00s] English:** You're flying like this, it's because RPGs can hit you. That was my first.  
 **Translation:** 
 
-**[5045.40s] English:** moment of oh I could like just be shot down right now like I couldn't I didn't  
+**[5045.40s] English:** Moment of, oh, I could just be shot down right now. I couldn't; I didn't.  
 **Translation:** 
 
-**[5050.74s] English:** grasp it I was how old was I 19 19 yeah Wow okay so that's why I feel bad when  
+**[5050.74s] English:** Grasp it; I was how old? Was I 19? Yeah, wow, okay. So that's why I feel bad when  
 **Translation:** 
 
-**[5058.60s] English:** I'm trying to explain to you cuz it's hard because I don't know that I  
+**[5058.60s] English:** I'm trying to explain to you, because it's hard because I don't know that I  
 **Translation:** 
 
-**[5061.00s] English:** actually did grasp it until I was in the air getting ready to land in Kandahar  
-**Translation:** Vocabulary: kandahar: 坎大哈
+**[5061.00s] English:** Actually, I didn't grasp it until I was in the air getting ready to land in Kandahar.  
+**Translation:** Vocabulary: kandahar: 坎大哈机场
 
-**[5065.82s] English:** what was the first time you heard bullets enemy enemy bullets or enemy  
+**[5065.82s] English:** What was the first time you heard "bullets," enemy, enemy bullets, or enemy?  
 **Translation:** 
 
-**[5072.18s] English:** explosions well when you're in Canada when you're in Kandahar when you're at  
+**[5072.18s] English:** Explosions, well, when you're in Canada, when you're in Kandahar, when you're at  
+**Translation:** Vocabulary: explosions: 爆炸声
+
+**[5075.82s] English:** Calf, there's a fair amount of insulation between you and the main walls, so you would hear  
 **Translation:** 
 
-**[5075.82s] English:** calf there's a you're fairly insulated away from the main walls you would hear  
+**[5080.10s] English:** Stuff would go off, or you would hear the rocket sirens go off, so you would know.  
 **Translation:** 
 
-**[5080.10s] English:** stuff go off or you would hear the the rocket sirens would go off so you would  
+**[5084.48s] English:** Hear though, and everyone just kind of got down on the ground and waited.  
 **Translation:** 
 
-**[5084.48s] English:** hear though and everyone just kind of got down on the ground and just waited  
+**[5088.38s] English:** For the all-clear, and then got back up. I didn't hear any actual live fire until.  
 **Translation:** 
 
-**[5088.38s] English:** for the all-clear and then got back up I didn't hear any actual live fire until  
+**[5095.52s] English:** I.  
 **Translation:** 
 
-**[5095.52s] English:** I  
+**[5095.82s] English:** Got to the FOB, it was more just a lot of noise. You would hear a lot of  
 **Translation:** 
 
-**[5095.82s] English:** got to the fob it was more just a lot of noise you would hear a lot of  
+**[5100.86s] English:** Helicopters, a lot of planes going in and out of the base, so there was that sense.  
 **Translation:** 
 
-**[5100.86s] English:** helicopters a lot of planes going in and out of the base so there was that sense  
-**Translation:** 
-
-**[5105.00s] English:** you could feel the ground shake when they took off but there was that sense  
+**[5105.00s] English:** You could feel the ground shake when they took off, but there was that sense.  
 **Translation:** Vocabulary: helicopters: 直升机
 
-**[5107.94s] English:** you know things were going around things were happening you just weren't far  
+**[5107.94s] English:** You know, things were going around, things were happening, but you just weren't far.  
 **Translation:** 
 
-**[5111.12s] English:** enough you were not close enough to the edges of calf to see it what's a what's  
+**[5111.12s] English:** Enough; you weren't close enough to the edges of the calve to see it. What's a what's  
+**Translation:** Vocabulary: calve: 牛产犊
+
+**[5117.66s] English:** The FOB is a forward observation base, which is a small, little base out in.  
 **Translation:** 
 
-**[5117.66s] English:** the fob fob is a forward observation base which is a small little base out in  
+**[5122.94s] English:** The middle of wherever, and that's.  
 **Translation:** 
 
-**[5122.94s] English:** the middle of wherever and that's  
+**[5125.52s] English:** That's specific to our artillery. No, that's in general, just an observation.  
 **Translation:** 
 
-**[5125.52s] English:** that's specific to our artillery no that's in general just an observation  
-**Translation:** 
-
-**[5131.62s] English:** base from which combat tree to go in and out of for armor to go in and out of  
+**[5131.62s] English:** Base from which combat trees to go in and out of for armor to go in and out of.  
 **Translation:** Vocabulary: artillery: 火炮; combat: 战斗
 
-**[5135.54s] English:** special ops going in out of them they fly they'll stop there they'll pick  
+**[5135.54s] English:** Special ops going in; out of them, they fly. They'll stop there; they'll pick.  
 **Translation:** 
 
-**[5138.96s] English:** people up or do whatever then they'll go out so it's a forward observation basis  
+**[5138.96s] English:** People can do whatever they want, then they'll go out on a forward observation basis.  
 **Translation:** 
 
-**[5142.80s] English:** is used essentially to have eyes in that area without having to be doing patrols  
+**[5142.80s] English:** Is used essentially to have eyes in that area without having to do patrols.  
 **Translation:** 
 
-**[5147.28s] English:** every five seconds but there's not is it like is there like medics there's a oh  
+**[5147.28s] English:** Every five seconds, but there aren't any medics. Oh,  
+**Translation:** Vocabulary: patrols: 巡逻
+
+**[5150.90s] English:** Yeah, yeah, yeah. So it was actually based on that. I was an actual...  
 **Translation:** 
 
-**[5150.90s] English:** yeah yeah yeah so it was actual base yeah I was a it's a I don't call it an actual  
+**[5155.52s] English:** Base camp: You sleep in tents and cots, and it is the walls that protect you.  
 **Translation:** 
 
-**[5155.52s] English:** base you sleep in tents and cots and it is the walls are the  
-**Translation:** 
-
-**[5160.00s] English:** this mesh material that are filled with gravel.  
+**[5160.00s] English:** This mesh material is filled with gravel.  
 **Translation:** 
 
 **[5163.00s] English:** And that's the walls.  
@@ -3352,154 +3353,154 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5165.06s] English:** And then you have towers.  
 **Translation:** 
 
-**[5166.88s] English:** You had five, I think we had five towers  
+**[5166.88s] English:** You had five, I think we had five towers.  
 **Translation:** 
 
-**[5168.56s] English:** because the Americans ran four and we ran one.  
+**[5168.56s] English:** Because the Americans ran four, and we ran one.  
 **Translation:** 
 
-**[5170.76s] English:** And so it was an American fob.  
+**[5170.76s] English:** And so, it was an American FOB.  
 **Translation:** 
 
-**[5172.34s] English:** It's called fob ramrod.  
+**[5172.34s] English:** It's called a FOB ramrod.  
 **Translation:** 
 
-**[5174.26s] English:** And there was a, were there marines?  
-**Translation:** Vocabulary: ramrod: 顶杆
+**[5174.26s] English:** And there were marines?  
+**Translation:** Vocabulary: ramrod: 枪杆子
 
 **[5178.62s] English:** No, I think they were the 101st.  
 **Translation:** 
 
-**[5180.34s] English:** They were out of their, this is where I get dicey  
+**[5180.34s] English:** They were out of their minds, this is where I get dicey.  
 **Translation:** Vocabulary: dicey: 棘手的
 
-**[5183.20s] English:** because I was moved a lot.  
+**[5183.20s] English:** Because I was moved a lot.  
 **Translation:** 
 
-**[5184.60s] English:** So when people are like, who are you with?  
+**[5184.60s] English:** So, when people are like, "Who are you with?  
 **Translation:** 
 
 **[5186.04s] English:** I'm like, I know what their patches looked like.  
 **Translation:** 
 
 **[5189.22s] English:** I don't know the full ins and outs.  
+**Translation:** Vocabulary: patches: 补丁
+
+**[5190.84s] English:** So, I'm working on getting that back.  
 **Translation:** 
 
-**[5190.84s] English:** So I'm working on getting that back  
+**[5192.40s] English:** So, that I can tell it accurately.  
 **Translation:** 
 
-**[5192.40s] English:** so that I can tell it accurately  
+**[5193.82s] English:** Because I believe it deserves that type of respect.  
 **Translation:** 
 
-**[5193.82s] English:** because I believe it deserves that type of respect.  
+**[5195.78s] English:** But that being said, I'm still trying to wrap my brain around it.  
 **Translation:** 
 
-**[5195.78s] English:** But that being said, I'm still trying to wrap my brain  
+**[5198.82s] English:** Around all of this.  
 **Translation:** 
 
-**[5198.82s] English:** around all of this.  
+**[5200.72s] English:** Yeah, you almost have to go back and do some research.  
 **Translation:** 
 
-**[5200.72s] English:** Yeah, you almost have to go back and do research  
+**[5204.84s] English:** To understand the full details,  
 **Translation:** 
 
-**[5204.84s] English:** to understand the full details  
+**[5206.46s] English:** Of all the things you were experiencing.  
 **Translation:** 
 
-**[5206.46s] English:** of all the things you were experiencing.  
+**[5207.94s] English:** And so I reached out to actually a bunch of people.  
 **Translation:** 
 
-**[5207.94s] English:** And so I reached out to actually a bunch of people  
+**[5209.82s] English:** Even before I wrote the book,  
 **Translation:** 
 
-**[5209.82s] English:** even before I wrote the book  
+**[5210.74s] English:** And I didn't get a lot of answers.  
 **Translation:** 
 
-**[5210.74s] English:** and I didn't get a lot of answers.  
+**[5211.86s] English:** Well, once I did Jocko, all the people have reached out.  
+**Translation:** Vocabulary: jocko: 乔科
+
+**[5213.84s] English:** To me, and they were like, "Hey," and I'm like, "Called you.  
 **Translation:** 
 
-**[5211.86s] English:** Well, once I did Jocko, all the people have reached out  
+**[5216.68s] English:** So, now I'm working, which is why I'm doing the rewrite.  
+**Translation:** Vocabulary: rewrite: 重写
+
+**[5218.60s] English:** I'm working on it.  
 **Translation:** 
 
-**[5213.84s] English:** to me and were like, hey, and I'm like, called you.  
+**[5219.20s] English:** I'm working on making sure that everything is exact.  
 **Translation:** 
 
-**[5216.68s] English:** So now I'm working, that's why I'm doing the rewrite  
+**[5222.66s] English:** And so there were infantry units going in and out of that FOB.  
 **Translation:** 
 
-**[5218.60s] English:** is I'm working on it.  
-**Translation:** 
-
-**[5219.20s] English:** I'm working on making sure that things are exact.  
-**Translation:** 
-
-**[5222.66s] English:** And so there was infantry units going in and out of that FOB  
-**Translation:** 
-
-**[5225.74s] English:** and it was a really tiny FOB.  
+**[5225.74s] English:** And it was a really tiny FOB.  
 **Translation:** Vocabulary: infantry: 步兵
 
 **[5228.22s] English:** It was run by the Americans.  
 **Translation:** 
 
-**[5230.82s] English:** And then there was a tiny little corner  
+**[5230.82s] English:** And then there was a tiny little corner.  
 **Translation:** 
 
-**[5233.42s] English:** that was the Canadian artillery unit.  
+**[5233.42s] English:** That was the Canadian artillery unit.  
 **Translation:** 
 
-**[5235.66s] English:** And the Americans, normally it's Americans shooting  
-**Translation:** 
+**[5235.66s] English:** And the Americans normally it's Americans shooting.  
+**Translation:** Vocabulary: artillery: 大炮
 
-**[5238.70s] English:** for Americans, Canadians shooting for Canadians.  
+**[5238.70s] English:** For Americans, Canadians shooting at Canadians.  
 **Translation:** 
 
 **[5240.82s] English:** The rest of the regiment that deployed,  
-**Translation:** Vocabulary: deployed: 部署; regiment: 步兵师
+**Translation:** 
 
-**[5242.24s] English:** so Bravo and Charlie, they were at Canadian FOBs,  
+**[5242.24s] English:** So, Bravo and Charlie were at Canadian FOBs.  
 **Translation:** 
 
 **[5245.94s] English:** Massum Guard and another one.  
-**Translation:** Vocabulary: bravo: Bravo
+**Translation:** Vocabulary: bravo: 精彩
 
 **[5247.34s] English:** And these were huge FOBs.  
 **Translation:** 
 
-**[5249.08s] English:** Ours was this tiny, like three kilometer around place.  
+**[5249.08s] English:** Ours was a tiny place, about three kilometers around.  
 **Translation:** 
 
-**[5254.08s] English:** And we had this tiny little subsection of it  
+**[5254.08s] English:** And we had this tiny little subsection of it.  
 **Translation:** 
 
-**[5256.42s] English:** and the rest was, so it was like this  
-**Translation:** Vocabulary: subsection: 子部分
+**[5256.42s] English:** And the rest was so it was like this.  
+**Translation:** Vocabulary: subsection: 部分
 
-**[5257.80s] English:** and then all American here.  
+**[5257.80s] English:** And then, all Americans here.  
 **Translation:** 
 
-**[5260.12s] English:** And when we got there, we landed,  
+**[5260.12s] English:** And when we got there, we landed.  
 **Translation:** 
 
-**[5263.00s] English:** the guns were already there.  
+**[5263.00s] English:** The guns were already there.  
 **Translation:** 
 
-**[5264.28s] English:** So you ripped out the unit before you.  
+**[5264.28s] English:** So, you ripped out the unit before you.  
+**Translation:** Vocabulary: ripped: 撕开
+
+**[5266.06s] English:** So, those guys were just leaving.  
 **Translation:** 
 
-**[5266.06s] English:** So those guys were just leaving  
+**[5267.40s] English:** And we were just replacing them.  
 **Translation:** 
 
-**[5267.40s] English:** and we were just replacing them.  
+**[5269.26s] English:** So we knew the guns; they were Canadian guns.  
 **Translation:** 
 
-**[5269.26s] English:** So we knew the guns, they were Canadian guns.  
+**[5271.58s] English:** We understood how to run those; that was fine.  
 **Translation:** 
 
-**[5271.58s] English:** We understood how to run those, that was fine.  
-**Translation:** 
-
-**[5275.04s] English:** When we got there though, we had come in on Chinook.  
+**[5275.04s] English:** When we got there, however, we had come in on a Chinook.  
 **Translation:** 
 
 **[5279.08s] English:** And.  
@@ -3508,32 +3509,32 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5280.00s] English:** Chinooks are super loud.  
 **Translation:** 
 
-**[5281.72s] English:** And they're like, wear hearing protection.  
+**[5281.72s] English:** And they're like, "wear hearing protection.  
 **Translation:** Vocabulary: chinooks: 信风
 
-**[5283.12s] English:** They don't, you're not, no, this is not reality.  
+**[5283.12s] English:** They don't, you're not, no; this is not reality.  
 **Translation:** 
 
-**[5287.24s] English:** This is why I'm partially deaf now, it's not reality.  
+**[5287.24s] English:** This is why I'm partially deaf now; it's not a joke.  
 **Translation:** 
 
 **[5290.10s] English:** Sorry to take a tangent, but do you usually wear  
 **Translation:** 
 
-**[5292.88s] English:** ear protection in any aspects of warfare  
-**Translation:** Vocabulary: tangent: 旁枝逸出
+**[5292.88s] English:** Ear protection in any aspects of warfare.  
+**Translation:** Vocabulary: tangent: 旁题; warfare: 作战方式
 
-**[5296.00s] English:** of this whole process?  
+**[5296.00s] English:** Of this whole process?  
 **Translation:** 
 
-**[5297.50s] English:** You wear comms, you have a comm on, and a radio,  
+**[5297.50s] English:** You wear comms; you have one on, and a radio.  
 **Translation:** 
 
-**[5301.16s] English:** if you're outside the wire.  
+**[5301.16s] English:** If you're outside the wire.  
 **Translation:** 
 
 **[5303.02s] English:** So comms, is that like a Bluetooth headset?  
-**Translation:** Vocabulary: headset: 耳機
+**Translation:** Vocabulary: headset: 耳机
 
 **[5305.22s] English:** Yes, it's a Bluetooth headset.  
 **Translation:** 
@@ -3544,7 +3545,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5307.88s] English:** Like from Nike, or like from iPod?  
 **Translation:** 
 
-**[5309.38s] English:** I was gonna say Adidas.  
+**[5309.38s] English:** I was going to say Adidas.  
 **Translation:** 
 
 **[5310.58s] English:** Okay.  
@@ -3553,10 +3554,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5311.42s] English:** Maybe Apple was involved at some point.  
 **Translation:** 
 
-**[5313.60s] English:** I don't know, this equipment looked like  
+**[5313.60s] English:** I don't know; this equipment looked like  
 **Translation:** 
 
-**[5314.80s] English:** it was from World War II, so.  
+**[5314.80s] English:** It was from World War II, so.  
 **Translation:** 
 
 **[5316.04s] English:** So it's comms, but does that have any ear protection?  
@@ -3571,88 +3572,88 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5321.92s] English:** That's just what some people wore.  
 **Translation:** 
 
-**[5323.52s] English:** People, when you were as low as me,  
+**[5323.52s] English:** People, when you were as low as I was,  
 **Translation:** 
 
-**[5324.84s] English:** like we weren't privy to conversate,  
-**Translation:** Vocabulary: privy: 知情
+**[5324.84s] English:** Like we weren't privy to converse,  
+**Translation:** Vocabulary: converse: 交谈; privy: 知情的
 
-**[5326.86s] English:** like we were just told what to do, and you do it.  
+**[5326.86s] English:** Like we were just told what to do, and you do it.  
 **Translation:** 
 
-**[5328.88s] English:** So when you're doing like on the OP tower,  
+**[5328.88s] English:** So, when you're doing it on the OP tower,...  
 **Translation:** 
 
-**[5331.04s] English:** you have a radio you pick up, and you call in,  
+**[5331.04s] English:** You have a radio; you pick it up, and you call in.  
 **Translation:** 
 
-**[5333.18s] English:** and then you put the radio down.  
+**[5333.18s] English:** And then you put the radio down.  
 **Translation:** 
 
 **[5334.34s] English:** But for hearing protection, I mean,  
 **Translation:** 
 
-**[5336.20s] English:** I would put in earplugs, but those things  
+**[5336.20s] English:** I would put in earplugs, but those things are hard to find.  
 **Translation:** Vocabulary: earplugs: 耳塞
 
-**[5338.74s] English:** are so violent.  
+**[5338.74s] English:** Are they so violent?  
 **Translation:** 
 
 **[5339.36s] English:** They're so violently loud that earplugs,  
-**Translation:** 
+**Translation:** Vocabulary: violently: 猛烈地
 
-**[5341.28s] English:** they don't do it justice.  
+**[5341.28s] English:** They don't do it justice.  
 **Translation:** 
 
 **[5342.66s] English:** I feel like when you go shooting,  
 **Translation:** 
 
-**[5344.68s] English:** there's certain kinds of earplugs that you,  
+**[5344.68s] English:** There are certain kinds of earplugs that you,  
 **Translation:** 
 
-**[5349.08s] English:** it blocks out the, like certain kinds of sounds  
+**[5349.08s] English:** It blocks out certain kinds of sounds.  
 **Translation:** 
 
-**[5352.18s] English:** associated with guns, and you can still hear  
+**[5352.18s] English:** Associated with guns, and you can still hear.  
 **Translation:** 
 
-**[5354.46s] English:** other types of stuff.  
+**[5354.46s] English:** Other types of stuff.  
 **Translation:** 
 
-**[5355.98s] English:** So the ones they issued us were these big things  
+**[5355.98s] English:** So, the ones they issued us were these big things.  
 **Translation:** 
 
-**[5358.36s] English:** that had like a headpiece like here,  
+**[5358.36s] English:** That had a headpiece, like here,  
 **Translation:** 
 
-**[5360.92s] English:** but you have to wear your helmet when you're firing.  
+**[5360.92s] English:** But you have to wear your helmet when you're firing.  
 **Translation:** 
 
 **[5362.80s] English:** Right.  
 **Translation:** 
 
-**[5363.64s] English:** So you can't have both on.  
+**[5363.64s] English:** So, you can't have both on.  
 **Translation:** 
 
-**[5365.70s] English:** Okay, so how much are you aware of the logistics  
+**[5365.70s] English:** Okay, so how much are you aware of the logistics?  
 **Translation:** 
 
-**[5368.28s] English:** of the whole thing?  
+**[5368.28s] English:** Of the whole thing?  
 **Translation:** 
 
-**[5369.12s] English:** Because that's always fascinating with warfare,  
+**[5369.12s] English:** Because that's always fascinating in warfare.  
 **Translation:** 
 
-**[5371.82s] English:** like in terms of setting up, you mentioned gravel  
+**[5371.82s] English:** Like, in terms of setting up, you mentioned gravel.  
 **Translation:** 
 
-**[5374.86s] English:** and the fobs, like setting all those bases up.  
-**Translation:** 
+**[5374.86s] English:** And the fobs, like setting all those bases up.  
+**Translation:** Vocabulary: gravel: 碎石
 
 **[5377.70s] English:** Were you seeing any of this, or again,  
 **Translation:** 
 
-**[5380.20s] English:** it's a 19-year-old kind of just?  
+**[5380.20s] English:** It's a 19-year-old, kind of just?  
 **Translation:** 
 
 **[5382.10s] English:** Well, it's not that I was oblivious.  
@@ -3661,449 +3662,449 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[5383.50s] English:** That's the one thing I would say I wasn't.  
 **Translation:** Vocabulary: oblivious: 不知情
 
-**[5385.00s] English:** I was, I'm very aware of my surroundings.  
+**[5385.00s] English:** I was, and I am very aware of my surroundings.  
 **Translation:** 
 
-**[5387.02s] English:** That's something that's always been taught to me  
-**Translation:** Vocabulary: surroundings: 四周环境
+**[5387.02s] English:** That's something that's always been taught to me.  
+**Translation:** Vocabulary: surroundings: 环境
 
-**[5388.78s] English:** from a very early age, because I traveled a lot  
+**[5388.78s] English:** From a very early age, because I traveled a lot.  
 **Translation:** 
 
-**[5390.76s] English:** with my dad in the truck.  
+**[5390.76s] English:** With my dad in the truck.  
 **Translation:** 
 
-**[5392.08s] English:** And so my dad would be like, you're gonna go  
+**[5392.08s] English:** And so my dad would be like, "You're gonna go.  
 **Translation:** 
 
-**[5393.72s] English:** into that bathroom, and I'm gonna watch you come out,  
+**[5393.72s] English:** Into that bathroom, and I'm gonna watch you come out.  
 **Translation:** 
 
-**[5395.82s] English:** and you're gonna watch everyone around you,  
+**[5395.82s] English:** And you're going to watch everyone around you,  
 **Translation:** 
 
-**[5397.30s] English:** because people get kidnapped.  
+**[5397.30s] English:** Because people get kidnapped.  
 **Translation:** Vocabulary: kidnapped: 被绑架
 
 **[5398.92s] English:** Like, it's just three.  
 **Translation:** 
 
-**[5400.00s] English:** reality i i was always very paranoid so so you were paying attention to surroundings but the  
+**[5400.00s] English:** Reality is, I was always very paranoid, so you had to pay attention to your surroundings, but  
 **Translation:** Vocabulary: paranoid: 多疑的
 
-**[5407.24s] English:** fob was already built up when we got there okay this is already like well-established bases  
+**[5407.24s] English:** FOB was already built up when we got there, okay. This is already like well-established bases.  
 **Translation:** 
 
-**[5411.44s] English:** already like there's there's established enough all right and that is one of the first times  
+**[5411.44s] English:** Already, there's established enough, all right, and that is one of the first times.  
 **Translation:** 
 
-**[5417.12s] English:** you've heard actual fire yeah that was like the i mean i'd heard it on the when we when we shoot  
+**[5417.12s] English:** You've heard actual fire, yeah? That was like the thing I mean, I'd heard it on the recordings, but this was real.  
 **Translation:** 
 
-**[5423.58s] English:** when we you know zero in weapons and we do all that stuff but i had never heard it heard it like  
+**[5423.58s] English:** When we zero in on weapons and we do all that stuff, but I had never heard it explained like this.  
 **Translation:** 
 
-**[5428.38s] English:** that before and then you would see the the guys the americans would roll out every day and go on  
+**[5428.38s] English:** That before, and then you would see the Americans roll out every day and go on.  
 **Translation:** 
 
-**[5433.96s] English:** patrol and come back back back and so you would see them you would hear them they would tell the  
+**[5433.96s] English:** Patrol and come back, back, back. And so, you would see them; you would hear them; they would tell the.  
 **Translation:** 
 
-**[5438.46s] English:** stories those types of things but i never experienced it because we never we never got  
+**[5438.46s] English:** Stories like those, but I never experienced it because we never did get.  
 **Translation:** 
 
-**[5444.28s] English:** attacked like our base never got hit we were really lucky that way there were other ones around  
+**[5444.28s] English:** Attacked like our base never got hit; we were really lucky that way. There were others around.  
 **Translation:** 
 
-**[5449.44s] English:** us that were getting hit but we weren't we weren't getting hit so that we were very fortunate um at  
+**[5449.44s] English:** That's us that were getting hit, but we weren't—we weren't getting hit, so that we were very fortunate, um, at  
 **Translation:** 
 
-**[5454.82s] English:** least we didn't get hit when i was there i believe the entry  
+**[5454.82s] English:** Least we didn't get hit; I was there, I believe, for the entry.  
 **Translation:** 
 
-**[5458.38s] English:** was the first time we got there was an attempt there was an attempt at some point in a past but  
+**[5458.38s] English:** It was the first time we got there; there was an attempt, there was an attempt at some point in the past, but  
 **Translation:** 
 
-**[5463.18s] English:** i i wasn't privy to that but we were in the op towers so we had to do our own security but  
+**[5463.18s] English:** I wasn't privy to that, but we were in the OP towers, so we had to do our own security but.  
 **Translation:** Vocabulary: privy: 知情
 
-**[5468.46s] English:** because we were such a small subset of canadians and we always had to have people running the guns  
+**[5468.46s] English:** Because we were such a small subset of Canadians, and we always had to have people running the guns.  
 **Translation:** 
 
-**[5472.78s] English:** and ready to run the guns at all times we only had to man one tower so you would do four hour shifts  
+**[5472.78s] English:** And we were ready to run the guns at all times. We only had to man one tower, so you would do four-hour shifts.  
+**Translation:** Vocabulary: shifts: 轮班
+
+**[5478.00s] English:** With a fire team partner in the tower, depending on whatever, but you do it every day, so I would.  
 **Translation:** 
 
-**[5478.00s] English:** with a fire team partner in the tower depending on whatever but you do it every day so i would  
-**Translation:** 
-
-**[5482.80s] English:** look out into the the rest of afghanistan at that opportunity otherwise it was just like your walls  
+**[5482.80s] English:** Look out into the rest of Afghanistan at that opportunity; otherwise, it was just like your walls.  
 **Translation:** Vocabulary: afghanistan: 阿富汗
 
-**[5488.38s] English:** what do they look like is it beautiful just the full landscape or is it where i was there was  
+**[5488.38s] English:** What do they look like? Is it beautiful, just the full landscape, or is it where I was there was?  
 **Translation:** 
 
-**[5495.26s] English:** mountains in the distance it was just very sandy very flat and there was a couple small compounds  
+**[5495.26s] English:** Mountains in the distance, it was just very sandy, very flat, and there were a couple small compounds.  
 **Translation:** 
 
-**[5500.86s] English:** on the outside it wasn't a lot to look there was a long road that you knew that got hit all the time  
+**[5500.86s] English:** On the outside, it wasn't a lot to look at. There was a long road that you knew got hit all the time.  
 **Translation:** 
 
-**[5506.26s] English:** there wasn't a lot to look at such a strange place to be the center of superpowers over the decades  
+**[5506.26s] English:** There wasn't a lot to look at; such a strange place to be the center of superpowers over the decades.  
 **Translation:** 
 
-**[5515.72s] English:** it really is like  
+**[5515.72s] English:** It really is like  
 **Translation:** 
 
-**[5518.38s] English:** and and the fact that the popular  
+**[5518.38s] English:** And the fact that the popular  
 **Translation:** 
 
-**[5520.00s] English:** the civilians are almost completely clueless to the full history of things in terms of globally  
+**[5520.00s] English:** The civilians are almost completely clueless about the full history of things in terms of global events.  
 **Translation:** 
 
-**[5526.00s] English:** the geopolitics of it all yeah well if you look at the location of it right on a map it makes more  
-**Translation:** Vocabulary: clueless: 毫无头绪; geopolitics: 地缘政治; globally: 全球地
-
-**[5531.78s] English:** sense right you can wrap your brain around it but i met plenty of people who had never even seen a  
+**[5526.00s] English:** The geopolitics of it all, yeah. Well, if you look at its location on a map, it makes more sense.  
 **Translation:** 
 
-**[5537.40s] English:** picture of themselves when i was in that country so i mean how much more are they going to understand  
+**[5531.78s] English:** Sense, right? You can't really wrap your brain around it, but I met plenty of people who had never even seen a  
 **Translation:** 
 
-**[5541.20s] English:** if they don't know what even exists outside you tell a small story of taking a picture of a girl  
+**[5537.40s] English:** Picture of themselves when I was in that country, so I mean, how much more are they going to understand?  
 **Translation:** 
 
-**[5549.14s] English:** and showing it to her an afghani girl yeah we were i was with the british at that time  
-**Translation:** Vocabulary: afghani: 阿富汗的
-
-**[5555.14s] English:** and we were on that operation that gets highlighted quite a bit and uh we had stopped  
+**[5541.20s] English:** If they don't know what even exists outside, you could tell a small story about taking a picture of a girl.  
 **Translation:** 
 
-**[5560.94s] English:** and we the icon radios were pinging and icon radios are a radio that we have an interpreter on  
-**Translation:** Vocabulary: highlighted: 被强调; interpreter: 翻译员; pinging: 发出信号
+**[5549.14s] English:** And showing it to her, an Afghan girl, yeah. We were with the British at that time.  
+**Translation:** Vocabulary: afghan: 阿富汗的
 
-**[5567.20s] English:** that the taliban basically we can hear what they're saying it's their comms it's us tapped in  
+**[5555.14s] English:** And we were on that operation that gets highlighted quite a bit, and we had stopped.  
 **Translation:** 
 
-**[5573.16s] English:** when it's really clear they're close when it's scatty and it's they're far enough  
-**Translation:** Vocabulary: scatty: 杂乱无章
+**[5560.94s] English:** And we had Icon Radios pinging, and Icon Radios are radios that we have an interpreter for.  
+**Translation:** Vocabulary: highlighted: 被强调; interpreter: 翻译员; pinging: 发送信号
 
-**[5579.10s] English:** away from the truth but when it's really clear they're close when it's scatty and  
+**[5567.20s] English:** That the Taliban basically, we can hear what they're saying; it's their comms; it's us tapped in.  
 **Translation:** 
 
-**[5579.12s] English:** away normally you know they're not planning an attack although you never know really and we we  
+**[5573.16s] English:** When it's really clear, they're close; when it's scatty, and they're far enough.  
+**Translation:** Vocabulary: scatty: 乱糟糟; tapped: 监听
+
+**[5579.10s] English:** Away from the truth, but when it's really clear, they're close. When it's scatty and  
 **Translation:** 
 
-**[5585.08s] English:** were going door to door kind of like what they're doing now and we were pulling people out of their  
+**[5579.12s] English:** Away, normally, you know, they're not planning an attack, although you never know, really. And we, we...  
 **Translation:** 
 
-**[5590.30s] English:** houses and we knew there were there was people in there that were active taliban and we knew the  
+**[5585.08s] English:** We were going door to door, kind of like what they're doing now, and we were pulling people out of their  
 **Translation:** 
 
-**[5594.60s] English:** icons were pinging when we got in there they had hidden all the women and kids and locked them  
+**[5590.30s] English:** Houses, and we knew there were people in there who were active Taliban, and we knew the  
 **Translation:** 
 
-**[5598.76s] English:** inside the house because often nowadays women the women they would hide things on them that they  
+**[5594.60s] English:** Icons were pinging when we got in there; they had hidden all the women and kids and locked them.  
 **Translation:** 
 
-**[5604.78s] English:** shouldn't have because no one would be ever there to search them because there isn't a lot of women  
+**[5598.76s] English:** Inside the house, because often nowadays women would hide things on themselves.  
 **Translation:** 
 
-**[5608.56s] English:** on the front lines but i got borrowed to go specifically search women and children so they  
+**[5604.78s] English:** Shouldn't have, because no one would ever be there to search them, because there aren't a lot of women.  
 **Translation:** 
 
-**[5613.82s] English:** had me and one of the little girls kind of snuck out and was kind of sitting near me and i was  
+**[5608.56s] English:** On the front lines, but I got borrowed to go specifically search for women and children, so they  
 **Translation:** 
 
-**[5619.76s] English:** eating something and i had like these little these little candies they're called little sweeties the  
-**Translation:** Vocabulary: snuck: 偷偷进入; sweeties: 小糖果
-
-**[5624.70s] English:** british have them in the ration packs i don't know they're good though and she saw me eating them and  
+**[5613.82s] English:** Had me and one of the little girls kind of sneak out, and we were kind of sitting near me and I was  
 **Translation:** 
 
-**[5628.96s] English:** so i gave them to her and then her brother came over and slapped her upside the head and took  
-**Translation:** Vocabulary: upside: 头上
+**[5619.76s] English:** Eating something, and I had these little candies. They're called Little Sweeties.  
+**Translation:** Vocabulary: sweeties: 小甜豆
 
-**[5632.86s] English:** them from her so then i just went over and slapped him upside the head and just pointed my gun at her  
+**[5624.70s] English:** The British have them in the ration packs, I don't know if they're good though. And she saw me eating them and  
 **Translation:** 
 
-**[5636.60s] English:** while she ate them all yeah because i was like  
+**[5628.96s] English:** So I gave them to her, and then her brother came over and slapped her upside the head and took them.  
+**Translation:** Vocabulary: ration: 定量配给; slapped: 拍打; upside: 上方
+
+**[5632.86s] English:** They wouldn't listen to her, so then I just went over and slapped him upside the head and just pointed my gun at her.  
 **Translation:** 
 
-**[5638.54s] English:** no yeah  
+**[5636.60s] English:** While she ate them all, yeah, because I was like  
 **Translation:** 
 
-**[5640.00s] English:** like you can have these i'm gonna stand here and make sure you do and i remember asking can i take  
+**[5638.54s] English:** No, yeah.  
 **Translation:** 
 
-**[5645.92s] English:** a picture with her i asked the trip can you ask her can i take a picture with her um and she was  
+**[5640.00s] English:** Like, you can have these; I'm gonna stand here and make sure you do. I remember asking if I could take.  
 **Translation:** 
 
-**[5651.12s] English:** very confused and when you look at the photo you see her face she's very stunned she's very stunned  
+**[5645.92s] English:** A picture with her? I asked, "Can you ask her if I can take a picture with her?" And she was  
 **Translation:** 
 
-**[5656.00s] English:** and it was a wasn't my camera it was my officer's camera it was a hot pink like fluorescent pink  
+**[5651.12s] English:** Very confused, and when you look at the photo, you see her face; she's very stunned.  
+**Translation:** Vocabulary: stunned: 惊讶
+
+**[5656.00s] English:** And it was a... wasn't my camera; it was my officer's camera. It was a hot pink, like fluorescent pink.  
 **Translation:** 
 
-**[5661.68s] English:** camera so i pulled this like huge pink thing and i'm like let's take a picture like and so she  
-**Translation:** Vocabulary: fluorescent: 荧光的
-
-**[5667.60s] English:** stood there and took a picture but then she grabbed the camera because i flipped it and  
+**[5661.68s] English:** Camera, so I pulled this huge pink thing out and I'm like, "Let's take a picture," and so she...  
 **Translation:** 
 
-**[5670.80s] English:** showed it to her and her eyes got huge and she grabbed it she ran inside and they're like oh  
+**[5667.60s] English:** Stood there and took a picture, but then she grabbed the camera because I flipped it and...  
 **Translation:** 
 
-**[5676.40s] English:** that's gone forever like that's it's over for you and then she came out and she kind of snuck out  
+**[5670.80s] English:** Showed it to her, and her eyes got huge. She grabbed it, ran inside, and they're like, "Oh...  
+**Translation:** Vocabulary: flipped: 倒过来
+
+**[5676.40s] English:** That's gone forever. It's over for you, and then she came out and she kind of snuck out.  
 **Translation:** 
 
-**[5682.72s] English:** and i went in and grabbed it and the mom lifted up her burka and was showing me that she like  
-**Translation:** Vocabulary: burka: 面纱
+**[5682.72s] English:** And I went in and grabbed it, and the mom lifted up her burka and was showing me that she liked  
+**Translation:** Vocabulary: burka: 面纱; snuck: 溜走
 
-**[5686.56s] English:** shaped her legs to be more western and i was just at that moment  
+**[5686.56s] English:** Shaped her legs to be more Western, and I was just at that moment.  
 **Translation:** 
 
-**[5696.88s] English:** i don't know  
+**[5696.88s] English:** I don't know.  
 **Translation:** 
 
-**[5697.60s] English:** that i could have realized how much that moment affected me  
+**[5697.60s] English:** That I could have realized how much that moment affected me.  
 **Translation:** 
 
-**[5702.32s] English:** how much how much that moment would affect me later on in my life  
+**[5702.32s] English:** How much would that moment affect me later on in my life?  
 **Translation:** 
 
-**[5706.32s] English:** until it's been later on in my life yeah there's little like glimmers like that in uh  
+**[5706.32s] English:** Until it's been later on in my life, yeah, there are little glimmers like that in...  
 **Translation:** 
 
-**[5714.16s] English:** in parts of the world that are basically you're taking away everything from the populace like  
-**Translation:** Vocabulary: glimmers: 微光; populace: 民众
+**[5714.16s] English:** In parts of the world, you're basically taking away everything from the populace, like  
+**Translation:** Vocabulary: populace: 民众
 
-**[5719.76s] English:** freedoms and and so on and when they um when you see that glimmer of humanity like yeah  
+**[5719.76s] English:** Freedoms, and so on. And when you see that glimmer of humanity, like, yeah.  
 **Translation:** 
 
-**[5726.48s] English:** shave legs or or or like using technology for the first time it's magic or like food  
+**[5726.48s] English:** Shave legs, or like, using technology for the first time is magic—or like food.  
 **Translation:** Vocabulary: glimmer: 微光
 
-**[5733.44s] English:** being presented with certain kinds of foods that you've never tried i mean  
+**[5733.44s] English:** Being presented with certain kinds of foods that you've never tried, I mean,  
 **Translation:** 
 
-**[5736.96s] English:** right you want to see true like joy of discovery is you brings  
+**[5736.96s] English:** Right; you want to see the true joy of discovery, it's when you bring  
 **Translation:** 
 
-**[5744.00s] English:** basically the american supermarket anything from it to most parts of the world and they  
+**[5744.00s] English:** Basically, the American supermarket offers almost everything from it to most parts of the world, and they  
 **Translation:** 
 
-**[5749.44s] English:** yeah i just i mean i remember even i mean we weren't like in poverty in in russia just poor  
+**[5749.44s] English:** Yeah, I just mean I remember even—we weren't like in poverty in Russia; we were just poor.  
 **Translation:** 
 
-**[5756.48s] English:** Just the supermarket was full of joy.  
+**[5756.48s] English:** Just the supermarket was full of joy!  
 **Translation:** 
 
 **[5758.46s] English:** I thought I could just die.  
 **Translation:** 
 
-**[5760.00s] English:** happy in an american supermarket when i first saw it and how old were you when you came here 13  
+**[5760.00s] English:** Happy in an American supermarket when I first saw it, and how old were you when you came here? 13.  
 **Translation:** 
 
-**[5764.58s] English:** did you speak english yeah not well i thought i was i never was good at languages so i it was  
+**[5764.58s] English:** Did you speak English? Yeah, not very well. I thought I was never good at languages, so I didn't.  
 **Translation:** 
 
-**[5772.42s] English:** very much like why would i need to learn another language okay it was that attitude is very like  
+**[5772.42s] English:** Very much like, why would I need to learn another language? Okay, it was that attitude.  
 **Translation:** 
 
-**[5779.36s] English:** doesn't i don't know well no i think culturally in not in america but everywhere else in the world  
+**[5779.36s] English:** Doesn't, I don't know. Well, no, I think culturally, it's not in America, but everywhere else in the world.  
 **Translation:** Vocabulary: culturally: 文化上
 
-**[5787.26s] English:** it's constantly kind of seen it's a good thing to do to learn other languages because especially  
+**[5787.26s] English:** It's constantly seen as a good thing to do to learn other languages, because especially  
 **Translation:** 
 
-**[5793.80s] English:** english because it's like that's the language of the world right and i i just thought like um  
+**[5793.80s] English:** English, because it's like that's the language of the world, right? And I just thought, um,...  
 **Translation:** 
 
-**[5799.42s] English:** i don't need english to discover the beauty of the world like what it just doesn't like i enjoy  
+**[5799.42s] English:** I don't need English to discover the beauty of the world; it's just that I enjoy it.  
 **Translation:** 
 
-**[5804.72s] English:** life i enjoy soccer i enjoy i mean i don't remember what else i enjoyed in life but math  
+**[5804.72s] English:** Life; I enjoy soccer. I enjoy—I mean, I don't remember what else I enjoyed in life, but math.  
 **Translation:** 
 
-**[5810.50s] English:** like why do i need english for this so that kind of attitude got me a lot of trouble when i came  
+**[5810.50s] English:** Like, why do I need English for this? So, that kind of attitude got me into a lot of trouble when I came.  
 **Translation:** 
 
-**[5815.90s] English:** here because i i  
+**[5815.90s] English:** Here because I'm  
 **Translation:** 
 
-**[5817.26s] English:** couldn't you're reluctant yeah but also just couldn't speak well and when you move 13 years  
+**[5817.26s] English:** Couldn't you're reluctant, yeah, but also just couldn't speak well, and when you move 13 years.  
 **Translation:** 
 
-**[5822.70s] English:** old as middle school you get made fun of a lot you get bullied and all those kinds of things  
-**Translation:** Vocabulary: reluctant: 不愿意
+**[5822.70s] English:** Old as middle school, you get made fun of a lot, you get bullied, and all those kinds of things.  
+**Translation:** Vocabulary: bullied: 被欺负; reluctant: 不愿意
 
-**[5827.72s] English:** which in retrospect is a very positive thing because it makes you harder it i thought being  
+**[5827.72s] English:** Which, in retrospect, is a very positive thing because it makes you harder to fool. I thought being  
 **Translation:** 
 
-**[5833.92s] English:** russian would make be like hard enough no well me everyone is different i mean the part of the  
+**[5833.92s] English:** Russian would make it be like hard enough, no? Well, me and everyone is different; I mean, the part of the...  
 **Translation:** Vocabulary: retrospect: 回顾
 
-**[5839.58s] English:** russian thing is uh it's kind of you know i'm joking because if you know me i admire being  
+**[5839.58s] English:** Russian thing is, uh, it's kind of like you know, I'm just joking because if you know me, I admire being...  
 **Translation:** 
 
-**[5847.14s] English:** hard enough  
+**[5847.14s] English:** Hard enough.  
 **Translation:** 
 
-**[5847.26s] English:** hard i admire fighting and these kinds of things right these um what would you call them struggle  
+**[5847.26s] English:** Hard, I admire fighting and these kinds of things, right? These um, what would you call them, struggles.  
 **Translation:** 
 
-**[5853.74s] English:** in all of its forms martial arts wrestling all those kinds of things but i'm all ultimately like  
+**[5853.74s] English:** In all of its forms, from martial arts to wrestling—those kinds of things—but I'm ultimately like  
 **Translation:** Vocabulary: martial: 武术; wrestling: 摔跤
 
-**[5858.58s] English:** i'm so much about love like i'm clearly sensitive to the world in some weird genetic way that um  
+**[5858.58s] English:** I'm so into love; like, I'm clearly sensitive to the world in some weird genetic way, um,...  
 **Translation:** 
 
-**[5865.06s] English:** it was important for me to harden up when i when i came here and i was in love with people and it's  
+**[5865.06s] English:** It was important for me to harden up when I came here, and I was in love with people, and it's  
 **Translation:** 
 
-**[5871.48s] English:** like and everybody's being mean to me and it's like what it yeah that it's like it's a little  
+**[5871.48s] English:** Like, and everybody's being mean to me, and it's like, "Yeah, that it's like, it's a little...  
 **Translation:** 
 
-**[5876.06s] English:** like yeah  
+**[5876.06s] English:** Like, yeah.  
 **Translation:** 
 
-**[5877.14s] English:** like slap like okay like  
+**[5877.14s] English:** Like, slap, like okay, like.  
 **Translation:** 
 
-**[5880.00s] English:** it's not like life is not often fair and then that's when for me personally everybody has  
+**[5880.00s] English:** It's not like life is not often unfair, and then that's when, for me personally, everyone has  
 **Translation:** 
 
-**[5885.00s] English:** different journeys of hardship that are much much more difficult like your story is much more  
+**[5885.00s] English:** Different journeys of hardship that are much, much more difficult; like yours, is much more.  
 **Translation:** 
 
-**[5890.02s] English:** difficult uh is you know i started to read a lot it's like something happens some kind of challenge  
+**[5890.02s] English:** Difficult, uh, is that I started to read a lot; it's like something happens, some kind of challenge.  
+**Translation:** Vocabulary: hardship: 艰难困苦
+
+**[5896.68s] English:** Where do you start to think about the world, start to think about yourself—that can ultimately...  
 **Translation:** 
 
-**[5896.68s] English:** where you start to think about the world start to think about yourself that that can ultimately  
+**[5901.84s] English:** Create really interesting minds; it can break some people, but it can also create interesting minds, and it's  
 **Translation:** 
 
-**[5901.84s] English:** create really interesting minds it can break some people it can create interesting minds and it's  
+**[5908.10s] English:** Ultimately, your choice, and then they just need to be weeded out. I thought we talked about this.  
 **Translation:** 
 
-**[5908.10s] English:** ultimately your choice and then they just need to be weeded out i thought we talked about this  
+**[5912.16s] English:** Yeah, the strong will survive; the weak will die off. Yeah, now you're talking Russian to me.  
+**Translation:** Vocabulary: weeded: 淘汰
+
+**[5918.64s] English:** I'm not speaking Russian; I'm just giving solid life advice: just be harder, and then everyone will...  
 **Translation:** 
 
-**[5912.16s] English:** yeah the strong will survive the weak will die off yeah now now you're talking uh russian to me  
+**[5924.82s] English:** Be fine, uh, yeah. That's your inner David Goggans coming out, real quick, here. Okay, the FOB, yeah, and  
+**Translation:** Vocabulary: goggans: 戈甘斯
+
+**[5932.40s] English:** Then I was just explaining to you that the way it is run, you're gonna love this when we walk.  
 **Translation:** 
 
-**[5918.64s] English:** i'm not speaking russian i'm just giving solid life advice just be harder and then everyone will  
+**[5938.08s] English:** Up to those tents for the first time, the people that were there before us left us a noose.  
+**Translation:** Vocabulary: noose: 绳圈
+
+**[5944.88s] English:** I have a photo of it, like is it hanging from the tent at the front of it?  
 **Translation:** 
 
-**[5924.82s] English:** be fine uh yeah that's your inner david goggins coming out real quick here okay the fob yeah and  
+**[5949.84s] English:** Tent-like welcome, so you were also mentioning that the dark humor of it is basically a  
 **Translation:** 
 
-**[5932.40s] English:** then i was just explaining to you that the way it is run you're gonna love this when we walk  
+**[5956.48s] English:** Funny joke, correct? Yeah, it was funny at first. It's pretty funny. It was funny during the time.  
 **Translation:** 
 
-**[5938.08s] English:** up to those tents for the first time the people that were there before us left us a noose  
-**Translation:** Vocabulary: noose: 绳圈绞索
-
-**[5944.88s] English:** i have a photo of it like is it is that like hanging from the tent like at the front of the  
+**[5962.48s] English:** Now, when I look back at it, I was like, "Come on, that was a poof!  
 **Translation:** 
 
-**[5949.84s] English:** tent like welcome so you were also mentioning like the the dark humor of it is it basically a  
+**[5968.08s] English:** I mean, I get it because they had already been there, and like, so I can see how it's  
 **Translation:** 
 
-**[5956.48s] English:** funny joke correct yeah it was funny at first it's pretty funny it was funny during the time  
+**[5972.88s] English:** Funny, um, now with the suicide epidemic in the veteran community, I'm like, I don't post that.  
+**Translation:** Vocabulary: epidemic: 流行; veteran: 退伍军人
+
+**[5979.36s] English:** Photo really doesn't it? So, does that dark humor still somehow help, even when you're considering suicide?  
 **Translation:** 
 
-**[5962.48s] English:** now when i look back at it i was like come on that was a poof  
+**[5985.28s] English:** Doesn't it? Some of it, somehow, it's like you're not hiding it. It's like humor is one of the ways.  
 **Translation:** 
 
-**[5968.08s] English:** i mean i get it because they had already been there and like so i afterwards i can see how it's  
+**[5993.92s] English:** To reveal the reality of a busty artist with this funny face and those singletons of eyebrows.  
 **Translation:** 
 
-**[5972.88s] English:** funny um now with like the suicide epidemic in the veteran community now i'm like i don't post that  
-**Translation:** Vocabulary: epidemic: 流行病
-
-**[5979.36s] English:** photo really so doesn't that dark humor still somehow help even when you're considering suicide  
+**[5994.88s] English:** True, I mean.  
 **Translation:** 
 
-**[5985.28s] English:** doesn't it some of it somehow it's like you're not hiding it it's it's like humor is one of the way  
+**[5996.08s] English:** You don't really.  
 **Translation:** 
 
-**[5993.92s] English:** to reveal the reveal the reality of a busty artist with this funny face with those singletons of a  
+**[5997.18s] English:** Jump on the way of theâm.  
 **Translation:** 
 
-**[5994.88s] English:** true i meanゃ  
-**Translation:** Vocabulary: busty: 丰满; singletons: 单身
-
-**[5996.08s] English:** you don't really  
+**[5997.28s] English:** It's like a one-on-one with some girls, um, hi, hi, hi, como, how we usually do. She depends on your  
 **Translation:** 
 
-**[5997.18s] English:** jump on the way of theâm  
+**[5997.98s] English:** Abuse of suffering.  
 **Translation:** 
 
-**[5997.28s] English:** it's like a one-on-one with some girls um hi hi hi como how we лег �w必 do she depending on your  
+**[6000.00s] English:** You look at there's this photo that generates around right around Suicide Prevention Month.  
 **Translation:** 
 
-**[5997.98s] English:** abuse of suffering.  
+**[6003.94s] English:** Which is September, and it's always like a photo of Robin Williams and Bourdain and all of  
+**Translation:** Vocabulary: bourdain: 布鲁诺·戴恩; generates: 产生; prevention: 预防
+
+**[6009.58s] English:** These other individuals, who are comedians, who all took their lives, and they're all smiling.  
 **Translation:** 
 
-**[6000.00s] English:** you look at there's this photo that generates around right around suicide prevention month  
+**[6014.54s] English:** And they're like, "This is the face of depression." There's a way our brains work where humor can be used as a coping mechanism.  
+**Translation:** Vocabulary: comedians: 喜剧演员
+
+**[6021.54s] English:** Is a necessary part of survival, whether it's used for joyful things or it's used for  
 **Translation:** 
 
-**[6003.94s] English:** which is september and it's always like a photo of like robin williams and bourdain and all of  
+**[6029.30s] English:** Ways to cope through life, for me in the military, humor was one of the things that helped get me through.  
 **Translation:** 
 
-**[6009.58s] English:** these other individuals who are comedians who all took their lives and they're all smiling  
+**[6034.16s] English:** Through, and it still does to this day, frankly, because of humor.  
 **Translation:** 
 
-**[6014.54s] English:** and they're like this is the face of depression there's a way our brains work where humor  
+**[6038.54s] English:** Humor makes some of the horrific things I say not seem so horrific.  
+**Translation:** Vocabulary: frankly: 坦白地说; horrific: 可怕的
+
+**[6045.10s] English:** And people can digest it rather than being like you need to lock them up somewhere.  
 **Translation:** 
 
-**[6021.54s] English:** is a necessary part of survival whether it's used for joyous things or it's used for  
+**[6052.56s] English:** Yeah, that's why I mean, one of the aspects of Russian humor is a darkness to it, because  
 **Translation:** 
 
-**[6029.30s] English:** ways to cope through life for me in the military humor was one of the things that helped get me  
+**[6059.30s] English:** Um, through it reverberates all the millions of people who died—right? It seems like the only  
 **Translation:** 
 
-**[6034.16s] English:** through and it still does to this day frankly because humor  
+**[6067.58s] English:** A way to make sense of it is to joke about it. I still love it because if you don't, it'll break.  
 **Translation:** 
 
-**[6038.54s] English:** humor makes some of the horrific things i say not seem so horrific  
-**Translation:** Vocabulary: horrific: 恐怖的
-
-**[6045.10s] English:** and people can digest it rather than being like you need to be locked up somewhere  
+**[6072.26s] English:** You know, something like that, or also humor just seems to be the highest form of expression for us humans, and  
 **Translation:** 
 
-**[6052.56s] English:** yeah that's why i mean one one of the aspects of russian humor there's a darkness to it because  
-**Translation:** 
-
-**[6059.30s] English:** um through it reverberates all the the millions of people who died right it seems like the only  
-**Translation:** 
-
-**[6067.58s] English:** way to make sense of it is to joke about it i still love it because if you don't it'll break  
-**Translation:** 
-
-**[6072.26s] English:** you yeah something like that or also humor just seems to be the highest form of us humans and the  
-**Translation:** 
-
-**[6080.94s] English:** human experience it just seems it seems to somehow uh accumulate the full thing the absurdity of it  
+**[6080.94s] English:** Human experience: it just seems to somehow accumulate, the full thing—the absurdity of it.  
 **Translation:** Vocabulary: absurdity: 荒谬; accumulate: 积累
 
-**[6087.84s] English:** the unfairness of it the  
+**[6087.84s] English:** The unfairness of it.  
 **Translation:** 
 
-**[6089.30s] English:** because like ultimately all the suffering is like it's all just apes fighting for power and love  
+**[6089.30s] English:** Because, like, ultimately, all the suffering is just apes fighting for power and love.  
 **Translation:** 
 
-**[6095.62s] English:** and somehow torturing each other in the process hello podcast listener lex here quick intermission  
+**[6095.62s] English:** And somehow, they were torturing each other in the process. Hello, podcast listener! Lex here, quick intermission.  
 **Translation:** 
 
-**[6103.22s] English:** to say that some of the names in the following story have been silenced out to protect their  
-**Translation:** Vocabulary: intermission: 休息时段; listener: 听众; torturing: 折磨
+**[6103.22s] English:** To say that some of the names in the following story have been omitted to protect their identities.  
+**Translation:** Vocabulary: intermission: 休息时段; listener: 听众; omitted: 省略; torturing: 折磨
 
-**[6108.30s] English:** privacy the story of um and witnessing i think your first somebody  
+**[6108.30s] English:** Privacy: The Story of Um, and Witnessing. I Think Your First Somebody.  
 **Translation:** 
 
-**[6119.30s] English:** you met  
-**Translation:** Vocabulary: witnessing: 目击
+**[6119.30s] English:** You met.  
+**Translation:** Vocabulary: witnessing: 作证
 
 **[6120.00s] English:** Somebody you saw, somebody you began to be close with, his life, him dying.  
 **Translation:** 
@@ -4117,19 +4118,19 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[6132.78s] English:** That's no problem.  
 **Translation:** 
 
-**[6134.56s] English:** I will tell you that I am going to leave some of the names out of the people because they have reached out and asked that I do such.  
+**[6134.56s] English:** I will tell you that I am going to leave some of the names out of the list because they have reached out and asked that I do so.  
 **Translation:** 
 
-**[6143.74s] English:** I've also been informed of other things I forgot that happened during the thing that were way worse than I thought.  
+**[6143.74s] English:** I've also been informed of other things I forgot that happened during the event, which were way worse than I thought.  
 **Translation:** 
 
-**[6150.10s] English:** So I'll try to add those in because that's new information to me because my brain has blocked it out.  
+**[6150.10s] English:** So, I'll try to add those in because that's new information to me, as my brain has blocked it out.  
 **Translation:** 
 
 **[6155.26s] English:** But I've been told, which is good because it's better detail.  
 **Translation:** 
 
-**[6159.24s] English:** So we were doing a movement that morning and we were going from compound to compound.  
+**[6159.24s] English:** So, we were doing a movement that morning and we were going from compound to compound.  
 **Translation:** 
 
 **[6166.88s] English:** I was never told what we were doing.  
@@ -4147,29 +4148,29 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[6176.88s] English:** I wasn't there for that.  
 **Translation:** 
 
-**[6178.04s] English:** My job was specifically to...  
+**[6178.04s] English:** My job was specifically to....  
 **Translation:** 
 
-**[6180.00s] English:** To look after the women and children and to provide support if need be.  
+**[6180.00s] English:** To look after the women and children, and to provide support if needed.  
 **Translation:** 
 
-**[6184.58s] English:** And when you have certain people, so i.e. the bomb dog handler and the bomb dog, and then you have the medics, and then you have like a female searcher, that there's only one of those in each unit.  
+**[6184.58s] English:** And when you have certain people, such as the bomb-dog handler and the bomb dog, and then you have the medics, and then you have a female searcher (there's only one of those in each unit).  
 **Translation:** 
 
-**[6197.40s] English:** Or if there's even one in each unit.  
+**[6197.40s] English:** Or, if there's even one in each unit.  
 **Translation:** 
 
 **[6199.98s] English:** I got passed between units so that they could have access to me for both.  
 **Translation:** 
 
-**[6205.70s] English:** And we were kind of sitting and we were waiting for the all clear to move.  
+**[6205.70s] English:** And we were kind of sitting and waiting for the all-clear to move.  
 **Translation:** 
 
-**[6210.00s] English:** And at that time, the compound wall I was leaning up against, I had my back up against, I wasn't facing the direct direction where it actually blew up.  
+**[6210.00s] English:** And at that time, the compound wall I was leaning up against—my back was up against it—I wasn't facing the direct direction where it actually blew up.  
 **Translation:** 
 
-**[6222.14s] English:** I had my back to it and I had happened to turn and look to the left and on the right hand side, across the road of where we were leaned up against, was another compound two stories high, people inside, a sniper on the roof and a spotter.  
-**Translation:** 
+**[6222.14s] English:** I had my back to it, and I had happened to turn and look to the left. On the right-hand side, across the road where we were leaning up against, was another compound, two stories high. People were inside, a sniper on the roof, and a spotter.  
+**Translation:** Vocabulary: leaning: 倚靠; sniper: 狙击手
 
 **[6238.08s] English:** There was a handgun.  
 **Translation:** 
@@ -4186,730 +4187,730 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[6239.98s] English:** There was a handgun.  
 **Translation:** 
 
-**[6240.00s] English:** handful of us on this wall and in front of me there was a road the road went straight  
+**[6240.00s] English:** A handful of us on this wall, and in front of me there was a road. The road went straight.  
 **Translation:** 
 
-**[6248.56s] English:** that compounds here there's another road here on the right hand side in front of it and then  
+**[6248.56s] English:** That compound here: there's another road on the right-hand side, in front of it, and then  
 **Translation:** 
 
-**[6253.72s] English:** this road went along here and this was a wide open space just a huge we hate those you hate those  
+**[6253.72s] English:** This road went along here, and this was a wide-open space—just a huge area. We hate those; you hate those.  
 **Translation:** 
 
-**[6261.76s] English:** because it's too much space it's too easy it's like fish in a barrel you don't want to be in  
+**[6261.76s] English:** Because it's too much space, it's too easy — it's like fish in a barrel. You don't want to be in.  
 **Translation:** 
 
-**[6267.18s] English:** that field um because there's too much uh line of sight line of sight could be ieds it could be it  
+**[6267.18s] English:** That field, um, because there's too much line-of-sight. Line of sight could be IEDs; it could be...  
 **Translation:** 
 
-**[6274.08s] English:** could be it could be anything and so uh when i was leaning up against the wall we'd send a couple  
+**[6274.08s] English:** Could be it could be anything, and so when I was leaning up against the wall, we'd send a couple.  
 **Translation:** 
 
-**[6283.64s] English:** people ahead to go and clear the road so that we could all go along it and then clear the grape  
+**[6283.64s] English:** People ahead went and cleared the road so that we could all go along it, and then clear the grapes.  
 **Translation:** 
 
-**[6289.78s] English:** hop off to the left hand side we were doing that because they used those locations to put ieds  
+**[6289.78s] English:** Hop off to the left-hand side. We were doing that because they used those locations to place IEDs.  
 **Translation:** 
 
-**[6296.40s] English:** so that  
+**[6296.40s] English:** So that  
 **Translation:** 
 
-**[6297.18s] English:** when you're going to search it it's just it's it's a better chance of of you blowing into a  
+**[6297.18s] English:** When you're going to search it, it's just a better chance of you blowing into a  
 **Translation:** 
 
-**[6302.10s] English:** million pieces essentially why they love that put bombs in small places send people into small  
+**[6302.10s] English:** Million pieces essentially, why they love that: put bombs in small places, send people into small.  
 **Translation:** 
 
-**[6306.66s] English:** places small places go boom they paint the walls so we were just kind of sitting and waiting  
+**[6306.66s] English:** Places, small places go boom. They paint the walls, so we were just kind of sitting and waiting.  
 **Translation:** 
 
-**[6312.40s] English:** and then i turned happened to turn i was looking in that direction and i heard the ground shake  
+**[6312.40s] English:** And then I turned, happened to be looking in that direction, and I heard the ground shake.  
 **Translation:** 
 
-**[6318.56s] English:** before i even realized what i was seeing with my own eyes the ground shook and i saw  
+**[6318.56s] English:** Before I even realized what I was seeing with my own eyes, the ground shook, and I saw,...  
 **Translation:** 
 
-**[6327.18s] English:** a big piece of a body i think it was the torso just kind of fly through the air  
+**[6327.18s] English:** A big piece of a body, I think it was the torso, just kind of flew through the air.  
 **Translation:** Vocabulary: torso: 躯干
 
-**[6335.18s] English:** and land into the field and as soon as that happened all hell broke loose it was like the  
+**[6335.18s] English:** And land into the field, and as soon as that happened, all hell broke loose. It was like the  
 **Translation:** 
 
-**[6341.66s] English:** they were sitting and watching and waiting and they do that and i say they i mean the taliban  
+**[6341.66s] English:** They were sitting and watching and waiting, and they do that. I mean, the Taliban.  
 **Translation:** 
 
-**[6345.88s] English:** they do that they they love that because then they can record it for propaganda and they can  
+**[6345.88s] English:** They do that, they love that because then they can record it for propaganda and they can.  
 **Translation:** 
 
-**[6350.30s] English:** use it against us and they just love being able to take take our people out and we had the  
+**[6350.30s] English:** Use it against us, and they just love being able to take our people out. We had the  
+**Translation:** Vocabulary: propaganda: 宣传
+
+**[6355.86s] English:** Interpreter sitting beside me, and I was like, "Oh my God, I'm so sorry. I'm so sorry. I'm so sorry." I'm so  
 **Translation:** 
 
-**[6355.86s] English:** interpreter sitting beside me and i was like oh my god i'm so sorry i'm so sorry i'm so sorry i'm so  
+**[6357.18s] English:** Sorry, I'm so sorry, I'm so sorry, I'm so sorry, I'm so sorry, I'm so sorry, I'm so sorry.  
 **Translation:** 
 
-**[6357.18s] English:** sorry i'm so sorry i'm so sorry i'm so sorry i'm so sorry i'm so sorry i'm so sorry i'm so sorry  
+**[6357.90s] English:** And he had the icon radio on, and it's  
 **Translation:** 
 
-**[6357.90s] English:** and he had the icon radio on and it's  
+**[6360.00s] English:** Soon as the blast went off, I heard just the scream—like, I just heard it and I knew what that was.  
 **Translation:** 
 
-**[6360.00s] English:** soon as the blast went off I heard just the scream of like I just I heard it and I knew what that  
+**[6367.78s] English:** Meant, but I couldn't; I didn't understand what was about to happen. I couldn't wrap my  
 **Translation:** 
 
-**[6367.78s] English:** meant but I couldn't I didn't understand what was about to happen I couldn't I couldn't wrap my  
+**[6377.50s] English:** Brainstorming about what was about to happen because I had never been outside the wire, and people are  
+**Translation:** Vocabulary: brainstorming: 头脑风暴
+
+**[6385.28s] English:** Like, people say to me now, "No, no, there's no way that's true. There's no way.  
 **Translation:** 
 
-**[6377.50s] English:** brain around what was about to happen because I had never been outside the wire and people are  
+**[6390.26s] English:** That she was involved in that, and then that, and then in that, and then in that. Well, let me.  
 **Translation:** 
 
-**[6385.28s] English:** like people say to me now they're like no no there's no way that shit's true there's no way  
+**[6394.06s] English:** Explain: I was one person, being passed around to different units, and I was with a ton of different people.  
 **Translation:** 
 
-**[6390.26s] English:** that she was involved in that and then then that and then in that and then in that well let me  
+**[6404.66s] English:** I had no comms and I was just being told where to go, um, and I just happened to be like a shit.  
 **Translation:** 
 
-**[6394.06s] English:** explain I was one person I was being passed around to units I was with a ton of different people  
+**[6414.68s] English:** Hit the fan.  
 **Translation:** 
 
-**[6404.66s] English:** I had no comms and I was just being told where to go um and I just happened to be like a shit  
-**Translation:** 
-
-**[6414.68s] English:** hit the fan  
-**Translation:** 
-
-**[6415.26s] English:** magnet it felt like and then I found out later it was not just me it was all of us were getting it  
+**[6415.26s] English:** Magnet, it felt like, and then I found out later it was not just me; it was all of us getting it.  
 **Translation:** Vocabulary: magnet: 磁铁
 
-**[6421.44s] English:** so that made me feel better because then I was like well I have a lot of survivor's guilt that's  
+**[6421.44s] English:** So, that made me feel better because then I was like, "Well, I have a lot of survivor's guilt," that's  
 **Translation:** 
 
-**[6426.36s] English:** like a thing that's still stuck with me I've worked through a lot of shit but survivor's  
+**[6426.36s] English:** Like a thing that's still stuck with me, I've worked through a lot of shit, but survivor's.  
 **Translation:** 
 
-**[6430.76s] English:** guilt that's a big one for me certain food is a big one for me um and my food yeah uh skin on food  
+**[6430.76s] English:** Guilt—that's a big one for me. Certain foods are a big one for me, um, and my food... yeah, uh, skin on food.  
 **Translation:** 
 
-**[6439.46s] English:** so like chicken with skin on it oh just because of the  
+**[6439.46s] English:** So, like chicken with skin on it, oh, just because of the  
 **Translation:** 
 
-**[6445.26s] English:** the biology of death just well when you hold people's bodies in your hands with no gloves on  
+**[6445.26s] English:** The biology of death: just when you hold people's bodies in your hands with no gloves on.  
 **Translation:** 
 
-**[6451.26s] English:** you know what that feels like when you touch raw meat again it's the same thing that's what  
+**[6451.26s] English:** You know, what that feels like when you touch raw meat again? It's the same thing—that's what.  
 **Translation:** 
 
-**[6457.56s] English:** that feels like when when it's a dying or dead body well my friend was blown into a million  
+**[6457.56s] English:** That feels like when it's a dying or dead body. Well, my friend was blown to pieces into a million.  
 **Translation:** 
 
-**[6462.12s] English:** pieces so I just had pieces of him so there was no there was no differentiator of like this was  
+**[6462.12s] English:** Pieces, so I just had pieces of him. So there was no differentiator of like this was.  
+**Translation:** Vocabulary: differentiator: 区分标志
+
+**[6472.98s] English:** His thigh, or this was his torso.  
 **Translation:** 
 
-**[6472.98s] English:** his thigh or this was his torso  
-**Translation:** 
-
-**[6475.26s] English:** or there was like there was none of that there was only one instance with the  
+**[6475.26s] English:** Or, there was none of that. There was only one instance with the  
 **Translation:** Vocabulary: torso: 躯干
 
-**[6480.00s] English:** but um but i i what i i at that point we had been in some firefights we had been taking some rounds  
+**[6480.00s] English:** But, um, at that point, we had been in some firefights and we had been taking some rounds.  
 **Translation:** 
 
-**[6488.86s] English:** but it was more like take around we would you know get hit and then we duck into a compound  
+**[6488.86s] English:** But it was more like, "take around," we would you know, get hit, and then we'd duck into a compound.  
 **Translation:** Vocabulary: firefights: 战斗
 
-**[6495.60s] English:** and we would set up and then we'd be firing i wasn't i wasn't really involved in a lot of  
+**[6495.60s] English:** And we would set up, and then we'd be firing. I wasn't really involved in a lot of that.  
 **Translation:** 
 
-**[6500.08s] English:** the firefights until after this after that the rest of the week i was like i was angry and i  
+**[6500.08s] English:** The firefights continued until after that. After that, for the rest of the week, I was angry and I...  
 **Translation:** 
 
-**[6504.70s] English:** wanted them all to go and i wanted to be in every position to take them out myself so i put myself  
+**[6504.70s] English:** Wanted them all to go, and I wanted to be in every position to take them out myself, so I put myself  
 **Translation:** 
 
-**[6509.14s] English:** in every position so i made sure i was on the roof i made sure i was there i made sure hey you  
+**[6509.14s] English:** In every position, so I made sure I was on the roof; I made sure I was there. I made sure, hey, you.  
 **Translation:** 
 
-**[6514.02s] English:** need something i'll fucking run it i don't care if i die anymore because as soon as that happened  
+**[6514.02s] English:** Need something, I'll fucking run it. I don't care if I die anymore because as soon as that happened.  
 **Translation:** 
 
-**[6517.52s] English:** my light switch went off it didn't matter anymore to me can you go through what happens yeah so  
+**[6517.52s] English:** My light switch went off; it didn't matter anymore to me. Can you go through what happens? Yes, so  
 **Translation:** 
 
-**[6523.18s] English:** are you hearing these screams yeah so the id went off and what had happened was they put an id  
+**[6523.18s] English:** Are you hearing these screams? Yeah, so the ID went off, and what had happened was they put an ID on something.  
 **Translation:** 
 
-**[6532.66s] English:** inside of a grape hut and the grape hut has rectangular wall um rectangular holes in the wall  
+**[6532.66s] English:** Inside of a grape hut, and the grape hut has rectangular walls with rectangular holes in the wall.  
 **Translation:** Vocabulary: rectangular: 长方形的
 
-**[6539.14s] English:** like one door and it's this tall mud hut with just all these like holes in it and they had put an id  
+**[6539.14s] English:** Like one door, and it's this tall mud hut with just all these holes in it, and they had put an ID  
 **Translation:** 
 
-**[6545.86s] English:** underneath a pile of sticks and had a metal detector the brits carry them i've never seen  
-**Translation:** Vocabulary: brits: 英国人; detector: 探测器
+**[6545.86s] English:** Underneath a pile of sticks, and had a metal detector—the Brits carry them; I've never seen.  
+**Translation:** Vocabulary: brits: 英国人; detector: 探测器; sticks: 木棍; underneath: 下方
 
-**[6552.68s] English:** i think other countries have them but i've only ever seen them use it and that's how we were kind  
+**[6552.68s] English:** I think other countries have them, but I've only ever seen them use it, and that's how we were kind.  
 **Translation:** 
 
-**[6556.84s] English:** of detecting if there was an id we must have hit it the sticks or something and it set it off  
+**[6556.84s] English:** Of detecting if there was an ID, we must have hit it with a stick or something, and it set it off.  
 **Translation:** Vocabulary: detecting: 检测
 
-**[6561.88s] English:** and it just it was over he there's no way he felt anything and then there was another guy at the door  
+**[6561.88s] English:** And it just was over; he there's no way he felt anything, and then there was another guy at the door.  
 **Translation:** 
 
-**[6566.94s] English:** bent down on one knee  
+**[6566.94s] English:** Bent down on one knee.  
 **Translation:** 
 
-**[6569.14s] English:** and he was facing and kind of watching for and then a blast hit him on this side  
+**[6569.14s] English:** And he was facing and kind of watching for, and then a blast hit him on this side.  
 **Translation:** 
 
-**[6574.84s] English:** and so it took him out and pulled his kid off pulled his helmet off pulled everything off  
+**[6574.84s] English:** And so, it took him out and pulled his kid off, pulled his helmet off, and pulled everything else off.  
 **Translation:** 
 
-**[6578.74s] English:** fucked him all up big time this is one id yeah but it was in a contained area and he was in the  
+**[6578.74s] English:** Fucked him all up, big time. This is one ID, yeah, but it was in a contained area, and he was in the  
 **Translation:** 
 
-**[6587.44s] English:** doorway up and out can you explain what an id is and how does it work i can do my best uh they're  
+**[6587.44s] English:** Doorway, up and out. Can you explain what an ID is and how it works? I can do my best. Uh, they're  
+**Translation:** Vocabulary: doorway: 门厅入口
+
+**[6595.76s] English:** Improvised explosive devices can be used pretty much at events, and they can be used at  
 **Translation:** 
 
-**[6595.76s] English:** improvised explosive devices they can be used pretty much at events and they can be used at  
+**[6599.14s] English:** Anything to make any  
+**Translation:** Vocabulary: explosive: 爆炸物; improvised: 简易制作的
+
+**[6600.00s] English:** So, um, garbage: when we got to Afghanistan, they did the ID meeting with us, and they're like, "These are what...  
 **Translation:** 
 
-**[6599.14s] English:** anything to make any  
-**Translation:** Vocabulary: explosive: 炸药; improvised: 简易制作的
-
-**[6600.00s] English:** so um garbage when we got to afghanistan they did the id meeting with us they're like these are what  
+**[6606.72s] English:** We're finding that they would show us diffused IDs, so they would see those big blue drums filled.  
 **Translation:** 
 
-**[6606.72s] English:** we're finding that they would show us diffused ids so they would see those big blue drums filled  
-**Translation:** Vocabulary: diffused: 分散的
-
-**[6612.18s] English:** with gasoline buried in the ground you would see a wire it would go to a pressure plate you hit the  
+**[6612.18s] English:** With gasoline buried in the ground, you would see a wire that goes to a pressure plate; you hit the  
 **Translation:** 
 
-**[6617.36s] English:** pressure plate that would hit that and it would go you would see ids some of them were ridiculous  
+**[6617.36s] English:** Pressure plate that would hit that, and it would go. You would see IDs; some of them were ridiculous.  
+**Translation:** Vocabulary: gasoline: 汽油
+
+**[6623.32s] English:** The engineering that went into some of these was hilarious because they were  
 **Translation:** 
 
-**[6623.32s] English:** the engine the uh the engineering that went into some of these was hilarious because they were  
+**[6628.02s] English:** Thinking they were thinking to use everything they could, there was a cigarette pack they had.  
+**Translation:** Vocabulary: hilarious: 滑稽的
+
+**[6633.98s] English:** They used to line the inside with tinfoil, and when you stepped on the tinfoil, it had a piece of wire.  
 **Translation:** 
 
-**[6628.02s] English:** thinking they were thinking to use everything they could there was a cigarette pack they had  
-**Translation:** 
-
-**[6633.98s] English:** used they lined the inside with tinfoil and when you stepped on the tinfoil it had a piece of wire  
-**Translation:** 
-
-**[6638.92s] English:** and it was enough of a spark to set off a line of batteries that we had thrown out that were all  
+**[6638.92s] English:** And it was enough of a spark to set off a line of batteries that we had thrown out, which were all  
 **Translation:** Vocabulary: tinfoil: 铝箔
 
-**[6643.08s] English:** dead when you fuse them all together there was enough juice to make it go then they would attach  
+**[6643.08s] English:** Dead when you fuse them all together, there was enough juice to make it go, then they would attach.  
 **Translation:** 
 
-**[6647.84s] English:** that to like like phosphorus or gasoline or whatever they could that would make a big boom  
-**Translation:** Vocabulary: gasoline: 汽油; phosphorus: 磷
-
-**[6653.02s] English:** they would use um yeah that's why you never kick garbage on the ground  
+**[6647.84s] English:** That, like, something as simple as phosphorus or gasoline or whatever, could make a big boom.  
 **Translation:** 
 
-**[6657.48s] English:** you'll never kick garbage on the ground you'll never kick garbage on the ground  
+**[6653.02s] English:** They would use, um, yeah, that's why you never kick garbage on the ground.  
 **Translation:** 
 
-**[6658.00s] English:** ever seen me kick something on the ground you'll see me walk around it always if i ever see a pile  
+**[6657.48s] English:** You'll never kick garbage on the ground. You'll never kick garbage on the ground.  
 **Translation:** 
 
-**[6663.12s] English:** of rocks or something that looks like it shouldn't be there i won't walk near it even now because  
+**[6658.00s] English:** Ever seen me kick something on the ground? You'll see me walk around it, always. If I ever see a pile,...  
 **Translation:** 
 
-**[6668.12s] English:** they use that pile of rocks to remind people there's something there we don't know what that  
+**[6663.12s] English:** Of rocks, or something that looks like it shouldn't be there, I won't walk near it, even now, because.  
 **Translation:** 
 
-**[6672.68s] English:** means but we know that something's there and very often they would use anything garbage wires  
+**[6668.12s] English:** They use that pile of rocks to remind people there's something there, but we don't know what that is.  
 **Translation:** 
 
-**[6678.56s] English:** we were very we had to burn everything for a reason it's so terrifying to not  
+**[6672.68s] English:** Means, but we know that something is there, and very often they would use anything—garbage wires.  
 **Translation:** 
 
-**[6686.46s] English:** for the source of death to be like little parts of the environment and then people  
-**Translation:** Vocabulary: terrifying: 令人恐惧
-
-**[6694.14s] English:** that don't look like that they're not dressed as soldiers no it's like civilians and like  
+**[6678.56s] English:** We were very worried; we had to burn everything for a reason. It's so terrifying to not know what will happen next.  
 **Translation:** 
 
-**[6700.66s] English:** regular because then you when you have to come back or even there it's you're just surrounded  
+**[6686.46s] English:** For the source of death to be like little parts of the environment, and then people.  
+**Translation:** Vocabulary: terrifying: 令人恐惧的
+
+**[6694.14s] English:** That don't look like they're not dressed as soldiers, no. It's like civilians and like  
 **Translation:** 
 
-**[6706.48s] English:** by danger and then you distrust everything essentially that's the problem and that's why  
+**[6700.66s] English:** Regular, because then you have to come back, or even there, it's just surrounded.  
 **Translation:** 
 
-**[6711.56s] English:** you have such ptsd issues with the soldiers we have now because you're  
+**[6706.48s] English:** By danger, and then you distrust everything. Essentially, that's the problem, and that's why.  
+**Translation:** 
+
+**[6711.56s] English:** You have such PTSD issues with the soldiers we have now because you're  
 **Translation:** Vocabulary: distrust: 不信任
 
-**[6716.34s] English:** you're you're you're you're you're you're you're you're you're you're you're you're you're  
+**[6716.34s] English:** You're, you're, you're, you're, you're, you're, you're, you're.  
 **Translation:** 
 
-**[6716.44s] English:** You're in the environment in which it's very similar.  
+**[6716.44s] English:** You're in an environment that is very similar.  
 **Translation:** 
 
-**[6720.00s] English:** so so there's this one ied so this one id i i still don't know what it was um went off  
+**[6720.00s] English:** So, so there's this one IED. So, this one ID—I still don't know what it was—went off.  
 **Translation:** 
 
-**[6727.56s] English:** body flew the guy at the door um he kicked out he was all broken and bleeding and a mess um  
+**[6727.56s] English:** The body flew through the door, and the guy at the door kicked him out. He was all broken, bleeding, and a mess.  
 **Translation:** 
 
-**[6736.82s] English:** at that point the radio started going crazy like i could hear the guys yelling and screaming trying  
+**[6736.82s] English:** At that point, the radio started going crazy; I could hear the guys yelling and screaming trying.  
 **Translation:** 
 
-**[6744.78s] English:** to figure it out and then you could hear the numbers being called kia number number number  
+**[6744.78s] English:** To figure it out, and then you could hear the numbers being called: one, two, three.  
+**Translation:** Vocabulary: yelling: 大声喊叫
+
+**[6748.78s] English:** Number, I don't know anybody's service. Number, I don't know what's going on next, you know, mortar.  
 **Translation:** 
 
-**[6748.78s] English:** number i don't know anybody's service number i i don't know what's going on next you know mortar  
+**[6754.34s] English:** Rounds start flying, coming down, and it's like live fire starts happening, and I'm like, "Holy fuck, things are  
+**Translation:** Vocabulary: mortar: 迫击炮
+
+**[6760.94s] English:** Popping off, I remember just looking around and being like, "We need to go; we need to go now!  
 **Translation:** 
 
-**[6754.34s] English:** rounds start like coming down and like live fire starts happening and i'm like holy fuck things are  
+**[6767.00s] English:** Got this, like, I was, like, "We're going," and they're like, "Hold on, Burns!" and I'm like,  
 **Translation:** 
 
-**[6760.94s] English:** popping off and i remember just looking at being like we need to go we need to go now and i just  
+**[6772.20s] English:** We're fucking going, like, I wasn't dealing with it well, and they're like, "All right, all right, go, go, go!  
 **Translation:** 
 
-**[6767.00s] English:** got this like like i was i was like we're we're going and they're like hold on burns and i'm like  
+**[6778.78s] English:** And we, um, and I helped out with that other individual—kind of held him down and started doing...  
 **Translation:** 
 
-**[6772.20s] English:** we're fucking going like i wasn't dealing with it well and they're like all right all right go go go  
+**[6788.28s] English:** Medics worked on him, and he just kept saying, "Where's... where's... where's?" He was in such a state of shock.  
 **Translation:** 
 
-**[6778.78s] English:** and we um and i helped out with that other individual kind of held him down started doing  
+**[6794.44s] English:** I've never seen somebody's eyeball so big in my life! She's good. Where's... where's... yeah, he's.  
+**Translation:** Vocabulary: eyeball: 眼球
+
+**[6799.84s] English:** Good buddy, he's good, he's good. Picture-like a super thick Scottish accent, though, because  
 **Translation:** 
 
-**[6788.28s] English:** medic work on him and he just kept saying where's where's where's he was in such a state of shock  
-**Translation:** 
-
-**[6794.44s] English:** i've never seen somebody's eyeball so big in my life she's good where's where's where's yeah he's  
-**Translation:** 
-
-**[6799.84s] English:** good buddy he's good he's good picture like a super thick scottish accent though because  
-**Translation:** 
-
-**[6803.92s] English:** these guys were just oh and when they talk fast it's even worse  
+**[6803.92s] English:** These guys were just, oh, and when they talk fast, it's even worse.  
 **Translation:** Vocabulary: scottish: 苏格兰的
 
-**[6808.78s] English:** and then so i ran over and we we jumped down into the ditch along the side of the road because the  
+**[6808.78s] English:** And then, so I ran over and we jumped down into the ditch along the side of the road because the  
 **Translation:** 
 
-**[6813.60s] English:** road hadn't been cleared and we're running through these tall they look like cannabis  
-**Translation:** Vocabulary: cannabis: 大麻; ditch: 水沟
+**[6813.60s] English:** The road hadn't been cleared, and we're running through these tall plants that look like cannabis.  
+**Translation:** Vocabulary: cannabis: 大麻; ditch: 沟渠
 
-**[6820.46s] English:** plants but they're not but it there's it's just very thick bush and i felt like i was running in  
+**[6820.46s] English:** Plants, but they're not; it's just very thick bush, and I felt like I was running through it.  
 **Translation:** 
 
-**[6826.76s] English:** slow motion so if you picture one of your video games where like the tunnel vision and you're  
+**[6826.76s] English:** Slow motion, so if you picture one of your video games where, like, the tunnel vision and you're  
+**Translation:** Vocabulary: tunnel: 隧道
+
+**[6830.62s] English:** Just you can hear your breathing is like that, and you're running, and you can't move fast enough.  
 **Translation:** 
 
-**[6830.62s] English:** just you can hear your breathing is like that and you're running and you can't move fast enough and  
+**[6838.78s] English:** You can hear the sound of the road, and I'm like, "Oh my God, what's going on?" I  
 **Translation:** 
 
-**[6838.78s] English:** you can hear the sound of the road and i'm like oh my god what's going on i'm  
+**[6840.00s] English:** And we hit the road, and the rounds are coming down, and mortars are coming down, and they're  
 **Translation:** 
 
-**[6857.28s] English:** i'm  
+**[6845.56s] English:** Like, okay, on three, let's run. So, we run on three and we run into the compound, I mean, into the great pit.  
+**Translation:** Vocabulary: mortars: 迫击炮
+
+**[6850.64s] English:** And I remember looking around and very seriously asking, "Where is he?" just genuinely asking, I think.  
 **Translation:** 
 
-**[6858.42s] English:** i'm  
+**[6857.28s] English:** I'm  
+**Translation:** Vocabulary: genuinely: 真诚地
+
+**[6858.42s] English:** I'm  
 **Translation:** 
 
-**[6859.80s] English:** i'm  
+**[6859.14s] English:** It has been amazing messaging him; he's been incredible. He's one of the best soldiers I've ever served with.  
 **Translation:** 
 
-**[6860.24s] English:** i'm  
+**[6859.80s] English:** I'm  
 **Translation:** 
 
-**[6860.58s] English:** i'm  
+**[6860.24s] English:** I'm  
 **Translation:** 
 
-**[6860.82s] English:** i'm  
+**[6860.58s] English:** I'm  
 **Translation:** 
 
-**[6861.00s] English:** i'm  
+**[6860.82s] English:** I'm  
 **Translation:** 
 
-**[6861.94s] English:** i'm  
+**[6861.00s] English:** I'm  
 **Translation:** 
 
-**[6862.44s] English:** i'm  
+**[6861.94s] English:** I'm  
 **Translation:** 
 
-**[6863.22s] English:** i'm  
+**[6862.44s] English:** I'm  
 **Translation:** 
 
-**[6863.62s] English:** i'm  
+**[6863.22s] English:** I'm  
 **Translation:** 
 
-**[6863.64s] English:** i'm  
+**[6863.62s] English:** I'm  
 **Translation:** 
 
-**[6864.16s] English:** i'm  
+**[6863.64s] English:** I'm  
 **Translation:** 
 
-**[6864.42s] English:** i'm  
+**[6864.16s] English:** I'm  
 **Translation:** 
 
-**[6864.88s] English:** i'm  
+**[6864.42s] English:** I'm  
 **Translation:** 
 
-**[6865.50s] English:** i'm  
+**[6864.88s] English:** I'm  
 **Translation:** 
 
-**[6867.10s] English:** i'm  
+**[6865.50s] English:** I'm  
 **Translation:** 
 
-**[6868.08s] English:** i'm  
+**[6866.16s] English:** He was a higher-up, so he was running part of this. He messaged me and was giving me  
 **Translation:** 
 
-**[6868.12s] English:** i'm  
+**[6867.10s] English:** I'm  
 **Translation:** 
 
-**[6868.14s] English:** i'm  
+**[6868.08s] English:** I'm  
 **Translation:** 
 
-**[6868.26s] English:** i'm  
+**[6868.12s] English:** I'm  
 **Translation:** 
 
-**[6868.42s] English:** i'm  
+**[6868.14s] English:** I'm  
 **Translation:** 
 
-**[6868.56s] English:** i'm  
+**[6868.26s] English:** I'm  
 **Translation:** 
 
-**[6868.58s] English:** i'm  
+**[6868.42s] English:** I'm  
 **Translation:** 
 
-**[6840.00s] English:** and we hit the road and the rounds are coming down and mortars are coming down and they're  
+**[6868.56s] English:** I'm  
 **Translation:** 
 
-**[6845.56s] English:** like okay on three run so we run on three and we run into the compound i mean into the great putt  
+**[6868.58s] English:** I'm  
 **Translation:** 
 
-**[6850.64s] English:** and i remember looking around and very seriously going where is he just genuinely asking i think  
+**[6871.30s] English:** Some information, and um, he's like, "I was in there with you," and he goes, "I remember because you handed  
 **Translation:** 
 
-**[6859.14s] English:** it was been messaging me he's been incredible he's one of the best soldiers i've ever served with  
+**[6876.24s] English:** Me, the boot, and because I walked over, I saw that all the rounds were like we were being shot at by mortars.  
 **Translation:** 
 
-**[6866.16s] English:** he was a higher up so he was running part of this he he's messaged me and he was giving me  
+**[6881.62s] English:** We were coming down, but it was this slow-motion moment, and I remember walking over to the hole in the ground.  
 **Translation:** 
 
-**[6871.30s] English:** some information and um he's like i was in there with you and he goes i remember because you handed  
+**[6887.98s] English:** And seeing his boot in the ground.  
 **Translation:** 
 
-**[6876.24s] English:** me the boot and because i walked over and i all the rounds were like we were being shot at mortars  
+**[6891.46s] English:** But it was his leg still hanging.  
 **Translation:** 
 
-**[6881.62s] English:** were coming down but it was this slow motion and i remember walking over to the hole in the ground  
+**[6896.16s] English:** Like, uh, but just below his knee was still in it, but the boot was perfectly laced up, like the boot.  
 **Translation:** 
 
-**[6887.98s] English:** and seeing his boot in the ground  
-**Translation:** 
-
-**[6891.46s] English:** but it was his leg was still hanging  
-**Translation:** 
-
-**[6896.16s] English:** like uh but just below his knee was still in it but the boot was perfectly laced up like the boot  
-**Translation:** 
-
-**[6901.66s] English:** was fine and i just i held it and i turned and i looked at the guys and i was like we could reuse  
+**[6901.66s] English:** It was fine, and I just held it and turned to look at the guys, and I was like, "We could reuse.  
 **Translation:** Vocabulary: laced: 系紧; reuse: 再利用
 
-**[6909.24s] English:** the boot now that wasn't even what is what is that was that was that actually an intelligent  
+**[6909.24s] English:** The boot, now that wasn't even what it was. What was that? Was that actually intelligent?  
 **Translation:** 
 
-**[6920.86s] English:** attempt at humor or was it some kind of deeply lost  
+**[6920.86s] English:** An attempt at humor, or was it some kind of deeply lost?  
 **Translation:** 
 
-**[6926.16s] English:** like you were completely just lost i think my brain broke  
+**[6926.16s] English:** Like you were completely lost, I think my brain broke.  
 **Translation:** 
 
-**[6928.62s] English:** i think my that's the moment i call my light switch went off  
+**[6928.62s] English:** I think that's the moment my light switch went off.  
 **Translation:** 
 
-**[6932.98s] English:** did you understand that he was dead at that point like  
+**[6932.98s] English:** Did you understand that he was dead at that point, like?  
 **Translation:** 
 
-**[6937.82s] English:** intellectually you were just something that just broke  
-**Translation:** Vocabulary: intellectually: 理论上
+**[6937.82s] English:** Intellectually, you were just something that just broke.  
+**Translation:** Vocabulary: intellectually: 用理智理解
 
-**[6940.74s] English:** no emotion like it just broke it just shattered  
+**[6940.74s] English:** No emotion like it; it just broke, and it just shattered.  
 **Translation:** 
 
-**[6949.40s] English:** it shattered i felt it happen  
+**[6949.40s] English:** It shattered; I felt it happen.  
 **Translation:** Vocabulary: shattered: 粉碎
 
-**[6956.16s] English:** felt  
+**[6956.16s] English:** Felt  
 **Translation:** 
 
-**[6960.00s] English:** i didn't feel i didn't feel anything it just broke and at that moment because later there's  
+**[6960.00s] English:** I didn't feel anything; it just broke, and at that moment, because later there's  
 **Translation:** 
 
-**[6971.00s] English:** some anger almost at that moment none of that i couldn't comprehend what happened i knew he wasn't  
+**[6971.00s] English:** Some anger almost at that moment, none of that I could comprehend; what happened, I knew he wasn't.  
 **Translation:** 
 
-**[6978.28s] English:** there anymore because they looked at me and said what's here is here start grabbing pieces we need  
+**[6978.28s] English:** There's nothing more because they looked at me and said, "What's here is here; start grabbing pieces we need.  
 **Translation:** Vocabulary: comprehend: 理解
 
-**[6984.50s] English:** to fucking move and so um i handed the boot over they took it and then i started just grabbing  
+**[6984.50s] English:** To fucking move, and so, um, I handed the boot over; they took it, and then I started just grabbing.  
 **Translation:** 
 
-**[6992.10s] English:** anything out of the walls because those little rectangles just had flesh hanging from it and i  
-**Translation:** Vocabulary: rectangles: 矩形
+**[6992.10s] English:** Anything out of the walls, because those little rectangles just had flesh hanging from them, and I...  
+**Translation:** Vocabulary: rectangles: 长方形
 
-**[6999.16s] English:** didn't have my gloves on um because i only used them to search and um do you want to bring  
+**[6999.16s] English:** Didn't have my gloves on, um, because I only used them to search. And, um, do you want to bring?  
 **Translation:** 
 
-**[7004.38s] English:** everything back like you want to leave this is what even if they're dead do you want to save  
+**[7004.38s] English:** Everything back, like you want to leave? This is what, even if they're dead, do you want to save?  
 **Translation:** 
 
-**[7011.24s] English:** save those you served with  
+**[7011.24s] English:** Save those you served with.  
 **Translation:** 
 
-**[7014.44s] English:** yeah because they deserve that they don't deserve to have a piece of them drugged behind a truck for  
+**[7014.44s] English:** Yeah, because they deserve better than to have a piece of them drugged behind a truck.  
 **Translation:** 
 
-**[7019.58s] English:** propaganda it's not it's not fair what are the others i mean was there just a focus on mission  
+**[7019.58s] English:** Propaganda—it's not fair. What about the others? I mean, was there just a focus on the mission?  
 **Translation:** 
 
-**[7025.44s] English:** or was there a panic what did no panic with these guys these guys were the most switched  
+**[7025.44s] English:** Or was there a panic? What did they have no panic about with these guys? These guys were the most switched.  
+**Translation:** Vocabulary: propaganda: 宣传
+
+**[7029.84s] English:** On motherfuckers I've ever seen in my life, they we started grabbing and reminded him, he said, "You know.  
 **Translation:** 
 
-**[7029.84s] English:** on motherfuckers i've ever seen in my life they we started grabbing and remind me he said you know  
+**[7036.42s] English:** You know, that's not the worst part of my day; it wasn't even the  
 **Translation:** 
 
-**[7036.42s] English:** you uh that's not he goes when people say that's the worst part of your day that wasn't even the  
+**[7041.40s] English:** Worst part of your day? Do you remember when you handed me the bag of intestines?  
 **Translation:** 
 
-**[7041.40s] English:** worst part of your day do you remember when you handed me the bag of intestines  
+**[7043.64s] English:** You.  
+**Translation:** Vocabulary: intestines: 肠子
+
+**[7044.44s] English:** No.  
 **Translation:** 
 
-**[7043.64s] English:** you  
+**[7051.00s] English:** Now, I do, though. Thank you for that. So, there are parts you don't even realize—they're just not.  
 **Translation:** 
 
-**[7044.44s] English:** no  
+**[7059.26s] English:** Register, because I had some people contact me and be like, "You didn't tell it right," and war is.  
 **Translation:** 
 
-**[7051.00s] English:** now i do though thank you for that so there's parts you don't even they're just not they don't  
-**Translation:** 
-
-**[7059.26s] English:** register because i had some people contact me and be like you didn't tell it right and war is  
-**Translation:** 
-
-**[7066.28s] English:** subjective and war is from your perspective and war is messy and horrific and war is  
+**[7066.28s] English:** Subjective, and war is from your perspective. War is messy and horrific, and war is  
 **Translation:** Vocabulary: horrific: 恐怖的
 
-**[7074.44s] English:** graphic and violence and painful  
+**[7074.44s] English:** Graphic and violence, and painful.  
 **Translation:** 
 
-**[7080.00s] English:** your brain remembers what it wants to remember and your brain allows you to  
+**[7080.00s] English:** Your brain remembers what it wants to remember, and your brain allows you to.  
 **Translation:** 
 
-**[7086.20s] English:** remember what it allows you to remember and there's reasons that you don't remember everything  
+**[7086.20s] English:** Remember what it allows you to remember, and there are reasons why you don't remember everything.  
 **Translation:** 
 
-**[7090.08s] English:** and so we were getting we were really getting hit we were getting it was bad and some of the  
+**[7090.08s] English:** And so, we were really getting hit; it was bad, and some of the  
 **Translation:** 
 
-**[7100.18s] English:** guys machine gunners that come up to do cover fire and i know uh we were calling in for air  
+**[7100.18s] English:** Guys, machine gunners that come up to do cover fire, and I know—we were calling in for air.  
 **Translation:** 
 
-**[7106.32s] English:** support to come pick up the guys uh because they had to go and we we just collected everything we  
+**[7106.32s] English:** Support to come pick up the guys, uh, because they had to go, and we just collected everything we.  
 **Translation:** 
 
-**[7116.98s] English:** could but i did remember screaming like we didn't get them all we didn't get them all there's no way  
+**[7116.98s] English:** Could have, but I did remember screaming. Like, we didn't get them all; we didn't get them all. There's no way.  
 **Translation:** 
 
-**[7120.46s] English:** we got them all we did not fucking get them all and i remember one of the guys looking at me being  
+**[7120.46s] English:** We got them all, but we didn't fucking get them all, and I remember one of the guys looking at me being  
 **Translation:** 
 
-**[7124.02s] English:** like we got him we got him i'm like we didn't fucking get him we didn't get him like no we  
+**[7124.02s] English:** Like, we got him; we got him. I'm like, we didn't fucking get him; we didn't get him. Like, no, we didn't.  
 **Translation:** 
 
-**[7126.96s] English:** got him i'm like and i couldn't say it enough and so i grabbed as much as i could i i i um  
+**[7126.96s] English:** Got him; I'm like, and I couldn't say it enough. So, I grabbed as much as I could. I-I-I, um.  
 **Translation:** 
 
-**[7136.32s] English:** slung one of their weapons and it was just a twisted heap and i had his helmet helmet someone  
+**[7136.32s] English:** Slung one of their weapons, and it was just a twisted heap. I had his helmet, someone.  
 **Translation:** 
 
-**[7141.76s] English:** else's helmet in my arm and then i had um my weapon in front of me and i was carrying it and  
-**Translation:** Vocabulary: slung: 悬挂
+**[7141.76s] English:** Else's helmet in my arm, and then I had my weapon in front of me, and I was carrying it and  
+**Translation:** Vocabulary: slung: 悬挂; twisted: 扭曲
 
-**[7150.00s] English:** then we we piled everything we had onto a stretcher those things are super fucking flimsy anyway and  
+**[7150.00s] English:** Then we piled everything we had onto a stretcher. Those things are, however, super fucking flimsy anyway.  
 **Translation:** 
 
-**[7156.68s] English:** there was a couple guys in front of us and there were a couple behind me and i was kind of in the  
+**[7156.68s] English:** There were a couple guys in front of us, and a couple behind me, and I was kind of in the  
 **Translation:** Vocabulary: flimsy: 脆弱; stretcher: 担架
 
-**[7160.60s] English:** middle and we we said okay we're just gonna have to run we're gonna have to fucking run the road  
+**[7160.60s] English:** Middle, and we said okay, we're just gonna have to run — we're gonna have to fucking run the road.  
 **Translation:** 
 
-**[7165.42s] English:** we're gonna just have to run it  
+**[7165.42s] English:** We're gonna just have to run it.  
 **Translation:** 
 
-**[7166.32s] English:** there's a chance so we ran it and that was the closest well that was i guess not the closest but  
+**[7166.32s] English:** There's a chance, so we ran it, and that was the closest — no, I guess not the closest, but  
 **Translation:** 
 
-**[7172.04s] English:** it felt like it was the closest i could hear the the whiz of the rounds going by me it's a weird  
+**[7172.04s] English:** It felt like it was the closest; I could hear the whiz of the rounds going by me. It's a weird feeling.  
 **Translation:** 
 
-**[7179.56s] English:** noise when they're coming at you then when you're they're leaving you and so they that slowed  
+**[7179.56s] English:** Noise when they're coming at you, then when you're they're leaving you, and so they that slowed.  
 **Translation:** 
 
-**[7186.92s] English:** everything down for me and then one of the guys accidentally dropped the edge of the stretcher  
+**[7186.92s] English:** Everything was in place for me, and then one of the guys accidentally dropped the edge of the stretcher.  
 **Translation:** 
 
-**[7190.30s] English:** and everything fell off into the ditch and then we had to go back down and get it back up  
+**[7190.30s] English:** And everything fell off into the ditch, and then we had to go back down and get it back up.  
 **Translation:** 
 
-**[7196.32s] English:** and so we kept running and we finally got back into the combat  
+**[7196.32s] English:** And so we kept running, and we finally got back into the combat.  
 **Translation:** Vocabulary: combat: 战斗; ditch: 沟渠
 
-**[7200.00s] English:** that that sniper was sitting off on the right hand side and we got all in there and i know the  
+**[7200.00s] English:** That sniper was sitting off on the right-hand side, and we got all in there, and I knew the  
 **Translation:** 
 
-**[7206.56s] English:** i think said there was two flights i only thought there was one but apparently there was two flights  
+**[7206.56s] English:** I think there were two flights; I only thought there was one, but apparently there were two.  
 **Translation:** Vocabulary: sniper: 狙击手
 
-**[7212.48s] English:** so went on one his body went on one and then i think i think he said went on the other and  
+**[7212.48s] English:** So, his body went on one, and then I think he said he went on the other.  
 **Translation:** 
 
-**[7219.36s] English:** um and then they took off and then when they leave though they rain hell down on anything  
+**[7219.36s] English:** Um, and then they took off, and then when they leave, though, they rain hell down on anything.  
 **Translation:** 
 
-**[7224.96s] English:** they can see on the ground and that is a beautiful sight because they had mortar rounds coming down  
+**[7224.96s] English:** They can see on the ground, and that is a beautiful sight because they had mortar rounds coming down.  
 **Translation:** 
 
-**[7229.68s] English:** and it just it was getting really really bad and then as soon as the blackhawks took off all  
-**Translation:** Vocabulary: blackhawks: 黑鹰直升机
+**[7229.68s] English:** And it was just getting really, really bad, and then as soon as the Blackhawks took off, all  
+**Translation:** Vocabulary: blackhawks: 黑鹰直升机; mortar: 迫击炮
 
-**[7235.76s] English:** of a sudden it just stopped and went quiet like deafening quiet and we were sitting inside the  
+**[7235.76s] English:** Of a sudden, it just stopped and went quiet — like deafening quiet — and we were sitting inside the  
 **Translation:** 
 
-**[7245.68s] English:** compound and i one of the medics looked at me and you could see and i still do it now and i  
-**Translation:** Vocabulary: deafening: 震耳欲聋
+**[7245.68s] English:** Compound, and I. One of the medics looked at me, and you could see, and I still do it now, and I  
+**Translation:** Vocabulary: deafening: 震耳欲聋的
 
-**[7250.48s] English:** i'm working on not doing it but i do it when i get really overwhelmed because i didn't have  
+**[7250.48s] English:** I'm working on not doing it, but I do it when I get really overwhelmed because I didn't have  
 **Translation:** 
 
-**[7255.28s] English:** any gloves on i had blood all over my hands and just like body  
+**[7255.28s] English:** Any gloves on? I had blood all over my hands and just like my body.  
 **Translation:** 
 
-**[7260.00s] English:** and stuff so he came over and he just gave me like sanitizer and i started rubbing  
+**[7260.00s] English:** And then, he came over and just gave me some sanitizer. I started rubbing it on my hands.  
 **Translation:** 
 
-**[7265.12s] English:** and so i rub i do this when i'm stressed i'll rub my hands um and i still can't  
+**[7265.12s] English:** And so, I rub my hands like this when I'm stressed, but I still can't.  
+**Translation:** Vocabulary: rubbing: 揉搓; sanitizer: 消毒液
+
+**[7273.28s] English:** I still can't eat food with skin on it, and I can't like, like salmon and stuff.  
 **Translation:** 
 
-**[7273.28s] English:** i still can't do i i still can't eat food with skin on it and i can't like like salmon and stuff  
+**[7280.16s] English:** Like, I can't do anything with skin; I can't touch it. And like, if I'm making meat at home, like for  
 **Translation:** 
 
-**[7280.16s] English:** like i can't anything with skin i can't touch it and like if i'm making meat at home like for  
+**[7284.96s] English:** My husband and son like I have, like meat gloves, and then I have a fork and a knife.  
 **Translation:** 
 
-**[7284.96s] English:** my husband and my son like i have like meat gloves and then i have like a fork and a knife  
+**[7289.68s] English:** And I'm like, cutting it — like, I never touch it; I can't touch it, so there's something almost like...  
 **Translation:** 
 
-**[7289.68s] English:** and i'm like cutting it like i never touch it i can't touch it so there's something almost like um  
+**[7298.16s] English:** The texture of the biology of a human flesh that's just at the level of  
 **Translation:** 
 
-**[7298.16s] English:** the texture of the biology of a human flesh that just that's at the level of  
-**Translation:** 
-
-**[7305.20s] English:** that's the level of your trauma yeah and it's been i mean it's 2021 this was an  
+**[7305.20s] English:** That's the level of your trauma, yeah. And it's been—I mean, it's 2021; this was an  
 **Translation:** Vocabulary: trauma: 创伤
 
-**[7311.20s] English:** and i've worked on this like and i mean i've been in like treatment religiously just to be able to  
+**[7311.20s] English:** And I've worked on this like, and I mean, I've been in treatment religiously just to be able to.  
 **Translation:** 
 
-**[7317.44s] English:** keep me alive for this this decade i'm in termidence right i mean and now it's 2021 and i've  
+**[7317.44s] English:** Keep me alive for this decade. I'm in my thirties, right? I mean, and now it's 2021, and I've  
 **Translation:** Vocabulary: religiously: 有规律地
 
-**[7318.00s] English:** for this decade.  
+**[7318.00s] English:** For this decade.  
 **Translation:** 
 
-**[7320.00s] English:** and so it's not like it's like oh i've never you never even tried to get better it's like  
+**[7320.00s] English:** And so, it's not like "oh, I've never," you never even tried to get better; it's like  
 **Translation:** 
 
-**[7324.26s] English:** i never used to leave my house i used to call people that look like that horrific names in  
+**[7324.26s] English:** I never used to leave my house. I used to call people who looked like that horrific names, in  
 **Translation:** 
 
-**[7329.12s] English:** public i used to want to kill people on a regular basis i'm a fairly happy individual now what about  
+**[7329.12s] English:** Public: I used to want to kill people on a regular basis. I'm a fairly happy individual now. What about you?  
 **Translation:** Vocabulary: horrific: 恐怖的
 
-**[7336.92s] English:** you're talking about sort of skin and parts and but there's also just the fact that we're mortal  
+**[7336.92s] English:** You're talking about sort of skin and parts, and but there's also just the fact that we're mortal.  
 **Translation:** 
 
-**[7346.08s] English:** and there's somebody close to you who dies so you watch walk up and then never come back out again  
+**[7346.08s] English:** And there's somebody close to you who dies, so you watch them walk up and then never come back out again.  
+**Translation:** Vocabulary: mortal: 凡人
+
+**[7354.08s] English:** Yeah, it's like you're facing mortality in a very real way, and in a way that's not the  
 **Translation:** 
 
-**[7354.08s] English:** yeah it's like you're facing mortality in a very real way and if and uh in a way that's not the  
+**[7361.80s] English:** Same as somebody dying from cancer in a hospital, although it has echoes of that, because that's also.  
+**Translation:** Vocabulary: echoes: 类似回声
+
+**[7367.98s] English:** Absurd, and it doesn't feel like there's any kind of justice to it at all, but it's so.  
 **Translation:** 
 
-**[7361.80s] English:** same as somebody dying from cancer in a hospital although it has echoes of that because that's also  
+**[7374.00s] English:** Sudden, like  
+**Translation:** Vocabulary: absurd: 荒谬
+
+**[7376.08s] English:** Have you been able to make sense of those feelings about it, like how do you feel about it?  
 **Translation:** 
 
-**[7367.98s] English:** absurd and like it doesn't feel like there's justice to it in any kind of way but it's so  
-**Translation:** 
-
-**[7374.00s] English:** sudden like  
-**Translation:** 
-
-**[7376.08s] English:** have you been able to um make sense of that of your feelings about it like how do you feel about  
-**Translation:** 
-
-**[7384.52s] English:** or is everything just shrouded in this like trauma that you're not able to just um  
+**[7384.52s] English:** Or is everything just shrouded in this kind of trauma that you're not able to just...  
 **Translation:** Vocabulary: shrouded: 笼罩
 
-**[7392.86s] English:** feel for the loss of a human being like mourn the loss of a human being  
+**[7392.86s] English:** Feel for the loss of a human being, like you would mourn the loss of a human being.  
 **Translation:** 
 
-**[7397.30s] English:** i think i had when he when i realized he wasn't there  
+**[7397.30s] English:** I think I had realized he wasn't there.  
 **Translation:** 
 
-**[7404.62s] English:** when i realized  
+**[7404.62s] English:** When I realized  
 **Translation:** 
 
-**[7406.08s] English:** that he that was that I that was what was left of him I found out afterwards  
+**[7406.08s] English:** That he was all that was left of him; I found out afterwards.  
 **Translation:** 
 
-**[7412.86s] English:** there was other parts that were outside and and went back I think I think he  
+**[7412.86s] English:** There were other parts that were outside, and went back. I think. I think he  
 **Translation:** 
 
-**[7418.50s] English:** said went back and they got they end up getting the rest of him so that made me  
+**[7418.50s] English:** Said, "Went back and they got them; end up getting the rest of him, so that made me.  
 **Translation:** 
 
-**[7424.20s] English:** happy because I just found this out this week so that me so that means you have a  
+**[7424.20s] English:** Happy because I just found this out this week, so that means you have a  
 **Translation:** 
 
-**[7431.10s] English:** feeling like you still feel like parts of them were left behind yeah on the  
+**[7431.10s] English:** Feeling like you still feel like parts of them were left behind, yeah.  
 **Translation:** 
 
-**[7438.00s] English:** ramp ceremony  
+**[7438.00s] English:** Ramp Ceremony  
 **Translation:** 
 
-**[7440.00s] English:** When I lost my mind, literally, I lost my mind, and I was screaming that he wasn't all in there.  
+**[7440.00s] English:** When I lost my mind, literally, I lost it, and I was screaming that he wasn't all there.  
 **Translation:** 
 
-**[7449.92s] English:** I'm happy now knowing that he was, but I held on to that for 10 years.  
+**[7449.92s] English:** I'm happy now knowing that he was, but I held onto that for 10 years.  
 **Translation:** 
 
-**[7457.36s] English:** Yeah, the sandbags, the bulk of the weight is not from human flesh.  
-**Translation:** Vocabulary: sandbags: 沙包
+**[7457.36s] English:** Yeah, the sandbags; the bulk of the weight is not from human flesh.  
+**Translation:** 
 
 **[7468.58s] English:** He was a young kid, too.  
 **Translation:** 
 
-**[7473.34s] English:** I think it was his first deployment as well.  
+**[7473.34s] English:** I think it was his first deployment, as well.  
 **Translation:** Vocabulary: deployment: 部署
 
 **[7475.50s] English:** He was a young kid, and he was just going to clear the road for the rest of us.  
 **Translation:** 
 
-**[7483.76s] English:** You know you're in war, and you know that you're outside the wire, and you know things could happen.  
+**[7483.76s] English:** You know you're in a war, and you know that you're outside the wire, and you know things could happen.  
 **Translation:** 
 
-**[7490.54s] English:** You understand that to the extent you can understand that.  
+**[7490.54s] English:** You understand that, to the extent that you can understand it.  
 **Translation:** 
 
 **[7496.12s] English:** When it's happening, it's something very different.  
@@ -4918,14 +4919,14 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[7499.42s] English:** Also, maybe you can correct me, but there's something much more brutal about an IED versus a bullet.  
 **Translation:** 
 
-**[7513.02s] English:** Watching somebody close to you die from a bullet, you still get the basic humanity.  
+**[7513.02s] English:** Watching someone close to you die from a bullet, you still retain the basic humanity.  
 **Translation:** Vocabulary: brutal: 残忍
 
 **[7521.08s] English:** IED basically converted a human being into biological parts.  
 **Translation:** 
 
 **[7526.92s] English:** A cheese cutter.  
-**Translation:** 
+**Translation:** Vocabulary: converted: 转换
 
 **[7527.98s] English:** Yeah.  
 **Translation:** 
@@ -4948,547 +4949,547 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[7552.72s] English:** I see that, but I don't...  
 **Translation:** 
 
-**[7558.58s] English:** Put two and...  
+**[7558.58s] English:** Put two and... together.  
 **Translation:** 
 
-**[7560.00s] English:** two to get does that make sense yeah no it does so i even i listening to your story and you know  
+**[7560.00s] English:** Two to get: does that make sense? Yeah, no, it does. So, I'm even listening to your story, and you know.  
 **Translation:** 
 
-**[7565.88s] English:** um thank you for sharing it first of all but uh it's not my it's well i'm just the one to tell  
+**[7565.88s] English:** Um, thank you for sharing it first of all, but uh, it's not mine; I'm just the one to tell.  
 **Translation:** 
 
-**[7572.80s] English:** it i was just involved one one set of eyes on this particular human being um but even i get  
+**[7572.80s] English:** It's just that I was involved with one set of eyes on this particular human being, and even I get.  
 **Translation:** 
 
-**[7580.10s] English:** angry i can't tell if it's exhaustion or anger i'm sorry i look always exhausted oh that's okay  
-**Translation:** Vocabulary: exhaustion: 疲惫
+**[7580.10s] English:** Angry, I can't tell if it's exhaustion or anger. I'm sorry; I look always exhausted. Oh, that's okay.  
+**Translation:** Vocabulary: exhaustion: 疲劳
 
-**[7587.08s] English:** you're you're into robotics isn't that like your guys's thing you guys are just always working on  
+**[7587.08s] English:** You're into robotics, isn't that like your guys' thing? You guys are just always working on it.  
 **Translation:** 
 
-**[7592.02s] English:** i i think because i feel so much for the world i just don't do we were talking about resting  
+**[7592.02s] English:** I think because I feel so much for the world, I just don't know what we were talking about resting.  
+**Translation:** Vocabulary: robotics: 机器人技术
+
+**[7597.74s] English:** Bitch face—earlier, earlier—I just don't feel the need to maintain, um, all the effort of the  
 **Translation:** 
 
-**[7597.74s] English:** bitch face earlier earlier i just don't feel the need to maintain um all the effort of the  
+**[7603.68s] English:** Musculature for presenting myself to you visually is exhausting; it's exhausting, so I just focus on the  
+**Translation:** Vocabulary: exhausting: 疲惫; musculature: 肌肉; visually: 视觉上
+
+**[7608.90s] English:** Feeling no, hey, and then let the face show whatever the hell it shows. Fair enough. Okay, was there anger?  
 **Translation:** 
 
-**[7603.68s] English:** musculature for presenting myself to you visually exhausting it's exhausting so i just focus on the  
-**Translation:** Vocabulary: exhausting: 疲惫; musculature: 肌肉
-
-**[7608.90s] English:** feeling no hey and then let the face show whatever the hell it shows fair enough okay was there anger  
+**[7615.90s] English:** Was there?  
 **Translation:** 
 
-**[7615.90s] English:** was there  
+**[7617.08s] English:** Hate, yeah. Can you just talk through your feelings of what you remember? Yeah, so after that operation...  
 **Translation:** 
 
-**[7617.08s] English:** hate yeah can you just talk through your feelings of what you remember yeah so after that operation  
-**Translation:** 
-
-**[7626.16s] English:** with the british i went back to the canadians and i didn't go back as even remotely close to  
+**[7626.16s] English:** With the British, I went back to the Canadians, and I didn't go back as even remotely close to.  
 **Translation:** Vocabulary: remotely: 遥远地
 
-**[7633.68s] English:** who i was when i left and that was really troublesome for a lot of people around me  
+**[7633.68s] English:** Who I was when I left, and that was really troublesome for a lot of people around me.  
 **Translation:** 
 
-**[7639.58s] English:** because the level of anger and hate that came out of me was palpable when i just walked by  
+**[7639.58s] English:** Because the level of anger and hate that came out of me was palpable when I just walked by.  
 **Translation:** Vocabulary: palpable: 可以感受到的; troublesome: 令人烦恼的
 
-**[7647.08s] English:** um i got shockingly quiet and you understand how you're learning that'd be terrified if you were  
+**[7647.08s] English:** Um, I got shockingly quiet, and you understand how; you'd be terrified if you were.  
 **Translation:** 
 
-**[7654.90s] English:** quiet and i don't know if hate and anger do that justice i don't know another word but i don't  
-**Translation:** Vocabulary: shockingly: 出乎意料地
+**[7654.90s] English:** Quiet, and I don't know if "hate" and "anger" do that justice. I don't know; another word might be more appropriate, but I don't.  
+**Translation:** Vocabulary: shockingly: 令人惊讶地
 
-**[7664.46s] English:** think those two words do it justice to the extent that i was feeling like i got to a point when i  
+**[7664.46s] English:** Think those two words do it justice to the extent that I was feeling like I got to a point when I  
 **Translation:** 
 
-**[7671.34s] English:** got attacked by a woman um with some scissors like the the idea crossed my mind like i could  
+**[7671.34s] English:** Got attacked by a woman, um, with some scissors. Like, the idea crossed my mind: I could...  
 **Translation:** 
 
-**[7676.92s] English:** bootstomp her to death and not feel anything about it in front of her  
+**[7676.92s] English:** Boot-stomp her to death, and not feel anything about it in front of her.  
 **Translation:** 
 
-**[7680.00s] English:** of her family and her kids was it more like just not recognizing the basic humanity or was it legit  
-**Translation:** Vocabulary: bootstomp: 用靴子踩; legit: 真实的
+**[7680.00s] English:** Of her family and her kids, was it more like just not recognizing the basic humanity, or was it legit?  
+**Translation:** Vocabulary: legit: 合乎情理
 
-**[7686.00s] English:** hatred no it was legit hatred but also i no longer saw those people as humans yeah it took one event  
+**[7686.00s] English:** Hatred, no; it was legit hatred, but also I no longer saw those people as humans. Yeah, it took one event.  
 **Translation:** 
 
-**[7694.48s] English:** and when that happened the rest of the operation that was echoed in my in the way i was to those  
+**[7694.48s] English:** And when that happened, the rest of the operation was echoed in the way I was to those.  
+**Translation:** Vocabulary: echoed: 反映
+
+**[7701.20s] English:** People, but to what level can you see those people as human? So this is where...  
 **Translation:** 
 
-**[7701.20s] English:** people but to what level can you see those people as human so this is where well like this is where  
+**[7709.04s] English:** Jaco shut down. Um, I still think I'm right. There's a Dire Straits song called "Brothers in Arms.  
+**Translation:** Vocabulary: straits: 海峡
+
+**[7721.92s] English:** And, um, actually, anyway, we're fools to make war on our brothers in arms.  
 **Translation:** 
 
-**[7709.04s] English:** jaco shut down um i still think i'm right there's a dire straight song called uh brothers in arms  
+**[7728.32s] English:** And I brought that up to Jaco because it's humans on both sides, correct? But he said not in Iraq.  
 **Translation:** 
 
-**[7721.92s] English:** and um actually anyway we're fools to make war on our brothers in arms  
+**[7739.04s] English:** Like, to him, he's like, "No, that's the enemy. These are people who use civilians; they rape them.  
 **Translation:** 
 
-**[7728.32s] English:** and i brought that up to jaco because it's humans on both sides correct but he said not in iraq  
+**[7748.48s] English:** Torture—they'll do anything, and they put evil into the world, and then it's like...  
+**Translation:** Vocabulary: torture: 折磨
+
+**[7755.36s] English:** So they're standing there at that moment, like these two were humans and it's politicians.  
 **Translation:** 
 
-**[7739.04s] English:** like to him he's like no that's the enemy these are people who use the civilians they rape they  
+**[7762.24s] English:** Waging war, and it's kids on both sides, but then Jock was like, "No.  
+**Translation:** Vocabulary: waging: 进行
+
+**[7769.84s] English:** He's not wrong, so which can you carry? Both things with you as a soldier—I think, when I was.  
 **Translation:** 
 
-**[7748.48s] English:** torture they they'll do anything and they put evil onto the world and then it's like  
+**[7777.12s] English:** Soldier, I could only carry one thing with me, and I think my perspective has changed drastically.  
+**Translation:** Vocabulary: drastically: 根本不同
+
+**[7784.00s] English:** But not because I've lost the reality that they are the enemy, but I've gained my  
 **Translation:** 
 
-**[7755.36s] English:** so they're stood on at that moment like the these two were humans and it's politicians  
+**[7791.52s] English:** Humanity, back again, and that's what I lost when I was there. I lost all humanity, I lost all hope for.  
 **Translation:** 
 
-**[7762.24s] English:** waging war and it's it's kids on both sides but then jock was like no  
+**[7798.32s] English:** Humanity, he's not right.  
 **Translation:** 
 
-**[7769.84s] English:** he's not wrong so which can you carry both things with you as a soldier i think when i was a  
+**[7800.00s] English:** When he says "Taliban," or like when he was in Iraq, but for me, the Taliban are evil, I still  
 **Translation:** 
 
-**[7777.12s] English:** soldier i could only carry one thing with me i think my perspective has changed drastically  
-**Translation:** Vocabulary: drastically: 彻底改变
-
-**[7784.00s] English:** but not because i've lost the reality that they are the enemy but i've i've gained my  
+**[7809.18s] English:** Hold a spot of hatred for them that could set this building on fire? You don't, I don't know.  
 **Translation:** 
 
-**[7791.52s] English:** humanity back again and that's what i lost when i was there i lost all humanity i lost all hope for  
+**[7817.06s] English:** Anybody can fully understand that when you watch what they do to women and kids, and they do it.  
 **Translation:** 
 
-**[7798.32s] English:** humanity he's not right  
+**[7824.22s] English:** In the name of God, they are the enemy. They are less than nothing; they don't exist. They're barely worth mentioning.  
 **Translation:** 
 
-**[7800.00s] English:** when he says the taliban or like when he was in iraq but for me the taliban are evil i still  
-**Translation:** 
-
-**[7809.18s] English:** hold a spot of hatred for them that could set this building on fire you you don't i don't know  
-**Translation:** 
-
-**[7817.06s] English:** anybody can fully understand that when you watch what they do to women and do kids and they do it  
-**Translation:** 
-
-**[7824.22s] English:** in the name of god they are the enemy they are less than they don't exist they're barely worth  
-**Translation:** 
-
-**[7833.04s] English:** the bullets we put into them but then because they use civilians it gets dicey so like then  
+**[7833.04s] English:** The bullets we put into them, but then because they use civilians, it gets dicey, so like then.  
 **Translation:** Vocabulary: dicey: 棘手的
 
-**[7841.48s] English:** everybody becomes the enemy and how are you supposed to make sense of that like what um  
+**[7841.48s] English:** Everybody becomes the enemy, and how are you supposed to make sense of that? Like, what? Um,...  
 **Translation:** 
 
-**[7848.08s] English:** you can't but here lex you can't make sense of it this is why they've done a really good job  
+**[7848.08s] English:** You can't, but here Lex; you can't make sense of it. This is why they've done a really good job.  
 **Translation:** 
 
-**[7852.62s] English:** of blending into the civilian population  
+**[7852.62s] English:** Of blending into the civilian population.  
 **Translation:** 
 
-**[7854.22s] English:** they've done it intentionally they've done it on purpose so they're brilliant this is why you guys  
+**[7854.22s] English:** They've done it intentionally; they've done it on purpose. So, they're brilliant. This is why, you guys.  
 **Translation:** Vocabulary: blending: 融合
 
-**[7860.32s] English:** couldn't beat them this is why we couldn't fucking beat them they use their people so effectively  
+**[7860.32s] English:** Couldn't beat them; this is why we couldn't fucking beat them—they use their people so effectively.  
 **Translation:** 
 
-**[7866.54s] English:** they have no shame in that they have no issue with that they take no qualms with wiping a kid  
-**Translation:** Vocabulary: qualms: 顾虑
+**[7866.54s] English:** They have no shame in that; they have no issue with it, and they take no qualms about wiping a kid.  
+**Translation:** Vocabulary: qualms: 顾虑; wiping: 清除
 
-**[7873.18s] English:** off the face of the earth if it means they can get close enough to a soldier to throw a fucking  
+**[7873.18s] English:** Off the face of the earth, if it means they can get close enough to a soldier to throw a fucking  
 **Translation:** 
 
-**[7877.80s] English:** bomb into their tank this is why they're affected how do you beat them then is this  
+**[7877.80s] English:** Bomb into their tank; this is why they're affected. How do you beat them, then? Is this  
 **Translation:** 
 
-**[7884.14s] English:** you  
+**[7884.14s] English:** You.  
 **Translation:** 
 
-**[7884.20s] English:** there's no winning either you just basically do policeman type work or you do your best i mean  
+**[7884.20s] English:** There's no winning; either you just basically do policeman-type work, or you do your best. I mean.  
 **Translation:** 
 
-**[7891.42s] English:** that's one way so the other is uh you come from an artillery background a fucking hellfire missile  
+**[7891.42s] English:** That's one way. So, the other is that you come from an artillery background, like a fucking Hellfire missile.  
 **Translation:** 
 
-**[7899.80s] English:** yeah the whole place off the face of the earth you can't beat radicalism like that right now  
-**Translation:** Vocabulary: artillery: 大炮; hellfire: 地狱火; radicalism: 激进主义
+**[7899.80s] English:** Yeah, the whole place off the face of the earth—you can't beat radicalism like that right now.  
+**Translation:** Vocabulary: artillery: 大炮; hellfire: 地狱火; missile: 导弹; radicalism: 激进主义
 
-**[7904.76s] English:** the problem is is we've we've let it go unchecked we had it kind of in check for 20 years we just  
+**[7904.76s] English:** The problem is that we've let it go unchecked. We had it kind of in check for 20 years, but then we just...  
 **Translation:** 
 
-**[7912.62s] English:** shot ourselves in the foot  
+**[7912.62s] English:** Shot ourselves in the foot.  
 **Translation:** 
 
-**[7914.20s] English:** the chest and the face so the the problem with uh force  
+**[7914.20s] English:** The chest and the face. So, the problem with using force, huh?  
 **Translation:** 
 
-**[7920.00s] English:** is it creates long-term hate because uh young kids and propaganda and like propaganda works  
+**[7920.00s] English:** Is it that creates long-term hate because, uh, young kids are susceptible to propaganda, and propaganda works.  
+**Translation:** Vocabulary: propaganda: 宣传; susceptible: 易受影响的
+
+**[7928.54s] English:** So, you see your father or your brother die because of a bomb; it's very easy to convince.  
 **Translation:** 
 
-**[7928.54s] English:** so you you see your father your brother die because of a bomb it's very easy to convince  
+**[7935.62s] English:** That person died because of evil Americans, and tell whatever story you want about it.  
 **Translation:** 
 
-**[7935.62s] English:** that person that they died because of uh evil americans and tell whatever story you want about  
+**[7940.74s] English:** America, or Canada, Russia—that's the biggest problem. So it seems like there has to be better.  
 **Translation:** 
 
-**[7940.74s] English:** america or canada russia that's the biggest problem so it seems like there got to be better  
+**[7945.28s] English:** Solutions, because, um, I mean, I talk about love, but it's honestly basically figuring out  
 **Translation:** 
 
-**[7945.28s] English:** solutions because um i mean i talk about love but it's it's honestly basically uh figuring out  
+**[7953.72s] English:** Sneaky ways of empowering women, educating people—like, yes, and—and not in a not.  
 **Translation:** 
 
-**[7953.72s] English:** sneaky ways of empowering women of educating people of like yes and like and not in a not  
+**[7960.96s] English:** A cheesy way, but not like in the same level of mass warfare, but with love, so you're  
+**Translation:** Vocabulary: cheesy: 陈词滥调; educating: 教育; empowering: 赋权; sneaky: 狡猾的; warfare: 战争
+
+**[7969.84s] English:** Talking about DARPA budgets, DoD budgets, but like, do that where you  
 **Translation:** 
 
-**[7960.96s] English:** a cheesy way but not like like in the same level of like mass warfare but with love so you're  
-**Translation:** Vocabulary: cheesy: 陈词滥调; empowering: 赋权; sneaky: 狡猾的
-
-**[7969.84s] English:** talking about darpa budgets dod budgets but like do that where you  
+**[7975.02s] English:** You.  
 **Translation:** 
 
-**[7975.02s] English:** you  
-**Translation:** Vocabulary: darpa: DARPA预算
-
-**[7975.06s] English:** you  
+**[7975.06s] English:** You.  
 **Translation:** 
 
-**[7975.26s] English:** you  
+**[7975.26s] English:** You.  
 **Translation:** 
 
-**[7975.28s] English:** educate and empower women by force and it you know they want to learn right i mean that you're  
+**[7975.28s] English:** Educate and empower women, but do it by choice, and if they want to learn, right? I mean, that's what you're aiming for.  
 **Translation:** 
 
-**[7981.86s] English:** not like forcing anybody you're setting them free that's exactly it like combat flip-flops does this  
-**Translation:** Vocabulary: combat: 战斗; empower: 赋能
+**[7981.86s] English:** Not like forcing anybody; you're setting them free—that's exactly it. Like combat flip-flops, does this  
+**Translation:** Vocabulary: aiming: 目标; combat: 对抗; empower: 赋权
 
-**[7987.12s] English:** they do this they give literacy they teach girls to read nothing else to read because as soon as  
+**[7987.12s] English:** They do this: they give literacy, teach girls to read — nothing else to read, because as soon as  
 **Translation:** 
 
-**[7994.48s] English:** you can read you know what that happened you know what happens then what's combat flip-flops that's  
+**[7994.48s] English:** You can read, you know, what that happened. You know, what happens, then what's combat flip-flops? That's  
 **Translation:** 
 
-**[7999.64s] English:** the scarf right there that's made in afghanistan so when you buy something from them the proceeds  
+**[7999.64s] English:** The scarf, right there, that's made in Afghanistan. So, when you buy something from them, the proceeds...  
 **Translation:** 
 
-**[8005.36s] English:** go to literacy in afghanistan for girls they've given literacy to 800 girls over there yeah  
+**[8005.36s] English:** Go to literacy in Afghanistan for girls; they've given literacy to 800 girls over there, yeah.  
 **Translation:** Vocabulary: afghanistan: 阿富汗
 
-**[8011.48s] English:** they're really cool uh griff owns the one he was army ranger and his buddy but lee i think is his  
+**[8011.48s] English:** They're really cool. Uh, Griff owns the one; he was an Army Ranger, and his buddy, but Lee—I think—is his.  
 **Translation:** 
 
-**[8016.10s] English:** name they were on shark tank a long time ago but they um they do shoes and i think they're called  
-**Translation:** Vocabulary: griff: 格里夫; shark: 鲨鱼投资
+**[8016.10s] English:** Name, they were on Shark Tank a long time ago, but they do shoes, and I think they're called [insert name here].  
+**Translation:** Vocabulary: griff: 格里夫; ranger: ranger; shark: 鲨鱼投资
 
-**[8021.62s] English:** schmongs i don't know how to say it properly built in afghanistan yes and then the proceeds go back  
+**[8021.62s] English:** Schmongs—I don't know how to say it properly—built in Afghanistan, yes, and then the proceeds go back.  
 **Translation:** 
 
-**[8027.52s] English:** there they do  
+**[8027.52s] English:** There, they do.  
 **Translation:** 
 
-**[8029.12s] English:** you  
+**[8029.12s] English:** You.  
 **Translation:** 
 
-**[8029.64s] English:** great work for literacy and you know as well as anyone if you can teach someone to read  
+**[8029.64s] English:** Great work for literacy, and you know as well as anyone, if you can teach someone to read.  
 **Translation:** 
 
-**[8034.52s] English:** good color dark like your soul  
+**[8034.52s] English:** Good, a dark color like your soul.  
 **Translation:** 
 
-**[8037.74s] English:** matches  
+**[8037.74s] English:** Matches.  
 **Translation:** 
 
-**[8040.00s] English:** on the inside just on the inside all right the outside is just the it's just the suit i feel  
+**[8040.00s] English:** On the inside, just on the inside, all right. The outside is just the suit I feel.  
 **Translation:** 
 
-**[8046.72s] English:** like you think that's your suit of armor but i feel like it's it's there see what were you saying  
+**[8046.72s] English:** Like, you think that's your suit of armor, but I feel like it's more of a liability. See what were you saying?  
+**Translation:** Vocabulary: liability: 负担
+
+**[8052.02s] English:** Sorry, what were you saying? I was saying, go on; I'll allow this, all right? I think there's room.  
 **Translation:** 
 
-**[8052.02s] English:** sorry what were you saying i was saying go on i will allow this all right i think there is room  
+**[8058.24s] English:** If you teach education, the problem is we've taken a massive step backward. I know that the Taliban  
+**Translation:** Vocabulary: backward: 倒退
+
+**[8066.36s] English:** Have just instituted this week: honor killings will be back, stonings are back, and...  
 **Translation:** 
 
-**[8058.24s] English:** if you teach education the problem is we've taken a massive step backwards i know that the taliban  
-**Translation:** Vocabulary: backwards: 倒退
+**[8073.98s] English:** Dismemberments, as well. Holly McKay is the reporter who's been reporting that from the ground; she's  
+**Translation:** Vocabulary: instituted: 实施; killings: 杀人; stonings: 石头砸死
 
-**[8066.36s] English:** have just instituted uh this week honor killings will be back stonings are back and um uh  
+**[8078.04s] English:** Still, there. The way to pull people in my opinion out of something like that is through education.  
 **Translation:** 
 
-**[8073.98s] English:** dismemberments as well holly mckay is the reporter that's been reporting that from the ground she's  
-**Translation:** Vocabulary: stonings: 石刑
-
-**[8078.04s] English:** still there the way to pull people in my opinion out of something like that is through education  
-**Translation:** 
-
-**[8084.02s] English:** well we just took all of that away which is pretty horrific in my opinion because  
+**[8084.02s] English:** Well, we just took all of that away, which is pretty horrific, in my opinion, because...  
 **Translation:** Vocabulary: horrific: 恐怖的
 
-**[8090.60s] English:** you've taught over 20 years you're you're perfectly right lex when you say that  
+**[8090.60s] English:** You've taught for over 20 years, Lex. You're perfectly right when you say that.  
 **Translation:** 
 
-**[8096.36s] English:** hate and violence won't work it won't because you see dad get killed on the battlefields well  
+**[8096.36s] English:** Hate and violence won't work; it won't, because you see, Dad got killed on the battlefields, well.  
 **Translation:** Vocabulary: battlefields: 战场
 
-**[8102.54s] English:** that 14 year old little boy is going to pick up an ak-47 and go avenge dad's death that's just the  
+**[8102.54s] English:** That 14-year-old little boy is going to pick up an AK-47 and avenge Dad's death. That's just the  
 **Translation:** 
 
-**[8106.68s] English:** way it's going to be well we think about it you were there for 20 years there's a couple of  
-**Translation:** Vocabulary: avenge: 报仇
+**[8106.68s] English:** Way it's going to be: Well, we think about it; you were there for 20 years, there's a couple of  
+**Translation:** Vocabulary: avenge: 为...报仇
 
-**[8110.78s] English:** generations in there there's another generation that's either grown up in this or has seen enough  
+**[8110.78s] English:** Generations in there, there's another generation that's either grown up in this or has seen enough.  
 **Translation:** 
 
-**[8115.12s] English:** of this so they're always going to be a subset that think that we're the enemy and fair we haven't  
+**[8115.12s] English:** Of this, so they're always going to be a subset that thinks that we're the enemy, and fair enough, we haven't.  
 **Translation:** 
 
-**[8122.32s] English:** done always the greatest things but the one thing that we have done that i did participate in is  
+**[8122.32s] English:** Done, I've always thought the greatest things, but the one thing that we have done that I did participate in is  
 **Translation:** 
 
-**[8126.36s] English:** giving literacy giving girls an opportunity letting them know that you aren't second-class  
+**[8126.36s] English:** Giving literacy to girls gives them an opportunity and lets them know that they aren't second-class.  
 **Translation:** 
 
-**[8132.58s] English:** citizens you can do things too and that's why we have to look at war differently there's times for  
+**[8132.58s] English:** Citizens, you can do things too, and that's why we have to look at war differently. There's times for  
 **Translation:** 
 
-**[8141.26s] English:** violence oh there is time for violence and there's time for missiles and there is time for  
+**[8141.26s] English:** Violence, oh, there is a time for violence, and there is a time for missiles, and there is a time for  
 **Translation:** Vocabulary: missiles: 导弹
 
-**[8149.72s] English:** detainees and there's times for bagging tags and double taps of the fucking face there's times for  
+**[8149.72s] English:** Detainees, and there are times for bagging, tagging, and double taps to the fucking face. There's times for  
 **Translation:** 
 
-**[8154.62s] English:** all of that but there needs to be a change and there needs to be a change and there needs to be a  
-**Translation:** Vocabulary: detainees: 被拘留者
+**[8154.62s] English:** All of that, but there needs to be a change, and there needs to be a change, and there needs to be a  
+**Translation:** Vocabulary: detainees: 被拘留者; tagging: 标记
 
-**[8156.36s] English:** change and there needs to be more time to educate the problem  
+**[8156.36s] English:** Change, and there needs to be more time to educate about the problem.  
 **Translation:** 
 
-**[8160.00s] English:** you can't educate if you're in a country where their culture doesn't believe in that you're  
+**[8160.00s] English:** You can't educate if you're in a country where their culture doesn't believe in that.  
 **Translation:** 
 
-**[8164.96s] English:** fighting so many different things that you it's an almost an impossible situation  
+**[8164.96s] English:** Fighting so many different things; it's an almost impossible situation.  
 **Translation:** 
 
-**[8172.40s] English:** when you look at the 20 years in afghanistan and we just pulled out there's a sudden pull  
-**Translation:** Vocabulary: afghanistan: 阿富汗
+**[8172.40s] English:** When you look at the 20 years in Afghanistan, and we just pulled out, there's a sudden pullback.  
+**Translation:** Vocabulary: pullback: 撤退
 
-**[8177.28s] English:** out of troops what do you think about those 20 years uh let me ask a hard question which is uh  
+**[8177.28s] English:** Out of troops, what do you think about those 20 years? Uh, let me ask a hard question: which is...  
 **Translation:** 
 
-**[8185.20s] English:** was it worth it going into afghanistan and you're sort of you're one person my limited capacity  
+**[8185.20s] English:** Was it worth it going into Afghanistan? You're sort of one person with a limited capacity, aren't you?  
 **Translation:** 
 
-**[8194.88s] English:** you have experienced a specific set of extremely difficult things you've met a lot of humans  
+**[8194.88s] English:** You have experienced a specific set of extremely difficult things, and you've met a lot of humans.  
 **Translation:** 
 
-**[8203.76s] English:** you understand certain aspects of the way this war is carried out but if you zoomed out  
+**[8203.76s] English:** You understand certain aspects of the way this war is carried out, but if you zoomed out,...  
+**Translation:** Vocabulary: zoomed: 放大
+
+**[8209.12s] English:** At the big story, like you like history too, when you think of the history 100 years from now.  
 **Translation:** 
 
-**[8209.12s] English:** at the big story like you like history too when you think of the history 100 years from  
+**[8214.96s] English:** Now.  
 **Translation:** 
 
-**[8214.96s] English:** now  
+**[8215.20s] English:** We look at the invasion of Afghanistan; I don't even think you need to go that far back to know.  
 **Translation:** 
 
-**[8215.20s] English:** we look at uh the invasion of afghanistan i don't even think you need to go far that back to know  
+**[8221.36s] English:** That it was—we went in on false pretenses. We did; we—that's not a good start, what's that?  
+**Translation:** Vocabulary: afghanistan: 阿富汗; pretenses: 借口
+
+**[8230.72s] English:** Saying that future behavior is, um, a good indicator of past behavior is a good indicator of future behavior.  
 **Translation:** 
 
-**[8221.36s] English:** that it was we went in on false pretenses we did we that's not that's not a good start what's that  
-**Translation:** Vocabulary: pretenses: 借口
+**[8237.20s] English:** Right, so I struggle with that because when I first found out that the pullout was going to happen, I  
+**Translation:** Vocabulary: indicator: 指标; pullout: 撤资
 
-**[8230.72s] English:** saying future behavior is um a good was it past behavior is a good indicator of future behavior  
+**[8245.20s] English:** Um, I got really angry because my government skirted the whole situation; he  
 **Translation:** 
 
-**[8237.20s] English:** right so i struggle with that because when i first found out that the pullout was going to happen i  
-**Translation:** Vocabulary: indicator: 指示物; pullout: 撤资
-
-**[8245.20s] English:** um i got really angry because my government skated the whole situation because he  
+**[8253.04s] English:** He's having a snap election in Canada. It's happening on the 20th.  
 **Translation:** 
 
-**[8253.04s] English:** he's having a snap canada's having a snap election it's happening on the 20th  
+**[8258.00s] English:** So, that was beautifully planned by my government to hold no accountability, zero accountability.  
 **Translation:** 
 
-**[8258.00s] English:** so that was beautifully planned by my government to hold no accountability zero accountability  
+**[8266.48s] English:** And, um, the media won't talk about it. They reached out to me to do an interview about Afghanistan, and  
 **Translation:** 
 
-**[8266.48s] English:** and um the media won't talk about it they reached out to me to do an interview about afghanistan and  
+**[8271.12s] English:** Then I told them what was going on after I talked to my people who were on the ground, and then they  
 **Translation:** 
 
-**[8271.12s] English:** then i told them what was going on after i talked to my people that were on the ground and then they  
+**[8275.12s] English:** Cancelled the interview when you say my government is any better at this.  
 **Translation:** 
 
-**[8275.12s] English:** cancelled the interview when you say my government is america any better at this  
+**[8280.00s] English:** Like it feels like there's no accountability; no, not from the government, not from the American government.  
 **Translation:** 
 
-**[8280.00s] English:** like it feels like there's no accountability no no the government no no the american government's  
+**[8285.44s] English:** Is a dumpster fire. I'm not saying, I'm not saying that, but what I am saying is...  
 **Translation:** 
 
-**[8285.44s] English:** is a is is a dumpster fire i'm not saying i'm not saying that but what i am saying is  
+**[8291.42s] English:** At least they sent people to pull some people, or we sent no one to pull anyone.  
 **Translation:** 
 
-**[8291.42s] English:** at least they sent people to pull people or pull some people we sent no one to pull anyone  
+**[8303.02s] English:** And I know for a fact, because I helped move a family, I was fortunate enough to be given an  
 **Translation:** 
 
-**[8303.02s] English:** and i know for a fact because i helped move a family i was fortunate enough to be given an  
+**[8308.60s] English:** Opportunity to help move a high-value, nine-person family out of that country that worked in the  
 **Translation:** 
 
-**[8308.60s] English:** opportunity to help move a high value nine-person family out of that country that worked in the  
-**Translation:** 
-
-**[8314.02s] English:** government that worked in prosecuting the taliban that were on the top of the list i learned really  
+**[8314.02s] English:** Government that worked in prosecuting the Taliban that were on the top of the list; I learned really.  
 **Translation:** Vocabulary: prosecuting: 起诉
 
-**[8319.46s] English:** quickly the ins and outs of things and i'm really disgusted by it i learned that canada had the one  
+**[8319.46s] English:** Quickly, the ins and outs of things, and I'm really disgusted by it. I learned that Canada had the one.  
 **Translation:** 
 
-**[8325.42s] English:** email address that all canadian afghani path or visa holders were supposed to email ottawa put  
-**Translation:** Vocabulary: afghani: 阿富汗尼; disgusted: 厌恶; ottawa: 渥太华
+**[8325.42s] English:** Email address that all Canadian, Afghan, path or visa holders were supposed to email Ottawa: put  
+**Translation:** Vocabulary: afghan: 阿富汗人; disgusted: 厌恶; holders: 持有者; ottawa: 渥太华
 
-**[8330.54s] English:** two people on that email address that's confirmed canada put no more than 70 people on the ground  
+**[8330.54s] English:** Two people on that email address, which is confirmed to be from Canada, put no more than 70 people on the ground.  
 **Translation:** 
 
-**[8338.50s] English:** for  
+**[8338.50s] English:** For  
 **Translation:** 
 
-**[8338.60s] English:** that pullout and they were not allowed to leave the airport and they left well before the pullout  
+**[8338.60s] English:** That pullout, and they were not allowed to leave the airport. They left well before the pullout.  
 **Translation:** 
 
-**[8342.06s] English:** date they left on the thursday before the tuesday that was the 31st there were high value canadian  
+**[8342.06s] English:** Date they left on Thursday, the day before the Tuesday that was the 31st. There were high-value Canadian  
+**Translation:** Vocabulary: pullout: 撤军
+
+**[8349.14s] English:** Visa holders that are still in that country, that are on the top of the kill list: Canada's not doing anything about it.  
 **Translation:** 
 
-**[8349.14s] English:** visa holders that are still in that country that are on the top of the kill list canada's not doing  
+**[8353.38s] English:** Anything about it? Um, I'm disgusted with the way my government has acted because, not number one,...  
 **Translation:** 
 
-**[8353.38s] English:** anything about it um i'm disgusted in the way my government has acted because not number one  
+**[8360.50s] English:** There's an active lawsuit with veterans against the Supreme Court of Canada right now.  
 **Translation:** 
 
-**[8360.50s] English:** there's an active lawsuit with veterans against the supreme court of canada right now  
+**[8365.46s] English:** Um, we are leaving our  
+**Translation:** Vocabulary: lawsuit: 诉讼
+
+**[8368.50s] English:** Vets and our Canadians stranded over there, and we are leaving the vets that have been maimed by.  
 **Translation:** 
 
-**[8365.46s] English:** um we are leaving our  
+**[8374.62s] English:** This war in Canada, um, they're turned down for everything—I've been turned down for hearing.  
+**Translation:** Vocabulary: maimed: 受伤; stranded: 被困
+
+**[8379.90s] English:** Loss, they're saying it's not military-related. I, they have PiS follow me; it's this is normal.  
 **Translation:** 
 
-**[8368.50s] English:** vets and our canadians stranded over there and we are leaving the vets that have been maimed by  
+**[8385.74s] English:** Behavior: There's a veteran named Brock who was told by Trudeau in a meeting that after he lost...  
+**Translation:** Vocabulary: veteran: 老兵
+
+**[8392.88s] English:** He was just trying to get a new prosthetic for his leg because it was just killing him.  
 **Translation:** 
 
-**[8374.62s] English:** this war in canada um they're turned down for everything i've been turned down for hearing  
-**Translation:** Vocabulary: maimed: 残疾; stranded: 滞留
-
-**[8379.90s] English:** loss they're saying it's not military related i they have pis follow me it's this is normal  
-**Translation:** 
-
-**[8385.74s] English:** behavior there's a veteran named brock who was told by trudeau in a meeting that after he lost  
-**Translation:** 
-
-**[8392.88s] English:** his leg he was just trying to get a new a new prosthetic because it was just killing him  
-**Translation:** 
-
-**[8396.64s] English:** trudeau stood up in a meeting and said you're just killing me i'm not killing you i'm not killing you  
+**[8396.64s] English:** Trudeau stood up in a meeting and said, "You're just killing me! I'm not killing you. I'm not killing you.  
 **Translation:** Vocabulary: prosthetic: 假肢
 
-**[8398.50s] English:** asking for too much.  
+**[8398.50s] English:** Asking for too much.  
 **Translation:** 
 
-**[8400.00s] English:** less than six months later he gave 10.4 million dollars to an afghan terrorist  
+**[8400.00s] English:** Less than six months later, he gave $10.4 million to an Afghan terrorist.  
 **Translation:** 
 
-**[8404.48s] English:** that was in the canadian prison system he won and got 10.4 of our million taxpayer dollars  
+**[8404.48s] English:** That was in the Canadian prison system; he won and got $10.4 million of our taxpayer dollars.  
 **Translation:** 
 
-**[8411.30s] English:** so i don't know that american government's any better but what i do know is that the absolute  
+**[8411.30s] English:** So, I don't know that the American government is any better, but what I do know is that the absolute  
 **Translation:** 
 
-**[8416.38s] English:** fucking machines of human beings that stepped outside of the chain of command to pull my family  
+**[8416.38s] English:** Fucking machines of human beings that stepped outside of the chain of command to pull my family out of line.  
 **Translation:** 
 
-**[8422.08s] English:** out for me i know they were there the british that stayed on the ground that i could contact  
+**[8422.08s] English:** Out for me, I know they were there—the British that stayed on the ground that I could contact.  
 **Translation:** 
 
-**[8427.76s] English:** to literally confirm my biometric data and passports to get that family moved they weren't  
+**[8427.76s] English:** To literally confirm my biometric data and passports, to get that family moved, they weren't.  
 **Translation:** 
 
-**[8433.42s] English:** there that family would still be there that three-year-old that got the shit kicked out  
-**Translation:** Vocabulary: biometric: 生物识别
+**[8433.42s] English:** There, that family would still be there — that three-year-old that got the shit kicked out.  
+**Translation:** Vocabulary: biometric: 生物识别; passports: 护照
 
-**[8437.28s] English:** of him by the taliban that i was trying to exfil canada left him what what is it about  
+**[8437.28s] English:** Of him by the Taliban, I was trying to exfil; Canada left him. What is it about?  
 **Translation:** 
 
-**[8444.80s] English:** politicians and governments not willing to um do their job well doing not willing to do that  
+**[8444.80s] English:** Politicians and governments, not willing to do their job well, are not willing to do that.  
 **Translation:** 
 
-**[8455.76s] English:** a big part of the job which  
+**[8455.76s] English:** A big part of the job is which  
 **Translation:** 
 
-**[8457.70s] English:** is  
+**[8457.70s] English:** Is  
 **Translation:** 
 
-**[8457.74s] English:** like you send people to war these are heroes and then you should spend most of the time  
+**[8457.74s] English:** Like, you send people to war; these are heroes, and then you should spend most of the time.  
 **Translation:** 
 
-**[8467.92s] English:** repaying the debts to those right well what is it about why can't we because we're disposable  
+**[8467.92s] English:** Repaying the debts to those, right? Well, what is it about? Why can't we because we're disposable?  
+**Translation:** Vocabulary: disposable: 一次性的
+
+**[8476.32s] English:** Numbers, and we hire them out of high school when they're stupid enough not to understand what.  
 **Translation:** 
 
-**[8476.32s] English:** numbers and we hire them out of high school when they're stupid enough to not understand what  
+**[8481.14s] English:** They're going to get themselves into, and then we blame it on themselves for making that decision.  
 **Translation:** 
 
-**[8481.14s] English:** they're going to get themselves into and then we blame it on themselves for making that decision  
+**[8486.84s] English:** By volunteering,  
 **Translation:** 
 
-**[8486.84s] English:** by volunteering  
+**[8487.74s] English:** Yeah, but I mean, that doesn't really make sense, I mean, Trudeau—I feel like he is a good  
+**Translation:** Vocabulary: trudeau: 特鲁多; volunteering: 志愿活动
+
+**[8496.00s] English:** Human being that wants to do good, I mean, I tend to want to believe that leaders want to do  
 **Translation:** 
 
-**[8487.74s] English:** yeah but i mean that doesn't this still doesn't make sense i mean trudeau i feel like he is a good  
-**Translation:** Vocabulary: trudeau: 特鲁多; volunteering: 志愿工作
-
-**[8496.00s] English:** human being that wants to do good for i mean i tend to i want to believe that leaders want to do  
-**Translation:** 
-
-**[8502.66s] English:** good by the heroes of this world and it doesn't like i i don't understand the system of delusion  
+**[8502.66s] English:** Good, by the heroes of this world, and it doesn't like—I don't understand the system of delusion.  
 **Translation:** Vocabulary: delusion: 错觉
 
-**[8511.68s] English:** you have to live in to not understand who the heroes are like i refuse to believe trudeau is  
+**[8511.68s] English:** You have to live through it to not understand who the heroes are, like I refuse to believe Trudeau is.  
 **Translation:** 
 
-**[8516.80s] English:** somehow a bad person i don't understand who the heroes are i don't understand who the heroes are  
+**[8516.80s] English:** Somehow, a bad person—I don't understand who the heroes are; I don't understand who the heroes are.  
 **Translation:** 
 
-**[8517.74s] English:** you haven't met him though have you i don't  
+**[8517.74s] English:** You haven't met him, though, have you? I don't.  
 **Translation:** 
 
 **[8520.00s] English:** Actually, I'm speaking about Trudeau without knowing, but I mean, in general, think that way about leaders.  
 **Translation:** 
 
-**[8526.44s] English:** I just think they surround themselves by people who delude them, who like their yes people, yes, people that lead them into a kind of reality that becomes detached from actual reality.  
+**[8526.44s] English:** I just think they surround themselves with people who delude them, who are like their yes-men, yes, people that lead them into a kind of reality that becomes detached from actual reality.  
 **Translation:** 
 
-**[8538.76s] English:** And so they they misunderstand the priorities of this world.  
-**Translation:** Vocabulary: delude: 蒙蔽; detached: 脱离; misunderstand: 误解; priorities: 优先级
+**[8538.76s] English:** And so they misunderstand the priorities of this world.  
+**Translation:** Vocabulary: delude: 欺骗; detached: 脱离; misunderstand: 误解; priorities: 优先级
 
-**[8541.88s] English:** They think maybe some kind of special interest.  
+**[8541.88s] English:** They think maybe it's some kind of special interest.  
 **Translation:** 
 
-**[8545.16s] English:** They focus on that versus like the humans.  
+**[8545.16s] English:** They focus on that, versus the humans.  
 **Translation:** 
 
-**[8547.86s] English:** If you look back, was there a way we could have done something better in Afghanistan, assuming we do the invasion?  
+**[8547.86s] English:** If you look back, was there a way we could have done something better in Afghanistan, assuming we invaded?  
 **Translation:** 
 
-**[8556.52s] English:** So is it ultimately about taking care of the veterans, like investing more money in the education of women and liberating people who are suffering injustice in those parts of the world?  
+**[8556.52s] English:** So, is it ultimately about taking care of the veterans, like investing more money in the education of women and liberating people who are suffering injustice in those parts of the world?  
 **Translation:** Vocabulary: afghanistan: 阿富汗; liberating: 解放
 
-**[8574.54s] English:** Like what's the better way to do it?  
+**[8574.54s] English:** What's the better way to do it?  
 **Translation:** 
 
-**[8575.96s] English:** And one other aspect is.  
+**[8575.96s] English:** And one other aspect is:  
 **Translation:** 
 
-**[8577.96s] English:** On the U.S. side, paid over six trillion dollars for the for the wars in the Middle East since 9-11.  
+**[8577.96s] English:** On the U.S. side, they have paid over six trillion dollars for the wars in the Middle East since 9/11.  
 **Translation:** 
 
-**[8584.22s] English:** So the financial side as well.  
-**Translation:** Vocabulary: trillion: 万亿
+**[8584.22s] English:** So, the financial side as well.  
+**Translation:** Vocabulary: trillion: 兆
 
 **[8586.10s] English:** Is there something you can comment on things we could have done better?  
 **Translation:** 
 
-**[8591.46s] English:** That's a loaded question because you're talking to someone who had no hand in what happened other than do this and do that.  
+**[8591.46s] English:** That's a loaded question because you're talking to someone who had no hand in what happened, other than to do this and do that.  
 **Translation:** 
 
-**[8598.36s] English:** So I can go from my perspective, which is there was probably plenty of things that we could have been doing better.  
+**[8598.36s] English:** So, I can go from my perspective, which is that there were probably plenty of things we could have done better.  
 **Translation:** 
 
-**[8604.50s] English:** I think there was a lack of leadership from the get go.  
+**[8604.50s] English:** I think there was a lack of leadership from the very beginning.  
 **Translation:** 
 
 **[8607.86s] English:** I think the preparation that the Canadian military gave me was nowhere sufficient for a deployment of that level.  
@@ -5497,7 +5498,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8617.16s] English:** Mind you, things happen.  
 **Translation:** Vocabulary: deployment: 部署
 
-**[8618.84s] English:** They didn't realize things would happen, but yet they happen with little to absolutely no cultural idea was that I was walking into.  
+**[8618.84s] English:** They didn't realize things would happen, but they did, with little to absolutely no cultural context for what I was walking into.  
 **Translation:** 
 
 **[8630.04s] English:** Like when the one male in the family grabbed the back of my vest because my hair was tucked in.  
@@ -5509,11 +5510,11 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8637.10s] English:** I couldn't understand.  
 **Translation:** 
 
-**[8637.74s] English:** Why he was attacking me.  
+**[8637.74s] English:** Why was he attacking me?  
 **Translation:** 
 
-**[8640.00s] English:** There was no real breakdown of this is what you're going into.  
-**Translation:** 
+**[8640.00s] English:** There was no real breakdown of what this is what you're going into.  
+**Translation:** Vocabulary: breakdown: 分解
 
 **[8644.36s] English:** This is the culture.  
 **Translation:** 
@@ -5530,22 +5531,22 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8651.14s] English:** There was none of that.  
 **Translation:** 
 
-**[8652.80s] English:** And something I speak about frequently, and I think it's important to acknowledge is when  
+**[8652.80s] English:** And something I speak about frequently, and I think it's important to acknowledge, is when.  
 **Translation:** 
 
-**[8657.14s] English:** you're doing any of that training, we are giving none of our soldiers proper mental  
+**[8657.14s] English:** You're doing any of that training, we are giving none of our soldiers proper mental health support.  
 **Translation:** 
 
-**[8660.80s] English:** health training tools in that fucking toolbox or ways or things to look for on their buddy  
+**[8660.80s] English:** Health training tools in that fucking toolbox, or ways or things to look for on their buddy.  
 **Translation:** Vocabulary: toolbox: 工具箱
 
-**[8668.14s] English:** because we've created a system and a problem where if you say that you're ill or that you're  
+**[8668.14s] English:** Because we've created a system and a problem where, if you say that you're ill or that you're  
 **Translation:** 
 
-**[8674.12s] English:** struggling with PTSD, you're done.  
+**[8674.12s] English:** Struggling with PTSD, you're done.  
 **Translation:** 
 
-**[8676.58s] English:** No one's going to say that.  
+**[8676.58s] English:** No one is going to say that.  
 **Translation:** 
 
 **[8678.12s] English:** They're going to keep struggling with it.  
@@ -5554,25 +5555,25 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8679.58s] English:** And that's when you get loose cannons.  
 **Translation:** 
 
-**[8680.92s] English:** When you get problems happen, so you get fractures start to happen in leadership, and that's  
-**Translation:** Vocabulary: fractures: 裂痕
+**[8680.92s] English:** When you have problems happening, so you get fractures starting to happen in leadership, and that's  
+**Translation:** Vocabulary: cannons: 失控的人; fractures: 裂痕
 
-**[8687.54s] English:** being seen and has been seen now for a while.  
+**[8687.54s] English:** Being seen and has been seen now for a while.  
 **Translation:** 
 
-**[8690.60s] English:** So in terms of what we could have done, say, for a better.  
+**[8690.60s] English:** So, in terms of what we could have done, say, for a better result.  
 **Translation:** 
 
 **[8697.54s] English:** A better.  
 **Translation:** 
 
-**[8698.14s] English:** A better way to go into the country, a better way to help the country.  
+**[8698.14s] English:** A better way to go into the country, and a better way to help the country.  
 **Translation:** 
 
-**[8702.80s] English:** I can't speak to that as much as I wish I could because I don't know that I would have all  
+**[8702.80s] English:** I can't speak to that as much as I wish I could because I don't know that I would have all the information.  
 **Translation:** 
 
-**[8708.48s] English:** the answers.  
+**[8708.48s] English:** The answers.  
 **Translation:** 
 
 **[8709.78s] English:** What about withdrawal?  
@@ -5584,14 +5585,14 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8713.82s] English:** That's a cold.  
 **Translation:** 
 
-**[8715.32s] English:** Do you think grab more gradual?  
+**[8715.32s] English:** Do you think it should be more gradual?  
 **Translation:** 
 
-**[8717.54s] English:** You think it's you think it's better to maintain presence there for indefinitely?  
+**[8717.54s] English:** You think it's better to maintain a presence there indefinitely?  
 **Translation:** 
 
 **[8724.08s] English:** Like, I don't know about that.  
-**Translation:** Vocabulary: indefinitely: 无期限
+**Translation:** Vocabulary: indefinitely: 无期限地
 
 **[8725.68s] English:** But I do know.  
 **Translation:** 
@@ -5602,7 +5603,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8728.14s] English:** We have bases.  
 **Translation:** 
 
-**[8728.98s] English:** We I say weeks.  
+**[8728.98s] English:** We say weeks.  
 **Translation:** 
 
 **[8729.90s] English:** I serve with them.  
@@ -5617,7 +5618,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8734.62s] English:** Americans have bases in Germany.  
 **Translation:** 
 
-**[8736.40s] English:** There's reasons there's bases everywhere.  
+**[8736.40s] English:** There are reasons; there are bases everywhere.  
 **Translation:** 
 
 **[8738.46s] English:** There's a smart.  
@@ -5626,19 +5627,19 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8740.46s] English:** There's an intellectual way to look at this.  
 **Translation:** 
 
-**[8742.44s] English:** You want to be able to have eyes and ears, can't have eyes and ears when you do things  
+**[8742.44s] English:** You want to be able to have eyes and ears; can't have them when you're doing things.  
 **Translation:** 
 
-**[8747.52s] English:** like you just did.  
+**[8747.52s] English:** Like you just did.  
 **Translation:** 
 
-**[8749.20s] English:** The way that we pulled out of that country, that's right.  
+**[8749.20s] English:** The way we pulled out of that country is right.  
 **Translation:** 
 
-**[8751.86s] English:** The way that I hate saying American British because it puts like a blame on them.  
+**[8751.86s] English:** The way I hate saying "American vs. British" because it puts a blame on them.  
 **Translation:** 
 
-**[8755.00s] English:** I say we because I'm a soldier.  
+**[8755.00s] English:** I say, "We," because I'm a soldier.  
 **Translation:** 
 
 **[8756.80s] English:** I.  
@@ -5647,868 +5648,868 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[8757.80s] English:** I'm a real soldier.  
 **Translation:** 
 
-**[8758.80s] English:** Mm hmm.  
+**[8758.80s] English:** Mmm hmm.  
 **Translation:** 
 
 **[8759.80s] English:** The way we pulled out of that.  
 **Translation:** 
 
-**[8760.00s] English:** country, my five-year-old could have done it better. He could have said, mommy, why are we  
+**[8760.00s] English:** Country, my five-year-old could have done it better. He could have said, "Mommy, why are we...  
 **Translation:** 
 
-**[8765.60s] English:** not keeping that Bagram base? Mommy, why are we not keeping that base just until we get everyone  
+**[8765.60s] English:** Not keeping that Bagram base? Mommy, why are we not keeping that base just until we get everyone settled?  
 **Translation:** Vocabulary: bagram: 巴格拉姆基地
 
-**[8771.40s] English:** out that we need? Why are we going to a civilian airport that we don't control, that we don't  
+**[8771.40s] English:** Out that we need? Why are we going to a civilian airport that we don't control or regulate?  
 **Translation:** 
 
-**[8775.78s] English:** understand? Mommy, why are we doing this when there's only one road to it? My five-year-old  
+**[8775.78s] English:** Understand, Mommy? Why are we doing this when there's only one road to it? My five-year-old asked.  
+**Translation:** Vocabulary: regulate: 管理
+
+**[8781.54s] English:** It would have been a conversation with me. It was so poorly done. It was so poorly executed, and no.  
 **Translation:** 
 
-**[8781.54s] English:** would have that conversation with me. It was so poorly done. It was so poorly executed and no  
+**[8789.72s] English:** Fault of the soldiers on the ground, on their own. My God, I can tell you there are operators.  
+**Translation:** Vocabulary: executed: 实施; operators: 操作员
+
+**[8795.06s] English:** I just call him A. I don't say who he is because he's told me not to. There's a guy named A, and  
 **Translation:** 
 
-**[8789.72s] English:** fault of the soldiers on the ground on their own. My God, I can tell you there's operators.  
+**[8799.76s] English:** There's another guy named R, and there are a few others named D. These guys gave everything.  
 **Translation:** 
 
-**[8795.06s] English:** I just call them A. I don't say who he is because he's told me not to. There's a guy named A and  
+**[8808.96s] English:** To try to pull my family when no one else would, I just got them on the  
 **Translation:** 
 
-**[8799.76s] English:** there's another guy named R and there's a few other named D. These guys, they gave everything  
+**[8815.28s] English:** Phone and said, "I don't know who the fuck you're talking to. I don't know how many people you're  
 **Translation:** 
 
-**[8808.96s] English:** to try to pull my family when no one else would pull my family for me. They just got me on the  
+**[8817.60s] English:** Trying to get a hold of her, but you've got everyone looking.  
 **Translation:** 
 
-**[8815.28s] English:** phone and said, I don't know who the fuck you're talking to. I don't know how many people you're  
+**[8819.72s] English:** I've gone to everyone I know. I've done stuff on Instagram. I've got a contact, but the contact  
 **Translation:** 
 
-**[8817.60s] English:** trying to get a hold of here, but you've got everyone looking.  
+**[8825.34s] English:** Called me. I called them. I was handling this case. When they call you and say,  
 **Translation:** 
 
-**[8819.72s] English:** I've gone to everyone I know. I've done stuff on Instagram. I've got a contact. The contact  
+**[8831.74s] English:** We can't go back to the gate; my three-year-old just got beaten up by the Taliban.  
+**Translation:** Vocabulary: beaten: 被打
+
+**[8835.76s] English:** They say, "What do we do now?" I'm in Vancouver. Why am I being left to deal with this? Why is  
 **Translation:** 
 
-**[8825.34s] English:** called me. I called them. I was handling this family. When they call you and say,  
-**Translation:** 
-
-**[8831.74s] English:** we can't go back to the gate, my three-year-old just got beat up by the Taliban.  
-**Translation:** 
-
-**[8835.76s] English:** They say, what do we do now? I'm in Vancouver. Why am I being left to deal with this? Why is  
-**Translation:** 
-
-**[8843.94s] English:** the civilian and ex-military population being left to deal with this? Why was this not thought  
+**[8843.94s] English:** The civilian and ex-military population were left to deal with this? Why wasn't this thought through?  
 **Translation:** Vocabulary: vancouver: 温哥华
 
-**[8848.90s] English:** out?  
+**[8848.90s] English:** Out?  
 **Translation:** 
 
 **[8849.72s] English:** We knew this was coming. We knew the time frame.  
 **Translation:** 
 
-**[8854.32s] English:** Yeah, I ultimately blame, it almost starts at the top always, that the leadership,  
+**[8854.32s] English:** Yeah, I ultimately blame it; it almost always starts at the top with the leadership.  
 **Translation:** 
 
-**[8858.56s] English:** sorry, this is the civilian leadership. I think probably the generals know the right thing to do  
+**[8858.56s] English:** Sorry, this is the civilian leadership. I think the generals probably know the right thing to do.  
 **Translation:** 
 
-**[8865.16s] English:** here, even if they're sometimes overzealous in terms of wanting to increase. I think the great  
+**[8865.16s] English:** Here, even if they're sometimes overzealous in terms of wanting to increase, I think the great  
 **Translation:** 
 
-**[8871.80s] English:** generals understand what's needed. Then it takes great leadership on the civilian side to listen  
+**[8871.80s] English:** Generals understand what's needed. Then, it takes great leadership on the civilian side to listen.  
 **Translation:** Vocabulary: overzealous: 过于热心
 
-**[8876.42s] English:** to the generals and understand that war is not a war. It's a war. It's a war. It's a war. It's a war.  
+**[8876.42s] English:** To the generals, understand that war is not just a war. It's a war. It's a war. It's a war.  
 **Translation:** 
 
 **[8879.70s] English:** It's a war. It's a war. It's a war.  
 **Translation:** 
 
-**[8880.00s] English:** about like it's not binary yeah and it's not about the invasion and saying mission accomplished  
+**[8880.00s] English:** About, it's not binary, yeah, and it's not about the invasion and saying "mission accomplished.  
 **Translation:** 
 
-**[8885.90s] English:** you know like it's it's not about the pr it's about um like the full complexity of geopolitics  
+**[8885.90s] English:** You know, it's not about PR; it's about the full complexity of geopolitics.  
 **Translation:** Vocabulary: binary: 非此即彼; complexity: 复杂性; geopolitics: 地缘政治
 
-**[8892.56s] English:** can i ask you this can ask me whatever you want i'm looking at a book that you gave me do the  
+**[8892.56s] English:** Can I ask you this? Can I ask me whatever you want? I'm looking at a book that you gave me, do the  
 **Translation:** 
 
-**[8898.08s] English:** fucking work it's very motivating good fucking design advice that's their company called good  
+**[8898.08s] English:** Fucking work; it's very motivating. Good fucking design advice—that's their company, called Good.  
 **Translation:** Vocabulary: motivating: 激励的
 
-**[8902.82s] English:** fucking design advice that's great i know they're great website because good gfda okay so the f  
+**[8902.82s] English:** Fucking design advice—that's great. I know they're a great website, because it's good. GFDA, okay, so the F.  
 **Translation:** 
 
-**[8909.64s] English:** is the f is uh for friendship something like that they are a design company they've worked  
+**[8909.64s] English:** Is the "f" in "for" for friendship? Something like that; they are a design company, and they've worked  
 **Translation:** 
 
-**[8915.62s] English:** with apple and nike and this is their book it's been published by harper collins and it is really  
+**[8915.62s] English:** With Apple and Nike, and this is their book. It's been published by Harper Collins, and it is really  
 **Translation:** 
 
-**[8919.94s] English:** just uh it's an incredible they're an incredible company they they're they're artistically like  
-**Translation:** Vocabulary: collins: 哈泼柯林斯
+**[8919.94s] English:** Just, uh, it's an incredible company. They're an incredible company, and they're artistically like  
+**Translation:** Vocabulary: collins: 柯林斯; harper: 哈珀
 
-**[8926.30s] English:** they're a design company so you can see that um you can see it's a design company oh yeah they  
+**[8926.30s] English:** They're a design company, so you can see that. Um, you can see it's a design company, oh, yeah, they  
 **Translation:** 
 
-**[8931.08s] English:** signed it for you and uh the pages are beautiful but it's they have a saying and then a paragraph  
+**[8931.08s] English:** Signed it for you, and uh, the pages are beautiful, but it's got a saying and then a paragraph.  
 **Translation:** 
 
-**[8937.00s] English:** about each saying get fucking stuck  
+**[8937.00s] English:** About each saying, get the fuck stuck.  
 **Translation:** 
 
-**[8939.64s] English:** started obstacles are fucking opportunities fail fail and fucking fail again right ask for  
+**[8939.64s] English:** Started, obstacles are fucking opportunities. Fail, fail, and fucking fail again. Right? Ask for.  
 **Translation:** 
 
-**[8945.58s] English:** fucking help show some fucking passion finish the fucking job that's right so we should send that to  
+**[8945.58s] English:** Fucking help, show some fucking passion! Finish the fucking job—that's right. So, we should send that to  
 **Translation:** 
 
-**[8953.02s] English:** biden so i am she said that i didn't say it lex said it i didn't say it lex said it it's fine i'll  
+**[8953.02s] English:** Biden, so I am, she said that I didn't say it; Lex said it. I didn't say it; Lex said it. It's fine; I'll...  
 **Translation:** 
 
-**[8960.18s] English:** say i should also send it to trudeau as well so but i mean he probably won't know how to read it  
+**[8960.18s] English:** Say, I should also send it to Trudeau as well, so but I mean, he probably won't know how to read it.  
 **Translation:** 
 
-**[8963.82s] English:** he just taught drama instead so i'll send it to the previous four presidents how about  
+**[8963.82s] English:** He just taught drama instead, so I'll send it to the previous four presidents. How about that?  
 **Translation:** Vocabulary: trudeau: 特鲁多
 
-**[8969.64s] English:** that that's fine we can also send it to them too because they're all just as much at fault so and  
+**[8969.64s] English:** That's fine; we can also send it to them too, because they're all just as much at fault, so and  
 **Translation:** 
 
-**[8973.68s] English:** they most of them have all the same last names but okay so let me tell you about them quickly  
+**[8973.68s] English:** They mostly have the same last names, but okay, so let me tell you about them quickly.  
 **Translation:** 
 
-**[8979.56s] English:** because we did a mug with them and i was really excited about it not because it was a mug i'm a  
+**[8979.56s] English:** Because we did a mug with them, and I was really excited about it—not because it was a mug, I'm  
 **Translation:** 
 
-**[8983.60s] English:** mug person but you are that's your mug obsessed i'm obsessive about my mugs what's your favorite  
-**Translation:** Vocabulary: obsessive: 痴迷的
+**[8983.60s] English:** Mug person, but you are—that's your mug! Obsessed? I'm obsessive about my mugs. What's your favorite?  
+**Translation:** Vocabulary: obsessed: 痴迷; obsessive: 执着
 
-**[8988.84s] English:** mug currently it's mine right now the one that i have with them okay the gfdm what what is it  
+**[8988.84s] English:** Mug: Currently, it's mine right now—the one that I have with me, okay. The GFDM—what is it?  
 **Translation:** 
 
-**[8994.84s] English:** saying is it can i do you want me to read what it says on yeah please okay because i'm really happy  
+**[8994.84s] English:** Saying, "Is it okay if I read what it says? Please, okay? Because I'm really happy.  
 **Translation:** 
 
-**[8999.64s] English:** about it because  
+**[8999.64s] English:** About it, because  
 **Translation:** 
 
-**[9000.00s] English:** was we created this with them um with gfda i found out about them because my husband's office  
+**[9000.00s] English:** We created this with them, um, with GFDA. I found out about them because my husband's office.  
 **Translation:** 
 
-**[9007.52s] English:** atlas neck brace he had his very first office he had one of their prints done and it was their  
+**[9007.52s] English:** Atlas Neck Brace. He had his very first office; he had one of their prints done, and it was their  
 **Translation:** 
 
-**[9012.80s] English:** original like do the fucking work and i was really excited about them once i found out because i'm  
-**Translation:** Vocabulary: atlas: 地图集; brace: 支架
+**[9012.80s] English:** Original: Like, do the fucking work, and I was really excited about them once I found out because I'm Improved: "Like, do the fucking work. And I was really excited about them once I found out, because I'm  
+**Translation:** Vocabulary: atlas: atlases; brace: 固定带
 
-**[9019.00s] English:** like well uh fuck is my middle name and i want to make sure that i am going to whoever i work with  
+**[9019.00s] English:** Like, well, uh, fuck—is my middle name, and I want to make sure that I am going to whoever I work with.  
 **Translation:** 
 
-**[9027.82s] English:** i want to make sure that i'm working with people that i believe in that i believe what they stand  
+**[9027.82s] English:** I want to make sure that I'm working with people that I believe in and that I believe in what they stand for.  
 **Translation:** 
 
-**[9032.90s] English:** for and i just think they're brilliant so i got on the phone with them and i said hi i would like  
+**[9032.90s] English:** For example, and I just think they're brilliant. So, I got on the phone with them and said, "Hi, I would like...  
 **Translation:** 
 
-**[9039.98s] English:** you to sponsor my podcast and they said cool what's your podcast and i was like it's called  
+**[9039.98s] English:** You want me to sponsor your podcast, and they said, "Cool, what's your podcast, and I was like, it's called  
+**Translation:** Vocabulary: sponsor: 赞助
+
+**[9045.04s] English:** Brass and Unity, uh, podcast, and I want to work with you guys somewhere, and they're like, "Okay.  
 **Translation:** 
 
-**[9045.04s] English:** brass and unity uh podcast and i want to work with you guys somewhere and they're like okay  
+**[9050.14s] English:** So, like, what are you thinking? And I said, "You know, I'm looking to do. I would love one day to do.  
 **Translation:** 
 
-**[9050.14s] English:** so like what are you thinking and i said you know i'm i'm looking to do i would love one day to do  
+**[9056.44s] English:** Something with you—I don't know what it would be.  
 **Translation:** 
 
-**[9056.44s] English:** something with you i don't know what it would be  
+**[9057.82s] English:** But I would like it to be something, and they said, you know, we do like; uh, we have this book.  
 **Translation:** 
 
-**[9057.82s] English:** but i would like it to be something and they said you know we do like uh we have this book  
+**[9062.60s] English:** But we also have shirts, mugs, with our sayings on them, and prints, and so I was thinking.  
 **Translation:** 
 
-**[9062.60s] English:** but we also have like shirts and mugs with our sayings on them and prints and so i was thinking  
+**[9066.84s] English:** To myself, I was like, "Well, if I just did like a mug with them, well then I could, you know, that could...  
 **Translation:** 
 
-**[9066.84s] English:** to myself i was like well if i just did like a mug with them well then i could you know that could  
+**[9072.38s] English:** Work for what my company does, which is a jewelry and sunglasses company, but  
 **Translation:** 
 
-**[9072.38s] English:** work for what my company does which is it's a jewelry company and sunglass company but  
+**[9077.04s] English:** It could be like an add-on kind of deal. These guys are really good designers; I can already tell.  
+**Translation:** Vocabulary: designers: 设计师
+
+**[9082.00s] English:** Yeah, I knew you would like it. That's why I brought it. So, I'm sure certain people would appreciate it.  
 **Translation:** 
 
-**[9077.04s] English:** it could be like an add-on kind of deal these guys are really good designers i can already tell  
-**Translation:** Vocabulary: designers: 设计师; sunglass: 太阳镜
-
-**[9082.00s] English:** yeah i i knew you would like that's why i brought it so i'm like certain people would appreciate  
+**[9085.74s] English:** This and so.  
 **Translation:** 
 
-**[9085.74s] English:** this and so  
+**[9087.82s] English:** My whole thing, my hashtag is "work hard, help harder," and that's the whole concept of what.  
 **Translation:** 
 
-**[9087.82s] English:** my whole thing my my like hashtag is work hard help harder and that's the whole concept of what  
+**[9095.22s] English:** I do now, and so we did a mug, and it's called "Fucking Help Somebody." That's their like first.  
 **Translation:** 
 
-**[9095.22s] English:** i do now and so we did a mug and it's called fucking help somebody that's their like first  
+**[9099.60s] English:** Tag, and then the rest is kindness: a wealth that increases as it is given away.  
 **Translation:** 
 
-**[9099.60s] English:** tag and then the rest is kindness is a wealth that increases at it is given as it is given away  
+**[9106.52s] English:** What you get in return isn't passed between hands, but felt between hearts.  
 **Translation:** 
 
-**[9106.52s] English:** what you get in return isn't passed between hands but felt between hearts  
+**[9110.56s] English:** It's precisely because you've been at the bottom that you can raise others up. It's because  
 **Translation:** 
 
-**[9110.56s] English:** it's precisely because you've been at the bottom that you can raise others up it's because  
+**[9115.94s] English:** You've been at the bottom, so it's because of that that you can read a lot of stuff.  
+**Translation:** Vocabulary: precisely: 准确地
+
+**[9117.82s] English:** Have a photo here; you've been lost in the dark.  
 **Translation:** 
 
-**[9115.94s] English:** you've sorry i'm reading a lot of stuff but it's because you've been at the bottom that you can  
+**[9120.00s] English:** You can lead others to the light because you've fought with yourself that you can bring.  
 **Translation:** 
 
-**[9117.82s] English:** have photo here you've been lost in the dark  
+**[9125.22s] English:** Peace to someone else, you now have the strength because you've once struggled the best you can.  
 **Translation:** 
 
-**[9120.00s] English:** you can lead others to the light it's because you've fought with yourself that you can bring  
+**[9131.28s] English:** To come, the best you have to come from the fucking worst. You've had to take:  
+**Translation:** Vocabulary: struggled: 努力
+
+**[9136.10s] English:** So, it's this mug over there, and we're sold out of them. We just got a bunch, but what does it say?  
 **Translation:** 
 
-**[9125.22s] English:** peace to someone else you now have the strength because you've once struggled the best you have  
+**[9141.08s] English:** Fucking help, fucking help! Somebody, fucking help, somebody! And so we did. They were so gracious.  
+**Translation:** Vocabulary: gracious: 谦恭有礼
+
+**[9147.88s] English:** Enough to sit with me and be like, "What do you want the copy to be like?" And I said, "What do you  
 **Translation:** 
 
-**[9131.28s] English:** to come the best you have to come from the fucking worst you've had to take  
-**Translation:** Vocabulary: struggled: 挣扎过
-
-**[9136.10s] English:** so it's this is the mug there and we're sold out of them we just got a bunch what does it say  
+**[9152.26s] English:** Think, I want it to be like what would you write if you could write one for me? What it'd be, and they're.  
 **Translation:** 
 
-**[9141.08s] English:** fucking help fucking help somebody fucking help somebody and so we did they were so gracious  
-**Translation:** Vocabulary: gracious: 宽宏大量的
-
-**[9147.88s] English:** enough to sit with me and be like what do you want the copy to be like and i said what do you  
+**[9155.18s] English:** Like it's gonna be around lifting people up, and I was like, "Okay, cool," and they're like, "Do you want...  
 **Translation:** 
 
-**[9152.26s] English:** think i want it to be like what would you if you could write one for me what it'd be and they're  
+**[9159.58s] English:** Fucking the title, and I was like, every other word, "if we can have it," and they said, "we'll just do once.  
 **Translation:** 
 
-**[9155.18s] English:** like it's gonna be around lifting people up and i was like okay cool and they're like do you want  
+**[9164.52s] English:** And I was like, "Okay, I'll compromise," and so we came up with that copy and we put it on a mug, and we're  
 **Translation:** 
 
-**[9159.58s] English:** fucking the title and i was like every other word if we can have it and they said we'll just do once  
+**[9169.62s] English:** Gonna be doing a shirt with them, but the whole thing to me was that it embodied what I stand.  
+**Translation:** Vocabulary: compromise: 妥协; embodied: 体现
+
+**[9176.74s] English:** For now and  
 **Translation:** 
 
-**[9164.52s] English:** and i was like okay i compromise and so we came up with that copy and we put it on a mug and we're  
+**[9177.88s] English:** The healing I've gotten to now, and the point I've gotten to now in my life, because that fucking  
 **Translation:** 
 
-**[9169.62s] English:** gonna be doing a shirt with them but the the whole thing to me was that that embodied what i stand  
-**Translation:** Vocabulary: embodied: 体现
-
-**[9176.74s] English:** for now and  
+**[9184.14s] English:** Sandpit almost broke me; like, off the face of the earth, it broke me. First of all, can we go through the?  
 **Translation:** 
 
-**[9177.88s] English:** the healing i've gotten to now and the point i've gotten to now in my life because that fucking  
+**[9192.58s] English:** Full journey of that, in terms of your psychological development: Who were you before? Who are you now?  
 **Translation:** 
 
-**[9184.14s] English:** sandpit almost broke me like off the face of the earth broke me first of all can we go through the  
+**[9200.16s] English:** After, can you think about that, like what was your thought if you had to put a brain on the table, before?  
 **Translation:** 
 
-**[9192.58s] English:** full journey of that in terms of your psychological development who were you before who were you  
-**Translation:** Vocabulary: sandpit: 沙坑
-
-**[9200.16s] English:** after can you think about that like what was your yeah if you had to put a brain on the table before  
+**[9207.60s] English:** And after  
 **Translation:** 
 
-**[9207.60s] English:** and after  
+**[9207.88s] English:** After that, they tried to analyze it well. They both have CTE, so we know that they're both bruised and  
 **Translation:** 
 
-**[9207.88s] English:** after and tried to analyze it well they both have cte so we know that they're both bruised and  
+**[9213.86s] English:** Gray matter is a little dicey on them, yeah. Um, and it may sound the same, and it's not, so I'll.  
+**Translation:** Vocabulary: bruised: 受伤; dicey: 危险
+
+**[9221.20s] English:** Try to explain it to you before that, don't you laugh, because I can; I know it's coming.  
 **Translation:** 
 
-**[9213.86s] English:** gray matter is a little dicey on them yeah um and it may sound the same and it's it's not so i'll  
-**Translation:** Vocabulary: dicey: 可疑的
-
-**[9221.20s] English:** try to explain it to you before that don't you laugh because i can i know it's coming  
-**Translation:** 
-
-**[9226.18s] English:** i i was even louder even more obnoxious even more outgoing i know it's hard to believe this is you  
+**[9226.18s] English:** I was even louder, even more obnoxious, even more outgoing. I know it's hard to believe, this is you.  
 **Translation:** Vocabulary: obnoxious: 讨厌; outgoing: 外向
 
-**[9234.56s] English:** humble and quiet right now this is this is  
+**[9234.56s] English:** Humble and quiet, right now, this is this is  
 **Translation:** 
 
-**[9237.88s] English:** this is you like  
+**[9237.88s] English:** This is, you like?  
+**Translation:** Vocabulary: humble: 谦逊
+
+**[9240.00s] English:** Is normal, me now. This is who I am now, and I love that, but who I was before, I was...  
 **Translation:** 
 
-**[9240.00s] English:** is normal me now this is who i am now and i love that but who i was before i was  
-**Translation:** 
-
-**[9244.34s] English:** you know motocross taekwondo tomboy uh i didn't know how to dress i thought that if you just wore  
+**[9244.34s] English:** You know, motocross, taekwondo, tomboy—uh, I didn't know how to dress. I thought that if you just wore  
 **Translation:** Vocabulary: motocross: 摩托车越野; taekwondo: 跆拳道; tomboy: 假小子
 
-**[9256.06s] English:** like the same jeans and t-shirt all the time that was like acceptable behavior as a woman  
+**[9256.06s] English:** Like wearing the same jeans and t-shirt all the time—that was considered acceptable behavior for a woman.  
 **Translation:** 
 
-**[9259.38s] English:** yeah um i wore skate shoes i went to a catholic school that i refused to wear skirt at i wore  
+**[9259.38s] English:** Yeah, um, I wore skate shoes. I went to a Catholic school that I refused to wear skirts at; I wore  
 **Translation:** 
 
-**[9265.82s] English:** pants i played hacky sack i was so into sports i cut and split wood with my dad on weekends we  
+**[9265.82s] English:** Pants, I played hacky sack. I was so into sports that I cut and split wood with my dad on weekends. We  
 **Translation:** 
 
-**[9272.60s] English:** heated our house that way um i would go in the transport i i stayed out of trouble for the most  
+**[9272.60s] English:** Heated our house that way, um. I would go in the transport; I stayed out of trouble for the most part.  
 **Translation:** 
 
-**[9278.70s] English:** part i think i was a fairly good kid i was pretty angry though for most of my teenage life after my  
+**[9278.70s] English:** Part: I think I was a fairly good kid, but I was pretty angry for most of my teenage life after my.  
 **Translation:** 
 
-**[9285.84s] English:** coach i lost my way a little bit there um i was just crazier but happy i don't know if i was happy  
+**[9285.84s] English:** Coach, I lost my way a little bit there. Um, I was just crazier but happy—I don't know if I was happy.  
 **Translation:** 
 
-**[9295.82s] English:** now i think i was i think anger overtook who i was and i think that's why i was such a angry  
+**[9295.82s] English:** Now, I think anger overtook who I was, and I think that's why I was so angry.  
 **Translation:** 
 
-**[9302.26s] English:** individual towards my parents when i was in high school so parents was a little rough relationship  
+**[9302.26s] English:** Individuals were quite rough on me toward my parents when I was in high school, so our relationship was a little rough.  
 **Translation:** Vocabulary: overtook: 超越
 
-**[9307.96s] English:** with parents i mean yeah i mean my dad was gone a couple a couple weeks at a time so my mom  
+**[9307.96s] English:** With parents, I mean. Yeah, I mean, my dad was gone a couple of weeks at a time, so my mom...  
 **Translation:** 
 
-**[9313.18s] English:** stayed home mom had to handle me and my brother we're both competitive athletes at the time  
+**[9313.18s] English:** Stayed home; Mom had to handle me and my brother, who were both competitive athletes at the time.  
 **Translation:** 
 
-**[9317.62s] English:** by herself and when you come home and you have a daughter that just calls you like a bitch to  
+**[9317.62s] English:** By herself, and when you come home, and you have a daughter who just calls you "like a bitch," to  
 **Translation:** 
 
-**[9322.78s] English:** your face because she can't she's being bullied so bad that she can't handle you  
+**[9322.78s] English:** Your face, because she can't; she's being bullied so badly that she can't handle you.  
+**Translation:** Vocabulary: bullied: 被欺负
+
+**[9325.82s] English:** She can't understand why, but also doesn't know how to fix it. But it has no other outlet anymore.  
 **Translation:** 
 
-**[9325.82s] English:** she can't understand why but also doesn't know how to fix it but it has no other outlet anymore  
+**[9332.46s] English:** To kind of get rid of it, I wasn't nice; I was a really mean person. I broke my mom's heart, and I remember the pain.  
+**Translation:** Vocabulary: outlet: 出口
+
+**[9338.88s] English:** The day she stopped yelling, that's the day I know I broke her. I broke her. Did you have a source for this?  
 **Translation:** 
 
-**[9332.46s] English:** to kind of get rid of it i was not nice i was a really mean person i broke my mom i remember the  
+**[9343.18s] English:** Discipline in your life, like what—maybe like your dad, somebody who says you're being a bitch.  
+**Translation:** Vocabulary: discipline: 管教; yelling: 喊叫
+
+**[9349.70s] English:** Like, who would call me, "Yeah, yeah, oh, no, no, no"? My parents were incredible. Like, my dad came  
 **Translation:** 
 
-**[9338.88s] English:** day she stopped yelling that's the day i know i broke her i broke her did you have a source of  
-**Translation:** 
-
-**[9343.18s] English:** discipline in your life like what like maybe like your dad somebody who says you're being a bitch  
-**Translation:** 
-
-**[9349.70s] English:** like who would call me like yeah yeah oh no no no my parents were incredible like my dad came  
-**Translation:** 
-
-**[9355.82s] English:** from a family of like a bajillion kids who lived in a farm with no running water with like  
+**[9355.82s] English:** From a family of like a bajillion kids, who lived on a farm with no running water, with like  
 **Translation:** Vocabulary: bajillion: 无数
 
-**[9360.00s] English:** my dad was brash and abrupt so like i've caught myself doing that once in a while so like if  
+**[9360.00s] English:** My dad was brash and abrupt, so I've caught myself doing that once in a while, so like,...  
 **Translation:** 
 
-**[9365.94s] English:** i did one thing wrong if he was just in a mood i would know it so we you weren't okay so that  
+**[9365.94s] English:** I did one thing wrong. If he was just in a mood, I would know it; so we weren't okay, so that  
 **Translation:** Vocabulary: abrupt: 直截了当; brash: 鲁莽
 
-**[9373.82s] English:** that anger just took different forms it took different forms but it mostly would be directed  
+**[9373.82s] English:** That anger just took different forms. It took different forms, but it mostly would be directed.  
 **Translation:** 
 
-**[9377.88s] English:** at my mom got it because i know she would take it right and that was who i had and i i feel bad  
+**[9377.88s] English:** At my mom got it because I know she would take it, right? And that was who I had, and I feel bad.  
 **Translation:** 
 
-**[9383.60s] English:** about it to the day like i still she listened to the jocko podcast and so did my dad and my mom  
+**[9383.60s] English:** About it to the day, like I still listen to the Jocko Podcast, and so does my dad and my mom.  
 **Translation:** 
 
-**[9388.40s] English:** promised me she would never read my book because there's certain parts i just my dad on my  
+**[9388.40s] English:** Promised me she would never read my book because there are certain parts I just don't want my dad to see.  
 **Translation:** Vocabulary: jocko: 乔科
 
-**[9392.38s] English:** deployment when i called him and told him some of the stuff he started crying my dad doesn't cry  
+**[9392.38s] English:** Deployment, when I called him and told him some of the stuff, he started crying. My dad doesn't cry.  
 **Translation:** 
 
-**[9396.48s] English:** and he just said please never tell your mother this don't do that to your mom my mom like my  
+**[9396.48s] English:** And he just said, "Please never tell your mother this. Don't do that to your mom; my mom, like.  
+**Translation:** Vocabulary: deployment: 部署
+
+**[9402.48s] English:** Grandfather came from Hungary. He escaped when the Nazis left, just before the Soviets came in.  
 **Translation:** 
 
-**[9402.48s] English:** grandfather came from hungary he escaped when the not um when the nazis left when the soviets came in  
+**[9407.72s] English:** He wasn't great as a dad; my mom went through a lot as a kid, and that was because  
+**Translation:** Vocabulary: hungary: 匈牙利; nazis: 纳粹
+
+**[9418.40s] English:** My dad was in the war. That was because her dad didn't know any better, and she knew she couldn't.  
 **Translation:** 
 
-**[9407.72s] English:** he wasn't great as a dad my mom went through a lot as a kid and that was because  
-**Translation:** Vocabulary: nazis: 纳粹分子
-
-**[9418.40s] English:** my dad was in the war that was because her dad didn't know any better and she knew she couldn't  
+**[9425.72s] English:** It was like that, so her way would be to yell at me. And then I hit about 16 and I wore her down; I broke through.  
 **Translation:** 
 
-**[9425.72s] English:** be like that so her way would yet be yelling um and then i hit about 16 and i wore her down i broke  
+**[9433.70s] English:** Her, I shattered her ability to think that she could have any sort of relationship with me.  
 **Translation:** 
 
-**[9433.70s] English:** her i shattered her ability to think that she could have any sort of relationship with me you  
+**[9440.36s] English:** Wouldn't want to have had a relationship with me, but the funny thing is, you've rediscovered...  
+**Translation:** Vocabulary: rediscovered: 重新发现; shattered: 摧毁
+
+**[9445.88s] English:** That now, so you she is she, yeah? Are you guys?  
 **Translation:** 
 
-**[9440.36s] English:** wouldn't want to have had a relationship with me but the the funny thing is you've rediscovered  
-**Translation:** Vocabulary: rediscovered: 重新发现; shattered: 粉碎
-
-**[9445.88s] English:** that now so you she is she yeah are you guys  
+**[9448.40s] English:** Close now, yeah. She's so funny. She's coming out to help out again; she comes out to help out.  
 **Translation:** 
 
-**[9448.40s] English:** close now yeah she's she's so funny she's coming out to help out again she comes out to help out  
+**[9454.36s] English:** Um, with Jack all the time, and my dad—they're still truck drivers.  
 **Translation:** 
 
-**[9454.36s] English:** um with jack all the time and um my dad they're still they're still truck drivers they're still  
+**[9460.18s] English:** On the road, they team up and drive, they have their little dogs, and they go and do their thing.  
 **Translation:** 
 
-**[9460.18s] English:** on the road they team drive they have their little dogs and they go and they do their thing and  
+**[9464.14s] English:** I've had that relationship, and it's still strenuous. Like, I still...  
 **Translation:** 
 
-**[9464.14s] English:** i've had that relationship now it's it's it's still strenuous like i still when i'm having a  
-**Translation:** 
-
-**[9470.08s] English:** hard time she'll be the person i'll take it out on because i know she can take it even though i  
+**[9470.08s] English:** It will be hard for her, but she'll be the person I'll take it out on because I know she can take it, even though I  
 **Translation:** Vocabulary: strenuous: 费力的
 
-**[9474.22s] English:** know i shouldn't it's like she's my safe space to be like  
+**[9474.22s] English:** I know I shouldn't. It's like she's my safe space to be like.  
 **Translation:** 
 
-**[9478.40s] English:** blah about everything  
+**[9478.40s] English:** Blah about everything.  
 **Translation:** 
 
-**[9480.00s] English:** thing and she'll just be like well that's not nice i'm like well you're not fuck it like i  
+**[9480.00s] English:** Thing, and she'll just be like, "Well, that's not nice," I'm like, "Well, you're not, fuck it." Like, I.  
 **Translation:** 
 
-**[9483.42s] English:** and i'll take it out on her she knows i don't mean it and i try um but for whatever reason she just  
+**[9483.42s] English:** And I'll take it out on her. She knows I don't mean it, and I try, um, but for whatever reason, she just  
 **Translation:** 
 
-**[9489.82s] English:** she takes it and um and it brings it out of you yeah can you describe sort of the various  
+**[9489.82s] English:** She takes it, and um, and it brings it out of you, yeah. Can you describe sort of the various?  
 **Translation:** 
 
-**[9495.98s] English:** characteristics the the shape of your ptsd the the trauma that how the anger and hate took shape  
-**Translation:** Vocabulary: trauma: 创伤
+**[9495.98s] English:** Characteristics, the shape of your PTSD, the trauma that how the anger and hate took shape.  
+**Translation:** Vocabulary: characteristics: 特征; trauma: 创伤
 
-**[9502.98s] English:** in you in the in the seconds minutes hours months years after and after the full trauma of all the  
+**[9502.98s] English:** In the seconds, minutes, hours, days, months, and years after, and after the full trauma of all the  
 **Translation:** 
 
-**[9511.86s] English:** things you've experienced and of course that so it's funny because draco asked me something and  
+**[9511.86s] English:** Things you've experienced, and of course, that's funny because Draco asked me something and  
 **Translation:** 
 
-**[9516.36s] English:** it made me it's made me i've really been thinking a lot about it and he's like do you think if  
+**[9516.36s] English:** It made me think a lot about it, and he's like, "Do you think if?  
 **Translation:** 
 
-**[9521.52s] English:** somebody of a leadership would have just sat you down and said hey burns what you're feeling is okay  
+**[9521.52s] English:** Somebody with leadership would have just sat you down and said, "Hey, Burns, what you're feeling is okay.  
 **Translation:** 
 
-**[9529.46s] English:** what you're feeling is normal what you're feeling is  
+**[9529.46s] English:** What you're feeling is normal. What you're feeling is  
 **Translation:** 
 
-**[9532.96s] English:** what happens when you're in something like this do you think you would be where you are  
+**[9532.96s] English:** What happens when you're in something like this? Do you think you would be where you are?  
 **Translation:** 
 
-**[9538.06s] English:** and i said well i thought about it and i'm like you know i don't think i would be because i  
+**[9538.06s] English:** And I said, "Well, I thought about it, and I'm like, you know, I don't think I would.  
 **Translation:** 
 
-**[9543.42s] English:** wouldn't have been medicated out of my mind i wasn't able to process anything because i was  
+**[9543.42s] English:** Weren't I able to process anything because I was medicated out of my mind?  
 **Translation:** 
 
-**[9548.48s] English:** just given medication right from the get so for me what happened was once that light switch was off  
+**[9548.48s] English:** Just given medication right from the start, so for me, what happened was once that light switch was off.  
 **Translation:** 
 
-**[9553.44s] English:** um i was sent back to kandahar to what i once the operation was over we flew back to kandahar  
-**Translation:** Vocabulary: kandahar: 坎大哈
+**[9553.44s] English:** Um, I was sent back to Kandahar to what I once thought would be a quiet period after the operation was over, and we flew back to Kandahar.  
+**Translation:** Vocabulary: kandahar: 坎大哈; medication: 药物
 
-**[9560.30s] English:** like with the brits and then because  
+**[9560.30s] English:** Like with the Brits, and then because  
 **Translation:** 
 
-**[9562.94s] English:** there was deaths and we lost people on that operation i had to go to the british side for  
+**[9562.94s] English:** There were deaths, and we lost people on that operation. I had to go to the British side for.  
 **Translation:** Vocabulary: brits: 英国人
 
-**[9567.68s] English:** the next i think three or four days and recant word for word why what happened to a british mp  
+**[9567.68s] English:** The next, I think, three or four days, and recant word for word why what happened to a British MP.  
 **Translation:** 
 
-**[9574.48s] English:** who hand wrote statements but we had to do that on repeat to make sure we all had the same story  
+**[9574.48s] English:** Who hand-wrote statements, but we had to do that on repeat to make sure we all had the same story.  
 **Translation:** Vocabulary: recant: 撤回声明
 
-**[9578.94s] English:** nobody shot anybody in the back it's and so that i don't think is a great way to do that after an  
+**[9578.94s] English:** Nobody shot anybody in the back. It's, and so I don't think that's a great way to do that after an.  
 **Translation:** 
 
-**[9586.50s] English:** after action after action reports happen but i don't think beating a dead horse and having somebody  
+**[9586.50s] English:** After action, after action reports happen, but I don't think beating a dead horse and having somebody  
 **Translation:** 
 
-**[9591.46s] English:** repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat  
+**[9591.46s] English:** Repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat.  
 **Translation:** 
 
-**[9592.94s] English:** repeat and then just imprint more and more and more i don't i don't know that that is a great way  
+**[9592.94s] English:** Repeat and then just imprint more and more and more. I don't think that's a great way.  
 **Translation:** 
 
-**[9597.00s] English:** of doing that um and not especially for  
+**[9597.00s] English:** Of doing that, um, and not especially for.  
 **Translation:** 
 
-**[9600.00s] English:** perspective of what are they uh liability almost like legal that kind of that perspective as  
+**[9600.00s] English:** Perspective of what they are—almost like a liability, almost from a legal standpoint—that kind of perspective as.  
+**Translation:** Vocabulary: liability: 负担; standpoint: 立场
+
+**[9605.84s] English:** Opposed to the full perspective, I mean, so for people who don't know, one is the over  
 **Translation:** 
 
-**[9605.84s] English:** opposed to the full perspective i mean so for people who don't know uh one is the the over  
+**[9613.62s] English:** Medication, and that you had to undergo, and then the other is the social isolation, in terms of  
 **Translation:** 
 
-**[9613.62s] English:** medication and that you had to undergo and then the other is the social isolation in terms of  
+**[9621.72s] English:** Yeah, I mean, more than what Jaco just mentioned, you also kind of touched on that.  
 **Translation:** 
 
-**[9621.72s] English:** yeah i mean more than what jaco what you just mentioned you also kind of uh mentioned that  
+**[9629.14s] English:** Just being with other soldiers you're close with, just sitting there in silence,...  
 **Translation:** 
 
-**[9629.14s] English:** just being with um with other soldiers you're close with just sitting there in silence and  
+**[9634.90s] English:** Um, just sitting in that shared understanding, even that in itself communicates a lot.  
 **Translation:** 
 
-**[9634.90s] English:** um just sitting in that shared understanding even that in itself communicates like  
+**[9643.06s] English:** These feelings are normal. You don't have to talk, you don't have to talk.  
 **Translation:** 
 
-**[9643.06s] English:** these feelings are normal like you don't have to talk you don't have to talk  
+**[9647.16s] English:** And you were robbed of that, as well, essentially. Yeah, because I was, I was borrowed, I think.  
 **Translation:** 
 
-**[9647.16s] English:** and you were robbed of that as well essentially yeah because i was because i was borrowed i think  
+**[9653.92s] English:** Jaco had a name for us when we got it borrowed. It was like there was, like, a I don't know what they...  
 **Translation:** 
 
-**[9653.92s] English:** jaco had a name for us when we get borrowed it was like there was like a i don't know what they  
+**[9658.48s] English:** Call us, but it's like  
 **Translation:** 
 
-**[9658.48s] English:** call us but it's like  
+**[9659.14s] English:** When you take a person and put them in another unit, there's a name for it, I don't know what it is.  
 **Translation:** 
 
-**[9659.14s] English:** when you take a person and you put them in another unit there's a name for it i don't  
+**[9661.96s] English:** Remember, what it was: you never see those people again, but because I was in Kandahar, the doctors...  
 **Translation:** 
 
-**[9661.96s] English:** remember what it was you never see those people again but because i was in kandahar the doctors  
+**[9667.60s] English:** Gave me the medication because I think I was the one who said, "I don't think this is right.  
+**Translation:** Vocabulary: kandahar: 坎大哈; medication: 药物
+
+**[9672.52s] English:** Feeling right, this is wrong because when I got back that night, there was supposed to be somebody there.  
 **Translation:** 
 
-**[9667.60s] English:** gave me the medication because i i think i was the one who said i don't this isn't right I don't  
+**[9677.08s] English:** To pick me up to take me to the other side of the base, and no one showed up, so I humped on my kit.  
+**Translation:** Vocabulary: humped: 背着装备
+
+**[9681.70s] English:** Back to the Canada House, and I remember getting in the shower. The rule was a quick fuckin'.  
 **Translation:** 
 
-**[9672.52s] English:** feel right this is wrong because when i got back that night there was supposed to be somebody there  
+**[9689.14s] English:** Showers, no water! I must have sat on that floor in that shower for half an hour to forty-five minutes.  
 **Translation:** 
 
-**[9677.08s] English:** to pick me up to take me the other side of the base and no one showed so i i humped on my kit  
-**Translation:** Vocabulary: humped: 背上装备
-
-**[9681.70s] English:** back to the Canada house and i remember getting in the shower and the rule was quick fucking  
+**[9697.78s] English:** I just held myself and cried. I didn't even know why I was crying; I just knew I needed to cry.  
 **Translation:** 
 
-**[9689.14s] English:** showers no water I must have sat on that floor in that shower for half an hour 45 minutes  
+**[9703.42s] English:** And I still, today, I and when they sent me back to Fall they sent me back with  
 **Translation:** 
 
-**[9697.78s] English:** I just held myself and cried I didn't even know why I was crying I just knew I needed to cry  
+**[9712.00s] English:** All this medication, after spending that time with the Brits, um, and they put me back on the.  
 **Translation:** 
 
-**[9703.42s] English:** and I still this day I I and when they sent me back to the fall they sent me back with  
-**Translation:** 
-
-**[9712.00s] English:** all this medication after spending that time with the Brits um and they put me back on the  
-**Translation:** 
-
-**[9719.14s] English:** guns medicated  
+**[9719.14s] English:** Guns, medicated.  
 **Translation:** Vocabulary: brits: 英国人
 
-**[9720.00s] English:** out of my fucking tree i almost shot someone but they didn't tell my staff that i was on meds  
+**[9720.00s] English:** Out of my fucking tree, I almost shot someone, but they didn't tell my staff that I was on meds.  
 **Translation:** 
 
-**[9726.80s] English:** so when the artillery gun was going off and i didn't run to the gun and i was still asleep  
+**[9726.80s] English:** So, when the artillery gun was going off, I didn't run to the gun and I was still asleep.  
 **Translation:** Vocabulary: artillery: 大炮
 
-**[9731.36s] English:** inside the tent with the gun beside my head they didn't know i was just drugged they just thought  
+**[9731.36s] English:** Inside the tent with the gun beside my head, they didn't know I was just drugged; they just thought,...  
 **Translation:** 
 
-**[9737.20s] English:** i was fucking off somewhere hanging out with some americans they just thought i wasn't doing  
+**[9737.20s] English:** I was fucking off somewhere, hanging out with some Americans; they just thought I wasn't doing anything productive.  
 **Translation:** 
 
-**[9741.60s] English:** any of what i should be doing and then i remember the moment my sergeant we did a night shoot and  
+**[9741.60s] English:** Any of what I should be doing, and then I remember the moment my sergeant had us do a night shoot.  
 **Translation:** 
 
-**[9747.84s] English:** he he's so funny because he called me he goes ah burns echo at least i remember this yes  
+**[9747.84s] English:** He's so funny because he called me "Ah, Burns, echo." At least I remember that; yes.  
+**Translation:** Vocabulary: sergeant: 班长
+
+**[9752.72s] English:** You were standing there with me, and I looked at you and went, "Hey, Burns, are you okay?" because your  
 **Translation:** 
 
-**[9752.72s] English:** you were standing there with me and i look at you and go hey burns are you okay because your  
+**[9758.16s] English:** Eyes are all fucked, and I looked at Sergeant LeBlanc; I just remember going, "Yeah, I'm good.  
 **Translation:** 
 
-**[9758.16s] English:** eyes are all fucked and i i looked at sergeant leblanc i just remember going yeah like i'm good  
-**Translation:** Vocabulary: leblanc: 勒布朗
-
-**[9766.56s] English:** like just yeah yeah he's like i still remember that and i'm like i know  
+**[9766.56s] English:** Like, just yeah, yeah, he's like, I still remember that, and I'm like, "I know.  
 **Translation:** 
 
-**[9772.08s] English:** because they never tell me anything burns i did not know the drugs you were on  
+**[9772.08s] English:** Because they never tell me anything burns, I did not know the drugs you were on.  
 **Translation:** 
 
-**[9777.68s] English:** man  
+**[9777.68s] English:** Man.  
 **Translation:** 
 
-**[9777.84s] English:** as i was on all of them because i know i walk in you show me the bottles ah fuck burns you  
+**[9777.84s] English:** As I was on all of them, because I know I walk in, you show me the bottles. Ah, fuck, burns you.  
 **Translation:** 
 
-**[9782.56s] English:** shouldn't have been there i guarantee he sounds just like that yeah yeah this is great he's  
+**[9782.56s] English:** Shouldn't have been there. I guarantee, he sounds just like that. Yeah, yeah, this is great; he's  
 **Translation:** 
 
-**[9788.80s] English:** brilliant yeah he's brilliant yeah so uh what i mean i suppose this is a lazy way of dealing  
+**[9788.80s] English:** Brilliant, yeah, he's brilliant. Yeah, so, uh, what I mean is, I suppose this is a lazy way of dealing with it.  
 **Translation:** 
 
-**[9797.52s] English:** with trauma yeah and it's for the military in some sense if you don't have a good program in  
+**[9797.52s] English:** With trauma, yeah, and it's for the military in some sense—if you don't have a good program,  
 **Translation:** 
 
-**[9802.72s] English:** place this makes sense but you should have a good program in place just like you said on the  
+**[9802.72s] English:** Place this, it makes sense, but you should have a good program in place, just like you said on the  
 **Translation:** Vocabulary: trauma: 创伤
 
-**[9807.84s] English:** prep on the mental prep side like just any prep like training people training people on the  
+**[9807.84s] English:** Transcript: On the mental prep side, like just any prep, like training people, training people on the  
 **Translation:** 
 
-**[9814.64s] English:** i supposed to i guess train the fact that you're going to have somebody close to you blow up  
+**[9814.64s] English:** I'm supposed to, I guess, train the fact that you're going to have somebody close to you blow up.  
+**Translation:** Vocabulary: transcript: 录音文字
+
+**[9822.96s] English:** Like, you have to probably visualize that you have to think about it, and you have to have  
 **Translation:** 
 
-**[9822.96s] English:** like you have to probably visualize that you have to think to that you have to have  
-**Translation:** 
-
-**[9826.72s] English:** a process of how to deal with something like that with that kind of trauma and then that's it  
+**[9826.72s] English:** A process of how to deal with something like that with that kind of trauma, and then that's it.  
 **Translation:** Vocabulary: visualize: 想象
 
-**[9834.08s] English:** exactly i mean and it's not like weakness it's actually strength  
+**[9834.08s] English:** Exactly, I mean, and it's not like a weakness; it's actually a strength.  
 **Translation:** 
 
-**[9837.84s] English:** it's uh like  
+**[9837.84s] English:** It's kind of like  
 **Translation:** 
 
-**[9840.00s] English:** you have to be mentally strong enough to process that that probably takes a lot of training but  
+**[9840.00s] English:** You have to be mentally strong enough to process that. That probably takes a lot of training, but  
 **Translation:** 
 
-**[9847.18s] English:** it's a great training right well worth it to to protect your investment training right that's a  
+**[9847.18s] English:** It's a great training, right? Well worth it to protect your investment. Training, right? That's a  
 **Translation:** 
 
-**[9854.14s] English:** very cold but correct way to put it i mean it's cold i thought you would appreciate the coldness  
+**[9854.14s] English:** Very cold, but that's the correct way to put it. I mean, it's cold—I thought you would appreciate the coldness.  
 **Translation:** 
 
-**[9859.98s] English:** of the way i articulated that well yeah i mean i'm of two minds in this i i don't  
+**[9859.98s] English:** Of the way I articulated that, well, yeah, I mean, I'm of two minds about this; I don't  
 **Translation:** Vocabulary: articulated: 表达
 
-**[9866.10s] English:** i sometimes wonder like what i would be like as a soldier actually i don't know because i love  
+**[9866.10s] English:** I sometimes wonder what I would be like as a soldier. Actually, I don't know because I've never been one.  
 **Translation:** 
 
-**[9873.88s] English:** country and i love all the things you're mentioning like i could see myself probably  
+**[9873.88s] English:** Country, and I love all the things you're mentioning; I could see myself probably.  
 **Translation:** 
 
-**[9878.58s] English:** dying for my country and also enjoying the skill of it the the the very like ocd  
+**[9878.58s] English:** Dying for my country, and also enjoying the skill involved — the very OCD about it.  
 **Translation:** 
 
-**[9885.86s] English:** like very proficient yeah but then also the human side i fall in love with people i fall  
-**Translation:** Vocabulary: proficient: 技艺高超
+**[9885.86s] English:** Like, they are very proficient, yeah, but then also the human side—I fall in love with people; I fall  
+**Translation:** Vocabulary: proficient: 熟练
 
-**[9893.66s] English:** in love with everything so i don't know  
+**[9893.66s] English:** In love with everything, so I don't know.  
 **Translation:** 
 
-**[9896.10s] English:** i don't i i suppose you have to shut off the part of your brain when you're executing a mission  
+**[9896.10s] English:** I don't, I suppose you have to shut off the part of your brain when you're executing a mission.  
 **Translation:** 
 
-**[9900.82s] English:** that cares about the about other humans uh outside your close-knit group  
+**[9900.82s] English:** That cares about other humans, outside your close-knit group.  
 **Translation:** 
 
-**[9908.08s] English:** like there's no time for philosophical thinking i don't know i i suppose that's why it's better  
-**Translation:** Vocabulary: philosophical: 哲学的
-
-**[9914.26s] English:** to be young young and dumb you're not necessarily dumb it's just like you were over that energy of  
+**[9908.08s] English:** Like, there's no time for philosophical thinking. I don't know; I suppose that's why it's better.  
 **Translation:** 
 
-**[9923.12s] English:** excitement of proficiency and excellence  
-**Translation:** Vocabulary: proficiency: 熟练
-
-**[9926.10s] English:** is is just higher than it is later in life sure it's you're not dumb i was not dumb but i was  
+**[9914.26s] English:** To be young, dumb, and naive, you're not necessarily dumb; it's just that you were over that energetic phase.  
 **Translation:** 
 
-**[9935.70s] English:** naive uneducated not well trained and  
-**Translation:** Vocabulary: naive: 单纯; uneducated: 未受教育
+**[9923.12s] English:** Excitement of Proficiency and Excellence.  
+**Translation:** Vocabulary: naive: 单纯; proficiency: 精通
 
-**[9942.42s] English:** had an arrogance because we were told we were the fucking shit yeah you're amazing okay i'm amazing  
+**[9926.10s] English:** Is it just higher than it is later in life? Sure, you're not dumb; I wasn't dumb, but I was.  
 **Translation:** 
 
-**[9952.08s] English:** so i wonder do they think if we do mental training  
-**Translation:** Vocabulary: arrogance: 傲慢
+**[9935.70s] English:** Naive, uneducated, and not well-trained.  
+**Translation:** Vocabulary: uneducated: 未受教育的
 
-**[9956.10s] English:** that makes you weak do you think they the the military thinks that makes you weak  
+**[9942.42s] English:** Had an arrogance because we were told we were the fucking shit. Yeah, you're amazing, okay? I'm amazing.  
 **Translation:** 
 
-**[9960.00s] English:** well yes and the reason i can say that is because it's it's obvious in the way that they handle it  
+**[9952.08s] English:** So, I wonder if they think if we do mental training.  
+**Translation:** Vocabulary: arrogance: 自以为是
+
+**[9956.10s] English:** That makes you weak, do you think? The military thinks that makes you weak.  
 **Translation:** 
 
-**[9964.80s] English:** now so like if a soldier says hey i'm really struggling with that last stop we were on man  
+**[9960.00s] English:** Well, yes, and the reason I can say that is because it's obvious in the way that they handle it.  
 **Translation:** 
 
-**[9969.36s] English:** it's just really it's getting to me i'm having a hard time sleeping they're gonna go okay well  
+**[9964.80s] English:** Now, so, like, if a soldier says, "Hey, I'm really struggling with that last stop we were on, man.  
 **Translation:** 
 
-**[9976.72s] English:** how how hard of a time sleeping are you having and then you get that re and you go oh no i'm not  
+**[9969.36s] English:** It's just really getting to me; I'm having a hard time sleeping. They're gonna go, okay, well.  
 **Translation:** 
 
-**[9981.68s] English:** it's not that bad i'm not i don't need anything for it like i'm just like once in a while i'm  
+**[9976.72s] English:** How hard of a time are you having sleeping, and then you get that "re" and you go, "Oh no, I'm not.  
 **Translation:** 
 
-**[9985.36s] English:** losing some sleep they're like okay because you know that pen moves it's all getting written down  
+**[9981.68s] English:** It's not that bad. I'm not; I don't need anything for it. Like, I'm just once in a while.  
 **Translation:** 
 
-**[9990.56s] English:** and then you're dead you're dead red which means you're not deploying again yeah and then you're  
+**[9985.36s] English:** Losing some sleep, they're like, "Okay, because you know, that pen moves and it's all getting written down.  
 **Translation:** 
 
-**[9994.16s] English:** not able to do the thing you love the most with the people you love the most right i mean but  
+**[9990.56s] English:** And then you're dead, you're dead (red), which means you're not deploying again, yeah, and then you're.  
 **Translation:** 
 
-**[9998.32s] English:** also this is really difficult and i i'd love to talk to you about ptsd but like sorry yes  
+**[9994.16s] English:** Not able to do the thing you love the most with the people you love the most, right? I mean, but...  
 **Translation:** 
 
-**[10004.88s] English:** i keep going off no please so what the so i'm i'm hoping to um  
+**[9998.32s] English:** Also, this is really difficult, and I'd love to talk to you about PTSD, but, like, sorry, yes.  
 **Translation:** 
 
-**[10015.36s] English:** like launch a company you know in the engineering space and the and i currently leave i've led a few  
+**[10004.88s] English:** I keep going off. No, please! So, what the... So, I'm hoping to um,...  
 **Translation:** 
 
-**[10023.60s] English:** people and it's always this kind of um like how much are you supposed to push people  
+**[10015.36s] English:** Like launching a company in the engineering space, and I've currently led a few.  
 **Translation:** 
 
-**[10031.28s] English:** because people are everyone is weak and lazy are you quoting our text messages from earlier  
+**[10023.60s] English:** People, and it's always this kind of thing: how much are you supposed to push people?  
 **Translation:** 
 
-**[10036.96s] English:** yeah exactly exactly i'm quoted all i have is just quotes from you that's okay uh tells you  
+**[10031.28s] English:** Because people are, after all, weak and lazy. Are you quoting our text messages from earlier?  
+**Translation:** Vocabulary: quoting: 引用
+
+**[10036.96s] English:** Yeah, exactly. Exactly, I'm just quoted. All I have are just quotes from you, that's okay. Uh, it tells you.  
 **Translation:** 
 
-**[10042.96s] English:** how much we've spoken in the past week of course  
+**[10042.96s] English:** How much we've spoken in the past week, of course.  
+**Translation:** Vocabulary: quoted: 引用; quotes: 引语
+
+**[10046.32s] English:** I just don't know what to do because sometimes people are really struggling.  
 **Translation:** 
 
-**[10046.32s] English:** i i just i don't know what to do because sometimes people are really struggling  
+**[10051.04s] English:** Like, really struggling in a way with their being; they're like, it's the dig that's the  
 **Translation:** 
 
-**[10051.04s] English:** like really struggling in a way with their being they're like it's the dig that's the  
+**[10055.52s] English:** Goggins' thing is like, where's the line between where you're actually pushing someone to their limits versus  
 **Translation:** 
 
-**[10055.52s] English:** goggins thing is like where's the line to where you're actually breaking the human being versus  
+**[10061.92s] English:** Where you're breaking them at the places where they will grow back stronger, like so.  
+**Translation:** Vocabulary: goggins: 戈金斯
+
+**[10069.04s] English:** The line is tricky, I think, to truly understand. I believe the military air is on the side of like.  
 **Translation:** 
 
-**[10061.92s] English:** where you're breaking them at the places where they will grow back stronger like so in that  
+**[10074.56s] English:** They, you know, like push them beyond all limits physically.  
+**Translation:** Vocabulary: tricky: 棘手的
+
+**[10080.00s] English:** Limits on physical activity, but mental health needs to be respected more. They shouldn't mess with that.  
 **Translation:** 
 
-**[10069.04s] English:** line is tricky uh to truly understand i think the military air is on the side of like  
+**[10084.98s] English:** Brain, a little bit. I mean, in basic training, they like to scream in your face and to see who's gonna;break;  
+**Translation:** Vocabulary: respected: 受尊重
+
+**[10089.04s] English:** Crack, and they put you on sleep deprivation to see who's weak enough that they can't handle it.  
 **Translation:** 
 
-**[10074.56s] English:** they you know like push them beyond all limits physical  
-**Translation:** 
-
-**[10080.00s] English:** limits physical but mental they don't they need to respect the mental more uh they fuck with the  
-**Translation:** 
-
-**[10084.98s] English:** brain a little bit i mean in basic training they like scream in your face and to see who's gonna  
-**Translation:** 
-
-**[10089.04s] English:** crack and they they put you on sleep deprivation to see who's weak enough that they can't handle  
-**Translation:** 
-
-**[10093.74s] English:** sleep depth they'll they do stuff to you like i know if you're a downed pilot you have to go  
+**[10093.74s] English:** Sleep depth; they'll do stuff to you. Like, I know if you're a downed pilot, you have to go.  
 **Translation:** Vocabulary: deprivation: 缺乏
 
-**[10098.74s] English:** you have to do this training and like it's you get captured it's like this whole thing and  
+**[10098.74s] English:** You have to do this training, and it's like getting captured — it's this whole thing.  
 **Translation:** 
 
-**[10103.58s] English:** they fuck with your brain but there's a line there's a line my issue is  
+**[10103.58s] English:** They fuck with your brain, but there's a line. There's a line. My issue is...  
 **Translation:** 
 
-**[10110.74s] English:** go to the line cross the line give them the tools to come back from the line right yeah we don't do  
+**[10110.74s] English:** Go to the line, cross the line, give them the tools to come back from the line, right? Yeah, we don't do.  
 **Translation:** 
 
-**[10119.74s] English:** that we don't we we know there's ptsd we know there's a such a thing we understand there's  
+**[10119.74s] English:** That we don't need to question, we know there is PTSD, we understand there is such a thing.  
 **Translation:** 
 
-**[10125.56s] English:** anxiety and depression we understand there's major depressive disorder we understand that  
+**[10125.56s] English:** Anxiety and depression: we understand there's major depressive disorder, we understand that.  
 **Translation:** 
 
-**[10129.74s] English:** there are precursors there are signs and symptoms we understand that  
-**Translation:** Vocabulary: depressive: 抑郁; precursors: 前兆
+**[10129.74s] English:** There are precursors, there are signs and symptoms, and we understand that.  
+**Translation:** Vocabulary: depressive: 抑郁的; precursors: 先兆
 
-**[10133.58s] English:** so why are we not building enough of a toolkit whether that be i'm not talking medication i'm  
+**[10133.58s] English:** So, why are we not building enough of a toolkit? Whether that be: I'm not talking about medication; I'm  
 **Translation:** 
 
-**[10141.06s] English:** talking it sounds woo woo but fucking trust me it works i'm talking meditation i'm talking yoga  
+**[10141.06s] English:** Talking, it sounds woo-woo, but fucking trust me, it works. I'm talking meditation, I'm talking yoga.  
 **Translation:** Vocabulary: toolkit: 工具箱
 
-**[10149.50s] English:** i'm talking about peer group support i'm talking about if you go to your doctor report this  
+**[10149.50s] English:** I'm talking about peer group support. I'm talking about if you go to your doctor and report this.  
 **Translation:** 
 
-**[10154.58s] English:** there's you're not automatically going to be losing your job why aren't we giving the proper  
+**[10154.58s] English:** There's no automatic loss of jobs, why aren't we giving the proper  
 **Translation:** 
 
-**[10160.18s] English:** tools and the education needed these things are not different  
+**[10160.18s] English:** Tools and the education needed; these things are not different.  
 **Translation:** 
 
-**[10163.58s] English:** to teach they don't take a lot of time they don't take a lot of money the only time it takes a lot  
+**[10163.58s] English:** To teach, they don't take a lot of time or money. The only time it takes a lot is...  
 **Translation:** 
 
-**[10168.50s] English:** of money is when you want to medicate we don't need to medicate you yet you only need to be  
+**[10168.50s] English:** Of money is when you want to medicate, we don't need to medicate you yet; you only need to be  
 **Translation:** 
 
-**[10173.08s] English:** medicated if you're a danger to someone else or yourself and most of the time because of the way  
+**[10173.08s] English:** Medicated if you're a danger to someone else or yourself, and most of the time, because of the way  
 **Translation:** 
 
-**[10177.28s] English:** the system is set you'll lie about it through your fucking teeth just so that no one touches you  
+**[10177.28s] English:** The system is set; you'll lie about it through your fucking teeth just so that no one touches you.  
 **Translation:** 
 
-**[10182.04s] English:** so from the perspective of the military do you think you can still be a bad motherfucker and  
+**[10182.04s] English:** So, from the perspective of the military, do you think you can still be a bad motherfucker and  
 **Translation:** Vocabulary: motherfucker: 混蛋
 
-**[10188.08s] English:** do all the mental work yes some of the baddest dudes i've ever known  
+**[10188.08s] English:** Do all the mental work, yes. Some of the baddest dudes I've ever known.  
 **Translation:** 
 
-**[10193.58s] English:** are like i gotta go to yoga i gotta go meditate yeah i go do aya with those guys why because  
-**Translation:** Vocabulary: meditate: 静思冥想
+**[10193.58s] English:** Are like, I've got to go to yoga, I've got to go meditate. Yeah, I go do ayahuasca with those guys, why? Because.  
+**Translation:** Vocabulary: ayahuasca: 一种迷幻药; meditate: 冥想
 
-**[10200.00s] English:** they know that that's not okay to be like that in your life can you answer the ridiculously big  
+**[10200.00s] English:** They know that it's not okay to be like that in your life. Can you answer the ridiculously big question?  
 **Translation:** 
 
-**[10207.04s] English:** question of what is ptsd like do you understand the basic characteristics of it is there universal  
-**Translation:** Vocabulary: ridiculously: 荒谬地
+**[10207.04s] English:** What is PTSD like? Do you understand the basic characteristics of it, and is there a universal experience?  
+**Translation:** Vocabulary: characteristics: 基本特征; ridiculously: 极其
 
-**[10214.56s] English:** characteristics from your own unique experience like from what you've understood about it yeah  
+**[10214.56s] English:** Characteristics from your own unique experience, like what you've understood about it, yeah.  
 **Translation:** 
 
-**[10221.52s] English:** of course there are so there's you know there's the the basic things that a doctor looks for when  
+**[10221.52s] English:** Of course, there are so there's you know, there's the basic things that a doctor looks for when  
 **Translation:** 
 
-**[10225.76s] English:** when they're diagnosing ptsd i'm not a doctor let me make that clear but there are things  
+**[10225.76s] English:** When they're diagnosing PTSD, I'm not a doctor, so let me make that clear, but there are things  
 **Translation:** 
 
-**[10231.36s] English:** that you look for you look for insomnia you look for anger and aggression you look for people to  
-**Translation:** Vocabulary: aggression: 攻击性; diagnosing: 诊断; insomnia: 失眠
+**[10231.36s] English:** That you look for insomnia, you look for anger and aggression, you look for people to.  
+**Translation:** Vocabulary: aggression: 攻击; diagnosing: 诊断; insomnia: 失眠
 
-**[10236.88s] English:** fly off the handle you look for avoidance you can tell in somebody's body people who can't sleep if  
+**[10236.88s] English:** Fly off the handle, you look for avoidance. You can tell in somebody's body; people who can't sleep, if.  
 **Translation:** 
 
-**[10243.84s] English:** you can't sleep you you know that after a certain amount of time they're just going to deteriorate  
-**Translation:** Vocabulary: deteriorate: 恶化
+**[10243.84s] English:** You can't sleep; you know that after a certain amount of time, they're just going to deteriorate.  
+**Translation:** Vocabulary: deteriorate: 变差
 
-**[10249.28s] English:** you know sleeplessness uh triggers when you say avoidance do you mean avoidance so like  
+**[10249.28s] English:** You know, sleeplessness triggers when you say "avoidance." Do you mean avoidance, like  
 **Translation:** 
 
-**[10254.96s] English:** when i first got  
+**[10254.96s] English:** When I first got  
+**Translation:** Vocabulary: triggers: 引发
+
+**[10255.76s] English:** Back to Canada, I avoided everyone who was Middle Eastern at all costs, no matter how much of a  
 **Translation:** 
 
-**[10255.76s] English:** back to canada i avoided everybody that was middle eastern at all costs no matter how much of a  
+**[10261.84s] English:** Difference it made in my day if I had to not go somewhere for one of the greatest events of my life.  
 **Translation:** 
 
-**[10261.84s] English:** difference it made in my day if i had to not go somewhere for one of the greatest events of my life  
+**[10265.84s] English:** I wouldn't have gone, but isn't there some aspect there combined with the triggers? Maybe it's  
 **Translation:** 
 
-**[10265.84s] English:** i wouldn't have went but isn't there some aspect there combined with the triggers like maybe it's  
+**[10271.68s] English:** It's wise to avoid triggers, even for your own personal health and well-being. That's it.  
 **Translation:** 
 
-**[10271.68s] English:** wise to avoid triggers even like for your own personal health well-being well that's it it's  
+**[10276.80s] English:** For me, that was one of my triggers. So, that you have triggers, so and then you also deal with...  
 **Translation:** 
 
-**[10276.80s] English:** for me that was one of my triggers so that you have triggers so and then you also deal with  
+**[10281.60s] English:** Things, like um, sounds and smells, you can tell, you can tell.  
 **Translation:** 
 
-**[10281.60s] English:** things like um sounds and smells you can tell you can tell  
+**[10285.76s] English:** When someone has been triggered a lot, vets don't like fireworks. It's like okay, well, remove yourself from.  
 **Translation:** 
 
-**[10285.76s] English:** when someone's triggered a lot of vets don't like fireworks it's like okay well remove yourself from  
+**[10289.92s] English:** The situation is such that there are other things within PTSD that kind of rear their heads, and...  
 **Translation:** 
 
-**[10289.92s] English:** the situation so there's there's other things within ptsd that kind of rear its head that with  
+**[10297.28s] English:** PTSD kind of attaches to other things, so like when I was diagnosed with PTSD, I think it was around four.  
 **Translation:** 
 
-**[10297.28s] English:** ptsd kind of attach other things so like when i was diagnosed with ptsd i think it was like four  
+**[10302.80s] English:** Years later, I was diagnosed with major depressive disorder, and that was kind of a compilation of  
+**Translation:** Vocabulary: attaches: 依附; compilation: 汇集; depressive: 抑郁; diagnosed: 诊断
+
+**[10308.32s] English:** Things that was just like a show, there. What is major depressive? Good question: Is there an answer?  
 **Translation:** 
 
-**[10302.80s] English:** years later i was diagnosed with major depressive disorder and that was kind of a compilation of  
-**Translation:** Vocabulary: compilation: 汇集; depressive: 抑郁; diagnosed: 诊断
-
-**[10308.32s] English:** things that was just like a show there what is major depressive good question is there an answer  
-**Translation:** 
-
-**[10315.76s] English:** i don't have one i was told i had it okay so  
+**[10315.76s] English:** I don't have one. I was told I had it, okay, so...  
 **Translation:** 
 
 **[10320.00s] English:** Oh, I mean, what does your mind go through?  
@@ -6517,13 +6518,13 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10324.74s] English:** Where are the places?  
 **Translation:** 
 
-**[10326.64s] English:** That my mind goes?  
+**[10326.64s] English:** That's going through my mind?  
 **Translation:** 
 
 **[10327.74s] English:** Your mind goes.  
 **Translation:** 
 
-**[10329.68s] English:** Like the dark places when I get triggered and when it was like really bad?  
+**[10329.68s] English:** Like the dark places when I get triggered, and when it was really bad?  
 **Translation:** 
 
 **[10333.10s] English:** Yeah.  
@@ -6535,23 +6536,23 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10333.94s] English:** Yeah.  
 **Translation:** 
 
-**[10334.32s] English:** So you thought about suicide.  
+**[10334.32s] English:** So, you thought about suicide.  
 **Translation:** 
 
 **[10337.48s] English:** Every minute of every day.  
 **Translation:** 
 
-**[10339.66s] English:** What are the pros of suicide in your mind at that time?  
+**[10339.66s] English:** What were the pros of suicide in your mind at that time?  
 **Translation:** 
 
-**[10343.12s] English:** At that time, the pros were no one has to deal with this anymore.  
+**[10343.12s] English:** At that time, the pros were: "No one has to deal with this anymore.  
 **Translation:** 
 
 **[10348.16s] English:** I don't have to feel this way anymore.  
 **Translation:** 
 
 **[10350.80s] English:** I'm a burden to my family.  
-**Translation:** 
+**Translation:** Vocabulary: burden: 负担
 
 **[10352.86s] English:** I'm a burden to the military system.  
 **Translation:** 
@@ -6571,70 +6572,70 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10362.34s] English:** I don't deserve Veterans Affairs support.  
 **Translation:** 
 
-**[10365.22s] English:** I don't deserve my my parents don't deserve to watch me go through this.  
+**[10365.22s] English:** I don't deserve this. My parents don't deserve to watch me go through this.  
 **Translation:** 
 
 **[10369.10s] English:** The guy I was dating didn't deserve to put up with the bullshit I put him through.  
 **Translation:** Vocabulary: bullshit: 胡说八道
 
-**[10374.70s] English:** The people who drive with me in cars didn't deserve to  
+**[10374.70s] English:** The people who drive with me in cars didn't deserve to.  
 **Translation:** 
 
-**[10377.46s] English:** almost hit me.  
+**[10377.46s] English:** Almost hit me.  
 **Translation:** 
 
-**[10378.26s] English:** I didn't hit medians because I swear because of a piece of garbage.  
+**[10378.26s] English:** I didn't hit any medians because I swore at a piece of garbage.  
 **Translation:** 
 
-**[10383.06s] English:** People didn't deserve my racist outbursts people didn't deserve people didn't I did not deserve to be breathing anymore.  
+**[10383.06s] English:** People didn't deserve my racist outbursts; people, and I, didn't deserve to be breathing anymore.  
 **Translation:** Vocabulary: outbursts: 爆发
 
-**[10390.56s] English:** I should have died there and I wished I died there.  
+**[10390.56s] English:** I should have died there, and I wished I had died there.  
 **Translation:** 
 
-**[10395.26s] English:** So self-hate there too.  
+**[10395.26s] English:** So, self-hate is there too.  
 **Translation:** 
 
 **[10397.46s] English:** Oh, so that's a monochrome.  
 **Translation:** 
 
-**[10400.46s] English:** Not even a big deal though, right?  
+**[10400.46s] English:** Not even a big deal, though, right?  
 **Translation:** Vocabulary: monochrome: 单色的
 
-**[10402.86s] English:** That's at the core of it that that's like this.  
+**[10402.86s] English:** That's at the core of it: that's like this.  
 **Translation:** 
 
-**[10405.76s] English:** So how do you escape from that place?  
+**[10405.76s] English:** So, how do you escape from that place?  
 **Translation:** 
 
-**[10410.36s] English:** How do you overcome that those that depression essentially at the core of the desire to kill yourself?  
+**[10410.36s] English:** How do you overcome that, for those with depression at the core of the desire to kill themselves?  
 **Translation:** 
 
-**[10417.26s] English:** What what basic principles?  
+**[10417.26s] English:** What basic principles?  
 **Translation:** 
 
-**[10421.16s] English:** I mean we could talk about ayahuasca but basic principles of like literally like how do you escape that moment?  
+**[10421.16s] English:** I mean, we could talk about ayahuasca, but let's focus on the basic principles of, like, how do you escape that moment?  
 **Translation:** 
 
-**[10428.66s] English:** Yeah previous to any of that I did from 2009.  
+**[10428.66s] English:** Yeah, prior to any of that, I did from 2009.  
 **Translation:** 
 
-**[10432.26s] English:** I got out so I was medically I was 3B medical honorable discharge.  
+**[10432.26s] English:** I got out, so I was medically classified as 3B and received an honorable discharge.  
 **Translation:** 
 
-**[10435.56s] English:** In 2011 May 23rd 2011.  
+**[10435.56s] English:** On May 23, 2011.  
 **Translation:** Vocabulary: discharge: 退役; honorable: 荣誉
 
-**[10438.36s] English:** So I left the military then.  
+**[10438.36s] English:** So, I left the military then.  
 **Translation:** 
 
-**[10440.00s] English:** And so it's been 10 years, just over 10 years.  
+**[10440.00s] English:** And so it's been 10 years—just over 10 years.  
 **Translation:** 
 
 **[10442.76s] English:** Oh my God, it's 10 and a half years.  
 **Translation:** 
 
-**[10444.60s] English:** I just realized, I don't know.  
+**[10444.60s] English:** I just realized; I don't know.  
 **Translation:** 
 
 **[10445.90s] English:** Oh my God.  
@@ -6649,10 +6650,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10448.24s] English:** Awesome.  
 **Translation:** 
 
-**[10449.34s] English:** So I've been out for 10 years and I would say the reason I didn't kill myself for the  
+**[10449.34s] English:** So, I've been out for 10 years, and I would say the reason I didn't kill myself for the  
 **Translation:** 
 
-**[10455.10s] English:** longest time was the individual I was dating.  
+**[10455.10s] English:** The longest time was with the individual I was dating.  
 **Translation:** 
 
 **[10458.04s] English:** That was straight across the board.  
@@ -6661,40 +6662,40 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10460.06s] English:** That was it.  
 **Translation:** 
 
-**[10460.56s] English:** Um, for me, there was no relief for about six years of the, the thought of just kill  
+**[10460.56s] English:** Um, for me, there was no relief for about six years of the thought of just killing.  
 **Translation:** 
 
-**[10470.90s] English:** yourself, kill yourself, kill yourself.  
+**[10470.90s] English:** Yourself, kill yourself, kill yourself.  
 **Translation:** 
 
 **[10472.02s] English:** It's easier if you just do it.  
 **Translation:** 
 
-**[10472.86s] English:** Like there, that voice was so strong for that long.  
+**[10472.86s] English:** Like there, that voice was so strong for such a long time.  
 **Translation:** 
 
 **[10474.96s] English:** There was really no relief.  
 **Translation:** 
 
-**[10476.38s] English:** What there was though, was implementation of different medications, realizing they weren't  
+**[10476.38s] English:** What there was, however, was the implementation of different medications, realizing they weren't  
 **Translation:** Vocabulary: implementation: 实施; medications: 药物
 
-**[10484.02s] English:** working, trying different things, getting myself to a point where I could leave my house  
+**[10484.02s] English:** Working, trying different things, getting myself to a point where I could leave the house.  
 **Translation:** 
 
-**[10489.58s] English:** comfortably.  
+**[10489.58s] English:** Comfortably.  
 **Translation:** 
 
-**[10490.56s] English:** Ish again, and I wasn't triggered, which then allowed me to travel, which then allowed  
+**[10490.56s] English:** Ish again, and I wasn't triggered, which then allowed me to travel, which then allowed me to...  
 **Translation:** 
 
-**[10495.32s] English:** me to slowly try to go back to school, which by the way, it was a very bad idea.  
+**[10495.32s] English:** To slowly try to go back to school, which, by the way, was a very bad idea.  
 **Translation:** 
 
 **[10499.82s] English:** That was a bad idea.  
 **Translation:** 
 
-**[10501.20s] English:** That was, that was bad.  
+**[10501.20s] English:** That was bad.  
 **Translation:** 
 
 **[10502.60s] English:** I went too early.  
@@ -6703,7 +6704,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10504.74s] English:** They started practicing active shooter drills in our school.  
 **Translation:** 
 
-**[10507.82s] English:** It was, it was, it was bad.  
+**[10507.82s] English:** It was, it was bad.  
 **Translation:** 
 
 **[10509.54s] English:** My professors understood.  
@@ -6713,13 +6714,13 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[10513.00s] English:** It turns out.  
-**Translation:** 
+**Translation:** Vocabulary: triggers: 触发器
 
-**[10513.68s] English:** Um, it is when you live in Vancouver.  
+**[10513.68s] English:** It is when you live in Vancouver.  
 **Translation:** 
 
 **[10516.62s] English:** There's a theme to this conversation about your love for Canada.  
-**Translation:** 
+**Translation:** Vocabulary: vancouver: 温哥华
 
 **[10520.10s] English:** I love Canada.  
 **Translation:** 
@@ -6730,16 +6731,16 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10521.78s] English:** I love my fucking country.  
 **Translation:** 
 
-**[10524.18s] English:** I am one of the most patriotic people you will meet in it.  
+**[10524.18s] English:** I am one of the most patriotic people you will meet.  
 **Translation:** Vocabulary: patriotic: 爱国的
 
-**[10526.78s] English:** I think Canada is one of the greatest fucking places on the earth.  
+**[10526.78s] English:** I think Canada is one of the greatest places on Earth.  
 **Translation:** 
 
-**[10531.32s] English:** I think in the past two years or three years, I have seen what I loved so deeply, so proudly  
-**Translation:** 
+**[10531.32s] English:** I think in the past two to three years, I have seen what I loved so deeply and proudly.  
+**Translation:** Vocabulary: proudly: 自豪地
 
-**[10538.84s] English:** preached about.  
+**[10538.84s] English:** Preached about.  
 **Translation:** 
 
 **[10539.62s] English:** So.  
@@ -6931,7 +6932,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10571.92s] English:** It's the state of the country.  
 **Translation:** 
 
-**[10574.34s] English:** I'm a second class citizen in my own country right now.  
+**[10574.34s] English:** I'm a second-class citizen in my own country right now.  
 **Translation:** 
 
 **[10577.70s] English:** I can't travel to see my parents within my own country.  
@@ -6943,7 +6944,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10584.66s] English:** I am not allowed to go to a restaurant with my family.  
 **Translation:** 
 
-**[10587.84s] English:** I'm not allowed to leave Canada without...  
+**[10587.84s] English:** I'm not allowed to leave Canada without....  
 **Translation:** 
 
 **[10592.72s] English:** I told you all the stuff I have to do to get here.  
@@ -6958,20 +6959,20 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10602.58s] English:** Neighbors rat you out.  
 **Translation:** 
 
-**[10604.60s] English:** So for somebody who fought for their country...  
+**[10604.60s] English:** So, for somebody who fought for their country,...  
 **Translation:** 
 
 **[10607.30s] English:** I hate it. It makes me so sad.  
 **Translation:** 
 
-**[10609.00s] English:** To go through this process of what many consider to be power overreach by government  
+**[10609.00s] English:** To go through this process of what many consider to be government power overreach.  
 **Translation:** 
 
-**[10615.76s] English:** in the face of this particular pandemic.  
+**[10615.76s] English:** In the face of this particular pandemic.  
 **Translation:** 
 
 **[10617.84s] English:** Yeah.  
-**Translation:** Vocabulary: pandemic: 全球大流行
+**Translation:** Vocabulary: pandemic: 全球大流行病
 
 **[10619.84s] English:** I always knew I had a hard time with it.  
 **Translation:** 
@@ -6988,13 +6989,13 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10627.84s] English:** Yeah.  
 **Translation:** 
 
-**[10629.84s] English:** But the thing was, I knew long enough that if I just put one foot in front of the other  
+**[10629.84s] English:** But the thing was, I knew long enough that if I just put one foot in front of the other,...  
 **Translation:** 
 
-**[10636.84s] English:** and kept going to treatment and kept doing what my doctor told me to do,  
+**[10636.84s] English:** And he kept going to treatment and kept doing what my doctor told me to do.  
 **Translation:** 
 
-**[10641.84s] English:** that I could pull out of this.  
+**[10641.84s] English:** That I could pull out of this.  
 **Translation:** 
 
 **[10643.84s] English:** If I tried.  
@@ -7018,10 +7019,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10650.72s] English:** As long as I tried.  
 **Translation:** 
 
-**[10652.72s] English:** Was trying really hard?  
+**[10652.72s] English:** Were you trying really hard?  
 **Translation:** 
 
-**[10654.72s] English:** Trying was...  
+**[10654.72s] English:** Trying was....  
 **Translation:** 
 
 **[10658.72s] English:** Trying was harder than breathing.  
@@ -7030,10 +7031,10 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10660.72s] English:** It was exhausting.  
 **Translation:** 
 
-**[10662.72s] English:** It was...  
+**[10662.72s] English:** It was....  
 **Translation:** 
 
-**[10666.72s] English:** I would be awake for like half a day.  
+**[10666.72s] English:** I would be awake for about half a day.  
 **Translation:** 
 
 **[10668.72s] English:** And every minute of that day, I'd just stare at the wall and just want to kill myself.  
@@ -7042,13 +7043,16 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10672.72s] English:** Yeah.  
 **Translation:** 
 
-**[10673.72s] English:** That's what I've had people close to me who suffer from depression.  
+**[10673.72s] English:** That's what I've had people close to me who suffer from depression say.  
 **Translation:** 
 
 **[10677.72s] English:** And it was like...  
 **Translation:** 
 
 **[10679.72s] English:** I'm done with you.  
+**Translation:** 
+
+**[10680.00s] English:** It's unclear how to escape, but it's clear that you need to try somehow, and they didn't want.  
 **Translation:** 
 
 **[10680.72s] English:** I've seen you suffer so much.  
@@ -7069,6 +7073,9 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10686.72s] English:** Thanks.  
 **Translation:** 
 
+**[10686.72s] English:** To even try, because you have no try in you. Yeah, you have no. I'm watching a person who has no.  
+**Translation:** 
+
 **[10687.72s] English:** You're the best.  
 **Translation:** 
 
@@ -7082,6 +7089,9 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[10692.72s] English:** Bye.  
+**Translation:** 
+
+**[10692.88s] English:** Energy, essentially, is required to do any of it, and it's like so hopeless, but you have to try, and I think.  
 **Translation:** 
 
 **[10693.72s] English:** Bye.  
@@ -7105,6 +7115,9 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10699.72s] English:** Bye.  
 **Translation:** 
 
+**[10700.00s] English:** Some of that has to do with all the different physical feats you have to do, like when you have  
+**Translation:** 
+
 **[10700.72s] English:** Bye.  
 **Translation:** 
 
@@ -7120,67 +7133,55 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10704.72s] English:** Bye.  
 **Translation:** 
 
+**[10705.12s] English:** Nothing left, you still keep going—that same weird drive when you're empty, you still keep going.  
+**Translation:** 
+
 **[10705.72s] English:** Bye.  
 **Translation:** 
 
-**[10680.00s] English:** it's unclear how to escape but it's clear that you need to try somehow something and they didn't want  
+**[10712.96s] English:** Um, I wanted to give up. I tried, I did, I'm really lucky because it was the one person.  
 **Translation:** 
 
-**[10686.72s] English:** to even try because you have no try in you yeah you have no no i'm watching a person who has no  
+**[10720.32s] English:** That I'd wake up to every day, and he'd be like, "Hey, so that new drug you're on? Fun fact:  
 **Translation:** 
 
-**[10692.88s] English:** energy essentially to like do any of it and it's like so hopeless but you have to try and i think  
+**[10728.16s] English:** You don't go to sleep right away; you talk, and when you talk, you just don't stop and go off.  
 **Translation:** 
 
-**[10700.00s] English:** some of that has to do with all the different physical feats you have to do like when you have  
+**[10733.20s] English:** About everything that's holding you back, and you're like, "Oh my God, I can't do this. I can't do this. I can't.  
 **Translation:** 
 
-**[10705.12s] English:** nothing left you still keep going that same like weird drive when you're empty you still keep going  
+**[10735.10s] English:** Do this; it's horrible, and I'm like, "What are you talking about? No, last night; you took that.  
 **Translation:** 
 
-**[10712.96s] English:** um i wanted to give up i tried i it's i did i'm really lucky because it really was the one person  
+**[10738.78s] English:** Pill, guess what? You just didn't stop. I have no recollection; I got up in the middle of  
 **Translation:** 
 
-**[10720.32s] English:** that i'd wake up to next every day and he'd be like hey so that new drug you're on fun fact if  
-**Translation:** 
-
-**[10728.16s] English:** you don't go to sleep right away you talk and when you talk you just don't stop and you go off  
-**Translation:** 
-
-**[10733.20s] English:** about everything that's holding you back and you're like oh my god i can't do this i can't do this i can't  
-**Translation:** 
-
-**[10735.10s] English:** do this it's horrible and i'm like what are you talking about no last night yeah you took that  
-**Translation:** 
-
-**[10738.78s] English:** pill guess what you just you just you didn't stop i have no recollection i get up in the middle of  
-**Translation:** 
-
-**[10743.66s] English:** the night i would cook food like on a stove and it would be hopefully we don't die because i would  
+**[10743.66s] English:** The night I would cook food like on a stove, and it would be hopefully we don't die because I would...  
 **Translation:** Vocabulary: recollection: 记忆
 
-**[10751.58s] English:** have no recollection because of the drugs the idea that when people say well just put yourself  
+**[10751.58s] English:** Have no recollection because of the drugs. The idea that when people say, "well, just put yourself,  
 **Translation:** 
 
-**[10758.14s] English:** out of depression i'm a highly motivated individual  
+**[10758.14s] English:** Out of depression, I'm a highly motivated individual.  
+**Translation:** Vocabulary: motivated: 有动力的
+
+**[10765.66s] English:** The idea of lifting my head up to turn over was daunting; it's terrifying. It's like for somebody.  
 **Translation:** 
 
-**[10765.66s] English:** the idea of lifting my head up to turn over was daunting it's terrifying it's like for somebody  
-**Translation:** 
-
-**[10774.46s] English:** so as driven as you to completely lose all of that for moments of time for for stretches of time  
+**[10774.46s] English:** So, as driven as you are, to completely lose all of that for moments of time, for stretches of time.  
 **Translation:** Vocabulary: daunting: 令人望而生畏; terrifying: 令人心惊胆战
 
-**[10783.10s] English:** the mind is a this is uh it is like i can't um for somebody like i can't  
+**[10783.10s] English:** The mind is a tricky thing, huh? It's like—I can't, um, for someone like me, I can't.  
 **Translation:** 
 
-**[10791.26s] English:** i can't i'm so i'm so grateful for people like you to be able to pull  
+**[10791.26s] English:** I can't believe I'm so grateful for people like you to be able to help.  
+**Translation:** Vocabulary: tricky: 难捉摸的
+
+**[10795.10s] English:** Out of that, I've always been the opposite.  
 **Translation:** 
 
-**[10795.10s] English:** out of that i i've i've i've been always the opposite like  
-**Translation:** 
-
-**[10800.00s] English:** I've been very fortunate to just always find joy, meaning in everything, even the stupidest shit.  
+**[10800.00s] English:** I've been very fortunate to just always find joy and meaning in everything—even the stupidest shit.  
 **Translation:** Vocabulary: stupidest: 最愚蠢的
 
 **[10807.72s] English:** Can I ask you something?  
@@ -7189,7 +7190,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10808.58s] English:** Yeah.  
 **Translation:** 
 
-**[10809.38s] English:** Do you think that's because of how you were raised, where you came from?  
+**[10809.38s] English:** Do you think that's because of how you were raised, or where you came from?  
 **Translation:** 
 
 **[10815.70s] English:** No.  
@@ -7201,13 +7202,13 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10817.00s] English:** No, it was my own person.  
 **Translation:** 
 
-**[10818.48s] English:** I honestly think it's the biology, this, because I had my parents, I'm very cognizant, have had nothing to do with that.  
+**[10818.48s] English:** I honestly think it's the biology—this because I had no part in it, as I was not involved with my parents' generation.  
 **Translation:** 
 
 **[10830.42s] English:** They never understood this little engine I had.  
-**Translation:** Vocabulary: cognizant: 意识到的
+**Translation:** 
 
-**[10833.58s] English:** I always liked just sitting, looking at people and just enjoying how amazing they are and just looking at – I think it's straight up just biology.  
+**[10833.58s] English:** I always liked just sitting, looking at people and just enjoying how amazing they are—and just looking at—it's straight up just biology.  
 **Translation:** 
 
 **[10842.28s] English:** Whatever the neurochemistry is, I'm just getting a good drug.  
@@ -7225,28 +7226,28 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10850.84s] English:** I love that.  
 **Translation:** 
 
-**[10851.94s] English:** And it doesn't – and yeah, so that's why I can be – sometimes I'll talk very self-critically about myself because that almost makes me – it makes life more fun.  
+**[10851.94s] English:** And it doesn't—and yeah, so that's why I can be—sometimes I'll talk very self-critically about myself because that almost makes life more fun.  
 **Translation:** 
 
-**[10862.86s] English:** It challenges stuff.  
+**[10862.86s] English:** It challenges everything.  
 **Translation:** 
 
 **[10863.94s] English:** It makes you more productive.  
 **Translation:** 
 
-**[10865.16s] English:** But ultimately, it's because I'm getting that like –  
+**[10865.16s] English:** But ultimately, it's because I'm getting that, like,  
 **Translation:** 
 
 **[10867.02s] English:** You're getting a hit.  
 **Translation:** 
 
-**[10867.74s] English:** I'm getting the good stuff all the time.  
+**[10867.74s] English:** I'm always getting the good stuff.  
 **Translation:** 
 
 **[10869.74s] English:** I wondered about that.  
 **Translation:** 
 
-**[10871.14s] English:** I was thinking about that when I listened to you for the first time on – I think when you were on Rogan for the first time.  
+**[10871.14s] English:** I was thinking about that when I listened to you for the first time on—I think when you were on Rogan for the first time.  
 **Translation:** 
 
 **[10875.76s] English:** Water shouldn't do that.  
@@ -7258,7 +7259,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10878.48s] English:** It's not water.  
 **Translation:** 
 
-**[10879.14s] English:** You shouldn't trust – see, this is the thing with the Russians.  
+**[10879.14s] English:** You shouldn't trust them—see, this is the thing with the Russians.  
 **Translation:** 
 
 **[10881.18s] English:** It's done by Coca-Cola.  
@@ -7267,7 +7268,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10882.90s] English:** Well, no.  
 **Translation:** 
 
-**[10883.36s] English:** I had it resealed.  
+**[10883.36s] English:** I had it re-sealed.  
 **Translation:** 
 
 **[10886.10s] English:** I mean, I didn't go that far, but now I'm really starting to question what's in this, but that's okay.  
@@ -7279,7 +7280,7 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10894.84s] English:** Why?  
 **Translation:** 
 
-**[10896.12s] English:** I mean, that's the –  
+**[10896.12s] English:** I mean, that's the —  
 **Translation:** 
 
 **[10896.86s] English:** Mushroom tea?  
@@ -7288,22 +7289,22 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10897.24s] English:** No, that's the more famous way that Russians usually assassinate.  
 **Translation:** 
 
-**[10902.02s] English:** They put poison in the tea because a lot of Russians drink tea and –  
-**Translation:** Vocabulary: assassinate: 暗杀
+**[10902.02s] English:** They put poison in the tea because a lot of Russians drink tea, and –  
+**Translation:** Vocabulary: assassinate: 谋杀; poison: 毒药
 
 **[10906.58s] English:** All right.  
 **Translation:** 
 
-**[10907.38s] English:** Well, I mean –  
+**[10907.38s] English:** Well, I mean—  
 **Translation:** 
 
-**[10908.46s] English:** There is a blade right there, so –  
+**[10908.46s] English:** There is a blade right there, so —  
 **Translation:** 
 
-**[10910.74s] English:** That was somebody – Andrew Huberman gave that to me.  
+**[10910.74s] English:** That was somebody—Andrew Huberman gave that to me.  
 **Translation:** Vocabulary: huberman: 胡伯曼
 
-**[10914.48s] English:** He's also a good – I don't know if you know him, but he's a cool –  
+**[10914.48s] English:** He's also a good—I don't know if you know him, but he's a cool—  
 **Translation:** 
 
 **[10917.00s] English:** I don't know all the people you know.  
@@ -7318,139 +7319,139 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[10919.38s] English:** I'm new here.  
 **Translation:** 
 
-**[10920.00s] English:** i'll send instructions yeah you're gonna have to send what is what does my friend say he says  
+**[10920.00s] English:** I'll send instructions. Yeah, you're going to have to send what my friend says. He says...  
 **Translation:** 
 
-**[10924.74s] English:** an ex-operator and he'll message me once in a while and ask me something and i'll answer back  
+**[10924.74s] English:** An ex-operator, and he'll message me once in a while and ask me something, and I'll answer back.  
 **Translation:** 
 
-**[10928.70s] English:** if i answer in the correct way he'll go candidate meets expectations like fuck you i'm not a  
+**[10928.70s] English:** If I answer in the correct way, he'll go "candidate meets expectations." Like fuck you, I'm not.  
 **Translation:** 
 
-**[10935.64s] English:** candidate of anything yeah yeah but yeah it's essentially well andrew huberman is kind of a  
+**[10935.64s] English:** Candidate of anything, yeah, yeah, but yeah, it's essentially well, Andrew Huberman is kind of a.  
 **Translation:** 
 
-**[10940.84s] English:** celebrity andrew you should check her out uh you're you're an interesting person you guys  
+**[10940.84s] English:** Celebrity Andrew, you should check her out. Uh, you're an interesting person; you guys.  
 **Translation:** 
 
-**[10945.34s] English:** should connect he's a stanford neuroscientist was a i think the number one podcast in the world  
+**[10945.34s] English:** Should connect: He's a Stanford neuroscientist, and I think he's the number-one podcast in the world.  
 **Translation:** 
 
-**[10951.50s] English:** in health uh he's a is he on the beard does he have like a a beard thing going uh yeah i'm i'm  
-**Translation:** Vocabulary: neuroscientist: 神经科学家; stanford: 斯坦福大学
+**[10951.50s] English:** In health, uh, he's a bit scruffy, doesn't he? He has that beard thing going on, huh? Yeah, I'm noticing it.  
+**Translation:** Vocabulary: neuroscientist: 神经科学家; scruffy: 不修边幅; stanford: 斯坦福
 
-**[10959.32s] English:** knocking him down to it like does he have a beard i don't i don't look i don't look at people's  
+**[10959.32s] English:** Knocking him down to it, like does he have a beard? I don't, I don't look at people's  
 **Translation:** 
 
-**[10964.00s] English:** visual appearance man you're full of shit no i don't uh does he have a beard i think he has a  
+**[10964.00s] English:** Visual appearance: Man, you're full of shit. No, I don't, uh, does he have a beard? I think he has a  
 **Translation:** 
 
-**[10968.12s] English:** beard yeah he's i think i know who you're talking about he's a very handsome gentleman i think i  
+**[10968.12s] English:** Beard, yeah, I think I know who you're talking about. He's a very handsome gentleman, I think.  
 **Translation:** 
 
-**[10974.34s] English:** know you're talking about because i think  
+**[10974.34s] English:** Know what you're talking about because I think  
 **Translation:** 
 
-**[10975.34s] English:** i was looking at his stuff this morning yeah exactly no seriously on instagram no no okay  
+**[10975.34s] English:** I was looking at his stuff this morning, yeah, exactly. No, seriously, on Instagram, no, no, okay.  
 **Translation:** 
 
-**[10979.06s] English:** you probably know him yeah that's i mean i don't know him but he's very very humble very  
+**[10979.06s] English:** You probably know him, yeah. That's I mean, I don't know him, but he's very, very humble.  
+**Translation:** Vocabulary: humble: 谦逊
+
+**[10983.72s] English:** Intelligent, yeah, probably you would understand. Like, I'm very kind of poetic, and so on; he's he's...  
 **Translation:** 
 
-**[10983.72s] English:** intelligent yeah probably you would understand like i'm very kind of poetic and so on he's he's  
+**[10989.70s] English:** Probably the most rigorous scientific reference machine, like he's a legit scientist.  
+**Translation:** Vocabulary: legit: 正经; poetic: 诗意; rigorous: 严谨
+
+**[10997.92s] English:** Like he knows every paper, and everything has to do with the mind and neuroscience; like he would.  
 **Translation:** 
 
-**[10989.70s] English:** probably the most like rigorous um reference machine of science like he's a legit scientist  
-**Translation:** Vocabulary: legit: 正经; rigorous: 严谨
-
-**[10997.92s] English:** like he knows every paper and everything has to do with the mind and neuroscience like he would  
-**Translation:** 
-
-**[11002.64s] English:** be fascinating performance yeah he's much more  
+**[11002.64s] English:** Be fascinating, performance! Yeah, he's much more.  
 **Translation:** Vocabulary: neuroscience: 神经科学
 
-**[11005.34s] English:** he's he's he's much more actually and the focus is always on um how to help how that  
+**[11005.34s] English:** He's much more helpful, actually, and the focus is always on how to help.  
 **Translation:** 
 
-**[11012.66s] English:** helps people so like protocols like yeah like here's what you need to do to get better sleep  
+**[11012.66s] English:** Helps people, so like protocols—like, yeah, like here's what you need to do to get better sleep.  
 **Translation:** 
 
-**[11018.44s] English:** yes yes i know who it is like a thousand papers yeah and he just goes like hammers non-stop i'm  
+**[11018.44s] English:** Yes, yes, I know who it is. Like a thousand papers! Yeah, and he just goes like a hammer, non-stop. I'm  
 **Translation:** 
 
-**[11024.44s] English:** like geez he um he spent a week in austin he's coming back and spending uh a couple weeks in  
+**[11024.44s] English:** Like, geez, he spent a week in Austin. He's coming back and spending a couple of weeks here.  
+**Translation:** Vocabulary: hammer: 锤子
+
+**[11032.12s] English:** Austin, we just hang out, and it's like—you think that was a good thing? I think it was a good thing.  
 **Translation:** 
 
-**[11032.12s] English:** austin we just hang out and it's like you think that was a good thing i think it was a good thing  
-**Translation:** 
-
-**[11035.34s] English:** like a teleprompter or something like the way he does this podcast yeah but like in person  
+**[11035.34s] English:** Like a teleprompter, or something like the way he does this podcast, yeah, but like in person.  
 **Translation:** Vocabulary: teleprompter: 自动读稿机
 
-**[11040.00s] English:** he's the same like all right this is this is intense but i like it anyway anyway uh why did  
+**[11040.00s] English:** He's the same, like, all right, this is this is intense, but I like it anyway. Anyway, uh, why did  
 **Translation:** 
 
-**[11048.00s] English:** we bring him up i don't know brought up knives we were talking about he gave it to me that's right  
+**[11048.00s] English:** We brought him up; I don't know, but we talked about knives. He gave it to me—that's right.  
 **Translation:** 
 
-**[11052.30s] English:** ptsd yeah and then you're talking about poison and how you were poisoning me and i said knives  
+**[11052.30s] English:** PTSD, yeah, and then you're talking about poison and how you were poisoning me, and I said knives.  
 **Translation:** 
 
-**[11056.92s] English:** we're talking about russians and then we were kind of talking about the brain and ptsd yeah i think  
-**Translation:** Vocabulary: poisoning: 毒害
+**[11056.92s] English:** We're talking about Russians, and then we were kind of talking about the brain and PTSD. Yeah, I think.  
+**Translation:** Vocabulary: poison: 毒物; poisoning: 中毒
 
-**[11062.54s] English:** for for most people though the biggest thing when they see somebody who's struggling with ptsd  
+**[11062.54s] English:** For most people, however, the biggest thing when they see somebody who's struggling with PTSD is how it affects their daily life.  
 **Translation:** 
 
-**[11068.56s] English:** their first you know reaction is how do i help them well often just saying hey i'm here when  
+**[11068.56s] English:** Their first, you know, reaction is, "How do I help them?" Well, often just saying, "Hey, I'm here," when.  
 **Translation:** 
 
-**[11075.62s] English:** you're ready to talk i know you're going through something whether you want to talk about it right  
+**[11075.62s] English:** You're ready to talk, I know you're going through something. Whether you want to talk about it right now, that's okay.  
 **Translation:** 
 
-**[11078.34s] English:** now or not i'm here and then keeping a close eye on behaviors when you start to see somebody  
+**[11078.34s] English:** Now, or not, I'm here, and then keeping a close eye on behaviors when you start to see somebody.  
 **Translation:** 
 
-**[11083.58s] English:** having you know four five six beers at night let's ask why when you see somebody you can tell  
+**[11083.58s] English:** Having four, five, or six beers at night, let's ask why. When you see somebody, you can tell:  
 **Translation:** 
 
-**[11091.74s] English:** they're not sleeping hey buddy you sleeping i just i'm not sleeping instead of just going oh that  
+**[11091.74s] English:** They're not sleeping, hey buddy. You sleeping? I just can't sleep; instead of just going oh that.  
 **Translation:** 
 
-**[11096.64s] English:** sucks  
+**[11096.64s] English:** Sucks.  
 **Translation:** 
 
-**[11097.04s] English:** you  
+**[11097.04s] English:** You.  
 **Translation:** 
 
-**[11098.56s] English:** hey why aren't you sleeping you having nightmares are you you just having insomnia are you just  
+**[11098.56s] English:** Hey, why aren't you sleeping? You having nightmares? Are you just having insomnia? Are you just  
 **Translation:** 
 
-**[11104.14s] English:** eating sugar before bed like care enough about your people to just ask one follow-up question  
-**Translation:** Vocabulary: insomnia: 失眠; nightmares: 恶梦
+**[11104.14s] English:** Eating sugar before bed, like caring enough about your people, is just asking one follow-up question.  
+**Translation:** Vocabulary: caring: 关心; insomnia: 失眠; nightmares: 噩梦
 
-**[11110.52s] English:** because often that's really all it takes because then somebody goes somebody cares enough to ask  
+**[11110.52s] English:** Because often that's really all it takes, because then somebody goes, somebody cares enough to ask.  
 **Translation:** 
 
-**[11114.78s] English:** and then they'll just yeah just showing that you care it's honestly grocery store lineup i'll say  
+**[11114.78s] English:** And then they'll just, yeah, just showing that you care—it's honestly a grocery store lineup I'll say.  
 **Translation:** Vocabulary: grocery: 杂货; lineup: 队列
 
-**[11122.94s] English:** oh i like your dress oh thank you and then i'll go how's your day going they're like  
+**[11122.94s] English:** Oh, I like your dress. Oh, thank you! And then I'll go. How's your day going? They're like.  
 **Translation:** 
 
-**[11128.56s] English:** actually it's going all right it's not as great as i thought it would be today but i'm doing okay  
+**[11128.56s] English:** Actually, it's going all right; it's not as great as I thought it would be today, but I'm doing okay.  
 **Translation:** 
 
-**[11132.90s] English:** but like they'll give you instead of good you instead of just giving you this fake false  
+**[11132.90s] English:** But, like, they'll give you something instead of good, or instead of just giving you this fake and false...  
 **Translation:** 
 
-**[11136.84s] English:** reaction if you just show any effort in somebody that you care at all about someone's well-being  
+**[11136.84s] English:** Reaction: If you just show any effort in somebody that you care at all about their well-being,  
 **Translation:** 
 
-**[11143.90s] English:** you'd be amazed amazed and some of that is just energy the reason honestly i moved to austin  
+**[11143.90s] English:** You'd be amazed; amazed, and some of that is just energy. The reason, honestly, I moved to Austin.  
 **Translation:** 
 
-**[11150.98s] English:** is some lady at a walmart said you honey you look handsome in that suit but like but the care that  
+**[11150.98s] English:** Is there some lady at Walmart who said, "You, honey, you look handsome in that suit," but like...  
 **Translation:** 
 
 **[11158.02s] English:** She put it in that.  
@@ -7459,179 +7460,179 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[11158.84s] English:** She just looked at me.  
 **Translation:** 
 
-**[11160.00s] English:** yeah it wasn't like hitting on me or something she was like the love like just love yeah it was like  
+**[11160.00s] English:** Yeah, it wasn't like hitting on me or something. She was just being friendly, like love that way, yeah. It was like  
 **Translation:** 
 
-**[11165.12s] English:** oh okay i'm moving here i guess there was uh that's so funny you said that because i told my  
+**[11165.12s] English:** Oh, okay. I'm moving here. I guess that's so funny you said that because I told my  
 **Translation:** 
 
-**[11169.94s] English:** i told my husband this happened and it was it threw me off there was an older lady at a store  
+**[11169.94s] English:** I told my husband this happened, and it threw me off: there was an older lady at a store.  
 **Translation:** 
 
-**[11175.34s] English:** and this was right after we we got a brief period of no masks in canada like just like a brief like  
+**[11175.34s] English:** And this was right after we got a brief period of no masks in Canada, like just a brief like  
 **Translation:** 
 
-**[11181.80s] English:** five minutes oh yeah it was not even that and i i had come from like an interview or something so i  
+**[11181.80s] English:** Five minutes—oh, yeah, it wasn't even that, and I had just come from an interview or something, so I...  
 **Translation:** 
 
-**[11186.94s] English:** had actually had makeup on that day and i had my hat and i was you know just at the grocery store  
+**[11186.94s] English:** Had actually had makeup on that day, and I had my hat. I was, you know, just at the grocery store.  
 **Translation:** Vocabulary: makeup: 化妆品
 
-**[11190.60s] English:** she walked up to me and she got real close and i didn't know what was happening and she got closer  
+**[11190.60s] English:** She walked up to me and she got really close, and I didn't know what was happening, and she got even closer.  
 **Translation:** 
 
-**[11194.86s] English:** and then she just grabbed my arm like this she goes i love that hat on you and i looked at her  
+**[11194.86s] English:** And then she just grabbed my arm, like this. "I love that hat on you," she went, and I looked at her.  
 **Translation:** 
 
-**[11201.22s] English:** and i was like she touched me during a pandemic and she's old oh my god i love you too thank you  
+**[11201.22s] English:** And I was like, "She touched me during a pandemic, and she's old! Oh my god, I love you, too." Thank you.  
 **Translation:** 
 
-**[11205.32s] English:** so much i said you're so amazing i just and i just sparked a conversation yeah yeah that's amazing  
-**Translation:** Vocabulary: pandemic: 全球疫情
+**[11205.32s] English:** So much, I said, "You're so amazing." I just sparked a conversation, yeah! That's amazing.  
+**Translation:** Vocabulary: pandemic: 流行病; sparked: 点燃
 
-**[11210.20s] English:** it doesn't take much yeah at that little moment of genuine care maybe you can tell me actually the  
+**[11210.20s] English:** It doesn't take much, yeah. At that little moment of genuine care, maybe you can tell me actually the  
 **Translation:** 
 
-**[11216.48s] English:** um  
+**[11216.48s] English:** Um.  
 **Translation:** 
 
-**[11217.64s] English:** the journey you took with ayahuasca like what that's such a fascinating journey so like uh  
+**[11217.64s] English:** The journey you took with ayahuasca—like, what that's such a fascinating journey! So, like,  
 **Translation:** 
 
-**[11223.82s] English:** letting your mind go to different places in order to rediscover itself like  
+**[11223.82s] English:** Letting your mind go to different places in order to rediscover itself, like  
 **Translation:** Vocabulary: rediscover: 重新发现
 
-**[11228.08s] English:** like what is it like a rocket ship to somewhere else so you can land in a better place  
+**[11228.08s] English:** Like, what is it like a rocket ship to somewhere else, so you can land in a better place?  
 **Translation:** 
 
-**[11233.30s] English:** here how about i show you something that'll help your brain okay yes this is not for you to lift  
+**[11233.30s] English:** Here, how about I show you something that'll help your brain? Okay, yes, this is not for you to lift.  
 **Translation:** 
 
-**[11238.94s] English:** up either and show on the camera because there's leaves in it like there's leaves in some pages  
+**[11238.94s] English:** Up either, and show on the camera because there are leaves in it; like there are leaves in some pages.  
 **Translation:** 
 
-**[11242.80s] English:** so just don't dump it out because it'll go all fucking everywhere got it got it so  
+**[11242.80s] English:** So, just don't dump it out; it'll go all fucking everywhere. Got it? Got it?  
 **Translation:** 
 
-**[11246.84s] English:** so  
+**[11246.84s] English:** So,  
 **Translation:** 
 
-**[11246.94s] English:** instructions i like this yeah well you feel like you need them um  
+**[11246.94s] English:** Instructions: I like this, yeah. Well, you feel like you need them, um.  
 **Translation:** 
 
-**[11250.50s] English:** ayahuasca is a beautiful psychedelic that we have been so blessed to have on this earth that we have  
+**[11250.50s] English:** Ayahuasca is a beautiful psychedelic that we have been so blessed to have on this Earth that we have.  
 **Translation:** 
 
-**[11259.92s] English:** so underutilized and could be i don't say saving humanity but just you ever hear that saying if you  
-**Translation:** Vocabulary: psychedelic: 致幻剂; underutilized: 利用不足
+**[11259.92s] English:** So, it's so underutilized and could be. I don't say "saving humanity," but just: have you ever heard that saying?  
+**Translation:** Vocabulary: ayahuasca: 一种迷幻药; psychedelic: 迷幻的; underutilized: 未充分利用
 
-**[11266.74s] English:** could just give everyone mushrooms one time the world would be a better place okay so psilocybin  
+**[11266.74s] English:** Could just give everyone mushrooms one time, and the world would be a better place, okay? So, psilocybin.  
 **Translation:** 
 
-**[11272.72s] English:** is i use for microdosing uh for depression  
-**Translation:** Vocabulary: microdosing: 微量给药; psilocybin: 致幻剂
+**[11272.72s] English:** Is I use for microdosing, uh, for depression?  
+**Translation:** Vocabulary: microdosing: 微量给药; psilocybin: 致幻蘑菇成分
 
-**[11276.94s] English:** i did ayahuasca in january of this year  
+**[11276.94s] English:** I did ayahuasca in January of this year.  
 **Translation:** 
 
-**[11279.86s] English:** i did ayahuasca in january of this year  
+**[11279.86s] English:** I did ayahuasca in January of this year.  
 **Translation:** 
 
-**[11279.98s] English:** i did ayahuasca in january of this year  
+**[11279.98s] English:** I did ayahuasca in January of this year.  
 **Translation:** 
 
-**[11280.00s] English:** um and i've at that point that was the last time i was on a pharmaceutical drug i've been off  
-**Translation:** Vocabulary: pharmaceutical: 药品
+**[11280.00s] English:** Um, and I've been off all pharmaceutical drugs since then.  
+**Translation:** Vocabulary: pharmaceutical: 药物
 
-**[11286.90s] English:** everything ever since 10 different ones so if you backtrack a little bit just to so you'll  
+**[11286.90s] English:** Everything has been like that ever since ten different ones. So, if you backtrack a little bit, just to make sure you understand.  
 **Translation:** 
 
-**[11292.54s] English:** understand my doctor gave me the opportunity dr um greg passy he is a veteran himself served in  
-**Translation:** Vocabulary: backtrack: 回顾
+**[11292.54s] English:** Understand, my doctor gave me the opportunity. Dr. Um Greg Passy; he is a veteran himself and served in.  
+**Translation:** Vocabulary: backtrack: 回顾; veteran: 老兵
 
-**[11299.74s] English:** bosnia and rwanda he's a medic he's a colonel i think colonel lieutenant he's gonna punch me  
+**[11299.74s] English:** Bosnia and Rwanda: He's a medic, a colonel (I think, maybe even a lieutenant). I'm gonna punch him.  
 **Translation:** 
 
-**[11304.06s] English:** in the face for that he's high up officer um he is one of my saviors he's like my old i call him  
+**[11304.06s] English:** In the face of that, he's a high-up officer, and he is one of my saviors. He's like my old friend, and I call him...  
 **Translation:** Vocabulary: bosnia: 波斯尼亚; rwanda: 卢旺达; saviors: 救星
 
-**[11310.32s] English:** my old man he's my favorite and um rides a harley like that kind of guy nice yeah and um he said you  
+**[11310.32s] English:** My old man is my favorite, and he rides a Harley, like that kind of guy. Nice, yeah, and he said, "you  
 **Translation:** 
 
-**[11317.92s] English:** know kelse this is i just don't i was hitting a wall i wasn't getting any better and he goes  
+**[11317.92s] English:** Know, Kelsey, this is. I just didn't get it; I was hitting a wall, I wasn't getting any better, and he goes,  
 **Translation:** Vocabulary: harley: 哈雷摩托车
 
-**[11323.28s] English:** what how do you feel about cannabis and i was like i don't feel good about it because family  
+**[11323.28s] English:** What do you feel about cannabis? And I was like, I don't feel good about it because of my family.  
 **Translation:** 
 
-**[11329.36s] English:** histories or my parents always told me if i smoked weed you know it's just this this perception  
-**Translation:** Vocabulary: cannabis: 大麻
+**[11329.36s] English:** Histories or my parents always told me that if I smoked weed, you know, it's just this perception.  
+**Translation:** Vocabulary: cannabis: 大麻; perception: 看法
 
-**[11334.06s] English:** because i just want you to try it just would you be willing to try it so i was like okay so i  
+**[11334.06s] English:** Because I just wanted you to try it; would you be willing to try it? So, I was like, okay.  
 **Translation:** 
 
-**[11339.64s] English:** was willing to try it then i started going to these groups called women grow and um learning  
+**[11339.64s] English:** Was willing to try it, then I started going to these groups called Women Grow and, um, learning.  
 **Translation:** 
 
-**[11344.94s] English:** about it and then i realized oh i'm starting to sleep a little bit i don't feel groggy in the  
+**[11344.94s] English:** About it, and then I realized, oh, I'm starting to sleep a little bit; I don't feel groggy in the  
 **Translation:** 
 
-**[11353.80s] English:** morning i don't feel like a bag of shit and i also want to have a baby one day and i can't have  
-**Translation:** Vocabulary: groggy: 昏昏沉沉
+**[11353.80s] English:** Morning, I don't feel like a bag of shit, and I also want to have a baby one day, but I can't.  
+**Translation:** Vocabulary: groggy: 昏昏沉沉的
 
-**[11358.52s] English:** all this stuff in my system so i started using cannabis and then i started using it  
+**[11358.52s] English:** All this stuff in my system, so I started using cannabis, and then I started using it.  
 **Translation:** 
 
-**[11364.06s] English:** as a main medication and i've been using it now since 2014 got married  
+**[11364.06s] English:** As a main medication, and I've been using it now since 2014; got married in 2014.  
+**Translation:** Vocabulary: medication: 药物
+
+**[11371.64s] English:** In 2015, I started using it, and then I've been using it ever since. That's how I got off [of something].  
 **Translation:** 
 
-**[11371.64s] English:** 15 2015 i started using it um and then i've been using it ever since and that was the way i got off  
+**[11383.38s] English:** Of all the pharmaceutical drugs, was keeping cannabis the constant finding the right strains.  
+**Translation:** Vocabulary: pharmaceutical: 药物; strains: 品种
+
+**[11388.56s] English:** For me, and then slowly, with the doctor's advice and under supervision, going on and  
 **Translation:** 
 
-**[11383.38s] English:** of all the pharmaceutical drugs was keeping cannabis the constant finding the right strains  
-**Translation:** 
-
-**[11388.56s] English:** for me and then slowly with the doctor's advice and under supervision going on and  
-**Translation:** 
-
-**[11394.06s] English:** off of those medications cut to january of 2021 i had hit  
+**[11394.06s] English:** Off of those medications, I cut back to January of 2021, when I had hit  
 **Translation:** Vocabulary: medications: 药物; supervision: 监督
 
-**[11400.00s] English:** a really bad spell last year. And the year before was a really big struggle. I almost lost my  
+**[11400.00s] English:** A really bad spell last year. And the year before was a really big struggle. I almost lost my.  
 **Translation:** 
 
-**[11405.80s] English:** company last year due to COVID, just like many, many millions of people did. And instead of me  
+**[11405.80s] English:** Company last year, due to COVID, just like many, many millions of people did. And instead of me,...  
 **Translation:** 
 
-**[11412.78s] English:** just laying down and taking it, I pivoted really quickly and called the factory and said, you guys  
+**[11412.78s] English:** Just laying down and taking it, I pivoted really quickly and called the factory and said, "You guys,  
 **Translation:** 
 
-**[11418.80s] English:** make masks? They're like, yeah, we're making masks. I was like, I'm going to call the Canadian  
+**[11418.80s] English:** Make masks? They're like, "Yeah, we're making masks." I was like, "I'm going to call the Canadian  
 **Translation:** Vocabulary: pivoted: 迅速转变
 
-**[11423.22s] English:** government. I'm going to get my medical license and I'm going to try to sell the masks and see  
+**[11423.22s] English:** Government. I'm going to get my medical license, and I'm going to try to sell the masks and see.  
 **Translation:** 
 
-**[11427.58s] English:** if we can do that. And so we did that. And so we did 200,000 masks for Ontario hospitals,  
+**[11427.58s] English:** If we can do that, and so we did. We made 200,000 masks for Ontario hospitals.  
 **Translation:** 
 
-**[11433.78s] English:** which ironically went to my entire community I was born and raised in.  
+**[11433.78s] English:** Which ironically went to my entire community, where I was born and raised.  
 **Translation:** 
 
-**[11439.44s] English:** So it was really weird. And that kept us afloat long enough. We lost 200 retail locations that  
+**[11439.44s] English:** So, it was really weird. And that kept us afloat long enough. We lost 200 retail locations that,...  
 **Translation:** Vocabulary: afloat: 维持; ironically: 讽刺地
 
-**[11446.76s] English:** I all single-handedly spent five years going door to door getting myself.  
+**[11446.76s] English:** I alone spent five years going door to door to get myself.  
 **Translation:** 
 
-**[11451.76s] English:** And we should say this is Brass and Unity, jewelry.  
+**[11451.76s] English:** And we should say this is "Brass and Unity" jewelry.  
 **Translation:** 
 
-**[11454.42s] English:** The jewelry and sunglass company. And  
+**[11454.42s] English:** The jewelry and sunglasses company. And  
 **Translation:** 
 
-**[11457.58s] English:** speaking of which, they put on the Brass and Unity sunglasses.  
-**Translation:** Vocabulary: sunglass: 太阳镜
+**[11457.58s] English:** Speaking of which, they put on the Brass and Unity sunglasses.  
+**Translation:** 
 
 **[11464.00s] English:** You do look good in them. I won't lie to you.  
 **Translation:** 
@@ -7642,643 +7643,643 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[11466.18s] English:** Well, okay. We'll call them the Lex. Those are now called the Lex. Fuck the gunner. They're the Lex.  
 **Translation:** 
 
-**[11470.10s] English:** I like it. The Lex.  
+**[11470.10s] English:** I like it: The Lex.  
 **Translation:** 
 
-**[11471.56s] English:** I'm jumping around here, but just bear with me. My doctor suggested art therapy. Dr. Passy did.  
+**[11471.56s] English:** I'm jumping around here, but just bear with me. My doctor, Dr. Passy, suggested art therapy.  
 **Translation:** 
 
-**[11477.10s] English:** And that's really how the company started. I bought beads and a pipe cutter and a hammer and a drill,  
-**Translation:** Vocabulary: beads: 珠子
+**[11477.10s] English:** And that's really how the company started. I bought beads, a pipe cutter, a hammer, and a drill.  
+**Translation:** Vocabulary: beads: 珠子; hammer: 锤子
 
-**[11481.22s] English:** and I fucked up our kitchen table and I taught myself how to pull jewelry because my husband  
+**[11481.22s] English:** And I screwed up our kitchen table, and I taught myself how to make jewelry because my husband  
 **Translation:** 
 
-**[11485.64s] English:** was like, you can do it. Go for it.  
+**[11485.64s] English:** It was like, "You can do it. Go for it.  
 **Translation:** 
 
-**[11487.58s] English:** I was like, okay, he says I can, believes in me, so I guess I can do it. No idea what I'm doing.  
+**[11487.58s] English:** I was like, "Okay, he says I can and believes in me, so I guess I can do it. No idea what I'm doing.  
 **Translation:** 
 
-**[11492.84s] English:** And then got to this point where COVID hit and people lost companies and we pivoted and we did  
+**[11492.84s] English:** And then we got to this point where COVID hit, and people lost their jobs and companies. We pivoted, and we did  
 **Translation:** 
 
-**[11499.22s] English:** what we could. And then I really started to go downhill psychologically. I've found purpose  
+**[11499.22s] English:** What we could, and then I really started to go downhill psychologically. I've found purpose.  
 **Translation:** 
 
-**[11507.32s] English:** again with this company. I found a way to help again. I found myself again. And then that was  
-**Translation:** Vocabulary: downhill: 下滑; psychologically: 心理上
+**[11507.32s] English:** Again, with this company. I found a way to help again. I found myself again. And then that was.  
+**Translation:** Vocabulary: downhill: 恶化; psychologically: 心理上
 
-**[11515.12s] English:** in danger of being gone again.  
+**[11515.12s] English:** In danger of being gone again.  
 **Translation:** 
 
-**[11517.58s] English:** So the company is 2015.  
+**[11517.58s] English:** So, the company was founded in 2015.  
 **Translation:** 
 
-**[11520.00s] English:** we started i started um building jewelry in 2015 under like a just it was called her wearables and  
+**[11520.00s] English:** We started building jewelry in 2015 under a brand called Her Wearables, and...  
 **Translation:** 
 
-**[11527.04s] English:** it was really small and it was just i was just trying to make stuff it wasn't supposed to be  
+**[11527.04s] English:** It was really small, and it was just that I was just trying to make stuff; it wasn't supposed to be.  
 **Translation:** 
 
-**[11532.16s] English:** a company and you were on a ton of medication throughout the whole process and my mom being  
+**[11532.16s] English:** A company, and you were on a ton of medication throughout the whole process, and my mom being  
 **Translation:** 
 
-**[11539.32s] English:** the tenacious truck driver she is she was driving for kevin hart's what now tour and so she got she  
-**Translation:** Vocabulary: kevin: 凯文
+**[11539.32s] English:** The tenacious truck driver, she is. She was driving for Kevin Hart's "What Now?" tour, and so she got...  
+**Translation:** Vocabulary: medication: 药物
 
-**[11546.08s] English:** just harassed them was like you need to meet my daughter yeah so he finally saw the picture of you  
+**[11546.08s] English:** Just harassed them, was like, "You need to meet my daughter," yeah, so he finally saw the picture of you.  
 **Translation:** 
 
-**[11551.36s] English:** and kevin hart that's cool but he just gave me a good piece of advice hey if you're gonna make this  
-**Translation:** Vocabulary: harassed: 骚扰
+**[11551.36s] English:** And Kevin Hart, that's cool, but he just gave me a good piece of advice: "Hey, if you're gonna make this.  
+**Translation:** Vocabulary: harassed: 骚扰; kevin: 凯文
 
-**[11554.90s] English:** something you can't really if you want it to be for everyone you can't call it her wearables i  
+**[11554.90s] English:** Something you can't really do is call it "her wearables" if you want it to be for everyone.  
 **Translation:** 
 
-**[11558.54s] English:** was like cool and then we drove home that night and then he tweeted it out to people wow to 24  
+**[11558.54s] English:** It was like cool, and then we drove home that night. Then he tweeted it out to people: "Wow," to 24.  
 **Translation:** 
 
-**[11563.88s] English:** million people this was before he was like who he is now yeah and that was a giant deal and then my  
+**[11563.88s] English:** Million people, this was before he was like who he is now, yeah, and that was a giant deal, and then my.  
 **Translation:** 
 
-**[11569.84s] English:** husband kind of looked at me and being he's so fucking brilliant he looked at me he goes all  
+**[11569.84s] English:** Husband kind of looked at me, and being he's so fucking brilliant, he looked at me and went, "All...  
 **Translation:** 
 
-**[11573.38s] English:** right yeah we got to come up with a rename let me start thinking let me  
+**[11573.38s] English:** Right, yeah. We've got to come up with a new name. Let me start thinking about it.  
 **Translation:** 
 
-**[11576.08s] English:** start brainstorming like let's make you want to make this real let's make this real and so we did  
-**Translation:** Vocabulary: brainstorming: 头脑风暴; rename: 改名
-
-**[11580.06s] English:** and he was like what do you think about like we were doing like brass collective co brass this  
+**[11576.08s] English:** Start brainstorming—let's make you want to make this real. Let's make this real, and so we did.  
 **Translation:** 
 
-**[11584.84s] English:** but i just knew i wanted brass in the name and then he's like what about brass and unity you're  
+**[11580.06s] English:** And he was like, "What do you think about like we were doing, like Brass Collective?  
 **Translation:** 
 
-**[11588.62s] English:** trying to like unify people like why wouldn't you do that like what can you of course come up with  
+**[11584.84s] English:** But I just knew I wanted "brass" in the name, and then he's like, "What about Brass and Unity?  
 **Translation:** 
 
-**[11593.28s] English:** it like everything else that's a great name well he's a brilliant person it's annoying yeah so the  
+**[11588.62s] English:** Trying to unify people, why wouldn't you do that? Of course, you could come up with something for that.  
 **Translation:** 
 
-**[11598.00s] English:** idea of losing this thing that we had just built and just got me kind of functioning with was  
+**[11593.28s] English:** It's like everything else; that's a great name. Well, he's a brilliant person. It's annoying, yeah, so the  
 **Translation:** 
 
-**[11602.94s] English:** devastating so i got this opportunity  
+**[11598.00s] English:** The idea of losing this thing that we had just built and just got me kind of functioning again really bothered me.  
 **Translation:** 
 
-**[11606.08s] English:** given to me by griff combat flip-flops um again brady my husband was like hey you should get  
+**[11602.94s] English:** Devastating. So, I got this opportunity.  
+**Translation:** Vocabulary: bothered: 烦恼
+
+**[11606.08s] English:** Given to me by Griff, combat flip-flops. Um, again, Brady, my husband, was like, "You should get.  
 **Translation:** 
 
-**[11613.00s] English:** sponsors for your podcast hey have you heard of this company combat flip-flops remember we watched  
-**Translation:** Vocabulary: combat: 战斗; sponsors: 赞助商
+**[11613.00s] English:** Sponsors for your podcast: Hey, have you heard of this company Combat Flip-Flops? Remember, we watched...  
+**Translation:** Vocabulary: brady: 布雷迪; combat: 战斗; griff: 格里夫; sponsors: 赞助商
 
-**[11617.42s] English:** him on shark tank and then i reached out he emailed me back he's like yeah we go to together like  
+**[11617.42s] English:** He was on Shark Tank, and then I reached out. He emailed me back: "Yeah, we go to the same school.  
 **Translation:** 
 
-**[11622.52s] English:** peanut butter and jelly our companies that sounds great and then i was like hey also like do you  
+**[11622.52s] English:** Peanut butter and jelly—our companies, that sounds great! And then I was like, hey, also, do you...  
 **Translation:** 
 
-**[11628.26s] English:** think one of your owners would want to come on the podcast just like tossing it out there kind  
+**[11628.26s] English:** Think one of your owners would want to come on the podcast, just like tossing it out there, kind of.  
 **Translation:** 
 
-**[11632.42s] English:** of like i did with you and um he was like yeah i'd love to come on the podcast and i was like  
+**[11632.42s] English:** Of, like I did with you, and um, he was like, "Yeah, I'd love to come on the podcast," and I was like,  
+**Translation:** Vocabulary: tossing: 抛出建议
+
+**[11636.08s] English:** Come on, and I was like, "Oh my god," and he came on the podcast.  
 **Translation:** 
 
-**[11636.08s] English:** come on and i was like oh my god and he came on the podcast  
+**[11640.00s] English:** And it went great, and then at the end of it, we stopped recording, and he just kind of did this.  
 **Translation:** 
 
-**[11640.00s] English:** and it went great and then at the end of it we stopped recording and he just kind of did this  
+**[11643.90s] English:** Thing is, he does this just like leans in really close, just looks into your soul, and goes, "How you?  
 **Translation:** 
 
-**[11643.90s] English:** thing he he does this just like leans in real close just looks into your soul and goes how you  
+**[11649.84s] English:** Doing, and they're like, "Great! He's like, 'How are you really doing?  
 **Translation:** 
 
-**[11649.84s] English:** doing and they're like great he's like how you really doing  
+**[11653.72s] English:** Just like waterworks happen, and he goes, "Listen, have you ever heard of ayahuasca?  
 **Translation:** 
 
-**[11653.72s] English:** just this whole just like waterworks happen and he goes listen have you ever heard of ayahuasca  
+**[11663.88s] English:** And I was like, "Yeah, like in movies and like psychedelics in the '70s," you know, and he's like  
+**Translation:** Vocabulary: ayahuasca: 一种迷幻药; psychedelics: 迷幻药; waterworks: 水管漏水
+
+**[11669.54s] English:** No, no, no. Let's have a talk about it. He goes, "I've got an opportunity for a spot, I'm going with this.  
 **Translation:** 
 
-**[11663.88s] English:** and i was like yeah like in movies and like psychedelics in the 70s you know and he's like  
-**Translation:** Vocabulary: psychedelics: 迷幻药
-
-**[11669.54s] English:** no no no let's like have a talk and he goes i've got an opportunity for a spot i'm going with this  
+**[11674.88s] English:** Charity called Heroic Hearts; they have offices in the UK, Canada, and the United States.  
 **Translation:** 
 
-**[11674.88s] English:** charity called heroic hearts um they have off they have uh spaces in uk canada and the united  
+**[11680.76s] English:** States that they're owned by an Army Ranger named Jesse Gould, um, you know, they're really trying to help.  
 **Translation:** 
 
-**[11680.76s] English:** states they're owned by an army ranger named jesse gould um you know they're really trying to help  
+**[11686.70s] English:** Vets, and this has worked. Would you want to come and see him? Before he even said, "Would you," I  
 **Translation:** 
 
-**[11686.70s] English:** vets and this has worked would you want to come and before he even said like would you before i  
+**[11691.96s] English:** Even got an invite; I was like, "Can I come? When can I come?" When do we go? And he's like,  
 **Translation:** 
 
-**[11691.96s] English:** even got like an invite i was like can i come when can i when when do we when do we go and he's like  
+**[11698.26s] English:** Oh, it's in like three weeks.  
 **Translation:** 
 
-**[11698.26s] English:** oh it's in like three weeks  
+**[11699.52s] English:** Um, you can't be on any SSRIs if you're on any; you're gonna have to wean off, and at the time I  
 **Translation:** 
 
-**[11699.52s] English:** um you can't be on any ssris if you're on any you're gonna have to wean off and at the time i  
+**[11704.68s] English:** Was on my last one, and so I was like, "I called my doctor and I was like, 'Listen,' " and he was like, "What?  
 **Translation:** 
 
-**[11704.68s] English:** was on my last one and so i was like i called my doctor and i was like listen and he was like what  
+**[11711.44s] English:** And I was like, "Guess what I'm about to do?" and he's like, "I'm gonna go do ayahuasca," and he goes.  
 **Translation:** 
 
-**[11711.44s] English:** and i was like guess what i'm about to do and he's like i'm like gonna go do ayahuasca and he goes  
+**[11716.60s] English:** You're gonna, he does this thing where he just goes.  
 **Translation:** 
 
-**[11716.60s] English:** you're gonna he does this thing where he just goes  
+**[11719.32s] English:** All right, because he knows he's not gonna win. Yeah, he knows I'll just fight him on it. Let's...  
 **Translation:** 
 
-**[11719.32s] English:** all right because he knows he's not gonna win yeah he knows i'll just fight him on it let's  
+**[11726.34s] English:** Just call that a Jaco reset, yeah, because  
 **Translation:** 
 
-**[11726.34s] English:** just call that like the the jaco reset yeah because  
+**[11729.52s] English:** He does a pretty much, yeah, exactly. And he goes, "I said, but here's the kicker: I have to go off of.  
 **Translation:** 
 
-**[11729.52s] English:** he does a pretty much yeah exactly and he goes i said but here's the kicker i have to go off of  
+**[11736.02s] English:** This medication, and he goes well. You know, we're supposed to do that in the summer months when the  
+**Translation:** Vocabulary: medication: 药物
+
+**[11740.18s] English:** Depression's not like, you know, blah, blah, blah. Listen, I hear you, but I'm doing it whether...  
 **Translation:** 
 
-**[11736.02s] English:** this medication and he goes well you know we're supposed to do that in the summer months when the  
+**[11746.04s] English:** You want me to, or not? So I'm letting you know: hey, this is gonna happen, and he's like, "Okay, just try.  
 **Translation:** 
 
-**[11740.18s] English:** depression's not like we're you know blah blah blah listen i hear you but i'm doing it whether  
+**[11751.30s] English:** To do it properly, I was like, "Yeah, yeah, I know the drill. I know the drill. Whatever, whatever." I went.  
 **Translation:** 
 
-**[11746.04s] English:** you want me to or not so i'm letting you know hey this is gonna happen and he's like okay just try  
-**Translation:** 
-
-**[11751.30s] English:** to do it properly i was like yeah yeah i know the drill i know the drill whatever whatever i went  
-**Translation:** 
-
-**[11754.42s] English:** to school to be a paramedic i know the drill i'll go off of him properly so i can like drop that  
+**[11754.42s] English:** To school to be a paramedic, I know the drill; I'll go off of him properly, so I can like drop that.  
 **Translation:** Vocabulary: paramedic: 急救员
 
-**[11759.52s] English:** feeling ok so i'm ready for a commissioned thing to go where is your.  
+**[11759.52s] English:** Feeling okay, so I'm ready for a commissioned thing. Where is your?  
 **Translation:** 
 
-**[11761.52s] English:** family it's like the crematorium,  
-**Translation:** Vocabulary: commissioned: 受托的; crematorium: 火葬场
+**[11760.00s] English:** Stuff was, I was done taking it, and I was going through like the world's worst withdrawals.  
+**Translation:** Vocabulary: commissioned: 受托的; withdrawals: 戒断症状
 
-**[11762.22s] English:** so crazy,  
+**[11761.52s] English:** Family, it's like the crematorium.  
 **Translation:** 
 
-**[11762.88s] English:** I had asked about the crematorium before,  
+**[11762.22s] English:** So crazy.  
+**Translation:** Vocabulary: crematorium: 火葬场
+
+**[11762.88s] English:** I had asked about the crematorium before.  
 **Translation:** 
 
-**[11763.60s] English:** you are still like okay last time it wasn't like that if i hadn't done that  
+**[11763.60s] English:** You are still like, okay? Last time it wasn't like that. If I hadn't done that.  
 **Translation:** 
 
-**[11765.36s] English:** with  
+**[11765.36s] English:** With  
 **Translation:** 
 
-**[11788.22s] English:** What is your name,  
+**[11766.20s] English:** It was like you were at a rock concert, and your head was banging up and down, but you were sitting.  
+**Translation:** Vocabulary: banging: 猛烈摇晃
+
+**[11771.18s] English:** Perfectly still, it was horrible, but you had something to look forward to with the sidewalk. I had.  
+**Translation:** 
+
+**[11777.94s] English:** A light at the end of the tunnel, and I knew if I got to the light, the worst that's going to happen.  
+**Translation:** Vocabulary: sidewalk: 人行道; tunnel: 隧道
+
+**[11783.62s] English:** Just get to the light, but at that point, like I again had a son, I had a husband, and I had a great...  
+**Translation:** 
+
+**[11788.22s] English:** What is your name?  
+**Translation:** 
+
+**[11789.20s] English:** Company, I have a great house. I have a nice car. I have everything. Why did I want to die? Every minute.  
 **Translation:** 
 
 **[11789.34s] English:** Baby,  
 **Translation:** 
 
-**[11789.38s] English:** well.  
+**[11789.38s] English:** Well.  
 **Translation:** 
 
-**[11789.44s] English:** differs,  
+**[11789.44s] English:** Differs,  
+**Translation:** Vocabulary: differs: 不同
+
+**[11789.50s] English:** Really?  
 **Translation:** 
 
-**[11789.50s] English:** really?  
+**[11794.78s] English:** Of the day, I was at that point again, and I'm like, "This has got to give; something's got to give.  
 **Translation:** 
 
-**[11760.00s] English:** stuff was i was done taking it and i was going through like the world's worst just withdrawals  
-**Translation:** Vocabulary: withdrawals: 戒断症状
-
-**[11766.20s] English:** it was like you were at a rock concert and your head was banging up and down but you were sitting  
+**[11800.52s] English:** And so I went, and I got there, and she is um  
 **Translation:** 
 
-**[11771.18s] English:** perfectly still it was horrible but you had like a thing to look forward to with the sidewalk i had  
+**[11809.66s] English:** The most intense, beautiful, divine.  
 **Translation:** 
 
-**[11777.94s] English:** a light at the end of the tunnel and i knew if i got to the light was the worst that's gonna happen  
+**[11819.20s] English:** Deity, or entity, or visualization—whatever you want to deem Ayahuasca as, Mama is real.  
 **Translation:** 
 
-**[11783.62s] English:** just get to the light but at that point like i again i had a son i had a husband i had a great  
-**Translation:** 
-
-**[11789.20s] English:** company i have a great house i have a nice car i have everything why did i want to die every minute  
-**Translation:** 
-
-**[11794.78s] English:** of the day i was at that point again and i'm like this has got it something's got to give  
-**Translation:** 
-
-**[11800.52s] English:** and so i went and i got there and she is um  
-**Translation:** 
-
-**[11809.66s] English:** the most intense beautiful divine  
-**Translation:** 
-
-**[11819.20s] English:** deity or entity or visualization whatever you want to deem ayahuasca as mama is real  
-**Translation:** 
-
-**[11830.12s] English:** and she takes no prisoners she shows you exactly what you need to see  
+**[11830.12s] English:** And she takes no prisoners, showing you exactly what you need to see.  
 **Translation:** Vocabulary: ayahuasca: 艾萨华斯; deity: 神灵; visualization: 可视化
 
-**[11837.10s] English:** to help yourself but she does not discriminate against whether you're ready or not if you've  
+**[11837.10s] English:** To help yourself, but she does not discriminate against whether you're ready or not if you've  
 **Translation:** 
 
-**[11846.64s] English:** ingested it she's coming for you  
+**[11846.64s] English:** Ingested it; she's coming for you.  
 **Translation:** Vocabulary: discriminate: 区别对待; ingested: 摄入
 
-**[11849.20s] English:** she's gonna be either gentle or she's going to beat your ass and sometimes that's what you need  
+**[11849.20s] English:** She's gonna be either gentle, or she's going to beat your ass, and sometimes that's what you need.  
 **Translation:** 
 
-**[11855.72s] English:** but she does it in a way that  
+**[11855.72s] English:** But she does it in a way that  
 **Translation:** 
 
-**[11857.50s] English:** is profound so what were some memorable profound moments for you what uh what are the places it  
+**[11857.50s] English:** Is profound. So, what were some memorable, profound moments for you? What, uh, what are the places it?  
 **Translation:** 
 
-**[11868.64s] English:** took you these people had you meet for the first time i got to be in a group of people who didn't  
-**Translation:** Vocabulary: profound: 深刻
+**[11868.64s] English:** Took you; these people had you meet for the first time. I got to be in a group of people who didn't.  
+**Translation:** Vocabulary: profound: 深刻的
 
-**[11876.98s] English:** judge me or question my service  
+**[11876.98s] English:** Judge me or question my service?  
 **Translation:** 
 
-**[11879.20s] English:** they just  
+**[11879.20s] English:** They just  
 **Translation:** 
 
-**[11880.00s] English:** me that was number one so that group i lost i just found again um big shocker i was the only  
+**[11880.00s] English:** That was number one, so that group I lost; I just found again—um, big shocker—I was the only  
 **Translation:** 
 
-**[11890.02s] English:** woman there again seems to be the the thing for me and so i was surrounded by all these special  
+**[11890.02s] English:** Woman, there again seems to be the thing for me, and so I was surrounded by all these special  
+**Translation:** Vocabulary: shocker: 大惊喜
+
+**[11897.86s] English:** Operators like these aren't like normal soldiers, like these guys that I'm with; they're like Bronze Star.  
 **Translation:** 
 
-**[11897.86s] English:** operators like these aren't like normal soldiers like these guys that i'm with are like bronze star  
+**[11903.64s] English:** Fucking purple heart, just the coolest people. I've always wanted to be like that. That's my  
+**Translation:** Vocabulary: operators: 特种兵
+
+**[11911.62s] English:** Buddy, now I can be like, those are my buddies — like, those motherfuckers will go to bat for me.  
 **Translation:** 
 
-**[11903.64s] English:** fucking purple heart just the coolest people people i've always wanted to be like that's my  
+**[11916.44s] English:** They will bend over backwards, they will exfiltrate me from anywhere, and they will take a bullet for me.  
+**Translation:** Vocabulary: backwards: 费力地; exfiltrate: 秘密转移; motherfuckers: 混账家伙
+
+**[11921.36s] English:** And these guys welcomed me in in a way I didn't expect, so that hit me weird right off the bat.  
 **Translation:** 
 
-**[11911.62s] English:** buddy now i can be like those are my buddies like those motherfuckers will go to bat for me  
+**[11927.42s] English:** I was nervous, and now I just felt at home for a minute, and then when I stepped into  
 **Translation:** 
 
-**[11916.44s] English:** they will bend over backwards they will exfil me out of anywhere they will take a bullet for me  
-**Translation:** Vocabulary: backwards: 费力
-
-**[11921.36s] English:** and these guys welcomed me in in a way i didn't i didn't expect so that hit me weird right off the  
+**[11933.64s] English:** Ceremony: The first night, because you do three nights over, like Friday and Saturday.  
 **Translation:** 
 
-**[11927.42s] English:** get i was nervous and now i was just felt that home for a minute and then when i stepped into  
+**[11941.36s] English:** Sunday, the first night, I was so nervous and so anxious because you go up in ceremony and your  
 **Translation:** 
 
-**[11933.64s] English:** ceremony um the first night because you do you do three nights over like over like friday saturday  
+**[11948.68s] English:** The shamans come in and they cleanse themselves, and then you get served the um...  
 **Translation:** 
 
-**[11941.36s] English:** sunday the first night i was so nervous and so anxious because you go up in ceremony and your  
+**[11954.98s] English:** Ah, individually, you go up; they give it to you. You can take your time and pray. You can do whatever.  
+**Translation:** Vocabulary: cleanse: 洗涤; individually: 单独; shamans: 萨满
+
+**[11959.54s] English:** You want it, then you drink it. I was so just like.  
 **Translation:** 
 
-**[11948.68s] English:** the shamans come in and they they cleanse themselves and then you get served the um  
+**[11963.00s] English:** You.  
 **Translation:** 
 
-**[11954.98s] English:** ayah individually you go up they give it to you you can take your time and pray you can do whatever  
-**Translation:** Vocabulary: cleanse: 洗涤; individually: 单独; shamans: 巫师
-
-**[11959.54s] English:** you want then you drink it i was so just like  
+**[11963.64s] English:** I got back to my mat and I sat there, and I was like trying to keep it in, but I could feel that.  
 **Translation:** 
 
-**[11963.00s] English:** you  
+**[11970.82s] English:** Like heat comes from my toes all the way up, and you're like, your mouth starts to water; I'm gonna...  
 **Translation:** 
 
-**[11963.64s] English:** i got back to my mat and i sat there and i was like trying to keep it in but i could feel that  
+**[11975.26s] English:** Throw up—I'm gonna throw up, and I looked over to Griff and I looked at Bishop, and I'm like  
 **Translation:** 
 
-**[11970.82s] English:** like heat come from my toes all the way up and you're like your mouth starts to water i'm gonna  
-**Translation:** 
-
-**[11975.26s] English:** throw up i'm gonna throw up and i looked over to griff and i looked at bishop and i'm like  
-**Translation:** 
-
-**[11980.04s] English:** swallow it and i was like okay and you can't talk or anything so i like my buddy um we call him the  
+**[11980.04s] English:** Swallow it, and I was like, "Okay." And you can't talk or anything, so I liked my buddy—um—we call him the...  
 **Translation:** Vocabulary: griff: 格里夫
 
-**[11990.88s] English:** viking a soul viking he looks like a viking  
+**[11990.88s] English:** Viking, a soul viking. He looks like a Viking.  
 **Translation:** 
 
-**[11993.64s] English:** his head's tattooed he's he's been on the show he's so cool he's sitting directly across  
+**[11993.64s] English:** His head is tattooed. He's been on the show; he's so cool. He's sitting directly across.  
 **Translation:** Vocabulary: tattooed: 纹身
 
-**[12000.00s] English:** like you and i and he can see me he's looking at me and i'm throwing up and and i do it about  
+**[12000.00s] English:** Like you and I, and he can see me; he's looking at me, and I'm throwing up. And I do it about...  
 **Translation:** 
 
-**[12006.12s] English:** three times and then the last time he just saw me i couldn't do it i just i threw it up and so  
+**[12006.12s] English:** Three times, and then the last time he just saw me, I couldn't do it; I just threw it up, and so...  
 **Translation:** 
 
-**[12012.52s] English:** i like to think that was her way of easing me in so i didn't get like a full punch to the face but  
+**[12012.52s] English:** I like to think that was her way of easing me in, so I didn't get a full punch to the face, but...  
 **Translation:** 
 
-**[12018.90s] English:** i gotta let me take your hand and show you what i'm gonna show you we're gonna make you better  
+**[12018.90s] English:** I've got to take your hand and show you what I'm gonna show you. We're gonna make you better.  
 **Translation:** 
 
-**[12023.34s] English:** we're gonna take the pain away aren't you supposed to eventually throw up no matter what it's not  
+**[12023.34s] English:** We're gonna take the pain away, aren't you? Supposedly, you're eventually supposed to throw up, no matter what—it's not.  
 **Translation:** 
 
-**[12028.00s] English:** supposed to some people don't you purge yeah if something's happening you're going through  
-**Translation:** Vocabulary: purge: 清空肠胃
+**[12028.00s] English:** Supposed to, some people don't you purge, yeah? If something's happening, you're going through.  
+**Translation:** Vocabulary: purge: 催吐
 
-**[12032.40s] English:** something yeah you purge but it doesn't have to happen but this i mean within like the first 20  
+**[12032.40s] English:** Something, yeah, you can purge, but it doesn't have to happen. But this, I mean, within the first 20...  
 **Translation:** 
 
-**[12036.26s] English:** minutes no okay this takes like you got to sit and meditate for or sit still basically and meditate  
-**Translation:** Vocabulary: meditate: 静坐冥想
+**[12036.26s] English:** Minutes, no, okay. This takes, like, you've got to sit and meditate for, or sit still basically and meditate.  
+**Translation:** Vocabulary: meditate: 静思冥想
 
-**[12042.36s] English:** in the pitch black for about 45 minutes before the effects even before you even feel her so it's  
+**[12042.36s] English:** In the pitch-black darkness for about 45 minutes, before any effects are even noticeable, so it's  
 **Translation:** 
 
-**[12048.96s] English:** very so here she figured out the right dose you need maybe well because i did the same dose as  
+**[12048.96s] English:** Very, so here she figured out the right dose you need, maybe? Well, because I did the same dose as...  
 **Translation:** 
 
-**[12054.30s] English:** everyone else i think it was 20 mils which doesn't seem like a lot  
+**[12054.30s] English:** Everyone else, I think it was $20, which doesn't seem like a lot.  
 **Translation:** 
 
-**[12057.82s] English:** you  
+**[12057.82s] English:** You.  
 **Translation:** 
 
-**[12058.00s] English:** but when you've never done it is oh my god so um i felt like such a bitch god i felt like such a  
+**[12058.00s] English:** But when you've never done it, oh my god, so um, I felt like such a bitch.  
 **Translation:** 
 
-**[12068.26s] English:** bitch okay that was the thought going through your mind oh you just fucked it all up you ruined it  
+**[12068.26s] English:** Bitch, okay—that was the thought going through your mind. Oh, you just fucked it all up; you ruined it.  
 **Translation:** 
 
-**[12073.76s] English:** you ruined this again you couldn't do this right yeah and so at that point um we we went through  
+**[12073.76s] English:** You ruined this again. You couldn't do it right, could you? Yeah, and so at that point, um, we went through...  
 **Translation:** 
 
-**[12081.44s] English:** the meditation part and the shamans were they literally sing for like six hours straight so  
+**[12081.44s] English:** The meditation part, and the shamans were literally singing for like six hours straight so  
 **Translation:** Vocabulary: shamans: 巫师
 
-**[12086.80s] English:** you said that you take it and then you  
+**[12086.80s] English:** You said that you take it, and then you  
 **Translation:** 
 
-**[12088.00s] English:** there's just you just what you're quietly listening to them meditate and you wait and you wait and  
+**[12088.00s] English:** There's just you just quietly listening to them meditate, and you wait and wait and...  
 **Translation:** 
 
-**[12093.98s] English:** you're in pitch black like can't see this far in front of your face cool and you have a little puke  
+**[12093.98s] English:** You're in pitch-black darkness; you can't see anything in front of your face. It's cool, and you have a little puke.  
 **Translation:** 
 
-**[12098.32s] English:** bucket and then you have a little light that has a red filter on it if you have to get up to go to  
+**[12098.32s] English:** Bucket, and then you have a little light that has a red filter on it. If you have to get up to go to,...  
 **Translation:** 
 
-**[12102.92s] English:** the bathroom to get out of the yurt you use that so you don't turn lights on and um me i brought  
+**[12102.92s] English:** The bathroom to get out of the yurt, you use that so you don't turn lights on. Um, me, I brought  
 **Translation:** 
 
-**[12109.00s] English:** like what no it's just a cool visual of just a puke bucket and a little light for the like i  
+**[12109.00s] English:** Like, what? No, it's just a cool visual of just a puke bucket and a little light. For the record, I  
 **Translation:** 
 
-**[12115.16s] English:** can imagine these like little lights going every once in a while and then  
+**[12115.16s] English:** Can you imagine these like little lights going off every once in a while and then?  
 **Translation:** 
 
-**[12118.00s] English:** the rest is just in darkness meditating  
+**[12118.00s] English:** The rest is just in darkness, meditating.  
 **Translation:** Vocabulary: meditating: 冥想
 
-**[12120.00s] English:** with this with this singing it's it's so beautiful that's cool i'll take you sometime  
+**[12120.00s] English:** With this singing, it's so beautiful. That's cool; I'll take you sometime.  
 **Translation:** 
 
-**[12125.86s] English:** because trust me you would i i wouldn't offer if it wasn't the group i would trust  
+**[12125.86s] English:** Because, trust me, you'd understand. I wouldn't offer if it wasn't the group I would trust.  
 **Translation:** 
 
-**[12131.28s] English:** yeah that's in you had a very interesting group so it's the the heroic hearts yeah heroic hearts  
+**[12131.28s] English:** Yeah, that's in you had a very interesting group, so it's the heroic hearts, yeah. Heroic Hearts.  
 **Translation:** 
 
-**[12137.20s] English:** so they yeah this is my jesse gave us all these journals they're like you're gonna want these  
-**Translation:** Vocabulary: jesse: 杰西
-
-**[12141.62s] English:** so he gave us all these journals and now this is like my bible like my work my everything goes in  
+**[12137.20s] English:** So, they yeah, this is Jesse's; he gave us all these journals. They're like, you're gonna want these.  
 **Translation:** 
 
-**[12147.40s] English:** this with me everywhere it's just this like silent reminder for me and so heroic hearts does  
+**[12141.62s] English:** So, he gave us all these journals, and now this is like my Bible—my work; my everything goes in.  
 **Translation:** 
 
-**[12152.72s] English:** fantastic work um i'll get into them after it the thing with this group is  
+**[12147.40s] English:** This is with me everywhere; it's just this silent reminder for me, and so "heroic hearts" does.  
+**Translation:** Vocabulary: reminder: 提示物
+
+**[12152.72s] English:** Fantastic work. Um, I'll get to them after that. The thing with this group is...  
 **Translation:** 
 
-**[12159.30s] English:** there's such care it's not like go do aya and like you're done there's like integration coaches and  
+**[12159.30s] English:** There's such care; it's not like "go, Aya, and like you're done." There are integration coaches and  
 **Translation:** 
 
-**[12168.16s] English:** there's like doctors and there's like people to make sure that you're doing the work because i  
+**[12168.16s] English:** There's like doctors, and there's people to make sure that you're doing the work, because I  
 **Translation:** 
 
-**[12173.24s] English:** is just this is just the gate now you have to take it and you have  
+**[12173.24s] English:** Is just this: it's just the gate. Now, you have to take it and you have.  
 **Translation:** 
 
-**[12177.34s] English:** to take it and you have to take it and you have to take it and you have to take it and you have  
+**[12177.34s] English:** To take it, and you have to take it, and you have to take it, and you have to take it, and you have to.  
 **Translation:** 
 
-**[12177.38s] English:** to implement it into your life people don't do that though did you do uh like integration did  
+**[12177.38s] English:** To implement it into your life, people don't do that, though. Did you do, like, integration?  
+**Translation:** Vocabulary: implement: 执行
+
+**[12182.78s] English:** You do conversations with somebody, right? Did you talk to anyone like, is there a process to it because I've...  
 **Translation:** 
 
-**[12182.78s] English:** you do conversations with somebody did you talk to like is there a process to because i've uh  
+**[12188.48s] English:** Similar to psilocybin, you mentioned that I've understood it to be exceptionally beneficial for when  
+**Translation:** Vocabulary: beneficial: 有帮助的; exceptionally: 特别地
+
+**[12194.44s] English:** You also do something like talk therapy, and you couple that with the integration in some form, where you  
 **Translation:** 
 
-**[12188.48s] English:** similar with psilocybin you mentioned i've as i understand it's exceptionally beneficial for when  
-**Translation:** Vocabulary: exceptionally: 极其; psilocybin: 迷幻蘑菇
-
-**[12194.44s] English:** you also do like talk therapy like you couple that with the integration in some form where you  
+**[12200.06s] English:** Talk through your experience, and you talk through different things like that. That seems to be a  
 **Translation:** 
 
-**[12200.06s] English:** talk through your experience and you talk through different things like that that seems to be a  
+**[12204.54s] English:** Really, you know, I need to do that more with, uh, basically every substance I take; like if I get  
 **Translation:** 
 
-**[12204.54s] English:** really you know i need to do that more with uh basically every substance i take like if i get  
+**[12209.52s] English:** What you have been every once in a while known to do is have a bit of vodka or whiskey, or whatever.  
+**Translation:** Vocabulary: substance: 药物; vodka: 伏特加; whiskey: 威士忌
+
+**[12214.04s] English:** Like, do the integration the next day? Well, what did you learn? What did you get from that?  
 **Translation:** 
 
-**[12209.52s] English:** what you have been every once in a while known to do a bit of vodka or whiskey or whatever  
-**Translation:** Vocabulary: vodka: 伏特加
-
-**[12214.04s] English:** like do integration the next day well what did you learn what did you get from that what did  
+**[12219.50s] English:** You get because you learn a lot, but you sometimes kind of just move on and you celebrate.  
 **Translation:** 
 
-**[12219.50s] English:** you get because you you learn a lot but you sometimes kind of just move on and you celebrate  
+**[12223.22s] English:** That happened, but like really kind of think it through, write it down—yeah, it's important.  
 **Translation:** 
 
-**[12223.22s] English:** that that happened but like really kind of think through it write it down yeah it's important  
+**[12228.02s] English:** Because that's what this was, so the first night, I'll give like a very brief overview because, trust me, we could go on for hours.  
 **Translation:** 
 
-**[12228.02s] English:** because that's what this was so the first night i'll give like a very because trust me we could  
+**[12234.18s] English:** Spend a whole night on it, and I'll give you a very detailed explanation. Because, trust me, we could spend a whole night on it.  
 **Translation:** 
 
-**[12234.18s] English:** spend a whole night on it and i'll give like a very because trust me we could spend a whole night  
+**[12234.52s] English:** A whole podcast on both of those nights, but the first night,...  
 **Translation:** 
 
-**[12234.52s] English:** a whole podcast on both of the all three of those nights but the first night  
+**[12237.78s] English:** The biggest thing that happened for me is I got to.  
 **Translation:** 
 
-**[12237.78s] English:** the biggest thing that happened for me is i got to  
+**[12240.00s] English:** My daughter, who was my first baby, and so people say, "Well, you know, blah blah blah... fuck you, that was...  
 **Translation:** 
 
-**[12240.00s] English:** my daughter which was my first baby and so people say well you know blah blah blah fuck you that was  
+**[12248.54s] English:** My daughter, and I'm very aware that it was. I'm very conscious that it was, and at that point, she just.  
 **Translation:** 
 
-**[12248.54s] English:** my daughter and i'm very aware it was i'm very conscious that it was and at that point she just  
+**[12254.62s] English:** Eased me in enough to let me know, and showed me enough that this wasn't it, this wasn't.  
 **Translation:** 
 
-**[12254.62s] English:** eased me in enough to let me know and showed me enough that this wasn't it this wasn't  
+**[12261.22s] English:** The end-all, be-all: Where you are right now — on this plane, on this dimension, in this life — this is.  
 **Translation:** 
 
-**[12261.22s] English:** the end all be all where you are right now on this plane on this dimension in this life this is  
-**Translation:** 
-
-**[12268.04s] English:** this is a blip and it is it is so minuscule to the big picture and so she really did that by  
+**[12268.04s] English:** This is a blip and it is so minuscule to the big picture, and so she really did that by.  
 **Translation:** Vocabulary: dimension: 维度; minuscule: 微小
 
-**[12276.16s] English:** she showed me just a black and then like a crack and then these vibrant colors that i can't describe  
+**[12276.16s] English:** She showed me just a black, and then like a crack, and then these vibrant colors that I can't describe.  
 **Translation:** 
 
-**[12282.58s] English:** because there aren't words alex gray does really great um art and that is like been the closest  
-**Translation:** Vocabulary: vibrant: 鲜艳
+**[12282.58s] English:** Because there aren't words to describe how great Alex Gray's art is, and that is as close as we can get.  
+**Translation:** Vocabulary: vibrant: 鲜艳的
 
-**[12289.08s] English:** thing i've been able to find colors um he's a famous uh guy who does ayahuasca and he's an  
+**[12289.08s] English:** Thing I've been able to find colors, um, he's a famous guy who does ayahuasca, and he's an  
 **Translation:** 
 
-**[12296.18s] English:** artist i think he's got stuff in new york as well  
+**[12296.18s] English:** Artist, I think he's got stuff in New York as well.  
+**Translation:** Vocabulary: ayahuasca: 一种药用植物饮料
+
+**[12298.04s] English:** But, um, she just eased me in and gave me some relief and showed me enough that I could go.  
 **Translation:** 
 
-**[12298.04s] English:** but um she just she eased me in and gave me some relief and showed me enough that i could go  
+**[12307.96s] English:** I could wake up the next day and not want to die the next day.  
 **Translation:** 
 
-**[12307.96s] English:** i could wake up the next day and not want to die the next day  
+**[12311.40s] English:** And so, what heroic heart said, because they gave us all these journals, they're like, you know,  
 **Translation:** 
 
-**[12311.40s] English:** and so what heroic heart said because they gave us all these journals they're like you know  
+**[12316.54s] English:** The next day, you kind of wake up and do something like a meeting. You do something like a circle, involving everyone.  
 **Translation:** 
 
-**[12316.54s] English:** the next day you kind of wake up and you you do a meet like a meeting you do like a circle all of  
+**[12324.44s] English:** We sat in the room and talked about what just happened the night before.  
 **Translation:** 
 
-**[12324.44s] English:** us sit in the room and talk about what just happened the night before  
+**[12328.04s] English:** And you just listen, and that's what you do, and then you write in your free time, so after that.  
 **Translation:** 
 
-**[12328.04s] English:** and you just listen and that's what you do and then you write on your free time so after that  
+**[12336.12s] English:** It's up to you what you want to do. Do you want to just go walk in the woods? Well, I chose...  
 **Translation:** 
 
-**[12336.12s] English:** it's like up to you what you want to do do you want to just go walk in the woods well i chose  
+**[12339.70s] English:** To go find a fence post and lie on it for an hour—I'm not kidding. I lay there and stared up at  
+**Translation:** Vocabulary: stared: 凝视
+
+**[12345.02s] English:** These two eagles were just sitting there, and I'll tell you where we were; you'll see.  
 **Translation:** 
 
-**[12339.70s] English:** to go find a fence post and lie on it for an hour i'm not kidding i lied there and stared up at  
+**[12349.40s] English:** Like, oh, okay, I get it. And then I found a forest, and I just walked up with my book and I just  
+**Translation:** Vocabulary: eagles: 老鹰
+
+**[12358.04s] English:** Lied there for hours.  
 **Translation:** 
 
-**[12345.02s] English:** these two eagles that were just in like the i'll tell you where we were after and you'll you'll be  
+**[12360.00s] English:** And then she suddenly started giving me what you call "downloads" — the stuff you  
+**Translation:** Vocabulary: downloads: 文件传输
+
+**[12366.42s] English:** Learn the stuff that you were suddenly remembering, and these messages that come.  
 **Translation:** 
 
-**[12349.40s] English:** like oh okay i get it and then i found a forest and i just walked up with my book and i just  
+**[12370.20s] English:** Through, and that's what this is: what kind of things are we talking about? So, my biggest thing...  
 **Translation:** 
 
-**[12358.04s] English:** lied there for hours  
+**[12378.42s] English:** That she tried to reiterate to me at the beginning of that first night was that I don't breathe.  
 **Translation:** 
 
-**[12360.00s] English:** and then she all of a sudden started giving me what you call your downloads so the stuff you  
-**Translation:** 
-
-**[12366.42s] English:** learn the stuff that you were all of a sudden you're remembering and these messages that come  
-**Translation:** 
-
-**[12370.20s] English:** through and that's what this is what kind of things are we talking about so my biggest thing  
-**Translation:** 
-
-**[12378.42s] English:** that she tried to reiterate to me at the beginning of that first night was that i don't breathe  
-**Translation:** 
-
-**[12382.88s] English:** i just i don't i don't breathe i don't fucking breathe at all i just one thing to the next thing  
+**[12382.88s] English:** I just don't breathe—I don't fucking breathe at all. I just go from one thing to the next.  
 **Translation:** Vocabulary: reiterate: 重复说明
 
-**[12394.44s] English:** the next thing the next thing just to survive i don't take a minute and breathe and so she made  
+**[12394.44s] English:** The next thing, the next thing—just to survive, I don't take a minute to breathe, and so she made.  
 **Translation:** 
 
-**[12399.78s] English:** when i say she and i say it because it's hard for people to understand but i showed this to  
+**[12399.78s] English:** When I say "she," and I say it because it's hard for people to understand, but I showed this to  
 **Translation:** 
 
-**[12404.00s] English:** my husband i showed it to my doctors and they're like uh bitch that's not you you don't write like  
+**[12404.00s] English:** My husband and I showed it to our doctors, and they're like, "Uh, bitch, that's not you. You don't write like that.  
 **Translation:** 
 
-**[12408.34s] English:** that you don't talk like that so like you can flip through it but it was like  
+**[12408.34s] English:** That you don't talk like that, so you can flip through it, but it was like  
 **Translation:** 
 
-**[12412.66s] English:** you can flip through it but it was like you can flip through it but it was like  
+**[12412.66s] English:** You can flip through it, but it was like.  
 **Translation:** 
 
-**[12412.88s] English:** i'll just give i'll just let lex read for a second and just i'll just do here let me do  
+**[12412.88s] English:** I'll just give Lex a chance to read for a second, and I'll just jump in here. Let me do  
 **Translation:** 
 
-**[12419.60s] English:** i'll do an ad for heroic hearts heroic hearts here i'll get my papers while you read connect  
+**[12419.60s] English:** I'll do an ad for Heroic Hearts. Heroic Hearts, here I'll get my papers while you read connect.  
 **Translation:** 
 
-**[12424.80s] English:** to her listen to her open to her do you mind if i read some of these you can read some of it yeah  
+**[12424.80s] English:** To her, listen to her, be open to her. Do you mind if I read some of these? You can read some of it. Yeah.  
 **Translation:** 
 
-**[12429.24s] English:** go right ahead the dark has lifted judge my spelling and i'll punch you right  
+**[12429.24s] English:** Go right ahead; the dark has lifted. Judge my spelling, and I'll punch you right.  
 **Translation:** 
 
-**[12434.80s] English:** well there's like um it's very sporadic key sporadically written it's  
+**[12434.80s] English:** Well, there's like, um, it's very sporadic—kind of written sporadically. It's  
 **Translation:** Vocabulary: sporadic: 不规律; sporadically: 不规律地
 
-**[12442.66s] English:** okay  
+**[12442.66s] English:** Okay.  
 **Translation:** 
 
-**[12442.88s] English:** to be still it's okay to be quiet this is good like what and these are over a stretch of  
+**[12442.88s] English:** To be still, it's okay to be quiet. This is good, like what? And these are over a stretch of.  
 **Translation:** 
 
-**[12451.48s] English:** that was the first the cup first couple pages were from the first night  
+**[12451.48s] English:** That was the first. The cup; first couple pages were from the first night.  
 **Translation:** 
 
-**[12455.20s] English:** this was just that weekend and you're just there laying looking at the eagles yeah with a with the  
+**[12455.20s] English:** This was just that weekend, and you're just there lying looking at the eagles, yeah, with the  
+**Translation:** Vocabulary: eagles: 老鹰
+
+**[12461.78s] English:** Pen just feels frantic, as well. It's not like writing where you're like, "Oh, I'm just writing.  
 **Translation:** 
 
-**[12461.78s] English:** pen just frantic as well like it's not like writing where you're like oh i'm just writing  
-**Translation:** 
-
-**[12466.18s] English:** it's like i had to get it down or i was gonna lose it you are  
+**[12466.18s] English:** It's like I had to get it down or I was gonna lose it, you are.  
 **Translation:** Vocabulary: frantic: 疯狂的
 
-**[12472.88s] English:** warrior you are power you can choose now breathe  
+**[12472.88s] English:** Warrior, you are powerful. You can choose now. Breathe.  
 **Translation:** 
 
-**[12480.00s] English:** now. Be now.  
+**[12480.00s] English:** Now. Be now.  
 **Translation:** 
 
-**[12485.66s] English:** Be present. Be warrior. Be  
+**[12485.66s] English:** Be present. Be a warrior. Be  
 **Translation:** 
 
-**[12487.92s] English:** strength. Breathe. Be the strength.  
+**[12487.92s] English:** Strength. Breathe. Be the strength.  
 **Translation:** 
 
-**[12492.30s] English:** You are the strength. There's some soul searching  
+**[12492.30s] English:** You are the strength. There's some soul-searching to do.  
 **Translation:** 
 
-**[12496.06s] English:** going on here. This is incredible. Yeah, we wait till you get  
+**[12496.06s] English:** Going on here. This is incredible. Yeah, we'll wait until you get  
 **Translation:** 
 
-**[12499.64s] English:** in there. She gets deep, real aggressive.  
+**[12499.64s] English:** In there, she gets deep and really aggressive.  
 **Translation:** 
 
-**[12505.06s] English:** Crack the door, for I am the light.  
+**[12505.06s] English:** Crack the door, for I am the Light.  
 **Translation:** 
 
 **[12508.22s] English:** The giver, the taker.  
 **Translation:** 
 
-**[12513.58s] English:** I am warrior. I am life. I am  
+**[12513.58s] English:** I am a warrior. I am life. I am  
 **Translation:** Vocabulary: taker: 接受者
 
-**[12516.14s] English:** air. I am water. I am fire. I am light.  
+**[12516.14s] English:** Air, I am water. I am fire. I am light.  
 **Translation:** 
 
-**[12523.88s] English:** This  
+**[12523.88s] English:** This.  
 **Translation:** 
 
-**[12524.40s] English:** will, this can. This will, this can.  
+**[12524.40s] English:** This can be done. This will work.  
 **Translation:** 
 
-**[12529.40s] English:** For I am warrior.  
+**[12529.40s] English:** For I am a warrior.  
 **Translation:** 
 
 **[12533.32s] English:** For I am light. And there's a leaf here.  
@@ -8287,46 +8288,46 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[12536.04s] English:** What's the story with the leaf?  
 **Translation:** 
 
-**[12537.32s] English:** I don't know. I was walking and every single time over the, over those three days,  
+**[12537.32s] English:** I don't know. I was walking, and every single time over the past three days,  
 **Translation:** 
 
-**[12541.22s] English:** anytime I like went for a walk by myself, I would just hear like, take this, like, just almost like  
-**Translation:** Vocabulary: anytime: 任何时候
+**[12541.22s] English:** Anytime I liked to go for a walk by myself, I would just hear like, "take this," like, almost like.  
+**Translation:** Vocabulary: anytime: 任何时间
 
-**[12549.24s] English:** as if a voice was standing there and be like, you need this, take it, take it with you and keep it  
+**[12549.24s] English:** As if a voice were standing there and be like, "You need this, take it, take it with you and keep it.  
 **Translation:** 
 
-**[12552.28s] English:** in your book. Keep it, ground you. And it just goes on.  
+**[12552.28s] English:** In your book, keep it grounded, and it just goes on.  
 **Translation:** 
 
-**[12557.38s] English:** So this is from there.  
+**[12557.38s] English:** So, this is from there.  
 **Translation:** 
 
 **[12558.48s] English:** Yeah.  
 **Translation:** 
 
-**[12558.74s] English:** It's cool to have sort of, it's almost like time travel.  
+**[12558.74s] English:** It's cool to have something that's sort of like time travel.  
 **Translation:** 
 
-**[12562.86s] English:** I have poppies from France too. When I did a, I did a 75th anniversary,  
+**[12562.86s] English:** I have poppies from France too. When I did a 75th anniversary,  
 **Translation:** Vocabulary: poppies: 罂粟花
 
-**[12567.06s] English:** D-Day ride in France where we rode 600 kilometers on our road bikes for charity.  
+**[12567.06s] English:** A D-Day ride in France, where we rode 600 kilometers on our road bikes for charity.  
 **Translation:** 
 
-**[12572.06s] English:** And we landed on the beaches of Juneau on the 75th and we got to go by the poppy  
-**Translation:** Vocabulary: poppy: 罂粟
-
-**[12576.88s] English:** fields and I'm like covered in poppies.  
+**[12572.06s] English:** And we landed on the beaches of Juneau on the 75th, and we got to go by the poppies.  
 **Translation:** 
 
-**[12580.62s] English:** And I have some in a, in a book. I don't know why I do that. I just, I do that.  
+**[12576.88s] English:** Fields, and I'm covered in poppies.  
 **Translation:** 
 
-**[12586.92s] English:** That's cool because like, these are your thoughts and those are the physical items  
+**[12580.62s] English:** And I have some of it in a book. I don't know why I do that. I just do that.  
 **Translation:** 
 
-**[12590.96s] English:** as it really helps transport to that place somehow.  
+**[12586.92s] English:** That's cool because, like, these are your thoughts and those are the physical items.  
+**Translation:** 
+
+**[12590.96s] English:** As it really helps transport to that place somehow.  
 **Translation:** 
 
 **[12595.02s] English:** Let the light in, let her in.  
@@ -8335,217 +8336,217 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[12597.06s] English:** Thank you.  
 **Translation:** 
 
-**[12600.00s] English:** and she would show me these visuals so my drawings are just like yeah yeah  
+**[12600.00s] English:** And she would show me these visuals, so my drawings are just like, "Yeah, yeah.  
 **Translation:** 
 
-**[12608.16s] English:** there's drawings here and you're seeing this stuff oh yeah I can't draw either  
+**[12608.16s] English:** There's some drawings here, and you're seeing this stuff? Oh, yeah, I can't draw either.  
+**Translation:** Vocabulary: visuals: 视觉展示
+
+**[12615.54s] English:** So, that's why they're so. I wish I could draw, because if only I could translate.  
 **Translation:** 
 
-**[12615.54s] English:** so that's why they're so I wish I could draw because if only I could translate  
+**[12619.80s] English:** What I could see visually on the paper, and you're talking to her — yeah, it's time.  
+**Translation:** Vocabulary: visually: 视觉上
+
+**[12627.66s] English:** I'm here to listen. Is this Mama Aya? Yeah, we call her Mama Aya. Mama Aya... I see.  
 **Translation:** 
 
-**[12619.80s] English:** what I could see visually on the paper and you're talking to her yeah it's time  
+**[12638.34s] English:** What or who are you seeing? Is this a woman? So, for me, at first, it was just eyes.  
 **Translation:** 
 
-**[12627.66s] English:** I'm here to listen is this mama Aya yeah we call her mama Aya mama Aya mama I see  
+**[12644.46s] English:** Floating in the sky, he's unbelievably gorgeous with beautiful eyes. That's what I was thinking.  
 **Translation:** 
 
-**[12638.34s] English:** what who are you seeing is this a woman so for me at first it was just eyes  
-**Translation:** 
-
-**[12644.46s] English:** floating in the sky he's unbelievably gorgeous beautiful eyes that I and I was  
-**Translation:** 
-
-**[12649.56s] English:** like literally looking up at the top of the year and I kept going to myself  
+**[12649.56s] English:** Like, literally looking up at the top of the year, and I kept going to myself.  
 **Translation:** Vocabulary: unbelievably: 难以置信地
 
-**[12654.06s] English:** there's eyes in the sky meh  
+**[12654.06s] English:** There's eyes in the sky, meh.  
 **Translation:** 
 
-**[12657.60s] English:** yeah yeah that's meh  
+**[12657.60s] English:** Yeah, yeah, that's meh.  
 **Translation:** 
 
-**[12657.66s] English:** meh and so there's these eyes floating and they just kept looking at me and I  
+**[12657.66s] English:** Meh, and so there were these eyes floating around, and they just kept looking at me, and I...  
 **Translation:** 
 
-**[12664.38s] English:** remember when I kept telling myself like oh don't worry about it's nothing there  
+**[12664.38s] English:** Remember when I kept telling myself, "Oh, don't worry about it; it's nothing there.  
 **Translation:** 
 
-**[12667.32s] English:** she would get angry I'm right here pay attention to me and I'd be like okay  
+**[12667.32s] English:** She would get angry, I'm right here; pay attention to me, and I'd be like, "Okay.  
 **Translation:** 
 
-**[12674.04s] English:** like forceful like very forceful so at first it was just the eyes the second night  
-**Translation:** Vocabulary: forceful: 强势
+**[12674.04s] English:** Like a forceful, very forceful push. So, at first, it was just the eyes. The second night,...  
+**Translation:** Vocabulary: forceful: 有力的
 
-**[12683.82s] English:** is I'm crazy when I say this  
+**[12683.82s] English:** I'm crazy when I say this.  
 **Translation:** 
 
-**[12687.66s] English:** great that's gonna be my clip ain't down crazy it's what I do when I get  
+**[12687.66s] English:** Great, that's gonna be my clip! Ain't nothing down; it's what I do when I get...  
 **Translation:** 
 
-**[12694.80s] English:** uncomfortable I do weird hand gestures and movements um I like it yeah I do  
+**[12694.80s] English:** Uncomfortable, I do weird hand gestures and movements. Um, I like it, yeah, I do.  
 **Translation:** 
 
-**[12700.62s] English:** yeah uh you would hate to be in my office because most of the day it's just  
+**[12700.62s] English:** Yeah, uh, you would hate to be in my office because most of the day it's just  
+**Translation:** Vocabulary: gestures: 手势
+
+**[12704.52s] English:** This was weird, lunging and uncomfortable. Moments like these turned her into a wolf.  
 **Translation:** 
 
-**[12704.52s] English:** this weird lunges and uncomfortable moments um she turned me into a wolf  
-**Translation:** 
-
-**[12714.60s] English:** I know I said it out loud I I hear it I said it  
-**Translation:** 
+**[12714.60s] English:** I know I said it out loud. I hear it; I said it.  
+**Translation:** Vocabulary: lunging: 扑向
 
 **[12717.66s] English:** Yeah. Head to toe.  
 **Translation:** 
 
-**[12720.00s] English:** and her takeaway for me was i'm trying to be this pack leader i'm trying to be this leader in my  
+**[12720.00s] English:** And her takeaway for me was, I'm trying to be this pack leader, I'm trying to be this leader in my  
 **Translation:** Vocabulary: takeaway: 收获
 
-**[12728.12s] English:** life i'm trying to do these things but i'm going about them the whole wrong way so like when the  
+**[12728.12s] English:** Life, I'm trying to do these things, but I'm going about them the whole wrong way, so like when the  
 **Translation:** 
 
-**[12734.36s] English:** shamans call you up to do their special prayer over you you go up you don't touch them they  
+**[12734.36s] English:** Shamans call you up to do their special prayer over you. You go up, but you don't touch them.  
 **Translation:** Vocabulary: shamans: 巫师
 
-**[12738.98s] English:** flash their little light you see the little light spot you walk to the light you sit down on the  
+**[12738.98s] English:** Flash their little light; you see the little light spot. You walk to the light, and you sit down on the  
 **Translation:** 
 
-**[12742.80s] English:** light and then my shaman he's so funny because he's got this great tone in his voice he goes  
+**[12742.80s] English:** Light, and then my shaman—he's so funny because he's got this great tone in his voice; he goes:  
 **Translation:** Vocabulary: shaman: 巫师
 
-**[12747.68s] English:** uh how you doing kelsey and i'm like um so hi yeah i have a problem um i'm a wolf and i need  
+**[12747.68s] English:** Uh, how are you doing, Kelsey? And I'm like, um, hi. Yeah, I have a problem. I'm a wolf, and I need...  
 **Translation:** 
 
-**[12758.34s] English:** it to stop and he'd be like don't you worry girl i got you you ready and i was like uh-huh uh-huh  
+**[12758.34s] English:** It's going to stop, and he'd be like, "Don't you worry, girl, I've got you. You're ready," and I was like, "Uh-huh, uh-huh.  
 **Translation:** Vocabulary: kelsey: 凯尔西
 
-**[12764.86s] English:** and so i'm sitting there cross-legged i've got my palms out like this and i had a really traumatic  
+**[12764.86s] English:** And so I'm sitting there cross-legged, with my palms out like this, and I had a really traumatic experience.  
 **Translation:** 
 
-**[12769.32s] English:** shoulder injury so i don't just sit slanted like this my shoulder is actually permanently detached  
+**[12769.32s] English:** Shoulder injury, so I don't just sit slanted like this. My shoulder is actually permanently detached.  
 **Translation:** Vocabulary: detached: 脱臼; slanted: 倾斜; traumatic: 创伤的
 
-**[12773.56s] English:** and no one in the world will touch it or fix it my collarbone comes out my back here  
+**[12773.56s] English:** And no one in the world will touch it or fix it. My collarbone comes out here.  
 **Translation:** 
 
-**[12777.44s] English:** you  
+**[12777.44s] English:** You.  
 **Translation:** Vocabulary: collarbone: 锁骨
 
-**[12777.68s] English:** nice and i don't have any collarbone here okay so nobody will fix it no one will touch it even  
+**[12777.68s] English:** Nice, and I don't have any collarbone here. Okay, so nobody will fix it; no one will touch it, even.  
 **Translation:** 
 
-**[12783.90s] English:** i've had specialists i've had surgeries no one will do anything with it so i'm permanently  
+**[12783.90s] English:** I've had specialists, I've had surgeries — no one will do anything with it, so I'm permanently...  
+**Translation:** Vocabulary: surgeries: 手术
+
+**[12787.52s] English:** Down and forward, so I slouch. Um, it's horrible. So before, I will functionally too.  
 **Translation:** 
 
-**[12787.52s] English:** down and forward so i slouch um it's horrible so before i will functionally too  
+**[12796.56s] English:** Oh, there's nothing I can't do a pull-up anymore. Oh, so weak! Oh, wow! Oh, you should see me; I'll show you.  
+**Translation:** Vocabulary: slouch: 驼背
+
+**[12803.70s] English:** How to do a push-up after you've thrown up? An embarrassment, yeah; it's bad.  
 **Translation:** 
 
-**[12796.56s] English:** oh there's nothing i can't do a pull-up anymore oh so weak oh wow oh you should i'll show you  
-**Translation:** Vocabulary: slouch: 姿势不正
+**[12807.44s] English:** So, before I thought chronic pain meant I had to drink a bottle of CBD every day; just the pain is so bad.  
+**Translation:** Vocabulary: chronic: 长期的
 
-**[12803.70s] English:** how to do a push-up after you'll fucking throw up an embarrassment yeah it's bad  
+**[12813.14s] English:** Because the trauma was so bad, the surgery went wrong, and the collarbone dissipated, leaving no longer.  
 **Translation:** 
 
-**[12807.44s] English:** so before i though chronic pain like had to drink a bottle of cbd every day just the pain is so bad  
-**Translation:** 
-
-**[12813.14s] English:** because the trauma and it was so bad the surgery went wrong the collarbone dissipated and no longer  
-**Translation:** 
-
-**[12819.84s] English:** exists like there's just and they're not sure how i lift things with it and do stuff with it  
+**[12819.84s] English:** Exists, like there's just something, and they're not sure how I lift things with it or do stuff with it.  
 **Translation:** Vocabulary: dissipated: 消失; trauma: 创伤
 
-**[12824.54s] English:** it's like over compensation everywhere like my the my back like um my trap my scapula like  
+**[12824.54s] English:** It's like overcompensation everywhere. Like, my back, like, my traps and scapula, like.  
 **Translation:** 
 
-**[12831.82s] English:** flares out where it's i'm all messed up from it and so i was in chronic pain so he's praying over  
-**Translation:** Vocabulary: flares: 加剧; scapula: 肩胛骨
+**[12831.82s] English:** Flares out where it's "I'm all messed up from it," and so I was in chronic pain, so he's praying over.  
+**Translation:** Vocabulary: flares: 疼痛加剧; messed: 搞砸了; overcompensation: 过度补偿; scapula: 肩胛骨
 
-**[12837.40s] English:** me and i'm like oh my god i'm like oh my god i'm like oh my god i'm like oh my god i'm like oh my god  
+**[12837.40s] English:** Me and I'm like, "Oh my god!" I'm like, "Oh my god!" I'm like, "Oh my god!" I'm like, "Oh my god!" I'm like, "Oh my god!  
 **Translation:** 
 
-**[12837.44s] English:** and all of a sudden all i feel  
+**[12837.44s] English:** And all of a sudden, all I feel is...  
 **Translation:** 
 
-**[12840.00s] English:** is this arm just start just fucking vibrating and my hair is really long and i feel somebody  
+**[12840.00s] English:** Is this arm just starting to fucking vibrate? And my hair is really long, and I feel somebody.  
 **Translation:** 
 
-**[12846.64s] English:** grabbed the back of my ponytail and snapped my head back like this and it felt like something  
-**Translation:** Vocabulary: ponytail: 马尾辫; vibrating: 震动
+**[12846.64s] English:** Grabbed the back of my ponytail and snapped my head back like this, and it felt like something had really yanked hard on it.  
+**Translation:** Vocabulary: ponytail: 马尾辫; snapped: 猛然扭动; vibrate: 震动; yanked: 猛拉
 
-**[12853.22s] English:** was coming out of my throat like being pulled out of me and the takeaway that i end up in the  
+**[12853.22s] English:** Was coming out of my throat, like being pulled out of me. The takeaway that I ended up in,...  
 **Translation:** 
 
-**[12860.82s] English:** whole the rest of the night there's a million other things but the takeaway was  
-**Translation:** Vocabulary: takeaway: 主要收获
+**[12860.82s] English:** The whole rest of the night, there are a million other things, but the takeaway was...  
+**Translation:** Vocabulary: takeaway: 收获
 
-**[12863.92s] English:** you no longer need to bite you may only show your teeth you can be the leader that you want to be  
+**[12863.92s] English:** You no longer need to bite; you may only show your teeth. You can be the leader that you want to be.  
 **Translation:** 
 
-**[12874.64s] English:** you do not always have to be the traditional type of leader you can be in the back of the pack you  
+**[12874.64s] English:** You do not always have to be the traditional type of leader; you can be in the back of the pack.  
 **Translation:** 
 
-**[12881.18s] English:** have to watch the rest around you be be mindful of those around you instead of just being up front  
+**[12881.18s] English:** Have to watch the rest around you, be mindful of those around you instead of just being upfront.  
 **Translation:** 
 
-**[12888.62s] English:** be be behind as well make sure that everything that you're doing is all being looked after  
+**[12888.62s] English:** Be behind as well, make sure that everything you're doing is all being looked after.  
 **Translation:** 
 
-**[12893.70s] English:** you  
+**[12893.70s] English:** You.  
 **Translation:** 
 
-**[12893.92s] English:** because my thing was I will rip your fucking head off  
+**[12893.92s] English:** Because my thing was, I would rip your fucking head off.  
 **Translation:** 
 
-**[12897.10s] English:** if you just say the wrong thing to me before.  
+**[12897.10s] English:** If you just say the wrong thing to me, it will bother me.  
 **Translation:** 
 
-**[12899.76s] English:** The whole thing was you can just show your teeth  
+**[12899.76s] English:** The whole thing was, you can just show your teeth.  
 **Translation:** 
 
-**[12901.94s] English:** and that is more than enough.  
+**[12901.94s] English:** And that is more than enough.  
 **Translation:** 
 
-**[12903.54s] English:** Stop trying to be, stop trying to overcompensate.  
+**[12903.54s] English:** Stop trying to be perfect, stop trying to overcompensate.  
 **Translation:** Vocabulary: overcompensate: 过度补偿
 
-**[12907.16s] English:** You don't need to do that any longer.  
+**[12907.16s] English:** You don't need to do that anymore.  
 **Translation:** 
 
-**[12909.30s] English:** And then I had this weird astral projection thing happen  
+**[12909.30s] English:** And then I had this weird astral projection thing happen.  
 **Translation:** Vocabulary: astral: 灵性; projection: 投射
 
-**[12913.60s] English:** like where I was in my house  
+**[12913.60s] English:** Like where I was in my house.  
 **Translation:** 
 
-**[12916.04s] English:** and there were these flyers all over my husband and my son  
+**[12916.04s] English:** And there were these flyers all over my husband's and my son's.  
 **Translation:** 
 
-**[12919.92s] English:** and like I went ham on them.  
+**[12919.92s] English:** And, like, I went ham on them.  
 **Translation:** 
 
-**[12922.60s] English:** I like shredded them to pieces.  
-**Translation:** Vocabulary: shredded: 撕碎
+**[12922.60s] English:** I like to shred them into pieces.  
+**Translation:** Vocabulary: shred: 撕碎
 
-**[12924.60s] English:** Like I was this protector and it's crazy  
+**[12924.60s] English:** Like, I was this protector, and it's crazy.  
 **Translation:** 
 
-**[12929.74s] English:** because the guys told me after,  
+**[12929.74s] English:** Because the guys told me after.  
+**Translation:** Vocabulary: protector: 保护者
+
+**[12930.98s] English:** Like someone would be,  
 **Translation:** 
 
-**[12930.98s] English:** like someone would be like,  
-**Translation:** 
-
-**[12932.38s] English:** there were flyers all over you the whole night.  
+**[12932.38s] English:** There were flyers all over the place the whole night.  
 **Translation:** 
 
 **[12935.14s] English:** They were just all over you.  
 **Translation:** 
 
-**[12936.24s] English:** And I'm like, I was snarling when I was sitting there.  
+**[12936.24s] English:** And I'm like, "I was snarling when I was sitting there.  
 **Translation:** Vocabulary: snarling: 咆哮
 
-**[12938.78s] English:** Like the shaman had to be like,  
+**[12938.78s] English:** Like the shaman had to be,  
 **Translation:** 
 
 **[12940.94s] English:** I need you to try to calm your breathing.  
@@ -8554,16 +8555,16 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[12943.22s] English:** After I could, but before,  
 **Translation:** 
 
-**[12944.50s] English:** like I was like attacking things beside me  
+**[12944.50s] English:** Like I was attacking things beside me.  
 **Translation:** 
 
-**[12948.20s] English:** that people could see and I could see,  
+**[12948.20s] English:** That people could see and I could see.  
 **Translation:** 
 
-**[12950.74s] English:** but couldn't wrap my brain  
+**[12950.74s] English:** But I couldn't wrap my brain  
 **Translation:** 
 
-**[12952.56s] English:** around that they were real.  
+**[12952.56s] English:** Around that, they were real.  
 **Translation:** 
 
 **[12953.40s] English:** Like it was weird.  
@@ -8572,566 +8573,554 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[12957.06s] English:** This is crazy, man.  
 **Translation:** 
 
-**[12958.32s] English:** That's day two.  
+**[12958.32s] English:** That's Day Two.  
 **Translation:** 
 
-**[12959.24s] English:** That's day two.  
+**[12959.24s] English:** That's Day Two.  
 **Translation:** 
 
-**[12960.00s] English:** and so what's so what's the big takeaway there my takeaway was i needed to be i needed to  
-**Translation:** 
-
-**[12967.44s] English:** stop trying to stop trying to push everything too hard stop trying to force everything it's  
-**Translation:** 
-
-**[12974.66s] English:** all going to come it's all going to happen but you are you are too aggressive you are too  
-**Translation:** 
-
-**[12980.84s] English:** you're trying so hard that you're missing you're missing everything else got it that's just uh  
-**Translation:** 
-
-**[12987.82s] English:** trying to be a better human kind of thing right this is this is getting intense yeah i like  
-**Translation:** 
-
-**[12995.18s] English:** yeah it gets aggressive i mean there's love and light still it gets love and light  
-**Translation:** 
-
-**[13003.44s] English:** love and light the warrior within is calm she will test you daily show her respect so that's  
-**Translation:** 
-
-**[13012.38s] English:** what i mean you've read my book you know i don't write like that yeah this is strange see  
-**Translation:** 
-
-**[13017.34s] English:** god  
-**Translation:** 
-
-**[13017.80s] English:** you get it because people don't understand when i say i didn't i don't feel like i wrote  
-**Translation:** 
-
-**[13024.28s] English:** that i feel like she gave me like i reread this all of the time so i i wonder i mean  
-**Translation:** 
-
-**[13031.64s] English:** well not obviously but this is somehow part of you i think it's a part of me obviously reconnect  
-**Translation:** 
-
-**[13038.20s] English:** reconnecting you somehow to that part it kind of is incredible to think of what are the things that  
-**Translation:** Vocabulary: reconnect: 重新建立; reconnecting: 正在重新建立
-
-**[13043.72s] English:** are part of us that we haven't really explored you know and there's so many  
-**Translation:** 
-
-**[13048.68s] English:** we just get nature to connect to her feel her flow through them use them for the strength for  
-**Translation:** 
-
-**[13056.52s] English:** each day a new challenge will present itself love light breathe sorry i have too much hair  
-**Translation:** 
-
-**[13064.84s] English:** never enough i used to have long hair what about day three so day three is the the stuff i talked  
-**Translation:** 
-
-**[13071.00s] English:** about on jocko when i got taken over to the other side i almost missed that night too i almost missed  
-**Translation:** 
-
-**[13077.64s] English:** that ceremony i got a  
-**Translation:** Vocabulary: jocko: 乔科
-
-**[13080.00s] English:** false positive on my COVID test and I got a call from the medical clinic that night being like you  
-**Translation:** 
-
-**[13086.74s] English:** need to come in you got a false positive on your COVID test and if you're going to travel you have  
-**Translation:** 
-
-**[13092.06s] English:** to we got to figure this out you got to come do blood work you got to come do you know whatever  
-**Translation:** 
-
-**[13097.26s] English:** it is you need to do if you want to get home but you got to come do something and so I didn't think  
-**Translation:** 
-
-**[13103.86s] English:** I was going to be in ceremony I had to leave so I left and you know they waited they waited for me  
-**Translation:** 
-
-**[13115.00s] English:** and so I think the biggest takeaway from all of this for me was this isn't it this isn't  
+**[12960.00s] English:** And so, what's the big takeaway there? My takeaway was that I needed to.  
 **Translation:** Vocabulary: takeaway: 收获
 
-**[13123.94s] English:** everything this isn't the end-all be-all you can fight through this this is possible  
+**[12967.44s] English:** Stop trying to stop trying to push everything too hard. Stop trying to force everything.  
 **Translation:** 
 
-**[13131.78s] English:** it's gonna take work it's gonna be  
+**[12974.66s] English:** All is going to come; it's all going to happen, but you are too aggressive. You are too  
 **Translation:** 
 
-**[13133.86s] English:** be fucking hard it's worth it though and if you just keep going in the right direction everything  
+**[12980.84s] English:** You're trying so hard that you're missing everything else. Got it? That's just...  
 **Translation:** 
 
-**[13139.30s] English:** that i wrote down everything every goal it'll happen what about love what about love tell me  
+**[12987.82s] English:** Trying to be a better human, kind of thing, right? This is getting intense, yeah. I like it.  
 **Translation:** 
 
-**[13149.64s] English:** about your husband okay what role did he play in your life the most pivotal role he kept me alive  
+**[12995.18s] English:** Yeah, it gets aggressive. I mean, there's love and light still, but it gets aggressive.  
 **Translation:** 
 
-**[13158.40s] English:** and made me feel worthy enough to until i knew that i was worthy enough to be alive  
-**Translation:** Vocabulary: pivotal: 决定性
-
-**[13163.38s] English:** can you dissect that a little bit like what i mean what role does love play in the human  
+**[13003.44s] English:** Love and light: the warrior within is calm. She will test you daily, so show her respect.  
 **Translation:** 
 
-**[13169.92s] English:** condition i think love is the only reason that we haven't destroyed ourselves i mean we humans  
+**[13012.38s] English:** What I mean, you've read my book, you know? I don't write like that, yeah? This is strange, see?  
 **Translation:** 
 
-**[13178.30s] English:** in general yes i think there is a subset of people where love will always be you know love  
+**[13017.34s] English:** God  
 **Translation:** 
 
-**[13185.88s] English:** conquers all you know but that's not always the reality the reality is life is messy and  
-**Translation:** Vocabulary: conquers: 战胜
-
-**[13191.60s] English:** humans are messy  
+**[13017.80s] English:** You get it because people don't understand when I say I didn't feel like I wrote.  
 **Translation:** 
 
-**[13193.38s] English:** and the way we choose to deal with things are messy and complicated and difficult but  
+**[13024.28s] English:** That I feel like she gave me; I've reread this all of the time, so I wonder, I mean.  
 **Translation:** 
 
-**[13198.30s] English:** at the root of all  
+**[13031.64s] English:** Well, not obviously, but this is somehow part of you. I think it's a part of me, obviously, reconnect.  
 **Translation:** 
 
-**[13200.00s] English:** good is love i think and for me i was fortunate enough to meet my husband through a friend  
+**[13038.20s] English:** Reconnecting you somehow to that part—it kind of is incredible to think about what are the things that  
+**Translation:** Vocabulary: reconnect: 重新建立联系; reconnecting: 正在重新建立联系
+
+**[13043.72s] English:** Are part of us that we haven't really explored, you know, and there's so many.  
 **Translation:** 
 
-**[13209.56s] English:** which you listen to that podcast so i don't i don't know that we need to unless you really  
+**[13048.68s] English:** We just get nature to connect to her, feel her flow through them, use them for the strength for.  
 **Translation:** 
 
-**[13215.16s] English:** want to go into that story again how i met my husband well i the only part of that story i  
+**[13056.52s] English:** Each day, a new challenge will present itself. Love, light, breathe. Sorry, I have too much hair.  
 **Translation:** 
 
-**[13220.32s] English:** like people should just go listen to the jocko podcast is how you made him uncomfortable i love  
+**[13064.84s] English:** Never enough. I used to have long hair. What about day three? So, day three is the stuff I talked  
 **Translation:** 
 
-**[13224.20s] English:** it i well okay so how it works let me explain in the supercross and motocross industry it's  
-**Translation:** Vocabulary: jocko: 乔科; motocross: 摩托越野; supercross: 超级越野
-
-**[13228.66s] English:** really small the people who are professional there's it's a small subset of people it's kind  
+**[13071.00s] English:** About Jocko, when I got taken over to the other side, I almost missed that night, too; I almost missed it.  
 **Translation:** 
 
-**[13232.38s] English:** of like formula one 21 cars that's what there is that's the amount of riders and we should say  
+**[13077.64s] English:** That ceremony, I got a  
 **Translation:** 
 
-**[13237.26s] English:** your husband is uh as a motocross guy my husband was a professional supercross and motocross racer  
+**[13080.00s] English:** False positive on my COVID test, and I got a call from the medical clinic that night, being like, "You  
 **Translation:** 
 
-**[13242.62s] English:** um for his whole life and he raced for kawasaki and suzuki he lived in california and raced all  
-**Translation:** Vocabulary: california: 加利福尼亚; kawasaki: 卡瓦萨基; racer: 赛车手; suzuki: Suzuki
-
-**[13250.06s] English:** down there and when i met him i met him at the tail end of his career and so i went to montreal  
+**[13086.74s] English:** Need to come in; you got a false positive on your COVID test, and if you're going to travel, you have  
 **Translation:** 
 
-**[13256.82s] English:** with a friend of mine to  
+**[13092.06s] English:** To we got to figure this out, you got to come do some blood work, you got to come do whatever.  
+**Translation:** 
+
+**[13097.26s] English:** It is what you need to do if you want to get home, but you've got to come do something first, and so I didn't think.  
+**Translation:** 
+
+**[13103.86s] English:** I was going to be in the ceremony, I had to leave, so I left, and you know, they waited—they waited for me.  
+**Translation:** 
+
+**[13115.00s] English:** And so, I think the biggest takeaway from all of this for me was, "This isn't.  
+**Translation:** Vocabulary: takeaway: 收获
+
+**[13123.94s] English:** Everything; this isn't the end-all, be-all. You can fight through this. This is possible.  
+**Translation:** 
+
+**[13131.78s] English:** It's gonna take work; it's gonna be  
+**Translation:** 
+
+**[13133.86s] English:** It can be fucking hard, but it's worth it though. And if you just keep going in the right direction, everything will eventually fall into place.  
+**Translation:** 
+
+**[13139.30s] English:** That I wrote down everything, every goal; it'll happen. What about love? What about love? Tell me.  
+**Translation:** 
+
+**[13149.64s] English:** About your husband, okay. What role did he play in your life? The most pivotal role was that he kept me alive.  
+**Translation:** 
+
+**[13158.40s] English:** And it made me feel worthy enough to be alive until I knew that I was truly worthy enough to be here.  
+**Translation:** Vocabulary: pivotal: 关键的
+
+**[13163.38s] English:** Can you dissect that a little bit? Like, what I mean is, what role does love play in the human experience?  
+**Translation:** 
+
+**[13169.92s] English:** Condition, I think, love is the only reason that we haven't destroyed ourselves. I mean, we humans.  
+**Translation:** Vocabulary: dissect: 详细分析
+
+**[13178.30s] English:** In general, yes, I think there is a subset of people where love will always be, you know, love.  
+**Translation:** 
+
+**[13185.88s] English:** Conquerors often claim to conquer all, but that's not always the reality. The reality is that life is messy, and...  
+**Translation:** Vocabulary: conquerors: 征服者
+
+**[13191.60s] English:** Humans are messy.  
+**Translation:** 
+
+**[13193.38s] English:** And the way we choose to deal with things are messy, complicated, and difficult, but  
+**Translation:** 
+
+**[13198.30s] English:** At the root of all,  
+**Translation:** 
+
+**[13200.00s] English:** Good is love, I think, and for me, I was fortunate enough to meet my husband through a friend.  
+**Translation:** 
+
+**[13209.56s] English:** Which one you listen to that podcast? So, I don't know that we need to, unless you really want to.  
+**Translation:** 
+
+**[13215.16s] English:** Want to go into that story again? How I met my husband. Well, I think the only part of that story I  
+**Translation:** 
+
+**[13220.32s] English:** Like, people should just go listen to the Jocko Podcast—is how you made him uncomfortable. I love it.  
+**Translation:** 
+
+**[13224.20s] English:** It's well, okay. So, how it works, let me explain. In the supercross and motocross industry, it's  
+**Translation:** Vocabulary: jocko: 乔科; motocross: 摩托车越野; supercross: 超级越野
+
+**[13228.66s] English:** Really small; the people who are professional is a small subset of people, it's kind.  
+**Translation:** 
+
+**[13232.38s] English:** Of, like, Formula One: 21 cars—that's what there is. That's the amount of riders, and we should say,...  
+**Translation:** Vocabulary: riders: 参赛者
+
+**[13237.26s] English:** Your husband is, as a motocross guy, my husband was a professional Supercross and Motocross racer.  
+**Translation:** 
+
+**[13242.62s] English:** Um, for his whole life, and he raced for Kawasaki and Suzuki. He lived in California and raced all...  
+**Translation:** Vocabulary: california: 加利福尼亚; kawasaki: 川崎; racer: 车手; suzuki: Suzuki
+
+**[13250.06s] English:** Down there, and when I met him, I met him at the tail end of his career, and so I went to Montreal.  
+**Translation:** 
+
+**[13256.82s] English:** With a friend of mine to.  
 **Translation:** Vocabulary: montreal: 蒙特利尔
 
-**[13258.46s] English:** you  
+**[13258.46s] English:** You.  
 **Translation:** 
 
-**[13258.66s] English:** see somebody that i was currently sleeping with who was a friend of mine and end up  
+**[13258.66s] English:** See someone that I was currently sleeping with, who was a friend of mine, and end up  
 **Translation:** 
 
-**[13265.90s] English:** meeting brady instead yeah and the funny moment in jocko's was saying that i was fucking him  
+**[13265.90s] English:** Meeting Brady instead, yeah, and the funny moment at Jocko's was when he said I was fucking him.  
 **Translation:** 
 
-**[13273.08s] English:** instead of just sleeping with him and then jocko's face exploded and jocko was like oh sleeping so  
-**Translation:** Vocabulary: brady: 布雷迪; exploded: 爆粗
+**[13273.08s] English:** Instead of just sleeping with him, and then Jocko's face exploded, and Jocko was like, "Oh, sleeping so...  
+**Translation:** Vocabulary: brady: 布雷迪; exploded: 爆笑了
 
-**[13278.76s] English:** like he was he was trying to get details of the sleeping quarters that you're he was trying to  
+**[13278.76s] English:** Like he was trying to get details about the sleeping quarters that you're.  
 **Translation:** 
 
-**[13283.50s] English:** get you to define as a good interviewer would oh sleeping okay and then you were like it's  
+**[13283.50s] English:** Get you to define "as a good interviewer would, oh, sleeping, okay, and then you were like, 'it's'.  
 **Translation:** 
 
-**[13288.26s] English:** fucking jocko or something like that it was great it was great but that's true because in that  
+**[13288.26s] English:** Fucking Jocko, or something like that—it was great; it was great, but that's true, because in that...  
 **Translation:** 
 
-**[13295.36s] English:** industry it's like we yeah it's small we all share trust me this is what it is and anyway so i met him  
+**[13295.36s] English:** Industry, it's like we — yeah, it's small. We all share; trust me, this is what it is. And anyway, so I met him.  
 **Translation:** 
 
-**[13302.30s] English:** there and he had broken his wrist really really bad and um i was this was before i deployed so i  
+**[13302.30s] English:** There, and he had broken his wrist really badly. And um, I was this was before I deployed, so I  
 **Translation:** 
 
-**[13309.08s] English:** met him and i we stayed in touch and just became friends and just texted that was it nothing weird  
+**[13309.08s] English:** Met him, and I we stayed in touch and just became friends. We just texted; that was it. Nothing weird.  
 **Translation:** Vocabulary: deployed: 部署
 
-**[13315.22s] English:** and um i was deploying though so  
+**[13315.22s] English:** And, um, I was deploying, though, so  
 **Translation:** 
 
-**[13318.26s] English:** we disagreed you know it would be fried  
+**[13318.26s] English:** We disagreed, you know, it would be fried.  
 **Translation:** Vocabulary: deploying: 部署
 
-**[13320.00s] English:** we weren't actually talking about anything romantically at all and then i deployed and we  
+**[13320.00s] English:** We weren't actually talking about anything romantically at all, and then I deployed, and we...  
 **Translation:** 
 
-**[13326.30s] English:** got talking and to know each other a little more a little more and then we decided that we liked  
-**Translation:** Vocabulary: romantically: 恋爱方面
+**[13326.30s] English:** Got talking and got to know each other a little more, and then we decided that we liked  
+**Translation:** Vocabulary: romantically: 恋爱地
 
-**[13332.18s] English:** each other and we wanted to try to give it at least a semi shot and so when i got home from  
+**[13332.18s] English:** Each other, and we wanted to try to give it at least a semi-chance. So when I got home from  
 **Translation:** 
 
-**[13336.28s] English:** afghanistan i went and watched him race his last one of his last two races that he did professionally  
+**[13336.28s] English:** Afghanistan: I went and watched him race; it was his last one of his last two races that he did professionally.  
 **Translation:** Vocabulary: afghanistan: 阿富汗
 
-**[13344.82s] English:** before he retired excuse me and it was in montreal one was in vegas and i hadn't seen him and he  
+**[13344.82s] English:** Before he retired, excuse me. And it was in Montreal; one was in Vegas, and I hadn't seen him in a while.  
 **Translation:** 
 
-**[13353.22s] English:** didn't really know me we didn't really know each other we you know we met i slept in the bed beside  
-**Translation:** Vocabulary: vegas: 赌城
+**[13353.22s] English:** Didn't really know me. We didn't really know each other, you know. We met, I slept in the bed beside.  
+**Translation:** Vocabulary: montreal: 蒙特利尔; vegas: 拉斯维加斯
 
-**[13359.00s] English:** him because my girlfriend didn't want to get in trouble from her boyfriend from sleeping beside a  
+**[13359.00s] English:** He wouldn't let me, because my girlfriend didn't want to get in trouble from her boyfriend for sleeping beside him.  
 **Translation:** 
 
-**[13362.60s] English:** random dude and then um yeah we just we we started dating and he really slowly became my rock and  
+**[13362.60s] English:** Random guy, and then, um, yeah, we just started dating, and he really slowly became my rock, and  
 **Translation:** 
 
-**[13373.40s] English:** he understands  
+**[13373.40s] English:** He understands.  
 **Translation:** 
 
-**[13374.66s] English:** you know  
+**[13374.66s] English:** You know,  
 **Translation:** 
 
-**[13374.80s] English:** trauma he had some stuff happen in his life in his family that he went through a lot of therapy  
+**[13374.80s] English:** Trauma: He had some stuff happen in his life in his family, and he went through a lot of therapy.  
 **Translation:** 
 
-**[13380.54s] English:** he went through a lot of shit he went he saw what traumatic situations can do to a family and to  
+**[13380.54s] English:** He went through a lot of shit. He went; he saw what traumatic situations can do to a family and to  
 **Translation:** Vocabulary: trauma: 创伤; traumatic: 创伤性的
 
-**[13386.26s] English:** people and those that are suffering with it and so he was well equipped to handle me um thankfully  
+**[13386.26s] English:** People and those who are suffering with it, and so he was well-equipped to handle me. Thankfully.  
 **Translation:** 
 
-**[13393.96s] English:** and it got to a point where we were doing the long distance back and forth back and forth and  
+**[13393.96s] English:** And it got to a point where we were doing the long-distance back-and-forth, back-and-forth, and  
 **Translation:** 
 
-**[13398.64s] English:** back and forth and i finally got the call that i was going to be released from the military  
+**[13398.64s] English:** Back and forth, and I finally got the call that I was going to be released from the military.  
 **Translation:** 
 
-**[13401.56s] English:** and i wanted to live near him but  
+**[13401.56s] English:** And I wanted to live near him, but  
 **Translation:** 
 
-**[13404.64s] English:** i couldn't afford to live in british columbia because i was from ontario and bc's like  
+**[13404.64s] English:** I couldn't afford to live in British Columbia because I was from Ontario, and BC's like.  
 **Translation:** 
 
-**[13408.10s] English:** it means bring cash for a reason i'm like there's no way i can live there and then his family was  
+**[13408.10s] English:** It means bring cash — for a reason, I'm like, there's no way I can live there, and then his family was.  
 **Translation:** 
 
-**[13413.40s] English:** like come live with us like they had a big enough they had a big enough house trust me it was fine  
+**[13413.40s] English:** Like, come live with us; they had a big enough house, trust me, it was fine.  
 **Translation:** 
 
-**[13419.76s] English:** so i was like okay and so i went from like dating this guy long distance to  
+**[13419.76s] English:** So, I was like, "Okay," and so I went from dating this guy long-distance to  
 **Translation:** 
 
-**[13425.46s] English:** over you know from 2009 to 2011 just back and forth back and forth back and forth  
+**[13425.46s] English:** Over, you know, from 2009 to 2011, it was just back and forth, back and forth, back and forth.  
 **Translation:** 
 
-**[13430.44s] English:** and then finally his parents were like shit or get off the pot here with her like come on  
+**[13430.44s] English:** And then, finally, his parents were like, "Shit, or get off the pot here with her; come on.  
 **Translation:** 
 
-**[13433.76s] English:** You know, it's obvious. She loves you and I would never say it that word just as a love  
+**[13433.76s] English:** You know, it's obvious. She loves you, and I would never say it that way just as a love.  
 **Translation:** 
 
-**[13440.00s] English:** like it was just i couldn't you guys didn't say uh for a long time for a long time because i was  
+**[13440.00s] English:** Like it was just that I couldn't, you guys didn't say anything for a long time because I was  
 **Translation:** 
 
-**[13445.58s] English:** dead inside i didn't know what that meant because i did i couldn't feel i didn't feel anything he  
+**[13445.58s] English:** Dead inside, I didn't know what that meant because I did—I couldn't feel, I didn't feel anything. He  
 **Translation:** 
 
-**[13451.78s] English:** loved it because he like we'd be go we go do something you would never complain about anything  
+**[13451.78s] English:** Loved it because he likes we'd be going to do something you would never complain about anything.  
 **Translation:** 
 
-**[13456.96s] English:** you wouldn't say a fucking word you would just sit there and now you got all your feelings back  
+**[13456.96s] English:** You wouldn't say a fucking word; you would just sit there. Now, you've got all your feelings back.  
 **Translation:** 
 
-**[13463.46s] English:** and your emotions back and now you're too hot and you're too cold and yeah anyway so yeah he loved  
+**[13463.46s] English:** And your emotions are all over the place now; you're too hot and you're too cold, and yeah, anyway, so he loved.  
 **Translation:** 
 
-**[13469.42s] English:** it i was numb and dead inside seriously when we when i call him back you were you still able to  
+**[13469.42s] English:** It's like I was numb and dead inside. Seriously, when we called him back, you were still able to?  
 **Translation:** 
 
-**[13473.28s] English:** have fun together that kind of thing like uh like when you say there's no emotion there's more  
+**[13473.28s] English:** Have fun together, that kind of thing. Like, uh, like when you say there's no emotion, there's more.  
 **Translation:** 
 
-**[13477.60s] English:** emotion around the basics of like everyday life uh but you're still able to just like enjoy shit  
+**[13477.60s] English:** Emotion around the basics of everyday life, but you're still able to just enjoy shit.  
 **Translation:** 
 
-**[13483.30s] English:** together i was enjoying stuff but i wasn't feeling feeling yeah i was like this is fun yeah  
+**[13483.30s] English:** Together, I was enjoying stuff, but I wasn't really feeling it. Yeah, I was like, "This is fun, yeah.  
 **Translation:** 
 
-**[13490.58s] English:** right that was it that was surface level like lex this is fun it wasn't there's nothing there  
+**[13490.58s] English:** Right, that was it — that was surface-level. Like Lex, "this is fun," it wasn't there; there's nothing there.  
 **Translation:** 
 
-**[13498.82s] English:** yeah  
+**[13498.82s] English:** Yeah.  
 **Translation:** 
 
-**[13499.42s] English:** no there's nothing there's hey yeah nothing and so we went through that for a long time and then  
+**[13499.42s] English:** No, there's nothing there. Hey, yeah, nothing, and so we went through that for a long time, and then...  
 **Translation:** 
 
-**[13504.24s] English:** i lived with his parents and we we lived there and that was you know god damn it his family was so  
+**[13504.24s] English:** I lived with his parents, and we lived there, and that was, you know, goddamn it; his family was so  
+**Translation:** Vocabulary: goddamn: 该死的
+
+**[13509.98s] English:** Good to me, because I was a nightmare: I couldn't cook anything around me.  
 **Translation:** 
 
-**[13509.98s] English:** good to me because i was a nightmare i was a nightmare couldn't cook certain food around me  
+**[13515.00s] English:** Anymore, I couldn't go to certain places, and crowds were hard.  
+**Translation:** Vocabulary: nightmare: 噩梦
+
+**[13520.54s] English:** No, we didn't do Canada today. And like, I just changed; I moved in, and was like, "Shit's gotta...  
 **Translation:** 
 
-**[13515.00s] English:** anymore couldn't couldn't go certain places with me anymore couldn't you know crowds were in hard  
+**[13526.18s] English:** Change if you guys don't want me to kill everyone, like  
 **Translation:** 
 
-**[13520.54s] English:** no we didn't do canada today and like i just changed i moved in and was like shit's gotta  
+**[13529.42s] English:** And they were willing, and they were accepting, and they were amazing about it, and then we finally...  
 **Translation:** 
 
-**[13526.18s] English:** change if you guys don't want me to kill everyone like  
+**[13534.54s] English:** Said, "Okay, well, like, does this mean we're good? We're, like, I used to say, like,  
 **Translation:** 
 
-**[13529.42s] English:** and they were willing and they were accepting and they were amazing about it and then we finally  
+**[13541.02s] English:** I couldn't say "like"; I loved it, but it freaked me out for a long time, and then I finally said it.  
 **Translation:** 
 
-**[13534.54s] English:** said okay well like does this is this we're good we're like i i said i used to say like  
+**[13547.82s] English:** And then that shithead said it like a month later, and I was like, "That's not fair; you should have said something sooner.  
+**Translation:** Vocabulary: freaked: 惊吓; shithead: 混蛋
+
+**[13551.58s] English:** The same exact time I wanted the response, yeah. And, um, he goes to treatment with me; he's whatever I need.  
 **Translation:** 
 
-**[13541.02s] English:** i l you like i couldn't say love it freaked me out for a long time and then i finally said it  
+**[13557.98s] English:** He knows that, like,  
 **Translation:** 
 
-**[13547.82s] English:** and then that shithead said it like a month later and i was like that's not fair you should have said  
-**Translation:** Vocabulary: shithead: 混蛋
-
-**[13551.58s] English:** the same exact time i wanted the response yeah and um he goes to treatment with me he whatever i need  
+**[13560.00s] English:** Hey, it's more for him. I'm like, how do I handle her? Yeah, and then we moved out.  
 **Translation:** 
 
-**[13557.98s] English:** he knows that like  
+**[13565.44s] English:** Bought a house, and then he took his sweet time—we were dating for four years before we got engaged.  
 **Translation:** 
 
-**[13560.00s] English:** hey it's more for like him i'm like how do i handle her yeah and um then we moved out we  
+**[13570.00s] English:** Engaged because, just to be sure the crazy wasn't too crazy, he waited four years for that smart man.  
 **Translation:** 
 
-**[13565.44s] English:** bought a house and then he took a sweet ass time we were dating for four years before we were  
+**[13576.16s] English:** Right, yeah, or you could say he's just terrified of commitment, but both a little bit.  
 **Translation:** 
 
-**[13570.00s] English:** engaged because just to be sure the crazy wasn't too crazy he waited four years on that smart man  
+**[13581.20s] English:** Of both, hey, when you were the guy on the posters that all the girls sign up to and send all the  
 **Translation:** 
 
-**[13576.16s] English:** right yeah or you can you could say he's just terrified of commitment but both a little bit  
+**[13586.24s] English:** Dirty pictures, why are you giving that up? It's easy, yeah. Commitment is a real commitment, then.  
 **Translation:** 
 
-**[13581.20s] English:** of both hey when you were the guy on the posters that all the girls sign up to that send all the  
+**[13591.36s] English:** Yeah, okay. This is the Jacob reset. We talked about brass and unity a little bit. What's the  
 **Translation:** 
 
-**[13586.24s] English:** dirty pictures why are you giving that up it's easy yeah commitment is a real commitment then  
+**[13600.80s] English:** Long-term mission, goal, and dream of your company and the podcast of the same name.  
 **Translation:** 
 
-**[13591.36s] English:** yeah okay this is the jacob reset we talked about brass and unity a little bit what's the  
+**[13607.52s] English:** So, for me, what I've been trying to do with this company is create a community that  
 **Translation:** 
 
-**[13600.80s] English:** long-term mission goal and dream of your company and the podcast of the same name  
+**[13614.40s] English:** Can really work together to  
 **Translation:** 
 
-**[13607.52s] English:** so for me what i've been trying to do with this company is create a community that  
+**[13616.24s] English:** Not only do they help vets and first responders, but they also bridge the gap with the civilian population.  
 **Translation:** 
 
-**[13614.40s] English:** can really work together to  
-**Translation:** 
-
-**[13616.24s] English:** not only help vets first responders but to really bridge the gap with the civilian population  
-**Translation:** 
-
-**[13621.36s] English:** and letting them know what we kind of go through and why it is such a epidemic and why there is  
+**[13621.36s] English:** And letting them know what we kind of go through, and why it is such an epidemic, and why there is  
 **Translation:** Vocabulary: epidemic: 流行病; responders: 救援人员
 
-**[13626.64s] English:** over 22 suicides a day and we are losing people like it's going out of style like  
+**[13626.64s] English:** Over 22 suicides a day, and we are losing people as if it's going out of style, like  
 **Translation:** 
 
-**[13631.52s] English:** the amount of vets that are questioning the last 20 years of their life right now is  
+**[13631.52s] English:** The amount of vets who are questioning the last 20 years of their lives right now is  
 **Translation:** Vocabulary: suicides: 自杀
 
-**[13635.76s] English:** is terrifying the you know i work with organizations that are doing this outreach  
+**[13635.76s] English:** It is terrifying. You know, I work with organizations that are doing this outreach.  
 **Translation:** 
 
-**[13641.36s] English:** and they're overloaded right now like they have never seen before because this whole thing is just  
-**Translation:** Vocabulary: overloaded: 不堪重负; terrifying: 令人恐惧
+**[13641.36s] English:** And they're overloaded right now, like they have never seen before, because this whole thing is just...  
+**Translation:** Vocabulary: overloaded: 超负荷; terrifying: 恐怖的
 
-**[13646.24s] English:** it's hit ahead here and so what brass and unity tries to do is it is really just a vehicle to  
+**[13646.24s] English:** It's hitting ahead here, and so what Brass and Unity try to do is really just a vehicle to  
 **Translation:** 
 
-**[13652.64s] English:** get the money in the hands of the people that are doing the work with it i couldn't start a  
+**[13652.64s] English:** Get the money in the hands of the people who are doing the work with it. I couldn't start a  
 **Translation:** 
 
-**[13656.32s] English:** non-profit because i'm not good at fundraising i'm not good of being like give me your money i'm  
+**[13656.32s] English:** Nonprofit, because I'm not good at fundraising; I'm not good at being like, "Give me your money.  
 **Translation:** 
 
-**[13660.80s] English:** gonna do this with it the least i could do was come up with a product that i know i could give  
-**Translation:** Vocabulary: fundraising: 筹款
+**[13660.80s] English:** Gonna do this with it. The least I could do was come up with a product that I know I could give.  
+**Translation:** Vocabulary: fundraising: 筹款; nonprofit: 非盈利
 
-**[13666.40s] English:** to people or people could purchase and if i gave pretty much all of the pro like the actual profit  
+**[13666.40s] English:** To people, or people could purchase, and if I gave, pretty much all of the profit.  
 **Translation:** 
 
 **[13676.24s] English:** And I give them something to wear that is a touch.  
 **Translation:** 
 
-**[13680.00s] English:** piece or if they're out and somebody sees a bullet on the wrist they go hey what is that it's a  
+**[13680.00s] English:** Piece, or if they're out and somebody sees a bullet on the wrist, they go, "Hey, what is that? It's a...  
 **Translation:** 
 
-**[13685.16s] English:** conversation starter and that's exactly what it's been and it's it's done its job as that and so we  
+**[13685.16s] English:** Conversation starter, and that's exactly what it's been. And it's done its job as that, so we...  
 **Translation:** 
 
-**[13691.56s] English:** like i said we are a way to get the vehicle we're the vehicle we're the money in the hands of the  
+**[13691.56s] English:** Like I said, we are a way to get the vehicle; we're the vehicle, we're the money in the hands of the  
 **Translation:** 
 
-**[13695.32s] English:** people people don't always want to just get a tax receipt it's great to donate to something  
+**[13695.32s] English:** People don't always want to just get a tax receipt; it's great to donate to something.  
+**Translation:** Vocabulary: donate: 捐赠物品
+
+**[13699.72s] English:** Great of you to do that, but most people have a selfish aspect, right? And that's okay, but if you  
 **Translation:** 
 
-**[13699.72s] English:** great on you to do that but most people have a selfish aspect right and that's okay but if you  
+**[13705.56s] English:** Can tap into that, you can then fund these charities properly and give them the tools to do.  
 **Translation:** 
 
-**[13705.56s] English:** can tap into that you can then fund these charities properly and give them the tools to do  
+**[13710.40s] English:** Their jobs have been effective up until this point, as they just count on people's goodness of heart.  
 **Translation:** 
 
-**[13710.40s] English:** their jobs effectively up until this point they just count on people's goodness of their hearts  
+**[13714.98s] English:** Hate to break it to you, but humanity is rough right now. We need to look at something a little bit different.  
 **Translation:** 
 
-**[13714.98s] English:** hate to break it to you humanity is rough right now we need to look at something a little  
+**[13720.12s] English:** Differently, so these things spark like jewelry, sparking conversations, and then do you work?  
 **Translation:** 
 
-**[13720.12s] English:** differently so these things spark like a jewelry sparks conversations and then and then do you work  
+**[13726.24s] English:** With charities, yes. Oh, God, yeah! That's what I do. So, my whole mission every day is: I get up and push.  
+**Translation:** Vocabulary: sparking: 激发
+
+**[13732.42s] English:** Jewelry and sunglasses on people, and say  
 **Translation:** 
 
-**[13726.24s] English:** with charities yes oh god yeah that's what i do so my whole mission every day is i get up i push  
+**[13734.46s] English:** You.  
 **Translation:** 
 
-**[13732.42s] English:** jewelry and sunglasses on people and say  
+**[13735.56s] English:** But now that you're going to wear that, now you're a part of the B&U Army. Now you're a part of  
 **Translation:** 
 
-**[13734.46s] English:** you  
+**[13739.86s] English:** This community, speaking of which, let me put it right back on brand.  
 **Translation:** 
 
-**[13735.56s] English:** but now that you're going to wear that now you're a part of the b and u army now you're a part of  
+**[13745.92s] English:** Is an organic product placement, yeah. This isn't like marketing at all; nothing weird about this.  
 **Translation:** 
 
-**[13739.86s] English:** this community speaking of which let me uh let me put it put it put it right back on branded this  
+**[13751.18s] English:** At all, and so we work with a lot of organizations. I'm very particular about where we send our.  
+**Translation:** Vocabulary: placement: 位置安排
+
+**[13756.22s] English:** Money, because there are so many vet organizations right now, and if we were  
 **Translation:** 
 
-**[13745.92s] English:** is a organic product placement yeah this isn't like marketing at all nothing weird about this  
+**[13762.80s] English:** Able to consolidate it would be more ideal. I spoke about that a lot, and many organizations are.  
+**Translation:** Vocabulary: consolidate: 合并
+
+**[13765.56s] English:** Like that, in the previous show, I spoke about it a lot. I spoke about it a lot in the previous show.  
 **Translation:** 
 
-**[13751.18s] English:** at all and so we work with a lot of organizations and i'm very particular about where we send our  
-**Translation:** Vocabulary: placement: 产品植入
-
-**[13756.22s] English:** money because there are it feels like thousands of vet organizations right now and if we were  
+**[13766.44s] English:** But that's not currently happening, so I try to work with the non-profits I know, number one are  
 **Translation:** 
 
-**[13762.80s] English:** able to consolidate it would be more ideal i spoke about that a lot of organizations are  
+**[13770.94s] English:** Not paying six-figure salaries; trust me, there's lots of reasons. Number two, I look at the actual  
 **Translation:** 
 
-**[13765.56s] English:** like that in the previous show i spoke about it a lot i spoke about it a lot in the previous show  
-**Translation:** 
-
-**[13766.44s] English:** but that's not currently happening so i try to work with the non-profits i know number one are  
-**Translation:** 
-
-**[13770.94s] English:** not paying six-figure salaries which trust me there's lots a lot number two i look at the actual  
-**Translation:** 
-
-**[13777.62s] English:** resources that they're providing and if they're going to be something that are going to be useful  
+**[13777.62s] English:** Resources that they're providing, and if they're going to be something that will be useful.  
 **Translation:** Vocabulary: salaries: 六位数工资
 
-**[13781.12s] English:** in my opinion whether or not they're actually useful and i just don't think they are that's  
+**[13781.12s] English:** In my opinion, whether or not they're actually useful, I just don't think they are. That's  
 **Translation:** 
 
-**[13785.10s] English:** that's up for debate i know it's worked for me so i try to fund the things that i know  
+**[13785.10s] English:** That's up for debate. I know it's worked for me, so I try to fund the things that I know.  
 **Translation:** 
 
-**[13789.10s] English:** have been helpful for me and the people i associate with so that's why i brought all the paper because  
+**[13789.10s] English:** Have been helpful for me and the people I associate with, so that's why I brought all the papers because.  
 **Translation:** 
 
-**[13795.06s] English:** i didn't want to be an idiot and forget anybody that's really important because i get caught up  
+**[13795.06s] English:** I didn't want to be an idiot and forget anybody that's really important, because I get caught up.  
 **Translation:** 
 
-**[13800.00s] English:** things and i think it's important to acknowledge so number one heroic hearts um we just started  
+**[13800.00s] English:** Things, and I think it's important to acknowledge that so, Number One: Heroic Hearts. We just started.  
 **Translation:** 
 
-**[13805.74s] English:** working um to talk about them and really make them known but we're going to be donating to  
+**[13805.74s] English:** Working, um, to talk about them and really make them known, but we're going to be donating to...  
+**Translation:** Vocabulary: donating: 捐赠
+
+**[13811.22s] English:** They're also doing more stuff than the Ayahuasca thing, yeah. So, their points are: I got...  
 **Translation:** 
 
-**[13811.22s] English:** them as well are they doing more stuff than the ayahuasca thing yeah so their points are i got  
+**[13816.98s] English:** Jesse: To actually, I'm like, what are your talking points? Because I need people to know exactly what.  
+**Translation:** Vocabulary: ayahuasca: 巴布亚迷幻药
+
+**[13820.78s] English:** You do right, so veterans have had to take their mental and general health into their own hands.  
 **Translation:** 
 
-**[13816.98s] English:** jesse to actually i'm like what are your talking points because i need people to know exactly what  
+**[13825.04s] English:** Due to the failure of the government system, they were created, but heroic hearts.  
 **Translation:** 
 
-**[13820.78s] English:** you do right so veterans have had to take their mental and general health into their own hands  
+**[13829.70s] English:** Is a peer-supported mental health network involving full-preparation, integration, and coaching.  
 **Translation:** 
 
-**[13825.04s] English:** due to the failure of the government system so that is why they were created but heroic hearts  
+**[13834.32s] English:** And a connection to vetted psychedelic treatments, so they don't just do ayahuasca; they deal with psilocybin.  
+**Translation:** Vocabulary: coaching: 指导; psilocybin: 迷幻蘑菇; psychedelic: 致幻的; vetted: 筛选过的
+
+**[13839.62s] English:** Ketamine, um, ibogaine, but they've got protocols in place and they've got locations you  
 **Translation:** 
 
-**[13829.70s] English:** is a peer-supported mental health network involving full preparation integration coaching  
+**[13845.06s] English:** Go to those that are safely vetted, and they work; they've got over 10,000 right now, Jesse said.  
+**Translation:** Vocabulary: ibogaine: 伊波甘; ketamine: 凯他命
+
+**[13850.62s] English:** 800 veterans on a waiting list for treatment, that's just before the spike at the end of this.  
 **Translation:** 
 
-**[13834.32s] English:** and connection to vetted psychedelic treatments so they don't just do aya they deal with psilocybin  
-**Translation:** Vocabulary: psilocybin: 迷幻蘑菇; psychedelic: 致幻的
-
-**[13839.62s] English:** ketamine um ibogaine but they're they've got protocols in place they've got locations you  
-**Translation:** 
-
-**[13845.06s] English:** go to that are safely vetted and they work they've got over right now jesse said they have  
-**Translation:** Vocabulary: ibogaine: 伊波因; ketamine: 凯他命
-
-**[13850.62s] English:** 800 veterans on a waiting list for treatment that's just before the spike of the end of this  
-**Translation:** 
-
-**[13855.96s] English:** war um they have over a hundred they've helped  
+**[13855.96s] English:** War, um, they have over a hundred; they've helped.  
 **Translation:** Vocabulary: spike: 激增
 
-**[13859.68s] English:** over 100 veterans including dozens of special operation vets find effective care they've now  
+**[13859.68s] English:** Over 100 veterans, including dozens of special operations veterans, find effective care they've now  
 **Translation:** 
 
-**[13865.22s] English:** got branches in the us uk and canada and the the biggest thing about them and why we talk about  
+**[13865.22s] English:** Got branches in the US, UK, and Canada, and the biggest thing about them and why we talk about them is  
 **Translation:** 
 
-**[13870.12s] English:** them is because the problem of psychedelics and the stigma around it is so significant but because  
+**[13870.12s] English:** They are because the problem with psychedelics and the stigma surrounding it is so significant, but because  
 **Translation:** 
 
-**[13876.36s] English:** of great universities that are now stepping up and doing the research behind it it is being  
-**Translation:** Vocabulary: psychedelics: 精神活性物质; stigma: 社会偏见
+**[13876.36s] English:** Of great universities that are now stepping up and doing the research behind it, it is being  
+**Translation:** Vocabulary: psychedelics: 致幻剂; stigma: 污名
 
-**[13880.52s] English:** legitimized so like they're doing that in canada there's a group called therasil they are currently  
+**[13880.52s] English:** Legitimized, so, like, they're doing that in Canada. There's a group called Therasil; they are currently  
 **Translation:** 
 
-**[13886.44s] English:** fighting the government to get the rights for canadians under  
-**Translation:** Vocabulary: legitimized: 正当化
+**[13886.44s] English:** Fighting the government to get the rights for Canadians under  
+**Translation:** Vocabulary: legitimized: 合法化; therasil: 泰拉塞尔
 
-**[13889.68s] English:** section 56 of our laws to get compassionate care for psilocybin use i've done a panel with them on  
+**[13889.68s] English:** Section 56 of our laws to get compassionate care for psilocybin use; I've done a panel with them on.  
 **Translation:** 
 
-**[13896.32s] English:** that really great base set of victoria really smart people one of the other bigger charities  
+**[13896.32s] English:** That really great base set of Victoria's really smart people, one of the other bigger charities.  
 **Translation:** Vocabulary: compassionate: 同情的
 
-**[13901.80s] English:** that we work with and they're honestly they were my first and foremost charity that i ever worked  
+**[13901.80s] English:** That we work with, and they're honestly my first and foremost charity that I ever worked with.  
 **Translation:** 
 
-**[13906.10s] English:** with and they're a big component in the veteran community in canada um they're called honor house  
-**Translation:** Vocabulary: foremost: 首要的
+**[13906.10s] English:** With that, they're a big component in the veteran community in Canada. They're called Honor House.  
+**Translation:** Vocabulary: foremost: 首要的; veteran: 退役军人
 
-**[13911.84s] English:** and honor house was started by honorary colonel aldi genova it was started because of a guy named  
+**[13911.84s] English:** And Honor House was started by Honorary Colonel Aldi Genova. It was started because of a guy named...  
 **Translation:** 
 
-**[13919.68s] English:** ben strony cisco john d owner who helped Swami in canada and told everyone that there was only minority  
-**Translation:** 
+**[13919.68s] English:** Ben, from Cisco John D. Owner, who helped Swami in Canada and told everyone that there was a minority.  
+**Translation:** Vocabulary: cisco: 思科
 
-**[13939.42s] English:** left in canada however dean clinton says so a lot has been said on this and it leads to a lot of  
-**Translation:** 
-
-**[13944.86s] English:** Palestinians participating in this project and so just on the outside i've been called upon  
-**Translation:** Vocabulary: palestinians: 巴勒斯坦人
-
-**[13947.44s] English:** to that's only a few weeks forI was just one enthusiasm and hopefully st integrals i had to  
-**Translation:** 
-
-**[13949.10s] English:** keep up with them  
-**Translation:** Vocabulary: integrals: 积分
-
-**[13920.00s] English:** He was a Canadian soldier who deployed and he was so Captain Trevor Green.  
+**[13920.00s] English:** He was a Canadian soldier who deployed, and he was later known as Captain Trevor Green.  
 **Translation:** 
 
 **[13924.94s] English:** Sorry, Trevor.  
-**Translation:** Vocabulary: deployed: 部署
+**Translation:** Vocabulary: deployed: 被部署
 
 **[13925.94s] English:** Captain Trevor Green.  
 **Translation:** 
@@ -9139,76 +9128,88 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[13927.78s] English:** He got an axe in the middle of his head.  
 **Translation:** 
 
-**[13930.46s] English:** A Taliban member came up and put an axe directly into his head when his helmet was off and he survived.  
+**[13930.46s] English:** A Taliban member came up and put an axe directly into his head when his helmet was off—and he survived.  
 **Translation:** 
 
-**[13935.88s] English:** He's done work with Invictus Games and Prince Harry.  
-**Translation:** Vocabulary: invictus: 不可征服
+**[13935.88s] English:** He's done work with the Invictus Games and Prince Harry.  
+**Translation:** Vocabulary: invictus: 不屈的
 
 **[13939.38s] English:** He has an exoskeleton he uses on the island.  
 **Translation:** 
 
-**[13942.02s] English:** He's the he's so cool.  
-**Translation:** Vocabulary: exoskeleton: 外骨骼
+**[13939.42s] English:** Left in Canada, however, Dean Clinton says so. A lot has been said on this, and it leads to a lot of.  
+**Translation:** Vocabulary: exoskeleton: 外部骨架
 
-**[13943.30s] English:** He hasn't changed one bit from like the infantry captain.  
+**[13942.02s] English:** He's so cool.  
 **Translation:** 
 
-**[13946.66s] English:** He you expect him to be.  
+**[13943.30s] English:** He hasn't changed one bit from the infantry captain.  
 **Translation:** Vocabulary: infantry: 步兵
 
-**[13947.90s] English:** And it was Al saw there was a need for vets and first responders to get treatment because there's no real home away from home for people.  
+**[13944.86s] English:** Palestinians participating in this project, and so just on the outside, I've been called upon.  
 **Translation:** 
 
-**[13957.38s] English:** Picture Ronald McDonald for cancer and families.  
-**Translation:** Vocabulary: responders: 救援人员
+**[13946.66s] English:** He, you expect him to be.  
+**Translation:** Vocabulary: palestinians: 巴勒斯坦人
 
-**[13960.18s] English:** This is vets and first responders.  
+**[13947.44s] English:** To that, it's only a few weeks. For I was just one enthusiasm, and hopefully still have some integrals left.  
 **Translation:** 
 
-**[13962.18s] English:** And so their whole thing and I'll read it.  
+**[13947.90s] English:** And it was Al who saw that there was a need for vets and first responders to get treatment, because there's no real "home away from home" for people.  
+**Translation:** Vocabulary: integrals: 剩余积分; responders: 救援人员
+
+**[13949.10s] English:** Keep up with them.  
 **Translation:** 
 
-**[13964.66s] English:** So I said exactly right.  
+**[13957.38s] English:** Picture Ronald McDonald for cancer awareness and families.  
+**Translation:** Vocabulary: ronald: 麦当劳吉祥物
+
+**[13960.18s] English:** This is the vets and first responders.  
+**Translation:** 
+
+**[13962.18s] English:** And so, their whole thing, and I'll read it.  
+**Translation:** 
+
+**[13964.66s] English:** So, I said exactly right.  
 **Translation:** 
 
 **[13965.72s] English:** I used to be on the board of their charity, but I ran out of time.  
 **Translation:** 
 
-**[13968.36s] English:** So now I just consult.  
+**[13968.36s] English:** So, now I just consult.  
 **Translation:** 
 
-**[13970.30s] English:** But they are a home away from home for members of the Canadian Armed Forces, veterans and first responders and their families to stay.  
+**[13970.30s] English:** But they are a home away from home for members of the Canadian Armed Forces, veterans, and first responders and their families to stay.  
 **Translation:** 
 
 **[13977.90s] English:** They're completely free of charge while they're receiving medical care and treatment in the Vancouver area.  
 **Translation:** 
 
-**[13983.48s] English:** But since then, they've expanded since I've come on board and they've opened on a ranch, which is up in Ashcroft, B.C.  
-**Translation:** Vocabulary: ashcroft: 阿什科夫特; vancouver: 温哥华
+**[13983.48s] English:** But since then, they've expanded since I've come on board, and they've opened a ranch, which is up in Ashcroft, B.C.  
+**Translation:** Vocabulary: ashcroft: 不列颠哥伦比亚省阿什科夫特; vancouver: 温哥华
 
-**[13989.90s] English:** And it's one hundred and forty acres, 10 cabins and a main cabin.  
+**[13989.90s] English:** And it's one hundred and forty acres, 10 cabins, and a main cabin.  
 **Translation:** 
 
-**[13993.92s] English:** They do equine therapy and they're more focused on operational stress injury clinics.  
-**Translation:** Vocabulary: equine: 马术
+**[13993.92s] English:** They offer equine therapy and are more focused on operational stress injury clinics.  
+**Translation:** Vocabulary: cabins: 小木屋; equine: 马术的
 
-**[13998.02s] English:** So sorry, operational stress injury within the veteran community.  
+**[13998.02s] English:** So sorry, but an operational stress injury is common in the veteran community.  
 **Translation:** 
 
-**[14002.14s] English:** And they have specialists that do that.  
+**[14002.14s] English:** And they have specialists who do that.  
+**Translation:** Vocabulary: veteran: 老兵
+
+**[14004.12s] English:** They have their own bracelet with us.  
 **Translation:** 
 
-**[14004.12s] English:** They have they have their own bracelet with us.  
-**Translation:** 
-
-**[14007.00s] English:** So every time you buy.  
+**[14007.00s] English:** So, every time you buy.  
 **Translation:** 
 
 **[14007.90s] English:** On our house bracelet, all the proceeds go to them.  
 **Translation:** 
 
-**[14010.12s] English:** They yeah.  
+**[14010.12s] English:** They, yeah.  
 **Translation:** 
 
 **[14011.56s] English:** And it's actually the green one.  
@@ -9217,19 +9218,19 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **[14013.58s] English:** So that one.  
 **Translation:** 
 
-**[14014.58s] English:** So when you buy one of those on our house bracelets, they have those they go directly to them, which is really amazing.  
+**[14014.58s] English:** So, when you buy one of those house bracelets, they go directly to them, which is really amazing.  
 **Translation:** 
 
 **[14020.98s] English:** They've been near and dear to my heart for a long time.  
 **Translation:** Vocabulary: bracelets: 手链
 
-**[14024.34s] English:** You've got the all secure foundation, which is these guys are these guys are super dope.  
+**[14024.34s] English:** You've got the all-secure foundation, which is these guys — they are super dope.  
 **Translation:** 
 
-**[14029.06s] English:** I'm going to read exactly because Jen text me.  
+**[14029.06s] English:** I'm going to read exactly because Jen texted me.  
 **Translation:** 
 
-**[14030.82s] English:** So Jen and Tom Saturday, I've had them both on the podcast.  
+**[14030.82s] English:** So, Jen and Tom (Saturday), I've had them both on the podcast.  
 **Translation:** 
 
 **[14034.44s] English:** Tom was involved in Black Hawk Down.  
@@ -9239,403 +9240,403 @@ Source file: Lex Fridman - Kelsi Sheren： War, Artillery, PTSD, and Love ｜ Le
 **Translation:** 
 
 **[14038.66s] English:** Have you heard of them?  
-**Translation:** Vocabulary: delta: 飞行教官
+**Translation:** Vocabulary: delta: 三角洲
 
 **[14039.34s] English:** Yeah.  
 **Translation:** 
 
-**[14040.00s] English:** but no of um no so okay so tom was involved in blackhawk down it was one of his first operations  
+**[14040.00s] English:** But no, um, no, so okay, so Tom was involved in Black Hawk Down; it was one of his first operations.  
 **Translation:** 
 
-**[14046.28s] English:** he's a delta operator and i asked her i said listen i'm going to be doing these shows and i  
+**[14046.28s] English:** He's a Delta operator, and I asked her, "Listen, I'm going to be doing these shows, and...  
 **Translation:** 
 
-**[14050.62s] English:** think it's great that we talk about you more so i said give me your three points of importance  
+**[14050.62s] English:** I think it's great that we talk about you more, so I said, "Give me your three points of importance.  
 **Translation:** 
 
-**[14054.88s] English:** so the all secure foundation serves special operations combat families and healing from  
+**[14054.88s] English:** So, the All Secure Foundation serves special operations combat families and healing from.  
 **Translation:** 
 
-**[14060.12s] English:** post-traumatic stress injury and secondary post-traumatic stress so that's often what  
+**[14060.12s] English:** Post-traumatic stress injury and secondary post-traumatic stress; so, that's often what  
 **Translation:** Vocabulary: combat: 战斗
 
-**[14064.04s] English:** the wife or the other husband or the other spouse suffers from and we're starting to see that be  
+**[14064.04s] English:** The wife, or the other husband, or the other spouse suffers from, and we're starting to see that be.  
 **Translation:** 
 
-**[14068.88s] English:** more and more of an issue now so they also are devoted to rebuilding the couple's relationships  
+**[14068.88s] English:** More and more of an issue now, so they are also devoted to rebuilding the couple's relationship.  
+**Translation:** Vocabulary: devoted: 专注; spouse: 配偶
+
+**[14074.06s] English:** On the home front, after the separations of war, 80 of their warriors went on, went um.  
 **Translation:** 
 
-**[14074.06s] English:** on the home front after the separations of war and 80 of their warriors went on went um  
-**Translation:** 
-
-**[14080.78s] English:** yeah 80 of their warriors want their families to be more involved the healing the problem is is  
+**[14080.78s] English:** Yeah, 80% of their warriors want their families to be more involved. The healing process is problematic.  
 **Translation:** Vocabulary: separations: 离别
 
-**[14085.94s] English:** very often vets don't realize that they can have or just because the system doesn't pay for it  
+**[14085.94s] English:** Very often, vets don't realize that they can offer certain services, or just because the system doesn't pay for them.  
 **Translation:** 
 
-**[14092.22s] English:** actually have their spouse as a part of things and the biggest thing that we find with special  
+**[14092.22s] English:** Actually, they have their spouse as a part of things, and the biggest thing that we find with special  
 **Translation:** 
 
-**[14096.26s] English:** operations families i think the divorce rate's like 95 percent  
+**[14096.26s] English:** Operations, families: I think the divorce rate is about 95 percent.  
 **Translation:** 
 
-**[14098.88s] English:** oh wow and so they work so hard with these families they take them on retreats these  
-**Translation:** Vocabulary: retreats: 休养营
+**[14098.88s] English:** Oh, wow! And so they work so hard with these families, they take them on retreats, these  
+**Translation:** Vocabulary: retreats: 疗养营
 
-**[14104.58s] English:** husband and wives and they get them to connect again after being separated over such a long  
+**[14104.58s] English:** Husbands and wives, and they get them to connect again after being separated for such a long time.  
 **Translation:** 
 
-**[14108.12s] English:** period of time there's other places like children of fallen patriots out of dc where they fund  
-**Translation:** Vocabulary: patriots: 烈士家属
+**[14108.12s] English:** Period of time, there are other places like Children of Fallen Patriots, out of DC, where they fund.  
+**Translation:** Vocabulary: patriots: 爱国者
 
-**[14113.40s] English:** education um university for people who have lost their parents um in deployments whether  
+**[14113.40s] English:** Education, um, university for people who have lost their parents, um, in deployments, whether  
 **Translation:** 
 
-**[14119.62s] English:** their kids even born yet if it's still in utero they still pay they do not care then you've got  
+**[14119.62s] English:** Their kids aren't even born yet—if it's still in utero, they still pay and don't care. Then you've got  
 **Translation:** Vocabulary: deployments: 部署; utero: 子宫
 
-**[14124.90s] English:** people like um in canada you've got vets canada you've  
+**[14124.90s] English:** People like, in Canada, you've got Veterans Affairs Canada, you've  
 **Translation:** 
 
-**[14128.88s] English:** got in the states you've you know you got true patriot love you've got um who else in the states  
+**[14128.88s] English:** Got in the states, you've got true patriot love, you've got... um, who else in the states?  
+**Translation:** Vocabulary: patriot: 爱国者
+
+**[14135.06s] English:** It's really great that we've worked with I know there's a Green Beret Foundation, that's great.  
 **Translation:** 
 
-**[14135.06s] English:** is really great that we've worked with i know there's a green beret foundation that's great  
-**Translation:** 
-
-**[14138.94s] English:** one more wave gives amputees teaches them to surf with it with amputees like they're really great  
+**[14138.94s] English:** One more wave gives amputees a chance to teach them to surf with other amputees, like they're really great.  
 **Translation:** Vocabulary: amputees: 截肢者; beret: 贝雷帽
 
-**[14144.76s] English:** there's so many organizations but at the end of the day i focus on a small subset because you  
+**[14144.76s] English:** There are so many organizations, but at the end of the day, I focus on a small subset because you  
 **Translation:** 
 
-**[14151.92s] English:** cannot fix everyone's problems the least thing the least you can do for people is focus if you  
+**[14151.92s] English:** Cannot fix everyone's problems? The least you can do for people is to focus. If you  
+**Translation:** Vocabulary: cannot: 不能
+
+**[14158.88s] English:** Focus, you can provide the  
 **Translation:** 
 
-**[14158.88s] English:** focus you can provide the  
+**[14160.00s] English:** Proper amount of funding can get the proper amount of tools, and those tools can  
 **Translation:** 
 
-**[14160.00s] English:** proper amount of funding proper amount of funding can get the proper amount of tools those tools can  
+**[14164.26s] English:** Actually, it needs to be implemented properly, and then those people can go on to hopefully have successful outcomes.  
 **Translation:** 
 
-**[14164.26s] English:** actually be implemented properly and then those people can go on to hopefully have successful  
+**[14169.86s] English:** Marriages and families, and we don't have to watch our parents drink themselves to death and wonder.  
+**Translation:** Vocabulary: implemented: 执行; outcomes: 结果
+
+**[14174.72s] English:** Why is Daddy yelling at Mommy all the time, and then he storms out and leaves? Well, Daddy had some  
 **Translation:** 
 
-**[14169.86s] English:** marriages and families and we don't have to watch our parents drink themselves to death and wonder  
+**[14179.20s] English:** Shit happens in his life, and mommy had some shit happen, but that doesn't mean that's who they are.  
+**Translation:** Vocabulary: yelling: 大声喊叫
+
+**[14183.40s] English:** And, yes, so trauma has completely destructive effects on families and relationships, and like.  
 **Translation:** 
 
-**[14174.72s] English:** why daddy's yelling at mommy all the time and daddy storms out and leaves well daddy had some  
-**Translation:** 
-
-**[14179.20s] English:** shit happen in his life and mommy had some shit happen but that does not mean that's who they are  
-**Translation:** 
-
-**[14183.40s] English:** and yes so trauma has completely destructive effects on family and relationships and like  
-**Translation:** 
-
-**[14191.06s] English:** correcting that as like ripple effects oh yeah astronomical ripple effects because the problem  
+**[14191.06s] English:** Correcting that, as with ripple effects—oh, yeah, astronomical ripple effects—because the problem...  
 **Translation:** Vocabulary: astronomical: 巨大的; ripple: 波纹; trauma: 创伤
 
-**[14198.86s] English:** is we are so quick to tell people they're suffering from ptsd we're so quick to give  
+**[14198.86s] English:** Is it we are so quick to tell people they're suffering from PTSD, we're so quick to give  
 **Translation:** 
 
-**[14205.02s] English:** them drugs we're so quick to kick them out of the military we're so quick to let them be homeless on  
+**[14205.02s] English:** They're drugs; we're so quick to kick them out of the military, and we're so quick to let them be homeless.  
 **Translation:** 
 
-**[14209.90s] English:** the street we're so quick to let them fucking kill themselves we're so quick and then  
+**[14209.90s] English:** The street; we're so quick to let them fucking kill themselves, and then  
 **Translation:** 
 
-**[14213.38s] English:** all of a sudden when when a politician goes veteran suicide's an issue that's when it's a  
+**[14213.38s] English:** All of a sudden, when a politician makes veterans' suicide an issue, that's when it really hits home.  
 **Translation:** 
 
-**[14217.78s] English:** problem well if you prevent the problem from happening in the first place or you give people  
+**[14217.78s] English:** Problem: Well, if you prevent the problem from happening in the first place or you give people  
 **Translation:** 
 
-**[14222.10s] English:** the right funding and tools to do the job you won't have this problem do you have advice for  
+**[14222.10s] English:** The right funding and tools to do the job, you won't have this problem. Do you have advice for?  
 **Translation:** 
 
-**[14229.20s] English:** young people think high school students maybe uh undergrads college students about career life  
+**[14229.20s] English:** Young people think high school students, maybe some undergrads or college students, are thinking about career life.  
 **Translation:** 
 
-**[14237.58s] English:** how to live a life they can be proud of you've had one heck of a life  
+**[14237.58s] English:** How to live a life they can be proud of? You've had one heck of a life!  
 **Translation:** Vocabulary: undergrads: 本科生
 
-**[14243.38s] English:** some of them are really cheesy but they're true  
+**[14243.38s] English:** Some of them are really cheesy, but they're true.  
 **Translation:** 
 
-**[14247.12s] English:** live a life you can be proud of number one if you wake up every morning and you hate what you do  
+**[14247.12s] English:** Live a life you can be proud of. Number one: if you wake up every morning and you hate what you do.  
 **Translation:** Vocabulary: cheesy: 陈词滥调
 
-**[14254.32s] English:** change the fucking station do not live and stay in that perpetual cycle of bullshit  
+**[14254.32s] English:** Change the fucking station; do not live and stay in that perpetual cycle of bullshit.  
 **Translation:** 
 
-**[14260.56s] English:** it's not worth it it's not it's not what you're on this planet for you're worth more than that  
+**[14260.56s] English:** It's not worth it. It's not; it's not what you're on this planet for. You're worth more than that.  
 **Translation:** Vocabulary: bullshit: 胡说八道; perpetual: 永无止境的
 
-**[14267.06s] English:** than the monotony of waking up going to work hating your life drinking yourself to sleep  
+**[14267.06s] English:** Than the monotony of waking up, going to work, hating your life, drinking yourself to sleep.  
 **Translation:** 
 
-**[14272.00s] English:** and functioning  
+**[14272.00s] English:** And functioning.  
+**Translation:** Vocabulary: monotony: 单调乏味
+
+**[14273.38s] English:** Do yourself a favor: the thing I scream about on the show so much is to move your fucking body.  
 **Translation:** 
 
-**[14273.38s] English:** do yourself a favor the thing i scream about on the show so much is move your fucking body  
+**[14280.00s] English:** Move your body, get your blood moving, and allow your body to do what it's here for. Go for a run!  
 **Translation:** 
 
-**[14280.00s] English:** move your body get your blood moving allow your body to to do what it's here for go for a run  
+**[14288.04s] English:** Go for a walk if you can't run. Walk to the fridge three times more than maybe you did before, but  
 **Translation:** 
 
-**[14288.04s] English:** go for a walk if you can't run walk to the fridge three times more than maybe you did before but  
+**[14293.68s] English:** You're moving; pay attention to the shit you look at more now than ever. We are seeing our younger  
 **Translation:** 
 
-**[14293.68s] English:** you're moving pay attention to the shit you look at more now than ever we are seeing our younger  
+**[14302.44s] English:** Generation shouldn't just be force-fed information from one side or the other, and none of it makes sense.  
 **Translation:** 
 
-**[14302.44s] English:** generation just be force-fed information from one side or the other and none of it makes sense  
+**[14308.44s] English:** None of it is understandable; it just causes chaos in the brain. Really, pay attention to what you're doing.  
+**Translation:** Vocabulary: understandable: 易理解的
+
+**[14314.36s] English:** You listen, to something I've had to learn to do is make time for myself. All of this working 18  
 **Translation:** 
 
-**[14308.44s] English:** none of it's understandable it just causes chaos in the brain really pay attention to what you you  
-**Translation:** Vocabulary: understandable: 容易理解的
+**[14324.28s] English:** Hours a day, not sleeping, just working, working, working—that doesn't work. That's not sustainable; it's not.  
+**Translation:** Vocabulary: sustainable: 持久的
 
-**[14314.36s] English:** you listen to something i've had to learn to do is make time for myself all of this working 18  
+**[14329.16s] English:** Healthy, and it's not anything anyone should be doing. Balance is important, but if you're  
 **Translation:** 
 
-**[14324.28s] English:** hours a day not sleeping just work work work that doesn't work that's not sustainable it's not  
+**[14335.78s] English:** Going to take the time to do something.  
 **Translation:** 
 
-**[14329.16s] English:** healthy and it's not it's not anything anyone should be doing balance is important but if you're  
+**[14338.44s] English:** For yourself, don't make it sitting in front of the TV for six hours eating a bag of chips.  
 **Translation:** 
 
-**[14335.78s] English:** going to take the time to do something  
+**[14343.12s] English:** Drinking a Coke, I'm gonna go for a walk, maybe listen to a podcast where I can learn.  
 **Translation:** 
 
-**[14338.44s] English:** for yourself don't make it sitting in front of the tv for six hours eating a bag of chips  
+**[14348.62s] English:** Something like that makes me want to go volunteer somewhere; nobody does that anymore, but I can go.  
 **Translation:** 
 
-**[14343.12s] English:** drinking a coke make it i'm gonna go for a walk maybe listen to a podcast where i can learn  
+**[14354.22s] English:** Volunteers run an honor house, where they have no paid employees; everyone is a volunteer.  
 **Translation:** 
 
-**[14348.62s] English:** something make it i'm gonna go volunteer somewhere nobody does that anymore but make it i can go  
+**[14359.88s] English:** They're fucking phenomenal. Just do whatever you're gonna do, but do it with some fucking drive.  
 **Translation:** 
 
-**[14354.22s] English:** volunteer somewhere honor house they have no paid employees they have one everybody is a volunteer  
-**Translation:** 
-
-**[14359.88s] English:** they're fucking phenomenal just do whatever you're gonna do do it with some fucking drive  
-**Translation:** 
-
-**[14367.38s] English:** put some god  
+**[14367.38s] English:** Put some God  
 **Translation:** Vocabulary: phenomenal: 卓越的
 
-**[14368.44s] English:** damn effort into your life and pick something in a career that's gonna make you happy not something  
+**[14368.44s] English:** Damn, put some effort into your life and pick something in a career that's going to make you happy, not something  
 **Translation:** 
 
-**[14374.70s] English:** that's just gonna give you six figures because that's not gonna make you happy i can tell you  
+**[14374.70s] English:** That's just going to give you a six-figure salary, because that's not going to make you happy, I can tell you.  
 **Translation:** 
 
-**[14377.96s] English:** right now i have everything in the world and the last thing i want is more things i want less i want  
+**[14377.96s] English:** Right now, I have everything in the world, and the last thing I want is more things; I want less.  
 **Translation:** 
 
-**[14383.48s] English:** the woods and i want quiet because that's what's important to me i want my family to matter the  
+**[14383.48s] English:** The woods, and I want quiet because that's what's important to me. I want my family to matter.  
 **Translation:** 
 
-**[14390.52s] English:** people around me to matter and the small group i keep that tight knit i have i want them to wake up  
+**[14390.52s] English:** People around me matter, and the small, tight-knit group I keep—I want them to wake up.  
 **Translation:** 
 
-**[14397.08s] English:** every minute knowing that they have a  
+**[14397.08s] English:** Every minute, knowing that they have a  
 **Translation:** 
 
-**[14398.44s] English:** friend that they can call on the other line that  
+**[14398.44s] English:** A friend that they can call on the other line that  
 **Translation:** 
 
-**[14400.00s] English:** isn't just like how's it going that can actually have a conversation a meaningful intelligent  
+**[14400.00s] English:** Isn't just like how's it going? That can actually have a meaningful, intelligent conversation.  
 **Translation:** 
 
-**[14406.80s] English:** caring conversation we are just breeding these kids to be followers who digest  
+**[14406.80s] English:** Caring conversation: We are just breeding these kids to be followers who digest.  
 **Translation:** 
 
-**[14413.76s] English:** who reverberate things they don't fully understand and have opinions on stuff they  
+**[14413.76s] English:** Who reverberate things they don't fully understand and have opinions on stuff they  
+**Translation:** Vocabulary: caring: 关心; digest: 理解; followers: 追随者
+
+**[14419.92s] English:** Have no business talking about, yeah, uh, with an open mind; humbly think deeply about the world.  
 **Translation:** 
 
-**[14419.92s] English:** have no business talking about yeah uh with an open mind humbly think deeply about the world  
+**[14427.20s] English:** Correct, how has your relationship with death changed? This is a Russian program, I have to ask.  
+**Translation:** Vocabulary: humbly: 谦卑地
+
+**[14435.12s] English:** You know, you've considered suicide throughout your life, and you have been in the line of fire.  
 **Translation:** 
 
-**[14427.20s] English:** correct how has your relationship with death changed this is a russian program i have to ask  
-**Translation:** Vocabulary: humbly: 谦虚地
+**[14440.88s] English:** You have witnessed death. As a human being, a mortal one, do you think about your death?  
+**Translation:** Vocabulary: mortal: 凡人; witnessed: 目睹
 
-**[14435.12s] English:** you so you've considered suicide throughout your life you have been in the line of fire  
+**[14448.40s] English:** Days now that you have begun the journey with dealing with your trauma, do you think about your  
 **Translation:** 
 
-**[14440.88s] English:** you have witnessed death you as a human being a mortal one do you think about your death these  
-**Translation:** Vocabulary: witnessed: 目睹
-
-**[14448.40s] English:** days now that you have begun the journey with dealing with your trauma do you think about your  
-**Translation:** 
-
-**[14457.76s] English:** are you afraid of your death well you don't die so that's why what do you mean you don't die you  
+**[14457.76s] English:** Are you afraid of your death? Well, you don't die, so that's why what do you mean you don't die?  
 **Translation:** Vocabulary: trauma: 创伤
 
-**[14465.28s] English:** move on where do you go to another plane and another vibration and another whatever you want  
+**[14465.28s] English:** Move on. Where do you go? To another plane, another vibration, and another, whatever you want.  
 **Translation:** 
 
-**[14472.40s] English:** to call it this isn't it this isn't all of it this is a blip this is a moment this is uh i used to be  
+**[14472.40s] English:** To call it this, isn't it? This isn't all of it. This is just a blip, this is just a moment. I used to be...  
 **Translation:** Vocabulary: vibration: 震动
 
-**[14481.04s] English:** afraid of death before the military i was always afraid of dying i don't know why had this  
+**[14481.04s] English:** Afraid of death before the military, I was always afraid of dying. I don't know why, had this.  
 **Translation:** 
 
-**[14485.44s] English:** irrational fear that i was going to die i was going to die i was going to die i was going to die  
+**[14485.44s] English:** I had an irrational fear that I was going to die. I was going to die. I was going to die. I was going to die.  
 **Translation:** Vocabulary: irrational: 不合逻辑的
 
-**[14487.12s] English:** i was going to be kidnapped in my room like seriously like irrational fear like afraid um  
+**[14487.12s] English:** I was going to be kidnapped in my room—like, seriously. It was an irrational fear, and I was afraid.  
 **Translation:** 
 
-**[14492.48s] English:** and it's funny because i talked to michaela um yesterday and she said the same thing and i was  
+**[14492.48s] English:** And it's funny because I talked to Michaela yesterday, and she said the same thing, and I was  
 **Translation:** Vocabulary: kidnapped: 被绑架
 
-**[14497.04s] English:** like oh my god i know what you're talking being afraid of being kidnapped yeah she had this like  
+**[14497.04s] English:** Like, oh my god, I know what you're talking about—being afraid of being kidnapped. Yeah, she had this like  
 **Translation:** 
 
-**[14502.08s] English:** fear that someone was going to come in and take her out of her room i had the same fear by a human  
+**[14502.08s] English:** Fear that someone was going to come in and take her out of her room; I had the same fear, by a human.  
 **Translation:** 
 
-**[14507.60s] English:** being or a monster or some kind no i think like by a human being and i had this irrational fear  
+**[14507.60s] English:** Being or a monster, or some kind—no, I think it was by a human being, and I had this irrational fear.  
 **Translation:** 
 
-**[14511.92s] English:** that i was that's like something was going to happen to me and like i said i don't know if it's  
+**[14511.92s] English:** That I was, that's like something was going to happen to me, and like I said, I don't know if it's  
 **Translation:** 
 
-**[14517.12s] English:** going to happen to me i don't know if it's going to happen to me i don't know if it's going to happen  
+**[14517.12s] English:** Going to happen to me, I don't know if it's going to happen to me, I don't know if it's going to happen.  
 **Translation:** 
 
-**[14520.00s] English:** thing that happens yeah i was really small so and i looked like a little boy my hair was like that  
+**[14520.00s] English:** Thing that happens, yeah. I was really small, so I looked like a little boy, and my hair was like that.  
 **Translation:** 
 
-**[14525.36s] English:** when i was training i had short no hair i'd know flat as a board you would have thought i was a  
+**[14525.36s] English:** When I was training, I had short, no hair; it would be flat as a board. You would have thought I was a  
 **Translation:** 
 
-**[14529.44s] English:** 12 year old boy and so my mom's like people take people sweet that's just the reality of life  
+**[14529.44s] English:** A 12-year-old boy, and so my mom is like, "People take people for granted; that's just the reality of life.  
 **Translation:** 
 
-**[14534.72s] English:** you need to be aware so i don't know if i had this ingrained in my mind i was always like training to  
+**[14534.72s] English:** You need to be aware, so I don't know if I had this ingrained in my mind; I was always like training to.  
 **Translation:** 
 
-**[14539.52s] English:** protect myself or fight someone off so i was like afraid of like this irrational thing and then i  
-**Translation:** Vocabulary: ingrained: 根深蒂固
+**[14539.52s] English:** Protect myself or fight someone off, so I was like afraid of this irrational thing, and then I...  
+**Translation:** Vocabulary: ingrained: 根深蒂固的
 
-**[14545.44s] English:** went overseas and then i realized that i could just be literally there talking you having a  
+**[14545.44s] English:** Went overseas, and then I realized that I could just be, literally, there, talking to you, having a  
 **Translation:** 
 
-**[14549.12s] English:** conversation and i could just be taken off the face of the earth and there's nothing i can do  
+**[14549.12s] English:** Conversation, and I could just be taken off the face of the earth, and there's nothing I can do.  
 **Translation:** 
 
-**[14552.88s] English:** about it and then i adopted this idea that when it's my time it'll be my time but the difference  
+**[14552.88s] English:** About it, and then I adopted the idea that when it's my time, it'll be my time, but the difference...  
 **Translation:** 
 
-**[14559.12s] English:** is now at least i know that if i do go and i do cross and i am and i do move on  
+**[14559.12s] English:** Is now at least, I know that if I do go and I do cross, and I do move on.  
 **Translation:** 
 
-**[14574.56s] English:** i know that i live my life the way that i i always  
+**[14574.56s] English:** I know that I live my life the way that I always do.  
 **Translation:** 
 
-**[14578.16s] English:** hoped i would be proud  
+**[14578.16s] English:** Hoped I would be proud.  
 **Translation:** 
 
-**[14579.12s] English:** to live can i ask you a dark question because we you mentioned robin williams you mentioned  
+**[14579.12s] English:** To live, can I ask you a dark question? Because we mentioned Robin Williams, you mentioned  
 **Translation:** 
 
-**[14588.24s] English:** anthony bourdain and your own struggle with suicide why do you think they ultimately lost the battle  
+**[14588.24s] English:** Anthony Bourdain and Your Own Struggle with Suicide: Why Do You Think They Ultimately Lost the Battle?  
 **Translation:** 
 
-**[14596.48s] English:** that battle why do you think they did their life man that's a that's a loaded question because you  
+**[14596.48s] English:** That battle—why do you think they did it? That's a loaded question because you...  
 **Translation:** 
 
-**[14601.92s] English:** could look at everything from from biomarkers in the brain to know if there's serotonin and dopamine  
-**Translation:** Vocabulary: biomarkers: 生物标志; dopamine: 多巴胺; serotonin: 血清素
+**[14601.92s] English:** Could look at everything from biomarkers in the brain to know if there's serotonin and dopamine.  
+**Translation:** Vocabulary: biomarkers: 生物标志物; dopamine: 多巴胺; serotonin: 血清素
 
-**[14609.12s] English:** how many people were crashed in the ground like you there's there's biological reasonings for  
+**[14609.12s] English:** How many people were crushed on the ground like that? There are biological reasons for this.  
 **Translation:** 
 
-**[14614.16s] English:** some people where they're born bipolar and they have or you know they're schizophrenic like  
-**Translation:** Vocabulary: bipolar: 情绪波动; schizophrenic: 精神分裂
+**[14614.16s] English:** Some people are born with bipolar disorder, and they have or are diagnosed as schizophrenic.  
+**Translation:** Vocabulary: bipolar: 情绪波动; diagnosed: 诊断为; schizophrenic: 精神分裂的
 
-**[14618.24s] English:** there's so many things we don't fully grasp about the brain but what we do know from my  
+**[14618.24s] English:** There are so many things we don't fully grasp about the brain, but what we do know from my  
 **Translation:** 
 
-**[14626.64s] English:** perspective for me at least there really is no rhyme or reason why i survived and others didn't  
+**[14626.64s] English:** Perspective for me, at least, there really is no rhyme or reason why I survived and others didn't.  
 **Translation:** 
 
 **[14639.12s] English:** People don't.  
 **Translation:** 
 
-**[14640.00s] English:** always know why they're feeling the way they're feeling but they also are also  
+**[14640.00s] English:** Always know why they're feeling the way they're feeling, but they also aren't necessarily always aware of it.  
 **Translation:** 
 
-**[14645.22s] English:** are not always willing to talk about it or be they put on a good front and if  
+**[14645.22s] English:** Are not always willing to talk about it, or they put on a good front and if.  
 **Translation:** 
 
-**[14655.30s] English:** nobody knows any different what do you expect and it's especially clear with  
+**[14655.30s] English:** Nobody knows, any different. What do you expect? And it's especially clear with.  
 **Translation:** 
 
-**[14659.56s] English:** the two of them that on the surface they're you know exceptionally  
+**[14659.56s] English:** The two of them, that on the surface, they're you know exceptionally.  
 **Translation:** 
 
-**[14664.30s] English:** successful in so many dimensions right and still that means nothing material  
-**Translation:** Vocabulary: dimensions: 方面; exceptionally: 非常
+**[14664.30s] English:** Successful in so many dimensions, right? And still, that means nothing material.  
+**Translation:** Vocabulary: dimensions: 方面; exceptionally: 特别
 
-**[14669.20s] English:** possessions anything really is not doesn't guarantee you happiness no it  
+**[14669.20s] English:** Possessions, anything really, does not guarantee you happiness, no, it doesn't.  
 **Translation:** 
 
-**[14677.12s] English:** doesn't well scary that's terrifying but when it's good that's what makes it  
-**Translation:** Vocabulary: terrifying: 令人恐惧的
+**[14677.12s] English:** Doesn't it? Well, scary can be terrifying, but when it's good, that's what makes it.  
+**Translation:** Vocabulary: terrifying: 可怕的
 
-**[14687.84s] English:** joyful like that's what happiness is is like holy shit somehow I miss all the  
+**[14687.84s] English:** Joyful, like that's what happiness is like. Holy shit, somehow I miss all the  
 **Translation:** 
 
-**[14693.76s] English:** absurdity all the things that you can't predict you you nevertheless feel really  
+**[14693.76s] English:** Absurdity: all the things that you can't predict, you nevertheless feel really.  
 **Translation:** Vocabulary: absurdity: 荒谬性
 
-**[14698.38s] English:** good that's why  
+**[14698.38s] English:** Good. That's why.  
 **Translation:** 
 
-**[14699.18s] English:** I feel really fortunate to to be getting there this feat of happiness all the  
+**[14699.18s] English:** I feel reallyfortunate to be getting there, this feat of happiness, all the  
+**Translation:** Vocabulary: reallyfortunate: 非常幸运
+
+**[14703.20s] English:** Time well to be, or not to be—that's a good place to end it, Kelsey. You're an  
 **Translation:** 
 
-**[14703.20s] English:** time well to be or not to be that's a good place to end it Kelsey you're an  
+**[14710.88s] English:** Amazing human being; I'm really fortunate that you would spend your valuable time.  
 **Translation:** 
 
-**[14710.88s] English:** amazing human being I'm really fortunate that you would spend your valuable time  
+**[14715.86s] English:** With me, I as I said, you're so good at not just talking but listening, so I  
 **Translation:** 
 
-**[14715.86s] English:** with me I as I said you're so good at not just talking but listening so I  
+**[14723.44s] English:** Definitely will listen to your podcast because I can tell you're an incredible.  
 **Translation:** 
 
-**[14723.44s] English:** definitely will listen to your podcast because I can tell you're an incredible  
+**[14727.24s] English:** Person, as an interviewer, as an entrepreneur.  
 **Translation:** 
 
-**[14727.24s] English:** person as an interviewer as an entrepreneur as an entrepreneur as an  
-**Translation:** 
-
-**[14729.18s] English:** as a storyteller so again thank you for talking today thank you so much thanks  
+**[14729.18s] English:** As a storyteller, so again, thank you for talking today. Thank you so much! Thanks.  
 **Translation:** Vocabulary: entrepreneur: 企业家; storyteller: 讲故事的人
 
-**[14736.68s] English:** for listening to this conversation with Kelsey Sharon to support this podcast  
+**[14736.68s] English:** For listening to this conversation with Kelsey Sharon to support this podcast.  
 **Translation:** 
 
-**[14739.92s] English:** please check out our sponsors in the description and now let me leave you  
+**[14739.92s] English:** Please check out our sponsors in the description, and now let me leave you.  
 **Translation:** Vocabulary: sponsors: 赞助商
 
-**[14744.48s] English:** with some words from Herbert Hoover older men declare war but it is the youth  
+**[14744.48s] English:** With some words from Herbert Hoover: "Older men declare war, but it is the youth who pay the price.  
 **Translation:** 
 
-**[14750.78s] English:** that must fight and die thank you for listening and hope to see you next time  
-**Translation:** Vocabulary: hoover: 胡佛
-
-**[14759.18s] English:** you  
+**[14750.78s] English:** That must fight and die. Thank you for listening, and hope to see you next time.  
 **Translation:** 
 
-**[14760.00s] English:** Teksting av Nicolai Winther  
-**Translation:** Vocabulary: teksting: 文本测试
+**[14759.18s] English:** You.  
+**Translation:** 
+
+**[14760.00s] English:** Testing of Nicolai Winther  
+**Translation:** 
 
 
 <!-- TRANSCRIPTION_COMPLETE -->

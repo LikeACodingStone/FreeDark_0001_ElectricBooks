@@ -1,1922 +1,1932 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Kevin Spacey： Power, Controversy, Betrayal, Truth & Love in Film and Life ｜ Lex Fridman Podcast #432.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Это беседа с Кевином Спейси.  
+**[0.00s] English:** This is a conversation with Kevin Spacey.  
 **Translation:** 
 
-**[3.14s] English:** Двухкратным обладателем премии «Оскар»,  
-**Translation:** 
+**[3.14s] English:** Two-time Oscar winner,  
+**Translation:** Vocabulary: oscar: 奥斯卡; spacey: 斯派西
 
-**[5.40s] English:** снявшимся в фильмах «Семь», «Подозрительные лица»,  
+**[5.40s] English:** Shot in the films "Se7en," "The Suspect,  
 **Translation:** 
 
-**[8.22s] English:** «Красота по-американски» и «Карточный домик».  
+**[8.22s] English:** Beauty and the Beast" and "The Handmaid's Tale.  
 **Translation:** 
 
-**[11.24s] English:** Он один из величайших актеров,  
+**[11.24s] English:** He is one of the greatest actors,  
 **Translation:** 
 
-**[13.60s] English:** создающий запоминающиеся образы персонажей,  
+**[13.60s] English:** Creating memorable character images,  
 **Translation:** 
 
-**[16.84s] English:** часто воплощающих темную сторону человеческой натуры.  
+**[16.84s] English:** Often embodying the darker side of human nature.  
 **Translation:** 
 
-**[20.66s] English:** Семь лет назад его вырезали из сериала «Карточный домик»,  
-**Translation:** 
+**[20.66s] English:** Seven years ago, he was cut from the show "House of Cards),  
+**Translation:** Vocabulary: embodying: 体现
 
-**[23.68s] English:** а также отменили в Голливуде и мире,  
+**[23.68s] English:** Also, it was canceled in Hollywood and around the world.  
 **Translation:** 
 
-**[25.88s] English:** когда Энтони Рэпп заявил, что Кевин Спейси  
+**[25.88s] English:** When Anthony Ramos claimed that Kevin Spacey  
 **Translation:** 
 
-**[28.38s] English:** сексуально его домогался в 1986-м.  
+**[28.38s] English:** He sexually harassed him in 1986.  
 **Translation:** 
 
-**[32.52s] English:** Далее, Энтони Рэпп подал гражданский иск,  
-**Translation:** 
+**[32.52s] English:** Next, Anthony Rapp filed a civil lawsuit,  
+**Translation:** Vocabulary: harassed: 骚扰; lawsuit: 诉讼
 
-**[35.98s] English:** требуя 40 миллионов долларов.  
+**[35.98s] English:** Requiring 40 million dollars.  
 **Translation:** 
 
-**[38.86s] English:** В этом и всех последующих гражданских и уголовных процессах  
-**Translation:** 
+**[38.86s] English:** In this and all subsequent civil and criminal proceedings,  
+**Translation:** Vocabulary: proceedings: 诉讼程序
 
-**[43.84s] English:** Кевин был оправдан.  
+**[43.84s] English:** Kevin was acquitted.  
 **Translation:** 
 
-**[46.22s] English:** Он никогда не признавался виновным  
-**Translation:** 
+**[46.22s] English:** He never admitted guilt.  
+**Translation:** Vocabulary: acquitted: 宣判无罪
 
-**[48.40s] English:** и не привлекался к судебной ответственности.  
+**[48.40s] English:** And he was not held liable in any legal proceedings.  
 **Translation:** 
 
-**[52.24s] English:** В этой беседе Кевин ясно объясняет, что он делал  
-**Translation:** 
+**[52.24s] English:** In this conversation, Kevin clearly explains what he was doing.  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[55.54s] English:** и чего он не делал.  
+**[55.54s] English:** And what he didn't do.  
 **Translation:** 
 
-**[57.32s] English:** Я также рекомендую вам послушать интервью Кевина с Дэном Вуттоном  
+**[57.32s] English:** I also recommend that you listen to Kevin's interview with Dan Wootton.  
 **Translation:** 
 
-**[61.78s] English:** и Эллисон Пирсон для дополнительных подробностей  
+**[61.78s] English:** And Allison Pearson for additional details.  
 **Translation:** 
 
-**[65.32s] English:** и ответов на обвинения.  
-**Translation:** 
+**[65.32s] English:** And answers to the accusations.  
+**Translation:** Vocabulary: accusations: 指控
 
-**[68.68s] English:** В качестве отступления, позвольте сказать,  
+**[68.68s] English:** As a detour, let me say,  
 **Translation:** 
 
-**[71.56s] English:** что один из принципов, которым я руководствуюсь на этом подкасте и в жизни,  
+**[71.56s] English:** What one of the principles I follow on this podcast and in life is:  
 **Translation:** 
 
-**[76.38s] English:** это то, что я буду говорить с кем угодно,  
+**[76.38s] English:** This is what I will say to anyone.  
 **Translation:** 
 
-**[79.32s] English:** с эмпатией и с твердостью.  
-**Translation:** 
+**[79.32s] English:** With empathy and firmness.  
+**Translation:** Vocabulary: empathy: 共情; firmness: 坚定
 
-**[82.38s] English:** Я стремлюсь познать историю и дело всей жизни,  
+**[82.38s] English:** I strive to understand history and the matter of my entire life.  
 **Translation:** 
 
-**[85.64s] English:** а также что и как это происходит.  
-**Translation:** 
+**[85.64s] English:** As well as what and how it happens.  
+**Translation:** Vocabulary: strive: 努力
 
-**[87.32s] English:** Как думает каждый гость.  
+**[87.32s] English:** How does each guest think?  
 **Translation:** 
 
-**[89.14s] English:** И сделать это честно и всесторонне.  
-**Translation:** 
+**[89.14s] English:** To do this honestly and comprehensively.  
+**Translation:** Vocabulary: comprehensively: 全面地
 
-**[91.82s] English:** Хорошее, плохое и уродливое.  
+**[91.82s] English:** Good, bad, and ugly.  
 **Translation:** 
 
-**[94.04s] English:** Блеск и недостатки.  
-**Translation:** 
+**[94.04s] English:** Bliss and drawbacks.  
+**Translation:** Vocabulary: bliss: 幸福; drawbacks: 缺点
 
-**[96.78s] English:** Я не буду обелять их грехи,  
+**[96.78s] English:** I will not sanctify their sins,  
 **Translation:** 
 
-**[98.98s] English:** но также не буду сводить их к наихудшей карикатуре на их грехи.  
-**Translation:** 
+**[98.98s] English:** I also will not reduce them to the worst caricature of their sins.  
+**Translation:** Vocabulary: sanctify: 圣化
 
-**[105.12s] English:** Именно последнее порождается массовой истерией интернет-ботов,  
+**[105.12s] English:** Exactly last, that is generated by mass internet bot hysteria,  
 **Translation:** 
 
-**[108.86s] English:** которые заблаговременно выносят вердикт, зачастую при отсутствии фактов.  
-**Translation:** 
+**[108.86s] English:** Which ones issue verdicts in advance, often without facts.  
+**Translation:** Vocabulary: hysteria: 集体恐慌; verdicts: 判决
 
-**[113.24s] English:** Я постараюсь быть выше этого,  
+**[113.24s] English:** I will try to be above this,  
 **Translation:** 
 
-**[115.14s] English:** уважая правовой процесс.  
-**Translation:** 
+**[115.14s] English:** Respecting the legal process.  
+**Translation:** Vocabulary: respecting: 尊重
 
-**[117.32s] English:** В служении истине.  
+**[117.32s] English:** In the service of the truth.  
 **Translation:** 
 
-**[120.00s] English:** «Надеюсь, у меня хватит смелости мыслить независимо и говорить честно, от всего сердца,  
-**Translation:** 
+**[120.00s] English:** Hopefully, I will have the courage to think independently and speak honestly from my heart.  
+**Translation:** Vocabulary: independently: 独立地
 
-**[126.70s] English:** даже когда на меня направлен взор разъяренной толпы.  
+**[126.70s] English:** Even when the gaze of an enraged crowd is directed at me.  
 **Translation:** 
 
-**[131.00s] English:** Опять же, моя цель — понять людей в худших и лучших проявлениях.  
-**Translation:** 
+**[131.00s] English:** Again, my goal is to understand people in their worst and best manifestations.  
+**Translation:** Vocabulary: enraged: 愤怒; manifestations: 表现
 
-**[136.92s] English:** Надежда в том, что такое понимание породит больше сострадательности и мудрости в этом мире.  
+**[136.92s] English:** Hope lies in the fact that such understanding will generate more compassion and wisdom in this world.  
 **Translation:** 
 
-**[143.28s] English:** Я буду допускать ошибки.  
-**Translation:** 
+**[143.28s] English:** I will make mistakes.  
+**Translation:** Vocabulary: compassion: 同情
 
-**[145.32s] English:** И допуская их, я буду стараться совершенствоваться».  
+**[145.32s] English:** And by allowing them, I will strive to improve myself.  
 **Translation:** 
 
-**[150.88s] English:** Я люблю вас всех.  
+**[150.88s] English:** I love you all.  
 **Translation:** 
 
-**[154.18s] English:** Это подкаст Лекса Фридмана.  
+**[154.18s] English:** This is the Lex Fridman Podcast.  
 **Translation:** 
 
-**[156.42s] English:** Чтобы поддержать его, пожалуйста, ознакомьтесь с нашими спонсорами в описании.  
-**Translation:** 
+**[156.42s] English:** To support him, please check out our sponsors in the description.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[160.06s] English:** А теперь, дорогие друзья, Кевин Спейси.  
+**[160.06s] English:** Now, dear friends, Kevin Spacy.  
 **Translation:** 
 
-**[164.44s] English:** Вы сыграли серийного убийцу в фильме «Семь».  
-**Translation:** 
+**[164.44s] English:** You played the serial killer in the film "Se7en.  
+**Translation:** Vocabulary: serial: 连续的
 
-**[168.28s] English:** Это было одно из лучших, если не самое лучшее, воплощение убийцы на экране.  
+**[168.28s] English:** This was one of the best, if not the best, portrayals of a killer on screen.  
 **Translation:** 
 
-**[174.92s] English:** Каков был процесс становления Джоном Доу серийным убийцей?  
-**Translation:** 
+**[174.92s] English:** What was the process by which John Doe became a serial killer?  
+**Translation:** Vocabulary: portrayals: 表演
 
-**[179.96s] English:** Честно говоря, я не прошел кастинг.  
+**[179.96s] English:** Honestly, I didn't make it through the casting.  
 **Translation:** 
 
-**[184.40s] English:** Я был в Лос-Анджелесе, снимался в нескольких фильмах,  
-**Translation:** 
+**[184.40s] English:** I was in Los Angeles, where I filmed in a few movies.  
+**Translation:** Vocabulary: casting: 试镜
 
-**[188.92s] English:** среди акул и подозрительные вещи.  
+**[188.92s] English:** Among sharks and suspicious things.  
 **Translation:** 
 
-**[191.50s] English:** А потом снялся в фильме «Эпидемия».  
-**Translation:** 
+**[191.50s] English:** Then he starred in the film "Epidemic).  
+**Translation:** Vocabulary: epidemic: 流行病; sharks: 鲨鱼; suspicious: 可疑的
 
-**[195.26s] English:** Там еще был Морган Фримен.  
+**[195.26s] English:** There was also Morgan Freeman there.  
 **Translation:** 
 
-**[197.62s] English:** И я пошел на пробы к Дэвиду Финчеру,  
-**Translation:** 
+**[197.62s] English:** I went to auditions for David Fincher.  
+**Translation:** Vocabulary: auditions: 试镜; freeman: 摩根·弗里曼
 
-**[202.36s] English:** по-моему, в конце ноября 1994 года.  
+**[202.36s] English:** According to me, in late November 1994.  
 **Translation:** 
 
-**[209.08s] English:** Прошел прослушивание, но не получил роль.  
-**Translation:** 
+**[209.08s] English:** The audition was held, but I didn't get the role.  
+**Translation:** Vocabulary: audition: 试镜
 
-**[213.64s] English:** И вернулся в Нью-Йорк.  
+**[213.64s] English:** He returned to New York.  
 **Translation:** 
 
-**[215.80s] English:** Вроде как они начали съемки примерно двенадцатого декабря.  
+**[215.80s] English:** They started filming around December 12th.  
 **Translation:** 
 
-**[221.06s] English:** Я был в Нью-Йорке, вернулся в свою прекрасную квартиру на двенадцатой Вест стрит.  
+**[221.06s] English:** I was in New York, and returned to my beautiful apartment on West 12th Street.  
 **Translation:** 
 
-**[227.32s] English:** На Рождество приезжала моя мама.  
-**Translation:** 
+**[227.32s] English:** On Christmas, my mom came over.  
+**Translation:** Vocabulary: christmas: 圣诞节
 
-**[229.54s] English:** И вот уже 23 декабря на часах 7 вечера и вдруг звонит телефон.  
+**[229.54s] English:** Here it is, already 23 December at 7 p.m., and suddenly the phone rings.  
 **Translation:** 
 
-**[237.52s] English:** Это был «Одинокий день».  
+**[237.52s] English:** This was "A Lonely Day".  
 **Translation:** 
 
-**[238.52s] English:** Это был Арнольд Капельщик.  
+**[238.52s] English:** This was Arnold Kapelsky.  
 **Translation:** 
 
-**[240.00s] English:** Он очень дружелюбный и веселый.  
-**Translation:** 
+**[240.00s] English:** He is very friendly and cheerful.  
+**Translation:** Vocabulary: cheerful: 愉快
 
-**[246.32s] English:** Спрашивает, как дела?  
+**[246.32s] English:** Asks how things are going?  
 **Translation:** 
 
-**[247.94s] English:** Я отвечаю, прекрасно.  
+**[247.94s] English:** I answer, perfectly.  
 **Translation:** 
 
-**[249.70s] English:** А он, ты помнишь, ты приходил на кастинг фильма «Семь»?  
+**[249.70s] English:** He, you remember, you came to the casting for the film "Se7en"?  
 **Translation:** 
 
-**[252.30s] English:** Я отвечаю, да, конечно.  
+**[252.30s] English:** I answer, yes, of course.  
 **Translation:** 
 
-**[253.88s] English:** А он, ну, оказывается, мы наняли актера,  
+**[253.88s] English:** He, well, it turns out we hired an actor.  
 **Translation:** 
 
-**[258.44s] English:** начали съемки,  
+**[258.44s] English:** Began filming,  
 **Translation:** 
 
-**[259.90s] English:** а вчера Дэвид взял и уволил его.  
+**[259.90s] English:** David quit him yesterday.  
 **Translation:** 
 
-**[263.88s] English:** И он хотел бы, чтобы ты сел в воскресенье на самолет  
+**[263.88s] English:** He would like you to catch a plane on Sunday.  
 **Translation:** 
 
-**[267.08s] English:** и прилетел в Лос-Анджелес,  
+**[267.08s] English:** And he flew to Los Angeles,  
 **Translation:** 
 
-**[268.46s] English:** чтобы во вторник начать съемки.  
+**[268.46s] English:** To start filming on Tuesday.  
 **Translation:** 
 
-**[271.74s] English:** И я такой,  
+**[271.74s] English:** And I am such,  
 **Translation:** 
 
-**[273.82s] English:** хорошо.  
+**[273.82s] English:** Good.  
 **Translation:** 
 
-**[277.92s] English:** Будет ли навязчиво, если я попрошу перечитать сценарий,  
+**[277.92s] English:** Will it be pushy if I ask to re-read the script?  
 **Translation:** 
 
-**[281.36s] English:** потому что прошло много времени, и я бы хотел.  
-**Translation:** 
+**[281.36s] English:** Because a lot of time has passed, and I would like to.  
+**Translation:** Vocabulary: pushy: 唐突的
 
-**[285.30s] English:** В общем, они прислали сценарий.  
+**[285.30s] English:** In general, they sent a script.  
 **Translation:** 
 
-**[288.72s] English:** Я прочитал его тем же вечером.  
+**[288.72s] English:** I read it that same evening.  
 **Translation:** 
 
-**[292.14s] English:** Поразмыслил над ним.  
+**[292.14s] English:** Poredmymusedoverit.  
 **Translation:** 
 
-**[295.66s] English:** И у меня возникло такое чувство,  
-**Translation:** 
+**[295.66s] English:** And I had such a feeling,  
+**Translation:** Vocabulary: poredmymusedoverit: 仔细思考
 
-**[298.46s] English:** чувство, которое я даже не могу описать.  
+**[298.46s] English:** Feeling, which I even cannot describe.  
 **Translation:** 
 
-**[302.72s] English:** Но это было такое чувство, что будет очень хорошо,  
+**[302.72s] English:** But it was a feeling that everything would turn out very well,  
 **Translation:** 
 
-**[307.64s] English:** если мое имя  
+**[307.64s] English:** If my name  
 **Translation:** 
 
-**[309.52s] English:** не будет указано в титрах.  
+**[309.52s] English:** It will not be indicated in the credits.  
 **Translation:** 
 
-**[314.18s] English:** Причина этих ощущений была в том, что я знал,  
+**[314.18s] English:** The reason for these feelings was that I knew,  
 **Translation:** 
 
-**[316.78s] English:** что к моменту его выхода  
+**[316.78s] English:** What had been released by that point in time,  
 **Translation:** 
 
-**[318.58s] English:** он будет последним из трех фильмов,  
+**[318.58s] English:** He will be the last of the three films,  
 **Translation:** 
 
-**[320.66s] English:** в которых я только что снялся, четвертый.  
+**[320.66s] English:** In which I just starred in, fourth.  
 **Translation:** 
 
-**[323.58s] English:** И если любой из этих трех фильмов пробьется  
+**[323.58s] English:** If any of these three films breaks through,  
 **Translation:** 
 
-**[325.96s] English:** или будет успешным,  
+**[325.96s] English:** Or it will be successful,  
 **Translation:** 
 
-**[327.36s] English:** а в четвертом,  
+**[327.36s] English:** In the fourth,  
 **Translation:** 
 
-**[328.46s] English:** там будет Брэд Питт, Морган Фриман,  
-**Translation:** 
+**[328.46s] English:** There will be Brad Pitt, Morgan Freeman,  
+**Translation:** Vocabulary: freeman: 摩根·弗里曼
 
-**[330.52s] English:** Гвинет Пелтроу и Кевин Спейси,  
+**[330.52s] English:** Gwyneth Paltrow and Kevin Spacey,  
 **Translation:** 
 
-**[332.64s] English:** а в первые 25-30-40 минут  
+**[332.64s] English:** In the first 25-30-40 minutes,  
 **Translation:** 
 
-**[334.38s] English:** ты не появляешься на экране,  
+**[334.38s] English:** You don't appear on screen,  
 **Translation:** 
 
-**[336.30s] English:** люди догадаются, кого ты играешь.  
+**[336.30s] English:** People will guess who you are playing.  
 **Translation:** 
 
-**[338.70s] English:** В общем, чтобы люди не знали,  
+**[338.70s] English:** In general, to keep people in the dark,  
 **Translation:** 
 
-**[341.10s] English:** что в фильме вы играете  
+**[341.10s] English:** What role do you play in the movie?  
 **Translation:** 
 
-**[342.72s] English:** серийного убийцу,  
+**[342.72s] English:** A serial killer,  
 **Translation:** 
 
-**[344.62s] English:** а серийный убийца появляется лишь  
-**Translation:** 
+**[344.62s] English:** A serial killer appears only  
+**Translation:** Vocabulary: serial: 连续发生的
 
-**[346.60s] English:** в середине фильма.  
+**[346.60s] English:** In the middle of the movie.  
 **Translation:** 
 
-**[349.04s] English:** Да, довольно поздно.  
+**[349.04s] English:** Yes, quite late.  
 **Translation:** 
 
-**[350.28s] English:** Вступительные титры — это все равно, что  
+**[350.28s] English:** Transcript: Opening titles are essentially the same as  
 **Translation:** 
 
-**[352.40s] English:** постеры, обложки VHS-кассет и все такое,  
-**Translation:** 
+**[352.40s] English:** Posters, VHS box covers, and all that stuff.  
+**Translation:** Vocabulary: transcript: 字幕脚本
 
-**[355.40s] English:** и вас там попросту нет.  
+**[355.40s] English:** And you are simply not there.  
 **Translation:** 
 
-**[357.38s] English:** Да, нету.  
+**[357.38s] English:** No, there isn't.  
 **Translation:** 
 
-**[358.46s] English:** Синема сказали...  
+**[358.46s] English:** Cinema said...  
 **Translation:** 
 
-**[360.00s] English:** что я могу валить к херам,  
+**[360.00s] English:** What the hell can I keep going to hell with?  
 **Translation:** 
 
-**[362.40s] English:** и что они свободно могут использовать мое фото, мой образ, бла-бла.  
+**[362.40s] English:** And what they can freely use my photo, my image, blah-blah.  
 **Translation:** 
 
-**[367.04s] English:** И это вылилось в небольшие, я бы сказал, суточные обсуждения.  
+**[367.04s] English:** And this resulted in some daily, I would say, hour-long discussions.  
 **Translation:** 
 
-**[371.48s] English:** Но тут появился Финчер и сказал,  
+**[371.48s] English:** But then Fincher appeared and said,  
 **Translation:** 
 
-**[373.50s] English:** «Я думаю, это и вправду классная идея.  
+**[373.50s] English:** I think this is really a great idea.  
 **Translation:** 
 
-**[376.52s] English:** Компромисс нашли в том, что мое имя будет первым в титрах,  
+**[376.52s] English:** A compromise was found in that my name will be first in the credits,  
 **Translation:** 
 
-**[379.78s] English:** в конце фильма, когда они поползут по экрану».  
-**Translation:** 
+**[379.78s] English:** At the end of the movie, when they crawl across the screen".  
+**Translation:** Vocabulary: compromise: 妥协
 
-**[384.64s] English:** В общем, в то воскресенье я сел в самолет и полетел в Лос-Анджелес.  
+**[384.64s] English:** In general, on that Sunday I boarded a plane and flew to Los Angeles.  
 **Translation:** 
 
-**[388.70s] English:** Я приехал туда, где они снимали,  
+**[388.70s] English:** I went to where they were filming.  
 **Translation:** 
 
-**[392.34s] English:** зашел в кремерку, а там был Дэвид Финчер.  
+**[392.34s] English:** I went into the grocery store, where I found David Fincher.  
 **Translation:** 
 
-**[395.34s] English:** Мы обсудили, как мне себя вести, и как я должен выглядеть.  
-**Translation:** 
+**[395.34s] English:** We discussed how I should behave and how I should look.  
+**Translation:** Vocabulary: grocery: 杂货店
 
-**[400.86s] English:** В тот момент мои волосы были короткими,  
+**[400.86s] English:** At that moment, my hair was short.  
 **Translation:** 
 
-**[403.46s] English:** потому что в фильме «Эпидемия» я играл роль военного.  
-**Translation:** 
+**[403.46s] English:** Because in the movie "Epidemic," I played a military role.  
+**Translation:** Vocabulary: epidemic: 流行病
 
-**[407.72s] English:** Я просто взглянул на парикмахера и спросил,  
+**[407.72s] English:** I just looked at the barber and asked,  
 **Translation:** 
 
-**[411.36s] English:** «У вас есть бритва?»  
+**[411.36s] English:** Do you have a razor?  
 **Translation:** 
 
-**[412.74s] English:** И Финчер спрашивает, «Ты шутишь?»  
+**[412.74s] English:** Did Fincher ask, "Are you joking?  
 **Translation:** 
 
-**[415.78s] English:** Я отвечаю, «Нет».  
+**[415.78s] English:** I answer, "No.  
 **Translation:** 
 
-**[417.88s] English:** А он говорит,  
+**[417.88s] English:** He says,  
 **Translation:** 
 
-**[418.70s] English:** «Побреешься ты, побреюсь и я».  
+**[418.70s] English:** Shave yourself, I'll shave too.  
 **Translation:** 
 
-**[422.10s] English:** В общем, побрились мы оба.  
+**[422.10s] English:** In general, we both shaved.  
 **Translation:** 
 
-**[425.88s] English:** И потом, на следующий день начались съемки.  
-**Translation:** 
+**[425.88s] English:** Then, on the next day, the filming began.  
+**Translation:** Vocabulary: shaved: 刮胡子
 
-**[429.18s] English:** Так что,  
+**[429.18s] English:** So,  
 **Translation:** 
 
-**[431.18s] English:** мой затянутый ответ на твой вопрос таков.  
+**[431.18s] English:** My long-winded answer to your question is as follows.  
 **Translation:** 
 
-**[434.10s] English:** У меня особо не было времени подумать о том,  
+**[434.10s] English:** Without much time, I didn't have a chance to think about it.  
 **Translation:** 
 
-**[438.16s] English:** как выстроить этого персонажа.  
+**[438.16s] English:** How to build this character.  
 **Translation:** 
 
-**[441.86s] English:** Как по мне, так в конечном итоге Финчер смог просто блестяще...  
+**[441.86s] English:** As I see it, Finch ultimately managed to pull off something simply outstanding...  
 **Translation:** 
 
-**[448.70s] English:** ...и с таким ужасом подвести аудиторию к встрече с этим персонажем.  
-**Translation:** 
+**[448.70s] English:** ...and with such horror to lead the audience to meet this character.  
+**Translation:** Vocabulary: finch: 金丝雀
 
-**[457.66s] English:** Я думаю, что последняя, финальная сцена и предшествующая ей поездка на машине,  
+**[457.66s] English:** I think the last, final scene and the car ride preceding it,  
 **Translation:** 
 
-**[464.40s] English:** где в основном на вас держится разговор с Морганом Фрименом и Брадом Питтом,  
-**Translation:** 
+**[464.40s] English:** Where in the main does the conversation with Morgan Freeman and Brad Pitt hinge?  
+**Translation:** Vocabulary: freeman: 摩根·弗里曼; hinge: 关键; preceding: 前一的
 
-**[469.94s] English:** это одна из величайших сцен в истории кино.  
+**[469.94s] English:** This is one of the greatest scenes in the history of cinema.  
 **Translation:** 
 
-**[473.62s] English:** Люди, которые каким-то чудом не видели этот фильм,  
+**[473.62s] English:** People who, by some miracle, have not seen this film,  
 **Translation:** 
 
-**[476.44s] English:** в общем, там происходит пять убийств.  
+**[476.44s] English:** In general, there are five murders taking place there.  
 **Translation:** 
 
-**[478.70s] English:** Вдохновленные пятью из...  
+**[478.70s] English:** Inspired by five of...  
 **Translation:** 
 
-**[480.00s] English:** семи смертных грехов, а финальная сцена вдохновлена  
+**[480.00s] English:** Seven deadly sins, and the final scene is inspired by  
 **Translation:** 
 
-**[483.76s] English:** и представляет последние два смертных греха.  
-**Translation:** 
+**[483.76s] English:** And represents the last two mortal sins.  
+**Translation:** Vocabulary: mortal: 凡人
 
-**[487.78s] English:** И есть эта спокойная сдержанность персонажа в вашем исполнении,  
+**[487.78s] English:** There is also that calm restraint in the character's performance you bring to it,  
 **Translation:** 
 
-**[494.52s] English:** она просто ужасает.  
-**Translation:** 
+**[494.52s] English:** She simply horrifies.  
+**Translation:** Vocabulary: horrifies: 使惊恐; restraint: 克制
 
-**[496.04s] English:** Возможно, на контрасте с игрой Брэда Питта, которая тоже очень сильная,  
+**[496.04s] English:** Possibly in contrast to Brad Pitt's performance, which is also very strong,  
 **Translation:** 
 
-**[501.70s] English:** но именно на контрасте возникает тот ужас,  
-**Translation:** 
+**[501.70s] English:** But it is in the contrast that the horror arises.  
+**Translation:** Vocabulary: arises: 产生
 
-**[505.14s] English:** который ощущает зритель и который изъяждится на финальном твисте  
+**[505.14s] English:** Which one feels the audience and which will twist at the finale?  
 **Translation:** 
 
-**[510.54s] English:** или же финальном сюрпризе с этой знаменитой фразой Брэда Питта,  
+**[510.54s] English:** Or in the final surprise with that famous line from Brad Pitt,  
 **Translation:** 
 
-**[515.30s] English:** что в коробке, а там жена героя Брэда Питта, ее голова.  
+**[515.30s] English:** What's in the box, and there's Brad Pitt's hero's wife, her head.  
 **Translation:** 
 
-**[521.92s] English:** Да, я могу только лишь сказать тебе, что когда мы снимали эту сцену в машине,  
+**[521.92s] English:** Yes, I can only tell you that when we were filming this scene in the car,  
 **Translation:** 
 
-**[527.36s] English:** находясь при этом в пустыне,  
+**[527.36s] English:** While in the desert,  
 **Translation:** 
 
-**[530.80s] English:** в том месте, где были все эти электрические провода,  
+**[530.80s] English:** In that place where all those electrical wires were,  
 **Translation:** 
 
-**[533.78s] English:** да, Дэвид безусловно...  
+**[533.78s] English:** Yes, David undoubtedly...  
 **Translation:** 
 
-**[535.14s] English:** устанно повторял, меньше, делай меньше.  
-**Translation:** 
+**[535.14s] English:** He kept repeating, "do less, do it less.  
+**Translation:** Vocabulary: undoubtedly: 无疑
 
-**[541.42s] English:** И я просто пытался, помню, он не переставал повторять,  
+**[541.42s] English:** I just kept trying, as he wouldn't stop repeating,  
 **Translation:** 
 
-**[545.46s] English:** помни, контроль у тебя.  
+**[545.46s] English:** Remember, control is yours.  
 **Translation:** 
 
-**[549.88s] English:** Мол, ты собираешься победить,  
+**[549.88s] English:** Mol, you're going to win,  
 **Translation:** 
 
-**[553.22s] English:** и зная это, ты должен обрести непомерную уверенность.  
+**[553.22s] English:** And knowing this, you should gain unwarranted confidence.  
 **Translation:** 
 
-**[559.30s] English:** И я просто следовал этому указанию.  
+**[559.30s] English:** I simply followed this instruction.  
 **Translation:** 
 
-**[563.78s] English:** Я...  
+**[563.78s] English:** I...  
 **Translation:** 
 
-**[564.50s] English:** Я думаю, это тот тип фильма,  
+**[564.50s] English:** I think this is the type of movie,  
 **Translation:** 
 
-**[569.22s] English:** в котором очень много элементов  
+**[569.22s] English:** In which there are very many elements.  
 **Translation:** 
 
-**[571.26s] English:** работали с самого начала фильма,  
+**[571.26s] English:** Worked from the very beginning of the movie,  
 **Translation:** 
 
-**[575.68s] English:** в плане его стиля, в плане нагнетания ужаса,  
+**[575.68s] English:** In terms of his style, in terms of building horror,  
 **Translation:** 
 
-**[579.02s] English:** и в том, как он вызвал у аудитории ощущение,  
+**[579.02s] English:** And in how he elicited a sense of  
 **Translation:** 
 
-**[582.14s] English:** что этот человек один из самых страшных,  
-**Translation:** 
+**[582.14s] English:** That this person is one of the most terrifying,  
+**Translation:** Vocabulary: elicited: 诱发; terrifying: 恐怖的
 
-**[584.84s] English:** которых можно встретить.  
+**[584.84s] English:** Which can be encountered.  
 **Translation:** 
 
-**[588.58s] English:** Это позволило мне не делать слишком уж много.  
-**Translation:** 
+**[588.58s] English:** This allowed me not to do too much.  
+**Translation:** Vocabulary: encountered: 遇到
 
-**[593.62s] English:** Просто...  
+**[593.62s] English:** Just...  
 **Translation:** 
 
-**[594.38s] English:** что-то говорить, подразумевая это.  
-**Translation:** 
+**[594.38s] English:** Something to say, implying this.  
+**Translation:** Vocabulary: implying: 暗示
 
-**[598.56s] English:** А также я думаю, что это...  
+**[598.56s] English:** As well, I think that this...  
 **Translation:** 
 
-**[600.00s] English:** Это пример того, что делает трагедию такой сложной.  
+**[600.00s] English:** This is an example of what makes tragedy so complex.  
 **Translation:** 
 
-**[612.96s] English:** В смысле, знаете, зачастую трагедия – это действия людей,  
+**[612.96s] English:** In other words, you know, tragedy is often the result of people's actions.  
 **Translation:** 
 
-**[617.66s] English:** не обладающих всей полнотой информации и фактов.  
-**Translation:** 
+**[617.66s] English:** Not possessing all the fullness of information and facts.  
+**Translation:** Vocabulary: possessing: 拥有
 
-**[620.24s] English:** Ромео и Джульетта, у них не было фактов, они не знали то, что знаем мы, как зрители.  
+**[620.24s] English:** Romeo and Juliet, they had no facts; they didn't know what we, as viewers, know.  
 **Translation:** 
 
-**[625.72s] English:** И, в конце концов, неважно, персонаж Брэда Питта в итоге стреляет в Джона Доу или направляет пистолет на себя,  
-**Translation:** 
+**[625.72s] English:** In the end, it doesn't matter whether Brad Pitt's character ends up shooting John Doe or points the gun at himself,  
+**Translation:** Vocabulary: juliet: 朱丽叶; romeo: 罗密欧; viewers: 观众
 
-**[641.86s] English:** что, кстати, обсуждалось, в смысле, было несколько альтернативных концовок, которые обсуждались,  
+**[641.86s] English:** What's interesting, though, was that there were several alternative endings discussed.  
 **Translation:** 
 
-**[647.38s] English:** но в итоге ни одна не сводилась к идеальному завершению.  
-**Translation:** 
+**[647.38s] English:** In the end, none of them culminated in an ideal conclusion.  
+**Translation:** Vocabulary: culminated: 达到
 
-**[652.64s] English:** Это сложно, и это показывает,  
+**[652.64s] English:** This is difficult, and it shows,  
 **Translation:** 
 
-**[655.72s] English:** что в конце никто не выигрывает,  
+**[655.72s] English:** What at the end nobody wins,  
 **Translation:** 
 
-**[661.48s] English:** если вы действуете при неполноте информации.  
+**[661.48s] English:** If you act with incomplete information.  
 **Translation:** 
 
-**[666.06s] English:** Фраза «что-то говорить, подразумевая это».  
-**Translation:** 
+**[666.06s] English:** The phrase "что-то говорить, подразумevая это" translates to "to say something implying this.  
+**Translation:** Vocabulary: incomplete: 不完整的信息; translates: 翻译为
 
-**[669.42s] English:** Что значит «подразумевая это»?  
+**[669.42s] English:** What does "meaning this" mean?  
 **Translation:** 
 
-**[672.50s] English:** Подразумевая.  
+**[672.50s] English:** Assuming.  
 **Translation:** 
 
-**[675.66s] English:** Мне очень повезло, что меня режиссировал Финчер несколько раз.  
+**[675.66s] English:** I was very lucky to be directed by Fincher several times.  
 **Translation:** 
 
-**[683.78s] English:** И порою он сказал, что я не могу говорить, что я не могу говорить.  
-**Translation:** 
+**[683.78s] English:** He said at times, "I cannot speak, I cannot speak.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[685.72s] English:** И он мне говорил,  
+**[685.72s] English:** He told me,  
 **Translation:** 
 
-**[687.48s] English:** «Я не верю ничему, что вылетает у тебя изо рта.  
+**[687.48s] English:** I don't believe a word that comes out of your mouth.  
 **Translation:** 
 
-**[693.24s] English:** Может, попробуем еще раз?»  
+**[693.24s] English:** May we try one more time?  
 **Translation:** 
 
-**[696.72s] English:** И ты такой,  
+**[696.72s] English:** And you are such,  
 **Translation:** 
 
-**[698.14s] English:** «Да, хорошо, мы попробуем еще».  
+**[698.14s] English:** Yes, good, we will try again.  
 **Translation:** 
 
-**[702.82s] English:** И порою он делает дубль,  
+**[702.82s] English:** And sometimes he does a double.  
 **Translation:** 
 
-**[706.78s] English:** и ты присматриваешься, нет ли у него,  
+**[706.78s] English:** And you scrutinize him, to see if there is anything amiss.  
 **Translation:** 
 
-**[711.32s] English:** не добавил ли он для тебя какого-нибудь гения,  
-**Translation:** 
+**[711.32s] English:** Did he add any genius for you, by any chance?  
+**Translation:** Vocabulary: scrutinize: 仔细检查
 
-**[714.06s] English:** а он говорит,  
+**[714.06s] English:** He says,  
 **Translation:** 
 
-**[715.52s] English:** «И давай еще раз».  
+**[715.52s] English:** Let's do it one more time.  
 **Translation:** 
 
-**[716.96s] English:** И снова, «Давай еще раз, иногда я...»  
+**[716.96s] English:** Again, "Let's do it one more time, sometimes I...  
 **Translation:** 
 
-**[720.00s] English:** Я говорю это с полной скромностью.  
-**Translation:** 
+**[720.00s] English:** I say this with full humility.  
+**Translation:** Vocabulary: humility: 谦逊
 
-**[723.70s] English:** Он буквально пытается выбить из тебя актерскую игру.  
+**[723.70s] English:** He literally tries to get an acting performance out of you.  
 **Translation:** 
 
-**[727.80s] English:** И неустанно повторяет, еще раз, еще раз, еще раз, и не давая тебе никакой конкретики.  
+**[727.80s] English:** And he keeps repeating it, "once again," "one more time," "yet again," and giving you no specifics.  
 **Translation:** 
 
-**[735.96s] English:** Он систематически выбивает из тебя все твое притворство.  
+**[735.96s] English:** He systematically strips you of all your pretense.  
 **Translation:** 
 
-**[743.94s] English:** Ведь послушай, часто актеры, мы приходим на площадку, мы обдумываем сцену,  
-**Translation:** 
+**[743.94s] English:** Well, listen, often actors come to the set, we deliberate on the scene,  
+**Translation:** Vocabulary: deliberate: 仔细商讨; pretense: 假象; strips: 剥夺
 
-**[749.64s] English:** прорабатываем ее, вот у меня реквизит, я буду делать вот это,  
+**[749.64s] English:** We are working on it. Here is my requisites; I will be doing this.  
 **Translation:** 
 
-**[753.92s] English:** чуть ли не вот так заваривать чай, я буду делать вон то, вон с тем.  
-**Translation:** 
+**[753.92s] English:** Chut li ne voitak zavarivat' chai, ya budu delat' von to, von s tem.  
+**Translation:** Vocabulary: requisites: 必需品; zavarivat: 保证
 
-**[757.78s] English:** А Дэвид такой режиссер, который просто хочет, чтобы ты перестал добавлять весь этот мусор.  
+**[757.78s] English:** David is a director who just wants you to stop adding all this junk.  
 **Translation:** 
 
-**[764.26s] English:** И просто произнес свои слова, причем произнес быстро, и подразумевал их.  
+**[764.26s] English:** And he simply spoke his words, which he said quickly, and meant them.  
 **Translation:** 
 
-**[770.56s] English:** И это занимает время, чтобы достичь этого состояния.  
+**[770.56s] English:** And it takes time to achieve this state.  
 **Translation:** 
 
-**[774.32s] English:** Расскажу вам историю.  
+**[774.32s] English:** I will tell you a story.  
 **Translation:** 
 
-**[776.16s] English:** Она... я ее обожаю, потому что она в точности...  
+**[776.16s] English:** She... I adore her, because she is exactly...  
 **Translation:** 
 
-**[779.64s] English:** из этой же области.  
+**[779.64s] English:** From this same area.  
 **Translation:** 
 
-**[781.40s] English:** Первый фильм Джека Лемона назывался «Это должно случиться с вами».  
+**[781.40s] English:** The first film Jack Lemon starred in was called "This Had to Happen to You.  
 **Translation:** 
 
-**[785.90s] English:** Режиссера Джорджа Кьюкера.  
+**[785.90s] English:** Director George Cuker.  
 **Translation:** 
 
-**[787.70s] English:** И Джек рассказывает эту историю, и это была невероятно очаровательная история, которую он рассказывал.  
+**[787.70s] English:** And Jack tells this story, and it was an incredibly charming tale he told.  
 **Translation:** 
 
-**[793.20s] English:** Он рассказывает, и так я снимаюсь в этом фильме, и позвольте сказать вам, эта роль просто потрясающая.  
-**Translation:** 
+**[793.20s] English:** He tells me, and so I'm in this film, and let me tell you, this role is simply amazing.  
+**Translation:** Vocabulary: charming: 迷人的
 
-**[798.72s] English:** Мы снимаем сцену, это первый мой первый день, и потрясающая сцена, и он продолжает, вот первый дубль.  
+**[798.72s] English:** We are filming a scene, this is my first day, and it's a fantastic scene, and he keeps going, here's the first take.  
 **Translation:** 
 
-**[804.46s] English:** И Джордж Кьюкер подходит ко мне и говорит, Джек, я... да, а он говорит, давай сделаем еще разок.  
-**Translation:** 
+**[804.46s] English:** And George Cuiker approaches me and says, Jack, I... yeah, and he says, let's do it one more time.  
+**Translation:** Vocabulary: approaches: 走近
 
-**[809.64s] English:** Но в этот раз слишком не усердствую.  
+**[809.64s] English:** But this time, I'm not overexerting myself.  
 **Translation:** 
 
-**[811.92s] English:** А Джек спрашивает, не так усердно, как только что я делал?  
-**Translation:** 
+**[811.92s] English:** Does Jack ask not as earnestly as I just did?  
+**Translation:** Vocabulary: earnestly: 真诚地; overexerting: 过度劳累
 
-**[814.86s] English:** А он, да, не так усердно.  
+**[814.86s] English:** He, well, not so diligently.  
 **Translation:** 
 
-**[816.42s] English:** Он говорит, мы делаем еще дубль, думаю, что это оно, в смысле, все, пора по домам.  
-**Translation:** 
+**[816.42s] English:** He says, we're doing another take, I think this is it, in the sense that, everyone, let's head home.  
+**Translation:** Vocabulary: diligently: 勤奋地
 
-**[821.20s] English:** А Кьюкер подходит к нему и говорит, Джек, давай-ка еще разок, усердствуй чуть поменьше.  
+**[821.20s] English:** Cueker approaches him and says, "Jack, let's do it one more time, put a little less effort into it.  
 **Translation:** 
 
-**[826.78s] English:** А Джек говорит, поменьше, чем то, что я только что делал?  
+**[826.78s] English:** Does Jack mean less than what I just did?  
 **Translation:** 
 
-**[829.82s] English:** Он говорит, да, чуть поменьше, Джек, да, хорошо.  
+**[829.82s] English:** He says, yes, a little smaller, Jack, yes, good.  
 **Translation:** 
 
-**[832.54s] English:** Делается еще дубль, подходит Кьюкер, говорит, Джек, чуть-чуть поменьше.  
+**[832.54s] English:** Duble is being done, Cueker approaches, saying, "Jack, a little less.  
 **Translation:** 
 
-**[836.08s] English:** И Джек спрашивает, чуть-чуть поменьше, чем то, что было только что?  
+**[836.08s] English:** Does Jack ask for a little less than what was just mentioned?  
 **Translation:** 
 
-**[839.64s] English:** Че, да?  
+**[839.64s] English:** What, yeah?  
 **Translation:** 
 
-**[840.00s] English:** а он еще менее усердно, это будет уже не игра.  
+**[840.00s] English:** He is even less diligent about it, and this will no longer be a game.  
 **Translation:** 
 
-**[842.88s] English:** И Кьюк рассказал, именно, Джек, именно.  
-**Translation:** 
+**[842.88s] English:** And Cuek told Jack, exactly, precisely.  
+**Translation:** Vocabulary: diligent: 勤奋; precisely: 精确地
 
-**[846.82s] English:** Наверное, я полагаю, что вы говорите,  
+**[846.82s] English:** Probably, I assume that you are saying,  
 **Translation:** 
 
-**[849.58s] English:** это крайне сложно дойти до сути этого чуть меньше.  
+**[849.58s] English:** This is extremely difficult to get to the essence of this, just a little less.  
 **Translation:** 
 
-**[854.42s] English:** Потому что сила, если мы остановимся даже на фильме «Семь» ваших исполнений,  
+**[854.42s] English:** Because the power, if we even consider the film "Seven" among your performances,  
 **Translation:** 
 
-**[860.54s] English:** она в мельчайших тонкостях.  
+**[860.54s] English:** She is in the finest details.  
 **Translation:** 
 
-**[862.22s] English:** Когда вы говорите «разве ты не знал?»  
+**[862.22s] English:** When you say "didn't you know?  
 **Translation:** 
 
-**[864.68s] English:** и слегка поворачиваете голову.  
+**[864.68s] English:** And you slightly turn your head.  
 **Translation:** 
 
-**[866.80s] English:** И как бы чуть-чуть появляется небольшой проблеск улыбки на вашем лице.  
+**[866.80s] English:** And as if slightly, a small glimmer of a smile appears on your face.  
 **Translation:** 
 
-**[875.34s] English:** Это и есть тонкость, это и есть меньше.  
-**Translation:** 
+**[875.34s] English:** This is the subtlety, this is less.  
+**Translation:** Vocabulary: glimmer: 微光; subtlety: 微妙
 
-**[877.92s] English:** Я полагаю, этого трудно достичь.  
+**[877.92s] English:** I think it's difficult to achieve.  
 **Translation:** 
 
-**[880.02s] English:** Да.  
+**[880.02s] English:** Yes.  
 **Translation:** 
 
-**[880.96s] English:** И еще потому, что я так хорошо помню,  
+**[880.96s] English:** And also because I remember it so well,  
 **Translation:** 
 
-**[885.82s] English:** думаю, работу, которую проделал Брэд, а также и Морган в той сцене,  
+**[885.82s] English:** I think the work that Brad and Morgan put into that scene, as well as the work they did, deserves recognition.  
 **Translation:** 
 
-**[889.72s] English:** но работу, которую он должен был сделать, и какую взять планку.  
+**[889.72s] English:** But what work he should do and how high to set the bar.  
 **Translation:** 
 
-**[893.28s] English:** Помню, как мы репетировали с ним в небольшом отеле рядом с тем,  
-**Translation:** 
+**[893.28s] English:** I remember how we rehearsed with him in a small hotel near where,  
+**Translation:** Vocabulary: rehearsed: 排练
 
-**[896.80s] English:** местом, репетировали в ночь перед съемкой той самой сцены.  
+**[896.80s] English:** They rehearsed in the night before filming that very scene.  
 **Translation:** 
 
-**[901.72s] English:** И в смысле, это было просто невероятно наблюдать  
+**[901.72s] English:** In terms of that, it was simply incredible to observe.  
 **Translation:** 
 
-**[904.82s] English:** тот уровень эмоций, через которые он проходил.  
+**[904.82s] English:** That level of emotions, through which he passed.  
 **Translation:** 
 
-**[909.54s] English:** А потом и само решение того, что же мне делать.  
+**[909.54s] English:** Then there's even the decision of what to do.  
 **Translation:** 
 
-**[915.38s] English:** Ведь если я сделаю то, что он хочет, то он победит.  
+**[915.38s] English:** Because if I do what he wants, then he will win.  
 **Translation:** 
 
-**[918.10s] English:** Но если я не сделаю, то что же я за человек, что за муж?  
+**[918.10s] English:** But if I don't do it, what kind of person, what kind of man am I?  
 **Translation:** 
 
-**[922.58s] English:** Я думаю, что он проделал просто невероятную работу.  
+**[922.58s] English:** I think he has done simply incredible work.  
 **Translation:** 
 
-**[926.80s] English:** Как-то легко не реагировать на эту силу, которую он на меня выплескивал.  
+**[926.80s] English:** It was easy not to react to this force he was pouring on me.  
 **Translation:** 
 
-**[933.98s] English:** Я думаю, это была крайне исключительная сцена.  
+**[933.98s] English:** I think it was an exceptionally rare scene.  
 **Translation:** 
 
-**[939.30s] English:** Каково это, быть в той сцене?  
-**Translation:** 
+**[939.30s] English:** What is it like to be in that scene?  
+**Translation:** Vocabulary: exceptionally: 非常地
 
-**[941.66s] English:** Вы, Брэд Питт, Морган Фриман, и Брэд Питт заходят слишком далеко.  
+**[941.66s] English:** You, Brad Pitt, Morgan Freeman, and Brad Pitt are going too far.  
 **Translation:** 
 
-**[947.04s] English:** Попросту срывается и взвешивает эти чрезвычайно трудные моральные выборы, как вы говорите.  
-**Translation:** 
+**[947.04s] English:** Simply puts it off and weighs these extremely difficult moral choices, as you say.  
+**Translation:** Vocabulary: freeman: 弗里曼
 
-**[954.58s] English:** Но он кричит.  
+**[954.58s] English:** But he is shouting.  
 **Translation:** 
 
-**[955.56s] English:** В боли и мучении, пока вы...  
+**[955.56s] English:** In pain and suffering, while you...  
 **Translation:** 
 
-**[960.00s] English:** Едва улыбаетесь.  
+**[960.00s] English:** Eдва вы улыбаетесь.  
 **Translation:** 
 
-**[962.56s] English:** В сценарном плане и в плане того, что персонажи должны были сделать,  
+**[962.56s] English:** In the scenario plan and what the characters were supposed to do,  
 **Translation:** 
 
-**[966.04s] English:** это было невероятной кульминацией того, как этот персонаж  
+**[966.04s] English:** This was the incredible climax of how this character  
 **Translation:** 
 
-**[970.10s] English:** мог манипулировать, что он и делал.  
-**Translation:** 
+**[970.10s] English:** He could manipulate, which is exactly what he did.  
+**Translation:** Vocabulary: climax: 高潮; manipulate: 操控
 
-**[977.26s] English:** И в конце концов, преуспел.  
+**[977.26s] English:** In the end, he succeeded.  
 **Translation:** 
 
-**[982.38s] English:** Вы упомянули, что Финчер любит делать много дублей.  
-**Translation:** 
+**[982.38s] English:** You mentioned that Fincher likes to do many dubbing sessions.  
+**Translation:** Vocabulary: dubbing: 配音
 
-**[986.20s] English:** Это известная черта Дэвида Финчера.  
+**[986.20s] English:** This is a known characteristic of David Fincher.  
 **Translation:** 
 
-**[989.04s] English:** Друзья, каковы здесь плюсы и минусы?  
-**Translation:** 
+**[989.04s] English:** Friends, what are the pros and cons here?  
+**Translation:** Vocabulary: characteristic: 特点
 
-**[991.86s] English:** Я читал, что он делает какое-то безумное их количество,  
+**[991.86s] English:** I read that he does some kind of insane amount,  
 **Translation:** 
 
-**[996.78s] English:** в среднем от 25 до 65 дублей,  
-**Translation:** 
+**[996.78s] English:** On average, from 25 to 65 duplicates.  
+**Translation:** Vocabulary: duplicates: 复制件
 
-**[1000.80s] English:** а большинство режиссеров делает меньше 10.  
+**[1000.80s] English:** Most directors make less than $10 million.  
 **Translation:** 
 
-**[1004.02s] English:** Так что...  
+**[1004.02s] English:** So...  
 **Translation:** 
 
-**[1005.36s] English:** Все упирается в тайминг.  
+**[1005.36s] English:** All depends on the timing.  
 **Translation:** 
 
-**[1007.18s] English:** Иногда у него буквально есть секундомер,  
-**Translation:** 
+**[1007.18s] English:** Sometimes he literally has a stopwatch,  
+**Translation:** Vocabulary: stopwatch: 计时器; timing: 时机
 
-**[1009.44s] English:** и он засекает, сколько идет сцена.  
+**[1009.44s] English:** He times how long the scene is going.  
 **Translation:** 
 
-**[1011.84s] English:** А потом говорит,  
+**[1011.84s] English:** Then he says,  
 **Translation:** 
 
-**[1014.72s] English:** нужно убрать из этой сцены минуту.  
+**[1014.72s] English:** We need to remove a minute from this scene.  
 **Translation:** 
 
-**[1019.04s] English:** Минуту?  
+**[1019.04s] English:** Minute?  
 **Translation:** 
 
-**[1020.04s] English:** Да, минуту из этой сцены.  
+**[1020.04s] English:** Yes, a minute from this scene.  
 **Translation:** 
 
-**[1021.04s] English:** Хочу, чтобы все шло вот так.  
+**[1021.04s] English:** I want it to go like this.  
 **Translation:** 
 
-**[1023.04s] English:** Так что давайте нарастим темп.  
+**[1023.04s] English:** So let's pick up the pace.  
 **Translation:** 
 
-**[1025.04s] English:** Посмотрим, сможем ли мы убрать минуту.  
+**[1025.04s] English:** Let's see if we can remove a minute.  
 **Translation:** 
 
-**[1027.04s] English:** А зачем скорость?  
+**[1027.04s] English:** Why the speed?  
 **Translation:** 
 
-**[1029.04s] English:** Почему, по-вашему, ему так важна скорость?  
+**[1029.04s] English:** Why, in your opinion, is speed so important to him?  
 **Translation:** 
 
-**[1033.04s] English:** Думаю, потому что Финчер ненавидит излишества.  
+**[1033.04s] English:** I think it's because Fincher hates extravagance.  
 **Translation:** 
 
-**[1039.04s] English:** И он хочет, чтобы люди говорили так, как они говорят в жизни.  
-**Translation:** 
+**[1039.04s] English:** He wants people to speak as they do in life.  
+**Translation:** Vocabulary: extravagance: 奢侈
 
-**[1045.04s] English:** Ведь мы не делаем, что мы делаем.  
+**[1045.04s] English:** We don't do what we do.  
 **Translation:** 
 
-**[1050.04s] English:** Драматические паузы.  
-**Translation:** 
+**[1050.04s] English:** Dramatic pauses.  
+**Translation:** Vocabulary: pauses: 停顿
 
-**[1051.04s] English:** Да, точно.  
+**[1051.04s] English:** Yes, definitely.  
 **Translation:** 
 
-**[1052.04s] English:** Готовясь сказать, мы говорим то, что собирались.  
+**[1052.04s] English:** Preparing to say it, we say what we intended to say.  
 **Translation:** 
 
-**[1054.04s] English:** Мы...  
+**[1054.04s] English:** We...  
 **Translation:** 
 
-**[1055.04s] English:** Полагаю, актерам нравятся драматические паузы,  
+**[1055.04s] English:** I believe actors enjoy dramatic pauses.  
 **Translation:** 
 
-**[1058.04s] English:** и они вкушают драматические паузы.  
+**[1058.04s] English:** And they savor dramatic pauses.  
 **Translation:** 
 
-**[1060.04s] English:** Нам они не всегда нравились.  
-**Translation:** 
+**[1060.04s] English:** We didn't always like them.  
+**Translation:** Vocabulary: savor: 品味
 
-**[1062.04s] English:** Послушайте, вот если вернуться в любой студент театрального,  
+**[1062.04s] English:** Listen, if we go back to any drama student,  
 **Translation:** 
 
-**[1066.04s] English:** в тридцатые, сороковые, пятидесятые,  
+**[1066.04s] English:** In the 1930s, 1940s, and 1950s,  
 **Translation:** 
 
-**[1071.04s] English:** та скорость, с которой говорили актеры,  
+**[1071.04s] English:** The speed at which the actors spoke,  
 **Translation:** 
 
-**[1075.04s] English:** не только в комедиях, которые, конечно же, беря любой фильм пресс-фильма,  
-**Translation:** 
+**[1075.04s] English:** Not only in comedies, which, of course, taking any press film,  
+**Translation:** Vocabulary: comedies: 喜剧电影
 
-**[1078.04s] English:** даже беря любой фильм пресс-фильма,  
+**[1078.04s] English:** Even taking any press film,  
 **Translation:** 
 
-**[1080.00s] English:** Просто невероятно, как быстро люди говорят, и насколько, насколько это смешно, когда что-то происходит быстро.  
+**[1080.00s] English:** Simply incredible how quickly people talk, and how funny it is when something happens quickly.  
 **Translation:** 
 
-**[1088.72s] English:** Но потом, знаете, стили актерской игры изменились, мы перешли к совсем другому, в конце 50-х и 60-х, и знаете, многие актеры это чувствуют.  
+**[1088.72s] English:** But then, you know, the styles of acting changed, and we moved to something completely different by the end of the 1950s and 1960s, and many actors feel that way.  
 **Translation:** 
 
-**[1098.00s] English:** Многие актеры это чувствуют, чтобы, как бы, я не говорю, что это плохо, просто это, если вы хотите удержать внимание аудитории, как это делает Финчер, и как я считаю, делает это успешно во всех своих работах.  
-**Translation:** 
+**[1098.00s] English:** Many actors feel this way, as if I'm not saying it's bad, but just that if you want to hold an audience's attention, like Fincher does, and as I consider he successfully does in all his works.  
+**Translation:** Vocabulary: fincher: 芬奇勒
 
-**[1118.16s] English:** Ритм, тайминг, движение, ясность, скорость, все это достойно восхищения.  
+**[1118.16s] English:** Rhythm, timing, movement, clarity, speed—all of this is worthy of admiration.  
 **Translation:** 
 
-**[1128.00s] English:** Благодаря этому он хочет, чтобы актер был как можно более естественен, чтобы убрать всю чепуху актерской игры и показать человека.  
-**Translation:** 
+**[1128.00s] English:** Thanks to this, he wants the actor to be as natural as possible, to remove all the pretense of acting and show a person.  
+**Translation:** Vocabulary: admiration: 敬佩; clarity: 清晰; pretense: 做作; timing: 节奏
 
-**[1139.14s] English:** Мне везло и с другими режиссерами, Сэм Мендес тоже такой.  
+**[1139.14s] English:** I've been lucky with other directors as well; Sam Mendes is also like that.  
 **Translation:** 
 
-**[1143.28s] English:** Я помню, как я пришел, наверное, на первую репетицию Ричарда Третьего, которую мы провозили, и я принес с собой целую кучу всяких недугов, от которых должен был страдать мой Ричард.  
-**Translation:** 
+**[1143.28s] English:** I remember coming to the first rehearsal of Richard III that we were putting on, and I brought with me a whole bunch of ailments that my Richard was supposed to suffer from.  
+**Translation:** Vocabulary: ailments: 疾病; rehearsal: 彩排
 
-**[1157.40s] English:** И знаешь, Сэм...  
+**[1157.40s] English:** Do you know, Sam...  
 **Translation:** 
 
-**[1158.00s] English:** Сэм, в конце концов, сократил их до трех.  
+**[1158.00s] English:** Sam, in the end, reduced them to three.  
 **Translation:** 
 
-**[1162.04s] English:** Это может быть твоя рука, может быть что-то вон там, ну и твоя нога, но давай избавимся от остальных десяти, которые ты притащил с собой, потому что, знаешь, я был так взволнован шансом воплотить этого персонажа, так что, знаешь, очень часто...  
+**[1162.04s] English:** This could be your hand, or something over there, and your foot, but let's get rid of the other ten you brought with you because, you know, I was so excited about the chance to play this character, so, you know, very often...  
 **Translation:** 
 
-**[1177.68s] English:** Тревор Нанн, кстати, тоже.  
+**[1177.68s] English:** Trevor Nunn, by the way, also is.  
 **Translation:** 
 
-**[1179.20s] English:** Много отличных режиссеров, с которыми я работал, они действительно хороши в том, чтобы помочь себе подрезать и отредактировать.  
+**[1179.20s] English:** Many excellent directors that I have worked with are really good at helping themselves trim and edit.  
 **Translation:** 
 
-**[1186.20s] English:** Дэвид Финчер сказала...  
-**Translation:** 
+**[1186.20s] English:** David Fincher said...  
+**Translation:** Vocabulary: fincher: 芬奇
 
-**[1188.00s] English:** Думаю, он говорил в общих чертах, но также была и конкретика, когда шел карточный домик.  
+**[1188.00s] English:** I think he spoke in general terms, but there was also specifics when the card house was being built.  
 **Translation:** 
 
-**[1194.44s] English:** Что вы обладаете исключительным мастерством как актер и как исполнитель.  
-**Translation:** 
+**[1194.44s] English:** What you possess is exceptional skill as an actor and as an executer.  
+**Translation:** Vocabulary: exceptional: 卓越的; executer: 执行者
 
-**[1200.00s] English:** что, по его словам, разные вещи.  
+**[1200.00s] English:** What he said are different things.  
 **Translation:** 
 
-**[1202.90s] English:** Итак, он определяет первое как драматизацию текста,  
-**Translation:** 
+**[1202.90s] English:** So he defines the first as a dramatization of the text,  
+**Translation:** Vocabulary: dramatization: 戏剧化
 
-**[1206.18s] English:** а второе как соблазнение аудитории.  
+**[1206.18s] English:** The second one is seducing the audience.  
 **Translation:** 
 
-**[1209.70s] English:** Видится ли вам мудрость в этом различии,  
-**Translation:** 
+**[1209.70s] English:** Does it seem wise to you in this difference,  
+**Translation:** Vocabulary: seducing: 诱惑观众
 
-**[1214.48s] English:** и что нужно, чтобы делать и то, и другое,  
+**[1214.48s] English:** And what is needed to do both, and another thing?  
 **Translation:** 
 
-**[1217.12s] English:** драматизировать текст и соблазнять аудиторию?  
-**Translation:** 
+**[1217.12s] English:** To dramatize the text and tempt the audience?  
+**Translation:** Vocabulary: dramatize: 戏剧化
 
-**[1220.80s] English:** Это два очень интересных описания.  
+**[1220.80s] English:** This is two very interesting descriptions.  
 **Translation:** 
 
-**[1224.88s] English:** Я думаю, полагаю, когда я думаю об исполнении,  
+**[1224.88s] English:** I think, when I consider performance,  
 **Translation:** 
 
-**[1227.82s] English:** я склонен думать о развлечении,  
+**[1227.82s] English:** I am inclined to think of entertainment,  
 **Translation:** 
 
-**[1232.74s] English:** склонен думать о комедии,  
-**Translation:** 
+**[1232.74s] English:** I am inclined to think of comedy,  
+**Translation:** Vocabulary: inclined: 倾向于
 
-**[1235.86s] English:** думать о завоевании аудитории,  
+**[1235.86s] English:** Thinking about conquering an audience,  
 **Translation:** 
 
-**[1237.48s] English:** склонен думать, что в этом есть что-то,  
-**Translation:** 
+**[1237.48s] English:** I am inclined to think that there is something,  
+**Translation:** Vocabulary: conquering: 征服
 
-**[1244.18s] English:** какое-то особое желание доставить людям удовольствие.  
+**[1244.18s] English:** Some sort of special desire to please people.  
 **Translation:** 
 
-**[1250.82s] English:** И когда вы сравниваете это с тем,  
+**[1250.82s] English:** When you compare this with that,  
 **Translation:** 
 
-**[1255.24s] English:** что он, возможно, имеет в виду, говоря,  
+**[1255.24s] English:** What he might mean when he says,  
 **Translation:** 
 
-**[1257.82s] English:** что я актер, что значит больше драматизма текстоцентричности.  
+**[1257.82s] English:** That I am an actor means more dramatic text-centeredness.  
 **Translation:** 
 
-**[1266.10s] English:** Смотрите, я всегда считал, что моя работа,  
+**[1266.10s] English:** Watch this: I always believed that my work,  
 **Translation:** 
 
-**[1271.46s] English:** не каждый актер так думает,  
+**[1271.46s] English:** Not every actor thinks so.  
 **Translation:** 
 
-**[1273.18s] English:** но моя работа, как я это вижу,  
+**[1273.18s] English:** But my work, as I see it,  
 **Translation:** 
 
-**[1275.26s] English:** моя работа — служить написанному.  
+**[1275.26s] English:** My work is to serve the written word.  
 **Translation:** 
 
-**[1279.74s] English:** И если я служу написанному, то я,  
+**[1279.74s] English:** If I serve what is written, then I,  
 **Translation:** 
 
-**[1281.82s] English:** в каком-то смысле, служу себе,  
+**[1281.82s] English:** In some sense, I serve myself,  
 **Translation:** 
 
-**[1285.74s] English:** потому что я буду в правильном мире,  
+**[1285.74s] English:** Because I will be in the right world.  
 **Translation:** 
 
-**[1287.82s] English:** я буду в правильном контексте,  
+**[1287.82s] English:** I will be in the right context,  
 **Translation:** 
 
-**[1289.42s] English:** я буду в правильном стиле,  
+**[1289.42s] English:** I will be in the right style.  
 **Translation:** 
 
-**[1290.82s] English:** я приму то, что задумал режиссер.  
+**[1290.82s] English:** I will accept what the director has planned.  
 **Translation:** 
 
-**[1293.82s] English:** Знаете, это не мой холст,  
+**[1293.82s] English:** Know that this is not my canvas,  
 **Translation:** 
 
-**[1295.82s] English:** это холст кого-то другого.  
-**Translation:** 
+**[1295.82s] English:** This is someone else's canvas.  
+**Translation:** Vocabulary: canvas: 画布
 
-**[1297.82s] English:** Я — набор красок на холсте кого-то другого.  
+**[1297.82s] English:** I am a set of paints on someone else's canvas.  
 **Translation:** 
 
-**[1300.82s] English:** И для меня всегда было показателем, что,  
+**[1300.82s] English:** For me, it has always been a sign that,  
 **Translation:** 
 
-**[1303.82s] English:** когда люди останавливают меня  
+**[1303.82s] English:** When people stop me,  
 **Translation:** 
 
-**[1306.82s] English:** и говорят со мной о персонаже, которого я играл,  
+**[1306.82s] English:** And they talk to me about the character I played,  
 **Translation:** 
 
-**[1311.82s] English:** и ссылаются на его имя, как будто они реально существуют,  
+**[1311.82s] English:** And they refer to his name as if he really exists,  
 **Translation:** 
 
-**[1315.82s] English:** как будто они реально существуют.  
+**[1315.82s] English:** It is as if they really exist.  
 **Translation:** 
 
-**[1318.82s] English:** Вот тогда я чувствую состояние 그걸 mundo  
+**[1318.82s] English:** Here, then, I feel the state of 그걸 mundo.  
 **Translation:** 
 
-**[1320.82s] English:** все-равное защищает.  
-**Translation:** 
+**[1320.00s] English:** What has approached completion of its task, but one of the problems for me in this conversation is remembering.  
+**Translation:** Vocabulary: approached: 接近; completion: 完成
 
-**[1320.00s] English:** что приблизился к выполнению своей работы да одна из проблем для меня в этом разговоре это помнить  
+**[1320.82s] English:** It still protects.  
 **Translation:** 
 
-**[1327.44s] English:** что вас зовут кевин они фрэнк или джон или какой-нибудь другой персонаж ведь они засели  
-**Translation:** 
+**[1327.44s] English:** What do you call yourself? Kevin, Frank, John, or some other character? They must have settled on one.  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[1336.80s] English:** глубоко в психике для меня это наивысший это наивысший комплимент как для актера  
+**[1336.80s] English:** Deeply in my psyche, for me, this is the highest, this highest compliment as an actor.  
 **Translation:** 
 
-**[1346.22s] English:** мне нравится быть способным на такое в смысле когда я думаю об исполнителя которые меня  
-**Translation:** 
+**[1346.22s] English:** It's nice to be able to do such things in terms of when I think about performers who impress me.  
+**Translation:** Vocabulary: psyche: 心理
 
-**[1355.72s] English:** вдохновляют и я помню когда был молод и меня познакомили со спенсером трейси генри фонды  
+**[1355.72s] English:** Inspire me, and I remember when I was young and met Spencer Tracy at Henry Fonda's.  
 **Translation:** 
 
-**[1365.06s] English:** кэтрин хаббер я верил в их образы я ничего о них не знал они были просто необыкновенными  
-**Translation:** 
+**[1365.06s] English:** Kathryn Hubber, I believed in their images. I knew nothing about them; they were simply extraordinary.  
+**Translation:** Vocabulary: kathryn: 凯瑟琳; tracy: 斯宾塞
 
-**[1371.72s] English:** персонажами делающими необыкновенные вещи и затем я думаю бы  
+**[1371.72s] English:** Characters doing extraordinary things, and then I think we would  
 **Translation:** 
 
-**[1376.22s] English:** о современном времени когда и размышляю о работе которые делали филипп сеймур хоффман и хит  
-**Translation:** 
+**[1376.22s] English:** Of modern times, when I reflect on the work Philip Seymour Hoffman and Heath did.  
+**Translation:** Vocabulary: heath: 霍夫曼; hoffman: 霍夫曼; seymour: 西摩
 
-**[1386.78s] English:** леджер и люди которые которых я представляю чтобы они могли делать чтобы они сделали если бы остались  
+**[1386.78s] English:** Ledger and the people whom I represent so that they could do what they would have done if they had stayed.  
 **Translation:** 
 
-**[1395.04s] English:** с нами меня наполняет радость когда иду в кино или на спектакль и полностью погружаюсь в то  
-**Translation:** 
+**[1395.04s] English:** With us, I feel joy when going to the movies or theater and fully immerse myself in it.  
+**Translation:** Vocabulary: immerse: 全身心投入; ledger: 账簿
 
-**[1406.22s] English:** место которое я верю что существует и где персонажи  
+**[1406.22s] English:** The place which I believe exists and where the characters  
 **Translation:** 
 
-**[1410.96s] English:** становятся реальными и эти персонажи становятся спутниками на всю жизнь как  
+**[1410.96s] English:** Become real, and these characters become lifelong companions.  
 **Translation:** 
 
-**[1417.22s] English:** по мне так они постоянно с нами и даже если это самые темные стороны  
+**[1417.22s] English:** According to me, they are constantly with us, and even if it's the darkest sides.  
 **Translation:** 
 
-**[1421.46s] English:** человеческой натуры они всегда там почти что как я чувствую как почти повстречал  
-**Translation:** 
+**[1421.46s] English:** Of human nature, they are always there almost as I feel, almost like I've encountered.  
+**Translation:** Vocabulary: encountered: 遇到
 
-**[1426.80s] English:** их узнал их практически стал друзьями с ними ганнибал лектор или же форест гамп в смысле  
+**[1426.80s] English:** He recognized them; they almost became friends with him. Gannibal Lecter, or rather Forrest Gump in a sense.  
 **Translation:** 
 
-**[1436.22s] English:** кажется что я и форест гамп лучшие друзья я знаю  
-**Translation:** 
+**[1436.22s] English:** It seems that Forrest Gump and I are the best friends, I know.  
+**Translation:** Vocabulary: forrest: 森林
 
-**[1440.00s] English:** парня может его и играет какой-то парень по имени том но форест гамп это тот с  
+**[1440.00s] English:** The boy plays a game, but it's some other guy named Tom. But Forrest Gump is the one we're talking about, right?  
 **Translation:** 
 
-**[1444.62s] English:** кем я дружу да да и я думаю у всех зрителей возникает такое чувство к  
-**Translation:** 
+**[1444.62s] English:** What friends do I have? Yes, yes, and I think all viewers feel such a sense of camaraderie, too.  
+**Translation:** Vocabulary: camaraderie: 同伴情谊; viewers: 观众
 
-**[1450.26s] English:** великим персонажем они в каком-то смысле становятся частью тебя хорошее плохое и  
+**[1450.26s] English:** Great characters, in some sense, become part of you, good and bad.  
 **Translation:** 
 
-**[1456.00s] English:** уродливая в них одна из вещей которую я считаю что стараюсь делать в своей  
+**[1456.00s] English:** Ugly, one of the things I consider and try to do in my  
 **Translation:** 
 
-**[1462.80s] English:** работе это когда я читаю что-то впервые когда  
+**[1462.80s] English:** Work is when I read something for the first time when  
 **Translation:** 
 
-**[1468.32s] English:** читаю сценарий или пьесу  
+**[1468.32s] English:** I am reading a script or play.  
 **Translation:** 
 
-**[1472.32s] English:** и я абсолютно опустошён этим это самое необыкновенное самое красивое  
+**[1472.32s] English:** And I am absolutely drained by this, this most extraordinary, most beautiful.  
 **Translation:** 
 
-**[1479.98s] English:** самое жизнеутверждающее или же пугающе  
-**Translation:** 
+**[1479.98s] English:** The most life-affirming or frightening  
+**Translation:** Vocabulary: drained: 精疲力尽
 
-**[1485.98s] English:** это странный процесс работы в обратном направлении потому что я  
+**[1485.98s] English:** This is a strange process of working in reverse because I  
 **Translation:** 
 
-**[1492.00s] English:** хочу работать так чтобы это был опыт который я даю зрителям впервые это  
+**[1492.00s] English:** I want to work in a way that this is an experience I'm giving the viewers for the first time.  
 **Translation:** 
 
-**[1498.26s] English:** видевшим чтобы у них возник тот же опыт как у меня при чтении я помню что были моменты в  
+**[1498.26s] English:** I saw that they had the same experience as I did when reading. I remember there were moments in  
 **Translation:** 
 
-**[1505.10s] English:** творческом процессе когда когда мне на что-то указывали что-то было я помню я ставил пьесу и  
+**[1505.10s] English:** In the creative process, when someone pointed something out to me that I had done in a play I was staging, I remember it well.  
 **Translation:** 
 
-**[1513.02s] English:** я переживал трудные времена в одной из последних сцен пьесы и я просто не мог понять а я был на  
+**[1513.02s] English:** I was going through tough times in one of the last scenes of the play, and I just couldn't understand. I was on  
 **Translation:** 
 
-**[1520.34s] English:** репетиции хотя у нас и был режиссер в этой пьесе на я позвал другого моего друга тоже режиссера  
-**Translation:** 
+**[1520.34s] English:** Rehearsals, although we had a director for this play, I called another one of my friends who is also a director.  
+**Translation:** Vocabulary: rehearsals: 排练
 
-**[1526.38s] English:** попросил его прийти я сказал смотри вот сцена и у меня с ней самые большие трудности я никак  
+**[1526.38s] English:** I asked him to come and look at this scene, and I'm having the biggest difficulties with it.  
 **Translation:** 
 
-**[1531.72s] English:** не могу разобраться с этой сцены и так мы прочитали и несколько раз а потом этот замечательный режиссер  
+**[1531.72s] English:** I cannot figure out this scene, and we have read it several times and then this wonderful director  
 **Translation:** 
 
-**[1537.60s] English:** по имени джонсон бег который в итоге снимет меня в большом сделке но это было до того он сказал мне  
+**[1537.60s] English:** By the name of Johnson, the bet which in the end will take me down in the big deal, but this was before he told me.  
 **Translation:** 
 
-**[1545.16s] English:** кое-что невероятное он просто сказал хорошо какая у тебя последняя реплика в этой сцене перед тем  
+**[1545.16s] English:** Something incredible, he just said, "How's your last line in this scene before that?  
 **Translation:** 
 
-**[1551.18s] English:** как ты упадешь и заснешь и ответил последняя реплика последняя стопка уносится  
+**[1551.18s] English:** How you will fall and sleep, and the last reply is carried away.  
 **Translation:** 
 
-**[1556.36s] English:** в аут и он сказал ладно  
+**[1556.36s] English:** In out, and he said, "Okay.  
 **Translation:** 
 
-**[1560.00s] English:** «Я хочу, чтобы ты подумал, что эта реплика на самом деле означает...»  
+**[1560.00s] English:** Je voudrais que tu penses à ce que cette réplique signifie en réalité...  
 **Translation:** 
 
-**[1566.48s] English:** И поработал в обратном направлении.  
-**Translation:** 
+**[1566.48s] English:** He worked in the opposite direction.  
+**Translation:** Vocabulary: voudrais: 想要
 
-**[1570.18s] English:** И он ушел, и я как бы остался с этим.  
+**[1570.18s] English:** He left, and I was left with this.  
 **Translation:** 
 
-**[1573.46s] English:** «Что? Что это значит? Как я должен...»  
+**[1573.46s] English:** What? What does this mean? How am I supposed to...  
 **Translation:** 
 
-**[1577.92s] English:** Потом прошло несколько дней, и несколько дней прошло, и я стал думать,  
+**[1577.92s] English:** Then a few days passed, and several days went by, and I began to think,  
 **Translation:** 
 
-**[1581.14s] English:** «Ладно, я понял, а что реально означает эта реплика? Последняя стопка уносит в аут.  
-**Translation:** 
+**[1581.14s] English:** Okay, I get it, but what does that line really mean? 'The last inning sends you out一起翻译并保持原意。  
+**Translation:** Vocabulary: inning: 局
 
-**[1587.38s] English:** Уносит в аут.  
+**[1587.38s] English:** Takes it out.  
 **Translation:** 
 
-**[1588.38s] English:** Это значит в нокаут, а это боксерский термин.  
-**Translation:** 
+**[1588.38s] English:** This means a knockout, which is a boxing term.  
+**Translation:** Vocabulary: knockout: 击倒
 
-**[1595.30s] English:** Это единственный боксерский термин, который использует автор пьесы».  
+**[1595.30s] English:** This is the only boxing term that the playwright uses.  
 **Translation:** 
 
-**[1600.22s] English:** И затем я вернулся назад, и осознал, что мой друг был так умен и так невероятен, что сказал,  
-**Translation:** 
+**[1600.22s] English:** Then I went back and realized that my friend was so clever and incredible, that he said,  
+**Translation:** Vocabulary: playwright: 戏剧作家
 
-**[1608.46s] English:** «Задай вопрос, который ты пока не думал задавать».  
+**[1608.46s] English:** Ask a question that you haven't thought about asking yet.  
 **Translation:** 
 
-**[1611.72s] English:** Я осознал, что драматург написал последний акт,  
-**Translation:** 
+**[1611.72s] English:** I realized that the dramatist had written the last act,  
+**Translation:** Vocabulary: dramatist: 戏剧作家
 
-**[1614.38s] English:** как последний восьмой раунд между этими двумя братьями,  
+**[1614.38s] English:** As the last eighth round between these two brothers,  
 **Translation:** 
 
-**[1618.00s] English:** и это было...»  
-**Translation:** 
+**[1618.00s] English:** And this was...  
+**Translation:** Vocabulary: eighth: 第八
 
-**[1618.38s] English:** Это была борьба.  
+**[1618.38s] English:** This was a struggle.  
 **Translation:** 
 
-**[1620.12s] English:** Как физическая, так и эмоциональная.  
+**[1620.12s] English:** Both physically and emotionally.  
 **Translation:** 
 
-**[1622.40s] English:** Когда я пришел с этим в репетиционный зал к режиссеру этой пьесы, ему понравилась эта идея.  
+**[1622.40s] English:** When I brought this idea to the rehearsal room to the director of this play, he liked it.  
 **Translation:** 
 
-**[1627.86s] English:** И мы поставили эту сцену, как будто это был восьмой раунд.  
-**Translation:** 
+**[1627.86s] English:** We set up this scene as if it were the eighth round.  
+**Translation:** Vocabulary: rehearsal: 排练
 
-**[1631.38s] English:** Хотя зрители об этом не догадались бы.  
+**[1631.38s] English:** Although the audience wouldn't have guessed it.  
 **Translation:** 
 
-**[1634.60s] English:** Но что мне в этом понравилось, так это то, что кто-то сказал мне,  
+**[1634.60s] English:** But what I liked about this was that someone told me,  
 **Translation:** 
 
-**[1639.18s] English:** «Задай себе вопрос, который ты пока не задавал.  
+**[1639.18s] English:** Ask yourself a question you haven't asked yet.  
 **Translation:** 
 
-**[1642.12s] English:** Что эта реплика означает, и поработай в обратном направлении».  
-**Translation:** 
+**[1642.12s] English:** What does this remark mean, and work it back the other way.`  
+**Translation:** Vocabulary: remark: 评论
 
-**[1645.66s] English:** А что это?  
+**[1645.66s] English:** What is this?  
 **Translation:** 
 
-**[1647.30s] English:** Некий катализм.  
-**Translation:** 
+**[1647.30s] English:** A certain catalyst.  
+**Translation:** Vocabulary: catalyst: 催化剂
 
-**[1648.38s] English:** Я не катализатор, чтобы глубоко обдумать, какая магия кроется в этой пьесе, истории или повествовании.  
+**[1648.38s] English:** I am not a catalyst to deeply ponder what magic lies within this piece, story, or narrative.  
 **Translation:** 
 
-**[1655.02s] English:** Вот что такое мышление в обратную сторону.  
-**Translation:** 
+**[1655.02s] English:** Here is what reverse thinking is.  
+**Translation:** Vocabulary: ponder: 深思
 
-**[1657.04s] English:** Вот что оно делает.  
+**[1657.04s] English:** Here's what it does.  
 **Translation:** 
 
-**[1657.90s] English:** Да, но также потому, что это невероятное.  
+**[1657.90s] English:** Yes, but also because it is incredible.  
 **Translation:** 
 
-**[1663.38s] English:** Почему я сам не додумался задать этот вопрос?  
+**[1663.38s] English:** Why didn't I think to ask this question myself?  
 **Translation:** 
 
-**[1666.04s] English:** Вот зачем нужны режиссеры?  
+**[1666.04s] English:** Here's why directors are needed?  
 **Translation:** 
 
-**[1667.48s] English:** Вот почему у вас столько мест, откуда могут прийти идеи?  
+**[1667.48s] English:** Here's why you have so many places where ideas can come from?  
 **Translation:** 
 
-**[1671.44s] English:** Но это просто иллюстрирует, что даже если в своей голове я люблю работать от обратного,  
-**Translation:** 
+**[1671.44s] English:** But this simply illustrates that even if in my head I like to work backwards,  
+**Translation:** Vocabulary: backwards: 倒着; illustrates: 说明
 
-**[1675.38s] English:** то в этот раз я это упустил.  
+**[1675.38s] English:** That this time, I missed it.  
 **Translation:** 
 
-**[1678.38s] English:** Я очень благодарен своей работе.  
+**[1678.38s] English:** I am very grateful for my work.  
 **Translation:** 
 
-**[1680.00s] English:** своему другу за то что он подтолкнул меня к тому чтобы осознать что это  
+**[1680.00s] English:** To my friend for helping me realize that this  
 **Translation:** 
 
-**[1686.84s] English:** значит задам интересный вопрос мне нравится поэтичность и скромность слов  
-**Translation:** 
+**[1686.84s] English:** Means he asked an interesting question; he likes the poeticness and modesty of words.  
+**Translation:** Vocabulary: modesty: 谦逊; poeticness: 诗意
 
-**[1695.12s] English:** я набор красок на холсте кого-то другого это была хорошая реплика речь о том вот  
+**[1695.12s] English:** I saw a set of paints on someone else's canvas. It was a good replica, speaking of that.  
 **Translation:** 
 
-**[1703.46s] English:** вы говорили об импровизации вы сказали что все дело в способности делать это  
-**Translation:** 
+**[1703.46s] English:** You talked about improvisation, you said that it's all about the ability to do this.  
+**Translation:** Vocabulary: canvas: 画布; improvisation: 即兴; replica: 复制品
 
-**[1707.38s] English:** снова снова и снова и при этом никогда не повторяться и вы также сказали что  
+**[1707.38s] English:** Again, again and again, and yet never to repeat oneself. And you also said that.  
 **Translation:** 
 
-**[1712.68s] English:** стараетесь оставаться верными тексту так где же тогда место  
-**Translation:** 
+**[1712.68s] English:** Try to remain faithful to the text, so where is the place then?  
+**Translation:** Vocabulary: oneself: 自己
 
-**[1719.22s] English:** для импровизации если нельзя повторяться ну тут два немного разных контекста я  
+**[1719.22s] English:** For improvisation, if repetition cannot be used, here are two slightly different contexts I  
 **Translation:** 
 
-**[1724.26s] English:** думаю один из них в репетиционной комнате импровизация может быть  
-**Translation:** 
+**[1724.26s] English:** I think one of them is in the rehearsal room, improvising might be possible.  
+**Translation:** Vocabulary: cannot: 不能; improvising: 即兴; rehearsal: 排练; repetition: 重复
 
-**[1729.78s] English:** замечательным приемом например сэм мендес он начинает сцену и делает  
+**[1729.78s] English:** A great example, for instance, is Sam Mendes. He starts a scene and does  
 **Translation:** 
 
-**[1737.20s] English:** кофе  
-**Translation:** 
+**[1737.20s] English:** Café  
+**Translation:** Vocabulary: mendes: 孟德斯
 
-**[1737.36s] English:** что замечательно приносит ковры он приносит стулья и диваны и говорит  
+**[1737.36s] English:** What's wonderful is that he brings rugs, and he brings chairs and sofas and says  
 **Translation:** 
 
-**[1742.86s] English:** давайте-ка поставим два стула здесь и здесь ребята давайте начнем с этих  
+**[1742.86s] English:** Let's put two chairs here and here, guys. Let's start with these.  
 **Translation:** 
 
-**[1747.26s] English:** стульев которые подальше друг от друга посмотрим как изменится сцена если вы  
+**[1747.26s] English:** Stools which are kept farther apart, let's see how the scene changes if you.  
 **Translation:** 
 
-**[1750.84s] English:** будете на таком расстоянии мы ее играем а потом он говорит хорошо давайте  
-**Translation:** 
+**[1750.84s] English:** We'll keep it at this distance and play her part, and then he says, "Okay, let's do it.  
+**Translation:** Vocabulary: stools: 凳子
 
-**[1754.88s] English:** принесем ковер и поставим стулья намного поближе и давайте посмотрим что будет  
+**[1754.88s] English:** Let's bring in the rug and set the chairs much closer, and let's see what will happen.  
 **Translation:** 
 
-**[1759.86s] English:** если если область область между вами будет и вот вы попробуете вот так и  
+**[1759.86s] English:** If the area between you will be like this, and you try it like this:  
 **Translation:** 
 
-**[1765.20s] English:** тогда вы знаете импровизировать в шекспире  
+**[1765.20s] English:** Then you know how to improvise in Shakespeare.  
 **Translation:** 
 
-**[1767.36s] English:** становится сложнее. Но в любой ситуации, когда вы хотите попробовать и посмотреть,  
-**Translation:** 
+**[1767.36s] English:** It becomes harder. But in any situation when you want to try and see,  
+**Translation:** Vocabulary: improvise: 即兴创作
 
-**[1774.56s] English:** как может развиваться сцена, куда бы пошла сцена, если бы я сделал этот выбор, куда бы она пошла,  
+**[1774.56s] English:** How might the scene develop if I made this choice? Where would it go?  
 **Translation:** 
 
-**[1780.32s] English:** если бы я сделал тот выбор, куда бы пошла сцена, если бы я сделал этот выбор или что-нибудь другое,  
+**[1780.32s] English:** If I had made that choice, where the scene would have gone, or something else,  
 **Translation:** 
 
-**[1784.58s] English:** вот как импровизация может стать полезным процессом для изучения, поиска пределов и  
+**[1784.58s] English:** Here's how improvisation can become a useful process for exploring limits and  
 **Translation:** 
 
-**[1794.60s] English:** границ, и что происходит с персоналом.  
-**Translation:** 
+**[1794.60s] English:** Borders, and what happens to the personnel.  
+**Translation:** Vocabulary: improvisation: 即兴创作
 
-**[1800.00s] English:** И то, что вы обнаруживаете, пробуя что-то, чего нет  
+**[1800.00s] English:** What you discover when trying something that doesn't exist.  
 **Translation:** 
 
-**[1805.70s] English:** на страницах.  
+**[1805.70s] English:** On the pages.  
 **Translation:** 
 
-**[1806.70s] English:** Потом есть другая вещь, состоящая в попытке сделать  
+**[1806.70s] English:** Then there is another thing consisting of an attempt to make  
 **Translation:** 
 
-**[1811.44s] English:** это свежим, попытке сделать это новым, и это уже и вправду  
+**[1811.44s] English:** This is fresh, an attempt to make it new, and this is truly so.  
 **Translation:** 
 
-**[1814.66s] English:** относится к театру.  
+**[1814.66s] English:** Refers to the theater.  
 **Translation:** 
 
-**[1815.86s] English:** Я объясню вам так.  
+**[1815.86s] English:** I will explain it to you like this.  
 **Translation:** 
 
-**[1824.14s] English:** Каждый любит спорт, не так ли?  
+**[1824.14s] English:** Does everyone love sports, don't they?  
 **Translation:** 
 
-**[1826.32s] English:** Вот вы приходите и видите поле, вы смотрите теннисный  
+**[1826.32s] English:** Here you come and see a field, you look at the tennis  
 **Translation:** 
 
-**[1829.22s] English:** матч, смотрите баскетбол или же футбол.  
+**[1829.22s] English:** Match, watch basketball or football.  
 **Translation:** 
 
-**[1832.76s] English:** Да, правила одни и те же.  
+**[1832.76s] English:** Yes, the rules are the same.  
 **Translation:** 
 
-**[1836.42s] English:** Но каждый раз, выходя на корт или поле, игра будет  
+**[1836.42s] English:** But every time, stepping onto the court or field, the game will be  
 **Translation:** 
 
-**[1838.82s] English:** отличаться.  
+**[1838.82s] English:** differ.  
 **Translation:** 
 
-**[1839.82s] English:** То же самое и в театре.  
+**[1839.82s] English:** The same is true in theater.  
 **Translation:** 
 
-**[1842.78s] English:** Да, те же реплики, возможно, даже блокинг, очень схожи,  
+**[1842.78s] English:** Yes, the same replies, possibly even blocking, are very similar,  
 **Translation:** 
 
-**[1855.58s] English:** но чем все отличается?  
+**[1855.58s] English:** What does it differ from everything else?  
 **Translation:** 
 
-**[1857.28s] English:** Так это атакой.  
+**[1857.28s] English:** So, this is an attack.  
 **Translation:** 
 
-**[1859.16s] English:** Намерением.  
+**[1859.16s] English:** Intent.  
 **Translation:** 
 
-**[1860.96s] English:** Как вы растете в роли и наблюдаете за ростом своих  
-**Translation:** 
+**[1860.96s] English:** How do you grow in your role and observe the growth of your  
+**Translation:** Vocabulary: intent: 意图
 
-**[1864.78s] English:** коллег-актеров.  
+**[1864.78s] English:** Colleagues-actors.  
 **Translation:** 
 
-**[1866.78s] English:** И каждый вечер в зале новая аудитория, и они реагируют  
+**[1866.78s] English:** And every evening in the hall, a new audience, and they react.  
 **Translation:** 
 
-**[1869.90s] English:** по-разному.  
+**[1869.90s] English:** Differently.  
 **Translation:** 
 
-**[1871.08s] English:** И буквально, куда вы можете дойти, начиная с первой  
+**[1871.08s] English:** And literally, where you can walk to from the first  
 **Translation:** 
 
-**[1875.46s] English:** недели вашего исполнения пьесы и заканчивая двенадцатой.  
+**[1875.46s] English:** Weeks of your performance of the play, ending with the twelfth.  
 **Translation:** 
 
-**[1880.28s] English:** Это невероятно.  
-**Translation:** 
+**[1880.28s] English:** This is incredible.  
+**Translation:** Vocabulary: twelfth: 第十二个
 
-**[1882.12s] English:** И разница между театром и кино – это то, что вы можете  
+**[1882.12s] English:** The difference between theater and cinema is that you can  
 **Translation:** 
 
-**[1887.76s] English:** сделать.  
+**[1887.76s] English:** To do.  
 **Translation:** 
 
-**[1889.16s] English:** В том, что, как бы хорошо вы ни играли в фильме, лучше  
+**[1889.16s] English:** In what seems to be the case, no matter how well you play in the film, it is better  
 **Translation:** 
 
-**[1894.04s] English:** вам уже не стать.  
+**[1894.04s] English:** You already can't.  
 **Translation:** 
 
-**[1895.04s] English:** Он застывает.  
+**[1895.04s] English:** He stiffens.  
 **Translation:** 
 
-**[1898.40s] English:** Тогда как завтра вечером я могу быть лучше, чем сегодня.  
-**Translation:** 
+**[1898.40s] English:** Then as tomorrow evening I may be better than today.  
+**Translation:** Vocabulary: stiffens: 身体紧张起来
 
-**[1901.28s] English:** Я могу быть лучше через неделю, чем сегодня.  
+**[1901.28s] English:** I can be better in a week than today.  
 **Translation:** 
 
-**[1903.48s] English:** Это живая, дышащая, меняющаяся, изменяющаяся и растущая  
+**[1903.48s] English:** This is a living, breathing, changing, transforming, and growing entity.  
 **Translation:** 
 
-**[1911.92s] English:** вещь каждый божий день.  
+**[1911.92s] English:** Thing every single day.  
 **Translation:** 
 
-**[1913.96s] English:** Но в театре нет никакой подстраховки.  
+**[1913.96s] English:** But in the theater, there is no safety net.  
 **Translation:** 
 
-**[1917.84s] English:** Стоит прошляпить?  
+**[1917.84s] English:** Should we procrastinate?  
 **Translation:** 
 
-**[1919.04s] English:** И все в тот же момент.  
-**Translation:** 
+**[1919.04s] English:** And all at once.  
+**Translation:** Vocabulary: procrastinate: 拖延
 
-**[1920.04s] English:** Смех.  
+**[1920.00s] English:** In that very moment, this will be seen.  
 **Translation:** 
 
-**[1920.00s] English:** В же миг это увидят.  
+**[1920.04s] English:** Laugh.  
 **Translation:** 
 
-**[1921.04s] English:** А если вы начнете хихикать на сцене, то все это увидят тоже, в чем я, конечно же, виноват.  
+**[1921.04s] English:** If you start giggling on stage, everyone will see it too, in which case, of course, I am to blame.  
 **Translation:** 
 
-**[1926.94s] English:** Я имею в виду, что есть нечто вроде соблазна аудитории в театре, и он даже интенсивнее, чем когда речь идет о кино.  
-**Translation:** 
+**[1926.94s] English:** I mean that there's a kind of temptation for the audience in the theater, and it's even more intense than when it comes to cinema.  
+**Translation:** Vocabulary: giggling: 窃笑; temptation: 诱惑
 
-**[1938.66s] English:** Я посмотрел документальный фильм «Сейчас», «Добро пожаловать за кулисы», в котором показано за кулиси, как вы и говорили,  
+**[1938.66s] English:** I watched a documentary film "Now," "Welcome Behind the Scenes," in which it shows behind the curtains, as you said,  
 **Translation:** 
 
-**[1946.56s] English:** и ваше сотрудничество с Эмом Мендесом в 2011-м для постановки пьесы Уильяма Шекспира «Ричарда Третьего».  
-**Translation:** 
+**[1946.56s] English:** And your collaboration with Em Mendes in 2011 for the staging of William Shakespeare's "Richard III".  
+**Translation:** Vocabulary: collaboration: 合作; curtains: 幕布
 
-**[1955.88s] English:** Еще меня удивило узнать, что Шекспира вы играли не особо много, по крайней мере, вы так сказали в фильме.  
+**[1955.88s] English:** Still, what surprised me was learning that you didn't play Shakespeare very often, at least, you said so in the film.  
 **Translation:** 
 
-**[1963.22s] English:** Однако там много интересных закулисных моментов.  
+**[1963.22s] English:** However, there are many interesting behind-the-scenes moments.  
 **Translation:** 
 
-**[1966.96s] English:** Во-первых, товарищество между всеми, как будто некая связь, создаваемая театром, особенно при путешествиях.  
+**[1966.96s] English:** Firstly, a fellowship among all, as if a certain connection created by the theater, especially during travels.  
 **Translation:** 
 
-**[1974.34s] English:** Но еще один интересный упомянутый момент.  
-**Translation:** 
+**[1974.34s] English:** But another interesting mentioned point.  
+**Translation:** Vocabulary: fellowship: 共同经历; firstly: 首先
 
-**[1977.26s] English:** Это как Сэм Мендес пробует всякое разное со стульями, и кажется, что все были открыты к экспериментам, и не смущались самоуничижения или риска.  
+**[1977.26s] English:** This is like Sam Mendes trying all sorts of things with chairs, and it seems that everything was open to experimentation, and they weren't bothered by self-deprecation or risk.  
 **Translation:** 
 
-**[1986.24s] English:** Думаю, это в целом часть актерской игры, но особенно в театре.  
-**Translation:** 
+**[1986.24s] English:** I think it's generally part of acting, but especially in theater.  
+**Translation:** Vocabulary: bothered: 在意; experimentation: 尝试
 
-**[1992.44s] English:** Просто рискуйте, не бойтесь опозориться в пух и прах, включая режиссера.  
+**[1992.44s] English:** Just risk it and don't be afraid to be humiliated in the most extreme way, including the director.  
 **Translation:** 
 
-**[1997.50s] English:** Это еще и потому, что вы становитесь семьей.  
-**Translation:** 
+**[1997.50s] English:** This is also because you become a family.  
+**Translation:** Vocabulary: humiliated: 羞辱
 
-**[2001.66s] English:** Знаете, это не как в кино, где, знаете, у меня может быть сцена с кем-то в этот день,  
+**[2001.66s] English:** Know that this isn't like in the movies, where, you know, I might have a scene with someone on this day,  
 **Translation:** 
 
-**[2006.56s] English:** а другая сцена с ним же через полторы недели.  
+**[2006.56s] English:** Another scene with him, about two weeks later.  
 **Translation:** 
 
-**[2009.34s] English:** А это и все наши совместные сцены в этом фильме.  
+**[2009.34s] English:** This is all of our joint scenes in this film.  
 **Translation:** 
 
-**[2013.36s] English:** Каждый день, когда вы приходите в репетиционный зал, то там вся труппа.  
-**Translation:** 
+**[2013.36s] English:** Each day when you come to the rehearsal hall, the entire troupe is there.  
+**Translation:** Vocabulary: rehearsal: 排练; troupe: 剧团
 
-**[2019.04s] English:** Вы все вместе каждый день, и вы учитесь, растете, пробуете, и существует невероятное доверие.  
+**[2019.04s] English:** You are all together every day, and you learn, grow, try, and there exists incredible trust.  
 **Translation:** 
 
-**[2028.80s] English:** Оно возникает.  
-**Translation:** 
+**[2028.80s] English:** It arises.  
+**Translation:** Vocabulary: arises: 产生
 
-**[2030.22s] English:** И мне, конечно же, повезло, что кое-что, кое-что из того, что я узнал и увидел,  
+**[2030.22s] English:** Keep the same transcript segment with proper punctuation and capitalization: And of course, I was lucky that some of what I learned and saw,  
 **Translation:** 
 
-**[2036.56s] English:** не кое в чем.  
-**Translation:** 
+**[2036.56s] English:** Not in everything.  
+**Translation:** Vocabulary: capitalization: 标点符号; segment: 片段; transcript: 录音文本
 
-**[2039.44s] English:** Будучи частью этой семьи, будучи включ...  
+**[2039.44s] English:** Being part of this family, being included...  
 **Translation:** 
 
-**[2041.06s] English:** КАРАТНОЙ ГАИ  
-**Translation:** 
+**[2040.00s] English:** Being a scientist in this family and part of its creation, I could observe such people as Jack Lemmon, who led many troupes in which I was lucky to work, and be part of them.  
+**Translation:** Vocabulary: lemmon: 杰克·莱蒙; troupes: 剧团
 
-**[2044.10s] English:** видео окончено  
+**[2041.06s] English:** Karatny GAI  
 **Translation:** 
 
-**[2045.98s] English:** zoop  
+**[2044.10s] English:** Video ended.  
 **Translation:** 
 
-**[2047.46s] English:** эмм  
+**[2045.98s] English:** Zoop.  
 **Translation:** 
 
-**[2048.76s] English:** Поход  
+**[2047.46s] English:** umm  
 **Translation:** 
 
-**[2064.24s] English:** Олимпиада  
+**[2048.76s] English:** Hike  
 **Translation:** 
 
-**[2065.62s] English:** Фizi  
-**Translation:** 
+**[2052.22s] English:** There is also a sad moment when at the end everyone is very sad and says goodbye. For you become a family, and then it all ends. I suppose someone said that this is just part of the theater, like some sort of farewell, and that's that.  
+**Translation:** Vocabulary: goodbye: 告别
 
-**[2040.00s] English:** И будучи ученым в эту семью, и будучи частью сотворения этой семьи, я мог наблюдать таких людей, как Джек Лемон, который возглавлял многие трупы, в которых мне повезло работать, и быть их частью.  
+**[2064.24s] English:** Olympiad  
 **Translation:** 
 
-**[2052.22s] English:** Есть также грустный момент, когда в конце все очень грустят, прощаются. Ведь вы становитесь семьей, а потом все заканчивается. Полагаю, кто-то сказал, что это просто часть театра, будто это своего рода прощание, и на этом все.  
-**Translation:** 
+**[2065.62s] English:** Fizzi  
+**Translation:** Vocabulary: olympiad: 奥林匹克比赛
 
-**[2070.00s] English:** Да, и иногда бывает, спустя шесть месяцев я просыпаюсь посреди ночи и думаю, вот как надо было сыграть в той сцене.  
+**[2070.00s] English:** Yes, and sometimes it happens six months later that I wake up in the middle of the night and think, "I should have played that scene differently.  
 **Translation:** 
 
-**[2080.24s] English:** Да, есть такое.  
+**[2080.24s] English:** Yes, there is such a thing.  
 **Translation:** 
 
-**[2081.64s] English:** О, Боже, я наконец-то понял.  
+**[2081.64s] English:** Oh, God, I finally understood.  
 **Translation:** 
 
-**[2085.58s] English:** Может, вы можете рассказать чуть подробнее, в чем разница между игрой в кино и игрой вживую в театре?  
-**Translation:** 
+**[2085.58s] English:** May I ask you to elaborate a bit more on the difference between playing in a movie and playing live on stage in a theater?  
+**Translation:** Vocabulary: elaborate: 详细解释
 
-**[2091.52s] English:** Я не думаю, что есть разница.  
+**[2091.52s] English:** I don't think there's a difference.  
 **Translation:** 
 
-**[2094.22s] English:** Думаю, что просто...  
+**[2094.22s] English:** I think that simply...  
 **Translation:** 
 
-**[2096.94s] English:** Со временем ты узнаешь о себе на съемках.  
+**[2096.94s] English:** Over time, you will learn about yourself on camera.  
 **Translation:** 
 
-**[2100.26s] English:** Знаете, когда я впервые снимался в эпизоде «Уравнители», то, знаете, это было ужасно. Просто очень плохо.  
-**Translation:** 
+**[2100.26s] English:** Know what? When I first appeared in "Equalizers," it was terrible. Just really bad.  
+**Translation:** Vocabulary: equalizers: 平衡器
 
-**[2112.00s] English:** Но я не замечал этого за собой.  
+**[2112.00s] English:** But I didn't notice this in myself.  
 **Translation:** 
 
-**[2114.16s] English:** Ты постепенно начинаешь узнавать себя.  
+**[2114.16s] English:** You gradually begin to understand yourself.  
 **Translation:** 
 
-**[2117.24s] English:** Но я думаю, что хорошая игра есть хорошая игра.  
+**[2117.24s] English:** But I think that a good game is a good game.  
 **Translation:** 
 
-**[2120.12s] English:** И я думаю, что, знаете, если камера вот здесь, то первый ряд одновременно и задний ряд.  
+**[2120.12s] English:** I think that, you know, if the camera is placed here, then the first row will be at the same time as the back row.  
 **Translation:** 
 
-**[2128.36s] English:** Тебе не нужно. Не нужно делать.  
+**[2128.36s] English:** You don't need to. There's no need to do it.  
 **Translation:** 
 
-**[2130.00s] English:** А вот в театре присутствует особая энергия, почти как у спортсмена, которой ты должен обладать,  
-**Translation:** 
+**[2130.00s] English:** Here's the transcript with natural English punctuation and capitalization: Keep in mind that there is a special energy present in the theater, almost like that of an athlete, which you should possess.  
+**Translation:** Vocabulary: capitalization: 大写; transcript: 脚本
 
-**[2142.02s] English:** чтобы вокально осилить семь выступлений в неделю, не лишиться голоса и постоянно выступать вживую,  
+**[2142.02s] English:** To vocally sustain seven performances a week, not lose my voice, and constantly perform live,  
 **Translation:** 
 
-**[2148.50s] English:** постоянно быть на высоте, чего для съемок в кино не требуется.  
-**Translation:** 
+**[2148.50s] English:** To constantly be on high alert, which is not required for filming movies.  
+**Translation:** Vocabulary: sustain: 维持; vocally: vocally
 
-**[2151.88s] English:** Знаешь, тебе не нужно иметь такую же...  
+**[2151.88s] English:** Knows, you don't need to have such a...  
 **Translation:** 
 
-**[2157.58s] English:** Это просто не требует такого же рода выносливости.  
-**Translation:** 
+**[2157.58s] English:** This simply doesn't require the same level of endurance.  
+**Translation:** Vocabulary: endurance: 耐力
 
-**[2160.00s] English:** как для игры в пьесе.  
+**[2160.00s] English:** As for playing in the play.  
 **Translation:** 
 
-**[2164.50s] English:** Просто такое ощущение, что в театре нужно более скрупулезно вживаться в роль,  
-**Translation:** 
+**[2164.50s] English:** Just like there's a feeling that more meticulous involvement in the role is needed in the theater,  
+**Translation:** Vocabulary: meticulous: 细致入微的
 
-**[2169.32s] English:** потому что перерыв взять нельзя, в туалет не сходишь,  
+**[2169.32s] English:** Because we can't take a break, we can't even go to the toilet.  
 **Translation:** 
 
-**[2173.00s] English:** ведь ты же на сцене, это же ты.  
+**[2173.00s] English:** Well, you're on stage, it's you.  
 **Translation:** 
 
-**[2176.32s] English:** Да, но понятия не имеешь, что творится с актерами на сцене.  
+**[2176.32s] English:** Yes, but you have no idea what goes on with actors on stage.  
 **Translation:** 
 
-**[2179.52s] English:** В смысле, я буквально смеялся во время речей,  
+**[2179.52s] English:** In other words, I was laughing during the speeches literally.  
 **Translation:** 
 
-**[2184.78s] English:** которые произносил, ведь мои коллеги засовывали морковки в свои носы,  
+**[2184.78s] English:** Which they pronounced, for my colleagues were inserting carrots into their noses,  
 **Translation:** 
 
-**[2188.72s] English:** вставляли брокколи в уши, вытворяли что угодно, лишь бы меня рассмешить.  
-**Translation:** 
+**[2188.72s] English:** They stuck broccoli in my ears, did anything and everything to make me laugh.  
+**Translation:** Vocabulary: broccoli: 西兰花; colleagues: 同事; inserting: 插入
 
-**[2193.58s] English:** В общем, они развлекаются.  
+**[2193.58s] English:** In general, they are having fun.  
 **Translation:** 
 
-**[2194.92s] English:** Они веселятся от души.  
+**[2194.92s] English:** They are having a great time.  
 **Translation:** 
 
-**[2196.38s] English:** Кстати, Джуди Денч – самая большая хохотушка.  
+**[2196.38s] English:** By the way, Judi Dench is the biggest laugh riot.  
 **Translation:** 
 
-**[2199.82s] English:** Да.  
+**[2199.82s] English:** Yes.  
 **Translation:** 
 
-**[2200.14s] English:** Как-то даже пришлось опускать занавес из-за нее, и Мэгги Смит,  
+**[2200.14s] English:** Somehow, even had to lower the curtain because of her, and Maggie Smith.  
 **Translation:** 
 
-**[2203.24s] English:** потому что они смеялись так сильно, что не могли продолжать пьесу.  
-**Translation:** 
+**[2203.24s] English:** Because they were laughing so hard that they couldn't continue the play.  
+**Translation:** Vocabulary: maggie: 玛吉·史密斯
 
-**[2207.36s] English:** Даже во время драматического монолога над тобой все равно издеваются.  
+**[2207.36s] English:** Even during your dramatic monologue, they still ridicule you.  
 **Translation:** 
 
-**[2210.88s] English:** Да, еще как.  
-**Translation:** 
+**[2210.88s] English:** Yes, exactly.  
+**Translation:** Vocabulary: monologue: 独白; ridicule: 嘲笑
 
-**[2212.46s] English:** Ладно, отлично, приятно слышать.  
+**[2212.46s] English:** Okay, great, nice to hear that.  
 **Translation:** 
 
-**[2214.80s] English:** Вы также проронили интересную реплику, что импровизация...  
-**Translation:** 
+**[2214.80s] English:** You also uttered an interesting remark about improvisation,...  
+**Translation:** Vocabulary: improvisation: 即兴; remark: 评论; uttered: 说出
 
-**[2218.72s] English:** ...помогает вам узнать персонажа.  
+**[2218.72s] English:** ...helps you get to know the character.  
 **Translation:** 
 
-**[2225.04s] English:** Вы можете объяснить?  
+**[2225.04s] English:** Can you explain?  
 **Translation:** 
 
-**[2227.32s] English:** Итак, благодаря, может, играясь с разными произношениями слов,  
+**[2227.32s] English:** So, perhaps by playing with different pronunciations of words,  
 **Translation:** 
 
-**[2233.74s] English:** разными способами вдохнуть в них жизнь,  
+**[2233.74s] English:** To breathe life into them in various ways,  
 **Translation:** 
 
-**[2236.22s] English:** и вы узнаете о себе, о персонаже, которого играете.  
+**[2236.22s] English:** And you will learn about yourself, as well as the character you are playing.  
 **Translation:** 
 
-**[2241.58s] English:** Это может быть полезно, но импровизация...  
+**[2241.58s] English:** This may be useful, but improvisation...  
 **Translation:** 
 
-**[2244.06s] English:** Я большой сторонник сценария, служения ему,  
+**[2244.06s] English:** I am a big supporter of the script, serving it,  
 **Translation:** 
 
-**[2248.72s] English:** и произнесения слов, написанных сценаристом.  
+**[2248.72s] English:** And the pronunciation of words written in the script.  
 **Translation:** 
 
-**[2253.06s] English:** Для меня импровизация...  
+**[2253.06s] English:** For me, improvisation...  
 **Translation:** 
 
-**[2254.50s] English:** Если только ты не занимаешься комедией,  
+**[2254.50s] English:** If you're not in comedy,  
 **Translation:** 
 
-**[2256.82s] English:** я люблю импровизацию в комедии, это блестяще.  
+**[2256.82s] English:** I love improvisation in comedy, it's brilliant.  
 **Translation:** 
 
-**[2261.72s] English:** Только удовольствие наблюдать, как люди придумывают что-то на ходу.  
+**[2261.72s] English:** Only it's fun to watch how people come up with something on the fly.  
 **Translation:** 
 
-**[2266.56s] English:** Но знаете, там вы ищете смех,  
+**[2266.56s] English:** But you know, there you seek laughter,  
 **Translation:** 
 
-**[2269.38s] English:** и вы находитесь в небольшой сцене, которая создается.  
+**[2269.38s] English:** And you are on a small stage, which is being created.  
 **Translation:** 
 
-**[2273.10s] English:** Но я полагаю, что импровизация обладает ценностью.  
+**[2273.10s] English:** But I believe that improvisation has value.  
 **Translation:** 
 
-**[2278.72s] English:** Но...  
+**[2278.72s] English:** But...  
 **Translation:** 
 
-**[2279.72s] English:** Но...  
+**[2279.72s] English:** But...  
 **Translation:** 
 
-**[2280.00s] English:** Но я не так часто сталкивался с ней в театре.  
-**Translation:** 
+**[2280.00s] English:** But I didn't encounter her at the theater very often.  
+**Translation:** Vocabulary: encounter: 遇见
 
-**[2286.32s] English:** Как, например, во время съемок, где ты начинаешь репетировать, а режиссер может сказать,  
+**[2286.32s] English:** For example, during filming, you start rehearsing, and the director might say,  
 **Translation:** 
 
-**[2291.92s] English:** «Давайте отдойдем от сценария и посмотрим, что будет».  
-**Translation:** 
+**[2291.92s] English:** Let's step away from the script and see what will happen.  
+**Translation:** Vocabulary: rehearsing: 排练
 
-**[2295.96s] English:** И у меня были моменты на площадке, когда кто-то так и делал.  
+**[2295.96s] English:** In moments on set, someone would do that.  
 **Translation:** 
 
-**[2299.24s] English:** И это было ужасающе.  
-**Translation:** 
+**[2299.24s] English:** And this was horrifying.  
+**Translation:** Vocabulary: horrifying: 令人恐惧的
 
-**[2305.06s] English:** Была сцена в фильме «Американцы».  
+**[2305.06s] English:** There was a scene in the movie "Americans.  
 **Translation:** 
 
-**[2307.32s] English:** Где мой персонаж, которого я играл, что-то испортил.  
+**[2307.32s] English:** Where did my character, whom I played, mess something up?  
 **Translation:** 
 
-**[2313.52s] English:** В общем, он что-то портит, и почину в ярости.  
+**[2313.52s] English:** In general, he is ruining something, and fixes it in anger.  
 **Translation:** 
 
-**[2319.18s] English:** У нас была сцена, где Аль идет вот так,  
+**[2319.18s] English:** We had a scene where Al goes like this,  
 **Translation:** 
 
-**[2323.90s] English:** камера движется за ним,  
+**[2323.90s] English:** The camera moves behind him.  
 **Translation:** 
 
-**[2326.78s] English:** и он устраивает мне разнос.  
+**[2326.78s] English:** He gives me a tongue-lashing.  
 **Translation:** 
 
-**[2330.82s] English:** И посреди дубля Аль начинает говорить обо мне.  
+**[2330.82s] English:** In the middle of the dub, Al begins to talk about me.  
 **Translation:** 
 
-**[2337.32s] English:** «О, Кевин, думаешь, мы не в курсе, как ты получил эту работу?  
+**[2337.32s] English:** Oh, Kevin, do you think we're not aware how you got this job?  
 **Translation:** 
 
-**[2344.72s] English:** Ты думаешь, мы не знаем, чьи члены ты сосал, чтобы получить эту роль в этом фильме?»  
+**[2344.72s] English:** You think we don't know whose members you sucked to get this role in this film?  
 **Translation:** 
 
-**[2352.92s] English:** И я такой, я буквально, я не понимал, что это было за херня, но я реагирую.  
-**Translation:** 
+**[2352.92s] English:** I was like, I literally didn't understand what the hell it was, but I reacted.  
+**Translation:** Vocabulary: reacted: 反应; sucked: 拉拢
 
-**[2360.86s] English:** Мы закончили этот дубль, Аль подходит и говорит,  
+**[2360.86s] English:** We finished this take, Al comes over and says,  
 **Translation:** 
 
-**[2364.14s] English:** «Оу, было великолепно».  
+**[2364.14s] English:** Oh, it was wonderful.  
 **Translation:** 
 
-**[2368.04s] English:** «Боже, это было прекрасно».  
+**[2368.04s] English:** God, that was beautiful.  
 **Translation:** 
 
-**[2370.14s] English:** «Чтобы ты знал звук, я попросил их не записывать.  
+**[2370.14s] English:** To let you know, I asked them not to record it.  
 **Translation:** 
 
-**[2373.18s] English:** У тебя нет реплик, только у меня».  
+**[2373.18s] English:** Keep your thoughts to yourself," she said. Only I have the words.  
 **Translation:** 
 
-**[2376.00s] English:** «О, просто божественно. Ты выглядишь, как развалина».  
+**[2376.00s] English:** Oh, simply divine. You look like a ruin.  
 **Translation:** 
 
-**[2380.46s] English:** И я такой, «Да».  
+**[2380.46s] English:** I said, "Yes.  
 **Translation:** 
 
-**[2383.26s] English:** И на самом деле, это было невероятно щедрое подношение с его стороны,  
+**[2383.26s] English:** In fact, this was incredibly generous of him.  
 **Translation:** 
 
-**[2389.54s] English:** чтобы я мог отреагировать.  
+**[2389.54s] English:** To give me time to react.  
 **Translation:** 
 
-**[2391.54s] English:** Ого, вау, они использовали этот дубль?  
+**[2391.54s] English:** Oho, wow, they used this double?  
 **Translation:** 
 
-**[2395.10s] English:** Это тот самый дубль.  
+**[2395.10s] English:** This is the exact double.  
 **Translation:** 
 
-**[2397.32s] English:** Я там крупным планом.  
+**[2397.32s] English:** I'll do it in close-up.  
 **Translation:** 
 
-**[2398.82s] English:** Да.  
+**[2398.82s] English:** Yes.  
 **Translation:** 
 
-**[2399.84s] English:** Да.  
+**[2399.84s] English:** Yes.  
 **Translation:** 
 
-**[2408.84s] English:** Спасибо.  
+**[2400.00s] English:** And yes, this is the exact double.  
 **Translation:** 
 
-**[2400.00s] English:** И да, это тот самый дубль.  
+**[2401.82s] English:** This was a tense scene. In other words, what is that like?  
 **Translation:** 
 
-**[2401.82s] English:** Это была напряженная сцена. В смысле, каково это?  
+**[2404.80s] English:** Let's pause on this tense scene with Al Pacino.  
 **Translation:** 
 
-**[2404.80s] English:** Давайте задержимся на этой напряженной сцене с Аль Пачино.  
+**[2408.84s] English:** Thank you.  
 **Translation:** 
 
-**[2409.92s] English:** Я получил роль благодаря ему.  
+**[2409.92s] English:** I received the role thanks to him.  
 **Translation:** 
 
-**[2412.24s] English:** Многие могут думать, что из-за того, что Джек был в фильме, то он причастен к этому.  
+**[2412.24s] English:** Many may think that because Jack was in the movie, he is involved in this.  
 **Translation:** 
 
-**[2417.16s] English:** Но на самом деле я играл в пьесе «Потерянные в Йонкерсе» на Бродвее.  
+**[2417.16s] English:** But in reality, I played in the play "Lost in Yonkers" on Broadway.  
 **Translation:** 
 
-**[2421.46s] English:** И у нас был костюмер, который работал с ним.  
-**Translation:** 
+**[2421.46s] English:** And we had a costume designer who worked with him.  
+**Translation:** Vocabulary: broadway: 百老汇; costume: 服装
 
-**[2423.76s] English:** Девчонка по имени Лора, она замечательная, Лора Битти.  
+**[2423.76s] English:** Girl named Lora, she's wonderful, Lora Bitty.  
 **Translation:** 
 
-**[2426.84s] English:** И она сказала Алю, что он должен посмотреть эту пьесу.  
-**Translation:** 
+**[2426.84s] English:** She told Alia that he should see this play.  
+**Translation:** Vocabulary: bitty: 小块的
 
-**[2430.00s] English:** Потому что она хотела увидеть меня в этой пьесе.  
+**[2430.00s] English:** Because she wanted me to be in this play.  
 **Translation:** 
 
-**[2433.74s] English:** Я играл гангстера, веселую, превеселую роль.  
-**Translation:** 
+**[2433.74s] English:** I played a gangster, a really funny role.  
+**Translation:** Vocabulary: gangster: 黑帮分子
 
-**[2438.28s] English:** Так что я не знал, что в один из вечеров пришел Пачино и посмотрел эту пьесу.  
+**[2438.28s] English:** So I didn't know that one evening Pacino came and watched this play.  
 **Translation:** 
 
-**[2442.46s] English:** И через три дня меня позвонили и пригласили на прослушивание фильма «Американцы»,  
-**Translation:** 
+**[2442.46s] English:** Through three days, they called me and invited me to audition for the film "Americans",  
+**Translation:** Vocabulary: audition: 试镜
 
-**[2447.88s] English:** который, конечно же, как я знал, по пьесе Дэвида Мэммита.  
+**[2447.88s] English:** Which, of course, as I knew, was from David Mamet's play.  
 **Translation:** 
 
-**[2451.72s] English:** В итоге я прошел прослушивание.  
+**[2451.72s] English:** In the end, I passed the audition.  
 **Translation:** 
 
-**[2456.82s] English:** Режиссером был Джейми Фоули, который в итоге снял кучу эпизодов.  
+**[2456.82s] English:** The director was Jamie Foyle, who ended up directing a bunch of episodes.  
 **Translation:** 
 
-**[2460.00s] English:** «Карточного домика», замечательный парень.  
-**Translation:** 
+**[2460.00s] English:** Card House," a wonderful guy.  
+**Translation:** Vocabulary: jamie: 杰米
 
-**[2464.28s] English:** И я получил роль.  
+**[2464.28s] English:** I received the role.  
 **Translation:** 
 
-**[2465.58s] English:** Ну, я не совсем получил роль.  
+**[2465.58s] English:** Nu, I didn't quite get the role.  
 **Translation:** 
 
-**[2467.58s] English:** Они собирались собирать актеров, которым, как они думали, дадут роли,  
+**[2467.58s] English:** They were planning to gather actors, whom they thought would get roles.  
 **Translation:** 
 
-**[2471.58s] English:** в субботу в офисе «Аля».  
+**[2471.58s] English:** On Saturday at the office "Alya".  
 **Translation:** 
 
-**[2474.58s] English:** И они спросили меня, не могу ли я прийти на пробы.  
+**[2474.58s] English:** They asked me if I could come for a tryout.  
 **Translation:** 
 
-**[2476.58s] English:** Я спросил, кто там будет.  
-**Translation:** 
+**[2476.58s] English:** I asked who would be there.  
+**Translation:** Vocabulary: tryout: 试训
 
-**[2478.58s] English:** Они говорят, ну, тот, тот и этот.  
+**[2478.58s] English:** They say, you know, that, this, and those.  
 **Translation:** 
 
-**[2480.58s] English:** И Джек Лемон прилетит.  
-**Translation:** 
+**[2480.58s] English:** And Jack Lemmon will arrive.  
+**Translation:** Vocabulary: lemmon: 杰克·莱蒙
 
-**[2481.58s] English:** А я сказал, не говорите мистеру Лемону, что я буду на пробах.  
+**[2481.58s] English:** I said, do not tell Mr. Lemon that I will be at the auditions.  
 **Translation:** 
 
-**[2484.58s] English:** Это возможно?  
-**Translation:** 
+**[2484.58s] English:** Is this possible?  
+**Translation:** Vocabulary: auditions: 试镜
 
-**[2486.58s] English:** Они такие, конечно.  
+**[2486.58s] English:** They are like that, of course.  
 **Translation:** 
 
-**[2488.58s] English:** А этого я никогда не забуду.  
+**[2488.58s] English:** I will never forget this.  
 **Translation:** 
 
-**[2489.80s] English:** Джек сидел в кресле в офисе Пачино,  
+**[2489.80s] English:** Jack sat in a chair in Pacino's office,  
 **Translation:** 
 
-**[2492.80s] English:** разгадывая кроссворд из «Нью-Йорк Таймс», как обычно он это делал.  
+**[2492.80s] English:** Solving a New York Times crossword, as he usually did.  
+**Translation:** Vocabulary: crossword: 纵横填字谜
+
+**[2496.80s] English:** I entered through the door, and he said,  
 **Translation:** 
 
-**[2496.80s] English:** Я вошел в дверь, и он сказал,  
+**[2498.80s] English:** Oh, Almighty Lord!  
+**Translation:** Vocabulary: almighty: 全能的
+
+**[2500.80s] English:** Did you get the job without me?  
 **Translation:** 
 
-**[2498.80s] English:** «А, Господь всемогущий!  
+**[2502.80s] English:** Lord Jesus, I am so tired of dealing with you!  
 **Translation:** 
 
-**[2500.80s] English:** Неужели ты получил работу без меня?  
+**[2505.80s] English:** Lord our Almighty!  
 **Translation:** 
 
-**[2502.80s] English:** Господи Иисусе, я так устал с тобой возиться!  
+**[2507.80s] English:** In general, I got the job thanks to Al Pacino.  
 **Translation:** 
 
-**[2505.80s] English:** Господь наш Всевышний!»  
+**[2510.80s] English:** And, you know, this was one of the first truly major roles,  
 **Translation:** 
 
-**[2507.80s] English:** В общем, я так получил работу благодаря Аль Пачино.  
+**[2516.80s] English:** Which ones I had in the movies.  
 **Translation:** 
 
-**[2510.80s] English:** И, знаете, это была одна из первых по-настоящему крупных ролей,  
+**[2517.80s] English:** And, you know, working...  
 **Translation:** 
 
-**[2516.80s] English:** которые у меня были в кино.  
+**[2519.80s] English:** So that's not the end, however, I recorded it.  
 **Translation:** 
 
-**[2517.80s] English:** И, знаете, работать...  
+**[2520.00s] English:** With this group?  
 **Translation:** 
 
-**[2519.80s] English:** Так-то теперь не конец, однако я録ал.  
+**[2522.46s] English:** Yes, this is one of the best actor casts.  
 **Translation:** 
 
-**[2522.80s] English:** Вот так!  
+**[2522.80s] English:** Vat tak!  
 **Translation:** 
 
-**[2523.80s] English:** texture is Player tous les Leave這樣子  
+**[2523.80s] English:** Texture is: Player, tous lesLeave 照这样子  
 **Translation:** 
 
-**[2524.80s] English:** Пересонавт een  
+**[2524.80s] English:** Peresonavt,een  
 **Translation:** 
+
+**[2527.08s] English:** Here we have Al Pacino, Jack Lemmon, Alec Baldwin,  
+**Translation:** Vocabulary: baldwin: 艾克·巴伦
 
 **[2527.80s] English:** 5  
 **Translation:** 
@@ -1928,6 +1938,9 @@ Source file: Lex Fridman - Kevin Spacey： Power, Controversy, Betrayal, Truth &
 **Translation:** 
 
 **[2531.80s] English:** 54  
+**Translation:** 
+
+**[2532.64s] English:** Ally Narkin, Ed Harris, you, Jonathan Price.  
 **Translation:** 
 
 **[2532.80s] English:** 54  
@@ -1942,17 +1955,26 @@ Source file: Lex Fridman - Kevin Spacey： Power, Controversy, Betrayal, Truth &
 **[2536.80s] English:** 76  
 **Translation:** 
 
+**[2537.30s] English:** This is simply incredible.  
+**Translation:** 
+
 **[2537.80s] English:** 67  
+**Translation:** 
+
+**[2538.78s] English:** I should say, maybe you could comment on that.  
 **Translation:** 
 
 **[2538.80s] English:** 68  
 **Translation:** 
 
-**[2539.80s] English:** 69  
+**[2539.80s] English:** 69.  
 **Translation:** 
 
 **[2540.80s] English:** 60  
 **Translation:** 
+
+**[2541.52s] English:** You talked so much about Jack Lemmon that he was like a mentor and friend to you.  
+**Translation:** Vocabulary: mentor: 导师
 
 **[2541.80s] English:** 61  
 **Translation:** 
@@ -1969,6 +1991,9 @@ Source file: Lex Fridman - Kevin Spacey： Power, Controversy, Betrayal, Truth &
 **[2545.80s] English:** 62  
 **Translation:** 
 
+**[2546.54s] English:** This is one of his greatest performances.  
+**Translation:** 
+
 **[2546.80s] English:** 63  
 **Translation:** 
 
@@ -1978,4651 +2003,4627 @@ Source file: Lex Fridman - Kevin Spacey： Power, Controversy, Betrayal, Truth &
 **[2548.80s] English:** 25  
 **Translation:** 
 
-**[2520.00s] English:** С этой группой?  
+**[2548.82s] English:** Greatest.  
 **Translation:** 
 
-**[2522.46s] English:** Да, это один из лучших актерских составов.  
+**[2549.34s] English:** At the end of the film, you have a very powerful scene with him.  
 **Translation:** 
 
-**[2527.08s] English:** Тут у нас Аль Пачино, Джек Лемон, Алик Болдуин,  
+**[2552.90s] English:** There is clear evidence of work being done at full capacity.  
 **Translation:** 
 
-**[2532.64s] English:** Алла Наркин, Эд Харрис, вы, Джонатан Прайс.  
+**[2555.38s] English:** You play contempt to perfection,  
 **Translation:** 
 
-**[2537.30s] English:** Это просто невероятно.  
-**Translation:** 
-
-**[2538.78s] English:** И должен сказать, может вы прокомментируете,  
-**Translation:** 
-
-**[2541.52s] English:** вы так много говорили о Джеке Лемоне, что для вас он был наставником и другом.  
-**Translation:** 
-
-**[2546.54s] English:** Это же одно из его величайших исполнений.  
-**Translation:** 
-
-**[2548.82s] English:** Величайшее.  
-**Translation:** 
-
-**[2549.34s] English:** В конце фильма у вас с ним есть очень мощная сцена.  
-**Translation:** 
-
-**[2552.90s] English:** Там видна работа на полную мощность.  
-**Translation:** 
+**[2560.42s] English:** He plays the despair from perfection to despair.  
+**Translation:** Vocabulary: contempt: 轻视
 
-**[2555.38s] English:** Вы отыгрываете презрение до совершенства,  
+**[2563.64s] English:** What scene is this?  
 **Translation:** 
 
-**[2560.42s] English:** а он отыгрывает отчаяние до совершенства.  
+**[2564.38s] English:** What was it like when you two were at the peak of your game together?  
 **Translation:** 
 
-**[2563.64s] English:** Что за сцена?  
+**[2568.34s] English:** Nu, by that time we had already put "Long Day Fading into Night" on stage in the theater.  
 **Translation:** 
 
-**[2564.38s] English:** Каково это было, когда вы вдвоем были на пике своей игры?  
-**Translation:** 
+**[2573.10s] English:** Mini-series "Murder of Mary Feigan" was produced for NBC.  
+**Translation:** Vocabulary: fading: 褪去
 
-**[2568.34s] English:** Ну, к тому времени мы уже поставили «Долгий день уходит в ночь» в театре.  
+**[2577.04s] English:** They made a film called "Papa.  
 **Translation:** 
 
-**[2573.10s] English:** Сняли мини-сериал «Убийство Мэри Фейгана» на NBC.  
-**Translation:** 
+**[2579.68s] English:** He was filmed by Gary David Goldberg with Ted Danson.  
+**Translation:** Vocabulary: goldberg: 戈德伯格
 
-**[2577.04s] English:** Сняли фильм под названием «Папа».  
+**[2583.68s] English:** This was the fourth time we worked together.  
 **Translation:** 
 
-**[2579.68s] English:** Его снял Гэри Дэвид Голдберг с Тедом Дэнсоном.  
+**[2586.40s] English:** We knew each other, and he became... he became a fatherly figure for me.  
 **Translation:** 
 
-**[2583.68s] English:** Это был четвертый раз, когда мы работали вместе.  
+**[2591.98s] English:** I don't know if you know that I met Jack Lemon for the first time,  
 **Translation:** 
 
-**[2586.40s] English:** И мы знали друг друга, мы стали... он стал для меня отцовской фигурой.  
+**[2596.32s] English:** When I was very, very young.  
 **Translation:** 
 
-**[2591.98s] English:** И не знаю, знаешь ли ты, что я впервые встретил Джека Лемона,  
+**[2599.44s] English:** He worked on staging a play called "John and Leaوكok" at the Mark Taper Forum for Shawn and Casey.  
 **Translation:** 
 
-**[2596.32s] English:** когда был очень и очень молод.  
+**[2604.82s] English:** Good morning Matau and Morin Stapleton.  
 **Translation:** 
 
-**[2599.44s] English:** Он занимался постановкой в Mark Taper Forum пьесы Шону и Кейси под названием «Джону и Лейкок»  
+**[2607.02s] English:** In December 2019, on Saturday,  
 **Translation:** 
 
-**[2604.82s] English:** с улутром Матау и Морин Степплтон.  
+**[2609.34s] English:** 1974年,  
 **Translation:** 
 
-**[2607.02s] English:** И в субботу, в декабре 2019,  
+**[2611.42s] English:** My middle school dramatics club went to a master class.  
 **Translation:** 
 
-**[2609.34s] English:** 1974 года,  
-**Translation:** 
+**[2615.98s] English:** He was called "How to Pass an Audition.  
+**Translation:** Vocabulary: audition: 试镜; dramatics: 戏剧
 
-**[2611.42s] English:** мой драматический кружок средней школы поехал на мастер-класс.  
+**[2618.56s] English:** We completed this master-class.  
 **Translation:** 
 
-**[2615.98s] English:** Он назывался «Как пройти прослушивание».  
-**Translation:** 
+**[2622.04s] English:** Many schools in Southern California were part of this dramatic association.  
+**Translation:** Vocabulary: california: 加利福尼亚
 
-**[2618.56s] English:** И мы прошли этот мастер-класс.  
+**[2625.50s] English:** So we got these incredible opportunities.  
 **Translation:** 
 
-**[2622.04s] English:** Многие школы Южной Калифорнии входили в состав этой драматической ассоциации,  
+**[2627.64s] English:** To see professional performances, participate in these master classes and festivals.  
 **Translation:** 
 
-**[2625.50s] English:** так что мы получили эти невероятные возможности  
+**[2632.48s] English:** So I had to go out and deliver a monologue to Mr. Lemon,  
 **Translation:** 
 
-**[2627.64s] English:** увидеть профессиональные постановки, поучаствовать в этих мастер-классах и фестивалях.  
-**Translation:** 
+**[2636.16s] English:** When I was 13 years old.  
+**Translation:** Vocabulary: monologue: 独白
 
-**[2632.48s] English:** Так что мне пришлось выйти и прочитать монолог перед мистером Лемоном,  
+**[2638.22s] English:** At the end of all this,  
 **Translation:** 
 
-**[2636.16s] English:** когда мне было 13 лет.  
-**Translation:** 
+**[2639.34s] English:** He approached me,  
+**Translation:** Vocabulary: approached: 走近
 
-**[2638.22s] English:** В конце всего этого,  
+**[2640.00s] English:** He placed his hand on my shoulder and said, "This was simply amazing." He said, "No, in the sense that you  
 **Translation:** 
 
-**[2639.34s] English:** он подошел к мне,  
-**Translation:** 
+**[2645.22s] English:** Did you do everything I just told you to? What's your name? I'm Kevin. Oon, when you finish school, I'm sure.  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[2640.00s] English:** мне положил руку мне на плечо и сказал это было просто потрясающе он сказал нет смысле что ты  
+**[2651.28s] English:** You will continue to be involved in theater. You should go to New York and study to become an actor, because this is  
 **Translation:** 
 
-**[2645.22s] English:** сделал все что я только что сказал как тебя зовут я говорю кевин оон когда ты закончишь школу уверен  
+**[2656.02s] English:** Your calling, and he was like an idol, and after 12 years, I read in the New York Times that he is planning to.  
 **Translation:** 
 
-**[2651.28s] English:** ты и дальше будешь заниматься театром ты должен поехать в нью-йорк и учиться на актера ведь это  
+**[2666.52s] English:** On Vorotvey, to put a long day to sleep as it slips into night, and after more than a year of reading this,  
 **Translation:** 
 
-**[2656.02s] English:** твое призвание и он был как идол и через 12 лет я прочитал в нью-йорк таймс что он собирается  
-**Translation:** 
+**[2673.24s] English:** I thought about playing Jamie in this production, and then, despite a lot of resistance,  
+**Translation:** Vocabulary: jamie: 简米
 
-**[2666.52s] English:** на вородвей чтобы поставить долгий день уходит в ночь и через год с лишним после прочтения этой  
+**[2681.04s] English:** Casting director, and they wouldn't see me. They said that the director Jonathan Miller was away.  
 **Translation:** 
 
-**[2673.24s] English:** статьи я подумал я сыграю джейми в этой постановке и тогда несмотря на большое сопротивление  
-**Translation:** 
+**[2688.12s] English:** I wanted two of my sons to become actors, and in the end, I  
+**Translation:** Vocabulary: casting: 选角
 
-**[2681.04s] English:** кастинг директора и видеть меня не хотели они сказали что режиссер джонатан миллер  
+**[2696.52s] English:** I learned that Jonathan Miller himself is coming to New York to read a series of lectures at Alice Staleys.  
 **Translation:** 
 
-**[2688.12s] English:** хотел чтобы двух сыновей сыграли киноактеры и в конце концов я  
-**Translation:** 
+**[2702.58s] English:** Hall, I went there to try and figure out how I could meet him. I was sitting in that theater listening to this.  
+**Translation:** Vocabulary: staleys: 斯蒂利
 
-**[2696.52s] English:** я узнал что сам джонатан миллер приезжает в нью-йорк читать серию лекций в элис стали  
+**[2714.68s] English:** Incredible lecture he was giving, and next to me sat an elderly woman in the sense of.  
 **Translation:** 
 
-**[2702.58s] English:** холл я пошел туда попытаться понять как я могу с ним встретиться я сидел в том театре слушая эту  
+**[2721.64s] English:** She appeared to be in her eighties or so, and she was sleeping.  
 **Translation:** 
 
-**[2714.68s] English:** невероятную лекцию которую он читал с рядом со мной сидела пожилая женщина пожилая смысле  
+**[2726.52s] English:** But from her purse, which lay on the floor, stuck out  
 **Translation:** 
 
-**[2721.64s] English:** на вид лет восьмидесяти с чем-то и она спала  
+**[2731.32s] English:** Invitation to a cocktail in honor of Dr. Jonathan Miller. In general, I thought  
 **Translation:** 
 
-**[2726.52s] English:** но из ее сумочки которая лежала на полу торчала  
+**[2740.82s] English:** Nu, she's probably tired, so she'll likely go home. That's why I picked him up and headed off.  
 **Translation:** 
 
-**[2731.32s] English:** приглашение на коктейль в честь доктора джонатана миллера в общем я я подумал  
-**Translation:** 
+**[2749.34s] English:** For this party, and eventually approached Dr. Miller, who was  
+**Translation:** Vocabulary: approached: 靠近
 
-**[2740.82s] English:** ну что она устала она скорее всего пойдет домой так что я я я забрал его и отправился  
+**[2756.52s] English:** Incredibly kind, and said "Yes, come sit.  
 **Translation:** 
 
-**[2749.34s] English:** на эту вечеринку и в конце концов подошел к доктору миллеру который был  
+**[2760.00s] English:** I am always curious what brings young people to my lectures.  
 **Translation:** 
 
-**[2756.52s] English:** невероятно добр и сказал да да садись  
+**[2762.80s] English:** I told him that Eugene O'Neill brought me here.  
 **Translation:** 
 
-**[2760.00s] English:** Мне всегда любопытно, что приводят молодежь на мои лекции.  
-**Translation:** 
+**[2765.86s] English:** He is in shock that he finally got to meet someone he always wanted to meet.  
+**Translation:** Vocabulary: eugene: 尤金
 
-**[2762.80s] English:** А я сказал ему, Юджин О'Нилл привел меня сюда.  
+**[2768.12s] English:** Where is he?  
 **Translation:** 
 
-**[2765.86s] English:** И он в шоке, что что, а всегда хотел его встретить.  
+**[2768.94s] English:** I told him that I tried for seven months.  
 **Translation:** 
 
-**[2768.12s] English:** Где он?  
+**[2771.58s] English:** To get into the auditions for Long Day's Journey Into Night,  
 **Translation:** 
 
-**[2768.94s] English:** Я сказал ему, что я пытался семь месяцев  
-**Translation:** 
+**[2776.94s] English:** And what did American casting directors tell my agents?  
+**Translation:** Vocabulary: auditions: 试镜; casting: 选角
 
-**[2771.58s] English:** попасть на прослушивание долгого дня,  
+**[2779.80s] English:** What he wants are big American movie stars.  
 **Translation:** 
 
-**[2776.94s] English:** и что американские кастинг-директора говорили моим агентам,  
+**[2782.64s] English:** In that moment, he turned around and saw one of the casting directors.  
 **Translation:** 
 
-**[2779.80s] English:** что он хочет больших американских кинозвезд.  
+**[2787.44s] English:** Which was there that night.  
 **Translation:** 
 
-**[2782.64s] English:** И в тот момент он повернулся и увидел одного из тех кастинг-директоров,  
+**[2789.00s] English:** I knew he would be in New York,  
 **Translation:** 
 
-**[2787.44s] English:** который был там той ночью.  
+**[2791.58s] English:** And it begins listening this week.  
 **Translation:** 
 
-**[2789.00s] English:** А я ведь знал, что он будет в Нью-Йорке,  
+**[2794.68s] English:** She looked at me with such hatred.  
 **Translation:** 
 
-**[2791.58s] English:** и начинает прослушивание на этой неделе.  
+**[2798.20s] English:** He immediately understood everything.  
 **Translation:** 
 
-**[2794.68s] English:** Она смотрела на меня с такой ненавистью.  
+**[2800.40s] English:** He said, "Give me a pen,  
 **Translation:** 
 
-**[2798.20s] English:** И он сразу все понял.  
+**[2802.16s] English:** And he took pieces of paper and began writing,  
 **Translation:** 
 
-**[2800.40s] English:** Он сказал, дайте ручку,  
-**Translation:** 
+**[2804.88s] English:** Said, listen, Kevin,  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[2802.16s] English:** и взял кусочки бумажки и начал писать,  
+**[2806.08s] English:** There are many situations in which casting directors have a lot of weight.  
 **Translation:** 
 
-**[2804.88s] English:** сказавши, слушай, Кевин,  
+**[2809.26s] English:** Much power, much influence,  
 **Translation:** 
 
-**[2806.08s] English:** есть много ситуаций, в которых кастинг-директора имеют много веса,  
+**[2811.02s] English:** But there are other situations as well.  
 **Translation:** 
 
-**[2809.26s] English:** много власти, много влияния,  
+**[2812.52s] English:** When they simply convey the director's words.  
 **Translation:** 
 
-**[2811.02s] English:** но есть и другие ситуации,  
+**[2814.58s] English:** In this instance, everything turned out as expected.  
 **Translation:** 
 
-**[2812.52s] English:** когда они просто передают слова режиссера.  
+**[2815.82s] English:** I stopped here. Let your people get in touch with me.  
 **Translation:** 
 
-**[2814.58s] English:** В этот раз все так и было.  
+**[2818.66s] English:** It is being monitored.  
 **Translation:** 
 
-**[2815.82s] English:** Я остановился здесь, пусть твои люди со мной свяжутся,  
+**[2819.00s] English:** All of them start on Thursday.  
 **Translation:** 
 
-**[2818.66s] English:** прослушиваются.  
+**[2821.72s] English:** On Thursday, I had an opportunity to appear.  
 **Translation:** 
 
-**[2819.00s] English:** Все они начинаются в четверг.  
-**Translation:** 
+**[2823.70s] English:** To audition for this piece,  
+**Translation:** Vocabulary: audition: 试镜
 
-**[2821.72s] English:** И в четверг у меня появилась возможность  
+**[2826.40s] English:** Over which I worked and in which I prepared.  
 **Translation:** 
 
-**[2823.70s] English:** пройти прослушивание для этой пьесы,  
+**[2829.94s] English:** In the end,  
 **Translation:** 
 
-**[2826.40s] English:** над которой я работал и в которой готовился.  
+**[2832.00s] English:** I played four scenes.  
 **Translation:** 
 
-**[2829.94s] English:** И в конце концов,  
+**[2833.80s] English:** At the end, he said to me,  
 **Translation:** 
 
-**[2832.00s] English:** я сыграл четыре сцены.  
+**[2836.10s] English:** What if someone else doesn't come and strike him as I did?  
 **Translation:** 
 
-**[2833.80s] English:** В конце он сказал мне,  
+**[2839.80s] English:** That, in his opinion, is almost in my pocket.  
 **Translation:** 
 
-**[2836.10s] English:** что если кто-то другой не придет и не поразит его так же, как я,  
+**[2842.16s] English:** But I couldn't say this to my agents.  
 **Translation:** 
 
-**[2839.80s] English:** то, по его мнению, роль у меня почти в кармане.  
+**[2844.06s] English:** Well, I had to go to auditions with Wister Lemon.  
 **Translation:** 
 
-**[2842.16s] English:** Но я не мог это сказать своим агентам,  
+**[2847.94s] English:** Three months later,  
 **Translation:** 
 
-**[2844.06s] English:** ведь я должен был идти на пробы с Вистером Лемоном.  
+**[2849.00s] English:** In August 1985, I found myself in a room with Jack Lemmon.  
 **Translation:** 
 
-**[2847.94s] English:** И три месяца спустя,  
+**[2854.10s] English:** At 890 Broadway,  
 **Translation:** 
 
-**[2849.00s] English:** в августе 1985 я оказался в комнате с Джеком Лемоном  
-**Translation:** 
+**[2856.64s] English:** Where did many Broadway plays rehearse?  
+**Translation:** Vocabulary: broadway: 百老汇; rehearse: 彩排
 
-**[2854.10s] English:** на 890 Бродвей,  
+**[2860.24s] English:** We played together in four scenes.  
 **Translation:** 
 
-**[2856.64s] English:** где проходили репетиции многих бродвейских пьес.  
+**[2862.28s] English:** I pressed on him, crushing him.  
 **Translation:** 
 
-**[2860.24s] English:** Мы сыграли вместе четыре сцены.  
+**[2864.80s] English:** I was relentless.  
 **Translation:** 
 
-**[2862.28s] English:** Я наваливался на него, сокрушал.  
-**Translation:** 
+**[2867.94s] English:** And I will never forget how at the end,  
+**Translation:** Vocabulary: relentless: 毫不松懈
 
-**[2864.80s] English:** Я был неумолим.  
+**[2869.72s] English:** Lemon approached me, placed his hand on my shoulder.  
 **Translation:** 
 
-**[2867.94s] English:** И я никогда не забуду, как в конце  
-**Translation:** 
+**[2875.40s] English:** He said,  
+**Translation:** Vocabulary: approached: 走近
 
-**[2869.72s] English:** Лемон подошел ко мне, положил руку мне на плечо  
+**[2876.12s] English:** This was incredible!  
 **Translation:** 
 
-**[2875.40s] English:** и сказал,  
+**[2877.82s] English:** I didn't think we would find him.  
 **Translation:** 
 
-**[2876.12s] English:** «Это было невероятно!»  
+**[2879.00s] English:** Dark, bright flame.  
 **Translation:** 
 
-**[2877.82s] English:** Не думал, что мы его найдем.  
+**[2880.00s] English:** What was it, and I spent the entire following year of my life with this person, which turned out to mean that he  
 **Translation:** 
 
-**[2879.00s] English:** Темно, светлый угонь.  
+**[2891.34s] English:** He was right, for this world is structured in a mysterious way, which also speaks to how important it is when that someone comes.  
 **Translation:** 
 
-**[2880.00s] English:** что это было и я провел весь следующий год своей жизни с этим человеком значит оказалось что он  
+**[2901.66s] English:** You are admired for giving words of support because they can resonate through your entire life and simply...  
 **Translation:** 
 
-**[2891.34s] English:** был прав да этот мир устроен загадочным образом это также говорит о том как важно когда тот кем  
+**[2909.22s] English:** Make the path clear; I always we often joked that if every contract included a Jack Lemon clause  
 **Translation:** 
 
-**[2901.66s] English:** ты восхищаешься дает слова поддержки потому что они могут пронестись через всю твою жизнь и просто  
-**Translation:** 
+**[2917.40s] English:** The world would be a bit more beautiful, Jack Lemmon said beautifully, one of the greatest actors of all.  
+**Translation:** Vocabulary: clause: 条款; lemmon: 莱蒙
 
-**[2909.22s] English:** сделать путь ясным я всегда мы часто шутили что если бы каждый контракт включал пункт джека лемона  
+**[2923.86s] English:** As you think that makes him so darn good, I guess he's just thinking that.  
 **Translation:** 
 
-**[2917.40s] English:** мир был бы чуть прекраснее красиво сказано джек лемон один из величайших актеров всех  
-**Translation:** 
+**[2937.46s] English:** Really, he strove in his life.  
+**Translation:** Vocabulary: strove: 努力
 
-**[2923.86s] English:** времен как вы думаете что делает его таким чертовски хорошим полагаю он я думаю что он  
+**[2939.22s] English:** Execute what his father told him on his deathbed; his father was, by the way, famous in  
 **Translation:** 
 
-**[2937.46s] English:** действительно стремился в своей жизни  
-**Translation:** 
+**[2949.54s] English:** In Boston, as the king of donuts, he had no relation to the entertainment industry; he literally owned the company.  
+**Translation:** Vocabulary: deathbed: 临终床边; donuts: 甜甜圈; execute: 执行
 
-**[2939.22s] English:** выполнить то что его отец сказал ему на смертном одре его отец умирал кстати он был известен в  
+**[2957.52s] English:** In the production of donuts, and when his father was dying, Chek said that was the last thing my father told me.  
 **Translation:** 
 
-**[2949.54s] English:** бостоне как король пончиков и не имел отношения к индустрии развлечений он буквально владел компании  
+**[2969.22s] English:** And I really think that's what Jack loved to do.  
 **Translation:** 
 
-**[2957.52s] English:** по производству пончиков и когда его отец умирал чек сказал последнее что мой отец сказал мне было  
+**[2973.10s] English:** I remember this, I don't know if it can give an answer to your question, but I think it shows what he  
 **Translation:** 
 
-**[2969.22s] English:** и я вправду думаю что это то что джек любил делать  
+**[2988.40s] English:** He was capable of doing what he was capable of doing, and somehow that influenced what I could do.  
 **Translation:** 
 
-**[2973.10s] English:** я помню это я не знаю может ли это дать ответ на ваш вопрос но я думаю что это показывает на что он  
+**[2993.64s] English:** Mendes is not a director by American standards of beauty.  
 **Translation:** 
 
-**[2988.40s] English:** способен что он был способен делать и как-то в итоге повлияло на то что я мог делать  
-**Translation:** 
+**[2999.22s] English:** Editor of Subtitles A. Semykin  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[2993.64s] English:** до красоты по-американски сам мендес не режиссер  
+**[3000.00s] English:** And what he did was take the best theatrical elements and apply them in the process. We rehearsed  
 **Translation:** 
 
-**[2999.22s] English:** Редактор субтитров А.Семкин  
-**Translation:** 
+**[3009.82s] English:** This is like a play in a pavilion, where everything was set up as in a play. This couch will be here, and this one there. And  
+**Translation:** Vocabulary: pavilion: 亭子; rehearsed: 排练
 
-**[3000.00s] English:** И что он сделал, так это взял лучшие театральные элементы и применил их в процессе. Мы репетировали  
+**[3017.40s] English:** He sent me a couple of tapes, one of which he called "Leister Do" before he starts.  
 **Translation:** 
 
-**[3009.82s] English:** это как пьесу в павильоне, где все было расставлено как в пьесе, это диван будет здесь, это там. И  
-**Translation:** 
+**[3028.32s] English:** To move in this direction, and then "Leicester After," and these were different songs. And one day he said  
+**Translation:** Vocabulary: leicester: 莱斯特
 
-**[3017.40s] English:** он прислал мне пару кассет, одну из которых он называл «Лестер До», перед тем, как он начнет  
+**[3038.56s] English:** It was always genius on Sam's part to use Lemon, knowing that Lemon  
 **Translation:** 
 
-**[3028.32s] English:** двигаться в этом направлении, а затем «Лестер После», и это были разные песни. И однажды он сказал  
+**[3044.34s] English:** It meant a lot to me. He asked, when was the last time you watched "Apartment"? And I said, I don't remember.  
 **Translation:** 
 
-**[3038.56s] English:** мне, и я всегда думал, что это было гениально со стороны Сэма использовать Лемона, зная, что Лемон  
+**[3051.38s] English:** But I do love this film. He says, "I want you to watch it again, and then we can talk.  
 **Translation:** 
 
-**[3044.34s] English:** значил для меня. Он сказал, когда ты последний раз смотрел «Квартиру»? А я сказал, не помню,  
+**[3058.32s] English:** In general, I watched it again. We sat down, and Sam said,  
 **Translation:** 
 
-**[3051.38s] English:** но я же обожаю этот фильм. Он говорит, я хочу, чтобы ты опять посмотрел, а потом поговорим.  
+**[3065.58s] English:** What Lemon does in this film is incredible. Because there isn't a single moment in the film,  
 **Translation:** 
 
-**[3058.32s] English:** В общем, я снова его посмотрел. Мы сели, и Сэм сказал,  
-**Translation:** 
+**[3073.96s] English:** Where we see how he changes. He simply evolves and becomes what,  
+**Translation:** Vocabulary: evolves: 转变
 
-**[3065.58s] English:** что то, что Лемон делает в этом фильме, невероятно. Потому что нет ни одного момента в фильме,  
+**[3081.94s] English:** What he becomes, thanks to the experience he gains throughout the film. But  
 **Translation:** 
 
-**[3073.96s] English:** где мы видим, как он меняется. Он просто эволюционирует. И он становится тем,  
+**[3088.32s] English:** There is a notable sequence in what he becomes, and this is what I need from you in.  
 **Translation:** 
 
-**[3081.94s] English:** кем становится, благодаря опыту, который он получает на протяжении всего фильма. Но  
+**[3094.52s] English:** Roles for Lester. I don't want the audience to see him changing. I want him to evolve.  
 **Translation:** 
 
-**[3088.32s] English:** есть примечательная последовательность в том, кем он становится. И это то, что мне нужно от тебя в  
-**Translation:** 
+**[3102.68s] English:** In the end, we did... Firstly, it was simply excellent guidance. And secondly,  
+**Translation:** Vocabulary: evolve: 逐步发展; firstly: 首先
 
-**[3094.52s] English:** роли Лестера. Я не хочу, чтобы зрители видели, как он меняется. Я хочу, чтобы он эволюционировал.  
+**[3109.06s] English:** We made a couple of things that people don't know about to help this gradual  
 **Translation:** 
 
-**[3102.68s] English:** В итоге мы сделали... Во-первых, это было просто отличное руководство. А во-вторых,  
-**Translation:** 
+**[3115.58s] English:** Change of Character.  
+**Translation:** Vocabulary: gradual: 缓慢的
 
-**[3109.06s] English:** мы сделали пару вещей, о которых люди не знают, чтобы помочь этому постепенному  
+**[3118.32s] English:** A person.  
 **Translation:** 
 
-**[3115.58s] English:** изменению характера.  
+**[3120.00s] English:** First, I had to be in the best shape from the very beginning of the movie.  
 **Translation:** 
 
-**[3118.32s] English:** Человека.  
+**[3123.86s] English:** We didn't shoot in chronological order.  
 **Translation:** 
 
-**[3120.00s] English:** Во-первых, я должен был быть в лучшей форме с самого начала фильма,  
-**Translation:** 
+**[3126.38s] English:** So, I'm in a frenzy.  
+**Translation:** Vocabulary: chronological: 按时间顺序; frenzy: 狂乱状态
 
-**[3123.86s] English:** ведь мы снимали не по хронологии.  
+**[3128.90s] English:** My trainer was named Mike Torsha, and he was wonderful.  
 **Translation:** 
 
-**[3126.38s] English:** Итак, я в сумасшедшей форме.  
-**Translation:** 
+**[3131.56s] English:** He is simply incredible.  
+**Translation:** Vocabulary: trainer: 教练
 
-**[3128.90s] English:** У меня был прекрасный тренер по имени Майк Торша.  
+**[3134.88s] English:** But what we did to show this gradual transition,  
 **Translation:** 
 
-**[3131.56s] English:** Он просто невероятен.  
+**[3139.02s] English:** It was... I had three different wigs.  
 **Translation:** 
 
-**[3134.88s] English:** Но то, что мы сделали, чтобы показать этот постепенный переход,  
+**[3144.00s] English:** Three different types of costumes, of various colors and sizes.  
 **Translation:** 
 
-**[3139.02s] English:** был... у меня было три разных парика,  
-**Translation:** 
+**[3147.48s] English:** Grime also varied.  
+**Translation:** Vocabulary: costumes: 服装; varied: 不同
 
-**[3144.00s] English:** три разных вида костюма, разных цветов и размеров.  
+**[3151.78s] English:** At the very beginning, I wore dull, boring,  
 **Translation:** 
 
-**[3147.48s] English:** И грим тоже был разный.  
+**[3155.84s] English:** Slightly, you know, not very inspiring wig,  
 **Translation:** 
 
-**[3151.78s] English:** В самом начале я носил тусклую, скучную,  
+**[3160.56s] English:** My makeup was gray and dull.  
 **Translation:** 
 
-**[3155.84s] English:** слегка, знаете, невдохновляющий парик,  
-**Translation:** 
+**[3164.20s] English:** And I sometimes came across as something like that.  
+**Translation:** Vocabulary: makeup: 妆容
 
-**[3160.56s] English:** а мой грим был серым и скучным,  
+**[3167.28s] English:** And Sam said, "Kevin, you look like Walter Matao,  
 **Translation:** 
 
-**[3164.20s] English:** и я порою слегка смахивал на что-то такое,  
-**Translation:** 
+**[3170.64s] English:** Please straighten up a bit.  
+**Translation:** Vocabulary: straighten: 整理仪容
 
-**[3167.28s] English:** и Сэм говорил, «Кевин, ты похож на Уолтера Матао,  
+**[3172.62s] English:** Then we were somewhere in the middle.  
 **Translation:** 
 
-**[3170.64s] English:** пожалуйста, выпрямись немного».  
+**[3175.88s] English:** In some moment,  
 **Translation:** 
 
-**[3172.62s] English:** Тогда мы были где-то на середине.  
+**[3177.74s] English:** The haircut has changed,  
 **Translation:** 
 
-**[3175.88s] English:** И в какой-то момент,  
-**Translation:** 
+**[3179.60s] English:** In it, there were some small glints.  
+**Translation:** Vocabulary: glints: 闪光
 
-**[3177.74s] English:** парик поменялся,  
+**[3181.68s] English:** A bit more color,  
 **Translation:** 
 
-**[3179.60s] English:** в нем появились небольшие блики,  
+**[3183.36s] English:** A bit more makeup, and he became a bit taller.  
 **Translation:** 
 
-**[3181.68s] English:** чуть больше цвета,  
+**[3185.82s] English:** Costumes became a bit tighter.  
 **Translation:** 
 
-**[3183.36s] English:** чуть больше грим, стал чуть больше,  
-**Translation:** 
+**[3187.92s] English:** And, finally, the third wig with golden highlights,  
+**Translation:** Vocabulary: highlights: 金色 Highlights
 
-**[3185.82s] English:** костюмы стали немного теснее,  
+**[3191.60s] English:** With sun rays,  
 **Translation:** 
 
-**[3187.92s] English:** и, наконец, третий парик с золотыми бликами,  
+**[3192.78s] English:** And, you know, rosy cheeks,  
 **Translation:** 
 
-**[3191.60s] English:** с солнечными лучами,  
+**[3194.58s] English:** and elasticity.  
 **Translation:** 
 
-**[3192.78s] English:** и, знаете, румяные щеки,  
+**[3196.70s] English:** And this is what we call theatrical tricks.  
 **Translation:** 
 
-**[3194.58s] English:** и подтянутость.  
+**[3199.36s] English:** Poniamożcie, this is somehow...  
 **Translation:** 
 
-**[3196.70s] English:** И это то, что мы называем театральными трюками.  
-**Translation:** 
+**[3201.36s] English:** Viewers don't even understand what is happening,  
+**Translation:** Vocabulary: viewers: 观众
 
-**[3199.36s] English:** Понимаете, это как-то...  
+**[3203.66s] English:** But this is gradual.  
 **Translation:** 
 
-**[3201.36s] English:** Зрители даже не понимают, что это происходит,  
-**Translation:** 
+**[3205.24s] English:** And I always believed that  
+**Translation:** Vocabulary: gradual: 逐步的
 
-**[3203.66s] English:** но это постепенное.  
+**[3208.28s] English:** This was such a genius way,  
 **Translation:** 
 
-**[3205.24s] English:** И я всегда считал, что  
+**[3214.00s] English:** Because he knew my feelings for Jack.  
 **Translation:** 
 
-**[3208.28s] English:** это был такой гениальный способ,  
+**[3216.80s] English:** When you look at an apartment, you are amazed,  
 **Translation:** 
 
-**[3214.00s] English:** потому что он знал мои чувства к Джеку.  
+**[3220.12s] English:** That he doesn't even change.  
 **Translation:** 
 
-**[3216.80s] English:** И когда смотришь квартиру, то поражаешься,  
+**[3222.62s] English:** Just I...  
 **Translation:** 
 
-**[3220.12s] English:** что он даже не меняется.  
+**[3227.24s] English:** In fact, I thanked Jack.  
 **Translation:** 
 
-**[3222.62s] English:** Просто я...  
+**[3231.92s] English:** When did he receive an Oscar?  
 **Translation:** 
 
-**[3227.24s] English:** На самом деле, я поблагодарил Джека,  
-**Translation:** 
+**[3234.04s] English:** And...  
+**Translation:** Vocabulary: oscar: 奥斯卡奖
 
-**[3231.92s] English:** когда получил Оскар.  
+**[3234.72s] English:** And I was thinking...  
 **Translation:** 
 
-**[3234.04s] English:** И...  
+**[3240.00s] English:** He rose to deliver his grateful speech, stepped off the stage, and I remember having to sit for a moment because I didn't want to go to the press center; I wanted to see if Sam would win.  
 **Translation:** 
 
-**[3234.72s] English:** И я про...  
+**[3252.16s] English:** In general, I was waiting, and my phone rang, and it was Lemon.  
 **Translation:** 
 
-**[3240.00s] English:** Вознес свою благодарственную речь, сошел со сцены, и помню, что мне пришлось на минутку присесть, потому что я не хотел идти в пресс-центр, ведь хотел посмотреть, выиграет ли Сэм.  
+**[3257.60s] English:** He said, "You son of a bitch.  
 **Translation:** 
 
-**[3252.16s] English:** В общем, я жду, и у меня звонит телефон, и это был Лемон.  
+**[3260.96s] English:** I said, "What?  
 **Translation:** 
 
-**[3257.60s] English:** Он сказал, «Ты сукин сын».  
-**Translation:** 
+**[3262.16s] English:** He says, "First of all, congratulations and thanks for thanking me, because let me tell you, God witnesses that you wouldn't have made it without me.  
+**Translation:** Vocabulary: congratulations: 祝贺; witnesses: 作证
 
-**[3260.96s] English:** Я сказал, «Что?»  
+**[3268.80s] English:** And secondly, no matter how hard I chased victory, like an actor in a supporting role, I finally won an Oscar for Mr. Roberts, and it took me 10 to 12 years to get it, while you managed it in just 4, you son of a bitch.  
 **Translation:** 
 
-**[3262.16s] English:** Он говорит, «Во-первых, поздравляю и спасибо, что поблагодарил меня, ведь знаешь что, Бог свидетель, что без меня ты бы не справился.  
-**Translation:** 
+**[3280.80s] English:** Yes.  
+**Translation:** Vocabulary: chased: 追求
 
-**[3268.80s] English:** А во-вторых, сколько я гонялся за победой, как актер второго плана, я получил Оскар за мистера Робертса, и мне понадобилось 10-12 лет, чтобы его получить, а тебе удалось за 4, сукин ты сын».  
+**[3284.38s] English:** Квартира" was, and it is considered one of the greatest films of all time.  
 **Translation:** 
 
-**[3280.80s] English:** Да.  
-**Translation:** 
+**[3290.96s] English:** People sometimes call it a comedy, which is interesting from a classification standpoint.  
+**Translation:** Vocabulary: classification: 分类; standpoint: 角度
 
-**[3284.38s] English:** «Квартира» была, она же считается одним из величайших фильмов всех времен.  
+**[3296.30s] English:** I believe this is a lesson on comedy.  
 **Translation:** 
 
-**[3290.96s] English:** Люди иногда называют ее комедией, что интересно, с точки зрения классификации.  
+**[3298.80s] English:** I think that the best comedy is essentially a tragedy.  
 **Translation:** 
 
-**[3296.30s] English:** Полагаю, это урок о комедии.  
+**[3303.78s] English:** Nu, some people consider "The Wild Orange" a comedy.  
 **Translation:** 
 
-**[3298.80s] English:** Я думаю, что лучшая, наилучшая комедия, это по сути трагедия.  
-**Translation:** 
+**[3308.14s] English:** I don't say that there aren't any good jokes in "The Idiot Apfel," but it's true.  
+**Translation:** Vocabulary: apfel: 苹果
 
-**[3303.78s] English:** Ну, некоторые люди считают «Заводной апельсин» комедией.  
+**[3312.92s] English:** I mean, yes.  
 **Translation:** 
 
-**[3308.14s] English:** А я не говорю, что в «Заводном апельсине» нет хороших шуток, но это да.  
+**[3314.36s] English:** Where do you draw the line between comedy and tragedy?  
 **Translation:** 
 
-**[3312.92s] English:** Я имею в виду, да.  
+**[3323.00s] English:** Nu, if this is the boundary, then I constantly cross it because I always tried to...  
 **Translation:** 
 
-**[3314.36s] English:** Где для вас эта грань между комедией и трагедией?  
-**Translation:** 
+**[3328.80s] English:** ...to find humor, sometimes unexpected, may even be inappropriate or shocking.  
+**Translation:** Vocabulary: inappropriate: 不恰当
 
-**[3323.00s] English:** Ну, если это грань, то я постоянно ее перехожу, потому что я всегда старался...  
+**[3341.54s] English:** But I tried to have a sense of humor in almost every one of my dramatic roles.  
 **Translation:** 
 
-**[3328.80s] English:** ...найти юмор, иногда неожиданный, может, даже порой неуместный или шокирующий.  
-**Translation:** 
+**[3349.94s] English:** And be able to bring this in together with all the rest of the seriousness.  
+**Translation:** Vocabulary: seriousness: 严肃性
 
-**[3341.54s] English:** Но я старался почти в каждой своей драматической роли иметь чувство юмора  
+**[3357.98s] English:** Such as, honestly speaking,...  
 **Translation:** 
 
-**[3349.94s] English:** и уметь привнести это вместе со всей остальной серьезностью.  
+**[3358.80s] English:** ...Honestly speaking,...  
 **Translation:** 
 
-**[3357.98s] English:** Так как, честно говоря...  
+**[3360.00s] English:** So we overcome something in life, do you understand?  
 **Translation:** 
 
-**[3358.80s] English:** ...честно говоря...  
+**[3364.00s] English:** It seems that Sam Mendes said in the documentary film "Now.  
 **Translation:** 
 
-**[3360.00s] English:** Так мы преодолеваем что-то в жизни, понимаете?  
+**[3368.50s] English:** Something like "Great Performances and Exciting Histories  
 **Translation:** 
 
-**[3364.00s] English:** Вроде как Сэм Мендес сказал в документальном фильме «Сейчас»  
-**Translation:** 
+**[3373.66s] English:** Accompanied by humor on the way to the dark abode.  
+**Translation:** Vocabulary: abode: 住所
 
-**[3368.50s] English:** что-то вроде «Великие постановки и захватывающие истории  
+**[3377.88s] English:** Something like this.  
 **Translation:** 
 
-**[3373.66s] English:** сопровождаются юмором на пути в темную обитель».  
-**Translation:** 
+**[3379.56s] English:** Very poetic.  
+**Translation:** Vocabulary: poetic: 诗意的
 
-**[3377.88s] English:** Что-то типа этого.  
+**[3380.68s] English:** Though it's stuck in my head, it is true.  
 **Translation:** 
 
-**[3379.56s] English:** Очень поэтично.  
-**Translation:** 
+**[3382.18s] English:** Sorry, such heights of poetry I have not attained.  
+**Translation:** Vocabulary: attained: 达到
 
-**[3380.68s] English:** Хоть у меня и засело, но это правда.  
+**[3384.36s] English:** I am very sorry.  
 **Translation:** 
 
-**[3382.18s] English:** Простите, такие высоты поэзии я не осилил.  
+**[3385.20s] English:** But it is true.  
 **Translation:** 
 
-**[3384.36s] English:** Мне очень жаль.  
+**[3386.20s] English:** In other words, that the people I interacted with in this world,  
 **Translation:** 
 
-**[3385.20s] English:** Но это правда.  
-**Translation:** 
+**[3389.02s] English:** People who have experienced war,  
+**Translation:** Vocabulary: interacted: 交往
 
-**[3386.20s] English:** В смысле, что люди, с которыми я общался в этом мире,  
+**[3392.44s] English:** Those who lost the most and suffered the most,  
 **Translation:** 
 
-**[3389.02s] English:** люди, прочувствовавших войну,  
-**Translation:** 
+**[3396.36s] English:** Usually they are those who can joke quickly and nimbly.  
+**Translation:** Vocabulary: nimbly: 灵活地
 
-**[3392.44s] English:** те, кто потерял больше всего и страдал больше всего,  
+**[3402.06s] English:** Often their jokes are dark, absurd, and cross any boundaries.  
 **Translation:** 
 
-**[3396.36s] English:** обычно они те, кто способен шутить быстро и ловко.  
-**Translation:** 
+**[3406.32s] English:** No political correctness and all of that.  
+**Translation:** Vocabulary: absurd: 荒谬; correctness: 正确性
 
-**[3402.06s] English:** Зачастую их шутки мрачные, абсурдные, и переходят любые границы.  
+**[3408.50s] English:** Of course.  
 **Translation:** 
 
-**[3406.32s] English:** Никакой политкорректности и все вот это.  
-**Translation:** 
+**[3409.30s] English:** Know what? This is like Mary Tyler Moore's great show.  
+**Translation:** Vocabulary: tyler: 泰勒
 
-**[3408.50s] English:** Конечно.  
+**[3413.32s] English:** Where they can't stop laughing at the clown's funeral.  
 **Translation:** 
 
-**[3409.30s] English:** Знаете, это как великое шоу Мэри Тайлер Мур,  
+**[3416.90s] English:** This is surely one of the best episodes.  
 **Translation:** 
 
-**[3413.32s] English:** где они не могут перестать смеяться на похоронах клоуна.  
+**[3419.02s] English:** Ponimayete, smeyatsya na pokhronakh - eto kak pernut tam zhe.  
 **Translation:** 
 
-**[3416.90s] English:** Это ведь один из лучших эпизодов.  
-**Translation:** 
+**[3423.36s] English:** And you know, I'm sure there are people who have done both.  
+**Translation:** Vocabulary: pokhronakh: 时间; ponimayete: 明白; smeyatsya: 笑
 
-**[3419.02s] English:** Понимаете, смеяться на похоронах – это как пернуть там же.  
+**[3429.26s] English:** Oh, God.  
 **Translation:** 
 
-**[3423.36s] English:** И знаете, я уверен, есть люди, которые делали то и другое.  
+**[3431.06s] English:** So, you mentioned American beauty.  
 **Translation:** 
 
-**[3429.26s] English:** О, Боже.  
+**[3434.66s] English:** The thought that it's not about change but evolution,  
 **Translation:** 
 
-**[3431.06s] English:** Итак, вы затронули красоту по-американски.  
+**[3440.52s] English:** Very interesting because it's a film about self-searching.  
 **Translation:** 
 
-**[3434.66s] English:** И мысль о том, что не изменение, а эволюционирование,  
+**[3445.26s] English:** This is a philosophical deep film.  
 **Translation:** 
 
-**[3440.52s] English:** очень интересна, потому что это фильм о поисках себя.  
-**Translation:** 
+**[3447.76s] English:** He talks about different characters.  
+**Translation:** Vocabulary: philosophical: 哲学的
 
-**[3445.26s] English:** Это философский глубокий фильм.  
+**[3449.02s] English:** Each of which finds its identity in the world,  
 **Translation:** 
 
-**[3447.76s] English:** Он про разных персонажей.  
-**Translation:** 
+**[3452.76s] English:** Where, possibly, a materialistic system may incline you to be like everyone else.  
+**Translation:** Vocabulary: incline: 倾向; materialistic: 物质主义的
 
-**[3449.02s] English:** Каждый из которых находит свою идентичность в мире,  
+**[3460.86s] English:** I want to say that Leicester truly transforms throughout the movie.  
 **Translation:** 
 
-**[3452.76s] English:** где, возможно, система, материалистическая система, склоняет вас быть как все.  
-**Translation:** 
+**[3464.86s] English:** You say that the challenge is to essentially remain the same person.  
+**Translation:** Vocabulary: transforms: 变化
 
-**[3460.86s] English:** Хочу сказать, что Лестер действительно преобразуется на протяжении фильма.  
+**[3472.82s] English:** Yes, in addition, I think that the film  
 **Translation:** 
 
-**[3464.86s] English:** И вы говорите, что вызов в том, чтобы, по сути, оставаться тем же человеком.  
+**[3477.02s] English:** It turned out.  
 **Translation:** 
 
-**[3472.82s] English:** Да, к тому же, я думаю, что фильм  
+**[3479.02s] English:** Very strong.  
 **Translation:** 
 
-**[3477.02s] English:** получился  
-**Translation:** 
+**[3480.00s] English:** Because it contained three very honest and sincere images of young people.  
+**Translation:** Vocabulary: sincere: 真诚
 
-**[3479.02s] English:** очень сильным.  
+**[3489.50s] English:** And there was Leicester, behaving like a young man.  
 **Translation:** 
 
-**[3480.00s] English:** Потому что в нем было три очень честных и искренних образа молодых людей.  
-**Translation:** 
+**[3494.34s] English:** Committing unexpected actions, and I believe that,  
+**Translation:** Vocabulary: behaving: 表现; leicester: 莱斯特
 
-**[3489.50s] English:** И еще был Лестер, ведущий себя как молодой человек,  
+**[3499.12s] English:** Honesty with which problems teenagers go through are examined,  
 **Translation:** 
 
-**[3494.34s] English:** совершая неожиданные поступки, и полагаю, что  
+**[3507.40s] English:** And the honesty of considering what Leicester is facing,  
 **Translation:** 
 
-**[3499.12s] English:** честность, с которой рассматриваются проблемы, через которые проходят подростки,  
+**[3512.76s] English:** I think these are precisely the reasons why the film elicited such a response.  
 **Translation:** 
 
-**[3507.40s] English:** и честность рассмотрения того, с чем сталкивается Лестер,  
-**Translation:** 
+**[3519.00s] English:** To many people.  
+**Translation:** Vocabulary: elicited: 引起; precisely: 正是
 
-**[3512.76s] English:** думаю, это именно те причины, почему фильм вызвал такой отклик.  
+**[3521.78s] English:** Became accustomed to being stopped, and someone would say to me,  
 **Translation:** 
 
-**[3519.00s] English:** У столь многих людей.  
-**Translation:** 
+**[3527.18s] English:** Upon my first viewing of 'Beauty and the Beast,' I was married, but by the second viewing, I was not.  
+**Translation:** Vocabulary: accustomed: 习惯
 
-**[3521.78s] English:** Бывало, меня останавливали, и кто-нибудь говорил мне,  
+**[3535.18s] English:** I replied, "Well, we are intolerable.  
 **Translation:** 
 
-**[3527.18s] English:** «При первом просмотре «Красоты по-американски» я был женат, а при втором уже нет».  
-**Translation:** 
+**[3537.40s] English:** We did not strive for an increase in divorces; this was not part of our plans.  
+**Translation:** Vocabulary: divorces: 离婚; intolerable: 无法忍受; strive: 努力
 
-**[3535.18s] English:** Я отвечал, «Ну, мы нестерпимы».  
+**[3540.82s] English:** But this is interesting, what so many people think.  
 **Translation:** 
 
-**[3537.40s] English:** Мы не стремились к увеличению разводов, это не входило в наши планы.  
-**Translation:** 
+**[3543.78s] English:** There are these kinds of疯狂的幻想。 (Note: The last word "fantasies" seems to be cut off in the original Russian and might need to be translated as "mad fantasies" or kept in English based on context, but I'll keep it as "fantasies" for now.)  
+**Translation:** Vocabulary: fantasies: 疯狂的想象
 
-**[3540.82s] English:** Но это же интересно, что у столь многих людей  
+**[3550.40s] English:** What greatly fascinated me about Leicester, as a person I wanted to play, was  
 **Translation:** 
 
-**[3543.78s] English:** есть такого рода безумные фантазии.  
-**Translation:** 
+**[3557.18s] English:** This is what ultimately leads him to make the right decision.  
+**Translation:** Vocabulary: fascinated: 着迷
 
-**[3550.40s] English:** И что меня так сильно восхищало в Лестере, как в человеке, которого я хотел сыграть,  
+**[3561.44s] English:** I think many people live their lives in quiet despair,  
 **Translation:** 
 
-**[3557.18s] English:** это то, что в итоге он принимает правильное решение.  
+**[3566.86s] English:** Working,  
 **Translation:** 
 
-**[3561.44s] English:** Я думаю, многие люди проживают жизнь в тихом отчаянии,  
+**[3567.40s] English:** At work, which they don't like,  
 **Translation:** 
 
-**[3566.86s] English:** работая,  
+**[3571.48s] English:** Living in a marriage where they are unhappy,  
 **Translation:** 
 
-**[3567.40s] English:** на работе, которая им не нравится,  
+**[3574.86s] English:** And see someone living such a life but saying "Forget it all!  
 **Translation:** 
 
-**[3571.48s] English:** живя в браке, где они несчастливы,  
+**[3581.18s] English:** In every sense,  
 **Translation:** 
 
-**[3574.86s] English:** и видеть кого-то, живущего такой жизнью, но говорящего «Да пошло все!»  
+**[3582.72s] English:** And he spoke not with cynicism, but as if opening up the same realization to Lester.  
 **Translation:** 
 
-**[3581.18s] English:** во всех смыслах,  
-**Translation:** 
+**[3587.98s] English:** That is the beauty of this world.  
+**Translation:** Vocabulary: realization: 觉悟
 
-**[3582.72s] English:** и говорящего не с цинизмом, а так, когда открывается то же, что Лестеру,  
+**[3589.72s] English:** This, you know, is beauty in "Beauty in America.  
 **Translation:** 
 
-**[3587.98s] English:** то есть красота этого мира.  
-**Translation:** 
+**[3592.60s] English:** Probably, you'll have to blackmail your boss to get this done, but you know...  
+**Translation:** Vocabulary: blackmail: 以威胁索取报酬
 
-**[3589.72s] English:** Это, знаете, красота в «Красоте по-американски».  
+**[3597.40s] English:** In this, there is also a dash of humor.  
 **Translation:** 
 
-**[3592.60s] English:** Наверное, тебе еще придется шантажировать своего босса, чтобы добиться этого, но знаешь...  
-**Translation:** 
+**[3600.00s] English:** In this rage and absurdity,  
+**Translation:** Vocabulary: absurdity: 荒谬
 
-**[3597.40s] English:** В этом тоже есть доля юмора.  
+**[3605.38s] English:** In a sense, resisting life's conformism.  
 **Translation:** 
 
-**[3600.00s] English:** в этом гневе и абсурдности,  
-**Translation:** 
+**[3609.72s] English:** In this, there is humor.  
+**Translation:** Vocabulary: conformism: 随大流; resisting: 反抗
 
-**[3605.38s] English:** своего рода противостоянии жизненному конформизму.  
+**[3611.48s] English:** I read somewhere that the dinner scene,  
 **Translation:** 
 
-**[3609.72s] English:** В этом есть юмор.  
+**[3615.42s] English:** Which is similar to a play,  
 **Translation:** 
 
-**[3611.48s] English:** И я где-то читал, что сцена, обеденная сцена,  
+**[3617.20s] English:** Where Lester throws a plate against the wall,  
 **Translation:** 
 
-**[3615.42s] English:** которая похожа на пьесу,  
-**Translation:** 
+**[3622.90s] English:** Was improvised by you.  
+**Translation:** Vocabulary: improvised: 即兴
 
-**[3617.20s] English:** где Лестер швыряет тарелку в стену,  
+**[3624.84s] English:** That impact of the saucer against the wall.  
 **Translation:** 
 
-**[3622.90s] English:** была симпровизирована вами.  
-**Translation:** 
+**[3627.72s] English:** No.  
+**Translation:** Vocabulary: saucer: 碟子
 
-**[3624.84s] English:** Тот удар тарелки о стену.  
+**[3628.50s] English:** No?  
 **Translation:** 
 
-**[3627.72s] English:** Нет.  
+**[3628.78s] English:** No.  
 **Translation:** 
 
-**[3628.50s] English:** Нет?  
+**[3629.20s] English:** Is the Internet lying again?  
 **Translation:** 
 
-**[3628.78s] English:** Нет.  
+**[3631.54s] English:** Absolutely.  
 **Translation:** 
 
-**[3629.20s] English:** Интернет снова лжет?  
+**[3633.52s] English:** This was scripted and directed.  
 **Translation:** 
 
-**[3631.54s] English:** Абсолютно.  
-**Translation:** 
+**[3638.36s] English:** I cannot take credit for this.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[3633.52s] English:** Это было прописано и отрежиссировано.  
+**[3640.70s] English:** Plate. Good.  
 **Translation:** 
 
-**[3638.36s] English:** Не могу взять себе это в заслугу.  
+**[3641.74s] English:** All the same, it was a genius interaction.  
 **Translation:** 
 
-**[3640.70s] English:** Тарелка. Хорошо.  
+**[3644.60s] English:** In the dining table, there is also something.  
 **Translation:** 
 
-**[3641.74s] English:** Все равно это было гениальное взаимодействие.  
-**Translation:** 
+**[3648.10s] English:** And the loss of self-possession at the dinner table.  
+**Translation:** Vocabulary: dining: 就餐
 
-**[3644.60s] English:** В обеденном столе тоже что-то есть.  
+**[3650.74s] English:** Sorry for losing my temper at the dinner table.  
 **Translation:** 
 
-**[3648.10s] English:** И потери самообладания за обеденным столом.  
+**[3653.64s] English:** Where else is there?  
 **Translation:** 
 
-**[3650.74s] English:** Сори и потери самообладания за обеденным столом.  
+**[3654.64s] English:** For example, in Yellowstone, there was already a different situation.  
 **Translation:** 
 
-**[3653.64s] English:** Где там еще?  
-**Translation:** 
+**[3658.42s] English:** Where...  
+**Translation:** Vocabulary: yellowstone: 黄石公园
 
-**[3654.64s] English:** Например, в Йеллоустоуне была уже другая ситуация,  
+**[3658.90s] English:** A family at the dinner table.  
 **Translation:** 
 
-**[3658.42s] English:** где...  
+**[3661.98s] English:** One of them says, "To hell with it,  
 **Translation:** 
 
-**[3658.90s] English:** Семья за обеденным столом.  
+**[3663.82s] English:** I will not eat this anymore.  
 **Translation:** 
 
-**[3661.98s] English:** И один из них говорит, да пошло оно,  
+**[3665.08s] English:** And she rolls the scene.  
 **Translation:** 
 
-**[3663.82s] English:** я больше не буду это есть,  
+**[3666.24s] English:** Correct.  
 **Translation:** 
 
-**[3665.08s] English:** и закатывает сцену.  
-**Translation:** 
+**[3666.74s] English:** I see, this is a fertile ground for dramatic scenes.  
+**Translation:** Vocabulary: fertile: 肥沃的
 
-**[3666.24s] English:** Верно.  
+**[3670.90s] English:** Or Nicholson in "Shining".  
 **Translation:** 
 
-**[3666.74s] English:** Я смотрю, это плодородная среда для драматических сцен.  
+**[3672.66s] English:** There, well...  
 **Translation:** 
 
-**[3670.90s] English:** Или Николсон в «Сиянии».  
+**[3673.30s] English:** There are a couple of family scenes there.  
 **Translation:** 
 
-**[3672.66s] English:** Там ведь...  
+**[3677.54s] English:** The contrast between you and Anneke Benning in this scene  
 **Translation:** 
 
-**[3673.30s] English:** Там ведь есть пара семейных сцен.  
+**[3680.82s] English:** Generates her genius.  
 **Translation:** 
 
-**[3677.54s] English:** Контраст между вами и Аннет Беннинг в этой сцене  
-**Translation:** 
+**[3684.82s] English:** So, how much does acting depend on chemistry?  
+**Translation:** Vocabulary: generates: 产生
 
-**[3680.82s] English:** порождает ее гениальность.  
+**[3688.52s] English:** Between two actors?  
 **Translation:** 
 
-**[3684.82s] English:** Так, насколько же актерская игра зависит от химии  
-**Translation:** 
+**[3692.30s] English:** Nu, with Annet...  
+**Translation:** Vocabulary: annet: 安妮特
 
-**[3688.52s] English:** между двумя актерами?  
+**[3694.94s] English:** Working with her was a real pleasure for me.  
 **Translation:** 
 
-**[3692.30s] English:** Ну, с Аннет...  
+**[3699.04s] English:** We were those two actors,  
 **Translation:** 
 
-**[3694.94s] English:** Работа с ней была для меня настоящим удовольствием.  
+**[3701.26s] English:** Which Sam wanted from the very beginning.  
 **Translation:** 
 
-**[3699.04s] English:** И мы были теми двумя актерами,  
+**[3703.44s] English:** In large part despite the wishes of those above,  
 **Translation:** 
 
-**[3701.26s] English:** которых Сэм хотел с самого начала.  
+**[3707.48s] English:** Which ones wanted other actors for these roles, but...  
 **Translation:** 
 
-**[3703.44s] English:** Во многом вопреки желанию вышестоящих,  
+**[3711.52s] English:** I know Annet.  
 **Translation:** 
 
-**[3707.48s] English:** которые хотели других актеров на эти роли, но...  
+**[3713.16s] English:** Since we went through auditions with Milyshchev for the movies,  
 **Translation:** 
 
-**[3711.52s] English:** Я знаю Аннет.  
-**Translation:** 
+**[3718.52s] English:** I completed all the necessary tasks,  
+**Translation:** Vocabulary: auditions: 试镜
 
-**[3713.16s] English:** С тех пор, как мы проходили кинопробы у Милышев,  
+**[3720.00s] English:** For his film "Dangerous Liaisons".  
 **Translation:** 
 
-**[3718.52s] English:** я выполнял все необходимые задачи,  
-**Translation:** 
+**[3721.36s] English:** To believe in anything is.  
+**Translation:** Vocabulary: liaisons: 关系
 
-**[3721.36s] English:** чтобы верить 아무�ем, что было.  
+**[3723.86s] English:** We with Anneta, with the ball, with football.  
 **Translation:** 
 
-**[3723.86s] English:** Мы с Аннет, с мячом, с футболом.  
+**[3724.16s] English:** This was a completely different film, but the story was the same.  
 **Translation:** 
 
-**[3726.98s] English:** У нас была с противником такая же игра.  
+**[3726.98s] English:** We had the same kind of game against the opponent.  
 **Translation:** 
 
-**[3729.48s] English:** И я отмечал, что мы с Милышем не сможем долго разговаривать,  
-**Translation:** 
+**[3727.38s] English:** And I always considered her simply outstanding.  
+**Translation:** Vocabulary: opponent: 对手
 
-**[3732.90s] English:** если мы будем ждать эти 2024 года.  
+**[3729.48s] English:** I noted that Milyush and I wouldn't be able to talk for long,  
 **Translation:** 
 
-**[3735.50s] English:** Но мы все-таки будем участвовать в этом.  
+**[3732.90s] English:** If we wait until 2024.  
 **Translation:** 
 
-**[3738.18s] English:** Вот и я тихо бы вставил в сцену...  
+**[3733.98s] English:** I think the work she did in this film,  
 **Translation:** 
 
-**[3740.02s] English:** Милыш, а ты думаешь, что мы заканчиваем сцену,  
+**[3735.50s] English:** But we will still participate in this.  
 **Translation:** 
 
-**[3743.20s] English:** когда мы выиграли?  
+**[3738.06s] English:** And the relationships which we were able to build,  
 **Translation:** 
 
-**[3744.74s] English:** Да, мне кажется, мы уже подглядываются.  
-**Translation:** 
+**[3738.18s] English:** Here, I would quietly insert into the scene....  
+**Translation:** Vocabulary: insert: 插入
 
-**[3747.20s] English:** Но мы не знаем, как они будут выходить.  
+**[3740.02s] English:** Milyush, А ты думаешь, что мы заканчиваем сцену?  
 **Translation:** 
 
-**[3720.00s] English:** для его фильма «Опасные связи».  
+**[3743.20s] English:** When did we win?  
 **Translation:** 
 
-**[3724.16s] English:** Это был совсем другой фильм, но история та же.  
+**[3743.42s] English:** For me, the saddest part of this success was that,  
 **Translation:** 
 
-**[3727.38s] English:** И я всегда считал ее просто выдающейся.  
-**Translation:** 
+**[3744.74s] English:** Yes, I think we are already being peeked at.  
+**Translation:** Vocabulary: peeked: 偷看
 
-**[3733.98s] English:** И думаю, что работа, проделанная ею в этом фильме,  
+**[3747.20s] English:** But we don't know how they will come out.  
 **Translation:** 
 
-**[3738.06s] English:** и отношения, которые мы смогли выстроить,  
-**Translation:** 
+**[3747.48s] English:** That she didn't win an Oscar, and I thought she should have.  
+**Translation:** Vocabulary: oscar: 学院奖
 
-**[3743.42s] English:** для меня самой грустной частью этого успеха было то,  
+**[3754.00s] English:** What interesting instructions did you receive from Sam Mendes?  
 **Translation:** 
 
-**[3747.48s] English:** что она не выиграла «Оскар», а я считал, что должна была.  
-**Translation:** 
+**[3757.80s] English:** About how to approach playing Lester  
+**Translation:** Vocabulary: lester: 莱斯特; mendes: 门德斯
 
-**[3754.00s] English:** Какие интересные указания вы получили от Сэма Мендеса  
+**[3760.82s] English:** And how to work in different scenes?  
 **Translation:** 
 
-**[3757.80s] English:** о том, как подойти к роли Лестера  
+**[3764.44s] English:** This film is simply packed with genius scenes.  
 **Translation:** 
 
-**[3760.82s] English:** и как работать в разных сценах?  
+**[3767.18s] English:** I will share with you a story that few know.  
 **Translation:** 
 
-**[3764.44s] English:** Этот фильм просто напичкан гениальными сценами.  
+**[3772.12s] English:** Which one...  
 **Translation:** 
 
-**[3767.18s] English:** Я поделюсь с вами историей, которую мало кто знает,  
+**[3773.90s] English:** Our first two days of filming were...  
 **Translation:** 
 
-**[3772.12s] English:** которая...  
-**Translation:** 
+**[3777.48s] English:** In "Smiley".  
+**Translation:** Vocabulary: smiley: 笑脸
 
-**[3773.90s] English:** Наши первые два дня съемок были...  
+**[3779.48s] English:** At the fast-food establishment where I am working.  
 **Translation:** 
 
-**[3777.48s] English:** В «Смайли».  
+**[3783.54s] English:** Yes, it's a burger joint.  
 **Translation:** 
 
-**[3779.48s] English:** В месте, куда я устраиваюсь на работу, фастфуд-заведение.  
+**[3785.54s] English:** It seems, this was...  
 **Translation:** 
 
-**[3783.54s] English:** Да, это бургерное.  
+**[3788.70s] English:** Third or fourth day of shooting, we've already filmed everything.  
 **Translation:** 
 
-**[3785.54s] English:** И кажется, это был...  
+**[3794.46s] English:** I ask Sam, how does the footage look? How does it generally appear?  
 **Translation:** 
 
-**[3788.70s] English:** Третий или четвертый день съемок, мы уже все отсняли.  
+**[3800.56s] English:** He, which one specifically?  
 **Translation:** 
 
-**[3794.46s] English:** И я спрашиваю Сэма, ну как отснятый материал, как он вообще смотрится?  
+**[3802.20s] English:** I say which one is in "Smiley," and he...  
 **Translation:** 
 
-**[3800.56s] English:** А он, какой именно?  
+**[3804.12s] English:** Complete nonsense.  
 **Translation:** 
 
-**[3802.20s] English:** Я говорю, который в «Смайли», а он...  
+**[3807.48s] English:** I...  
 **Translation:** 
 
-**[3804.12s] English:** Полная хрень.  
+**[3808.28s] English:** No, seriously.  
 **Translation:** 
 
-**[3807.48s] English:** Я...  
+**[3809.68s] English:** He is such nonsense.  
 **Translation:** 
 
-**[3808.28s] English:** Нет, а серьезно.  
+**[3811.12s] English:** I hate it.  
 **Translation:** 
 
-**[3809.68s] English:** Он, отборная хрень.  
+**[3812.22s] English:** I hate everything about them.  
 **Translation:** 
 
-**[3811.12s] English:** Ненавижу.  
-**Translation:** 
+**[3815.26s] English:** I hate costumes, I hate the location.  
+**Translation:** Vocabulary: costumes: 服装
 
-**[3812.22s] English:** Я ненавижу в них все.  
+**[3818.70s] English:** I hate it when you're inside, I hate how you played.  
 **Translation:** 
 
-**[3815.26s] English:** Я ненавижу костюмы, ненавижу локацию.  
+**[3822.90s] English:** I hate everything except the script.  
 **Translation:** 
 
-**[3818.70s] English:** Ненавижу, когда ты внутри, ненавижу, как ты играл.  
+**[3827.10s] English:** Therefore, I returned to the studio to find out if we could reshoot the first two days.  
 **Translation:** 
 
-**[3822.90s] English:** Ненавижу все, кроме сценария.  
+**[3833.48s] English:** I'm like that, Sam.  
 **Translation:** 
 
-**[3827.10s] English:** Поэтому я вернулся в студию, узнать, сможем ли мы переснять первые два дня.  
+**[3836.36s] English:** This is your first...  
 **Translation:** 
 
-**[3833.48s] English:** А я такой, Сэм,  
+**[3837.48s] English:** First film.  
 **Translation:** 
 
-**[3836.36s] English:** это же твой первый...  
+**[3839.02s] English:** You've returned.  
 **Translation:** 
 
-**[3837.48s] English:** Первый фильм.  
+**[3840.00s] English:** To Steven Spielberg, I said, "I need to re-shoot the first two days completely?  
 **Translation:** 
 
-**[3839.02s] English:** Ты вернулся.  
+**[3845.36s] English:** He says, "Yes".  
 **Translation:** 
 
-**[3840.00s] English:** к Стивену Спилбергу, сказавши, «Мне нужно переснять первые два дня целиком?»  
+**[3848.68s] English:** Exactly how we did it.  
 **Translation:** 
 
-**[3845.36s] English:** И он говорит, «Да».  
+**[3850.90s] English:** A couple of weeks later, they decided that now it would be like McDonald's.  
 **Translation:** 
 
-**[3848.68s] English:** Именно так мы и поступили.  
-**Translation:** 
+**[3855.40s] English:** Because Annet and Peter Geller were supposed to come to the establishment and order cocktails earlier.  
+**Translation:** Vocabulary: cocktails: 鸡尾酒
 
-**[3850.90s] English:** Пару недель спустя они решили, что теперь это будет как МакАвто.  
+**[3861.16s] English:** Sam decided that it would be like McDonald's.  
 **Translation:** 
 
-**[3855.40s] English:** Ведь Аннет и Питер Геллер раньше должны были приходить в заведение и заказывать устойки.  
+**[3864.84s] English:** Prihadlo stand in the window during the flow, changing costumes.  
 **Translation:** 
 
-**[3861.16s] English:** Сэм решил, что это будет как МакАвто.  
+**[3867.76s] English:** And we reshot the first two days.  
 **Translation:** 
 
-**[3864.84s] English:** Пришлось стоять в окошке во время потока, менять костюмы,  
+**[3870.30s] English:** And Sam said,  
 **Translation:** 
 
-**[3867.76s] English:** и мы пересняли первые два дня.  
+**[3873.28s] English:** That was a moment of incredible confidence.  
 **Translation:** 
 
-**[3870.30s] English:** И Сэм сказал,  
+**[3878.32s] English:** Because he said the worst that could happen, it happened in the first two days.  
 **Translation:** 
 
-**[3873.28s] English:** что это был момент невероятной уверенности,  
+**[3883.72s] English:** After that, I thought I knew what I was doing, and I knew I needed to reshoot it, and that was the right thing to do.  
 **Translation:** 
 
-**[3878.32s] English:** потому что он сказал худшее, что могло случиться, случилось в первые два дня.  
+**[3890.84s] English:** I think that's exactly how a great director should proceed.  
 **Translation:** 
 
-**[3883.72s] English:** И после этого я подумал, что знаю, что делаю, я знал, что надо переснять, и это правильно.  
+**[3894.22s] English:** Have the courage to capture everything at such a moment.  
 **Translation:** 
 
-**[3890.84s] English:** Думаю, именно так и должен поступать великий режиссер,  
+**[3898.06s] English:** This is a rather bold move.  
 **Translation:** 
 
-**[3894.22s] English:** иметь смелость в такой момент переснять все.  
+**[3899.44s] English:** Here are a few small points about Sam that I would like to share.  
 **Translation:** 
 
-**[3898.06s] English:** Это довольно смелый ход.  
-**Translation:** 
+**[3904.80s] English:** You would not recognize this, but originally the script began and ended in a courtroom.  
+**Translation:** Vocabulary: courtroom: 法庭
 
-**[3899.44s] English:** И еще пару небольших моментов о Сэме, которым я бы хотел поделиться.  
+**[3912.44s] English:** Ricky was accused of killing Lester.  
 **Translation:** 
 
-**[3904.80s] English:** Вы бы не узнали это, но изначально сценарий начинался и заканчивался судом.  
-**Translation:** 
+**[3917.28s] English:** The film was structured within the framework of this trial.  
+**Translation:** Vocabulary: lester: 被指控的人; ricky: 涉嫌杀人者
 
-**[3912.44s] English:** Рикки обвинялся в убийстве Лестера.  
+**[3920.24s] English:** This is a completely different film.  
 **Translation:** 
 
-**[3917.28s] English:** И фильм был выстроен в рамках этого суда.  
+**[3921.72s] English:** Which they shot.  
 **Translation:** 
 
-**[3920.24s] English:** Это уже совсем другой фильм.  
+**[3923.72s] English:** A judicial process taking just a few weeks.  
 **Translation:** 
 
-**[3921.72s] English:** Который они сняли.  
+**[3927.52s] English:** Do you understand?  
 **Translation:** 
 
-**[3923.72s] English:** Судебный процесс целиком за пару недель.  
+**[3928.10s] English:** Oh, yes.  
 **Translation:** 
 
-**[3927.52s] English:** Понимаете?  
+**[3929.34s] English:** I had to fly in my dreams.  
 **Translation:** 
 
-**[3928.10s] English:** О, да.  
+**[3934.26s] English:** Do you understand?  
 **Translation:** 
 
-**[3929.34s] English:** И я должен был летать во снах.  
-**Translation:** 
+**[3935.14s] English:** Those introductory scenes over the district, I should have appeared in them.  
+**Translation:** Vocabulary: introductory: 开场的
 
-**[3934.26s] English:** Понимаешь?  
+**[3939.18s] English:** In his flowing bathrobe.  
 **Translation:** 
 
-**[3935.14s] English:** Те вступительные кадры над районом, я должен был в них появляться.  
-**Translation:** 
+**[3941.08s] English:** Then, when I landed,  
+**Translation:** Vocabulary: bathrobe: 浴袍
 
-**[3939.18s] English:** В своем халате летящем.  
+**[3944.74s] English:** I caught the newspaper that the newsboy tossed to me.  
 **Translation:** 
 
-**[3941.08s] English:** А потом, когда я приземлялся,  
-**Translation:** 
+**[3949.06s] English:** The alarm clock went off, and I woke up in bed.  
+**Translation:** Vocabulary: newsboy: 卖报 boy
 
-**[3944.74s] English:** в меня бросалась газета, которую кидал газетчик, я ее ловил,  
+**[3952.28s] English:** I spent five days hanging by ropes.  
 **Translation:** 
 
-**[3949.06s] English:** срабатывал будильник, и я просыпался в постели.  
+**[3954.82s] English:** While filming the scenes where I flew in dreams.  
 **Translation:** 
 
-**[3952.28s] English:** Я провел пять дней, болтаясь на веревках,  
+**[3957.82s] English:** Therefore, if it were enriched,  
 **Translation:** 
 
-**[3954.82s] English:** пока снимали те сцены, где я летал во снах.  
-**Translation:** 
+**[3960.00s] English:** No, yes, all the flight scenes have been cut, and the trial as well.  
+**Translation:** Vocabulary: enriched: 增加
 
-**[3957.82s] English:** Поэтому, если бы это была enriched,  
+**[3960.16s] English:** That's why I would take on some ambulant quests.  
 **Translation:** 
 
-**[3960.16s] English:** то я бы пос ambulant- quests  
-**Translation:** Vocabulary: ambulant: 便携式
+**[3962.04s] English:** And He said to me, "Thou art my son.  
+**Translation:** Vocabulary: ambulant: 行走的; quests: 任务
 
-**[3962.04s] English:** И Сам сказал мне намерение  
+**[3964.70s] English:** Nak100  
 **Translation:** 
 
-**[3964.70s] English:** nak100  
+**[3964.82s] English:** Yes, yes,  
 **Translation:** 
 
-**[3964.82s] English:** Да, да,  
+**[3966.14s] English:** Of course.  
 **Translation:** 
 
-**[3966.14s] English:** конечно,  
+**[3966.68s] English:** Keep the same: А я ему, что? Ты о чем вообще говоришь?  
 **Translation:** 
 
-**[3966.80s] English:** я reversal  
+**[3966.80s] English:** Ya reversal  
 **Translation:** 
 
-**[3967.64s] English:** ннт  
+**[3967.64s] English:** NNNT  
 **Translation:** Vocabulary: reversal: 逆转
 
-**[3968.62s] English:** »,  
+**[3968.62s] English:** ,  
 **Translation:** 
 
-**[3969.38s] English:** «It's over The Wall.  
+**[3969.38s] English:** It's over, The Wall.  
 **Translation:** 
 
-**[3970.36s] English:** This is χ  
+**[3970.36s] English:** This is χ.  
 **Translation:** 
 
-**[3980.74s] English:** 請  
+**[3971.62s] English:** Here is another favorite story about Sam.  
 **Translation:** 
 
-**[3981.98s] English:** Press the  
+**[3975.46s] English:** When we were filming in the valley, one of those places where I flew, it was a closed tent.  
 **Translation:** 
+
+**[3980.74s] English:** Please.  
+**Translation:** 
+
+**[3981.40s] English:** Sam told me in the morning, "Listen, you need to record an audio guide for all your dialogues and the narration by lunchtime; they need it as a reference for editing.  
+**Translation:** 
+
+**[3981.98s] English:** Press the button, please.  
+**Translation:** Vocabulary: dialogues: 对话; editing: 编辑; narration: 解说
 
 **[3983.64s] English:** X  
 **Translation:** 
 
-**[3984.84s] English:** к  
+**[3984.84s] English:** К  
 **Translation:** 
 
-**[3985.66s] English:** ꅃ  
+**[3985.66s] English:** Keep going!  
 **Translation:** 
 
-**[3986.94s] English:** ннно  
+**[3986.94s] English:** None.  
 **Translation:** 
 
-**[3987.50s] English:** Rally 23.  
+**[3987.50s] English:** Rally: 23.  
 **Translation:** 
 
-**[3960.00s] English:** Нет, да, сцены полета все вырезаны, и суд тоже вырезан.  
+**[3994.32s] English:** I say, "Of course.  
 **Translation:** 
 
-**[3966.68s] English:** А я ему, что? Ты о чем вообще говоришь?  
+**[3995.52s] English:** I remember we went into the corridor where I had my makeup room in that small studio where we were.  
 **Translation:** 
 
-**[3971.62s] English:** Вот еще другая любимая история о Сэме.  
-**Translation:** 
-
-**[3975.46s] English:** Когда мы снимали в долине, одном из тех мест, где я летал, это был закрытый павильон.  
-**Translation:** 
-
-**[3981.40s] English:** Сэм сказал мне утром, «Слушай, в обед нужно записать аудиоруководство для всех твоих диалогов и всего повествования, ведь им нужен ориентир для монтажа».  
-**Translation:** 
-
-**[3994.32s] English:** Я говорю, «Конечно».  
-**Translation:** 
-
-**[3995.52s] English:** Помню, мы вышли в коридор, где у меня была гримерка, в той небольшой студии, где мы были.  
-**Translation:** 
+**[4003.20s] English:** Sam had a cassette tape recorder and a small microphone.  
+**Translation:** Vocabulary: corridor: 走廊; makeup: 化妆; microphone: 麦克风
 
-**[4003.20s] English:** У Сэма был кассетный магнитофон и маленький микрофон.  
+**[4007.94s] English:** We laid him on the floor.  
 **Translation:** 
 
-**[4007.94s] English:** Мы положили его на пол.  
+**[4010.38s] English:** He pressed "Record".  
 **Translation:** 
 
-**[4010.38s] English:** И он нажал «Запись».  
+**[4013.42s] English:** I have read the entire story.  
 **Translation:** 
 
-**[4013.42s] English:** Я прочитал весь рассказ.  
+**[4018.52s] English:** He did not do such a thing again.  
 **Translation:** 
 
-**[4018.52s] English:** И больше такого не делал.  
+**[4021.68s] English:** This is the story in the film.  
 **Translation:** 
 
-**[4021.68s] English:** Это и есть рассказ в фильме.  
+**[4024.86s] English:** Because Sam said, "When you hear me, I was trying特别少 nothing special.  
 **Translation:** 
 
-**[4024.86s] English:** Потому что Сэм сказал, что «Когда его слышишь, я особо ничего не пытался».  
+**[4033.26s] English:** He said, "You had no idea what this was for, where it would be placed, and what it all would mean.  
 **Translation:** 
 
-**[4033.26s] English:** Он сказал, «Ты и понятия не имел, для чего это, где будет размещено, и что все это будет значить.  
-**Translation:** 
-
-**[4038.80s] English:** Ты читал это так невинно».  
-**Translation:** 
+**[4038.80s] English:** You read it so innocently.  
+**Translation:** Vocabulary: innocently: 天真地
 
-**[4040.38s] English:** Так искренне, так непринужденно, что я знал, притащи бы я тебя в студию, надень на тебя наушники, и заставь бы тебя повторить, то та лёгкость, с которой ты это сделал, улетучилась бы».  
+**[4040.38s] English:** So sincerely, so naturally, that I knew if I brought you into the studio, put headphones on you, and forced you to repeat it, the ease with which you did it would vanish.  
 **Translation:** 
 
-**[4056.96s] English:** В общем, они просто исправили все недостатки, которые были у этой записи.  
-**Translation:** 
+**[4056.96s] English:** In general, they simply fixed all the flaws that were in this recording.  
+**Translation:** Vocabulary: sincerely: 真诚; vanish: 消失
 
-**[4062.88s] English:** Именно так я и поступил.  
+**[4062.88s] English:** Exactly how I proceeded.  
 **Translation:** 
 
-**[4065.14s] English:** И в том коридоре такое было в первый и последний раз.  
+**[4065.14s] English:** In that corridor, it was like that for the first and last time.  
 **Translation:** 
 
-**[4069.52s] English:** Я не могу сказать, что это было не так.  
+**[4069.52s] English:** I cannot say that it was not so.  
 **Translation:** 
 
-**[4070.36s] English:** И опять же, величие выступления кроется в том, чтобы не усердствовать.  
+**[4070.36s] English:** And again, the greatness of the performance lies in not overdoing it.  
 **Translation:** 
 
-**[4075.48s] English:** Да.  
+**[4075.48s] English:** Yes.  
 **Translation:** 
 
-**[4077.30s] English:** Невинность и искренность Лестера.  
-**Translation:** 
+**[4077.30s] English:** Neutrality and sincerity of Lester.  
+**Translation:** Vocabulary: neutrality: 中立; sincerity: 真诚
 
-**[4078.90s] English:** Он знал, что приди бы я в студию.  
+**[4078.90s] English:** He knew that if I had come into the studio.  
 **Translation:** 
 
-**[4080.00s] English:** студию то все испортило бы да что вы думаете о понятии красоты пронизывающим  
-**Translation:** 
+**[4080.00s] English:** Studio, that would have ruined everything. What do you think about the concept of beauty permeating?  
+**Translation:** Vocabulary: permeating: 渗透
 
-**[4087.26s] English:** красоту по-американски что по вашему значит эта тема с розами с лепестками  
+**[4087.26s] English:** Beauty American-style, what do you think this topic with roses and petals means?  
 **Translation:** 
 
-**[4091.76s] English:** роз с персонажами живущими обыденной жизнью и медленно открывающими глаза на  
+**[4091.76s] English:** Rose with characters living ordinary lives and slowly opening their eyes to  
 **Translation:** 
 
-**[4100.70s] English:** то в чем красота этой жизни знаешь забавно ведь я не думаю о розах а ее  
+**[4100.70s] English:** To be honest, in what beauty of this life, you know, it's funny because I don't think about roses and her.  
 **Translation:** 
 
-**[4107.12s] English:** теле на постере и обо всех этих вещах как о красоте  
+**[4107.12s] English:** Tele on the poster and all these things as beauty.  
 **Translation:** 
 
-**[4113.78s] English:** я думаю о пакете  
+**[4113.78s] English:** I think about the package.  
 **Translation:** 
 
-**[4117.80s] English:** я думаю что есть вещи которые мы упускаем  
+**[4117.80s] English:** I think there are things we are missing.  
 **Translation:** 
 
-**[4124.18s] English:** которые прямо у нас под носом и в которых истинная красота  
+**[4124.18s] English:** Which are right under our noses and in which true beauty resides.  
 **Translation:** 
 
-**[4130.46s] English:** мелочи и простые вещи да я даже расскажу вам что всегда казалось  
-**Translation:** 
+**[4130.46s] English:** Melchies and simple things, and I'll even tell you what always seemed  
+**Translation:** Vocabulary: resides: 存在
 
-**[4135.62s] English:** менее вероятным  
+**[4135.62s] English:** Less likely,  
 **Translation:** 
 
-**[4137.12s] English:** отличие от не то что в Videodrome  
-**Translation:** Vocabulary: videodrome: 视频地狱
+**[4137.12s] English:** The difference from what in Videodrome?  
+**Translation:** Vocabulary: videodrome: 录像道
 
-**[4139.62s] English:** когда мы снимали сцена в офисе где Лестер работает на ненавистной  
+**[4139.62s] English:** When we were filming the scene in the office where Lester works at his hated company,  
 **Translation:** 
 
-**[4145.12s] English:** рабочей на стене за мной висела доска объявлений  
-**Translation:** 
+**[4145.12s] English:** On the wall behind me, there was a notice board.  
+**Translation:** Vocabulary: lester: 莱斯特
 
-**[4148.06s] English:** и кто-то кто просматривал черновой монтаж или первые дубли и  
+**[4148.06s] English:** And someone who viewed the rough cut or early rehearsals and  
 **Translation:** 
 
-**[4154.96s] English:** это был кто-то из отдела маркетинга увидел что  
-**Translation:** 
+**[4154.96s] English:** This was someone from the marketing department who saw that.  
+**Translation:** Vocabulary: rehearsals: 排练
 
-**[4161.40s] English:** кто-то вырезал небольшой кусочек бумаги приклеил его и там было написаноby  
+**[4161.40s] English:** Someone cut out a small piece of paper, glued it there, and it was written "by" on it.  
 **Translation:** 
 
-**[4167.00s] English:** «Присмотрись!»  
-**Translation:** 
+**[4167.00s] English:** Prisposob!  
+**Translation:** Vocabulary: glued: 粘贴
 
-**[4170.46s] English:** И они предложили это Сэму как идею того, что может быть на постере.  
+**[4170.46s] English:** They proposed this idea to Sam for a poster.  
 **Translation:** 
 
-**[4176.12s] English:** Идея о том, чтобы присмотреться, была настолько гениальной,  
+**[4176.12s] English:** The idea to take a closer look was so genius,  
 **Translation:** 
 
-**[4181.44s] English:** но она не была в сценарии.  
+**[4181.44s] English:** She was not in the script.  
 **Translation:** 
 
-**[4185.94s] English:** Это было просто за спиной на стене, и кто-то случайно приблизил, увидел это,  
+**[4185.94s] English:** This was just behind the wall, and someone accidentally got close enough to see it.  
 **Translation:** 
 
-**[4190.88s] English:** и подумал, вот о чем этот фильм.  
+**[4190.88s] English:** And he thought, here's what this film is about.  
 **Translation:** 
 
-**[4192.84s] English:** Этот фильм о том, чтобы взять и присмотреться.  
+**[4192.84s] English:** This film is about taking a closer look.  
 **Translation:** 
 
-**[4200.00s] English:** И я думаю, что само по себе это и есть красота.  
+**[4200.00s] English:** I think that in itself is beauty.  
 **Translation:** 
 
-**[4204.70s] English:** А еще фильм пронизан темой смертности.  
+**[4204.70s] English:** And another theme that runs through the film is mortality.  
 **Translation:** 
 
-**[4207.62s] English:** Он начинается с признания, что смерть уже на пороге.  
+**[4207.62s] English:** He begins with the admission that death is already at the door.  
 **Translation:** 
 
-**[4211.24s] English:** И что у Лестера время ограничено.  
+**[4211.24s] English:** And what with Lester, time is limited.  
 **Translation:** 
 
-**[4216.38s] English:** О своей вы задумываетесь?  
+**[4216.38s] English:** Do you consider your own interests?  
 **Translation:** 
 
-**[4218.32s] English:** Да.  
+**[4218.32s] English:** Yes.  
 **Translation:** 
 
-**[4219.86s] English:** Да.  
+**[4219.86s] English:** Yes.  
 **Translation:** 
 
-**[4220.54s] English:** Это вас пугает?  
+**[4220.54s] English:** Is this frightening you?  
 **Translation:** 
 
-**[4226.34s] English:** Когда я был на самом дне, да, это пугало меня.  
+**[4226.34s] English:** When I was at the bottom, yes, that scared me.  
 **Translation:** 
 
-**[4230.00s] English:** На что похож этот страх?  
+**[4230.00s] English:** What does this fear resemble?  
 **Translation:** 
 
-**[4232.96s] English:** Что...  
+**[4232.96s] English:** What...  
 **Translation:** 
 
-**[4234.00s] English:** В чем природа страха?  
+**[4234.00s] English:** What is the nature of fear?  
 **Translation:** 
 
-**[4236.40s] English:** Чего вы боитесь?  
+**[4236.40s] English:** What do you fear?  
 **Translation:** 
 
-**[4240.58s] English:** Что выхода нет.  
+**[4240.58s] English:** What出路不存在.  
 **Translation:** 
 
-**[4244.62s] English:** Что ответа нет.  
+**[4244.62s] English:** What answer is there?  
 **Translation:** 
 
-**[4252.60s] English:** Что все не имеет смысла.  
+**[4252.60s] English:** What it all means is nonsense.  
 **Translation:** 
 
-**[4257.82s] English:** Видите ли, интересная особенность Лестера,  
+**[4257.82s] English:** Certainly. Here is the improved sentence with natural English punctuation and capitalization: "Indeed, one interesting feature of Lester is,  
 **Translation:** 
 
-**[4260.00s] English:** что, столкнувшись с таким же страхом,  
-**Translation:** 
+**[4260.00s] English:** What, confronted with the same fear,  
+**Translation:** Vocabulary: confronted: 面对
 
-**[4262.00s] English:** он как-то от него освободился.  
+**[4262.00s] English:** He somehow managed to free himself from it.  
 **Translation:** 
 
-**[4264.00s] English:** И принял все.  
+**[4264.00s] English:** He took it all in.  
 **Translation:** 
 
-**[4266.00s] English:** А затем увидел в этом красоту.  
+**[4266.00s] English:** Then he saw beauty in that.  
 **Translation:** 
 
-**[4270.00s] English:** Он добился этого.  
+**[4270.00s] English:** He did this.  
 **Translation:** 
 
-**[4272.00s] English:** Ему выпала возможность, чтобы  
+**[4272.00s] English:** He was given an opportunity to  
 **Translation:** 
 
-**[4274.00s] English:** переизобрести себя.  
+**[4274.00s] English:** Reinvent yourself.  
 **Translation:** 
 
-**[4276.00s] English:** И чтобы...  
+**[4276.00s] English:** To keep it simple and maintain the original intent, here is the punctuated and capitalized version: "To keep it simple and maintain the original intent, here is the punctuated and capitalized version:  
 **Translation:** 
 
-**[4278.00s] English:** чтобы...  
-**Translation:** 
+**[4278.00s] English:** To...,  
+**Translation:** Vocabulary: capitalized: 首字母大写; intent: 意图; punctuated: 标点符号
 
-**[4280.00s] English:** попробовать то, что он никогда не пробовал.  
+**[4280.00s] English:** To try something that he has never tried before.  
 **Translation:** 
 
-**[4282.00s] English:** Задать вопросы, которые он никогда не задавал.  
+**[4282.00s] English:** To ask questions he never asked.  
 **Translation:** 
 
-**[4284.00s] English:** Чтобы...  
+**[4284.00s] English:** To...,  
 **Translation:** 
 
-**[4288.00s] English:** довериться своим инстинктам.  
-**Translation:** 
+**[4288.00s] English:** Trust your instincts.  
+**Translation:** Vocabulary: instincts: 直觉
 
-**[4290.00s] English:** И чтобы стать лучшей версией себя,  
+**[4290.00s] English:** To become the best version of myself,  
 **Translation:** 
 
-**[4292.00s] English:** которой  
+**[4292.00s] English:** Which one?  
 **Translation:** 
 
-**[4294.00s] English:** только он мог.  
+**[4294.00s] English:** Only he could.  
 **Translation:** 
 
-**[4296.00s] English:** И поэтому...  
+**[4296.00s] English:** Therefore,...  
 **Translation:** 
 
-**[4298.00s] English:** Дик Ван Дайк, который  
+**[4298.00s] English:** Dick van Dyke, who  
 **Translation:** 
 
-**[4300.00s] English:** стал моим неординарным другом,  
-**Translation:** 
+**[4300.00s] English:** Became my unconventional friend,  
+**Translation:** Vocabulary: unconventional: 不拘一格的
 
-**[4304.00s] English:** Дику 98 лет.  
+**[4304.00s] English:** Di Ku is 98 years old.  
 **Translation:** 
 
-**[4308.00s] English:** И он говорит,  
+**[4308.00s] English:** He says,  
 **Translation:** 
 
-**[4310.00s] English:** «Так долго я бы заботился о себе получше».  
+**[4310.00s] English:** Such a long time I would have taken better care of myself.  
 **Translation:** 
 
-**[4314.00s] English:** Когда я провожу с ним время,  
+**[4314.00s] English:** When I spend time with him,  
 **Translation:** 
 
-**[4316.00s] English:** то я просто тронут каждым днем.  
+**[4316.00s] English:** I am touched by each day.  
 **Translation:** 
 
-**[4318.00s] English:** Понимаете?  
+**[4318.00s] English:** Do you understand?  
 **Translation:** 
 
-**[4320.72s] English:** Просыпаюсь, он говорит, я проснулся, и день уже хороший.  
+**[4320.72s] English:** I wake up, he says, I woke up, and it's already a good day.  
 **Translation:** 
 
-**[4325.92s] English:** И я многому учусь о том,  
+**[4325.92s] English:** And I am learning a lot about that,  
 **Translation:** 
 
-**[4330.08s] English:** у меня теперь,  
+**[4330.08s] English:** У меня теперь,  
 **Translation:** 
 
-**[4331.12s] English:** теперь другое отношение к смерти,  
+**[4331.12s] English:** Now a different attitude toward death,  
 **Translation:** 
 
-**[4335.08s] English:** чем было семь лет назад.  
+**[4335.08s] English:** What it was seven years ago.  
 **Translation:** 
 
-**[4344.42s] English:** И я на пути к тому, чтобы оказаться там,  
+**[4344.42s] English:** And I am on my way to be there,  
 **Translation:** 
 
-**[4348.70s] English:** где я уложу все дела, которые мне нужно уладить,  
+**[4348.70s] English:** Where I can settle all the matters I need to attend to,  
 **Translation:** 
 
-**[4353.26s] English:** и, наверное, я не успею сделать все это за свою жизнь,  
+**[4353.26s] English:** And, probably, I won't be able to do all of this in my lifetime.  
 **Translation:** 
 
-**[4356.62s] English:** но я определенно хочу быть в таком месте,  
+**[4356.62s] English:** But I definitely want to be in such a place.  
 **Translation:** 
 
-**[4359.74s] English:** где, если бы я умер завтра,  
+**[4359.74s] English:** Where, if I were to die tomorrow,  
 **Translation:** 
 
-**[4363.90s] English:** то это была бы удивительная жизнь.  
+**[4363.90s] English:** That would have been a remarkable life.  
 **Translation:** 
 
-**[4366.76s] English:** Значит, Лестер добился этого, как, видимо, и Дик Ван Дайк,  
-**Translation:** 
+**[4366.76s] English:** Meaning that Leicester achieved this, as did, apparently, Virgil van Dijk.  
+**Translation:** Vocabulary: leicester: 莱斯特; virgil: 维吉尔
 
-**[4369.78s] English:** и вы тоже пытаетесь.  
+**[4369.78s] English:** And you are trying too.  
 **Translation:** 
 
-**[4370.98s] English:** Конечно.  
+**[4370.98s] English:** Of course.  
 **Translation:** 
 
-**[4372.78s] English:** Вы сказали, что боялись смерти, будучи на самом дне.  
+**[4372.78s] English:** You said that you were afraid of death when you were at the very bottom.  
 **Translation:** 
 
-**[4376.70s] English:** Где было это дно?  
+**[4376.70s] English:** Where was this bottom?  
 **Translation:** 
 
-**[4378.70s] English:** Это было первое ноября 2017 года,  
+**[4378.70s] English:** This was on November 1, 2017,  
 **Translation:** 
 
-**[4384.54s] English:** а потом день благодарения того же года.  
-**Translation:** 
+**[4384.54s] English:** Then came the day of thanksgiving of that same year.  
+**Translation:** Vocabulary: thanksgiving: 感恩日
 
-**[4390.72s] English:** Давайте поговорим, поговорим об этом мрачном времени.  
+**[4390.72s] English:** Let's talk, let's talk about this dark time.  
 **Translation:** 
 
-**[4395.56s] English:** Давайте поговорим о сексуальных обвинениях против вас,  
-**Translation:** 
+**[4395.56s] English:** Let's talk about sexual accusations against you.  
+**Translation:** Vocabulary: accusations: 指控
 
-**[4398.60s] English:** которые повлекли вашу отмену со стороны, ну, всего мира за последние семь лет.  
+**[4398.60s] English:** Which have led to your cancellation by, well, the whole world over the last seven years.  
 **Translation:** 
 
-**[4405.74s] English:** Лично я бы хотел понять грехи,  
-**Translation:** 
+**[4405.74s] English:** Personally, I would like to understand the sins,  
+**Translation:** Vocabulary: cancellation: 取消
 
-**[4408.70s] English:** что плохого вы сделали, и что плохого вы не сделали.  
+**[4408.70s] English:** What is wrong that you have done, and what is wrong that you have not done.  
 **Translation:** 
 
-**[4414.32s] English:** Вдобавок, я должен подчеркнуть, что то, что я стремлюсь сделать,  
-**Translation:** 
+**[4414.32s] English:** In addition, I must emphasize that what I am striving to do,  
+**Translation:** Vocabulary: emphasize: 强调; striving: 努力
 
-**[4419.68s] English:** проявить уважение к правовому процессу  
+**[4419.68s] English:** Show respect for the legal process.  
 **Translation:** 
 
-**[4422.20s] English:** и к презумпции невиновности,  
-**Translation:** 
+**[4422.20s] English:** And to the presumption of innocence,  
+**Translation:** Vocabulary: innocence: 无罪状态
 
-**[4424.48s] English:** чего массовая машина истерии интернета и кликбейт-журналистика не делают.  
+**[4424.48s] English:** What mass media hysteria and clickbait journalism do not do.  
 **Translation:** 
 
-**[4433.02s] English:** Вот как мне все понимается.  
-**Translation:** 
+**[4433.02s] English:** Here's how I understand it.  
+**Translation:** Vocabulary: clickbait: 诱点击标题; hysteria: 歇斯底里; journalism: 新闻业
 
-**[4436.82s] English:** Против вас были возбуждены уголовники,  
+**[4436.82s] English:** Against you criminal charges were brought,  
 **Translation:** 
 
-**[4438.70s] English:** уголовные и гражданские.  
+**[4438.70s] English:** Criminal and civil.  
 **Translation:** 
 
-**[4440.00s] English:** включая это с которого все началось когда энтони рэп подал иск на 40 миллионов  
+**[4440.00s] English:** Including this, which is where it all began, when Anthony Rapoport sued for $40 million.  
 **Translation:** 
 
-**[4444.92s] English:** долларов в этих судах вас оправдали признали невиновным и неответственным это  
-**Translation:** 
+**[4444.92s] English:** Dollars in these courts, you were acquitted and found not responsible.  
+**Translation:** Vocabulary: acquitted: 宣判无罪
 
-**[4452.56s] English:** так да я думаю это очень важно опять же с точки зрения правового процесса и я  
+**[4452.56s] English:** So, I think this is very important, again, in terms of the legal process, and I  
 **Translation:** 
 
-**[4460.10s] English:** много читал и много смотрел готовясь к этому по этому вопросу включая конечно  
+**[4460.10s] English:** I have read a lot and watched a lot in preparation for this question, including of course  
 **Translation:** 
 
-**[4467.48s] English:** же недавнее подробное интервью которое вы дали дэну вот оно и потом элисон  
+**[4467.48s] English:** Here is the detailed interview you recently gave to Dan. Here it is, and then Alison.  
 **Translation:** 
 
-**[4473.16s] English:** пирсон из telegraph все они посвящены этой теме и там вы в подробностях  
-**Translation:** 
+**[4473.16s] English:** Person from The Telegraph, all of them are dedicated to this topic and there you will find details in detail.  
+**Translation:** Vocabulary: alison: 艾莉森
 
-**[4478.72s] English:** ответили на множественные обвинения если людям интересны подробности они могут их  
+**[4478.72s] English:** Answered multiple accusations; if people are interested in details, they may find them.  
 **Translation:** 
 
-**[4483.48s] English:** послушать и так исходя из этого и всего что я изучил как я понимаю вы никогда не  
-**Translation:** 
+**[4483.48s] English:** Listen, and based on this, and everything I've studied, as I understand it, you've never  
+**Translation:** Vocabulary: accusations: 指控
 
-**[4489.14s] English:** препятствовали кому-либо уйти при их желании в сексуальном контексте например  
+**[4489.14s] English:** Prevented anyone from leaving when they desired to in a sexual context, for example.  
 **Translation:** 
 
-**[4494.18s] English:** блокируя дверь это так все правильно да  
+**[4494.18s] English:** Blocking the door, this is all so right, isn't it?  
 **Translation:** 
 
-**[4497.48s] English:** вы всегда уважали когда человек говорил нет опять же в сексуальном контексте это  
+**[4497.48s] English:** You always respected when a person said no, again, in a sexual context, this  
 **Translation:** 
 
-**[4503.80s] English:** так все правильно вы никогда не совершали действие сексуального плана в отношении  
+**[4503.80s] English:** Such actions were never performed by you, as you have never engaged in any sexual activity.  
 **Translation:** 
 
-**[4508.20s] English:** несовершеннолетних верно никогда и также как это иногда делается в голливуде  
+**[4508.20s] English:** Children are never truly innocent, as this is sometimes portrayed in Hollywood.  
 **Translation:** 
 
-**[4513.76s] English:** позвольте спросить это вы никогда открыто не предлагали карьерный рост в  
-**Translation:** 
+**[4513.76s] English:** Let me ask if you have never openly offered career growth opportunities.  
+**Translation:** Vocabulary: openly: 坦白地; portrayed: 描绘
 
-**[4518.04s] English:** обмен на сексуальные услуги верно верно что вы делали в плане  
+**[4518.04s] English:** Exchange for sexual services, verbatim: correct, correct, what you did in terms of.  
 **Translation:** 
 
-**[4522.90s] English:** плохого поведения что самое худшее и как часто вы это  
-**Translation:** 
+**[4522.90s] English:** What is the worst behavior, and what do you think is most frequent?  
+**Translation:** Vocabulary: verbatim: 原文照录
 
-**[4527.30s] English:** делаете  
+**[4527.30s] English:** Makes  
 **Translation:** 
 
-**[4527.48s] English:** я слышал и теперь все чаще слышу что у каждого есть история о кевине спейси и это  
-**Translation:** 
+**[4527.48s] English:** I've heard, and now I hear it more often that everyone has a story about Kevin Spacey.  
+**Translation:** Vocabulary: kevin: 凯文; spacey: 斯派西
 
-**[4534.86s] English:** говорит мне о том что я приставал ко многим парням как часто вы переходили  
+**[4534.86s] English:** He tells me that I harassed many guys how often did you switch  
 **Translation:** 
 
-**[4539.92s] English:** черту и что это значило для вас я много дурачился делал много всего что тогда  
-**Translation:** 
+**[4539.92s] English:** The line and what it meant to me, I spent a lot of time fooling around and doing a lot of things back then.  
+**Translation:** Vocabulary: harassed: 骚扰
 
-**[4545.86s] English:** казалось игривым и веселым но с тех пор я понял что нет и мне пришлось признать  
+**[4545.86s] English:** It seemed playful and cheerful, but since then I have realized that it isn't, and I had to acknowledge that.  
 **Translation:** 
 
-**[4553.30s] English:** что я перешел некоторые границы с  
-**Translation:** 
+**[4553.30s] English:** That I crossed some boundaries,  
+**Translation:** Vocabulary: cheerful: 愉快
 
-**[4557.30s] English:** делал несколько неправильных вещей и совершил  
+**[4557.30s] English:** I made several wrong things and committed  
 **Translation:** 
 
-**[4560.00s] English:** Несколько ошибок, и это осталось в прошлом.  
+**[4560.00s] English:** Several errors, and that's in the past.  
 **Translation:** 
 
-**[4563.10s] English:** Я имею в виду, что последние семь лет я усердно трудился над тем, чтобы провести необходимые разговоры,  
+**[4563.10s] English:** I mean that over the last seven years, I have worked hard to conduct the necessary conversations,  
 **Translation:** 
 
-**[4569.98s] English:** выслушать людей, понять вещи с другой точки зрения, чем та, что была у меня,  
+**[4569.98s] English:** Listen to people, understand things from another perspective than the one I had.  
 **Translation:** 
 
-**[4575.72s] English:** и сказать, что я никогда больше не буду так себя вести до конца своей жизни.  
+**[4575.72s] English:** And to say that I will never behave like this again for the rest of my life.  
 **Translation:** 
 
-**[4581.62s] English:** Чтобы уточнить, я думаю, что вы часто слишком настойчивы в флирте.  
-**Translation:** 
+**[4581.62s] English:** To clarify, I think you often come across as too persistent in your flirting.  
+**Translation:** Vocabulary: clarify: 澄清; flirting: 调情; persistent: 执着
 
-**[4587.38s] English:** И это проявляется по-разному, но чтобы было ясно,  
+**[4587.38s] English:** And this manifests in different ways, but to make it clear,  
 **Translation:** 
 
-**[4596.44s] English:** вы никогда и никому не препятствовали уйти, если они того хотели.  
-**Translation:** 
+**[4596.44s] English:** You never prevented anyone from leaving if they wanted to.  
+**Translation:** Vocabulary: manifests: 显现
 
-**[4600.62s] English:** Вы всегда воспринимали категорическое «нет» от людей как ответ «нет, хватит».  
+**[4600.62s] English:** You always interpreted people's categorical "no" as an answer of "no, that's enough.  
 **Translation:** 
 
-**[4607.44s] English:** Вы воспринимали это как ответ.  
-**Translation:** 
+**[4607.44s] English:** You perceived it as an answer.  
+**Translation:** Vocabulary: categorical: 绝对的; interpreted: 解释为; perceived: 感知为
 
-**[4610.28s] English:** Никогда не вступали в сексуальную связь с несовершеннолетними,  
+**[4610.28s] English:** Never entered into sexual relations with minors.  
 **Translation:** 
 
-**[4613.50s] English:** и вы никогда открыто не предлагали обменять сексуальные услуги,  
-**Translation:** 
+**[4613.50s] English:** And you never openly offered to exchange sexual services.  
+**Translation:** Vocabulary: minors: 未满法定年龄的人; openly: 公开地
 
-**[4617.18s] English:** на продвижение по карьере.  
+**[4617.18s] English:** On career advancement.  
 **Translation:** 
 
-**[4619.14s] English:** Это лишь некоторые обвинения, которые были выдвинуты,  
-**Translation:** 
+**[4619.14s] English:** These are merely some of the accusations that were made.  
+**Translation:** Vocabulary: accusations: 指控; advancement: 晋升
 
-**[4622.76s] English:** и неоднократно в суде доказали свою несостоятельность.  
+**[4622.76s] English:** And they have repeatedly proven their incompetence in court.  
 **Translation:** 
 
-**[4627.92s] English:** Но сексуальная жизнь у меня была...  
-**Translation:** 
+**[4627.92s] English:** But my sexual life was...  
+**Translation:** Vocabulary: incompetence: 无能
 
-**[4630.58s] English:** Я влюблялся, я настолько восхищался людьми, что я...  
+**[4630.58s] English:** I fell in love, I was so enchanted by people that I...  
 **Translation:** 
 
-**[4636.28s] English:** Хочу сказать, что я большой романтик.  
-**Translation:** 
+**[4636.28s] English:** I want to say that I am a big romantic.  
+**Translation:** Vocabulary: enchanted: 着迷
 
-**[4638.70s] English:** Я настолько романтичная натура,  
+**[4638.70s] English:** I am such a romantic nature,  
 **Translation:** 
 
-**[4640.60s] English:** что есть целая часть меня, о которой не говорили, которую не обсуждали,  
+**[4640.60s] English:** What there is of me that was never spoken of, that was never discussed,  
 **Translation:** 
 
-**[4646.50s] English:** но это тот...  
+**[4646.50s] English:** But this is the one...  
 **Translation:** 
 
-**[4647.18s] English:** кого я знаю, я знаю этого человека.  
+**[4647.18s] English:** I know this person, as I know who he is.  
 **Translation:** 
 
-**[4649.94s] English:** Было очень неприятно слышать, что говорили некоторые люди, что я...  
+**[4649.94s] English:** It was very unpleasant to hear what some people were saying about me,...  
 **Translation:** 
 
-**[4653.94s] English:** В моей натуре нет ни капли агрессии,  
-**Translation:** 
+**[4653.94s] English:** In my nature, there is not a drop of aggression,  
+**Translation:** Vocabulary: aggression: 攻击性
 
-**[4656.62s] English:** но слышать, что люди описывают вещи как что-то очень агрессивное,  
+**[4656.62s] English:** However, hearing that people describe things as very aggressive,  
 **Translation:** 
 
-**[4661.18s] English:** невероятно сложно для меня.  
+**[4661.18s] English:** It is incredibly difficult for me.  
 **Translation:** 
 
-**[4664.94s] English:** И я глубоко сожалею, если я когда-либо кого-то обидел  
+**[4664.94s] English:** I deeply regret if I have ever offended anyone.  
 **Translation:** 
 
-**[4668.78s] English:** или как-то кому-то причинил боль.  
-**Translation:** 
+**[4668.78s] English:** Or caused someone some harm.  
+**Translation:** Vocabulary: offended: 冒犯
 
-**[4671.78s] English:** Это разрушает меня, и мне нужно очень стараться,  
+**[4671.78s] English:** This is destroying me, and I need to work very hard.  
 **Translation:** 
 
-**[4674.82s] English:** и я должен работать очень сильно,  
+**[4674.82s] English:** And I have to work very hard,  
 **Translation:** 
 
-**[4676.82s] English:** чтобы показать и доказать, что я усвоил...  
+**[4676.82s] English:** To show and prove that I have understood,...  
 **Translation:** 
 
-**[4679.58s] English:** ...дар.  
+**[4679.58s] English:** ...dar.  
 **Translation:** 
 
-**[4680.00s] English:** Я выучил урок, и я никогда, никогда, никогда не буду вести себя как тогда.  
+**[4680.00s] English:** I learned a lesson, and I will never, never, never behave like that again.  
 **Translation:** 
 
-**[4686.92s] English:** Из всего, что я видел с вами в публичной плоскости, люди любят вас.  
+**[4686.92s] English:** From all that I have seen of you in public, people love you.  
 **Translation:** 
 
-**[4691.98s] English:** Коллеги любят вас, товарищи по цеху любят вас.  
+**[4691.98s] English:** Colleagues love you, fellow workers love you.  
 **Translation:** 
 
-**[4694.74s] English:** Присутствует кокетливость.  
-**Translation:** 
+**[4694.74s] English:** There is a hint of coquetry.  
+**Translation:** Vocabulary: colleagues: 同行; coquetry: 卖弄风情
 
-**[4696.14s] English:** Другое слово для этого – химия.  
+**[4696.14s] English:** Another word for this is chemistry.  
 **Translation:** 
 
-**[4697.96s] English:** У вас с людьми, с которыми вы работаете, есть химия.  
+**[4697.96s] English:** There is a chemistry between you and the people you work with.  
 **Translation:** 
 
-**[4700.50s] English:** И, кстати, я не умоляю своей ответственности на то, что я сделал неправильно,  
+**[4700.50s] English:** And by the way, I do not plead guilty to the responsibility for what I did wrong.  
 **Translation:** 
 
-**[4704.60s] English:** когда я ошибся и перешел черту, нарушив границы.  
+**[4704.60s] English:** When I crossed the line and violated the boundaries, I realized I had made a mistake.  
 **Translation:** 
 
-**[4708.68s] English:** Все это я принимаю.  
+**[4708.68s] English:** All of this I accept.  
 **Translation:** 
 
-**[4709.76s] English:** Но я вращаюсь в индустрии, в которой флиртуют, привлекают внимание.  
-**Translation:** 
+**[4709.76s] English:** But I operate in an industry where people flirt and attract attention.  
+**Translation:** Vocabulary: flirt: 调情
 
-**[4718.56s] English:** Люди встречаются на работе и в итоге женятся и заводят детей.  
+**[4718.56s] English:** People meet at work and eventually get married and have children.  
 **Translation:** 
 
-**[4726.22s] English:** В общем, это пространство и место, где эти понятия «семьи»,  
+**[4726.22s] English:** In general, this is a space and place where these concepts of "family",  
 **Translation:** 
 
-**[4732.84s] English:** эти понятия «притяжение», эти понятия…  
+**[4732.84s] English:** These concepts of "attraction," these concepts...  
 **Translation:** 
 
-**[4737.20s] English:** Это всегда сложно, когда встречаешь кого-то на работе,  
-**Translation:** 
+**[4737.20s] English:** This is always tricky when you run into someone at work,  
+**Translation:** Vocabulary: tricky: 棘手的
 
-**[4740.20s] English:** и начинаешь чувствовать взаимное притяжение.  
+**[4740.20s] English:** And you begin to feel mutual attraction.  
 **Translation:** 
 
-**[4744.36s] English:** Надо держать это в уме.  
+**[4744.36s] English:** We need to keep this in mind.  
 **Translation:** 
 
-**[4745.66s] English:** И особенно нужно помнить, что вы никого не хотите заставить чувствовать,  
+**[4745.66s] English:** Especially, it's important to remember that you don't want to make anyone feel compelled to do something they don't want to do.  
 **Translation:** 
 
-**[4750.94s] English:** что их работа под угрозой,  
-**Translation:** 
+**[4750.94s] English:** That their jobs are at risk,  
+**Translation:** Vocabulary: compelled: 被迫
 
-**[4754.36s] English:** или что вы их как-то накажете, если они больше не захотят быть с вами.  
+**[4754.36s] English:** Or perhaps they will want to be with you again if you somehow punish them.  
 **Translation:** 
 
-**[4759.46s] English:** Так что это важные вещи, которые нужно просто признать.  
+**[4759.46s] English:** So these are important things that need to be simply acknowledged.  
 **Translation:** 
 
-**[4764.62s] English:** Еще одна сложность, как я убедился, в том,  
+**[4764.62s] English:** Another complexity, as I have discovered, is in that  
 **Translation:** 
 
-**[4767.20s] English:** что есть огромное количество актеров,  
+**[4767.20s] English:** What is enormous in terms of actors,  
 **Translation:** 
 
-**[4769.76s] English:** смотрящих на вас.  
+**[4769.76s] English:** Looking at you.  
 **Translation:** 
 
-**[4771.94s] English:** Огромное количество людей в индустрии заглядываются на вас и любят вас.  
+**[4771.94s] English:** A huge number of people in the industry look up to you and love you.  
 **Translation:** 
 
-**[4777.14s] English:** Из документального фильма я увидел, что многие просто любят быть рядом с вами,  
+**[4777.14s] English:** From the documentary film, I saw that many simply love being around you.  
 **Translation:** 
 
-**[4782.02s] English:** учиться у вас тому, что значит «великий театр», «великий фильм», «великая история».  
+**[4782.02s] English:** To study from you what it means to be a "great theater," "great film," or "great story.  
 **Translation:** 
 
-**[4788.48s] English:** И это добавляет сложности.  
+**[4788.48s] English:** And this adds complexity.  
 **Translation:** 
 
-**[4790.22s] English:** Я бы не сказал, что это динамика власти, как в отношениях начальник-подчиненный.  
-**Translation:** 
+**[4790.22s] English:** I would not say that this is a power dynamic like in a boss-subordinate relationship.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[4794.52s] English:** Это динамика восхищения,  
+**[4794.52s] English:** This is a dynamic of admiration,  
 **Translation:** 
 
-**[4798.20s] English:** которую легко упомянуть.  
-**Translation:** 
+**[4798.20s] English:** Which is easy to mention.  
+**Translation:** Vocabulary: admiration: 敬佩
 
-**[4799.76s] English:** Я бы не сказал, что это динамика власти,  
+**[4799.76s] English:** I wouldn't say that this is a dynamic of power.  
 **Translation:** 
 
-**[4800.00s] English:** которая легко упомянуть.  
+**[4800.00s] English:** Which is easy to mention.  
 **Translation:** 
 
-**[4800.02s] English:** Это динамика восхищения,  
+**[4800.00s] English:** From view and easily usable, you understand, right? Moreover, I understand that there are people who  
 **Translation:** 
 
-**[4800.04s] English:** которую легко упомянуть.  
-**Translation:** 
+**[4800.02s] English:** This is a dynamic of admiration,  
+**Translation:** Vocabulary: usable: 可用的
 
-**[4800.00s] English:** из виду и легко воспользоваться вы это понимаете да к тому же я понимаю что есть люди которые  
+**[4800.04s] English:** Which is easy to mention.  
 **Translation:** 
 
-**[4806.76s] English:** встретив меня и проведя со мной незначительное время уже решили что я теперь стану их наставником  
-**Translation:** 
+**[4806.76s] English:** Meeting me and spending only a brief time with me, they already decided that I would now become their mentor.  
+**Translation:** Vocabulary: mentor: 导师
 
-**[4814.86s] English:** а потом начали себя вести так что я и понятия не имел что они либо принимали участие либо  
+**[4814.86s] English:** Then they started behaving in a way that I had no idea whether they were even participating or not.  
 **Translation:** 
 
-**[4824.50s] English:** флиртовали либо поощряли меня не давая мне понять что в конечном итоге они чего-то от меня ждут  
-**Translation:** 
+**[4824.50s] English:** Flirted with me, or encouraged me, not giving me an understanding that in the end they were expecting something from me.  
+**Translation:** Vocabulary: behaving: 表现; flirted: 挑逗
 
-**[4833.38s] English:** так что это о взаимоотношениях речь о двух людях речь о том что люди принимают решение делают выбор  
+**[4833.38s] English:** So, this is about relationships between two people and how people make decisions.  
 **Translation:** 
 
-**[4846.94s] English:** и я признаю свою ответственность в этом но есть целый ряд вещей в которых  
+**[4846.94s] English:** And I acknowledge my responsibility in this, but there is a whole range of things in which  
 **Translation:** 
 
-**[4854.44s] English:** меня не привлекают и я не могу их не привлекать и я не могу их не привлекать и я не могу их не  
+**[4854.44s] English:** Me neither. I find them unappealing and cannot make myself find them appealing.  
 **Translation:** 
 
-**[4854.48s] English:** не привлекать и я не могу их не привлекать они которых попросту не было и и я не могу сказать и  
-**Translation:** 
+**[4854.48s] English:** Do not attract them, and I cannot attract those that simply weren't there, and I cannot say.  
+**Translation:** Vocabulary: appealing: 吸引人的; cannot: 不能; unappealing: 不吸引人的
 
-**[4862.22s] English:** не думаю что было бы правильным говорить ну я знаете все в чем меня когда-либо обвиняли  
+**[4862.22s] English:** I don't think it would be right to say, you know, all the things I've ever been accused of.  
 **Translation:** 
 
-**[4869.02s] English:** неправда потому что мы теперь доказали что это не так никогда так не было но я вполне  
+**[4869.02s] English:** Not true because we have now proven that it was never like that. But I quite  
 **Translation:** 
 
-**[4874.14s] English:** готов признать что я вел себя полностью неправильно и что так было нельзя и я  
+**[4874.14s] English:** I must admit that I behaved completely wrongly and that it was not okay, and I  
 **Translation:** 
 
-**[4884.22s] English:** Я сожалею об этом.  
-**Translation:** 
+**[4884.22s] English:** I regret this.  
+**Translation:** Vocabulary: behaved: 表现; wrongly: 错误地
 
-**[4886.14s] English:** Я думаю, это вдобавок говорит о темной стороне славы.  
+**[4886.14s] English:** I think this also speaks to the dark side of fame.  
 **Translation:** 
 
-**[4890.44s] English:** У меня сложилось впечатление, что есть люди, возможно, много людей,  
+**[4890.44s] English:** I got the impression that there are people, possibly many people,  
 **Translation:** 
 
-**[4894.60s] English:** которые пытаются подружиться с вами, чтобы получить роли и продвинуться по карьерной лестнице.  
+**[4894.60s] English:** Which ones try to befriend you in order to get roles and advance in their careers.  
 **Translation:** 
 
-**[4900.76s] English:** Так что не вы используете их, а они пытаются использовать вас.  
+**[4900.76s] English:** So you're not using them, while they are trying to use you.  
 **Translation:** 
 
-**[4908.82s] English:** Каково это?  
+**[4908.82s] English:** What is it like?  
 **Translation:** 
 
-**[4910.32s] English:** Как узнать, нравишься ли ты кому-то за то, что ты Кевин?  
+**[4910.32s] English:** How can you know if someone likes you just because you are Kevin?  
 **Translation:** 
 
-**[4914.36s] English:** Или нравишься за...  
+**[4914.36s] English:** Or you like it for...  
 **Translation:** 
 
-**[4919.14s] English:** Вы сказали, что...  
+**[4919.14s] English:** You said that...  
 **Translation:** 
 
-**[4920.00s] English:** что вы романтик, что вы видите человека, и мелькает «он мне нравится»,  
+**[4920.00s] English:** That you're a romantic, that you see someone and instantly think "I like him.  
 **Translation:** 
 
-**[4925.12s] English:** а вы, похоже, нравитесь ему.  
-**Translation:** 
+**[4925.12s] English:** You, by the way, seem to like him.  
+**Translation:** Vocabulary: instantly: 立刻
 
-**[4927.16s] English:** Как узнать, что это по-настоящему?  
+**[4927.16s] English:** How can you know that it's truly genuine?  
 **Translation:** 
 
-**[4930.58s] English:** Ну, до некоторой степени, я бы сказал, что я доверял своим инстинктам  
-**Translation:** 
+**[4930.58s] English:** Nu, to a certain degree, I would say that I trusted my instincts.  
+**Translation:** Vocabulary: instincts: 直觉
 
-**[4936.96s] English:** и чаще всего оказывался прав.  
+**[4936.96s] English:** And he was often right.  
 **Translation:** 
 
-**[4941.52s] English:** Но, очевидно, за последние годы, не только с теми, кто меня обвинял,  
+**[4941.52s] English:** But, obviously, in recent years, not only with those who accused me,  
 **Translation:** 
 
-**[4946.66s] English:** но и с людьми в моей индустрии, знаете, я осознал,  
+**[4946.66s] English:** But with people in my industry, you know, I realized,  
 **Translation:** 
 
-**[4949.46s] English:** что я думал, у нас дружба, но, полагаю, все было поверхностным  
-**Translation:** 
+**[4949.46s] English:** What I thought was a friendship, but, I suppose, it was all superficial.  
+**Translation:** Vocabulary: superficial: 表面的
 
-**[4954.10s] English:** и не тем, чем я думал.  
+**[4954.10s] English:** And not what I thought.  
 **Translation:** 
 
-**[4958.56s] English:** Но, послушайте, не стоит этому удивляться.  
+**[4958.56s] English:** But, listen, don't be surprised by this.  
 **Translation:** 
 
-**[4962.54s] English:** Я также должен сказать, что вы только что сказали,  
+**[4962.54s] English:** I also have to say that you just said,  
 **Translation:** 
 
-**[4966.28s] English:** что мир меня отменил.  
+**[4966.28s] English:** What has the world abandoned me for?  
 **Translation:** 
 
-**[4967.74s] English:** Я должен с вами не согласиться.  
+**[4967.74s] English:** I must disagree with you.  
 **Translation:** 
 
-**[4970.44s] English:** Я должен не согласиться, потому что семь лет  
+**[4970.44s] English:** I must disagree because seven years.  
 **Translation:** 
 
-**[4973.80s] English:** меня останавливают люди.  
+**[4973.80s] English:** People stop me.  
 **Translation:** 
 
-**[4977.68s] English:** Порою каждый день, порою по несколько дней,  
+**[4977.68s] English:** Sometimes every day, sometimes for several days,  
 **Translation:** 
 
-**[4979.46s] English:** порою по несколько раз в день,  
+**[4979.46s] English:** Porey po several times a day,  
 **Translation:** 
 
-**[4982.18s] English:** и разговоры, которые я веду с людьми,  
+**[4982.18s] English:** And the conversations I have with people,  
 **Translation:** 
 
-**[4985.22s] English:** проявляемые ими щедрость, демонстрируемая доброта  
+**[4985.22s] English:** The generosity they exhibit, their demonstrated kindness.  
 **Translation:** 
 
-**[4988.26s] English:** и непомерное желание знать, когда я вернусь к работе,  
-**Translation:** 
+**[4988.26s] English:** And an insatiable desire to know when I will return to work,  
+**Translation:** Vocabulary: exhibit: 展示; generosity: 慷慨; insatiable: 贪得无厌
 
-**[4994.12s] English:** говорят мне, что хотя, может, и есть громкое меньшинство,  
+**[4994.12s] English:** They say that although there might be a loud minority,  
 **Translation:** 
 
-**[4998.88s] English:** но есть и тихое большинство.  
+**[4998.88s] English:** But there is also a quiet majority.  
 **Translation:** 
 
-**[5001.88s] English:** Предавали ли вас в индустрии,  
+**[5001.88s] English:** Have you been betrayed in the industry?  
 **Translation:** 
 
-**[5005.30s] English:** в жизни,  
-**Translation:** 
+**[5005.30s] English:** In life,  
+**Translation:** Vocabulary: betrayed: 被背叛
 
-**[5006.88s] English:** и как не дать этому сделать вас циничным?  
+**[5006.88s] English:** And how can you avoid becoming cynical?  
 **Translation:** 
 
-**[5009.46s] English:** Я думаю, что предательство – это слово с глубоким смыслом.  
-**Translation:** 
+**[5009.46s] English:** I think betrayal is a word with deep meaning.  
+**Translation:** Vocabulary: betrayal: 背叛; cynical: 愤世嫉俗的
 
-**[5019.32s] English:** Но, думаю, если вас предают, то только те,  
+**[5019.32s] English:** But, I think, if you are betrayed, it is only those,  
 **Translation:** 
 
-**[5022.72s] English:** кто действительно вас знает.  
+**[5022.72s] English:** Who truly knows you.  
 **Translation:** 
 
-**[5025.78s] English:** И я могу сказать, что меня не предавали.  
+**[5025.78s] English:** I can say that I was not betrayed.  
 **Translation:** 
 
-**[5029.54s] English:** Красиво сказано.  
+**[5029.54s] English:** Beautifully said.  
 **Translation:** 
 
-**[5033.22s] English:** За те моменты, когда вы переходили черту,  
+**[5033.22s] English:** For those moments when you crossed the line,  
 **Translation:** 
 
-**[5036.78s] English:** вы берете ответственность за свои ошибки.  
+**[5036.78s] English:** You take responsibility for your mistakes.  
 **Translation:** 
 
-**[5038.84s] English:** Да.  
+**[5038.84s] English:** Yes.  
 **Translation:** 
 
-**[5040.00s] English:** извиняетесь ли вы перед теми, кого могли эмоционально задеть?  
+**[5040.00s] English:** Do you apologize to those whom you might have emotionally hurt?  
 **Translation:** 
 
-**[5045.10s] English:** Да.  
+**[5045.10s] English:** Yes.  
 **Translation:** 
 
-**[5048.20s] English:** И я говорил со многими из них.  
+**[5048.20s] English:** I have spoken with many of them.  
 **Translation:** 
 
-**[5052.52s] English:** Лично?  
+**[5052.52s] English:** Personally?  
 **Translation:** 
 
-**[5053.34s] English:** Да, лично.  
+**[5053.34s] English:** Yes, personally.  
 **Translation:** 
 
-**[5053.94s] English:** Где должны приноситься извинения?  
+**[5053.94s] English:** Where should apologies be offered?  
 **Translation:** 
 
-**[5057.30s] English:** Смогли ли они начать, наконец, прощать?  
+**[5057.30s] English:** Could they finally begin to forgive?  
 **Translation:** 
 
-**[5060.18s] English:** Безусловно.  
+**[5060.18s] English:** Certainly.  
 **Translation:** 
 
-**[5062.56s] English:** Некоторые самые трогательные разговоры состоялись,  
+**[5062.56s] English:** Some of the most touching conversations took place,  
 **Translation:** 
 
-**[5065.94s] English:** когда я был полон решимости взять ответственность,  
+**[5065.94s] English:** When I was determined to take responsibility,  
 **Translation:** 
 
-**[5073.44s] English:** и они были с теми людьми, кто сказал огромное спасибо.  
+**[5073.44s] English:** And they were with those people who said enormous thanks.  
 **Translation:** 
 
-**[5078.00s] English:** Думаю, что теперь я смогу вас простить.  
+**[5078.00s] English:** I think that now I will be able to forgive you.  
 **Translation:** 
 
-**[5082.12s] English:** Будь возможность поговорить с Кевином Спейси 30-40 лет назад.  
+**[5082.12s] English:** If I had the opportunity to talk to Kevin Spacey 30-40 years ago.  
 **Translation:** 
 
-**[5088.24s] English:** Что бы вы ему посоветовали изменить в жизни?  
+**[5088.24s] English:** What would you advise him to change in his life?  
 **Translation:** 
 
-**[5092.50s] English:** И как бы это сделали? Каков был бы подход?  
+**[5092.50s] English:** How would this be done? What would the approach be?  
 **Translation:** 
 
-**[5095.32s] English:** Вы были бы виноваты?  
+**[5095.32s] English:** Would you have been at fault?  
 **Translation:** 
 
-**[5095.94s] English:** Вы были бы вежливы или влепили пощечину?  
-**Translation:** 
+**[5095.94s] English:** Did you behave politely or did you slap them?  
+**Translation:** Vocabulary: politely: 有礼貌地
 
-**[5098.98s] English:** Если бы я вернулся так далеко, то, скорее всего, бы нашел способ,  
+**[5098.98s] English:** If I had returned so far back, I would likely have found a way,  
 **Translation:** 
 
-**[5105.16s] English:** чтобы не так сильно беспокоиться о раскрытии своей ориентации,  
-**Translation:** 
+**[5105.16s] English:** To not worry so much about coming out about your orientation,  
+**Translation:** Vocabulary: orientation: 方向
 
-**[5110.24s] English:** и не скрывал бы это так долго.  
+**[5110.24s] English:** And he wouldn't have hidden it for so long.  
 **Translation:** 
 
-**[5112.68s] English:** Думаю, это было связано во многом с путаницей  
+**[5112.68s] English:** I think it was largely due to confusion.  
 **Translation:** 
 
-**[5117.76s] English:** и во многом с недоверием, как моим, так и других людей.  
+**[5117.76s] English:** And with much of it in distrust, both mine and others'.  
 **Translation:** 
 
-**[5124.28s] English:** Большую часть своей жизни, я думаю, это было связано с тем, что вы не можете быть виноватым.  
-**Translation:** 
+**[5124.28s] English:** Most of my life, I think, has been about not being able to feel guilty.  
+**Translation:** Vocabulary: distrust: 不信任
 
-**[5125.32s] English:** Большая часть своей жизни, вы скрывали от общественности, что вы гей.  
+**[5125.32s] English:** Most of your life, you hid from the public that you are gay.  
 **Translation:** 
 
-**[5131.02s] English:** Что оказалось самым тяжелым в сокрытии своих предпочтений?  
-**Translation:** 
+**[5131.02s] English:** What proved to be the most difficult in concealing my preferences?  
+**Translation:** Vocabulary: concealing: 隐瞒
 
-**[5137.22s] English:** Что я не нашел подходящего момента для ознаменования, чтобы поделиться этим.  
+**[5137.22s] English:** What I didn't find was an appropriate moment to commemorate and share this.  
 **Translation:** 
 
-**[5147.34s] English:** Это должно быть тяготит вас быть неспособным полностью  
-**Translation:** 
+**[5147.34s] English:** This should weigh on you for being unable to fully  
+**Translation:** Vocabulary: commemorate: 纪念
 
-**[5155.32s] English:** ознаменовать любовь.  
+**[5155.32s] English:** To commemorate love.  
 **Translation:** 
 
-**[5157.02s] English:** Знаете, Иэн МакКеллен сказал,  
+**[5157.02s] English:** Know that Ian McKellen said,  
 **Translation:** 
 
-**[5160.00s] English:** После 40 он сделал «Камин Аут 49».  
+**[5160.00s] English:** After 40, he made "Kamin Out 49.  
 **Translation:** 
 
-**[5165.38s] English:** 27 лет он был профессиональным актером, при этом скрываясь.  
+**[5165.38s] English:** For 27 years, he was a professional actor, hiding his identity.  
 **Translation:** 
 
-**[5170.28s] English:** И он сказал, что чувствовал, как будто это было как прожить часть своей жизни, будучи нечестным.  
+**[5170.28s] English:** He said that he felt as though it was like living part of his life dishonestly.  
 **Translation:** 
 
-**[5177.88s] English:** И что он ощутил, что это повлияло на его работу, сделавшую «Камин Аут».  
-**Translation:** 
+**[5177.88s] English:** What did he feel, and what impact did it have on his work on "Kamin Out"?  
+**Translation:** Vocabulary: dishonestly: 不诚实
 
-**[5183.30s] English:** Ведь не было чувства, что нужно что-то скрывать.  
+**[5183.30s] English:** Because there was no feeling that something needed to be hidden.  
 **Translation:** 
 
-**[5185.90s] English:** И я безоговорочно верю, что мой опыт был и будет таким.  
+**[5185.90s] English:** I keep believing without reservation that my experience will be like this.  
 **Translation:** 
 
-**[5194.42s] English:** Я сожалею, каким вышел мой «Камин Аут».  
+**[5194.42s] English:** I regret how "Kamin Out" turned out.  
 **Translation:** 
 
-**[5198.90s] English:** Но мы с Иэном уже обсудили это, и я уже решил совершить «Камин Аут».  
-**Translation:** 
+**[5198.90s] English:** But Ian and I have already discussed this, and I've decided to go for a "Camin Out".  
+**Translation:** Vocabulary: kamin: 壁炉
 
-**[5207.12s] English:** Так что это не было так, как будто меня заставили.  
+**[5207.12s] English:** So, it wasn't as though I was forced to do it.  
 **Translation:** 
 
-**[5211.12s] English:** Это было мое решение.  
+**[5211.12s] English:** This was my decision.  
 **Translation:** 
 
-**[5213.52s] English:** И, к слову, вопреки совету Иэна.  
+**[5213.52s] English:** And, by the way, contrary to Ian's advice.  
 **Translation:** 
 
-**[5215.90s] English:** Я сделал то заявление, и он сожалеет, что я так поступил.  
+**[5215.90s] English:** I made that statement, and he regrets that I acted that way.  
 **Translation:** 
 
-**[5220.22s] English:** Да, вы сделали заявление, когда выдвинули первое обвинение,  
+**[5220.22s] English:** Yes, you made a statement when you first filed the accusation.  
 **Translation:** 
 
-**[5227.86s] English:** которое могло бы быть одним из худших постов в социальных сетях всех времен.  
+**[5227.86s] English:** Which could be one of the worst posts in social media history.  
 **Translation:** 
 
-**[5235.88s] English:** Так что это как два в одном.  
+**[5235.88s] English:** So, it's like two in one.  
 **Translation:** 
 
-**[5239.82s] English:** Давай, не сдерживайся.  
+**[5239.82s] English:** Let's go, don't hold back.  
 **Translation:** 
 
-**[5241.32s] English:** Скажи мне, что ты реально думаешь.  
+**[5241.32s] English:** Say to me what you really think.  
 **Translation:** 
 
-**[5242.70s] English:** В первой части вы как бы косвенно...  
+**[5242.70s] English:** In the first part, you kind of...  
 **Translation:** 
 
-**[5245.90s] English:** Вы как бы косвенно признали, что сделали что-то плохое,  
+**[5245.90s] English:** You kind of indirectly admit that you did something wrong.  
 **Translation:** 
 
-**[5248.46s] English:** но чего, как позже оказалось, никогда не было, что и было доказано.  
+**[5248.46s] English:** But what, as it turned out later, never existed, which was proven.  
 **Translation:** 
 
-**[5252.24s] English:** Это была ложь.  
+**[5252.24s] English:** This was a lie.  
 **Translation:** 
 
-**[5254.10s] English:** Нет, я по сути сказал, что не помню того, что этот человек, Энтони Рэп, утверждал было 31 год назад.  
+**[5254.10s] English:** No, I essentially said that I don't remember what Anthony Rap claimed 31 years ago.  
 **Translation:** 
 
-**[5263.06s] English:** Я этого не помню.  
+**[5263.06s] English:** I don't remember that.  
 **Translation:** 
 
-**[5264.36s] English:** Но если это и было, если этот неловкий момент случился, то я должен извиниться перед ним.  
+**[5264.36s] English:** But if it did happen, if this awkward moment occurred, I should apologize to him.  
 **Translation:** 
 
-**[5269.96s] English:** Так я сказал.  
+**[5269.96s] English:** So I said.  
 **Translation:** 
 
-**[5270.74s] English:** И потом я сказал, что раз уж я здесь, то, пожалуй, признаюсь.  
-**Translation:** 
+**[5270.74s] English:** Then I said that since I'm here, I might as well confess.  
+**Translation:** Vocabulary: confess: 坦白
 
-**[5274.82s] English:** И знаете, это точно было не так.  
+**[5274.82s] English:** Do you know, this was definitely not the case.  
 **Translation:** 
 
-**[5275.74s] English:** Это было не самой лучшей вечеринкой Камин-Аута.  
+**[5275.74s] English:** This was not the best Kamin-Aut party.  
 **Translation:** 
 
-**[5277.98s] English:** Я это признаю.  
+**[5277.98s] English:** I acknowledge this.  
 **Translation:** 
 
-**[5278.68s] English:** Но общественность это вот...  
+**[5278.68s] English:** But the public is this way...  
 **Translation:** 
 
-**[5280.00s] English:** восприняла первую часть этого.  
+**[5280.00s] English:** She perceived the first part of this.  
 **Translation:** 
 
-**[5282.16s] English:** Во-первых, вторая часть – это ужасный камин-аут, мы все согласны.  
-**Translation:** 
+**[5282.16s] English:** First of all, the second part is a terrible cam-out, we all agree.  
+**Translation:** Vocabulary: perceived: 察觉
 
-**[5286.04s] English:** А первая часть – с общественной точки зрения.  
+**[5286.04s] English:** The first part — from a societal perspective.  
 **Translation:** 
 
-**[5290.24s] English:** Они видят там вину,  
-**Translation:** 
+**[5290.24s] English:** They see guilt there.  
+**Translation:** Vocabulary: societal: 社会的
 
-**[5292.34s] English:** что тоже трагично, по крайней мере,  
+**[5292.34s] English:** That is also tragic, at least,  
 **Translation:** 
 
-**[5295.04s] English:** это конкретное обвинение, оно очень драматичное,  
+**[5295.04s] English:** This specific accusation is very dramatic.  
 **Translation:** 
 
-**[5298.28s] English:** это иск на 40 миллионов долларов, это серьезное дело.  
+**[5298.28s] English:** This is a lawsuit for forty million dollars, this is serious business.  
 **Translation:** 
 
-**[5301.26s] English:** И свидетельство несовершеннолетнего было признано ложным.  
-**Translation:** 
+**[5301.26s] English:** The testimony of a minor was deemed false.  
+**Translation:** Vocabulary: deemed: 认定; lawsuit: 诉讼; testimony: 证词
 
-**[5304.00s] English:** Но вы смешиваете две вещи.  
+**[5304.00s] English:** But you are mixing two things.  
 **Translation:** 
 
-**[5306.96s] English:** До 2020-го судебный процесс не начинался,  
-**Translation:** 
+**[5306.96s] English:** Before 2020, no judicial process was initiated.  
+**Translation:** Vocabulary: initiated: 启动
 
-**[5309.44s] English:** а в суд дело попало лишь в 2022-м.  
+**[5309.44s] English:** In the court, the case only ended up in 2022.  
 **Translation:** 
 
-**[5312.24s] English:** Вернемся к 2017-му году,  
+**[5312.24s] English:** Let's return to 2017.  
 **Translation:** 
 
-**[5314.14s] English:** когда это было всего лишь обвинением в журнале «Базфит».  
+**[5314.14s] English:** When it was merely an accusation in the magazine "Bazfit".  
 **Translation:** 
 
-**[5318.00s] English:** Смотрите, я был загнан в угол.  
-**Translation:** 
+**[5318.00s] English:** Watch, I was cornered.  
+**Translation:** Vocabulary: accusation: 指控
 
-**[5323.22s] English:** Когда кто-то говорит, ты был так пьян,  
+**[5323.22s] English:** When someone says you were so drunk,  
 **Translation:** 
 
-**[5325.28s] English:** что не помнишь, что такое было,  
+**[5325.28s] English:** What you don't remember, what it was like,  
 **Translation:** 
 
-**[5329.04s] English:** то какая твоя первая реакция?  
+**[5329.04s] English:** What's your first reaction?  
 **Translation:** 
 
-**[5331.06s] English:** Первая – это сказать, что этот человек лжет,  
+**[5331.06s] English:** First, it is to say that this person is lying.  
 **Translation:** 
 
-**[5333.30s] English:** или твоя первая реакция – сказать, что?  
+**[5333.30s] English:** Or your first reaction might be to say, "What?  
 **Translation:** 
 
-**[5336.38s] English:** Я был? Что?  
+**[5336.38s] English:** Did I say something? What?  
 **Translation:** 
 
 **[5338.86s] English:** 31.  
 **Translation:** 
 
-**[5339.44s] English:** 31 год назад, на вечеринке, которой я не помню.  
+**[5339.44s] English:** 31 years ago, at a party which I don't remember.  
 **Translation:** 
 
-**[5342.14s] English:** Очевидно, что после этого было много расследований,  
+**[5342.14s] English:** Obviously, there were many investigations after that.  
 **Translation:** 
 
-**[5345.48s] English:** в результате которых мы смогли доказать в суде,  
+**[5345.48s] English:** As a result of which we were able to prove in court,  
 **Translation:** 
 
-**[5348.68s] English:** что такого никогда не было.  
+**[5348.68s] English:** What has never been before.  
 **Translation:** 
 
-**[5350.68s] English:** Но в тот момент я как бы был связан и не мог сопротивляться.  
+**[5350.68s] English:** But at that moment, I was as if bound and couldn't resist.  
 **Translation:** 
 
-**[5356.18s] English:** Ты должен быть добрым, ты не можешь...  
+**[5356.18s] English:** You should be kind, you can't...  
 **Translation:** 
 
-**[5360.38s] English:** Я думаю, что даже сейчас для меня это звучит неправильно,  
+**[5360.38s] English:** I think that even now it sounds wrong to me,  
 **Translation:** 
 
-**[5365.02s] English:** но я не знаю, что бы я мог сказать такого,  
+**[5365.02s] English:** But I don't know what I could say that would be such.  
 **Translation:** 
 
-**[5368.86s] English:** что удовлетворило бы кого-либо.  
+**[5368.86s] English:** What would satisfy anyone.  
 **Translation:** 
 
-**[5371.10s] English:** Хорошо, но это почти убедительное объяснение  
+**[5371.10s] English:** Good, but this is almost a convincing explanation.  
 **Translation:** 
 
-**[5374.10s] English:** для наихудшего поста в социальных сетях всех времен.  
+**[5374.10s] English:** For the worst post in social media of all time.  
 **Translation:** 
 
-**[5377.40s] English:** Я почти принимаю это.  
+**[5377.40s] English:** I almost accept it.  
 **Translation:** 
 
-**[5378.70s] English:** Я действительно удивлен.  
+**[5378.70s] English:** I am truly surprised.  
 **Translation:** 
 
-**[5379.82s] English:** Полагаю, вы не читали много постов,  
+**[5379.82s] English:** I assume you haven't read many posts,  
 **Translation:** 
 
-**[5381.80s] English:** ведь я не могу поверить, что это действительно худший.  
-**Translation:** 
+**[5381.80s] English:** Well, I cannot believe that this is really the worst.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[5384.26s] English:** Он восхитительно плох.  
+**[5384.26s] English:** He is wonderfully bad.  
 **Translation:** 
 
-**[5385.94s] English:** Вот насколько плох этот пост для соцсетей.  
+**[5385.94s] English:** This post is really bad for social media.  
 **Translation:** 
 
-**[5388.46s] English:** Как вы уже сказали,  
+**[5388.46s] English:** As you have already said,  
 **Translation:** 
 
-**[5389.98s] English:** Лиам Нисон и Шерон Стоун недавно поддержали вас,  
-**Translation:** 
+**[5389.98s] English:** Liam Neeson and Sharon Stone recently supported you.  
+**Translation:** Vocabulary: sharon: 莎朗
 
-**[5394.36s] English:** говоря о вашем характере.  
+**[5394.36s] English:** Speaking of your character.  
 **Translation:** 
 
-**[5397.42s] English:** Многие люди, которые знают, что вы не можете быть в соцсетях,  
+**[5397.42s] English:** Many people who know that you can't be on social media,  
 **Translation:** 
 
-**[5398.86s] English:** не знают вас,  
+**[5398.86s] English:** They don't know you,  
 **Translation:** 
 
-**[5399.62s] English:** и некоторые не знают, что вы не можете быть в соцсетях.  
+**[5399.62s] English:** And some don't know that you can't be on social media.  
 **Translation:** 
 
-**[5400.00s] English:** из них я знаю кто работал с вами в частном порядке выражают вам поддержку  
+**[5400.00s] English:** Among them, I know who worked with you privately expresses their support to you.  
 **Translation:** 
 
-**[5404.62s] English:** но боятся высказаться публично что скажете лично для меня это попросту  
-**Translation:** 
+**[5404.62s] English:** But they are afraid to speak publicly. That personally for me is simply  
+**Translation:** Vocabulary: privately: 私下里
 
-**[5410.06s] English:** грустно потому что возможно такова природа индустрии что это сложно сделать  
+**[5410.06s] English:** Gruelly, because possibly this is the nature of the industry and it's hard to do.  
 **Translation:** 
 
-**[5417.04s] English:** но я надеюсь что в мире будет чуть больше смелости я не думаю что дело в  
-**Translation:** 
+**[5417.04s] English:** But I hope there will be a bit more courage in the world. I don't think it's about that.  
+**Translation:** Vocabulary: gruelly: 艰难地
 
-**[5422.14s] English:** индустрии скорее время такое думаю мы живем в такое время и люди очень боятся  
+**[5422.14s] English:** Industries, I think it's a time like this when people are very afraid.  
 **Translation:** 
 
-**[5428.72s] English:** значит боятся некий общий общий страх это не буквально боятся что что их  
+**[5428.72s] English:** It means there's a certain common fear, this isn't to say they are literally afraid that.  
 **Translation:** 
 
-**[5435.26s] English:** отменят если они заступятся за того кого отменили  
+**[5435.26s] English:** They will be revoked if they stand up for the one who was revoked.  
 **Translation:** 
 
-**[5441.24s] English:** я думаю это вы знаете в истории мы такое неоднократно наблюдали это происходит не  
-**Translation:** 
+**[5441.24s] English:** I think you know in history we have observed this happening not  
+**Translation:** Vocabulary: revoked: 被撤销
 
-**[5448.10s] English:** в первый раз из ваших же слов наиболее мрачный момент  
+**[5448.10s] English:** In the first instance, from your own words, the darkest moment.  
 **Translation:** 
 
-**[5453.22s] English:** это 2017 когда все это произошло  
+**[5453.22s] English:** This was in 2017 when all of this happened.  
 **Translation:** 
 
-**[5457.94s] English:** одно из самых страшных моментов в нашей жизни было то что мы не могли видеть  
+**[5457.94s] English:** One of the scariest moments in our life was that we couldn't see.  
 **Translation:** 
 
-**[5458.70s] English:** случившихся событий это то что вас не было в последнем сезоне карточного домика  
-**Translation:** 
+**[5458.70s] English:** This is what happened in the last season of the card house, you were not there.  
+**Translation:** Vocabulary: scariest: 最恐怖的
 
-**[5463.82s] English:** давайте вернемся к его началу хорошо это один из величайших сериалов всех времен  
+**[5463.82s] English:** Let's go back to its beginning. Well, this is one of the greatest serials of all time.  
 **Translation:** 
 
-**[5471.08s] English:** мрачный захватывающий персонаж в лице фрэнка андервуда безжалостный хитрый  
-**Translation:** 
+**[5471.08s] English:** A grim, captivating character in the form of Frank Underwood, ruthless and cunning.  
+**Translation:** Vocabulary: captivating: 引人入胜; cunning: 狡猾; ruthless: 残忍; serials: 连续剧
 
-**[5476.34s] English:** политик на границе зла какие интересные аспекты у процесса которые вы прошли  
+**[5476.34s] English:** Politician at the Border: What Interesting Aspects of the Process Have You Passed?  
 **Translation:** 
 
-**[5482.92s] English:** становясь фрэнком андервудом возможно ричард 3 там много элементов в вашем  
-**Translation:** 
+**[5482.92s] English:** Becoming Frank Underwood, it's possible Richard III. There are many elements in your  
+**Translation:** Vocabulary: underwood: 尤金·尤德姆
 
-**[5488.70s] English:** музее которые будут внести в занимания и которыми мог быть вдохновлен этот  
+**[5488.70s] English:** Museum, which will be included in its activities and which could have inspired this,  
 **Translation:** 
 
-**[5494.56s] English:** персонаж справедливо или нет я дам вам один очень интересный специфический  
+**[5494.56s] English:** Character, whether justly or not, I will give you one very interesting and specific  
 **Translation:** 
 
-**[5507.36s] English:** урок который я получил играя ричарда 3 и завершив это шоу в бомб  
+**[5507.36s] English:** The lesson I received playing Richard III and finishing this show with a bomb.  
 **Translation:** 
 
-**[5514.84s] English:** в марте 2012  
+**[5514.84s] English:** In March 2012  
 **Translation:** 
 
-**[5518.70s] English:** Домики.  
+**[5518.70s] English:** Homes.  
 **Translation:** 
 
-**[5520.00s] English:** есть нечто, называемое «прямым обращением».  
+**[5520.00s] English:** There is something called "direct appeal.  
 **Translation:** 
 
-**[5526.80s] English:** В Шекспире там есть Гамлет, говорящий с миром.  
+**[5526.80s] English:** In Shakespeare there is Hamlet, speaking to the world.  
 **Translation:** 
 
-**[5533.94s] English:** Но когда Шекспир писал Ричарда Третьего,  
-**Translation:** 
+**[5533.94s] English:** But when Shakespeare wrote Richard III,  
+**Translation:** Vocabulary: hamlet: 小城
 
-**[5536.20s] English:** то это был первый раз, когда он создал нечто, называемое «прямым обращением».  
+**[5536.20s] English:** That was the first time he created something called "direct appeal.  
 **Translation:** 
 
-**[5541.46s] English:** Это когда персонаж смотрит прямиком на каждого человека, который рядом.  
+**[5541.46s] English:** This is when the character looks directly at each person who is nearby.  
 **Translation:** 
 
-**[5548.00s] English:** Это совсем другой вид общения,  
+**[5548.00s] English:** This is a completely different form of communication,  
 **Translation:** 
 
-**[5552.86s] English:** чем когда персонаж произносит монолог в начале Генриха Четвертого.  
+**[5552.86s] English:** What when the character delivers a monologue at the beginning of Henry IV.  
 **Translation:** 
 
-**[5561.02s] English:** И хотя есть люди, считающие, что прямое обращение было придумано в Феррисе Бюллере,  
+**[5561.02s] English:** Although some people believe that direct confrontation was invented in Ferris Bueller's Day Off,  
 **Translation:** 
 
-**[5566.36s] English:** Шекспир придумал его.  
-**Translation:** 
+**[5566.36s] English:** Shakespeare conceived of him.  
+**Translation:** Vocabulary: conceived: 构思; confrontation: 对抗; ferris: 费里斯
 
-**[5569.46s] English:** Так что у меня был этот опыт, когда я каждый вечер в театрах по всему миру  
+**[5569.46s] English:** So I had this experience when I would visit theaters all around the world every evening.  
 **Translation:** 
 
-**[5575.40s] English:** наблюдал,  
+**[5575.40s] English:** Observed,  
 **Translation:** 
 
-**[5577.44s] English:** как люди реагируют на то,  
+**[5577.44s] English:** How do people react to that?  
 **Translation:** 
 
-**[5581.34s] English:** что становятся соучастниками.  
+**[5581.34s] English:** What become co-conspirators.  
 **Translation:** 
 
-**[5584.70s] English:** Ведь в этом вся суть.  
+**[5584.70s] English:** Because that's the essence of it.  
 **Translation:** 
 
-**[5588.24s] English:** И что я пытался сделать, и в чем Финчер действительно мне помог  
+**[5588.24s] English:** And what I tried to do, and where Fincher really helped me.  
 **Translation:** 
 
-**[5592.54s] English:** в эти первые дни,  
+**[5592.54s] English:** In these first days,  
 **Translation:** 
 
-**[5597.56s] English:** это как смотреть в камеру  
+**[5597.56s] English:** This is like looking into a camera.  
 **Translation:** 
 
-**[5599.92s] English:** и представлять, что я говорю с лучшим другом.  
+**[5599.92s] English:** And imagine that I'm speaking with my best friend.  
 **Translation:** 
 
-**[5607.44s] English:** Ведь ты открываешь лучшему другу секрет тьмы, в которой идет эта игра.  
+**[5607.44s] English:** Because you are revealing the darkest secrets of this game to its best friend.  
 **Translation:** 
 
-**[5613.86s] English:** Да, и было много случаев, когда, полагаю, сценаристы думали, что я сумасшедший.  
+**[5613.86s] English:** Yes, and there were many instances when, I suppose, the writers thought I was crazy.  
 **Translation:** 
 
-**[5618.92s] English:** Вот, я видел сценарий, и видел, например, этот момент,  
+**[5618.92s] English:** Here, I saw the script, and for example, this moment.  
 **Translation:** 
 
-**[5622.72s] English:** где должно быть прямое обращение, проговаривал все это,  
+**[5622.72s] English:** Where it should be direct address, he kept going through all of this,  
 **Translation:** 
 
-**[5626.16s] English:** а потом во время чтения сценария говорил.  
+**[5626.16s] English:** Then, during the reading of the script, he spoke.  
 **Translation:** 
 
-**[5629.58s] English:** Не думаю, что все это мне нужно говорить.  
+**[5629.58s] English:** I don't think I need to say all of this.  
 **Translation:** 
 
-**[5632.38s] English:** Они мне, в смысле, а я, аудитория, все это знает, мне нужно лишь смотреть.  
+**[5632.38s] English:** They, in other words, have all this knowledge, and I, as the audience, just need to watch.  
 **Translation:** 
 
-**[5637.44s] English:** Они в точности знают, что происходит.  
+**[5637.44s] English:** They know exactly what is happening.  
 **Translation:** 
 
-**[5640.00s] English:** И слова говорить не нужно.  
+**[5640.00s] English:** No words need to be spoken.  
 **Translation:** 
 
-**[5643.46s] English:** Так что я часто сокращал диалоги, потому что это было не нужно.  
+**[5643.46s] English:** So I often shortened dialogues because it wasn't needed.  
 **Translation:** 
 
-**[5648.10s] English:** Из-за той связи, которой я научился, и которую я ощутил, играя Ричарда Третьего.  
-**Translation:** 
+**[5648.10s] English:** Due to the connection I developed and felt while playing Richard III.  
+**Translation:** Vocabulary: dialogues: 对话
 
-**[5655.56s] English:** И это было столь поразительно, когда я буквально видел людей, думавших,  
+**[5655.56s] English:** And this was so astonishing when I literally saw people thinking,  
 **Translation:** 
 
-**[5660.64s] English:** «О, я в теме, это так здорово!»  
-**Translation:** 
+**[5660.64s] English:** Oh, I'm on it, this is so great!  
+**Translation:** Vocabulary: astonishing: 令人惊讶的
 
-**[5663.68s] English:** А потом внезапно, «Эй, да он же убивает детей! Он убил тех детей в башне!  
+**[5663.68s] English:** Then suddenly, "Hey, he's killing children! He killed those children in the tower!  
 **Translation:** 
 
-**[5668.48s] English:** А может, все не так?»  
+**[5668.48s] English:** Maybe it's not like that?  
 **Translation:** 
 
-**[5670.00s] English:** Вы буквально видите, как они начинают менять свое отношение.  
+**[5670.00s] English:** You can literally see how they begin to change their attitude.  
 **Translation:** 
 
-**[5674.80s] English:** Ричард Третий такой приятный после первых трех актов.  
+**[5674.80s] English:** Richard III is such a pleasant character after the first three acts.  
 **Translation:** 
 
-**[5680.78s] English:** Я подумал, что в этом сериале все так и должно быть.  
+**[5680.78s] English:** I thought that in this series, it should all be like this.  
 **Translation:** 
 
-**[5686.24s] English:** Если эта близость и вправду удастся.  
+**[5686.24s] English:** If this closeness really does work out.  
 **Translation:** 
 
-**[5694.92s] English:** Думаю, несколько сценариев были гениальными.  
+**[5694.92s] English:** I think several scenarios were genius.  
 **Translation:** 
 
-**[5698.48s] English:** И мы всегда стремились снимать в один дубль.  
-**Translation:** 
+**[5698.48s] English:** We always strive to shoot in one take.  
+**Translation:** Vocabulary: scenarios: 情景; strive: 努力
 
-**[5701.48s] English:** Неважно, насколько длинная, мы старались снять за один дубль прямое обращение.  
+**[5701.48s] English:** It doesn't matter how long it is; we tried to shoot a direct address in one take.  
 **Translation:** 
 
-**[5706.96s] English:** Они не нарезались.  
-**Translation:** 
+**[5706.96s] English:** They were not chopped up.  
+**Translation:** Vocabulary: chopped: 剪辑过的
 
-**[5709.66s] English:** Выезжая на места съемок, мы искали способы нарезать и сделать сцену чуть шире.  
+**[5709.66s] English:** Exiting the location shoots, we looked for ways to trim and make the scene a bit wider.  
 **Translation:** 
 
-**[5716.36s] English:** Это интересно, ведь вы делаете много, как в роли Ричарда Третьего, так и Фрэнка Андервуда.  
-**Translation:** 
+**[5716.36s] English:** This is interesting, for you do a lot as both Richard III and Frank Underwood.  
+**Translation:** Vocabulary: exiting: 离开; underwood: 弗兰克·兰博
 
-**[5722.66s] English:** Мрачного, граничащего со злом.  
+**[5722.66s] English:** Mрачного, граничащего со злом.  
 **Translation:** 
 
-**[5725.80s] English:** И дальше, как полагаю, идея в том, что вы теряете...  
+**[5725.80s] English:** And further, as I assume, the idea is that you lose...  
 **Translation:** 
 
-**[5728.48s] English:** Возвращаете аудиторию, но потом возвращаете, благодаря обращениям.  
+**[5728.48s] English:** Returns the audience but then returns them back, thanks to the calls.  
 **Translation:** 
 
-**[5732.42s] English:** Примечательно, что вопреки своим инстинктам и здравому смыслу,  
-**Translation:** 
+**[5732.42s] English:** It is noteworthy that despite their instincts and common sense,  
+**Translation:** Vocabulary: instincts: 本能; noteworthy: 值得注目
 
-**[5738.10s] English:** говорящего, что они должны и должны делать,  
+**[5738.10s] English:** Speaking of what they should do and must do,  
 **Translation:** 
 
-**[5742.76s] English:** они все равно поддерживали Фрэнка Андервуда.  
+**[5742.76s] English:** They still supported Frank Underwood.  
 **Translation:** 
 
-**[5746.74s] English:** Даже в документальном фильме я видел проблески этого в отношении Ричарда Третьего.  
+**[5746.74s] English:** Even in a documentary film, I saw glimpses of this regarding Richard III.  
 **Translation:** 
 
-**[5752.02s] English:** В смысле, вы соблазняли аудиторию.  
-**Translation:** 
+**[5752.02s] English:** In other words, you were enticing the audience.  
+**Translation:** Vocabulary: enticing: 诱惑; glimpses: 一瞥
 
-**[5754.68s] English:** Между вами на сцене и зрителями возникает сильная химия.  
+**[5754.68s] English:** Between you on stage and the audience, there is a strong chemistry.  
 **Translation:** 
 
-**[5757.82s] English:** Да.  
+**[5757.82s] English:** Yes.  
 **Translation:** 
 
-**[5758.48s] English:** Что это?  
+**[5758.48s] English:** What is this?  
 **Translation:** 
 
-**[5759.44s] English:** Касательно...  
+**[5759.44s] English:** Regarding...,  
 **Translation:** 
 
-**[5760.00s] English:** той постановки, это правда.  
+**[5760.00s] English:** That was indeed the case.  
 **Translation:** 
 
-**[5763.22s] English:** К тому же Ричард  
+**[5763.22s] English:** Moreover, Richard  
 **Translation:** 
 
-**[5764.06s] English:** самый странный,  
+**[5764.06s] English:** The most strange,  
 **Translation:** 
 
-**[5765.64s] English:** странный в смысле...  
+**[5765.64s] English:** Strange in the sense of...  
 **Translation:** 
 
-**[5770.38s] English:** Это ранняя пьеса Шекспира.  
+**[5770.38s] English:** This is an early piece by Shakespeare.  
 **Translation:** 
 
-**[5774.28s] English:** И он почти  
+**[5774.28s] English:** He almost did it.  
 **Translation:** 
 
-**[5775.42s] English:** не покидает сцену.  
+**[5775.42s] English:** Does not leave the stage.  
 **Translation:** 
 
-**[5778.10s] English:** Помню, когда мы делали первый прогон,  
+**[5778.10s] English:** I remember when we did the first run-through,  
 **Translation:** 
 
-**[5780.72s] English:** то и понятия не имели,  
+**[5780.72s] English:** They had no idea,  
 **Translation:** 
 
-**[5782.36s] English:** какой будет следующая сцена.  
+**[5782.36s] English:** What will be the next scene?  
 **Translation:** 
 
-**[5783.92s] English:** Уходя со сцены, я не знал, что будет дальше.  
+**[5783.92s] English:** Leaving the stage, I did not know what would happen next.  
 **Translation:** 
 
-**[5786.32s] English:** Они буквально перетаскивали меня  
+**[5786.32s] English:** They literally dragged me.  
 **Translation:** 
 
-**[5787.82s] English:** с места на место. Теперь сцена с Хастингом,  
+**[5787.82s] English:** From one place to another. Now to a scene with Hastings.  
 **Translation:** 
 
-**[5790.38s] English:** теперь сцена...  
+**[5790.38s] English:** Now, the scene...  
 **Translation:** 
 
-**[5794.22s] English:** Теперь-то я понимаю эти великолепные  
+**[5794.22s] English:** Now I understand these magnificent  
 **Translation:** 
 
-**[5796.08s] English:** истории, которые можно прочитать в старых  
+**[5796.08s] English:** Histories, which can be read in old  
 **Translation:** 
 
-**[5797.98s] English:** книгах о временах Шекспира,  
+**[5797.98s] English:** In books about Shakespeare's times,  
 **Translation:** 
 
-**[5801.28s] English:** что актеры  
+**[5801.28s] English:** What actors  
 **Translation:** 
 
-**[5801.90s] English:** хватали Шекспира за шиворот,  
+**[5801.90s] English:** They grabbed Shakespeare by the collar,  
 **Translation:** 
 
-**[5805.50s] English:** а потом  
+**[5805.50s] English:** Then  
 **Translation:** 
 
-**[5805.90s] English:** били и швыряли его об стену.  
+**[5805.90s] English:** They beat him and threw him against the wall.  
 **Translation:** 
 
-**[5807.88s] English:** Если ты еще раз напишешь такую роль,  
+**[5807.88s] English:** If you write such a role again,  
 **Translation:** 
 
-**[5809.90s] English:** я тебя прикончу. И поэтому в поздних  
+**[5809.90s] English:** I'll kill you. And therefore in the late  
 **Translation:** 
 
-**[5812.14s] English:** пьесах он стал устраивать зрелища,  
-**Translation:** 
+**[5812.14s] English:** In plays, he began to stage spectacles,  
+**Translation:** Vocabulary: spectacles: 盛大表演
 
-**[5814.68s] English:** а потом и свадьбы,  
+**[5814.68s] English:** Then and there was even a wedding.  
 **Translation:** 
 
-**[5816.24s] English:** чтобы главный герой отдыхал  
+**[5816.24s] English:** To ensure the main hero gets some rest.  
 **Translation:** 
 
-**[5817.60s] English:** за кулисами, потому что актеры говорили  
+**[5817.60s] English:** Behind the scenes, because the actors were speaking,  
 **Translation:** 
 
-**[5819.72s] English:** «Ты не можешь так с нами,  
+**[5819.72s] English:** You can't treat us like that.  
 **Translation:** 
 
-**[5822.28s] English:** перерывов же нет».  
+**[5822.28s] English:** However, there are no breaks.  
 **Translation:** 
 
-**[5823.78s] English:** И это правда. В Ричарде Третьем  
+**[5823.78s] English:** And this is true. In Richard III,  
 **Translation:** 
 
-**[5825.90s] English:** очень мало перерывов, ты почти  
+**[5825.90s] English:** Very few breaks, you are almost  
 **Translation:** 
 
-**[5827.66s] English:** все время на сцене.  
+**[5827.66s] English:** All the time on stage.  
 **Translation:** 
 
-**[5829.68s] English:** Комедийная составляющая Ричарда Третьего  
+**[5829.68s] English:** The comedic elements of Richard III  
 **Translation:** 
 
-**[5832.12s] English:** и Фрэнка Андервуда  
-**Translation:** 
+**[5832.12s] English:** And Frank Underwood.  
+**Translation:** Vocabulary: comedic: 喜剧的
 
-**[5833.16s] English:** это компонент, который помогает  
+**[5833.16s] English:** This is a component that helps.  
 **Translation:** 
 
-**[5835.48s] English:** раскрыть всю сложность  
-**Translation:** 
+**[5835.48s] English:** Expand to reveal all the complexity.  
+**Translation:** Vocabulary: complexity: 复杂性
 
-**[5837.94s] English:** той тьмы,  
+**[5837.94s] English:** Of that darkness,  
 **Translation:** 
 
-**[5839.98s] English:** что есть в Фрэнке Андервуде?  
+**[5839.98s] English:** What is there in Frank Underwood?  
 **Translation:** 
 
-**[5842.06s] English:** Я, конечно, не могу приписать  
+**[5842.06s] English:** I, of course, cannot attribute  
 **Translation:** 
 
-**[5843.86s] English:** себе заслугу за то,  
-**Translation:** 
+**[5843.86s] English:** Sebe zaslugu za to,  
+**Translation:** Vocabulary: attribute: 归因; cannot: 不能
 
-**[5846.40s] English:** что Шекспир написал,  
+**[5846.40s] English:** What Shakespeare wrote,  
 **Translation:** 
 
-**[5847.60s] English:** что-то смешное, или  
+**[5847.60s] English:** Something funny, or  
 **Translation:** 
 
-**[5849.16s] English:** Бо Уильям и его команда написали  
+**[5849.16s] English:** Bo William and his team wrote  
 **Translation:** 
 
-**[5851.18s] English:** что-то по-настоящему смешное  
-**Translation:** 
+**[5851.18s] English:** Something genuinely funny  
+**Translation:** Vocabulary: genuinely: 真正地
 
-**[5853.62s] English:** в своей основе.  
+**[5853.62s] English:** In its essence.  
 **Translation:** 
 
-**[5856.00s] English:** Все зависит от того,  
+**[5856.00s] English:** All depends on what,  
 **Translation:** 
 
-**[5857.30s] English:** как я это интерпретирую.  
+**[5857.30s] English:** How I interpret this.  
 **Translation:** 
 
-**[5859.82s] English:** Знаете ли, есть  
-**Translation:** 
+**[5859.82s] English:** Do you know that there are  
+**Translation:** Vocabulary: interpret: 解释
 
-**[5860.84s] English:** отличительная особенность,  
+**[5860.84s] English:** Distinctive feature,  
 **Translation:** 
 
-**[5863.52s] English:** за что мы любим.  
+**[5863.52s] English:** What we love, is that.  
 **Translation:** 
 
-**[5866.92s] English:** В течение года  
+**[5866.92s] English:** During the year  
 **Translation:** 
 
-**[5867.88s] English:** мы можем увидеть пять разных Гамлетов,  
-**Translation:** 
+**[5867.88s] English:** We can see five different Hamlets.  
+**Translation:** Vocabulary: hamlets: 小村庄
 
-**[5870.18s] English:** можем увидеть четырех Ричардов Третьих,  
+**[5870.18s] English:** We can see four Richard Thirds.  
 **Translation:** 
 
-**[5872.90s] English:** можем увидеть двух Ричардов Вторых.  
+**[5872.90s] English:** We can see two Richards II's.  
 **Translation:** 
 
-**[5875.42s] English:** Это часть трепетая,  
+**[5875.42s] English:** This is a tender part,  
 **Translation:** 
 
-**[5876.48s] English:** что эти роли не принадлежат нам.  
-**Translation:** 
+**[5876.48s] English:** These roles do not belong to us.  
+**Translation:** Vocabulary: tender: 柔软的
 
-**[5880.00s] English:** Мы заимствуем их, и мы интерпретируем их.  
+**[5880.00s] English:** We borrow them, and we interpret them.  
 **Translation:** 
 
-**[5883.62s] English:** И то, что может сделать Иоанн Маккеллен с ролью,  
+**[5883.62s] English:** And what John McElhinney can do with the role,  
 **Translation:** 
 
-**[5886.78s] English:** может разниться с тем, что могу сделать я.  
+**[5886.78s] English:** May differ from what I can do.  
 **Translation:** 
 
-**[5889.82s] English:** Все из-за нашего восприятия.  
-**Translation:** 
+**[5889.82s] English:** All because of our perception.  
+**Translation:** Vocabulary: perception: 认知
 
-**[5891.80s] English:** К тому же, очень часто, когда речь идет о юморе,  
+**[5891.80s] English:** Additionally, very often when it comes to humor,  
 **Translation:** 
 
-**[5896.18s] English:** очень часто режиссер может сказать,  
-**Translation:** 
+**[5896.18s] English:** Very often, a director may say,  
+**Translation:** Vocabulary: additionally: 另外
 
-**[5898.28s] English:** «Почему бы не произнести это с небольшой иронией?  
+**[5898.28s] English:** Why not say it with a little irony?  
 **Translation:** 
 
-**[5901.18s] English:** Попробуй это с небольшим бла-бла-бла».  
-**Translation:** 
+**[5901.18s] English:** Try this with a little blab-blab-blah.  
+**Translation:** Vocabulary: irony: 讽刺
 
-**[5903.28s] English:** Да, часто может появиться язвительная улыбка,  
+**[5903.28s] English:** Yes, often a sarcastic smile may appear,  
 **Translation:** 
 
-**[5906.60s] English:** фраза, которая бросилась в глаза,  
-**Translation:** 
+**[5906.60s] English:** A phrase that caught my eye,  
+**Translation:** Vocabulary: sarcastic: 讽刺的
 
-**[5909.38s] English:** когда вы говорите о Клэр.  
+**[5909.38s] English:** When you talk about Claire.  
 **Translation:** 
 
-**[5912.70s] English:** Вначале.  
+**[5912.70s] English:** At first.  
 **Translation:** 
 
-**[5914.22s] English:** Может, даже в первой серии,  
+**[5914.22s] English:** May be, even in the first episode,  
 **Translation:** 
 
-**[5916.18s] English:** я упиваюсь этой женщиной  
-**Translation:** 
+**[5916.18s] English:** I am intoxicated by this woman.  
+**Translation:** Vocabulary: intoxicated: 陶醉
 
-**[5917.86s] English:** сильнее, чем акулы кровью.  
+**[5917.86s] English:** Stronger than sharks with blood.  
 **Translation:** 
 
-**[5922.70s] English:** Я просто...  
-**Translation:** 
+**[5922.70s] English:** I just...  
+**Translation:** Vocabulary: sharks: 鲨鱼
 
-**[5923.76s] English:** В смысле, эту фразу можно прочитать по-разному.  
+**[5923.76s] English:** In other words, this phrase can be interpreted in different ways.  
 **Translation:** 
 
-**[5927.92s] English:** Но в вашем исполнении там был и юмор,  
-**Translation:** 
+**[5927.92s] English:** But in your performance, there was also humor.  
+**Translation:** Vocabulary: interpreted: 解释
 
-**[5931.66s] English:** и искренняя нежность,  
+**[5931.66s] English:** And genuine tenderness,  
 **Translation:** 
 
-**[5933.60s] English:** и амбиции, и нарциссизм.  
-**Translation:** 
+**[5933.60s] English:** And ambition, and narcissism.  
+**Translation:** Vocabulary: narcissism: 自我陶醉; tenderness: 温柔
 
-**[5936.28s] English:** Все это смешано воедино.  
+**[5936.28s] English:** All of this is mixed together.  
 **Translation:** 
 
-**[5937.86s] English:** К тому же, думаю, не нужно...  
+**[5937.86s] English:** Additionally, I think we don't need to...  
 **Translation:** 
 
-**[5939.36s] English:** Не нужно упускать из виду, откуда он был родом.  
+**[5939.36s] English:** Do not fail to consider where he was born.  
 **Translation:** 
 
-**[5943.64s] English:** Есть что-то особенное, когда делаешь акцент.  
+**[5943.64s] English:** There is something special when you put emphasis on it.  
 **Translation:** 
 
-**[5948.16s] English:** И на самом деле, порой, когда я говорил «бо»  
+**[5948.16s] English:** In fact, sometimes when I said "bo,  
 **Translation:** 
 
-**[5952.42s] English:** или другому сценаристу,  
-**Translation:** 
+**[5952.42s] English:** Or another screenwriter,  
+**Translation:** Vocabulary: screenwriter: 编剧
 
-**[5954.44s] English:** «Это и вправду хорошо, мне нравится задумка, но ритмичность не помогает»,  
+**[5954.44s] English:** This is really good, I like the concept, but the rhythm doesn't help.  
 **Translation:** 
 
-**[5960.26s] English:** мне нужно еще минимум два слова, чтобы ритмичность совпадала с его акцентом.  
+**[5960.26s] English:** I need at least two more words to match the rhythm with his accent.  
 **Translation:** 
 
-**[5966.12s] English:** Ведь иначе это просто не звучит.  
+**[5966.12s] English:** Otherwise, it simply doesn't sound right.  
 **Translation:** 
 
-**[5970.08s] English:** Это не значит, что я сторонник пентаметра.  
-**Translation:** 
+**[5970.08s] English:** This does not mean that I am a supporter of pentameter.  
+**Translation:** Vocabulary: pentameter: 五音步诗韵
 
-**[5973.08s] English:** Речь не об этом.  
+**[5973.08s] English:** It's not about that.  
 **Translation:** 
 
-**[5974.10s] English:** Такое присутствует и у Шекспира, но...  
+**[5974.10s] English:** Such things are present in Shakespeare too, but...  
 **Translation:** 
 
-**[5976.48s] English:** Иногда бывает, строк слишком много,  
+**[5976.48s] English:** Sometimes there are too many lines.  
 **Translation:** 
 
-**[5979.26s] English:** иногда слишком мало, чтобы я мог заставить это работать.  
+**[5979.26s] English:** Sometimes it's too little to make this work.  
 **Translation:** 
 
-**[5982.76s] English:** Для его манеры речи, его звучания,  
+**[5982.76s] English:** For his manner of speech, its sound,  
 **Translation:** 
 
-**[5986.04s] English:** и как этот акцент влияет на ударение.  
+**[5986.04s] English:** And how does this accent affect the pronunciation of stress.  
 **Translation:** 
 
-**[5990.22s] English:** Насколько этот персонаж похож на Билла Клинтона  
+**[5990.22s] English:** How much does this character resemble Bill Clinton?  
 **Translation:** 
 
-**[5993.82s] English:** с точки зрения музыкальности его речи?  
+**[5993.82s] English:** From the perspective of musicality in his speech?  
 **Translation:** 
 
-**[5998.04s] English:** Ну, он совсем не похож.  
+**[5998.04s] English:** Nu, he doesn't look at all like it.  
 **Translation:** 
 
-**[5999.36s] English:** Он не похож на Билла Клинтона.  
+**[5999.36s] English:** He doesn't resemble Bill Clinton.  
 **Translation:** 
 
-**[6000.00s] English:** Клинтон, послушайте, Билл Клинтон, его манера говорить, он был медлительным, прям чувствовал вашу боль, понимаете?  
+**[6000.00s] English:** Clinton, listen, Bill Clinton. His way of speaking was slow and he could genuinely feel your pain, you understand?  
 **Translation:** 
 
-**[6011.40s] English:** А Фрэнк Андервуд был глубже, более прямой и менее поэтичный, по сравнению с тем, как Клинтон бы говорил.  
-**Translation:** 
+**[6011.40s] English:** Frank Underwood was deeper, more straightforward, and less poetic than Clinton would have been.  
+**Translation:** Vocabulary: genuinely: 真诚地; poetic: 富有诗意; straightforward: 直截了当
 
-**[6023.86s] English:** Поведаю вам историю, которая вам понравится.  
+**[6023.86s] English:** I will tell you a story which will please you.  
 **Translation:** 
 
-**[6025.82s] English:** Продавец льда грядет  
-**Translation:** 
+**[6025.82s] English:** The seller of ice is approaching.  
+**Translation:** Vocabulary: approaching: 靠近; seller: 卖者
 
-**[6055.82s] English:** Потом ушел.  
+**[6055.82s] English:** Then he went away.  
 **Translation:** 
 
-**[6058.96s] English:** Я понял, что происходит.  
+**[6058.96s] English:** I understood what is happening.  
 **Translation:** 
 
-**[6060.44s] English:** Во-первых, Клинтон знает эту пьесу, он знает, о чем она.  
+**[6060.44s] English:** First of all, Clinton knows this play; he knows what it's about.  
 **Translation:** 
 
-**[6066.34s] English:** И я деликатно, насколько мог, ответил, ну, если президент подумывает уйти в антракте, тогда, боюсь, нам придется отменить мероприятие, просто так не может быть.  
-**Translation:** 
+**[6066.34s] English:** And I delicately, as much as I could, responded, you know, if the president is considering stepping down in the intermission, then I fear we'll have to cancel the event; it just can't be done that way.  
+**Translation:** Vocabulary: delicately: 委婉地; intermission: 中场休息
 
-**[6077.86s] English:** О, нет, нет, говорят они, все нормально.  
+**[6077.86s] English:** Oh, no, no, they say, everything is fine.  
 **Translation:** 
 
-**[6080.00s] English:** Я знал, что случилось.  
+**[6080.00s] English:** I knew what happened.  
 **Translation:** 
 
-**[6081.40s] English:** Случилось то, что кто-то прочитал пьесу.  
+**[6081.40s] English:** Something happened that someone read a play.  
 **Translation:** 
 
-**[6083.52s] English:** И они были весьма обеспокоены.  
+**[6083.52s] English:** They were very concerned.  
 **Translation:** 
 
-**[6085.82s] English:** И я скажу вам почему.  
+**[6085.82s] English:** And I will tell you why.  
 **Translation:** 
 
-**[6088.14s] English:** Потому что пьеса о персонаже, которого я изображал по имени Хики, и по ходу пьесы, по мере все большего и большего развития, вы понимаете, что этот человек, которого я играю, был бабником.  
-**Translation:** 
+**[6088.14s] English:** Because the play is about a character named Hiki that I portrayed, and as the play progresses, you understand that the person I was playing was a womanizer.  
+**Translation:** Vocabulary: portrayed: 扮演; progresses: 发展
 
-**[6101.18s] English:** И он много раз изменял своей жене.  
+**[6101.18s] English:** He has changed his wife many times.  
 **Translation:** 
 
-**[6104.28s] English:** К концу пьесы его арестовывают и уводят, потому что он в итоге лишил жизни свою жену, так как она слишком часто его прощала, и он не мог с этим жить.  
-**Translation:** 
+**[6104.28s] English:** By the end of the play, he is arrested and taken away because he ultimately killed his wife, as she had forgiven him too often, and he could not live with it.  
+**Translation:** Vocabulary: forgiven: 宽恕
 
-**[6115.82s] English:** Теперь представьте себе две тысячи человек.  
+**[6115.82s] English:** Now imagine two thousand people.  
 **Translation:** 
 
-**[6120.00s] English:** А те в театре Брукс-Аткинсон смотрят, как президент Клинтон смотрит эту пьесу.  
+**[6120.00s] English:** They, in the Brooks-Atkinson Theatre, are watching as President Clinton watches this play.  
 **Translation:** 
 
-**[6127.56s] English:** В конце вечера объявляется занавес, выносит президентскую трибуну.  
+**[6127.56s] English:** At the end of the evening, the curtain is drawn, and the presidential tribune is brought out.  
 **Translation:** 
 
-**[6132.72s] English:** Билл Клинтон встает на нее и говорит.  
-**Translation:** 
+**[6132.72s] English:** Bill Clinton stands up and says.  
+**Translation:** Vocabulary: tribune: 讲台
 
-**[6136.80s] English:** Что ж, полагаю, нам всем нужно поблагодарить Кевина и эту великолепную труппу актеров  
+**[6136.80s] English:** Well, I suppose we all need to thank Kevin and this wonderful troupe of actors.  
 **Translation:** 
 
-**[6143.92s] English:** за то, что подарили нам всем кучу поводов для раздумий.  
-**Translation:** 
+**[6143.92s] English:** For giving us all plenty of food for thought.  
+**Translation:** Vocabulary: troupe: 剧团
 
-**[6154.64s] English:** И публика попадала со смеху.  
+**[6154.64s] English:** And the audience laughed out of surprise.  
 **Translation:** 
 
-**[6158.14s] English:** А потом дал хорошую речь.  
+**[6158.14s] English:** Then he gave a good speech.  
 **Translation:** 
 
-**[6159.88s] English:** Как по мне, он ловко вышел из положения.  
+**[6159.88s] English:** As I see it, he handled the situation skillfully.  
 **Translation:** 
 
-**[6163.44s] English:** В этом смысле у них с Фрэнком Андервудом схожая харизма.  
-**Translation:** 
+**[6163.44s] English:** In this sense, they share a similar charisma with Frank Underwood.  
+**Translation:** Vocabulary: charisma: 魅力; skillfully: 熟练地
 
-**[6167.40s] English:** Есть такие президенты и политики, у которых такая харизма, что ты не можешь перестать их слушать.  
+**[6167.40s] English:** There are such presidents and politicians who have such charisma that you can't stop listening to them.  
 **Translation:** 
 
-**[6173.10s] English:** Отчасти это не так.  
+**[6173.10s] English:** Partly, that is not true.  
 **Translation:** 
 
-**[6173.90s] English:** Это акцент.  
+**[6173.90s] English:** This is an accent.  
 **Translation:** 
 
-**[6175.36s] English:** Но отчасти и какая-то магия.  
+**[6175.36s] English:** But partly, some kind of magic.  
 **Translation:** 
 
-**[6179.20s] English:** Когда я начал исследование, я хотел встретиться с Кевином Маккарти.  
+**[6179.20s] English:** When I began the research, I wanted to meet Kevin McCarthy.  
 **Translation:** 
 
-**[6189.28s] English:** А он не хотел.  
-**Translation:** 
+**[6189.28s] English:** He didn't want to.  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[6191.74s] English:** Пока я не набрал его офис и не сказал, сообщите ему, что я играю демократа, а не республиканца.  
+**[6191.74s] English:** Keep the phone call on hold until I dial his office and say that I play a Democrat, not a Republican.  
 **Translation:** 
 
-**[6198.52s] English:** Только так он согласился.  
-**Translation:** 
+**[6198.52s] English:** Only then did he agree.  
+**Translation:** Vocabulary: democrat: 民主党人
 
-**[6201.02s] English:** Мило.  
+**[6201.02s] English:** Milo.  
 **Translation:** 
 
-**[6201.40s] English:** Он был полезен.  
+**[6201.40s] English:** He was helpful.  
 **Translation:** 
 
-**[6202.78s] English:** Он брал меня на собрание.  
+**[6202.78s] English:** He took me to the meeting.  
 **Translation:** 
 
-**[6203.90s] English:** Политики.  
+**[6203.90s] English:** Politicians.  
 **Translation:** 
 
-**[6207.72s] English:** Итак, вы работали с Дэвидом Финчером.  
+**[6207.72s] English:** So, you have worked with David Fincher.  
 **Translation:** 
 
-**[6210.14s] English:** Он был исполнительным продюсером, но вдобавок срежиссировал первые два эпизода.  
-**Translation:** 
+**[6210.14s] English:** He was an executive producer but also directed the first two episodes.  
+**Translation:** Vocabulary: fincher: 芬奇
 
-**[6215.94s] English:** Да.  
+**[6215.94s] English:** Yes.  
 **Translation:** 
 
-**[6216.98s] English:** Вкратце, каково было снова поработать с ним?  
+**[6216.98s] English:** In brief, how was it working with him again?  
 **Translation:** 
 
-**[6220.68s] English:** Каким образом он, по-вашему, помог направлять вас и сам сериал, чтобы он обрел величие, которое обрел?  
+**[6220.68s] English:** How do you think he helped guide both you and the series to achieve the greatness it attained?  
 **Translation:** 
 
-**[6229.82s] English:** Я отдаю ему...  
-**Translation:** 
+**[6229.82s] English:** I give it to him....  
+**Translation:** Vocabulary: attained: 达到; greatness: 伟大
 
-**[6233.90s] English:** Огромную часть заслуг.  
+**[6233.90s] English:** A huge part of the credit.  
 **Translation:** 
 
-**[6239.76s] English:** И...  
+**[6239.76s] English:** And...  
 **Translation:** 
 
-**[6240.00s] English:** Я не могу сказать, что я не могу сказать, что я не могу сказать, что я не могу сказать, что я не могу сказать.  
+**[6240.00s] English:** I cannot say that I cannot say that I cannot say that I cannot say that I cannot say.  
 **Translation:** 
 
-**[6240.02s] English:** Я не могу сказать, что я не могу сказать, что я не могу сказать.  
-**Translation:** 
+**[6240.00s] English:** And not just for what he created,  
+**Translation:** Vocabulary: cannot: 不能
 
-**[6240.06s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.02s] English:** I cannot say that I cannot say that I cannot say.  
 **Translation:** 
 
-**[6240.12s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.06s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.18s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.12s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.22s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.18s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.24s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.22s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.28s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.24s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.32s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.28s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.38s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.32s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.42s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.38s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.48s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.42s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.52s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.48s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.58s] English:** Я не могу сказать, что я не могу сказать.  
+**[6240.52s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6240.00s] English:** И не только за то, что сотворил,  
+**[6240.58s] English:** I cannot say that I can say.  
 **Translation:** 
 
-**[6244.36s] English:** но и за то, что каждый режиссер после него  
+**[6244.36s] English:** But also for the fact that every director after him  
 **Translation:** 
 
-**[6247.16s] English:** оставался в созданных им рамках.  
+**[6247.16s] English:** Remained within the frames he had created.  
 **Translation:** 
 
-**[6251.38s] English:** Думаю, именно поэтому сериал ощущался очень последовательно.  
+**[6251.38s] English:** I think that's why the series felt very consistent.  
 **Translation:** 
 
-**[6255.96s] English:** Было чувство, что смотришь длинный фильм.  
+**[6255.96s] English:** It was like watching a long movie.  
 **Translation:** 
 
-**[6260.44s] English:** Стиль, куда шла камера, что она делала,  
+**[6260.44s] English:** The style in which the camera went, what it was doing,  
 **Translation:** 
 
-**[6263.78s] English:** что не делала, как мы использовали это, как то.  
+**[6263.78s] English:** What we did was use it how we could.  
 **Translation:** 
 
-**[6266.26s] English:** Но были вещи, заложенные им в сам фундамент,  
-**Translation:** 
+**[6266.26s] English:** But there were things embedded in him at his very foundation,  
+**Translation:** Vocabulary: embedded: 植入的
 
-**[6271.16s] English:** которые мы смогли сохранить.  
+**[6271.16s] English:** Which we were able to preserve.  
 **Translation:** 
 
-**[6276.08s] English:** Практически пока Бо Вильямон не покинул проект.  
-**Translation:** 
+**[6276.08s] English:** Practically, Bo Williamon did not leave the project yet.  
+**Translation:** Vocabulary: practically: 实际上
 
-**[6280.70s] English:** Они убрали Финчера, и я остался последним, кто боролся.  
+**[6280.70s] English:** They killed Finch, and I was left as the last one fighting.  
 **Translation:** 
 
-**[6285.82s] English:** В плане, боролся?  
-**Translation:** 
+**[6285.82s] English:** In terms of fighting?  
+**Translation:** Vocabulary: finch: 金丝雀
 
-**[6287.98s] English:** У Netflix никогда не было никакого творческого контроля.  
+**[6287.98s] English:** Netflix has never had any creative control.  
 **Translation:** 
 
-**[6291.32s] English:** Он целиком был в наших руках.  
+**[6291.32s] English:** He was completely in our hands.  
 **Translation:** 
 
-**[6292.90s] English:** Но со временем они начали вмешиваться.  
+**[6292.90s] English:** But over time, they began to intervene.  
 **Translation:** 
 
-**[6296.96s] English:** И ведь именно это и происходит с сетями.  
-**Translation:** 
+**[6296.96s] English:** And that is exactly what happens with networks.  
+**Translation:** Vocabulary: intervene: 干涉
 
-**[6299.74s] English:** До этого они вообще не имели дела с телесериалами.  
+**[6299.74s] English:** Until then, they had never dealt with television series.  
 **Translation:** 
 
-**[6303.24s] English:** А спустя четыре года они стали лучшими.  
+**[6303.24s] English:** After four years, they became the best.  
 **Translation:** 
 
-**[6307.68s] English:** И вот начинаются предложения по кастингу,  
+**[6307.68s] English:** And here begin the casting proposals,  
 **Translation:** 
 
-**[6311.20s] English:** по поводу сценария, музыки и сценам.  
-**Translation:** 
+**[6311.20s] English:** Regarding the script, music, and scenes.  
+**Translation:** Vocabulary: casting: 选角
 
-**[6314.16s] English:** Так что было очень много сопротивления с моей стороны,  
+**[6314.16s] English:** So there was a lot of resistance on my part,  
 **Translation:** 
 
-**[6320.04s] English:** когда они начали вмешиваться в такие вещи,  
-**Translation:** 
+**[6320.04s] English:** When they began interfering in such matters,  
+**Translation:** Vocabulary: interfering: 干涉
 
-**[6322.60s] English:** которые, на мой взгляд, влияли на качество.  
+**[6322.60s] English:** Which, in my opinion, influenced the quality.  
 **Translation:** 
 
-**[6325.52s] English:** Какой вид?  
+**[6325.52s] English:** What kind?  
 **Translation:** 
 
-**[6326.26s] English:** Какой вид у таких битв?  
+**[6326.26s] English:** What kind of battles are these?  
 **Translation:** 
 
-**[6327.50s] English:** Я слышал, что была битва с руководством.  
+**[6327.50s] English:** I heard there was a battle with the leadership.  
 **Translation:** 
 
-**[6331.60s] English:** Вы уже говорили о предложении не использовать ваше имя в фильме «Семь».  
+**[6331.60s] English:** You have already mentioned that you do not want your name used in the movie "Se7en.  
 **Translation:** 
 
-**[6336.30s] English:** Еще слышал, что были битвы по поводу его концовки,  
+**[6336.30s] English:** Still heard that there were battles over its ending.  
 **Translation:** 
 
-**[6339.56s] English:** которая была действительно, ну, довольно мрачной.  
+**[6339.56s] English:** Which was really, you know, quite dark.  
 **Translation:** 
 
-**[6347.62s] English:** Что же это за битвы?  
+**[6347.62s] English:** What are these battles like?  
 **Translation:** 
 
-**[6348.92s] English:** Как часто это случается, и как в них победить?  
+**[6348.92s] English:** How often does this happen, and how can you defeat it?  
 **Translation:** 
 
-**[6351.18s] English:** Ведь кажется, что есть некая грань,  
+**[6351.18s] English:** It seems that there is a certain boundary,  
 **Translation:** 
 
-**[6355.38s] English:** которую...  
+**[6355.38s] English:** Which one...  
 **Translation:** 
 
-**[6356.26s] English:** Телесети или руководители сильно боятся перейти.  
+**[6356.26s] English:** Tele networks or leaders are very afraid of making the switch.  
 **Translation:** 
 
-**[6360.00s] English:** и попасть в эту странную и неуютную область.  
+**[6360.00s] English:** And enter this strange and uncomfortable area.  
 **Translation:** 
 
-**[6365.20s] English:** И таким образом великие режиссеры и актеры заигрывают с этой игранью.  
+**[6365.20s] English:** Thus, great directors and actors play with this performance.  
 **Translation:** 
 
-**[6371.70s] English:** Может быть, по-разному.  
+**[6371.70s] English:** May be, differently.  
 **Translation:** 
 
-**[6372.84s] English:** Я помню один спор.  
+**[6372.84s] English:** I remember one argument.  
 **Translation:** 
 
-**[6376.84s] English:** В общем, мы специально сняли сцену  
+**[6376.84s] English:** In general, we specially shot a scene  
 **Translation:** 
 
-**[6379.52s] English:** без музыкального сопровождения в ней, без музыки.  
-**Translation:** 
+**[6379.52s] English:** Without musical accompaniment in it, without music.  
+**Translation:** Vocabulary: accompaniment: 伴奏
 
-**[6384.02s] English:** Это был просто разговор двух людей.  
+**[6384.02s] English:** This was just a conversation between two people.  
 **Translation:** 
 
-**[6386.10s] English:** И потом мы видим монтаж, где они решили добавить музыку.  
-**Translation:** 
+**[6386.10s] English:** Then we see the montage where they decided to add music.  
+**Translation:** Vocabulary: montage: 剪辑片段
 
-**[6392.98s] English:** И это противоречит всему, о чем должна быть сцена.  
+**[6392.98s] English:** And this contradicts everything the scene should convey.  
 **Translation:** 
 
-**[6396.86s] English:** И ты должен сказать, ребята, это было намеренно, музыка не предполагалась.  
-**Translation:** 
+**[6396.86s] English:** And you should tell the guys, this was intentional; music wasn't supposed to be involved.  
+**Translation:** Vocabulary: contradicts: 违背; intentional: 故意的
 
-**[6401.22s] English:** А вы ее добавили, потому что, по-вашему, слишком тихо.  
+**[6401.22s] English:** You added her because, according to you, she was too quiet.  
 **Translation:** 
 
-**[6403.80s] English:** Думаете, наша аудитория не может слушать двух людей, говорящих две с половиной минуты?  
+**[6403.80s] English:** Do you think our audience can't listen to two people speaking for two and a half minutes?  
 **Translation:** 
 
-**[6408.44s] English:** Если этот сериал что-то и доказал, это то, что люди терпеливы  
+**[6408.44s] English:** If this series has proven anything, it's that people are patient.  
 **Translation:** 
 
-**[6412.02s] English:** и готовы посмотреть целый сезон за выходные.  
+**[6412.02s] English:** And they are ready to watch an entire season over the weekend.  
 **Translation:** 
 
-**[6416.10s] English:** Так что, вот такие споры могут происходить.  
+**[6416.10s] English:** So, such disputes can occur.  
 **Translation:** 
 
-**[6422.86s] English:** И знаешь, это разные споры на разных уровнях.  
-**Translation:** 
+**[6422.86s] English:** Keep in mind, these are different debates at various levels.  
+**Translation:** Vocabulary: disputes: 争端
 
-**[6426.98s] English:** И иногда они связаны с тем, что, если вернуться к крестному отцу,  
+**[6426.98s] English:** Sometimes they are related to the fact that, if we go back to The Godfather,  
 **Translation:** 
 
-**[6431.44s] English:** то они хотели уволить Пачино, и им казалось, ничего не происходит.  
-**Translation:** 
+**[6431.44s] English:** They wanted to fire Pacino, and they thought nothing was happening.  
+**Translation:** Vocabulary: godfather: 教父
 
-**[6435.62s] English:** Они не видели прогресса, поэтому хотели его уволить.  
+**[6435.62s] English:** They didn't see any progress, so they wanted to fire him.  
 **Translation:** 
 
-**[6438.64s] English:** И когда, наконец, Коппола подумал,  
+**[6438.64s] English:** When Coppola finally thought about it,  
 **Translation:** 
 
-**[6440.60s] English:** «Я сниму сцену, где он убивает комиссара полиции,  
+**[6440.60s] English:** Я сниму сцену, где он убиваетcommissioner of police,  
 **Translation:** 
 
-**[6443.78s] English:** и сниму эту сцену прямо сейчас»,  
+**[6443.78s] English:** I will shoot this scene right now.  
 **Translation:** 
 
-**[6446.10s] English:** это была первая сцена, где они сказали,  
+**[6446.10s] English:** This was the first scene where they said,  
 **Translation:** 
 
-**[6448.08s] English:** «Да, здесь что-то происходит».  
+**[6448.08s] English:** Yes, something is happening here.  
 **Translation:** 
 
-**[6450.38s] English:** Так Пачино сохранил роль.  
+**[6450.38s] English:** So Pacino kept the role.  
 **Translation:** 
 
-**[6453.72s] English:** По-вашему, крестный отец – это когда родился тот Пачино, которого мы знаем?  
+**[6453.72s] English:** According to you, The Godfather is about when Al Pacino was born, the one we know?  
 **Translation:** 
 
-**[6458.88s] English:** Или это, скорее, был персонаж из «Запаха женщины»?  
+**[6458.88s] English:** Or was he more of a character from "Women in Trouble"?  
 **Translation:** 
 
-**[6462.06s] English:** Там он и правда на высоте.  
+**[6462.06s] English:** There, he is truly at his best.  
 **Translation:** 
 
-**[6464.38s] English:** Существуют как бы этапы, полагаю.  
+**[6464.38s] English:** There seem to be stages, I suppose.  
 **Translation:** 
 
-**[6466.28s] English:** Да, конечно. Слушай.  
+**[6466.28s] English:** Yes, of course. Listen.  
 **Translation:** 
 
-**[6468.62s] English:** Думаю, что мы не можем забывать, что Пачино, к тому же, театральный зверь.  
+**[6468.62s] English:** I think we can't forget that Pacino is also a theatrical beast.  
 **Translation:** 
 
-**[6473.52s] English:** Он часто играет в пьесах, он начинал с пьес.  
+**[6473.52s] English:** He often plays in plays; he started with plays.  
 **Translation:** 
 
-**[6476.10s] English:** А фильмы были, знаешь, паников.  
+**[6476.10s] English:** The movies were, you know, panic room.  
 **Translation:** 
 
-**[6480.00s] English:** Ниддл Парки – это его первый.  
+**[6480.00s] English:** Needle Parks is his first.  
 **Translation:** 
 
-**[6483.12s] English:** И да, я думаю, в то время он играл в невероятных ролях, невероятных фильмах.  
+**[6483.12s] English:** And yes, I think at that time he played incredible roles in incredible films.  
 **Translation:** 
 
-**[6490.72s] English:** Когда я снимался в сериале «Умник», меня утвердили в четверг,  
+**[6490.72s] English:** When I was cast in the show "Umnik," I was called on Thursday,  
 **Translation:** 
 
-**[6494.32s] English:** и в субботу я полетел в Ванкувер, а в понедельник начал съемки.  
+**[6494.32s] English:** And on Saturday, I flew to Vancouver, and on Monday, we started filming.  
 **Translation:** 
 
-**[6497.94s] English:** И все, что я успел сделать, это посмотреть «Крестного отца» и «Серпико»,  
-**Translation:** 
+**[6497.94s] English:** And all I managed to do was watch "The Godfather" and "Serpico",  
+**Translation:** Vocabulary: serpico: 警探塞尔科; vancouver: 温哥华市
 
-**[6501.28s] English:** а потом приступил к работе.  
+**[6501.28s] English:** Then he proceeded to work.  
 **Translation:** 
 
-**[6505.12s] English:** По-вашему, глупый вопрос, «Крестный отец» – величайший фильм?  
+**[6505.12s] English:** According to you, is "The Godfather" the greatest film?  
 **Translation:** 
 
-**[6510.00s] English:** Ну, пистолет у виска.  
+**[6510.00s] English:** Nu, pistol at the forehead.  
 **Translation:** 
 
-**[6512.74s] English:** Конечно, конечно, да, да.  
-**Translation:** 
+**[6512.74s] English:** Of course, of course, yes, yes.  
+**Translation:** Vocabulary: pistol: 手枪
 
-**[6515.42s] English:** Но также могу изменить свое мнение.  
+**[6515.42s] English:** But I can also change my mind.  
 **Translation:** 
 
-**[6519.24s] English:** Через неделю сказавший, что это Лоуренс Аравийский,  
+**[6519.24s] English:** Through a week, the one who said it was Lawrence of Arabia,  
 **Translation:** 
 
-**[6521.98s] English:** а еще через неделю, что это «Странствие Салливана».  
+**[6521.98s] English:** Another week later, it's "Sullivan's Travels.  
 **Translation:** 
 
-**[6525.60s] English:** В смысле, это и есть самое замечательное в фильмах, особенно великих – пересматривать их.  
-**Translation:** 
+**[6525.60s] English:** In other words, this is what makes movies, especially great ones, so wonderful—they are meant to be rewatched.  
+**Translation:** Vocabulary: rewatched: 重新观看
 
-**[6532.52s] English:** Это словно впервые их видеть.  
+**[6532.52s] English:** This is as if I were seeing them for the first time.  
 **Translation:** 
 
-**[6534.50s] English:** Ты замечаешь вещи, которые не замечал в прошлый раз.  
+**[6534.50s] English:** You notice things that you didn't notice last time.  
 **Translation:** 
 
-**[6537.74s] English:** И с этого дня ты влюбляешься в этот фильм?  
+**[6537.74s] English:** Do you fall in love with this film from this day onward?  
 **Translation:** 
 
-**[6539.80s] English:** Что и сказать не можешь своему другу, что это величайший фильм.  
-**Translation:** 
+**[6539.80s] English:** What can you say to your friend that this is the greatest film?  
+**Translation:** Vocabulary: onward: 从今以后
 
-**[6544.92s] English:** Я также думаю, что это степень режиссерской смелости.  
+**[6544.92s] English:** I also think that this is a degree of directorial courage.  
 **Translation:** 
 
-**[6551.22s] English:** К примеру, Кубрик решил взять одного актера на три главные роли в «Докторе Стрэндж Лави».  
-**Translation:** 
+**[6551.22s] English:** For example, Kubrick decided to cast one actor in three main roles in "Dr. Strangelove.  
+**Translation:** Vocabulary: kubrick: 库布里克; strangelove: 疯狂的博士
 
-**[6561.18s] English:** Вот кто, у кого сегодня есть яйца для такого?  
+**[6561.18s] English:** Here's who has the eggs for this today?  
 **Translation:** 
 
-**[6565.90s] English:** Я хотел упомянуть, когда мы говорили про «Семь».  
+**[6565.90s] English:** I wanted to mention when we talked about "Seven.  
 **Translation:** 
 
-**[6569.80s] English:** Что вот если просто посмотреть на три величайших воплощения образа убийцы,  
+**[6569.80s] English:** What if we just look at three of the greatest manifestations of the killer's image?  
 **Translation:** 
 
-**[6576.00s] English:** как я говорил, для меня, очевидно, Ганнибал Лектор из «Молчания ягнят».  
-**Translation:** 
+**[6576.00s] English:** As I said, for me, obviously, Hannibal Lecter from The Silence of the Lambs.  
+**Translation:** Vocabulary: hannibal: 汉尼拔; manifestations: 表现形式
 
-**[6579.88s] English:** Он явно в списке.  
+**[6579.88s] English:** He is clearly on the list.  
 **Translation:** 
 
-**[6581.44s] English:** Всем соревнуется с ним за первое место, с «Молчанием ягнят».  
+**[6581.44s] English:** All compete with him for first place, including "The Silence of the Lambs.  
 **Translation:** 
 
-**[6585.30s] English:** Но стоит сказать, есть еще один.  
+**[6585.30s] English:** But there is another one worth mentioning.  
 **Translation:** 
 
-**[6588.24s] English:** Это Кубрик с Джеком Николсоном, ведь так?  
+**[6588.24s] English:** This is Kubrick with Jack Nicholson, isn't it?  
 **Translation:** 
 
-**[6591.12s] English:** И с фильмом «Сияние».  
+**[6591.12s] English:** With the film "Shining".  
 **Translation:** 
 
-**[6592.98s] English:** И там, в отличие от убийц, тех, кто всегда ими был,  
+**[6592.98s] English:** There, unlike with the killers who have always been that way,  
 **Translation:** 
 
-**[6599.80s] English:** это человек, который всегда был убийцей.  
+**[6599.80s] English:** This is a man who has always been a killer.  
 **Translation:** 
 
-**[6600.00s] English:** Человек, как в красоте по-американски, становится им и погружается в безумие.  
-**Translation:** 
+**[6600.00s] English:** Man, as in American beauty, becomes one and sinks into madness.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[6606.76s] English:** Еще я читал, а вот и Джонни, это импровизация Джека Николсона, та сцена.  
+**[6606.76s] English:** I was reading, and there's Johnny, Jack Nicholson's improvisation in that scene.  
 **Translation:** 
 
-**[6610.88s] English:** Вполне верю.  
-**Translation:** 
+**[6610.88s] English:** I fully believe.  
+**Translation:** Vocabulary: improvisation: 即兴
 
-**[6611.78s] English:** Это совсем другое исполнение по сравнению с вашим всем.  
+**[6611.78s] English:** This is a completely different performance compared to yours.  
 **Translation:** 
 
-**[6615.56s] English:** Что вы думаете о таком исполнении?  
-**Translation:** 
+**[6615.56s] English:** What do you think of such an execution?  
+**Translation:** Vocabulary: execution: 执行方式
 
-**[6617.94s] English:** Николсон всегда был очень невероятным актером, потому что  
+**[6617.94s] English:** Nicholson was always an incredibly talented actor because  
 **Translation:** 
 
-**[6621.68s] English:** он напрочь не стеснялся быть выразительным и чрезмерным.  
-**Translation:** 
+**[6621.68s] English:** He completely didn't hesitate to be expressive and excessive.  
+**Translation:** Vocabulary: excessive: 过度; expressive: 富有表现力
 
-**[6628.74s] English:** И к тому же ему не составляло труда играть глубоко несовершенных персонажей.  
+**[6628.74s] English:** And moreover, it was not difficult for him to play deeply imperfect characters.  
 **Translation:** 
 
-**[6633.68s] English:** Ему это было интересно.  
+**[6633.68s] English:** He found it interesting.  
 **Translation:** 
 
-**[6635.16s] English:** У меня есть интересная история про Николсона, которую никто не знает.  
+**[6635.16s] English:** I have an interesting story about Nicholson, which nobody knows.  
 **Translation:** 
 
-**[6639.00s] English:** У вас хорошее впечатление от Николсона, но что там за история?  
+**[6639.00s] English:** Do you have a good impression of Nicholson, but what's the story behind it?  
 **Translation:** 
 
-**[6642.62s] English:** История это...  
+**[6642.62s] English:** History is...  
 **Translation:** 
 
-**[6644.86s] English:** Эту историю поведал мне звукорежиссер.  
+**[6644.86s] English:** This story was told to me by the sound engineer.  
 **Translation:** 
 
-**[6647.84s] English:** Деннис Мэтленд, просто отличный парень.  
+**[6647.84s] English:** Dennis Mallett, just a great guy.  
 **Translation:** 
 
-**[6651.54s] English:** Он рассказывал, что был взволнован, ведь попал в честь семьи Притцы,  
+**[6651.54s] English:** He said he was excited to be part of the Pryce family's honor.  
 **Translation:** 
 
-**[6655.60s] English:** где был ждак Николсона, Анжелика Хьюстон и режиссер Джон.  
+**[6655.60s] English:** Where was Jack Nicholson, Angelica Houston, and director John?  
 **Translation:** 
 
-**[6658.74s] English:** И он сказал, что он так взволнован.  
-**Translation:** 
+**[6658.74s] English:** He said that he was so excited.  
+**Translation:** Vocabulary: houston: 霍斯金; nicholson: 尼科尔森
 
-**[6662.22s] English:** Это был мой первый день на съемках.  
+**[6662.22s] English:** This was my first day on set.  
 **Translation:** 
 
-**[6664.26s] English:** И мне сказали зайти в трейлер господина Николсона и прикрепить ему микрофон.  
-**Translation:** 
+**[6664.26s] English:** And they told me to go into Mr. Nicholson's trailer and attach a microphone to him.  
+**Translation:** Vocabulary: microphone: 话筒
 
-**[6669.04s] English:** Я стучу в дверь трейлера и слышу, что...  
+**[6669.04s] English:** I knock on the trailer door and hear what...  
 **Translation:** 
 
-**[6671.26s] English:** Да, входите.  
+**[6671.26s] English:** Yes, come in.  
 **Translation:** 
 
-**[6675.10s] English:** Я захожу, и господин Николсон переодевает свою обычную одежду,  
+**[6675.10s] English:** I go in, and Mr. Nicholson changes into his usual clothing.  
 **Translation:** 
 
-**[6680.80s] English:** собирается надеть костюм, и вот я настраиваю микрофон, готовлюсь,  
+**[6680.80s] English:** He is going to put on a suit, and here I am setting up the microphone, getting ready,  
 **Translation:** 
 
-**[6685.68s] English:** и говорю господину Николсону,  
+**[6685.68s] English:** I say to Mr. Nicholson,  
 **Translation:** 
 
-**[6686.54s] English:** что он не хочет, чтобы я его наделал.  
+**[6686.54s] English:** What he doesn't want is for me to mess it up.  
 **Translation:** 
 
-**[6687.04s] English:** Я просто хотел сказать, что...  
+**[6687.04s] English:** I just wanted to say that...  
 **Translation:** 
 
-**[6688.74s] English:** Я очень рад снова работать с вами.  
+**[6688.74s] English:** I am very glad to be working with you again.  
 **Translation:** 
 
-**[6691.78s] English:** Это огромное удовольствие.  
+**[6691.78s] English:** This is enormous enjoyment.  
 **Translation:** 
 
-**[6693.16s] English:** Джек говорит, мы уже работали вместе?  
+**[6693.16s] English:** Jack says, "Have we worked together already?  
 **Translation:** 
 
-**[6696.38s] English:** Он отвечает, да, да, работали.  
+**[6696.38s] English:** He answers, yes, yes, we worked.  
 **Translation:** 
 
-**[6698.86s] English:** А Джек, в каком фильме мы работали вместе?  
+**[6698.86s] English:** Jack, in which movie did we work together?  
 **Translation:** 
 
-**[6701.68s] English:** Он отвечает, мы работали в «Излученной Миссури».  
+**[6701.68s] English:** He responds that they worked at "Radiant Missouri.  
 **Translation:** 
 
-**[6704.56s] English:** И Николсон ему, боже мой, «Излученной Миссури»,  
-**Translation:** 
+**[6704.56s] English:** Keep Nicholson my God, "Island of the Issued Missouri",  
+**Translation:** Vocabulary: radiant: 光彩照人
 
-**[6707.78s] English:** Господи Иисусе, мы выжили из ума на том фильме.  
+**[6707.78s] English:** Lord Jesus, we lost our minds on that movie.  
 **Translation:** 
 
-**[6711.02s] English:** Срань Господня, боже мой, поразительно, что я жив.  
-**Translation:** 
+**[6711.02s] English:** Oh Lord, my God, it is astonishing that I am alive.  
+**Translation:** Vocabulary: astonishing: 令人惊讶的
 
-**[6714.80s] English:** Боже мой, там было столько наркотиков,  
+**[6714.80s] English:** Oh my God, there were so many drugs there,  
 **Translation:** 
 
-**[6716.90s] English:** что мы были в полном угаре.  
-**Translation:** 
+**[6716.90s] English:** We were in complete ecstasy.  
+**Translation:** Vocabulary: ecstasy: 极度快乐
 
-**[6718.74s] English:** Батерь Божья.  
+**[6718.74s] English:** Batyer Bozhi.  
 **Translation:** 
 
-**[6720.00s] English:** И тут он складывает штаны, которые только что снял себе на руку,  
+**[6720.00s] English:** Here, he folds the pants which he had just taken off and placed on his hands.  
 **Translation:** 
 
-**[6724.72s] English:** и на пол падает сверток кокаина.  
+**[6724.72s] English:** And the package of cocaine falls to the floor.  
 **Translation:** 
 
-**[6730.66s] English:** Деннис смотрит на это, Николсон смотрит на это.  
-**Translation:** 
+**[6730.66s] English:** Dennis looks at this, Nicholson looks at this.  
+**Translation:** Vocabulary: cocaine: 可卡因
 
-**[6735.70s] English:** И Джек говорит,  
+**[6735.70s] English:** And Jack says,  
 **Translation:** 
 
-**[6737.04s] English:** «Не носил эти штаны со времен излучин Миссури».  
+**[6737.04s] English:** Never wore these pants since the bends of Missouri.  
 **Translation:** 
 
-**[6742.82s] English:** Обожаю этого парня. Он себя не стесняется.  
+**[6742.82s] English:** I love this guy. He doesn't hold back.  
 **Translation:** 
 
-**[6746.56s] English:** О да.  
+**[6746.56s] English:** Oh, yes.  
 **Translation:** 
 
-**[6746.96s] English:** Ваше впечатление о нем на премии AFI было здорово.  
+**[6746.96s] English:** Your impression of him at the AFI awards was great.  
 **Translation:** 
 
-**[6752.18s] English:** Ну, это было, это было для Майка Николса.  
-**Translation:** 
+**[6752.18s] English:** Nu, it was, it was for Mike Nichols.  
+**Translation:** Vocabulary: nichols: 尼科尔斯
 
-**[6755.38s] English:** Да, он оказал большое влияние на вашу карьеру, очень важное.  
+**[6755.38s] English:** Yes, he had a great influence on your career, very important.  
 **Translation:** 
 
-**[6758.64s] English:** Верно.  
+**[6758.64s] English:** Correct.  
 **Translation:** 
 
-**[6759.10s] English:** Можете рассказать о нем? Какова его роль в вашей жизни?  
+**[6759.10s] English:** Can you tell me about him? What role does he play in your life?  
 **Translation:** 
 
-**[6762.88s] English:** Я думаю, это было...  
+**[6762.88s] English:** I think it was...  
 **Translation:** 
 
-**[6765.38s] English:** Да, это был 1984 год.  
+**[6765.38s] English:** Yes, it was the year 1984.  
 **Translation:** 
 
-**[6767.34s] English:** Я пошел на прослушивание для национального тура пьесы «Настоящие»,  
-**Translation:** 
+**[6767.34s] English:** I went to an audition for the national tour of the play "True.  
+**Translation:** Vocabulary: audition: 试镜
 
-**[6772.64s] English:** которые на Бродвее играли Джереми Айронс и Глен Клоуз.  
+**[6772.64s] English:** Which ones played on Broadway with Jeremy Irons and Glenn Close.  
 **Translation:** 
 
-**[6775.84s] English:** Режиссером был мистер Николсон.  
-**Translation:** 
+**[6775.84s] English:** The director was Mr. Nicholson.  
+**Translation:** Vocabulary: broadway: 百老汇; glenn: Glenn; jeremy: Jeremy; nicholson: 尼科尔斯
 
-**[6776.96s] English:** В общем, я пришел читать роль Бруди, персонажа шотландца.  
+**[6776.96s] English:** In general, I came to read the role of Brodie, a Scottish character.  
 **Translation:** 
 
-**[6782.84s] English:** Конечно же, я его прошел.  
-**Translation:** 
+**[6782.84s] English:** Of course, I've completed it.  
+**Translation:** Vocabulary: brodie: 布罗迪; scottish: 苏格兰的
 
-**[6784.90s] English:** Майк Николсон спускается по проходу театра  
+**[6784.90s] English:** Mike Nicholson descends the theater aisle.  
 **Translation:** 
 
-**[6787.52s] English:** и начинает спрашивать меня, где учился, чем занимался.  
-**Translation:** 
+**[6787.52s] English:** And he starts asking me where I studied, what I did.  
+**Translation:** Vocabulary: descends: 下行
 
-**[6791.50s] English:** А я только вернулся после пары лет работы в разных региональных театрах в Нью-Йорк.  
+**[6791.50s] English:** I have just returned to New York after working in different regional theaters for a couple of years.  
 **Translation:** 
 
-**[6797.24s] English:** И встреча с Майком Николсом была просто невероятной.  
+**[6797.24s] English:** Keep the same sentence as it is already in English: The meeting with Mike Nichols was simply incredible.  
 **Translation:** 
 
-**[6800.56s] English:** Мистер Николсон спросил,  
+**[6800.56s] English:** Mr. Nicholson asked,  
 **Translation:** 
 
-**[6801.90s] English:** «А ты видел мою другую пьесу под названием «Переполох»?  
-**Translation:** 
+**[6801.90s] English:** Have you seen my other play called 'Perepolokh'?  
+**Translation:** Vocabulary: perepolokh: 佩雷波洛赫
 
-**[6807.64s] English:** Говорю, «Нет».  
+**[6807.64s] English:** I said, "No.  
 **Translation:** 
 
-**[6808.60s] English:** А он, «Почему?»  
+**[6808.60s] English:** He asked, "Why?  
 **Translation:** 
 
-**[6810.80s] English:** Говорю, «Билет не по карману».  
+**[6810.80s] English:** I say, "The ticket is out of my budget.  
 **Translation:** 
 
-**[6812.90s] English:** А он, «Мы это уладим.  
+**[6812.90s] English:** He said, "We'll sort this out.  
 **Translation:** 
 
-**[6814.68s] English:** Я хочу, чтобы ты ее посмотрел, а через неделю пришел бы на прослушивание для нее».  
+**[6814.68s] English:** I want you to listen to it, and come for an audition for her next week.  
 **Translation:** 
 
-**[6819.50s] English:** Я такой, «Окей».  
+**[6819.50s] English:** I'm okay.  
 **Translation:** 
 
-**[6821.64s] English:** Так что я пошел смотреть «Переполох»,  
+**[6821.64s] English:** So I went to watch "Perepolokh,  
 **Translation:** 
 
-**[6824.28s] English:** Уильям Хёрд, Харви Кейтель,  
-**Translation:** 
+**[6824.28s] English:** William Hurt, Harvey Keitel,  
+**Translation:** Vocabulary: harvey: 哈维; keitel: 基特尔
 
-**[6827.58s] English:** Крис Уокен,  
+**[6827.58s] English:** Chris Walken,  
 **Translation:** 
 
-**[6829.12s] English:** Кэндис Берген,  
-**Translation:** 
+**[6829.12s] English:** Candice Bergen,  
+**Translation:** Vocabulary: bergen: 贝宁; candice: 坎迪斯
 
-**[6830.70s] English:** Синтия Никсон,  
+**[6830.70s] English:** Cynthia Nixon,  
 **Translation:** 
 
-**[6833.28s] English:** Джерри Стиллер.  
+**[6833.28s] English:** Jerry Stiller.  
 **Translation:** 
 
-**[6835.84s] English:** И я смотрю, что она не знает, что это.  
+**[6835.84s] English:** I look and see that she doesn't know what it is.  
 **Translation:** 
 
-**[6836.84s] English:** Я смотрю эту пьесу Дэвида Рэба про Голливуд.  
+**[6836.84s] English:** I am watching this play by David Rabe about Hollywood.  
 **Translation:** 
 
-**[6840.82s] English:** Безумие. Билл Хёрд был невероятен.  
+**[6840.82s] English:** Madness. Bill Hurd was unbelievable.  
 **Translation:** 
 
-**[6845.54s] English:** И это было потрясающе.  
-**Translation:** 
+**[6845.54s] English:** And this was amazing.  
+**Translation:** Vocabulary: madness: 疯狂
 
-**[6846.88s] English:** Крис Уокен, все остальные, там есть Харви Кейтель.  
+**[6846.88s] English:** Chris Walken, everyone else, there's Harvey Keitel there.  
 **Translation:** 
 
-**[6851.30s] English:** Роль играл он, Уокен пришел позже.  
+**[6851.30s] English:** He played the role, while Wake came later.  
 **Translation:** 
 
-**[6854.18s] English:** И я прихожу на прослушивание, и Николс говорит,  
+**[6854.18s] English:** I arrive for the audition, and Nichols says,  
 **Translation:** 
 
-**[6856.74s] English:** «Я хочу, чтобы ты был дублером Харви Кейтеля, дублировал Филла».  
-**Translation:** 
+**[6856.74s] English:** I want you to be Harvey Keitel's dubbing counterpart and dub Fill.  
+**Translation:** Vocabulary: audition: 试镜; counterpart: 搭档; dubbing: 配音
 
-**[6862.00s] English:** Я, «Филла? Харви, можно сказать, лет сорок.  
+**[6862.00s] English:** I, "Fillia Harvey," can be said to have been around for forty years.  
 **Translation:** 
 
-**[6866.34s] English:** С виду он может надрать задницу всем на сцене,  
-**Translation:** 
+**[6866.34s] English:** He might seem like he could give everyone on stage a good spanking.  
+**Translation:** Vocabulary: spanking: 打屁股
 
-**[6869.00s] English:** а мне двадцать четыре года».  
+**[6869.00s] English:** А мне двадцать четыре года.  
 **Translation:** 
 
-**[6872.76s] English:** А Николс говорит, «Все дело в отношении.  
-**Translation:** 
+**[6872.76s] English:** Nichols says, "It's all about attitude.  
+**Translation:** Vocabulary: nichols: 尼科尔斯
 
-**[6875.48s] English:** Если ты веришь, что всем на сцене надерешь задницу, то зритель тоже».  
+**[6875.48s] English:** If you believe that you'll give everyone on stage a good spanking, then the audience will too.  
 **Translation:** 
 
-**[6879.80s] English:** И я, «Хорошо».  
+**[6879.80s] English:** I said, "Good.  
 **Translation:** 
 
-**[6881.16s] English:** В итоге я начал учить роль Филла.  
+**[6881.16s] English:** In the end, I started learning Fill's role.  
 **Translation:** 
 
-**[6885.30s] English:** И когда ты в дублерах, и ты неизвестен,  
+**[6885.30s] English:** When you're in dubs and unknown,  
 **Translation:** 
 
-**[6889.20s] English:** тебе не дают репетировать на сцене.  
+**[6889.20s] English:** You are not allowed to rehearse on stage.  
 **Translation:** 
 
-**[6891.74s] English:** Твое место в репетиционном зале.  
-**Translation:** 
+**[6891.74s] English:** Your place is in the rehearsal room.  
+**Translation:** Vocabulary: rehearsal: 彩排; rehearse: 彩排
 
-**[6893.78s] English:** Но я тайком пробирался на сцену и репетировал,  
+**[6893.78s] English:** But I sneaked onto the stage and rehearsed,  
 **Translation:** 
 
-**[6896.18s] English:** пытался понять, где стоит реквизит,  
-**Translation:** 
+**[6896.18s] English:** Tried to understand where the props should be placed.  
+**Translation:** Vocabulary: props: 道具; rehearsed: 彩排; sneaked: 溜进
 
-**[6898.34s] English:** и...  
+**[6898.34s] English:** And...  
 **Translation:** 
 
-**[6898.88s] English:** В общем, однажды мне позвонили.  
+**[6898.88s] English:** In general, one day I was called.  
 **Translation:** 
 
-**[6902.02s] English:** «Сегодня ты выходишь, как Филл».  
+**[6902.02s] English:** Today you're stepping out like Fil.  
 **Translation:** 
 
-**[6904.38s] English:** Я вышел.  
+**[6904.38s] English:** I went out.  
 **Translation:** 
 
-**[6908.34s] English:** Николсу говорит Питер Лоуренс, менеджер сцены.  
+**[6908.34s] English:** Nicklaus says, according to Peter Lawrence, scene manager.  
 **Translation:** 
 
-**[6912.20s] English:** Спейси выходит, как Филл.  
-**Translation:** 
+**[6912.20s] English:** Spacey exits as Fill.  
+**Translation:** Vocabulary: spacey: 演技派
 
-**[6914.08s] English:** Приходит Николс и смотрит второй акт.  
+**[6914.08s] English:** Nichols comes in and watches the second act.  
 **Translation:** 
 
-**[6917.20s] English:** Заходит за кулисы и говорит,  
-**Translation:** 
+**[6917.20s] English:** He goes behind the curtains and says,  
+**Translation:** Vocabulary: curtains: 幕布
 
-**[6918.92s] English:** «Было очень хорошо.  
+**[6918.92s] English:** It was very good.  
 **Translation:** 
 
-**[6921.38s] English:** Как быстро ты выучишь Микки».  
+**[6921.38s] English:** How quickly will you learn Mickey?  
 **Translation:** 
 
-**[6924.72s] English:** Микки была роль, которую играл Рон Сильвер.  
+**[6924.72s] English:** Mickey was a role that Ron Silver played.  
 **Translation:** 
 
-**[6927.10s] English:** И Крис Уокен тоже играл.  
+**[6927.10s] English:** Chris Walken also played.  
 **Translation:** 
 
-**[6929.10s] English:** Говорю, «Не знаю, может, пару недель, и он...»  
+**[6929.10s] English:** I said, "I don't know, maybe a couple of weeks, and he...  
 **Translation:** 
 
-**[6935.10s] English:** «Учи Микки».  
-**Translation:** 
+**[6935.10s] English:** Learn with Mickey.  
+**Translation:** Vocabulary: mickey: 米奇
 
-**[6937.10s] English:** В общем, я выучил Микки.  
+**[6937.10s] English:** In general, I have learned Mickey.  
 **Translation:** 
 
-**[6941.10s] English:** И однажды мне сказали,  
+**[6941.10s] English:** And one day I was told,  
 **Translation:** 
 
-**[6943.10s] English:** «Завтра ты выходишь, как Микки».  
+**[6943.10s] English:** Tomorrow you'll come out like Mickey.  
 **Translation:** 
 
-**[6945.10s] English:** Приходит Николс, смотрит второй акт, заходит за кулисы и говорит,  
-**Translation:** 
+**[6945.10s] English:** Nichols arrives, watches the second act, goes backstage, and says,  
+**Translation:** Vocabulary: backstage: 后台
 
-**[6951.10s] English:** «Было очень хорошо. Действительно смешно».  
+**[6951.10s] English:** It was very good. Truly funny.  
 **Translation:** 
 
-**[6955.10s] English:** «Как быстро ты выучишь Эдди».  
-**Translation:** 
+**[6955.10s] English:** How quickly will you learn Eddie?  
+**Translation:** Vocabulary: eddie: 埃迪
 
-**[6956.10s] English:** «Как быстро ты выучишь Эдди».  
+**[6956.10s] English:** How quickly will you learn Eddie?  
 **Translation:** 
 
-**[6957.06s] English:** «Как быстро ты выучишь Эдди».  
+**[6957.06s] English:** How quickly will you learn Eddie?  
 **Translation:** 
 
-**[6959.06s] English:** В общем...  
+**[6959.06s] English:** In general,...  
 **Translation:** 
 
-**[6960.00s] English:** Я был на подхвате в переполохе.  
+**[6960.00s] English:** I was on my toes in the chaos.  
 **Translation:** 
 
-**[6962.40s] English:** Я выучил все мужские роли, включая Джерри Стиллера,  
+**[6962.40s] English:** I learned all the male roles, including Jerry Stiller.  
 **Translation:** 
 
-**[6965.32s] English:** хотя я никогда не играл эту роль.  
+**[6965.32s] English:** Although I have never played this role.  
 **Translation:** 
 
-**[6969.14s] English:** А потом я покинул пьесу,  
+**[6969.14s] English:** Then I left the play.  
 **Translation:** 
 
-**[6973.66s] English:** и примерно через два месяца мне позвонил Майк Николс.  
-**Translation:** 
+**[6973.66s] English:** And about two months later, Mike Nichols called me.  
+**Translation:** Vocabulary: nichols: 米克·尼科尔斯
 
-**[6978.22s] English:** Говорит, «Кевин, а как ты?»  
+**[6978.22s] English:** He says, "Kevin, how are you?  
 **Translation:** 
 
-**[6979.82s] English:** А я ему, «Хорошо. Чем могу помочь?»  
-**Translation:** 
+**[6979.82s] English:** I said to him, "Good. How can I help you?  
+**Translation:** Vocabulary: kevin: 凯文
 
-**[6982.34s] English:** Он говорит, «Ну, я собираюсь снимать фильм этим летом с Мэнди и Мэрил.  
+**[6982.34s] English:** He says, "Well, I'm going to be filming a movie this summer with Mandi and Meryl.  
 **Translation:** 
 
-**[6986.32s] English:** И есть роль, на которую я хочу, чтобы ты пришел».  
-**Translation:** 
+**[6986.32s] English:** There is a role I want you to play.  
+**Translation:** Vocabulary: mandi: 曼迪; meryl: 梅丽尔
 
-**[6989.70s] English:** И прошел прослушивание.  
+**[6989.70s] English:** He passed the audition.  
 **Translation:** 
 
-**[6992.16s] English:** И вот я пришел, прослушался, меня утвердили на роль грабителя в метро.  
-**Translation:** 
+**[6992.16s] English:** And here I am, auditioned, and they approved me for the role of a地铁抢劫犯.  
+**Translation:** Vocabulary: audition: 试镜; auditioned: 参加试镜
 
-**[6998.74s] English:** Потом случился целый переворот,  
+**[6998.74s] English:** Then a whole revolution happened,  
 **Translation:** 
 
-**[7001.52s] English:** так как он перестал работать с Мэнди Паттинкеном.  
+**[7001.52s] English:** Since he stopped working with Mandy Patinkin.  
 **Translation:** 
 
-**[7006.08s] English:** Мэнди ушел из фильма, и он пригласил Джека Николсона  
+**[7006.08s] English:** Mandy left the film, and he invited Jack Nicholson.  
 **Translation:** 
 
-**[7008.82s] English:** заменить Мэнди Паттинкена.  
-**Translation:** 
+**[7008.82s] English:** Replace Mandi Pattington.  
+**Translation:** Vocabulary: nicholson: 尼科尔森
 
-**[7011.76s] English:** А теперь у меня не было сцен с ним, но  
+**[7011.76s] English:** Now I didn't have any scenes with him, but  
 **Translation:** 
 
-**[7014.30s] English:** я в фильме с Джеком Николсоном и Мэрил Стрип,  
-**Translation:** 
+**[7014.30s] English:** I was in a film with Jack Nicholson and Meryl Streep.  
+**Translation:** Vocabulary: streep: 梅丽尔·斯特里普
 
-**[7018.76s] English:** и моя первая сцена.  
+**[7018.76s] English:** And my first scene.  
 **Translation:** 
 
-**[7019.70s] English:** И в этом фильме, которая снималась в мой день рождения, 26 июля 1985 года,  
+**[7019.70s] English:** In this film, which was shot on my birthday, July 26, 1985,  
 **Translation:** 
 
-**[7026.10s] English:** я должен был подмигнуть Мэрил Стрип в этой сцене.  
+**[7026.10s] English:** I should have winked at Meryl Streep in this scene.  
 **Translation:** 
 
-**[7029.74s] English:** И так нервничал, что буквально не мог подмигнуть.  
-**Translation:** 
+**[7029.74s] English:** So he was so nervous that he couldn't even wink.  
+**Translation:** Vocabulary: winked: 眨眼
 
-**[7032.64s] English:** Николс должен был успокоить меня и помочь мне подмигнуть.  
+**[7032.64s] English:** Nichols should have calmed me down and helped me wink.  
 **Translation:** 
 
-**[7037.96s] English:** Но он стал моим первым, самым первым фильмом.  
-**Translation:** 
+**[7037.96s] English:** But he became my very first film.  
+**Translation:** Vocabulary: calmed: 安抚
 
-**[7042.32s] English:** Он был невероятен, и мне разрешили приходить и смотреть,  
+**[7042.32s] English:** He was incredible, and I was allowed to come and watch,  
 **Translation:** 
 
-**[7045.74s] English:** как они снимали сцены, где я не участвовал.  
+**[7045.74s] English:** How they shot scenes where I was not involved.  
 **Translation:** 
 
-**[7048.12s] English:** И я помню, как однажды...  
+**[7048.12s] English:** I remember how once...  
 **Translation:** 
 
-**[7049.70s] English:** Однажды оказался в трейлере, в гримерке,  
-**Translation:** 
+**[7049.70s] English:** Once I found myself in a trailer, in the makeup room,  
+**Translation:** Vocabulary: makeup: 化妆
 
-**[7052.30s] English:** а в тот день работали Джек и я.  
+**[7052.30s] English:** On that day, Jack and I worked.  
 **Translation:** 
 
-**[7054.52s] English:** Общей сцены не было, но я помню, как он вошел,  
+**[7054.52s] English:** There was no general scene, but I remember how he entered.  
 **Translation:** 
 
-**[7057.36s] English:** его посадили в кресло, положили на глаза замороженные огурцы,  
+**[7057.36s] English:** He was seated in a chair, had frozen cucumbers placed over his eyes,  
 **Translation:** 
 
-**[7061.60s] English:** размяли шею,  
-**Translation:** 
+**[7061.60s] English:** Stretched the neck,  
+**Translation:** Vocabulary: cucumbers: 黄瓜
 
-**[7063.72s] English:** потом подняли и сделали лицо,  
+**[7063.72s] English:** Then they lifted it and did something to the face.  
 **Translation:** 
 
-**[7065.82s] English:** и я помню, как Николсон посмотрел в зеркало и сказал...  
+**[7065.82s] English:** And I remember how Nicholson looked in the mirror and said...  
 **Translation:** 
 
-**[7069.86s] English:** «Еще один день, еще одни 50 тысяч баксов».  
+**[7069.86s] English:** Another day, another 50 thousand bucks.  
 **Translation:** 
 
-**[7077.70s] English:** Ха-ха-ха.  
-**Translation:** 
+**[7077.70s] English:** Ha-ha-ha.  
+**Translation:** Vocabulary: bucks: 美元
 
-**[7078.22s] English:** И вышел из трейлера.  
+**[7078.22s] English:** He exited the trailer.  
 **Translation:** 
 
-**[7080.74s] English:** А каким был Кристофер Уокен?  
-**Translation:** 
+**[7080.74s] English:** How was Christopher Walken?  
+**Translation:** Vocabulary: christopher: 克里斯托弗; exited: 离开
 
-**[7084.64s] English:** Он же ведь тоже театрал.  
+**[7084.64s] English:** He is a theater lover too.  
 **Translation:** 
 
-**[7086.96s] English:** Ну да, он начинал с кружка по танцам.  
+**[7086.96s] English:** Nu da, he began with a dance class.  
 **Translation:** 
 
-**[7091.14s] English:** Ну да, заметно.  
+**[7091.14s] English:** Nu da, it's noticeable.  
 **Translation:** 
 
-**[7093.34s] English:** Он умеет двигаться.  
+**[7093.34s] English:** He can move.  
 **Translation:** 
 
-**[7094.98s] English:** Я давно знаю Уокена, и будучи на Saturday Night Live, мы разыграли там кастинг «Звездные войны».  
+**[7094.98s] English:** I have known Qwen for a long time, and when he was on Saturday Night Live, we staged a Star Wars casting there.  
 **Translation:** 
 
-**[7102.28s] English:** Я изобразил Криса Уокена в роли Хана Соло.  
-**Translation:** 
+**[7102.28s] English:** I portrayed Chris Walken as Han Solo.  
+**Translation:** Vocabulary: casting: 试镜; portrayed: 扮演
 
-**[7105.56s] English:** Великолепно.  
+**[7105.56s] English:** Beautifully.  
 **Translation:** 
 
-**[7106.28s] English:** И я никогда этого не забуду.  
+**[7106.28s] English:** And I will never forget this.  
 **Translation:** 
 
-**[7109.26s] English:** Я был в Лос-Анджелесе где-то через две недели, и был на вечеринке в Шато-Мормон.  
+**[7109.26s] English:** I was in Los Angeles about two weeks later, and I attended a party at Shato-Mormon.  
 **Translation:** 
 
-**[7113.64s] English:** Какая-то вечеринка в Шато-Мормон, и я заметил Криса Уокена, выходящего на балкон.  
-**Translation:** 
+**[7113.64s] English:** Some party at Château Mormont, and I noticed Chris Walken stepping onto the balcony.  
+**Translation:** Vocabulary: mormont: 尚塔-莫兰特
 
-**[7118.54s] English:** И я подумал, «Дерьмо, это же Крис Уокен».  
+**[7118.54s] English:** I thought, "crap, that's Chris Walken.  
 **Translation:** 
 
-**[7121.74s] English:** А он подошел и сказал, «Кевин, я видел твой скетч».  
-**Translation:** 
+**[7121.74s] English:** He approached and said, "Kevin, I saw your sketch.  
+**Translation:** Vocabulary: approached: 走近; sketch: 草稿
 
-**[7127.42s] English:** Он был забавный, ха-ха.  
+**[7127.42s] English:** He was funny, ha-ha.  
 **Translation:** 
 
-**[7132.88s] English:** Да уж, это был и вправду хороший скетч.  
+**[7132.88s] English:** Yes, that was indeed a good sketch.  
 **Translation:** 
 
-**[7135.64s] English:** И этот парень...  
+**[7135.64s] English:** And this guy...  
 **Translation:** 
 
-**[7137.70s] English:** Есть такие люди, которые...  
+**[7137.70s] English:** There are such people who...  
 **Translation:** 
 
-**[7139.24s] English:** Действительно уникальны.  
+**[7139.24s] English:** Really unique.  
 **Translation:** 
 
-**[7142.22s] English:** И...  
+**[7142.22s] English:** And...  
 **Translation:** 
 
-**[7142.84s] English:** Беззастенчивы.  
+**[7142.84s] English:** Brutal.  
 **Translation:** 
 
-**[7145.96s] English:** Остаются такими всю карьеру.  
-**Translation:** 
+**[7145.96s] English:** Remain like that throughout their career.  
+**Translation:** Vocabulary: brutal: 残酷的
 
-**[7148.12s] English:** То, как они говорят, музыкальность их речи, их манера, их способ бытия.  
+**[7148.12s] English:** How they speak, their musicality, their manner, their way of being.  
 **Translation:** 
 
-**[7153.00s] English:** Он такой.  
+**[7153.00s] English:** He is like that.  
 **Translation:** 
 
-**[7154.34s] English:** И это как-то работает.  
+**[7154.34s] English:** And this seems to work.  
 **Translation:** 
 
-**[7155.56s] English:** Это чешуешь.  
-**Translation:** 
+**[7155.56s] English:** This is scratching.  
+**Translation:** Vocabulary: scratching: 抓挠
 
-**[7157.96s] English:** Да.  
+**[7157.96s] English:** Yes.  
 **Translation:** 
 
-**[7159.80s] English:** Я имею в виду, он работает в стольких контекстах.  
+**[7159.80s] English:** I mean, he works in so many contexts.  
 **Translation:** 
 
-**[7163.30s] English:** Он играет мафиози в настоящей любви, и это гениально.  
+**[7163.30s] English:** He plays a mafia boss in real love, and it's genius.  
 **Translation:** 
 
-**[7167.34s] English:** Это гениально.  
-**Translation:** 
+**[7167.34s] English:** This is genius.  
+**Translation:** Vocabulary: mafia: 黑帮
 
-**[7169.24s] English:** Он может быть кем угодно.  
+**[7169.24s] English:** He can be anyone.  
 **Translation:** 
 
-**[7170.24s] English:** Может быть мягким, может быть крутым, все вот это.  
+**[7170.24s] English:** May be soft, may be tough, all of this.  
 **Translation:** 
 
-**[7172.24s] English:** И он всегда Кристофер Уокен.  
+**[7172.24s] English:** He is always Christopher Walken.  
 **Translation:** 
 
-**[7174.24s] English:** Но для этих персонажей это как-то работает.  
+**[7174.24s] English:** But for these characters, it works in some way.  
 **Translation:** 
 
-**[7177.24s] English:** Ну да.  
+**[7177.24s] English:** Nu da.  
 **Translation:** 
 
-**[7178.24s] English:** Полагаю, мы говорили о карточном домике часа два назад, пока не начали прыгать с темы на тему.  
+**[7178.24s] English:** I presume we talked about the card house two hours ago, until we started jumping from topic to topic.  
 **Translation:** 
 
-**[7186.24s] English:** Но в первом эпизоде есть такой момент, когда Президент Уокер нарушил свое обещание Фрэнку Андервуду, что он назначит его госсекретарем.  
+**[7186.24s] English:** But in the first episode, there's a moment when President Walker breaks his promise to Frank Underwood, saying he will make him Secretary of State.  
 **Translation:** 
 
-**[7196.24s] English:** Так далее зародился монстр во Фрэнке.  
+**[7196.24s] English:** So, a monster was born in Frank.  
 **Translation:** 
 
-**[7198.08s] English:** Или монстр-монстр-монстр-монстр.  
+**[7198.08s] English:** Or monster-monster-monster-monster.  
 **Translation:** 
 
-**[7200.00s] English:** Монстр всегда был там.  
+**[7200.00s] English:** The monster always was there.  
 **Translation:** 
 
-**[7201.66s] English:** Как бы, если вы смотрите на этого персонажа,  
+**[7201.66s] English:** How, if you look at this character,  
 **Translation:** 
 
-**[7206.52s] English:** было ли в нем идеалистическое представление, что есть верность и что она нарушена?  
-**Translation:** 
+**[7206.52s] English:** Was there an idealistic notion in him that there was fidelity and that it had been breached?  
+**Translation:** Vocabulary: breached: 被破坏; fidelity: 忠诚; idealistic: 理想主义的
 
-**[7211.38s] English:** Или он всегда знал, что весь мир строится на манипуляции и сделает все, чтобы получить власть?  
+**[7211.38s] English:** Or did he always know that the entire world is built on manipulation and would do anything to gain power?  
 **Translation:** 
 
-**[7218.94s] English:** Ну, возможно, это был первый момент, когда зрители увидели, что его предали.  
-**Translation:** 
+**[7218.94s] English:** Nu, possibly, this was the first moment when viewers saw that he had been betrayed.  
+**Translation:** Vocabulary: betrayed: 被背叛; manipulation: 操控; viewers: 观众
 
-**[7224.46s] English:** Но это явно не первое предательство, которое он пережил.  
+**[7224.46s] English:** But this is clearly not the first betrayal he has endured.  
 **Translation:** 
 
-**[7227.38s] English:** И как только вы начнете его узнавать, узнавать о его жизни, о его отце, узнавать о его, ну, друзьях,  
-**Translation:** 
+**[7227.38s] English:** And as soon as you start to recognize him, learn about his life, his father, and his friends,  
+**Translation:** Vocabulary: betrayal: 背叛; endured: 忍受
 
-**[7234.42s] English:** или узнавать о их отношениях, и узнавать, каким он был, будучи еще кадетом,  
+**[7234.42s] English:** Or learn about their relationships and how he was as a cadet.  
 **Translation:** 
 
-**[7239.70s] English:** то, думаю, начнете понимать, что это человек, обладающий сильными убеждениями о верности.  
-**Translation:** 
+**[7239.70s] English:** That, I think, is when you will begin to understand that this is a person with strong convictions about righteousness.  
+**Translation:** Vocabulary: cadet: 学员; righteousness: 正义感
 
-**[7251.34s] English:** Так что это было не впервые.  
+**[7251.34s] English:** So, it wasn't the first time.  
 **Translation:** 
 
-**[7252.98s] English:** Это был просто первый момент.  
+**[7252.98s] English:** This was just the first moment.  
 **Translation:** 
 
-**[7255.82s] English:** С точки зрения выстраивания...  
+**[7255.82s] English:** From the perspective of building...  
 **Translation:** 
 
-**[7257.38s] English:** ...сюжета.  
+**[7257.38s] English:** ...of the plot.  
 **Translation:** 
 
-**[7259.98s] English:** Night Tax King, так называлась наша продюсерская компания.  
+**[7259.98s] English:** Night Tax King, our producer company was called.  
 **Translation:** 
 
-**[7263.26s] English:** Да.  
+**[7263.26s] English:** Yes.  
 **Translation:** 
 
-**[7264.50s] English:** Что, по-вашему, им двигало?  
+**[7264.50s] English:** What, in your opinion, did motivate them?  
 **Translation:** 
 
-**[7267.32s] English:** В тот момент и в течение всего сериала, все дело во власти и наследии?  
-**Translation:** 
+**[7267.32s] English:** In that moment and throughout the entire series, is it all about power and inheritance?  
+**Translation:** Vocabulary: inheritance: 遗产; motivate: 激励
 
-**[7273.86s] English:** Или же под всем этим все же скрывалась небольшая часть, желающая сделать что-то хорошее в этом мире?  
+**[7273.86s] English:** Or perhaps there was still a small part hidden beneath all of this, wishing to do something good in the world?  
 **Translation:** 
 
-**[7282.38s] English:** Нет, я думаю, власть, она была второстепенной.  
+**[7282.38s] English:** No, I think power was secondary.  
 **Translation:** 
 
-**[7287.68s] English:** Больше всего ему нравилось уметь предсказывать, как будут реагировать люди.  
+**[7287.68s] English:** More than anything, he enjoyed being able to predict how people would react.  
 **Translation:** 
 
-**[7295.18s] English:** Он был поведенческим психологом.  
+**[7295.18s] English:** He was a behavioral psychologist.  
 **Translation:** 
 
-**[7298.98s] English:** И он мог знать, как будто он на 17 ходов впереди в шахматной партии.  
+**[7298.98s] English:** He could know as if he were 17 moves ahead in a chess game.  
 **Translation:** 
 
-**[7306.12s] English:** Он мог знать, если он сделает то-то в этот момент, то в итоге произойдет вот это.  
+**[7306.12s] English:** He might have known that if he did this at this moment, then in the end this would happen.  
 **Translation:** 
 
-**[7313.18s] English:** Он мог предсказывать...  
+**[7313.18s] English:** He could predict...  
 **Translation:** 
 
-**[7316.36s] English:** ...предсказать...  
+**[7316.36s] English:** ...to predict...  
 **Translation:** 
 
-**[7317.68s] English:** ...и зачастую был прав.  
+**[7317.68s] English:** ...and he was often right.  
 **Translation:** 
 
-**[7319.44s] English:** Редактор субтитров А.Семкин Корректор А.Егорова  
-**Translation:** 
+**[7319.44s] English:** Editor Subtitles: A.Semkin Corrector: A.Egorova  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[7320.00s] English:** Он знал, как сильно нужно надавить на человека, чтобы заставить его сделать то, что ему нужно, чтобы следующий шаг сработал.  
+**[7320.00s] English:** He knew how hard he needed to push on a person to make them do what he needed in order for the next step to work.  
 **Translation:** 
 
-**[7330.62s] English:** Вы сыграли кучу злых персонажей.  
+**[7330.62s] English:** You have played a lot of evil characters.  
 **Translation:** 
 
-**[7333.80s] English:** Это ты называешь их злыми.  
+**[7333.80s] English:** This is what you call them being evil.  
 **Translation:** 
 
-**[7336.62s] English:** Причина, почему я так говорю, не хочу быть язвительным, но причина, почему я так говорю, в том, что  
-**Translation:** 
+**[7336.62s] English:** The reason I say this is not to be sarcastic, but the reason I say this is that  
+**Translation:** Vocabulary: sarcastic: 讽刺的
 
-**[7341.96s] English:** я никогда не сужу людей, которых играю.  
+**[7341.96s] English:** I never judge the people I play.  
 **Translation:** 
 
-**[7345.48s] English:** И люди, которых я играл, или любой другой актер, не обязательно видят себя как какой-то ярлык.  
+**[7345.48s] English:** People, whom I played or any other actor, do not necessarily see themselves as some label.  
 **Translation:** 
 
-**[7355.14s] English:** Это легко сказать.  
+**[7355.14s] English:** This is easy to say.  
 **Translation:** 
 
-**[7357.70s] English:** Но я не могу так думать.  
-**Translation:** 
+**[7357.70s] English:** But I cannot think that way.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[7362.74s] English:** Я не могу судить персонажа, которого играю, и играть ему хорошо.  
+**[7362.74s] English:** I cannot judge the character I am playing, and yet I can play him well.  
 **Translation:** 
 
-**[7367.98s] English:** Я должен быть свободен от суждений.  
-**Translation:** 
+**[7367.98s] English:** I should be free from judgments.  
+**Translation:** Vocabulary: judgments: 评判
 
-**[7371.14s] English:** Я должен их просто играть.  
+**[7371.14s] English:** I should just play them.  
 **Translation:** 
 
-**[7372.66s] English:** И пусть карта ляжет, как придется.  
+**[7372.66s] English:** Let the map lie as it will.  
 **Translation:** 
 
-**[7375.48s] English:** И пусть аудитория судит.  
+**[7375.48s] English:** Let the audience judge.  
 **Translation:** 
 
-**[7377.80s] English:** То, что ты используешь это слово, вполне нормально.  
+**[7377.80s] English:** That you are using this word is perfectly normal.  
 **Translation:** 
 
-**[7380.38s] English:** Это твое, знаешь.  
+**[7380.38s] English:** This is yours, you know.  
 **Translation:** 
 
-**[7381.92s] English:** Но когда люди спрашивают меня, действительно ли я с планеты Капекс,  
+**[7381.92s] English:** But when people ask me whether I am from the planet Kapeks,  
 **Translation:** 
 
-**[7385.70s] English:** это зависит лишь от того, как вы на это смотрите.  
+**[7385.70s] English:** This depends only on how you look at it.  
 **Translation:** 
 
-**[7390.32s] English:** Играть роли.  
+**[7390.32s] English:** Play roles.  
 **Translation:** 
 
-**[7393.06s] English:** Такие, как Сем Фрэнк Андервуд,  
+**[7393.06s] English:** Such as Sam Frank Underwood,  
 **Translation:** 
 
-**[7397.78s] English:** как Лестер из «Красоты по-американски».  
-**Translation:** 
+**[7397.78s] English:** From "Beauty and the Beast," as Lester.  
+**Translation:** Vocabulary: lester: 莱斯特; underwood: 安德伍德
 
-**[7402.04s] English:** Меняют ли они вас психологически, как человека?  
+**[7402.04s] English:** Do they change you psychologically, as a person?  
 **Translation:** 
 
-**[7405.48s] English:** Ходить в шкуре этих персонажей,  
-**Translation:** 
+**[7405.48s] English:** To walk in the skin of these characters,  
+**Translation:** Vocabulary: psychologically: 心理上
 
-**[7410.48s] English:** этих сложных персонажей с очень разными моральными системами.  
+**[7410.48s] English:** These complex characters with very different moral systems.  
 **Translation:** 
 
-**[7421.72s] English:** Я абсолютно убежден, что блуждание  
+**[7421.72s] English:** I am absolutely convinced that wandering  
 **Translation:** 
 
-**[7424.80s] English:** в чужих идеях, в чужой одежде,  
+**[7424.80s] English:** In other people's ideas, in foreign clothing,  
 **Translation:** 
 
-**[7429.70s] English:** в чужой обуви,  
+**[7429.70s] English:** In someone else's shoes,  
 **Translation:** 
 
-**[7435.48s] English:** прививает колоссальную эмпатию.  
+**[7435.48s] English:** It instills a colossal empathy.  
 **Translation:** 
 
-**[7440.00s] English:** И проникает в сердце непринятие осуждений.  
-**Translation:** 
+**[7440.00s] English:** And it penetrates the heart with the rejection of judgments.  
+**Translation:** Vocabulary: colossal: 巨大的; empathy: 共情; instills: 灌输; penetrates: 穿透; rejection: 拒绝
 
-**[7444.66s] English:** И я обнаружил, что был крайне тронут.  
+**[7444.66s] English:** I found myself extremely moved.  
 **Translation:** 
 
-**[7449.36s] English:** Послушайте, да, вы выделили темных персонажей,  
-**Translation:** 
+**[7449.36s] English:** Listen, yes, you have highlighted the dark characters,  
+**Translation:** Vocabulary: highlighted: 强调了
 
-**[7454.92s] English:** но я играл Кларенса Дарроу трижды.  
+**[7454.92s] English:** I played Clarence Darrow three times.  
 **Translation:** 
 
-**[7459.14s] English:** Играл в пьесе под названием «Национальный гимн»,  
-**Translation:** 
+**[7459.14s] English:** Played in a play called "National Anthem",  
+**Translation:** Vocabulary: anthem: 国歌; darrow: 大法官
 
-**[7461.54s] English:** снимался в таких фильмах, как «Пересчет», «Осторожно, заложник».  
+**[7461.54s] English:** He has appeared in such films as "Perecashto," "Caution, Hostage.  
 **Translation:** 
 
-**[7464.98s] English:** Я снимался в фильмах, в которых нет ни одного такого персонажа.  
-**Translation:** 
+**[7464.98s] English:** I have never been in a film with a character like that.  
+**Translation:** Vocabulary: perecashto: 电影《 Perecashto 》
 
-**[7470.00s] English:** С такими качествами.  
+**[7470.00s] English:** With such qualities.  
 **Translation:** 
 
-**[7470.94s] English:** Заплати другому.  
+**[7470.94s] English:** Pay the other one.  
 **Translation:** 
 
-**[7475.76s] English:** Так что это невероятно,  
+**[7475.76s] English:** So, that's incredible.  
 **Translation:** 
 
-**[7480.44s] English:** быть способным принимать то, чем я восхищаюсь,  
-**Translation:** 
+**[7480.44s] English:** To be able to embrace what I admire,  
+**Translation:** Vocabulary: embrace: 接纳
 
-**[7486.60s] English:** и что на меня похоже,  
+**[7486.60s] English:** And what does it resemble me?  
 **Translation:** 
 
-**[7487.90s] English:** и то, чем я не восхищаюсь, и что не похоже на меня.  
+**[7487.90s] English:** And that, which I am not impressed by, and that does not resemble me.  
 **Translation:** 
 
-**[7491.46s] English:** Но я должен поставить их в равные условия и сказать,  
+**[7491.46s] English:** But I must put them on an equal footing and say,  
 **Translation:** 
 
-**[7495.22s] English:** я должен просто отыгрывать их как можно лучше.  
-**Translation:** 
+**[7495.22s] English:** I should just play them as well as possible.  
+**Translation:** Vocabulary: footing: 地位
 
-**[7499.32s] English:** И...  
+**[7499.32s] English:** And...  
 **Translation:** 
 
-**[7500.00s] English:** И не решать, как судить их.  
+**[7500.00s] English:** And do not decide how to judge them.  
 **Translation:** 
 
-**[7506.22s] English:** Без суждения.  
+**[7506.22s] English:** Without judgment.  
 **Translation:** 
 
-**[7507.60s] English:** Без осуждения.  
+**[7507.60s] English:** Without judgment.  
 **Translation:** 
 
-**[7509.10s] English:** В архипелаге «ГУЛАГ»  
+**[7509.10s] English:** In the archipelago "GULAG  
 **Translation:** 
 
-**[7512.52s] English:** Александр Солженицын пишет знаменитые строки между добром и злом,  
-**Translation:** 
+**[7512.52s] English:** Alexander Solzhenitsyn writes famous lines between good and evil,  
+**Translation:** Vocabulary: archipelago: 群岛; solzhenitsyn: 索尔仁尼琴
 
-**[7516.48s] English:** и что она проходит через сердце каждого человека.  
+**[7516.48s] English:** And what she goes through is felt in the heart of every person.  
 **Translation:** 
 
-**[7519.16s] English:** Вот как звучит цитата целиком, когда он говорит об этой линии.  
+**[7519.16s] English:** Here is how the quote sounds in full when he talks about this line.  
 **Translation:** 
 
-**[7526.44s] English:** «В течение жизни одного сердца» —  
+**[7526.44s] English:** During the Life of One Heart"—  
 **Translation:** 
 
-**[7529.68s] English:** «Эта линия перемещается на нем,  
+**[7529.68s] English:** This line moves along it.  
 **Translation:** 
 
-**[7532.16s] English:** то теснимая радостным злом,  
+**[7532.16s] English:** That tightens with joyful evil,  
 **Translation:** 
 
-**[7534.24s] English:** то освобождая пространство расцветающему добру».  
-**Translation:** 
+**[7534.24s] English:** Thus, freeing space for blossoming good.  
+**Translation:** Vocabulary: blossoming: 绽放; tightens: 收紧
 
-**[7538.40s] English:** Один и тот же человек бывает в свои разные возрасты,  
+**[7538.40s] English:** One and the same person is different in various ages,  
 **Translation:** 
 
-**[7542.94s] English:** в разных жизненных положениях,  
+**[7542.94s] English:** In different life situations,  
 **Translation:** 
 
-**[7545.22s] English:** совсем разным человеком.  
+**[7545.22s] English:** Completely different person.  
 **Translation:** 
 
-**[7547.24s] English:** То к дьяволу близко,  
+**[7547.24s] English:** To hell with it,  
 **Translation:** 
 
-**[7549.40s] English:** то и к святому.  
+**[7549.40s] English:** To and keep it to the圣人.  
 **Translation:** 
 
-**[7551.70s] English:** А имя не меняется,  
+**[7551.70s] English:** The name does not change,  
 **Translation:** 
 
-**[7553.84s] English:** и ему мы приписываем все — добро и зло.  
+**[7553.84s] English:** And to him, we attribute all—good and evil.  
 **Translation:** 
 
-**[7558.18s] English:** Что вы думаете об этой цитате?  
-**Translation:** 
+**[7558.18s] English:** What do you think about this quote?  
+**Translation:** Vocabulary: attribute: 归因
 
-**[7559.68s] English:** Цитата.  
+**[7559.68s] English:** Quote.  
 **Translation:** 
 
-**[7559.96s] English:** Цитата.  
+**[7559.96s] English:** Quote.  
 **Translation:** 
 
-**[7561.00s] English:** что все мы способны на добро и зло,  
+**[7561.00s] English:** What we all are capable of good and evil,  
 **Translation:** 
 
-**[7564.14s] English:** и что на протяжении жизни эта линия меняется и перемещается с каждым днем и каждым часом.  
+**[7564.14s] English:** And what happens is that this line changes and moves with each day and each hour of life.  
 **Translation:** 
 
-**[7571.92s] English:** Да, хочу сказать, что одна из вещей, на которой я сосредоточен,  
+**[7571.92s] English:** Yes, I want to say that one of the things on which I am focused,  
 **Translation:** 
 
-**[7577.16s] English:** очень лаконично, это идея, что каждый день это возможность.  
-**Translation:** 
+**[7577.16s] English:** Very concisely, the idea is that every day is an opportunity.  
+**Translation:** Vocabulary: concisely: 简要地
 
-**[7584.58s] English:** Это возможность,  
+**[7584.58s] English:** This is an opportunity,  
 **Translation:** 
 
-**[7586.26s] English:** возможность, чтобы принять наилучшие решения, чтобы учиться и чтобы расти.  
+**[7586.26s] English:** The possibility to make the best decisions, to learn, and to grow.  
 **Translation:** 
 
-**[7599.26s] English:** К тому же, я думаю, что...  
+**[7599.26s] English:** Additionally, I think that...  
 **Translation:** 
 
-**[7602.26s] English:** Послушайте, я вырос, не зная, любят ли меня родители,  
-**Translation:** 
+**[7602.26s] English:** Listen, I grew up not knowing if my parents loved me.  
+**Translation:** Vocabulary: additionally: 另外
 
-**[7610.06s] English:** в особенности мой отец.  
+**[7610.06s] English:** In particular, my father.  
 **Translation:** 
 
-**[7615.26s] English:** Я никогда не был родителем.  
+**[7615.26s] English:** I have never been a parent.  
 **Translation:** 
 
-**[7616.26s] English:** Я никогда не чувствовал, что меня любят.  
+**[7616.26s] English:** I have never felt that I am loved.  
 **Translation:** 
 
-**[7619.88s] English:** И это осталось со мной на всю жизнь.  
+**[7619.88s] English:** And this stayed with me for my entire life.  
 **Translation:** 
 
-**[7625.18s] English:** И когда я вспоминаю, кем был мой отец,  
+**[7625.18s] English:** When I remember who my father was,  
 **Translation:** 
 
-**[7632.50s] English:** и, если более кратко, кем он стал,  
+**[7632.50s] English:** And if more briefly, who he became,  
 **Translation:** 
 
-**[7635.30s] English:** то это было постепенное и медленное и печальное время.  
+**[7635.30s] English:** That was a gradual, slow, and sad time.  
 **Translation:** 
 
-**[7646.26s] English:** Развитие.  
-**Translation:** 
+**[7646.26s] English:** Development.  
+**Translation:** Vocabulary: gradual: 逐渐的
 
-**[7650.30s] English:** Когда я оглядываюсь и просматриваю дневники, которые вел мой отец,  
+**[7650.30s] English:** When I look back and review the diaries my father kept,  
 **Translation:** 
 
-**[7655.18s] English:** и альбомы, которые он хранил, особенно когда он был медиком в армии США,  
+**[7655.18s] English:** And the albums he kept, especially when he was a medic in the U.S. Army,  
 **Translation:** 
 
-**[7662.26s] English:** служил нашей стране с отличием.  
+**[7662.26s] English:** Served our country with distinction.  
 **Translation:** 
 
-**[7666.26s] English:** Когда война закончилась, и они поехали в Германию,  
+**[7666.26s] English:** When the war ended, and they went to Germany,  
 **Translation:** 
 
-**[7670.26s] English:** то, что говорил мой отец, то, что он писал, и то, во что он верил,  
+**[7670.26s] English:** That which my father said, that which he wrote, and that which he believed,  
 **Translation:** 
 
-**[7675.26s] English:** было столь же патриотичным, как и у любого служившего солдата.  
-**Translation:** 
+**[7675.26s] English:** It was just as patriotic as that of any serving soldier.  
+**Translation:** Vocabulary: patriotic: 爱国的
 
-**[7679.30s] English:** Продолжение следует...  
+**[7679.30s] English:** To be continued...  
 **Translation:** 
 
-**[7680.00s] English:** Но потом, вернувшись в Америку, он мечтал стать журналистом  
+**[7680.00s] English:** But then, upon returning to America, he dreamed of becoming a journalist.  
 **Translation:** 
 
-**[7687.36s] English:** Или же его большой надеждой было стать великим американским романистом  
+**[7687.36s] English:** Or perhaps his great hope was to become a great American novelist.  
 **Translation:** 
 
-**[7693.48s] English:** Хотел стать креативным автором, поэтому сидел у себя в кабинете и писал  
-**Translation:** 
+**[7693.48s] English:** I wanted to become a creative author, so I sat in my office and wrote.  
+**Translation:** Vocabulary: novelist: 小说家
 
-**[7698.40s] English:** 45 лет  
+**[7698.40s] English:** 45 years  
 **Translation:** 
 
-**[7701.26s] English:** Но так ничего не опубликовал  
+**[7701.26s] English:** But he published nothing.  
 **Translation:** 
 
-**[7704.98s] English:** И где-то на полпути, чтобы подзаработать денег, он  
+**[7704.98s] English:** Somewhere along the way, to earn some extra money, he  
 **Translation:** 
 
-**[7710.44s] English:** Стал тем, кого называют техническим автором  
+**[7710.44s] English:** Became known as the technical author.  
 **Translation:** 
 
-**[7714.84s] English:** Что лучше всего описать как  
+**[7714.84s] English:** What is best described as  
 **Translation:** 
 
-**[7718.46s] English:** Вот если вы строите самолет, F-16  
+**[7718.46s] English:** Here, if you are building an airplane, F-16  
 **Translation:** 
 
-**[7721.46s] English:** То мой отец написал бы руководство, как это сделать  
+**[7721.46s] English:** To be honest, my father would have written a guide on how to do it.  
 **Translation:** 
 
-**[7724.96s] English:** Настолько скучно, технично и сухо, насколько можно представить  
-**Translation:** 
+**[7724.96s] English:** So technically and枯燥得如此之彻底，以至于难以想象  
+**Translation:** Vocabulary: technically: 理论上
 
-**[7729.74s] English:** И вот где-то в 60-х  
+**[7729.74s] English:** And there they were somewhere in the 1960s.  
 **Translation:** 
 
-**[7733.52s] English:** 60-х  
+**[7733.52s] English:** 60's  
 **Translation:** 
 
-**[7734.98s] English:** И в 70-х  
+**[7734.98s] English:** In the 1970s,  
 **Translation:** 
 
-**[7737.56s] English:** Отец стал общаться с группами и отдельными людьми  
+**[7737.56s] English:** Father began communicating with groups and individual people.  
 **Translation:** 
 
-**[7741.78s] English:** Псевдоинтеллектуалами  
+**[7741.78s] English:** Pseudo-intellectuals,  
 **Translation:** 
 
-**[7743.74s] English:** Которые стали обосновывать  
+**[7743.74s] English:** Which became justified  
 **Translation:** 
 
-**[7746.64s] English:** Почему он не достиг успеха, как белый арийский мужчина в США  
+**[7746.64s] English:** Why didn't he achieve success as a white Aryan man in the USA?  
 **Translation:** 
 
-**[7752.52s] English:** И со временем мой отец  
-**Translation:** 
+**[7752.52s] English:** And over time, my father  
+**Translation:** Vocabulary: aryan: 雅利安人
 
-**[7756.90s] English:** Стал белым супрематистом  
+**[7756.90s] English:** Stal became a white suprematist.  
 **Translation:** 
 
-**[7764.98s] English:** И я не могу поведать, сколько раз  
+**[7764.98s] English:** I cannot tell you how many times  
 **Translation:** 
 
-**[7769.42s] English:** Будучи ребенком, мой отец  
+**[7769.42s] English:** Being a child, my father  
 **Translation:** 
 
-**[7772.08s] English:** Усаживал меня  
+**[7772.08s] English:** Us seating me  
 **Translation:** 
 
-**[7774.64s] English:** И поучал часами  
+**[7774.64s] English:** He taught for hours.  
 **Translation:** 
 
-**[7776.82s] English:** Часами и часами  
+**[7776.82s] English:** Hours and hours.  
 **Translation:** 
 
-**[7781.02s] English:** О своих  
+**[7781.02s] English:** Of my own, I will keep it brief.  
 **Translation:** 
 
-**[7782.92s] English:** Конченных идеях  
+**[7782.92s] English:** Konchenkhnykh idey.  
 **Translation:** 
 
-**[7786.50s] English:** Об Америке  
+**[7786.50s] English:** About America.  
 **Translation:** 
 
-**[7788.20s] English:** О предрассудках  
-**Translation:** 
+**[7788.20s] English:** On Prejudices  
+**Translation:** Vocabulary: prejudices: 偏见
 
-**[7789.72s] English:** И превосходстве белых  
+**[7789.72s] English:** In their superiority, whites  
 **Translation:** 
 
-**[7792.30s] English:** И благослови Бог мою сестру, говорив,  
-**Translation:** 
+**[7792.30s] English:** And bless God my sister, who said,  
+**Translation:** Vocabulary: superiority: 优势
 
-**[7794.98s] English:** Не слушай его, у него ум зашел за разум  
+**[7794.98s] English:** Do not listen to him; his mind has gone beyond reason.  
 **Translation:** 
 
-**[7800.00s] English:** В детстве мой отец сажал меня, и все, что он говорил, направлено было против людей, а я... я любил людей.  
+**[7800.00s] English:** In childhood, my father would plant me, and all that he said was directed against people, but I... I loved people.  
 **Translation:** 
 
-**[7809.52s] English:** У меня было много замечательных друзей.  
+**[7809.52s] English:** I had many wonderful friends.  
 **Translation:** 
 
-**[7813.44s] English:** Мой лучший друг Майк, который и по сей день мой лучший друг, я боялся приводить его к себе домой,  
+**[7813.44s] English:** My best friend Mike, who is still my best friend to this day, I was afraid to bring him home to my place,  
 **Translation:** 
 
-**[7821.06s] English:** приводить его к моей доме, ведь боялся, что мой отец узнает, что он еврей,  
+**[7821.06s] English:** Bring him to my house, for I was afraid that my father would find out he is Jewish.  
 **Translation:** 
 
-**[7827.80s] English:** или что мой отец оставит дверь в кабинет открытой, и кто-то увидит его нацистский флаг,  
+**[7827.80s] English:** Or that my father leaves the door to his office open, and someone sees his Nazi flag.  
 **Translation:** 
 
-**[7834.68s] English:** или его портрет Гитлера, или нацистские книги, или того, что он мог сказать.  
+**[7834.68s] English:** Or his portrait of Hitler, or Nazi books, or anything he might have said.  
 **Translation:** 
 
-**[7840.82s] English:** Так что...  
+**[7840.82s] English:** So...  
 **Translation:** 
 
-**[7844.62s] English:** Открывший для себя театр в восьмом классе,  
+**[7844.62s] English:** Opening the theater for myself in eighth grade,  
 **Translation:** 
 
-**[7851.06s] English:** и дискуссионный клуб, и хор, и фестивали, и спектакли,  
-**Translation:** 
+**[7851.06s] English:** And a discussion club, and a choir, and festivals, and plays.  
+**Translation:** Vocabulary: eighth: 八年级
 
-**[7858.40s] English:** все, что я мог делать, чтобы где-то участвовать, лишь бы не возвращаться домой,  
+**[7858.40s] English:** All that I could do was to participate somewhere and not go home.  
 **Translation:** 
 
-**[7866.26s] English:** я делал.  
+**[7866.26s] English:** I did.  
 **Translation:** 
 
-**[7873.98s] English:** И...  
+**[7873.98s] English:** And...  
 **Translation:** 
 
-**[7874.94s] English:** мне пришлось примириться с тем, кем он стал.  
+**[7874.94s] English:** I had to come to terms with who he became.  
 **Translation:** 
 
-**[7881.06s] English:** Потому что пропасть между человеком, служившим в армии США как медик,  
+**[7881.06s] English:** Because there is a gap between someone who served in the U.S. Army as a medic and...  
 **Translation:** 
 
-**[7886.60s] English:** и тем, кем он стал,  
+**[7886.60s] English:** And what he became,  
 **Translation:** 
 
-**[7890.28s] English:** я никогда не смогу заполнить.  
+**[7890.28s] English:** I will never be able to fill in.  
 **Translation:** 
 
-**[7894.98s] English:** Но...  
+**[7894.98s] English:** But...  
 **Translation:** 
 
-**[7895.50s] English:** я простил его.  
+**[7895.50s] English:** I forgave him.  
 **Translation:** 
 
-**[7900.90s] English:** Но в то же время я должен посмотреть на свою мать и сказать,  
-**Translation:** 
+**[7900.90s] English:** But at the same time, I must look at my mother and say,  
+**Translation:** Vocabulary: forgave: 原谅了
 
-**[7905.94s] English:** что она оправдывала его.  
+**[7905.94s] English:** That she justified him.  
 **Translation:** 
 
-**[7909.22s] English:** Ему просто нужно выговориться, неважно,  
+**[7909.22s] English:** He just needs to get it off his chest, it doesn't matter,  
 **Translation:** 
 
-**[7911.06s] English:** просто пусть говорит.  
+**[7911.06s] English:** Just let him speak.  
 **Translation:** 
 
-**[7915.38s] English:** Всем окружающим я говорил, да, конечно, мама любит меня.  
+**[7915.38s] English:** I told everyone around me, yes, of course, Mom loves me.  
 **Translation:** 
 
-**[7920.00s] English:** Но она меня не защитила.  
+**[7920.00s] English:** But she did not protect me.  
 **Translation:** 
 
-**[7926.56s] English:** Так что, все, что она выражала, все внимание и вся любовь, которую я чувствовал, было ли это потому, что я стал успешным, и я смог заполнить пустоту, с которой она жила всю свою совместную жизнь с ним?  
+**[7926.56s] English:** So, all the attention and love that she expressed, and all the affection I felt—was it because I had become successful and was able to fill the void in her life that she lived through with him?  
 **Translation:** 
 
-**[7944.90s] English:** Я не знаю, но мне пришлось задавать себе эти вопросы за прошедшие годы, чтобы попытаться примириться самому.  
+**[7944.90s] English:** I don't know, but over the past few years, I've had to ask myself these questions in an attempt to reconcile with myself.  
 **Translation:** 
 
-**[7960.36s] English:** И то, что вы хотели от них и для них меньше ненависти и больше любви.  
-**Translation:** 
+**[7960.36s] English:** And that is what you wanted for them — less hatred and more love.  
+**Translation:** Vocabulary: reconcile: 和解
 
-**[7968.12s] English:** Говорил ли отец, что любит вас?  
+**[7968.12s] English:** Did your father say that he loves you?  
 **Translation:** 
 
-**[7970.46s] English:** У меня нет об этом воспоминаний.  
+**[7970.46s] English:** I don't have any memories of that.  
 **Translation:** 
 
-**[7972.32s] English:** Как-то я участвовал в программе, и нам показывали эксперимент, который они проводили с психологами, матерями, отцами и их детьми до года.  
+**[7972.32s] English:** Sometimes I participated in a program where they showed us an experiment they were conducting with psychologists, mothers, fathers, and their infants under one year of age.  
 **Translation:** 
 
-**[7987.10s] English:** Сидели в маленькой кроватке, и упражнение было следующим.  
-**Translation:** 
+**[7987.10s] English:** We sat in the small crib, and the exercise was as follows.  
+**Translation:** Vocabulary: conducting: 进行; infants: 婴儿
 
-**[7991.52s] English:** Родители играют с ребенком, прямо там, игрушки и так дальше, и ребенок смеется, а потом психолог говорит «стоп», и родитель делает вот так.  
+**[7991.52s] English:** Parents play with a child right there, surrounded by toys and so on, and the child laughs. Then the psychologist says "stop," and the parent does this.  
 **Translation:** 
 
-**[8002.32s] English:** И потом вы наблюдаете следующие две с половиной-три минуты, как этот ребенок пытается привлечь внимание родителей, любым возможным способом.  
+**[8002.32s] English:** Then you observe the next two and a half to three minutes as this child tries to attract their parents' attention in any possible way.  
 **Translation:** 
 
-**[8014.86s] English:** И я помню, как я сидел в этом театре, глядя на все это, и видел себя.  
+**[8014.86s] English:** I remember sitting in that theater, watching it all, and seeing myself.  
 **Translation:** 
 
-**[8023.84s] English:** Это был я, кричащий и тянущийся, чтобы получить внимание.  
+**[8023.84s] English:** This was me, crying out and reaching out to get attention.  
 **Translation:** 
 
-**[8030.14s] English:** Это было нечто...  
+**[8030.14s] English:** This was something...  
 **Translation:** 
 
-**[8032.32s] English:** Чего я никогда раньше не помнил, но я знал, через что проходит этот ребенок.  
+**[8032.32s] English:** What I never remembered before, but I know what this child goes through.  
 **Translation:** 
 
-**[8040.00s] English:** есть ли элементы политики или из частного сектора,  
+**[8040.00s] English:** Is there any element from politics or the private sector?  
 **Translation:** 
 
-**[8048.22s] English:** которые отображаются в карточном домике?  
+**[8048.22s] English:** Which ones are displayed in the card house?  
 **Translation:** 
 
-**[8052.94s] English:** Насколько это близко к правде,  
+**[8052.94s] English:** How close is this to the truth?  
 **Translation:** 
 
-**[8055.00s] English:** если брать виденное вами в политике,  
+**[8055.00s] English:** If you consider what you have seen in politics,  
 **Translation:** 
 
-**[8058.58s] English:** исходя из всего, что вы видели о политиках,  
+**[8058.58s] English:** Based on everything you've seen about the politicians,  
 **Translation:** 
 
-**[8063.30s] English:** в частности, на этих выборах?  
+**[8063.30s] English:** In particular, on these elections?  
 **Translation:** 
 
-**[8066.12s] English:** Я слышал столько разных отзывов,  
+**[8066.12s] English:** I've heard so many different reviews,  
 **Translation:** 
 
-**[8070.00s] English:** от политиков про карточный домик.  
+**[8070.00s] English:** From politicians about the card house.  
 **Translation:** 
 
-**[8073.00s] English:** Некоторые говорили, «О, все совсем не так»,  
+**[8073.00s] English:** Some said, "Oh, it's not like that at all.  
 **Translation:** 
 
-**[8075.58s] English:** а другие говорили, «Он ближе к правде, чем кто-либо хочет признать».  
+**[8075.58s] English:** Others said, "He is closer to the truth than anyone wants to admit.  
 **Translation:** 
 
-**[8080.76s] English:** И я думаю, что я склоняюсь к этой мысли.  
+**[8080.76s] English:** I think I lean towards that idea.  
 **Translation:** 
 
-**[8085.18s] English:** Мне предстоит взять интервью у мировых лидеров,  
+**[8085.18s] English:** I am set to interview world leaders,  
 **Translation:** 
 
-**[8093.78s] English:** у крупных политиков,  
+**[8093.78s] English:** For large politicians,  
 **Translation:** 
 
-**[8097.60s] English:** с вашим познанием,  
+**[8097.60s] English:** With your knowledge,  
 **Translation:** 
 
-**[8099.54s] English:** кто такой Фрэнк Андервуд.  
+**[8099.54s] English:** Who is Frank Underwood.  
 **Translation:** 
 
-**[8101.96s] English:** Какой бы совет вы дали для интервью с ним?  
+**[8101.96s] English:** What advice would you give for an interview with him?  
 **Translation:** 
 
-**[8108.02s] English:** Как заставить сказать его хоть что-то честное?  
+**[8108.02s] English:** How can I make him say at least something honest?  
 **Translation:** 
 
-**[8112.28s] English:** В случае с Фрэнком, нужно сказать ему посмотреть в камеру,  
+**[8112.28s] English:** In the case of Frank, we need to tell him to look into the camera.  
 **Translation:** 
 
-**[8114.96s] English:** и он расскажет то, что вы хотите услышать.  
+**[8114.96s] English:** And he will tell you what you want to hear.  
 **Translation:** 
 
-**[8117.64s] English:** В этом-то и секрет.  
+**[8117.64s] English:** This is the secret.  
 **Translation:** 
 
-**[8118.92s] English:** К сожалению, в реальной жизни нельзя заглянуть в разум человека,  
+**[8118.92s] English:** Unfortunately, in real life, we cannot peek into a person's mind.  
 **Translation:** 
 
-**[8123.24s] English:** как это делает Фрэнк Андервуд.  
+**[8123.24s] English:** How does Frank Underwood do this.  
 **Translation:** 
 
-**[8126.00s] English:** К сожалению.  
+**[8126.00s] English:** Unfortunately.  
 **Translation:** 
 
-**[8126.54s] English:** Ну, вы можете сказать кому-то,  
+**[8126.54s] English:** Nu, you can tell someone,  
 **Translation:** 
 
-**[8129.22s] English:** «Вот,  
+**[8129.22s] English:** Here,  
 **Translation:** 
 
-**[8129.54s] English:** вам нравится сериал «Карточный домик»,  
+**[8129.54s] English:** You like the show "House of Cards",  
 **Translation:** 
 
-**[8131.56s] English:** я бы хотел, чтобы вы посмотрели в камеру и  
+**[8131.56s] English:** I would like you to look into the camera and  
 **Translation:** 
 
-**[8133.70s] English:** рассказали нам, что на самом деле происходит,  
+**[8133.70s] English:** They told us what is actually happening,  
 **Translation:** 
 
-**[8136.70s] English:** что вы реально чувствуете, и бла-бла-бла».  
+**[8136.70s] English:** What you really feel," and blah-blah-blah.  
 **Translation:** 
 
-**[8139.50s] English:** Это хорошая техника.  
+**[8139.50s] English:** This is good technique.  
 **Translation:** 
 
-**[8141.12s] English:** Я попробую это с Зеленским и с Путиным.  
+**[8141.12s] English:** I will try this with Zelensky and Putin.  
 **Translation:** 
 
-**[8146.52s] English:** Какое вы надеетесь оставить наследие,  
-**Translation:** 
+**[8146.52s] English:** What legacy do you hope to leave?  
+**Translation:** Vocabulary: zelensky: 泽连斯基
 
-**[8149.38s] English:** как актер и как человек?  
+**[8149.38s] English:** As an actor and as a person?  
 **Translation:** 
 
-**[8152.02s] English:** Сейчас меня спрашивают,  
+**[8152.02s] English:** Now I am being asked,  
 **Translation:** 
 
-**[8154.68s] English:** какое ваше самое любимое выступление?  
+**[8154.68s] English:** What is your favorite performance?  
 **Translation:** 
 
-**[8158.54s] English:** Они говорят, что это «Карточный домик».  
+**[8158.54s] English:** They say it's "The Handmaid's Tale".  
 **Translation:** 
 
-**[8159.52s] English:** Я отвечаю, что это «Карточный домик».  
+**[8159.52s] English:** I answer that it is "Card House".  
 **Translation:** 
 
-**[8160.50s] English:** Я не знаю, что это.  
+**[8160.00s] English:** I think he is not here yet.  
 **Translation:** 
 
-**[8161.48s] English:** Если бы я поднялся к странам,  
+**[8160.50s] English:** I don't know what this is.  
 **Translation:** 
 
-**[8162.62s] English:** я бы не был таким,  
+**[8161.48s] English:** If I were to rise to the countries,  
 **Translation:** 
 
-**[8169.56s] English:** но я бы так боялся,  
+**[8162.62s] English:** I would not be like this,  
 **Translation:** 
 
-**[8172.26s] English:** потому что я уже наукой.  
+**[8164.18s] English:** Therefore, I still need many things to challenge and inspire myself.  
 **Translation:** 
 
-**[8182.92s] English:** Это кто?  
+**[8169.56s] English:** But I would be so afraid,  
 **Translation:** 
 
-**[8188.60s] English:** Яindom kicked out.  
+**[8172.26s] English:** Because I am already a scientist.  
 **Translation:** 
 
-**[8189.04s] English:** Это кто?  
+**[8178.26s] English:** I don't know much.  
 **Translation:** 
 
-**[8189.12s] English:** Это я.  
+**[8182.16s] English:** Many things need to be learned.  
 **Translation:** 
 
-**[8160.00s] English:** Я считаю, его пока нет.  
+**[8182.92s] English:** Who is this?  
 **Translation:** 
 
-**[8164.18s] English:** Поэтому мне еще много чего нужно, чтобы бросить вызов и вдохновиться.  
+**[8183.52s] English:** I am in a very inspiring place.  
 **Translation:** 
 
-**[8178.26s] English:** Многого я не знаю.  
+**[8188.60s] English:** Indom kicked out.  
 **Translation:** 
 
-**[8182.16s] English:** Многому нужно научиться.  
+**[8189.04s] English:** Who is this?  
 **Translation:** 
 
-**[8183.52s] English:** И я нахожусь в очень вдохновляющем месте.  
+**[8189.12s] English:** This is me.  
 **Translation:** 
 
-**[8194.08s] English:** Знаете, это интересно, ведь мы вспоминали, говорили, и приятно порой вспомнить прошлое.  
-**Translation:** 
+**[8194.08s] English:** Know that this is interesting, for we have been recalling and talking, and it's pleasant to sometimes remember the past.  
+**Translation:** Vocabulary: recalling: 回忆
 
-**[8204.64s] English:** Но я сосредоточен на том, что дальше.  
+**[8204.64s] English:** But I am focused on what comes next.  
 **Translation:** 
 
-**[8210.00s] English:** Надеетесь ли вы, что мир вас простит?  
+**[8210.00s] English:** Do you hope that the world will forgive you?  
 **Translation:** 
 
-**[8213.52s] English:** Надеетесь ли вы, что мир вас простит?  
+**[8213.52s] English:** Do you hope that the world will forgive you?  
 **Translation:** 
 
-**[8217.68s] English:** Люди ходят в церковь каждую неделю, чтобы их простили.  
-**Translation:** 
+**[8217.68s] English:** People go to church every week to be forgiven.  
+**Translation:** Vocabulary: forgiven: 被原谅
 
-**[8223.76s] English:** И я верю, что прощение и верю, что искупление – это прекрасные вещи.  
+**[8223.76s] English:** I believe that forgiveness and redemption are wonderful things.  
 **Translation:** 
 
-**[8228.94s] English:** Не забывайте, что я вращаюсь в индустрии,  
-**Translation:** 
+**[8228.94s] English:** Do not forget that I am in the industry,  
+**Translation:** Vocabulary: redemption: 宽恕
 
-**[8233.66s] English:** где ведется непомерное количество разговоров об искуплении,  
+**[8233.66s] English:** Where there is an excessive amount of talk about redemption,  
 **Translation:** 
 
-**[8238.46s] English:** многими людьми, занимающими очень серьезные посты.  
-**Translation:** 
+**[8238.46s] English:** By many people holding very serious positions.  
+**Translation:** Vocabulary: excessive: 过多的
 
-**[8243.52s] English:** И которые верят в это.  
+**[8243.52s] English:** And those who believe in it.  
 **Translation:** 
 
-**[8246.24s] English:** Тот парень наконец-то вышел из тюрьмы, ошибочно обвиненный.  
+**[8246.24s] English:** That man finally got out of prison, wrongfully accused.  
 **Translation:** 
 
-**[8251.00s] English:** Он отсидел срок и вышел.  
+**[8251.00s] English:** He served his time and was released.  
 **Translation:** 
 
-**[8254.46s] English:** Мы видим стольких людей, говорящих, давайте наставим этого человека на путь.  
+**[8254.46s] English:** We see so many people speaking; let's guide this person onto the right path.  
 **Translation:** 
 
-**[8259.34s] English:** Давайте поможем ему вернуться в общество.  
+**[8259.34s] English:** Let's help him return to society.  
 **Translation:** 
 
-**[8263.60s] English:** Но странность ситуации в том, что если вы в индустрии развлечения,  
-**Translation:** 
+**[8263.60s] English:** But the strangeness of the situation is that if you are in the entertainment industry,  
+**Translation:** Vocabulary: strangeness: 奇怪之处
 
-**[8269.14s] English:** то вам не предлагают такой путь.  
+**[8269.14s] English:** That is not a path offered to you.  
 **Translation:** 
 
-**[8272.26s] English:** Я надеюсь, что...  
+**[8272.26s] English:** I hope that...  
 **Translation:** 
 
-**[8273.52s] English:** Страх, который люди испытывают, в конечном итоге...  
+**[8273.52s] English:** Fear that people experience ultimately...  
 **Translation:** 
 
-**[8280.00s] English:** утихнет и здравый смысл снова займет свое место если это так то будет ли у  
+**[8280.00s] English:** If it calms down, and sound reasoning takes its place, will there be...  
 **Translation:** 
 
-**[8287.80s] English:** вас по вашему шанс получить еще один оскар слушайте если это опять разозли  
+**[8287.80s] English:** Vas, according to your chances to get another Oscar, listen if this again angers you.  
 **Translation:** 
 
-**[8292.78s] English:** джека лемона что я выиграю в третий раз то безусловно думаю что да стоит снова  
-**Translation:** 
+**[8292.78s] English:** Jacka Lemon, that I win for a third time, that would undoubtedly be yes, I think it's worth doing again.  
+**Translation:** Vocabulary: angers: 使生气; oscar: 奥斯卡; undoubtedly: 无疑
 
-**[8298.36s] English:** его упомянуть знаете эрнест хемингуэй однажды сказал что мир прекрасное место  
+**[8298.36s] English:** He should be mentioned, you know, Ernest Hemingway once said that the world is a beautiful place.  
 **Translation:** 
 
-**[8303.34s] English:** и за него стоит бороться и я согласен с ним по обоим пунктам кевин спасибо  
-**Translation:** 
+**[8303.34s] English:** And for him, it's worth fighting for, and I agree with him on both points, Kevin. Thanks.  
+**Translation:** Vocabulary: ernest: 殷斯; hemingway: 海明威
 
-**[8309.74s] English:** большое за беседу благодарю спасибо что прослушали эту беседу с  
+**[8309.74s] English:** Thank you for the conversation. Thank you for listening to this conversation with  
 **Translation:** 
 
-**[8314.78s] English:** кевином спейси чтобы поддержать этот подкаст пожалуйста ознакомьтесь с  
+**[8314.78s] English:** Kevin Spacey, to support this podcast, please check out  
 **Translation:** 
 
-**[8318.20s] English:** нашими спонсорами а теперь позвольте мне оставить вас со словами мэрил стрип  
+**[8318.20s] English:** Our sponsors. Now, let me leave you with a word from Meryl Streep.  
 **Translation:** 
 
-**[8323.36s] English:** актерство это не значит быть все время кем-то другим это поиск общего и  
+**[8323.36s] English:** Acting is not about being someone else all the time; it's about finding the common ground.  
 **Translation:** 
 
-**[8328.78s] English:** знакомого в том что кажется другим кроме того ты всегда находишь это другое в  
+**[8328.78s] English:** It seems familiar to you, but besides that, you always find something else in it.  
 **Translation:** 
 
-**[8333.98s] English:** самом себе спасибо за прослушивание и надеюсь  
+**[8333.98s] English:** Самому себе спасибо за прослушивание, и надеюсь,  
 **Translation:** 
 
-**[8337.94s] English:** увидеть вас в следующий раз  
+**[8337.94s] English:** To see you next time  
 **Translation:** 
 
-**[8339.74s] English:** благодарю за прослушивание и надеюсь увидеть вас в следующий раз  
+**[8339.74s] English:** Thank you for listening, and I hope to see you next time.  
 **Translation:** 
 
 

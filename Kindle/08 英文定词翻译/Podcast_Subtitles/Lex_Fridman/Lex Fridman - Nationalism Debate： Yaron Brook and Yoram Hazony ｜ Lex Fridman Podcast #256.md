@@ -1,31 +1,32 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony ｜ Lex Fridman Podcast #256.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The following is a conversation with Yaron Brook and Yoram Hozoni.  
+**[0.00s] English:** The following is a conversation with Yaron Brook and Yoram Hozeni.  
 **Translation:** 
 
-**[4.36s] English:** This is Yaron's third time on this podcast and Yoram's first time.  
+**[4.36s] English:** This is Yaron's third time on this podcast, and Yoram's first time.  
 **Translation:** 
 
-**[9.88s] English:** Yaron Brook is an objectivist philosopher, chairman of the Ayn Rand Institute,  
+**[9.88s] English:** Yaron Brook is an Objectivist philosopher, chairman of the Ayn Rand Institute,  
 **Translation:** 
 
-**[15.00s] English:** host of the Yaron Brook Show, and the co-author of Free Market Revolution and Equal is Unfair.  
+**[15.00s] English:** Host of the Yaron Brook Show, and the co-author of "Free Market Revolution" and "Equal Is Unfair.  
 **Translation:** 
 
-**[22.46s] English:** Yaron Hozoni is a national conservatism thinker,  
+**[22.46s] English:** Yaron Horowitz is a National Conservatism thinker,  
 **Translation:** 
 
-**[25.68s] English:** chairman of the Edmund Burke Foundation that hosted the National Conservatism Conference.  
-**Translation:** Vocabulary: conservatism: 保守主义
+**[25.68s] English:** Chairman of the Edmund Burke Foundation, which hosted the National Conservatism Conference.  
+**Translation:** Vocabulary: conservatism: 保守主义; thinker: 思想家
 
-**[32.38s] English:** He is also the host of the NatCon Talk and author of The Virtue of Nationalism  
+**[32.38s] English:** He is also the host of the NatCon Talk, and author of "The Virtue of Nationalism.  
 **Translation:** 
 
-**[38.44s] English:** and an upcoming book called Conservatism, A Rediscovery.  
-**Translation:** Vocabulary: rediscovery: 重新发现; upcoming: 即将出版
+**[38.44s] English:** And an upcoming book called "Conservatism: A Rediscovery.  
+**Translation:** Vocabulary: rediscovery: 重新发现; upcoming: 即将出版; virtue: 美德
 
-**[44.04s] English:** Allow me to say a few words about each part of the two-word title of this episode,  
+**[44.04s] English:** Allow me to say a few words about each part of the two-word title of this episode.  
 **Translation:** 
 
 **[50.46s] English:** Nationalism Debate.  
@@ -37,28 +38,28 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[53.66s] English:** I would like to have a few conversations.  
 **Translation:** 
 
-**[55.68s] English:** I would like to have a few conversations this year that are a kind of debate with two or three people  
+**[55.68s] English:** I would like to have a few conversations this year that are a kind of debate, with two or three people.  
 **Translation:** 
 
-**[59.44s] English:** that hold differing views on a particular topic, but come to the table with respect for each other  
+**[59.44s] English:** That hold differing views on a particular topic, but come to the table with respect for each other.  
+**Translation:** Vocabulary: differing: 观点不同
+
+**[64.94s] English:** And a desire to learn and discover something interesting together.  
 **Translation:** 
 
-**[64.94s] English:** and a desire to learn and discover something interesting together  
-**Translation:** 
-
-**[69.40s] English:** through the empathetic exploration of the tension between their ideas.  
+**[69.40s] English:** Through the empathetic exploration of the tension between their ideas.  
 **Translation:** Vocabulary: empathetic: 换位思考的
 
-**[74.22s] English:** This is not strictly a debate.  
+**[74.22s] English:** This is not, strictly speaking, a debate.  
 **Translation:** 
 
 **[75.96s] English:** It is simply a conversation.  
-**Translation:** 
+**Translation:** Vocabulary: strictly: 严格地
 
 **[77.84s] English:** There is no structure.  
 **Translation:** 
 
-**[79.44s] English:** There are no winners, except, of course, just a bit of trash talking to keep it fun.  
+**[79.44s] English:** There are no winners, except, of course, just a bit of trash-talking to keep it fun.  
 **Translation:** 
 
 **[84.32s] English:** Some of these topics.  
@@ -70,500 +71,500 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[85.68s] English:** Some of these topics will be very difficult.  
 **Translation:** 
 
-**[87.30s] English:** And I hope you can keep an open mind and have patience with me  
+**[87.30s] English:** And I hope you can keep an open mind and have patience with me.  
 **Translation:** 
 
-**[90.02s] English:** as kind of moderator who tries to bring out the best in each person and the ideas discussed.  
+**[90.02s] English:** As a kind of moderator who tries to bring out the best in each person and the ideas discussed.  
 **Translation:** 
 
 **[96.96s] English:** Okay, that's my comment on the word debate.  
 **Translation:** Vocabulary: moderator: 主持人
 
-**[99.40s] English:** Now, on to the word nationalism.  
+**[99.40s] English:** Now, on to the word "nationalism.  
 **Translation:** 
 
-**[101.62s] English:** This debate could have been called nationalism versus individualism  
+**[101.62s] English:** This debate could have been called "nationalism versus individualism.  
+**Translation:** Vocabulary: individualism: 个人主义
+
+**[105.58s] English:** Or national conservatism versus individualism.  
 **Translation:** 
 
-**[105.58s] English:** or national conservatism versus individualism  
+**[109.24s] English:** Or just conservatism versus individualism.  
+**Translation:** Vocabulary: conservatism: 保守主义
+
+**[113.58s] English:** As we discuss in this episode:  
 **Translation:** 
 
-**[109.24s] English:** or just conservatism versus individualism.  
+**[115.50s] English:** These words have slightly different meanings, depending on who you ask.  
 **Translation:** 
 
-**[113.58s] English:** As we discuss in this episode,  
+**[119.16s] English:** This is....  
 **Translation:** 
 
-**[115.50s] English:** these words have slightly different meanings depending on who you ask.  
+**[120.00s] English:** Especially true, I think, for any word that ends in "-ism." I personally enjoy the discussion of  
 **Translation:** 
 
-**[119.16s] English:** This is...  
+**[125.92s] English:** The meaning of such philosophical words. I don't think it's possible to arrive at a perfect  
 **Translation:** 
 
-**[120.00s] English:** especially true, I think, for any word that ends in "-ism". I personally enjoy the discussion of  
-**Translation:** 
-
-**[125.92s] English:** the meaning of such philosophical words. I don't think it's possible to arrive at a perfect  
-**Translation:** 
-
-**[130.46s] English:** definition that everybody agrees with, but the process of trying to do so for a bit is interesting  
+**[130.46s] English:** Definition that everybody agrees with, but the process of trying to do so for a bit is interesting.  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[137.48s] English:** and productive, at least to me, as long as we don't get stuck there, as some folks sometimes do  
+**[137.48s] English:** And it's been both challenging and productive, at least to me, as long as we don't get stuck there, as some folks sometimes do.  
 **Translation:** 
 
-**[143.58s] English:** in these conversations. This is the Lex Friedman Podcast. To support it, please check out our  
+**[143.58s] English:** In these conversations, this is the Lex Friedman Podcast. To support it, please check out our  
 **Translation:** Vocabulary: friedman: 弗里德曼
 
-**[149.72s] English:** sponsors in the description. And now, here's my conversation with Yaron Brook and Yoram Hazoni.  
+**[149.72s] English:** Sponsors in the description. And now, here's my conversation with Yaron Brook and Yoram Hazan.  
 **Translation:** 
 
 **[156.84s] English:** I attended the excellent debate between the two of you yesterday at UT Austin. The debate was  
-**Translation:** Vocabulary: brook: 小溪; sponsors: 赞助商
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[162.06s] English:** between ideas of conservatism, represented by Yoram Hazoni, and ideas of individualism,  
+**[162.06s] English:** Between ideas of conservatism, represented by Yoram Hazony, and ideas of individualism,  
 **Translation:** 
 
-**[167.92s] English:** represented by Yaron Brook. Let's start with the topics of the debate. Yoram, how do you define  
-**Translation:** Vocabulary: conservatism: 保守主义; individualism: 个人主义
-
-**[174.46s] English:** conservatism? Maybe in the way you were thinking about it yesterday. What do you are  
+**[167.92s] English:** Represented by Yaron Brook. Let's start with the topics of the debate. Yoram, how do you define?  
 **Translation:** 
 
-**[179.16s] English:** thinking about conservatism?  
+**[174.46s] English:** Conservatism? Maybe in the way you were thinking about it yesterday. What do you are  
+**Translation:** 
+
+**[179.16s] English:** Thinking about conservatism?  
 **Translation:** 
 
 **[179.72s] English:** Let me define it, and then we can get into principles if you want. When I talk about  
 **Translation:** 
 
-**[188.00s] English:** political conservatism, I'm talking about a political standpoint that regards the recovery,  
-**Translation:** Vocabulary: standpoint: 立场
+**[188.00s] English:** Political Conservatism, I'm talking about a political standpoint that regards the recovery,  
+**Translation:** Vocabulary: regards: 关注; standpoint: 立场
 
-**[195.88s] English:** elaboration, and restoration of tradition as the key to maintaining a nation and strengthening it  
+**[195.88s] English:** Elaboration, and restoration of tradition as the key to maintaining a nation and strengthening it.  
 **Translation:** 
 
-**[202.76s] English:** through time. This is something that if you have time to talk about it, like we do on the show,  
+**[202.76s] English:** Through time. This is something that, if you have time to talk about it, like we do on the show,  
 **Translation:** Vocabulary: elaboration: 详细阐述
 
-**[209.04s] English:** it's worth emphasizing that conservatism is not like liberalism or Marxism. Liberalism and  
+**[209.04s] English:** It's worth emphasizing that conservatism is not like liberalism or Marxism. Liberalism,  
 **Translation:** 
 
-**[216.20s] English:** Marxism are both universal theories, and they claim to be able to tell you what's good for  
-**Translation:** Vocabulary: emphasizing: 强调; liberalism: 自由主义
+**[216.20s] English:** Marxism is both a universal theory, and they claim to be able to tell you what's good for.  
+**Translation:** Vocabulary: conservatism: 守旧主义; emphasizing: 强调; liberalism: 自由主义; marxism: 马克思主义
 
-**[224.22s] English:** human beings at all times and all places. Conservatism is a little bit different because  
+**[224.22s] English:** Human beings, at all times and all places. Conservatism is a little bit different because,...  
 **Translation:** 
 
-**[229.10s] English:** it's going to carry different values in every nation, in every tribe. Even every family,  
+**[229.10s] English:** It's going to carry different values in every nation, in every tribe. Even in every family.  
 **Translation:** 
 
-**[235.64s] English:** you can say, has somewhat different values.  
+**[235.64s] English:** You can say that it has somewhat different values.  
 **Translation:** 
 
 **[239.04s] English:** What do you think about conservatism?  
 **Translation:** 
 
-**[240.00s] English:** these loyalty groups, they compete with one another. That's the way human beings work.  
+**[240.00s] English:** These loyalty groups compete with one another. That's the way human beings work.  
 **Translation:** 
 
-**[244.78s] English:** So it's deeply rooted in history of that particular area of land.  
+**[244.78s] English:** So, it's deeply rooted in the history of that particular area of land.  
 **Translation:** 
 
-**[248.72s] English:** Well, I wouldn't necessarily say land. You're right that  
+**[248.72s] English:** Well, I wouldn't necessarily say "land." You're right that.  
 **Translation:** 
 
-**[251.46s] English:** many forms of conservatism are tied to a particular place.  
+**[251.46s] English:** Many forms of conservatism are tied to a particular place.  
 **Translation:** 
 
-**[256.16s] English:** So how does the implementation of conservatism to you differ from the ideal of conservatism,  
+**[256.16s] English:** So, how does the implementation of conservatism differ from the ideal of conservatism for you?  
 **Translation:** 
 
-**[262.14s] English:** the implementations you've seen of political conservatism in the United States and the rest  
+**[262.14s] English:** The implementations you've seen of political conservatism in the United States and the rest,  
 **Translation:** Vocabulary: implementation: 实施方案; implementations: 实施方案
 
-**[266.34s] English:** of the world? Just to give some context, because it's a loaded term, like most political terms.  
+**[266.34s] English:** Of the world? Just to give some context, because it's a loaded term, like most political terms.  
 **Translation:** 
 
-**[272.52s] English:** So when people think about conservative in the United States, they think about the Republican  
+**[272.52s] English:** So, when people think about conservative in the United States, they think about the Republican.  
 **Translation:** 
 
 **[276.20s] English:** Party. Can you kind of disambiguate some of this? What are we supposed to think about?  
 **Translation:** 
 
-**[282.08s] English:** Yeah, that's a really important question. Usually the word conservative is associated with  
+**[282.08s] English:** Yeah, that's a really important question. Usually, the word "conservative" is associated with  
 **Translation:** Vocabulary: disambiguate: 澄清含义
 
-**[287.48s] English:** Edmund Burke and with the English common law tradition. Going back, you know,  
+**[287.48s] English:** Edmund Burke and the English common law tradition. Going back, you know,...  
 **Translation:** 
 
-**[295.74s] English:** centuries.  
+**[295.74s] English:** Centuries.  
 **Translation:** Vocabulary: edmund: 埃德蒙
 
-**[296.34s] English:** There's kind of a classical English conservative tradition that goes Fortescue, Hooker,  
+**[296.34s] English:** There's kind of a classical English conservative tradition that goes from Fortescue to Hooker.  
 **Translation:** 
 
-**[303.84s] English:** Koch, Selden, Hale, Burke, Blackstone before Burke. If you take that kind of as a benchmark  
-**Translation:** Vocabulary: benchmark: 标准; blackstone: 布莱克斯通; fortescue: 福特斯克; selden: 塞尔登
+**[303.84s] English:** Koch, Selden, Hale, Burke, Blackstone before Burke. If you take that as a benchmark.  
+**Translation:** Vocabulary: benchmark: 标准; blackstone: 布莱克斯通; fortescue: 福特斯克; hooker: 霍奇; selden: 塞尔登
 
-**[314.46s] English:** and you compare it, then you can compare it to things like the American Federalist Party  
+**[314.46s] English:** And you compare it, then you can compare it to things like the American Federalist Party.  
 **Translation:** 
 
-**[320.12s] English:** at the time of the American founding is, in many respects, very much in keeping with that  
+**[320.12s] English:** At the time of the American founding, in many respects, it is very much in keeping with that.  
 **Translation:** Vocabulary: founding: 创立
 
-**[326.24s] English:** tradition.  
+**[326.24s] English:** Tradition.  
 **Translation:** 
 
-**[326.34s] English:** As you go forward, there's an increasing mix of liberalism into conservatism. And I think by the  
+**[326.34s] English:** As you go forward, there's an increasing mix of liberalism with conservatism. And I think by the  
+**Translation:** Vocabulary: conservatism: 保守主义; liberalism: 自由主义
+
+**[338.36s] English:** Time, you get to the 1960s with William F. Buckley and Frank Meyer, the jargon term is "fusionism." By  
 **Translation:** 
 
-**[338.36s] English:** time you get to the 1960s with William Buckley and Frank Meyer, the jargon term is fusionism. By  
+**[345.68s] English:** The time you get there, it's arguable that their conservatism isn't very conservative anymore.  
+**Translation:** Vocabulary: arguable: 可争议的; buckley: 巴克利; fusionism: 融合主义; jargon: 行话
+
+**[352.44s] English:** That's kind of a public liberalism mixed with conservative liberalism.  
 **Translation:** 
 
-**[345.68s] English:** the time you get there, it's arguable that their conservatism isn't very conservative anymore,  
-**Translation:** Vocabulary: arguable: 可辩论的; conservatism: 保守主义; fusionism: 融合主义; jargon: 行话
-
-**[352.44s] English:** that it's kind of a public liberalism mixed with a conservative liberalism.  
+**[356.34s] English:** It's a private conservatism. So, a lot of the debate,...  
 **Translation:** 
 
-**[356.34s] English:** It's a private conservatism. So a lot of the debate  
-**Translation:** Vocabulary: liberalism: 自由主义
-
-**[360.00s] English:** that we have today about you know what does the word conservatism actually mean a lot of the  
+**[360.00s] English:** That we have today, about you know, what does the word "conservatism" actually mean? A lot of the  
 **Translation:** 
 
-**[364.64s] English:** confusion comes from that comes from the fact that um that on on the one hand we have people use  
+**[364.64s] English:** Confusion comes from the fact that, on one hand, we have people using  
 **Translation:** 
 
-**[371.04s] English:** use the term i think properly historically to refer to this this common law tradition  
+**[371.04s] English:** Use the term "I think" properly, historically, to refer to this common-law tradition.  
 **Translation:** 
 
-**[377.60s] English:** of which burke was a spokesman but there are lots of other people who when they say  
-**Translation:** Vocabulary: historically: 历史上; spokesman: 发言人
+**[377.60s] English:** Of which Burke was a spokesman, but there are lots of other people who, when they say  
+**Translation:** Vocabulary: historically: 历史上; spokesman: 发言者
 
-**[382.96s] English:** conservative they just mean liberal uh and um i think that that's a big problem i mean it  
+**[382.96s] English:** Conservative, they just mean liberal, uh, and I think that's a big problem. I mean, it  
 **Translation:** 
 
-**[389.60s] English:** it's a it's a problem just to have an intelligent debate is difficult when  
+**[389.60s] English:** It's a problem just to have an intelligent debate; it's difficult when  
 **Translation:** 
 
-**[394.24s] English:** when people are using the the the word almost in too antithetical what would you say the essential  
+**[394.24s] English:** When people use the word "almost" in an overly antithetical manner, what would you say about the essential?  
 **Translation:** 
 
-**[400.32s] English:** idea of conservatism is time you mentioned your father's a physicist so a lot of physicists when  
-**Translation:** Vocabulary: antithetical: 对立的; physicist: 物理学家; physicists: 物理学家
+**[400.32s] English:** The idea of conservatism is time. You mentioned your father's a physicist, so a lot of physicists...  
+**Translation:** Vocabulary: antithetical: 对立; overly: 过度; physicist: 物理学家; physicists: 物理学家
 
-**[405.44s] English:** they form models of the universe they don't consider time so everything is dealt with  
+**[405.44s] English:** They form models of the universe, but they don't consider time, so everything is dealt with simultaneously.  
 **Translation:** 
 
-**[412.24s] English:** instantaneously  
+**[412.24s] English:** Instantaneously,  
+**Translation:** Vocabulary: instantaneously: 瞬间地
+
+**[412.96s] English:** A particle is represented fully by its current state, including velocity and position. You're saying?  
 **Translation:** 
 
-**[412.96s] English:** a particle is represented fully by its current state velocity and position you're saying  
+**[420.16s] English:** So, you're arguing with all of physics and your father, as we always do, about their theory of time.  
 **Translation:** 
 
-**[420.16s] English:** so you're arguing um with with all of physics and and your father as we always do uh that their time  
+**[427.60s] English:** Matters, uh, in conservatives, that's the fundamental element: the full history matters, and you cannot  
 **Translation:** 
 
-**[427.60s] English:** matters uh in conservatives that's the fundamental element is the full history matters and you cannot  
+**[433.92s] English:** Separate the individual from the history from the roots that they come from, the parallel.  
 **Translation:** 
 
-**[433.92s] English:** separate the individual from the history from the roots that they come from the parallel  
-**Translation:** Vocabulary: cannot: 不能
-
-**[440.40s] English:** in political theory is  
+**[440.40s] English:** In political theory, is  
 **Translation:** 
 
-**[442.24s] English:** uh is what's called rationalism i guess we'll probably talk about that some rationalism is  
+**[442.24s] English:** Uh, what's called rationalism; I guess we'll probably talk about that sometime. Rationalism is  
 **Translation:** 
 
-**[448.48s] English:** kind of an instantaneous timeless thing before i mentioned that liberalism and various enlightenment  
+**[448.48s] English:** Kind of an instantaneous, timeless thing, before I mentioned that liberalism and various Enlightenment ideas.  
 **Translation:** 
 
-**[454.72s] English:** theories they don't include time at all their goal is to say look there's such a thing as  
-**Translation:** Vocabulary: enlightenment: 启蒙思想; instantaneous: 瞬间的; timeless: 永恒的
+**[454.72s] English:** Theories they don't include time at all; their goal is to say, "Look, there's such a thing as...  
+**Translation:** Vocabulary: enlightenment: 启蒙; instantaneous: 瞬间的; liberalism: 自由主义; timeless: 永恒的
 
-**[460.80s] English:** universal human reason all human beings if they reason properly will come to the same conclusions  
+**[460.80s] English:** Universal human reason: All human beings, if they reason properly, will come to the same conclusions.  
 **Translation:** 
 
-**[467.68s] English:** if that's true then it removes the time consideration it removes  
+**[467.68s] English:** If that's true, then it removes the time consideration; it removes  
 **Translation:** 
 
-**[472.24s] English:** tradition and context because everywhere where you are at any time  
+**[472.24s] English:** Tradition and context, because everywhere you are, and at any time,  
 **Translation:** 
 
-**[476.96s] English:** you ought to be able to use reason and come to  
+**[476.96s] English:** You ought to be able to use reason and come to  
 **Translation:** 
 
-**[479.92s] English:** you  
+**[479.92s] English:** You.  
 **Translation:** 
 
-**[480.00s] English:** the same conclusions about politics or morals. So that's a theory like Immanuel Kant or John  
+**[480.00s] English:** The same conclusions about politics or morals. So that's a theory, like Immanuel Kant or John.  
+**Translation:** Vocabulary: immanuel: 伊曼努尔; morals: 道德
+
+**[488.68s] English:** Locke is an example; Hobbes is an example. That kind of political theorizing really does say  
 **Translation:** 
 
-**[488.68s] English:** Locke is an example, Hobbes is an example. That kind of political theorizing really does say  
-**Translation:** 
-
-**[496.00s] English:** at a given instant, we can know pretty much everything that we need to know, at least the  
+**[496.00s] English:** At a given instant, we can know pretty much everything that we need to know, at least in principle.  
 **Translation:** Vocabulary: hobbes: 霍布斯
 
-**[501.66s] English:** big things. And conservatism is the opposite. It's a traditionalist view, exactly as you say,  
+**[501.66s] English:** Big things. And conservatism is the opposite. It's a traditionalist view, exactly as you say.  
 **Translation:** 
 
-**[509.34s] English:** that says that history is crucial. So, Yaron, you say that history is interesting,  
-**Translation:** Vocabulary: conservatism: 保守主义; traditionalist: 传统主义者
+**[509.34s] English:** That says that history is crucial. So, Yaron, you say that history is interesting.  
+**Translation:** 
 
-**[518.18s] English:** but perhaps not crucial, in the context of individualism.  
+**[518.18s] English:** But perhaps not crucial, in the context of individualism.  
 **Translation:** 
 
 **[522.56s] English:** No, I mean, I think there's a false dichotomy he presented here, and that is that one view holds  
-**Translation:** Vocabulary: dichotomy: 对立二分; individualism: 个人主义
+**Translation:** Vocabulary: crucial: 关键的; dichotomy: 二元对立; individualism: 个人主义
 
-**[527.70s] English:** that you can derive anything from a particular historical path, and kind of an empirical view,  
+**[527.70s] English:** That you can derive anything from a particular historical path, and a kind of empirical view,  
 **Translation:** 
 
-**[534.36s] English:** and if we know the history, we know where we should be tomorrow, we know where we should  
-**Translation:** Vocabulary: empirical: 经验主义
+**[534.36s] English:** And if we know the history, we know where we should be tomorrow, and we know where we should go.  
+**Translation:** Vocabulary: derive: 推导出; empirical: 经验的
 
-**[538.84s] English:** stand today.  
+**[538.84s] English:** Stand today.  
 **Translation:** 
 
-**[539.34s] English:** And the other path is we ignore history, we ignore facts, we ignore what's going on. We can  
+**[539.34s] English:** And the other path is to ignore history, ignore facts, and ignore what's going on. We can  
 **Translation:** 
 
-**[544.86s] English:** derive from some a priori axioms, we can derive a truth right now. And both are false. Both of  
+**[544.86s] English:** From deriving truths from some a priori axioms, we can derive a truth right now. And both are false. Both of  
 **Translation:** 
 
-**[551.84s] English:** those views, in my view, are false. And, you know, Ayn Rand and I reject both of those views.  
-**Translation:** Vocabulary: axioms: 先验公理
+**[551.84s] English:** Those views, in my view, are false. And, you know, Ayn Rand and I reject both of those views.  
+**Translation:** Vocabulary: axioms: 先验公理; deriving: 推导; priori: 先验的
 
 **[559.18s] English:** And I think the better thinkers of the Enlightenment did as well, although they  
 **Translation:** 
 
-**[562.92s] English:** sometimes fall into the trap of appearing like rationalists. And Yaron and I agree on one thing,  
-**Translation:** Vocabulary: thinkers: 思想家
+**[562.92s] English:** Sometimes we fall into the trap of appearing too rationalistic. And Yaron and I agree on one thing,  
+**Translation:** Vocabulary: enlightenment: 启蒙运动; thinkers: 思想家
 
-**[569.34s] English:** that Kant is one of, you know, we've talked about this in the past, Lex, but we both hate Kant. We  
+**[569.34s] English:** That Kant is one of those philosophers we've talked about before, Lex, but we both hate Kant.  
 **Translation:** 
 
-**[576.92s] English:** both think Kant is, I at least think Kant is probably the most destructive philosopher  
+**[576.92s] English:** Both think Kant is, I at least think Kant is probably the most destructive philosopher.  
+**Translation:** Vocabulary: philosophers: 哲学家
+
+**[583.40s] English:** Since Plato, who was pretty destructive himself, and part of the problem is that Kant divorces  
 **Translation:** 
 
-**[583.40s] English:** since Plato, who was pretty destructive himself. And part of the problem is that Kant divorces  
-**Translation:** 
-
-**[591.26s] English:** reason from reality. That is, he divorces reason from history. He divorces reason from experience,  
+**[591.26s] English:** Reason from reality. That is, he divorces reason from history and from experience.  
 **Translation:** Vocabulary: divorces: 脱离
 
-**[597.20s] English:** because we don't have direct experience of reality. We don't have direct experience of reality.  
+**[597.20s] English:** Because we don't have direct experience of reality. We don't have direct experience of reality.  
 **Translation:** 
 
 **[599.34s] English:** We don't have direct experience of reality. We don't have direct experience of reality.  
 **Translation:** 
 
-**[600.00s] English:** Kant, right? We're removed from that direct experience. But I view Kant as the anti-enlightenment.  
+**[600.00s] English:** Kant, right? We're removed from that direct experience. But I view Kant as the anti-Enlightenment.  
 **Translation:** 
 
-**[606.44s] English:** That is, I view Kant as the destroyer of good enlightenment thinking. And I acknowledge a lot  
-**Translation:** Vocabulary: enlightenment: 启蒙思想
-
-**[614.00s] English:** of history of philosophy, people who do history of philosophy view Kant as the embodiment of the  
+**[606.44s] English:** That is, I view Kant as the destroyer of good Enlightenment thinking. And I acknowledge a lot.  
 **Translation:** 
 
-**[619.88s] English:** enlightenment, that is the ultimate. But I think that's a mistake. I think both Rousseau and Kant  
+**[614.00s] English:** Of the history of philosophy, people who do history of philosophy view Kant as the embodiment of the  
+**Translation:** 
+
+**[619.88s] English:** Enlightenment, that is the ultimate. But I think that's a mistake. I think both Rousseau and Kant,  
 **Translation:** Vocabulary: embodiment: 体现; rousseau: 卢梭
 
-**[625.34s] English:** are fundamentally, their goal, their mission in life is to destroy the enlightenment.  
+**[625.34s] English:** Their fundamental goal and mission in life is to destroy the Enlightenment.  
 **Translation:** 
 
-**[630.18s] English:** So my view is neither of those options are the right option. That is, the true reason-based,  
-**Translation:** Vocabulary: fundamentally: 从根本上
-
-**[637.00s] English:** reason is not divorced from reality. It's quite the opposite. Reason is a tool. It's a faculty  
+**[630.18s] English:** So, my view is that neither of those options are the right option. That is, the true reason-based,  
 **Translation:** 
 
-**[641.72s] English:** of identifying and integrating what? It's identifying and integrating the facts of reality  
+**[637.00s] English:** The reason is not divorced from reality. It's quite the opposite; reason is a tool, a faculty.  
+**Translation:** 
+
+**[641.72s] English:** Of identifying and integrating what? It's identifying and integrating the facts of reality.  
 **Translation:** Vocabulary: identifying: 识别; integrating: 整合
 
-**[647.70s] English:** as we know them through sense perception or through the study of history, through what  
+**[647.70s] English:** As we know them through sense perception, or through the study of history, through what  
 **Translation:** 
 
-**[654.36s] English:** actually happened.  
+**[654.36s] English:** Actually, it happened.  
+**Translation:** Vocabulary: perception: 感觉
+
+**[655.34s] English:** So, it's the integration of those facts. It's the knowledge of that history. And then, what we do is:  
 **Translation:** 
 
-**[655.34s] English:** So it's the integration of those facts. It's the knowledge of that history. And then what we do is  
+**[661.86s] English:** We abstract away principles based on what has worked in the past and what hasn't worked in the past.  
 **Translation:** 
 
-**[661.86s] English:** we abstract away principles based on what's worked in the past, what hasn't worked in the past,  
+**[666.78s] English:** The consequences of different ideas, different paths, and different actions. We abstract away,...  
 **Translation:** 
 
-**[666.78s] English:** the consequences of different ideas, different paths, different actions. We abstract away  
+**[671.76s] English:** Principles that then can be universal. Not always, though. We make mistakes, right? We can come up with  
 **Translation:** 
 
-**[671.76s] English:** principles that then can be universal. Not always. We make mistakes, right? We can come up with a  
+**[676.98s] English:** Universal principle. It turns out that it's not. But if we have the whole scope of human history,  
 **Translation:** 
 
-**[676.98s] English:** universal principle. It turns out that it's not. But if we have the whole scope of human history,  
+**[681.84s] English:** We can derive principles as we do in life.  
+**Translation:** Vocabulary: derive: 推导出
+
+**[685.34s] English:** Individuals, we derive principles that are then truths that we can live by. But you don't do that.  
 **Translation:** 
 
-**[681.84s] English:** we can derive principles as we do in life.  
+**[691.06s] English:** By ignoring history. You do that by learning history, by understanding history, by understanding,  
 **Translation:** 
 
-**[685.34s] English:** Individuals, we derive principles that are then truths that we can live by. But you don't do that  
+**[696.20s] English:** In a sense, tradition and where it leads, and then trying to do better. And I think good thinkers,...  
 **Translation:** 
 
-**[691.06s] English:** by ignoring history. You do that by learning history, by understanding history, by understanding,  
-**Translation:** 
-
-**[696.20s] English:** in a sense, tradition and where it leads to, and then trying to do better. And I think good thinkers  
-**Translation:** 
-
-**[700.96s] English:** are constantly trying to do better based on what they know about the past and what they know about  
+**[700.96s] English:** Are constantly trying to do better based on what they know about the past and what they know about  
 **Translation:** Vocabulary: thinkers: 思考者
 
-**[705.42s] English:** the present.  
+**[705.42s] English:** The present.  
 **Translation:** 
 
-**[706.08s] English:** What's the difference between studying history on a journey of reason and tradition? So you  
+**[706.08s] English:** What's the difference between studying history on a journey of reason and tradition? So, you  
 **Translation:** 
 
-**[714.24s] English:** mentioned that Burke understood history as a journey of reason. What's the difference between  
+**[714.24s] English:** Mentioned that Burke understood history as a journey of reason. What's the difference between  
 **Translation:** 
 
-**[715.34s] English:** studying history on a journey of reason and tradition? So you mentioned that Burke understood  
+**[715.34s] English:** Studying history on a journey of reason and tradition? So, you mentioned that Burke understood.  
 **Translation:** 
 
-**[715.48s] English:** that reason begins with inherited tradition yesterday. So what's the difference between  
+**[715.48s] English:** That reason begins with inherited tradition, going back to yesterday. So, what's the difference between  
 **Translation:** 
 
-**[720.00s] English:** studying history but then being free to go any way you want and tradition where it feels more  
+**[720.00s] English:** Studying history, but then being free to go any way you want, and tradition where it feels more appropriate.  
 **Translation:** Vocabulary: inherited: 遗传的
 
-**[728.38s] English:** um not i don't want to say a negative term like burden but it's uh there's more of a momentum  
+**[728.38s] English:** Um, not that I want to use a negative term like "burden," but there's just more of a momentum.  
 **Translation:** 
 
-**[735.60s] English:** that forces you to go the same way as your ancestors it's the recognition that people are  
+**[735.60s] English:** That forces you to go the same way as your ancestors; it's the recognition that people are  
 **Translation:** 
 
-**[740.92s] English:** wrong often are wrong and then parents including your parents including your your teachers including  
+**[740.92s] English:** Wrong are often wrong, and then parents, including your parents, and including your teachers, including.  
 **Translation:** 
 
-**[747.48s] English:** everybody everybody is potentially wrong and that that you can't accept anybody just because  
+**[747.48s] English:** Everybody is potentially wrong, and you can't accept anybody just because.  
 **Translation:** 
 
-**[753.62s] English:** they happen to come before you uh that is you have to evaluate and judge and you have to have  
+**[753.62s] English:** They happen to come before you, uh, that is, you have to evaluate and judge, and you have to have.  
 **Translation:** 
 
-**[758.14s] English:** a standard by which they're valued and judge the actions of those who came before you whether they  
+**[758.14s] English:** A standard by which they're valued, and judge the actions of those who came before you, whether they  
 **Translation:** Vocabulary: evaluate: 评估
 
-**[762.44s] English:** are uh your parents whether they are uh the state in which you happen to be born whether they are  
+**[762.44s] English:** Are your parents, where they are, or the state in which you happen to be born, whether they are  
 **Translation:** 
 
-**[768.06s] English:** somebody on the other side of planet earth you can judge them if you have a standard now my standard  
+**[768.06s] English:** Somebody on the other side of planet Earth, you can judge them if you have a standard. Now, my standard:  
 **Translation:** 
 
-**[773.64s] English:** and i think the right standard is human well-being that is  
+**[773.64s] English:** And I think the right standard is human well-being that is  
 **Translation:** 
 
-**[777.48s] English:** that which is good for human beings qua human beings uh you know is is the standard by which  
+**[777.48s] English:** That which is good for human beings, qua human beings, you know, is the standard by which...  
 **Translation:** 
 
-**[783.14s] English:** we judge so i can say that certain periods of history were bad they happened it's important  
+**[783.14s] English:** We judge, so I can say that certain periods of history were bad; they happened, and it's important.  
 **Translation:** 
 
-**[788.94s] English:** to study them it's important to understand what they did that made them bad so we cannot do that  
+**[788.94s] English:** To study them, it's important to understand what they did that made them bad; so, we cannot do that.  
 **Translation:** 
 
-**[793.46s] English:** again and i can say certain cultures certain periods in time were good why because they  
+**[793.46s] English:** Again, and I can say that certain cultures, certain periods in time were good, why because they  
 **Translation:** 
 
-**[798.18s] English:** promoted human well-being and human flourishing that's the standard then derive from that okay  
-**Translation:** Vocabulary: flourishing: 繁荣
+**[798.18s] English:** Promoted human well-being and flourishing—that's the standard, then derive from that, okay?  
+**Translation:** Vocabulary: derive: 推导; flourishing: 繁荣
 
-**[803.30s] English:** what is it that made a particular culture good what is it that made that particular  
+**[803.30s] English:** What is it that made a particular culture good? What is it that made that particular...  
 **Translation:** 
 
-**[807.48s] English:** culture positive in terms of human well-being and human flourishing what made this bad and  
+**[807.48s] English:** Culture was positive in terms of human well-being and human flourishing. What made this bad?  
 **Translation:** 
 
-**[812.38s] English:** hopefully from that i can derive a principle okay if i want human flourishing and human  
+**[812.38s] English:** Hopefully, from that, I can derive a principle: okay, if I want human flourishing and human  
 **Translation:** 
 
-**[817.36s] English:** well-being in the future i want to be more like these guys and less like those guys i want to  
+**[817.36s] English:** Well-being in the future, I want to be more like these guys and less like those guys, I want to.  
 **Translation:** 
 
-**[821.68s] English:** derive what is the principle that will guide me in the future that's i think how human knowledge  
+**[821.68s] English:** Derive what is the principle that will guide me in the future, I think, is how human knowledge should be acquired.  
 **Translation:** 
 
-**[826.54s] English:** ultimately develops i think people often make a mistake just i'm not saying you're wrong but lots  
+**[826.54s] English:** Ultimately, it develops, I think people often make a mistake, just I'm not saying you're wrong, but lots.  
 **Translation:** 
 
-**[832.18s] English:** of people you know don't actually read the original sources and so what happens is uh people  
+**[832.18s] English:** Of people you know, don't actually read the original sources, and so what happens is that people  
 **Translation:** 
 
-**[837.48s] English:** attack conservatives assuming that conservatives  
+**[837.48s] English:** Attack conservatives, assuming that conservatives  
 **Translation:** 
 
-**[840.00s] English:** think that whatever comes from the past is right. And actually, it's very difficult to find a  
+**[840.00s] English:** I think that whatever comes from the past isn't necessarily right. And actually, it's very difficult to find a  
 **Translation:** 
 
-**[845.64s] English:** thinker who actually says something like that. Seldon or Burke, the big conservative theorists,  
-**Translation:** Vocabulary: seldon: 塞尔登; theorists: 理论家
+**[845.64s] English:** Thinker who actually says something like that. Seldon or Burke, the big conservative theorists,  
+**Translation:** Vocabulary: seldon: 赛尔登; theorists: 理论家; thinker: 思想家
 
-**[852.54s] English:** Hooker, they're all people who understand that the tradition carries with it mistakes that were  
+**[852.54s] English:** Hookers are all people who understand that the tradition carries with it mistakes that were  
 **Translation:** 
 
-**[859.48s] English:** made in the past. And this is actually, I think, an important part of their empiricism, is that  
+**[859.48s] English:** Made in the past. And this is actually, I think, an important part of their empiricism: is that.  
+**Translation:** Vocabulary: empiricism: 经验主义; hookers: 卖淫女
+
+**[866.66s] English:** They see the search for truth as something a society does by trial and error, and what that involves...  
 **Translation:** 
 
-**[866.66s] English:** they see the search for truth as something a society does by trial and error. And what that  
+**[871.60s] English:** Means that at any given moment, you have to be aware of the possibility that things you've  
 **Translation:** 
 
-**[871.60s] English:** means is that at any given moment, you have to be aware of the possibility that things that you've  
+**[877.24s] English:** Inherited beliefs are actually false, and the job of the political thinker, the jurist, or the philosopher...  
 **Translation:** 
 
-**[877.24s] English:** inherited are actually false. And the job of the political thinker or the jurist or the philosopher  
+**[884.56s] English:** Is not to dig in and say, you know, whatever it is that we've inherited is right. The job is to  
+**Translation:** Vocabulary: inherited: 遗传的; jurist: 法学家
+
+**[890.80s] English:** Look at the society as a whole and say, "Look, we have this job of,  
 **Translation:** 
 
-**[884.56s] English:** is not to dig in and say, you know, whatever it is that we've inherited is right. The job is to  
-**Translation:** Vocabulary: inherited: 继承; jurist: 法学家
-
-**[890.80s] English:** look at the society as a whole and say, look, we have this job of, first of all,  
+**[896.66s] English:** Conservation is about just making sure that we don't lose good things that we've had. And second,  
 **Translation:** 
 
-**[896.66s] English:** conservation, just making sure that we don't lose good things that we've had. And second,  
+**[901.72s] English:** Seeing if we can repair things in order to improve them where it's necessary or where it's possible.  
 **Translation:** 
 
-**[901.72s] English:** seeing if we can repair things in order to improve them where it's necessary or where it's possible.  
+**[907.74s] English:** And that process is actually a creative process. This is a way in which I think it is similar to.  
 **Translation:** 
 
-**[907.74s] English:** And that process is actually a creative process. This is a way in which I think it is similar to  
+**[912.90s] English:** Yaron's philosophy is that you take the inherited tradition and look for a way that you can  
 **Translation:** 
 
-**[912.90s] English:** Yaron's philosophy, that you take the inherited tradition and you look for a way that you can  
+**[919.80s] English:** Shape it in order to make it something better than it was. That's a baseline for.  
+**Translation:** Vocabulary: baseline: 基础标准
+
+**[926.66s] English:** What we call conservatism.  
 **Translation:** 
 
-**[919.80s] English:** shape it in order to make it something better than it was. That's a baseline for  
-**Translation:** Vocabulary: baseline: 基准
-
-**[926.66s] English:** what we call conservatism.  
-**Translation:** 
-
-**[928.68s] English:** Just a comment. So the trial and error, the errors, you're proud of the errors. It's a feature,  
+**[928.68s] English:** Just a comment: so the trial and error, the errors—you're proud of the errors. It's a feature.  
 **Translation:** Vocabulary: conservatism: 保守主义
 
-**[936.04s] English:** not a bug. So you mentioned trial and error a few times yesterday. It's a really interesting  
+**[936.04s] English:** Not a bug. So, you mentioned trial and error a few times yesterday. It's a really interesting  
 **Translation:** 
 
-**[940.10s] English:** kind of idea. It's basically accepting that the journey is going to have flaws as opposed to  
+**[940.10s] English:** Kind of an idea: it's basically accepting that the journey is going to have flaws, as opposed to  
 **Translation:** 
 
-**[947.10s] English:** saying, I mean, the conclusion there is the current system is flawed and it will always be  
+**[947.10s] English:** Saying, I mean, the conclusion there is that the current system is flawed and it will always be.  
 **Translation:** 
 
-**[953.90s] English:** flawed.  
-**Translation:** 
+**[953.90s] English:** Flawed.  
+**Translation:** Vocabulary: flawed: 有缺陷的
 
 **[954.60s] English:** It will always be flawed.  
 **Translation:** 
@@ -574,13 +575,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[956.66s] English:** But when you listen to Yaron talk.  
 **Translation:** 
 
-**[960.00s] English:** There's much more of an optimism for the system being perfect now or potentially soon or could be perfect.  
-**Translation:** Vocabulary: optimism: 乐观
+**[960.00s] English:** There's much more of an optimism that the system will be perfect now, or potentially soon, or could be perfect.  
+**Translation:** Vocabulary: optimism: 积极乐观
 
-**[969.56s] English:** And to me, the way I heard it is almost like accepting that the system is flawed and through trial and error will improve.  
+**[969.56s] English:** And to me, the way I heard it is almost like accepting that the system is flawed, and through trial and error, it will improve.  
 **Translation:** 
 
-**[978.54s] English:** And Yaron says, no, we can have a perfection now.  
+**[978.54s] English:** And Yaron says, "No, we can have perfection now.  
 **Translation:** 
 
 **[985.50s] English:** That's the way it sounds to me.  
@@ -589,19 +590,19 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[987.34s] English:** Yeah, and I think that's right.  
 **Translation:** 
 
-**[988.94s] English:** I think the difference is that at some point, just like in science, I think, one can stop the trial and error and say, I can now see a pattern here.  
+**[988.94s] English:** I think the difference is that, at some point, just like in science, one can stop the trial and error and say, "I can now see a pattern here.  
 **Translation:** 
 
-**[1000.20s] English:** I can see that certain actions lead to bad consequences, certain actions lead to good consequences.  
+**[1000.20s] English:** I can see that certain actions lead to bad consequences, while certain actions lead to good consequences.  
 **Translation:** 
 
-**[1007.12s] English:** Let me try to abstract away what is it that is good and what is it that is bad and build a system around what is good and reject what is bad.  
+**[1007.12s] English:** Let me try to abstract away what is good and what is bad, and build a system around what is good and reject what is bad.  
 **Translation:** 
 
 **[1016.82s] English:** I think ultimately, if you read the.  
 **Translation:** 
 
-**[1018.94s] English:** Founding fathers and whether we call them conservatives, individuals, what the founding fathers actually did, all of them, I think, is study history.  
+**[1018.94s] English:** Founding fathers, and whether we call them conservatives or individuals, all of them, I think, studied history.  
 **Translation:** 
 
 **[1025.16s] English:** They all did.  
@@ -610,16 +611,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1026.02s] English:** They all talk about history.  
 **Translation:** 
 
-**[1027.16s] English:** They all talk about examples of other cultures with it, whether they go back to the Republic in Venice or back to the ancient Greeks.  
+**[1027.16s] English:** They all talk about examples of other cultures with it, whether they go back to the Republic of Venice or back to the ancient Greeks.  
 **Translation:** 
 
-**[1036.52s] English:** So they studied these.  
+**[1036.52s] English:** So, they studied these.  
 **Translation:** 
 
 **[1038.74s] English:** They learned lessons from them.  
 **Translation:** 
 
-**[1040.44s] English:** They try to figure out what has worked in the past and what hasn't and try to do our principles.  
+**[1040.44s] English:** They try to figure out what has worked in the past and what hasn't, and try to apply our principles.  
 **Translation:** 
 
 **[1044.56s] English:** Now, in my view, they got pretty close to what I would consider.  
@@ -628,16 +629,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1048.94s] English:** Kind of an ideal, but they didn't get it completely right.  
 **Translation:** 
 
-**[1053.10s] English:** And here we sit 200 and something years after the declaration and after the Constitution, I think we can look back and say, OK, well, what did they get right?  
+**[1053.10s] English:** And here we sit, 200 and some years after the Declaration and the Constitution. I think we can look back and say, "OK, well, what did they get right?  
 **Translation:** 
 
-**[1061.26s] English:** What did they get wrong based on how is it done and where the flaws and where the and we can improve on it?  
+**[1061.26s] English:** What did they get wrong based on how it's done, and where the flaws are? Where can we improve on it?  
 **Translation:** 
 
 **[1068.00s] English:** I think we can get closer to perfection.  
 **Translation:** 
 
-**[1071.44s] English:** And in based on those kind of observations, based on that kind of abstraction, that kind of discussion.  
+**[1071.44s] English:** And, based on those kinds of observations, based on that kind of abstraction, and that kind of discussion.  
 **Translation:** 
 
 **[1078.94s] English:** I think we can get closer to perfection.  
@@ -646,38 +647,38 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1079.44s] English:** I think we can get closer to perfection.  
 **Translation:** 
 
-**[1080.00s] English:** It's true, just like at some point you do the experiments, you do the trial and error, and now you come up with a scientific principle.  
+**[1080.00s] English:** It's true; just like at some point you do the experiments, you do the trial and error, and now you come up with a scientific principle.  
+**Translation:** Vocabulary: experiments: 实验
+
+**[1086.86s] English:** It is true that 100 years later, you might discover that, hey, I missed something; there's something.  
 **Translation:** 
 
-**[1086.86s] English:** It is true that 100 years later you might discover that, hey, I missed something, there's something.  
-**Translation:** 
+**[1092.74s] English:** But to not take the full lesson, to insist on incrementalism, to insist on tinkering with the system instead of saying, "No, there's something really wrong with having a king.  
+**Translation:** Vocabulary: incrementalism: 逐步改革; tinkering: 小修小补
 
-**[1092.74s] English:** But to not take the full lesson, to insist on incrementalism, to insist on we're just going to tinker with the system instead of saying, no, there's something really wrong with having a king.  
-**Translation:** Vocabulary: incrementalism: 渐进主义; tinker: 修补
-
-**[1105.52s] English:** There's something really wrong with not having any representation or whatever the standard needs to be in the name of we don't want to move too fast, I think is a mistake.  
+**[1105.52s] English:** There's something really wrong with not having any representation or whatever the standard needs to be, in the name of "we don't want to move too fast," I think is a mistake.  
 **Translation:** 
 
 **[1117.50s] English:** And the problem with trial and error in politics is that we're talking about human life, right?  
 **Translation:** 
 
-**[1124.62s] English:** So there was a big trial around communism and, you know, 100 million people paid the price for the trial.  
+**[1124.62s] English:** So, there was a big trial around communism, and, you know, 100 million people paid the price for it.  
 **Translation:** 
 
-**[1131.88s] English:** I could have told them in advance, as did many people, that it would not.  
+**[1131.88s] English:** I could have told them in advance, as many people did, that it would not.  
 **Translation:** Vocabulary: communism: 共产主义
 
-**[1135.52s] English:** There are principles of human nature, principles that we can study from history, principles about economics and other aspects.  
+**[1135.52s] English:** There are principles of human nature, principles that we can study from history, principles about economics, and other aspects.  
 **Translation:** 
 
-**[1144.02s] English:** What we know it's not going to work.  
+**[1144.02s] English:** What we know: It's not going to work.  
 **Translation:** 
 
 **[1145.10s] English:** You don't need to try it again.  
 **Translation:** 
 
 **[1146.16s] English:** You know, we've had communal arrangements throughout history.  
-**Translation:** Vocabulary: communal: 共同使用的
+**Translation:** Vocabulary: communal: 共同的
 
 **[1149.96s] English:** There was an experiment with fascism, and there have been experiments with all kinds of political systems.  
 **Translation:** 
@@ -694,32 +695,32 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1161.66s] English:** And I think that all of history now converges on one.  
 **Translation:** 
 
-**[1165.58s] English:** Lesson.  
+**[1165.58s] English:** Lesson:  
 **Translation:** Vocabulary: converges: 汇聚
 
-**[1166.40s] English:** And that is what we need to do is build systems that protect individual freedom.  
+**[1166.40s] English:** And that is what we need to do: build systems that protect individual freedom.  
 **Translation:** 
 
 **[1170.72s] English:** That is the core.  
 **Translation:** 
 
-**[1171.82s] English:** That's what ultimately leads to human flourishing and human success and human achievement.  
+**[1171.82s] English:** That's what ultimately leads to human flourishing, human success, and human achievement.  
 **Translation:** 
 
-**[1176.76s] English:** And to the extent that we place anything above that individual, whether it's the state, whether it's the ethnicity, whether it's the race, whether it's the bourgeois, whether it's whatever it happens to be, a class or whatever, whenever we place something above the individual, the consequences are negative.  
-**Translation:** Vocabulary: bourgeois: 资产阶级; ethnicity: 种族; flourishing: 繁荣
+**[1176.76s] English:** And, to the extent that we place anything above that individual — whether it's the state, whether it's ethnicity, whether it's race, whether it's the bourgeoisie, or whatever it happens to be, a class, or whatever — whenever we place something above the individual, the consequences are negative.  
+**Translation:** Vocabulary: bourgeoisie: 资产阶级; ethnicity: 种族; flourishing: 繁荣
 
 **[1190.50s] English:** That's one of these principles that I think we can derive from studying.  
 **Translation:** 
 
 **[1195.52s] English:** You know, 3,000 years of civilization.  
-**Translation:** 
+**Translation:** Vocabulary: derive: 推导出
 
 **[1198.52s] English:** And.  
 **Translation:** 
 
 **[1200.00s] English:** And it's tragic, I think, because we're going to keep experimenting.  
-**Translation:** 
+**Translation:** Vocabulary: experimenting: 实验
 
 **[1203.10s] English:** Sadly, I see it, right?  
 **Translation:** 
@@ -733,35 +734,35 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1208.22s] English:** We're going to keep experimenting with different forms of collectivism.  
 **Translation:** 
 
-**[1211.08s] English:** We're going to keep paying the price in human life and in missed opportunities for human  
+**[1211.08s] English:** We're going to keep paying the price in human life and in missed opportunities for humans.  
 **Translation:** 
 
-**[1216.56s] English:** flourishing and human success and human wealth and prosperity.  
+**[1216.56s] English:** Flourishing, human success, and human wealth and prosperity.  
 **Translation:** 
 
-**[1220.20s] English:** Well, look, if we let's take communism as a good example, none of the major conservative  
+**[1220.20s] English:** Well, look, if we let's take communism as a good example, none of the major conservatives seemed to agree with it.  
 **Translation:** 
 
-**[1224.96s] English:** thinkers would say, you know, it's a good idea.  
-**Translation:** Vocabulary: thinkers: 思想家
+**[1224.96s] English:** Thinkers would say, "You know, it's a good idea.  
+**Translation:** Vocabulary: communism: 共产主义; thinkers: 思想家
 
-**[1227.34s] English:** A good idea would be to experiment by raising everything that we've inherited and starting  
+**[1227.34s] English:** A good idea would be to experiment by raising everything that we've inherited, and starting  
 **Translation:** 
 
-**[1233.78s] English:** from scratch.  
-**Translation:** Vocabulary: inherited: 遗留财产
+**[1233.78s] English:** From scratch.  
+**Translation:** Vocabulary: inherited: 遗传的; scratch: 重新开始
 
 **[1234.58s] English:** I mean, that's the conservative complaint or accusation against rationalists.  
 **Translation:** 
 
-**[1240.04s] English:** I mean, as opposed to empiricism, using rationalism, let's take, you know, let's take Descartes  
-**Translation:** Vocabulary: accusation: 指责; descartes: 笛卡尔; empiricism: 经验主义
+**[1240.04s] English:** I mean, as opposed to empiricism, using rationalism, let's take, for example, let's take Descartes.  
+**Translation:** Vocabulary: accusation: 指责; empiricism: 经验主义
 
-**[1245.78s] English:** kind of as a benchmark.  
+**[1245.78s] English:** Kind of as a benchmark.  
 **Translation:** 
 
-**[1247.46s] English:** Can you also maybe define rationalism?  
-**Translation:** Vocabulary: benchmark: 参考标准
+**[1247.46s] English:** Can you also, maybe, define rationalism?  
+**Translation:** Vocabulary: benchmark: 标准
 
 **[1249.40s] English:** Yeah.  
 **Translation:** 
@@ -772,25 +773,25 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1254.48s] English:** They're often compared.  
 **Translation:** 
 
-**[1257.34s] English:** You're on said that it's a false dichotomy and maybe it is a bit exaggerated, but that  
+**[1257.34s] English:** You're on said that it's a false dichotomy, and maybe it is a bit exaggerated, but that  
 **Translation:** Vocabulary: dichotomy: 两分法; exaggerated: 夸大其词
 
-**[1263.84s] English:** doesn't mean it's not useful for conceptualizing the domain.  
+**[1263.84s] English:** Doesn't mean it's not useful for conceptualizing the domain.  
 **Translation:** 
 
-**[1268.04s] English:** So rationalist is somebody like Descartes who says, I'm going to set aside, I'm going  
-**Translation:** Vocabulary: conceptualizing: 概念化
+**[1268.04s] English:** So, a rationalist like Descartes says, "I am going to set aside," I'm going to suspend judgment on things I am not certain about.  
+**Translation:** 
 
-**[1275.96s] English:** to try to set aside everything I know, everything I've inherited.  
+**[1275.96s] English:** To try to set aside everything I know, everything I've inherited.  
 **Translation:** 
 
 **[1279.22s] English:** I'm going to start from scratch.  
 **Translation:** 
 
-**[1280.94s] English:** And he explicitly says, you know, in evaluating the inheritance of the past, he explicitly  
+**[1280.94s] English:** And he explicitly says, in evaluating the inheritance of the past, he explicitly.  
 **Translation:** 
 
-**[1286.66s] English:** says.  
+**[1286.66s] English:** Says.  
 **Translation:** Vocabulary: evaluating: 评估; explicitly: 明确地; inheritance: 继承
 
 **[1287.34s] English:** You take a look at the histories that we have.  
@@ -799,169 +800,169 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1289.74s] English:** They're not reliable.  
 **Translation:** 
 
-**[1290.60s] English:** You take a look at the moral and the scientific writings that we receive.  
+**[1290.60s] English:** You take a look at the moral and scientific writings that we receive.  
 **Translation:** 
 
 **[1293.74s] English:** They're not very good.  
 **Translation:** 
 
-**[1295.20s] English:** His baseline is to look very critically at the past and say, look, I'm evaluating it.  
+**[1295.20s] English:** His baseline is to look very critically at the past and say, "Look, I'm evaluating it.  
 **Translation:** 
 
-**[1301.50s] English:** I think all in all, it's just not worth very much.  
-**Translation:** Vocabulary: baseline: 基准; critically: 批判地
+**[1301.50s] English:** I think, all in all, it's just not worth very much.  
+**Translation:** Vocabulary: baseline: 标准; critically: 批判地
 
-**[1304.66s] English:** And so whatever I do, beginning from scratch is going to be better as long as, and here's  
+**[1304.66s] English:** And so, whatever I do, beginning from scratch will be better as long as, and here's  
 **Translation:** 
 
-**[1310.94s] English:** his caveat, as long as I'm proceeding from self-evident.  
-**Translation:** Vocabulary: caveat: 免责声明
+**[1310.94s] English:** His caveat, as long as I'm proceeding from self-evident.  
+**Translation:** Vocabulary: caveat: 警告; proceeding: 进行
 
 **[1317.34s] English:** Assumptions from self-evident premises, things that.  
 **Translation:** 
 
-**[1320.00s] English:** you can't argue against i think therefore i am right and then from there deducing what what he  
-**Translation:** Vocabulary: assumptions: 前提; deducing: 推导; premises: 前提
-
-**[1325.24s] English:** calls infallible conclusions so that model of self-evident premises to infallible conclusions  
+**[1320.00s] English:** You can't argue against "I think, therefore I am," and then from there deducing what he  
 **Translation:** 
 
-**[1331.82s] English:** i'm i'm calling that rationalism i think that's kind of a kind of a standard you know academic  
+**[1325.24s] English:** Calls it a model of infallible conclusions derived from self-evident premises.  
 **Translation:** 
 
-**[1337.02s] English:** uh jargon term and it's opposed to uh empiricism which is uh a thinker i i think in universities  
+**[1331.82s] English:** I'm calling that rationalism, I think that's kind of a standard, you know, academic.  
+**Translation:** Vocabulary: premises: 前提
+
+**[1337.02s] English:** Uh, jargon term, and it's opposed to empiricism, which is an approach I think is more prevalent in universities.  
 **Translation:** 
 
-**[1346.00s] English:** usually the you know the empiricist is uh is david yum and uh david yum uh will say we can't  
-**Translation:** Vocabulary: empiricist: 经验主义者; jargon: 行话
+**[1346.00s] English:** Usually, the empiricist is, you know, David Yum, and David Yum will say we can't.  
+**Translation:** Vocabulary: empiricism: 经验主义; empiricist: 经验主义者; jargon: 行话; prevalent: 普遍的
 
-**[1353.92s] English:** learn anything the way that descartes i mean there is nothing that's that self-evident and that  
+**[1353.92s] English:** Learn anything the way that Descartes did; I mean, there is nothing that's self-evident and that  
 **Translation:** 
 
-**[1358.80s] English:** infallible so so yum proposes based on uh newton and and boyle and you know the the the uh the the  
+**[1358.80s] English:** Infallible, so-so yum proposes, based on Newton and Boyle, and you know the, the, the  
+**Translation:** Vocabulary: boyle: 玻义耳; descartes: 笛卡尔; newton: 牛顿; proposes: 提出
+
+**[1368.90s] English:** New Physical Sciences, so Yum Yum proposes a science of man, and the science of man sounds an  
 **Translation:** 
 
-**[1368.90s] English:** new physical sciences so yum yum proposes uh a science of man and the science of man sounds an  
+**[1374.26s] English:** A awful lot like what you just said, which is  
 **Translation:** 
 
-**[1374.26s] English:** awful lot like what your own just said which is  
+**[1376.00s] English:** We're going to take a look at human nature, the nature of societies—human nature. We're going to  
 **Translation:** 
 
-**[1376.00s] English:** we're going to take a look at human nature at the nature of societies uh human nature we're going to  
+**[1382.48s] English:** Try to abstract toward fixed principles for describing human societies; we're going to try.  
 **Translation:** 
 
-**[1382.48s] English:** try to abstract towards uh fixed principles for describing it human societies we're going to try  
+**[1387.40s] English:** To do the same thing, and from there, we get, you know, for example, contemporary economics.  
 **Translation:** 
 
-**[1387.40s] English:** to do the same thing and from there we get you know for for example contemporary economics  
-**Translation:** 
-
-**[1392.72s] English:** but we also get you know sociology and anthropology which which cut in in a different  
+**[1392.72s] English:** But we also get you know, sociology and anthropology, which cut in in a different way.  
 **Translation:** Vocabulary: anthropology: 人类学; sociology: 社会学
 
-**[1398.34s] English:** different direction so um that's rationalism versus empiricism can i just go ahead please  
+**[1398.34s] English:** Different directions, so, um, that's rationalism versus empiricism. Can I just go ahead, please?  
 **Translation:** 
 
-**[1404.94s] English:** yeah it just i agree  
-**Translation:** Vocabulary: empiricism: 经验主义
-
-**[1406.00s] English:** with that i think i think it's a i think empiricism the one thing i disagree is that i think empiricism  
+**[1404.94s] English:** Yeah, it just makes sense; I agree.  
 **Translation:** 
 
-**[1411.44s] English:** rarely comes to these abstractions i mean they they want more facts it's always about  
-**Translation:** Vocabulary: abstractions: 抽象
-
-**[1417.16s] English:** collecting more evidence and in the but this is where you know i think i knew hand is so unusual  
+**[1406.00s] English:** With that, I think it's an interesting point, but I think empiricism—the one thing I disagree with is that I think empiricism...  
 **Translation:** 
 
-**[1423.76s] English:** and where i i think there's something new here right and and and that's a bold statement given  
+**[1411.44s] English:** Raresly comes to these abstractions; I mean, they want more facts. It's always about  
+**Translation:** Vocabulary: abstractions: 抽象; raresly: Rarely
+
+**[1417.16s] English:** Collecting more evidence, and in the but, this is where you know I think I knew that the hand is so unusual.  
 **Translation:** 
 
-**[1429.38s] English:** the history of philosophy but i think iran is is something new and and and she so she says yes  
+**[1423.76s] English:** And I think there's something new here, right? And that's a bold statement, given  
 **Translation:** 
 
-**[1436.00s] English:** but i think iran is is something new and and and i think iran is is something new and and and she so she says yes  
+**[1429.38s] English:** The history of philosophy, but I think Iran is something new, and she says, "Yes.  
 **Translation:** 
 
-**[1440.00s] English:** problem of, okay, where does it lead? You never come to a conclusion. You're just accumulating  
+**[1436.00s] English:** But I think Iran is something new, and she says yes.  
 **Translation:** 
 
-**[1445.16s] English:** evidence. There's something in addition. There's a third alternative, which she is positing,  
-**Translation:** Vocabulary: accumulating: 累积; positing: 提出
-
-**[1450.44s] English:** which is using empirical evidence, not denying empirical evidence, recognizing that there are  
+**[1440.00s] English:** The problem is, okay, where does it lead? You never come to a conclusion; you're just accumulating.  
 **Translation:** 
 
-**[1457.66s] English:** some axioms. There's some axioms that we all, at the base of all of our knowledge, that are  
+**[1445.16s] English:** Evidence. There's something in addition. There's a third alternative, which she is proposing.  
+**Translation:** Vocabulary: accumulating: 累积; proposing: 提出
+
+**[1450.44s] English:** Which is using empirical evidence, not denying empirical evidence, recognizing that there are  
+**Translation:** 
+
+**[1457.66s] English:** Some axioms. There are some axioms that we all accept, at the base of all of our knowledge, that are  
 **Translation:** Vocabulary: axioms: 公理; empirical: 经验的
 
-**[1463.26s] English:** starting points. We're not rejecting axiomatic knowledge. And integrating those two and  
+**[1463.26s] English:** Starting points: We're not rejecting axiomatic knowledge, and integrating those two, and  
 **Translation:** 
 
-**[1468.82s] English:** identifying the fact that based on these axioms and based on these empirical evidence, we can come  
-**Translation:** Vocabulary: axiomatic: 公理性的; identifying: 识别; integrating: 整合
+**[1468.82s] English:** Identifying the fact that, based on these axioms and based on this empirical evidence, we can come  
+**Translation:** Vocabulary: axiomatic: 公理的; identifying: 识别; integrating: 整合; rejecting: 拒绝
 
-**[1474.78s] English:** to truths, just again, like we do in science. We have certain axioms, scientific axioms. We have  
+**[1474.78s] English:** To truths, just as again, like we do in science. We have certain axioms, such as scientific axioms. We have  
 **Translation:** 
 
-**[1480.08s] English:** certain experiments that we run, and then we can come to some identification of a truth.  
+**[1480.08s] English:** Certain experiments that we run, and then we can come to some identification of a truth.  
+**Translation:** Vocabulary: experiments: 实验; identification: 识别
+
+**[1484.56s] English:** And that truth is always going to be challenged by new information, by new knowledge. But as long as we remain open to learning and questioning, we can continually refine our understanding.  
 **Translation:** 
 
-**[1484.56s] English:** And that truth is always going to be challenged by new information, by new knowledge. But as long  
-**Translation:** 
+**[1489.60s] English:** As that's what we know, that is what truth is. The truth is contextual, in the sense that it's  
+**Translation:** Vocabulary: refine: 精炼
 
-**[1489.60s] English:** as that's what we know, that is what truth is. The truth is contextual in the sense that it's  
-**Translation:** 
-
-**[1495.06s] English:** contextual. It's based on that knowledge.  
+**[1495.06s] English:** Contextual. It's based on that knowledge.  
 **Translation:** 
 
 **[1498.82s] English:** It's okay for it to change if you get new facts.  
 **Translation:** 
 
-**[1502.00s] English:** Absolutely. It's always available to change if the facts that you get, and they really are. I mean,  
+**[1502.00s] English:** Absolutely. It's always available to change if the facts that you get—and they really are. I mean,  
 **Translation:** 
 
-**[1506.90s] English:** the burden of changing what you've come to a conclusion of truth is high, so you'd have to  
+**[1506.90s] English:** The burden of changing what you've come to the conclusion of truth is high, so you'd have to  
+**Translation:** Vocabulary: burden: 负担
+
+**[1512.50s] English:** We have real evidence that it's not true. But that happens all the time. So it happens in science.  
 **Translation:** 
 
-**[1512.50s] English:** have real evidence that it's not true. But that happens all the time. So it happens in science,  
+**[1517.44s] English:** Right? We discover that what we thought was true is not true, and it can happen in politics and...  
 **Translation:** 
 
-**[1517.44s] English:** right? We discover that what we thought was true is not true. And it can happen in politics and  
+**[1522.26s] English:** Ethics, even more so than science, because they're much messier fields. But the idea is,  
 **Translation:** 
 
-**[1522.26s] English:** ethics even more so than in science, because they're much messier fields. But the idea is  
+**[1528.66s] English:** That you can change what you've come to a conclusion about the truth. And that's what we're  
+**Translation:** Vocabulary: messier: 更混乱
+
+**[1528.82s] English:** Talking about it, you can come to a truth, but it's not just deductive. Most truths are inductive.  
 **Translation:** 
 
-**[1528.66s] English:** that you can change what you've come to a conclusion of truth. And that's what we're  
+**[1535.76s] English:** We learn from observing reality, and, again, coming to principles about what works and what doesn't.  
+**Translation:** Vocabulary: deductive: 演绎的; inductive: 归纳的
+
+**[1542.78s] English:** And here, I think this is where Ayn Rand is different. She doesn't fall into the same category, and she's different in  
 **Translation:** 
 
-**[1528.82s] English:** talking about. You can come to a truth, but it's not just deductive. Most truths are inductive.  
-**Translation:** 
-
-**[1535.76s] English:** We learn from observing reality and, again, coming to principles about what works and what's not.  
-**Translation:** Vocabulary: deductive: 演绎推理; inductive: 归纳推理
-
-**[1542.78s] English:** And here I think this is, Ayn Rand is different. She doesn't fall into the, and she's different in  
-**Translation:** 
-
-**[1548.32s] English:** her politics, and she's different in her epistemology. She doesn't fall into the  
+**[1548.32s] English:** Her politics, and she's different in her epistemology. She doesn't fall into the  
 **Translation:** Vocabulary: epistemology: 认识论
 
-**[1551.58s] English:** conventional view. She's an opponent of Hume, and she's an opponent of Descartes.  
+**[1551.58s] English:** Conventional view: She is an opponent of Hume, and she is an opponent of Descartes.  
 **Translation:** 
 
 **[1557.14s] English:** She's certainly an opponent of Kant.  
-**Translation:** Vocabulary: descartes: 笛卡尔
+**Translation:** Vocabulary: conventional: 传统观点; descartes: 笛卡尔; opponent: 反对者
 
-**[1558.66s] English:** And so I think that's a really good point. And I think that's a really good point.  
+**[1558.66s] English:** And so, I think that's a really good point. And I think that's a really good point.  
 **Translation:** 
 
 **[1560.00s] English:** And, you know, I think she's right, right?  
 **Translation:** 
 
-**[1563.36s] English:** If it's okay, can we walk back to criticism of communism?  
+**[1563.36s] English:** If it's okay, can we walk back to the criticism of communism?  
 **Translation:** 
 
 **[1569.16s] English:** You're both critics of communism and socialism.  
@@ -977,7 +978,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[1584.52s] English:** Is that the fundamental description of why communism failed?  
-**Translation:** 
+**Translation:** Vocabulary: scratch: 从头开始
 
 **[1587.06s] English:** I think the fundamental difference between rationalists and empiricists is the question of whether you're throwing away the past.  
 **Translation:** 
@@ -985,143 +986,143 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1595.60s] English:** That's the argument.  
 **Translation:** Vocabulary: empiricists: 经验主义者
 
-**[1597.60s] English:** And it cashes out as a distinction between abstract universal rationalist political theories and empirical political theories.  
+**[1597.60s] English:** And it cashes out as a distinction between abstract, universal rationalist political theories and empirical political theories.  
 **Translation:** 
 
-**[1607.80s] English:** Empirical political theories, they're always going to say something like, look, there are…  
+**[1607.80s] English:** Empirical political theories, they're always going to say something like, "look," there are...  
 **Translation:** Vocabulary: empirical: 经验的
 
 **[1617.06s] English:** There are many different societies.  
 **Translation:** 
 
-**[1618.96s] English:** We can say that some are better and some are worse.  
+**[1618.96s] English:** We can say that some are better, and some are worse.  
 **Translation:** 
 
-**[1621.70s] English:** But the problem is that, you know, that there are many different ways in which a society can be better or worse.  
+**[1621.70s] English:** But the problem is that, you know, there are many different ways in which a society can be better or worse.  
 **Translation:** 
 
 **[1630.66s] English:** There's an ongoing competition.  
 **Translation:** 
 
-**[1632.80s] English:** And we're learning on an ongoing basis what are the ways in which societies can be better and worse.  
+**[1632.80s] English:** And we're learning, on an ongoing basis, how the ways in which societies can be better and worse.  
 **Translation:** 
 
-**[1637.40s] English:** That creates a kind of, I'd say, a mild skepticism, a moderate skepticism among conservatives.  
-**Translation:** Vocabulary: skepticism: 怀疑主义
+**[1637.40s] English:** That creates a kind of mild, moderate skepticism among conservatives.  
+**Translation:** Vocabulary: skepticism: 怀疑态度
 
-**[1643.84s] English:** I don't think too many conservatives have a problem looking at…  
+**[1643.84s] English:** I don't think too many conservatives have a problem looking at....  
 **Translation:** 
 
-**[1647.34s] English:** At the Soviet Union, which is brutal and murderous, ineffective in its economics, totally ineffective, you know, spiritually, and then collapsed.  
+**[1647.34s] English:** At the Soviet Union, which was brutal and murderous, ineffective in its economics, totally ineffective, spiritually, and then collapsed.  
 **Translation:** Vocabulary: brutal: 残忍; collapsed: 崩溃; ineffective: 无效; spiritually: 精神上
 
 **[1657.96s] English:** Okay.  
 **Translation:** 
 
-**[1658.54s] English:** So, I think it's easier for us to look at a system like that and say, you know, what on earth?  
+**[1658.54s] English:** So, I think it's easier for us to look at a system like that and say, "You know, what on earth?  
 **Translation:** 
 
 **[1664.98s] English:** What should we learn from that?  
 **Translation:** 
 
-**[1666.60s] English:** But the main conservative tradition is pretty tolerant of a diversity of different kinds of society.  
+**[1666.60s] English:** But the main conservative tradition is pretty tolerant of a diversity of different kinds of societies.  
 **Translation:** Vocabulary: tolerant: 宽容的
 
-**[1674.76s] English:** And is slow to insist.  
+**[1674.76s] English:** And it is slow to insist.  
 **Translation:** 
 
-**[1677.06s] English:** That France is so tyrannical, it just needs a revolution.  
+**[1677.06s] English:** That France is so tyrannical; it just needs a revolution.  
 **Translation:** Vocabulary: tyrannical: 暴政的
 
-**[1680.00s] English:** because what's going to come after the revolution is going to be much better the assumption is that  
+**[1680.00s] English:** Because what's going to come after the revolution is going to be much better, the assumption is that.  
 **Translation:** 
 
-**[1684.34s] English:** there's lots of things that are good about most societies and that a a clean slate leads you to  
+**[1684.34s] English:** There are lots of things that are good about most societies, and a clean slate can lead you to.  
 **Translation:** Vocabulary: assumption: 假定; slate: 白板
 
-**[1692.24s] English:** to throw out all of the inherited things that you don't even know how to notice until they're gone  
+**[1692.24s] English:** To throw out all of the inherited things that you don't even know how to notice until they're gone.  
 **Translation:** 
 
-**[1697.94s] English:** could i actually play devil's advocate here and address something you also said  
+**[1697.94s] English:** Could I actually play devil's advocate here and address something you also said?  
 **Translation:** Vocabulary: advocate: 辩护; inherited: 继承的
 
-**[1701.68s] English:** can we as opposed to knowing the empirical data of the 20th century that communism presented can  
+**[1701.68s] English:** Can we, as opposed to knowing the empirical data of the 20th century that communism presented,  
 **Translation:** 
 
-**[1709.28s] English:** we go back to the beginning of the 20th century can you empathize or steel man or put yourself in  
-**Translation:** Vocabulary: communism: 共产主义; empathize: 换位思考
+**[1709.28s] English:** We go back to the beginning of the 20th century. Can you empathize, steel-man, or put yourself in?  
+**Translation:** Vocabulary: communism: 共产主义; empathize: 设身处地; empirical: 经验的
 
-**[1716.36s] English:** a place of the soviet union where the workers are being disrespected and can you not see that  
+**[1716.36s] English:** A place in the Soviet Union where the workers are being disrespected, and can you not see that?  
 **Translation:** 
 
-**[1723.56s] English:** the conservatives could be pro-communism like communism is such a strongly negative word in  
+**[1723.56s] English:** The conservatives could be pro-communism, like communism is such a strongly negative word in  
 **Translation:** Vocabulary: disrespected: 不受尊重
 
-**[1730.66s] English:** modern day political discourse that you can't like you have to put yourself in the mind of  
+**[1730.66s] English:** Modern-day political discourse: you can't just like it; you have to put yourself in the mind of  
 **Translation:** 
 
-**[1736.12s] English:** uh people who like red  
+**[1736.12s] English:** Uh, people who like red.  
 **Translation:** Vocabulary: discourse: 言论
 
-**[1739.02s] English:** collars  
+**[1739.02s] English:** Collars  
 **Translation:** 
 
-**[1739.28s] English:** it was it's all about the branding i think um just but also like the ideas of solidarity  
+**[1739.28s] English:** It's all about the branding, I think, um, just but also like the ideas of solidarity.  
+**Translation:** Vocabulary: collars: 领子
+
+**[1749.44s] English:** Of a nation of togetherness, of respect for fellow man—i mean, all of these things that  
 **Translation:** 
 
-**[1749.44s] English:** of nation of togetherness of uh respect for fellow man i mean all of these things that  
+**[1758.06s] English:** Kind of a communist, can you not see that this idea is actually going along?  
+**Translation:** Vocabulary: togetherness: 团结
+
+**[1765.52s] English:** With conservatism, it is in some ways respecting the deep.  
 **Translation:** 
 
-**[1758.06s] English:** kind of communist represents can you not see that this idea uh is actually uh going along  
-**Translation:** Vocabulary: togetherness: 同甘共苦
+**[1769.28s] English:** Ideals of the past, but proposing a new way to raise those ideals and implement those ideas in the  
+**Translation:** Vocabulary: conservatism: 保守主义; implement: 实施; proposing: 提出; respecting: 尊重
 
-**[1765.52s] English:** with conservatism it is in some ways respecting the the deep  
+**[1777.28s] English:** System: Yes, I'm going to try to do it as you're suggesting, but historically, we've actually have a  
 **Translation:** 
 
-**[1769.28s] English:** ideals of the past but proposing a new way to raise those ideals implement those ideas in the  
-**Translation:** Vocabulary: conservatism: 保守主义
-
-**[1777.28s] English:** system yes i'm going to try to do it what you're suggesting but historically we actually have a  
-**Translation:** 
-
-**[1782.80s] English:** more useful option i think for both of our positions instead of you know pretending that we  
+**[1782.80s] English:** More useful, I think, for both of our positions, instead of pretending that we  
 **Translation:** Vocabulary: historically: 历史上
 
-**[1787.52s] English:** like the actual communists we have conservative statesmen like disraeli and bismarck who initiated  
+**[1787.52s] English:** Like the actual communists, we have conservative statesmen like Disraeli and Bismarck, who initiated  
 **Translation:** 
 
-**[1798.00s] English:** social legislation  
-**Translation:** Vocabulary: bismarck: 俾斯麦; disraeli: 迪斯雷利; initiated: 发起; statesmen: 政要
+**[1798.00s] English:** Social legislation  
+**Translation:** Vocabulary: bismarck: 俾斯麦; disraeli: 迪斯雷利; initiated: 发起; statesmen: 政治家
 
-**[1799.28s] English:** right the  
+**[1799.28s] English:** Right, the  
 **Translation:** 
 
-**[1800.00s] English:** The first step towards saying, look, we're one nation, we're undergoing industrialization, that industrialization is important and positive, but it's also doing a lot of damage to a lot of people.  
+**[1800.00s] English:** The first step towards saying, "Look, we're one nation; we're undergoing industrialization. Industrialization is important and positive, but it's also doing a lot of damage to a lot of people.  
 **Translation:** 
 
-**[1815.70s] English:** And in particular, it's doing damage not just to individuals and families, but it's doing damage to the social fabric, the capacity of Britain or German to remain cohesive society as it is being harmed.  
+**[1815.70s] English:** And in particular, it's doing damage not just to individuals and families, but it's also damaging the social fabric, the capacity of Britain or Germany to remain a cohesive society as it is being harmed.  
 **Translation:** 
 
-**[1827.68s] English:** And so it's these two conservative statesmen, Disraeli and Bismarck, who actually take the first steps in order to legislate for what today we would consider to be minimal social programs, pensions and disability insurance and those kinds of things.  
-**Translation:** Vocabulary: cohesive: 凝聚力; legislate: 立法; pensions: 养老金
+**[1827.68s] English:** And so, it's these two conservative statesmen, Disraeli and Bismarck, who actually take the first steps in order to legislate for what, today, we would consider to be minimal social programs: pensions, disability insurance, and those kinds of things.  
+**Translation:** Vocabulary: cohesive: 凝聚力; fabric: 社会结构; harmed: 损害; legislate: 立法; minimal: 最基本的; pensions: 养老金
 
-**[1844.64s] English:** So for sure, conservatives do look at industrialization as a rapid change, and they say, we do have to care about the nation as a whole, and we have to care about it as a unity.  
+**[1844.64s] English:** So, for sure, conservatives do look at industrialization as a rapid change, and they say we do have to care about the nation as a whole, and we have to care about it as a unity.  
 **Translation:** 
 
 **[1856.76s] English:** And I'm not sure.  
 **Translation:** 
 
-**[1857.76s] English:** I assume that your own will say, look, that's the first step towards the catastrophe of communism.  
+**[1857.76s] English:** I assume that your own will say, "Look, that's the first step towards the catastrophe of communism.  
 **Translation:** 
 
-**[1864.48s] English:** But before your own drives that nail into the coffin, let me try to make a distinction.  
+**[1864.48s] English:** But before your own drives nail it into the coffin, let me try to make a distinction.  
 **Translation:** Vocabulary: catastrophe: 灾难; communism: 共产主义
 
 **[1870.38s] English:** Because when you read Marx, you're reading an intellectual descendant of Descartes.  
 **Translation:** 
 
-**[1876.96s] English:** You're reading somebody who says, look, every society consists of oppressors and oppressed.  
-**Translation:** Vocabulary: descartes: 笛卡尔; descendant: 后继者; oppressors: 压迫者
+**[1876.96s] English:** You're reading somebody who says: Look, every society consists of oppressors and oppressed.  
+**Translation:** Vocabulary: descartes: 笛卡尔; descendant: 后继者; oppressed: 被压迫者; oppressors: 压迫者
 
 **[1886.36s] English:** Right.  
 **Translation:** 
@@ -1132,8 +1133,8 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1887.68s] English:** And that's an improvement in some ways over liberal thinking, because at least he's seeing groups as a real social phenomenon.  
 **Translation:** 
 
-**[1895.00s] English:** But he says every society has an oppressor class and oppressed class.  
-**Translation:** 
+**[1895.00s] English:** But he says that every society has an oppressor class and an oppressed class.  
+**Translation:** Vocabulary: oppressor: 压迫者
 
 **[1898.76s] English:** There are different classes.  
 **Translation:** 
@@ -1145,12 +1146,12 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[1904.60s] English:** That is the foundation of a revolutionary political theory.  
-**Translation:** Vocabulary: exploits: 利用
+**Translation:** Vocabulary: exploits: 利用; revolutionary: 革命的
 
 **[1910.86s] English:** Why?  
 **Translation:** 
 
-**[1911.10s] English:** Because the moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1911.10s] English:** Because, at the moment that you say the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** Vocabulary: exploitation: 剥削
 
 **[1917.68s] English:** The moment that you say that.  
@@ -1159,55 +1160,55 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1919.96s] English:** Right.  
 **Translation:** 
 
-**[1920.14s] English:** Because the moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.00s] English:** Then you're pushed into the position, and Marx and Engels say this explicitly: "You're pushed into the position where he's asking, 'When will the exploitation end?  
 **Translation:** 
 
-**[1920.30s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.14s] English:** Because, at the moment that you say the only relationship between the stronger and the weaker is exploitation.  
+**Translation:** Vocabulary: explicitly: 明确地
+
+**[1920.30s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.42s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.42s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.50s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.50s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.56s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.56s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.70s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.70s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.74s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.74s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1920.80s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1920.80s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1921.04s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
+**[1921.04s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
-**[1921.14s] English:** The moment that you say that the only relationship between the stronger and the weaker is exploitation.  
-**Translation:** 
-
-**[1920.00s] English:** Then you're pushed into the position, and Marx and Engels say this explicitly, you're pushed into the position where he's saying, when will the exploitation end?  
+**[1921.14s] English:** The moment you say that the only relationship between the stronger and the weaker is exploitation.  
 **Translation:** 
 
 **[1927.48s] English:** Never until there's a revolution.  
-**Translation:** Vocabulary: engels: 恩格斯; explicitly: 明确地
+**Translation:** 
 
 **[1929.18s] English:** What happens when there's a revolution?  
 **Translation:** 
 
 **[1930.58s] English:** You eliminate the oppressor class.  
-**Translation:** Vocabulary: oppressor: 压迫者
+**Translation:** 
 
-**[1932.74s] English:** It's annihilationist.  
+**[1932.74s] English:** It's annihilational.  
 **Translation:** 
 
 **[1933.84s] English:** I mean, you can immediately, when you read it, see why it's different from Descartes or Bismarck, because they're trying to keep everybody somehow at peace with one another.  
-**Translation:** Vocabulary: annihilationist: 灭绝主义
+**Translation:** Vocabulary: annihilational: 毁灭性的; bismarck: 俾斯麦
 
-**[1945.28s] English:** And Marx is saying, there is no peace.  
+**[1945.28s] English:** And Marx is saying, "There is no peace.  
 **Translation:** 
 
 **[1947.64s] English:** That oppressor class has to be annihilated.  
@@ -1216,22 +1217,22 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1950.00s] English:** And then they go ahead and do it, and they kill 100 million people.  
 **Translation:** 
 
-**[1954.36s] English:** So I do think that despite the fact your question is good and right, there are certain similarities and concern.  
+**[1954.36s] English:** So, I do think that, despite the fact that your question is good and right, there are certain similarities and concerns.  
 **Translation:** 
 
 **[1961.20s] English:** But still, I think you can tell the difference.  
 **Translation:** 
 
-**[1963.08s] English:** That extra step of revolution to you is where the problem comes.  
+**[1963.08s] English:** That extra step of revolution for you is where the problem comes.  
 **Translation:** 
 
-**[1967.80s] English:** Like that extra step of let's kill all the oppressors.  
+**[1967.80s] English:** Like that extra step: "let's kill all the oppressors.  
 **Translation:** 
 
 **[1971.30s] English:** That's the problem.  
-**Translation:** 
+**Translation:** Vocabulary: oppressors: 压迫者
 
-**[1972.78s] English:** And then to you, you're on the whole step one is the problem.  
+**[1972.78s] English:** And then to you, you're on the whole: Step One is the problem.  
 **Translation:** 
 
 **[1976.40s] English:** Well, it's all a problem.  
@@ -1240,199 +1241,199 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[1977.68s] English:** First, I don't view communism.  
 **Translation:** 
 
-**[1980.00s] English:** It's something that radical in a sense that I think it comes from a tradition of collectivism.  
-**Translation:** 
+**[1980.00s] English:** It's something radical, in a sense that I think it comes from a tradition of collectivism.  
+**Translation:** Vocabulary: communism: 共产主义
 
 **[1987.50s] English:** I think it comes from a tradition of looking at groups and measuring things in terms of groups.  
 **Translation:** 
 
 **[1993.18s] English:** It comes from a tradition where you expect some people to be sacrificed for the greater good of the whole.  
-**Translation:** 
+**Translation:** Vocabulary: sacrificed: 牺牲
 
-**[1998.90s] English:** I think it comes from a tradition where mysticism or revelation as the source of truth is accepted.  
+**[1998.90s] English:** I think it comes from a tradition where mysticism or revelation is accepted as the source of truth.  
 **Translation:** 
 
 **[2008.32s] English:** I view Marxism.  
-**Translation:** Vocabulary: mysticism: 神秘主义; revelation: 启示
+**Translation:** Vocabulary: marxism: 马克思思想; mysticism: 神秘主义; revelation: 启示
 
-**[2010.00s] English:** I view Marxism as in some sense very Christian.  
+**[2010.00s] English:** I view Marxism as, in some sense, very Christian.  
 **Translation:** 
 
-**[2012.02s] English:** I don't think he's this radical rejecting.  
+**[2012.02s] English:** I don't think he's this radical; rejecting.  
+**Translation:** Vocabulary: rejecting: 拒绝
+
+**[2015.62s] English:** I think he's just reformating Christianity, in a sense.  
 **Translation:** 
 
-**[2015.62s] English:** I think he's just reformatting Christianity in a sense.  
+**[2019.24s] English:** He's replacing God with the proletariat.  
 **Translation:** 
 
-**[2019.24s] English:** He's replacing God with the proletarian.  
-**Translation:** Vocabulary: reformatting: 重新格式化
-
-**[2023.18s] English:** Knowledge, you have to get knowledge from somewhere.  
+**[2023.18s] English:** Knowledge: You have to get knowledge from somewhere.  
 **Translation:** 
 
-**[2026.20s] English:** So you need the dictatorship of the proletarian.  
+**[2026.20s] English:** So, you need the dictatorship of the proletariat.  
+**Translation:** Vocabulary: dictatorship: Dictator 的统治
+
+**[2028.44s] English:** You need somebody like Stalin or Lenin, who somehow commune with the spirit of the proletariat.  
 **Translation:** 
 
-**[2028.44s] English:** You need somebody, the Stalin, the Lenin, who somehow communes with the spirit of the proletarian.  
-**Translation:** 
+**[2034.84s] English:** There's no rationality; not rationalism.  
+**Translation:** Vocabulary: commune: 与...沟通; lenin: 列宁; stalin: 斯大林
 
-**[2034.84s] English:** There's no rationality, not rationalism.  
-**Translation:** Vocabulary: communes: 沟通; lenin: 列宁; stalin: 斯大林
-
-**[2037.28s] English:** There's no rationality in Marx.  
+**[2037.28s] English:** There's no rationality in Marx's ideas.  
 **Translation:** 
 
 **[2039.12s] English:** There is.  
 **Translation:** 
 
-**[2040.00s] English:** a lot of mysticism and there is a lot of uh hand waving and there's a lot of sacrifice and a lot  
+**[2040.00s] English:** A lot of mysticism, and there is a lot of uh hand-waving, and there's a lot of sacrifice, and a lot.  
 **Translation:** 
 
-**[2045.32s] English:** of original sin in the way he views humanity so i view marx as as one more collectivists in in a  
+**[2045.32s] English:** Of original sin, in the way he views humanity, so I view Marx as yet another collectivist.  
+**Translation:** Vocabulary: sacrifice: 牺牲
+
+**[2052.72s] English:** Whole string of collectivists, you know, and I think the Bismarckian response,...  
 **Translation:** 
 
-**[2052.72s] English:** whole string of collectivists uh you know and and i think i think the the the bismarckian response  
-**Translation:** 
-
-**[2058.64s] English:** which bismarck i mean this i know less about disraeli so i'll focus on bismarck i mean  
+**[2058.64s] English:** Which Bismarck? I mean, this I know less about Disraeli, so I'll focus on Bismarck. I mean,  
 **Translation:** Vocabulary: bismarck: 俾斯麦; bismarckian: 俾斯麦式的; disraeli: 迪斯雷利
 
-**[2064.06s] English:** bismarck is really responding to political pressures from the left and and and uh he's  
+**[2064.06s] English:** Bismarck is really responding to political pressures from the left, and he's  
 **Translation:** 
 
-**[2069.06s] English:** responding to the rise of of communism socialism but what bismarck is doing he's uh putting  
+**[2069.06s] English:** Responding to the rise of communism and socialism, but what Bismarck is doing, he's putting  
 **Translation:** Vocabulary: communism: 共产主义
 
-**[2075.92s] English:** something alternative he's presenting an alternative to the proletarian as the standard by which we  
+**[2075.92s] English:** Something alternative; he's presenting an alternative to the proletariat as the standard by which we  
 **Translation:** 
 
-**[2082.56s] English:** should uh we should matter the good and this and and what he's replacing it is the state he's  
+**[2082.56s] English:** We should matter the good, and what he's replacing it with is the state. He's  
 **Translation:** 
 
-**[2087.48s] English:** replacing the proletarian with the state and and that has exactly the same problems that is first  
+**[2087.48s] English:** Replacing the proletarian with the state, and that has exactly the same problems; it is first,  
 **Translation:** 
 
-**[2092.84s] English:** it requires sacrificing some to others which which is what the welfare state basically legitimizes  
-**Translation:** Vocabulary: legitimizes: 正当化; sacrificing: 牺牲
+**[2092.84s] English:** It requires sacrificing some for others, which is essentially what the welfare state basically legitimizes.  
+**Translation:** Vocabulary: legitimizes: 使正当; sacrificing: 牺牲
 
-**[2097.58s] English:** um it it  
+**[2097.58s] English:** Um, it's it.  
 **Translation:** 
 
-**[2099.06s] English:** it places the state above all so the state now becomes i think the biggest evil of bismarck and  
+**[2099.06s] English:** It places the state above all, so the state now becomes, I think, the biggest evil of Bismarck's Germany.  
 **Translation:** 
 
-**[2103.44s] English:** i i definitely view him as a negative force in history is uh public education i mean i mean the  
+**[2103.44s] English:** I definitely view him as a negative force in history, especially regarding public education. I mean, the  
 **Translation:** 
 
-**[2109.34s] English:** germans really uh dig in on public education and really develop it and really the american model  
+**[2109.34s] English:** Germans really dig into public education and really develop it, and the American model.  
 **Translation:** 
 
-**[2115.14s] English:** of public education is is copying the the german the prussian uh bismarckian public education  
+**[2115.14s] English:** Of public education is copying the German, Prussian, Bismarckian model.  
 **Translation:** 
 
-**[2121.44s] English:** speak to that real quick why the public education is such a root of moral evil for you well because  
+**[2121.44s] English:** Speak to that real quick: why public education is such a root of moral evil for you? Well, because.  
 **Translation:** 
 
-**[2129.06s] English:** bismarck says that there's one uh standard and that standard is determined by government by by a  
+**[2129.06s] English:** Bismarck says that there's one, uh, standard, and that standard is determined by the government.  
 **Translation:** 
 
-**[2135.16s] English:** bureaucracy by by whatever the government deems is in the national interest and bismarck's very  
+**[2135.16s] English:** Bureaucracy, by whatever the government deems is in the national interest, and Bismarck's very.  
 **Translation:** Vocabulary: bureaucracy: 官僚体系
 
-**[2140.30s] English:** explicit about this he's training the workers of the future uh you know they they need to catch up  
+**[2140.30s] English:** Explicit about this, he's training the workers of the future, you know? They need to catch up.  
 **Translation:** 
 
-**[2145.00s] English:** and and you know with england and other places and they need to train the workers and there's  
+**[2145.00s] English:** And, you know, with England and other places, they need to train the workers, and there's  
 **Translation:** Vocabulary: explicit: 明确的
 
-**[2148.84s] English:** going to be a he's going to train some people to be the managerial class is going to train other  
+**[2148.84s] English:** Going to be a manager, he's going to train some people to be the managerial class and is going to train others.  
 **Translation:** 
 
-**[2152.68s] English:** people to be and he decides right the the government the bureaucracy is going to decide  
+**[2152.68s] English:** People to be, and he decides that the government, the bureaucracy, is going to decide.  
 **Translation:** 
 
-**[2156.56s] English:** who's who and where they go there's no individual  
+**[2156.56s] English:** Who's who, and where they go; there's no individual.  
 **Translation:** 
 
-**[2159.06s] English:** choice there's no  
+**[2159.06s] English:** Choice: there's no  
 **Translation:** 
 
-**[2160.00s] English:** individual uh is showing an ability to break out of what what the government has decided is their  
+**[2160.00s] English:** Individuals are showing an ability to break out of what the government has decided is their  
 **Translation:** 
 
-**[2165.22s] English:** little box uh there's very little freedom uh there's very little uh you know ultimately there's  
+**[2165.22s] English:** Little box; uh, there's very little freedom. Uh, there's very little, you know, ultimately there's...  
 **Translation:** 
 
-**[2170.76s] English:** very little competition there's very little innovation and this is the problem we have  
+**[2170.76s] English:** Very little competition, there's very little innovation, and this is the problem we have.  
 **Translation:** 
 
-**[2174.76s] English:** today in american education which we can get to is there's no competition and no innovation we have  
+**[2174.76s] English:** Today, in American education, which we can get to, is that there's no competition and no innovation; we have...  
 **Translation:** 
 
-**[2178.92s] English:** one standard fit all and then we have conflicts about what should be taught and the conflicts  
+**[2178.92s] English:** One size fits all, and then we have conflicts about what should be taught, and the conflicts.  
 **Translation:** 
 
-**[2183.86s] English:** now not pedagogical they're not about what works and what doesn't nobody cares about that it's  
-**Translation:** Vocabulary: pedagogical: 教学相关的
+**[2183.86s] English:** Now, they're not pedagogical; they're not about what works and what doesn't. Nobody cares about that; it's  
+**Translation:** Vocabulary: pedagogical: 教学的
 
-**[2189.94s] English:** about political agendas right it's about what my group wants to be taught and what that group wants  
+**[2189.94s] English:** About political agendas, right? It's about what my group wants to be taught, and what that group wants.  
 **Translation:** 
 
-**[2194.60s] English:** to be taught rather than actually discovering how do we get kids to read i mean we all know how to  
+**[2194.60s] English:** To be taught rather than actually discovering how we get kids to read; I mean, we all know how to.  
+**Translation:** Vocabulary: agendas: 日程
+
+**[2199.76s] English:** Get kids to read, but there's a political agenda around not teaching phonics, for example, so a lot.  
 **Translation:** 
 
-**[2199.76s] English:** get kids to read but there's a political agenda around not teaching phonics for example so a lot  
+**[2205.36s] English:** Of schools don't teach phonics, even though the kids will never learn how to read properly, so it  
 **Translation:** 
 
-**[2205.36s] English:** of schools don't teach phonics even though the kids will never learn how to read properly so it  
-**Translation:** Vocabulary: phonics: 音标教学
-
-**[2209.60s] English:** becomes politics and i i don't believe politics belongs in education i think education is a  
+**[2209.60s] English:** Becomes politics, and I don't believe politics belongs in education; I think education is a  
 **Translation:** 
 
-**[2214.30s] English:** product it's a service and we know how to deliver products and services really really efficiently at  
-**Translation:** Vocabulary: efficiently: 高效地
-
-**[2219.20s] English:** a really really low  
+**[2214.30s] English:** Product: It's a service, and we know how to deliver products and services really efficiently.  
 **Translation:** 
 
-**[2219.94s] English:** price at a really really high quality and that's leaving it to the market to do but your fundamental  
+**[2219.20s] English:** A really, really low  
 **Translation:** 
 
-**[2225.32s] English:** criticism is that the state can use education to uh furthers authoritarian aims well or whatever  
+**[2219.94s] English:** Price at a really, really high quality, and that's leaving it to the market to decide, but your fundamentals...  
+**Translation:** Vocabulary: fundamentals: 基本要素
+
+**[2225.32s] English:** Criticism is that the state can use education to further authoritarian aims, well, or whatever.  
 **Translation:** 
 
-**[2234.38s] English:** the aims i mean think about the conservative today critique of american educational system  
+**[2234.38s] English:** The aims, I mean, think about the conservative today's critique of the American educational system.  
 **Translation:** Vocabulary: authoritarian: 独裁主义; critique: 批评
 
-**[2238.64s] English:** it's dominated by the left yeah what did you expect right if you leave it if you leave it  
+**[2238.64s] English:** It's dominated by the left, yeah. What did you expect, right? If you leave it,  
 **Translation:** 
 
-**[2244.30s] English:** up to the state to fund they're going to fund the things that promote state growth and state  
+**[2244.30s] English:** Up to the state to fund; they're going to fund the things that promote state growth and state.  
+**Translation:** Vocabulary: dominated: 被左派主导
+
+**[2249.94s] English:** Expansion, and the left is better at that; it has been better at that than the right.  
 **Translation:** 
 
-**[2249.94s] English:** expansion and the left is better at that it has been better at that than than the right and and  
+**[2254.44s] English:** They now dominate our educational institutions, but look—if we go back to Bismarck, my problem is...  
+**Translation:** Vocabulary: dominate: 占据主导
+
+**[2259.52s] English:** Placing the state above the individual, so if communism places the class above the individual.  
 **Translation:** 
 
-**[2254.44s] English:** they now dominate our educational institutions but look if we go back to bismarck my problem is  
-**Translation:** Vocabulary: bismarck: 俾斯麦; dominate: 占据主导
+**[2265.84s] English:** What matters is class; individuals are nothing, they're cogs in a machine, Bismarck.  
+**Translation:** Vocabulary: bismarck: 俾斯麦; communism: 共产主义
 
-**[2259.52s] English:** placing the state above the individual so if if communism places the the class above the individual  
+**[2270.92s] English:** The German tradition is much more than the British tradition or the American tradition. The German...  
 **Translation:** 
 
-**[2265.84s] English:** what matters is class individuals are nothing they're cogs in a machine bismarck the certainly  
-**Translation:** Vocabulary: communism: 阶级至上
-
-**[2270.92s] English:** the german tradition much more than the british tradition or the american tradition the the german  
+**[2274.82s] English:** Tradition is to place the state above the individual. I think that's equally evil, and...  
 **Translation:** 
 
-**[2274.82s] English:** tradition is to place the state above the individual i think that's equally evil and and the  
+**[2278.84s] English:** The outcome is fascism, and the outcome is the!  
 **Translation:** 
 
-**[2278.84s] English:** outcome is fascism and the outcome is the!  
-**Translation:** 
-
-**[2279.42s] English:** fascism is the right thing!  
+**[2279.42s] English:** Fascism is the right thing!  
 **Translation:** Vocabulary: fascism: 法西斯主义
 
 **[2279.94s] English:** We'll be right back.  
@@ -1444,16 +1445,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2281.00s] English:** The outcome is the deaths of tens of millions of people when taken to its ultimate conclusion.  
 **Translation:** 
 
-**[2285.96s] English:** Just like socialism, the ultimate conclusion of it is communism, you know, nationalism in that form, kind of the Bismarckian form.  
+**[2285.96s] English:** Just like socialism, the ultimate conclusion of it is communism—you know, nationalism in that form, kind of the Bismarckian form.  
 **Translation:** Vocabulary: bismarckian: 俾斯麦式的
 
-**[2294.76s] English:** The ultimate conclusion is Nazism or some form of fascism because you don't care about the individual.  
+**[2294.76s] English:** The ultimate conclusion is Nazism or some form of fascism, because you don't care about the individual.  
 **Translation:** 
 
 **[2302.64s] English:** The individual doesn't matter.  
 **Translation:** Vocabulary: nazism: 纳粹主义
 
-**[2303.72s] English:** I think this is one of the differences in the Anglo-American tradition where the Anglo-American tradition, even the conservatives, have always acknowledged, and it goes back to—  
+**[2303.72s] English:** I think this is one of the differences in the Anglo-American tradition, where, even the conservatives, have always acknowledged, and it goes back to—  
 **Translation:** 
 
 **[2316.32s] English:** Especially the conservatives.  
@@ -1471,43 +1472,43 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2326.64s] English:** We agree on that.  
 **Translation:** Vocabulary: thinkers: 思想家
 
-**[2327.60s] English:** I'm defining conservatism the way that Burke does.  
+**[2327.60s] English:** I'm defining conservatism the way Burke does.  
 **Translation:** 
 
 **[2331.20s] English:** Look, this is a very simple observation.  
 **Translation:** Vocabulary: conservatism: 保守主义
 
-**[2333.72s] English:** Burke thinks when you open Burke and you actually read him, he starts naming all of these people who he's defending, and it's bizarre.  
+**[2333.72s] English:** Burke thinks that when you open his book and actually read him, he starts naming all of these people who he's defending, and it's bizarre.  
 **Translation:** 
 
 **[2341.28s] English:** I'm sorry.  
+**Translation:** Vocabulary: bizarre: 奇怪的
+
+**[2341.68s] English:** It's just intellectual sloppiness for people to be publishing books called "Burke, the First Conservative" or "The Founding Conservative.  
 **Translation:** 
 
-**[2341.68s] English:** It's just intellectual sloppiness for people to be publishing books called Burke, the first conservative, the founding conservative.  
-**Translation:** 
-
-**[2348.70s] English:** I mean, this is nonstop.  
-**Translation:** Vocabulary: founding: 奠基人; sloppiness: 粗心大意
+**[2348.70s] English:** I mean, this is non-stop.  
+**Translation:** Vocabulary: founding: 创始; sloppiness: 粗心
 
 **[2350.74s] English:** It's a view that says Burke reacts to the French Revolution, so conservatism has no prior tradition.  
 **Translation:** 
 
 **[2356.86s] English:** It's just reacting to the French Revolution, and this is just absurd.  
+**Translation:** Vocabulary: absurd: 荒谬; reacting: 回应; reacts: 反应
+
+**[2360.92s] English:** Can I ask a quick question about conservatism?  
 **Translation:** 
 
-**[2360.92s] English:** Can I ask a quick question on conservatism?  
-**Translation:** 
-
-**[2363.00s] English:** Are there any conservatives that are embracing of revolutions, so are they ultimately against the concept of revolution?  
+**[2363.00s] English:** Are there any conservatives who are embracing revolutions, so are they ultimately against the concept of revolution?  
 **Translation:** Vocabulary: embracing: 接纳; revolutions: 革命
 
 **[2370.56s] English:** Yes, Burke himself embraces the Polish Revolution, which takes place almost exactly at the same time as the French Revolution.  
 **Translation:** 
 
-**[2377.98s] English:** And the argument's really interesting because there's—a common mistake is assuming that Burke and conservative thinkers are always in favor of slow change.  
-**Translation:** Vocabulary: embraces: 支持
+**[2377.98s] English:** And the argument's really interesting because there's a common mistake in assuming that Burke and conservative thinkers are always in favor of slow change.  
+**Translation:** Vocabulary: embraces: 支持; polish: 波兰的
 
-**[2386.48s] English:** I think that's also just factually mistaken.  
+**[2386.48s] English:** I think that's also factually mistaken.  
 **Translation:** 
 
 **[2389.98s] English:** Burke is against the French Revolution.  
@@ -1519,145 +1520,145 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2392.82s] English:** Burke is against the French Revolution because he thinks that there are actually tried-and-true things that work, things that—  
 **Translation:** 
 
-**[2400.00s] English:** work for human human flourishing and freedom included as as a very important part of human  
+**[2400.00s] English:** Work for human flourishing and freedom, including it as a very important part of human endeavors.  
 **Translation:** 
 
-**[2405.74s] English:** flourishing um he like many others takes the uh takes the uh the british the english constitution  
-**Translation:** Vocabulary: flourishing: 繁荣
+**[2405.74s] English:** Flourishing, um, he likes many others to take the, uh, British or English constitution.  
+**Translation:** Vocabulary: endeavors: 努力; flourishing: 繁荣
 
-**[2413.24s] English:** to be a a model of something that works you know so it has a king it has various other things that  
+**[2413.24s] English:** To be a model of something that works, you know, so it has a king and various other things that  
 **Translation:** 
 
-**[2418.94s] English:** that you know maybe your own will say well that that's a mistake but still for centuries it's  
+**[2418.94s] English:** That, you know, maybe your own will say, "Well, that's a mistake," but still, for centuries, it's  
 **Translation:** 
 
-**[2424.48s] English:** the leader in many things that i think we can easily agree are human flourishing and burke says  
+**[2424.48s] English:** The leader in many things that I think we can easily agree are human flourishing, Burke says.  
 **Translation:** 
 
-**[2430.60s] English:** look what's wrong with the french revolution what's wrong with the french revolution is that  
+**[2430.60s] English:** Look, what's wrong with the French Revolution is that  
 **Translation:** 
 
-**[2434.58s] English:** they is that they have a system that has all sorts of problems but they could they could be repairing  
+**[2434.58s] English:** They have a system that has all sorts of problems, but they could be repairing it.  
 **Translation:** 
 
-**[2439.92s] English:** it and instead what they're doing by over by by overthrowing everything is they're moving away  
+**[2439.92s] English:** It and instead of keeping things as they are, by overthrowing everything, they are moving away.  
 **Translation:** Vocabulary: overthrowing: 推翻
 
-**[2445.32s] English:** from what we know is good for for human beings then he looks at the polish revolution and he  
+**[2445.32s] English:** From what we know is good for humans, then he looks at the Polish Revolution and he  
 **Translation:** 
 
-**[2450.70s] English:** says the poles do the opposite the poles have a non-functioning traditional  
+**[2450.70s] English:** Says the poles do the opposite; the poles have a non-functional, traditional design.  
 **Translation:** 
 
-**[2454.48s] English:** constitution it's it's too democratic it it's impossible to get uh to to raise armies and and  
+**[2454.48s] English:** Constitution? It's too democratic. It's impossible to get anything done, like raising armies.  
 **Translation:** 
 
-**[2460.96s] English:** and to defend the country because of the fact that every nobleman has a veto so the the polish  
+**[2460.96s] English:** And to defend the country, because the fact is that every nobleman has a veto, so the Polish...  
 **Translation:** Vocabulary: nobleman: 贵族
 
-**[2466.72s] English:** revolution moves in the direction of the british constitution they repair their constitution  
+**[2466.72s] English:** Revolution moves in the direction of the British constitution; they repair their constitution.  
 **Translation:** 
 
-**[2472.86s] English:** through a quick a rapid revolution they install a king along the model that looks a lot like britain  
+**[2472.86s] English:** Through a quick and rapid revolution, they installed a king along the model that looks a lot like Britain.  
 **Translation:** 
 
-**[2479.68s] English:** and burke supports he says that this is a good revolution  
+**[2479.68s] English:** And Burke supports him, saying that this is a good revolution.  
 **Translation:** 
 
-**[2483.32s] English:** so it's  
+**[2483.32s] English:** So it's  
 **Translation:** 
 
-**[2484.48s] English:** it it's not um the the need to quickly make a change in order to save yourself that that's  
+**[2484.48s] English:** It's not about the need to quickly make a change in order to save yourself.  
 **Translation:** 
 
-**[2491.12s] English:** not what conservatives are objecting to what they're objecting to is instead of looking at  
+**[2491.12s] English:** Not what conservatives are objecting to; what they're objecting to is instead of looking at  
 **Translation:** Vocabulary: objecting: 反对
 
-**[2497.18s] English:** experience in order to try to make a slow or quick improvement a measured improvement to achieve a  
+**[2497.18s] English:** Experience in order to try to make a slow or quick improvement, a measured improvement to achieve a  
 **Translation:** 
 
-**[2504.16s] English:** particular goal instead of doing that you say look the whole thing has just been wrong and what we've  
+**[2504.16s] English:** Particular goal, instead of doing that, you say, "Look, the whole thing has just been wrong," and what we've  
 **Translation:** 
 
-**[2509.14s] English:** really got to do is annihilate a certain part of the population and then make completely new laws  
+**[2509.14s] English:** Really, we just have to annihilate a certain part of the population and then make completely new laws.  
 **Translation:** 
 
-**[2513.22s] English:** and a completely new theory  
+**[2513.22s] English:** And a completely new theory.  
 **Translation:** Vocabulary: annihilate: 彻底消灭
 
-**[2514.48s] English:** that that's what he's objecting to that's the french revolution and that then becomes you know  
+**[2514.48s] English:** That's what he's objecting to: that's the French Revolution, and that then becomes, you know,...  
 **Translation:** 
 
-**[2519.06s] English:** the model for for  
+**[2519.06s] English:** The model for:  
 **Translation:** 
 
-**[2520.00s] English:** communist revolutions and for me that i mean the french revolution is clearly a real evil and wrong  
+**[2520.00s] English:** Communist revolutions, and for me, that I mean, the French Revolution is clearly a real evil and wrong.  
 **Translation:** 
 
-**[2526.02s] English:** but it's not that it was a revolution and it's not that it tried to change everything i mean let's  
-**Translation:** Vocabulary: revolutions: 革命
+**[2526.02s] English:** But it's not that it was a revolution and it's not that it tried to change everything; I mean, let's  
+**Translation:** Vocabulary: revolutions: 变革
 
-**[2530.10s] English:** remember what was going on in france at the time and people were starving and the monarchy in  
+**[2530.10s] English:** Remember what was going on in France at the time, and people were starving, and the monarchy was crumbling.  
 **Translation:** 
 
-**[2534.48s] English:** particular was completely detached completely detached from the suffering of the people and  
-**Translation:** Vocabulary: detached: 毫不关心; monarchy: 君主制; starving: 挨饿
+**[2534.48s] English:** Particular was completely detached, completely detached from the suffering of the people and  
+**Translation:** Vocabulary: crumbling: 崩塌; detached: 冷漠; monarchy: 君主制; starving: 饥饿
 
-**[2539.38s] English:** something needed to change the the the unfortunate thing is that that uh the change was motivated by  
+**[2539.38s] English:** Something needed to change. The unfortunate thing is that the change was motivated by  
 **Translation:** 
 
-**[2547.32s] English:** a a an egalitarian philosophy not egalitarian in the sense that i think the funny fathers talked  
-**Translation:** Vocabulary: egalitarian: 提倡平等的
+**[2547.32s] English:** A truly egalitarian philosophy, not egalitarian in the sense that I think those funny fathers talked.  
+**Translation:** Vocabulary: egalitarian: 提倡平等; motivated: 受...驱动
 
-**[2552.74s] English:** about it but egalitarian in a sense of real equality quality of outcome uh motivated by a  
+**[2552.74s] English:** About it, but egalitarian in a sense of real equality in outcomes, uh, motivated by a  
 **Translation:** 
 
-**[2558.02s] English:** philosophy by rousseau's philosophy and it inevitably led you could tell that the ideas  
+**[2558.02s] English:** Philosophy, influenced by Rousseau's philosophy, and it inevitably led you to be able to tell that the ideas...  
+**Translation:** Vocabulary: inevitably: 必然; outcomes: 结果
+
+**[2563.42s] English:** We were going to lead to this massive destruction and death, and the annihilation of a class.  
 **Translation:** 
 
-**[2563.42s] English:** were going to lead to this to massive destruction and death and and the annihilation of a class  
+**[2568.26s] English:** You can't annihilate; is never an option. That is, it's not true that a good revolution never.  
+**Translation:** Vocabulary: annihilation: 彻底消灭
+
+**[2575.10s] English:** Leads to mass death, uh.  
 **Translation:** 
 
-**[2568.26s] English:** you can't annihilation is never an option that is it it's not true that a good revolution never  
-**Translation:** Vocabulary: annihilation: 灭绝
-
-**[2575.10s] English:** leads to mass death uh  
-**Translation:** 
-
-**[2577.32s] English:** just whole groups of people because a good revolution is about the sanctity of the  
+**[2577.32s] English:** Just whole groups of people, because a good revolution is about the sanctity of the  
 **Translation:** Vocabulary: sanctity: 神圣性
 
-**[2581.48s] English:** individual it's about preservation liberty of the individual and and again that that goes back to  
+**[2581.48s] English:** Individuals: it's about preserving the liberty of the individual, and again, that goes back to  
 **Translation:** 
 
-**[2586.48s] English:** and and the french revolution denies and rousseau denies really that in civilization there is a  
+**[2586.48s] English:** And the French Revolution, along with Rousseau, denies that in civilization there is a  
 **Translation:** Vocabulary: rousseau: 卢梭
 
-**[2591.72s] English:** value and a thing called the individual i think this is a good place to have this discussion  
+**[2591.72s] English:** Value, and a thing called the individual—I think this is a good place to have this discussion.  
 **Translation:** 
 
-**[2596.82s] English:** the founding fathers of the united states are they um individualists or are they conservatives  
+**[2596.82s] English:** The founding fathers of the United States are they individualists or conservatives?  
 **Translation:** Vocabulary: founding: 创始; individualists: 个人主义者
 
-**[2605.10s] English:** so in this particular  
+**[2605.10s] English:** So, in this particular  
 **Translation:** 
 
-**[2607.32s] English:** particular revolution that founded this country at the core of which are some fascinating some  
+**[2607.32s] English:** Particular revolution that founded this country, at the core of which are some fascinating ideas.  
 **Translation:** 
 
-**[2613.20s] English:** powerful ideas were those founding fathers were those ideas coming from a place of conservatism  
+**[2613.20s] English:** Powerful ideas were those, coming from the founding fathers, and they were rooted in conservatism.  
 **Translation:** 
 
-**[2620.00s] English:** or did they put primary value into the freedom and the power of the individual what do you think  
+**[2620.00s] English:** Or did they put primary value on the freedom and the power of the individual? What do you think?  
+**Translation:** Vocabulary: conservatism: 保守主义
+
+**[2626.90s] English:** They were both, I mean, this is something that's a little bit difficult for sometimes.  
 **Translation:** 
 
-**[2626.90s] English:** they were both i mean this is i this is something that's a little bit difficult for sometimes for  
-**Translation:** 
+**[2632.52s] English:** For Americans, I mean, even very educated Americans, they look and talk about the  
+**Translation:** Vocabulary: educated: 受过教育的
 
-**[2632.52s] English:** for for americans i mean even very educated americans they look they talk about the  
-**Translation:** 
-
-**[2637.32s] English:** founding fathers as though it's kind of like this  
+**[2637.32s] English:** Founding Fathers, as though it's kind of like this.  
 **Translation:** 
 
 **[2640.00s] English:** Yeah, this collective entity with a single brain and a single value system.  
@@ -1666,13 +1667,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2646.60s] English:** But I think at the time, that's not the way any of them saw it.  
 **Translation:** 
 
-**[2652.44s] English:** So roughly, there's two camps, and they map onto the rationalist versus traditionalist  
+**[2652.44s] English:** So, roughly, there are two camps, and they map onto the rationalist versus traditionalist.  
 **Translation:** 
 
-**[2658.60s] English:** empiricist dichotomy that I proposed earlier.  
+**[2658.60s] English:** Empiricist dichotomy that I proposed earlier.  
 **Translation:** 
 
-**[2662.12s] English:** And so on the one hand, you have real revolutionaries like Jefferson and Paine.  
+**[2662.12s] English:** And so, on the one hand, you have real revolutionaries like Jefferson and Paine.  
 **Translation:** Vocabulary: dichotomy: 对立二分; empiricist: 经验主义者; revolutionaries: 革命家
 
 **[2668.50s] English:** These are the people who Burke was writing against.  
@@ -1681,40 +1682,40 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2671.06s] English:** These are the people who supported the French Revolution.  
 **Translation:** 
 
-**[2673.80s] English:** So when you say real, so when you say Paine, you're referring to revolutionaries in a bad  
+**[2673.80s] English:** So, when you say "real" and "Paine," you're referring to revolutionaries in a bad light.  
 **Translation:** 
 
-**[2678.52s] English:** way, like this is a problem.  
+**[2678.52s] English:** Way, like, this is a problem.  
 **Translation:** 
 
-**[2680.18s] English:** These are people who will say, history up until now has been, with Descartes, but applied  
+**[2680.18s] English:** These are people who will say: History up until now has been, with Descartes, but applied,...  
 **Translation:** 
 
-**[2688.12s] English:** to politics, history up until now has been just a story of ugliness, foolishness, stupidity,  
-**Translation:** Vocabulary: descartes: 笛卡尔; ugliness: 丑陋
+**[2688.12s] English:** To politics, history up until now has been just a story of ugliness, foolishness, and stupidity.  
+**Translation:** Vocabulary: descartes: 笛卡尔; stupidity: 愚蠢; ugliness: 丑陋
 
-**[2695.08s] English:** and evil.  
+**[2695.08s] English:** And evil.  
 **Translation:** 
 
 **[2696.22s] English:** And if you apply reason.  
 **Translation:** 
 
-**[2699.22s] English:** We'll all come to roughly, we'll all come to the same conclusions, you know, and Paine  
+**[2699.22s] English:** We'll all come to roughly the same conclusions, you know, and Paine.  
 **Translation:** 
 
-**[2704.12s] English:** writes a book called The Age of Reason.  
+**[2704.12s] English:** Writes a book called "The Age of Reason.  
 **Translation:** 
 
-**[2706.66s] English:** And The Age of Reason is a manifesto for here is the answer to political and moral problems  
+**[2706.66s] English:** And "The Age of Reason" is a manifesto: here is the answer to political and moral problems.  
 **Translation:** 
 
-**[2713.02s] English:** throughout history.  
+**[2713.02s] English:** Throughout history.  
 **Translation:** Vocabulary: manifesto: 宣言
 
 **[2714.18s] English:** We have the answers.  
 **Translation:** 
 
-**[2715.56s] English:** And it's in the same school as Rousseau's The Social Con...  
+**[2715.56s] English:** And it's in the same school as Rousseau's "The Social Contract"...  
 **Translation:** 
 
 **[2718.90s] English:** No, you don't like that?  
@@ -1723,19 +1724,19 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2720.68s] English:** Not at all.  
 **Translation:** 
 
-**[2721.18s] English:** Well, I thought it was...  
+**[2721.18s] English:** Well, I thought it was....  
 **Translation:** 
 
 **[2721.82s] English:** I think they're the opposite.  
 **Translation:** 
 
-**[2723.04s] English:** Okay, so let me...  
+**[2723.04s] English:** Okay, so let me....  
 **Translation:** 
 
-**[2723.98s] English:** Just to throw in a question on Jefferson and Paine.  
+**[2723.98s] English:** Just to throw in a question about Jefferson and Paine.  
 **Translation:** 
 
-**[2727.92s] English:** Do you think...  
+**[2727.92s] English:** Do you think...?  
 **Translation:** 
 
 **[2728.50s] English:** Do you think America would exist without those two figures?  
@@ -1759,7 +1760,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2746.68s] English:** I'm going to offer something that I think is more fun.  
 **Translation:** 
 
-**[2748.94s] English:** More fun than the counterfactual is America had two revolutions, not one.  
+**[2748.94s] English:** More fun than the counterfactual is that America had two revolutions, not one.  
 **Translation:** 
 
 **[2754.82s] English:** Okay?  
@@ -1774,362 +1775,362 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[2758.50s] English:** That is strongly spiced.  
 **Translation:** 
 
-**[2760.00s] English:** with uh this kind this kind of rationalism um and then there's a 10-year period after the  
+**[2760.00s] English:** With this kind of rationalism, um, and then there's a 10-year period after the  
+**Translation:** Vocabulary: spiced: 加了香料的
+
+**[2767.60s] English:** Declaration of Independence: There is a 10-year period during which America has a constitution.  
 **Translation:** 
 
-**[2767.60s] English:** declaration of independence there's a 10-year period under which america has a constitution  
-**Translation:** 
-
-**[2772.34s] English:** its first constitution which today they call the articles of the confederation but there's a  
+**[2772.34s] English:** Its first constitution, which today they call the Articles of Confederation, but there's a  
 **Translation:** Vocabulary: confederation: 联盟
 
-**[2776.58s] English:** constitution from 1777 and that constitution is based on in a lot of ways on the hottest new  
+**[2776.58s] English:** Constitution from 1777, and that Constitution is based on, in a lot of ways, on the hottest new ideas.  
 **Translation:** 
 
-**[2784.94s] English:** ideas it has instead of the traditional british system with a division of powers between you know  
+**[2784.94s] English:** Ideas it has, instead of the traditional British system with a division of powers between, you know,  
 **Translation:** 
 
-**[2791.48s] English:** an executive and a bicameral legislature instead instead of that traditional english  
+**[2791.48s] English:** An executive and a bicameral legislature, instead of that traditional English system.  
 **Translation:** 
 
-**[2796.88s] English:** model which most of the states had as their governments instead of that they say no we're  
-**Translation:** Vocabulary: bicameral: 两院制
+**[2796.88s] English:** Model, which most of the states had as their governments, instead of that, they say, "No, we're  
+**Translation:** Vocabulary: bicameral: 两院制; legislature: 立法机关
 
-**[2802.14s] English:** going to have uh one uh elected body okay and that body that congress it's going to be the executive  
+**[2802.14s] English:** Going to have one elected body, okay, and that body—that Congress—is going to be the executive.  
 **Translation:** 
 
-**[2809.86s] English:** it's going to be the legislative it's going to be it's going to be everything and it's going to run  
+**[2809.86s] English:** It's going to be the legislative process, everything, and it's going to run smoothly.  
 **Translation:** 
 
-**[2814.32s] English:** as a big committee  
+**[2814.32s] English:** As a big committee,  
 **Translation:** 
 
-**[2814.94s] English:** these these are the ideas of the french revolution you get to actually see them implemented  
+**[2814.94s] English:** These are the ideas of the French Revolution; you get to actually see them implemented.  
+**Translation:** Vocabulary: implemented: 付诸实施
+
+**[2819.06s] English:** In Pennsylvania, in the Pennsylvania Constitution, and then later in the  
 **Translation:** 
 
-**[2819.06s] English:** in uh in pennsylvania in the pennsylvania constitution and then and then later in the  
+**[2824.98s] English:** National Assembly in France: It's a disaster. The thing doesn't work. It's completely made up.  
 **Translation:** 
 
-**[2824.98s] English:** national assembly in france it's a disaster the thing doesn't work it's completely made up it's  
+**[2830.26s] English:** Not based on any kind; it's neither based on historical experience nor is it based on.  
 **Translation:** 
 
-**[2830.26s] English:** not based on any kind it's it's neither based on historical experience nor is it based on  
+**[2834.50s] English:** Historical custom on what people are used to, and what they succeed in creating with this first.  
 **Translation:** 
 
-**[2834.50s] English:** historical custom on what people are used to and what what they succeed in creating with this first  
+**[2839.62s] English:** The Constitution is wonderfully rational, but it's a complete disaster.  
 **Translation:** 
 
-**[2839.62s] English:** constitution is it's wonderfully rational but it's a complete disaster  
+**[2844.52s] English:** It  
 **Translation:** 
 
-**[2844.52s] English:** it  
+**[2844.94s] English:** Doesn't allow the raising of taxes, it doesn't allow the muster of troops, it doesn't allow  
 **Translation:** 
 
-**[2844.94s] English:** doesn't allow the raising of taxes it doesn't allow the mustering of troops it doesn't allow  
+**[2849.84s] English:** Giving orders to soldiers to fight a war, and if it had continued, if that had continued,  
 **Translation:** 
 
-**[2849.84s] English:** giving orders to to soldiers to fight a war and if it if that had continued if that had continued  
+**[2857.66s] English:** To be the American Constitution, America never would have been an independent nation.  
 **Translation:** 
 
-**[2857.66s] English:** to be the the the uh the the american constitution america never would have been an independent  
-**Translation:** 
-
-**[2862.14s] English:** country there i'm willing to do that counterfactual what happens uh during those years  
+**[2862.14s] English:** Country, there; I'm willing to do that counterfactual: what happens during those years?  
 **Translation:** Vocabulary: counterfactual: 假设情景
 
-**[2867.84s] English:** where uh where uh washington and jay and knox and hamilton  
+**[2867.84s] English:** Where, uh, were Washington, Jay, Knox, and Hamilton?  
 **Translation:** 
 
-**[2874.94s] English:** And Morris, there's like this group of conservatives.  
+**[2874.94s] English:** And Morris, there's a group of conservatives.  
 **Translation:** Vocabulary: hamilton: 汉密尔顿
 
 **[2878.64s] English:** They're mostly.  
 **Translation:** 
 
-**[2880.00s] English:** soldiers and lawyers. Other than Washington, most of them are from northern cities. And this group  
+**[2880.00s] English:** Soldiers and lawyers. Other than Washington, most of them are from northern cities. And this group,...  
 **Translation:** 
 
-**[2886.94s] English:** is much more conservative than the Tom Paine and Jefferson school. Some historians call them the  
+**[2886.94s] English:** Is much more conservative than the Tom Paine and Jefferson school. Some historians call them the  
 **Translation:** 
 
-**[2898.10s] English:** Nationalist Party. Historically, they give up the word nationalism and they call themselves the  
+**[2898.10s] English:** Nationalist Party. Historically, they gave up the word "nationalism" and they call themselves the  
 **Translation:** Vocabulary: historically: 历史上
 
-**[2903.72s] English:** Federalists. But they're basically the Nationalist Party. What does that mean? It means on the one  
+**[2903.72s] English:** Federalists. But they're basically the Nationalist Party. What does that mean? It means, on the one  
 **Translation:** 
 
-**[2908.22s] English:** hand that their goal is to create an independent nation, independent from Britain. But on the other  
+**[2908.22s] English:** Hand said that their goal is to create an independent nation, independent from Britain. But on the other  
 **Translation:** 
 
-**[2913.82s] English:** hand, they believe that they already have national legal traditions, the common law, the forms of  
+**[2913.82s] English:** Hands, they believe that they already have national legal traditions, such as the common law and the forms of.  
 **Translation:** 
 
-**[2923.20s] English:** government that have been imported from Britain, and of course, Christianity, which they consider  
-**Translation:** Vocabulary: imported: 引入的
+**[2923.20s] English:** Government that have been imported from Britain, and of course, Christianity, which they consider,  
+**Translation:** Vocabulary: imported: 从国外引进的
 
-**[2928.54s] English:** to be part of their inheritance. This Federalist Party is the conservative party. These are people  
+**[2928.54s] English:** To be part of their inheritance. This Federalist Party is the conservative party. These are people.  
 **Translation:** 
 
-**[2937.10s] English:** who are extremely close.  
+**[2937.10s] English:** Who are extremely close.  
 **Translation:** Vocabulary: inheritance: 遗产
 
-**[2938.22s] English:** In ideas to Burke. And these are people who wrote the Constitution of the United States,  
+**[2938.22s] English:** In ideas to Burke. And these are people who wrote the Constitution of the United States.  
 **Translation:** 
 
-**[2943.08s] English:** the second constitution, the second revolution in 1787, when Washington leads the establishment of  
+**[2943.08s] English:** The second Constitution, the second revolution in 1787, when Washington led the establishment of  
 **Translation:** 
 
-**[2949.74s] English:** a new constitution, which may be technically legally, it wasn't even legal under the old  
+**[2949.74s] English:** A new constitution, which may be technically legal, wasn't even legal under the old one.  
 **Translation:** 
 
-**[2955.70s] English:** constitution, but it was democratic. And what it did is it said, we're going to take what we know  
+**[2955.70s] English:** Constitution, but it was democratic. And what it did was say, "We're going to take what we know,  
+**Translation:** Vocabulary: technically: 理论上
+
+**[2961.74s] English:** About English government, what we've learned by applying it in the states,  
 **Translation:** 
 
-**[2961.74s] English:** about English government, what we've learned by applying English government in the states,  
+**[2967.14s] English:** We're going to create a  
 **Translation:** 
 
-**[2967.14s] English:** we're going to create a  
+**[2968.04s] English:** National  
 **Translation:** 
 
-**[2968.04s] English:** national  
+**[2968.20s] English:** Government, a unified national government that's going to muster power in its hands, enough power to be  
 **Translation:** 
 
-**[2968.20s] English:** government, a unified national government that's going to muster power in its hands, enough power to be  
+**[2973.40s] English:** Able to do things like fighting wars to defend a unified people. Those are conservatives. Now,  
 **Translation:** 
 
-**[2973.40s] English:** able to do things like fighting wars to defend a unified people. Those are conservatives. Now it's  
+**[2981.26s] English:** Reasonable to say, "Well, look, there was no king. So how conservative could they be?" But I think,...  
 **Translation:** 
 
-**[2981.26s] English:** reasonable to say, well, look, there was no king. So how conservative could they be? But I think  
+**[2986.72s] English:** That's a reasonable question. But don't forget that the American colonies, the English colonies,  
 **Translation:** 
 
-**[2986.72s] English:** that's a reasonable question. But don't forget that the American colonies, the English colonies  
-**Translation:** 
-
-**[2992.16s] English:** in America, by that point had been around for 150 years. They'd written constitutions. They had  
+**[2992.16s] English:** In America, by that point, it had been around for 150 years. They had written constitutions. They had  
 **Translation:** Vocabulary: constitutions: 根本法
 
-**[2998.02s] English:** already adapted for an  
+**[2998.02s] English:** Already adapted for an  
 **Translation:** 
 
-**[3000.00s] English:** century adapted the English constitution to local conditions where there's no aristocracy and  
-**Translation:** Vocabulary: aristocracy: 贵族制度
-
-**[3004.68s] English:** there's no king. I think you can see that as a positive thing. On the other hand, they have  
+**[3000.00s] English:** Century adapted the English constitution to local conditions where there's no aristocracy, and  
 **Translation:** 
 
-**[3009.44s] English:** slavery. That's an innovation. That's not English. So it's a little bit different from the English  
+**[3004.68s] English:** There's no king. I think you can see that as a positive thing. On the other hand, they have...  
 **Translation:** 
 
-**[3014.50s] English:** constitution, but those men are conservatives. They make the minimum changes that they need  
+**[3009.44s] English:** Slavery. That's an innovation. That's not English. So, it's a little bit different from the English.  
 **Translation:** 
 
-**[3019.70s] English:** to the English constitution and they largely replicate it, which is why the Jeffersonians  
-**Translation:** Vocabulary: jeffersonians: 杰斐逊派
-
-**[3027.24s] English:** hated them so much. They call them apostates. They say they've betrayed equality and liberty  
+**[3014.50s] English:** Constitution, but those men are conservatives. They make the minimum changes that they need.  
 **Translation:** 
 
-**[3034.04s] English:** and fraternity by adopting an English-style constitution. So I would imagine, Jaron,  
-**Translation:** Vocabulary: apostates: 叛教者; betrayed: 背叛; fraternity: 兄弟情谊
-
-**[3039.90s] English:** you would put emphasis of the success of the key ideas at the founding of this country elsewhere,  
+**[3019.70s] English:** To the English Constitution, and they largely replicate it, which is why the Jeffersonians  
 **Translation:** 
 
-**[3045.24s] English:** at the freedom of the individual as opposed to the tradition of the British Empire.  
+**[3027.24s] English:** Hated them so much. They call them apostates. They say they've betrayed equality and liberty.  
+**Translation:** 
+
+**[3034.04s] English:** And they adopted an English-style constitution. So I would imagine, Jaron,  
+**Translation:** Vocabulary: apostates: 叛教者; betrayed: 背叛
+
+**[3039.90s] English:** You would put emphasis on the success of the key ideas at the founding of this country elsewhere.  
+**Translation:** 
+
+**[3045.24s] English:** At the freedom of the individual, as opposed to the tradition of the British Empire.  
 **Translation:** Vocabulary: founding: 创立
 
 **[3050.48s] English:** I mean, the one thing I agree with, Joram, is the fact that, yes, the founding fathers were  
 **Translation:** 
 
-**[3054.56s] English:** not a monolith. I mean, they argued, they debated,  
-**Translation:** Vocabulary: monolith: 思想一致的人
+**[3054.56s] English:** Not a monolith. I mean, they argued, they debated,  
+**Translation:** Vocabulary: monolith: 思想一致的整体
 
-**[3057.24s] English:** they disagreed, they wrote against each other. I mean, Jefferson and Adams for decades didn't  
+**[3057.24s] English:** They disagreed and wrote against each other. I mean, Jefferson and Adams didn't speak to each other for decades.  
 **Translation:** 
 
-**[3062.38s] English:** even speak to each other, though they did make up and had a fascinating relationship.  
+**[3062.38s] English:** Even speak to each other, though they did make up and had a fascinating relationship.  
 **Translation:** 
 
 **[3067.82s] English:** You and I are making up too.  
 **Translation:** 
 
-**[3068.96s] English:** There you go. It's like the founding fathers.  
+**[3068.96s] English:** There, you go. It's like the founding fathers.  
 **Translation:** 
 
-**[3072.80s] English:** You know, there's massive debate and discussion, but I don't agree with the characterization of  
+**[3072.80s] English:** You know, there's massive debate and discussion, but I don't agree with the characterization of...  
 **Translation:** 
 
-**[3079.26s] English:** Paine and Jefferson. I don't think it's just to call them rationalists because I don't think  
+**[3079.26s] English:** Paine and Jefferson. I don't think it's just to call them rationalists, because I don't think  
 **Translation:** 
 
-**[3083.82s] English:** they're rationalists. People who've looked at history, at the problems,  
+**[3083.82s] English:** They're rationalists. People who have looked at history, at the problems,  
 **Translation:** 
 
-**[3087.24s] English:** and history, and remember, this is the 18th century, and they were coming out of a hundred  
+**[3087.24s] English:** And history, and remember: this is the 18th century, and they were coming out of a hundred  
 **Translation:** 
 
-**[3093.38s] English:** years earlier. Some of the bloodiest wars in all of human history were happening in Europe,  
+**[3093.38s] English:** Years earlier, some of the bloodiest wars in all of human history were happening in Europe.  
 **Translation:** 
 
-**[3098.12s] English:** many of them over religion. They'd seen what was going on in France and other countries where  
+**[3098.12s] English:** Many of them were concerned about religion. They had seen what was going on in France and other countries, where  
 **Translation:** 
 
-**[3105.46s] English:** people were starving and where kings were frolicking in palaces in spite of that.  
+**[3105.46s] English:** People were starving, and where kings were frolicking in palaces, despite that.  
 **Translation:** 
 
 **[3113.82s] English:** They were very aware of the relative,  
 **Translation:** Vocabulary: frolicking: 嬉戏; starving: 挨饿
 
-**[3117.24s] English:** freedom that the British tradition had.  
+**[3117.24s] English:** Freedom, that the British tradition had.  
 **Translation:** 
 
-**[3120.00s] English:** had given Englishmen. I think they knew that. They understood that. And I think they were  
+**[3120.00s] English:** Had given Englishmen. I think they knew that. They understood that, and I think they were.  
 **Translation:** Vocabulary: englishmen: 英国人
 
-**[3125.50s] English:** building on that. They were taking the observation of the past and trying to come up with a more  
+**[3125.50s] English:** Building on that, they were taking the observation of the past and trying to come up with a more  
 **Translation:** 
 
-**[3131.10s] English:** perfect system. And I think they did. And in that sense, I'm a huge fan of Jefferson.  
+**[3131.10s] English:** Perfect system. And I think they did. And in that sense, I'm a huge fan of Jefferson.  
 **Translation:** 
 
 **[3136.38s] English:** There are two things that I think are unfortunate about Jefferson. One is that  
 **Translation:** 
 
-**[3140.78s] English:** he continued to hold slaves, which is very unfortunate. And the second is early support  
+**[3140.78s] English:** He continued to hold slaves, which is very unfortunate. And the second is early support.  
 **Translation:** 
 
-**[3148.08s] English:** for the French Revolution, which I think is a massive mistake. And I wouldn't be surprised  
+**[3148.08s] English:** For the French Revolution, which I think is a massive mistake. And I wouldn't be surprised.  
 **Translation:** 
 
-**[3152.80s] English:** if you regretted it later in life, given the consequences. But they were trying to derive  
+**[3152.80s] English:** If you regretted it later in life, given the consequences, but they were trying to derive  
+**Translation:** Vocabulary: derive: 推导; regretted: 后悔
+
+**[3158.68s] English:** Principles by which they could establish a new state. And, yes, there was pushback by some.  
 **Translation:** 
 
-**[3158.68s] English:** principles by which they could establish a new state. And yes, there was pushback by some,  
-**Translation:** 
+**[3165.68s] English:** And there were disagreements. And the Constitution, in the end, is, to some extent, a form of compromise.  
+**Translation:** Vocabulary: compromise: 妥协; disagreements: 分歧; pushback: 反对
 
-**[3165.68s] English:** and there was disagreements. And the Constitution in the end is, to some extent, a form of compromise.  
-**Translation:** Vocabulary: disagreements: 意见分歧; pushback: 反对意见
-
-**[3172.02s] English:** It's still one of the great documents of all of human history, political documents, the Constitution.  
+**[3172.02s] English:** It's still one of the great documents of all of human history, political documents—the Constitution.  
 **Translation:** 
 
 **[3176.74s] English:** Although I think it's inferior.  
 **Translation:** Vocabulary: inferior: 不及外
 
-**[3178.08s] English:** To the Declaration. I'm a huge fan of the Declaration. And I think one of the mistakes  
+**[3178.08s] English:** To the Declaration. I'm a huge fan of the Declaration, and I think one of the mistakes.  
 **Translation:** 
 
-**[3182.06s] English:** the conservatives makes, one of the mistakes the Supreme Court makes and American judiciary  
+**[3182.06s] English:** The conservatives make one of the mistakes the Supreme Court makes and the American judiciary.  
 **Translation:** Vocabulary: judiciary: 司法系统
 
-**[3186.88s] English:** makes is assuming the two documents are separate. I think Lincoln is absolutely right. You can't  
+**[3186.88s] English:** Makes it assume that the two documents are separate. I think Lincoln is absolutely right. You can't.  
 **Translation:** 
 
-**[3192.30s] English:** understand the Constitution without understanding the Declaration. The Declaration, what set the  
+**[3192.30s] English:** Understand the Constitution without understanding the Declaration. The Declaration is what set the  
 **Translation:** 
 
-**[3196.56s] English:** context and what sets everything up for the Constitution. Individual rights are the key  
+**[3196.56s] English:** Context and what sets everything up for the Constitution. Individual rights are the key.  
 **Translation:** 
 
-**[3201.30s] English:** concept there. And one of the challenges was that some of the compromises, and compromise is not  
+**[3201.30s] English:** Concept there. And one of the challenges was that some of the compromises, and compromise is not.  
 **Translation:** Vocabulary: compromises: 妥协
 
-**[3207.98s] English:** necessary. It's not necessary. It's not necessary. It's not necessary. It's not necessary.  
+**[3207.98s] English:** Necessary. It's not necessary. It's not necessary. It's not necessary. It's not necessary.  
 **Translation:** 
 
-**[3208.08s] English:** between groups, but compromises that even Jefferson made and others made regarding individual rights  
+**[3208.08s] English:** Between groups, but compromises that even Jefferson made and others made regarding individual rights.  
 **Translation:** 
 
-**[3214.02s] English:** set America on a path that we're suffering from today. And I mentioned three last night. One was  
+**[3214.02s] English:** Set America on a path that we're suffering from today. And I mentioned three last night. One was  
 **Translation:** 
 
-**[3222.22s] English:** slavery. Obviously, that was a horrific compromise, one that America not just paid for with the Civil  
-**Translation:** Vocabulary: horrific: 恐怖的
+**[3222.22s] English:** Slavery. Obviously, that was a horrific compromise, one that America did not just pay for with the Civil War, but with generations of struggle and suffering that followed.  
+**Translation:** Vocabulary: horrific: 可怕的
 
 **[3230.12s] English:** War, 600,000 young men died because of it, but the suffering of black slaves for all those years.  
 **Translation:** 
 
-**[3237.48s] English:** But then the whole issue of  
+**[3237.48s] English:** But then, the whole issue of  
 **Translation:** 
 
-**[3240.00s] English:** tensions in this country for a century to this day, really, is a consequence of that initial  
+**[3240.00s] English:** Tensions in this country for a century to this day, really, is a consequence of that initial.  
 **Translation:** 
 
-**[3247.64s] English:** compromise. Who knows what the counterfactual is in America if there's a civil war right at  
+**[3247.64s] English:** Compromise. Who knows what the counterfactual is in America if there's a civil war right at  
+**Translation:** Vocabulary: compromise: 妥协; counterfactual: 反事实
+
+**[3253.30s] English:** The founding, right? Because there would have been a war, no matter what. But if it happened...  
 **Translation:** 
 
-**[3253.30s] English:** the founding, right? Because there would have been a war no matter what. But if it happened  
-**Translation:** 
-
-**[3257.14s] English:** in the late 18th century, early 19th century, rather than waiting till 1860s. But then second  
+**[3257.14s] English:** In the late 18th century and early 19th century, rather than waiting until the 1860s. But then, second,  
 **Translation:** Vocabulary: founding: 创立
 
-**[3263.12s] English:** was Jefferson's embrace of public education, his founding of the University of Virginia,  
+**[3263.12s] English:** Was Jefferson's embrace of public education, his founding of the University of Virginia,  
 **Translation:** 
 
-**[3270.54s] English:** which I think is a great tragedy, which nobody agrees with me on. So that's one of the areas  
+**[3270.54s] English:** Which I think is a great tragedy, which nobody agrees with me on. So that's one of the areas.  
+**Translation:** Vocabulary: embrace: 接纳
+
+**[3277.40s] English:** Where I'm pretty radical. And then they embrace, both by Jefferson and by Hamilton.  
 **Translation:** 
 
-**[3277.40s] English:** where I'm pretty radical. And then they embrace, both by Jefferson and by Hamilton,  
-**Translation:** 
-
-**[3283.80s] English:** for different reasons, but an embrace by both of them of government role in the economy.  
-**Translation:** 
+**[3283.80s] English:** For different reasons, but an embrace by both of them of a government role in the economy.  
+**Translation:** Vocabulary: hamilton: 汉密尔顿
 
 **[3288.78s] English:** And I do finance, so I know a little bit about finance. And  
 **Translation:** 
 
 **[3292.72s] English:** The debate between Jefferson and Hamilton about banking is fascinating, but at the end of the day, both wanted a role for government in banking.  
-**Translation:** Vocabulary: hamilton: 汉密尔顿
+**Translation:** 
 
-**[3299.84s] English:** They both didn't trust – Jefferson didn't trust big financial interests.  
+**[3299.84s] English:** They both didn't trust; Jefferson, in particular, didn't trust big financial interests.  
 **Translation:** 
 
 **[3304.90s] English:** Hamilton wanted to capture some of those financial interests for the state.  
 **Translation:** 
 
-**[3308.08s] English:** And as a consequence, we set America on a path where, you know, in my view, regulation always leads to more regulation.  
+**[3308.08s] English:** And as a consequence, we set America on a path where, in my view, regulation always leads to more regulation.  
 **Translation:** 
 
 **[3314.96s] English:** There's never a case where regulation decreases.  
+**Translation:** Vocabulary: decreases: 减少
+
+**[3317.08s] English:** And we started out with a certain regulatory body around banks, and a recognition that it was okay to regulate the economy.  
 **Translation:** 
 
-**[3317.08s] English:** And we started out with a certain regulatory body around banks and a recognition that it was okay to regulate the economy.  
-**Translation:** 
-
-**[3323.62s] English:** So once we get into the late 19th century, it's fine to regulate the railroads.  
-**Translation:** Vocabulary: railroads: 铁路; regulate: 监管
+**[3323.62s] English:** So, once we get into the late 19th century, it's fine to regulate the railroads.  
+**Translation:** Vocabulary: railroads: 铁路; regulate: 监管; regulatory: 监管的
 
 **[3327.22s] English:** It's fine to pass antitrust laws.  
 **Translation:** 
 
-**[3329.38s] English:** It's fine to then continue on the path of where we are today, which is heavy, heavy, heavy, massive involvement of government in every aspect of our economy and really in every aspect of our life because of education.  
+**[3329.38s] English:** It's fine to then continue on the path of where we are today, which is heavy, heavy, heavy, massive involvement of government in every aspect of our economy and really in every aspect of our life, because of education.  
 **Translation:** Vocabulary: antitrust: 反垄断
 
-**[3341.78s] English:** So I think the country was founded on certain mistakes, and we haven't been willing to –  
+**[3341.78s] English:** So, I think the country was founded on certain mistakes, and we haven't been willing to—  
 **Translation:** 
 
-**[3347.08s] English:** question those mistakes and in a sense that we've only moved in the opposite direction.  
+**[3347.08s] English:** Question those mistakes, and in a sense, we've only moved in the opposite direction.  
 **Translation:** 
 
-**[3352.24s] English:** And now America has become – whereas I think it was founded on the idea of the primacy of the individual, the sanctity of the individual.  
+**[3352.24s] English:** And now, America has become — whereas I think it was founded on the idea of the primacy of the individual and the sanctity of the individual.  
 **Translation:** 
 
-**[3360.00s] English:** At least there's an idea, even if not fully implemented, I think now that's completely lost.  
-**Translation:** Vocabulary: primacy: 首要地位; sanctity: 神圣性
+**[3360.00s] English:** At least there's an idea, even if not fully implemented; I think now that's completely lost.  
+**Translation:** Vocabulary: implemented: 已执行; primacy: 首要地位; sanctity: 神圣性
 
-**[3364.48s] English:** I don't think anybody really is an advocate out there for individualism in politics or for true freedom in politics.  
+**[3364.48s] English:** I don't think anybody really advocates for individualism or true freedom in politics.  
 **Translation:** 
 
 **[3372.98s] English:** We'll get to individualism, but let me ask the Beatles and the Rolling Stones question about the Declaration of Independence and the Constitution.  
-**Translation:** Vocabulary: advocate: 提倡者; beatles: Beatles; individualism: 个人主义
-
-**[3379.62s] English:** Rolling Stones.  
 **Translation:** 
 
-**[3380.32s] English:** Well, because it's like which document, Beatles, the Rolling Stones, which document is more important?  
+**[3379.62s] English:** The Rolling Stones.  
 **Translation:** 
+
+**[3380.32s] English:** Well, because it's like which document—Beatles, the Rolling Stones—which document is more important?  
+**Translation:** Vocabulary: beatles: 甲壳虫乐队
 
 **[3384.56s] English:** It's obviously the Beatles, right?  
 **Translation:** 
@@ -2137,40 +2138,40 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3385.70s] English:** Okay.  
 **Translation:** 
 
-**[3386.04s] English:** Is there even a question?  
+**[3386.04s] English:** Is there, even, a question?  
 **Translation:** 
 
-**[3388.06s] English:** But let me then even zoom in further and ask you to pick your favorite song.  
+**[3388.06s] English:** But let me zoom in even further and ask you to pick your favorite song.  
 **Translation:** 
 
-**[3393.04s] English:** So what ideas in the Constitution or the Declaration of Independence do you think are the most important to the success of the United States of America?  
+**[3393.04s] English:** So, what ideas in the Constitution or the Declaration of Independence do you think are the most important to the success of the United States of America?  
 **Translation:** 
 
-**[3403.20s] English:** I'll answer the question, but before answering the question, I want to dissent from, register a dissent from your runs.  
+**[3403.20s] English:** I'll answer the question, but before answering, I want to dissent from and register a dissent with your runs.  
 **Translation:** 
 
 **[3409.08s] English:** Is it the public education?  
 **Translation:** 
 
-**[3410.62s] English:** Is it which?  
+**[3410.62s] English:** Is it which one?  
 **Translation:** 
 
 **[3411.44s] English:** No, no, no.  
 **Translation:** 
 
-**[3411.98s] English:** Actually, we're not so, look, we're not so far apart on public education.  
+**[3411.98s] English:** Actually, we're not so far apart on public education.  
 **Translation:** 
 
 **[3416.80s] English:** I'm actually kind of, I'm actually.  
 **Translation:** 
 
-**[3418.06s] English:** I'm actually kind of surprised that you're so anti-Bismarck because his public school system was, his national public school system was created in order to stick it to the church.  
+**[3418.06s] English:** I'm actually kind of surprised that you're so anti-Bismarck because his public school system, which was created in order to stick it to the church, was established as a national public school system.  
 **Translation:** 
 
 **[3426.84s] English:** It was the church that ran the schools before then.  
 **Translation:** 
 
-**[3429.72s] English:** And okay, but so that's a different.  
+**[3429.72s] English:** And okay, but so that's a different thing.  
 **Translation:** 
 
 **[3431.06s] English:** I'm all for sticking it to the church.  
@@ -2179,16 +2180,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3433.04s] English:** Any opportunity, but not when the alternative is the nation.  
 **Translation:** Vocabulary: sticking: 报复
 
-**[3436.12s] English:** I'd rather see free educational system, you know, where freedom is in education.  
+**[3436.12s] English:** I'd rather see a free educational system, you know, where freedom is in education.  
 **Translation:** 
 
 **[3441.18s] English:** Okay.  
 **Translation:** 
 
-**[3441.44s] English:** So, so I want to register a dissent about Lincoln.  
+**[3441.44s] English:** So, I want to register a dissent about Lincoln.  
 **Translation:** 
 
-**[3445.48s] English:** Look, Lincoln is an important figure in a great.  
+**[3445.48s] English:** Look, Lincoln is an important figure in a great. (There seems to be a missing word or context at the end of the sentence.)  
 **Translation:** 
 
 **[3448.06s] English:** Man, and he was presiding over a country, which at that point was pretty Jeffersonian in terms of its self-perception.  
@@ -2197,49 +2198,49 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3455.80s] English:** He said what he needed to say.  
 **Translation:** Vocabulary: jeffersonian: 杰斐逊式的; presiding: 主持
 
-**[3457.06s] English:** I'm not going to criticize him, but I don't accept the idea that the, that the declaration of independence, which starts one revolution is, is of a piece with the constitution, the second constitution, the constitution of 1787, the nationalist constitution, which is effectively a counter revolution.  
+**[3457.06s] English:** I'm not going to criticize him, but I don't accept the idea that the Declaration of Independence, which starts one revolution, is of a piece with the Constitution, the Second Constitution of 1787, the nationalist Constitution, which is effectively a counter-revolution.  
 **Translation:** 
 
-**[3477.52s] English:** What happens is there is a revolution.  
+**[3477.52s] English:** What happens is that there is a revolution.  
 **Translation:** 
 
 **[3480.00s] English:** It's based on certain principles.  
 **Translation:** 
 
-**[3481.90s] English:** There are a lot, not exactly, but in many ways resemble the later ideas of the French  
+**[3481.90s] English:** There are a lot that, while not exactly the same, in many ways resemble the later ideas of the French.  
 **Translation:** 
 
 **[3487.86s] English:** Revolution.  
 **Translation:** 
 
-**[3489.04s] English:** And what the Federalist Party does, the Nationalist Conservative Party does, is a counter-revolution  
+**[3489.04s] English:** And what the Federalist Party does, the Nationalist-Conservative Party does, is a counter-revolution.  
 **Translation:** 
 
-**[3494.80s] English:** to reinstate the old English Constitution.  
+**[3494.80s] English:** To reinstate the old English Constitution.  
 **Translation:** 
 
-**[3498.08s] English:** So these documents are, if you're willing to accept the evidence of history, they are  
+**[3498.08s] English:** So, these documents are, if you're willing to accept the evidence of history, they are  
 **Translation:** Vocabulary: reinstate: 恢复
 
-**[3503.12s] English:** in many respects contrary to one another.  
+**[3503.12s] English:** In many respects, they are contrary to one another.  
 **Translation:** 
 
-**[3506.40s] English:** And so if I'm asked what's the most important values that are handed down by these documents,  
+**[3506.40s] English:** And so, if I'm asked what the most important values are that are handed down by these documents,  
 **Translation:** 
 
-**[3513.88s] English:** I don't have an objection to life, liberty, and property, all of which are really important  
+**[3513.88s] English:** I don't have an objection to life, liberty, and property, all of which are really important.  
 **Translation:** 
 
-**[3520.86s] English:** things.  
+**[3520.86s] English:** Things.  
 **Translation:** 
 
-**[3521.24s] English:** I do have an objection to the pompous overreach of these are self-evident, which is absurd.  
+**[3521.24s] English:** I do have an objection to the pompous overreach of what are self-evident truths, which is absurd.  
 **Translation:** 
 
 **[3530.22s] English:** They can't be self-evident.  
-**Translation:** Vocabulary: pompous: 虚张声势
+**Translation:** Vocabulary: pompous: 虚张声势的
 
-**[3531.40s] English:** If they were self-evident, then somebody would have come up with them like 2,000 years before.  
+**[3531.40s] English:** If they were self-evident, then somebody would have come up with them 2,000 years ago.  
 **Translation:** 
 
 **[3535.64s] English:** It's not.  
@@ -2248,43 +2249,43 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3535.94s] English:** It's not self-evident.  
 **Translation:** 
 
-**[3538.04s] English:** And so that's damaging.  
+**[3538.04s] English:** And so, that's damaging.  
 **Translation:** 
 
-**[3539.82s] English:** I like the conservative preamble of the Constitution, which describes the purposes of the national  
+**[3539.82s] English:** I like the conservative preamble of the Constitution, which describes the purposes of the nation.  
 **Translation:** 
 
-**[3548.06s] English:** government that's being established.  
+**[3548.06s] English:** Government that's being established.  
 **Translation:** Vocabulary: preamble: 引言
 
-**[3550.26s] English:** There are seven purposes, a more perfect union, which is the principle of cohesion, justice,  
+**[3550.26s] English:** There are seven purposes: a more perfect union, which is the principle of cohesion; justice,  
 **Translation:** 
 
-**[3559.02s] English:** domestic peace, common defense, the general welfare, which is the welfare of the people,  
+**[3559.02s] English:** Domestic peace, common defense, the general welfare, which is the welfare of the people.  
 **Translation:** Vocabulary: cohesion: 凝聚力
 
-**[3565.92s] English:** the welfare of the public as a thing that's not only individuals, but there is such a thing  
+**[3565.92s] English:** The welfare of the public is not only an individual concern, but there is such a thing.  
 **Translation:** 
 
-**[3569.80s] English:** as a general welfare, liberty, which we agree is absolutely crucial, and posterity, the  
+**[3569.80s] English:** As a general principle, for the welfare, liberty, which we agree is absolutely crucial, and posterity, the  
+**Translation:** Vocabulary: crucial: 至关重要的
+
+**[3576.14s] English:** Idea that the purpose of the government is to be able to sustain and grow this independence.  
 **Translation:** 
 
-**[3576.14s] English:** idea that the purpose of the government is to be able to sustain and grow this independent  
-**Translation:** 
+**[3581.80s] English:** Nations should not only guarantee rights no matter what happens.  
+**Translation:** Vocabulary: sustain: 维持
 
-**[3581.80s] English:** nation, and not only to guarantee rights no matter what happens.  
-**Translation:** 
-
-**[3585.84s] English:** But you don't like the, we hold these truths to be self-evident, so you're definitely a  
+**[3585.84s] English:** But you don't like the idea that "we hold these truths to be self-evident," so you're definitely a  
 **Translation:** 
 
 **[3590.48s] English:** Beatles guy.  
 **Translation:** Vocabulary: beatles: 甲壳虫乐队
 
-**[3591.30s] English:** You don't want the pompous, you don't need that revolution.  
+**[3591.30s] English:** You don't want the pompous; you don't need that revolution.  
 **Translation:** 
 
-**[3595.52s] English:** No, I look, I agree.  
+**[3595.52s] English:** No, I look; I agree.  
 **Translation:** 
 
 **[3595.82s] English:** I agree.  
@@ -2293,49 +2294,49 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3595.84s] English:** I agree.  
 **Translation:** 
 
-**[3595.92s] English:** I look, I just, I think that that expression, self-evident,  
+**[3595.92s] English:** I look; I just think that that expression is self-evident.  
 **Translation:** 
 
-**[3600.00s] English:** self-evident truths, it does tremendous damage because instead of a moderate skepticism,  
+**[3600.00s] English:** Self-evident truths, it does tremendous damage because instead of moderate skepticism,  
 **Translation:** 
 
-**[3607.04s] English:** which says, look, we may not know everything. It says, look, we know everything. Here it is.  
+**[3607.04s] English:** Which says, "Look, we may not know everything." It says, "Look, we know everything." Here it is.  
 **Translation:** 
 
-**[3613.08s] English:** Here's what we know. We know. We don't know everything, but we think.  
+**[3613.08s] English:** Here's what we know: We know that we don't know everything, but we think.  
 **Translation:** 
 
-**[3617.32s] English:** So, you know, I'll agree with you on that. I don't like self-evident. I don't like self-evident  
+**[3617.32s] English:** So, you know, I'll agree with you on that. I don't like "self-evident." I don't like "self-evident.  
 **Translation:** 
 
-**[3621.52s] English:** because he's absolutely right. It's not self-evident. These are massive achievements.  
+**[3621.52s] English:** Because he's absolutely right. It's not self-evident; these are massive achievements.  
 **Translation:** 
 
-**[3626.10s] English:** These are massive achievements of enlightened thinking, of studying history, of understanding  
+**[3626.10s] English:** These are massive achievements of enlightened thinking, of studying history, of understanding.  
 **Translation:** 
 
-**[3633.16s] English:** human nature, of deriving a truth from 3,000 years of historical knowledge and a better  
-**Translation:** Vocabulary: deriving: 推导; enlightened: 启迪的
+**[3633.16s] English:** Human nature is to derive a truth from 3,000 years of historical knowledge and a better  
+**Translation:** Vocabulary: derive: 推导出; enlightened: 开明的
 
-**[3640.44s] English:** understanding of human nature and a capacity. It's using reason in some ways better than any  
+**[3640.44s] English:** Understanding of human nature and a capacity. It's using reason, in some ways, better than any.  
 **Translation:** 
 
-**[3647.62s] English:** human beings have. I mean, the founding fathers are giants historically, in my view, because they  
+**[3647.62s] English:** Human beings have. I mean, the founding fathers are giants historically, in my view, because they  
 **Translation:** Vocabulary: founding: 创立; historically: 历史上
 
-**[3653.48s] English:** came up with these truths. I do think they're truths.  
+**[3653.48s] English:** Came up with these truths. I do think they're truths.  
 **Translation:** 
 
-**[3656.10s] English:** But they're certainly not self-evident. I mean, if they were, your arm is right. They would have  
+**[3656.10s] English:** But they're certainly not self-evident. I mean, if they were, your arm is right; they would have already been accepted.  
 **Translation:** 
 
-**[3660.14s] English:** discovered them thousands of years earlier, or everybody would accept them, right? I mean,  
+**[3660.14s] English:** Discovered them thousands of years earlier, or everybody would accept them, right? I mean,  
 **Translation:** 
 
-**[3663.68s] English:** how many people today think that what they state in that document is true? Pretty much,  
+**[3663.68s] English:** How many people today think that what they state in that document is true? Pretty much.  
 **Translation:** 
 
-**[3669.78s] English:** you know, five people. I don't know. It's very...  
+**[3669.78s] English:** You know, five people. I don't know. It's very...  
 **Translation:** 
 
 **[3673.62s] English:** It's your criticism of modern society. Yes, we'll get there.  
@@ -2344,58 +2345,58 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3676.44s] English:** It's very, very few people recognize it. If they were self-evident,  
 **Translation:** 
 
-**[3680.62s] English:** bam, everybody would have become, you know, would have accepted the American Revolution as truth,  
+**[3680.62s] English:** Bam! Everybody would have accepted the American Revolution as truth, you know.  
 **Translation:** 
 
-**[3686.10s] English:** and that was it. A lot of work has to go into understanding and describing and convincing  
+**[3686.10s] English:** And that was it. A lot of work has to go into understanding, describing, and convincing.  
 **Translation:** 
 
-**[3691.64s] English:** people about those truths. But I completely disagree with your arm about this idea, or I'll  
+**[3691.64s] English:** People about those truths. But I completely disagree with your argument about this idea, or I will.  
 **Translation:** 
 
-**[3697.86s] English:** voice my dissent, as we said, about... Register your official dissent.  
+**[3697.86s] English:** Voice my dissent, as we said, about... Register your official dissent.  
 **Translation:** 
 
-**[3702.26s] English:** About A, that this being two different revolutions, and B, that the American Revolution was at any  
+**[3702.26s] English:** About A, that this is two different revolutions, and B, that the American Revolution was at any  
 **Translation:** Vocabulary: revolutions: 革命
 
-**[3707.62s] English:** similarity to the French Revolution. You know that Jefferson and Paine,  
+**[3707.62s] English:** Similarity to the French Revolution. You know that Jefferson and Paine,  
 **Translation:** 
 
-**[3712.42s] English:** they were in France running a different revolution.  
+**[3712.42s] English:** They were in France, running a different revolution.  
+**Translation:** Vocabulary: similarity: 相似性
+
+**[3716.10s] English:** But they were waiting constantly. I mean, they were in constant communication with Madison.  
 **Translation:** 
 
-**[3716.10s] English:** But they were waiting constantly. I mean, they were in communication with Madison.  
+**[3720.00s] English:** I know. And Jefferson, sitting there in Paris, is pulling his hair out because Madison has come under the influence of these nationalists, and he can't believe it.  
+**Translation:** Vocabulary: nationalists: 民族主义者
+
+**[3729.14s] English:** The reality is that the difference between the French Revolution and the American Revolution is vast and it is a deep philosophical difference.  
 **Translation:** 
 
-**[3720.00s] English:** I know. And Jefferson sitting there in Paris pulling his hair out because Madison Madison has come under the influence of these nationalists and he can't believe it.  
+**[3739.96s] English:** And it's a difference that is expressed, I think, between the differences that, you know, you're in his writings—lumps.  
+**Translation:** Vocabulary: lumps: 块状物; philosophical: 哲学的
+
+**[3746.60s] English:** So, with Locke and with Voltaire, and with others, I think that's wrong.  
 **Translation:** 
 
-**[3729.14s] English:** The reality is that the difference between the French Revolution and the and the American Revolution is is is vast and it is a deep philosophical difference.  
+**[3752.26s] English:** I think "so" is very different from the others. I think, again, "so" is an anti-Enlightenment figure.  
 **Translation:** 
 
-**[3739.96s] English:** And it's a difference that expressed, I think, between the differences that, you know, you're in his writings, lumps.  
-**Translation:** Vocabulary: philosophical: 哲学的
-
-**[3746.60s] English:** So with Locke and with Voltaire and with others, and I think I think that's wrong.  
+**[3757.20s] English:** So, it is in many respects harkening back to a past, an ancient past.  
 **Translation:** 
 
-**[3752.26s] English:** I think so is very different than the others. I think, again, so is an anti enlightenment figure.  
-**Translation:** Vocabulary: enlightenment: 启蒙; voltaire: 伏尔泰
+**[3763.26s] English:** And I think that a completely distorted view of human nature, of the human mind.  
+**Translation:** Vocabulary: distorted: 扭曲; harkening: 回溯
 
-**[3757.20s] English:** So is is in many respects harkening back to a past, an ancient past.  
+**[3768.34s] English:** He rejects reason. I mean, he is on the premise that reason is the end of humanity.  
 **Translation:** 
 
-**[3763.26s] English:** And I think and I think a completely distorted view of human nature, of human mind.  
-**Translation:** Vocabulary: distorted: 扭曲; harkening: 回归
+**[3774.00s] English:** Reason: The destruction of humanity.  
+**Translation:** Vocabulary: premise: 前提; rejects: 拒绝
 
-**[3768.34s] English:** He he rejects reason. I mean, so is on the premise that reason is the end of humanity.  
-**Translation:** 
-
-**[3774.00s] English:** Reason is the destruction of humanity.  
-**Translation:** 
-
-**[3776.60s] English:** Reason is is how we get civilization and civilization is awful because I don't disagree.  
+**[3776.60s] English:** Reason is how we get civilization, and civilization is awful because I don't disagree.  
 **Translation:** 
 
 **[3782.04s] English:** We're only talking about different texts.  
@@ -2404,13 +2405,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3783.94s] English:** When I say I'm just talking about the social contract.  
 **Translation:** 
 
-**[3786.90s] English:** Yeah, but the social contract is similarity between others.  
+**[3786.90s] English:** Yeah, but the social contract is a similarity between others.  
 **Translation:** 
 
 **[3789.98s] English:** But he takes it in a completely different direction.  
 **Translation:** 
 
-**[3791.90s] English:** And we agree social contract is a bad idea.  
+**[3791.90s] English:** And we agree that a social contract is a bad idea.  
 **Translation:** 
 
 **[3794.64s] English:** But you can't have a contract that you don't actually voluntarily accept.  
@@ -2419,7 +2420,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3799.46s] English:** But so is the French Revolution.  
 **Translation:** Vocabulary: voluntarily: 自愿地
 
-**[3801.46s] English:** So is about destruction and mayhem and chaos and anarchy.  
+**[3801.46s] English:** So, it's about destruction, mayhem, chaos, and anarchy.  
 **Translation:** 
 
 **[3806.60s] English:** He is the spirit behind the French Revolution.  
@@ -2429,25 +2430,25 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[3812.04s] English:** I think Jefferson is a complete rejection of Rousseau.  
-**Translation:** Vocabulary: rejection: 彻底否定
+**Translation:** Vocabulary: rejection: 否定
 
 **[3814.40s] English:** I don't think Jefferson is a fan of Rousseau.  
 **Translation:** 
 
-**[3816.22s] English:** He is of Voltaire.  
-**Translation:** Vocabulary: rousseau: 卢梭
+**[3816.22s] English:** He is a descendant of Voltaire.  
+**Translation:** Vocabulary: descendant: 后代; voltaire: 伏尔泰
 
 **[3817.36s] English:** He certainly is a monoskew.  
 **Translation:** 
 
-**[3818.72s] English:** If you look at any, if you look at the Federalist Papers, the intellectual most cited in the Federalist Papers, I think, in terms of the number of times it's said is monoskew, you know.  
-**Translation:** Vocabulary: cited: 被引用
+**[3818.72s] English:** If you look at any of the Federalist Papers, the intellectual most cited in the papers, I think, in terms of the number of times it's mentioned, is monoskew, you know.  
+**Translation:** Vocabulary: cited: 引用
 
-**[3827.90s] English:** So I think that the American Revolution is an individualistic revolution.  
+**[3827.90s] English:** So, I think that the American Revolution is an individualistic revolution.  
 **Translation:** 
 
 **[3831.74s] English:** It is a revolution about the rights of the individual.  
-**Translation:** Vocabulary: individualistic: 个人主义
+**Translation:** Vocabulary: individualistic: 个人主义的
 
 **[3835.34s] English:** The French Revolution is an individualistic revolution.  
 **Translation:** 
@@ -2455,34 +2456,34 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3836.56s] English:** It's a negation of the rights of the individual.  
 **Translation:** Vocabulary: negation: 否定
 
-**[3838.18s] English:** It's a collectivistic revolution.  
+**[3838.18s] English:** It's a collectivist revolution.  
 **Translation:** 
 
-**[3840.00s] English:** It's not quite the Marxist revolution of the proletarian, but it's defining people in classes and it's a rebellion against a certain class and, yeah, kill them all, right, off with their heads.  
-**Translation:** Vocabulary: rebellion: 反抗
+**[3840.00s] English:** It's not quite the Marxist revolution of the proletarian, but it's defining people in classes and it's a rebellion against a certain class. And, yeah, kill them all, right? Off with their heads.  
+**Translation:** Vocabulary: marxist: 马克思的; rebellion: 反抗
 
 **[3853.44s] English:** And it is a negation.  
 **Translation:** 
 
-**[3855.16s] English:** It's about egalitarianism in the sense of equality of outcome, not in a sense of equality before the law or equality of rights, which is the Jeffersonian sense.  
-**Translation:** Vocabulary: egalitarianism: 结果平等; jeffersonian: 法律面前平等
+**[3855.16s] English:** It's about egalitarianism in the sense of equality of outcome, not in the sense of equality before the law or equality of rights, which is the Jeffersonian sense.  
+**Translation:** Vocabulary: egalitarianism: 结果平等
 
-**[3863.08s] English:** So I think it's wrong to lump Jefferson in to the fraternity, you know, egalitarian notion of the French, which is far more similar to what ultimately became socialism and Marxism and kind of that tradition.  
+**[3863.08s] English:** So, I think it's wrong to lump Jefferson into the fraternity of the egalitarian notion of the French, which is far more similar to what ultimately became socialism and Marxism and that tradition.  
 **Translation:** 
 
-**[3881.90s] English:** It's anti-individualistic, the French revolution is, whereas the American revolution, the first one, is individualistic.  
-**Translation:** Vocabulary: egalitarian: 平等主义; fraternity: 兄弟会
+**[3881.90s] English:** It's anti-individualistic, the French Revolution is, whereas the American Revolution, the first one, is individualistic.  
+**Translation:** Vocabulary: egalitarian: 主张平等; fraternity: 兄弟会; marxism: 马克思主义
 
 **[3888.56s] English:** It's all about individual rights.  
 **Translation:** 
 
-**[3890.32s] English:** And while there's certain phrases in the Declaration of Independence.  
+**[3890.32s] English:** And, while there are certain phrases in the Declaration of Independence,...  
 **Translation:** 
 
-**[3893.08s] English:** That I don't agree with, you know, it's beautifully written and it's a magnificent document.  
+**[3893.08s] English:** That I don't agree with, you know; it's beautifully written and it's a magnificent document.  
 **Translation:** 
 
-**[3898.30s] English:** So it's hard for me to say I don't agree.  
+**[3898.30s] English:** So, it's hard for me to say I don't agree.  
 **Translation:** 
 
 **[3900.54s] English:** Who am I?  
@@ -2491,13 +2492,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3901.46s] English:** Right.  
 **Translation:** 
 
-**[3901.72s] English:** These were these were giants.  
+**[3901.72s] English:** These were giants.  
 **Translation:** 
 
 **[3903.54s] English:** Self-evident is one of them.  
 **Translation:** 
 
-**[3905.96s] English:** You know, I'm not particularly crazy about endowed by the creator, but I like the fact that it's creator and not God or not a specific creator, but just kind of a more general thing.  
+**[3905.96s] English:** You know, I'm not particularly crazy about "endowed by the creator," but I like the fact that it's "creator" and not "God" — or not a specific creator, but just kind of a more general thing.  
 **Translation:** 
 
 **[3917.42s] English:** But putting those two ashes aside, it's the greatest political document in all of human history, in my view.  
@@ -2506,14 +2507,14 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3923.08s] English:** By far, nothing comes close.  
 **Translation:** 
 
-**[3924.94s] English:** It is it is a document that identifies the core principles of political truism of truth.  
-**Translation:** Vocabulary: identifies: 确定; truism: 真理
+**[3924.94s] English:** It is a document that identifies the core principles of political truism and truth.  
+**Translation:** Vocabulary: identifies: 确定; truism: 陈词滥调
 
-**[3933.94s] English:** That is, the role of government is to preserve and to protect these rights, these inalienable rights.  
+**[3933.94s] English:** That is, the role of government is to preserve and protect these rights—these inalienable rights.  
 **Translation:** 
 
 **[3938.98s] English:** And that is so crucial that these rights are inalienable.  
-**Translation:** Vocabulary: inalienable: 不可剥夺
+**Translation:** Vocabulary: crucial: 至关重要; inalienable: 不可剥夺
 
 **[3942.16s] English:** That is, a majority can't vote them out.  
 **Translation:** 
@@ -2521,94 +2522,94 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[3945.04s] English:** You know, a revelation can't vote them out.  
 **Translation:** Vocabulary: revelation: 披露
 
-**[3947.86s] English:** This is this is what is required for human liberty and human freedom.  
+**[3947.86s] English:** This is what is required for human liberty and freedom.  
 **Translation:** 
 
 **[3952.00s] English:** The right.  
 **Translation:** 
 
-**[3953.08s] English:** That is the sanction, the freedom to act on your own behalf, to act based on your own judgment as and as long as you're not.  
+**[3953.08s] English:** That is the sanction: the freedom to act on your own behalf, to act based on your own judgment—as long as you're not.  
 **Translation:** 
 
-**[3960.00s] English:** you know interfering with other people's rights you are free to do so that is such a profound  
-**Translation:** Vocabulary: interfering: 干涉; profound: 深刻; sanction: 制裁
-
-**[3965.50s] English:** truth and that to me is the is the is the is the essence of political philosophy that's the  
+**[3960.00s] English:** You know, interfering with other people's rights—you are free to do so—that is such a profound  
 **Translation:** 
 
-**[3970.24s] English:** beginning you know and and it's it's based on just just to not fall into your i'm gonna say  
+**[3965.50s] English:** Truth, and that to me is the essence of political philosophy. That's the  
 **Translation:** 
 
-**[3976.44s] English:** uh it's a rationalist it's based on a whole history of what happens when when you gate that  
+**[3970.24s] English:** Beginning, you know, and it's based on just not falling into your own biases, I'm gonna say.  
 **Translation:** 
 
-**[3981.12s] English:** it's based on looking at england and seeing to the extent that they practiced a respect for  
+**[3976.44s] English:** Uh, it's a rationalist; it's based on a whole history of what happens when you gate that.  
 **Translation:** 
 
-**[3987.30s] English:** individual liberty of property of of of uh freedom good things happened so let's take that all the  
+**[3981.12s] English:** It's based on looking at England and seeing, to the extent that they practiced a respect for  
 **Translation:** 
 
-**[3993.90s] English:** way let's not compromise on that let's let's be consistent with the good and reject the bad and  
+**[3987.30s] English:** Individual liberty, property, and freedom — good things happened. So, let's take that all in.  
 **Translation:** 
 
-**[4000.44s] English:** when england goes away distance itself from the rights of man from the idea of of of a right to  
+**[3993.90s] English:** Let's not compromise on that. Let's be consistent with the good and reject the bad.  
+**Translation:** Vocabulary: compromise: 妥协
+
+**[4000.44s] English:** When England distances itself from the rights of man and the idea of a right to...  
 **Translation:** 
 
-**[4005.90s] English:** property and so on bad things happen and when they go to let's go all in and i'm i'm all in on on the  
+**[4005.90s] English:** Property, and so on, bad things happen. And when they go all in, I'm all in on it.  
 **Translation:** 
 
-**[4012.90s] English:** right to life liberty property in the pursuit of happiness and i think the idea of pursuit of  
+**[4012.90s] English:** Right to life, liberty, property, and in the pursuit of happiness, and I think the idea of "pursuit of.  
 **Translation:** 
 
-**[4016.60s] English:** happiness  
+**[4016.60s] English:** Happiness  
+**Translation:** Vocabulary: pursuit: 追求
+
+**[4017.30s] English:** Found because it's a moral statement, it's a statement that says that sanctions and sanctions and  
 **Translation:** 
 
-**[4017.30s] English:** found because it's a moral statement it's a statement that says that sanctions and and and  
+**[4023.44s] English:** Says that ultimately, people should be allowed to make their own judgments and live their  
+**Translation:** Vocabulary: judgments: 判断; sanctions: 制裁
+
+**[4029.32s] English:** Lives as they see fit, based on how they view happiness. They might be right, they might be wrong.  
 **Translation:** 
 
-**[4023.44s] English:** says that ultimately people should be allowed to make their own judgments and and live their  
-**Translation:** Vocabulary: sanctions: 制裁
-
-**[4029.32s] English:** lives as they see fit based on how they view happiness they might be right they might be wrong  
-**Translation:** 
-
-**[4034.48s] English:** but we're not going to dictate what happiness entails and dictate to people how they should  
+**[4034.48s] English:** But we're not going to dictate what happiness entails and dictate to people how they should.  
 **Translation:** Vocabulary: dictate: 规定; entails: 包含
 
-**[4039.66s] English:** live their lives we're going to let them let them figure that out so it has this self-interested  
+**[4039.66s] English:** Live their lives, we're going to let them figure that out, so it has this self-interested.  
 **Translation:** 
 
-**[4046.82s] English:** moral statement and it's a moral statement and it's a moral statement and it's a moral statement  
+**[4046.82s] English:** Moral statement, and it's a moral statement, and it's a moral statement, and it's a moral statement.  
 **Translation:** 
 
-**[4047.30s] English:** and it's a moral code kind of embedded in it so i think it's a it's a beautiful statement so i think  
+**[4047.30s] English:** And it's a moral code kind of embedded in it, so I think it's a beautiful statement, so I think.  
 **Translation:** 
 
-**[4051.48s] English:** the declaration is key and i i i think there was an experiment and the experiment was post uh in that  
+**[4051.48s] English:** The declaration is key, and I think there was an experiment. The experiment was posted, but in that...  
 **Translation:** Vocabulary: embedded: 植入的
 
-**[4058.18s] English:** period of of uh before the constitution where the experiment was let's let the states let's have a  
+**[4058.18s] English:** Period of uh, before the Constitution, where the experiment was, let's let the states have a  
 **Translation:** 
 
-**[4063.98s] English:** kind of a loose confederation uh let's let the states experiment with with setting up their own  
+**[4063.98s] English:** Kind of a loose confederation; let's let the states experiment with setting up their own.  
 **Translation:** Vocabulary: confederation: 松散联盟
 
-**[4069.70s] English:** constitutions and role of government and we won't have any kind of unity and i think what they  
+**[4069.70s] English:** Constitutions and the role of government, and we won't have any kind of unity. I think what they  
 **Translation:** 
 
-**[4074.56s] English:** realized and i think even jefferson realized is that we don't have any kind of unity and we don't  
-**Translation:** Vocabulary: constitutions: 根本制度
+**[4074.56s] English:** Realized, and I think Jefferson realized as well, is that we don't have any kind of unity and we don't.  
+**Translation:** Vocabulary: constitutions: 根本法
 
-**[4077.30s] English:** is that that was not workable because  
+**[4077.30s] English:** Is that not workable because?  
 **Translation:** 
 
-**[4080.00s] English:** many of the states were starting to significantly violate rights.  
-**Translation:** 
+**[4080.00s] English:** Many of the states were starting to significantly violate rights.  
+**Translation:** Vocabulary: violate: 侵犯
 
 **[4085.14s] English:** There was nothing to unify.  
 **Translation:** 
 
-**[4087.04s] English:** There was nothing to really protect the vision of the declaration.  
+**[4087.04s] English:** There was nothing, really, to protect the vision of the declaration.  
 **Translation:** 
 
 **[4091.22s] English:** You needed to establish a nation, which is what the Constitution does.  
@@ -2623,23 +2624,23 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4105.34s] English:** The focus was still on the protection of rights.  
 **Translation:** 
 
-**[4107.82s] English:** Listen, I agree with six of the seven of the principles, right?  
+**[4107.82s] English:** Listen, I agree with six of the seven principles, right?  
 **Translation:** 
 
-**[4112.54s] English:** Which did disagree with?  
+**[4112.54s] English:** Which did you disagree with?  
 **Translation:** 
 
 **[4114.12s] English:** The common welfare, the general welfare, which I worry about, right?  
 **Translation:** 
 
-**[4117.62s] English:** I think in the way the founders understood it, I think I probably agreed with it.  
+**[4117.62s] English:** I think, in the way the founders understood it, I probably agreed with it.  
 **Translation:** Vocabulary: founders: 创立者
 
 **[4122.06s] English:** But it's such an ambiguous—  
 **Translation:** 
 
 **[4123.54s] English:** I'm sure you don't agree.  
-**Translation:** Vocabulary: ambiguous: 模棱两可
+**Translation:** Vocabulary: ambiguous: 模棱两可的
 
 **[4124.44s] English:** Maybe I don't.  
 **Translation:** 
@@ -2656,13 +2657,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4135.90s] English:** We really should have.  
 **Translation:** 
 
-**[4136.58s] English:** But is the question of whether there is such a thing as a common good or a public interest  
+**[4136.58s] English:** But is the question of whether there is such a thing as a common good or a public interest?  
 **Translation:** 
 
-**[4143.46s] English:** or a national interest or a general welfare, do these words, do these terms mean anything  
+**[4143.46s] English:** Or for a national interest or a general welfare, do these words or terms mean anything?  
 **Translation:** 
 
-**[4149.40s] English:** other than the good of all of the individuals in the country?  
+**[4149.40s] English:** Other than the good of all the individuals in the country?  
 **Translation:** 
 
 **[4153.34s] English:** That's an—  
@@ -2674,202 +2675,202 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4154.66s] English:** Yeah, so that's right.  
 **Translation:** 
 
-**[4156.16s] English:** So that's why—so I object to it because I think it's too easy to interpret it as.  
+**[4156.16s] English:** So, that's why—I object to it because I think it's too easy to interpret it as.  
 **Translation:** Vocabulary: interpret: 解释
 
-**[4160.40s] English:** So I interpret it as, well, what's good for the, you know, a general, a group, a common,  
+**[4160.40s] English:** So I interpret it as: Well, what's good for the general, a group, or a common...  
 **Translation:** 
 
-**[4165.70s] English:** a—  
+**[4165.70s] English:** A——  
 **Translation:** 
 
-**[4166.00s] English:** people are just a collection of individuals, so what's good for the individual is good  
+**[4166.00s] English:** People are just a collection of individuals, so what's good for the individual is good.  
 **Translation:** 
 
-**[4169.34s] English:** for the common welfare.  
+**[4169.34s] English:** For the common welfare.  
 **Translation:** 
 
-**[4170.46s] English:** But I understand that that is a—that's something that is hard for people to grasp and not the  
+**[4170.46s] English:** But I understand that that is something that is hard for people to grasp, and not the  
 **Translation:** 
 
-**[4176.00s] English:** common understanding.  
+**[4176.00s] English:** Common understanding.  
 **Translation:** 
 
-**[4177.20s] English:** So I would have skipped the general welfare in order to avoid the fact that now the general  
+**[4177.20s] English:** So, I would have skipped the general welfare clause in order to avoid the fact that now the general  
 **Translation:** 
 
-**[4182.36s] English:** welfare includes the government telling you what gender you should be assigned.  
+**[4182.36s] English:** Welfare includes the government telling you what gender you should be assigned.  
+**Translation:** Vocabulary: clause: 条款; skipped: 跳过
+
+**[4187.52s] English:** So, I would have wanted to skip that completely.  
 **Translation:** 
 
-**[4187.52s] English:** So I would have—I would have wanted to have skipped that completely.  
-**Translation:** 
+**[4190.72s] English:** So, I think the Constitution is pretty consistent with the Declaration, with a few exceptions.  
+**Translation:** Vocabulary: exceptions: 例外
 
-**[4190.72s] English:** So I think the Constitution is pretty consistent with the Declaration, with a few exceptions,  
-**Translation:** 
-
-**[4195.48s] English:** the general welfare.  
+**[4195.48s] English:** The general welfare.  
 **Translation:** 
 
 **[4196.00s] English:** But, you know, perfection is a difficult thing to find.  
 **Translation:** 
 
-**[4200.00s] English:** mind, particularly for me, right, politically. But it's a magnificent document, the Constitution.  
+**[4200.00s] English:** Mind—particularly for me, right?—politically. But it's a magnificent document: the Constitution.  
 **Translation:** 
 
-**[4205.52s] English:** It doesn't quite rise to the level, I think, of the Declaration, but it's a magnificent document  
+**[4205.52s] English:** It doesn't quite rise to the level, I think, of the Declaration, but it's a magnificent document.  
 **Translation:** Vocabulary: politically: 政治上
 
-**[4209.12s] English:** because, you know, and this is the difference, I think, between the English Constitution. Here's  
+**[4209.12s] English:** Because, you know, and this is the difference, I think, between the English Constitution. Here's  
 **Translation:** 
 
-**[4214.32s] English:** what I see as the difference. The difference is that the Constitution is written in the context  
+**[4214.32s] English:** What I see as the difference is that the Constitution is written in the context of...  
 **Translation:** 
 
-**[4221.10s] English:** of why do we have a separation of powers, for example. We have a separation of powers in order  
+**[4221.10s] English:** Of course, why do we have a separation of powers, for example? We have a separation of powers in order  
 **Translation:** 
 
-**[4226.54s] English:** to make sure that the government only does what the government is supposed to do. And what is the  
+**[4226.54s] English:** To make sure that the government only does what the government is supposed to do, and what is  
 **Translation:** 
 
-**[4229.44s] English:** government supposed to do? Well, fundamentally, it's supposed to protect rights. I mean, all of  
+**[4229.44s] English:** Government is supposed to do? Well, fundamentally, it's supposed to protect rights. I mean, all of  
 **Translation:** 
 
-**[4233.66s] English:** those seven, or at least six of the seven, are about protecting rights. They're about protecting  
-**Translation:** Vocabulary: fundamentally: 从根本上
+**[4233.66s] English:** Those seven, or at least six of the seven, are about protecting rights. They're about protecting...  
+**Translation:** Vocabulary: fundamentally: 本质上
 
-**[4238.66s] English:** us from foreign invaders. They're about protecting, you know, peace within the country. They're about  
+**[4238.66s] English:** To keep us from foreign invaders. They're about protecting, you know, peace within the country. They're about  
 **Translation:** 
 
-**[4243.70s] English:** preserving this protection of rights. And why do we have this separation? So that we make sure that  
+**[4243.70s] English:** Preserving this protection of rights. And why do we have this separation? So that we make sure that.  
 **Translation:** 
 
-**[4249.60s] English:** no one of those entities, the executive or the legislature, judicial, can violate rights because  
+**[4249.60s] English:** No one of those entities—the executive, the legislature, or the judiciary—can violate rights because  
 **Translation:** 
 
-**[4254.68s] English:** there's always somebody looking over their shoulder. There's always somebody who can veto  
+**[4254.68s] English:** There's always somebody looking over their shoulder. There's always somebody who can veto.  
+**Translation:** Vocabulary: judiciary: 司法机关; legislature: 立法机关; violate: 侵犯
+
+**[4257.94s] English:** Their power. But there's a  
 **Translation:** 
 
-**[4257.94s] English:** their power. But there's a  
-**Translation:** 
-
-**[4259.42s] English:** purpose to it. And that purpose is clearly signified and characterized. And that's why I  
+**[4259.42s] English:** The purpose to it, and that purpose is clearly signified and characterized. That's why I  
 **Translation:** Vocabulary: signified: 表明
 
-**[4264.72s] English:** think the Bill of Rights was written in order to add to the clarification of what exactly we mean.  
+**[4264.72s] English:** I think the Bill of Rights was written in order to clarify exactly what we mean.  
 **Translation:** 
 
-**[4269.84s] English:** What is the purpose? The purpose is to preserve rights. And that's why we need to elaborate what  
-**Translation:** Vocabulary: clarification: 澄清; elaborate: 阐述
+**[4269.84s] English:** What is the purpose? The purpose is to preserve rights. And that's why we need to elaborate what.  
+**Translation:** Vocabulary: clarify: 使清晰; elaborate: 详细说明
 
-**[4275.60s] English:** those rights. And Madison's objection to the Bill of Rights was to say, not that he objected to  
+**[4275.60s] English:** Those rights. And Madison's objection to the Bill of Rights was to say, not that he objected to  
 **Translation:** 
 
-**[4280.68s] English:** having protection of rights, but to listing them because he was worried that other rights that  
+**[4280.68s] English:** Having protection of rights, but not listing them because he was worried that other rights might be compromised.  
+**Translation:** Vocabulary: compromised: 被妥协; objected: 反对
+
+**[4286.92s] English:** Were not listed, they would not be. And his worry was completely,  
 **Translation:** 
 
-**[4286.92s] English:** were not listed would not be. And his worry was completely,  
+**[4289.42s] English:** Completely justified because it's exactly what's happened. It's like the only reason we have free.  
 **Translation:** 
 
-**[4289.42s] English:** completely justified because it's exactly what's happened. It's like the only reason we have free  
+**[4293.04s] English:** Speech in America is we've got it in writing as a First Amendment. If we didn't have it in writing,  
 **Translation:** 
 
-**[4293.04s] English:** speech in America is we've got it in writing as a First Amendment. If we didn't have it in writing,  
+**[4297.16s] English:** It would have been gone a long time ago. And the reason we don't have, for example, the freedom to.  
 **Translation:** 
 
-**[4297.16s] English:** it would have been gone a long time ago. And the reason we don't have, for example, the freedom to  
+**[4301.22s] English:** Negotiate a contract, you know, independent government regulation is that was not listed.  
 **Translation:** 
 
-**[4301.22s] English:** negotiate a contract, you know, independent government regulation is that was not listed  
+**[4308.26s] English:** As a right in the bill, even though I think it's clearly covered under the Constitution, and  
 **Translation:** 
 
-**[4308.26s] English:** as a right in the bill, even though I think it's clearly covered under the Constitution and  
+**[4313.20s] English:** Certainly, under the Declaration. So, there was a massive mistake made in the Bill of Rights. They  
 **Translation:** 
 
-**[4313.20s] English:** certainly under the Declaration. So there was a massive mistake done in the Bill of Rights. They  
-**Translation:** 
-
-**[4317.12s] English:** tried to cover it with the Ninth Amendment. And they tried to cover it with the Ninth Amendment.  
+**[4317.12s] English:** Tried to cover it with the Ninth Amendment, and they tried to cover it with the Ninth Amendment.  
 **Translation:** Vocabulary: ninth: 第九条
 
 **[4319.42s] English:** But it didn't.  
 **Translation:** 
 
-**[4320.00s] English:** ever really stuck uh this idea that the the non-enumerated rights that that is still in place  
+**[4320.00s] English:** Ever really stuck with the idea that the non-enumerated rights are still in place.  
 **Translation:** 
 
-**[4326.54s] English:** so i don't see it as the second revolution i think it's it's a it's a it's a fix to a flaw  
+**[4326.54s] English:** So, I don't see it as the second revolution; I think it's more of a fix to a flaw.  
 **Translation:** 
 
-**[4332.56s] English:** that happened it's a fix that uh allowed the expansion of the protection of rights  
+**[4332.56s] English:** That happened, it's a fix that allowed the expansion of the protection of rights.  
 **Translation:** 
 
-**[4338.58s] English:** to all states by creating a national entity to protect those rights and that's what ultimately  
+**[4338.58s] English:** To all states, by creating a national entity to protect those rights—and that's what ultimately.  
 **Translation:** 
 
-**[4345.14s] English:** led to the to slavery going away uh you know under the under the initial uh the initial  
+**[4345.14s] English:** Led to the end of slavery going away, uh, you know, under the initial efforts, uh, the initial  
 **Translation:** 
 
-**[4352.96s] English:** agreement slavery would have been there in perpetuity because states were sovereign  
+**[4352.96s] English:** Agreement: Slavery would have been there in perpetuity because states were sovereign.  
 **Translation:** 
 
-**[4357.14s] English:** in in a way that under the new constitution they were not and in a sense the constitution  
+**[4357.14s] English:** In a way, that under the new constitution they were not, and in a sense, the constitution  
 **Translation:** Vocabulary: perpetuity: 永久; sovereign: 独立
 
-**[4361.76s] English:** sets in motion the declaration and then the constitution set in motion the the civil war  
+**[4361.76s] English:** Sets in motion the declaration, and then the Constitution set in motion the Civil War.  
 **Translation:** 
 
-**[4367.28s] English:** the civil war has to happen because at the end of the day you cannot have some states with a  
+**[4367.28s] English:** The Civil War had to happen because, at the end of the day, you cannot have some states with a  
 **Translation:** 
 
-**[4371.94s] English:** massive violation of rights what's more of a violation of rights than slavery  
+**[4371.94s] English:** A massive violation of rights—what's more of a violation of rights than slavery?  
 **Translation:** 
 
-**[4375.14s] English:** and some states that recognize it's not it it inevitably leads to the civil war  
+**[4375.14s] English:** And some states that recognize it's not; it inevitably leads to civil war.  
 **Translation:** Vocabulary: inevitably: 必然地
 
-**[4380.92s] English:** you're always just saying that you know other than the general welfare these principles are  
+**[4380.92s] English:** You're always just saying that, you know, other than the general welfare, these principles are  
 **Translation:** 
 
-**[4385.42s] English:** about individual liberties i i i think i just don't think you can read it that way the first  
+**[4385.42s] English:** About individual liberties, I just don't think you can read it that way. The first,...  
 **Translation:** 
 
-**[4389.82s] English:** stated purpose of the constitution of 1787 is in order to form a more perfect union a more perfect  
+**[4389.82s] English:** The stated purpose of the Constitution of 1787 is "in order to form a more perfect union.  
 **Translation:** 
 
-**[4396.52s] English:** union what what it's describing a characteristic of the whole it is not a characteristic of any  
+**[4396.52s] English:** Union: What it's describing is a characteristic of the whole, not a characteristic of any.  
 **Translation:** Vocabulary: characteristic: 特性
 
-**[4403.16s] English:** individual if you look at how  
+**[4403.16s] English:** Individual, if you look at how  
 **Translation:** 
 
-**[4405.12s] English:** the individuals are doing you don't know whether whether their union is more or less perfect right  
+**[4405.12s] English:** The individuals are doing; you don't know whether their union is more or less perfect, right?  
 **Translation:** 
 
-**[4410.04s] English:** so what they're doing is they're they're looking they're looking at the condition in which uh in in  
+**[4410.04s] English:** So, what they're doing is they're looking at the condition in which...  
 **Translation:** 
 
-**[4415.18s] English:** order to be able to fight the battle of yorktown they have to somebody has to write a personal  
+**[4415.18s] English:** To be able to fight the battle of Yorktown, they have to; somebody has to write a personal  
 **Translation:** Vocabulary: yorktown: 约克敦战役
 
-**[4419.52s] English:** check in order to be able to move armies a more perfect union is a more cohesive union it's the  
+**[4419.52s] English:** Check in order to be able to move armies; a more perfect union is a more cohesive union, it's the  
 **Translation:** 
 
-**[4424.96s] English:** ability to get all of these different individuals to do one focused thing when it's needed necessary  
+**[4424.96s] English:** Ability to get all of these different individuals to do one focused thing when it's needed.  
 **Translation:** Vocabulary: cohesive: 凝聚力
 
-**[4431.22s] English:** to do it well it's it's more than that right so i agree with that  
+**[4431.22s] English:** To do it well, it's more than that, right? So, I agree with that.  
 **Translation:** 
 
-**[4435.12s] English:** but for what purpose that is and this is why  
+**[4435.12s] English:** But for what purpose, and that is why.  
 **Translation:** 
 
-**[4440.00s] English:** This is why it's so hard with these historical documents because there's a context and there's a thinking that they can't write everything down, which is sad because I wish they had.  
+**[4440.00s] English:** This is why it's so hard with these historical documents because there's a context, and there's a thinking that they can't write everything down, which is sad because I wish they had.  
 **Translation:** 
 
-**[4449.08s] English:** What's the purpose of a more perfect union?  
+**[4449.08s] English:** What is the purpose of a more perfect union?  
 **Translation:** 
 
-**[4451.10s] English:** The purpose of the more perfect union is to preserve the liberty of the individuals within that union.  
+**[4451.10s] English:** The purpose of a more perfect union is to preserve the liberty of the individuals within that union.  
 **Translation:** 
 
 **[4456.46s] English:** How do you know that?  
@@ -2878,14 +2879,14 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4457.64s] English:** Because if you look, what's the rest?  
 **Translation:** 
 
-**[4459.96s] English:** So what is the common defense?  
+**[4459.96s] English:** So, what is the common defense?  
 **Translation:** 
 
 **[4461.20s] English:** The common defense is to protect us from foreign invaders who would now disrupt what the rest of the Constitution is all about.  
 **Translation:** 
 
-**[4467.86s] English:** All of the Constitution is written in a way as to preserve, find ways to limit the ability of government to violate the rights of individuals.  
-**Translation:** 
+**[4467.86s] English:** All of the Constitution is written in a way to preserve and find ways to limit the government's ability to violate the rights of individuals.  
+**Translation:** Vocabulary: disrupt: 扰乱; violate: 侵犯
 
 **[4477.24s] English:** The beauty of this Constitution, and again, it's connection to the Declaration and tradition, right?  
 **Translation:** 
@@ -2893,11 +2894,11 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4483.64s] English:** What came before it?  
 **Translation:** 
 
-**[4484.72s] English:** What came before it was a document, which they all respected, which was the Declaration, which set the context for this.  
+**[4484.72s] English:** What came before it was a document, which they all respected—the Declaration—which set the context for this.  
 **Translation:** 
 
-**[4490.62s] English:** And now the union is there in order to provide for the common defense.  
-**Translation:** 
+**[4490.62s] English:** And now, the union is there in order to provide for the common defense.  
+**Translation:** Vocabulary: respected: 受尊重的
 
 **[4494.56s] English:** Great, because we know that foreign invaders can violate our rights.  
 **Translation:** 
@@ -2905,25 +2906,25 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4497.74s] English:** That's what war is about.  
 **Translation:** 
 
-**[4499.56s] English:** To protect us from peace, to establish peace and justice within the country, that's based on law, the rule of law, and again, individual liberty.  
+**[4499.56s] English:** To protect us from conflict, to establish peace and justice within the country—that is based on law, the rule of law—and again, individual liberty.  
 **Translation:** 
 
-**[4509.44s] English:** So to me, when you read the founders, when you read the Federalist Papers, when you read what they wrote, what they're trying to do is figure out the right kind of political system, the right kind of structure to be able to preserve these liberties.  
-**Translation:** Vocabulary: founders: 奠基人
+**[4509.44s] English:** So, to me, when you read the Founders, when you read the Federalist Papers, when you read what they wrote, what they're trying to do is figure out the right kind of political system, the right kind of structure to be able to preserve these liberties.  
+**Translation:** Vocabulary: founders: 创立者
 
 **[4524.44s] English:** And not all of them had a problem.  
 **Translation:** 
 
-**[4527.74s] English:** In my perspective, a perfect understanding of what those liberties entailed.  
-**Translation:** Vocabulary: entailed: 蕴含
+**[4527.74s] English:** In my perspective, a perfect understanding of what those liberties entail.  
+**Translation:** Vocabulary: entail: 蕴含
 
-**[4530.54s] English:** But they were all, even the conservatives that you call conservatives, were all generally in agreement about the importance of individual liberty and the importance of individual rights.  
+**[4530.54s] English:** But they were all, even the conservatives that you call conservatives, were generally in agreement about the importance of individual liberty and the importance of individual rights.  
 **Translation:** 
 
 **[4539.20s] English:** Of course, because almost all of these rights are traditional English rights.  
 **Translation:** 
 
-**[4543.98s] English:** They exist in the English Bill of Rights, in the English Petition of Rights.  
+**[4543.98s] English:** They exist in the English Bill of Rights, and in the English Petition of Rights.  
 **Translation:** 
 
 **[4547.50s] English:** Of course, of course.  
@@ -2941,289 +2942,289 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[4553.44s] English:** But you keep leaving out that they want to be...  
 **Translation:** 
 
-**[4557.74s] English:** They want to be like England in that they want to have an independent...  
+**[4557.74s] English:** They want to be like England, in that they want to have an independent...  
 **Translation:** 
 
-**[4560.00s] English:** nation. An independent nation is not a collection of individual liberties. An independent nation,  
+**[4560.00s] English:** Nations are not collections of individual liberties; an independent nation is something else entirely.  
 **Translation:** 
 
-**[4566.08s] English:** the first sentence of the Declaration of Independence is the declaration that there  
+**[4566.08s] English:** The first sentence of the Declaration of Independence is "that" there  
 **Translation:** 
 
-**[4569.96s] English:** is a collective right, that we as a people are breaking the bonds with another people,  
+**[4569.96s] English:** Is a collective right that we as a people are breaking the bonds with another people.  
 **Translation:** 
 
-**[4574.06s] English:** and we're going to take our place, our equal station among the nations of the earth.  
+**[4574.06s] English:** And we are going to take our place, our equal station among the nations of the earth.  
 **Translation:** 
 
-**[4578.72s] English:** For what purpose? The purpose is to protect individual rights, and there's no collective  
+**[4578.72s] English:** For what purpose? The purpose is to protect individual rights, and there's no collective.  
 **Translation:** 
 
-**[4582.86s] English:** rights. No, your argument is completely circular. You're not allowing the possibility  
+**[4582.86s] English:** Rights. No, your argument is completely circular. You're not allowing the possibility.  
 **Translation:** 
 
-**[4587.36s] English:** that there could be great and decent men that you and I both admire who wanted the independence  
+**[4587.36s] English:** That there could be great and decent men, that you and I both admire, who wanted independence.  
 **Translation:** 
 
-**[4596.18s] English:** of their nation, not because that would give individuals liberty, but because the independence  
+**[4596.18s] English:** Of their nation, not because that would give individuals liberty, but because the independence  
 **Translation:** 
 
-**[4601.94s] English:** of their nation was itself a great good. So we clearly disagree on this, because I don't think  
+**[4601.94s] English:** Of their nation being itself a great good. So, we clearly disagree on this, because I don't think  
 **Translation:** 
 
-**[4608.00s] English:** the independence of the nation is a good in and of itself. But did they think it was?  
+**[4608.00s] English:** The independence of the nation is a good in and of itself. But did they think it was?  
 **Translation:** 
 
 **[4612.62s] English:** I don't think they did. And this is why they tried so hard not to break from England.  
 **Translation:** 
 
-**[4617.36s] English:** And why many of them struggled, really, really struggled with having a revolution,  
+**[4617.36s] English:** And why many of them struggled, really, really struggled, with having a revolution.  
 **Translation:** 
 
-**[4624.80s] English:** because England was pretty good, right? England was the best. And this is where,  
+**[4624.80s] English:** Because England was pretty good, right? England was the best. And this is where,  
 **Translation:** Vocabulary: struggled: 挣扎
 
-**[4628.60s] English:** you know, we should get to the universality of these things, because I do think England was the  
+**[4628.60s] English:** You know, we should get to the universality of these things, because I do think England was the  
 **Translation:** 
 
-**[4632.86s] English:** best, and universally and absolutely was the best system out there. And they struggled to break from  
-**Translation:** Vocabulary: universality: 普遍性
+**[4632.86s] English:** Best, and universally and absolutely, it was the best system out there. And they struggled to break from.  
+**Translation:** Vocabulary: universality: 普遍性; universally: 普遍地
 
-**[4640.34s] English:** England because they didn't view the value of having a nation as the primary. But what they  
+**[4640.34s] English:** England, because they didn't view the value of having a nation as the primary goal. But what they  
 **Translation:** 
 
-**[4647.36s] English:** didn't see was certain flaws in the system that created situations in which their rights were  
+**[4647.36s] English:** Didnt see were certain flaws in the system that created situations in which their rights were  
 **Translation:** 
 
-**[4651.26s] English:** being violated. So they figured the only option in order to secure these rights is to break away  
+**[4651.26s] English:** Being violated, so they figured the only option in order to secure these rights is to break away.  
 **Translation:** 
 
-**[4657.76s] English:** from England and secure a nation. Now, I am not an anarchist, as Michael Malice says, because we've  
+**[4657.76s] English:** From England and secure a nation. Now, I am not an anarchist, as Michael Malice says, because we've  
 **Translation:** Vocabulary: anarchist: 无政府主义者; malice: 恶意; violated: 侵犯
 
-**[4663.58s] English:** discussed it. I believe you need nations. You need nations to secure those rights. That is,  
+**[4663.58s] English:** Discussed it. I believe you need nations. You need nations to secure those rights. That is,  
 **Translation:** 
 
-**[4669.20s] English:** the rights are not, you can't secure those rights without having a nation. But the nation is just a  
+**[4669.20s] English:** The rights are not secure without having a nation. But the nation is just a  
 **Translation:** 
 
-**[4674.20s] English:** means to an end. The end is the rights. And I think that's how the nation is. And I think that's how  
+**[4674.20s] English:** Means to an end. The end is the rights. And I think that's how the nation is. And I think that's how  
 **Translation:** 
 
-**[4677.36s] English:** the founders understood it, and that's why they created it.  
+**[4677.36s] English:** The founders understood it, and that's why they created it.  
 **Translation:** 
 
-**[4680.00s] English:** this kind of country i think this is a good place to ask about common welfare and cohesion  
+**[4680.00s] English:** This kind of country, I think, is a good place to ask about common welfare and cohesion.  
 **Translation:** 
 
-**[4687.12s] English:** let me uh say what john don wrote that quote no man is an island entire of itself  
+**[4687.12s] English:** Let me, uh, say what John Donne wrote: "No man is an island, entire of itself.  
 **Translation:** Vocabulary: cohesion: 凝聚力
 
-**[4694.24s] English:** every man is a piece of the continent a part of the main he went on any man's death diminishes me  
+**[4694.24s] English:** Every man is a piece of the continent, a part of the main. He went on: "Any man's death diminishes me.  
 **Translation:** 
 
-**[4701.68s] English:** because i am involved in mankind and therefore never sent to know for whom the bell tolls  
+**[4701.68s] English:** Because I am involved with mankind, and therefore never sent to know for whom the bell tolls.  
 **Translation:** Vocabulary: diminishes: 减少
 
-**[4708.16s] English:** it tolls for thee so let's talk about individualism and cohesion not just at the  
+**[4708.16s] English:** It tolls for thee. So, let's talk about individualism and cohesion not just at the  
 **Translation:** 
 
-**[4718.24s] English:** political level but at a philosophical level for the human condition what is central what is the  
+**[4718.24s] English:** At a political level, but at a philosophical level, for the human condition, what is central, what is the  
 **Translation:** Vocabulary: individualism: 个人主义; philosophical: 哲学的
 
-**[4725.44s] English:** role of other humans in our lives what's the importance of cohesion this is something you've  
+**[4725.44s] English:** The role of other humans in our lives: what's the importance of cohesion? This is something you've  
 **Translation:** 
 
-**[4731.76s] English:** talked about so iran said that the the beauty of the founding documents is that they create  
+**[4731.76s] English:** Talked about, so Iran said that the beauty of the founding documents is that they create.  
 **Translation:** Vocabulary: founding: 创立
 
-**[4738.16s] English:** a cohesive union that protects the individual freedoms but you have spoken about the value of  
+**[4738.16s] English:** A cohesive union that protects individual freedoms, but you have also spoken about the value of  
 **Translation:** 
 
-**[4745.60s] English:** the union the common welfare uh the cohesion in itself uh so can you maybe elaborate on  
-**Translation:** Vocabulary: cohesive: 凝聚力; elaborate: 阐述
+**[4745.60s] English:** The union, the common welfare, and the cohesion—in themselves, so—can you maybe elaborate on that?  
+**Translation:** Vocabulary: cohesive: 有凝聚力的; elaborate: 详细说明
 
-**[4755.04s] English:** what is the role of cohesion and the collective not to use that term but multiple humans together  
+**[4755.04s] English:** What is the role of cohesion among multiple humans working together?  
 **Translation:** 
 
-**[4762.08s] English:** connected in the human condition sure i keep getting the feeling that your own and i are  
+**[4762.08s] English:** Connected in the human condition, sure I keep getting the feeling that you're and I are.  
 **Translation:** 
 
-**[4768.16s] English:** actually having an a disagreement about empirical reality because i think that enlightenment  
+**[4768.16s] English:** Actually, we're having a disagreement about empirical reality because I think that enlightenment...  
 **Translation:** 
 
-**[4773.44s] English:** rationalist political thought features the individual it features the state there isn't  
-**Translation:** Vocabulary: empirical: 经验的; enlightenment: 启蒙
+**[4773.44s] English:** Rationalist political thought features the individual, it features the state; there isn't  
+**Translation:** Vocabulary: disagreement: 分歧; empirical: 经验的; enlightenment: 启蒙
 
-**[4781.12s] English:** really a nation other than the the nation the people is as a collective is created by  
+**[4781.12s] English:** Really, a nation, other than the people, is created by the people as a collective.  
 **Translation:** 
 
-**[4787.68s] English:** the state and when the state disappears then the collective disappears  
+**[4787.68s] English:** The state, and when the state disappears, then the collective disappears.  
 **Translation:** 
 
-**[4791.60s] English:** now i think that when conservatives of all stripes look at this kind of thinking  
+**[4791.60s] English:** Now, I think that when conservatives of all stripes look at this kind of thinking,  
 **Translation:** 
 
-**[4798.16s] English:** that there's the individuals and  
+**[4798.16s] English:** That there are the individuals and  
 **Translation:** 
 
-**[4800.00s] English:** then there's the state and there really isn't anything else when they look at that they say  
+**[4800.00s] English:** Then, there's the state, and there really isn't anything else when they look at that; they say,...  
 **Translation:** 
 
-**[4805.98s] English:** even before you get to consequences it's a terrible theory because when we try to understand  
+**[4805.98s] English:** Even before you get to consequences, it's a terrible theory because when we try to understand...  
 **Translation:** 
 
-**[4812.12s] English:** any field of inquiry any domain any subject area when you try to understand it we try to come up  
+**[4812.12s] English:** Any field of inquiry, any domain, any subject area: when you try to understand it, we try to come up  
 **Translation:** 
 
-**[4819.06s] English:** with a a small number of uh of concepts and of relations among the concepts which is supposed  
+**[4819.06s] English:** With a small number of concepts and the relations among them, which is supposed  
 **Translation:** 
 
-**[4827.78s] English:** to be able to to uh to explain to illuminate um as much as possible the important things that are  
+**[4827.78s] English:** To be able to explain and illuminate, as much as possible, the important things that are  
 **Translation:** 
 
-**[4835.46s] English:** taking place in the domain and conservatives look at this individuals and the state and they say  
+**[4835.46s] English:** Taking place in the domain, conservatives look at these individuals and the state, and they say,  
 **Translation:** Vocabulary: illuminate: 阐明
 
-**[4841.28s] English:** you're missing most of what's going on in politics in also in in in personal human relations as well  
+**[4841.28s] English:** You're missing most of what's going on in politics, as well as in personal human relations.  
 **Translation:** 
 
-**[4849.24s] English:** but it just doesn't look like a description of human beings it looks like a completely  
+**[4849.24s] English:** But it just doesn't look like a description of human beings; it looks like a completely  
 **Translation:** 
 
-**[4854.38s] English:** artificial thing and then conservatives say well look it went through adoption  
+**[4854.38s] English:** Artificial thing, and then conservatives say, "Well, look; it went through adoption.  
 **Translation:** 
 
-**[4857.78s] English:** this artificial thing then the consequences are horrific because you're not describing reality  
-**Translation:** Vocabulary: horrific: 恐怖的
+**[4857.78s] English:** This artificial thing, then the consequences are horrific because you're not describing reality.  
+**Translation:** Vocabulary: adoption: 收养; horrific: 恐怖的
 
-**[4861.88s] English:** so a conservative reality uh begins with um with an empirical view of what you know  
+**[4861.88s] English:** So, a conservative reality begins with an empirical view of what you know.  
 **Translation:** 
 
-**[4869.74s] English:** what are human beings like and and the the first thing you notice about human beings or at least  
+**[4869.74s] English:** What are human beings like, and the first thing you notice about human beings, or at least...  
+**Translation:** Vocabulary: empirical: 经验的
+
+**[4874.46s] English:** The first thing I think conservatives notice is that they're sticky; they clump, and they turn.  
 **Translation:** 
 
-**[4874.46s] English:** the first thing i think conservatives notice is that they're sticky is that they clump they turn  
-**Translation:** 
-
-**[4879.88s] English:** into groups and you take any arbitrary collection of human beings and set them to a task or even  
+**[4879.88s] English:** Into groups, and you take any arbitrary collection of human beings and set them to a task, or even  
 **Translation:** Vocabulary: arbitrary: 随意; clump: 聚集
 
-**[4886.74s] English:** just leave them alone  
+**[4886.74s] English:** Just leave them alone.  
 **Translation:** 
 
-**[4887.78s] English:** alone, and they quickly form into groups, and those groups are always structured as hierarchies.  
+**[4887.78s] English:** Alone, and they quickly form into groups, and those groups are always structured as hierarchies.  
 **Translation:** Vocabulary: hierarchies: 等级结构
 
-**[4894.80s] English:** There's this competition within the hierarchy, who's going to be the leader, who's going to be  
+**[4894.80s] English:** There's this competition within the hierarchy: who's going to be the leader, who's going to be  
 **Translation:** 
 
-**[4898.18s] English:** number two, but everywhere you look in human societies, universally, there are groups,  
+**[4898.18s] English:** Number two, but everywhere you look in human societies, universally, there are groups,  
 **Translation:** Vocabulary: hierarchy: 等级制度; universally: 普遍地
 
-**[4906.44s] English:** the groups compete, and they're structured internally as hierarchies, and then there  
+**[4906.44s] English:** The groups compete, and they're structured internally as hierarchies, and then there,...  
 **Translation:** 
 
-**[4910.78s] English:** are internal competitions for who leads the different groups. And when we think about  
+**[4910.78s] English:** Are there internal competitions for who leads the different groups? And when we think about  
 **Translation:** Vocabulary: internally: 内部地
 
-**[4916.24s] English:** scientific explanation, we allow that there are different  
+**[4916.24s] English:** Scientific explanation, we allow that there are different  
 **Translation:** 
 
-**[4920.00s] English:** levels of explanation that you know a macroscopic object like a table it doesn't have properties  
+**[4920.00s] English:** Levels of explanation: You know, a macroscopic object like a table doesn't have properties at the fundamental level.  
 **Translation:** 
 
-**[4925.88s] English:** that are that you know that can be directly derived from the properties of you know the atoms  
+**[4925.88s] English:** That is, you know, that can be directly derived from the properties of the atoms.  
 **Translation:** 
 
-**[4930.46s] English:** or the molecules or the the microfibers that make up the table and and and that's understood that  
+**[4930.46s] English:** Or, the molecules or the microfibers that make up the table—and that's understood.  
 **Translation:** 
 
-**[4936.68s] English:** there's what you know academic philosophers call emergent properties that when you get up to the  
+**[4936.68s] English:** There's what you know as academic philosophers call emergent properties—that is, when you get up to the  
 **Translation:** 
 
-**[4942.02s] English:** level of the table it has properties like you know that you can't put your fist through it  
-**Translation:** Vocabulary: emergent: 涌现的
+**[4942.02s] English:** Level of the table, it has properties like you know, that you can't put your fist through it.  
+**Translation:** Vocabulary: emergent: 涌现的; philosophers: 哲学家
 
-**[4946.16s] English:** which you can't necessarily know just by looking at the atoms alone and i think conservatives say  
+**[4946.16s] English:** Which you can't necessarily know just by looking at the atoms alone, and I think conservatives say,  
 **Translation:** 
 
-**[4952.38s] English:** the same thing is true for political theory for social theory that looking at an individual human  
+**[4952.38s] English:** The same thing is true for political theory, social theory: looking at an individual human...  
 **Translation:** 
 
-**[4958.70s] English:** being and thinking about what does that individual human being need which you're on does very  
+**[4958.70s] English:** Being and thinking about what that individual human being needs, which you're often on about.  
 **Translation:** 
 
-**[4963.70s] English:** eloquently and is in his writings but that doesn't tell you what the characteristics are of this  
-**Translation:** Vocabulary: eloquently: 口才好
+**[4963.70s] English:** Eloquently, and is in his writings, but that doesn't tell you what the characteristics are of this.  
+**Translation:** Vocabulary: eloquently: 流利地
 
-**[4970.36s] English:** hierarchically structured group as soon as you have that it has its own quality  
+**[4970.36s] English:** Hierarchically structured groups, as soon as you have that, it has its own quality.  
 **Translation:** 
 
-**[4976.14s] English:** so an example the question of what holds these groups together and and we need to answer that  
-**Translation:** Vocabulary: hierarchically: 等级制度地
+**[4976.14s] English:** So, an example: the question of what holds these groups together, and we need to answer that.  
+**Translation:** Vocabulary: hierarchically: 按等级结构
 
-**[4981.78s] English:** question uh i i try to answer it by by saying there's such a thing as mutual loyalty mutual  
+**[4981.78s] English:** Question, uh, I try to answer it by saying there's such a thing as mutual loyalty.  
 **Translation:** 
 
-**[4987.32s] English:** loyalty is shorthand for human beings individuals have the capacity to include another individual  
+**[4987.32s] English:** Loyalty is shorthand for how human beings have the capacity to include another individual.  
 **Translation:** Vocabulary: shorthand: 简写
 
-**[4994.88s] English:** within their self within within their conception of their self when two people do it it it creates a  
+**[4994.88s] English:** Within their self-conception, when two people do it, it creates a  
 **Translation:** 
 
-**[5002.44s] English:** a bond like a like a bond between two two atoms  
-**Translation:** Vocabulary: conception: 观念
-
-**[5006.14s] English:** creates a molecule that doesn't mean that they lose their individuality they within the group  
+**[5002.44s] English:** A bond, like a bond between two atoms.  
 **Translation:** 
 
-**[5011.04s] English:** they they may still continue competing with one another but that doesn't mean that there isn't  
-**Translation:** Vocabulary: individuality: 个体性
-
-**[5015.36s] English:** in reality a bond and that real bond is is the stuff of which uh political events and political  
+**[5006.14s] English:** Creates a molecule, that doesn't mean that they lose their individuality; they remain within the group.  
 **Translation:** 
 
-**[5023.02s] English:** history are made is that the coming together the cohesion and the dissolution of of of these bonded  
-**Translation:** Vocabulary: cohesion: 凝聚力; dissolution: 瓦解
+**[5011.04s] English:** They may still continue competing with one another, but that doesn't mean that there isn't  
+**Translation:** Vocabulary: individuality: 个体性; molecule: 分子
 
-**[5030.26s] English:** loyalty groups that's the reality of of politics and so when i  
+**[5015.36s] English:** In reality, a bond and that real bond is the stuff of which political events and political  
 **Translation:** 
 
-**[5036.14s] English:** hear these discussions about individuals in the state i feel  
+**[5023.02s] English:** History is made through the coming together, the cohesion, and the eventual dissolution of these bonds.  
 **Translation:** 
 
-**[5040.00s] English:** I feel like we're missing most of the reality. And in order to understand the political reality, we need to understand what makes human beings coherent to groups, what makes them dissolve, what makes the groups come apart and end up creating civil wars and that kind of thing.  
+**[5030.26s] English:** Loyalty groups—that's the reality of politics, and so when I  
 **Translation:** 
 
-**[5056.20s] English:** I think we also need to know what in practice rival groups do come together and and bond. I mean, basically, when we think about democratic society, we're talking about different different groups.  
-**Translation:** Vocabulary: coherent: 条理清晰
-
-**[5073.46s] English:** We can call them tribes or you can come up with a different name, but different different tribal groupings with different views. They come together to form a nation and they're able to do that, even though, you know, often they hate each.  
+**[5036.14s] English:** I hear these discussions about individuals in the state, and I feel  
 **Translation:** 
 
-**[5086.18s] English:** Other, you know, like like we were talking about the American Revolution and often they hate each other. And nevertheless, they're able to come together. Why? How? And that leads us into questions like how does honor the giving of honor by one group to another?  
-**Translation:** Vocabulary: groupings: 族群分群; tribal: 部落的
+**[5040.00s] English:** I feel like we're missing most of the reality. And in order to understand the political reality, we need to understand what makes human beings cohere to groups, what makes them disintegrate, what makes the groups break apart and end up creating civil wars and that kind of thing.  
+**Translation:** 
 
-**[5101.74s] English:** How does that increase the the mutual loyalty between groups that that are still competing with one another? All of these questions, I think we have to answer them in order to be able to talk about politics.  
+**[5056.20s] English:** I think we also need to know what, in practice, rival groups do come together and bond. I mean, basically, when we think about a democratic society, we're talking about different groups.  
+**Translation:** Vocabulary: cohere: 凝聚; disintegrate: 瓦解
+
+**[5073.46s] English:** We can call them tribes, or you can come up with a different name, but different tribal groupings with different views come together to form a nation, and they're able to do that, even though, you know, often they hate each other.  
+**Translation:** 
+
+**[5086.18s] English:** Other, you know, like when we were talking about the American Revolution, and often they hated each other. And nevertheless, they're able to come together. Why? How? And that leads us into questions like: how do you honor the giving of honor by one group to another?  
+**Translation:** Vocabulary: groupings: 群体划分; tribal: 部落的; tribes: 部落
+
+**[5101.74s] English:** How does that increase mutual loyalty between groups that are still competing with one another? All of these questions, I think, we have to answer them in order to be able to talk about politics.  
 **Translation:** 
 
 **[5115.68s] English:** Yeah.  
 **Translation:** 
 
-**[5116.18s] English:** And and and I think the reason the first reason why why why one should approach politics as a conservative rather than as an individualist is because it gives us these these theoretical tools to be able to talk about reality, which we don't have as long as we keep within the individualist frame.  
+**[5116.18s] English:** And, and, and I think the reason, the first reason why one should approach politics as a conservative rather than as an individualist is because it gives us these theoretical tools to be able to talk about reality, which we don't have as long as we keep within the individualist frame.  
 **Translation:** 
 
-**[5133.96s] English:** As you're talking, the metaphor that's popping up in my mind, and this is also something that bothers me with theoretical physics, the metaphor is there's some sense in which.  
+**[5133.96s] English:** As you're talking, the metaphor that's popping up in my mind, and this is also something that bothers me with theoretical physics: the metaphor is that there's some sense in which.  
 **Translation:** Vocabulary: individualist: 个人主义者; metaphor: 比喻
 
-**[5146.18s] English:** There's things called theories of everything. We try to describe the basic laws of physics, how they interact together. And once you do, you have a sense that you understand all of reality in a sense you do. And that to me.  
+**[5146.18s] English:** There are things called theories of everything. We try to describe the basic laws of physics and how they interact together. And once you do, you have a sense that you understand all of reality—in a sense, you do. And that, to me,  
 **Translation:** 
 
 **[5160.00s] English:** That to me is understanding the individual, like how the individual behaves in this world.  
-**Translation:** 
+**Translation:** Vocabulary: behaves: 表现
 
-**[5166.20s] English:** But then you're saying that, hey, you're also forgetting chemistry, biology, how all of that actually comes together, the stickiness, the stickiness of molecules and how they build different systems.  
+**[5166.20s] English:** But then you're saying that: hey, you're also forgetting chemistry, biology, how all of that actually comes together—the stickiness, the stickiness of molecules—and how they build different systems.  
 **Translation:** 
 
 **[5179.52s] English:** And some systems can kill each other.  
@@ -3232,10 +3233,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[5181.52s] English:** Some systems can flourish.  
 **Translation:** 
 
-**[5183.24s] English:** Some can make pancakes and bananas and some can make poison and all those kinds of things.  
-**Translation:** Vocabulary: flourish: 繁荣; pancakes: 煎饼
+**[5183.24s] English:** Some can make pancakes and bananas, and some can make poison and all those kinds of things.  
+**Translation:** Vocabulary: flourish: 繁荣; pancakes: 煎饼; poison: 毒药
 
-**[5188.96s] English:** And we need to be able to, we need to consider the full stack of things that are constructed from the fundamental basics.  
+**[5188.96s] English:** And we need to be able to consider the full stack of things that are constructed from the fundamental basics.  
 **Translation:** 
 
 **[5200.26s] English:** And I guess, Yaron, you're saying that, no, you're just like the theoretical physicist.  
@@ -3244,19 +3245,19 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[5206.92s] English:** It all starts at the bottom.  
 **Translation:** 
 
-**[5209.14s] English:** Like, you need to preserve the fundamentals of reality, which is the individual, like the basic atom of human society.  
-**Translation:** Vocabulary: fundamentals: 基本原理
+**[5209.14s] English:** Like, you need to preserve the fundamentals of reality, which is the individual—the basic atom of human society.  
+**Translation:** Vocabulary: fundamentals: 基础原则
 
-**[5218.96s] English:** Society is the individual to you.  
+**[5218.96s] English:** Society is to you what it is to the individual.  
 **Translation:** 
 
 **[5221.24s] English:** So, yes.  
 **Translation:** 
 
-**[5222.02s] English:** So the basic unit, the basic model unit, the basic ethical unit in society is the individual.  
+**[5222.02s] English:** So, the basic unit, the basic model unit, and the basic ethical unit in society is the individual.  
 **Translation:** 
 
-**[5227.98s] English:** And, yeah, of course we form groups.  
+**[5227.98s] English:** And, yeah, of course, we form groups.  
 **Translation:** 
 
 **[5230.08s] English:** And you can't understand history unless you understand group formation and group motivation.  
@@ -3265,274 +3266,274 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[5235.46s] English:** And I have a view about what kind of groups should be formed.  
 **Translation:** 
 
-**[5240.34s] English:** And politically, from a political perspective, voluntary ones, ones in which we join when we want to join and we can leave when we want to leave.  
+**[5240.34s] English:** And politically, from a political perspective, they are voluntary ones—ones in which we join when we want to join and can leave when we want to leave.  
 **Translation:** 
 
-**[5248.96s] English:** And ones that help us, and clearly groups help us, pursue whatever it is our goal is ultimately.  
-**Translation:** Vocabulary: politically: 政治上; voluntary: 自愿的
-
-**[5258.08s] English:** So in the pursuit of happiness, there are lots of groups that one wants to form, whether it's marriage, whether it's businesses, whether it's sports teams, whether it's lots of, there are lots of different groups one wants to form.  
-**Translation:** 
-
-**[5270.40s] English:** But the question is, what is the standard of well-being?  
-**Translation:** 
-
-**[5274.14s] English:** Is it the standard of well-being some algorithm?  
-**Translation:** 
-
-**[5278.14s] English:** Is it the standard of well-being some algorithm that makes us happy?  
-**Translation:** Vocabulary: algorithm: 计算程序
-
-**[5278.94s] English:** Maximizes the well-being.  
-**Translation:** 
-
-**[5280.00s] English:** a group you know some utilitarian function you know is it uh is it something that's inherent in  
-**Translation:** Vocabulary: maximizes: 最大化; utilitarian: 功利主义的
-
-**[5288.32s] English:** the group that we can measure as goodness and to hell with individuals within as long as we can get  
-**Translation:** 
-
-**[5293.28s] English:** that that the group to function well we don't really care about where the individuals are so  
-**Translation:** 
-
-**[5297.92s] English:** to me the the the goal of creating groups is the well-being of the individual and that's why it  
-**Translation:** 
-
-**[5303.76s] English:** needs to be voluntary and that's why there has to be a way out of of those sometimes it's costly  
-**Translation:** 
-
-**[5308.64s] English:** it's not a cheap out that's why you should really think about what groups you you you and this  
-**Translation:** 
-
-**[5313.12s] English:** you know on an issue that's very controversial maybe we can discuss maybe not this is why  
-**Translation:** 
-
-**[5317.68s] English:** to me immigration is so important right open immigration or free immigration is because that's  
-**Translation:** 
-
-**[5322.56s] English:** another group that i would like people to be able to voluntarily choose both in and out and and i'd  
-**Translation:** Vocabulary: voluntarily: 自愿地
-
-**[5328.00s] English:** like to see people be able to go and join that group that you know that they believe will allow  
-**Translation:** 
-
-**[5333.92s] English:** for the pursuit of happiness but let me say that you know that's a description of an  
-**Translation:** 
-
-**[5338.64s] English:** deal what i'm just saying right i recognize that that's not the reality in which we live  
-**Translation:** 
-
-**[5342.64s] English:** i recognize that that's not the reality in which history history you know recognizing that such as  
-**Translation:** 
-
-**[5349.56s] English:** that the individual exists in a sense philosophically is a massive achievement  
-**Translation:** 
-
-**[5353.34s] English:** right uh you know human beings however they evolved clearly we started out in in a in a  
-**Translation:** Vocabulary: philosophically: 从哲学上
-
-**[5360.14s] English:** tribal context in which the individual didn't matter we followed the leader the competition  
-**Translation:** 
-
-**[5364.82s] English:** was for power power over the group and and and dictates how the group should work uh you know it  
-**Translation:** Vocabulary: dictates: 规定; tribal: 部落的
-
-**[5371.34s] English:** the history of human beings is a history of gaining knowledge and part of the knowledge is  
-**Translation:** 
-
-**[5376.66s] English:** the value of an individual and and you can see that in in in religion you can see that in philosophy  
-**Translation:** 
-
-**[5382.66s] English:** you can see that uh through the evolution and then you know uh we we evolved from tribes into  
-**Translation:** 
-
-**[5388.82s] English:** nations and then empires and conflicts between nations and conflicts in empires and we tried a  
-**Translation:** 
-
-**[5394.76s] English:** lot of that but we didn't we didn't we didn't we didn't we didn't we didn't we didn't we didn't  
-**Translation:** 
-
-**[5394.80s] English:** a lot of different things if you will i don't think we always did on purpose but uh we kind of  
-**Translation:** 
-
-**[5399.10s] English:** different philosophy  
-**Translation:** 
-
-**[5400.00s] English:** philosophies, different sets of ideas drove us towards different collectives, different groupings  
-**Translation:** Vocabulary: groupings: 群体划分; philosophies: 思想体系
-
-**[5405.96s] English:** and different ways in which to structure. And after, I don't know, 3,000 years of kind of  
-**Translation:** 
-
-**[5411.76s] English:** known history, it's history before that, but we don't know much about it, 3,000 years of known  
-**Translation:** 
-
-**[5416.22s] English:** history, you can sit back and evaluate. And I think that's what is done in the Enlightenment.  
-**Translation:** 
-
-**[5422.52s] English:** And you sit back and certainly we can do it today. We can sit back and evaluate what promotes human  
-**Translation:** Vocabulary: enlightenment: 启蒙; evaluate: 评估
-
-**[5427.96s] English:** flourishing and what doesn't. And what do we mean by human flourishing? Who's flourishing?  
-**Translation:** 
-
-**[5433.28s] English:** Well, individual human beings. Now, since I don't believe in a zero-sum world and the world is not  
-**Translation:** Vocabulary: flourishing: 繁荣
-
-**[5438.24s] English:** zero-sum, we can see that. It's empirically possible to show that the world is not a zero-sum  
-**Translation:** 
-
-**[5442.86s] English:** game. My flourishing doesn't come at your expense. So I can show that a system that  
-**Translation:** Vocabulary: empirically: 根据事实
-
-**[5448.60s] English:** promotes my flourishing probably promotes your flourishing as well and promotes the general  
-**Translation:** 
-
-**[5452.32s] English:** welfare in that sense because it promotes individuals flourishing. And we can  
-**Translation:** 
-
-**[5457.72s] English:** look at all these examples of how we evolved and what leads to bloodshed and what doesn't and  
-**Translation:** 
-
-**[5464.48s] English:** what promotes this ability to flourish as an individual, again, an achievement, the idea of  
-**Translation:** Vocabulary: bloodshed: 流血事件; flourish: 繁荣发展
-
-**[5469.46s] English:** individual flourishing. And then we can think about how to create a political system around  
-**Translation:** 
-
-**[5475.04s] English:** that, a political system that recognizes and allows for the formation of groups, but just  
-**Translation:** 
-
-**[5481.60s] English:** under the principle of voluntary. So you can't be forced to join a group. You can't be cursed into  
-**Translation:** 
-
-**[5487.04s] English:** forming a group um other than the fact that you're born in a particular place in a particular you  
+**[5248.96s] English:** And ones that help us, and clearly groups help us, in pursuing whatever it is our goal is ultimately.  
 **Translation:** Vocabulary: voluntary: 自愿的
 
-**[5492.54s] English:** know that in a sense but that's not forced that's there's a difference between metaphysics and  
+**[5258.08s] English:** So, in the pursuit of happiness, there are lots of groups that one wants to form, whether it's marriage, whether it's businesses, whether it's sports teams, or just lots of other kinds of groups.  
 **Translation:** 
 
-**[5497.14s] English:** between choices so this is something that came up in the debate that yaram said that not all human  
+**[5270.40s] English:** But the question is: What is the standard of well-being?  
+**Translation:** Vocabulary: pursuit: 追求
+
+**[5274.14s] English:** Is it the standard of well-being an algorithm?  
+**Translation:** 
+
+**[5278.14s] English:** Is it the standard of well-being that some algorithm makes us happy?  
+**Translation:** Vocabulary: algorithm: 计算程序
+
+**[5278.94s] English:** Maximizes well-being.  
+**Translation:** 
+
+**[5280.00s] English:** A group, you know, has some utilitarian function, I suppose, is it something that's inherent in?  
+**Translation:** Vocabulary: maximizes: 最大化; utilitarian: 功利主义的
+
+**[5288.32s] English:** The group that we can measure as "goodness," and to hell with individuals within, as long as we can get...  
+**Translation:** 
+
+**[5293.28s] English:** That is, for the group to function well, we don't really care about where the individuals are.  
+**Translation:** 
+
+**[5297.92s] English:** To me, the goal of creating groups is the well-being of the individual, and that's why it  
+**Translation:** 
+
+**[5303.76s] English:** Needs to be voluntary, and that's why there has to be a way out. Sometimes it's costly.  
+**Translation:** Vocabulary: costly: 昂贵的
+
+**[5308.64s] English:** It's not a cheap option, that's why you should really think about what groups you want to support.  
+**Translation:** 
+
+**[5313.12s] English:** You know, on an issue that's very controversial, maybe we can discuss it — maybe not. This is why.  
+**Translation:** 
+
+**[5317.68s] English:** To me, immigration is so important—right? Open immigration or free immigration is because that's  
+**Translation:** 
+
+**[5322.56s] English:** Another group that I would like people to be able to voluntarily choose, both in and out, and I'd  
+**Translation:** Vocabulary: voluntarily: 自愿地
+
+**[5328.00s] English:** Like to see people be able to go and join that group that you know will allow  
+**Translation:** 
+
+**[5333.92s] English:** For the pursuit of happiness, but let me say that you know, that's a description of an  
+**Translation:** 
+
+**[5338.64s] English:** Deal with what I'm just saying, right? I recognize that's not the reality in which we live.  
+**Translation:** 
+
+**[5342.64s] English:** I recognize that that's not the reality in which history recognizes itself, you know, recognizing that such as.  
+**Translation:** 
+
+**[5349.56s] English:** That the individual exists, in a sense, philosophically, is a massive achievement.  
+**Translation:** 
+
+**[5353.34s] English:** Right, uh, you know, human beings, however they evolved, clearly we started out in an in an  
+**Translation:** Vocabulary: evolved: 进化; philosophically: 从哲学角度看
+
+**[5360.14s] English:** Tribal context, in which the individual didn't matter; we followed the leader, the competition.  
+**Translation:** 
+
+**[5364.82s] English:** It was about power over the group, and it dictates how the group should work, you know.  
+**Translation:** Vocabulary: dictates: 规定; tribal: 部落的
+
+**[5371.34s] English:** The history of human beings is a history of gaining knowledge, and part of that knowledge is  
+**Translation:** 
+
+**[5376.66s] English:** The value of an individual, and you can see that in religion, and you can see that in philosophy.  
+**Translation:** 
+
+**[5382.66s] English:** You can see that, through the evolution, and then we evolved from tribes into  
+**Translation:** 
+
+**[5388.82s] English:** Nations, and then empires, and conflicts between nations and conflicts within empires, and we tried a  
+**Translation:** Vocabulary: empires: 帝国; tribes: 部落
+
+**[5394.76s] English:** We didn't do a lot of that.  
+**Translation:** 
+
+**[5394.80s] English:** A lot of different things, if you will. I don't think we always did it on purpose, but uh, we kind of...  
+**Translation:** 
+
+**[5399.10s] English:** Different philosophy.  
+**Translation:** 
+
+**[5400.00s] English:** Philosophies, different sets of ideas, drove us toward different collectives and groupings.  
+**Translation:** Vocabulary: groupings: 群体; philosophies: 哲学
+
+**[5405.96s] English:** And there are different ways in which to structure. And after, I don't know, 3,000 years of kind of  
+**Translation:** 
+
+**[5411.76s] English:** Known history is from a certain point in time, but there's history before that, which we don't know much about. It spans 3,000 years of known history.  
+**Translation:** 
+
+**[5416.22s] English:** History, you can sit back and evaluate. And I think that's what is done during the Enlightenment.  
+**Translation:** 
+
+**[5422.52s] English:** And you sit back, and certainly we can do it today. We can sit back and evaluate what promotes human  
+**Translation:** Vocabulary: enlightenment: 启蒙; evaluate: 评估
+
+**[5427.96s] English:** Flourishing, and what doesn't. And what do we mean by human flourishing? Who's flourishing?  
+**Translation:** 
+
+**[5433.28s] English:** Well, individual human beings. Now, since I don't believe in a zero-sum world, and the world is not  
+**Translation:** Vocabulary: flourishing: 繁荣
+
+**[5438.24s] English:** Zero-sum, we can see that. It's empirically possible to show that the world is not a zero-sum game.  
+**Translation:** 
+
+**[5442.86s] English:** Game: My flourishing doesn't come at your expense. So I can show that a system that  
+**Translation:** Vocabulary: empirically: 根据经验
+
+**[5448.60s] English:** Promotes my flourishing, probably promotes your flourishing as well, and promotes the general.  
+**Translation:** 
+
+**[5452.32s] English:** Welfare, in that sense, because it promotes individual flourishing. And we can  
+**Translation:** 
+
+**[5457.72s] English:** Look at all these examples of how we evolved, and what leads to bloodshed and what doesn't.  
+**Translation:** 
+
+**[5464.48s] English:** What promotes this ability to flourish as an individual — again, an achievement — the idea of  
+**Translation:** Vocabulary: bloodshed: 流血事件; evolved: 进化; flourish: 繁荣
+
+**[5469.46s] English:** Individual flourishing. And then, we can think about how to create a political system around it.  
+**Translation:** 
+
+**[5475.04s] English:** That, a political system that recognizes and allows for the formation of groups, but just  
+**Translation:** 
+
+**[5481.60s] English:** Under the principle of voluntariness, so you can't be forced to join a group. You can't be coerced into it either.  
+**Translation:** 
+
+**[5487.04s] English:** Forming a group, um, other than the fact that you're born in a particular place or in a particular country.  
+**Translation:** Vocabulary: coerced: 被迫; voluntariness: 自愿原则
+
+**[5492.54s] English:** Know that, in a sense, but that's not forced; there's a difference between metaphysics and...  
+**Translation:** 
+
+**[5497.14s] English:** Between choices, so this is something that came up in the debate: Yaram said that not all humans  
 **Translation:** Vocabulary: metaphysics: 本体论
 
-**[5502.02s] English:** relations are voluntary and you kind of emphasize that a lot of where we are is not voluntary we're  
+**[5502.02s] English:** Relations are voluntary, and you kind of emphasize that a lot. Of where we are, though, a lot of it isn't voluntary. We're  
 **Translation:** 
 
-**[5508.48s] English:** grounded we're connected in so much so how how can a human be free in the way you're describing  
+**[5508.48s] English:** Grounded, we're connected in so much. So, how can a human be free in the way you're describing?  
+**Translation:** Vocabulary: emphasize: 强调; voluntary: 自愿的
+
+**[5516.24s] English:** Individuals be free if some part  
 **Translation:** 
 
-**[5516.24s] English:** individual be free if uh some part  
+**[5520.00s] English:** Of who we are is not voluntary; some part of who we are is because of other people. Well, what do we  
 **Translation:** 
 
-**[5520.00s] English:** of who we are is not voluntary some part of who we are is other people well because what do we  
+**[5525.56s] English:** Mean by freedom, freedom doesn't mean and the negation of the laws of physics, right?  
 **Translation:** 
 
-**[5525.56s] English:** mean by freedom freedom doesn't mean and the negation of the laws of physics right freedom  
+**[5530.92s] English:** Doesn't mean, however, ignoring. Freedom means the ability within the scope of what's available.  
+**Translation:** Vocabulary: negation: 否认同义
+
+**[5538.46s] English:** For you to choose, being able to choose those things, um, so in a political context.  
 **Translation:** 
 
-**[5530.92s] English:** doesn't mean uh ignoring um uh freedom means the the ability within the scope of what's available  
-**Translation:** Vocabulary: negation: 否定
+**[5545.14s] English:** Freedom means, uh, you know, the negation of the absence of coercion. So once you're an adult,...  
+**Translation:** Vocabulary: coercion: 强制
 
-**[5538.46s] English:** for you to choose being able to choose those things um so in in in in a political context  
+**[5551.60s] English:** Uh, you know, your arm says you're born into a particular religious context.  
 **Translation:** 
 
-**[5545.14s] English:** freedom means uh uh you know the negate the the absence of coercion uh so once you're an adult  
-**Translation:** Vocabulary: coercion: 强制; negate: 否定
+**[5556.26s] English:** Absolutely, but once you're an adult, I think it's incumbent upon you to evaluate that religious perspective.  
+**Translation:** Vocabulary: incumbent: 有责任
 
-**[5551.60s] English:** uh you know your arm says you're born with a particular into a particular religious context  
+**[5559.86s] English:** Context and, and look at different religions, or non-religions, or whatever.  
 **Translation:** 
 
-**[5556.26s] English:** absolutely but once you're an adult i think it's incumbent on you to evaluate that religious  
-**Translation:** Vocabulary: evaluate: 评估; incumbent: 有责任
-
-**[5559.86s] English:** context and and and and look at different religions or non-religion or whatever and  
+**[5565.02s] English:** Choose your philosophy of life, choose your values, and choose how you want to live your life.  
 **Translation:** 
 
-**[5565.02s] English:** choose your philosophy of life choose your values choose how you want to live your life  
+**[5569.82s] English:** That's the freedom. The freedom is one system says.  
 **Translation:** 
 
-**[5569.82s] English:** that's the freedom the freedom is one one system says  
+**[5575.14s] English:** You're either cursed by the state, or cursed by the group, or cursed by society around you.  
 **Translation:** 
 
-**[5575.14s] English:** you're either cursed by the state or cursed by the group or cursed by society around you to  
+**[5580.62s] English:** Follow a particular path, or your expectations, demands, and pressures are.  
 **Translation:** 
 
-**[5580.62s] English:** follow a particular path or your your um the expectation is the demand is the the pressure is  
+**[5588.26s] English:** To conform to a particular path, and my view is: no, you should be in a position to be able to.  
+**Translation:** Vocabulary: conform: 遵从
+
+**[5594.00s] English:** Choose your path, and that choice means you look around, evaluate, and evaluate again.  
 **Translation:** 
 
-**[5588.26s] English:** to conform to a particular path and my view is no you you should be in a position to be able to  
-**Translation:** Vocabulary: expectation: 期望
+**[5600.66s] English:** Based on history, based on knowledge, based on all of these things, and you choose what that.  
+**Translation:** Vocabulary: evaluate: 评估
 
-**[5594.00s] English:** choose your path and and that choice means you look around you you you you evaluate you evaluate  
+**[5605.14s] English:** Path would be that's fundamentally what freedom means, yes; you cannot choose your parents.  
 **Translation:** 
 
-**[5600.66s] English:** based on history based on knowledge based on on all of these things and you choose what that  
-**Translation:** 
-
-**[5605.14s] English:** path would be that's fundamentally what what freedom means yes you cannot choose your parents  
-**Translation:** 
-
-**[5610.32s] English:** but of course not nobody would claim that that's within the scope of what is possible i i think that  
+**[5610.32s] English:** But, of course, not; nobody would claim that it's within the scope of what is possible. I think that  
 **Translation:** Vocabulary: cannot: 不能; fundamentally: 本质上
 
-**[5615.58s] English:** i think the coercion freedom dichotomy these are too few concepts coercion and freedom it's too  
+**[5615.58s] English:** I think the coercion-freedom dichotomy; these are too few concepts: coercion and freedom, it's too  
 **Translation:** 
 
-**[5623.98s] English:** simplistic to be able to describe what we're actually dealing with the traditional anglo-conservative  
-**Translation:** Vocabulary: dichotomy: 二分法; simplistic: 简单化
+**[5623.98s] English:** Simplistic to be able to describe what we're actually dealing with—the traditional Anglo-conservative.  
+**Translation:** Vocabulary: dichotomy: 对立二分; simplistic: 简单化
 
-**[5630.08s] English:** view is that society has to be  
+**[5630.08s] English:** The view is that society has to be  
 **Translation:** 
 
-**[5635.14s] English:** it has to be ordered it has to be disciplined and there are  
+**[5635.14s] English:** It has to be ordered, it has to be disciplined, and there are  
 **Translation:** Vocabulary: disciplined: 有纪律的
 
-**[5640.00s] English:** two choices for how it can be ordered. One is that a people is, by its own traditions,  
+**[5640.00s] English:** Two choices exist for how it can be ordered. One is that a people is, by its own traditions,  
 **Translation:** 
 
-**[5648.84s] English:** you would say voluntarily, but these are mostly inherited traditions. By its own traditions,  
+**[5648.84s] English:** You would say voluntarily, but these are mostly inherited traditions. By its own traditions,  
 **Translation:** Vocabulary: inherited: 遗传的; voluntarily: 自愿地
 
-**[5653.94s] English:** it is ordered. For example, people just in general will not go into somebody else's yard  
+**[5653.94s] English:** It is ordered. For example, people, in general, will not go into somebody else's yard.  
 **Translation:** 
 
-**[5661.98s] English:** because that's the custom here is we don't go into somebody else's yard without their permission.  
+**[5661.98s] English:** Because that's the custom here: we don't go into somebody else's yard without their permission.  
 **Translation:** 
 
-**[5666.72s] English:** And so Fortescue, we're talking about 500 years ago already. So Fortescue says that the genius of  
+**[5666.72s] English:** And so, Fortescue—we're talking about 500 years ago already. So, Fortescue says that the genius of  
 **Translation:** 
 
-**[5674.16s] English:** the English people is that our government can be mild and apply very little coercion because the  
+**[5674.16s] English:** The English people are those for whom a mild government can be applied, using very little coercion, because the  
 **Translation:** Vocabulary: coercion: 强制; fortescue: 福特斯克
 
-**[5680.88s] English:** people are so disciplined. Now, when he says the people are so disciplined, what he's saying is  
+**[5680.88s] English:** People are so disciplined. Now, when he says "the people are so disciplined," what he's saying is  
 **Translation:** 
 
-**[5685.38s] English:** that our nation, our tribes, we have strong traditions which channel people through tools  
+**[5685.38s] English:** That our nation, our tribes, have strong traditions which channel people through tools.  
+**Translation:** Vocabulary: tribes: 部落
+
+**[5696.70s] English:** Of being honored and dishonored. Now, that's a reality that exists in every society, and it's  
 **Translation:** 
 
-**[5696.70s] English:** of being honored and dishonored. Now, that's a reality that exists in every society, and it's  
+**[5703.58s] English:** Not captured by your distinction between coercion and lack of coercion. When I'm going to be  
+**Translation:** Vocabulary: dishonored: 受羞辱
+
+**[5709.52s] English:** Dishonored if I don't care for my aging mother, I'm not being coerced—like the state comes and  
 **Translation:** 
 
-**[5703.58s] English:** not captured by your distinction between coercion and lack of coercion. When I'm going to be  
-**Translation:** Vocabulary: dishonored: 受辱
-
-**[5709.52s] English:** dishonored if I don't care for my aging mother, I'm not being coerced like the state comes and  
-**Translation:** 
-
-**[5717.42s] English:** puts a gun to my head, but I am being pressured. I'm being given guidelines.  
-**Translation:** Vocabulary: coerced: 强迫
+**[5717.42s] English:** Puts a gun to my head, but I am being pressured. I'm being given guidelines.  
+**Translation:** Vocabulary: coerced: 强迫; guidelines: 指导原则
 
 **[5722.78s] English:** But I'm saying that's wrong, and I'm saying that's dangerous because,  
 **Translation:** 
 
-**[5726.70s] English:** because that could easily be used for bad traditions.  
+**[5726.70s] English:** Because that could easily be used for bad traditions.  
 **Translation:** 
 
 **[5732.36s] English:** No, of course it is.  
 **Translation:** 
 
-**[5733.12s] English:** But what's the standard by which we evaluate what a good tradition is a bad tradition? It's the  
+**[5733.12s] English:** But, what's the standard by which we evaluate what a good tradition is and what a bad tradition is? It's the  
 **Translation:** Vocabulary: evaluate: 评估
 
 **[5737.78s] English:** English.  
@@ -3541,112 +3542,112 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[5738.38s] English:** You're getting to the standard too fast. Wait, wait. You're getting to the standard too fast.  
 **Translation:** 
 
-**[5742.20s] English:** First, I want to know factually, is it true that all societies work like this? Because if it's true  
+**[5742.20s] English:** First, I want to know factually: Is it true that all societies work like this? Because if it's true,...  
 **Translation:** 
 
-**[5747.62s] English:** that all societies work like this, then saying we should be free from it is just a fantasy.  
+**[5747.62s] English:** That all societies work like this, then saying we should be free from it is just a fantasy.  
 **Translation:** 
 
-**[5751.94s] English:** So A, I don't think all societies work like this. I think much of what happened in America  
+**[5751.94s] English:** So, A, I don't think all societies work like this. I think much of what happened in America  
 **Translation:** 
 
-**[5756.48s] English:** was a fantasy.  
+**[5756.48s] English:** It was a fantasy.  
 **Translation:** 
 
-**[5756.70s] English:** Post-founding in the 19th century didn't work like that. I think that's the  
+**[5756.70s] English:** Post-founding in the 19th century didn't work like that. I think that's the way it was.  
 **Translation:** 
 
-**[5760.00s] English:** genius of america and i think what happened during the 19th century in the industrial revolution  
+**[5760.00s] English:** The genius of America, and I think what happened during the 19th century in the Industrial Revolution.  
 **Translation:** 
 
-**[5764.20s] English:** what happened in in in the 19th century to some extent globally but certainly in the united states  
+**[5764.20s] English:** What happened in the 19th century, to some extent globally, but certainly in the United States?  
 **Translation:** 
 
-**[5769.56s] English:** didn't work that way it broke tradition i think i think all innovation breaks tradition and i think  
-**Translation:** Vocabulary: globally: 全世界
+**[5769.56s] English:** Didn't work that way; it broke tradition. I think, I think all innovation breaks tradition, and I think...  
+**Translation:** Vocabulary: globally: 全世界地
 
-**[5774.68s] English:** that's what the genius of of this country is and and and the post-enlightenment uh world is uh i  
+**[5774.68s] English:** That's what the genius of this country is, and the post-Enlightenment world is, too.  
 **Translation:** 
 
-**[5781.52s] English:** think pre that tradition they work that way and then the question is that people understand why  
+**[5781.52s] English:** Think beforehand that traditions work that way, and then the question is whether people understand why.  
+**Translation:** Vocabulary: beforehand: 事先
+
+**[5786.76s] English:** They do what they do, that is; I don't want people doing what I think is right just because I think  
 **Translation:** 
 
-**[5786.76s] English:** they do what they do that is i don't want people doing what i think is right just because i think  
+**[5794.50s] English:** It's right, and I've known that and I've created a society in which, yeah, okay, you too.  
 **Translation:** 
 
-**[5794.50s] English:** it's right and i've i you know and i've created a society in which yeah yeah yeah okay you you  
+**[5800.82s] English:** Know somebody founded this country in a particular way, so we're just going to follow it. I want people to.  
 **Translation:** 
 
-**[5800.82s] English:** know somebody founded this country in a particular way so we're just going to follow i want people to  
+**[5804.22s] English:** Understand what they're doing, so I want people to have a respect for property—not because it's a  
 **Translation:** 
 
-**[5804.22s] English:** understand what they're doing so i want people to have a respect for property not because it's a  
+**[5808.06s] English:** Tradition, but because they understand the value of respect for property, um, I want people not  
 **Translation:** 
 
-**[5808.06s] English:** tradition but because they understand the value of a respect for property um i i want people not  
-**Translation:** 
-
-**[5813.86s] English:** to murder one another not because there's a commandment  
+**[5813.86s] English:** To murder one another, not because there's a commandment.  
 **Translation:** Vocabulary: commandment: 诫命
 
-**[5816.76s] English:** but because they have an understanding of why murdering is bad and wrong and and bad for them  
+**[5816.76s] English:** But because they have an understanding that murder is bad, wrong, and harmful to them.  
 **Translation:** 
 
-**[5823.70s] English:** and bad for the kind of world that they want to live in that's and i think that's what we achieve  
+**[5823.70s] English:** And it's bad for the kind of world that they want to live in, and I think that's what we achieve.  
 **Translation:** 
 
-**[5828.50s] English:** through enlightenment through education through through and where we don't treat people just as a  
+**[5828.50s] English:** Through enlightenment, through education, and wherever we don't treat people just as a  
 **Translation:** 
 
-**[5834.92s] English:** blob tribe that just follows orders but we now treat individuals as capable of thinking for  
+**[5834.92s] English:** Blob Tribe that just follows orders, but we now treat individuals as capable of thinking for themselves.  
 **Translation:** Vocabulary: enlightenment: 觉悟
 
-**[5841.48s] English:** themselves capable for discovering truth capable of of of figuring out their own  
+**[5841.48s] English:** They are capable of discovering truth and figuring it out on their own.  
 **Translation:** 
 
-**[5846.62s] English:** values and their own values and their own values and their own values and their own values and  
+**[5846.62s] English:** Values, and their own values, and their own values, and their own values, and their own values, and  
 **Translation:** 
 
-**[5846.74s] English:** values and and that's the big break between and this is why you know this is the break i think  
+**[5846.74s] English:** Values, and that's the big break. That's why, you know, this is the break I think.  
 **Translation:** 
 
-**[5853.04s] English:** that the declaration represents the break between society that is based on tradition following  
+**[5853.04s] English:** That the declaration represents the break between a society based on tradition and following modern changes.  
 **Translation:** 
 
-**[5858.14s] English:** commandments following rules because they are the rules because they are the commandments and a  
+**[5858.14s] English:** Commands, following rules because they are the rules, because they are the commandments, and a  
 **Translation:** 
 
-**[5862.76s] English:** society where individuals understand those rules understand yes it's now become a tradition let's  
-**Translation:** Vocabulary: commandments: 戒律规定
+**[5862.76s] English:** Society, where individuals understand those rules, understand that it's now become a tradition; let's  
+**Translation:** Vocabulary: commandments: 戒律
 
-**[5868.96s] English:** say to respect individual right to respect property rights but it's they're not following  
+**[5868.96s] English:** Say that respecting individual rights to property is important, but they're not following through.  
 **Translation:** 
 
-**[5873.38s] English:** it because it's a tradition they're following it because they understand what it is about it  
+**[5873.38s] English:** It's because it's a tradition; they're following it because they understand what it's all about.  
+**Translation:** Vocabulary: respecting: 尊重
+
+**[5877.82s] English:** That, that, that makes it good.  
 **Translation:** 
 
-**[5877.82s] English:** that that that makes it good  
-**Translation:** 
-
-**[5880.00s] English:** So that's the world I think that we were on the process of evolving towards, and that is what got destroyed in the 20th century and has certainly disappeared today.  
+**[5880.00s] English:** So, that's the world I think we were on the process of evolving toward, and that is what got destroyed in the 20th century and has certainly disappeared today.  
 **Translation:** Vocabulary: evolving: 进化
 
-**[5890.76s] English:** And I think that's a great tragedy is that we're evolving to a place where people understood the values that represent.  
+**[5890.76s] English:** And I think that's a great tragedy, because we're evolving to a place where people no longer understand the values that represent.  
 **Translation:** 
 
-**[5898.14s] English:** And, of course, the danger with tradition is, I mean, we'll agree, right?  
+**[5898.14s] English:** And, of course, the danger with tradition is; I mean, we'll agree, right?  
 **Translation:** 
 
 **[5903.44s] English:** Yeah, it's okay to kill the Jew, right?  
 **Translation:** 
 
-**[5905.50s] English:** Or it's okay to steal people's property if they are of a certain color, or it's okay to enslave.  
+**[5905.50s] English:** It's okay to steal people's property if they are of a certain color, or it's okay to enslave them.  
 **Translation:** Vocabulary: enslave: 奴役
 
 **[5910.40s] English:** Those are all traditions.  
 **Translation:** 
 
-**[5911.98s] English:** And yet, once you stop and say, but what are they based on?  
+**[5911.98s] English:** And yet, once you stop and ask, "But what are they based on?  
 **Translation:** 
 
 **[5915.90s] English:** Is this right?  
@@ -3665,33 +3666,33 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[5925.96s] English:** You're talking about reason and tradition, but I think I would love to sort of linger on the stickiness of humans that you described.  
+**Translation:** Vocabulary: linger: 停留; stickiness: 黏性
+
+**[5934.32s] English:** So, you kind of said.  
 **Translation:** 
 
-**[5934.32s] English:** So you kind of said.  
+**[5935.50s] English:** This primary inventor is primarily known as a great inventor.  
+**Translation:** Vocabulary: inventor: 发明家
+
+**[5939.66s] English:** But to me, it's not at all obvious that the invention of the stickiness of community, of family, of love—that's not obvious to me.  
 **Translation:** 
 
-**[5935.50s] English:** This primary of the individuals is primarily known as a great invention.  
+**[5961.68s] English:** That is not fundamental to human flourishing.  
 **Translation:** 
-
-**[5939.66s] English:** But to me, it's not at all obvious that somehow that the invention that humans have been practicing for a very long time of the stickiness of community, of family, of love, that's not obvious to me.  
-**Translation:** 
-
-**[5961.68s] English:** That's not also fundamental to human flourishing.  
-**Translation:** Vocabulary: flourishing: 繁荣; stickiness: 黏性
 
 **[5966.02s] English:** It should be celebrated and protected.  
 **Translation:** 
 
-**[5969.74s] English:** Of course it is.  
+**[5969.74s] English:** Of course, it is.  
 **Translation:** 
 
-**[5970.28s] English:** Now, I suppose the argument you're making is when you start to let the state define what the stickiness, how the stickiness looks between humans.  
+**[5970.28s] English:** Now, I suppose the argument you're making is that when you start to let the state define what "stickiness" looks like between humans.  
 **Translation:** 
 
-**[5981.76s] English:** So you're really like the voluntary aspect.  
+**[5981.76s] English:** So, you're really into the voluntary aspect.  
 **Translation:** Vocabulary: voluntary: 自愿的
 
-**[5983.94s] English:** But I just want to sort of the observation is humans seem to be pretty happy when they form communities.  
+**[5983.94s] English:** But I just want to make the observation that humans seem to be pretty happy when they form communities.  
 **Translation:** 
 
 **[5994.66s] English:** However.  
@@ -3700,604 +3701,604 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[5995.50s] English:** You define that.  
 **Translation:** 
 
-**[5996.64s] English:** So romantic partnership, family communities, some.  
+**[5996.64s] English:** So, romantic partnerships, family, and communities.  
+**Translation:** Vocabulary: partnerships: 合作关系
+
+**[6000.00s] English:** Communities: People are miserable in some communities, so the nature of the community matters.  
 **Translation:** 
 
-**[6000.00s] English:** communities people are people are miserable in other communities so the nature of the community  
+**[6003.92s] English:** Matters right? We know this: some bonds are not healthy and not good for.  
 **Translation:** 
 
-**[6003.92s] English:** matters right we we know this we know that that some bondings are not healthy and not good for  
-**Translation:** Vocabulary: bondings: 人际关系
-
-**[6009.46s] English:** the individuals involved and they and they don't thrive um so i i absolutely i mean i'm a lover  
+**[6009.46s] English:** The individuals involved and they don't thrive, um, so I absolutely, I mean, I'm a lover,...  
 **Translation:** 
 
-**[6015.80s] English:** not a fighter right so i'm i'm a huge believer in love the whole philosophy i think is a is a  
+**[6015.80s] English:** Not a fighter, right? So, I'm a huge believer in love. The whole philosophy, I think, is a...  
 **Translation:** Vocabulary: believer: 信仰者; thrive: 繁荣
 
-**[6020.82s] English:** love-based philosophy i fight in order to love right so it's it's love is love is at the core  
+**[6020.82s] English:** Love-based philosophy: I fight in order to love, right? So it's that love is at the core.  
 **Translation:** 
 
-**[6026.32s] English:** of all of this and it's it's it's it's a love of of of life it's a love of of the world out there  
+**[6026.32s] English:** Of all of this, and it's a love of life, it's a love of the world out there.  
 **Translation:** 
 
-**[6032.16s] English:** and it's a love of other people because they represent a value to you so the stickiness is  
+**[6032.16s] English:** And it's a love of other people because they represent a value to you, so the stickiness is  
 **Translation:** 
 
-**[6038.80s] English:** there it's it's you know my point is a it should be chosen it should be consciously chosen and and  
+**[6038.80s] English:** There, it's known that my point is that it should be chosen—and it should be consciously chosen.  
+**Translation:** Vocabulary: consciously: 有意识地; stickiness: 黏性
+
+**[6045.04s] English:** This is: I'm putting aside the state, forgetting it for a minute, forgetting coercion, and forgetting all of that.  
 **Translation:** 
 
-**[6045.04s] English:** this is i'm put aside the state forget the state for a minute forget forget coercion forget all  
-**Translation:** 
-
-**[6049.50s] English:** that what i would encourage individuals to do and this is where you know i'm i'm not primarily  
+**[6049.50s] English:** That's what I would encourage individuals to do, and this is where you know I'm not primarily.  
 **Translation:** Vocabulary: coercion: 强制
 
-**[6056.20s] English:** a person i'm not primarily a person i'm not primarily a person i'm not primarily a person  
+**[6056.20s] English:** A person; I'm not primarily a person. I'm not primarily a person. I'm not primarily a person.  
 **Translation:** 
 
-**[6056.32s] English:** you know interested in politics although i tend to talk most about that i'm primarily  
+**[6056.32s] English:** You know, I'm interested in politics, although I tend to talk most about it because I'm primarily involved in it.  
 **Translation:** 
 
-**[6061.90s] English:** interested in human beings and how they live in in a sense in morality and what i would urge  
+**[6061.90s] English:** Interested in human beings and how they live, in a sense, in terms of morality, and what I would urge:  
 **Translation:** 
 
-**[6066.64s] English:** individuals to do is to think about their relationships to choose the best relationships  
+**[6066.64s] English:** Individuals should think about their relationships and choose the best ones.  
 **Translation:** Vocabulary: morality: 道德
 
-**[6072.46s] English:** possible but to seek out great relationships because other human beings are an immense value  
+**[6072.46s] English:** Possible, but to seek out great relationships because other human beings are an immense value.  
 **Translation:** 
 
-**[6078.46s] English:** to us and and you know when i write you know maybe you're quoted this or not but i write that that you  
-**Translation:** Vocabulary: immense: 巨大
+**[6078.46s] English:** To us, and you know, when I write, you know, maybe you've quoted this or not, but I write that you.  
+**Translation:** Vocabulary: immense: 巨大的; quoted: 引用过
 
-**[6086.20s] English:** know about the trader principle and trading you know it's easy and and and obvious to think of it  
+**[6086.20s] English:** Know about the trader principle and trading; you know, it's easy and obvious to think of it.  
 **Translation:** 
 
-**[6092.32s] English:** as a materialistic kind of thing you know i get you know uh i do the chores this day and my wife  
-**Translation:** Vocabulary: chores: 家务; materialistic: 物质的
+**[6092.32s] English:** As a materialistic kind of thing, you know, I get, you know, uh, I do the chores this day and my wife.  
+**Translation:** Vocabulary: chores: 家务; materialistic: 物质的; trader: 商人
 
-**[6097.52s] English:** does the chores the other day we're trading but trading is much more subtle than that and much  
+**[6097.52s] English:** Does the chores the other day? We're trading, but trading is much more subtle than that, and much  
 **Translation:** 
 
-**[6101.58s] English:** more can be much more spiritual than that it's about the the the the trading in in emotions  
+**[6101.58s] English:** More can be much more spiritual than that; it's about the trading in emotions.  
+**Translation:** Vocabulary: subtle: 微妙
+
+**[6107.94s] English:** It's about the way one sees each other, and what one gets from one another.  
 **Translation:** 
 
-**[6107.94s] English:** it's about it's about the the way one uh sees each other it's what what one gets from one another  
+**[6113.28s] English:** I think friendship is a form of trade, now I  
 **Translation:** 
 
-**[6113.28s] English:** i think friendship is a form of trade now i  
+**[6116.08s] English:** Know  
 **Translation:** 
 
-**[6116.08s] English:** know  
+**[6116.20s] English:** That seems to make it material, but I don't think it is.  
 **Translation:** 
 
-**[6116.20s] English:** that that seems to make it material but i don't i don't think it's  
+**[6120.00s] English:** Trade can be a material thing, but friendship is incredibly important in life; love is incredibly...  
 **Translation:** 
 
-**[6120.00s] English:** trade as a material thing but friendship is incredibly important in life love is incredibly  
+**[6124.88s] English:** Important in life, uh, you know, having a group of friends is incredibly important, all of  
 **Translation:** 
 
-**[6124.88s] English:** important in life uh you know having having a group of friends is incredibly important all of  
+**[6130.46s] English:** These are sticky and important, okay. How can I try to be more eloquent on this? So, if you give people  
 **Translation:** 
 
-**[6130.46s] English:** these are sticky and important okay how can i try to be eloquent on this so if you give people  
-**Translation:** 
-
-**[6136.34s] English:** freedom if you give people politics yeah well not politics relations relations uh relationships so  
+**[6136.34s] English:** Freedom, if you give people relationships, yeah, well, not politics — relations, uh, relationships, so.  
 **Translation:** Vocabulary: eloquent: 口才好
 
-**[6145.14s] English:** this is interesting because we have an interesting dynamic going on here in terms of beliefs  
+**[6145.14s] English:** This is interesting because we have an interesting dynamic going on here in terms of beliefs.  
 **Translation:** 
 
-**[6149.52s] English:** they're differing and so there's interesting overlaps but there's a worry if you look at human  
-**Translation:** Vocabulary: overlaps: 重叠部分
+**[6149.52s] English:** They're differing, and so there are interesting overlaps, but there's a worry if you look at human  
+**Translation:** Vocabulary: differing: 不同的; overlaps: 重叠
 
-**[6156.98s] English:** history and you study the lessons of history and you look at modern society if you give people  
+**[6156.98s] English:** History, and you study the lessons of history; and you look at modern society. If you give people  
 **Translation:** 
 
-**[6162.10s] English:** freedom in terms of stickiness and human relations and so on full like if you not give people freedom  
+**[6162.10s] English:** Freedom, in terms of stickiness and human relations, and so on; full like, if you don't give people freedom.  
 **Translation:** 
 
-**[6168.48s] English:** emphasize freedom as the highest ideal you start getting more tinder online dating the stickiness  
+**[6168.48s] English:** Emphasize freedom as the highest ideal; you start getting more sticky in online dating.  
 **Translation:** 
 
-**[6178.10s] English:** dissolves just like in chemistry  
-**Translation:** Vocabulary: dissolves: 溶解; stickiness: 粘性; tinder: 火柴棒
+**[6178.10s] English:** Dissolves just like in chemistry.  
+**Translation:** Vocabulary: dissolves: 溶解; emphasize: 强调
 
-**[6179.52s] English:** you start to have a gas versus a liquid right that that's the way so you have to what you have  
+**[6179.52s] English:** You start to have a gas versus a liquid, right? That's the way it is, so you have to figure out what you have.  
 **Translation:** 
 
-**[6185.78s] English:** to study what actually happens if you emphasize that um the stickiness the bonds of humans  
+**[6185.78s] English:** To study what actually happens if you emphasize that, um, the stickiness of human bonds.  
 **Translation:** 
 
-**[6194.60s] English:** is holding you back the exercise of voluntary choice is the highest ideal the danger of that  
+**[6194.60s] English:** Is holding you back. The exercise of voluntary choice is the highest ideal; the danger of that  
 **Translation:** 
 
-**[6202.86s] English:** is for that to be implemented or interpreted in certain kinds of ways by us  
-**Translation:** Vocabulary: interpreted: 解释; voluntary: 自愿
+**[6202.86s] English:** Is it for that to be implemented or interpreted in certain kinds of ways by us?  
+**Translation:** Vocabulary: implemented: 执行; interpreted: 解释; voluntary: 自愿的
 
-**[6209.52s] English:** humans that are not i mean you could say we're perfectly reasonable and rational we can think  
+**[6209.52s] English:** Humans, that is, we could say we are perfectly reasonable and rational, and we can think.  
 **Translation:** 
 
-**[6214.46s] English:** through all of our decisions but really i mean especially you're young you get horny you make  
+**[6214.46s] English:** Through all of our decisions, but really—I mean, especially—you're young; you get horny, and you make mistakes.  
 **Translation:** Vocabulary: horny: 性欲旺盛
 
-**[6219.62s] English:** decisions that are suboptimal perhaps so the the point is you have to look at reality of when you  
+**[6219.62s] English:** Decisions that are suboptimal, perhaps. So, the point is, you have to look at the reality of when you  
 **Translation:** 
 
-**[6227.46s] English:** emphasize different things so when you when you talk about what is the ideal life what is the  
+**[6227.46s] English:** Emphasize different things, so when you talk about what is the ideal life, what is  
 **Translation:** Vocabulary: suboptimal: 次优的
 
-**[6233.80s] English:** ideal relations you have to also think like what are you emphasizing i think you both agree on  
+**[6233.80s] English:** Ideal relations require you to also think: what are you emphasizing? I think you both agree on that.  
 **Translation:** 
 
-**[6239.52s] English:** uh  
+**[6239.52s] English:** Uh  
 **Translation:** Vocabulary: emphasizing: 强调
 
-**[6240.00s] English:** that community can be important, that freedom is important, but what are you emphasizing?  
+**[6240.00s] English:** That community can be important, that freedom is important, but what are you emphasizing?  
 **Translation:** 
 
-**[6244.76s] English:** And you're really emphasizing the individual, and you're emphasizing more of the community, of the family, of the stickiness of the nation.  
-**Translation:** 
+**[6244.76s] English:** And you're really emphasizing the individual, and you're emphasizing more of the community, of the family, and the stickiness of the nation.  
+**Translation:** Vocabulary: stickiness: 凝聚力
 
-**[6258.66s] English:** Well, look, I don't want to deny the place of the individual.  
+**[6258.66s] English:** Well, look; I don't want to deny the place of the individual.  
 **Translation:** 
 
 **[6261.56s] English:** I think that there really is a very great change in civilization when the books of Moses announce that the individual is created in the image of God.  
 **Translation:** Vocabulary: moses: 摩西
 
-**[6278.46s] English:** That's a step that's, as far as we know, without precedent before that in history.  
+**[6278.46s] English:** That's a step that, as far as we know, is without precedent in history before that.  
 **Translation:** 
 
-**[6284.96s] English:** And to a very large degree, I mean, one of the kind of unspoken things going on is that...  
+**[6284.96s] English:** And, to a very large degree, I mean—one of the kind of unspoken things going on is that...  
 **Translation:** Vocabulary: precedent: 先例
 
-**[6291.56s] English:** Yaron and I really do agree on all sorts of things, I think in part because we're both Jewish.  
+**[6291.56s] English:** Yaron and I really do agree on all sorts of things. I think, in part, because we're both Jewish.  
 **Translation:** 
 
-**[6299.72s] English:** You did say Yaron is basically Moses, yes.  
+**[6299.72s] English:** You did say that Yaron is basically Moses, yes.  
 **Translation:** 
 
 **[6304.64s] English:** No, I said he was channeling Moses, but that's still, in my book, that's still a pretty...  
 **Translation:** 
 
 **[6310.24s] English:** No, that's a compliment. I took it as one.  
-**Translation:** 
+**Translation:** Vocabulary: channeling: 传导
 
 **[6313.38s] English:** For me, that's a compliment.  
 **Translation:** 
 
-**[6314.54s] English:** And we'll talk about this a little bit just for the listener, just so they know Yaron amongst many things.  
+**[6314.54s] English:** And we'll talk about this a little bit just for the listener, just so they know that Yaron, among many things.  
 **Translation:** Vocabulary: listener: 听众
 
 **[6321.00s] English:** We'll talk about that.  
 **Translation:** 
 
-**[6321.56s] English:** The virtue of nationalism, but you're also a religious scholar of sorts, or at least leverage the Bible for much, not much, but some of the wisdom in your life.  
-**Translation:** Vocabulary: leverage: 利用
+**[6321.56s] English:** The virtue of nationalism, but you're also a religious scholar of sorts, or at least you leverage the Bible for some of the wisdom in your life.  
+**Translation:** Vocabulary: leverage: 利用; virtue: 美德
 
-**[6333.54s] English:** Look, the way that Yaron looks at enlightenment, or maybe at Ayn Rand, that's the way that I see the Hebrew scripture and the tradition that comes from it.  
+**[6333.54s] English:** Look: the way that Yaron looks at enlightenment, or maybe at Ayn Rand, is the way that I see the Hebrew scripture and the tradition that comes from it.  
 **Translation:** 
 
 **[6345.26s] English:** It has the same kind of place in my life.  
-**Translation:** Vocabulary: enlightenment: 觉悟; scripture: 经典
+**Translation:** Vocabulary: enlightenment: 觉悟; hebrew: 希伯来; scripture: 经典
 
-**[6347.56s] English:** And I just, I don't know how much we want to...  
+**[6347.56s] English:** And I just don't know how much we want to...  
 **Translation:** 
 
-**[6351.56s] English:** I don't want to explore it, but I think that the agreement that we do have about the positive value...  
+**[6351.56s] English:** I don't want to explore it, but I think that the agreement we have about the positive value...  
 **Translation:** 
 
-**[6360.00s] English:** of the creative individual the positive value of the individuals desire to  
+**[6360.00s] English:** Of the creative individual, the positive value of the individual's desire to  
 **Translation:** 
 
-**[6367.32s] English:** improve the world and and and and in my book that means including his or her  
+**[6367.32s] English:** Improve the world, and in my book, that means including him or her.  
 **Translation:** 
 
-**[6374.22s] English:** desire to improve his family his is his tribe his congregation his nation but  
+**[6374.22s] English:** Desire to improve his family, his tribe, his congregation, his nation, but  
 **Translation:** 
 
-**[6381.30s] English:** but it still comes from this kind of for you know what your own call selfishness  
-**Translation:** Vocabulary: congregation: 教徒
+**[6381.30s] English:** But it still comes from this kind of selfishness, you know.  
+**Translation:** Vocabulary: congregation: 教徒聚会
 
-**[6385.20s] English:** the the desire to make things better for yourself in Hebrew Bible and in Judaism  
+**[6385.20s] English:** The desire to make things better for yourself in the Hebrew Bible and in Judaism.  
 **Translation:** 
 
-**[6391.96s] English:** that just is a positive thing of course it can be taken too far but it just is  
+**[6391.96s] English:** That just is a positive thing, of course, it can be taken too far, but it just is.  
 **Translation:** Vocabulary: judaism: 犹太教
 
-**[6397.08s] English:** positive and it doesn't carry these kinds of you know you should turn the  
+**[6397.08s] English:** Positive, and it doesn't carry these kinds of risks. You know, you should turn the  
 **Translation:** 
 
-**[6402.18s] English:** other cheek you should give away your cloak you should love your enemy these  
+**[6402.18s] English:** Other, cheek; you should give, away your cloak. You should love your enemy. These  
 **Translation:** Vocabulary: cloak: 外衣
 
-**[6405.34s] English:** kinds of Christian tropes do not exist in Judaism and so it just but I like  
+**[6405.34s] English:** Kinds of Christian tropes do not exist in Judaism, and so it just... but I like.  
 **Translation:** 
 
-**[6411.12s] English:** listening to your own I do feel like he goes too far on various things but but I  
-**Translation:** Vocabulary: tropes: 模式
+**[6411.12s] English:** Listening to your own, I do feel like he goes too far on various things, but but I  
+**Translation:** Vocabulary: tropes: 陈词滥调
 
-**[6415.18s] English:** also hear you know underneath that I can sort of you know here here's the the  
+**[6415.18s] English:** Also, hear you know, underneath that, I can sort of here, here's the thing.  
 **Translation:** 
 
-**[6419.14s] English:** the Jewish current and the resistance to you know to to things that about  
+**[6419.14s] English:** The Jewish community has faced both current challenges and resistance to things, you know, like this.  
+**Translation:** Vocabulary: underneath: 在...下面
+
+**[6424.60s] English:** Christianity, the Jews often find, can ask you: "Can you make an?  
 **Translation:** 
 
-**[6424.60s] English:** Christianity the Jews often find can ask you a question there can you make an  
+**[6430.24s] English:** Argument for turning the other cheek? No, I tend to guess you would equate that.  
+**Translation:** Vocabulary: equate: 等同视之
+
+**[6436.18s] English:** With altruism, I tend toward justice; it's unjust to turn out the chief. I, well, hmm.  
 **Translation:** 
 
-**[6430.24s] English:** argument for turn the other cheek no I tend to I guess you would equate that  
-**Translation:** Vocabulary: equate: 视为等同
-
-**[6436.18s] English:** with altruism I tend to justice it's unjust to turn out the chief I well hmm  
-**Translation:** 
-
-**[6444.58s] English:** it's a  
+**[6444.58s] English:** It's a  
 **Translation:** Vocabulary: altruism: 无私奉献
 
-**[6445.18s] English:** okay so yourself if you're turning the other cheek it's it's a lack of love  
+**[6445.18s] English:** Okay, so if you're turning the other cheek, it's a lack of love.  
 **Translation:** 
 
-**[6448.66s] English:** lack of self-respect well let me push back on that because I'm uh I I like  
+**[6448.66s] English:** Lack of self-respect? Well, let me push back on that because I'm, uh, I really like myself.  
 **Translation:** 
 
-**[6453.86s] English:** turn the other cheek fish on Twitter so I like I like block the offender on  
+**[6453.86s] English:** Turn the other cheek, fish on Twitter, so I like to block the offender.  
 **Translation:** 
 
-**[6461.68s] English:** Twitter no what so Twitter aside is more like you're you you're investing in the  
-**Translation:** Vocabulary: offender: 犯规者
+**[6461.68s] English:** Twitter: No, so, Twitter aside, it's more like you're investing in the  
+**Translation:** Vocabulary: offender: 施暴者
 
-**[6472.36s] English:** long-term version of yourself versus the short-term  
+**[6472.36s] English:** Long-term version of yourself versus the short-term  
 **Translation:** 
 
-**[6475.18s] English:** so that that's the way I think about is like the energy put on to the world the  
+**[6475.18s] English:** So, that's the way I think about it: like the energy put into the world.  
 **Translation:** 
 
-**[6480.00s] English:** any other cheek philosophy allows you to walk through the fire gracefully uh it's some sense  
+**[6480.00s] English:** Any other cheek philosophy allows you to walk through the fire gracefully, uh, it's some sense.  
 **Translation:** 
 
-**[6486.12s] English:** i mean perhaps you would reframe that as not a uh then that that's not being altruistic or whatever  
+**[6486.12s] English:** I mean, perhaps you would reframe that as not being altruistic or whatever.  
 **Translation:** Vocabulary: altruistic: 无私的; reframe: 重新解读
 
-**[6492.70s] English:** but there there is something pragmatic about that kind of approach to life uh disciplining yourself  
+**[6492.70s] English:** But there is something pragmatic about that kind of approach to life, disciplining yourself.  
 **Translation:** 
 
-**[6499.52s] English:** so that you become a better version of yourself i mean i i not not only do we agree but you know  
-**Translation:** Vocabulary: disciplining: 自我约束; pragmatic: 实用主义
+**[6499.52s] English:** So, that you become a better version of yourself, I mean, I not only do we agree, but you know.  
+**Translation:** Vocabulary: disciplining: 自我约束; pragmatic: 实用的
 
-**[6505.46s] English:** i think every religious and philosophical tradition probably has a version of that even  
+**[6505.46s] English:** I think every religious and philosophical tradition probably has a version of that, even  
 **Translation:** 
 
-**[6511.08s] English:** even kant who we join together in finding to be terrible even kant makes that distinction between  
+**[6511.08s] English:** Even Kant, who we often join together in finding to be terrible, even Kant makes that distinction between  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[6516.84s] English:** the short-term interest and the long-term interest so i i think that's universal i don't know of  
+**[6516.84s] English:** The short-term interest and the long-term interest, so I think that's universal. I don't know of  
 **Translation:** 
 
-**[6522.26s] English:** anybody who's really disagreeing about that the thing that we were talking about a couple of  
+**[6522.26s] English:** Anybody who's really disagreeing about that—the thing we were talking about a couple of  
 **Translation:** 
 
-**[6526.70s] English:** minutes ago before we got onto this tangent is the relationship between the the individual who  
+**[6526.70s] English:** Minutes ago, before we got onto this tangent, is the relationship between the individual and  
 **Translation:** 
 
-**[6533.58s] English:** is in the image of god and  
+**[6533.58s] English:** Is in the image of God and  
 **Translation:** Vocabulary: tangent: 旁题
 
-**[6535.38s] English:** you know  
+**[6535.38s] English:** You know,  
 **Translation:** 
 
-**[6535.46s] English:** and is of of uh of value as an individual nevertheless there's this question about what  
+**[6535.46s] English:** And he is, of course, of value as an individual, nevertheless, there's this question about what.  
 **Translation:** 
 
-**[6542.80s] English:** what is what is good for that person and and and also what makes him happy i'm not sure that those  
+**[6542.80s] English:** What is good for that person, and what makes him happy—I'm not sure about those.  
 **Translation:** 
 
-**[6549.24s] English:** are exactly the same things but they're they're they're both certainly uh relevant and important  
+**[6549.24s] English:** Are exactly the same things, but they're both certainly relevant and important.  
 **Translation:** 
 
-**[6554.26s] English:** and um i i i feel like i mean i think we're beginning to uncover this empirical disagreement  
+**[6554.26s] English:** And, um, I feel like I mean, I think we're beginning to uncover this empirical disagreement.  
 **Translation:** 
 
-**[6561.58s] English:** about what it is that's good for the individual and what it is that makes them happy and i  
-**Translation:** Vocabulary: empirical: 经验的
+**[6561.58s] English:** About what is good for the individual and what makes them happy, and I  
+**Translation:** Vocabulary: disagreement: 分歧; empirical: 基于经验的; uncover: 揭露
 
-**[6565.38s] English:** mean i'll go back to something i raised um i i raised in the debate which is  
+**[6565.38s] English:** Mean, I'll go back to something I raised in the debate, which is  
 **Translation:** 
 
-**[6570.24s] English:** uh this uh this theory of derkheim that now has been uh uh popularized by uh  
-**Translation:** Vocabulary: derkheim: 迪尔凯姆; popularized: 普及
+**[6570.24s] English:** Uh, this theory of Durkheim that has now been popularized by Uh,  
+**Translation:** Vocabulary: durkheim: 迪尔凯姆; popularized: 普及
 
-**[6576.84s] English:** by jordan peterson but um uh derkheim argues that um that the he's writing a book on suicide he's  
+**[6576.84s] English:** By Jordan Peterson, but Derkheimer argues that he's writing a book on suicide, he's  
 **Translation:** 
 
-**[6587.14s] English:** trying to understand what brings individuals to suicide and he coins this term annomi lack of law  
+**[6587.14s] English:** Trying to understand what brings individuals to suicide, he coins the term "annoi," which means a lack of law.  
+**Translation:** Vocabulary: peterson: 乔丹·贝克森
+
+**[6593.78s] English:** And the argument is that individuals, basically,...  
 **Translation:** 
 
-**[6593.78s] English:** And the argument is that individuals basically...  
-**Translation:** 
-
-**[6600.00s] English:** are healthy and happy when they find their place in a hierarchy. Within a loyalty group,  
+**[6600.00s] English:** They are healthy and happy when they find their place in a hierarchy. Within a loyalty group,  
 **Translation:** Vocabulary: hierarchy: 等级制度
 
-**[6607.80s] English:** in a certain place in a hierarchy, they compete and struggle in order to rise in the hierarchy,  
+**[6607.80s] English:** In a certain place in a hierarchy, they compete and struggle in order to rise in the hierarchy.  
 **Translation:** 
 
-**[6613.36s] English:** but they know where they are. They know who they are. The kids today like to say they know what  
+**[6613.36s] English:** But they know where they are. They know who they are. The kids today like to say they know what.  
 **Translation:** 
 
-**[6618.04s] English:** their identity is because they associate themselves, their self-expansion to take on  
+**[6618.04s] English:** Their identity is because they associate themselves with their self-expansion to take on.  
 **Translation:** 
 
-**[6624.72s] English:** the leadership, the different layers, the past and the future of this particular hierarchy.  
+**[6624.72s] English:** The leadership, the different layers, the past and the future of this particular hierarchy.  
 **Translation:** 
 
-**[6629.86s] English:** I completely agree with Yaron that some of these hierarchies are pernicious and oppressive  
+**[6629.86s] English:** I completely agree with Yaron that some of these hierarchies are pernicious and oppressive.  
 **Translation:** 
 
-**[6636.50s] English:** and terrible, and some of them are better. What we might disagree about is that you can find  
-**Translation:** Vocabulary: hierarchies: 等级制度; oppressive: 压迫的; pernicious: 有害的
+**[6636.50s] English:** And terrible, and some of them are better. What we might disagree about is that you can find  
+**Translation:** Vocabulary: hierarchies: 等级; oppressive: 压迫的; pernicious: 有害的
 
-**[6645.28s] English:** human beings who are capable of becoming healthy and happy off by themselves without participating  
+**[6645.28s] English:** Human beings who are capable of becoming healthy and happy on their own, without participating  
 **Translation:** 
 
-**[6653.88s] English:** in this kind of structure. The minute that you accept, if you accept, that this is  
+**[6653.88s] English:** In this kind of structure, the minute that you accept that this is  
 **Translation:** 
 
-**[6659.76s] English:** empirical reality about human beings, it's an iron law. You can't do anything. You can tell  
+**[6659.76s] English:** Empirical reality about human beings, it's an iron law: you can't do anything. You can tell  
 **Translation:** 
 
-**[6667.38s] English:** human beings that they can be free of all constraints all you want, and you can get them  
-**Translation:** Vocabulary: constraints: 限制
+**[6667.38s] English:** Human beings that they can be free of all constraints, all you want, and you can get them.  
+**Translation:** Vocabulary: constraints: 限制; empirical: 经验的
 
-**[6672.30s] English:** to do things that, as you say, dissolve their place. They can have contempt for hierarchies.  
+**[6672.30s] English:** To do things that, as you say, dissolve their sense of place. They can have contempt for hierarchies.  
 **Translation:** 
 
-**[6679.40s] English:** They can say, I'm not going to serve the man. I'm just going to burn them all down.  
-**Translation:** Vocabulary: contempt: 轻视
+**[6679.40s] English:** They can say, "I'm not going to serve the man. I'm just going to burn them all down.  
+**Translation:** Vocabulary: contempt: 轻视; dissolve: 消解
 
 **[6685.20s] English:** You can get kids to say all of these things. You can get them,  
 **Translation:** 
 
-**[6689.76s] English:** either to be Marxists who are actively trying to overthrow and destroy the existing hierarchies,  
-**Translation:** Vocabulary: marxists: 马克思主义者
+**[6689.76s] English:** Either to be Marxists who are actively trying to overthrow and destroy the existing hierarchies,  
+**Translation:** Vocabulary: actively: 积极地; marxists: 马克思主义者; overthrow: 推翻
 
-**[6696.06s] English:** or you can make them some kind of liberal where they basically pretend the hierarchies don't  
+**[6696.06s] English:** Or you can make them some kind of liberal, where they basically pretend the hierarchies don't exist.  
 **Translation:** 
 
-**[6699.92s] English:** exist. They just act like they're not there. In both cases, and it's not a coincidence that  
-**Translation:** Vocabulary: coincidence: 巧合
-
-**[6706.10s] English:** that's what universities teach is your choice is either Marxist revolution or liberal ignoring of  
+**[6699.92s] English:** Exists. They just act like they're not there. In both cases, and it's not a coincidence that.  
 **Translation:** 
 
-**[6711.52s] English:** the hierarchies. In both cases, what you've done is you've eliminated the possibility  
+**[6706.10s] English:** That's what universities teach: your choice is either Marxist revolution or liberal ignorance.  
 **Translation:** 
 
-**[6717.62s] English:** that the young person will,  
+**[6711.52s] English:** The hierarchies. In both cases, what you've done is eliminate the possibility,...  
+**Translation:** Vocabulary: ignorance: 无知; marxist: 马克思主义的
+
+**[6717.62s] English:** That the young person will,  
 **Translation:** 
 
-**[6719.76s] English:** be.  
+**[6719.76s] English:** Be.  
 **Translation:** 
 
-**[6720.00s] English:** able to find his or her place in a way that allows them to grow and exercise their love,  
+**[6720.00s] English:** Able to find his or her place in a way that allows them to grow and exercise their love.  
 **Translation:** 
 
-**[6728.54s] English:** their drive, their creativity in order to advance something constructive. You've eliminated it and  
+**[6728.54s] English:** Their drive, their creativity, in order to advance something constructive. You've eliminated it, and  
 **Translation:** 
 
-**[6734.92s] English:** you've put the burden on them, a kind of a Nietzschean burden to just be the fountain of  
+**[6734.92s] English:** You've put the burden on them, a kind of Nietzschean burden to just be the fountain of.  
 **Translation:** 
 
-**[6743.72s] English:** all values yourself, which maybe some people can do it, but almost no one can do it. And I think  
+**[6743.72s] English:** All by myself, which maybe some people can do it, but almost no one can do it. And I think,  
+**Translation:** Vocabulary: burden: 负担; nietzschean: 尼采式的
+
+**[6750.86s] English:** That's empirically true. And so, I think by telling them about their freedom rather than telling them  
 **Translation:** 
 
-**[6750.86s] English:** that's empirically true. And so I think by telling them about their freedom rather than telling them  
+**[6757.30s] English:** About the need to join a traditionalist hierarchy that can be good and healthy for them,  
+**Translation:** Vocabulary: empirically: 根据经验; hierarchy: 等级制度; traditionalist: 传统主义者
+
+**[6765.56s] English:** I think we're destroying them. I think we're destroying this generation and the last one.  
 **Translation:** 
 
-**[6757.30s] English:** about the need to join into some traditionalist hierarchy that can be good and healthy for them,  
-**Translation:** Vocabulary: empirically: 根据事实; hierarchy: 等级制度; traditionalist: 传统主义者
-
-**[6765.56s] English:** I think we're destroying them. I think we're destroying this generation and the last one  
+**[6769.92s] English:** And the next.  
 **Translation:** 
 
-**[6769.92s] English:** and the next.  
+**[6771.56s] English:** Yaron, is the burden of freedom...?  
 **Translation:** 
 
-**[6771.56s] English:** Yaron, is the burden of freedom...  
+**[6773.72s] English:** Freedom is destroying mankind.  
 **Translation:** 
 
-**[6773.72s] English:** Freedom destroying mankind.  
+**[6777.30s] English:** What freedom? I mean, how many people are indeed free? Look; the problem is that we're caught up.  
 **Translation:** 
 
-**[6777.30s] English:** What freedom? I mean, how many people are indeed free? Look, the problem is that we're caught up  
+**[6784.28s] English:** On political concepts, and we're moving into ethical issues. And I don't think it's right.  
 **Translation:** 
 
-**[6784.28s] English:** on political concepts and we're moving into ethical issues. And I don't think it's right  
+**[6793.10s] English:** To tell people, you're free: go do whatever the hell you want. Just use your emotions.  
 **Translation:** 
 
-**[6793.10s] English:** to tell people, you're free, go do whatever the hell you want. Just use your emotions,  
+**[6799.44s] English:** You know, just go where you want to go, you know, in the spur of the moment. Think,  
 **Translation:** 
 
-**[6799.44s] English:** you know, just go where you want to go, you know, in the spur of the moment. Think,  
+**[6803.64s] English:** Sure.  
 **Translation:** 
 
-**[6803.64s] English:** sure.  
-**Translation:** 
-
-**[6803.72s] English:** Don't think long term or don't think. Why think? One has to provide moral guidance and morality  
+**[6803.72s] English:** Don't think long-term, or don't think at all. Why think? One has to provide moral guidance and morality.  
 **Translation:** Vocabulary: morality: 道德
 
-**[6811.10s] English:** here is crucial and crucially important. And part of taking responsibility for your own life is  
+**[6811.10s] English:** Here is crucial and crucially important. And part of taking responsibility for your own life is.  
 **Translation:** 
 
-**[6817.62s] English:** establishing a moral framework for your life. And what does it mean to live a good life? I mean,  
-**Translation:** Vocabulary: crucially: 至关重要地
+**[6817.62s] English:** Establishing a moral framework for your life. And what does it mean to live a good life? I mean,  
+**Translation:** Vocabulary: crucial: 至关重要的
 
-**[6824.62s] English:** that's much more important in a sense of a question. And it is my belief that people can do  
+**[6824.62s] English:** That's much more important, in a sense of the question. And, it is my belief that people can do.  
 **Translation:** 
 
-**[6830.92s] English:** that. They can find and choose.  
+**[6830.92s] English:** That. They can find and choose.  
 **Translation:** 
 
 **[6833.72s] English:** The values necessary to achieve a good life, but they need guidance. They need guidance.  
 **Translation:** 
 
-**[6838.44s] English:** This is why religion evolved in my.  
+**[6838.44s] English:** This is why religion evolved in me.  
+**Translation:** Vocabulary: evolved: 演变
+
+**[6840.00s] English:** View, because people need guidance, so so, that says you know I called religion a primitive form.  
 **Translation:** 
 
-**[6840.00s] English:** view because people need guidance so so so that says you know i called religion a primitive form  
+**[6845.18s] English:** Of philosophy, it was the original philosophy that provided people with some guidance about what to do.  
 **Translation:** 
 
-**[6845.18s] English:** of philosophy it was the original philosophy that provided people with some guidance about what to  
+**[6850.36s] English:** Do, and what not to do, and secular philosophy is supposed to do the same. The problem is...  
 **Translation:** 
 
-**[6850.36s] English:** do and what not to do and secular philosophy is supposed to do the same and the problem is  
-**Translation:** 
-
-**[6855.56s] English:** that i think religion and 99 of secular philosophy give people bad advice about what to do and  
+**[6855.56s] English:** That I think religion and 99% of secular philosophy give people bad advice about what to do and  
 **Translation:** Vocabulary: secular: 世俗的
 
-**[6863.56s] English:** therefore they do bad stuff and and some of that sometimes uh you know because uh when they do good  
+**[6863.56s] English:** Therefore, they do bad stuff, and sometimes, you know, because when they do good...  
 **Translation:** 
 
-**[6871.56s] English:** stuff it gets reinforced that we survive in spite of that but uh ideas like kant and hegel and marks  
+**[6871.56s] English:** Stuff, it gets reinforced that we survive in spite of that, but, uh, ideas like Kant and Hegel and Marx.  
 **Translation:** Vocabulary: hegel: 黑格尔; reinforced: 强化
 
-**[6877.32s] English:** and so on give young people awful advice about how to live and what to do and as a consequence  
+**[6877.32s] English:** And so, on give young people awful advice about how to live and what to do, and as a consequence,...  
 **Translation:** 
 
-**[6882.30s] English:** really bad stuff happens and the world in which we exist today which we agree  
+**[6882.30s] English:** Really bad stuff happens, and the world in which we exist today, which we agree.  
 **Translation:** 
 
-**[6886.52s] English:** there are a lot of pathologies to it a lot of bad stuff going on in my view is going the wrong way  
+**[6886.52s] English:** There are a lot of pathologies to it; a lot of bad stuff going on, in my view, is going the wrong way.  
 **Translation:** 
 
-**[6893.18s] English:** my  
+**[6893.18s] English:** My  
 **Translation:** Vocabulary: pathologies: 疾病状态
 
-**[6893.48s] English:** view  
+**[6893.48s] English:** View:  
 **Translation:** 
 
-**[6893.56s] English:** you a product of of of a set of ideas uh you know on the one hand i think i think uh christian ideas  
+**[6893.56s] English:** You are a product of a set of ideas, uh, you know. On the one hand, I think I think, uh, Christian ideas,...  
 **Translation:** 
 
-**[6901.88s] English:** on the other hand i think secular philosophical ideas that have driven this country and the world  
+**[6901.88s] English:** On the other hand, I think secular philosophical ideas that have driven this country and the world.  
 **Translation:** 
 
-**[6906.86s] English:** more generally in a really really bad direction and this is why the this is why what i do what  
+**[6906.86s] English:** More generally, it's going in a really, really bad direction. This is why; this is why what I do.  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[6912.52s] English:** i do because i think at the at the core of it the only way to change it is not to impose a new set  
+**[6912.52s] English:** I do because I think, at the core of it, the only way to change it is not to impose a new set.  
 **Translation:** 
 
-**[6918.56s] English:** of ideas from the top because i i worry about who's going to be doing the imposition plus i  
+**[6918.56s] English:** Of ideas from the top, because I worry about who's going to be doing the imposition; plus, I  
+**Translation:** Vocabulary: impose: 强加; imposition: 强加行为
+
+**[6922.72s] English:** Don't believe you can force people to be good; it's about challenging ideas and questioning.  
 **Translation:** 
 
-**[6922.72s] English:** don't believe you can you can force people to be good it's to challenge the ideas it's to question  
-**Translation:** 
-
-**[6928.28s] English:** the ideas it's to present an alternative view of morality an alternative a set of moral principles  
+**[6928.28s] English:** The idea is to present an alternative view of morality, an alternative set of moral principles.  
 **Translation:** Vocabulary: morality: 道德
 
-**[6934.64s] English:** an alternative ultimately an alternative view of political principles but it has to start with  
+**[6934.64s] English:** An alternative, ultimately, is an alternative view of political principles, but it has to start with.  
 **Translation:** 
 
-**[6939.00s] English:** morality if you don't and and my morality centered on the individual and what the individual should  
+**[6939.00s] English:** Morality: if you don't, and my morality is centered on the individual and what the individual should.  
 **Translation:** 
 
-**[6943.90s] English:** do with this life in order to attain a good life uh i believe that leads to happiness but but but  
+**[6943.90s] English:** Do something with this life in order to attain a good life, I believe that leads to happiness, but...  
 **Translation:** 
 
-**[6949.98s] English:** the good life that's why it's good right  
+**[6949.98s] English:** The good life—that's why it's good, right?  
+**Translation:** Vocabulary: attain: 获得
+
+**[6952.72s] English:** The goal is survival, thriving, and flourishing—and happiness ultimately.  
 **Translation:** 
 
-**[6952.72s] English:** the the goal is survival and thriving and flourishing and and happiness ultimately  
+**[6957.54s] English:** But politics,...  
+**Translation:** Vocabulary: flourishing: 繁荣; thriving: 兴盛
+
+**[6960.00s] English:** Is a servant of that, in the end it's not an end in itself, so the real issue is you know.  
 **Translation:** 
 
-**[6957.54s] English:** but politics  
-**Translation:** Vocabulary: flourishing: 繁荣; thriving: 兴旺
+**[6966.20s] English:** Asked before, what is the value of a relationship? There's an almost inherent value in relationships because  
+**Translation:** Vocabulary: servant: 仆人
 
-**[6960.00s] English:** is a servant of that in the end it's it's not an end in itself so the real issue is you know you  
+**[6969.86s] English:** We get values from other people; we don't produce all our values, and we don't produce all our spiritual ones either.  
 **Translation:** 
 
-**[6966.20s] English:** asked before what is the value relationship there's an almost value in relationship because  
+**[6973.64s] English:** Values, and we don't produce all our material values; other people benefit us massively.  
+**Translation:** Vocabulary: massively: 极大地
+
+**[6980.52s] English:** Because they produce values we can't, there's a massive division of labor in terms of values, not  
 **Translation:** 
 
-**[6969.86s] English:** we get values from other people we don't produce all our values we don't produce all our spiritual  
+**[6985.12s] English:** Just in economics, but also in philosophy and elsewhere, it's why we have teachers.  
 **Translation:** 
 
-**[6973.64s] English:** values and we don't produce all our material values other people on a massive benefit to us  
+**[6990.04s] English:** Have moral teachers; they are important to help guide us toward a good life, not all of us.  
 **Translation:** 
 
-**[6980.52s] English:** because they produce values we can't there's a massive division of labor in terms of values not  
+**[6995.14s] English:** Philosophers, but what I do demand is that if you all have individuals, this is where I put a burden on people.  
+**Translation:** Vocabulary: burden: 责任; philosophers: 哲学家
+
+**[7000.96s] English:** Right, understand what you're doing. Right, you know, don't embrace a moral teaching just because it was  
 **Translation:** 
 
-**[6985.12s] English:** just in economics but also in philosophy and elsewhere it's why we have teachers it's why we  
+**[7008.88s] English:** Tradition doesn't embrace a moral teaching just because your parents embraced it; don't embrace a moral teaching for the same reason.  
+**Translation:** Vocabulary: embrace: 接纳; embraced: 接纳
+
+**[7013.70s] English:** Teaching just because you're  
 **Translation:** 
 
-**[6990.04s] English:** have moral teachers moral teachers important to help guide us towards a good life not all of us  
+**[7015.12s] English:** Teachers are teaching it, challenging it, thinking about it, embracing it. Because you embrace it, you might be  
+**Translation:** Vocabulary: embracing: 接纳
+
+**[7022.16s] English:** Wrong; you might embrace the wrong one, but take more responsibility for your choices.  
 **Translation:** 
 
-**[6995.14s] English:** philosophers but what i do demand if you all have individuals this is where i put a burden on people  
-**Translation:** 
-
-**[7000.96s] English:** right understand what you're doing right you know don't embrace a moral teaching because it was  
-**Translation:** 
-
-**[7008.88s] English:** tradition don't embrace a moral teaching because your parents embraced it don't embrace a moral  
-**Translation:** Vocabulary: embraced: 接纳
-
-**[7013.70s] English:** teaching just because you're  
-**Translation:** 
-
-**[7015.12s] English:** teachers are teaching it challenge it think about it embrace it because you embrace it you might be  
-**Translation:** 
-
-**[7022.16s] English:** wrong you might embrace the wrong one but take more responsibility take responsibility over your  
-**Translation:** 
-
-**[7027.62s] English:** life by evaluating testing challenging what you have received and choosing what you're what what  
+**[7027.62s] English:** Life by evaluating, testing, and challenging what you have received, and choosing what you're willing to accept.  
 **Translation:** Vocabulary: evaluating: 评估
 
-**[7037.96s] English:** you're going to pursue and i i acknowledge empirically that most people don't do that  
+**[7037.96s] English:** You're going to pursue, and I acknowledge empirically that most people don't do that.  
 **Translation:** 
 
-**[7041.70s] English:** and uh and and and this is why intellectual leadership is so important uh this is why you  
-**Translation:** Vocabulary: empirically: 根据事实
+**[7041.70s] English:** And, and, and, and this is why intellectual leadership is so important. This is why you.  
+**Translation:** Vocabulary: empirically: 根据经验
 
-**[7048.58s] English:** want to get you want the voices in a culture to be good voices so that those people who don't  
+**[7048.58s] English:** Want to get you to understand that you want the voices in a culture to be good voices, so that those people who don't  
 **Translation:** 
 
-**[7054.58s] English:** think for themselves land up being followers but they end up being followers of somebody good versus  
+**[7054.58s] English:** Think for themselves, and they end up being followers, but they end up being followers of somebody good, versus.  
+**Translation:** Vocabulary: followers: 追随者
+
+**[7059.28s] English:** Followers of somebody bad, but for the thinkers in the world out there, who I think are the people.  
 **Translation:** 
 
-**[7059.28s] English:** followers of somebody bad but for the thinkers in the world out there who i think are the people  
+**[7064.60s] English:** Who counts? The people who shape society, oh boy. No, no, wait a minute. Not in the sense that...  
+**Translation:** Vocabulary: thinkers: 思考者
+
+**[7071.10s] English:** You can dismiss.  
 **Translation:** 
 
-**[7064.60s] English:** who count who the people who shape society oh boy no no wait a minute not not count in a sense that  
-**Translation:** Vocabulary: thinkers: 思想家
+**[7071.70s] English:** The lives of others, and you know, because I'm obviously anti-coercion, and  
+**Translation:** Vocabulary: dismiss: 解除
 
-**[7071.10s] English:** you can dismiss  
+**[7075.78s] English:** Anti-violence sounds like Plato, but yes, I don't want to sound like Plato.  
 **Translation:** 
 
-**[7071.70s] English:** the lives of others and you know because i'm you know obviously i'm anti-coercion and  
+**[7080.00s] English:** But, in a sense, they are the ones who end up shaping the world.  
 **Translation:** 
 
-**[7075.78s] English:** anti-violence sound like plato but yes i don't want to sound like plato  
+**[7083.88s] English:** They're the ones who end up shaping how the world will be.  
 **Translation:** 
 
-**[7080.00s] English:** But in a sense that they're the ones who land up shaping the world.  
-**Translation:** 
+**[7086.46s] English:** I want those people to make choices about their values, and not just accept them based on tradition, or based on commandments, or based on where they happen to grow up.  
+**Translation:** Vocabulary: commandments: 教条
 
-**[7083.88s] English:** They're the ones who land up shaping how the world will be.  
-**Translation:** 
-
-**[7086.46s] English:** I want those people to make choices about their values and not to just accept them based on tradition or based on commandment or based on where they happen to grow up.  
-**Translation:** 
-
-**[7096.44s] English:** In that sense, again, I do, and this is an interesting point where we disagree, but I'm not exactly sure what Jerome's position is.  
+**[7096.44s] English:** In that sense, again, I do agree, and this is an interesting point where we disagree, but I'm not exactly sure what Jerome's position is.  
 **Translation:** 
 
 **[7106.38s] English:** I do believe in universal values.  
@@ -4321,16 +4322,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7116.94s] English:** Well, I think we should be able to agree that some political systems are good.  
 **Translation:** Vocabulary: communism: 共产主义; fascism: 法西斯主义
 
-**[7120.64s] English:** And maybe there's this middle ground where we both think that they're not particularly bad, but not particularly good.  
+**[7120.64s] English:** And maybe there's a middle ground where we both think that they're not particularly bad, but not particularly good.  
 **Translation:** 
 
 **[7127.94s] English:** And you all might think they're better than I think they are.  
 **Translation:** 
 
-**[7130.34s] English:** But if we can agree, and this is good, and this is evil, right, then the systems that tend towards the good are good.  
+**[7130.34s] English:** But if we can agree, and this is good, and this is evil, right? Then the systems that tend toward the good are good.  
 **Translation:** 
 
-**[7137.08s] English:** And the systems that tend towards the evil are evil.  
+**[7137.08s] English:** And the systems that tend toward the evil are evil.  
 **Translation:** 
 
 **[7139.68s] English:** And.  
@@ -4339,11 +4340,11 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7140.00s] English:** But that's universal, right?  
 **Translation:** 
 
-**[7141.76s] English:** You know, I look at places like South Korea, Japan, Asia, you know, cultures that are very, very different in many respects in the West.  
+**[7141.76s] English:** You know, I look at places like South Korea, Japan, Asia—cultures that are very, very different from those in many respects in the West.  
 **Translation:** 
 
-**[7150.32s] English:** And yet when they adopt certain Western ideas, right, about freedom, about liberty, about individualism, I mean, the Japanese Constitution, because MacArthur forced it in there, has the pursuit of happiness in the Constitution, not because they chose it because he put it in it.  
-**Translation:** Vocabulary: individualism: 个人主义
+**[7150.32s] English:** And yet, when they adopt certain Western ideas, such as freedom, liberty, and individualism, the Japanese Constitution, because MacArthur forced it in, includes the pursuit of happiness, not because they chose it, but because he put it in.  
+**Translation:** Vocabulary: individualism: 个人主义; pursuit: 追求
 
 **[7166.24s] English:** But they, to some extent, adopted that.  
 **Translation:** 
@@ -4360,22 +4361,22 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7177.36s] English:** You're on.  
 **Translation:** 
 
-**[7178.62s] English:** Japan has a birth rate of, what is it, 1.1, 1.2 children per woman.  
+**[7178.62s] English:** Japan has a birth rate of, on average, 1.1 to 1.2 children per woman.  
 **Translation:** 
 
-**[7187.52s] English:** I mean, look, there are some things, there are some places where you give people freedom.  
+**[7187.52s] English:** I mean, look, there are some things, and there are some places where you give people freedom.  
 **Translation:** 
 
 **[7195.20s] English:** This is also biblical, right?  
 **Translation:** Vocabulary: biblical: 圣经的
 
-**[7197.40s] English:** The idea that everyone did what's right in his own.  
+**[7197.40s] English:** The idea that everyone did what's right in his own eyes.  
 **Translation:** 
 
-**[7200.00s] English:** eyes. Okay, right? This is a refrain in the book of Judges. And the Bible is not an anti-freedom  
-**Translation:** 
+**[7200.00s] English:** Eyes. Okay, right? This is a refrain in the Book of Judges. And the Bible is not an anti-freedom.  
+**Translation:** Vocabulary: refrain: 重复出现的短语
 
-**[7208.34s] English:** book. I mean, there's many, many, look, I don't know. No, we're not. Fine.  
+**[7208.34s] English:** Book. I mean, there are many, many. Look, I don't know. No, we're not. Fine.  
 **Translation:** 
 
 **[7213.48s] English:** We'll get there.  
@@ -4387,127 +4388,127 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7214.84s] English:** Oh, he's going to guide us.  
 **Translation:** 
 
-**[7216.40s] English:** Okay, look, just as an asterisk, I'm not asking you because, you know, because the Bible is such  
+**[7216.40s] English:** Okay, look, just as an asterisk: I'm not asking you because, you know, because the Bible is such  
 **Translation:** 
 
-**[7221.28s] English:** a great authoritarian book. It's not that at all. In my view, if you want to know where, you know,  
-**Translation:** Vocabulary: asterisk: 举例; authoritarian: 专制
+**[7221.28s] English:** A great authoritarian book? It's not that at all. In my view, if you want to know, you know,  
+**Translation:** Vocabulary: asterisk: 举例; authoritarian: 独裁的
 
-**[7228.54s] English:** where this, what you call the sanctity of property, where does the sanctity of property  
+**[7228.54s] English:** Where is the sanctity of property, as you call it?  
 **Translation:** 
 
-**[7234.38s] English:** comes from? It comes from the Ten Commandments. It comes from Moses saying, I haven't taken  
-**Translation:** 
+**[7234.38s] English:** Came from? It comes from the Ten Commandments. It comes from Moses saying, "I haven't taken  
+**Translation:** Vocabulary: commandments: 十诫; moses: 摩西; sanctity: 神圣性
 
-**[7239.20s] English:** anything from anyone. It comes from Samuel saying, I haven't taken anything from anyone.  
+**[7239.20s] English:** Anything from anyone. It comes from Samuel, who said, "I haven't taken anything from anyone.  
 **Translation:** 
 
 **[7242.72s] English:** It's the condemnation of Ahav, of the unjust kings who steal the property of their subjects.  
 **Translation:** Vocabulary: condemnation: 谴责
 
-**[7249.52s] English:** So I'm not, so property and freedom, I think there's great basis for it in the Bible. But  
+**[7249.52s] English:** So, I'm not saying that property and freedom have a great basis in the Bible. But  
 **Translation:** 
 
-**[7257.24s] English:** right now, I'm fine.  
+**[7257.24s] English:** Right now, I'm fine.  
 **Translation:** 
 
 **[7258.54s] English:** Focusing on this other question, which is what happens when everyone does what's right in his  
 **Translation:** 
 
-**[7264.92s] English:** own eyes? That's the book of Judges, and that's this civil war, moral corruption, theft, idolatry,  
-**Translation:** Vocabulary: idolatry: 偶像崇拜
+**[7264.92s] English:** Own eyes? That's the Book of Judges, and that's this civil war, moral corruption, theft, idolatry.  
+**Translation:** Vocabulary: idolatry: 崇拜偶像
 
-**[7272.38s] English:** murder, rape. I mean, that's what happens when everyone does whatever's right in his own eyes.  
+**[7272.38s] English:** Murder, rape. I mean, that's what happens when everyone does whatever is right in his own eyes.  
 **Translation:** 
 
-**[7279.12s] English:** Well, no, that's what it says in the text. I'm not, okay. So when I look at, you're right,  
+**[7279.12s] English:** Well, no, that's what it says in the text. I'm not, okay. So when I look at it, you're right.  
 **Translation:** 
 
-**[7285.32s] English:** there are things that I think are objectively true.  
+**[7285.32s] English:** There are things that I think are objectively true.  
 **Translation:** 
 
-**[7288.54s] English:** I think it's really hard to get people to agree to them, almost impossible. But when I look at  
+**[7288.54s] English:** I think it's really hard to get people to agree to them; almost impossible. But when I look at  
 **Translation:** Vocabulary: objectively: 客观地
 
-**[7294.74s] English:** a country which is approaching one birth per woman, in other words, half of the minimum  
+**[7294.74s] English:** A country which is approaching one birth per woman, in other words, half of the minimum.  
 **Translation:** 
 
-**[7305.54s] English:** necessary for replacement, you can say whatever you want, whatever you want about immigration,  
+**[7305.54s] English:** Necessary for replacement, you can say whatever you want; whatever you want about immigration.  
+**Translation:** Vocabulary: approaching: 接近
+
+**[7311.36s] English:** We can have that discussion. But the point is that when your values are such that you're not even,  
 **Translation:** 
 
-**[7311.36s] English:** we can have that discussion. But the point is that when your values are such that you're not even,  
+**[7318.54s] English:** You're not even capable of doing that. You're not even capable of doing that.  
 **Translation:** 
 
-**[7318.54s] English:** you're not even capable of doing that, you're not even capable of doing that.  
+**[7320.00s] English:** Doing the most basic techniques that human beings need in order to be able to propagate themselves.  
 **Translation:** 
 
-**[7320.00s] English:** doing the most basic techniques that human beings need in order to be able to propagate themselves  
+**[7324.72s] English:** And their values, and the way they see things, then I think you're finished; you can't say that.  
+**Translation:** Vocabulary: propagate: 繁衍
+
+**[7330.78s] English:** You can't. If I implied that Japan is an ideal society, I take that back, but no, let's...  
 **Translation:** 
 
-**[7324.72s] English:** and their values and the way they see things then i i look you're finished you can't say that  
-**Translation:** Vocabulary: propagate: 传播
+**[7336.90s] English:** Think about it; I just think we're in trouble, and we're in trouble, yeah. All right, give me a second.  
+**Translation:** Vocabulary: implied: 暗示
 
-**[7330.78s] English:** you can't if i implied that japan is an ideal society i i take that back but no i just let's  
+**[7342.42s] English:** Hold that thought, you know? Being the tutorial, no, I'm sorry, it's his show, man. We're entering into his.  
 **Translation:** 
 
-**[7336.90s] English:** think about i just think we're in trouble and we're in trouble yeah all right give me a second  
+**[7348.42s] English:** Hierarchy—that's it; it's a good idea to talk about Hayaki, but no, just to clarify: do you  
+**Translation:** Vocabulary: clarify: 澄清; hierarchy: 等级制度; tutorial: 教程
+
+**[7356.58s] English:** How do you explain, uh, the situation in Japan—is it the decrease in value of the family, like some of  
 **Translation:** 
 
-**[7342.42s] English:** hold that hold you that being the tutorial no i'm sorry it's his show man we enter into his  
+**[7362.16s] English:** Um, just expand on that. Like, how do you explain that situation? You're saying that society...  
 **Translation:** 
 
-**[7348.42s] English:** hierarchy that's it it's a we should talk about hayaki but no um just just to clarify do you  
-**Translation:** Vocabulary: hierarchy: 等级制度; tutorial: 教程
-
-**[7356.58s] English:** how do you explain uh the situation in japan is it the decrease in value in family like some of the  
+**[7368.46s] English:** Is in trouble in a certain way, can you kind of describe the nature of that trouble? I'm saying...  
 **Translation:** 
 
-**[7362.16s] English:** um just expand on that like how do you explain that situation you're saying that that society  
+**[7373.92s] English:** That when the individual is part of  
 **Translation:** 
 
-**[7368.46s] English:** is in trouble in a certain way can you kind of describe the nature of that trouble i'm saying  
+**[7378.40s] English:** A social group, this can be a family, a congregation, a community, a tribe, or a nation.  
 **Translation:** 
 
-**[7373.92s] English:** that when the individual is part of  
+**[7384.86s] English:** When the individual feels that the things happening to the society are things that  
+**Translation:** Vocabulary: congregation: 教徒聚集
+
+**[7390.98s] English:** Are these things happening to him or to her, and I want to emphasize that this is not the standard view of.  
 **Translation:** 
 
-**[7378.40s] English:** a social group this can be a family a congregation a community a tribe a nation  
+**[7397.20s] English:** Collectivism, that you know, Mussolini would say, "the glory of the  
+**Translation:** Vocabulary: emphasize: 强调; mussolini: 墨索里尼
+
+**[7402.44s] English:** Individual is totally immersing himself, you know, in the organic whole—that's not what I'm.  
 **Translation:** 
 
-**[7384.86s] English:** when the individual feels that the things that are happening to the society are things that  
-**Translation:** Vocabulary: congregation: 宗教集会
+**[7408.40s] English:** Saying that human beings have and are, by nature, those who enter into a society to which they are loyal.  
+**Translation:** Vocabulary: immersing: 沉浸
 
-**[7390.98s] English:** are happening to him or to her and i want to emphasize this is not the standard view of  
+**[7415.44s] English:** And they compete with one another within the terms that society allows, but  
 **Translation:** 
 
-**[7397.20s] English:** collectivism that you know that mussolini will mussolini will say you know the glory of the  
+**[7423.48s] English:** Also, sometimes by bending the rules, and by shaping them and changing them, what you see in  
+**Translation:** Vocabulary: bending: 违反规则
+
+**[7429.96s] English:** Many societies, certainly throughout the liberal West, but also in countries that have been affected.  
 **Translation:** 
 
-**[7402.44s] English:** individual is in totally immersing himself in you know in in the organic hole that's not what i'm  
+**[7435.96s] English:** By the liberal West, through industrialization and  
 **Translation:** 
 
-**[7408.40s] English:** saying that human beings have and are both they enter into a society to which they are loyal  
-**Translation:** Vocabulary: immersing: 全身心投入
-
-**[7415.44s] English:** and they compete with one another with in in the terms that that society allows competition but  
+**[7438.40s] English:** Ideas of individualism.  
 **Translation:** 
 
-**[7423.48s] English:** also sometimes by bending the rules and by shaping them and by by changing them what what you see in  
-**Translation:** 
+**[7440.00s] English:** What you see is a collapse of an individual's willingness to look at what is needed by the whole and to make choices that are, as Jorn would call them, selfish.  
+**Translation:** Vocabulary: collapse: 崩溃; individualism: 个人主义
 
-**[7429.96s] English:** many societies certainly throughout the liberal west but also in countries that have been affected  
-**Translation:** 
-
-**[7435.96s] English:** by the liberal west by industrialization and  
-**Translation:** 
-
-**[7438.40s] English:** ideas of individualism  
-**Translation:** 
-
-**[7440.00s] English:** What you see is a collapse of a willingness of the individual to look at what is needed by the whole and to make choices that are, as Jorn would call them, selfish.  
-**Translation:** Vocabulary: individualism: 个人主义
-
-**[7457.28s] English:** Because the purpose of them is self-expression, competition, self-assertion, moving up in the hierarchy, achieving honor or wealth in order to do those things.  
+**[7457.28s] English:** Because the purpose of these activities is for self-expression, competition, self-assertion, moving up in the hierarchy, achieving honor or wealth—in order to do those things.  
 **Translation:** 
 
 **[7471.24s] English:** But when you stop being able to look at the framework of a particular society and identify with it, you cease to understand what it is that you need to do.  
@@ -4516,10 +4517,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7484.50s] English:** Not every single person, but I'm talking about society.  
 **Translation:** 
 
-**[7487.28s] English:** So there are a few individuals who are just going to have a fantastic time and live the kind of life that Jorn is describing.  
+**[7487.28s] English:** So, there are a few individuals who are just going to have a fantastic time and live the kind of life that Jorn is describing.  
 **Translation:** 
 
-**[7493.82s] English:** And the great majority, they stop being willing to take risks.  
+**[7493.82s] English:** And the great majority stop being willing to take risks.  
 **Translation:** 
 
 **[7498.08s] English:** They stop being willing to get married.  
@@ -4534,7 +4535,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7503.30s] English:** They stop being willing to put themselves out to do great things.  
 **Translation:** 
 
-**[7506.70s] English:** Because the guide rails that told them what kinds of things and the social feedback that honored them when they did things like getting married and having children.  
+**[7506.70s] English:** Because the guide rails that told them what kinds of things, and the social feedback that honored them when they did things like getting married and having children.  
 **Translation:** 
 
 **[7517.54s] English:** They've been crushed.  
@@ -4543,7 +4544,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7518.98s] English:** And what have they been crushed by?  
 **Translation:** 
 
-**[7520.32s] English:** They've been crushed by the false view that if you tell the individual, be free, make all your own decisions, that they will then be free and make all their own decisions.  
+**[7520.32s] English:** They've been crushed by the false view that if you tell the individual "be free" and make all your own decisions, that they will then be free and make all their own decisions.  
 **Translation:** 
 
 **[7529.32s] English:** They don't.  
@@ -4558,13 +4559,13 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7533.44s] English:** That's powerful.  
 **Translation:** 
 
-**[7534.38s] English:** So do you want to respond to that?  
+**[7534.38s] English:** So, do you want to respond to that?  
 **Translation:** 
 
 **[7535.86s] English:** Yes.  
 **Translation:** 
 
-**[7537.96s] English:** So I don't think anybody should have children.  
+**[7537.96s] English:** So, I don't think anybody should have children.  
 **Translation:** 
 
 **[7541.18s] English:** It's a goal.  
@@ -4582,16 +4583,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7547.28s] English:** You can make.  
 **Translation:** 
 
-**[7549.38s] English:** I don't think anybody should have children for the goal of perpetuating their nation or expanding their society or for some.  
+**[7549.38s] English:** I don't think anybody should have children for the goal of perpetuating their nation or expanding their society, or for some other reason.  
 **Translation:** Vocabulary: perpetuating: 延续
 
-**[7560.00s] English:** I think they'd make horrible parents if that was the goal, the purpose of doing it.  
+**[7560.00s] English:** I think they'd make horrible parents if that was the goal—the purpose of doing it.  
 **Translation:** 
 
-**[7566.06s] English:** I think people should have children because they want to embrace that challenge, that beauty, that experience, that amazing, very, very hard, very, very difficult experience in life.  
-**Translation:** 
+**[7566.06s] English:** I think people should have children because they want to embrace that challenge, that beauty, that experience—that amazing, very, very hard, and very, very difficult—experience in life.  
+**Translation:** Vocabulary: embrace: 接纳
 
-**[7579.08s] English:** It's about being able to project the long term, but also being able to enjoy and love the creation of another human being, that process of creation.  
+**[7579.08s] English:** It's about being able to project the long-term future, but also being able to enjoy and love the creative process of another human being.  
 **Translation:** 
 
 **[7587.52s] English:** And it is a beautiful, self-interested thing.  
@@ -4603,16 +4604,16 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7592.20s] English:** I think way too many people have children.  
 **Translation:** 
 
-**[7594.16s] English:** You know, there's some awful parents out there that I wish would stop.  
+**[7594.16s] English:** You know, there are some awful parents out there that I wish would stop.  
 **Translation:** 
 
-**[7598.42s] English:** I mean, you know, life is precious and life of suffering is sad.  
+**[7598.42s] English:** I mean, you know, life is precious, and life in suffering is sad.  
 **Translation:** 
 
 **[7603.58s] English:** It's sad to see people suffer.  
 **Translation:** 
 
-**[7605.00s] English:** And a lot of people are born into situations and are born into parents that destroy their capacity to ever live a good life.  
+**[7605.00s] English:** And a lot of people are born into situations, and are born into parents who destroy their capacity to ever live a good life.  
 **Translation:** 
 
 **[7612.26s] English:** And that's a tragic and sad thing.  
@@ -4621,34 +4622,34 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7615.50s] English:** And so.  
 **Translation:** 
 
-**[7616.50s] English:** So I don't measure the health of a society in how many children they're having or a health of a couple, whether they have children or not.  
+**[7616.50s] English:** So, I don't measure the health of a society in how many children they're having, or the health of a couple, whether they have children or not.  
 **Translation:** 
 
 **[7626.58s] English:** Those are individual choices.  
 **Translation:** 
 
-**[7627.70s] English:** Some people make a choice not to have children, which is completely rational, consistent with their values.  
+**[7627.70s] English:** Some people make a choice not to have children, which is completely rational and consistent with their values.  
 **Translation:** 
 
-**[7633.08s] English:** And now when you look at a society overall, I do think having children or not having children is a reflection of something.  
+**[7633.08s] English:** And now, when you look at a society overall, I do think that having children or not having children is a reflection of something.  
 **Translation:** 
 
 **[7639.96s] English:** I think it's a reflection of a certain optimism about the future.  
 **Translation:** 
 
-**[7642.96s] English:** I think it's a reflection of thinking long term versus short term.  
-**Translation:** Vocabulary: optimism: 对未来乐观
+**[7642.96s] English:** I think it's a reflection of thinking long-term versus short-term.  
+**Translation:** Vocabulary: optimism: 对未来持乐观态度
 
 **[7645.92s] English:** I think.  
 **Translation:** 
 
-**[7646.60s] English:** Short term society doesn't have children.  
+**[7646.60s] English:** Short-term, society doesn't have children.  
 **Translation:** 
 
-**[7648.10s] English:** People don't have children there because children are long term investment.  
+**[7648.10s] English:** People don't have children there because children are a long-term investment.  
 **Translation:** 
 
-**[7652.24s] English:** They require real planning and real effort and real thinking about the long term.  
+**[7652.24s] English:** They require real planning, real effort, and real thinking about the long term.  
 **Translation:** 
 
 **[7657.94s] English:** But those are moral issues.  
@@ -4657,85 +4658,85 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7659.70s] English:** And again, we're confusing or mixing.  
 **Translation:** 
 
-**[7663.00s] English:** When I say Japan, look how well Japan has done.  
+**[7663.00s] English:** When I say Japan, look how well Japan has done!  
 **Translation:** 
 
-**[7665.80s] English:** I don't mean the specific Japanese people and how many kids they're having and what kind of life they're having, you know, in terms of these kind of particulars.  
-**Translation:** Vocabulary: particulars: 具体情况
+**[7665.80s] English:** I don't mean the specific Japanese people and how many kids they're having and what kind of life they're having, you know, in terms of these kinds of particulars.  
+**Translation:** Vocabulary: particulars: 细节
 
 **[7673.46s] English:** But think about the alternatives Japan faces.  
 **Translation:** 
 
-**[7676.10s] English:** If you look around the options, right, that they face.  
+**[7676.10s] English:** If you look around at the options they face, right.  
 **Translation:** 
 
-**[7680.00s] English:** they tried empire uh they tried nationalistic empire didn't turn out too well for them  
+**[7680.00s] English:** They tried an imperial system, but their nationalistic empire didn't turn out too well for them.  
 **Translation:** 
 
-**[7685.48s] English:** or anybody who they interacted with they could have become north korea we know how that turned  
-**Translation:** Vocabulary: interacted: 接触; nationalistic: 民族主义
+**[7685.48s] English:** Or, for anybody they interacted with, they could have become North Korea. We know how that turned out.  
+**Translation:** Vocabulary: imperial: 帝制; interacted: 交往; nationalistic: 民族主义的
 
-**[7691.74s] English:** out we know what that is they could have been cambodia if you've ever been to cambodia and  
+**[7691.74s] English:** Out, we know what that is. They could have been Cambodia—if you've ever been to Cambodia, and  
 **Translation:** 
 
-**[7694.90s] English:** seen the kind of poverty and yes maybe cambodians have lots of children but god i'd rather be in  
+**[7694.90s] English:** Seen the kind of poverty, and yes, maybe Cambodians have lots of children, but God, I'd rather be in...  
 **Translation:** Vocabulary: cambodia: 柬埔寨; cambodians: 柬埔寨人
 
-**[7701.04s] English:** japan any day than than have children in in the kind of poverty and horrific uh circumstances  
+**[7701.04s] English:** Japan any day than having children in the kind of poverty and horrific circumstances.  
 **Translation:** 
 
-**[7706.02s] English:** they have but in the context of the available um regimes that that were possible post-world  
-**Translation:** Vocabulary: horrific: 恐怖的
+**[7706.02s] English:** They have, but in the context of the available regimes that were possible post-World War.  
+**Translation:** Vocabulary: horrific: 恐怖的; regimes: 制度
 
-**[7713.68s] English:** war ii for the for the japanese team base they embraced one that generally led to prosperity  
+**[7713.68s] English:** World War II for the Japanese team, they embraced one that generally led to prosperity.  
 **Translation:** 
 
-**[7718.32s] English:** to freedom to individuals pursuing values not perfectly because they didn't implement the  
-**Translation:** Vocabulary: embraced: 接纳
+**[7718.32s] English:** To freedom, to individuals pursuing values—not perfectly, because they didn't implement the  
+**Translation:** Vocabulary: embraced: 接受; implement: 执行
 
-**[7724.50s] English:** philosophical foundation the moral foundation that i would like them to have they're still  
+**[7724.50s] English:** Philosophical and moral foundations that I would like them to have; they're still  
 **Translation:** 
 
-**[7729.50s] English:** being impacted by kantian hegelian whatever philosophy that's out there in the west that's  
+**[7729.50s] English:** Being impacted by Kantian, Hegelian, or whatever philosophy that's out there in the West that's  
 **Translation:** Vocabulary: hegelian: 黑格尔的; kantian: 康德的; philosophical: 哲学的
 
-**[7735.24s] English:** destroying  
+**[7735.24s] English:** Destroying  
 **Translation:** 
 
-**[7736.02s] English:** the better part so you give people freedom now what do they do with it and if they have a bad  
+**[7736.02s] English:** The better part is to give people freedom, now what do they do with it, and if they have a bad  
 **Translation:** 
 
-**[7741.74s] English:** philosophy they're going to do bad things with that freedom right you you tell people to do  
+**[7741.74s] English:** Philosophy—they're going to do bad things with that freedom, right? You tell people to do...  
 **Translation:** 
 
-**[7746.96s] English:** whatever they choose to do but if they have bad ideas they will choose to do bad things so it is  
+**[7746.96s] English:** Whatever they choose to do, but if they have bad ideas, they will choose to do bad things, so it is  
 **Translation:** 
 
-**[7753.76s] English:** true that the primacy of morality and the primacy of philosophy has to be recognized it's it's not  
+**[7753.76s] English:** True that the primacy of morality and the primacy of philosophy have to be recognized; it's not  
 **Translation:** 
 
-**[7760.10s] English:** the primacy of politics and indeed you don't get free societies unless you have some  
+**[7760.10s] English:** The primacy of politics, and indeed, you don't get free societies unless you have some.  
 **Translation:** Vocabulary: morality: 道德; primacy: 优先权
 
-**[7765.64s] English:** outside  
+**[7765.64s] English:** Outside.  
 **Translation:** 
 
-**[7766.02s] English:** elements of decent philosophy but you can get free societies with a rotten philosophy but they don't  
+**[7766.02s] English:** Elements of decent philosophy, but you can get free societies with a rotten philosophy, but they don't.  
 **Translation:** 
 
-**[7772.60s] English:** they don't stay free for very long don't understand how can it be a decent philosophy  
+**[7772.60s] English:** They don't stay free for very long. Don't understand how it can be a decent philosophy.  
 **Translation:** 
 
-**[7776.30s] English:** if it doesn't care about posterity if it does if if you you're willing to say i'm i'm i'm offering  
+**[7776.30s] English:** If it doesn't care about posterity, if it does, if you're willing to say, "I'm offering,  
 **Translation:** 
 
-**[7784.16s] English:** guidance i think you should live as a traitor all relationships should be voluntary those are those  
+**[7784.16s] English:** Guidance: I think you should live as a traitor. All relationships should be voluntary. Those are [the rules].  
 **Translation:** 
 
-**[7789.16s] English:** are interesting things but the moment that it comes to posterity to the future to there being a future  
-**Translation:** Vocabulary: voluntary: 自愿的
+**[7789.16s] English:** Are interesting things, but the moment it comes to posterity, to the future, and to there being a future.  
+**Translation:** Vocabulary: traitor: 叛徒; voluntary: 自愿的
 
-**[7795.20s] English:** Let's say that there were a society that lived the way, you know, in general, according to your view.  
+**[7795.20s] English:** Let's say that there was a society that lived, you know, in general, according to your view.  
 **Translation:** 
 
 **[7800.00s] English:** Let's say there was such a society.  
@@ -4744,10 +4745,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7801.84s] English:** How can you not care whether that society is capable of passing it on to the next generation or not?  
 **Translation:** 
 
-**[7806.82s] English:** But the way to pass it on to the next generation is through ideas and not through having children.  
+**[7806.82s] English:** But the way to pass it on to the next generation is through ideas, and not through having children.  
 **Translation:** 
 
-**[7811.72s] English:** Having children is an individual choice that some people are going to make and some people are not.  
+**[7811.72s] English:** Having children is an individual choice that some people are going to make, and some people are not.  
 **Translation:** 
 
 **[7815.66s] English:** But the fundamental that preserves the good life.  
@@ -4759,17 +4760,17 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7821.22s] English:** There's a sense in which.  
 **Translation:** 
 
-**[7821.92s] English:** If if if every generation from now on your your your society that was good at a certain point has half as many people in it, it's going to very quickly.  
+**[7821.92s] English:** If, if, if every generation from now on, your society that was good at a certain point has half as many people in it, it's going to very quickly.  
 **Translation:** 
 
-**[7831.78s] English:** It's just going to be overrun, overrun by whom?  
+**[7831.78s] English:** It's just going to be overrun. Overrun by whom?  
 **Translation:** 
 
-**[7834.74s] English:** What do you mean overrun by whom?  
+**[7834.74s] English:** What do you mean was it overrun by whom?  
 **Translation:** 
 
-**[7836.08s] English:** Are we just totally a historical if you're the Spartans and you have all of these, you know, like like warrior values, but you stop having children, you get overrun, you get defeated.  
-**Translation:** 
+**[7836.08s] English:** Are we just totally screwed if you're the Spartans and you have all of these, you know, like warrior values, but you stop having children; you get overrun, you get defeated.  
+**Translation:** Vocabulary: defeated: 失败; spartans: 斯巴达人
 
 **[7846.10s] English:** In the case of Sparta, that's a good thing, not a bad thing.  
 **Translation:** 
@@ -4777,17 +4778,17 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7847.90s] English:** But that's not my point.  
 **Translation:** Vocabulary: sparta: 斯巴达
 
-**[7849.22s] English:** You have to have the ability to have.  
+**[7849.22s] English:** You have to have the ability to do that.  
 **Translation:** 
 
 **[7851.76s] English:** Enough children to create enough wealth and enough power, enough strength.  
 **Translation:** 
 
-**[7856.02s] English:** Who makes these kind of conclusions and decisions about how many you make it as an individual and you decide that, you know, we're not talking about with the we're talking about what kind of intellectual, cultural, religious inheritance you give your children.  
+**[7856.02s] English:** Who makes these kinds of conclusions and decisions about how much you make it as an individual, and you decide that, you know? We're not talking about that; we're talking about what kind of intellectual, cultural, and religious inheritance you give your children.  
 **Translation:** 
 
 **[7870.28s] English:** Yes.  
-**Translation:** Vocabulary: inheritance: 遗产
+**Translation:** 
 
 **[7870.56s] English:** All right.  
 **Translation:** 
@@ -4813,113 +4814,113 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[7884.00s] English:** Would they not produce future generations?  
 **Translation:** 
 
-**[7885.98s] English:** I mean, as I said, every liberal, every liberal society on Earth, but I'm not defending democratic collapse is not a single liberal society on Earth that I'm willing to defend.  
+**[7885.98s] English:** I mean, as I said, every liberal society on Earth—every one—that I'm not willing to defend is one that's not a single liberal society on Earth, and I'm not defending democratic collapse.  
 **Translation:** 
 
 **[7895.94s] English:** But because they're not living.  
-**Translation:** 
+**Translation:** Vocabulary: collapse: 崩溃
 
-**[7897.76s] English:** OK, so OK, so they did not accept.  
+**[7897.76s] English:** Okay, so they did not accept.  
 **Translation:** 
 
 **[7899.88s] English:** OK, so they have no semblance.  
-**Translation:** Vocabulary: semblance: 表象
+**Translation:** 
 
-**[7901.90s] English:** I have a semblance of a political system that is a little bit like what I would like far from what I would.  
+**[7901.90s] English:** I have a semblance of a political system that is a little bit like what I would like, far from what I would want.  
 **Translation:** 
 
 **[7908.72s] English:** I know.  
-**Translation:** 
+**Translation:** Vocabulary: semblance: 表面形式
 
 **[7909.28s] English:** But they certainly don't have a moral foundation.  
 **Translation:** 
 
-**[7911.76s] English:** I believe that people who have the right moral foundation, most of them, not all of them, but most of them will have children.  
+**[7911.76s] English:** I believe that people who have the right moral foundation will, most of them, not all of them, but most of them, have children.  
 **Translation:** 
 
 **[7917.32s] English:** Most of them will continue into the future.  
 **Translation:** 
 
-**[7919.64s] English:** So what?  
+**[7919.64s] English:** So, what?  
 **Translation:** 
 
-**[7920.00s] English:** most of them will fight for a future but not because they care what happens in 200 years  
+**[7920.00s] English:** Most of them will fight for a future, but not because they care what happens in 200 years.  
 **Translation:** 
 
-**[7925.88s] English:** but because they care about their lifetime and part of having fun and enjoying one's lifetime  
+**[7925.88s] English:** But because they care about their lifetime, and part of having fun and enjoying one's lifetime.  
 **Translation:** 
 
-**[7930.56s] English:** is having kids is projecting into the future are you really going to tell me that that people have  
+**[7930.56s] English:** Is having kids projecting into the future? Are you really going to tell me that people have?  
 **Translation:** 
 
-**[7937.42s] English:** children because it's fun they're fun when they're four years old they're not fun when they're when  
-**Translation:** Vocabulary: projecting: 预测
+**[7937.42s] English:** Children, because it's fun; they're fun when they're four years old, but they're not fun when they're older.  
+**Translation:** Vocabulary: projecting: 预测未来
 
-**[7941.80s] English:** they're 15 no when they're 15 they're not fun no they're just not fun look you don't do learning  
+**[7941.80s] English:** They're not fun, no. They're just not fun at 15. Look, you don't do much learning.  
 **Translation:** 
 
-**[7947.06s] English:** so much today you don't you don't do this for fun you marriage also you don't do for fun there  
+**[7947.06s] English:** So much today, you don't do this for fun. You also don't get married for fun. There.  
 **Translation:** 
 
-**[7952.66s] English:** are times that are fun and there are times that are not fun look fun is not exactly but you  
+**[7952.66s] English:** There are times that are fun, and there are times that are not fun. Look, fun is not exactly... but you  
 **Translation:** 
 
-**[7957.90s] English:** certainly do it for you do it for happiness you do it for fulfillment you do it as a challenge you  
+**[7957.90s] English:** Certainly, you do it for happiness, you do it for fulfillment, you do it as a challenge, you.  
 **Translation:** Vocabulary: fulfillment: 满足感
 
-**[7963.78s] English:** do it for making for making your life better for making your life interesting for making your life  
+**[7963.78s] English:** Do it for making your life better, for making your life interesting, for making your life fulfilling.  
 **Translation:** 
 
-**[7970.14s] English:** challenging for embracing you know part of it is fun part of it is hard work but you do it  
-**Translation:** Vocabulary: embracing: 接纳
+**[7970.14s] English:** Challenging, for embracing — you know, part of it is fun, part of it is hard work, but you do it.  
+**Translation:** Vocabulary: embracing: 接纳; fulfilling: 充实
 
-**[7977.06s] English:** because it's it's it makes your life a better life it's very interesting sort of empirically  
+**[7977.06s] English:** Because it makes your life a better life, it's very interesting empirically.  
 **Translation:** 
 
-**[7983.38s] English:** speaking if you dissolve the cultural backbone where everybody comes up like the background  
-**Translation:** Vocabulary: backbone: 文化根基; empirically: 从经验上
+**[7983.38s] English:** Speaking, if you dissolve the cultural backbone, where everyone comes up like the background.  
+**Translation:** Vocabulary: backbone: 支撑体系; dissolve: 溶解; empirically: 从经验上
 
-**[7989.06s] English:** the moral ideas that everybody is raised with if you dissolve that and if you truly emphasize the  
+**[7989.06s] English:** The moral ideas that everybody is raised with—if you dissolve that, and if you truly emphasize the  
 **Translation:** 
 
-**[7994.48s] English:** individual uh i think your arm is saying it's going to naturally lead to the dissolution of  
+**[7994.48s] English:** Individual, I think your arm is saying it's going to naturally lead to the dissolution of  
+**Translation:** Vocabulary: dissolution: 瓦解; emphasize: 强调
+
+**[8002.10s] English:** Marriage and all these concepts, I think, so you're not really saying that everything is off the table, basically.  
 **Translation:** 
 
-**[8002.10s] English:** marriage and all these concepts i think so you're not so like everything well basically saying  
+**[8006.98s] English:** You're not going to be able to do it because you're not going to be able to do it because.  
 **Translation:** 
 
-**[8006.98s] English:** you're not going to be able to do it because you're not going to be able to do it because  
+**[8007.04s] English:** You're not going to choose some of these things; you're going to more and more choose.  
 **Translation:** 
 
-**[8007.04s] English:** you're not going to choose some of these things you're not you're going to more and more choose  
+**[8012.40s] English:** The short-term optimization versus the long-term optimization, beyond your own life, like posterity.  
+**Translation:** Vocabulary: optimization: 最优化
+
+**[8019.64s] English:** So, I don't think about posterity; I don't know what it means, really. I can project into my  
 **Translation:** 
 
-**[8012.40s] English:** the short-term optimization versus the long-term optimization beyond your own life like posterity  
-**Translation:** Vocabulary: optimization: 优化
-
-**[8019.64s] English:** so so i don't think about posterity i don't know what posterity means right i can project into my  
+**[8024.64s] English:** Children's life, maybe when I have grandchildren... to grandchildren, but it ends there. I can't.  
 **Translation:** 
 
-**[8024.64s] English:** children's life maybe when i have grandchildren to grandchildren but it ends there i i can't  
+**[8030.14s] English:** Project 300 years in the future, it's ridiculous to try to think about 300 years into the future.  
 **Translation:** 
 
-**[8030.14s] English:** project 300 years in the future it's ridiculous to try to think about 300 years into the future  
-**Translation:** 
+**[8034.56s] English:** Things change so much, and that's what the founding fathers understood—that's the conservative founding.  
+**Translation:** Vocabulary: founding: 创立
 
-**[8034.56s] English:** things change so much and and and that's the founding fathers that's the conservative founding  
-**Translation:** Vocabulary: founding: 奠基人
-
-**[8040.00s] English:** Well, no, I don't think.  
+**[8040.00s] English:** Well, no, I don't think so.  
 **Translation:** 
 
 **[8041.20s] English:** I think they set up a system.  
 **Translation:** 
 
-**[8042.54s] English:** I think the whole idea was to set up a system that was self-perpetuating that would, if people lived up to it, right, would perpetuate the self-independence.  
+**[8042.54s] English:** I think the whole idea was to set up a system that was self-perpetuating, that would, if people lived up to it, right, perpetuate self-independence.  
 **Translation:** 
 
 **[8052.00s] English:** No systems are self-perpetuating.  
-**Translation:** Vocabulary: perpetuate: 延续
+**Translation:** Vocabulary: perpetuate: 使永续
 
 **[8054.04s] English:** Things rise and fall.  
 **Translation:** 
@@ -4943,31 +4944,31 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[8076.14s] English:** Yes, I want people out there to rebel against conventional morality.  
-**Translation:** Vocabulary: morality: 道德
+**Translation:** Vocabulary: conventional: 传统的; morality: 道德
 
-**[8081.56s] English:** I think conventional morality is destructive to their own lives and broadly to posterity because I think it's unsustainable.  
+**[8081.56s] English:** I think conventional morality is destructive to their own lives and, broadly, to posterity because I think it's unsustainable.  
 **Translation:** 
 
 **[8087.58s] English:** It's not good.  
-**Translation:** Vocabulary: unsustainable: 不可持续
+**Translation:** Vocabulary: broadly: 广泛地; unsustainable: 不可持续
 
-**[8088.14s] English:** And this goes to.  
+**[8088.14s] English:** And this goes to:  
 **Translation:** 
 
 **[8088.64s] English:** I think conventional morality is Christian morality.  
 **Translation:** 
 
-**[8091.52s] English:** It's a morality that's been secularized through a Christian lens, and I think it's destructive.  
+**[8091.52s] English:** It's a morality that has been secularized through a Christian lens, and I think it's destructive.  
 **Translation:** 
 
 **[8095.74s] English:** But I don't want them to dump that and not replace it with something.  
+**Translation:** Vocabulary: secularized: 世俗化
+
+**[8099.54s] English:** I want, and I think it's necessary and essential, for people to have a moral code and to have a moral code.  
 **Translation:** 
 
-**[8099.54s] English:** I want, and I think it's necessary and essential for people to have a moral code and to have a moral code.  
-**Translation:** 
-
-**[8107.72s] English:** Morality is a set of guidelines to live your life.  
-**Translation:** 
+**[8107.72s] English:** Morality is a set of guidelines to live by.  
+**Translation:** Vocabulary: guidelines: 行为准则
 
 **[8111.00s] English:** It is a set of values to guide you, to help you identify what is good for you and what is bad for you.  
 **Translation:** 
@@ -4984,7 +4985,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8118.64s] English:** Well, hold on a second.  
 **Translation:** 
 
-**[8119.72s] English:** You're saying central to this morality that people should have is reason.  
+**[8119.72s] English:** You're saying that reason is central to this morality, and that people should have it.  
 **Translation:** 
 
 **[8125.56s] English:** Yes.  
@@ -4993,10 +4994,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8126.18s] English:** Okay.  
 **Translation:** 
 
-**[8126.88s] English:** You're not saying other things.  
+**[8126.88s] English:** You're not saying anything else.  
 **Translation:** 
 
-**[8128.34s] English:** You're basically saying reason will arrive a lot of things.  
+**[8128.34s] English:** You're basically saying that reason will arrive a lot of things.  
 **Translation:** 
 
 **[8132.66s] English:** Why are you so sure that reason is so important?  
@@ -5011,34 +5012,34 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8137.44s] English:** Hold on a second.  
 **Translation:** 
 
-**[8137.92s] English:** But it seems like obvious to you.  
+**[8137.92s] English:** But it seems obvious to you.  
 **Translation:** 
 
-**[8140.52s] English:** So first of all, humans have limited cognitive capacity.  
+**[8140.52s] English:** So, first of all, humans have limited cognitive capacity.  
 **Translation:** 
 
-**[8143.28s] English:** So even just to assume the reason could actually function that well from an artificial intelligence.  
+**[8143.28s] English:** So, even just to assume that the reason could actually function that well from an artificial intelligence.  
 **Translation:** 
 
-**[8149.06s] English:** A researcher perspective.  
+**[8149.06s] English:** A researcher's perspective.  
 **Translation:** 
 
-**[8151.58s] English:** The whole discussion about whether there is such a thing as artificial intelligence, whether that is what it is.  
+**[8151.58s] English:** The whole discussion about whether there is such a thing as artificial intelligence—and whether that is what it is.  
 **Translation:** 
 
-**[8158.16s] English:** But see, here's the thing.  
+**[8158.16s] English:** But see, here's the thing:  
 **Translation:** 
 
 **[8159.88s] English:** I mean.  
 **Translation:** 
 
-**[8160.00s] English:** And you're very confident about this particular thing, but not about other aspects of human nature that seems to be obviously present.  
+**[8160.00s] English:** And you're very confident about this particular thing, but not about other aspects of human nature that seem to be obviously present.  
 **Translation:** 
 
-**[8166.34s] English:** So yes, almost human relations, love, connection between us.  
+**[8166.34s] English:** So, yes, almost human-like relations, love, and connection between us.  
 **Translation:** 
 
-**[8172.54s] English:** So it's very possible to argue that all of the accomplishments of reason would not exist without the connection of other humans.  
+**[8172.54s] English:** So, it's very possible to argue that all of the accomplishments of reason would not exist without the connection to other humans.  
 **Translation:** 
 
 **[8179.78s] English:** Of course, that's true.  
@@ -5051,21 +5052,21 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[8188.76s] English:** When you look at the greatest inventions of human history, some people tell that story by individual inventors.  
-**Translation:** Vocabulary: inventors: 发明家
+**Translation:** Vocabulary: interacting: 相互作用; inventors: 发明家
 
 **[8194.70s] English:** You could argue that's true.  
 **Translation:** 
 
-**[8196.38s] English:** Some people say that it's a bunch of people in a room together.  
+**[8196.38s] English:** Some people say that it's just a bunch of people in a room together.  
 **Translation:** 
 
 **[8201.10s] English:** The idea is bubbling.  
 **Translation:** 
 
-**[8202.48s] English:** And if you're saying individual is primary and they have the full power and the capacity to make choices, I don't know if that's necessarily obviously true.  
-**Translation:** Vocabulary: bubbling: 酝酿中
+**[8202.48s] English:** And if you're saying that an individual is primary and has the full power and capacity to make choices, I don't know if that's necessarily obviously true.  
+**Translation:** Vocabulary: bubbling: 冒泡
 
-**[8212.78s] English:** So there's a straw manning going on here of my position, right?  
+**[8212.78s] English:** So, there's a straw manning going on here of my position, right?  
 **Translation:** 
 
 **[8216.02s] English:** Yep.  
@@ -5077,7 +5078,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8217.30s] English:** My favorite thing to do.  
 **Translation:** 
 
-**[8218.76s] English:** You don't do it, and you do it more politely than anybody else I know when you do it.  
+**[8218.76s] English:** You don't do it, and you do it more politely than anybody else I know when you actually do it.  
 **Translation:** 
 
 **[8224.04s] English:** Of course, we all stand on the shoulders of giants.  
@@ -5093,21 +5094,21 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[8232.88s] English:** Newton stood on the shoulders of giants.  
-**Translation:** 
+**Translation:** Vocabulary: newton: 牛顿
 
 **[8236.08s] English:** I don't know how collaborative he was.  
 **Translation:** 
 
-**[8237.70s] English:** He wasn't exactly known as a bubbling up and testing ideas out with other people.  
+**[8237.70s] English:** He wasn't exactly known for bubbling up and testing ideas out with other people.  
 **Translation:** 
 
 **[8242.74s] English:** But this is a metaphysical fact.  
 **Translation:** 
 
 **[8244.80s] English:** You can't eat for me.  
-**Translation:** Vocabulary: metaphysical: 形而上学的
+**Translation:** Vocabulary: metaphysical: 形而上的
 
-**[8246.84s] English:** There's no collective stomach.  
+**[8246.84s] English:** There's no such thing as a collective stomach.  
 **Translation:** 
 
 **[8248.14s] English:** You can't eat for me.  
@@ -5119,7 +5120,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8253.32s] English:** You can't think for me.  
 **Translation:** 
 
-**[8254.90s] English:** You can help stimulate my thought.  
+**[8254.90s] English:** You can help stimulate my thoughts.  
 **Translation:** 
 
 **[8257.08s] English:** You can challenge my thinking.  
@@ -5134,7 +5135,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8264.32s] English:** But I need to think.  
 **Translation:** 
 
-**[8265.56s] English:** But you can think all by yourself alone.  
+**[8265.56s] English:** But you can think all by yourself, alone.  
 **Translation:** 
 
 **[8267.92s] English:** What does that mean, all by yourself, right?  
@@ -5146,7 +5147,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8271.98s] English:** Yes, I can think on a desert island.  
 **Translation:** 
 
-**[8273.32s] English:** Can I think as big and as broad?  
+**[8273.32s] English:** Can I think big and broad?  
 **Translation:** 
 
 **[8278.14s] English:** As deep as I can?  
@@ -5155,301 +5156,301 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8279.70s] English:** Yes, I can.  
 **Translation:** 
 
-**[8280.00s] English:** in in uh uh aristotle's lyceum of course not i i'm a much better thinker in aristotle's lyceum  
+**[8280.00s] English:** In Aristotle's Lyceum, of course not; I am a much better thinker than Aristotle.  
 **Translation:** 
 
-**[8286.42s] English:** or in or in or in any kind of situation like this where you're going to challenge me and i have to  
-**Translation:** Vocabulary: lyceum: 讲堂
+**[8286.42s] English:** Or, in any kind of situation like this where you're going to challenge me and I have to...  
+**Translation:** Vocabulary: aristotle: 亚里士多德; lyceum: 吕克昂; thinker: 思想家
 
-**[8291.14s] English:** come back and i have to think deeply about what it is you said and why i'm not communicating very  
+**[8291.14s] English:** Come back, and I have to think deeply about what it is you said and why I'm not communicating very well.  
 **Translation:** 
 
-**[8295.46s] English:** effectively and why why you're not understanding me of course now you're causing me to think much  
+**[8295.46s] English:** Effectively, and why you're not understanding me? Of course, now you're causing me to think much more.  
 **Translation:** 
 
-**[8300.72s] English:** more deeply and to and to challenge me but it's still true that i have to think i and if i don't  
+**[8300.72s] English:** More deeply, and to challenge me, but it's still true that I have to think; and if I don't,  
 **Translation:** 
 
-**[8305.26s] English:** think for myself who's going to think for me right so so this is why i'm not a philosopher  
+**[8305.26s] English:** Think for myself; who's going to think for me, right? So, that's why I'm not a philosopher.  
 **Translation:** 
 
-**[8311.74s] English:** i'm certainly not an original thinker in that sense i you know i recognize the fact that  
+**[8311.74s] English:** I'm certainly not an original thinker in that sense. I, you know, I recognize the fact that  
 **Translation:** 
 
-**[8317.68s] English:** they're geniuses that are much smarter than me whether it's aristotle anyone or people that  
-**Translation:** Vocabulary: aristotle: 亚里士多德; geniuses: 天才
+**[8317.68s] English:** They're geniuses that are much smarter than me, whether it's Aristotle, anyone, or people that.  
+**Translation:** Vocabulary: geniuses: 天才
 
-**[8322.06s] English:** inspire me i study their work i try to understand it to the best of my ability but i don't take it as  
+**[8322.06s] English:** Inspire me; I study their work and try to understand it to the best of my ability, but I don't take it as  
 **Translation:** 
 
-**[8327.82s] English:** gospel i take it as you know this is something i need to figure out i need to learn it i need  
+**[8327.82s] English:** Gospel—I take it as, you know, this is something I need to figure out, I need to learn it, I need to.  
 **Translation:** Vocabulary: gospel: 金科玉律
 
-**[8334.52s] English:** to understand it and i need to make it clear to the people that i'm learning it i need to  
+**[8334.52s] English:** To understand it, and I need to make it clear to the people that I'm learning it, I need to.  
 **Translation:** 
 
-**[8335.24s] English:** understand it and i need to make it clear to the people that i'm learning it and i need to make  
+**[8335.24s] English:** Understand it, and I need to make it clear to the people that I'm learning it and I need to make  
 **Translation:** 
 
-**[8335.26s] English:** because it's good for my life it's important to me but i have to do the thinking it won't be mine  
+**[8335.26s] English:** Because it's good for my life, it's important to me, but I have to do the thinking; it won't be mine.  
 **Translation:** 
 
-**[8340.94s] English:** it it'll be on your hands but it won't be mine unless i've done the thinking to integrate it  
+**[8340.94s] English:** It will be on your hands, but it won't be mine unless I've done the thinking to integrate it.  
 **Translation:** Vocabulary: integrate: 融合
 
-**[8345.66s] English:** into my soul into my consciousness into my mind but it's still true that i have to think for  
+**[8345.66s] English:** Into my soul, into my consciousness, into my mind, but it's still true that I have to think for.  
 **Translation:** 
 
-**[8351.96s] English:** myself not on a desert island i you know and and i i i now regret ever using a desert island  
+**[8351.96s] English:** Myself, not on a desert island, I know, and now I regret ever using a desert island.  
+**Translation:** Vocabulary: consciousness: 清醒的意识
+
+**[8357.54s] English:** In the book, for example, because we've achieved something.  
 **Translation:** 
 
-**[8357.54s] English:** in in in the book as an example because yeah because uh we've achieved something  
+**[8362.98s] English:** Because clearly, it was misunderstood. I didn't make myself clear enough in the book, in terms of...  
+**Translation:** Vocabulary: misunderstood: 被误解
+
+**[8372.98s] English:** Of what I meant, but, um, you know, I don't advocate for thinking alone in a dark room.  
 **Translation:** 
 
-**[8362.98s] English:** because clearly it was misunderstood uh i didn't make myself clear enough in in the book in terms  
+**[8380.58s] English:** Not engaging with reality, not studying history, not knowing about the world—or on a deserted island.  
+**Translation:** Vocabulary: advocate: 提倡
+
+**[8385.90s] English:** Not interacting with your collectivist, no. I'm a trader, so I enjoy what we're doing right now.  
 **Translation:** 
 
-**[8372.98s] English:** of what i meant but um you know i i do not advocate for thinking alone in a dark room  
+**[8391.74s] English:** Because you're challenging me.  
+**Translation:** Vocabulary: trader: 交易者
+
+**[8392.98s] English:** You make me a better thinker, uh, it's interesting, you know, the fact that  
 **Translation:** 
 
-**[8380.58s] English:** not engaging with reality not studying history not knowing about the world or on a desert island  
+**[8397.60s] English:** A lot of people are going to watch this play.  
+**Translation:** Vocabulary: thinker: 思考者
+
+**[8400.00s] English:** Into it as well, but I would probably enjoy engaging with you in a conversation recording so.  
 **Translation:** 
 
-**[8385.90s] English:** not interacting with your collectivist no i'm a trader so i i enjoy what we're doing right now  
+**[8405.32s] English:** Yeah, there you go. I would enjoy engaging with you in conversation, even if it wasn't  
 **Translation:** 
 
-**[8391.74s] English:** because you're challenging me  
+**[8410.80s] English:** Being recorded, and even if it was just because, you know, that kind of conversation makes me better.  
 **Translation:** 
 
-**[8392.98s] English:** you make me a better thinker uh it's interesting you know the fact that  
+**[8415.72s] English:** There are some people who I wouldn't want around because they make it worse.  
 **Translation:** 
 
-**[8397.60s] English:** a lot of people are going to watch this play  
+**[8420.28s] English:** Walk away from the conversation because it is harmful to you, and this:  
 **Translation:** 
 
-**[8400.00s] English:** into it as well but i would probably enjoy engaging with you in conversation recording so  
+**[8423.92s] English:** Is where choice comes in. It's about being able to choose who I engage with; I don't always have  
 **Translation:** 
 
-**[8405.32s] English:** yeah there you go i i would enjoy engaging with you with your in conversation even if it wasn't  
+**[8429.34s] English:** That choice, because as a public intellectual giving a light show, you go in front of audiences and you don't  
 **Translation:** 
 
-**[8410.80s] English:** being recorded and even if it was because uh you know that kind of conversation makes me better  
+**[8432.98s] English:** Always choose who it is, but you want to choose who you engage with and who you don't, you want:  
 **Translation:** 
 
-**[8415.72s] English:** there's some people who i wouldn't there's some people who make it worse right that you want to  
+**[8437.82s] English:** To choose the forum in which you engage and how you engage, and the standard for me is reason.  
 **Translation:** 
 
-**[8420.28s] English:** walk that you walk away from the conversation because because they're harmful to you and this  
+**[8443.28s] English:** Is there no other standard? So, you ask the deep question to start off: "Why reason?" Because that's where...  
 **Translation:** 
 
-**[8423.92s] English:** is where choice comes in it's i want to be able to choose who i engage with i don't always have  
+**[8449.54s] English:** The values come from that; it's the only tool we have to discover truth, yes. You know, reason is something.  
 **Translation:** 
 
-**[8429.34s] English:** that choice because as a public intellmma light show you go in front of audiences you don't  
+**[8454.90s] English:** That it doesn't guarantee truth; it doesn't always guarantee thaw.  
 **Translation:** 
 
-**[8432.98s] English:** always choose who it is but you want to choose who you engage with and who you don't you want  
+**[8459.22s] English:** Revolution.  
 **Translation:** 
 
-**[8437.82s] English:** to choose the forum in which you engage and how you engage and the standard for me is reason there  
-**Translation:** 
-
-**[8443.28s] English:** is no other standard so you ask the deep question to start off why reason right because that's where  
-**Translation:** 
-
-**[8449.54s] English:** the values come from that's the only tool we have to discover truth yes you know reason is something  
-**Translation:** 
-
-**[8454.90s] English:** that it doesn't guarantee truth it doesn't guarantee thaw always  
-**Translation:** 
-
-**[8459.22s] English:** revolution  
-**Translation:** 
-
-**[8459.34s] English:** right it's fallible but it's all we have it's the tool in which we evaluate the world around us  
+**[8459.34s] English:** Right, it's fallible, but it's all we have; it's the tool with which we evaluate the world around us.  
 **Translation:** Vocabulary: evaluate: 评估
 
-**[8464.98s] English:** and we come to conclusions about it there is there just isn't other tool emotions emotions are  
+**[8464.98s] English:** And we come to conclusions about it, there is just isn't another tool; emotions are  
 **Translation:** 
 
-**[8471.48s] English:** are not tools of cognition consciousness is a tool emotion like love all of these things  
-**Translation:** Vocabulary: cognition: 认知
+**[8471.48s] English:** Are not tools of cognition; consciousness is a tool, like love, and all of these things.  
+**Translation:** Vocabulary: cognition: 认知; consciousness: 意识
 
-**[8479.06s] English:** are ways to experience the world to say that reason is the best tool but there's a difference  
+**[8479.06s] English:** Are there ways to experience the world? To say that reason is the best tool, but there's a difference.  
 **Translation:** 
 
-**[8484.46s] English:** in experiencing the world and and evaluating the world in terms of what is truth or what is not  
+**[8484.46s] English:** In experiencing the world and evaluating it in terms of what is truth or what is not.  
 **Translation:** Vocabulary: evaluating: 评估
 
-**[8490.18s] English:** as a scientist i appreciate the value of reason and emotions and love are consequences they're  
+**[8490.18s] English:** As a scientist, I appreciate the value of reason, and emotions and love are consequences; they're  
 **Translation:** 
 
-**[8496.26s] English:** not primary emotions are consequences of conclusions you've come to your emotions will  
+**[8496.26s] English:** Not all primary emotions are consequences of conclusions you've reached; your emotions will...  
 **Translation:** 
 
-**[8501.36s] English:** change very quickly relatively speaking when your evaluations of a situation will change  
+**[8501.36s] English:** Change can very quickly, relatively speaking, when your evaluations of a situation will change.  
 **Translation:** 
 
-**[8507.10s] English:** different people can see exactly the same scene and have completely different emotions  
+**[8507.10s] English:** Different people can see exactly the same scene and have completely different emotions.  
 **Translation:** Vocabulary: evaluations: 评估
 
-**[8511.10s] English:** because they're bringing different value systems and they're bringing  
+**[8511.10s] English:** Because they're bringing different value systems, and they're bringing  
 **Translation:** 
 
-**[8514.44s] English:** different thoughts to the process maybe love is primary but let me ask uh love is the same thing  
+**[8514.44s] English:** Different thoughts to the process: maybe love is primary, but let me ask—love is the same thing?  
 **Translation:** 
 
-**[8520.00s] English:** fall out of love with somebody why because you learn something new because you've discovered  
+**[8520.00s] English:** Fall out of love with somebody, why? Because you learn something new, because you've discovered...  
 **Translation:** 
 
-**[8523.86s] English:** something new about the person now you don't love them the wrong podcast to bring up love we'll talk  
+**[8523.86s] English:** Something new about the person? Now, you don't love them? The wrong podcast to bring up love. We'll talk.  
 **Translation:** 
 
-**[8527.98s] English:** forever about it so uh you're um you wrote the book the virtue of nationalism contrasting nation  
+**[8527.98s] English:** Forever about it, so uh, you're um, you wrote the book "The Virtue of Nationalism," contrasting nation-  
 **Translation:** 
 
-**[8535.04s] English:** states with empires and with global governance like united nations and so on so uh you argue  
-**Translation:** Vocabulary: governance: 治理方式
+**[8535.04s] English:** States with empires and those with global governance, like the United Nations, and so on; you argue,  
+**Translation:** Vocabulary: empires: 帝国; governance: 治理; virtue: 美德
 
-**[8540.88s] English:** that nationalism uniquely provides the quote the collective right of a free people to rule  
+**[8540.88s] English:** That nationalism uniquely provides the quote "the collective right of a free people to rule.  
 **Translation:** 
 
-**[8547.12s] English:** themselves so continuing our conversation why is this particular collection of humans we call a  
+**[8547.12s] English:** Themselves, so, continuing our conversation: Why is this particular collection of humans we call a  
 **Translation:** Vocabulary: uniquely: 唯一地
 
-**[8555.82s] English:** nation a uniquely powerful way to preserve the freedom of a people to have people rule themselves  
+**[8555.82s] English:** A nation has a uniquely powerful way to preserve the freedom of a people to rule themselves.  
 **Translation:** 
 
-**[8562.70s] English:** before i say anything on the subject i should emphasize that i'm not a rationalist i'm an  
+**[8562.70s] English:** Before I say anything on the subject, I should emphasize that I'm not a rationalist; I'm an  
+**Translation:** Vocabulary: emphasize: 强调
+
+**[8569.46s] English:** Empiricist, and I'm offering what I think is a valid observation of.  
 **Translation:** 
 
-**[8569.46s] English:** empiricist and i'm i'm i'm offering what uh what i think is a valid observation of  
-**Translation:** 
-
-**[8577.12s] English:** of human history i i don't have some kind of deductive framework for proving that you know  
+**[8577.12s] English:** Of human history, I don't have some kind of deductive framework for proving that, you know.  
 **Translation:** Vocabulary: deductive: 演绎的; empiricist: 经验主义者
 
-**[8581.62s] English:** that the nation is the best and empirically we know something about the way systems of national  
+**[8581.62s] English:** That the nation is the best, and empirically we know something about the way systems of national  
 **Translation:** 
 
-**[8586.64s] English:** states work and about the way empires work and the way tribal societies work uh what we don't  
+**[8586.64s] English:** States work, and about the way empires work and the way tribal societies work—uh, what we don't  
 **Translation:** Vocabulary: empirically: 通过经验; tribal: 部落的
 
-**[8592.10s] English:** know is uh you know is it possible to invent something else or i mean there's a lot of things  
+**[8592.10s] English:** Know, is it possible to invent something else? Or, I mean, there are a lot of things.  
 **Translation:** 
 
-**[8597.26s] English:** we don't know here so with the caveat that i'm i'm making an empirical observation the basic  
-**Translation:** Vocabulary: caveat: 免责声明; empirical: 经验的
+**[8597.26s] English:** We don't know here, so with the caveat that I'm making an empirical observation, the basic  
+**Translation:** Vocabulary: caveat: 警告; empirical: 经验的
 
-**[8603.42s] English:** argument is human beings form collectives  
+**[8603.42s] English:** The argument is that human beings form collectives.  
 **Translation:** 
 
-**[8607.12s] English:** naturally loyalty groups and for most of human history and prehistory as far as as as we know  
+**[8607.12s] English:** Naturally, loyalty groups, and for most of human history and prehistory, as far as we know.  
 **Translation:** Vocabulary: prehistory: 史前时期
 
-**[8614.48s] English:** human beings lived in tribal societies tribal societies are societies um in in in which there's  
+**[8614.48s] English:** Human beings lived in tribal societies, which are societies in which there's  
 **Translation:** 
 
-**[8621.04s] English:** um uh constant friction and constant warfare uh among very small groups among among families and  
+**[8621.04s] English:** Um, uh, there was constant friction and constant warfare among very small groups, among families, and  
+**Translation:** Vocabulary: friction: 矛盾; warfare: 战争
+
+**[8628.56s] English:** Clans, and we reach a turning point in human history with the invention of large-scale  
 **Translation:** 
 
-**[8628.56s] English:** clans and we reach a turning point in human history with the invention of large-scale  
-**Translation:** 
-
-**[8633.84s] English:** agriculture which allows the creation of vast wealth  
+**[8633.84s] English:** Agriculture, which allows the creation of vast wealth.  
 **Translation:** Vocabulary: clans: 氏族
 
-**[8637.12s] English:** it allows the establishment of standing armies  
+**[8637.12s] English:** It allows the establishment of standing armies.  
 **Translation:** 
 
-**[8640.00s] English:** instead of militias. Sargon of Akkad says, I can pay 5,000 men to do nothing other than to drill  
-**Translation:** Vocabulary: militias: 民兵
-
-**[8648.46s] English:** in the arts of war, and then I'm going to send them out to conquer the neighboring city-states,  
+**[8640.00s] English:** Instead of relying on militias, Sargon of Akkad says, "I can pay 5,000 men to do nothing other than to drill.  
 **Translation:** 
 
-**[8651.98s] English:** and there you have empire. The Bible, which is the source of our image, our conception of a world  
+**[8648.46s] English:** In the arts of war, and then I'm going to send them out to conquer the neighboring city-states.  
+**Translation:** 
+
+**[8651.98s] English:** And there you have the Empire. The Bible, which is the source of our image and conception of a world,...  
 **Translation:** Vocabulary: conception: 观念; neighboring: 相邻的
 
-**[8659.40s] English:** of independent nations that are not constantly trying to conquer one another, the source of that  
+**[8659.40s] English:** Of independent nations that are not constantly trying to conquer one another, the source of that  
 **Translation:** 
 
-**[8665.96s] English:** is the Bible. The biblical world is one in which Israel and various other small nations are trying  
-**Translation:** Vocabulary: biblical: 圣经的
+**[8665.96s] English:** The Bible describes a world in which Israel and various other small nations are trying.  
+**Translation:** 
 
-**[8678.78s] English:** to fight for their independence against world empires, against empires Babylonian, Assyrian,  
+**[8678.78s] English:** To fight for their independence against world empires, such as Babylonian and Assyrian,  
 **Translation:** 
 
 **[8686.56s] English:** Persian, Egyptian, which aspire to rule the world. My claim is fundamentally twofold.  
-**Translation:** Vocabulary: assyrian: 巴比伦; babylonian: 巴比伦; fundamentally: 根本上; persian: 波斯; twofold: 两方面
+**Translation:** Vocabulary: aspire: 追求; assyrian: 亚述人; babylonian: 巴比伦人; empires: 帝国; fundamentally: 根本上; persian: 波斯人; twofold: 两方面
 
-**[8695.96s] English:** It's moral that whenever you conquer a foreign nation, you're murdering and you're stealing,  
+**[8695.96s] English:** It is immoral to conquer a foreign nation, murdering and stealing in the process.  
 **Translation:** 
 
-**[8701.52s] English:** you're destroying, as your own would say, you're using force to cause people to submit.  
+**[8701.52s] English:** You're destroying, as they would say, you're using force to cause people to submit.  
+**Translation:** Vocabulary: submit: 屈服
+
+**[8710.46s] English:** So, there is something in the prophets that rebels against this ongoing atrocity and carnage.  
 **Translation:** 
 
-**[8710.46s] English:** So, there is something in the prophets that rebels against this ongoing atrocity and carnage of  
+**[8719.26s] English:** Trying to take over the whole world. And there's a prudential, practical,  
+**Translation:** Vocabulary: atrocity: 暴行; carnage: 屠杀; prophets: 先知; prudential: 审慎的; rebels: 反抗
+
+**[8725.78s] English:** Practical argument.  
 **Translation:** 
 
-**[8719.26s] English:** trying to take over the whole world. And there's a prudential, practical,  
-**Translation:** Vocabulary: atrocity: 暴行; carnage: 屠杀; prophets: 先知; prudential: 审慎
-
-**[8725.78s] English:** practical argument.  
+**[8725.96s] English:** Which is that the world is governed best when there are multiple nations, when they're free to.  
 **Translation:** 
 
-**[8725.96s] English:** Which is that the world is governed best when there are multiple nations, when they're free to  
+**[8732.78s] English:** Experiment and chart their own course. That means they have their own route to God. They have their  
 **Translation:** 
 
-**[8732.78s] English:** experiment and chart their own courses. That means they have their own route to God. They have their  
-**Translation:** 
-
-**[8739.10s] English:** own moralities. They have their own forms of economy and government. And what tends to happen  
+**[8739.10s] English:** Own moralities. They have their own forms of economy and government. And what tends to happen:  
 **Translation:** Vocabulary: moralities: 道德观
 
-**[8745.76s] English:** in history is that when something is successful, when something looks like, when people, a different  
+**[8745.76s] English:** In history, it is often the case that when something is successful, when something looks like it will continue to be so, and when people believe it will remain that way.  
 **Translation:** 
 
-**[8752.00s] English:** nation looks at it and says, wow, those people are, they're flourishing, they're succeeding,  
+**[8752.00s] English:** The nation looks at it and says, "Wow, those people are flourishing and succeeding.  
 **Translation:** Vocabulary: flourishing: 繁荣昌盛
 
-**[8755.36s] English:** then it's imitated. And, you know, in the way that, you know,  
+**[8755.36s] English:** Then it's imitated. And, you know, in the way that, you know,  
 **Translation:** 
 
-**[8760.00s] English:** The Dutch invented the stock market, and the English said, look, that makes them powerful, so we'll adopt it.  
+**[8760.00s] English:** The Dutch invented the stock market, and the English said, "Look, that makes them powerful, so we'll adopt it.  
 **Translation:** Vocabulary: imitated: 模仿
 
-**[8766.80s] English:** So there's endless examples of that.  
+**[8766.80s] English:** So, there are endless examples of that.  
 **Translation:** 
 
-**[8769.68s] English:** So that's the argument for it.  
+**[8769.68s] English:** So, that's the argument for it.  
 **Translation:** 
 
-**[8770.78s] English:** The argument is since we don't know a priori deductively from self-evident principles what is best, it's best to have a world in which people are trying different things.  
+**[8770.78s] English:** The argument is that since we don't know a priori, deductively, from self-evident principles what is best, it's best to have a world in which people are trying different things.  
 **Translation:** 
 
-**[8784.58s] English:** So a quick question, because the word nationalism sometimes is presented in a negative light in connection to the nationalism of Nazi Germany, for example.  
-**Translation:** Vocabulary: deductively: 演绎地
+**[8784.58s] English:** So, a quick question: because the word "nationalism" sometimes is presented in a negative light, in connection to the nationalism of Nazi Germany, for example.  
+**Translation:** Vocabulary: deductively: 演绎地; priori: 先验地
 
-**[8796.50s] English:** So you're looking empirically at a world of nations that respect each other.  
+**[8796.50s] English:** So, you're looking empirically at a world of nations that respect each other.  
 **Translation:** 
 
-**[8803.68s] English:** I use the word nationalism the way that I inherited it in my tradition, which is it's a principled standpoint that says that the world is governed best.  
-**Translation:** Vocabulary: empirically: 通过实验; inherited: 继承; principled: 原则性的; standpoint: 观点
+**[8803.68s] English:** I use the word nationalism the way I inherited it in my tradition—that is, it's a principled standpoint that says the world is governed best.  
+**Translation:** Vocabulary: empirically: 通过经验; inherited: 继承; principled: 原则性的; standpoint: 立场
 
 **[8812.88s] English:** When many nations are able to be independent and chart their own course, that's nationalism.  
 **Translation:** 
 
-**[8819.54s] English:** As far as the Nazis, Hitler's an imperialist.  
-**Translation:** Vocabulary: imperialist: 帝国主义者; nazis: 纳粹分子
-
-**[8822.72s] English:** He hated nation states.  
+**[8819.54s] English:** As far as the Nazis are concerned, Hitler was an imperialist.  
 **Translation:** 
 
-**[8824.26s] English:** His whole theory, if you pick up, I don't recommend doing this, but if you do.  
+**[8822.72s] English:** He hated nation-states.  
 **Translation:** 
 
-**[8828.90s] English:** I'm actually reading it right now, Mein Kampf.  
+**[8824.26s] English:** His whole theory: if you pick it up (I don't recommend doing this, but if you do).  
+**Translation:** 
+
+**[8828.90s] English:** I'm actually reading it right now, "Mein Kampf.  
 **Translation:** 
 
 **[8830.46s] English:** Right.  
@@ -5459,27 +5460,27 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[8840.14s] English:** And he detests the idea.  
-**Translation:** Vocabulary: explicitly: 明确地; mistress: 主宰
+**Translation:** Vocabulary: explicitly: 明确地; mistress: 主宰者
 
-**[8842.88s] English:** He detests the idea of the independent nation state because he sees it as weak and a feat.  
+**[8842.88s] English:** He detests the idea of the independent nation-state because he sees it as weak and a liability.  
 **Translation:** 
 
 **[8847.10s] English:** He might as well have said it's Jewish.  
+**Translation:** Vocabulary: liability: 负担
+
+**[8848.58s] English:** So, let me ask from an individual's perspective: how do you view the value of loving one's country in terms of nationalism?  
 **Translation:** 
 
-**[8848.58s] English:** So let me ask from the individual perspective, for nationalism, what do you make of the value of the love of country?  
-**Translation:** 
-
-**[8858.00s] English:** The reason I connect that, so I personally, what would you say, a patriot?  
-**Translation:** 
+**[8858.00s] English:** The reason I make that connection, so I personally, what would you say—am I a patriot?  
+**Translation:** Vocabulary: patriot: 爱国者
 
 **[8865.76s] English:** I love the love of country.  
 **Translation:** 
 
-**[8868.48s] English:** Or I am susceptible, or how should I, in an Iranian way.  
+**[8868.48s] English:** Or I am susceptible, or how should I, in an Iranian way?  
 **Translation:** Vocabulary: iranian: 伊朗的; susceptible: 易受影响的
 
-**[8872.88s] English:** I enjoy, I, in a self-interested.  
+**[8872.88s] English:** I enjoy in a self-interested way.  
 **Translation:** 
 
 **[8876.90s] English:** Love is good.  
@@ -5494,133 +5495,133 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[8879.40s] English:** Well, I love.  
 **Translation:** 
 
-**[8880.00s] English:** lot of things but i'm saying this particular love is a little bit contentious which is loving your  
+**[8880.00s] English:** Lots of things, but I'm saying that this particular kind of love is a little bit contentious, which is loving your  
 **Translation:** Vocabulary: contentious: 有争议的
 
-**[8885.10s] English:** country that's an interesting love that some people are a little uncomfortable with uh even  
+**[8885.10s] English:** Country that's an interesting love that some people are a little uncomfortable with, uh, even  
 **Translation:** 
 
-**[8891.10s] English:** with especially when that love you know i grew up in the soviet union to say you you know you you  
+**[8891.10s] English:** With especially when that love, you know, I grew up in the Soviet Union. To say you, you know, you, you.  
 **Translation:** 
 
-**[8896.98s] English:** just love the country it represents a certain thing to you and it's not you don't think like  
+**[8896.98s] English:** Just love the country; it represents a certain thing to you, and it's not about thinking alike.  
 **Translation:** 
 
-**[8901.10s] English:** philosophically like i was uh marching around with with like marks under my arm or something  
-**Translation:** Vocabulary: philosophically: 哲学地
+**[8901.10s] English:** Philosophically, I was like marching around with marks under my arm or something.  
+**Translation:** Vocabulary: philosophically: 从哲学上说
 
-**[8906.26s] English:** like that it's just loving uh community at the level of nation it's very interesting i don't  
+**[8906.26s] English:** Like that, it's just loving. At the level of a nation, it's very interesting. I don't  
 **Translation:** 
 
-**[8914.18s] English:** know if that's an artifact of the past that we're going to have to strip away um i don't know if i  
-**Translation:** Vocabulary: artifact: 遗物
+**[8914.18s] English:** Know if that's an artifact of the past that we're going to have to strip away, um, I don't know if I  
+**Translation:** Vocabulary: artifact: 过去遗留物
 
-**[8920.22s] English:** was just raised in that kind of community but i appreciate that my i guess the thing i'm torn  
+**[8920.22s] English:** Was just raised in that kind of community, but I appreciate that—I guess the thing I'm torn about is...  
 **Translation:** 
 
-**[8926.38s] English:** about is that love of country that i have in my heart that i now love america and i consider  
+**[8926.38s] English:** About is that love of country that I have in my heart. That's why I now love America, and I consider  
 **Translation:** 
 
-**[8933.06s] English:** myself an american that would have  
+**[8933.06s] English:** Myself, an American that would have.  
 **Translation:** 
 
-**[8936.08s] English:** easily  
+**[8936.08s] English:** Easily.  
 **Translation:** 
 
-**[8936.26s] English:** if i was born earlier been used by stalin and i would have proudly died on the battlefield  
+**[8936.26s] English:** If I had been born earlier and been used by Stalin, I would have proudly died on the battlefield.  
 **Translation:** 
 
-**[8942.48s] English:** i would have probably died if i was in nazi germany as a german and i would probably die  
-**Translation:** Vocabulary: battlefield: 战场; stalin: 斯大林
+**[8942.48s] English:** I would have probably died if I was in Nazi Germany as a German, and I would probably die.  
+**Translation:** Vocabulary: battlefield: 战场; proudly: 自豪地; stalin: 斯大林
 
-**[8948.70s] English:** as an american are you sure about these things yes that's interesting no i think about this a  
+**[8948.70s] English:** As an American, are you sure about these things? Yes, that's interesting. No, I think about this a lot.  
 **Translation:** 
 
-**[8954.34s] English:** lot it's interesting to run a radical counterfactual and be sure of the answer i mean i'm not sure i  
+**[8954.34s] English:** It's interesting to run a radical counterfactual and be sure of the answer. I mean, I'm not sure why.  
 **Translation:** Vocabulary: counterfactual: 假设情景
 
-**[8960.02s] English:** mean but i think about this a lot because obviously i'm really interested in history and i put my  
+**[8960.02s] English:** Mean, but I think about this a lot because, obviously, I'm really interested in history and I put my  
 **Translation:** 
 
-**[8965.44s] English:** this is the way i think about it and i think about it and i think about it and i think about it and i  
+**[8965.44s] English:** This is the way I think about it, and I think about it, and I think about it, and I think about it, and I  
 **Translation:** 
 
-**[8966.24s] English:** i think about most situations as i empathize i really try to do hard work of placing myself in  
+**[8966.24s] English:** I think about most situations as I empathize, I really try to do the hard work of placing myself in.  
 **Translation:** 
 
-**[8972.78s] English:** that moment and thinking through it i'm just okay i just know myself psychologically what  
-**Translation:** Vocabulary: empathize: 设身处地; psychologically: 心理上
+**[8972.78s] English:** That moment, and thinking through it, I'm just okay—I just know myself psychologically what.  
+**Translation:** Vocabulary: psychologically: 心理上
 
-**[8978.14s] English:** what i'm susceptible to uh that's a negative way to phrase it but what i would love  
+**[8978.14s] English:** What I'm susceptible to — that's a negative way to phrase it — but what I would love is...  
 **Translation:** 
 
-**[8984.10s] English:** doing and so i'm just saying my question is um is the love of nation a useful or a powerful moral  
+**[8984.10s] English:** Doing and so, I'm just saying: My question is, is the love of nation a useful or a powerful moral?  
+**Translation:** Vocabulary: susceptible: 易受影响的
+
+**[8996.24s] English:** Sort of from a moral philosophy perspective, uh, a good  
 **Translation:** 
 
-**[8996.24s] English:** sort of from a moral philosophy perspective uh a good  
+**[9000.00s] English:** Thing. I think it is a good thing. But before we ask whether it's a good thing, I think,...  
 **Translation:** 
 
-**[9000.00s] English:** thing. I think it is a good thing. But before we ask whether it's a good thing, I think  
+**[9004.12s] English:** It's worth asking whether there's any way to live without it. The idea of national independence,...  
 **Translation:** 
 
-**[9004.12s] English:** it's worth asking whether there's any way to live without it. The idea of national independence  
-**Translation:** 
-
-**[9009.64s] English:** of a world or a continent, which politically is governed by multiple independent national states,  
+**[9009.64s] English:** Of a world or a continent, which politically is governed by multiple independent national states,  
 **Translation:** Vocabulary: politically: 政治上
 
-**[9016.98s] English:** that is a political theory. Somebody came up with that. In the Bible or elsewhere,  
+**[9016.98s] English:** That is a political theory. Someone came up with that. It's mentioned in the Bible or elsewhere.  
 **Translation:** 
 
-**[9022.86s] English:** someone came up with this idea and sold it, and a lot of people like it.  
+**[9022.86s] English:** Someone came up with this idea and sold it, and a lot of people like it.  
 **Translation:** 
 
 **[9026.78s] English:** But the nation is not an invention. Every place in human history that we have any record of,  
 **Translation:** 
 
-**[9036.14s] English:** there are nations. And so the fact of people creating families, families creating an alliance  
+**[9036.14s] English:** There are nations. And so the fact that people create families, and families create alliances.  
+**Translation:** Vocabulary: alliances: 联盟
+
+**[9049.06s] English:** Of clans, clans creating alliances of tribes, tribes creating alliances.  
 **Translation:** 
 
-**[9049.06s] English:** of clans, clans creating alliances of tribes, tribes creating alliances  
+**[9053.66s] English:** Of an alliance.  
+**Translation:** Vocabulary: clans: 氏族; tribes: 部落
+
+**[9056.78s] English:** It becomes the nation. We see that everywhere in human history, and everywhere we look. And the love.  
 **Translation:** 
 
-**[9053.66s] English:** of an alliance.  
-**Translation:** Vocabulary: alliances: 联盟; clans: 氏族
+**[9064.38s] English:** Of a group of tribes that have come together in order to fight opponents that are trying to  
+**Translation:** Vocabulary: opponents: 对手
 
-**[9056.78s] English:** It becomes the nation. We see that everywhere in human history, everywhere we look. And the love  
+**[9070.68s] English:** Destroy your way of life, and steal your land and harm your women and children. The love of  
 **Translation:** 
 
-**[9064.38s] English:** of a group of tribes that have come together in order to fight opponents that are trying to  
+**[9079.76s] English:** Of the leadership that brings it together here. This is, you know, a George Washington.  
 **Translation:** 
 
-**[9070.68s] English:** destroy your way of life and steal your land and harm your women and children. The love of  
+**[9086.78s] English:** Washington-type figure, or an Alfred the Great-type figure, or Saul, the biblical Saul. Somebody  
 **Translation:** 
 
-**[9079.76s] English:** of the leadership that brings it together here. This is, you know, a George Washington,  
+**[9093.98s] English:** Who has the wisdom and the daring to unite the tribes, overcome their internal mutual hatreds, and  
+**Translation:** Vocabulary: alfred: 英王阿尔弗雷德; biblical: 圣经中的; hatreds: 仇恨
+
+**[9104.32s] English:** Grievances, and rally them around a set of ideas, a language, a tradition, and an identity, as people say.  
 **Translation:** 
 
-**[9086.78s] English:** Washington type figure, or an Alfred the Great type figure, or Saul, the biblical Saul. Somebody  
+**[9112.88s] English:** Today, that love is eradicated from human beings. And so, you know, there are a lot of people that  
+**Translation:** Vocabulary: grievances: 不满
+
+**[9116.78s] English:** Are they trying to get rid of it? Maybe we'll have brave new world people take drugs in order to get rid of it.  
 **Translation:** 
 
-**[9093.98s] English:** who has the wisdom, the daring to unite the tribes, overcome their internal mutual hatreds and  
-**Translation:** Vocabulary: biblical: 圣经中的
-
-**[9104.32s] English:** grievances, and rally them around a set of ideas, a language, a tradition, an identity, as people say  
-**Translation:** 
-
-**[9112.88s] English:** today. That love is eradicable from human beings. And so, you know, there's a lot of people that  
-**Translation:** Vocabulary: grievances: 痛苦
-
-**[9116.78s] English:** are trying to get rid of it. Maybe we'll have brave new world people take drugs in order to get rid of it.  
-**Translation:** 
-
-**[9120.00s] English:** But the problem is that could be leveraged by authoritarian regimes.  
-**Translation:** Vocabulary: authoritarian: 专制主义; leveraged: 利用
+**[9120.00s] English:** But the problem is that it could be leveraged by authoritarian regimes.  
+**Translation:** Vocabulary: authoritarian: 专制的; leveraged: 利用; regimes: 政权
 
 **[9123.42s] English:** Yes, but that's true of everything.  
 **Translation:** 
 
-**[9125.18s] English:** It's like saying, you know, you can have children and you can teach them to be evil.  
+**[9125.18s] English:** It's like saying: You know, you can have children and teach them to be evil.  
 **Translation:** 
 
 **[9128.46s] English:** You can make a lot of money.  
@@ -5644,7 +5645,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9137.00s] English:** You guys are making love this primary, which I don't think it is.  
 **Translation:** 
 
-**[9141.14s] English:** How dare you, Yaron.  
+**[9141.14s] English:** How dare you, Yaron!  
 **Translation:** 
 
 **[9142.26s] English:** I know.  
@@ -5657,24 +5658,24 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[9148.64s] English:** It's not unconditional.  
-**Translation:** Vocabulary: conditional: 条件性的; unconditional: 无条件的
+**Translation:** Vocabulary: conditional: 有条件的; unconditional: 无条件的
 
 **[9150.46s] English:** Love is conditioned on the value that's presented to you.  
 **Translation:** 
 
-**[9153.82s] English:** So I lived through this experience in my own life.  
+**[9153.82s] English:** So, I lived through this experience in my own life.  
 **Translation:** 
 
-**[9157.02s] English:** I grew up in Israel at a time of everything was geared towards patriotism and the state.  
+**[9157.02s] English:** I grew up in Israel at a time when everything was geared towards patriotism and the state.  
 **Translation:** 
 
-**[9168.02s] English:** I would say I was trained to, when I saw a grenade, to jump on it because that was, you know,  
-**Translation:** Vocabulary: grenade: 手榴弹; patriotism: 爱国主义
-
-**[9174.64s] English:** every song and every story and everything was about.  
+**[9168.02s] English:** I would say I was trained to, when I saw a grenade, to jump on it, because that was, you know,  
 **Translation:** 
 
-**[9178.64s] English:** The state is everything and you should sacrifice.  
+**[9174.64s] English:** Every song, and every story, and everything was about.  
+**Translation:** 
+
+**[9178.64s] English:** The state is everything, and you should sacrifice.  
 **Translation:** Vocabulary: sacrifice: 牺牲
 
 **[9182.32s] English:** And, you know, when the flag went up, I got teary-eyed.  
@@ -5683,17 +5684,17 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9185.76s] English:** I mean, I bought into it completely.  
 **Translation:** 
 
-**[9189.62s] English:** And at some point I rejected that.  
+**[9189.62s] English:** And at some point, I rejected that.  
 **Translation:** 
 
-**[9191.74s] English:** And I changed and I changed my alliance and I rejected my love of Israel.  
+**[9191.74s] English:** And I changed, and I changed my alliance, and I rejected my love of Israel.  
 **Translation:** 
 
 **[9196.22s] English:** It's not that I don't love it anymore, but it's certainly not my top love.  
 **Translation:** 
 
-**[9199.28s] English:** And it's certainly I'm certainly not looking for the grenade to jump on and I'm volunteering to go fight the war there.  
-**Translation:** Vocabulary: volunteering: 主动请缨
+**[9199.28s] English:** And, it's certainly not that I'm looking for the grenade to jump on, and I'm volunteering to go fight the war there.  
+**Translation:** Vocabulary: grenade: 手榴弹; volunteering: 自愿
 
 **[9204.64s] English:** And I fell in love from a distance with the ideology.  
 **Translation:** 
@@ -5707,7 +5708,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9213.08s] English:** Right.  
 **Translation:** 
 
-**[9213.44s] English:** And I could see myself falling in love, out of love with America, given where it's heading.  
+**[9213.44s] English:** And I could see myself falling in love, or out of love with America, given where it's heading.  
 **Translation:** 
 
 **[9217.46s] English:** Right.  
@@ -5716,7 +5717,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9217.72s] English:** It's not automatic.  
 **Translation:** 
 
-**[9219.04s] English:** It's conditioned on what it is that it represents and what it is, what value it represents for me.  
+**[9219.04s] English:** It's conditioned on what it is that it represents, and what value it is worth to me.  
 **Translation:** 
 
 **[9227.08s] English:** You know, and I think that's always the case with love.  
@@ -5728,7 +5729,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9235.48s] English:** That's the ideal.  
 **Translation:** 
 
-**[9236.54s] English:** And hopefully most children love their parents.  
+**[9236.54s] English:** And hopefully, most children love their parents.  
 **Translation:** 
 
 **[9238.72s] English:** Because their parents.  
@@ -5737,73 +5738,73 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9239.28s] English:** But sometimes.  
 **Translation:** 
 
-**[9240.00s] English:** children fall out of love with their parents because their parents don't deserve their love  
+**[9240.00s] English:** Children fall out of love with their parents because their parents don't deserve their love.  
 **Translation:** 
 
-**[9243.62s] English:** uh and and the same with this is the same with the other way around i think i think parents are  
+**[9243.62s] English:** And the same goes for the other way around, I think. Parents are  
 **Translation:** 
 
-**[9248.18s] English:** capable of not loving their children okay so it's it's love is a is a conditional thing it's not  
+**[9248.18s] English:** Capable of not loving their children, okay? So, it's a conditional thing; it's not necessarily unconditional.  
 **Translation:** 
 
-**[9253.00s] English:** automatic but but let me let me point out an agreement with let me say something of an agreement  
+**[9253.00s] English:** Automatic, but let me point out an agreement. Let me say something in agreement.  
+**Translation:** Vocabulary: conditional: 有条件的; unconditional: 无条件的
+
+**[9257.20s] English:** You're trying to bribe me with an agreement to soften the blow, right? Mostly, I like to talk to...  
 **Translation:** 
 
-**[9257.20s] English:** you're trying to bribe me with an agreement to soften the blow right mostly i like to talk to  
-**Translation:** 
-
-**[9263.80s] English:** your own about his ideas and i don't want to talk about ayn rand but i want to say something  
+**[9263.80s] English:** Your own thoughts about his ideas, and I don't want to talk about Ayn Rand, but I want to say something.  
 **Translation:** Vocabulary: bribe: 贿赂
 
-**[9267.46s] English:** just just one one thing about ayn rand uh all my kids all my kids read ayn rand's books my father  
+**[9267.46s] English:** Just one thing about Ayn Rand: all my kids read her books, my father included.  
 **Translation:** 
 
-**[9275.24s] English:** read the fountainhead i don't know like you know like we we know ayn rand and um i i'll tell you  
+**[9275.24s] English:** Read "The Fountainhead," I don't know, like, you know, like we know Ayn Rand, and um, I'll tell you.  
 **Translation:** 
 
-**[9283.62s] English:** it is incredibly difficult reading for me it's it's it's painful it's painful to read why is it  
+**[9283.62s] English:** It is incredibly difficult reading for me. It's painful, it's painful to read. Why is it?  
 **Translation:** 
 
-**[9290.20s] English:** painful not because i disagree with the uh with with the view of of trading and business  
+**[9290.20s] English:** Painful, not because I disagree with the view on trading and business.  
 **Translation:** 
 
-**[9297.20s] English:** and  
+**[9297.20s] English:** And  
 **Translation:** 
 
-**[9297.46s] English:** the creativity of it and and you know and and reared in metal i mean you know that stuff that  
+**[9297.46s] English:** The creativity of it, and you know, and reared in metal—I mean, you know, that stuff that  
+**Translation:** Vocabulary: reared: 养大的
+
+**[9302.48s] English:** Stuff, uh, moves me, and I do admire it, but to read, you know, a book that's a  
 **Translation:** 
 
-**[9302.48s] English:** stuff uh moves me and and and and and and i i do admire it but to read you know a book that's a  
+**[9310.84s] English:** Thousand pages long, in which nobody is having children, and nobody is having a stable marriage.  
 **Translation:** 
 
-**[9310.84s] English:** thousand pages long in which nobody nobody is having children nobody is having a stable marriage  
+**[9318.80s] English:** No one is running an admirable government that's fighting for a just cause anywhere, anywhere.  
 **Translation:** 
 
-**[9318.80s] English:** no one is running a uh an admirable government that's fighting for a just cause anywhere anywhere  
-**Translation:** 
-
-**[9326.24s] English:** you're on i  
+**[9326.24s] English:** You're on I.  
 **Translation:** Vocabulary: admirable: 值得敬佩的
 
-**[9327.46s] English:** it i feel i just i feel like like it's focusing on one aspect of what it is to be human and to  
+**[9327.46s] English:** It feels like it's focusing on one aspect of what it is to be human and to  
 **Translation:** 
 
-**[9336.02s] English:** flourish and that everything else is just erased and thrown out as though it's just not part of  
-**Translation:** Vocabulary: erased: 删除; flourish: 繁荣
+**[9336.02s] English:** Flourish, and that everything else is just erased and thrown out, as though it's just not part of.  
+**Translation:** Vocabulary: erased: 抹去; flourish: 繁荣
 
-**[9341.56s] English:** reality and i'm scared i'm scared of what happens to to to teenagers who hormonally are in any case  
+**[9341.56s] English:** Reality, and I'm scared—I'm scared of what happens to teenagers who hormonally are in any case.  
 **Translation:** 
 
-**[9348.56s] English:** no that that's their they're programmed to to uh to pull away from their parents and experiment  
+**[9348.56s] English:** No, that's how they're programmed to pull away from their parents and experiment.  
 **Translation:** Vocabulary: hormonally: 激素上
 
-**[9354.16s] English:** with things they're they're they're biologically programmed  
+**[9354.16s] English:** With things, they're biologically programmed.  
 **Translation:** 
 
-**[9357.46s] English:** to do that and you give them a book  
+**[9357.46s] English:** To do that, and you give them a book.  
 **Translation:** Vocabulary: biologically: 生物学上
 
-**[9360.00s] English:** which says, look, you don't have to have a family.  
+**[9360.00s] English:** Which says, "Look, you don't have to have a family.  
 **Translation:** 
 
 **[9364.28s] English:** You don't have to raise children.  
@@ -5819,7 +5820,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **Translation:** 
 
 **[9372.52s] English:** I think it's destructive because it's not realistic.  
-**Translation:** 
+**Translation:** Vocabulary: assert: 坚定表达
 
 **[9376.04s] English:** It's just not real.  
 **Translation:** 
@@ -5833,23 +5834,23 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9380.72s] English:** You know, the books were not about a family.  
 **Translation:** 
 
-**[9384.16s] English:** But you could write a book in Ayn Rand style about where people have a family.  
+**[9384.16s] English:** But you could write a book in Ayn Rand's style about where people have a family.  
 **Translation:** 
 
-**[9390.42s] English:** But the goal, the purpose, it's a novel.  
+**[9390.42s] English:** But the goal, the purpose: it's a novel.  
 **Translation:** 
 
-**[9393.52s] English:** It's a novel which is delimited with a particular story.  
+**[9393.52s] English:** It's a novel which is delimited by a particular story.  
 **Translation:** 
 
-**[9397.38s] English:** There's one family in Gulch Gulch, and there's a little passage about raising children and the value of that because it's not core to what she is writing about.  
+**[9397.38s] English:** There's one family in Gulch Gulch, and there's a little passage about raising children and the value of that, because it's not core to what she is writing about.  
 **Translation:** Vocabulary: delimited: 限定; gulch: 峡谷
 
 **[9407.24s] English:** But that doesn't exclude it.  
 **Translation:** 
 
-**[9408.60s] English:** When I read Ayn Rand, I read Atlas Shrugged when I was 16, and I read it over the years several times.  
-**Translation:** Vocabulary: atlas: 地图集; shrugged: 耸肩
+**[9408.60s] English:** When I read Ayn Rand, I read *Atlas Shrugged* when I was 16, and I have read it several times over the years.  
+**Translation:** Vocabulary: atlas: 地图集; exclude: 排除; shrugged: 耸肩
 
 **[9414.16s] English:** It never occurred to me, oh, Ayn Rand is anti-family.  
 **Translation:** 
@@ -5878,7 +5879,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9435.64s] English:** One question I have is what effect it has on society outside of you.  
 **Translation:** 
 
-**[9440.94s] English:** So, for example, you mentioned love should be conditional.  
+**[9440.94s] English:** So, for example, you mentioned that love should be conditional.  
 **Translation:** Vocabulary: conditional: 条件性的
 
 **[9442.98s] English:** Well, it is.  
@@ -5893,10 +5894,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9447.88s] English:** Well, let me try to say something and see if it makes any sense.  
 **Translation:** 
 
-**[9451.42s] English:** So, could there be things that are true, like love is conditional, is always conditional, that if you say it often, it has a negative effect on society?  
+**[9451.42s] English:** So, could there be things that are true, like love is conditional and always conditional, that if you say it often, it has a negative effect on society?  
 **Translation:** 
 
-**[9463.00s] English:** So, for example, I mean, so maybe I'm just a romantic, but good luck saying love is conditional to a romantic partner.  
+**[9463.00s] English:** So, for example, I mean, so maybe I'm just a romantic, but good luck saying that love is conditional to a romantic partner.  
 **Translation:** 
 
 **[9472.10s] English:** I mean, you could.  
@@ -5905,209 +5906,209 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9473.64s] English:** I would.  
 **Translation:** 
 
-**[9474.16s] English:** I would argue, en masse, that would deteriorate the quality of relationships.  
+**[9474.16s] English:** I would argue, en masse, that it would deteriorate the quality of relationships.  
 **Translation:** 
 
-**[9480.00s] English:** uh if you remind the partner of that truth that is universal like you have to the the i mean okay  
+**[9480.00s] English:** Uh, if you remind the partner of that truth that is universal, like "you have to," the i-mean-okay.  
 **Translation:** Vocabulary: deteriorate: 恶化
 
-**[9490.40s] English:** maybe it's just me i'll just speak to myself it's like there is a certain romantic notion of  
+**[9490.40s] English:** Maybe it's just me, I'll just speak to myself. It's like there is a certain romantic notion of  
 **Translation:** 
 
-**[9494.64s] English:** unconditional love it's part of why you have so many destructive marriages it's it's part of why  
+**[9494.64s] English:** Unconditional love is part of why you have so many destructive marriages, it's part of why.  
 **Translation:** Vocabulary: unconditional: 无条件的
 
-**[9500.90s] English:** say that's a problem yes it's it's a real problem because because yes there is a you  
+**[9500.90s] English:** Say, "That's a problem. Yes, it's a real problem because, yes, there is.  
 **Translation:** 
 
-**[9507.50s] English:** talked about honoring your spouse and and there's a real truth there and i i i respect that yes you  
+**[9507.50s] English:** Talked about honoring your spouse, and there's a real truth there, and I respect that. Yes, you.  
+**Translation:** Vocabulary: honoring: 尊敬; spouse: 配偶
+
+**[9513.68s] English:** Have to do certain things; love isn't about just marrying someone and having a certain attitude out there in.  
 **Translation:** 
 
-**[9513.68s] English:** have to do certain things love is not you marry somebody and there's a real attitude out there in  
+**[9518.82s] English:** The culture is, you marry somebody, and okay, now we're just gonna cruise—it's just right.  
 **Translation:** 
 
-**[9518.82s] English:** the culture you marry somebody and okay now we're gonna we're just gonna cruise it's just right  
+**[9523.04s] English:** Hollywood: That's the Hollywood you know — marriage is work. It's like all values; it's work.  
 **Translation:** 
 
-**[9523.04s] English:** hollywood that's the hollywood you know marriage is work it it's like all values it's work it's  
-**Translation:** 
-
-**[9529.92s] English:** something you have to reignite every day you have to you have to the challenges the real disagreements  
+**[9529.92s] English:** Something you have to reignite every day: you have to face the challenges and the real disagreements.  
 **Translation:** Vocabulary: disagreements: 意见不合; reignite: 重燃
 
-**[9535.20s] English:** the the the the things you  
+**[9535.20s] English:** The things you  
 **Translation:** 
 
-**[9537.50s] English:** you you fight about you disagree about and and there's real if it's a value you work it out you  
+**[9537.50s] English:** You fight about things, you disagree about things, and if it's a value, you work it out.  
 **Translation:** 
 
-**[9543.62s] English:** you you you you struggle through it you you you and and sometimes you struggle through it and you  
+**[9543.62s] English:** You struggle through it, and sometimes you struggle through it and you.  
 **Translation:** 
 
-**[9548.72s] English:** come to a conclusion now this is not gonna work and and you dissolve a marriage and i'm i'm all  
+**[9548.72s] English:** Come to a conclusion: now, this is not gonna work, and you dissolve a marriage. I'm all  
+**Translation:** Vocabulary: dissolve: 解除
+
+**[9553.68s] English:** For dissolving after really fighting for it, because if it's an important value and if you  
 **Translation:** 
 
-**[9553.68s] English:** for dissolving after really really fighting for it because if it's an important value and if you  
-**Translation:** 
-
-**[9558.92s] English:** fell in love with this person for a reason then that's something worth fighting for i have a  
+**[9558.92s] English:** Fell in love with this person for a reason, then that's something worth fighting for. I have.  
 **Translation:** Vocabulary: dissolving: 溶解
 
-**[9563.80s] English:** feeling that hollywood goes the other way but it's not this cruising along  
+**[9563.80s] English:** Feeling that Hollywood goes the other way, but it's not this cruising along.  
 **Translation:** 
 
-**[9567.50s] English:** and everything everything is easy no human relationship is like that not friendship  
+**[9567.50s] English:** And everything isn't always easy. No human relationship, whether it's a friendship or anything else, is like that.  
+**Translation:** Vocabulary: cruising: 闲逛
+
+**[9571.16s] English:** Not love, not not loving raising children, not being a child—um, you know, they require work.  
 **Translation:** 
 
-**[9571.16s] English:** not love not not not not raising children not being a child um you know they require work  
-**Translation:** 
-
-**[9578.30s] English:** and and they require thinking and they require creating the conditions to thrive and that's the  
+**[9578.30s] English:** And they require thinking, and they require creating the conditions to thrive, and that's the  
 **Translation:** Vocabulary: thrive: 茁壮成长
 
-**[9584.46s] English:** sense in which it's it's conditional you you have to work at it and it it's and and it's very easy  
+**[9584.46s] English:** Sense in which it's conditional, you have to work at it, and it's very easy.  
 **Translation:** 
 
-**[9592.60s] English:** not to do the work and it's very easy to drift away and i think most people don't do the work  
-**Translation:** Vocabulary: conditional: 条件性的; drift: 漂移
+**[9592.60s] English:** Not to do the work and it's very easy to drift away, and I think most people don't do the work.  
+**Translation:** Vocabulary: conditional: 有前提的; drift: 偏离
 
-**[9597.50s] English:** people take it and and generally in life they they  
+**[9597.50s] English:** People take it, and generally in life, they do.  
 **Translation:** 
 
-**[9600.00s] English:** only place people seem to work is at work and then they take the rest of their life as i'm  
+**[9600.00s] English:** Only place people seem to work is at work, and then they take the rest of their life as if.  
 **Translation:** 
 
-**[9605.48s] English:** going to cruise and yet every aspect of your life the art you choose the friends you choose  
+**[9605.48s] English:** Going to cruise, and yet, every aspect of your life—the art you choose, the friends you choose—  
 **Translation:** 
 
-**[9611.38s] English:** the lovers you choose all require real thinking and real work to be successful at them none of  
+**[9611.38s] English:** The lovers you choose all require real thinking and real work to be successful at them. None of  
 **Translation:** 
 
-**[9618.74s] English:** them are just just there because there is no such thing as just the intrinsic right i agree with all  
+**[9618.74s] English:** They are just there because there is no such thing as an intrinsic right, I agree with all.  
 **Translation:** 
 
-**[9625.34s] English:** of that i was going to say before that the rabbis have this uh sort of shocking expression uh  
-**Translation:** Vocabulary: intrinsic: 内在的; rabbis: 拉比
+**[9625.34s] English:** Of that, I was going to say before that the rabbis have this sort of shocking expression, uh,...  
+**Translation:** Vocabulary: intrinsic: 固有的; rabbis: 拉比
 
-**[9631.34s] English:** the the the pain of raising of raising children and uh i i find when i speak to audiences about  
+**[9631.34s] English:** The pain of raising children, and I find that when I speak to audiences about it,  
 **Translation:** 
 
-**[9642.02s] English:** relationships i find that that in general and this is a this is cross-cultural it's  
+**[9642.02s] English:** Relationships, I find that in general, and this is cross-cultural; it's  
 **Translation:** 
 
-**[9647.84s] English:** different countries different religious backgrounds that in general young people  
+**[9647.84s] English:** Different countries, different religious backgrounds: in general, young people.  
 **Translation:** 
 
-**[9652.76s] English:** do not know that the only  
+**[9652.76s] English:** Do not know that the only  
 **Translation:** 
 
-**[9655.34s] English:** way to make a marriage work is through a lot of pain and overcoming they don't know that raising  
+**[9655.34s] English:** A way to make a marriage work is through a lot of pain and overcoming it. They don't know that raising  
 **Translation:** 
 
-**[9662.88s] English:** children involves a great deal of pain they don't know that caring for and helping your parents  
+**[9662.88s] English:** Children involves a great deal of pain; they don't know that caring for and helping your parents can be very rewarding.  
+**Translation:** Vocabulary: caring: 关心; overcoming: 克服
+
+**[9669.12s] English:** Approaching the end of their lives causes a great deal of pain, and everything is kind of this.  
 **Translation:** 
 
-**[9669.12s] English:** approach the end of their lives causes a great deal of pain and and everything is kind of this  
+**[9675.36s] English:** Sketchy, you know, very sketchy Glimpsey kind of. And I mentioned Hollywood just because, it's like, you know?  
+**Translation:** Vocabulary: approaching: 临近; sketchy: 粗略的
+
+**[9682.16s] English:** Everything is made to look easy, except you know, there's kind of a funny  
 **Translation:** 
 
-**[9675.36s] English:** sketchy you know very sketchy glimpsy kind of and i mentioned hollywood just because it it it it  
+**[9685.28s] English:** You know, there's kind of a funny  
 **Translation:** 
 
-**[9682.16s] English:** everything is is made to look easy except you know there's kind of a funny  
+**[9685.34s] English:** Breakdown of something, but then it, you know, maybe there's a divorce; they, you know, they  
 **Translation:** 
 
-**[9685.28s] English:** you know there's kind of a funny  
+**[9689.12s] English:** Shoot each other, so that's so then they should get divorced, but the reality is how  
+**Translation:** Vocabulary: breakdown: 损坏
+
+**[9695.88s] English:** How hard it is to do, and how heroic it is to do it, and then overcome, and then actually in the end.  
 **Translation:** 
 
-**[9685.34s] English:** breakdown of something but then it you know maybe there's a divorce they you know they  
+**[9704.68s] English:** Achieve something, create something that was really—it's almost not.  
 **Translation:** 
 
-**[9689.12s] English:** shoot one another so that's so then they should get divorced but but the the reality of of how  
+**[9711.40s] English:** Not discussed, and so, I look at it and it's just not surprising.  
 **Translation:** 
 
-**[9695.88s] English:** hard it is to do and how heroic it is to to do it and then overcome and then actually in the end  
+**[9715.34s] English:** That if there is no parallel to Ayn Rand about  
+**Translation:** Vocabulary: parallel: 类比
+
+**[9720.00s] English:** You know, the heroic saving of a marriage that was on the rocks—how does it actually happen?  
 **Translation:** 
 
-**[9704.68s] English:** achieve something create something that that was really it's almost it's almost not it's almost  
+**[9725.60s] English:** So, yeah, so it's a good point you're making, and but it's something just came to me that.  
 **Translation:** 
 
-**[9711.40s] English:** not discussed and and so i look to me it's just not surprising  
+**[9731.68s] English:** I've never thought of that before, so that's always good. This is where conversation is good, look.  
 **Translation:** 
 
-**[9715.34s] English:** that if if if there's no parallel to ayn rand about  
+**[9738.24s] English:** Take the Talmud; I can't remember how many years after the Bible it is.  
 **Translation:** 
 
-**[9720.00s] English:** you know the the heroic saving of a marriage that was on the rocks how does it actually happen  
+**[9742.64s] English:** Written: How many over how long of a period? It's written how many people participating in.  
 **Translation:** 
 
-**[9725.60s] English:** so yeah so so it's a good point you're making and but but it's something just came to me that  
+**[9747.20s] English:** Writing it, Ayn Rand was one individual. She wrote a series of books on philosophy, which I think are  
 **Translation:** 
 
-**[9731.68s] English:** i've never thought of before so that's always good this is where conversation is good look  
+**[9753.28s] English:** True, and yet they're just the beginning. There's a lot of work to be done, and it's important to apply this effectively.  
 **Translation:** 
 
-**[9738.24s] English:** take the talmud in in in the by i can't remember how many years after the bible the talmud is  
-**Translation:** Vocabulary: talmud: 犹太经卷
-
-**[9742.64s] English:** written how many over how how long of a period it's written how many people participating in  
+**[9761.20s] English:** Hopefully, there will be one of her students who writes a book on relationships.  
 **Translation:** 
 
-**[9747.20s] English:** writing it ayn rand was one individual she wrote a series of books on philosophy which i think are  
+**[9765.28s] English:** And there will be someone who writes a book on developing a political theory in greater detail.  
 **Translation:** 
 
-**[9753.28s] English:** true and and but they're the beginning there's a lot of work to be done it's it to apply this so  
+**[9770.24s] English:** Detail and develop her ethics; she's got a few writings on ethics, and  
 **Translation:** 
 
-**[9761.20s] English:** hopefully there will be one of her students who writes a book on relationships  
+**[9777.20s] English:** A lot of work needs to be done to flesh it out, what does it mean, and how do you, so to speak, say Ayn Rand.  
 **Translation:** 
 
-**[9765.28s] English:** and there'll be a a a somebody who writes a book on on developing a political theory in greater  
+**[9782.48s] English:** Didn't do everything is a truism. She didn't do everything, okay? So what, but she laid this amazing...  
+**Translation:** Vocabulary: truism: 陈词滥调
+
+**[9789.04s] English:** Philosophical foundation that allows us to take those principles and apply them to all these.  
 **Translation:** 
 
-**[9770.24s] English:** detail and and develop her ethics she's got like she's got she's got a few writings on ethics and  
+**[9794.48s] English:** Realms of human life, and she does it on a scale that few philosophers in human history have achieved.  
+**Translation:** Vocabulary: philosophers: 哲学家; philosophical: 哲学的; realms: 领域
+
+**[9799.60s] English:** Because she does go from metaphysics all the way to aesthetics, hitting the key, and she's an  
 **Translation:** 
 
-**[9777.20s] English:** a lot of work to be done fleshing it out what does it mean how do you so to to say ayn rand  
+**[9804.00s] English:** Original thinker on each one of those things.  
+**Translation:** Vocabulary: aesthetics: 美学; metaphysics: 本体论; thinker: 思想家
+
+**[9807.20s] English:** She might be right, she might be wrong on certain aspects of it. Always happy to have a debate about it.  
 **Translation:** 
 
-**[9782.48s] English:** didn't do everything is a truism she didn't do everything okay so what but she laid this amazing  
-**Translation:** Vocabulary: fleshing: 充实; truism: 陈词滥调
-
-**[9789.04s] English:** philosophical foundation that allows us to take those principles and to apply them to all these  
+**[9812.32s] English:** Whether she's wrong or not, there's a lot of work to be done, right? It's not  
 **Translation:** 
 
-**[9794.48s] English:** realms of human life and she does it on a scope that few philosophers in human history have done  
+**[9817.60s] English:** Like, and if there were Objectivists out there who presented as okay, human knowledge is.  
 **Translation:** 
 
-**[9799.60s] English:** because she does goes from metaphysics all the way to aesthetics hitting the key and she's an  
+**[9822.72s] English:** Over, because Ayn Rand wrote these books—that's absurd. Right? There's a huge amount of work to be...  
+**Translation:** Vocabulary: absurd: 荒谬; objectivists: 客观主义者
+
+**[9827.76s] English:** Done in applying these particular ideas, just like there was for any philosophy.  
 **Translation:** 
 
-**[9804.00s] English:** original thinker on each one of those things  
-**Translation:** Vocabulary: aesthetics: 美学; metaphysics: 本体论
-
-**[9807.20s] English:** she might be right she might be wrong on certain aspects of it always happy to have a debate about  
+**[9832.24s] English:** Take these ideas and now apply them to all these realms in human experience, that will flesh it out.  
 **Translation:** 
 
-**[9812.32s] English:** whether where she's wrong or where she's not but there's a lot of work to be done right it's not  
+**[9837.20s] English:** And make it, and one of the reasons I don't think is an objection.  
 **Translation:** 
 
-**[9817.60s] English:** like and and if if there were objectivists out there who presented as okay human knowledge is  
-**Translation:** 
-
-**[9822.72s] English:** over because ayn rand wrote these books that's absurd right there's huge amount of work to be  
-**Translation:** Vocabulary: objectivists: 客观主义者
-
-**[9827.76s] English:** done in applying these particular ideas just like there was for any philosophy  
-**Translation:** 
-
-**[9832.24s] English:** take these ideas and now apply them to all these realms in human experience that flesh it out  
-**Translation:** 
-
-**[9837.20s] English:** and make it and one of the reasons i don't think objection  
-**Translation:** 
-
-**[9840.00s] English:** Activism has taken off is because there's all this work still to be done that allows it to be relatable to people in every aspect of them.  
-**Translation:** Vocabulary: relatable: 容易共鸣
+**[9840.00s] English:** Activism has taken off because there's all this work still to be done, that allows it to be relatable to people in every aspect of their lives.  
+**Translation:** Vocabulary: relatable: 容易产生共鸣的
 
 **[9848.38s] English:** Let me ask a hard question here.  
 **Translation:** 
@@ -6133,7 +6134,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9859.18s] English:** I mean, I agree about nations.  
 **Translation:** 
 
-**[9860.78s] English:** So I don't like the term nationalism because I fear what happens when you put an ism at the end of any word.  
+**[9860.78s] English:** So, I don't like the term nationalism because I fear what happens when you put an "-ism" at the end of any word.  
 **Translation:** 
 
 **[9867.72s] English:** Anything, yes.  
@@ -6145,10 +6146,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9871.82s] English:** And having a diversity of nations, in a sense, is a good thing.  
 **Translation:** 
 
-**[9875.60s] English:** And in a sense, I don't think one can come up.  
+**[9875.60s] English:** And, in a sense, I don't think one can come up with a solution without more information.  
 **Translation:** 
 
-**[9878.88s] English:** So, look, I said, I hold, that the ideal nation is a nation that protects individual rights.  
+**[9878.88s] English:** So, look, I said that the ideal nation is one that protects individual rights.  
 **Translation:** 
 
 **[9886.24s] English:** How do you do that?  
@@ -6157,11 +6158,11 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9887.94s] English:** What are the details?  
 **Translation:** 
 
-**[9889.30s] English:** How do we define property rights exactly in an Internet world?  
+**[9889.30s] English:** How do we define property rights exactly in an internet world?  
 **Translation:** 
 
-**[9892.68s] English:** There's going to be disagreement, rational, reasonable disagreement.  
-**Translation:** 
+**[9892.68s] English:** There's going to be disagreement—rational, reasonable disagreement.  
+**Translation:** Vocabulary: disagreement: 不同意见
 
 **[9896.24s] English:** They're going to be.  
 **Translation:** 
@@ -6169,23 +6170,23 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9897.20s] English:** In my.  
 **Translation:** 
 
-**[9898.30s] English:** Future in the 300 years from now, when my ideas are one, finally, right, there will be multiple nations trying to apply the principle of applying individual rights, and they'll do it differently.  
+**[9898.30s] English:** In the future, 300 years from now, when my ideas are finally considered right, there will be multiple nations trying to apply the principle of individual rights, and they'll do it differently.  
 **Translation:** 
 
-**[9908.90s] English:** One of the one of the benefits of federalism is that while you have a national government, there are certain issues that you relegate to states and they can try different things and learn because there is a huge value in empirical knowledge comes there.  
-**Translation:** Vocabulary: empirical: 经验的
+**[9908.90s] English:** One of the benefits of federalism is that, while you have a national government, there are certain issues that you delegate to states, and they can try different things and learn, because there is a huge value in empirical knowledge coming from this.  
+**Translation:** Vocabulary: delegate: 授权; empirical: 经验的
 
 **[9923.24s] English:** You can't just deduce it all and figure it all out.  
 **Translation:** 
 
 **[9926.02s] English:** You have to experiment.  
+**Translation:** Vocabulary: deduce: 推理
+
+**[9927.54s] English:** So, I do.  
 **Translation:** 
 
-**[9927.54s] English:** So I do.  
+**[9928.72s] English:** I hate the idea of a one-world government because experimentation is gone.  
 **Translation:** 
-
-**[9928.72s] English:** I hate the idea of a one world, one world government because experimentation is gone.  
-**Translation:** Vocabulary: experimentation: 实验
 
 **[9934.18s] English:** And if you make a mistake, everybody suffers.  
 **Translation:** 
@@ -6193,19 +6194,19 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9936.86s] English:** Yeah, I like the idea.  
 **Translation:** 
 
-**[9938.30s] English:** And then I like the idea of people being able to choose where they live.  
+**[9938.30s] English:** And then, I like the idea of people being able to choose where they live.  
 **Translation:** 
 
-**[9942.76s] English:** But but this notion of experimentation, I think, is crucial.  
-**Translation:** 
+**[9942.76s] English:** But this notion of experimentation, I think, is crucial.  
+**Translation:** Vocabulary: crucial: 至关重要; experimentation: 实验
 
 **[9946.92s] English:** But you need a principle.  
 **Translation:** 
 
-**[9948.66s] English:** This is you need a principle.  
+**[9948.66s] English:** This is what you need: a principle.  
 **Translation:** 
 
-**[9950.20s] English:** So I don't like the idea of nations.  
+**[9950.20s] English:** So, I don't like the idea of nations.  
 **Translation:** 
 
 **[9951.70s] English:** If all the nations are going to be bad.  
@@ -6223,149 +6224,149 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[9958.30s] English:** What I like is a variety of nations.  
 **Translation:** 
 
-**[9960.00s] English:** all practicing basically good ideas and then we try to figure out okay what works better than  
+**[9960.00s] English:** All practicing basically good ideas, and then we try to figure out what works better.  
 **Translation:** 
 
-**[9966.26s] English:** other things and and and what is sustainable and what is not given how many difficult aspects of  
+**[9966.26s] English:** Other things, and what is sustainable and what is not, given how many difficult aspects.  
+**Translation:** Vocabulary: sustainable: 持久的
+
+**[9972.76s] English:** History and society: we talked about it, let me ask a hard question of both of you.  
 **Translation:** 
 
-**[9972.76s] English:** history and society we talked about let me ask a hard question of both of you  
+**[9978.08s] English:** Breeze, up until now, yeah. What gives you hope about the future? So, we've been describing...  
 **Translation:** 
 
-**[9978.08s] English:** breeze up until now yeah what gives you hope about the future so we've been describing  
+**[9986.64s] English:** Reasons to Maybe Not Have Hope: What Gives You Hope When You Look at the World?  
 **Translation:** 
 
-**[9986.64s] English:** reasons to maybe not have hope what gives you hope when you look at the world  
-**Translation:** 
-
-**[9994.28s] English:** what gives you hope that in 200 years and 300 years and 500 years like the founders look into  
+**[9994.28s] English:** What gives you hope that, in 200 years, 300 years, and 500 years, like the founders looked into?  
 **Translation:** Vocabulary: founders: 创立者
 
-**[10000.68s] English:** the future that human civilization will be all right and and more than that it would flourish  
+**[10000.68s] English:** The future that human civilization will be all right, and, more than that, it would flourish.  
 **Translation:** 
 
-**[10007.32s] English:** two things for me one is history so in the very long run good ideas win out i think in the very  
-**Translation:** Vocabulary: flourish: 繁荣昌盛
+**[10007.32s] English:** Two things for me: one is history, so in the very long run, good ideas win out, I think, in the very  
+**Translation:** Vocabulary: flourish: 繁荣
 
-**[10015.48s] English:** long run  
+**[10015.48s] English:** Long run  
 **Translation:** 
 
-**[10016.64s] English:** you can go through a dark ages but you come out of a dark ages um you know the the the the good  
+**[10016.64s] English:** You can go through a dark age, but you come out of it, and you know the good that comes from it.  
 **Translation:** 
 
-**[10023.44s] English:** and the just does win in the end even if it is bloody and difficult and and hard to get there  
+**[10023.44s] English:** And the just does win in the end, even if it is bloody and difficult and hard to get there.  
 **Translation:** 
 
-**[10029.44s] English:** so while i am quite pessimistic unfortunately about the short run i'm ultimately optimistic  
-**Translation:** Vocabulary: optimistic: 乐观; pessimistic: 悲观
+**[10029.44s] English:** So, while I am quite pessimistic unfortunately about the short run, I'm ultimately optimistic.  
+**Translation:** Vocabulary: bloody: 残酷的; optimistic: 乐观的; pessimistic: 悲观的
 
-**[10034.68s] English:** that that in the long run good ideas win and and they're justified and and and i think the  
+**[10034.68s] English:** That, in the long run, good ideas win and are justified, and I think the  
 **Translation:** 
 
-**[10040.00s] English:** fundamental behind that is i i think is is that i'm fundamentally positive  
-**Translation:** Vocabulary: fundamentally: 根本上
+**[10040.00s] English:** Fundamental behind that is, I think, is that I'm fundamentally positive.  
+**Translation:** Vocabulary: fundamentally: 从根本上
 
-**[10046.64s] English:** about human nature i i think human beings um can think they're capable of reasoning  
+**[10046.64s] English:** About human nature, I think humans can think they're capable of reasoning.  
 **Translation:** 
 
-**[10053.18s] English:** they're capable of figuring out the truth they're capable of learning from experience  
+**[10053.18s] English:** They're capable of figuring out the truth, and they're capable of learning from experience.  
 **Translation:** 
 
-**[10058.38s] English:** they don't always do it it's an achievement to do it but over time they do uh and and if you  
+**[10058.38s] English:** They don't always do it; it's an achievement to do it, but over time they do, and if you  
 **Translation:** 
 
-**[10065.80s] English:** create the right circumstances they will and when things get bad enough they look for a way out they  
+**[10065.80s] English:** Create the right circumstances, and when things get bad enough, they look for a way out.  
 **Translation:** 
 
-**[10072.14s] English:** look at maybe at history if the history is available to them maybe at  
+**[10072.14s] English:** Look at, if the history is available to them, maybe at.  
 **Translation:** 
 
-**[10076.64s] English:** just learning from the from from  
+**[10076.64s] English:** Just learning from the, from, from.  
 **Translation:** 
 
-**[10080.00s] English:** what's around them to find better ways of doing things and that reinforces itself but human  
+**[10080.00s] English:** What's around them to find better ways of doing things, and that reinforces itself, but human  
 **Translation:** 
 
-**[10085.34s] English:** beings are an amazing creature right we're just amazing in our capacity to be creative and our  
-**Translation:** Vocabulary: reinforces: 强化
+**[10085.34s] English:** Beings are an amazing creature, right? We're just amazing in our capacity to be creative and our  
+**Translation:** Vocabulary: reinforces: 加强
 
-**[10092.82s] English:** capacity to think and our capacity to love and our capacity to change our environment to fit our  
+**[10092.82s] English:** Capacity to think, and our capacity to love, and our capacity to change our environment to fit our  
 **Translation:** 
 
-**[10097.66s] English:** needs and to fit our requirements for survival and to learn and to grow and to progress and  
+**[10097.66s] English:** Needs, and to fit our requirements for survival, to learn, and to grow and to progress.  
 **Translation:** 
 
-**[10103.96s] English:** uh you know so so again long term i think all that wins out short term in any point in history  
+**[10103.96s] English:** Uh, you know, so again, long-term I think always wins out over short-term in any point in history.  
 **Translation:** 
 
-**[10111.30s] English:** short term um uh it it doesn't right now it doesn't look too good what about you yeah well  
+**[10111.30s] English:** Short-term, um, uh, it doesn't look too good right now. What about you? Yeah, well.  
 **Translation:** 
 
-**[10119.84s] English:** as usual i i moved by by what your own says and i and uh and i hear scripture and uh the the source  
+**[10119.84s] English:** As usual, I'm moved by what you say, and I hear Scripture too. The source?  
 **Translation:** 
 
-**[10129.56s] English:** for your own's hope um is  
+**[10129.56s] English:** For your own hope, um, is  
 **Translation:** Vocabulary: scripture: 圣经
 
-**[10133.86s] English:** you know i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i  
+**[10133.86s] English:** You know, I...  
 **Translation:** 
 
-**[10133.96s] English:** uh the book of exodus which is the first place in human history where we we are presented with  
-**Translation:** Vocabulary: exodus: 出埃及记
+**[10133.96s] English:** Uh, the Book of Exodus, which is the first place in human history where we are presented with  
+**Translation:** Vocabulary: exodus: 离散
 
-**[10142.28s] English:** the possibility that an enslaved people that's being persecuted and murdered and living under  
+**[10142.28s] English:** The possibility that an enslaved people, who are being persecuted, murdered, and living under  
 **Translation:** 
 
-**[10148.50s] English:** the worst possible regime can free itself and have a shot at a life of independence and worth  
+**[10148.50s] English:** The worst possible regime can free itself and have a shot at a life of independence and worth.  
 **Translation:** Vocabulary: enslaved: 被奴役; persecuted: 受迫害
 
-**[10156.12s] English:** and it's another inherited jewish idea in the in in the tradition um  
+**[10156.12s] English:** And it's another inherited Jewish idea in the tradition, um.  
 **Translation:** 
 
-**[10163.50s] English:** the way that we express this is by saying um that that there is a god who judges  
+**[10163.50s] English:** The way we express this is by saying, "that there is a God who judges.  
 **Translation:** Vocabulary: inherited: 继承的
 
-**[10169.80s] English:** the the israelites in egypt were were enslaved for hundreds of years according to the exodus  
+**[10169.80s] English:** The Israelites in Egypt were enslaved for hundreds of years, according to the Exodus.  
 **Translation:** 
 
-**[10177.68s] English:** story hundreds of years before god wakes up and and and and hears them and and he doesn't do  
+**[10177.68s] English:** Story, hundreds of years before God wakes up and hears them, and He doesn't do anything.  
 **Translation:** Vocabulary: israelites: 以色列人
 
-**[10183.02s] English:** anything until until you know moses uh kills the oppressor and and and goes out into the desert so  
+**[10183.02s] English:** Anything until Moses kills the oppressor and goes out into the desert, so  
 **Translation:** 
 
-**[10189.84s] English:** um so i i think it's pretty realistic  
+**[10189.84s] English:** Um, so I think it's pretty realistic.  
 **Translation:** Vocabulary: moses: 摩西; oppressor: 压迫者
 
-**[10193.40s] English:** that you know there's a god that god judges and acts but probably you know  
+**[10193.40s] English:** That you know, there's a God who judges and acts, but probably you know,  
 **Translation:** 
 
-**[10200.00s] English:** Often, not for a very, very long time and not until there's a human being who gets up and says enough.  
+**[10200.00s] English:** Often, not for a very, very long time—and not until there's a human being who gets up and says "enough.  
 **Translation:** 
 
-**[10206.70s] English:** I know that today people don't want to read the Bible.  
+**[10206.70s] English:** I know that today, people don't want to read the Bible.  
 **Translation:** 
 
 **[10209.30s] English:** They don't like reading the Bible.  
 **Translation:** 
 
-**[10210.48s] English:** But I always hear in my ear this cry of the prophet Jeremiah who saw his nation destroyed and his people exiled.  
+**[10210.48s] English:** But I always hear, in my ear, this cry of the prophet Jeremiah, who saw his nation destroyed and his people exiled.  
 **Translation:** 
 
-**[10223.44s] English:** And he says, in God's name, he says, he's not my word like fire, like the hammer that shatters rock.  
-**Translation:** Vocabulary: jeremiah: 耶利米; shatters: 粉碎
+**[10223.44s] English:** And he says, "In God's name, he says, he's not my word—like fire, like the hammer that shatters rock.  
+**Translation:** Vocabulary: exiled: 流放; hammer: 锤子; prophet: 先知; shatters: 粉碎
 
-**[10236.54s] English:** My word is like fire, like the hammer that shatters rock.  
+**[10236.54s] English:** My word is like fire; like the hammer that shatters rock.  
 **Translation:** 
 
-**[10241.70s] English:** And this is actually, this is the traditional way of saying something like what Yaron is saying, that it may take a long, long time.  
+**[10241.70s] English:** And this is actually the traditional way of saying something like what Yaron is saying: that it may take a long, long time.  
 **Translation:** 
 
-**[10248.70s] English:** But there is a truth and it has its own strength.  
+**[10248.70s] English:** But there is a truth, and it has its own strength.  
 **Translation:** 
 
 **[10252.58s] English:** And it will, in the end, shatter the things that are opposing it.  
-**Translation:** 
+**Translation:** Vocabulary: shatter: 粉碎
 
 **[10258.58s] English:** That's our traditional hope.  
 **Translation:** 
@@ -6382,7 +6383,7 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[10268.72s] English:** The trends are terrible right now.  
 **Translation:** 
 
-**[10270.88s] English:** And it's frightening and it's hard.  
+**[10270.88s] English:** And it's frightening, and it's hard.  
 **Translation:** 
 
 **[10274.74s] English:** But we are terrible at seeing the future.  
@@ -6394,10 +6395,10 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[10282.58s] English:** You know, maybe soon, maybe much later.  
 **Translation:** 
 
-**[10286.46s] English:** And the possibility of a redemption is there.  
+**[10286.46s] English:** And the possibility of redemption is there.  
 **Translation:** Vocabulary: redemption: 救赎
 
-**[10293.32s] English:** Let me ask, given that long arc of history, given that you do study the Bible, what is the meaning of this whole thing?  
+**[10293.32s] English:** Let me ask: Given that long arc of history, and given that you do study the Bible, what is the meaning of all this?  
 **Translation:** 
 
 **[10302.62s] English:** What's the meaning of life?  
@@ -6406,208 +6407,208 @@ Source file: Lex Fridman - Nationalism Debate： Yaron Brook and Yoram Hazony �
 **[10304.74s] English:** Wow, that's beautiful.  
 **Translation:** 
 
-**[10305.70s] English:** I think that the meaning of life is in part.  
+**[10305.70s] English:** I think that the meaning of life is, in part.  
 **Translation:** 
 
-**[10312.58s] English:** What Yaron touches on when he says that productive work, labor, creativity.  
+**[10312.58s] English:** What Yaron touches on when he says that productive work, labor, and creativity.  
 **Translation:** 
 
-**[10320.00s] English:** is at the heart of what it is to be human. I just think that there are some more arenas,  
+**[10320.00s] English:** Is at the heart of what it is to be human. I just think that there are some more arenas,  
+**Translation:** Vocabulary: arenas: 领域
+
+**[10327.90s] English:** And maybe we even agree with a lot of them on a lot of them. To be human is to inherit a world.  
 **Translation:** 
 
-**[10327.90s] English:** and maybe we even agree with a lot of them, on a lot of them. To be human is to inherit a world  
+**[10335.66s] English:** Which is imperfect, terribly imperfect, imperfect in many ways. And God created it.  
+**Translation:** Vocabulary: inherit: 承袭
+
+**[10345.10s] English:** That way, he created a world that is terribly lacking, and he created us with the ability to.  
 **Translation:** 
 
-**[10335.66s] English:** which is imperfect, terribly imperfect, imperfect in many ways. And God created it  
+**[10353.38s] English:** Stand up and say, "I can change the direction of this. I can do something to change the direction.  
 **Translation:** 
 
-**[10345.10s] English:** that way. He created a world which is terribly lacking, and he created us with the ability to  
+**[10360.64s] English:** Of this, I can take the time and the abilities that are given to me to be a partner with God.  
 **Translation:** 
 
-**[10353.38s] English:** stand up and to say, I can change the direction of this. I can do something to change the direction  
+**[10366.00s] English:** In creating the world, it's not going to stay the way it was before me. It'll be something else.  
 **Translation:** 
 
-**[10360.64s] English:** of this. I can take the time and the abilities that are given to me to be a partner with God  
+**[10371.40s] English:** Different, maybe a little bit, maybe a little bit.  
 **Translation:** 
 
-**[10366.00s] English:** in creating the world. It's not going to stay the way it was before me. It'll be something  
+**[10375.10s] English:** But that is the heart. That is the key. That is the meaningful life: to be a partner.  
 **Translation:** 
 
-**[10371.40s] English:** different, maybe a little bit, maybe a little bit.  
+**[10383.32s] English:** With God's help in creating the world, so that it is moving that much more in the right direction.  
 **Translation:** 
 
-**[10375.10s] English:** But that is the heart. That is the key. That is the meaningful life, is to be a partner  
+**[10389.42s] English:** Rather than the way we found it.  
 **Translation:** 
 
-**[10383.32s] English:** with God in creating the world so that it is moving that much more in the right direction  
+**[10392.12s] English:** So, nudge, even if just a little bit, the direction of the world. Well, you've actually been  
 **Translation:** 
 
-**[10389.42s] English:** rather than the way we found it.  
-**Translation:** 
-
-**[10392.12s] English:** So nudge, even if a little bit, the direction of the world. Well, you've actually been  
-**Translation:** 
-
-**[10400.54s] English:** talking in your program about life quite a bit.  
+**[10400.54s] English:** Talking in your program about life quite a bit.  
 **Translation:** Vocabulary: nudge: 轻微推动
 
-**[10404.34s] English:** So let me ask you a question.  
+**[10404.34s] English:** So, let me ask you a question.  
 **Translation:** 
 
-**[10405.08s] English:** Yeah, it's the same question. And I never tire you of asking this question.  
+**[10405.08s] English:** Yeah, it's the same question. And I never tire of asking this question.  
 **Translation:** 
 
-**[10410.66s] English:** What do you think is the meaning of this whole thing?  
+**[10410.66s] English:** What do you think is the meaning of all this?  
 **Translation:** 
 
-**[10414.68s] English:** Well, I mean, I don't believe in God, so God doesn't play a role in my view of the meaning  
+**[10414.68s] English:** Well, I mean, I don't believe in God, so God doesn't play a role in my view of the meaning.  
 **Translation:** 
 
-**[10421.24s] English:** of life. I think the meaning of life is to live. I like to say to live with a capital L.  
+**[10421.24s] English:** Of life, I think the meaning of life is to live. I like to say "to live" with a capital L.  
 **Translation:** 
 
-**[10427.74s] English:** It's to embrace it. And I agree with you on that in a sense. We're born into a world and as human  
+**[10427.74s] English:** It's something to embrace, and I agree with you on that in a sense. We're born into a world, and as humans,...  
+**Translation:** Vocabulary: embrace: 拥抱
+
+**[10434.64s] English:** Beings, we're born into a world where we're born into a world where we're born into a world, where  
 **Translation:** 
 
-**[10434.64s] English:** beings, we're born into a world where we're born into a world where we're born into a world where  
+**[10435.08s] English:** One of the things that make us very different from other animals is our capacity to change.  
 **Translation:** 
 
-**[10435.08s] English:** One of the things that makes us very different than other animals is our capacity to change.  
+**[10440.00s] English:** That world, we can actually go out there and change the world around us; we can change it materially.  
 **Translation:** 
 
-**[10440.00s] English:** that world we can actually go out there and change the world around us we can change it materially  
-**Translation:** 
-
-**[10446.24s] English:** through production and through we can change it spiritually through changing the ideas of of  
+**[10446.24s] English:** Through production, and through we can change it spiritually by changing the ideas of.  
 **Translation:** Vocabulary: materially: 物质上; spiritually: 精神上
 
-**[10451.44s] English:** people we can we can change the direction into which humanity works we can um we can create a  
+**[10451.44s] English:** People, we can change the direction in which humanity works. We can create a  
 **Translation:** 
 
-**[10458.08s] English:** little universe part of the i think part of the joy of creating a family is to create a little  
+**[10458.08s] English:** Little universe: Part of the joy of creating a family is to create a little.  
 **Translation:** 
 
-**[10462.80s] English:** universe right we're creating a little world uh around us that's part of the the joy and there is  
+**[10462.80s] English:** Universe, right? We're creating a little world around us, that's part of the joy, and there is.  
 **Translation:** 
 
-**[10469.20s] English:** joy in family let's not make it all about uh difficulty and hard work i agree i agree uh you  
+**[10469.20s] English:** Joy in family; let's not make it all about difficulty and hard work. I agree, I agree. Uh,...  
 **Translation:** 
 
-**[10473.92s] English:** know part of the part of the the idea of getting married is is to create a little world in which you  
+**[10473.92s] English:** Know, part of the idea of getting married is to create a little world in which you  
 **Translation:** 
 
-**[10479.28s] English:** and your spouse are creating something that didn't exist before and and and building something  
+**[10479.28s] English:** And your spouse is creating something that didn't exist before and building something.  
+**Translation:** Vocabulary: spouse: 配偶
+
+**[10484.72s] English:** Building a universe, but it's really just to live. I mean, one of the things that I see, and that saddens me.  
 **Translation:** 
 
-**[10484.72s] English:** building a universe but it's really to live i mean one of the things that i i see and that saddens me  
+**[10490.96s] English:** Is it wasted when lives are lived just cruising through, without any real purpose or meaning?  
+**Translation:** Vocabulary: cruising: 闲逛
+
+**[10496.96s] English:** Get bored, they get born in a particular place.  
 **Translation:** 
 
-**[10490.96s] English:** is is wasted lives it's people who just just cruise through life they just they just they  
+**[10499.20s] English:** They never challenge it; they never question it. They just live, die, and nothing really.  
 **Translation:** 
 
-**[10496.96s] English:** get bored they get born in a particular place  
+**[10505.20s] English:** Happened, nothing really changed. They didn't produce; they didn't make anything of their life.  
 **Translation:** 
 
-**[10499.20s] English:** they never challenge it they never question they just you know they live die and nothing really  
+**[10508.88s] English:** And produce here, again, in the largest sense. So, to me, it's in every aspect of life you.  
 **Translation:** 
 
-**[10505.20s] English:** happened nothing really changed they didn't produce they didn't make anything of their life  
+**[10515.20s] English:** Know, as you know, because you've listened to my show, I love art, I love aesthetics, I love the  
 **Translation:** 
 
-**[10508.88s] English:** and produce here again in the in the largest sense so to me it's it's in every aspect of life you  
+**[10519.28s] English:** Experience of great art, you know. I love relationships, I you know, I love producing, um.  
+**Translation:** Vocabulary: aesthetics: 美感
+
+**[10526.24s] English:** You know, I like business; I like that aspect of life. I like business; I like that.  
 **Translation:** 
 
-**[10515.20s] English:** know as you know because you've listened to my show i love art i love aesthetics i love the  
+**[10529.20s] English:** An aspect of it, um, and I think people are shallow in so many parts of their lives.  
 **Translation:** 
 
-**[10519.28s] English:** experience of great art you know i love relationships i you know i i love producing um  
-**Translation:** Vocabulary: aesthetics: 审美
-
-**[10526.24s] English:** you know i like business i like that that aspect of life you know i like business i like that that  
+**[10535.84s] English:** Lives which saddens me. I mean, if we had eight billion people on this planet,...  
 **Translation:** 
 
-**[10529.20s] English:** aspect of it um and and i think i think people people are shallow in in so many parts of their  
+**[10541.28s] English:** Even if it never grew, even if we just stayed at eight billion, but the eight billion all lived.  
 **Translation:** 
 
-**[10535.84s] English:** lives which saddens me i mean if we if you had eight billion people in this planet  
+**[10546.48s] English:** Fully, wow! I mean, what an amazing place this would be. What an amazing experience we would have! So, so...  
 **Translation:** 
 
-**[10541.28s] English:** even if it never grew even if we just stayed at eight billion but the eight billion all lived  
+**[10552.96s] English:** To me, that is the meaning: just make the most of the short period of time you have on Earth.  
 **Translation:** 
 
-**[10546.48s] English:** fully wow i mean what an amazing place this would be what an amazing experience we would have so so  
+**[10559.20s] English:** That's it. This is it.  
 **Translation:** 
 
-**[10552.96s] English:** to me that is the meaning is just make the most that you have a short period of time on earth  
+**[10560.00s] English:** And live it, experience it fully, and challenge yourself and push yourself. Let me just say,  
 **Translation:** 
 
-**[10559.20s] English:** that's it this is it  
+**[10565.72s] English:** Something about optimism, you know—one source of hope for me in the world in which we live, right?  
 **Translation:** 
 
-**[10560.00s] English:** and live it experience it fully and and challenge yourself and push yourself and and let me just say  
+**[10571.14s] English:** Now, is that there are people who do that—at least in certain realms of their lives—right?  
+**Translation:** Vocabulary: optimism: 积极乐观; realms: 领域
+
+**[10578.06s] English:** I'm inspired, and I know a lot of people don't like me for this, but I'm inspired, for example, by  
 **Translation:** 
 
-**[10565.72s] English:** something about optimism you know one source of hope for me in the world in which we live right  
+**[10583.80s] English:** Silicon Valley, in spite of all the political disagreements I have with them and all of that.  
+**Translation:** Vocabulary: disagreements: 分歧; silicon: 硅
+
+**[10587.36s] English:** I'm inspired by people inventing new technologies and building. I'm inspired by the people you  
 **Translation:** 
 
-**[10571.14s] English:** now is that there are people who do that at least in certain realms of of their lives right and and  
-**Translation:** Vocabulary: optimism: 乐观主义
-
-**[10578.06s] English:** i'm inspired and and i know a lot of people don't like me for this but i'm inspired for example by  
+**[10593.14s] English:** Talk to me about artificial intelligence, and about new ideas and pushing the boundaries.  
 **Translation:** 
 
-**[10583.80s] English:** silicon valley in spite of all the the political disagreements i have with them and all of that  
-**Translation:** Vocabulary: disagreements: 分歧
-
-**[10587.36s] English:** i'm inspired by people inventing new technologies and building i'm inspired by by the people you  
+**[10598.00s] English:** Of science, those things are exciting, and it's terrific to see a world that I think generally is.  
 **Translation:** 
 
-**[10593.14s] English:** talk to about artificial intelligence and about about new ideas and about pushing the boundaries  
-**Translation:** 
-
-**[10598.00s] English:** of science those things are exciting and it's it's terrific to see a world that i think generally is  
-**Translation:** 
-
-**[10603.36s] English:** in decline yet that these pockets in which people are still creating new uh new ventures and new  
+**[10603.36s] English:** In decline, yet there are still pockets where people are creating new ventures and new opportunities.  
 **Translation:** Vocabulary: ventures: 新事业
 
-**[10609.94s] English:** ideas and new things that that inspires me and it gives me hope that that is not dead that in spite  
+**[10609.94s] English:** Ideas and new things that inspire me, and it gives me hope that this isn't dead; that in spite of everything.  
 **Translation:** 
 
-**[10615.26s] English:** of the decay that's in our culture  
-**Translation:** Vocabulary: inspires: 启发
-
-**[10617.36s] English:** there's still pockets where that spirit of being human is still is still alive and well yeah they  
+**[10615.26s] English:** Of the decay that's in our culture.  
 **Translation:** 
 
-**[10623.98s] English:** inspire me as well yeah and they truly live with the capital l and maybe i can do on a star maybe  
+**[10617.36s] English:** There are still pockets where that spirit of being human is still alive and well, yeah. They  
 **Translation:** 
 
-**[10631.42s] English:** you can also put a little bit of love with the capital l out there as well uh you're on you knew  
+**[10623.98s] English:** Inspire me, as well, yeah. And they truly live with the capital L, and maybe I can do on a star, maybe.  
 **Translation:** 
 
-**[10638.64s] English:** i would end it that way wouldn't you uh you're on you're on thank you so much this is a huge honor  
+**[10631.42s] English:** You can also put a little bit of love with the capital L out there, as well. You're on; you knew.  
 **Translation:** 
 
-**[10643.74s] English:** i really enjoyed the debate yesterday i really enjoyed the conversation today that you as  
+**[10638.64s] English:** I would end it that way, wouldn't you? You're on—thank you so much; this is a huge honor.  
 **Translation:** 
 
-**[10647.34s] English:** spend your valuable time with me just means a lot thank you so much this is amazing  
+**[10643.74s] English:** I really enjoyed the debate yesterday, and I really enjoyed the conversation today that you had.  
 **Translation:** 
 
-**[10651.90s] English:** thanks for listening to this conversation with yaron brooke and yoram hozzoni to support this  
+**[10647.34s] English:** Spend your valuable time with me just means a lot. Thank you so much! This is amazing.  
 **Translation:** 
 
-**[10658.30s] English:** podcast please check out our sponsors in the description and now let me leave you with some  
-**Translation:** Vocabulary: brooke: 布鲁克; sponsors: 赞助商
-
-**[10663.66s] English:** words from edmund burke the only thing necessary for the triumph of evil is for good men to do  
+**[10651.90s] English:** Thanks for listening to this conversation with Yaron Brooke and Yoram Hozeni. To support this,  
 **Translation:** 
 
-**[10671.02s] English:** nothing thank you for listening and hope to see you next time  
+**[10658.30s] English:** Podcast: Please check out our sponsors in the description, and now let me leave you with some.  
 **Translation:** 
 
-**[10677.34s] English:** you  
+**[10663.66s] English:** Words from Edmund Burke: "The only thing necessary for the triumph of evil is for good men to do nothing.  
+**Translation:** 
+
+**[10671.02s] English:** Nothing. Thank you for listening, and hope to see you next time.  
+**Translation:** 
+
+**[10677.34s] English:** You.  
 **Translation:** 
 
 **[10680.00s] English:** Thank you.  

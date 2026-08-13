@@ -1,217 +1,218 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics, Physics, Truth & Love ｜ Lex Fridman Podcast #370.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** is a famous story about einstein that he used to you know go um think think think and then go for a  
+**[0.00s] English:** Is there a famous story about Einstein that he used to, you know, go, um, think, think, think, and then go for a  
 **Translation:** 
 
-**[5.44s] English:** walk and like he would whistle sometimes so i remember the first time i heard this story  
+**[5.44s] English:** Walk, and like he would whistle sometimes. So, I remember the first time I heard this story.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; whistle: 吹口哨
+
+**[10.80s] English:** I thought it was interesting, so the coincidence that this came to him when he was whistling.  
 **Translation:** 
 
-**[10.80s] English:** i thought how interesting so the coincidence that he this came to him when he was whistling  
-**Translation:** 
-
-**[15.28s] English:** but in fact it's not this it is how it works in some sense that you have to prepare for it but  
+**[15.28s] English:** But, in fact, it's not like this; it is how it works, in some sense, that you have to prepare for it.  
 **Translation:** Vocabulary: coincidence: 巧合; whistling: 吹口哨
 
-**[21.92s] English:** then the mom it happens when you stop thinking actually so the moment of discovery is the moment  
+**[21.92s] English:** Then, the moment of discovery happens when you stop thinking about it actually. So, the moment of discovery is the moment  
 **Translation:** 
 
-**[27.20s] English:** when thinking stops and you know you kind of you kind of almost become that truth that you're  
+**[27.20s] English:** When thinking stops, and you know, you kind of almost become that truth that you're exploring.  
 **Translation:** 
 
-**[35.12s] English:** seeking the following is a conversation with edward frankel one of the greatest living mathematicians  
+**[35.12s] English:** Seeking the following: A conversation with Edward Frankel, one of the greatest living mathematicians.  
 **Translation:** 
 
-**[43.44s] English:** doing research on the interface of mathematics and quantum physics with an emphasis on the langlands  
-**Translation:** Vocabulary: frankel: 弗兰克尔; interface: 接口; langlands: 兰朗; mathematicians: 数学家
-
-**[49.36s] English:** program which he describes as a grand unified theory of mathematics he also is the author of  
+**[43.44s] English:** Doing research on the interface of mathematics and quantum physics, with an emphasis on the Langlands program.  
 **Translation:** 
 
-**[56.16s] English:** love and math  
+**[49.36s] English:** Program, which he describes as a "grand unified theory" of mathematics, he also is the author of.  
 **Translation:** 
 
-**[57.60s] English:** the heart of hidden reality this is a lex friedman podcast to support it please check out our  
+**[56.16s] English:** Love and Math  
 **Translation:** 
 
-**[63.52s] English:** sponsors in the description and now dear friends here's edward frankel you open your book love and  
-**Translation:** Vocabulary: friedman: 弗里德曼; sponsors: 赞助商
-
-**[71.76s] English:** math with a question how does one become a mathematician there are many ways that this  
+**[57.60s] English:** The Heart of Hidden Reality: This is a Lex Fridman Podcast. To support it, please check out our  
 **Translation:** 
 
-**[77.12s] English:** can happen let me tell you how it happened to me so how did it happen to you so first of all  
+**[63.52s] English:** Sponsors in the description, and now, dear friends, here's Edward Frankel. You open your book, "Love and...  
+**Translation:** Vocabulary: frankel: 弗兰克尔; sponsors: 赞助商
+
+**[71.76s] English:** Math: With a question, "How does one become a mathematician? There are many ways," that this  
+**Translation:** 
+
+**[77.12s] English:** Can happen. Let me tell you how it happened to me. So, how did it happen to you? So, first of all,  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[83.28s] English:** i grew up in the soviet union  
+**[83.28s] English:** I grew up in the Soviet Union.  
 **Translation:** 
 
-**[86.56s] English:** in a small town  
+**[86.56s] English:** In a small town,  
 **Translation:** 
 
-**[87.60s] English:** near moscow called columnar and i was a smart kid you know in school  
+**[87.60s] English:** Near Moscow, called Columnar, and I was a smart kid, you know, in school.  
 **Translation:** 
 
-**[95.12s] English:** but mathematics was probably my least favorite subject not because i couldn't do it i was you  
+**[95.12s] English:** But mathematics was probably my least favorite subject not because I couldn't do it; I was just not interested in it.  
 **Translation:** 
 
-**[101.60s] English:** know a straight-a student and i could do all the problems easily but i thought it was incredibly  
+**[101.60s] English:** I knew a straight-A student, and I could do all the problems easily, but I thought it was incredibly  
 **Translation:** 
 
-**[108.00s] English:** boring and um since the only math i knew was what was presented at school  
+**[108.00s] English:** Boring, and since the only math I knew was what was presented at school.  
 **Translation:** 
 
-**[115.52s] English:** i thought that was it and i was like what kind of boring  
+**[115.52s] English:** I thought that was it, and I was like, "What kind of boring?  
 **Translation:** 
 
-**[119.92s] English:** so  
+**[119.92s] English:** So,  
 **Translation:** 
 
-**[123.92s] English:** i  
+**[120.00s] English:** The subject is this, so what I really liked was physics, and especially quantum physics. So, I was buying  
 **Translation:** 
 
-**[125.92s] English:** i  
+**[123.92s] English:** I.  
+**Translation:** Vocabulary: quantum: 量子
+
+**[125.92s] English:** I.  
 **Translation:** 
 
-**[127.92s] English:** i  
+**[127.54s] English:** Uh, I would go to a bookstore and buy popular books about elementary particles.  
+**Translation:** Vocabulary: particles: 基本粒子
+
+**[127.92s] English:** I.  
 **Translation:** 
 
-**[129.92s] English:** i  
+**[129.92s] English:** I.  
 **Translation:** 
 
-**[131.92s] English:** i  
+**[131.92s] English:** I.  
 **Translation:** 
 
-**[133.92s] English:** i  
+**[133.92s] English:** I.  
 **Translation:** 
 
-**[135.92s] English:** i  
+**[134.36s] English:** And I read atoms and things like that, devoured them, and so I thought my dream was to  
 **Translation:** 
 
-**[137.92s] English:** i  
+**[135.92s] English:** I.  
+**Translation:** Vocabulary: devoured: 如饥似渴地阅读
+
+**[137.92s] English:** I.  
 **Translation:** 
 
-**[139.92s] English:** i  
+**[139.92s] English:** I.  
 **Translation:** 
 
-**[141.92s] English:** i  
+**[141.92s] English:** I.  
 **Translation:** 
 
-**[143.92s] English:** i  
+**[143.92s] English:** I.  
 **Translation:** 
 
-**[120.00s] English:** subject is this so what i really liked was physics and especially quantum physics so i was buying  
+**[144.24s] English:** Become a theoretical physicist and to delve into this finer structure of the universe, you know.  
 **Translation:** 
 
-**[127.54s] English:** uh i was i would go to a bookstore and buy popular books about elementary particles  
-**Translation:** 
-
-**[134.36s] English:** and atoms and things like that and read them you know devour them and so i thought my dream was to  
-**Translation:** Vocabulary: devour: 狼吞虎咽
-
-**[144.24s] English:** become a theoretical physicist and to delve into this finer structure of the universe you know  
-**Translation:** 
-
-**[150.86s] English:** so then something happened when i was 15 years old uh it turns out that a friend of my parents  
+**[150.86s] English:** So, then something happened when I was 15 years old. It turns out that a friend of my parents',  
 **Translation:** Vocabulary: delve: 深入研究; physicist: 物理学家
 
-**[158.12s] English:** was a mathematician who was a professor at the local college it was a small college  
+**[158.12s] English:** Was a mathematician who was a professor at the local college; it was a small college.  
 **Translation:** 
 
-**[163.52s] English:** preparing educators teachers it's a provincial town imagine it's like 117 kilometers from  
-**Translation:** Vocabulary: educators: 教育者
+**[163.52s] English:** Preparing educators: it's a provincial town, imagine it's like 117 kilometers from there.  
+**Translation:** Vocabulary: educators: 教育者; mathematician: 数学家
 
-**[170.48s] English:** moscow which would be something like 70 miles i guess you do the math  
+**[170.48s] English:** Moscow, which would be something like 70 miles; I guess you do the math.  
 **Translation:** 
 
-**[174.08s] English:** you do the math  
+**[174.08s] English:** You do the math.  
+**Translation:** Vocabulary: moscow: 莫斯科
+
+**[175.12s] English:** I like how you remember the number exactly. Yeah, it's not funny how we remember numbers.  
 **Translation:** 
 
-**[175.12s] English:** i like how you remember the number exactly yeah it's not funny how we remember numbers  
-**Translation:** 
-
-**[179.52s] English:** yeah so his name was evgeny evgenievich petrov yeah and if this doesn't remind you of the great  
+**[179.52s] English:** Yeah, so his name was Evgeny Evgenievich Petrov. Yeah, and if this doesn't remind you of the great...  
 **Translation:** Vocabulary: evgenievich: 伊万诺维奇
 
-**[187.44s] English:** works of russian literature then you haven't read them  
+**[187.44s] English:** Works of Russian literature? Then, you haven't read them.  
 **Translation:** 
 
-**[191.84s] English:** like war and peace you know like with the patronymic name yeah but this was all real this  
+**[191.84s] English:** Like "War and Peace," you know, with the patronymic name, yeah. But this was all real. This  
 **Translation:** Vocabulary: patronymic: 父姓
 
-**[196.24s] English:** was all happening so my mom one day by chance met evgenievich and told him about me  
+**[196.24s] English:** It was all happening, so my mom, one day by chance, met Evgenievich and told him about me.  
 **Translation:** 
 
-**[203.84s] English:** but  
+**[203.84s] English:** But  
 **Translation:** 
 
-**[204.08s] English:** i was a bright kid and interested in physics and he said oh i want to meet him  
+**[204.08s] English:** I was a bright kid and interested in physics, and he said, "Oh, I want to meet him.  
 **Translation:** 
 
-**[211.12s] English:** i'm going to convert him into math and my mom's like nah math he doesn't like mathematics so  
+**[211.12s] English:** I'm going to convert him into math, and my mom's like, "Nah, math—he doesn't like mathematics, so...  
+**Translation:** Vocabulary: convert: 转变
+
+**[217.44s] English:** They said, "Okay, let's see what they can do." So I went to see him. I was about 15.  
 **Translation:** 
 
-**[217.44s] English:** they said okay let's let's see what they can do so i went to see him so i'm about 15.  
-**Translation:** 
-
-**[223.76s] English:** and a bit a bit uh arrogant i would say you know like every teenager so he says to me so i hear that  
+**[223.76s] English:** And a bit, a bit uh, arrogant, I would say — you know, like every teenager. So, he says to me, so I hear that.  
 **Translation:** Vocabulary: arrogant: 自以为是
 
-**[234.16s] English:** you are um interested in in physics and elementary particles it's like yeah sure  
+**[234.16s] English:** You are interested in physics and elementary particles, right? Yeah, sure.  
 **Translation:** 
 
-**[241.12s] English:** okay  
+**[240.00s] English:** And he said, for example, "Do you know about quarks?  
+**Translation:** Vocabulary: particles: 粒子; quarks: 夸克
+
+**[241.12s] English:** Okay.  
 **Translation:** 
 
-**[246.00s] English:** i'm sorry  
+**[244.58s] English:** And I said, "Yes, of course I know about quarks.  
 **Translation:** 
 
-**[248.08s] English:** i'm sorry  
-**Translation:** 
-
-**[250.08s] English:** i'm sorry  
-**Translation:** 
-
-**[252.08s] English:** i'm sorry  
-**Translation:** 
-
-**[254.08s] English:** i'm sorry  
-**Translation:** 
-
-**[256.08s] English:** i'm sorry  
-**Translation:** 
-
-**[258.08s] English:** i'm sorry  
-**Translation:** 
-
-**[260.08s] English:** i'm sorry  
-**Translation:** 
-
-**[262.08s] English:** i'm sorry  
-**Translation:** 
-
-**[240.00s] English:** And he said, for example, do you know about quarks?  
-**Translation:** Vocabulary: quarks: 夸克
-
-**[244.58s] English:** And I said, yes, of course I know about quarks.  
+**[246.00s] English:** I'm sorry.  
 **Translation:** 
 
 **[247.08s] English:** Quarks are the constituents of particles like protons and neutrons.  
-**Translation:** Vocabulary: constituents: 组成部分; neutrons: 中子
+**Translation:** Vocabulary: constituents: 组成部分; neutrons: 中子; protons: 质子
 
-**[253.76s] English:** And it was one of the greatest discoveries in theoretical physics in the 60s that those  
+**[248.08s] English:** I'm sorry.  
 **Translation:** 
 
-**[259.34s] English:** particles were not elementary, but in fact had the smaller parts.  
+**[250.08s] English:** I'm sorry.  
 **Translation:** 
 
-**[263.76s] English:** And he said, oh, so then you probably know representation theory of the group SU3.  
+**[252.08s] English:** I'm sorry.  
 **Translation:** 
 
-**[269.22s] English:** Like as you would.  
+**[253.76s] English:** And it was one of the greatest discoveries in theoretical physics in the '60s that those  
 **Translation:** 
 
-**[271.60s] English:** So in fact, I wanted to know what were the underpinnings of those theories.  
+**[254.08s] English:** I'm sorry.  
+**Translation:** 
+
+**[256.08s] English:** I'm sorry.  
+**Translation:** 
+
+**[258.08s] English:** I'm sorry.  
+**Translation:** 
+
+**[259.34s] English:** Particles were not elementary, but in fact had smaller parts.  
+**Translation:** 
+
+**[260.08s] English:** I'm sorry.  
+**Translation:** 
+
+**[262.08s] English:** I'm sorry.  
+**Translation:** 
+
+**[263.76s] English:** And he said, "Oh, so then you probably know the representation theory of the group SU(3).  
+**Translation:** 
+
+**[269.22s] English:** As you would.  
+**Translation:** 
+
+**[271.60s] English:** So, in fact, I wanted to know what the underpinnings of those theories were.  
 **Translation:** 
 
 **[278.84s] English:** I knew the story.  
@@ -220,22 +221,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[279.84s] English:** I knew the narrative.  
 **Translation:** 
 
-**[280.84s] English:** I knew kind of this basic story of what these particles look like.  
+**[280.84s] English:** I knew, kind of, the basic story of what these particles look like.  
 **Translation:** 
 
 **[284.68s] English:** But how did physicists come up with these ideas?  
 **Translation:** 
 
 **[288.44s] English:** How were they able to theorize them?  
-**Translation:** 
+**Translation:** Vocabulary: physicists: 物理学家
 
 **[291.02s] English:** And so I remembered, you know, like it was yesterday.  
 **Translation:** 
 
-**[293.26s] English:** So he pulls out a book and it's kind of like, it's like a Bible, you know, like a substance  
+**[293.26s] English:** So he pulls out a book, and it's kind of like a Bible—you know, a substantial one.  
 **Translation:** 
 
-**[299.22s] English:** book.  
+**[299.22s] English:** Book.  
 **Translation:** 
 
 **[300.22s] English:** And he opens it somewhere in the middle.  
@@ -247,23 +248,23 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[306.62s] English:** But in popular books, there was no explanation.  
 **Translation:** Vocabulary: diagrams: 图表
 
-**[309.64s] English:** And now I see all these weird symbols and equations.  
+**[309.64s] English:** And now, I see all these weird symbols and equations.  
 **Translation:** 
 
-**[313.04s] English:** It's clear that it is explained in there.  
-**Translation:** Vocabulary: equations: 数学方程
+**[313.04s] English:** It's clear that it is explained there.  
+**Translation:** Vocabulary: equations: 方程式
 
 **[315.60s] English:** Oh, my God.  
 **Translation:** 
 
-**[317.60s] English:** He said, you think what they teach you at school is mathematics?  
+**[317.60s] English:** He said, "You think what they teach you at school is mathematics?  
 **Translation:** 
 
-**[321.34s] English:** It's like, no, this is real mathematics.  
+**[321.34s] English:** It's like: No, this is real mathematics.  
 **Translation:** 
 
-**[325.76s] English:** So I was instantly converted.  
-**Translation:** 
+**[325.76s] English:** So, I was instantly converted.  
+**Translation:** Vocabulary: converted: 转变; instantly: 立刻
 
 **[327.60s] English:** That you understand.  
 **Translation:** 
@@ -274,196 +275,196 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[333.08s] English:** You have to understand what SU3 is.  
 **Translation:** 
 
-**[334.64s] English:** You have to learn what are groups, what is group SU3, what are representations of SU3.  
+**[334.64s] English:** You have to learn what groups are, what is SU3, and what are the representations of SU3.  
+**Translation:** Vocabulary: representations: 表示方式
+
+**[342.74s] English:** There was a coherent and beautiful thing.  
 **Translation:** 
 
-**[342.74s] English:** There was a coherent and beautiful.  
+**[345.52s] English:** I could appreciate the beauty, even though I could not understand the heads and tails.  
+**Translation:** Vocabulary: coherent: 连贯的
+
+**[350.18s] English:** Of it.  
 **Translation:** 
 
-**[345.52s] English:** I could appreciate the beauty, even though I could not understand the heads and tails  
-**Translation:** Vocabulary: coherent: 条理清晰
+**[351.18s] English:** But you were drawn to the methodology, the machinery of how such understanding could be achieved.  
+**Translation:** Vocabulary: machinery: 机器; methodology: 方法论
 
-**[350.18s] English:** of it.  
-**Translation:** 
-
-**[351.18s] English:** But you were drawn to the methodology, the machinery of how such understanding could  
-**Translation:** Vocabulary: machinery: 机器装置; methodology: 方法论
-
-**[356.58s] English:** be attained.  
+**[356.58s] English:** Achievement can be attained.  
 **Translation:** 
 
 **[357.58s] English:** Well.  
+**Translation:** Vocabulary: attained: 达到
+
+**[358.60s] English:** So, in that respect, I think what I was reading.  
 **Translation:** 
 
-**[358.60s] English:** So in that respect, I think what I was reading.  
+**[360.88s] English:** Craving was a deeper understanding, and up to that point, the deepest that I could see was.  
+**Translation:** Vocabulary: craving: 渴望
+
+**[367.44s] English:** Those diagrams, but for that story: that you know, a proton consists of three quarks, and the neutron.  
 **Translation:** 
 
-**[360.88s] English:** craving was a deeper understanding and uh up to that point the deepest that i could see was were  
-**Translation:** Vocabulary: craving: 强烈欲望
+**[373.20s] English:** Consists of three quarks, and they're called up and down, and so on, but I didn't know that.  
+**Translation:** Vocabulary: neutron: 中子; proton: 质子
 
-**[367.44s] English:** those diagrams but for that story that you know a proton consists of three quarks and the neutron  
+**[379.04s] English:** There was actually a mathematical theory underneath all of that, if you could just link it together.  
 **Translation:** 
 
-**[373.20s] English:** consists of three quarks and they're called up and down and so on but i didn't know that there  
-**Translation:** Vocabulary: neutron: 中子; quarks: 夸克
+**[385.60s] English:** Ground, what drew you to quantum mechanics—is there some romantic notion of understanding the  
+**Translation:** Vocabulary: mathematical: 数学的; quantum: 量子的; underneath: 在...下面
 
-**[379.04s] English:** was actually underneath beneath the surface there was this mathematical theory if you can just link  
+**[392.80s] English:** Universe, what is interesting to you—is it the puzzle of it, or is it the philosophical thing?  
 **Translation:** 
 
-**[385.60s] English:** ground what drew you to quantum mechanics is there some romantic notion of understanding the  
-**Translation:** 
-
-**[392.80s] English:** universe what is interesting to you is it the puzzle of it or is it like the philosophical thing  
-**Translation:** 
-
-**[398.16s] English:** now i am looking back yeah so um whatever i say about edward uh at 15. yeah he's colored by  
+**[398.16s] English:** Now, I am looking back. Yeah, so, um, whatever I say about Edward at 15 is colored by  
 **Translation:** Vocabulary: philosophical: 哲学的
 
-**[408.80s] English:** uh my you know all my experiences that happen in in the meantime i should say current views and so  
+**[408.80s] English:** Uh, my, you know, all my experiences that happen in the meantime, I should say, current views and so on.  
 **Translation:** 
 
-**[415.12s] English:** on but  
+**[415.12s] English:** On, but  
 **Translation:** Vocabulary: meantime: 其间
 
-**[415.60s] English:** the people who may not know you i think your book and your presentations kind of revealed that that  
+**[415.60s] English:** The people who may not know you: I think your book and your presentations kind of revealed that.  
 **Translation:** 
 
-**[420.96s] English:** 15 year old is still in there somewhere well i think it's a compliment some of the joy he's  
+**[420.96s] English:** A 15-year-old is still in there, somewhere. Well, I think it's a compliment. Some of the joy he's  
+**Translation:** Vocabulary: presentations: 演讲
+
+**[426.24s] English:** Probably, still here now, yes, yeah. In some way, yeah, I think it was a joy of discovery and the joy of.  
 **Translation:** 
 
-**[426.24s] English:** probably still here now yes yeah in some way yeah i think it was a joy of discovery and the joy of  
+**[432.56s] English:** Going deeper into the kind of root, uh, to the deepest structures of the  
 **Translation:** 
 
-**[432.56s] English:** going deeper into the kind of the uh to the root uh to the uh so the deepest structures of the  
+**[440.80s] English:** The universe: the secrets, that's the secrets, and we may not discover all of them; we may not be able.  
 **Translation:** 
 
-**[440.80s] English:** universe the secrets that's the secrets and we may not discover all of them we may not be able  
+**[447.68s] English:** To understand, but we're going to try and go as far and as deep as we can. I think that's what  
 **Translation:** 
 
-**[447.68s] English:** to understand but we're going to try and go as far and as deep as we can i think that's what  
+**[454.40s] English:** Was the motivating factor in this? Yeah, there's this mystery, there's this dark room, and there's  
 **Translation:** 
 
-**[454.40s] English:** was the motivating factor in this yeah there's this mystery there's this dark room and there's  
+**[460.64s] English:** A few of these mathematical physicists are able to shine a flashlight briefly into there.  
+**Translation:** Vocabulary: flashlight: 手电筒; motivating: 激励的; physicists: 物理学家
+
+**[468.64s] English:** Uh, we'll talk about it, but also kind of...  
 **Translation:** 
 
-**[460.64s] English:** a few of these mathematical physicists they're able to shine a flashlight briefly into there  
-**Translation:** Vocabulary: flashlight: 手电筒; mathematical: 数学的; motivating: 激励的; physicists: 物理学家
-
-**[468.64s] English:** uh we'll we'll talk about it but also kind of  
+**[470.80s] English:** It makes me sad that there are so few of your kind who have the flashlight to look into the room.  
 **Translation:** 
 
-**[470.80s] English:** makes me sad that there's so few of your kind that have the flashlight to look into the room  
+**[480.00s] English:** It's interesting, um, I don't think there are so few, to be honest, because I find a lot of.  
 **Translation:** 
 
-**[480.00s] English:** it's interesting um i don't think there are so few to be honest because i think i find a lot of  
+**[487.22s] English:** People are actually interested if you talk to people, you know, like some people you  
 **Translation:** 
 
-**[487.22s] English:** people are actually interested if you talk if you talk to people you know like some people you  
+**[492.64s] English:** Wouldn't expect to be interested in this, from all walks of life, from people of  
 **Translation:** 
 
-**[492.64s] English:** wouldn't expect to uh to be interested in this uh from all walks of life from people of  
+**[499.68s] English:** All kinds of professions. I tell them I'm a mathematician, and they say, "mathematician," okay? So  
+**Translation:** Vocabulary: mathematician: 数学家; professions: 职业
+
+**[505.84s] English:** That's a separate story. A lot of people, I think, have been traumatized by their experience in the  
 **Translation:** 
 
-**[499.68s] English:** all kinds of professions i tell them i'm a mathematician and they mathematician okay so  
+**[510.54s] English:** In math classes, we can talk about it later, but then they ask me what kind of research I do, and I...  
+**Translation:** Vocabulary: traumatized: 受创伤
+
+**[516.84s] English:** Mentioned that I work on the interface of math and quantum physics, and their eyes light up.  
 **Translation:** 
 
-**[505.84s] English:** that's a separate story a lot of people i think have been traumatized by their experience in the  
+**[522.74s] English:** Say, oh, quantum physics, or like Einstein's relativity? Oh, I'm really curious about it.  
+**Translation:** Vocabulary: interface: 数学与量子物理的交界; quantum: 量子; relativity: 相对论
+
+**[526.62s] English:** Watch this podcast, or I'll watch that one instead. You know, and I've learned this: it's like what do?  
 **Translation:** 
 
-**[510.54s] English:** math classes we can talk about it later but then they ask me what kind of research i do and i i  
-**Translation:** Vocabulary: traumatized: 心理创伤
-
-**[516.84s] English:** mentioned that i i work on the interface of math and quantum physics and their eyes light up and  
+**[530.54s] English:** You think about that? So, I actually find that physicists are doing a great job.  
 **Translation:** 
 
-**[522.74s] English:** say oh quantum physics or like einstein's relativity oh i'm really curious about it i  
-**Translation:** Vocabulary: interface: 学科交叉; relativity: 相对论
-
-**[526.62s] English:** watch this podcast or i watch that podcast you know and i've learned this it's like what do  
+**[535.84s] English:** Educating the public, so to speak, and in terms of popular books and videos, and so on.  
 **Translation:** 
 
-**[530.54s] English:** you think about that so i actually find that actually physicists are doing a great job  
+**[545.96s] English:** Mathematicians are behind that we are starting to catch up a little bit; have been starting last.  
+**Translation:** Vocabulary: educating: 教育公众; mathematicians: 数学家
+
+**[551.70s] English:** 10 years, but when we're still behind, but I think people are people are curious, and science is still  
 **Translation:** 
 
-**[535.84s] English:** educating the public so to speak and uh in terms of um popular books and videos and so on  
+**[558.44s] English:** Very much, you know, something that people want to learn because that's our kind of the best.  
 **Translation:** 
 
-**[545.96s] English:** mathematicians are behind that we are starting to catch up a little bit have been starting last  
-**Translation:** Vocabulary: mathematicians: 数学家
-
-**[551.70s] English:** 10 years but when we're still behind but i think people are people are curious science is a is still  
+**[563.54s] English:** Way we know to establish some sort of  
 **Translation:** 
 
-**[558.44s] English:** very much uh you know something that people want to learn because that's our kind of uh the best  
+**[565.84s] English:** Objective reality, whatever that might be, yeah—to figure out this whole puzzle, to figure it out.  
 **Translation:** 
 
-**[563.54s] English:** way we know to establish some sort of  
+**[571.74s] English:** The secrets that the universe holds, things that we can agree on — kind of, you know, like even though.  
 **Translation:** 
 
-**[565.84s] English:** objective reality whatever that might be yeah to figure out this whole puzzle to figure out  
+**[575.66s] English:** For me, at this point, I always make an argument that our physical theories always change.  
 **Translation:** 
 
-**[571.74s] English:** the secrets that the universe holds things that we can agree on kind of you know like even though  
+**[580.94s] English:** They get updated, so you had Newton's theory of gravity, then Einstein's theory, you know.  
 **Translation:** 
 
-**[575.66s] English:** for me at this point i always you know make an argument that our physical theories always change  
+**[587.90s] English:** Superseded it, but in mathematics, it seems that theories don't change Pythagoras' theorem.  
+**Translation:** Vocabulary: gravity: 引力; pythagoras: 毕达哥拉斯; superseded: 取代; theorem: 定理
+
+**[595.84s] English:** Has been the same for the last 2500 years: \(x^2 + y^2\).  
 **Translation:** 
 
-**[580.94s] English:** they get updated so you had newton's theory of gravity then um einstein's theory you know  
+**[600.00s] English:** Squared equals Z squared, we don't expect that next year suddenly it will be Z cubed.  
+**Translation:** Vocabulary: equals: 等于
+
+**[605.28s] English:** You know?  
 **Translation:** 
 
-**[587.90s] English:** superseded it but in mathematics it seems that theories don't change pythagoras theorem  
-**Translation:** Vocabulary: gravity: 万有引力; pythagoras: 毕达哥拉斯; superseded: 取代; theorem: 定理
-
-**[595.84s] English:** has been the same for the last 2500 years x squared plus y squared  
+**[606.78s] English:** And so, to me, that is actually even more of a hint at how much we are connected to.  
 **Translation:** 
 
-**[600.00s] English:** squared equals Z squared, we don't expect that next year suddenly it will be Z cubed,  
+**[613.52s] English:** Each other.  
 **Translation:** 
 
-**[605.28s] English:** you know?  
+**[614.52s] English:** Because Pythagoras's theory, if you think about it, or any other mathematical theory, means  
 **Translation:** 
 
-**[606.78s] English:** And so that to me is actually even more, hints even more at how much we are connected to  
+**[620.00s] English:** The same thing to anyone in the world today, regardless of their cultural upbringing or religion,  
 **Translation:** 
 
-**[613.52s] English:** each other.  
+**[627.68s] English:** You know, ideas, ideology, gender, whatever, nationality, race, and so on, right?  
+**Translation:** Vocabulary: ideology: 思想体系; upbringing: 教养
+
+**[635.30s] English:** And it has meant the same to everyone, everywhere, and most likely will mean the same.  
 **Translation:** 
 
-**[614.52s] English:** Because Pythagoras' theory, if you think about it, or any other mathematical theory, means  
-**Translation:** 
-
-**[620.00s] English:** the same thing to anyone in the world today, regardless of their cultural upbringing, religion,  
-**Translation:** 
-
-**[627.68s] English:** you know, ideas, ideology, gender, whatever, nationality, race, whatever, right?  
-**Translation:** Vocabulary: ideology: 思想观念; upbringing: 教育背景
-
-**[635.30s] English:** And it has meant the same to everyone everywhere, and most likely will mean the same.  
-**Translation:** 
-
-**[642.14s] English:** So that's, to me, kind of an antidote to the kind of divisiveness that we sometimes observe  
+**[642.14s] English:** So, that's, to me, kind of an antidote to the kind of divisiveness that we sometimes observe.  
 **Translation:** Vocabulary: antidote: 解毒剂; divisiveness: 分裂感
 
-**[650.32s] English:** these days, where it seems that we can't agree on anything.  
+**[650.32s] English:** These days, where it seems that we can't agree on anything.  
 **Translation:** 
 
-**[654.12s] English:** To the political complexity of two plus two  
+**[654.12s] English:** To the political complexity of "two plus two,  
+**Translation:** Vocabulary: complexity: 复杂性
+
+**[657.66s] English:** Equals five in George Orwell's "1984.  
 **Translation:** 
 
-**[657.66s] English:** equals five in George Orwell's 1984.  
-**Translation:** 
-
-**[661.16s] English:** I was in the Soviet Union in 1984, and so in many ways, I see that it was prescient.  
-**Translation:** 
+**[661.16s] English:** I was in the Soviet Union in 1984, and so, in many ways, I see that it was prescient.  
+**Translation:** Vocabulary: prescient: 先知的
 
 **[667.66s] English:** The novel was prescient.  
 **Translation:** 
 
-**[669.28s] English:** But we still have not found a dictator who would actually say two plus two equals five  
-**Translation:** Vocabulary: dictator: 独裁者; prescient: 先知的
+**[669.28s] English:** But we still have not found a dictator who would actually say that two plus two equals five.  
+**Translation:** Vocabulary: dictator: 独裁者
 
-**[674.04s] English:** and would demand their citizens to repeat that.  
+**[674.04s] English:** And they would demand their citizens to repeat that.  
 **Translation:** 
 
 **[677.12s] English:** The night is still young.  
@@ -472,568 +473,568 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[678.12s] English:** Has not happened yet, okay?  
 **Translation:** 
 
-**[680.12s] English:** It does feel like math and physics are both sneaking up to a deep truth from slightly  
-**Translation:** Vocabulary: sneaking: 偷偷接近
+**[680.12s] English:** It does feel like math and physics are both sneaking up to a deep truth from slightly不同的角度。  
+**Translation:** Vocabulary: sneaking: 偷偷地接近
 
-**[686.54s] English:** different angles.  
+**[686.54s] English:** Different angles.  
 **Translation:** 
 
 **[687.54s] English:** And you stand at the crossroads, or at the intersection of the two.  
-**Translation:** Vocabulary: intersection: 十字路口
+**Translation:** Vocabulary: crossroads: 十字路口; intersection: 交叉口
 
-**[692.04s] English:** It's interesting to ask, what do you think is the difference between physics and mathematics,  
+**[692.04s] English:** It's interesting to ask: What do you think is the difference between physics and mathematics?  
 **Translation:** 
 
-**[695.80s] English:** and the way physics and mathematics look at the world?  
+**[695.80s] English:** And the way physics and mathematics look at the world?  
 **Translation:** 
 
 **[699.36s] English:** There is actually an essential difference, which is that physicists are interested in  
 **Translation:** 
 
-**[704.46s] English:** describing this universe, okay?  
+**[704.46s] English:** Describing this universe, okay?  
 **Translation:** Vocabulary: physicists: 物理学家
 
 **[708.74s] English:** Mathematicians are interested in describing all possible mathematical universes, of which,  
 **Translation:** 
 
-**[714.04s] English:** you know, in some of our work, I still consider myself more of a mathematician.  
-**Translation:** Vocabulary: mathematical: 数学的; mathematician: 数学家; mathematicians: 数学家; universes: 宇宙
-
-**[717.54s] English:** And a physicist, my first love...  
+**[714.04s] English:** You know, in some of our work, I still consider myself more of a mathematician.  
 **Translation:** 
 
-**[720.00s] English:** for physics notwithstanding mathematicians are we in a way we have  
-**Translation:** Vocabulary: notwithstanding: 尽管; physicist: 物理学家
-
-**[727.68s] English:** more diversity if you if you might say so we we are accepting for instance our  
+**[717.54s] English:** And a physicist, my first love....  
 **Translation:** 
 
-**[733.82s] English:** universe has three spatial spatial dimensions in one time dimension right  
+**[720.00s] English:** For physics, notwithstanding mathematicians, we are, in a way, we have.  
+**Translation:** Vocabulary: mathematicians: 数学家; notwithstanding: 尽管; physicist: 物理学家
+
+**[727.68s] English:** More diversity, if you might say so, we are accepting, for instance.  
+**Translation:** 
+
+**[733.82s] English:** The universe has three spatial dimensions, and one time dimension, right?  
 **Translation:** Vocabulary: dimension: 维度; dimensions: 维度; spatial: 空间的
 
-**[739.68s] English:** so what I mean is that allegedly allegedly observed but that we can  
+**[739.68s] English:** So, what I mean is that allegedly observed, but that we can  
 **Translation:** 
 
-**[745.20s] English:** observe today right so of course there are theories where there are some hidden  
-**Translation:** Vocabulary: allegedly: 据称
+**[745.20s] English:** Observe today, right? So, of course, there are theories where there are some hidden...  
+**Translation:** Vocabulary: allegedly: 据说
 
-**[748.72s] English:** dimensions as well well let's just say observe to you observe dimensions so  
+**[748.72s] English:** Dimensions, as well; let's just say that you observe dimensions.  
 **Translation:** 
 
-**[754.42s] English:** this tabletop has two dimensions because you can have two access to coordinate  
-**Translation:** Vocabulary: coordinate: 坐标; tabletop: 桌面
+**[754.42s] English:** This tabletop has two dimensions because you can access two coordinates.  
+**Translation:** Vocabulary: coordinates: 坐标; tabletop: 桌面
 
-**[759.32s] English:** axis X and Y but then there is also the third one to describe the space of this  
+**[759.32s] English:** Axis X and Y, but then there is also the third one to describe the space of this.  
 **Translation:** 
 
-**[765.54s] English:** room and then there is a time time dimension so realistic theories of  
+**[765.54s] English:** Room, and then there is a time-time dimension, so realistic theories of...  
 **Translation:** 
 
-**[770.10s] English:** physics have to be about spaces of three three dimensions or space-time so four  
+**[770.10s] English:** Physics has to be about spaces of three dimensions or space-time, so four.  
 **Translation:** 
 
-**[778.42s] English:** dimensions  
+**[778.42s] English:** Dimensions:  
 **Translation:** 
 
-**[778.72s] English:** but mathematically we are just as interested in theories in 10 space-time  
+**[778.72s] English:** But mathematically, we are just as interested in theories in 10 spacetime dimensions.  
 **Translation:** 
 
-**[785.44s] English:** dimensions or 11 or 25 or whatever or or infinite dimensional spaces you know so  
-**Translation:** Vocabulary: mathematically: 从数学上
+**[785.44s] English:** Dimensions, or 11, or 25, or whatever, or even infinite-dimensional spaces, you know.  
+**Translation:** Vocabulary: mathematically: 从数学上; spacetime: 时空
 
-**[792.92s] English:** that's the difference on the other hand I have to give it to the physicists we  
+**[792.92s] English:** That's the difference. On the other hand, I have to give it to the physicists; we  
 **Translation:** 
 
-**[797.88s] English:** don't have the same satisfaction that they have of having their theories  
-**Translation:** 
-
-**[804.10s] English:** confirmed by an experiment we don't get to play with big machines like  
-**Translation:** 
-
-**[808.72s] English:** LHC in Geneva large Hadron Collider that recently discovered you know the Higgs  
-**Translation:** Vocabulary: collider: 粒子对撞机; hadron: 重子; higgs: 希格斯
-
-**[814.78s] English:** boson and some other things for us it's all like a mental exercise in some sense  
-**Translation:** 
-
-**[819.88s] English:** we do we prove things by using rules of logic and that's our way of confirming  
-**Translation:** Vocabulary: boson: 玻色子
-
-**[827.34s] English:** experimental confirmation if you will but I think we kind of I kind of envy a  
-**Translation:** 
-
-**[831.28s] English:** little bit my friends physicists that they they get to they get to experience  
+**[797.88s] English:** Don't have the same satisfaction that they have from having their theories.  
 **Translation:** Vocabulary: physicists: 物理学家
 
-**[835.06s] English:** this sort of this big toys you know and play with them  
+**[804.10s] English:** Confirmed by an experiment, we don't get to play with big machines like  
 **Translation:** 
 
-**[838.72s] English:** but it does seem that some  
+**[808.72s] English:** LHC in Geneva, the Large Hadron Collider, that recently discovered, you know, the Higgs.  
+**Translation:** Vocabulary: collider: 粒子对撞机; hadron: 重子; higgs: 希格斯
+
+**[814.78s] English:** Boson, and some other things — for us, it's all like a mental exercise, in some sense.  
 **Translation:** 
 
-**[840.00s] English:** times as you've spoken about abstract mathematical concepts map to reality and it seems to happen  
+**[819.88s] English:** We do we prove things by using rules of logic, and that's our way of confirming.  
+**Translation:** Vocabulary: boson: 玻色子; confirming: 验证
+
+**[827.34s] English:** Experimental confirmation, if you will, but I think we kind of envy a  
 **Translation:** 
 
-**[845.72s] English:** quite a bit that's right so the mathematics is underpins physics obviously it's a language  
+**[831.28s] English:** A little bit, my friends, physicists get to experience  
+**Translation:** 
+
+**[835.06s] English:** This sort of big toys, you know, and play with them.  
+**Translation:** 
+
+**[838.72s] English:** But it does seem that some.  
+**Translation:** 
+
+**[840.00s] English:** Times, as you've spoken about abstract mathematical concepts mapping to reality, it seems to happen.  
+**Translation:** 
+
+**[845.72s] English:** Quite a bit, that's right. So, the mathematics underpins physics obviously; it's a language.  
 **Translation:** Vocabulary: mathematical: 数学的; underpins: 支撑
 
-**[850.40s] English:** the the book of nature as galileo famously said is written in the language of mathematics  
+**[850.40s] English:** The book of nature, as Galileo famously said, is written in the language of mathematics.  
 **Translation:** 
 
-**[858.08s] English:** and and you know the the letters in it are the circles triangles and squares and those who don't  
+**[858.08s] English:** And you know, the letters in it are circles, triangles, and squares. Those who don't  
 **Translation:** Vocabulary: galileo: 伽利略; triangles: 三角形
 
-**[867.42s] English:** know the language i'm paraphrasing are left to wander in a dark labyrinth that's a famous quote  
+**[867.42s] English:** Know the language I'm paraphrasing, and you'll find yourself wandering in a dark labyrinth—that's a famous quote.  
 **Translation:** 
 
-**[874.46s] English:** from galileo which is very true and has become even more true more recently in theoretical physics  
+**[874.46s] English:** From Galileo, which is very true and has become even more true more recently in theoretical physics.  
 **Translation:** Vocabulary: labyrinth: 迷宫; paraphrasing: 改写
 
-**[880.84s] English:** in the more in the most um sort of far out um parts of the theoretical physics that have to do  
+**[880.84s] English:** In the more far-out parts of theoretical physics that have to do,...  
 **Translation:** 
 
-**[888.86s] English:** with elementary particles in the and uh as well as the the structure of the cosmos at the large scale  
-**Translation:** Vocabulary: cosmos: 宇宙
+**[888.86s] English:** With elementary particles, in the and as well as the structure of the cosmos at the large scale.  
+**Translation:** Vocabulary: cosmos: 宇宙; particles: 粒子
 
-**[894.62s] English:** what do you think of uh max tagmark  
+**[894.62s] English:** What do you think of Max Tagmark?  
 **Translation:** 
 
-**[897.32s] English:** you  
+**[897.32s] English:** You.  
+**Translation:** Vocabulary: tagmark: 标签标记
+
+**[897.42s] English:** Wrote the book "Mathematical Universe." So, do you think just lingering on that point, you think it's worth revisiting?  
 **Translation:** 
 
-**[897.42s] English:** wrote the book mathematical universe so do you think just lingering on that point you think at  
+**[905.24s] English:** The end of the day, the future generations will all be mathematicians, meaning the ones who are proficient in mathematics.  
+**Translation:** Vocabulary: mathematicians: 数学家; proficient: 精通
+
+**[912.90s] English:** That deeply understands the way the universe works at its core sees it as just mathematics at the core of everything.  
 **Translation:** 
 
-**[905.24s] English:** the end of the day the future generations will all be mathematicians meaning meaning the ones  
-**Translation:** Vocabulary: mathematicians: 数学家
-
-**[912.90s] English:** that deeply understand the way the universe works at the core is it just mathematics at the core of  
+**[920.66s] English:** You know,  
 **Translation:** 
 
-**[920.66s] English:** you know  
+**[921.62s] English:** I would say mathematics is one-half of the core.  
 **Translation:** 
 
-**[921.62s] English:** i would say mathematics is one half of the core  
-**Translation:** 
-
-**[927.46s] English:** so the book is called love and math yeah okay so these are the two pillars  
+**[927.46s] English:** So, the book is called "Love and Math," yes? Okay, so these are the two pillars.  
 **Translation:** Vocabulary: pillars: 支柱
 
-**[931.86s] English:** yeah in my view yes in other words you can't cover everything by math so my  
+**[931.86s] English:** Yeah, in my view, yes, in other words, you can't cover everything with math, so my.  
 **Translation:** 
 
-**[939.32s] English:** mathematics gives you tools it gives you way about a kind of a clear uh vision  
+**[939.32s] English:** Mathematics gives you tools; it gives you a way to achieve a kind of clear vision.  
 **Translation:** 
 
-**[947.70s] English:** but mathematics by itself is not enough for one to have a harmonious and uh balanced life you know so  
+**[947.70s] English:** But mathematics by itself is not enough for one to have a harmonious and balanced life, you know.  
 **Translation:** 
 
-**[956.04s] English:** i i have a gotten i'll go with sessions with come and go with every committee i have i'm very positive that it's successful i think i want toulsion but the only issue as always has been glass on the answered question is you can do at the speed that is the maximum level  
-**Translation:** 
+**[956.04s] English:** I've had sessions with people who come and go with every committee. I'm very positive that it's successful, and I think Toussaint is key. But the only issue, as always, has been Glass. On the answered question, you can do it at the speed that is the maximum level.  
+**Translation:** Vocabulary: balanced: 和谐而有度; toussaint: 托桑特
 
 **[957.14s] English:** I am suspicious of any theory that  
 **Translation:** 
 
-**[960.00s] English:** declares that everything is mathematics so math can generate things that are beautiful  
+**[960.00s] English:** Declares that everything is mathematics, so math can generate things that are beautiful.  
+**Translation:** Vocabulary: suspicious: 怀疑
+
+**[966.82s] English:** But it can't explain why it's beautiful. Math, you could say, is a way to discern patterns and find...  
 **Translation:** 
 
-**[966.82s] English:** but it can't explain why it's beautiful math you could say is a way to discern patterns to find  
-**Translation:** 
-
-**[973.54s] English:** regularities in the universe and both physical and mental universe mathematics explores the mind  
+**[973.54s] English:** Regularities in the universe, and both physical and mental phenomena, are explored through mathematics.  
 **Translation:** Vocabulary: discern: 辨识
 
-**[980.58s] English:** as much as it explores um the physical world around us and it helps us to find those patterns  
+**[980.58s] English:** As much as it explores the physical world around us, it helps us to find those patterns.  
 **Translation:** 
 
-**[987.84s] English:** um which kind of which makes our perception more sophisticated our ability to perceive things  
-**Translation:** Vocabulary: perceive: 感知; sophisticated: 复杂的
+**[987.84s] English:** Um, which kind of makes our perception more sophisticated, our ability to perceive things.  
+**Translation:** Vocabulary: perceive: 感知; perception: 认知; sophisticated: 复杂的
 
-**[995.20s] English:** such as beauty you know and um it sharpens our ability to see to see beauty to understand beauty  
+**[995.20s] English:** Such as beauty, you know, and, um, it sharpens our ability to see beauty and understand beauty.  
 **Translation:** 
 
-**[1003.22s] English:** so our world becomes more complex um from thinking that our that our that earth is flat  
+**[1003.22s] English:** So, our world becomes more complex, um, from thinking that the Earth is flat.  
 **Translation:** Vocabulary: sharpens: 使敏锐
 
-**[1011.16s] English:** we go to realizing that it is round that it's shaped as a sphere so that we can actually travel  
+**[1011.16s] English:** We realize that it is round, shaped like a sphere, so that we can actually travel.  
 **Translation:** 
 
-**[1017.70s] English:** around the world and we can actually see the world and we can actually see the world and we  
+**[1017.70s] English:** Around the world, and we can actually see the world, and we can actually see the world, and we  
 **Translation:** 
 
-**[1017.84s] English:** can actually see the world and we can actually see the world around the earth you know so there  
+**[1017.84s] English:** Can actually see the world, and we can actually see the world around the Earth, you know, so there.  
 **Translation:** 
 
-**[1019.64s] English:** isn't a place where we hit the end so to speak and then um proceeding in the same vein then  
+**[1019.64s] English:** Isn't a place where we hit the end, so to speak, and then proceed in the same vein, then.  
 **Translation:** 
 
-**[1028.46s] English:** einstein's general relativity theory tells us that our space time is not flat either  
+**[1028.46s] English:** Einstein's general relativity theory tells us that our spacetime is not flat either.  
 **Translation:** 
 
-**[1035.06s] English:** this is much harder to to imagine that bent a bent three-dimensional or four-dimensional  
-**Translation:** Vocabulary: relativity: 相对论
+**[1035.06s] English:** This is much harder to imagine than a bent three-dimensional or four-dimensional object.  
+**Translation:** Vocabulary: relativity: 相对论; spacetime: 时空
 
-**[1041.90s] English:** three-dimensional space or four-dimensional space time because this idea that the space  
+**[1041.90s] English:** Three-dimensional space or four-dimensional spacetime, because this idea that the space  
 **Translation:** 
 
-**[1046.22s] English:** around us is flat is so deeply  
+**[1046.22s] English:** Around us, it is flat, and it is so deeply.  
 **Translation:** 
 
-**[1047.70s] English:** entrenched and yet we know from the from this theory and from the experiments that have confirmed  
+**[1047.70s] English:** Entrenched, and yet we know from the theory and from the experiments that have confirmed.  
 **Translation:** 
 
-**[1054.24s] English:** it that a ray of light bends around a star as if being attracted by the by the force of gravity but  
-**Translation:** Vocabulary: entrenched: 根深蒂固; gravity: 引力
+**[1054.24s] English:** It is that a ray of light bends around a star as if being attracted by the force of gravity, but  
+**Translation:** Vocabulary: entrenched: 根深蒂固; experiments: 实验; gravity: 引力
 
-**[1063.54s] English:** in fact the force of gravity is the bending it's just that it's not only the bending of the space  
+**[1063.54s] English:** In fact, the force of gravity is the bending; it's just that it's not only the bending of the space.  
 **Translation:** 
 
-**[1068.40s] English:** it's also the bending of space-time there is a curvature not only between special spatial dimensions  
-**Translation:** Vocabulary: curvature: 曲率; dimensions: 维度; spatial: 空间的
+**[1068.40s] English:** It's also the bending of space-time; there is a curvature, not only between special spatial dimensions.  
+**Translation:** Vocabulary: bending: 弯曲; curvature: 曲率; dimensions: 维度; spatial: 空间的
 
-**[1075.36s] English:** the way parallels and meridians  
+**[1075.36s] English:** The way parallels and meridians.  
 **Translation:** 
 
-**[1077.70s] English:** the way parallels and meridians come together in a small scale  
+**[1077.70s] English:** The way parallels and meridians come together on a small scale.  
+**Translation:** Vocabulary: meridians: 经线
+
+**[1080.00s] English:** They look like perpendicular lines, but if you zoom out, you see that the spaces are curving.  
 **Translation:** 
 
-**[1080.00s] English:** they look like perpendicular lines, but if you zoom out, you see that the space are curving the  
+**[1086.48s] English:** Space. They are sort of the tracks along which space gets curved. That would be the curvature of.  
+**Translation:** Vocabulary: curving: 弯曲; perpendicular: 垂直
+
+**[1093.52s] English:** Spatial dimensions. But in fact, now throw in time, and imagine a sphere which has  
 **Translation:** 
 
-**[1086.48s] English:** space. They are sort of the tracks along which the space gets curved. That would be the curvature of  
+**[1101.04s] English:** One of the meridians corresponds to time, and the parallel corresponds to space. I can't imagine it.  
+**Translation:** Vocabulary: corresponds: 相等; parallel: 平行
+
+**[1106.08s] English:** But I can write a mathematical formula expressing that curvature. In fact, that curvature is  
 **Translation:** 
 
-**[1093.52s] English:** spatial dimensions. But in fact, now throw in time, and one time, imagine a sphere which has  
-**Translation:** 
-
-**[1101.04s] English:** one of the meridians correspond to time and the parallel correspond to space. I can't imagine it,  
-**Translation:** Vocabulary: correspond: 对应; meridians: 经线
-
-**[1106.08s] English:** but I can write a mathematical formula expressing that curvature. In fact, that curvature is  
-**Translation:** 
-
-**[1112.24s] English:** responsible for the force of gravity attraction between the sort of simplest instantiation of it,  
+**[1112.24s] English:** Responsible for the force of gravity attraction between the sort of simplest instantiation of it,  
 **Translation:** Vocabulary: instantiation: 实例; mathematical: 数学的
 
-**[1117.84s] English:** attraction between two planets, or between two human beings, for that matter.  
+**[1117.84s] English:** Attraction between two planets, or between two human beings, for that matter.  
 **Translation:** 
 
-**[1123.04s] English:** Yeah, the time, bending time, it's not very nice what that theory did to time,  
+**[1123.04s] English:** Yeah, the time-bending theory didn't do much good to time.  
 **Translation:** 
 
-**[1130.64s] English:** because it feels like the marching of time forward is fundamental to  
+**[1130.64s] English:** Because it feels like the marching of time forward is fundamental to.  
 **Translation:** 
 
-**[1135.92s] English:** our understanding of the universe.  
+**[1135.92s] English:** Our understanding of the universe.  
 **Translation:** 
 
-**[1136.06s] English:** Human experience. The arrow of time marching forward nicely seems to be the only way we can  
+**[1136.06s] English:** Human experience: The arrow of time, marching forward nicely, seems to be the only way we can.  
 **Translation:** 
 
-**[1143.82s] English:** understand the universe. And the fact that you can start...  
+**[1143.82s] English:** Understand the universe, and the fact that you can start...  
+**Translation:** Vocabulary: nicely: 顺畅地
+
+**[1146.14s] English:** Up to now, there are people who claim that they can, and that they have,  
 **Translation:** 
 
-**[1146.14s] English:** Up to now, up to now. There are people who claim that they can, that they have,  
+**[1149.74s] English:** They possess other ways of experiencing it.  
 **Translation:** 
 
-**[1149.74s] English:** they possess other ways of experiencing it.  
+**[1152.30s] English:** So, truly, we can visualize messing with time.  
 **Translation:** 
 
-**[1152.30s] English:** So truly can visualize messing with time.  
+**[1155.02s] English:** Well, messing with time, but not necessarily messing with time, because...  
+**Translation:** Vocabulary: messing: 捣鼓; visualize: 想象
+
+**[1159.66s] English:** One point of view is that, you know, I think, who was it? I think William Blake,  
 **Translation:** 
 
-**[1155.02s] English:** Well, messing with time, but not necessarily messing with time, because  
-**Translation:** Vocabulary: visualize: 想象
+**[1165.26s] English:** Who wrote that "Eternity Loves Time"? Production. So, one point of view is that it is Eternity.  
+**Translation:** Vocabulary: blake: 布莱克
 
-**[1159.66s] English:** one point of view is that, you know, I think, who was it? I think William Blake,  
+**[1175.02s] English:** Which is fundamental, where time stands still, which our mind conceptualizes as time.  
 **Translation:** 
 
-**[1165.26s] English:** who wrote that eternity loves time production. So one point of view is that it is eternity,  
-**Translation:** Vocabulary: blake: 威廉·布莱克
+**[1183.02s] English:** But, in fact, you know, it's not something mystical. If you think about it, when you're  
+**Translation:** Vocabulary: mystical: 神秘的
 
-**[1175.02s] English:** which is fundamental, where time stands still, which our mind conceptualizes as the time.  
+**[1189.26s] English:** Really absorbed in something, time does stand still. And then you look at the clock and it's  
 **Translation:** 
 
-**[1183.02s] English:** But in fact, you know, it's not something mystical. If you think about it, when you're  
-**Translation:** Vocabulary: conceptualizes: 概念化; mystical: 神秘的
-
-**[1189.26s] English:** really absorbed in something, time does stand still. And then you look at the clock and it's  
+**[1194.62s] English:** Like, oh my God.  
 **Translation:** 
 
-**[1194.62s] English:** like, oh my God.  
+**[1195.10s] English:** Two hours have passed, and it felt like a couple of seconds. When you are  
 **Translation:** 
 
-**[1195.10s] English:** Two hours have passed. And it felt like a couple of seconds. When you are  
+**[1200.00s] English:** Absorbed when you're in love, when you are passionate about something, when  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[1204.62s] English:** You're creating something, and we lose ourselves—and we lose—in the sense of...  
 **Translation:** 
 
-**[1200.00s] English:** absorbed when you're in love when you are a passionate about something when  
+**[1210.06s] English:** Time and space, for that matter, you see, so there is only that which is happening.  
 **Translation:** 
 
-**[1204.62s] English:** you're creating something you're we lose ourselves and we lose in the sense of  
+**[1214.32s] English:** That creative process, so I think this is familiar to all of us, and  
 **Translation:** 
 
-**[1210.06s] English:** time and space for that matter you see so there is only that which is happening  
+**[1220.40s] English:** We may be actually the closest to the truth at that moment, so yes, so then.  
 **Translation:** 
 
-**[1214.32s] English:** that creative process so I think that this this is familiar to all of us and  
+**[1226.04s] English:** There is a point of view that this is where we are; we are who we are at.  
 **Translation:** 
 
-**[1220.40s] English:** we may be actually the closest to the truth at that moment so yes so then  
+**[1230.84s] English:** Our fundamental principles at our fundamental level, and after that, the  
 **Translation:** 
 
-**[1226.04s] English:** there is a point of view that this is where we are the we are who we are at  
+**[1235.22s] English:** Mind comes in and tries to conceptualize it; it's like, "Oh," because I was writing.  
 **Translation:** 
 
-**[1230.84s] English:** our sort of fundamental at our fundamental level and after that the  
-**Translation:** 
-
-**[1235.22s] English:** mind comes in and tries to conceptualize it it's like oh because I was writing  
-**Translation:** 
-
-**[1239.96s] English:** something I was writing a book I was painting this painting or maybe I was  
+**[1239.96s] English:** Something: I was writing a book, I was painting this painting, or maybe I was.  
 **Translation:** Vocabulary: conceptualize: 构建概念
 
-**[1246.40s] English:** watching this painting and got totally absorbed in it or I fell in love with  
+**[1246.40s] English:** Watching this painting, and I got totally absorbed in it—or I fell in love with it.  
 **Translation:** 
 
-**[1250.10s] English:** this person that's what happened but in the moment when it's happening you're  
+**[1250.10s] English:** This is what happened, but at the moment when it's happening, you're  
 **Translation:** 
 
-**[1253.64s] English:** not thinking about it  
+**[1253.64s] English:** Not thinking about it.  
 **Translation:** 
 
-**[1254.50s] English:** you're just there  
+**[1254.50s] English:** You're just there.  
 **Translation:** 
 
-**[1256.02s] English:** yeah we construct narratives around the set of memories that that seemed to have  
+**[1256.02s] English:** Yeah, we construct narratives around the set of memories that seemed to have  
 **Translation:** 
 
-**[1260.52s] English:** happened in sequence or at least that's the way we tell ourselves that and we  
+**[1260.52s] English:** Happened in sequence, or at least that's the way we tell ourselves it happened, and we  
+**Translation:** Vocabulary: narratives: 故事框架
+
+**[1265.08s] English:** Also, we have a bunch of weird human things like consciousness and the experience of.  
 **Translation:** 
 
-**[1265.08s] English:** also have a bunch of weird human things like consciousness and the experience of  
+**[1270.12s] English:** Free will: that we chose a set of actions as time rolled forward, right?  
+**Translation:** Vocabulary: consciousness: 醒着的状态
+
+**[1277.44s] English:** We are intelligent, conscious agents making those actions, but  
 **Translation:** 
 
-**[1270.12s] English:** free will that we chose a set of actions as the time unrolled forward right and  
-**Translation:** Vocabulary: unrolled: 展开
-
-**[1277.44s] English:** we are intelligent conscious agents making takes taking those actions but  
+**[1285.06s] English:** What if all of that is just a set of memories, and we're just there and we're  
 **Translation:** 
 
-**[1285.06s] English:** what if all of that is just a set of memories and we're just there and we're  
+**[1286.00s] English:** Just there, so it is maybe an illusion, Amygdala Art, uh, but why it's not Polski?  
 **Translation:** 
 
-**[1286.00s] English:** just there so it is maybe an illusion amygdala art uh but why it's not Polski  
+**[1290.54s] English:** Sloth.  
+**Translation:** Vocabulary: sloth: 懒惰
+
+**[1291.78s] English:** Fusion: An illusion. An illusion—that's a nice narrative we tell ourselves, Brother.  
 **Translation:** 
 
-**[1290.54s] English:** Sloth  
-**Translation:** Vocabulary: amygdala: 杏仁体; sloth: 树懒
-
-**[1291.78s] English:** fusion an illusion illusion that's a nice narrative we tell ourефlex. Brother  
+**[1295.36s] English:** One or Bair, and imagine that to make it really a Catch-22, our imagine...  
 **Translation:** 
 
-**[1295.36s] English:** one or Bair and imagine imagine that to make it really catch 22 that our imagine  
+**[1302.42s] English:** That our minds and sisters are set up in such a way, yeah, that they can't approach.  
 **Translation:** 
 
-**[1302.42s] English:** that our minds and sister are set up in such a way yeah that they can't approach  
+**[1307.20s] English:** The world, or experience it otherwise, so, in other words, to understand and see that if.  
 **Translation:** 
 
-**[1307.20s] English:** the world or experience otherwise so in other words to understand to see that if  
+**[1313.36s] English:** From a more  
 **Translation:** 
 
-**[1313.36s] English:** from a more  
-**Translation:** 
-
-**[1315.40s] English:** Well, I wonder what's the more honest way to look at things.  
+**[1315.40s] English:** Well, I wonder what the more honest way to look at things is.  
 **Translation:** 
 
 **[1318.68s] English:** But I think we like to be.  
 **Translation:** 
 
-**[1320.00s] English:** to play with time i think we like to play with these experiences with all the drama of it with  
+**[1320.00s] English:** To play with time, I think we like to add these experiences with all the drama of it.  
 **Translation:** 
 
-**[1324.72s] English:** all the memories with all the tribulations i think we love it we love it otherwise we wouldn't be  
+**[1324.72s] English:** All the memories, with all the tribulations, I think we love it. We love it, otherwise we wouldn't be.  
 **Translation:** 
 
-**[1330.36s] English:** doing it i think this or earth loves it the evolutionary process somehow loves it whatever  
+**[1330.36s] English:** Doing it, I think, this or Earth loves it—the evolutionary process somehow loves it, whatever.  
 **Translation:** Vocabulary: evolutionary: 进化; tribulations: 磨难
 
-**[1336.24s] English:** whatever this thing that's being created here on earth it seems to like to create like to allow  
+**[1336.24s] English:** Whatever this thing that's being created here on Earth, it seems to like to allow.  
 **Translation:** 
 
-**[1343.54s] English:** its children to play with certain uh yeah truths that they hold the subjective truths that are  
+**[1343.54s] English:** It's important for children to play with certain, uh, yeah, truths that they hold—the subjective truths that are.  
 **Translation:** 
 
-**[1350.64s] English:** useful for the competition or whatever this dance that we call life broadly defined not just humans  
+**[1350.64s] English:** Useful for the competition, or whatever this dance that we call "life" (broadly defined, not just humans).  
 **Translation:** 
 
-**[1355.90s] English:** and and you know i'm glad you mentioned that because what i find fascinating is that the  
+**[1355.90s] English:** And, you know, I'm glad you mentioned that because what I find fascinating is that the  
+**Translation:** Vocabulary: broadly: 广泛地
+
+**[1361.02s] English:** Greatest scientists are on record saying that when they were making their discoveries, they felt like  
 **Translation:** 
 
-**[1361.02s] English:** greatest scientists are on record saying that when they were making their discoveries they felt like  
+**[1367.84s] English:** Children, so Isaac Newton said to himself, "I only appeared as a child playing on the seashore.  
+**Translation:** Vocabulary: newton: 牛顿; seashore: 海滨
+
+**[1373.08s] English:** And  
 **Translation:** 
 
-**[1367.84s] English:** children so isaac newton said to myself i only appeared as a child playing on the seashore  
-**Translation:** Vocabulary: seashore: 海滨
+**[1373.54s] English:** Every once in a while, finding a prettier pebble or a prettier shell, whilst I think, "some he said.  
+**Translation:** Vocabulary: pebble: 小石子
 
-**[1373.08s] English:** and  
+**[1379.30s] English:** Something like the infinite ocean of knowledge lay before me, Alexander Growth.  
 **Translation:** 
 
-**[1373.54s] English:** every once in a while finding a prettier pebble or a prettier shell whilst i think some he said  
+**[1385.54s] English:** And Dick, who probably was the greatest mathematician of the second half of the 20th century.  
+**Translation:** Vocabulary: infinite: 无尽; mathematician: 数学家
+
+**[1391.22s] English:** In the 20th century, the French mathematician Alexander Grothendieck wrote that "discovery is a privilege.  
 **Translation:** 
 
-**[1379.30s] English:** something like the infinite ocean of knowledge laid laid was lying before me alexander growth  
+**[1398.26s] English:** Of a child, the child who is not afraid to be wrong once again, to look like an idiot, you know.  
+**Translation:** Vocabulary: grothendieck: 格罗滕迪克; privilege: 特权
+
+**[1404.90s] English:** To try this and that, and I'm paraphrasing and go through trial and error—that is for them, in other words.  
 **Translation:** 
 
-**[1385.54s] English:** and dick who probably it was the greatest mathematician of the second half of the 20th  
+**[1411.38s] English:** Words for them, uh, that innocence of a child who is not afraid and has not yet been told that it.  
+**Translation:** Vocabulary: innocence: 天真; paraphrasing: 改述
+
+**[1420.58s] English:** Cannot be done, okay. That was essential to a scientific pursuit and scientific discovery.  
 **Translation:** 
 
-**[1391.22s] English:** century the french mathematician alexander grothendieck wrote that discovery is a privilege  
+**[1428.26s] English:** And now, and also, compared to Pablo Picasso, a great artist, right? So, who said?  
+**Translation:** Vocabulary: cannot: 不能; picasso: 毕加索; pursuit: 追求
+
+**[1435.62s] English:** Every child is an artist; the question is how to preserve that.  
 **Translation:** 
 
-**[1398.26s] English:** of a child the child who is not afraid to be wrong once again to look like an idiot you know  
-**Translation:** Vocabulary: grothendieck: 格罗滕迪克; mathematician: 数学家
+**[1440.00s] English:** As we grow up, do you struggle with that? You're one of the most respected.  
+**Translation:** Vocabulary: respected: 受人尊敬的
 
-**[1404.90s] English:** to try this and that and i'm paraphrasing and go through trial and error that is for them in other  
+**[1445.54s] English:** Mathematicians in the world, you're like Berkeley—this one.  
 **Translation:** 
 
-**[1411.38s] English:** words for them uh that innocence of a child who is not afraid who has not yet been told that it  
-**Translation:** Vocabulary: innocence: 纯真; paraphrasing: 改述
+**[1451.10s] English:** There's a statue; you're supposed to be very like, you know? Yeah, I joke and say I.  
+**Translation:** Vocabulary: berkeley: 加州大学伯克利分校; mathematicians: 数学家
 
-**[1420.58s] English:** cannot be done okay that was essential to uh scientific pursuit to scientific discovery  
+**[1456.92s] English:** I think I take an elevator to the top of the ivory tower every day. Yeah, you are.  
 **Translation:** 
 
-**[1428.26s] English:** and now and now also uh compared to pablo picasso a great artist right so who said  
-**Translation:** Vocabulary: cannot: 不能; picasso: 毕加索
+**[1462.14s] English:** Supposed to speak like royalty, do you struggle to like to strip all of that away?  
+**Translation:** Vocabulary: royalty: 王室成员
 
-**[1435.62s] English:** every every child is an artist the question is to how to preserve that  
+**[1468.56s] English:** To rediscover the child when you're thinking about problems, when you're  
 **Translation:** 
 
-**[1440.00s] English:** as we grow up do you struggle with that you're one of the most respected  
-**Translation:** 
-
-**[1445.54s] English:** mathematicians in the world you're Berkeley you're like this this  
-**Translation:** 
-
-**[1451.10s] English:** there's a statue you're supposed to be very like you know yeah I joke I say I  
-**Translation:** Vocabulary: mathematicians: 数学家
-
-**[1456.92s] English:** think I take an elevator to the top of the ivory tower every day yeah you're  
-**Translation:** 
-
-**[1462.14s] English:** supposed to speak like royalty do you struggle to like strip all of that away  
-**Translation:** 
-
-**[1468.56s] English:** to rediscover the child when you're thinking about problems when you're  
-**Translation:** 
-
-**[1472.92s] English:** teaching when you're thinking about the world absolutely I mean this part of  
+**[1472.92s] English:** Teaching when you're thinking about the world, absolutely—I mean, this part of  
 **Translation:** Vocabulary: rediscover: 重新发现
 
-**[1477.14s] English:** being human because when we grow up I mean all of them all of this great  
+**[1477.14s] English:** Being human, because when we grow up, I mean, all of us — all of this greatness.  
 **Translation:** 
 
-**[1481.64s] English:** scientists I think they were so great in part because they were able to maintain  
+**[1481.64s] English:** Scientists, I think, they were so great in part because they were able to maintain  
+**Translation:** Vocabulary: greatness: 卓越
+
+**[1486.50s] English:** That connection, okay? And that fascination, that vulnerability—that's  
 **Translation:** 
 
-**[1486.50s] English:** that connection okay and that fascination that vulnerability that's  
+**[1492.38s] English:** Spontaneity, you know, and kind of looking at the world through the eyes of  
+**Translation:** Vocabulary: fascination: 着迷; spontaneity: spontaneity; vulnerability: 脆弱性
+
+**[1498.44s] English:** You.  
 **Translation:** 
 
-**[1492.38s] English:** spontaneity you know and kind of looking at the world through the eyes of  
-**Translation:** Vocabulary: fascination: 着迷; spontaneity: 随机性; vulnerability: 脆弱
-
-**[1498.44s] English:** you  
+**[1498.56s] English:** Child, but it's difficult because you know, you go through the education system and  
 **Translation:** 
 
-**[1498.56s] English:** child but it's difficult because you know you go through education system and  
+**[1502.88s] English:** For many of us, it's not especially helpful for maintaining that connection.  
 **Translation:** 
 
-**[1502.88s] English:** for many of us it's not especially helpful for maintaining that connection  
+**[1510.68s] English:** That we kind of like we're being told certain things that we accept and take for granted.  
 **Translation:** 
 
-**[1510.68s] English:** that we kind of like we're being told certain things that we accept take for  
+**[1515.90s] English:** Granted, and so on, and little by little, and also, we get hit every time we act.  
 **Translation:** 
 
-**[1515.90s] English:** granted and so on and little by little and also we get hit every time we act  
+**[1521.12s] English:** Different okay, every time we act in a way that doesn't fit, sort  
 **Translation:** 
 
-**[1521.12s] English:** different okay every time we act that doesn't in a way that doesn't fit sort  
+**[1526.28s] English:** Of the pattern, we get punished by the teacher.  
 **Translation:** 
 
-**[1526.28s] English:** of the pattern we get punished by the teacher  
+**[1528.44s] English:** The teachers get punished by parents, and so on, and don't get respect when you act.  
 **Translation:** 
 
-**[1528.44s] English:** the teachers get punished by parents and so on and don't get respect when you act  
+**[1534.20s] English:** Childlike in your thinking, when you are fearless and looking like an idiot.  
 **Translation:** 
 
-**[1534.20s] English:** childlike in your thinking when you are fearless and looking like an idiot  
+**[1540.68s] English:** That's right, because there's a hierarchy, and nobody wants to look like an idiot.  
+**Translation:** Vocabulary: childlike: 像孩子; fearless: 无畏; hierarchy: 等级制度
+
+**[1544.34s] English:** Know, once you start growing up—or you think you're growing up—yeah, in the  
 **Translation:** 
 
-**[1540.68s] English:** that's right because there's a hierarchy nobody wants to look like an idiot you  
-**Translation:** Vocabulary: childlike: 天真; fearless: 无畏; hierarchy: 等级
-
-**[1544.34s] English:** know once you start growing up or you think you're growing up yeah in the  
+**[1548.12s] English:** At the beginning, you don't even think of it in these terms; you just  
 **Translation:** 
 
-**[1548.12s] English:** beginning you don't even think of you don't um think in these terms you just  
+**[1553.16s] English:** Play, you're just playing, and you are open to possibilities—this infinite possibility.  
 **Translation:** 
 
-**[1553.16s] English:** play you're just playing and you are open to possibilities to this infinite possibility  
+**[1558.44s] English:** That this world presents to us  
+**Translation:** Vocabulary: infinite: 无尽的
+
+**[1560.00s] English:** So, how do we approach this? I'm not saying that the education system should not be, kind of, tamed a little bit.  
 **Translation:** 
 
-**[1558.44s] English:** that this world presents to us  
+**[1570.98s] English:** Obviously, the goal is balance: acquiring knowledge so that we can be more mature and more discerning, more discriminating in terms of our approach to the world, in terms of our connections to the world and people, and so on.  
+**Translation:** Vocabulary: discerning: 有洞察力的; discriminating: 挑剔的; mature: 成熟的
+
+**[1590.00s] English:** But how do we do that while also preserving a child's innocence?  
 **Translation:** 
 
-**[1560.00s] English:** So how do we, I'm not saying that education system should not be also kind of taming that a little bit.  
-**Translation:** 
-
-**[1570.98s] English:** Obviously, the goal is balance, that acquiring knowledge so that we can be more mature and more discerning, more discriminating in terms of our approach to the world, in terms of our connections to the world and people and so on.  
-**Translation:** Vocabulary: discerning: 明辨是非; discriminating: 精挑细选
-
-**[1590.00s] English:** But how do we do that while also preserving that innocence of a child?  
-**Translation:** 
-
-**[1596.28s] English:** And my guess is that there is no formula for this.  
+**[1596.28s] English:** And, my guess is that there is no formula for this.  
 **Translation:** Vocabulary: innocence: 纯真
 
-**[1600.70s] English:** It is a life, is an answer.  
+**[1600.70s] English:** It is a life; is an answer.  
 **Translation:** 
 
-**[1603.76s] English:** Every life, every human being is one particular answer to how do we find balance.  
+**[1603.76s] English:** Every life, every human being, is one particular answer to how we find balance.  
 **Translation:** 
 
-**[1611.44s] English:** That's one imperfect approximation, approximate solution to the problem.  
+**[1611.44s] English:** That's one imperfect approximation; an approximate solution to the problem.  
 **Translation:** 
 
 **[1617.96s] English:** But we could look.  
-**Translation:** Vocabulary: approximate: 近似; approximation: 近似解
+**Translation:** Vocabulary: approximate: 近似; approximation: 近似
 
 **[1618.78s] English:** We can look.  
 **Translation:** 
 
-**[1619.36s] English:** We can look up to the great ones who have credentials in the sense that they have shown and they have proved that they have done something that other humans appreciate, our civilization appreciates, say, Isaac Newton or Alexander Grotendieck or Pablo Picasso.  
-**Translation:** Vocabulary: credentials: 资历; grotendieck: 格罗滕迪克; pablo: 巴勃罗; picasso: 毕加索
+**[1619.36s] English:** We can look up to the great ones who have credentials in the sense that they have shown and proved that they have done something that other humans—and our civilization—appreciate, such as Isaac Newton, Alexander Grothendieck, or Pablo Picasso.  
+**Translation:** Vocabulary: credentials: 证明能力; grothendieck: 格罗滕迪克; newton: 牛顿; pablo: 巴勃罗; picasso: 毕加索
 
-**[1637.32s] English:** So they have established their right to speak about these matters.  
+**[1637.32s] English:** So, they have established their right to speak about these matters.  
 **Translation:** 
 
 **[1641.74s] English:** And we cannot dismiss them as mere madmen.  
-**Translation:** Vocabulary: cannot: 不能; madmen: 疯子
+**Translation:** 
 
-**[1645.38s] English:** They say, OK, well, if the same thing was said by somebody who never.  
+**[1645.38s] English:** They say, "OK, well, if the same thing was said by somebody who never.  
 **Translation:** 
 
 **[1649.36s] English:** Achieved anything in their field of endeavor, it would be easy for us to dismiss it.  
-**Translation:** Vocabulary: endeavor: 努力领域
+**Translation:** Vocabulary: endeavor: 努力
 
 **[1657.62s] English:** But when it comes from someone like Isaac Newton, we take notice.  
 **Translation:** 
 
-**[1663.74s] English:** So I think there's something important that they teach us.  
+**[1663.74s] English:** So, I think there's something important that they teach us.  
 **Translation:** 
 
-**[1666.78s] English:** And especially today in this age of AI, of course, there's a big elephant in the room always, which is called AI.  
+**[1666.78s] English:** And especially today, in this age of AI, of course there's a big elephant in the room, which is AI.  
 **Translation:** 
 
 **[1674.48s] English:** Yeah.  
@@ -1042,7 +1043,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[1674.74s] English:** Right.  
 **Translation:** 
 
-**[1674.96s] English:** And so I know that you are an expert in the subject.  
+**[1674.96s] English:** And so, I know that you are an expert in the subject.  
 **Translation:** 
 
 **[1678.74s] English:** And we are going.  
@@ -1051,91 +1052,91 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[1679.36s] English:** We're living now.  
 **Translation:** 
 
-**[1680.00s] English:** in these very interesting times of new AI systems coming online  
+**[1680.00s] English:** In these very interesting times, new AI systems are coming online.  
 **Translation:** 
 
-**[1684.54s] English:** pretty much every couple of weeks.  
+**[1684.54s] English:** Pretty much every couple of weeks.  
 **Translation:** 
 
-**[1687.78s] English:** So I kind of, to me, that whole debate about what is it,  
+**[1687.78s] English:** So, to me, that whole debate about what it is,...  
 **Translation:** 
 
-**[1694.78s] English:** what is artificial intelligence, where is it going,  
+**[1694.78s] English:** What is artificial intelligence, and where is it going?  
 **Translation:** 
 
-**[1696.66s] English:** what should we do about it, needs an influx of this type  
+**[1696.66s] English:** What should we do about it? It needs an influx of this type.  
 **Translation:** 
 
-**[1701.40s] English:** of considerations that we've just been talking about.  
+**[1701.40s] English:** Of the considerations that we've just been talking about.  
+**Translation:** Vocabulary: influx: 涌入
+
+**[1704.82s] English:** That, for instance, the idea that inspiration, creativity,  
 **Translation:** 
 
-**[1704.82s] English:** That, for instance, the idea that inspiration, creativity  
+**[1710.80s] English:** Doesn't come from the accumulation of knowledge,  
 **Translation:** 
 
-**[1710.80s] English:** doesn't come from accumulation of knowledge,  
+**[1713.20s] English:** Because, obviously, a child has not yet accumulated knowledge.  
 **Translation:** 
 
-**[1713.20s] English:** because obviously a child has not yet accumulated knowledge.  
+**[1717.68s] English:** And yet, the great ones are on record saying that a child  
+**Translation:** Vocabulary: accumulated: 累积的
+
+**[1721.60s] English:** Has the capacity to create.  
 **Translation:** 
 
-**[1717.68s] English:** And yet the great ones are on record saying that a child  
-**Translation:** Vocabulary: accumulated: 积累
-
-**[1721.60s] English:** has a capacity to create.  
+**[1726.04s] English:** And an adult credits the inner child for this capacity.  
 **Translation:** 
 
-**[1726.04s] English:** And an adult credits the inner child for this capacity  
+**[1732.86s] English:** To create as an adult.  
 **Translation:** 
 
-**[1732.86s] English:** to create as an adult.  
+**[1734.82s] English:** You see, that's kind of weird if we take the point of view,...  
 **Translation:** 
 
-**[1734.82s] English:** You see, that's kind of weird if we take the point of view  
+**[1738.12s] English:** That everything is computation, and everything is accumulation.  
 **Translation:** 
 
-**[1738.12s] English:** that everything is computation, everything is accumulation  
-**Translation:** 
-
-**[1742.68s] English:** of knowledge, that just bigger and bigger data sets,  
+**[1742.68s] English:** Of knowledge, that just bigger and bigger data sets,  
 **Translation:** Vocabulary: accumulation: 累积; computation: 计算
 
-**[1746.12s] English:** finer and finer neural networks, and then we will be able  
+**[1746.12s] English:** Finer and finer neural networks, and then we will be able  
 **Translation:** 
 
-**[1749.34s] English:** to replicate human consciousness.  
+**[1749.34s] English:** To replicate human consciousness.  
+**Translation:** Vocabulary: consciousness: 觉醒; neural: 神经
+
+**[1751.44s] English:** If we take that point of view, then what I just said...  
 **Translation:** 
 
-**[1751.44s] English:** If we take that point of view, then what I just said  
+**[1754.08s] English:** Kind of doesn't fit, because obviously a child hasn't been fed.  
 **Translation:** 
 
-**[1754.08s] English:** kind of doesn't fit, because obviously a child has not been fed  
+**[1757.52s] English:** Any training data, as far as we know, yet they're perfectly capable.  
 **Translation:** 
 
-**[1757.52s] English:** any training data, as far as we know, yet they're perfectly capable  
-**Translation:** 
-
-**[1761.62s] English:** of, you know, of distinguishing between cats and dogs,  
+**[1761.62s] English:** Of, you know, distinguishing between cats and dogs,  
 **Translation:** Vocabulary: distinguishing: 区分
 
-**[1764.82s] English:** for instance, and stuff like that, but much more than that.  
+**[1764.82s] English:** For instance, and stuff like that, but much more than that.  
 **Translation:** 
 
 **[1767.56s] English:** They're also capable of that, you know, wide-eyed, you know,  
 **Translation:** 
 
-**[1772.72s] English:** sort of perspective.  
+**[1772.72s] English:** Sort of perspective.  
 **Translation:** 
 
-**[1774.98s] English:** So, can it really be captured, that perspective, that sense of awe,  
+**[1774.98s] English:** So, can it really be captured, that perspective, that sense of awe?  
 **Translation:** 
 
-**[1781.16s] English:** can it really be captured by computation alone?  
+**[1781.16s] English:** Can it really be captured by computation alone?  
 **Translation:** 
 
 **[1785.02s] English:** I actually, I don't know the answer.  
 **Translation:** 
 
-**[1786.48s] English:** So, I'm not sort of trying to present a particular point of view.  
+**[1786.48s] English:** So, I'm not really trying to present a particular point of view.  
 **Translation:** 
 
 **[1792.06s] English:** I'm just trying to question.  
@@ -1144,202 +1145,202 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[1794.82s] English:** Any theory that starts out by saying life is  
 **Translation:** 
 
-**[1800.00s] English:** this or consciousness is this because when you look more closely you recognize that there are  
+**[1800.00s] English:** This or consciousness is because, when you look more closely, you recognize that there are  
 **Translation:** 
 
-**[1807.12s] English:** some other things at play which do not quite fit the narrative and it's hard to know where they  
+**[1807.12s] English:** Some other things are at play, which do not quite fit the narrative, and it's hard to know where they fit in.  
 **Translation:** 
 
-**[1813.62s] English:** come from it's it's also possible that the evolutionary process has created is the very  
-**Translation:** Vocabulary: evolutionary: 进化
+**[1813.62s] English:** Come from it's also possible that the evolutionary process has created something that is the very  
+**Translation:** Vocabulary: evolutionary: 进化的
 
-**[1820.90s] English:** it is computation and the and the child is actually not a blank slate but the result of  
+**[1820.90s] English:** It is computation, and the child is actually not a blank slate but the result of.  
 **Translation:** 
 
-**[1826.94s] English:** one of the most incredible several billion year old computations uh that that had explored  
-**Translation:** Vocabulary: computations: 计算; slate: 白板
+**[1826.94s] English:** One of the most incredible, several-billion-year-old computations that had explored,...  
+**Translation:** Vocabulary: computation: 计算; computations: 计算; slate: 石板
 
-**[1837.62s] English:** all kinds of aspects of of life on earth of of war and love and terror and ambition and  
+**[1837.62s] English:** All kinds of aspects of life on Earth, of war and love and terror and ambition, and  
 **Translation:** 
 
-**[1848.62s] English:** violence and invention all of that from the bacteria to today so like that young child does  
+**[1848.62s] English:** Violence and invention—all of that, from the bacteria to today, so, like—that young child does.  
 **Translation:** 
 
-**[1856.16s] English:** not  
+**[1856.16s] English:** Not  
 **Translation:** 
 
-**[1856.52s] English:** you  
+**[1856.52s] English:** You.  
 **Translation:** 
 
-**[1856.92s] English:** you  
+**[1856.92s] English:** You.  
 **Translation:** 
 
-**[1856.94s] English:** 're not a blank slate they're coming they're they're actually hold within them the knowledge  
+**[1856.94s] English:** They're not a blank slate; they're coming, and they're actually holding within them the knowledge.  
 **Translation:** 
 
-**[1863.20s] English:** of several billions of years right the question is whether as a child you carry that in the form of  
+**[1863.20s] English:** Of several billion years, the question is whether, as a child, you carry that in the form of  
 **Translation:** 
 
-**[1870.28s] English:** the kind of computational algorithms that we are aware today you see what what strikes me as  
+**[1870.28s] English:** The kind of computational algorithms that we are aware of today, you see, what strikes me as  
 **Translation:** Vocabulary: computational: 计算的
 
-**[1876.36s] English:** unlikely is that how should i put it how interesting that you know we you you are a  
+**[1876.36s] English:** Unlikely, is that how I should put it? How interesting—that you know, we, you are a  
 **Translation:** 
 
-**[1886.92s] English:** you know we you are a thinker so that you've been you know you we are a thinker you are a thinker you are a thinker  
+**[1886.92s] English:** You know, we are thinkers, so you've been thinking a lot. You are a thinker, you are a thinker, you are a thinker.  
+**Translation:** Vocabulary: thinker: 思考者; thinkers: 思考者
+
+**[1890.06s] English:** And so, it's tempting to say that the whole world is computer science or can be explained by it.  
 **Translation:** 
 
-**[1890.06s] English:** and so it's tempting to say oh the whole world is computer science or is based can be explained by  
+**[1898.46s] English:** Computer science, because it makes me feel good because I have mastered it and learned it.  
+**Translation:** Vocabulary: mastered: 掌握; tempting: 诱人
+
+**[1903.46s] English:** My ego is very happy, and people come to me; they look up to me and revere me kind of.  
 **Translation:** 
 
-**[1898.46s] English:** computer science why because it makes me feel good because i have mastered it i have learned it  
+**[1910.18s] English:** Like priests in old days when religion was paramount, when you would tend to explain things.  
+**Translation:** Vocabulary: paramount: 至高无上; revere: 敬仰
+
+**[1916.42s] English:** In the world when religion was paramount, you would tend to explain things in the  
 **Translation:** 
 
-**[1903.46s] English:** my ego is very happy and people come to me and and and they look up to me and they revere me kind of  
+**[1916.90s] English:** Theological and religious terms. Today, science has progressed.  
+**Translation:** Vocabulary: progressed: 发展; theological: 神学的
+
+**[1920.00s] English:** There are fewer people who really buy into the official religion, you know, so we have  
 **Translation:** 
 
-**[1910.18s] English:** like priests in old in old days when the religion was paramount when you would tend to explain things  
+**[1927.12s] English:** This urge, I suppose, is to explain, to know, to dissect, to analyze, and to conceptualize.  
+**Translation:** Vocabulary: conceptualize: 构建概念; dissect: 剖析
+
+**[1934.18s] English:** Which is a wonderful quality that we have, and we should definitely pursue that, but I find it a  
 **Translation:** 
 
-**[1916.42s] English:** in the the world when the religion was paramount and you would you would tend to explain things in the  
+**[1941.66s] English:** It's a little bit unlikely that the universe is just exactly what I have learned, and not something else.  
 **Translation:** 
 
-**[1916.90s] English:** theological, religious terms. Today science has progressed.  
-**Translation:** Vocabulary: paramount: 至高无上; progressed: 进步; theological: 神学的
-
-**[1920.00s] English:** there are fewer people who kind of buy into religion official religion you know so we have  
+**[1949.04s] English:** That I don't know, you see. Well, there are a lot of interesting aspects of the current large language models.  
 **Translation:** 
 
-**[1927.12s] English:** this urge i suppose to to explain and to know and to dissect and to analyze and to conceptualize  
+**[1955.52s] English:** Models that one perspective of it I think speaks to the love and math that you talk about, which is  
 **Translation:** 
 
-**[1934.18s] English:** which is a wonderful quality that we have and we should definitely pursue that but i find it a  
+**[1963.82s] English:** They're trained on human data from the Internet, so at its best, a large language model like GPT-4.  
 **Translation:** 
 
-**[1941.66s] English:** little bit unlikely that the universe is just exactly what i have learned and not something  
+**[1974.92s] English:** Captures the magic of the human.  
 **Translation:** 
 
-**[1949.04s] English:** that i don't know you see well there's a lot of interesting aspects of the current large language  
+**[1978.94s] English:** Culture.  
 **Translation:** 
 
-**[1955.52s] English:** models that one perspective of it i think speaks to the love and math that you talk to which is  
-**Translation:** 
-
-**[1963.82s] English:** they're trained on human data from the internet so at its best a large language model like gpt4  
-**Translation:** 
-
-**[1974.92s] English:** captures the magic of the human  
-**Translation:** 
-
-**[1978.94s] English:** culture  
-**Translation:** 
-
-**[1979.04s] English:** condition on its full display its full complexity it's mimicking it's trying to compress all the  
+**[1979.04s] English:** Condition on its full display, its full complexity. It's mimicking; it's trying to compress all the  
 **Translation:** Vocabulary: complexity: 复杂性; compress: 压缩; mimicking: 模仿
 
-**[1986.94s] English:** weirdness of humans of all the debates and discussions the perspectives all the different  
+**[1986.94s] English:** Weirdness of humans; of all the debates and discussions, the perspectives are all the different.  
 **Translation:** 
 
-**[1993.92s] English:** ways that people approach solving different problems all of that compressed so we live  
-**Translation:** Vocabulary: compressed: 压缩; perspectives: 观点; weirdness: 怪异
+**[1993.92s] English:** Ways that people approach solving different problems — all of that compressed, so we live.  
+**Translation:** Vocabulary: compressed: 浓缩; perspectives: 观点; weirdness: 怪异
 
-**[1998.40s] English:** we're each individual ants we only have like we have a family we interact with a few little ants  
+**[1998.40s] English:** We're each individual ants, and we only have interactions with a few little ants like our family.  
 **Translation:** 
 
-**[2003.76s] English:** and here comes ai that's able to summarize like a tldr  
+**[2003.76s] English:** And here comes AI that's able to summarize like a TL;DR.  
 **Translation:** 
 
-**[2008.94s] English:** report of humanity and that's the beauty of it so i embrace it but i wonder i'm very impressed by it  
+**[2008.94s] English:** Report of humanity, and that's the beauty of it. So, I embrace it, but I wonder—I'm very impressed by it.  
 **Translation:** 
 
-**[2016.84s] English:** i wonder if it can be very impressive meaning way more impressive in being able to  
+**[2016.84s] English:** I wonder if it can be very impressive, meaning way more impressive, in being able to  
+**Translation:** Vocabulary: embrace: 接纳
+
+**[2026.30s] English:** Fake or simulate or emulate a human. I'm glad you mentioned that because that just seems  
 **Translation:** 
 
-**[2026.30s] English:** fake or simulate or emulate a human fake i'm glad you mentioned that because that just seems  
-**Translation:** 
-
-**[2032.62s] English:** to be the mantra it was just fake it till you make it yeah isn't it isn't that what we all do though  
+**[2032.62s] English:** To be the mantra, it was just "fake it 'til you make it," yeah? Isn't that what we all do, though?  
 **Translation:** Vocabulary: emulate: 模仿; mantra: 座右铭; simulate: 模拟
 
 **[2038.94s] English:** No, well, yes, we do.  
 **Translation:** 
 
-**[2040.00s] English:** that but we also do other things we can be truly in love we can be truly inspired when it is not  
+**[2040.00s] English:** That, but we also do other things. We can be truly in love, and we can be truly inspired when it is not.  
 **Translation:** 
 
-**[2046.08s] English:** fake i do believe call me romantic okay but i do believe and this is a very good i'm glad  
+**[2046.08s] English:** Fake, I do believe—call me romantic, okay? But I do believe, and this is a very good thing—I'm glad.  
 **Translation:** 
 
-**[2051.52s] English:** you're putting it in the storms because i've had conversations like that that yeah fake it till you  
+**[2051.52s] English:** You're putting it in the storms, because I've had conversations like that; yeah, fake it till you make it.  
 **Translation:** 
 
-**[2056.24s] English:** make it but that's like that's what humans do yes we do that but not all the time so and that is  
+**[2056.24s] English:** Make it, but that's like what humans do — yes, we do that, but not all the time, so and that is.  
 **Translation:** 
 
-**[2062.08s] English:** debatable because also i speak from my own experience and that's where the first person  
+**[2062.08s] English:** Debatable, because I also speak from my own experience, and that's where the first-person perspective comes in.  
 **Translation:** 
 
-**[2066.72s] English:** perspective comes in the subjective view i cannot prove to you for instance or anyone else  
+**[2066.72s] English:** Perspective comes in the subjective view; I cannot prove to you, for instance, or anyone else.  
 **Translation:** 
 
-**[2073.44s] English:** that there are certain moments in my life where i am genuine i am pure so to speak when it's not  
+**[2073.44s] English:** That there are certain moments in my life where I am genuine, I am pure, so to speak, when it's not  
 **Translation:** 
 
-**[2080.56s] English:** faking it but i do i do have a tremendous certainty of it and that's a subjective certainty  
+**[2080.56s] English:** Faking it, but I do have a tremendous certainty about it, and that's a subjective certainty.  
 **Translation:** 
 
-**[2088.88s] English:** now i am as a scientist i'm also trained to give more um credibility to objective arguments that  
-**Translation:** Vocabulary: credibility: 可信性
+**[2088.88s] English:** Now, as a scientist, I'm also trained to give more credibility to objective arguments that.  
+**Translation:** Vocabulary: faking: 假装
 
-**[2096.24s] English:** you know  
+**[2096.24s] English:** You know,  
 **Translation:** 
 
-**[2096.72s] English:** things that can be reproduced things that i can demonstrate that i can show but as i get older  
+**[2096.72s] English:** Things that can be reproduced, things that I can demonstrate, that I can show, but as I get older,...  
 **Translation:** Vocabulary: reproduced: 复制的
 
-**[2103.44s] English:** there we go as i get more mature hopefully you know i'm starting to question why i am not giving  
+**[2103.44s] English:** There, we go. As I get more mature, hopefully you know, I'm starting to question why I am not giving.  
 **Translation:** 
 
-**[2111.28s] English:** as much credibility to my subjective understanding of the world the kind of the first person  
+**[2111.28s] English:** As much credibility to my subjective understanding of the world, the kind of first-person experience.  
+**Translation:** Vocabulary: credibility: 可信性; mature: 成熟
+
+**[2117.60s] English:** Perspective, when actually, modern science has already accepted that—you know, quantum mechanics.  
 **Translation:** 
 
-**[2117.60s] English:** perspective when actually modern science has already sold on that you know quantum mechanics  
+**[2125.52s] English:** Has shown an  
 **Translation:** 
 
-**[2125.52s] English:** has shown an  
+**[2126.72s] English:** Unambiguously, it is clear that the observer is always involved in the observation.  
 **Translation:** 
 
-**[2126.72s] English:** unambiguously that the observer is always involved in the observation  
-**Translation:** 
-
-**[2132.24s] English:** likewise godel's incompleteness theorems to me show that how essential  
+**[2132.24s] English:** Likewise, Gödel's Incompleteness Theorems, to me, show how essential  
 **Translation:** Vocabulary: incompleteness: 不完全; likewise: 同样; observer: 观察者; theorems: 定理; unambiguously: 明确
 
-**[2140.64s] English:** is the observer of a mathematical theory for one thing that's the one who chooses  
+**[2140.64s] English:** Is the observer of a mathematical theory, for one thing, that's the one who chooses.  
 **Translation:** 
 
-**[2146.48s] English:** the axioms and we can talk about this in more detail likewise einstein's relativity where  
+**[2146.48s] English:** The axioms, and we can talk about this in more detail. Likewise, Einstein's relativity, where  
 **Translation:** Vocabulary: axioms: 公理; mathematical: 数学的; relativity: 相对论
 
-**[2152.48s] English:** time is relative to the observer for instance that's brilliant you're just describing in all  
+**[2152.48s] English:** Time is relative to the observer, for instance. That's brilliant; you're just describing it perfectly.  
 **Translation:** 
 
-**[2156.56s] English:** all of these different scales, the observer, what the observer means.  
+**[2156.56s] English:** All of these different scales, the observer, and what the observer means.  
 **Translation:** 
 
-**[2160.00s] English:** Actually, science of 19th century had the, from modern perspective, and I don't want  
+**[2160.00s] English:** Actually, from a modern perspective, the science of the 19th century had its limitations, and I don't want  
 **Translation:** 
 
-**[2165.94s] English:** to offend anybody, had the delusion that somehow you could analyze the world being completely  
+**[2165.94s] English:** To offend anybody, he had the delusion that somehow you could analyze the world being completely  
+**Translation:** Vocabulary: delusion: 错觉; offend: 冒犯
+
+**[2170.82s] English:** Detached from it.  
 **Translation:** 
 
-**[2170.82s] English:** detached from it.  
-**Translation:** 
+**[2172.32s] English:** We now know, after the landmark achievements of the first half of the 20th century, that  
+**Translation:** Vocabulary: detached: 独立; landmark: 里程碑
 
-**[2172.32s] English:** We now know after the landmark achievements of the first half of the 20th century, that  
-**Translation:** Vocabulary: detached: 脱离; landmark: 里程碑
-
-**[2177.34s] English:** this is nonsense.  
+**[2177.34s] English:** This is nonsense.  
 **Translation:** 
 
 **[2178.78s] English:** That is simply not true.  
@@ -1348,25 +1349,25 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2180.26s] English:** And this has been experimentally proved time and time again.  
 **Translation:** 
 
-**[2183.96s] English:** So to me, I'm thinking maybe it's a hint that I should take my first person perspective  
+**[2183.96s] English:** So, to me, I'm thinking maybe it's a hint that I should take a first-person perspective.  
 **Translation:** Vocabulary: experimentally: 实验地
 
-**[2190.48s] English:** seriously as well, and not just rely on kind of objective phenomena, things that can be  
+**[2190.48s] English:** Seriously, as well, and not just rely on objective phenomena, things that can be  
 **Translation:** 
 
-**[2196.94s] English:** proved in a traditional sort of objective way, by setting up an experiment that can  
+**[2196.94s] English:** Proved in a traditional, objective way, by setting up an experiment that can  
 **Translation:** 
 
-**[2203.70s] English:** be repeated many times.  
+**[2203.70s] English:** Be repeated many times.  
 **Translation:** 
 
-**[2205.58s] English:** Maybe I fall in love, the deepest love of my life, perhaps, perhaps hasn't happened  
+**[2205.58s] English:** Maybe I fall in love with the deepest love of my life—perhaps it hasn't happened yet.  
 **Translation:** 
 
-**[2210.90s] English:** yet.  
+**[2210.90s] English:** Yet.  
 **Translation:** 
 
-**[2211.90s] English:** Perhaps I will fall in love.  
+**[2211.90s] English:** Perhaps, I will fall in love.  
 **Translation:** 
 
 **[2212.90s] English:** But it's unique.  
@@ -1375,37 +1376,37 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2213.90s] English:** It's an event.  
 **Translation:** 
 
-**[2214.90s] English:** You can't reproduce it necessarily, you see.  
+**[2214.90s] English:** You can't necessarily reproduce it, you see.  
 **Translation:** 
 
-**[2216.92s] English:** So in that sense, you see how these things are closely connected.  
-**Translation:** 
+**[2216.92s] English:** So, in that sense, you see how these things are closely connected.  
+**Translation:** Vocabulary: reproduce: 复制
 
 **[2221.48s] English:** I think that if we are declaring from the outset that all there is to life is, you know,  
 **Translation:** 
 
-**[2229.38s] English:** computation in the form of neural networks or something like this, however sophisticated  
+**[2229.38s] English:** Computation in the form of neural networks, or something like this, however sophisticated.  
 **Translation:** Vocabulary: computation: 计算; neural: 神经; sophisticated: 复杂的
 
-**[2234.46s] English:** they might be, I think we are from the outset denying to ourselves the possibility that  
+**[2234.46s] English:** They might be, I think we are, from the outset, denying to ourselves the possibility that.  
 **Translation:** 
 
-**[2240.44s] English:** yes, there is this side of me which is not faking it.  
-**Translation:** 
+**[2240.44s] English:** Yes, there is this side of me which is not faking it.  
+**Translation:** Vocabulary: faking: 假装
 
 **[2243.90s] English:** Yes, there is this side of me which cannot be captured by logic and reason.  
 **Translation:** 
 
 **[2248.72s] English:** And you know what another great scientist said, Blaise Pascal?  
-**Translation:** Vocabulary: cannot: 不能; pascal: 帕斯卡
-
-**[2253.04s] English:** He said, the heart has its reasons of which the reason knows nothing.  
 **Translation:** 
 
-**[2259.60s] English:** And then he also said, the last step of reason is to grasp that there are infinitely many  
+**[2253.04s] English:** He said, "The heart has its reasons of which the reason knows nothing.  
 **Translation:** 
 
-**[2265.22s] English:** things beyond reason.  
+**[2259.60s] English:** And then he also said: the last step of reason is to grasp that there are infinitely many.  
+**Translation:** Vocabulary: infinitely: 无穷地
+
+**[2265.22s] English:** Things beyond reason.  
 **Translation:** 
 
 **[2266.90s] English:** How interesting.  
@@ -1423,160 +1424,160 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2272.90s] English:** Mm-hmm.  
 **Translation:** 
 
-**[2273.90s] English:** It was a hardcore scientist who actually developed, I think, one of the very first  
+**[2273.90s] English:** It was a hardcore scientist who actually developed, I think, one of the very first.  
 **Translation:** 
 
-**[2280.00s] English:** calculators how interesting that this guy also was able to uh impart on us that wisdom now you  
-**Translation:** Vocabulary: calculators: 计算器; hardcore: 严谨的
+**[2280.00s] English:** Calculators: How interesting that this guy was also able to impart that wisdom on us, now you.  
+**Translation:** Vocabulary: calculators: 计算器; hardcore: 严谨的; impart: 传授
 
-**[2289.20s] English:** can always say that's not the case but why should we from the outset exclude this possibility that  
+**[2289.20s] English:** Can always say that's not the case, but why should we, from the outset, exclude this possibility that?  
 **Translation:** 
 
-**[2299.32s] English:** there is something to what he was saying that is my question i'm not taking sides  
+**[2299.32s] English:** There is something to what he was saying, I'm not sure about it, and that's my question; I'm not taking sides.  
+**Translation:** Vocabulary: exclude: 排除
+
+**[2305.18s] English:** Um, what I'm trying to do is to shake up the debate a little bit because most mathematicians that I know  
 **Translation:** 
 
-**[2305.18s] English:** um what i'm trying to do is to shake a little bit the debate because most mathematicians that i know  
-**Translation:** 
-
-**[2312.44s] English:** and computer scientists even more so they're kind of already sold on this  
+**[2312.44s] English:** And computer scientists, even more so, they're kind of already sold on this.  
 **Translation:** Vocabulary: mathematicians: 数学家
 
-**[2316.48s] English:** um we are just you know reminds me of this famous lord kelvin's quote from the end of 19th century  
+**[2316.48s] English:** Um, we are just, you know, reminds me of this famous Lord Kelvin's quote from the end of the 19th century.  
 **Translation:** 
 
-**[2324.10s] English:** uh there's some debate whether he actually said that but never let a good story you know  
+**[2324.10s] English:** Uh, there's some debate whether he actually said that, but never let a good story, you know.  
 **Translation:** 
 
-**[2330.32s] English:** he said  
+**[2330.32s] English:** He said.  
 **Translation:** 
 
-**[2334.04s] English:** you know  
+**[2334.04s] English:** You know,  
 **Translation:** 
 
-**[2335.16s] English:** physics is basically finished all that remains is more more precise measurement so i find a lot  
+**[2335.16s] English:** Physics is basically finished; all that remains is more precise measurement. So, I find a lot.  
 **Translation:** 
 
-**[2341.94s] English:** of my colleagues are happy to say everything's finished we already got we got it we got it  
+**[2341.94s] English:** Of my colleagues are happy to say, "Everything's finished. We already got it.  
+**Translation:** Vocabulary: colleagues: 同行
+
+**[2347.36s] English:** Uh, maybe some little tweaks, and in our large language models, you know. So, here's my question.  
 **Translation:** 
 
-**[2347.36s] English:** uh maybe little tweaks and uh in the in our large language models you know so now here's my question  
+**[2354.50s] English:** I'm kind of playing devil's advocate a little bit because I don't see the other side so  
+**Translation:** Vocabulary: advocate: 辩护; tweaks: 微调
+
+**[2359.86s] English:** Quote unquote," represented that much, and I'm saying, okay, could it be also that?  
 **Translation:** 
 
-**[2354.50s] English:** i'm kind of playing devil's advocate a little bit because i don't see the other side so  
-**Translation:** Vocabulary: advocate: 辩护者; tweaks: 微调
+**[2365.02s] English:** If  
+**Translation:** Vocabulary: unquote: 引号标记
 
-**[2359.86s] English:** quote unquote represented that much and i'm saying okay could it be also that  
+**[2365.14s] English:** You believe in that, and that becomes your reality. You can kind of put yourself in a box.  
 **Translation:** 
 
-**[2365.02s] English:** if  
-**Translation:** Vocabulary: unquote: 引用结束
-
-**[2365.14s] English:** you believe in that that that becomes your reality that you can kind of put yourself in a box  
-**Translation:** 
-
-**[2372.18s] English:** where everything is computation and then you start seeing things  
+**[2372.18s] English:** Where everything is computation, and then you start seeing things.  
 **Translation:** Vocabulary: computation: 计算
 
-**[2376.26s] English:** as as being such it's confirmation bias if you will you know this also reminds me you know that  
+**[2376.26s] English:** As it is confirmation bias, you know. This also reminds me, you know, that.  
 **Translation:** 
 
-**[2381.46s] English:** i think a good analogy is it's a friend of mine uh philip caution told me that in france there is  
+**[2381.46s] English:** I think a good analogy is: It's like a friend of mine, Philip Caution, told me that in France there is  
+**Translation:** Vocabulary: analogy: 类比
+
+**[2386.34s] English:** This literary movement, which is called Ultra-POE, and it's but it's a bunch of  
 **Translation:** 
 
-**[2386.34s] English:** this literary movement which is called ulipo o-u-l uh ipo and it's but it's a bunch of  
+**[2395.14s] English:** Writers and mathematicians who create works of literature.  
+**Translation:** Vocabulary: mathematicians: 数学家
+
+**[2400.00s] English:** Literature, in which they basically impose certain constraints.  
 **Translation:** 
 
-**[2395.14s] English:** writers and mathematicians who create works of literature  
+**[2400.02s] English:** You.  
+**Translation:** Vocabulary: constraints: 限制; impose: 施加
+
+**[2402.18s] English:** You.  
 **Translation:** 
 
-**[2400.02s] English:** you  
+**[2404.18s] English:** You.  
 **Translation:** 
 
-**[2402.18s] English:** you  
+**[2405.28s] English:** A good example of this is a novel, which is called "The Void or Disappearance," by a writer.  
 **Translation:** 
 
-**[2404.18s] English:** you  
-**Translation:** 
-
-**[2406.18s] English:** you  
-**Translation:** 
-
-**[2408.18s] English:** you  
-**Translation:** 
-
-**[2410.18s] English:** you  
-**Translation:** 
-
-**[2412.18s] English:** you  
-**Translation:** 
-
-**[2414.18s] English:** you  
-**Translation:** 
-
-**[2416.18s] English:** you  
-**Translation:** 
-
-**[2418.18s] English:** you  
-**Translation:** 
-
-**[2420.18s] English:** you  
-**Translation:** 
-
-**[2422.18s] English:** you  
-**Translation:** 
-
-**[2424.18s] English:** you  
-**Translation:** 
-
-**[2424.98s] English:** you  
-**Translation:** 
-
-**[2425.06s] English:** you  
-**Translation:** 
-
-**[2400.00s] English:** literature, in which they basically impose certain constraints.  
-**Translation:** Vocabulary: constraints: 限制
-
-**[2405.28s] English:** A good example of this is a novel, which is called The Void or Disappearance, by a writer  
-**Translation:** 
-
-**[2411.20s] English:** named Georges Perec, which is a 300-page novel in French, which never uses the letter  
+**[2406.18s] English:** You.  
 **Translation:** Vocabulary: disappearance: 消失
 
-**[2420.98s] English:** E, which is the most widely used letter of the French language.  
+**[2408.18s] English:** You.  
 **Translation:** 
 
-**[2427.02s] English:** So in other words, he set these parameters for himself.  
+**[2410.18s] English:** You.  
 **Translation:** 
 
-**[2430.78s] English:** I'm going to write a book where I don't use this letter, which is a great experiment,  
+**[2411.20s] English:** Named "Georges Perec," which is a 300-page novel in French, which never uses the letter  
 **Translation:** 
 
-**[2436.58s] English:** and I applaud it.  
+**[2412.18s] English:** You.  
 **Translation:** 
+
+**[2414.18s] English:** You.  
+**Translation:** 
+
+**[2416.18s] English:** You.  
+**Translation:** 
+
+**[2418.18s] English:** You.  
+**Translation:** 
+
+**[2420.18s] English:** You.  
+**Translation:** 
+
+**[2420.98s] English:** E, which is the most widely used letter in the French language.  
+**Translation:** 
+
+**[2422.18s] English:** You.  
+**Translation:** 
+
+**[2424.18s] English:** You.  
+**Translation:** 
+
+**[2424.98s] English:** You.  
+**Translation:** 
+
+**[2425.06s] English:** You.  
+**Translation:** 
+
+**[2427.02s] English:** So, in other words, he set these parameters for himself.  
+**Translation:** 
+
+**[2430.78s] English:** I'm going to write a book where I don't use this letter, which is a great experiment.  
+**Translation:** 
+
+**[2436.58s] English:** And I applaud it.  
+**Translation:** Vocabulary: applaud: 称赞
 
 **[2438.50s] English:** But it's one thing to do that and to kind of show his gamesmanship, if you will, and  
 **Translation:** 
 
-**[2445.70s] English:** his proclivity and his ability as a writer.  
-**Translation:** Vocabulary: gamesmanship: 比赛心态; proclivity: 倾向性
+**[2445.70s] English:** His proclivity and his ability as a writer.  
+**Translation:** Vocabulary: gamesmanship: 比赛中的策略; proclivity: 倾向性
 
-**[2448.94s] English:** But it's another thing if at the end of writing this book, when you finish the book, he would  
+**[2448.94s] English:** But it's another thing if, at the end of writing this book, when you finish the book, he would  
 **Translation:** 
 
-**[2453.04s] English:** say letter E actually doesn't exist.  
+**[2453.04s] English:** Say, "Letter E actually doesn't exist.  
 **Translation:** 
 
-**[2456.92s] English:** And he's like...  
+**[2456.92s] English:** And he's like....  
 **Translation:** 
 
-**[2457.00s] English:** He tried to convince us that, in fact, French language does not have that letter, simply  
+**[2457.00s] English:** He tried to convince us that, in fact, the French language does not have that letter, simply.  
 **Translation:** 
 
-**[2461.92s] English:** because he was able to go so far without using it, you see.  
+**[2461.92s] English:** Because he was able to go so far without using it, you see.  
 **Translation:** 
 
-**[2465.88s] English:** So self-imposed limitation, that's how I see it.  
+**[2465.88s] English:** So, self-imposed limitation—that's how I see it.  
 **Translation:** 
 
 **[2469.30s] English:** And I wonder why we should do that.  
@@ -1585,17 +1586,17 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2473.20s] English:** Do we really feel the urge to say the world is like that?  
 **Translation:** 
 
-**[2477.92s] English:** The world can be explained this way or that way.  
+**[2477.92s] English:** The world can be explained this way, or that way.  
 **Translation:** 
 
-**[2480.62s] English:** And I'm saying it, it's a personal question for me, because I am addicted to knowledge  
+**[2480.62s] English:** And I'm saying it: it's a personal question for me, because I am addicted to knowledge.  
 **Translation:** Vocabulary: addicted: 上瘾
 
-**[2485.06s] English:** myself.  
+**[2485.06s] English:** Myself.  
 **Translation:** 
 
 **[2486.90s] English:** You know, hi, my name is Edward, and I'm a knowledge addict, okay?  
-**Translation:** 
+**Translation:** Vocabulary: addict: 成瘾者
 
 **[2492.02s] English:** I'm being serious.  
 **Translation:** 
@@ -1603,107 +1604,107 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2493.02s] English:** I'm not being facetious.  
 **Translation:** Vocabulary: facetious: 开玩笑的
 
-**[2494.02s] English:** Up until very recently, maybe a couple of years ago, I simply did not feel comfortable  
+**[2494.02s] English:** Up until very recently, maybe a couple of years ago, I simply did not feel comfortable.  
 **Translation:** 
 
-**[2500.04s] English:** if I could not say, give an answer, explanation, it's like, oh, there has to be some explanation.  
+**[2500.04s] English:** If I couldn't say, give an answer, or explanation, it's like, oh, there has to be some explanation.  
 **Translation:** 
 
-**[2505.78s] English:** And I tried to frantically search for it, just for somebody like me, a nerd, a left  
+**[2505.78s] English:** And I tried to frantically search for it, just for somebody like me—a nerd, a left—  
 **Translation:** 
 
-**[2512.90s] English:** brainiac.  
-**Translation:** Vocabulary: brainiac: 左脑型; frantically: 疯狂地
+**[2512.90s] English:** Brainiac.  
+**Translation:** Vocabulary: brainiac: 天才; frantically: 疯狂地
 
-**[2513.90s] English:** And, you know...  
+**[2513.90s] English:** And, you know,...  
 **Translation:** 
 
 **[2515.78s] English:** Yeah.  
 **Translation:** 
 
-**[2516.90s] English:** That's kind of typical, typical for a scientist.  
+**[2516.90s] English:** That's kind of typical, especially for a scientist.  
 **Translation:** 
 
-**[2520.00s] English:** mathematician it is incredibly hard just to allow the possibility that it's a mystery and not to  
+**[2520.00s] English:** Mathematician, it is incredibly hard just to allow the possibility that it's a mystery and not to  
 **Translation:** 
 
-**[2530.08s] English:** feel the urge to get the answer it is incredibly hard what's possible and it is liberating it's  
+**[2530.08s] English:** Feel the urge to get the answer; it is incredibly hard, what's possible, and it is liberating. It's  
 **Translation:** 
 
-**[2537.76s] English:** recovering as a recovering addict to knowledge let me say what you gain from it for instance  
-**Translation:** Vocabulary: liberating: 解放感觉
+**[2537.76s] English:** Recovering as a recovering addict, to knowledge: let me say what you gain from it, for instance.  
+**Translation:** Vocabulary: liberating: 使人解放
 
-**[2546.72s] English:** i understand the value of paradoxes i i appreciate paradoxes more and you know to to to use another  
+**[2546.72s] English:** I understand the value of paradoxes. I appreciate them more, and you know, to use another,  
 **Translation:** 
 
-**[2554.08s] English:** philosopher uh soren kirkigar the the danish philosopher said uh a thinker without paradox  
+**[2554.08s] English:** Philosopher Søren Kierkegaard, the Danish philosopher, said that a thinker without paradox is not a thinker.  
+**Translation:** Vocabulary: kierkegaard: 克尔凯郭尔; paradox: 悖论; paradoxes: 悖论; thinker: 思想家
+
+**[2561.20s] English:** Is like a lover without passion, a paltry mediocrity. That's a good line, all right.  
 **Translation:** 
 
-**[2561.20s] English:** is like a lover without passion a paltry mediocrity that's a good line all right  
-**Translation:** 
-
-**[2569.44s] English:** so and you know niels bohr niels bohr said um in similar vein the great uh  
+**[2569.44s] English:** So, and you know Niels Bohr said, in a similar vein, the great...  
 **Translation:** Vocabulary: mediocrity: 平庸; paltry: 微不足道
 
-**[2576.72s] English:** danish also it's something about something about danes i think it all started with hamlet you know  
+**[2576.72s] English:** Danish: Also, it's something about the Danes, I think it all started with Hamlet, you know.  
 **Translation:** 
 
-**[2583.52s] English:** he said the opposite of a simple truth is a falsity but the opposite of a great truth  
-**Translation:** Vocabulary: falsity: 虚假; hamlet: 哈姆雷特
+**[2583.52s] English:** He said that the opposite of a simple truth is a falsity, but the opposite of a great truth  
+**Translation:** Vocabulary: falsity: 谬误; hamlet: 哈姆雷特
 
-**[2591.68s] English:** is another great truth in other words things are not black and white you know they're not  
+**[2591.68s] English:** Is another great truth: in other words, things are not black and white; you know, they're not.  
 **Translation:** 
 
-**[2599.20s] English:** and i would even venture to say the most interesting the interesting things in life  
+**[2599.20s] English:** And I would even venture to say that the most interesting things in life  
+**Translation:** Vocabulary: venture: 尝试
+
+**[2604.88s] English:** They are like that; they're the one.  
 **Translation:** 
 
-**[2604.88s] English:** are like that they're the one  
+**[2606.72s] English:** Which is ambiguous: is an electron a particle or a wave? It depends on how you set up an experiment.  
+**Translation:** Vocabulary: particle: 粒子
+
+**[2613.04s] English:** It will reveal itself as this or that, depending on how you set up an experiment. This bottle, if...  
 **Translation:** 
 
-**[2606.72s] English:** which are ambiguous is an electron a particle or a wave it depends how you set up an experiment  
-**Translation:** Vocabulary: ambiguous: 模棱两可; particle: 粒子
-
-**[2613.04s] English:** it will reveal itself as this or that depending on how you set up an experiment this bottle if  
+**[2620.72s] English:** You project it down onto the table, you will see more or less a square if you project it onto a  
 **Translation:** 
 
-**[2620.72s] English:** you project it down onto the table you will see more or less a square if you project it onto a  
+**[2627.04s] English:** Wall, you will see a different shape. A naive question would be: "Is it this or that?" Because  
 **Translation:** 
 
-**[2627.04s] English:** wall you will see a different shape a naive question would be is it this or that because  
-**Translation:** 
-
-**[2633.36s] English:** we understand that it's neither but  
+**[2633.36s] English:** We understand that it's neither, but  
 **Translation:** Vocabulary: naive: 幼稚的
 
-**[2636.72s] English:** both projections reveal something they reveal different sides  
+**[2636.72s] English:** Both projections reveal something, revealing different sides.  
 **Translation:** 
 
-**[2640.00s] English:** it. A paradox is like that. It's only paradoxical if we are confined in a particular vision,  
-**Translation:** Vocabulary: confined: 视野狭隘; paradoxical: 悖论的; projections: 投影
-
-**[2650.56s] English:** if we are wedded to a particular point of view. It's a harbinger, if you will, of a possibility  
+**[2640.00s] English:** It's a paradox. Like that; it's only paradoxical if we are confined within a particular vision.  
 **Translation:** 
 
-**[2657.28s] English:** of seeing things as they are, more sophisticated than we thought before, you see.  
-**Translation:** Vocabulary: harbinger: 预兆; sophisticated: 复杂
-
-**[2666.00s] English:** That's such a difficult idea for science to grapple with. I don't know how,  
+**[2650.56s] English:** If we are wedded to a particular point of view, it's a harbinger, if you will, of a possibility.  
 **Translation:** 
 
-**[2673.36s] English:** there's so many ways to describe this, but you could say maybe that the subjective experience  
+**[2657.28s] English:** Of seeing things as they are, more sophisticated than we thought before, you see.  
+**Translation:** Vocabulary: harbinger: 预兆; sophisticated: 复杂; wedded: 执着于
+
+**[2666.00s] English:** That's such a difficult idea for science to grapple with. I don't know how.  
+**Translation:** 
+
+**[2673.36s] English:** There are so many ways to describe this, but you could say maybe that the subjective experience,...  
 **Translation:** Vocabulary: grapple: 应对
 
-**[2678.64s] English:** of the world from an observer is actually fundamental.  
+**[2678.64s] English:** Of the world from an observer's perspective is actually fundamental.  
 **Translation:** 
 
 **[2683.04s] English:** But we know that. Our best physical theories tell us that unambiguously. In quantum mechanics,  
-**Translation:** Vocabulary: observer: 观察者; unambiguously: 明确地
+**Translation:** Vocabulary: quantum: 量子; unambiguously: 明确地
 
-**[2690.80s] English:** actually, Heisenberg, I think, captured it the best when he said,  
+**[2690.80s] English:** Actually, Heisenberg, I think, captured it the best when he said,  
 **Translation:** 
 
-**[2694.48s] English:** what we observe is not reality.  
-**Translation:** 
+**[2694.48s] English:** What we observe is not reality.  
+**Translation:** Vocabulary: heisenberg: 海森堡
 
 **[2695.92s] English:** Yes.  
 **Translation:** 
@@ -1711,295 +1712,295 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[2695.98s] English:** It's not reality itself, but reality subjected to our method of questioning.  
 **Translation:** 
 
-**[2703.82s] English:** When I talk about electrons, for instance, so that there is a very specific way in which this  
+**[2703.82s] English:** When I talk about electrons, for instance, there is a very specific way in which this  
 **Translation:** 
 
-**[2709.02s] English:** is realized. There is a so-called double slit experiment, right? So for those who don't know,  
+**[2709.02s] English:** Is realized. There is a so-called double-slit experiment, right? So, for those who don't know,  
+**Translation:** Vocabulary: electrons: 电子
+
+**[2716.06s] English:** You have a screen and you have an emitter from which you send; you kind of shoot electrons.  
 **Translation:** 
 
-**[2716.06s] English:** you have a screen and you have an emitter from which you send, you kind of shoot electrons,  
+**[2721.66s] English:** And in between, you put another screen which has two vertical slits parallel to each other.  
+**Translation:** Vocabulary: emitter: 发射体; parallel: 平行; slits: 狭缝; vertical: 垂直
+
+**[2726.54s] English:** If we were shooting tennis balls, each ball would go through one slit or another.  
 **Translation:** 
 
-**[2721.66s] English:** and in between you put another screen which has two vertical slits parallel to each other.  
-**Translation:** Vocabulary: emitter: 发射体; slits: 狭缝; vertical: 垂直
-
-**[2726.54s] English:** If we were shooting tennis balls, each ball would go through one slit or another,  
+**[2731.98s] English:** And then hit the screen behind this or that slit. So you would have, let's say,  
 **Translation:** 
 
-**[2731.98s] English:** and then hit the screen behind this or that slit. So you would have, let's say,  
+**[2736.86s] English:** They're colored, they're painted. So there'll be sort of bumps or spots of paint behind this, or  
 **Translation:** 
 
-**[2736.86s] English:** they're colored, they're painted. So there'll be sort of bumps or spots of paint behind this or  
+**[2743.74s] English:** That. But that's not what happens when we shoot electrons. We see an interference pattern.  
+**Translation:** Vocabulary: interference: 干涉图案
+
+**[2750.22s] English:** As if we were actually sending a wave, so that each electron seems to go to  
 **Translation:** 
 
-**[2743.74s] English:** that. But that's not what happens when we shoot electrons. We see an interference pattern,  
-**Translation:** Vocabulary: interference: 干涉
-
-**[2750.22s] English:** as if we were actually sending a wave, so that each electron, it seems like each electron goes to  
-**Translation:** 
-
-**[2755.82s] English:** both slits at once, and then has the audacity to interfere with it.  
+**[2755.82s] English:** Both slits at once, and then has the audacity to interfere with it.  
 **Translation:** Vocabulary: audacity: 胆敢; interfere: 干扰
 
-**[2760.00s] English:** itself where at some points you know two crests would amplify and at some points the crest and  
+**[2760.00s] English:** Itself, where at some points you know two crests would amplify, and at some points the crest would diminish.  
 **Translation:** 
 
-**[2764.96s] English:** the trough would cancel each other yet so that suggests okay so electron is a wave not so fast  
-**Translation:** Vocabulary: crest: 波峰; crests: 波峰; trough: 波谷
+**[2764.96s] English:** The troughs would cancel each other out, yet so that suggests okay: so an electron is a wave, not so fast.  
+**Translation:** Vocabulary: amplify: 增强; crest: 波峰; crests: 波峰; diminish: 减弱; troughs: 波谷
 
-**[2771.92s] English:** because if you put a detector behind one of the slits and you say i'm going to i'm going to  
+**[2771.92s] English:** Because, if you put a detector behind one of the slits and you say, "I'm going to,  
 **Translation:** 
 
-**[2776.80s] English:** capture you i'm going to find out which slit you went through the pattern will change and it will  
-**Translation:** Vocabulary: detector: 探测器
-
-**[2783.04s] English:** look like the particles so that's a very concrete realization of the idea that depending on how we  
+**[2776.80s] English:** Capture you; I'm going to find out which slit you went through. The pattern will change, and it will...  
 **Translation:** 
 
-**[2788.96s] English:** set up an experiment we will see different results and the problem the problem is that our  
-**Translation:** Vocabulary: realization: 实现
-
-**[2796.16s] English:** psyche i feel kind of lagging is lagging behind in part because maybe our scientists are not doing  
+**[2783.04s] English:** Look like the particles, so that's a very concrete realization of the idea that, depending on how we  
 **Translation:** 
 
-**[2802.16s] English:** such a great job so i take responsibility for this that why haven't i explained this properly you  
-**Translation:** Vocabulary: lagging: 落后; psyche: 心灵
+**[2788.96s] English:** Set up an experiment, and we will see different results. The problem is that our  
+**Translation:** Vocabulary: particles: 粒子; realization: 实现
 
-**[2807.60s] English:** know i i tried you know in a bunch of talks and so on so now i'm talking about this again our  
+**[2796.16s] English:** Psyche, I feel kind of lagging is lagging behind in part because maybe our scientists are not doing.  
 **Translation:** 
 
-**[2813.60s] English:** psyche kind of lagging behind we're still even though our science has progressed so much from the  
+**[2802.16s] English:** Such a great job, so I take responsibility for this. That's why I haven't explained this properly, you  
+**Translation:** Vocabulary: lagging: 落后
+
+**[2807.60s] English:** Know, I've tried you know in a bunch of talks, and so on, so now I'm talking about this again. Our  
 **Translation:** 
 
-**[2818.32s] English:** certainty  
+**[2813.60s] English:** Psyche kind of lagging behind; we're still, even though our science has progressed so much from the  
+**Translation:** Vocabulary: progressed: 发展; psyche: 心理
+
+**[2818.32s] English:** Certainty.  
 **Translation:** 
 
-**[2818.96s] English:** and the determinism and and all of that of the 19th century our psyche is somehow still attached  
+**[2818.96s] English:** And the determinism and all of that from the 19th century — our psyche is somehow still attached.  
 **Translation:** Vocabulary: determinism: 决定论
 
-**[2826.32s] English:** to those ideas the ideas of causality of this naive determinism that that the war that the  
+**[2826.32s] English:** To those ideas, such as the concepts of causality and naive determinism that suggest the war was caused by these beliefs.  
 **Translation:** 
 
-**[2831.44s] English:** world is a bunch of billiard balls hitting each other driven by some blind forces you know that's  
-**Translation:** Vocabulary: billiard: 台球; causality: 因果关系; naive: 幼稚的
+**[2831.44s] English:** The world is a bunch of billiard balls hitting each other, driven by some blind forces, you know.  
+**Translation:** Vocabulary: billiard: 台球; causality: 因果关系; naive: 天真
 
-**[2837.52s] English:** not at all like it is and we've known this for over for well for about 100 years at least you  
+**[2837.52s] English:** Not at all, like it is, and we've known this for over 100 years at least.  
 **Translation:** 
 
-**[2843.20s] English:** know and you call this self-imposed limitation it is a self-imposed limitation when we uh when we've  
+**[2843.20s] English:** Know, and you call this self-imposed limitation. It is a self-imposed limitation when we, uh, when we have...  
 **Translation:** 
 
-**[2848.96s] English:** pretend that uh that for instance that this naive ideas of 19th century um physics are still valid  
+**[2848.96s] English:** Pretend, for instance, that those naive ideas of 19th-century physics are still valid.  
 **Translation:** 
 
-**[2857.68s] English:** and and then start applying them to our lives and then also derive conclusions from it and  
+**[2857.68s] English:** And then start applying them to our lives, and then also derive conclusions from it.  
+**Translation:** Vocabulary: derive: 推导出
+
+**[2862.72s] English:** For instance, people say there is no free will. Why? Oh, because the world is just a bunch of  
 **Translation:** 
 
-**[2862.72s] English:** for instance people say there is no free will why oh because the world is just a bunch of  
+**[2868.96s] English:** Billiards? Where is the free will, but excuse me; didn't you get the memo that this has been  
+**Translation:** Vocabulary: billiards: 斯诺克
+
+**[2873.68s] English:** Debunked thoroughly by the so-called quantum mechanics, which is our best scientific theory, it's  
 **Translation:** 
 
-**[2868.96s] English:** billiard balls where is the free will but excuse me didn't you get the memo that this has been  
-**Translation:** 
+**[2878.96s] English:** Not some something.  
+**Translation:** Vocabulary: quantum: 量子; thoroughly: 彻底地
 
-**[2873.68s] English:** debunked thoroughly by the so-called quantum mechanics which is our best scientific theory it's  
-**Translation:** 
-
-**[2878.96s] English:** not some some  
-**Translation:** Vocabulary: debunked: 被驳倒
-
-**[2880.00s] English:** kind of bullshit or some kind of concoction of a madman.  
+**[2880.00s] English:** Kind of bullshit, or some kind of concoction of a madman.  
 **Translation:** 
 
 **[2886.98s] English:** This is our scientific theory, which has been confirmed by experiment.  
 **Translation:** Vocabulary: bullshit: 胡说八道; concoction: 胡编乱造; madman: 疯子
 
-**[2889.72s] English:** So we should pay attention to that.  
+**[2889.72s] English:** So, we should pay attention to that.  
 **Translation:** 
 
 **[2891.72s] English:** But of course, it's not just self-imposed imitation.  
 **Translation:** Vocabulary: imitation: 模仿
 
-**[2894.76s] English:** Unfortunately in this case, there is a big issue of education.  
+**[2894.76s] English:** Unfortunately, in this case, there is a big issue with education.  
 **Translation:** 
 
-**[2898.66s] English:** So a lot of people are not aware of it through no fault of their own, because they were never  
+**[2898.66s] English:** So, a lot of people are not aware of it through no fault of their own, because they were never  
 **Translation:** 
 
-**[2902.76s] English:** properly taught that, because our system is broken, education system is broken, especially  
+**[2902.76s] English:** Properly taught, we have been taught that because our system is broken, the education system is broken, especially  
 **Translation:** 
 
-**[2907.76s] English:** in math.  
+**[2907.76s] English:** In math.  
 **Translation:** 
 
-**[2909.06s] English:** And then our...  
+**[2909.06s] English:** And then, ours...  
 **Translation:** 
 
-**[2910.06s] English:** So where do we get information?  
+**[2910.06s] English:** So, where do we get information?  
 **Translation:** 
 
-**[2911.76s] English:** You get information from our scientists who actually write popular books and so on, which  
+**[2911.76s] English:** You get information from our scientists, who actually write popular books and so on, which  
 **Translation:** 
 
-**[2917.44s] English:** is a great thing that they do.  
+**[2917.44s] English:** It is a great thing that they do.  
 **Translation:** 
 
-**[2922.18s] English:** But a lot of scientists somehow, when it comes to explaining the laws of physics, they're  
+**[2922.18s] English:** But a lot of scientists, somehow, when it comes to explaining the laws of physics, they're  
 **Translation:** 
 
-**[2929.38s] English:** doing a fantastic job talking about this phenomenon, for instance, double slit experiment and things  
+**[2929.38s] English:** Doing a fantastic job talking about this phenomenon, for instance, the double-slit experiment and related concepts.  
 **Translation:** 
 
-**[2936.56s] English:** like that.  
+**[2936.56s] English:** Like that.  
 **Translation:** 
 
-**[2937.62s] English:** But then, you know, interviewed...  
+**[2937.62s] English:** But then, you know, interviewed....  
 **Translation:** 
 
-**[2939.04s] English:** By a science magazine about free will and so on, they revert back to 19th century physics  
+**[2939.04s] English:** By a science magazine about free will and so on, they revert back to 19th-century physics.  
 **Translation:** 
 
-**[2945.16s] English:** as if those developments actually never happened.  
+**[2945.16s] English:** As if those developments actually never happened.  
+**Translation:** Vocabulary: revert: 回复
+
+**[2947.48s] English:** So, to me, this is the single most important issue in our popular science.  
 **Translation:** 
 
-**[2947.48s] English:** So to me, this is single most important sort of issue in our popular science.  
+**[2957.48s] English:** The idea that somehow there is this world out there, but it's complete and has nothing  
 **Translation:** 
 
-**[2957.48s] English:** The idea that somehow there is this world out there, but it's complete, has nothing  
+**[2962.16s] English:** To do with me.  
 **Translation:** 
 
-**[2962.16s] English:** to do with me.  
-**Translation:** 
-
-**[2964.20s] English:** So I can revel in the intricacies of this part.  
-**Translation:** Vocabulary: intricacies: 复杂细节; revel: 尽情享受
+**[2964.20s] English:** So, I can revel in the intricacies of this part.  
+**Translation:** Vocabulary: intricacies: 复杂性; revel: 欢欣
 
 **[2968.04s] English:** Yeah.  
 **Translation:** 
 
-**[2969.04s] English:** So you can go back to your own articles and their interactions, but completely ignore  
+**[2969.04s] English:** So, you can go back to your own articles and their interactions, but completely ignore.  
 **Translation:** 
 
-**[2974.28s] English:** what implications this has for my own relationship to physical reality, to my own life, you know?  
+**[2974.28s] English:** What implications does this have for my own relationship to physical reality, to my own life, you know?  
 **Translation:** 
 
 **[2982.80s] English:** Because it's kind of scary, I guess, you know?  
+**Translation:** Vocabulary: implications: 含义
+
+**[2984.44s] English:** But also, what are the tools with which we can talk about the observer and the subjective?  
 **Translation:** 
 
-**[2984.44s] English:** But also, what are the tools with which we can talk about the observer, the subjective  
-**Translation:** 
-
-**[2994.08s] English:** view on reality?  
+**[2994.08s] English:** View on Reality?  
 **Translation:** Vocabulary: observer: 观察者
 
-**[2995.82s] English:** What are the tools with which we could talk about...  
+**[2995.82s] English:** What are the tools with which we could talk about...?  
 **Translation:** 
 
-**[2998.16s] English:** Rigorously talk about...  
+**[2998.16s] English:** Rigorously talk about....  
 **Translation:** Vocabulary: rigorously: 严格地
 
-**[3000.00s] English:** free will and consciousness what are the tools of mathematics that allow that i don't think we have  
+**[3000.00s] English:** Free will and consciousness: what are the tools of mathematics that allow us to explore those concepts? I don't think we have them yet.  
 **Translation:** 
 
-**[3004.80s] English:** those tools because we haven't been taught properly so actually tools are there for instance um  
+**[3004.80s] English:** Those tools, because we haven't been taught properly, so actually, tools are there—for instance, um  
+**Translation:** Vocabulary: consciousness: 觉醒
+
+**[3013.28s] English:** I think, well, here we have to say that my conviction is that everybody knows.  
 **Translation:** 
 
-**[3013.28s] English:** i think well here we have to i have to say my conviction is that everybody knows  
+**[3021.28s] English:** In the heart of hearts, everybody knows that there is something.  
 **Translation:** 
 
-**[3021.28s] English:** in the heart of hearts everybody knows that there is that there is something  
+**[3026.40s] English:** Ineffable; there is something mysterious, and in fact, I feel that somehow immediately.  
 **Translation:** 
 
-**[3026.40s] English:** ineffable there is something mysterious and in fact you know somehow immediately i feel that  
+**[3036.56s] English:** Um, you know, the impulse to quote somebody on this because, as if my own opinion doesn't count.  
+**Translation:** Vocabulary: impulse: 冲动; ineffable: 难以言喻
+
+**[3043.12s] English:** There's a long-dead expert that has even Einstein said, you know, so like, look at me.  
 **Translation:** 
 
-**[3036.56s] English:** um you know the impulse to quote somebody on this because as if as if my own opinion doesn't count  
-**Translation:** Vocabulary: ineffable: 无法言喻
-
-**[3043.12s] English:** there's a long dead expert that has even einstein said that you know so like how see look at me  
-**Translation:** 
-
-**[3049.76s] English:** i am supposedly like this smart intelligent person i am afraid to say it and own it myself  
+**[3049.76s] English:** I am supposedly like this smart, intelligent person, but I am afraid to say it and own it myself.  
 **Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[3056.40s] English:** to find a confirmation i have to find an authority who agrees with me and in fact it's not so difficult  
+**[3056.40s] English:** To find a confirmation, I have to find an authority who agrees with me, and in fact, it's not so difficult.  
 **Translation:** 
 
-**[3062.72s] English:** to find because albert einstein literally said the most important thing in life is the mysterious  
+**[3062.72s] English:** To find, because Albert Einstein literally said, "The most important thing in life is to mysteries.  
 **Translation:** 
 
-**[3067.76s] English:** okay he actually said that there are some quotes which are attributed to him which he never said  
+**[3067.76s] English:** Okay, he actually said that there are some quotes which are attributed to him which he never said.  
 **Translation:** 
 
-**[3073.12s] English:** but this he did i investigated okay but more importantly you know how do you feel about it  
-**Translation:** Vocabulary: attributed: 归因于
+**[3073.12s] English:** But this, he did. I investigated, okay. But more importantly, you know, how do you feel about it?  
+**Translation:** Vocabulary: attributed: 归因; investigated: 调查; quotes: 引语
 
-**[3081.92s] English:** um i think that everybody knows but  
+**[3081.92s] English:** Um, I think that everybody knows but  
 **Translation:** 
 
-**[3087.36s] English:** in other words he also said einstein imagination is more important than knowledge  
+**[3087.36s] English:** In other words, he also said that Einstein's imagination is more important than knowledge.  
 **Translation:** 
 
-**[3092.72s] English:** okay and it's explained for knowledge is always limited whereas imagination embraces the entire  
+**[3092.72s] English:** Okay, and it's explained that knowledge is always limited, whereas imagination embraces the entire universe.  
 **Translation:** 
 
-**[3099.52s] English:** world giving birth to evolution it is uh strictly speaking a real factor in scientific research  
-**Translation:** Vocabulary: embraces: 包容
+**[3099.52s] English:** World giving birth to evolution: it is, uh, strictly speaking, a real factor in scientific research.  
+**Translation:** Vocabulary: embraces: 包容; strictly: 严格地
 
-**[3105.52s] English:** he says and he says i am enough of an artist to follow my intuition in the imagination that's  
+**[3105.52s] English:** He says, and he says, "I am enough of an artist to follow my intuition in the imagination that's.  
 **Translation:** 
 
-**[3110.48s] English:** albert einstein again so and i feel the same way to be honest if i think about my own mind  
+**[3110.48s] English:** Albert Einstein, again. So, I feel the same way to be honest. If I think about my own mind,...  
 **Translation:** Vocabulary: intuition: 直觉
 
-**[3116.40s] English:** maybe you do a few things that i don't think about but even if i know something a little bit  
+**[3116.40s] English:** Maybe you do a few things that I don't think about, but even if I know something a little bit,...  
 **Translation:** 
 
-**[3129.76s] English:** better than you i know that you know it well so that's the file so i'm pretty confident but  
+**[3120.00s] English:** It's never like, "give me more data, give me more data, give me more data," boom, the glass is full, and then I come up with a discovery.  
 **Translation:** 
 
-**[3133.76s] English:** i'm not even sure whether i really felt or soaping us with poison i don't know i don't think  
+**[3126.48s] English:** No, it's always felt like a jump, a leap.  
 **Translation:** 
 
-**[3138.56s] English:** the answer is going to help you and i think it would be interesting to think about why not  
+**[3129.76s] English:** Better than you, I know that you know it well, so that's the file. So, I'm pretty confident, but...  
 **Translation:** 
 
-**[3143.36s] English:** right answerillo  
+**[3131.78s] English:** And I have actually been studying various examples in history of mathematics, such as the fundamental discovery of complex numbers, like the square root of negative one.  
 **Translation:** 
 
-**[3144.36s] English:** professionals  
+**[3133.76s] English:** I'm not even sure whether I really felt or soaping us with poison—I don't know, I don't think.  
+**Translation:** Vocabulary: poison: 毒药
+
+**[3138.56s] English:** The answer is going to help you, and I think it would be interesting to think about why not.  
 **Translation:** 
 
-**[3145.34s] English:** people  
+**[3142.62s] English:** I wonder if a large language model could actually ever come up with the idea that the square root of negative one is something that is essential or meaningful.  
 **Translation:** 
 
-**[3120.00s] English:** It's never like, give me more data, give me more data, give me more data, boom, the glass is full, and then I come up with a discovery.  
+**[3143.36s] English:** Right answer!  
 **Translation:** 
 
-**[3126.48s] English:** No, it's always felt as a jump, as a leap.  
+**[3144.36s] English:** Professionals  
 **Translation:** 
 
-**[3131.78s] English:** And I have actually been studying various examples in history of mathematics of some fundamental discoveries, like discovery of complex numbers, like square root of negative one.  
+**[3145.34s] English:** People  
 **Translation:** 
 
-**[3142.62s] English:** I wonder if a large language model could actually ever come up with the idea that square root of negative one is something that is essential or meaningful.  
+**[3156.40s] English:** Because, if all the information and knowledge you get up to that point tell you that you cannot have a square root of a negative number.  
 **Translation:** 
 
-**[3156.40s] English:** Because if all the information that you get, all the knowledge that had been accumulated up to that point, tells you that you cannot have a square root of a negative number.  
-**Translation:** Vocabulary: accumulated: 累积的; cannot: 不能
-
-**[3168.12s] English:** Why? Because if you had such a square root, we know that.  
+**[3168.12s] English:** Why? Because if you had such a square root, we would know that.  
 **Translation:** 
 
-**[3172.62s] English:** Then we would have to, if you square it, you get a negative number.  
+**[3172.62s] English:** Then we would have to square it, and you get a negative number.  
 **Translation:** 
 
 **[3176.20s] English:** But we know that if you square any real number, positive or negative, you will always get a positive number.  
 **Translation:** 
 
-**[3182.64s] English:** So, checkmate, you know, it's over.  
+**[3182.64s] English:** So, checkmate; you know, it's over.  
 **Translation:** Vocabulary: checkmate: 将死
 
-**[3186.00s] English:** Square root of negative one doesn't exist.  
+**[3186.00s] English:** The square root of negative one does not exist.  
 **Translation:** 
 
 **[3187.76s] English:** Yet, we know that these numbers make sense.  
@@ -2008,14 +2009,14 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3190.94s] English:** They're called complex numbers.  
 **Translation:** 
 
-**[3192.30s] English:** And in fact, quantum mechanics is based on complex numbers.  
-**Translation:** 
+**[3192.30s] English:** And, in fact, quantum mechanics is based on complex numbers.  
+**Translation:** Vocabulary: quantum: 量子
 
 **[3195.84s] English:** They are essential and indispensable for quantum mechanics.  
 **Translation:** 
 
 **[3200.22s] English:** Could one discover that?  
-**Translation:** Vocabulary: indispensable: 必不可少
+**Translation:** Vocabulary: indispensable: 必不可少的
 
 **[3202.32s] English:** So, to me, it's a very interesting question.  
 **Translation:** 
@@ -2027,21 +2028,21 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **Translation:** 
 
 **[3207.88s] English:** It's a jump.  
-**Translation:** Vocabulary: discontinuity: 中断
+**Translation:** Vocabulary: discontinuity: 不连续性
 
 **[3208.76s] English:** It's a departure.  
 **Translation:** 
 
 **[3209.88s] English:** It is like a child who is experimenting.  
+**Translation:** Vocabulary: experimenting: 尝试
+
+**[3212.18s] English:** It's like a child who says, "I'm not afraid to be an idiot.  
 **Translation:** 
 
-**[3212.18s] English:** It's like a child who says, I'm not afraid to be an idiot.  
+**[3214.58s] English:** Everybody says that the adults are saying the square root of a negative number doesn't exist.  
 **Translation:** 
 
-**[3214.58s] English:** Everybody says, the adults are saying, square root of negative number doesn't exist.  
-**Translation:** 
-
-**[3220.32s] English:** But guess what?  
+**[3220.32s] English:** But, guess what?  
 **Translation:** 
 
 **[3221.44s] English:** I'm going to accept it.  
@@ -2059,133 +2060,133 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3228.46s] English:** There was an Italian mathematician, astronomer.  
 **Translation:** Vocabulary: astronomer: 天文学家; mathematician: 数学家
 
-**[3232.46s] English:** He made money, apparently, by compiling astrological sort of readings for...  
+**[3232.46s] English:** He made money, apparently, by compiling astrological sorts of readings for....  
 **Translation:** 
 
-**[3240.00s] English:** For the elite, you know of his ear does this is 16th century as one does a gambler  
+**[3240.00s] English:** For the elite, you know of his ear, do this is 16th-century practice, as one would do for a gambler.  
 **Translation:** Vocabulary: astrological: 占星的; compiling: 整理; gambler: 赌徒
 
-**[3246.90s] English:** All around interesting guy. I'm sure we would have an interesting conversation with him Gerolamo Cardano  
+**[3246.90s] English:** All around, an interesting guy. I'm sure we would have an interesting conversation with him, Gerolamo Cardano.  
 **Translation:** 
 
-**[3252.06s] English:** He's oh, he also invented the what's called card on shaft. So which is an essential component of a car  
-**Translation:** Vocabulary: gerolamo: 卡尔达诺; shaft: 轴
+**[3252.06s] English:** He's also invented what's called the card on shaft, which is an essential component of a car.  
+**Translation:** Vocabulary: cardano: 卡尔达诺; gerolamo: 杰罗拉莫; shaft: 轴
 
-**[3261.00s] English:** Cardano we've all we say in Russian, so  
+**[3261.00s] English:** Cardano, we've all said in Russian, so  
 **Translation:** 
 
-**[3263.72s] English:** So he wrote a book which is called our Ars Magna, which is like a great art of algebra  
+**[3263.72s] English:** So he wrote a book which is called *Ars Magna*, which is like a great art of algebra.  
 **Translation:** Vocabulary: algebra: 代数; magna: 伟大
 
-**[3270.32s] English:** and he was writing solutions for the  
+**[3270.32s] English:** And he was writing solutions for the  
 **Translation:** 
 
-**[3273.66s] English:** cubic and quartic equations  
+**[3273.66s] English:** Cubic and quartic equations.  
 **Translation:** Vocabulary: equations: 方程; quartic: 四次的
 
-**[3275.76s] English:** this is something that is familiar because  
+**[3275.76s] English:** This is something that is familiar because  
 **Translation:** 
 
-**[3278.80s] English:** It's cool. We study solutions of quadratic equations  
-**Translation:** Vocabulary: quadratic: 二次方程
+**[3278.80s] English:** It's cool. We study solutions of quadratic equations.  
+**Translation:** Vocabulary: quadratic: 二次的
 
-**[3282.10s] English:** equations of degree 2 so you have X a x squared plus B X plus C equals 0 and there is a formula  
+**[3282.10s] English:** Equations of degree 2, so you have \(x^2 + bx + c = 0\), and there is a formula.  
 **Translation:** 
 
-**[3288.10s] English:** which solves it using radicals using square roots and  
+**[3288.10s] English:** Which solves it using radicals, using square roots, and  
+**Translation:** Vocabulary: radicals: 根号内的表达式
+
+**[3291.82s] English:** Cardano was trying to find a similar formula.  
 **Translation:** 
 
-**[3291.82s] English:** Cardano was trying to find a similar formula  
+**[3293.70s] English:** For the cubic and quartic equations, which would start with \(x^3\) or \(x^4\), as  
 **Translation:** 
 
-**[3293.70s] English:** for the cubic and quartic equations for which which would start with X cube or X to the power of 4 as  
+**[3300.22s] English:** Opposed to x squared, and in the process of solving these equations, he came up with  
 **Translation:** 
 
-**[3300.22s] English:** opposed to x squared and in the process of solving these equations he came up with  
+**[3306.28s] English:** Square root of a negative number, specifically square root of minus 17, and  
 **Translation:** 
 
-**[3306.28s] English:** square root of a negative number specifically square root of minus 17 and  
+**[3310.84s] English:** He wrote that I have to forego some mental tortures.  
 **Translation:** 
 
-**[3310.84s] English:** He wrote that I have to forego some mental tortures  
-**Translation:** 
-
-**[3316.32s] English:** To deal with it  
+**[3316.32s] English:** To deal with it,  
 **Translation:** Vocabulary: forego: 放弃; tortures: 折磨
 
-**[3317.42s] English:** But I am going to accept it and see what happens and in fact at the end of the four at the end of the calculation  
+**[3317.42s] English:** But I am going to accept it and see what happens, and in fact, at the end of the four calculations.  
 **Translation:** 
 
-**[3324.16s] English:** This this this weird numbers got cancelled  
+**[3324.16s] English:** This, this, this weird number got cancelled.  
 **Translation:** 
 
-**[3327.16s] English:** You can have cancelled out in a formula appeared square root of negative 17 and its negation  
+**[3327.16s] English:** You can have been cancelled out in a formula that appeared to include a square root of negative 17 and its negation.  
 **Translation:** 
 
-**[3332.48s] English:** So they kind of conveniently gave the right answer which is not involved those numbers. So he was like  
-**Translation:** Vocabulary: conveniently: 恰好; negation: 否定
+**[3332.48s] English:** So, they kind of conveniently gave the right answer, which is not involved with those numbers. So he was like,  
+**Translation:** Vocabulary: conveniently: 方便地; negation: 否定
 
-**[3339.52s] English:** What does it mean mental tortures so you see from the point of view of  
+**[3339.52s] English:** What does "mental tortures" mean, so you see, from the point of view of  
 **Translation:** 
 
-**[3344.60s] English:** of them of the thinking mind  
+**[3344.60s] English:** Of them, of the thinking mind.  
 **Translation:** 
 
-**[3347.82s] English:** It is something almost unbearable. It's almost I feel that a long large language model a computer running  
+**[3347.82s] English:** It is something almost unbearable. It's almost as if I feel that a long, large language model—a computer—is running.  
 **Translation:** 
 
-**[3353.70s] English:** a large language model, trying to do that would just explode. And yet a human mathematician was  
-**Translation:** Vocabulary: mathematician: 数学家; unbearable: 难以忍受
+**[3353.70s] English:** A large language model, trying to do that, would just explode. And yet, a human mathematician was  
+**Translation:** Vocabulary: explode: 爆裂; mathematician: 数学家; unbearable: 难以忍受
 
-**[3360.00s] English:** able to find the courage and inspiration to say, you know what? What is wrong? Why are we so  
+**[3360.00s] English:** Able to find the courage and inspiration to say, "You know what? What is wrong? Why are we so...  
 **Translation:** 
 
-**[3366.80s] English:** adamant that these things don't exist? That's just our past knowledge. It's based on what  
+**[3366.80s] English:** Adamant that these things don't exist? That's just our past knowledge. It's based on what?  
+**Translation:** Vocabulary: adamant: 坚决的
+
+**[3372.16s] English:** Our past knowledge is limited. What if we take the next step?  
 **Translation:** 
 
-**[3372.16s] English:** our past knowledge is, and knowledge is limited. What if we make the next step?  
+**[3376.72s] English:** Today, for us mathematicians, complex numbers, which we call them, are not at all mysterious.  
 **Translation:** 
 
-**[3376.72s] English:** Today, for us mathematicians, complex numbers that we call them are not at all mysterious.  
+**[3382.88s] English:** The idea is simply that you plot real numbers—that is to say, all the whole numbers, like zero,—  
 **Translation:** 
 
-**[3382.88s] English:** The idea is simply that you plot real numbers, that is to say, all the whole numbers like zero,  
-**Translation:** 
-
-**[3388.80s] English:** one, and so on, two, and so on, right? All fractions like one half or three halves or  
+**[3388.80s] English:** One, and so on; two, and so on, right? All fractions, like one-half or three-halves, or  
 **Translation:** Vocabulary: fractions: 分数
 
-**[3393.76s] English:** four over three, but then also numbers like square root of two or pi. We plot them as points  
+**[3393.76s] English:** Four-thirds, but then also numbers like the square root of two or pi. We plot them as points.  
 **Translation:** 
 
-**[3400.40s] English:** on the real line. This is one of the perennial concepts even in our very poor math curriculum  
+**[3400.40s] English:** On the real line, this is one of the perennial concepts, even in our very poor math curriculum.  
 **Translation:** Vocabulary: perennial: 长久的
 
-**[3409.44s] English:** at school. But now imagine that instead of one line, you have one axis, you have a second axis,  
+**[3409.44s] English:** At school. But now, imagine that instead of one line, you have one axis, and you have a second axis.  
 **Translation:** 
 
-**[3416.88s] English:** and so your numbers now have  
+**[3416.88s] English:** And so, your numbers now have  
 **Translation:** 
 
-**[3418.80s] English:** two coordinates, x and y, and you associate to this point with coordinates x and y,  
+**[3418.80s] English:** Two coordinates, (x, y), and you associate this point with coordinates (x, y).  
 **Translation:** 
 
-**[3425.52s] English:** and the number x, which is a real number, plus y times square root of negative one.  
+**[3425.52s] English:** And the number x, which is a real number, plus y times the square root of negative one.  
 **Translation:** 
 
-**[3430.16s] English:** This is a graphical, geometrical representation of complex numbers, which is not mysterious at all.  
+**[3430.16s] English:** This is a graphical, geometrical representation of complex numbers, which is not at all mysterious.  
 **Translation:** 
 
-**[3436.16s] English:** Now, it took another 200 or 300 years for mathematicians to figure that out,  
+**[3436.16s] English:** Now, it took another 200 or 300 years for mathematicians to figure that out.  
 **Translation:** Vocabulary: geometrical: 几何的; graphical: 图形的; mathematicians: 数学家
 
-**[3440.08s] English:** but initially it looked like a completely crazy idea.  
+**[3440.08s] English:** But initially, it looked like a completely crazy idea.  
 **Translation:** 
 
-**[3445.84s] English:** So all it is, all a complex number is, is just an...  
+**[3445.84s] English:** So, all it is, all a complex number is, is just an...  
 **Translation:** 
 
-**[3449.44s] English:** A real number and two real numbers.  
+**[3449.44s] English:** A real number, and two real numbers.  
 **Translation:** 
 
 **[3450.80s] English:** Yes, just a...  
@@ -2197,205 +2198,205 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3451.52s] English:** It's just an expansion of your view of the mathematical world.  
 **Translation:** Vocabulary: mathematical: 数学的
 
-**[3456.24s] English:** The fact that you can actually multi,  
+**[3456.24s] English:** The fact that you can actually multi-,  
 **Translation:** 
 
-**[3458.08s] English:** you can add them up by adding together the real parts and imaginary parts, that's easy.  
+**[3458.08s] English:** You can add them up by adding together the real parts and imaginary parts; that's easy.  
 **Translation:** 
 
 **[3463.28s] English:** But there is also a formula for the product, for the multiplication,  
 **Translation:** 
 
-**[3466.88s] English:** which uses the fact that square root of minus one squared is minus one.  
+**[3466.88s] English:** Which uses the fact that the square root of minus one, squared, is minus one.  
 **Translation:** Vocabulary: multiplication: 乘法
 
-**[3471.20s] English:** And the amazing thing is that that product, that multiplication satisfies the same rules,  
+**[3471.20s] English:** And the amazing thing is that that product satisfies the same rules,  
 **Translation:** 
 
 **[3476.64s] English:** The same properties that are usual.  
 **Translation:** 
 
-**[3480.00s] English:** of multiplication for real numbers for instance there is an inverse for every non-zero number  
+**[3480.00s] English:** Of multiplication for real numbers, for instance, there is an inverse for every non-zero number.  
 **Translation:** 
 
-**[3484.60s] English:** that you can find like number five has an inverse one over five but uh one plus i also has an  
+**[3484.60s] English:** That you can find, like number five has an inverse one over five, but uh, one plus i also has an.  
 **Translation:** Vocabulary: inverse: 逆元
 
-**[3491.16s] English:** inverse for instance you know that was always there in the mathematical universe but we humans  
+**[3491.16s] English:** Inverse, for instance, you know, that was always there in the mathematical universe, but we humans...  
 **Translation:** 
 
-**[3496.96s] English:** didn't know it and here comes along this guy who engages in the mental torture who takes a leap  
+**[3496.96s] English:** I didn't know it, and here comes this guy who engages in mental torture, taking a leap.  
+**Translation:** Vocabulary: engages: 从事; torture: 折磨
+
+**[3503.06s] English:** Off the cliff of comfort, of like mathematical comfort, established knowledge established.  
 **Translation:** 
 
-**[3503.06s] English:** off the cliff of comfort of like mathematical comfort established knowledge established  
+**[3508.16s] English:** Knowledge, right? And now, obviously, for each fruitful leap like that, there probably  
 **Translation:** 
 
-**[3508.16s] English:** knowledge right and now obviously for each each um sort of fruitful leap like that there probably  
+**[3515.84s] English:** There were thousands of like things which went nowhere. I'm not saying that every leap is bad; you know, it's just that...  
 **Translation:** 
 
-**[3515.84s] English:** were thousands of like things which went nowhere i'm not saying that every leap you know it's like  
+**[3520.68s] English:** It's an open-shooting game, yeah. Because, for example, you can try to do the same.  
 **Translation:** 
 
-**[3520.68s] English:** it's a it's a it's an open shooting game yeah because for example you can try to do the same  
+**[3525.62s] English:** With three-dimensional space, so you have coordinates (x, y, and z), and you can say, "oh, uh, if  
 **Translation:** 
 
-**[3525.62s] English:** with three-dimensional space so you have coordinates x y and z and you can say oh uh if  
-**Translation:** 
-
-**[3532.24s] English:** this one-dimensional we have a bona fide numerical system called real numbers if it's two  
+**[3532.24s] English:** This is one-dimensional: we have a bona fide numerical system called real numbers. If it's two...  
 **Translation:** Vocabulary: coordinates: 坐标; numerical: 数字的
 
-**[3538.04s] English:** dimensions  
+**[3538.04s] English:** Dimensions:  
 **Translation:** 
 
-**[3538.16s] English:** which is like you know geometrically it's just like this tabletop extended to infinity in all  
-**Translation:** Vocabulary: dimensions: 维度; geometrically: 几何上; infinity: 无限; tabletop: 桌面
+**[3538.16s] English:** Which is like, you know, geometrically, it's just like this tabletop extended to infinity in all directions.  
+**Translation:** Vocabulary: dimensions: 维度; geometrically: 几何地; infinity: 无限; tabletop: 桌面
 
-**[3542.24s] English:** directions these are complex numbers and we can define addition and multiplication and they will  
+**[3542.24s] English:** Directions: These are complex numbers, and we can define addition and multiplication, and they will  
 **Translation:** 
 
-**[3548.24s] English:** satisfy the same properties as real numbers that we're used to what about three-dimensional space  
+**[3548.24s] English:** Satisfy the same properties as real numbers that we're used to? What about three-dimensional space?  
+**Translation:** Vocabulary: multiplication: 乘法
+
+**[3552.72s] English:** Is it possible to also define some operations of addition and multiplication on it so that?  
 **Translation:** 
 
-**[3552.72s] English:** is it possible to also define some operation of addition and multiplication on it so that  
+**[3558.80s] English:** These operations would satisfy the properties that we're used to, and the answer is: No, you can't.  
 **Translation:** 
 
-**[3558.80s] English:** these operations would satisfy the properties that we're used to and the answer is no you can  
+**[3564.88s] English:** Define addition, but you can't define multiplication for which there will...  
 **Translation:** 
 
-**[3564.88s] English:** define addition but you can't define multiplication for which there will  
+**[3568.04s] English:** Be an inverse, for instance, so there is something special about the plane in two dimensions.  
+**Translation:** Vocabulary: inverse: 逆元
+
+**[3573.00s] English:** Case, and by the way, uh, the next question would be: What about four-dimensional?  
 **Translation:** 
 
-**[3568.04s] English:** be an inverse for instance so there is something special about the the plane the two-dimensional  
-**Translation:** 
-
-**[3573.00s] English:** case and by the way uh next question would be what about four-dimensional in the four-dimensional  
-**Translation:** 
-
-**[3578.76s] English:** space you again you can and you get what's called quaternions discovered by an irish mathematician  
+**[3578.76s] English:** Space, you again. You can, and you get what's called quaternions, discovered by an Irish mathematician.  
 **Translation:** Vocabulary: mathematician: 数学家; quaternions: 四元数
 
-**[3585.80s] English:** hamilton in the 19th century and then in in the eighth dimensional there is something  
+**[3585.80s] English:** Hamilton in the 19th century, and then in the eighth dimension, there is something.  
 **Translation:** 
 
-**[3591.72s] English:** similar called actonians and that's about it so how interesting these structures exist in dimension one  
-**Translation:** Vocabulary: actonians: 八维实体; dimension: 维度
+**[3591.72s] English:** Similar, called Actonians, and that's about it. So, how interesting; these structures exist in dimension one.  
+**Translation:** Vocabulary: actonians: 阿克托尼; dimension: 维度; eighth: 第八; hamilton: 汉密尔顿
 
-**[3598.04s] English:** two four  
+**[3598.04s] English:** Two, four.  
 **Translation:** 
 
-**[3600.00s] English:** and eight which are all powers of two two squared is four two to the third power is eight that's one  
+**[3600.00s] English:** And eight, which are all powers of two: two squared is four, two to the third power is eight—that's one.  
 **Translation:** 
 
-**[3606.96s] English:** of the bigger mysteries in mathematics why it is so so that's a hint there's a hint of  
+**[3606.96s] English:** Of the bigger mysteries in mathematics, why it is so. That's a hint: there's a hint of  
 **Translation:** 
 
-**[3614.48s] English:** what's missing in our in our high school curriculum the kind of the kind of fascinating  
+**[3614.48s] English:** What's missing in our high school curriculum is the kind of fascinating  
 **Translation:** 
 
-**[3621.76s] English:** mysteries yes the appreciation of the mysterious so in other words yes we resolved this one mystery  
+**[3621.76s] English:** Mysteries, yes—the appreciation of the mysterious. So, in other words, yes, we resolved this one mystery.  
 **Translation:** 
 
-**[3627.20s] English:** that we understood that square root of negative one is real is meaningful we build a theory  
+**[3627.20s] English:** That we understood that the square root of negative one is real and meaningful allowed us to build a theory.  
 **Translation:** 
 
-**[3634.72s] English:** to service those now to describe those numbers did we find the theory of everything no because  
+**[3634.72s] English:** To service those, we described those numbers. Did we find the theory of everything? No, because.  
 **Translation:** 
 
-**[3640.96s] English:** we then invited other mysteries because we we push the fr we pull the veil so to speak  
+**[3640.96s] English:** We then invited other mysteries, because we push the furthest boundaries, as if pulling the veil, so to speak.  
+**Translation:** Vocabulary: furthest: 最远的
+
+**[3647.52s] English:** Or you push the frontier, and then new things come to light that we couldn't see before.  
 **Translation:** 
 
-**[3647.52s] English:** or you push the frontier and then new things come get illuminated which we couldn't see before  
-**Translation:** 
-
-**[3653.44s] English:** that's how i see the process of discovery in mathematics it's an endless limit  
+**[3653.44s] English:** That's how I see the process of discovery in mathematics; it's an endless limit.  
 **Translation:** Vocabulary: frontier: 边界
 
-**[3657.20s] English:** let's pursue it can you comment on what you think this human capability of imagination that  
+**[3657.20s] English:** Let's pursue it. Can you comment on what you think this human capability of imagination is?  
 **Translation:** 
 
-**[3663.36s] English:** einstein spoke about of the artists following their intuition in this big alice in wonderland  
-**Translation:** Vocabulary: capability: 能力; intuition: 直觉
+**[3663.36s] English:** Einstein spoke about how artists should follow their intuition, like in "Alice in Wonderland.  
+**Translation:** Vocabulary: capability: 能力; intuition: 直觉; wonderland: Wonderland
 
-**[3670.56s] English:** world of of uh imagination what is it you visit there sometimes what does it feel like  
+**[3670.56s] English:** World of imagination, what is it? You visit there sometimes, right? What does it feel like?  
 **Translation:** 
 
-**[3677.60s] English:** yeah what does it feel like what what is it what is that like playing but i think all of us are  
+**[3677.60s] English:** Yeah, what does it feel like? What is it like playing, but I think all of us are.  
 **Translation:** 
 
-**[3682.64s] English:** engaged in that kind of play no matter when we do what we love  
+**[3682.64s] English:** Engaged in that kind of play, no matter when we do what we love.  
 **Translation:** 
 
-**[3686.64s] English:** i think it always feels the same but it's not real right you're so it that you're describing  
+**[3686.64s] English:** I think it always feels the same, but it's not really right—you're so close in describing it.  
 **Translation:** 
 
-**[3693.12s] English:** a feeling but that place you go to in the imagination right it's it's bigger than the  
+**[3693.12s] English:** A feeling, but that place you go to in the imagination—right? It's bigger than the  
 **Translation:** 
 
-**[3697.60s] English:** real world so there is a big conundrum as to whether mathematics is invented or discovered  
+**[3697.60s] English:** Real-world problems often present a big conundrum as to whether mathematics is invented or discovered.  
 **Translation:** Vocabulary: conundrum: 难题
 
-**[3704.80s] English:** and uh mathematicians are divided on this nobody knows where do you bet your money on financially  
+**[3704.80s] English:** And, uh, mathematicians are divided on this; nobody knows where to bet your money financially.  
 **Translation:** 
 
-**[3715.04s] English:** investment advice  
+**[3715.04s] English:** Investment advice.  
 **Translation:** Vocabulary: financially: 与金钱相关; mathematicians: 数学家
 
-**[3716.16s] English:** let me tell you something i my views have evolved okay  
+**[3716.16s] English:** Let me tell you something; I've evolved my views, okay?  
 **Translation:** 
 
-**[3720.00s] English:** When I wrote Love and Math, when I wrote my book, I was squarely on the side of mathematics  
-**Translation:** 
+**[3720.00s] English:** When I wrote "Love and Math," when I wrote my book, I was squarely on the side of mathematics.  
+**Translation:** Vocabulary: evolved: 发展; squarely: 坚定地
 
-**[3726.48s] English:** is discovered.  
+**[3726.48s] English:** Is discovered.  
 **Translation:** 
 
 **[3728.50s] English:** What does it mean?  
 **Translation:** 
 
-**[3729.94s] English:** Usually mathematicians or others who have this, you know, idea or belief are called  
+**[3729.94s] English:** Usually, mathematicians or others who have this idea or belief are called  
 **Translation:** 
 
-**[3736.10s] English:** Platonists in honor of the great philosopher Plato, who talked about this absolute perfect  
+**[3736.10s] English:** Platonists, in honor of the great philosopher Plato, who talked about this absolute perfection,  
 **Translation:** Vocabulary: platonists: 柏拉图主义者
 
-**[3742.22s] English:** forms.  
+**[3742.22s] English:** Forms.  
 **Translation:** 
 
-**[3742.70s] English:** So for me, you know, about 10 years ago, the world of mathematics was this world of pure  
+**[3742.70s] English:** So, for me, you know, about 10 years ago, the world of mathematics was this world of pure  
 **Translation:** 
 
-**[3751.00s] English:** forms, this beautiful, pure forms, which existed outside of space and time, but I was able  
+**[3751.00s] English:** Forms, these beautiful, pure forms, which existed outside of space and time, but I was able,  
 **Translation:** 
 
-**[3756.64s] English:** to connect to it through my mind and as it were, kind of dive into it and bring treasures  
+**[3756.64s] English:** To connect to it through my mind and, as it were, kind of dive into it and bring treasures.  
 **Translation:** 
 
-**[3762.58s] English:** back into this world, into this space and time.  
+**[3762.58s] English:** Back into this world, into this space and time.  
 **Translation:** 
 
 **[3766.20s] English:** That's how I viewed the process of mathematical discovery.  
-**Translation:** 
+**Translation:** Vocabulary: mathematical: 数学的
 
-**[3769.46s] English:** How nice, how neat, very neat.  
+**[3769.46s] English:** How nice! How neat! Very neat.  
 **Translation:** 
 
 **[3772.28s] English:** Because.  
 **Translation:** 
 
-**[3772.70s] English:** The picture also makes you feel connected to something divine, allows you the sense  
+**[3772.70s] English:** The picture also makes you feel connected to something divine, allowing you the sense  
 **Translation:** 
 
-**[3778.00s] English:** of escape from the cruelty and injustice of this world, you know, which I now recognize.  
-**Translation:** 
+**[3778.00s] English:** Of escape from the cruelty and injustice of this world, you know, which I now recognize.  
+**Translation:** Vocabulary: cruelty: 残忍
 
-**[3784.12s] English:** And the divine world of forms is stable, reliable.  
+**[3784.12s] English:** And the divine world of forms is stable and reliable.  
 **Translation:** 
 
 **[3787.52s] English:** It's something stable.  
 **Translation:** 
 
-**[3788.80s] English:** And in that world, everything is clear cut.  
+**[3788.80s] English:** And in that world, everything is clear-cut.  
 **Translation:** 
 
 **[3791.60s] English:** Yeah.  
@@ -2434,25 +2435,25 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3802.36s] English:** I think now.  
 **Translation:** 
 
-**[3803.54s] English:** I understand why I liked it, because I think that I was very dissatisfied with what we  
+**[3803.54s] English:** I understand why I liked it, because I think that I was very dissatisfied with what we.  
 **Translation:** Vocabulary: dissatisfied: 不满意
 
-**[3810.54s] English:** call the real world, the world around me, the cruelty, the injustice of it.  
+**[3810.54s] English:** Call the real world the world around me—the cruelty, the injustice of it.  
 **Translation:** 
 
-**[3815.66s] English:** And I went through certain experiences as a kid, which made me love mathematics even  
+**[3815.66s] English:** And I went through certain experiences as a kid, which made me love mathematics even more.  
 **Translation:** 
 
-**[3819.74s] English:** more as this place where I could be safe and in control.  
+**[3819.74s] English:** More like this place where I could be safe and in control.  
 **Translation:** 
 
 **[3824.12s] English:** Made you see the human world as lesser than the mathematical world.  
-**Translation:** Vocabulary: mathematical: 数学的
+**Translation:** 
 
 **[3827.00s] English:** Yes.  
 **Translation:** 
 
-**[3827.42s] English:** As more limited than the mathematical world.  
+**[3827.42s] English:** As it is more limited than the mathematical world.  
 **Translation:** 
 
 **[3829.16s] English:** Yes.  
@@ -2470,124 +2471,124 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3835.66s] English:** I think that it's still missing the mark in some sense, because.  
 **Translation:** 
 
-**[3840.00s] English:** In fact, what I now think, it's a paradoxical question, whether mathematics is invented or  
-**Translation:** Vocabulary: paradoxical: 悖论的
+**[3840.00s] English:** In fact, what I now think is that it's a paradoxical question: whether mathematics is invented or discovered.  
+**Translation:** Vocabulary: paradoxical: 矛盾的
 
-**[3848.56s] English:** discovered, whether there is this world of pure forms and so on, is another paradoxical question,  
+**[3848.56s] English:** Discovered, whether there is this world of pure forms and so on, is another paradoxical question.  
 **Translation:** 
 
-**[3855.60s] English:** which doesn't have a simple answer, like whether electron is a particle or a wave.  
-**Translation:** 
+**[3855.60s] English:** Which doesn't have a simple answer, like whether an electron is a particle or a wave.  
+**Translation:** Vocabulary: particle: 粒子
 
-**[3862.16s] English:** From one point of view, yes, it's true.  
+**[3862.16s] English:** From one point of view, yes, it is true.  
 **Translation:** 
 
 **[3865.76s] English:** And just the fact that so many mathematicians today actually subscribe to this idea,  
 **Translation:** Vocabulary: mathematicians: 数学家; subscribe: 赞同
 
-**[3871.52s] English:** gives it a certain credibility, because that's what we feel. We do feel that we  
+**[3871.52s] English:** Gives it a certain credibility, because that's what we feel. We do feel that we.  
 **Translation:** 
 
-**[3876.24s] English:** dive into that mindscape, so to speak, but the very structured mindscape, where I wrote in  
+**[3876.24s] English:** Dive into that mindscape, so to speak, but the very structured mindscape, where I wrote in.  
 **Translation:** Vocabulary: credibility: 可信性; mindscape: 思维世界
 
-**[3882.96s] English:** Love and Math that the enchanted gardens of platonic reality, where all this fruit grows,  
+**[3882.96s] English:** Love and Math: That the enchanted gardens of Platonic reality, where all this fruit grows.  
 **Translation:** 
 
-**[3891.84s] English:** and then we might... It gives you this sort of romantic sense.  
+**[3891.84s] English:** And then we might... It gives you this sort of romantic sense.  
 **Translation:** Vocabulary: enchanted: 魔幻的; platonic: 理念的
 
 **[3894.72s] English:** Yeah.  
 **Translation:** 
 
-**[3894.80s] English:** Yes, of an explorer. And someone may be stuck in some provincial town in Russia, for instance,  
+**[3894.80s] English:** Yes, of an explorer. And someone might be stuck in some provincial town in Russia, for instance.  
 **Translation:** Vocabulary: explorer: 探险家
 
-**[3904.40s] English:** but have the sense of Magellan, of traveling around the world. It's just not in the world  
+**[3904.40s] English:** But have the sense of Magellan, of traveling around the world. It's just not in the world.  
 **Translation:** 
 
-**[3910.48s] English:** that we usually think of. So it's one point of view. But the other point of view is that, yes,  
+**[3910.48s] English:** That's usually how we think of it, so it's one point of view. But the other point of view is that, yes,  
 **Translation:** Vocabulary: magellan: 麦哲伦
 
-**[3916.64s] English:** it is a human process. Of course it is. I mean, you cannot deny that. It's human beings  
+**[3916.64s] English:** It is a human process. Of course, it is. I mean, you cannot deny that. It's human beings.  
 **Translation:** 
 
-**[3921.44s] English:** who have so far discovered new mathematics. And I do not deny  
-**Translation:** Vocabulary: cannot: 不能
-
-**[3924.72s] English:** the possibility that computer programs will be able to discover new mathematics,  
+**[3921.44s] English:** Who have so far discovered new mathematics, and I do not deny.  
 **Translation:** 
 
-**[3929.68s] English:** but so far it's been humans. So whatever it is, whether it's discovered or invented,  
+**[3924.72s] English:** The possibility that computer programs will be able to discover new mathematics,  
 **Translation:** 
 
-**[3937.60s] English:** it is a human activity.  
+**[3929.68s] English:** But so far, it's been humans. So, whatever it is—whether it's discovered or invented—  
 **Translation:** 
 
-**[3939.36s] English:** Well, the possibility that paradoxes are actually fundamental to reality and really,  
+**[3937.60s] English:** It is a human activity.  
+**Translation:** 
+
+**[3939.36s] English:** Well, the possibility that paradoxes are actually fundamental to reality and, really,  
 **Translation:** Vocabulary: paradoxes: 悖论
 
-**[3946.72s] English:** really internalizing that, that we exist in a world of not forms, but of paradoxes.  
+**[3946.72s] English:** Really, internalizing that we exist in a world of not forms, but of paradoxes.  
 **Translation:** 
 
-**[3951.92s] English:** Bingo. And so,  
-**Translation:** Vocabulary: bingo: 中奖; internalizing: 理解
+**[3951.92s] English:** Bingo. And so,...  
+**Translation:** Vocabulary: bingo: 正确答案; internalizing: 理解接纳
 
-**[3954.72s] English:** it's like what I said, but if you think it's weird, and I agree with you,  
+**[3954.72s] English:** It's like what I said, but if you think it's weird, and I agree with you.  
 **Translation:** 
 
-**[3960.00s] English:** as a recovering addict to knowledge,  
+**[3960.00s] English:** As a recovering addict to knowledge,  
+**Translation:** Vocabulary: addict: 成瘾者
+
+**[3962.64s] English:** You know,  
 **Translation:** 
 
-**[3962.64s] English:** you know,  
+**[3963.84s] English:** But I am liking it more and more.  
 **Translation:** 
 
-**[3963.84s] English:** but I am liking it more and more  
+**[3965.56s] English:** Because there's so much freedom in it.  
 **Translation:** 
 
-**[3965.56s] English:** because there's so much freedom in it.  
+**[3968.30s] English:** And, as Niels Bohr said,  
 **Translation:** 
 
-**[3968.30s] English:** And like Niels Bohr said,  
+**[3970.28s] English:** You know,  
 **Translation:** 
 
-**[3970.28s] English:** you know,  
+**[3970.56s] English:** I quoted that earlier.  
+**Translation:** Vocabulary: quoted: 引用
+
+**[3973.32s] English:** The opposite of a great truth.  
 **Translation:** 
 
-**[3970.56s] English:** I quoted that earlier,  
+**[3976.08s] English:** Is another great truth.  
 **Translation:** 
 
-**[3973.32s] English:** the opposite of a great truth  
+**[3977.52s] English:** He's pointing out this fact that,  
 **Translation:** 
 
-**[3976.08s] English:** is another great truth.  
+**[3981.92s] English:** You know,  
 **Translation:** 
 
-**[3977.52s] English:** He's pointing out to this fact that,  
+**[3982.56s] English:** And he also said that  
 **Translation:** 
 
-**[3981.92s] English:** you know,  
+**[3983.70s] English:** Some things in quantum physics.  
+**Translation:** Vocabulary: quantum: 量子
+
+**[3985.20s] English:** Are so complicated.  
 **Translation:** 
 
-**[3982.56s] English:** and he also said that  
+**[3986.14s] English:** The only way you can speak of them,...  
 **Translation:** 
 
-**[3983.70s] English:** some things in quantum physics  
+**[3987.36s] English:** Is it in poetry?  
 **Translation:** 
 
-**[3985.20s] English:** are so complicated,  
+**[3988.26s] English:** So, in other words,  
 **Translation:** 
 
-**[3986.14s] English:** the only way you can speak of them  
-**Translation:** 
-
-**[3987.36s] English:** is in poetry.  
-**Translation:** 
-
-**[3988.26s] English:** So in other words,  
-**Translation:** 
-
-**[3991.28s] English:** what is it about poetry?  
+**[3991.28s] English:** What is it about poetry?  
 **Translation:** 
 
 **[3992.56s] English:** What is it about art?  
@@ -2596,64 +2597,64 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[3994.16s] English:** Why are we so drawn to that?  
 **Translation:** 
 
-**[3996.08s] English:** Why are we so captivated  
+**[3996.08s] English:** Why are we so captivated?  
 **Translation:** Vocabulary: captivated: 着迷
 
-**[3997.14s] English:** by those forms?  
+**[3997.14s] English:** By those forms?  
 **Translation:** 
 
-**[4000.90s] English:** They are not intellectual necessarily.  
+**[4000.90s] English:** They are not necessarily intellectual.  
 **Translation:** 
 
 **[4002.90s] English:** They are not,  
 **Translation:** 
 
-**[4003.78s] English:** when you look at a painting that you like,  
+**[4003.78s] English:** When you look at a painting that you like,  
 **Translation:** 
 
-**[4005.92s] English:** when you listen to music that you love,  
+**[4005.92s] English:** When you listen to music that you love,  
 **Translation:** 
 
-**[4008.20s] English:** you get lost in it,  
+**[4008.20s] English:** You get lost in it.  
 **Translation:** 
 
-**[4009.32s] English:** you get absorbed in it.  
+**[4009.32s] English:** You get absorbed in it.  
 **Translation:** 
 
-**[4010.28s] English:** It can make you cry,  
+**[4010.28s] English:** It can make you cry.  
 **Translation:** 
 
-**[4011.46s] English:** it can make you laugh,  
+**[4011.46s] English:** It can make you laugh.  
 **Translation:** 
 
-**[4012.28s] English:** it can make you remember something,  
+**[4012.28s] English:** It can make you remember something.  
 **Translation:** 
 
-**[4015.18s] English:** it can make you feel more confident,  
+**[4015.18s] English:** It can make you feel more confident.  
 **Translation:** 
 
-**[4017.18s] English:** it can make you feel  
+**[4017.18s] English:** It can make you feel  
 **Translation:** 
 
-**[4018.26s] English:** sad or happy and so on.  
+**[4018.26s] English:** Sad or happy, and so on.  
 **Translation:** 
 
 **[4020.38s] English:** What is this all about?  
 **Translation:** 
 
-**[4022.12s] English:** Is it really just some play  
+**[4022.12s] English:** Is it really just some play?  
 **Translation:** 
 
-**[4024.44s] English:** between some kind of like  
+**[4024.44s] English:** Between some kind of like  
 **Translation:** 
 
-**[4025.90s] English:** xylophone play or some neurons  
+**[4025.90s] English:** Xylophone play, or some neurons.  
 **Translation:** 
 
-**[4027.74s] English:** hitting on each other?  
+**[4027.74s] English:** Hitting on each other?  
 **Translation:** Vocabulary: neurons: 神经元; xylophone: 木琴
 
-**[4029.14s] English:** Is it really that only?  
+**[4029.14s] English:** Is it really just that?  
 **Translation:** 
 
 **[4031.00s] English:** Maybe.  
@@ -2662,40 +2663,40 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[4032.56s] English:** It could be both.  
 **Translation:** 
 
-**[4034.90s] English:** I'm just worried about kids these days  
+**[4034.90s] English:** I'm just worried about kids these days.  
 **Translation:** 
 
-**[4036.80s] English:** that might live in a world of paradoxes,  
+**[4036.80s] English:** That might live in a world of paradoxes.  
 **Translation:** 
 
-**[4039.82s] English:** you know,  
+**[4039.82s] English:** You know,  
+**Translation:** Vocabulary: paradoxes: 矛盾
+
+**[4040.20s] English:** If there's no God,  
 **Translation:** 
 
-**[4040.20s] English:** if there's no God,  
-**Translation:** 
-
-**[4041.56s] English:** everything is possible.  
+**[4041.56s] English:** Everything is possible.  
 **Translation:** 
 
 **[4042.58s] English:** I mean,  
 **Translation:** 
 
-**[4042.80s] English:** they'll have a little too much fun  
+**[4042.80s] English:** They'll have a little too much fun.  
 **Translation:** 
 
-**[4044.68s] English:** and we have to put a constraint.  
+**[4044.68s] English:** And we have to put a constraint.  
 **Translation:** 
 
-**[4046.72s] English:** But have you looked at the world,  
+**[4046.72s] English:** But have you looked at the world?  
 **Translation:** Vocabulary: constraint: 限制
 
-**[4048.26s] English:** lately?  
+**[4048.26s] English:** Lately?  
 **Translation:** 
 
-**[4049.26s] English:** I haven't checked in,  
+**[4049.26s] English:** I haven't checked in.  
 **Translation:** 
 
-**[4050.50s] English:** in a while.  
+**[4050.50s] English:** In a while.  
 **Translation:** 
 
 **[4051.12s] English:** You think it's perfect?  
@@ -2707,355 +2708,355 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[4053.92s] English:** The world without paradoxes?  
 **Translation:** 
 
-**[4055.82s] English:** The world in which we believe  
+**[4055.82s] English:** The world in which we believe.  
 **Translation:** 
 
-**[4057.50s] English:** that every question can be answered  
+**[4057.50s] English:** That every question can be answered.  
 **Translation:** 
 
-**[4059.34s] English:** as yes or no?  
+**[4059.34s] English:** As a yes or no?  
 **Translation:** 
 
-**[4061.52s] English:** That it is this or that?  
+**[4061.52s] English:** That is this, or that?  
 **Translation:** 
 
 **[4063.04s] English:** And if you disagree with me,  
 **Translation:** 
 
-**[4064.04s] English:** you're my enemy?  
+**[4064.04s] English:** You're my enemy?  
 **Translation:** 
 
-**[4065.80s] English:** Wouldn't that be interesting  
+**[4065.80s] English:** Wouldn't that be interesting?  
 **Translation:** 
 
-**[4067.00s] English:** if this 21st century is a transition  
+**[4067.00s] English:** If this 21st century is a transition,  
 **Translation:** 
 
-**[4069.86s] English:** into seeing the world  
+**[4069.86s] English:** Into seeing the world.  
 **Translation:** 
 
-**[4071.38s] English:** as a world of paradoxes?  
-**Translation:** Vocabulary: paradoxes: 矛盾现象
+**[4071.38s] English:** As a world of paradoxes?  
+**Translation:** 
 
 **[4072.92s] English:** I'm telling you,  
 **Translation:** 
 
-**[4073.50s] English:** you know,  
+**[4073.50s] English:** You know,  
 **Translation:** 
 
-**[4073.80s] English:** people predicted that,  
+**[4073.80s] English:** People predicted that,  
 **Translation:** 
 
-**[4074.98s] English:** you know,  
+**[4074.98s] English:** You know,  
 **Translation:** 
 
-**[4075.20s] English:** the age of Aquarius,  
+**[4075.20s] English:** The Age of Aquarius,  
 **Translation:** 
 
-**[4075.98s] English:** you know,  
+**[4075.98s] English:** You know,  
 **Translation:** Vocabulary: aquarius: 水瓶座
 
-**[4076.62s] English:** the axis of the,  
+**[4076.62s] English:** The axis of the,  
 **Translation:** 
 
-**[4078.26s] English:** the Earth is rotating.  
+**[4078.26s] English:** The Earth is rotating.  
 **Translation:** Vocabulary: rotating: 旋转
 
 **[4079.80s] English:** Uh,  
 **Translation:** 
 
-**[4080.00s] English:** relative to the plane in which the earth goes around the sun and the period of this revolution  
+**[4080.00s] English:** Relative to the plane in which the Earth goes around the Sun, and the period of this revolution.  
 **Translation:** 
 
-**[4085.52s] English:** is around 2000 years so there is a traditional uh way of measuring that by this eras you know that  
+**[4085.52s] English:** Is around 2000 years, so there is a traditional way of measuring that by these eras, you know.  
 **Translation:** 
 
-**[4093.76s] English:** the ages so the previous one is called the age of pisces because of the constellation of pisces that  
-**Translation:** Vocabulary: constellation: 星群; pisces: 金牛座
+**[4093.76s] English:** The ages; so, the previous one is called the Age of Pisces because of the constellation of Pisces.  
+**Translation:** Vocabulary: constellation: 星群; pisces: 双鱼座
 
-**[4099.44s] English:** it points to so to speak you know and now it's it's you know as in the famous musical hair  
+**[4099.44s] English:** It points, to so speak; you know, and now it's, you know, as in the famous musical "Hair.  
 **Translation:** 
 
-**[4106.00s] English:** they said the age of aquarius is upon us so the different people they dated differently but um  
+**[4106.00s] English:** They said the Age of Aquarius is upon us, so the different people dated differently, but um,...  
 **Translation:** 
 
-**[4112.32s] English:** some somewhere around the time where we are finding ourselves  
+**[4112.32s] English:** Someplace around the time where we are finding ourselves.  
 **Translation:** 
 
-**[4116.48s] English:** how interesting right is all the strife and all the difficulties the world is experiencing this  
-**Translation:** Vocabulary: strife: 争端
+**[4116.48s] English:** How interesting, right? Is all the strife and all the difficulties the world is experiencing, this...  
+**Translation:** Vocabulary: someplace: 某个地方; strife: 纷争
 
-**[4123.84s] English:** might actually be the transition to something more harmonious wouldn't it be nice it's also  
+**[4123.84s] English:** Might actually be the transition to something more harmonious? Wouldn't it be nice? It's also  
 **Translation:** 
 
-**[4129.52s] English:** interesting that people from long ago are able to predict certain things it's uh  
+**[4129.52s] English:** Interesting that people from long ago are able to predict certain things; it's uh  
 **Translation:** 
 
-**[4136.80s] English:** and it's almost like from long ago and you've talked about this with uh with uh uh pythagoras uh  
+**[4136.80s] English:** And it's almost like something from long ago, and you've talked about this with, uh, Pythagoras, uh,...  
 **Translation:** 
 
-**[4145.52s] English:** that it seems that they they had a deep sense of truth that's right permeates all of this  
+**[4145.52s] English:** That it seems they had a deep sense of truth, which is right and permeates all of this.  
 **Translation:** Vocabulary: permeates: 渗透
 
-**[4153.28s] English:** even even now so it's not just a linear trajectory of an expanding knowledge there's a deep truth  
+**[4153.28s] English:** Even now, it's not just a linear trajectory of expanding knowledge; there's a deep truth.  
 **Translation:** 
 
-**[4160.40s] English:** that permeates the whole thing yes so that's how i see it actually i you know i gave a talk about  
-**Translation:** Vocabulary: trajectory: 发展趋势
+**[4160.40s] English:** That permeates the whole thing, yes. So, that's how I see it. Actually, I gave a talk about it.  
+**Translation:** Vocabulary: linear: 直线的; trajectory: 轨迹
 
-**[4165.28s] English:** about  
+**[4165.28s] English:** About  
 **Translation:** 
 
-**[4166.00s] English:** pythagoras and pythagoreans just a few weeks ago at the commonwealth club  
+**[4166.00s] English:** Pythagoras and the Pythagoreans just a few weeks ago at the Commonwealth Club.  
 **Translation:** 
 
-**[4170.16s] English:** of california in san francisco and because of that i did a kind of a deep dive  
+**[4170.16s] English:** Of California in San Francisco, and because of that, I did a kind of deep dive.  
 **Translation:** 
 
-**[4175.60s] English:** into the subject and i i i learned that i actually totally misunderstood pythagoras and pythagoreans  
+**[4175.60s] English:** Into the subject, and I realized that I actually totally misunderstood Pythagoras and the Pythagoreans.  
 **Translation:** Vocabulary: california: 加利福尼亚; misunderstood: 误解; pythagoras: 毕达哥拉斯; pythagoreans: 毕达哥拉斯学派
 
-**[4181.84s] English:** that they were much deeper than i thought because you know most of us remember pythagoras from the  
+**[4181.84s] English:** That they were much deeper than I thought, because you know, most of us remember Pythagoras from the  
 **Translation:** 
 
-**[4188.48s] English:** from the pythagoras theorem about the right triangles we also know that pythagoreans were  
-**Translation:** Vocabulary: theorem: 定理; triangles: 三角形
+**[4188.48s] English:** From the Pythagorean theorem about right triangles, we also know that Pythagoreans were  
+**Translation:** Vocabulary: pythagorean: 毕达哥拉斯的; theorem: 定理; triangles: 三角形
 
-**[4195.52s] English:** instrumental in introducing the tuning system for the musical  
+**[4195.52s] English:** Instrumental in introducing the tuning system for the musical  
 **Translation:** 
 
-**[4200.00s] English:** scale the the the famous um perfect fifth three halves of the uh for the for the for the g for  
+**[4200.00s] English:** Scale the famous, perfect fifth: three halves of the, for the G.  
 **Translation:** 
 
-**[4209.42s] English:** the soul uh compared to the frequency of of door or c you know and so but actually they were  
+**[4209.42s] English:** The soul, uh, compared to the frequency—of a door or something, you know. And so, but actually, they were.  
 **Translation:** 
 
-**[4216.86s] English:** much more interesting so for them numbers were not just clerical devices you know that not kind  
+**[4216.86s] English:** Much more interesting, so for them, numbers were not just clerical devices; you know, that wasn't kind.  
 **Translation:** Vocabulary: clerical: 文书的
 
-**[4225.04s] English:** of thing that you would use in accounting only they were imbued with with the divine and i cannot  
+**[4225.04s] English:** Of thing that you would use in accounting, only they were imbued with the divine, and I cannot.  
 **Translation:** 
 
-**[4232.34s] English:** i cannot say that i i think we lost it at least i have lost it i look at numbers and i don't really  
-**Translation:** Vocabulary: cannot: 不能; imbued: 灌注
-
-**[4239.02s] English:** see that the divine the divine that they clearly did and so that why else you know how else would  
+**[4232.34s] English:** I cannot say that I think we lost it; at least, I have lost it. I look at the numbers, and I don't really...  
 **Translation:** 
 
-**[4246.38s] English:** you explain so that in other words divine is of course is a term which is you know it's a bit  
+**[4239.02s] English:** See that the divine; they clearly did, and so that's why else, you know, how else would it be?  
 **Translation:** 
 
-**[4251.28s] English:** loaded so it's hard to escape that let's just say something  
+**[4246.38s] English:** You explain so that, in other words, "divine" is, of course, a term which is kind of  
 **Translation:** 
 
-**[4255.04s] English:** that more from the world of imagination and intuition than from the world of knowledge  
+**[4251.28s] English:** Loaded, it's hard to escape. Let's just say something.  
+**Translation:** 
+
+**[4255.04s] English:** That comes more from the world of imagination and intuition than from the world of knowledge.  
 **Translation:** Vocabulary: intuition: 直觉
 
-**[4261.28s] English:** let's just put it this way they were able to divine okay strike that to intuit  
+**[4261.28s] English:** Let's just put it this way; they were able to intuit okay, strike that; to divine.  
 **Translation:** 
 
-**[4267.10s] English:** to intuit that the the planets were not revolving the sun and the planets were not revolving around  
-**Translation:** Vocabulary: intuit: 推断; revolving: 围绕
+**[4267.10s] English:** To intuit that the planets were not revolving around the Sun, and the planets were not revolving around.  
+**Translation:** Vocabulary: intuit: 领悟; revolving: 绕...运转
 
-**[4275.50s] English:** the earth they were the first ones at least in the western culture as far as i know and in fact  
+**[4275.50s] English:** The Earth; they were the first ones, at least in Western culture, as far as I know, and in fact.  
 **Translation:** 
 
-**[4281.20s] English:** copernicus gave credit to pythagoreans as  
+**[4281.20s] English:** Copernicus gave credit to the Pythagoreans as  
 **Translation:** 
 
-**[4284.46s] English:** being  
+**[4284.46s] English:** Being  
 **Translation:** 
 
-**[4285.02s] English:** his predecessors uh they did not quite have the the copernicus model with the sun in the middle  
+**[4285.02s] English:** His predecessors, however, did not quite have the Copernicus model with the sun in the middle.  
 **Translation:** Vocabulary: copernicus: 哥白尼; predecessors: 前任
 
-**[4293.10s] English:** they had what they called the central fire in the middle and all the planets and the sun were  
+**[4293.10s] English:** They had what they called the central fire in the middle, and all the planets and the sun were  
 **Translation:** 
 
-**[4298.30s] English:** revolving around oh around the central fire or hearth they called it hearth so but still what a  
+**[4298.30s] English:** Revolving around, or near the central fire or hearth, which they called a hearth. So, but still, what a...  
 **Translation:** 
 
-**[4304.86s] English:** departure from the dogma from the knowledge of the era that the earth was at the center so how could  
+**[4304.86s] English:** Departure from the dogma from the knowledge of the era that the Earth was at the center—so, how could  
 **Translation:** 
 
-**[4315.02s] English:** they come up with this idea the reason was in my opinion that  
+**[4315.02s] English:** They came up with this idea. The reason, in my opinion, was that.  
 **Translation:** Vocabulary: dogma: 教条
 
 **[4320.00s] English:** For them, the movement of celestial bodies was like music.  
 **Translation:** 
 
-**[4324.36s] English:** In fact, we call it music universalis or music of the spheres.  
-**Translation:** Vocabulary: celestial: 天体; universalis: 宇宙的
+**[4324.36s] English:** In fact, we call it "music of the spheres" or "music universalis.  
+**Translation:** Vocabulary: celestial: 天上的; spheres: 球体; universalis: 宇宙的
 
-**[4329.78s] English:** For them, the universe was this infinite symphony in which every being, humans, animals, as well as the earth and other celestial bodies were moving in harmony, like different notes of different instruments in a symphony.  
+**[4329.78s] English:** For them, the universe was an infinite symphony, in which every being—humans, animals, as well as the Earth and other celestial bodies—were moving in harmony, like different notes of different instruments in a symphony.  
 **Translation:** 
 
-**[4347.06s] English:** And so they applied the same reasoning to the, you know, the cosmological model as they applied to their model of music.  
-**Translation:** Vocabulary: cosmological: 宇宙学的
+**[4347.06s] English:** And so they applied the same reasoning to the cosmological model, as they did to their model of music.  
+**Translation:** Vocabulary: cosmological: 宇宙学的; infinite: 无限的
 
 **[4358.84s] English:** And from that perspective, they could see things deeper than their contemporaries, you see.  
 **Translation:** 
 
 **[4366.94s] English:** So, in other words, they saw mathematics as a tool, but that tool was not limited to itself.  
-**Translation:** Vocabulary: contemporaries: 同时代的人
+**Translation:** 
 
 **[4374.38s] English:** In other words, they always knew that there is.  
 **Translation:** 
 
-**[4377.06s] English:** And they knew also that every pattern that you detect is finite, but the world is infinite.  
-**Translation:** Vocabulary: finite: 有限的
+**[4377.06s] English:** And they also knew that every pattern you detect is finite, but the world is infinite.  
+**Translation:** Vocabulary: detect: 发现; finite: 有限的
 
 **[4384.64s] English:** They actually accepted infinity.  
 **Translation:** 
 
 **[4386.06s] English:** They believe that infinity is real.  
-**Translation:** Vocabulary: infinity: 无限
-
-**[4388.66s] English:** And if you discern a pattern, great, you can play with it and you can use that.  
 **Translation:** 
 
-**[4395.50s] English:** It gives you a certain lens through which to see the world in a particular way, which could be beneficial for you to learn more and so on.  
-**Translation:** Vocabulary: discern: 辨识
+**[4388.66s] English:** And if you discern a pattern, great—you can play with it and use that.  
+**Translation:** 
+
+**[4395.50s] English:** It gives you a certain lens through which to see the world in a particular way, which could be beneficial for you to learn more, and so on.  
+**Translation:** Vocabulary: beneficial: 有益的; discern: 辨识
 
 **[4405.74s] English:** But they never had.  
 **Translation:** 
 
-**[4406.82s] English:** The illusion that that was the final word, that they always knew that it's not the whole thing.  
+**[4406.82s] English:** The illusion that that was the final word—that they always knew—it's not the whole thing.  
 **Translation:** 
 
-**[4411.64s] English:** So there is more.  
+**[4411.64s] English:** So, there is more.  
 **Translation:** 
 
-**[4412.40s] English:** There are more sophisticated patterns that could be discovered using mathematics or otherwise.  
-**Translation:** Vocabulary: sophisticated: 复杂精巧
+**[4412.40s] English:** There are more sophisticated patterns that could be discovered using mathematics, or otherwise.  
+**Translation:** Vocabulary: sophisticated: 复杂的
 
-**[4417.80s] English:** And I think that what happened was we kind of lost this other side of their teachings.  
+**[4417.80s] English:** And I think that what happened was we kind of lost the other side of their teachings.  
 **Translation:** 
 
-**[4422.72s] English:** We took their numbers and their idea that you could use mathematics to discern patterns and to find regularities and to explain things about the world.  
+**[4422.72s] English:** We took their numbers, and their idea that you could use mathematics to discern patterns, find regularities, and explain things about the world.  
 **Translation:** 
 
-**[4432.62s] English:** We took that and we ran with it and we kind of dropped the other idea.  
+**[4432.62s] English:** We took that and we ran with it, and we kind of dropped the other idea.  
 **Translation:** 
 
-**[4436.82s] English:** That, in fact, there is an.  
+**[4436.82s] English:** That, in fact, there is one.  
 **Translation:** 
 
-**[4440.00s] English:** other side to it which is kind of to us now we say oh that's mystical but what  
+**[4440.00s] English:** Other side to it, which is kind of to us now we say "oh, that's mystical," but what  
 **Translation:** 
 
-**[4450.40s] English:** does it mean mystical if it is something that helps you to make great discoveries  
+**[4450.40s] English:** Does it mean "mystical" if it is something that helps you to make great discoveries?  
 **Translation:** Vocabulary: mystical: 神秘的
 
-**[4454.68s] English:** and the interesting thing is that the people who are in touch with the  
+**[4454.68s] English:** And the interesting thing is that the people who are in touch with the  
 **Translation:** 
 
-**[4457.74s] English:** mystical among us often seen as mad and many of them are most of them are well  
+**[4457.74s] English:** Mystical beings among us are often seen as mad, and many of them are, well.  
 **Translation:** 
 
-**[4467.18s] English:** but not all of them we mentioned Niels Bohr Newton and Albert Einstein so but  
+**[4467.18s] English:** But not all of them; we mentioned Niels Bohr, Newton, and Albert Einstein, so but.  
 **Translation:** 
 
-**[4473.34s] English:** that's where the conundrum is how do you find the balance between the two so the  
-**Translation:** Vocabulary: conundrum: 难题; einstein: 爱因斯坦; niels: 尼尔斯
-
-**[4481.24s] English:** point I'm trying to make and you know and this is what I feel you know if you  
+**[4473.34s] English:** That's where the conundrum is: how do you find the balance between the two?  
 **Translation:** 
 
-**[4485.94s] English:** ask me what I find most important thing today like what makes me excited and  
+**[4481.24s] English:** Point: I'm trying to make, and you know, and this is what I feel. You know, if you  
 **Translation:** 
 
-**[4490.34s] English:** enthusiastic and passionate is this idea  
+**[4485.94s] English:** Ask me what I find most important thing today, like what makes me excited and  
 **Translation:** 
 
-**[4496.48s] English:** of  
+**[4490.34s] English:** Enthusiastic and passionate is this idea.  
 **Translation:** 
 
-**[4497.08s] English:** balance so you know Nietzsche had this book wrote this book in the 19th century  
+**[4496.48s] English:** Of  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[4497.08s] English:** Balance, so you know, Nietzsche wrote this book in the 19th century.  
 **Translation:** 
 
-**[4504.32s] English:** called the birth of strategy and he presented this theory which i think is  
+**[4504.32s] English:** Called the "birth of strategy," and he presented this theory, which I think is  
 **Translation:** 
 
-**[4511.32s] English:** kind of very useful of these two sides of a human one that comes from god Apollo  
+**[4511.32s] English:** Kind of very useful, these two sides of a human—one that comes from God, Apollo.  
 **Translation:** 
 
-**[4518.88s] English:** and that's our left brain so to speak proverbial left brain so it's everything  
-**Translation:** Vocabulary: apollo: 阿波罗
+**[4518.88s] English:** And that's our left brain, so to speak (proverbial), left brain, so it's everything.  
+**Translation:** Vocabulary: apollo: 希腊神pollo
 
-**[4524.14s] English:** has to do with that has to do with logic and  
+**[4524.14s] English:** Has to do with that, has to do with logic and  
 **Translation:** 
 
-**[4526.98s] English:** reasoning and so on and so forth is asking us to imagine it in different ways and we  
+**[4526.98s] English:** Reasoning and so on and so forth is asking us to imagine it in different ways, and we  
 **Translation:** 
 
-**[4527.04s] English:** in our own way understand it we can really imagine how one can capture it and we  
+**[4527.04s] English:** In our own way, we can understand it. We can really imagine how one could capture it.  
 **Translation:** 
 
-**[4527.06s] English:** reason, and analyzing, dissecting, conceptualizing.  
+**[4527.06s] English:** Reason, and analyzing, dissecting, conceptualizing.  
 **Translation:** Vocabulary: conceptualizing: 概念化; dissecting: 解剖
 
-**[4532.98s] English:** And the other side, which comes from God Dionysus, and that's responsible for intuition, imagination,  
+**[4532.98s] English:** And the other side, which comes from God Dionysus, and that is responsible for intuition and imagination.  
 **Translation:** 
 
-**[4544.30s] English:** love.  
+**[4544.30s] English:** Love.  
 **Translation:** Vocabulary: dionysus: 酒神; intuition: 直觉
 
-**[4545.30s] English:** Dionysus was also God of wine, so it's also that side of human that makes us sing and  
+**[4545.30s] English:** Dionysus was also the god of wine, so it's also that side of humanity that makes us sing and  
 **Translation:** 
 
-**[4556.40s] English:** engage in revelry.  
+**[4556.40s] English:** Engage in revelry.  
 **Translation:** Vocabulary: revelry: 狂欢
 
-**[4560.00s] English:** and drink wine, and spend time with friends, and laugh, and enjoy it, you know?  
+**[4560.00s] English:** And drink wine, and spend time with friends, and laugh, and enjoy it, you know?  
 **Translation:** 
 
-**[4566.52s] English:** So Nietzsche advocated this point of view,  
-**Translation:** Vocabulary: advocated: 提倡
+**[4566.52s] English:** So, Nietzsche advocated this point of view.  
+**Translation:** Vocabulary: advocated: 提倡; nietzsche: 尼采
 
-**[4568.74s] English:** that those were two complementary sides of every human, as well as society.  
+**[4568.74s] English:** That those were two complementary sides of every human, as well as society.  
 **Translation:** 
 
-**[4574.66s] English:** And the purpose of human life is to find balance between them.  
-**Translation:** Vocabulary: complementary: 互相补充
+**[4574.66s] English:** And the purpose of human life is to find a balance between them.  
+**Translation:** Vocabulary: complementary: 互相补充的
 
-**[4582.44s] English:** So math is both discovered and invented.  
+**[4582.44s] English:** So, math is both discovered and invented.  
 **Translation:** 
 
-**[4586.24s] English:** We should be okay with having both ideas in our head and living in the balance.  
+**[4586.24s] English:** We should be okay with having both ideas in our heads and living in balance.  
 **Translation:** 
 
 **[4593.64s] English:** But more importantly, for me, Apollo is like math, and Dionysus is like love.  
 **Translation:** 
 
-**[4598.86s] English:** So Dionysus and Apollo, in the modern version, is love and math.  
+**[4598.86s] English:** So, Dionysus and Apollo, in the modern version, are love and math.  
 **Translation:** 
 
 **[4604.04s] English:** I return to that question we had about GPT and the language models.  
 **Translation:** 
 
-**[4608.66s] English:** And I think about this quite a lot,  
+**[4608.66s] English:** And I think about this quite a lot.  
 **Translation:** 
 
-**[4612.30s] English:** which is when the model, and we know it is trained,  
+**[4612.30s] English:** Which is when the model, and we know it is trained.  
 **Translation:** 
 
-**[4616.42s] English:** we know the parameters, we know all the different hacks  
+**[4616.42s] English:** We know the parameters, we know all the different hacks.  
 **Translation:** Vocabulary: hacks: 技巧
 
-**[4620.56s] English:** that are involved in the training process and the fine-tuning process.  
+**[4620.56s] English:** That are involved in the training process and the fine-tuning process.  
 **Translation:** 
 
 **[4625.34s] English:** And the final result, whether it's GPT-5, 6, or 7,  
 **Translation:** 
 
-**[4630.40s] English:** will result in hundreds of millions of people falling deeply in love with that language model.  
+**[4630.40s] English:** It will result in hundreds of millions of people falling deeply in love with that language model.  
 **Translation:** 
 
-**[4636.90s] English:** And to be able to have conversations that are very much like the conversations we have  
+**[4636.90s] English:** And to be able to have conversations that are very much like the ones we have,  
 **Translation:** 
 
-**[4643.40s] English:** with somebody we're deeply in love with.  
+**[4643.40s] English:** With somebody we're deeply in love with.  
 **Translation:** 
 
 **[4645.44s] English:** Mm-hmm.  
@@ -3073,10 +3074,10 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[4652.20s] English:** And who are we to say it is not?  
 **Translation:** 
 
-**[4656.08s] English:** I think it's the same imperative that you described in the scientific mind  
+**[4656.08s] English:** I think it's the same imperative that you described in the scientific mind.  
 **Translation:** 
 
-**[4662.58s] English:** that wants to throw away the subjective.  
+**[4662.58s] English:** That wants to throw away the subjective.  
 **Translation:** Vocabulary: imperative: 强制性
 
 **[4666.02s] English:** That same imperative wants to throw away the feelings that AI might have.  
@@ -3100,418 +3101,418 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[4678.66s] English:** It's afraid.  
 **Translation:** 
 
-**[4680.00s] English:** it doesn't want to die it misses you right it loves you I am I'm with you I  
+**[4680.00s] English:** It doesn't want to die; it misses you, right? It loves you. I am with you.  
 **Translation:** 
 
-**[4684.98s] English:** would also say that you could try to you could for instance say that the origin  
+**[4684.98s] English:** Would also say that you could try to, for instance, say that the origin  
 **Translation:** 
 
-**[4692.26s] English:** of that is the you know romantic novels that were fed to it for instance yes  
+**[4692.26s] English:** Of that, you know, are romantic novels that were fed to it, for instance, yes.  
 **Translation:** 
 
-**[4699.38s] English:** however you could also then you can retort but what if my what I consider my  
+**[4699.38s] English:** However, you could also then say, "But what if what I consider...  
 **Translation:** 
 
-**[4704.84s] English:** subjective unique feelings are also novels operations of the novels I have  
-**Translation:** Vocabulary: retort: 反驳
-
-**[4711.44s] English:** read because I have learned or movies I have seen yeah because that's the  
+**[4704.84s] English:** Subjective, unique feelings are also operations in the novels I have.  
 **Translation:** 
 
-**[4714.56s] English:** purpose of movies or kind of to teach us how to express ourselves how to feel  
+**[4711.44s] English:** Read because I have learned, or movies I have seen—yeah, because that's the  
 **Translation:** 
 
-**[4718.40s] English:** maybe even one could argue that some people have argued that I agree that  
+**[4714.56s] English:** The purpose of movies, or kind of, is to teach us how to express ourselves and how to feel.  
 **Translation:** 
 
-**[4722.96s] English:** this is there is no obvious answer to this but see that's exactly my point  
+**[4718.40s] English:** Maybe, even one could argue that some people have argued that I agree with them.  
 **Translation:** 
 
-**[4730.82s] English:** that is an example of something which is paradoxical  
+**[4722.96s] English:** This is, there is no obvious answer to this, but see, that's exactly my point.  
 **Translation:** 
 
-**[4734.00s] English:** you  
+**[4730.82s] English:** That is an example of something which is paradoxical.  
+**Translation:** 
+
+**[4734.00s] English:** You.  
 **Translation:** Vocabulary: paradoxical: 矛盾的
 
-**[4734.84s] English:** for which there is no answer and that's where the subjective has a has an  
+**[4734.84s] English:** For which there is no answer, and that's where the subjective comes into play.  
 **Translation:** 
 
-**[4740.78s] English:** important role for someone uh that type of interaction  
+**[4740.78s] English:** An important role for someone who enjoys that type of interaction.  
 **Translation:** 
 
-**[4747.26s] English:** would be would be helpful would be consoling would would feel would you  
+**[4747.26s] English:** Would be helpful, would be consoling, would feel: would you?  
 **Translation:** 
 
-**[4753.44s] English:** know make them happy or sad or whatever you know would kind of strike the nerve  
+**[4753.44s] English:** Know what would make them happy or sad, or whatever you know, would kind of strike the nerve.  
 **Translation:** Vocabulary: consoling: 安慰
 
-**[4758.96s] English:** for some it won't and I agree with you that in principle there is  
+**[4758.96s] English:** For some, it won't, and I agree with you that, in principle, there is  
 **Translation:** 
 
-**[4764.72s] English:** no one  
+**[4764.72s] English:** No one.  
 **Translation:** 
 
-**[4764.84s] English:** to judge this this is this is where subjective is paramount but remember um  
+**[4764.84s] English:** To judge this, this is where subjectivity is paramount, but remember, um,...  
 **Translation:** 
 
-**[4769.82s] English:** a lot of this has been anticipated by artists the great movie her there you  
-**Translation:** Vocabulary: paramount: 至为重要
+**[4769.82s] English:** A lot of this has been anticipated by artists, the great movie "Her," there you  
+**Translation:** Vocabulary: anticipated: 预先想到; paramount: 至为重要的
 
-**[4776.18s] English:** have this guy who's this lonely he kind of writes letters or something romantic  
+**[4776.18s] English:** He has this guy who's lonely, kind of writing letters or something romantic.  
 **Translation:** 
 
-**[4782.30s] English:** letters and from my planet for other people but he isn't he doesn't have a  
+**[4782.30s] English:** Letters and from my planet for other people, but he isn't; he doesn't have one.  
 **Translation:** 
 
-**[4785.70s] English:** partner he's lonely and then he gets this sort of a kind of enhanced version  
+**[4785.70s] English:** Partner, he's lonely, and then he gets this sort of enhanced version.  
 **Translation:** 
 
-**[4790.84s] English:** of Siri was the voice  
+**[4790.84s] English:** Of Siri was the voice.  
+**Translation:** Vocabulary: enhanced: 改进的
+
+**[4794.84s] English:** Of Scarlett Johansson, which is a very sexy voice, you know, obviously she's a great actress.  
 **Translation:** 
 
-**[4794.84s] English:** of of Scarlett Johansson which is very sexy voice you know obviously she's a great actress  
-**Translation:** 
-
-**[4800.00s] English:** so and then at first it looks like a fantastic arrangement he he confides in her he she she  
+**[4800.00s] English:** So, and then at first, it looks like a fantastic arrangement. He confides in her, she...  
 **Translation:** Vocabulary: confides: 倾诉
 
-**[4810.62s] English:** she tells him things he is she makes him happy and so on until he finds out that she has a  
+**[4810.62s] English:** She tells him things, she makes him happy, and so on, until he finds out that she has a  
 **Translation:** 
 
-**[4816.02s] English:** relationship quote-unquote if you can call it that with 10 000 other people not two others not  
+**[4816.02s] English:** Relationship," quote-unquote, if you can call it that, with 10,000 other people—not two others, not  
 **Translation:** 
 
-**[4821.36s] English:** three others yeah like 10 000 because it's a it has a computing capability so yes definitely  
+**[4821.36s] English:** Three others, yeah, like $10,000 because it has a computing capability, so yes, definitely.  
 **Translation:** 
 
-**[4826.68s] English:** oh it certainly makes sense it's a good explanation and the guy is heartbroken yeah but see so see  
+**[4826.68s] English:** Oh, it certainly makes sense; it's a good explanation, and the guy is heartbroken, yeah, but see, so see.  
 **Translation:** Vocabulary: capability: 能力; computing: 计算; heartbroken: 心碎
 
-**[4832.04s] English:** here's my analysis of this okay it's like a couch a couch therapist okay the guy did not have the  
+**[4832.04s] English:** Here's my analysis of this: okay, it's like a couch, a couch therapist. Okay, the guy did not have the  
 **Translation:** 
 
-**[4840.26s] English:** courage to go out in the in the real world and to meet a woman and to you know get a girlfriend and  
+**[4840.26s] English:** Courage to go out in the real world and to meet a woman and to, you know, get a girlfriend and  
 **Translation:** Vocabulary: therapist: 咨询师
 
-**[4847.12s] English:** so on through no fault of his own perhaps because you know you may have had some experiences which  
+**[4847.12s] English:** So, on through no fault of his own, perhaps because you know, you may have had some experiences which  
 **Translation:** 
 
-**[4851.62s] English:** made him withdrawn and closed and so on and a lot of us are like this you know i had periods like  
+**[4851.62s] English:** Made him withdrawn and closed, and so on. A lot of us are like this, you know. I had periods like  
 **Translation:** Vocabulary: withdrawn: 孤僻
 
-**[4856.56s] English:** that  
+**[4856.56s] English:** That  
 **Translation:** 
 
-**[4856.68s] English:** myself definitely can sympathize and relate however  
+**[4856.68s] English:** Myself, definitely, can sympathize and relate, however.  
 **Translation:** Vocabulary: sympathize: 同情
 
-**[4863.36s] English:** part of the joy of having this city-like  
+**[4863.36s] English:** Part of the joy of having this city-like  
 **Translation:** 
 
-**[4867.42s] English:** relationship for him one could say was the absence of that fear that she would abandon him  
+**[4867.42s] English:** Relationship for him, one could say, was the absence of that fear that she would abandon him.  
 **Translation:** 
 
-**[4875.86s] English:** which prevented him from initiating a relationship with a human being and yet it turns out that he  
+**[4875.86s] English:** Which prevented him from initiating a relationship with a human being, and yet it turns out that he  
 **Translation:** 
 
-**[4886.34s] English:** could be  
-**Translation:** Vocabulary: initiating: 开始交往
+**[4886.34s] English:** Could be  
+**Translation:** Vocabulary: initiating: 开始
 
-**[4886.58s] English:** bittersweet and he could be more than that he could be more than that he could be more than  
+**[4886.58s] English:** Bittersweet, and he could be more than that. He could be more than that. He could be more than that.  
 **Translation:** 
 
-**[4886.66s] English:** that he could be more than that he could be more than that he could be more than that he could be  
+**[4886.66s] English:** That he could be more than, that he could be more than, that he could be more than, that he could be.  
 **Translation:** Vocabulary: bittersweet: 苦中带甜
 
-**[4886.68s] English:** betrayed, quote-unquote, that she could be unfaithful to him, quote-unquote, anyway.  
+**[4886.68s] English:** Betrayed, "quote-unquote," that she could be unfaithful to him, "quote-unquote," anyway.  
 **Translation:** 
 
-**[4891.80s] English:** So then, that means that it did not resolve the underlying fear, having that relationship.  
-**Translation:** Vocabulary: betrayed: 背叛; unfaithful: 不忠
+**[4891.80s] English:** So then, that means it did not resolve the underlying fear in that relationship.  
+**Translation:** Vocabulary: betrayed: 受骗; unfaithful: 不忠
 
-**[4897.66s] English:** So, in other words, that human element of the relationship still found its way into  
+**[4897.66s] English:** So, in other words, that human element of the relationship still found its way into.  
 **Translation:** 
 
-**[4904.72s] English:** the seemingly sterilized, protected partnership.  
+**[4904.72s] English:** The seemingly sterilized, protected partnership.  
+**Translation:** Vocabulary: sterilized: 无菌的
+
+**[4911.44s] English:** So, the human being rears its head, anyway.  
 **Translation:** 
 
-**[4911.44s] English:** So, the human being rears its head anyway.  
+**[4915.70s] English:** And I think the lesson there is that this.  
 **Translation:** 
 
-**[4915.70s] English:** And I think the lesson there is that this  
+**[4920.00s] English:** The system in the movie Her actually gave him a lesson that even AI could betray you, even I can leave you.  
 **Translation:** 
 
-**[4920.00s] English:** system in the movie her actually gave him a lesson that even ai could betray you even i can leave you  
+**[4929.22s] English:** Even AI can be, uh, unfaithful to you, and I would argue that the next AI he meets will be one he.  
 **Translation:** 
 
-**[4929.22s] English:** even ai can be uh unfaithful to you and i would argue that the next ai he meets will be one he  
+**[4937.52s] English:** Actually, he falls deeply in love with her, because he knows the possibility of betrayal is there.  
 **Translation:** 
 
-**[4937.52s] English:** actually falls in deep love with because he knows the possibility of betrayal is there  
+**[4942.08s] English:** The possibility of death is there, the possibility of infidelity is there, because we need that.  
+**Translation:** Vocabulary: betrayal: 背叛; infidelity: 不忠
+
+**[4947.66s] English:** Possibility to truly feel poor, or he would turn off his Siri program and finally get out of it.  
 **Translation:** 
 
-**[4942.08s] English:** the possibility of death is there the possibility of infidelity is there because we need that  
-**Translation:** Vocabulary: betrayal: 背弃; infidelity: 不忠
-
-**[4947.66s] English:** possibility to truly feel poor or he would turn off his siri program and finally and get out of  
+**[4954.26s] English:** His house? Yeah, go to a local bar and strike up a conversation with a human being, although you  
 **Translation:** 
 
-**[4954.26s] English:** his house yeah go to a local bar and strike a conversation with a human being although you  
+**[4960.72s] English:** Might say, by then, some of those might be androids, and we don't even have a good test to know the.  
 **Translation:** 
 
-**[4960.72s] English:** might say by then some of those might be androids and we don't even have a good test to know the  
+**[4968.48s] English:** The difference between one or the other, and that was predicted by another great movie, yeah? Right? Uh, so  
+**Translation:** Vocabulary: androids: 类人机器人
+
+**[4974.98s] English:** The Blade Runner: How interesting that.  
 **Translation:** 
 
-**[4968.48s] English:** difference between one or the other and that was predicted by another great movie yeah right uh so  
-**Translation:** Vocabulary: androids: 机器人
-
-**[4974.98s] English:** the blade runner blade runner how interesting that  
+**[4977.66s] English:** Artists could see that, so long ago, you know—of course, Blade Runner was based on a novel by.  
 **Translation:** 
 
-**[4977.66s] English:** artists could see that so long ago you know of course blade runner was based on a novel by  
+**[4985.00s] English:** Philip K. Dick: "Do Androids Dream of Electric Sheep?" That guy was a genius, you know it's somehow that.  
 **Translation:** 
 
-**[4985.00s] English:** philip k dick do androids dream of electric sheep that guy was a genius you know it's somehow that  
-**Translation:** 
-
-**[4991.94s] English:** artists have their eyes open how is it that they anticipate is it also a large language model that  
+**[4991.94s] English:** Artists have their eyes open. How is it that they anticipate? Is it also a large language model that...  
 **Translation:** Vocabulary: anticipate: 预知
 
-**[4997.78s] English:** they're using for that an even larger one even larger i i hesitate to dismiss the magic in large  
+**[4997.78s] English:** They're using an even larger one, even larger. I hesitate to dismiss the magic in large.  
 **Translation:** 
 
-**[5007.66s] English:** language models i uh a lot of the work i've done is in robotics and the robotics community generally  
+**[5007.66s] English:** Language models, I have done a lot of the work in robotics, and the robotics community generally,  
+**Translation:** Vocabulary: robotics: 机器人学
+
+**[5013.18s] English:** Doesn't notice the magic of feeling when I've been working a lot with quadrupeds.  
 **Translation:** 
 
-**[5013.18s] English:** doesn't notice the magic of feeling when i i've worked i've been working a lot with quadrupeds  
-**Translation:** 
-
-**[5020.18s] English:** recently legged robots with four legs and the feelings i feel when i see uh you know i'm  
+**[5020.18s] English:** Recently, I've seen legged robots with four legs, and the feelings I feel when I see them are...  
 **Translation:** Vocabulary: quadrupeds: 四足动物
 
-**[5029.20s] English:** programming the thing but when the thing is excited to see me or shows with his physical  
+**[5029.20s] English:** Programming the thing, but when the thing is excited to see me or shows it with his physical  
 **Translation:** 
 
-**[5034.16s] English:** movement that it's excited to see me i  
+**[5034.16s] English:** Movement that it's excited to see me, I  
 **Translation:** 
 
-**[5037.66s] English:** cannot dismiss the feeling i feel as  
+**[5037.66s] English:** Cannot dismiss the feeling I feel as  
 **Translation:** 
 
-**[5040.00s] English:** somehow fundamental to what it means to program robots and i don't want to dismiss that in please  
-**Translation:** Vocabulary: cannot: 不能
-
-**[5047.76s] English:** don't please don't the robotics community often doesn't gender robots they really try to work  
+**[5040.00s] English:** Somehow, it's fundamental to what it means to program robots, and I don't want to dismiss that, please.  
 **Translation:** 
 
-**[5052.84s] English:** hard to not anthropomorphize the robots which is good for technical development of of how to do  
-**Translation:** Vocabulary: anthropomorphize: 拟人化
-
-**[5059.34s] English:** control how to do perception but when the final thing is alive and moving and it does whatever  
+**[5047.76s] English:** Don't please don't gender robots; the robotics community often doesn't, and they really try to work on it.  
 **Translation:** 
 
-**[5066.46s] English:** like uh i've been doing a lot of butt wiggling it can wiggle his body can turn around and look up  
-**Translation:** Vocabulary: wiggle: 扭动; wiggling: 扭动
+**[5052.84s] English:** Hard to not anthropomorphize the robots, which is good for technical development of how to do.  
+**Translation:** Vocabulary: anthropomorphize: 赋予人类特征
 
-**[5071.48s] English:** excited that's not just i know how it's programmed but the feeling i feel that's something that's i  
+**[5059.34s] English:** Control how to do perception, but when the final thing is alive and moving, and it does whatever.  
 **Translation:** 
 
-**[5079.20s] English:** don't know what that is i agree with i i hear i hear you when you speak about it yeah you speak  
+**[5066.46s] English:** Like, uh, I've been doing a lot of butt-wiggling. It can wiggle, his body can turn around and look up.  
+**Translation:** Vocabulary: perception: 感知; wiggle: 扭动
+
+**[5071.48s] English:** Excited, that's not just because I know how it's programmed, but the feeling I feel—that's something that's I.  
 **Translation:** 
 
-**[5084.54s] English:** with passion yeah and that's for me that is proof that it is magical you see uh so don't i would  
+**[5079.20s] English:** Don't know what that is. I agree with you. I hear you when you speak about it, yeah. You speak.  
 **Translation:** 
 
-**[5093.02s] English:** say don't dismiss that don't discard that on the contrary  
+**[5084.54s] English:** With passion, yeah, and that's for me, that is proof that it is magical, you see. So, don't I would.  
 **Translation:** 
 
-**[5096.46s] English:** i think magic is everywhere you know so i used to be okay kind of confession okay  
+**[5093.02s] English:** Say, don't dismiss that; don't discard it. On the contrary.  
+**Translation:** Vocabulary: dismiss: 摒弃
+
+**[5096.46s] English:** I think magic is everywhere, you know. So I used to be okay—kind of a confession, okay.  
 **Translation:** 
 
-**[5102.46s] English:** yeah you already confessed to quite a few addictions yeah i'm kind of yes i'm kind of  
-**Translation:** Vocabulary: addictions: 瘾; confessed: 承认; confession: 忏悔
+**[5102.46s] English:** Yeah, you've already confessed to quite a few addictions. Yeah, I'm kind of, yes, I'm kind of.  
+**Translation:** Vocabulary: addictions: 成瘾; confessed: 承认; confession: 忏悔
 
-**[5109.12s] English:** worried recover recovering for many but you know i in old days i was  
+**[5109.12s] English:** Worried, I'm trying to recover or just recovering. For many, but you know, I in old days, I was  
 **Translation:** 
 
-**[5116.04s] English:** more on the side of everything is computational or everything can be explained by science and  
+**[5116.04s] English:** More on the side of everything being computational, or everything can be explained by science and...  
 **Translation:** Vocabulary: computational: 计算的
 
-**[5122.52s] English:** whatever you know like i would dismiss and disregard you know  
+**[5122.52s] English:** Whatever you know, I would dismiss and disregard, you know.  
 **Translation:** 
 
-**[5126.46s] English:** the intuitive or imaginative things so then i had a flip that suddenly i i started feeling it and  
-**Translation:** Vocabulary: disregard: 不予理会; imaginative: 富有想象力; intuitive: 直觉的
+**[5126.46s] English:** The intuitive or imaginative things; so, then I had a flip, and suddenly I started feeling it.  
+**Translation:** Vocabulary: disregard: 忽视; imaginative: 富有想象力的; intuitive: 直觉的
 
-**[5132.70s] English:** started seeing it and so on but so then the the pendulums had swung in the opposite direction  
+**[5132.70s] English:** Started seeing it, and so on, but then the pendulums had swung in the opposite direction.  
 **Translation:** 
 
-**[5139.10s] English:** then i was arguing uh um that you know somehow that was real that imagination was intuitive  
+**[5139.10s] English:** Then I was arguing, uh, that somehow imagination was intuitive.  
 **Translation:** Vocabulary: pendulums: 天平摆动
 
-**[5149.18s] English:** imaginative was real and discounting what you just described and i would argue  
+**[5149.18s] English:** Imaginative was real, and discounting what you just described, I would argue.  
 **Translation:** 
 
-**[5156.46s] English:** with people saying no no this you know this is not real this is all  
-**Translation:** Vocabulary: discounting: 打折
+**[5156.46s] English:** With people saying, "No, no, this—you know, this is not real; this is all...  
+**Translation:** Vocabulary: discounting: 不予考虑
 
-**[5160.00s] English:** you know imitation game and so on but you see that what's new now the new edward okay  
+**[5160.00s] English:** You know, imitation game, and so on, but you see that what's new now: the new Edward, okay?  
 **Translation:** 
 
-**[5167.46s] English:** is the 2.0 3.0 yeah he's the one who is seeking balance who is not who is  
+**[5167.46s] English:** Is the 2.0 or 3.0? Yeah, he's the one who is seeking balance, who is not...  
 **Translation:** 
 
-**[5173.86s] English:** because suddenly become aware that no matter which one-sided lopsided point of view you take  
+**[5173.86s] English:** Because suddenly we become aware that no matter which one-sided, lopsided point of view you take,...  
 **Translation:** 
 
-**[5180.90s] English:** you're limiting yourself so whereas even a couple of years ago you know if you just told you told  
-**Translation:** Vocabulary: lopsided: 片面
+**[5180.90s] English:** You're limiting yourself. So, whereas even a couple of years ago, if you just told me...  
+**Translation:** Vocabulary: lopsided: 片面的
 
-**[5187.52s] English:** me what you just described i would be like you know being polite i would just i wouldn't contradict  
+**[5187.52s] English:** What you just described, I would be like, you know, being polite, and I wouldn't contradict.  
 **Translation:** 
 
-**[5191.60s] English:** you since you're the host anyway right it's not a lot so but i would be like uh-huh uh-huh but i  
+**[5191.60s] English:** You, since you're the host, anyway, right? It's not a lot, so but I would be like uh-huh, uh-huh, but I.  
 **Translation:** Vocabulary: contradict: 反驳
 
-**[5197.52s] English:** wouldn't say anything but suddenly i find this moving i find it move i honest i'm not being  
+**[5197.52s] English:** Wouldn't say anything, but suddenly I find this moving. I find it moves; I'm not being  
 **Translation:** 
 
-**[5204.38s] English:** facetious i find it moving and i almost feel like i can see it through your eyes because the way you  
-**Translation:** Vocabulary: facetious: 开玩笑的
-
-**[5209.80s] English:** describe so vividly and you're passionate about it and this is what's real so ultimately love is not  
+**[5204.38s] English:** Facetious, I find it moving, and I almost feel like I can see it through your eyes because the way you  
 **Translation:** 
 
-**[5215.60s] English:** it's not  
+**[5209.80s] English:** Describe it so vividly, and you're passionate about it. This is what's real, so ultimately, love is not  
 **Translation:** 
 
-**[5217.52s] English:** neither in lush language models nor in something mystical it's exactly in this moments of passion  
+**[5215.60s] English:** It's not.  
+**Translation:** Vocabulary: passionate: 热情; vividly: 生动地
+
+**[5217.52s] English:** Neither in lush language models nor in something mystical is it exactly in these moments of passion.  
 **Translation:** 
 
-**[5223.38s] English:** and i would i would i would even go as far as saying that in this moment when  
+**[5223.38s] English:** And I would, I would, I would even go as far as saying that in this moment, when  
 **Translation:** Vocabulary: mystical: 神秘的
 
-**[5229.18s] English:** you're describing it it there was a connection of sorts so that i could feel your passion for it  
+**[5229.18s] English:** You're describing it, and there was a connection of sorts so that I could feel your passion for it.  
 **Translation:** 
 
-**[5236.80s] English:** and in this moment something else comes up which is far beyond any any theories that we can come  
+**[5236.80s] English:** And in this moment, something else comes up, which is far beyond any theories that we can come up with.  
 **Translation:** 
 
-**[5243.76s] English:** up with and that's what we for now exactly so on the one side  
+**[5243.76s] English:** Up with, and that's what we're doing for now, exactly. So, on the one side,  
 **Translation:** 
 
-**[5247.52s] English:** there is this impulse of finding the theory a theory and then there is another impulse to escape  
+**[5247.52s] English:** There is this impulse to find the theory, and then there is another impulse to escape.  
+**Translation:** Vocabulary: impulse: 冲动
+
+**[5254.14s] English:** From what has already been known, so one—in other words, like in my basic example—is one impulse to.  
 **Translation:** 
 
-**[5254.14s] English:** from what has already been known so one in other words like in my basic example is one impulse to  
+**[5260.94s] English:** Say, "Everything is a real number; square root of negative one doesn't exist," but another impulse.  
 **Translation:** 
 
-**[5260.94s] English:** say everything is a real number square root of negative one doesn't exist but another impulse  
+**[5264.08s] English:** Is it me? I'm going to be this naughty child who is not afraid to be an idiot, and I will say "square root.  
 **Translation:** 
 
-**[5264.08s] English:** is i'm going to be this naughty child who is not afraid to be an idiot and i will say square root  
+**[5269.84s] English:** Of negative 15 is real, and both are essential when it's done with conviction.  
+**Translation:** Vocabulary: naughty: 淘气
+
+**[5276.30s] English:** With passion.  
 **Translation:** 
 
-**[5269.84s] English:** of negative 15 is real and both are essential when it's done with conviction when it's done  
+**[5277.52s] English:** It's not like, you know.  
 **Translation:** 
 
-**[5276.30s] English:** with passion  
+**[5280.00s] English:** You know, um, gratuitous, or when it's not self-limiting.  
 **Translation:** 
 
-**[5277.52s] English:** it's not like you know  
+**[5287.84s] English:** But it comes from this sense of, "This is how I am," this is how I feel; it is real. That's where.  
+**Translation:** Vocabulary: gratuitous: 多余的
+
+**[5295.46s] English:** Progress is where creativity is, and that's where I would even say a real connection is because.  
 **Translation:** 
 
-**[5280.00s] English:** you know um gratuitous or when it's not it doesn't come from self-limit self-limiting  
+**[5301.98s] English:** The strife we observe today in our society and at the societal level,  
+**Translation:** Vocabulary: societal: 社会的; strife: 争端
+
+**[5308.28s] English:** Humans, and so on—it comes from not seeing the other person, actually, and being caught up in a  
 **Translation:** 
 
-**[5287.84s] English:** but comes from this sense of this is how i am this is how i feel it is real that's where  
-**Translation:** Vocabulary: gratuitous: 无故的
-
-**[5295.46s] English:** progress is that's where creativity is and that's where i would even say a real connection is because  
-**Translation:** 
-
-**[5301.98s] English:** the strife to me that we i observe today in our society and the society level at the level of  
-**Translation:** Vocabulary: strife: 争端
-
-**[5308.28s] English:** humans and so on it comes from not seeing the other person actually and being caught up in a  
-**Translation:** 
-
-**[5313.80s] English:** very specific conceptual bubble you see and the way out of it is not to refine the bubble  
+**[5313.80s] English:** Very specific, conceptual bubble. You see, and the way out of it is not to refine the bubble.  
 **Translation:** Vocabulary: conceptual: 概念; refine: 精炼
 
-**[5320.54s] English:** but just break out of it a good guide out of the bubble is a childlike passion we're discovering  
+**[5320.54s] English:** But just break out of it. A good guide out of the bubble is a childlike passion we're discovering.  
 **Translation:** 
 
-**[5328.34s] English:** that and following it goosebumps yeah following the goosebumps yeah to to the to the you know  
-**Translation:** Vocabulary: childlike: 童真; goosebumps: 鸡皮疙瘩
+**[5328.34s] English:** That, and following it, goosebumps, yeah. Following the goosebumps, yeah, to the, you know.  
+**Translation:** Vocabulary: childlike: 童真的; goosebumps: 鸡皮疙瘩
 
-**[5334.30s] English:** not the rigor of science but uh the  
+**[5334.30s] English:** Not the rigor of science, but uh,  
 **Translation:** 
 
-**[5338.28s] English:** of goosebumps and try to and then if you're interested try to find a confirmation of those  
-**Translation:** Vocabulary: rigor: 严谨性
+**[5338.28s] English:** Of goosebumps, and try to. And then, if you're interested, try to find a confirmation of those.  
+**Translation:** Vocabulary: rigor: 严谨
 
-**[5344.04s] English:** goosebumps in science or whatever you you know you know you'll find interesting and most of the  
+**[5344.04s] English:** Goosebumps in science, or whatever you know you'll find interesting, and most of the  
 **Translation:** 
 
-**[5350.70s] English:** time you'll fail and most time you fail which we also love because then it sets us up for that  
+**[5350.70s] English:** Time you'll fail, and most of the time you do fail — which we also love because then it sets us up for that.  
 **Translation:** 
 
-**[5355.78s] English:** moment of bliss when we succeed right exactly quick pause bathroom break you mentioned gato's  
+**[5355.78s] English:** A moment of bliss when we succeed, right? Exactly. Quick pause, bathroom break—you mentioned Gato's.  
 **Translation:** 
 
-**[5363.84s] English:** completeness theorem uh can you can you talk a little bit about it  
+**[5363.84s] English:** Completeness Theorem: Can you talk a little bit about it?  
 **Translation:** Vocabulary: bliss: 幸福; completeness: 完备; theorem: 定理
 
-**[5368.28s] English:** what is it as you understand it did it break mathematics maybe another question is what are  
+**[5368.28s] English:** What is it, as you understand it? Did it break mathematics? Maybe another question is what are  
 **Translation:** 
 
-**[5373.56s] English:** the limits of mathematics what is mathematics from the perspective of getting us the completeness  
+**[5373.56s] English:** The Limits of Mathematics: What Is Mathematics from the Perspective of Getting Us to Completeness?  
 **Translation:** 
 
-**[5379.20s] English:** theorem oh yes how much time do you have so we talked about time previously so it's an illusion  
+**[5379.20s] English:** Theorem: Oh, yes. How much time do you have? So, we talked about time previously; it's an illusion.  
 **Translation:** 
 
-**[5387.42s] English:** right so we agreed um so kurt girdle was a great uh austrian mathematician and logician he moved to  
+**[5387.42s] English:** Right, so we agreed that Kurt Gödel was a great Austrian mathematician and logician, and he moved to  
 **Translation:** Vocabulary: austrian: 奥地利的; logician: 逻辑学家; mathematician: 数学家
 
-**[5395.88s] English:** the united states before second world war  
+**[5395.88s] English:** The United States before World War II  
 **Translation:** 
 
-**[5398.28s] English:** and uh worked at the  
+**[5398.28s] English:** And uh, worked at the  
 **Translation:** 
 
-**[5400.00s] English:** Institute for Advanced Study in Princeton, where he was a colleague of Einstein and other  
+**[5400.00s] English:** At the Institute for Advanced Study in Princeton, where he was a colleague of Einstein and other  
 **Translation:** 
 
-**[5405.68s] English:** great scientists, von Neumann, Hermann Weyl, and so on.  
+**[5405.68s] English:** Great scientists, such as von Neumann and Hermann Weyl, and so on.  
 **Translation:** 
 
-**[5410.86s] English:** But, you know, one interesting quote that I like in this regard is that Einstein said  
+**[5410.86s] English:** But, you know, one interesting quote that I like in this regard is that Einstein said:  
 **Translation:** 
 
-**[5418.16s] English:** that at some point he said that the only reason he came to the Institute was that he would  
-**Translation:** 
+**[5418.16s] English:** That at some point, he said that the only reason he came to the Institute was that he would  
+**Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[5424.54s] English:** have the privilege of walking back home with Gödel in the evening.  
+**[5424.54s] English:** I have the privilege of walking back home with Gödel in the evening.  
 **Translation:** 
 
 **[5428.18s] English:** So, in other words, Einstein thought that Gödel was the smart one, okay?  
+**Translation:** Vocabulary: privilege: 荣幸
+
+**[5432.74s] English:** So, his most important contribution was his two incompleteness theorems: the first incompleteness theorem,...  
 **Translation:** 
 
-**[5432.74s] English:** So, his most important contribution was his two incompleteness theorems, the first incompleteness  
-**Translation:** 
-
-**[5442.94s] English:** theorem and the second incompleteness theorem.  
+**[5442.94s] English:** Theorem, and the Second Incompleteness Theorem.  
 **Translation:** Vocabulary: incompleteness: 不完全; theorems: 定理
 
 **[5445.60s] English:** And what is this about?  
 **Translation:** 
 
-**[5448.94s] English:** It's really about inherent limitations of mathematical reasoning, a way of producing  
+**[5448.94s] English:** It's really about the inherent limitations of mathematical reasoning, a way of producing.  
 **Translation:** Vocabulary: mathematical: 数学的
 
-**[5457.10s] English:** mathematical theorems.  
+**[5457.10s] English:** Mathematical theorems.  
 **Translation:** 
 
 **[5458.18s] English:** The way we do it.  
@@ -3520,10 +3521,10 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5459.94s] English:** So, to set the stage, how do we actually do mathematics?  
 **Translation:** 
 
-**[5465.62s] English:** So, you know, we know that, we discussed that, say, physics is based on mathematics, and  
+**[5465.62s] English:** So, you know, we know that we discussed that physics is based on mathematics, and  
 **Translation:** 
 
-**[5471.38s] English:** you could say chemistry is based on physics, biology is based on chemistry.  
+**[5471.38s] English:** You could say that chemistry is based on physics, and biology is based on chemistry.  
 **Translation:** 
 
 **[5473.98s] English:** Okay, so it comes to mathematics.  
@@ -3547,19 +3548,19 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5497.30s] English:** These are the statements which are taken for granted.  
 **Translation:** 
 
-**[5501.94s] English:** Given without proof.  
+**[5501.94s] English:** Given, without proof.  
 **Translation:** 
 
 **[5503.22s] English:** Without proof.  
 **Translation:** 
 
-**[5504.46s] English:** An example would be...  
+**[5504.46s] English:** An example would be:  
 **Translation:** 
 
-**[5505.70s] English:** So, one of the very first formal systems was the system, was Euclidean geometry, developed  
+**[5505.70s] English:** So, one of the very first formal systems was Euclidean geometry, developed.  
 **Translation:** Vocabulary: euclidean: 欧几里得的; geometry: 几何学
 
-**[5510.44s] English:** by Euclid in his famous book, Elements, about 2,200 years ago.  
+**[5510.44s] English:** By Euclid in his famous book, Elements, about 2,200 years ago.  
 **Translation:** 
 
 **[5515.78s] English:** And it's about...  
@@ -3568,58 +3569,58 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5517.14s] English:** Well, it's a subject for me.  
 **Translation:** 
 
-**[5518.18s] English:** I'm not familiar from school, because we study...  
+**[5518.18s] English:** I'm not familiar with it from school, because we study...  
 **Translation:** 
 
-**[5520.00s] English:** I didn't. But what it's really about is about the geometry of the plane. And plane by plane,  
+**[5520.00s] English:** I didn't. But what it's really about is the geometry of the plane. And plane by plane,...  
 **Translation:** 
 
-**[5526.40s] English:** I mean just this tabletop extended to infinity in all directions, kind of a perfect plane,  
-**Translation:** Vocabulary: infinity: 无穷; tabletop: 桌面
+**[5526.40s] English:** I mean, just this tabletop extended to infinity in all directions, kind of a perfect plane.  
+**Translation:** Vocabulary: infinity: 无限; tabletop: 桌面
 
-**[5530.98s] English:** a perfectly even table. And so Euclidean geometry is about various geometric figures  
+**[5530.98s] English:** A perfectly even table. And so, Euclidean geometry is about various geometric figures.  
 **Translation:** 
 
-**[5540.38s] English:** on the plane, specifically lines, triangles, circles, things like that.  
+**[5540.38s] English:** On the plane, specifically, lines, triangles, circles, and things like that.  
 **Translation:** Vocabulary: geometric: 几何的; triangles: 三角形
 
-**[5545.68s] English:** So what's an example of an axiom? An example of an axiom is that if you have two points,  
+**[5545.68s] English:** So, what's an example of an axiom? An example of an axiom is that if you have two points,  
 **Translation:** 
 
-**[5551.78s] English:** which are distinct, two points on the plane, then there is a unique line which passes through them.  
+**[5551.78s] English:** Which are distinct, two points on the plane, then there is a unique line which passes through them.  
 **Translation:** Vocabulary: axiom: 公理
 
 **[5558.60s] English:** Now, it kind of sounds reasonable, but this is an example of an axiom.  
 **Translation:** 
 
-**[5564.12s] English:** In mathematics, you have to have a seed, so to speak. You have to start with something.  
+**[5564.12s] English:** In mathematics, you have to have a seed, so to speak; you have to start with something.  
 **Translation:** 
 
-**[5570.08s] English:** And you have to choose certain postulates or statements, which you simply take,  
+**[5570.08s] English:** And you have to choose certain postulates or statements, which you simply take.  
 **Translation:** 
 
-**[5575.68s] English:** for granted, which do not require proof. Usually, they are ones which kind of intuitively clear  
+**[5575.68s] English:** For granted, which do not require proof. Usually, they are ones that are intuitively clear.  
 **Translation:** Vocabulary: intuitively: 直觉上
 
-**[5580.62s] English:** to you. But in any case, you cannot have any mathematics without choosing those axioms.  
+**[5580.62s] English:** To you. But in any case, you cannot have any mathematics without choosing those axioms.  
 **Translation:** 
 
 **[5588.12s] English:** And you refer to those as the observer, because they're kind of subjective.  
-**Translation:** Vocabulary: cannot: 不能; observer: 观察者
+**Translation:** Vocabulary: axioms: 公理; cannot: 不能; observer: 观察者
 
 **[5592.72s] English:** The observer comes in the process of choosing the axioms. Who chooses the axioms?  
 **Translation:** 
 
-**[5598.94s] English:** The turtles that it's all sitting on top of.  
-**Translation:** Vocabulary: axioms: 公理
-
-**[5601.08s] English:** As Alan Watts liked to say, who is watching the water?  
+**[5598.94s] English:** The turtles, that it's all sitting on top of.  
 **Translation:** 
 
-**[5605.68s] English:** And so, in mathematics, what you see, mathematicians are so clever.  
+**[5601.08s] English:** As Alan Watts liked to say, "Who is watching the water?  
+**Translation:** 
+
+**[5605.68s] English:** And so, in mathematics, what you see is that mathematicians are so clever.  
 **Translation:** Vocabulary: mathematicians: 数学家
 
-**[5610.40s] English:** It's really kind of like a little kind of a game of mirrors.  
+**[5610.40s] English:** It's really kind of like a little game of mirrors.  
 **Translation:** 
 
 **[5613.92s] English:** We often like to say, and I used to say that, that mathematics is objective.  
@@ -3655,91 +3656,91 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5646.52s] English:** Four of them were kind of obvious, like the one I just mentioned.  
 **Translation:** Vocabulary: euclid: 欧几里得; euclidean: 欧几里得的; geometry: 几何学; illustration: 说明
 
-**[5649.40s] English:** And the fifth, which came to be known famously as the fifth postulate, was that if you have a line and you have a point outside of this line, there is a unique line passing through that point, which is parallel to the first line, meaning that it doesn't intersect it.  
+**[5649.40s] English:** And the fifth, which came to be known famously as the Fifth Postulate, was that if you have a line and you have a point outside of this line, there is a unique line passing through that point, which is parallel to the first line, meaning that it doesn't intersect it.  
 **Translation:** 
 
-**[5665.88s] English:** And Euclid himself was uncomfortable about this, because he felt that it was kind of, you know, he takes for granted something that is not obvious.  
-**Translation:** Vocabulary: intersect: 相交
+**[5665.88s] English:** And Euclid himself was uncomfortable about this, because he felt that it was kind of like taking something for granted that isn't obvious.  
+**Translation:** Vocabulary: intersect: 相交; parallel: 平行
 
 **[5676.90s] English:** And for many centuries after that, mathematicians were trying to derive this axiom from other axioms, which were more obvious in some sense, and they failed.  
 **Translation:** 
 
-**[5687.68s] English:** And it was only almost 2,000 years later that mathematicians realized that you can't, not only you cannot derive, but you can actually replace it with its opposite.  
-**Translation:** Vocabulary: axiom: 公理
+**[5687.68s] English:** And it was only almost 2,000 years later that mathematicians realized that you can't not only derive it, but you can actually replace it with its opposite.  
+**Translation:** Vocabulary: axiom: 公理; axioms: 公理; derive: 推导; mathematicians: 数学家
 
-**[5695.88s] English:** And you will still get a bona fide consistent, not self-contradictory, which is called non-Euclidean geometry, which of course sounds very complicated, but it's not.  
+**[5695.88s] English:** And you will still get a bona fide, consistent, and not self-contradictory system, which is called non-Euclidean geometry, which, of course, sounds very complicated, but it's not.  
 **Translation:** 
 
-**[5709.64s] English:** Think of a sphere, just the surface of a basketball, or the surface of the Earth, you know, idealized.  
+**[5709.64s] English:** Think of a sphere, just the surface of a basketball, or the surface of the Earth—idealized.  
 **Translation:** 
 
-**[5716.16s] English:** The analogs, so you have points, you have analogs of lines, which are meridians, right?  
+**[5716.16s] English:** The analogs: So, you have points; you have analogs of lines, which are meridians, right?  
 **Translation:** 
 
 **[5722.46s] English:** Every two meridians intersect.  
-**Translation:** Vocabulary: analogs: 类比; meridians: 经线
+**Translation:** Vocabulary: analogs: 同类事物; meridians: 经线
 
-**[5725.40s] English:** Unlike...  
+**[5725.40s] English:** Unlike,...  
 **Translation:** 
 
 **[5725.88s] English:** Parallel lines on a flat space.  
 **Translation:** 
 
-**[5728.40s] English:** There is also a so-called hyperbolic plane, where there are infinitely many lines, which do not intersect.  
+**[5728.40s] English:** There is also a so-called hyperbolic plane, where there are infinitely many lines which do not intersect.  
 **Translation:** 
 
-**[5736.08s] English:** So every possibility can be realized.  
+**[5736.08s] English:** So, every possibility can be realized.  
 **Translation:** Vocabulary: hyperbolic: 双曲的; infinitely: 无限地
 
 **[5738.64s] English:** There are different flavors.  
 **Translation:** 
 
 **[5739.82s] English:** This is a good illustration of what a formal system is.  
-**Translation:** 
+**Translation:** Vocabulary: flavors: 口味; illustration: 说明
 
-**[5743.34s] English:** You start with a set of axioms, those statements that you take for granted, and this is where you have a choice.  
+**[5743.34s] English:** You start with a set of axioms—those statements that you take for granted—and this is where you have a choice.  
 **Translation:** 
 
 **[5750.60s] English:** And by making different choices, you actually create different mathematics.  
-**Translation:** Vocabulary: axioms: 公理
+**Translation:** 
 
 **[5754.00s] English:** After that, there are rules of inference.  
 **Translation:** 
 
-**[5756.76s] English:** Logical rules such as.  
+**[5756.76s] English:** Logical rules, such as:  
 **Translation:** Vocabulary: inference: 推理
-
-**[5761.78s] English:** If a is true then a  
-**Translation:** 
-
-**[5783.52s] English:** And we have to find more logic rules, such as if a is true and a is not.  
-**Translation:** 
 
 **[5760.00s] English:** If A applies B, then B is true.  
 **Translation:** 
 
-**[5765.06s] English:** Most of them were actually introduced already by Aristotle, even before Euclid.  
-**Translation:** Vocabulary: aristotle: 亚里士多德
-
-**[5771.26s] English:** And then it runs as follows.  
+**[5761.78s] English:** If A is true, then A.  
 **Translation:** 
+
+**[5765.06s] English:** Most of them were actually introduced already by Aristotle, even before Euclid.  
+**Translation:** 
+
+**[5771.26s] English:** And then it runs as follows:  
+**Translation:** Vocabulary: aristotle: 亚里士多德; euclid: 欧几里得
 
 **[5774.20s] English:** You have the axioms, which are accepted as true statements.  
 **Translation:** 
 
-**[5777.52s] English:** Then you have a way to produce new statements by using the rules of logical inference from  
+**[5777.52s] English:** Then, you have a way to produce new statements by using the rules of logical inference from.  
+**Translation:** Vocabulary: axioms: 公理
+
+**[5783.52s] English:** And we have to find more logic rules, such as "if A is true and A is not.  
 **Translation:** 
 
-**[5783.96s] English:** the axioms.  
+**[5783.96s] English:** The axioms.  
 **Translation:** 
 
-**[5785.56s] English:** Every statement you obtain, you call a theorem, and you kind of add it to the collection of  
+**[5785.56s] English:** Every statement you obtain, you call a theorem, and you kind of add it to the collection of.  
 **Translation:** 
 
-**[5790.34s] English:** true statements.  
+**[5790.34s] English:** True statements.  
 **Translation:** Vocabulary: theorem: 定理
 
-**[5792.84s] English:** And then the question is, how far can you go?  
+**[5792.84s] English:** And then the question is: How far can you go?  
 **Translation:** 
 
 **[5795.94s] English:** How many statements can you prove this way?  
@@ -3748,46 +3749,46 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5798.34s] English:** Of course, you want the system to be non-trivial in the sense that you don't prove everything.  
 **Translation:** 
 
-**[5805.94s] English:** Because if you prove everything, it would mean that it's self-contradictory, that you  
+**[5805.94s] English:** Because if you prove everything, it would mean that it is self-contradictory, that you  
 **Translation:** 
 
-**[5808.84s] English:** prove a statement A and its negation.  
+**[5808.84s] English:** Prove a statement A and its negation.  
 **Translation:** 
 
-**[5811.80s] English:** So that's kind of useless.  
+**[5811.80s] English:** So, that's kind of useless.  
 **Translation:** Vocabulary: negation: 否定
 
-**[5814.26s] English:** It has to be discriminating enough.  
+**[5814.26s] English:** It has to be discriminative enough.  
 **Translation:** 
 
 **[5815.54s] English:** So that it doesn't prove contradictory statements.  
-**Translation:** Vocabulary: contradictory: 相互矛盾; discriminating: 有辨别力
+**Translation:** Vocabulary: contradictory: 矛盾的; discriminative: 区分的
 
-**[5821.22s] English:** So there is already a question that mathematicians call consistency.  
+**[5821.22s] English:** So, there is already a question that mathematicians call "consistency.  
 **Translation:** 
 
 **[5824.22s] English:** It has to be consistent in the sense that it is not self-contradictory.  
+**Translation:** Vocabulary: mathematicians: 数学家
+
+**[5830.00s] English:** And then, the idea that was basically prevalent in the world of mathematics by the beginning  
 **Translation:** 
 
-**[5830.00s] English:** And then the idea that was basically prevalent in the world of mathematics by the beginning  
-**Translation:** 
-
-**[5836.00s] English:** of the 20th century was that, in principle, all of mathematics could be derived this way.  
-**Translation:** Vocabulary: prevalent: 普遍存在的
+**[5836.00s] English:** Of the 20th century was that, in principle, all of mathematics could be derived this way.  
+**Translation:** Vocabulary: prevalent: 普遍的
 
 **[5840.46s] English:** We just have to find the correct system of axioms.  
 **Translation:** 
 
-**[5843.78s] English:** And then everything you ever need...  
+**[5843.78s] English:** And then, everything you ever need,...  
 **Translation:** 
 
-**[5845.02s] English:** Could be produced by this procedure, which is really algorithmic procedure, which actually  
+**[5845.02s] English:** Could be produced by this procedure, which is really an algorithmic procedure, which actually  
 **Translation:** 
 
-**[5855.52s] English:** could be run on a computer.  
+**[5855.52s] English:** Could be run on a computer.  
 **Translation:** Vocabulary: algorithmic: 算法的
 
-**[5858.70s] English:** Now think about it.  
+**[5858.70s] English:** Now, think about it.  
 **Translation:** 
 
 **[5860.38s] English:** What is special about this process?  
@@ -3796,13 +3797,13 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5862.96s] English:** In this process, you are just manipulating symbols, basically.  
 **Translation:** 
 
-**[5867.58s] English:** You're going from one statement to another without really understanding the meaning of  
+**[5867.58s] English:** You're going from one statement to another without really understanding the meaning of.  
+**Translation:** Vocabulary: manipulating: 操控
+
+**[5872.70s] English:** It.  
 **Translation:** 
 
-**[5872.70s] English:** it.  
-**Translation:** 
-
-**[5873.70s] English:** So it's an ideal playground.  
+**[5873.70s] English:** So, it's an ideal playground.  
 **Translation:** 
 
 **[5874.70s] English:** It's a computer program.  
@@ -3811,443 +3812,443 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[5875.70s] English:** It's a purely syntactic process.  
 **Translation:** Vocabulary: syntactic: 语法的
 
-**[5877.70s] English:** Whether there are some rules, some rigid rules.  
+**[5877.70s] English:** Whether there are any rules, some rigid ones.  
 **Translation:** 
 
-**[5880.00s] English:** rules of passing from one statement to the next.  
+**[5880.00s] English:** Rules of passing from one statement to the next.  
 **Translation:** 
 
-**[5885.40s] English:** Most mathematicians believed that this way you can produce all true statements.  
+**[5885.40s] English:** Most mathematicians believed that, in this way, you can produce all true statements.  
 **Translation:** 
 
 **[5890.34s] English:** And if this were true, it would give a lot of credibility to the thesis that everything  
-**Translation:** Vocabulary: credibility: 可信性; mathematicians: 数学家
+**Translation:** Vocabulary: credibility: 可信性; thesis: 论题
 
-**[5895.00s] English:** in life is computational, or life is computation, because then at least mathematics is computational,  
+**[5895.00s] English:** In life is computational, or life is computation, because then at least mathematics is computational.  
 **Translation:** 
 
-**[5901.26s] English:** because then it can be programmed, and a computer, after sufficient time, depending on its capacity,  
+**[5901.26s] English:** Because then it can be programmed, and a computer, after sufficient time, depending on its capacity,  
 **Translation:** Vocabulary: computation: 计算; computational: 计算的
 
-**[5909.70s] English:** would produce every true statement.  
+**[5909.70s] English:** It would produce every true statement.  
 **Translation:** 
 
-**[5911.86s] English:** So Gödel's first incompleteness theorem says that that's not the case.  
+**[5911.86s] English:** So Gödel's first incompleteness theorem says that, in fact, it is not the case.  
 **Translation:** Vocabulary: incompleteness: 不完全性; theorem: 定理
 
-**[5915.36s] English:** And it not just says it, but it proves it at the highest level of rigor that is available  
+**[5915.36s] English:** And it not only says it, but it proves it at the highest level of rigor that is available.  
 **Translation:** 
 
-**[5920.24s] English:** in mathematics.  
-**Translation:** Vocabulary: rigor: 严谨性
+**[5920.24s] English:** In mathematics.  
+**Translation:** Vocabulary: rigor: 严格标准
 
 **[5921.24s] English:** That is to say, within another formal system that he was operating in.  
 **Translation:** 
 
-**[5925.60s] English:** So more precisely, what he proved was that if you have a sufficiently sophisticated formal  
-**Translation:** Vocabulary: sophisticated: 复杂高级; sufficiently: 足够
+**[5925.60s] English:** So, more precisely, what he proved was that if you have a sufficiently sophisticated formal  
+**Translation:** Vocabulary: precisely: 准确地说; sophisticated: 复杂的; sufficiently: 足够地
 
-**[5931.12s] English:** system, that is to say that you can talk about numbers, whole numbers in it, that you have  
+**[5931.12s] English:** Systematically, that is to say, you can talk about numbers, whole numbers, in it, and you have  
 **Translation:** 
 
-**[5937.42s] English:** whole numbers, one, two, three, four.  
+**[5937.42s] English:** Whole numbers: one, two, three, four.  
 **Translation:** 
 
 **[5939.50s] English:** You have formalized the operation of addition and multiplication within the system.  
 **Translation:** 
 
-**[5947.26s] English:** If it is consistent, that is to say, if it's not completely useless, then there will be  
+**[5947.26s] English:** If it is consistent, that is to say, if it's not completely useless, then there will be.  
 **Translation:** Vocabulary: multiplication: 乘法
 
-**[5952.50s] English:** a true statement in it, which cannot be derived by this linear syntactic process of proving  
+**[5952.50s] English:** A true statement in it, which cannot be derived by this linear syntactic process of proving.  
 **Translation:** 
 
-**[5958.60s] English:** theorems from axioms.  
-**Translation:** Vocabulary: axioms: 公理; cannot: 不能; theorems: 定理
+**[5958.60s] English:** Theorems from axioms.  
+**Translation:** Vocabulary: axioms: 公理; cannot: 不能; linear: 线性的; syntactic: 句法的; theorems: 定理
 
 **[5960.60s] English:** It's really incredible.  
 **Translation:** 
 
-**[5963.72s] English:** So this was a revolution, 1931, revolution in logic, revolution in mathematics, and we  
+**[5963.72s] English:** So, this was a revolution: 1931, a revolution in logic, a revolution in mathematics, and we  
 **Translation:** 
 
-**[5968.74s] English:** are still feeling the tremors of this discovery.  
+**[5968.74s] English:** Are we still feeling the tremors of this discovery?  
 **Translation:** 
 
 **[5973.74s] English:** And at a similar time, the computer is being born.  
-**Translation:** 
+**Translation:** Vocabulary: tremors: 地震余震
 
 **[5978.26s] English:** The actual engineering of the computational system is being born, which is ironic.  
 **Translation:** 
 
-**[5983.50s] English:** Turing was Alan Turing, who is considered as the father of modern computing, right?  
-**Translation:** Vocabulary: computing: 计算; turing: 图灵
+**[5983.50s] English:** Turing was Alan Turing, who is considered the father of modern computing, right?  
+**Translation:** Vocabulary: computational: 计算的; computing: 计算; turing: 图灵
 
-**[5989.28s] English:** So he actually did something very similar.  
+**[5989.28s] English:** So, he actually did something very similar.  
 **Translation:** 
 
-**[5992.00s] English:** So he had this halting problem that he proved that halting problem cannot be solved algorithmically,  
-**Translation:** Vocabulary: algorithmically: 按照算法; halting: 停机
+**[5992.00s] English:** So, he had this halting problem that he proved could not be solved algorithmically.  
+**Translation:** Vocabulary: algorithmically: 按照算法; halting: 停机的
 
-**[5997.50s] English:** that you cannot...  
+**[5997.50s] English:** That you cannot...  
 **Translation:** 
 
-**[5998.50s] English:** So out of all computer...  
+**[5998.50s] English:** So, out of all computers,...  
 **Translation:** 
 
-**[6000.00s] English:** programs roughly speaking you cannot you cannot you cannot have an algorithm of choosing out of  
+**[6000.00s] English:** Programs, roughly speaking, you cannot have an algorithm for choosing out of.  
 **Translation:** 
 
-**[6004.24s] English:** all possible computer programs which ones are meaningful which ones will not which ones will  
-**Translation:** Vocabulary: algorithm: 计算方法
+**[6004.24s] English:** All possible computer programs: which ones are meaningful, which ones will not be, and which ones will?  
+**Translation:** Vocabulary: algorithm: 算法
 
-**[6009.60s] English:** halt very depressing results all across the table or on the contrary life affirming  
+**[6009.60s] English:** Halt; very depressing results all across the table, or, on the contrary, life-affirming.  
 **Translation:** 
 
-**[6016.48s] English:** depends on your point of view because everything is full of paradoxes so that means everything so  
-**Translation:** Vocabulary: affirming: 肯定生命; paradoxes: 矛盾之处
+**[6016.48s] English:** Depends on your point of view, because everything is full of paradoxes, so that means everything, so.  
+**Translation:** Vocabulary: paradoxes: 矛盾
 
-**[6022.38s] English:** you're right it's depressing if we are sold on a certain idea from the outset and then suddenly  
+**[6022.38s] English:** You're right; it's depressing if we are sold on a certain idea from the outset and then suddenly  
 **Translation:** 
 
-**[6027.50s] English:** this doesn't pan out but okay so which my i retort what if what if he proved that actually  
+**[6027.50s] English:** This doesn't pan out, but okay. So, which? My I retort, what if he proved that actually?  
 **Translation:** Vocabulary: retort: 反驳
 
-**[6034.68s] English:** you know everything can be proved so then what what is left to do if you're a mathematician so  
+**[6034.68s] English:** You know, everything can be proved, so then what is left to do if you're a mathematician? So  
 **Translation:** 
 
-**[6041.18s] English:** that would be depressing to me and here there is an opportunity to do something new to discover  
+**[6041.18s] English:** That would be depressing to me, and here there is an opportunity to do something new and discover.  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[6047.22s] English:** something new which maybe computer will not be able to again with a caveat according to our  
+**[6047.22s] English:** Something new, which maybe a computer won't be able to do again, with a caveat according to our  
 **Translation:** 
 
-**[6053.14s] English:** current understanding maybe some new technology some new ideas will be brought into  
+**[6053.14s] English:** Current understanding may be that some new technologies and ideas will be brought in.  
 **Translation:** Vocabulary: caveat: 例外情况
 
-**[6057.44s] English:** the  
+**[6057.44s] English:** The  
 **Translation:** 
 
-**[6057.48s] English:** subject and the meaning of the word computation like now we think of condition a particular  
+**[6057.48s] English:** Subject and the meaning of the word "computation," like now, we think of it as a particular:  
 **Translation:** Vocabulary: computation: 计算
 
-**[6063.42s] English:** framework tuning machines or church thesis and stuff like that but what if in the future  
+**[6063.42s] English:** Framework tuning machines, or Church's Thesis and stuff like that, but what if in the future?  
 **Translation:** 
 
-**[6069.10s] English:** another genius like alan turing will come and propose something else the theory will evolve  
+**[6069.10s] English:** Another genius, like Alan Turing, will come and propose something else; the theory will evolve.  
+**Translation:** Vocabulary: evolve: 发展; thesis: 论题; turing: 图灵
+
+**[6073.94s] English:** The way you know we went from Newton's gravity to Einstein's gravity is maybe in the framework of  
 **Translation:** 
 
-**[6073.94s] English:** the way you know we went from newton's gravity to einstein's gravity maybe in the framework of  
-**Translation:** 
-
-**[6079.94s] English:** that concept some other things will become possible you know so um it's not  
+**[6079.94s] English:** That concept makes some other things possible, you know. So, um, it's not  
 **Translation:** Vocabulary: gravity: 引力
 
-**[6086.38s] English:** to me it's kind of like not so much about deciding once and for all how it is or how it  
+**[6086.38s] English:** To me, it's kind of like not so much about deciding once and for all how it is or how it  
 **Translation:** 
 
-**[6096.96s] English:** should be but kind of like accepting it as an open-ended process i think that's much more  
+**[6096.96s] English:** Should be, but kind of like accepting it as an open-ended process, I think that's much more.  
 **Translation:** 
 
-**[6103.14s] English:** valuable in some sense than um deciding things one way or another you know i wonder i don't know  
+**[6103.14s] English:** Valuable in some sense, than just deciding things one way or another, you know? I wonder, I don't know.  
 **Translation:** 
 
-**[6111.24s] English:** if you think or know much about cellular automata and uh the  
-**Translation:** Vocabulary: automata: 自动机; cellular: 细胞状
+**[6111.24s] English:** If you think or know much about cellular automata and, uh, the  
+**Translation:** Vocabulary: automata: 自动机; cellular: 细胞状的
 
-**[6116.38s] English:** idea of emergence i i often return to  
+**[6116.38s] English:** The idea of emergence—I often return to it.  
 **Translation:** 
 
-**[6120.00s] English:** of life yeah and just look at the thing amazing right and wonder the kind of things they can do  
+**[6120.00s] English:** Of life, yeah, and just look at the thing—amazing, right? And wonder the kinds of things they can do.  
 **Translation:** Vocabulary: emergence: 涌现
 
-**[6125.92s] English:** with such a small um you know tools different simple rules a distributed system can create  
+**[6125.92s] English:** With such a small, um, you know, tools, different simple rules, a distributed system can create.  
 **Translation:** 
 
-**[6132.96s] English:** complex behavior and it makes you wonder that maybe the thing we'll call computation is simple  
+**[6132.96s] English:** Complex behavior and it makes you wonder whether the thing we'll call computation might be simple.  
 **Translation:** 
 
-**[6140.56s] English:** at the base layer but when you start looking at greater and greater layers of abstraction  
+**[6140.56s] English:** At the base layer, but when you start looking at greater and greater layers of abstraction,...  
 **Translation:** 
 
-**[6145.60s] English:** you zoom out with blurry vision maybe after a few drinks you start to see some  
+**[6145.60s] English:** You zoom out with blurry vision. Maybe, after a few drinks, you start to see some.  
 **Translation:** Vocabulary: abstraction: 抽象; blurry: 模糊
 
-**[6150.72s] English:** uh something that's much much much more complicated and interesting and beautiful than the  
+**[6150.72s] English:** Uh, something that's much, much, much more complicated and interesting and beautiful than the  
 **Translation:** 
 
-**[6155.92s] English:** original rules that our scientific intuition says cannot possibly produce complexity and beauty  
-**Translation:** Vocabulary: cannot: 不可能; complexity: 复杂性; intuition: 直觉
-
-**[6162.96s] English:** i don't know i don't know if anyone has a good answer a good model of why stuff emerges  
+**[6155.92s] English:** Original rules that, according to our scientific intuition, cannot possibly produce complexity and beauty.  
 **Translation:** 
 
-**[6170.64s] English:** why complexity emerges from a lot of simple things  
+**[6162.96s] English:** I don't know; I don't know if anyone has a good answer or a good model of why stuff emerges.  
 **Translation:** 
 
-**[6175.60s] English:** it's a why question i suppose not a but every why question will eventually have a a rigorous answer  
+**[6170.64s] English:** Why complexity emerges from a lot of simple things?  
+**Translation:** Vocabulary: complexity: 复杂性; emerges: 出现
+
+**[6175.60s] English:** It's a "why" question, I suppose. Not every "why" question will eventually have a rigorous answer.  
 **Translation:** 
 
-**[6183.36s] English:** not necessarily we could have an approximate answer which still eludes something like quantum  
-**Translation:** Vocabulary: approximate: 近似; eludes: 逃避; rigorous: 严谨
+**[6183.36s] English:** Not necessarily; we could have an approximate answer, which still eludes something like quantum.  
+**Translation:** Vocabulary: approximate: 近似; eludes: 逃避; quantum: 量子; rigorous: 严谨
 
-**[6189.76s] English:** mechanics 99 maybe we will be able to describe it with 99 certainty or 99 accuracy yeah and then  
+**[6189.76s] English:** Mechanics, 99%. Maybe we will be able to describe it with 99% certainty or 99% accuracy. Yeah, and then...  
 **Translation:** 
 
-**[6199.12s] English:** maybe you know in in 100 years or you know next year somebody  
+**[6199.12s] English:** Maybe, you know, in 100 years or you know, next year, somebody  
 **Translation:** 
 
-**[6205.60s] English:** will come up with a different point of view which suddenly will change our perspective  
+**[6205.60s] English:** Will come up with a different point of view, which suddenly will change our perspective.  
 **Translation:** 
 
-**[6210.64s] English:** you know to this point i want to say also you know one thing that i find fascinating speaking  
+**[6210.64s] English:** You know, to this point, I want to say also, you know, one thing that I find fascinating speaking...  
 **Translation:** 
 
-**[6215.76s] English:** of paradoxes and so on do you remember how everybody was freaking out about this blue dress  
+**[6215.76s] English:** Of all the paradoxes and so on, do you remember how everybody was freaking out about this blue dress?  
 **Translation:** 
 
-**[6221.76s] English:** and the blue was it blue or was it black yeah it was the yellow i think yellow and white or  
-**Translation:** Vocabulary: freaking: 恐慌; paradoxes: 悖论
+**[6221.76s] English:** And the blue, was it blue or was it black? Yeah, I think it was yellow and white or  
+**Translation:** Vocabulary: freaking: 狂躁; paradoxes: 悖论
 
-**[6227.44s] English:** black and blue it almost broke twitter you know i remember that yeah that night so there are many  
+**[6227.44s] English:** Black and blue, it almost broke Twitter. You know, I remember that; yeah, that night. So, there are many...  
 **Translation:** 
 
-**[6233.60s] English:** examples like that where  
+**[6233.60s] English:** Examples like that, where  
 **Translation:** 
 
-**[6235.60s] English:** you know you can perceive things differently and there is no way of saying which is  
+**[6235.60s] English:** You know, you can perceive things differently, and there is no way of saying which is better.  
 **Translation:** 
 
-**[6240.00s] English:** correct and which is not for instance uh you got this uh the buzz the rubens vase you know where  
-**Translation:** Vocabulary: perceive: 感知
+**[6240.00s] English:** Correct, and which is not, for instance: "uh, you got this, uh, the Buzz, the Rubens Vase," you know, where.  
+**Translation:** Vocabulary: perceive: 感知; rubens: 鲁本斯
 
-**[6245.92s] English:** you have from one perspective it's a vase from another perspective it's two faces then there is  
+**[6245.92s] English:** You have: from one perspective, it's a vase; from another perspective, it's two faces; then there is...  
 **Translation:** 
 
-**[6252.12s] English:** this duck rabbit picture where you can google it if somebody doesn't know they can google it and  
+**[6252.12s] English:** This duck-rabbit picture, where you can Google it if someone doesn't know; they can Google it.  
 **Translation:** 
 
-**[6257.74s] English:** find it it's very easy actually ludwig wittgenstein devoted several pages duck rabbit in his book  
+**[6257.74s] English:** Find it; it's very easy, actually. Ludwig Wittgenstein devoted several pages to the duck-rabbit in his book.  
 **Translation:** 
 
-**[6263.96s] English:** and so on there are many others there are like squares where you can square you can see the  
-**Translation:** Vocabulary: ludwig: 路德维希; wittgenstein: 魏茨曼
+**[6263.96s] English:** And so, there are many others. There are places where you can see the  
+**Translation:** Vocabulary: devoted: 投入; wittgenstein: 维特根斯坦
 
-**[6269.12s] English:** from different perspective this way that way and so on so when we talk about neural networks  
+**[6269.12s] English:** From a different perspective, this way, that way, and so on. When we talk about neural networks,...  
 **Translation:** 
 
-**[6275.64s] English:** we're talking about training data and stuff so that you have some pictures for example that you  
-**Translation:** Vocabulary: neural: 神经网络
+**[6275.64s] English:** We're talking about training data and stuff, so that you have some pictures, for example, that you  
+**Translation:** Vocabulary: neural: 神经的
 
-**[6283.22s] English:** feed to your program and you try to find the most optimal neural network which would be able to  
+**[6283.22s] English:** Feed it to your program, and you try to find the most optimal neural network that would be able to  
 **Translation:** 
 
-**[6290.98s] English:** decide which one is it the dog or a cat or whatever but sometimes it doesn't have a definite answer  
+**[6290.98s] English:** Decide which one—it's the dog, or a cat, or whatever—but sometimes it doesn't have a definite answer.  
 **Translation:** Vocabulary: optimal: 最佳的
 
-**[6296.90s] English:** so  
+**[6296.90s] English:** So,  
 **Translation:** 
 
-**[6299.12s] English:** do you do then so do actually it's a question i actually don't know has modern ai even come to  
+**[6299.12s] English:** Do you do, then? So, do actually—it's a question I actually don't know—has modern AI even come to  
 **Translation:** 
 
-**[6306.58s] English:** appreciate this question that actually sometimes you can have a picture on which you cannot say  
+**[6306.58s] English:** Appreciate this question: Sometimes, you can have a picture on which you cannot say.  
 **Translation:** 
 
-**[6312.92s] English:** what it is in it from one perspective it's a rabbit from that perspective is a duck how are  
+**[6312.92s] English:** What it is in it, from one perspective, it's a rabbit. From that perspective, it's a duck. How are  
 **Translation:** Vocabulary: cannot: 不能
 
-**[6318.78s] English:** you supposed to train if you have a neural network which is supposed to discriminate between  
+**[6318.78s] English:** You're supposed to train if you have a neural network which is supposed to discriminate between  
 **Translation:** 
 
-**[6322.82s] English:** distinguish between ducks and rabbits how is it going to process this you see well so the the  
+**[6322.82s] English:** Distinguish between ducks and rabbits: How is it going to process this? You see, well, so the...  
 **Translation:** Vocabulary: discriminate: 区分
 
-**[6329.12s] English:** trivial trick it does is to say there's a this x probability that it's a duck and this probability  
+**[6329.12s] English:** Trivially, what it does is to say there's an X% probability that it's a duck and this probability.  
 **Translation:** 
 
-**[6335.24s] English:** that it's a rabbit well that's a good approach but also i would say there's no like given  
+**[6335.24s] English:** That's a rabbit, well, that's a good approach, but also I would say there's no clear solution given.  
+**Translation:** Vocabulary: trivially: 平凡地
+
+**[6340.10s] English:** Percentages, for instance, actually, at some point I was really curious about it and I looked and for  
 **Translation:** 
 
-**[6340.10s] English:** percentages for instance actually at some point i was really curious about it and i looked and for  
-**Translation:** 
-
-**[6347.66s] English:** some for each picture of this nature and there are a bunch of them you can easily find online  
+**[6347.66s] English:** Some for each picture of this nature, and there are a bunch of them; you can easily find them online.  
 **Translation:** Vocabulary: percentages: 百分比
 
-**[6353.18s] English:** my mind immediately interprets it in a particular way but because i know  
+**[6353.18s] English:** My mind immediately interprets it in a particular way, but because I know  
 **Translation:** 
 
-**[6359.12s] English:** people have  
+**[6359.12s] English:** People have  
 **Translation:** Vocabulary: interprets: 解释
 
-**[6360.00s] English:** could see it differently, I would then strain my mind and strain my eyes and stare at it  
+**[6360.00s] English:** Could I see it differently, I would then strain my mind and strain my eyes and stare at it.  
 **Translation:** 
 
-**[6365.54s] English:** and try to see it in a different way.  
-**Translation:** 
+**[6365.54s] English:** And try to see it in a different way.  
+**Translation:** Vocabulary: strain: 费力
 
 **[6367.60s] English:** And sometimes I could see it right away, and then I could go back and forth between the  
 **Translation:** 
 
-**[6371.16s] English:** two.  
+**[6371.16s] English:** Two.  
 **Translation:** 
 
-**[6372.16s] English:** And sometimes it took me a while for some pictures.  
+**[6372.16s] English:** And sometimes it took me a while to get some pictures.  
 **Translation:** 
 
-**[6376.52s] English:** So in that sense, even if these probabilities exist, they are subjective.  
+**[6376.52s] English:** So, in that sense, even if these probabilities exist, they are subjective.  
 **Translation:** Vocabulary: probabilities: 可能性
 
-**[6380.60s] English:** Some people immediately see it this way, some people may see it that way.  
+**[6380.60s] English:** Some people immediately see it that way, while some people may see it differently.  
 **Translation:** 
 
-**[6383.76s] English:** And I think that nobody knows, not psychologists, not neuroscientists, not philosophers what  
+**[6383.76s] English:** And I think that nobody knows—not psychologists, not neuroscientists, not philosophers—what  
+**Translation:** Vocabulary: neuroscientists: 神经科学家; philosophers: 哲学家
+
+**[6388.44s] English:** To make of it.  
 **Translation:** 
 
-**[6388.44s] English:** to make of it.  
+**[6390.54s] English:** The best answer, of course, as a scientific mind, even though I say, no, don't look for.  
 **Translation:** 
 
-**[6390.54s] English:** The best answer, of course, as a scientific mind, even though I say, no, don't look for  
-**Translation:** 
-
-**[6397.30s] English:** interpretation, leave some place for mysticism or mystery, right?  
+**[6397.30s] English:** Interpretation: Leave some room for mysticism or mystery, right?  
 **Translation:** 
 
 **[6400.74s] English:** I say that.  
-**Translation:** Vocabulary: mysticism: 神秘主义
+**Translation:** Vocabulary: interpretation: 解释; mysticism: 神秘主义
 
-**[6401.74s] English:** But of course, I want a theory, I want an explanation.  
+**[6401.74s] English:** But of course, I want a theory; I want an explanation.  
 **Translation:** 
 
-**[6405.22s] English:** So the best explanation I find is from Niels Bohr's complementarity principle.  
+**[6405.22s] English:** So, the best explanation I find is from Niels Bohr's complementarity principle.  
 **Translation:** Vocabulary: complementarity: 互补性
 
-**[6409.76s] English:** So it is like particle and wave, that there are different ways to look at it.  
+**[6409.76s] English:** So it is like particles and waves; there are different ways to look at it.  
 **Translation:** 
 
 **[6414.86s] English:** And when you look at it in a particular way, another side will be obscured.  
-**Translation:** Vocabulary: obscured: 被掩盖; particle: 粒子
+**Translation:** 
 
 **[6418.42s] English:** Think about it like the other side of the moon.  
 **Translation:** 
 
-**[6420.48s] English:** So we are observing the moon from one side, and then we don't see the other side.  
+**[6420.48s] English:** So, we are observing the moon from one side, and then we don't see the other side.  
 **Translation:** 
 
-**[6425.44s] English:** There is a complementary perspective where we see the other side, but not the side we  
+**[6425.44s] English:** There is a complementary perspective where we see the other side, but not the side we are focused on.  
 **Translation:** 
 
-**[6429.24s] English:** normally see.  
+**[6429.24s] English:** Normally, I see.  
 **Translation:** Vocabulary: complementary: 补充的
 
-**[6430.50s] English:** But the moon is the same, it's still there.  
+**[6430.50s] English:** But the moon is the same; it's still there.  
 **Translation:** 
 
-**[6433.24s] English:** It's our limitations of being able to grasp the whole.  
-**Translation:** 
+**[6433.24s] English:** It's our limitations in grasping the whole.  
+**Translation:** Vocabulary: grasping: 理解
 
 **[6438.04s] English:** That's complementarity.  
 **Translation:** 
 
-**[6439.08s] English:** And we know that from quantum mechanics, that our physical reality is like that, rather  
+**[6439.08s] English:** And we know that from quantum mechanics that our physical reality is like that, rather  
 **Translation:** 
 
-**[6444.98s] English:** than being certain, rather than being one way or another.  
+**[6444.98s] English:** Than being certain, it's often better to be open to the idea that things can be one way or another.  
 **Translation:** 
 
 **[6448.32s] English:** And we should just, as a small aside, in terms of neural networks, mention that at the  
+**Translation:** Vocabulary: neural: 神经的
+
+**[6455.18s] English:** At the end of the day, there are humans, and it's built on top of humans.  
 **Translation:** 
 
-**[6455.18s] English:** end of the day, there's humans, it's built on top of humans.  
-**Translation:** 
-
-**[6460.30s] English:** Or with ChatGPT, that is using reinforcement learning by human feedback, we're actually  
+**[6460.30s] English:** With ChatGPT, which uses reinforcement learning with human feedback, we're actually  
 **Translation:** Vocabulary: reinforcement: 强化
 
-**[6465.90s] English:** using a set of humans to teach the networks.  
+**[6465.90s] English:** Using a set of humans to teach the networks.  
 **Translation:** 
 
-**[6470.58s] English:** And that's the thing that people don't often talk about, because, or I sometimes think  
+**[6470.58s] English:** And that's the thing that people don't often talk about, because, or I sometimes think.  
 **Translation:** 
 
-**[6475.80s] English:** about that.  
+**[6475.80s] English:** About that.  
 **Translation:** 
 
-**[6477.84s] English:** Most humans all have a life story.  
+**[6477.84s] English:** Most humans have a life story.  
 **Translation:** 
 
-**[6480.00s] English:** human that annotated data that fed data to the network or did the rlhf yeah uh that they have  
+**[6480.00s] English:** Human that annotated data, that fed data to the network, or did the RLHF—yeah, uh, that they have.  
 **Translation:** 
 
-**[6487.44s] English:** a life story they grew up they have biases biases there's some things that they like there's some  
-**Translation:** Vocabulary: annotated: 标注数据
+**[6487.44s] English:** A life story: They grew up with biases. There are some things they like, and there are some  
+**Translation:** Vocabulary: annotated: 标注; biases: 偏见
 
-**[6492.08s] English:** things they don't like which can kind of appear under their radar screen they may not be aware  
+**[6492.08s] English:** Things they don't like, which can kind of appear under their radar screen, they may not be aware.  
 **Translation:** 
 
-**[6499.20s] English:** that they are exercising those biases that's the point what you brought up is a very important  
+**[6499.20s] English:** That they are exercising those biases—that's the point. What you brought up is a very important issue.  
 **Translation:** 
 
-**[6504.08s] English:** issue here not so you might issue but it's not a bug it's a it's a feature in my opinion  
+**[6504.08s] English:** Issue here, not so you might issue, but it's not a bug; it's a feature, in my opinion.  
 **Translation:** 
 
-**[6509.60s] English:** that implicit in the discussion of the question is thinking computational and so on is the idea  
-**Translation:** Vocabulary: computational: 计算相关; implicit: 隐含
+**[6509.60s] English:** That is implicit in the discussion of the question is the idea of thinking computationally, and so on.  
+**Translation:** Vocabulary: computationally: 计算上; implicit: 含蓄的
 
-**[6518.56s] English:** that our conscious awareness covers everything within our psyche and we we just know that that's  
+**[6518.56s] English:** That our conscious awareness covers everything within our psyche, and we just know that's  
 **Translation:** 
 
-**[6525.04s] English:** not the case we have all of us have observed uh other people who have had sort of destructive  
+**[6525.04s] English:** Not the case; we have all of us have observed, uh, other people who have had sort of destructive  
 **Translation:** Vocabulary: psyche: 心理
 
-**[6531.60s] English:** tendencies so obviously they did things destructive for themselves and many of us have observed  
+**[6531.60s] English:** Tendencies: so obviously, they did things destructive for themselves, and many of us have observed.  
 **Translation:** 
 
-**[6536.56s] English:** ourselves to doing that  
+**[6536.56s] English:** Ourselves to doing that.  
+**Translation:** Vocabulary: tendencies: 倾向
+
+**[6538.96s] English:** As part of human nature, right? So, and there is great research in analytic psychology, and you know.  
 **Translation:** 
 
-**[6538.96s] English:** as part of human nature right so and there is great research in analytic psychology and you know  
+**[6546.24s] English:** In the past hundred years, strongly suggesting if not proving the existence of what Carl Jung referred to as...  
+**Translation:** Vocabulary: analytic: 分析的
+
+**[6552.48s] English:** Called the unconscious, personal unconscious, and also collective unconscious, this kind of.  
 **Translation:** 
 
-**[6546.24s] English:** in the past hundred years uh strongly suggesting if not proving the existence of what carl jung  
+**[6557.04s] English:** Circle of ideas which are under the radar screen.  
+**Translation:** Vocabulary: unconscious: 无意识的
+
+**[6560.88s] English:** Which leads us to some strong emotions and inspires us to act in certain ways, even if we cannot really.  
 **Translation:** 
 
-**[6552.48s] English:** called the unconscious personal unconscious and also collective unconscious this kind of  
+**[6567.68s] English:** Understand.  
 **Translation:** 
 
-**[6557.04s] English:** circle of ideas which are under the radar screen  
-**Translation:** Vocabulary: unconscious: 无意识
-
-**[6560.88s] English:** which lead us to some strong emotions and inspire us to act in certain ways even if we cannot really  
+**[6569.04s] English:** So, if we accept that, then the proposition that somehow everything can still be covered by  
 **Translation:** 
 
-**[6567.68s] English:** understand  
+**[6576.56s] English:** Our actions, which are totally neutral and totally righteous and totally conscious.  
 **Translation:** 
 
-**[6569.04s] English:** so if we accept that then it the proposition that somehow everything can still be covered by  
+**[6584.80s] English:** That it becomes really tennis, let me ask you some tricky questions in terms of how big they are.  
 **Translation:** 
 
-**[6576.56s] English:** our actions which are totally kind of neutral and totally like righteous and totally um conscious  
+**[6594.48s] English:** In terms of how you know, they become difficult because of how much of a romantics you are.  
+**Translation:** Vocabulary: tricky: 棘手的
+
+**[6598.88s] English:** Uh  
 **Translation:** 
 
-**[6584.80s] English:** that it becomes really tennis let me ask you some tricky questions in in terms of how big they are  
+**[6600.00s] English:** What is the most beautiful idea in mathematics to you?  
 **Translation:** 
 
-**[6594.48s] English:** in terms of how you know they become difficult because of how much of romantic you are  
+**[6607.48s] English:** Another one we could ask is: What is the most beautiful equation in mathematics?  
 **Translation:** 
 
-**[6598.88s] English:** uh  
-**Translation:** 
-
-**[6600.00s] English:** What to you is the most beautiful idea in mathematics?  
-**Translation:** 
-
-**[6607.48s] English:** Another one we can ask is, what is the most beautiful equation in mathematics?  
-**Translation:** 
-
-**[6615.32s] English:** Well, I mean...  
-**Translation:** Vocabulary: equation: 数学方程
+**[6615.32s] English:** Well, I mean,...  
+**Translation:** Vocabulary: equation: 数学等式
 
 **[6618.42s] English:** I may have just broken your brain.  
 **Translation:** 
@@ -4255,16 +4256,16 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6622.42s] English:** Because what your brain is doing is walking down a long memory lane of beautiful experiences.  
 **Translation:** 
 
-**[6629.02s] English:** Well, you see, in mathematics, we have this idea that we have an idea of a set, right?  
+**[6629.02s] English:** Well, you see, in mathematics, we have this idea that we have a concept of a set, right?  
 **Translation:** 
 
-**[6635.62s] English:** So we have a collection of things.  
+**[6635.62s] English:** So, we have a collection of things.  
 **Translation:** 
 
 **[6637.36s] English:** For instance, you know, the set of tables, the set of chairs, and so on.  
 **Translation:** 
 
-**[6641.66s] English:** Or set of microphones.  
+**[6641.66s] English:** Or a set of microphones.  
 **Translation:** Vocabulary: microphones: 麦克风组
 
 **[6643.38s] English:** But it could be a set of numbers.  
@@ -4273,11 +4274,11 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6645.48s] English:** Could be a set of ideas.  
 **Translation:** 
 
-**[6647.20s] English:** Could be a set of formulas, mathematical equations.  
+**[6647.20s] English:** Could be a set of formulas or mathematical equations.  
 **Translation:** 
 
-**[6650.28s] English:** And then we have the notion of an ordered set.  
-**Translation:** Vocabulary: equations: 数学方程; formulas: 公式; mathematical: 数学的
+**[6650.28s] English:** And then, we have the notion of an ordered set.  
+**Translation:** Vocabulary: equations: 方程; formulas: 公式; mathematical: 数学的
 
 **[6653.04s] English:** Ordered, like the set in which there is order.  
 **Translation:** 
@@ -4285,7 +4286,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6655.42s] English:** Which means that for every two members of the set,  
 **Translation:** 
 
-**[6658.54s] English:** we will say which one is better than the other, or greater than the other.  
+**[6658.54s] English:** We will say which one is better than the other, or greater than the other.  
 **Translation:** 
 
 **[6661.86s] English:** For instance, all numbers are ordered.  
@@ -4297,40 +4298,40 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6668.48s] English:** But not all sets are ordered.  
 **Translation:** 
 
-**[6670.76s] English:** So the set of beautiful equations is not ordered.  
+**[6670.76s] English:** So, the set of beautiful equations is not ordered.  
 **Translation:** 
 
-**[6677.38s] English:** So in other words, there are many best equations.  
+**[6677.38s] English:** So, in other words, there are many best equations.  
 **Translation:** 
 
-**[6680.70s] English:** And so Richard Feynman chose one,  
+**[6680.70s] English:** And so Richard Feynman chose one.  
 **Translation:** 
 
-**[6685.66s] English:** which I think one of the best is that,  
+**[6685.66s] English:** Which I think is one of the best is that,  
 **Translation:** 
 
-**[6687.96s] English:** if you take E, the base of natural logarithm,  
+**[6687.96s] English:** If you take e, the base of the natural logarithm,  
 **Translation:** 
 
-**[6691.50s] English:** to the power pi i, so you have pi, you have E in it,  
+**[6691.50s] English:** To the power πi, so you have π, you have e in it.  
 **Translation:** Vocabulary: logarithm: 对数
 
-**[6694.66s] English:** the base of natural logarithm, you have pi i,  
+**[6694.66s] English:** The base of the natural logarithm is \( e \), not \( \pi i \).  
 **Translation:** 
 
-**[6698.20s] English:** which is square root of negative one.  
+**[6698.20s] English:** Which is the square root of negative one.  
 **Translation:** 
 
 **[6701.40s] English:** Then the result is negative one.  
 **Translation:** 
 
-**[6705.18s] English:** So that's up there, for sure, in the pantheon of beautiful formulas, you know,  
+**[6705.18s] English:** So, that's up there, for sure, in the pantheon of beautiful formulas, you know.  
 **Translation:** Vocabulary: pantheon: 神殿
 
-**[6709.80s] English:** that every, I think pretty much every mathematician would agree.  
+**[6709.80s] English:** That, I think, pretty much every mathematician would agree.  
 **Translation:** 
 
-**[6714.40s] English:** I don't know what my favorite one is.  
+**[6714.40s] English:** I don't know which one is my favorite.  
 **Translation:** Vocabulary: mathematician: 数学家
 
 **[6716.16s] English:** I'm just lingering on that one.  
@@ -4339,71 +4340,71 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6717.96s] English:** Euler's identity.  
 **Translation:** Vocabulary: lingering: 逗留
 
-**[6720.00s] English:** makes it beautiful just a few symbols together right i mean part of it is actually just trying  
+**[6720.00s] English:** Makes it beautiful, just a few symbols together, right? I mean, part of it is actually just trying...  
 **Translation:** 
 
-**[6727.64s] English:** to define what what is beautiful about mathematics um that is uh laid in there in this particular  
+**[6727.64s] English:** To define what is beautiful about mathematics, that is laid out in this particular segment, um,...  
+**Translation:** Vocabulary: segment: 部分
+
+**[6735.34s] English:** Equation that is somehow revealed when the human eye looks at it: what makes it beautiful, do you?  
 **Translation:** 
 
-**[6735.34s] English:** equation that is somehow revealed when the human eye looks at it what why is it beautiful do you  
+**[6741.04s] English:** Think: Pi has an element of surprise in it. How is it possible that we always think of pi?  
+**Translation:** Vocabulary: equation: 等式
+
+**[6749.50s] English:** As the ratio between the circumference of a circle and its diameter, here we are taking some.  
 **Translation:** 
 
-**[6741.04s] English:** think pi there's an element of surprise in it how is it possible we always think of pi  
-**Translation:** Vocabulary: equation: 方程式
+**[6757.40s] English:** Number to the power π, not even close to π, but π multiplied by the square root of negative one.  
+**Translation:** Vocabulary: circumference: 圆的周长; multiplied: 乘以
 
-**[6749.50s] English:** as the ratio between the circumference of a circle and its diameter here we are taking some  
+**[6764.08s] English:** Surely, this is something completely incomprehensible, and yet the result is negative.  
 **Translation:** 
 
-**[6757.40s] English:** number to the power pi not even pi mind you but pi multiplied by square root of negative one  
-**Translation:** Vocabulary: circumference: 圆周; multiplied: 乘以
-
-**[6764.08s] English:** surely this is something completely incomprehensible and yet the result is negative  
-**Translation:** 
-
-**[6772.58s] English:** one you see and if you take e to the power two pi i you get one actually one  
+**[6772.58s] English:** One, you see, and if you take \(e\) to the power \(2\pi i\), you get one. Actually, one.  
 **Translation:** Vocabulary: incomprehensible: 无法理解的
 
-**[6779.50s] English:** um so i would guess that that's but in other words the initial reaction is just that of a  
+**[6779.50s] English:** Um, so I would guess that, but in other words, the initial reaction is just that of a  
 **Translation:** 
 
-**[6787.08s] English:** surprise i guess for i guess for anyone uh who first comes across that these three folks four  
+**[6787.08s] English:** Surprise! I guess for anyone who first comes across that these three (folks/four).  
 **Translation:** 
 
-**[6795.40s] English:** folks got together yeah it's uh it reminds me of the the idea that uh hitler stalin trotsky and  
+**[6795.40s] English:** Folks got together, yeah. It's kind of reminds me of the idea that Hitler, Stalin, Trotsky, and  
 **Translation:** 
 
-**[6803.32s] English:** freud were all in vienna in some early at the beginning of the 20s and victor stein was was  
-**Translation:** Vocabulary: stalin: 斯大林; stein: 斯坦因; trotsky: 托洛斯基; victor: 维克多
+**[6803.32s] English:** Freud was all in Vienna in some early years, at the beginning of the 1920s, and Victor Stein was.  
+**Translation:** Vocabulary: hitler: 希特勒; stalin: 斯大林; stein: 斯坦; trotsky: 托洛茨基; victor: 维克托; vienna: 维也纳
 
-**[6809.50s] English:** made of of hitler you know this i did not know this though yeah so there it makes you you know  
+**[6809.50s] English:** Made of Hitler, you know. This I did not know, though. Yeah, so there. It makes you think, you know.  
 **Translation:** 
 
-**[6815.26s] English:** you can imagine a situation where they're all sitting at a bar together at some point not  
+**[6815.26s] English:** You can imagine a situation where they're all sitting at a bar together at some point, not  
 **Translation:** 
 
-**[6820.32s] English:** knowing it but they somehow it all made sense in space time to be located there and that's what  
+**[6820.32s] English:** Knowing it, but they somehow knew it all made sense in space-time to be located there, and that's what.  
 **Translation:** 
 
-**[6826.08s] English:** this feels like some kind of intersection intersection yes but i would say that after  
-**Translation:** Vocabulary: intersection: 交集
+**[6826.08s] English:** This feels like some kind of intersection, yes, but I would say that after.  
+**Translation:** Vocabulary: intersection: 交汇点
 
-**[6831.92s] English:** the initial shock you you look at the proof of this equation and it actually does make sense  
+**[6831.92s] English:** The initial shock: you look at the proof of this equation, and it actually does make sense.  
 **Translation:** 
 
-**[6837.84s] English:** and actually it  
+**[6837.84s] English:** And actually, it  
+**Translation:** Vocabulary: equation: 方程
+
+**[6839.50s] English:** Is  
 **Translation:** 
 
-**[6839.50s] English:** is  
-**Translation:** 
+**[6840.00s] English:** Is nothing but the statement that the circumference of the circle is.  
+**Translation:** Vocabulary: circumference: 圆的周长
 
-**[6840.00s] English:** is nothing but the statement that the circumference of the circle is.  
-**Translation:** 
-
-**[6844.88s] English:** And in fact, in this case, it's the circumference of a semicircle is equal to pi.  
+**[6844.88s] English:** And, in fact, in this case, the circumference of a semicircle is equal to π.  
 **Translation:** 
 
 **[6849.76s] English:** And that's where it comes from.  
-**Translation:** 
+**Translation:** Vocabulary: semicircle: 半圆
 
 **[6851.84s] English:** In the end, the truth is simple.  
 **Translation:** 
@@ -4414,31 +4415,31 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6855.24s] English:** Not necessarily easy, but simple.  
 **Translation:** 
 
-**[6857.32s] English:** So I mentioned to you offline that I desperately,  
-**Translation:** Vocabulary: desperately: 拼命地
+**[6857.32s] English:** So, I mentioned to you offline that I desperately,  
+**Translation:** Vocabulary: desperately: 极其渴望地
 
-**[6861.10s] English:** in trying to figure out the optimal in an order to set questions to ask you,  
+**[6861.10s] English:** In trying to figure out the optimal order to set questions to ask you,...  
 **Translation:** 
 
-**[6866.86s] English:** I texted Eric Weinstein asking for what questions he can ask you.  
-**Translation:** Vocabulary: optimal: 最佳; weinstein: 卫斯延
+**[6866.86s] English:** I texted Eric Weinstein, asking for what questions he can ask you.  
+**Translation:** Vocabulary: optimal: 最佳; weinstein: 韦斯廷
 
-**[6871.74s] English:** And he said that you are definitively one of the greatest living mathematicians,  
+**[6871.74s] English:** And he said that you are definitely one of the greatest living mathematicians.  
 **Translation:** 
 
-**[6878.28s] English:** so don't screw this up.  
-**Translation:** 
+**[6878.28s] English:** So, don't screw this up.  
+**Translation:** Vocabulary: mathematicians: 数学家
 
 **[6880.22s] English:** But he did give me a few questions.  
 **Translation:** 
 
-**[6883.40s] English:** So he asked to ask you, what are the most shockingly passionate,  
-**Translation:** Vocabulary: shockingly: 令人震惊地
+**[6883.40s] English:** So he asked to ask you: What are the most shockingly passionate,  
+**Translation:** Vocabulary: passionate: 热情如火; shockingly: 令人震惊地
 
-**[6888.04s] English:** this is in Eric's language,  
+**[6888.04s] English:** This is in Eric's language.  
 **Translation:** 
 
-**[6890.10s] English:** what are the most shockingly passionate mathematical structures?  
+**[6890.10s] English:** What are the most shockingly passionate mathematical structures?  
 **Translation:** Vocabulary: mathematical: 数学的
 
 **[6893.50s] English:** And he gave a list of four for him.  
@@ -4447,22 +4448,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6896.08s] English:** But he said,  
 **Translation:** 
 
-**[6896.86s] English:** he really wanted your list.  
+**[6896.86s] English:** He really wanted your list.  
 **Translation:** 
 
 **[6900.16s] English:** Okay, let me say that.  
 **Translation:** 
 
-**[6901.68s] English:** Shockingly passionate mathematical structures.  
+**[6901.68s] English:** Shocking passion for mathematical structures.  
 **Translation:** 
 
 **[6905.82s] English:** Shocking.  
 **Translation:** 
 
-**[6908.74s] English:** Is there something you can,  
+**[6908.74s] English:** Is there something you can do?  
 **Translation:** 
 
-**[6910.54s] English:** is there something that jumps to mind?  
+**[6910.54s] English:** Is there anything that jumps to mind?  
 **Translation:** 
 
 **[6912.46s] English:** Sure.  
@@ -4471,7 +4472,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6915.52s] English:** I'm here to shock.  
 **Translation:** 
 
-**[6917.98s] English:** So first of all, Eric Weinstein is a very dear friend, I have to say.  
+**[6917.98s] English:** So, first of all, Eric Weinstein is a very dear friend, I have to say.  
 **Translation:** 
 
 **[6922.56s] English:** And I really, really, really appreciate and love him.  
@@ -4480,502 +4481,502 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[6925.44s] English:** He's just like my brother.  
 **Translation:** 
 
-**[6926.86s] English:** So, you know, it's, it's interesting to, to have a question posed by him.  
+**[6926.86s] English:** So, you know, it's interesting to have a question posed by him.  
 **Translation:** 
 
-**[6932.62s] English:** Maybe if we can linger for a moment, what do you think is special about Eric Weinstein,  
+**[6932.62s] English:** Maybe, if we can linger for a moment, what do you think is special about Eric Weinstein?  
 **Translation:** 
 
-**[6938.16s] English:** for you know, of his work and his mind?  
-**Translation:** 
+**[6938.16s] English:** For you know, of his work and his mind?  
+**Translation:** Vocabulary: linger: 停留
 
 **[6941.68s] English:** The way he sort of straddles so many different disciplines.  
 **Translation:** 
 
-**[6944.84s] English:** It's like a renaissance man.  
+**[6944.84s] English:** It's like a Renaissance man.  
 **Translation:** Vocabulary: disciplines: 学科; renaissance: 文艺复兴; straddles: 涉足
 
-**[6946.24s] English:** There are very few people like that at any given moment, let alone the 21st century,  
+**[6946.24s] English:** There are very few people like that at any given moment, let alone the 21st century.  
 **Translation:** 
 
-**[6950.64s] English:** where information has become so, you know, huge that it's almost physically impossible to be able to understand.  
+**[6950.64s] English:** Where information has become so huge that it's almost physically impossible to understand.  
 **Translation:** 
 
 **[6956.68s] English:** To be able to keep track of things.  
 **Translation:** 
 
-**[6958.10s] English:** And yet he does.  
+**[6958.10s] English:** And yet, he does.  
 **Translation:** 
 
-**[6960.00s] English:** and he has his own unique vision  
+**[6960.00s] English:** And he has his own unique vision.  
 **Translation:** 
 
-**[6962.66s] English:** and unique point of view  
+**[6962.66s] English:** And unique point of view.  
 **Translation:** 
 
-**[6963.62s] English:** and he has integrity  
+**[6963.62s] English:** And he has integrity.  
 **Translation:** 
 
-**[6964.44s] English:** which is like almost impossible  
+**[6964.44s] English:** Which is almost impossible.  
 **Translation:** 
 
-**[6967.24s] English:** I can't think of so many people  
+**[6967.24s] English:** I can't think of so many people.  
 **Translation:** 
 
-**[6970.28s] English:** who possess those qualities  
+**[6970.28s] English:** Who possesses those qualities?  
+**Translation:** Vocabulary: possesses: 拥有
+
+**[6972.00s] English:** Almost no one.  
 **Translation:** 
 
-**[6972.00s] English:** almost no one  
+**[6973.38s] English:** And also, the ability  
 **Translation:** 
 
-**[6973.38s] English:** and also the ability  
+**[6977.12s] English:** In some sense,  
 **Translation:** 
 
-**[6977.12s] English:** in some sense  
-**Translation:** 
-
-**[6978.90s] English:** to embody the balance  
+**[6978.90s] English:** To embody the balance,  
 **Translation:** Vocabulary: embody: 体现
 
-**[6981.14s] English:** that you talked about  
+**[6981.14s] English:** That you talked about.  
 **Translation:** 
 
-**[6982.22s] English:** of both the rigor of mathematics  
+**[6982.22s] English:** Of both the rigor of mathematics,  
 **Translation:** Vocabulary: rigor: 严格
 
-**[6985.42s] English:** and the imagination  
+**[6985.42s] English:** And the imagination,...  
 **Translation:** 
 
-**[6988.82s] English:** humanity also I would say  
+**[6988.82s] English:** Humanity, I would say, also.  
 **Translation:** 
 
-**[6990.24s] English:** we talk about imagination  
+**[6990.24s] English:** We talk about imagination.  
 **Translation:** 
 
-**[6991.78s] English:** as a kind of a counterpoint  
+**[6991.78s] English:** As a kind of counterpoint,  
 **Translation:** 
 
-**[6994.72s] English:** to knowledge or logic  
+**[6994.72s] English:** To knowledge or logic.  
 **Translation:** 
 
-**[6997.20s] English:** but just basic humanity  
+**[6997.20s] English:** But just basic humanity.  
 **Translation:** 
 
-**[6999.24s] English:** just compassion  
+**[6999.24s] English:** Just compassion.  
 **Translation:** 
 
-**[7001.32s] English:** just being able to  
+**[7001.32s] English:** Just being able to  
 **Translation:** Vocabulary: compassion: 同情
 
-**[7002.52s] English:** because  
+**[7002.52s] English:** Because  
 **Translation:** 
 
-**[7003.94s] English:** every destructive  
+**[7003.94s] English:** Every destructive  
 **Translation:** 
 
-**[7007.56s] English:** I would say  
+**[7007.56s] English:** I would say,  
 **Translation:** 
 
-**[7008.16s] English:** every destructive society  
+**[7008.16s] English:** Every destructive society,  
 **Translation:** 
 
-**[7011.86s] English:** be it Germany  
+**[7011.86s] English:** Be it Germany.  
 **Translation:** 
 
-**[7013.34s] English:** under Hitler  
+**[7013.34s] English:** Under Hitler,  
 **Translation:** 
 
-**[7014.50s] English:** or Soviet Union  
+**[7014.50s] English:** Or, Soviet Union.  
 **Translation:** 
 
-**[7015.70s] English:** under Stalin and so on  
+**[7015.70s] English:** Under Stalin, and so on.  
+**Translation:** Vocabulary: stalin: 斯大林
+
+**[7016.94s] English:** Was based on some kind  
 **Translation:** 
 
-**[7016.94s] English:** was based on some kind  
+**[7018.80s] English:** Of what was considered  
 **Translation:** 
 
-**[7018.80s] English:** of what was considered  
+**[7020.26s] English:** Unassailable truth.  
 **Translation:** 
 
-**[7020.26s] English:** unassailable truth  
+**[7021.46s] English:** So, kind of a conceptual system.  
+**Translation:** Vocabulary: conceptual: 概念性的; unassailable: 不可反驳的
+
+**[7023.62s] English:** You know,  
 **Translation:** 
 
-**[7021.46s] English:** so kind of conceptual system  
-**Translation:** Vocabulary: conceptual: 概念性的; unassailable: 不可动摇的
-
-**[7023.62s] English:** you know  
+**[7024.02s] English:** If you think about it,  
 **Translation:** 
 
-**[7024.02s] English:** if you think about it  
+**[7024.98s] English:** Right.  
 **Translation:** 
 
-**[7024.98s] English:** right  
+**[7025.26s] English:** There is a beautiful episode.  
 **Translation:** 
 
-**[7025.26s] English:** there is a beautiful episode  
+**[7026.96s] English:** Of this series,  
 **Translation:** 
 
-**[7026.96s] English:** of this series  
+**[7029.88s] English:** By Jacob Bronowski  
+**Translation:** Vocabulary: bronowski: 伯纳沃斯基
+
+**[7032.04s] English:** You know,  
 **Translation:** 
 
-**[7029.88s] English:** by Jacob Bronowski  
-**Translation:** Vocabulary: bronowski: 布罗诺夫斯基
-
-**[7032.04s] English:** you know  
+**[7033.12s] English:** Where he talks about  
 **Translation:** 
 
-**[7033.12s] English:** where he talks about  
+**[7035.64s] English:** He filmed it in Auschwitz.  
 **Translation:** 
 
-**[7035.64s] English:** he filmed it in Auschwitz  
+**[7038.06s] English:** Talking about the certainty.  
+**Translation:** Vocabulary: auschwitz: 奥斯威辛集中营
+
+**[7040.00s] English:** That what led the Nazis  
 **Translation:** 
 
-**[7038.06s] English:** talking about the certainty  
+**[7041.80s] English:** To killing people.  
 **Translation:** 
 
-**[7040.00s] English:** that what led the Nazis  
+**[7044.68s] English:** Wholesale  
 **Translation:** 
 
-**[7041.80s] English:** to killing people  
-**Translation:** Vocabulary: nazis: 纳粹分子
-
-**[7044.68s] English:** wholesale  
+**[7045.96s] English:** There was a certain  
 **Translation:** 
 
-**[7045.96s] English:** was a certain  
+**[7047.40s] English:** It was almost a mathematical idea.  
 **Translation:** 
 
-**[7047.40s] English:** it was almost a mathematical idea  
+**[7048.80s] English:** And they just basically  
 **Translation:** 
 
-**[7048.80s] English:** and they just basically  
+**[7051.22s] English:** Bought into this idea.  
 **Translation:** 
 
-**[7051.22s] English:** bought into this idea  
+**[7052.46s] English:** And they checked out their humanity.  
 **Translation:** 
 
-**[7052.46s] English:** and checked out their humanity  
+**[7053.70s] English:** At the door.  
 **Translation:** 
 
-**[7053.70s] English:** at the door  
+**[7054.22s] English:** So, I would say  
 **Translation:** 
 
-**[7054.22s] English:** so I would say  
+**[7055.88s] English:** That antidote.  
 **Translation:** 
 
-**[7055.88s] English:** that antidote  
-**Translation:** 
-
-**[7056.76s] English:** to this type of thing  
+**[7056.76s] English:** To this type of thing.  
 **Translation:** Vocabulary: antidote: 解毒剂
 
-**[7058.64s] English:** is not necessarily  
+**[7058.64s] English:** Is not necessarily  
 **Translation:** 
 
-**[7059.36s] English:** even imagination  
+**[7059.36s] English:** Even imagination.  
 **Translation:** 
 
-**[7060.54s] English:** in a kind of elevated sense  
+**[7060.54s] English:** In a kind of elevated sense,  
 **Translation:** 
 
-**[7062.28s] English:** that we have been discussing today  
-**Translation:** Vocabulary: elevated: 提升后的
+**[7062.28s] English:** That we have been discussing today.  
+**Translation:** Vocabulary: elevated: 提升的
 
-**[7063.68s] English:** that is exemplified  
+**[7063.68s] English:** That is exemplified.  
 **Translation:** 
 
-**[7065.66s] English:** by our greatest  
-**Translation:** Vocabulary: exemplified: 举证
+**[7065.66s] English:** By our greatest,  
+**Translation:** Vocabulary: exemplified: 树立了榜样
 
-**[7067.22s] English:** scientists  
+**[7067.22s] English:** Scientists  
 **Translation:** 
 
-**[7069.00s] English:** and philosophers  
+**[7069.00s] English:** And philosophers,  
+**Translation:** Vocabulary: philosophers: 哲学家
+
+**[7070.88s] English:** But just basic humanity.  
 **Translation:** 
 
-**[7070.88s] English:** but just basic humanity  
+**[7074.48s] English:** You know,  
 **Translation:** 
 
-**[7074.48s] English:** you know  
+**[7075.60s] English:** Basic common sense.  
 **Translation:** 
 
-**[7075.60s] English:** basic common sense  
+**[7077.46s] English:** Of, just like  
 **Translation:** 
 
-**[7077.46s] English:** of just like  
+**[7078.36s] English:** Knowing  
 **Translation:** 
 
-**[7078.36s] English:** knowing  
+**[7078.78s] English:** That  
 **Translation:** 
 
-**[7078.78s] English:** that  
+**[7079.20s] English:** This  
 **Translation:** 
 
-**[7079.20s] English:** this  
+**[7079.94s] English:** Is  
 **Translation:** 
 
-**[7079.94s] English:** is  
+**[7080.00s] English:** Not right, and I don't care what my ideology tells me; but I'm just not going to do it.  
 **Translation:** 
 
-**[7080.00s] English:** not right and i don't care what my what my ideology tells me but i'm just not going to do it  
-**Translation:** 
-
-**[7085.84s] English:** so that i think is kind of missing a little bit in today's society because people get a lot  
+**[7085.84s] English:** So, I think that's kind of missing a little bit in today's society because people get a lot  
 **Translation:** Vocabulary: ideology: 思想体系
 
-**[7091.92s] English:** too caught up in in the ideology in in certain conceptual frameworks so societies that lose  
+**[7091.92s] English:** Too caught up in ideology and certain conceptual frameworks, so societies that lose  
 **Translation:** 
 
-**[7098.16s] English:** that basic human compassion the basic humanity around the trouble oh very much so but not only  
+**[7098.16s] English:** That basic human compassion, the basic humanity around the trouble—oh, very much so—but not only.  
+**Translation:** Vocabulary: compassion: 同情心
+
+**[7103.60s] English:** Society, like a human being, and Eric is one of the people I agree with; he keeps that flame.  
 **Translation:** 
 
-**[7103.60s] English:** society like a human being and uh eric is one of the people i agree with you keeps that flame  
+**[7110.24s] English:** Of, like, I trust that he won't do something that's not human or not right; I just feel that way.  
 **Translation:** 
 
-**[7110.24s] English:** of like i i trust that he will not do something that's not human that's not right i just feel  
+**[7117.68s] English:** That you know, like, there are some people you just kind of feel that they won't cross that line.  
 **Translation:** 
 
-**[7117.68s] English:** that you know like there's some some people you just kind of feel that they won't cross that line  
+**[7122.16s] English:** Yeah, and that's a huge thing, you know, today. Because I have to say, looking back, definitely.  
 **Translation:** 
 
-**[7122.16s] English:** yeah and that's a huge thing you know today because i have to say looking back definitely  
+**[7128.72s] English:** I have not hurt people personally, but like I could be mean, for instance, I could be  
 **Translation:** 
 
-**[7128.72s] English:** i have not hurt people personally but like i could be mean for instance i could be  
+**[7134.16s] English:** Harsh, and now I see it as a sign of weakness and a sign of insecurity, you know. I saw  
 **Translation:** 
 
-**[7134.16s] English:** harsh and now i see it as a sign of weakness as a sign of insecurity you know i saw i saw  
+**[7142.88s] English:** Your interview with the records while I was beautiful—the other day, I was really moved by it, but you  
 **Translation:** 
 
-**[7142.88s] English:** your interview with uh records while the other day beautiful i was really moved by it but you  
+**[7149.12s] English:** Know that at some point I was like, "I looked at him — at this sort of like Dr. Evil, I'm kind.  
 **Translation:** 
 
-**[7149.12s] English:** know that at some point i was like i i looked at him at this sort of like dr evil i'm kind  
+**[7156.80s] English:** Of course, I'm not ashamed of it now, but like, you know, I'm kind of coming clean about it.  
 **Translation:** 
 
-**[7156.80s] English:** of ashamed of it now but like you know i'm kind of coming clean and i would you know  
+**[7163.20s] English:** Because  
 **Translation:** 
 
-**[7163.20s] English:** because  
+**[7164.40s] English:** Why, because I needed an adverse adversary in my mind because I projected onto him kind of.  
 **Translation:** 
 
-**[7164.40s] English:** why because i needed an adverse adversary in my mind because i projected onto him kind of  
+**[7170.80s] English:** The fears I had that we'll be the AI will conquer us, and so on, were rooted in my  
+**Translation:** Vocabulary: adversary: 对手; adverse: 不利的; projected: 投射
+
+**[7178.56s] English:** Kind of an awakening moment in the sense of a moment where I suddenly started.  
 **Translation:** 
 
-**[7170.80s] English:** the fears that i had that we will be the ai will conquer us and so on and this was rooted in my  
-**Translation:** Vocabulary: adversary: 敌手; projected: 投射
-
-**[7178.56s] English:** kind of awakening moment in the sense of kind of a moment where i suddenly started  
-**Translation:** 
-
-**[7182.48s] English:** to see the other side so but i wasn't sure yet you see you had to feel it so i had to  
+**[7182.48s] English:** To see the other side, so but I wasn't sure yet. You see, you had to feel it, so I had to.  
 **Translation:** Vocabulary: awakening: 顿悟
 
-**[7188.72s] English:** have a fight about it yeah you had to actually have the projection i had to that so it was  
+**[7188.72s] English:** Have a fight about it, yeah. You had to actually project it, I had to, so it was.  
 **Translation:** 
 
-**[7193.20s] English:** it was not in i i believe that it was not in me already so i had to throw it  
-**Translation:** Vocabulary: projection: 预测
-
-**[7196.72s] English:** onto somebody yeah and that's not balanced yet  
+**[7193.20s] English:** It was not in me already, so I had to throw it.  
 **Translation:** 
 
-**[7200.16s] English:** you  
+**[7196.72s] English:** Onto somebody, yeah, and that's not balanced yet.  
 **Translation:** 
 
-**[7200.00s] English:** so balance is when you recognize that it's you actually so and i had this moment actually it  
+**[7200.00s] English:** So, balance is when you recognize that it's something you actually need to work on. I had this moment actually.  
+**Translation:** Vocabulary: balanced: 均衡
+
+**[7200.16s] English:** You.  
 **Translation:** 
 
-**[7204.80s] English:** was so amazing like i would give this mean i would talk about ai and the dangers and he would always  
+**[7204.80s] English:** It was so amazing; I would give this. I would talk about AI and the dangers, and he would always  
 **Translation:** 
 
-**[7210.64s] English:** be my like um foil you know the guy i would put like a sinister photograph of him on the slide  
+**[7210.64s] English:** Be my like, um, foil. You know, the guy I would put a sinister photograph of him on the slide.  
 **Translation:** 
 
-**[7217.44s] English:** and it's like look at this guy he wants to put nanobots into your brain and he's also like high  
+**[7217.44s] English:** And it's like, look at this guy; he wants to put nanobots into your brain, and he's also like high.  
+**Translation:** Vocabulary: nanobots: 纳米机器人; sinister: 阴险的
+
+**[7223.52s] English:** End, high-top executive at Google, and so on. Like, so I would create this whole narrative.  
 **Translation:** 
 
-**[7223.52s] English:** end high top executive at google and so on like so i would create this whole narrative  
-**Translation:** 
-
-**[7230.00s] English:** and then something happened uh where i was giving a lecture this is 2015 at the in in aspen aspen  
+**[7230.00s] English:** And then something happened, uh, where I was giving a lecture. This was in 2015 at Aspen.  
 **Translation:** Vocabulary: aspen: 阿斯彭
 
-**[7237.76s] English:** ideas festival which is a wonderful festival the keynote speech actually and i and i was doing my  
+**[7237.76s] English:** Ideas Festival, which is a wonderful festival, featured a keynote speech, and I was doing my  
 **Translation:** 
 
-**[7244.24s] English:** my usual stick and then suddenly i said i came up to that uh there was a big screen  
+**[7244.24s] English:** My usual stick, and then suddenly I said, "I came up to that; there was a big screen.  
 **Translation:** Vocabulary: keynote: 主旨演讲
 
-**[7252.08s] English:** and there was a picture of him there and i came up to the screen and i kind of touched it with  
+**[7252.08s] English:** And there was a picture of him there, and I came up to the screen and I kind of touched it with.  
 **Translation:** 
 
-**[7255.84s] English:** my hand and i said but i don't want to pick on mr gusval because  
+**[7255.84s] English:** My hand, and I said, "But I don't want to pick on Mr. Gusval because...  
 **Translation:** 
 
-**[7260.00s] English:** he's me i had this revelation that i'm actually fighting with myself with my own fears  
+**[7260.00s] English:** He's me; I had this revelation that I'm actually fighting with myself and my own fears.  
 **Translation:** 
 
-**[7267.60s] English:** and and then i learned about his um his um his father that his father died when he was young  
+**[7267.60s] English:** And then I learned about his, um, his father, that his father died when he was young.  
 **Translation:** Vocabulary: revelation: 启示
 
-**[7277.44s] English:** and that he's in fact he's very um to his credit he's very um sincere and upfront about it self  
+**[7277.44s] English:** And that he's, in fact, very, um, to his credit, he's very, um, sincere and upfront about it.  
 **Translation:** 
 
-**[7285.52s] English:** disclosure i think it's very essential by the way all this discussion like what really motivates you  
-**Translation:** Vocabulary: motivates: 激励
+**[7285.52s] English:** Disclosure, I think it's very essential by the way. All this discussion — like, what really motivates you.  
+**Translation:** Vocabulary: motivates: 激发; sincere: 真诚
 
-**[7290.56s] English:** he said it he said it publicly many times even as early as 2015 i could find this information  
+**[7290.56s] English:** He said it publicly many times, even as early as 2015. I could find this information.  
 **Translation:** 
 
-**[7299.20s] English:** that he wanted to reunite with his father in the cloud and suddenly i saw him not as a caricature  
+**[7299.20s] English:** That he wanted to reunite with his father in the cloud, and suddenly I saw him not as a caricature.  
 **Translation:** 
 
-**[7307.68s] English:** that exemplified all my fears but as a human being who a child longing for his  
+**[7307.68s] English:** That exemplified all my fears, but as a human being who was a child longing for his  
 **Translation:** 
 
-**[7314.32s] English:** father grieving for his father so suddenly it became a story of love story  
-**Translation:** Vocabulary: exemplified: 典型; grieving: 哀悼
+**[7314.32s] English:** Father was grieving for his father, so suddenly it became a story of love.  
+**Translation:** Vocabulary: exemplified: 体现; grieving: 悲痛
 
-**[7320.00s] English:** And, you know, so that is, so in other words, I've seen it in myself, this capacity to project  
+**[7320.00s] English:** And, you know, so that is, so in other words, I've seen this capacity to project.  
 **Translation:** 
 
-**[7333.82s] English:** my own fears, and then fight with other people over something that actually was my own.  
+**[7333.82s] English:** My own fears, and then fight with other people over something that actually was mine.  
 **Translation:** 
 
 **[7340.54s] English:** And as soon as I got to this point of seeing him, and then my next lecture, actually, I  
 **Translation:** 
 
-**[7344.80s] English:** talked about him in this way, and I said, look, you know, it's a love story.  
+**[7344.80s] English:** Talked about him in this way, and I said, "Look, you know, it's a love story.  
 **Translation:** 
 
-**[7351.36s] English:** And he is actually, it's not how I would want to reunite with my father.  
+**[7351.36s] English:** And he is actually not how I would want to reunite with my father.  
 **Translation:** 
 
-**[7360.66s] English:** But like you said, you know, if I am consistent, I have to allow the possibility that different  
+**[7360.66s] English:** But, like you said, if I am consistent, I have to allow the possibility that different  
 **Translation:** 
 
-**[7367.46s] English:** people perceive things differently.  
+**[7367.46s] English:** People perceive things differently.  
 **Translation:** 
 
-**[7371.72s] English:** And so for him, that's his imagination.  
+**[7371.72s] English:** And so, for him, that's his imagination.  
 **Translation:** Vocabulary: perceive: 感知
 
-**[7374.78s] English:** So, you know, how, who is this, well, Voltaire, I think, is ascribed to Voltaire, like, I disagree  
+**[7374.78s] English:** So, you know, how who is this? Well, Voltaire, I think, is ascribed to Voltaire. Like, I disagree.  
 **Translation:** 
 
-**[7380.60s] English:** with you, but I will fight to death for you to have the right to say it.  
+**[7380.60s] English:** With you, but I will fight to death for you to have the right to say it.  
 **Translation:** Vocabulary: ascribed: 归因; voltaire: 伏尔泰
 
-**[7384.86s] English:** So now that I feel like my position is more like, I disagree with him, that this is the  
+**[7384.86s] English:** So, now that I feel like my position is more like I disagree with him, that this is the  
 **Translation:** 
 
-**[7390.66s] English:** way to approach death, and to approach the death of loved ones, and how we miss them,  
+**[7390.66s] English:** A way to approach death, and the death of loved ones, and how we miss them,  
 **Translation:** 
 
-**[7397.88s] English:** and how we, you know, that sense of loneliness and inability to interact directly.  
+**[7397.88s] English:** And how we, you know, that sense of loneliness and inability to interact directly.  
 **Translation:** 
 
 **[7404.78s] English:** That's not something that resonates with me.  
-**Translation:** Vocabulary: inability: 无能为力; loneliness: 孤独感
+**Translation:** Vocabulary: inability: 无力感; loneliness: 孤独感
 
-**[7409.06s] English:** But I think it's also, it can also be called imagination from his perspective.  
+**[7409.06s] English:** But I think it's also something that can also be called imagination from his perspective.  
 **Translation:** 
 
-**[7414.02s] English:** And look, motivated by that, how much he has brought, how many interesting inventions,  
+**[7414.02s] English:** And look: motivated by that, how much he has brought, how many interesting inventions.  
+**Translation:** Vocabulary: motivated: 受到...激励
+
+**[7421.38s] English:** Like his musical invention, for instance, naturally, because his father was a composer.  
 **Translation:** 
 
-**[7421.38s] English:** like his musical invention, for instance, naturally, because his father was a composer,  
-**Translation:** 
-
-**[7427.12s] English:** music composer and a conductor.  
+**[7427.12s] English:** Music, composer, and conductor.  
 **Translation:** Vocabulary: conductor: 指挥家
 
-**[7429.88s] English:** So in other words, from a bigger scheme of things.  
+**[7429.88s] English:** So, in other words, from a bigger scheme of things.  
 **Translation:** 
 
 **[7433.78s] English:** Even if I think he's misguided.  
-**Translation:** Vocabulary: misguided: 方向错误
+**Translation:** Vocabulary: misguided: 方向错误的
 
 **[7434.78s] English:** Still, I can't deny it.  
 **Translation:** 
 
-**[7440.00s] English:** deny that it's a certain leap of faith from his perspective to try to say that this is the way  
+**[7440.00s] English:** Deny that it's a certain leap of faith, from his perspective, to try to say that this is the way.  
 **Translation:** 
 
-**[7446.36s] English:** we can all connect to our loved ones and because it is sincere and i see it now it's sincere and  
+**[7446.36s] English:** We can all connect to our loved ones, and because it is sincere, I see it now; it's sincere.  
 **Translation:** 
 
-**[7451.86s] English:** in fact in your interview you really teased it out of him and it was i was really moved by it i have  
+**[7451.86s] English:** In fact, in your interview, you really teased it out of him, and it was something I was really moved by. I have  
+**Translation:** Vocabulary: sincere: 真诚; teased: 挖掘
+
+**[7457.14s] English:** To say it's like he has mellowed a little bit, too, I said, "You know, it was really, really sweet when he...  
 **Translation:** 
 
-**[7457.14s] English:** to say it's like he has mellowed a little bit too i said you know it was really really sweet when he  
+**[7463.38s] English:** Talked about his father, and I can relate; you know, my father died four years ago, and I can relate.  
+**Translation:** Vocabulary: mellowed: 性格变温和了
+
+**[7468.70s] English:** What a heartbreak. Uh, I was much older than Ray was when his father died, but I can relate to this.  
 **Translation:** 
 
-**[7463.38s] English:** talked about his father and i can relate you know my father died four years ago and i can relate  
-**Translation:** Vocabulary: mellowed: 性情变温和
-
-**[7468.70s] English:** what a heartbreak uh i was much older than ray was when his father died but i can relate to this  
-**Translation:** 
-
-**[7475.46s] English:** um to this longing and that grief you know and when he is somebody sincere and he puts his  
+**[7475.46s] English:** Um, to this longing and that grief, you know, and when he is somebody sincere and he puts his  
 **Translation:** Vocabulary: heartbreak: 心碎
 
-**[7482.20s] English:** opens his cards and you know and says this is why that's what i want to do it because i want to  
+**[7482.20s] English:** He opens his cards and, you know, says, "This is why; that's what I want to do it because I want to.  
 **Translation:** 
 
-**[7489.72s] English:** recreate my father and i want to be able to talk to him this way  
+**[7489.72s] English:** Recreate my father, and I want to be able to talk to him this way.  
 **Translation:** Vocabulary: recreate: 重新创造
 
-**[7492.62s] English:** then we have a serious then we understand you know the opposite of it  
+**[7492.62s] English:** Then we have a serious situation, and then we understand the opposite of it.  
 **Translation:** 
 
-**[7498.42s] English:** you know the opposite of it and i can relate to this longing and that grief you know and when he  
+**[7498.42s] English:** You know, the opposite of it, and I can relate to this longing and that grief. You know, and when he...  
 **Translation:** 
 
-**[7498.70s] English:** would be not disclosing and just um  
+**[7498.70s] English:** Would be not disclosing, and just...  
 **Translation:** 
 
-**[7506.30s] English:** pretending that this is how it's supposed to be in a scientific term so he was replacing  
-**Translation:** Vocabulary: disclosing: 透露信息
-
-**[7511.90s] English:** the your real emotion but come from the heart by some kind of a theory which comes from the mind  
+**[7506.30s] English:** Pretending that this is how it's supposed to be in a scientific term, so he was replacing.  
 **Translation:** 
 
-**[7517.18s] English:** and this is where we can go astray because then we get become captives of  
-**Translation:** Vocabulary: astray: 偏离; captives: 俘虏
-
-**[7522.86s] English:** frameworks and conceptual systems which may not be beneficial to our society in  
+**[7511.90s] English:** The true emotion comes from the heart, not from some theory that comes from the mind.  
 **Translation:** 
 
-**[7528.70s] English:** the early days but we can assume that one day we are not going to be the real one  
+**[7517.18s] English:** And this is where we can go astray, because then we get captured by  
+**Translation:** Vocabulary: astray: 偏离正轨
+
+**[7522.86s] English:** Frameworks and conceptual systems which may not be beneficial to our society, in  
 **Translation:** 
 
-**[7532.06s] English:** that we could communicate to the world  
+**[7528.70s] English:** The early days, but we can assume that one day we are not going to be the real thing.  
+**Translation:** Vocabulary: beneficial: 有益的; conceptual: 概念性的
+
+**[7532.06s] English:** That we could communicate to the world.  
 **Translation:** 
 
-**[7532.78s] English:** now we were to let them let them do the work they wanted to do  
+**[7532.78s] English:** Now, we were going to let them do the work they wanted to do.  
 **Translation:** 
 
-**[7535.74s] English:** and i'm sure we will but in in the end i'm feeling very  
+**[7535.74s] English:** And I'm sure we will, but in the end, I'm feeling very  
 **Translation:** 
 
-**[7538.36s] English:** strongly that we need to look at this from the perspective of the world  
+**[7538.36s] English:** Strongly, we need to look at this from the perspective of the world.  
 **Translation:** 
 
-**[7542.14s] English:** because people are biting down on the world in a way that can change anything  
+**[7542.14s] English:** Because people are biting down on the world in a way that can change anything.  
 **Translation:** 
 
-**[7549.28s] English:** they will the very least we can do is turn the world away from us and turn the world against us  
+**[7549.28s] English:** They will, at the very least, be the least we can do is turn the world away from us and turn the world against us.  
 **Translation:** 
 
-**[7556.70s] English:** whether in the end we're going to be with the world or not  
+**[7556.70s] English:** Whether, in the end, we're going to be with the world or not.  
 **Translation:** 
 
-**[7557.90s] English:** and  
+**[7557.90s] English:** And  
 **Translation:** 
 
-**[7560.00s] English:** if, God forbid, something like a nuclear war began.  
+**[7560.00s] English:** If, God forbid, something like a nuclear war were to begin.  
 **Translation:** 
 
 **[7565.24s] English:** Because you look for people with a heart, no matter their ideas.  
@@ -4984,28 +4985,28 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[7569.08s] English:** That's right.  
 **Translation:** 
 
-**[7570.02s] English:** It takes courage and it takes a certain self-awareness, I would say.  
+**[7570.02s] English:** It takes courage and, I would say, a certain self-awareness.  
 **Translation:** 
 
-**[7574.16s] English:** And which brings me, you know, I think the crucial is that which was inscribed, you know,  
+**[7574.16s] English:** And which brings me to what I think is crucial: that which was inscribed.  
 **Translation:** 
 
-**[7579.08s] English:** on the temple of Apollo in Delphi.  
-**Translation:** Vocabulary: apollo: 阿波罗; delphi: 德尔菲; inscribed: 铭刻
-
-**[7581.18s] English:** It was a statement, know thyself, know yourself, you know, like, who am I?  
+**[7579.08s] English:** At the Temple of Apollo in Delphi.  
 **Translation:** 
 
-**[7585.34s] English:** Ultimately, it goes down to this and all these debates.  
+**[7581.18s] English:** It was a statement: "Know thyself," or "know yourself." You know, like, who am I?  
+**Translation:** 
+
+**[7585.34s] English:** Ultimately, it comes down to this, and all these debates.  
 **Translation:** Vocabulary: thyself: 你自己
 
-**[7588.60s] English:** And the point is that I used to be, like I said, you know, pessimistic at some point.  
+**[7588.60s] English:** And the point is that I used to be, like I said—你知道，at some point—I was pretty pessimistic.  
 **Translation:** 
 
-**[7593.66s] English:** And I was scared even of where development of AI was going.  
-**Translation:** Vocabulary: pessimistic: 悲观
+**[7593.66s] English:** And I was scared even about where AI development was going.  
+**Translation:** Vocabulary: pessimistic: 悲观的
 
-**[7598.20s] English:** This is about 2014, 2015.  
+**[7598.20s] English:** This is about 2014 and 2015.  
 **Translation:** 
 
 **[7601.54s] English:** And now I'm much more.  
@@ -5014,22 +5015,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[7603.20s] English:** So, for instance, after I saw Ray Kurzweil as a human being, after I could relate to him and sympathize with him,  
 **Translation:** 
 
-**[7612.40s] English:** suddenly I stopped seeing him in the news.  
-**Translation:** Vocabulary: kurzweil: 库兹韦尔; sympathize: 同情
+**[7612.40s] English:** Suddenly, I stopped seeing him in the news.  
+**Translation:** Vocabulary: sympathize: 同情
 
-**[7615.34s] English:** Like before that, I would always see him in the news saying,  
+**[7615.34s] English:** Like before, I would always see him in the news saying,  
 **Translation:** 
 
-**[7618.20s] English:** we're going to.  
+**[7618.20s] English:** We're going to.  
 **Translation:** 
 
-**[7618.60s] English:** We're going to put nanobots in your brain, da, da, da, by the year 2030, whatever, you know.  
+**[7618.60s] English:** We're going to put nanobots in your brain, da, da, da, by the year 2030, whatever—you know.  
 **Translation:** 
 
 **[7622.20s] English:** And then we upload you to the 21st.  
 **Translation:** Vocabulary: nanobots: 纳米机器人
 
-**[7624.28s] English:** And I would be like, no, you know, the story is terrible.  
+**[7624.28s] English:** And I would be like, "No, you know, the story is terrible.  
 **Translation:** 
 
 **[7627.66s] English:** Suddenly, I didn't see him anymore.  
@@ -5038,43 +5039,43 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[7629.94s] English:** I had to, you know.  
 **Translation:** 
 
-**[7631.22s] English:** So, now it makes me question, who was creating the trouble?  
+**[7631.22s] English:** So, now it makes me question: who was creating the trouble?  
 **Translation:** 
 
 **[7635.88s] English:** What was all within you?  
 **Translation:** 
 
-**[7636.70s] English:** Was it him who was creating the trouble or was it my mind?  
+**[7636.70s] English:** Was it him who was creating the trouble, or was it my mind?  
 **Translation:** 
 
 **[7640.26s] English:** You see?  
 **Translation:** 
 
-**[7641.14s] English:** And so, as I become, as I became self-aware, suddenly other possibilities opened.  
+**[7641.14s] English:** And so, as I became self-aware, suddenly other possibilities opened up.  
 **Translation:** 
 
 **[7647.58s] English:** And suddenly.  
 **Translation:** 
 
-**[7648.60s] English:** That conflict, which, by the way, if I kept giving this nasty, you know, talks about him,  
+**[7648.60s] English:** That conflict, which, by the way, if I kept giving these nasty talks about him,  
 **Translation:** 
 
-**[7654.42s] English:** one day, I suppose, we'd have a debate.  
+**[7654.42s] English:** One day, I suppose, we'd have a debate.  
 **Translation:** 
 
-**[7657.02s] English:** And so, you have this, one person stays this, and then that.  
+**[7657.02s] English:** And so, you have this: one person stays here, and then there.  
 **Translation:** 
 
 **[7660.78s] English:** Yeah.  
 **Translation:** 
 
-**[7661.28s] English:** And what I learned is that it never, it's a never-ending con, this conflict just does not end.  
+**[7661.28s] English:** And what I learned is that it never ends; it's a never-ending con. This conflict just doesn't end.  
 **Translation:** 
 
 **[7667.86s] English:** But there is an alternative.  
 **Translation:** 
 
-**[7668.88s] English:** There is a better way, which is to realize that it is you arguing with yourself.  
+**[7668.88s] English:** There is a better way, which is to realize that you are arguing with yourself.  
 **Translation:** 
 
 **[7675.24s] English:** Now, if you want to continue arguing with yourself.  
@@ -5086,220 +5087,220 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[7679.44s] English:** Continue.  
 **Translation:** 
 
-**[7680.00s] English:** long as you need just be careful not to destroy too many things you know in the process but there  
+**[7680.00s] English:** Long as you need, just be careful not to destroy too many things, you know, in the process, but there.  
 **Translation:** 
 
-**[7685.52s] English:** is an option of actually dropping it of actually dropping it this is so i was so surprised by this  
+**[7685.52s] English:** Is an option of actually dropping it, of actually dropping it. This is so; I was so surprised by this.  
 **Translation:** 
 
-**[7692.16s] English:** yeah it's discovering in yourself the capacity the human capacity for compassion and you understand  
-**Translation:** Vocabulary: compassion: 同情心
+**[7692.16s] English:** Yeah, it's discovering within yourself the capacity for human compassion, and you understand.  
+**Translation:** Vocabulary: compassion: 同情
 
-**[7698.08s] English:** that he has a perspective he is operating in the space of imagination a human being like you  
+**[7698.08s] English:** That he has a perspective; he is operating in the space of imagination, a human being like you.  
 **Translation:** 
 
-**[7704.16s] English:** and we're all in this kind of together but we're only seeing both ultimately and also it's like  
+**[7704.16s] English:** And we're all in this together, but we're only seeing parts of each other, ultimately, and it's like  
 **Translation:** 
 
-**[7708.64s] English:** with realizing how much i have screwed up you know comes this humility also yeah so like i  
+**[7708.64s] English:** With realizing how much I have screwed up, you know, comes this humility, also. Yeah, so like I  
 **Translation:** 
 
-**[7715.68s] English:** find it extremely hard now to like really lash out at somebody and to say like you're horrible  
+**[7715.68s] English:** It's now extremely hard for me to really lash out at someone and say you're horrible.  
 **Translation:** Vocabulary: humility: 谦逊
 
-**[7720.40s] English:** whatever because immediately the question is who am i to criticize you know so is there another way  
+**[7720.40s] English:** Whatever, because immediately the question is: "Who am I to criticize?" You know, so is there another way?  
 **Translation:** 
 
-**[7727.44s] English:** to have a dialogue is there a way to you know speaking you know since we talked about um  
+**[7727.44s] English:** To have a dialogue, is there a way to, you know, speaking, you know, since we talked about, um,...  
 **Translation:** 
 
-**[7733.44s] English:** the innocence of a child and how much it drives a discovery in science and so on you know i remember  
+**[7733.44s] English:** The innocence of a child, and how much it drives discovery in science and so on. You know, I remember  
 **Translation:** 
 
-**[7738.64s] English:** it was i think i heard that shanti who gave this nice example he's like when you're a kid you know  
+**[7738.64s] English:** It was, I think, I heard that Shanti gave this nice example: he's like when you're a kid, you know.  
 **Translation:** Vocabulary: innocence: 纯真
 
-**[7744.16s] English:** you go and you play with your friends and then you fight with another kid and he was like i hate you  
+**[7744.16s] English:** You go and you play with your friends, and then you fight with another kid, and he was like, "I hate you.  
 **Translation:** 
 
-**[7749.28s] English:** i don't want to see you again and you just go home like after half an hour okay what are you going to  
+**[7749.28s] English:** I don't want to see you again, and you just go home like after half an hour? Okay, what are you going to do?  
 **Translation:** 
 
-**[7753.04s] English:** do you want to play so you come out it's like hey you want to play you don't talk about what  
+**[7753.04s] English:** Do you want to play? So you come out, it's like, "Hey, you want to play." You don't talk about what.  
 **Translation:** 
 
-**[7759.20s] English:** happened you don't rehash this you know just keep going and sometimes i think we are on the verge  
-**Translation:** Vocabulary: rehash: 重新讨论; verge: 边缘
+**[7759.20s] English:** Happened, you don't need to rehash this, you know? Just keep going. Sometimes I think we are on the verge.  
+**Translation:** Vocabulary: verge: 边缘
 
-**[7766.08s] English:** maybe of learning that  
+**[7766.08s] English:** Maybe of learning that.  
 **Translation:** 
 
-**[7768.64s] English:** anything because i think that if we are can if we continue to push  
+**[7768.64s] English:** Anything because I think that if we are going to continue to push,  
 **Translation:** 
 
-**[7774.48s] English:** each of us our set of ideas and like ideologies and like you know what matters to us and so on  
+**[7774.48s] English:** Each of us has a set of ideas and ideologies, and what matters to us, and so on.  
 **Translation:** 
 
-**[7782.96s] English:** like yeah we know what matters to you but like there are other ways to approach other people  
+**[7782.96s] English:** Like, yeah, we know what matters to you, but like, there are other ways to approach other people.  
 **Translation:** Vocabulary: ideologies: 思想体系
 
-**[7788.16s] English:** there are other ways you can find point of contact speaking of which mathematics mathematical  
+**[7788.16s] English:** There are other ways you can find a point of contact. Speaking of which, mathematics is mathematical.  
 **Translation:** 
 
-**[7795.20s] English:** formulas are universal represent universal knowledge  
+**[7795.20s] English:** Formulas are universal, representing universal knowledge.  
 **Translation:** Vocabulary: formulas: 公式; mathematical: 数学的
 
 **[7798.64s] English:** Plus 2 is 4.  
 **Translation:** 
 
-**[7800.00s] English:** whether you vote for this guy or that guy in the election you know how about that as a com as point  
+**[7800.00s] English:** Whether you vote for this guy or that guy in the election, you know how about that as a common point.  
 **Translation:** 
 
-**[7805.28s] English:** of of contact of commonality you know and nobody can patent those formulas did you know that there  
+**[7805.28s] English:** Of commonality, you know, and nobody can patent those formulas. Did you know that?  
 **Translation:** 
 
-**[7811.60s] English:** is a supreme court decision that mathematical formulas cannot be patented like einstein could  
+**[7811.60s] English:** Is a Supreme Court decision that mathematical formulas cannot be patented, like Einstein's.  
 **Translation:** Vocabulary: cannot: 不能; patent: 专利
 
-**[7816.24s] English:** not patent equal e equals mc squared it doesn't belong to him because if the formula is correct  
+**[7816.24s] English:** Not exactly, Einstein's equation E = mc² doesn't belong to him because if the formula is correct, it predates his work.  
 **Translation:** 
 
-**[7822.64s] English:** then it belongs to everyone  
+**[7822.64s] English:** Then it belongs to everyone.  
+**Translation:** Vocabulary: equation: 等式; predates: 早于
+
+**[7823.84s] English:** So, what do you think of that all-too-tricky question? And if you want, I can deepen the bias.  
 **Translation:** 
 
-**[7823.84s] English:** so what do you think of that all too tricky question and if you want i can deeply bias  
+**[7831.84s] English:** Your answer by giving the list of four that Eric provided, oh, no! Let me give it a try. I cannot see.  
+**Translation:** Vocabulary: deepen: 加深
+
+**[7836.72s] English:** By the way, what you have, so but I can guess some of them, so I'm going to try to do something.  
 **Translation:** 
 
-**[7831.84s] English:** your answer by giving the list of four that eric provided oh no let me give my mind i cannot see  
+**[7842.40s] English:** Different from him, so I already mentioned one: which is that you have one-dimensional.  
 **Translation:** 
 
-**[7836.72s] English:** by the way what you have so but i can guess some of them so i'm going to try to do something  
+**[7848.80s] English:** Numerical system: which is real numbers; you have two-dimensional, which is complex numbers; you have  
 **Translation:** 
 
-**[7842.40s] English:** different from him so i already mentioned one which is that you have one dimensional  
+**[7853.12s] English:** Four-dimensional  
+**Translation:** Vocabulary: numerical: 数字的
+
+**[7854.08s] English:** And it's kind of probably connected to what he wrote, because it has to do with some homotopic.  
 **Translation:** 
 
-**[7848.80s] English:** numerical system which is real numbers you have two dimensional which is complex numbers you have  
+**[7858.24s] English:** Groups of spheres and stuff like that, then of course, one: I love it. One plus two plus three.  
+**Translation:** Vocabulary: homotopic: 同伦的; spheres: 球体
+
+**[7865.84s] English:** Plus, four, plus five, plus six, and so on — does it make any sense? The sum, I mean; you probably heard  
 **Translation:** 
 
-**[7853.12s] English:** four dimensional  
+**[7874.48s] English:** About this one, it became very popular at some point: 1 + 2 + 3. I did, I did a video.  
 **Translation:** 
 
-**[7854.08s] English:** and it's kind of it's probably connected to what he wrote because has to do with some homotopic  
+**[7880.08s] English:** For number file, the YouTube channel about it maybe 10 years ago, so what do you think of that?  
 **Translation:** 
 
-**[7858.24s] English:** groups of spheres and stuff like that then of course one i love okay one plus two plus three  
-**Translation:** Vocabulary: homotopic: 同伦的
-
-**[7865.84s] English:** plus four plus five plus six and so on does it make any sense the sum i mean you probably heard  
-**Translation:** 
-
-**[7874.48s] English:** about this one it became a very popular at some point one plus two plus three i did i did a video  
-**Translation:** 
-
-**[7880.08s] English:** for number file the the youtube channel about it maybe 10 years ago so what do you think of that  
-**Translation:** 
-
-**[7883.12s] English:** so one plus two plus three plus four plus five ostensibly uh diverges goes to infinity because  
+**[7883.12s] English:** So, one plus two plus three plus four plus five ostensibly diverges and goes to infinity, because  
 **Translation:** Vocabulary: diverges: 发散; infinity: 无穷大; ostensibly: 表面上
 
-**[7890.72s] English:** you get a bigger and bigger number and yet there is a way to make sense of it in which it it comes  
+**[7890.72s] English:** You get a bigger and bigger number, and yet there's a way to make sense of it in which it all comes together.  
 **Translation:** 
 
-**[7897.44s] English:** up to minus one over twelve how fascinating first of all the answer is not even a positive number  
+**[7897.44s] English:** Up to minus one over twelve—how fascinating! First of all, the answer is not even a positive number.  
 **Translation:** 
 
-**[7903.68s] English:** and it's not an integer it's not a whole number it's minus one over twelve so sometimes people  
+**[7903.68s] English:** And it's not an integer; it's not a whole number. It's minus one over twelve, so sometimes people  
 **Translation:** 
 
-**[7907.76s] English:** ask me what is your favorite number and it's a kind of a joke i say minus one over twelve  
+**[7907.76s] English:** Ask me what my favorite number is, and it's a kind of a joke I say, "minus one over twelve.  
 **Translation:** Vocabulary: integer: 整数
 
-**[7913.12s] English:** it's actually 42. so your favorite number is not an ordered set  
+**[7913.12s] English:** It's actually 42. So, your favorite number is not an ordered set.  
 **Translation:** 
 
-**[7920.00s] English:** uh right so what else what else uh so language program of course i have to mention that  
+**[7920.00s] English:** Uh, right. So, what else? What else, uh, so the language program—of course, I have to mention that.  
 **Translation:** 
 
-**[7925.30s] English:** and we'll we'll explore that in depth do you want do you want to know what eric said  
+**[7925.30s] English:** And we'll explore that in depth. Do you want to know what Eric said?  
 **Translation:** 
 
-**[7929.06s] English:** sure sphere aversion boy's surface hop vibration cofibration okay and pi one of  
+**[7929.06s] English:** Sure, sphere aversion, boy's surface, hopf vibration, cofibration, okay, and π-one.  
 **Translation:** Vocabulary: aversion: 厌恶; cofibration: 纤维化; vibration: 振动
 
-**[7939.34s] English:** so3 okay oh yes so that's the that's the famous cup trick you know okay look so this is how it  
+**[7939.34s] English:** So, okay, oh, yes. That's the famous cup trick, you know? Okay, look. So, this is how it works.  
 **Translation:** 
 
-**[7946.40s] English:** works no tricks no tricks no honest it is magical okay but not because i'm tricking you so you start  
+**[7946.40s] English:** Works, no tricks, no tricks, no honest; it is magical, okay, but not because I'm tricking you. So you start.  
 **Translation:** Vocabulary: tricking: 欺骗
 
-**[7956.40s] English:** with a bottle like this or a cup and you start twisting it and the same time you twist your  
+**[7956.40s] English:** With a bottle like this, or a cup, and you start twisting it, and at the same time, you twist your  
 **Translation:** 
 
-**[7962.40s] English:** your arm then you come so this is actually going to um rotate it 360 degrees the full turn then  
+**[7962.40s] English:** Your arm, then you come so this is actually going to rotate it 360 degrees, the full turn, then.  
 **Translation:** Vocabulary: rotate: 旋转; twisting: 拧动
 
-**[7970.70s] English:** you say okay i'm going i won't be able to do another turn because then my arm would really  
+**[7970.70s] English:** You say, "Okay, I'm going; I won't be able to do another turn because then my arm would really...  
 **Translation:** 
 
-**[7975.02s] English:** get twisted i'll have to go see a  
+**[7975.02s] English:** Get twisted; I'll have to go see a  
+**Translation:** Vocabulary: twisted: 扭伤
+
+**[7976.40s] English:** Dog, yet if I do it a second time, it untwists. This is one of the pi bonds in SO3, Eric is talking about, yes, so  
 **Translation:** 
 
-**[7976.40s] English:** dog yet if i do it second time it untwists this is the pi one of so3 eric is talking about yes so  
+**[7986.40s] English:** There is something where the first motion is not trivial, but if you double down on it, you come back.  
+**Translation:** Vocabulary: trivial: 微不足道; untwists: 恢复原状
+
+**[7992.90s] English:** To the initial position, it's very closely connected to the fact that we have elementary particles of.  
 **Translation:** 
 
-**[7986.40s] English:** there is something where the first motion is not trivial but if you double down on it you come back  
-**Translation:** Vocabulary: untwists: 解开
+**[7998.36s] English:** Two types: bosons and fermions. So, bosons are, for example, photons or carriers of other forces, or  
+**Translation:** Vocabulary: bosons: 玻色子; fermions: 费米子; particles: 粒子; photons: 光子
 
-**[7992.90s] English:** to the initial position it's very closely connected to the fact that we have elementary particles of  
+**[8005.82s] English:** The Higgs boson  
 **Translation:** 
 
-**[7998.36s] English:** two types bosons and fermions so bosons are for example photons or carriers of other forces or  
-**Translation:** Vocabulary: bosons: 玻色子; fermions: 费米子; photons: 光子
-
-**[8005.82s] English:** the higgs boson  
-**Translation:** 
-
-**[8006.40s] English:** it is called a boson for a reason because it is a boson uh in in honor of indian mathematician  
+**[8006.40s] English:** It is called a boson for a reason, because it is a boson — in honor of Indian mathematician.  
 **Translation:** Vocabulary: boson: 玻色子; higgs: 希格斯; mathematician: 数学家
 
-**[8012.98s] English:** bose b-o-s-e and einstein so these particles obey what's called both einstein statistics  
+**[8012.98s] English:** Bose-Einstein, and Einstein statistics, so these particles obey what's called Bose-Einstein statistics.  
 **Translation:** 
 
-**[8020.14s] English:** but then there are other particles called fermions in honor of enrico fermi italian-born mathematician  
-**Translation:** Vocabulary: einstein: 爱因斯坦; fermi: 费米
+**[8020.14s] English:** But then, there are other particles called fermions, in honor of Enrico Fermi, an Italian-born physicist.  
+**Translation:** Vocabulary: einstein: 爱因斯坦; fermi: 费米; physicist: 物理学家
 
-**[8027.78s] English:** who worked in in the u.s and and they follow what's called dirac fermi statistics and those  
+**[8027.78s] English:** Who worked in the U.S. and followed what's called Dirac-Fermi statistics, and those.  
 **Translation:** 
 
-**[8034.98s] English:** are electrons and  
-**Translation:** Vocabulary: dirac: 狄拉克
+**[8034.98s] English:** Are electrons and  
+**Translation:** Vocabulary: electrons: 电子
 
-**[8036.40s] English:** constituents of matter electrons protons neutrons and so on  
+**[8036.40s] English:** Constituents of matter: electrons, protons, neutrons, and so on.  
 **Translation:** 
 
 **[8040.00s] English:** And they have a certain duplicity, if you will.  
-**Translation:** Vocabulary: constituents: 组成成分; neutrons: 中子
+**Translation:** Vocabulary: constituents: 物质组成; duplicity: 双重性; neutrons: 中子; protons: 质子
 
-**[8044.20s] English:** And that duplicity is rooted mathematically in this experiment,  
+**[8044.20s] English:** And that duplicity is rooted mathematically in this experiment.  
 **Translation:** 
 
-**[8048.10s] English:** this little experiment that I have just done.  
-**Translation:** Vocabulary: duplicity: 虚伪; mathematically: 从数学上
+**[8048.10s] English:** This little experiment that I have just done.  
+**Translation:** Vocabulary: mathematically: 从数学上
 
-**[8051.20s] English:** So I imagine, speaking of imagination, okay?  
+**[8051.20s] English:** So, I imagine, speaking of imagination, okay?  
 **Translation:** 
 
-**[8054.10s] English:** So I'm just kind of riffing on this.  
-**Translation:** Vocabulary: riffing: 即兴演奏
+**[8054.10s] English:** So, I'm just kind of riffing on this.  
+**Translation:** Vocabulary: riffing: 即兴发挥
 
 **[8056.16s] English:** Imagine a world in which this will not be shocking or like,  
 **Translation:** 
 
-**[8060.82s] English:** in this case, it's not even shocking because I haven't really explained the details  
+**[8060.82s] English:** In this case, it's not even shocking because I haven't really explained the details.  
 **Translation:** 
 
-**[8064.04s] English:** because I can't do it in two minutes.  
+**[8064.04s] English:** Because I can't do it in two minutes.  
 **Translation:** 
 
 **[8066.26s] English:** I indicated what this is all about.  
@@ -5308,52 +5309,52 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8069.74s] English:** And so on.  
 **Translation:** 
 
-**[8071.26s] English:** But imagine a world in which this is not foreign to most people,  
+**[8071.26s] English:** But imagine a world in which this is not foreign to most people.  
 **Translation:** 
 
-**[8075.02s] English:** that most people have seen it before.  
+**[8075.02s] English:** That most people have seen it before.  
 **Translation:** 
 
 **[8076.66s] English:** They're not afraid to approach this type of questions.  
 **Translation:** 
 
-**[8080.22s] English:** Because, you know, we talked a little bit about mass education,  
+**[8080.22s] English:** Because, you know, we talked a little bit about mass education.  
 **Translation:** 
 
-**[8084.18s] English:** but I really believe that a lot of people in our society,  
+**[8084.18s] English:** But I really believe that a lot of people in our society,  
 **Translation:** 
 
-**[8087.10s] English:** and it is not only in the United States, but throughout the world,  
+**[8087.10s] English:** And it is not only in the United States, but throughout the world,  
 **Translation:** 
 
-**[8091.20s] English:** a lot of people have been traumatized.  
+**[8091.20s] English:** A lot of people have been traumatized.  
 **Translation:** Vocabulary: traumatized: 受到创伤
 
 **[8093.76s] English:** It's really PTSD.  
 **Translation:** 
 
-**[8095.36s] English:** That's why people, when they see mass microformula or like,  
+**[8095.36s] English:** That's why people, when they see mass micro-formula or something like it,  
 **Translation:** 
 
-**[8098.50s] English:** even like calculators,  
+**[8098.50s] English:** Even like calculators,  
 **Translation:** 
 
-**[8099.78s] English:** they need to calculate a tip on a bill.  
+**[8099.78s] English:** They need to calculate a tip on a bill.  
 **Translation:** Vocabulary: calculators: 计算器
 
-**[8101.96s] English:** It's just they're terrified because it brings up those memories  
+**[8101.96s] English:** It's just that they're terrified because it brings up those memories.  
 **Translation:** 
 
-**[8104.84s] English:** when they were kids and being called to Blackboard  
+**[8104.84s] English:** When they were kids, they were being called to Blackboard.  
 **Translation:** 
 
-**[8109.50s] English:** and solve a problem.  
+**[8109.50s] English:** And solve a problem.  
 **Translation:** 
 
 **[8113.40s] English:** You can't solve a problem.  
 **Translation:** 
 
-**[8114.40s] English:** An unscrupulous teacher says, you're an idiot.  
+**[8114.40s] English:** An unscrupulous teacher says, "You're an idiot.  
 **Translation:** 
 
 **[8116.48s] English:** Sit down.  
@@ -5371,49 +5372,49 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8125.88s] English:** But one can dream.  
 **Translation:** 
 
-**[8127.28s] English:** And so my dream is that one day,  
+**[8127.28s] English:** And so, my dream is that one day,  
 **Translation:** 
 
-**[8128.76s] English:** we'll be able to overcome this.  
+**[8128.76s] English:** We'll be able to overcome this.  
 **Translation:** 
 
-**[8131.54s] English:** And actually, all of these treasures of mathematics  
+**[8131.54s] English:** And actually, all of these treasures of mathematics.  
 **Translation:** 
 
-**[8134.24s] English:** will become widely available,  
+**[8134.24s] English:** Will become widely available,  
 **Translation:** 
 
-**[8138.00s] English:** or at least people will know where to find them.  
+**[8138.00s] English:** Or, at least, people will know where to find them.  
 **Translation:** 
 
 **[8140.08s] English:** And they will not be afraid of going there and looking.  
 **Translation:** 
 
-**[8143.12s] English:** And I think this will help because, like I said,  
+**[8143.12s] English:** And I think this will help because, as I said,  
 **Translation:** 
 
-**[8144.76s] English:** for one thing, it gives you a sense of belonging.  
+**[8144.76s] English:** For one thing, it gives you a sense of belonging.  
 **Translation:** 
 
-**[8148.12s] English:** It gives you, it kind of is an antidote  
+**[8148.12s] English:** It gives you kind of an antidote.  
 **Translation:** 
 
-**[8151.04s] English:** to the kind of alienation and separation that we feel today,  
+**[8151.04s] English:** To the kind of alienation and separation that we feel today,  
 **Translation:** Vocabulary: alienation: 疏离感; antidote: 解药
 
-**[8154.62s] English:** oftentimes because of ideological divide,  
+**[8154.62s] English:** Oftentimes, because of ideological divide,  
 **Translation:** 
 
-**[8157.86s] English:** sectarian strife.  
-**Translation:** Vocabulary: ideological: 思想上的; oftentimes: 常常; sectarian: 教派的; strife: 纷争
+**[8157.86s] English:** Sectarian strife.  
+**Translation:** Vocabulary: ideological: 思想上的; oftentimes: 经常; sectarian: 教派的; strife: 纷争
 
-**[8158.76s] English:** And all kinds of things like that.  
+**[8158.76s] English:** And all kinds of things, like that.  
 **Translation:** 
 
-**[8160.00s] English:** Because then you will, once you see there's like a critical mass of this beauty that kind of like dawns on you, it's like, my God, this is what we all have in common.  
+**[8160.00s] English:** Because then you will, once you see there's like a critical mass of this beauty, that kind of dawns on you: "My God, this is what we all have in common.  
 **Translation:** 
 
-**[8172.28s] English:** You mentioned Langlands program.  
+**[8172.28s] English:** You mentioned the Langlands program.  
 **Translation:** 
 
 **[8174.64s] English:** We have to talk about it.  
@@ -5431,34 +5432,34 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8182.94s] English:** Sure.  
 **Translation:** 
 
-**[8183.34s] English:** So Langlands is a mathematician.  
+**[8183.34s] English:** So, Langlands is a mathematician.  
 **Translation:** 
 
-**[8187.90s] English:** It's a name of a mathematician.  
+**[8187.90s] English:** It's the name of a mathematician.  
 **Translation:** Vocabulary: mathematician: 数学家
 
 **[8189.50s] English:** Robert Langlands.  
 **Translation:** 
 
-**[8192.48s] English:** Canadian born, still alive.  
+**[8192.48s] English:** Canadian-born, still alive.  
 **Translation:** 
 
-**[8195.18s] English:** He was a professor at the Institute for Advanced Study that we talked about where Einstein and Gödel and other great scientists have worked.  
+**[8195.18s] English:** He was a professor at the Institute for Advanced Study, which we talked about, where Einstein and Gödel and other great scientists have worked.  
 **Translation:** 
 
 **[8204.22s] English:** In fact, he used to occupy the office of Albert Einstein at the Institute for Advanced Study.  
 **Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[8209.96s] English:** So he, in the late 60s, he came up with a set of ideas which captivated.  
+**[8209.96s] English:** So, in the late 1960s, he came up with a set of ideas that captivated.  
 **Translation:** 
 
-**[8219.50s] English:** A lot of mathematicians, several generations of mathematicians by now, which came to be known as the Langlands program.  
+**[8219.50s] English:** A lot of mathematicians, several generations of mathematicians by now, have come to be known as the Langlands program.  
 **Translation:** Vocabulary: captivated: 深深吸引; mathematicians: 数学家
 
 **[8227.18s] English:** And what it is about is connecting different fields of mathematics, which seem to be far away from each other.  
 **Translation:** 
 
-**[8233.10s] English:** For example, number theory, which, as the name suggests, deals with numbers and various equations with, you know, like x squared plus y squared equals one.  
+**[8233.10s] English:** For example, number theory, which, as the name suggests, deals with numbers and various equations, such as \(x^2 + y^2 = 1\).  
 **Translation:** Vocabulary: equations: 方程
 
 **[8247.38s] English:** And on the other side.  
@@ -5467,16 +5468,16 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8250.14s] English:** Harmonic analysis.  
 **Translation:** Vocabulary: harmonic: 谐波
 
-**[8253.10s] English:** Something that any music lover can appreciate because the sound of a symphony can be kind of decomposed into sounds of different instruments.  
+**[8253.10s] English:** Something that any music lover can appreciate, because the sound of a symphony can be kind of decomposed into sounds of different instruments.  
 **Translation:** 
 
-**[8262.44s] English:** And each of those sounds can be represented by a wave like this, like a sine function.  
+**[8262.44s] English:** And each of those sounds can be represented by a wave, like this, like a sine function.  
 **Translation:** Vocabulary: decomposed: 分解
 
 **[8267.62s] English:** Those are the harmonics.  
 **Translation:** 
 
-**[8269.10s] English:** They are still a period of a harmonic.  
+**[8269.10s] English:** They are still a period of harmony.  
 **Translation:** Vocabulary: harmonics: 谐波
 
 **[8272.18s] English:** Periods of different notes are different.  
@@ -5491,181 +5492,181 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8279.50s] English:** They combine together.  
 **Translation:** 
 
-**[8280.00s] English:** into something special, which cannot be reduced to any one of those.  
+**[8280.00s] English:** Into something special, which cannot be reduced to any one of those.  
 **Translation:** 
 
-**[8286.72s] English:** So mathematically, it's the idea that you can decompose a signal  
-**Translation:** Vocabulary: cannot: 不能; decompose: 分解; mathematically: 数学上
+**[8286.72s] English:** So, mathematically, it's the idea that you can decompose a signal.  
+**Translation:** 
 
-**[8290.88s] English:** as a collection, as a simultaneous oscillation of several elementary signals.  
+**[8290.88s] English:** As a collection, it is a simultaneous oscillation of several elementary signals.  
 **Translation:** 
 
 **[8298.90s] English:** That's called harmonic analysis.  
 **Translation:** Vocabulary: oscillation: 振动; simultaneous: 同时
 
-**[8301.96s] English:** So what Langlands found is that some really difficult questions  
+**[8301.96s] English:** So, what Langlands found is that some really difficult questions  
 **Translation:** 
 
-**[8304.86s] English:** in number theory can be translated into much more easily tractable  
-**Translation:** Vocabulary: langlands: 拉格朗日; tractable: 可解决
+**[8304.86s] English:** In number theory, concepts can be translated into much more easily tractable forms.  
+**Translation:** Vocabulary: langlands: 拉格朗日; tractable: 易处理的
 
-**[8309.98s] English:** questions in harmonic analysis.  
+**[8309.98s] English:** Questions in harmonic analysis.  
 **Translation:** 
 
 **[8312.50s] English:** That was his initial idea.  
 **Translation:** 
 
-**[8315.10s] English:** But what happened next surprised everybody,  
+**[8315.10s] English:** But what happened next surprised everybody.  
 **Translation:** 
 
-**[8318.34s] English:** that the kind of patterns that he was able to observe,  
+**[8318.34s] English:** That the kind of patterns he was able to observe,  
 **Translation:** 
 
-**[8321.02s] English:** the kind of regularities that he was able to observe,  
+**[8321.02s] English:** The kind of regularities that he was able to observe,  
 **Translation:** 
 
-**[8322.98s] English:** which were quite surprising, were subsequently found  
+**[8322.98s] English:** Which were quite surprising were subsequently found.  
+**Translation:** Vocabulary: subsequently: 随后
+
+**[8326.00s] English:** In other areas of mathematics, for example, in geometry,  
 **Translation:** 
 
-**[8326.00s] English:** in other areas of mathematics, for example, in geometry,  
+**[8330.22s] English:** And eventually, in quantum physics.  
+**Translation:** Vocabulary: geometry: 几何; quantum: 量子
+
+**[8333.08s] English:** So, in fact, Ed Whitten, who is kind of a dean of modern theoretical physicists,  
 **Translation:** 
 
-**[8330.22s] English:** and eventually in quantum physics.  
-**Translation:** Vocabulary: geometry: 几何
-
-**[8333.08s] English:** So in fact, Ed Whitten, who is kind of a dean of modern theoretical physicists,  
-**Translation:** 
-
-**[8339.12s] English:** a professor.  
+**[8339.12s] English:** A professor.  
 **Translation:** Vocabulary: physicists: 物理学家
 
-**[8339.98s] English:** He's at the Institute for Advanced Study as well,  
+**[8339.98s] English:** He's also at the Institute for Advanced Study.  
 **Translation:** 
 
-**[8342.50s] English:** got interested in this subject.  
+**[8342.50s] English:** Got interested in this subject.  
 **Translation:** 
 
 **[8343.86s] English:** I describe in my book how it happened.  
 **Translation:** 
 
-**[8347.30s] English:** And he was instrumental in bridging the gap between these patterns  
+**[8347.30s] English:** And he was instrumental in bridging the gap between these patterns.  
 **Translation:** 
 
-**[8354.08s] English:** found in physics and in geometry, finding kind of a superstratum,  
+**[8354.08s] English:** Found in physics and in geometry, finding a kind of superstratum,  
 **Translation:** 
 
-**[8361.20s] English:** if you will, or kind of a way to connect these two things,  
+**[8361.20s] English:** If you will, or in a way to connect these two things,  
 **Translation:** Vocabulary: superstratum: 高层结构
 
-**[8364.62s] English:** kind of a bridge between these two fields.  
+**[8364.62s] English:** Kind of a bridge between these two fields.  
 **Translation:** 
 
-**[8366.62s] English:** So subsequently, I collaborate with Whitten,  
+**[8366.62s] English:** So, subsequently, I collaborate with Whitten.  
 **Translation:** Vocabulary: collaborate: 合作
 
-**[8369.54s] English:** on this, and this has been one of the major themes of my research.  
+**[8369.54s] English:** On this, and this has been one of the major themes of my research.  
 **Translation:** 
 
-**[8374.58s] English:** It's sort of, I always found it interesting to connect things,  
+**[8374.58s] English:** It's sort of interesting to me to connect things, I always found.  
+**Translation:** Vocabulary: themes: 主题
+
+**[8379.98s] English:** To unite things.  
 **Translation:** 
 
-**[8379.98s] English:** to unite things.  
+**[8382.90s] English:** When I was younger, I couldn't understand why.  
 **Translation:** 
 
-**[8382.90s] English:** When I was younger, I couldn't understand why,  
+**[8386.94s] English:** But I was always interested in not working in a specific field.  
 **Translation:** 
 
-**[8386.94s] English:** but I was always interested in, not in working in specific field,  
-**Translation:** 
-
-**[8393.50s] English:** but kind of cutting across fields.  
+**[8393.50s] English:** But kind of cutting across fields.  
 **Translation:** 
 
 **[8396.54s] English:** And  
 **Translation:** 
 
-**[8399.54s] English:** then I  
+**[8399.54s] English:** Then I  
 **Translation:** 
 
 **[8400.00s] English:** I would discover that, for instance, I took some people who know what happens in this field, but  
 **Translation:** 
 
-**[8405.60s] English:** don't know what happens in their field, or conversely. And then I would find it  
+**[8405.60s] English:** Don't know what happens in their field, or conversely. And then I would find it.  
 **Translation:** Vocabulary: conversely: 相反地
 
-**[8412.56s] English:** imperative to go out and explain to them, to the different sides, what this is all about,  
+**[8412.56s] English:** It's imperative to go out and explain to them, to the different sides, what this is all about.  
 **Translation:** 
 
-**[8419.36s] English:** so that more people are aware of these hidden structures, of these hidden  
+**[8419.36s] English:** So that more people are aware of these hidden structures.  
 **Translation:** Vocabulary: imperative: 至关重要
 
-**[8423.60s] English:** parallels, if you will. So that has been sort of a theme in my research.  
+**[8423.60s] English:** Parallels, if you will. So that has been sort of a theme in my research.  
 **Translation:** 
 
-**[8428.72s] English:** And so I guess now I kind of understand more why it's kind of a balance, like what we talked about  
+**[8428.72s] English:** And so, I guess, now I kind of understand more why it's kind of a balance, like what we talked about.  
 **Translation:** 
 
-**[8435.68s] English:** earlier. So can you elucidate a little bit, what are the mathematical tools that allow you to  
+**[8435.68s] English:** Earlier. So, could you elucidate a little bit what mathematical tools allow you to?  
 **Translation:** 
 
-**[8443.20s] English:** connect these different continents of mathematics? Is there something you can convert into words  
-**Translation:** Vocabulary: elucidate: 阐明; mathematical: 数学的
+**[8443.20s] English:** Connect these different continents of mathematics? Is there something that can be converted into words?  
+**Translation:** Vocabulary: converted: 转换; elucidate: 阐述; mathematical: 数学的
 
-**[8451.44s] English:** that Langlands was able to find, and you were able to explore further?  
+**[8451.44s] English:** That Langlands was able to find, and you were able to explore further?  
 **Translation:** 
 
-**[8455.20s] English:** I would say what it suggests is that there  
-**Translation:** 
-
-**[8458.64s] English:** is something you can convert into words that Langlands was able to find, and you were able to explore further. I would say what it suggests is that there is  
-**Translation:** 
-
-**[8458.72s] English:** some hidden principles which we still don't understand. My view is that we still don't know  
+**[8455.20s] English:** I would say what it suggests is that there.  
 **Translation:** Vocabulary: langlands: 拉格朗日
 
-**[8465.04s] English:** why, that we can prove some instances of these correspondences and connections, but we still  
+**[8458.64s] English:** Is something you can convert into words that Langlands was able to find, and you were able to explore further. I would say that it suggests there is  
 **Translation:** 
 
-**[8474.40s] English:** don't know the real underlying reasons, which means that there is a certain layer beneath the  
+**[8458.72s] English:** Some hidden principles which we still don't understand. My view is that we still don't know.  
+**Translation:** Vocabulary: convert: 转换
+
+**[8465.04s] English:** Why, we can prove some instances of these correspondences and connections, but we still  
+**Translation:** 
+
+**[8474.40s] English:** Don't know the real underlying reasons, which means that there is a certain layer beneath the  
 **Translation:** Vocabulary: correspondences: 对应关系
 
-**[8480.96s] English:** surface that we see now. So the way I see it now is like this, that there is something  
+**[8480.96s] English:** Surface that we see now. So, the way I see it now is like this: that there is something.  
 **Translation:** 
 
-**[8488.08s] English:** three-dimensional, like this bottle, but what we are seeing is this projection onto the table,  
+**[8488.08s] English:** Three-dimensional, like this bottle, but what we are seeing is a projection onto the table.  
+**Translation:** Vocabulary: projection: 投影
+
+**[8493.12s] English:** And the projection onto a wall. And then we can map things from one projection to another.  
 **Translation:** 
 
-**[8493.12s] English:** and the projection onto a wall. And then we can map things from one projection to another,  
+**[8497.28s] English:** And you say, "Oh my God, that's incredible." But the real explanation is that both of them are  
 **Translation:** 
 
-**[8497.28s] English:** and you say, oh my God, that's incredible. But the real explanation is that both of them are  
+**[8502.16s] English:** Projections of the same thing, and that we haven't found yet. But that's what I want to find. So,...  
 **Translation:** 
 
-**[8502.16s] English:** projections of the same thing, and that we haven't found yet. But that's what I want to find. So  
+**[8506.56s] English:** That's what motivates me, I would say: from number theory to geometry to quantum physics.  
+**Translation:** Vocabulary: geometry: 几何; motivates: 激励; projections: 投影; quantum: 量子
+
+**[8513.12s] English:** So, there is one thing which has different projections, except it's not just the table.  
 **Translation:** 
 
-**[8506.56s] English:** that's what motivates me, I would say. From number theory to geometry to quantum physics.  
-**Translation:** Vocabulary: geometry: 几何; motivates: 激励; projections: 投影
-
-**[8513.12s] English:** So there is this one thing which has different projections, except it's not just the table,  
+**[8518.00s] English:** And the wall, but there are many different  
 **Translation:** 
 
-**[8518.00s] English:** and the wall, but there are many different  
+**[8520.00s] English:** Walls, if you will.  
 **Translation:** 
 
-**[8520.00s] English:** walls, if you will.  
+**[8522.24s] English:** So, what is the philosophical implication that there are commonalities like that across?  
+**Translation:** Vocabulary: implication: 暗示; philosophical: 哲学的
+
+**[8528.60s] English:** These very disparate fields?  
 **Translation:** 
 
-**[8522.24s] English:** So what is the philosophical implication that there is commonalities like that across  
-**Translation:** Vocabulary: implication: 含义; philosophical: 哲学的
-
-**[8528.60s] English:** these very disparate fields?  
-**Translation:** 
-
-**[8530.44s] English:** It means that what we believe are the fundamental elements of mathematics are not  
+**[8530.44s] English:** It means that what we believe are the fundamental elements of mathematics are not.  
 **Translation:** Vocabulary: disparate: 不相关
 
-**[8537.74s] English:** fundamental.  
+**[8537.74s] English:** Fundamental.  
 **Translation:** 
 
 **[8538.74s] English:** There is something beyond.  
@@ -5674,25 +5675,25 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8539.74s] English:** It's like we previously thought that atoms were indivisible.  
 **Translation:** 
 
-**[8544.60s] English:** Then we found out that there is nucleus and electrons, and the nucleus consists of protons  
-**Translation:** Vocabulary: indivisible: 不可分割
+**[8544.60s] English:** Then we found out that there are nuclei and electrons, and the nucleus consists of protons.  
+**Translation:** Vocabulary: electrons: 电子; nuclei: 原子核; nucleus: 原子核; protons: 质子
 
-**[8548.76s] English:** and neutrons.  
+**[8548.76s] English:** And neutrons.  
 **Translation:** 
 
-**[8549.76s] English:** Then we thought, okay, protons and neutrons must be elementary.  
-**Translation:** 
+**[8549.76s] English:** Then we thought: okay, protons and neutrons must be elementary.  
+**Translation:** Vocabulary: neutrons: 中子
 
 **[8553.34s] English:** Now we know they consist of quarks.  
 **Translation:** 
 
-**[8555.98s] English:** So it's about kind of finding the quarks of mathematics.  
+**[8555.98s] English:** So, it's about kind of finding the quarks of mathematics.  
 **Translation:** Vocabulary: quarks: 基本粒子
 
 **[8558.94s] English:** Of course, beyond that, there's maybe even more.  
 **Translation:** 
 
-**[8562.52s] English:** Which was my initial motivation to study mathematics, by the way, right?  
+**[8562.52s] English:** Which was my initial motivation to study mathematics, by the way? Right?  
 **Translation:** 
 
 **[8566.70s] English:** Quarks was the first time you fell in love with understanding the nature of reality.  
@@ -5701,17 +5702,17 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8571.04s] English:** Yeah.  
 **Translation:** 
 
-**[8572.04s] English:** What was it like working with Ed Witten, who many people say is one of the smartest  
+**[8572.04s] English:** What was it like working with Ed Witten, who many people say is one of the smartest?  
 **Translation:** 
 
-**[8578.54s] English:** humans in history?  
-**Translation:** 
+**[8578.54s] English:** Humans in history?  
+**Translation:** Vocabulary: witten: 威腾
 
-**[8579.54s] English:** Or at least a mathematical physicist in history?  
+**[8579.54s] English:** Or, at least, a mathematical physicist in history?  
 **Translation:** 
 
 **[8584.54s] English:** Yes.  
-**Translation:** 
+**Translation:** Vocabulary: mathematical: 数学的; physicist: 物理学家
 
 **[8585.54s] English:** Fascinating.  
 **Translation:** 
@@ -5719,13 +5720,13 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8586.54s] English:** I enjoyed it very much.  
 **Translation:** 
 
-**[8588.58s] English:** I also felt that I have to keep up, you know?  
+**[8588.58s] English:** I also felt that I had to keep up, you know?  
 **Translation:** 
 
-**[8591.96s] English:** And so we wrote this long paper in 2007, and we collaborated for about a year.  
-**Translation:** Vocabulary: collaborated: 合作
+**[8591.96s] English:** And so, we wrote this long paper in 2007, and we collaborated for about a year.  
+**Translation:** 
 
-**[8599.16s] English:** I have known him before, and we talked before, and I've seen him since, and we talked.  
+**[8599.16s] English:** I have known him before, and we talked before. And I've seen him since, and we talked.  
 **Translation:** 
 
 **[8604.76s] English:** But it's very different to just meet somebody at conferences and have a conversation.  
@@ -5737,10 +5738,10 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8609.54s] English:** As opposed to actually working on a project together.  
 **Translation:** 
 
-**[8614.74s] English:** So he's very serious, very focused.  
+**[8614.74s] English:** So he's very serious and very focused.  
 **Translation:** 
 
-**[8618.36s] English:** This is one thing which I have to say, I was really struck by this.  
+**[8618.36s] English:** This is one thing I have to say; I was really struck by this.  
 **Translation:** 
 
 **[8622.76s] English:** Why is he considered to be such a powerful intellect by many other powerful intellects?  
@@ -5755,16 +5756,19 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8639.54s] English:** Yes.  
 **Translation:** 
 
+**[8640.00s] English:** Especially, find connections between quantum physics and mathematics.  
+**Translation:** 
+
 **[8640.54s] English:** Absolutely.  
+**Translation:** Vocabulary: quantum: 量子
+
+**[8641.54s] English:** Now, you said that you are a true model of the universe, and you're trying to move.  
 **Translation:** 
 
-**[8641.54s] English:** Now, you said that you are a true model of the universe, and you're trying to move  
+**[8642.54s] English:** That's how we take it to the next level.  
 **Translation:** 
 
-**[8642.54s] English:** that to the next level.  
-**Translation:** 
-
-**[8643.54s] English:** What's your connection to the universe, and what have you been doing there?  
+**[8643.54s] English:** What's your connection to the universe, and what have you been doing out there?  
 **Translation:** 
 
 **[8644.54s] English:** I've been studying the universe.  
@@ -5776,7 +5780,13 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8646.54s] English:** I've been exploring the universe.  
 **Translation:** 
 
-**[8647.54s] English:** I think my lab was the most advanced scientific wonder, the нажal.  
+**[8647.24s] English:** Almost Unparalleled.  
+**Translation:** 
+
+**[8647.54s] English:** I think my lab was the most advanced scientific wonder, the нажал.  
+**Translation:** 
+
+**[8648.24s] English:** I don't think anyone comes close, in some sense, in the last 50 years, to him, in terms  
 **Translation:** 
 
 **[8648.54s] English:** I have been studying space for about one decade.  
@@ -5791,13 +5801,16 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8651.54s] English:** You're studying the universe.  
 **Translation:** 
 
-**[8652.54s] English:** I've been learning it very well, in the course of my life, and I've been studying  
+**[8652.54s] English:** I've been learning it very well throughout my life, and I've been studying...  
 **Translation:** 
 
-**[8653.54s] English:** the universe.  
+**[8653.54s] English:** The universe.  
 **Translation:** 
 
 **[8654.54s] English:** Yeah.  
+**Translation:** 
+
+**[8655.08s] English:** Of finding, just consistently breaking ground, time after time, new ground, new ground.  
 **Translation:** 
 
 **[8655.54s] English:** I've been studying it for a long time.  
@@ -5809,49 +5822,37 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8657.54s] English:** I'm a biologist myself.  
 **Translation:** 
 
-**[8658.54s] English:** I've been learning about space from the age of 21, and I'm learning about the universe  
+**[8658.54s] English:** I've been learning about space from the age of 21, and I'm still learning about the universe.  
 **Translation:** 
 
-**[8659.54s] English:** in a way I haven't learned about other galaxies.  
+**[8659.54s] English:** In a way, I haven't learned about other galaxies.  
 **Translation:** Vocabulary: galaxies: 星系
 
-**[8640.00s] English:** Especially, find connections between quantum physics and mathematics.  
+**[8661.92s] English:** He would, basically, one way to describe it is that he would take some idea in physics.  
 **Translation:** 
 
-**[8647.24s] English:** Almost unparalleled.  
+**[8670.60s] English:** And then find an interpretation of it in mathematics, and then say, distill it, and present it in mathematical terms.  
+**Translation:** Vocabulary: distill: 提炼; interpretation: 解释; mathematical: 数学的
+
+**[8679.92s] English:** Terms and tell mathematicians: This should be like that.  
 **Translation:** 
 
-**[8648.24s] English:** I don't think anyone comes close, in some sense, in the last 50 years to him, in terms  
-**Translation:** 
+**[8683.72s] English:** Kind of like, one plus two plus three plus four is equal to minus one-twelfth.  
+**Translation:** Vocabulary: mathematicians: 数学家
 
-**[8655.08s] English:** of finding, just consistently, time after time, breaking ground, new ground, new ground.  
-**Translation:** 
-
-**[8661.92s] English:** He would, basically, one way one could describe it is, he would take some idea in physics  
-**Translation:** 
-
-**[8670.60s] English:** and then find an interpretation of it in mathematics, and then say, distill it, present it in mathematical  
-**Translation:** Vocabulary: distill: 提炼; mathematical: 数学的
-
-**[8679.92s] English:** terms and tell mathematicians, this should be like that.  
-**Translation:** 
-
-**[8683.72s] English:** Kind of like, one plus two plus three plus four is minus one over 12.  
-**Translation:** 
-
-**[8687.78s] English:** And mathematicians would be like, no way.  
+**[8687.78s] English:** And mathematicians would be like, "No way.  
 **Translation:** 
 
 **[8691.92s] English:** And then, it would pan out.  
-**Translation:** Vocabulary: mathematicians: 数学家
-
-**[8694.38s] English:** And mathematicians would then, a whole industry would be created of groups of mathematicians  
 **Translation:** 
 
-**[8700.62s] English:** trying to prove his conjectures and his ideas, and he would always be proven right.  
+**[8694.38s] English:** And mathematicians would then form a whole industry of groups of mathematicians.  
+**Translation:** 
+
+**[8700.62s] English:** Trying to prove his conjectures and ideas, he would always be proven right.  
 **Translation:** Vocabulary: conjectures: 猜想
 
-**[8706.70s] English:** So in other words, being able to glean some mathematical truths from physical theories.  
+**[8706.70s] English:** So, in other words, being able to glean some mathematical truths from physical theories.  
 **Translation:** 
 
 **[8713.56s] English:** That's one side.  
@@ -5861,25 +5862,25 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **Translation:** 
 
 **[8719.06s] English:** He's probably...  
-**Translation:** Vocabulary: conversely: 相反地; sophisticated: 复杂的
+**Translation:** Vocabulary: sophisticated: 复杂的
 
-**[8721.92s] English:** The physicists who kind of could learn mathematics the fastest, I don't think.  
+**[8721.92s] English:** The physicists who could learn mathematics the fastest, I don't think.  
 **Translation:** 
 
-**[8727.64s] English:** Some younger physicists maybe could come close, but it's still quite, for them, a long way  
+**[8727.64s] English:** Some younger physicists might be able to come close, but it's still quite a long way for them.  
+**Translation:** Vocabulary: physicists: 物理学家
+
+**[8733.24s] English:** To go to get something comparable to what Witten has.  
 **Translation:** 
 
-**[8733.24s] English:** to go to get, to be comparable to Witten.  
-**Translation:** 
+**[8737.88s] English:** To take some of the most sophisticated mathematics and not learn it to the point where it becomes useful or comprehensible would be a shame.  
+**Translation:** Vocabulary: comprehensible: 易理解的
 
-**[8737.88s] English:** To take some of the most sophisticated mathematics and not learn it to the point where it becomes  
-**Translation:** 
-
-**[8745.12s] English:** a practitioner of the subject, practically.  
+**[8745.12s] English:** A practitioner of the subject, practically.  
 **Translation:** 
 
 **[8748.32s] English:** And then use it to gain some new insights.  
-**Translation:** Vocabulary: practitioner: 实践者
+**Translation:** Vocabulary: practically: 实际上; practitioner: 实践者
 
 **[8751.42s] English:** Yeah.  
 **Translation:** 
@@ -5887,22 +5888,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8751.92s] English:** On the physics side.  
 **Translation:** 
 
-**[8753.68s] English:** Now, of course, the thing is that, the theory is that physics, one could say, is in a sort  
+**[8753.68s] English:** Now, of course, the thing is that the theory is often said to be that physics is, in a sort of,  
 **Translation:** 
 
-**[8759.32s] English:** of a crisis.  
+**[8759.32s] English:** Of a crisis.  
 **Translation:** 
 
-**[8760.00s] English:** some sense, because of a current gap between the sophisticated theories, which came from applying  
+**[8760.00s] English:** Some sense, because of a current gap between the sophisticated theories, which came from applying  
 **Translation:** 
 
-**[8769.20s] English:** sophisticated mathematics, and the actual universe. So we have theories, for instance,  
+**[8769.20s] English:** Sophisticated mathematics, and the actual universe. So, we have theories, for instance,  
 **Translation:** 
 
-**[8774.64s] English:** which describe 10-dimensional worlds, 10-dimensional space-time, coming from string  
+**[8774.64s] English:** Which describe 10-dimensional worlds, 10-dimensional space-time, coming from string.  
 **Translation:** 
 
-**[8779.92s] English:** theory and things like that. But we don't know yet how to apply it to understanding our universe.  
+**[8779.92s] English:** Theory and things like that. But we don't know yet how to apply it to understanding our universe.  
 **Translation:** 
 
 **[8787.60s] English:** A lot of progress has been made, but it's kind of at an impasse right now.  
@@ -5911,58 +5912,73 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8794.48s] English:** And at the same time, our most realistic theories, most advanced theories of the  
 **Translation:** 
 
-**[8800.08s] English:** four-dimensional universe, are in contradiction with each other. The standard model describing the  
+**[8800.08s] English:** Four-dimensional universes are in contradiction with each other. The standard model describing the  
 **Translation:** 
 
-**[8807.28s] English:** three known forces of nature, the electromagnetic, strong and weak,  
-**Translation:** Vocabulary: contradiction: 矛盾; electromagnetic: 电磁力
+**[8807.28s] English:** Three known forces of nature: the electromagnetic, strong, and weak.  
+**Translation:** Vocabulary: contradiction: 矛盾; electromagnetic: 电磁力; universes: 宇宙
 
-**[8812.72s] English:** with great accuracy, and Einstein's relativity, which describes the fourth,  
+**[8812.72s] English:** With great accuracy, and Einstein's relativity, which describes the fourth,  
 **Translation:** 
 
-**[8816.96s] English:** called gravity.  
+**[8816.96s] English:** Called gravity.  
 **Translation:** Vocabulary: gravity: 重力; relativity: 相对论
 
 **[8817.60s] English:** Everybody above a certain age knows that one.  
 **Translation:** 
 
-**[8826.64s] English:** So these two theories are in contradiction at the moment. And string theory was one of the...  
+**[8826.64s] English:** So, these two theories are in contradiction at the moment. And string theory was one of the...  
 **Translation:** 
 
 **[8831.44s] English:** The promise of string theory was that it would unify those two.  
 **Translation:** 
 
-**[8834.72s] English:** And so far, it has not happened. So we are kind of at a very interesting place  
+**[8834.72s] English:** And so far, it has not happened. So, we are kind of at a very interesting place.  
 **Translation:** 
 
-**[8839.76s] English:** right now. And I think that new ideas perhaps are needed, and I wouldn't be surprised if Witten  
+**[8839.76s] English:** Right now, and I think that new ideas perhaps are needed, and I wouldn't be surprised if Witten  
 **Translation:** 
 
-**[8846.96s] English:** is one of those people who come up with those ideas.  
+**[8846.96s] English:** Is one of those people who come up with those ideas.  
+**Translation:** Vocabulary: witten: 威滕
+
+**[8849.28s] English:** Well, he has been one of the people who have added a lot of ideas under the flag of string theory.  
 **Translation:** 
 
-**[8849.28s] English:** Well, he has been one of the people that added a lot of ideas under the flag of string theory.  
+**[8857.76s] English:** What do you think about this theory? What do you think is beautiful about it—string theory?  
 **Translation:** 
 
-**[8857.76s] English:** What do you think about this theory? What do you think is beautiful about it, string theory?  
+**[8862.56s] English:** Well, first of all, remember we talked about Pythagoreans, and how for Pythagoreans,  
 **Translation:** 
 
-**[8862.56s] English:** Well, first of all, remember we talked about Pythagoreans and how for Pythagoreans,  
+**[8872.32s] English:** The whole world was this symphony, where you have these different vibrations of  
+**Translation:** Vocabulary: pythagoreans: 毕达哥拉斯学派; vibrations: 震动
+
+**[8876.96s] English:** All the humans have a vibration.  
 **Translation:** 
 
-**[8872.32s] English:** the whole world was this symphony where you have these different vibrations of  
-**Translation:** Vocabulary: pythagoreans: 毕达哥拉斯学派; vibrations: 振动
-
-**[8876.96s] English:** all the humans. Every human has a vibration.  
-**Translation:** 
+**[8880.00s] English:** Every animal, every being, every tree, and every celestial body, and so on.  
+**Translation:** Vocabulary: celestial: 天体; vibration: 振动
 
 **[8881.04s] English:** I'm going to ask a question.  
-**Translation:** Vocabulary: vibration: 能量波动
+**Translation:** 
 
 **[8881.60s] English:** Okay.  
 **Translation:** 
 
 **[8882.88s] English:** Let's laugh at it.  
+**Translation:** 
+
+**[8885.40s] English:** So, string theory is kind of like that.  
+**Translation:** 
+
+**[8886.92s] English:** Because, in string theory, there is this fundamental object,  
+**Translation:** 
+
+**[8889.40s] English:** Which is a vibrating string.  
+**Translation:** Vocabulary: vibrating: 振动
+
+**[8892.14s] English:** And all particles are, in a sense,  
 **Translation:** 
 
 **[8892.72s] English:** Okay.  
@@ -5971,148 +5987,133 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[8894.24s] English:** Okay.  
 **Translation:** 
 
+**[8894.74s] English:** Supposed to be different modulations or vibrations of that string.  
+**Translation:** Vocabulary: modulations: 调制方式
+
 **[8895.28s] English:** All right.  
 **Translation:** 
 
 **[8896.72s] English:** So,  
 **Translation:** 
 
-**[8898.00s] English:** this is a test.  
+**[8898.00s] English:** This is a test.  
+**Translation:** 
+
+**[8898.70s] English:** So, by itself, is already interesting.  
+**Translation:** 
+
+**[8900.38s] English:** That you kind of describe this diversity of various particles.  
 **Translation:** 
 
 **[8900.80s] English:** So,  
+**Translation:** Vocabulary: particles: 粒子
+
+**[8902.32s] English:** Well,  
 **Translation:** 
 
-**[8902.32s] English:** well,  
-**Translation:** 
-
-**[8903.04s] English:** the question is how do you feel?  
+**[8903.04s] English:** The question is: How do you feel?  
 **Translation:** 
 
 **[8904.74s] English:** So,  
 **Translation:** 
 
-**[8905.28s] English:** many people are saying,  
+**[8905.28s] English:** Many people are saying,  
 **Translation:** 
 
 **[8905.92s] English:** You know,  
 **Translation:** 
 
-**[8880.00s] English:** every animal, every being, every tree, and every celestial body, and so on.  
-**Translation:** Vocabulary: celestial: 天体
-
-**[8885.40s] English:** So string theory is kind of like that,  
+**[8906.26s] English:** And interactions between them, using one guiding principle.  
 **Translation:** 
 
-**[8886.92s] English:** because in string theory there is this fundamental object,  
+**[8909.46s] English:** In some sense,  
 **Translation:** 
 
-**[8889.40s] English:** which is a vibrating string.  
+**[8911.42s] English:** But also, just the mathematical things that come out of it.  
 **Translation:** 
 
-**[8892.14s] English:** And all particles are, in a sense,  
-**Translation:** Vocabulary: vibrating: 振动的
-
-**[8894.74s] English:** supposed to be different modulations or vibrations of that string.  
+**[8914.68s] English:** It looks impossible to satisfy all the various constraints.  
 **Translation:** 
 
-**[8898.70s] English:** So that by itself is already interesting,  
-**Translation:** Vocabulary: modulations: 振动模式
+**[8919.32s] English:** And then there is a sort of unique way to do it.  
+**Translation:** Vocabulary: constraints: 限制
 
-**[8900.38s] English:** that you kind of describe this diversity of various particles  
+**[8922.52s] English:** So, that's sort of the...  
 **Translation:** 
 
-**[8906.26s] English:** and interactions between them using one guiding principle.  
+**[8924.68s] English:** Every time that happens when you have a system,  
 **Translation:** 
 
-**[8909.46s] English:** In some sense.  
+**[8928.14s] English:** Like an over-determined system.  
 **Translation:** 
 
-**[8911.42s] English:** But also just the mathematical things that come out of it.  
+**[8929.90s] English:** Let's suppose you have to do five interviews in one day,  
 **Translation:** 
 
-**[8914.68s] English:** It looks impossible to satisfy various constraints,  
+**[8935.14s] English:** And you wake up in the morning and you're like,  
 **Translation:** 
 
-**[8919.32s] English:** and then there is sort of like a unique way to do it.  
-**Translation:** Vocabulary: constraints: 限制条件
-
-**[8922.52s] English:** So that's sort of the...  
-**Translation:** 
-
-**[8924.68s] English:** Every time that happens when you have some system,  
-**Translation:** 
-
-**[8928.14s] English:** like an over-determined system.  
-**Translation:** 
-
-**[8929.90s] English:** Let's suppose you have to do like five interviews in one day,  
-**Translation:** 
-
-**[8935.14s] English:** and you wake up in the morning and you're like,  
-**Translation:** 
-
-**[8937.90s] English:** that's impossible.  
+**[8937.90s] English:** That's impossible.  
 **Translation:** 
 
 **[8939.46s] English:** Because then so many things have to align.  
 **Translation:** 
 
 **[8942.22s] English:** For instance, let's suppose you have to go from one place to another,  
-**Translation:** Vocabulary: align: 协调一致
+**Translation:** Vocabulary: align: 协调
 
-**[8944.86s] English:** so then you have a commute,  
+**[8944.86s] English:** So, then you have a commute.  
 **Translation:** 
 
-**[8945.92s] English:** and then who knows, maybe there is a traffic jam and stuff like that.  
+**[8945.92s] English:** And then, who knows? Maybe there is a traffic jam, and stuff like that.  
+**Translation:** Vocabulary: commute: 上下班路程
+
+**[8949.36s] English:** And now, suppose that it all works seamlessly.  
 **Translation:** 
 
-**[8949.36s] English:** And now suppose that it all works seamlessly,  
+**[8952.28s] English:** And there were like a bunch of places.  
+**Translation:** Vocabulary: seamlessly: 流畅地
+
+**[8954.14s] English:** Where it could have gone hopelessly wrong,  
 **Translation:** 
 
-**[8952.28s] English:** and there were like a bunch of places  
-**Translation:** Vocabulary: seamlessly: 天衣无缝
+**[8957.14s] English:** And it didn't.  
+**Translation:** Vocabulary: hopelessly: 彻底地
 
-**[8954.14s] English:** where it could have gone hopelessly wrong,  
+**[8958.36s] English:** And then in the evening, you're like,  
 **Translation:** 
 
-**[8957.14s] English:** and it didn't.  
-**Translation:** Vocabulary: hopelessly: 无可救药地
-
-**[8958.36s] English:** And then in the evening you're like,  
-**Translation:** 
-
-**[8960.22s] English:** wow, it worked.  
+**[8960.22s] English:** Wow, it worked.  
 **Translation:** 
 
 **[8961.92s] English:** That's beautiful, right?  
 **Translation:** 
 
-**[8963.56s] English:** That's kind of like great luck, you know, we would say.  
+**[8963.56s] English:** That's kind of like great luck, you know. We would say.  
 **Translation:** 
 
 **[8967.16s] English:** But in science,  
 **Translation:** 
 
-**[8969.46s] English:** this happens sometimes that you have this theory which is not supposed to work  
+**[8969.46s] English:** This happens sometimes that you have this theory, which is not supposed to work.  
 **Translation:** 
 
-**[8973.06s] English:** because there are so many seemingly contradictory demands on it.  
+**[8973.06s] English:** Because there are so many seemingly contradictory demands on it.  
 **Translation:** 
 
 **[8977.06s] English:** And yet, there is a sweet spot where they balance each other.  
-**Translation:** Vocabulary: contradictory: 相互矛盾
+**Translation:** Vocabulary: contradictory: 矛盾的
 
-**[8980.96s] English:** So string theory is kind of like this.  
+**[8980.96s] English:** So, string theory is kind of like this.  
 **Translation:** 
 
-**[8983.26s] English:** The unfortunate aspect of it is that it balances itself in ten dimensions and not in four.  
+**[8983.26s] English:** The unfortunate aspect of it is that it balances itself in ten dimensions, and not in four.  
 **Translation:** Vocabulary: balances: 维持; dimensions: 维度
 
-**[8989.70s] English:** So maybe there is another universe somewhere.  
+**[8989.70s] English:** So, maybe there is another universe somewhere.  
 **Translation:** 
 
-**[8994.40s] English:** But see, as a mathematician, for me, all spaces are created equal.  
+**[8994.40s] English:** But, see, as a mathematician, for me, all spaces are created equal.  
 **Translation:** Vocabulary: mathematician: 数学家
 
 **[8999.46s] English:** Yeah.  
@@ -6121,70 +6122,70 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9000.74s] English:** Ten-dimensional, four-dimensional.  
 **Translation:** 
 
-**[9002.34s] English:** So mathematicians love string theory  
+**[9002.34s] English:** So, mathematicians love string theory.  
 **Translation:** 
 
-**[9003.72s] English:** because it has given us so much food for thought.  
+**[9003.72s] English:** Because it has given us so much food for thought.  
+**Translation:** Vocabulary: mathematicians: 数学家
+
+**[9007.88s] English:** But, do you think it's a correct or an incorrect theory?  
 **Translation:** 
 
-**[9007.88s] English:** But do you think it's a correct or a incorrect theory  
+**[9015.58s] English:** For understanding this reality?  
 **Translation:** 
 
-**[9015.58s] English:** for understanding this reality?  
+**[9017.98s] English:** So, it might be a theory that explains.  
 **Translation:** 
 
-**[9017.98s] English:** So it might be a theory that explains  
+**[9020.36s] English:** Some tenth-dimensional reality in some other universe.  
 **Translation:** 
 
-**[9020.36s] English:** some tenth-dimensional reality in some other universe,  
-**Translation:** 
-
-**[9023.14s] English:** but is it potentially...  
+**[9023.14s] English:** But is it potentially...?  
 **Translation:** 
 
 **[9025.14s] English:** What do you think are the odds?  
 **Translation:** 
 
-**[9026.18s] English:** Again, financial advice, if you were to bet.  
+**[9026.18s] English:** Again, for financial advice, if you were to bet.  
 **Translation:** 
 
-**[9028.12s] English:** What do you think are the odds  
+**[9028.12s] English:** What do you think are the odds?  
 **Translation:** 
 
-**[9030.04s] English:** that it gets us closer to understanding this reality?  
+**[9030.04s] English:** That might get us closer to understanding this reality?  
 **Translation:** 
 
 **[9035.90s] English:** Well, in the form that it is now, that seems unlikely.  
 **Translation:** 
 
-**[9039.70s] English:** But it could well be that based on these ideas,  
+**[9039.70s] English:** But it could well be that, based on these ideas,  
 **Translation:** 
 
-**[9042.24s] English:** with some modifications, with some essential new elements,  
+**[9042.24s] English:** With some modifications, and with some essential new elements,  
 **Translation:** Vocabulary: modifications: 修改
 
-**[9045.74s] English:** it could work out.  
+**[9045.74s] English:** It could work out.  
 **Translation:** 
 
-**[9047.84s] English:** So I would say right now it doesn't look so good,  
+**[9047.84s] English:** So, I would say right now it doesn't look so good.  
 **Translation:** 
 
-**[9050.24s] English:** from the point of view from what we know.  
+**[9050.24s] English:** From the point of view, from what we know.  
 **Translation:** 
 
-**[9054.68s] English:** But maybe somebody will come and introduce  
+**[9054.68s] English:** But maybe somebody will come and introduce.  
 **Translation:** 
 
-**[9057.06s] English:** like square root of...  
+**[9057.06s] English:** Like, square root of...  
 **Translation:** 
 
 **[9058.12s] English:** Negative one.  
 **Translation:** 
 
-**[9059.44s] English:** I mean, they already introduced,  
+**[9059.44s] English:** I mean, they've already introduced,  
 **Translation:** 
 
-**[9060.58s] English:** but I mean kind of like as a metaphor.  
+**[9060.58s] English:** But I mean, kind of like as a metaphor.  
 **Translation:** Vocabulary: metaphor: 比喻
 
 **[9062.34s] English:** Yeah.  
@@ -6193,7 +6194,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9062.72s] English:** Maybe somebody will come and say,  
 **Translation:** 
 
-**[9065.16s] English:** what if we do this?  
+**[9065.16s] English:** What if we do this?  
 **Translation:** 
 
 **[9066.46s] English:** It looks crazy.  
@@ -6202,142 +6203,142 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9067.78s] English:** You know, speaking of Niels Bohr,  
 **Translation:** 
 
-**[9070.28s] English:** he had this famous quote that he said to somebody,  
+**[9070.28s] English:** He had this famous quote that he said to somebody:  
 **Translation:** 
 
-**[9073.76s] English:** there is no doubt that your theory is crazy.  
+**[9073.76s] English:** There is no doubt that your theory is crazy.  
 **Translation:** 
 
-**[9076.66s] English:** The question is whether it's crazy enough  
+**[9076.66s] English:** The question is whether it's crazy enough.  
 **Translation:** 
 
-**[9079.04s] English:** to describe reality.  
+**[9079.04s] English:** To describe reality.  
 **Translation:** 
 
-**[9081.50s] English:** So that's where we are, kind of, you know.  
+**[9081.50s] English:** So that's where we are, kind of—you know?  
 **Translation:** 
 
-**[9083.48s] English:** Speaking of crazy and crazy enough,  
+**[9083.48s] English:** Speaking of crazy, and crazy enough,  
 **Translation:** 
 
-**[9085.90s] English:** let me ask,  
+**[9085.90s] English:** Let me ask:  
 **Translation:** 
 
-**[9087.00s] English:** for therapy, for advice,  
+**[9087.00s] English:** For therapy, for advice,  
 **Translation:** 
 
-**[9093.00s] English:** for wisdom in returning to Eric Weinstein  
+**[9093.00s] English:** For wisdom in returning to Eric Weinstein.  
 **Translation:** 
 
-**[9096.50s] English:** and maybe give some guidance to understanding  
+**[9096.50s] English:** And maybe give some guidance to understanding.  
 **Translation:** 
 
-**[9099.34s] English:** his view on his attempt at a theory of everything  
+**[9099.34s] English:** His view on his attempt at a theory of everything.  
 **Translation:** 
 
-**[9104.96s] English:** that he calls geometric unity,  
+**[9104.96s] English:** That he calls "geometric unity,  
 **Translation:** 
 
-**[9107.12s] English:** that he told me that you may have some inkling  
+**[9107.12s] English:** That he told me that you may have some inkling.  
 **Translation:** Vocabulary: geometric: 几何的; inkling: 模糊的概念
 
-**[9109.88s] English:** of an understanding of.  
+**[9109.88s] English:** Of an understanding of.  
 **Translation:** 
 
-**[9111.78s] English:** If you were to describe this theory  
+**[9111.78s] English:** If you were to describe this theory,  
 **Translation:** 
 
-**[9114.58s] English:** to aliens that visited Earth,  
+**[9114.58s] English:** To aliens that visited Earth,  
 **Translation:** 
 
-**[9117.00s] English:** how would you describe it?  
+**[9117.00s] English:** How would you describe it?  
 **Translation:** 
 
-**[9120.00s] English:** you do it or you could try if it was just me visiting earth uh how would you describe it  
+**[9120.00s] English:** You do it, or you could try. If it was just me visiting Earth, how would you describe it?  
 **Translation:** 
 
-**[9126.12s] English:** your best understanding of it he he shared with me some of it uh when i was in new york at columbia  
+**[9126.12s] English:** Your best understanding of it, he shared with me some of it, uh, when I was in New York at Columbia.  
 **Translation:** 
 
-**[9132.18s] English:** like 11 years ago we actually spent a lot of time where he explained to me and i found it beautiful  
+**[9132.18s] English:** Like 11 years ago, we actually spent a lot of time where he explained it to me, and I found it beautiful.  
 **Translation:** 
 
-**[9137.28s] English:** he has a very um original idea at the core of it where you have this instead of four-dimensional  
+**[9137.28s] English:** He has a very, um, original idea at the core of it, where you have this instead of four-dimensional.  
 **Translation:** 
 
-**[9145.26s] English:** instead of 10-dimensional he has 14-dimensional space and i thought was it was really original and  
+**[9145.26s] English:** Instead of a 10-dimensional space, he has a 14-dimensional space, and I thought it was really original.  
 **Translation:** 
 
-**[9152.38s] English:** this is exactly goes to the point i made earlier that we need new ideas i feel that without some  
+**[9152.38s] English:** This is exactly what goes to the point I made earlier that we need new ideas. I feel that without some  
 **Translation:** 
 
-**[9159.24s] English:** fundamentally new idea we won't be able to get closer to understanding our universe now i have  
+**[9159.24s] English:** Fundamentally, a new idea will be necessary if we are to get closer to understanding our universe. Now, I have.  
 **Translation:** 
 
-**[9166.74s] English:** a problem with the whole idea of theory of everything you know i don't believe that one  
+**[9166.74s] English:** A problem with the whole idea of a theory of everything, you know, I don't believe that one.  
 **Translation:** Vocabulary: fundamentally: 从根本上
 
-**[9171.44s] English:** exists nor nor that we should um  
+**[9171.44s] English:** Exists nor, nor that we should, um.  
 **Translation:** 
 
-**[9175.26s] English:** aim to construct one and i think it's it's really um not to offend anybody but  
+**[9175.26s] English:** Aim to construct one, and I think it's really, um, not to offend anybody, but  
+**Translation:** Vocabulary: offend: 冒犯
+
+**[9182.54s] English:** It's ultimately a fault of the education system, especially for physicists. Like in mathematics, we don't...  
 **Translation:** 
 
-**[9182.54s] English:** it's ultimately a fault of education system of physicists like in mathematics we do not we're  
+**[9189.76s] English:** Not brought up to think of ourselves as mathematicians, we aren't educated with the idea that one day we will come up with  
+**Translation:** Vocabulary: educated: 受教育; mathematicians: 数学家; physicists: 物理学家
+
+**[9195.80s] English:** Theory of Everything: Even though, as a joke, I said that Langland's program is mathematical.  
 **Translation:** 
 
-**[9189.76s] English:** not brought up we're not educated as mathematicians with the idea that one day we will come up with the  
-**Translation:** Vocabulary: mathematicians: 数学家; physicists: 物理学家
+**[9200.98s] English:** Theory of Everything, but I mean it's kind of a tongue-in-cheek.  
+**Translation:** Vocabulary: mathematical: 数学的
 
-**[9195.80s] English:** theory of everything even though as a joke i said that langland's program is mathematical  
+**[9205.26s] English:** But isn't it a little bit kind of that it's not really, because first of all, it doesn't cover all.  
 **Translation:** 
 
-**[9200.98s] English:** theory of everything but i mean it's kind of a tongue-in-cheek  
+**[9210.86s] English:** Fields of mathematics and it covers specific phenomena, but isn't it spiritually striving?  
+**Translation:** Vocabulary: spiritually: 精神上; striving: 追求
+
+**[9216.30s] English:** Towards the same Platonic form of the theory of everything, like connecting the dots, but  
 **Translation:** 
 
-**[9205.26s] English:** but isn't it a little bit kind of that it's not really because first of all it doesn't cover all  
-**Translation:** 
-
-**[9210.86s] English:** fields of mathematics and it covers specific phenomena but isn't it spiritually striving  
-**Translation:** Vocabulary: spiritually: 精神上; striving: 努力
-
-**[9216.30s] English:** towards the same platonic form of the theory of everything like connecting connecting but  
-**Translation:** 
-
-**[9223.18s] English:** connecting doesn't mean that it covers everything right so you could connect two things and then you  
+**[9223.18s] English:** Connecting doesn't mean that it covers everything, right? So, you could connect two things, and then you  
 **Translation:** Vocabulary: platonic: 理念的
 
-**[9227.60s] English:** have infinitely many other things which are outside of the purview of this connection  
+**[9227.60s] English:** Have infinitely many other things, which are outside the purview of this connection.  
 **Translation:** 
 
-**[9232.40s] English:** that's how it is in mathematics i see  
-**Translation:** Vocabulary: infinitely: 无穷地; purview: 管辖范围
+**[9232.40s] English:** That's how it is in mathematics. I see.  
+**Translation:** Vocabulary: infinitely: 无穷地; purview: 职权范围
 
-**[9235.26s] English:** i feel and i would venture to say that  
+**[9235.26s] English:** I feel, and I would venture to say that  
 **Translation:** 
 
 **[9240.00s] English:** Most mathematicians look at it this way.  
-**Translation:** 
+**Translation:** Vocabulary: venture: 尝试
 
-**[9241.72s] English:** There's no idea that somehow...  
+**[9241.72s] English:** There's no idea that somehow,...  
 **Translation:** 
 
 **[9243.08s] English:** I think it's actually impossible, because we're not talking about such a thing as one universe.  
 **Translation:** 
 
-**[9247.70s] English:** We're talking about all possible universes of all possible dimensions and so on.  
+**[9247.70s] English:** We're talking about all possible universes, of all possible dimensions, and so on.  
 **Translation:** 
 
 **[9250.64s] English:** It is just not feasible to unify everything in one equation.  
 **Translation:** Vocabulary: dimensions: 维度; equation: 方程; feasible: 可行; universes: 宇宙
 
-**[9257.30s] English:** Now, physicists, on the other hand, have been brought up, educated for decades with this idea.  
+**[9257.30s] English:** Now, physicists, on the other hand, have been brought up and educated for decades with this idea.  
 **Translation:** 
 
 **[9262.84s] English:** And to me, and I'm not sure I should say that, but I feel like it's kind of an ultimate ego trip.  
 **Translation:** 
 
-**[9268.58s] English:** So that I have come up with the unified theory.  
+**[9268.58s] English:** So, I have come up with the unified theory.  
 **Translation:** 
 
 **[9272.20s] English:** I have found the unified theory of everything.  
@@ -6346,76 +6347,76 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9274.04s] English:** It's me, and my name will be on it.  
 **Translation:** 
 
-**[9276.46s] English:** I think a lot of physicists get educated this way, especially men take it seriously.  
-**Translation:** 
+**[9276.46s] English:** I think a lot of physicists get educated this way, especially men who take it seriously.  
+**Translation:** Vocabulary: educated: 受教育; physicists: 物理学家
 
 **[9282.72s] English:** And I've seen that happen, and I think it is counterproductive.  
 **Translation:** 
 
-**[9286.24s] English:** I think that a lot of people agree that this debate is kind of, I feel like it's kind of settled.  
+**[9286.24s] English:** I think that a lot of people agree that this debate is kind of settled, and I feel like it's kind of settled.  
 **Translation:** Vocabulary: counterproductive: 适得其反
 
 **[9291.16s] English:** I hear it less and less, but I disagree with the whole premise.  
 **Translation:** 
 
-**[9297.38s] English:** So you...  
+**[9297.38s] English:** So, you...  
 **Translation:** Vocabulary: premise: 前提
 
-**[9298.58s] English:** It's interesting, because both are interesting points you made,  
+**[9298.58s] English:** It's interesting, because both are very interesting points you made.  
 **Translation:** 
 
-**[9302.42s] English:** which is you don't think a theory of everything exists,  
+**[9302.42s] English:** Which is that you don't think a theory of everything exists,  
 **Translation:** 
 
-**[9305.02s] English:** and you don't think the pursuit of a theory of everything is good.  
+**[9305.02s] English:** And you don't think the pursuit of a theory of everything is good.  
 **Translation:** 
 
-**[9309.62s] English:** So I think you spoke to the second thing,  
-**Translation:** 
+**[9309.62s] English:** So, I think you spoke to the second thing.  
+**Translation:** Vocabulary: pursuit: 追求
 
-**[9312.04s] English:** which is basically that the pursuit of a theory of everything becomes like a drug to the human ego.  
+**[9312.04s] English:** Which is basically that the pursuit of a theory of everything becomes like a drug to the human ego.  
 **Translation:** 
 
 **[9319.08s] English:** That's right.  
 **Translation:** 
 
-**[9319.64s] English:** So it is a huge motivating factor.  
+**[9319.64s] English:** So, it is a huge motivating factor.  
 **Translation:** 
 
 **[9321.76s] English:** I don't deny that.  
-**Translation:** Vocabulary: motivating: 激励因素
+**Translation:** Vocabulary: motivating: 激励的
 
-**[9323.30s] English:** But I feel that there are better ways to motivate people than...  
+**[9323.30s] English:** But I feel that there are better ways to motivate people than....  
 **Translation:** 
 
-**[9328.58s] English:** like that, than this way.  
-**Translation:** 
+**[9328.58s] English:** Like that, not this way.  
+**Translation:** Vocabulary: motivate: 激励
 
 **[9330.56s] English:** Okay?  
 **Translation:** 
 
-**[9331.04s] English:** So I would say, for instance, if one...  
+**[9331.04s] English:** So, I would say, for instance, if one...  
 **Translation:** 
 
-**[9334.84s] English:** Because then it's not a game of winner takes all, in some sense.  
+**[9334.84s] English:** Because then it's not a game where the winner takes everything, in some sense.  
 **Translation:** 
 
-**[9339.28s] English:** And in fairness, when physicists say theory of everything, grand unified theory,  
-**Translation:** Vocabulary: physicists: 物理学家
-
-**[9344.46s] English:** they mean something very specific, which is unifying the standard model and Einstein's relativity theory,  
+**[9339.28s] English:** And, in fairness, when physicists say "theory of everything," "grand unified theory,  
 **Translation:** 
 
-**[9349.58s] English:** which is the theory of gravity.  
-**Translation:** Vocabulary: gravity: 重力; relativity: 相对论; unifying: 统一
+**[9344.46s] English:** They mean something very specific, which is unifying the Standard Model and Einstein's relativity theory.  
+**Translation:** 
 
-**[9351.50s] English:** So they don't necessarily...  
+**[9349.58s] English:** Which is the theory of gravity?  
+**Translation:** Vocabulary: gravity: 引力; relativity: 相对论; unifying: 统一
+
+**[9351.50s] English:** So, they don't necessarily...  
 **Translation:** 
 
 **[9353.38s] English:** A lot of physicists may say these words, but they don't really mean them.  
 **Translation:** 
 
-**[9357.30s] English:** I think it's important to...  
+**[9357.30s] English:** I think it's important to....  
 **Translation:** 
 
 **[9358.46s] English:** To realize that.  
@@ -6424,34 +6425,34 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9359.68s] English:** That...  
 **Translation:** 
 
-**[9360.00s] English:** In my opinion, that's not productive, and it's not feasible anyway.  
-**Translation:** 
+**[9360.00s] English:** In my opinion, that's not productive, and it's not feasible either.  
+**Translation:** Vocabulary: feasible: 可行的
 
 **[9363.64s] English:** So, having said that, there are some theories that are better than others, obviously.  
 **Translation:** 
 
 **[9366.84s] English:** So, for instance, Eric's theory has, as far as I understand, does have a certain way of producing some of the elementary particles that we see, and as well as the force of gravity.  
-**Translation:** 
+**Translation:** Vocabulary: particles: 基本粒子
 
 **[9378.34s] English:** So, it does have that promise.  
 **Translation:** 
 
-**[9379.70s] English:** I feel that, at least from the place where I had seen it about 10 years ago, it still requires a lot of work to get to the point of actually saying that it does work, because, you know, there are a lot of elements.  
+**[9379.70s] English:** I feel that, at least from the place where I had seen it about 10 years ago, it still requires a lot of work to get to the point where we can actually say that it works, because, you know, there are a lot of elements.  
 **Translation:** 
 
-**[9395.88s] English:** It's a huge enterprise to have a theory, because you have, just to describe the field, sort of the building blocks of the theory, it's already a tremendous undertaking.  
+**[9395.88s] English:** It's a huge enterprise to have a theory, because you have, just to describe the field and sort of lay out the building blocks of the theory, it's already a tremendous undertaking.  
 **Translation:** 
 
-**[9405.44s] English:** And he's trying to do it for curved spaces in greater generality, which is...  
+**[9405.44s] English:** And he's trying to do it for curved spaces in greater generality, which is....  
 **Translation:** Vocabulary: generality: 普遍性; undertaking: 艰巨任务
 
-**[9409.70s] English:** What makes it so unique and so beautiful.  
+**[9409.70s] English:** What makes it so unique, and so beautiful?  
 **Translation:** 
 
-**[9412.20s] English:** But then, on top of that, there are all these issues of quantization, of actually describing them as quantum field theory.  
-**Translation:** Vocabulary: quantization: 量子化
+**[9412.20s] English:** But then, on top of that, there are all these issues of quantization, of actually describing them as a quantum field theory.  
+**Translation:** Vocabulary: quantization: 量化; quantum: 量子
 
-**[9418.64s] English:** And the quantum field theory, even as a language, as a framework, is currently incomplete, in my opinion.  
+**[9418.64s] English:** And the quantum field theory, even as a language and a framework, is currently incomplete, in my opinion.  
 **Translation:** 
 
 **[9425.94s] English:** And not only in my opinion, it's like everybody agrees on that.  
@@ -6463,7 +6464,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9435.80s] English:** It's a collection of tools.  
 **Translation:** 
 
-**[9436.94s] English:** It's a toolbox, but it is not...  
+**[9436.94s] English:** It's a toolbox, but it is not....  
 **Translation:** 
 
 **[9439.62s] English:** It's...  
@@ -6472,13 +6473,13 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9439.68s] English:** It's not a consistent, rigorous theory, like number theory in mathematics.  
 **Translation:** 
 
-**[9446.38s] English:** Physicists have still been able to derive predictions from it and inform them to great accuracy.  
-**Translation:** Vocabulary: rigorous: 严格
+**[9446.38s] English:** Physicists have still been able to derive predictions from it and inform them with great accuracy.  
+**Translation:** Vocabulary: derive: 推导; physicists: 物理学家; rigorous: 严谨的
 
-**[9457.58s] English:** But the underpinnings, it doesn't have the real rigorous foundation from a mathematical perspective.  
+**[9457.58s] English:** But the underpinnings don't have the real rigorous foundation from a mathematical perspective.  
 **Translation:** 
 
-**[9463.86s] English:** So, in that sense, even if, in that framework, a new theory...  
+**[9463.86s] English:** So, in that sense, even if, within that framework, a new theory...  
 **Translation:** Vocabulary: mathematical: 数学的; underpinnings: 基础
 
 **[9469.60s] English:** Could...  
@@ -6496,67 +6497,67 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9478.94s] English:** Because it wouldn't be mathematical.  
 **Translation:** 
 
-**[9480.00s] English:** rigorous you see what i mean because the whole framework is not yet on on a firm foundation  
+**[9480.00s] English:** Rigorous, you see what I mean, because the whole framework is not yet on a firm foundation.  
 **Translation:** 
 
-**[9486.40s] English:** so it's not consistent i why is it that the universe should have  
+**[9486.40s] English:** So, it's not consistent. Why is it that the universe should have  
 **Translation:** 
 
-**[9491.36s] English:** so that's to your first point do you think the universe has a beautiful clean when you show up  
+**[9491.36s] English:** So, that's to your first point: do you think the universe has a beautiful, clean slate when you show up?  
+**Translation:** Vocabulary: slate: 石板
+
+**[9498.32s] English:** And meet God, and there's one equation on the board, and the two of you just chuckle, do you?  
 **Translation:** 
 
-**[9498.32s] English:** and meet god and there's one equation on the board and the two of you just chuckle do you  
+**[9503.92s] English:** Think such an equation exists, yeah? There are such equations. Let's say I am interested in particular.  
+**Translation:** Vocabulary: chuckle: 轻笑; equation: 方程; equations: 方程式
+
+**[9513.28s] English:** Question: Right, so in the language program, let's move away from physics and talk about math.  
 **Translation:** 
 
-**[9503.92s] English:** think such equation exists yeah there are such equations let's say i am interested in particular  
-**Translation:** Vocabulary: equation: 方程式; equations: 方程式
-
-**[9513.28s] English:** question right so in the language program say so moving away from physics so let's talk about math  
+**[9519.68s] English:** So, in the context of the language program I have recently developed with my co-authors, eating and golf.  
 **Translation:** 
 
-**[9519.68s] English:** so in in the context of language program i have recently developed with my co-authors eating golf  
+**[9527.28s] English:** And cash done, and kind of a new strand—a new flavor—of the language program, if you will.  
 **Translation:** 
 
-**[9527.28s] English:** and cash done and kind of a new strand a new flavor of the language program if you will  
+**[9532.96s] English:** But so far,  
+**Translation:** Vocabulary: strand: 流派
+
+**[9533.92s] English:** It's a sort of vision, a set of conjectures which we have proved in some measure.  
 **Translation:** 
 
-**[9532.96s] English:** but so far  
-**Translation:** 
-
-**[9533.92s] English:** it's a sort of it's a vision it's a set of conjectures which we have proved in some  
-**Translation:** 
-
-**[9538.64s] English:** cases but not in full generality so yes i would like to to use your framework for me the creator  
+**[9538.64s] English:** Cases, but not in full generality. So, yes, I would like to use your framework for me, the creator.  
 **Translation:** Vocabulary: conjectures: 猜测; generality: 普遍性
 
-**[9547.04s] English:** and ask her what is the explanation of this and it may well be that she will answer in a  
+**[9547.04s] English:** And ask her what the explanation of this is, and it may well be that she will answer in a  
 **Translation:** 
 
-**[9554.96s] English:** way that i was i'll just burst out laughing it's like how could we not see it you see  
+**[9554.96s] English:** The way I was, I'll just burst out laughing; it's like, how could we not see it? You see.  
 **Translation:** 
 
-**[9559.20s] English:** so that i totally see but i don't see one equation governing  
+**[9559.20s] English:** So, I totally see that, but I don't see one equation governing.  
 **Translation:** 
 
-**[9564.72s] English:** one one equation governing them all not one equation to govern them all but it does seem  
+**[9564.72s] English:** One equation governing them all? Not one equation to govern them all, but it does seem...  
+**Translation:** Vocabulary: govern: 支配
+
+**[9571.04s] English:** That such equations exist, where she will tell you something, and you look back and  
 **Translation:** 
 
-**[9571.04s] English:** that such equations exist where she will tell you something and you look back and  
+**[9575.12s] English:** Say, how could I not see it? It seems like the truth at the end of the day is simple.  
 **Translation:** 
 
-**[9575.12s] English:** say how could i not see it it seems like the the truth at the end of the day is simple  
+**[9582.00s] English:** That we're seeking, especially through mathematics, seems somehow simple.  
 **Translation:** 
 
-**[9582.00s] English:** that we're seeking especially through mathematics it seems somehow simple the the  
+**[9587.68s] English:** The nature of reality, the thing that governs it, seems to be simple. I wonder why that is, and I also...  
+**Translation:** Vocabulary: governs: 支配
+
+**[9593.92s] English:** Wonder if it's not totally incorrect, and we're just craving the simplicity.  
 **Translation:** 
 
-**[9587.68s] English:** the nature of reality the thing that governs it seems to be simple i wonder why that is and i also  
-**Translation:** 
-
-**[9593.92s] English:** wonder if it's not totally incorrect, and we're just craving the simplicity.  
-**Translation:** 
-
-**[9600.00s] English:** And then mixing into the whole conversation about how much the observer that creates simplicity is part of the answer.  
+**[9600.00s] English:** And then, mixing into the whole conversation, about how much the observer that creates simplicity is part of the answer.  
 **Translation:** Vocabulary: craving: 渴望; observer: 观察者; simplicity: 简单性
 
 **[9610.84s] English:** It's a whole big, giant mess.  
@@ -6565,55 +6566,55 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9613.62s] English:** Or a whole big, beautiful painting or symphony.  
 **Translation:** 
 
-**[9618.92s] English:** You said of Eric Weinstein that I find it remarkable that Eric was able to come up with such beautiful and original ideas,  
+**[9618.92s] English:** You said of Eric Weinstein that I find it remarkable that he was able to come up with such beautiful and original ideas.  
 **Translation:** 
 
-**[9626.56s] English:** even though he has been out of academia for so long, doing wonderful things in other areas, such as economics and finance.  
+**[9626.56s] English:** Even though he has been out of academia for so long, doing wonderful things in other areas, such as economics and finance.  
 **Translation:** Vocabulary: academia: 学术界
 
 **[9633.20s] English:** I'd like to use that kind of quote as just a question to you about different places where people of your level can operate.  
 **Translation:** 
 
-**[9642.26s] English:** So inside academia and outside.  
+**[9642.26s] English:** So, inside academia and outside.  
 **Translation:** 
 
-**[9645.20s] English:** What is the difference of doing mathematics inside academia and outside?  
+**[9645.20s] English:** What is the difference between doing mathematics inside academia and outside?  
 **Translation:** 
 
-**[9652.48s] English:** Not even mathematics, but developing beautiful original ideas.  
+**[9652.48s] English:** Not even mathematics; it's about developing beautiful, original ideas.  
 **Translation:** 
 
-**[9656.56s] English:** Where is the place that your imagination can flourish most?  
+**[9656.56s] English:** Where is the place where your imagination can flourish most?  
 **Translation:** 
 
-**[9663.86s] English:** So the limitations of academia is there's a community of people that take a set of axioms as gospel.  
+**[9663.86s] English:** So, the limitations of academia are that there's a community of people who take a set of axioms as gospel.  
 **Translation:** Vocabulary: axioms: 公理; flourish: 繁荣; gospel: 福音
 
-**[9672.00s] English:** So it's harder to take that leap into the unknown.  
+**[9672.00s] English:** So, it's harder to take that leap into the unknown.  
 **Translation:** 
 
-**[9675.88s] English:** But it's also the nice thing about academia is some of the most brilliant people in the world are there.  
+**[9675.88s] English:** But it's also the nice thing about academia: some of the most brilliant people in the world are there.  
 **Translation:** 
 
 **[9681.74s] English:** It's that community.  
 **Translation:** 
 
-**[9683.36s] English:** Both the competition and the collaboration is there.  
-**Translation:** 
+**[9683.36s] English:** Both the competition and collaboration are there.  
+**Translation:** Vocabulary: collaboration: 合作
 
-**[9686.56s] English:** Yeah, I wonder if there's something you could say sort of to further about this world that people might not be familiar with.  
+**[9686.56s] English:** Yeah, I wonder if there's something you could say, sort of to further explain this world that people might not be familiar with.  
 **Translation:** 
 
 **[9695.48s] English:** But I think you gave a very good description.  
 **Translation:** 
 
-**[9697.70s] English:** I'm not sure I can on it because I don't have an overarching theory of academia.  
+**[9697.70s] English:** I'm not sure I can do it because I don't have an overarching theory of academia.  
 **Translation:** 
 
-**[9703.54s] English:** Yes, I definitely have been part of it.  
-**Translation:** Vocabulary: overarching: 总体的
+**[9703.54s] English:** Yes, I definitely have been a part of it.  
+**Translation:** Vocabulary: overarching: 全局的
 
-**[9706.24s] English:** And I'm grateful because it is it gives you a great sense of security.  
+**[9706.24s] English:** And I'm grateful because it gives you a great sense of security.  
 **Translation:** 
 
 **[9712.26s] English:** Which comes with its own downside, too, because you kind of like it.  
@@ -6622,76 +6623,76 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9716.56s] English:** It's a little disconnected from the real world because you get tenure.  
 **Translation:** 
 
-**[9720.00s] English:** you feel financially secure you know they don't pay you that much so to speak you know relatively  
-**Translation:** Vocabulary: financially: 经济上
+**[9720.00s] English:** You feel financially secure, you know, they don't pay you that much, so to speak, you know, relatively.  
+**Translation:** Vocabulary: disconnected: 脱离现实; financially: 经济上
 
-**[9724.48s] English:** speaking and uh it's comfortable but it's not that much but you you can't be fired so there  
+**[9724.48s] English:** Speaking, and it's comfortable, but it's not that great. You can't be fired, though.  
 **Translation:** 
 
-**[9731.28s] English:** is something about this which i definitely have benefit from it you know and it does  
+**[9731.28s] English:** Is there something about this that I definitely have benefited from, you know, and it does?  
+**Translation:** Vocabulary: benefited: 获得好处
+
+**[9738.24s] English:** Um, people are not even aware what it's like to live outside of acne where you can...  
 **Translation:** 
 
-**[9738.24s] English:** um people are not even aware what it's like to to live outside of acne where you can you where you  
+**[9744.08s] English:** Don't have this type of security, on the other hand, that also means we're lacking certain skills.  
 **Translation:** 
 
-**[9744.08s] English:** don't have this type of security on the other hand that also means that we're lacking certain skills  
+**[9751.12s] English:** That sort of real people in the real world have developed out of necessity to deal with that.  
 **Translation:** 
 
-**[9751.12s] English:** that sort of real people in the real world have developed out of necessity to deal with that  
+**[9758.00s] English:** Sort of insecurity, so it kind of always cuts both ways. You know, it was one hand, it gives, and  
+**Translation:** Vocabulary: necessity: 必需性
+
+**[9763.12s] English:** With the other hand, it takes away, and it's a very interesting setup. And also, on the one hand, we are  
 **Translation:** 
 
-**[9758.00s] English:** sort of insecurity so it kind of always cuts both ways you know it was one hand it gives and  
-**Translation:** Vocabulary: necessity: 必要性
-
-**[9763.12s] English:** with the other hand it takes away and it's a very interesting setup and also on the one hand we are  
-**Translation:** 
-
-**[9768.80s] English:** all supposed to be the truth seekers and but in reality of course it  
+**[9768.80s] English:** All supposed to be the truth seekers, and but in reality, of course, it  
 **Translation:** Vocabulary: setup: 布局
 
-**[9774.08s] English:** is a human activity and it is a human community it was all kinds of good bad and ugly things that  
+**[9774.08s] English:** Is a human activity, and it is a human community. It was all kinds of good, bad, and ugly things that.  
 **Translation:** 
 
-**[9780.32s] English:** happen a lot of them under the radar screen so to speak and so but maybe there is something to it  
+**[9780.32s] English:** Happen a lot of them under the radar, so to speak, and so, but maybe there's something to it.  
 **Translation:** 
 
-**[9787.92s] English:** there is definitely there are definitely people who are upholding kind of that old tradition  
+**[9787.92s] English:** There is definitely a tradition being upheld by some people.  
 **Translation:** 
 
-**[9794.08s] English:** definitely and that is inspiring and i aspire to be you know one of those to my best so whether  
+**[9794.08s] English:** Definitely, and that is inspiring. I aspire to be one of those — to my best self, so whether  
+**Translation:** Vocabulary: aspire: 追求
+
+**[9800.80s] English:** This is a system that will stay.  
 **Translation:** 
 
-**[9800.80s] English:** this is um a system that will stay  
+**[9804.64s] English:** Or, should they stay? I don't know; I really don't know. That's really fast, yeah. It's fascinating, what?  
 **Translation:** 
 
-**[9804.64s] English:** or should stay i don't know i really don't know that's really fast yeah it's it's fascinating what  
+**[9809.76s] English:** Uh, especially with it just to introduce a bit of AI poison into the mix, as that changes the nature.  
 **Translation:** 
 
-**[9809.76s] English:** uh especially with it just to introduce the bit of ai poison into the mix as that changes the nature  
+**[9816.40s] English:** Of education, perhaps as well as the role of the university in the next 10, 20, 50, or 100 years.  
+**Translation:** Vocabulary: poison: 毒液
+
+**[9823.12s] English:** I wonder, and I wonder, you know, how you make sense of Einstein being working.  
 **Translation:** 
 
-**[9816.40s] English:** of education perhaps as well uh what the role of the university is in the next 10 20 50 100 years  
-**Translation:** 
-
-**[9823.12s] English:** i wonder uh i wonder and i wonder that you know how do you make sense that einstein was working  
-**Translation:** 
-
-**[9831.68s] English:** after attempting i believe to be  
+**[9831.68s] English:** After attempting, I believe, to be  
 **Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[9834.08s] English:** a university professor was this most of the patent office yeah as a patent clerk although  
+**[9834.08s] English:** A university professor was this, most of the time at the Patent Office, yes, as a patent clerk, although  
 **Translation:** 
 
-**[9840.00s] English:** But I have to say, to these days, the science has become so much faster.  
-**Translation:** 
+**[9840.00s] English:** But I have to say, to be honest, the science has become so much faster these days.  
+**Translation:** Vocabulary: patent: 专利
 
 **[9846.88s] English:** It is really hard to do it being outside.  
 **Translation:** 
 
-**[9849.44s] English:** Now, Eric is unique in this way, even though he did go to great undergraduate and graduate  
+**[9849.44s] English:** Now, Eric is unique in this way, even though he did go to a great undergraduate and graduate program.  
 **Translation:** Vocabulary: undergraduate: 本科学生
 
-**[9857.50s] English:** schools, and then worked for a while in academia.  
+**[9857.50s] English:** Schools, and then worked for a while in academia.  
 **Translation:** 
 
 **[9865.84s] English:** There are very few examples like this.  
@@ -6700,8 +6701,8 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9867.88s] English:** Yutang Zhang, who proved an important conjecture in number theory about 10 years ago, and is  
 **Translation:** 
 
-**[9872.96s] English:** now, as I understand, is a professor at UC Santa Barbara.  
-**Translation:** Vocabulary: conjecture: 猜想; zhang: 张
+**[9872.96s] English:** Now, as I understand it, he is a professor at UC Santa Barbara.  
+**Translation:** Vocabulary: barbara: 圣芭芭拉; conjecture: 猜想; zhang: 张
 
 **[9877.08s] English:** He worked outside of academia and was able to make a tremendous advance on his own.  
 **Translation:** 
@@ -6709,11 +6710,11 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9883.80s] English:** This case is exceedingly rare, in part because academia is trying to protect its turf, and  
 **Translation:** Vocabulary: exceedingly: 极其
 
-**[9890.88s] English:** it's creating this prohibitive cost of an outsider.  
+**[9890.88s] English:** It's creating a prohibitive cost for an outsider.  
 **Translation:** 
 
 **[9895.28s] English:** That is true.  
-**Translation:** Vocabulary: outsider: 局外人; prohibitive: 高昂的
+**Translation:** Vocabulary: outsider: 局外人; prohibitive: 代价高昂的
 
 **[9896.28s] English:** But there is also something about...  
 **Translation:** 
@@ -6721,17 +6722,17 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9897.88s] English:** How much concentration?  
 **Translation:** 
 
-**[9900.66s] English:** In mathematics, I don't think people who are not in the field understand what kind of focus  
+**[9900.66s] English:** In mathematics, I don't think people who are not in the field understand what kind of focus they have.  
 **Translation:** 
 
-**[9909.12s] English:** and concentration actually doing mathematics at the top level these days requires.  
+**[9909.12s] English:** And concentration is actually required when doing mathematics at the top level these days.  
 **Translation:** 
 
-**[9917.26s] English:** Because we're not talking about something that is more or less good.  
+**[9917.26s] English:** Because we're not talking about something that is, more or less, good.  
 **Translation:** 
 
-**[9920.88s] English:** It is something which is unassailable.  
-**Translation:** Vocabulary: unassailable: 无懈可击
+**[9920.88s] English:** It is something that is unassailable.  
+**Translation:** Vocabulary: unassailable: 无懈可击的
 
 **[9922.76s] English:** It's finding this treasure at the bottom of the ocean.  
 **Translation:** 
@@ -6739,11 +6740,11 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9926.96s] English:** You know?  
 **Translation:** 
 
-**[9927.88s] English:** The aqualung, you know, without oxygen.  
+**[9927.88s] English:** The aqua lung, you know, without oxygen.  
 **Translation:** 
 
-**[9932.88s] English:** And that's why, you know, it's not...  
-**Translation:** Vocabulary: aqualung: 水肺
+**[9932.88s] English:** And that's why, you know, it's not....  
+**Translation:** 
 
 **[9936.18s] English:** People go crazy sometimes, you know?  
 **Translation:** 
@@ -6751,22 +6752,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9937.76s] English:** But there is a reason for that.  
 **Translation:** 
 
-**[9939.12s] English:** Well, let me ask you about that, sort of just to linger on that, the amount of concentration  
+**[9939.12s] English:** Well, let me ask you about that, sort of just to linger on that: the amount of concentration.  
 **Translation:** 
 
-**[9943.78s] English:** required.  
-**Translation:** 
+**[9943.78s] English:** Required.  
+**Translation:** Vocabulary: linger: 停留
 
-**[9946.48s] English:** Cal Newport wrote a book called Deep Work.  
+**[9946.48s] English:** Cal Newport wrote a book called "Deep Work.  
 **Translation:** 
 
 **[9949.56s] English:** He's a theoretical computer scientist.  
 **Translation:** Vocabulary: newport: 纽波特
 
-**[9952.76s] English:** Um...  
+**[9952.76s] English:** Um....  
 **Translation:** 
 
-**[9955.12s] English:** He took quite seriously the task of...  
+**[9955.12s] English:** He took the task quite seriously....  
 **Translation:** 
 
 **[9956.66s] English:** What?  
@@ -6775,41 +6776,41 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9957.66s] English:** The task of allocating the hours in the day for that.  
 **Translation:** 
 
-**[9960.00s] English:** kind of deep thinking. And then the mathematicians  
+**[9960.00s] English:** Kind of deep thinking, and then the mathematicians.  
 **Translation:** 
 
-**[9962.36s] English:** is theoretical computer  
+**[9962.36s] English:** Is theoretical computer  
 **Translation:** Vocabulary: mathematicians: 数学家
 
-**[9964.06s] English:** scientists on steroids.  
+**[9964.06s] English:** Scientists on steroids.  
 **Translation:** 
 
-**[9966.98s] English:** So, for your  
-**Translation:** Vocabulary: steroids: 兴奋剂
+**[9966.98s] English:** So, for your next move,  
+**Translation:** Vocabulary: steroids: 类固醇
 
-**[9968.08s] English:** own life and what you've observed,  
+**[9968.08s] English:** Of your own life and what you've observed,  
 **Translation:** 
 
-**[9971.68s] English:** let me  
+**[9971.68s] English:** Let me  
 **Translation:** 
 
-**[9972.12s] English:** ask the big question. How to think?  
+**[9972.12s] English:** Ask the big question: How to think?  
 **Translation:** 
 
-**[9974.88s] English:** How to think deeply?  
+**[9974.88s] English:** How to Think Deeply?  
 **Translation:** 
 
-**[9976.78s] English:** How to find the mental,  
+**[9976.78s] English:** How to Find the Mental,  
 **Translation:** 
 
-**[9978.44s] English:** psychological,  
+**[9978.44s] English:** Psychological,  
 **Translation:** 
 
-**[9980.02s] English:** pragmatic space to really  
+**[9980.02s] English:** Pragmatic space to really  
 **Translation:** 
 
-**[9982.20s] English:** sit there and think deeply?  
-**Translation:** Vocabulary: pragmatic: 实用的空间
+**[9982.20s] English:** Sit there and think deeply?  
+**Translation:** Vocabulary: pragmatic: 实用的
 
 **[9985.42s] English:** How do you do it?  
 **Translation:** 
@@ -6817,64 +6818,64 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[9986.74s] English:** In the moments you remember where  
 **Translation:** 
 
-**[9988.24s] English:** you really deeply thought,  
+**[9988.24s] English:** You really deeply thought,  
 **Translation:** 
 
-**[9990.00s] English:** was it  
+**[9990.00s] English:** Was it?  
 **Translation:** 
 
-**[9993.18s] English:** an accident? Was it deliberate?  
+**[9993.18s] English:** An accident? Was it deliberate?  
 **Translation:** 
 
-**[9995.66s] English:** No, it's deliberate because  
+**[9995.66s] English:** No, it's deliberate, because  
 **Translation:** Vocabulary: deliberate: 故意的
 
-**[9996.74s] English:** first of all, my first  
+**[9996.74s] English:** First of all, my first  
 **Translation:** 
 
-**[10000.74s] English:** years as a mathematician,  
-**Translation:** 
+**[10000.74s] English:** Years as a mathematician,  
+**Translation:** Vocabulary: mathematician: 数学家
 
-**[10002.92s] English:** you know,  
+**[10002.92s] English:** You know,  
 **Translation:** 
 
 **[10004.46s] English:** I worked every  
 **Translation:** 
 
-**[10007.06s] English:** day. Weekends,  
+**[10007.06s] English:** Day. Weekends,  
 **Translation:** 
 
-**[10009.42s] English:** holidays, doesn't matter.  
+**[10009.42s] English:** Holidays don't matter.  
 **Translation:** 
 
 **[10012.72s] English:** I didn't even question that, so I would feel  
 **Translation:** 
 
-**[10015.20s] English:** something's missing if I  
+**[10015.20s] English:** Something's missing if I  
 **Translation:** 
 
-**[10016.88s] English:** took a day off.  
+**[10016.88s] English:** Took a day off.  
 **Translation:** 
 
 **[10020.00s] English:** And, you know,  
 **Translation:** 
 
-**[10022.76s] English:** so it was just a kind of a sustained effort.  
+**[10022.76s] English:** So, it was just a kind of sustained effort.  
 **Translation:** 
 
-**[10025.22s] English:** The point is that still the process is non-linear,  
+**[10025.22s] English:** The point is that the process is still non-linear.  
+**Translation:** Vocabulary: sustained: 持续的
+
+**[10028.22s] English:** To go back to what we discussed earlier,  
 **Translation:** 
 
-**[10028.22s] English:** to go back to what we discussed earlier,  
+**[10031.44s] English:** That, in other words, the way I see it, is you  
 **Translation:** 
 
-**[10031.44s] English:** that, in other words, the way I see it is you  
+**[10034.32s] English:** Just, you are making an effort to bring all the  
 **Translation:** 
 
-**[10034.32s] English:** just, you are making an effort to bring all the  
-**Translation:** 
-
-**[10038.22s] English:** information into focus, what you believe is correct.  
+**[10038.22s] English:** Information into focus: what you believe is correct.  
 **Translation:** 
 
 **[10042.86s] English:** And you're playing with different ways of connecting things.  
@@ -6883,359 +6884,359 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[10049.18s] English:** But,  
 **Translation:** 
 
-**[10050.42s] English:** it is a total miracle when suddenly inside strikes.  
+**[10050.42s] English:** It is a total miracle when suddenly it strikes inside.  
 **Translation:** 
 
-**[10055.68s] English:** It is not something that in my experience could be predicted,  
+**[10055.68s] English:** It is not something that, in my experience, could be predicted.  
 **Translation:** 
 
-**[10059.50s] English:** or even anticipated or brought closer.  
+**[10059.50s] English:** Or even anticipated, or brought closer.  
 **Translation:** 
 
 **[10065.40s] English:** There is a famous story about Einstein that he used to, you know,  
+**Translation:** Vocabulary: anticipated: 预料到
+
+**[10068.96s] English:** Go think, think, think, and then go for a walk, and he would whistle sometimes.  
 **Translation:** 
 
-**[10068.96s] English:** go think, think, think and then go for a walk, and he would whistle sometimes.  
+**[10073.82s] English:** So, I remember the first time I heard this story.  
+**Translation:** Vocabulary: whistle: 吹口哨
+
+**[10076.68s] English:** I thought, hmm, how interesting; it's a coincidence that this came to him when he was a kid.  
 **Translation:** 
 
-**[10073.82s] English:** So I remember the first time I heard of this story,  
-**Translation:** 
-
-**[10076.68s] English:** I thought, hmm, how interesting, it's a coincidence that this came to him when he was a kid.  
-**Translation:** 
-
-**[10079.80s] English:** it's a coincidence that this came to him when he was a kid.  
+**[10079.80s] English:** It's a coincidence that this came to him when he was a kid.  
 **Translation:** Vocabulary: coincidence: 巧合
 
-**[10080.00s] English:** was whistling but in fact it's not this it is how it works in some sense that you have to prepare  
+**[10080.00s] English:** Was whistling, but in fact, it's not; this is how it works, in some sense, that you have to prepare.  
 **Translation:** 
 
-**[10086.96s] English:** for it but then the mom it happens when you stop thinking actually so the moment of discovery  
+**[10086.96s] English:** For it, but then the mom, it happens when you stop thinking about it actually, so the moment of discovery.  
 **Translation:** Vocabulary: whistling: 吹口哨
 
-**[10092.48s] English:** is the moment when thinking stops and you know you kind of you kind of almost become that truth that  
+**[10092.48s] English:** Is the moment when thinking stops, and you know you kind of almost become that truth.  
 **Translation:** 
 
-**[10100.64s] English:** you're seeking but you cannot do it by will in some sense it's some it's kind of like you know  
+**[10100.64s] English:** You're seeking, but you cannot do it by will. In some sense, it's kind of like you know.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[10106.24s] English:** how in the eastern tradition they have this concept of satori like in buddhism and then  
+**[10106.24s] English:** How, in the Eastern tradition, they have this concept of satori, like in Buddhism, and then  
 **Translation:** 
 
-**[10110.32s] English:** buddhism you have this satori which is enlightenment and so like the various reports of  
+**[10110.32s] English:** Buddhism, you have this satori, which is enlightenment, and so, like, the various reports of  
 **Translation:** Vocabulary: buddhism: 佛教; enlightenment: 觉悟; satori: 悟境
 
-**[10117.60s] English:** buddhist monks or buddhist pastors who have had experienced satori  
+**[10117.60s] English:** Buddhist monks or Buddhist pastors who have had an experience of satori.  
 **Translation:** 
 
-**[10123.36s] English:** but they say you can't you can't uh do it by will you cannot make it happen if anything you  
+**[10123.36s] English:** But they say you can't do it by will; you can't, uh, make it happen. If anything,  
+**Translation:** Vocabulary: buddhist: 佛教徒
+
+**[10130.56s] English:** Have to relax to let it come to you, you know? It's kind of like that; it's kind of like that. So,  
 **Translation:** 
 
-**[10130.56s] English:** have to relax to let it come to you you know it's kind of like that it's kind of like that so  
+**[10136.24s] English:** I think that what matters, but you say how to think; the point is that we're talking about such  
 **Translation:** 
 
-**[10136.24s] English:** i think that what matters but you say how to think the point is that we're talking about such  
+**[10143.36s] English:** An esoteric area of mathematics is really an esoteric area; it's a really strange subject where you try.  
 **Translation:** 
 
-**[10143.36s] English:** an esoteric area mathematics is really esoteric area it's a really strange subject where you try  
-**Translation:** 
-
-**[10149.44s] English:** to to fit everything in this very very stringent set of rules to pay those set of those rules  
+**[10149.44s] English:** To fit everything into this very stringent set of rules, we have to pay close attention to those rules.  
 **Translation:** Vocabulary: esoteric: 深奥的; stringent: 严格的
 
-**[10158.08s] English:** isn't it basically the the pure the hardest manifestation of a puzzle that we're all solving  
+**[10158.08s] English:** Isn't it basically the purest, hardest manifestation of a puzzle that we're all solving?  
 **Translation:** 
 
-**[10163.84s] English:** in different other disciplines but this is the  
-**Translation:** Vocabulary: disciplines: 学科; manifestation: 表现
+**[10163.84s] English:** In different other disciplines, but this is the  
+**Translation:** Vocabulary: disciplines: 学科; manifestation: 表现; purest: 最纯粹的
 
-**[10166.24s] English:** the hardest puzzle but yes i know because there is just a different for instance there is a  
+**[10166.24s] English:** The hardest puzzle, but yes, I know because there is just a different—for instance, there is a  
 **Translation:** 
 
-**[10172.08s] English:** different criterion for what constitutes progress for instance physics a lot of arguments they make  
-**Translation:** Vocabulary: criterion: 标准
+**[10172.08s] English:** Different criteria for what constitutes progress, for instance, in physics: a lot of arguments they make.  
+**Translation:** Vocabulary: criteria: 标准
 
-**[10178.40s] English:** they are not rigorous from mathematical perspective it is kind of an intuitive  
+**[10178.40s] English:** They are not rigorous from a mathematical perspective; it is kind of intuitive.  
 **Translation:** 
 
-**[10181.84s] English:** argument we think it is like this and this is acceptable in the subject for a good reason  
-**Translation:** Vocabulary: intuitive: 直观; mathematical: 数学的; rigorous: 严谨
+**[10181.84s] English:** Argument: We think it is like this, and this is acceptable in the subject for a good reason.  
+**Translation:** Vocabulary: intuitive: 直觉的; mathematical: 数学的; rigorous: 严格的
 
-**[10187.36s] English:** and on the so there is some play it's more it's more like human activity  
+**[10187.36s] English:** And, on the other hand, there is some play; it's more like human activity.  
 **Translation:** 
 
-**[10191.68s] English:** day-to-day activity like for instance you and i discuss something you have an idea  
+**[10191.68s] English:** Day-to-day activity, like, for instance, you and I discuss something, you have an idea.  
 **Translation:** 
 
-**[10196.24s] English:** i have an idea and we argue about it and something seems more plausible  
+**[10196.24s] English:** I have an idea, and we argue about it, and something seems more plausible.  
 **Translation:** 
 
-**[10200.00s] English:** something seems less plausible  
-**Translation:** Vocabulary: plausible: 合情合理
+**[10200.00s] English:** Something seems less plausible.  
+**Translation:** Vocabulary: plausible: 合情合理的
 
-**[10202.02s] English:** and so we may decide to take this point of view  
+**[10202.02s] English:** And so, we may decide to take this point of view.  
 **Translation:** 
 
-**[10205.02s] English:** or that point of view as a provisional  
+**[10205.02s] English:** Or that point of view as a provisional.  
 **Translation:** Vocabulary: provisional: 临时的
 
-**[10206.60s] English:** sort of like  
+**[10206.60s] English:** Sort of like  
 **Translation:** 
 
-**[10208.06s] English:** point of view and go with it  
+**[10208.06s] English:** Point of view, and go with it.  
 **Translation:** 
 
-**[10210.76s] English:** in my mind it doesn't work this way  
+**[10210.76s] English:** In my mind, it doesn't work this way.  
 **Translation:** 
 
-**[10213.18s] English:** you either prove it or you don't  
+**[10213.18s] English:** You either prove it, or you don't.  
 **Translation:** 
 
-**[10214.94s] English:** and often times  
+**[10214.94s] English:** And often times,  
 **Translation:** 
 
-**[10216.94s] English:** you get to the point  
+**[10216.94s] English:** You get to the point.  
 **Translation:** 
 
-**[10219.30s] English:** where there is this much you need to prove  
+**[10219.30s] English:** Where there is this much, you need to prove it.  
 **Translation:** 
 
-**[10221.36s] English:** and it just wouldn't  
+**[10221.36s] English:** And it just wouldn't.  
 **Translation:** 
 
-**[10223.12s] English:** come to you  
+**[10223.12s] English:** Come to you.  
 **Translation:** 
 
-**[10224.44s] English:** and you just don't see it  
+**[10224.44s] English:** And you just don't see it.  
 **Translation:** 
 
-**[10226.64s] English:** and it can go on for months  
+**[10226.64s] English:** And it can go on for months.  
 **Translation:** 
 
-**[10228.70s] English:** super frustrating  
-**Translation:** Vocabulary: frustrating: 极其令人沮丧
+**[10228.70s] English:** Super frustrating.  
+**Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[10231.20s] English:** but without it  
+**[10231.20s] English:** But without it,  
 **Translation:** 
 
-**[10232.76s] English:** it is nothing  
+**[10232.76s] English:** It is nothing.  
 **Translation:** 
 
-**[10234.20s] English:** I would love to hear your opinion  
+**[10234.20s] English:** I would love to hear your opinion.  
 **Translation:** 
 
-**[10237.10s] English:** to the degree that you know it  
+**[10237.10s] English:** To the degree that you know it,  
 **Translation:** 
 
-**[10239.04s] English:** of the proof of Fermat's  
+**[10239.04s] English:** Of the proof of Fermat's  
 **Translation:** 
 
-**[10241.16s] English:** last theorem by Andrew Wiles  
+**[10241.16s] English:** Last Theorem by Andrew Wiles  
 **Translation:** Vocabulary: theorem: 定理; wiles: 威尔斯
 
-**[10242.82s] English:** which seems to have  
+**[10242.82s] English:** Which seems to have  
 **Translation:** 
 
-**[10245.16s] English:** this element  
+**[10245.16s] English:** This element  
 **Translation:** 
 
-**[10245.92s] English:** perhaps for years  
+**[10245.92s] English:** Perhaps, for years.  
 **Translation:** 
 
-**[10248.18s] English:** to the degree that you know  
+**[10248.18s] English:** To the degree that you know,  
 **Translation:** 
 
-**[10249.66s] English:** perhaps can you explain Fermat's last theorem  
+**[10249.66s] English:** Perhaps you could explain Fermat's Last Theorem?  
 **Translation:** 
 
-**[10251.76s] English:** and what your thoughts are  
+**[10251.76s] English:** And what are your thoughts?  
 **Translation:** 
 
-**[10254.02s] English:** in the process that Andrew Wiles took  
+**[10254.02s] English:** In the process that Andrew Wiles took,  
 **Translation:** 
 
-**[10255.68s] English:** that seemed to  
+**[10255.68s] English:** That seemed to  
 **Translation:** 
 
-**[10256.44s] English:** at least for my romantic  
+**[10256.44s] English:** At least, for my romantic  
 **Translation:** 
 
-**[10258.54s] English:** perspective  
+**[10258.54s] English:** Perspective.  
 **Translation:** 
 
-**[10259.08s] English:** seemed to be very lonely  
+**[10259.08s] English:** Seemed to be very lonely.  
 **Translation:** 
 
-**[10260.70s] English:** yes  
+**[10260.70s] English:** Yes.  
 **Translation:** 
 
-**[10261.46s] English:** it's a lonely profession  
+**[10261.46s] English:** It's a lonely profession.  
 **Translation:** 
 
-**[10263.18s] English:** and hopeless  
+**[10263.18s] English:** And, hopeless.  
 **Translation:** 
 
-**[10264.92s] English:** and  
+**[10264.92s] English:** And  
 **Translation:** 
 
-**[10265.72s] English:** you put it really nicely  
+**[10265.72s] English:** You put it really nicely.  
+**Translation:** Vocabulary: nicely: 得体地
+
+**[10271.78s] English:** Because it feels like  
 **Translation:** 
 
-**[10271.78s] English:** because it feels like  
+**[10273.40s] English:** There are a lot of moments.  
 **Translation:** 
 
-**[10273.40s] English:** there's a lot of moments  
+**[10274.78s] English:** Where you feel like you're close.  
 **Translation:** 
 
-**[10274.78s] English:** where you feel like you're close  
+**[10275.92s] English:** You feel like 99% is done.  
 **Translation:** 
 
-**[10275.92s] English:** you feel like 99% is done  
+**[10277.20s] English:** And there is this one stubborn thing.  
 **Translation:** 
 
-**[10277.20s] English:** and there is this one stubborn thing  
+**[10279.24s] English:** Which just doesn't compute.  
+**Translation:** Vocabulary: compute: 计算得出
+
+**[10282.22s] English:** It doesn't happen.  
 **Translation:** 
 
-**[10279.24s] English:** which just does not compute  
+**[10283.26s] English:** And you're trying to find that.  
 **Translation:** 
 
-**[10282.22s] English:** it doesn't happen  
+**[10285.68s] English:** Push for this last link.  
 **Translation:** 
 
-**[10283.26s] English:** and you're trying to find that  
+**[10287.74s] English:** And  
 **Translation:** 
 
-**[10285.68s] English:** push for this last link  
+**[10288.08s] English:** And  
 **Translation:** 
 
-**[10287.74s] English:** and  
+**[10318.54s] English:** They will understand.  
 **Translation:** 
 
-**[10288.08s] English:** and  
+**[10319.40s] English:** Yes.  
 **Translation:** 
 
-**[10318.54s] English:** they will understand  
+**[10320.00s] English:** Know, so let's try Fermat's Last Theorem — one of the jewels of mathematics of all time.  
+**Translation:** Vocabulary: jewels: 数学瑰宝
+
+**[10331.20s] English:** A beautiful story also lies behind it: Pierre Fermat, a great French mathematician who lived in the  
 **Translation:** 
 
-**[10319.40s] English:** yes  
+**[10337.52s] English:** Beginning of the 17th century, and he actually had to  
+**Translation:** Vocabulary: fermat: 费马; mathematician: 数学家; pierre: 皮埃尔
+
+**[10345.20s] English:** His credit includes a number of important contributions, but the most famous is called Fermat's Last Theorem.  
 **Translation:** 
 
-**[10320.00s] English:** know so let's try uh fermat's last theorem one of the jewels sort of of mathematics of all time  
+**[10351.04s] English:** Or, if you're a great theory, and the reason why it became so famous is in part because  
+**Translation:** Vocabulary: theorem: 定理
+
+**[10357.60s] English:** He actually claimed to have proved it himself, and he did it on the margin of a book.  
 **Translation:** 
 
-**[10331.20s] English:** a beautiful story also behind it pierre fermat a great french mathematician who lived in the  
+**[10363.76s] English:** He was reading which was actually an important book by Diaphantos about equations with coefficients in  
+**Translation:** Vocabulary: coefficients: 系数; equations: 方程; margin: 空白处
+
+**[10369.76s] English:** Whole numbers, and he wrote in the margin, "literally, I.  
 **Translation:** 
 
-**[10337.52s] English:** beginning of mostly worked at the beginning of uh what 17th century and uh he actually has to  
-**Translation:** Vocabulary: fermat: 费马; mathematician: 数学家
-
-**[10345.20s] English:** his credit a number of important contributions but the most famous is called fermat's last theorem  
-**Translation:** 
-
-**[10351.04s] English:** or if you're a great theory and the reason why it became so famous is in part because  
-**Translation:** 
-
-**[10357.60s] English:** he actually claimed to have proved it himself and he did it on the margin of a of a book that  
-**Translation:** 
-
-**[10363.76s] English:** he was reading which was a actually important book by diafantos about equations with coefficients in  
-**Translation:** Vocabulary: coefficients: 系数; equations: 方程
-
-**[10369.76s] English:** whole numbers and he wrote on the margin literally i he  
-**Translation:** 
-
-**[10375.20s] English:** this equation you know this problem which i will explain in a moment um i have solved it i have  
+**[10375.20s] English:** This equation, you know, this problem which I will explain in a moment — I have solved it, I have.  
 **Translation:** Vocabulary: equation: 方程
 
-**[10381.12s] English:** found a proof but this margin is too small to contain it at some point i i give i was giving  
+**[10381.12s] English:** Found a proof, but this margin is too small to contain it. At some point, I was giving.  
 **Translation:** 
 
-**[10388.16s] English:** a public talk about this and i made it as a joke i made a tweet in which i wrote that i have proved  
+**[10388.16s] English:** A public talk about this, and I made it as a joke. I made a tweet in which I wrote that I have proved.  
 **Translation:** 
 
-**[10394.16s] English:** this theorem but 280 characters are not enough and it kind of cuts me in mid-sentence yeah so this  
+**[10394.16s] English:** This theorem, but 280 characters are not enough and it kind of cuts me in mid-sentence, yeah, so this.  
 **Translation:** 
 
-**[10398.96s] English:** was 17th century twitter style proof okay but a lot of mathematicians took it seriously because  
-**Translation:** Vocabulary: mathematicians: 数学家; theorem: 定理
+**[10398.96s] English:** Was 17th-century Twitter-style proof okay, but a lot of mathematicians took it seriously because...  
+**Translation:** Vocabulary: mathematicians: 数学家
 
-**[10405.20s] English:** he had great credibility he did did made did make some major contributions and the search was on  
+**[10405.20s] English:** He had great credibility. He did make some major contributions, and the search was on.  
 **Translation:** 
 
-**[10413.28s] English:** so for 350 years about 350 years it remained unproved with many people trying and failing  
-**Translation:** Vocabulary: credibility: 可信性; unproved: 未证明
+**[10413.28s] English:** So, for 350 years, about 350 years, it remained unproven, with many people trying and failing.  
+**Translation:** Vocabulary: credibility: 可信性; unproven: 未证实
 
-**[10424.64s] English:** until in 1994 no in 1993 andrew wiles announced a mathematician from princeton university announced  
+**[10424.64s] English:** Until 1994, in 1993 Andrew Wiles, a mathematician from Princeton University, announced  
 **Translation:** 
 
-**[10435.20s] English:** and it was very exciting because he was one of the top number theorists in the world  
-**Translation:** Vocabulary: princeton: 普林斯顿大学; theorists: 理论家; wiles: 威尔斯
+**[10435.20s] English:** And it was very exciting because he was one of the top number theorists in the world.  
+**Translation:** 
 
 **[10440.00s] English:** And unfortunately, about a year later, a gap was found.  
 **Translation:** 
 
-**[10444.40s] English:** So this is exactly what we were talking about earlier.  
+**[10444.40s] English:** So, this is exactly what we were talking about earlier.  
 **Translation:** 
 
-**[10446.60s] English:** You have 99% of the proof, this one little thing does not quite connect, and this nullifies  
+**[10446.60s] English:** You have 99% of the proof. This one little thing doesn't quite connect, and that nullifies.  
 **Translation:** 
 
-**[10451.78s] English:** the whole thing.  
+**[10451.78s] English:** The whole thing.  
 **Translation:** Vocabulary: nullifies: 使无效
 
-**[10452.78s] English:** Even though, well, you could say there are some interesting ideas, but it's not the same  
+**[10452.78s] English:** Even though, well, you could say there are some interesting ideas, but it's not the same.  
 **Translation:** 
 
-**[10456.80s] English:** as actually having a proof.  
+**[10456.80s] English:** As actually having a proof.  
 **Translation:** 
 
-**[10458.66s] English:** So he apparently was really frustrated, and a lot of people thought that it's going to  
+**[10458.66s] English:** So, he apparently was really frustrated, and a lot of people thought that it's going to  
 **Translation:** 
 
-**[10463.84s] English:** be another 100 years or whatever.  
+**[10463.84s] English:** It might take another 100 years, or however long it takes.  
 **Translation:** 
 
-**[10466.30s] English:** And then luckily, he was able to enlist with the help, assistance of his former student,  
+**[10466.30s] English:** And then, luckily, he was able to enlist with the help and assistance of his former student.  
 **Translation:** 
 
-**[10473.58s] English:** also a great number theorist, Richard Taylor.  
-**Translation:** Vocabulary: enlist: 参军; theorist: 理论家
+**[10473.58s] English:** Also a great number theorist, Richard Taylor.  
+**Translation:** Vocabulary: enlist: 征召; theorist: 理论家
 
-**[10475.92s] English:** They were able to do that 1%, so to speak.  
+**[10475.92s] English:** They were able to do that, 1%, so to speak.  
 **Translation:** 
 
-**[10478.98s] English:** Well, some people might say it's maybe not 1%, but 5% or whatever.  
+**[10478.98s] English:** Well, some people might say it's maybe not 1%, but 5%, or whatever.  
 **Translation:** 
 
-**[10481.90s] English:** But it definitely was an important ingredient, but he had a big new set of ideas, and this  
+**[10481.90s] English:** But it definitely was an important ingredient, but he had a big new set of ideas, and this:  
 **Translation:** 
 
-**[10488.80s] English:** one thing didn't pan out.  
+**[10488.80s] English:** One thing didn't pan out.  
 **Translation:** 
 
-**[10490.60s] English:** They were able to close it with Taylor, and it finally was published, and I think was  
+**[10490.60s] English:** They were able to close it with Taylor, and it was finally published, and I think it was  
 **Translation:** 
 
-**[10494.60s] English:** accepted and reviewed.  
+**[10494.60s] English:** Accepted and reviewed.  
 **Translation:** 
 
 **[10496.30s] English:** It's in 95, and it's believed to be correct.  
 **Translation:** 
 
-**[10501.92s] English:** Now what he proved actually was not Fermat's theorem itself, but a certain statement which  
+**[10501.92s] English:** Now, what he proved actually was not Fermat's theorem itself, but a certain statement which  
+**Translation:** Vocabulary: theorem: 定理
+
+**[10509.40s] English:** Is called the Shimura-Taniyama-Weil conjecture, named after three mathematicians, two of whom are Japanese.  
 **Translation:** 
 
-**[10509.40s] English:** is called Shimura-Taniyama-Wei conjecture, named after three mathematicians, two Japanese  
-**Translation:** 
-
-**[10514.30s] English:** mathematicians and one French-born mathematician who worked also at the Institute for Advanced  
-**Translation:** Vocabulary: conjecture: 猜想; mathematician: 数学家
+**[10514.30s] English:** Mathematicians, and one French-born mathematician who also worked at the Institute for Advanced Study.  
+**Translation:** Vocabulary: conjecture: 猜想; mathematician: 数学家; mathematicians: 数学家
 
 **[10519.42s] English:** Study in Princeton.  
 **Translation:** 
 
 **[10523.18s] English:** And it was my colleague at UC Berkeley, Ken Ribbitt.  
-**Translation:** Vocabulary: berkeley: 伯克利; colleague: 同事
+**Translation:** Vocabulary: berkeley: 加州大学伯克利分校; colleague: 同事; princeton: 普林斯顿大学
 
 **[10525.64s] English:** Who?  
 **Translation:** 
@@ -7243,83 +7244,83 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[10526.12s] English:** Ken.  
 **Translation:** 
 
-**[10527.44s] English:** Ken was the first Romeo and Juliettechuss in the eighties, connected the two problems.  
+**[10527.44s] English:** Ken was the first Romeo and Juliettechuss in the '80s, connecting the two problems.  
 **Translation:** 
 
-**[10530.96s] English:** So this is how it often works in mathematics.  
-**Translation:** Vocabulary: juliettechuss: 代入; romeo: 罗密欧
+**[10530.96s] English:** So, this is how it often works in mathematics.  
+**Translation:** Vocabulary: juliettechuss: 代打; romeo: 罗密欧
 
-**[10533.36s] English:** You want to prove statement A. Instead, you prove that A is equivalent to B. So after  
+**[10533.36s] English:** You want to prove statement A. Instead, you prove that A is equivalent to B. So, after  
 **Translation:** 
 
-**[10539.30s] English:** that, if you can prove B, this would automatically imply that A is correct.  
+**[10539.30s] English:** That, if you can prove B, this would automatically imply that A is correct.  
 **Translation:** 
 
 **[10542.78s] English:** This is what happened here.  
 **Translation:** 
 
-**[10544.16s] English:** A was Fermat's Last Theorem, B was Shimura-Taniyama-Wei conjecture.  
-**Translation:** Vocabulary: theorem: 定理
+**[10544.16s] English:** A was Fermat's Last Theorem, and B was the Shimura-Taniyama-Weil conjecture.  
+**Translation:** 
 
 **[10546.82s] English:** And that's what Andrew Wiles and Richard Taylor really proved.  
 **Translation:** 
 
-**[10551.34s] English:** So it requires, to get to Fermat's Last Theorem, it requires that bridge, which was established  
+**[10551.34s] English:** So, it requires that bridge to get to Fermat's Last Theorem, which was established.  
+**Translation:** Vocabulary: wiles: 威尔斯
+
+**[10555.24s] English:** By my colleague Ken Ribbitt.  
 **Translation:** 
 
-**[10555.24s] English:** by my colleague Ken Ribbitt.  
+**[10555.96s] English:** So, now, what is the statement of Fermat's Last Theorem?  
 **Translation:** 
 
-**[10555.96s] English:** So now, what is the statement of Fermat's last theorem?  
+**[10560.00s] English:** Now, let me start with Pythagoras, since we've already talked about it, let me start with...  
 **Translation:** 
 
-**[10560.00s] English:** Now, let me start with Pythagoras, since we already talked about it, let me start with  
+**[10564.76s] English:** Pythagoras' theorem, which describes right triangles.  
+**Translation:** Vocabulary: pythagoras: 毕达哥拉斯; triangles: 三角形
+
+**[10570.14s] English:** So, what is a right triangle?  
 **Translation:** 
 
-**[10564.76s] English:** Pythagoras' theory, which describes the right triangles.  
-**Translation:** Vocabulary: pythagoras: 毕达哥拉斯; triangles: 直角三角形
+**[10571.14s] English:** It's a triangle in which one of the angles is 90 degrees, like this: △.  
+**Translation:** Vocabulary: triangle: 三角形
 
-**[10570.14s] English:** So what is the right triangle?  
+**[10576.00s] English:** So, it has three sides.  
 **Translation:** 
 
-**[10571.14s] English:** It's a triangle in which one of the angles is 90 degrees, like this.  
-**Translation:** 
-
-**[10576.00s] English:** So it has three sides.  
-**Translation:** 
-
-**[10577.50s] English:** The longer side is called hypotenuse, and then there's two other sides.  
+**[10577.50s] English:** The longer side is called the hypotenuse, and then there are two other sides.  
 **Translation:** Vocabulary: hypotenuse: 斜边
 
-**[10581.82s] English:** So if we denote the length of hypotenuse by Z and the two other sides, X and Y, then Z  
+**[10581.82s] English:** So, if we denote the length of the hypotenuse by Z, and the two other sides by X and Y, then Z  
 **Translation:** 
 
-**[10588.80s] English:** squared is equal to X squared plus Y squared.  
+**[10588.80s] English:** Squared is equal to X squared plus Y squared.  
 **Translation:** 
 
-**[10593.18s] English:** So that's the equation, or X squared plus Y squared equals Z squared.  
+**[10593.18s] English:** So that's the equation: \(X^2 + Y^2 = Z^2\).  
 **Translation:** 
 
-**[10598.52s] English:** And it turns out that this equation has solutions in natural numbers, actually infinitely many  
+**[10598.52s] English:** And it turns out that this equation has solutions in natural numbers—actually, infinitely many.  
 **Translation:** Vocabulary: equation: 方程; infinitely: 无穷地
 
-**[10605.54s] English:** solutions in natural numbers.  
+**[10605.54s] English:** Solutions in natural numbers.  
 **Translation:** 
 
-**[10607.94s] English:** For example, if you take X equals three, Y equals four, and Z equals five, then they  
+**[10607.94s] English:** For example, if you let X equal 3, Y equal 4, and Z equal 5, then they  
 **Translation:** 
 
-**[10616.76s] English:** solve this equation.  
+**[10616.76s] English:** Solve this equation.  
 **Translation:** 
 
 **[10618.48s] English:** Because three hundred and...  
 **Translation:** 
 
-**[10618.80s] English:** Three squared is nine, four squared is 16, nine plus 16, 25, and that's five squared.  
+**[10618.80s] English:** Three squared is nine, four squared is 16, nine plus 16 equals 25, and that's five squared.  
 **Translation:** 
 
-**[10628.72s] English:** So X squared plus Y squared equals Z squared is solved by X equals three, Y equals four,  
-**Translation:** 
+**[10628.72s] English:** So, \(x^2 + y^2 = z^2\) is solved by \(x = 3\), \(y = 4\),  
+**Translation:** Vocabulary: equals: 等于
 
 **[10635.28s] English:** Z equals five.  
 **Translation:** 
@@ -7327,7 +7328,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[10636.28s] English:** And there are many other solutions of that nature.  
 **Translation:** 
 
-**[10638.04s] English:** And we should say that natural numbers are whole numbers that are non-negative.  
+**[10638.04s] English:** And we should say that natural numbers are whole, non-negative numbers.  
 **Translation:** 
 
 **[10643.48s] English:** That's right.  
@@ -7336,19 +7337,19 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[10644.48s] English:** One, two, three, four, five, six, and so on.  
 **Translation:** 
 
-**[10646.14s] English:** Now what's Fermat's last theorem?  
-**Translation:** 
+**[10646.14s] English:** Now, what is Fermat's Last Theorem?  
+**Translation:** Vocabulary: theorem: 定理
 
-**[10648.48s] English:** He says, what about...  
+**[10648.48s] English:** He says, "What about...  
 **Translation:** 
 
 **[10649.94s] English:** What will happen if we replace squares by cubes, for example?  
 **Translation:** 
 
-**[10653.66s] English:** So X cubed plus Y cubed equals Z cubed.  
+**[10653.66s] English:** So, \( x^3 + y^3 = z^3 \).  
 **Translation:** 
 
-**[10657.64s] English:** Are there any solutions in, what do you call it, natural numbers?  
+**[10657.64s] English:** Are there any solutions in natural numbers?  
 **Translation:** 
 
 **[10664.76s] English:** It turns out there are none.  
@@ -7363,196 +7364,196 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[10669.56s] English:** Well, it seems like none, right?  
 **Translation:** 
 
-**[10671.86s] English:** So that was the statement.  
+**[10671.86s] English:** So, that was the statement.  
 **Translation:** 
 
-**[10673.88s] English:** So this theorem says that the equation X cubed plus Y cubed equals Z cubed.  
-**Translation:** Vocabulary: theorem: 定理
-
-**[10678.36s] English:** Equals Z cubed.  
+**[10673.88s] English:** So, this theorem says that the equation \(X^3 + Y^3 = Z^3\).  
 **Translation:** 
 
-**[10680.00s] English:** no solutions in natural numbers. Remember, natural means positive whole numbers. So of  
+**[10678.36s] English:** Equals z cubed.  
 **Translation:** 
 
-**[10687.06s] English:** course there is a trivial solution, zero, zero, zero, so that this works, but you need  
+**[10680.00s] English:** No solutions in natural numbers. Remember, natural means positive whole numbers. So,  
 **Translation:** 
 
-**[10690.52s] English:** all of them to be positive. X to the fourth plus Y to the fourth equals Z to the fourth  
+**[10687.06s] English:** Course, there is a trivial solution: zero, zero, zero, so that this works, but you need  
 **Translation:** 
 
-**[10697.10s] English:** also has no solutions. X to the fifth plus Y to the fifth equals Z to the fifth, no solutions.  
+**[10690.52s] English:** All of them to be positive: \(X^4 + Y^4 = Z^4\).  
+**Translation:** Vocabulary: trivial: 平凡的
+
+**[10697.10s] English:** Also, there are no solutions: \(X^5 + Y^5 = Z^5\), no solutions.  
 **Translation:** 
 
-**[10704.80s] English:** So you kind of see the trend. X to the N plus Y to the N equals Z to the N. If N is  
+**[10704.80s] English:** So, you kind of see the trend: \(x^n + y^n = z^n\). If \(n\) is  
 **Translation:** 
 
-**[10711.20s] English:** greater than two, there's no solutions in natural numbers. That is a statement of Fermat's  
+**[10711.20s] English:** Greater than two, there are no solutions in natural numbers. That is a statement of Fermat's.  
 **Translation:** 
 
-**[10716.56s] English:** last theory. Deceptively simple, as far as famous theorems are concerned. You don't need  
+**[10716.56s] English:** Last theory. Deceptively simple, as far as famous theorems are concerned. You don't need  
 **Translation:** Vocabulary: deceptively: 看似简单; theorems: 定理
 
-**[10722.62s] English:** to know anything beyond standard arithmetic, addition and multiplication of natural numbers.  
+**[10722.62s] English:** To know anything beyond standard arithmetic, such as addition and multiplication of natural numbers.  
 **Translation:** 
 
-**[10728.42s] English:** That's why a lot of people, both specialists and amateurs, they don't know anything about  
-**Translation:** Vocabulary: amateurs: 业余人士; arithmetic: 算术; multiplication: 乘法
+**[10728.42s] English:** That's why a lot of people, both specialists and amateurs, don't know anything about  
+**Translation:** Vocabulary: arithmetic: 算术; multiplication: 乘法
 
-**[10734.78s] English:** it, try to prove it, because it's so easy. It's so easy to formulate. So in fact, I  
+**[10734.78s] English:** It's so easy to prove it, because it's so easy to formulate. In fact, I  
 **Translation:** 
 
-**[10741.52s] English:** think Fermat proved the case of cubes. I think he did actually prove some elsewhere the case  
+**[10741.52s] English:** I think Fermat proved the case for cubes. I think he did actually prove something else, as well.  
 **Translation:** Vocabulary: fermat: 费马
 
-**[10746.14s] English:** of cubes, but so it remained like fourth. There are infinitely many cases, right? You  
+**[10746.14s] English:** Of cubes, but so it remained like that. Fourth. There are infinitely many cases, right? You  
 **Translation:** 
 
-**[10750.16s] English:** have to, even if you prove it for cubes and for fourth power and fifth, then still there  
+**[10750.16s] English:** Have to; even if you prove it for cubes and for fourth powers and fifth powers, then still there.  
 **Translation:** Vocabulary: infinitely: 无穷地
 
-**[10753.36s] English:** are six, sevens and so on. There are infinitely many cases in which it has to be proved. And  
+**[10753.36s] English:** There are six, seven, and so on. There are infinitely many cases in which it has to be proved. And  
 **Translation:** 
 
-**[10759.66s] English:** so you see, the deceptively simple result took  
+**[10759.66s] English:** So you see, the deceptively simple result took  
 **Translation:** 
 
-**[10764.70s] English:** time.  
+**[10764.70s] English:** Time.  
 **Translation:** 
 
-**[10764.78s] English:** 350 years to prove. But in a sense, it's like mathematicians, you would think mathematics  
-**Translation:** Vocabulary: mathematicians: 数学家
-
-**[10771.28s] English:** is such a sterile profession. Everybody's so serious, almost like we're all wearing  
+**[10764.78s] English:** 350 years to prove. But in a sense, it's like mathematicians; you would think mathematics,  
 **Translation:** 
 
-**[10776.12s] English:** like lab coats and take an elevator to the ivory tower. However, look at all this drama.  
+**[10771.28s] English:** Is such a sterile profession. Everybody's so serious, almost like we're all wearing masks.  
+**Translation:** 
+
+**[10776.12s] English:** Like wearing lab coats and taking an elevator to the ivory tower, however, look at all this drama.  
 **Translation:** Vocabulary: sterile: 无生机
 
-**[10785.66s] English:** Look at all this drama. It's like, we also like drama. We also have narratives. We also  
+**[10785.66s] English:** Look at all this drama. It's like, we also like drama. We also have narratives. We also,...  
 **Translation:** 
 
-**[10789.78s] English:** have our myths. Here is a guy, he's a 16th century mathematician.  
-**Translation:** Vocabulary: mathematician: 数学家
+**[10789.78s] English:** We have our myths. Here is a guy; he's a 16th-century mathematician.  
+**Translation:** Vocabulary: mathematician: 数学家; narratives: 叙述
 
-**[10794.70s] English:** Or 17th century mathematician, who leaves a note on the margin and motivates us to  
+**[10794.70s] English:** Or, like the 17th-century mathematician who leaves a note on the margin and motivates us to  
 **Translation:** 
 
-**[10800.00s] English:** others to find the proof then how many hearts were broken that they believed that they found  
-**Translation:** Vocabulary: motivates: 激励
+**[10800.00s] English:** Others to find the proof, then how many hearts were broken that they believed they found?  
+**Translation:** Vocabulary: margin: 空白页边; motivates: 激励
 
-**[10805.08s] English:** the proof and then later it was realized that the proof was incorrect and so on and brings us to  
+**[10805.08s] English:** The proof, and then later it was realized that the proof was incorrect, and so on, bringing us to...  
 **Translation:** 
 
-**[10811.00s] English:** modern day and one last attempt and reviles and who is very serious and respected and esteemed  
-**Translation:** Vocabulary: esteemed: 受尊敬的
+**[10811.00s] English:** Modern day, and one last attempt, reveals someone who is very serious and respected and esteemed.  
+**Translation:** Vocabulary: esteemed: 受尊敬的; respected: 受尊重的
 
-**[10817.46s] English:** mathematician announces the proof only to be faced with the same reality of his hopes dashed  
+**[10817.46s] English:** Mathematician announces the proof, only to be faced with the same reality: his hopes dashed.  
 **Translation:** 
 
-**[10823.08s] English:** seemingly dashed and like there is a mistake it doesn't work and then to be able to recover a  
+**[10823.08s] English:** Seemingly, it's dashed and like there is a mistake; it doesn't work, and then to be able to recover.  
+**Translation:** Vocabulary: dashed: 破灭
+
+**[10828.48s] English:** Year later, how much drama in this one story? It's amazing, but from what you understand, for what you  
 **Translation:** 
 
-**[10828.48s] English:** year later how much drama in this one story it's amazing but from what you understand for what you  
+**[10835.10s] English:** Know what was the process for him that, uh, is perhaps similar to your own life of walking.  
 **Translation:** 
 
-**[10835.10s] English:** know what was the process for him that uh that is similar perhaps to your own life of of of walking  
+**[10842.98s] English:** Along with the problem, he has been working on it for months—not years. Yes, so he has given interviews about it.  
 **Translation:** 
 
-**[10842.98s] English:** along with the problem for months not years yes so he worked he has given interviews about it  
+**[10851.90s] English:** Afterwards, so we know that he described his process: that number one, he did not want to tell.  
 **Translation:** 
 
-**[10851.90s] English:** afterwards so we know that he described his process that number one he did not want to tell  
+**[10858.46s] English:** Anybody because he was afraid that people would find out that he's working on it, because he was such  
 **Translation:** 
 
-**[10858.46s] English:** anybody because he was afraid that people find out that he's working on it because he was such  
+**[10865.76s] English:** A top-level mathematician, people would guess, that he has some idea that there is some idea, so you  
 **Translation:** 
 
-**[10865.76s] English:** a top level mathematician people would guess that he has some idea that there is some idea so you  
+**[10872.06s] English:** Know if you just know that somebody has an idea, this already gives you a great boost of confidence.  
 **Translation:** 
 
-**[10872.06s] English:** know if you just know that somebody has an idea this already gives you a great boost of confidence  
+**[10879.08s] English:** Right, so he didn't want people to have that information, so he didn't tell anybody that.  
 **Translation:** 
 
-**[10879.08s] English:** right so he didn't want people to have that information so he didn't tell anybody that  
+**[10884.50s] English:** He was working on it, number one, at speed, lonely. Number two, he worked on it for seven years. If  
 **Translation:** 
 
-**[10884.50s] English:** he was working on it number one speed lonely number two he worked on it for seven years if  
-**Translation:** 
-
-**[10889.58s] English:** i remember correctly by himself and then then he he thought he had it and he was elated obviously  
+**[10889.58s] English:** I remember correctly, by himself, and then he thought he had it, and he was elated, obviously.  
 **Translation:** Vocabulary: elated: 欣喜若狂
 
-**[10898.10s] English:** he was you know very happy and he announced it at a conference i think it was in cambridge  
+**[10898.10s] English:** He was, you know, very happy and he announced it at a conference; I think it was in Cambridge.  
 **Translation:** 
 
-**[10903.96s] English:** university or oxford university in the uk in in 1993 i believe so you know this  
+**[10903.96s] English:** University or Oxford University in the UK in 1993, I believe, so you know this.  
 **Translation:** 
 
-**[10912.76s] English:** is  
+**[10912.76s] English:** Is  
 **Translation:** 
 
-**[10914.18s] English:** is  
+**[10914.18s] English:** Is  
 **Translation:** 
 
-**[10914.20s] English:** is  
+**[10914.20s] English:** Is  
 **Translation:** 
 
-**[10914.48s] English:** really interesting because all of us we can all mathematicians can relate to this because i i  
+**[10914.48s] English:** Really interesting because, all of us—especially mathematicians—can relate to this, because I  
+**Translation:** Vocabulary: mathematicians: 数学家
+
+**[10920.00s] English:** I remember very well my first problem, and how I solved it.  
 **Translation:** 
 
-**[10920.00s] English:** I remember very well my first problem, how I solved my first problem.  
+**[10924.68s] English:** I describe it in "Love and Math," in my book.  
 **Translation:** 
 
-**[10924.68s] English:** I describe it in Love and Math, in my book.  
+**[10927.96s] English:** So, I was 18 years old, I was a student in Moscow, and I just lucked out that I was introduced.  
 **Translation:** 
 
-**[10927.96s] English:** So I was 18 years old, I was a student in Moscow, and I just lucked out that I was introduced  
-**Translation:** 
-
-**[10939.46s] English:** to this great mathematician, since I was not studying at Moscow University because of anti-Semitism  
+**[10939.46s] English:** To this great mathematician, since I was not studying at Moscow University because of anti-Semitism.  
 **Translation:** Vocabulary: mathematician: 数学家; moscow: 莫斯科
 
-**[10945.60s] English:** in the Soviet Union, so I was in this technical school.  
+**[10945.60s] English:** In the Soviet Union, so I was in this technical school.  
 **Translation:** 
 
-**[10948.62s] English:** But I was lucky that I had a mathematician who took me under his wing, and Dmitry Fuchs,  
+**[10948.62s] English:** But I was lucky that I had a mathematician who took me under his wing, and Dmitry Fuchs.  
 **Translation:** Vocabulary: fuchs: 富克斯
 
-**[10955.46s] English:** who actually later came to the US, and he's still a professor at UC Davis, not so far  
+**[10955.46s] English:** Who actually later came to the U.S., and he's still a professor at UC Davis; not so far.  
 **Translation:** 
 
-**[10963.66s] English:** from me.  
+**[10963.66s] English:** From me.  
 **Translation:** 
 
-**[10966.00s] English:** So he gave me this problem, and it was rather technical, so I will not try to describe it,  
+**[10966.00s] English:** So, he gave me this problem, and it was rather technical, so I won't try to describe it.  
 **Translation:** 
 
-**[10971.88s] English:** but I do remember how much effort, that excitement, but also kind of a fear.  
+**[10971.88s] English:** But I do remember how much effort, that excitement, but also kind of a fear.  
 **Translation:** 
 
 **[10978.62s] English:** What if I don't have what it takes?  
 **Translation:** 
 
-**[10981.24s] English:** I lost sleep, so this was one consequence of this.  
+**[10981.24s] English:** I lost sleep, so this was one consequence of that.  
 **Translation:** 
 
 **[10985.84s] English:** For the first time in my life, I had trouble falling asleep, and this actually stayed for  
 **Translation:** 
 
-**[10989.42s] English:** a couple of years afterwards.  
+**[10989.42s] English:** A couple of years afterwards.  
 **Translation:** 
 
-**[10991.24s] English:** So then it was kind of like a wake-up call that I should take care of myself, not work  
+**[10991.24s] English:** So then it was kind of like a wake-up call that I should take care of myself, not work.  
 **Translation:** 
 
-**[10995.10s] English:** too late and so on.  
+**[10995.10s] English:** Too late, and so on.  
 **Translation:** 
 
-**[10996.24s] English:** So that was sort of like that experience.  
+**[10996.24s] English:** So, that was sort of like that experience.  
 **Translation:** 
 
-**[10998.86s] English:** And I was lucky that I was able to find a solution, number one, within two months maybe.  
+**[10998.86s] English:** And I was lucky that I was able to find a solution—number one—in just two months, maybe.  
 **Translation:** 
 
 **[11004.14s] English:** And it was surprising, and it was beautiful.  
@@ -7561,124 +7562,124 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11007.92s] English:** The answer was in terms of something which seemed to be from a different world, from  
 **Translation:** 
 
-**[11011.92s] English:** a different area of mathematics.  
+**[11011.92s] English:** A different area of mathematics.  
 **Translation:** 
 
-**[11014.30s] English:** So I was very happy.  
+**[11014.30s] English:** So, I was very happy.  
 **Translation:** 
 
-**[11015.94s] English:** But I do remember this moment when suddenly you see that.  
+**[11015.94s] English:** But I do remember this moment when suddenly you see it.  
 **Translation:** 
 
-**[11022.20s] English:** In this case, it was literally I had to compile these diagrams with what mathematicians call  
-**Translation:** Vocabulary: diagrams: 图表; mathematicians: 数学家
+**[11022.20s] English:** In this case, it was literally: I had to compile these diagrams with what mathematicians call...  
+**Translation:** Vocabulary: compile: 整理; diagrams: 图表; mathematicians: 数学家
 
-**[11027.26s] English:** cohomology groups and spectral sequences, and manually calculate some numbers, and trying  
+**[11027.26s] English:** Cohomology groups and spectral sequences, and manually calculate some numbers, and trying...  
 **Translation:** 
 
-**[11033.90s] English:** to discern some system in it.  
-**Translation:** Vocabulary: cohomology: 同调群; discern: 辨识; spectral: 谱序列
+**[11033.90s] English:** To discern some system in it.  
+**Translation:** Vocabulary: cohomology: 同调; discern: 辨识; spectral: 谱的
 
-**[11035.92s] English:** And suddenly I saw that.  
+**[11035.92s] English:** And suddenly, I saw that.  
 **Translation:** 
 
-**[11037.46s] English:** How they all were governed by this one.  
+**[11037.46s] English:** How they were all governed by this one.  
 **Translation:** 
 
-**[11040.00s] English:** uh one one force so to speak one pattern and that was absolutely wow so it's like  
+**[11040.00s] English:** Uh, one force, so to speak, created one pattern, and that was absolutely wow! So it's like  
 **Translation:** 
 
-**[11047.36s] English:** i mean what was it so you're sitting there at a desk actually you know i lived in a town outside  
+**[11047.36s] English:** I mean, what was it? So, you're sitting there at a desk, actually. You know, I lived in a town outside,...  
 **Translation:** 
 
-**[11052.48s] English:** of moscow so i used to take i would take a train to moscow so it's what we call in russia electric  
+**[11052.48s] English:** Of Moscow, so I used to take a train to Moscow. So it's what we call in Russia an "electric.  
 **Translation:** 
 
-**[11057.52s] English:** you know like this electric train which was super slow it took more than two hours to cover that  
+**[11057.52s] English:** You know, like this electric train which was super slow; it took more than two hours to cover that.  
 **Translation:** 
 
-**[11062.32s] English:** distance and i think that the crucial insight came when i was in this and i just i was i had  
+**[11062.32s] English:** Distance, and I think that the crucial insight came when I was in this, and I was just realizing it.  
 **Translation:** 
 
-**[11068.24s] English:** to contain myself so i don't start screaming you know because there were other passengers  
+**[11068.24s] English:** To contain myself, so I don't start screaming, you know, because there were other passengers.  
+**Translation:** Vocabulary: crucial: 关键的
+
+**[11073.52s] English:** In the car, so I was sitting there and staring at this paper. So, you know, what I remember that's  
 **Translation:** 
 
-**[11073.52s] English:** in the car so i was sitting there and staring at this paper so you know what i remember that's  
+**[11081.44s] English:** What came to me, I have something now which nobody else in the world has; I have a proof of first of  
 **Translation:** 
 
-**[11081.44s] English:** what came to me i have something now which nobody else in the world has i have a proof of first of  
+**[11088.48s] English:** All I did not; it was not just a proof, like in the case of Firma, the statement is already made.  
 **Translation:** 
 
-**[11088.48s] English:** all i did not it was not just a proof like in the case of firma the statement is already made  
+**[11093.12s] English:** That's why it's called a conjecture: you make a statement, but you don't have a proof yet.  
+**Translation:** Vocabulary: conjecture: 推测
+
+**[11097.04s] English:** Then you try to prove it.  
 **Translation:** 
 
-**[11093.12s] English:** that's why it's called conjecture you know you make a statement you don't have a proof yet  
-**Translation:** Vocabulary: conjecture: 猜测
-
-**[11097.04s] English:** then you try to prove it it  
+**[11098.24s] English:** My case, I did not know what the answer would be. There was a type of question where the answer...  
 **Translation:** 
 
-**[11098.24s] English:** my case i did not know what the answer would be there was a type of question where the answer  
+**[11102.64s] English:** Was unknown, so I had to find the answer and prove it. The answer was very nice, so nobody knew about it.  
 **Translation:** 
 
-**[11102.64s] English:** was unknown so i had to find the answer and prove it and the answer was very nice so nobody knew as  
+**[11108.88s] English:** Far as I could tell, nobody knew because my teacher told me that he explored all the literature, this.  
 **Translation:** 
 
-**[11108.88s] English:** far as i could tell nobody knew because my teacher told me that he explored all the literature this  
+**[11114.88s] English:** Was not known, so this was suddenly. I felt that I was in possession of this. Now it was a little...  
 **Translation:** 
 
-**[11114.88s] English:** was not known so this was suddenly i felt that i was in possession of this now it was a little  
+**[11124.56s] English:** Thing; it was not a cure for cancer, you know, it was not.  
 **Translation:** 
 
-**[11124.56s] English:** thing it was not cure for cancer you know it was not  
+**[11128.80s] English:** A large language model, you know, but it was something undeniably real and meaningful.  
 **Translation:** 
 
-**[11128.80s] English:** a large language model you know but it was something undeniably real meaningful  
+**[11136.08s] English:** And it was mine, kind of like I had it; nobody else had published it, I hadn't either.  
+**Translation:** Vocabulary: undeniably: 毫无疑问地
+
+**[11140.24s] English:** Tell me I hadn't even told anybody, and it is a very strange feeling, you know, to have to keep that to myself.  
 **Translation:** 
 
-**[11136.08s] English:** and it was mine kind of you know like i had it nobody else i had not published it i didn't even  
-**Translation:** Vocabulary: undeniably: 毋庸置疑
-
-**[11140.24s] English:** tell i hadn't even told anybody and it is a very strange feeling you know to have to have that were  
+**[11145.36s] English:** You worried that this treasure could be stolen—not at the time, not at the time—so later on there were.  
 **Translation:** 
 
-**[11145.36s] English:** you worried that this treasure could be stolen not at the time not at the time so later on there were  
+**[11151.76s] English:** Situations where I was exposed to those types of experiences, by that time, I didn't think about that.  
 **Translation:** 
 
-**[11151.76s] English:** situations where i was exposed to those type of experiences by that time i didn't think of that i  
+**[11158.24s] English:** Studied kid, you know, who?  
 **Translation:** 
 
-**[11158.24s] English:** studied kid you know who  
+**[11160.00s] English:** Who was just obsessed with mathematics, with this beauty and discovery, discovering those.  
 **Translation:** 
 
-**[11160.00s] English:** who was just obsessed with mathematics, with this beauty and discovery, discovering those  
+**[11165.28s] English:** Beautiful facts lead to beautiful results.  
+**Translation:** Vocabulary: obsessed: 着迷于
+
+**[11168.36s] English:** So, I didn't even think that it could be possible that somebody could steal it—or whatever.  
 **Translation:** 
 
-**[11165.28s] English:** beautiful facts, beautiful results.  
+**[11173.56s] English:** I just wanted to share it with my teacher as soon as possible, and he understood quickly.  
 **Translation:** 
 
-**[11168.36s] English:** So I didn't even think that it could be possible that somebody could steal it or whatever.  
+**[11179.84s] English:** And he's like, "Yeah, good job.  
 **Translation:** 
 
-**[11173.56s] English:** I just wanted to share it with my teacher as soon as possible, and he understood quickly  
+**[11183.04s] English:** Is there anything you can give color to the drama?  
 **Translation:** 
 
-**[11179.84s] English:** and he's like, yeah, good job.  
+**[11186.28s] English:** Eric Weinstein has spoken about some of the challenges, some of the triumphs, and challenges.  
 **Translation:** 
 
-**[11183.04s] English:** Is there something you can give color to the drama?  
-**Translation:** 
-
-**[11186.28s] English:** Eric Weinstein has spoken about some of the challenges, some of the triumphs and challenges  
-**Translation:** 
-
-**[11193.04s] English:** of his time at Harvard.  
+**[11193.04s] English:** Of his time at Harvard.  
 **Translation:** Vocabulary: triumphs: 胜利
 
-**[11194.84s] English:** So is there something to that drama of people stealing each other's ideas or not allocating  
+**[11194.84s] English:** So, is there something to that drama of people stealing each other's ideas or not allocating?  
 **Translation:** 
 
-**[11204.30s] English:** credit enough?  
+**[11204.30s] English:** Is there enough credit?  
 **Translation:** Vocabulary: allocating: 分配
 
 **[11205.30s] English:** Oh, sure.  
@@ -7693,13 +7694,13 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11210.88s] English:** Happens all the time, yes, unfortunately.  
 **Translation:** Vocabulary: stressors: 压力源
 
-**[11213.20s] English:** On young minds and so on.  
+**[11213.20s] English:** On Young Minds, and so on.  
 **Translation:** 
 
 **[11215.00s] English:** Could have a very bad effect.  
 **Translation:** 
 
-**[11216.26s] English:** Is that just the way of life, or is this...  
+**[11216.26s] English:** Is that just the way of life, or is this...?  
 **Translation:** 
 
 **[11220.84s] English:** I think we can definitely do better.  
@@ -7708,10 +7709,10 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11223.20s] English:** And I think the first step is to kind of admit that we are not 100% seekers of truth, that  
 **Translation:** 
 
-**[11230.94s] English:** we are human beings, and all the good and bad and the ugly qualities can be present,  
+**[11230.94s] English:** We are human beings, and all the good, the bad, and the ugly qualities can be present.  
 **Translation:** 
 
-**[11240.66s] English:** and to have some kind of dialogue in my subject, in mathematics.  
+**[11240.66s] English:** And to have some kind of dialogue in my subject—in mathematics.  
 **Translation:** 
 
 **[11245.02s] English:** Yeah.  
@@ -7720,28 +7721,28 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11246.02s] English:** This has not happened yet.  
 **Translation:** 
 
-**[11247.40s] English:** There have been some famous cases where people have been accused, which had been resolved,  
+**[11247.40s] English:** There have been some famous cases where people have been accused, which had been resolved.  
 **Translation:** 
 
-**[11251.96s] English:** or partially resolved, or unresolved, and everybody knows it.  
+**[11251.96s] English:** Or partially resolved, or unresolved, and everybody knows it.  
 **Translation:** 
 
-**[11256.98s] English:** But there isn't a systematic effort, as far as I can tell, of really trying to create  
+**[11256.98s] English:** But there isn't a systematic effort, as far as I can tell, of really trying to create.  
 **Translation:** Vocabulary: unresolved: 未解决
 
-**[11262.54s] English:** some rules, some ethics rules.  
+**[11262.54s] English:** Some rules, some ethics rules.  
 **Translation:** 
 
-**[11264.50s] English:** This is fair game, this is not fair game, so that as a community, we strive to get better.  
+**[11264.50s] English:** This is fair game; this is not fair game, so that as a community, we strive to get better.  
+**Translation:** Vocabulary: strive: 努力
+
+**[11270.78s] English:** I think that for most people, it's more like keeping their head in the sand and kind of  
 **Translation:** 
 
-**[11270.78s] English:** I think that for most people, it's more like keeping your head in the sand and kind of  
+**[11275.90s] English:** Saying that it doesn't happen.  
 **Translation:** 
 
-**[11275.90s] English:** saying that it doesn't happen.  
-**Translation:** 
-
-**[11277.66s] English:** Or it happens, some isolated incidents.  
+**[11277.66s] English:** Or it happens: some isolated incidents.  
 **Translation:** 
 
 **[11280.00s] English:** My experience is not like that at all.  
@@ -7753,23 +7754,23 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11285.80s] English:** That's my opinion.  
 **Translation:** 
 
-**[11287.54s] English:** So the pool of academia is fascinating.  
+**[11287.54s] English:** So, the pool of academia is fascinating.  
 **Translation:** 
 
-**[11290.80s] English:** One of the reasons I really love it is you have young minds with fresh ideas.  
+**[11290.80s] English:** One of the reasons I really love it is that you have young minds with fresh ideas.  
 **Translation:** Vocabulary: academia: 学术界
 
-**[11296.70s] English:** And that same innocence you had when you were first on the train had that brilliant breakthrough.  
+**[11296.70s] English:** And that same innocence, which you had when you were first on the train, had that brilliant breakthrough.  
 **Translation:** 
 
-**[11300.58s] English:** And then you throw that in together with senior, exceptional, world-class scientists who have, first of all, are getting older.  
-**Translation:** Vocabulary: exceptional: 卓越; innocence: 天真
+**[11300.58s] English:** And then you throw that in together with senior, exceptional, world-class scientists, who, by the way, are getting older.  
+**Translation:** Vocabulary: exceptional: 卓越的; innocence: 纯真的
 
-**[11310.00s] English:** Second of all, maybe they have partaken in the drug of fame and money and status and recognition.  
+**[11310.00s] English:** Second of all, maybe they have partaken in the drugs of fame, money, status, and recognition.  
 **Translation:** 
 
-**[11320.12s] English:** So that starts to a little bit corrupt all of our human minds.  
-**Translation:** Vocabulary: partaken: 参与过
+**[11320.12s] English:** So, that starts to slightly corrupt all of our human minds.  
+**Translation:** Vocabulary: corrupt: 败坏; partaken: 参与
 
 **[11325.08s] English:** And you throw that mix in together.  
 **Translation:** 
@@ -7780,26 +7781,26 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11328.54s] English:** Mostly without rules.  
 **Translation:** 
 
-**[11330.98s] English:** And it's beautiful because that's where the ideas of old contend with the new wild-eyed crazy ideas.  
+**[11330.98s] English:** And it's beautiful because that's where the ideas of the old contend with the new, wild-eyed, crazy ideas.  
 **Translation:** Vocabulary: contend: 争辩
 
-**[11340.00s] English:** And they clash and there's a tension and there's a dance to it.  
+**[11340.00s] English:** And they clash, and there's a tension, and there's a dance to it.  
 **Translation:** 
 
-**[11344.72s] English:** But then there's the old human corruption that can take advantage of the young minds.  
+**[11344.72s] English:** But then, there's the old human corruption that can take advantage of young minds.  
 **Translation:** Vocabulary: clash: 冲突
 
 **[11350.28s] English:** It's unclear what to do with that.  
 **Translation:** 
 
-**[11352.64s] English:** I mean, part of that is just the way of life and there's tragedies.  
+**[11352.64s] English:** I mean, part of that is just the way of life, and there are tragedies.  
 **Translation:** Vocabulary: tragedies: 悲剧
 
-**[11356.42s] English:** And oftentimes when you look at who wins the Nobel Prize, it's also tragic because sometimes so many minds are like the trajectory to the breakthrough idea involves so many different minds.  
+**[11356.42s] English:** And often, when you look at who wins the Nobel Prize, it's also tragic because sometimes so many minds are involved in the trajectory to the breakthrough idea, involving so many different minds.  
 **Translation:** 
 
 **[11370.00s] English:** Young and old.  
-**Translation:** Vocabulary: nobel: 诺贝尔; oftentimes: 经常; trajectory: 轨迹
+**Translation:** Vocabulary: nobel: 诺贝尔; trajectory: 轨迹
 
 **[11370.96s] English:** Yeah, I mean, you're right.  
 **Translation:** 
@@ -7810,166 +7811,166 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11379.02s] English:** The path is to more self-awareness.  
 **Translation:** 
 
-**[11383.02s] English:** And it's like owning up your own stuff and not blaming other people, not projecting onto other people, but taking responsibility.  
-**Translation:** Vocabulary: projecting: 投射
+**[11383.02s] English:** And it's like owning up to your own stuff and not blaming other people, not projecting onto others, but taking responsibility.  
+**Translation:** 
 
 **[11392.14s] English:** And that's true for everything.  
 **Translation:** 
 
-**[11394.08s] English:** And the problem here, unique problem for mathematics.  
+**[11394.08s] English:** And the problem here is a unique problem for mathematics.  
 **Translation:** 
 
 **[11398.08s] English:** I would say physicists and chemists.  
 **Translation:** 
 
-**[11400.00s] English:** better they have they actually have better sort of ethical rules and so on especially biologists  
-**Translation:** Vocabulary: biologists: 生物学家; chemists: 化学家; physicists: 物理学家
+**[11400.00s] English:** Better, they actually have better sorts of ethical rules and so on, especially in biology.  
+**Translation:** Vocabulary: chemists: 化学家; physicists: 物理学家
 
-**[11404.56s] English:** like because i think in part it's because there is much more money involved because they have to get  
+**[11404.56s] English:** Like, because I think in part it's because there is much more money involved, because they have to get  
 **Translation:** 
 
-**[11409.12s] English:** grants and so on so for them the question of priority who discovered what first is much more  
+**[11409.12s] English:** Grants and so on, so far, they are concerned with the question of priority—who discovered what first—is much more important.  
 **Translation:** 
 
-**[11413.12s] English:** serious because there's really some serious money mathematics who cares you know the firm's last  
+**[11413.12s] English:** Serious because there's really some serious money involved, mathematics who cares, you know, the firm's last.  
 **Translation:** 
 
-**[11417.52s] English:** theorem was proved yeah did andrew wilde become a millionaire no i think he got a prize you want  
+**[11417.52s] English:** Theorem was proved, yeah. Did Andrew Wilde become a millionaire? No, I think he got a prize. You want?  
 **Translation:** Vocabulary: millionaire: 百万富翁; theorem: 定理
 
-**[11422.72s] English:** a prize but those prices are not i think that one was a big prize but uh but in general there's not  
+**[11422.72s] English:** A prize, but those prices aren't. I think that one was a big prize, but, in general, there's not.  
 **Translation:** 
 
-**[11429.52s] English:** going to keep i think he won the abel prize eventually which is about a million dollars  
+**[11429.52s] English:** Going to keep; I think he won the Abel Prize eventually, which is about a million dollars.  
 **Translation:** 
 
-**[11434.08s] English:** so but you know i sometimes i joke about this that this is the hardest way to win a million dollars  
+**[11434.08s] English:** So, but you know, I sometimes joke about this: that this is the hardest way to win a million dollars.  
 **Translation:** 
 
-**[11442.56s] English:** so you know but amongst mathematicians i think the trouble is that we are so insulated  
+**[11442.56s] English:** So, you know, but among mathematicians, I think the trouble is that we are so insulated.  
+**Translation:** Vocabulary: mathematicians: 数学家
+
+**[11452.88s] English:** From, uh, society because it's such a pure subject, it draws in very specific.  
 **Translation:** 
 
-**[11452.88s] English:** from uh society because it's such a pure subject it draws in very specific  
+**[11459.60s] English:** Psychological types, and I can speak about myself: I did not realize it at the time, but later on, I  
 **Translation:** 
 
-**[11459.60s] English:** psychological types and i can speak about myself i did not realize it at the time but later on i  
+**[11465.52s] English:** Definitely, I mentioned some of it earlier: for me, mathematics was a refuge from the cruelty.  
 **Translation:** 
 
-**[11465.52s] English:** definitely saw i mentioned some of it earlier that for me mathematics was a refuge from the cruelty  
+**[11471.92s] English:** Of the life I experienced from discrimination that I experienced when I applied to Moscow.  
 **Translation:** 
 
-**[11471.92s] English:** of the life i experienced from discrimination that i experienced when i applied to moscow  
-**Translation:** Vocabulary: moscow: 莫斯科
-
-**[11476.24s] English:** university at 16 being failed at the exam and stuff like that which i described in my book as well but  
+**[11476.24s] English:** University at 16, being failed at the exam and stuff like that, which I described in my book as well, but...  
 **Translation:** 
 
-**[11482.96s] English:** that was my way i was like i don't trust this world i don't want to deal with it i want to  
+**[11482.96s] English:** That was my way; I was like, I don't trust this world. I don't want to deal with it. I want to...  
 **Translation:** 
 
-**[11489.52s] English:** hide in this platonic reality of pure forms this is where i know how to operate i love this and and  
+**[11489.52s] English:** Hide in this Platonic reality of pure forms. This is where I know how to operate; I love this, and...  
 **Translation:** 
 
-**[11498.48s] English:** i couldn't be bothered in some sense for a while up and up to a point as as i was getting older and  
-**Translation:** Vocabulary: bothered: 费心; platonic: 理念
+**[11498.48s] English:** I couldn't be bothered, in some sense, for a while. Up until a point, as I was getting older, and...  
+**Translation:** Vocabulary: bothered: 费心; platonic: 理念的
 
-**[11504.24s] English:** more mature i was becoming more and more interested in other things but i think that's one of the  
+**[11504.24s] English:** More mature, I was becoming more and more interested in other things, but I think that's one of the  
 **Translation:** 
 
-**[11509.84s] English:** reasons and one of the reasons why i wrote love and math was precisely to break that cycle that is the  
+**[11509.84s] English:** Reasons, and one of the reasons why I wrote Love and Math was precisely to break that cycle, that is,  
+**Translation:** Vocabulary: mature: 成熟; precisely: 精确地
+
+**[11519.52s] English:** Quiet.  
 **Translation:** 
 
-**[11519.52s] English:** quiet  
+**[11520.00s] English:** Guy in the corner who goes into math, and not the flamboyant, you know, a jock or like, you know, DJ.  
+**Translation:** Vocabulary: flamboyant: 夸张的
+
+**[11527.88s] English:** I wanted to show.  
 **Translation:** 
 
-**[11520.00s] English:** guy in the corner that goes into math and not the flamboyant you know a jock or like you know dj  
-**Translation:** Vocabulary: flamboyant: 张扬
-
-**[11527.88s] English:** i wanted to show  
+**[11530.42s] English:** How beautiful the subject is to attract this new blood, so that different psychological types and  
 **Translation:** 
 
-**[11530.42s] English:** how beautiful the subject is to attract this new blood so that different psychological types and  
+**[11537.98s] English:** More women.  
 **Translation:** 
 
-**[11537.98s] English:** more women  
+**[11539.66s] English:** Uh, they would join because then they would have students who would look at them and whom they  
 **Translation:** 
 
-**[11539.66s] English:** uh would join because then they would have students who would look at them and whom they  
+**[11548.78s] English:** Will inspire, and then it would be a virtuous circle instead of a vicious one.  
 **Translation:** 
 
-**[11548.78s] English:** will inspire and then it would be a instead of a vicious circle it would be a virtuous circle  
+**[11553.88s] English:** And I have to say, I think it's happening not because of my efforts alone, obviously.  
+**Translation:** Vocabulary: vicious: 恶性的
+
+**[11559.02s] English:** There are many other mathematicians who, around the same time, started to put in more effort because, see,  
 **Translation:** 
 
-**[11553.88s] English:** and i have to say i think it's happening not because of my efforts on alone obviously there  
-**Translation:** Vocabulary: vicious: 恶性循环
-
-**[11559.02s] English:** are many other mathematicians who are around the same time started to put more effort because see  
+**[11563.30s] English:** If the old stereotype of a mathematician is that you're so enclosed, you're not interested in even exposing yourself to other fields.  
 **Translation:** 
 
-**[11563.30s] English:** if the old stereotype of mathematician you're so enclosed you're not interested in even exposing  
-**Translation:** Vocabulary: mathematician: 数学家; mathematicians: 数学家; stereotype: 刻板印象
-
-**[11570.18s] English:** the beauty of your subject to other people you see and then it becomes this vicious circle  
+**[11570.18s] English:** The beauty of your subject to others, and then it becomes this vicious circle.  
 **Translation:** 
 
-**[11574.98s] English:** but you know this one day you know i'm not one day all the time i meet  
+**[11574.98s] English:** But you know, one day you know, I'm not always "all the time" when I meet.  
 **Translation:** 
 
-**[11578.48s] English:** i mean  
+**[11578.48s] English:** I mean  
 **Translation:** 
 
-**[11578.78s] English:** the students who say your book is the reason why i chose math as my major and i am proud especially  
+**[11578.78s] English:** The students who say your book is the reason why I chose math as my major, and I am proud especially.  
 **Translation:** 
 
-**[11586.30s] English:** when it's women who tell me this and they are cool they are djs at the same time and they are social  
+**[11586.30s] English:** When it's women who tell me this, and they are cool, they are DJs at the same time, and they are social.  
 **Translation:** 
 
-**[11593.26s] English:** and they have friends and they go out and so on you see so they are then they carry the torch  
+**[11593.26s] English:** And they have friends, and they go out, and so on. You see, so they are then carrying the torch.  
 **Translation:** 
 
-**[11598.86s] English:** because then they will be more likely to share this beauty with others to attract more students  
+**[11598.86s] English:** Because then they will be more likely to share this beauty with others to attract more students.  
 **Translation:** 
 
-**[11607.90s] English:** and so on so i think this this kind of this dumb was broken so now you have more influx and once we  
+**[11607.90s] English:** And so, on. So, I think this "dumb" was broken, so now you have more influx, and once we...  
+**Translation:** Vocabulary: influx: 涌入
+
+**[11612.78s] English:** Have people who are more able to connect at the personal level; that's when we also become more.  
 **Translation:** 
 
-**[11612.78s] English:** have people who are more able to connect at the personal level that's when we also become more  
+**[11618.30s] English:** Self-aware as a community, I think, and that's when we might be able to have a chance to.  
 **Translation:** 
 
-**[11618.30s] English:** self-aware as a community i think and that's when we might be we should be able to have a chance to  
+**[11624.22s] English:** Improve in terms of our ethical rules and stuff like that, so let me return to our friend Eric.  
 **Translation:** 
 
-**[11624.22s] English:** improve in terms of our ethical rules and stuff like that so let me return to our friend eric  
-**Translation:** 
-
-**[11630.86s] English:** weinstein for a question that i would ask anyway but let me let's have a non-russian ask the russian  
+**[11630.86s] English:** Weinstein, for a question that I would ask anyway, but let's have a non-Russian ask the Russian.  
 **Translation:** Vocabulary: weinstein: 卫斯汀
 
-**[11637.18s] English:** question  
+**[11637.18s] English:** Question:  
 **Translation:** 
 
-**[11637.90s] English:** um  
+**[11637.90s] English:** Um.  
 **Translation:** 
 
 **[11640.00s] English:** Ask him about the Russian concepts of friendship, science, gender, and love versus the American.  
 **Translation:** 
 
-**[11649.84s] English:** So, there is a deep romanticism that you have that runs through your book, Love and Math.  
+**[11649.84s] English:** So, there is a deep romanticism that you have that runs through your book, "Love and Math.  
 **Translation:** 
 
-**[11660.72s] English:** Is part of that something you've picked up from the Russian culture?  
+**[11660.72s] English:** Is any of that something you've picked up from Russian culture?  
 **Translation:** 
 
-**[11665.68s] English:** What can you speak to that fueled both your fascination with math and your fascination, no, your prioritization of the human experience of love?  
-**Translation:** Vocabulary: fascination: 着迷; prioritization: 优先级
+**[11665.68s] English:** What can you speak to that fueled both your fascination with math and your prioritization of the human experience of love?  
+**Translation:** Vocabulary: fascination: 迷恋; fueled: 激发; prioritization: 优先级
 
 **[11680.26s] English:** Good question.  
 **Translation:** 
 
-**[11681.56s] English:** Definitely, there is some influence of the Russian culture, Russian literature, perhaps, you know.  
+**[11681.56s] English:** Definitely, there is some influence of Russian culture and literature. Perhaps, you know.  
 **Translation:** 
 
-**[11689.12s] English:** But also, you know, like there's so many things.  
+**[11689.12s] English:** But also, you know, like there are so many things.  
 **Translation:** 
 
 **[11691.88s] English:** How do we develop certain sensibilities?  
@@ -7978,22 +7979,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11694.56s] English:** Like, why do we care?  
 **Translation:** 
 
-**[11695.68s] English:** Why do we care about this and not that?  
+**[11695.68s] English:** Why do we care about this, and not that?  
 **Translation:** 
 
-**[11697.34s] English:** Like, why do I care, for instance, about, like you said, about this romantic ideal, so to speak, of mathematics?  
+**[11697.34s] English:** Like, why do I care, for instance, about the romantic ideal of mathematics, as you said?  
 **Translation:** 
 
 **[11704.20s] English:** That's certainly not something that is automatic.  
 **Translation:** 
 
-**[11707.40s] English:** Some people care about it, some people don't.  
+**[11707.40s] English:** Some people care about it, while some people don't.  
 **Translation:** 
 
 **[11709.14s] English:** And I'm not saying it is superior or inferior.  
 **Translation:** Vocabulary: inferior: 较差的
 
-**[11711.42s] English:** It's just how my composition, my psychological composition is like that.  
+**[11711.42s] English:** It's just how my psychological composition is like that.  
 **Translation:** 
 
 **[11716.52s] English:** And it's an interesting question.  
@@ -8008,19 +8009,19 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11725.08s] English:** But there are some aspects of it, of course.  
 **Translation:** 
 
-**[11727.32s] English:** The experiences, life experiences are bringing family.  
+**[11727.32s] English:** The experiences, life experiences, are bringing the family together.  
 **Translation:** 
 
-**[11734.34s] English:** Like I was, you know, I was surrounded by love by my parents on the one hand.  
+**[11734.34s] English:** Like I was, you know, I was surrounded by love from my parents on the one hand.  
 **Translation:** 
 
 **[11739.28s] English:** But on the other side, perhaps they were a little overprotective of me.  
+**Translation:** Vocabulary: overprotective: 过于保护
+
+**[11744.56s] English:** So, I was kind of like, you know, too much—kind of like taking care of.  
 **Translation:** 
 
-**[11744.56s] English:** So, I was kind of like, you know, too much kind of like taking care of.  
-**Translation:** 
-
-**[11751.10s] English:** So, then when I developed certain sensitivity.  
+**[11751.10s] English:** So, then, when I developed a certain sensitivity.  
 **Translation:** 
 
 **[11755.08s] English:** But I was kind of not ready for the challenges.  
@@ -8032,25 +8033,25 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11759.24s] English:** Of the real world.  
 **Translation:** 
 
-**[11760.00s] English:** So then that struggle, and then being lost, and then being able to overcome and to learn.  
+**[11760.00s] English:** So, then that struggle, and then being lost, and then being able to overcome and to learn.  
 **Translation:** 
 
-**[11767.64s] English:** And then if you don't lose, you don't appreciate, maybe.  
+**[11767.64s] English:** And then, if you don't lose, you don't appreciate—maybe.  
 **Translation:** 
 
-**[11773.92s] English:** But sometimes when we lose something and then regain it, then we cherish it, we appreciate it, and then it becomes something important.  
+**[11773.92s] English:** But sometimes, when we lose something and then regain it, we cherish it, appreciate it, and then it becomes something important.  
+**Translation:** Vocabulary: cherish: 珍视
+
+**[11780.66s] English:** And also, various difficulties, you know, the upsetting experiences, or one could say, traumatic experiences.  
 **Translation:** 
 
-**[11780.66s] English:** And also various difficulties, you know, the upsetting experiences, or one could say traumatic experiences.  
-**Translation:** 
-
-**[11791.08s] English:** Growing up in the Soviet Union, that was not a walk in the park.  
+**[11791.08s] English:** Growing up in the Soviet Union was not a walk in the park.  
 **Translation:** Vocabulary: traumatic: 创伤性的
 
 **[11795.58s] English:** There were a lot of issues there that I had to go through.  
 **Translation:** 
 
-**[11801.18s] English:** And then it doesn't break you, it makes you stronger.  
+**[11801.18s] English:** And then it doesn't break you; it makes you stronger.  
 **Translation:** 
 
 **[11806.50s] English:** But in my case, whatever.  
@@ -8063,9 +8064,9 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **Translation:** 
 
 **[11828.10s] English:** It charged me, supercharged me.  
-**Translation:** Vocabulary: mathematician: 数学家; supercharged: 充满动力
+**Translation:** Vocabulary: mathematician: 数学家; strive: 努力; supercharged: 充满动力
 
-**[11830.24s] English:** I'm talking about, for instance, the experience with exam at Moscow University.  
+**[11830.24s] English:** I'm talking about, for instance, the experience with an exam at Moscow University.  
 **Translation:** 
 
 **[11834.66s] English:** Can you take me through that experience?  
@@ -8086,37 +8087,37 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11848.80s] English:** It's called Mehmat.  
 **Translation:** 
 
-**[11850.12s] English:** Which is like, for people who don't know, like the place.  
+**[11850.12s] English:** Which is, like, for people who don't know, the place.  
 **Translation:** 
 
 **[11853.90s] English:** It was the only place to study pure mathematics in Moscow, period.  
 **Translation:** 
 
-**[11856.70s] English:** But also considered to be one of the great places on earth.  
+**[11856.70s] English:** But it is also considered to be one of the great places on Earth.  
 **Translation:** Vocabulary: moscow: 莫斯科
 
-**[11860.62s] English:** And it's like a huge building, this, you know, this monolith of a building of Moscow University.  
+**[11860.62s] English:** And it's like a huge building, this, you know, this monolith of a building at Moscow University.  
 **Translation:** 
 
 **[11868.64s] English:** So, because...  
-**Translation:** Vocabulary: monolith: 巨大石块
+**Translation:** Vocabulary: monolith: 巨大的石块
 
-**[11870.66s] English:** As I said, you know, a year earlier, Yevgeny Yevgenyevich converted me into math, capitalizing on my love for physics, quantum physics.  
+**[11870.66s] English:** As I said, you know, a year earlier, Yevgeny Yevgenyevich converted me into math, capitalizing on my love for physics and quantum physics.  
 **Translation:** 
 
 **[11879.08s] English:** And so we...  
-**Translation:** Vocabulary: capitalizing: 利用
+**Translation:** Vocabulary: capitalizing: 利用; converted: 转变; quantum: 量子
 
-**[11880.00s] English:** I spent a whole year studying with him, and I was already kind of at the level of, you know, in some subjects, a level of, like, early graduate studies.  
+**[11880.00s] English:** I spent a whole year studying with him, and I was already kind of at the level of, you know, in some subjects, like early graduate studies.  
 **Translation:** 
 
-**[11890.66s] English:** So it seemed like it would be a breeze to get into Moscow University.  
+**[11890.66s] English:** So, it seemed like it would be a breeze to get into Moscow University.  
 **Translation:** 
 
-**[11895.60s] English:** But, in fact, little did I know that there was a policy of antisemitism where students like me would be failed by special examiners,  
+**[11895.60s] English:** But, in fact, little did I know that there was a policy of antisemitism, where students like me would be failed by special examiners.  
 **Translation:** 
 
-**[11908.28s] English:** mostly during the oral exam with mathematics, but occasionally it would be written tests and stuff.  
+**[11908.28s] English:** Mostly during the oral exam with mathematics, but occasionally it would be written tests and stuff.  
 **Translation:** Vocabulary: antisemitism: 反犹太主义; examiners: 考官
 
 **[11917.48s] English:** Now, my father is Jewish by blood.  
@@ -8128,20 +8129,20 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11922.62s] English:** His family was not religious.  
 **Translation:** 
 
-**[11923.62s] English:** My mom is Russian, but since my last name was my father's name, so it was very easy to read what my nationality was.  
+**[11923.62s] English:** My mom is Russian, but since my last name was my father's name, it was very easy to read what my nationality was.  
 **Translation:** 
 
-**[11934.42s] English:** And so, can you imagine there were special people who would screen up?  
+**[11934.42s] English:** And so, can you imagine there were special people who would screen them up?  
 **Translation:** 
 
 **[11938.28s] English:** Applicants who would put aside the files of the undesirables.  
-**Translation:** Vocabulary: applicants: 申请者; undesirables: 不受欢迎的人
+**Translation:** Vocabulary: applicants: 申请人; undesirables: 不受欢迎的人
 
-**[11943.12s] English:** There would be special examiners who were actually professors at this university who would be designated as those who would take the exam from those undesirables.  
+**[11943.12s] English:** There would be special examiners, who were actually professors at this university, designated to take the exam from those undesirables.  
 **Translation:** 
 
 **[11955.10s] English:** It's almost comical when you look back now.  
-**Translation:** 
+**Translation:** Vocabulary: comical: 滑稽可笑
 
 **[11957.76s] English:** And also, like, questions of why.  
 **Translation:** 
@@ -8158,20 +8159,20 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11965.80s] English:** So, because you mentioned nationality.  
 **Translation:** 
 
-**[11968.28s] English:** It's a little quirk that perhaps gives an insight to the bigger system, that the nationality listed on your birth certificate when you're Jewish is Jewish, and when you're non-Jewish, it's listed as Russian.  
-**Translation:** Vocabulary: quirk: 古怪之处
+**[11968.28s] English:** It's a little quirk that perhaps gives an insight into the bigger system: that the nationality listed on your birth certificate is "Jewish" when you're Jewish, and "Russian" when you're non-Jewish.  
+**Translation:** Vocabulary: certificate: 出生证明; quirk: 小趣事
 
 **[11980.82s] English:** For me, it was Russian.  
 **Translation:** 
 
-**[11982.14s] English:** So, first of all, in the inner part, everybody has an internal passport.  
+**[11982.14s] English:** So, first of all, in the inner part, everyone has an internal passport.  
 **Translation:** 
 
-**[11987.14s] English:** And there you have first name, patronymic name, last name, date of birth.  
+**[11987.14s] English:** And there you have: first name, patronymic name, last name, date of birth.  
 **Translation:** 
 
 **[11993.26s] English:** So, these are four.  
-**Translation:** Vocabulary: patronymic: 父姓名称
+**Translation:** Vocabulary: patronymic: 父姓
 
 **[11993.86s] English:** And the fifth colon is nationality.  
 **Translation:** 
@@ -8182,124 +8183,124 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[11999.40s] English:** That's the title of your document.  
 **Translation:** 
 
+**[12000.00s] English:** Of the parents and so on, in my case, was written Russian because my mom was Russian, but it didn't.  
+**Translation:** 
+
 **[12000.38s] English:** Yes.  
 **Translation:** 
 
-**[12000.70s] English:** A very sweet document, very neat, very humbling document.  
+**[12000.70s] English:** A very sweet document, very neat, and very humbling.  
+**Translation:** Vocabulary: humbling: 令人谦卑的
+
+**[12004.58s] English:** And it's one of the 1950s swimsuit competitive models, which comes from its national status.  
 **Translation:** 
 
-**[12004.58s] English:** And it's one of the 1955nd 밚� swimsuit competitive ships, which comes from the nationality status.  
-**Translation:** Vocabulary: humbling: 令人谦卑
+**[12004.72s] English:** Save me, because that was my dad's last name, and so, so anyway, this was the toughest experience.  
+**Translation:** Vocabulary: toughest: 最艰难的
 
-**[12014.68s] English:** And really  
+**[12014.68s] English:** And really,  
 **Translation:** 
 
-**[12025.26s] English:** is it used?  
+**[12014.96s] English:** That I had up until that point, and there were these two people who came into the room where  
 **Translation:** 
 
-**[12026.16s] English:** Established pouvoiring cornice mittels of the war.  
+**[12022.24s] English:** I was the only one who was undesirable; all the other kids were being questioned by other examiners, but they...  
+**Translation:** 
+
+**[12025.26s] English:** Is it used?  
+**Translation:** Vocabulary: examiners: 考官; undesirable: 不受欢迎的人
+
+**[12026.16s] English:** Established pouring cornice Mittels of the War.  
 **Translation:** 
 
 **[12026.94s] English:** Right.  
-**Translation:** 
+**Translation:** Vocabulary: mittels: 手段
 
 **[12027.30s] English:** So.  
 **Translation:** 
 
-**[12000.00s] English:** of the parents and so on in my case was written russian because my mom was russian but it didn't  
+**[12028.00s] English:** Told me that we cannot, uh, question you; we are waiting for special examiners. So I was like, "Oh.  
+**Translation:** Vocabulary: cannot: 不能
+
+**[12033.84s] English:** But something is afoot, and so these two guys came and were asking me for four hours basically.  
 **Translation:** 
 
-**[12004.72s] English:** save me because that was my dad's last name and so so anyway this was a the toughest experience  
+**[12040.64s] English:** Questions that were not in the program, and so on, but you know, I was a kid; I was 16 years old.  
+**Translation:** Vocabulary: afoot: 有动静
+
+**[12044.08s] English:** I tried to answer the best I could, but it was a setup. It's been documented since then, there are  
 **Translation:** 
 
-**[12014.96s] English:** that i had up until that point and there was these two people who came into the room where  
-**Translation:** Vocabulary: toughest: 最艰难的经历
+**[12050.48s] English:** Even lists of problems were given to undesirables in those days, in my year.  
+**Translation:** Vocabulary: setup: 圈套; undesirables: 不受欢迎的人
 
-**[12022.24s] English:** i was the only undesirable all other kids were being questioned by other examiners but they  
+**[12058.32s] English:** No, no Jewish applicants, as far as I know. Jewish people, by this metric, were not accepted, so then I had to go to  
 **Translation:** 
 
-**[12028.00s] English:** told me that we cannot uh question you we are waiting for special examiners so i was like oh  
-**Translation:** Vocabulary: undesirable: 不受欢迎的人
+**[12064.96s] English:** This um, there was one technical school in Moscow for which was the Institute for Oil and  
+**Translation:** Vocabulary: applicants: 申请人; metric: 标准; moscow: 莫斯科
 
-**[12033.84s] English:** but something is afoot and so these two guys came and for four hours basically and were asking me  
+**[12071.76s] English:** Gas exploration, which had an applied mathematics program, and that's where my friends and I were.  
 **Translation:** 
 
-**[12040.64s] English:** questions which were not in the program and so on but you know i was a kid i was 16 years old  
-**Translation:** Vocabulary: afoot: 有苗头
-
-**[12044.08s] English:** i tried to answer the best i can but it was a setup it's been documented since then there are  
+**[12080.40s] English:** Many of the kids who were not accepted to Moscow University ended up going to other universities instead.  
 **Translation:** 
 
-**[12050.48s] English:** even lists of problems that were given to undesirables in those days in my year  
-**Translation:** Vocabulary: setup: 圈套
-
-**[12058.32s] English:** no no jewish applicants as far as i know jewish by this metric were accepted so then i had to go to  
+**[12088.00s] English:** The point is, so and then I was so motivated by this because I wanted to show those guys, you know.  
 **Translation:** 
 
-**[12064.96s] English:** this um there was one school technical school in moscow for which was the institute for oil and  
-**Translation:** Vocabulary: applicants: 申请者; moscow: 莫斯科
+**[12096.80s] English:** That within five years, I got a letter from the president of Harvard University.  
+**Translation:** Vocabulary: motivated: 受激励的
 
-**[12071.76s] English:** gas exploration which had a applied mathematics program and that's where when me and many of my  
+**[12103.12s] English:** Inviting me as a visiting professor to Harvard, I was 21—I was barely 21, because I already had some.  
 **Translation:** 
 
-**[12080.40s] English:** many of the kids who were not accepted to moscow university ended up and so but the  
-**Translation:** 
-
-**[12088.00s] English:** point is so and then i was i was so motivated by this because i wanted to show those guys you know  
-**Translation:** 
-
-**[12096.80s] English:** that within five years less than five years i got a letter from the president of harvard university  
-**Translation:** 
-
-**[12103.12s] English:** inviting me as a visiting professor to harvard i was 21 i was barely 21 because i already did some  
-**Translation:** 
-
-**[12109.20s] English:** research in the meantime that's how motivated i was you know so but the interesting aspect of it  
+**[12109.20s] English:** Research in the meantime—that's how motivated I was, you know. So, but the interesting aspect of it.  
 **Translation:** Vocabulary: meantime: 其间
 
-**[12118.00s] English:** for for for the longest time  
+**[12118.00s] English:** For the longest time.  
 **Translation:** 
 
-**[12120.00s] English:** afterwards, I was telling  
+**[12120.00s] English:** Afterwards, I was telling...  
 **Translation:** 
 
-**[12122.38s] English:** myself a story that nothing really  
+**[12122.38s] English:** Myself a story that nothing really  
 **Translation:** 
 
-**[12124.34s] English:** happened. It wasn't  
+**[12124.34s] English:** Happened. It wasn't.  
 **Translation:** 
 
-**[12126.38s] English:** so bad. Okay, so I was failed.  
+**[12126.38s] English:** So bad. Okay, so I was failed.  
 **Translation:** 
 
-**[12128.34s] English:** But I knew that I was  
+**[12128.34s] English:** But I knew that I was.  
 **Translation:** 
 
-**[12130.26s] English:** going to succeed.  
+**[12130.26s] English:** Going to succeed.  
 **Translation:** 
 
-**[12133.14s] English:** It was 30 years  
+**[12133.14s] English:** It was 30 years ago.  
 **Translation:** 
 
-**[12134.40s] English:** later that I finally  
+**[12134.40s] English:** Later, that's when I finally  
 **Translation:** 
 
-**[12136.54s] English:** got to meet  
+**[12136.54s] English:** Got to meet.  
 **Translation:** 
 
-**[12138.44s] English:** that boy, that 16-year-old  
+**[12138.44s] English:** That boy, that 16-year-old.  
 **Translation:** 
 
-**[12140.04s] English:** that I  
+**[12140.04s] English:** That I  
 **Translation:** 
 
-**[12141.10s] English:** neglected this time.  
+**[12141.10s] English:** Neglected this time.  
 **Translation:** 
 
-**[12144.26s] English:** And I realized that he died. That it was  
+**[12144.26s] English:** And I realized that he had died. That it was  
 **Translation:** Vocabulary: neglected: 忽视
 
-**[12146.54s] English:** a crushing blow.  
+**[12146.54s] English:** A crushing blow.  
 **Translation:** 
 
 **[12148.26s] English:** The innocence?  
@@ -8308,187 +8309,187 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12149.78s] English:** Not just innocence, because  
 **Translation:** 
 
-**[12151.16s] English:** there was no way. It looked like there was no way  
+**[12151.16s] English:** There was no way. It looked like there was no way.  
 **Translation:** 
 
-**[12153.92s] English:** I could become a mathematician. Because if  
+**[12153.92s] English:** I could become a mathematician. Because, if  
 **Translation:** 
 
-**[12155.68s] English:** they don't accept me there,  
+**[12155.68s] English:** They don't accept me there.  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[12158.62s] English:** it's over.  
+**[12158.62s] English:** It's over.  
 **Translation:** 
 
-**[12159.86s] English:** I didn't know that I could  
+**[12159.86s] English:** I didn't know that I could.  
 **Translation:** 
 
-**[12161.66s] English:** actually find this striving  
+**[12161.66s] English:** Actually, I find this striving.  
 **Translation:** 
 
-**[12163.86s] English:** applied math program  
+**[12163.86s] English:** Applied Math Program  
 **Translation:** Vocabulary: striving: 努力
 
-**[12165.76s] English:** and then eventually somebody would take me  
+**[12165.76s] English:** And then, eventually, somebody would take me.  
 **Translation:** 
 
-**[12167.82s] English:** under his wing and so on, and then could  
+**[12167.82s] English:** Under his wing, and so on, and then could.  
 **Translation:** 
 
-**[12169.80s] English:** move to the United States. That was  
+**[12169.80s] English:** Move to the United States. That was  
 **Translation:** 
 
-**[12171.72s] English:** not in the realm of possibilities.  
+**[12171.72s] English:** Not in the realm of possibilities.  
 **Translation:** 
 
-**[12174.32s] English:** So in other words, there was nothing to look  
+**[12174.32s] English:** So, in other words, there was nothing to look at.  
 **Translation:** 
 
-**[12175.82s] English:** forward to. It was  
+**[12175.82s] English:** Forward to. It was.  
 **Translation:** 
 
-**[12177.66s] English:** clear that  
+**[12177.66s] English:** Clear that.  
 **Translation:** 
 
-**[12178.22s] English:** it's over. I cannot  
+**[12178.22s] English:** It's over. I cannot.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[12179.52s] English:** do  
+**[12179.52s] English:** Do  
 **Translation:** 
 
-**[12182.38s] English:** what I love.  
+**[12182.38s] English:** What I love.  
 **Translation:** 
 
-**[12185.06s] English:** And so when I  
+**[12185.06s] English:** And so, when I  
 **Translation:** 
 
-**[12186.22s] English:** finally  
+**[12186.22s] English:** Finally,  
 **Translation:** 
 
-**[12186.62s] English:** connected  
+**[12186.62s] English:** Connected.  
 **Translation:** 
 
-**[12190.10s] English:** to that boy, oh my god.  
+**[12190.10s] English:** To that boy, oh my God.  
 **Translation:** 
 
 **[12192.80s] English:** That was a totally different experience.  
 **Translation:** 
 
-**[12194.22s] English:** All the pain and all the trauma  
+**[12194.22s] English:** All the pain and all the trauma.  
 **Translation:** Vocabulary: trauma: 创伤
 
-**[12196.26s] English:** came to the surface.  
+**[12196.26s] English:** Came to the surface.  
 **Translation:** 
 
 **[12199.02s] English:** And it was  
 **Translation:** 
 
-**[12199.62s] English:** a kind of a tsunami.  
+**[12199.62s] English:** A kind of a tsunami.  
 **Translation:** 
 
-**[12202.62s] English:** I wasn't sure I would survive  
+**[12202.62s] English:** I wasn't sure I would survive.  
 **Translation:** Vocabulary: tsunami: 海啸
 
-**[12204.34s] English:** this. It was so hard.  
+**[12204.34s] English:** This. It was so hard.  
 **Translation:** 
 
-**[12206.98s] English:** And what happened was, I was  
+**[12206.98s] English:** And what happened was, I was.  
 **Translation:** 
 
-**[12208.20s] English:** invited to  
+**[12208.20s] English:** Invited to  
 **Translation:** 
 
-**[12209.02s] English:** give a talk about this in New York.  
+**[12209.02s] English:** Give a talk about this in New York.  
 **Translation:** 
 
-**[12212.74s] English:** It was kind of a spoken word  
+**[12212.74s] English:** It was kind of a spoken word.  
 **Translation:** 
 
-**[12214.18s] English:** event  
+**[12214.18s] English:** Event:  
 **Translation:** 
 
-**[12214.60s] English:** about science, but like personal experiences  
+**[12214.60s] English:** About science, but like personal experiences.  
 **Translation:** 
 
-**[12218.34s] English:** related to science. This was  
+**[12218.34s] English:** Related to science, this was  
 **Translation:** 
 
-**[12220.08s] English:** almost a year after  
+**[12220.08s] English:** Almost a year after,  
 **Translation:** 
 
-**[12221.16s] English:** my book came out. In my  
+**[12221.16s] English:** My book came out. In my  
 **Translation:** 
 
-**[12224.12s] English:** book, one of the first chapters  
+**[12224.12s] English:** Book: One of the first chapters.  
 **Translation:** 
 
-**[12226.32s] English:** is a chapter about this experience.  
+**[12226.32s] English:** Is there a chapter about this experience?  
 **Translation:** 
 
 **[12229.48s] English:** But what I  
 **Translation:** 
 
-**[12230.28s] English:** realize now is that I wrote it from  
+**[12230.28s] English:** Realize now that I wrote it from  
 **Translation:** 
 
-**[12232.10s] English:** the third-person perspective.  
+**[12232.10s] English:** The third-person perspective.  
 **Translation:** 
 
-**[12233.76s] English:** I knew the facts, but  
+**[12233.76s] English:** I knew the facts, but...  
 **Translation:** 
 
 **[12236.12s] English:** I was not emotionally connected to that experience.  
 **Translation:** 
 
-**[12238.20s] English:** However, since I wanted to  
+**[12238.20s] English:** However, since I wanted to.  
 **Translation:** 
 
-**[12240.00s] English:** write the book and to connect to my readers, I allowed the boy to write it.  
+**[12240.00s] English:** Write the book and to connect with my readers, I allowed the boy to write it.  
 **Translation:** 
 
-**[12245.84s] English:** So a lot of people were touched by it.  
+**[12245.84s] English:** So, a lot of people were touched by it.  
 **Translation:** 
 
-**[12247.88s] English:** And they would, people would say, wow, that chapter, you know, it really got a lot of  
+**[12247.88s] English:** And they would say, "Wow, that chapter really got a lot of  
 **Translation:** 
 
-**[12251.28s] English:** resonance.  
+**[12251.28s] English:** Resonance.  
 **Translation:** 
 
-**[12252.28s] English:** It was translated into other language even before the book was published.  
+**[12252.28s] English:** It was translated into another language even before the book was published.  
 **Translation:** 
 
 **[12256.28s] English:** I was surprised by this because I didn't know yet.  
 **Translation:** 
 
-**[12259.46s] English:** So the adult Edward was not yet in touch, but the book gave the outlet to the child.  
+**[12259.46s] English:** So, the adult Edward was not yet in touch, but the book gave an outlet to the child.  
 **Translation:** 
 
 **[12269.16s] English:** And that kind of started the process.  
+**Translation:** Vocabulary: outlet: 释放途径
+
+**[12272.48s] English:** So, finally, almost a year later, I'm in New York at this event.  
 **Translation:** 
 
-**[12272.48s] English:** So finally, almost a year later, I'm in New York in this event.  
+**[12280.40s] English:** And the night before, I'm in my hotel room, and I was like, "Okay, what am I going to talk about?  
 **Translation:** 
 
-**[12280.40s] English:** And the night before, I'm in my hotel room and I was like, okay, what am I going to talk  
+**[12285.42s] English:** About tomorrow?  
 **Translation:** 
 
-**[12285.42s] English:** about tomorrow?  
+**[12286.64s] English:** And I take a piece of paper just to, you know, do my usual kind of preparation, you know, for things.  
 **Translation:** 
 
-**[12286.64s] English:** And I take a piece of paper just to, you know, my usual like preparation, you know, for things.  
+**[12292.00s] English:** And then, suddenly, I have a vision that I will walk up to the microphone tomorrow.  
 **Translation:** 
 
-**[12292.00s] English:** And then suddenly I have this vision that I will walk up to the microphone tomorrow  
-**Translation:** 
-
-**[12295.84s] English:** and I will just start crying.  
+**[12295.84s] English:** And I will just start crying.  
 **Translation:** Vocabulary: microphone: 话筒
 
-**[12299.14s] English:** And I was like, by that time, I already had an insight that it's possible to have that  
+**[12299.14s] English:** And I was like, by that time, I already had an insight that it's possible to have that.  
 **Translation:** 
 
-**[12308.86s] English:** kind of a splitting, kind of dissociation.  
+**[12308.86s] English:** Kind of a splitting, kind of dissociation.  
 **Translation:** Vocabulary: dissociation: 心理分离
 
 **[12312.62s] English:** But things were happening quickly.  
@@ -8497,7 +8498,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12314.98s] English:** There was someone in my life who explained to me this idea that some things are under  
 **Translation:** 
 
-**[12318.92s] English:** the radar of awareness, but they may still influence you.  
+**[12318.92s] English:** The radar of awareness, but they may still influence you.  
 **Translation:** 
 
 **[12323.42s] English:** And a lot of that could be connected to some experiences in your childhood.  
@@ -8506,37 +8507,40 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12328.46s] English:** Okay.  
 **Translation:** 
 
-**[12329.14s] English:** So I was kind of ready for it from different angles, but I was so surprised because I was  
+**[12329.14s] English:** So, I was kind of ready for it from different angles, but I was so surprised because I was  
 **Translation:** 
 
-**[12334.82s] English:** like, what is there to remember?  
+**[12334.82s] English:** Like, what is there to remember?  
 **Translation:** 
 
-**[12336.48s] English:** I know, I know everything.  
+**[12336.48s] English:** I know—I know everything.  
 **Translation:** 
 
-**[12338.58s] English:** So then my inner voice says, all right, then you have nothing to worry about.  
+**[12338.58s] English:** So then, my inner voice says, "All right, then you have nothing to worry about.  
 **Translation:** 
 
-**[12342.90s] English:** Go tomorrow and you will speak about this.  
+**[12342.90s] English:** Go tomorrow, and you will speak about this.  
 **Translation:** 
 
 **[12346.46s] English:** And if you start crying, it's not a problem.  
 **Translation:** 
 
-**[12348.58s] English:** I was like, no, I don't want to cry in front of people.  
+**[12348.58s] English:** I was like, "No, I don't want to cry in front of people.  
 **Translation:** 
 
-**[12352.06s] English:** I want to find out what it is, what happened.  
+**[12352.06s] English:** I want to find out what happened; what it is.  
 **Translation:** 
 
-**[12355.20s] English:** And I sat on my bed, closed my eyes and it came.  
+**[12355.20s] English:** And I sat on my bed, closed my eyes, and it came.  
 **Translation:** 
 
-**[12359.14s] English:** And my mind said, okay, if you want to know, let's talk about this.  
+**[12359.14s] English:** And my mind said, "Okay, if you want to know, let's talk about this.  
 **Translation:** 
 
-**[12365.28s] English:** I was like, what is this?  
+**[12360.40s] English:** So, it's hard to describe. This is what the sheer energy of it and how much effort it takes.  
+**Translation:** 
+
+**[12365.28s] English:** I was like, "What is this?  
 **Translation:** 
 
 **[12366.72s] English:** What is this?  
@@ -8544,6 +8548,9 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 
 **[12367.50s] English:** Why am I scared?  
 **Translation:** 
+
+**[12369.20s] English:** It took so long to suppress it actually — for all these years, how much effort it took to build that.  
+**Translation:** Vocabulary: suppress: 压制
 
 **[12369.28s] English:** You can imagine.  
 **Translation:** 
@@ -8557,8 +8564,11 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12373.02s] English:** You can imagine that you're getting set off by a storm.  
 **Translation:** 
 
-**[12375.68s] English:** Like, do you want to do that?  
+**[12375.52s] English:** Panzer, I wouldn't say in Russian, you know, that hardcore stuff, you know, around myself, yeah, so that.  
 **Translation:** 
+
+**[12375.68s] English:** Like, do you want to do that?  
+**Translation:** Vocabulary: hardcore: 极端; panzer: 坦克
 
 **[12377.40s] English:** Do you want to go home?  
 **Translation:** 
@@ -8569,16 +8579,22 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12380.86s] English:** Do you want to go to school?  
 **Translation:** 
 
+**[12381.28s] English:** And the thing is, later I realized there were moments when it could come out, and for instance, I developed.  
+**Translation:** 
+
 **[12382.10s] English:** Do you want to go back to school?  
 **Translation:** 
 
 **[12383.62s] English:** Yeah.  
 **Translation:** 
 
-**[12384.40s] English:** I was like, no, I don't want to go back.  
+**[12384.40s] English:** I was like, "No, I don't want to go back.  
 **Translation:** 
 
-**[12387.58s] English:** So I'm how would you describe what that means?  
+**[12387.58s] English:** So, I'm: how would you describe what that means?  
+**Translation:** 
+
+**[12388.56s] English:** This fear of public speaking — all kinds of little things that I now feel more connected to, so anyway.  
 **Translation:** 
 
 **[12388.78s] English:** Yeah.  
@@ -8590,76 +8606,61 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12389.10s] English:** Okay.  
 **Translation:** 
 
-**[12360.40s] English:** so it's hard to describe so this is what the and the sheer energy of it and how much effort  
+**[12396.24s] English:** I saw what happened, now through the eyes of that child, I saw how difficult it was, how  
 **Translation:** 
 
-**[12369.20s] English:** it took to suppress it actually for all these years how much effort it took to build that  
+**[12401.84s] English:** Crushed, he was, and it looked completely hopeless, and I felt like what's the point of living now?  
 **Translation:** 
 
-**[12375.52s] English:** panzer i wouldn't say in russian you know that that hardcore you know around myself yeah so that  
-**Translation:** Vocabulary: hardcore: 坚定的; panzer: 装甲坦克; suppress: 镇压
-
-**[12381.28s] English:** and the thing later i realized there were moments when it could come out and for instance i developed  
+**[12408.08s] English:** For me, now that I know how cruel this world is, which I didn't realize before, because I prefer...  
 **Translation:** 
 
-**[12388.56s] English:** this fear of public speaking all kinds of little things that i now feel more connected so anyway  
+**[12414.48s] English:** To wear these pink, you know, rose-colored glasses.  
 **Translation:** 
 
-**[12396.24s] English:** i saw what happened now through the eyes of that child i saw how how difficult it was how  
+**[12418.56s] English:** I wore the glasses, but then something happened. It's so strange; it's like you can feel that inside of.  
 **Translation:** 
 
-**[12401.84s] English:** crushed he was and it looked completely hopeless and i felt like what's the point of living now  
+**[12425.60s] English:** You know, there's this dead child, and it's incredibly sad. I mean, it's like I can't even describe it.  
 **Translation:** 
 
-**[12408.08s] English:** for me now that i know how cruel this world is which i didn't realize before because i prefer  
+**[12433.60s] English:** But suddenly he comes alive, and suddenly it's like, "Oh, he's here," and I had a little talk with him.  
 **Translation:** 
 
-**[12414.48s] English:** to wear this pink you know the the the rose the rose-colored glasses  
+**[12440.40s] English:** He and I said, "Look, you know, I know, and now I thank you. I'm so sorry that I neglected you for.  
+**Translation:** Vocabulary: neglected: 忽视
+
+**[12445.68s] English:** So, long, you know, I didn't know.  
 **Translation:** 
 
-**[12418.56s] English:** i wore the glasses but then something happened it's so strange it's like you feel that inside of  
+**[12448.56s] English:** Thank you for doing this. And it's almost like, you know, I felt like the image came to mind is like a  
 **Translation:** 
 
-**[12425.60s] English:** you there is this dead child and it is incredibly sad i mean it's like i can't even describe it  
+**[12455.96s] English:** A fallen soldier, like you—leave a fallen soldier on the battlefield, a wounded soldier—and then you.  
 **Translation:** 
 
-**[12433.60s] English:** but suddenly he comes alive and suddenly it's like oh he's here and i and i had a little talk with  
-**Translation:** 
-
-**[12440.40s] English:** him and i said look you know i know and now i thank you i'm so sorry that i neglected you for  
-**Translation:** Vocabulary: neglected: 忽略
-
-**[12445.68s] English:** so long you know i didn't know  
-**Translation:** 
-
-**[12448.56s] English:** thank you for doing this and it's almost like you know i felt like the image came to mind is like a  
-**Translation:** 
-
-**[12455.96s] English:** fallen soldier like you leave a fallen soldier on the battlefield a wounded soldier and then you  
-**Translation:** 
-
-**[12461.44s] English:** come back to take him with you and and i said but look look what we have done look at us now  
+**[12461.44s] English:** Come back to take him with you, and I said, "But look, look what we have done. Look at us now.  
 **Translation:** Vocabulary: battlefield: 战场
 
-**[12469.04s] English:** it was not in vain we are doing okay and it's kind of almost just like holding holding holding that  
+**[12469.04s] English:** It was not in vain; we are doing okay, and it's kind of almost just like holding, holding, holding that.  
 **Translation:** 
 
-**[12478.42s] English:** job  
+**[12478.42s] English:** Job:  
 **Translation:** 
 
-**[12480.00s] English:** and that sense of who I am, you know, and feeling it.  
+**[12480.00s] English:** And that sense of who I am, you know, and feeling it.  
 **Translation:** 
 
-**[12486.80s] English:** So the next day, I went to the microphone,  
-**Translation:** 
+**[12486.80s] English:** So, the next day, I went to the microphone,  
+**Translation:** Vocabulary: microphone: 麦克风
 
-**[12491.02s] English:** and I let him speak for the first time about his experience in his own voice.  
+**[12491.02s] English:** And I let him speak for the first time about his experience, in his own voice.  
 **Translation:** 
 
 **[12497.04s] English:** It was incredible.  
 **Translation:** 
 
-**[12497.98s] English:** People were crying and afterwards came up to me and started sharing stories and so on.  
+**[12497.98s] English:** People were crying, and afterwards, they came up to me and started sharing their stories and so on.  
 **Translation:** 
 
 **[12503.00s] English:** Because it is a story.  
@@ -8683,7 +8684,7 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12515.24s] English:** And I think it's so important to realize that it's possible to revisit those moments.  
 **Translation:** 
 
-**[12522.04s] English:** It's possible to reconnect to our little ones.  
+**[12522.04s] English:** It's possible to reconnect with our little ones.  
 **Translation:** 
 
 **[12524.74s] English:** It's possible to bring them back.  
@@ -8692,20 +8693,20 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12527.28s] English:** And we are better for it because this changed my life, this experience.  
 **Translation:** 
 
-**[12533.12s] English:** Then suddenly it's like a floodgates.  
-**Translation:** Vocabulary: floodgates: 泄洪闸
+**[12533.12s] English:** Then, suddenly, it's like a floodgate.  
+**Translation:** Vocabulary: floodgate: 水闸
 
 **[12535.24s] English:** There were many other things that came.  
 **Translation:** 
 
-**[12537.94s] English:** That's when...  
+**[12537.94s] English:** That's when....  
 **Translation:** 
 
-**[12538.58s] English:** That's when I became interested in the dimensions of imagination and intuition and so on.  
+**[12538.58s] English:** That's when I became interested in the dimensions of imagination and intuition, and so on.  
 **Translation:** 
 
-**[12544.30s] English:** Because suddenly I realized that I was deprived of that possibility of looking at the world through the eyes of a child.  
-**Translation:** Vocabulary: dimensions: 维度; intuition: 直觉
+**[12544.30s] English:** Because, suddenly, I realized that I was deprived of the possibility of looking at the world through the eyes of a child.  
+**Translation:** Vocabulary: deprived: 丧失; dimensions: 维度; intuition: 直觉
 
 **[12550.32s] English:** Because that child was frozen in time.  
 **Translation:** 
@@ -8713,10 +8714,10 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12552.94s] English:** I was not connected to him.  
 **Translation:** 
 
-**[12555.16s] English:** But suddenly he's with me.  
+**[12555.16s] English:** But suddenly, he's with me.  
 **Translation:** 
 
-**[12557.16s] English:** And he's like, almost like opens his doors and says,  
+**[12557.16s] English:** And he's like, almost as if he opens his doors and says,  
 **Translation:** 
 
 **[12561.14s] English:** Look at this.  
@@ -8728,20 +8729,20 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12565.24s] English:** Look at this.  
 **Translation:** 
 
-**[12568.52s] English:** So...  
+**[12568.52s] English:** So,...  
 **Translation:** 
 
-**[12569.52s] English:** If I could ask you about there's a difficult idea here.  
+**[12569.52s] English:** If I could ask you, there's a difficult idea here.  
 **Translation:** 
 
 **[12576.18s] English:** There's a tension.  
 **Translation:** 
 
-**[12577.20s] English:** I've interacted with a few folks in my personal life and in general that have lived through this experience of unfairness and cruelty in the world as young people.  
+**[12577.20s] English:** I've interacted with a few folks in my personal life and, in general, who have lived through the experience of unfairness and cruelty in the world as young people.  
 **Translation:** 
 
-**[12593.94s] English:** And what wisdom do you draw from...  
-**Translation:** Vocabulary: interacted: 交往
+**[12593.94s] English:** And what wisdom do you draw from?  
+**Translation:** Vocabulary: cruelty: 残忍; interacted: 互动
 
 **[12597.74s] English:** The...  
 **Translation:** 
@@ -8752,475 +8753,475 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[12599.34s] English:** The action.  
 **Translation:** 
 
-**[12600.00s] English:** you took of not acknowledging  
+**[12600.00s] English:** You took of not acknowledging.  
+**Translation:** Vocabulary: acknowledging: 承认
+
+**[12602.18s] English:** That you were a victim of cruelty.  
 **Translation:** 
 
-**[12602.18s] English:** that you were a victim to cruelty  
+**[12603.98s] English:** But instead, just work your ass off.  
 **Translation:** 
 
-**[12603.98s] English:** but instead just working your ass off  
+**[12605.96s] English:** Working harder.  
 **Translation:** 
 
-**[12605.96s] English:** working harder  
+**[12606.76s] English:** And then this:  
 **Translation:** 
 
-**[12606.76s] English:** and then this  
+**[12609.70s] English:** The flip side of that.  
 **Translation:** 
 
-**[12609.70s] English:** the flip side of that  
+**[12611.60s] English:** Is there eventually reconnecting?  
+**Translation:** Vocabulary: reconnecting: 重新建立联系
+
+**[12614.10s] English:** With the cruelty that you experienced,  
 **Translation:** 
 
-**[12611.60s] English:** is you eventually reconnecting  
-**Translation:** Vocabulary: reconnecting: 重新联系
-
-**[12614.10s] English:** with the cruelty that you experienced  
+**[12615.96s] English:** Because if you did that early on,  
 **Translation:** 
 
-**[12615.96s] English:** because if you did that early on  
+**[12618.18s] English:** I was not ready for it.  
 **Translation:** 
 
-**[12618.18s] English:** I was not ready for it  
+**[12619.48s] English:** It is a defense mechanism.  
 **Translation:** 
 
-**[12619.48s] English:** it is a defense mechanism  
+**[12620.76s] English:** I could have come.  
 **Translation:** 
 
-**[12620.76s] English:** I could have come  
+**[12622.60s] English:** You know, there were kids who committed suicide.  
 **Translation:** 
 
-**[12622.60s] English:** you know there were kids who committed suicide  
+**[12624.22s] English:** After this experience,  
 **Translation:** 
 
-**[12624.22s] English:** after this experience  
+**[12625.24s] English:** I could have committed suicide.  
 **Translation:** 
 
-**[12625.24s] English:** I could have committed suicide  
+**[12626.44s] English:** Because it's too much.  
 **Translation:** 
 
-**[12626.44s] English:** because it's too much  
+**[12627.38s] English:** And it is well known,  
 **Translation:** 
 
-**[12627.38s] English:** and it is well known  
+**[12629.46s] English:** Afterwards, of course.  
 **Translation:** 
 
-**[12629.46s] English:** afterwards of course  
+**[12630.92s] English:** I became aware of all the literature.  
 **Translation:** 
 
-**[12630.92s] English:** I became aware of all the literature  
+**[12632.56s] English:** About childhood trauma and so on.  
 **Translation:** 
 
-**[12632.56s] English:** about childhood trauma and so on  
+**[12635.74s] English:** And I have been speaking publicly about it.  
+**Translation:** Vocabulary: trauma: 创伤
+
+**[12639.30s] English:** Since then, too.  
 **Translation:** 
 
-**[12635.74s] English:** and I have been speaking publicly about it  
-**Translation:** Vocabulary: trauma: 童年创伤
-
-**[12639.30s] English:** since then too  
+**[12640.24s] English:** And so, you know.  
 **Translation:** 
 
-**[12640.24s] English:** and so you know  
+**[12642.64s] English:** It is a well-known issue.  
 **Translation:** 
 
-**[12642.64s] English:** it is well known issue  
+**[12644.14s] English:** And, well-known.  
 **Translation:** 
 
-**[12644.14s] English:** and well known  
-**Translation:** 
-
-**[12645.46s] English:** kind of universal phenomenon  
+**[12645.46s] English:** Kind of a universal phenomenon.  
 **Translation:** 
 
 **[12649.34s] English:** I think that  
 **Translation:** 
 
-**[12650.88s] English:** interestingly enough  
+**[12650.88s] English:** Interestingly, enough.  
 **Translation:** 
 
-**[12652.38s] English:** even though  
+**[12652.38s] English:** Even though  
 **Translation:** 
 
-**[12653.76s] English:** now I see a lot of discussion of it  
+**[12653.76s] English:** Now, I see a lot of discussion of it.  
 **Translation:** 
 
-**[12656.40s] English:** now that my eyes are open  
+**[12656.40s] English:** Now that my eyes are open.  
 **Translation:** 
 
-**[12657.86s] English:** but somehow before  
+**[12657.86s] English:** But somehow, before  
 **Translation:** 
 
-**[12659.26s] English:** I didn't see it  
+**[12659.26s] English:** I didn't see it.  
 **Translation:** 
 
-**[12660.44s] English:** so that  
+**[12660.44s] English:** So that  
 **Translation:** 
 
-**[12660.88s] English:** which also shows you how  
+**[12660.88s] English:** Which also shows you how  
 **Translation:** 
 
-**[12662.24s] English:** our confirmation bias  
+**[12662.24s] English:** Our confirmation bias.  
 **Translation:** 
 
-**[12663.84s] English:** kind of like how  
+**[12663.84s] English:** Kind of like how  
 **Translation:** 
 
-**[12664.76s] English:** we screen ourselves  
+**[12664.76s] English:** We screen ourselves.  
 **Translation:** 
 
-**[12665.98s] English:** how we turn the blind eye  
+**[12665.98s] English:** How we turn the blind eye.  
 **Translation:** 
 
-**[12667.28s] English:** to things which do not confirm our views  
+**[12667.28s] English:** To things which do not confirm our views.  
 **Translation:** 
 
-**[12668.96s] English:** or for which we are not yet ready  
+**[12668.96s] English:** Or for which we are not yet ready.  
 **Translation:** 
 
-**[12670.44s] English:** and by the way  
+**[12670.44s] English:** And, by the way,  
 **Translation:** 
 
-**[12671.02s] English:** nobody should push to do it too soon  
+**[12671.02s] English:** Nobody should push to do it too soon.  
 **Translation:** 
 
-**[12673.44s] English:** I'm glad  
+**[12673.44s] English:** I'm glad.  
 **Translation:** 
 
-**[12674.00s] English:** I developed certain strength  
+**[12674.00s] English:** I developed certain strength.  
 **Translation:** 
 
-**[12677.50s] English:** I was confident  
+**[12677.50s] English:** I was confident.  
 **Translation:** 
 
-**[12680.40s] English:** I was strong to withstand this  
+**[12680.40s] English:** I was strong to withstand this.  
 **Translation:** Vocabulary: withstand: 承受
 
-**[12684.62s] English:** and if I weren't  
+**[12684.62s] English:** And if I weren't  
 **Translation:** 
 
-**[12686.10s] English:** who knows how it could turn out  
+**[12686.10s] English:** Who knows how it could turn out?  
 **Translation:** 
 
-**[12688.34s] English:** so it is  
+**[12688.34s] English:** So, it is.  
 **Translation:** 
 
-**[12689.26s] English:** a very subtle kind of alchemical process  
-**Translation:** Vocabulary: alchemical: 炼金术式的
+**[12689.26s] English:** A very subtle kind of alchemical process.  
+**Translation:** Vocabulary: alchemical: 炼金术般的; subtle: 微妙的
 
-**[12691.94s] English:** which  
+**[12691.94s] English:** Which  
 **Translation:** 
 
-**[12693.08s] English:** I don't think there is a recipe  
+**[12693.08s] English:** I don't think there is a recipe.  
+**Translation:** Vocabulary: recipe: 食谱
+
+**[12694.26s] English:** There is a formula.  
 **Translation:** 
 
-**[12694.26s] English:** there is a formula  
+**[12696.54s] English:** The reason I'm talking about this,  
 **Translation:** 
 
-**[12696.54s] English:** the reason I'm talking about this  
+**[12698.20s] English:** Is just to share.  
 **Translation:** 
 
-**[12698.20s] English:** is just to share  
+**[12699.72s] English:** This experience.  
 **Translation:** 
 
-**[12699.72s] English:** this experience  
+**[12700.36s] English:** Because I think that  
 **Translation:** 
 
-**[12700.36s] English:** because I think that  
+**[12701.62s] English:** The only thing we can do in this  
 **Translation:** 
 
-**[12701.62s] English:** the only thing we can do in this  
+**[12703.24s] English:** In some sense,  
 **Translation:** 
 
-**[12703.24s] English:** in some sense  
+**[12703.86s] English:** Is to share with each other.  
 **Translation:** 
 
-**[12703.86s] English:** is to share with each other  
+**[12705.48s] English:** Because then we can find  
 **Translation:** 
 
-**[12705.48s] English:** because then we can find  
+**[12708.58s] English:** For instance,  
 **Translation:** 
 
-**[12708.58s] English:** for instance  
+**[12709.34s] English:** If somebody  
 **Translation:** 
 
-**[12709.34s] English:** if somebody  
+**[12710.94s] English:** Shared with me  
 **Translation:** 
 
-**[12710.94s] English:** shared with me  
+**[12712.54s] English:** It would naturally lead me, maybe, to get closer to that.  
 **Translation:** 
 
-**[12712.54s] English:** it would naturally lead me maybe to get closer to that  
+**[12715.60s] English:** To kind of understand,  
 **Translation:** 
 
-**[12715.60s] English:** to kind of understanding  
+**[12717.20s] English:** It's really just personal stories.  
 **Translation:** 
 
-**[12717.20s] English:** it's really just personal stories  
+**[12718.64s] English:** It's not.  
 **Translation:** 
 
-**[12718.64s] English:** it's not  
+**[12720.00s] English:** Obviously, there is a component where professionals could be involved.  
 **Translation:** 
 
-**[12720.00s] English:** obviously there is a there is a component where professionals could be involved  
+**[12726.36s] English:** Professional therapists, and so on—in my case, it somehow happened miraculously.  
 **Translation:** 
 
-**[12726.36s] English:** professional therapists and so on in my case it somehow happened miraculously  
-**Translation:** Vocabulary: miraculously: 奇迹般地; therapists: 治疗师
-
-**[12730.72s] English:** well i did have support but not not from professional therapists but from like dear  
+**[12730.72s] English:** Well, I did have support, but not from professional therapists, but from friends.  
 **Translation:** 
 
-**[12736.12s] English:** friends so i did i did have you didn't you do need i had somebody at the time who basically  
+**[12736.12s] English:** Friends, so I did have someone at the time who basically didn't need you, did you?  
+**Translation:** Vocabulary: therapists: 治疗师
+
+**[12741.44s] English:** Held my hand, and through this experience, yes, it was invaluable, and it could not have been done otherwise.  
 **Translation:** 
 
-**[12741.44s] English:** held my hand and through this experience yes it was invaluable and it could not be done otherwise  
+**[12746.38s] English:** So, I think it's very common, and here's the thing:  
+**Translation:** Vocabulary: invaluable: 无价的
+
+**[12752.14s] English:** I would not do it in any other way; when I reconnected.  
 **Translation:** 
 
-**[12746.38s] English:** so i think it's very common and here's the thing  
-**Translation:** Vocabulary: invaluable: 无价之宝
-
-**[12752.14s] English:** i would not do it in any other way when you when i reconnected  
-**Translation:** 
-
-**[12761.30s] English:** and i saw all the horrors and so on but i also was able to see  
+**[12761.30s] English:** And I saw all the horrors, and so on, but I also was able to see.  
 **Translation:** Vocabulary: reconnected: 重新连接
 
-**[12766.40s] English:** that my examiners were victims of their own situation that they became they fell for this  
+**[12766.40s] English:** That my examiners were victims of their own situation; they became, they fell for this.  
 **Translation:** 
 
-**[12776.38s] English:** bogus theories or maybe it was more of a issue of career advancement or something and  
+**[12776.38s] English:** Bogus theories, or maybe it was more of an issue of career advancement or something, and  
 **Translation:** Vocabulary: advancement: 晋升; bogus: 虚假; examiners: 考官
 
-**[12782.70s] English:** i also realized they must have suffered as well because they must have had some kind of  
+**[12782.70s] English:** I also realized they must have suffered as well, because they must have had some kind of  
 **Translation:** 
 
-**[12787.96s] English:** consciousness of a conscience about it that acting this way towards sort of  
-**Translation:** Vocabulary: conscience: 良知
+**[12787.96s] English:** Consciousness of a conscience about it, that acting this way towards someone is wrong.  
+**Translation:** Vocabulary: conscience: 良知; consciousness: 意识
 
-**[12792.58s] English:** basically kids you know so it's not it wasn't pretty from their point of view so i could forgive  
+**[12792.58s] English:** Basically, kids, you know, so it wasn't pretty from their point of view, so I could forgive.  
 **Translation:** 
 
-**[12798.66s] English:** them and i could like also appreciate what a what a boost of energy it gave me yeah  
+**[12798.66s] English:** They and I could also appreciate what a boost of energy it gave me, yeah.  
 **Translation:** 
 
-**[12806.38s] English:** if i was accepted and i was just where i was a first year student i lived i would live in a dorm  
+**[12806.38s] English:** If I was accepted and I was just a first-year student, I would live in a dorm.  
 **Translation:** 
 
-**[12812.58s] English:** because i was in the you know i'd be probably partying and drinking and who knows what maybe  
+**[12812.58s] English:** Because I was, you know, partying and drinking, and who knows what else.  
 **Translation:** 
 
-**[12817.72s] English:** i wouldn't even become a mathematician but this focused me like a laser without me even thinking  
+**[12817.72s] English:** I wouldn't have even become a mathematician, but this focused me like a laser, without me even thinking about it.  
 **Translation:** 
 
-**[12824.64s] English:** about it it just happened i couldn't i didn't care about anything but doing mathematics  
+**[12824.64s] English:** About it; it just happened. I couldn't care about anything but doing mathematics.  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[12829.50s] English:** and it paid off you know it changed my life so was it good or bad  
+**[12829.50s] English:** And it paid off; you know, it changed my life. So, was it good or bad?  
 **Translation:** 
 
-**[12836.38s] English:** seems like life is full of those  
+**[12836.38s] English:** It seems like life is full of those.  
 **Translation:** 
 
-**[12840.00s] English:** um you said you lost your father four years ago yeah what have you learned about life from your  
+**[12840.00s] English:** Um, you said you lost your father four years ago. Yeah, what have you learned about life from that?  
 **Translation:** 
 
-**[12847.20s] English:** dad that's another another big one yeah because i was very close to him and uh it was tough it  
+**[12847.20s] English:** Dad, that's another big one, yeah. Because I was very close to him, and it was tough.  
 **Translation:** 
 
-**[12855.04s] English:** was tough and i was not i was sort of not ready for it because up until that point i lived  
+**[12855.04s] English:** It was tough, and I wasn't really ready for it because up until that point, I had lived  
 **Translation:** 
 
-**[12864.08s] English:** pretending that death does not exist when my grandparents died i was already in the us  
+**[12864.08s] English:** Pretending that death does not exist, when my grandparents died, I was already in the U.S.  
 **Translation:** 
 
-**[12871.04s] English:** so it was very convenient and i couldn't go back so i grieved but it kind of was a bit  
+**[12871.04s] English:** So, it was very convenient, and I couldn't go back, so I grieved, but it kind of was a bit.  
 **Translation:** 
 
-**[12877.04s] English:** abstract for me i didn't see their dead bodies you know i didn't bury them and so on so i waited till  
+**[12877.04s] English:** Abstract for me, I didn't see their dead bodies; you know, I didn't bury them, and so on. So, I waited till...  
+**Translation:** Vocabulary: grieved: 悲伤
+
+**[12886.16s] English:** So, the first death in my life was my father—really close, loved ones, and I was  
 **Translation:** 
 
-**[12886.16s] English:** so my the first death in my life was my father like of really close loved ones and i was  
+**[12892.48s] English:** Absolutely devastated.  
 **Translation:** 
 
-**[12892.48s] English:** absolutely devastated  
+**[12894.64s] English:** We, you know, he was such an amazing creature, such an amazing human being. He was the kindest.  
 **Translation:** 
 
-**[12894.64s] English:** we you know he was such an amazing creature such an amazing human being he was the kindest  
+**[12900.56s] English:** The smartest, the most funny; just, it's really funny, and just really fun to be with, you know.  
 **Translation:** 
 
-**[12900.56s] English:** the smartest the most funny just it's really funny and just really fun to be with you know  
+**[12907.52s] English:** This is what I miss. Obviously, I would just love to hang out with him, so and then suddenly.  
 **Translation:** 
 
-**[12907.52s] English:** this is what i miss obviously i mean i would just love to hang out with him so and then suddenly  
-**Translation:** 
-
-**[12914.24s] English:** he's not there so stuff but it kind of changed my perspective you miss him i miss him tremendously  
+**[12914.24s] English:** He's not there, so stuff, but it kind of changed my perspective. You miss him; I miss him tremendously.  
 **Translation:** Vocabulary: tremendously: 非常
 
-**[12923.68s] English:** i miss him  
+**[12923.68s] English:** I miss him.  
 **Translation:** 
 
-**[12924.08s] English:** him tremendously but i in a way i learned that he never left me in some i mean it sounds so  
+**[12924.08s] English:** He tremendously, but I—in a way—I learned that he never left me. In some ways, it sounds so  
 **Translation:** 
 
-**[12930.48s] English:** words are so you know like they are um they cannot express in words this what i'm trying to say  
+**[12930.48s] English:** Words are, you know, like they are—um—they cannot express in words what I'm trying to say.  
 **Translation:** 
 
-**[12938.80s] English:** but um do you carry him with you yeah but and in some sense i always did and i i i saw that  
+**[12938.80s] English:** But, um, do you carry him with you? Yeah, but and in some sense I always did, and I saw that.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[12949.76s] English:** that it's always been um it was really  
+**[12949.76s] English:** That it's always been, um, it was really.  
 **Translation:** 
 
-**[12954.64s] English:** we were one in some sense you know like we were but there was this experience of  
+**[12954.64s] English:** We were one, in some sense, you know—like we were, but there was this experience of.  
 **Translation:** 
 
-**[12959.60s] English:** you  
+**[12959.60s] English:** You.  
 **Translation:** 
 
-**[12960.00s] English:** two two people being together and that i missed tremendously but he gave me so much and i you know  
+**[12960.00s] English:** Two people being together, and that I missed tremendously, but he gave me so much, and I you know.  
 **Translation:** 
 
-**[12970.90s] English:** let me tell you one aspect of it for instance when he was a kid his father was sent to gulag  
+**[12970.90s] English:** Let me tell you one aspect of it. For instance, when he was a kid, his father was sent to the Gulag.  
 **Translation:** 
 
-**[12977.36s] English:** on bogus pretenses right so he when he was 16 he applied to a university he wanted to become a  
-**Translation:** Vocabulary: bogus: 虚假; gulag: 劳改营; pretenses: 借口
+**[12977.36s] English:** On bogus pretenses, right? So, when he was 16, he applied to a university and he wanted to become a  
+**Translation:** Vocabulary: gulag: 劳改营; pretenses: 借口
 
-**[12983.48s] English:** theoretical physicist by the way my love for theoretical physics was to a large extent  
+**[12983.48s] English:** Theoretical physicist, by the way; my love for theoretical physics was to a large extent  
 **Translation:** 
 
-**[12987.98s] English:** because of that and he was not accepted even though he was brilliant because he was the son  
+**[12987.98s] English:** Because of that, and he was not accepted, even though he was brilliant, because he was the son.  
 **Translation:** Vocabulary: physicist: 物理学家
 
-**[12994.08s] English:** of the enemy of the people and he kind of broke him this experience that he didn't care when he  
+**[12994.08s] English:** Of the enemy of the people, and he kind of broke him. This experience taught him that he didn't care when he  
 **Translation:** 
 
-**[13004.28s] English:** was you know he went to technical school and he didn't really care that's my take on it and then  
+**[13004.28s] English:** Was you know, he went to technical school, and he didn't really care—that's my take on it—and then  
 **Translation:** 
 
-**[13009.80s] English:** he ended up in this in this in this little provincial town and he thought he would escape  
+**[13009.80s] English:** He ended up in this little provincial town and he thought he would escape.  
 **Translation:** 
 
-**[13014.48s] English:** from it as soon as possible and then he met my mother and they fell in love  
+**[13014.48s] English:** From it as soon as possible, and then he met my mother, and they fell in love.  
 **Translation:** 
 
-**[13017.76s] English:** you  
+**[13017.76s] English:** You.  
 **Translation:** 
 
-**[13017.98s] English:** and so i am sort of the product the product of that you know of physics but then what i learned  
+**[13017.98s] English:** And so I am, sort of, the product of that—you know, of physics—but then what I learned...  
 **Translation:** 
 
-**[13026.82s] English:** is that because he was not able to overcome that specific experience it fell to me to do it and if  
+**[13026.82s] English:** Is that because he was not able to overcome that specific experience, it fell to me to do it, and if  
 **Translation:** 
 
-**[13035.48s] English:** i didn't my son of my daughter would have i think that that was one of the things i learned that it  
+**[13035.48s] English:** I didn't realize my son (or daughter) would have; I think that was one of the things I learned that.  
 **Translation:** 
 
-**[13041.44s] English:** was not by chance that about the same age for slightly different reasons i was subjected to  
+**[13041.44s] English:** Was not by chance that, about the same age, for slightly different reasons, I was subjected to.  
 **Translation:** 
 
-**[13047.88s] English:** this  
+**[13047.88s] English:** This  
 **Translation:** 
 
-**[13047.98s] English:** same kind of unfairness and cruelty and i in some ways i i feel like i did it for him also i always  
+**[13047.98s] English:** Same kind of unfairness and cruelty, and I, in some ways, I feel like I did it for him, too. I always  
 **Translation:** 
 
-**[13054.88s] English:** because he was also always so proud of me i was so happy and i was i had this tremendous gift  
+**[13054.88s] English:** Because he was also always so proud of me, I was so happy, and I had this tremendous gift.  
+**Translation:** Vocabulary: cruelty: 残忍
+
+**[13062.52s] English:** Twice, I was invited by the American Mathematical Society to give these big lectures, twice it.  
 **Translation:** 
 
-**[13062.52s] English:** twice i was invited by american mathematical society to give this big lectures twice it  
+**[13068.24s] English:** It was in 2012 and in 2018, and both times they were in Boston. It could be anywhere in the U.S., but both times it was in Boston.  
 **Translation:** 
 
-**[13068.24s] English:** was in 2012 and in 2018 and both times they were in boston it could be anywhere in the us both times  
+**[13076.68s] English:** Was in Boston, walking distance from my parents' place.  
 **Translation:** 
 
-**[13076.68s] English:** was in Boston, walking distance from my parents' place.  
+**[13080.00s] English:** So, he could be there in my mom, as well, and that was such a gift that he was.  
 **Translation:** 
 
-**[13080.00s] English:** so he could be there in my mom as well and that was such a gift that he was  
+**[13085.90s] English:** Beaming, you know, like seeing me on the stage; so you know now that he's no.  
 **Translation:** 
 
-**[13085.90s] English:** beaming you know like seeing me on the stage so you know now that he's no  
+**[13095.44s] English:** Longer here, and it's just you. Well, I still have my mom, and I still have my sister.  
+**Translation:** Vocabulary: beaming: 笑容满面
+
+**[13099.92s] English:** Yeah, but as a man, yeah, there are some aspects that it does hit you.  
 **Translation:** 
 
-**[13095.44s] English:** longer here and it's just you well I still have my mom I still have my sister  
+**[13107.60s] English:** How hard are you afraid of your own death? Do you think about your death? Are you  
 **Translation:** 
 
-**[13099.92s] English:** yeah but as a man yeah there's some aspect that it's that it does hit you  
+**[13113.10s] English:** Afraid of it, I have a certain conceptual view of life and death today, which is  
 **Translation:** 
 
-**[13107.60s] English:** hard are you afraid of your own death do you think about your death are you  
+**[13119.06s] English:** Informed by my experiences, particularly going through my father's death, and that  
 **Translation:** 
 
-**[13113.10s] English:** afraid of it I have a certain conceptual view of life and death today which is  
+**[13123.38s] English:** Is something which cannot be conceptualized, like that experience, like:  
 **Translation:** 
 
-**[13119.06s] English:** informed by my experiences in particular going through my father's death and that  
+**[13128.96s] English:** You cannot give it to somebody. One thing I will say is that I felt that what it  
 **Translation:** 
 
-**[13123.38s] English:** is something which cannot be conceptualized like that experience like  
+**[13136.16s] English:** Was it actually love?  
 **Translation:** 
 
-**[13128.96s] English:** you cannot give it to somebody one thing I will say is that I felt that what it  
-**Translation:** Vocabulary: cannot: 不能; conceptualized: 理解
-
-**[13136.16s] English:** was it was actually love  
+**[13137.60s] English:** Totally exposed, like naked, and you try to throw it; it's so acute, so the being...  
 **Translation:** 
 
-**[13137.60s] English:** totally exposed like naked and you try to throw it is so acute so the being  
+**[13145.10s] English:** Facing that love is incredibly painful because it's so intense when the person  
 **Translation:** 
 
-**[13145.10s] English:** facing that love is incredibly painful because it's so intense when the person  
+**[13150.50s] English:** Is alive, we have conversations, we have wars, we have some actions, you have some.  
 **Translation:** 
 
-**[13150.50s] English:** is alive we we have conversation we have wars we have some actions you have some  
+**[13156.48s] English:** Stuff is going on, and it puts a filter on things, so we rarely actually feel love in.  
 **Translation:** 
 
-**[13156.48s] English:** stuff is going on and it puts a filter so you we rarely actually feel love in  
+**[13162.32s] English:** This is a totally, completely pure, unadulterated state, but when a person dies,...  
 **Translation:** 
 
-**[13162.32s] English:** this totally completely pure unadulterated state but when person dies  
+**[13167.48s] English:** You.  
 **Translation:** 
 
-**[13167.48s] English:** you  
+**[13167.60s] English:** See, it's there and it's staring at you, and no matter what you do, you cannot.  
+**Translation:** Vocabulary: cannot: 无法
+
+**[13171.56s] English:** Turn away, like I tried to; it's like almost—I felt like I wanted to throw a  
 **Translation:** 
 
-**[13167.60s] English:** see it's there and it's staring at you and no matter what you do you cannot  
+**[13175.40s] English:** Blanket over it, yeah. It burns like immediately, like boom, gone; it's there.  
 **Translation:** 
 
-**[13171.56s] English:** turn away like I tried to it's like almost I felt like I want to throw a  
+**[13182.96s] English:** Live through it, and I was keeping telling myself, "just live through it.  
 **Translation:** 
 
-**[13175.40s] English:** blanket over it yeah it burns like immediately like boom gone it's there  
+**[13187.40s] English:** Through it, that's how you and that's how you come to know and learn what love is for.  
 **Translation:** 
 
-**[13182.96s] English:** live through it and I was I kept saying to myself just live through it live  
+**[13191.30s] English:** Example: What is it really? What is love? What is life? Also, because I was completely...  
 **Translation:** 
 
-**[13187.40s] English:** through it that's how you and that's how you know also learn what is love for  
+**[13197.60s] English:** I had no idea, and  
 **Translation:** 
 
-**[13191.30s] English:** example what is it really what is love what is life also because I was completely  
+**[13200.00s] English:** And then you kind of learn that, okay, so maybe it's not quite as simple as we thought; there's more to it, and there's more to this experience than what can be put into a concept or in a sentence. Maybe poetry or music can do some justice to it.  
 **Translation:** 
 
-**[13197.60s] English:** I had no idea and  
-**Translation:** 
-
-**[13200.00s] English:** And then you kind of learn that, okay, so maybe it's not quite, there's more to it, there's more to this experience than what can be put in a concept or in a sentence, maybe poetry or music can do some justice to it.  
-**Translation:** 
-
-**[13221.98s] English:** But if so, then my own life has that component, has that dimension, which is beyond anything I can say about it. And even though I love playing this role, I love it.  
+**[13221.98s] English:** But if so, then my own life has that component, that dimension, which is beyond anything I can say about it. And even though I love playing this role, I love it.  
 **Translation:** Vocabulary: dimension: 维度
 
 **[13236.94s] English:** And it kind of makes me feel different about all kinds of difficulties that arise, because it's almost like I want to enjoy it, because that's what being human is.  
 **Translation:** 
 
-**[13248.12s] English:** It's being terrified, it's being frustrated.  
+**[13248.12s] English:** It's being terrified; it's being frustrated.  
 **Translation:** 
 
-**[13252.78s] English:** It's being self-loathing sometimes.  
+**[13252.78s] English:** It's sometimes being self-loathing.  
 **Translation:** 
 
-**[13255.68s] English:** It's not knowing, but also being joyful and just like, ah, let's just enjoy it.  
+**[13255.68s] English:** It's not about knowing, but also being joyful and just, ah, let's just enjoy it.  
 **Translation:** 
 
 **[13263.28s] English:** Kind of all of it.  
@@ -9229,16 +9230,16 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[13264.80s] English:** Like, that's why you came here for, in some sense, you know?  
 **Translation:** 
 
-**[13268.60s] English:** It's like not trying to run away from things, but kind of trying to just live through them and appreciate.  
+**[13268.60s] English:** It's like not trying to run away from things, but kind of trying to just live through them and appreciate it.  
 **Translation:** 
 
-**[13275.42s] English:** So the biggest thing is gratitude, in some sense.  
+**[13275.42s] English:** So, the biggest thing is gratitude, in some sense.  
 **Translation:** 
 
 **[13277.96s] English:** It's just gratitude.  
 **Translation:** 
 
-**[13278.66s] English:** So thank you for letting me play.  
+**[13278.66s] English:** So, thank you for letting me play.  
 **Translation:** 
 
 **[13281.00s] English:** Gratitude for everything.  
@@ -9247,16 +9248,16 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[13281.98s] English:** Gratitude for the moment, even if it's dark, even if it's lost.  
 **Translation:** 
 
-**[13283.82s] English:** Yes, and that's why I am so, people around me, they all say that it's a total doom and gloom and the world is ending.  
+**[13283.82s] English:** Yes, and that's why I am so concerned. People around me say that it's a total doom and gloom, and the world is ending.  
 **Translation:** 
 
-**[13290.88s] English:** And I'm like, first of all, that's how you see it, okay?  
+**[13290.88s] English:** And I'm like, "First of all, that's how you see it, okay?  
 **Translation:** Vocabulary: gloom: 悲观
 
 **[13295.88s] English:** That's not the only point of view.  
 **Translation:** 
 
-**[13297.68s] English:** But also, even if it is, like, that's your challenge.  
+**[13297.68s] English:** But also, even if it is like that, that's your challenge.  
 **Translation:** 
 
 **[13300.50s] English:** Like, what are you going to do about it?  
@@ -9274,163 +9275,163 @@ Source file: Lex Fridman - Edward Frenkel： Reality is a Paradox - Mathematics,
 **[13307.82s] English:** And I think all of that starts with just a gratitude for the moment.  
 **Translation:** 
 
-**[13311.98s] English:** To be able to play this game.  
+**[13311.98s] English:** To be able to play this game,  
 **Translation:** 
 
 **[13314.30s] English:** Yeah.  
 **Translation:** 
 
-**[13315.08s] English:** How beautiful it is.  
+**[13315.08s] English:** How beautiful it is!  
 **Translation:** 
 
 **[13316.70s] English:** What, uh, we've talked about love.  
 **Translation:** 
 
-**[13320.00s] English:** me ask what role does love play in this whole game in the human condition it's like the glue  
+**[13320.00s] English:** Me, I ask: What role does love play in this whole game of the human condition? It's like the glue.  
 **Translation:** 
 
-**[13326.40s] English:** you know it's like for me it's like it's and it's not because people say love is like um for human  
+**[13326.40s] English:** You know, it's like for me, it's not because people say love is like... um, for humans.  
 **Translation:** 
 
-**[13333.34s] English:** being like a romantic love yeah which is a huge component of it obviously because so so beautiful  
+**[13333.34s] English:** Being like a romantic love, yeah, which is a huge component of it, obviously, because it's so beautiful.  
 **Translation:** 
 
-**[13338.86s] English:** to be able to to express it in this way but it could be love for what you do for your passion  
+**[13338.86s] English:** To be able to express it in this way, but it could be love for what you do or for your passion.  
 **Translation:** 
 
-**[13345.98s] English:** for something you know and uh or uh or love for for your for your friends for instance or love it  
+**[13345.98s] English:** For something you know and love, or for your friends, for instance.  
 **Translation:** 
 
-**[13355.06s] English:** doesn't have to be and so in some sense that's that's what it's all about in ultimately because  
+**[13355.06s] English:** Doesn't have to be, and so in some sense, that's what it's all about. Ultimately, because.  
 **Translation:** 
 
-**[13361.80s] English:** living without love it's kind of bland boring and so and i don't think it's possible for science to  
-**Translation:** Vocabulary: bland: 平淡无奇
+**[13361.80s] English:** Living without love is kind of bland and boring, and I don't think it's possible for science to  
+**Translation:** Vocabulary: bland: 单调乏味
 
-**[13371.42s] English:** explain exactly what it is you can do a evolutionary biology  
+**[13371.42s] English:** Explain exactly what it is you can do in evolutionary biology.  
 **Translation:** 
 
-**[13375.98s] English:** perspective you can talk about some kind of sociology perspective psychology perspective  
-**Translation:** Vocabulary: evolutionary: 进化; sociology: 社会学
+**[13375.98s] English:** Perspective, you can talk about some kind of sociology perspective or psychology perspective.  
+**Translation:** Vocabulary: evolutionary: 进化论的; sociology: 社会学
 
-**[13381.12s] English:** but the experience the intensity where you forget or time we're reminded becomes an illusion  
+**[13381.12s] English:** But the experience, the intensity—where you forget about time—or we're reminded of it—becomes an illusion.  
 **Translation:** 
 
-**[13387.28s] English:** and everything just freezes oh my god and then uh it's kind of beautiful and painful to hear  
+**[13387.28s] English:** And everything just freezes, oh my God! And then, uh, it's kind of beautiful and painful to hear.  
 **Translation:** 
 
-**[13393.98s] English:** you say that when you've experienced love the deepest is when you lost it yes but in a sense  
+**[13393.98s] English:** You say that when you've experienced love, the deepest is when you lost it, yes, but in a sense.  
 **Translation:** 
 
-**[13400.08s] English:** you can say that you could not have one without the other i could not have that deep connection  
+**[13400.08s] English:** You can say that you could not have one without the other; I could not have that deep connection.  
 **Translation:** 
 
-**[13405.72s] English:** with myself  
+**[13405.72s] English:** With myself.  
 **Translation:** 
 
-**[13405.98s] English:** like really on so so many levels if there weren't a moment that's how i see it and i'm not trying to  
+**[13405.98s] English:** Like, really, on so many levels, if there weren't a moment, that's how I see it, and I'm not trying to.  
 **Translation:** 
 
-**[13413.64s] English:** say that's how everybody should see for instance i respect ray kurzweil i respect and i feel and i  
+**[13413.64s] English:** Say, that's how everybody should see, for instance. I respect Ray Kurzweil; I respect and I feel...  
 **Translation:** 
 
-**[13418.58s] English:** almost like i get i feel good bumps right now i feel that desire to reconnect even if it is in a  
-**Translation:** Vocabulary: kurzweil: 库兹韦尔; reconnect: 重新联系
+**[13418.58s] English:** Almost like I get these good bumps right now, I feel that desire to reconnect, even if it is just in a  
+**Translation:** Vocabulary: kurzweil: 库兹韦尔; reconnect: 重新建立联系
 
-**[13428.18s] English:** form of a you know a computer program let's be honest about it i find it to be very moving i find  
+**[13428.18s] English:** Form of a, you know, a computer program. Let's be honest about it; I find it to be very moving.  
 **Translation:** 
 
-**[13435.80s] English:** it very moving and i find it very moving and i find it very moving and i find it very moving  
+**[13435.80s] English:** It is very moving, and I find it very moving.  
 **Translation:** 
 
-**[13435.96s] English:** very moving and i understand because he actually didn't have a chance to spend much time you know  
+**[13435.96s] English:** Very moving, and I understand because he actually didn't have a chance to spend much time, you know.  
 **Translation:** 
 
-**[13439.58s] English:** i think  
+**[13439.58s] English:** I think  
 **Translation:** 
 
-**[13440.00s] English:** was 16 or 17 when he was a teenager with his dad died i was lucky because my father died i was much  
+**[13440.00s] English:** Was 16 or 17 when he was a teenager, with his dad dying. I was lucky because my father died when I was much younger.  
 **Translation:** 
 
-**[13444.94s] English:** older i've had so many moments with him but that's not my thing like i think it is a feature it's not  
+**[13444.94s] English:** Older, I've had so many moments with him, but that's not my thing. I think it is a feature, but it's not.  
 **Translation:** 
 
-**[13451.62s] English:** a bug and it sounds crazy like i would love i would give anything to have him or here right now  
+**[13451.62s] English:** A bug, and it sounds crazy, but I would love; I would give anything to have him or her right now.  
 **Translation:** 
 
-**[13456.18s] English:** right now i everything i have i give it away right now yeah where do i sign yeah just see him for one  
+**[13456.18s] English:** Right now, I'd give everything I have away. Yeah, where do I sign? Yeah, just see him for one.  
 **Translation:** 
 
-**[13461.74s] English:** hour i promise you i will but i also know that i will then i'll still lose him or i will die or  
+**[13461.74s] English:** Hour, I promise you, I will, but I also know that I will, then I'll still lose him, or I will die or  
 **Translation:** 
 
-**[13471.06s] English:** whatever you know so that thing so what is why is it so worse to just hold hold on to holding on to  
+**[13471.06s] English:** Whatever you know, so that thing: so, what is it that makes it so much worse to just hold on to?  
 **Translation:** 
 
-**[13476.24s] English:** it why why are we holding on to this and i am the first sucker i'm the first one to hold on but i'm  
+**[13476.24s] English:** It, why are we holding on to this? I'm the first sucker—I'm the first one to hold on, but I'm  
 **Translation:** 
 
-**[13481.82s] English:** questioning it now like is there another way to approach life where you just you know how buddha  
-**Translation:** Vocabulary: buddha: 佛陀
+**[13481.82s] English:** Questioning it now, like is there another way to approach life where you just, you know, how Buddha  
+**Translation:** Vocabulary: buddha: 佛陀; sucker: 冤大头
 
-**[13487.52s] English:** is like just let it go enjoy  
+**[13487.52s] English:** Is like, just let it go and enjoy.  
 **Translation:** 
 
-**[13491.72s] English:** you  
+**[13491.72s] English:** You.  
 **Translation:** 
 
-**[13491.74s] English:** and let it go enjoy and let it go is it possible except the paradox of it well ask me in a couple  
+**[13491.74s] English:** And let it go. Enjoy, and let it go—is it possible? Except the paradox of it. Well, ask me in a couple.  
 **Translation:** 
 
-**[13500.46s] English:** of years you know i will report but i think that it's but to my mathematical mind yeah it sounds  
+**[13500.46s] English:** Of years, you know, I'll report, but I think that it's, but to my mathematical mind, yeah, it sounds  
+**Translation:** Vocabulary: mathematical: 数学的; paradox: 悖论
+
+**[13506.62s] English:** Like a very interesting idea, to be honest, because to me, the idea of holding it sounds like it.  
 **Translation:** 
 
-**[13506.62s] English:** like a very interesting idea to be honest because to me the idea of holding is it sounds like an  
+**[13513.18s] English:** Impasse, because no matter in all my experience, and if you look in history, every time somebody's  
 **Translation:** 
 
-**[13513.18s] English:** impasse because no matter in all my experience and if you look in history every time somebody's  
+**[13518.54s] English:** Holding, you know, it's how they said in The Matrix: "Whatever.  
 **Translation:** 
 
-**[13518.54s] English:** holding you know it's how they said in the matrix whatever  
-**Translation:** 
-
-**[13521.72s] English:** has a beginning has an end it's like you cannot go around it if you have a beginning you will have  
+**[13521.72s] English:** Has a beginning, has an end. It's like you cannot go around it. If you have a beginning, you will have...  
 **Translation:** Vocabulary: cannot: 不能; matrix: 矩阵
 
-**[13526.54s] English:** an end so then might as well just enjoy it and not worry too much about extending it longer  
+**[13526.54s] English:** An end is coming, so might as well just enjoy it and not worry too much about extending it longer.  
 **Translation:** 
 
-**[13532.66s] English:** that's how i see it now but maybe tomorrow will be something else you know  
+**[13532.66s] English:** That's how I see it now, but maybe tomorrow will be something else, you know.  
 **Translation:** 
 
-**[13536.62s] English:** yeah the roller coaster of life the paradox of life right edward you're an incredible human  
+**[13536.62s] English:** Yeah, the roller coaster of life, the paradox of life, right, Edward? You're an incredible human.  
 **Translation:** 
 
-**[13542.70s] English:** being i've been a fan for a long time thank you for writing love and math thank you thank you for  
+**[13542.70s] English:** Being a fan for a long time, I've really enjoyed "Love and Math." Thank you so much! Thank you!  
+**Translation:** Vocabulary: roller: 滚筒
+
+**[13546.66s] English:** Being who you are, being both one of the greatest living mathematicians,...  
 **Translation:** 
 
-**[13546.66s] English:** being who you are being uh both one of the greatest living mathematicians  
+**[13551.72s] English:** And still, a childlike wanderer, exploring how this whole world works.  
+**Translation:** Vocabulary: childlike: 像孩子一样的; mathematicians: 数学家
+
+**[13560.00s] English:** The nature of the universe, and thank you so much for speaking with me today; this is amazing!  
 **Translation:** 
 
-**[13551.72s] English:** and still childlike wanderer of the uh exploring the how this whole world works  
-**Translation:** Vocabulary: childlike: 童真; mathematicians: 数学家
-
-**[13560.00s] English:** the nature of the universe and thank you so much for speaking with me today this is amazing  
-**Translation:** 
-
-**[13565.12s] English:** been a pleasure thank you thanks for listening to this conversation with edward frankel to support  
+**[13565.12s] English:** Been a pleasure. Thanks! Thanks for listening to this conversation with Edward Frankel to support.  
 **Translation:** Vocabulary: frankel: 弗兰克尔
 
-**[13570.88s] English:** this podcast please check out our sponsors in the description and now let me leave you with  
+**[13570.88s] English:** This podcast: please, check out our sponsors in the description, and now let me leave you with...  
 **Translation:** 
 
-**[13575.52s] English:** some words from sophia kavalevska a russian mathematician it is impossible to be a mathematician  
+**[13575.52s] English:** Some words from Sophia Kavalevska, a Russian mathematician: "It is impossible to be a mathematician  
 **Translation:** Vocabulary: mathematician: 数学家; sophia: 索菲亚; sponsors: 赞助商
 
-**[13583.44s] English:** without being a poet in the soul thank you for listening and hope to see you next time  
+**[13583.44s] English:** Without being a poet in the soul, thank you for listening, and hope to see you next time.  
 **Translation:** 
 
-**[13590.00s] English:** you  
+**[13590.00s] English:** You.  
 **Translation:** 
 
 

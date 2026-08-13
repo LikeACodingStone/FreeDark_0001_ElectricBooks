@@ -1,268 +1,269 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex Fridman Podcast #179.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
 **[0.00s] English:** The following is a conversation with George St. Pierre, considered by many to be the greatest fighter in the history of UFC and MMA, but even more than that, one of the greatest martial artists ever.  
 **Translation:** 
 
-**[12.98s] English:** Quick mention of our sponsors, Allform, ExpressVPN, Blinkist, Theragun, and The Information. Check them out in the description to support this podcast.  
-**Translation:** Vocabulary: blinkist: Blinkist; martial: 武术; sponsors: 赞助商; theragun: 震疗仪
+**[12.98s] English:** Quick mention of our sponsors: Allform, ExpressVPN, Blinkist, Theragun, and The Information. Check them out in the description to support this podcast.  
+**Translation:** Vocabulary: allform: 健身品牌; blinkist: 知识速读; martial: 武术; sponsors: 赞助商; theragun: 按摩设备
 
-**[24.42s] English:** As a side note, let me say that getting the chance to hang out with George, talk to him on the podcast, record a quick self-defense video that I'll release soon, all while both of us wearing suits, was one of the most memorable days of my life.  
+**[24.42s] English:** As a side note, let me say that getting the chance to hang out with George, talk to him on the podcast, and record a quick self-defense video that I'll release soon, all while both of us wearing suits, was one of the most memorable days of my life.  
 **Translation:** 
 
-**[41.10s] English:** In setting all this up, I talked to Joe Rogan, and originally we couldn't schedule a chat with him and George on the JRE, which allowed me to pretend for a brief time that George came down to Austin just to see me.  
+**[41.10s] English:** In setting all this up, I talked to Joe Rogan. Originally, we couldn't schedule a chat with him and George on the JRE, which allowed me to pretend for a brief time that George came down to Austin just to see me.  
 **Translation:** 
 
-**[54.86s] English:** Who the hell am I? In truth, him and Joe probably conspired to make me feel special, but that's the point.  
+**[54.86s] English:** Who the hell am I? In truth, he and Joe probably conspired to make me feel special, but that's the point.  
 **Translation:** 
 
-**[61.26s] English:** It's inspiring to see George and Joe, who are at the top of their field, treat others as equals, as human beings, no matter who they are, even silly Russians in a suit.  
-**Translation:** Vocabulary: conspired: 密谋
+**[61.26s] English:** It's inspiring to see George and Joe, who are at the top of their field, treat others as equals, as human beings, no matter who they are—even silly Russians in a suit.  
+**Translation:** Vocabulary: conspired: 密谋; equals: 平等待人
 
-**[73.58s] English:** Meeting George was an honor for me beyond words.  
+**[73.58s] English:** Meeting George was an honor for me, beyond words.  
 **Translation:** 
 
 **[77.68s] English:** This is the Lex Friedman Podcast, and here's my conversation with my longtime martial arts hero.  
-**Translation:** Vocabulary: longtime: 长久的
+**Translation:** Vocabulary: friedman: 弗里德曼; longtime: 长久的
 
-**[84.42s] English:** And now, my friend, Mr. George St. Pierre.  
+**[84.42s] English:** And now, my friend, Mr. Georges St. Pierre.  
 **Translation:** 
 
 **[89.48s] English:** In your fighting career, were you more motivated by the love of winning, or the fear and hatred of losing?  
+**Translation:** Vocabulary: motivated: 获胜; pierre: 皮埃尔
+
+**[97.82s] English:** I like to win better than I hate to lose, because if it hadn't been the case, I would never have fought in the first place, because I don't like to fight at all.  
 **Translation:** 
 
-**[97.82s] English:** I like to win better than I hate to lose, because if it would not have been the case, I would never have fought in the first place, because I don't like to fight at all.  
-**Translation:** 
-
-**[110.56s] English:** But you talked about the anxiety, the fear that you experienced leading up to.  
+**[110.56s] English:** But you talked about the anxiety and the fear that you experienced leading up to.  
 **Translation:** 
 
 **[114.42s] English:** So, to you, ultimately, the reason to go through that...  
 **Translation:** 
 
-**[120.00s] English:** difficult process is because it feels damn good to have your hand raised  
+**[120.00s] English:** A difficult process is because it feels damn good to have your hand raised.  
 **Translation:** 
 
-**[125.02s] English:** there is that there is also the fact that martial art i've been introduced when i was very young  
+**[125.02s] English:** There is also the fact that I was introduced to martial arts when I was very young.  
 **Translation:** 
 
-**[134.42s] English:** and it's probably the best thing i can do in my life fighting it's that's what i do best  
+**[134.42s] English:** And it's probably the best thing I can do in my life, fighting. It's that's what I do best.  
 **Translation:** Vocabulary: martial: 武术
 
-**[140.38s] English:** also it provides me of freedom of access of things that most of people do not have  
+**[140.38s] English:** Also, it provides me with freedom of access to things that most people do not have.  
 **Translation:** 
 
-**[150.72s] English:** but all that as a price and a lot of money i made a lot of money of course with it  
+**[150.72s] English:** But all that came at a price, and a lot of money. I made a lot of money, of course, with it.  
 **Translation:** 
 
-**[156.58s] English:** i was maybe predisposed with certain abilities i met incredible mentors throughout my life  
+**[156.58s] English:** I was maybe predisposed with certain abilities, and I met incredible mentors throughout my life.  
 **Translation:** 
 
-**[167.02s] English:** i worked really hard  
-**Translation:** Vocabulary: predisposed: 先天具备
+**[167.02s] English:** I worked really hard.  
+**Translation:** Vocabulary: mentors: 导师; predisposed: 天赋
 
-**[169.12s] English:** i worked really hard  
+**[169.12s] English:** I worked really hard.  
 **Translation:** 
 
-**[170.36s] English:** i worked really hard  
+**[170.36s] English:** I worked really hard.  
 **Translation:** 
 
-**[170.38s] English:** and of course i had a lot of chances the the stars were all aligned  
+**[170.38s] English:** And, of course, I had a lot of chances; the stars were all aligned.  
 **Translation:** 
 
-**[174.54s] English:** and in order to to keep that those advantages of freedom money and glory and access of things  
-**Translation:** Vocabulary: aligned: 位置正确
+**[174.54s] English:** And in order to keep those advantages of freedom, money, and glory, and access to things.  
+**Translation:** Vocabulary: aligned: 位置对齐
 
-**[185.58s] English:** that most people don't have and have these dream life that i have i had to sacrifice myself and  
+**[185.58s] English:** That most people don't have, and I have these dream life that I had to sacrifice myself for.  
 **Translation:** 
 
-**[192.72s] English:** fight in order to keep it it's very hard to understand because i also believe  
+**[192.72s] English:** Fight in order to keep it; it's very hard to understand because I also believe.  
 **Translation:** Vocabulary: sacrifice: 牺牲
 
-**[200.36s] English:** most fighters are not like me they a lot of guys because i corner a lot of guys and it seems to me  
+**[200.36s] English:** Most fighters are not like me. They seem to fight a lot, and because I've cornered a lot of guys, it seems to me that...  
 **Translation:** 
 
-**[207.32s] English:** that they love their job they enjoyed to to go fight in a cage i love to train i love the science  
+**[207.32s] English:** That they love their job, they enjoyed going to fight in a cage. I love to train; I love the science.  
 **Translation:** 
 
-**[215.40s] English:** of fighting the sport the to be in good shape the confidence that training in mixed martial  
+**[215.40s] English:** Of fighting the sport, being in good shape, the confidence that comes from training in mixed martial arts.  
 **Translation:** 
 
-**[221.32s] English:** art give me however i do not like the feeling of uncertainty the stress that i have  
+**[221.32s] English:** Art, give me, however, I do not like the feeling of uncertainty and the stress that I have.  
+**Translation:** Vocabulary: martial: 武术的
+
+**[230.36s] English:** Not knowing if I will be badly injured, humiliated, or winning the fight, it's all to me.  
 **Translation:** 
 
-**[230.36s] English:** not knowing if i will be badly injured or humiliated or winning the fight it's to me  
+**[240.00s] English:** Unbearable, and that's what takes the most out of me—more than brain damage, more than anything.  
+**Translation:** Vocabulary: humiliated: 羞辱; unbearable: 难以承受
+
+**[246.30s] English:** That's what takes the most out of me, but the thing you get from it is the freedom you get.  
 **Translation:** 
 
-**[240.00s] English:** unbearable and that's what takes the most out of me more than brain damage more than anything  
-**Translation:** Vocabulary: humiliated: 羞辱; unbearable: 无法承受
-
-**[246.30s] English:** that's what takes the most out of me but the thing you get from it is the freedom that you get  
+**[252.72s] English:** Because, uh, because of the money, but because of the celebrity, because of everything that comes with it.  
 **Translation:** 
 
-**[252.72s] English:** because uh because of the money but because of the celebrity because of everything that comes  
+**[257.98s] English:** With it, so you can be the best version of yourself, because of fighting, but at the same time, you've  
 **Translation:** 
 
-**[257.98s] English:** with it so you can be the best version of yourself because of fighting but at the same time you've  
+**[263.44s] English:** He said, "I don't believe there's pleasure in life; I believe there's only a relief from pain.  
 **Translation:** 
 
-**[263.44s] English:** said that quote i don't believe there's pleasure in life i believe there's only a relief from pain  
+**[269.42s] English:** We have to suffer to be on top, so isn't there something to be said for the suffering in itself?  
 **Translation:** 
 
-**[269.42s] English:** we have to suffer to be on top so isn't there something to just the suffering in itself  
+**[274.98s] English:** Just doing really difficult shit to get to the top, to explain that and so people can relate.  
 **Translation:** 
 
-**[274.98s] English:** just doing really difficult shit just to get to the top to explain that and so people can relate  
+**[281.90s] English:** To be honest, because not everybody's a fighter, I think the best example I can give is let's say you're  
 **Translation:** 
 
-**[281.90s] English:** to it because not everybody's a fighter i think the best example i can give is let's say you're  
+**[291.06s] English:** You haven't eaten for a long time, and you're craving. Right? So you're suffering, and then when  
 **Translation:** 
 
-**[291.06s] English:** you haven't eaten for a long time and you're craving right so you're suffering and then when  
-**Translation:** Vocabulary: craving: 食欲
-
-**[298.94s] English:** it's time to eat you're not eating you're not eating you're not eating you're not eating you're not  
+**[298.94s] English:** It's time to eat. You're not eating. You're not eating. You're not eating. You're not eating. You're not.  
 **Translation:** 
 
-**[299.40s] English:** to eat finally you're about to eat your favorite dish it's going to taste so much better so that's  
+**[299.40s] English:** To eat, finally! You're about to eat your favorite dish, and it's going to taste so much better. So that's  
 **Translation:** 
 
-**[306.94s] English:** why i believe there's always a some sort of sacrifice before the pleasure and the more  
+**[306.94s] English:** Why I believe there's always some sort of sacrifice before the pleasure, and the more.  
 **Translation:** 
 
-**[312.94s] English:** sacrifice you do like they say in fighting the bigger the risk bigger is the reward and i feel  
+**[312.94s] English:** Sacrifice, you do, like they say: 'in fighting, the bigger the risk, the bigger is the reward,' and I feel...  
 **Translation:** Vocabulary: sacrifice: 牺牲
 
-**[320.74s] English:** that's that's how it is for me yeah i feel that with uh i've started fasting a little bit in the  
+**[320.74s] English:** That's how it is for me, yeah. I feel that with a little bit of fasting,  
 **Translation:** 
 
-**[327.38s] English:** past couple of years and uh there's nothing as amazing as a delicious meal or anything actually  
+**[327.38s] English:** In the past couple of years, and there's nothing as amazing as a delicious meal—or anything, actually.  
 **Translation:** 
 
-**[333.80s] English:** anything any food when you haven't eaten for several days it's it's kind of incredible uh  
+**[333.80s] English:** Anything, any food when you haven't eaten for several days, it's kind of incredible, uh,...  
 **Translation:** 
 
-**[340.36s] English:** it's not it's not incredible in this simple way of finally i get to eat it's you get to truly  
+**[340.36s] English:** It's not incredible, in this simple way: finally I get to eat it; you get to truly.  
 **Translation:** 
 
-**[346.70s] English:** experience the the beauty of of what it is to be alive like that little piece of food you see  
+**[346.70s] English:** Experience the beauty of what it is to be alive, like that little piece of food you see.  
 **Translation:** 
 
-**[353.96s] English:** all the flavors you you you feel just  
+**[353.96s] English:** All the flavors you feel just  
+**Translation:** Vocabulary: flavors: 味道
+
+**[357.38s] English:** The experience of it is, ultimately,  
 **Translation:** 
 
-**[357.38s] English:** the experience of it is uh ultimately  
+**[360.00s] English:** Of gratitude for how awesome it is to be alive, but when you eat many times a day and you're  
 **Translation:** 
 
-**[360.00s] English:** of gratitude of how awesome it is to be alive but when you eat many times a day and you're  
+**[366.08s] English:** Pigging out, and you don't get to experience that. It's fascinating; it's really like.  
 **Translation:** 
 
-**[366.08s] English:** pigging out and you don't get to experience that and it's fascinating it's really it's really like  
+**[371.12s] English:** Fasting is one of the most accessible things for people, I think, to experience that kind of.  
 **Translation:** 
 
-**[371.12s] English:** fasting is one of the most accessible things for people i think to experience that kind of  
+**[377.96s] English:** Pairing hardship with pleasure, I agree, and in my case, it changed my life for the better.  
 **Translation:** 
 
-**[377.96s] English:** pairing of hardship to pleasure i agree and in my case it changed my life on a good good way  
+**[386.00s] English:** I cannot recommend it to people because everyone is different, but after my fight with Michael Bisping,...  
 **Translation:** 
 
-**[386.00s] English:** i cannot recommend it to people because everybody is different but after my to fight michael bisping  
-**Translation:** Vocabulary: cannot: 不能
-
-**[394.26s] English:** my last fight was against the champion in the heavier weight class that i used to compete at  
+**[394.26s] English:** My last fight was against the champion in the heavier weight class that I used to compete at.  
 **Translation:** 
 
-**[400.76s] English:** so i thought that if i would gain weight it would increase my performance and i struggled a lot to  
+**[400.76s] English:** So, I thought that if I gained weight, it would increase my performance, and I struggled a lot to.  
+**Translation:** Vocabulary: struggled: 挣扎
+
+**[409.90s] English:** Gain weight? I gained a little—about eight to ten pounds. Normally, I walk around 185 pounds.  
 **Translation:** 
 
-**[409.90s] English:** gain weight i gained a little about eight to ten ten pounds normally i walk around 185 pounds  
+**[416.00s] English:** And for that fight, I was walking around 195; however, I forced myself to eat six times a day.  
 **Translation:** 
 
-**[416.00s] English:** and for that fight i was walking around 195 however i forced myself to eat like six times a  
+**[423.92s] English:** On that day, I was on a very strict diet, and I didn't feel it was right to me because I felt  
 **Translation:** 
 
-**[423.92s] English:** day i was on a very uh strict diet and i didn't feel it didn't feel right to me because i feel  
+**[432.06s] English:** Like I was carrying something, kind of like a little bit of a bag on my shoulder, and I think it  
 **Translation:** 
 
-**[432.06s] English:** like i i was carrying like a little bit like i was carrying a bag on my shoulder and i think it  
+**[440.32s] English:** It was a bad idea for me because when I did the weights,  
 **Translation:** 
 
-**[440.32s] English:** was a bad idea for me because when i did the weight the  
+**[446.00s] English:** Way in, I went on a scale at 185; I couldn't go back to my initial weight that was.  
 **Translation:** 
 
-**[446.00s] English:** way in and i i go went on a scale at 185 i couldn't go back to my initial weight that was  
+**[452.58s] English:** That I worked so hard for several months to get there, so I was 190 pounds, but I couldn't.  
 **Translation:** 
 
-**[452.58s] English:** 180 195 that i worked so hard for several months to get there so i was 190 pounds but i couldn't  
+**[461.10s] English:** Get back, and the morning of the fight, I got sick. We didn't know what it was.  
 **Translation:** 
 
-**[461.10s] English:** get back and the morning of the fight i i i got i got sick i had like uh we didn't know what what  
+**[467.60s] English:** It was in the beginning because, in order to know and find out what it was, I needed to do what they told me.  
 **Translation:** 
 
-**[467.60s] English:** it was in the beginning because in order to know to find out what it was i needed to do what they  
-**Translation:** 
-
-**[474.80s] English:** call a colonoscopy they put  
+**[474.80s] English:** Call a colonoscopy; they put  
 **Translation:** Vocabulary: colonoscopy: 结肠镜检查
 
-**[476.00s] English:** a camera inside of you and to do that they give you  
+**[476.00s] English:** A camera inside of you, and to do that, they give you.  
 **Translation:** 
 
-**[480.00s] English:** um something that make that empty you and i was trying to gain weight not to lose weight  
+**[480.00s] English:** Um, something that makes that empty. You and I were trying to gain weight, not to lose it.  
 **Translation:** 
 
-**[486.80s] English:** so i i told myself i'm gonna wait after the fight whatever it is because it was pretty bad it was  
+**[486.80s] English:** So, I told myself I'm gonna wait after the fight, whatever it is, because it was pretty bad.  
 **Translation:** 
 
-**[493.04s] English:** blood and i i didn't know what i was i was very concerned concerned i thought i had maybe cancer  
+**[493.04s] English:** Blood, and I didn't know what I was; I was very concerned. I thought I might have cancer.  
 **Translation:** 
 
-**[497.92s] English:** i was freaking out so i said i'm gonna do that fight and then after right away i'm gonna make  
+**[497.92s] English:** I was freaking out, so I said I'm gonna do that fight, and then, right away, I'm gonna make  
 **Translation:** 
 
-**[504.00s] English:** a checkup so i did the fight everything went well i won the fight i went back home i did the  
+**[504.00s] English:** A checkup: so I did, everything went well. I won the fight. I went back home, and I did the  
 **Translation:** Vocabulary: checkup: 体检; freaking: 恐慌
 
-**[509.04s] English:** colonoscopy and i i got diagnosed with ulcer colitis then i got on very severe medication  
+**[509.04s] English:** Colonoscopy, and I was diagnosed with ulcerative colitis. Then, I got put on very severe medication.  
 **Translation:** 
 
-**[516.16s] English:** and to get better and i'm not a big fan of medication i always trying to look for more  
-**Translation:** Vocabulary: colitis: 肠炎; diagnosed: 诊断; ulcer: 溃疡
+**[516.16s] English:** And to get better, I'm not a big fan of medication; I always try to look for more natural alternatives.  
+**Translation:** Vocabulary: colitis: 结肠炎; diagnosed: 诊断; medication: 药物; ulcerative: 溃疡性
 
-**[522.56s] English:** natural way to to to get better and i found out about fasting and it really changed my life i met  
+**[522.56s] English:** A natural way to get better, and I found out about fasting, and it really changed my life. I met  
 **Translation:** 
 
-**[531.28s] English:** dr jason fong who's one of the one i'm one of the world authority of of fasting  
-**Translation:** Vocabulary: jason: 方健聪
-
-**[539.04s] English:** he treat diabetes patient with fasting and he gave me a program of fasting and  
+**[531.28s] English:** Dr. Jason Fong, who is one of the world authorities on fasting.  
 **Translation:** 
 
-**[546.72s] English:** it really changed my life and right away what i did is i went in a in a cat scan to see the  
-**Translation:** Vocabulary: diabetes: 糖尿病
-
-**[553.76s] English:** difference because it was right after my fight with michael bisping and i i did the cat scan  
+**[539.04s] English:** He treats diabetes patients with fasting, and he gave me a program of fasting and  
 **Translation:** 
 
-**[559.04s] English:** so i had my muscle mass bone density uh fat percentage water retention it's pretty amazing  
+**[546.72s] English:** It really changed my life, and right away, what I did was go in for a CAT scan to see the  
+**Translation:** Vocabulary: diabetes: 糖尿病; treats: 治疗
+
+**[553.76s] English:** Difference because it was right after my fight with Michael Bisping, and I had to do the CAT scan.  
+**Translation:** 
+
+**[559.04s] English:** So, I had my muscle mass, bone density, uh, fat percentage, and water retention. It's pretty amazing.  
 **Translation:** Vocabulary: density: 密度; retention: 保留
 
-**[569.04s] English:** and i did it like two two months after yeah so i i start doing um time restricted eating uh 16 8  
+**[569.04s] English:** And I did it about two months after that, so I started doing time-restricted eating, 16:8.  
 **Translation:** 
 
-**[580.56s] English:** but right right away when i started i did three days water fast and the doctor jason fong says  
+**[580.56s] English:** But, right away when I started, I did a three-day water fast, and the doctor Jason Fong says  
+**Translation:** Vocabulary: jason: 杨森
+
+**[587.44s] English:** Because I like to train during those days, I consume Himalayan salt to make sure, uh,...  
 **Translation:** 
 
-**[587.44s] English:** because i like to train during those days i cons i consume himalayan salt to make sure uh because  
+**[594.48s] English:** When you sweat, there are a lot of minerals that can be lost, so make sure you replenish them.  
+**Translation:** Vocabulary: himalayan: 喜马拉雅的; replenish: 补充
+
+**[599.04s] English:** And  
 **Translation:** 
 
-**[594.48s] English:** when you sweat there's a lot of minerals to to make sure you don't depleted your minerals  
-**Translation:** Vocabulary: depleted: 消耗殆尽; himalayan: 喜马拉雅的
-
-**[599.04s] English:** and  
-**Translation:** 
-
-**[600.00s] English:** And when I compared the two results in the CAT scan, I found out my biggest concern was to lose muscle mass.  
+**[600.00s] English:** And when I compared the two CAT scan results, I found that my biggest concern was losing muscle mass.  
 **Translation:** 
 
 **[608.08s] English:** I found out that I did not lose muscle mass.  
@@ -271,28 +272,28 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[610.64s] English:** Instead of losing it, it increased a little bit.  
 **Translation:** 
 
-**[613.42s] English:** Even though my weight on the scale was lighter, I kept the same muscle mass, even increases a little bit.  
+**[613.42s] English:** Even though my weight on the scale was lighter, I kept the same muscle mass, and even increased a little bit.  
 **Translation:** 
 
 **[622.24s] English:** My bone density increases a little bit.  
 **Translation:** 
 
-**[625.28s] English:** My water retention is the biggest thing that decrease.  
+**[625.28s] English:** My water retention is the biggest thing that decreases.  
 **Translation:** 
 
-**[630.16s] English:** So my inflammation and my fat percentage.  
-**Translation:** Vocabulary: inflammation: 炎症
+**[630.16s] English:** So, my inflammation and my fat percentage.  
+**Translation:** Vocabulary: decreases: 减少; inflammation: 炎症
 
-**[633.16s] English:** So basically, by looking at the data, I found out that by eating so much, trying to gain weight to fight my colbisping, it only increases my water retention, which is not good because it's like dead weight and inflammation on you.  
+**[633.16s] English:** So, basically, by looking at the data, I found out that by eating so much, trying to gain weight to fight my colitis, it only increases my water retention, which is not good because it's like dead weight and inflammation on me.  
 **Translation:** 
 
-**[650.48s] English:** So what was the actual process of fasting?  
+**[650.48s] English:** So, what was the actual process of fasting?  
+**Translation:** Vocabulary: colitis: 肠炎; retention: 滞留
+
+**[654.34s] English:** You said 16:8, time-restricted, so intermittent fasting.  
 **Translation:** 
 
-**[654.34s] English:** You said 16, 8, time restricted, so intermittent fasting.  
-**Translation:** 
-
-**[659.18s] English:** But yeah.  
+**[659.18s] English:** But, yeah.  
 **Translation:** Vocabulary: intermittent: 断断续续的
 
 **[660.00s] English:** You also mentioned the three-day water fast.  
@@ -301,7 +302,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[663.58s] English:** What did that feel like?  
 **Translation:** 
 
-**[665.18s] English:** And you also said training during the three-day?  
+**[665.18s] English:** And you also said training during the three-day period?  
 **Translation:** 
 
 **[667.94s] English:** Yes.  
@@ -319,7 +320,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[671.08s] English:** This is fascinating.  
 **Translation:** 
 
-**[672.22s] English:** So I do three days water fast, four times a year.  
+**[672.22s] English:** So I do a three-day water fast four times a year.  
 **Translation:** 
 
 **[677.76s] English:** Nice.  
@@ -343,13 +344,13 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[690.00s] English:** It's more like a cleansing, you know, like a detox, so to speak.  
 **Translation:** Vocabulary: detox: 排毒
 
-**[694.04s] English:** Mental too, like psychological.  
+**[694.04s] English:** Mental, too, like psychological.  
 **Translation:** 
 
 **[695.44s] English:** Yes.  
 **Translation:** 
 
-**[696.18s] English:** I do it after the New Year's, right before the summer, cut for the beach.  
+**[696.18s] English:** I do it after New Year's, right before the summer to cut for the beach.  
 **Translation:** 
 
 **[701.70s] English:** Yeah, yeah, yeah.  
@@ -364,10 +365,10 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[711.50s] English:** And I've tried.  
 **Translation:** 
 
-**[713.78s] English:** The doctor, Dr.  
+**[713.78s] English:** The doctor, Dr., stated:  
 **Translation:** 
 
-**[714.58s] English:** Fong, he says to me, he said, George, everybody's different because I'm a very active person.  
+**[714.58s] English:** Fong says to me, "He said, George, everybody's different because I'm a very active person.  
 **Translation:** 
 
 **[719.24s] English:** Yeah.  
@@ -376,130 +377,130 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[719.34s] English:** And everybody has.  
 **Translation:** 
 
-**[720.00s] English:** a different genetic so so for me i i feel that three days is the sweet spot because i still  
+**[720.00s] English:** A different genetic, so for me, I feel that three days is the sweet spot because I still  
 **Translation:** 
 
-**[727.28s] English:** train during those three days the first day the first two days i don't change nothing i train  
+**[727.28s] English:** Train during those three days. The first day, the first two days, I don't change anything; I just train.  
 **Translation:** 
 
-**[732.18s] English:** regularly on my regular schedule however on the on the third day i modify a little bit i i do  
+**[732.18s] English:** Regularly on my regular schedule, however, on the third day I modify it a little bit, and I do.  
 **Translation:** 
 
-**[739.90s] English:** something more uh more easy and that's how i do it and i have tried before because i when i say  
+**[739.90s] English:** Something more, easier, and that's how I do it. And I've tried before because, when I say...  
 **Translation:** 
 
-**[748.86s] English:** three days is my sweet spot i've tried to go up to five days but the problems is after my third  
+**[748.86s] English:** Three days is my sweet spot. I've tried to go up to five days, but the problem is after my third.  
 **Translation:** 
 
-**[755.54s] English:** days i i found out that i had a big problem sleeping i get into a hyperactive mode yeah  
+**[755.54s] English:** Days, I found out that I had a big problem sleeping. I get into a hyperactive mode, yeah.  
 **Translation:** 
 
-**[761.68s] English:** they call that the untargeter uh uh mode you know like you you you you your brain i mean it's  
-**Translation:** Vocabulary: untargeter: 无法集中
+**[761.68s] English:** They call that the untargeted, uh, mode. You know, like, you know, your brain—I mean, it's  
+**Translation:** Vocabulary: untargeted: 未瞄准的
 
-**[768.22s] English:** amazing your creativity is at its peak but you cannot sleep very well and sleeping for me i think  
+**[768.22s] English:** Amazing, your creativity is at its peak, but you cannot sleep very well, and sleeping for me, I think,...  
 **Translation:** 
 
-**[775.08s] English:** it's very important so that's why i do three days for me it's my sweet spot  
+**[775.08s] English:** It's very important, so that's why I do three days for me — it's my sweet spot.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[778.72s] English:** you  
+**[778.72s] English:** You.  
 **Translation:** 
 
-**[778.86s] English:** that's interesting you're right it's a four or five days when you start  
+**[778.86s] English:** That's interesting; you're right. It's about four or five days when you start.  
 **Translation:** 
 
-**[782.18s] English:** see how sleep is not important for me so the creativity is really important  
+**[782.18s] English:** See how sleep is not important for me, so creativity is really important.  
 **Translation:** 
 
-**[786.90s] English:** so it's very interesting the places your mind goes after a few days you're right but uh  
+**[786.90s] English:** So, it's very interesting where your mind goes after a few days. You're right, but uh,...  
 **Translation:** 
 
-**[793.16s] English:** i mean what does it do to your mind so you mentioned your body likes it  
+**[793.16s] English:** I mean, what does it do to your mind? So, you mentioned your body likes it.  
 **Translation:** 
 
-**[798.42s] English:** in terms of training does it um do you find that it helps you focus and think i mean you're one of  
+**[798.42s] English:** In terms of training, do you find that it helps you focus and think? I mean, you're one of  
 **Translation:** 
 
-**[804.48s] English:** the great strategic thinkers in terms of martial arts does it  
+**[804.48s] English:** The great strategic thinkers in terms of martial arts do it.  
 **Translation:** 
 
-**[808.70s] English:** help you focus and think i mean you're one of the great strategic thinkers in terms of martial arts does it  
-**Translation:** Vocabulary: martial: 武术; thinkers: 战略家
+**[808.70s] English:** Help you focus and think? I mean, you're one of the great strategic thinkers in terms of martial arts, don't you think?  
+**Translation:** Vocabulary: martial: 武艺; thinkers: 战略家
 
-**[808.72s] English:** help with learning does it help with thinking does it help with strategy and jazzing and all that  
+**[808.72s] English:** Help with learning? Does it help with thinking? Does it help with strategy and jazzing and all that?  
 **Translation:** 
 
-**[813.08s] English:** well unfortunately i got into fasting after i retired i wish i would have i really wish people  
+**[813.08s] English:** Well, unfortunately, I got into fasting after I retired. I wish I would have started earlier. I really wish people  
+**Translation:** Vocabulary: jazzing: 增添活力
+
+**[821.64s] English:** Ask me whether you would have done it during the time that you competed, and the answer is yes.  
 **Translation:** 
 
-**[821.64s] English:** ask me would you have done it during the time that you competed and the answer is yes  
+**[826.86s] English:** I think we live in a society that's bombarded by publicity: "buy this," "eat protein," and  
+**Translation:** Vocabulary: bombarded: 充斥; competed: 竞争; publicity: 宣传
+
+**[836.06s] English:** Um, fasting; nobody makes money.  
 **Translation:** 
 
-**[826.86s] English:** i think we live in a society that were bombarded by publicity oh buy this eat protein this that and  
-**Translation:** Vocabulary: bombarded: 包围; publicity: 宣传
-
-**[836.06s] English:** um fasting nobody makes money  
+**[838.56s] English:** Money with it because there's  
 **Translation:** 
 
-**[838.56s] English:** money with it because there's  
+**[840.00s] English:** Nothing to sell, you know, I think that's why a lot of people haven't heard about it, and even my friend hasn't.  
 **Translation:** 
 
-**[840.00s] English:** nothing to sell you know i think that's why a lot of people have not heard about it and even my for  
+**[847.78s] English:** Myself, if someone had talked to me about the benefits of fasting when I was training.  
 **Translation:** 
 
-**[847.78s] English:** myself if someone would have talked to me about fast the benefits of fasting when i was training  
+**[854.28s] English:** Before I got sick, I would probably have ignored him because I'm not, you know, it was  
 **Translation:** 
 
-**[854.28s] English:** before i got sick i would probably have ignored ignored him because i'm not you know it was  
+**[862.96s] English:** It's hard to believe; sort of sounds ridiculous. Don't eat—yes, it's going to help your mind and  
 **Translation:** 
 
-**[862.96s] English:** it's hard to believe sort of sounds ridiculous don't eat yes it's going to help your mind and  
+**[868.60s] English:** You're going to gain muscle, potentially, exactly, and perhaps people have talked to me about it.  
 **Translation:** 
 
-**[868.60s] English:** you're going to gain muscle potentially exactly and and perhaps people have talked to me about it  
+**[873.98s] English:** But I kind of went in one of my hairs and got out from the other side, you know, but uh, it really.  
 **Translation:** 
 
-**[873.98s] English:** but i kind of it went in one of my hair and got out from the other side you know but uh it really  
+**[880.52s] English:** Changed my life, and uh, I am dying; I was diagnosed with ulcer colitis, and it helps me.  
 **Translation:** 
 
-**[880.52s] English:** changed my my life and uh i am dying i was diagnosed with ulcer colitis and it helps me  
+**[887.86s] English:** Get rid of all my symptoms, what I do is, I know a lot of people have ulcerative colitis and...  
+**Translation:** Vocabulary: colitis: 肠炎; diagnosed: 诊断; ulcer: 溃疡; ulcerative: 溃疡性
+
+**[893.20s] English:** For me, I cannot recommend it to other people because everyone is so different, but  
 **Translation:** 
 
-**[887.86s] English:** get rid of all my symptoms what i do is i know a lot of people have ulcer colitis and and  
-**Translation:** Vocabulary: colitis: 溃疡性结肠炎; diagnosed: 诊断; ulcer: 溃疡
-
-**[893.20s] English:** for me i cannot recommend it to to other people because everybody is this different but  
+**[898.58s] English:** But for me, I made a lot of research on how people with ulcerative colitis got better.  
 **Translation:** 
 
-**[898.58s] English:** But for me, I made a lot of research of how people from ulcerative colitis got better.  
-**Translation:** Vocabulary: cannot: 不能; ulcerative: 溃疡性
-
-**[905.66s] English:** And I found out that a lot of people that got that condition get better in the natural way through fasting, eating fermented food, collagen, and like bone broth and stuff for their gut.  
+**[905.66s] English:** And I found out that a lot of people who got that condition get better naturally through fasting, eating fermented foods, collagen, and things like bone broth for their gut.  
 **Translation:** 
 
 **[917.60s] English:** And it made a huge difference in my life.  
-**Translation:** Vocabulary: broth: 骨头汤; collagen: 胶原蛋白; fermented: 发酵食品
+**Translation:** Vocabulary: broth: 骨头汤; collagen: 胶原蛋白; fermented: 发酵的
 
-**[920.06s] English:** I just wish I would have known that before.  
+**[920.06s] English:** I just wish I had known that before.  
 **Translation:** 
 
-**[922.10s] English:** So do you have a specific diet-wise stuff you like?  
+**[922.10s] English:** So, do you have any specific diet-wise stuff you like?  
 **Translation:** 
 
-**[925.78s] English:** So, you know, I've recently, another ridiculous sounding thing, but it makes me feel really good, is very low carbs.  
+**[925.78s] English:** So, you know, I've recently started something that sounds a bit ridiculous, but it makes me feel really good: very low-carb eating.  
 **Translation:** 
 
 **[933.68s] English:** So, you know, keto, even carnivore, it sounds ridiculous.  
-**Translation:** Vocabulary: carbs: 碳水化合物; carnivore: 食肉主义
+**Translation:** Vocabulary: carnivore: 肉食者
 
 **[937.54s] English:** It doesn't make any sense.  
 **Translation:** 
 
-**[939.14s] English:** But it makes me feel really good even for performance.  
+**[939.14s] English:** But it makes me feel really good, even for performance.  
 **Translation:** 
 
-**[942.42s] English:** Is Rogan has influenced you?  
+**[942.42s] English:** Has Rogan influenced you?  
 **Translation:** 
 
 **[944.34s] English:** No.  
@@ -508,40 +509,40 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[945.06s] English:** He's a carnivore diet.  
 **Translation:** 
 
-**[945.82s] English:** I was influenced actually by people.  
+**[945.82s] English:** I was actually influenced by people.  
 **Translation:** 
 
-**[949.72s] English:** I'll tell you where, because I was doing it before he was doing it.  
+**[949.72s] English:** I'll tell you where, because I was doing it before he started.  
 **Translation:** 
 
 **[953.60s] English:** It was popular.  
 **Translation:** 
 
-**[955.78s] English:** Endurance athlete community where it was fat adapted athletes.  
+**[955.78s] English:** Endurance Athlete community, where it was fat-adapted athletes.  
 **Translation:** 
 
-**[960.00s] English:** It's people who, insane people who run 50 miles, 100 miles, they figured out that they could fuel their body with fat.  
-**Translation:** Vocabulary: endurance: 持久力
+**[960.00s] English:** It's people who, like insane people who run 50 miles, 100 miles, who figured out that they could fuel their body with fat.  
+**Translation:** Vocabulary: endurance: 耐力
 
-**[969.14s] English:** They can go to fat as the source of energy as opposed to carbs.  
+**[969.14s] English:** They can go to fat as the source of energy, as opposed to carbs.  
 **Translation:** 
 
-**[973.22s] English:** So I remember hoping that I'll be able to learn how to run 50 miles and so on.  
-**Translation:** 
+**[973.22s] English:** So, I remember hoping that I'll be able to learn how to run 50 miles and so on.  
+**Translation:** Vocabulary: carbs: 碳水化合物
 
 **[980.18s] English:** I've never done more than 22, but I just remember switching away from carbs and feeling really liberated.  
 **Translation:** 
 
-**[992.20s] English:** Like I wasn't thinking about food as much.  
+**[992.20s] English:** Like, I wasn't thinking about food as much.  
+**Translation:** Vocabulary: liberated: 感到自由
+
+**[994.02s] English:** I'm able to eat once a day, and I feel really good.  
 **Translation:** 
 
-**[994.02s] English:** I'm able to eat once a day and feel really good.  
+**[997.98s] English:** I mean, I think everyone's body is different, but I think carbs make me lazy.  
 **Translation:** 
 
-**[997.98s] English:** I mean, I think everybody's body is different, but I think carbs make me lazy.  
-**Translation:** 
-
-**[1004.20s] English:** Maybe it's because –  
+**[1004.20s] English:** Maybe it's because—  
 **Translation:** 
 
 **[1005.98s] English:** The crash.  
@@ -550,25 +551,25 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1006.24s] English:** Yeah, it's the crash, but also just psychologically.  
 **Translation:** 
 
-**[1009.68s] English:** Something –  
+**[1009.68s] English:** Something -  
 **Translation:** Vocabulary: psychologically: 心理上
 
-**[1010.16s] English:** It forces me to also think about food too much.  
+**[1010.16s] English:** It forces me to think about food too much.  
 **Translation:** 
 
-**[1014.66s] English:** Like it starts becoming –  
+**[1014.66s] English:** Like it starts becoming...  
 **Translation:** 
 
 **[1016.66s] English:** Just like you said, our society is so much about food.  
 **Translation:** 
 
-**[1019.46s] English:** There's so much advertisement, and so much of our social life is about food.  
+**[1019.46s] English:** There's so much advertising, and so much of our social life is about food.  
 **Translation:** 
 
-**[1023.64s] English:** And so it's very easy to live life, like live day to day thinking, when is the next meal?  
+**[1023.64s] English:** And so it's very easy to live life, day to day, thinking, "When is the next meal?  
 **Translation:** 
 
-**[1030.68s] English:** Like what am I going to eat for lunch?  
+**[1030.68s] English:** What am I going to eat for lunch?  
 **Translation:** 
 
 **[1031.82s] English:** What am I going to eat for dinner?  
@@ -580,28 +581,28 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1035.28s] English:** And if you're not careful, that's going to get in the way of you doing cool shit.  
 **Translation:** 
 
-**[1040.16s] English:** For like liberating yourself and thinking like, what am I actually passionate about in this life?  
-**Translation:** Vocabulary: liberating: 解放
+**[1040.16s] English:** For, like, liberating yourself and thinking, "What am I actually passionate about in this life?  
+**Translation:** Vocabulary: liberating: 解放; passionate: 热情的
 
-**[1045.98s] English:** Like creating and forgetting to eat, those kinds of things.  
+**[1045.98s] English:** Like creating and forgetting to eat; those kinds of things.  
 **Translation:** 
 
-**[1049.14s] English:** And still being able to fuel your body.  
+**[1049.14s] English:** And still be able to fuel your body.  
 **Translation:** 
 
 **[1051.72s] English:** I don't know.  
 **Translation:** 
 
-**[1052.46s] English:** It's been fascinating to figure out like later in life that carbs aren't necessary to function well.  
+**[1052.46s] English:** It's been fascinating to figure out, later in life, that carbs aren't necessary to function well.  
 **Translation:** 
 
-**[1061.10s] English:** It makes me think like we don't know anything about nutrition.  
+**[1061.10s] English:** It makes me think that we don't know anything about nutrition.  
 **Translation:** 
 
 **[1064.02s] English:** That's right.  
 **Translation:** 
 
-**[1065.04s] English:** You know, personally –  
+**[1065.04s] English:** You know, personally —  
 **Translation:** 
 
 **[1070.16s] English:** I don't think I could have a diet without carbs.  
@@ -610,7 +611,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1073.08s] English:** I love chocolate too much.  
 **Translation:** 
 
-**[1074.64s] English:** For me, eating, it's a pleasure of life.  
+**[1074.64s] English:** For me, eating is a pleasure of life.  
 **Translation:** 
 
 **[1077.20s] English:** I love my carbs.  
@@ -619,136 +620,136 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1078.04s] English:** I love my sugar.  
 **Translation:** 
 
-**[1079.56s] English:** However –  
+**[1079.56s] English:** However,  
 **Translation:** 
 
-**[1080.00s] English:** if you talk about that i don't have a specific diet but recently i what i'm trying to do is  
+**[1080.00s] English:** If you talk about that, I don't have a specific diet, but recently I'm trying to do is  
 **Translation:** 
 
-**[1087.28s] English:** the days that i do not work out i only eat once that's kind of my rules plus i try to respect  
+**[1087.28s] English:** The days that I do not work out, I only eat once—that's kind of my rule. Plus, I try to respect...  
 **Translation:** 
 
-**[1096.06s] English:** 16 8 and do my three-day fast uh four times a year and but the rest of the thing i i i i let  
+**[1096.06s] English:** 16:8 And do my three-day fast, uh, four times a year, and but the rest of the thing I just let.  
 **Translation:** 
 
-**[1106.46s] English:** myself loose because i i don't think i would be happy if i if i uh if i if i don't give myself the  
+**[1106.46s] English:** Myself loose because I don't think I would be happy if I don't give myself the  
 **Translation:** 
 
-**[1113.96s] English:** the the right to to eat for me personally i love to eat so much next and um you talk about  
+**[1113.96s] English:** The right to eat is important to me personally. I love to eat so much, and when you talk about it...  
 **Translation:** 
 
-**[1120.54s] English:** diet carnivore diet it's very interesting because i i um a few years ago i went to uh africa in uh  
+**[1120.54s] English:** Diet: Carnivore diet—it's very interesting because I, um, a few years ago, I went to Africa.  
 **Translation:** 
 
-**[1127.94s] English:** masai mara and uh it's a tribe in uh in in uh east africa and um i want to visit them  
-**Translation:** Vocabulary: carnivore: 肉食动物; masai: 马赛族
+**[1127.94s] English:** Masai Mara, and it's a tribe in eastern Africa, and I want to visit them.  
+**Translation:** Vocabulary: carnivore: 食肉动物; masai: 马赛族
 
-**[1136.46s] English:** i did a safari and i talked to them and these guys they their diet is 99 carnivore they they  
+**[1136.46s] English:** I did a safari and I talked to them, and these guys; their diet is 99% carnivore.  
 **Translation:** 
 
-**[1145.86s] English:** that's crazy and you should see they're very beautiful people like shredded like some people  
-**Translation:** Vocabulary: shredded: 肌肉发达
+**[1145.86s] English:** That's crazy, and you should see them—they're very beautiful, like shredded abs, like some people.  
+**Translation:** Vocabulary: shredded: 精瘦的
 
-**[1151.10s] English:** would say oh it's genetic i'm like yeah maybe it's genetic but i mean and think about the eskimos  
+**[1151.10s] English:** Would say, "Oh, it's genetic." I'm like, "Yeah, maybe it's genetic," but I mean, and think about the Eskimos.  
 **Translation:** 
 
-**[1156.82s] English:** also they're like most of their diet is on on fish right they they so i believe it can be done  
+**[1156.82s] English:** Also, they're like most of their diet is on fish, right? They do, so I believe it can be done.  
 **Translation:** Vocabulary: eskimos: 因纽特人
 
-**[1163.96s] English:** you know like i believe it can be done like a  
+**[1163.96s] English:** You know, I believe it can be done, like  
 **Translation:** 
 
-**[1166.46s] English:** an exclusive carnivore diet and i i think i'm gonna try it pretty soon just to have the  
+**[1166.46s] English:** An exclusive carnivore diet, and I think I'm gonna try it pretty soon just to have the  
 **Translation:** 
 
-**[1172.64s] English:** experience you know to see how it feels like well you're gonna hang out with joe uh be careful  
+**[1172.64s] English:** Experience, you know, to see how it feels like. Well, you're gonna hang out with Joe—be careful!  
 **Translation:** 
 
-**[1177.50s] English:** bringing it up because he'll convince you to uh forever switch to carnivore definitely he loves it  
+**[1177.50s] English:** Bringing it up because he'll convince you to, uh, forever switch to carnivore; definitely, he loves it.  
 **Translation:** 
 
-**[1182.24s] English:** i mean but just like you i think he loves food so he's he can't ever stay on carnivore  
+**[1182.24s] English:** I mean, but just like you, I think he loves food, so he can't ever stay on a carnivore diet.  
 **Translation:** 
 
-**[1190.16s] English:** it was funny because we went to an italian restaurant together and i still only eat meat  
+**[1190.16s] English:** It was funny because we went to an Italian restaurant together, and I still only eat meat.  
 **Translation:** 
 
-**[1195.14s] English:** like i love  
+**[1195.14s] English:** Like, I love  
 **Translation:** 
 
-**[1196.22s] English:** uh  
+**[1196.22s] English:** Uh  
 **Translation:** 
 
-**[1196.46s] English:** i love the constraints of this  
+**[1196.46s] English:** I love the constraints of this.  
 **Translation:** 
 
-**[1200.00s] English:** disciplined that's that's partially why i like carnivore i like saying no to food that is  
+**[1200.00s] English:** Disciplined: that's partially why I like carnivore; I like saying no to food that is  
 **Translation:** Vocabulary: constraints: 限制; disciplined: 自律
 
-**[1205.58s] English:** delicious uh but a part of the problem is that i don't know how to moderate you said chocolate i  
+**[1205.58s] English:** Delicious, uh, but a part of the problem is that I don't know how to moderate. You said chocolate, I...  
 **Translation:** 
 
-**[1213.78s] English:** don't know how to have one chocolate is that something you're able to do have like in moderation  
-**Translation:** Vocabulary: moderation: 适量食用
+**[1213.78s] English:** Don't know how to have just one chocolate—is that something you're able to do, have like in moderation?  
+**Translation:** Vocabulary: moderation: 适量
 
-**[1219.16s] English:** no it's when it when i have an opportunity i do it i don't have any i'm an extremist person  
+**[1219.16s] English:** No, it's when I have an opportunity that I do it. I don't have any other choice; I'm an extremist about it.  
 **Translation:** 
 
-**[1224.82s] English:** lex i i that's the thing i when i when i have a chance i i like i i just eat i go too much and  
+**[1224.82s] English:** Lex, I get that thing where, when I have a chance, I just eat too much.  
 **Translation:** Vocabulary: extremist: 激进分子
 
-**[1233.14s] English:** that's what i like about my life you know that's what i like about fasting because probably if i  
+**[1233.14s] English:** That's what I like about my life, you know. That's what I like about fasting, because probably if I  
 **Translation:** 
 
-**[1238.44s] English:** would not have discovered fasting eating chocolate would give me cramps and all sorts of problems  
+**[1238.44s] English:** Would not have discovered that eating chocolate while fasting gives me cramps and all sorts of problems.  
 **Translation:** Vocabulary: cramps: 腹痛
 
-**[1244.24s] English:** yeah because people on ulcer colitis normally they cannot eat chocolate they cannot drink alcohol  
+**[1244.24s] English:** Yeah, because people with ulcerative colitis normally cannot eat chocolate or drink alcohol.  
 **Translation:** 
 
-**[1249.26s] English:** but i believe because i'm fasting that's the reason why i'm i'm  
-**Translation:** Vocabulary: cannot: 不能; colitis: 结肠炎; ulcer: 溃疡
+**[1249.26s] English:** But I believe, because I'm fasting, that's the reason why I'm feeling this way.  
+**Translation:** Vocabulary: cannot: 不能; colitis: 结肠炎; ulcerative: 溃疡性
 
-**[1254.82s] English:** medication medicine medication free i can eat whatever i want whenever i want but i have to do  
+**[1254.82s] English:** Medication, medicine: I can eat whatever I want, whenever I want, but I have to do  
 **Translation:** 
 
-**[1260.84s] English:** that that fasting you know and now it becomes to a it became to a point that it's no longer  
+**[1260.84s] English:** That fasting, you know, and now it has become a point where it's no longer  
+**Translation:** Vocabulary: medication: 药物
+
+**[1266.14s] English:** It's hard for me. It's like any other day; I don't even force myself. Yeah, it's easy, you know.  
 **Translation:** 
 
-**[1266.14s] English:** hard for me it's it's like normal i don't even force myself yeah i don't it's easy you know  
+**[1272.30s] English:** What I mean, some of my friends think I'm insane, you know, but I tell them it's like  
 **Translation:** 
 
-**[1272.30s] English:** what i mean some of my friends think i'm think i'm i'm insane you know but i tell them it's like  
+**[1278.00s] English:** With time, when you get used to it, it becomes like a habit, and I'm and I know that hunter-gatherer.  
 **Translation:** 
 
-**[1278.00s] English:** with when you get used to it it becomes like an habit and i'm and i know that hunter gather like  
+**[1284.82s] English:** Ancestor did not eat three times a day; it's not true. They ate when they could.  
 **Translation:** 
 
-**[1284.82s] English:** ancestor did not eat three times a day it's it's it's not true they they ate when they they could  
+**[1292.28s] English:** And when they eat, they feed themselves as much as they can until that  
 **Translation:** 
 
-**[1292.28s] English:** and when they eat they they they they feed themselves as much as they can until that  
+**[1297.18s] English:** Because the next time, I didn't know when they could eat again, right? So, I think  
 **Translation:** 
 
-**[1297.18s] English:** because the next time because i didn't know when they they could eat again right so it's uh i think  
+**[1303.16s] English:** That's how we're built, you know, to have a similar lifestyle if we could take.  
 **Translation:** 
 
-**[1303.16s] English:** that's how we're we're we're built you know to to to have this similar lifestyle if we could take  
+**[1311.18s] English:** A step back to the discussion about fear, a little bit.  
 **Translation:** 
 
-**[1311.18s] English:** a step back to the discussion about fear a little bit  
+**[1314.82s] English:** Well, Mike Tyson talks about this process of him walking to the ring.  
 **Translation:** 
 
-**[1314.82s] English:** well mike tyson talks about this process of him walking to the ring  
-**Translation:** 
-
-**[1320.00s] English:** He sounds similar to you in many ways of the anxiety and the fear that he experiences.  
+**[1320.00s] English:** He sounds similar to you in many ways when it comes to the anxiety and the fear that he experiences.  
 **Translation:** 
 
 **[1325.38s] English:** And he has this sort of story that he tells about walking to the ring and being supremely afraid.  
 **Translation:** 
 
-**[1333.88s] English:** But as he walks and gets closer and steps in, he finds the confidence and becomes supremely confident.  
+**[1333.88s] English:** But as he walks and gets closer and steps in, he finds his confidence and becomes supremely confident.  
 **Translation:** Vocabulary: supremely: 极其
 
 **[1339.74s] English:** I think he calls himself like a god.  
@@ -757,37 +758,37 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1341.52s] English:** I feel like a god in the ring.  
 **Translation:** 
 
-**[1344.30s] English:** Do you go through a similar process of finding the confidence?  
+**[1344.30s] English:** Do you go through a similar process of finding confidence?  
 **Translation:** 
 
 **[1347.36s] English:** Well, yes.  
 **Translation:** 
 
-**[1351.60s] English:** And I use a James Lange theory.  
+**[1351.60s] English:** And I use the James-Lange theory.  
 **Translation:** 
 
-**[1357.48s] English:** So what I do is, because I'm not afraid to admit that I'm afraid.  
-**Translation:** Vocabulary: lange: 兰格理论
-
-**[1364.62s] English:** And at the beginning of my career, I really thought, I asked myself, because I was very good in mixed martial arts,  
+**[1357.48s] English:** So, what I do is: because I'm not afraid to admit that I'm afraid.  
 **Translation:** 
 
-**[1373.52s] English:** but I really thought I wasn't made for this.  
+**[1364.62s] English:** And at the beginning of my career, I really thought: I asked myself, because I was very good in mixed martial arts,  
 **Translation:** 
+
+**[1373.52s] English:** But I really thought I wasn't meant for this.  
+**Translation:** Vocabulary: martial: 武术
 
 **[1376.04s] English:** Because the idea of fighting didn't make me happy.  
 **Translation:** 
 
-**[1383.26s] English:** It's something like I was forced to do in order to keep that lifestyle that I have.  
+**[1383.26s] English:** It's something like I was forced to do in order to keep the lifestyle that I have.  
 **Translation:** 
 
-**[1390.32s] English:** And achieve my goal, perhaps one day to make enough money to retire.  
+**[1390.32s] English:** And achieve my goal: perhaps one day to make enough money to retire.  
 **Translation:** 
 
 **[1394.80s] English:** And, you know, that was my dream.  
 **Translation:** 
 
-**[1396.92s] English:** But when I was looking around the gym where I was training, most of my training partners, they were happy.  
+**[1396.92s] English:** But when I was looking around the gym where I was training, most of my training partners were happy.  
 **Translation:** 
 
 **[1402.68s] English:** They were excited.  
@@ -796,28 +797,28 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1403.76s] English:** And sometimes I corner a lot of guys.  
 **Translation:** 
 
-**[1406.04s] English:** They're happy and they're in the locker room.  
+**[1406.04s] English:** They're happy, and they're in the locker room.  
 **Translation:** 
 
 **[1407.60s] English:** They don't react the same way I do.  
 **Translation:** 
 
-**[1410.60s] English:** Some perhaps does.  
+**[1410.60s] English:** Some, perhaps, do.  
 **Translation:** 
 
-**[1412.34s] English:** But if you see me in the locker room, like when I get like my last fight with Michael Bisping, just to give you an example,  
+**[1412.34s] English:** But if you see me in the locker room, like when I got my last fight with Michael Bisping, just to give you an example,  
 **Translation:** 
 
-**[1420.04s] English:** in my last fight with Michael Bisping, because it's fresh, it's the one that is the most recent.  
+**[1420.04s] English:** In my last fight with Michael Bisping, because it's fresh and the most recent.  
+**Translation:** Vocabulary: bisping: 比斯平
+
+**[1425.38s] English:** And, but it's always the same thing.  
 **Translation:** 
 
-**[1425.38s] English:** And but it's always the same thing.  
+**[1427.34s] English:** My last fight against Bisping, I got in the locker room.  
 **Translation:** 
 
-**[1427.34s] English:** My last fight in Bisping, I get in the locker room.  
-**Translation:** 
-
-**[1430.98s] English:** I had like three guys that I train with, Mickey Gall.  
+**[1430.98s] English:** I had about three guys that I train with: Mickey Gall.  
 **Translation:** 
 
 **[1436.20s] English:** Amon Zahabi and Joseph Duffy.  
@@ -826,142 +827,142 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1439.50s] English:** They all love me.  
 **Translation:** 
 
-**[1440.00s] English:** it was like like my locker room was basically cursed the month you know them when you're in  
+**[1440.00s] English:** It was like my locker room was basically cursed during the month you know, when you're in.  
 **Translation:** 
 
-**[1446.56s] English:** a locker room and people from your locker room leave for a fight and then they come back it's  
+**[1446.56s] English:** A locker room, and people from your locker room leave for a fight, and then they come back; it's  
 **Translation:** 
 
-**[1451.28s] English:** kind of a momentum you know you you you shake and yeah good job now it's my you know it's kind of a  
+**[1451.28s] English:** Kind of a momentum, you know. You shake, and yeah, good job! Now it's my turn, you know?  
 **Translation:** 
 
-**[1456.40s] English:** team brotherhood sort of thing so the the the the atmosphere in my locker room was pretty bad  
+**[1456.40s] English:** Team brotherhood, sort of thing. So, the atmosphere in my locker room was pretty bad.  
 **Translation:** 
 
-**[1466.72s] English:** it was like uh going to a you know like a funeral so i was very scared and every before every fight  
+**[1466.72s] English:** It was like going to a funeral, so I was very scared, and every time before every fight.  
 **Translation:** 
 
-**[1475.44s] English:** i i asked myself i asked myself always shit what the hell i'm doing here why did i choose to come  
+**[1475.44s] English:** I asked myself, "Always, what the hell am I doing here? Why did I choose to come?  
 **Translation:** 
 
-**[1482.66s] English:** back oh my god and i'm freaking out however i'm putting on a mask like i'm acting because if i  
-**Translation:** Vocabulary: freaking: 恐慌
+**[1482.66s] English:** Back, oh my God, and I'm freaking out. However, I'm putting on a mask—like, I'm acting—as if I'm not worried at all.  
+**Translation:** Vocabulary: freaking: 狂躁
 
-**[1491.88s] English:** don't do that it will reflect on my coaches and if my coach my the confidence of my  
+**[1491.88s] English:** Don't do that; it will reflect on my coaches, and if my coach has any confidence in me, this won't happen.  
 **Translation:** 
 
-**[1496.70s] English:** coaches is affected it will reflect reflect on me so i need to feel strong i need to make them  
+**[1496.70s] English:** Coaches is affected, it will reflect on me, so I need to feel strong and make them.  
 **Translation:** 
 
-**[1503.46s] English:** believe that i'm excited to be there and i'm happy to be there so this sort of play start when i get  
+**[1503.46s] English:** Believe that I'm excited to be there and I'm happy to be there, so this sort of play starts when I get there.  
 **Translation:** 
 
-**[1513.18s] English:** when i first step in the locker room even though i feel completely different but that's how i play  
+**[1513.18s] English:** When I first stepped into the locker room, even though I felt completely different, that's how I play.  
 **Translation:** 
 
-**[1518.88s] English:** it normally the day the fight day i never felt feel a hundred percent i always feel exhausted  
+**[1518.88s] English:** It normally happens on the day of the fight; I never feel 100 percent, and I always feel exhausted.  
 **Translation:** 
 
-**[1525.44s] English:** tired  
+**[1525.44s] English:** Tired.  
 **Translation:** 
 
-**[1526.70s] English:** uh my highs are hitching because i don't sleep enough the few nights before because i'm constantly  
+**[1526.70s] English:** Uh, my highs are hitching because I don't sleep enough the few nights before because I'm constantly...  
 **Translation:** 
 
-**[1532.90s] English:** rehearse rehearsing scenarios that might happen in the fight so mentally it's not that i'm not on top  
-**Translation:** Vocabulary: hitching: 拖后腿; rehearse: 排练; rehearsing: 排练; scenarios: 情景
+**[1532.90s] English:** Rehearse and rehearsing scenarios that might happen in the fight, so mentally, I'm not caught off guard.  
+**Translation:** Vocabulary: hitching: 不顺畅; rehearse: 练习; rehearsing: 练习; scenarios: 情景
 
-**[1542.32s] English:** but you keep all that to yourself i keep it to myself and i'm lying to everybody around  
+**[1542.32s] English:** But you keep all that to yourself. I keep it to myself, and I'm lying to everybody around me.  
 **Translation:** 
 
-**[1547.44s] English:** but everybody knows you know fair ass john then i heard they they know freddie roach because they've  
+**[1547.44s] English:** But everybody knows, you know, fair-ass John. Then I heard they know Freddie Roach because they've  
 **Translation:** Vocabulary: freddie: 弗雷迪; roach: 罗奇
 
-**[1554.78s] English:** been with me for a long time so they know what's going on but they don't know what's going on  
+**[1554.78s] English:** Been with me for a long time, so they know what's going on, but they don't know what's going on.  
 **Translation:** 
 
-**[1556.70s] English:** but at least i'm lying to them i'm like hey i'm feeling great  
+**[1556.70s] English:** But at least I'm lying to them; I'm like, "Hey, I'm feeling great.  
 **Translation:** 
 
 **[1560.00s] English:** And seeing all my training partners very disappointed because they lost their fight.  
 **Translation:** 
 
-**[1565.60s] English:** Some were badly hurt as well.  
+**[1565.60s] English:** Some were also badly hurt.  
 **Translation:** 
 
 **[1568.38s] English:** It was hard.  
 **Translation:** 
 
-**[1570.50s] English:** And I remember I started to warm up and everything.  
+**[1570.50s] English:** And I remember I started to warm up, and everything.  
 **Translation:** 
 
 **[1575.10s] English:** And as you start to warm up, you become a different person.  
 **Translation:** 
 
-**[1578.98s] English:** Because, you know, we know that certain posture in yoga can affect your mental state.  
+**[1578.98s] English:** Because, you know, we know that certain postures in yoga can affect your mental state.  
 **Translation:** 
 
 **[1586.96s] English:** But I would say it's a little bit the same thing in fighting.  
 **Translation:** 
 
-**[1590.10s] English:** You know, like when you start hitting the pads, your muscle memory, your instincts comes back.  
+**[1590.10s] English:** You know, like when you start hitting the pads, your muscle memory and instincts come back.  
 **Translation:** Vocabulary: instincts: 本能
 
-**[1596.34s] English:** And you remember that you're good at this, you know, and your confidence starts to grow.  
+**[1596.34s] English:** And you remember that you're good at this, and your confidence starts to grow.  
 **Translation:** 
 
-**[1601.96s] English:** And seeing your trainers holding the pad and repeating your moves, it makes you also remember all the sacrifices you have done through your training camp.  
+**[1601.96s] English:** And seeing your trainers holding the pad and repeating your moves, it makes you also remember all the sacrifices you have made through your training camp.  
 **Translation:** Vocabulary: trainers: 教练
 
-**[1611.00s] English:** And confidence comes from how you prepared yourself.  
+**[1611.00s] English:** And confidence comes from how you prepare yourself.  
 **Translation:** 
 
-**[1614.82s] English:** And even if you're afraid, you can be confident in the same time.  
+**[1614.82s] English:** And even if you're afraid, you can be confident at the same time.  
 **Translation:** 
 
-**[1619.62s] English:** Being afraid and being confident is two different things.  
+**[1619.62s] English:** Being afraid and being confident are two different things.  
 **Translation:** 
 
-**[1623.36s] English:** And before every fight, just right before I walk in, when I'm scared, I go in the bathroom and I look at myself in the mirror.  
+**[1623.36s] English:** And before every fight, just right before I walk in, when I'm scared, I go in the bathroom and look at myself in the mirror.  
 **Translation:** 
 
 **[1632.70s] English:** I used to have a bandana and a gi.  
 **Translation:** 
 
-**[1634.86s] English:** But now I didn't have this for my last fight because of the new Reebok deal they had.  
-**Translation:** Vocabulary: bandana: 头巾; reebok: 运动鞋
+**[1634.86s] English:** But now I didn't have it for my last fight because of the new Reebok deal they had.  
+**Translation:** Vocabulary: bandana: 头巾; reebok: 锐步
 
 **[1642.04s] English:** But I did the same rehearsal that I always do.  
 **Translation:** 
 
-**[1644.22s] English:** I look at myself in the mirror and I start to compliment myself.  
-**Translation:** Vocabulary: rehearsal: 彩排
+**[1644.22s] English:** I look at myself in the mirror and start to compliment myself.  
+**Translation:** Vocabulary: rehearsal: 练习
 
 **[1647.80s] English:** Like, even if I don't believe it.  
 **Translation:** 
 
-**[1650.14s] English:** I'm starting to trying to believe it as I am.  
+**[1650.14s] English:** I'm starting to try to believe it as I am.  
 **Translation:** 
 
-**[1652.60s] English:** I'm finding all the reason why I'm going to win the fight.  
+**[1652.60s] English:** I'm finding all the reasons why I'm going to win the fight.  
 **Translation:** 
 
-**[1655.90s] English:** And all my trainer knows that before every fight, when the guy from the UFC goes and step in my room and says, St. Pierre, you're up next, I always take a few minutes to do that same rehearsal.  
-**Translation:** 
+**[1655.90s] English:** And all my trainer knows that before every fight, when the guy from the UFC comes into my room and says, "St. Pierre, you're up next," I always take a few minutes to do that same rehearsal.  
+**Translation:** Vocabulary: trainer: 教练
 
-**[1667.68s] English:** And I tell myself, I'm going to win this fight because I'm better.  
+**[1667.68s] English:** And I tell myself, "I'm going to win this fight because I'm better.  
 **Translation:** 
 
 **[1670.78s] English:** And I'm very cocky about myself.  
 **Translation:** Vocabulary: cocky: 自以为是
 
-**[1672.70s] English:** I'm telling all the reasons that I'm going to win.  
+**[1672.70s] English:** I'm telling all the reasons why I'm going to win.  
 **Translation:** 
 
 **[1675.68s] English:** I got a better team.  
 **Translation:** 
 
-**[1676.96s] English:** I made more sacrifice.  
+**[1676.96s] English:** I made even more of a sacrifice.  
 **Translation:** 
 
 **[1678.22s] English:** You know, I'm faster.  
@@ -970,532 +971,532 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[1679.36s] English:** I'm faster.  
 **Translation:** 
 
-**[1680.00s] English:** i'm more powerful way more athletic my fighting iq is better than him i got a strategy on point  
+**[1680.00s] English:** I'm more powerful, way more athletic. My fighting IQ is better than his. I've got a strategy on point.  
 **Translation:** 
 
-**[1685.00s] English:** that he's never gonna be able to keep up with and and this and that and i'm and i was telling  
+**[1685.00s] English:** That he's never going to be able to keep up with, and this, and that. And I was telling...  
 **Translation:** 
 
-**[1691.28s] English:** myself i'm gonna show these young kids how things should be done you know i'm trying to boost myself  
+**[1691.28s] English:** Myself, I'm gonna show these young kids how things should be done. You know, I'm trying to boost myself.  
 **Translation:** 
 
-**[1696.02s] English:** yeah try to to boost yourself and you start to believe in it you become a different person  
+**[1696.02s] English:** Yeah, try to boost yourself, and you start to believe in it; you become a different person.  
 **Translation:** 
 
-**[1700.94s] English:** so when you walk out the bathroom now rock and roll now i really believe it for real you know  
+**[1700.94s] English:** So, when you walk out of the bathroom now, rock and roll—I really believe it for real, you know.  
 **Translation:** 
 
-**[1708.50s] English:** like i'm still scared but i believe it for real and that's the transformation that happened for  
+**[1708.50s] English:** Like, I'm still scared, but I believe it for real, and that's the transformation that happened for.  
 **Translation:** 
 
-**[1713.20s] English:** me right there and from that from now from from there to the fight it's until the fight is over  
+**[1713.20s] English:** Me, right there, and from that point forward, until the fight is over.  
 **Translation:** 
 
-**[1718.98s] English:** it's called i call it cruise control because i you don't have time to think in a fight if you're  
+**[1718.98s] English:** It's called "cruise control" because I don't have time to think in a fight if you're.  
 **Translation:** 
 
-**[1724.58s] English:** trying to think you're missing the opportunity so that's how i see it for for myself so at that  
+**[1724.58s] English:** Trying to think, you're missing the opportunity, so that's how I see it for myself. So at that point.  
 **Translation:** 
 
-**[1730.02s] English:** point you stop thinking and you just go cruise control autopilot trust yourself you know trust  
+**[1730.02s] English:** Point is, you stop thinking and you just go into cruise control, autopilot. Trust yourself, you know?  
 **Translation:** 
 
-**[1735.06s] English:** yourself because you you repeated all the scenarios you know  
+**[1735.06s] English:** Yourself, because you repeated all the scenarios you know.  
 **Translation:** Vocabulary: scenarios: 情景
 
-**[1738.48s] English:** so everything that you have done it's it's inside that your computer your computer your brain is  
+**[1738.48s] English:** So, everything that you have done is inside your computer, your brain.  
 **Translation:** 
 
-**[1743.54s] English:** programmed to react accordingly to certain situations and the it's not the night of the  
+**[1743.54s] English:** Programmed to react accordingly to certain situations, and it's not the night of the  
 **Translation:** Vocabulary: accordingly: 相应地
 
-**[1750.00s] English:** fight that you you'll you'll tell yourself oh finally i'm gonna do this if you do this now now  
+**[1750.00s] English:** Fight that you'll tell yourself, "Oh, finally, I'm gonna do this," if you do this now.  
 **Translation:** 
 
-**[1753.84s] English:** if you have not practiced it before you're screwed it's the preparation the repetition that  
+**[1753.84s] English:** If you have not practiced it before, you're screwed. It's the preparation and repetition that matter.  
 **Translation:** Vocabulary: repetition: 重复
 
-**[1760.06s] English:** makes it happen you know what about like the really difficult moments in a fight where you  
+**[1760.06s] English:** Makes it happen, you know, what about those really difficult moments in a fight where you  
 **Translation:** 
 
-**[1768.48s] English:** are tested to your limits essentially usually it's cardio related exhaustion right where you  
-**Translation:** Vocabulary: exhaustion: 精疲力尽
+**[1768.48s] English:** Are tested to your limits, essentially. Usually, it's cardio-related exhaustion, right?  
+**Translation:** Vocabulary: exhaustion: 疲劳
 
-**[1774.62s] English:** have to ask yourself that same question is like why the hell am i doing this yeah uh do you do  
+**[1774.62s] English:** Have to ask yourself that same question—is like, "Why the hell am I doing this?" Yeah, uh, do you do  
 **Translation:** 
 
-**[1780.16s] English:** do you experience those or are you able to ride through the autopilot and if you do like what do  
+**[1780.16s] English:** Do you experience those issues, or are you able to ride through them with the autopilot? If you do experience them, how do you feel about it?  
 **Translation:** 
 
-**[1785.40s] English:** you do in those moments never in a fight when i'm in a fight when it's the the when the fight is is  
+**[1785.40s] English:** You do in those moments, never in a fight. When I'm in a fight, when it's the fight is.  
 **Translation:** 
 
-**[1791.82s] English:** on i never change my mind i go until the end however for example  
+**[1791.82s] English:** On, I never change my mind; I go until the end, however, for example.  
 **Translation:** 
 
-**[1798.48s] English:** my first fight would be japan  
+**[1798.48s] English:** My first fight would be Japan.  
 **Translation:** 
 
-**[1800.00s] English:** i had a terrible first round so i had to switch gear that happened sometime but it's part of my  
+**[1800.00s] English:** I had a terrible first round, so I had to switch gears. That happened sometimes, but it's part of my experience.  
 **Translation:** 
 
-**[1808.02s] English:** plan i always have a plan b plan plan a plan b plan c you need to have that if fighters goes  
+**[1808.02s] English:** Plan, I always have a Plan B. Plan A, Plan B, Plan C. You need to have that if things go wrong.  
 **Translation:** 
 
-**[1814.68s] English:** into a fight thinking oh what i'm gonna do this is this and they don't have a plan b if this doesn't  
+**[1814.68s] English:** Into a fight, thinking "Oh, what I'm gonna do; this is this," and they don't have a Plan B if this doesn't.  
 **Translation:** 
 
-**[1820.26s] English:** work that's mean they're not well prepared if you talk to me before every fight i can like in 30  
+**[1820.26s] English:** Work that's mean they're not well prepared. If you talk to me before every fight, I can like in 30.  
 **Translation:** 
 
-**[1826.38s] English:** seconds give you my whole strategy you know for for bj pan my first fight with bj pan was  
+**[1826.38s] English:** Seconds, give you my whole strategy, you know. For my first fight with BJ Penn, was  
 **Translation:** 
 
-**[1831.90s] English:** oh i'm gonna keep it standing up keep the fight from the outside you know because i'm faster than  
+**[1831.90s] English:** Oh, I'm gonna keep it standing up to keep the fight from the outside, you know? Because I'm faster than.  
 **Translation:** 
 
-**[1838.06s] English:** him then the fight would be japan start i found out that i was not faster than him and i found  
+**[1838.06s] English:** Then, in the fight, Japan started. I found out that I was not faster than him, and I found  
 **Translation:** 
 
-**[1844.78s] English:** out that his reaction time was better than than than mine so i got beat up the first round and i  
+**[1844.78s] English:** Out that his reaction time was better than mine, so I got beat up in the first round and I  
 **Translation:** 
 
-**[1852.90s] English:** had a bloody nose and everything so my plan b  
+**[1852.90s] English:** Had a bloody nose and everything, so my Plan B.  
+**Translation:** Vocabulary: bloody: 流血的
+
+**[1856.38s] English:** Now, I'm gonna wrestle him. You know, I'm gonna wrestle him and make him tired.  
 **Translation:** 
 
-**[1856.38s] English:** was now i'm gonna wrestle him you know i'm gonna wrestle him and and you know make him tired and  
-**Translation:** 
-
-**[1861.80s] English:** trying to put him down and that's how i beat him because i switched gear you know but if you can't  
+**[1861.80s] English:** Trying to put him down, and that's how I beat him because I switched gears, you know. But if you can't...  
 **Translation:** Vocabulary: wrestle: 摔跤
 
-**[1867.20s] English:** do that if you cannot find a way to become the perfect nemesis to your opponent you you you  
+**[1867.20s] English:** Do that if you cannot find a way to become the perfect nemesis to your opponent, you.  
 **Translation:** 
 
-**[1872.70s] English:** might win a few fight but you you're gonna find uh you're gonna fight someone sooner or later that  
-**Translation:** Vocabulary: cannot: 不能; nemesis: 宿敌
-
-**[1879.18s] English:** will that will give you a lot of uh a lot of trouble so that's where the anxiety pays off  
+**[1872.70s] English:** Might win a few fights, but you're gonna find, sooner or later, that you're gonna fight someone.  
 **Translation:** 
 
-**[1885.08s] English:** you're anticipating all the ways to go and you're going to have to fight someone who's going to  
+**[1879.18s] English:** Will that give you a lot of trouble? So that's where the anxiety pays off.  
+**Translation:** 
+
+**[1885.08s] English:** You're anticipating all the ways to go, and you're going to have to fight someone who's going to  
 **Translation:** Vocabulary: anticipating: 预想
 
-**[1886.38s] English:** go wrong so you've developed a plan b and plan c hi you know we talked a lot with uh  
+**[1886.38s] English:** Go wrong, so you've developed Plan B and Plan C. Hi! You know, we talked a lot about this, huh?  
 **Translation:** 
 
-**[1892.66s] English:** like john donahue who you work with it's interesting i don't think i've heard him  
+**[1892.66s] English:** Like John Donahue, whom you work with, it's interesting; I don't think I've heard him.  
 **Translation:** 
 
-**[1897.74s] English:** talk about plan b and plan c he usually has a really clear plan a entire system of plan a i  
+**[1897.74s] English:** Talk about Plan B and Plan C; he usually has a really clear Plan A, an entire system of it.  
 **Translation:** 
 
-**[1905.74s] English:** don't think i've heard him we've had uh we had a a good discussion about it in um  
+**[1905.74s] English:** Don't think I've heard him. We've had, uh, a good discussion about it, um,...  
 **Translation:** 
 
-**[1913.00s] English:** uh over some cheeseburgers  
+**[1913.00s] English:** Uh, over some cheeseburgers.  
 **Translation:** 
 
-**[1916.38s] English:** he was kind of espousing the value of  
+**[1916.38s] English:** He was kind of espousing the value of  
 **Translation:** Vocabulary: cheeseburgers: 芝士汉堡; espousing: 宣扬
 
-**[1920.00s] English:** mastering escapes so when you find yourself in bad situations being exceptionally good at finding  
+**[1920.00s] English:** Mastering escapes, so when you find yourself in bad situations, being exceptionally good at finding  
 **Translation:** 
 
-**[1927.56s] English:** ways out of those bad situations and that's a way of dominance there's nothing there's no better way  
-**Translation:** Vocabulary: dominance: 支配地位; exceptionally: 极其; mastering: 掌握
+**[1927.56s] English:** Ways out of those bad situations, and that's a way of dominance. There's nothing; there's no better way.  
+**Translation:** Vocabulary: dominance: 优势; exceptionally: 特别; mastering: 掌握
 
-**[1933.92s] English:** to dominate your opponent according to him than to show that they can't possibly hurt you no matter  
+**[1933.92s] English:** To dominate your opponent, according to him, is better than to show that they can't possibly hurt you, no matter  
 **Translation:** 
 
-**[1939.10s] English:** how bad the position is uh it's like it's a as opposed to a physical dominance it's a psychological  
-**Translation:** Vocabulary: dominate: 心理压制
+**[1939.10s] English:** How bad the position is, uh. It's like it's not so much about physical dominance; it's more of a psychological one.  
+**Translation:** Vocabulary: dominate: 压制; opponent: 对手
 
-**[1944.96s] English:** dominance it's very interesting but i wonder if he has plan b and plan c in his mind too  
+**[1944.96s] English:** Dominance is very interesting, but I wonder if he has Plan B and Plan C in his mind, too.  
 **Translation:** 
 
-**[1952.02s] English:** you know in in uh mixed martial arts sometime it's like in science something you can make a  
+**[1952.02s] English:** You know, in mixed martial arts sometimes it's like in science something you can make up.  
 **Translation:** Vocabulary: martial: 武术
 
-**[1956.78s] English:** miss like a mistake you know like every human can make a mistakes you know there's certain sport or  
+**[1956.78s] English:** Miss like a mistake, you know; like every human can make a mistake, you know. There's certain sports...  
 **Translation:** 
 
-**[1963.26s] English:** certain situation that you if there's a mistake made you're you're you're that's it exactly  
+**[1963.26s] English:** Certain situations: that you, if there's a mistake made, you're that's it, exactly.  
 **Translation:** 
 
-**[1969.52s] English:** sometimes it's the case in mma but sometimes you're able to redeem yourself  
+**[1969.52s] English:** Sometimes it's the case in MMA, but sometimes you're able to redeem yourself.  
 **Translation:** 
 
-**[1974.62s] English:** you  
+**[1974.62s] English:** You.  
+**Translation:** Vocabulary: redeem: 弥补
+
+**[1974.96s] English:** And, uh, if you look at the fight with Bj Penn that I had, which was probably one of the most  
 **Translation:** 
 
-**[1974.96s] English:** and uh if you look the fight with bj pen one that i had which was probably one of the most  
+**[1982.82s] English:** Competitive fight, and it was probably the one where I got the most damage, and I was  
 **Translation:** 
 
-**[1982.82s] English:** competitive fight and it was probably the it was the fight that i got the most damage and i was  
+**[1989.30s] English:** Messed up; it took me three days, like two or three days, to recuperate from that fight. I was really  
 **Translation:** 
 
-**[1989.30s] English:** messed up it took me three days like two three days to recuperate from that fight i was really  
+**[1993.52s] English:** Damaged, and in my first fight versus my second fight, I made a lot of adjustments because I had learned.  
+**Translation:** Vocabulary: messed: 搞砸了
+
+**[2000.94s] English:** From my first fight, and I also had a guy one.  
 **Translation:** 
 
-**[1993.52s] English:** damaged and my first fight versus my second fight i made a lot of adjustment because i have learned  
-**Translation:** Vocabulary: adjustment: 调整
-
-**[2000.94s] English:** from my first fight and also i had a guy one  
+**[2004.96s] English:** Things people don't know, like they talk about fighters having secret weapons. See, for me, my  
 **Translation:** 
 
-**[2004.96s] English:** thing people don't know like they talk about fighters having secret weapons see for me my  
+**[2010.06s] English:** Secret weapons was not like some; it's that they use certain, different things. For me, it was  
 **Translation:** 
 
-**[2010.06s] English:** secret weapons was not like some is that they use like certain like different things for me it was  
+**[2015.56s] English:** Knowledge: I had a guy in Montreal; he was measuring frames. He's not a scientist; he's a friend of mine.  
 **Translation:** 
 
-**[2015.56s] English:** knowledge i had a guy in montreal he was measuring frames he's not a scientist he's a friend of  
-**Translation:** Vocabulary: montreal: 蒙特利尔
-
-**[2022.38s] English:** ferris and i and what he does he he watch fight and he measure frames the way he does it is when  
+**[2022.38s] English:** Ferris and I, and what he does is that he watches fights and measures frames. The way he does it is when,...  
 **Translation:** 
 
-**[2028.80s] English:** you watch a fight and one of the guy throw a punch he he cut the picture by frame the video  
-**Translation:** Vocabulary: ferris: 费里斯
+**[2028.80s] English:** You watch a fight, and one of the guys throws a punch; he cuts the picture by framing the video.  
+**Translation:** Vocabulary: framing: 剪辑
 
-**[2034.96s] English:** so he's able to see which fighter has  
+**[2034.96s] English:** So, he's able to see which fighter has  
 **Translation:** 
 
-**[2040.00s] English:** better reaction time than others and bj penn he found out that bj penn of all the ufc roster at  
+**[2040.00s] English:** Better reaction time than others, and BJ Penn: He found out that BJ Penn had one of the best reaction times on the entire UFC roster.  
 **Translation:** Vocabulary: roster: 花名册
 
-**[2047.76s] English:** the time when he was in his prime he had probably the best reaction time of all according to him  
+**[2047.76s] English:** The time when he was in his prime, he had probably the best reaction time of all, according to him.  
 **Translation:** 
 
-**[2053.36s] English:** lyoto mashido was the second one but bj penn was the first one so i knew that if i would  
+**[2053.36s] English:** Lyoto Machida was the second one, but BJ Penn was the first one, so I knew that if I would  
+**Translation:** Vocabulary: machida: 麦哲达
+
+**[2060.32s] English:** Try to go first because I've always been the fastest guy normally when I fight someone, but when I  
 **Translation:** 
 
-**[2060.32s] English:** try to go first because i always been the fastest guy normally when i fight someone but when i  
+**[2066.24s] English:** Fought BJ Penn, I tried to go first, and he was always able to -- I never was able to.  
 **Translation:** 
 
-**[2066.24s] English:** fought bj penn i tried to go first and he was always able to like i never was never able to  
+**[2072.72s] English:** To touch him with my jab, and he came back with a counter punch. However, because of what he told me,...  
 **Translation:** 
 
-**[2072.72s] English:** to touch him with my jab and he came back with the counter punch however because of what he told me  
+**[2080.80s] English:** I knew that BJ Penn has a very fast reaction time, but at a very poor reset time. To him,  
 **Translation:** 
 
-**[2080.80s] English:** i knew that bj penn has a very fast reaction time but at a very poor reset time to him the  
+**[2087.68s] English:** He described it to me like this: your nervous system is like a muscle; BJ Penn was so fast, but  
 **Translation:** 
 
-**[2087.68s] English:** way he described it to me is like your nervous system is like a muscle bj penn was so fast but  
+**[2093.28s] English:** He's more like a sprinter, so what I did the second time,...  
+**Translation:** Vocabulary: sprinter: 短跑运动员
+
+**[2096.24s] English:** Fight: I when I fought BJ Penn, I made him flinch, like I fake a lot so I make him react and flinch.  
 **Translation:** 
 
-**[2093.28s] English:** he's like more like a sprinter so what i did the second time  
+**[2102.00s] English:** So, all that reaction time that he used to flinch was not used properly to avoid my punches.  
+**Translation:** Vocabulary: flinch: 缩手; punches: 拳击
+
+**[2110.00s] English:** So, I overload his nervous system with a lot of information and fit-and-fake.  
 **Translation:** 
 
-**[2096.24s] English:** fight i when i fought bj penn i made him flinch like i fake a lot so i make him react and flinch  
+**[2117.04s] English:** To make him flinch, I pretended to kick and wrestle, so he got overwhelmed and he got  
+**Translation:** Vocabulary: overload: 信息过载; pretended: 假装; wrestle: 摔跤
+
+**[2123.20s] English:** Tired very, very fast, so that's how I.  
 **Translation:** 
 
-**[2102.00s] English:** so all that that reaction time that he used to flinch was not used properly to avoid my punches  
-**Translation:** Vocabulary: flinch: 缩身闪避
-
-**[2110.00s] English:** so he i burn i i load up his his nervous system with a lot of information and fit and fake and  
+**[2126.24s] English:** Beat him; people sometimes don't really know what's the strategy behind the thing, they only  
 **Translation:** 
 
-**[2117.04s] English:** to make him flinch and pretending i was kicking and wrestling so he got overwhelmed and he got  
-**Translation:** Vocabulary: wrestling: 摔跤
-
-**[2123.20s] English:** tired very very fast so that's how i  
+**[2131.36s] English:** See, the physical part, but when you fight someone, if I fight you, I look at you in the eyes, there's  
 **Translation:** 
 
-**[2126.24s] English:** beat him people sometimes they don't know really what's the strategy behind the thing they only  
+**[2136.08s] English:** A lot of things are going on between you and I. I can look down here, bam, jab you in the face.  
 **Translation:** 
 
-**[2131.36s] English:** see the physical part but when you fight someone if i fight you i look at you in the eyes there's  
+**[2142.48s] English:** The audience will not see this little detail, but you will see it, and that's what it makes.  
 **Translation:** 
 
-**[2136.08s] English:** a lot of things that going on between you and i i can look down here bam jab you in the face  
+**[2148.48s] English:** The magic during a fight is in the relationship you have with your opponent, you know, like  
+**Translation:** Vocabulary: opponent: 对手
+
+**[2153.60s] English:** Mental game: What you make him believe that those little  
 **Translation:** 
 
-**[2142.48s] English:** the audience will not see this little detail but you will see it and that's what it makes  
+**[2156.24s] English:** Things I use a lot of those, if you talk to a lot of my open.  
 **Translation:** 
 
-**[2148.48s] English:** the magic during a fight the relation that you have with the opponent you know like like the  
+**[2160.00s] English:** They'll tell you, like I use a lot of these little things. You know, I look down the banner, and I go, "I...  
 **Translation:** 
 
-**[2153.60s] English:** mental game what you you make him believe that those little  
+**[2164.44s] English:** Go up, or I am pretending I want to attack you so I'm making you flinch, but in reality, I'm just  
+**Translation:** Vocabulary: banner: 横幅
+
+**[2169.90s] English:** Doing this because I want to rest, I want to recuperate, and I'm tired. How much, you know?  
 **Translation:** 
 
-**[2156.24s] English:** things i use a lot of those if you talk to a lot of my open  
-**Translation:** 
-
-**[2160.00s] English:** they'll tell you like i use a lot of these little thing you know like i look down the banner i go i  
-**Translation:** 
-
-**[2164.44s] English:** go up or i am pretending i want to attack you so i'm i'm make you flinch but in reality i'm just  
-**Translation:** 
-
-**[2169.90s] English:** doing this because i want to rest i want to recuperate and i'm tired how much is you know  
-**Translation:** 
-
-**[2176.22s] English:** people talk about that with poker for example how much is the value of this you know so like  
+**[2176.22s] English:** People talk about that with poker, for example, how much is the value of this, you know, so like.  
 **Translation:** Vocabulary: poker: 纸牌游戏
 
-**[2182.52s] English:** some people argue that poker is more about the betting you know just the money it's just how  
+**[2182.52s] English:** Some people argue that poker is more about the betting, you know, just the money; it's just how  
 **Translation:** 
 
-**[2187.70s] English:** much you bet and so on so that would be more like uh the analogy there with with fighting would be  
+**[2187.70s] English:** Much, you bet, and so on. So, that would be more like the analogy there with fighting would be.  
+**Translation:** Vocabulary: analogy: 类比
+
+**[2193.90s] English:** Just strictly the physical movement of your body, and then a lot of people argue that there's a lot  
 **Translation:** 
 
-**[2193.90s] English:** just strictly the physical movement of your body and then a lot of people argue that there's a lot  
+**[2199.50s] English:** Here, in the way you look and the little movements in the face, so do you think there's something?  
 **Translation:** 
 
-**[2199.50s] English:** here in the way you look in the little movements in the face so do you you think there's do you  
+**[2204.66s] English:** Think you're communicating with your opponent when you look at them; there's no way to know for sure.  
 **Translation:** 
 
-**[2204.66s] English:** think you're communicating with your opponent when you look at them there's no way to know for  
+**[2210.34s] English:** Sure, 100 percent, and I'm by no means psychic—nothing like that—and I don't believe in that at all.  
+**Translation:** Vocabulary: psychic: 超能力的
+
+**[2215.78s] English:** All the only thing is, I know.  
 **Translation:** 
 
-**[2210.34s] English:** sure hundred percent and i'm by no no mean psychic nothing like that and i don't believe in that at  
-**Translation:** Vocabulary: psychic: 灵媒
-
-**[2215.78s] English:** all the only thing is i know  
+**[2217.70s] English:** That there's no way to know for sure, 100 percent, and I don't believe in that at all. The only thing is,...  
 **Translation:** 
 
-**[2217.70s] English:** that there's no way to know for sure hundred percent and i don't believe in that at all the only thing is  
+**[2218.20s] English:** Looking through the eyes of my opponent when he's afraid, and when he gives up on me—yeah, I've been  
 **Translation:** 
 
-**[2218.20s] English:** looking through the eyes of my opponent when he's afraid and when he gives up on me yeah i've been  
+**[2223.86s] English:** Accused very often in my career of not taking enough risk and not finishing my opponent, but the reason why...  
 **Translation:** 
 
-**[2223.86s] English:** accused very often in my career to not take enough risk to not finish my opponent but the reason why  
+**[2230.98s] English:** I didn't finish my opponent; I saw in his eyes that he had given up, and he gave me the fight.  
 **Translation:** 
 
-**[2230.98s] English:** i didn't finish my opponent is because i saw in his eyes that he gave up he gave me the fight and  
+**[2236.10s] English:** I'm winning the fight, so it's not up to me; it's not for me to try to sacrifice myself.  
+**Translation:** Vocabulary: opponent: 对手; sacrifice: 牺牲
+
+**[2244.34s] English:** Trying to finish him, perhaps. If I do that, I will open up.  
 **Translation:** 
 
-**[2236.10s] English:** i'm winning the fight so it's not up to me it's not to me to make it to try to sacrifice myself  
+**[2247.70s] English:** From making capital on my mistake, it's up to him to take a risk.  
 **Translation:** 
 
-**[2244.34s] English:** trying to finish him perhaps if i do that i will open up  
+**[2255.70s] English:** So, people sometimes don't understand that it's the art of fighting, my friend. You know?  
 **Translation:** 
 
-**[2247.70s] English:** from for him to to to uh to capitalize on my mistake it's up to him to make a risk  
+**[2260.98s] English:** Like, if I'm winning the fight, like in hockey or ice hockey, if you're winning the game and it's the  
+**Translation:** 
+
+**[2266.34s] English:** In the third period, it's at the end of the third period; you're not going to take out your goalie tender.  
+**Translation:** 
+
+**[2270.66s] English:** Trying to score another goal because winning, uh, five to three or five to four is the same thing.  
+**Translation:** Vocabulary: goalie: 守门员; tender: 守门员
+
+**[2277.70s] English:** The same thing in MMA, we make a living out of this.  
+**Translation:** 
+
+**[2280.00s] English:** And sometimes, it's as sad as it can be, and you want to save yourself for another day.  
+**Translation:** 
+
+**[2286.50s] English:** You know, you want to minimize the damage, but if he knows he's losing the fight, it's up to you to handle it.  
+**Translation:** 
+
+**[2292.78s] English:** To take the risk, it's not up to me, so I'm always a good counter-fighter; I use a lot of my attacks.  
+**Translation:** 
+
+**[2298.72s] English:** Or counterstrike, or reactive takedown, or proactive takedown—that's my specialty, so I'm  
+**Translation:** 
+
+**[2305.84s] English:** Not gonna; I'd have no desire to sacrifice myself trying to finish my opponent.  
+**Translation:** Vocabulary: counterstrike: 反击; specialty: 专长; takedown: 制服
+
+**[2311.64s] English:** If he wants to, if perhaps I might give him the opportunity to capitalize on me, it's not  
+**Translation:** 
+
+**[2318.86s] English:** It's not smart to do that, and very often when I fight someone, I can read him; I see the fear in.  
 **Translation:** Vocabulary: capitalize: 利用
 
-**[2255.70s] English:** so people sometimes they they don't understand that it's the art of fighting my friend you know  
+**[2326.42s] English:** His eyes—now, I'm like, "I got you." Now he's very desperate, but that doesn't mean I have to.  
 **Translation:** 
 
-**[2260.98s] English:** like if i'm winning the fight like in hockey and ice hockey if you're winning the game and it's the  
+**[2330.62s] English:** Put my guard down because he's gonna be desperate, but I know I'm beating you.  
 **Translation:** 
 
-**[2266.34s] English:** third period it's at the end of the third period you're not going to take out your goal tender  
+**[2335.44s] English:** You.  
 **Translation:** 
 
-**[2270.66s] English:** trying to score another goal because winning uh uh five to three or five to four is the same thing  
+**[2335.82s] English:** And I know I'm beating you. I'm just going to do what I need, you know. If I have a chance, of course I will.  
 **Translation:** 
 
-**[2277.70s] English:** the same thing in mma we make a living out of this  
+**[2339.50s] English:** Knock him out, but I'm not gonna try to sacrifice myself to knock him out, and if you do that,...  
 **Translation:** 
 
-**[2280.00s] English:** and sometimes it's you know as sad as bad as it can be you want to save yourself for another day  
+**[2346.78s] English:** Maybe one day you'll make a mistake, and you'll get dropped. You'll tell yourself, "I should have been more careful.  
 **Translation:** 
 
-**[2286.50s] English:** you know you want to minimize the damage but if he knows he's losing the fight it's up to you him  
+**[2352.30s] English:** Just got brain damage. Maybe I'm never gonna come back the same. Maybe, you know, I ruined my career.  
 **Translation:** 
 
-**[2292.78s] English:** to take the risk it's not up to me so i'm ever i'm a good counter fighter i use a lot of my attack  
+**[2357.74s] English:** Or, you know, it's a very serious game that we're playing; it's very dangerous in the face of...  
 **Translation:** 
 
-**[2298.72s] English:** or counter strike or reactive takedown or proactive takedown that's my speciality so i'm  
+**[2364.14s] English:** That risk.  
 **Translation:** 
 
-**[2305.84s] English:** not gonna i i'd have no desire to sacrifice myself trying to to trying to finish my opponent  
-**Translation:** Vocabulary: sacrifice: 牺牲; takedown: 突袭
+**[2365.82s] English:** I mean, uh, Mike Tyson talked about how, you know, when the opponent looks away, he knows he's got him.  
+**Translation:** Vocabulary: opponent: 对手
 
-**[2311.64s] English:** if he want to if if perhaps i might give him the opportunity to capitalize on me it's it's not  
+**[2372.54s] English:** Right, that that uh, that he's broken. For a person like me who has trouble making eye contact,  
 **Translation:** 
 
-**[2318.86s] English:** it's not smart to do that and very often when i fight someone i can read him i see the fear in  
+**[2381.74s] English:** People, there's truth to that. I mean, there's truth to that: there's an  
 **Translation:** 
 
-**[2326.42s] English:** his eyes now i'm like i got you now he's very desperate that doesn't mean i have to  
+**[2387.18s] English:** Animal nature to us, looking away—I mean, you could see that from the way the body language and the way the  
 **Translation:** 
 
-**[2330.62s] English:** put my guard down because he's gonna he's gonna be desperate but i know i'm beating you  
+**[2392.34s] English:** Eyes move between two animals, going after them is different. There's a more stonewall tree there's a  
+**Translation:** Vocabulary: stonewall: 硬壁树
+
+**[2395.34s] English:** Going at it in the wild, when like two lions fight or  
 **Translation:** 
 
-**[2335.44s] English:** you  
+**[2400.00s] English:** To whatever fight, there's a certain beta move when you've been defeated: yes, or one thing when.  
+**Translation:** Vocabulary: defeated: 失败
+
+**[2408.42s] English:** I know that, when it happens, one of the signs is when I just like make a feint and the guy flinches.  
 **Translation:** 
 
-**[2335.82s] English:** and i know i'm beating you i'm just gonna do what i need you know if i have a chance of course i'll  
+**[2415.32s] English:** Like crazy; that's mean, he's really scared of me. It's a little bit like you're—you're—you're.  
+**Translation:** Vocabulary: feint: 假动作; flinches: 缩回去
+
+**[2419.94s] English:** Doing this, that guy flinches a little bit, or you're doing this; he's flinched — that's kind of mean, you  
 **Translation:** 
 
-**[2339.50s] English:** knock him out but i'm not gonna try to sacrifice myself to knock him out and if you do that  
-**Translation:** 
-
-**[2346.78s] English:** maybe one day you'll make a mistake and you'll get dropped and you'll you'll tell yourself i shoot i  
-**Translation:** 
-
-**[2352.30s] English:** just got brain damage maybe i'm never gonna come back the same maybe you know i i ruined my career  
-**Translation:** 
-
-**[2357.74s] English:** or you know it's a it's a very serious game that we're playing it's very dangerous in the face of  
-**Translation:** 
-
-**[2364.14s] English:** that risk  
-**Translation:** 
-
-**[2365.82s] English:** i mean uh mike tyson talked about you know when uh the opponent looks away he knows he's got him  
-**Translation:** 
-
-**[2372.54s] English:** right that that uh that he's broken for a person like me who has trouble making eye contact with  
-**Translation:** 
-
-**[2381.74s] English:** people there's there's truth to that i mean there there's truth to that that there's there's an  
-**Translation:** 
-
-**[2387.18s] English:** animal nature to us looking away i mean you could see that the way the body language the way the  
-**Translation:** 
-
-**[2392.34s] English:** eyes move between two animals going after them is different there's a more Stonewall tree there's a  
-**Translation:** Vocabulary: stonewall: 固执抵抗
-
-**[2395.34s] English:** going at it uh in in the wild when like two lions fight or  
-**Translation:** 
-
-**[2400.00s] English:** to whatever fight there's a certain beta move when you've you've been defeated yes or one thing when  
-**Translation:** 
-
-**[2408.42s] English:** i know that that when it happened one of the sign is when i just like make a feint and the guy flinch  
-**Translation:** 
-
-**[2415.32s] English:** like crazy that's mean he's really scared of me it's a little bit like you're you're you're you're  
-**Translation:** Vocabulary: feint: 虚招; flinch: 缩身
-
-**[2419.94s] English:** doing this that guy flinch a little bit or you're doing this he's flinched like that's mean you  
-**Translation:** 
-
-**[2423.86s] English:** hurt him and he doesn't want to get hurt again so he's he's really trying to run away and  
+**[2423.86s] English:** Hurt him, and he doesn't want to get hurt again, so he's really trying to run away and  
 **Translation:** Vocabulary: flinched: 缩了一下
 
-**[2429.54s] English:** not not winning the fight anymore but not losing so we're sort of surviving the the five round and  
+**[2429.54s] English:** Not not winning the fight anymore, but not losing; so we're sort of surviving the five rounds and  
 **Translation:** 
 
-**[2436.82s] English:** it's hard to to finish a guy who does doesn't want to fight a guy who's not fighting anymore to win  
+**[2436.82s] English:** It's hard to finish a guy who doesn't want to fight, a guy who's not fighting anymore, to win.  
 **Translation:** 
 
-**[2443.64s] English:** in this fighting to not lose and the proof of that if you don't believe me just look the reign of all  
+**[2443.64s] English:** In this fight to not lose, and the proof of that—if you don't believe me—just look at the reign of all.  
 **Translation:** 
 
-**[2448.38s] English:** the greatest champion in ufc i don't care who they are john jones or or uh like you could clearly  
-**Translation:** Vocabulary: jones: 琼斯; reign: 统治时期
+**[2448.38s] English:** The greatest champion in UFC? I don't care who they are, John Jones or, or, uh, like, you could clearly see...  
+**Translation:** Vocabulary: jones: 乔恩; reign: 统治
 
-**[2455.04s] English:** see that in the beginning of their reign they could you know finish a lot of their opponents  
+**[2455.04s] English:** See that in the beginning of their reign, they could, you know, finish a lot of their opponents.  
 **Translation:** 
 
-**[2458.72s] English:** same same  
+**[2458.72s] English:** Same, same.  
+**Translation:** Vocabulary: opponents: 对手
+
+**[2459.54s] English:** As I began, I was finishing a lot of my opponents, but there's a time when the entire UFC  
 **Translation:** 
 
-**[2459.54s] English:** as me in the beginning i was finishing a lot of my women but there's a time that the entire ufc  
+**[2464.44s] English:** Roster is studying you, and they found ways to perhaps not beating you, but they found a way to  
+**Translation:** Vocabulary: roster: 花名册
+
+**[2471.02s] English:** Navigate through the fight in a way that they minimize the damage, you know what I mean? So it's  
 **Translation:** 
 
-**[2464.44s] English:** roster is studying you and they found ways to perhaps not beating you but they found a way to  
-**Translation:** Vocabulary: roster: 全部名单
-
-**[2471.02s] English:** navigate through the the fight in a way that they minimize the damage you know what i mean so it's  
+**[2477.58s] English:** A big difference between fighting to win and fighting to not lose, you said that there's a  
 **Translation:** 
 
-**[2477.58s] English:** a big difference between fighting to win and fighting to not lose you said that there's a  
-**Translation:** Vocabulary: navigate: 航行方式
-
-**[2483.56s] English:** difference between a fighter and a martial artist so now we were talking about fighting  
+**[2483.56s] English:** The difference between a fighter and a martial artist, so now we were talking about fighting.  
 **Translation:** 
 
-**[2488.06s] English:** you're considered by many to  
+**[2488.06s] English:** You're considered by many to  
+**Translation:** Vocabulary: martial: 军事的
+
+**[2489.54s] English:** Be one of the greatest fighters of all time, but you've said that there's a difference between  
 **Translation:** 
 
-**[2489.54s] English:** be one of the greatest fighters of all time but you've said that there's a difference between  
+**[2495.06s] English:** A fighter and a martial artist: A fighter is training for a purpose; he has a fight. I'm...  
 **Translation:** 
 
-**[2495.06s] English:** a fighter and a martial artist a fighter is training for a purpose he has a fight i'm i'm a  
-**Translation:** Vocabulary: martial: 武术的
-
-**[2502.82s] English:** martial artist i don't train for a fight i train for myself i'm training all the time my goal is  
+**[2502.82s] English:** Martial artist: I don't train for a fight; I train for myself. I'm training all the time. My goal is...  
 **Translation:** 
 
-**[2508.74s] English:** perfection but i will never reach perfection so what to you does it mean to be a martial artist  
+**[2508.74s] English:** Perfection, but I will never reach perfection. So, what does it mean to be a martial artist to you?  
 **Translation:** 
 
-**[2516.52s] English:** martial artist is because that lifestyle  
+**[2516.52s] English:** A martial artist is because that lifestyle.  
 **Translation:** 
 
-**[2519.54s] English:** wow  
+**[2519.54s] English:** Wow!  
 **Translation:** 
 
-**[2520.00s] English:** that i have has been introduced to me and the seed has been planted to my mind a long  
+**[2520.00s] English:** That I have been introduced to and the seed has been planted in my mind for a long time.  
 **Translation:** 
 
-**[2526.24s] English:** long time ago by by my father i um i do not train because i have a fight i will always train even  
+**[2526.24s] English:** A long time ago, by my father, I was told that I should not train unless I had a fight, but I will always train even if I don't.  
 **Translation:** 
 
-**[2536.42s] English:** now it kind of amused me that to see that a lot of people because i'm still training because i  
+**[2536.42s] English:** Now, it kind of amused me that I see a lot of people because I'm still training.  
 **Translation:** 
 
-**[2544.10s] English:** love the science of fighting i do not like to fight but i love the science of it and i will  
+**[2544.10s] English:** Love the science of fighting; I do not like to fight, but I love the science of it, and I will.  
 **Translation:** 
 
-**[2548.58s] English:** always do it as long as i can do it people think i'm gonna make a comeback and everything i'm  
+**[2548.58s] English:** Always do it as long as I can do it. People think I'm gonna make a comeback, and everything I'm  
 **Translation:** 
 
-**[2553.68s] English:** i'm about to get to have 40 years old you know like it's i'm you know like  
+**[2553.68s] English:** I'm about to turn forty years old, you know? Like, I'm, you know, like  
 **Translation:** Vocabulary: comeback: 东山再起
 
-**[2559.94s] English:** well i don't want to fight in a cage at 40 years old i mean some people have done it  
+**[2559.94s] English:** Well, I don't want to fight in a cage at 40 years old. I mean, some people have done it.  
 **Translation:** 
 
-**[2566.20s] English:** they did it very well but i i'm not one of them i'm i feel a little bit to me that  
+**[2566.20s] English:** They did it very well, but I'm not one of them. I feel a little bit that way to me.  
 **Translation:** 
 
-**[2570.92s] English:** and you never say never i feel like to me like it's a little like a kid that you play with the  
+**[2570.92s] English:** And you never say never. I feel like it's a little like playing with a kid.  
 **Translation:** 
 
-**[2578.02s] English:** strain when he's  
+**[2578.02s] English:** Strain when he's  
+**Translation:** Vocabulary: strain: 拉伸
+
+**[2578.58s] English:** Young, like, then he's five, six, seven, or eight years old, and then I'm  
 **Translation:** 
 
-**[2578.58s] English:** young like then he's five years old six years old seven years old eight years old and then i'm  
+**[2583.98s] English:** Always, I like what the hell I'm doing here, and I'm too old for this. Like, I've done it.  
 **Translation:** 
 
-**[2583.98s] English:** always like what the hell i'm doing here and i'm too old for this like like it's i i i've done it  
+**[2591.46s] English:** You know, and I got out of it on top, and I'm healthy, which is the most important.  
 **Translation:** 
 
-**[2591.46s] English:** you know and and and and i got out of it on top and i'm i'm healthy which is the most important  
+**[2598.86s] English:** Thing right now, I'm touching wood, and I'm feeling wealthy. I beat the game — you know what I mean?  
+**Translation:** Vocabulary: wealthy: 富有
+
+**[2604.50s] English:** A way, like I—without being cocky—but I did it, and I wish more people would too.  
 **Translation:** 
 
-**[2598.86s] English:** thing right now i'm touching wood and i'm i'm wealthy i beat the game you know what i mean in  
+**[2608.58s] English:** More fighters could do the same thing, I wish. But it's unfortunate because a lot of them they stay.  
+**Translation:** Vocabulary: cocky: 自以为是的
+
+**[2615.42s] English:** There, and hang out for too long, and they get badly hurt—they get beaten and broken.  
 **Translation:** 
 
-**[2604.50s] English:** a way like i that's not to be cocky but i did it and and i wish more  
+**[2624.10s] English:** You know, and they often end up broke as well because the lifestyle you have when you're a pro athlete.  
+**Translation:** Vocabulary: beaten: 被打
+
+**[2629.98s] English:** It's crazy, you know—it's unbelievable. However, everything that goes up in life goes down.  
 **Translation:** 
 
-**[2608.58s] English:** more fighters could do the same thing i wish but it's unfortunate because a lot of them they stay  
-**Translation:** Vocabulary: cocky: 自以为是
-
-**[2615.42s] English:** there and hang out for too long and and they get badly hurt they get uh beaten and and and broken  
+**[2636.58s] English:** And you need to plan your future.  
 **Translation:** 
 
-**[2624.10s] English:** you know and they finish broke as well because the lifestyle you have when you're a pro athlete  
+**[2638.58s] English:** You know, so  
 **Translation:** 
 
-**[2629.98s] English:** it's crazy you know it's it's it's unbelievable however everything that goes up in life goes down  
+**[2640.00s] English:** So, for me, if some guys have the same mentality as me and they're watching us right now, I would say: If you do it because you're just good at it, you like the money, the advantage, and the freedom that it gives you, but you don't necessarily like to fight.  
 **Translation:** 
 
-**[2636.58s] English:** and you need to plan your future  
-**Translation:** 
-
-**[2638.58s] English:** you know so  
-**Translation:** 
-
-**[2640.00s] English:** So for me, if some guys have the same mentality as me and they're watching us right now, I would say if you do it because you're just good at it, you like the money, the advantage, the freedom that it gives you, but you don't necessarily like to fight.  
-**Translation:** 
-
-**[2654.40s] English:** When you're done, you finish on top, you know, go cash out and get out of here.  
+**[2654.40s] English:** When you're done, you finish on top, you know. Go cash out and get out of here.  
 **Translation:** 
 
 **[2659.72s] English:** Walk away.  
@@ -1507,16 +1508,16 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[2660.44s] English:** That's really hard to do.  
 **Translation:** 
 
-**[2661.96s] English:** However, Alex, it's not everybody that does it for that reason.  
+**[2661.96s] English:** However, Alex, it's not everybody who does it for that reason.  
 **Translation:** 
 
-**[2665.30s] English:** Some people generally love to fight, love to compete.  
+**[2665.30s] English:** Some people generally love to fight and compete.  
 **Translation:** 
 
 **[2668.20s] English:** And so they do it because they love it, you know, or they do it because of the money.  
 **Translation:** 
 
-**[2672.36s] English:** But if you don't love it, if you don't like to fight because it's very stressful and you don't enjoy it, you enjoy the training perhaps, but you don't like to fight.  
+**[2672.36s] English:** But if you don't love it, if you don't like to fight because it's very stressful and you don't enjoy it — you might enjoy the training, perhaps, but you don't like to fight.  
 **Translation:** 
 
 **[2679.70s] English:** You do it because it's part of what you need to do in order to keep that lifestyle.  
@@ -1525,7 +1526,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[2683.82s] English:** Yeah.  
 **Translation:** 
 
-**[2684.18s] English:** And, you know, like you don't need the money.  
+**[2684.18s] English:** And, you know, like, you don't need the money.  
 **Translation:** 
 
 **[2687.94s] English:** Get out of here, man.  
@@ -1543,13 +1544,13 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[2697.96s] English:** And.  
 **Translation:** 
 
-**[2698.20s] English:** It's a, it's a, it's a sad business.  
+**[2698.20s] English:** It's a sad business.  
 **Translation:** 
 
 **[2701.52s] English:** You know what I mean?  
 **Translation:** 
 
-**[2702.10s] English:** I, uh, it's like a, a lot of, uh, what, one of the place where is the, the more, the more, one of the most happiest place for me to go.  
+**[2702.10s] English:** I, uh, it's like a lot of places where, you know, one of the happiest places for me to go, uh, is there.  
 **Translation:** 
 
 **[2712.78s] English:** And the most saddest place for me to go.  
@@ -1558,170 +1559,170 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[2715.24s] English:** It's in the gym.  
 **Translation:** 
 
-**[2716.06s] English:** It's a tri-star in Montreal because it's one of the happiest place for me to go because I can go train and do what I love to do.  
+**[2716.06s] English:** It's a tri-star in Montreal, because it's one of the happiest places for me to go, because I can train and do what I love to do.  
 **Translation:** Vocabulary: montreal: 蒙特利尔
 
-**[2724.72s] English:** But it's also a very sad place for me because after when I'm about.  
+**[2724.72s] English:** But it's also a very sad place for me because after I'm about.  
 **Translation:** 
 
-**[2728.20s] English:** To leave, there's always a bunch of young kid that comes or, or guys that are around 30, 33 years old.  
+**[2728.20s] English:** To leave, there's always a bunch of young kids that come, or guys who are around 30 or 33 years old.  
 **Translation:** 
 
-**[2735.40s] English:** And they comes to me and say, Hey, George, you have some advice for me.  
+**[2735.40s] English:** And they come to me and say, "Hey, George, you have some advice for me.  
 **Translation:** 
 
-**[2738.94s] English:** And I look at them and if they're my friend, they're real close friend of mine.  
+**[2738.94s] English:** And I look at them, and if they're my friend, they're a real close friend of mine.  
 **Translation:** 
 
-**[2744.16s] English:** I'll tell them the truth in their face and I've done it many times and it was not well received, but if they're not my friend, I have to, you know, you know, they, it's always an advice about fighting.  
+**[2744.16s] English:** I'll tell them the truth in their face, and I've done it many times, but it wasn't well received. But if they're not my friends, I have to, you know—advice about fighting, always.  
 **Translation:** 
 
-**[2753.60s] English:** Then I answer their, their question.  
+**[2753.60s] English:** Then I answer their question.  
 **Translation:** 
 
-**[2755.32s] English:** It's my pleasure, but the truth, if they.  
+**[2755.32s] English:** It's my pleasure, but the truth is, if they.  
 **Translation:** 
 
 **[2757.82s] English:** They want me to tell the truth.  
 **Translation:** 
 
-**[2760.00s] English:** the big majority of them i would tell them i said listen man you're in uh maybe three like an uh on  
+**[2760.00s] English:** The big majority of them, I would tell them, "I said, listen, man; you're in, maybe, three, like, an.  
 **Translation:** 
 
-**[2768.20s] English:** a losing street of three fight you're 30 33 years old you know i think you should think about doing  
+**[2768.20s] English:** A losing streak of three fights. You're 30, and you're 33. Years old. I think you should think about doing something different.  
+**Translation:** Vocabulary: streak: 连败
+
+**[2776.06s] English:** Something else in your life, you know I have other goals, you know, because you're not gonna make it.  
 **Translation:** 
 
-**[2776.06s] English:** something else in your life you know i have other goals you know because you're not gonna make it  
+**[2781.12s] English:** And you know, I've seen that movie before, and it's a very sad ending. I'm sorry to tell you that.  
 **Translation:** 
 
-**[2781.12s] English:** and you know i've seen that movie before and it's a very sad ending and i'm i'm sad to tell you the  
+**[2788.46s] English:** Truth, because you're not gonna make the money; just choose some, but if I tell them that they're  
 **Translation:** 
 
-**[2788.46s] English:** truth because you're not gonna make the money just choose some but if i tell them that they're  
+**[2793.92s] English:** Gonna be angry at me because they're gonna be like, "Oh, you made it, and you think I can't make it.  
 **Translation:** 
 
-**[2793.92s] English:** gonna be angry at me because they're gonna be like oh you you make it and you think i cannot make it  
-**Translation:** Vocabulary: cannot: 不能
-
-**[2797.72s] English:** so it's kind of they're gonna think i'm cocky but i was lucky to make it you know what that's the  
+**[2797.72s] English:** So, it's kind of like they're gonna think I'm cocky, but I was just lucky to make it. You know what? That's the  
 **Translation:** 
 
-**[2802.60s] English:** start we're all aligned but at one point you need to be able to to have a plan b you know like like  
+**[2802.60s] English:** Start, we're all aligned, but at one point, you need to be able to have a Plan B, you know? Like,  
 **Translation:** Vocabulary: aligned: 协调一致; cocky: 自以为是
 
-**[2808.50s] English:** some parent they come to see me with their kids hey this is the future world champion and then  
+**[2808.50s] English:** Some parents come to see me with their kids, saying, "Hey, this is the future world champion," and then  
 **Translation:** 
 
-**[2814.82s] English:** and uh ufc and what advice would you give him i always  
+**[2814.82s] English:** And, uh, UFC: and what advice would you give him? I always  
 **Translation:** 
 
-**[2818.46s] English:** tell the same thing and it does not make everybody happy when i said i said i go to the case say  
+**[2818.46s] English:** Tell the same thing, and it does not make everybody happy when I say, "I go to the case.  
 **Translation:** 
 
-**[2823.80s] English:** are you good at school say stay at school school is very important for you stay educated yeah do  
+**[2823.80s] English:** Are you good at school? Stay at school; it's very important for you to stay educated, yeah.  
+**Translation:** Vocabulary: educated: 受过教育的
+
+**[2831.16s] English:** Boxing and martial arts are great sports for staying in shape, but don't put all your eggs in the same basket.  
 **Translation:** 
 
-**[2831.16s] English:** boxing martial arts it's a great sport stay in shape but don't put your eggs all in the same  
-**Translation:** 
-
-**[2836.16s] English:** basket and the parents sometimes are angry when i'm not angry but i can see in their eyes they're  
+**[2836.16s] English:** Basket, and the parents sometimes are angry when I'm not angry, but I can see in their eyes they're  
 **Translation:** Vocabulary: martial: 武术
 
-**[2840.52s] English:** like they kind of surprised and it's not because i made it that i will  
+**[2840.52s] English:** Like they kind of surprised me, and it's not because I made it that I will.  
 **Translation:** 
 
-**[2848.46s] English:** tell their kid to follow the same path that i did i went to school too i i've studied i i dropped  
+**[2848.46s] English:** Tell their kid to follow the same path that I did. I went to school, too. I've studied a lot, but I also dropped out for a while.  
 **Translation:** 
 
-**[2855.02s] English:** of school when i had my first world championship fight against matt hughes but before that i was  
+**[2855.02s] English:** Of school, when I had my first world championship fight against Matt Hughes, but before that, I was  
 **Translation:** 
 
-**[2860.22s] English:** school so i had another you know uh another way to go if things would not have gone the same the  
+**[2860.22s] English:** School, so I had another, you know, uh, way to go if things wouldn't have gone the same.  
+**Translation:** Vocabulary: hughes: 休斯
+
+**[2867.42s] English:** The way I wanted, but the problem is that it's not only about boxing in MMA; I'm talking  
 **Translation:** 
 
-**[2867.42s] English:** the way i wanted but the problem and i'm saying that it's not only about boxing in mma i'm talking  
+**[2873.18s] English:** About hockey, basketball, and baseball—same, same thing? Maybe it's the one-on-one.  
 **Translation:** 
 
-**[2873.18s] English:** about hockey basketball baseball same same thing maybe it's the one on the hundred  
+**[2878.46s] English:** Thousand that make it, and I'm  
 **Translation:** 
 
-**[2878.46s] English:** thousand that make it and i'm  
+**[2880.00s] English:** Saying, I'm saying that makes it what I'm saying: I make it that's mean they can retire and have.  
 **Translation:** 
 
-**[2880.00s] English:** saying i'm saying that make it what i'm saying i make it that's mean they can retire and have  
+**[2885.12s] English:** Enough money for the rest of his life, because it's a sad story; the only people who heard about it.  
 **Translation:** 
 
-**[2885.12s] English:** enough money for the rest of his life because it's a sad story the only people only heard about  
+**[2890.46s] English:** The people who make it, but a lot of fighters, even UFC champions and boxing champions, even in  
 **Translation:** 
 
-**[2890.46s] English:** the people that makes it but a lot of fighter even a ufc champion in boxing champion even in  
+**[2897.64s] English:** Football, basketball— I don't, I don't, I don't care about the big names when they retire; they have zero.  
 **Translation:** 
 
-**[2897.64s] English:** football basketball i don't i don't i don't care the big names when they retire they have zero  
+**[2901.66s] English:** They're bankrupt, my friend, and it's a very sad, sad story and a sad reality that most people are.  
 **Translation:** 
 
-**[2901.66s] English:** they're bankrupt my friend and it's a very sad sad story and a sad reality that most people are  
+**[2908.26s] English:** Not really aware of, but having other paths in life can actually also increase your chances.  
 **Translation:** 
 
-**[2908.26s] English:** not that aware of but having other paths in life actually can also increase the chance of you  
+**[2914.04s] English:** Dominating and like reaching the highest peak, uh, in your main thing, I mean Jimmy Pedro—I don't know.  
+**Translation:** Vocabulary: dominating: 占据主导
+
+**[2920.82s] English:** If you know who that is, as a judo coach in America, he was always saying that to all of his students.  
 **Translation:** 
 
-**[2914.04s] English:** dominating and like reaching the highest peak uh in your main thing i mean jimmy pedro i don't know  
-**Translation:** Vocabulary: dominating: 占据优势
+**[2927.40s] English:** Athletes is to make sure that you go, he has a lot of, you know, Kayla Harrison, two-time Olympic gold.  
+**Translation:** Vocabulary: harrison: 哈里森; kayla: 凯拉
 
-**[2920.82s] English:** if you know who that is as a judo coach in uh in america he was uh he says that to all of his  
+**[2932.32s] English:** Medalist; he has a lot of Olympic medalists, but basically, there's something about going to school.  
 **Translation:** 
 
-**[2927.40s] English:** athletes is to make sure that you go he has a lot of you know kayla harrison two-time olympic gold  
-**Translation:** Vocabulary: kayla: 哈里森
-
-**[2932.32s] English:** medalist he has a lot of uh olympic medalists but basically there's something about going to school  
+**[2937.30s] English:** Like having an  
 **Translation:** 
 
-**[2937.30s] English:** like having an  
+**[2938.06s] English:** Forget school—any other avenue in life that gives you the freedom to go all out in your main.  
 **Translation:** 
 
-**[2938.06s] English:** forget school any other avenue in life that gives you the freedom to go all out in your main  
+**[2945.72s] English:** Like that, you know, you're doing it for the right reasons; you're not stuck. It clears the mind.  
 **Translation:** 
 
-**[2945.72s] English:** like that you know you're doing it for the right reasons you're not stuck it clears the mind to  
+**[2952.40s] English:** Where you're free to be the best in the world, yes, as opposed to having to, I mean.  
 **Translation:** 
 
-**[2952.40s] English:** where you're free to be the best in the world yes as opposed to kind of you have to i mean  
+**[2958.82s] English:** Different people are motivated by different things, so sometimes some people like  
+**Translation:** Vocabulary: motivated: 受到激励的
+
+**[2962.70s] English:** Having their backs to the wall, and that's the only option they have.  
 **Translation:** 
 
-**[2958.82s] English:** different people are motivated by different things so sometimes some people like  
+**[2966.92s] English:** Most people  
 **Translation:** 
 
-**[2962.70s] English:** having their back to the wall and that's the only option they have but  
+**[2968.06s] English:** I think Excel, when you have other options, is a distraction, and I think it's important to  
 **Translation:** 
 
-**[2966.92s] English:** most people  
+**[2973.26s] English:** Have a distraction, uh. When you say that, I think about one of my coaches, John Danaher; he put his  
+**Translation:** Vocabulary: danaher: 丹纳her; distraction: 分心之事
+
+**[2979.74s] English:** Academic background, experience, and jujitsu—those are the reasons why he's the best teacher for me.  
 **Translation:** 
 
-**[2968.06s] English:** i think excel when you have other options i think it's a distraction and i think it's important to  
-**Translation:** 
-
-**[2973.26s] English:** have a distraction uh when you say that i think about one of my coach john danaher he put his  
-**Translation:** Vocabulary: danaher: 丹纳赫; distraction: 分散注意力
-
-**[2979.74s] English:** academic background experience into jujitsu and that for me that's why he's the best teacher i  
-**Translation:** 
-
-**[2985.90s] English:** ever had he's incredible he start teaching me when i even couldn't speak much english at the time and  
+**[2985.90s] English:** Ever had he's incredible. He started teaching me when I even couldn't speak much English at the time, and  
 **Translation:** Vocabulary: jujitsu: 柔道
 
-**[2995.08s] English:** i was able to communicate and understand  
+**[2995.08s] English:** I was able to communicate and understand.  
 **Translation:** 
 
-**[2998.06s] English:** you know that's how good he is  
+**[2998.06s] English:** You know, that's how good he is.  
 **Translation:** 
 
-**[3000.00s] English:** But I truly believe that most of athletes, especially in sport like mixed martial arts, train way too much.  
+**[3000.00s] English:** But I truly believe that most athletes, especially in sports like mixed martial arts, train way too much.  
 **Translation:** 
 
-**[3007.98s] English:** If I could go back and talk to a young George, I would tell him, say, you do way too much volume.  
-**Translation:** 
+**[3007.98s] English:** If I could go back and talk to a young George, I would tell him, "You do way too much volume.  
+**Translation:** Vocabulary: martial: 武术的
 
 **[3016.26s] English:** You train way too hard.  
 **Translation:** 
@@ -1735,13 +1736,13 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[3020.58s] English:** And I think sometimes we underestimate the benefit of recuperation.  
 **Translation:** Vocabulary: underestimate: 低估
 
-**[3026.26s] English:** Because I think we assimilate the information that we learn during a training when we recuperate and not during the training itself.  
+**[3026.26s] English:** Because I think we assimilate the information that we learn during a training when we recuperate, and not during the training itself.  
 **Translation:** 
 
-**[3037.72s] English:** And this whole mentality of harder, heavier, you know, like it's good for someone who's lazy.  
+**[3037.72s] English:** And this whole mentality of "harder, heavier," you know, like it's good for someone who's lazy.  
 **Translation:** Vocabulary: assimilate: 吸收
 
-**[3046.78s] English:** But if you're an elite athlete, most of the time, you know, like you're not always, but most of the time it's because you're not lazy.  
+**[3046.78s] English:** But if you're an elite athlete, most of the time, you know, it's because you're not lazy.  
 **Translation:** 
 
 **[3054.28s] English:** And a lot of guys, sometimes.  
@@ -1750,16 +1751,16 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[3056.26s] English:** They're elite athletes, champions.  
 **Translation:** 
 
-**[3059.46s] English:** And you hear people say, oh, I can't believe he's very gifted, but he doesn't work.  
+**[3059.46s] English:** And you hear people say, "Oh, I can't believe he's very gifted, but he doesn't work.  
 **Translation:** 
 
-**[3064.94s] English:** But perhaps it's not really because perhaps it's because we don't understand.  
+**[3064.94s] English:** But perhaps it's not really because—it's because we don't understand.  
 **Translation:** 
 
 **[3069.42s] English:** Perhaps he's doing the right thing.  
 **Translation:** 
 
-**[3070.92s] English:** And it's us who's working too much and too hard.  
+**[3070.92s] English:** And it's us who are working too much and too hard.  
 **Translation:** 
 
 **[3074.84s] English:** That's what I think.  
@@ -1775,7 +1776,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **Translation:** 
 
 **[3083.68s] English:** He's going to be a future star.  
-**Translation:** 
+**Translation:** Vocabulary: mansour: 马努尔
 
 **[3086.26s] English:** He's an incredible fighter.  
 **Translation:** 
@@ -1783,7 +1784,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[3087.92s] English:** He trained once a day.  
 **Translation:** 
 
-**[3090.88s] English:** And he asked me some time advice when he came to Montreal.  
+**[3090.88s] English:** And he asked me for some time advice when he came to Montreal.  
 **Translation:** 
 
 **[3093.14s] English:** He's from France.  
@@ -1795,17 +1796,17 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[3094.96s] English:** He's very good.  
 **Translation:** 
 
-**[3097.54s] English:** And I saw him in the morning at TriStar.  
+**[3097.54s] English:** And I saw him in the morning at Tri-Star.  
 **Translation:** 
 
-**[3101.18s] English:** And I said, OK, I'll see you perhaps later in the other trainings.  
+**[3101.18s] English:** And I said, "OK, I'll see you perhaps later in the other trainings.  
 **Translation:** 
 
 **[3103.76s] English:** Oh, no, I only train once a day.  
 **Translation:** 
 
-**[3106.28s] English:** And he kind of wait for me to give him like, like, like not not an approval, but like to see how I react or, you know,  
-**Translation:** 
+**[3106.28s] English:** And he kind of waited for me to give him, like, not an approval, but to see how I reacted, or you know,  
+**Translation:** Vocabulary: reacted: 反应
 
 **[3115.92s] English:** I don't know.  
 **Translation:** 
@@ -1813,529 +1814,529 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[3116.26s] English:** It was kind of a strange feeling, but I told myself at that point.  
 **Translation:** 
 
-**[3120.00s] English:** kind of i had an awakening and i and i told myself man maybe he's doing the right thing  
+**[3120.00s] English:** Kind of, I had an awakening, and I told myself, "Man, maybe he's doing the right thing.  
 **Translation:** 
 
-**[3127.74s] English:** because a lot a lot of people would say for example oh that's a lazy way of doing it  
-**Translation:** Vocabulary: awakening: 顿悟
+**[3127.74s] English:** Because a lot of people would say, for example, "oh, that's a lazy way of doing it.  
+**Translation:** Vocabulary: awakening: 觉悟
 
-**[3132.64s] English:** but perhaps it's the best way to do it i'm not saying training once a day is the the best way  
+**[3132.64s] English:** But perhaps it's the best way to do it; I'm not saying that training once a day is the best way.  
 **Translation:** 
 
-**[3138.22s] English:** to do it that's what i'm saying i'm saying that everybody's different but for him it works  
+**[3138.22s] English:** To do it, that's what I'm saying. I'm saying that everybody's different, but for him, it works.  
 **Translation:** 
 
-**[3144.52s] English:** beautifully and i wouldn't change anything you know like if i would be him because he's he's  
+**[3144.52s] English:** Beautifully, and I wouldn't change anything, you know—like if I were him, because he's he's  
 **Translation:** 
 
-**[3151.10s] English:** improving like crazy yeah and ultimately the bigger picture there is to do something that  
+**[3151.10s] English:** Improving like crazy, yeah, and ultimately, the bigger picture is to do something that.  
 **Translation:** 
 
-**[3157.84s] English:** everyone else's uh says is stupid it's like the fasting thing that that a lot of people would say  
+**[3157.84s] English:** Everyone else's, uh, says it's stupid. It's like the fasting thing — that a lot of people would say.  
 **Translation:** 
 
-**[3164.00s] English:** a lot of nutritional experts would say that that's that's a dumb way you know if you want to  
-**Translation:** Vocabulary: nutritional: 营养的
-
-**[3169.14s] English:** be an mma fighter you should be eating like many times a day you should be starting every day with  
+**[3164.00s] English:** A lot of nutritional experts would say that that's a dumb way, you know, if you want to.  
 **Translation:** 
 
-**[3174.14s] English:** oatmeal  
+**[3169.14s] English:** Be an MMA fighter, and you should be eating several times a day. You should be starting every day with  
+**Translation:** 
+
+**[3174.14s] English:** Oatmeal.  
 **Translation:** Vocabulary: oatmeal: 燕麦粥
 
-**[3174.94s] English:** you should be carving up constantly but that's not necessarily true for everybody  
+**[3174.94s] English:** You should be carving up constantly, but that's not necessarily true for everyone.  
 **Translation:** 
 
-**[3179.42s] English:** and it's possible i'm sure there's actually now a few mma fighters that are carnivore only  
-**Translation:** Vocabulary: carnivore: 肉食者
+**[3179.42s] English:** And it's possible; I'm sure there are actually now a few MMA fighters who are carnivore-only.  
+**Translation:** Vocabulary: carving: 切割
 
-**[3184.10s] English:** it's possible i i used to eat right before training and i it didn't bother me however now  
+**[3184.10s] English:** It's possible I used to eat right before training, and it didn't bother me, however, now...  
 **Translation:** 
 
-**[3192.74s] English:** i my first training that i do normally in average around noon 11 a.m i'm uh i'm i haven't  
+**[3192.74s] English:** I usually do my first training around noon, at 11:00 AM. I haven't...  
 **Translation:** 
 
-**[3203.98s] English:** eaten anything  
+**[3203.98s] English:** Eaten anything?  
 **Translation:** 
 
-**[3204.52s] English:** when i do my first training and it feels to me that i'm much i'm much more clear i'm much more  
+**[3204.52s] English:** When I do my first training, and it feels to me that I'm much clearer, I'm much more focused.  
 **Translation:** 
 
-**[3211.16s] English:** clear in my mind i'm much more creative i feel better yeah yeah it's a big difference i just  
+**[3211.16s] English:** Clear in my mind, I'm much more creative. I feel better—yeah, yeah, it's a big difference. I just  
 **Translation:** 
 
-**[3217.26s] English:** wish i would have known that before you know well it's fascinating the role of the mind in all of  
+**[3217.26s] English:** I wish I would have known that before. You know, it's fascinating the role of the mind in all of this.  
 **Translation:** 
 
-**[3221.60s] English:** this how important is it for your mind to be clear to really think deeply i there's a there's a judoka  
+**[3221.60s] English:** This is how important it is for your mind to be clear to really think deeply. I there's a judoka.  
 **Translation:** 
 
-**[3231.54s] English:** american named travis stevens i remember he said that he was a judoka and he was a judoka and he was a  
-**Translation:** Vocabulary: travis: 例子
-
-**[3234.50s] English:** said something that uh the right kind of practice is  
+**[3231.54s] English:** American named Travis Stevens, I remember he said that he was a judoka, and he was a  
 **Translation:** 
 
-**[3240.00s] English:** when your mind is exhausted at the end of it that you were constantly thinking through things  
+**[3234.50s] English:** Said something that, uh, the right kind of practice is.  
 **Translation:** 
 
-**[3246.68s] English:** like your body shouldn't be exhausted first your mind should be exhausted first  
+**[3240.00s] English:** When your mind is exhausted at the end of it, that you were constantly thinking through things.  
 **Translation:** 
 
-**[3251.24s] English:** it's really fascinating so people think about training hard you know a successful practice  
+**[3246.68s] English:** Like your mind shouldn't be exhausted first; your body should be exhausted first.  
 **Translation:** 
 
-**[3258.08s] English:** is where you walk away just overwhelmed how much you have to think it's fascinating framing of  
+**[3251.24s] English:** It's really fascinating, so people think about training hard—you know, a successful practice.  
 **Translation:** 
 
-**[3265.46s] English:** of a successful practice it's true travis steven was one of my main training partner when i got  
-**Translation:** Vocabulary: steven: 主要训练伙伴
-
-**[3271.82s] English:** ready for my fight with nick diaz and carlos condit he drove every friday from i believe  
+**[3258.08s] English:** Is where you walk away, just overwhelmed by how much you have to think about. It's fascinating framing of.  
 **Translation:** 
 
-**[3283.18s] English:** boston it's like a six hour drive drive to the gym in montreal train with us an hour and a half  
-**Translation:** Vocabulary: carlos: 卡洛斯; condit: 康迪特; montreal: 蒙特利尔
+**[3265.46s] English:** Of a successful practice, it's true that Travis Steven was one of my main training partners when I got  
+**Translation:** Vocabulary: framing: 构架
 
-**[3293.70s] English:** drive back  
+**[3271.82s] English:** Ready for my fight with Nick Diaz and Carlos Condit, he drove every Friday from I believe.  
 **Translation:** 
 
-**[3295.46s] English:** he's got such an amazing discipline i was so happy for him when he won the medal at the  
+**[3283.18s] English:** Boston? It's like a six-hour drive. Drive to the gym in Montreal? Train with us for an hour and a half.  
+**Translation:** Vocabulary: montreal: 蒙特利尔
+
+**[3293.70s] English:** Drive back.  
 **Translation:** 
 
-**[3304.84s] English:** game man what a well-deserved uh you know uh accomplishment it's unbelievable it paid off  
+**[3295.46s] English:** He's got such amazing discipline; I was so happy for him when he won the medal at the  
+**Translation:** Vocabulary: discipline: 自律
+
+**[3304.84s] English:** Game Man, what a well-deserved, uh, accomplishment! It's unbelievable; it really paid off.  
 **Translation:** 
 
-**[3314.38s] English:** you know i'm i was so happy for him and every time we we got to the the gym he was waiting for me in  
+**[3314.38s] English:** You know, I was so happy for him, and every time we got to the gym, he was waiting for me there.  
+**Translation:** Vocabulary: accomplishment: 成就
+
+**[3321.64s] English:** In the kneeling position, like a soldier.  
 **Translation:** 
 
-**[3321.64s] English:** in in the kneeling position like a soldier  
-**Translation:** 
-
-**[3325.46s] English:** i was like my god this guy he's made of steel you know and and after training i always offer  
+**[3325.46s] English:** I was like, "My God, this guy is made of steel!" You know, and after training, I always offer.  
 **Translation:** Vocabulary: kneeling: 跪着
 
-**[3333.00s] English:** offer him i say hey travis i know you you like to train with that because in montreal they have  
+**[3333.00s] English:** Offer him, I say, "Hey Travis, I know you like to train with that because in Montreal they have...  
 **Translation:** 
 
-**[3337.22s] English:** very good judo team nicholas gill and all those guys and i say if you want to stay i'll get you  
+**[3337.22s] English:** Very good Judo team, Nicholas Gill, and all those guys. I say, if you want to stay, I'll get you.  
+**Translation:** Vocabulary: nicholas: 尼古拉斯; travis: 特拉维斯
+
+**[3343.36s] English:** The hotel, you know, like everything you want—it's like, no, no, I've got to go back; I have another.  
 **Translation:** 
 
-**[3343.36s] English:** the hotel you know like every anything you want it's like no no i gotta go back i have another  
+**[3347.20s] English:** Training later, I'm like, not only that he trained with us; you have to go back because he had.  
 **Translation:** 
 
-**[3347.20s] English:** training later i'm like not only that he trained with with us you have to go back because he had  
+**[3352.22s] English:** Another training, I'm like, "This is insane!  
 **Translation:** 
 
-**[3352.22s] English:** another training i'm like this is insane  
-**Translation:** 
-
-**[3355.46s] English:** he's gone through a huge number of injuries so he's also an innovator because  
+**[3355.46s] English:** He's gone through a huge number of injuries, so he's also an innovator because  
 **Translation:** Vocabulary: innovator: 创新者
 
-**[3360.00s] English:** i mean it's difficult to say but for american judo there's not many high level judoka so if  
+**[3360.00s] English:** I mean, it's difficult to say, but for American judo, there aren't many high-level judoka, so if  
 **Translation:** 
 
-**[3367.24s] English:** you want to be the like fight with the best in the world you're you have to be alone it's a lonely  
+**[3367.24s] English:** You want to be like fighting with the best in the world? You're going to have to be alone; it's a lonely path.  
 **Translation:** 
 
-**[3373.38s] English:** journey actually it's kind of sad uh it's much easier to be in japan where everybody's a killer  
+**[3373.38s] English:** Journey: Actually, it's kind of sad. It's much easier to be in Japan where everybody's a killer.  
 **Translation:** 
 
-**[3379.48s] English:** when you're alone at it it's uh it's a difficult journey and you know it's it's funny we talked  
+**[3379.48s] English:** When you're alone with it, it's a difficult journey, and you know, it's funny—we talked.  
 **Translation:** 
 
-**[3385.30s] English:** about kind of there's some sports where a mistake is um that's it you know you can't recover from a  
+**[3385.30s] English:** About kind of sports where a mistake is, um, you know, that's it; you can't recover from a.  
 **Translation:** 
 
-**[3393.82s] English:** mistake i think judo oftentimes is one of those sports and added on top of that is um the olympics  
-**Translation:** Vocabulary: oftentimes: 经常
-
-**[3402.38s] English:** only every four years and travis's story he's the reason i uh when i saw him in 2008 is i  
+**[3393.82s] English:** Mistake, I think Judo is often one of those sports, and added to that is the Olympics.  
 **Translation:** 
 
-**[3409.68s] English:** i started martial arts uh i switched from like wrestling and street fighting  
+**[3402.38s] English:** Only every four years, and Travis's story—he's the reason I, uh, when I saw him in 2008, is I  
+**Translation:** 
+
+**[3409.68s] English:** I started martial arts, uh, I switched from like wrestling and street fighting.  
 **Translation:** Vocabulary: martial: 武术; wrestling: 摔跤
 
-**[3414.56s] English:** you  
+**[3414.56s] English:** You.  
 **Translation:** 
 
-**[3415.30s] English:** to doing jiu-jitsu and judo uh and i just saw so much guts and the in 2000 i might be messing up  
+**[3415.30s] English:** To do jiujitsu and judo, and I just saw so much guts. In 2000, I might be messing up.  
+**Translation:** Vocabulary: jiujitsu: 柔道; messing: 搞砸
+
+**[3423.16s] English:** The years here, but in the next Olympics, he fought and he lost on just the referee's call, yeah, and just  
 **Translation:** 
 
-**[3423.16s] English:** the years here but in the next olympics he fought and he lost on just the referee call yeah and just  
+**[3432.26s] English:** He went to war and had so much guts, putting everything on the line, and to lose...  
 **Translation:** 
 
-**[3432.26s] English:** he went to war and he just so much guts and just everything on the line and to lose and then to  
+**[3440.12s] English:** Still, theypersevered through all their injuries and through all that incredibly difficult training.  
 **Translation:** 
 
-**[3440.12s] English:** still persevere through all their injuries through all that through incredibly difficult training  
+**[3444.78s] English:** Sessions:  
+**Translation:** Vocabulary: theypersevered: 坚持不懈
+
+**[3445.30s] English:** To go another four years and then compete and then win a medal; I mean, that guy is just amazing, and like...  
 **Translation:** 
 
-**[3444.78s] English:** sessions  
-**Translation:** Vocabulary: persevere: 坚持不懈
-
-**[3445.30s] English:** to go another four years and then compete and then win a medal i mean that guy is just uh and like  
+**[3452.20s] English:** He clearly could have been very successful; he's also an incredible Jiu-Jitsu competitor, so he  
 **Translation:** 
 
-**[3452.20s] English:** he clearly could have been very successful he's also an incredible jiu-jitsu competitor so he  
+**[3457.78s] English:** Could have switched to that, but he's stuck in a lot of sports. When you're an elite athlete, for example.  
 **Translation:** 
 
-**[3457.78s] English:** could have switched to that but he's stuck in a lot of sport when you're an elite like for example  
+**[3467.12s] English:** In Canada, I saw that hockey is the number-one sport in the country. Kids, when they're young and elite,  
 **Translation:** 
 
-**[3467.12s] English:** in canada i saw he's the number one sport in the country uh kids when they're an elite when they're  
+**[3473.94s] English:** Young they get choose-up, and they're like, "Oh, I'm not gonna be able to do that. I'm gonna be able to do that.  
 **Translation:** 
 
-**[3473.94s] English:** young they get choose-up and they're like oh i'm not gonna be able to do that i'm gonna be able to do that  
+**[3475.16s] English:** Susan, and they're kind of already known as.  
 **Translation:** 
 
-**[3475.16s] English:** Susan, and they're kind of already known as  
+**[3480.00s] English:** A superstar, you know, the school they go to, and the program they follow. I'm sure.  
 **Translation:** 
 
-**[3480.00s] English:** a superstar you know the school with where they go and on the program they follow like i'm sure  
+**[3485.70s] English:** It's the same thing in the U.S. and basketball, baseball, perhaps American football, because they already  
 **Translation:** 
 
-**[3485.70s] English:** it's the same thing in u.s and basketball baseball perhaps uh american football because they already  
+**[3492.86s] English:** Chosen so they grew up with that, uh, that it's a kid that that, uh, superstar stardom.  
 **Translation:** 
 
-**[3492.86s] English:** chosen so they grew up with that uh that it that it's a kid that that that uh superstar stardom  
-**Translation:** 
-
-**[3500.76s] English:** so to speak and it's already glad glass order glamorous you know however in in mma there's no  
+**[3500.76s] English:** So, to speak, and it's already a glad glass order, glamorous, you know. However, in MMA, there's no  
 **Translation:** Vocabulary: glamorous: 光鲜; stardom: 明星
 
-**[3509.12s] English:** mma judo wrestling like in america because it's not our national sport it's actually it's it's not  
+**[3509.12s] English:** MMA, judo, and wrestling, like in America, because it's not our national sport; it's actually...  
 **Translation:** 
 
-**[3516.92s] English:** like even when i first started was not really well received by the media there's no glamour into it  
-**Translation:** Vocabulary: glamour: 魅力
+**[3516.92s] English:** Like, even when I first started, it wasn't really well-received by the media; there's no glamour in it.  
+**Translation:** Vocabulary: glamour: 魅力; wrestling: 摔跤
 
-**[3524.96s] English:** now i don't know it seems like it's another era now and i feel sometimes that some people do it  
+**[3524.96s] English:** Now, I don't know; it seems like it's another era now, and I feel sometimes that some people do it.  
 **Translation:** 
 
-**[3533.16s] English:** for the wrong reason you know some people do it because of the glamour because of the money  
+**[3533.16s] English:** For the wrong reason, you know—some people do it because of the glamour, because of the money.  
 **Translation:** 
 
-**[3539.10s] English:** but even if you're an elite and very good the glamour and the money won't come in the beginning  
+**[3539.10s] English:** But, even if you're an elite and very good, the glamour and the money won't come at the beginning.  
 **Translation:** 
 
-**[3546.50s] English:** it's a very long grind before you know you start it start to come in and you need to make those  
+**[3546.50s] English:** It's a very long grind before you know, you start to come in, and you need to make those.  
 **Translation:** Vocabulary: grind: 辛苦工作
 
-**[3554.86s] English:** sacrifices and it's a it's a journey that where you will be tested you will be hurt repetitively  
+**[3554.86s] English:** Sacrifices, and it's a journey where you will be tested, you will be hurt repeatedly.  
 **Translation:** 
 
-**[3562.70s] English:** and you're gonna have to to reach the down deep and come back up and then once you finally think  
-**Translation:** Vocabulary: repetitively: 反复地
-
-**[3570.74s] English:** you made it you're gonna go back in the down deep again it's a very exhausting and discouraging  
+**[3562.70s] English:** And you're going to have to reach down deep, come back up, and then once you finally think  
 **Translation:** 
 
-**[3576.80s] English:** adventure sometimes but if you hold on to your dream and you believe in it you know and you have  
+**[3570.74s] English:** You made it. You're gonna go back in the down deep again. It's a very exhausting and discouraging experience.  
+**Translation:** 
+
+**[3576.80s] English:** Adventure sometimes, but if you hold on to your dream and you believe in it, you know, and you have  
 **Translation:** Vocabulary: discouraging: 令人灰心; exhausting: 使人疲惫
 
-**[3583.52s] English:** the the stars are aligned you're gonna make it that's why it's only a few people that that make  
+**[3583.52s] English:** The stars are aligned; you're gonna make it. That's why it's only a few people who make.  
 **Translation:** 
 
-**[3589.84s] English:** it you know and and um that's why  
+**[3589.84s] English:** It, you know, and um, that's why.  
 **Translation:** Vocabulary: aligned: 位置对齐
 
-**[3592.70s] English:** i feel i feel sometimes that the new a lot of people in the new generation do it for the wrong reason in my in my generation  
+**[3592.70s] English:** I feel, at times, that a lot of people in the new generation do it for the wrong reasons. In my generation,...  
 **Translation:** 
 
-**[3600.00s] English:** a sport at first it was there were no rules i felt it was more pure the people that did it was really  
+**[3600.00s] English:** A sport at first—it was there were no rules; I felt it was more pure, and the people who did it were really  
 **Translation:** 
 
-**[3606.64s] English:** because of the passion that we didn't seek money and fame we did it because we wanted to be  
+**[3606.64s] English:** Because of the passion, we didn't seek money and fame; we did it because we wanted to be.  
 **Translation:** 
 
-**[3613.92s] English:** i did it because i wanted to be the man you know i i like to have the confidence that when i walk  
+**[3613.92s] English:** I did it because I wanted to be the man—I know, I like to have the confidence that when I walk...  
 **Translation:** 
 
-**[3619.28s] English:** somewhere i'm you know i have the confidence that you know it's an illusion because nobody's faster  
+**[3619.28s] English:** Somewhere, I'm you know, I have the confidence that, you know, it's an illusion because nobody's faster.  
 **Translation:** 
 
-**[3623.92s] English:** than a bullet yes but i wanted to achieve it for myself and i which today now because i don't know  
+**[3623.92s] English:** Than a bullet, yes, but I wanted to achieve it for myself, and I which today now because I don't know.  
 **Translation:** 
 
-**[3632.08s] English:** if it's social media and all that that the world has changed the glamour the you know it's i feel  
+**[3632.08s] English:** If it's social media and all that, the world has changed. The glamour is no longer what it used to be, I feel.  
 **Translation:** 
 
-**[3639.52s] English:** it's a different thing right now yeah the if you get in it for the glamour or the money you may  
+**[3639.52s] English:** It's a different thing right now, yeah. If you get into it for the glamour or the money, you may  
 **Translation:** Vocabulary: glamour: 魅力
 
-**[3645.92s] English:** not have the right the right amount of fuel to persevere through all the ups and downs yeah sure  
+**[3645.92s] English:** Not having the right amount of fuel to persevere through all the ups and downs, yeah, sure.  
 **Translation:** 
 
-**[3651.44s] English:** you know when you talk about motivation  
-**Translation:** Vocabulary: persevere: 坚持不懈
-
-**[3654.48s] English:** of uh money and glamour a guy comes to mind and i don't know how many wrestlers you know but  
+**[3651.44s] English:** You know, when you talk about motivation,...  
 **Translation:** 
 
-**[3662.88s] English:** in russia there's a guy named uh buvasia satiev the satya brothers one of the greatest freestyle  
-**Translation:** Vocabulary: freestyle: 自由式; wrestlers: 摔跤手
-
-**[3671.36s] English:** wrestlers of all time but he also has um it's funny he doesn't have many interviews one of my  
+**[3654.48s] English:** Of money and glamour, a guy comes to mind, and I don't know how many wrestlers you know, but  
 **Translation:** 
 
-**[3677.28s] English:** goals is to go out and talk to him in russian do an interview with him because he's exceptionally  
+**[3662.88s] English:** In Russia, there's a guy named Buvasia Satiев, the Satya Brothers, one of the greatest freestyle wrestlers.  
+**Translation:** Vocabulary: buvasia: 巴夫西亚; freestyle: 自由式; wrestlers: 摔跤手
+
+**[3671.36s] English:** Wrestlers of all time, but he also has — it's funny; he doesn't have many interviews. One of my  
+**Translation:** 
+
+**[3677.28s] English:** Goals is to go out and talk to him in Russian, do an interview with him, because he's exceptionally...  
 **Translation:** Vocabulary: exceptionally: 特别地
 
-**[3682.40s] English:** poetic and a deep  
+**[3682.40s] English:** Poetic, and a deep  
 **Translation:** 
 
-**[3683.92s] English:** thinker he's uh the kind of martial artist that you are in the way that it's not just about the  
-**Translation:** Vocabulary: martial: 武术
+**[3683.92s] English:** Thinker—he's the kind of martial artist that you are, in the way that it's not just about the  
+**Translation:** Vocabulary: martial: 武术; poetic: 诗意; thinker: 思想家
 
-**[3689.20s] English:** the different battles he's been through or whatever it's about the philosophy behind  
+**[3689.20s] English:** The different battles he's been through, or whatever it is, is about the philosophy behind it.  
 **Translation:** 
 
-**[3693.28s] English:** the way he approaches life now he he's spoken quite a bit about that the the glamour the fame  
+**[3693.28s] English:** The way he approaches life now, he has spoken quite a bit about that—the glamour and the fame.  
+**Translation:** Vocabulary: approaches: 生活方式
+
+**[3700.16s] English:** The money are all things that get in the way of, um, the purity of the experience and the art.  
 **Translation:** 
 
-**[3700.16s] English:** the money are all things that get in the way of um the purity of the experience the art  
+**[3708.00s] English:** That the way to achieve greatness is to simply lose yourself in the art of the action.  
+**Translation:** Vocabulary: greatness: 卓越; purity: 纯粹
+
+**[3713.92s] English:** And then you have to kind of get out of the way of the action, and get out of the way of the action.  
 **Translation:** 
 
-**[3708.00s] English:** that the way to achieve greatness is to just lose yourself in the art of the action  
+**[3720.00s] English:** Not to worry, and actively make sure that you block out anyone who you know feeds you the  
+**Translation:** Vocabulary: actively: 积极地
+
+**[3727.92s] English:** Narrative where you're supposed to be this famous person—it's all those kinds of things.  
 **Translation:** 
 
-**[3713.92s] English:** and then you have to kind of get out of the way of the action and get out of the way of the action  
+**[3731.66s] English:** That he basically says, "Let others write your story; I'll make sure that you just focus on the art.  
 **Translation:** 
 
-**[3720.00s] English:** not to worry and actively make sure that you block out anybody who you know feeds you the  
+**[3738.60s] English:** And now, another person from that side of the world is, of course, Khabib, so he represents that.  
 **Translation:** 
 
-**[3727.92s] English:** narrative where you're supposed to be this famous person it's all those kinds of things  
+**[3745.28s] English:** Side of the world, and we were talking about walking away, and most people not being able to.  
 **Translation:** 
 
-**[3731.66s] English:** that he basically says let others write your story i make sure that you just focus on the art  
+**[3750.76s] English:** Walk away at the top, as you have, but also now Khabib has it — incredibly, so I mean.  
 **Translation:** 
 
-**[3738.60s] English:** and now another person from that side of the world is of course khabib so he represents that  
+**[3760.20s] English:** Maybe you can comment on what your thoughts are about Khabib, numbering it as a matter of being.  
 **Translation:** 
 
-**[3745.28s] English:** side of the world and we were talking about walking away and most people not being able to  
+**[3765.40s] English:** Able to just walk away, you know. We talk about the goat very often; Khabib is, you know, one of...  
 **Translation:** 
 
-**[3750.76s] English:** walk away at at the top as you have but also now khabib has it looks like incredibly so so i mean  
+**[3771.92s] English:** Isn't the argument because he has?  
 **Translation:** 
 
-**[3760.20s] English:** maybe you can comment about what your thoughts are about uh khabib numbering a matter of being  
+**[3775.16s] English:** You know, one of the arguments is because he has.  
 **Translation:** 
 
-**[3765.40s] English:** able to just walk away you know we talk about the goat very often khabib is you know one of  
+**[3775.28s] English:** The most dominant carrier of all martial arts is the guy; you know, some guys can be named the Goat for  
+**Translation:** Vocabulary: dominant: 主要的; martial: 武术的
+
+**[3783.28s] English:** Different reasons, but Khabib is undefeated; I don't even know if he's ever lost.  
 **Translation:** 
 
-**[3771.92s] English:** isn't the argument because he has  
+**[3788.94s] English:** All right, he might have lost that round, but he dominated all his opponents; it was  
+**Translation:** Vocabulary: dominated: 完全控制; opponents: 对手; undefeated: 不败
+
+**[3795.68s] English:** Ridiculous and such an incredible career that he had! I love to watch him fight; he's incredible.  
 **Translation:** 
 
-**[3775.16s] English:** you know one of the arguments because he has  
+**[3804.56s] English:** Uh  
 **Translation:** 
 
-**[3775.28s] English:** the most dominant carrier of all martial art the guy you know some guys can be named the goat for  
+**[3805.16s] English:** Um, and when you talk about the art when you say "mixed martial art," the idea...  
 **Translation:** 
 
-**[3783.28s] English:** different reasons but khabib for that reason and he's undefeated he i don't even know if he lost  
+**[3812.82s] English:** Of a flawless performance, for me.  
+**Translation:** Vocabulary: flawless: 完美无缺
+
+**[3817.08s] English:** Everybody often thinks about a knockout, a brutal knockout, when we say flawless performance.  
 **Translation:** 
 
-**[3788.94s] English:** all right he might he might he might have lost round but he dominate all his opponent it was  
-**Translation:** Vocabulary: dominate: 压倒性胜利; undefeated: 不败
-
-**[3795.68s] English:** ridiculous and such an incredible career that he had um i love to watch him fight he's incredible  
-**Translation:** 
-
-**[3804.56s] English:** uh  
-**Translation:** 
-
-**[3805.16s] English:** um and when you talk about the art when you say mixed martial art the idea  
-**Translation:** 
-
-**[3812.82s] English:** of a flawless performance for me  
-**Translation:** Vocabulary: flawless: 完美; martial: 武术
-
-**[3817.08s] English:** everybody often when we say flawless performance thinks about a knockout a brutal knockout  
-**Translation:** 
-
-**[3825.48s] English:** but for me it's it's to be able to showcase beautiful technique like a beautiful  
+**[3825.48s] English:** But for me, it's to be able to showcase beautiful technique, like a beautiful  
 **Translation:** Vocabulary: brutal: 残酷的; knockout: 一击倒地; showcase: 展示
 
-**[3834.46s] English:** take down technique like a beautiful technique like a beautiful technique like a beautiful technique  
+**[3834.46s] English:** Take down techniques, like a beautiful technique, like a beautiful technique, like a beautiful technique.  
 **Translation:** 
 
-**[3835.16s] English:** and beautiful submission like something beautiful that  
-**Translation:** 
-
-**[3840.12s] English:** you  
-**Translation:** 
-
-**[3842.12s] English:** you  
-**Translation:** 
-
-**[3844.12s] English:** you  
-**Translation:** 
-
-**[3846.12s] English:** you  
-**Translation:** 
-
-**[3848.12s] English:** you  
-**Translation:** 
-
-**[3850.12s] English:** you  
-**Translation:** 
-
-**[3852.12s] English:** you  
-**Translation:** 
-
-**[3854.12s] English:** you  
-**Translation:** 
-
-**[3856.12s] English:** you  
-**Translation:** 
-
-**[3858.12s] English:** you  
-**Translation:** 
-
-**[3860.12s] English:** you  
-**Translation:** 
-
-**[3862.12s] English:** you  
-**Translation:** 
-
-**[3864.12s] English:** you  
+**[3835.16s] English:** And beautiful, submission—like something beautiful that  
 **Translation:** 
 
 **[3840.00s] English:** You know, when you look at, for example, Wayne Gretzky or Michael Jordan or like Stephen Curry,  
 **Translation:** 
 
-**[3850.68s] English:** even if you don't know nothing about basketball and you watch Michael Jordan,  
+**[3840.12s] English:** You.  
+**Translation:** Vocabulary: gretzky: 滑冰运动员格瑞茨基
+
+**[3842.12s] English:** You.  
 **Translation:** 
 
-**[3856.32s] English:** you'll be like, wow, that's beautiful what you just did.  
+**[3844.12s] English:** You.  
 **Translation:** 
 
-**[3859.44s] English:** Like we talk about fighting and trying to say the word beautiful in fighting for certain people,  
+**[3846.12s] English:** You.  
 **Translation:** 
 
-**[3866.08s] English:** it could sound kind of crazy, you know, but I'm talking about the technique.  
+**[3848.12s] English:** You.  
 **Translation:** 
 
-**[3870.00s] English:** A beautiful technique, you know, for me, that's the goal.  
+**[3850.12s] English:** You.  
 **Translation:** 
 
-**[3875.32s] English:** You know, when I was fighting, it's not only to have a brutal knockout because some people are more gifted than others.  
+**[3850.68s] English:** Even if you don't know anything about basketball and you watch Michael Jordan,  
 **Translation:** 
 
-**[3881.02s] English:** I'm saying gifted. Some people are better than others in certain phase of fighting.  
+**[3852.12s] English:** You.  
 **Translation:** 
 
-**[3885.92s] English:** But for me, it was that it was to showcase, to win, of course, but to showcase some beautiful technique  
+**[3854.12s] English:** You.  
 **Translation:** 
 
-**[3892.30s] English:** that you can watch it and be like, wow, that was incredible.  
+**[3856.12s] English:** You.  
 **Translation:** 
 
-**[3896.34s] English:** The timing, he did it.  
+**[3856.32s] English:** You'll be like, "Wow, that's beautiful what you just did.  
 **Translation:** 
+
+**[3858.12s] English:** You.  
+**Translation:** 
+
+**[3859.44s] English:** Like we talk about fighting and trying to say the word "beautiful" in fighting for certain people.  
+**Translation:** 
+
+**[3860.12s] English:** You.  
+**Translation:** 
+
+**[3862.12s] English:** You.  
+**Translation:** 
+
+**[3864.12s] English:** You.  
+**Translation:** 
+
+**[3866.08s] English:** It could sound kind of crazy, you know, but I'm talking about the technique.  
+**Translation:** 
+
+**[3870.00s] English:** A beautiful technique, you know. For me, that's the goal.  
+**Translation:** 
+
+**[3875.32s] English:** You know, when I was fighting, it's not only about having a brutal knockout, because some people are more gifted than others.  
+**Translation:** 
+
+**[3881.02s] English:** I'm saying "gifted." Some people are better than others in certain phases of fighting.  
+**Translation:** 
+
+**[3885.92s] English:** But for me, it was to showcase, to win, of course, but to showcase some beautiful techniques.  
+**Translation:** Vocabulary: phases: 阶段
+
+**[3892.30s] English:** That you can watch it and be like, "Wow, that was incredible.  
+**Translation:** 
+
+**[3896.34s] English:** The timing—he did it.  
+**Translation:** Vocabulary: timing: 时机
 
 **[3898.52s] English:** And.  
 **Translation:** 
 
-**[3900.00s] English:** When I talk about when I think about Khabib Nurmagomedov, I see all the detail that that of his work,  
-**Translation:** Vocabulary: nurmagomedov: 努尔马戈梅多夫
-
-**[3905.98s] English:** especially when he got he's got his opponent against the fence.  
+**[3900.00s] English:** When I talk about when I think about Khabib Nurmagomedov, I see all the details of his work.  
 **Translation:** 
 
-**[3908.78s] English:** That's like that's his area of expertise where he's to me, he's the best that ever did it in terms of that fighting style,  
+**[3905.98s] English:** Especially when he gets his opponent against the fence.  
 **Translation:** 
 
-**[3918.26s] English:** that that particular expertise that he has.  
+**[3908.78s] English:** That's like his area of expertise. Where he's at; to me, he's the best that ever did it in terms of that fighting style.  
+**Translation:** Vocabulary: opponent: 对手
+
+**[3918.26s] English:** That particular expertise that he has.  
 **Translation:** 
 
-**[3920.84s] English:** It's just the the flawless execution of that particular set of techniques.  
+**[3920.84s] English:** It's just the flawless execution of that particular set of techniques.  
+**Translation:** Vocabulary: execution: 实施; flawless: 完美
+
+**[3925.38s] English:** Yeah, and Conor McGregor at the accuracy.  
 **Translation:** 
 
-**[3925.38s] English:** Yeah, and Conor McGregor at the the accuracy.  
-**Translation:** 
-
-**[3930.00s] English:** The spider, Anderson Silva was like was, I would say, the most flamboyant of all, you know, like he was moving like the Matrix.  
-**Translation:** Vocabulary: flamboyant: 夸张; matrix: 矩阵; silva: 席尔瓦
+**[3930.00s] English:** The spider, Anderson Silva, was like, was the most flamboyant of all. You know, he was moving like the Matrix.  
+**Translation:** Vocabulary: flamboyant: 夸张的; matrix: 矩阵; silva: 西尔瓦
 
 **[3939.98s] English:** John Jones was incredible in terms of creativity, spinning elbows and that, and he faced incredible adversity.  
 **Translation:** 
 
-**[3948.62s] English:** Demetrius Johnson was so complete you could you could bring like he was slamming a guy to an arm bar.  
-**Translation:** Vocabulary: adversity: 逆境; jones: 琼斯; slamming: 砸控; spinning: 旋转
+**[3948.62s] English:** Demetrius Johnson was so complete; you could see, he was slamming a guy into an arm bar.  
+**Translation:** Vocabulary: adversity: 逆境; elbows: 肘击; jones: 琼斯; slamming: 重摔; spinning: 旋转
 
 **[3954.92s] English:** It was just unbelievable.  
 **Translation:** 
 
-**[3956.02s] English:** Like like he was like the complete fighter.  
+**[3956.02s] English:** Like, he was like the complete fighter.  
 **Translation:** 
 
 **[3958.82s] English:** B.J.  
 **Translation:** 
 
-**[3960.00s] English:** pen was like so flexible he he did stuff with his body that like nobody could do his dick the  
+**[3960.00s] English:** Pen was like so flexible; he did stuff with his body that nobody could do. His dick:  
 **Translation:** 
 
-**[3966.40s] English:** dexterity of his hips was just unbelievable um dominic cruz to me was incredible his footwork  
+**[3966.40s] English:** Dexterity of his hips was just unbelievable. Um, Dominic Cruz to me was incredible, his footwork.  
 **Translation:** 
 
-**[3973.36s] English:** his distance control so when you talk about like the goat royce gracie another one he did things  
+**[3973.36s] English:** His distance control is so good that when you talk about, like, the Goat Royce Gracie—another one—he did things differently.  
 **Translation:** Vocabulary: dexterity: 灵活性; footwork: 脚步技巧; gracie: 格雷西
 
-**[3980.08s] English:** that i think for me is not number one because yeah i gotta i gotta and starting to interrupt  
+**[3980.08s] English:** That I think for me is not number one, because yeah, I've got to get started and not interrupt.  
 **Translation:** 
 
-**[3983.84s] English:** the hoist is a fascinating one i'd love to hear what you think about him but many people consider  
-**Translation:** Vocabulary: hoist: 吊车
+**[3983.84s] English:** The hoist is a fascinating one. I'd love to hear what you think about it, but many people consider  
+**Translation:** Vocabulary: hoist: 吊车; interrupt: 打断
 
-**[3989.28s] English:** you most people consider you to be the number one greatest mixed martial arts fighter ever  
+**[3989.28s] English:** You're considered by most people to be the greatest mixed martial arts fighter of all time.  
 **Translation:** 
 
-**[3998.08s] English:** so it's fascinating to remove you from that list and continue this discussion and asking like who  
-**Translation:** Vocabulary: martial: 武术
+**[3998.08s] English:** So, it's fascinating to remove you from that list and continue this discussion, asking questions like "who  
+**Translation:** Vocabulary: martial: 军事的
 
-**[4004.64s] English:** do you think is the greatest fighter ever you listed some amazing ones hoist you somehow skipped  
+**[4004.64s] English:** Do you think Hoist is the greatest fighter ever? You listed some amazing ones, but you somehow skipped him.  
 **Translation:** 
 
-**[4010.24s] English:** fedor i just i'm very as a russian i'm very offended no i was i was going to there's so many  
-**Translation:** Vocabulary: offended: 受冒犯
+**[4010.24s] English:** Fedor, I just... I'm very sorry, as a Russian, I'm very offended. No, I was going to say, there's so many...  
+**Translation:** Vocabulary: offended: 受冒犯; skipped: 跳过
 
-**[4015.68s] English:** fedor is one as well fedor i think in his prime was  
+**[4015.68s] English:** Fedor is one, as well. Fedor I think, in his prime, was  
 **Translation:** 
 
-**[4019.28s] English:** like when you say when you talk about a name for example like  
+**[4019.28s] English:** Like, when you say, when you talk about a name, for example, like  
 **Translation:** 
 
-**[4024.64s] English:** we talk about him when he was in his prime like when i talk for example about anderson silver i'm  
+**[4024.64s] English:** We talk about him when he was in his prime, like when I, for example, talk about Anderson Silver. I'm  
 **Translation:** 
 
-**[4029.36s] English:** not talking about the anderson servo who fought his last fight uh against urea hall i'm talking  
+**[4029.36s] English:** Not talking about the Anderson servo who fought his last fight, uh, against Urea Hall; I'm talking about...  
 **Translation:** 
 
-**[4034.96s] English:** about the anderson servo who knocked out victor belfer yes bj penn same thing the problem is when  
+**[4034.96s] English:** About the Anderson servo who knocked out Victor Belfort; yes, BJ Penn did the same thing. The problem is when...  
 **Translation:** 
 
-**[4042.00s] English:** fighters hang on for too long in the sport that's what happened they kind of make make  
-**Translation:** Vocabulary: servo: 电动舵机; victor: 胜利者
+**[4042.00s] English:** Fighters hang on for too long in the sport—that's what happened—they kind of make, make.  
+**Translation:** Vocabulary: belfort: 贝福特; servo: 安德森; victor: 胜利者
 
-**[4049.28s] English:** people forget how good they were and it's very sad we talk about fedor and just just think about  
+**[4049.28s] English:** People forget how good they were, and it's very sad. We talk about Fedor and just think about  
 **Translation:** 
 
-**[4055.60s] English:** uh stipe miocic me which is probably the greatest heavyweight of all time with fedor i would really  
-**Translation:** Vocabulary: heavyweight: 重量级选手; stipe: 史蒂普·米奥奇
+**[4055.60s] English:** Uh, Stipe Miocic, me, which is probably the greatest heavyweight of all time, with Fedor—I would really  
+**Translation:** Vocabulary: heavyweight: 重量级选手; stipe: 史蒂普·米奥奇克
 
-**[4063.20s] English:** wonder who would have won this fight the both guys in their prime i tend to lean towards fedor  
+**[4063.20s] English:** Wonder who would have won this fight; the two guys were in their prime. I tend to lean towards Fedor.  
 **Translation:** 
 
-**[4069.76s] English:** because my heart was with favorite fedor but he could have gone the other way but just because  
+**[4069.76s] English:** Because my heart was with Favorite Fedor, but he could have gone the other way, but just because.  
 **Translation:** 
 
-**[4073.36s] English:** miochich lose his last fight now everybody is like oh yeah they forgot about him it's crazy  
+**[4073.36s] English:** Miochi lost his last fight, now everybody is like, "Oh, yeah? They forgot about him already? It's crazy.  
 **Translation:** 
 
 **[4079.28s] English:** Crazy, man.  
@@ -2351,25 +2352,25 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **Translation:** 
 
 **[4084.28s] English:** That's the reality of mixed martial arts.  
-**Translation:** 
+**Translation:** Vocabulary: martial: 武术的
 
-**[4086.64s] English:** Well, that's why the thing is the mixed martial arts isn't just the performance, the strictly who won and who lost.  
+**[4086.64s] English:** Well, that's why the thing is that mixed martial arts isn't just about the performance or who won and who lost.  
 **Translation:** 
 
 **[4094.36s] English:** It's also the stories we tell ourselves.  
 **Translation:** 
 
-**[4096.64s] English:** And so, I mean, there's beautiful stories being weaved.  
+**[4096.64s] English:** And so, I mean, there are beautiful stories being woven.  
 **Translation:** 
 
-**[4099.78s] English:** And that also is part of who is the greatest of all time is what were the battles?  
+**[4099.78s] English:** And that also is part of who is the greatest of all time: what were the battles?  
 **Translation:** 
 
 **[4107.02s] English:** What had to be overcome?  
 **Translation:** 
 
 **[4108.52s] English:** What was the flavor of the flawless performances?  
-**Translation:** Vocabulary: flawless: 完美无缺
+**Translation:** Vocabulary: flawless: 完美
 
 **[4115.14s] English:** You know, all of that plays into it.  
 **Translation:** 
@@ -2386,7 +2387,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[4124.98s] English:** And that fight, I want it to happen.  
 **Translation:** 
 
-**[4130.02s] English:** Khabib wanted to happen, but UFC did not want to happen.  
+**[4130.02s] English:** Khabib wanted it to happen, but the UFC did not want it to happen.  
 **Translation:** 
 
 **[4133.62s] English:** Between you and Khabib.  
@@ -2395,37 +2396,37 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[4134.74s] English:** Yes.  
 **Translation:** 
 
-**[4135.18s] English:** And we tried to make it like about three years ago.  
+**[4135.18s] English:** And we tried to make it about three years ago.  
 **Translation:** 
 
-**[4138.24s] English:** When I, when I retired to three, no, it was after two years ago and they didn't never came to fruition.  
+**[4138.24s] English:** When I retired two years ago, they never came to fruition.  
 **Translation:** 
 
 **[4145.60s] English:** The UFC were clear.  
 **Translation:** 
 
-**[4147.00s] English:** They said they, they would, they have other plan for Khabib and it's makes sense to, for the business standpoint, because they want to keep the ball rolling.  
+**[4147.00s] English:** They said they would have another plan for Khabib, and it makes sense from a business standpoint because they want to keep the ball rolling.  
 **Translation:** Vocabulary: standpoint: 立场
 
-**[4155.30s] English:** Now Khabib retired and like everybody else after just Justin Gaethje, I was doing the commentator in French for the UFC and I had butterfly.  
+**[4155.30s] English:** Now, Khabib retired, and like everybody else, after just Justin Gaethje, I was doing the commentary in French for the UFC and I had butterflies.  
 **Translation:** 
 
 **[4164.06s] English:** I thought he was going to call me out.  
-**Translation:** Vocabulary: commentator: 解说
-
-**[4166.56s] English:** If there is one guy that I would.  
 **Translation:** 
 
-**[4168.24s] English:** I said, yes, it would be him because for a fighter, the most exciting thing, things to do.  
+**[4166.56s] English:** If there is one guy that I would,  
 **Translation:** 
 
-**[4173.76s] English:** It's often the scariest one and Khabib was worth, you know, worth the scariest matchup.  
+**[4168.24s] English:** I said, "Yes, it would be him because, for a fighter, the most exciting thing is to do.  
+**Translation:** 
+
+**[4173.76s] English:** It's often the scariest one, and Khabib was definitely worth the scariest matchup.  
 **Translation:** 
 
 **[4180.30s] English:** Yes, but he was worth the risk because nobody has ever been able to solve them.  
-**Translation:** Vocabulary: matchup: 对阵; scariest: 最恐怖的
+**Translation:** Vocabulary: matchup: 对阵; scariest: 最可怕的
 
-**[4187.50s] English:** How would you solve the Khabib, Nurmagomedov puzzle?  
+**[4187.50s] English:** How would you solve the Khabib Nurmagomedov puzzle?  
 **Translation:** 
 
 **[4190.62s] English:** Well, Khabib is very good against the fence.  
@@ -2434,400 +2435,400 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[4194.16s] English:** Uh, I would have to establish a game plan.  
 **Translation:** 
 
-**[4198.24s] English:** And everything, but I, I think.  
+**[4198.24s] English:** And everything— but I think.  
 **Translation:** 
 
-**[4200.00s] English:** uh what i would need it to do is take the center of the octagon right away use a lot of think and  
+**[4200.00s] English:** Uh, what I would need it to do is take the center of the octagon right away, use a lot of thinking, and  
 **Translation:** 
 
-**[4206.64s] English:** fate keep the fight all the way all the way out or all the way in and when i say all the way in  
+**[4206.64s] English:** Fate, keep the fight all the way out or all the way in. And when I say "all the way in,"...  
 **Translation:** Vocabulary: octagon: 八边形
 
-**[4212.96s] English:** is when you close the gap use my proactive and reactive takedown and my perhaps my superior  
+**[4212.96s] English:** Is when you close the gap, use my proactive and reactive takedown—and perhaps my superior.  
 **Translation:** 
 
-**[4218.04s] English:** explosivity to put him down i like to use those proactive and reactive technology because for me  
-**Translation:** Vocabulary: explosivity: 爆发力; takedown: 撂倒
+**[4218.04s] English:** Explosivity to put him down? I like to use those proactive and reactive technologies, because for me,...  
+**Translation:** Vocabulary: explosivity: 爆炸性; takedown: 打击
 
-**[4224.54s] English:** i feel it's more economical khabib is a much better chain wrestler than me chain wrestler is  
+**[4224.54s] English:** I feel it's more economical; Khabib is a much better chain-wrestler than me, chain-wrestler is.  
 **Translation:** 
 
-**[4231.08s] English:** when you get the guys to the fence it's pure wrestling what makes my takedown very efficient  
-**Translation:** Vocabulary: economical: 经济的; wrestler: 摔跤手; wrestling: 摔跤
+**[4231.08s] English:** When you get the guys to the fence, it's pure wrestling. What makes my takedown very efficient.  
+**Translation:** Vocabulary: economical: 经济实惠; wrestling: 摔跤
 
-**[4236.50s] English:** it's my karate it's not my wrestling it's i'm a i'm very good at timing my opponent  
+**[4236.50s] English:** It's my karate; it's not my wrestling. I'm very good at timing my opponent.  
 **Translation:** 
 
-**[4242.94s] English:** and getting in with with my explosivity so if you watch at my takedown it does not demand  
-**Translation:** Vocabulary: karate: 空手道
+**[4242.94s] English:** And getting in with my explosiveness, so if you watch my takedown, it does not demand  
+**Translation:** Vocabulary: explosiveness: 爆发力; karate: 空手道; opponent: 对手; timing: 时机
 
-**[4250.66s] English:** often it does not demand a lot of work when i use the i call it proactive  
+**[4250.66s] English:** Often, it does not demand a lot of work when I use what I call "proactive.  
 **Translation:** 
 
-**[4254.52s] English:** takedown when um he's coming to punch me and i react so i mean proactive is when i i'm faking it  
+**[4254.52s] English:** Takedown when he's coming to punch me, and I react. So, I mean, proactive is when I'm faking it.  
+**Translation:** Vocabulary: faking: 假装
+
+**[4263.14s] English:** So, I instigate the takedown by a fake, then I take him down. Reactive is when he's  
 **Translation:** 
 
-**[4263.14s] English:** so i i i instigate the takedown by a fake then i take take him down and reactive is when he's  
+**[4270.34s] English:** I'm baiting him to throw something, then I'm ready to counter, yeah, but all my takedowns  
+**Translation:** Vocabulary: baiting: 诱敌; instigate: 唆使; takedowns: 摔倒
+
+**[4275.66s] English:** In the center of the octagon, yes. My takedowns are more in the center of the octagon, like for  
 **Translation:** 
 
-**[4270.34s] English:** i'm baiting him to throw something then he then i'm as a counter yeah yes but all my takedown  
-**Translation:** Vocabulary: baiting: 引诱; instigate: 唆使
+**[4280.66s] English:** Example: Another guy that does it well is Gleason T-Bow, that did it well in his.  
+**Translation:** Vocabulary: gleason: 格莱森
 
-**[4275.66s] English:** in the center of the octagon yes my takedowns are more in the center of the octagon like for  
+**[4284.52s] English:** The best days, you know, Khabib had more of a style of chain wrestling, I would say, like Kamaru.  
 **Translation:** 
 
-**[4280.66s] English:** example another guy that does it well is gleason t-bow that did it well in his  
-**Translation:** Vocabulary: gleason: 格莱森; takedowns: 摔倒技术
-
-**[4284.52s] English:** best days you know khabib has more a style of chain wrestling i would say like kamaru uzman  
+**[4290.28s] English:** So, to speak, kind of a guy; it's a different style. You can't really compare both styles.  
 **Translation:** 
 
-**[4290.28s] English:** so so to speak kind of kind of guy it's a different style you cannot compare both styles  
-**Translation:** Vocabulary: cannot: 不能
-
-**[4296.36s] English:** and that's the kind of takedown i'm good and i would if i would have fight kevin that's one of  
+**[4296.36s] English:** And that's the kind of takedown I'm good at, and I would if I had to fight Kevin. That's one of  
 **Translation:** 
 
-**[4300.92s] English:** the strategies i would have adopted i would not have been afraid because everybody that i thought  
-**Translation:** Vocabulary: kevin: 示例人物
+**[4300.92s] English:** The strategies I would have adopted, I would not have been afraid because everybody that I thought  
+**Translation:** Vocabulary: takedown: 打击
 
-**[4305.08s] English:** i was able to put them down and and and i have the pedigree to to prove it in my fight resume  
+**[4305.08s] English:** I was able to put them down, and I have the pedigree to prove it in my fight resume.  
 **Translation:** 
 
-**[4312.28s] English:** so you would have perhaps seen him on his  
-**Translation:** Vocabulary: pedigree: 血统证明
+**[4312.28s] English:** So, you would have perhaps seen him on his  
+**Translation:** Vocabulary: pedigree: 血统; resume: 简历
 
-**[4314.52s] English:** back and i would have perhaps be on my back as well so it would have been a very interesting  
+**[4314.52s] English:** Back, and I would have perhaps been on my back as well, so it would have been a very interesting.  
 **Translation:** 
 
-**[4318.60s] English:** fight and how hard do you think  
+**[4318.60s] English:** Fight, and how hard do you think?  
 **Translation:** 
 
-**[4320.00s] English:** think he used to take down i mean a lot of people speak about his wrestling being just it has nothing  
+**[4320.00s] English:** Think he used to take down a lot of people, I mean, it's spoken about how his wrestling has nothing  
 **Translation:** 
 
-**[4325.34s] English:** to do with it like the wrestling because that's due to the karate if i got the timing and i got  
+**[4325.34s] English:** To do with it, like the wrestling, because that's due to the karate. If I got the timing and I got  
+**Translation:** Vocabulary: karate: 空手道; wrestling: 摔跤
+
+**[4330.14s] English:** My both hands around his knees, he's going down; everybody goes down. Yes, yes, he goes down.  
 **Translation:** 
 
-**[4330.14s] English:** my both hand around around his knees he's going down everybody goes down yeah yes yes he goes down  
+**[4336.04s] English:** And, and, and I had a lot of that. That's what I would have — I wouldn't have been afraid of his.  
 **Translation:** 
 
-**[4336.04s] English:** and and and i had a lot of that that's what i would have i would not have been afraid of his  
+**[4341.14s] English:** Wrestling; uh, I would have beaten the instigator and forced the fight forward, and that's  
 **Translation:** 
 
-**[4341.14s] English:** wrestling uh i would have beat the instigator i would have forced the fight forward and that's  
+**[4348.22s] English:** What that's how I would have approached that fight, which I believe most of his opponents would have done as well.  
+**Translation:** Vocabulary: approached: 处理; beaten: 打败; instigator: 挑起者; opponents: 对手
+
+**[4353.60s] English:** We were afraid of his wrestling because they didn't have the tools that I have to put him down.  
 **Translation:** 
 
-**[4348.22s] English:** what that's how i would have approached that fight which i believe most of his opponent  
-**Translation:** Vocabulary: instigator: 挑起者
+**[4359.20s] English:** I would not have forced the wrestling; I would have stayed in the clinch and tried to disengage.  
+**Translation:** Vocabulary: clinch: 抱摔; disengage: 脱身
 
-**[4353.60s] English:** were afraid of his wrestling because they didn't have the tools that i have to put him down  
+**[4364.52s] English:** I have many ways to disengage the clinch. I wouldn't want to force the fight, though.  
 **Translation:** 
 
-**[4359.20s] English:** i would not have forced the wrestling i would have in in the clinch i would have tried to disengage  
-**Translation:** Vocabulary: clinch: 抱摔; disengage: 脱身; wrestling: 角斗
-
-**[4364.52s] English:** i have many ways to disengage the clinch i would have want to force the fight in in the in the in  
+**[4371.00s] English:** A fighting distance, you know, like in a shooting range distance, not in a wrestling distance, is it?  
 **Translation:** 
 
-**[4371.00s] English:** a fighting distance you know like in in a shoot box distance not in a wrestling distance is it  
+**[4377.68s] English:** Possible.  
 **Translation:** 
 
-**[4377.68s] English:** possible  
+**[4378.20s] English:** This fight still happens. If you're young, look great in the suit. Well, there are a lot of problems now.  
 **Translation:** 
 
-**[4378.20s] English:** this fight still happens i you're young look great in the suit well there's a lot of problems now  
+**[4389.44s] English:** And the thing is, now I've made peace with it. I no longer want to fight, and it's not  
 **Translation:** 
 
-**[4389.44s] English:** and the thing is now i made peace with it i no longer don't want to fight and i don't it's not  
-**Translation:** 
-
-**[4397.70s] English:** gonna happen ufc was not interested and i'm bound by contract with the ufc and by exclusivity there  
+**[4397.70s] English:** Gonna happen, UFC was not interested, and I'm bound by contract with the UFC and by exclusivity there.  
 **Translation:** Vocabulary: exclusivity: 独家权利
 
-**[4404.18s] English:** some people says to me oh how about if russians are crazy  
+**[4404.18s] English:** Some people say to me, "Oh, how about if Russians are crazy?  
 **Translation:** 
 
-**[4408.20s] English:** uh wealthy russian guy come with the money i said i have the i'm gonna be uh in in court with ufc  
+**[4408.20s] English:** Uh, a wealthy Russian guy came with the money. I said I have the case, and I'm gonna be in court with UFC.  
+**Translation:** Vocabulary: wealthy: 有钱的
+
+**[4416.04s] English:** And, and also, I'm older now. When I go home, man, I don't want to do this, you know?  
 **Translation:** 
 
-**[4416.04s] English:** and and also i'm older now and when i go home man i'm like i don't want to do this you know  
+**[4423.96s] English:** Like, you were always like this. No, I don't want to do this, but like, for example, I was training.  
 **Translation:** 
 
-**[4423.96s] English:** like you were always like this no i don't want to do this but like for example i was training  
+**[4428.14s] English:** With Freddie Roach a few days ago, and I'm hitting pads, you know, and Freddie is looking at me and  
 **Translation:** 
 
-**[4428.14s] English:** with freddie roach a few days ago and i'm hitting pads you know and freddie is looking at me and  
+**[4434.46s] English:** He's like, "Hey, you have the hitch back?" I'm like, "Yeah, if they knew what it would be like, I'm gonna...  
+**Translation:** Vocabulary: freddie: 弗雷迪; hitch: hitch; roach: 罗奇
+
+**[4438.20s] English:** Walk into the room, in the  
 **Translation:** 
 
-**[4434.46s] English:** he's like hey you have the hitch back i'm like yeah if they know what it would be like i'm gonna  
-**Translation:** Vocabulary: freddie: 弗雷迪; hitch: 步态; roach: 罗奇
-
-**[4438.20s] English:** walk in the room in the in the  
+**[4440.00s] English:** Gym at that precise moment, with that UFC contract, I would sign it—in the blink of an eye.  
 **Translation:** 
 
-**[4440.00s] English:** gym at that precise moment with that with the ufc contract i would sign it sign it in the blink of  
+**[4445.84s] English:** An eye, but when I go home, I'm like, "Hell, no! My belly is full, and I'm healthy, I'm wealthy.  
 **Translation:** 
 
-**[4445.84s] English:** an eye but when i go home i'm like hell no my belly is full my you know i'm healthy i'm wealthy  
+**[4455.76s] English:** Why would I want to fight? I made peace with it, but the minute I go back to the gym, because  
 **Translation:** 
 
-**[4455.76s] English:** why would i want to fight for i made peace with it but the minute i go back in the gym because  
+**[4460.96s] English:** I still get it inside me when I train with the young guys; I still get it, and a lot of guys think:  
 **Translation:** 
 
-**[4460.96s] English:** i still get it inside me when i train with the young guys i still get it and a lot of guys think  
+**[4466.24s] English:** Say, tell me the truth. You're preparing a comeback, because I still get it, you know, I'm...  
 **Translation:** 
 
-**[4466.24s] English:** say tell me the truth you you're preparing a comeback because i still get it you know i'm  
+**[4470.40s] English:** A little bit older, but I've got more knowledge—I can compensate. I become a different animal.  
 **Translation:** 
 
-**[4470.40s] English:** a little bit older but i i got more knowledge i can compensate i i i become a different animal  
-**Translation:** 
-
-**[4477.76s] English:** because it you know it changed you but then after you go home and you you're you're like man uh no  
+**[4477.76s] English:** Because it, you know, it changed you, but then after you go home, you're like, "Man, uh, no.  
 **Translation:** Vocabulary: compensate: 弥补
 
-**[4484.24s] English:** way i'm doing this it's very hard to explain you need to be a fighter to understand that it's very  
+**[4484.24s] English:** Way I'm doing this, it's very hard to explain. You need to be a fighter to understand that it's very  
 **Translation:** 
 
-**[4491.36s] English:** very hard to explain well from your perspective i think could be  
+**[4491.36s] English:** Very hard to explain well from your perspective, I think, could be.  
 **Translation:** 
 
-**[4496.24s] English:** is one of the rare one of the few fascinating scientific puzzles yet to be solved so from that  
+**[4496.24s] English:** Is one of the rare, fascinating scientific puzzles yet to be solved, so from that.  
 **Translation:** 
 
-**[4502.08s] English:** aspect as a martial artist it's just a fascinating journey to try to solve that puzzle there is a  
-**Translation:** Vocabulary: martial: 武术
+**[4502.08s] English:** As an aspect of being a martial artist, it's just a fascinating journey to try to solve that puzzle. There is a  
+**Translation:** Vocabulary: martial: 武术; puzzles: 谜团
 
-**[4507.76s] English:** thing too like we say oh who's the best fighter people legs they don't like i understand i  
+**[4507.76s] English:** Thing, too, like we say, "Oh, who's the best fighter?" People legs—they don't like—I understand. I  
 **Translation:** 
 
-**[4514.00s] English:** realized that later in my life and i'm sure a lot of young guys will say oh i say if you're it's not  
+**[4514.00s] English:** Realized that later in my life, and I'm sure a lot of young guys will say, "Oh, I say if you're not [insert], then what are you?  
 **Translation:** 
 
-**[4520.96s] English:** don't speak for me but i'm telling you right now what i'm about to say you will realize it later  
+**[4520.96s] English:** Don't speak for me, but I'm telling you right now: what I'm about to say, you will realize it later.  
 **Translation:** 
 
-**[4527.04s] English:** when i was young i think you can proclaim yourself the more the badass man on the  
+**[4527.04s] English:** When I was young, I think you could proclaim yourself the most badass man on the  
 **Translation:** Vocabulary: badass: 牛逼; proclaim: 宣布
 
-**[4532.96s] English:** planet you know like nobody can beat you at it's an illusion man that's the sad thing about for  
+**[4532.96s] English:** Planet, you know, like nobody can beat— it's an illusion, man. That's the sad thing about it, for.  
 **Translation:** 
 
-**[4538.64s] English:** example dc uh daniel cormier does probably one of the greatest if not the greatest of all time  
+**[4538.64s] English:** Example DC, uh, Daniel Cormier, does probably one of the greatest, if not the greatest, of all time.  
+**Translation:** Vocabulary: cormier: 丹尼尔·科米尔
+
+**[4546.24s] English:** You said Neoish, but it's almost like it's because of that little matchup with Jon Jones, isn't it?  
 **Translation:** 
 
-**[4546.24s] English:** you said neotish but like it's almost because of that little matchup with john jones it's it's  
-**Translation:** 
-
-**[4552.16s] English:** difficult for people to conceive of him as the greatest of all time  
+**[4552.16s] English:** Difficult for people to conceive of him as the greatest of all time.  
 **Translation:** Vocabulary: conceive: 想象; matchup: 对阵
 
-**[4556.24s] English:** it's all about matchup it's all about timing and also you  
+**[4556.24s] English:** It's all about matchup, it's all about timing, and also you.  
 **Translation:** 
 
-**[4560.00s] English:** make a fight you make you make both guys fight 10 times the result might be different like like  
+**[4560.00s] English:** Make a fight, you make them fight 10 times; the result might be different, like...  
+**Translation:** Vocabulary: timing: 时机
+
+**[4569.12s] English:** Every time, you know, I mean, maybe he's gonna win eight out of ten, but that night he's gonna:  
 **Translation:** 
 
-**[4569.12s] English:** every time you know i mean maybe he's gonna win eight out of ten but that night he's gonna he's  
+**[4575.84s] English:** Gonna lose, why? Because we don't know; the universe made it like that, you know. Maybe He...  
 **Translation:** 
 
-**[4575.84s] English:** gonna lose why because we don't know the the universe made it like that you know maybe he  
+**[4580.32s] English:** Got sick, maybe he had emotional issues; he didn't sleep well, and that made him lose.  
 **Translation:** 
 
-**[4580.32s] English:** got sick maybe he had the emotional issues he didn't sleep well and he he makes him uh lose  
+**[4586.08s] English:** Focus, and he got caught. We don't know for sure, but that's the thing about people.  
 **Translation:** 
 
-**[4586.08s] English:** focus and he got caught like you don't we don't know but it's it's that's the thing with people  
+**[4591.92s] English:** Ask me, "Would you have done it with Khabib? What would happen? I don't know. Maybe, out of 10 times.  
 **Translation:** 
 
-**[4591.92s] English:** ask me would you have done it with khabib what would happen i don't know maybe out of 10 time  
+**[4596.40s] English:** I don't know; maybe as a fighter, I hope I would have won more than him. He thinks the opposite.  
 **Translation:** 
 
-**[4596.40s] English:** i don't know maybe as a fighter i hope i would have win more than him he thinks the opposite  
+**[4602.56s] English:** Is there only one way to find out? But that night, if there's a fight, the guy who's going to win doesn't  
 **Translation:** 
 
-**[4602.56s] English:** is only one way to find out but that night if there is a fight the guy that gonna win doesn't  
+**[4608.08s] English:** Mean, he's the best fighter; that's to say, he's the one that fought the best that night.  
 **Translation:** 
 
-**[4608.08s] English:** mean he's the best fighter that's mean that he's the one that fought the best the night of the  
+**[4616.08s] English:** The team that wins the game is not necessarily the best; it's the team that plays the best.  
 **Translation:** 
 
-**[4616.08s] English:** the team that wins the game it's not necessarily the best thing is the team that play the best  
+**[4622.96s] English:** That the night of the game and fighting is no different, so being the "baddest man on the planet.  
 **Translation:** 
 
-**[4622.96s] English:** that the night of the game and fighting is no different so being the baddest man on the planet  
+**[4628.96s] English:** It's an illusion, I mean. That's the tragic thing about it: on any one night, anything can happen.  
 **Translation:** 
 
-**[4628.96s] English:** it's an illusion i mean that's the tragic thing about it is uh on any one night anything can  
+**[4636.32s] English:** Happen and that tells a story for all of human history is it's, uh, sad; it's sad.  
 **Translation:** 
 
-**[4636.32s] English:** happen and that that tells a story for all of human history is it's uh it's sad it's sad to  
+**[4643.04s] English:** Think about, but that's what makes it beautiful, that.  
 **Translation:** 
 
-**[4643.04s] English:** think about but that's what makes it beautiful that  
+**[4646.08s] English:** There's so much at stake: like entire lives, all the dreams you've had growing up, and all the hard work.  
 **Translation:** 
 
-**[4646.08s] English:** there's so much at stake like entire lives all the dreams you've had growing up all the hard work  
+**[4651.92s] English:** All of it is decided in a single night, even though that means nothing in terms of who's actually  
 **Translation:** 
 
-**[4651.92s] English:** all of it is decided in a single night even though that means nothing in terms of who's actually  
+**[4656.80s] English:** Better, it's uh, I mean, that's the beauty—that's why people love the Olympics, especially because  
 **Translation:** 
 
-**[4656.80s] English:** better it's uh i mean that's the beauty that's why people love the olympics especially because  
+**[4662.56s] English:** It happens so rarely, and dreams are broken—or, like, triumph is achieved by the unlikely hero.  
 **Translation:** 
 
-**[4662.56s] English:** it happens so rarely and dreams are broken or uh like triumph is achieved by the unlikely hero  
+**[4672.00s] English:** All right, there, and I mean, that's why we love it.  
 **Translation:** 
 
-**[4672.00s] English:** all like right there and i mean that's that's why we love it  
+**[4676.08s] English:** Right, that's why; yeah, I love it if we didn't know always.  
 **Translation:** 
 
-**[4676.08s] English:** right that's why yeah i love it if we wouldn't know always  
+**[4680.00s] English:** Is the result before it would be boring, that's why we do it. You know, I watch the odds you.  
 **Translation:** 
 
-**[4680.00s] English:** is the result before it would be boring that's why we do it you know i you watch the odds you  
+**[4685.60s] English:** Know, like, sometimes I like to watch the odds before a fight, you know?  
 **Translation:** 
 
-**[4685.60s] English:** know like like sometimes i like to watch the odds uh before a fight you know because you know  
-**Translation:** 
-
-**[4692.92s] English:** there's things you know i believe in causality you know i believe in everybody believe different  
+**[4692.92s] English:** There's things, you know, I believe in causality. You know, I believe that everyone believes differently.  
 **Translation:** Vocabulary: causality: 因果关系
 
-**[4699.46s] English:** things but i believe everything is because there's a there's a cause to everything that's  
+**[4699.46s] English:** Things, but I believe that everything is because there's a cause to everything that's happening.  
 **Translation:** 
 
-**[4704.80s] English:** personally what i believe i don't believe that i i have like free will i think i have the illusion  
+**[4704.80s] English:** Personally, what I believe is that I don't believe I have true free will; I think I have the illusion of it.  
 **Translation:** 
 
-**[4710.82s] English:** of free will but i believe there is a cause for everything and if i'm doing something because of  
+**[4710.82s] English:** Of free will, but I believe there is a cause for everything, and if I'm doing something because of  
 **Translation:** 
 
-**[4716.52s] English:** something because of a cause by definition there's no free will in a way you know if there's a cause  
+**[4716.52s] English:** Something, because of a cause, by definition, there's no free will—in a way, you know, if there's a cause.  
 **Translation:** 
 
-**[4721.10s] English:** by definition there is not how does that make you feel by the way like the idea that if we just look  
+**[4721.10s] English:** By definition, there isn't [it]. How does that make you feel? By the way, like the idea that if we just look...  
 **Translation:** 
 
-**[4727.06s] English:** uh outside even just human psychology and fighting and so on if we look at like physics if everything  
+**[4727.06s] English:** Uh, outside of even just human psychology and fighting, and so on, if we look at like physics, if everything...  
 **Translation:** 
 
-**[4733.14s] English:** is predetermined if all of this  
+**[4733.14s] English:** Is it predetermined if all of this?  
 **Translation:** 
 
-**[4734.78s] English:** these little molecules interacting it's all already like your story is already written i mean  
-**Translation:** Vocabulary: predetermined: 预先决定的
+**[4734.78s] English:** These little molecules interacting—it's all already like your story is already written, I mean.  
+**Translation:** Vocabulary: interacting: 相互作用; predetermined: 预先决定的
 
-**[4740.66s] English:** it depends it's it's written but i wouldn't need to know all the data and it's impossible right  
+**[4740.66s] English:** It depends; it's written, but I wouldn't need to know all the data, and it's impossible, right?  
 **Translation:** 
 
-**[4746.16s] English:** like it's it's it's kind of weird i gotta say but i don't to me i don't see any argument  
+**[4746.16s] English:** Like, it's kind of weird, I have to say, but I don't see any argument.  
 **Translation:** 
 
-**[4753.98s] English:** to counter that idea i i i i can i don't maybe i'm i'm ignorant but i haven't seen nobody and  
+**[4753.98s] English:** To counter that idea, I can say I don't maybe I'm ignorant, but I haven't seen anybody and  
 **Translation:** 
 
-**[4762.82s] English:** everything that i've read so far  
-**Translation:** Vocabulary: ignorant: 无知
+**[4762.82s] English:** Everything that I've read so far.  
+**Translation:** Vocabulary: ignorant: 无知的
 
-**[4764.78s] English:** there's nothing that counter that idea that that that because in a mechanical world if your car  
+**[4764.78s] English:** There's nothing that counters that idea: that, in a mechanical world, if your car  
 **Translation:** 
 
-**[4771.60s] English:** broke or you know we don't say oh the car decided to broke or a three a trees fall there's reason  
+**[4771.60s] English:** Broke, or you know, we don't say 'oh, the car decided to break' or 'a tree fell' — there's always a reason.  
+**Translation:** Vocabulary: counters: 反驳
+
+**[4779.90s] English:** Why do the trees fall? We don't say that the trees decide to fall, right? So, I think...  
 **Translation:** 
 
-**[4779.90s] English:** why the trees fall we don't say the trees decide to fall right so because us human being i think  
+**[4785.46s] English:** It's our ego that we decide, and I'm no different than anyone else when I make a decision; I decided to this.  
 **Translation:** 
 
-**[4785.46s] English:** it's our ego we decide and i'm no different than anybody when i make a decision i decided to this  
+**[4792.34s] English:** I choose to do this.  
 **Translation:** 
 
-**[4792.34s] English:** i choose to do this  
+**[4794.78s] English:** But I'm aware that there are causes.  
 **Translation:** 
 
-**[4794.78s] English:** but i'm aware that there is causes  
+**[4800.00s] English:** That makes me do certain things, and by definition, I think if there is a cause.  
 **Translation:** 
 
-**[4800.00s] English:** that make me do certain things and by definition i think if there is a cause  
+**[4805.54s] English:** There is no free will, by definition, right? Yes, but the thing is, just like you said, we understand.  
 **Translation:** 
 
-**[4805.54s] English:** there is no free will by definition right yes but the thing is just like you said we understand  
+**[4812.40s] English:** So, we know so little about human intelligence, the human mind, and especially consciousness that the  
 **Translation:** 
 
-**[4812.40s] English:** so little about human intelligence the human mind and especially consciousness that the  
+**[4819.96s] English:** This giant mystery, this darkness that we don't understand—how it feels like to be.  
+**Translation:** Vocabulary: consciousness: 觉醒状态
+
+**[4829.08s] English:** Something to be a conscious being, that because of that, we're not able to really reason about it.  
 **Translation:** 
 
-**[4819.96s] English:** this giant mystery this darkness that we don't understand how how it how it feels like to be  
+**[4836.16s] English:** Free will, or not, because there might be some magic that comes from consciousness, you know.  
 **Translation:** 
 
-**[4829.08s] English:** something to be a conscious being that because of that we're not able to really even reason about  
+**[4843.76s] English:** The consciousness might be the thing that makes us different from a car that breaks down.  
 **Translation:** 
 
-**[4836.16s] English:** free will or not because there might be some magic that comes from consciousness that you know  
-**Translation:** 
-
-**[4843.76s] English:** the consciousness might be the thing that makes us different from a car that breaks down  
-**Translation:** 
-
-**[4849.18s] English:** there might be something totally fascinating totally undiscovered yet that will make us  
+**[4849.18s] English:** There might be something totally fascinating, totally undiscovered, yet that will make us  
 **Translation:** Vocabulary: undiscovered: 未被发现
 
-**[4858.14s] English:** realize that free  
+**[4858.14s] English:** Realize that free  
 **Translation:** 
 
-**[4859.06s] English:** will is actually real and somehow fundamental to the human experience so it's sometimes i think  
+**[4859.06s] English:** Will is actually real and, somehow, fundamental to the human experience, so it's sometimes I think.  
 **Translation:** 
 
-**[4865.70s] English:** we forget when we talk about free will and physics and it all seeming to be predetermined  
+**[4865.70s] English:** We often forget when we talk about free will and physics, and how it all seems to be predetermined.  
 **Translation:** 
 
-**[4873.92s] English:** we forget how little we actually understand about the world and i think in that mystery that could  
+**[4873.92s] English:** We forget how little we actually understand about the world, and I think in that mystery, that could  
 **Translation:** Vocabulary: predetermined: 预先决定的
 
-**[4880.96s] English:** be totally new ideas that are yet to be discovered and will make us realize that it's not just an  
+**[4880.96s] English:** Be totally new ideas that are yet to be discovered, and will make us realize that it's not just an  
 **Translation:** 
 
-**[4887.30s] English:** illusion  
+**[4887.30s] English:** Illusion.  
 **Translation:** 
 
-**[4889.06s] English:** something that is like at the core of how the universe works some people believe that consciousness  
+**[4889.06s] English:** Something that is, at the core of how the universe works, some people believe that consciousness.  
 **Translation:** 
 
-**[4895.06s] English:** is a fundamental property of the universe like it's a it's a one of the forces of physics like  
+**[4895.06s] English:** Is a fundamental property of the universe, like it's one of the forces of physics, like  
 **Translation:** 
 
-**[4901.90s] English:** consciousness permeates everything it's in everything like this table is conscious but  
+**[4901.90s] English:** Consciousness permeates everything; it's in everything, like this table. It is conscious, but...  
 **Translation:** 
 
-**[4907.96s] English:** it's not as conscious as us and we're this little peak of consciousness and if that's true and if we  
-**Translation:** Vocabulary: permeates: 渗透
+**[4907.96s] English:** It's not as conscious as ours, and we're this little peak of consciousness. And if that's true, and if we  
+**Translation:** Vocabulary: consciousness: 觉知; permeates: 渗透
 
-**[4914.42s] English:** get to understand that maybe there's something there's an extra bit of consciousness that's not  
+**[4914.42s] English:** Get to understand that maybe there's something there's an extra bit of consciousness that's not.  
 **Translation:** 
 
-**[4918.90s] English:** there's an extra bonus we get  
+**[4918.90s] English:** There's an extra bonus we get.  
 **Translation:** 
 
-**[4920.00s] English:** in terms of free will,  
+**[4920.00s] English:** In terms of free will,  
 **Translation:** 
 
-**[4921.54s] English:** once you become one of those entities  
+**[4921.54s] English:** Once you become one of those entities,  
 **Translation:** 
 
-**[4924.08s] English:** that are super conscious.  
+**[4924.08s] English:** That are super conscious.  
 **Translation:** 
 
-**[4925.82s] English:** So I tend to be sort of humbled by the mystery of it.  
+**[4925.82s] English:** So, I tend to be sort of humbled by the mystery of it.  
+**Translation:** Vocabulary: humbled: 谦卑
+
+**[4930.74s] English:** Do you believe, one day, with the technology,  
 **Translation:** 
 
-**[4930.74s] English:** Do you believe one day with the technology  
+**[4935.44s] English:** That keeps improving,  
 **Translation:** 
 
-**[4935.44s] English:** that keeps improving,  
-**Translation:** 
-
-**[4936.92s] English:** we will make robots that will be able to be somehow conscious?  
+**[4936.92s] English:** We will make robots that will be able to be somehow conscious?  
 **Translation:** 
 
 **[4945.88s] English:** Absolutely.  
@@ -2839,25 +2840,25 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[4948.36s] English:** I hope to do just that.  
 **Translation:** 
 
-**[4951.42s] English:** First of all, I believe that all people are capable  
+**[4951.42s] English:** First of all, I believe that all people are capable.  
 **Translation:** 
 
-**[4954.40s] English:** and want to be good to each other.  
+**[4954.40s] English:** And we want to be good to each other.  
 **Translation:** 
 
-**[4957.56s] English:** And I think love is a really powerful thing  
+**[4957.56s] English:** And I think love is a really powerful thing.  
 **Translation:** 
 
-**[4962.52s] English:** that connects us and can create better and better worlds,  
+**[4962.52s] English:** That connects us and can create better and better worlds.  
 **Translation:** 
 
-**[4966.38s] English:** sort of like create better and better societies  
+**[4966.38s] English:** Sort of like creating better and better societies.  
 **Translation:** 
 
-**[4970.50s] English:** that improve both the technology, the quality of life,  
+**[4970.50s] English:** That improves both the technology and the quality of life,  
 **Translation:** 
 
-**[4974.30s] English:** and just the basics of human experience.  
+**[4974.30s] English:** And just the basics of human experience.  
 **Translation:** 
 
 **[4976.50s] English:** And I think creating...  
@@ -2866,67 +2867,67 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[4978.36s] English:** Creating AI systems that are conscious,  
 **Translation:** 
 
-**[4980.32s] English:** that are human-like can enable us to be better to each other.  
+**[4980.32s] English:** That which is human-like can enable us to be better to each other.  
 **Translation:** 
 
-**[4985.40s] English:** Like they can...  
+**[4985.40s] English:** Like they can....  
 **Translation:** 
 
-**[4986.80s] English:** It's almost like adding more and more kindness to the world  
+**[4986.80s] English:** It's almost like adding more and more kindness to the world.  
 **Translation:** 
 
-**[4991.88s] English:** through the systems we interact with  
+**[4991.88s] English:** Through the systems we interact with.  
 **Translation:** 
 
-**[4993.52s] English:** will inspire us to be better and better to each other.  
+**[4993.52s] English:** It will inspire us to be better and better to each other.  
 **Translation:** 
 
 **[4996.22s] English:** In terms of them being conscious,  
 **Translation:** 
 
-**[4998.62s] English:** I think that is an absolute requirement  
+**[4998.62s] English:** I think that is an absolute requirement.  
 **Translation:** 
 
-**[5001.52s] English:** that entities we interact with  
+**[5001.52s] English:** That entities we interact with,  
 **Translation:** 
 
-**[5005.42s] English:** communicate some element of consciousness,  
+**[5005.42s] English:** Communicate some element of consciousness.  
+**Translation:** Vocabulary: consciousness: 觉醒状态
+
+**[5008.36s] English:** Like, that's how we connect to each other.  
 **Translation:** 
 
-**[5008.36s] English:** like that's how we connect to each other.  
+**[5011.46s] English:** The reason you and I connect.  
 **Translation:** 
 
-**[5011.46s] English:** The reason you and I connect  
+**[5013.04s] English:** Is that we believe that each of us is conscious.  
 **Translation:** 
 
-**[5013.04s] English:** is that we believe that each of us are conscious.  
+**[5017.68s] English:** And to me, what consciousness means:  
 **Translation:** 
 
-**[5017.68s] English:** And to me, what consciousness means  
+**[5019.34s] English:** Is the ability to hurt,  
 **Translation:** 
 
-**[5019.34s] English:** is the ability to hurt,  
+**[5021.06s] English:** The ability to suffer,  
 **Translation:** 
 
-**[5021.06s] English:** the ability to suffer,  
+**[5023.64s] English:** To struggle in this world.  
 **Translation:** 
 
-**[5023.64s] English:** to struggle in this world.  
+**[5026.20s] English:** Because, just like you said,  
 **Translation:** 
 
-**[5026.20s] English:** Because just like you said,  
+**[5029.22s] English:** Without the struggle, you don't have the love.  
 **Translation:** 
 
-**[5029.22s] English:** without the struggle, you don't have the love,  
+**[5032.64s] English:** You don't have the pleasure.  
 **Translation:** 
 
-**[5032.64s] English:** you don't have the pleasure.  
+**[5034.22s] English:** And ultimately, consciousness is an entity's ability.  
 **Translation:** 
 
-**[5034.22s] English:** And ultimately, consciousness is an entity's ability  
-**Translation:** 
-
-**[5037.74s] English:** to be conscious.  
+**[5037.74s] English:** To be conscious.  
 **Translation:** 
 
 **[5038.54s] English:** To struggle.  
@@ -2935,358 +2936,358 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[5039.52s] English:** To suffer.  
 **Translation:** 
 
-**[5040.00s] English:** and from that arises the pleasure and us together being able to appreciate sort  
+**[5040.00s] English:** And from that arises the pleasure of us being able to appreciate together.  
 **Translation:** 
 
-**[5049.06s] English:** of appreciate the highs and experience together the lows that's how we form the  
+**[5049.06s] English:** Of course, we appreciate the highs and experience the lows together—that's how we form the  
+**Translation:** Vocabulary: arises: 产生
+
+**[5058.00s] English:** Deep connections: I personally think we can create that in robots, and I  
 **Translation:** 
 
-**[5058.00s] English:** deep connections I personally think we can create that in robots and I  
+**[5061.84s] English:** Personally, I believe it's a lot easier than we think. Does it make you  
 **Translation:** 
 
-**[5061.84s] English:** personally believe it's a lot easier than than we think does it make you  
+**[5066.96s] English:** Afraid sometimes about the fact that one day, hey, hi, like, intelligence.  
 **Translation:** 
 
-**[5066.96s] English:** afraid sometimes about the fact that one day hey hi like intelligence  
+**[5073.64s] English:** Artificial intelligence could be, you know, could hurt us or, you know, like  
 **Translation:** 
 
-**[5073.64s] English:** artificial intelligence could be you know could hurt us or you know like  
+**[5079.32s] English:** Because, you know, because of Hollywood, of course, you know, the movies.  
 **Translation:** 
 
-**[5079.32s] English:** because we're you know because of Hollywood of course you know the movies  
+**[5082.62s] English:** We watch, but it seems like when I hear Elon Musk talking, you  
 **Translation:** 
 
-**[5082.62s] English:** we watch but but it seems like when I hear sometimes Elon Musk talking you  
+**[5087.00s] English:** Know, like, it yeah. So, Elon talks about AI: we're summoning the demon. He is.  
 **Translation:** 
 
-**[5087.00s] English:** know like it yeah so Elon talks about with AI we're summoning the demon he is  
+**[5093.72s] English:** Very concerned, and I talked to him about it.  
+**Translation:** Vocabulary: demon: 魔鬼; summoning: 召唤
+
+**[5096.96s] English:** Quite a bit; he's very concerned about all the different ways AI could hurt us.  
 **Translation:** 
 
-**[5093.72s] English:** very concerned and I talked to him about it  
-**Translation:** Vocabulary: demon: 恶魔; summoning: 召唤
-
-**[5096.96s] English:** quite a bit he's very concerned about all the different ways AI could hurt us  
+**[5100.92s] English:** Humans, I tend to believe that there are a lot more ways in which AI can make our  
 **Translation:** 
 
-**[5100.92s] English:** humans I tend to believe that there's a lot more ways in which AI can make our  
+**[5107.46s] English:** Lives better and can make life awesome for humans. I think humans are the ones.  
 **Translation:** 
 
-**[5107.46s] English:** lives better and can make life awesome for humans I think humans are the ones  
+**[5113.34s] English:** That can do a lot of evil things, so I'm less worried about AI; I'm more worried about...  
 **Translation:** 
 
-**[5113.34s] English:** that can do a lot of evil things so I'm less worried about AI I'm more worried  
+**[5118.68s] English:** About humans, if I look at what humans have done throughout the course of history, you  
 **Translation:** 
 
-**[5118.68s] English:** about humans if I look at what human have done on on the course of history you  
+**[5124.96s] English:** Know, for example.  
 **Translation:** 
 
-**[5124.96s] English:** know for for example  
+**[5126.96s] English:** In regards to the planet in relation to the scale of the universe, I think what I'm  
 **Translation:** 
 
-**[5126.96s] English:** in regards that the planet to the the scale of the universe I think what I'm  
+**[5133.86s] English:** Afraid is that we have more of a destructive force than a beneficial one.  
+**Translation:** Vocabulary: beneficial: 有益的; regards: 关于
+
+**[5140.08s] English:** Force so, if a high threat level, take that into consideration in order to protect us.  
 **Translation:** 
 
-**[5133.86s] English:** afraid is that we have more of a destructive force than a beneficial  
+**[5146.46s] English:** Against ourselves, mm-hmm. It could hurt us. You know, I don't know if you understand.  
 **Translation:** 
 
-**[5140.08s] English:** force so if a high take that in consideration in order to protect us  
+**[5151.92s] English:** What, like, what do you think about that the desert makes you afraid sometimes? No.  
 **Translation:** 
 
-**[5146.46s] English:** against ourself mm-hmm it could hurt us you know I don't know if you understand  
-**Translation:** Vocabulary: ourself: 我们自己
-
-**[5151.92s] English:** what like what do you think about that the desert makes you afraid sometime no  
+**[5156.96s] English:** Not because of a high, but because of what humans are doing.  
 **Translation:** 
 
-**[5156.96s] English:** not because of a high but because of what humans are doing  
+**[5160.00s] English:** That he could do to us to prevent us from hurting ourselves, you know? Yeah, no, I mean, definitely.  
 **Translation:** 
 
-**[5160.00s] English:** that he could do to us to prevent us of hurting each ourself you know yeah no i mean definitely  
+**[5168.42s] English:** It can bring out the worst in human nature and, uh, provide tools for evil people to do evil.  
 **Translation:** 
 
-**[5168.42s] English:** it can bring out the the worst in human nature and uh provide tools for evil people to do evil  
+**[5176.78s] English:** Things at a larger scale, but I just think it depends on what you think human beings are. I tend,...  
 **Translation:** 
 
-**[5176.78s] English:** things at a larger scale but i just think it depends what you think human beings are i tend  
+**[5184.78s] English:** To believe that as we get more intelligent, we start to see the evolutionary value.  
+**Translation:** Vocabulary: evolutionary: 进化的
+
+**[5194.52s] English:** And the value, in terms of happiness, of being good to each other, and I think AI—if you look at AI,  
 **Translation:** 
 
-**[5184.78s] English:** to believe that as we get more intelligent we uh we start to see the value the evolutionary value  
-**Translation:** Vocabulary: evolutionary: 进化
+**[5200.20s] English:** As an optimization problem, how can we create a civilization that works well and expands throughout?  
+**Translation:** Vocabulary: expands: 扩展; optimization: 最优化
 
-**[5194.52s] English:** and the value in terms of happiness of being good to each other and i think ai if if you look at ai  
+**[5204.88s] English:** The universe: I think love is much more effective, so AI will help us maximize that. I think there's  
 **Translation:** 
 
-**[5200.20s] English:** as an optimization problem of how to create a civilization that works well and expands throughout  
-**Translation:** Vocabulary: optimization: 最优化
-
-**[5204.88s] English:** the universe i think love is much more effective so ai will help us maximize that i think there's  
-**Translation:** 
-
-**[5214.06s] English:** going to be  
+**[5214.06s] English:** Going to be  
 **Translation:** Vocabulary: maximize: 最大化
 
-**[5214.78s] English:** always spikes throughout as it has been through human history where charismatic leaders will do  
+**[5214.78s] English:** Always spikes throughout, as it has been through human history, where charismatic leaders will do.  
 **Translation:** 
 
-**[5220.62s] English:** evil onto the world in the name of good you have the stalin and the hitlers and all of that  
-**Translation:** Vocabulary: charismatic: 有魅力的; spikes: 激增; stalin: 斯大林
+**[5220.62s] English:** Evil into the world in the name of good, you have the Stalins and the Hitlers, and all of that.  
+**Translation:** Vocabulary: charismatic: 有魅力的; hitlers: 希特勒; spikes: 激增; stalins: 斯大林
 
-**[5226.42s] English:** but ultimately over time i think technology will give the good uh the good people power  
+**[5226.42s] English:** But ultimately, over time, I think technology will give the good people power.  
 **Translation:** 
 
-**[5237.50s] English:** and the evil people uh less power now there's a lot of ways in that in the  
+**[5237.50s] English:** And the evil people have less power now, there are lots of ways in which that is happening.  
 **Translation:** 
 
-**[5244.78s] English:** past that that won't be the case there's a lot of ways for it to go wrong and elon talks about them  
+**[5244.78s] English:** Past that, that won't be the case. There are lots of ways for it to go wrong, and Elon talks about them.  
 **Translation:** 
 
-**[5249.56s] English:** but i i honestly think in terms of intelligent ai that's going to bring more love to the world  
+**[5249.56s] English:** But I honestly think, in terms of intelligent AI, that's going to bring more love to the world.  
 **Translation:** 
 
-**[5257.10s] English:** the thing i'm concerned about is dumb ai so there's been a lot of discussion between china  
+**[5257.10s] English:** The thing I'm concerned about is dumb AI, so there's been a lot of discussion between China  
 **Translation:** 
 
-**[5263.80s] English:** and the united states recently on autonomous weapons system this is something people don't  
+**[5263.80s] English:** And the United States recently discussed autonomous weapon systems. This is something people don't  
+**Translation:** Vocabulary: autonomous: 自主
+
+**[5268.78s] English:** They're afraid to talk about, but there's now a race, uh,...  
 **Translation:** 
 
-**[5268.78s] English:** they're afraid to talk about but there's now a race uh  
+**[5274.78s] English:** Where the United States has officially said that they're not against  
 **Translation:** 
 
-**[5274.78s] English:** where the united states has officially said that they're not against  
+**[5280.00s] English:** Adding AI to its weapon systems, so now the U.S. military is adding automation and intelligence.  
 **Translation:** 
 
-**[5280.00s] English:** adding ai to its weapon systems so now the u.s military is adding automation adding intelligence  
-**Translation:** 
-
-**[5290.00s] English:** to its drones to its uh anything that can create damage and so of course and they did this so in  
+**[5290.00s] English:** To its drones, to anything that can create damage, and so, of course, they did this, so...  
 **Translation:** Vocabulary: automation: 自动化; drones: 无人机
 
-**[5298.72s] English:** response to china doing that so you can imagine this is this is terminator you think about  
+**[5298.72s] English:** Response to China doing that, so you can imagine: this is like Terminator. You think about it.  
 **Translation:** 
 
-**[5305.12s] English:** terminators and intelligence systems they're not they're pretty dumb the the point is they're  
+**[5305.12s] English:** Terminators and intelligence systems—they're not that smart. The point is, they're  
 **Translation:** Vocabulary: terminator: 终结者; terminators: 终结者
 
-**[5311.68s] English:** efficient at doing what they do and in the space of war efficient at doing what you do means killing  
+**[5311.68s] English:** Efficient at doing what they do, and in the space of war, being efficient at doing what you do means killing.  
 **Translation:** 
 
-**[5319.44s] English:** so that i'm really afraid of but those are dumb ai those aren't your uh loving deep fulfilling  
-**Translation:** Vocabulary: fulfilling: 满足的
+**[5319.44s] English:** So, that's really afraid of, but those are dumb AI; those aren't your uh, loving, deep, and fulfilling.  
+**Translation:** Vocabulary: fulfilling: 令人满意
 
-**[5328.00s] English:** relationships that's like uh efficiently being able to fly to plan the trajectory of dropping  
+**[5328.00s] English:** Relationships: that's like, uh, efficiently being able to fly and plan the trajectory of dropping.  
 **Translation:** 
 
-**[5335.68s] English:** of missiles of how to do counter attacks of how to maximize the destruction of a particular  
-**Translation:** Vocabulary: efficiently: 高效地; maximize: 最大化; missiles: 导弹; trajectory: 轨迹
-
-**[5341.52s] English:** facility instead of individuals and then that can just escalate and as opposed to the cold war with  
+**[5335.68s] English:** Of missiles, how to do counterattacks, and how to maximize the destruction of a particular target.  
 **Translation:** 
 
-**[5349.12s] English:** the with the soviet union this could be a hot war and then the consequences once you allow it's kind  
+**[5341.52s] English:** Facility, instead of individuals, and then that can just escalate. As opposed to the Cold War,  
+**Translation:** 
+
+**[5349.12s] English:** The possibility of a hot war with the Soviet Union was there, and then the consequences once you allow it.  
 **Translation:** Vocabulary: escalate: 升级
 
-**[5357.76s] English:** of terrifying yeah because currently the drones are operated by humans so you know you have say  
+**[5357.76s] English:** Of terrifying, yeah, because currently the drones are operated by humans, so you know, you have to say,...  
 **Translation:** 
 
-**[5365.12s] English:** you have information about uh intelligence gives you information about a particular terrorist  
-**Translation:** Vocabulary: terrifying: 恐怖的
+**[5365.12s] English:** You have information about a particular terrorist, which gives you information about their intelligence.  
+**Translation:** Vocabulary: terrifying: 令人恐惧的
 
-**[5371.04s] English:** located in this area and then you use drones to maybe uh the automation there is to help you  
+**[5371.04s] English:** Located in this area, and then you can use drones to maybe automate some of the processes there.  
 **Translation:** 
 
-**[5379.12s] English:** figure out what is the best trajectory to strike at that location so you still have a human that  
+**[5379.12s] English:** Figure out what is the best trajectory to strike at that location, so you still have a human that  
+**Translation:** Vocabulary: automate: 自动化; drones: 无人机; trajectory: 轨迹
+
+**[5386.48s] English:** Pulls the trigger at the end, dropping the bomb. Now, automation and AI, and autonomous weapon systems.  
 **Translation:** 
 
-**[5386.48s] English:** pulls the trigger at the end dropping the bomb now automation and ai and autonomous weapons systems  
+**[5393.60s] English:** Might be where you say there's a bad guy over here; you figure it out.  
+**Translation:** Vocabulary: automation: 自动化工序; autonomous: 自主作战系统
+
+**[5400.00s] English:** To get rid of the bad guy, okay? So then, of course, the systems will be very good at finding the right.  
 **Translation:** 
 
-**[5393.60s] English:** might be where you say there's a bad guy over here you figure out  
-**Translation:** Vocabulary: autonomous: 自主的
+**[5405.60s] English:** Trajectory, and so on, but there are bugs that can happen—unexpected bugs that the system might encounter.  
+**Translation:** Vocabulary: encounter: 遇到
 
-**[5400.00s] English:** to get rid of the bad guy okay so then of course the systems will be very good at finding the right  
+**[5413.36s] English:** Figure out that there is this bad guy, who might actually be in these other five locations.  
 **Translation:** 
 
-**[5405.60s] English:** trajectory and so on but there's bugs that can happen unexpected bugs that the system might  
+**[5419.92s] English:** So, Mike's might make sense to cover the entire area, right? And so you might drop bombs on the  
 **Translation:** 
 
-**[5413.36s] English:** figure out that there is this bad guy might actually be in these other five locations  
+**[5427.28s] English:** Entire area, and then you know, that's just okay, so that's going to lead to a lot of destruction.  
 **Translation:** 
 
-**[5419.92s] English:** so mike's might make sense to cover the entire area right and so you might drop bombs on the  
+**[5432.72s] English:** At the scale of a city, but then you can immediately take that to nuclear weapons.  
 **Translation:** 
 
-**[5427.28s] English:** entire area and then you know that's just okay so that's going to lead to a lot of destruction  
+**[5437.44s] English:** If you add automation to responding to counterattacks to nuclear weapons,  
 **Translation:** 
 
-**[5432.72s] English:** at the scale of a city but then you can immediately take that to nuclear weapons  
+**[5442.88s] English:** Somebody you might get information that somebody is planning a nuclear attack on the United States.  
+**Translation:** Vocabulary: counterattacks: 反击
+
+**[5447.28s] English:** And the AI system will immediately respond, and you know it can respond at a scale of launching.  
 **Translation:** 
 
-**[5437.44s] English:** if you add automation to uh responding to counter attacks to nuclear weapons  
+**[5453.20s] English:** Nuclear weapons, themselves, and so there are all of these possibilities that  
 **Translation:** 
 
-**[5442.88s] English:** somebody you might get information that somebody's planning a nuclear attack on the united states  
-**Translation:** Vocabulary: automation: 自动化
-
-**[5447.28s] English:** and the ai system will immediately respond and you know it can respond at a scale of launching  
+**[5457.20s] English:** You're going to have to deal with, and you're going to have to deal with, and you're going to have to deal with.  
 **Translation:** 
 
-**[5453.20s] English:** nuclear weapons itself and so there's all of these possibilities that  
-**Translation:** 
-
-**[5457.20s] English:** you're going to have to deal with and you're going to have to deal with and you're going to have to deal with  
-**Translation:** 
-
-**[5457.26s] English:** don't require much intelligence and uh that's exceptionally that's exceptionally concerning  
+**[5457.26s] English:** Don't require much intelligence, and that's exceptionally — that's exceptionally concerning.  
 **Translation:** Vocabulary: exceptionally: 特别地
 
-**[5463.90s] English:** i i'm like you i do not believe there is babies that are born bad i think people  
+**[5463.90s] English:** I, like you, don't believe there are babies that are born bad; I think people...  
 **Translation:** 
 
-**[5471.02s] English:** do bad things because of their experience however if i look  
+**[5471.02s] English:** Do bad things because of their experiences, however, if I look  
 **Translation:** 
 
-**[5478.78s] English:** to my experience from what i can see is some very often men's of power wants more power  
+**[5478.78s] English:** To my experience, from what I can see, is that some very often want more power.  
 **Translation:** 
 
-**[5486.38s] English:** right that's what makes me afraid with yeah no absolutely i listen i've been a i've come from the  
+**[5486.38s] English:** Right, that's what makes me afraid. Yes, no, absolutely. I listen; I've been coming from the  
 **Translation:** 
 
-**[5495.18s] English:** soviet union uh stalin is arguably one of the most powerful humans in history he's not talked often  
+**[5495.18s] English:** Soviet Union, uh, Stalin is arguably one of the most powerful humans in history; he's not talked about often.  
 **Translation:** 
 
-**[5502.14s] English:** enough about by the evils he's done hitler gets all the attention yeah but stalin has done arguably  
-**Translation:** Vocabulary: arguably: 或许; stalin: 斯大林
+**[5502.14s] English:** Enough about the evils he's done; Hitler gets all the attention, yeah, but Stalin has done arguably  
+**Translation:** Vocabulary: arguably: 或许; hitler: 希特勒; stalin: 斯大林
 
-**[5507.42s] English:** much more evil than uh than hitler yeah well this is this is human nature it wants power  
+**[5507.42s] English:** Much more evil than Hitler, yeah. Well, this is human nature; it wants power.  
 **Translation:** 
 
-**[5513.74s] English:** we see that with institutions we see that with governments and nations  
+**[5513.74s] English:** We see that with institutions, we see that with governments and nations.  
 **Translation:** 
 
-**[5516.30s] English:** i think you see you see this within  
+**[5516.30s] English:** I think you see, you see, this within.  
 **Translation:** 
 
-**[5520.00s] English:** internet people are really hungry for the distribution of power like you see that people  
+**[5520.00s] English:** Internet people are really hungry for the distribution of power, like you see that people  
 **Translation:** 
 
-**[5527.26s] English:** are very much distrustful of centralized places of power of institutions and so on so i think  
+**[5527.26s] English:** Are very much distrustful of centralized places of power, institutions, and so on. So, I think  
 **Translation:** 
 
-**[5533.16s] English:** successful organizations successful companies successful governments will be run by people  
+**[5533.16s] English:** Successful organizations, successful companies, and successful governments will be run by people.  
 **Translation:** Vocabulary: distrustful: 不信任的
 
-**[5540.26s] English:** who distribute the power like i don't trust myself with power at all yeah and i think you have to  
+**[5540.26s] English:** Who distribute the power? Like, I don't trust myself with power at all. Yeah, and I think you have to.  
 **Translation:** 
 
-**[5546.12s] English:** build into the system that no one person can have power and that you distribute it that's where you  
+**[5546.12s] English:** Build into the system that no one person can have power and that you distribute it—that's where you.  
 **Translation:** 
 
-**[5553.26s] English:** have in the financial sector you have cryptocurrency right now with bitcoin and all those kinds of  
+**[5553.26s] English:** In the financial sector, you have cryptocurrencies like Bitcoin and all those kinds of currencies.  
 **Translation:** 
 
-**[5557.70s] English:** things people are exploring how can we avoid the central bank to have the control how do you put  
-**Translation:** Vocabulary: cryptocurrency: 加密货币
+**[5557.70s] English:** Things people are exploring: How can we avoid the central bank having control? How do you put this into practice?  
+**Translation:** Vocabulary: cryptocurrencies: 加密货币; currencies: 货币
 
-**[5564.98s] English:** the power in the hands of people thousands of people millions of people and in the same way  
+**[5564.98s] English:** The power in the hands of people—thousands, millions of people—and in the same way.  
 **Translation:** 
 
-**[5570.08s] English:** with uh with military with um any kind of uh with technology  
+**[5570.08s] English:** With, uh, military or any kind of technology.  
 **Translation:** 
 
-**[5576.12s] English:** i think the future looks very distributed so what do you think about militarizing space  
+**[5576.12s] English:** I think the future looks very distributed. So, what do you think about militarizing space?  
 **Translation:** 
 
-**[5583.30s] English:** the uh space force i i i don't think about it often because right now i'm filled with excitement  
+**[5583.30s] English:** The Space Force—I don't think about it often because, right now, I'm filled with excitement.  
+**Translation:** Vocabulary: militarizing: 军事化
+
+**[5592.30s] English:** About space exploration, which is a positive aspect, so Elon—you know, I was born in an era.  
 **Translation:** 
 
-**[5592.30s] English:** about space exploration which is the positive aspect so elon you know i was born in an era  
+**[5600.96s] English:** Where it was exciting, I don't know about you, but for me, it's exciting to look up to the stars and  
 **Translation:** 
 
-**[5600.96s] English:** where it was exciting i don't know about you but for me it's exciting to look up to the stars and  
+**[5606.12s] English:** Dream about us, humans, you know, uh, colonizing Mars, colonizing other planets, expanding out to the  
 **Translation:** 
 
-**[5606.12s] English:** dream about us humans you know uh colonizing mars colonizing other planets expanding out to the  
+**[5613.70s] English:** Galaxy into the universe—that's really exciting, uh. So, I'm just thrilled by the possibilities there are.  
+**Translation:** Vocabulary: colonizing: 殖民; galaxy: 星系; thrilled: 兴奋
+
+**[5622.66s] English:** Endless, I don't think, because the resources are endless, and so I think we get.  
 **Translation:** 
 
-**[5613.70s] English:** galaxy into the universe that's really exciting uh so i'm i'm the the possibilities there are  
-**Translation:** Vocabulary: colonizing: 殖民; galaxy: 星系
-
-**[5622.66s] English:** endless i don't think because the also the resources are endless and so i think we get  
-**Translation:** 
-
-**[5629.08s] English:** into trouble with militarization with wars when the resources are very constrained so i think  
+**[5629.08s] English:** Into trouble with militarization and wars when the resources are very constrained, so I think.  
 **Translation:** Vocabulary: constrained: 资源有限; militarization: 军事化
 
-**[5636.12s] English:** for a while we're not going to be fighting the the  
+**[5636.12s] English:** For a while, we're not going to be fighting the war.  
 **Translation:** 
 
-**[5640.00s] English:** only wars we'll be fighting in space are the ones that kind of uh another another nation to compete  
+**[5640.00s] English:** Only wars we'll be fighting in space are the ones to compete with another nation, kind of.  
 **Translation:** 
 
-**[5646.56s] English:** yeah who goes to the moon first i guess that's those those the kind those kinds of things or  
+**[5646.56s] English:** Yeah, who goes to the moon first? I guess those are the kinds of things or  
 **Translation:** 
 
-**[5651.20s] English:** maybe for satellites and all those kinds of communication and uh maybe in assistance for  
+**[5651.20s] English:** Maybe for satellites and all those kinds of communications, and perhaps in assistance for.  
 **Translation:** 
 
-**[5656.42s] English:** like cyber warfare which is also very dangerous but in terms of space uh the wars out in space i  
+**[5656.42s] English:** Like cyber warfare, which is also very dangerous, but in terms of space, uh, the wars are out there in space.  
 **Translation:** 
 
-**[5662.78s] English:** think i think uh everything out in space will be like positive and inspiring it's very hard  
+**[5662.78s] English:** I think, everything out in space will be like positive and inspiring. It's very hard.  
+**Translation:** Vocabulary: warfare: 军事冲突
+
+**[5669.74s] English:** But, uh, all good things are hard. I think this is where I've been. I've been talking to a bunch of  
 **Translation:** 
 
-**[5669.74s] English:** but uh all good things are hard i think this is where i've been i've been talking to a bunch of  
+**[5675.28s] English:** People are really excited about extraterrestrial life, I don't know, it's just something else, um.  
+**Translation:** Vocabulary: extraterrestrial: 来自地球外的
+
+**[5684.76s] English:** When I look out at the stars, it's exciting to me. I know I've thought you've spoken about it being scary.  
 **Translation:** 
 
-**[5675.28s] English:** people about um extraterrestrial life i'm really excited by i don't know it's the other thing um  
-**Translation:** Vocabulary: extraterrestrial: 来自外星球的
-
-**[5684.76s] English:** when i look out to the stars it's exciting to me i know i think you've spoken about it being scary  
+**[5690.30s] English:** But to me, it's exciting.  
 **Translation:** 
 
-**[5690.30s] English:** but to me it's exciting  
+**[5692.78s] English:** That there are intelligent creatures out there, far beyond perhaps the intelligence of our own.  
 **Translation:** 
 
-**[5692.78s] English:** that there's intelligent creatures out there far beyond perhaps the intelligence of our own  
+**[5697.74s] English:** That, uh, are just too far away to explore yet, but we might come in contact with them one day.  
 **Translation:** 
 
-**[5697.74s] English:** that uh are just too far away to explore yet but we might one day come in contact with them  
+**[5704.00s] English:** So, uh, that to me is the ultimate motivator: to meet other intelligent life forms out there.  
 **Translation:** 
 
-**[5704.00s] English:** so uh that that to me is the ultimate motivator is to meet other intelligent life forms out there  
+**[5711.64s] English:** And connect with them. Have you ever met Jacques Valley? No, but I've been in communication with him.  
 **Translation:** 
 
-**[5711.64s] English:** and connect with them have you ever meet uh jacques valley no but i've been in communication  
-**Translation:** Vocabulary: motivator: 激励因素
-
-**[5717.52s] English:** i want to i hope to talk to him he's an amazing french yeah i um i know that there's  
+**[5717.52s] English:** I want to, I hope to talk to him. He's an amazing French guy, you know? I um, I know that there's  
 **Translation:** 
 
-**[5722.70s] English:** have you ever met jacques valley  
+**[5722.70s] English:** Have you ever met Jacques Valley?  
+**Translation:** Vocabulary: jacques: 雅克
+
+**[5722.76s] English:** Many theories exist about us, you know. If there are aliens, we don't know for sure, but some people think it's  
 **Translation:** 
 
-**[5722.76s] English:** many theories about us you know if there's alien we don't know right but but some people think it's  
+**[5729.40s] English:** From another star system, and Jacques Valley has a liking to make a long story short; he has  
+**Translation:** Vocabulary: aliens: 外星人
+
+**[5735.36s] English:** A different theory: he thinks it's perhaps beings that could be living in a different dimension than ours.  
 **Translation:** 
 
-**[5729.40s] English:** from another star systems and jacques valley has a like to make a long story short he has  
-**Translation:** Vocabulary: alien: 外星人
-
-**[5735.36s] English:** a different theory he thinks it's perhaps beings that could be living in a different dimension than  
-**Translation:** 
-
-**[5744.58s] English:** than us and the reason why he says that is when he makes an experiment when there is a sightings  
+**[5744.58s] English:** Than us, and the reason why he says that is when he makes an experiment, when there is a sighting.  
 **Translation:** Vocabulary: dimension: 维度
 
-**[5749.74s] English:** very often of a ufo let's say i'm  
+**[5749.74s] English:** Very often, with a UFO, let's say I'm  
 **Translation:** 
 
-**[5752.76s] English:** i'm the ufo that you have three guys what they they are looking at the ufo  
+**[5752.76s] English:** I'm the UFO that you see, three guys are looking at it.  
 **Translation:** 
 
-**[5760.00s] English:** Very often, one experiment that you can do, and sometimes that is the case, you ask your two friends to walk on the side, and there's a point that it's like a corridor.  
+**[5760.00s] English:** Very often, one experiment that you can do: and sometimes that is the case. You ask your two friends to walk on the side, and there's a point that it's like a corridor.  
 **Translation:** 
 
-**[5771.00s] English:** You see the UFO, and then you stop seeing it like a corridor.  
+**[5771.00s] English:** You see the UFO, and then you start seeing it like a corridor.  
 **Translation:** 
 
 **[5774.72s] English:** And that's one of the reasons why he's saying that it's perhaps a dimension.  
@@ -3295,17 +3296,17 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[5779.84s] English:** And I found that fascinating, you know.  
 **Translation:** 
 
-**[5781.72s] English:** This is what, you know, to the discussion of consciousness and all that, it feels like we might be just experiencing a very particular slice of this universe.  
+**[5781.72s] English:** This is what I mean by the discussion of consciousness and all that—it feels like we might be just experiencing a very particular slice of this universe.  
 **Translation:** 
 
-**[5791.80s] English:** We might not be understanding what's at the higher dimensions or, yeah, I mean, higher dimensions in whatever form that means.  
-**Translation:** Vocabulary: dimensions: 高维
+**[5791.80s] English:** We might not be understanding what's at higher dimensions, or, yeah, I mean, however that form may be.  
+**Translation:** Vocabulary: consciousness: 觉醒; dimensions: 维度
 
-**[5798.72s] English:** You know, there's all these physical theories now that describe a world with dimensions that's much higher than the four dimensions of the three dimension of space and the one dimension of time.  
+**[5798.72s] English:** You know, there are now many physical theories that describe a world with dimensions much higher than the four dimensions of three spatial dimensions and one dimension of time.  
 **Translation:** 
 
-**[5809.98s] English:** So whatever the hell is going on.  
-**Translation:** 
+**[5809.98s] English:** So, whatever the hell is going on.  
+**Translation:** Vocabulary: spatial: 空间的
 
 **[5811.72s] English:** What's going on in those other dimensions?  
 **Translation:** 
@@ -3319,7 +3320,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[5817.76s] English:** It might be something we can't even comprehend with our human brains.  
 **Translation:** Vocabulary: comprehend: 理解
 
-**[5821.78s] English:** That the limitations are just, I mean, we're built, we're just descendants of apes.  
+**[5821.78s] English:** That the limitations are just, I mean, we're built; we're just descendants of apes.  
 **Translation:** 
 
 **[5828.40s] English:** So, like, it might not be possible to even understand.  
@@ -3329,247 +3330,247 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **Translation:** 
 
 **[5831.76s] English:** Is there another dimension?  
+**Translation:** Vocabulary: alien: 外星人; dimension: 维度
+
+**[5832.86s] English:** Are they humans from the future?  
 **Translation:** 
 
-**[5832.86s] English:** Are they human from the future?  
+**[5834.66s] English:** Is there perhaps a group of people in China or another country, you know what I mean, who are working with a technology far behind?  
 **Translation:** 
 
-**[5834.66s] English:** Is there perhaps Chinese or another, you know what I mean, a group of people that are working with a technology far behind?  
+**[5841.72s] English:** But, you know what, Lex, I had the chance to meet—you know—because of the sport I'm doing.  
 **Translation:** 
 
-**[5841.72s] English:** But, you know what, Lex, I had the chance to meet, you know, because of the sport I'm doing.  
+**[5846.62s] English:** I met a lot of people in military and politics, and sometimes I ask them every time.  
 **Translation:** 
 
-**[5846.62s] English:** I met a lot of people in military and politics sometimes that I ask them every time.  
+**[5853.74s] English:** I met one this week, and I asked him, "Is it true about the UFOs?  
 **Translation:** 
 
-**[5853.74s] English:** I met one this week and I asked him, I said, is it true about the UFOs there?  
-**Translation:** 
-
-**[5861.42s] English:** And he says to me, he's like, even before I asked him, I said, hey, sir, I have to ask you a question.  
+**[5861.42s] English:** And he says to me, "He's like, even before I asked him, I said, 'Hey, sir, I have to ask you a question.  
 **Translation:** 
 
 **[5868.52s] English:** I was in Los Angeles.  
 **Translation:** 
 
-**[5869.64s] English:** And I said, sorry, I have to ask you a question.  
+**[5869.64s] English:** And I said, "Sorry, I have to ask you a question.  
 **Translation:** 
 
-**[5873.02s] English:** He said, oh, you want to ask me about UFOs?  
+**[5873.02s] English:** He said, "Oh, you want to ask me about UFOs?  
 **Translation:** 
 
-**[5874.56s] English:** Right away you do.  
+**[5874.56s] English:** Right away, you do.  
 **Translation:** 
 
-**[5875.40s] English:** And I said, yes.  
+**[5875.40s] English:** And I said, "Yes.  
 **Translation:** 
 
 **[5876.50s] English:** He saw it in your eyes.  
 **Translation:** 
 
-**[5877.50s] English:** He said, yeah, there is things that flies that we don't know.  
+**[5877.50s] English:** He said, "Yeah, there are things that fly that we don't know.  
 **Translation:** 
 
-**[5880.00s] English:** know but he does he didn't tell me he doesn't know it they don't know if it's saline or whatever but  
+**[5880.00s] English:** Know, but he didn't tell me. He doesn't know it. They don't know if it's saline or whatever, but...  
 **Translation:** Vocabulary: saline: 盐水的
 
-**[5884.42s] English:** there's things apparently that are detected and i know you met uh flavor you know like flavor is  
+**[5884.42s] English:** There's things apparently that are detected, and I know you met, uh, flavor—you know, like flavor is.  
 **Translation:** 
 
-**[5890.68s] English:** fascinating it's crazy it makes me sad that we live in a different era now that that it's used  
-**Translation:** Vocabulary: detected: 被发现
+**[5890.68s] English:** Fascinating, it's crazy. It makes me sad that we live in a different era now that it's used.  
+**Translation:** Vocabulary: detected: 发现
 
-**[5896.36s] English:** to be a subject that was ridicules and now it's so cool that it's you know i'm very excited to live  
+**[5896.36s] English:** To be a subject that was ridiculed and now it's so cool; I'm very excited about it!  
 **Translation:** 
 
-**[5902.92s] English:** in to that that era you know yeah it's really exciting but still the governments are kind of  
-**Translation:** Vocabulary: ridicules: 嘲笑的对象
+**[5902.92s] English:** In that era, you know, yeah, it's really exciting, but still the governments are kind of...  
+**Translation:** Vocabulary: ridiculed: 嘲笑的对象
 
-**[5908.68s] English:** behind the times on that aspect is they're not transparent and they don't communicate well  
+**[5908.68s] English:** Behind the times on that aspect is that they're not transparent and they don't communicate well.  
 **Translation:** 
 
-**[5914.08s] English:** you know it saddens me to think the possibility that that you know like the u.s government might  
+**[5914.08s] English:** You know, it saddens me to think of the possibility that, you know, like the U.S. government might.  
 **Translation:** 
 
-**[5920.82s] English:** be in possession of something that they don't tell the world about because they're just scared  
+**[5920.82s] English:** Be in possession of something that they don't tell the world about because they're just scared.  
 **Translation:** 
 
-**[5927.26s] English:** it's because they don't know what the hell it is and they don't want the chinese to gain the  
+**[5927.26s] English:** It's because they don't know what the hell it is, and they don't want the Chinese to gain the  
 **Translation:** 
 
-**[5932.02s] English:** technology or all those kinds of things do you think the president of the united states for  
+**[5932.02s] English:** Technology, or all those kinds of things, do you think the President of the United States for?  
 **Translation:** 
 
-**[5937.20s] English:** example because a president comes  
+**[5937.20s] English:** Example, because a president comes.  
 **Translation:** 
 
-**[5938.68s] English:** and go every right four or eight years do you think he would know all the secret or it would  
+**[5938.68s] English:** And go every right four or eight years, do you think he would know all the secrets, or it would?  
 **Translation:** 
 
-**[5944.52s] English:** be a guy like for example vladimir putin would know much of uh you know what i mean i don't  
+**[5944.52s] English:** Be a guy, like for example Vladimir Putin, would know much more of, you know, what I mean. Don't  
 **Translation:** 
 
-**[5950.04s] English:** think the president even know like even can knows all all the the secret the u.s president yeah i  
+**[5950.04s] English:** Think the president even knows all the secrets, the U.S. president, yeah?  
 **Translation:** 
 
-**[5955.90s] English:** don't think so because he goes they go back and forth you know every four years you know they  
+**[5955.90s] English:** Don't think so because he goes back and forth, you know, every four years, you know.  
 **Translation:** 
 
-**[5961.06s] English:** have the terms right so i you know i i wasn't sure before but i think i could trust the  
+**[5961.06s] English:** Have the terms right, so I, you know, I wasn't sure before, but I think I could trust the.  
 **Translation:** 
 
-**[5968.68s] English:** previous united states president of donald trump that if he knew he would probably tweet about it  
+**[5968.68s] English:** Previous United States President Donald Trump would probably tweet about it if he knew.  
 **Translation:** 
 
-**[5976.48s] English:** so perhaps so i you know i i think from from the con you know i've worked with darpa i work with  
+**[5976.48s] English:** So, perhaps. I mean, I've worked with DARPA, and I work with...  
 **Translation:** 
 
-**[5984.10s] English:** dod at clearance and i think from the perspective if you if you see the world as fundamentally a  
-**Translation:** Vocabulary: darpa: DARPA; fundamentally: 根本上
+**[5984.10s] English:** Dod, at clearance, and I think, from the perspective that if you see the world as fundamentally a  
+**Translation:** Vocabulary: fundamentally: 从根本上
 
-**[5991.22s] English:** dangerous world where secrets are important to have from a military perspective i think it's  
+**[5991.22s] English:** A dangerous world where secrets are important from a military perspective, I think it's.  
 **Translation:** 
 
-**[5998.68s] English:** very unsafe to  
+**[5998.68s] English:** Very unsafe to.  
+**Translation:** Vocabulary: unsafe: 不安全
+
+**[6000.00s] English:** Tell the President of the United States that you have this kind of technology, so if you think of  
 **Translation:** 
 
-**[6000.00s] English:** tell the president of the united states that you have this kind of technology so if you think of  
+**[6006.68s] English:** The world in that way, I hate that it's viewed because, ultimately, I think what's  
 **Translation:** 
 
-**[6006.68s] English:** the world in that way i hate that that's how that world is viewed because ultimately i think what's  
+**[6013.04s] English:** More powerful than the military secrets, and I hope that actually is what will happen in the 21st century.  
 **Translation:** 
 
-**[6013.04s] English:** more powerful than the military secrets and i hope that actually is what will happen in the 21st  
+**[6017.86s] English:** Century, because what's more powerful is to inspire people, especially the young Elons Musks of tomorrow.  
+**Translation:** Vocabulary: musks: 埃隆·马斯克
+
+**[6026.10s] English:** The world can create cool new things if we have technology that we've encountered.  
 **Translation:** 
 
-**[6017.86s] English:** century because what's more powerful is inspire people inspire the the young elon musks of the  
-**Translation:** Vocabulary: musks: 榜样
+**[6034.20s] English:** That we don't understand should only be inspiration to develop that kind of stuff.  
+**Translation:** Vocabulary: encountered: 遇到的
 
-**[6026.10s] English:** world to to create cool new things if we have technology that we've uh have come have encountered  
+**[6040.32s] English:** It shouldn't be seen as a military threat or as a secret to hold onto. I think secrets should be handled differently.  
 **Translation:** 
 
-**[6034.20s] English:** that we don't understand that should only be inspiration to uh develop that kind of stuff  
-**Translation:** Vocabulary: encountered: 遇到
-
-**[6040.32s] English:** it shouldn't be seen as military uh as a military threat as a secret to hold on to i think secrets  
+**[6047.68s] English:** I hope we more and more let go of the idea that there are secrets that give us an advantage.  
 **Translation:** 
 
-**[6047.68s] English:** i hope we more and more let go of the idea that there are secrets that give us advantage  
+**[6054.60s] English:** You know, like  
 **Translation:** 
 
-**[6054.60s] English:** you know like  
+**[6056.10s] English:** In the tech sector, people are more and more releasing the software they're making, it open.  
 **Translation:** 
 
-**[6056.10s] English:** in the tech sector people are more and more releasing the software they're making it open  
+**[6061.50s] English:** Source, like secrets, don't make sense; they share the knowledge, sharing is key.  
 **Translation:** 
 
-**[6061.50s] English:** source like secrets don't make sense they share the knowledge sharing share the knowledge they  
+**[6067.96s] English:** Share, like, being afraid to share the knowledge I think is an old idea. It's more, yeah.  
 **Translation:** 
 
-**[6067.96s] English:** share like being afraid to share the knowledge i think i hope is an old idea it's more yeah when  
+**[6074.08s] English:** You make it things more compartmentalized, you know. Yes, well, yeah, well, that's the other thing.  
 **Translation:** 
 
-**[6074.08s] English:** you make it things more compartmentalized you know yes well yeah well that's the other thing  
-**Translation:** 
-
-**[6079.24s] English:** is the bureaucracy of government is like people only know their own little thing and they don't  
+**[6079.24s] English:** Is the bureaucracy of government like people, only knowing their own little thing and they don't?  
 **Translation:** Vocabulary: bureaucracy: 官僚体系; compartmentalized: 分隔开的
 
-**[6084.72s] English:** spread the information it doesn't  
+**[6084.72s] English:** Spread the information; it doesn't.  
 **Translation:** 
 
-**[6086.10s] English:** travel well i mean there's a lot of just inefficiencies there it makes me sad it makes  
+**[6086.10s] English:** Travel well, I mean, there are a lot of just inefficiencies there. It makes me sad.  
 **Translation:** Vocabulary: inefficiencies: 低效现象
 
-**[6090.76s] English:** me sad because uh the the science the engineering that happens in governments like lockheed martin  
+**[6090.76s] English:** I'm sad because the science and engineering that happen in governments, like Lockheed Martin.  
 **Translation:** 
 
-**[6097.80s] English:** developing the different airplanes that they're used for military applications it's some of the  
+**[6097.80s] English:** Developing the different airplanes that are used for military applications, it's some of the  
 **Translation:** 
 
-**[6102.76s] English:** most incredible engineering ever and it's secret because they're afraid to share it with the  
+**[6102.76s] English:** Most incredible engineering ever, and it's a secret because they're afraid to share it with the  
 **Translation:** 
 
-**[6108.62s] English:** russians and the chinese and so on but on that topic i do think somebody like vladimir putin  
+**[6108.62s] English:** Russians and the Chinese, and so on, but on that topic I do think somebody like Vladimir Putin.  
 **Translation:** 
 
-**[6114.70s] English:** when no  
+**[6114.70s] English:** When no  
 **Translation:** 
 
-**[6116.10s] English:** probably knows some stuff  
+**[6116.10s] English:** Probably knows some stuff.  
 **Translation:** 
 
-**[6118.20s] English:** my god my god  
+**[6118.20s] English:** My God, my God!  
 **Translation:** 
 
-**[6120.00s] English:** i would love to know what he knows but then again you never know because even he is you know people  
+**[6120.00s] English:** I would love to know what he knows, but then again, you never know because even he is, you know, people.  
 **Translation:** 
 
-**[6125.70s] English:** think of him as an exceptionally powerful person but he's also just managing a bunch of tribes  
+**[6125.70s] English:** Think of him as an exceptionally powerful person, but he's also just managing a bunch of tribes.  
 **Translation:** 
 
-**[6130.86s] English:** his power is very limited he's trying to hold together a bunch of greedy power hungry  
-**Translation:** Vocabulary: exceptionally: 特别地
+**[6130.86s] English:** His power is very limited. He's trying to hold together a bunch of greedy, power-hungry people.  
+**Translation:** Vocabulary: exceptionally: 特别; tribes: 部落
 
-**[6139.68s] English:** mad men that's right okay and he's trying to establish a balance he might not know everything  
+**[6139.68s] English:** Madmen, that's right. Okay, and he's trying to establish a balance; he might not know everything.  
 **Translation:** 
 
-**[6145.60s] English:** so i i hope this changes because i think there's nothing more exciting about i don't even know if  
+**[6145.60s] English:** So, I hope this changes because I think there's nothing more exciting. I don't even know if.  
+**Translation:** Vocabulary: madmen: 疯子
+
+**[6152.82s] English:** There is a human that knows, you know what I mean? Like this idea that there's some civilization...  
 **Translation:** 
 
-**[6152.82s] English:** there is a human that knows you know what i mean like this idea that there's some civilization  
-**Translation:** 
-
-**[6159.76s] English:** alien civilization that that land on the white house and say hi i come to meet the prison and i  
+**[6159.76s] English:** An alien civilization that lands on the White House and says, "Hi, I come to meet the president.  
 **Translation:** Vocabulary: alien: 外星的
 
-**[6164.38s] English:** why would they do that you know what i mean it's kind of absurd you know well i i do think that  
+**[6164.38s] English:** Why would they do that? You know what I mean? It's kind of absurd, you know. Well, I do think that.  
 **Translation:** 
 
-**[6171.02s] English:** actually i mean that's one possibility right is lart you know  
+**[6171.02s] English:** Actually, I mean, that's one possibility, right? Is LART, you know.  
+**Translation:** Vocabulary: absurd: 荒谬
+
+**[6175.08s] English:** You know,  
 **Translation:** 
 
-**[6175.08s] English:** you know  
+**[6175.58s] English:** If an alien civilization really wanted to contact us, I think everybody would know. So, I think what  
 **Translation:** 
 
-**[6175.58s] English:** if an alien civilization really wanted to contact us i think everybody would know so i think what  
+**[6182.18s] English:** We're likely to have some kind of interaction between humans and aliens if there is one.  
 **Translation:** 
 
-**[6182.18s] English:** we're if if there's any kind of interaction between humans and aliens i think most likely  
+**[6189.18s] English:** What we're interacting with is a crappy, like, probe drone thing that kind of just, like,  
+**Translation:** Vocabulary: aliens: 外星人; crappy: 糟糕的; drone: 无人机; interacting: 互动
+
+**[6196.52s] English:** It's like this, yeah, yeah. This dumb thing—you know, we're not interacting with the aliens, I think.  
 **Translation:** 
 
-**[6189.18s] English:** what we're interacting with is a crappy like probe drone thing that kind of just like like  
-**Translation:** Vocabulary: crappy: 破旧; drone: 无人机
-
-**[6196.52s] English:** it's like this yeah yeah this dumb thing you know we're not interacting with the aliens i think  
+**[6203.28s] English:** Just like, just like.  
 **Translation:** 
 
-**[6203.28s] English:** just like just like  
+**[6205.58s] English:** An alien animal rights activist claims that harvesting inhumane practices against humans is wrong, and they need to respect human rights, you know.  
 **Translation:** 
 
-**[6205.58s] English:** an alien animal right harvest in humans right they're and they need to be human right you know  
+**[6210.52s] English:** And that's what I think the Internet is doing here: not editing.  
+**Translation:** Vocabulary: editing: 修改
+
+**[6214.22s] English:** The bar with other human beings because they're, like, just something to always be.  
 **Translation:** 
 
-**[6210.52s] English:** and that's to be her yani yeah the thing that i think internet is doing here is not to edding  
+**[6218.76s] English:** Like humans, but at the same time, they're also talking to human beings, like we're talking.  
 **Translation:** 
 
-**[6214.22s] English:** the bar with other human beings because they're like yeah they're just something to always be  
+**[6222.80s] English:** About orderers, and they're just all robots. I think humanity is big.  
 **Translation:** 
 
-**[6218.76s] English:** like human but at the same time they'reсть also talking to human beings like we're talking  
+**[6225.18s] English:** That's very interesting, and I think if bad kids are talking about consciousness and relationships.  
+**Translation:** Vocabulary: consciousness: 觉醒; orderers: 下单者
+
+**[6230.36s] English:** Like, at some point, are we talking about governments that are also rivals in terms of human relationships?  
 **Translation:** 
 
-**[6222.80s] English:** about orderers and they're just all robots and i think humanity is big  
-**Translation:** 
-
-**[6225.18s] English:** that's very interesting and i think if bad kids are like talking about consciousness relationships  
-**Translation:** Vocabulary: orderers: 下订单者
-
-**[6230.36s] English:** like at some point are we talking about governments that are also rivals regarding human relationships  
-**Translation:** 
-
-**[6234.88s] English:** uh that interaction actually would look like if aliens really wanted to reach out really communicate  
-**Translation:** 
+**[6234.88s] English:** Uh, that interaction actually would look like if aliens really wanted to reach out and really communicate.  
+**Translation:** Vocabulary: rivals: 竞争对手
 
 **[6240.00s] English:** And I don't know if we're able to actually communicate with them.  
 **Translation:** 
@@ -3577,17 +3578,17 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[6242.54s] English:** That's one of the sad things.  
 **Translation:** 
 
-**[6243.72s] English:** We might, the aliens might already be here and we might just not even know how to see them or know how to communicate with them.  
+**[6243.72s] English:** We might; the aliens might already be here, and we might just not even know how to see them or how to communicate with them.  
 **Translation:** 
 
-**[6255.58s] English:** There's so much misinformation and sometimes there is people that are very credible that made crazy claims.  
+**[6255.58s] English:** There's so much misinformation, and sometimes there are very credible people who make crazy claims.  
 **Translation:** Vocabulary: credible: 可信的; misinformation: 错误信息
 
-**[6266.72s] English:** You know, like you don't know what to believe.  
+**[6266.72s] English:** You know, you don't know what to believe.  
 **Translation:** 
 
-**[6268.70s] English:** You know, like Paul Aylor, the Minister of Defense of Canada, said that there is many alien rays that ever...  
-**Translation:** 
+**[6268.70s] English:** You know, like Paul Aylor, the Minister of Defense of Canada, said that there are many alien rays that ever...  
+**Translation:** Vocabulary: alien: 外星的
 
 **[6277.82s] English:** That's what he said.  
 **Translation:** 
@@ -3595,22 +3596,22 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[6279.00s] English:** Research it.  
 **Translation:** 
 
-**[6279.94s] English:** And that scientist from, I think, Israel recently have said something about Trump.  
+**[6279.94s] English:** And that scientist from, I think, Israel recently has said something about Trump.  
 **Translation:** 
 
-**[6286.72s] English:** He was keeping secret or Medvedev, you're from Russia.  
-**Translation:** Vocabulary: medvedev: 梅德韦杰夫
+**[6286.72s] English:** He was keeping it a secret; you're from Russia.  
+**Translation:** 
 
-**[6290.30s] English:** Medvedev had been caught during a break in between interviews to talk about, oh, it's like men in black, so to speak.  
+**[6290.30s] English:** Medvedev had been caught during a break in between interviews to talk about, oh, it's like "Men in Black," so to speak.  
 **Translation:** 
 
 **[6297.24s] English:** I don't know.  
-**Translation:** 
+**Translation:** Vocabulary: medvedev: 梅德韦杰夫
 
 **[6297.68s] English:** He didn't look like he was...  
 **Translation:** 
 
-**[6298.70s] English:** He was joking, but I don't know if he was saying the truth.  
+**[6298.70s] English:** He was joking, but I don't know if he was telling the truth.  
 **Translation:** 
 
 **[6301.44s] English:** I didn't know about this.  
@@ -3623,13 +3624,13 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **Translation:** 
 
 **[6303.28s] English:** It went viral.  
-**Translation:** Vocabulary: viral: 广泛传播的
+**Translation:** Vocabulary: viral: 迅速流行
 
-**[6306.00s] English:** Yeah, there's a lot of things like that sometimes.  
+**[6306.00s] English:** Yeah, there are a lot of things like that sometimes.  
 **Translation:** 
 
-**[6307.80s] English:** I'm like, or Bob Lazar.  
-**Translation:** Vocabulary: lazar: Lazarus
+**[6307.80s] English:** I'm like Bob Lazar.  
+**Translation:** 
 
 **[6310.46s] English:** I'm like, imagine if it's true, man.  
 **Translation:** 
@@ -3637,35 +3638,35 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[6313.60s] English:** Yeah.  
 **Translation:** 
 
-**[6314.70s] English:** Imagine if we're like a fish in the water.  
+**[6314.70s] English:** Imagine, if we're like a fish in the water.  
 **Translation:** 
 
-**[6317.40s] English:** We live in our own world and sometimes there's a fisherman that grabbed the fish.  
+**[6317.40s] English:** We live in our own world, and sometimes there's a fisherman who grabs the fish.  
 **Translation:** 
 
 **[6322.34s] English:** Yeah.  
 **Translation:** 
 
-**[6322.60s] English:** Take him out of the water and throw it back in the water and the fish goes back to the other fish and say, hey.  
+**[6322.60s] English:** Take him out of the water, and throw it back in the water. The fish goes back to the other fish and says, "Hey.  
 **Translation:** 
 
-**[6328.70s] English:** There's someone that take me out of the water.  
+**[6328.70s] English:** There's someone who takes me out of the water.  
 **Translation:** 
 
-**[6331.08s] English:** Then I've seen things that I did not...  
+**[6331.08s] English:** Then I've seen things that I did not....  
 **Translation:** 
 
-**[6333.22s] English:** Imagine if it's true.  
+**[6333.22s] English:** Imagine if it is true.  
 **Translation:** 
 
 **[6335.96s] English:** Yeah.  
 **Translation:** 
 
-**[6336.58s] English:** And one other thing, I wanted to ask you because your consciousness...  
+**[6336.58s] English:** And one other thing, I wanted to ask you because your consciousness,...  
 **Translation:** 
 
 **[6342.24s] English:** How about dreams?  
-**Translation:** 
+**Translation:** Vocabulary: consciousness: 觉醒状态
 
 **[6343.40s] English:** What is a dream?  
 **Translation:** 
@@ -3673,16 +3674,16 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[6344.68s] English:** Yeah.  
 **Translation:** 
 
-**[6345.32s] English:** Well, I more and more, I don't know if you're paying attention to this.  
+**[6345.32s] English:** Well, I'm more and more coming to realize this, but I don't know if you're paying attention to it.  
 **Translation:** 
 
-**[6348.28s] English:** There's now, it's become more acceptable in the scientific community to do large scale studies of psychedelics, for example.  
+**[6348.28s] English:** There is now, it has become more acceptable in the scientific community to conduct large-scale studies of psychedelics, for example.  
 **Translation:** Vocabulary: psychedelics: 致幻剂
 
-**[6354.16s] English:** And there's a lot of connection between psychedelics and dreams.  
+**[6354.16s] English:** And there is a lot of connection between psychedelics and dreams.  
 **Translation:** 
 
-**[6357.12s] English:** There's very similar states.  
+**[6357.12s] English:** There are very similar states.  
 **Translation:** 
 
 **[6359.14s] English:** There's...  
@@ -3691,1591 +3692,1591 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[6359.46s] English:** There's...  
 **Translation:** 
 
-**[6360.00s] English:** a lot our mind does when it detaches itself from reality that it can just explore a lot of different  
+**[6360.00s] English:** A lot of our mind does when it detaches itself from reality is that it can just explore a lot of different ideas.  
 **Translation:** 
 
-**[6365.38s] English:** ideas it's very possible that dreams is you're traveling somewhere and the same thing with  
+**[6365.38s] English:** Ideas: It's very possible that dreams are you're traveling somewhere, and the same thing with...  
 **Translation:** Vocabulary: detaches: 脱离
 
-**[6370.12s] English:** psychedelics you're traveling somewhere in a different not traveling to physical space it's  
+**[6370.12s] English:** Psychedelics: You're traveling somewhere in a different, not traveling to physical space, it's  
 **Translation:** 
 
-**[6375.68s] English:** the other dimensions that we're talking about you're traveling some other through some other  
-**Translation:** Vocabulary: dimensions: 维度
+**[6375.68s] English:** The other dimensions that we're talking about, you're traveling through some other dimension.  
+**Translation:** Vocabulary: dimension: 维度; dimensions: 多维空间
 
-**[6380.26s] English:** dimension to meet some other creature people talk with dmt that they meet some elves i've never done  
+**[6380.26s] English:** Dimension: To meet some other creatures, people talk about meeting elves through DMT. I've never done it.  
 **Translation:** 
 
-**[6385.46s] English:** i i'd like to i don't know if there's a safe legal way to do it but uh they all talk about  
-**Translation:** Vocabulary: dimension: 维度; elves: 精灵
+**[6385.46s] English:** I'd like to, I don't know if there's a safe and legal way to do it, but they all talk about it.  
+**Translation:** Vocabulary: elves: 精灵
 
-**[6392.16s] English:** meeting elves and we're creatures like entities and like who are who are they what's what is this  
+**[6392.16s] English:** Meeting elves, and we're creatures, like entities. And who are they? What is this?  
 **Translation:** 
 
-**[6401.56s] English:** is it because they're high or it's because they're actually meeting something and maybe  
+**[6401.56s] English:** Is it because they're high, or is it because they're actually meeting something, and maybe?  
 **Translation:** 
 
-**[6406.44s] English:** there's no difference i mean that uh who knows exactly and that takes us right back to us not  
+**[6406.44s] English:** There's no difference, I mean, that who knows exactly, and that takes us right back to us not.  
 **Translation:** 
 
-**[6411.32s] English:** being able to really understand how our mind works you know i  
+**[6411.32s] English:** Being able to really understand how our minds work, you know, I  
 **Translation:** 
 
-**[6415.42s] English:** wouldn't i wouldn't be able to understand how our mind works  
+**[6415.42s] English:** Wouldn't I be unable to understand how our minds work?  
 **Translation:** 
 
-**[6415.44s] English:** i wouldn't be able to understand how our mind works you know i wouldn't be able to understand how our mind works  
+**[6415.44s] English:** I wouldn't be able to understand how our minds work, you know.  
 **Translation:** 
 
-**[6415.46s] English:** work in artificial intelligence it's clear that we understand so little about intelligence some  
+**[6415.46s] English:** Work in artificial intelligence; it's clear that we understand so little about intelligence, some  
 **Translation:** 
 
-**[6421.88s] English:** basic things about intelligence just at the at the very sort of basic uh first principles level  
+**[6421.88s] English:** Basic things about intelligence, just at the very basic, sort of first-principles level.  
 **Translation:** 
 
-**[6429.38s] English:** we don't understand what it means to to reason to think to assimilate pieces of knowledge together  
+**[6429.38s] English:** We don't understand what it means to reason, to think, to assimilate pieces of knowledge together.  
 **Translation:** 
 
-**[6437.96s] English:** from from the basics to the complex we don't understand it we don't understand how the human  
-**Translation:** Vocabulary: assimilate: 吸收理解
+**[6437.96s] English:** From the basics to the complex, we don't understand it. We don't understand how the human  
+**Translation:** Vocabulary: assimilate: 吸收知识
 
-**[6443.46s] English:** mind does it we don't understand how the human mind is able to take incredible waterfall of  
+**[6443.46s] English:** Mind does it, we don't understand how the human mind is able to take an incredible waterfall of information.  
 **Translation:** 
 
-**[6449.68s] English:** information and filter cleanly into just like clean you only see the things that are important  
+**[6449.68s] English:** Information and filter cleanly into, just like cleaning up, you only see the things that are important.  
+**Translation:** Vocabulary: waterfall: 信息瀑布
+
+**[6455.92s] English:** And they are able to stitch them together and reason about the world.  
 **Translation:** 
 
-**[6455.92s] English:** and are able to stitch them together and be able to reason about the world  
+**[6459.18s] English:** And at the same time, have moments of like genius and creativity—like, what is that? Also, you.  
+**Translation:** Vocabulary: stitch: 缝合
+
+**[6466.96s] English:** Know, people writers talk about that they're almost like communicating with.  
 **Translation:** 
 
-**[6459.18s] English:** and at the same time have moments of like genius of creativity like what what is that that also you  
+**[6471.42s] English:** A muse, like... where do ideas come from?  
 **Translation:** 
 
-**[6466.96s] English:** know people writers talk about that that they're you know they're almost like communicating with  
+**[6473.46s] English:** Yeah, this is the Joe Rogan philosophy, but I do know that past civilizations were a lot of them.  
 **Translation:** 
 
-**[6471.42s] English:** a muse like where do ideas come from  
+**[6480.00s] English:** On shamanism, and you know, what I think is sad is that if someone drinks alcohol and when he's drunk  
+**Translation:** Vocabulary: civilizations: 古代文明; shamanism: 萨满教
+
+**[6488.38s] English:** He's going to commit, like, murder or something, and we're gonna blame the person, right?  
 **Translation:** 
 
-**[6473.46s] English:** yeah this is the joe rogan philosophy but but i i do know that past civilization were a lot of them  
+**[6494.68s] English:** You're gonna say that's his fault, it's not the fault of alcohol. However, if someone does  
 **Translation:** 
 
-**[6480.00s] English:** on shamanism and you know what i think it's sad is if someone drink alcohol and when he's drunk  
-**Translation:** Vocabulary: shamanism: 巫术信仰
-
-**[6488.38s] English:** he's going to commit like create like like murders or something we're gonna blame the person right  
+**[6499.60s] English:** Psychedelic, or anything that's illegal, and you do something crazy? Now, we're gonna...  
 **Translation:** 
 
-**[6494.68s] English:** you're gonna say that's his fault it's not the fault of alcohol however if someone does  
-**Translation:** 
-
-**[6499.60s] English:** psychedelic or any things that is illegal and you do something crazy now we're gonna  
-**Translation:** 
-
-**[6504.78s] English:** put the fault on on psychedelic you know what i mean and perhaps the person itself is the  
+**[6504.78s] English:** Put the fault on psychedelic, you know what I mean, and perhaps the person itself is the.  
 **Translation:** Vocabulary: psychedelic: 迷幻的
 
-**[6512.76s] English:** the reason why you know he's been doing these things you know what i mean so yeah it's fascinating  
+**[6512.76s] English:** The reason why you know he's been doing these things, you know what I mean? So, yeah, it's fascinating.  
 **Translation:** 
 
-**[6519.30s] English:** how like society you know like in canada they just legalize marijuana yeah marijuana is legal  
-**Translation:** Vocabulary: legalize: 合法化; marijuana: 大麻
+**[6519.30s] English:** How, like, in society, you know, in Canada they just legalized marijuana, yeah, marijuana is legal.  
+**Translation:** Vocabulary: legalized: 合法化; marijuana: 大麻
 
-**[6526.64s] English:** but before that before they did it like if you talk for example to my dad my dad is against it  
+**[6526.64s] English:** But before that, before they did it, like if you talk, for example, to my dad, my dad is against it.  
 **Translation:** 
 
-**[6532.88s] English:** because the whole mentality is like  
+**[6532.88s] English:** Because the whole mentality is like  
 **Translation:** 
 
-**[6534.76s] English:** it's drug it's bad but drinking a glass you know drinking a beer it's fine i mean  
+**[6534.76s] English:** It's bad, but drinking a glass of beer, you know, is fine, I mean.  
 **Translation:** 
 
-**[6539.88s] English:** what is you know what i mean what is good what is bad and i i guess you think chocolate could  
+**[6539.88s] English:** What is, you know, what I mean, what is good, what is bad, and I guess you think chocolate could.  
 **Translation:** 
 
-**[6547.24s] English:** be bad as well for your health or i mean i'm going to the extreme now but yeah what is good  
+**[6547.24s] English:** Be bad, as well, for your health. Or, I mean, I'm going to the extreme now, but yeah, what is good?  
 **Translation:** 
 
-**[6552.46s] English:** what is bad if you use it for recreation you use it for an experience for to learn about yourself  
+**[6552.46s] English:** What is bad if you use it for recreation? You use it for an experience to learn about yourself.  
 **Translation:** Vocabulary: recreation: 休闲活动
 
-**[6558.32s] English:** it's like it it's uh the line is very tiny you know there's some countries that  
+**[6558.32s] English:** It's like it; it's a very tiny line, you know, there are some countries that.  
 **Translation:** 
 
-**[6564.74s] English:** drugs are all legals you know what i mean and i i don't know the the the stats but i would i would  
+**[6564.74s] English:** Drugs are all legal, you know what I mean? And I don't know the stats, but I would...  
 **Translation:** 
 
-**[6570.74s] English:** be interesting to know if they have more crimes there than other countries where it's more strict  
+**[6570.74s] English:** It would be interesting to know if they have more crimes there than in other countries where it's more strict.  
 **Translation:** 
 
-**[6578.40s] English:** i would i would be interesting to know about that it's fascinating me you know yeah and i mean we  
+**[6578.40s] English:** I would be interested to know about that; it's fascinating, you know. Yeah, and I mean, we...  
 **Translation:** 
 
-**[6584.24s] English:** humans kind of just come up with uh arbitrary lines of what's good what's bad that applies  
+**[6584.24s] English:** Humans kind of just come up with arbitrary lines of what's good and what's bad that apply.  
 **Translation:** 
 
-**[6588.82s] English:** with drugs that applies with anything uh that applies with animals for example we talked about  
-**Translation:** Vocabulary: arbitrary: 随意划分
+**[6588.82s] English:** With drugs, that applies to anything, including animals, for example, we talked about.  
+**Translation:** Vocabulary: arbitrary: 随意划分的
 
-**[6594.74s] English:** maybe the time we live in now will be remembered for the cruel  
+**[6594.74s] English:** Maybe the time we live in now will be remembered for the cruelty.  
 **Translation:** 
 
-**[6600.00s] English:** to animals for example and i believe this the 21st century will be remembered for our cruelties  
-**Translation:** Vocabulary: cruelties: 残忍行为
+**[6600.00s] English:** To animals, for example, and I believe this the 21st century will be remembered for our cruelties.  
+**Translation:** Vocabulary: cruelties: 残忍; cruelty: 残忍
 
-**[6609.16s] English:** robots that uh eventually there will be a civil rights movement for robots where the the ones who  
+**[6609.16s] English:** Robots that, eventually, there will be a civil rights movement for robots where the ones who  
 **Translation:** 
 
-**[6618.24s] English:** choose to be conscious the ones who have consciousness will say we deserve rights too  
+**[6618.24s] English:** Choose to be conscious, and the ones who have consciousness will say we deserve rights too.  
+**Translation:** Vocabulary: consciousness: 觉醒
+
+**[6623.78s] English:** We deserve to be treated with respect, too. How about the people we put in jail? People put in  
 **Translation:** 
 
-**[6623.78s] English:** we deserve to be treated with respect too how about the people we put in jail people put in  
+**[6631.30s] English:** Jail, I mean, if I think about the future, we'll look back and think of ourselves as being stupid.  
 **Translation:** 
 
-**[6631.30s] English:** jail i mean if i think in the future we'll look back and we'll think of ourselves being stupid  
+**[6637.42s] English:** You know, to put people in jail instead of, you know, like trying to fix the problem.  
 **Translation:** 
 
-**[6637.42s] English:** you know to put people in jail instead of you know like trying to fix the problem in in in  
-**Translation:** 
-
-**[6644.60s] English:** at the base you know of course now we're or i guess it's our ignorance that made it in a way  
+**[6644.60s] English:** At the base, you know, of course, now we're—or I guess it's—our ignorance that made it, in a way.  
 **Translation:** Vocabulary: ignorance: 无知
 
-**[6650.44s] English:** that we cannot sort sometimes understand what makes uh  
+**[6650.44s] English:** That we cannot always understand what makes  
 **Translation:** 
 
-**[6653.58s] English:** sometimes understand what makes uh  
-**Translation:** Vocabulary: cannot: 不能
-
-**[6653.76s] English:** sometimes a psychopath a psychopath or a murderer a murderer but you know if we can pinpoint the  
+**[6653.58s] English:** Sometimes, I understand what makes it difficult.  
 **Translation:** 
 
-**[6659.94s] English:** problem and take care of it before you know what i mean or made it in a way that we can re-establish  
+**[6653.76s] English:** Sometimes a psychopath, a psychopath, or a murderer, a murderer, but you know, if we can pinpoint the  
+**Translation:** 
+
+**[6659.94s] English:** The problem, and take care of it before you know what I mean, or make it in a way that we can re-establish.  
 **Translation:** Vocabulary: pinpoint: 精确找出; psychopath: 心理变态
 
-**[6666.72s] English:** that person in in the society you know who knows you know what was the future is old it's  
+**[6666.72s] English:** That person in society, you know, who knows, you know, what the future is, is old.  
 **Translation:** 
 
-**[6672.76s] English:** interesting we live in an interesting time you mentioned your father what have you learned from  
+**[6672.76s] English:** Interesting; we live in an interesting time. You mentioned your father—what have you learned from?  
 **Translation:** 
 
-**[6679.14s] English:** your dad you mentioned he was an important part of your childhood my dad is  
+**[6679.14s] English:** Your dad, you mentioned he was an important part of your childhood. My dad is  
 **Translation:** 
 
-**[6683.56s] English:** amazing i grew up we didn't have a lot of money but it doesn't mean if i'm born in a nice country  
+**[6683.56s] English:** Amazing, I grew up without a lot of money, but that doesn't mean if I'm born in a nice country.  
 **Translation:** 
 
-**[6689.52s] English:** that always nice thing happened you know um my dad for me is a big role model because i see him  
+**[6689.52s] English:** That's always a nice thing that happened, you know. My dad is a big role model for me because I see him.  
 **Translation:** 
 
-**[6697.08s] English:** through to my life facing a lot of adversity you know he um he stopped drinking when i was a  
+**[6697.08s] English:** Through to my life, facing a lot of adversity, you know, he um stopped drinking when I was a  
 **Translation:** Vocabulary: adversity: 逆境
 
-**[6705.16s] English:** teenager he was an alcoholic and i've seen him struggle through that you know and it was very  
+**[6705.16s] English:** Teenager; he was an alcoholic, and I've seen him struggle through that. It was very  
 **Translation:** 
 
-**[6711.74s] English:** very hard and i'm  
+**[6711.74s] English:** Very hard, and I'm  
+**Translation:** Vocabulary: alcoholic: 酒鬼
+
+**[6713.56s] English:** I've seen him work like crazy hours.  
 **Translation:** 
 
-**[6713.56s] English:** i've seen him work like crazy hours  
+**[6720.00s] English:** Like coming in early and leaving late in the morning, then coming home at night, he's burned out because of work, going through almost all his.  
 **Translation:** 
 
-**[6720.00s] English:** like come leave in the morning come home at night burned out because of work through almost all his  
+**[6727.80s] English:** Life became so much a part of the system that it felt like a slave to it. Yes, it became a habit and a normal way.  
 **Translation:** 
 
-**[6727.80s] English:** life to the point that it became a slave of the system yes it became an habit and a normal way  
+**[6737.06s] English:** Of living, and it made me realize that I've learned a lot through my father; he taught me.  
 **Translation:** 
 
-**[6737.06s] English:** of living and it made me realize that i've learned a lot through my father he taught me  
+**[6743.98s] English:** Perseverance, hard work—you know, when you face adversity, you know to never give up until you.  
 **Translation:** 
 
-**[6743.98s] English:** perseverance hard work you know when you face adversity you know to never give up until you  
+**[6749.46s] English:** Achieve it, but also he taught me a lesson in a way that I don't want to be like him.  
+**Translation:** Vocabulary: perseverance: 毅力
+
+**[6758.24s] English:** Even if he is happy, it's because I realize he doesn't think he knows anything else; like he works.  
 **Translation:** 
 
-**[6749.46s] English:** achieve it but also he he taught me a lesson that in a way that i don't want to be like him  
-**Translation:** Vocabulary: perseverance: 坚持不懈
-
-**[6758.24s] English:** even if he is happy it's because i realize i don't think he knows anything else like he works  
+**[6765.30s] English:** Through all his life, and I don't want to live to work; I want to work for what I mean.  
 **Translation:** 
 
-**[6765.30s] English:** through all his life and i don't want to live to work i want to work for for you know what i mean  
+**[6772.30s] English:** I want to decide when I work, you know? I feel like he lived to work instead of working for.  
 **Translation:** 
 
-**[6772.30s] English:** i want to decide when i work you know i feel like like he he lived to work instead of working for  
+**[6778.90s] English:** Living  
 **Translation:** 
 
-**[6778.90s] English:** living  
+**[6779.46s] English:** And perhaps it's because he did not have a choice; he was the older of his family, and they  
 **Translation:** 
 
-**[6779.46s] English:** and perhaps it's because he did not have choice he he was the older of his family they had they  
+**[6786.60s] English:** Were there nine kids? His dad, my grandfather, died when he was young, so he had to become the father figure.  
 **Translation:** 
 
-**[6786.60s] English:** were nine kid his dad my grandfather died when he was young so he had to become the father of  
+**[6792.46s] English:** The family and work to put money on the table, so perhaps that's what made him that way, and he  
 **Translation:** 
 
-**[6792.46s] English:** the family and and work to put money on the table so perhaps that what made him that way and he  
+**[6800.26s] English:** Became like a habit for him. My dad taught me; uh, when I was at school, I was bullied at school.  
+**Translation:** Vocabulary: bullied: 在学校被欺负
+
+**[6809.46s] English:** With him, and my dad was the first one who initiated me to martial arts. He taught me karate. My dad.  
 **Translation:** 
 
-**[6800.26s] English:** became like like an habit for him my dad taught me uh when i was at school i was bullied at school  
+**[6813.32s] English:** He was a black belt in Kyokushin karate as well, but because he was working too much, he didn't have time.  
+**Translation:** Vocabulary: initiated: 引导; karate: 空手道; kyokushin: Kyokushin; martial: 武术
+
+**[6818.32s] English:** To teach me, and I needed self-defense in order to defend myself. I have had a great career in.  
 **Translation:** 
 
-**[6809.46s] English:** with him and my dad was the first one who initiated me to martial art he taught me karate my dad my dad  
-**Translation:** 
-
-**[6813.32s] English:** was a black belt in kyokushin karate as well but because he was working too much he didn't have time  
-**Translation:** Vocabulary: initiated: 引导; karate: 空手道; kyokushin: 实战空手道; martial: 武术
-
-**[6818.32s] English:** to teach me and i needed self-defense in order to defend myself i have a winning a great career in  
-**Translation:** 
-
-**[6826.88s] English:** mixed martial art but in the in the schoolyard my next record my record is not very good  
+**[6826.88s] English:** Mixed martial arts, but in the schoolyard, my next record isn't very good.  
 **Translation:** Vocabulary: schoolyard: 学校操场
 
-**[6833.48s] English:** when you're a kid and you're like okay i'm gonna really shit myself and i'm gonna really shit myself  
+**[6833.48s] English:** When you're a kid and you're like, "Okay, I'm gonna really shit myself" and I'm gonna really shit myself.  
 **Translation:** 
 
 **[6839.46s] English:** Thank you.  
 **Translation:** 
 
-**[6840.00s] English:** and you're about seven eight years old and you're facing bullied bullies that are  
+**[6840.00s] English:** And you're about 7-8 years old, and you're facing bullies.  
 **Translation:** 
 
-**[6848.40s] English:** two to three years older than than yourself it's not the same thing than when you're 25  
+**[6848.40s] English:** Two to three years older than yourself is not the same thing as when you're 25.  
+**Translation:** Vocabulary: bullies: 欺凌者
+
+**[6854.24s] English:** And the guy is 28, so there is a big discrepancy in terms of maturity.  
 **Translation:** 
 
-**[6854.24s] English:** and the guy is 28 so there is a big discrepancy in terms of maturity  
-**Translation:** 
-
-**[6861.28s] English:** so my dad taught me introduced me to karate then i didn't he didn't have time to teach me  
+**[6861.28s] English:** So, my dad taught me and introduced me to karate, but he didn't have time to teach me afterward.  
 **Translation:** Vocabulary: discrepancy: 差异; maturity: 成熟
 
-**[6868.88s] English:** then he put me in a school with a teacher that said it was jean couture and i grew up with a lot  
+**[6868.88s] English:** Then he put me in a school with a teacher that said it was Jean Couture, and I grew up with a lot.  
 **Translation:** 
 
-**[6878.40s] English:** of anger and uh there were two person that was afraid growing up it was my dad my dad was very  
+**[6878.40s] English:** Of anger, and there were two people who were afraid growing up: it was my dad; my dad was very  
 **Translation:** Vocabulary: couture: 高级定制
 
-**[6887.04s] English:** severe very strict with me and i'm glad he was because i i could have become very bad i could  
+**[6887.04s] English:** Severe and very strict with me, and I'm glad he was because I could have become very bad.  
 **Translation:** 
 
-**[6894.00s] English:** have become chosen on a different path people see me as a nice guy and i'm an  
+**[6894.00s] English:** Have become chosen on a different path. People see me as a nice guy, and I'm an  
 **Translation:** 
 
-**[6898.88s] English:** a i am a nice guy i try to be a good role model but i could easily have turned towards her  
+**[6898.88s] English:** A: I am a nice guy. I try to be a good role model, but I could easily have turned toward her.  
 **Translation:** 
 
-**[6906.24s] English:** there's darkness somewhere in there yes they are a lot and a lot of my friends have chosen  
+**[6906.24s] English:** There's darkness somewhere in there, yes. They are a lot, and a lot of my friends have chosen.  
 **Translation:** 
 
-**[6910.88s] English:** that path and unfortunately you know they they they are they they are uh they are not  
+**[6910.88s] English:** That path, and unfortunately, you know, they are not.  
 **Translation:** 
 
-**[6917.44s] English:** with me today even if i'm from canada and canada seems like the nicest country in the world like  
+**[6917.44s] English:** With me today, even though I'm from Canada, and Canada seems like the nicest country in the world, like  
 **Translation:** 
 
-**[6924.16s] English:** i said it's even if you live in a nice country not always nice thing it depends of the situation  
+**[6924.16s] English:** I said, "It's not always a nice thing, even if you live in a nice country. It depends on the situation.  
 **Translation:** 
 
-**[6929.84s] English:** but that's what my dad taught me you know and he gave me that  
+**[6929.84s] English:** But that's what my dad taught me, you know, and he gave me that.  
 **Translation:** 
 
-**[6935.28s] English:** to to because i i'm very good at learning by observing people and by observing him i i see  
+**[6935.28s] English:** To be honest, because I'm very good at learning by observing people, and by observing him, I see  
 **Translation:** 
 
-**[6942.24s] English:** the the struggle he had with alcoholism and what he did the the pain sometimes that he inflicted  
+**[6942.24s] English:** The struggle he had with alcoholism and what he did; the pain sometimes that he inflicted.  
 **Translation:** Vocabulary: alcoholism: 酒精成瘾; inflicted: 施加
 
-**[6948.32s] English:** to to us to my family but how he turned when he did that 180 degree and i really admired him  
+**[6948.32s] English:** To be honest, it was us in my family who admired him when he turned that 180-degree turn.  
 **Translation:** 
 
-**[6958.88s] English:** and i'm very proud of that and i know he will  
+**[6958.88s] English:** And I'm very proud of that, and I know he will.  
 **Translation:** 
 
-**[6960.00s] English:** was uh very very hard for him and he did it you know and uh for me uh that's a great role model  
+**[6960.00s] English:** It was very, very hard for him, and he did it. You know, and for me, that's a great role model.  
 **Translation:** 
 
-**[6965.76s] English:** for me so with your dad being an engine of basically hard work and you finding a balance  
+**[6965.76s] English:** For me, so with your dad being an engine of basically hard work, and you finding a balance,...  
 **Translation:** 
 
-**[6973.36s] English:** of being able to work your ass off but also to be able to enjoy a piece of chocolate  
+**[6973.36s] English:** Of being able to work your ass off, but also to be able to enjoy a piece of chocolate.  
 **Translation:** 
 
-**[6977.84s] English:** what is a perfect day in the life of george san pierre look like so like if you were to go through  
+**[6977.84s] English:** What would a perfect day in the life of Georges Saint-Pierre look like? So, if you were to go through...  
 **Translation:** 
 
-**[6986.94s] English:** a day that's very productive but also one that makes you sit back and enjoy and say that was a  
+**[6986.94s] English:** A day that's very productive, but also one that makes you sit back and enjoy and say, "That was a  
 **Translation:** 
 
-**[6992.74s] English:** good day what's that look like what are we talking about when do you wake up what do you eat what do  
+**[6992.74s] English:** Good day! What's that look like? What are we talking about? When do you wake up? What do you eat? What do  
 **Translation:** 
 
-**[6998.84s] English:** you do it changed over the years when i was younger i have a good day it was like a good training  
+**[6998.84s] English:** You do it, and it's changed over the years. When I was younger, I had a good day that was like a good training session.  
 **Translation:** 
 
-**[7004.00s] English:** session or you know achieving good thing in my training you know and that's why i was very good  
+**[7004.00s] English:** Session, or you know, achieving good things in my training, you know, and that's why I was very good.  
 **Translation:** 
 
-**[7009.46s] English:** at it because when i i was obsessed you know i think to be good at something you need to become  
+**[7009.46s] English:** At it, because when I was obsessed, you know, I think to be good at something, you need to become  
 **Translation:** 
 
-**[7015.32s] English:** obsessed and to me  
+**[7015.32s] English:** Obsessed, and to me,  
+**Translation:** Vocabulary: obsessed: 着迷
+
+**[7016.94s] English:** Performing in my training was everything, you know, like when I had a bad training session.  
 **Translation:** 
 
-**[7016.94s] English:** performing in my training was everything you know like when i had a bad training session  
+**[7022.88s] English:** I didn't tell my training partner I was acting like a fool because of my ego. I didn't want to.  
 **Translation:** 
 
-**[7022.88s] English:** i didn't tell my training partner i was acting like a like because of the my ego i didn't you  
+**[7028.98s] English:** Know, I didn't tell nobody. I was like, "Hey, then I went into the locker room, like, man, then I'm playing.  
 **Translation:** 
 
-**[7028.98s] English:** know i didn't tell nobody i was like hey then i go in the locker room like man then then i'm playing  
+**[7035.34s] English:** The training in my mind, you know, I'm saying, "Okay, I should have done this.  
 **Translation:** 
 
-**[7035.34s] English:** the the the the training in my mind you know i'm saying okay i should have done this should  
+**[7041.62s] English:** Have done, and it haunts me. It haunts me, man. It's a training, and it haunts me.  
 **Translation:** 
 
-**[7041.62s] English:** have done and it haunt me it haunt me man it's a training and it haunt me  
+**[7046.42s] English:** You.  
+**Translation:** Vocabulary: haunts: 困扰我
+
+**[7046.94s] English:** Until the next training session, when I can redeem myself—that's how it is. When we used to...  
 **Translation:** 
 
-**[7046.42s] English:** you  
+**[7054.50s] English:** Train altogether back in a day in Canada, we had David Loiseau, we had Patrick Cote, we had.  
+**Translation:** Vocabulary: loiseau: 洛伊索; redeem: 弥补
+
+**[7064.86s] English:** Dennis, Gang, Steve, Vignot, Jonathan: There was all like the best guy in Canada that were.  
 **Translation:** 
 
-**[7046.94s] English:** until the next training session on when i can redeem myself that's how it is when we used to  
+**[7072.42s] English:** Training with each other before we were training in different gyms, but one day I was like, "Oh my god!  
+**Translation:** Vocabulary: dennis: 丹尼斯
+
+**[7076.94s] English:** I'm so weak; I made it just to know what I can.  
 **Translation:** 
 
-**[7054.50s] English:** train in all together back in a day in canada we had david loiseau we had patrick cote we had  
+**[7080.00s] English:** Everybody that we all join forces, and we exchange ideas and train with each other, so a friendly environment can be maintained.  
 **Translation:** 
 
-**[7064.86s] English:** dennis gang steve vignot jonathan there was all like the the best guy in canada that were  
+**[7087.52s] English:** I would say it was friendly competition, not malicious, but it was hard training, you know.  
 **Translation:** 
 
-**[7072.42s] English:** training with each other before we were training in different gyms but one day i was like oh my god  
+**[7092.38s] English:** Like, we weren't aiming to improve; you know, but it wasn't very competitive, and when that day came,...  
+**Translation:** Vocabulary: aiming: 目标; malicious: 恶意
+
+**[7099.90s] English:** Used to get out of the training session with a bad performance, for me he used to hunt me until.  
 **Translation:** 
 
-**[7076.94s] English:** i'm so weak i made it to know what i can  
+**[7105.26s] English:** The following week, when I could give it back and perform better with the guy that I had the  
 **Translation:** 
 
-**[7080.00s] English:** everybody that we all join force and we exchange ideas and we train with each other so a friendly  
+**[7111.48s] English:** Most trouble with that is how it was, and that's how you get better, you know, but it wasn't.  
 **Translation:** 
 
-**[7087.52s] English:** i would say friendly competition it was not malicious but it was hard training you know  
+**[7118.20s] English:** A training where it was, we were trying to do malicious things to one another, you know what I mean?  
 **Translation:** 
 
-**[7092.38s] English:** like not our goal is was to improve you know but it wasn't very competitive and when that day you  
-**Translation:** Vocabulary: malicious: 恶意
-
-**[7099.90s] English:** used to get out of the training session with a bad performance for me he used to hunt me until  
+**[7123.70s] English:** Mean, you need to be playful, but playful but competitive—that when I had a good training.  
 **Translation:** 
 
-**[7105.26s] English:** the following week when i could give it back and and perform better with the guy that i had the  
+**[7130.24s] English:** Session because it was on a Friday, I had the best weekend ever. I was going out.  
 **Translation:** 
 
-**[7111.48s] English:** most trouble with that's how it was and that's how you get better you know but but it was not  
+**[7135.18s] English:** My  
 **Translation:** 
 
-**[7118.20s] English:** a training where it it was we were trying to do malicious thing to one another you know what i  
+**[7135.26s] English:** Friend, drinking and partying, and having fun—that was my ideal day back then.  
 **Translation:** 
 
-**[7123.70s] English:** mean you need to be playful but playful but competitive that when i had a good training  
+**[7143.54s] English:** In a day, today has changed, you know. My life has changed, you know. I am not the same.  
 **Translation:** 
 
-**[7130.24s] English:** session because aspiring was on a friday i had the best weekend in the world i was going out  
-**Translation:** Vocabulary: aspiring: 志向高的
-
-**[7135.18s] English:** my  
+**[7154.94s] English:** Person, I used to be when I went on my knees and begged the UFC for a title shot—you know what I  
 **Translation:** 
 
-**[7135.26s] English:** friend drinking and partying and have fun that that was that was my my my uh my ideal day back  
+**[7160.34s] English:** Meaning, I am wealthy and I am healthy.  
 **Translation:** 
 
-**[7143.54s] English:** in a day today has changed you know my my my life has changed you know like um i i am not the same  
+**[7165.26s] English:** Most importantly, that's the most important thing, and as I'm gonna tell you, the truth as good as.  
+**Translation:** Vocabulary: wealthy: 富有
+
+**[7171.86s] English:** My career was great, but my private life is a million times better. I and people ask me.  
 **Translation:** 
 
-**[7154.94s] English:** person i used to be when i went on my knees and begged the ufc for a title shot you know what i  
+**[7181.42s] English:** Sometimes they always wonder, they try to ask me, and it's normal — it's a lot of people do.  
 **Translation:** 
 
-**[7160.34s] English:** mean i am uh i'm wealthy i'm healthy  
+**[7186.90s] English:** Curious, and the reporter. In the sport of mixed martial arts, we say we "play.  
 **Translation:** 
 
-**[7165.26s] English:** most importantly that's the most important thing and as and i'm gonna tell you the truth as good as  
+**[7195.26s] English:** Basketball, we play soccer, but you don't play fighting, so when you expose your  
+**Translation:** Vocabulary: martial: 武术的
+
+**[7200.00s] English:** Private life: We've seen that happen in the fight with, sometimes, Conor McGregor and Khabib.  
 **Translation:** 
 
-**[7171.86s] English:** my career was man my private life man is a million time better man i i and and people ask me  
+**[7206.40s] English:** Your competitor knows that he cannot get to you, so what he will do is try to get to someone else.  
 **Translation:** 
 
-**[7181.42s] English:** sometimes they always wonder they they try to ask me and it's normal it's a lot of people is  
+**[7211.60s] English:** That you love so much, I never expose my private life. I never post Instagram pictures of my family or my  
 **Translation:** 
 
-**[7186.90s] English:** curious and the reporter and in the sport of mixed martial art we say we play  
+**[7219.52s] English:** Stuff like that is the reason why, because I mean, I'm in a business of fighting, and people know that.  
 **Translation:** 
 
-**[7195.26s] English:** basketball we play soccer but you don't play fighting so when you expose your  
-**Translation:** Vocabulary: martial: 武术
-
-**[7200.00s] English:** private life we've seen that happen in the fight with sometimes conor mcgregor and khabib  
+**[7227.28s] English:** They cannot get to me, and I believe that because I was bullied when I was young.  
 **Translation:** 
 
-**[7206.40s] English:** your competitor knows that he cannot get to you so what he will do he will try to get to someone  
-**Translation:** Vocabulary: cannot: 不能
+**[7236.40s] English:** I didn't realize that when I was young, but it helps me deal with the mental warfare that I need.  
+**Translation:** Vocabulary: bullied: 被欺负; cannot: 不能; warfare: 战争
 
-**[7211.60s] English:** that you love so me i never expose my my private life i never post instagram of my family or my  
+**[7243.44s] English:** That I had to face later on in my life in mixed martial arts because it's a very ego-driven sport.  
 **Translation:** 
 
-**[7219.52s] English:** stuff that's the reason why because i mean i'm in a business of fighting and people know that  
+**[7248.32s] English:** And there's a lot of intimidation, and I was used to being intimidated.  
+**Translation:** Vocabulary: intimidated: 感到害怕; intimidation: 恐吓
+
+**[7255.68s] English:** To this thing when I was young.  
 **Translation:** 
 
-**[7227.28s] English:** they cannot get to me and i believe that because i was bullied when i was young  
+**[7257.28s] English:** So, it does not get to me, however, the good way to get to me is...  
 **Translation:** 
 
-**[7236.40s] English:** i didn't realize that when i was young but it helps me deal with the mental warfare that i need  
+**[7263.52s] English:** Go, go, go! Try to get to someone I love. Now, man, I'm gonna go crazy. You know what I mean?  
 **Translation:** 
 
-**[7243.44s] English:** that i had to face later on in my life in mixed martial art because it's a very egotistic sport  
+**[7271.04s] English:** And I am aware of that, so in order to protect myself, I always because I'm aware I'm a public figure.  
 **Translation:** 
 
-**[7248.32s] English:** and there's a lot of a lot and a lot of intimidation and i was used to i've been used  
-**Translation:** Vocabulary: egotistic: 自我中心; intimidation: 恐吓
-
-**[7255.68s] English:** to this thing when i was young  
+**[7277.20s] English:** Person, so I try to always keep my surroundings private. You know, one of the ways that  
 **Translation:** 
 
-**[7257.28s] English:** so it does not get to me however the good way to get to me  
+**[7285.68s] English:** Like your friend.  
+**Translation:** Vocabulary: surroundings: 环境
+
+**[7287.28s] English:** Mine, Joe Rogan has been an inspiration. He's got an incredible family, and he's been...  
 **Translation:** 
 
-**[7263.52s] English:** go go go go try to get to someone i i love now man i'm gonna go crazy you know what i mean  
+**[7294.32s] English:** Most part, it started to change recently. Actually, it's kind of interesting, but for the most part.  
 **Translation:** 
 
-**[7271.04s] English:** and i'm aware of that so in order to protect myself i always because i'm aware i'm a public  
+**[7298.00s] English:** Throughout his life, he kept it pretty secret. Doesn't talk about it in his comedy. He's a  
 **Translation:** 
 
-**[7277.20s] English:** person so i try to always keep my surrounding like in the private you know one of the ways that  
+**[7302.40s] English:** Comedians talk about everything, but he doesn't really talk about it, and there's something...  
+**Translation:** Vocabulary: comedians: 喜剧演员
+
+**[7307.36s] English:** To that, it seems to preserve the magic of this private life's silence, and I think it can.  
 **Translation:** 
 
-**[7285.68s] English:** like your your friend  
+**[7312.88s] English:** Affect the development of the kid if  
 **Translation:** 
 
-**[7287.28s] English:** mine joe rogan has been an inspiration that he he's got like an incredible family and he for the  
+**[7317.28s] English:** The kid grew up being oh  
 **Translation:** 
 
-**[7294.32s] English:** most part it started to change recently actually it's kind of interesting but for the most part  
+**[7320.00s] English:** The son of that guy, instead of being his own person, you know what I mean? So, for me, it's very...  
 **Translation:** 
 
-**[7298.00s] English:** throughout his life he kept it pretty secret doesn't talk about it in his comedy he's a  
+**[7327.26s] English:** Important, like my parents, are older and it's fine, but it taught me a big lesson when I'm with my friends.  
 **Translation:** 
 
-**[7302.40s] English:** comedian comedians talk about everything he doesn't really talk about it and there's something  
+**[7334.64s] English:** At the dinner, or anything, I talk with personal and we share a thing, but when I'm talking, I'm aware of  
 **Translation:** 
 
-**[7307.36s] English:** to that it like preserves the magic of this the silence of the private life and i think it can  
+**[7340.60s] English:** Of the audience I'm in front of, yeah, and I mean, but oftentimes those people are just incredible.  
 **Translation:** 
 
-**[7312.88s] English:** affect the the development of the kid if  
-**Translation:** Vocabulary: preserves: 保持
-
-**[7317.28s] English:** the kid grow up being oh  
-**Translation:** 
-
-**[7320.00s] English:** the son of that guy instead of being his own person you know what i mean so so for me is very  
-**Translation:** 
-
-**[7327.26s] English:** important like my parents are older it's fine but it taught me a big lesson when i'm with my friend  
-**Translation:** 
-
-**[7334.64s] English:** at the dinner or anything i talk with personal we share a thing but when i'm talking i'm aware of  
-**Translation:** 
-
-**[7340.60s] English:** of the audience who i'm in front yeah and i mean but oftentimes those people are just incredible  
-**Translation:** 
-
-**[7346.20s] English:** it kind of makes me sad that uh you know there's a lot of people that love you right and there are  
+**[7346.20s] English:** It kind of makes me sad that, you know, there are a lot of people who love you, and there are  
 **Translation:** Vocabulary: oftentimes: 经常
 
-**[7351.92s] English:** a lot of really incredible people and you'll never get to really know their story i mean i don't know  
+**[7351.92s] English:** A lot of really incredible people, and you'll never get to really know their stories. I mean, I don't know.  
 **Translation:** 
 
-**[7357.36s] English:** for me it makes me sad you see them like at airports and stuff people will tell me they  
+**[7357.36s] English:** For me, it makes me sad to see them like at airports and stuff; people will tell me they  
 **Translation:** 
 
-**[7361.32s] English:** listen to this podcast or something like that and they're i could tell they're incredible people and  
+**[7361.32s] English:** Listen to this podcast, or something like that, and they're incredible people, and...  
 **Translation:** 
 
-**[7366.20s] English:** it makes me it's like a little goodbye of a possible friend i don't know it makes me sad  
+**[7366.20s] English:** It makes me feel like a little goodbye to a possible friend, and I don't know why it makes me sad.  
 **Translation:** Vocabulary: goodbye: 告别
 
-**[7371.90s] English:** it makes me it's lonely it's almost like celebrity  
+**[7371.90s] English:** It makes me feel lonely. It's almost like being a celebrity.  
 **Translation:** 
 
-**[7376.20s] English:** is a lonely thing so the higher the celebrity the more lonely you become  
+**[7376.20s] English:** Is a lonely thing, so the higher the celebrity, the more lonely you become.  
 **Translation:** 
 
-**[7380.40s] English:** in some kind of way but of course you have that little gem of a private life  
+**[7380.40s] English:** In some kind of way, but of course, you have that little gem of a private life.  
 **Translation:** 
 
-**[7385.28s] English:** where you can personally i believe every relationship i i like i don't like to use  
+**[7385.28s] English:** Where you can personally, I believe, every relationship—I don't like to use.  
 **Translation:** 
 
-**[7391.90s] English:** this term but it's always a give and take relationship you know like you can gain  
+**[7391.90s] English:** This term, but it's always a give-and-take relationship, you know, like you can gain  
 **Translation:** 
 
-**[7398.24s] English:** something and the person like it could be something like not materialist materialistic  
-**Translation:** Vocabulary: materialist: 唯物主义者; materialistic: 唯物主义的
-
-**[7403.64s] English:** like something always a good confident  
+**[7398.24s] English:** Something, and the person likes it could be something like non-materialistic.  
 **Translation:** 
 
-**[7406.20s] English:** like you someone that they can give me good advice or or it's a word i would say like  
+**[7403.64s] English:** Like something, always a good confidence.  
 **Translation:** 
 
-**[7411.64s] English:** extensional like if a pilot has a co-pilot is the co-pilot is extend as a extensional  
+**[7406.20s] English:** Like, you know, someone that they can give me good advice, or, I would say, like  
 **Translation:** 
 
-**[7417.64s] English:** relationship with him you know so he knows if he gets sick or he faint he's there to make sure you  
-**Translation:** Vocabulary: extensional: 扩展关系
-
-**[7423.08s] English:** know he's there to help and i think in every relation it's about compatibility but it's about  
+**[7411.64s] English:** Extensional, like if a pilot has a co-pilot, is the co-pilot extended as an extensional?  
 **Translation:** 
 
-**[7428.88s] English:** extensionality right in a way that if that person is extensional and sometimes we talk about about  
-**Translation:** Vocabulary: compatibility: 兼容性; extensionality: 延伸性
+**[7417.64s] English:** Relationship with him, you know, so he knows if he gets sick or faints, he's there to make sure you're okay.  
+**Translation:** Vocabulary: extensional: 附加的; faints: 昏迷
 
-**[7436.20s] English:** love you know like sometimes i think is is it is it that  
+**[7423.08s] English:** Know he's there to help, and I think in every relationship, it's about compatibility, but it's about  
 **Translation:** 
 
-**[7440.00s] English:** bs word or not because i myself sometimes look at i look at myself in the mirror and when i do  
+**[7428.88s] English:** Extensionality, right? In a way, that if that person is extensional, and sometimes we talk about it.  
+**Translation:** Vocabulary: compatibility: 相容性; extensionality: 外延性
+
+**[7436.20s] English:** Love, you know, like sometimes I think it might be that.  
 **Translation:** 
 
-**[7446.72s] English:** stupid thing sometimes i love myself a lot and sometimes i don't you know what i mean because  
+**[7440.00s] English:** Bs, word or not, because I myself sometimes look at myself in the mirror, and when I do,...  
 **Translation:** 
 
-**[7453.62s] English:** i'm angry at myself i've done stupid thing so that means sometimes you could love could be  
+**[7446.72s] English:** Stupid thing, sometimes I love myself a lot, and sometimes I don't. You know what I mean? Because  
 **Translation:** 
 
-**[7459.24s] English:** fluctuating you know what i mean how about in relationships sometimes you people they say oh  
+**[7453.62s] English:** I'm angry at myself. I've done a stupid thing, so that means sometimes love can be  
 **Translation:** 
 
-**[7464.28s] English:** they love each other but then when they divorce they go oh i want the house and the dog and the  
-**Translation:** Vocabulary: fluctuating: 波动不定
-
-**[7469.14s] English:** kids stay with me and you know what i mean if you love if by definition if you really love someone  
+**[7459.24s] English:** Fluctuating, you know what I mean? How about in relationships? Sometimes, you know, people say, "Oh,  
 **Translation:** 
 
-**[7475.90s] English:** and let's say you're an old man and you love a woman and she decides to leave you for a younger  
+**[7464.28s] English:** They love each other, but then when they divorce, they go, "Oh, I want the house and the dog and the...  
+**Translation:** Vocabulary: fluctuating: 不稳定
+
+**[7469.14s] English:** Kids stay with me, and you know what I mean: if you love, if by definition, if you really love someone.  
 **Translation:** 
 
-**[7482.16s] English:** man if you really love her you're gonna help her pack and leave but in our society sometimes we  
+**[7475.90s] English:** And let's say you're an old man and you love a woman, and she decides to leave you for a younger one.  
 **Translation:** 
 
-**[7488.92s] English:** want to hone something to me love includes the missing somebody the losing somebody the anger  
+**[7482.16s] English:** Man, if you really love her, you're gonna help her pack and leave. But in our society, sometimes we  
 **Translation:** 
 
-**[7496.86s] English:** at somebody it's all the passion feelings towards  
+**[7488.92s] English:** Want to hone something to me, love includes the missing somebody, the losing somebody, and the anger.  
 **Translation:** 
 
-**[7499.12s] English:** somebody that's all love like i you know it's all part of the thing it's the ups and downs  
+**[7496.86s] English:** At somebody, it's all the passion and feelings towards.  
 **Translation:** 
 
-**[7504.36s] English:** it's uh the sad thing is when the feelings towards a person the ups and downs go away  
+**[7499.12s] English:** Somebody that's all love, like I you know, it's all part of the thing; it's the ups and downs.  
 **Translation:** 
 
-**[7510.80s] English:** the forgetting yes that's the opposite of love so the opposite of love isn't hate the to me the  
+**[7504.36s] English:** It's uh, the sad thing is when the feelings towards a person go through ups and downs and then eventually fade away.  
 **Translation:** 
 
-**[7516.50s] English:** opposite of love is forgetting and and that's that's a much bigger this is the depth of human  
+**[7510.80s] English:** The forgetting, yes, that's the opposite of love. So, the opposite of love isn't hate. To me,  
 **Translation:** 
 
-**[7522.40s] English:** connection that's how i see love so sometimes i try to stay positive and and i've been asked  
+**[7516.50s] English:** The opposite of love is forgetting, and that's a much bigger thing. This is the depth of human experience.  
 **Translation:** 
 
-**[7529.12s] English:** how i try to because i have the image of someone who's positive but i go through my own demon as  
+**[7522.40s] English:** Connection: that's how I see love, so sometimes I try to stay positive, and I've been asked.  
 **Translation:** 
 
-**[7534.78s] English:** well sometimes however we talk about love when i was young you know like like i didn't love who i  
-**Translation:** Vocabulary: demon: 内心矛盾
-
-**[7546.52s] English:** was at first that's how i love i learned to kind of love myself like i didn't i didn't when i was  
+**[7529.12s] English:** How I try to keep a positive image, but I go through my own demons.  
 **Translation:** 
 
-**[7552.66s] English:** going through through bullying i was i believe i was bullied because i didn't love myself i i because  
-**Translation:** Vocabulary: bullying: 欺凌
+**[7534.78s] English:** Well, sometimes, however, we talk about love. When I was young, you know, like I didn't love who I  
+**Translation:** Vocabulary: demons: 内心矛盾
 
-**[7559.12s] English:** i didn't i i believed that that doesn't work for me i um uh it was but i had a chronic my  
+**[7546.52s] English:** Was at first, that's how I learned to kind of love myself. I didn't used to.  
 **Translation:** 
 
-**[7559.70s] English:** i had a chronic my life you know it's a  
+**[7552.66s] English:** Going through bullying, I was bullied because I didn't love myself, I think.  
+**Translation:** Vocabulary: bullied: 被欺凌; bullying: 欺凌
+
+**[7559.12s] English:** I didn't believe that; it doesn't work for me. I had a chronic my...  
 **Translation:** 
 
-**[7560.00s] English:** bad image of what i think of myself i was a kid that lacked a lot of confidence i was looking down  
+**[7559.70s] English:** I had a chronic condition in my life, you know, it's a  
 **Translation:** 
 
-**[7566.92s] English:** when i was walking i shrugged my shoulder when someone was talking to me i was avoiding eye  
+**[7560.00s] English:** Bad image of what I think of myself; I was a kid that lacked a lot of confidence, and I was looking down.  
 **Translation:** 
 
-**[7572.46s] English:** contact so i was a very easy target for bullies and i think bullies are like in predatory animal  
+**[7566.92s] English:** When I was walking, I shrugged my shoulder when someone was talking to me, and I was avoiding eye contact.  
+**Translation:** Vocabulary: shrugged: 耸肩
+
+**[7572.46s] English:** Contact, so I was a very easy target for bullies, and I think bullies are like predatory animals.  
 **Translation:** 
 
-**[7581.54s] English:** in in nature they will hunt the the easier prey they would don't they don't go the lion don't go  
-**Translation:** Vocabulary: predatory: 掠食性的
+**[7581.54s] English:** In nature, they will hunt the easier prey; they don't go after lions.  
+**Translation:** Vocabulary: bullies: 欺凌者; predatory: 掠食性的
 
-**[7587.58s] English:** for the the alpha bull they go for the one who's hold or who's sick the weakest one  
+**[7587.58s] English:** For the alpha bull, they go for the one who's holding or who's sick—the weakest one.  
 **Translation:** 
 
-**[7593.04s] English:** and bullies are the same in society i believe and i didn't like to be bullied of course but i didn't  
+**[7593.04s] English:** And bullies are the same in society, I believe, and I didn't like to be bullied, of course, but I didn't  
+**Translation:** Vocabulary: alpha: 优势者
+
+**[7600.10s] English:** Like the person I was, but I found out through martial arts the respect and my coach.  
 **Translation:** 
 
-**[7600.10s] English:** like the the person that i was but i found out through martial art the respect and my my coach  
+**[7610.76s] English:** It was extraordinary to me that he taught me discipline and self-strength, and I found out  
+**Translation:** Vocabulary: discipline: 规矩; martial: 武术
+
+**[7617.58s] English:** I needed to, in order to love myself, I needed to change myself because I didn't when I looked at  
 **Translation:** 
 
-**[7610.76s] English:** was extraordinary to me he taught me discipline and self-strength self-strength and i found out  
+**[7624.18s] English:** Myself in the mirror, I didn't like what I saw, so I decided to become like someone that I would love.  
 **Translation:** 
 
-**[7617.58s] English:** i needed to in order to love myself i needed to change myself because i didn't when i looked at  
+**[7632.10s] English:** So, I tried to look people straight in the eye and try to showcase a more confident image.  
 **Translation:** 
 
-**[7624.18s] English:** myself in the mirror i didn't like what i saw so i decided to become like someone that i would love  
-**Translation:** 
-
-**[7632.10s] English:** so i tried to look people straight up and and trying to showcase a more confident image  
-**Translation:** 
-
-**[7642.60s] English:** that i had and it was hard in the beginning because i didn't really believe in it but i  
+**[7642.60s] English:** That I had, and it was hard in the beginning because I didn't really believe in it, but I  
 **Translation:** Vocabulary: showcase: 展示
 
-**[7647.58s] English:** i fake it until kind of i make it so when i was walking at school more and more i was learning  
+**[7647.58s] English:** I fake it until I make it, so when I was walking at school more and more, I was learning.  
 **Translation:** 
 
-**[7656.26s] English:** how to become more confident and i was like taking charge when the teacher was asking question i was  
+**[7656.26s] English:** How to become more confident, and I was like taking charge when the teacher was asking questions, I was  
 **Translation:** 
 
-**[7662.14s] English:** at first i was never answering it was like this waiting always to be the last then i was hey i i  
+**[7662.14s] English:** At first, I was never answering; it was like this, waiting always to be the last. Then I was, "Hey, I...  
 **Translation:** 
 
-**[7667.32s] English:** know what the answer this is the answer i got out of my comfort zone so to speak  
+**[7667.32s] English:** Know what? The answer: This is the answer I got out of my comfort zone, so to speak.  
 **Translation:** 
 
-**[7673.38s] English:** and i wish i would tell you that i got out of bull  
+**[7673.38s] English:** And I wish I could tell you that I got out of bull.  
 **Translation:** 
 
-**[7677.58s] English:** being because  
+**[7677.58s] English:** Being because  
 **Translation:** 
 
-**[7680.00s] English:** a hollywood story i use martial art to beat up all the bullies but it's not how it happened to  
+**[7680.00s] English:** A Hollywood story: I use martial arts to beat up all the bullies, but it's not how it happened.  
 **Translation:** 
 
-**[7685.74s] English:** me it happened because i changed myself from the inside out and i learned how to because i didn't  
-**Translation:** Vocabulary: martial: 武术
+**[7685.74s] English:** It happened because I changed myself from the inside out, and I learned how to do it; I didn't know how before.  
+**Translation:** Vocabulary: bullies: 欺凌他人的人
 
-**[7694.68s] English:** love myself in the beginning i learned how to become like someone that i love and even now  
+**[7694.68s] English:** Love myself in the beginning, I learned how to become like someone that I love, and even now.  
 **Translation:** 
 
-**[7701.94s] English:** like i'm by no mean perfect i do a lot of stupid thing but i learn as a person and even i do a  
+**[7701.94s] English:** Like I'm not perfect; I do a lot of stupid things, but I learn as a person, and even I do  
 **Translation:** 
 
-**[7709.98s] English:** something stupid i'm like shoot i did something stupid i i at least i can apologize to the person  
+**[7709.98s] English:** Something stupid—I'm like, "Shoot! I did something stupid." At least I can apologize to the person.  
 **Translation:** 
 
-**[7716.16s] English:** if i realize and then i know that i'm not the person i was in the past i'm the person that i  
+**[7716.16s] English:** If I realize and then I know that I'm not the person I was in the past, I'm the person that I  
 **Translation:** 
 
-**[7724.40s] English:** am right now so i can learn and become that image of the person that i love so in in a way the  
+**[7724.40s] English:** I am right now, so I can learn and become that image of the person I love. So, in a way, the  
 **Translation:** 
 
-**[7731.90s] English:** reason i'm trying to be positive and i am able to stay positive sometime in life is because i'm  
+**[7731.90s] English:** Reason I'm trying to be positive, and I am able to stay positive sometimes in life is because I'm  
 **Translation:** 
 
-**[7737.84s] English:** always trying to  
+**[7737.84s] English:** Always trying to  
 **Translation:** 
 
-**[7739.84s] English:** to  
+**[7739.84s] English:** To  
 **Translation:** 
 
-**[7739.96s] English:** to  
+**[7739.96s] English:** To  
 **Translation:** 
 
-**[7739.98s] English:** to be like that person that i love and i think if you don't look yourself in the mirror and don't  
+**[7739.98s] English:** To be like that person I love, and I think if you don't look yourself in the mirror and don't  
 **Translation:** 
 
-**[7745.68s] English:** love yourself or don't see any positive future for yourself how can you change your environment  
+**[7745.68s] English:** Love yourself, or don't see any positive future for yourself: how can you change your environment?  
 **Translation:** 
 
-**[7751.46s] English:** if you cannot change yourself you know what i mean you would never be happy if you're not happy  
+**[7751.46s] English:** If you cannot change yourself, you know what I mean; you would never be happy if you're not happy.  
 **Translation:** 
 
-**[7756.52s] English:** when you look at yourself in the mirror so change yourself first then change your you know it's not  
+**[7756.52s] English:** When you look at yourself in the mirror, so change yourself first. Then change your. You know, it's not  
 **Translation:** 
 
-**[7761.86s] English:** the environment they're gonna change for yourself it's you have to go from the inside out you know  
+**[7761.86s] English:** The environment they're gonna change for yourself; it's you have to go from the inside out, you know.  
 **Translation:** 
 
-**[7768.76s] English:** this this i learned  
+**[7768.76s] English:** This, I learned.  
 **Translation:** 
 
-**[7769.96s] English:** through martial art i have a i had a coach he was incredible used to drill these ideas in my head and  
+**[7769.96s] English:** Through martial arts, I had a coach who was incredible and used to drill these ideas into my head.  
+**Translation:** Vocabulary: martial: 武术的
+
+**[7776.42s] English:** And give me confidence, you know, like telling me all these beautiful things.  
 **Translation:** 
 
-**[7776.42s] English:** and give me confidence you know like like this telling me all these these beautiful  
+**[7780.86s] English:** Things about myself, and how I've heard he's dead now, unfortunately, peace be with him, but uh, he was  
 **Translation:** 
 
-**[7780.86s] English:** things about myself and how i he's dead now unfortunately peace peace to him but uh he was  
+**[7787.82s] English:** Incredible, incredible—he was very, very strict. I was afraid of him, I was afraid of my dad, and afraid.  
 **Translation:** 
 
-**[7787.82s] English:** incredible incredible he was very very strict i was afraid of him i was afraid of my dad and afraid  
+**[7792.72s] English:** Of him, he couldn't teach nowadays like he used to teach me because he would be in jail.  
 **Translation:** 
 
-**[7792.72s] English:** of him he couldn't teach nowadays like he used to teach me because he would be in probably in jail  
+**[7798.42s] English:** You know, but I'm  
 **Translation:** 
 
-**[7798.42s] English:** you know but i'm  
+**[7799.94s] English:** A person you know, like we know a lot about the world. We know a lot about the world.  
 **Translation:** 
 
-**[7799.94s] English:** a person you know like we know a lot about the world we know a lot about the world  
+**[7800.00s] English:** Glad he did it because, for the time being, that's what I needed, and I would never have had that.  
 **Translation:** 
 
-**[7803.06s] English:** so i have this very deep trust in god god i'm so thankful that i'm able to do that now  
+**[7803.06s] English:** So, I have this very deep trust in God. I'm so thankful that I'm able to do that now.  
 **Translation:** 
 
-**[7807.20s] English:** and then when i'm feeling better i'm able to step back and i'm able to talk to people and  
+**[7806.18s] English:** That career I had in mixed martial arts; without this, I would never have gotten out.  
 **Translation:** 
 
-**[7810.86s] English:** i'm able to talk to people now and then when i'm feeling very better i'm able to have friends and  
+**[7807.20s] English:** And then, when I'm feeling better, I'm able to step back and talk to people.  
 **Translation:** 
 
-**[7814.50s] English:** family and sometimes even go to the gym and do some of the things that i do and just think  
+**[7810.86s] English:** I'm able to talk to people now and then. When I'm feeling very well, I'm able to have friends and  
 **Translation:** 
 
-**[7819.92s] English:** that that's a very very beautiful thing for me to feel kind of proud of you know that's a very  
+**[7812.24s] English:** Of my comfort zone, it would have been impossible, and in order to improve in life, you need to get out.  
 **Translation:** 
 
-**[7824.42s] English:** wonderful thing to do and i want to thank god for that and i hope that you guys have a wonderful  
+**[7814.50s] English:** Family, and sometimes even go to the gym and do some of the things I do, and just think.  
 **Translation:** 
 
-**[7827.88s] English:** day and have a wonderful night bye bye  
+**[7818.00s] English:** Of your comfort zone, it's hard — it's very hard to do and strive to be the person that you can.  
+**Translation:** Vocabulary: strive: 努力成为
+
+**[7819.92s] English:** That's a very, very beautiful thing for me to feel. Kind of proud, you know. That's a very  
 **Translation:** 
 
-**[7829.08s] English:** bye  
+**[7824.06s] English:** Love, I think that's beautifully put, George. If you were to give advice to a young person today,  
 **Translation:** 
 
-**[7800.00s] English:** glad he did it because for the time being that's what i needed and i would never have had that  
+**[7824.42s] English:** A wonderful thing to do, and I want to thank God for that. I hope that you guys have a wonderful day.  
 **Translation:** 
 
-**[7806.18s] English:** that career i had in mixed martial art without this because i would i would never have got out  
+**[7827.88s] English:** Day, and have a wonderful night! Bye-bye.  
 **Translation:** 
 
-**[7812.24s] English:** of my comfort zone would have been impossible and in order to improve in life you need to get out  
+**[7829.08s] English:** Bye.  
 **Translation:** 
 
-**[7818.00s] English:** of your comfort zone it's hard it's very hard to do and and strive to be the person that you can  
+**[7830.16s] English:** About life, what would you tell him if he takes life with the same mentality that I do? If he has...  
 **Translation:** 
 
-**[7824.06s] English:** love i does that's that's beautifully put george if you were to give advice to a young person today  
+**[7844.16s] English:** The same taste of things that I have, I would tell him, you know, for fun.  
 **Translation:** 
 
-**[7830.16s] English:** about life what would you tell him if he takes life with the same mentality that i do if he has  
+**[7853.82s] English:** For  
 **Translation:** 
 
-**[7844.16s] English:** the same taste of things that i have i would tell him you know for for for sport  
+**[7854.06s] English:** For life in general, I would say if you have the dream, you know, like  
 **Translation:** 
 
-**[7853.82s] English:** for  
+**[7861.06s] English:** Make everything in your power, and work very hard, you know; never take no for an answer.  
 **Translation:** 
 
-**[7854.06s] English:** for life in general i would say if you will have the dream you know like  
+**[7871.16s] English:** And go through hell in order to achieve it.  
 **Translation:** 
 
-**[7861.06s] English:** make everything in your power and work very hard you know never take no for an answer  
+**[7875.28s] English:** Don't work hard only; work smart, that's I think.  
 **Translation:** 
 
-**[7871.16s] English:** and go through hell in order to achieve it  
+**[7883.82s] English:** The  
 **Translation:** 
 
-**[7875.28s] English:** don't work hard only but work smart that's i think the  
+**[7884.06s] English:** Problems with a lot of people—they work hard, they can work hard, but they burn themselves out and don't work effectively.  
 **Translation:** 
 
-**[7883.82s] English:** the  
+**[7888.84s] English:** Smart people, whether in science or business, make bad choices or are badly informed.  
 **Translation:** 
 
-**[7884.06s] English:** problems with a lot of people they work hard they can work hard they burn themselves they don't work  
+**[7897.90s] English:** In sports, how many guys I've seen ruin their careers in the gym by sparring so hard they they  
+**Translation:** Vocabulary: sparring: 拳击练习
+
+**[7906.02s] English:** Ruin themselves in the gyms; they leave their careers in the gyms. What I would say, for example,  
 **Translation:** 
 
-**[7888.84s] English:** smart whether it is in in science and business they make bad bad choices or they're badly informed  
+**[7912.18s] English:** Because my field of expertise is  
 **Translation:** 
 
-**[7897.90s] English:** in sport how many guys i've seen ruin their career in the gyms they they spar so hard they they they  
+**[7913.82s] English:** Because my field of expertise is in the sport of mixed martial arts.  
 **Translation:** 
 
-**[7906.02s] English:** ruin their themselves in the gyms they leave their career in the gyms what i would say to for example  
+**[7917.36s] English:** It's in the sport of mixed martial arts; I would say to  
+**Translation:** Vocabulary: martial: 武术的
+
+**[7920.00s] English:** Young kids, make your training playful. You know, when you get ready for competition, you need  
 **Translation:** 
 
-**[7912.18s] English:** because my field of expertise in  
-**Translation:** 
-
-**[7913.82s] English:** because my field of expertise in it's in sport of mixed martial art  
-**Translation:** 
-
-**[7917.36s] English:** it's in sport of mixed martial art i would say to  
-**Translation:** Vocabulary: martial: 武术
-
-**[7920.00s] English:** young kid make your training playful you know when you get ready for for competition you need  
-**Translation:** 
-
-**[7929.88s] English:** trying to recreate those element that makes you go outside of your comfort zone but in every day's  
+**[7929.88s] English:** Trying to recreate those elements that make you go outside of your comfort zone, but in everyday situations.  
 **Translation:** Vocabulary: recreate: 重新创造
 
-**[7939.44s] English:** life in general make your training playful don't makes it like a hardcore competition about who's  
+**[7939.44s] English:** Life in general, make your training playful. Don't make it like a hardcore competition about who's  
 **Translation:** 
 
-**[7946.98s] English:** who's winning who's losing make make it playful so it will increase your because you know you  
-**Translation:** Vocabulary: hardcore: 严格
+**[7946.98s] English:** Who's winning? Who's losing? Make it playful, so it will increase your engagement because you know you'll enjoy it more.  
+**Translation:** Vocabulary: hardcore: 严格的
 
-**[7953.86s] English:** will not be afraid of getting hurt or losing you will be tent to trying more things and be you it  
+**[7953.86s] English:** Will not be afraid of getting hurt or losing you; you'll be tent to trying more things and be you.  
 **Translation:** 
 
-**[7964.60s] English:** will make you become more create creative you know that brings up another question about learning  
+**[7964.60s] English:** Will make you become more creative, you know, that brings up another question about learning.  
 **Translation:** 
 
-**[7972.54s] English:** so you you value knowledge and you're exceptional  
+**[7972.54s] English:** So, you value knowledge, and you're exceptional.  
 **Translation:** 
 
-**[7976.98s] English:** at basically being very good at learning and figuring stuff out new things or going deeper  
-**Translation:** Vocabulary: exceptional: 卓越的
-
-**[7983.88s] English:** on the things you already know so what advice would you have for how to learn effectively how  
+**[7976.98s] English:** At basically being very good at learning and figuring stuff out, especially when it comes to new things or going deeper.  
 **Translation:** 
 
-**[7990.26s] English:** you know you say work smart how do you figure this game out I believe the best way to learn  
+**[7983.88s] English:** On the things you already know, so what advice would you have for how to learn effectively?  
 **Translation:** 
 
-**[7998.22s] English:** is learning from other people's mistake however  
+**[7990.26s] English:** You know, you say "work smart." How do you figure this game out? I believe the best way to learn...  
 **Translation:** 
 
-**[8006.98s] English:** perfect and I've learned from my mistakes as well and sometimes I'm it took it took me a few mistake  
+**[7998.22s] English:** Is learning from other people's mistakes, however.  
 **Translation:** 
 
-**[8014.58s] English:** to learn the same thing but it is especially in the sport of mixed martial art because we're  
+**[8006.98s] English:** Perfect, and I've learned from my mistakes as well. Sometimes it took me a few tries to get it right.  
 **Translation:** 
 
-**[8020.80s] English:** talking about the the failure could have very serious outcome on someone's life and well-being  
+**[8014.58s] English:** To learn the same thing, but it is especially true in the sport of mixed martial arts because we're  
 **Translation:** 
 
-**[8030.16s] English:** so it's crucial to trying to learn from other people mistakes do you study others  
+**[8020.80s] English:** Talking about the failure could have very serious outcomes on someone's life and well-being.  
+**Translation:** Vocabulary: martial: 武术; outcomes: 结果
+
+**[8030.16s] English:** So, it's crucial to learning from other people's mistakes. Do you study others'?  
 **Translation:** 
 
-**[8036.98s] English:** do you every every fight  
+**[8036.98s] English:** Do you ever fight?  
+**Translation:** Vocabulary: crucial: 极其重要的
+
+**[8040.00s] English:** I'm studying my opponent, and I've also studied myself to know how my strengths  
 **Translation:** 
 
-**[8040.00s] English:** i'm studying my opponent and i've studied myself as well to know what how my strength  
+**[8048.72s] English:** Mix versus my opponent's weaknesses, and how can I make the fight go in a way that I'm exploiting them?  
+**Translation:** Vocabulary: exploiting: 利用; opponent: 对手
+
+**[8058.50s] English:** Opponent outside of his comfort zone, very often people are good at studying their opponent, but  
 **Translation:** 
 
-**[8048.72s] English:** mix versus my opponent weaknesses and how can i make the fight go in a way that i'm taking my  
+**[8065.04s] English:** They're not good at looking at themselves in the mirror and knowing what they should do in order to.  
 **Translation:** 
 
-**[8058.50s] English:** opponent outside of his comfort zone very often people are good at studying their opponent but  
+**[8069.20s] English:** To maximize their odds of success, right? That's why I always thought so.  
 **Translation:** 
 
-**[8065.04s] English:** they're not good at looking at themselves in the mirror and knowing what they should do in order to  
+**[8076.70s] English:** It was important not to be the best at one thing, but to be very good at everything.  
+**Translation:** Vocabulary: maximize: 使...最大化
+
+**[8085.26s] English:** That's why I always seek advice from the best in every discipline, like I  
 **Translation:** 
 
-**[8069.20s] English:** to maximize their their odds of success right that's why i always thought for me  
+**[8094.14s] English:** Wrestle with the best wrestler I could be.  
+**Translation:** Vocabulary: discipline: 领域; wrestle: 较量; wrestler: 摔跤手
+
+**[8098.24s] English:** I box.  
 **Translation:** 
 
-**[8076.70s] English:** it was important to not be the best at one thing but be very good at everything  
-**Translation:** Vocabulary: maximize: 最大化
+**[8099.20s] English:** With the best boxers, I practice karate with the best karate fighters, uh, and the same thing in jiu-jitsu.  
+**Translation:** Vocabulary: boxers: 拳击手; karate: 空手道
 
-**[8085.26s] English:** that's why i always seek advice advices from the best in every discipline like i  
+**[8105.96s] English:** Train jiu-jitsu with the best guys, but whenever I mix everything and mix martial arts,...  
 **Translation:** 
 
-**[8094.14s] English:** wrestle with the best wrestler i i could be with  
-**Translation:** Vocabulary: wrestle: 与...较量; wrestler: 摔跤手
+**[8113.28s] English:** Art, if I'm very competent in every area, so when I'm fighting someone,...  
+**Translation:** Vocabulary: competent: 熟练; martial: 武术
 
-**[8098.24s] English:** i box  
+**[8120.54s] English:** I'm very good at identifying where someone is less competent, and I know for a fact that.  
 **Translation:** 
 
-**[8099.20s] English:** with the best boxers i i practice karate with the best karate fighters uh same thing in jiu-jitsu i  
-**Translation:** Vocabulary: karate: 空手道
-
-**[8105.96s] English:** train jiu-jitsu with the best best jiu-jitsu guys um however when i mix everything and mix martial  
-**Translation:** 
-
-**[8113.28s] English:** art if i if i'm because i'm very competent in every areas so when i'm fighting someone  
-**Translation:** Vocabulary: competent: 技艺高超; martial: 武术
-
-**[8120.54s] English:** i'm very good at and that identifying where is the less competent and i know for a fact that  
-**Translation:** 
-
-**[8129.20s] English:** because i'm competent everywhere i can if i can bring the fight where he's outside of his comfort  
+**[8129.20s] English:** Because I'm competent, everywhere I can, if I can bring the fight where he's outside of his comfort zone.  
 **Translation:** Vocabulary: identifying: 识别
 
-**[8134.66s] English:** zone it increased my odds of winning there's no certainty it's all about odds i believe because  
+**[8134.66s] English:** Zone it increased my odds of winning; there's no certainty, it's all about odds, I believe.  
 **Translation:** 
 
-**[8140.90s] English:** there's always a x factor that you do not control yeah it's fascinating to see you actually because  
+**[8140.90s] English:** There's always an X-factor that you don't control, yeah. It's fascinating to see you, actually, because  
 **Translation:** 
 
-**[8145.40s] English:** you've been a student of movement uh you've been exploring all kinds i mean gymnastics all that  
+**[8145.40s] English:** You've been a student of movement, uh, you've been exploring all kinds — I mean, gymnastics, and all that.  
 **Translation:** 
 
-**[8152.36s] English:** kind of stuff there there's something reminiscent to um like uh conor mcgregor is one other martial  
-**Translation:** Vocabulary: reminiscent: 类似
+**[8152.36s] English:** Kind of stuff, there's something reminiscent of, like, Conor McGregor, is one other martial artist.  
+**Translation:** Vocabulary: gymnastics: 体操; reminiscent: 令人想起
 
-**[8159.20s] English:** kind of explored  
+**[8159.20s] English:** Kind of explored.  
 **Translation:** 
 
-**[8160.00s] English:** movement been a scholar of movement um at least from my perspective it's very sort of bruce lee  
+**[8160.00s] English:** Movement has been a scholar of movement, at least from my perspective, it's very much like Bruce Lee.  
 **Translation:** 
 
-**[8165.74s] English:** like it's almost making a study of the human body and all the possible things you can do  
+**[8165.74s] English:** Like it's almost making a study of the human body and all the possible things you can do.  
 **Translation:** 
 
-**[8171.94s] English:** is there a philosophy behind that that you have you talk about bruce lee man  
+**[8171.94s] English:** Is there a philosophy behind that you have, you talk about Bruce Lee?  
 **Translation:** 
 
-**[8177.14s] English:** it changes my my life too he was ahead of his time yeah incredible a lot of people talk to  
+**[8177.14s] English:** It changes my life, too. He was ahead of his time, yeah— incredible. A lot of people talk to.  
 **Translation:** 
 
-**[8187.52s] English:** me and ask me hey is bruce lee would have been able to fight in ufc i look i don't think so you  
+**[8187.52s] English:** Me, and ask me if Bruce Lee would have been able to fight in UFC? I look, I don't think so, you.  
 **Translation:** 
 
-**[8194.98s] English:** know i don't know i think he was a you know he was a martial artist he could have defended himself  
+**[8194.98s] English:** I don't know, I think he was a martial artist; he could have defended himself.  
 **Translation:** 
 
-**[8199.86s] English:** but to say that he could have competed amongst the elite of the elite fighter perhaps in his time  
+**[8199.86s] English:** But to say that he could have competed among the elite of elites, perhaps in his time.  
+**Translation:** Vocabulary: competed: 竞争; elites: 精英; martial: 武术
+
+**[8206.26s] English:** But if you put him in UFC right now, you know the sport has improved incredibly since.  
 **Translation:** 
 
-**[8206.26s] English:** but if for sure if you put him in ufc right now you know the sport has improved incredibly since  
+**[8214.08s] English:** Then, but in terms of philosophy,...  
 **Translation:** 
 
-**[8214.08s] English:** then but in terms of philosophy  
+**[8217.52s] English:** Yeah, Bruce was amazing. Like, one thing that just proves he was ahead of his time:  
 **Translation:** 
 
-**[8217.52s] English:** yeah bruce he was amazing like one thing that just to prove that he was ahead of his time he  
+**[8222.88s] English:** We were talking about using your longest weapon against your opponent's nearest point, and we see...  
 **Translation:** 
 
-**[8222.88s] English:** was talking about using your longest weapon against your opponent nearest point and we see  
+**[8228.42s] English:** That, that kick that got popularized by John Jones, you know, the sidekick.  
 **Translation:** 
 
-**[8228.42s] English:** that that that kick that um it it it got popular popularized by john jones you know the the side  
+**[8235.42s] English:** Kick: The jab is the longest weapon against your nearest point in boxing, but in MMA, when  
+**Translation:** Vocabulary: jones: 琼斯; sidekick: 副手
+
+**[8241.18s] English:** You can use it all your weapons—that's the kick to the tie—um, and um.  
 **Translation:** 
 
-**[8235.42s] English:** kick to the time it's longest weapon against your nearest point in boxing is the jab but in mma when  
-**Translation:** Vocabulary: jones: 琼斯; popularized: 普及
+**[8247.52s] English:** There is, I felt, a kind of three-dimensional aspect to martial arts: there is the physical, the philosophical, and the practical.  
+**Translation:** Vocabulary: philosophical: 哲学的
 
-**[8241.18s] English:** you can use it all your weapon that's the kick to the tie um and um  
+**[8253.38s] English:** Like Bruce Lee, there is the correct choreography that the choreographers like. For example, you see  
 **Translation:** 
 
-**[8247.52s] English:** there is i felt there is like kind of three dimension in martial art there is the philosopher  
-**Translation:** Vocabulary: dimension: 维度; martial: 武术
+**[8259.96s] English:** In movies, the stunned people are incredible, like the ones that do amazing forms and  
+**Translation:** Vocabulary: choreographers: 编舞者; choreography: 编舞; stunned: 惊呆的
 
-**[8253.38s] English:** like bruce lee there is the correct choreography the choreograph people like for example you see  
+**[8265.50s] English:** Karate, like a jumping spin kick or a bad kick, can be like acrobatic stuff, making martial arts they are.  
 **Translation:** 
 
-**[8259.96s] English:** in movies the stunned people they're incredible like the or the one that does like forms and  
-**Translation:** Vocabulary: choreograph: 编舞; choreography: 舞蹈编排
+**[8270.90s] English:** Unbelievable, and there is also the one that competes in fighting; that's what I'm referring to.  
+**Translation:** Vocabulary: acrobatic: 杂技般的; competes: 比赛; karate: 空手道
 
-**[8265.50s] English:** karate like jumping spin kick bad kick like acrobatic stuff makes martial art they are  
+**[8277.52s] English:** Talking about, but I do that personally.  
 **Translation:** 
 
-**[8270.90s] English:** unbelievable and there is also the the the one that compete in in fighting like that's what i'm  
-**Translation:** Vocabulary: acrobatic: 杂技般的; karate: 空手道
+**[8280.00s] English:** Specialize in well, you also do philosophy. I do a little bit of philosophy, but that's um  
+**Translation:** Vocabulary: specialize: 专注于
 
-**[8277.52s] English:** talking about but i do that i personally  
+**[8285.86s] English:** You know, we are all, I guess, like we all practice the three dimensions because.  
 **Translation:** 
 
-**[8280.00s] English:** specialize in well you also do the philosophy i do a little bit of philosophy but that's um  
-**Translation:** Vocabulary: specialize: 专门研究
+**[8292.56s] English:** Martial art is, I would say, it's whether you want it or not, you have to touch these three dimensions.  
+**Translation:** Vocabulary: dimensions: 维度; martial: 武术
 
-**[8285.86s] English:** you know we are all i guess we are all like we all practice the three dimension because  
+**[8299.28s] English:** But you will specialize in one. I specialize throughout my life in fighting, like the real.  
 **Translation:** 
 
-**[8292.56s] English:** martial art is i would say it's whether you want it or not you have to touch these three dimension  
+**[8305.22s] English:** Things in terms of fighting competition, and of course, if you do martial arts, you will be able  
 **Translation:** 
 
-**[8299.28s] English:** but you will specialize in one i specialize through my life in in fighting like the real  
+**[8310.72s] English:** To defend yourself, because it's self-defense; however, you might not be able to fight as an  
 **Translation:** 
 
-**[8305.22s] English:** thing in terms of fighting competition and of course if you do martial art you will be able  
+**[8315.48s] English:** Elite and the most prestigious organization; and you might not be able to perform the stunt that.  
+**Translation:** Vocabulary: prestigious: 声望高的; stunt: 特技
+
+**[8322.36s] English:** For example, the stuntmen I've done in the series I was playing—in The Falcon and Winter.  
 **Translation:** 
 
-**[8310.72s] English:** to defend yourself because it's a self-defense however you might not be able to fight as an  
-**Translation:** 
-
-**[8315.48s] English:** elite and the most prestigious organization and you might not be able to perform the stunt that  
-**Translation:** Vocabulary: prestigious: 声望高; stunt: 特技
-
-**[8322.36s] English:** for example the stuntmen i've done in in the the series i was playing in the falcon and winter  
-**Translation:** 
-
-**[8328.42s] English:** soldier these guys are incredible they're like real life superhero things they do it's to me  
+**[8328.42s] English:** Soldier: These guys are incredible; they're like real-life superheroes. The things they do amaze me.  
 **Translation:** Vocabulary: falcon: 猎鹰; stuntmen: 特技演员
 
-**[8335.22s] English:** like it's it's fascinating it's amazing and also bruce lee the philosophy how many hours he  
+**[8335.22s] English:** Like it's fascinating and amazing, and also Bruce Lee's philosophy—how many hours he  
 **Translation:** 
 
-**[8342.30s] English:** took like thinking about these stuff you know i'm sure he did not just came out of out of nowhere  
+**[8342.30s] English:** Took me a while to think about these things, you know; I'm sure he didn't just come out of nowhere.  
 **Translation:** 
 
-**[8349.78s] English:** you know like he was thinking like that's mean he slept on on this he how many hours it's just  
+**[8349.78s] English:** You know, like he was thinking, that's mean; he slept for how many hours? It's just...  
 **Translation:** 
 
-**[8357.20s] English:** unbelievable he's like water my friend how many how many times has he thought about water going  
+**[8357.20s] English:** Unbelievable, he's like water, my friend. How many times has he thought about water going?  
 **Translation:** 
 
-**[8362.06s] English:** to bed before he said that uh oh let me ask  
+**[8362.06s] English:** To bed, before he said, "Uh-oh, let me ask.  
 **Translation:** 
 
-**[8365.22s] English:** a very important fundamental question about martial arts we're both wearing a suit and tie  
+**[8365.22s] English:** A very important fundamental question about martial arts: we're both wearing a suit and tie.  
 **Translation:** 
 
-**[8369.60s] English:** uh joe rogan thinks that wearing a tie is a huge disadvantage is it a clip-on or is it an actual  
+**[8369.60s] English:** Uh, Joe Rogan thinks that wearing a tie is a huge disadvantage. Is it a clip-on, or is it an actual?  
 **Translation:** 
 
-**[8376.64s] English:** tie are you actual so do you agree or disagree with joe rogan that wearing a tie is a is a  
+**[8376.64s] English:** Are you actually so that you agree or disagree with Joe Rogan that wearing a tie is a necessity?  
+**Translation:** Vocabulary: necessity: 必需品
+
+**[8385.28s] English:** Martial arts can have a significant disadvantage in terms of combat in a fight, I think.  
 **Translation:** 
 
-**[8385.28s] English:** martial arts significant disadvantage in terms of combat in a combat scenario in a fight i think it  
-**Translation:** 
-
-**[8392.68s] English:** would be a decent disadvantage yes  
+**[8392.68s] English:** It would be a decent disadvantage, yes.  
 **Translation:** Vocabulary: combat: 战斗; martial: 武术
 
-**[8395.22s] English:** okay but i work as a as a security bouncer in nightclubs and events  
+**[8395.22s] English:** Okay, but I work as a security bouncer in nightclubs and events.  
 **Translation:** 
 
-**[8400.00s] English:** when i was 18 years old yes and um sometime i had to work in a certain event that i was in  
+**[8400.00s] English:** When I was 18 years old, yes, and sometimes I had to work during an event that I was in.  
 **Translation:** Vocabulary: bouncer: 保安; nightclubs: 夜总会
 
-**[8407.52s] English:** suit and tie i never had to use my force to take someone out when i was in suit and tie  
+**[8407.52s] English:** Suit and tie, I never had to use my force to take someone out when I was in suit and tie.  
 **Translation:** 
 
-**[8416.44s] English:** but if i would have had to before going to the table to physically take the guy out i would  
+**[8416.44s] English:** But if I would have had to go to the table to physically take the guy out, I would  
 **Translation:** 
 
-**[8422.84s] English:** have removed my tie and i would have removed my vest for sure and i would have called back up for  
+**[8422.84s] English:** I have removed my tie, and I would have removed my vest for sure. I would have called back up for  
 **Translation:** 
 
-**[8428.28s] English:** sure and i would have probably used the element of surprise to be first on the guy yes uh when  
+**[8428.28s] English:** Sure, and I would have probably used the element of surprise to be first on the guy, yes, uh-huh.  
 **Translation:** 
 
-**[8436.32s] English:** you're in a bar same thing you call back up first and and and you make sure you ask the way the  
+**[8436.32s] English:** You're in a bar, same thing: you call back up first and make sure to ask the way.  
 **Translation:** 
 
-**[8442.04s] English:** waitress before to clean the table before you go yeah and when you go you have to use the element  
+**[8442.04s] English:** Waitress, before you clean the table, make sure to use the element, yes? And when you go, you have to use the element.  
 **Translation:** 
 
-**[8448.12s] English:** of surprise yeah because fighting fighting a mixed martial and fighting in the street  
+**[8448.12s] English:** Of surprise, yeah, because fighting in MMA and fighting in the street are very different.  
 **Translation:** 
 
-**[8453.40s] English:** it's two different thing and yes i'm a mix i'm a mixed martial  
+**[8453.40s] English:** It's two different things, and yes, I'm a mix; I'm a mixed martial artist.  
 **Translation:** 
 
-**[8458.14s] English:** you  
+**[8458.14s] English:** You.  
 **Translation:** 
 
-**[8458.28s] English:** are competitor that's what i've done all my life but i had a lot of street fight in my life  
+**[8458.28s] English:** Are competitors—that's what I've done all my life, but I had a lot of street fights in my life.  
 **Translation:** 
 
-**[8463.24s] English:** a lot when i was what's the difference what's like the oh my god it's a huge difference there  
+**[8463.24s] English:** A lot when I was younger, the difference was huge. Oh my god, it's a huge difference there.  
 **Translation:** 
 
-**[8468.62s] English:** is guys that if i would have a choice you know to fight like for example certain guys in ufc in a  
+**[8468.62s] English:** Is it guys, that if I would have a choice, you know, to fight, like for example, certain guys in UFC, in a  
 **Translation:** 
 
-**[8477.06s] English:** street fight and fight like other guys that are not in ufc i would maybe sometimes pick guys that  
+**[8477.06s] English:** Street fights, and fight like other guys that aren't in UFC—I would maybe sometimes pick guys who  
 **Translation:** 
 
-**[8482.58s] English:** are not in ufc not necessarily because in in the street fight there's no referee that says go  
+**[8482.58s] English:** Are not in UFC not necessarily because, in a street fight, there's no referee that says "go.  
 **Translation:** 
 
-**[8488.28s] English:** it's the element of surprise and when you're a nice guy you're not the aggressor you always have  
+**[8488.28s] English:** It's the element of surprise, and when you're a nice guy, you're not the aggressor, you always have  
 **Translation:** 
 
-**[8493.80s] English:** the element of surprise that's what it taught me oh interesting yes because if aggression you're  
-**Translation:** Vocabulary: aggression: 攻击; aggressor: 攻击者
+**[8493.80s] English:** The element of surprise—that's what it taught me. Oh, interesting; yes, because if aggression, you're  
+**Translation:** Vocabulary: aggression: 攻击; aggressor: 发起者
 
-**[8500.34s] English:** sacrificing the person will not come punch you without warning it needs to he needs to trigger  
+**[8500.34s] English:** Sacrificing the person will not come punch you without warning; it needs to trigger.  
 **Translation:** 
 
-**[8506.10s] English:** some it's something need to be triggered before so if someone comes because he's looking for trouble  
+**[8506.10s] English:** Some of it is something that needs to be triggered before, so if someone comes looking for trouble,...  
 **Translation:** Vocabulary: sacrificing: 牺牲
 
-**[8512.16s] English:** there is sign that he's looking for trouble so i was just talking with fast  
+**[8512.16s] English:** There is a sign that he's looking for trouble, so I was just talking with Fast.  
 **Translation:** 
 
-**[8518.28s] English:** this weekend about it and  
+**[8518.28s] English:** This weekend, about it and...  
 **Translation:** 
 
-**[8520.00s] English:** i saw that every every martial art yeah comes from like some martial arts are from exclusive  
+**[8520.00s] English:** I saw that every martial art, yeah, comes from somewhere. Some are from specific traditions.  
 **Translation:** 
 
-**[8526.24s] English:** vehicles for competition yes like sport karate uh like certain martial art but traditional martial  
+**[8526.24s] English:** Vehicles for competition, yes, like sport karate, or like certain martial arts, but traditional martial arts as well.  
 **Translation:** Vocabulary: karate: 空手道; martial: 武术
 
-**[8533.92s] English:** martial art are for the street or for self-defense and i start my background in kyokushin karate so  
+**[8533.92s] English:** Martial arts are for the street or for self-defense, and I started my background in Kyokushin karate so.  
 **Translation:** 
 
-**[8540.24s] English:** it's for and i did japanese jiu-jitsu so my background before i even start training for  
+**[8540.24s] English:** It's for, and I did Japanese Jiu-Jitsu, so my background before I even started training for...  
 **Translation:** Vocabulary: kyokushin: 实战型散打
 
-**[8545.84s] English:** mixed martial art my background is in self-defense and it's very important to understand that in a  
+**[8545.84s] English:** Mixed martial arts: My background is in self-defense, and it's very important to understand that in a  
 **Translation:** 
 
-**[8551.84s] English:** street fight the element of surprise is everything and there are no rules you can't go for the eyes  
+**[8551.84s] English:** Street fight: the element of surprise is everything, and there are no rules—you can't go for the eyes.  
 **Translation:** 
 
-**[8557.20s] English:** the next it surprises everything total ball game you know what i mean you have the the chair the  
+**[8557.20s] English:** The next thing surprises everything; it's a total ballgame, you know what I mean? You have the chair, the  
 **Translation:** 
 
-**[8564.32s] English:** beard there's so much more thing going on so the idea of because you are a ufc fighter you think  
+**[8564.32s] English:** Beard: There's so much more going on, so the idea that just because you're an UFC fighter, you think  
+**Translation:** Vocabulary: ballgame: 比赛
+
+**[8571.92s] English:** You're invincible? This is BS. Anybody can come.  
 **Translation:** 
 
-**[8571.92s] English:** you're invincible this is bs anybody can come  
+**[8575.84s] English:** Like, if a big guy who punched very hard most people don't know how to punch, by the way, they  
+**Translation:** Vocabulary: punched: 打击
+
+**[8580.32s] English:** Don't know how to make a fist and throw it in a forward direction, but if someone knows how to do  
 **Translation:** 
 
-**[8575.84s] English:** like if if a big guy who punched very hard most people don't know how to punch by the way they  
-**Translation:** Vocabulary: invincible: 不可战胜
+**[8584.64s] English:** It: I don't care who you are, if you could be Francis and genuinely someone come behind your head and  
+**Translation:** Vocabulary: genuinely: 真诚地
 
-**[8580.32s] English:** don't know how to make a fist and throw it in a forward direction but if someone knows how to do  
+**[8590.16s] English:** Flying, or to put it another way, if there's an argument and you get surprised by a punch, you can beat them up.  
 **Translation:** 
 
-**[8584.64s] English:** it i don't care who you are if you could be francis and genu someone come behind your head and  
+**[8595.36s] English:** Lose a fight that doesn't matter, yeah? The element of surprise is everything, so you were saying...  
 **Translation:** 
 
-**[8590.16s] English:** flying or let's say there's an argument and you get surprised by a punch you can beat you up and  
+**[8600.64s] English:** Remove all the sources of the elements of surprise, all the clear bars, and remove the.  
 **Translation:** 
 
-**[8595.36s] English:** lose a fight that doesn't matter yeah the element of surprise is everything so you were saying  
+**[8605.84s] English:** I still disagree with you about the time, and just for your information, if someone comes,...  
 **Translation:** 
 
-**[8600.64s] English:** remove all the sources of the elements of surprise all the clear the bar remove the  
+**[8614.24s] English:** Looking for trouble, and you see me do this—and going sideways—that's my position; I'm  
 **Translation:** 
 
-**[8605.84s] English:** i still disagree with you about the time and and just for your information if someone comes  
+**[8621.60s] English:** I'm thinking, there you go, maybe something will happen. I'm, I'm about it; that's a good idea.  
+**Translation:** Vocabulary: sideways: 偏离正题
+
+**[8625.84s] English:** Thinking about doing the element, I'm about to punch you or do something to you.  
 **Translation:** 
 
-**[8614.24s] English:** looking for trouble and you see me do this and and going sideways yeah that's my position that i'm  
+**[8631.52s] English:** Take care of this; see to it that you don't flip the table on yourself, then wearing a tie.  
 **Translation:** 
 
-**[8621.60s] English:** i'm thinking there you go maybe something will happen and i'm i'm about that's a good i'm about  
-**Translation:** Vocabulary: sideways: 偏离方向
-
-**[8625.84s] English:** thinking about doing the element i'm about to punch you or or to do to do something to to to  
+**[8635.84s] English:** Communicating the "nice guy" image, so it actually gives you the freedom.  
 **Translation:** 
 
-**[8631.52s] English:** take care of this see to flip the table on you then wearing a tie  
+**[8640.00s] English:** For more elements of surprise, wear the tie if you take it off; that's more limiting.  
 **Translation:** 
 
-**[8635.84s] English:** communicating the nice guy image so it actually gives you the freedom  
+**[8646.52s] English:** Your options, because nobody's going to expect the guy in the tie to do anything. I'm a big believer,...  
 **Translation:** 
 
-**[8640.00s] English:** for more elements of surprise by wearing the tie if you take it off that's more you're limiting  
-**Translation:** 
-
-**[8646.52s] English:** your options because nobody's going to expect the guy in the tie to do anything i'm a big believer  
-**Translation:** 
-
-**[8652.02s] English:** that sometimes it's not only materialism it's what you project that's true let's say i had  
+**[8652.02s] English:** That sometimes it's not only about materialism; it's what you project that's true. Let's say I had...  
 **Translation:** Vocabulary: believer: 信仰者; materialism: 物质主义
 
-**[8659.52s] English:** troubles in a bar and i was able to deflect the guy was looking for trouble talking to me and i  
+**[8659.52s] English:** Troubles in a bar, and I was able to deflect; the guy was looking for trouble talking to me, and I  
 **Translation:** 
 
-**[8665.66s] English:** was able to deflect his whole aggressivity by saying like hey man that's a nice shirt where  
+**[8665.66s] English:** Was able to deflect his whole aggressivity by saying, "Hey, man, that's a nice shirt," where  
 **Translation:** Vocabulary: aggressivity: 攻击性; deflect: 转移
 
-**[8670.78s] English:** did you get it like saying like something was stupid like this then it it kind of break break  
+**[8670.78s] English:** Did you get it, like saying something was stupid, like this? Then it kind of breaks.  
 **Translation:** 
 
-**[8677.58s] English:** the momentum and he you know but the guy was looking for trouble i don't want to fight you  
+**[8677.58s] English:** The momentum, and he, you know, but the guy was looking for trouble; I don't want to fight you.  
 **Translation:** 
 
-**[8681.96s] English:** i don't want to fight you but i'm not gonna wait until you pull you you make the first move because  
+**[8681.96s] English:** I don't want to fight you, but I'm not gonna wait until you make the first move because...  
 **Translation:** 
 
-**[8689.04s] English:** the first the minute you you touch me you push me or you you touch me you declare war and the war  
+**[8689.04s] English:** The first minute you touch me, you push me, or you touch me — you declare war, and the war...  
 **Translation:** 
 
-**[8695.00s] English:** is unleashed  
+**[8695.00s] English:** Is unleashed.  
 **Translation:** 
 
-**[8695.66s] English:** my friend and i'm i'm taking you out of order with the necessary force of course you know i mean  
+**[8695.66s] English:** My friend and I are taking you out of order, of course. You know, I mean.  
 **Translation:** Vocabulary: unleashed: 释放
 
-**[8701.74s] English:** that's the thing with martial art if you use the necessary force to take out a problem you're it's  
+**[8701.74s] English:** That's the thing with martial arts: if you use the necessary force to take out a problem, you're it's  
 **Translation:** 
 
-**[8708.76s] English:** okay but if you you know you you take advantage of it that's when it's not all right because it's  
-**Translation:** Vocabulary: martial: 武术
+**[8708.76s] English:** Okay, but if you take advantage of it, that's when it's not all right because it's  
+**Translation:** Vocabulary: martial: 武术的
 
-**[8714.08s] English:** a weapon so if someone comes up to me that's my position and now i'm i'm i'm assessing this  
+**[8714.08s] English:** A weapon? So, if someone comes up to me, that's my position, and now I'm assessing this.  
 **Translation:** 
 
-**[8720.52s] English:** situation you know that's that's how they teach in self-defense here never put your  
+**[8720.52s] English:** Situation: You know, that's how they teach in self-defense here — never put your  
 **Translation:** Vocabulary: assessing: 评估
 
-**[8725.52s] English:** hands up  
+**[8725.52s] English:** Hands up.  
 **Translation:** 
 
-**[8725.66s] English:** down i always end there because i'm boom or boom like what this is this is very important and you  
+**[8725.66s] English:** Down, I always end there because I'm "boom" or "boom," like what this is: this is very important, and you  
 **Translation:** 
 
-**[8733.42s] English:** never you always your center line on the side oh yeah like this if someone knows martial art  
+**[8733.42s] English:** Never, you know, keep your center line on the side, oh, yeah, like this. If someone knows martial arts.  
 **Translation:** 
 
-**[8739.70s] English:** he will recognize that pattern but if you go like if someone talked to you and you go like this  
+**[8739.70s] English:** He will recognize that pattern, but if you go, like, if someone talked to you and you go, like, this.  
 **Translation:** 
 
-**[8744.76s] English:** that's mean you're telling the guy that you want to fight you don't want to do that you don't want  
+**[8744.76s] English:** That's mean you're telling the guy that you want to fight. You don't want to do that, you don't want.  
 **Translation:** 
 
-**[8748.96s] English:** to oh yeah um that's that's you know that's that's the position because your hand are here  
+**[8748.96s] English:** To, oh, yeah, um, that's that's the position because your hands are here.  
 **Translation:** 
 
-**[8755.66s] English:** whatever you can do you're here well also your ear tells the story  
+**[8755.66s] English:** Whatever you can do, you're here. Well, also your ears tell the story.  
 **Translation:** 
 
-**[8760.00s] English:** so it's not everybody that knows that however it's some people might think that it's my mom  
+**[8760.00s] English:** So, it's not everybody that knows that, however, some people might think that it's my mom.  
 **Translation:** 
 
-**[8765.60s] English:** grabbed me by the ear and pulled me because i didn't listen to her you know a real fight in  
+**[8765.60s] English:** Grabbed me by the ear and pulled me because I didn't listen to her. You know, a real fight ensued.  
 **Translation:** 
 
-**[8770.00s] English:** the street and a fight in in mixed martial arts is a different ball game what do you think is the best  
+**[8770.00s] English:** The street and a fight in mixed martial arts are different ball games. What do you think is the best?  
+**Translation:** Vocabulary: ensued: 随之发生
+
+**[8776.16s] English:** Martial arts to prepare you for street fighting—you know, people often kind of have this discussion.  
 **Translation:** 
 
-**[8776.16s] English:** martial art to prepare you for street fighting you know people often kind of have this discussion of  
-**Translation:** 
-
-**[8780.80s] English:** jiu jitsu maybe boxing maybe wrestling do you think when you talk about a young person studying  
+**[8780.80s] English:** Jiu-jitsu, maybe boxing, maybe wrestling: do you think when you talk about a young person studying?  
 **Translation:** Vocabulary: wrestling: 摔跤
 
-**[8786.80s] English:** martial arts to prepare themselves for um a street fight it's often much different than a  
+**[8786.80s] English:** Martial arts to prepare themselves for, um, a street fight; it's often much different than a  
 **Translation:** 
 
-**[8792.96s] English:** mixed martial art fight and i know there's a lot of bs in the world of martial arts like  
+**[8792.96s] English:** Mixed martial art fight, and I know there's a lot of BS in the world of martial arts, like  
+**Translation:** Vocabulary: martial: 军事的
+
+**[8798.88s] English:** Self-defense stuff, I think, is very important in a way.  
 **Translation:** 
 
-**[8798.88s] English:** self-defense stuff that like but i believe self-defense is is very important in a way  
+**[8807.36s] English:** To understand the situation, we need to understand those situations that might occur.  
 **Translation:** 
 
-**[8807.36s] English:** to understand the the situation to understand those those situations that might occur it  
+**[8816.56s] English:** Out.  
 **Translation:** 
 
-**[8816.56s] English:** out  
-**Translation:** 
-
-**[8816.80s] English:** to deal with it because not necessarily the the the we talk about the technicality we talk about  
+**[8816.80s] English:** To deal with it, because not necessarily the technicality; we talk about the practical aspects.  
 **Translation:** Vocabulary: technicality: 技术细节
 
-**[8822.96s] English:** the tacticality the tactics you know like when i'm talking to you about the element of surprise  
+**[8822.96s] English:** The tacticity, the tactics, you know, like when I'm talking to you about the element of surprise.  
 **Translation:** 
 
-**[8828.80s] English:** is important this is not technique a technique is a punch or or techniques that i physically will  
-**Translation:** Vocabulary: tacticality: 战术性; tactics: 战术
+**[8828.80s] English:** It's important this is not a technique. A technique is a punch, or techniques that I physically will.  
+**Translation:** Vocabulary: tacticity: 策略性; tactics: 策略
 
-**[8834.48s] English:** use to enable my my my opponent my my aggressor tactic is the tactic i'm telling you about is in  
+**[8834.48s] English:** Use to enable my opponent—my aggressor—to employ the tactic I'm telling you about is in  
 **Translation:** 
 
-**[8842.16s] English:** a street fight if someone is looking for trouble and i feel the heat rising as  
-**Translation:** Vocabulary: aggressor: 挑衅者; tactic: 策略
+**[8842.16s] English:** A street fight—if someone is looking for trouble, and I feel the heat rising as  
+**Translation:** Vocabulary: aggressor: 攻击者; employ: 使用; opponent: 对手; tactic: 策略
 
-**[8846.56s] English:** the conversation goes that's the position i'm gonna take and i have to be first i cannot let him  
+**[8846.56s] English:** The conversation goes, "That's the position I'm gonna take, and I have to be first. I cannot let him.  
 **Translation:** 
 
-**[8853.60s] English:** go first so i have to strike first or do something this is the first thing that generally and i have  
+**[8853.60s] English:** Go first, so I have to strike first or do something. This is the first thing that generally happens, and I have to.  
 **Translation:** Vocabulary: cannot: 不能
 
-**[8859.76s] English:** to to to agree on um after that of course there's the the knowledge if you're a professional fighter  
+**[8859.76s] English:** To agree on that, of course, there's the knowledge if you're a professional fighter.  
 **Translation:** 
 
-**[8868.40s] English:** you have a a huge advantage once the fight is started the war is declared now it's everything  
+**[8868.40s] English:** You have a huge advantage once the fight is started; the war is declared, and now it's everything.  
 **Translation:** 
 
-**[8874.72s] English:** goes but you know you have to be a professional fighter you have to be a professional fighter you  
+**[8874.72s] English:** Goes, but you know, you have to be a professional fighter; you have to be a professional fighter.  
 **Translation:** 
 
-**[8876.32s] English:** generally speaking the person that will and  
+**[8876.32s] English:** Generally speaking, the person who will  
 **Translation:** 
 
-**[8880.00s] English:** intervene physically that will have the first blow or the first you know the first punch  
+**[8880.00s] English:** Intervene physically if that will have the first blow, or the first, you know, the first punch.  
 **Translation:** 
 
-**[8884.30s] English:** will have a huge disadvantage it's like doing a hundred meter race and having a head start you  
-**Translation:** Vocabulary: intervene: 介入
+**[8884.30s] English:** It will give someone a huge disadvantage, like doing a hundred-meter race and having a head start.  
+**Translation:** Vocabulary: intervene: 干涉
 
-**[8891.24s] English:** know and and that you don't you can't prepare for with any martial art yeah and and if i'm a smart  
+**[8891.24s] English:** Know and understand that you can't prepare for some things with any martial art, yeah, and if I'm a smart  
 **Translation:** 
 
-**[8896.14s] English:** guy i know how to fight if a guy like uh an heavyweight champion comes to me or like like  
+**[8896.14s] English:** Guy, I know how to fight. If a guy, like, an heavyweight champion came to me, or something like that.  
 **Translation:** Vocabulary: heavyweight: 重量级选手; martial: 武术
 
-**[8901.84s] English:** like a you know i know i know what to do to disable him like boom or here and then or the  
+**[8901.84s] English:** Like, you know, I know what to do to disable him—boom, or here and then—or the  
 **Translation:** 
 
-**[8909.38s] English:** neck you know like and if you if you blind him what is he gonna do you know what i mean  
+**[8909.38s] English:** Neck, you know, like, and if you blind him, what is he gonna do? You know what I mean?  
+**Translation:** Vocabulary: disable: 使失效
+
+**[8914.24s] English:** So, you know, a bottle — or something like that — and the element of surprise is everything, so that's  
 **Translation:** 
 
-**[8914.24s] English:** so so or a bottle you know what i mean so so the element of surprise is it's everything so that's  
+**[8921.14s] English:** Why it's always good to be the nice guy and not looking for trouble, because if you're  
 **Translation:** 
 
-**[8921.14s] English:** why it's always always good to be the nice guy and not looking for trouble because if you're  
+**[8926.08s] English:** Not looking for trouble, you have the head start; you have the option of keeping it.  
 **Translation:** 
 
-**[8926.08s] English:** not looking for trouble you have the head start you have the option of having an head start  
+**[8930.04s] English:** So, what you're saying is that being a nice guy is the best form of self-defense, maybe a little.  
 **Translation:** 
 
-**[8930.04s] English:** so what you're saying is being a nice guy is the is the best form of self-defense maybe a little  
+**[8934.66s] English:** Humor, yes, and you know, I've learned that when I was a kid,...  
 **Translation:** 
 
-**[8934.66s] English:** humor yes and you know i have learned that i've learned that when i was a kid  
+**[8939.32s] English:** You.  
 **Translation:** 
 
-**[8939.32s] English:** you  
+**[8939.38s] English:** Yeah, I was about six or seven years old. We used to play in Montreal; there's a lot of snow.  
 **Translation:** 
 
-**[8939.38s] English:** yeah i was about maybe seven six six years old we used to to play in montreal there's a lot of snow  
-**Translation:** 
-
-**[8946.78s] English:** we used to play king of the mountain yeah that's the first combat lesson that i've learned in my  
+**[8946.78s] English:** We used to play King of the Mountain, yeah. That's the first combat lesson I've learned in my.  
 **Translation:** Vocabulary: combat: 战斗; montreal: 蒙特利尔
 
-**[8952.02s] English:** life and i managed somehow it was a lot of kids i managed to get on the top of the mountain and  
+**[8952.02s] English:** Life, and I managed somehow. It was a lot of kids, but I managed to get them all to the top of the mountain.  
 **Translation:** 
 
-**[8957.48s] English:** another guy came come in on the top of the mountain and he he was angry that before i  
+**[8957.48s] English:** Another guy came in from the top of the mountain, and he was angry that before I  
 **Translation:** 
 
-**[8962.46s] English:** i was there before him when you play king of the month the mountain it was a mountain of snow you  
+**[8962.46s] English:** I was there before him when you played "King of the Month." The mountain was a mountain of snow, you  
 **Translation:** 
 
-**[8969.20s] English:** don't  
+**[8969.20s] English:** Don't  
 **Translation:** 
 
-**[8969.32s] English:** strike each other we just wrestle and push and and i managed to be first and when he came  
+**[8969.32s] English:** Strike each other, we just wrestle and push. And I managed to be first, and when he came,...  
 **Translation:** 
 
-**[8975.08s] English:** he says to me say uh okay you wanna you wanna fight and i said yeah i didn't know what he  
+**[8975.08s] English:** He says to me, "Say, uh, okay, you wanna fight? And I said, 'Yeah,' I didn't know what he wanted.  
 **Translation:** Vocabulary: wanna: 想要; wrestle: 摔跤
 
-**[8980.44s] English:** mean like i wanna fight you wanna wrestle you say i i say yes he punched me right in the face  
+**[8980.44s] English:** Mean, like I wanna fight; you wanna wrestle? You say "I," I say "yes." He punched me right in the face.  
 **Translation:** 
 
-**[8986.76s] English:** boom and then i and then i fall on on the bottom of the mountain then i when i fall down i remember  
+**[8986.76s] English:** Boom, and then I fall to the bottom of the mountain. Then, when I fall down, I remember.  
+**Translation:** Vocabulary: punched: 打了一拳
+
+**[8993.64s] English:** That vision in my life, because it is something I will remember for the rest of my life.  
 **Translation:** 
 
-**[8993.64s] English:** that vision in my life because it it it's it's i will remember that for the rest of my life  
+**[8999.32s] English:** I'm about to  
 **Translation:** 
 
-**[8999.32s] English:** i'm about to  
+**[9000.00s] English:** Up, and I see the blood coming out of my nose. I see that the snow is red because my nose is bleeding.  
 **Translation:** 
 
-**[9000.00s] English:** up and i see the blood coming out of my nose i see that the snow is red because my nose is bleeding  
+**[9006.64s] English:** Now, I remember that the limit of surprise was everything. My first street fight? I lost, and I got beat up.  
 **Translation:** 
 
-**[9006.64s] English:** now i remember the limit of surprise is everything my first street fight i've lost it i got  
+**[9014.08s] English:** I didn't get knocked out, but I got dropped on the bottom of the snow mountain and I was like  
 **Translation:** 
 
-**[9014.08s] English:** i didn't get knocked out but i i got i got dropped on the bottom of the snow mountain and i was like  
+**[9019.92s] English:** Ah, he got me because I wasn't expecting a punch to my hand. So from there, when I  
 **Translation:** 
 
-**[9019.92s] English:** ah he got me because i was not expecting my hand i was not expecting a punch so from there when i  
+**[9026.40s] English:** Felt the heat of an argument or something was not right; I always struck first.  
 **Translation:** 
 
-**[9026.40s] English:** felt the the the heat of an in during an argument or something was not right i always stroke first  
+**[9033.20s] English:** I didn't win all my fights because sometimes there were more than one guy on me, you know.  
 **Translation:** 
 
-**[9033.20s] English:** i didn't win all my fight because sometimes there were more than one guys on me you know but  
+**[9040.24s] English:** I think it's important to not be the aggressor, so you have the element of...  
 **Translation:** 
 
-**[9040.24s] English:** i think it's important to not be the aggressor so you have the element of  
-**Translation:** 
-
-**[9044.96s] English:** surprise and always use that in your favor that's so brilliant let me uh go from the  
+**[9044.96s] English:** Surprise, and always use that in your favor—that's so brilliant! Let me uh-go from the  
 **Translation:** Vocabulary: aggressor: 攻击者
 
-**[9050.16s] English:** very practical to the the most impractically huge question about the meaning of life  
+**[9050.16s] English:** Very practical to the most impractically huge question about the meaning of life.  
 **Translation:** 
 
-**[9055.84s] English:** you said  
-**Translation:** Vocabulary: impractically: 不切实际
+**[9055.84s] English:** You said,  
+**Translation:** Vocabulary: impractically: 不切实际地
 
-**[9056.40s] English:** that uh when great depths of unrelenting sorrow punctuated by great peaks of joy and liberation  
+**[9056.40s] English:** That, uh, when great depths of unrelenting sorrow are punctuated by great peaks of joy and liberation.  
 **Translation:** 
 
-**[9064.72s] English:** the result is delicious so uh what do you think is the meaning of this whole  
-**Translation:** Vocabulary: punctuated: 断续出现; unrelenting: 持续不断
+**[9064.72s] English:** The result is delicious, so, uh, what do you think is the meaning of this whole thing?  
+**Translation:** Vocabulary: punctuated: 间以; unrelenting: 持续的
 
-**[9070.96s] English:** journey that we're on this life what makes life delicious to me  
+**[9070.96s] English:** Journey that we're on, in this life, what makes life delicious to me?  
 **Translation:** 
 
-**[9078.32s] English:** you know satisfaction is the end for me like like i always if i'm satisfied  
+**[9078.32s] English:** You know, satisfaction is the end for me. Like, I always am satisfied.  
 **Translation:** 
 
-**[9086.40s] English:** that's mean i have no nothing to live for yeah i'm talking i'm not talking only about my career  
+**[9086.40s] English:** That's mean I have nothing to live for, yeah. I'm not talking only about my career.  
 **Translation:** 
 
-**[9091.76s] English:** about talking about my life what i what do you want in your life you want you want kids you want  
+**[9091.76s] English:** About talking about my life, what do you want in your life? You want kids, you want?  
 **Translation:** 
 
-**[9096.08s] English:** a family you want to be champion what do you want in your life you have you have like a long-term  
+**[9096.08s] English:** A family, you want to be a champion. What do you want in your life? You have, you have, like a long-term...  
 **Translation:** 
 
-**[9100.08s] English:** goal short-term goal in mixed martial art i achieve what i needed to achieve i'm satisfied  
+**[9100.08s] English:** Goal: short-term goal in mixed martial arts, I achieved what I needed to achieve, and I'm satisfied.  
 **Translation:** Vocabulary: martial: 武术
 
-**[9110.24s] English:** i'm no longer the same georgetown than when i was on begging for a title shot on my knees  
+**[9110.24s] English:** I'm no longer the same Georgetown than when I was, begging for a title shot on my knees.  
 **Translation:** 
 
-**[9115.68s] English:** i move on  
+**[9115.68s] English:** I move on.  
+**Translation:** Vocabulary: georgetown: 乔治敦
+
+**[9116.40s] English:** For it, from it, now I had a chance.  
 **Translation:** 
 
-**[9116.40s] English:** for it from it now i had a chance  
+**[9120.00s] English:** To go into movies, now that same insane drive that I had to be.  
 **Translation:** 
 
-**[9120.00s] English:** to go into movies now that same insane that same insane drive that i had to be  
+**[9130.76s] English:** The champion in the world? Now, I'm putting it into acting; like, I'm having a lot of acting classes now and...  
 **Translation:** 
 
-**[9130.76s] English:** the champion in the world now i put it into acting like i'm having a lot of acting class now and  
+**[9137.06s] English:** Luckily for me, the timing was amazing. I got cast for The Falcon and the Winter Soldier.  
+**Translation:** Vocabulary: falcon: 猎鹰; timing: 时机
+
+**[9144.02s] English:** That is on Disney+ channel. It's a huge, huge project to be part of for me because it's like  
 **Translation:** 
 
-**[9137.06s] English:** luckily for me the timing was amazing i got i got cast for the the falcon and the winter soldier  
-**Translation:** 
-
-**[9144.02s] English:** that is on disney plus channel it's a huge huge project to be part of for me because it's like  
-**Translation:** 
-
-**[9152.40s] English:** you play basketball you have a chance to go for the nba right away i was very lucky  
+**[9152.40s] English:** You can play basketball, and you have a chance to go for the NBA right away. I was very lucky.  
 **Translation:** Vocabulary: disney: 迪士尼
 
-**[9158.04s] English:** the timing was just too perfect and so you need to constantly challenging yourself and having  
+**[9158.04s] English:** The timing was just too perfect, and so you need to constantly challenge yourself and have  
 **Translation:** 
 
-**[9166.40s] English:** goals to achieve you know like that keep your brain activated like keep working  
+**[9166.40s] English:** Goals to achieve, you know, like keeping your brain activated and keep working.  
 **Translation:** 
 
-**[9172.28s] English:** and  
+**[9172.28s] English:** And  
 **Translation:** 
 
-**[9172.56s] English:** and the proof of that is that you see sometimes some old people like when they retire very often  
+**[9172.56s] English:** And the proof of that is that you see, sometimes, some old people, like when they retire, very often.  
 **Translation:** 
 
-**[9181.18s] English:** sometimes you see that they got sick and they die or because they they  
+**[9181.18s] English:** Sometimes you see that they get sick and die, or because they they  
 **Translation:** 
 
-**[9185.38s] English:** it's either because sometimes we think we  
+**[9185.38s] English:** It's either because sometimes we think we  
 **Translation:** 
 
-**[9189.24s] English:** we certainly make we benefit we do something good for them by  
+**[9189.24s] English:** We certainly make it so that we benefit from doing something good for them.  
 **Translation:** 
 
-**[9196.18s] English:** making that work and giving them a break so in our mind we're like oh he's going to be able to  
+**[9196.18s] English:** Making that work and giving them a break, so in our minds, we're like, "Oh, he's going to be able to...  
 **Translation:** 
 
-**[9202.08s] English:** relax  
+**[9202.08s] English:** Relax.  
 **Translation:** 
 
-**[9202.50s] English:** you know  
+**[9202.50s] English:** You know,  
 **Translation:** 
 
-**[9202.54s] English:** you know we're like oh he's going to be able to relax you know we're like oh he's going to be able to relax  
+**[9202.54s] English:** You know, we're like, "Oh, he's going to be able to relax.  
 **Translation:** 
 
-**[9202.56s] English:** you know we're like oh he's going to be able to relax but in their mind it's not good because they're  
+**[9202.56s] English:** You know, we're like, "Oh, he's going to be able to relax," but in their minds, it's not good because they're  
 **Translation:** 
 
-**[9206.32s] English:** but in their mind it's not good because they're not busy they have nothing to live for like  
+**[9206.32s] English:** But in their mind, it's not good because they're not busy and they have nothing to live for, like.  
 **Translation:** 
 
-**[9208.24s] English:** not busy they have nothing to live for like my dad is used to work all the time and he has always  
+**[9208.24s] English:** Not busy; they have nothing to live for. Like my dad, who is used to working all the time and he has always...  
 **Translation:** 
 
-**[9211.68s] English:** my dad is used to work all the time and he has always something to do he's retired now i myself  
+**[9211.68s] English:** My dad is used to working all the time and he has always had something to do. He's retired now, and so have I.  
 **Translation:** 
 
-**[9215.84s] English:** something to do he's retired now i myself now call him by force to find him some job hey dad okay  
+**[9215.84s] English:** Something to do? He's retired now. I myself, now call him and try to find him a job. Hey, Dad, okay.  
 **Translation:** 
 
-**[9220.64s] English:** now call him by force to find him some job hey dad okay can you come in my house have this thing to  
+**[9220.64s] English:** Now, call him by force to find him a job. Hey, Dad! Okay, can you come in my house and have this thing to talk about?  
 **Translation:** 
 
-**[9223.44s] English:** can you come in my house have this thing to repair i don't know how to do it so he gives him it gives  
+**[9223.44s] English:** Can you come to my house? I have this thing to repair, I don't know how to do it, so he gave me it.  
 **Translation:** 
 
-**[9226.32s] English:** repair i don't know how to do it so he gives him it gives him a reason not to live because he has  
+**[9226.32s] English:** Repair, I don't know how to do it, so he gives him a reason not to live because he has.  
 **Translation:** 
 
-**[9229.36s] English:** has other things to do but but what i mean is also in life i think you always don't be afraid  
+**[9229.36s] English:** Has other things to do, but what I mean is, also in life, I think you should never be afraid.  
 **Translation:** 
 
-**[9235.66s] English:** to aim high don't don't be afraid to fix  
+**[9235.66s] English:** To aim high, don't be afraid to fix.  
 **Translation:** 
 
-**[9240.00s] English:** your objective very high and never be able to reach it be afraid of reaching your goals essentially  
+**[9240.00s] English:** Your objective is very high, and you might never be able to reach it—be afraid of reaching your goals, essentially.  
 **Translation:** 
 
-**[9245.90s] English:** i mean you always have to keep moving it out you think there's a it's an interesting question  
+**[9245.90s] English:** I mean, you always have to keep moving it out. You think there's an interesting question.  
 **Translation:** 
 
-**[9250.92s] English:** because you've been acting in some really exciting things do you think there's a a dramatic role where  
+**[9250.92s] English:** Because you've been acting in some really exciting things, do you think there's a dramatic role where  
 **Translation:** 
 
-**[9258.00s] English:** it's basically you know you go full robert de niro and taxi uh driver is do you think there'll  
+**[9258.00s] English:** It's basically, you know, you go full Robert De Niro and Taxi Driver. Do you think there'll  
 **Translation:** 
 
-**[9265.08s] English:** be a full-length feature film with doris st pierre i liken there's level to this thing i'm aware that  
-**Translation:** Vocabulary: doris: 多丽丝; liken: 类比
-
-**[9272.64s] English:** i have to restart as a white white belt and for some people it could be discouraging but for me  
+**[9265.08s] English:** Be a full-length feature film with Doris St-Pierre. I liken it to have a certain level to this thing; I'm aware that.  
 **Translation:** 
 
-**[9278.96s] English:** man it's great i love it i freaking love it i embrace it because everybody told me like i would  
-**Translation:** Vocabulary: discouraging: 令人灰心; freaking: 真棒
-
-**[9284.76s] English:** never be able to do it and it's fine but the and also the outcome of a failure in the sport of  
+**[9272.64s] English:** I have to restart as a white belt, and for some people, it could be discouraging, but for me,...  
 **Translation:** 
 
-**[9293.44s] English:** martial art is much  
+**[9278.96s] English:** Man, it's great! I love it; I freaking love it. I embrace it because everybody told me like I would.  
+**Translation:** Vocabulary: discouraging: 令人灰心; embrace: 接受; freaking: 真
+
+**[9284.76s] English:** Never be able to do it, and it's fine, but the outcome of a failure in the sport of...  
+**Translation:** 
+
+**[9293.44s] English:** Martial art is much  
 **Translation:** Vocabulary: martial: 武术
 
-**[9294.88s] English:** more serious than the outcome of a failure for a movie for example for for if you zig when you  
+**[9294.88s] English:** More serious than the outcome of a failure for a movie, for example, for if you zig when you zag.  
 **Translation:** 
 
-**[9301.98s] English:** should zag in a fight you get knocked out if you zig when you should zag and unset oh cut we'll do  
+**[9301.98s] English:** Should you zag in a fight, you might get knocked out if you zig when you should zag. And unset... Oh, cut! We'll do it again.  
 **Translation:** 
 
-**[9307.04s] English:** it again and i know that i will be most likely be true chosen for action martial art roles because  
+**[9307.04s] English:** It's again, and I know that I will most likely be chosen for action martial art roles because.  
 **Translation:** 
 
-**[9318.22s] English:** that's my background there is this new trend in hollywood now when they want someone to play  
+**[9318.22s] English:** That's my background. There is this new trend in Hollywood now when they want someone to play  
 **Translation:** 
 
-**[9323.04s] English:** an italian guy  
+**[9323.04s] English:** An Italian guy.  
 **Translation:** 
 
-**[9324.88s] English:** they're gonna choose a real italian person when they want someone to play a russian guy they're  
+**[9324.88s] English:** They're gonna choose a real Italian person when they want someone to play a Russian guy, they're  
 **Translation:** 
 
-**[9329.94s] English:** gonna choose someone who has a real russian background now they want a real martial art  
+**[9329.94s] English:** Gonna choose someone who has a real Russian background, now they want a real martial art.  
 **Translation:** 
 
-**[9336.14s] English:** fighter i've done fighting all my life i just need to improve my acting skill but when i train  
+**[9336.14s] English:** Fighter, I've done fighting all my life. I just need to improve my acting skills, but when I train,...  
 **Translation:** 
 
-**[9342.74s] English:** in acting i get myself out of my comfort zone i'm not playing a role of a martial art i'm playing  
+**[9342.74s] English:** In acting, I get myself out of my comfort zone. I'm not playing a role as a martial artist; I'm playing...  
 **Translation:** 
 
-**[9348.98s] English:** like romance uh comedy drama so when i go on set and playing  
+**[9348.98s] English:** Like romance, uh, comedy, drama. So, when I go on set and playing...  
 **Translation:** 
 
-**[9354.88s] English:** the role of a of a badass martial art guy it's it's easy  
+**[9354.88s] English:** The role of a badass martial arts guy is easy.  
 **Translation:** 
 
-**[9360.00s] English:** So like in training for a fight, I always make my preparation harder than the actual task.  
-**Translation:** Vocabulary: badass: 牛逼⚗️
+**[9360.00s] English:** So, like in training for a fight, I always make my preparation harder than the actual task.  
+**Translation:** Vocabulary: badass: 牛逼
 
-**[9368.78s] English:** I would love to see where – I don't know if you've seen The Wrestler with Mickey Rourke.  
+**[9368.78s] English:** I would love to see where—I don't know if you've seen "The Wrestler" with Mickey Rourke.  
 **Translation:** 
 
 **[9373.06s] English:** Oh, yeah.  
 **Translation:** Vocabulary: wrestler: 摔跤手
 
-**[9373.86s] English:** Those types of films, I would love to – I would love to see you do something like that.  
+**[9373.86s] English:** Those types of films, I would love to see you do something like that.  
 **Translation:** 
 
 **[9379.04s] English:** If not now, then in 10, 20 years, I could see that.  
@@ -5291,7 +5292,7 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **Translation:** 
 
 **[9386.26s] English:** And I'm aware that I don't want to take something on my shoulder that I won't be able to deliver.  
-**Translation:** 
+**Translation:** Vocabulary: gradual: 逐步的
 
 **[9392.48s] English:** It's like a fighter wants to go for a title shot right away.  
 **Translation:** 
@@ -5302,14 +5303,14 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[9398.46s] English:** You know what I mean?  
 **Translation:** 
 
-**[9398.86s] English:** And I don't want to do that because I know – I've done some gigs in the past, but I was not focusing on it because I was focusing on competing as a martial artist in competition in MMA.  
-**Translation:** 
+**[9398.86s] English:** And I don't want to do that because I know—I've done some gigs in the past, but I was not focusing on it because I was focusing on competing as a martial artist in MMA.  
+**Translation:** Vocabulary: martial: 武术
 
 **[9411.90s] English:** But now I take it very seriously.  
 **Translation:** 
 
-**[9413.52s] English:** So I cannot do the same mistake again.  
-**Translation:** 
+**[9413.52s] English:** So, I cannot make the same mistake again.  
+**Translation:** Vocabulary: cannot: 不能
 
 **[9415.90s] English:** Because I've done some stuff.  
 **Translation:** 
@@ -5317,22 +5318,22 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[9417.12s] English:** I've done it for the money, and it was good.  
 **Translation:** 
 
-**[9420.02s] English:** It was fun to be beat up by Jacques-Claude Van Damme, Steven Seagal, and everything.  
+**[9420.02s] English:** It was fun to be beaten up by Jacques-Claude Van Damme, Steven Seagal, and everything.  
 **Translation:** 
 
-**[9424.36s] English:** But my acting was not on point, you know, at that time.  
-**Translation:** Vocabulary: steven: 史蒂文
+**[9424.36s] English:** But my acting wasn't on point, you know, at that time.  
+**Translation:** Vocabulary: beaten: 被打; steven: 史蒂文
 
-**[9428.62s] English:** So every time I'm going to come back from now on, on screen, you need to be sharp because you cannot mess it up.  
+**[9428.62s] English:** So, every time I'm coming back from now on, on screen, you need to be sharp because you cannot mess it up.  
 **Translation:** 
 
 **[9436.36s] English:** If you mess it up, it's like a loss on your record.  
-**Translation:** Vocabulary: cannot: 不能
+**Translation:** 
 
 **[9439.24s] English:** You're not taken seriously.  
 **Translation:** 
 
-**[9441.38s] English:** So that's how I see it.  
+**[9441.38s] English:** So, that's how I see it.  
 **Translation:** 
 
 **[9442.96s] English:** And it's very frustrating.  
@@ -5341,184 +5342,184 @@ Source file: Lex Fridman - Georges St-Pierre： The Science of Fighting ｜ Lex 
 **[9445.90s] English:** It's very fun because I had the chance to talk to a lot of guys.  
 **Translation:** Vocabulary: frustrating: 令人沮丧的
 
-**[9449.00s] English:** And on top of all the class that I'm having, like a few days ago, I was with Danny Trujo.  
+**[9449.00s] English:** And, in addition to all my classes, like a few days ago, I was with Danny Trujo.  
 **Translation:** 
 
-**[9455.68s] English:** And I always seek the advice of actors when I see some of them because I really admire how they do, you know, how they project their emotion.  
+**[9455.68s] English:** And I always seek the advice of actors when I see some of them, because I really admire how they project their emotions.  
 **Translation:** Vocabulary: danny: 丹尼
 
-**[9464.16s] English:** And I asked him, Danny Trujo, I said to him – he's an amazing guy, by the way, very nice guy.  
+**[9464.16s] English:** And I asked him, Danny Trujo: "I said to him—he's an amazing guy, by the way, very nice guy.  
 **Translation:** 
 
-**[9469.46s] English:** And I asked him, I said, how do you do to be – because you're scary.  
+**[9469.46s] English:** And I asked him, "I said, how do you do that—because you're scary.  
 **Translation:** 
 
-**[9475.90s] English:** I said, you scare the hell out of me.  
+**[9475.90s] English:** I said, "You scare the hell out of me.  
 **Translation:** 
 
 **[9477.68s] English:** How do you do to be so scary?  
 **Translation:** 
 
-**[9478.92s] English:** I said, you scared the hell out of me.  
+**[9478.92s] English:** I said, "You scared the hell out of me.  
 **Translation:** 
 
-**[9479.44s] English:** I said, you scared the hell out of me.  
+**[9479.44s] English:** I said, "You scared the hell out of me.  
 **Translation:** 
 
-**[9480.00s] English:** scary like what is your trick and he tells me he's like george if you threatening if you threat  
+**[9480.00s] English:** Scary, like what is your trick? And he tells me he's "George," if you're threatening, if you threaten.  
 **Translation:** 
 
-**[9486.00s] English:** someone and you scream at him i'm gonna kill you it's not as scary if you're smiling and you say  
+**[9486.00s] English:** Someone comes at you, screaming "I'm gonna kill you." It's not as scary if you're smiling and say,  
 **Translation:** 
 
-**[9495.20s] English:** i'm gonna kill you like and he says also to me that another advice he gave me is like when you  
+**[9495.20s] English:** I'm gonna kill you. Like, and he also told me that another piece of advice he gave me is like when you  
 **Translation:** 
 
-**[9503.30s] English:** say this think about you killing him for real that how you hate him and how you're gonna kill  
+**[9503.30s] English:** Say, "This? Think about you killing him for real. That's how you hate him, and how you're going to kill.  
 **Translation:** 
 
-**[9510.60s] English:** him so the camera will take the emotion out don't try physically to do that that's the mistake i  
+**[9510.60s] English:** He said, "So the camera will take the emotion out; don't try to do that physically—that's the mistake.  
 **Translation:** 
 
-**[9517.62s] English:** used to do before i used to physically show that i'm strong and angry and and to be mean  
+**[9517.62s] English:** Used to do before, I used to physically show that I'm strong and angry and to be mean.  
 **Translation:** 
 
-**[9523.16s] English:** so these are just an example of tricks that i learned sometimes when i met an actor i always  
+**[9523.16s] English:** So, these are just examples of tricks that I learned. Sometimes when I met an actor, I always  
 **Translation:** 
 
-**[9530.26s] English:** trying to learn from everybody that i met in my life  
+**[9530.26s] English:** Trying to learn from everyone I met in my life.  
 **Translation:** 
 
-**[9533.10s] English:** it's  
+**[9533.10s] English:** It's  
 **Translation:** 
 
-**[9533.28s] English:** a difficult journey because then you have to go to some dark places as a person because you really  
+**[9533.28s] English:** A difficult journey, because then you have to go to some dark places as a person, because you really  
 **Translation:** 
 
-**[9537.56s] English:** have to imagine imagine some dark things uh it's fascinating actually i i think a lot of the actor  
+**[9537.56s] English:** Have to imagine some dark things, though. It's actually fascinating, I think. A lot of actors do that.  
 **Translation:** 
 
-**[9544.24s] English:** they have sometimes problems because of that because because now i understand why it's like  
+**[9544.24s] English:** They have sometimes problems because of that, because now I understand why it's like this.  
 **Translation:** 
 
-**[9550.00s] English:** if you work on your bicep your bicep will grow right it's a it because it it is the stress that  
+**[9550.00s] English:** If you work on your bicep, your bicep will grow, right? It's because it is the stress that...  
 **Translation:** 
 
-**[9557.58s] English:** you put on it that will make it grow right emotions are i believe are the same way if  
+**[9557.58s] English:** You put on it, and it will make it grow right. Emotions, I believe, are the same way. If  
 **Translation:** Vocabulary: bicep: 二头肌
 
-**[9563.28s] English:** you're used to dig inside of you down deep to to to to make your negative emotion depressive  
+**[9563.28s] English:** You're used to digging inside of you, down deep, to make your negative emotions depressive.  
 **Translation:** 
 
-**[9572.16s] English:** emotion comes out if something bad in your life happened you will fall into those emotions much  
+**[9572.16s] English:** Emotion comes out if something bad in your life happens; you will fall into those emotions much.  
 **Translation:** Vocabulary: depressive: 抑郁的
 
-**[9579.58s] English:** more rapidly that's someone who does not that every day you know what i mean because it will  
+**[9579.58s] English:** More rapidly, that's someone who doesn't do it every day. You know what I mean? Because it will...  
 **Translation:** 
 
-**[9584.46s] English:** it's like a muscle memory like if you program yourself to react a certain way you will reach  
+**[9584.46s] English:** It's like muscle memory: if you program yourself to react a certain way, you'll do it automatically.  
 **Translation:** 
 
-**[9589.40s] English:** that point very often so that's why sometimes you see some some  
+**[9589.40s] English:** That point very often, so that's why sometimes you see some.  
 **Translation:** 
 
-**[9593.28s] English:** guys they we often blame it on drug but i think it's also because of the acting they're used to be  
+**[9593.28s] English:** Guys, they we often blame it on drugs, but I think it's also because of the acting; they're used to being.  
 **Translation:** 
 
-**[9600.00s] English:** on the hopped up and sometimes they go to the down deep so they they they they they the both  
+**[9600.00s] English:** On the hoppy, and sometimes they go to the down deep, so they, they, they, they, the both.  
 **Translation:** 
 
-**[9606.92s] English:** extreme you know you got to be psychologically tough and that's life this is i'm so excited to  
+**[9606.92s] English:** Extreme; you know, you've got to be psychologically tough, and that's life. This is why I'm so excited to.  
+**Translation:** Vocabulary: hoppy: 啤酒花味; psychologically: 心理上
+
+**[9611.74s] English:** See, you'll challenge yourself in that direction—that's one thing I'm a little bit afraid of.  
 **Translation:** 
 
-**[9611.74s] English:** see you challenge yourself in that direction that's one thing that i'm a a little bit afraid  
+**[9616.68s] English:** That happened to me. I really hope I'll always be, you know, like a problem having a.  
 **Translation:** 
 
-**[9616.68s] English:** that happened to me i i i really hope i'll i'll always be uh you know like a problem having a  
+**[9625.20s] English:** Problem to control my emotions can be oh, yeah, very extreme. I hope it doesn't happen to me, and...  
 **Translation:** 
 
-**[9625.20s] English:** problem to control my emotion be oh yeah much extreme i hope it does not happen to me and and  
+**[9630.74s] English:** And if I feel that I'm going toward that, I'm gonna you know give up on my new objective.  
 **Translation:** 
 
-**[9630.74s] English:** and if i feel that i'm going towards that i'm gonna you know give up on on my new objective  
+**[9640.24s] English:** And find something else to achieve, but in your personal life, you want to be real with yourself.  
 **Translation:** 
 
-**[9640.24s] English:** and find something else to to achieve but in your personal life you want to be real with your  
-**Translation:** 
-
-**[9645.80s] English:** emotions you don't want to it doesn't you know just like with biceps you don't want biceps they're  
+**[9645.80s] English:** Emotions you don't want to feel are just like with biceps—you don't want big biceps; they're  
 **Translation:** Vocabulary: biceps: 肱二头肌
 
-**[9651.18s] English:** too big you you you are real but you are extreme  
+**[9651.18s] English:** Too big, you are real, but you are extreme.  
 **Translation:** 
 
-**[9655.20s] English:** real and and that's the that's the that's what i think something that could happen to actors  
+**[9655.20s] English:** Real, and that's what I think something that could happen to actors.  
 **Translation:** 
 
-**[9661.52s] English:** sometimes when they go too much into their emotion like we talk about like sometimes guys that that  
+**[9661.52s] English:** Sometimes, when they get too emotional, like we talked about, like sometimes guys get too emotional.  
 **Translation:** 
 
-**[9666.56s] English:** that commit commit suicide perhaps you know i don't know it's because i don't know their real  
+**[9666.56s] English:** That commits suicide, perhaps. You know, I don't know; it's because I don't know their real reasons.  
+**Translation:** Vocabulary: commits: 自杀
+
+**[9671.88s] English:** Life, but it could be something that they get so into their character; I didn't understand it.  
 **Translation:** 
 
-**[9671.88s] English:** life but it could be something that they get so much into their character i didn't understand it  
+**[9678.20s] English:** At first, because I'd never had acting class, but after a while, that you have acting classes now.  
 **Translation:** 
 
-**[9678.20s] English:** at first because i'd never had acting class but after a while that you have acting class now you  
+**[9683.18s] English:** Start to realize that, yeah, okay, I understand.  
 **Translation:** 
 
-**[9683.18s] English:** start to realize that yeah okay i understand  
+**[9685.20s] English:** Why do some actors get caught up in their emotions, because that can have an influence on their lives?  
 **Translation:** 
 
-**[9685.20s] English:** why some actor get caught up in their emotion because that can have an influence on their life  
+**[9692.94s] English:** Right, you're on a fascinating journey, George. I can't tell you how much it means to me that you'll  
 **Translation:** 
 
-**[9692.94s] English:** right you're on a fascinating journey uh george i can't tell you how much it means to me that you'll  
+**[9699.48s] English:** Be so nice to me that you'll give me so much respect; just that tells everything I need.  
 **Translation:** 
 
-**[9699.48s] English:** be so nice to me that you'll give me so much respect just that that tells everything i need  
+**[9704.34s] English:** To know about you as a human being, with everything you've accomplished, you waste all your time and  
 **Translation:** 
 
-**[9704.34s] English:** to know about you as a human being with everything you've accomplished you waste all your time and  
+**[9709.06s] English:** You're so nice to me, just as a fellow human being. Man, I have so much respect for you; I'm so honored.  
 **Translation:** 
 
-**[9709.06s] English:** you're so nice to me just as a fellow human being man i have so much respect i'm so honored  
+**[9715.20s] English:** And the energy you give me by just even showing up here, I'll carry that forward for a long time.  
 **Translation:** 
 
-**[9715.20s] English:** and the energy you give me by just even showing up here i'll carry that forward for a long  
+**[9720.00s] English:** Time to come, George! I love it. Thank you so much for talking today. Now, thank you, Lex, for having me.  
 **Translation:** 
 
-**[9720.00s] English:** time to come george i love it thank you so much for talking today now thank you lex for having me  
+**[9724.16s] English:** On the show, you know, I've been looking to talk to you for a long time. For me, talking to a guy like...  
 **Translation:** 
 
-**[9724.16s] English:** on the show you know i've been looking to talk to you for a long time for me talking to a guy like  
+**[9729.22s] English:** You, it's a great learning experience because I always learn, and it's life-is.  
 **Translation:** 
 
-**[9729.22s] English:** you it's uh it's a great learning experience because i always learn and uh it's life is  
+**[9735.36s] English:** Fascinating to me, and all the experiences we have in life — you know, it's something that can make  
 **Translation:** 
 
-**[9735.36s] English:** fascinating to me and all the experience that we have in life you know it's something that can make  
+**[9741.68s] English:** Us grow, and this experience for me just made me grow as well. You know, plus we look  
 **Translation:** 
 
-**[9741.68s] English:** us grow and this experience for me just you know make me grow as uh as well you know plus we look  
+**[9747.78s] English:** Pretty damn sharp today, so man, in black, my friend. Thanks, George! Nice, thanks for listening to this.  
 **Translation:** 
 
-**[9747.78s] English:** pretty damn sharp today so man in black my friend thanks george nice thanks for listening to this  
+**[9756.16s] English:** Conversation with George St-Pierre, and thank you to everyone from ExpressVPN, Blinkist, and Theragun.  
+**Translation:** Vocabulary: blinkist: 闪电式学习; theragun: 震感器
+
+**[9763.90s] English:** The information, check them out in the description to support this podcast, and now let me leave you.  
 **Translation:** 
 
-**[9756.16s] English:** conversation with george san pierre and thank you to all form express vpn blinkist theragun and  
-**Translation:** Vocabulary: blinkist: 速读摘要; theragun: 肌肉震颤仪
+**[9770.18s] English:** With some words from Miyamoto Musashi: "Think lightly of yourself and deeply of the world.  
+**Translation:** Vocabulary: musashi: 武藏
 
-**[9763.90s] English:** the information check them out in the description to support this podcast and now let me leave you  
+**[9776.34s] English:** Thank you.  
 **Translation:** 
 
-**[9770.18s] English:** with some words from miyamoto musashi think lightly of yourself and deeply of the world  
-**Translation:** Vocabulary: miyamoto: 宫本武藏
-
-**[9776.34s] English:** thank you  
-**Translation:** 
-
-**[9777.78s] English:** for listening and hope to see you next time  
+**[9777.78s] English:** For listening, and hope to see you next time!  
 **Translation:** 
 
 

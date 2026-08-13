@@ -1,155 +1,156 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcast #226.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The following is a conversation with Joe Bowler, a mathematics educator at Stanford and co-founder of ucubed.org  
+**[0.00s] English:** The following is a conversation with Joe Bowler, a mathematics educator at Stanford and co-founder of ucubed.org.  
 **Translation:** 
 
-**[7.72s] English:** that seeks to inspire young minds with the beauty of mathematics.  
-**Translation:** 
+**[7.72s] English:** That seeks to inspire young minds with the beauty of mathematics.  
+**Translation:** Vocabulary: educator: 教育者; stanford: 斯坦福大学
 
 **[12.04s] English:** To support this podcast, please check out our sponsors in the description.  
 **Translation:** 
 
 **[17.06s] English:** This is the Lex Friedman Podcast, and here is my conversation with Joe Bowler.  
+**Translation:** Vocabulary: sponsors: 赞助商
+
+**[23.14s] English:** What is beautiful about mathematics to you?  
 **Translation:** 
 
-**[23.14s] English:** What to you is beautiful about mathematics?  
+**[26.00s] English:** I love a mathematics that some people don't even think of as mathematics.  
 **Translation:** 
 
-**[26.00s] English:** I love a mathematics that some people don't even think of as mathematics,  
-**Translation:** 
-
-**[32.46s] English:** which is beautiful, creative mathematics, where we look at maths in different ways.  
+**[32.46s] English:** Which is beautiful and creative mathematics, where we look at math in different ways.  
 **Translation:** 
 
 **[39.54s] English:** We visualize it. We think about different solutions to problems.  
 **Translation:** Vocabulary: visualize: 想象
 
-**[44.60s] English:** A lot of people think of maths as you have one method and one answer.  
+**[44.60s] English:** A lot of people think of math as having one method and one answer.  
 **Translation:** 
 
-**[49.60s] English:** And what I love about maths is the multiple different ways you can see things,  
+**[49.60s] English:** And what I love about math is the multiple different ways you can see things,  
 **Translation:** 
 
-**[53.76s] English:** different methods, different ways of seeing.  
+**[53.76s] English:** Different methods, different ways of seeing.  
 **Translation:** 
 
 **[56.00s] English:** In some cases, different solutions.  
 **Translation:** 
 
-**[59.14s] English:** So that is what is beautiful to me about mathematics,  
+**[59.14s] English:** So, that is what is beautiful to me about mathematics.  
 **Translation:** 
 
-**[62.08s] English:** that you can see and solve it in many different ways.  
+**[62.08s] English:** That you can see and solve it in many different ways.  
 **Translation:** 
 
-**[65.68s] English:** And also the sad part that many people think that maths is just one answer and one method.  
+**[65.68s] English:** And also, the sad part is that many people think that math is just one answer and one method.  
 **Translation:** 
 
-**[73.96s] English:** So to you, the beauty emerges when you have a problem with a solution and you start adding other solutions.  
-**Translation:** 
+**[73.96s] English:** So, to you, the beauty emerges when you have a problem with a solution and you start adding other solutions.  
+**Translation:** Vocabulary: emerges: 显现
 
 **[81.20s] English:** Simpler solutions, weirder solutions, more interesting.  
 **Translation:** 
 
 **[85.54s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: weirder: 更奇怪
 
-**[85.62s] English:** Some that are very interesting.  
+**[85.62s] English:** Some of them are very interesting.  
 **Translation:** 
 
 **[85.98s] English:** Yeah.  
 **Translation:** 
 
-**[86.00s] English:** Some that are visual, some that are algebraic, geometry, all that kind of stuff.  
+**[86.00s] English:** Some are visual, some are algebraic, like geometry and all that kind of stuff.  
 **Translation:** 
 
 **[90.12s] English:** Yeah.  
-**Translation:** Vocabulary: algebraic: 代数的; geometry: 几何
+**Translation:** Vocabulary: algebraic: 代数的; geometry: 几何学
 
-**[90.62s] English:** I mean, I always say that you can take any maths area and make it visual.  
+**[90.62s] English:** I mean, I always say that you can take any math area and make it visual.  
 **Translation:** 
 
-**[95.06s] English:** And we say to teachers, give us your most dry, boring maths,  
+**[95.06s] English:** And we say to teachers, give us your driest, most boring math,  
 **Translation:** 
 
-**[99.88s] English:** and we'll make it a visual, interesting, creative problem.  
+**[99.88s] English:** And we'll make it a visual, interesting, and creative problem.  
 **Translation:** 
 
-**[103.42s] English:** And it turns out you can do that with any area of maths.  
+**[103.42s] English:** And it turns out you can do that with any area of math.  
 **Translation:** 
 
-**[106.96s] English:** And I think we have given, it's been a great disservice to kids and others  
+**[106.96s] English:** And I think we have given it; it's been a great disservice to kids and others.  
 **Translation:** 
 
-**[111.62s] English:** that it's always been numbers, lots and lots of numbers.  
+**[111.62s] English:** That's always been numbers, lots and lots of numbers.  
 **Translation:** Vocabulary: disservice: 损害
 
-**[115.58s] English:** Numbers can be great, but you can think about maths in other ways besides...  
+**[115.58s] English:** Numbers can be great, but you can think about math in other ways besides...  
 **Translation:** 
 
-**[120.00s] English:** numbers. Do you find that most people are better visual learners or is this just something that's  
+**[120.00s] English:** Numbers. Do you find that most people are better visual learners, or is this just something that's  
 **Translation:** 
 
-**[126.56s] English:** complementary? What's the kind of the full spectrum of students and the way they like to explore math  
+**[126.56s] English:** Complementary? What's the full spectrum of students and the ways they like to explore math?  
 **Translation:** 
 
-**[132.62s] English:** would you say? I mean there's definitely people who come into the classes I do who are more  
+**[132.62s] English:** Would you say? I mean, there's definitely people who come into the classes I do who are more  
 **Translation:** Vocabulary: complementary: 补充的
 
-**[138.16s] English:** interested in visual thinking and like visual approaches but it turns out what the neuroscience  
+**[138.16s] English:** Interested in visual thinking and like visual approaches, but it turns out that what the neuroscience  
 **Translation:** 
 
-**[143.82s] English:** is telling us is that when we think about maths there are two visual pathways in the brain and  
-**Translation:** Vocabulary: neuroscience: 神经系统科学; pathways: 路径
+**[143.82s] English:** Is telling us that when we think about math, there are two visual pathways in the brain, and  
+**Translation:** Vocabulary: approaches: 方法; neuroscience: 神经科学; pathways: 路径
 
-**[149.36s] English:** we should all be thinking about it visually. Some approaches have been to say well you're a visual  
+**[149.36s] English:** We should all be thinking about it visually. Some approaches have been to say, "Well, you're a visual.  
 **Translation:** 
 
-**[155.42s] English:** learner so we'll give you visuals and you're not a visual learner but actually if you think you're  
+**[155.42s] English:** Learner, so we'll give you visuals, and you're not a visual learner, but actually, if you think you're  
+**Translation:** Vocabulary: visually: 视觉上; visuals: 图表
+
+**[163.42s] English:** Not a visual learner? It's probably more important that you have a visual approach so you can develop.  
 **Translation:** 
 
-**[163.42s] English:** not a visual learner it's probably more important that you have a visual approach so you can develop  
+**[169.68s] English:** That part of your brain. So, you were saying that there's some kind of interconnected aspect to it.  
+**Translation:** Vocabulary: interconnected: 相互连接的
+
+**[174.48s] English:** So, the visual connects with the non-visual. Yeah, so this is what the neuroscience has shown.  
 **Translation:** 
 
-**[169.68s] English:** that part of your brain. So you were saying that there's some kind of interconnected aspect to it  
-**Translation:** Vocabulary: interconnected: 相互连接
-
-**[174.48s] English:** so the visual connects with the non-visual. Yeah so this is what the neuroscience has  
+**[179.34s] English:** Shown us that when you work on a math problem, there are five different brain pathways.  
 **Translation:** 
 
-**[179.34s] English:** shown us that when you work on a maths problem there are five different brain pathways  
+**[182.56s] English:** And that the most high-achieving people in the world are those who have more connections between  
 **Translation:** 
 
-**[182.56s] English:** and that the most high achieving people in the world are people who have more connections between  
+**[188.72s] English:** These pathways. So, if you see a math problem with numbers, but you also see it visually, that will  
 **Translation:** 
 
-**[188.72s] English:** these pathways. So if you see a maths problem with numbers but you also see it visually that will  
+**[196.16s] English:** Cause a connection to happen in your brain between these pathways, and if you maybe write about it.  
 **Translation:** 
 
-**[196.16s] English:** cause a connection to happen in your brain between these pathways and if you maybe write about it  
+**[201.40s] English:** With words, that might cause another connection, or maybe you build it with something physical that  
 **Translation:** 
 
-**[201.40s] English:** with words that would cause another connection or maybe you build it with something physical that  
+**[209.34s] English:** Would cause a connection to happen. So, what we want for kids is that we call it a multi-dimensional  
 **Translation:** 
 
-**[209.34s] English:** would cause a connection to happen. So what we want for kids is we call it a multi-dimensional  
+**[212.52s] English:** Experience of math. Seeing it in different ways, experiencing it in various ways that will cause  
 **Translation:** 
 
-**[212.52s] English:** experience of maths. Seeing it in different ways, experiencing it in different ways that will cause  
+**[218.44s] English:** That great connected brain. You know, there are these stories of physicists doing the same. I find,...  
 **Translation:** 
 
-**[218.44s] English:** that great connected brain. You know there's these stories of physicists doing the same. I find  
-**Translation:** 
-
-**[223.60s] English:** physicists are often better at building that part of their brain of using visualization for intuition  
+**[223.60s] English:** Physicists are often better at building that part of their brain for using visualization for intuition.  
 **Translation:** Vocabulary: intuition: 直觉; physicists: 物理学家; visualization: 可视化
 
-**[229.64s] English:** building because you ultimately want to understand the like the deepest secret underneath this  
+**[229.64s] English:** Building because you ultimately want to understand, like, the deepest secret underneath this.  
 **Translation:** 
 
-**[236.52s] English:** problem and for that you have to intuit your way there.  
-**Translation:** 
+**[236.52s] English:** The problem, and for that, you have to intuit your way there.  
+**Translation:** Vocabulary: intuit: 直觉; underneath: 在...下面
 
 **[239.34s] English:** Yeah.  
 **Translation:** 
@@ -157,7 +158,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[240.00s] English:** You mentioned offline that one of the ways you might approach a problem is to try to tell a story about it.  
 **Translation:** 
 
-**[245.52s] English:** And some of it is like legend, but I'm sure it's not always.  
+**[245.52s] English:** And some of it is like legend, but I'm sure it's not always true.  
 **Translation:** 
 
 **[250.60s] English:** You have Einstein thinking about a train and the speed of light.  
@@ -172,7 +173,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[263.04s] English:** How does this idea manifest itself in the physical world?  
 **Translation:** 
 
-**[266.16s] English:** And then start playing in your mind with that physical world and think, is this going to be true?  
+**[266.16s] English:** And then start playing in your mind with that physical world and think: Is this going to be true?  
 **Translation:** Vocabulary: manifest: 显现
 
 **[270.24s] English:** Is this going to be true?  
@@ -185,25 +186,25 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[275.98s] English:** And people talk about how he really didn't want to go anywhere with problems without thinking about them visually.  
-**Translation:** 
+**Translation:** Vocabulary: visually: 通过视觉
 
 **[283.20s] English:** But the other thing you mentioned that sparked something for me is thinking with intuition, like having intuition about math problems.  
 **Translation:** 
 
-**[291.26s] English:** That's another thing that's often absent in math class, the idea that you might think about a problem.  
-**Translation:** 
+**[291.26s] English:** That's another thing that's often absent in math class: the idea that you might think about a problem.  
+**Translation:** Vocabulary: sparked: 激发思考
 
 **[295.70s] English:** And.  
 **Translation:** 
 
-**[296.16s] English:** Use your intuition, but so important.  
+**[296.16s] English:** Use your intuition, but it's so important.  
 **Translation:** 
 
-**[300.88s] English:** And when mathematicians are interviewed, they will very frequently talk about the role of intuition in solving problems, but not commonly acknowledged or brought into education.  
+**[300.88s] English:** And when mathematicians are interviewed, they will very frequently talk about the role of intuition in solving problems, but this is not commonly acknowledged or brought into education.  
 **Translation:** 
 
 **[313.00s] English:** Yeah.  
-**Translation:** 
+**Translation:** Vocabulary: intuition: 直觉; mathematicians: 数学家
 
 **[313.58s] English:** I mean, that's what it is.  
 **Translation:** 
@@ -214,20 +215,20 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[324.04s] English:** Like, what is the pattern?  
 **Translation:** 
 
-**[326.16s] English:** I'm seeing in order to understand the pattern, you might want to then start utilizing visualization.  
-**Translation:** Vocabulary: utilizing: 使用
+**[326.16s] English:** I'm seeing that, in order to understand the pattern, you might want to then start utilizing visualization.  
+**Translation:** Vocabulary: utilizing: 使用; visualization: 可视化
 
-**[331.32s] English:** But ultimately, that's all in service of like solving the puzzle, like cracking it open.  
+**[331.32s] English:** But ultimately, that's all in service of solving the puzzle, like cracking it open.  
 **Translation:** 
 
 **[338.60s] English:** Yeah.  
 **Translation:** Vocabulary: cracking: 破解
 
-**[338.82s] English:** Get the simple explanation of why, why things are the way they are, as opposed to, like you said, having a particular algorithm that you can then execute to solve the problem.  
+**[338.82s] English:** Get the simple explanation of why things are the way they are, as opposed to, like you said, having a particular algorithm that you can then execute to solve the problem.  
 **Translation:** 
 
 **[349.74s] English:** Yeah.  
-**Translation:** Vocabulary: algorithm: 算法
+**Translation:** Vocabulary: algorithm: 算法; execute: 执行
 
 **[350.24s] English:** But it's hard.  
 **Translation:** 
@@ -241,89 +242,89 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[351.92s] English:** Reasoning is really hard.  
 **Translation:** 
 
-**[353.54s] English:** Yeah, it's it's hard.  
+**[353.54s] English:** Yeah, it's hard.  
 **Translation:** 
 
 **[354.76s] English:** I mean.  
 **Translation:** 
 
-**[355.40s] English:** I love to value what's hard in maths instead of being afraid.  
+**[355.40s] English:** I love to value what's hard in math instead of being afraid.  
 **Translation:** 
 
-**[360.00s] English:** of it we know that when you struggle that's actually a really good time for your brain  
+**[360.00s] English:** Of it, we know that when you struggle, that's actually a really good time for your brain.  
 **Translation:** 
 
-**[364.00s] English:** you want to be struggling when you're thinking about things so if it's hard to think intuitively  
+**[364.00s] English:** You want to be struggling when you're thinking about things, so if it's hard to think intuitively,...  
 **Translation:** 
 
-**[369.34s] English:** about something that's probably a really good time for your brain I used to work with somebody  
+**[369.34s] English:** About something that's probably a really good time for your brain, I used to work with somebody.  
 **Translation:** Vocabulary: intuitively: 直觉地
 
-**[375.56s] English:** called Sebastian Thrun who is a great sort of mathematician you might think of him an AI person  
+**[375.56s] English:** Called Sebastian Thrun, who is a great mathematician—you might think of him as an AI person.  
 **Translation:** 
 
-**[381.02s] English:** and I remember in one interview I did with him he talked about how they'd built robots I think for  
+**[381.02s] English:** And I remember in one interview I did with him, he talked about how they'd built robots, I think.  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[386.12s] English:** the Smithsonian and how they were having this trouble with them picking up white noise and  
+**[386.12s] English:** The Smithsonian and how they were having this trouble with white noise being picked up.  
 **Translation:** 
 
-**[392.74s] English:** he said they had to solve it they had to work out what's going on and how he intuitively worked out  
-**Translation:** Vocabulary: smithsonian: 史密森学会
+**[392.74s] English:** He said they had to solve it, they had to work out what's going on, and how he intuitively worked it out.  
+**Translation:** Vocabulary: smithsonian: Smithsonian机构
 
-**[399.74s] English:** what the problem was but then it took him three weeks to show it mathematically I thought that  
+**[399.74s] English:** What the problem was, but then it took him three weeks to show it mathematically. I thought that  
 **Translation:** 
 
-**[406.00s] English:** was really interesting that how you can have this intuition and know something works it's kind of  
+**[406.00s] English:** It was really interesting that how you can have this intuition and know something works; it's kind of  
 **Translation:** Vocabulary: intuition: 直觉; mathematically: 用数学方式
 
-**[412.46s] English:** different from going through that long mathematical process of  
+**[412.46s] English:** Different from going through that long mathematical process of  
 **Translation:** 
 
-**[415.52s] English:** proving  
+**[415.52s] English:** Proving  
+**Translation:** Vocabulary: mathematical: 数学的
+
+**[416.10s] English:** It's but so important, yeah. I think our brains are probably evolved as intuition machines.  
 **Translation:** 
 
-**[416.10s] English:** it but so important yeah I think probably our brains are evolved as like intuition machines  
+**[423.32s] English:** And the math of showing it formally is probably an extra thing that we're not designed for.  
+**Translation:** Vocabulary: evolved: 进化
+
+**[431.48s] English:** For, you see, that with Feynman and his—I mean, it's just all of these physicists; definitely, you see.  
 **Translation:** 
 
-**[423.32s] English:** and the the math of like showing it like formally is probably an extra thing that we're not designed  
-**Translation:** 
-
-**[431.48s] English:** for you see that with Feynman and his I mean it just all of these physicists definitely you see  
-**Translation:** 
-
-**[437.90s] English:** um starting with intuition sometimes starting with an experiment and then the experiment  
+**[437.90s] English:** Um, starting with intuition, sometimes starting with an experiment, and then the experiment...  
 **Translation:** Vocabulary: feynman: 费曼; physicists: 物理学家
 
-**[445.50s] English:** experiment  
+**[445.50s] English:** Experiment.  
 **Translation:** 
 
-**[446.10s] English:** inspires intuition but you can think of an experiment as a kind of visualization  
-**Translation:** Vocabulary: inspires: 启发; visualization: 可视化
+**[446.10s] English:** Inspires intuition, but you can think of an experiment as a kind of visualization.  
+**Translation:** Vocabulary: inspires: 启发; visualization: 图像化
 
-**[450.40s] English:** right just like let's let's take whatever the heck we're looking at and draw it and and draw  
+**[450.40s] English:** Right, just like let's take whatever the heck we're looking at and draw it and draw.  
 **Translation:** 
 
-**[456.66s] English:** like uh the pattern as it evolves as the thing grows for n equals one for n equals two n equals  
+**[456.66s] English:** Like, uh, the pattern as it evolves as the thing grows for n equals one, for n equals two, n equals...  
+**Translation:** Vocabulary: equals: 等于; evolves: 演变
+
+**[462.36s] English:** Three, you start to play with it, and then in the modern day, which I loved, was doing that.  
 **Translation:** 
 
-**[462.36s] English:** three you start uh to play with it and then in the modern day which I loved uh doing is you know  
-**Translation:** 
-
-**[469.42s] English:** you can write a program that then visualizes it for you right and then you can start exploring it  
+**[469.42s] English:** You can write a program that then visualizes it for you, right? And then you can start exploring it.  
 **Translation:** Vocabulary: visualizes: 转化为图像
 
-**[474.04s] English:** programmatically and that that you can start exploring it programmatically and then you can  
+**[474.04s] English:** Programmatically, and you can start exploring it programmatically, and then you can  
 **Translation:** 
 
-**[476.10s] English:** and then uh you can do so interactively too  
+**[476.10s] English:** And then, you can do it interactively too.  
 **Translation:** 
 
-**[480.00s] English:** I tend to not like interactive because it takes way too much work.  
+**[480.00s] English:** I tend not to like interactive because it takes way too much work.  
 **Translation:** 
 
-**[485.74s] English:** You have to click and move and stuff.  
-**Translation:** Vocabulary: interactive: 交互式
+**[485.74s] English:** You have to click, and move, and stuff.  
+**Translation:** Vocabulary: interactive: 交互的
 
 **[487.18s] English:** I love to interact through writing programs.  
 **Translation:** 
@@ -331,10 +332,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[489.74s] English:** That's my particular brain, software engineer.  
 **Translation:** 
 
-**[492.70s] English:** So you can do all these kinds of visualizations.  
+**[492.70s] English:** So, you can do all these kinds of visualizations.  
 **Translation:** 
 
-**[497.18s] English:** And then there's the tools of visualization like color, all those kinds of things.  
+**[497.18s] English:** And then there are the tools of visualization, like color, and all those kinds of things.  
 **Translation:** Vocabulary: visualizations: 可视化
 
 **[503.02s] English:** You're absolutely right.  
@@ -352,124 +353,124 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[508.90s] English:** Not taught.  
 **Translation:** 
 
-**[510.00s] English:** And we love as well color coding.  
+**[510.00s] English:** And we also love color-coding.  
 **Translation:** 
 
-**[513.64s] English:** Like when you represent something mathematically, you can show color to show the growth and kind of code that.  
+**[513.64s] English:** Like when you represent something mathematically, you can show color to indicate growth and kind of code that.  
 **Translation:** 
 
-**[521.16s] English:** So if I have an algebraic expression for a pattern, maybe I show the X with a certain color, but also write in that color so you can see the relationship.  
+**[521.16s] English:** So, if I have an algebraic expression for a pattern, maybe I show the x with a certain color, but also write in that color so you can see the relationship.  
 **Translation:** Vocabulary: algebraic: 代数的
 
 **[531.20s] English:** Very cool.  
 **Translation:** 
 
 **[531.94s] English:** And, yeah, particularly in our work with elementary teachers, many of them come to our workshops and they're literally inundated.  
-**Translation:** Vocabulary: inundated: 淹没
+**Translation:** 
 
-**[540.00s] English:** And they're literally in tears when they see things making sense visually because they've spent their whole lives not realizing you can really understand things with these visuals.  
+**[540.00s] English:** And they're literally in tears when they see things making sense visually, because they've spent their whole lives not realizing you can really understand things with these visuals.  
 **Translation:** 
 
 **[550.58s] English:** It's quite powerful.  
+**Translation:** Vocabulary: visually: 通过视觉; visuals: 视觉内容
+
+**[552.80s] English:** You say that there's something valuable to learning when the thing you're doing is challenging and difficult.  
 **Translation:** 
 
-**[552.80s] English:** You say that there's something valuable to learning when the thing that you're doing is challenging, is difficult.  
-**Translation:** 
-
-**[561.58s] English:** So a lot of people say math is hard or math is too hard or too hard for me.  
+**[561.58s] English:** So, a lot of people say that math is hard, or too hard, or just too hard for them.  
 **Translation:** 
 
 **[567.22s] English:** Do you think math should be?  
 **Translation:** 
 
-**[570.00s] English:** Easy or should it be hard?  
+**[570.00s] English:** Easy, or should it be hard?  
 **Translation:** 
 
-**[573.38s] English:** I think it's great when things are challenging, but there's something that that's really key to being able to deal with challenging maths, and that is knowing that you can do it.  
+**[573.38s] English:** I think it's great when things are challenging, but there's something really key to being able to deal with challenging math, and that is knowing that you can do it.  
 **Translation:** 
 
-**[586.72s] English:** And I think the problem in education is a lot of people have got this idea that you're either born with a math brain or you're not.  
+**[586.72s] English:** And I think the problem in education is that a lot of people have got this idea that you're either born with a math brain, or you're not.  
 **Translation:** 
 
-**[593.94s] English:** So when they start to struggle, they think, oh, I don't have that math brain.  
+**[593.94s] English:** So, when they start to struggle, they think, "Oh, I don't have that math brain.  
 **Translation:** 
 
 **[598.34s] English:** And then they were literally.  
 **Translation:** 
 
-**[600.00s] English:** sort of switch off in their brain and things will go downhill from that point so struggle becomes a  
+**[600.00s] English:** Sort of switch off in their brain, and things will go downhill from that point. So, struggle becomes a  
 **Translation:** 
 
-**[605.16s] English:** lot easier and you're able to struggle if you don't have that idea but you know that you you  
+**[605.16s] English:** It's a lot easier, and you're able to struggle if you don't have that idea, but you know that you can.  
 **Translation:** Vocabulary: downhill: 恶化
 
-**[612.60s] English:** can do it you have to go through this struggle to get there but you're you're able to do that  
+**[612.60s] English:** Can do it; you have to go through this struggle to get there, but you're able to do that.  
 **Translation:** 
 
-**[617.92s] English:** and so we're hampered in being able to struggle with these ideas we've been given about what we  
+**[617.92s] English:** And so, we are hampered in being able to struggle with these ideas we've been given about what we  
 **Translation:** Vocabulary: hampered: 阻碍
 
-**[624.16s] English:** can do ask a difficult question here yeah so there's kind of um i don't know what the right  
+**[624.16s] English:** Can we do something here, like ask a difficult question? Yeah, so there's kind of this thing I don't know what the right  
 **Translation:** 
 
-**[631.04s] English:** term is but some people are um struggle with learning in different ways like their brain is  
+**[631.04s] English:** The term is, but some people struggle with learning in different ways, like how their brain processes information.  
 **Translation:** 
 
-**[639.76s] English:** constructed in different ways and um how much should as educators should we make room for that  
+**[639.76s] English:** Constructed in different ways, and how much should educators make room for that?  
 **Translation:** 
 
-**[648.54s] English:** so how do you know the difference between this is hard and i don't like doing hard things  
+**[648.54s] English:** So, how do you know the difference between "this is hard" and "I don't like doing hard things"?  
 **Translation:** 
 
-**[654.16s] English:** versus my brain is wired in a way where i need to learn in very different ways i can't learn it  
+**[654.16s] English:** Versus, my brain is wired in a way where I need to learn in very different ways; I can't learn it.  
 **Translation:** 
 
-**[659.78s] English:** this way how do you find that line how do you operate in that gray area so this is why being  
+**[659.78s] English:** This way, how do you find that line? How do you operate in that gray area? So, this is why being  
 **Translation:** 
 
-**[665.80s] English:** a teacher is so hard and people really don't appreciate how difficult teaching is when you're  
+**[665.80s] English:** A teacher is so hard, and people really don't appreciate how difficult teaching is when you're  
 **Translation:** 
 
-**[671.54s] English:** faced with i know 30 students who think in different ways and um but this is also why i  
+**[671.54s] English:** Faced with 30 students who think in different ways, and um, but this is also why I  
 **Translation:** 
 
-**[678.22s] English:** believe it's so important to have this multi-dimensional approach to maths we've really  
+**[678.22s] English:** Believe it's so important to have this multi-dimensional approach to math; we've really  
 **Translation:** 
 
-**[682.46s] English:** offered it in one way  
+**[682.46s] English:** Offered it in one way.  
 **Translation:** 
 
-**[684.16s] English:** which is here's some numbers in a method you follow me do what i just did and then reproduce it  
+**[684.16s] English:** Which is: here's some numbers. In a method, you follow me; do what I just did, and then reproduce it.  
 **Translation:** 
 
-**[690.54s] English:** and so there are some kids who like doing that and they do well and a lot of kids who don't like  
+**[690.54s] English:** And so, there are some kids who like doing that and they do well, and a lot of kids who don't like it.  
+**Translation:** Vocabulary: reproduce: 复制
+
+**[697.02s] English:** Doing it and don't do well, but when you open up math and you give kids an opportunity to experience it,  
 **Translation:** 
 
-**[697.02s] English:** doing it and don't do well but when you open up maths and you give you let kids experience it in  
+**[704.06s] English:** Different ways, maybe visually, with numbers, with words: what happens is, there are many more.  
+**Translation:** Vocabulary: visually: 通过视觉
+
+**[710.62s] English:** Kids who can access it, so those different  
 **Translation:** 
 
-**[704.06s] English:** different ways maybe visually with numbers with words what happens is kids there are many more  
+**[713.46s] English:** Brain wiring, you're talking about where some people are just more able to do something in a  
+**Translation:** Vocabulary: wiring: 神经连接
+
+**[719.00s] English:** Particular way  
 **Translation:** 
 
-**[710.62s] English:** kids who can access it so those different  
+**[720.00s] English:** That's why we want to do it; that's one of the reasons we want to open it up, so that there are different ways of accessing it.  
+**Translation:** Vocabulary: accessing: 使用方式
+
+**[728.04s] English:** And then, that's not really a problem.  
 **Translation:** 
 
-**[713.46s] English:** brain wirings you're talking about where some people are just more able to do something in a  
+**[730.96s] English:** So, I grew up in the Soviet Union and fell in love with math early.  
 **Translation:** 
 
-**[719.00s] English:** particular way  
-**Translation:** 
-
-**[720.00s] English:** That's why we want to, that's one of the reasons we want to open it up, so that there are different ways of accessing it.  
-**Translation:** Vocabulary: accessing: 访问方式
-
-**[728.04s] English:** And then that's not really a problem.  
-**Translation:** 
-
-**[730.96s] English:** So I grew up in the Soviet Union and fell in love with math early.  
-**Translation:** 
-
-**[737.34s] English:** I was forced into math early and fell in love through force.  
+**[737.34s] English:** I was forced into math early, and fell in love with it despite the force.  
 **Translation:** 
 
 **[742.28s] English:** That's good.  
@@ -478,16 +479,16 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[743.00s] English:** Well, good that you fell in love.  
 **Translation:** 
 
-**[744.36s] English:** Well, but there's something we talked about a little bit, is there's such a value for excellence.  
+**[744.36s] English:** Well, but there's something we talked about a little bit: there's such a value for excellence.  
 **Translation:** 
 
-**[753.12s] English:** It's competitive, and it's also everybody kind of looks up.  
+**[753.12s] English:** It's competitive, and it's also something that everybody kind of looks up to.  
 **Translation:** 
 
-**[758.00s] English:** The definition of success is being, in a particular class, is being really good at it.  
+**[758.00s] English:** The definition of success is being really good at it, in a particular class.  
 **Translation:** 
 
-**[767.56s] English:** And it's not improving, it's being really good.  
+**[767.56s] English:** And it's not improving; it's been really good.  
 **Translation:** 
 
 **[770.78s] English:** I mean, we are much more like that with sports, for example.  
@@ -496,10 +497,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[773.90s] English:** We're not.  
 **Translation:** 
 
-**[774.88s] English:** It's like it's understood, you know, you're going to start on the basketball team if you're going to be better than the other guys, the other girls on the team.  
+**[774.88s] English:** It's like it's understood: you know, you're going to start on the basketball team if you're going to be better than the other guys or the other girls on the team.  
 **Translation:** 
 
-**[787.44s] English:** So that coupled with the belief, this could be partially a communist belief, I don't know, but the belief that everybody is capable of being great.  
+**[787.44s] English:** So, that coupled with the belief—that this could be partially a communist belief, I don't know—but the belief that everybody is capable of being great.  
 **Translation:** 
 
 **[798.84s] English:** But if you're not great, that's your fault, and you need to work harder.  
@@ -508,16 +509,16 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[803.62s] English:** And I remember.  
 **Translation:** 
 
-**[804.58s] English:** I had a sense that, probably delusional, but I could win a Nobel Prize.  
+**[804.58s] English:** I had a sense, probably delusional, but I could win a Nobel Prize.  
 **Translation:** Vocabulary: delusional: 妄想的; nobel: 诺贝尔
 
 **[809.60s] English:** I don't even know what that entails.  
 **Translation:** 
 
-**[812.40s] English:** But I thought, like, my dad early on told me, just offhand, and it always stuck with me, that if you can figure out how to build a time machine, how to travel back in time, it will probably give you a Nobel Prize.  
-**Translation:** Vocabulary: entails: 包含
+**[812.40s] English:** But I thought, like, my dad early on told me, just offhand, and it always stuck with me: that if you could figure out how to build a time machine and travel back in time, it would probably give you a Nobel Prize.  
+**Translation:** Vocabulary: entails: 包括; offhand: 随口
 
-**[828.34s] English:** And I remember early in my life thinking, I'm going to invent the time machine.  
+**[828.34s] English:** And I remember early in my life thinking: I'm going to invent the time machine.  
 **Translation:** 
 
 **[832.40s] English:** And, like, the tools.  
@@ -532,7 +533,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[841.18s] English:** I didn't really think in those concrete terms, but I just thought I could be great at dealing.  
 **Translation:** 
 
-**[846.88s] English:** And then when you struggle, the belief that you could be great is like struggle is good.  
+**[846.88s] English:** And then, when you struggle, the belief that you could be great is like, "struggle is good.  
 **Translation:** 
 
 **[853.14s] English:** Right.  
@@ -544,10 +545,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[854.26s] English:** Yeah.  
 **Translation:** 
 
-**[854.38s] English:** And so the other thing about the Soviet system that I'd love to hear your comments about is just the sheer hours of math.  
+**[854.38s] English:** And so, the other thing about the Soviet system that I'd love to hear your comments about is just the sheer hours of math.  
 **Translation:** 
 
-**[863.98s] English:** The number of courses, you're talking about a lot of geometry, a lot more geometry.  
+**[863.98s] English:** The number of courses—you're talking about a lot of geometry, a lot more geometry.  
 **Translation:** 
 
 **[869.06s] English:** Now, I think in the American system, you take maybe one year of geometry.  
@@ -568,22 +569,22 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[877.58s] English:** And then you get to reason through proofs and stuff like that.  
 **Translation:** 
 
-**[879.80s] English:** In Russia, I remember just being nailed over and over with geometry.  
-**Translation:** 
+**[879.80s] English:** In Russia, I remember being nailed over and over with geometry.  
+**Translation:** Vocabulary: proofs: 证明
 
 **[883.86s] English:** It was just nonstop.  
 **Translation:** 
 
-**[885.76s] English:** And then, of course, there's different perspectives on calculus and just the whole.  
+**[885.76s] English:** And then, of course, there are different perspectives on calculus and just the whole thing.  
 **Translation:** Vocabulary: calculus: 微积分; perspectives: 观点
 
-**[890.44s] English:** The sense was that math is like fundamental to the development of the human mind.  
+**[890.44s] English:** The sense was that math is fundamentally important to the development of the human mind.  
 **Translation:** 
 
 **[898.76s] English:** So.  
-**Translation:** 
+**Translation:** Vocabulary: fundamentally: 从根本上
 
-**[899.06s] English:** So math, but also science and literature, by the way, was also hit very hard.  
+**[899.06s] English:** So, math, but also science and literature, by the way, were also hit very hard.  
 **Translation:** 
 
 **[904.66s] English:** Like we read a lot of serious adult stuff.  
@@ -598,10 +599,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[915.66s] English:** With math.  
 **Translation:** 
 
-**[916.20s] English:** So those two things, valuing excellence and just a lot of math in the curriculum.  
-**Translation:** 
+**[916.20s] English:** So, those two things: valuing excellence, and just a lot of math in the curriculum.  
+**Translation:** Vocabulary: valuing: 重视
 
-**[923.72s] English:** Do you think, do you find that interesting?  
+**[923.72s] English:** Do you think that's interesting?  
 **Translation:** 
 
 **[926.86s] English:** Because it seems to have been successful.  
@@ -610,13 +611,13 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[928.46s] English:** Yeah, I think that's very interesting.  
 **Translation:** 
 
-**[930.26s] English:** And there is a lot of success of people coming through the Soviet system.  
+**[930.26s] English:** And there has been a lot of success for people coming through the Soviet system.  
 **Translation:** 
 
-**[934.04s] English:** I think something that's very different to the U.S. and other countries in the world is that idea that excellence is important and you can get there if you work hard.  
+**[934.04s] English:** I think something that's very different between the U.S. and other countries in the world is the idea that excellence is important, and you can get there if you work hard.  
 **Translation:** 
 
-**[944.80s] English:** In the U.S., there's an idea that excellence is important, but then kids are given the idea in many ways that you can either do it or you're one of the people who can't.  
+**[944.80s] English:** In the U.S., there's an idea that excellence is important, but then kids are given the idea in many ways that you can either do it, or you're one of the people who can't.  
 **Translation:** 
 
 **[956.26s] English:** So many students in the school system.  
@@ -625,217 +626,217 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[958.46s] English:** I think they're one of the kids who can't.  
 **Translation:** 
 
-**[960.00s] English:** there's no point in trying hard because you're never going to get there so if you can switch  
+**[960.00s] English:** There's no point in trying hard because you're never going to get there, so if you can switch.  
 **Translation:** 
 
-**[965.94s] English:** that idea it would be huge and it seems from what you've said that in the u.s in the soviet union  
+**[965.94s] English:** That idea would be huge, and it seems from what you've said that in the U.S. and in the Soviet Union,...  
 **Translation:** 
 
-**[973.90s] English:** that idea is really different now the downside of that idea that anybody can get there if you  
+**[973.90s] English:** That idea is really different now. The downside of that idea is that anybody can get there, if you  
 **Translation:** 
 
-**[980.00s] English:** work hard is that thought that if you're not getting there it's your fault and i i would add  
-**Translation:** Vocabulary: downside: 负面方面
+**[980.00s] English:** Work hard is that thought that if you're not getting there, it's your fault, and I would add:  
+**Translation:** Vocabulary: downside: 不利之处
 
-**[987.72s] English:** something into that i would say that anybody can get there but they need to work hard and they also  
+**[987.72s] English:** Something into that, I would say that anybody can get there, but they need to work hard and they also  
 **Translation:** 
 
-**[993.60s] English:** need good teaching because there are some people who really can't get there because they're not  
+**[993.60s] English:** Need good teaching because there are some people who really can't get there because they're not.  
 **Translation:** 
 
-**[998.48s] English:** given access to that good teaching so but that would be huge that change as to doing lots of  
+**[998.48s] English:** Given access to that good teaching, so but that would be huge that change as to doing lots of.  
 **Translation:** 
 
-**[1005.60s] English:** maths if um if maths was interesting and open and creative and multi-dimensional i would be  
+**[1005.60s] English:** Maths, if it was interesting and open and creative and multi-dimensional, I would be  
 **Translation:** 
 
-**[1012.44s] English:** all for it we we actually run summer camps at stanford where we invite kids in  
+**[1012.44s] English:** All for it, we actually run summer camps at Stanford where we invite kids in.  
 **Translation:** 
 
-**[1017.58s] English:** and  
+**[1017.58s] English:** And  
 **Translation:** Vocabulary: stanford: 斯坦福大学
 
-**[1017.72s] English:** we give them this maths that i love and the in our camp classrooms they were three hours long  
+**[1017.72s] English:** We give them this math that I love, and in our camp classrooms, they were three hours long.  
 **Translation:** 
 
-**[1024.40s] English:** and when we were planning the teachers were like three hours are we going to be able to keep the  
+**[1024.40s] English:** And when we were planning, the teachers were like, "Three hours—are we going to be able to keep the students' attention?  
 **Translation:** 
 
-**[1030.48s] English:** kids excited for three hours turned out they didn't want to go to break or lunch they'd be  
+**[1030.48s] English:** Kids were excited for three hours, but turned out they didn't want to go to break or lunch; they'd been  
 **Translation:** 
 
-**[1036.32s] English:** so into these mathematical patterns we couldn't stop them it was amazing so yeah if maths was  
-**Translation:** Vocabulary: mathematical: 数学的
-
-**[1044.00s] English:** more like that then i think having more of it  
+**[1036.32s] English:** So, we couldn't stop them; it was amazing. So, yeah, if math was  
 **Translation:** 
 
-**[1047.72s] English:** would be a really good thing so what uh what age are you talking about is there um  
+**[1044.00s] English:** More like that, then I think having more of it.  
 **Translation:** 
 
-**[1051.64s] English:** could you comment on what age is like the most important when people quit math or give up  
+**[1047.72s] English:** Would be a really good thing. So, what age are you talking about? Is there anything else you need to know?  
 **Translation:** 
 
-**[1059.72s] English:** on themselves or on math in general and uh perhaps that age or something earlier is really  
+**[1051.64s] English:** Could you comment on what age is most important when people quit math or give up?  
 **Translation:** 
 
-**[1065.88s] English:** an important moment for them to discover to be inspired to discover the magic of math  
+**[1059.72s] English:** On themselves or on math in general, and perhaps that age or something earlier is really.  
 **Translation:** 
 
-**[1071.08s] English:** i think a lot of kids start to give up on themselves and maths around from  
+**[1065.88s] English:** An important moment for them to discover, to be inspired, to discover the magic of math.  
 **Translation:** 
 
-**[1077.72s] English:** about fifth grade and then those middle  
+**[1071.08s] English:** I think a lot of kids start to give up on themselves and math around middle school.  
 **Translation:** 
 
-**[1080.00s] English:** school years are really important and fifth grade can be pivotal for kids just because  
-**Translation:** Vocabulary: pivotal: 决定性的
-
-**[1085.22s] English:** they're allowed to explore and think in good ways in the early grades of elementary school but fifth  
+**[1077.72s] English:** About fifth grade, and then those middle  
 **Translation:** 
 
-**[1092.62s] English:** grade teachers are often like okay we're going to prepare you now for middle school and we're  
+**[1080.00s] English:** School years are really important, and fifth grade can be pivotal for kids just because  
+**Translation:** Vocabulary: pivotal: 关键的
+
+**[1085.22s] English:** They're allowed to explore and think in good ways in the early grades of elementary school, but fifth grade...  
 **Translation:** 
 
-**[1096.24s] English:** going to give you grades and lots of tests and that's when kids start to feel really badly about  
+**[1092.62s] English:** Grade teachers are often like, "Okay, we're going to prepare you now for middle school," and we're  
 **Translation:** 
 
-**[1101.88s] English:** themselves and so middle school years we our camps are middle school students we think of those years  
+**[1096.24s] English:** Going to give you grades and lots of tests, and that's when kids start to feel really badly about it.  
 **Translation:** 
 
-**[1107.98s] English:** as really pivotal many kids in in those years are deciding yes i'm going to keep going with  
+**[1101.88s] English:** Themselves and so, during the middle school years, our camps are designed for middle school students, and we think of those years.  
 **Translation:** 
 
-**[1113.96s] English:** stem subjects or no i'm not that this isn't for me so i mean all years are important and in all  
+**[1107.98s] English:** As it's really pivotal, many kids in those years are deciding, "Yes, I'm going to keep going with.  
 **Translation:** 
 
-**[1121.52s] English:** years you can kind of switch kids and get them on a different pathway but i think those middle  
+**[1113.96s] English:** Stem subjects, or no? I'm not that interested; this isn't for me, so I mean, all years are important, and in all.  
 **Translation:** 
 
-**[1126.54s] English:** school years are really important so what's the role of the teacher in this so one is the  
-**Translation:** Vocabulary: pathway: 发展路径
-
-**[1131.82s] English:** explanation of the subject but do you think teachers should almost do like one-on-one  
+**[1121.52s] English:** Years, you can kind of switch kids and get them on a different pathway, but I think those middle  
 **Translation:** 
 
-**[1137.26s] English:** teaching  
+**[1126.54s] English:** School years are really important, so what's the role of the teacher in this? One is the  
+**Translation:** Vocabulary: pathway: 路径
+
+**[1131.82s] English:** Explanation of the subject, but do you think teachers should almost do like one-on-one?  
 **Translation:** 
 
-**[1137.98s] English:** you know little johnny i believe in you kind of thing like that that energy of like turns out it's  
+**[1137.26s] English:** Teaching  
 **Translation:** 
 
-**[1144.64s] English:** really important there's um a study that was done it was actually done in high school english  
+**[1137.98s] English:** You know, Little Johnny, I believe in you — kind of thing like that. That energy really turns out to be  
 **Translation:** 
 
-**[1149.02s] English:** classrooms where all kids wrote an essay for their teacher and this was done as an experiment  
+**[1144.64s] English:** Really important: there's a study that was done, and it was actually conducted in high school English.  
+**Translation:** Vocabulary: johnny: 小约翰尼
+
+**[1149.02s] English:** Classrooms, where all kids wrote an essay for their teacher, and this was done as an experiment.  
 **Translation:** 
 
-**[1155.46s] English:** half of the kids got feedback from their teacher diagnostic feedback which is great but for half  
-**Translation:** Vocabulary: diagnostic: 诊断性反馈
+**[1155.46s] English:** Half of the kids got feedback from their teacher, diagnostic feedback, which is great, but for half...  
+**Translation:** Vocabulary: diagnostic: 诊断性的
 
-**[1161.60s] English:** of the kids it said an extra sentence at the bottom that the researchers had put on and the  
+**[1161.60s] English:** Of the kids, it said an extra sentence at the bottom that the researchers had put on, and  
 **Translation:** 
 
-**[1167.02s] English:** kids who  
+**[1167.02s] English:** Kids who  
 **Translation:** 
 
-**[1167.98s] English:** read that extra sentence did significantly better in english a whole year later the only change  
+**[1167.98s] English:** Read that extra sentence, and they did significantly better in English a whole year later. The only change was...  
 **Translation:** 
 
-**[1174.62s] English:** was this one sentence what did the sentence so what did the sentence say the sentence said i'm  
+**[1174.62s] English:** Was this one sentence? What did the sentence say? The sentence said, "I'm.  
 **Translation:** 
 
-**[1181.66s] English:** giving you this feedback because i believe in you and the kids who read that did better a year later  
+**[1181.66s] English:** Giving you this feedback because I believe in you, and the kids who read that did better a year later.  
 **Translation:** 
 
-**[1188.10s] English:** yeah so when i share this with teachers i say you know i'm not suggesting you put on the bottom of  
+**[1188.10s] English:** Yeah, so when I share this with teachers, I say, you know, I'm not suggesting you put it on the bottom of  
 **Translation:** 
 
-**[1194.82s] English:** all kids work i'm giving this feedback because i believe in you  
+**[1194.82s] English:** All kids work: I'm giving this feedback because I believe in you.  
 **Translation:** 
 
-**[1197.98s] English:** one of the teachers said to me we don't put it  
+**[1197.98s] English:** One of the teachers said to me, "We don't put it.  
 **Translation:** 
 
-**[1200.00s] English:** a stamp i said no don't put it on a stamp it's um but your words are really important and kids  
+**[1200.00s] English:** A stamp? I said, "No, don't put it on a stamp." It's... um. But your words are really important, and kids.  
 **Translation:** 
 
-**[1209.10s] English:** are sitting in classrooms all the time thinking what does my teacher think of me does my teacher  
+**[1209.10s] English:** Are we sitting in classrooms all the time, thinking, "What does my teacher think of me? Does my teacher...  
 **Translation:** 
 
-**[1214.46s] English:** think i can do this um so it turns out it is really important to be saying to kids i know you  
+**[1214.46s] English:** Think I can do this, um, so it turns out it is really important to be saying to kids, "I know you.  
 **Translation:** 
 
-**[1221.00s] English:** can do this and those messages are not given enough by teachers and really believe it and  
+**[1221.00s] English:** Can we do this? And those messages are not given enough by teachers, and I really believe it.  
 **Translation:** 
 
-**[1229.20s] English:** believe it yeah it's like i can't just say it you have to believe it i i sometimes because like  
+**[1229.20s] English:** Believe it, yeah. It's like I can't just say it; you have to believe it. I sometimes...  
 **Translation:** 
 
-**[1234.24s] English:** it's such a funny dance because i'm such a perfectionist i'm extremely self-critical and  
+**[1234.24s] English:** It's such a funny dance because I'm such a perfectionist, I'm extremely self-critical, and  
 **Translation:** 
 
-**[1241.46s] English:** i have one of the students come up to me and it's clear to me that they're  
+**[1241.46s] English:** I have one of the students come up to me, and it's clear to me that they're  
 **Translation:** 
 
-**[1245.54s] English:** not even close to good and it's tempting for me to be like uh to sort of give up on them mentally  
+**[1245.54s] English:** Not even close to good, and it's tempting for me to be like, uh, to sort of give up on them mentally.  
+**Translation:** Vocabulary: tempting: 诱人放弃
+
+**[1253.72s] English:** But the reality is, if you look at many great people throughout history,...  
 **Translation:** 
 
-**[1253.72s] English:** but the reality is like if you look at many great people throughout history  
+**[1258.32s] English:** They  
 **Translation:** 
 
-**[1258.32s] English:** they  
+**[1259.20s] English:** Sucked at some point, yeah? Exactly, and some of the greatest took non-linear paths to where they are now.  
 **Translation:** 
 
-**[1259.20s] English:** sucked at some point yeah exactly and some of the greatest took non-linear paths to where they  
+**[1264.88s] English:** Sucked me in for a long time into later life, and so I always kind of believed that this person...  
+**Translation:** Vocabulary: sucked: 吸引
+
+**[1271.22s] English:** Can be great, exactly. That you have to communicate that, plus the fact that they have to work hard.  
 **Translation:** 
 
-**[1264.88s] English:** sucked for long into into later life and so always kind of believing that this person  
+**[1277.46s] English:** That's it, yeah, yeah, and you're right; Silicon Valley, where I live, is filled with people who  
 **Translation:** 
 
-**[1271.22s] English:** can be great exactly that you have to communicate that plus the fact that they have to work hard  
+**[1282.88s] English:** Are dropouts at school, or who had special needs and didn't succeed, um, it's  
 **Translation:** 
 
-**[1277.46s] English:** that's it yeah yeah and you're right silicon valley where i live is filled with people who  
-**Translation:** 
-
-**[1282.88s] English:** are dropouts at school or who had special needs who didn't succeed um it's  
-**Translation:** 
-
-**[1289.20s] English:** very interesting that have gone on to do amazing work in creative ways i mean i do think our school  
+**[1289.20s] English:** Very interesting that they have gone on to do amazing work in creative ways. I do think our school  
 **Translation:** Vocabulary: dropouts: 辍学生
 
-**[1295.46s] English:** system is set up to um value good memorizers who can reproduce what a teacher is showing them  
+**[1295.46s] English:** The system is set up to value good memorizers who can reproduce what a teacher is showing them.  
 **Translation:** 
 
-**[1304.12s] English:** and push away those creative deep thinkers often slower thinkers they think slowly and deeply  
-**Translation:** Vocabulary: memorizers: 记忆者; thinkers: 思考者
+**[1304.12s] English:** And push away those creative, deep thinkers—often slower thinkers who think slowly and deeply.  
+**Translation:** Vocabulary: memorizers: 记忆者; reproduce: 复现; thinkers: 思考者
 
-**[1312.90s] English:** and they often get the idea early on that they can't be good at maths or other subjects  
+**[1312.90s] English:** And they often get the idea early on that they can't be good at math or other subjects.  
 **Translation:** 
 
-**[1319.20s] English:** so  
+**[1319.20s] English:** So,  
 **Translation:** 
 
-**[1320.00s] English:** Yeah, I think many of those people are the ones who go on and do amazing things.  
+**[1320.00s] English:** Yeah, I think many of those people are the ones who go on to do amazing things.  
 **Translation:** 
 
-**[1325.24s] English:** So there's a guy named Eric Weinstein.  
+**[1325.24s] English:** So, there's a guy named Eric Weinstein.  
 **Translation:** Vocabulary: weinstein: 卫斯延
 
-**[1328.20s] English:** I know many mathematicians like this, but he talks a lot about having a nonstandard way of learning.  
+**[1328.20s] English:** I know many mathematicians like this, but he talks a lot about having a non-standard way of learning.  
 **Translation:** 
 
-**[1337.74s] English:** I mean, a lot of great mathematicians, a lot of great physicists are like that.  
-**Translation:** Vocabulary: mathematicians: 数学家; nonstandard: 非标准; physicists: 物理学家
+**[1337.74s] English:** I mean, a lot of great mathematicians and physicists are like that.  
+**Translation:** Vocabulary: mathematicians: 数学家; physicists: 物理学家
 
-**[1342.16s] English:** And he felt like he became quickly, he got his PhD at Harvard, became quickly an outcast of the system.  
+**[1342.16s] English:** And he felt like he became quickly an outcast of the system after getting his PhD at Harvard.  
 **Translation:** 
 
-**[1348.50s] English:** The education, especially early education system, didn't help him.  
-**Translation:** 
+**[1348.50s] English:** The education, especially early education, didn't help him.  
+**Translation:** Vocabulary: outcast: 被排斥的人
 
-**[1354.56s] English:** Is there ways for an education system to support people like that?  
+**[1354.56s] English:** Is there any way for an education system to support people like that?  
 **Translation:** 
 
 **[1360.38s] English:** Is it this kind of multidimensional learning that you're mentioning?  
@@ -844,20 +845,20 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1363.10s] English:** Yeah, absolutely.  
 **Translation:** 
 
-**[1364.20s] English:** I mean, I think our education system still uses an approach that was in classrooms hundreds of years ago.  
+**[1364.20s] English:** I mean, I think our education system still uses an approach that was common in classrooms hundreds of years ago.  
 **Translation:** 
 
 **[1370.38s] English:** The textbooks have a lot to answer for in producing this very uninspiring mathematics.  
 **Translation:** 
 
-**[1376.86s] English:** But yeah, if you open up the subject and have people see and solve it in different ways and value those different ways.  
-**Translation:** Vocabulary: uninspiring: 缺乏吸引力
+**[1376.86s] English:** But, yeah, if you open up the subject and have people see and solve it in different ways, and value those different approaches.  
+**Translation:** Vocabulary: approaches: 方法; uninspiring: 缺乏吸引力
 
-**[1385.32s] English:** Somebody I appreciated a lot is a mathematician called Maryam Mizikhani.  
+**[1385.32s] English:** Somebody I appreciated a lot is a mathematician called Maryam Mirzakhani.  
 **Translation:** 
 
 **[1389.74s] English:** I don't know if you've heard of her.  
-**Translation:** Vocabulary: mathematician: 数学家; mizikhani: 米扎基尼
+**Translation:** Vocabulary: mathematician: 数学家; mirzakhani: 米兹哈尼
 
 **[1390.68s] English:** She won the Fields Medal.  
 **Translation:** 
@@ -881,7 +882,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[1407.00s] English:** Her daughter thought she was an artist because she was always visualizing.  
-**Translation:** 
+**Translation:** Vocabulary: visualizing: 想象
 
 **[1410.92s] English:** And I attended.  
 **Translation:** 
@@ -889,10 +890,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1413.76s] English:** She asked me to chair the Ph.D. defense for one of her students.  
 **Translation:** 
 
-**[1417.54s] English:** And I went to the defense in the math department.  
+**[1417.54s] English:** And I went to the defense in the Math Department.  
 **Translation:** 
 
-**[1420.42s] English:** And it was so interesting because this young woman spent like two hours sharing her work.  
+**[1420.42s] English:** And it was so interesting because this young woman spent about two hours sharing her work.  
 **Translation:** 
 
 **[1426.84s] English:** All of it was visual.  
@@ -904,20 +905,20 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1430.44s] English:** That's awesome.  
 **Translation:** 
 
-**[1430.96s] English:** And I remember that day thinking, wow, I could have brought her like 13 year old into this Ph.D.  
+**[1430.96s] English:** And I remember that day thinking, "Wow, I could have brought her 13-year-old into this Ph.D.  
 **Translation:** 
 
-**[1436.66s] English:** defense.  
+**[1436.66s] English:** Defense.  
 **Translation:** 
 
-**[1437.02s] English:** They would not recognize this as maths.  
+**[1437.02s] English:** They would not recognize this as math.  
 **Translation:** 
 
-**[1440.00s] English:** But when Maria Mizzucani won the Fields Medal, all these other mathematicians were saying that her work had connected all these previously unconnected areas of maths.  
+**[1440.00s] English:** But when Maria Mizzucani won the Fields Medal, all these other mathematicians were saying that her work had connected all these previously unconnected areas of math.  
 **Translation:** 
 
-**[1452.70s] English:** But she also shared that when she was in school, when she was about 13, she was told that she couldn't do maths.  
-**Translation:** Vocabulary: unconnected: 不相关
+**[1452.70s] English:** But she also shared that when she was in school and about 13, she was told that she couldn't do math.  
+**Translation:** Vocabulary: mathematicians: 数学家
 
 **[1461.04s] English:** She was told that by her teacher.  
 **Translation:** 
@@ -928,10 +929,10 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1464.04s] English:** In Iran, yeah.  
 **Translation:** 
 
-**[1466.08s] English:** So I love that.  
+**[1466.08s] English:** So, I love that.  
 **Translation:** 
 
-**[1467.00s] English:** To be told you can't be good at maths and then go on and win the Fields Medal is cool.  
+**[1467.00s] English:** To be told you can't be good at math, and then go on to win the Fields Medal, is cool.  
 **Translation:** 
 
 **[1473.98s] English:** I've been told by a lot of people in my life that I can't do something.  
@@ -940,7 +941,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1478.26s] English:** I'm very definitely non-standard.  
 **Translation:** 
 
-**[1480.72s] English:** But all it takes, that's why people talk about the one teacher that changed everything for them.  
+**[1480.72s] English:** But all it takes is that, which is why people talk about the one teacher who changed everything for them.  
 **Translation:** 
 
 **[1486.74s] English:** All it takes is one teacher.  
@@ -952,16 +953,16 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1488.88s] English:** That's the power of that.  
 **Translation:** 
 
-**[1492.70s] English:** So that should be inspiring to teachers.  
+**[1492.70s] English:** So, that should be inspiring to teachers.  
 **Translation:** 
 
 **[1495.46s] English:** I think it is.  
 **Translation:** 
 
-**[1497.00s] English:** You as a single person, given the education system, given the incentives, you have the power to truly change lives.  
+**[1497.00s] English:** You, as a single person, given the education system and the incentives, have the power to truly change lives.  
 **Translation:** Vocabulary: incentives: 激励措施
 
-**[1503.40s] English:** And like 20 years from now, a Fields Medalist will walk up to you and say thank you.  
+**[1503.40s] English:** And, like, in 20 years from now, a Fields Medalist will walk up to you and say, "Thank you.  
 **Translation:** 
 
 **[1508.02s] English:** Yeah, you did that for me.  
@@ -970,7 +971,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1509.40s] English:** Yeah, absolutely.  
 **Translation:** 
 
-**[1510.38s] English:** And I share that with teachers that even in this broken system of what they have to do for districts and textbooks, a single teacher can change kids' maths relationship or other subjects forever.  
+**[1510.38s] English:** And I share that with teachers: even in this broken system of what they have to do for districts and textbooks, a single teacher can change kids' math relationship or other subjects forever.  
 **Translation:** 
 
 **[1526.18s] English:** Yeah.  
@@ -1012,7 +1013,7 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1531.68s] English:** Yeah, that is a difficult subject.  
 **Translation:** 
 
-**[1533.68s] English:** One study found that the amount of maths anxiety parents had predicted their child's achievement in school, but only if they helped with homework.  
+**[1533.68s] English:** One study found that the amount of math anxiety parents had predicted their child's achievement in school, but only if they helped with homework.  
 **Translation:** 
 
 **[1551.46s] English:** So.  
@@ -1055,9 +1056,12 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **Translation:** 
 
 **[1559.92s] English:** I mean,  
-**Translation:** 
+**Translation:** Vocabulary: implications: 含义
 
 **[1559.98s] English:** I think there was a lot of interest in this.  
+**Translation:** 
+
+**[1560.00s] English:** You can see how it works if you have math anxiety and you're helping your kids with homework, you're  
 **Translation:** 
 
 **[1561.12s] English:** I think there was some interest in this.  
@@ -1096,469 +1100,466 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[1561.72s] English:** I think there was a lot of interest in this.  
 **Translation:** 
 
-**[1560.00s] English:** you can see how it works if you have maths anxiety and you're helping your kids with homework you're  
+**[1564.06s] English:** Probably, I was terrible at this in school, and that's how it gets passed.  
 **Translation:** 
 
-**[1564.06s] English:** probably communicating things like i was terrible at this at school and and that's how it gets passed  
-**Translation:** 
-
-**[1570.88s] English:** on to kids so one implication is if you have a really bad relationship maths you hate maths you  
+**[1570.88s] English:** On to kids: So, one implication is that if you have a really bad relationship with math, you hate math.  
 **Translation:** Vocabulary: implication: 推论
 
-**[1577.84s] English:** have maths anxiety just don't don't do maths homework with your kids um but we have a on our  
+**[1577.84s] English:** Have math anxiety? Just don't do math homework with your kids, um, but we have a solution on our  
 **Translation:** 
 
-**[1585.38s] English:** website we have a little sheet for parents of ways to interact around maths with your kids  
+**[1585.38s] English:** We have a little sheet for parents on ways to interact around math with your kids.  
 **Translation:** 
 
-**[1591.84s] English:** and that's uh u-cubed.org that's u-cubed.org yes so one of the things i say to parents when i give  
+**[1591.84s] English:** And that's u-cubed.org. That's u-cubed.org. Yes, so one of the things I say to parents when I give  
 **Translation:** 
 
-**[1601.32s] English:** parent presentations is even if you hate maths you need to just fake it with your kids you should  
+**[1601.32s] English:** Parent presentations: Even if you hate math, you need to just fake it with your kids; you should.  
+**Translation:** Vocabulary: presentations: 讲座
+
+**[1607.24s] English:** Be always endlessly optimistic and happy about doing math, and I'm always curious about this.  
 **Translation:** 
 
-**[1607.24s] English:** be always endlessly optimistic and happy about doing maths and um i'm always curious about this  
+**[1615.20s] English:** With  
+**Translation:** Vocabulary: endlessly: 无穷无尽地
+
+**[1615.36s] English:** So, I hope to have kids one day; I don't have any right now. Are parents okay with...?  
 **Translation:** 
 
-**[1615.20s] English:** with  
-**Translation:** Vocabulary: endlessly: 无穷尽地
+**[1622.20s] English:** Sucking at math, and then trying to get their kid to be better than them—essentially, is that?  
+**Translation:** Vocabulary: sucking: 不擅长
 
-**[1615.36s] English:** so i you know i hope to have kids one day i don't have kids currently um are parents okay with like  
+**[1628.46s] English:** It can be a difficult thing for a lot of parents; it is almost like an  
 **Translation:** 
 
-**[1622.20s] English:** sucking at math and then trying to get their kid to be better than them essentially like is that  
+**[1632.34s] English:** Ego thing, like I never got good at this, and I probably should have. And, yeah, I mean, to me that's  
 **Translation:** 
 
-**[1628.46s] English:** difficult thing for a lot of parents it is difficult to have like it's almost like an  
+**[1639.78s] English:** You want to celebrate that, but I know a lot of people struggle with that — like coaches in sports.  
 **Translation:** 
 
-**[1632.34s] English:** ego thing like i never got good at this and i probably should have and yeah i mean to me that's  
+**[1645.36s] English:** To make an athlete become better than themselves, it can be hard on the ego, yeah. So, is that something you've experienced?  
 **Translation:** 
 
-**[1639.78s] English:** you want to celebrate that but i know a lot of people struggle with that like coaches in sports  
+**[1653.74s] English:** Experience the same with parents, too. I think. I mean, I haven't experienced parents worrying that.  
 **Translation:** 
 
-**[1645.36s] English:** to to make an athlete become better than them it can be hard on the ego yeah so is that do you  
+**[1658.62s] English:** Their kids will be better than them. I have experienced it; I have experienced that parents just hope for the same.  
+**Translation:** Vocabulary: worrying: 担忧
+
+**[1665.82s] English:** Having a really bad relationship with math, and you know, not wanting to help, not knowing how to.  
 **Translation:** 
 
-**[1653.74s] English:** experience the same with parents too i think i mean i haven't experienced parents worrying that  
+**[1671.18s] English:** Help with saying things like: Another study showed that if you don't know how to say something, you can't say it.  
 **Translation:** 
 
-**[1658.62s] English:** their kids will be better than them i have experienced i have experienced parents just  
+**[1675.36s] English:** That when mothers say to their daughters, "I was bad at math in school.  
 **Translation:** 
 
-**[1665.82s] English:** having a really bad relationship with maths and you know not wanting to help not knowing how to  
+**[1680.00s] English:** Their daughter's achievement goes down. So, we know that kids pick up on these messages.  
 **Translation:** 
 
-**[1671.18s] English:** help saying things like another study showed that if you don't know how to say things you can't say  
+**[1685.60s] English:** Which is why I say you should fake it. But also, I know that lots of people have just had a really  
 **Translation:** 
 
-**[1675.36s] English:** that when mothers say to their daughters i was bad at maths in school  
-**Translation:** 
-
-**[1680.00s] English:** their daughter's achievement goes down. So we know that kids pick up on these messages,  
-**Translation:** 
-
-**[1685.60s] English:** which is why I say you should fake it. But also, I know that lots of people have just had a really  
-**Translation:** 
-
-**[1690.92s] English:** bad relationship with maths, even successful people. The undergrads I teach at Stanford  
+**[1690.92s] English:** Bad relationships with math, even among successful people. The undergrads I teach at Stanford,...  
 **Translation:** Vocabulary: stanford: 斯坦福大学; undergrads: 本科学生
 
-**[1697.24s] English:** have pretty much always done well in maths. But they come to Stanford thinking maths is a set  
+**[1697.24s] English:** I have pretty much always done well in math. But when they come to Stanford, they think math is a set  
 **Translation:** 
 
-**[1705.02s] English:** of methods to memorise. And so do many parents believe that. There's one method that you memorise  
-**Translation:** Vocabulary: memorise: 记忆
+**[1705.02s] English:** Of methods to memorize, and so many parents believe that there's one method that you can use.  
+**Translation:** Vocabulary: memorize: 背诵
 
-**[1713.46s] English:** and then you reproduce it. So until people have really had an experience of what I think of as  
+**[1713.46s] English:** And then you reproduce it. So, until people have really had an experience of what I think of as  
 **Translation:** 
 
-**[1720.98s] English:** the other maths, until they've really seen that it's a really different subject,  
-**Translation:** 
+**[1720.98s] English:** The other math, until they've really seen that it's a very different subject,  
+**Translation:** Vocabulary: reproduce: 复制
 
-**[1726.30s] English:** it's hard for them to be able to shift their kids to see it differently.  
+**[1726.30s] English:** It's hard for them to be able to shift their kids to see it differently.  
 **Translation:** 
 
 **[1732.22s] English:** Is there, for a teacher,  
 **Translation:** 
 
-**[1733.86s] English:** if we were to like systematise it, is there something teachers can do to do this more  
+**[1733.86s] English:** If we were to systematize it, is there something teachers can do to do this more?  
 **Translation:** 
 
-**[1740.38s] English:** effectively? So you mentioned the textbook. So what are the additional things you can add on  
+**[1740.38s] English:** Effectively? So, you mentioned the textbook. So, what are the additional things you can add on?  
 **Translation:** 
 
-**[1747.84s] English:** top of this whole old school traditional way of teaching that can improve the process?  
+**[1747.84s] English:** At the top of this whole old-school, traditional way of teaching, what can improve the process?  
 **Translation:** 
 
-**[1754.58s] English:** So I do think there's a way of teaching maths that changes everything for kids and teachers.  
+**[1754.58s] English:** So, I do think there's a way of teaching math that changes everything for kids and teachers.  
 **Translation:** 
 
-**[1761.38s] English:** So I'm one of five writers.  
+**[1761.38s] English:** So, I'm one of five writers.  
 **Translation:** 
 
-**[1763.86s] English:** There's a new framework for the state of California, a new maths framework. It's  
+**[1763.86s] English:** There's a new framework for the state of California, a new math framework. It's  
 **Translation:** Vocabulary: california: 加利福尼亚州
 
-**[1767.70s] English:** coming out next year. And we are recommending through this maths framework that people teach  
+**[1767.70s] English:** Coming out next year, and we are recommending through this math framework that people teach.  
 **Translation:** 
 
-**[1772.88s] English:** in this way. It's called teaching to big ideas. So at the moment, people have standards that have  
+**[1772.88s] English:** In this way, it's called teaching to big ideas. So at the moment, people have standards that have  
+**Translation:** Vocabulary: recommending: 推荐
+
+**[1782.74s] English:** Been written, and then textbooks have taken these standards and made not very good questions.  
 **Translation:** 
 
-**[1782.74s] English:** been written. And then textbooks have taken these standards and made not very good questions.  
+**[1787.92s] English:** And if you look at the standards, like I have some written down here:  
 **Translation:** 
 
-**[1787.92s] English:** And if you look at the standards, like I have some written down here,  
+**[1792.82s] English:** Just reading the standards,  
 **Translation:** 
 
-**[1792.82s] English:** just reading the standards,  
-**Translation:** 
-
-**[1793.86s] English:** it makes maths seem really boring and uninspiring.  
+**[1793.86s] English:** It makes math seem really boring and uninspiring.  
 **Translation:** Vocabulary: uninspiring: 缺乏吸引力的
 
-**[1797.48s] English:** What are the kind of, can you give a few?  
+**[1797.48s] English:** What kinds of things can you give a few examples of?  
 **Translation:** 
 
-**[1800.00s] English:** examples what so this is an interesting example in third grade there are three different standards  
+**[1800.00s] English:** Examples, such as this one from third grade, are interesting because there are three different standards.  
 **Translation:** 
 
-**[1805.80s] English:** about unit squares okay um so this is one of them a square with side length one unit  
+**[1805.80s] English:** About unit squares, okay. So, this is one of them: a square with a side length of one unit.  
 **Translation:** 
 
-**[1814.52s] English:** called a unit square is said to have one square unit of area and can be used to measure area  
+**[1814.52s] English:** Called a unit square, it is said to have one square unit of area and can be used to measure area.  
 **Translation:** 
 
-**[1820.28s] English:** and that's something you're expected to learn that is something that so that's a standard  
+**[1820.28s] English:** And that's something you're expected to learn. That is something that, so that's a standard.  
 **Translation:** 
 
-**[1825.32s] English:** the textbook authors say oh i'm going to make a question about that and they translate the  
+**[1825.32s] English:** The textbook authors say, "Oh, I'm going to make a question about that," and they translate the  
 **Translation:** 
 
-**[1829.50s] English:** standards into narrow questions and then you measure success by your ability to deliver on  
+**[1829.50s] English:** Standards into narrow questions, and then you measure success by your ability to deliver on.  
 **Translation:** 
 
-**[1834.68s] English:** on these standards so the standards themselves uh i think of maths and many people think maths  
+**[1834.68s] English:** On these standards, so the standards themselves — I think of math, and many people think of math —  
 **Translation:** 
 
-**[1841.28s] English:** in this way is a subject of like a few big ideas and really important connections between them  
+**[1841.28s] English:** In this way, it is a subject of a few big ideas and really important connections between them.  
 **Translation:** 
 
-**[1847.08s] English:** um so like you could think of it as like a network map of ideas and connections  
+**[1847.08s] English:** Um, so you could think of it as a network map of ideas and connections.  
 **Translation:** 
 
-**[1851.72s] English:** and what standards do is they take that beautiful map and they chop it up like this into lots of  
+**[1851.72s] English:** And what standards do is, they take that beautiful map and they chop it up like this into lots of pieces.  
 **Translation:** 
 
-**[1857.96s] English:** little pieces and they deliver the  
+**[1857.96s] English:** Little pieces, and they deliver the  
 **Translation:** 
 
-**[1859.48s] English:** pieces to schools and so teachers don't see the connections between ideas nor do the kids  
+**[1859.48s] English:** Pieces to schools, and so teachers don't see the connections between ideas, nor do the kids.  
 **Translation:** 
 
-**[1865.88s] English:** so anyway this is a bit of a long way of saying that what we've done in this new initiative is  
+**[1865.88s] English:** So, anyway, this is a bit of a long way of saying that what we've done in this new initiative is  
 **Translation:** 
 
-**[1872.14s] English:** we have set out maths as a set of big ideas and connections between them so this is a  
+**[1872.14s] English:** We have set out math as a set of big ideas and connections between them, so this is a  
 **Translation:** 
 
-**[1878.50s] English:** grade three so instead of there being 60 standards we've said well you can  
+**[1878.50s] English:** Grade three: So, instead of there being 60 standards, we've said that you can  
 **Translation:** 
 
-**[1889.48s] English:** use this to get in with each other and um also value the ways these are connected and by the way  
+**[1889.48s] English:** Use this to get in with each other, and also value the ways they are connected. By the way,  
 **Translation:** 
 
-**[1898.52s] English:** for people who are just listening we're looking at a small number of like big concepts within  
+**[1898.52s] English:** For people who are just listening, we're looking at a small number of big concepts within.  
 **Translation:** 
 
-**[1904.24s] English:** mathematics square tiles measuring fraction shape and time and then how they're interconnected  
+**[1904.24s] English:** Mathematics, square tiles measuring fractions, shapes, and time—and then how they're interconnected.  
 **Translation:** 
 
-**[1910.52s] English:** and so the goal is for this is for grade three for example yeah and so we've set out for the  
-**Translation:** Vocabulary: interconnected: 相互连接
+**[1910.52s] English:** And so, the goal is for Grade 3, for example, yes. And so, we've set out to the  
+**Translation:** Vocabulary: fractions: 分数; interconnected: 相互连接
 
-**[1917.88s] English:** state of california the whole state of california and then we've set out for the state of california  
+**[1917.88s] English:** The state of California, the entire state of California, and then we've set out for the state of California.  
 **Translation:** 
 
-**[1919.48s] English:** and then we've set out for the state of california and then we've set out for the state of california  
+**[1919.48s] English:** And then we set out for the state of California.  
 **Translation:** Vocabulary: california: 加利福尼亚州
 
-**[1920.00s] English:** mathematics k 10 as a set of big ideas and connections so we know that teachers it works  
+**[1920.00s] English:** Mathematics K-10 as a set of big ideas and connections, so we know that teachers can make it work.  
 **Translation:** 
 
-**[1927.88s] English:** really well if they say okay so a big idea in my grade is measuring um and instead of reading five  
+**[1927.88s] English:** Really, well, if they say okay, so a big idea in my grade is measuring. Instead of reading five,  
 **Translation:** 
 
-**[1937.16s] English:** procedural statements that involve measuring they think okay measuring is a big idea what  
+**[1937.16s] English:** Procedural statements that involve measuring—they think, okay, measuring is a big idea, what?  
 **Translation:** 
 
-**[1942.82s] English:** rich deep activity can i use that teaches measuring to kids and as kids work on these  
+**[1942.82s] English:** Rich, deep activity: Can I use that to teach measuring to kids, and as kids work on these?  
+**Translation:** Vocabulary: procedural: 程序性的
+
+**[1949.14s] English:** Deep, rich activities, perhaps spread over a few days, turn out to involve a lot of math. So,  
 **Translation:** 
 
-**[1949.14s] English:** deep rich activities maybe over a few days turns out a lot of maths comes into it so  
+**[1956.04s] English:** We're recommending that we not teach math according to all these multiples.  
+**Translation:** Vocabulary: multiples: 倍数; recommending: 建议
+
+**[1961.76s] English:** Statements and lots and lots of short questions, instead. Let's teach math by thinking about what.  
 **Translation:** 
 
-**[1956.04s] English:** we're recommending that let's not teach maths according to all these multiple multiple  
+**[1968.16s] English:** Are the big ideas, and what are really rich, deep activities that teach those big ideas?  
 **Translation:** 
 
-**[1961.76s] English:** statements and lots and lots of short questions instead let's teach maths by thinking about what  
+**[1973.44s] English:** So, that's how you teach it and maximize learning. What about from a  
 **Translation:** 
 
-**[1968.16s] English:** are the big ideas and what are really rich deep activities that teach those big ideas  
-**Translation:** 
-
-**[1973.44s] English:** so that's the like how you teach it and maximize learning what about like from a  
-**Translation:** 
-
-**[1979.12s] English:** school district perspective like measuring how well you're doing you know grades and tests and  
+**[1979.12s] English:** School district perspective, like measuring how well you're doing — you know, grades and tests and...  
 **Translation:** Vocabulary: maximize: 最大化
 
-**[1986.00s] English:** stuff like that do you throw those out or is there is it i'm not a fan of grades and tests  
+**[1986.00s] English:** Stuff like that, do you throw those out, or is there anything I'm not a fan of grades and tests?  
 **Translation:** 
 
-**[1991.54s] English:** um myself i think grades are fine if they're used at the end of a course so at the end of my maths  
+**[1991.54s] English:** Um, myself, I think grades are fine if they're used at the end of a course, so at the end of my math.  
 **Translation:** 
 
-**[2000.52s] English:** course i might get a grade because a grade is meant to be a summative measure it kind of describes  
+**[2000.52s] English:** Course, I might get a grade because a grade is meant to be a summative measure; it kind of describes...  
 **Translation:** 
 
-**[2009.12s] English:** grades means the grades that i've thought i've had to do the math was the big reason i've spent  
+**[2009.12s] English:** Grades mean the grades I've gotten; the math was the big reason I've spent.  
 **Translation:** 
 
-**[2011.84s] English:** my time in math was to take grades and i've been an indicator of what i've done and what i've learned  
+**[2011.84s] English:** My time in math was to take grades, which have been an indicator of what I've done and what I've learned.  
 **Translation:** 
 
-**[2016.00s] English:** so i'm not going to tell you all the things i've learned if you're really good at math you're  
+**[2016.00s] English:** So, I'm not going to tell you all the things I've learned. If you're really good at math, you're  
 **Translation:** Vocabulary: indicator: 衡量标准
 
-**[2018.56s] English:** gonna learn about what you've learned and you're gonna learn to take a grade and what you've learned  
+**[2018.56s] English:** Gonna learn about what you've learned, and you're gonna learn to take a grade on what you've learned.  
 **Translation:** 
 
-**[2022.02s] English:** sometimes you might learn that you need to be a good teacher the first time you're going to be a  
+**[2022.02s] English:** Sometimes, you might learn that you need to be a good teacher the first time you're going to be one.  
 **Translation:** 
 
-**[2023.92s] English:** great teacher is enough to get things right  
+**[2023.92s] English:** A great teacher is enough to get things right.  
 **Translation:** 
 
-**[2025.44s] English:** so if you're a good teacher you can bring all those things and i'd like to come to a class  
+**[2025.44s] English:** So, if you're a good teacher, you can bring all those things, and I'd like to come to a class.  
 **Translation:** 
 
-**[2029.50s] English:** where i can show you a class in my house where i can come to a class and i can prepare a class  
+**[2029.50s] English:** Where I can show you a class in my house, where I can come to a class and prepare it.  
 **Translation:** 
 
-**[2033.66s] English:** for the thing that's going to be a great thing for you you know a class of science and science  
+**[2033.66s] English:** For the thing that's going to be a great thing for you, you know, like a class in science or science.  
 **Translation:** 
 
-**[2037.02s] English:** You're there to perform, somebody's measuring you,  
+**[2037.02s] English:** You're there to perform; somebody's measuring you.  
 **Translation:** 
 
-**[2040.00s] English:** you see your score um so i think that's not conducive for deep learning and yes have a  
+**[2040.00s] English:** You see, your score, um, so I think that's not conducive to deep learning, and yes, have a  
 **Translation:** Vocabulary: conducive: 有利的
 
-**[2050.04s] English:** grade at the end of the year but during the year you can assess kids in much better ways like  
+**[2050.04s] English:** Grade at the end of the year, but during the year, you can assess kids in much better ways like  
 **Translation:** 
 
-**[2054.88s] English:** teachers can a great way of assessing kids is to give them a rubric that kind of outlines what  
-**Translation:** Vocabulary: assessing: 评价; outlines: 概述; rubric: 评分标准
+**[2054.88s] English:** Teachers can be a great way of assessing kids by giving them a rubric that kind of outlines what  
+**Translation:** Vocabulary: assess: 评价; assessing: 评估; outlines: 概述; rubric: 评分标准
 
-**[2062.20s] English:** they're learning over the course of a unit or a few weeks so kids can actually see the journey  
+**[2062.20s] English:** They're learning over the course of a unit or a few weeks, so kids can actually see the journey.  
 **Translation:** 
 
-**[2068.28s] English:** they're on like this is what we're doing mathematically sometimes they self-assess  
-**Translation:** Vocabulary: mathematically: 数学上
+**[2068.28s] English:** They're on, like, "This is what we're doing mathematically," sometimes they self-assess.  
+**Translation:** Vocabulary: mathematically: 按照数学方式
 
-**[2072.74s] English:** on those units and then teachers um will show where what they can what the kids can do with  
+**[2072.74s] English:** On those units, and then teachers will show where what the kids can do with them.  
 **Translation:** 
 
-**[2080.16s] English:** a rubric and also write notes like you know in the next few weeks you might like to learn to  
+**[2080.16s] English:** A rubric, and also write notes: like, you know, in the next few weeks, you might like to learn to.  
 **Translation:** 
 
-**[2085.04s] English:** do this or um so instead of kids just thinking about i'm an a kid or a b kid or i have this  
+**[2085.04s] English:** Do this, or, um, so instead of kids just thinking about "I'm an A kid" or a B kid, or I have this.  
 **Translation:** 
 
-**[2092.02s] English:** letter attached to me they're actually seeing mathematically what's important and they're  
+**[2092.02s] English:** Letter attached to me, they're actually seeing mathematically what's important, and they're  
 **Translation:** 
 
-**[2097.26s] English:** involved in the process  
+**[2097.26s] English:** Involved in the process  
 **Translation:** 
 
-**[2098.28s] English:** of knowing where they are mathematically at the end of the year sure they can have a grade but  
+**[2098.28s] English:** Of knowing where they are mathematically at the end of the year, surely they can have a grade, but  
 **Translation:** 
 
-**[2105.12s] English:** um during the year they get these much more informative measures i do think this this might  
+**[2105.12s] English:** Um, during the year, they get these much more informative measures. I do think this might.  
 **Translation:** 
 
-**[2112.84s] English:** be more for college but maybe not i some of the best classes i've had is when i got a special  
+**[2112.84s] English:** Be more for college, but maybe not—I've had some of the best classes when I got a special.  
+**Translation:** Vocabulary: informative: 有信息量的
+
+**[2120.74s] English:** Like, set aside, the professor clearly saw that I was interested in something.  
 **Translation:** 
 
-**[2120.74s] English:** like set aside like the the professor clearly saw that i was interested in some  
+**[2128.28s] English:** An aspect of a thing, and then, um, I've a few in mind, and one in particular. He said that, um, kind  
 **Translation:** 
 
-**[2128.28s] English:** aspect of a thing and then um i've a few in mind and one in particular and he said that um he kind  
+**[2137.40s] English:** Of course, it challenged me so this is outside of grades and all that kind of stuff. That basically it's  
 **Translation:** 
 
-**[2137.40s] English:** of challenged me so this is outside of grades and all that that kind of stuff that basically it's  
+**[2143.92s] English:** Like reverse psychology, I don't think this can be done, and so I gave everything to do that.  
 **Translation:** 
 
-**[2143.92s] English:** like reverse psychology i don't i don't think this can be done and so i gave everything to do that  
+**[2150.12s] English:** Particular thing, so this was happened to be in an artificial intelligence class, but I think that  
 **Translation:** 
 
-**[2150.12s] English:** particular thing so this was happened to be in an artificial intelligence class but i i think that  
+**[2156.40s] English:** Like special treatment, taking  
 **Translation:** 
 
-**[2156.40s] English:** like special treatment of taking  
+**[2158.28s] English:** Students who are  
 **Translation:** 
 
-**[2158.28s] English:** students who are  
+**[2160.00s] English:** Especially like being excellent at a particular little aspect that you see.  
 **Translation:** 
 
-**[2160.00s] English:** especially like excellent at a particular little aspect that you see  
+**[2163.96s] English:** Their eyes light up. I often think, maybe it's tempting for a teacher to do that.  
 **Translation:** 
 
-**[2163.96s] English:** their eyes light up I I often think like maybe it's tempting for a teacher think  
+**[2169.78s] English:** You've already succeeded there, but they're actually signaling to you that  
+**Translation:** Vocabulary: signaling: 示意; tempting: 诱人
+
+**[2173.64s] English:** Like, you could really launch them on their way, yeah. And I don't know...  
 **Translation:** 
 
-**[2169.78s] English:** you've already succeeded there but they're actually signaling to you that  
+**[2180.10s] English:** Too much to expect from teachers, I think, to pay attention to all of that because.  
 **Translation:** 
 
-**[2173.64s] English:** like you could really launch them on their way yeah and I don't know that's  
+**[2185.02s] English:** It's really difficult, but I just kind of remember who are the biggest and most.  
 **Translation:** 
 
-**[2180.10s] English:** too much to expect from teachers I think to pay attention to all of that because  
+**[2190.30s] English:** Important people in the history of my life of education, and it's those people.  
 **Translation:** 
 
-**[2185.02s] English:** it's really difficult but I I just kind of remember who are the biggest the most  
+**[2195.52s] English:** That who really didn't just inspire me with their awesomeness, which they did.  
 **Translation:** 
 
-**[2190.30s] English:** important people in the history of my life of education and it's those people  
+**[2200.26s] English:** But also, just they pushed me a little, yeah. Like again, a little push and that.  
+**Translation:** Vocabulary: awesomeness: 令人惊叹之处
+
+**[2205.48s] English:** Requires focusing on the "quote-unquote" excellent students in the class, yeah. I  
 **Translation:** 
 
-**[2195.52s] English:** that who really didn't just like inspire me with their awesomeness which they did  
+**[2210.94s] English:** Think, however, what's important is for teachers to have the perspective that.  
 **Translation:** 
 
-**[2200.26s] English:** but also just they pushed me a little yeah like again a little push and that  
-**Translation:** Vocabulary: awesomeness: 卓越表现
-
-**[2205.48s] English:** requires focusing on the quote-unquote excellent students in the class yeah I  
+**[2214.84s] English:** They have their students, and their students, and their students, and their.  
 **Translation:** 
 
-**[2210.94s] English:** think what's important though is teachers to have the perspective that  
+**[2215.00s] English:** But they don't know who's going to be excellent at something before they give.  
 **Translation:** 
 
-**[2214.84s] English:** they have of their students and their students and their students and their  
+**[2219.38s] English:** Out the activity exactly, and in our camp classes, that we ran, sometimes students  
 **Translation:** 
 
-**[2215.00s] English:** but they don't know who's gonna be excellent at something before they give  
+**[2227.30s] English:** We would finish ahead of other students, and we would say to them, "Can you write a  
 **Translation:** 
 
-**[2219.38s] English:** out the activity exactly and in our camp classes that we ran sometimes students  
+**[2234.50s] English:** That's a question that's like this, but different.  
 **Translation:** 
 
-**[2227.30s] English:** would finish ahead of other students and we would say to them can you write a  
+**[2238.22s] English:** Oh, and over time, we encourage them to like extend things further. I remember  
 **Translation:** 
 
-**[2234.50s] English:** question that's like this but different  
+**[2244.82s] English:** I remember we were doing one activity where kids were working out the borders.  
 **Translation:** 
 
-**[2238.22s] English:** oh and and over time we encourage them to like extend things further I remember  
+**[2248.48s] English:** Of a square, and how big this border would be in different case sizes, and one.  
 **Translation:** 
 
-**[2244.82s] English:** I remember we were doing one activity where kids were working out the borders  
+**[2253.82s] English:** Of the boys, came up at the end of the class and said, "I've been thinking about.  
 **Translation:** 
 
-**[2248.48s] English:** of a square and how big this border would be in different case sizes and one  
-**Translation:** 
-
-**[2253.82s] English:** of the boys came up at the end of the class and said I've been thinking about  
-**Translation:** 
-
-**[2258.20s] English:** how you do this to the pentagon and I said that's fantastic  
+**[2258.20s] English:** How are you doing this to the Pentagon, and I said that's fantastic.  
 **Translation:** Vocabulary: pentagon: 五角大楼
 
-**[2261.78s] English:** how do have what does it look like with Pentagon go you know find out see if  
+**[2261.78s] English:** How do you have what does it look like with the Pentagon? Go, you know, find out and see if.  
 **Translation:** 
 
-**[2265.92s] English:** you can discover so I didn't know he was going to come up and say that  
+**[2265.92s] English:** You can discover, so I didn't know he was going to come up and say that.  
 **Translation:** 
 
-**[2269.40s] English:** and I didn't have in my head like this is the kid who could have this extended  
+**[2269.40s] English:** And I didn't have in my head, like, this is the kid who could have this extended.  
 **Translation:** 
 
-**[2274.82s] English:** task but you can still do that as a teacher when  
+**[2274.82s] English:** Task, but you can still do that as a teacher when.  
 **Translation:** 
 
-**[2280.00s] English:** get excited about something or they're doing well in something have them extend it go further  
+**[2280.00s] English:** Get excited about something, or if they're doing well in something, have them extend it and go further.  
 **Translation:** 
 
-**[2286.00s] English:** it's great and then you also like this is like teacher and coach you could say it in different  
+**[2286.00s] English:** It's great, and then you also like this is like a teacher and coach. You could say it in different ways.  
 **Translation:** 
 
-**[2292.56s] English:** ways to different students like for me the right thing to say is uh almost to say uh i don't think  
+**[2292.56s] English:** Ways to approach different students: like, for me, the right thing to say is almost to say, "I don't think.  
 **Translation:** 
 
-**[2299.52s] English:** you could do this this is too hard like that's what i need to hear it's just like no i you know  
+**[2299.52s] English:** You could do this. This is too hard, like that's what I need to hear. It's just... no, I know.  
 **Translation:** 
 
-**[2304.80s] English:** there's an immediate push but with some people if they're a little bit more  
+**[2304.80s] English:** There's an immediate push, but with some people, if they're a little bit more  
 **Translation:** 
 
-**[2308.32s] English:** i mean it all has to do with upbringing yeah how your genetics is they might be much more that  
+**[2308.32s] English:** I mean, it all has to do with upbringing, yeah, how your genetics is. They might be much more than that.  
 **Translation:** Vocabulary: upbringing: 教育背景
 
-**[2314.48s] English:** might break them yeah that might break them and so you have to be also sensitive to that i mean  
+**[2314.48s] English:** Might break them, yeah? That might break them, and so you have to be also sensitive to that, I mean.  
 **Translation:** 
 
-**[2318.56s] English:** teaching is really difficult it is really difficult for this very reason it is so um  
+**[2318.56s] English:** Teaching is really difficult. It is really difficult for this very reason, it is so, um,...  
 **Translation:** 
 
-**[2324.72s] English:** what is the best way to teach math to learn math at those early few days when you just want to  
+**[2324.72s] English:** What is the best way to teach math to learn it at those early days when you just want to?  
 **Translation:** 
 
-**[2331.52s] English:** capture them i do something actually there's a video of me doing this on our website  
+**[2331.52s] English:** Capture them; I do something. Actually, there's a video of me doing this on our website.  
 **Translation:** 
 
-**[2338.08s] English:** the  
+**[2338.08s] English:** The  
 **Translation:** 
 
-**[2338.32s] English:** i love when i first meet students and this is what i do i show them a picture this is the picture  
+**[2338.32s] English:** I love when I first meet students, and this is what I do: I show them a picture. This is the picture.  
 **Translation:** 
 
-**[2346.88s] English:** i show them and it's a picture of seven dots like this  
+**[2346.88s] English:** I show them, and it's a picture of seven dots, like this: • • • • • •  
 **Translation:** 
 
-**[2352.88s] English:** and i show it for just a few seconds and i say to them i'd like you to tell me how many dots  
+**[2352.88s] English:** And I show it for just a few seconds, and I say to them, "I'd like you to tell me how many dots.  
 **Translation:** 
 
-**[2357.20s] English:** there are but i don't need to count them i want to group the dots and i show it them and then i  
+**[2357.20s] English:** There are, but I don't need to count them. I want to group the dots and show them, and then I  
 **Translation:** 
 
-**[2362.88s] English:** i i take it away before they've even had enough time to count them and then i asked them so how do  
+**[2362.88s] English:** I'll take it away before they've even had enough time to count them, and then I ask them, "So, how do?  
 **Translation:** 
 
-**[2368.32s] English:** you see it and i go around the room and amazingly enough there's probably 18 different ways of seeing  
+**[2368.32s] English:** You see, it, and I go around the room, and amazingly enough, there are probably 18 different ways of seeing.  
 **Translation:** 
 
-**[2377.28s] English:** these seven dots and so i asked people tell me how how you grouped it and some people see it as like  
+**[2377.28s] English:** These seven dots, and so I asked people to tell me how they grouped it. Some people see it as like  
 **Translation:** 
 
-**[2383.36s] English:** an outside hole with a center dot some people see like stripes of lines some people see segments  
+**[2383.36s] English:** An outside hole with a center dot; some people see it as stripes or lines, while some see segments.  
 **Translation:** 
 
-**[2391.68s] English:** and i collect them all and i put them on the board and at the end i say look at this we are a class  
+**[2391.68s] English:** And I collect them all and put them on the board, and at the end I say, "Look at this! We're a class.  
 **Translation:** Vocabulary: segments: 片段
 
-**[2396.16s] English:** of 30 kids and we saw these seven dots and we managed to see them all but they were all  
+**[2396.16s] English:** Of 30 kids, and we saw these seven dots. We managed to see them all, but they were all  
 **Translation:** 
 
-**[2398.08s] English:** seven dots in 18 different ways.  
+**[2398.08s] English:** Seven dots can be arranged in 18 different ways.  
 **Translation:** 
 
 **[2400.00s] English:** There's actually a mathematical term for this.  
 **Translation:** 
 
-**[2401.94s] English:** It's called groupitizing.  
+**[2401.94s] English:** It's called Groupitizing.  
 **Translation:** Vocabulary: groupitizing: 分组; mathematical: 数学的
 
 **[2404.16s] English:** Groupitizing?  
@@ -1573,11 +1574,11 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[2406.72s] English:** It's kind of cool.  
 **Translation:** 
 
-**[2407.68s] English:** So turns out, though, that how well you groupitize predicts how well you do in maths.  
+**[2407.68s] English:** So, it turns out that how well you can groupitize predicts how well you do in math.  
 **Translation:** 
 
-**[2415.52s] English:** Is it a raw talent or is it just something that you can develop?  
-**Translation:** Vocabulary: groupitize: 分组学习
+**[2415.52s] English:** Is it a raw talent, or is it just something that you can develop?  
+**Translation:** Vocabulary: groupitize: 分组化
 
 **[2419.48s] English:** I don't think you're born groupitizing, I think.  
 **Translation:** 
@@ -1588,37 +1589,37 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[2427.26s] English:** And you can learn it.  
 **Translation:** 
 
-**[2428.14s] English:** So this, to me, is part of how wrong we have maths.  
+**[2428.14s] English:** So, this to me, is part of how wrong we have math.  
 **Translation:** 
 
-**[2434.14s] English:** That we think, to tell whether a kid's good at maths, we're going to give them a speed test on multiples.  
+**[2434.14s] English:** That we think, to tell whether a kid is good at math, we're going to give them a speed test on multiples.  
 **Translation:** 
 
-**[2440.54s] English:** But actually, seeing how kids group dots could be a more important assessment of how well they're going to do in maths.  
-**Translation:** 
+**[2440.54s] English:** But actually, seeing how kids group dots could be a more important assessment of how well they'll do in math.  
+**Translation:** Vocabulary: multiples: 倍数
 
 **[2448.22s] English:** Anyway, what I like to do when I start off with kids is show them.  
 **Translation:** 
 
-**[2453.18s] English:** I'm going to give you maths problems.  
+**[2453.18s] English:** I'm going to give you some math problems.  
 **Translation:** 
 
 **[2454.54s] English:** I'm going to value the different ways you see them.  
 **Translation:** 
 
-**[2456.50s] English:** And it turns out you can do this kind of problem, asking people how they group dots with young children or with graduate students.  
+**[2456.50s] English:** And it turns out you can do this kind of problem—asking people how they group dots—with young children or with graduate students.  
 **Translation:** 
 
 **[2465.28s] English:** And it's engaging for all of them.  
 **Translation:** 
 
 **[2469.40s] English:** You talk about creativity a little bit and flexibility in your book, Limitless.  
-**Translation:** Vocabulary: flexibility: 灵活性; limitless: 无界限
+**Translation:** Vocabulary: flexibility: 灵活性; limitless: 无尽的
 
 **[2475.14s] English:** What's the role of that?  
 **Translation:** 
 
-**[2476.74s] English:** So it sounds like there's a bit of that kind of thing involved in groupitizing.  
+**[2476.74s] English:** So, it sounds like there's a bit of that kind of thing involved in groupitizing.  
 **Translation:** 
 
 **[2482.60s] English:** Yeah.  
@@ -1630,88 +1631,88 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[2484.18s] English:** I love this term.  
 **Translation:** 
 
-**[2485.18s] English:** So what's...  
+**[2485.18s] English:** So, what's...  
 **Translation:** 
 
-**[2486.50s] English:** What would you say is the role of creativity and flexibility in the learning of maths?  
+**[2486.50s] English:** What would you say is the role of creativity and flexibility in the learning of math?  
 **Translation:** 
 
-**[2491.22s] English:** I think what we know now is that what we need for this 21st century world we live in is a flexible mind.  
+**[2491.22s] English:** I think what we know now is that, for this 21st-century world we live in, we need a flexible mind.  
+**Translation:** Vocabulary: flexible: 灵活
+
+**[2501.90s] English:** Schools should not really be about teaching kids particular methods, but about teaching them to approach problems with flexibility.  
 **Translation:** 
 
-**[2501.90s] English:** Schools should not really be about teaching kids particular methods, but teaching them to approach problems with flexibility.  
-**Translation:** 
-
-**[2509.48s] English:** Being creative, thinking creatively is really important.  
+**[2509.48s] English:** Being creative and thinking creatively is really important.  
 **Translation:** Vocabulary: creatively: 创造性地
 
-**[2512.54s] English:** So people don't think the words maths and creativity.  
+**[2512.54s] English:** So, people don't think of math and creativity as naturally going together.  
 **Translation:** 
 
-**[2516.50s] English:** They don't think the words maths and creativity come together, but that's what I love about maths.  
+**[2516.50s] English:** They don't think the words "maths" and "creativity" come together, but that's what I love about maths.  
 **Translation:** 
 
-**[2520.00s] English:** is the creative different ways you can see it and so helping our kids there's a book i like a lot  
+**[2520.00s] English:** Is the creative something that can be seen in different ways, and so helping our kids: there's a book I like a lot.  
 **Translation:** 
 
-**[2528.46s] English:** by been by physicists you probably know this book called elastic you might know it um and it's about  
+**[2528.46s] English:** By being by physicists, you probably know this book called Elastic; you might know it, um, and it's about  
 **Translation:** Vocabulary: elastic: 有弹性的; physicists: 物理学家
 
-**[2536.54s] English:** how we want elastic minds same kind of thing flexible creative minds and schools do very  
+**[2536.54s] English:** How we want elastic, minds—same kind of thing: flexible, creative minds—and schools do very.  
 **Translation:** 
 
-**[2544.62s] English:** little on developing that kind of mind they do a lot of developing the kind of mind that a computer  
+**[2544.62s] English:** Little emphasis is placed on developing that kind of mind; instead, they do a lot to develop the kind of mind that a computer.  
 **Translation:** 
 
-**[2552.62s] English:** now does for us memorization memorization doing procedures a lot of things that we spend a lot  
+**[2552.62s] English:** Now, it does for us memorization, memorization, doing procedures, and a lot of things that we spend a lot  
 **Translation:** 
 
-**[2562.72s] English:** of time in school on in the world when kids leave school a computer will do that and better than  
+**[2562.72s] English:** Of time in school, in the world when kids leave, a computer will do that, and better than.  
 **Translation:** 
 
-**[2571.14s] English:** they will but that creative flexible thinking  
+**[2571.14s] English:** They will, but that creative, flexible thinking.  
 **Translation:** 
 
-**[2574.62s] English:** we're kind of at ground zero at computers being able to engage in that thinking maybe we're a  
+**[2574.62s] English:** We're kind of at ground zero when it comes to computers being able to engage in that type of thinking, maybe we're a  
+**Translation:** Vocabulary: flexible: 有弹性的
+
+**[2579.90s] English:** Little above ground zero, but the human brain is perfectly suited for that creative, flexible.  
 **Translation:** 
 
-**[2579.90s] English:** little above ground zero but the human brain is perfectly suited for that creative flexible  
+**[2587.16s] English:** Thinking that's what humans are so great at, so I would like the balance to shift in schools.  
 **Translation:** 
 
-**[2587.16s] English:** thinking that's what humans are so great at so I would like the balance to shift in schools  
+**[2591.84s] English:** Maybe you still need to do some procedural kind of thinking, but there should be a lot more of  
 **Translation:** 
 
-**[2591.84s] English:** maybe you still need to do some procedural kind of thinking but there should be a lot more of  
+**[2596.76s] English:** That creative, flexible thinking and what's the role of other humans in this picture? So  
+**Translation:** Vocabulary: procedural: 程序化的
+
+**[2604.26s] English:** You.  
 **Translation:** 
 
-**[2596.76s] English:** that creative flexible thinking and what's the role of other humans in this picture so  
+**[2604.62s] English:** Collaborative, yes, learning—so brainstorming together—and so creativity as it emerges from.  
+**Translation:** Vocabulary: brainstorming: 头脑风暴; collaborative: 合作的; emerges: 涌现
+
+**[2611.94s] English:** The collective intelligence of multiple people is yeah, super important, and we know that also helps develop.  
 **Translation:** 
 
-**[2604.26s] English:** you  
+**[2620.00s] English:** Your brain for the social side of thinking, and I love mathematics and collaboration, where people build on  
+**Translation:** Vocabulary: collaboration: 合作
+
+**[2625.84s] English:** Each other's ideas, and they come up with amazing things. I actually taught a hundred students.  
 **Translation:** 
 
-**[2604.62s] English:** collaborative yeah learning so brainstorming together so creativity as it emerges from  
-**Translation:** Vocabulary: brainstorming: 集体头脑风暴; collaborative: 协作的
-
-**[2611.94s] English:** the collective intelligence of multiple yeah super important and um we know that also helps develop  
+**[2632.70s] English:** Calculus at Stanford  
 **Translation:** 
 
-**[2620.00s] English:** your brain that social side of thinking and I love mathematics collaboration where people build on  
+**[2634.62s] English:** Recently, undergrads and we taught them to collaborate; so these  
 **Translation:** 
 
-**[2625.84s] English:** each other's ideas and they come up with amazing things I actually taught a hundred students  
-**Translation:** 
-
-**[2632.70s] English:** calculus at Stanford  
-**Translation:** Vocabulary: calculus: 微积分
-
-**[2634.62s] English:** recently undergrads and we taught them to collaborate so these  
-**Translation:** 
-
-**[2640.00s] English:** Students came in Stanford, and most of them were against collaboration in maths.  
+**[2640.00s] English:** Students came to Stanford, and most of them were against collaboration in math.  
 **Translation:** Vocabulary: collaborate: 合作; undergrads: 本科生
 
-**[2644.62s] English:** This is before COVID in person?  
+**[2644.62s] English:** This was before COVID, in person?  
 **Translation:** 
 
 **[2646.24s] English:** Yeah, it was just before COVID hit.  
@@ -1720,1570 +1721,1570 @@ Source file: Lex Fridman - Jo Boaler： How to Learn Math ｜ Lex Fridman Podcas
 **[2648.36s] English:** It was 2019.  
 **Translation:** 
 
-**[2651.62s] English:** Sorry, you said they're against?  
+**[2651.62s] English:** Sorry, you said they're against it?  
 **Translation:** 
 
 **[2653.86s] English:** Yeah, it's really interesting.  
 **Translation:** 
 
-**[2656.60s] English:** So they'd only experienced maths individually, in a kind of competitive individual way.  
+**[2656.60s] English:** So they had only experienced math individually, in a kind of competitive, individual way.  
 **Translation:** Vocabulary: individually: 单独地
 
 **[2662.04s] English:** And if they had experienced it as group work, it had been a bad experience.  
 **Translation:** 
 
-**[2666.00s] English:** Like maybe they were the one who did it all, and the others didn't do much.  
+**[2666.00s] English:** Like maybe they were the ones who did it all, and the others didn't do much.  
 **Translation:** 
 
-**[2671.34s] English:** So they were kind of against collaboration.  
+**[2671.34s] English:** So, they were kind of against collaboration.  
 **Translation:** 
 
-**[2673.16s] English:** They didn't see any role for it in maths.  
+**[2673.16s] English:** They didn't see any role for it in math.  
 **Translation:** 
 
 **[2675.12s] English:** And we taught them to collaborate.  
 **Translation:** 
 
-**[2678.10s] English:** And it was hard work, because as well as the fact that they were kind of against collaboration,  
+**[2678.10s] English:** And it was hard work, because, as well as the fact that they were kind of against collaboration,  
 **Translation:** 
 
-**[2683.56s] English:** they came in with a lot of like social comparison thinking.  
+**[2683.56s] English:** They came in with a lot of social comparison thinking.  
 **Translation:** 
 
-**[2688.42s] English:** So I'm in this room with other Stanford undergrads, and they're better than me.  
+**[2688.42s] English:** So, I'm in this room with other Stanford undergrads, and they're better than me.  
 **Translation:** Vocabulary: stanford: 斯坦福大学
 
-**[2693.22s] English:** So when we sent them to work on a maths problem together,  
+**[2693.22s] English:** So, when we sent them to work on a math problem together,  
 **Translation:** 
 
-**[2695.68s] English:** the first one was kind of a disaster, because they were all like,  
+**[2695.68s] English:** The first one was kind of a disaster because they were all like,  
 **Translation:** 
 
-**[2698.54s] English:** they're better than me, they're faster than me.  
+**[2698.54s] English:** They're better than me, they're faster than me.  
 **Translation:** 
 
 **[2700.42s] English:** They came up with something I didn't come up with.  
 **Translation:** 
 
-**[2702.48s] English:** So we taught them to let go of that thinking and to work well together.  
+**[2702.48s] English:** So, we taught them to let go of that thinking and to work well together.  
 **Translation:** 
 
-**[2708.54s] English:** And one of the things we did, we decided we wanted to do a pre and post test  
+**[2708.54s] English:** And one of the things we did, we decided we wanted to do a pre- and post-test.  
 **Translation:** 
 
-**[2712.42s] English:** at the end of this teaching.  
+**[2712.42s] English:** At the end of this teaching.  
 **Translation:** 
 
 **[2713.46s] English:** It was only four weeks long.  
 **Translation:** 
 
-**[2715.54s] English:** But we knew we didn't want to give them like a time test of individual work.  
+**[2715.54s] English:** But we knew we didn't want to give them, like, a timed test of individual work.  
 **Translation:** 
 
-**[2719.24s] English:** So we gave them an applied problem to do at the beginning.  
+**[2719.24s] English:** So, we gave them an applied problem to do at the beginning.  
 **Translation:** 
 
 **[2723.42s] English:** And we gave them to do in pairs together.  
 **Translation:** 
 
-**[2726.04s] English:** And we gave each of them a different colored pen and said,  
+**[2726.04s] English:** And we gave each of them a different-colored pen and said,  
 **Translation:** 
 
-**[2729.26s] English:** work on this activity together and keep using that pen.  
+**[2729.26s] English:** Work on this activity together and keep using that pen.  
 **Translation:** 
 
-**[2732.74s] English:** So then we had all these pieces of student work.  
+**[2732.74s] English:** So, then, we had all these pieces of student work.  
 **Translation:** 
 
-**[2735.14s] English:** And what we saw was they just worked on separate parts of the paper.  
+**[2735.14s] English:** And what we saw was that they just worked on separate parts of the paper.  
 **Translation:** 
 
-**[2739.90s] English:** So there's a little like red pen section and a green pen section.  
+**[2739.90s] English:** So, there's a little red pen section and a green pen section.  
 **Translation:** 
 
 **[2743.64s] English:** And they didn't do that well on it, even though it was a problem that middle or high school kids  
 **Translation:** 
 
-**[2749.46s] English:** could do, but it was like a problem solving kind of problem.  
+**[2749.46s] English:** Could do, but it was like a problem-solving kind of problem.  
 **Translation:** 
 
-**[2752.42s] English:** And then we gave them the same one to do at the end,  
+**[2752.42s] English:** And then we gave them the same one to do at the end.  
 **Translation:** 
 
-**[2755.02s] English:** gave them the same.  
+**[2755.02s] English:** Gave them the same.  
 **Translation:** 
 
-**[2755.68s] English:** Colors and actually they had learned to collaborate and not only.  
+**[2755.68s] English:** Colors, and actually, they had learned to collaborate—and not only.  
 **Translation:** 
 
-**[2760.00s] English:** were they collaborating the second time around but that boosted their achievement and the ones  
-**Translation:** Vocabulary: collaborating: 合作
+**[2760.00s] English:** Were they collaborating the second time around, but that boosted their achievements and the ones?  
+**Translation:** Vocabulary: boosted: 提升; collaborate: 合作; collaborating: 正在合作
 
-**[2764.48s] English:** who collaborated did better on the problem collaboration is important having people and  
+**[2764.48s] English:** Who collaborated did better on the problem. Collaboration is important, having people work together.  
 **Translation:** 
 
-**[2770.34s] English:** what was so eye-opening for these undergrads and they talked about it in lovely ways was i learned  
-**Translation:** Vocabulary: collaborated: 合作; undergrads: 本科生
+**[2770.34s] English:** What was so eye-opening for these undergrads, and they talked about it in lovely ways, was that I learned  
+**Translation:** Vocabulary: collaborated: 合作; collaboration: 合作关系; undergrads: 本科生
 
-**[2776.94s] English:** to value other people's thinking on a problem and i learned to value that other people saw it in  
+**[2776.94s] English:** To value other people's thinking on a problem, and I learned to value that others saw it in different ways.  
 **Translation:** 
 
-**[2782.78s] English:** different ways and it was quite a big experience for them that they came out thinking you know i  
+**[2782.78s] English:** Different ways, and it was quite a big experience for them. They came out thinking, you know, I  
 **Translation:** 
 
-**[2791.48s] English:** can do maths with other people people can see it differently we can build on each other's way  
+**[2791.48s] English:** Can do math with other people, who can see it differently, and we can build on each other's ways.  
 **Translation:** 
 
-**[2796.36s] English:** ways of thinking i got a chance to i don't know if you know who daniel kahneman is  
+**[2796.36s] English:** Ways of thinking—I got a chance to; I don't know if you know who Daniel Kahneman is.  
 **Translation:** Vocabulary: kahneman: 卡尼曼
 
-**[2801.30s] English:** got a chance to interact with him and like the first because he had a few but one famous  
+**[2801.30s] English:** Got a chance to interact with him, and it was similar to the first time because he had a few, but one was particularly famous.  
 **Translation:** 
 
-**[2808.54s] English:** collaboration throughout his life uh with tversky  
+**[2808.54s] English:** Collaboration throughout his life, with Tversky.  
+**Translation:** Vocabulary: tversky: 特维斯基
+
+**[2812.78s] English:** And just like, you know, he hasn't met me before in person, but just the number of questions he was  
 **Translation:** 
 
-**[2812.78s] English:** and just like you know he hasn't met me before uh in person but just the number of questions he was  
+**[2820.80s] English:** Asking out of curiosity, I think one of the skills is collaboration itself.  
 **Translation:** 
 
-**[2820.80s] English:** asking just the curiosity so i think one of the skills the collaboration itself is a skill  
+**[2827.28s] English:** And I remember my experience with him was like, "Okay, I get why you're so good at collaboration.  
 **Translation:** 
 
-**[2827.28s] English:** and i remember my experience with him was like okay i get why you're so good at collaboration  
+**[2834.08s] English:** Because he was just extremely good at listening and had a genuine curiosity about how the other person.  
 **Translation:** 
 
-**[2834.08s] English:** because he was just extremely good at listening and genuine curiosity about how the other person  
+**[2841.32s] English:** Thinks about the world, sees the world.  
 **Translation:** 
 
-**[2841.32s] English:** thinks about the world sees the world  
+**[2842.76s] English:** World, and then together he's pulled me in. In that particular case, he doesn't know.  
 **Translation:** 
 
-**[2842.76s] English:** world and then together he's he pulled me in in that particular case he doesn't know in particular  
+**[2849.16s] English:** Like that much about autonomous vehicles, but he kept asking all these questions and then,...  
 **Translation:** 
 
-**[2849.16s] English:** like that much about autonomous vehicles but he kept like asking all these questions and then  
+**[2855.02s] English:** Like 10 minutes in, we're together trying to solve the problem of autonomous driving.  
+**Translation:** Vocabulary: autonomous: 自主的
+
+**[2859.00s] English:** And, like, and that—I mean, that's really fulfilling and really enriching, but it also  
 **Translation:** 
 
-**[2855.02s] English:** like 10 minutes in we're together trying to solve the problem of autonomous driving  
-**Translation:** Vocabulary: autonomous: 自主
+**[2864.50s] English:** In that moment, it made me realize it's kind of a skill because you have to kind of put your ego aside.  
+**Translation:** Vocabulary: enriching: 增加知识; fulfilling: 满足的
 
-**[2859.00s] English:** and like and that i mean that's really fulfilling that's really enriching but it also  
+**[2869.44s] English:** Aside, yes. Put your view of the world aside and try to learn how the other person sees things. Right?  
 **Translation:** 
 
-**[2864.50s] English:** in that moment made me realize it's kind of a skill because you have to kind of put your ego  
-**Translation:** Vocabulary: enriching: 充实; fulfilling: 满足
-
-**[2869.44s] English:** aside yep put your view of the world aside and try to learn how the other person right  
+**[2874.70s] English:** And the other thing you have to put aside is this social comparison thinking.  
 **Translation:** 
 
-**[2874.70s] English:** and the other thing you have to put aside is this social comparison thinking  
+**[2880.00s] English:** Like, if you are sitting there thinking, "Wow, that was an amazing idea! He's so much better than I am.  
 **Translation:** 
 
-**[2880.00s] English:** like if you are sitting there thinking wow that was an amazing idea he's so much better than i am  
+**[2886.18s] English:** That's really going to stop you from taking on the value of that idea, and there's a lot of that going around.  
 **Translation:** 
 
-**[2886.18s] English:** that's really gonna stop you taking on the value of that idea and so there's a lot of that going  
+**[2893.80s] English:** Between these Stanford students, when they came, they were trying to help them let go of that.  
 **Translation:** 
 
-**[2893.80s] English:** on between these stanford students when they came and yeah trying to help them let go of that  
-**Translation:** 
-
-**[2901.32s] English:** one of the things i've discovered just because being a little bit more in the public eye  
+**[2901.32s] English:** One of the things I've discovered is that, just because I'm a little bit more in the public eye,  
 **Translation:** Vocabulary: stanford: 斯坦福大学
 
-**[2906.70s] English:** how rewarding it is to celebrate others yeah and how much is going to actually  
+**[2906.70s] English:** How rewarding it is to celebrate others, yeah, and how much fun is going to actually  
 **Translation:** 
 
-**[2912.94s] English:** pay off in the long term yeah so this kind of silo thinking of like i want to prove to a small  
+**[2912.94s] English:** Pay off in the long term, yeah, so this kind of silo thinking—of like, "I want to prove to a small  
 **Translation:** 
 
-**[2919.58s] English:** set of people around me that i'm really smart and do so by basically not celebrating how smart the  
+**[2919.58s] English:** Set of people around me that I'm really smart, and do so by basically not celebrating how smart the  
 **Translation:** 
 
-**[2928.08s] English:** other people are that's actually maybe short term it seems like a good strategy but long term it's  
+**[2928.08s] English:** Other people are that's actually maybe a short-term strategy, but long-term, it's  
 **Translation:** 
 
-**[2933.78s] English:** not and i think if you practice at the student level and then  
+**[2933.78s] English:** Not, and I think if you practice at the student level and then  
 **Translation:** 
 
-**[2936.70s] English:** at the career at every single stage i think that's ultimately i i agree with you i think  
+**[2936.70s] English:** At every single stage of a career, I think that's ultimately what I agree with you about.  
 **Translation:** 
 
-**[2941.48s] English:** that's a really good way of thinking about it you mentioned textbooks and you didn't say it uh  
+**[2941.48s] English:** That's a really good way of thinking about it. You mentioned textbooks, and you didn't say it, but  
 **Translation:** 
 
-**[2948.68s] English:** you know um maybe textbooks isn't the perfect way to teach mathematics but i i love textbooks  
+**[2948.68s] English:** You know, um, maybe textbooks aren't the perfect way to teach mathematics, but I love textbooks.  
 **Translation:** 
 
-**[2956.70s] English:** there's they're like pretty pictures and they smell nice and they open i mean i talk about  
+**[2956.70s] English:** There's, they're like pretty pictures, and they smell nice. And they open—i mean, I talk about.  
 **Translation:** 
 
-**[2960.54s] English:** like physical some of my greatest experiences have been just like oh like because they're  
+**[2960.54s] English:** Like physical, some of my greatest experiences have been just like, oh, like because they're.  
 **Translation:** 
 
-**[2965.78s] English:** really well done  
+**[2965.78s] English:** Really well done!  
 **Translation:** 
 
-**[2966.70s] English:** when we're talking about basic like high school calculus biology chemistry those are like those  
+**[2966.70s] English:** When we're talking about basic subjects like high school calculus, biology, and chemistry, those are like those.  
+**Translation:** 
+
+**[2975.10s] English:** It's incredible; it's like Wikipedia, but with color and nice little features. You must have seen some.  
+**Translation:** 
+
+**[2981.08s] English:** Good textbooks, if they had pretty pictures in color, yeah. I mean, I remember; it was very  
+**Translation:** 
+
+**[2987.20s] English:** Very standard, like AP Calculus, AP Biology, AP Chemistry. I felt those are some of the  
+**Translation:** 
+
+**[2994.90s] English:** Happiest days of my life, in terms of learning, and I think that's a really good way to do that.  
 **Translation:** Vocabulary: calculus: 微积分
 
-**[2975.10s] English:** are incredible it's like wikipedia but with color and and uh nice little you must have seen some  
+**[2996.70s] English:** And, of course, I'm very proud to be among the people in the audience, and that's  
 **Translation:** 
 
-**[2981.08s] English:** good textbooks if they had pretty pictures in color yeah i mean i remember i guess it was very  
-**Translation:** 
-
-**[2987.20s] English:** very standard like ap ap calculus ap biology ap chemistry i felt those are like some of the  
-**Translation:** 
-
-**[2994.90s] English:** happiest days of my life in terms of learning and i think that's a really good way to do that  
-**Translation:** 
-
-**[2996.70s] English:** and of course i'm very proud to be among the people that are in the audience and that's  
-**Translation:** 
-
-**[3000.00s] English:** honestly it felt hard at the time but you're basically doing a um whirlwind tour of all the  
+**[3000.00s] English:** Honestly, it felt hard at the time, but you're basically doing a whirlwind tour of all the  
 **Translation:** Vocabulary: whirlwind: 旋风
 
-**[3007.68s] English:** science yeah yeah without having to pick you do like literature you do like shakespeare  
+**[3007.68s] English:** Science, yeah, yeah. You don't have to pick something like literature or Shakespeare.  
 **Translation:** 
 
-**[3013.26s] English:** calculus biology physics uh chemistry what else anatomy physiology computer science without like  
+**[3013.26s] English:** Calculus, biology, physics, uh, chemistry, what else? Anatomy, physiology, computer science—without like.  
+**Translation:** Vocabulary: anatomy: 解剖学; physiology: 生理学
+
+**[3024.20s] English:** Nobody's telling you what to do with your life; you're just doing all those things, and that's a good thing.  
 **Translation:** 
 
-**[3024.20s] English:** nobody's telling you what to do with your life you're just doing all those things that's a good  
+**[3028.54s] English:** Thing, you're right, but I remember the textbooks weren't—maybe I'm romanticizing the past.  
 **Translation:** 
 
-**[3028.54s] English:** thing you're right but i remember the textbooks weren't i mean maybe i'm romanticizing the past  
+**[3034.98s] English:** But I remember that they weren't too bad, uh, but so you think — what role do you think?  
 **Translation:** 
 
-**[3034.98s] English:** but i remember that they weren't they're pretty good uh but so you think what role do you think  
+**[3040.30s] English:** They play still, and like in this more modern digital age, what are the best materials with?  
 **Translation:** 
 
-**[3040.30s] English:** they play still and like in this more modern digital age what what's the best materials with  
+**[3047.86s] English:** Which to do these kinds of educations well, I'm intrigued that you had such a good experience.  
 **Translation:** 
 
-**[3047.86s] English:** which to do these kinds of educations well i'm intrigued that you had such a good experience  
-**Translation:** 
-
-**[3052.80s] English:** with textbooks i mean i can remember loving some textbooks i had when i was learning and  
+**[3052.80s] English:** With textbooks, I mean I can remember loving some of them when I was learning and  
 **Translation:** Vocabulary: intrigued: 好奇
 
-**[3058.54s] English:** i love books i love to pick up books and look through them but a lot of maths textbooks are not  
+**[3058.54s] English:** I love books; I love to pick up books and look through them, but a lot of math textbooks aren't.  
 **Translation:** 
 
-**[3067.10s] English:** good experiences for kids they um we have a video on our website of the kids who came to our camp  
+**[3067.10s] English:** Good experiences for kids. They, um, we have a video on our website of the kids who came to our camp.  
 **Translation:** 
 
-**[3074.02s] English:** and one of the students says in maths you have to follow the textbook the textbook is kind of  
+**[3074.02s] English:** And one of the students says, "In math, you have to follow the textbook; the textbook is kind of...  
 **Translation:** 
 
-**[3079.50s] English:** like the bible you have to follow it and every day it's slightly different like on monday you do 2.3  
+**[3079.50s] English:** Like the Bible, you have to follow it, and every day is slightly different. For example, on Monday, you do 2.3.  
 **Translation:** 
 
-**[3088.54s] English:** and on tuesday you do 2.3.3 and on wednesday and you never go off that that's like every single day  
+**[3088.54s] English:** And on Tuesday, you do 2.3.3, and on Wednesday, you never go off. That's like every single day.  
 **Translation:** 
 
-**[3096.78s] English:** and that's not inspiring for a lot of the kids so one of the things they loved about our camp  
+**[3096.78s] English:** And that's not inspiring for a lot of the kids, so one of the things they loved about our camp was...  
 **Translation:** 
 
-**[3105.38s] English:** was just that there were no books even though we gave them sheets of paper instead they still felt  
+**[3105.38s] English:** It was just that there were no books, even though we gave them sheets of paper; they still felt  
 **Translation:** 
 
-**[3111.62s] English:** more free because they weren't just like trotting through exercises exercises so  
-**Translation:** Vocabulary: trotting: 机械做
-
-**[3118.54s] English:** um like what  
+**[3111.62s] English:** More free, because they weren't just like trotting through exercises, exercises so.  
 **Translation:** 
 
-**[3120.00s] English:** a textbook allows you is like you're the the very thing you said they might not like the two point  
+**[3118.54s] English:** Um, like what?  
 **Translation:** 
 
-**[3127.30s] English:** yeah two point three two point it feels like you're making progress and like it's little  
+**[3120.00s] English:** A textbook allows you to be, like, the very thing you said they might not like: two points.  
 **Translation:** 
 
-**[3131.90s] English:** celebrations because you do the problem and it seems really hard and you don't know how to do  
+**[3127.30s] English:** Yeah, two-point-three, two-point. It feels like you're making progress and it's little.  
 **Translation:** 
 
-**[3137.12s] English:** it and then you try and try and then eventually succeed then you make that little step and yeah  
+**[3131.90s] English:** Celebrations, because you do the problem and it seems really hard and you don't know how to do it.  
 **Translation:** 
 
-**[3142.56s] English:** further progress and then you get to the end of a chapter and you get to like it's closure you're  
+**[3137.12s] English:** It, and then you try and try, and then eventually succeed. Then you make that little step, and yeah.  
 **Translation:** 
 
-**[3148.20s] English:** like yeah all right i got that figured out and then you go on to the next chapter i can see that  
+**[3142.56s] English:** Further progress, and then you get to the end of a chapter and you get that sense of closure.  
 **Translation:** 
 
-**[3151.92s] English:** i mean i think it could be in a textbook you can have a good experience with a textbook but it  
+**[3148.20s] English:** Like, yeah, all right, I've got that figured out, and then you go on to the next chapter; I can see that.  
 **Translation:** 
 
-**[3159.32s] English:** what's really important is what is what is in that textbook what are you doing inside it and  
+**[3151.92s] English:** I mean, I think it could be in a textbook. You can have a good experience with a textbook, but it  
 **Translation:** 
 
-**[3165.68s] English:** i mean i grew up in england and in england we learn maths we don't have this separation of  
+**[3159.32s] English:** What's really important is what is in that textbook: what are you doing inside it?  
 **Translation:** 
 
-**[3172.32s] English:** algebra and geometry and i don't think any other country apart from the u.s has that  
+**[3165.68s] English:** I mean, I grew up in England, and in England, we learn math; we don't have this separation of  
 **Translation:** 
 
-**[3177.48s] English:** but  
+**[3172.32s] English:** Algebra and geometry, and I don't think any other country, apart from the U.S., has that.  
+**Translation:** 
+
+**[3177.48s] English:** But  
 **Translation:** Vocabulary: algebra: 代数; geometry: 几何
 
-**[3178.20s] English:** but i look at kids in algebra classes where they're doing algebra for a year and i think  
+**[3178.20s] English:** But I look at kids in algebra classes where they're doing algebra for a year, and I think,  
 **Translation:** 
 
-**[3183.20s] English:** i would have been pretty bored doing that um but can we can we analyze your upbringing real quick  
+**[3183.20s] English:** I would have been pretty bored doing that, um, but can we analyze your upbringing real quick?  
 **Translation:** Vocabulary: upbringing: 养育方式
 
-**[3192.12s] English:** um why do british folks call mathematics maths why is it the plural is it is it because of  
+**[3192.12s] English:** Um, why do British folks call mathematics "maths"? Why is it the plural? Is it because...  
 **Translation:** 
 
-**[3202.28s] English:** everything you're saying where it's a bunch of sub-disciplines yeah i mean mathematics  
+**[3202.28s] English:** Everything you're saying, where it's a bunch of sub-disciplines, yeah, I mean, mathematics.  
 **Translation:** 
 
-**[3208.20s] English:** is supposed to be the uh the math the different maths that you look at whether you think of that  
+**[3208.20s] English:** Is supposed to be the math or the different math that you look at, whether you think of that.  
 **Translation:** 
 
-**[3216.46s] English:** as topics like geometry and probability or or i think of it as maths is just multi-dimensional  
+**[3216.46s] English:** As topics like geometry and probability, or I think of it as math, is just multidimensional.  
+**Translation:** Vocabulary: multidimensional: 多维的
+
+**[3225.08s] English:** Lots of ways, but that's why it was called mathematics, and then it was shortened to  
 **Translation:** 
 
-**[3225.08s] English:** lots of ways but that's why it was called mathematics and then it was shortened to  
+**[3229.64s] English:** Maths, and then for some reason it was just math in the U.S., but to me, math has that more singular form.  
 **Translation:** 
 
-**[3229.64s] English:** maths and then for some reason it was just math in the u.s but to me math has that more singular  
+**[3237.16s] English:** Feel free to it, and I think it's a really good way to put it.  
 **Translation:** 
 
-**[3237.16s] English:** feel to it and i think it's a really good way to put it i think it's a really good way to put it  
+**[3238.20s] English:** And  
 **Translation:** 
 
-**[3238.20s] English:** and  
+**[3238.66s] English:** The  
 **Translation:** 
 
-**[3238.66s] English:** the  
+**[3240.00s] English:** There's an expression here, which is "do the math," which basically means do a calculation. That's what it means.  
 **Translation:** 
 
-**[3240.00s] English:** there's an expression here which is do the math which basically means do a calculation that's what  
+**[3245.56s] English:** People mean by "do the math," so I don't like that expression because no math could be anything.  
 **Translation:** 
 
-**[3245.56s] English:** people mean by do the math so i don't like that expression because no math could be anything  
+**[3251.10s] English:** Doesn't have to be a calculation, and so yeah, I like math because it has more of that broad.  
 **Translation:** 
 
-**[3251.10s] English:** doesn't have to be a calculation and so yeah i like maths because it has more of that broad  
+**[3256.00s] English:** Feel free to it, yeah. I love that math kind of emphasizes the multi-dimensional, like yeah.  
 **Translation:** 
 
-**[3256.00s] English:** feel to it yeah i love that maths kind of emphasizes the multi-dimensional like yeah  
+**[3260.34s] English:** Variety of different subdisciplines, different approaches, yeah? Okay, uh, what so, but outside the  
+**Translation:** Vocabulary: approaches: 方法; emphasizes: 强调; subdisciplines: 子学科
+
+**[3268.06s] English:** Textbook: What do you see, like, broadly being used? You mentioned Sebastian and Mooks.  
 **Translation:** 
 
-**[3260.34s] English:** variety of different the subdisciplines different approaches yeah okay uh what so but outside the  
-**Translation:** Vocabulary: subdisciplines: 分支学科
+**[3275.88s] English:** Online education: do you think that's an effective set? It can be, I mean, online having great teachers.  
+**Translation:** Vocabulary: broadly: 广泛地
 
-**[3268.06s] English:** textbook what do you see like broadly being used you mentioned sebastian through and mooks  
+**[3284.38s] English:** Online obviously extends those teachers to many more people, and that's a wonderful thing. Um, I have  
 **Translation:** 
 
-**[3275.88s] English:** online education do you think that's an effective set it can be i mean online having great teachers  
+**[3292.10s] English:** Quite a few online courses myself. I got the bug working with Sebastian when he was  
 **Translation:** Vocabulary: sebastian: 塞巴斯蒂安
 
-**[3284.38s] English:** online obviously extends those teachers to many more people and that's a wonderful thing um i have  
+**[3297.02s] English:** Had  
 **Translation:** 
 
-**[3292.10s] English:** quite a few online courses myself i got the bug working with sebastian when he was  
+**[3297.80s] English:** You.  
 **Translation:** 
 
-**[3297.02s] English:** had  
+**[3298.04s] English:** You.  
 **Translation:** 
 
-**[3297.80s] English:** you  
+**[3298.06s] English:** I thought maybe I could do one in math education, and I didn't know if anybody would take it.  
 **Translation:** 
 
-**[3298.04s] English:** you  
+**[3305.28s] English:** Um, I remember releasing it that first summer, and it was a free online class.  
 **Translation:** 
 
-**[3298.06s] English:** I thought maybe i could do one in maths education and i didn't know if anybody would take it  
+**[3310.12s] English:** 30,000 math teachers took it that first summer, and they were all talking about it with each other.  
 **Translation:** 
 
-**[3305.28s] English:** um i remember releasing it that first summer and it was a free online class and  
+**[3315.96s] English:** And sharing it, and it was like it took off. In fact, it was that Mook that got me to.  
 **Translation:** 
 
-**[3310.12s] English:** 30 000 maths teachers took it that first summer and they were all talking about it with each other  
+**[3322.36s] English:** Create "You Cubed" with Kathy Williams, who's the co-founder, um, because I was like, "Oh my god.  
 **Translation:** 
 
-**[3315.96s] English:** and sharing it and it was like took off in fact it was that mook that caught got me to  
+**[3328.04s] English:** You can't do something like this because people took the mug, and then they said, "Okay, what now?  
 **Translation:** 
 
-**[3322.36s] English:** create you cubed with kathy williams who's the co-founder um because i was like oh my god  
-**Translation:** Vocabulary: kathy: 威廉姆斯搭档
-
-**[3328.04s] English:** you can't do something like this because people took the mook and then they said okay what now  
+**[3332.06s] English:** Like, I've finished what I can have next, and so that's where we made our website, but  
 **Translation:** 
 
-**[3332.06s] English:** like i've finished what what can i have next and so that was where we made our website but  
+**[3337.90s] English:** Um, so yeah, I think online education can be great. I do think a lot of the MOOCs  
 **Translation:** 
 
-**[3337.90s] English:** um so yeah i think online education can be great i do think a lot of the mooks  
+**[3343.86s] English:** Don't have great pedagogy; they're just a talking head, and you can actually engage.  
+**Translation:** Vocabulary: pedagogy: 教学方法
+
+**[3351.14s] English:** People can engage in more active ways, even in online learning. So I learned from the Udacity principle when I was.  
 **Translation:** 
 
-**[3343.86s] English:** don't have great pedagogy they're just a talking head and you can actually engage  
-**Translation:** Vocabulary: pedagogy: 教学法
+**[3358.02s] English:** Work at Udacity; never to talk.  
+**Translation:** Vocabulary: udacity: 大胆行动
 
-**[3351.14s] English:** people in more active ways even in online learning so i learned from the udacity principle when i was  
+**[3360.00s] English:** More than like five minutes, and then to ask people to do something, so that's the sort.  
 **Translation:** 
 
-**[3358.02s] English:** work at Udacity, never to talk.  
+**[3367.60s] English:** Of pedagogy in online classes, I have a little bit of presenting something and then people  
 **Translation:** 
 
-**[3360.00s] English:** more than like five minutes and but then and then to ask people to do something so that's the sort  
+**[3372.80s] English:** Do something, and there's a little bit more because I think if you have a half-hour video, you just  
 **Translation:** 
 
-**[3367.60s] English:** of pedagogy of the online classes i have is a little bit of presenting something and then people  
+**[3379.04s] English:** Switch off and start doing other things. So, the way Udacity did it is, like, five to ten minutes.  
 **Translation:** 
 
-**[3372.80s] English:** do something and there's a little bit more because i think if you have a half hour video you just  
+**[3384.64s] English:** Like a bit of teaching, and then perhaps some visual stuff, and then there's a quiz.  
 **Translation:** 
 
-**[3379.04s] English:** switch off and start doing other things so the the way udacity did it is uh like five ten minute  
+**[3391.04s] English:** You answered a question, yeah. Yeah, now that's really effective. You mentioned,  
 **Translation:** 
 
-**[3384.64s] English:** like a bit of teaching and then with some visual stuff perhaps and then there's like a quiz then  
+**[3396.24s] English:** You've cubed it, so what's the mission? What's the goal? You mentioned how it started, but what's up with that?  
 **Translation:** 
 
-**[3391.04s] English:** you answer a question yeah yeah now that that's that's yeah that's really effective you mentioned  
+**[3402.16s] English:** Um, yeah, where are you at now, and what's your dream with it? Or what are the kinds  
 **Translation:** 
 
-**[3396.24s] English:** you cubed so what's the mission what's the goal you mentioned how it started but what's uh  
+**[3407.28s] English:** Of things that people should go and check out, on there, yeah. We started You Cubed, I guess it.  
 **Translation:** 
 
-**[3402.16s] English:** um yeah where are you at now and what do you what's your dream with it or what are the kind  
+**[3412.64s] English:** It was about five years ago, and we've had  
 **Translation:** 
 
-**[3407.28s] English:** of things that people should go and check out on there yeah we started you cubed i guess it  
+**[3414.64s] English:** Over 52 million visitors to the site, so I'm very happy about that, and our goal is to share.  
 **Translation:** 
 
-**[3412.64s] English:** was about five years ago now and we've had  
+**[3422.00s] English:** Good ideas for teaching math with teachers, students, and parents: we have a sort of  
 **Translation:** 
 
-**[3414.64s] English:** over 52 million visitors to the site so i'm very happy about that and our goal is to share  
+**[3430.00s] English:** Subgoal of erasing math anxiety—that's important to us—but also to share math as  
 **Translation:** 
 
-**[3422.00s] English:** good ideas for teaching with teachers students parents in maths and to help we have a sort of  
+**[3435.20s] English:** This beautiful, creative subject has been really great. We have lessons on the site.  
+**Translation:** Vocabulary: erasing: 消除
+
+**[3443.68s] English:** But one of the things we've done is that we've had a lot of people come in, and we've had a lot of  
 **Translation:** 
 
-**[3430.00s] English:** sub goal of erasing maths anxiety that's important to us but also to share maths as  
+**[3444.56s] English:** People come in, and we've had a lot of people come in, and we've had a lot of people come in, and we've had.  
 **Translation:** 
 
-**[3435.20s] English:** this beautiful creative subject and um it's been really great we have lessons on the site  
+**[3444.62s] English:** A lot of people have come in, and we've had a lot of people come in.  
 **Translation:** 
 
-**[3443.68s] English:** but one of the things that we've done is we've had a lot of people come in and we've had a lot of  
+**[3444.94s] English:** One of the reasons I thought this was needed is that there's a lot of knowledge in the academy about  
 **Translation:** 
 
-**[3444.56s] English:** people come in and we've had a lot of people come in and we've had a lot of people come in and we've had  
+**[3449.66s] English:** How to teach math well involves lots and lots of research and journals, and there are lots of things written on the subject.  
 **Translation:** 
 
-**[3444.62s] English:** a lot of people come in and we've had a lot of people come in and we've had a lot of people come in  
+**[3455.66s] English:** Up, but teachers don't read it; they don't have access to it, and they're often behind paywalls.  
+**Translation:** Vocabulary: paywalls: 付费墙
+
+**[3463.10s] English:** They are written in really inaccessible ways, so people wouldn't want to read or understand them.  
 **Translation:** 
 
-**[3444.94s] English:** one of the reasons i thought this was needed is there's a lot of knowledge in the academy about  
-**Translation:** 
-
-**[3449.66s] English:** how to teach maths well loads and loads of research and journals and lots of things written  
-**Translation:** 
-
-**[3455.66s] English:** up but teachers don't read it they they don't have access to it they're often behind pay walls  
-**Translation:** 
-
-**[3463.10s] English:** they they're written in really inaccessible ways so people wouldn't want to read them or understand  
-**Translation:** 
-
-**[3468.46s] English:** them so this i see is a big problem you have this whole industry of people finding out how to teach  
+**[3468.46s] English:** They seem to be facing a big problem here. This entire industry is focused on figuring out how to teach.  
 **Translation:** Vocabulary: inaccessible: 难以理解
 
-**[3474.54s] English:** well not sharing it with the people who are teaching so um  
+**[3474.54s] English:** Well, not sharing it with the people who are teaching, so um,...  
 **Translation:** 
 
-**[3480.00s] English:** that's where we made you cubed and instead of just putting articles up saying here's some things to  
+**[3480.00s] English:** That's where we made "you cubed," and instead of just putting articles up, saying "here's some things to  
 **Translation:** 
 
-**[3484.40s] English:** read about how to teach well we translated what was coming from research into things that teacher  
+**[3484.40s] English:** Read about how to teach well; we translated what was coming from research into things that teachers could use.  
 **Translation:** 
 
-**[3489.90s] English:** could use so lessons there were videos to show kids and there were tips for parents there were  
+**[3489.90s] English:** Could use some lessons there. Were videos to show kids, and there were tips for parents.  
 **Translation:** 
 
-**[3496.62s] English:** all sorts of things on the site and it's been amazing as we had we took inspiration from the  
+**[3496.62s] English:** All sorts of things on the site, and it's been amazing as we took inspiration from the  
 **Translation:** 
 
-**[3503.86s] English:** week of code which got teachers to focus on coding for a week and we have this thing called  
+**[3503.86s] English:** Week of Code, which got teachers to focus on coding for a week, and we have this thing called  
 **Translation:** 
 
-**[3511.34s] English:** the week of inspirational maths and we say just try it for a week just just give us one week and  
+**[3511.34s] English:** The week of Inspirational Maths, and we say just try it for a week. Just give us one week.  
 **Translation:** 
 
-**[3517.42s] English:** try it and see what happens and so it's been downloaded millions of times teachers use it  
+**[3517.42s] English:** Try it and see what happens, and so it's been downloaded millions of times; teachers use it.  
 **Translation:** Vocabulary: inspirational: 启发性的
 
-**[3523.96s] English:** every year they start the school year with it and what they tell us is it was amazing the kids  
+**[3523.96s] English:** Every year, they start the school year with it, and what they tell us is it was amazing for the kids.  
 **Translation:** 
 
-**[3529.94s] English:** lights were on they were excited they loved it and then the week  
+**[3529.94s] English:** Lights were on; they were excited, they loved it, and then the week.  
 **Translation:** 
 
-**[3533.64s] English:** finished and we had a week of code which got teachers to focus on coding for a week and we  
+**[3533.64s] English:** Finished, and we had a week of code, which got teachers to focus on coding for a week, and we  
 **Translation:** 
 
-**[3533.84s] English:** finished and i opened my textbooks and the lights went out and they were not interested  
+**[3533.84s] English:** Finished, and I opened my textbooks, and the lights went out. They were not interested.  
 **Translation:** 
 
-**[3539.24s] English:** yeah but uh but getting that first inspiration is still powerful i mean it is i i wish i mean my  
+**[3539.24s] English:** Yeah, but getting that first inspiration is still powerful. I mean, it is. I wish... I could feel it more often.  
 **Translation:** 
 
-**[3546.16s] English:** what i would love is if we could actually extend that for the whole year  
+**[3546.16s] English:** What I would love is if we could actually extend that for the whole year.  
 **Translation:** 
 
-**[3550.70s] English:** we're a small team at stanford and we're trying to keep up with great things to put on the site  
+**[3550.70s] English:** We're a small team at Stanford, and we're trying to keep up with great things to put on the site.  
 **Translation:** 
 
-**[3557.92s] English:** um we haven't the capacity to produce these creative visual maths  
+**[3557.92s] English:** Um, we haven't the capacity to produce these creative visual math resources.  
 **Translation:** Vocabulary: stanford: 斯坦福大学
 
-**[3563.62s] English:** styles for every year group for every day but i would love to do that  
+**[3563.62s] English:** Styles for every year group, for every day, but I would love to do that.  
 **Translation:** 
 
-**[3566.86s] English:** how difficult is it to do i mean it's to come up  
+**[3566.86s] English:** How difficult is it to do? I mean, it's to come up...  
 **Translation:** 
 
-**[3570.28s] English:** with uh visual formulations of these uh big important topics you need to think about  
+**[3570.28s] English:** With visual formulations of these big, important topics, you need to think about them.  
 **Translation:** 
 
-**[3578.38s] English:** in a way that you know that uh that that you could teach i mean it we can do it we actually  
+**[3578.38s] English:** In a way that you know you could teach, I mean, we can do it, we actually.  
 **Translation:** 
 
-**[3585.32s] English:** we went from the week of inspirational maths and we made k8 maths books with exactly that big ideas  
+**[3585.32s] English:** We went from the week of inspirational math, and we made K-8 math books with exactly those big ideas.  
 **Translation:** 
 
-**[3592.64s] English:** rich activity and we're going to do that in the next week and we're going to do that in the next week  
+**[3592.64s] English:** Rich activity, and we're going to do that in the next week.  
 **Translation:** 
 
-**[3593.62s] English:** it is visuals we just finished the last one we've been doing it for five years and it's been  
+**[3593.62s] English:** It is visuals. We just finished the last one. We've been doing it for five years, and it's been  
 **Translation:** 
 
-**[3599.44s] English:** exhausting  
-**Translation:** Vocabulary: exhausting: 令人疲惫
+**[3599.44s] English:** Exhausting.  
+**Translation:** Vocabulary: exhausting: 令人疲惫; visuals: 视觉内容
 
-**[3600.00s] English:** and we just finished so now there's a whole k8 set of books and they're organized in that way  
+**[3600.00s] English:** And we just finished, so now there's a whole K/8 set of books and they're organized that way.  
 **Translation:** 
 
-**[3607.08s] English:** these are the big ideas here are rich deep activities um they're not though what you can  
+**[3607.08s] English:** These are the big ideas, here are rich, deep activities; um, they're not, though, what you can  
 **Translation:** 
 
-**[3613.88s] English:** do every day for a year that so some teachers use them as a kind of supplement to their boring  
+**[3613.88s] English:** Do it every day for a year, and that's why some teachers use them as a kind of supplement to their boring  
 **Translation:** 
 
-**[3619.98s] English:** textbook and some people have said okay this is the year this book tells us what the year is and  
-**Translation:** Vocabulary: supplement: 补充材料
-
-**[3626.60s] English:** then we'll supplement these big activities with um so they're being used and teachers really  
+**[3619.98s] English:** Textbook, and some people have said, "Okay, this is the year. This book tells us what the year is.  
 **Translation:** 
 
-**[3633.18s] English:** like them and are really happy about them i just always want more and i guess one of the things i  
+**[3626.60s] English:** Then we'll supplement these big activities with something so they're being used, and teachers really  
 **Translation:** 
 
-**[3638.98s] English:** would like for you cubed one of my personal goals is that every teacher of maths knows about you  
+**[3633.18s] English:** Like them and are really happy about them, I just always want more, and I guess one of the things I  
+**Translation:** Vocabulary: supplement: 补充
+
+**[3638.98s] English:** Would you like for you [cubed] to be one of my personal goals? That every math teacher knows about you.  
 **Translation:** 
 
-**[3644.30s] English:** cubed at the moment um a lot of teachers who come to us are really happy they found it but there's  
+**[3644.30s] English:** Cubed, at the moment, a lot of teachers who come to us are really happy they found it, but there's  
 **Translation:** 
 
-**[3650.08s] English:** a lot of other teachers who don't know that it exists i hope this helps yeah from uh  
+**[3650.08s] English:** A lot of other teachers don't know that it exists. I hope this helps. Yeah, from uh...  
 **Translation:** 
 
-**[3656.58s] English:** student perspective and not in the classroom but at home studying and you know is there some  
+**[3656.58s] English:** Student perspective, and not in the classroom, but at home studying: is there some?  
 **Translation:** 
 
-**[3664.72s] English:** advice you can give on how to best study mathematics so what's the role of the student  
+**[3664.72s] English:** Advice you can give on how to best study mathematics, so what's the role of the student?  
 **Translation:** 
 
-**[3671.08s] English:** outside the classroom yeah i think one thing we know is a lot of people when they review material  
+**[3671.08s] English:** Outside the classroom, yeah, I think one thing we know is that a lot of people when they review material,...  
 **Translation:** 
 
-**[3679.34s] English:** whether it's maths or anything else don't do it in the best way i think a problem a lot of people  
+**[3679.34s] English:** Whether it's math or anything else, don't do it in the best way; I think a problem a lot of people  
 **Translation:** 
 
-**[3685.50s] English:** have is they read  
+**[3685.50s] English:** They have read it.  
 **Translation:** 
 
-**[3686.56s] English:** through maybe a teacher's explanation or a way of doing maths and it makes sense and they think  
+**[3686.56s] English:** Through maybe a teacher's explanation or a way of doing math, and it makes sense, and they think:  
 **Translation:** 
 
-**[3693.20s] English:** oh yeah i've got that and they move on um but then it's not until you come to try and work on  
+**[3693.20s] English:** Oh, yeah, I've got that, and they move on, um, but then it's not until you come to try and work on.  
 **Translation:** 
 
-**[3699.50s] English:** something and do a problem that you actually realize you didn't really understand it just  
+**[3699.50s] English:** Something, and do a problem that you actually realize you didn't really understand it just.  
 **Translation:** 
 
-**[3702.76s] English:** seemed to make sense so i would say this is also something that neuroscientists talk about  
+**[3702.76s] English:** Seemed to make sense, so I would say this is also something that neuroscientists talk about.  
+**Translation:** Vocabulary: neuroscientists: 神经科学家
+
+**[3709.96s] English:** To keep giving yourself questions is a really good way to study.  
 **Translation:** 
 
-**[3709.96s] English:** to keep giving yourself questions is a really good way to study  
+**[3716.56s] English:** Rather than looking through lots of material, it's almost like  
 **Translation:** 
 
-**[3716.56s] English:** rather than looking through lots of material it's almost like  
+**[3720.00s] English:** Giving yourself lots of tests is a good way to actually deepen your understanding and know what  
 **Translation:** 
 
-**[3720.00s] English:** giving yourself lots of tests is a good way to actually deeply understand things and know what  
+**[3725.86s] English:** You do when you don't understand, so would the questions be in the form of the material you're?  
+**Translation:** Vocabulary: deepen: 加深
+
+**[3732.44s] English:** Reviewing is the answer to that question, or is it almost like, beyond it's the polygon thing you?  
 **Translation:** 
 
-**[3725.86s] English:** you do when you don't understand so would the questions be in the form of the material you're  
-**Translation:** 
-
-**[3732.44s] English:** reviewing is the answer to that question or is it almost like beyond it's the polygon thing you  
-**Translation:** 
-
-**[3737.26s] English:** mentioned from a square is it almost like i wonder what is the bigger picture i was kind of asking  
+**[3737.26s] English:** Mentioned from a square, is it almost like I wonder what the bigger picture is? I was kind of asking.  
 **Translation:** Vocabulary: polygon: 多边形
 
-**[3743.96s] English:** of like how is this extended and so on yeah that that would be great and it's a similar i mean a  
+**[3743.96s] English:** Of, like, how is this extended, and so on? Yeah, that would be great. And it's similar; I mean, a  
 **Translation:** 
 
-**[3750.52s] English:** question i get asked a lot is about homework what is a good thing for kids to do for homework  
+**[3750.52s] English:** Question: I get asked a lot about homework. What is a good thing for kids to do for homework?  
 **Translation:** 
 
-**[3754.32s] English:** and one of the recommendations i give is to not have kids just do lots of questions  
+**[3754.32s] English:** And one of the recommendations I give is to not have kids just do lots of questions.  
 **Translation:** 
 
-**[3760.88s] English:** for homework but to actually ask them to reflect on what they've learned like what was the big idea  
-**Translation:** 
+**[3760.88s] English:** For homework, but to actually ask them to reflect on what they've learned, like what was the big idea?  
+**Translation:** Vocabulary: recommendations: 建议
 
-**[3767.46s] English:** you were you learned today or what did you find difficult what did you struggle with  
+**[3767.46s] English:** You were here today, what did you learn? Or what did you find difficult, what did you struggle with?  
 **Translation:** 
 
-**[3773.08s] English:** what was  
+**[3773.08s] English:** What was  
 **Translation:** 
 
-**[3773.96s] English:** something that was exciting um then kids go home and they have to kind of reflect in a deeper way  
+**[3773.96s] English:** Something that was exciting, um, then kids go home and they have to kind of reflect in a deeper way.  
 **Translation:** 
 
-**[3781.98s] English:** a lot of times i don't know if you have this experience as a math student lots of people do  
+**[3781.98s] English:** A lot of times, I don't know if you have this experience as a math student—lots of people do.  
 **Translation:** 
 
-**[3786.22s] English:** kids are going through maths questions they're successful they get them right but they don't  
+**[3786.22s] English:** Kids are going through math questions. They're successful; they get them right, but they don't  
 **Translation:** 
 
-**[3791.28s] English:** even really know what they're about they and a lot of kids go through many years of maths like that  
+**[3791.28s] English:** Even really know what they're about, and a lot of kids go through many years of math like that.  
 **Translation:** 
 
-**[3796.94s] English:** doing lots of questions but that really knowing what even the topic is or what it's about what  
+**[3796.94s] English:** Doing lots of questions, but that really depends on knowing what the topic is or what it's about.  
 **Translation:** 
 
-**[3803.58s] English:** it's important to do is to ask them to reflect on what they've learned and what they've learned  
+**[3803.58s] English:** It's important to ask them to reflect on what they've learned and what they've gained.  
 **Translation:** 
 
-**[3803.94s] English:** and what they've learned is important for so having students go back and think at the end of a day what was the big idea  
+**[3803.94s] English:** And what they've learned is important, so having students go back and think at the end of the day what was the big idea.  
 **Translation:** 
 
-**[3810.50s] English:** from this maths lesson why is it important where would i find that in real life  
+**[3810.50s] English:** From this math lesson, why is it important? Where would I find that in real life?  
 **Translation:** 
 
-**[3815.94s] English:** those are really good questions for kids to be thinking about it's probably for everybody to  
+**[3815.94s] English:** Those are really good questions for kids to be thinking about. It's probably for everybody, too.  
 **Translation:** 
 
-**[3821.30s] English:** be thinking about i think most of us go through life never asking like the bigger question  
+**[3821.30s] English:** I think most of us go through life never asking the bigger questions.  
 **Translation:** 
 
-**[3828.02s] English:** almost like you know those like layers of why questions that kids ask when they're very young  
+**[3828.02s] English:** Almost like you know, those layers of "why" questions that kids ask when they're very young.  
 **Translation:** 
 
-**[3833.94s] English:** we need to keep doing that we do like what uh that's the you know whatever the term is you call  
+**[3833.94s] English:** We need to keep doing that, like what they call it. That's the term for it.  
 **Translation:** 
 
-**[3840.00s] English:** first principles thinking some people call it that which is like why are we doing it this way  
+**[3840.00s] English:** First Principles Thinking, some people call it that, which is like, "Why are we doing it this way?  
 **Translation:** 
 
-**[3847.96s] English:** so one nice thing is to do that because there's usually a good answer like the reason we did it  
+**[3847.96s] English:** So, one nice thing is to do that because there's usually a good answer, like the reason we did it.  
 **Translation:** 
 
-**[3854.30s] English:** this way is because it works for this reason but then if you want to do something totally novel  
+**[3854.30s] English:** This way is because it works, for this reason, but then if you want to do something totally novel,...  
 **Translation:** 
 
-**[3860.24s] English:** is you'll say well we've been doing it this way um because of historical reasons but really this  
+**[3860.24s] English:** Is it true that you'll say, "Well, we've been doing it this way, um, because of historical reasons, but really this..."?  
 **Translation:** 
 
-**[3869.24s] English:** is not the best way to do it there might be other ways and that's how invention happens right and  
+**[3869.24s] English:** Is not the best way to do it. There might be other ways, and that's how inventions happen, right?  
 **Translation:** 
 
-**[3874.56s] English:** then you get you know that's really useful in every aspect of life like choosing your career  
+**[3874.56s] English:** Then, you know, that's really useful in every aspect of life, like choosing your career.  
 **Translation:** 
 
-**[3879.88s] English:** choosing your um i don't know where you live yeah who you're like romantic partner is like  
+**[3879.88s] English:** Choosing your romantic partner is like, I don't know, depending on where you live, yeah?  
 **Translation:** 
 
-**[3887.02s] English:** everything everything yeah and i think it probably starts doing that in math class  
+**[3887.02s] English:** Everything, everything; yeah, and I think it probably starts doing that in math class.  
 **Translation:** 
 
-**[3892.98s] English:** that would be good if we started doing i want i mean i wonder i i probably  
+**[3892.98s] English:** That would be good if we started doing it. I want to, I mean, I wonder if I probably should.  
 **Translation:** 
 
-**[3899.24s] English:** didn't do very much of that for most of my education asking why except for later much later  
+**[3899.24s] English:** Didn't do very much of that for most of my education, asking why, except for much later.  
 **Translation:** 
 
-**[3906.00s] English:** in the subjects on like grad school when you're doing research on them when your first task of  
+**[3906.00s] English:** In the subjects for grad school, when you're doing research on them, when your first task is  
 **Translation:** 
 
-**[3913.46s] English:** doing something novel using this or solving a problem really outside the classroom i have to  
+**[3913.46s] English:** Doing something novel using this, or solving a problem really outside the classroom, I have to.  
 **Translation:** 
 
-**[3920.36s] English:** publish on is the first time you think wait why are these things uh interesting useful which are  
+**[3920.36s] English:** Publishing on this is the first time you think, wait—why are these things interesting and useful?  
 **Translation:** 
 
-**[3929.24s] English:** and yeah i guess that was that would be nice if we did that much earlier that uh the quest of  
+**[3929.24s] English:** And, yeah, I guess that would be nice if we did that much earlier in the process, that kind of thing.  
 **Translation:** 
 
-**[3934.42s] English:** invention yeah yeah i mean one of the sad pieces of research data i think about is the questions  
+**[3934.42s] English:** Invention, yeah, yeah. I mean, one of the sad pieces of research data I think about is the questions.  
 **Translation:** 
 
-**[3941.52s] English:** kids ask um in school goes down like in a linear uh you know progression from in the early years  
-**Translation:** Vocabulary: progression: 发展
+**[3941.52s] English:** Kids ask, in school, it goes down like in a linear, uh, you know, progression from the early years.  
+**Translation:** Vocabulary: linear: 直线的; progression: 进展
 
-**[3951.36s] English:** you can't stop kids asking those questions but they learn not to ask the questions i think you  
+**[3951.36s] English:** You can't stop kids asking those questions, but they learn not to ask the questions I think you.  
 **Translation:** 
 
-**[3957.16s] English:** told somewhere about him  
+**[3957.16s] English:** Told somewhere about him.  
 **Translation:** 
 
-**[3959.24s] English:** early memory  
+**[3959.24s] English:** Early memory.  
 **Translation:** 
 
-**[3960.00s] English:** you had in your own education where you asked the question or maybe that was an example you gave but  
+**[3960.00s] English:** You had, in your own education, where you asked the question, or maybe that was an example you gave, but  
 **Translation:** 
 
-**[3966.44s] English:** it was shut down oh yeah you've listened to something i said yeah i remember where it was  
+**[3966.44s] English:** It was shut down, oh, yeah. You've listened to something I said, right? I remember where it was.  
 **Translation:** 
 
-**[3973.30s] English:** it caught me yeah i remember it really vividly what can you tell uh the memory yeah i was it's  
-**Translation:** 
+**[3973.30s] English:** It caught me off guard, yeah; I remember it really vividly. What can you tell me about the memory? Yeah, I was just thinking about it.  
+**Translation:** Vocabulary: vividly: 清晰地
 
-**[3980.96s] English:** funny i can remember it must have really impacted me in that moment because you know how there's  
+**[3980.96s] English:** Funny, I can remember it; must have really impacted me in that moment. Because, you know, how there's  
 **Translation:** 
 
-**[3984.94s] English:** lots of hours of school you don't remember at all but anyway um i i can remember where i was  
+**[3984.94s] English:** Lots of hours of school you don't remember at all, but anyway, um, I can remember where I was.  
 **Translation:** 
 
-**[3989.98s] English:** sitting and everything i was in high high school maths class although they don't call it in england  
+**[3989.98s] English:** Sitting and everything, I was in a high school math class; although they don't call it that in England.  
 **Translation:** 
 
-**[3994.68s] English:** and um the teacher said and it was like the first class of this teacher's class and he said ask if  
+**[3994.68s] English:** And, um, the teacher said, and it was like the first class of this teacher's class, and he said to ask if  
 **Translation:** 
 
-**[4002.90s] English:** you have any questions so at one point i put my hand up and i said i have a question and he said  
+**[4002.90s] English:** You have any questions? So, at one point I put my hand up and said, "I have a question," and he said,...  
 **Translation:** 
 
-**[4008.82s] English:** something like that's your question um and i was like oh  
+**[4008.82s] English:** Something like, "that's your question," um, and I was like, "oh.  
 **Translation:** 
 
-**[4014.64s] English:** okay  
+**[4014.64s] English:** Okay.  
 **Translation:** 
 
-**[4014.94s] English:** okay i'm not asking any more questions and that hit hard in a way where you didn't want to you  
+**[4014.94s] English:** Okay, I'm not asking any more questions, and that hit hard in a way where you didn't want it to.  
 **Translation:** 
 
-**[4019.86s] English:** the lesson you learned from that i'm not gonna ask yeah that was absolutely that's not us that's  
+**[4019.86s] English:** The lesson you learned from that, I'm not gonna ask; yeah, that was absolutely not us.  
 **Translation:** 
 
-**[4024.20s] English:** the last question i'm asking and um i was yeah he was the chair of the maths department i remember  
+**[4024.20s] English:** The last question I'm asking: and um, I was just remembering that he was the chair of the math department.  
 **Translation:** 
 
-**[4032.42s] English:** that really well so maybe because of that experience one of the things we encourage when  
+**[4032.42s] English:** That really well, so maybe because of that experience, one of the things we encourage is  
 **Translation:** 
 
-**[4039.58s] English:** we teach kids is asking questions and we value it when they ask questions we put them up on walls and  
+**[4039.58s] English:** We teach kids to ask questions, and we value it when they do. We put them up on walls and  
 **Translation:** 
 
-**[4044.64s] English:** so  
+**[4044.64s] English:** So,  
 **Translation:** 
 
-**[4044.94s] English:** it's funny because i wish there was a feedback signal because he probably to put a positive spin  
+**[4044.94s] English:** It's funny because I wish there was a feedback signal because he probably would put a positive spin on it.  
 **Translation:** 
 
-**[4054.66s] English:** on it he probably didn't realize the negative impact he's had in that moment right if he only  
+**[4054.66s] English:** On it, he probably didn't realize the negative impact he's had in that moment; right? If he only  
 **Translation:** 
 
-**[4059.30s] English:** knew see this is probably when you're more mature in grad school and an amazing professor named  
-**Translation:** 
+**[4059.30s] English:** Knew, see, this is probably when you're more mature in grad school and an amazing professor named  
+**Translation:** Vocabulary: mature: 成熟
 
-**[4065.74s] English:** alicia kafande in computer science and he would get he encouraged questions but then he would  
+**[4065.74s] English:** Alicia Kafande in computer science, and he would get, he encouraged questions, but then he would...  
 **Translation:** 
 
-**[4071.84s] English:** tell everybody how dumb their questions are but it was  
+**[4071.84s] English:** Tell everybody how dumb their questions are, but it was  
 **Translation:** 
 
-**[4074.64s] English:** it was done i guess if you show if you say it with love and respect behind  
+**[4074.64s] English:** It was done, I guess. If you show it with love and respect behind it.  
 **Translation:** 
 
-**[4080.00s] English:** it then it's more like a friendly humorous encouragement for more  
-**Translation:** 
+**[4080.00s] English:** It then becomes more like a friendly, humorous encouragement for more.  
+**Translation:** Vocabulary: humorous: 幽默
 
-**[4084.08s] English:** questions yeah it's an art right yeah that's right and then he's very hard you  
+**[4084.08s] English:** Questions, yeah, it's an art, right? Yeah, that's right, and then he's very hardworking.  
 **Translation:** 
 
-**[4089.18s] English:** have to time it right because that's probably that kind of humor is probably  
-**Translation:** 
+**[4089.18s] English:** Have to time it right because, that's probably the kind of humor that's probably  
+**Translation:** Vocabulary: hardworking: 勤奋
 
-**[4092.76s] English:** better for when you're in grad school versus when you're in the early  
+**[4092.76s] English:** Better for when you're in grad school, versus when you're in the early  
 **Translation:** 
 
-**[4097.08s] English:** education right well and I guess kids or young people get whether somebody's  
+**[4097.08s] English:** Education, right? Well, and I guess kids or young people get whether somebody's  
 **Translation:** 
 
-**[4104.24s] English:** doing it to be funny or you know has it this I mean this is why teach you so  
+**[4104.24s] English:** Doing it to be funny, or you know, has it this way. I mean, this is why they teach you so.  
 **Translation:** 
 
-**[4110.68s] English:** hard even your tone can be impactful it's so sad because like for it for that  
+**[4110.68s] English:** Hard, even your tone can be impactful. It's so sad because, like, for it, for that.  
 **Translation:** 
 
-**[4118.56s] English:** particular human the teacher you could just had a bad day and one statement can  
+**[4118.56s] English:** Particular human, the teacher; you could just have had a bad day, and one statement can.  
 **Translation:** 
 
-**[4123.84s] English:** have a profound negative impact I know sadly that maths there's a lot of maths  
+**[4123.84s] English:** Have a profound negative impact. I know; sadly, there's a lot of math.  
 **Translation:** Vocabulary: profound: 深远的
 
-**[4129.54s] English:** teachers who have that kind of approach and they  
+**[4129.54s] English:** Teachers who have that kind of approach, and they  
 **Translation:** 
 
-**[4133.56s] English:** I  
+**[4133.56s] English:** I.  
 **Translation:** 
 
-**[4133.96s] English:** I  
+**[4133.96s] English:** I.  
 **Translation:** 
 
-**[4134.22s] English:** I think they're suffering from the fact that they think people are math people  
+**[4134.22s] English:** I think they're suffering from the fact that they think people are "math people.  
 **Translation:** 
 
-**[4137.34s] English:** not math people and that comes across in their teaching but on the flip side one  
+**[4137.34s] English:** Not math people, and that comes across in their teaching. But on the flip side, one  
 **Translation:** 
 
-**[4142.34s] English:** positive statement yeah keep them going that's right that is the flip side of  
+**[4142.34s] English:** Positive statement, yeah, keep them going. That's right; that is the flip side of.  
 **Translation:** 
 
-**[4146.40s] English:** that and I myself had like one teacher who was really amazing for me in maths  
+**[4146.40s] English:** That, and I myself had one teacher who was really amazing for me in math.  
 **Translation:** 
 
-**[4152.22s] English:** and she kept me in the subject what who was she she was her name was mrs.  
+**[4152.22s] English:** And she kept me in the subject. What was she? She was Mrs.  
 **Translation:** 
 
-**[4160.06s] English:** Marshall  
+**[4160.06s] English:** Marshall.  
 **Translation:** 
 
-**[4162.62s] English:** and she was my a-level maths teachers so I was I mean in England you do lots of  
+**[4162.62s] English:** And she was my A-Level Maths teacher, so I was, I mean, in England, you do lots of  
 **Translation:** 
 
-**[4170.74s] English:** subjects you're 16 and then you choose like three or four subjects so I had  
+**[4170.74s] English:** Subjects: You're 16, and then you choose like three or four subjects. So I had...  
 **Translation:** 
 
-**[4175.70s] English:** chosen maths and you go to high levels probably equivalent more to a master's  
+**[4175.70s] English:** Chosen math, and you go to high levels, probably equivalent more to a master's.  
 **Translation:** 
 
-**[4183.46s] English:** degree in the u.s. because you're more specialized but anyways she was my  
+**[4183.46s] English:** Degree in the U.S., because you're more specialized, but anyway, she was my  
 **Translation:** 
 
-**[4188.10s] English:** teacher and for the first time in my whole career in maths I was actually one de  
+**[4188.10s] English:** Teacher, and for the first time in my whole career in math, I was actually one.  
 **Translation:** 
 
-**[4191.82s] English:** paths she would give us problems and tell us to talk about them with each other and so here I was  
+**[4191.82s] English:** Paths, she would give us problems and tell us to talk about them with each other, and so here I was.  
 **Translation:** 
 
-**[4199.48s] English:** sitting there  
+**[4199.48s] English:** Sitting there,  
 **Translation:** 
 
-**[4200.00s] English:** at like 17 talking with friends about how to solve a math problem and that was it that was the change  
+**[4200.00s] English:** At around 17, I was talking with friends about how to solve a math problem, and that was it—that was the change.  
 **Translation:** 
 
-**[4205.98s] English:** that she made but it was profound for me i because like those calculus students i started to hear  
+**[4205.98s] English:** That she made, but it was profound for me. I, because like those calculus students, I started to hear.  
+**Translation:** Vocabulary: calculus: 微积分; profound: 深刻的
+
+**[4214.28s] English:** Other people's ways of thinking and seeing it, we would talk together and come up with solutions.  
 **Translation:** 
 
-**[4214.28s] English:** other people's ways of thinking and seeing it we would talk together and come up with solutions  
+**[4219.50s] English:** And I was like, "That was it; that changed math for me," and it wasn't some kind of personal...  
 **Translation:** 
 
-**[4219.50s] English:** and i was like that was it that changed maths for me and i so it wasn't some kind of personal  
+**[4224.42s] English:** Interaction with her was more like she was a catalyst for that collaborative experience.  
 **Translation:** 
 
-**[4224.42s] English:** interaction with her it was more like she uh she was a catalyst for that collaborative experience  
+**[4231.00s] English:** I mean, yeah, the many ways teachers can inspire kids. I mean, sometimes it's a personal message, but  
+**Translation:** Vocabulary: catalyst: 催化剂; collaborative: 合作的
+
+**[4237.16s] English:** It can be your teaching approach that changes math for kids, you know, uh, Cal Newport he,  
 **Translation:** 
 
-**[4231.00s] English:** i mean yeah the many ways teachers can inspire kids i mean sometimes it's a personal message but  
-**Translation:** Vocabulary: catalyst: 催化剂; collaborative: 协作的
-
-**[4237.16s] English:** it can be your teaching approach that changes maths for kids you know uh cal newport he uh  
-**Translation:** 
-
-**[4245.64s] English:** he wrote a book called deep work and he's a mathematician theoretical computer scientist  
+**[4245.64s] English:** He wrote a book called "Deep Work," and he's a mathematician and theoretical computer scientist.  
 **Translation:** Vocabulary: mathematician: 数学家
 
-**[4251.12s] English:** and he talks about the kind of the focus  
+**[4251.12s] English:** And he talks about the kind of focus.  
 **Translation:** 
 
-**[4254.14s] English:** required  
+**[4254.14s] English:** Required.  
 **Translation:** 
 
-**[4254.42s] English:** yeah to do that kind of work is there something you can comment on you know we live in a world  
+**[4254.42s] English:** Yeah, to do that kind of work, is there something you can comment on? You know, we live in a world,...  
 **Translation:** 
 
-**[4262.94s] English:** full of distractions that that seems like one of the elements that makes studying and especially  
-**Translation:** Vocabulary: distractions: 干扰因素
+**[4262.94s] English:** Full of distractions, that seems like one of the elements that makes studying—and especially  
+**Translation:** Vocabulary: distractions: 干扰
 
-**[4268.88s] English:** the studying of subjects that require thinking like math does difficult is there something from  
+**[4268.88s] English:** The studying of subjects that require thinking, like math, can be difficult. Is there something from?  
 **Translation:** 
 
-**[4276.30s] English:** a student perspective from a teacher perspective that encourages deep work that you can come yeah  
+**[4276.30s] English:** A student's perspective, from a teacher's perspective, that encourages deep work—that you can come, yeah.  
 **Translation:** 
 
-**[4281.42s] English:** i think giving kids  
+**[4281.42s] English:** I think giving kids  
 **Translation:** 
 
-**[4284.14s] English:** really inspiring deep problems and we have some on our website is a really important experience for  
+**[4284.14s] English:** Really inspiring, deep problems, and we have some on our website. It's a really important experience.  
 **Translation:** 
 
-**[4293.48s] English:** them um even if they only do it occasionally but it's really important they actually realize i i do  
+**[4293.48s] English:** They, um, even if they only do it occasionally, but it's really important that they actually realize I do.  
 **Translation:** 
 
-**[4302.54s] English:** i give a problem out often when i'm working with teachers and i say to them all right i'm going to  
+**[4302.54s] English:** I often give a problem out when I'm working with teachers, and I say to them, "All right, I'm going to...  
 **Translation:** 
 
-**[4307.70s] English:** check in with you after an hour and they were like an hour they think it's shocking and then  
+**[4307.70s] English:** Check in with you after an hour, and they were like, "An hour? They think it's shocking," and then...  
 **Translation:** 
 
-**[4314.14s] English:** they work on this problem and after an hour i said okay how are we doing they're like an hour's gone  
+**[4314.14s] English:** They worked on this problem, and after an hour, I said, "Okay, how are we doing?" They replied, "An hour's gone.  
 **Translation:** 
 
-**[4318.98s] English:** by  
+**[4318.98s] English:** By  
 **Translation:** 
 
-**[4320.00s] English:** how is this possible and so everybody needs those like rich deep problems most kids go  
+**[4320.00s] English:** How is this possible? And so, everyone needs those — rich, deep problems. Most kids go  
 **Translation:** 
 
-**[4329.44s] English:** through their whole maths experience of however many years never once working on a problem in  
+**[4329.44s] English:** Through their whole math experience, however many years it may be, they never once worked on a problem in  
 **Translation:** 
 
-**[4336.18s] English:** that kind of deep way so i the the undergrad class i teach at stanford we do that we work  
-**Translation:** Vocabulary: stanford: 斯坦福大学; undergrad: 本科学生
+**[4336.18s] English:** That kind of deep way. So, in the undergraduate class I teach at Stanford, we do that and work  
+**Translation:** Vocabulary: stanford: 斯坦福大学; undergraduate: 本科生
 
-**[4343.08s] English:** on these deep problems every session and the students come away going okay i never want to  
+**[4343.08s] English:** On these deep problems, we address them in every session, and the students come away going, "Okay, I never want to.  
 **Translation:** 
 
-**[4348.88s] English:** go back to that maths relationship i had where it was just all about quick answers i i just don't  
+**[4348.88s] English:** Go back to that math relationship I had, where it was just all about quick answers. I just don't.  
 **Translation:** 
 
-**[4354.66s] English:** want to go back to that and so we can all all teachers can incorporate those problems in their  
+**[4354.66s] English:** We want to go back to that, and so we can all, especially the teachers, incorporate those problems into their lessons.  
 **Translation:** 
 
-**[4361.72s] English:** classrooms maybe they don't do them every day but they at least give kids some experience of  
+**[4361.72s] English:** Classrooms may not do them every day, but they at least give kids some experience in.  
 **Translation:** Vocabulary: incorporate: 纳入
 
-**[4367.50s] English:** being able to work slowly and deeply and to go to deeper places and not be told they've got five  
+**[4367.50s] English:** Being able to work slowly and deeply, and to go to deeper places without being told they've got five  
 **Translation:** 
 
-**[4377.42s] English:** minutes to finish 20 questions  
+**[4377.42s] English:** Minutes to finish 20 questions.  
 **Translation:** 
 
-**[4378.88s] English:** yeah but part of it is also just the um the exercise of sitting there maintaining focus  
+**[4378.88s] English:** Yeah, but part of it is also just the exercise of sitting there maintaining focus.  
 **Translation:** 
 
-**[4385.26s] English:** for prolonged periods of time that's not often i mean um that's a skill yeah it's a skill  
+**[4385.26s] English:** For prolonged periods of time, that's not often, I mean. Um, that's a skill, yeah, it's a skill.  
 **Translation:** 
 
-**[4392.66s] English:** that uh that also could be discouraging like if you don't practice it just sitting down for 10  
+**[4392.66s] English:** That, uh, could also be discouraging, like if you don't practice and just sit down for 10  
 **Translation:** 
 
-**[4399.82s] English:** minutes straight and maintaining deep focus could be exceptionally challenging like if you're really  
-**Translation:** Vocabulary: discouraging: 令人灰心; exceptionally: 极其
+**[4399.82s] English:** Minutes straight and maintaining deep focus could be exceptionally challenging, especially if you're really  
+**Translation:** Vocabulary: exceptionally: 特别地
 
-**[4404.46s] English:** thinking about a problem and to re i think it's really important to  
+**[4404.46s] English:** Thinking about a problem, I think it's really important to  
 **Translation:** 
 
-**[4408.88s] English:** realize that that's a skill that you can just like a muscle you can build you can start with  
+**[4408.88s] English:** Realize that that's a skill that you can, just like a muscle, you can build. You can start with:  
 **Translation:** 
 
-**[4412.96s] English:** five minutes and goes to 10 minutes to 30 into an hour and and to be successful i think in certain  
+**[4412.96s] English:** Five minutes and goes to 10 minutes, to 30 minutes into an hour. And to be successful, I think, in certain  
 **Translation:** 
 
-**[4418.44s] English:** subjects like mathematics you want to be able to develop that skill otherwise you're not going to  
+**[4418.44s] English:** Subjects like mathematics, you want to be able to develop that skill; otherwise, you're not going to.  
 **Translation:** 
 
-**[4425.22s] English:** get to the the the really rewarding experience of solving these problems  
+**[4425.22s] English:** Get to the really rewarding experience of solving these problems.  
 **Translation:** 
 
-**[4431.14s] English:** definitely there was a survey done of kids in school where they were asked how long will you  
+**[4431.14s] English:** Definitely, there was a survey done of kids in school where they were asked how long they thought they would live.  
 **Translation:** 
 
-**[4437.28s] English:** work on a maths problem before you give up on it and they were like i don't know i don't know i don't  
+**[4437.28s] English:** Work on a math problem before you give up on it, and they were like, "I don't know, I don't know, I don't.  
 **Translation:** 
 
-**[4438.88s] English:** know if it's worth it i don't know why i don't know how to solve it i don't know why i don't know how to  
+**[4438.88s] English:** Know if it's worth it; I don't know why. I don't know how to solve it; I don't know why. I don't know how to.  
 **Translation:** 
 
-**[4440.00s] English:** possible to solve it question and the result on average across the kids was two minutes  
+**[4440.00s] English:** Possible to solve it, the question and the result on average across the kids was two minutes.  
 **Translation:** 
 
-**[4446.52s] English:** yeah so that's a that's a bad sign but that's that was a powerful sign that uh they need to  
+**[4446.52s] English:** Yeah, so that's a bad sign, but that was a powerful sign that they need to  
 **Translation:** 
 
-**[4456.82s] English:** learn to not give up so quickly yeah uh we mentioned offline because we've been talking  
+**[4456.82s] English:** Learn to not give up so quickly, yeah. Uh, we mentioned it offline because we've been talking about it.  
 **Translation:** 
 
-**[4463.98s] English:** so much about visualization uh grant sanderson three luan brown so he's inspired millions of  
+**[4463.98s] English:** So much about visualization, uh, Grant Sanderson and Three Blue One Brown. He's inspired millions of people.  
 **Translation:** Vocabulary: sanderson: 桑德森; visualization: 可视化
 
-**[4471.66s] English:** people with the kind of uh exactly the kind of way of thinking that you've been talking about  
+**[4471.66s] English:** People with the kind of, uh, exactly the kind of way of thinking that you've been talking about.  
 **Translation:** 
 
-**[4476.56s] English:** yeah i love his work converting sort of uh mathematical concepts into visual uh like uh  
-**Translation:** Vocabulary: converting: 转换; mathematical: 数学的
+**[4476.56s] English:** Yeah, I love his work converting sort of mathematical concepts into visual representations, like that.  
+**Translation:** Vocabulary: converting: 转换; mathematical: 数学的; representations: 表示
 
-**[4486.54s] English:** visually representing them exploring them in ways that help you illuminate like the concepts  
+**[4486.54s] English:** Visually representing them, exploring them in ways that help you illuminate the concepts.  
 **Translation:** 
 
-**[4491.84s] English:** um what do you think about that um i think it's it's it's it's it's it's it's it's it's it's it's it's  
-**Translation:** Vocabulary: illuminate: 启发理解
+**[4491.84s] English:** Um, what do you think about that? I think it's pretty interesting.  
+**Translation:** Vocabulary: illuminate: 阐明; visually: 视觉上
 
-**[4493.96s] English:** what do you think is the role of that so he uses mostly programmatic visualization so it's the  
+**[4493.96s] English:** What do you think is the role of that? So, he uses mostly programmatic visualization, so it's the  
 **Translation:** 
 
-**[4498.52s] English:** thing i mentioned where there's like animations created by writing uh computer programs um like  
+**[4498.52s] English:** Thing I mentioned, where there are like animations created by writing computer programs, um,...  
 **Translation:** Vocabulary: animations: 动画
 
-**[4505.74s] English:** what what do you think how scalable is that approach but in general what do you think about  
+**[4505.74s] English:** What do you think about how scalable is that approach, but in general, what do you think about it?  
 **Translation:** 
 
-**[4510.04s] English:** his approach i think it's amazing i should work with him i i can share some of our visuals and  
-**Translation:** Vocabulary: scalable: 可扩展的
+**[4510.04s] English:** His approach, I think, is amazing. I should work with him. I can share some of our visuals and  
+**Translation:** Vocabulary: scalable: 可扩展的; visuals: 视觉效果
 
-**[4517.12s] English:** he can make them in that amazing way um so part of his storytelling yeah part of his like  
+**[4517.12s] English:** He can make them in that amazing way, um, so part of his storytelling, yeah, part of his like  
 **Translation:** 
 
-**[4523.76s] English:** um  
+**[4523.76s] English:** Um.  
 **Translation:** Vocabulary: storytelling: 讲故事的艺术
 
-**[4523.96s] English:** it's creating the visuals and then weaving a story with those visuals that kind of builds  
+**[4523.96s] English:** It's creating the visuals and then weaving a story with those visuals that kind of builds.  
 **Translation:** 
 
-**[4530.40s] English:** like there's also i mean there's also drama in it you start with a small example and then you  
+**[4530.40s] English:** Like, there's also drama in it. You start with a small example, and then you  
+**Translation:** Vocabulary: weaving: 编织故事
+
+**[4536.92s] English:** All of a sudden, there's a surprise! Yeah, yeah, yeah, and it really does make you fall.  
 **Translation:** 
 
-**[4536.92s] English:** all of a sudden there's a surprise yeah yeah yeah and it really i mean it makes you fall  
+**[4543.08s] English:** In love with the concept, that's right. He does talk about that.  
 **Translation:** 
 
-**[4543.08s] English:** in love with the that's right with the concept yeah he does talk about that  
+**[4546.84s] English:** His sense is like some of the stuff; he doesn't feel like he's teaching it.  
 **Translation:** 
 
-**[4546.84s] English:** his sense is like some of the stuff he he doesn't feel like he's teaching  
+**[4553.96s] English:** Like the core curriculum, which is something you know.  
 **Translation:** 
 
-**[4553.96s] English:** like the core curriculum which is something you know  
+**[4559.08s] English:** He  
 **Translation:** 
 
-**[4559.08s] English:** he  
-**Translation:** 
-
-**[4560.00s] English:** he sees himself as an inspirational figure but because i think it's too difficult to kind of  
+**[4560.00s] English:** He sees himself as an inspirational figure, but because I think it's too difficult to kind of...  
 **Translation:** Vocabulary: inspirational: 鼓舞人心的
 
-**[4566.08s] English:** convert all of the curriculum into those elements and probably you don't need to i mean you if  
+**[4566.08s] English:** Convert all of the curriculum into those elements, and probably you don't need to; I mean, you if.  
 **Translation:** 
 
-**[4573.36s] English:** people get to experience mathematical ideas in the way that he shares them um that will change them  
+**[4573.36s] English:** People get to experience mathematical ideas in the way that he shares them, which will change them.  
+**Translation:** Vocabulary: convert: 转换; mathematical: 数学的
+
+**[4579.92s] English:** And it will change the way they think, and maybe they could go on to take some other.  
 **Translation:** 
 
-**[4579.92s] English:** and it will change the way they they think and maybe they could go on to take some other  
+**[4584.08s] English:** Mathematical ideas and makes them beautiful. Well, he does that. He created a  
 **Translation:** 
 
-**[4584.08s] English:** mathematical idea and make it that beautiful well he does that uh there's a he created a  
+**[4589.68s] English:** Library called Manum, and he open-sourced it. People should check it out.  
 **Translation:** 
 
-**[4589.68s] English:** library called manum and he open sourced it and that library is the uh people should check it out  
+**[4596.32s] English:** It's written in Python, and it uses some of those same elements; like, it allows you to animate.  
+**Translation:** Vocabulary: animate: 使动画化
+
+**[4603.36s] English:** Equations and animate little shapes, like people; he has a very distinct style in.  
 **Translation:** 
 
-**[4596.32s] English:** it's written in python and it uses some of those same elements like it allows you to animate  
-**Translation:** 
-
-**[4603.36s] English:** equations and animate little shapes like people that you know he has a very distinct style in  
-**Translation:** 
-
-**[4609.20s] English:** his videos and what that resulted in even though from a software engineer perspective  
+**[4609.20s] English:** His videos, and what that resulted in, even though from a software engineer's perspective,  
 **Translation:** Vocabulary: equations: 方程式
 
-**[4614.08s] English:** the code he released is not like super well documented or perfect but him releasing that  
+**[4614.08s] English:** The code he released is not super well-documented or perfect, but him releasing that,...  
 **Translation:** 
 
-**[4621.76s] English:** now there's all of these other people educating it and the the cool to me personally the coolest  
+**[4621.76s] English:** Now, there are all of these other people educating it, and the coolest thing to me personally is...  
+**Translation:** Vocabulary: educating: 教育
+
+**[4627.20s] English:** The thing is to see that people aren't necessarily those with a million subscribers or something.  
 **Translation:** 
 
-**[4627.20s] English:** thing is to see like people they're not you know don't have like a million subscribers or something  
-**Translation:** 
-
-**[4635.12s] English:** they they have just a few views in the video but it just seems like  
+**[4635.12s] English:** They have just a few views in the video, but it just seems like  
 **Translation:** Vocabulary: subscribers: 订阅者
 
-**[4639.44s] English:** the process of them creating a video where they teach  
+**[4639.44s] English:** The process of them creating a video where they teach,...  
 **Translation:** 
 
-**[4644.24s] English:** is like transformative to them yeah from a student perspective it's the old feynman thing  
+**[4644.24s] English:** It is like transformative to them, yeah. From a student perspective, it's the old Feynman thing.  
 **Translation:** Vocabulary: feynman: 费曼学习法
 
-**[4648.24s] English:** the best way to learn is to teach right and then him releasing that into the wild is yeah  
+**[4648.24s] English:** The best way to learn is to teach, right? And then releasing that into the wild is yeah.  
 **Translation:** 
 
-**[4653.84s] English:** it shows that that impact yeah absolutely i think just giving people that idea that you can do that  
+**[4653.84s] English:** It shows that impact, yeah, absolutely. I think just giving people that idea that they can do it.  
 **Translation:** 
 
-**[4660.88s] English:** with maths and other subjects they're bound to be people all around who can create more which is  
+**[4660.88s] English:** With math and other subjects, they're bound to be people all around who can create more.  
 **Translation:** 
 
-**[4668.00s] English:** cool yeah they definitely so i recommend people do like javascript or python you can you can build  
+**[4668.00s] English:** Cool, yeah, they definitely recommend doing something like JavaScript or Python. You can build a lot with them.  
 **Translation:** 
 
-**[4673.36s] English:** like visualizations you can you can create a lot of visualizations you can create a lot of visualizations  
+**[4673.36s] English:** Like visualizations, you can create a lot of visualizations.  
 **Translation:** 
 
-**[4673.76s] English:** you can create a lot of visualizations you can create a lot of visualizations you can create a lot of visualizations  
-**Translation:** Vocabulary: visualizations: 图表展示
+**[4673.76s] English:** You can create a lot of visualizations. You can create a lot of visualizations. You can create a lot of visualizations.  
+**Translation:** Vocabulary: visualizations: 可视化图
 
-**[4673.92s] English:** you can create a lot of visualizations of most concepts in high school math  
+**[4673.92s] English:** You can create a lot of visualizations of most concepts in high school math.  
 **Translation:** 
 
-**[4677.68s] English:** of most concepts in high school math yeah you can do a lot of kinds of  
+**[4677.68s] English:** Of most concepts in high school math, yeah, you can do a lot of kinds of  
 **Translation:** 
 
-**[4679.04s] English:** yeah you can do a lot of kinds of visualizations  
+**[4679.04s] English:** Yeah, you can do lots of kinds of visualizations.  
 **Translation:** 
 
-**[4680.00s] English:** doing that yourself plus if you do that yourself people will really love it people actually people  
+**[4680.00s] English:** Doing that yourself, plus if you do that yourself, people will really love it; people actually.  
 **Translation:** 
 
-**[4686.64s] English:** love visualizations of math yeah because they i mean it's something in us that loves patterns  
+**[4686.64s] English:** Love visualizations of math, yeah, because they're something in us that loves patterns.  
 **Translation:** 
 
-**[4692.32s] English:** loves figuring out difficult things and the patterns in there then are unexpected in some way  
+**[4692.32s] English:** Loves figuring out difficult things and the patterns in them, which are often unexpectedly complex.  
 **Translation:** 
 
-**[4698.96s] English:** yeah have you ever noticed that hotels are always filled with patterns i was just noticing at the  
+**[4698.96s] English:** Yeah, have you ever noticed that hotels are always filled with patterns? I was just noticing at the  
 **Translation:** 
 
-**[4705.04s] English:** hotel i mean now all of their carpets are pattern carpets and then they have patterns on the walls  
+**[4705.04s] English:** Hotel, I mean, now all of their carpets are patterned carpets, and then they have patterns on the walls.  
+**Translation:** Vocabulary: carpets: 地毯; patterned: 有图案的
+
+**[4711.04s] English:** So, yeah, we humans love the symmetry and patterns—and the breaking of symmetry and patterns.  
 **Translation:** 
 
-**[4711.04s] English:** so yeah we humans love the symmetry and patterns the breaking of symmetry and patterns  
-**Translation:** 
-
-**[4718.80s] English:** yeah and then it's funny that we don't see mathematics as somehow intricately connected  
+**[4718.80s] English:** Yeah, and then it's funny that we don't see mathematics as somehow intricately connected.  
 **Translation:** Vocabulary: intricately: 错综复杂; symmetry: 对称
 
-**[4724.32s] English:** to that but it is right i mean that's one of the perspectives i love students to take is to  
+**[4724.32s] English:** To that, but it is right—I mean, that's one of the perspectives I love students to take.  
 **Translation:** 
 
-**[4728.72s] English:** be a pattern seeker and everything in in yeah certainly in all of maths i mean you can think  
+**[4728.72s] English:** Be a pattern seeker, and everything in math, I mean, you can think...  
 **Translation:** Vocabulary: perspectives: 观点
 
-**[4734.48s] English:** of all of math and spit it out yeah you get boring math after the sty 좀 much better less bridges and  
+**[4734.48s] English:** Of all of math, and spit it out—yeah, you get boring math after the stuff, much better, less bridges and  
 **Translation:** 
 
-**[4734.96s] English:** things but you know it just has to be always drawn in and that's that's just important not just all the  
+**[4734.96s] English:** Things, but you know, it just has to be always drawn in, and that's just important—not just all the  
 **Translation:** 
 
-**[4735.04s] English:** as a kind of subject of patterns and not just visual patterns but you know when you think about  
+**[4735.04s] English:** As a kind of subject of patterns, and not just visual patterns; but you know, when you think about  
 **Translation:** 
 
-**[4742.62s] English:** multiplying by five and the fact you can you know if you if you're multiplying 18 times five  
+**[4742.62s] English:** Multiplying by five, and the fact that you can, you know, if you're multiplying 18 times five.  
 **Translation:** Vocabulary: multiplying: 乘法
 
-**[4750.52s] English:** you can instead think of nine times ten that's a pattern that always works in mathematics you  
+**[4750.52s] English:** You can instead think of nine times ten—that's a pattern that always works in mathematics.— You  
 **Translation:** 
 
-**[4757.34s] English:** can halve a number and double a number and so yeah i just think there are patterns everywhere  
+**[4757.34s] English:** Can you halve a number and double a number? And so, yeah, I just think there are patterns everywhere.  
 **Translation:** Vocabulary: halve: 减半
 
-**[4761.04s] English:** and if kids are thinking their role is to see patterns and find patterns it's really exciting  
+**[4761.04s] English:** And if kids are thinking their role is to see patterns and find patterns, it's really exciting.  
 **Translation:** 
 
-**[4767.74s] English:** what do you think about like mit open courseware and the release of lectures by universities  
-**Translation:** Vocabulary: courseware: 课程软件
-
-**[4775.60s] English:** i think it's good i think it's good i think the that is what started the mooc i did was  
+**[4767.74s] English:** What do you think about MIT OpenCourseWare and the release of lectures by universities?  
 **Translation:** 
 
-**[4784.16s] English:** using that platform see you ultimately think like the udacity models is a little bit more effective  
+**[4775.60s] English:** I think it's good. I think it's good. I think that is what started the MOOC, and I did.  
 **Translation:** 
 
-**[4789.88s] English:** than just a  
+**[4784.16s] English:** Using that platform, I see you ultimately think that the Udacity models are a little bit more effective.  
+**Translation:** Vocabulary: udacity: 冒险精神
+
+**[4789.88s] English:** Than just a  
 **Translation:** 
 
-**[4791.02s] English:** plain two-hour lecture i think there's definitely you can bring in good pedagogy  
+**[4791.02s] English:** In a two-hour lecture, I think there's definitely room to bring in good pedagogy.  
 **Translation:** Vocabulary: pedagogy: 教学法
 
-**[4795.22s] English:** into online learning and i think the idea of putting things online so that  
+**[4795.22s] English:** Into online learning, and I think the idea of putting things online so that  
 **Translation:** 
 
-**[4800.00s] English:** people all over the world can access them it's great i don't think the initial excitement around  
+**[4800.00s] English:** People all over the world can access them; it's great. I don't think the initial excitement around  
 **Translation:** 
 
-**[4804.70s] English:** mooks sort of democratizing education and make it more equal um came about because they found that  
+**[4804.70s] English:** Mooks sort of democratizing education and making it more equal, came about because they found that  
 **Translation:** 
 
-**[4812.90s] English:** the people taking mooks tended to be the more privileged people so that was i think there's  
-**Translation:** Vocabulary: democratizing: 平民化; privileged: 特权的
+**[4812.90s] English:** The people taking mooks tended to be the more privileged people, so that was, I think.  
+**Translation:** Vocabulary: democratizing: 普及; privileged: 特权的
 
-**[4818.42s] English:** still something to be found in that there's still more to be done to help that online learning reach  
+**[4818.42s] English:** Still, there's something to be found in that there's still more to be done to help online learning reach  
 **Translation:** 
 
-**[4826.04s] English:** those principles but um definitely i think it's it's a good invention and i have an online class  
+**[4826.04s] English:** Those principles, but um, definitely I think it's a good invention, and I have an online class.  
 **Translation:** 
 
-**[4833.80s] English:** that's for kids that's little free class that gives the topic it's called how to learn maths  
+**[4833.80s] English:** That's for kids. That's a little free class that gives them the topic: "How to Learn Maths.  
 **Translation:** 
 
-**[4839.46s] English:** how to learn math um it shows maths as this visual creative subject and it shares mindset and some  
-**Translation:** Vocabulary: mindset: 思维模式
+**[4839.46s] English:** How to Learn Math: It shows math as a visual, creative subject and it shares mindsets and some  
+**Translation:** Vocabulary: mindsets: 思维模式
 
-**[4846.24s] English:** brain science and um kids who take it do better in maths class we've studied it with like randomized  
+**[4846.24s] English:** Brain science shows that kids who take it do better in math class. We've studied it with randomized  
 **Translation:** 
 
-**[4853.08s] English:** controlled trials and given it to  
+**[4853.08s] English:** Controlled trials, and given it to  
 **Translation:** Vocabulary: randomized: 随机化
 
-**[4856.04s] English:** middle school kids and other middle school kids who don't take it but are taught by the same  
+**[4856.04s] English:** Middle school kids and other middle school kids who don't take it but are taught by the same  
 **Translation:** 
 
-**[4860.92s] English:** teachers so their teachers are the same and the kids who take the online class end up 68 more  
+**[4860.92s] English:** Teachers, so their teachers are the same, and the kids who take the online class end up being 6.8% more proficient.  
+**Translation:** Vocabulary: proficient: 熟练的
+
+**[4866.90s] English:** Engaged in their math class, they hope to do better at the end of the year, so that's a six-session program.  
 **Translation:** 
 
-**[4866.90s] English:** engaged in their maths class and do better at the end of the year so that's a little six session  
+**[4873.50s] English:** A 15-minute class and it changes kids' math relationships, so it is true that we can do.  
 **Translation:** 
 
-**[4873.50s] English:** 15 minute class and it changes kids maths relationships so it is true that we can do  
+**[4881.68s] English:** That with some words, that aren't, you know.  
 **Translation:** 
 
-**[4881.68s] English:** that with some words that aren't you know  
+**[4885.92s] English:** Not  
 **Translation:** 
 
-**[4885.92s] English:** not  
+**[4886.04s] English:** It's not a huge change to the education system. Do you have any advice for young people?  
 **Translation:** 
 
-**[4886.04s] English:** it's not a huge change to the education system do you have advice for young people  
+**[4892.32s] English:** We've been talking about mathematics quite a bit, but, in terms of their journey through education,...  
 **Translation:** 
 
-**[4892.32s] English:** we've been talking about mathematics quite a bit but uh in terms of their journey through education  
+**[4899.06s] English:** Through their career choices, through life—maybe in middle school, high school, or undergrad.  
 **Translation:** 
 
-**[4899.06s] English:** through their career choices through life maybe middle school high school undergrad students  
-**Translation:** 
-
-**[4905.54s] English:** of how to live a life that they can be proud of  
+**[4905.54s] English:** Of how to live a life that they can be proud of.  
 **Translation:** Vocabulary: undergrad: 本科学生
 
-**[4908.66s] English:** i think if i were to give advice to people especially young people  
+**[4908.66s] English:** I think, if I were to give advice to people, especially young people,  
 **Translation:** 
 
-**[4915.32s] English:** my advice would be to always it sounds  
+**[4915.32s] English:** My advice would be to always; it sounds  
 **Translation:** 
 
-**[4919.94s] English:** good  
+**[4919.94s] English:** Good.  
 **Translation:** 
 
-**[4920.00s] English:** really corny but always believe in yourself and know that you can achieve because although that  
+**[4920.00s] English:** Really corny, but always believe in yourself and know that you can achieve, because although that  
 **Translation:** Vocabulary: corny: 陈词滥调
 
-**[4927.06s] English:** sounds like obvious of course we want kids to know that they can achieve things i know that  
+**[4927.06s] English:** Sounds like it's obvious, of course we want kids to know that they can achieve things. I know that.  
 **Translation:** 
 
-**[4931.34s] English:** millions of kids are in the school system have been given the message they cannot do things  
-**Translation:** Vocabulary: cannot: 不能
-
-**[4936.58s] English:** and adults too they have the idea oh i did okay in this i went into this job because those other  
+**[4931.34s] English:** Millions of kids in the school system have been given the message that they cannot do things.  
 **Translation:** 
 
-**[4944.16s] English:** things i could never have done okay in so actually when they hear hey maybe you could do those  
+**[4936.58s] English:** And adults, too; they have the idea, "Oh, I did okay in this. I went into this job because those other...  
 **Translation:** 
 
-**[4949.88s] English:** other things even adults think you know maybe i can and they go back and they encounter this  
+**[4944.16s] English:** Things I could never have done, okay. In so actually, when they hear, "Hey, maybe you could do those.  
 **Translation:** 
 
-**[4957.70s] English:** knowledge and they relearn things and they change careers and amazing things happen so for me i think  
+**[4949.88s] English:** Other things, even adults think you know, maybe I can, and they go back and they encounter this.  
 **Translation:** 
 
-**[4964.42s] English:** that message is really important you can learn anything scientists try and find a limit they're  
+**[4957.70s] English:** Knowledge and they relearn things, and they change careers, and amazing things happen. So, for me, I think  
+**Translation:** Vocabulary: encounter: 遇到
+
+**[4964.42s] English:** That message is really important. You can learn anything; scientists try and find a limit, but they rarely succeed.  
 **Translation:** 
 
-**[4970.32s] English:** always trying to find a limit like how much can you really learn what's the limit to how much you  
+**[4970.32s] English:** Always trying to find a limit, like how much can you really learn? What's the limit to how much you can?  
 **Translation:** 
 
-**[4973.64s] English:** can learn and they always come away not being able to find it people can just go further and further  
+**[4973.64s] English:** Can learn, and they always come away not being able to find it. People can just go further and further.  
 **Translation:** 
 
-**[4978.44s] English:** and further  
+**[4978.44s] English:** And further,...  
 **Translation:** 
 
-**[4978.98s] English:** and that is true of people born with brain um you know areas of their brain that aren't  
+**[4978.98s] English:** And that is true of people born with brains, um, you know, areas of their brain that aren't  
 **Translation:** 
 
-**[4985.66s] English:** functioning well that have what we call special needs some of those people also go on to develop  
+**[4985.66s] English:** Functioning well, that have what we call "special needs," some of those people also go on to develop.  
 **Translation:** 
 
-**[4990.72s] English:** and do amazing things so i think that really experiencing that knowing that feeling not just  
+**[4990.72s] English:** And do amazing things, so I think that really experiencing that, knowing that feeling—not just  
 **Translation:** 
 
-**[4999.00s] English:** saying it but knowing it deeply you can learn anything is um something i wish all people would  
+**[4999.00s] English:** Saying it, but knowing it deeply, you can learn anything—is something I wish all people would.  
 **Translation:** 
 
-**[5008.16s] English:** have  
+**[5008.16s] English:** Have  
 **Translation:** 
 
-**[5008.48s] English:** excellent  
+**[5008.48s] English:** Excellent.  
 **Translation:** 
 
-**[5008.98s] English:** actually also applies when you've achieved some level of success too what i find like in my life  
+**[5008.98s] English:** Actually, it also applies when you've achieved some level of success, too. What I find like in my life.  
 **Translation:** 
 
-**[5014.66s] English:** with people that love me when you achieve success they they keep celebrating your success and they  
+**[5014.66s] English:** With people who love me, when you achieve success, they keep celebrating your success and they...  
 **Translation:** 
 
-**[5020.68s] English:** want you to keep doing the thing that you were successful at as opposed to believing in that you  
+**[5020.68s] English:** Want you to keep doing the thing that you were successful at, as opposed to believing in that you  
 **Translation:** 
 
-**[5027.28s] English:** can do something else something big whatever your heart says to do right and one of the things that  
+**[5027.28s] English:** Can do something else, something big—whatever your heart says to do, right? And one of the things that  
 **Translation:** 
 
-**[5032.98s] English:** i realized the value of this um you know quite recently we've been doing this for a long time and  
+**[5032.98s] English:** I realized the value of this, you know, quite recently. We've been doing this for a long time, and...  
 **Translation:** 
 
-**[5038.98s] English:** it was just sad to say  
+**[5038.98s] English:** It was just sad to say.  
 **Translation:** 
 
-**[5040.00s] English:** is how important it is to seek out when you're younger to seek out mentors to seek out the  
+**[5040.00s] English:** Is how important it is to seek out mentors when you're younger.  
 **Translation:** 
 
-**[5045.88s] English:** people like surround yourself with people that will believe in you yeah it's like a little bit  
+**[5045.88s] English:** People like to surround themselves with people who will believe in you, yeah; it's a little bit like that.  
+**Translation:** Vocabulary: mentors: 导师
+
+**[5051.92s] English:** It's like, uh, you don't get that sometimes if you go to grad school.  
 **Translation:** 
 
-**[5051.92s] English:** is on you it's like uh you don't get that um sometimes if you go to like grad school  
+**[5059.48s] English:** You think you might land on a mentor, maybe you pick a mentor based on the topic they're knowledgeable about.  
+**Translation:** Vocabulary: knowledgeable: 有知识的; mentor: 导师
+
+**[5064.72s] English:** Interested in, but the reality is that the people you surround yourself with are going to define  
 **Translation:** 
 
-**[5059.48s] English:** you think you kind of land on a mentor maybe you pick a mentor based on the topic they're  
+**[5070.14s] English:** Your life trajectory: so, select people who are truly supportive and get away from those who aren't.  
 **Translation:** 
 
-**[5064.72s] English:** interested in but the reality is the people you surround yourself with they're going to define  
+**[5077.44s] English:** Believe in you, sometimes parents can be those who love you deeply, but they can also set  
 **Translation:** 
 
-**[5070.14s] English:** your life trajectory so select people that are really true and get away from people who don't  
-**Translation:** 
-
-**[5077.44s] English:** believe in you sometimes parents can be that they love you deeply but they be you know they set  
-**Translation:** 
-
-**[5084.18s] English:** it's the math thing we mentioned they might set certain constraints on the beliefs that you have  
+**[5084.18s] English:** It's the math thing we mentioned; they might set certain constraints on the beliefs you have.  
 **Translation:** Vocabulary: constraints: 限制
 
-**[5090.98s] English:** and so in that if you're interested in math  
+**[5090.98s] English:** And so, if you're interested in math,  
 **Translation:** 
 
-**[5094.70s] English:** mathematics, your parents are not that interested in it. Don't listen to your parents on that one  
+**[5094.70s] English:** Mathematics: Your parents are not that interested in it. Don't listen to them on that one.  
 **Translation:** 
 
-**[5098.32s] English:** dimension. Exactly. Yeah. And if people tell you you can't do things, you have to hear from other  
+**[5098.32s] English:** Dimension. Exactly. Yeah. And if people tell you you can't do things, you have to hear from others,  
 **Translation:** 
 
-**[5105.34s] English:** people who believe in you. I think you're absolutely right about that. So sad the number  
+**[5105.34s] English:** People who believe in you. I think you're absolutely right about that. So sad the number  
 **Translation:** Vocabulary: dimension: 维度
 
-**[5110.44s] English:** of people who've had those negative messages from parents. In my Limitless Mind book, I interviewed  
+**[5110.44s] English:** Of people who've had those negative messages from parents, in my Limitless Mind book, I interviewed  
 **Translation:** 
 
-**[5116.04s] English:** quite a few people who'd been told they couldn't do math, sometimes by parents, sometimes by  
+**[5116.04s] English:** Quite a few people who had been told they couldn't do math, sometimes by parents, sometimes by teachers,  
 **Translation:** 
 
-**[5120.66s] English:** teachers. And fortunately, they had got other ideas at some point in their life and realized  
+**[5120.66s] English:** Teachers. And fortunately, they had gotten other ideas at some point in their lives and realized  
 **Translation:** 
 
-**[5127.26s] English:** there was this whole world of mathematical thinking that was open to them. So it's really  
+**[5127.26s] English:** There was this whole world of mathematical thinking that was open to them. So, it's really  
 **Translation:** Vocabulary: mathematical: 数学的
 
-**[5133.92s] English:** important that people do connect with people who believe in them, however hard that might be to  
+**[5133.92s] English:** It's important that people do connect with people who believe in them, however hard that might be to.  
 **Translation:** 
 
-**[5140.56s] English:** find those people. What do you hope the education system, education in general, looks like 10, 20,  
+**[5140.56s] English:** Find those people. What do you hope the education system, in general, looks like in 10, 20,  
 **Translation:** 
 
 **[5147.62s] English:** 50, 100 years from now? Are you optimistic about that?  
 **Translation:** 
 
-**[5150.66s] English:** Yeah, I definitely have hope. There is change can happen in the education system. In recent years,  
+**[5150.66s] English:** Yeah, I definitely have hope. There is change that can happen in the education system. In recent years,  
+**Translation:** Vocabulary: optimistic: 乐观的
+
+**[5157.76s] English:** It's been microscopically slow.  
 **Translation:** 
 
-**[5157.76s] English:** it's been microscopically slow.  
+**[5160.00s] English:** Glow and, um, but I do actually see change happening. Like we were talking earlier, that  
+**Translation:** Vocabulary: microscopically: 极其缓慢地
+
+**[5168.78s] English:** Data science is now a course you can take in high school instead of algebra 2, and that's pretty cool.  
 **Translation:** 
 
-**[5160.00s] English:** glow and um but i do actually see change happening like we were talking earlier that  
-**Translation:** Vocabulary: microscopically: 显微般地
-
-**[5168.78s] English:** data science is now a course you can take in high school instead of algebra 2 and that's pretty  
+**[5175.02s] English:** Amazing because that content was set out in 1892 and hasn't changed since then, and so now we're  
 **Translation:** 
 
-**[5175.02s] English:** amazing because that content was set out in 1892 and hasn't changed since then and so now we're  
-**Translation:** Vocabulary: algebra: 代数
-
-**[5183.58s] English:** actually seeing a change in the content of high school so i'm amazed that that's happening and  
+**[5183.58s] English:** Actually, seeing a change in the content of high school, I'm amazed that it's happening and  
 **Translation:** 
 
-**[5189.70s] English:** very happy it's happening but so change is very slow in education usually but when you look ahead  
+**[5189.70s] English:** Very happy it's happening, but such change is very slow in education, usually. But when you look ahead,...  
 **Translation:** 
 
-**[5196.40s] English:** and think about all that we know and all that we can offer kids in terms of technology  
+**[5196.40s] English:** And think about all that we know and all that we can offer kids in terms of technology.  
 **Translation:** 
 
-**[5203.44s] English:** you've got to think that 100 years from now education will be totally different to the way  
+**[5203.44s] English:** You've got to think that 100 years from now, education will be totally different from the way  
 **Translation:** 
 
-**[5211.72s] English:** it is now maybe we won't have subject boundaries anymore because those don't really make much sense  
+**[5211.72s] English:** It is now, maybe, we won't have subject boundaries anymore because those don't really make much sense.  
 **Translation:** 
 
-**[5218.64s] English:** it's interesting  
+**[5218.64s] English:** It's interesting.  
 **Translation:** 
 
-**[5219.60s] English:** to think how certain tools like programming maybe they'll be deeply integrated and everything you  
+**[5219.60s] English:** To think how certain tools, like programming, might be deeply integrated into everything you do.  
 **Translation:** 
 
-**[5226.22s] English:** think yeah you would think that all kids are growing up learning to program and create so  
+**[5226.22s] English:** Think, yeah, you would think that all kids are growing up learning to program and create so.  
+**Translation:** Vocabulary: integrated: 融合
+
+**[5233.20s] English:** I just think, I mean, the system of schooling we have now people call it a "factory model.  
 **Translation:** 
 
-**[5233.20s] English:** i just think i mean the system of schooling we have now people call it a factory model  
+**[5238.08s] English:** It's not designed to inspire creativity, and I feel like that will also change how people might.  
 **Translation:** 
 
-**[5238.08s] English:** it's not designed to inspire creativity and i feel like that will also change people might  
+**[5247.86s] English:** Look back on these days, and think they were a little bit more creative, but they're not.  
 **Translation:** 
 
-**[5247.86s] English:** look back on these days and think they were a little bit more creative and they're not  
+**[5249.60s] English:** Hilarious, but maybe in the future kids will be doing their own programming and they'll be able  
+**Translation:** Vocabulary: hilarious: 滑稽
+
+**[5255.80s] English:** To learn things, find out things, and create things, even as they're learning and  
 **Translation:** 
 
-**[5249.60s] English:** hilarious but maybe we'll in the future kids will be doing their own programming and they'll be able  
+**[5259.76s] English:** Maybe the individual subject boundaries will go, and data science itself will come into the education.  
 **Translation:** 
 
-**[5255.80s] English:** to learn things and find out things and create things even as they're learning and  
+**[5268.40s] English:** System kind of illustrates that because people realize it doesn't really fit inside any of the  
 **Translation:** 
 
-**[5259.76s] English:** maybe the individual subject boundaries will go data science itself coming into the education  
-**Translation:** 
-
-**[5268.40s] English:** system kind of illustrates that because people realize it doesn't really fit inside any of the  
-**Translation:** 
-
-**[5275.04s] English:** subjects so what do we do with it where does it go and  
+**[5275.04s] English:** Subjects, so what do we do with it? Where does it go, and  
 **Translation:** Vocabulary: illustrates: 举例说明
 
-**[5279.60s] English:** what can we do about it and that's the information I i just want to We've gotten theマン a  
+**[5279.60s] English:** What can we do about it, and that's the information I just want to share. We've gotten the 曼.  
 **Translation:** 
 
-**[5283.88s] English:** lot.  
+**[5280.00s] English:** Who teaches it? So, it's already raising those kinds of questions and questioning how we have these different subject boundaries.  
 **Translation:** 
 
-**[5284.24s] English:** I don't have a that the kind of information that I should think that it's going to fit in there  
+**[5283.88s] English:** Lot.  
 **Translation:** 
 
-**[5286.42s] English:** but we are.  
+**[5284.24s] English:** I don't have that kind of information, so I shouldn't think that it's going to fit in there.  
+**Translation:** 
+
+**[5286.42s] English:** But we are.  
 **Translation:** 
 
 **[5286.88s] English:** But I want to say.  
 **Translation:** 
 
-**[5287.38s] English:** We want this thing you can do my publisher I think so that's pretty great have nothing but  
+**[5287.38s] English:** We want this thing; you can do it for my publisher. I think so, that's pretty great. We have nothing but  
 **Translation:** 
 
-**[5292.92s] English:** knowledge not just knowing more about 30がき crops and nature research still a lot of  
+**[5288.68s] English:** So, have you seen data science be integrated into the curriculum? Yes, it's happening across the United States as we speak.  
 **Translation:** 
 
-**[5297.66s] English:** it knows what and we want you know how to understand it you want to research how you want to  
+**[5292.92s] English:** Knowledge is not just knowing more about 30 types of crops and nature; there's still a lot of research to be done.  
 **Translation:** 
 
-**[5303.88s] English:** engage on it,  
+**[5295.56s] English:** I wonder how they got initiated, and how change happens in the education system?  
+**Translation:** Vocabulary: initiated: 开始
+
+**[5297.66s] English:** It knows what, and we want you to know how to understand it. You want to research how you want to.  
 **Translation:** 
 
-**[5304.50s] English:** And we want to teach our children so much to resolve the problem no one wants to see  
+**[5299.46s] English:** Is it just a few revolutionaries, like it does? I think so.  
 **Translation:** 
 
-**[5280.00s] English:** Who teaches it? So it's already raising those kind of questions and questioning how we have these different subject boundaries  
+**[5303.50s] English:** I think so. It's been an interesting journey seeing data science take off, actually.  
 **Translation:** 
 
-**[5288.68s] English:** So you've seen data science be integrated into the curriculum? Yes, it's happening across the United States as we speak  
+**[5303.88s] English:** Engage with it,  
 **Translation:** 
 
-**[5295.56s] English:** I wonder how they got initiated and like how does change happen in the education system?  
-**Translation:** 
-
-**[5299.46s] English:** Is it just a few revolutionary like it does? I think so  
-**Translation:** Vocabulary: initiated: 入会受训
-
-**[5303.50s] English:** I think so. It's been an interesting journey seeing data science take off actually it  
+**[5304.50s] English:** And we want to teach our children so much, to resolve the problem that no one wants to see.  
 **Translation:** 
 
 **[5308.24s] English:** There was a  
 **Translation:** 
 
-**[5311.12s] English:** course that was developed in 2014  
+**[5311.12s] English:** Course that was developed in 2014.  
 **Translation:** 
 
-**[5314.48s] English:** by some people who thought data science was a good idea for high schoolers and  
+**[5314.48s] English:** By some people who thought data science was a good idea for high schoolers, and  
 **Translation:** Vocabulary: schoolers: 中学生
 
-**[5319.30s] English:** Then after some kids took the course and nothing bad happened to them  
+**[5319.30s] English:** Then, after some kids took the course and nothing bad happened to them.  
 **Translation:** 
 
-**[5323.92s] English:** They went to college and people started to accept it more  
+**[5323.92s] English:** They went to college, and people started to accept it more.  
 **Translation:** 
 
-**[5328.52s] English:** And then this was a big piece of the change in California the UC system communicated  
+**[5328.52s] English:** And then, this was a big piece of the change in California. The UC system communicated  
 **Translation:** 
 
-**[5334.42s] English:** They sent out an email last year to 50,000 high schools saying  
-**Translation:** Vocabulary: california: 加利福尼亚
+**[5334.42s] English:** They sent out an email last year to 50,000 high schools, saying,...  
+**Translation:** 
 
 **[5338.00s] English:** We  
 **Translation:** 
 
-**[5338.30s] English:** Incredible you know we now accept data science kids can take it instead of Algebra II  
-**Translation:** Vocabulary: algebra: 代数
-
-**[5342.60s] English:** That's a perfectly legitimate college pathway  
+**[5338.30s] English:** Incredible, you know—we now accept data science kids can take it instead of Algebra II.  
 **Translation:** 
 
-**[5345.46s] English:** So that was like a big green light for a lot of schools or like  
-**Translation:** Vocabulary: pathway: 合法途径
-
-**[5350.10s] English:** Wondering about whether they could teach it so I think it happens in small spaces and expands so now  
+**[5342.60s] English:** That's a perfectly legitimate college pathway.  
 **Translation:** 
 
-**[5356.58s] English:** goes viral. Yeah in this modern age then it goes viral California is ahead  
-**Translation:** Vocabulary: viral: 迅速传播
+**[5345.46s] English:** So, that was like a big green light for a lot of schools, or like  
+**Translation:** Vocabulary: legitimate: 正当的; pathway: 途径
 
-**[5361.92s] English:** I think in creating courses and having kids go through it, but it's  
+**[5350.10s] English:** Wondering whether they could teach it, so I think it happens in small spaces and expands, so now  
 **Translation:** 
 
-**[5366.90s] English:** And suddenly, when I last looked, there were 12 states that were allowing data science as a high school course. And I think by next year, that will have doubled or more. So, change is happening.  
+**[5356.58s] English:** Goes viral. Yeah, in this modern age, it goes viral. California is ahead.  
+**Translation:** Vocabulary: california: 加利福尼亚; expands: 扩展; viral: 病毒式传播
+
+**[5361.92s] English:** I think, in creating courses and having kids go through it, but it's  
 **Translation:** 
 
-**[5380.22s] English:** Joe, as I said, I think mathematics is truly a beautiful subject. And you having an impact on millions of people's lives by educating them, by inspiring teachers to educate in the ways that you've talked about in multidimensional ways.  
+**[5366.90s] English:** And suddenly, when I last looked, there were 12 states that were allowing data science as a high school course. And I think by next year, that will have doubled—or even more. So, change is happening.  
 **Translation:** 
 
-**[5400.00s] English:** ways um i think it's incredible so you're you're spreading beauty into the world so i really really  
-**Translation:** Vocabulary: multidimensional: 多维度的
-
-**[5407.00s] English:** appreciate that you spend your valuable time with me today thank you for talking thank you it was  
+**[5380.22s] English:** Joe, as I said, I think mathematics is truly a beautiful subject. And you, having an impact on millions of people's lives by educating them, by inspiring teachers to educate in the ways that you've talked about—multidimensional ways.  
 **Translation:** 
 
-**[5410.48s] English:** really good to talk to you thanks for listening to this conversation with joe bowler to support  
+**[5400.00s] English:** Ways, um, I think it's incredible. So you're spreading beauty into the world, so I really, really  
+**Translation:** Vocabulary: educating: 教育; multidimensional: 多维度的
+
+**[5407.00s] English:** Appreciate that you spent your valuable time with me today. Thank you for talking. Thank you, it was.  
 **Translation:** 
 
-**[5415.70s] English:** this podcast please check out our sponsors in the description and now let me leave you with some  
+**[5410.48s] English:** Really good to talk to you! Thanks for listening to this conversation with Joe Bowler to support.  
 **Translation:** 
 
-**[5420.96s] English:** words from albert einstein pure mathematics is the poetry of logical ideas thanks for listening  
+**[5415.70s] English:** This podcast: please, check out our sponsors in the description, and now let me leave you with some.  
+**Translation:** 
+
+**[5420.96s] English:** Words from Albert Einstein: "Pure mathematics is the poetry of logical ideas." Thanks for listening.  
 **Translation:** Vocabulary: einstein: 爱因斯坦; sponsors: 赞助商
 
-**[5429.50s] English:** and hope to see you next time  
+**[5429.50s] English:** And hope to see you next time!  
 **Translation:** 
 
 

@@ -1,7168 +1,7172 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Jack Barsky： KGB Spy ｜ Lex Fridman Podcast #301.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Меня вынудили пойти на этот шаг.  
+**[0.00s] English:** I was forced to take this step.  
 **Translation:** 
 
-**[5.50s] English:** Советский агент впервые находился вблизи меня, на территории США.  
-**Translation:** 
+**[5.50s] English:** A Soviet agent was first in close proximity to me on U.S. territory.  
+**Translation:** Vocabulary: proximity: 近距离
 
-**[12.12s] English:** Я ждал поезд ранним утром в Куинсе, было еще темно.  
+**[12.12s] English:** I was waiting for the train early in the morning in Queens; it was still dark.  
 **Translation:** 
 
-**[16.36s] English:** Ко мне с правой стороны подошел мужчина в черном плаще и прошептал на ухо,  
-**Translation:** 
+**[16.36s] English:** To my right side, a man in a black cloak approached and whispered into my ear.  
+**Translation:** Vocabulary: approached: 走近; cloak: 斗篷; whispered: 耳语
 
-**[27.00s] English:** «Ты должен вернуться, иначе тебе конец».  
+**[27.00s] English:** You must return, or else it's the end.  
 **Translation:** 
 
-**[30.00s] English:** Это разговор с Джеком Барски, бывшим шпионом КГБ,  
-**Translation:** 
+**[30.00s] English:** This is a conversation with Jack Barshki, a former KGB spy,  
+**Translation:** Vocabulary: barshki: 巴尔什基
 
-**[36.74s] English:** автором книги «Глубоко под прикрытием» и героем отличного подкаста «Агент».  
+**[36.74s] English:** Author of the book "Deep Cover" and hero of the great podcast "Agent".  
 **Translation:** 
 
-**[43.36s] English:** Очень немногие люди дезертировали из КГБ, остались в живых и рассказали свою историю.  
+**[43.36s] English:** Very few people deserted from the KGB, survived, and told their story.  
 **Translation:** 
 
-**[49.34s] English:** КГБ – одно из самых могущественных разведагентств в истории,  
+**[49.34s] English:** KGB was one of the most powerful intelligence agencies in history.  
 **Translation:** 
 
-**[53.48s] English:** и этот разговор дает возможность заглянуть в его работу  
+**[53.48s] English:** And this conversation gives an opportunity to peek into his work.  
 **Translation:** 
 
-**[56.92s] English:** как с идеологической и психологической стороны,  
+**[56.92s] English:** How, from an ideological and psychological standpoint,  
 **Translation:** 
 
-**[60.80s] English:** так и через призму жизни человека, прожившего по-настоящему невероятную жизнь.  
-**Translation:** 
+**[60.80s] English:** So, through the lens of a person who has lived a truly incredible life.  
+**Translation:** Vocabulary: ideological: 思想的; standpoint: 立场
 
-**[68.24s] English:** Это подкаст Лекса Фридмана.  
+**[68.24s] English:** This is the Lex Fridman Podcast.  
 **Translation:** 
 
-**[70.52s] English:** Чтобы поддержать нас, посмотрите спонсоров в описании.  
-**Translation:** 
+**[70.52s] English:** To support us, check out the sponsors in the description.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[73.82s] English:** Теперь же, дорогие друзья, к Джеку Барски.  
+**[73.82s] English:** Now, dear friends, to Jack Barski.  
 **Translation:** 
 
-**[77.88s] English:** Начнем с простого, но важного вопроса.  
+**[77.88s] English:** Let's start with a simple but important question.  
 **Translation:** 
 
-**[80.34s] English:** Что такое КГБ?  
+**[80.34s] English:** What is the KGB?  
 **Translation:** 
 
-**[82.18s] English:** Комитет государственной безопасности.  
+**[82.18s] English:** Committee for State Security.  
 **Translation:** 
 
-**[85.18s] English:** Правильно.  
+**[85.18s] English:** Correct.  
 **Translation:** 
 
-**[86.20s] English:** Комитет государственной безопасности.  
+**[86.20s] English:** Committee for State Security.  
 **Translation:** 
 
-**[88.00s] English:** Безопасность.  
+**[88.00s] English:** Security.  
 **Translation:** 
 
-**[90.00s] English:** Опасность – это угроза, верно?  
+**[90.00s] English:** Danger is a threat, right?  
 **Translation:** 
 
-**[93.26s] English:** Угроза.  
+**[93.26s] English:** Threat.  
 **Translation:** 
 
-**[93.90s] English:** А без означает…  
+**[93.90s] English:** Without means...  
 **Translation:** 
 
-**[95.42s] English:** Отсутствие.  
+**[95.42s] English:** Absence.  
 **Translation:** 
 
-**[96.86s] English:** Получается, дословно можно перевести как «без угрозы».  
-**Translation:** 
+**[96.86s] English:** It translates literally as "without threat.  
+**Translation:** Vocabulary: translates: 翻译
 
-**[100.38s] English:** Но он больше не существует.  
+**[100.38s] English:** But he no longer exists.  
 **Translation:** 
 
-**[104.54s] English:** КГБ расформировали после распада Советского Союза,  
-**Translation:** 
+**[104.54s] English:** The KGB was disbanded after the dissolution of the Soviet Union.  
+**Translation:** Vocabulary: dissolution: 解散
 
-**[109.52s] English:** а его преемниками стали СВР и ФСБ.  
+**[109.52s] English:** His successors were the FSB and SVR.  
 **Translation:** 
 
-**[112.80s] English:** ФСБ формально эквивалентно ФБР, а СВР – ЦРУ.  
+**[112.80s] English:** The FSB is formally equivalent to the FBI, while the SVR is equivalent to the CIA.  
 **Translation:** 
 
-**[117.12s] English:** Но…  
+**[117.12s] English:** But...  
 **Translation:** 
 
-**[117.80s] English:** СВР довольно слабая структура,  
+**[117.80s] English:** SVR is a rather weak structure,  
 **Translation:** 
 
-**[120.88s] English:** ФСБ взяла на себя большую часть разведки и активные мероприятия. Они стали гораздо больше и сильнее. Однако, самой мощной разведывательной организацией России является военная разведка, ГРУ.  
+**[120.88s] English:** FSB took on a larger portion of intelligence gathering and active operations. They have become much bigger and stronger. However, the most powerful intelligence organization in Russia is the military intelligence agency, GRU.  
 **Translation:** 
 
-**[136.70s] English:** О которой почти ничего никто не знает.  
+**[136.70s] English:** Of which almost nobody knows anything.  
 **Translation:** 
 
-**[138.60s] English:** Верно. Когда я служил в КГБ, я вообще не знал, что существует военная разведка. Никто о ней не говорил. Кстати, недавно я выступал с лекцией в РУМО. О них я тоже не знал, пока они со мной не связались.  
+**[138.60s] English:** Correct. When I served in the KGB, I didn't even know that military intelligence existed. Nobody mentioned it. By the way, recently I gave a lecture at RUMO. I also didn't know about them until they contacted me.  
 **Translation:** 
 
-**[155.20s] English:** Интересно. Это вечный вопрос. Если ты создаешь разведывательное агентство, нужно ли, чтобы о нем кто-то знал?  
-**Translation:** 
+**[155.20s] English:** Interesting. This is a eternal question. If you are creating a reconnaissance agency, does it need to be known by anyone?  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[162.58s] English:** С одной стороны, стоит придумать легенду, чтобы привлекать талантливых специалистов.  
+**[162.58s] English:** On one hand, it's worth coming up with a legend to attract talented specialists.  
 **Translation:** 
 
-**[168.60s] English:** Но, в то же время, лучше, если о вашем существовании никто не знает. И если никто о нем не знает, разведагентство сможет эффективно работать в тени.  
+**[168.60s] English:** But, at the same time, it's better if no one knows about your existence. And if no one knows about it, the intelligence agency can effectively work in the shadows.  
 **Translation:** 
 
-**[181.16s] English:** Интересный вопрос. ФСБ сейчас несет знамя КГБ. А КГБ, пожалуй, одно из самых известных, если не самое известное и могущественное разведывательное агентство.  
+**[181.16s] English:** An interesting question. The FSB now carries the banner of the KGB. And the KGB, perhaps one of the most famous, if not the most famous and powerful intelligence agency.  
 **Translation:** 
 
-**[199.28s] English:** В истории. Именно так. Сто процентов.  
+**[199.28s] English:** In history. Exactly. One hundred percent.  
 **Translation:** 
 
-**[201.90s] English:** КГБ основали в 1954 году после смерти Сталина. В своей книге вы описываете историю разведывательных агентств. Можно ли сказать, что КГБ унаследовал культуру, дух, суть своих предшественников?  
+**[201.90s] English:** The KGB was founded in 1954 after Stalin's death. In your book, you describe the history of intelligence agencies. Can we say that the KGB inherited the culture, spirit, and essence of its predecessors?  
 **Translation:** 
 
-**[223.24s] English:** Полностью. Менялось только название и люди.  
-**Translation:** 
+**[223.24s] English:** Completely. Only the name and people changed.  
+**Translation:** Vocabulary: inherited: 继承; predecessors: 前任
 
-**[228.60s] English:** Это во многом было связано с паранойей Сталина. С 1923 года, не помню, кажется, тогда был НКВД.  
+**[228.60s] English:** This was largely related to Stalin's paranoia. Starting from 1923, I don't remember exactly, but it seems to be when the NKVD was established.  
 **Translation:** 
 
-**[240.00s] English:** Сначала была ЧК, затем ГПУ, потом НКВД. Менялись как названия, так и руководители. С 1923 по 1953  
-**Translation:** 
+**[240.00s] English:** First was the Cheka, then the GPU, and later the NKVD. Names and leaders changed alike. From 1923 to 1953,  
+**Translation:** Vocabulary: cheka: 契卡; paranoia: 妄想
 
-**[257.44s] English:** год, когда умер Сталин, за 30 лет советской разведки сменилось 8 руководителей, из них  
+**[257.44s] English:** The year when Stalin died, over 30 years of Soviet intelligence saw eight different leaders at the helm.  
 **Translation:** 
 
-**[264.42s] English:** шесть были казнены после отставки. Это говорит о том, что организация буквально пожирала сама себя.  
-**Translation:** 
+**[264.42s] English:** Six were executed after the fall from power. This speaks to the fact that the organization was literally devouring itself.  
+**Translation:** Vocabulary: devouring: 吞噬; executed: 处决
 
-**[277.56s] English:** Советский Союз был единственной диктатурой в истории, которая держалась не на армии,  
+**[277.56s] English:** The Soviet Union was the only dictatorship in history that held power not on an army,  
 **Translation:** 
 
-**[284.76s] English:** а на спецслужбах, и эта система была нестабильной. Очевидно, к чему все ведет. Если ты строишь власть  
-**Translation:** 
+**[284.76s] English:** At special services agencies, and this system was unstable. Clearly, this leads to something. If you're building power,  
+**Translation:** Vocabulary: dictatorship: 独裁; unstable: 不稳定的
 
-**[293.82s] English:** на фундаменте, ты будешь строить власть на фундаменте. Если ты строишь власть на фундаменте,  
+**[293.82s] English:** On the foundation, you will build power on the foundation. If you build power on the foundation,  
 **Translation:** 
 
-**[294.40s] English:** который не способен выдерживать нагрузку, он в итоге развалится.  
-**Translation:** 
+**[294.40s] English:** Which is unable to withstand the load, it will eventually fall apart.  
+**Translation:** Vocabulary: withstand: 承受
 
-**[300.30s] English:** На песке? Ага.  
+**[300.30s] English:** On the sand? Aga.  
 **Translation:** 
 
-**[302.20s] English:** Почему эта система была нестабильной? Из-за паранойи Сталин всегда боялся,  
+**[302.20s] English:** Why was this system unstable? Due to Stalin's paranoia, he always feared,  
 **Translation:** 
 
-**[309.64s] English:** что за ним придут самые сильные люди, поэтому проактивно устранял руководителя КГБ. Он уничтожил  
+**[309.64s] English:** What they sent in to follow him were the strongest men, so he proactively eliminated the KGB leader. He eliminated him.  
 **Translation:** 
 
-**[318.22s] English:** множество талантливых генералов во время чисток.  
-**Translation:** 
+**[318.22s] English:** A multitude of talented generals during the purges.  
+**Translation:** Vocabulary: multitude: 众多; proactively: 主动; purges: 清洗运动
 
-**[324.40s] English:** И это дорого обошлось Советскому Союзу в начале Второй мировой войны. Они были не так  
+**[324.40s] English:** And this was expensive for the Soviet Union at the beginning of World War II. They were not so  
 **Translation:** 
 
-**[337.30s] English:** сильны, как могли бы быть. Паранойя существовала на всех уровнях?  
-**Translation:** 
+**[337.30s] English:** Strong, as they could have been. Was paranoia present at all levels?  
+**Translation:** Vocabulary: paranoia: 妄想症
 
-**[342.70s] English:** Думаю, да. Рыба гниет с головы. Если руководство тебе не доверяет, ты постоянно боишься, что тебя  
+**[342.70s] English:** I think so. The fish rots from the head. If the leadership doesn't trust you, you constantly fear that you will be  
 **Translation:** 
 
-**[354.40s] English:** сдаст кто-то из коллег. Полагаю, такая же ситуация разворачивается.  
-**Translation:** 
+**[354.40s] English:** Someone from the colleagues will turn in the report. I assume a similar situation is unfolding.  
+**Translation:** Vocabulary: colleagues: 同事; unfolding: 发生
 
-**[360.00s] English:** в России и сегодня. В подобной атмосфере верхушка никогда не узнает правды.  
+**[360.00s] English:** In Russia today, at the top of the hierarchy, the truth will never be known in such an atmosphere.  
 **Translation:** 
 
-**[370.08s] English:** Получается, независимо от идеологии, доверие — это основа эффективности разведки?  
-**Translation:** 
+**[370.08s] English:** It turns out that trust is the foundation of effective intelligence, regardless of ideology?  
+**Translation:** Vocabulary: hierarchy: 等级制度; ideology: 意识形态
 
-**[378.06s] English:** Сто процентов. Причем это касается и моей собственной жизни. Это странно,  
+**[378.06s] English:** Sto percent. In fact, this applies to my own life as well. It's strange,  
 **Translation:** 
 
-**[384.78s] English:** даже почти парадоксально, что я сам жил во лжи. И по сути, мне нельзя было доверять. Но мои  
-**Translation:** 
+**[384.78s] English:** Even paradoxically, I myself lived in lies. And essentially, I could not be trusted. But my  
+**Translation:** Vocabulary: paradoxically: 矛盾地
 
-**[396.30s] English:** отношения с КГБ строились на доверии. Если мне не доверяют, мне не дадут задания. Если я им не  
+**[396.30s] English:** Relationships with the KGB were built on trust. If they don't trust me, they won't give me assignments. If I am not  
 **Translation:** 
 
-**[403.68s] English:** доверяю, я не еду. В итоге я это доверие нарушил. И они знали, что такое может случиться.  
+**[403.68s] English:** I don't trust him; I'm not going. In the end, I broke that trust, and they knew it could happen.  
 **Translation:** 
 
-**[410.10s] English:** Что вы, или скорее просто любой человек,  
+**[410.10s] English:** What you, or rather any person,  
 **Translation:** 
 
-**[414.14s] English:** может не доверять.  
+**[414.14s] English:** May not trust.  
 **Translation:** 
 
-**[414.76s] English:** Может сломаться?  
+**[414.76s] English:** May it break?  
 **Translation:** 
 
-**[415.36s] English:** Нет, были намеки, исходя из срока моей миссии, 10-12 лет. Это логично. Со временем я все больше  
+**[415.36s] English:** No, there were hints based on the duration of my mission, 10-12 years. This makes sense. Over time, I became more  
 **Translation:** 
 
-**[427.54s] English:** становился американцем. Всегда был риск, что мне здесь понравится больше, чем там,  
+**[427.54s] English:** Became an American citizen. There was always a risk that I would like living here more than there.  
 **Translation:** 
 
-**[434.50s] English:** и что я добьюсь успеха в том, что мне нужно было делать. Так и произошло. Но из-за того,  
+**[434.50s] English:** And what I achieved success in what I needed to do. And that's how it happened. But due to the fact,  
 **Translation:** 
 
-**[444.16s] English:** что я стал более и более сильным, я стал более и более сильным. И я стал более и более сильным.  
+**[444.16s] English:** What I became stronger and stronger, I became stronger and stronger, and I became stronger and stronger.  
 **Translation:** 
-
-**[444.74s] English:** Как вы узнали, я остался молодым ребенком, был он стар premiere, он unsuccessful.  
-**Translation:** Vocabulary: unsuccessful: 不成功
 
-**[445.44s] English:** Я стал отцом, и я не захотел бросать ребенка, когда меня отозвали назад.  
+**[444.74s] English:** As you know, I remained a young child, but he was an old Premiere and unsuccessful.  
 **Translation:** 
 
-**[450.40s] English:** Любовь всегда разрушает..  
+**[445.44s] English:** I became a father, and I didn't want to leave the child when they called me back.  
 **Translation:** 
 
-**[452.18s] English:** О då passe.  
+**[450.40s] English:** Love always destroys....  
 **Translation:** 
 
-**[452.74s] English:** Карьерные планы.  
+**[452.18s] English:** Okay, then pass.  
 **Translation:** 
 
-**[455.50s] English:** Ты абсолютно прав.  
+**[452.74s] English:** Career plans.  
 **Translation:** 
 
-**[457.34s] English:** Но они думали, что у меня есть якорь, жена и сын дома. А за семью стоит  
+**[455.50s] English:** You are absolutely right.  
 **Translation:** 
 
-**[469.08s] English:** беспокоиться если ты дезертируешь, потому что раньшеiger можно было сказать, что я младший, prison . Потому что раньше, когда я был дезертированным, мне хотелинить, что мы общались.  
-**Translation:** 
+**[457.34s] English:** But they thought I had an anchor, a wife, and a son at home. And behind the family stands.  
+**Translation:** Vocabulary: anchor: 稳定
 
-**[470.72s] English:** Неsell отмечает, что моими детскими, с человеком прямо за собой, я действительно был и как я ну10 now – не знаю как.  
+**[469.08s] English:** Be worried if you desert, because earlier one could say that I was younger, in prison. Because earlier, when I was a deserter, they wanted to say that we communicated.  
 **Translation:** 
 
-**[472.26s] English:** . Miles.  
+**[470.72s] English:** Nesell notes that my children's photos, with a person right behind me, I was indeed there and as I now — I don't know how.  
 **Translation:** 
 
-**[473.18s] English:** Потому что раньше КГБ их не щадил.  
+**[472.26s] English:** Miles.  
 **Translation:** 
 
-**[477.68s] English:** Они были безжалостны.  
+**[473.18s] English:** Because the KGB didn't spare them before.  
 **Translation:** 
 
-**[481.00s] English:** Включая, возможно, насилие?  
+**[477.68s] English:** They were merciless.  
 **Translation:** 
 
-**[483.14s] English:** Да.  
-**Translation:** 
+**[481.00s] English:** Including, possibly, violence?  
+**Translation:** Vocabulary: merciless: 残酷无情
 
-**[483.74s] English:** Сложный вопрос про КГБ. Это одна из самых беспощадных организаций.  
+**[483.14s] English:** Yes.  
 **Translation:** 
 
-**[489.72s] English:** Но были ли у агентуры КГБ любого уровня какие-то границы?  
-**Translation:** 
+**[483.74s] English:** A complex question about the KGB. This is one of the most ruthless organizations.  
+**Translation:** Vocabulary: ruthless: 残酷的
 
-**[500.38s] English:** Политические, юридические, моральные? Или ради достижения цели допустимо все?  
+**[489.72s] English:** But were there any boundaries at all for the KGB's agents?  
 **Translation:** 
 
-**[505.04s] English:** Я взаимодействовал только с двумя типами агентов.  
-**Translation:** 
+**[500.38s] English:** Political, legal, moral? Or is everything permissible in pursuit of a goal?  
+**Translation:** Vocabulary: permissible: 允许的; pursuit: 追求
 
-**[512.66s] English:** Были технические специалисты, они учили меня методам работы.  
+**[505.04s] English:** I interacted only with two types of agents.  
 **Translation:** 
 
-**[517.50s] English:** Инженеры, которые занимались шифрованием, азбукой Морзе,  
-**Translation:** 
+**[512.66s] English:** There were technical specialists who taught me the methods of working.  
+**Translation:** Vocabulary: interacted: 交流
 
-**[526.32s] English:** коротковолновой радиопередачей, расшифровкой.  
+**[517.50s] English:** Engineers who worked on encryption and Morse code,  
 **Translation:** 
 
-**[532.16s] English:** Они просто делали свою работу.  
-**Translation:** 
+**[526.32s] English:** Shortwave radio transmission, decoding.  
+**Translation:** Vocabulary: encryption: 加密; morse: 莫尔斯码; shortwave: 短波
 
-**[536.04s] English:** А были те, кто готовил меня к жизни в США.  
+**[532.16s] English:** They simply did their job.  
 **Translation:** 
 
-**[543.28s] English:** Это были приятные, интеллигентные люди.  
+**[536.04s] English:** There were those who prepared me for life in the U.S.  
 **Translation:** 
 
-**[547.28s] English:** Не думаю, что они... они не вписывались в стереотип беспощадных агентов с оружием.  
+**[543.28s] English:** These were pleasant, intelligent people.  
 **Translation:** 
 
-**[559.02s] English:** Возможно ли, что вы просто не знали о силовой части КГБ?  
-**Translation:** 
+**[547.28s] English:** I don't think they fit the stereotype of ruthless agents with weapons.  
+**Translation:** Vocabulary: stereotype: 刻板印象
 
-**[563.54s] English:** Ввиду распределения, может быть, вы не знали о тех, кто выступал в качестве жёсткой силы?  
+**[559.02s] English:** Is it possible that you simply didn't know about the KGB's operational side?  
 **Translation:** 
 
-**[571.04s] English:** Да, не знал. Я узнал об этом после, когда ушёл и начал изучать эту тему.  
+**[563.54s] English:** Due to the distribution, you may not have known about those who acted as hard power?  
 **Translation:** 
 
-**[579.04s] English:** Я и понятия не имел.  
+**[571.04s] English:** Yes, I didn't know. I found out about it after I left and started studying the topic.  
 **Translation:** 
 
-**[580.54s] English:** То есть, вы оперировали в вакууме?  
+**[579.04s] English:** I had no idea.  
 **Translation:** 
 
-**[582.54s] English:** Да, именно так.  
+**[580.54s] English:** So, you operated in a vacuum?  
 **Translation:** 
 
-**[583.54s] English:** КГБ прекрасно освоили принцип «разделяй и властвуй».  
-**Translation:** 
+**[582.54s] English:** Yes, exactly.  
+**Translation:** Vocabulary: vacuum: 空缺状态
 
-**[588.54s] English:** Это пошло с тех пор, когда...  
+**[583.54s] English:** The KGB mastered the principle of "divide and conquer" very well.  
 **Translation:** 
 
-**[591.54s] English:** Коммунистическая революция.  
-**Translation:** 
+**[588.54s] English:** This has gone on since...  
+**Translation:** Vocabulary: mastered: 掌握
 
-**[592.54s] English:** Коммунистическая революция.  
+**[591.54s] English:** Communist Revolution.  
 **Translation:** 
 
-**[593.54s] English:** Тамけて.  
+**[592.54s] English:** Communist Revolution.  
 **Translation:** 
 
-**[594.54s] English:** Академика.  
+**[593.54s] English:** Tamkye.  
 **Translation:** 
+
+**[594.54s] English:** Academician.  
+**Translation:** Vocabulary: academician: 院士
 
-**[595.54s] English:** Да, да.  
+**[595.54s] English:** Yes, yes.  
 **Translation:** 
 
-**[596.54s] English:** Академическая революция.  
+**[596.54s] English:** Academic Revolution.  
 **Translation:** 
 
-**[597.54s] English:** Академическая революция.  
+**[597.54s] English:** Academic Revolution.  
 **Translation:** 
 
-**[598.54s] English:** ... То есть крем-д Winston и gibson и Geithner.  
+**[598.54s] English:** ... That is, the cream-d Winston and Gibson and Geithner.  
 **Translation:** Vocabulary: geithner: 盖特纳; gibson: 吉本斯; winston: 温斯坦
 
-**[599.54s] English:** По-моему, крем-д и莎нс.  
+**[599.54s] English:** According to me, it's a cream-d sans.  
 **Translation:** 
 
-**[600.54s] English:** Составляет Imperialleich.  
+**[600.00s] English:** The people were familiar with each other, but only one maintained a connection with another group. Thus,  
 **Translation:** 
 
-**[601.54s] English:** По..]...  
+**[600.54s] English:** 组成的 Imperial League.  
 **Translation:** 
 
-**[602.54s] English:** Изменили в ЕАЭС на это все.  
+**[601.54s] English:** Po....].....  
+**Translation:** Vocabulary: imperial: 帝國的
+
+**[602.54s] English:** Changed it all in the EAES.  
 **Translation:** 
 
-**[603.54s] English:** До чего сейчас это всё под 그랬ину?  
+**[603.54s] English:** What has all of this been worth it lately?  
 **Translation:** 
 
-**[604.54s] English:** leather nipple.  
+**[604.54s] English:** Leather nipple.  
+**Translation:** 
+
+**[605.54s] English:** And one more thing.  
 **Translation:** Vocabulary: nipple: 乳头
 
-**[605.54s] English:** И еще самое.  
+**[606.54s] English:** By the way, cream-d and steel in Black were not sharpening.  
 **Translation:** 
 
-**[606.54s] English:** Между прочим, крем-д и steel вBlack were not sharpening.  
-**Translation:** Vocabulary: sharpening: 磨刀
+**[607.86s] English:** If anyone was caught, he could betray a maximum of three or four people. The KGB continued this practice.  
+**Translation:** Vocabulary: betray: 出卖
 
-**[609.54s] English:** amongst everything.  
+**[609.54s] English:** Among everything.  
 **Translation:** 
 
-**[610.54s] English:** Это было, как бы,ystерical enamination.  
-**Translation:** 
-
-**[612.54s] English:** Я буду забывать, медленно, coursing through steel-making,  
-**Translation:** 
+**[610.54s] English:** This was, as it were, hysterical emanation.  
+**Translation:** Vocabulary: emanation: 气息; hysterical: 歇斯底里的
 
-**[615.54s] English:** there were almost half a pound of material on each muscle,  
+**[612.54s] English:** I will forget, slowly, coursing through steel-making.  
 **Translation:** 
 
-**[618.54s] English:** and it must have been, I cannot say, 11 months even,  
+**[615.54s] English:** There were almost half a pound of material on each muscle.  
 **Translation:** 
 
-**[600.00s] English:** знакомых друг с другом человека, и только один поддерживал связь с другой группой. Так,  
-**Translation:** Vocabulary: cannot: 不能
-
-**[607.86s] English:** если кого-то ловили, он мог сдать максимум трех-четырех человек. КГБ продолжил эту  
+**[618.30s] English:** Tradition. I have reason to believe that my curator in Moscow, the one who made the decisions,  
 **Translation:** 
 
-**[618.30s] English:** традицию. У меня есть основания полагать, что мой куратор в Москве, тот, кто принимал решения и  
-**Translation:** 
+**[618.54s] English:** And it must have been—I cannot say, 11 months, even.  
+**Translation:** Vocabulary: cannot: 不能; curator: 策展人; moscow: 莫斯科
 
-**[628.34s] English:** давал мне задания, ни разу со мной не встречался. В этом не было смысла. И в этом плане КГБ был  
+**[628.34s] English:** Gave me assignments, never met with me in person. There was no point in that. In this regard, the KGB was  
 **Translation:** 
 
-**[640.16s] English:** намного эффективнее других разведок. В ЦРУ, например, все слишком разговорчивы. Там утечек  
-**Translation:** 
+**[640.16s] English:** Much more effective than other intelligence agencies. For example, at the CIA, everyone is too talkative, and there are too many leaks.  
+**Translation:** Vocabulary: talkative: 爱说话的
 
-**[649.10s] English:** моря. Не думаю, что в МОСАДе столько утечек. Сильное заявление от Джека Барски.  
+**[649.10s] English:** Oceans. I don't think Mossad has that many leaks. Strong statement from Jack Barczyk.  
 **Translation:** 
 
-**[656.24s] English:** Давайте поговорим  
-**Translation:** 
+**[656.24s] English:** Let's talk.  
+**Translation:** Vocabulary: barczyk: 巴尔奇克
 
-**[658.16s] English:** о МОСАДе. Давайте поговорим  
+**[658.16s] English:** About Mossad. Let's talk.  
 **Translation:** 
 
-**[658.20s] English:** о МОСАДе. Давайте поговорим  
+**[658.20s] English:** About Mossad. Let's talk.  
 **Translation:** 
 
-**[658.24s] English:** о МОСАДе. Давайте поговорим  
+**[658.24s] English:** About Mossad. Let's talk.  
 **Translation:** 
 
-**[658.32s] English:** системно. Отличался ли КГБ от других разведагентств? Возьмем британскую Ми-6, МОСАД, ЦРУ. Отличаются  
+**[658.32s] English:** Systematically. Did the KGB differ from other intelligence agencies such as Britain's MI-6, Mossad, and the CIA? They do.  
 **Translation:** 
 
-**[672.76s] English:** ли они по духу, культуре, ценностям, и может ли это быть связано со структурами власти и  
+**[672.76s] English:** Do they share a spirit, culture, and values? Could this be related to power structures?  
 **Translation:** 
 
-**[680.14s] English:** мировоззрением соответствующих народов? Думаю, нас объединяла вера в коммунизм,  
-**Translation:** 
+**[680.14s] English:** What did the worldviews of those peoples correspond to? I think our unity was in our belief in communism,  
+**Translation:** Vocabulary: communism: 共产主义; correspond: 对应; worldviews: 世界观
 
-**[687.10s] English:** и его будущее... В КГБ?  
+**[687.10s] English:** And his future... In the KGB?  
 **Translation:** 
 
-**[691.82s] English:** Да. Во многом это нас и объединяло, даже технических специалистов.  
+**[691.82s] English:** Yes. In many ways, this is what united us, even technical specialists.  
 **Translation:** 
 
-**[696.76s] English:** То есть, вы не думали, ну это для пропаганды, а мы-то знаем правду. Вы искренне верили?  
+**[696.76s] English:** So, you didn't think this was for propaganda, but we know the truth. Did you sincerely believe it?  
 **Translation:** 
 
-**[708.66s] English:** Все верно, и нужно учитывать время. После Второй мировой Советский Союз...  
-**Translation:** 
+**[708.66s] English:** All correct, and it's important to consider the time. After World War II, the Soviet Union...  
+**Translation:** Vocabulary: propaganda: 宣传; sincerely: 真诚
 
-**[716.62s] English:** После Второй мировой Советский Союз...  
+**[716.62s] English:** After World War II, the Soviet Union...  
 **Translation:** 
 
-**[716.94s] English:** После Второй мировой Советский Союз...  
+**[716.94s] English:** After World War II, the Soviet Union...  
 **Translation:** 
 
-**[716.96s] English:** добился значительного влияния  
+**[716.96s] English:** Dobified considerable influence.  
 **Translation:** 
 
-**[720.00s] English:** в странах третьего мира.  
+**[720.00s] English:** In countries of the third world.  
 **Translation:** 
 
-**[722.82s] English:** Я помню карту в школе.  
+**[722.82s] English:** I remember the map in school.  
 **Translation:** 
 
-**[727.12s] English:** Мир был раскрашен по цветам.  
+**[727.12s] English:** The world was painted in colors.  
 **Translation:** 
 
-**[731.18s] English:** Красный — коммунизм, Советский Союз и восточные страны.  
+**[731.18s] English:** Red — communism, Soviet Union, and Eastern countries.  
 **Translation:** 
 
-**[736.20s] English:** Синий — капитализм.  
-**Translation:** 
+**[736.20s] English:** Blue — capitalism.  
+**Translation:** Vocabulary: capitalism: 资本主义
 
-**[738.96s] English:** Зеленый — страны третьего мира.  
+**[738.96s] English:** Green — countries of the third world.  
 **Translation:** 
 
-**[741.70s] English:** И со временем зеленые страны начинали розоветь,  
+**[741.70s] English:** Over time, the green countries began to blush.  
 **Translation:** 
 
-**[746.64s] English:** потому что правительства многих стран третьего мира,  
+**[746.64s] English:** Because governments of many third-world countries,  
 **Translation:** 
 
-**[752.50s] English:** например, Ангола или, скажем, Вьетнам,  
-**Translation:** 
+**[752.50s] English:** For example, Angola or, say, Vietnam.  
+**Translation:** Vocabulary: angola: 安哥拉; vietnam: 越南
 
-**[756.90s] English:** эти страны поддерживали Советский Союз.  
+**[756.90s] English:** These countries supported the Soviet Union.  
 **Translation:** 
 
-**[760.22s] English:** Мы думали, что так будет и дальше,  
+**[760.22s] English:** We thought that would continue like this,  
 **Translation:** 
 
-**[765.74s] English:** и считали, что в итоге вырвемся вперед.  
+**[765.74s] English:** And they believed that in the end we would pull ahead.  
 **Translation:** 
 
-**[772.74s] English:** Идея обогнать США не только военно,  
-**Translation:** 
+**[772.74s] English:** The idea to outpace the US not only militarily,  
+**Translation:** Vocabulary: militarily: 在军事上; outpace: 超越
 
-**[776.64s] English:** но и в промышленном плане, но это была иллюзия.  
+**[776.64s] English:** But in terms of industry, but this was an illusion.  
 **Translation:** 
 
-**[783.64s] English:** В военной сфере был паритет.  
-**Translation:** 
+**[783.64s] English:** In the military sphere, there was parity.  
+**Translation:** Vocabulary: parity: 平等
 
-**[787.90s] English:** Ну, если уж говорить об иллюзиях,  
+**[787.90s] English:** Nu, if we're talking about illusions,  
 **Translation:** 
 
-**[793.14s] English:** Гитлер тоже строил несбыточные планы  
-**Translation:** 
+**[793.14s] English:** Hitler also built unfounded plans.  
+**Translation:** Vocabulary: hitler: 希特勒; unfounded: 无根据的
 
-**[797.64s] English:** и чуть не реализовал их.  
+**[797.64s] English:** And barely didn't realize them.  
 **Translation:** 
 
-**[801.64s] English:** Если бы не несколько военных ошибок,  
+**[801.64s] English:** If it weren't for a few military mistakes,  
 **Translation:** 
 
-**[804.90s] English:** мир мог бы выглядеть совсем по-другому.  
+**[804.90s] English:** The world could look very different.  
 **Translation:** 
 
-**[806.50s] English:** Самая большая ошибка — нападение на Советский Союз,  
+**[806.50s] English:** The biggest mistake was attacking the Soviet Union.  
 **Translation:** 
 
-**[810.50s] English:** особенно тогда, когда он это сделал.  
+**[810.50s] English:** Especially then, when he did it.  
 **Translation:** 
 
-**[814.50s] English:** Он столкнулся с той же проблемой, что и Наполеон — русская зима.  
+**[814.50s] English:** He faced the same problem as Napoleon—the Russian winter.  
 **Translation:** 
 
-**[819.50s] English:** Но даже в рамках Барбароссы,  
+**[819.50s] English:** But even within Barbarossa,  
 **Translation:** 
 
-**[823.50s] English:** он мог бы действовать иначе.  
+**[823.50s] English:** He could have acted differently.  
 **Translation:** 
 
-**[829.50s] English:** Например, вместо осады Киева сразу идти на Москву,  
+**[829.50s] English:** For example, instead of besieging Kiev immediately, go to Moscow.  
 **Translation:** 
 
-**[834.50s] English:** свергнуть государство.  
-**Translation:** 
+**[834.50s] English:** To overthrow the state.  
+**Translation:** Vocabulary: besieging: 围攻; overthrow: 推翻
 
-**[836.50s] English:** Я думаю, если бы он учился нашей политике,  
+**[836.50s] English:** I think if he had studied our politics,  
 **Translation:** 
 
-**[840.50s] English:** то он бы свободен.  
-**Translation:** 
+**[840.00s] English:** Napoleon would have handled the troops differently and not gotten bogged down in the Russian winter, but the point is that  
+**Translation:** Vocabulary: bogged: 陷入; napoleon: 拿破仑
 
-**[840.00s] English:** наполеона по-другому распорядился бы войсками не погряз бы в русской зиме но суть в том что  
+**[840.50s] English:** He would be free.  
 **Translation:** 
 
-**[848.64s] English:** иногда имперские амбиции действительно воплощаются в жизнь в создании и становлении этих империй они  
-**Translation:** 
+**[848.64s] English:** Sometimes imperial ambitions do indeed come to life in the creation and establishment of these empires.  
+**Translation:** Vocabulary: empires: 帝国; imperial: 帝政的
 
-**[859.18s] English:** пишут историю преподносят себя как хороших скрывают имперские замашки выставляют себя  
+**[859.18s] English:** They write history, presenting themselves as good while hiding their imperial ambitions and showcasing themselves.  
 **Translation:** 
 
-**[868.88s] English:** в лучшем свете теперь штаты написали такую историю и я в эту книгу верю но важно отдавать  
+**[868.88s] English:** In the best light, now the states wrote such a story, and I believe in this book, but it's important to give.  
 **Translation:** 
 
-**[878.66s] English:** себе отчет в том что так работают империи они пишут историю создают нарратив кормят нас  
+**[878.66s] English:** Here is the transcript with natural English punctuation and capitalization: Keep in mind that empires work this way. They write history, create a narrative, and feed us information.  
 **Translation:** 
 
-**[888.86s] English:** пропагандой в которую люди верят люди любят объединяться под одним флагом одной идеей вместе  
-**Translation:** 
+**[888.86s] English:** Propaganda in which people believe, people love to unite under one flag, one idea together.  
+**Translation:** Vocabulary: capitalization: 大写字母; propaganda: 宣传; transcript: 录音文本
 
-**[897.86s] English:** строить прекрасную страну  
+**[897.86s] English:** Build a beautiful country.  
 **Translation:** 
 
-**[898.88s] English:** и мир о котором мечтают американская мечта звучит красиво свобода уважение к правам человека  
+**[898.88s] English:** And the world of which the American dream speaks sounds beautiful: freedom, respect for human rights.  
 **Translation:** 
 
-**[905.64s] English:** равенство до право на счастье звучит здорово но если поверхностно посмотреть на коммунистическую  
+**[905.64s] English:** Equality to the right to happiness sounds great, but if you look superficially at communist rhetoric,  
 **Translation:** 
 
-**[916.16s] English:** идею она тоже звучит привлекательно до уважение к рабочему классу помощь бедным и угнетенным  
-**Translation:** 
+**[916.16s] English:** The idea also sounds appealing until you consider respect for the working class, helping the poor and oppressed.  
+**Translation:** Vocabulary: appealing: 吸引人; oppressed: 受压迫; rhetoric: 修辞; superficially: 表面地
 
-**[928.88s] English:** независимым владельцам но этого не значит что они не охраняют вас они заслуживают денег и власть и  
+**[928.88s] English:** Independent owners, but this doesn't mean they don't protect you. They deserve money and power, and  
 **Translation:** 
 
-**[935.96s] English:** уважение ради которых они так трудятся звучит отлично и все дружат нужно только мол все люди  
+**[935.96s] English:** Respect, for which they work so hard, sounds great and everyone gets along; all people need is just that.  
 **Translation:** 
 
-**[944.26s] English:** добры и если кто-то стал злым это лишь потому что его угнетали но такая мечта не сработала когда ты  
+**[944.26s] English:** Do good, and if someone becomes evil, it is only because they were oppressed. But such a dream did not work when you  
 **Translation:** 
 
-**[957.54s] English:** молод и об этом не задумываешься просто принеси это своими злыми руками не загадывайся просто не  
-**Translation:** 
+**[957.54s] English:** Young and carefree, you don't think about it. Just bring it with your wicked hands. Don't second-guess yourself.  
+**Translation:** Vocabulary: carefree: 无忧无虑; wicked: 邪恶
 
-**[958.76s] English:** Принимаешь на мацанах.  
+**[958.76s] English:** You take it on empty stomach.  
 **Translation:** 
 
-**[960.00s] English:** эмоциональном уровне. Но если подумать, эта новая прекрасная организация должна каким-то  
+**[960.00s] English:** Emotionally, but if we think about it, this new wonderful organization must somehow  
 **Translation:** 
 
-**[969.30s] English:** образом сложиться. Ленин утверждал, что государство со временем исчезнет. И как все должно  
+**[969.30s] English:** In this way, it will settle. Lenin asserted that the state will eventually disappear over time, and how everything should.  
 **Translation:** 
 
-**[975.26s] English:** работать? Это же получается анархия. Нужна какая-то структура. Единственный способ организовать  
-**Translation:** 
+**[975.26s] English:** Work? This amounts to anarchy. Some structure is needed. The only way to organize  
+**Translation:** Vocabulary: anarchy: 无政府状态; asserted: 断言
 
-**[982.74s] English:** общество — это иерархия. А кто окажется на вершине? Те, кто хочет власти. Кто верит в себя. Те,  
+**[982.74s] English:** Society is a hierarchy. And who will end up at the top? Those who want power. Those who believe in themselves.  
 **Translation:** 
 
-**[994.48s] English:** кто считает себя умнее остальных. И как только появляется такая иерархия, нет гарантии,  
-**Translation:** 
+**[994.48s] English:** Who considers themselves smarter than everyone else. And as soon as such a hierarchy appears, there is no guarantee,  
+**Translation:** Vocabulary: hierarchy: 等级制度
 
-**[1001.04s] English:** что она не сгниет. История показывает, что каждая такая система неизбежно прогнивает. Например,  
+**[1001.04s] English:** That it will not rot. History shows that every such system inevitably rots, for example,  
 **Translation:** 
 
-**[1010.18s] English:** Куба. Я верю, что Фидель Кастро был честен.  
-**Translation:** 
+**[1010.18s] English:** Cuba. I believe that Fidel Castro was honest.  
+**Translation:** Vocabulary: castro: 卡斯特罗; fidel: 费德尔; inevitably: 不可避免地
 
-**[1012.74s] English:** Честным революционером. Я правда в это верю. И во что в итоге превратилась Куба?  
+**[1012.74s] English:** A genuine revolutionary. I truly believe in that. And what did Cuba end up becoming in the end?  
 **Translation:** 
 
-**[1021.06s] English:** Вы также говорите и о Путине. Но давайте немного о другом. Человек может быть честным революционером  
+**[1021.06s] English:** You also talk about Putin. But let's talk about something else for a bit. A person can be an honest revolutionary.  
 **Translation:** 
 
-**[1032.44s] English:** с благими намерениями. Но со временем он убеждает себя, что лучше всех знает, как управлять страной.  
+**[1032.44s] English:** With good intentions. But over time he convinces himself that he knows best how to run the country.  
 **Translation:** 
 
-**[1040.82s] English:** И поначалу это может быть и так.  
-**Translation:** 
+**[1040.82s] English:** At first, this may be true.  
+**Translation:** Vocabulary: convinces: 使信服
 
-**[1042.74s] English:** Но потом реальность начинает искажаться, и ты продолжаешь верить, что знаешь как правильно,  
+**[1042.74s] English:** But then reality starts to distort, and you continue to believe that you know how to do it right,  
 **Translation:** 
 
-**[1053.86s] English:** и перестаешь слушать мнение всех, кто с тобой не согласен. Ты начинаешь воспринимать их как людей,  
-**Translation:** 
+**[1053.86s] English:** And you stop listening to the opinion of everyone who disagrees with you. You begin to perceive them as people,  
+**Translation:** Vocabulary: distort: 扭曲; perceive: 看待
 
-**[1061.16s] English:** манипулирующих правдой. Которые хотят навредить обществу из жадности и стремления к власти. А ты-то  
+**[1061.16s] English:** Manipulating the truth. Those who want to harm society out of greed and a desire for power. And you,  
 **Translation:** 
 
-**[1070.20s] English:** знаешь, что хорошо. Ты людей защитишь.  
-**Translation:** 
+**[1070.20s] English:** You know what's good. You'll protect people.  
+**Translation:** Vocabulary: greed: 贪婪; manipulating: 操控
 
-**[1072.74s] English:** Возвращаясь к Сталину, не знаю. Кажется, он действительно верил, что...  
+**[1072.74s] English:** Returning to Stalin, I'm not sure. It seems he really believed that...  
 **Translation:** 
 
-**[1080.00s] English:** коммунизм строит лучший мир, что нельзя приготовить  
-**Translation:** 
+**[1080.00s] English:** Communism builds a better world, which cannot be prepared.  
+**Translation:** Vocabulary: cannot: 不能; communism: 共产主义
 
-**[1086.08s] English:** омлет, не разбив несколько яиц.  
+**[1086.08s] English:** An omelet, without breaking any eggs.  
 **Translation:** 
 
-**[1092.04s] English:** Он воспринимал это все как необходимую жертву для  
-**Translation:** 
+**[1092.04s] English:** He perceived it all as a necessary sacrifice for  
+**Translation:** Vocabulary: perceived: 认为; sacrifice: 牺牲
 
-**[1096.16s] English:** лучшего будущего и сделал террор оправданным политическим  
+**[1096.16s] English:** The best future and made terrorism a justified political  
 **Translation:** 
 
-**[1105.54s] English:** механизмом для достижения целей.  
+**[1105.54s] English:** A mechanism for achieving goals.  
 **Translation:** 
 
-**[1110.94s] English:** Возможно, это помогало ему спокойно спать по ночам  
+**[1110.94s] English:** Possible, this helped him sleep peacefully at night.  
 **Translation:** 
 
-**[1114.54s] English:** после всех совершенных зверств.  
-**Translation:** 
+**[1114.54s] English:** After all the atrocities committed.  
+**Translation:** Vocabulary: atrocities: 暴行; peacefully: 安宁地
 
-**[1117.52s] English:** Думаю, он правда верил, что так сделает мир лучше.  
+**[1117.52s] English:** I think he really believed that he would make the world better.  
 **Translation:** 
 
-**[1121.56s] English:** Да, но террор начался не со Сталина.  
+**[1121.56s] English:** Yes, but terrorism did not begin with Stalin.  
 **Translation:** 
 
-**[1124.38s] English:** Он начался сразу после прихода большевиков, когда  
+**[1124.38s] English:** He began immediately after the Bolsheviks came to power, when  
 **Translation:** 
 
-**[1128.32s] English:** Ленин поручил Дзержинскому создать ЧК и развернуть  
-**Translation:** 
+**[1128.32s] English:** Lenin instructed Dzerzhinsky to create the Cheka and launch its operations.  
+**Translation:** Vocabulary: bolsheviks: 布尔什维克; cheka: 赤卫军; instructed: 指示; lenin: 列宁
 
-**[1134.88s] English:** мир.  
+**[1134.88s] English:** World.  
 **Translation:** 
 
-**[1135.54s] English:** Красный террор.  
+**[1135.54s] English:** Red Terror.  
 **Translation:** 
 
-**[1137.40s] English:** Они так его и называли.  
+**[1137.40s] English:** They called him that.  
 **Translation:** 
 
-**[1143.16s] English:** Красный террор.  
+**[1143.16s] English:** Red Terror.  
 **Translation:** 
 
-**[1144.46s] English:** То есть террор присутствовал с самого рождения Советского  
+**[1144.46s] English:** That is, terrorism was present from the very birth of the Soviet  
 **Translation:** 
 
-**[1148.30s] English:** Союза, и это было намеренно.  
-**Translation:** 
+**[1148.30s] English:** Union, and this was intentional.  
+**Translation:** Vocabulary: intentional: 故意的
 
-**[1151.02s] English:** Он был направлен не только на врагов, но и на любого,  
+**[1151.02s] English:** He was directed not only at enemies, but also at anyone,  
 **Translation:** 
 
-**[1156.12s] English:** кто впал в немилость.  
+**[1156.12s] English:** Who fell out of favor.  
 **Translation:** 
 
-**[1159.42s] English:** Не было никаких законов, не было никаких судебных  
+**[1159.42s] English:** There were no laws, no courts.  
 **Translation:** 
 
-**[1164.38s] English:** разбирательств.  
+**[1164.38s] English:** Arbitration.  
 **Translation:** 
 
-**[1165.54s] English:** Людей просто забирали из домов и расстреливали.  
+**[1165.54s] English:** People were simply taken from their homes and executed.  
 **Translation:** 
 
-**[1171.14s] English:** И все это исполняли революционеры, которые верили в необходимость  
-**Translation:** 
+**[1171.14s] English:** And all of this was carried out by revolutionaries who believed in the necessity  
+**Translation:** Vocabulary: executed: 被处决; necessity: 必要性; revolutionaries: 革命者
 
-**[1179.90s] English:** этих жертв под лозунгом «Построение светлого будущего».  
+**[1179.90s] English:** These victims under the slogan "Building a Bright Future".  
 **Translation:** 
 
-**[1184.50s] English:** Популисты тоже в это верили?  
+**[1184.50s] English:** Did populists also believe in that?  
 **Translation:** 
 
-**[1187.28s] English:** Отчасти.  
+**[1187.28s] English:** Partially.  
 **Translation:** 
 
-**[1188.94s] English:** Да.  
+**[1188.94s] English:** Yes.  
 **Translation:** 
 
-**[1189.42s] English:** Это одна из самых мрачных сторон диктатур.  
+**[1189.42s] English:** This is one of the darkest sides of dictatorships.  
 **Translation:** 
 
-**[1193.42s] English:** Ты искренне веришь в это?  
-**Translation:** 
+**[1193.42s] English:** Do you sincerely believe in this?  
+**Translation:** Vocabulary: dictatorships: 独裁统治; sincerely: 真诚地
 
-**[1195.48s] English:** Ты искренне веришь в это?  
+**[1195.48s] English:** Do you sincerely believe in this?  
 **Translation:** 
 
-**[1195.52s] English:** Ты искренне веришь в идею, и при этом боишься поставить  
-**Translation:** 
+**[1195.52s] English:** You genuinely believe in the idea, and yet you're afraid to put it into action.  
+**Translation:** Vocabulary: genuinely: 真诚地
 
-**[1199.00s] English:** ее под сомнение.  
+**[1199.00s] English:** raises it into question.  
 **Translation:** 
 
-**[1200.00s] English:** ну не то чтобы страх был явным он просто где-то на подсознательном уровне как запертая дверь в  
-**Translation:** 
+**[1200.00s] English:** Nu, not that fear was obvious, he just had this feeling like a locked door somewhere in his subconscious.  
+**Translation:** Vocabulary: subconscious: 潜意识
 
-**[1210.52s] English:** темной комнате не смотри туда не открывай ее а в сша особенно в современной культуре наоборот  
+**[1210.52s] English:** In a dark room, do not look there or open it. In the US, especially in modern culture, the opposite is true.  
 **Translation:** 
 
-**[1219.40s] English:** тебе говорят в первую очередь иди к этой двери ставь все под сомнение это сила свободы слова и  
-**Translation:** 
+**[1219.40s] English:** They tell you first and foremost to go to this door and set everything under suspicion. This is the power of free speech and  
+**Translation:** Vocabulary: foremost: 首要的
 
-**[1226.06s] English:** независимой прессы хотя конечно можно и перегнуть стать слишком циничным по отношению к собственной  
+**[1226.06s] English:** Independent press, however, of course can be taken too far and become overly cynical about itself.  
 **Translation:** 
 
-**[1233.12s] English:** культуре важно находить баланс но коммунизм пожалуй самый наглядный урока человеческой  
-**Translation:** 
+**[1233.12s] English:** Culture is important for finding balance, but communism perhaps provides the most vivid lesson in human nature.  
+**Translation:** Vocabulary: communism: 共产主义; cynical: 多疑; overly: 过于
 
-**[1239.62s] English:** природе вы ведь верили не особо задумываясь вы верили во что вы я же выходец из ссср что вам  
+**[1239.62s] English:** In nature, you didn't really believe much, did you? You believed in what? I'm from the USSR, so what did you think?  
 **Translation:** 
 
-**[1251.38s] English:** казалось правильным и хорошим  
+**[1251.38s] English:** It seemed right and good.  
 **Translation:** 
 
-**[1256.06s] English:** в коммунизме в коммунистическом видении мира помните думаю главный фактор из-за которого я  
+**[1256.06s] English:** In communism, in the communist vision of the world, remember, I think the main factor is due to which I  
 **Translation:** 
 
-**[1265.98s] English:** поверил в коммунизм заключается в том что перед приходом гитлера к власти коммунисты  
-**Translation:** 
+**[1265.98s] English:** Belief in communism lies in the fact that before Hitler came to power, communists  
+**Translation:** Vocabulary: hitler: 希特勒
 
-**[1274.92s] English:** были единственной силой в германии которая боролась с нацистами на улицах это исторический  
+**[1274.92s] English:** They were the only force in Germany that fought against Nazis on the streets - this is historical.  
 **Translation:** 
 
-**[1283.86s] English:** факт да  
-**Translation:** 
+**[1283.86s] English:** Fact: Да  
+**Translation:** Vocabulary: nazis: 纳粹分子
 
-**[1286.06s] English:** нацисты их преследовали убивали отправляли в концлагеря а мы знали нам говорили что после  
+**[1286.06s] English:** Nazis pursued them, killing them, sending them to concentration camps, and we knew; they told us that after...  
 **Translation:** 
 
-**[1299.56s] English:** войны в правительстве западной германии заседали бывшие нацисты я думаю что это  
+**[1299.56s] English:** Wars in the government of Western Germany included former Nazis, I think that's  
 **Translation:** 
 
-**[1305.02s] English:** была огромная ошибка со стороны запада в частности сша до самый известный случай райнхард гелен  
+**[1305.02s] English:** There was a huge mistake on the part of the West, particularly the USA, up until the most famous case of Reinhard Gehlen.  
 **Translation:** 
 
-**[1316.06s] English:** генерал отвечавшие за разведку  
-**Translation:** 
+**[1316.06s] English:** General, who was responsible for intelligence.  
+**Translation:** Vocabulary: reinhard: 海因里希
 
-**[1320.00s] English:** На Восточном фронте при Гитлере, когда союзники выиграли войну, Запад решил, что Гелен, его знания и организация слишком ценны, чтобы их терять.  
+**[1320.00s] English:** On the Eastern front, when Hitler lost the war to the Allies, the West realized that Gehlen, his knowledge, and organization were too valuable to be lost.  
 **Translation:** 
 
-**[1339.80s] English:** Его завербовала ЦРУ, а позже он стал главой Федеральной разведывательной службы Германии, западно-германского аналога ЦРУ. Для нас, я имею в виду для Восточно-германской партии, это было огромной победой пропаганды.  
-**Translation:** 
+**[1339.80s] English:** He was recruited by the CIA and later became the head of the Federal Intelligence Service of Germany, the West German equivalent of the CIA. For us, meaning for the East German party, this was a huge propaganda victory.  
+**Translation:** Vocabulary: allies: 盟军; propaganda: 宣传; recruited: 招募
 
-**[1355.80s] English:** Я захотел... В эмоциональном плане это выглядело так. Когда мы учились в старших классах школы, а в те времена...  
+**[1355.80s] English:** I wanted to... Emotionally, it looked like this. When we were in high school senior year, and back then,...  
 **Translation:** 
 
-**[1369.78s] English:** ...продолжать обучение, могли только топ-10% лучших учеников, то есть будущая элита страны. Так вот, нас обязали посетить концентрационный лагерь.  
-**Translation:** 
+**[1369.78s] English:** ...Only the top 10% of students could continue their education, that is, the future elite of the country. So, we were obliged to visit a concentration camp.  
+**Translation:** Vocabulary: obliged: 被迫
 
-**[1387.80s] English:** И нам, 17-летним, показали эти ужасы. Это было по-настоящему жутко. Как люди могли так поступать?  
+**[1387.80s] English:** Here is the transcript with natural English punctuation and capitalization: Keep in mind that we, seventeen-year-olds, were shown these horrors. It was truly terrifying. How could people act so cruelly?  
 **Translation:** 
 
-**[1399.78s] English:** ...с людьми, груды трупов, абажуры, сделанные из человеческой кожи, с татуировками, головы, сплющенные до размеров кулака. Девочки плакали. Это оставило глубокий след.  
+**[1399.78s] English:** ...with piles of corpses, lanterns made from human skin with tattoos, crushed heads the size of fists. The girls cried. It left a deep impression.  
 **Translation:** 
 
-**[1421.88s] English:** И это были нацисты?  
+**[1421.88s] English:** Did this belong to the Nazis?  
 **Translation:** 
 
-**[1425.68s] English:** Да.  
-**Translation:** 
+**[1425.68s] English:** Yes.  
+**Translation:** Vocabulary: nazis: 纳粹分子
 
-**[1426.24s] English:** А коммунисты?  
+**[1426.24s] English:** Who are the communists?  
 **Translation:** 
 
-**[1427.44s] English:** Победили нацистов. Они были хорошие.  
-**Translation:** 
+**[1427.44s] English:** They defeated the Nazis. They were good.  
+**Translation:** Vocabulary: defeated: 被击败
 
-**[1429.78s] English:** Конечно, в ретроспективе, если бы коммунисты пришли к власти в Германии, все было бы так же, как показали примеры Сталина и Мао.  
+**[1429.78s] English:** Of course, in retrospect, if the communists had come to power in Germany, it would have been just as shown by the examples of Stalin and Mao.  
 **Translation:** 
 
-**[1439.36s] English:** Но тогда мы...  
-**Translation:** 
+**[1439.36s] English:** But then we...  
+**Translation:** Vocabulary: retrospect: 回顾; stalin: 斯大林
 
-**[1440.00s] English:** Этого не знали.  
+**[1440.00s] English:** This was unknown.  
 **Translation:** 
 
-**[1442.10s] English:** С советской точки зрения, коммунистический режим объединился для победы в Великой Отечественной войне.  
+**[1442.10s] English:** From the Soviet perspective, the communist regime united for victory in World War II.  
 **Translation:** 
 
-**[1452.70s] English:** Да, и это был второй фактор.  
+**[1452.70s] English:** Yes, and that was the second factor.  
 **Translation:** 
 
-**[1454.92s] English:** Советский Союз был старшим братом.  
+**[1454.92s] English:** The Soviet Union was the older brother.  
 **Translation:** 
 
-**[1457.66s] English:** Когда меня завербовал КГБ, это была большая честь.  
+**[1457.66s] English:** When I was recruited by the KGB, it was a great honor.  
 **Translation:** 
 
-**[1462.02s] English:** Стоит уточнить, что вы из Восточной Германии.  
-**Translation:** 
+**[1462.02s] English:** It's worth noting that you are from East Germany.  
+**Translation:** Vocabulary: recruited: 被招募
 
-**[1471.56s] English:** Вы родились через 4 года и сколько? 10 дней?  
+**[1471.56s] English:** You were born 4 years later? And how about 10 days?  
 **Translation:** 
 
-**[1478.14s] English:** Да, очень хорошо.  
+**[1478.14s] English:** Yes, very good.  
 **Translation:** 
 
-**[1480.42s] English:** После капитуляции Германии во Второй мировой войне.  
+**[1480.42s] English:** After Germany's capitulation in World War II.  
 **Translation:** 
 
-**[1485.92s] English:** Итак, что такое Восточная Германия? Что такое Западная Германия?  
-**Translation:** 
+**[1485.92s] English:** So, what is Eastern Germany? What is Western Germany?  
+**Translation:** Vocabulary: capitulation: 投降
 
-**[1490.66s] English:** В чем разница?  
+**[1490.66s] English:** What is the difference?  
 **Translation:** 
 
-**[1492.60s] English:** В чем исторический контекст?  
+**[1492.60s] English:** In what historical context?  
 **Translation:** 
 
-**[1494.42s] English:** Что такое Вторая мировая война?  
+**[1494.42s] English:** What is the Second World War?  
 **Translation:** 
 
-**[1497.86s] English:** И давайте...  
+**[1497.86s] English:** Let's...  
 **Translation:** 
 
-**[1499.60s] English:** Давай, пожалуй, не будем углубляться в Первую мировую, которая во многом стала причиной Второй.  
+**[1499.60s] English:** Let's not delve too deeply into World War I, which in many ways became a cause of World War II.  
 **Translation:** 
 
-**[1506.44s] English:** Да, это долгая история.  
-**Translation:** 
+**[1506.44s] English:** Yes, it's a long story.  
+**Translation:** Vocabulary: delve: 深入探讨
 
-**[1509.44s] English:** Начнем со Второй мировой.  
+**[1509.44s] English:** Let's start with World War II.  
 **Translation:** 
 
-**[1510.90s] English:** Когда Гитлер пришел к власти, он и его руководство решило, что немцам нужно больше Лебенсраум.  
-**Translation:** 
+**[1510.90s] English:** When Hitler came to power, he and his leadership decided that Germans needed more Lebensraum.  
+**Translation:** Vocabulary: hitler: 希特勒; lebensraum: 生存空间
 
-**[1522.02s] English:** Жизненного пространства.  
+**[1522.02s] English:** Life space.  
 **Translation:** 
 
-**[1525.14s] English:** Они начали расширяться.  
+**[1525.14s] English:** They began to expand.  
 **Translation:** 
 
-**[1530.10s] English:** Сначала пошли во Францию, затем захватили Бельгию, Нидерланды, аннексировали Австрию, взяли часть Чехословакии,  
+**[1530.10s] English:** First, they went to France, then occupied Belgium, the Netherlands, annexed Austria, and took part of Czechoslovakia.  
 **Translation:** 
 
-**[1542.74s] English:** а затем, после захвата Польши, они решили направиться в Советский Союз.  
-**Translation:** 
+**[1542.74s] English:** Then, after the conquest of Poland, they decided to head for the Soviet Union.  
+**Translation:** Vocabulary: annexed: 吞并; belgium: 比利时; conquest: 征服; czechoslovakia: 捷克斯洛伐克
 
-**[1552.02s] English:** Вместе с Советским Союзом они поделили Польшу.  
+**[1552.02s] English:** Together with the Soviet Union, they divided Poland.  
 **Translation:** 
 
-**[1555.02s] English:** Да.  
+**[1555.02s] English:** Yes.  
 **Translation:** 
 
-**[1555.52s] English:** Они дружили.  
+**[1555.52s] English:** They were friends.  
 **Translation:** 
 
-**[1557.02s] English:** Был подписан договор о ненависти к Советскому Союзу.  
+**[1557.02s] English:** A treaty against the Soviet Union was signed.  
 **Translation:** 
 
-**[1560.00s] English:** нападения, Риббентропа-Молотова. Думаю, обе стороны понимали, что рано или поздно они его  
+**[1560.00s] English:** Attacks, Ribbentrop-Molotov. I think both sides understood that sooner or later they would have to deal with it.  
 **Translation:** 
 
-**[1566.20s] English:** разорвут. Но на тот момент пакт дал СССР часть Польши и время для подготовки к неизбежному.  
+**[1566.20s] English:** They would be torn apart, but at that time, the pact gave part of Poland to the USSR and bought them time for preparation for what was inevitable.  
 **Translation:** 
 
-**[1578.14s] English:** А немцам время и возможность завоевать всю Западную Европу.  
+**[1578.14s] English:** To the Germans, time and opportunity to conquer all of Western Europe.  
 **Translation:** 
 
-**[1589.22s] English:** Думаете, Сталин понимал, что договор утратит силу?  
+**[1589.22s] English:** Do you think Stalin understood that the treaty would lose its效力已尽，请稍后重试~  
 **Translation:** 
 
-**[1592.90s] English:** Как такому человеку, как Сталин, доверять такому человеку, как Гитлер?  
+**[1592.90s] English:** How could one trust such a man as Stalin with such a man as Hitler?  
 **Translation:** 
 
-**[1596.24s] English:** Но почему он так серьезно ошибся и не стал слушать свою разведку о сосредоточении войск  
-**Translation:** 
+**[1596.24s] English:** But why did he make such a serious mistake and not listen to his intelligence about the concentration of troops?  
+**Translation:** Vocabulary: hitler: 希特勒; stalin: 斯大林
 
-**[1603.78s] English:** на границе Советского Союза? Он не доверял собственной разведке.  
+**[1603.78s] English:** At the border of the Soviet Union? He did not trust his own intelligence.  
 **Translation:** 
 
-**[1608.14s] English:** Ох, вот пример. В Германии был коммунист, который ушел в подполье,  
+**[1608.14s] English:** Oh, here's an example. In Germany, there was a communist who went into hiding,  
 **Translation:** 
 
-**[1616.24s] English:** когда Гитлер пришел к власти. Он оказался в Японии в качестве журналиста. Его звали  
+**[1616.24s] English:** When Hitler came to power, he ended up in Japan as a journalist. His name was  
 **Translation:** 
 
-**[1621.76s] English:** Рихард Зорге. У него была достоверная информация о том, что собираются делать японцы.  
+**[1621.76s] English:** Richard Zorge. He had reliable information about what the Japanese were planning to do.  
 **Translation:** 
 
-**[1631.62s] English:** Я не помню точно детали, но он передал эти сведения в Москву, а Сталин их проигнорировал.  
+**[1631.62s] English:** I don't remember the exact details, but he transmitted this information to Moscow, and Stalin ignored it.  
 **Translation:** 
 
-**[1637.54s] English:** А когда он был в Москве, он был в Москве, и он был в Москве.  
-**Translation:** 
+**[1637.54s] English:** When he was in Moscow, he was in Moscow, and he was in Moscow.  
+**Translation:** Vocabulary: moscow: 莫斯科; transmitted: 传递
 
-**[1638.12s] English:** А когда он был в Москве, он был в Москве, и он был в Москве.  
+**[1638.12s] English:** When he was in Moscow, he was in Moscow, and he was in Moscow.  
 **Translation:** 
 
-**[1638.14s] English:** А когда Зорге схватили японцы, Советский Союз отказался признать его своим агентом, и его казнили.  
+**[1638.14s] English:** When Zorге was arrested by the Japanese, the Soviet Union refused to acknowledge him as one of their agents and he was executed.  
 **Translation:** 
 
-**[1649.28s] English:** Паранойя наносит огромный ущерб, если ты не веришь своей разведке. Зачем она тебе вообще?  
+**[1649.28s] English:** Paranoia inflicts huge damage if you don't believe your own intelligence. Why do you need it at all?  
 **Translation:** 
 
-**[1662.58s] English:** Да. Хотя, наверное, постоянно поступают противоречивые данные.  
-**Translation:** 
+**[1662.58s] English:** Yes. Although, of course, contradictory data keeps coming in.  
+**Translation:** Vocabulary: contradictory: 矛盾的; inflicts: 造成; paranoia: 妄想症
 
-**[1668.12s] English:** Это сложно. Во-первых, люди не любят, когда с ними не соглашаются, особенно по мере того, как они приобретают все больше власти.  
+**[1668.12s] English:** This is difficult. First of all, people don't like it when they disagree with, especially as they gain more power.  
 **Translation:** 
 
-**[1680.00s] English:** А разведка часто доносит негативную информацию,  
-**Translation:** 
+**[1680.00s] English:** Reconnaissance often brings negative information,  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[1685.98s] English:** данные, которые подтверждают, что твои решения были ошибочными.  
+**[1685.98s] English:** The data which confirms that your decisions were incorrect.  
 **Translation:** 
 
-**[1692.82s] English:** Это тяжело принять.  
+**[1692.82s] English:** This is hard to accept.  
 **Translation:** 
 
-**[1694.62s] English:** Да.  
+**[1694.62s] English:** Yes.  
 **Translation:** 
 
-**[1695.46s] English:** Сейчас, если немного перепрыгнуть в наше время,  
+**[1695.46s] English:** Currently, if we skip a bit to our time,  
 **Translation:** 
 
-**[1700.54s] English:** говорят, что Путин был недоволен разведданными ФСБ,  
+**[1700.54s] English:** They say that Putin was dissatisfied with the FSB intelligence.  
 **Translation:** 
 
-**[1708.16s] English:** и если верить новостям, что касается Украины,  
-**Translation:** 
+**[1708.16s] English:** And if we believe the news regarding Ukraine,  
+**Translation:** Vocabulary: dissatisfied: 不满意
 
-**[1713.38s] English:** он теперь больше полагается на разведданные ГРУ.  
+**[1713.38s] English:** He now relies more on GRU intelligence.  
 **Translation:** 
 
-**[1717.90s] English:** Да.  
+**[1717.90s] English:** Yes.  
 **Translation:** 
 
-**[1719.72s] English:** Похоже, история повторяется.  
+**[1719.72s] English:** It seems that history is repeating itself.  
 **Translation:** 
 
-**[1724.00s] English:** Это все та же паранойя.  
+**[1724.00s] English:** This is just the same paranoia.  
 **Translation:** 
 
-**[1726.34s] English:** У меня есть пример, полученный из очень надежного источника.  
+**[1726.34s] English:** I have an example from a very reliable source.  
 **Translation:** 
 
-**[1735.28s] English:** Мой лучший друг Германия,  
+**[1735.28s] English:** My best friend Germany,  
 **Translation:** 
 
-**[1738.16s] English:** работал химиком в Штазе.  
+**[1738.16s] English:** Worked as a chemist at Shaazi.  
 **Translation:** 
 
-**[1741.22s] English:** Это восточно-германская разведка.  
-**Translation:** 
+**[1741.22s] English:** This is East German intelligence.  
+**Translation:** Vocabulary: chemist: 化学家
 
-**[1744.44s] English:** Затем дослужился до звания майора  
+**[1744.44s] English:** Then he rose to the rank of major.  
 **Translation:** 
 
-**[1748.76s] English:** и возглавил отдел подделки документов.  
-**Translation:** 
+**[1748.76s] English:** He was appointed head of the document forgery department.  
+**Translation:** Vocabulary: forgery: 伪造
 
-**[1754.90s] English:** Вполне вероятно, он изготавливал паспорта, которыми я пользовался в поездках.  
+**[1754.90s] English:** It is quite possible that he manufactured the passports I used for my travels.  
 **Translation:** 
 
-**[1760.14s] English:** Он знал, что Штазе собирало множество разведданных.  
-**Translation:** 
+**[1760.14s] English:** He knew that Stase had collected a multitude of intelligence reports.  
+**Translation:** Vocabulary: manufactured: 伪造; multitude: 大量; passports: 护照
 
-**[1764.72s] English:** Они были очень хороши.  
+**[1764.72s] English:** They were very good.  
 **Translation:** 
 
-**[1765.96s] English:** У них было около тысячи агентов,  
+**[1765.96s] English:** They had around one thousand agents,  
 **Translation:** 
 
-**[1767.84s] English:** под прикрытием Западной Германии.  
+**[1767.84s] English:** Under the cover of West Germany.  
 **Translation:** 
 
-**[1769.84s] English:** Некоторые даже занимали посты в правительстве.  
+**[1769.84s] English:** Some even held positions in the government.  
 **Translation:** 
 
-**[1772.54s] English:** Но Центральный Комитет Партии игнорировал эти данные,  
+**[1772.54s] English:** But the Central Committee of the Party ignored these data.  
 **Translation:** 
 
-**[1776.64s] English:** потому что они не вписывались в их картину мира,  
+**[1776.64s] English:** Because they did not fit into their worldview,  
 **Translation:** 
 
-**[1779.96s] English:** не соответствовали их планам.  
+**[1779.96s] English:** Did not meet their plans.  
 **Translation:** 
 
-**[1783.54s] English:** И я хочу добавить еще одну интересную деталь.  
+**[1783.54s] English:** And I want to add one more interesting detail.  
 **Translation:** 
 
-**[1789.84s] English:** Когда Горбачев  
+**[1789.84s] English:** When Gorbachev  
 **Translation:** 
 
-**[1792.84s] English:** написал книгу о перестройке и гласности,  
-**Translation:** 
+**[1792.84s] English:** Wrote a book about perestroika and glasnost,  
+**Translation:** Vocabulary: glasnost: 公开政策; perestroika: 改革
 
-**[1795.84s] English:** восточно-германская руководство,  
+**[1795.84s] English:** East German Leadership,  
 **Translation:** 
 
-**[1797.84s] English:** было крайне недовольным.  
-**Translation:** 
+**[1797.84s] English:** It was extremely dissatisfied.  
+**Translation:** Vocabulary: dissatisfied: 不满意
 
-**[1800.00s] English:** Они были ортодоксальными коммунистами. Но перевод этой книги все же нужно было напечатать. И знаешь, где оказалась вся партия? В коридорах штази. Они скупили весь тираж.  
+**[1800.00s] English:** They were orthodox communists. But the translation of this book still needed to be printed. And you know where the whole party ended up? In the Stasi corridors. They bought out the entire run.  
 **Translation:** 
 
-**[1815.98s] English:** Это потрясающе.  
-**Translation:** 
+**[1815.98s] English:** This is amazing.  
+**Translation:** Vocabulary: corridors: 秘密警察总部; orthodox: 正统的
 
-**[1845.98s] English:** В Франции, Англии и США.  
+**[1845.98s] English:** In France, England, and the United States.  
 **Translation:** 
 
-**[1851.10s] English:** Союз занял восточную часть, несмотря на то, что советские войска фактически взяли Берлин.  
+**[1851.10s] English:** The Union occupied the eastern part, despite the fact that Soviet troops had actually taken Berlin.  
 **Translation:** 
 
-**[1860.50s] English:** Но по договору было решено, что Берлином будут управлять все четыре союзника.  
+**[1860.50s] English:** But according to the treaty, Berlin would be governed by all four Allies.  
 **Translation:** 
 
-**[1869.24s] English:** Город оставался открытым для всех.  
-**Translation:** 
+**[1869.24s] English:** The city remained open to all.  
+**Translation:** Vocabulary: allies: 盟友
 
-**[1873.26s] English:** Я родился в Восточной Германии, которая очень быстро оказалась под контролем коммунистов и социалистов.  
+**[1873.26s] English:** I was born in Eastern Germany, which very quickly fell under the control of communists and socialists.  
 **Translation:** 
 
-**[1885.20s] English:** Формально произошло объединение коммунистической и социалистической партии, но руководили всем коммунисты.  
-**Translation:** 
+**[1885.20s] English:** Formally, the merger of the communist and socialist parties took place, but the communists were in full control.  
+**Translation:** Vocabulary: merger: 合并; socialists: 社会主义者
 
-**[1892.32s] English:** При этом государство демократическое.  
+**[1892.32s] English:** In this case, the state is democratic.  
 **Translation:** 
 
-**[1894.46s] English:** Да. Германская демократическая республика.  
+**[1894.46s] English:** Yes. German Democratic Republic.  
 **Translation:** 
 
-**[1897.98s] English:** Она была образована через несколько месяцев после моего рождения.  
+**[1897.98s] English:** She was formed several months after my birth.  
 **Translation:** 
 
-**[1902.18s] English:** Я появился на журнале.  
+**[1902.18s] English:** I appeared on the magazine.  
 **Translation:** 
 
-**[1903.26s] English:** Я был на свет в отдаленном юго-восточном углу Восточной Германии.  
+**[1903.26s] English:** I was born in a remote southeastern part of East Germany.  
 **Translation:** 
 
-**[1909.42s] English:** И что интересно, генетически я лишь наполовину немец.  
-**Translation:** 
+**[1909.42s] English:** And interestingly, genetically I am only half German.  
+**Translation:** Vocabulary: genetically: 基因上; southeastern: 东南部
 
-**[1914.12s] English:** А другая половина?  
+**[1914.12s] English:** And what about the other half?  
 **Translation:** 
 
-**[1915.76s] English:** Чехи и поляки.  
+**[1915.76s] English:** Czechs and Poles.  
 **Translation:** 
 
-**[1917.50s] English:** Неплохо.  
+**[1917.50s] English:** Not bad.  
 **Translation:** 
 
-**[1918.42s] English:** Я жил в Чехии.  
-**Translation:** 
+**[1918.42s] English:** I lived in Czech Republic.  
+**Translation:** Vocabulary: czech: 捷克的
 
-**[1920.00s] English:** Жил недалеко от реки Нейсе, на границе с Польшей, до границы с Чехией, можно было добраться за час на автобусе.  
+**[1920.00s] English:** He lived near the River Neisse, on the border with Poland, and it was possible to reach the border with Czechia in an hour by bus.  
 **Translation:** 
 
-**[1932.20s] English:** В общем, смешанные корни.  
+**[1932.20s] English:** In general, mixed roots.  
 **Translation:** 
 
-**[1934.02s] English:** Итак, после войны Восточная Германия стала коммунистической, социалистической, а Западная Германия представляла Западный мир и демократию.  
+**[1934.02s] English:** So after the war, Eastern Germany became communist and socialist, while Western Germany represented the West and democracy.  
 **Translation:** 
 
-**[1944.62s] English:** Да, и США приняли невероятно дальновидное и стратегически продуманное решение.  
-**Translation:** 
+**[1944.62s] English:** Yes, and the US made an incredibly far-sighted and strategically thoughtful decision.  
+**Translation:** Vocabulary: strategically: 战略地; thoughtful: 深思熟虑地
 
-**[1952.88s] English:** План Маршалла помог восстановить экономику Запада.  
+**[1952.88s] English:** The Marshall Plan helped restore the economy of Western Europe.  
 **Translation:** 
 
-**[1958.94s] English:** В отличие от Советского Союза, который...  
+**[1958.94s] English:** Unlike the Soviet Union, which...  
 **Translation:** 
 
-**[1962.48s] English:** Все, что они не разрушили на пути в Германию, они забрали с собой по дороге назад в качестве репараций.  
+**[1962.48s] English:** All that they did not destroy on their way to Germany, they took with them on the way back as reparations.  
 **Translation:** 
 
-**[1969.76s] English:** Конечно, у них было на это право.  
-**Translation:** 
+**[1969.76s] English:** Of course, they had the right to do that.  
+**Translation:** Vocabulary: reparations: 赔偿物
 
-**[1971.74s] English:** Но это была не лучшая идея, потому что Восточная...  
+**[1971.74s] English:** But this was not the best idea because Eastern...  
 **Translation:** 
 
-**[1974.62s] English:** В итоге всегда отставала в экономическом развитии от своего западного соседа.  
-**Translation:** 
+**[1974.62s] English:** In the end, it always lagged behind its Western neighbor in economic development.  
+**Translation:** Vocabulary: lagged: 落后
 
-**[1981.46s] English:** Вы в молодости, как и сейчас, были очень способным.  
+**[1981.46s] English:** You were very talented in your youth, as you are now.  
 **Translation:** 
 
-**[1988.96s] English:** Настоящий академический талант.  
+**[1988.96s] English:** True academic talent.  
 **Translation:** 
 
-**[1992.76s] English:** Давайте вернемся в ваше детство.  
+**[1992.76s] English:** Let's go back to your childhood.  
 **Translation:** 
 
-**[1995.10s] English:** Какое у вас самое теплое воспоминание?  
+**[1995.10s] English:** What is your warmest memory?  
 **Translation:** 
 
-**[1999.34s] English:** Что впервые разбудило в вас любопытство к этому миру, к его красоте?  
+**[1999.34s] English:** What first awakened your curiosity about this world, its beauty?  
 **Translation:** 
 
-**[2004.62s] English:** Желание разгадать его тайны, ведь в конечном счете именно оно приводит к академическим успехам.  
-**Translation:** 
+**[2004.62s] English:** The desire to unravel its mysteries is what ultimately leads to academic success.  
+**Translation:** Vocabulary: awakened: 激发; unravel: 解开
 
-**[2013.34s] English:** Или же...  
+**[2013.34s] English:** Or rather,...  
 **Translation:** 
 
-**[2014.76s] English:** Самое яркое воспоминание.  
+**[2014.76s] English:** The most vivid memory.  
 **Translation:** 
 
-**[2017.12s] English:** Мой первый поцелуй.  
+**[2017.12s] English:** My first kiss.  
 **Translation:** 
 
-**[2019.40s] English:** Ого.  
+**[2019.40s] English:** Oh.  
 **Translation:** 
 
-**[2020.46s] English:** Расскажите подробнее.  
+**[2020.46s] English:** Tell me more in detail.  
 **Translation:** 
 
-**[2023.26s] English:** Что вы тогда почувствовали?  
+**[2023.26s] English:** What did you feel then?  
 **Translation:** 
 
-**[2026.88s] English:** Чему он вас научил о себе, о природе человека, обо всем?  
+**[2026.88s] English:** What did he teach you about yourself, about the nature of man, about everything?  
 **Translation:** 
 
-**[2031.62s] English:** Оглядываясь назад, в тот момент я об этом не думал.  
+**[2031.62s] English:** Looking back, at that moment I didn't think about it.  
 **Translation:** 
 
-**[2034.62s] English:** Но, боже, я был по уши влюблен.  
+**[2034.62s] English:** But, oh God, I was hopelessly in love.  
 **Translation:** 
 
-**[2038.16s] English:** Мне было 16.  
-**Translation:** 
+**[2038.16s] English:** I was 16.  
+**Translation:** Vocabulary: hopelessly: 彻底地
 
-**[2040.00s] English:** И я тогда обожал девушек, считал их волшебными существами.  
+**[2040.00s] English:** Then I adored girls, considering them magical beings.  
 **Translation:** 
 
-**[2050.76s] English:** Я был уверен, что они не способны на зло, что они красивы, их нужно боготворить.  
-**Translation:** 
+**[2050.76s] English:** I was sure they were incapable of evil, that they were beautiful, and that they should be worshipped.  
+**Translation:** Vocabulary: adored: 崇拜; worshipped: 崇拜
 
-**[2056.14s] English:** И одна из них вдруг полюбила меня.  
+**[2056.14s] English:** And one of them suddenly fell in love with me.  
 **Translation:** 
 
-**[2060.16s] English:** Более того, она первая проявила инициативу.  
+**[2060.16s] English:** Moreover, she was the first to show initiative.  
 **Translation:** 
 
-**[2063.08s] English:** И это тоже было волшебно?  
+**[2063.08s] English:** Did this also feel magical?  
 **Translation:** 
 
-**[2065.64s] English:** Боже, да.  
+**[2065.64s] English:** God, yes.  
 **Translation:** 
 
-**[2066.58s] English:** Именно тогда я начал по-настоящему учиться.  
+**[2066.58s] English:** Exactly then I began to truly learn.  
 **Translation:** 
 
-**[2074.80s] English:** До этого я просто делал достаточно, чтобы получать неплохие оценки.  
+**[2074.80s] English:** Before this, I simply did enough to get decent grades.  
 **Translation:** 
 
-**[2079.36s] English:** А тут я начал вкладываться в учебу, и каждую пятерку посвящал ей.  
+**[2079.36s] English:** Here, I started investing in my studies, and I dedicated every perfect grade to it.  
 **Translation:** 
 
-**[2085.00s] English:** Иногда даже вслух.  
+**[2085.00s] English:** Sometimes even aloud.  
 **Translation:** 
 
-**[2087.00s] English:** Потому что знал, когда я вырасту, я о ней позабочусь.  
+**[2087.00s] English:** Because he knew that when I grew up, I would take care of her.  
 **Translation:** 
 
-**[2090.54s] English:** Вам пришлось трудиться, чтобы стать человеком, которым будут восхищаться любимые люди?  
+**[2090.54s] English:** Did you have to work hard to become a person that your loved ones admire?  
 **Translation:** 
 
-**[2095.76s] English:** Да, ты прав.  
+**[2095.76s] English:** Yes, you are right.  
 **Translation:** 
 
-**[2096.58s] English:** После того поцелуя, на следующий день я бегал по школе с широкой улыбкой на лице.  
+**[2096.58s] English:** After that kiss, I ran around school with a wide smile on my face the next day.  
 **Translation:** 
 
-**[2105.74s] English:** В какой-то степени такая улыбка не стирается.  
+**[2105.74s] English:** Such a smile doesn't fade away to some degree.  
 **Translation:** 
 
-**[2109.96s] English:** И за этим последовало разбитое сердце.  
+**[2109.96s] English:** And following that was a broken heart.  
 **Translation:** 
 
-**[2112.94s] English:** Это неминуемо.  
+**[2112.94s] English:** This is inevitable.  
 **Translation:** 
 
-**[2115.28s] English:** Если посмотреть на ситуацию глубже,  
+**[2115.28s] English:** If we look at the situation more deeply,  
 **Translation:** 
 
-**[2119.66s] English:** Ага.  
+**[2119.66s] English:** Agreed.  
 **Translation:** 
 
-**[2120.00s] English:** Та страсть, которую я испытывал,  
+**[2120.00s] English:** The passion I experienced,  
 **Translation:** 
 
-**[2126.58s] English:** Она всегда намекала, что любовь сыграет огромную роль в моей жизни.  
+**[2126.58s] English:** She always hinted that love would play a huge role in my life.  
 **Translation:** 
 
-**[2130.42s] English:** Хотя тогда я этого не осознавал, мне казалось, что все дело в одной девушке.  
-**Translation:** 
+**[2130.42s] English:** Although I didn't realize it at the time, it seemed to be all about one girl.  
+**Translation:** Vocabulary: hinted: 暗示
 
-**[2134.42s] English:** Но вы поняли, что это за чувство?  
+**[2134.42s] English:** But have you understood what this feeling is?  
 **Translation:** 
 
-**[2137.24s] English:** Боже.  
+**[2137.24s] English:** Oh, God.  
 **Translation:** 
 
-**[2138.24s] English:** Что оно значит для вас, что вы способны так чувствовать?  
+**[2138.24s] English:** What does it mean for you that you are able to feel this way?  
 **Translation:** 
 
-**[2141.34s] English:** Именно.  
+**[2141.34s] English:** Exactly.  
 **Translation:** 
 
-**[2142.34s] English:** Что это часть вашей натуры, а значит, будет влиять на ваш жизненный путь?  
+**[2142.34s] English:** What is this part of your nature, and means it will affect your life path?  
 **Translation:** 
 
-**[2150.84s] English:** Да.  
+**[2150.84s] English:** Yes.  
 **Translation:** 
 
-**[2151.84s] English:** Мы были вместе два года.  
+**[2151.84s] English:** We were together for two years.  
 **Translation:** 
 
-**[2153.74s] English:** Я потерял девственность.  
-**Translation:** 
+**[2153.74s] English:** I lost my virginity.  
+**Translation:** Vocabulary: virginity: 处女节
 
-**[2155.74s] English:** Да.  
+**[2155.74s] English:** Yes.  
 **Translation:** 
 
-**[2157.38s] English:** Поздравляю.  
-**Translation:** 
+**[2157.38s] English:** Congratulations.  
+**Translation:** Vocabulary: congratulations: 祝贺
 
-**[2158.04s] English:** Она на тот момент уже не была живой.  
+**[2158.04s] English:** She was no longer alive at that moment.  
 **Translation:** 
 
-**[2160.00s] English:** девственницей. Мой конкурент... Всегда есть конкурент. Разве не так устроен мир? Он уже учился  
-**Translation:** 
+**[2160.00s] English:** Virgin. My competitor... There's always a competitor. Isn't that how the world works? He already did it.  
+**Translation:** Vocabulary: virgin: 处女
 
-**[2168.64s] English:** на врача. В чем он был лучше вас? Он был старше, опытнее. И он собирался стать врачом. Но я был  
+**[2168.64s] English:** In a doctor. In what he was better than you? He was older, more experienced. And he planned to become a doctor. But I was  
 **Translation:** 
 
-**[2178.54s] English:** рядом, а он нет. Присутствие решает. Но вы все равно мечтали о большем. Вы хотели стать  
+**[2178.54s] English:** Nearby, but he wasn't. Presence solves it. But you still dreamed of more. You wanted to become  
 **Translation:** 
 
-**[2186.42s] English:** профессором с постоянным контрактом? Да, да. Значит, вы все еще хотели его превзойти?  
+**[2186.42s] English:** Professor with a permanent contract? Yes, yes. So, you still wanted to outdo him?  
 **Translation:** 
 
-**[2192.38s] English:** О, да. И в итоге она сказала мне, что он больше не участвует в ее жизни. Мы расставались,  
-**Translation:** 
+**[2192.38s] English:** Oh, yes. In the end, she told me that he no longer participates in her life. We broke up,  
+**Translation:** Vocabulary: participates: 参与
 
-**[2200.44s] English:** сходились. В выпускном классе мы были вместе. И я мечтал о будущем. Но мы не учили одного.  
+**[2200.44s] English:** Schooled together. In senior class, we were still together. And I dreamed of the future. But we didn't end up studying the same things.  
 **Translation:** 
 
-**[2210.92s] English:** Она поступила в университет в Берлине, а я в Енисей.  
+**[2210.92s] English:** She entered university in Berlin, while I went to Enisei.  
 **Translation:** 
 
-**[2216.42s] English:** И в букв Catholics, а не в 당гу. Мы друзья началиить учительские учения в Украине. Города были  
+**[2216.42s] English:** Catholics, not Catholics. We friends began teacherly teachings in Ukraine. Cities were  
 **Translation:** 
 
-**[2225.16s] English:** слишком далеко друг от друга. Мы не могли ездить друг к другу на выходные. Общественный  
+**[2225.16s] English:** Too far from each other. We couldn't drive to each other's places on weekends. Public  
 **Translation:** 
 
-**[2231.70s] English:** транспорт был медленный, машин ни у кого не было. И...  
+**[2231.70s] English:** Transport was slow, nobody had cars. And...  
 **Translation:** 
 
-**[2237.98s] English:** И вот так обстоятельства разлучили вас?  
+**[2237.98s] English:** Is it so that circumstances have separated you?  
 **Translation:** 
 
-**[2240.40s] English:** Да. Мы обменялись парой писем, а потом я получил прощальное письмо.  
+**[2240.40s] English:** Yes. We exchanged a few emails, and then I received a farewell email.  
 **Translation:** 
 
-**[2246.42s] English:** Я до сих пор это ощущаю.  
+**[2246.42s] English:** I still feel it.  
 **Translation:** 
 
-**[2249.56s] English:** И это хорошо.  
+**[2249.56s] English:** And this is good.  
 **Translation:** 
 
-**[2251.84s] English:** Это боль — часть любви.  
+**[2251.84s] English:** This is pain — part of love.  
 **Translation:** 
 
-**[2256.34s] English:** Боль утраты — все еще часть любви.  
+**[2256.34s] English:** Grief is still a part of love.  
 **Translation:** 
 
-**[2259.30s] English:** Со временем она трансформируется, ты придаешь ей новую форму и даришь уже более глубокую любовь другим.  
-**Translation:** 
+**[2259.30s] English:** Over time, she transforms, you give her a new form, and you already offer deeper love to others.  
+**Translation:** Vocabulary: transforms: 转变
 
-**[2266.70s] English:** Ты прекрасно сказал.  
+**[2266.70s] English:** You said it perfectly.  
 **Translation:** 
 
-**[2268.14s] English:** Но тогда это меня просто опустошило.  
-**Translation:** 
+**[2268.14s] English:** But then it just drained me completely.  
+**Translation:** Vocabulary: drained: 耗尽
 
-**[2271.12s] English:** Да.  
+**[2271.12s] English:** Yes.  
 **Translation:** 
 
-**[2271.36s] English:** Если бы у меня была склонность к суицидальным мыслям, я мог бы покончить с собой.  
-**Translation:** 
+**[2271.36s] English:** If I had a tendency towards suicidal thoughts, I could have ended my life.  
+**Translation:** Vocabulary: suicidal: 自杀的
 
-**[2280.00s] English:** Это был один из самых тяжелых моментов в вашей жизни?  
+**[2280.00s] English:** Was this one of the most difficult moments in your life?  
 **Translation:** 
 
-**[2284.66s] English:** Дай подумать.  
+**[2284.66s] English:** Do think about it.  
 **Translation:** 
 
-**[2287.08s] English:** Да, если речь о моменте, а не периоде.  
+**[2287.08s] English:** Yes, if we're talking about a moment, not a period.  
 **Translation:** 
 
-**[2289.38s] English:** Я до сих пор помню, как стоял у почтового ящика, ожидая письма.  
-**Translation:** 
+**[2289.38s] English:** I still remember standing by the mailbox, waiting for the mail.  
+**Translation:** Vocabulary: mailbox: 邮箱
 
-**[2299.46s] English:** Однажды оно пришло.  
+**[2299.46s] English:** One day, it came.  
 **Translation:** 
 
-**[2301.22s] English:** Я поднялся в свою комнату, открыл его, прочитал.  
+**[2301.22s] English:** I went up to my room, opened it, and read it.  
 **Translation:** 
 
-**[2304.70s] English:** И жизнь будто покинула меня.  
+**[2304.70s] English:** Life seemed to have left me.  
 **Translation:** 
 
-**[2310.68s] English:** Вы остались один на один с этой болью.  
+**[2310.68s] English:** You are left alone with this pain.  
 **Translation:** 
 
-**[2314.48s] English:** Оказались совсем одиноким в этом мире.  
+**[2314.48s] English:** We ended up completely alone in this world.  
 **Translation:** 
 
-**[2317.42s] English:** Да, потому что у меня не было эмоциональной связи с родителями.  
+**[2317.42s] English:** Yes, because I did not have an emotional connection with my parents.  
 **Translation:** 
 
-**[2325.46s] English:** У меня буквально никого не было.  
+**[2325.46s] English:** I literally had nobody.  
 **Translation:** 
 
-**[2327.86s] English:** Любовь, которая в вас жила, не нашла выхода.  
-**Translation:** 
+**[2327.86s] English:** Love that lived in you found no outlet.  
+**Translation:** Vocabulary: outlet: 出口
 
-**[2331.46s] English:** Ее просто задушили.  
+**[2331.46s] English:** She was simply strangled.  
 **Translation:** 
 
-**[2334.70s] English:** Но в итоге я все же решил двигаться дальше.  
-**Translation:** 
+**[2334.70s] English:** But in the end, I decided to move forward anyway.  
+**Translation:** Vocabulary: strangled: 勒死
 
-**[2341.78s] English:** Я с головой ушел в изучение химии.  
+**[2341.78s] English:** I have immersed myself in the study of chemistry.  
 **Translation:** 
 
-**[2347.44s] English:** Работал усерднее всех своих одногруппников.  
-**Translation:** 
+**[2347.44s] English:** Worked harder than all of his classmates.  
+**Translation:** Vocabulary: immersed: 专心于
 
-**[2352.78s] English:** И поскольку я был достаточно умен, я учился на отлично.  
+**[2352.78s] English:** Since I was smart enough, I got excellent grades.  
 **Translation:** 
 
-**[2360.00s] English:** Первые два года в университете, представь, студенческий город.  
+**[2360.00s] English:** The first two years in university? A student city.  
 **Translation:** 
 
-**[2364.52s] English:** Танцы, студенческий клуб.  
+**[2364.52s] English:** Dances, Student Club.  
 **Translation:** 
 
-**[2368.12s] English:** А я не смотрел ни на одну девушку.  
+**[2368.12s] English:** I did not look at any girl.  
 **Translation:** 
 
-**[2372.66s] English:** Я знал, что однажды снова захочу близости.  
+**[2372.66s] English:** I knew that someday I would want intimacy again.  
 **Translation:** 
 
-**[2377.56s] English:** Но любовь нет.  
-**Translation:** 
+**[2377.56s] English:** But love is not here.  
+**Translation:** Vocabulary: intimacy: 亲密
 
-**[2379.08s] English:** Это слишком больно.  
+**[2379.08s] English:** This is too painful.  
 **Translation:** 
 
-**[2380.78s] English:** Есть такая песня, Love Hearts.  
+**[2380.78s] English:** There is a song called Love Hearts.  
 **Translation:** 
 
-**[2383.26s] English:** Да, да, знаю ее.  
+**[2383.26s] English:** Yes, yes, I know her.  
 **Translation:** 
 
-**[2385.54s] English:** Песен с таким посылом очень много.  
+**[2385.54s] English:** There are many songs with such a message.  
 **Translation:** 
 
-**[2388.80s] English:** Да.  
+**[2388.80s] English:** Yes.  
 **Translation:** 
 
-**[2390.62s] English:** Итак, вы добились больших...  
+**[2390.62s] English:** So, you have achieved great...  
 **Translation:** 
 
-**[2394.52s] English:** Академических достижений в химии.  
+**[2394.52s] English:** Academic achievements in chemistry.  
 **Translation:** 
 
-**[2398.04s] English:** Давайте вернемся к вашей истории.  
+**[2398.04s] English:** Let's return to your story.  
 **Translation:** 
 
-**[2399.86s] English:** И вы тоже.  
+**[2399.86s] English:** And you too.  
 **Translation:** 
 
-**[2402.82s] English:** Спасибо.  
-**Translation:** 
+**[2400.00s] English:** In your book "Deep Cover: My Secret Life and Thorny Path as a KGB Spy in America" and in the excellent podcast "Agent," which everyone should listen to, you tell us about your life as a KGB agent before, during, and after service.  
+**Translation:** Vocabulary: thorny: 棘手的
 
-**[2403.20s] English:** Добро пожаловать на наш канал.  
+**[2402.82s] English:** Thank you.  
 **Translation:** 
 
-**[2405.36s] English:** Если вам понравился наш канал, то ставьте лайк.  
+**[2403.20s] English:** Welcome to our channel.  
 **Translation:** 
 
-**[2408.50s] English:** Большая благодарность и всем вам, кто поддерживает нас до конца.  
+**[2405.36s] English:** If you liked our channel, please like it.  
 **Translation:** 
 
-**[2414.20s] English:** Все, кто поддерживает нас, все, кто поддерживает нас до конца.  
+**[2408.50s] English:** Big thanks to all of you who supported us till the end.  
 **Translation:** 
 
-**[2418.68s] English:** Вы со мной общаться с людьми, вы со мной общаться с людьми.  
+**[2414.20s] English:** All who support us, all who support us until the end.  
 **Translation:** 
 
-**[2422.46s] English:** Всем спасибо.  
+**[2418.68s] English:** You are communicating with me, you are communicating with me.  
 **Translation:** 
 
-**[2424.12s] English:** Чтобы не пропустить новые видео, ставьте лайк.  
+**[2419.58s] English:** Tell me how you were first recruited by the KGB? How did they make such a proposal to you?  
 **Translation:** 
 
-**[2427.66s] English:** И все.  
-**Translation:** 
+**[2422.46s] English:** Thank you all.  
+**Translation:** Vocabulary: recruited: 招募
 
-**[2428.66s] English:** До новых встреч.  
+**[2424.12s] English:** To not miss the new videos, like this one.  
 **Translation:** 
 
-**[2429.14s] English:** Пока!  
+**[2427.66s] English:** And that's it.  
 **Translation:** 
 
-**[2400.00s] English:** В вашей книге «Глубоко под прикрытием. Моя тайная жизнь и тернистый путь шпиона КГБ в Америке» и в отличном подкасте «Агент», который всем стоит послушать, в нем вы рассказываете о своей жизни агента КГБ до, во время и после службы.  
+**[2428.66s] English:** Until we meet again.  
 **Translation:** 
 
-**[2419.58s] English:** Расскажите, как вас впервые завербовали в КГБ? Как вам сделали подобное предложение?  
-**Translation:** 
+**[2429.14s] English:** Goodbye!  
+**Translation:** Vocabulary: goodbye: 再见
 
-**[2429.76s] English:** Это был большой сюрприз. Я никогда не думал о себе как о потенциальном агенте. Я собирался стать профессором с постоянным контрактом, стать элитой. В Европе постоянный контракт – редкость.  
+**[2429.76s] English:** This was a big surprise. I never thought of myself as a potential agent. I planned to become a professor with a permanent contract, part of the elite. In Europe, permanent contracts are rare.  
 **Translation:** 
 
-**[2444.38s] English:** Не как в США, где каждый, кто преподает в университете, получает должность профессора.  
-**Translation:** 
+**[2444.38s] English:** Not like in the United States, where every university professor holds a professorship.  
+**Translation:** Vocabulary: professorship: 教授职位
 
-**[2449.58s] English:** Осторожнее.  
+**[2449.58s] English:** Be careful.  
 **Translation:** 
 
-**[2450.78s] English:** Это не критика, просто факт.  
+**[2450.78s] English:** This is not criticism, simply a fact.  
 **Translation:** 
 
-**[2453.46s] English:** Ну да. И стоит уточнить, что профессор с постоянным контрактом – это очень престижная позиция в Европе, особенно в коммунистических странах. Я до конца не разбираюсь, но знаю, что в СССР, где я вырос, это престижная должность.  
+**[2453.46s] English:** Nu da. And it's worth noting that a professor with a permanent contract is a very prestigious position in Europe, especially in communist countries. I'm not entirely clear on the specifics, but I know that in the USSR, where I grew up, it was a prestigious position.  
 **Translation:** 
 
-**[2473.00s] English:** Так и есть. В нашем городе было около 100 тысяч жителей.  
-**Translation:** 
+**[2473.00s] English:** So it is. Our city had around 100 thousand residents.  
+**Translation:** Vocabulary: prestigious: 声望高的
 
-**[2478.74s] English:** И...  
+**[2478.74s] English:** And...  
 **Translation:** 
 
-**[2479.58s] English:** Кажется, всего 30 профессоров с постоянной должностью. Они были частью правящей элиты. Я стремился к хорошей жизни. Делал все, чтобы получить доступ ко всему лучшему.  
-**Translation:** 
+**[2479.58s] English:** It seems there are only 30 professors with permanent positions. They were part of the ruling elite. I strove for a good life and did everything to have access to all the best things.  
+**Translation:** Vocabulary: strove: 努力争取
 
-**[2496.22s] English:** Но главным в должности профессора в Восточной Германии был престиж?  
+**[2496.22s] English:** But was prestige the main thing in a professorship in East Germany?  
 **Translation:** 
 
-**[2503.92s] English:** И ощущение превосходства. Я был полон самомнения.  
-**Translation:** 
+**[2503.92s] English:** And the feeling of superiority. I was full of self-confidence.  
+**Translation:** Vocabulary: prestige: 声望; superiority: 优越感
 
-**[2509.58s] English:** Когда ты лучший из лучших, на третьем году учебы я получил стипендию имени Карла Маркса, которую...  
+**[2509.58s] English:** When you are one of the best, in my third year of study, I received the Karl Marx Scholarship, which...  
 **Translation:** 
 
-**[2520.00s] English:** выдавали всего 100 студентам по всей стране.  
+**[2520.00s] English:** It was given to only 100 students across the country.  
 **Translation:** 
 
-**[2525.14s] English:** Боже, сколько у меня было самомнения.  
+**[2525.14s] English:** Oh, how much self-confidence I had.  
 **Translation:** 
 
-**[2528.08s] English:** Я так верил в себя.  
+**[2528.08s] English:** I so believed in myself.  
 **Translation:** 
 
-**[2530.16s] English:** Я был на вершине.  
+**[2530.16s] English:** I was at the top.  
 **Translation:** 
 
-**[2531.38s] English:** Плюс, меня хвалили преподаватели и однокурсники.  
-**Translation:** 
+**[2531.38s] English:** Plus, my professors and classmates praised me.  
+**Translation:** Vocabulary: praised: 受到表扬
 
-**[2542.88s] English:** Кормили ваше эго?  
+**[2542.88s] English:** Did you feed your ego?  
 **Translation:** 
 
-**[2545.32s] English:** Да.  
+**[2545.32s] English:** Yes.  
 **Translation:** 
 
-**[2546.02s] English:** Когда ты молод, чтобы преуспеть, нужно в себя верить.  
+**[2546.02s] English:** When you are young, to succeed, you need to believe in yourself.  
 **Translation:** 
 
-**[2551.48s] English:** Вы с этим отлично справились.  
+**[2551.48s] English:** You have handled this perfectly.  
 **Translation:** 
 
-**[2554.20s] English:** Но для баланса нужен наставник, кто-то, кто поможет смотреть на вещи шире.  
+**[2554.20s] English:** But for balance, we need a mentor, someone who will help us look at things more broadly.  
 **Translation:** 
 
-**[2559.18s] English:** У меня таких не было.  
-**Translation:** 
+**[2559.18s] English:** I didn't have any of those.  
+**Translation:** Vocabulary: broadly: 宽广地; mentor: 导师
 
-**[2561.10s] English:** Отец в жизни не фигурировал, и никто.  
+**[2561.10s] English:** Father never figured in my life, and nobody did.  
 **Translation:** 
 
-**[2563.76s] English:** Все равнялись на меня.  
-**Translation:** 
+**[2563.76s] English:** All equalized around me.  
+**Translation:** Vocabulary: equalized: 平等化
 
-**[2566.08s] English:** Я был подающим надежды парням.  
+**[2566.08s] English:** I was a promising young man.  
 **Translation:** 
 
-**[2568.06s] English:** То есть не было отцовской фигуры?  
+**[2568.06s] English:** So there was no father figure?  
 **Translation:** 
 
-**[2570.24s] English:** Вообще.  
+**[2570.24s] English:** Generally.  
 **Translation:** 
 
-**[2571.10s] English:** И вот тебе такой пример.  
+**[2571.10s] English:** Here's an example.  
 **Translation:** 
 
-**[2572.88s] English:** Уже позже, когда я учился,  
+**[2572.88s] English:** Already later, when I was studying,  
 **Translation:** 
 
-**[2574.54s] English:** на пятом курсе у меня родился ребенок вне брака.  
+**[2574.54s] English:** On my fifth year of college, I had a child out of marriage.  
 **Translation:** 
 
-**[2582.70s] English:** Люди в Коммунистической партии Восточной Германии были моралистами.  
+**[2582.70s] English:** People in the Communist Party of Eastern Germany were moralists.  
 **Translation:** 
 
-**[2587.22s] English:** За подобное обычно вызывали на разговор, могли даже вынести строгий выговор.  
-**Translation:** 
+**[2587.22s] English:** For such behavior, they were usually called in for a talk, and could even be given a strict reprimand.  
+**Translation:** Vocabulary: moralists: 道德家; reprimand: 严厉批评
 
-**[2593.26s] English:** Но в моем случае никто даже не заикнулся.  
+**[2593.26s] English:** But in my case, nobody even mentioned it.  
 **Translation:** 
 
-**[2596.56s] English:** Так вот и взращивается эго.  
-**Translation:** 
+**[2596.56s] English:** So here, the ego is nurtured.  
+**Translation:** Vocabulary: nurtured: 培养
 
-**[2600.12s] English:** Но вернемся к тому, как КГБ на меня вышли.  
+**[2600.12s] English:** But let's return to how the KGB approached me.  
 **Translation:** 
 
-**[2603.54s] English:** Скорее всего, они узнали обо мне из архивов Штази.  
-**Translation:** 
+**[2603.54s] English:** Most likely, they found out about me from the Stasi archives.  
+**Translation:** Vocabulary: approached: 接触; archives: 档案
 
-**[2613.76s] English:** Что такое Штази?  
+**[2613.76s] English:** What is Stasi?  
 **Translation:** 
 
-**[2615.14s] English:** Это тайная полиция Восточной Германии.  
+**[2615.14s] English:** This is the secret police of East Germany.  
 **Translation:** 
 
-**[2617.92s] English:** Штат Зихирайт.  
+**[2617.92s] English:** Zihayt State.  
 **Translation:** 
 
-**[2619.44s] English:** Государственная безопасность.  
+**[2619.44s] English:** State Security.  
 **Translation:** 
 
-**[2622.32s] English:** Опять слово безопасность.  
+**[2622.32s] English:** Again, the word security.  
 **Translation:** 
 
-**[2625.46s] English:** Они вели досье практически на всех в стране.  
+**[2625.46s] English:** They kept files on just about everyone in the country.  
 **Translation:** 
 
-**[2629.54s] English:** И если поискать...  
+**[2629.54s] English:** If one were to search...  
 **Translation:** 
 
-**[2633.54s] English:** Так КГБ и делали. Они искали кандидатов.  
+**[2633.54s] English:** So the KGB did it. They looked for candidates.  
 **Translation:** 
 
-**[2637.54s] English:** Особенно для той роли, которую они задумали для меня.  
+**[2637.54s] English:** Especially for the role they had in mind for me.  
 **Translation:** 
 
-**[2640.00s] English:** Кандидатов, которым было лет по 25, еще не сформировавшихся, но при этом достаточно зрелых, чтобы быть полезными, и в то же время еще достаточно молодых.  
-**Translation:** 
+**[2640.00s] English:** Candidates, who were around 25 years old, not yet fully formed, but already mature enough to be useful, and at the same time still sufficiently young.  
+**Translation:** Vocabulary: mature: 成熟; sufficiently: 足够
 
-**[2656.92s] English:** В таком возрасте можно понять, подходит ли человек для такой работы?  
+**[2656.92s] English:** In such an age, can one understand whether a person is suitable for such work?  
 **Translation:** 
 
-**[2660.38s] English:** Да, совершенно верно.  
+**[2660.38s] English:** Yes, that is completely correct.  
 **Translation:** 
 
-**[2662.60s] English:** И вот однажды мою дверь в общежитии постучали.  
+**[2662.60s] English:** And one day, someone knocked on my dorm room door.  
 **Translation:** 
 
-**[2668.20s] English:** Это было в субботу.  
+**[2668.20s] English:** This was on Saturday.  
 **Translation:** 
 
-**[2670.00s] English:** И они знали, что я буду один.  
+**[2670.00s] English:** They knew that I would be alone.  
 **Translation:** 
 
-**[2677.34s] English:** Откуда знали?  
+**[2677.34s] English:** From where did you know?  
 **Translation:** 
 
-**[2679.26s] English:** Позже я собрал картину воедино.  
+**[2679.26s] English:** Later, I put the puzzle together.  
 **Translation:** 
 
-**[2683.44s] English:** У нас был студент по обмену из Советского Союза.  
+**[2683.44s] English:** We had a student exchange from the Soviet Union.  
 **Translation:** 
 
-**[2686.96s] English:** Он жил в соседней комнате.  
+**[2686.96s] English:** He lived in the neighboring room.  
 **Translation:** 
 
-**[2692.12s] English:** Мы подружились.  
-**Translation:** 
+**[2692.12s] English:** We became friends.  
+**Translation:** Vocabulary: neighboring: 相邻的
 
-**[2693.64s] English:** Немного узнали друг друга, но...  
+**[2693.64s] English:** They knew each other a little, but...  
 **Translation:** 
 
-**[2696.56s] English:** Обычно мой сосед уезжал домой на выходные.  
+**[2696.56s] English:** Usually, my neighbor travels home on weekends.  
 **Translation:** 
 
-**[2700.00s] English:** Ну и, конечно, они знали, в какую дверь стучать, хоть на них и не было табличек.  
+**[2700.00s] English:** Nu and of course, they knew which door to knock on, though there were no signs for them.  
 **Translation:** 
 
-**[2707.00s] English:** Я слышу стук, и сразу понимаю, что это чужак.  
-**Translation:** 
+**[2707.00s] English:** I hear a knock, and immediately realize it's an outsider.  
+**Translation:** Vocabulary: outsider: 门外的人
 
-**[2712.00s] English:** У нас, студентов, был другой порядок.  
+**[2712.00s] English:** For us students, it was a different order.  
 **Translation:** 
 
-**[2715.00s] English:** Мы обычно стучали и сразу открывали дверь.  
+**[2715.00s] English:** We usually knocked and immediately opened the door.  
 **Translation:** 
 
-**[2718.00s] English:** Не ждали, что нам откроют.  
+**[2718.00s] English:** We did not expect that they would open up to us.  
 **Translation:** 
 
-**[2721.00s] English:** Я подождал 10 секунд, дверь никто не открыл.  
+**[2721.00s] English:** I waited for 10 seconds, but nobody opened the door.  
 **Translation:** 
 
-**[2725.00s] English:** Я понял, что это чужие, и сказал, «Входите».  
+**[2725.00s] English:** I understood that these were strangers, and I said, "Enter.  
 **Translation:** 
 
-**[2729.00s] English:** Входите.  
+**[2729.00s] English:** Enter.  
 **Translation:** 
 
-**[2730.00s] English:** Вошел мужчина, который говорил на чистом немецком.  
+**[2730.00s] English:** A man who spoke pure German entered.  
 **Translation:** 
 
-**[2734.00s] English:** Значит, это не был человек из КГБ, скорее, коллаборант.  
-**Translation:** 
+**[2734.00s] English:** Meaningless, this was not a KGB agent, rather, a collaborator.  
+**Translation:** Vocabulary: collaborator: 合作者
 
-**[2739.00s] English:** Он начал издалека.  
+**[2739.00s] English:** He began from afar.  
 **Translation:** 
 
-**[2742.00s] English:** Назвался представителем компании Carl Zeiss Jena.  
+**[2742.00s] English:** He identified himself as a representative of the company Carl Zeiss Jena.  
 **Translation:** Vocabulary: zeiss: 蔡司
 
-**[2746.00s] English:** Эта фирма занималась оптикой.  
+**[2746.00s] English:** This firm dealt with optics.  
 **Translation:** 
 
-**[2751.00s] English:** Производила очень хорошие оптические приборы.  
-**Translation:** 
+**[2751.00s] English:** Produced very good optical instruments.  
+**Translation:** Vocabulary: optical: 光学的; optics: 光学
 
-**[2756.00s] English:** Одни из лучших в мире.  
+**[2756.00s] English:** One of the best in the world.  
 **Translation:** 
 
-**[2758.00s] English:** То есть...  
+**[2758.00s] English:** That is...  
 **Translation:** 
 
-**[2759.00s] English:** – Входите, идите, behavior mobile.  
+**[2759.00s] English:** - Enter and go in, behavior mobile.  
 **Translation:** 
 
-**[2760.00s] English:** Субтитры создавал DimaTorzok  
-**Translation:** 
+**[2760.00s] English:** Subtitles created by DimaTorzok  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[2761.00s] English:** Port bells  
+**[2760.00s] English:** In this city, this was a very prestigious enterprise.  
 **Translation:** 
 
-**[2760.00s] English:** В этом городе это было очень престижное предприятие.  
-**Translation:** 
+**[2761.00s] English:** Port Bells  
+**Translation:** Vocabulary: prestigious: 声望高的
 
-**[2764.74s] English:** Да.  
+**[2764.74s] English:** Yes.  
 **Translation:** 
 
-**[2765.46s] English:** Он сказал, что представляет эту компанию  
+**[2765.46s] English:** He said that he represents this company.  
 **Translation:** 
 
-**[2768.26s] English:** и хочет узнать о моих планах после окончания университета.  
+**[2768.26s] English:** And wants to know about my plans after graduating from university.  
 **Translation:** 
 
-**[2776.48s] English:** В этот момент я понял, что он точно не из Карл Цейсиена.  
+**[2776.48s] English:** At that moment, I understood that he was definitely not from Carl Zeiss.  
 **Translation:** 
 
-**[2780.86s] English:** В те годы не было понятия рекрутинг.  
+**[2780.86s] English:** In those years, there was no concept of recruiting.  
 **Translation:** 
 
-**[2783.66s] English:** Мужик, если ты входил в топ-10% лучших выпускников университета,  
-**Translation:** 
+**[2783.66s] English:** If you were in the top 10% of the best university graduates, man,  
+**Translation:** Vocabulary: recruiting: 招聘
 
-**[2791.92s] English:** тебя, скорее всего, оставляли в аспирантуре.  
+**[2791.92s] English:** You were probably kept in the graduate program.  
 **Translation:** 
 
-**[2797.44s] English:** Всех остальных трудоустраивали по распределению, без права выбора.  
-**Translation:** 
+**[2797.44s] English:** All others were placed at work through allocation with no right to choose.  
+**Translation:** Vocabulary: allocation: 分配
 
-**[2803.06s] English:** Мужик был идиотом.  
+**[2803.06s] English:** The man was an idiot.  
 **Translation:** 
 
-**[2807.60s] English:** Он не понимал базовых...  
+**[2807.60s] English:** He didn't understand the basics....  
 **Translation:** 
 
-**[2810.76s] English:** То есть вы сами его собеседовали?  
+**[2810.76s] English:** So, you interviewed him yourself?  
 **Translation:** 
 
-**[2813.16s] English:** Я.  
+**[2813.16s] English:** Ya.  
 **Translation:** 
 
-**[2813.66s] English:** Я начал.  
+**[2813.66s] English:** I began.  
 **Translation:** 
 
-**[2815.68s] English:** Прощупывали его, врет он или нет.  
-**Translation:** 
+**[2815.68s] English:** They were probing him to see if he was lying or not.  
+**Translation:** Vocabulary: probing: 试探
 
-**[2817.70s] English:** Что за незнакомец пришел к вам в общагу?  
+**[2817.70s] English:** What stranger came to your dormitory?  
 **Translation:** 
 
-**[2820.52s] English:** В тот момент я был уверен, что он из Штази.  
-**Translation:** 
+**[2820.52s] English:** At that moment, I was sure he was from the Stasi.  
+**Translation:** Vocabulary: dormitory: 学生宿舍
 
-**[2825.04s] English:** Я ошибся, он ведь был немец.  
+**[2825.04s] English:** I was wrong; he was German.  
 **Translation:** 
 
-**[2827.40s] English:** Но мне и в голову не пришло, что он из КГБ.  
+**[2827.40s] English:** But it never occurred to me that he was from the KGB.  
 **Translation:** 
 
-**[2830.34s] English:** Простите, что перебиваю.  
+**[2830.34s] English:** Sorry, that I'm interrupting.  
 **Translation:** 
 
-**[2833.82s] English:** Как думаете, люди понимали, что в ГДР существует организация вроде Штази?  
-**Translation:** 
+**[2833.82s] English:** Do you think people understood that there was an organization like Stasi in the GDR?  
+**Translation:** Vocabulary: interrupting: 打断
 
-**[2840.34s] English:** Что множество людей заняты такой деятельностью?  
+**[2840.34s] English:** What is occupied by such an activity by many people?  
 **Translation:** 
 
-**[2843.66s] English:** Раз вы предположили...  
+**[2843.66s] English:** If you have assumed...  
 **Translation:** 
 
-**[2847.32s] English:** Конечно, мы знали о существовании Штази.  
+**[2847.32s] English:** Of course, we knew about the existence of Stasi.  
 **Translation:** 
 
-**[2850.80s] English:** У нас даже был свой Джеймс Бонд,  
+**[2850.80s] English:** We even had our own James Bond.  
 **Translation:** 
 
-**[2856.12s] English:** сериал «Невидимый визор».  
+**[2856.12s] English:** Serie "Невидимый визор".  
 **Translation:** 
 
-**[2858.20s] English:** В нем сотрудник Штази из Восточной Германии проник в Западную Германию и выслеживал нацистов.  
-**Translation:** 
+**[2858.20s] English:** In it, a Stasi employee from East Germany infiltrated West Germany and tracked down Nazis.  
+**Translation:** Vocabulary: infiltrated: 潜入; nazis: 纳粹分子
 
-**[2864.52s] English:** Ага.  
+**[2864.52s] English:** Agreed.  
 **Translation:** 
 
-**[2865.34s] English:** Так что Штази было на слуху.  
-**Translation:** 
+**[2865.34s] English:** So the Stasi was in the spotlight.  
+**Translation:** Vocabulary: spotlight: 聚光灯
 
-**[2867.50s] English:** Их уважали или боялись?  
+**[2867.50s] English:** Did they respect or fear them?  
 **Translation:** 
 
-**[2869.48s] English:** Или и то, и другое?  
+**[2869.48s] English:** Or both?  
 **Translation:** 
 
-**[2871.36s] English:** Я видел в них необходимость.  
+**[2871.36s] English:** I saw a necessity in them.  
 **Translation:** 
 
-**[2873.66s] English:** И уважал их.  
-**Translation:** 
+**[2873.66s] English:** He respected them.  
+**Translation:** Vocabulary: necessity: 必要性; respected: 尊重
 
-**[2875.02s] English:** Как Джеймса Бонда?  
+**[2875.02s] English:** How about James Bond?  
 **Translation:** 
 
-**[2876.26s] English:** Да, и все потому, что у меня не было причин убедиться, что они были виноваты.  
+**[2876.26s] English:** Yes, and all because I didn't have any reason to make sure they were guilty.  
 **Translation:** 
 
-**[2880.00s] English:** в обратном. Я лично не знал никого, кто бы подвергался слежке, кого бы арестовали,  
+**[2880.00s] English:** In reverse. Personally, I didn't know anyone who was surveilled or arrested.  
 **Translation:** 
 
-**[2893.44s] English:** даже дальних знакомых не было. Я понятия не имел, что штази причиняли столько вреда,  
-**Translation:** 
+**[2893.44s] English:** Even distant acquaintances were absent. I had no idea that the Stasi caused so much harm,  
+**Translation:** Vocabulary: acquaintances: 熟人; surveilled: 监视
 
-**[2901.96s] English:** что они тотально следили за жителями Восточной Германии, как КГБ следил за Советским Союзом.  
+**[2901.96s] English:** That they totally surveilled the residents of East Germany, as the KGB surveilled the Soviet Union.  
 **Translation:** 
 
-**[2909.10s] English:** Поэтому, когда я понял, что говорю с человеком из штази, мне стало любопытно, что будет дальше,  
+**[2909.10s] English:** Therefore, when I realized I was speaking with someone from the Stasi, I became curious as to what would happen next.  
 **Translation:** 
 
-**[2919.60s] English:** потому что я понимал, что произойдет что-то интересное. На тот момент я не догадывался,  
+**[2919.60s] English:** Because I understood that something interesting would happen. At that moment, I didn't realize it.  
 **Translation:** 
 
-**[2927.78s] English:** что именно. И вот он наконец дошел до сути, и сам себя опроверг. Вы знаете, я должен сказать,  
-**Translation:** 
+**[2927.78s] English:** What exactly. And here he finally got to the point and contradicted himself. You know, I must say,  
+**Translation:** Vocabulary: contradicted: 自相矛盾
 
-**[2935.84s] English:** что на самом деле я не из... Карл Цейнер.  
+**[2935.84s] English:** What's interesting is that I am not... Karl Zieher.  
 **Translation:** 
 
-**[2939.10s] English:** Я из Йена. Я от правительства. Хорошо, спасибо, что уточнил. А потом задал вопрос. Как думаете,  
-**Translation:** 
+**[2939.10s] English:** I am from Jena. I am from the government. Good, thanks for clarifying. Then I asked a question. How do you think?  
+**Translation:** Vocabulary: clarifying: 澄清
 
-**[2948.34s] English:** готовы были бы вы работать на правительство? Я дал хитрый ответ. Да, но не в качестве химика. То есть  
+**[2948.34s] English:** Are you willing to work for the government? I gave a sly answer: Yes, but not as a chemist.  
 **Translation:** 
 
-**[2958.16s] English:** ответил на вопрос, который он не задавал. Помог ему. Мы договорились встретиться за обедом. В Германии  
-**Translation:** 
+**[2958.16s] English:** He answered a question he hadn't asked. I helped him with it. We agreed to meet for lunch. In Germany,  
+**Translation:** Vocabulary: chemist: 化学家
 
-**[2969.10s] English:** в Германии наше время запланировали прием пищи в лучшем ресторане Йена. Я до сих пор помню, что ел.  
+**[2969.10s] English:** In Germany, during our time we planned a meal at the best restaurant in Jena. I still remember what I ate.  
 **Translation:** 
 
-**[2975.38s] English:** Что? Рамштекс с маслом сверху и картофель фри. Мое любимое блюдо. В общем, прихожу я в ресторан,  
-**Translation:** 
+**[2975.38s] English:** What? Ramshackle with oil on top and french fries. My favorite dish. In general, I go to the restaurant,  
+**Translation:** Vocabulary: ramshackle: 破旧不堪
 
-**[2986.24s] English:** вижу этого человека за дальним столиком, но с ним кто-то сидит. Я немного замешкался,  
+**[2986.24s] English:** I see this person at the far table, but someone is sitting with them. I hesitated slightly.  
 **Translation:** 
 
-**[2993.52s] English:** потому что в то время в Восточной Германии незнакомцы нередко могли сидеть за  
-**Translation:** 
+**[2993.52s] English:** Because at that time in East Germany, strangers often could sit at  
+**Translation:** Vocabulary: hesitated: 犹豫了
 
-**[2999.10s] English:** задним столом.  
+**[2999.10s] English:** Back seat.  
 **Translation:** 
 
-**[3000.72s] English:** Мест в заведениях не хватало.  
+**[3000.72s] English:** There were not enough places in the establishments.  
 **Translation:** 
 
-**[3004.60s] English:** Я не знал, можно ли подойти.  
+**[3004.60s] English:** I didn't know if it was okay to approach.  
 **Translation:** 
 
-**[3006.80s] English:** Но он встал, сам подошел ко мне, подвел к столу и сказал,  
-**Translation:** 
+**[3006.80s] English:** But he got up, approached me himself, led me to the table, and said,  
+**Translation:** Vocabulary: approached: 靠近
 
-**[3011.44s] English:** «Хочу представить вам Хермана.  
+**[3011.44s] English:** Let me introduce you to Herman.  
 **Translation:** 
 
-**[3014.94s] English:** Мы работаем с нашими советскими товарищами».  
-**Translation:** 
+**[3014.94s] English:** We work with our Soviet comrades.  
+**Translation:** Vocabulary: comrades: 同志
 
-**[3019.24s] English:** Ага, КГБ.  
+**[3019.24s] English:** Agreed, KGB.  
 **Translation:** 
 
-**[3020.92s] English:** И после этого он ушел.  
+**[3020.92s] English:** After that, he went away.  
 **Translation:** 
 
-**[3022.42s] English:** Сказал, у меня есть другие дела.  
+**[3022.42s] English:** He said he has other matters to attend to.  
 **Translation:** 
 
-**[3023.84s] English:** Я так и не узнал его имени.  
+**[3023.84s] English:** I never learned his name.  
 **Translation:** 
 
-**[3026.30s] English:** Он просто передал меня КГБ.  
+**[3026.30s] English:** He simply handed me over to the KGB.  
 **Translation:** 
 
-**[3028.20s] English:** Какие были отношения между КГБ и Штази?  
+**[3028.20s] English:** What were the relations between the KGB and Stasi?  
 **Translation:** 
 
-**[3033.48s] English:** Между ними было тесное сотрудничество или просто формальный союз?  
+**[3033.48s] English:** Between them was there a close cooperation or just a formal alliance?  
 **Translation:** 
 
-**[3037.62s] English:** Они были довольно близкими союзниками.  
-**Translation:** 
+**[3037.62s] English:** They were fairly close allies.  
+**Translation:** Vocabulary: allies: 盟友
 
-**[3041.48s] English:** Как я говорил, КГБ покупал у немцев поддельные документы,  
+**[3041.48s] English:** As I said, the KGB bought fake documents from the Germans,  
 **Translation:** 
 
-**[3045.36s] English:** потому что у немцев подделки были лучше.  
-**Translation:** 
+**[3045.36s] English:** Because the forgeries the Germans produced were better.  
+**Translation:** Vocabulary: forgeries: 伪造文件
 
-**[3047.76s] English:** Они также обменивались информацией,  
+**[3047.76s] English:** They also exchanged information,  
 **Translation:** 
 
-**[3050.02s] English:** но не доверяли друг другу на 100%.  
+**[3050.02s] English:** But they didn't trust each other completely.  
 **Translation:** 
 
-**[3052.80s] English:** Откуда я это знаю?  
+**[3052.80s] English:** Where do I know this from?  
 **Translation:** 
 
-**[3055.96s] English:** Меня завербовали для отправки...  
-**Translation:** 
+**[3055.96s] English:** Meena was recruited for sending...  
+**Translation:** Vocabulary: recruited: 招募
 
-**[3058.20s] English:** ...в Западную Германию.  
+**[3058.20s] English:** ...to Western Germany.  
 **Translation:** 
 
-**[3061.14s] English:** Но, как я уже говорил, в ФРГ уже было около тысячи агентов.  
+**[3061.14s] English:** But, as I have already said, there were already about a thousand agents in the Federal Republic of Germany.  
 **Translation:** 
 
-**[3064.58s] English:** Зачем КГБ понадобилось отправлять туда своих?  
+**[3064.58s] English:** Why did the KGB need to send their own there?  
 **Translation:** 
 
-**[3066.88s] English:** Ага.  
+**[3066.88s] English:** Agreed.  
 **Translation:** 
 
-**[3068.20s] English:** Поразительно.  
+**[3068.20s] English:** Porphazhingly.  
 **Translation:** 
 
-**[3068.94s] English:** Получается, внутренний и внешний круг недоверия.  
-**Translation:** 
+**[3068.94s] English:** It turns out, there is an internal and external circle of distrust.  
+**Translation:** Vocabulary: distrust: 不信任
 
-**[3071.88s] English:** Это интересно.  
+**[3071.88s] English:** This is interesting.  
 **Translation:** 
 
-**[3073.28s] English:** Да.  
+**[3073.28s] English:** Yes.  
 **Translation:** 
 
-**[3074.44s] English:** Хорошо.  
+**[3074.44s] English:** Good.  
 **Translation:** 
 
-**[3076.74s] English:** Вот вас берут под крыло КГБ.  
+**[3076.74s] English:** Here you are taken under the wing of the KGB.  
 **Translation:** 
 
-**[3078.84s] English:** Когда поступило приглашение?  
+**[3078.84s] English:** When did the invitation arrive?  
 **Translation:** 
 
-**[3081.48s] English:** Не быстро.  
+**[3081.48s] English:** Not quickly.  
 **Translation:** 
 
-**[3082.44s] English:** Наше официальное сотрудничество с Херманом продлилось примерно...  
+**[3082.44s] English:** Our official cooperation with Herman lasted approximately...  
 **Translation:** 
 
-**[3087.48s] English:** ...полтора года.  
+**[3087.48s] English:** ...one and a half years.  
 **Translation:** 
 
-**[3089.48s] English:** Мы встречались раз в неделю.  
+**[3089.48s] English:** We met once a week.  
 **Translation:** 
 
-**[3091.48s] English:** Или раз в две недели.  
+**[3091.48s] English:** Or every two weeks.  
 **Translation:** 
 
-**[3093.48s] English:** Сначала в его машине.  
+**[3093.48s] English:** In his car first.  
 **Translation:** 
 
-**[3095.48s] English:** Потом он стал...  
+**[3095.48s] English:** Then he became...  
 **Translation:** 
 
-**[3097.48s] English:** ...приводить меня...  
+**[3097.48s] English:** ...to bring me...  
 **Translation:** 
 
-**[3099.48s] English:** ...в конспиративную квартиру.  
-**Translation:** 
+**[3099.48s] English:** ...to the conspiratorial apartment.  
+**Translation:** Vocabulary: conspiratorial: 密谋的
 
-**[3101.48s] English:** Это была квартира...  
+**[3101.48s] English:** This was an apartment....  
 **Translation:** 
 
-**[3103.48s] English:** ...партийной активистки.  
+**[3103.48s] English:** ...party activist.  
 **Translation:** 
 
-**[3105.48s] English:** Одинокой женщины.  
+**[3105.48s] English:** One lonely woman.  
 **Translation:** 
 
-**[3109.48s] English:** Когда мы приходили, она уходила.  
+**[3109.48s] English:** When we came, she went.  
 **Translation:** 
 
-**[3111.48s] English:** Оставляла нам чай, печенье, и мы...  
+**[3111.48s] English:** She left us tea, cookies, and we...  
 **Translation:** 
 
-**[3113.48s] English:** ...могли свободно говорить.  
+**[3113.48s] English:** ...could freely speak.  
 **Translation:** 
 
-**[3115.48s] English:** Он приезжал к нам...  
+**[3115.48s] English:** He came to visit us...  
 **Translation:** 
 
-**[3116.42s] English:** ...и сказал...  
+**[3116.42s] English:** ...and said...  
 **Translation:** 
 
-**[3116.92s] English:** ...он приносил мне литературу из Западной Германии.  
+**[3116.92s] English:** ...He brought me literature from West Germany.  
 **Translation:** 
 
-**[3120.00s] English:** журналы, которые, естественно, были запрещены.  
+**[3120.00s] English:** Journals, which, of course, were banned.  
 **Translation:** 
 
-**[3124.58s] English:** Я уже начал чувствовать себя важным.  
+**[3124.58s] English:** I already began feeling important.  
 **Translation:** 
 
-**[3128.32s] English:** А когда мы обсуждали их планы на меня, я понял,  
+**[3128.32s] English:** When we discussed their plans for me, I understood,  
 **Translation:** 
 
-**[3133.54s] English:** что буду еще более особенным,  
+**[3133.54s] English:** What will make me even more special,  
 **Translation:** 
 
-**[3136.06s] English:** ведь я буду выше закона.  
+**[3136.06s] English:** Because I will be above the law.  
 **Translation:** 
 
-**[3140.20s] English:** Я буду оперировать вне закона,  
+**[3140.20s] English:** I will operate outside the law,  
 **Translation:** 
 
-**[3142.46s] English:** не только за границей, но и в Восточной Германии.  
+**[3142.46s] English:** Not only abroad, but also in Eastern Germany.  
 **Translation:** 
 
-**[3147.26s] English:** Я мог читать запрещенные журналы.  
+**[3147.26s] English:** I could read forbidden magazines.  
 **Translation:** 
 
-**[3150.16s] English:** А когда я официально вступил в КГБ,  
+**[3150.16s] English:** When I officially joined the KGB,  
 **Translation:** 
 
-**[3152.60s] English:** мне даже сказали смотреть западно-германское телевидение.  
+**[3152.60s] English:** I was even told to watch West German television.  
 **Translation:** 
 
-**[3156.46s] English:** Официально оно не было под запретом,  
+**[3156.46s] English:** Officially, it was not banned,  
 **Translation:** 
 
-**[3160.06s] English:** но за это можно было нарваться на проблемы.  
+**[3160.06s] English:** But for this, one could run into problems.  
 **Translation:** 
 
-**[3164.96s] English:** То есть вы были особенным Джеймсом Бондом?  
+**[3164.96s] English:** So, you were a special James Bond?  
 **Translation:** 
 
-**[3168.16s] English:** Да, да, да.  
+**[3168.16s] English:** Yes, yes, yes.  
 **Translation:** 
 
-**[3168.98s] English:** Как происходил процесс отбора, тестирования?  
+**[3168.98s] English:** How did the selection and testing process take place?  
 **Translation:** 
 
-**[3174.40s] English:** Как они проверяли, подходите ли вы для работы в КГБ?  
+**[3174.40s] English:** How did they check if you were suitable for work in the KGB?  
 **Translation:** 
 
-**[3180.00s] English:** Ну, прежде всего мы с Хёрманом вели очень глубокие разговоры о жизни.  
+**[3180.00s] English:** Nu,首先, Herman和我进行了非常深刻的关于生活的交谈。  
 **Translation:** 
 
-**[3192.40s] English:** Я всегда честно говорил о своих чувствах.  
+**[3192.40s] English:** I always honestly spoke about my feelings.  
 **Translation:** 
 
-**[3198.00s] English:** Я и до сих пор такой.  
+**[3198.00s] English:** I am still like that.  
 **Translation:** 
 
-**[3199.40s] English:** Философские или личные?  
+**[3199.40s] English:** Philosophical or personal?  
 **Translation:** 
 
-**[3201.20s] English:** Личные.  
+**[3201.20s] English:** Personal.  
 **Translation:** 
 
-**[3202.20s] English:** Личные.  
+**[3202.20s] English:** Personal.  
 **Translation:** 
 
-**[3203.20s] English:** Я даже признался ему, что стесняюсь девушек.  
+**[3203.20s] English:** I even admitted to him that I'm shy around girls.  
 **Translation:** 
 
-**[3206.90s] English:** Он давал советы, как строить отношения?  
+**[3206.90s] English:** He gave advice on how to build relationships?  
 **Translation:** 
 
-**[3209.20s] English:** Сколько ему было лет?  
+**[3209.20s] English:** How old was he?  
 **Translation:** 
 
-**[3211.20s] English:** Какая была динамика?  
+**[3211.20s] English:** What was the dynamics?  
 **Translation:** 
 
-**[3212.20s] English:** Больше похожая на отношения отца и сына, или он был как...  
+**[3212.20s] English:** More like a father-son relationship, or he was like...  
 **Translation:** 
 
-**[3215.20s] English:** Брат.  
+**[3215.20s] English:** Brother.  
 **Translation:** 
 
-**[3216.20s] English:** Брат?  
+**[3216.20s] English:** Brother?  
 **Translation:** 
 
-**[3217.20s] English:** Да, ему было, наверное, около 30-35, а я был младше лет на 10.  
+**[3217.20s] English:** Yes, he was probably around 30 to 35, and I was about ten years younger.  
 **Translation:** 
 
-**[3222.20s] English:** На каких языках он говорил?  
+**[3222.20s] English:** In which languages did he speak?  
 **Translation:** 
 
-**[3224.20s] English:** По-немецки, и довольно хорошо.  
+**[3224.20s] English:** In German, and quite well.  
 **Translation:** 
 
-**[3226.20s] English:** Но он был русским?  
+**[3226.20s] English:** But was he Russian?  
 **Translation:** 
 
-**[3228.20s] English:** Да, он говорил с русским акцентом.  
+**[3228.20s] English:** Yes, he spoke with a Russian accent.  
 **Translation:** 
 
-**[3230.20s] English:** Однажды я попал в неловкую ситуацию.  
+**[3230.20s] English:** Once I found myself in an awkward situation.  
 **Translation:** 
 
-**[3233.20s] English:** «Тебя же зовут Герман?»  
+**[3233.20s] English:** Your name is Hermann, right?  
 **Translation:** 
 
-**[3236.20s] English:** Ему это не понравилось.  
-**Translation:** 
+**[3236.20s] English:** He did not like it.  
+**Translation:** Vocabulary: hermann: 海曼
 
-**[3238.20s] English:** Не понравилось.  
+**[3238.20s] English:** Did not like it.  
 **Translation:** 
 
-**[3239.20s] English:** Да у него есть девушка.  
+**[3239.20s] English:** Yes, he has a girlfriend.  
 **Translation:** 
 
-**[3240.00s] English:** складывалось? О, нет. Помню, как он мне сказал. Ты должен понимать одну вещь. Девушки тоже ищут  
+**[3240.00s] English:** How did it come about? Oh, no. I remember what he told me. You should understand one thing. Girls also look for  
 **Translation:** 
 
-**[3248.38s] English:** парней. И все. А, то есть это обоюдный процесс. Ну да, конкурентная игра. Он говорил, не переживай,  
+**[3248.38s] English:** Парни. И все. А, то есть, это обоюдный процесс. Ну да, конкурентная игра. Он говорил: не переживай,  
 **Translation:** 
 
-**[3257.20s] English:** не будь таким застенчивым. А вот та искра любви, о которой мы говорили во всех ее проявлениях в  
+**[3257.20s] English:** Don't be so shy. And there's that spark of love, about which we spoke in all its manifestations,  
 **Translation:** 
 
-**[3263.30s] English:** жизни. Он с вами это обсуждал? Что ею могут воспользоваться, манипулировать? Или это  
-**Translation:** 
+**[3263.30s] English:** Life. Has he discussed this with you? What could be exploited or manipulated?  
+**Translation:** Vocabulary: exploited: 被利用; manifestations: 表现形式; manipulated: 被操控
 
-**[3271.02s] English:** подразумевалось? Да, но это не было основной темой. Мы больше говорили о личных предпочтениях,  
+**[3271.02s] English:** Did it entail? Yes, but it wasn't the main topic. We talked more about personal preferences,  
 **Translation:** 
 
-**[3280.42s] English:** взглядах. Он давал мне задания. Например, однажды мы с другом поехали автостопом из  
-**Translation:** 
+**[3280.42s] English:** Views. He gave me assignments. For example, once my friend and I hitchhiked from  
+**Translation:** Vocabulary: entail: 包含; hitchhiked: 搭便车
 
-**[3287.48s] English:** Восточной Германии в Болгарию. И он попросил меня написать отчет об этой поездке,  
+**[3287.48s] English:** Of Eastern Germany to Bulgaria. And he asked me to write a report on this trip,  
 **Translation:** 
 
-**[3293.30s] English:** что я видел. Он хотел понять, насколько хорошо я умею писать, насколько я наблюдателен,  
-**Translation:** 
+**[3293.30s] English:** What I saw. He wanted to understand how well I can write, how observant I am.  
+**Translation:** Vocabulary: bulgaria: 保加利亚; observant: 留心的
 
-**[3300.38s] English:** какие составляю отчеты. А еще он попросил меня составить характеристики однокурсников. Вряд ли  
+**[3300.38s] English:** What kinds of reports do I prepare? And he also asked me to write character sketches of my classmates. In all likelihood,  
 **Translation:** 
 
-**[3308.84s] English:** для передачи в штазе, просто чтобы проверить, насколько я умею анализировать людей. Это было  
-**Translation:** 
+**[3308.84s] English:** For transmission to SHATZ, just to check how well I can analyze people. This was  
+**Translation:** Vocabulary: likelihood: 可能性; sketches: 素描
 
-**[3314.96s] English:** важно для дальнейшей работы. Когда я работал в США, это стало моей ключевой задачей. Я составлял  
+**[3314.96s] English:** It is important for further work. When I worked in the USA, this became my key task. I composed  
 **Translation:** 
 
-**[3322.72s] English:** на людей характеристики.  
-**Translation:** 
+**[3322.72s] English:** Characteristics of people.  
+**Translation:** Vocabulary: characteristics: 特征
 
-**[3323.30s] English:** А еще он давал мне довольно неприятные задания. Например,  
+**[3323.30s] English:** He also gave me rather unpleasant assignments. For example,  
 **Translation:** 
 
-**[3333.86s] English:** он давал мне адрес и имена людей, которые там жили. Я должен был прийти, позвонить в дверь и  
-**Translation:** 
+**[3333.86s] English:** He gave me addresses and the names of the people who lived there. I was supposed to go there, ring the doorbell, and  
+**Translation:** Vocabulary: doorbell: 门铃
 
-**[3346.26s] English:** разузнать что-нибудь об их родственнике, живущем в Западной Германии. Это была работа,  
+**[3346.26s] English:** To find out something about their relative living in Western Germany. This was work,  
 **Translation:** 
 
-**[3352.72s] English:** под прикрытием. Нужно было придумать легенду, как-то войти в доверие,  
-**Translation:** 
+**[3352.72s] English:** Undercover. We needed to come up with a cover story and gain their trust somehow.  
+**Translation:** Vocabulary: undercover: 秘密调查
 
-**[3360.00s] English:** и добиться нужной информации.  
+**[3360.00s] English:** And to obtain the necessary information.  
 **Translation:** 
 
-**[3363.98s] English:** Вам это легко давалось?  
+**[3363.98s] English:** Did it come easily to you?  
 **Translation:** 
 
-**[3365.84s] English:** Нет, я это ненавидел.  
+**[3365.84s] English:** No, I hated it.  
 **Translation:** 
 
-**[3367.26s] English:** Вы же харизматичный. А что ненавидели?  
-**Translation:** 
+**[3367.26s] English:** You are so charismatic. And what did you hate?  
+**Translation:** Vocabulary: charismatic: 有魅力的
 
-**[3370.04s] English:** Я тогда не знал, что у меня есть харизма.  
+**[3370.04s] English:** I didn't know then that I had charisma.  
 **Translation:** 
 
-**[3373.20s] English:** Вы не сразу ее нашли?  
-**Translation:** 
+**[3373.20s] English:** Did you not find her right away?  
+**Translation:** Vocabulary: charisma: 魅力
 
-**[3375.10s] English:** Я всегда был, и в какой-то степени остаюсь немного застенчивым.  
+**[3375.10s] English:** I have always been, and to some degree still am, a little shy.  
 **Translation:** 
 
-**[3380.96s] English:** Хотя после переезда на юг уже тут, в США,  
+**[3380.96s] English:** Although after moving to the south here in the US,  
 **Translation:** 
 
-**[3383.94s] English:** эта застенчивость почти исчезла.  
+**[3383.94s] English:** This shyness has almost disappeared.  
 **Translation:** 
 
-**[3385.94s] English:** Здесь не нужно быть стеснительным.  
+**[3385.94s] English:** Here, there's no need to be shy.  
 **Translation:** 
 
-**[3390.00s] English:** Теперь вы можете позволить своей любви сиять.  
+**[3390.00s] English:** Now you can allow your love to shine.  
 **Translation:** 
 
-**[3393.66s] English:** Именно так. Но как бы я не ненавидел такие задания, у меня хорошо получалось.  
+**[3393.66s] English:** Exactly. But no matter how much I hated such assignments, I always did well.  
 **Translation:** 
 
-**[3399.18s] English:** Помню в те годы, у меня была борода.  
+**[3399.18s] English:** I remember those years when I had a beard.  
 **Translation:** 
 
-**[3403.12s] English:** Я позвонил в дверь.  
+**[3403.12s] English:** I rang the doorbell.  
 **Translation:** 
 
-**[3405.88s] English:** Высокий статный парень?  
+**[3405.88s] English:** A tall slender man?  
 **Translation:** 
 
-**[3407.36s] English:** Да, выглядел соответствующе.  
-**Translation:** 
+**[3407.36s] English:** Yes, he looked appropriate.  
+**Translation:** Vocabulary: slender: 苗条
 
-**[3409.98s] English:** Я сказал, я студент-социолог.  
+**[3409.98s] English:** I said, I am a sociology student.  
 **Translation:** 
 
-**[3412.68s] English:** Провожу опрос.  
-**Translation:** 
+**[3412.68s] English:** I conduct a survey.  
+**Translation:** Vocabulary: sociology: 社会学
 
-**[3414.30s] English:** Подготовил кучу вопросов.  
+**[3414.30s] English:** Prepared a bunch of questions.  
 **Translation:** 
 
-**[3416.42s] English:** Вы не против ответить?  
+**[3416.42s] English:** Do you not mind answering?  
 **Translation:** 
 
-**[3418.84s] English:** Без проблем.  
+**[3418.84s] English:** Without any problem.  
 **Translation:** 
 
-**[3420.00s] English:** Потом перевел разговор на ее личную жизнь, и она выдавала все, как на духу.  
-**Translation:** 
+**[3420.00s] English:** Then he shifted the conversation to her personal life, and she spilled everything, as if on her deathbed.  
+**Translation:** Vocabulary: deathbed: 临终之际; shifted: 转移话题
 
-**[3428.22s] English:** Сама рассказала мне все, что мне было нужно.  
+**[3428.22s] English:** She told me everything I needed to know.  
 **Translation:** 
 
-**[3433.22s] English:** Красиво.  
+**[3433.22s] English:** Beautiful.  
 **Translation:** 
 
-**[3434.22s] English:** Я справился.  
+**[3434.22s] English:** I managed to do it.  
 **Translation:** 
 
-**[3435.22s] English:** Другое задание мне тоже не нравилось, но я и его выполнил.  
+**[3435.22s] English:** Another task didn't please me either, but I completed it as well.  
 **Translation:** 
 
-**[3438.72s] English:** Херман возил меня по городу, показывал здания и говорил, узнай, что это за организация, чем они занимаются, может,  
+**[3438.72s] English:** Herman took me around the city, showed me buildings and told me to find out what organization it is, what they do, maybe,  
 **Translation:** 
 
-**[3448.62s] English:** познакомься с ними.  
+**[3448.62s] English:** Meet them.  
 **Translation:** 
 
-**[3449.62s] English:** Познакомься с кем-то.  
+**[3449.62s] English:** Meet someone.  
 **Translation:** 
 
-**[3451.10s] English:** И я это сделал.  
+**[3451.10s] English:** I did it.  
 **Translation:** 
 
-**[3453.94s] English:** Нужно было быть изобретательным, придумать легенду.  
+**[3453.94s] English:** We needed to be inventive and come up with a legend.  
 **Translation:** 
 
-**[3459.68s] English:** А я всегда был изобретательным.  
-**Translation:** 
+**[3459.68s] English:** I have always been inventive.  
+**Translation:** Vocabulary: inventive: 善于创新的
 
-**[3462.20s] English:** И хорошим рассказчиком.  
+**[3462.20s] English:** And a good storyteller.  
 **Translation:** 
 
-**[3464.16s] English:** Просто я тогда еще этого не осознавал.  
-**Translation:** 
+**[3464.16s] English:** Simply, I didn't realize that at the time.  
+**Translation:** Vocabulary: storyteller: 讲故事的人
 
-**[3469.24s] English:** Но все равно вам было это неприятно?  
+**[3469.24s] English:** But was it still unpleasant for you?  
 **Translation:** 
 
-**[3472.02s] English:** Да, да.  
+**[3472.02s] English:** Yes, yes.  
 **Translation:** 
 
-**[3472.76s] English:** Что именно?  
+**[3472.76s] English:** What exactly?  
 **Translation:** 
 
-**[3474.02s] English:** Моя застенчивость.  
+**[3474.02s] English:** My shyness.  
 **Translation:** 
 
-**[3475.66s] English:** И знаешь, мне было некомфортно врать.  
+**[3475.66s] English:** I know, it was uncomfortable lying.  
 **Translation:** 
 
-**[3479.62s] English:** Боже, я...  
+**[3479.62s] English:** God, I...  
 **Translation:** 
 
-**[3480.00s] English:** привык но поначалу я был слишком честным никогда ничего не скрывал со временем это неприятное  
+**[3480.00s] English:** I got used to it, but at first I was too honest and never hid anything. Over time, this became unpleasant.  
 **Translation:** 
 
-**[3497.52s] English:** ощущение уходит ты просто рационализируешь так надо это единственный путь я же служу великому  
+**[3497.52s] English:** The feeling fades; you just rationalize that this is how it has to be. It's the only path. I am serving a greater purpose.  
 **Translation:** 
 
-**[3504.68s] English:** делу вы работали с херманом полтора года полтора года как дальше развивались события какой-то  
+**[3504.68s] English:** You worked with Herman for a year and a half, and then how did events develop?  
 **Translation:** 
 
-**[3512.48s] English:** момент он видимо отправил обо мне отчет в берлине потом он отправил меня в так называемую тренировочную  
-**Translation:** 
+**[3512.48s] English:** Moments later, he apparently sent a report about me from Berlin, and then he sent me to what they called a training facility.  
+**Translation:** Vocabulary: herman: 赫曼
 
-**[3522.08s] English:** поездку в берлин на три недели это была моя первая конспиративная встреча у меня был адрес время  
+**[3522.08s] English:** The trip to Berlin for three weeks was my first conspiratorial meeting. I had an address and a time.  
 **Translation:** 
 
-**[3533.40s] English:** встречи кодовая фраза там я встретил другого агента он назвался борисом хотя эти имена ничего  
-**Translation:** 
+**[3533.40s] English:** Meetings, code phrase. There, I met another agent who introduced himself as Boris. Though these names mean nothing.  
+**Translation:** Vocabulary: conspiratorial: 密谋的
 
-**[3542.50s] English:** не значили просто псевдонимы какой был код как это работало расскажите код я уже не помню не сам код  
+**[3542.50s] English:** This didn't mean they were just pseudonyms; what was the code, how did it work? Could you tell me? I don't remember the actual code.  
 **Translation:** 
 
-**[3551.34s] English:** принцип расскажу как это работало когда я уже стал агентом я подходил к человеку который как я думал  
-**Translation:** 
+**[3551.34s] English:** Principle, I'll tell you how it worked when I was already an agent. I approached a person whom I thought was the target.  
+**Translation:** Vocabulary: approached: 接近; pseudonyms: 假名
 
-**[3563.40s] English:** мог быть моим контактам у нас у обоих был какой-то предмет что-то что помогало определить и друг  
+**[3563.40s] English:** Could have been my contact; we both had some kind of item that helped us communicate with each other.  
 **Translation:** 
 
-**[3572.40s] English:** друга я говорил что-то вроде извините я ищу сьюзен грин если человек был своим он отвечал да вы должны  
+**[3572.40s] English:** Dруга, я говорил что-то вроде: "Извините, я ищу Сьюзен Грин. Если человек был своим, он ответил бы 'да', вы должны...  
 **Translation:** 
 
-**[3587.40s] English:** быть дэвид все просто если бы я спросил незнакомого  
+**[3587.40s] English:** To be David, it's simple if I asked a stranger.  
 **Translation:** 
 
-**[3593.40s] English:** человек бы сказал ну а чем могу помочь тогда очевидно что это не тот человек до вероятность того что человек  
+**[3593.40s] English:** A person would say, "Well, what can I help you with then? Clearly, this is not the right person." The probability that a person...  
 **Translation:** 
 
-**[3600.00s] English:** ответит правильно крайне мало именно плюс это совершенно безопасная фраза если вы вдруг ошиблись  
+**[3600.00s] English:** Answer correctly, and extremely few will, which is a perfectly safe phrase if you happen to be wrong.  
 **Translation:** 
 
-**[3606.96s] English:** и она не будет выглядеть странно ты бы стал хорошим тайным агентом а кто сказал что я не  
+**[3606.96s] English:** And she won't look strange. You'd make a good secret agent. Who said I couldn't?  
 **Translation:** 
 
-**[3614.10s] English:** потом обсудим одет я соответствующие кстати у агентов был какой-то дресс-код нет главное  
+**[3614.10s] English:** Then we'll discuss the dress code. By the way, the agents had some kind of dress code, but the main thing is  
 **Translation:** 
 
-**[3625.08s] English:** слиться с толпой способность слиться с толпой креативность до втереться в общем он не дал  
+**[3625.08s] English:** Sly into the crowd, the ability to blend in with the crowd, creativity—until he didn't give.  
 **Translation:** 
 
-**[3632.88s] English:** задание я тогда снял комнату в доме а еще он дал мне западно-германскую литературу мы  
+**[3632.88s] English:** The task was then I rented a room in a house, and he also gave me West German literature we  
 **Translation:** 
 
-**[3642.96s] English:** проводили время вместе и у меня была практика проникновения в западную германию таких поездок  
+**[3642.96s] English:** We spent time together, and I got practice going on these trips to Western Germany.  
 **Translation:** 
 
-**[3655.06s] English:** было две. Это было важно, теперь я понимаю, почему. Я поехал в Западную Германию с восточно-германским  
+**[3655.06s] English:** It was two. This was important, now I understand why. I went to Western Germany with East German paperwork.  
 **Translation:** 
 
-**[3666.34s] English:** паспортом, в котором стоял штамп, что мне разрешено посещать Запад. Часть границы охраняли только  
-**Translation:** 
+**[3666.34s] English:** Passport, in which a stamp was placed allowing me to visit the West. Part of the border was only guarded by  
+**Translation:** Vocabulary: guarded: 守卫
 
-**[3675.40s] English:** советские войска. Именно там меня переправили в Западную Германию. Я сел в метро, и оказался в  
+**[3675.40s] English:** Soviet troops. It was there that I was transported to West Germany. I boarded the metro and ended up in  
 **Translation:** 
 
-**[3690.46s] English:** Западном Берлине. Ни американцы, ни британцы, ни французы даже не знали, что я пересек границу.  
-**Translation:** 
+**[3690.46s] English:** In West Berlin. Neither the Americans, nor the British, nor the French even knew that I had crossed the border.  
+**Translation:** Vocabulary: metro: 地铁; transported: 运送
 
-**[3697.42s] English:** Документы поддельные или настоящие? Нет, это был восточный германский паспорт, настоящий.  
+**[3697.42s] English:** Documents fake or genuine? No, it was an authentic Eastern German passport.  
 **Translation:** 
 
-**[3702.56s] English:** Ага. Первую поездку от меня  
-**Translation:** 
+**[3702.56s] English:** Agreed. The first trip is on me.  
+**Translation:** Vocabulary: authentic: 真实的
 
-**[3705.22s] English:** ничего не требовалось, просто погулять, подышать воздухом, выпить пиво,  
+**[3705.22s] English:** Nothing was required, just to take a walk, breathe in some fresh air, and drink some beer.  
 **Translation:** 
 
-**[3712.24s] English:** съесть сосиску и вернуться обратно. Во вторую у меня было задание  
+**[3712.24s] English:** To eat a sausage and go back. In the second one, I had a task  
 **Translation:** 
 
-**[3720.00s] English:** Похоже на то, что я выполнял в Йене. Позвонить в дверь, поговорить с людьми. Все прошло успешно.  
+**[3720.00s] English:** It seems like what I did in Jena. Knock on doors, talk to people. Everything went successfully.  
 **Translation:** 
 
-**[3729.88s] English:** Надо отметить, вы так спокойно говорите «съесть сосиску, выпить пиво», но ведь это тоже был тест.  
-**Translation:** 
+**[3729.88s] English:** We have to note that you speak so calmly about "eating a sausage, drinking beer," but this was also a test.  
+**Translation:** Vocabulary: calmly: 镇定地
 
-**[3739.20s] English:** Проверка, как вы впервые поведете себя в западной среде, в этой культуре. Поэтому  
+**[3739.20s] English:** Preliminary check: how you will behave for the first time in a Western environment, in this culture. Therefore,  
 **Translation:** 
 
-**[3747.12s] English:** я не стал бы хорошим агентом, когда я впервые попал в США и зашел в супермаркет. Бананы.  
+**[3747.12s] English:** I wouldn't have made a good agent when I first came to the U.S. and went into a supermarket. Bananas.  
 **Translation:** 
 
-**[3756.80s] English:** Сколько хочешь бананов. Тут бы я и сломался.  
+**[3756.80s] English:** How many bananas do you want? Here I would have given in.  
 **Translation:** 
 
-**[3763.24s] English:** Это шок. Да, шок от доступа к западной культуре.  
-**Translation:** 
+**[3763.24s] English:** This is a shock. Yes, a shock from accessing Western culture.  
+**Translation:** Vocabulary: accessing: 接触
 
-**[3768.16s] English:** Ты почти угадал, зачем меня на самом деле отправляли в эти тренировочные поездки.  
+**[3768.16s] English:** You almost got it right about why I was actually sent on these training trips.  
 **Translation:** 
 
-**[3775.08s] English:** Да.  
+**[3775.08s] English:** Yes.  
 **Translation:** 
 
-**[3777.12s] English:** Когда я впервые ступил на территорию западного Берлина, я почувствовал сильный дискомфорт.  
+**[3777.12s] English:** When I first stepped into the territory of West Berlin, I felt a strong discomfort.  
 **Translation:** 
 
-**[3783.84s] English:** Это же была вражеская территория. Повсюду были полицейские. Даже форма у них была светло-голубая, они не выделялись, но мне казалось, что они все знают, что у меня на лбу написано «КГБ».  
-**Translation:** 
+**[3783.84s] English:** This was enemy territory. Police were everywhere. Even their uniforms were light blue, blending in, but it seemed to me that they all knew what was written on my forehead, "KGB.  
+**Translation:** Vocabulary: blending: 融合; discomfort: 不适感
 
-**[3798.48s] English:** Вы боялись, что вас вычислят?  
+**[3798.48s] English:** Did you fear that you would be figured out?  
 **Translation:** 
 
-**[3800.88s] English:** Да, мне было страшно, но я это преодолел.  
-**Translation:** 
+**[3800.88s] English:** Yes, I was scared, but I overcame it.  
+**Translation:** Vocabulary: overcame: 克服了
 
-**[3804.00s] English:** Давайте немного задержимся на этом моменте.  
+**[3804.00s] English:** Let's pause on this moment a bit.  
 **Translation:** 
 
-**[3807.12s] English:** Какой случайный человек, оказавшись на вашем месте, такой же задачей, ощущал бы паранойю?  
-**Translation:** 
+**[3807.12s] English:** What random person, finding themselves in your position with the same task, would feel paranoid?  
+**Translation:** Vocabulary: paranoid: 多疑的
 
-**[3815.52s] English:** Это естественное человеческое чувство. За мной следят. Они знают.  
+**[3815.52s] English:** This is a natural human feeling. Someone is watching me. They know.  
 **Translation:** 
 
-**[3821.20s] English:** Представьте, что кто-то украл что-то в магазине. Он тут же начнет думать.  
+**[3821.20s] English:** Imagine that someone stole something from a store. He would immediately start thinking.  
 **Translation:** 
 
-**[3827.60s] English:** А по камерам видно? А люди заметили? Все вокруг знают.  
+**[3827.60s] English:** Does it show up on the cameras? Have people noticed? Everyone around knows.  
 **Translation:** 
 
-**[3831.92s] English:** То есть, чтобы стать агентом, нужно преодолеть этот страх, либо вообще его не испытать.  
+**[3831.92s] English:** So, in order to become an agent, one needs to overcome this fear, or never experience it in the first place.  
 **Translation:** 
 
-**[3836.96s] English:** Именно. И вот что интересно.  
+**[3836.96s] English:** Exactly. And here's what interesting.  
 **Translation:** 
 
-**[3840.00s] English:** Пока я проходил подготовку в Берлине, встретил своего одноклассника со школы.  
+**[3840.00s] English:** While I was undergoing training in Berlin, I met my high school classmate.  
 **Translation:** 
 
-**[3847.68s] English:** Он мне признался, что его завербовала Штази для работы шпионом в Западной Германии.  
+**[3847.68s] English:** He confessed to me that the Stasi recruited him to spy in West Germany.  
 **Translation:** 
 
-**[3856.36s] English:** У него тоже была тренировочная поездка.  
-**Translation:** 
+**[3856.36s] English:** He also had a training trip.  
+**Translation:** Vocabulary: confessed: 坦白; recruited: 招募
 
-**[3859.12s] English:** И он обмочился от страха.  
+**[3859.12s] English:** He wet himself out of fear.  
 **Translation:** 
 
-**[3861.06s] English:** Вернулся и сказал, «Я не могу».  
-**Translation:** 
+**[3861.06s] English:** He returned and said, "I cannot.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[3863.60s] English:** Из-за паники?  
+**[3863.60s] English:** Due to panic?  
 **Translation:** 
 
-**[3865.48s] English:** Да.  
+**[3865.48s] English:** Yes.  
 **Translation:** 
 
-**[3865.94s] English:** Из-за паранойи?  
+**[3865.94s] English:** Due to paranoia?  
 **Translation:** 
 
-**[3867.22s] English:** Его карьера...  
-**Translation:** 
+**[3867.22s] English:** His career...  
+**Translation:** Vocabulary: paranoia: 妄想症
 
-**[3870.00s] English:** закончилась.  
+**[3870.00s] English:** It has ended.  
 **Translation:** 
 
-**[3871.36s] English:** Он получил диплом инженера, был умным парнем.  
-**Translation:** 
+**[3871.36s] English:** He received his engineering diploma and was a smart guy.  
+**Translation:** Vocabulary: diploma: 学位证书
 
-**[3875.08s] English:** Но на этом все.  
+**[3875.08s] English:** But that's it.  
 **Translation:** 
 
-**[3877.28s] English:** Больше он никуда не продвинулся.  
+**[3877.28s] English:** He didn't make any further progress.  
 **Translation:** 
 
-**[3879.90s] English:** Насколько я знаю, он до сих пор жив и...  
+**[3879.90s] English:** As far as I know, he is still alive and...  
 **Translation:** 
 
-**[3883.30s] English:** продает модели железных дорог.  
+**[3883.30s] English:** Sells model train models.  
 **Translation:** 
 
-**[3886.50s] English:** Вы считаете, этот опыт его...  
+**[3886.50s] English:** You consider this experience his...  
 **Translation:** 
 
-**[3889.32s] English:** сломал?  
+**[3889.32s] English:** Did it break?  
 **Translation:** 
 
-**[3889.80s] English:** Ему закрыли дорогу назад.  
+**[3889.80s] English:** He was blocked from going back.  
 **Translation:** 
 
-**[3891.42s] English:** А, понял.  
+**[3891.42s] English:** Ah, I understand.  
 **Translation:** 
 
-**[3893.54s] English:** То есть, если провалишь тест, платишь за свой страх?  
+**[3893.54s] English:** So, if you fail the test, you pay for your own insurance?  
 **Translation:** 
 
-**[3896.74s] English:** Да, но я тогда этого не понимал.  
+**[3896.74s] English:** Yes, but I didn't understand that then.  
 **Translation:** 
 
-**[3898.76s] English:** Я не думал, что за провал...  
+**[3898.76s] English:** I didn't think that for a failure...  
 **Translation:** 
 
-**[3900.00s] English:** мне что-то грозит.  
+**[3900.00s] English:** I feel like something threatening is coming.  
 **Translation:** 
 
-**[3901.02s] English:** Просто вышло так, что я...  
+**[3901.02s] English:** Just happened that I...  
 **Translation:** 
 
-**[3902.66s] English:** справился.  
+**[3902.66s] English:** Succeeded.  
 **Translation:** 
 
-**[3905.30s] English:** И...  
+**[3905.30s] English:** And...  
 **Translation:** 
 
-**[3906.18s] English:** после этого мне поступило предложение.  
+**[3906.18s] English:** After that, I received an offer.  
 **Translation:** 
 
-**[3910.66s] English:** Борис остался доволен, сообщил своему начальству.  
+**[3910.66s] English:** Boris was satisfied and informed his boss.  
 **Translation:** 
 
-**[3915.74s] English:** Скорее всего, он докладывал главе КГБ по Восточному Берлину.  
+**[3915.74s] English:** Most likely, he reported to the head of the KGB for East Berlin.  
 **Translation:** 
 
-**[3920.60s] English:** И мне назначили встречу с...  
+**[3920.60s] English:** And they scheduled a meeting with...  
 **Translation:** 
 
-**[3922.86s] English:** По Восточной Германии?  
+**[3922.86s] English:** For Eastern Germany?  
 **Translation:** 
 
-**[3924.40s] English:** Да.  
+**[3924.40s] English:** Yes.  
 **Translation:** 
 
-**[3924.76s] English:** По всей Восточной Германии, верно.  
+**[3924.76s] English:** Throughout Eastern Germany, correct.  
 **Translation:** 
 
-**[3928.12s] English:** Мне назначили с ним встречу.  
+**[3928.12s] English:** I was scheduled to meet with him.  
 **Translation:** 
 
-**[3930.00s] English:** Мы заходим в кабинет.  
+**[3930.00s] English:** We enter the classroom.  
 **Translation:** 
 
-**[3933.60s] English:** Огромный стол, а за ним маленький, очень невысокий,  
+**[3933.60s] English:** A huge table, and behind it a small, very low one,  
 **Translation:** 
 
-**[3937.90s] English:** ничем...  
+**[3937.90s] English:** Nothing...  
 **Translation:** 
 
-**[3940.36s] English:** непримечательный человек.  
+**[3940.36s] English:** A mundane person.  
 **Translation:** 
 
-**[3945.02s] English:** Класс.  
-**Translation:** 
+**[3945.02s] English:** Class.  
+**Translation:** Vocabulary: mundane: 平凡的人
 
-**[3946.02s] English:** Везде куча атрибутов.  
+**[3946.02s] English:** There are a lot of attributes everywhere.  
 **Translation:** 
 
-**[3948.64s] English:** На столе бюст Дзержинского, портрет Ленина и прочее.  
-**Translation:** 
+**[3948.64s] English:** On the table is a bust of Dzerzhinsky, a portrait of Lenin, and other items.  
+**Translation:** Vocabulary: attributes: 特征; lenin: 列宁
 
-**[3957.00s] English:** Но когда он заговорил...  
+**[3957.00s] English:** But when he spoke...  
 **Translation:** 
 
-**[3960.00s] English:** Ого! Потрясающая энергетика. Он говорил только по-русски. Сначала минут пять произносил пропагандистскую речь, мол, зачем мы все это делаем? Мне это было не нужно. Я понимал большую часть. Но если что-то ускользало, я спрашивал перевод у Бориса. И тут он меня ошарашил.  
-**Translation:** 
+**[3960.00s] English:** Oh! Amazing energy. He spoke only Russian. At first, for about five minutes, he delivered a propaganda speech, asking why we were doing all of this. I didn't need it. I understood most of it. But if something slipped by me, I asked Boris for a translation. And then he really surprised me.  
+**Translation:** Vocabulary: boris: 鲍里斯; propaganda: 宣传
 
-**[3985.58s] English:** «Ну что, вы с нами?» Я был не готов к этому вопросу.  
+**[3985.58s] English:** Nu, vyi s nami?" I was not prepared for this question.  
 **Translation:** 
 
-**[3990.88s] English:** Я не был готов принять решение. Не ожидал предложения. Я ответил.  
+**[3990.88s] English:** I was not prepared to make a decision. I did not expect the offer. I responded.  
 **Translation:** 
 
-**[3999.04s] English:** Я еще не обучен. Мне многое нужно освоить.  
+**[3999.04s] English:** I have not been trained yet. There is much for me to learn.  
 **Translation:** 
 
-**[4004.74s] English:** Привел пару по-настоящему тупых аргументов. Один еще можно понять, но второй... Не знаю, зачем я это сказал.  
+**[4004.74s] English:** He brought up a couple of really dumb arguments. One I can understand, but the other... I don't know why I said that.  
 **Translation:** 
 
-**[4010.78s] English:** Типа, мне нужно научиться водить машину и печатать на машинке.  
+**[4010.78s] English:** Type, I need to learn how to drive a car and type on a typewriter.  
 **Translation:** 
 
-**[4015.58s] English:** Он раздраженно ответил.  
-**Translation:** 
+**[4015.58s] English:** He replied irritably.  
+**Translation:** Vocabulary: typewriter: 打字机
 
-**[4020.36s] English:** «Не волнуйтесь, мы вас обучим. Но...  
+**[4020.36s] English:** Don't worry, we will train you. But...  
 **Translation:** 
 
-**[4023.94s] English:** Я скажу вам одно. Нам нужны решительные люди. У вас есть время до полудня завтрашнего дня. Дадите Борису ответ».  
-**Translation:** 
+**[4023.94s] English:** I will tell you one thing. We need decisive people. You have until noon tomorrow. Give Boris an answer.  
+**Translation:** Vocabulary: decisive: 果断的
 
-**[4032.58s] English:** Это была бессонная ночь.  
+**[4032.58s] English:** This was a sleepless night.  
 **Translation:** 
 
-**[4035.50s] English:** О чем вы тогда думали?  
+**[4035.50s] English:** What were you thinking then?  
 **Translation:** 
 
-**[4036.80s] English:** Я метался между двумя дорогами.  
+**[4036.80s] English:** I oscillated between two roads.  
 **Translation:** 
 
-**[4042.20s] English:** Я знал, что у меня будет...  
-**Translation:** 
+**[4042.20s] English:** I knew that I would have...  
+**Translation:** Vocabulary: oscillated: 左右为难
 
-**[4043.80s] English:** Отличная карьера. Я был на пути к успеху.  
+**[4043.80s] English:** A great career. I was on my way to success.  
 **Translation:** 
 
-**[4048.96s] English:** Я уже работал в университете.  
+**[4048.96s] English:** I have already worked at a university.  
 **Translation:** 
 
-**[4051.64s] English:** На должности ассистента-профессора.  
+**[4051.64s] English:** At the position of assistant professor.  
 **Translation:** 
 
-**[4055.12s] English:** То есть первый путь стать профессором, получить постоянный контракт, выйти на мировой уровень...  
+**[4055.12s] English:** Thus, the first path to becoming a professor, securing a permanent contract, and reaching a global level....  
 **Translation:** 
 
-**[4060.46s] English:** Да.  
+**[4060.46s] English:** Yes.  
 **Translation:** 
 
-**[4061.54s] English:** Иена стала моим домом. Я обожал этот город.  
+**[4061.54s] English:** Iena became my home. I loved this city.  
 **Translation:** 
 
-**[4064.64s] English:** Он был моим маленьким миром.  
+**[4064.64s] English:** He was my little world.  
 **Translation:** 
 
-**[4067.60s] English:** А моя баскетбольная команда...  
+**[4067.60s] English:** My basketball team...  
 **Translation:** 
 
-**[4071.26s] English:** Моей семьей.  
+**[4071.26s] English:** My family.  
 **Translation:** 
 
-**[4073.80s] English:** Вы любите играть в баскетбол?  
+**[4073.80s] English:** Do you love playing basketball?  
 **Translation:** 
 
-**[4075.74s] English:** Очень.  
+**[4075.74s] English:** Very.  
 **Translation:** 
 
-**[4076.88s] English:** То есть это был ваш дом, который вы любили?  
+**[4076.88s] English:** So, was this your home that you loved?  
 **Translation:** 
 
-**[4079.78s] English:** Это...  
+**[4079.78s] English:** This...  
 **Translation:** 
 
-**[4080.00s] English:** был дом вы понимали что второй путь означает оставить этот дом до плюс у меня не было у меня  
+**[4080.00s] English:** You knew that the second path meant leaving this house behind, plus I didn't have  
 **Translation:** 
 
-**[4089.62s] English:** не было двух вещей эмоциональной связи с матерью и постоянной девушки думаю фрейду было бы что  
+**[4089.62s] English:** There were two things emotionally connected to my mother and a constant girlfriend, I think Freud would have something to say about that.  
 **Translation:** 
 
-**[4098.42s] English:** сказать но продолжайте на тему связи между этими вещами я уверен кстати мой друг бюнтер тот самый  
-**Translation:** 
+**[4098.42s] English:** To say, but continue on the topic of the connection between these things—I'm sure, by the way, my friend Bunter, that's the one.  
+**Translation:** Vocabulary: bunter: 布恩特人
 
-**[4106.52s] English:** который работал на штазе они пытались завербовать его в качестве агента но у него тогда были  
+**[4106.52s] English:** Which worked on Shasta, they tried to recruit him as an agent, but he then had  
 **Translation:** 
 
-**[4113.60s] English:** отношения он вежливо отказался нет я не могу то есть единственное что могло вас остановить  
-**Translation:** 
+**[4113.60s] English:** Relations, he politely refused. No, I can't. That is, the only thing that could have stopped you.  
+**Translation:** Vocabulary: politely: 礼貌地; recruit: 招募
 
-**[4122.60s] English:** удержать это любовь с одной стороны у меня была карьера баскетбольная команда город где мог бы  
+**[4122.60s] English:** Keep this love on one side, and on the other, I had a career with a basketball team in a city where I could  
 **Translation:** 
 
-**[4129.32s] English:** стать частью правящей элиты а с другой великая авантюра шанс внести вклад  
+**[4129.32s] English:** To be part of the ruling elite, and with another, a great adventure—a chance to make a contribution.  
 **Translation:** 
 
-**[4136.52s] English:** победу коммунизма по всему миру и насолить нацистам и конечно ощущение что я особенный  
+**[4136.52s] English:** Victory of communism worldwide and to vex the Nazis, and of course the feeling that I am special.  
 **Translation:** 
 
-**[4146.84s] English:** джеймс бонд ага выбор стать ли профессором с постоянным контрактом или джеймсом бондом как  
-**Translation:** 
+**[4146.84s] English:** James Bond, which would it be: to become a professor with a permanent contract or James Bond?  
+**Translation:** Vocabulary: communism: 共产主义; nazis: 纳粹
 
-**[4155.96s] English:** бы забавно это ни звучало выбор наверняка был непростой это был сложный выбор но по факту дело  
+**[4155.96s] English:** It would be fun to hear this, as it didn't sound easy; the choice was likely complicated. It was a difficult choice, but in fact, the matter itself was complex.  
 **Translation:** 
 
-**[4166.52s] English:** помочь революции дело было в моей в определенной черте которую штази которую кгб искали в агентах  
+**[4166.52s] English:** Helping the revolution was something that was in my certain degree which the Stasi and the KGB were looking for in agents.  
 **Translation:** 
 
-**[4177.02s] English:** хорошо контролируемую склонность к авантюрам ну да джеймс бонд что тут скажешь и любовь к женщинам  
+**[4177.02s] English:** Good control over a tendency for adventures, huh? James Bond, what can you say about that and his love for women.  
 **Translation:** 
 
-**[4190.22s] English:** я был должен уточнить я всегда говорю  
+**[4190.22s] English:** I should have clarified; I always say  
 **Translation:** 
 
-**[4196.52s] English:** что у меня с джеймсом бондом есть две общие вещи  
+**[4196.52s] English:** What I have in common with James Bond are two things.  
 **Translation:** 
 
-**[4200.00s] English:** Первые инициалы – ДБ. И второе – я тоже завоевал девушку. Трижды.  
-**Translation:** 
+**[4200.00s] English:** The initials are DB. And the second one: I also won a girl three times.  
+**Translation:** Vocabulary: initials: 姓氏首字母
 
-**[4207.08s] English:** Ну это и есть приключение. Да. И еще возможность  
+**[4207.08s] English:** Nu, this is indeed an adventure. Yes, and another opportunity.  
 **Translation:** 
 
-**[4213.12s] English:** путешествовать на Запад. Ведь для нас Запад был закрыт. Мы могли выезжать за границу,  
+**[4213.12s] English:** Travelling to the West. For us, the West was closed off. We could travel abroad,  
 **Translation:** 
 
-**[4219.38s] English:** но только в коммунистические страны. А я мечтал увидеть Париж, потому что… влюбился.  
+**[4219.38s] English:** But only in communist countries. And I dreamed of seeing Paris because... I fell in love.  
 **Translation:** 
 
-**[4227.12s] English:** Вонаре де Бальзака. Он написал… Бальзак, да.  
-**Translation:** 
+**[4227.12s] English:** Of Balzac's "Vue de Paris." He wrote... Balzac, yes.  
+**Translation:** Vocabulary: balzac: 巴尔扎克
 
-**[4231.44s] English:** Невероятные романы. Я проглотил все его книги. Когда я наконец оказался в Париже,  
+**[4231.44s] English:** Unbelievable Romances. I devoured all his books. When I finally made it to Paris,  
 **Translation:** 
 
-**[4237.08s] English:** то уже знал все улицы, он описал их в деталях. Но в итоге… мой выбор был 51 на 49. Рационально  
-**Translation:** 
+**[4237.08s] English:** He already knew all the streets in detail. But in the end... my choice was 51 on 49. Rationally,  
+**Translation:** Vocabulary: devoured: 狂读
 
-**[4248.12s] English:** рассуждать не получилось. Доводы «за» и «против» уравновешивали друг друга. Пришлось полагаться  
+**[4248.12s] English:** Rational discussion was not possible. The arguments "for" and "against" were evenly balanced. We had to rely  
 **Translation:** 
 
-**[4256.90s] English:** на то, что…  
-**Translation:** 
+**[4256.90s] English:** For that,...  
+**Translation:** Vocabulary: balanced: 势均力敌; evenly: 平分秋色
 
-**[4257.10s] English:** И так, вы успешно прошли испытания, встретились с непримечательным человеком,  
+**[4257.10s] English:** So, you have successfully passed the trials and met an unremarkable person,  
 **Translation:** 
 
-**[4264.96s] English:** от которого получили предложение, размышляли, приняли решение вступить в КГБ. Что дальше?  
-**Translation:** 
+**[4264.96s] English:** From which they received an offer, they deliberated and decided to join the KGB. What next?  
+**Translation:** Vocabulary: deliberated: 权衡; unremarkable: 普通
 
-**[4275.12s] English:** Мне сказали, что я официально устроен в МИД Восточной Германии. Я должен был стать дипломатом.  
+**[4275.12s] English:** I was told that I am officially hired at the Ministry of Foreign Affairs of East Germany. I was supposed to become a diplomat.  
 **Translation:** 
 
-**[4282.96s] English:** Кажется, мне даже выдали какой-то документ.  
-**Translation:** 
+**[4282.96s] English:** It seems they even gave me some kind of document.  
+**Translation:** Vocabulary: diplomat: 外交官
 
-**[4286.88s] English:** Не помню точно… Какие-то документы нужны были.  
+**[4286.88s] English:** I don't remember exactly... Some documents were needed.  
 **Translation:** 
 
-**[4290.28s] English:** То есть это была единственная формальная привязка к вашей… прошлой жизни?  
+**[4290.28s] English:** So, this was the only formal connection to your... previous life?  
 **Translation:** 
 
-**[4296.56s] English:** Ни любви, ни…  
+**[4296.56s] English:** No love, no...  
 **Translation:** 
 
-**[4298.08s] English:** Да.  
+**[4298.08s] English:** Yes.  
 **Translation:** 
 
-**[4298.70s] English:** …только баскетбол.  
+**[4298.70s] English:** ...only basketball.  
 **Translation:** 
 
-**[4300.14s] English:** Отказаться от баскетбола было тяжело. Я обожал этот  
+**[4300.14s] English:** It was hard to give up basketball. I loved this game so much.  
 **Translation:** 
 
-**[4303.98s] English:** спорт. Начал играть в 18 лет, что… довольно поздно.  
+**[4303.98s] English:** Sports. He started playing at 18 years old, which is quite late.  
 **Translation:** 
 
-**[4309.06s] English:** Вы форвард или защитник? Любите дальние броски или из «под кольца»?  
+**[4309.06s] English:** Do you play forward or defender? Do you prefer long-range shots or from inside the arc?  
 **Translation:** 
 
-**[4314.76s] English:** Я был бегуном.  
+**[4314.76s] English:** I was a runner.  
 **Translation:** 
 
-**[4316.16s] English:** Отец?  
+**[4316.16s] English:** Father?  
 **Translation:** 
 
-**[4316.58s] English:** Да и адвокат?  
+**[4316.58s] English:** Yes, and the lawyer?  
 **Translation:** 
 
-**[4316.60s] English:** Быстрым.  
+**[4316.60s] English:** Fast.  
 **Translation:** 
 
-**[4317.86s] English:** Я был быстрым.  
+**[4317.86s] English:** I was fast.  
 **Translation:** 
 
-**[4319.42s] English:** И?  
+**[4319.42s] English:** Is it?  
 **Translation:** 
 
-**[4320.00s] English:** Хорошо прыгал.  
+**[4320.00s] English:** He jumped well.  
 **Translation:** 
 
-**[4322.50s] English:** Обычно играл под четвертым номером.  
+**[4322.50s] English:** Usually played as the fourth player.  
 **Translation:** 
 
-**[4327.48s] English:** Это...  
+**[4327.48s] English:** This...  
 **Translation:** 
 
-**[4328.08s] English:** Форвард.  
+**[4328.08s] English:** Forward.  
 **Translation:** 
 
-**[4329.10s] English:** А, форвард, понятно.  
+**[4329.10s] English:** Ah, forward, got it.  
 **Translation:** 
 
-**[4330.18s] English:** Да, форвард.  
+**[4330.18s] English:** Yes, forward.  
 **Translation:** 
 
-**[4330.66s] English:** От баскетбола отказаться было труднее всего.  
+**[4330.66s] English:** It was hardest to give up basketball.  
 **Translation:** 
 
-**[4336.80s] English:** Я помню еще один момент.  
+**[4336.80s] English:** I remember another moment.  
 **Translation:** 
 
-**[4339.94s] English:** Мне нужно было сдать партийный билет секретарю университета.  
+**[4339.94s] English:** I needed to hand in my party membership card to the university secretary.  
 **Translation:** 
 
-**[4345.08s] English:** Он посмотрел на меня и сказал,  
+**[4345.08s] English:** He looked at me and said,  
 **Translation:** 
 
-**[4346.66s] English:** «Наверное, мы больше о тебе не услышим, но знаем, что ты займешься чем-то важным».  
+**[4346.66s] English:** Probably, we won't hear from you again, but we know that you will be engaged in something important.  
 **Translation:** 
 
-**[4353.26s] English:** Кажется, он догадывался, что я буду работать под прикрытием.  
-**Translation:** 
+**[4353.26s] English:** It seems that he suspected I would be working undercover.  
+**Translation:** Vocabulary: suspected: 怀疑; undercover: 秘密调查
 
-**[4360.62s] English:** После этого я собрал вещи, сел на поезд до Берлина  
+**[4360.62s] English:** After that, I packed my things and took a train to Berlin.  
 **Translation:** 
 
-**[4364.62s] English:** и поехал на еще одну секретную встречу,  
+**[4364.62s] English:** And he went to another secret meeting.  
 **Translation:** 
 
-**[4368.86s] English:** теперь уже с новым куратором, Николаем.  
+**[4368.86s] English:** Now, with a new mentor, Nikolai.  
 **Translation:** 
 
-**[4373.10s] English:** И тут меня ждал еще один тест,  
-**Translation:** 
+**[4373.10s] English:** Here, I was faced with another test.  
+**Translation:** Vocabulary: mentor: 导师
 
-**[4376.50s] English:** который...  
+**[4376.50s] English:** Which one...  
 **Translation:** 
 
-**[4376.66s] English:** очень легко было провалить.  
+**[4376.66s] English:** It was very easy to fail.  
 **Translation:** 
 
-**[4382.48s] English:** Я...  
+**[4382.48s] English:** I...  
 **Translation:** 
 
-**[4383.20s] English:** шесть лет жил в Вьене.  
-**Translation:** 
+**[4383.20s] English:** Six years I lived in Vienna.  
+**Translation:** Vocabulary: vienna: 维也纳
 
-**[4385.58s] English:** В общежитии.  
+**[4385.58s] English:** In the dormitory.  
 **Translation:** 
 
-**[4387.42s] English:** Даже когда стал сотрудником университета.  
-**Translation:** 
+**[4387.42s] English:** Even when I became a university employee.  
+**Translation:** Vocabulary: dormitory: 学生宿舍
 
-**[4391.98s] English:** Квартир не было.  
+**[4391.98s] English:** There were no apartments.  
 **Translation:** 
 
-**[4394.50s] English:** И мне дали комнату в общаге.  
+**[4394.50s] English:** And they gave me a room in the dormitory.  
 **Translation:** 
 
-**[4398.18s] English:** Кровать, стул, стол, туалет в конце коридора.  
+**[4398.18s] English:** Bed, chair, table, toilet at the end of the corridor.  
 **Translation:** 
 
-**[4401.32s] English:** Я думал, раз теперь я работаю на КГБ, в Берлине мне выделят хорошую квартиру.  
-**Translation:** 
+**[4401.32s] English:** I thought that since I'm now working for the KGB, they would assign me a nice apartment in Berlin.  
+**Translation:** Vocabulary: assign: 分配; corridor: 走廊
 
-**[4406.66s] English:** Но Николай усадил меня в машину.  
+**[4406.66s] English:** But Nikolai seated me in the car.  
 **Translation:** 
 
-**[4408.66s] English:** Немного поговорил со мной и сказал,  
+**[4408.66s] English:** He talked to me for a little while and said,  
 **Translation:** 
 
-**[4412.66s] English:** «У меня для тебя есть задание.  
+**[4412.66s] English:** Here is a task for you.  
 **Translation:** 
 
-**[4415.66s] English:** Первое задание — найди себе жилье».  
+**[4415.66s] English:** The first task is to find a place to live.  
 **Translation:** 
 
-**[4419.66s] English:** Не думаю, что по моему лицу было заметно,  
+**[4419.66s] English:** I do not think that my face gave anything away,  
 **Translation:** 
 
-**[4424.66s] English:** но у меня тогда сердце в пятки ушло.  
+**[4424.66s] English:** But then my heart sank.  
 **Translation:** 
 
-**[4428.66s] English:** Я знал, что это почти невозможно.  
+**[4428.66s] English:** I knew that this was almost impossible.  
 **Translation:** 
 
-**[4431.66s] English:** По всей восточной Германии был...  
+**[4431.66s] English:** Throughout eastern Germany was...  
 **Translation:** 
 
-**[4435.66s] English:** жуткий...  
+**[4435.66s] English:** Horrible...  
 **Translation:** 
 
-**[4436.50s] English:** жуткий дефицит жилья.  
+**[4436.50s] English:** A terrible housing shortage.  
 **Translation:** 
 
-**[4438.50s] English:** Все квартиры...  
+**[4438.50s] English:** All apartments...  
 **Translation:** 
 
-**[4440.00s] English:** контролировались государством. Люди их ждали годами. Я знал пары, которые откладывали рождение  
-**Translation:** 
+**[4440.00s] English:** Controlled by the state, they were awaited for years by people. I knew couples who postponed the birth.  
+**Translation:** Vocabulary: awaited: 期待; postponed: 推迟
 
-**[4450.62s] English:** детей, потому что им обещали жилье только через 5 лет. Задание было невыполнимое. Но это было  
+**[4450.62s] English:** Children, because they were promised housing only after five years. The task was impossible. But this was  
 **Translation:** 
 
-**[4462.32s] English:** испытание и нужно было проявить изобретательность, каким-то образом выкрутиться из невозможной  
+**[4462.32s] English:** The test required creativity to find a way out of the impossible situation.  
 **Translation:** 
 
-**[4469.22s] English:** ситуации. Я тогда этого не осознавал. Просто действовал по обстоятельствам. А что делать?  
+**[4469.22s] English:** Situations. I didn't realize that at the time; I just acted according to circumstances. What could I do?  
 **Translation:** 
 
-**[4476.40s] English:** В общем, я сел на электричку и поехал до конечной станции. Маленький город Эркнер. Ходил по городу,  
+**[4476.40s] English:** In general, I got on the train and rode it to the final station. A small town called Erkner. I walked around the city,  
 **Translation:** 
 
-**[4490.40s] English:** стучался в двери и спрашивал, вы не знаете, где можно снять жилье? Через пару часов мне сказали,  
+**[4490.40s] English:** Knocked on the doors and asked, "Do you know where one can rent a place to stay?" After a couple of hours, they told me,  
 **Translation:** 
 
-**[4498.38s] English:** есть одножение? Да.  
-**Translation:** 
+**[4498.38s] English:** Is there a consensus? Yes.  
+**Translation:** Vocabulary: consensus: 一致的意见
 
-**[4499.20s] English:** Попробуй у нее. Я пришел по адресу. И она сказала, у меня есть помещение, можете там пожить. Это была  
+**[4499.20s] English:** Try it with her. I came to the right address. And she said she has a place where you can stay. This was  
 **Translation:** 
 
-**[4509.02s] English:** хозяйственная пристройка. Не знаю для чего. Не гараж, но там были бетонные стены, кровать, стул,  
+**[4509.02s] English:** Housing addition. I don't know for what. Not a garage, but there were concrete walls, a bed, a stool.  
 **Translation:** 
 
-**[4522.30s] English:** холодная вода и печь.  
+**[4522.30s] English:** Cold water and oven.  
 **Translation:** 
 
-**[4529.20s] English:** Базовое? Ты шутишь? Туалет был во дворе.  
-**Translation:** 
+**[4529.20s] English:** Basic? You must be joking? The toilet was in the courtyard.  
+**Translation:** Vocabulary: courtyard: 庭院
 
-**[4533.88s] English:** Ну вот, все необходимое. Чего тут жаловаться? Получается, Джеймс Бонд проводил спецоперации  
+**[4533.88s] English:** Nu, voilà, everything necessary. What to complain about? It turns out James Bond conducted special operations  
 **Translation:** 
 
-**[4543.90s] English:** из сортира? Именно.  
-**Translation:** 
+**[4543.90s] English:** From sorting? Exactly.  
+**Translation:** Vocabulary: sorting: 分类
 
-**[4546.18s] English:** Но я, кстати, ни разу не пожаловался Николаю. Это послужило моей репутацией.  
+**[4546.18s] English:** But I, by the way, never complained to Nikolai. This served my reputation.  
 **Translation:** 
 
-**[4556.26s] English:** Это, наверное, тоже был тест? Да, я понял.  
+**[4556.26s] English:** This, I presume, was also a test? Yes, I got it.  
 **Translation:** 
 
-**[4559.20s] English:** просто сказал ему,  
+**[4559.20s] English:** Simply told him,  
 **Translation:** 
 
-**[4560.00s] English:** что нашел жилье так что шесть месяцев я каждое утро вставал садился на поезд бродил по городу  
+**[4560.00s] English:** What I found was that for six months, I woke up every morning, boarded a train, and wandered through the city.  
 **Translation:** 
 
-**[4568.76s] English:** выполнял оперативные задачи проходил тренировки ходил библиотеку много читал потом нашел  
+**[4568.76s] English:** Performed operational tasks, went through training, visited the library and read a lot. Then found  
 **Translation:** 
 
-**[4578.68s] English:** баскетбольную команду которая смог присоединиться так у меня появился шанс принимать душ два раза в  
+**[4578.68s] English:** Basketball team which I could join, so I got the chance to take a shower twice a day.  
 **Translation:** 
 
-**[4585.14s] English:** неделю и похоже все эти полгода я был на испытательном сроке потому что однажды николай  
+**[4585.14s] English:** Week and it seems like for these past six months, I was on probation because one day Nikolai  
 **Translation:** 
 
-**[4595.34s] English:** а мы все еще встречались у него машине дал мне ключи со словами я отвезу тебя в твою новую квартиру  
-**Translation:** 
+**[4595.34s] English:** We still met up at his car, gave me the keys and said he would take me to my new apartment.  
+**Translation:** Vocabulary: probation: 试用期
 
-**[4605.98s] English:** и вот тогда я понял теперь я действительно в деле представь сколько нужно было пройти испытаний и в  
+**[4605.98s] English:** And then I understood, now I really am in it. Can you imagine how many tests and trials I had to go through?  
 **Translation:** 
 
-**[4615.12s] English:** каждом можно было провалиться но главное не жаловаться не задавать лишних вопросов да вы  
+**[4615.12s] English:** Each could have been a pit, but the main thing was not to complain, not to ask unnecessary questions, okay?  
 **Translation:** 
 
-**[4621.66s] English:** писали об этом начальство не любит слышать жалобы и проблемы им нужны решения так и есть как вы  
+**[4621.66s] English:** They wrote about this, but management doesn't like hearing complaints and grievances; they need solutions, not problems. That's how it is, as you know.  
 **Translation:** 
 
-**[4630.50s] English:** взаимодействовали с начальством примерно также было и дальше да никаких жалоб не жалоб не возражений  
-**Translation:** 
+**[4630.50s] English:** Interacted with management in a similar manner, and there were no complaints or objections further on.  
+**Translation:** Vocabulary: grievances: 不满; interacted: 交流; objections: 反对
 
-**[4645.12s] English:** я просто впитывал информацию технические специалисты учили меня вещам которых я не  
+**[4645.12s] English:** I simply absorbed information as technical specialists taught me things which I didn't  
 **Translation:** 
 
-**[4650.68s] English:** знал это было полезно но то чему меня учил николай было сомнительно он был скорее универсалом в  
+**[4650.68s] English:** Knew this was useful, but what Nikolay taught me was questionable; he was more of a jack-of-all-trades.  
 **Translation:** 
 
-**[4662.22s] English:** некоторых вопросах его знания были поверхностными я мог бы задать больше вопросов что-то уточнять но  
+**[4662.22s] English:** In some areas his knowledge was superficial; I could have asked more questions or clarified things, but  
 **Translation:** 
 
-**[4667.44s] English:** не стал просто играл по правилам новая квартира была студии  
-**Translation:** 
+**[4667.44s] English:** Did not just play by the rules, played according to the new apartment was a studio.  
+**Translation:** Vocabulary: clarified: 阐明; superficial: 浅薄
 
-**[4675.12s] English:** в кухне был кран с холодной водой а ванная  
+**[4675.12s] English:** In the kitchen was a faucet with cold water, and in the bathroom,...  
 **Translation:** 
 
-**[4680.00s] English:** на этаж, точнее не ванная, а туалет, находился на этаж ниже.  
-**Translation:** 
+**[4680.00s] English:** On the floor below, more precisely in the toilet rather than the bathroom, it was located.  
+**Translation:** Vocabulary: faucet: 水龙头; precisely: 准确地说
 
-**[4686.56s] English:** Уже лучше.  
+**[4686.56s] English:** Already better.  
 **Translation:** 
 
-**[4687.66s] English:** Да, значительно.  
+**[4687.66s] English:** Yes, significantly.  
 **Translation:** 
 
-**[4689.20s] English:** Николай дал мне, кажется, тысячу марок на мебель.  
+**[4689.20s] English:** Nicolas seems to have given me a thousand marks for furniture.  
 **Translation:** 
 
-**[4694.48s] English:** Там же я купил телевизор и начал смотреть западные германские каналы.  
+**[4694.48s] English:** There, I bought a television and started watching Western German channels.  
 **Translation:** 
 
-**[4700.18s] English:** Наконец-то у меня появилось нормальное жилье.  
+**[4700.18s] English:** Finally, I have normal housing.  
 **Translation:** 
 
-**[4703.64s] English:** И, скажем так, мое обучение в Берлине заняло около двух лет.  
+**[4703.64s] English:** And, to be honest, my training in Berlin took about two years.  
 **Translation:** 
 
-**[4710.66s] English:** Как проходило обучение? Какие были ключевые моменты?  
+**[4710.66s] English:** How did the training proceed? What were the key moments?  
 **Translation:** 
 
-**[4715.40s] English:** Если систематизировать, что оно включало? Что было сложно?  
+**[4715.40s] English:** If systematized, what did it include? What was difficult?  
 **Translation:** 
 
-**[4720.76s] English:** Какие навыки необходимо развить, чтобы стать шпионом КГБ?  
+**[4720.76s] English:** What skills are necessary to become a KGB spy?  
 **Translation:** 
 
-**[4726.90s] English:** Начнем с разведывательной техники.  
-**Translation:** 
+**[4726.90s] English:** Let's start with reconnaissance techniques.  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[4731.18s] English:** Меня учили азбуки Морзе.  
+**[4731.18s] English:** I was taught Morse code.  
 **Translation:** 
 
-**[4733.64s] English:** На это потребовалось время.  
-**Translation:** 
+**[4733.64s] English:** It took time.  
+**Translation:** Vocabulary: morse: 莫尔斯电码
 
-**[4737.14s] English:** Еще меня обучили работе с коротковолновым радио,  
+**[4737.14s] English:** Still, I was taught how to work with shortwave radio.  
 **Translation:** 
 
-**[4742.46s] English:** как принимать дискретные сообщения, зашифрованные с помощью Морзе.  
-**Translation:** 
+**[4742.46s] English:** How to take in discrete messages encoded using Morse code.  
+**Translation:** Vocabulary: discrete: 分离的; encoded: 编码的; shortwave: 短波
 
-**[4748.82s] English:** Я изучал систему шифрования и дошифровки вручную.  
+**[4748.82s] English:** I studied encryption and decryption manually.  
 **Translation:** 
 
-**[4754.68s] English:** Ага, вручную.  
-**Translation:** 
+**[4754.68s] English:** Agreed, manually.  
+**Translation:** Vocabulary: decryption: 解密; encryption: 加密
 
-**[4757.66s] English:** Думаю, тебе будет интересно.  
+**[4757.66s] English:** I think you will find it interesting.  
 **Translation:** 
 
-**[4759.46s] English:** В итоге я понял, как работает один из алгоритмов.  
+**[4759.46s] English:** In the end, I understood how one of the algorithms works.  
 **Translation:** 
 
-**[4763.64s] English:** Он был основан только на цифрах.  
+**[4763.64s] English:** He was based only on numbers.  
 **Translation:** 
 
-**[4768.64s] English:** В закодированном сообщении были числа,  
+**[4768.64s] English:** In the encoded message were numbers,  
 **Translation:** 
 
-**[4773.42s] English:** которые использовались для расшифровки других чисел,  
+**[4773.42s] English:** Which were used for decoding other numbers,  
 **Translation:** 
 
-**[4777.96s] English:** которые мне передавали по коротковолновому каналу.  
-**Translation:** 
+**[4777.96s] English:** Which they transmitted to me via shortwave.  
+**Translation:** Vocabulary: transmitted: 传递
 
-**[4781.72s] English:** То есть, допустим, если в сообщении было 100 цифр,  
+**[4781.72s] English:** So, for example, if a message contained 100 digits,  
 **Translation:** 
 
-**[4784.72s] English:** то в нем было примерно одинаковое количество единиц, двоек, троек, четверок, пятерок, шестерок, семерок и так далее до нуля.  
-**Translation:** 
+**[4784.72s] English:** In it, there was approximately the same number of units, twos, threes, fours, fives, sixes, sevens, and so on up to zeros.  
+**Translation:** Vocabulary: digits: 位数
 
-**[4792.02s] English:** Мне сказали, что это не так.  
+**[4792.02s] English:** I was told that it is not so.  
 **Translation:** 
 
-**[4793.06s] English:** Мне сказали, что такие алгоритмы можно использовать около 300 раз,  
+**[4793.06s] English:** I was told that such algorithms can be used approximately 300 times.  
 **Translation:** 
 
-**[4797.94s] English:** после чего их все же можно использовать.  
+**[4797.94s] English:** After which they can still be used.  
 **Translation:** 
 
-**[4800.00s] English:** расшифровать думаю сегодня на это потребовалось бы гораздо меньше времени ну да с компьютерами  
-**Translation:** 
+**[4800.00s] English:** I think it would have taken much less time to decrypt today, but of course, with computers.  
+**Translation:** Vocabulary: decrypt: 解密
 
-**[4808.16s] English:** конечно но наверное алгоритмы разрабатывались так чтобы их можно было легко и удобно использовать  
+**[4808.16s] English:** Of course, but perhaps the algorithms were designed to be easy and convenient to use.  
 **Translation:** 
 
-**[4817.90s] English:** вручную то есть криптографы разрабатывали шифр ища баланс между безопасностью и удобством нет  
-**Translation:** 
+**[4817.90s] English:** Manually, that is, cryptographers developed the cipher, seeking a balance between security and convenience.  
+**Translation:** Vocabulary: cipher: 密码; cryptographers: 密码学家
 
-**[4827.54s] English:** не соглашусь шифры не были неэффективными неудобными это занимало кучу времени то есть  
+**[4827.54s] English:** I disagree; the codes were neither inefficient nor inconvenient. They took a lot of time, though.  
 **Translation:** 
 
-**[4833.16s] English:** плохие шифры намного проще было использовать одноразовая шифра блокнот но это уже шпионская  
-**Translation:** 
+**[4833.16s] English:** Poor ciphers were much easier to use than a one-time pad notebook, but this is already spy-level.  
+**Translation:** Vocabulary: ciphers: 密码; inconvenient: 不方便; inefficient: 低效
 
-**[4841.66s] English:** атрибутика блокноте был лист с набором чисел которые нужно проявить для проявки я использовал  
+**[4841.66s] English:** Attributica on the notebook had a list of numbers which needed to be revealed. I used  
 **Translation:** 
 
-**[4852.98s] English:** этот метод считается невскрываемым  
-**Translation:** 
+**[4852.98s] English:** This method is considered unbreakable.  
+**Translation:** Vocabulary: attributica: 归属卡
 
-**[4857.54s] English:** если использовать один и тот же лист лишь единожды только у отправителя и получателя  
+**[4857.54s] English:** If using the same sheet only once, only for the sender and recipient.  
 **Translation:** 
 
-**[4864.66s] English:** был одинаковый набор чисел если лист уничтожен после использования расшифровать сообщение  
-**Translation:** 
+**[4864.66s] English:** There was an identical set of numbers if the sheet was destroyed after use, to decrypt the message.  
+**Translation:** Vocabulary: identical: 完全相同的; recipient: 收件人
 
-**[4873.10s] English:** невозможно интересно то есть быстрый способ единожды передать сообщение один раз да но у  
+**[4873.10s] English:** It's impossible to be interesting, I mean, there's a quick way to transmit a message just once, but you  
 **Translation:** 
 
-**[4880.78s] English:** меня был блокнот в котором было много страниц а ручной шифром не дали потому что  
-**Translation:** 
+**[4880.78s] English:** The transcript segment with proper punctuation and capitalization is: "Меня был блокнот, в котором было много страниц. А ручной шифр не дали, потому что.  
+**Translation:** Vocabulary: capitalization: 标点; segment: 片段; transcript: 录音; transmit: 传输
 
-**[4887.54s] English:** когда я оказался в сша у меня с собой была одна вещь которая могла бы выдать вам не шпиона блокнот  
+**[4887.54s] English:** When I arrived in the U.S., I had one thing with me that could have given away a spy: a notebook.  
 **Translation:** 
 
-**[4901.42s] English:** на первых 10 страницах был скрыт слой вещества используемого для тайного письма ну чтобы его  
+**[4901.42s] English:** On the first ten pages, a layer of substance used for secret writing was hidden, so that it could be revealed.  
 **Translation:** 
 
-**[4910.86s] English:** обнаружить нужно знать что ищешь с виду это был самый простой блокнот из супермаркета объясните по  
+**[4910.86s] English:** Observe, you need to know what you're looking for. At first glance, it was just a plain supermarket notebook. Explain this.  
 **Translation:** 
 
-**[4917.54s] English:** а каком веществе  
-**Translation:** 
+**[4917.54s] English:** What substance?  
+**Translation:** Vocabulary: substance: 本质
 
-**[4920.00s] English:** О каком веществе речь? Не понимаю, что это за физический блокнот с шифрованием сообщений без вычислений? Как он шифрует?  
+**[4920.00s] English:** What substance are we talking about? I don't understand what kind of physical notebook with message encryption without computations is this? How does it encrypt?  
 **Translation:** 
 
-**[4930.98s] English:** Нет, он не шифровал. Передача зашифрованного сообщения выглядела так. Группа из пяти цифр, потом еще пять цифр, и между ними всегда был пробел.  
-**Translation:** 
+**[4930.98s] English:** No, he didn't encrypt it. Transmission of encrypted messages looked like this: a group of five digits, then another five digits, and there was always a space between them.  
+**Translation:** Vocabulary: computations: 计算; digits: 数字; encrypt: 加密; encrypted: 已加密; encryption: 加密
 
-**[4950.00s] English:** Когда я принимал такое сообщение по радио, я записывал цифры, проявлял алгоритм, проводил математические операции, сложение или вычитание. В итоге получался новый набор цифр, каждый из которых соответствовал определенной букве.  
+**[4950.00s] English:** When I received such a message by radio, I recorded the numbers, applied the algorithm, performed mathematical operations like addition or subtraction. In the end, I got a new set of numbers, each corresponding to a specific letter.  
 **Translation:** 
 
-**[4968.38s] English:** А, и так можно было легко расшифровать. Понял.  
-**Translation:** 
+**[4968.38s] English:** Ah, and it could have been easily decoded. Got it.  
+**Translation:** Vocabulary: algorithm: 计算方法; corresponding: 对应的; decoded: 解码; mathematical: 数学的; subtraction: 减法
 
-**[4972.62s] English:** Ну, круто, но при этом сам алгоритм был неэффективным.  
+**[4972.62s] English:** Nu, cool, but at the same time, the algorithm was inefficient.  
 **Translation:** 
 
-**[4977.26s] English:** Ручной метод занимал кучу времени.  
-**Translation:** 
+**[4977.26s] English:** A manual method took a lot of time.  
+**Translation:** Vocabulary: inefficient: 不高效
 
-**[4979.08s] English:** И нельзя было допускать ошибок.  
+**[4979.08s] English:** It was impossible to make mistakes.  
 **Translation:** 
 
-**[4982.70s] English:** А если все же ошибся, легко ли найти, где именно?  
+**[4982.70s] English:** If I did happen to make a mistake, would it be easy to find where exactly?  
 **Translation:** 
 
-**[4986.74s] English:** Нет, нужно было повторять дважды.  
+**[4986.74s] English:** No, it needed to be repeated twice.  
 **Translation:** 
 
-**[4989.16s] English:** Дважды, чтобы сверить?  
-**Translation:** 
+**[4989.16s] English:** Twice, to verify?  
+**Translation:** Vocabulary: verify: 核实
 
-**[4990.58s] English:** Если совпало, значит все верно.  
+**[4990.58s] English:** If it matches, that means everything is correct.  
 **Translation:** 
 
-**[4992.62s] English:** А если нет?  
+**[4992.62s] English:** If there isn't any?  
 **Translation:** 
 
-**[4994.02s] English:** Значит где-то ошибка.  
+**[4994.02s] English:** Means there's an error somewhere.  
 **Translation:** 
 
-**[4996.02s] English:** Просто не ошибайся.  
+**[4996.02s] English:** Just don't make a mistake.  
 **Translation:** 
 
-**[4997.30s] English:** Именно. Я не ошибался.  
+**[4997.30s] English:** Exactly. I was right.  
 **Translation:** 
 
-**[4998.96s] English:** Но вернемся к обучению.  
+**[4998.96s] English:** But let's return to training.  
 **Translation:** 
 
-**[5004.30s] English:** Меня также обязали выучить иностранный язык.  
+**[5004.30s] English:** I was also required to learn a foreign language.  
 **Translation:** 
 
-**[5009.08s] English:** И далее — добро.  
+**[5009.08s] English:** And furthermore — good.  
 **Translation:** 
 
-**[5012.08s] English:** Я выбрал английский.  
+**[5012.08s] English:** I chose English.  
 **Translation:** 
 
-**[5015.08s] English:** Какие были варианты?  
+**[5015.08s] English:** What were the options?  
 **Translation:** 
 
-**[5017.08s] English:** Просто любой язык, распространенный на Западе.  
+**[5017.08s] English:** Simply any language that is widely used in the West.  
 **Translation:** 
 
-**[5021.08s] English:** А какой для вас был на втором месте?  
+**[5021.08s] English:** What was your second favorite?  
 **Translation:** 
 
-**[5024.08s] English:** Французский? Из-за Парижа?  
+**[5024.08s] English:** French? Because of Paris?  
 **Translation:** 
 
-**[5026.08s] English:** Почему... английский?  
+**[5026.08s] English:** Why... English?  
 **Translation:** 
 
-**[5029.08s] English:** Английский был очевидным выбором.  
+**[5029.08s] English:** English was the obvious choice.  
 **Translation:** 
 
-**[5031.08s] English:** В школе я учил его на одни пятерки, почти без усилий.  
+**[5031.08s] English:** In school, I got him all A's with almost no effort.  
 **Translation:** 
 
-**[5035.08s] English:** Мне было легко.  
+**[5035.08s] English:** It was easy for me.  
 **Translation:** 
 
-**[5037.08s] English:** Да.  
+**[5037.08s] English:** Yes.  
 **Translation:** 
 
-**[5038.08s] English:** Поэтому я его и выбрал.  
+**[5038.08s] English:** Therefore, I chose him.  
 **Translation:** 
 
-**[5040.00s] English:** Как-то так. Еще меня обучали основам контрразведки, разные трюки, способы выявлять слежку. Ты три часа ходишь по городу и пытаешься определить, следят за тобой или нет.  
-**Translation:** 
+**[5040.00s] English:** Sometimes like that. They also taught me basic counterintelligence, different tricks and ways to detect tailing. You walk around the city for three hours trying to determine if you're being followed or not.  
+**Translation:** Vocabulary: counterintelligence: 反间谍; detect: 察觉; tailing: 尾随
 
-**[5065.20s] English:** Тут важно заранее продумать маршрут. Продемонстрирую тебе на примере. У меня было любимое место в Москве. Там я тоже такое делал. У меня была одна любимая тихая улица. Дорога шла вниз и плавно поворачивала.  
+**[5065.20s] English:** Here it's important to plan the route in advance. I'll demonstrate with an example. There was a favorite place of mine in Moscow where I did something similar. It was one quiet street that I loved. The road went down and gently turned.  
 **Translation:** 
 
-**[5089.88s] English:** У подножья холма стояла телефонная будка.  
-**Translation:** 
+**[5089.88s] English:** At the foot of the hill stood a telephone booth.  
+**Translation:** Vocabulary: gently: 轻轻地; moscow: 莫斯科
 
-**[5094.44s] English:** Когда заходишь внутрь и берешь трубку, нужно было развернуться. Это выглядело естественно. Совсем не подозрительно. Если бы кто-то за мной следил, я бы его заметил.  
+**[5094.44s] English:** When you go inside and take the phone, you need to turn around. It looked natural. Not at all suspicious. If someone had been following me, I would have noticed.  
 **Translation:** 
 
-**[5108.52s] English:** В общем, что-то такое. Или, например, пользоваться общественным транспортом, заходить в высокие здания с лифтами, чтобы засечь след.  
-**Translation:** 
+**[5108.52s] English:** In general, something like that. For example, using public transportation, going into high buildings with elevators, to detect the trace.  
+**Translation:** Vocabulary: suspicious: 可疑的
 
-**[5122.28s] English:** Ведь главное правило слежки – никогда не упускать объект из виду. Если потеряешь его хоть на секунду, можешь пропустить тот самый момент, ради которого велось наблюдение. Поэтому нужно постоянно быть рядом.  
+**[5122.28s] English:** Here's the improved sentence with natural English punctuation and capitalization: Ведь главное правило слежки – никогда не упускать объект из виду. If you lose sight of the target for even a second, you might miss the exact moment that was being observed. Therefore, constant proximity is necessary.  
 **Translation:** 
 
-**[5140.58s] English:** А вас учили вести слежку?  
+**[5140.58s] English:** Did you learn how to conduct surveillance?  
 **Translation:** 
 
-**[5144.56s] English:** Нет, только контрнаблюдение.  
+**[5144.56s] English:** No, just counter-surveillance.  
 **Translation:** 
 
-**[5147.62s] English:** В обучении мне помогло то, что я воспринимал это как игру.  
-**Translation:** 
+**[5147.62s] English:** In my learning, what helped was that I perceived it as a game.  
+**Translation:** Vocabulary: perceived: 认为
 
-**[5152.28s] English:** Я соревновался с теми, кто следил за мной, и каждый раз я стал рассказывать о своем личном жизни, и я стал следить за теми, кто следил за мной.  
+**[5152.28s] English:** I competed with those who watched me, and each time I started talking about my personal life, and I began watching those who watched me.  
 **Translation:** 
 
-**[5160.00s] English:** раз, их побеждал. Они были в невыгодном положении, потому что одному из них всегда нужно было быть  
-**Translation:** 
+**[5160.00s] English:** Once, they prevailed. They were in a disadvantageous position because one of them always had to be  
+**Translation:** Vocabulary: competed: 竞争; disadvantageous: 不利的; prevailed: 获胜
 
-**[5166.56s] English:** рядом. Если дважды видишь одно и то же лицо, значит за тобой следят. А у меня была феноменальная  
+**[5166.56s] English:** Nearby. If you see the same face twice, it means they are following you. And I had a phenomenal  
 **Translation:** 
 
-**[5173.54s] English:** память на лица. То есть нужно планировать маршрут так, чтобы он позволял оглядеться,  
-**Translation:** 
+**[5173.54s] English:** Memory of faces. That is, the route should be planned in such a way as to allow for looking around.  
+**Translation:** Vocabulary: phenomenal: 超凡的
 
-**[5184.40s] English:** фиксируешь людей в памяти. И если замечаешь одного человека больше одного раза, это тревожный  
+**[5184.40s] English:** You fix people in your memory. And if you notice one person more than once, it's troubling.  
 **Translation:** 
 
-**[5191.90s] English:** знак? Да. И они могли менять одежду. Ага. Но вот масок у них не было. А сейчас ЦРУ может  
+**[5191.90s] English:** Sign? Yes. And they could change clothes. Ah-ha. But they didn't have masks back then. Now, the CIA can  
 **Translation:** 
 
-**[5203.32s] English:** буквально за секунды поменять тебе лицо. О боже. Ага. Получается, мы опять вернулись  
+**[5203.32s] English:** Literally in seconds, change your face. Oh my God. Agreed. So, we've returned again.  
 **Translation:** 
 
-**[5214.26s] English:** к вам.  
+**[5214.26s] English:** To you.  
 **Translation:** 
 
-**[5214.40s] English:** Паранойя? Ага.  
+**[5214.40s] English:** Paranoia? Aga.  
 **Translation:** 
 
-**[5219.24s] English:** А контрнаблюдение это большая часть работы? Наверное, постоянно есть ощущение, что за тобой  
-**Translation:** 
+**[5219.24s] English:** Is counter-surveillance a big part of the work? I suppose there's always this feeling that you're being watched.  
+**Translation:** Vocabulary: paranoia: 妄想
 
-**[5226.78s] English:** следят? Да, я должен был... Стрессуешь должно быть постоянно. Это вообще эффективный метод работы?  
+**[5226.78s] English:** Do they keep an eye on you? Yes, I should have... You must be stressed all the time. Is this method of work really effective at all?  
 **Translation:** 
 
-**[5234.54s] English:** Нет, но со временем это становится привычным. Мне сказали проворачивать подобное в США раз в месяц.  
+**[5234.54s] English:** No, but over time it becomes familiar. I was told to do something similar in the U.S. once a month.  
 **Translation:** 
 
-**[5242.20s] English:** А, своего рода зачистка? Да.  
+**[5242.20s] English:** A, sort of a cleanup? Yes.  
 **Translation:** 
 
-**[5244.40s] English:** Не каждый день. Только раз в месяц или, например, перед тем, как отправить письмо с тайным посланием.  
-**Translation:** 
+**[5244.40s] English:** Not every day. Only once a month or, for example, before sending a letter with a secret message.  
+**Translation:** Vocabulary: cleanup: 清理
 
-**[5250.90s] English:** Чтобы убедиться, что никто не видел, как я опускаю конверт в... Понял. Почтовый ящик.  
+**[5250.90s] English:** To make sure no one saw me put the envelope in... Got it. The mail box.  
 **Translation:** 
 
-**[5258.56s] English:** Значит, у вас были разные инструменты, азбука Морзе, шифрование, дешифрование, контрнаблюдение...  
-**Translation:** 
+**[5258.56s] English:** Meaningfully, you had different tools, Morse code, encryption, decryption, counter-surveillance,...  
+**Translation:** Vocabulary: decryption: 解密; encryption: 加密; morse: 莫尔斯电码
 
-**[5265.22s] English:** Фотография. Фотография? Создание микроточек. Знаешь, что это? Нет, что это?  
+**[5265.22s] English:** Photograph. Photograph? Creating microdots. Do you know what that is? No, what is it?  
 **Translation:** 
 
-**[5272.52s] English:** Это когда...  
+**[5272.52s] English:** This is when...  
 **Translation:** 
 
-**[5274.40s] English:** Фотографию уменьшают с помощью микроточек.  
+**[5274.40s] English:** A photograph is reduced using microdots.  
 **Translation:** 
 
-**[5280.00s] English:** микроскопа, используя его в обратном направлении.  
-**Translation:** 
+**[5280.00s] English:** Using the microscope in reverse.  
+**Translation:** Vocabulary: microdots: 微缩点; microscope: 显微镜
 
-**[5287.50s] English:** Она становится крошечной, размером с булавочную головку.  
+**[5287.50s] English:** She becomes tiny, the size of a pinhead.  
 **Translation:** 
 
-**[5292.54s] English:** Такую микроточку можно спрятать, например, под почтовой маркой.  
-**Translation:** 
+**[5292.54s] English:** Such a microdot can be hidden, for example, under a postage stamp.  
+**Translation:** Vocabulary: microdot: 微缩照片; pinhead: 针尖
 
-**[5298.36s] English:** Меня учили, как их делать, но на практике мне этим заниматься не приходилось.  
+**[5298.36s] English:** I was taught how to do them, but I never had to practice it in real life.  
 **Translation:** 
 
-**[5305.40s] English:** То есть это своего рода метод шифрования изображений?  
+**[5305.40s] English:** So, is this a kind of image encryption method?  
 **Translation:** 
 
-**[5309.24s] English:** Да. Примерно то же самое, что мы сейчас делаем, когда вставляем код в PDF-файлы.  
+**[5309.24s] English:** Yes. Pretty much the same as what we are doing now when we insert code into PDF files.  
 **Translation:** 
 
-**[5316.90s] English:** Красиво.  
-**Translation:** 
+**[5316.90s] English:** Beautiful.  
+**Translation:** Vocabulary: insert: 插入
 
-**[5318.00s] English:** Так, значит, обучение подразумевало как физические навыки, так и алгоритмические. Что-то еще?  
+**[5318.00s] English:** So, it seems that training involved both physical skills and algorithms. Is there anything else?  
 **Translation:** 
 
-**[5326.90s] English:** О, да.  
+**[5326.90s] English:** Oh, yes.  
 **Translation:** 
 
-**[5328.76s] English:** Интересный момент.  
+**[5328.76s] English:** An interesting moment.  
 **Translation:** 
 
-**[5330.32s] English:** Первой книгой, которую мне дали прочитать, была история Коммунистической партии Советского Союза.  
+**[5330.32s] English:** The first book they gave me to read was "The History of the Communist Party of the Soviet Union.  
 **Translation:** 
 
-**[5339.24s] English:** Чтобы понять... А вас ведь заставляли читать и западную литературу?  
+**[5339.24s] English:** To understand... Were you forced to read Western literature as well?  
 **Translation:** 
 
-**[5344.52s] English:** Да, ее тоже.  
+**[5344.52s] English:** Yes, hers too.  
 **Translation:** 
 
-**[5345.52s] English:** Сколько нужно было прочитать?  
+**[5345.52s] English:** How much did you need to read?  
 **Translation:** 
 
-**[5347.36s] English:** Об истории, политике, геополитике, культуре?  
-**Translation:** 
+**[5347.36s] English:** About history, politics, geopolitics, culture?  
+**Translation:** Vocabulary: geopolitics: 地缘政治
 
-**[5351.32s] English:** Немного, но тот документ нужно было изучить.  
+**[5351.32s] English:** A little, but that document needed to be studied.  
 **Translation:** 
 
-**[5354.96s] English:** В остальном мне не нужно было глубоко изучать Советский Союз.  
+**[5354.96s] English:** In other respects, I did not need to deeply study the Soviet Union.  
 **Translation:** 
 
-**[5360.12s] English:** И в Москву меня отправили не для изучения русского языка, а для изучения английского.  
+**[5360.12s] English:** I was sent to Moscow not for studying Russian, but for studying English.  
 **Translation:** 
 
-**[5366.32s] English:** Второй книгой, которую мне дали, была книга о Коммунистической партии Советского Союза.  
-**Translation:** 
+**[5366.32s] English:** The second book I was given was about the Communist Party of the Soviet Union.  
+**Translation:** Vocabulary: moscow: 莫斯科
 
-**[5368.90s] English:** Второй книгой, которую мне дали, была Конституция Западной Германии.  
+**[5368.90s] English:** The second book I was given was the Constitution of Western Germany.  
 **Translation:** 
 
-**[5372.58s] English:** Потом мне выдали кучу западно-германских журналов.  
+**[5372.58s] English:** Then they gave me a bunch of West German magazines.  
 **Translation:** 
 
-**[5375.58s] English:** Как я уже говорил, мне сказали смотреть западно-германское телевидение.  
+**[5375.58s] English:** As I have already said, I was told to watch West German television.  
 **Translation:** 
 
-**[5381.58s] English:** Я воспринял это с энтузиазмом, потому что оно было намного лучше восточно-германского.  
-**Translation:** 
+**[5381.58s] English:** I embraced it with enthusiasm because it was much better than East German.  
+**Translation:** Vocabulary: embraced: 热情接受
 
-**[5389.58s] English:** Я завел привычку, утром завтракал и смотрел немецкую версию улицы Сезам.  
+**[5389.58s] English:** I developed a habit of having breakfast and watching the German version of Sesame Street in the morning.  
 **Translation:** 
 
-**[5396.58s] English:** Это помогало...  
+**[5396.58s] English:** This helped...  
 **Translation:** 
 
-**[5398.90s] English:** Это помогало...  
+**[5398.90s] English:** This helped...  
 **Translation:** 
 
-**[5400.00s] English:** Это помогало понимать культуру?  
+**[5400.00s] English:** Did this help understand the culture?  
 **Translation:** 
 
-**[5401.96s] English:** Еще как.  
+**[5401.96s] English:** Still as.  
 **Translation:** 
 
-**[5403.22s] English:** Ведь если ты работаешь под прикрытием, нужно все это понимать.  
-**Translation:** 
+**[5403.22s] English:** Because if you are working undercover, you need to understand all of this.  
+**Translation:** Vocabulary: undercover: 秘密调查的
 
-**[5410.02s] English:** Много чего нужно знать.  
+**[5410.02s] English:** Many things need to be known.  
 **Translation:** 
 
-**[5412.40s] English:** Было бы проще, если бы меня отправили в Западную Германию.  
+**[5412.40s] English:** It would be simpler if I had been sent to West Germany.  
 **Translation:** 
 
-**[5416.52s] English:** Я знал футбольные команды и все такое.  
+**[5416.52s] English:** I knew about football teams and all that.  
 **Translation:** 
 
-**[5420.12s] English:** Когда я приехал в США, я очень мало знал из общеизвестного.  
+**[5420.12s] English:** When I arrived in the USA, I knew very little of the general knowledge.  
 **Translation:** 
 
-**[5423.78s] English:** Поэтому мне приходилось быть осторожным, наблюдать и постепенно впитывать информацию.  
+**[5423.78s] English:** Therefore, I had to be careful, observe, and gradually absorb information.  
 **Translation:** 
 
-**[5428.90s] English:** И последнее, что хочу отметить, меня настойчиво подталкивали расширять кругозор.  
-**Translation:** 
+**[5428.90s] English:** And lastly, what I want to note is that I was persistently encouraged to broaden my horizons.  
+**Translation:** Vocabulary: broaden: 开阔; horizons: 视野; lastly: 最后; persistently: 坚持不懈地
 
-**[5440.06s] English:** То есть, посещать музеи, театры, кино не особо, а вот оперу — да.  
+**[5440.06s] English:** So, I don't really frequent museums, theaters, or movies much, but opera, yes.  
 **Translation:** 
 
-**[5449.42s] English:** Читать книги разных авторов.  
+**[5449.42s] English:** Reading books by different authors.  
 **Translation:** 
 
-**[5453.52s] English:** Для КГБ это было важно.  
+**[5453.52s] English:** For the KGB, this was important.  
 **Translation:** 
 
-**[5454.90s] English:** Раз в месяц я должен был писать отчет о том, чем занимался.  
+**[5454.90s] English:** Once a month, I had to write a report on what I did.  
 **Translation:** 
 
-**[5458.18s] English:** Но интересно, что при этом не было никакой учебной программы,  
+**[5458.18s] English:** But interestingly, there was no formal training program at all.  
 **Translation:** 
 
-**[5462.78s] English:** никакого списка тем, которые надо закрыть.  
+**[5462.78s] English:** No list of topics that need to be closed.  
 **Translation:** 
 
-**[5465.22s] English:** Все было стихийно.  
+**[5465.22s] English:** All was spontaneous.  
 **Translation:** 
 
-**[5466.42s] English:** Сегодня одно, завтра другое.  
-**Translation:** 
+**[5466.42s] English:** Today one thing, tomorrow another.  
+**Translation:** Vocabulary: spontaneous: 自发的
 
-**[5470.18s] English:** Многое зависело от моей собственной инициативы.  
+**[5470.18s] English:** Much depended on my own initiative.  
 **Translation:** 
 
-**[5475.94s] English:** И поэтому вас тоже оценивали?  
+**[5475.94s] English:** Did you also get evaluated, then?  
 **Translation:** 
 
-**[5477.74s] English:** А то.  
+**[5477.74s] English:** Then, you know.  
 **Translation:** 
 
-**[5478.98s] English:** А креативность?  
+**[5478.98s] English:** Creativity?  
 **Translation:** 
 
-**[5480.34s] English:** Интересно, получается, они создавали образ Джеймса Бонда?  
+**[5480.34s] English:** Interesting, so they created the image of James Bond?  
 **Translation:** 
 
-**[5485.50s] English:** В чем смысл посещать оперу?  
+**[5485.50s] English:** What is the point of going to the opera?  
 **Translation:** 
 
-**[5487.50s] English:** Видимо, такие мероприятия определенным образом развивают культуру, обаяние, харизму, помогают лучше вливаться в разные общества.  
+**[5487.50s] English:** Visibly, such events develop culture, charm, and charisma in a certain way, helping individuals better integrate into various societies.  
 **Translation:** 
 
-**[5498.06s] English:** Абсолютно верно.  
-**Translation:** 
+**[5498.06s] English:** Absolutely correct.  
+**Translation:** Vocabulary: charisma: 魅力; integrate: 融入; visibly: 明显地
 
-**[5500.06s] English:** Когда я тогда, когда я приехал в США, спустя примерно два года, я был достаточно культурно осведомленным.  
+**[5500.06s] English:** When I arrived in the US after being there for about two years, I was fairly culturally aware.  
 **Translation:** 
 
-**[5516.06s] English:** Чтобы не упасть.  
-**Translation:** 
+**[5516.06s] English:** To not fall.  
+**Translation:** Vocabulary: culturally: 文化上
 
-**[5517.26s] English:** Чтобы не ударить в грязь лицом на дипломатическом предприятии.  
+**[5517.26s] English:** To not strike a pose in the mud on a diplomatic mission.  
 **Translation:** 
 
-**[5520.00s] English:** Йоми-Вашингтоне.  
-**Translation:** 
+**[5520.00s] English:** Yomi-Washington.  
+**Translation:** Vocabulary: diplomatic: 外交的
 
-**[5521.84s] English:** Я легко общался со всеми.  
+**[5521.84s] English:** I easily communicated with everyone.  
 **Translation:** 
 
-**[5523.82s] English:** Ага.  
+**[5523.82s] English:** Agreed.  
 **Translation:** 
 
-**[5524.42s] English:** Понимаешь?  
+**[5524.42s] English:** Do you understand?  
 **Translation:** 
 
-**[5525.94s] English:** Вся идея заключалась в том, чтобы пробиться в высшие слои общества,  
+**[5525.94s] English:** The idea was to break into the upper classes of society.  
 **Translation:** 
 
-**[5531.00s] English:** где цели гораздо более сочные, чем среди простых рабочих.  
+**[5531.00s] English:** Where the goals are much more savory than among simple workers.  
 **Translation:** 
 
-**[5539.32s] English:** А как вы оказались в Москве?  
-**Translation:** 
+**[5539.32s] English:** How did you end up in Moscow?  
+**Translation:** Vocabulary: moscow: 莫斯科; savory: 美味的
 
-**[5542.40s] English:** Почему? Как так получилось?  
+**[5542.40s] English:** Why? How did this happen?  
 **Translation:** 
 
-**[5544.26s] English:** Ну, как я уже говорил.  
+**[5544.26s] English:** Nu, as I have already said.  
 **Translation:** 
 
-**[5546.04s] English:** Я начал учить английский. Заново.  
+**[5546.04s] English:** I began learning English from scratch.  
 **Translation:** 
 
-**[5550.60s] English:** Они оплатили репетитора, и я прошел базовый курс с нуля.  
-**Translation:** 
+**[5550.60s] English:** They paid for a tutor, and I completed a basic course from scratch.  
+**Translation:** Vocabulary: scratch: 从零开始
 
-**[5556.76s] English:** За пару месяцев.  
+**[5556.76s] English:** In a couple of months.  
 **Translation:** 
 
-**[5558.82s] English:** Потом у меня появился новый преподаватель,  
+**[5558.82s] English:** Then I had a new teacher,  
 **Translation:** 
 
-**[5561.68s] English:** с которым мы уже просто общались, не работая по учебникам.  
+**[5561.68s] English:** With whom we had simply been chatting, not working from textbooks.  
 **Translation:** 
 
-**[5566.70s] English:** Я учил английский как одержимый.  
-**Translation:** 
+**[5566.70s] English:** I studied English as an obsession.  
+**Translation:** Vocabulary: obsession: 痴迷
 
-**[5570.36s] English:** Ушел в учебу с головой.  
+**[5570.36s] English:** He dove headfirst into his studies.  
 **Translation:** 
 
-**[5573.22s] English:** Ты даже не представляешь.  
+**[5573.22s] English:** You don't even imagine.  
 **Translation:** 
 
-**[5576.04s] English:** Вдохновение мне дал Владимир Ленин.  
+**[5576.04s] English:** Inspiration came from Vladimir Lenin.  
 **Translation:** 
 
-**[5580.28s] English:** Где-то в книге я прочитал, что когда он был в ссылке,  
-**Translation:** 
+**[5580.28s] English:** Somewhere in a book I read that when he was in exile,  
+**Translation:** Vocabulary: lenin: 列宁
 
-**[5585.80s] English:** то учил немецкий по сто новых слов в день.  
+**[5585.80s] English:** He would learn German by studying a hundred new words every day.  
 **Translation:** 
 
-**[5591.24s] English:** Я начал читать газеты и выписывать на карточке каждое незнакомое слово  
-**Translation:** 
+**[5591.24s] English:** I began reading the newspapers and writing down every unfamiliar word on a card.  
+**Translation:** Vocabulary: unfamiliar: 不熟悉的
 
-**[5596.92s] English:** и его перевод на немецкий, и собирал их в стопки.  
+**[5596.92s] English:** And its translation into German, and he would gather them in stacks.  
 **Translation:** 
 
-**[5601.00s] English:** И я действительно учил по сто новых английских слов в день.  
-**Translation:** 
+**[5601.00s] English:** I really did learn a hundred new English words every day.  
+**Translation:** Vocabulary: stacks: 成堆
 
-**[5605.32s] English:** Это точно.  
+**[5605.32s] English:** This is definitely true.  
 **Translation:** 
 
-**[5606.00s] English:** Я их пересчитывал.  
+**[5606.00s] English:** I kept counting them.  
 **Translation:** 
 
-**[5607.84s] English:** У меня была целая система.  
+**[5607.84s] English:** I had a whole system.  
 **Translation:** 
 
-**[5610.84s] English:** Берешь карточку, у тебя есть пять категорий.  
+**[5610.84s] English:** Take the card, you have five categories.  
 **Translation:** 
 
-**[5614.48s] English:** Это, кстати, отличный метод зубрёжки.  
+**[5614.48s] English:** This, by the way, is an excellent method for memorization.  
 **Translation:** 
 
-**[5618.72s] English:** Первая категория — это новые слова.  
-**Translation:** 
+**[5618.72s] English:** The first category is new words.  
+**Translation:** Vocabulary: memorization: 记忆法
 
-**[5621.12s] English:** И так до пятой.  
+**[5621.12s] English:** And so to the fifth.  
 **Translation:** 
 
-**[5623.12s] English:** Пятая категория — это те слова, которые я уже правильно называл четырежды.  
+**[5623.12s] English:** The fifth category are those words which I have already correctly named four times.  
 **Translation:** 
 
-**[5629.76s] English:** Если я называл слово верно в пятый раз,  
+**[5629.76s] English:** If I called the word correctly on the fifth try,  
 **Translation:** 
 
-**[5631.76s] English:** оно повышается до...  
+**[5631.76s] English:** It increases to...  
 **Translation:** 
 
-**[5633.76s] English:** Оно уходит в архив.  
+**[5633.76s] English:** It goes into the archive.  
 **Translation:** 
 
-**[5634.76s] English:** А, в холодное место.  
-**Translation:** 
+**[5634.76s] English:** Ah, in a cold place.  
+**Translation:** Vocabulary: archive: 档案
 
-**[5635.76s] English:** В холодное хранилище.  
+**[5635.76s] English:** In the cold storage.  
 **Translation:** 
 
-**[5637.76s] English:** Если назвал слово из четвёртой,  
+**[5637.76s] English:** If you named a word from the fourth,  
 **Translation:** 
 
-**[5639.76s] English:** оно повышается до...  
+**[5639.76s] English:** It increases to...  
 **Translation:** 
 
-**[5640.00s] English:** топке, оно переходит в пятую. Ошибаешься, спускаешься  
-**Translation:** 
+**[5640.00s] English:** Topke, it goes into the fifth. You're wrong, you descend.  
+**Translation:** Vocabulary: descend: 下降
 
-**[5643.64s] English:** в третью. И так по кругу. Иногда я доставал слова  
+**[5643.64s] English:** In third, and so on in a circle. Sometimes I would retrieve words.  
 **Translation:** 
 
-**[5651.34s] English:** из архива и возвращал их в первую категорию. В итоге  
-**Translation:** 
+**[5651.34s] English:** From the archive and returned them to the first category. In the end,  
+**Translation:** Vocabulary: retrieve: 找回
 
-**[5655.72s] English:** у меня был феноменальный словарный запас. К концу  
+**[5655.72s] English:** I had an phenomenal vocabulary. By the end,  
 **Translation:** 
 
-**[5660.50s] English:** мой лексикон был гораздо шире, чем у среднего американца,  
-**Translation:** 
+**[5660.50s] English:** My lexicon was much wider than that of an average American.  
+**Translation:** Vocabulary: lexicon: 词汇库; phenomenal: 非凡的
 
-**[5664.40s] English:** потому что я не делал различий, учил вообще все слова, которые  
+**[5664.40s] English:** Because I didn't make distinctions, I learned all the words generally.  
 **Translation:** 
 
-**[5668.74s] English:** я не знал. Хотя это не всегда хорошо, потому что в английском  
-**Translation:** 
+**[5668.74s] English:** I didn't know. Although it's not always good because in English  
+**Translation:** Vocabulary: distinctions: 区别
 
-**[5673.82s] English:** много синонимов, и обычно один из них предпочтительнее.  
+**[5673.82s] English:** Many synonyms, and usually one of them is preferable.  
 **Translation:** 
 
-**[5679.32s] English:** Поэтому, когда я только начал общаться с людьми,  
-**Translation:** 
+**[5679.32s] English:** Therefore, when I first started talking to people,  
+**Translation:** Vocabulary: preferable: 更优选的; synonyms: 同义词
 
-**[5684.20s] English:** часто использовал слова, которые звучали неестественно.  
+**[5684.20s] English:** Often used words that sounded unnatural.  
 **Translation:** 
 
-**[5688.38s] English:** Люди говорили, «Ты интересно разговариваешь». Они не  
-**Translation:** 
+**[5688.38s] English:** People said, "You talk interestingly." They didn't  
+**Translation:** Vocabulary: unnatural: 不自然
 
-**[5692.36s] English:** понимали, что не так, но... Ну, зато это хорошая основа  
+**[5692.36s] English:** We understood that it wasn't perfect, but, well, at least it's a good foundation.  
 **Translation:** 
 
-**[5695.80s] English:** для изучения языка, просто наращивать словарный запас.  
+**[5695.80s] English:** For studying a language, simply build up your vocabulary.  
 **Translation:** 
 
-**[5698.74s] English:** Да, интересно. Я использую метод интервальных повторений,  
+**[5698.74s] English:** Yes, interesting. I use the method of spaced repetition,  
 **Translation:** 
 
-**[5703.22s] English:** программный способ запоминания, который похож на вашу систему.  
-**Translation:** 
+**[5703.22s] English:** A programming method of memory storage that is similar to your system.  
+**Translation:** Vocabulary: repetition: 重复
 
-**[5707.04s] English:** Если ты успешно запомнил информацию, она повторится  
+**[5707.04s] English:** If you successfully memorize the information, it will repeat.  
 **Translation:** 
 
-**[5711.92s] English:** через более длительный промежуток времени. Но тут  
-**Translation:** 
+**[5711.92s] English:** Over a longer period of time, but here  
+**Translation:** Vocabulary: memorize: 记忆
 
-**[5715.68s] English:** для отслеживания нужен компьютер. А у вас интересная  
+**[5715.68s] English:** For tracking, you need a computer. And you have an interesting  
 **Translation:** 
 
-**[5721.14s] English:** система с карточками. Стопка 1, 2, 3, 4, 5, ответил, перекладываешь  
+**[5721.14s] English:** System with cards. Stack: 1, 2, 3, 4, 5. Answered, you transfer.  
 **Translation:** 
 
-**[5725.60s] English:** в другую стопку. Хотя, возможно, я бы не отслеживал,  
+**[5725.60s] English:** In another pile. Although, perhaps I would not track,  
 **Translation:** 
 
-**[5728.74s] English:** но я бы отправлял слова из архива сразу в первую  
-**Translation:** 
+**[5728.74s] English:** But I would send the words from the archive directly to the first  
+**Translation:** Vocabulary: archive: 资料库
 
-**[5731.06s] English:** категорию, а, скажем, сначала в пятую категорию, чтобы  
+**[5731.06s] English:** Category, but let's start with the fifth category, to begin with.  
 **Translation:** 
 
-**[5738.02s] English:** пройти весь цикл заново. Это мощный метод изучения  
+**[5738.02s] English:** To go through the entire cycle again. This is a powerful method of studying.  
 **Translation:** 
 
-**[5743.88s] English:** не только языка, но и фактов. Например, студенты медвузов...  
+**[5743.88s] English:** Not only language, but also facts. For example, medical students...  
 **Translation:** 
 
-**[5747.46s] English:** Да, разрозненных фактов. А когда ты закончил обучение,  
+**[5747.46s] English:** Yes, scattered facts. And when you finished your training,  
 **Translation:** 
 
-**[5751.22s] English:** ты четко понимаешь, что знаешь.  
+**[5751.22s] English:** You clearly understand that you know.  
 **Translation:** 
 
-**[5753.64s] English:** Но вот интегрировать это в симфонию языка уже сложнее.  
-**Translation:** 
+**[5753.64s] English:** But integrating this into the symphony of language is already more difficult.  
+**Translation:** Vocabulary: integrating: 融合
 
-**[5757.36s] English:** Это то, о чем вы говорите.  
+**[5757.36s] English:** This is what you are talking about.  
 **Translation:** 
 
-**[5758.74s] English:** Или...  
+**[5758.74s] English:** Or...  
 **Translation:** 
 
-**[5759.12s] English:** Именно.  
+**[5759.12s] English:** Exactly.  
 **Translation:** 
 
-**[5760.00s] English:** Есть особый шарм, возможно для шпиона это не очень хорошо, но в акценте и необычном, но уверенном применении слов есть свой шарм.  
+**[5760.00s] English:** There is a special charm, possibly not very good for a spy, but there is charm in the accent and the unusual, yet confident use of words.  
 **Translation:** 
 
-**[5773.04s] English:** Язык это ведь не просто формулы, это игра слов.  
+**[5773.04s] English:** Language is not just formulas; it's a game of words.  
 **Translation:** 
 
-**[5777.22s] English:** Иногда некорректный синоним можно, например, сказать «не мне холодно, а я заморозился».  
-**Translation:** 
+**[5777.22s] English:** Sometimes an incorrect synonym can be, for example, "not me, but I froze.  
+**Translation:** Vocabulary: formulas: 公式; synonym: 同义词
 
-**[5788.22s] English:** Если научиться правильно этим пользоваться, говорить необычные слова, это может стать фишкой.  
+**[5788.22s] English:** If you learn to use this correctly, speaking unusual words could become your gimmick.  
 **Translation:** 
 
-**[5797.12s] English:** У меня есть знакомые с русским акцентом, и они могут нести всякую чушь, но в этом что-то есть, и они звучат чертовски обаятельно.  
-**Translation:** 
+**[5797.12s] English:** I have friends with a Russian accent, and they might spout all sorts of nonsense, but there's something to it, and they sound darn charming.  
+**Translation:** Vocabulary: charming: 迷人; gimmick: 卖点; spout: 乱说
 
-**[5808.16s] English:** Кстати, ты говорил про использование компьютером.  
+**[5808.16s] English:** By the way, you were talking about using a computer.  
 **Translation:** 
 
-**[5813.22s] English:** Когда у меня появился первый компьютер, я специально...  
+**[5813.22s] English:** When I got my first computer, I specially...  
 **Translation:** 
 
-**[5816.54s] English:** Для этого даже программу...  
+**[5816.54s] English:** For this, even a program...  
 **Translation:** 
 
-**[5818.22s] English:** Я ему написал.  
+**[5818.22s] English:** I wrote to him.  
 **Translation:** 
 
-**[5819.04s] English:** Серьезно? А когда это было?  
+**[5819.04s] English:** Seriously? And when was that?  
 **Translation:** 
 
-**[5821.08s] English:** Ведь в какой-то момент вы были первоклассным программистом.  
-**Translation:** 
+**[5821.08s] English:** Well, at some point you were a top-notch programmer.  
+**Translation:** Vocabulary: programmer: 程序员
 
-**[5827.98s] English:** Когда вы начали...  
+**[5827.98s] English:** When you began...  
 **Translation:** 
 
-**[5828.82s] English:** Первый ПК у меня появился где-то в 84-м.  
+**[5828.82s] English:** The first PC I got was somewhere around 1984.  
 **Translation:** 
 
-**[5831.26s] English:** В 84-м, а программировать начали...  
+**[5831.26s] English:** In 1984, but they started programming...  
 **Translation:** 
 
-**[5833.90s] English:** Когда поступил в колледж в США, в программе был обязательный курс по компьютерам, в основном теоретический, но нам нужно было выучить язык программирования.  
-**Translation:** 
+**[5833.90s] English:** When I entered college in the US, there was a mandatory computer course, mostly theoretical, but we had to learn a programming language.  
+**Translation:** Vocabulary: mandatory: 必修的
 
-**[5848.22s] English:** И написать несколько программ на Фортран, а точнее его упрощенной версии, ватфайв.  
+**[5848.22s] English:** To write a few programs in Fortran, more precisely its simplified version, ForteFive.  
 **Translation:** 
 
-**[5856.68s] English:** Тогда я понял, какие возможности дает программирование.  
-**Translation:** 
+**[5856.68s] English:** Then I understood what programming possibilities offer.  
+**Translation:** Vocabulary: precisely: 准确地; simplified: 简化的
 
-**[5864.42s] English:** Написал код, который строил синусоиду, разбивал ее на крошечные прямоугольники, и вычислял площадь под кривой.  
+**[5864.42s] English:** Wrote code that constructed a sine wave, divided it into tiny rectangles, and calculated the area under the curve.  
 **Translation:** 
 
-**[5878.22s] English:** Я тогда был поражен.  
-**Translation:** 
+**[5878.22s] English:** I was then amazed.  
+**Translation:** Vocabulary: rectangles: 矩形
 
-**[5880.00s] English:** Круто.  
+**[5880.00s] English:** Cool.  
 **Translation:** 
 
-**[5881.92s] English:** Компьютер — это мощный инструмент.  
+**[5881.92s] English:** A computer is a powerful tool.  
 **Translation:** 
 
-**[5885.22s] English:** Можно создать себе помощника, который помогает понимать мир, анализировать его.  
+**[5885.22s] English:** Can create a helper that aids in understanding the world and analyzing it.  
 **Translation:** 
 
-**[5891.22s] English:** Мы еще вернемся к этому.  
-**Translation:** 
+**[5891.22s] English:** We will return to this.  
+**Translation:** Vocabulary: helper: 助手
 
-**[5893.14s] English:** У вас в жизни вообще много интересного, но вернемся к Москве.  
+**[5893.14s] English:** In your life, there's generally a lot that's interesting, but let's return to Moscow.  
 **Translation:** 
 
-**[5898.06s] English:** Да, давай расскажу, как я туда попал.  
-**Translation:** 
+**[5898.06s] English:** Yes, let's tell how I got there.  
+**Translation:** Vocabulary: moscow: 莫斯科
 
-**[5901.02s] English:** Однажды ко мне в квартиру приехал человек из Москвы.  
+**[5901.02s] English:** One day, a person from Moscow came to my apartment.  
 **Translation:** 
 
-**[5906.36s] English:** Он пришел ко мне вместе с Николаем.  
+**[5906.36s] English:** He came to me with Nikolai.  
 **Translation:** 
 
-**[5908.36s] English:** Мы немного поговорили, и он спросил, «Как у тебя с английским?»  
+**[5908.36s] English:** We talked a bit, and he asked, "How is your English?  
 **Translation:** 
 
-**[5914.16s] English:** Я взял с полки книгу и сказал, «Я могу читать ее без словаря».  
+**[5914.16s] English:** I took a book from the shelf and said, "I can read it without a dictionary.  
 **Translation:** 
 
-**[5919.46s] English:** «О, это интересно».  
+**[5919.46s] English:** Oh, that's interesting.  
 **Translation:** 
 
-**[5922.28s] English:** И он говорит, «Мы пришлем тебе магнитофон.  
+**[5922.28s] English:** He says, "We will send you a tape recorder.  
 **Translation:** 
 
-**[5926.00s] English:** Просто наговори что-нибудь минут на 20.  
+**[5926.00s] English:** Just ramble for about 20 minutes.  
 **Translation:** 
 
-**[5929.66s] English:** Расскажи о чем угодно».  
-**Translation:** 
+**[5929.66s] English:** Tell me about anything.  
+**Translation:** Vocabulary: ramble: 闲聊
 
-**[5932.34s] English:** Они прислали магнитофон.  
+**[5932.34s] English:** They sent a tape recorder.  
 **Translation:** 
 
-**[5934.40s] English:** И две недели спустя я уже сидел в самолете в Москву.  
+**[5934.40s] English:** Two weeks later, I was already sitting on a plane to Moscow.  
 **Translation:** 
 
-**[5938.36s] English:** Все потому, что я говорил на английском на британский манер,  
+**[5938.36s] English:** All because I spoke English in a British manner,  
 **Translation:** 
 
-**[5945.48s] English:** без сильного немецкого акцента.  
+**[5945.48s] English:** Without a strong German accent.  
 **Translation:** 
 
-**[5948.04s] English:** У меня вообще всегда был талант к подражанию.  
+**[5948.04s] English:** I have always had a talent for imitation.  
 **Translation:** 
 
-**[5953.56s] English:** Просто врожденный.  
-**Translation:** 
+**[5953.56s] English:** Simply innate.  
+**Translation:** Vocabulary: imitation: 模仿; innate: 天生的
 
-**[5956.44s] English:** Когда мы студентами работали в лаборатории,  
+**[5956.44s] English:** When we were students working in the laboratory,  
 **Translation:** 
 
-**[5962.48s] English:** я часто пародировал восточно-германских комиков.  
-**Translation:** 
+**[5962.48s] English:** I often parodied East German comedians.  
+**Translation:** Vocabulary: comedians: 喜剧演员; parodied: 模仿
 
-**[5966.40s] English:** Прям пародировали?  
+**[5966.40s] English:** Did they directly parody it?  
 **Translation:** 
 
-**[5968.36s] English:** Да, да.  
-**Translation:** 
+**[5968.36s] English:** Yes, yes.  
+**Translation:** Vocabulary: parody: 讽刺模仿
 
-**[5970.12s] English:** Конечно, я не настолько хорош, чтобы зарабатывать этим на жизнь,  
+**[5970.12s] English:** Of course, I am not that good to make a living from it,  
 **Translation:** 
 
-**[5974.28s] English:** но достаточно, чтобы их заинтересовать.  
+**[5974.28s] English:** But it's enough to interest them.  
 **Translation:** 
 
-**[5977.58s] English:** Так что меня отправили в Москву.  
+**[5977.58s] English:** So, I was sent to Moscow.  
 **Translation:** 
 
-**[5980.26s] English:** Кстати, это был мой первый полет на самолете.  
-**Translation:** 
+**[5980.26s] English:** By the way, this was my first airplane flight.  
+**Translation:** Vocabulary: moscow: 莫斯科
 
-**[5982.92s] English:** Я тогда еще пообщался с двумя женщинами, которые говорили по-английски.  
+**[5982.92s] English:** I then spoke with two women who were speaking English.  
 **Translation:** 
 
-**[5987.28s] English:** Одна из них была русской, профессором в МГУ.  
+**[5987.28s] English:** One of them was Russian, a professor at MGU.  
 **Translation:** 
 
-**[5992.14s] English:** Очевидно, это было ее прикрытие, она работала на КГБ.  
+**[5992.14s] English:** Obviously, this was her cover; she worked for the KGB.  
 **Translation:** 
 
-**[5995.00s] English:** Вторая была американка.  
+**[5995.00s] English:** The second was an American.  
 **Translation:** 
 
-**[5998.36s] English:** Она работала профессором.  
+**[5998.36s] English:** She worked as a professor.  
 **Translation:** 
 
-**[6000.00s] English:** Под прикрытием? Или это просто легенда?  
-**Translation:** 
+**[6000.00s] English:** Undercover? Or is it just a legend?  
+**Translation:** Vocabulary: undercover: 秘密调查
 
-**[6003.58s] English:** Не знаю. Представилась профессором.  
+**[6003.58s] English:** I don't know. She presented herself as a professor.  
 **Translation:** 
 
-**[6006.34s] English:** Может, правда преподавала?  
+**[6006.34s] English:** May have taught the truth?  
 **Translation:** 
 
-**[6008.02s] English:** Интересный нюанс.  
+**[6008.02s] English:** An interesting nuance.  
 **Translation:** 
 
-**[6009.58s] English:** Одно дело легенда,  
-**Translation:** 
+**[6009.58s] English:** One thing is a legend,  
+**Translation:** Vocabulary: nuance: 细微差别
 
-**[6011.86s] English:** другое, когда ты правда работаешь на должности,  
+**[6011.86s] English:** Other times, when you are actually working in a position,  
 **Translation:** 
 
-**[6015.50s] English:** но под прикрытием.  
+**[6015.50s] English:** Under cover.  
 **Translation:** 
 
-**[6019.16s] English:** Тут интересный момент.  
+**[6019.16s] English:** Here is an interesting moment.  
 **Translation:** 
 
-**[6021.24s] English:** Проще ли врать, если реально проживаешь роль?  
-**Translation:** 
+**[6021.24s] English:** Is it easier to lie if you are genuinely living the role?  
+**Translation:** Vocabulary: genuinely: 真诚地
 
-**[6025.16s] English:** Да, именно.  
+**[6025.16s] English:** Yes, exactly.  
 **Translation:** 
 
-**[6027.08s] English:** Вторая женщина.  
+**[6027.08s] English:** The second woman.  
 **Translation:** 
 
-**[6028.54s] English:** Американка.  
+**[6028.54s] English:** American.  
 **Translation:** 
 
-**[6030.72s] English:** Была средних лет.  
+**[6030.72s] English:** She was in her middle years.  
 **Translation:** 
 
-**[6032.72s] English:** Русская помоложе.  
+**[6032.72s] English:** Russian, younger.  
 **Translation:** 
 
-**[6035.82s] English:** Мы проговорили пару часов, потом они ушли.  
+**[6035.82s] English:** We talked for a couple of hours, then they went away.  
 **Translation:** 
 
-**[6039.30s] English:** А я остался один.  
+**[6039.30s] English:** I was left alone.  
 **Translation:** 
 
-**[6042.32s] English:** Позже мой куратор вернулся и сказал,  
-**Translation:** 
+**[6042.32s] English:** Later, my mentor returned and said,  
+**Translation:** Vocabulary: mentor: 导师
 
-**[6046.22s] English:** «Почти получилось».  
+**[6046.22s] English:** Almost got it.  
 **Translation:** 
 
-**[6048.66s] English:** Американка считает, что ты близок к тому,  
+**[6048.66s] English:** An American believes you are close to that.  
 **Translation:** 
 
-**[6050.88s] English:** чтобы говорить почти как  
+**[6050.88s] English:** To speak almost as  
 **Translation:** 
 
-**[6053.38s] English:** носитель американского английского.  
+**[6053.38s] English:** Native speaker of American English.  
 **Translation:** 
 
-**[6058.54s] English:** Но сказал, что русская сильно сомневалась.  
+**[6058.54s] English:** But he said that the Russian woman strongly doubted it.  
 **Translation:** 
 
-**[6061.38s] English:** В общем, 50 на 50.  
-**Translation:** 
+**[6061.38s] English:** In general, 50/50.  
+**Translation:** Vocabulary: doubted: 怀疑
 
-**[6064.92s] English:** Но в итоге мы пошли ва-банк.  
+**[6064.92s] English:** But in the end, we went all-in.  
 **Translation:** 
 
-**[6067.64s] English:** Через пару недель я уже переехал в Москву.  
-**Translation:** 
+**[6067.64s] English:** After a couple of weeks, I already moved to Moscow.  
+**Translation:** Vocabulary: moscow: 莫斯科
 
-**[6073.68s] English:** И какая у вас там была задача?  
+**[6073.68s] English:** What was your task there?  
 **Translation:** 
 
-**[6078.22s] English:** И сколько вы там пробыли?  
+**[6078.22s] English:** How long did you stay there?  
 **Translation:** 
 
-**[6080.70s] English:** Два года.  
+**[6080.70s] English:** Two years.  
 **Translation:** 
 
-**[6081.96s] English:** Вы там проходили обучение или занимались разведкой?  
-**Translation:** 
+**[6081.96s] English:** Did you undergo training or engage in espionage there?  
+**Translation:** Vocabulary: espionage: 间谍活动
 
-**[6086.72s] English:** Только обучение.  
+**[6086.72s] English:** Only training.  
 **Translation:** 
 
-**[6087.72s] English:** Только обучение.  
+**[6087.72s] English:** Only training.  
 **Translation:** 
 
-**[6088.54s] English:** Американка стала моей преподавательницей.  
+**[6088.54s] English:** American became my teacher.  
 **Translation:** 
 
-**[6093.18s] English:** Мы встречались дважды в неделю.  
+**[6093.18s] English:** We met twice a week.  
 **Translation:** 
 
-**[6095.34s] English:** Я много слушал BBC на коротких волнах.  
+**[6095.34s] English:** I have listened to BBC on short waves a lot.  
 **Translation:** 
 
-**[6103.34s] English:** Читал книги на английском.  
+**[6103.34s] English:** Read books in English.  
 **Translation:** 
 
-**[6106.34s] English:** То есть все было сосредоточено на языке и культуре англоязычного мира?  
+**[6106.34s] English:** So, was everything focused on the language and culture of the Anglophone world?  
 **Translation:** 
 
-**[6111.04s] English:** Да.  
-**Translation:** 
+**[6111.04s] English:** Yes.  
+**Translation:** Vocabulary: anglophone: 讲英语的人
 
-**[6112.04s] English:** И еще я выполнял упражнения по фонетике.  
+**[6112.04s] English:** I also performed exercises in phonetics.  
 **Translation:** 
 
-**[6115.92s] English:** Круто.  
-**Translation:** 
+**[6115.92s] English:** Cool.  
+**Translation:** Vocabulary: phonetics: 发音学
 
-**[6116.92s] English:** Каждую неделю.  
+**[6116.92s] English:** Every week.  
 **Translation:** 
 
-**[6117.92s] English:** Я meinen организацию.  
+**[6117.92s] English:** I join the organization.  
 **Translation:** 
 
-**[6118.92s] English:** Ты неakin tack?  
+**[6118.92s] English:** You are not serious?  
 **Translation:** 
 
-**[6119.92s] English:** У меня очень много удовлетворенностей?  
-**Translation:** 
+**[6119.92s] English:** Do I have a lot of satisfactions?  
+**Translation:** Vocabulary: satisfactions: 满足感
 
-**[6120.92s] English:** Третье?  
+**[6120.00s] English:** Recording. On it, words were spoken. I repeated them, then the next word, and repeated that. By the way,  
 **Translation:** 
 
-**[6121.92s] English:** Нет.  
+**[6120.92s] English:** Third?  
 **Translation:** 
 
-**[6122.92s] English:** Третье это?  
+**[6121.92s] English:** No.  
 **Translation:** 
 
-**[6123.92s] English:** Я так много занимался биerei, принимаю преподавателями,  
+**[6122.92s] English:** Third, what is this?  
 **Translation:** 
 
-**[6124.92s] English:** я занимаюсь каждая отзывünde.  
+**[6123.92s] English:** I have been practicing so much beer brewing, taking lessons from instructors.  
 **Translation:** 
 
-**[6125.92s] English:** Ты floa, ты л Serie клубены.  
-**Translation:** 
+**[6124.92s] English:** I work on every review.  
+**Translation:** Vocabulary: brewing: 酿酒; instructors: 讲师
 
-**[6126.92s] English:** reib card forever.  
+**[6125.92s] English:** You float, you're in Series club roots.  
 **Translation:** 
 
-**[6127.92s] English:** И ещё ешь ли сам поэında?  
+**[6126.92s] English:** Rebel card forever.  
 **Translation:** 
 
-**[6128.92s] English:** Есть.  
+**[6127.92s] English:** Do you eat poetry yourself?  
 **Translation:** 
 
-**[6129.92s] English:** Твоим опытом Champyörper?  
+**[6128.92s] English:** Yes.  
 **Translation:** 
 
-**[6130.92s] English:** Так, мне приятно станет.  
+**[6128.96s] English:** The main sticking point for German and Russian speakers in English accents is with vowels.  
 **Translation:** 
 
-**[6131.92s] English:** Пятки на выставке услышали?  
-**Translation:** 
+**[6129.92s] English:** Your experience with Champyoliday?  
+**Translation:** Vocabulary: accents: 口音; sticking: 难点; vowels: 元音
 
-**[6132.92s] English:** Да.  
+**[6130.92s] English:** So, I'll feel pleasant.  
 **Translation:** 
 
-**[6133.92s] English:** Я могучjach.  
+**[6131.92s] English:** Did the soles of your feet hear at the exhibition?  
 **Translation:** 
 
-**[6134.92s] English:** Ну просто удачи.  
+**[6132.92s] English:** Yes.  
 **Translation:** 
 
-**[6135.92s] English:** Да почему?  
-**Translation:** 
+**[6133.92s] English:** I am mighty.  
+**Translation:** Vocabulary: mighty: 强大的
 
-**[6136.92s] English:** Там нет небольшого кpacedа.  
+**[6134.92s] English:** Nu, just good luck.  
 **Translation:** 
 
-**[6141.92s] English:** Или так?  
+**[6135.92s] English:** Why, of course?  
 **Translation:** 
 
-**[6142.94s] English:** А в городе не былоuinely хорошего życia?  
+**[6136.92s] English:** There is no small pause there.  
 **Translation:** 
 
-**[6143.92s] English:** Да ну вот нет!  
+**[6139.10s] English:** So you just took the word "apple" and repeated it?  
 **Translation:** 
 
-**[6145.74s] English:** А наш камерстайкня!  
+**[6141.92s] English:** Or like this?  
 **Translation:** 
 
-**[6120.00s] English:** запись. На ней произносили слово. Я повторял, потом следующее слово, опять повторял. Кстати,  
-**Translation:** 
+**[6142.94s] English:** Was there not genuinely good life in the city?  
+**Translation:** Vocabulary: genuinely: 真正地
 
-**[6128.96s] English:** основная заковырка английского акцента для носителей немецкого и русского в гласных.  
+**[6143.92s] English:** Da nu, voit' net!  
 **Translation:** 
 
-**[6139.10s] English:** То есть вы брали просто одно слово «эппл» и просто повторяли его?  
+**[6145.02s] English:** American accent or British?  
 **Translation:** 
 
-**[6145.02s] English:** А американский акцент или британский?  
+**[6145.74s] English:** Ah, our camera technician!  
 **Translation:** 
 
-**[6147.58s] English:** Британский. Американский. Вот, например, есть слова, которые почти никто не произносит правильно. Разница между «хат» и «хат».  
-**Translation:** 
+**[6147.58s] English:** British. American. Here, for example, are words that almost nobody pronounces correctly. The difference between "hat" and "hat.  
+**Translation:** Vocabulary: technician: 技术人员
 
-**[6158.44s] English:** А, ага.  
+**[6158.44s] English:** Ah, okay.  
 **Translation:** 
 
-**[6160.66s] English:** Для немцев это крайне сложно.  
+**[6160.66s] English:** For Germans, this is extremely difficult.  
 **Translation:** 
 
-**[6163.00s] English:** У каждого свои слова, которые тяжело даются. На этом подкасте я это могу рассказать. Например, мой брат, да и я, когда я приехал в США и начал учить английский, я путал похожие слова.  
+**[6163.00s] English:** Each of us has words that are hard to say. On this podcast, I can share that experience. For example, my brother and I, when I came to the US and started learning English, I mixed up similar-sounding words.  
 **Translation:** 
 
-**[6176.22s] English:** Причем иногда это было очень неловко. Например, «бить» и «бить».  
+**[6176.22s] English:** Moreover, sometimes this was very awkward. For example, "hit" and "hit".  
 **Translation:** 
 
-**[6182.16s] English:** А когда ты маленький, ты еще больше боишься сказать что-то не так.  
+**[6182.16s] English:** When you're little, you're even more afraid of saying something wrong.  
 **Translation:** 
 
-**[6187.94s] English:** Еще есть такая шутка про случаи с философом Эммануилом Кантом.  
+**[6187.94s] English:** There is a joke about cases involving the philosopher Emmanuel Kant.  
 **Translation:** 
 
-**[6195.62s] English:** Думаю, догадаетесь, каким словом его фамилия созвучна.  
+**[6195.62s] English:** I think you'll guess which word her surname sounds like.  
 **Translation:** 
 
-**[6199.40s] English:** Это все создает напряжение.  
+**[6199.40s] English:** This all creates tension.  
 **Translation:** 
 
-**[6203.90s] English:** Интересно. У немцев, наверное...  
+**[6203.90s] English:** Interesting. Probably the Germans,...  
 **Translation:** 
 
-**[6205.28s] English:** ...напряжение. Интересно. У немцев, наверное...  
+**[6205.28s] English:** ...tension. Interesting. Probably the Germans,...  
 **Translation:** 
 
-**[6206.00s] English:** ...напряжение. Интересно. У немцев, наверное...  
+**[6206.00s] English:** ...tension. Interesting. Probably the Germans,...  
 **Translation:** 
 
-**[6206.10s] English:** ...другие сложности. Им труднее произносить, точнее, контролировать произношение гласных.  
-**Translation:** 
+**[6206.10s] English:** ...other complexities. They find it harder to pronounce, more precisely, to control the pronunciation of vowels.  
+**Translation:** Vocabulary: complexities: 复杂性; precisely: 精确地
 
-**[6215.10s] English:** Интересно. То есть вам приходилось оттачивать произношение?  
+**[6215.10s] English:** Interesting. That is, have you had to polish your pronunciation?  
 **Translation:** 
 
-**[6219.34s] English:** Да, я дисциплинированный человек. Я тренировался каждую ночь.  
-**Translation:** 
+**[6219.34s] English:** Yes, I am a disciplined person. I trained every night.  
+**Translation:** Vocabulary: disciplined: 自律的; polish: 改进
 
-**[6223.34s] English:** Скучно было до чертиков. Основной упор был на английский.  
+**[6223.34s] English:** It was absolutely boring. The main focus was on English.  
 **Translation:** 
 
-**[6227.34s] English:** Но помимо этого я общался с агентами, которые работали в США под дипломатическим прикрытием.  
-**Translation:** 
+**[6227.34s] English:** But in addition to this, I communicated with agents who worked in the United States under diplomatic cover.  
+**Translation:** Vocabulary: diplomatic: 外交的
 
-**[6235.88s] English:** Они делились опытом, готовили меня к тому, P2P-у, потому что не  
+**[6235.88s] English:** They shared their experience with me, preparing me for the P2P aspect, because not  
 **Translation:** 
 
-**[6240.00s] English:** что меня ждет.  
-**Translation:** 
+**[6240.00s] English:** What awaits me.  
+**Translation:** Vocabulary: awaits: 等待
 
-**[6243.18s] English:** И еще у меня было много оперативной подготовки,  
+**[6243.18s] English:** And I had a lot of operational training as well.  
 **Translation:** 
 
-**[6245.74s] English:** особенно по выявлению слежки.  
-**Translation:** 
+**[6245.74s] English:** Especially for detecting tailing.  
+**Translation:** Vocabulary: detecting: 检测; tailing: 尾矿
 
-**[6248.04s] English:** Это основное.  
+**[6248.04s] English:** This is the main thing.  
 **Translation:** 
 
-**[6248.94s] English:** Ну и да, меня наконец-то научили водить машину.  
+**[6248.94s] English:** Nu, and finally, they taught me how to drive a car.  
 **Translation:** 
 
-**[6251.86s] English:** Наконец-то, нужный навык.  
+**[6251.86s] English:** Finally, the needed skill.  
 **Translation:** 
 
-**[6253.92s] English:** А что такое выявление слежки?  
-**Translation:** 
+**[6253.92s] English:** What is surveillance detection?  
+**Translation:** Vocabulary: detection: 检测; surveillance: 监视
 
-**[6255.74s] English:** Это когда ты определяешь, следят за тобой или нет.  
+**[6255.74s] English:** This is when you determine if they are following you or not.  
 **Translation:** 
 
-**[6259.90s] English:** Ага, понял, понял, контр...  
-**Translation:** 
+**[6259.90s] English:** Agreed, got it, got it, conter...  
+**Translation:** Vocabulary: conter: 反制
 
-**[6262.12s] English:** В разведке это называется...  
+**[6262.12s] English:** In reconnaissance, this is called...  
 **Translation:** 
 
-**[6265.58s] English:** Контрразведка.  
-**Translation:** 
+**[6265.58s] English:** Counterintelligence.  
+**Translation:** Vocabulary: counterintelligence: 反间谍; reconnaissance: 侦察
 
-**[6266.90s] English:** Да, так называемый маршрут для выявления слежки.  
+**[6266.90s] English:** Yes, the so-called route for detecting surveillance.  
 **Translation:** 
 
-**[6272.00s] English:** Это как раз про контрразведку.  
+**[6272.00s] English:** This is exactly about counterintelligence.  
 **Translation:** 
 
-**[6275.60s] English:** Собственно, все.  
+**[6275.60s] English:** Sincerely, that's all.  
 **Translation:** 
 
-**[6277.36s] English:** Ну и были еще разовые акции.  
-**Translation:** 
+**[6277.36s] English:** Nu, and there were also one-time promotions.  
+**Translation:** Vocabulary: sincerely: 诚挚地
 
-**[6280.90s] English:** Например, однажды меня научили распознавать силуэты кораблей.  
+**[6280.90s] English:** For example, one day I was taught to recognize silhouettes of ships.  
 **Translation:** 
 
-**[6288.84s] English:** Издалека определять, что это за судно.  
-**Translation:** 
+**[6288.84s] English:** From a distance, it is difficult to determine what kind of ship it is.  
+**Translation:** Vocabulary: silhouettes: 船的轮廓
 
-**[6291.82s] English:** По его очертаниям.  
+**[6291.82s] English:** By its outlines.  
 **Translation:** 
 
-**[6294.40s] English:** Они думали, что это мне может пригодиться.  
-**Translation:** 
+**[6294.40s] English:** They thought this might come in handy for me.  
+**Translation:** Vocabulary: outlines: 轮廓
 
-**[6296.90s] English:** И, кстати, в 1982 году Андропов начал операцию...  
+**[6296.90s] English:** And, by the way, in 1982, Andropov began an operation...  
 **Translation:** 
 
-**[6303.18s] English:** Не помню уже кодовое название.  
-**Translation:** 
+**[6303.18s] English:** I don't remember the code name already.  
+**Translation:** Vocabulary: andropov: 安德罗波夫
 
-**[6305.84s] English:** Но суть была в том, что всех агентов на Западе  
+**[6305.84s] English:** But the essence was that all agents on the Western side  
 **Translation:** 
 
-**[6309.82s] English:** обязали следить за признаками подготовки к войне.  
+**[6309.82s] English:** They were ordered to watch for signs of war preparation.  
 **Translation:** 
 
-**[6316.92s] English:** У каждого была своя зона наблюдения.  
+**[6316.92s] English:** Each had their own zone of observation.  
 **Translation:** 
 
-**[6321.40s] English:** Мне поручили порт.  
+**[6321.40s] English:** I was tasked with port.  
 **Translation:** 
 
-**[6325.50s] English:** Военный порт в Нью-Джерси.  
+**[6325.50s] English:** A military port in New Jersey.  
 **Translation:** 
 
-**[6326.90s] English:** Возле Рэгбэнка.  
-**Translation:** 
+**[6326.90s] English:** Near Regency.  
+**Translation:** Vocabulary: regency: 统治时期
 
-**[6332.18s] English:** Он назывался военно-морская база Эрл.  
+**[6332.18s] English:** He was called Naval Base Earl.  
 **Translation:** 
 
-**[6335.48s] English:** А кодовое имя Рану.  
+**[6335.48s] English:** The code name is Rana.  
 **Translation:** 
 
-**[6337.52s] English:** Моя задача была просто прогуливаться рядом и следить,  
+**[6337.52s] English:** My task was simply to stroll nearby and keep an eye on things.  
 **Translation:** 
 
-**[6341.96s] English:** не происходит ли там чего-то необычного.  
-**Translation:** 
+**[6341.96s] English:** Is anything unusual happening there?  
+**Translation:** Vocabulary: stroll: 散步
 
-**[6345.18s] English:** В СССР тогда реально боялись Рейгана.  
+**[6345.18s] English:** In the USSR, then, they really feared Reagan.  
 **Translation:** 
 
-**[6348.06s] English:** Считали, что он начнет войну.  
-**Translation:** 
+**[6348.06s] English:** We thought he would start a war.  
+**Translation:** Vocabulary: reagan: 里根
 
-**[6351.72s] English:** Они очень сильно его боялись.  
+**[6351.72s] English:** They very much feared him.  
 **Translation:** 
 
-**[6353.90s] English:** А есть что-то,  
+**[6353.90s] English:** There is something,  
 **Translation:** 
 
-**[6356.38s] English:** что вам...  
+**[6356.38s] English:** What do you need...  
 **Translation:** 
 
-**[6356.88s] English:** Что вам особенно запомнилось из времени, проведенного в Москве?  
+**[6356.88s] English:** What especially stuck with you from your time in Moscow?  
 **Translation:** 
 
-**[6360.00s] English:** что-то философское, личное, важное для вас, но не касающееся тренировок, может навыки...  
+**[6360.00s] English:** Something philosophical, personal, important to you but not related to training, may enhance your skills....  
 **Translation:** 
 
-**[6367.38s] English:** Тебе понравится мой ответ. Очень понравится.  
-**Translation:** 
+**[6367.38s] English:** You will like my answer. You will very much like it.  
+**Translation:** Vocabulary: enhance: 提升; philosophical: 哲学的
 
-**[6369.96s] English:** Уже догадываюсь. Мне дали билеты на два  
+**[6369.96s] English:** I already have an idea. They gave me tickets for two.  
 **Translation:** 
 
-**[6376.14s] English:** американских выступления. Была труппа, которая поставила спектакль «Наш городок». Забыл имя  
-**Translation:** 
+**[6376.14s] English:** American performance. There was a troupe that put on a play called "Our Town." I forgot the name.  
+**Translation:** Vocabulary: troupe: 剧团
 
-**[6386.64s] English:** того парня. Ты, наверное, слишком молод, но, может, смотрел шоу «Хиха»?  
+**[6386.64s] English:** That guy. You're probably too young, but maybe you've watched the show "Xixa"?  
 **Translation:** 
 
-**[6391.70s] English:** Может быть. Это было популярное  
+**[6391.70s] English:** May be. It was a popular  
 **Translation:** 
 
-**[6397.02s] English:** кантри-шоу. Очень китчевое. И вот его главный исполнитель давал концерт в Москве. И я тебе  
+**[6397.02s] English:** Country show. Very kitschy. And here's its main performer giving a concert in Moscow. And I'll tell you  
 **Translation:** 
 
-**[6405.92s] English:** гарантирую, половина зала были сотрудники КГБ. О, класс.  
-**Translation:** 
+**[6405.92s] English:** Guaranteed, half the hall were KGB operatives. Oh, class.  
+**Translation:** Vocabulary: guaranteed: 肯定; kitschy: 老土; operatives: 特工
 
-**[6412.38s] English:** С другой стороны...  
+**[6412.38s] English:** On the other hand,...  
 **Translation:** 
 
-**[6413.84s] English:** Ну...  
+**[6413.84s] English:** Nu....  
 **Translation:** 
 
-**[6416.58s] English:** Ну...  
+**[6416.58s] English:** Nu....  
 **Translation:** 
 
-**[6416.62s] English:** На другом конце спектра мой поход в Мавзолей Ленина, где, кстати, до сих пор лежит его тело.  
-**Translation:** 
+**[6416.62s] English:** At the other end of the spectrum, my visit to Lenin's Mausoleum, where, by the way, his body still lies.  
+**Translation:** Vocabulary: mausoleum: 陵墓
 
-**[6427.78s] English:** Я ничего не почувствовал. Тогда он был для меня героем. Но когда я его увидел... Ничего.  
+**[6427.78s] English:** I didn't feel anything. Then he was a hero to me. But when I saw him... Nothing.  
 **Translation:** 
 
-**[6436.62s] English:** Восковая фигура. Прошел мимо, и ничего. Никакого вдохновения, никакого трепета.  
-**Translation:** 
+**[6436.62s] English:** Wax figure. Passed by, and nothing. No inspiration, no thrill.  
+**Translation:** Vocabulary: thrill: 刺激
 
-**[6446.56s] English:** Пустота. Абсолютно никаких ощущений.  
+**[6446.56s] English:** emptiness. Absolutely no sensations.  
 **Translation:** 
 
-**[6449.34s] English:** Это... В тот момент ваша вера в коммунизм начала рушиться?  
-**Translation:** 
+**[6449.34s] English:** This... At that moment, did your faith in communism begin to crumble?  
+**Translation:** Vocabulary: communism: 共产主义; crumble: 瓦解; sensations: 感觉
 
-**[6455.80s] English:** Нет.  
+**[6455.80s] English:** No.  
 **Translation:** 
 
-**[6457.00s] English:** Она тогда еще была крепка?  
+**[6457.00s] English:** Was she still strong then?  
 **Translation:** 
 
-**[6459.34s] English:** Да, но я заметил, что уровень жизни в Москве был намного ниже, чем в Восточной Германии. В  
+**[6459.34s] English:** Yes, but I noticed that the standard of living in Moscow was much lower than in Eastern Germany.  
 **Translation:** 
 
-**[6466.36s] English:** супермаркетах стабильно можно было найти только рыбные консервы,  
-**Translation:** 
+**[6466.36s] English:** Supermarkets stably could only find canned fish in.  
+**Translation:** Vocabulary: canned: 罐装; stably: 稳定地
 
-**[6475.68s] English:** и...  
+**[6475.68s] English:** And...  
 **Translation:** 
 
-**[6475.92s] English:** И...  
+**[6475.92s] English:** And...  
 **Translation:** 
 
-**[6476.40s] English:** И...  
+**[6476.40s] English:** And...  
 **Translation:** 
 
-**[6476.50s] English:** И минералку. Все остальное... Как повезет.  
+**[6476.50s] English:** And a mineral water. The rest... We'll see.  
 **Translation:** 
 
-**[6480.00s] English:** Если видишь очередь, встаешь в нее, даже не спрашивая, что продают.  
+**[6480.00s] English:** If you see a queue, join it without asking what they are selling.  
 **Translation:** 
 
-**[6485.62s] English:** Если тебе не нужно, кто-нибудь другой купит.  
+**[6485.62s] English:** If you don't need it, someone else will buy it.  
 **Translation:** 
 
-**[6488.28s] English:** Это была не нищета, но до нее было далеко.  
+**[6488.28s] English:** This was not poverty, but it was far from it.  
 **Translation:** 
 
-**[6494.34s] English:** На улицах было полно пьяных мужчин.  
+**[6494.34s] English:** On the streets, there were plenty of drunk men.  
 **Translation:** 
 
-**[6498.32s] English:** Это в 80-х?  
+**[6498.32s] English:** Is this in the 1980s?  
 **Translation:** 
 
-**[6500.26s] English:** Нет, конец 70-х.  
+**[6500.26s] English:** No, it's the end of the 1970s.  
 **Translation:** 
 
-**[6502.42s] English:** Середина, конец 70-х.  
+**[6502.42s] English:** Mid-1970s, late 1970s.  
 **Translation:** 
 
-**[6504.46s] English:** А еще, эти высотки с виду красивые, но стоило зайти во двор...  
-**Translation:** 
+**[6504.46s] English:** And even though these high-rise buildings look beautiful from the outside, stepping into the courtyard...  
+**Translation:** Vocabulary: courtyard: 庭院
 
-**[6513.76s] English:** Ух.  
+**[6513.76s] English:** Uh.  
 **Translation:** 
 
-**[6515.18s] English:** Вы прямо описываете мое детство.  
+**[6515.18s] English:** You are directly describing my childhood.  
 **Translation:** 
 
-**[6518.68s] English:** Прости.  
+**[6518.68s] English:** Sorry.  
 **Translation:** 
 
-**[6520.22s] English:** Интересно, даже с отцом-профессором и всеми условиями,  
+**[6520.22s] English:** Interesting, even with a professor father and all the conditions,  
 **Translation:** 
 
-**[6525.32s] English:** уровень жизни все равно был значительно ниже.  
+**[6525.32s] English:** The living standard was still significantly lower.  
 **Translation:** 
 
-**[6529.08s] English:** Даже в Москве, вы правы.  
+**[6529.08s] English:** Even in Moscow, you are right.  
 **Translation:** 
 
-**[6530.68s] English:** Да, именно.  
+**[6530.68s] English:** Yes, exactly.  
 **Translation:** 
 
-**[6531.32s] English:** Но одна вещь там всегда была.  
+**[6531.32s] English:** But one thing was always there.  
 **Translation:** 
 
-**[6534.28s] English:** Показать.  
+**[6534.28s] English:** Show.  
 **Translation:** 
 
-**[6534.46s] English:** По крайней мере, за те два года, что я там жил.  
+**[6534.46s] English:** At least, for those two years that I lived there.  
 **Translation:** 
 
-**[6536.62s] English:** В булочных всегда был свежий хлеб.  
+**[6536.62s] English:** In bakeries, there is always fresh bread.  
 **Translation:** 
 
-**[6539.28s] English:** Да.  
-**Translation:** 
+**[6539.28s] English:** Yes.  
+**Translation:** Vocabulary: bakeries: 面包店
 
-**[6539.84s] English:** Всегда.  
+**[6539.84s] English:** Always.  
 **Translation:** 
 
-**[6541.04s] English:** Это одно из моих детских воспоминаний.  
+**[6541.04s] English:** This is one of my childhood memories.  
 **Translation:** 
 
-**[6546.40s] English:** Постоянно хочется есть, и когда удается, ешь хлеб.  
+**[6546.40s] English:** Constantly wanting to eat, and when I manage to eat, it's bread.  
 **Translation:** 
 
-**[6550.02s] English:** И хлеб был хороший.  
+**[6550.02s] English:** The bread was good.  
 **Translation:** 
 
-**[6551.68s] English:** Да.  
+**[6551.68s] English:** Yes.  
 **Translation:** 
 
-**[6552.80s] English:** Сейчас я уже не уверен,  
+**[6552.80s] English:** Now I am no longer sure,  
 **Translation:** 
 
-**[6555.62s] English:** но помню, что тогда он казался невероятным.  
+**[6555.62s] English:** But I remember it seemed incredible then.  
 **Translation:** 
 
-**[6558.74s] English:** Для меня он был очень вкусным.  
+**[6558.74s] English:** For me, it was very delicious.  
 **Translation:** 
 
-**[6561.46s] English:** И выбор был большой.  
+**[6561.46s] English:** The choice was great.  
 **Translation:** 
 
-**[6563.04s] English:** От белого до очень...  
+**[6563.04s] English:** From white to very...  
 **Translation:** 
 
-**[6564.28s] English:** Черного.  
+**[6564.28s] English:** Black.  
 **Translation:** 
 
-**[6565.28s] English:** А если знать, где искать, то можно даже взять столичную.  
-**Translation:** 
+**[6565.28s] English:** If you know where to look, you can even get a metropolitan one.  
+**Translation:** Vocabulary: metropolitan: 大都市的
 
-**[6571.28s] English:** Стоило всего четыре рубля.  
+**[6571.28s] English:** It cost only four rubles.  
 **Translation:** 
 
-**[6573.28s] English:** И хорошая водка, и дешевая.  
-**Translation:** 
+**[6573.28s] English:** And good vodka, and cheap too.  
+**Translation:** Vocabulary: rubles: 卢布; vodka: 伏特加
 
-**[6579.28s] English:** Мне нравится.  
+**[6579.28s] English:** I like it.  
 **Translation:** 
 
-**[6580.28s] English:** Да, но нужно было знать, где ее достать.  
+**[6580.28s] English:** Yes, but we needed to know where to get it.  
 **Translation:** 
 
-**[6582.28s] English:** Как правило, в какой-то дыре.  
+**[6582.28s] English:** Typically, in some hole.  
 **Translation:** 
 
-**[6585.28s] English:** Не знаю, как было в Восточной Германии, но в Москве многое  
+**[6585.28s] English:** I don't know how it was in East Germany, but there's a lot in Moscow.  
 **Translation:** 
 
-**[6590.28s] English:** было по знакомству.  
+**[6590.28s] English:** It was through a friend.  
 **Translation:** 
 
-**[6591.28s] English:** Если у тебя...  
+**[6591.28s] English:** If you have...  
 **Translation:** 
 
-**[6592.28s] English:** Да.  
+**[6592.28s] English:** Yes.  
 **Translation:** 
 
-**[6593.28s] English:** Если у тебя есть нужные связи, если заплатишь...  
+**[6593.28s] English:** If you have the right connections, if you pay...  
 **Translation:** 
 
-**[6600.00s] English:** кому надо, то друг друга друга тебя обеспечит.  
+**[6600.00s] English:** Whoever needs will ensure you, your friend, and another friend.  
 **Translation:** 
 
-**[6605.04s] English:** Это был способ обойти бюрократию.  
-**Translation:** 
+**[6605.04s] English:** This was a way to bypass bureaucracy.  
+**Translation:** Vocabulary: bureaucracy: 官僚主义; bypass: 绕行
 
-**[6609.44s] English:** Теневая экономика.  
+**[6609.44s] English:** Shadow Economy.  
 **Translation:** 
 
-**[6612.28s] English:** Теневая экономика.  
+**[6612.28s] English:** Shadow Economy.  
 **Translation:** 
 
-**[6613.84s] English:** И это прямо-таки контраст с капитализмом в США.  
+**[6613.84s] English:** And this is a stark contrast with capitalism in the United States.  
 **Translation:** 
 
-**[6627.00s] English:** У меня случился сильнейший культурный шок, когда я  
-**Translation:** 
+**[6627.00s] English:** I experienced a severe cultural shock when I  
+**Translation:** Vocabulary: capitalism: 资本主义; stark: 鲜明的
 
-**[6631.54s] English:** увидел, что люди живут по совершенно иному принципу.  
+**[6631.54s] English:** He saw that people lived according to a completely different principle.  
 **Translation:** 
 
-**[6636.18s] English:** Но в то же время человеческая природа неизменна в обеих  
-**Translation:** 
+**[6636.18s] English:** But at the same time, human nature remains unchanged in both.  
+**Translation:** Vocabulary: unchanged: 没有改变
 
-**[6640.80s] English:** системах.  
+**[6640.80s] English:** Systems.  
 **Translation:** 
 
-**[6641.80s] English:** И в чем-то российская система даже более явно ее раскрывает,  
+**[6641.80s] English:** In some ways, the Russian system even more clearly reveals it.  
 **Translation:** 
 
-**[6647.92s] English:** потому что она строится на теневых схемах.  
+**[6647.92s] English:** Because it is built on shadow schemes.  
 **Translation:** 
 
-**[6651.38s] English:** Там постоянно сталкиваешься и с жадностью, и с доверием.  
-**Translation:** 
+**[6651.38s] English:** There you constantly encounter both greed and trust.  
+**Translation:** Vocabulary: encounter: 遇见; greed: 贪婪; schemes: 阴谋
 
-**[6655.32s] English:** В США большее влияние  
+**[6655.32s] English:** In the USA, greater influence  
 **Translation:** 
 
-**[6656.92s] English:** имеет закон, есть правила, и люди их соблюдают, а там  
+**[6656.92s] English:** Has a law, there are rules, and people follow them, and there  
 **Translation:** 
 
-**[6663.10s] English:** их нарушали постоянно.  
+**[6663.10s] English:** They were constantly being violated.  
 **Translation:** 
 
-**[6664.68s] English:** В Восточной Германии в СССР, если ты мог что-то  
-**Translation:** 
+**[6664.68s] English:** In Eastern Germany in the USSR, if you could do something  
+**Translation:** Vocabulary: violated: 侵犯
 
-**[6667.58s] English:** украсть и остаться безнаказанным, это считалось частью экономики.  
+**[6667.58s] English:** To steal and get away with it was considered part of the economy.  
 **Translation:** 
 
-**[6673.30s] English:** Ага.  
+**[6673.30s] English:** Agreed.  
 **Translation:** 
 
-**[6674.30s] English:** У меня есть друг, с которым мы учились до четвертого  
+**[6674.30s] English:** I have a friend with whom we studied until fourth grade.  
 **Translation:** 
 
-**[6680.18s] English:** класса.  
+**[6680.18s] English:** Class:.  
 **Translation:** 
 
-**[6681.80s] English:** Мы как-то связались, и он рассказал, как выживал.  
+**[6681.80s] English:** We somehow got in touch, and he told us how he survived.  
 **Translation:** 
 
-**[6684.98s] English:** Просто крал вещи, а потом продавал.  
+**[6684.98s] English:** He simply stole things and then sold them.  
 **Translation:** 
 
-**[6686.92s] English:** Или обменивал.  
+**[6686.92s] English:** Or exchanged.  
 **Translation:** 
 
-**[6687.92s] English:** Ну, кража — понятие относительное, да?  
+**[6687.92s] English:** Nu, theft—is a relative concept, isn't it?  
 **Translation:** 
 
-**[6693.10s] English:** Просто забираешь чужое.  
+**[6693.10s] English:** Simply take someone else's.  
 **Translation:** 
 
-**[6694.68s] English:** Взятки, коррупция — все это.  
-**Translation:** 
+**[6694.68s] English:** Bribes, corruption—all of it.  
+**Translation:** Vocabulary: bribes: 贿赂
 
-**[6698.68s] English:** Коррупция — это ведь тоже относительное понятие,  
+**[6698.68s] English:** Corruption is a relative concept as well,  
 **Translation:** 
 
-**[6702.76s] English:** да?  
+**[6702.76s] English:** Is it?  
 **Translation:** 
 
-**[6703.76s] English:** Шучу.  
+**[6703.76s] English:** I'm joking.  
 **Translation:** 
 
-**[6704.76s] English:** Но да, нужно работать в обход бюрократических препонов.  
-**Translation:** 
+**[6704.76s] English:** But yes, we need to work around bureaucratic obstacles.  
+**Translation:** Vocabulary: bureaucratic: 官僚的
 
-**[6707.38s] English:** А когда вся система пронизана коррупцией, буквально построена  
+**[6707.38s] English:** When the entire system is permeated by corruption, literally built on it,  
 **Translation:** 
 
-**[6711.06s] English:** на ней, вся конструкция становится нестабильной,  
-**Translation:** 
+**[6711.06s] English:** On it, the entire structure becomes unstable.  
+**Translation:** Vocabulary: permeated: 渗透; unstable: 不稳固
 
-**[6714.92s] English:** как вы и говорили.  
+**[6714.92s] English:** As you said.  
 **Translation:** 
 
-**[6715.92s] English:** И последнее.  
-**Translation:** 
+**[6715.92s] English:** And lastly.  
+**Translation:** Vocabulary: lastly: 最后
 
-**[6716.92s] English:** Два года в Москве.  
+**[6716.92s] English:** Two years in Moscow.  
 **Translation:** 
 
-**[6720.00s] English:** научили меня быть одному.  
+**[6720.00s] English:** Taught me to be alone.  
 **Translation:** 
 
-**[6725.90s] English:** У меня не было социальных связей.  
+**[6725.90s] English:** I had no social connections.  
 **Translation:** 
 
-**[6728.58s] English:** Ни друзей, ни женщин, никого?  
+**[6728.58s] English:** No friends, no women, nobody?  
 **Translation:** 
 
-**[6730.30s] English:** Никого.  
+**[6730.30s] English:** Nobody.  
 **Translation:** 
 
-**[6732.26s] English:** Единственные люди, с которыми я общался, были мои инструкторы.  
-**Translation:** 
+**[6732.26s] English:** The only people I've spoken with are my instructors.  
+**Translation:** Vocabulary: instructors: 教师
 
-**[6736.52s] English:** Я был абсолютно один.  
+**[6736.52s] English:** I was absolutely alone.  
 **Translation:** 
 
-**[6738.80s] English:** Это были два очень одиноких года.  
+**[6738.80s] English:** These were two very lonely years.  
 **Translation:** 
 
-**[6740.48s] English:** Для человека, который любит любовь, это было тяжело?  
+**[6740.48s] English:** For a person who loves love, was this difficult?  
 **Translation:** 
 
-**[6743.84s] English:** Да, но это подготовило меня.  
+**[6743.84s] English:** Yes, but it prepared me.  
 **Translation:** 
 
-**[6745.84s] English:** Первому году, первым двум годам в США,  
+**[6745.84s] English:** In the first year, the first two years in the US,  
 **Translation:** 
 
-**[6748.64s] English:** тогда я не мог нормально взаимодействовать с людьми,  
+**[6748.64s] English:** Then I couldn't interact with people normally.  
 **Translation:** 
 
-**[6752.22s] English:** не выдавая, что со мной что-то не так.  
+**[6752.22s] English:** Not revealing that something is wrong with me.  
 **Translation:** 
 
-**[6755.18s] English:** Мне пришлось учиться быть американцем.  
+**[6755.18s] English:** I had to learn to be an American.  
 **Translation:** 
 
-**[6757.46s] English:** В Москве меня этому не учили.  
+**[6757.46s] English:** In Moscow, I was not taught this.  
 **Translation:** 
 
-**[6759.28s] English:** Да и не могли.  
-**Translation:** 
+**[6759.28s] English:** Da and could not.  
+**Translation:** Vocabulary: moscow: 莫斯科
 
-**[6760.44s] English:** Значит, первые два года в Америке вы больше слушали, чем говорили?  
+**[6760.44s] English:** Meaningful conversations are limited in the first two years in America, so you listened more than spoke?  
 **Translation:** 
 
-**[6766.02s] English:** О, да.  
+**[6766.02s] English:** Oh, yes.  
 **Translation:** 
 
-**[6766.84s] English:** Первый год я даже не мог работать, пока не получил документы,  
+**[6766.84s] English:** The first year I couldn't work even until I received the documents.  
 **Translation:** 
 
-**[6771.02s] English:** номер социального страхования и водительские права.  
+**[6771.02s] English:** Social insurance number and driver's license.  
 **Translation:** 
 
-**[6776.58s] English:** А потом я...  
+**[6776.58s] English:** Then I...  
 **Translation:** 
 
-**[6778.64s] English:** устраивался на работу курьером на велосипеде  
-**Translation:** 
+**[6778.64s] English:** He was hired as a courier using a bicycle.  
+**Translation:** Vocabulary: courier: 快递员
 
-**[6782.20s] English:** и получил отличную возможность слушать, что говорят люди,  
+**[6782.20s] English:** And he received a great opportunity to listen to what people are saying.  
 **Translation:** 
 
-**[6785.76s] English:** потому что никому из них...  
+**[6785.76s] English:** Because none of them...  
 **Translation:** 
 
-**[6788.94s] English:** я не был особо интересен.  
+**[6788.94s] English:** I was not particularly interesting.  
 **Translation:** 
 
-**[6791.42s] English:** Как вас звали в Восточной Германии?  
+**[6791.42s] English:** How were you called in East Germany?  
 **Translation:** 
 
-**[6793.42s] English:** Как вас звали в Москве?  
+**[6793.42s] English:** How were you called in Moscow?  
 **Translation:** 
 
-**[6795.42s] English:** Как вас звали в США?  
+**[6795.42s] English:** How were you called in the United States?  
 **Translation:** 
 
-**[6797.42s] English:** При рождении мне дали имя Альбрехт Дитрих.  
+**[6797.42s] English:** At birth, I was given the name Albrecht Dietrich.  
 **Translation:** 
 
-**[6801.68s] English:** С немецким акцентом звучит чертовски привлекательно.  
-**Translation:** 
+**[6801.68s] English:** With a German accent, it sounds terribly attractive.  
+**Translation:** Vocabulary: albrecht: 阿尔布雷希特; dietrich: 迪特里希
 
-**[6805.78s] English:** Я ненавидел это имя, Альбрехт.  
+**[6805.78s] English:** I hated that name, Albrecht.  
 **Translation:** 
 
-**[6807.78s] English:** Мне не нравилось.  
+**[6807.78s] English:** I didn't like it.  
 **Translation:** 
 
-**[6808.28s] English:** Это было редкое имя.  
+**[6808.28s] English:** This was a rare name.  
 **Translation:** 
 
-**[6810.28s] English:** Мама назвала меня в честь художника Альбрехта Дюрера.  
+**[6810.28s] English:** Mom named me after the artist Albrecht Dürer.  
 **Translation:** 
 
-**[6816.28s] English:** В Москве меня знали под псевдонимом Дитр.  
+**[6816.28s] English:** In Moscow, I was known under the pseudonym Ditr.  
 **Translation:** 
 
-**[6820.28s] English:** А в США я стал Джеком Барски.  
-**Translation:** 
+**[6820.28s] English:** In the USA, I became Jack Bar斯基.  
+**Translation:** Vocabulary: pseudonym: 假名
 
-**[6824.28s] English:** Между этими именами я использовал кучу других,  
+**[6824.28s] English:** Between these names, I used a bunch of others.  
 **Translation:** 
 
-**[6828.28s] English:** связанных с поддельными паспортами.  
-**Translation:** 
+**[6828.28s] English:** Related to fake passports.  
+**Translation:** Vocabulary: passports: 护照
 
-**[6832.28s] English:** Я помню еще одно имя.  
+**[6832.28s] English:** I remember another name.  
 **Translation:** 
 
-**[6834.28s] English:** Уильям Дайсон.  
-**Translation:** 
+**[6834.28s] English:** William Dyson.  
+**Translation:** Vocabulary: dyson: 戴森
 
-**[6836.28s] English:** Это имя было...  
+**[6836.28s] English:** This name was...  
 **Translation:** 
 
-**[6838.28s] English:** В канадском паспорте...  
+**[6838.28s] English:** In the Canadian passport,...  
 **Translation:** 
 
-**[6840.00s] English:** которым я въехал в США.  
+**[6840.00s] English:** Which I entered into the United States.  
 **Translation:** 
 
-**[6842.24s] English:** Как вы попали в США?  
+**[6842.24s] English:** How did you get into the United States?  
 **Translation:** 
 
-**[6844.00s] English:** Давайте разберем этот путь из Москвы в Америку.  
+**[6844.00s] English:** Let's break down this route from Moscow to America.  
 **Translation:** 
 
-**[6847.42s] English:** Какое у вас было задание?  
+**[6847.42s] English:** What was your assignment?  
 **Translation:** 
 
-**[6850.54s] English:** Как все получилось?  
+**[6850.54s] English:** How did it all happen?  
 **Translation:** 
 
-**[6853.38s] English:** Да, но сначала одно важное звено.  
+**[6853.38s] English:** Yes, but first one important link.  
 **Translation:** 
 
-**[6855.14s] English:** У меня была трехмесячная практика в Канаде.  
+**[6855.14s] English:** I had a three-month internship in Canada.  
 **Translation:** 
 
-**[6860.70s] English:** Это был умный ход.  
+**[6860.70s] English:** This was a smart move.  
 **Translation:** 
 
-**[6862.94s] English:** И вот один случай, который я до сих пор вспоминаю.  
+**[6862.94s] English:** Here is one incident that I still remember.  
 **Translation:** 
 
-**[6865.40s] English:** Давайте.  
+**[6865.40s] English:** Let's proceed.  
 **Translation:** 
 
-**[6865.78s] English:** Я теперь всегда говорю людям, что один из секретов счастья — это умение посмеяться  
+**[6865.78s] English:** I now always tell people that one of the secrets to happiness is the ability to laugh.  
 **Translation:** 
 
-**[6873.14s] English:** над самыми неприятными ситуациями, в которых ты оказался.  
+**[6873.14s] English:** In the most unpleasant situations you have found yourself.  
 **Translation:** 
 
-**[6877.82s] English:** Согласен.  
+**[6877.82s] English:** Agreed.  
 **Translation:** 
 
-**[6878.34s] English:** Видеть иронию.  
-**Translation:** 
+**[6878.34s] English:** See the irony.  
+**Translation:** Vocabulary: irony: 讽刺
 
-**[6879.26s] English:** Да.  
+**[6879.26s] English:** Yes.  
 **Translation:** 
 
-**[6879.90s] English:** В ретроспективе это была смешная ситуация.  
-**Translation:** 
+**[6879.90s] English:** In retrospect, this was a funny situation.  
+**Translation:** Vocabulary: retrospect: 回顾
 
-**[6884.36s] English:** Одним из моих заданий в Канаде было добыть свидетельство о рождении под именем  
+**[6884.36s] English:** One of my tasks in Canada was to obtain a birth certificate under an alias.  
 **Translation:** 
 
-**[6891.14s] English:** Генри Ван Рэндалл, который родился  
-**Translation:** 
+**[6891.14s] English:** Henry Van Randal, who was born,  
+**Translation:** Vocabulary: alias: 假名; certificate: 证明书
 
-**[6893.62s] English:** где-то в Калифорнии.  
+**[6893.62s] English:** Somewhere in California.  
 **Translation:** 
 
-**[6896.82s] English:** Я должен был написать письмо.  
-**Translation:** 
+**[6896.82s] English:** I should have written a letter.  
+**Translation:** Vocabulary: california: 加利福尼亚州
 
-**[6898.36s] English:** «Здравствуйте, я Генри Ван Рэндалл.  
+**[6898.36s] English:** Hello, my name is Henry Van Randal.  
 **Translation:** 
 
-**[6900.62s] English:** Прошу выслать мне копию свидетельства о рождении.  
+**[6900.62s] English:** Please send me a copy of the birth certificate.  
 **Translation:** 
 
-**[6903.60s] English:** Оплата приложена».  
+**[6903.60s] English:** Payment attached.  
 **Translation:** 
 
-**[6906.42s] English:** Я жил в маленьком отеле, и по адресу не было понятно,  
+**[6906.42s] English:** I lived in a small hotel, and the address was unclear.  
 **Translation:** 
 
-**[6910.04s] English:** что это отель.  
+**[6910.04s] English:** What is this hotel?  
 **Translation:** 
 
-**[6912.22s] English:** Это было важно.  
+**[6912.22s] English:** This was important.  
 **Translation:** 
 
-**[6913.54s] English:** Я отправил запрос и ждал.  
+**[6913.54s] English:** I sent a request and waited.  
 **Translation:** 
 
-**[6916.76s] English:** Три недели.  
+**[6916.76s] English:** Three weeks.  
 **Translation:** 
 
-**[6919.22s] English:** Ничего.  
+**[6919.22s] English:** Nothing.  
 **Translation:** 
 
-**[6920.78s] English:** Четыре недели — ничего.  
+**[6920.78s] English:** Four weeks — nothing.  
 **Translation:** 
 
-**[6923.40s] English:** Концепция.  
+**[6923.40s] English:** Concept.  
 **Translation:** 
 
-**[6923.62s] English:** До концов, я не выдержал, и осмелился  
+**[6923.62s] English:** Until the end, I could not hold back and dared to  
 **Translation:** 
 
-**[6929.36s] English:** позвонить им из телефонной будки.  
+**[6929.36s] English:** To call them from a phone booth.  
 **Translation:** 
 
-**[6933.62s] English:** Звоню в офис Калифорнии, или в регистратуру, как там она называлась.  
+**[6933.62s] English:** I called the California office, or the receptionist department, as I recall it being called.  
 **Translation:** 
 
-**[6938.42s] English:** Я ору на них.  
+**[6938.42s] English:** I scream at them.  
 **Translation:** 
 
-**[6939.84s] English:** «Вы взяли мои деньги!  
+**[6939.84s] English:** You took my money!  
 **Translation:** 
 
-**[6942.02s] English:** Где мое свидетельство?»  
+**[6942.02s] English:** Where is my certificate?  
 **Translation:** 
 
-**[6944.46s] English:** Через пару недель оно пришло.  
+**[6944.46s] English:** Through a couple of weeks, it arrived.  
 **Translation:** 
 
-**[6947.10s] English:** Смотрю на конверт, написано «Генри Ван Рэндалл».  
+**[6947.10s] English:** I look at the envelope, which is written "Henry Van Randal.  
 **Translation:** 
 
-**[6949.94s] English:** Отлично.  
-**Translation:** 
+**[6949.94s] English:** Great.  
+**Translation:** Vocabulary: randal: 范兰德
 
-**[6951.00s] English:** Я даже предупредил  
+**[6951.00s] English:** I even warned him.  
 **Translation:** 
 
-**[6952.62s] English:** работников отеля,  
+**[6952.62s] English:** Employees of the hotel,  
 **Translation:** 
 
-**[6954.62s] English:** что жду письмо на имя друга.  
+**[6954.62s] English:** I am expecting a letter in my friend's name.  
 **Translation:** 
 
-**[6956.62s] English:** Забираю.  
+**[6956.62s] English:** I'm taking it.  
 **Translation:** 
 
-**[6960.00s] English:** поднимаюсь номер скрываю ура свидетельство о рождении открываю копию свидетельство а на  
+**[6960.00s] English:** I climb up, number me hidden, yay birth certificate out, copy of the birth certificate and on  
 **Translation:** 
 
-**[6967.92s] English:** нем по диагонали огромными красными буквами написано умер представь мертвый человек  
-**Translation:** 
+**[6967.92s] English:** It is written in huge red letters diagonally: "Dead, imagine a dead person.  
+**Translation:** Vocabulary: diagonally: 对角线地
 
-**[6976.32s] English:** запрашивают свое свидетельство о рождении но я не растерялся просто уехал проехал еще пару  
+**[6976.32s] English:** They are requesting their birth certificate, but I didn't panic; I just left and drove a few more.  
 **Translation:** 
 
-**[6987.40s] English:** городов хотя надо было покинуть страну как позже мне рассказали фбр за мной следила королевская  
-**Translation:** 
+**[6987.40s] English:** Cities, though we had to leave the country as later told me by the FBI, the CIA was following me.  
+**Translation:** Vocabulary: certificate: 证明书
 
-**[6995.68s] English:** конная полиция и вы тогда вы тогда это по меньшей мере подозревали я чувствовал что  
+**[6995.68s] English:** Contra police, and you then at least suspected that, I felt that.  
 **Translation:** 
 
-**[7006.96s] English:** что-то не так но маршрут контрнаблюдения выявление слежки да ничего не выявил так  
-**Translation:** 
+**[7006.96s] English:** Something's not right, but the counter-surveillance route didn't detect anything.  
+**Translation:** Vocabulary: contra: 相反; detect: 发现; suspected: 怀疑
 
-**[7017.38s] English:** что я продолжил выполнять задание мне нужно было посетить еще два города и они всегда были на шаг  
+**[7017.38s] English:** What I continued to do was complete the assignment, as I needed to visit two more cities and they were always one step ahead.  
 **Translation:** 
 
-**[7025.60s] English:** позади меня удивило что они не задержали меня на выезде ведь при посадке в самолет нужно предъявить  
-**Translation:** 
+**[7025.60s] English:** Behind me, I was surprised that they didn't detain me at the exit, as you need to present identification when boarding a plane.  
+**Translation:** Vocabulary: detain: 扣留; identification: 身份证明
 
-**[7034.06s] English:** паспорт им было известно мое имя я указал его при заселении в отель но мне удалось ускользнуть просто  
+**[7034.06s] English:** Passport, they knew my name; I indicated it upon check-in at the hotel, but I managed to slip away easily.  
 **Translation:** 
 
-**[7047.38s] English:** вас же должны были внести в какой-то список да но им нужна была обновляемая база данных чтобы  
+**[7047.38s] English:** Vas, however, should have been included in some list, but they needed an up-to-date database to do so.  
 **Translation:** 
 
-**[7055.70s] English:** отслеживать подобных людей да но это был swissair вам просто повезло везение часть жизни точно но  
+**[7055.70s] English:** Track such people, yes, but this was Swiss Air; you just got lucky. Luck is part of life, definitely.  
 **Translation:** 
 
-**[7067.14s] English:** вообще поездка канаду была успешной она подарила мне  
-**Translation:** Vocabulary: swissair: 瑞士航空
+**[7067.14s] English:** Generally, the trip to Canada was successful and it gave me  
+**Translation:** Vocabulary: swiss: 瑞士的
 
-**[7077.38s] English:** культурный шок  
+**[7077.38s] English:** Cultural shock  
 **Translation:** 
 
-**[7080.00s] English:** который помог мне не растеряться, когда я уже оказался в США.  
+**[7080.00s] English:** Which helped me not to lose my way when I was already in the US.  
 **Translation:** 
 
-**[7086.44s] English:** То есть вы поездили по Канаде?  
+**[7086.44s] English:** So, you traveled around Canada?  
 **Translation:** 
 
-**[7088.76s] English:** Да.  
+**[7088.76s] English:** Yes.  
 **Translation:** 
 
-**[7089.36s] English:** А потом в Свис-Эйр?  
+**[7089.36s] English:** Then in Swiss-Air?  
 **Translation:** 
 
-**[7091.14s] English:** Да, и даже завел отношения с одной девушкой.  
+**[7091.14s] English:** Yes, and even got into a relationship with one girl.  
 **Translation:** 
 
-**[7096.42s] English:** Канадка или франко-канадка?  
+**[7096.42s] English:** Canadian or Franco-Canadian?  
 **Translation:** 
 
-**[7098.36s] English:** Франко-канадка. Она подарила мне книгу Винни-Пух,  
+**[7098.36s] English:** Franco-Canadian. She gave me a Winnie-Pooh book.  
 **Translation:** 
 
-**[7102.04s] English:** потому что мы сходили на него в кино,  
+**[7102.04s] English:** Because we went to see it in the cinema.  
 **Translation:** 
 
-**[7104.02s] English:** и написала на обложке самому милому немцу, которого я когда-либо встречала.  
+**[7104.02s] English:** She wrote on the cover to the cutest German guy I've ever met.  
 **Translation:** 
 
-**[7110.00s] English:** Она врала?  
+**[7110.00s] English:** Did she lie?  
 **Translation:** 
 
-**[7112.10s] English:** Нет.  
+**[7112.10s] English:** No.  
 **Translation:** 
 
-**[7113.62s] English:** Или вы не знаете?  
+**[7113.62s] English:** Or do you not know?  
 **Translation:** 
 
-**[7116.72s] English:** К слову о шпионах. Это тоже закончилось с разбитым сердцем?  
+**[7116.72s] English:** Keep the topic of spies. Did this also end in a broken heart?  
 **Translation:** 
 
-**[7121.02s] English:** Нет.  
+**[7121.02s] English:** No.  
 **Translation:** 
 
-**[7122.72s] English:** Это было просто... физическое.  
+**[7122.72s] English:** This was just... physical.  
 **Translation:** 
 
-**[7126.96s] English:** Я на тот момент не был...  
+**[7126.96s] English:** I was not at that moment....  
 **Translation:** 
 
-**[7129.46s] English:** Готов к любви?  
+**[7129.46s] English:** Are you ready for love?  
 **Translation:** 
 
-**[7130.70s] English:** Нет.  
+**[7130.70s] English:** No.  
 **Translation:** 
 
-**[7130.92s] English:** Не готовы возвращаться к...  
+**[7130.92s] English:** Not ready to return to...  
 **Translation:** 
 
-**[7132.78s] English:** И к тому же я был женат в Германии.  
+**[7132.78s] English:** And I was married in Germany.  
 **Translation:** 
 
-**[7136.54s] English:** Ее я действительно любил.  
+**[7136.54s] English:** I really loved her.  
 **Translation:** 
 
-**[7138.56s] English:** Мы к этому еще вернемся.  
+**[7138.56s] English:** We will come back to this later.  
 **Translation:** 
 
-**[7139.76s] English:** Да.  
+**[7139.76s] English:** Yes.  
 **Translation:** 
 
-**[7140.00s] English:** Так, Swiss Air.  
+**[7140.00s] English:** So, Swiss Air.  
 **Translation:** 
 
-**[7143.68s] English:** Где вы приземлились в США?  
-**Translation:** Vocabulary: swiss: 瑞士
-
-**[7147.02s] English:** Летел я авиалиниями American Airlines.  
+**[7143.68s] English:** Where did you land in the USA?  
 **Translation:** 
 
-**[7152.78s] English:** Рейс из Мехико в Торонто.  
+**[7147.02s] English:** I flew with American Airlines.  
 **Translation:** 
 
-**[7156.02s] English:** Но меня заставили выйти в Чикаго.  
-**Translation:** 
+**[7152.78s] English:** Flight from Mexico to Toronto.  
+**Translation:** Vocabulary: toronto: 多伦多
 
-**[7159.54s] English:** Не знаю, зачем, как по мне, это перебор.  
+**[7156.02s] English:** But I was forced to go to Chicago.  
 **Translation:** 
 
-**[7161.84s] English:** Я не понимал, зачем это.  
-**Translation:** 
+**[7159.54s] English:** I don't know, why, as far as I'm concerned, this is overkill.  
+**Translation:** Vocabulary: overkill: 过度反应
 
-**[7164.02s] English:** Почему канадцу нельзя просто полететь прямиком из Мехико-Сити?  
+**[7161.84s] English:** I didn't understand why this was necessary.  
 **Translation:** 
 
-**[7168.68s] English:** Пересадка это...  
+**[7164.02s] English:** Why can't a Canadian simply fly straight from Mexico City?  
 **Translation:** 
 
-**[7169.76s] English:** Странно.  
+**[7168.68s] English:** Transfer is...  
 **Translation:** 
 
-**[7171.78s] English:** Да, но тем не менее, вы приземлились в Чикаго?  
-**Translation:** 
+**[7169.76s] English:** Strangely.  
+**Translation:** Vocabulary: strangely: 奇怪地
 
-**[7176.14s] English:** Да.  
+**[7171.78s] English:** Yes, but nevertheless, did you land in Chicago?  
 **Translation:** 
 
-**[7178.00s] English:** Расскажите про Америку.  
+**[7176.14s] English:** Yes.  
 **Translation:** 
 
-**[7179.34s] English:** Какой была повседневная жизнь?  
+**[7178.00s] English:** Tell me about America.  
 **Translation:** 
 
-**[7181.20s] English:** Теперь вы шпион...  
+**[7179.34s] English:** What was daily life like?  
 **Translation:** 
 
-**[7183.42s] English:** Нет, нет, сначала еще одна забавная история.  
+**[7181.20s] English:** Now you are a spy....  
 **Translation:** 
 
-**[7186.38s] English:** Да?  
+**[7183.42s] English:** No, no, first another funny story.  
 **Translation:** 
 
-**[7188.00s] English:** Было два момента, на которых моя шпионская карьера могла закончиться, едва начавшись.  
+**[7186.38s] English:** Yes?  
 **Translation:** 
 
-**[7197.52s] English:** Я прилетел...  
+**[7188.00s] English:** There were two moments during which my spy career could have ended almost before it began.  
 **Translation:** 
 
-**[7199.76s] English:** Как?  
+**[7197.52s] English:** I arrived...  
 **Translation:** 
 
-**[7207.68s] English:** Я прилетел, когда по моему делу есть 모르точная карьера и я не могу засадить ее.  
+**[7199.76s] English:** What?  
 **Translation:** 
 
-**[7214.80s] English:** К счастью, я не смог.  
+**[7200.00s] English:** Chicago evening. It's already getting dark.  
 **Translation:** 
 
-**[7216.98s] English:** Я не мог просто разводить ее...  
+**[7206.96s] English:** I have no idea which hotel to choose.  
 **Translation:** 
 
-**[7220.92s] English:** Я не мог просто там, на Edison-посадочном корабле.  
+**[7207.68s] English:** I flew in when there's a mortuary career and I can't plant it.  
 **Translation:** 
 
-**[7226.90s] English:** Дом.  
-**Translation:** 
+**[7209.70s] English:** He chose a yellow page at random, caught a taxi.  
+**Translation:** Vocabulary: mortuary: 殡仪馆
 
-**[7227.88s] English:** Дом.  
+**[7214.80s] English:** Fortunately, I was unable to.  
 **Translation:** 
 
-**[7228.40s] English:** Дом.  
+**[7215.70s] English:** When I gave the driver the address, he looked at me strangely.  
 **Translation:** 
 
-**[7228.78s] English:** Дом.  
+**[7216.98s] English:** I couldn't just play with her...  
 **Translation:** 
 
-**[7229.02s] English:** Дом.  
+**[7220.24s] English:** But then I didn't care about anything. I just wanted to sleep.  
 **Translation:** 
 
-**[7229.16s] English:** Дом.  
+**[7220.92s] English:** I couldn't just be there on the Edison landing craft.  
 **Translation:** 
 
-**[7229.24s] English:** Дом.  
+**[7224.54s] English:** I was in terrible tension after customs.  
 **Translation:** 
 
-**[7229.34s] English:** Дом.  
+**[7226.90s] English:** Home.  
 **Translation:** 
 
-**[7200.00s] English:** Чикаго вечером. Уже стемнело.  
+**[7227.88s] English:** Home.  
 **Translation:** 
 
-**[7206.96s] English:** Я без понятия, какой отель выбрать.  
+**[7228.40s] English:** Home.  
 **Translation:** 
 
-**[7209.70s] English:** Выбрал какой-то из желтых страниц, поймал такси.  
+**[7228.78s] English:** Home.  
 **Translation:** 
 
-**[7215.70s] English:** Когда я дал водителю адрес, он на меня странно посмотрел.  
+**[7229.02s] English:** Home.  
 **Translation:** 
 
-**[7220.24s] English:** Но тогда мне было все равно. Хотелось только поспать.  
+**[7229.16s] English:** Home.  
 **Translation:** 
 
-**[7224.54s] English:** Я был в жутком напряжении после таможни.  
+**[7229.24s] English:** Home.  
 **Translation:** 
 
-**[7230.00s] English:** И паспортного контроля.  
+**[7229.34s] English:** Home.  
 **Translation:** 
 
-**[7232.78s] English:** Мы поехали на юг, и я заметил, что районы становились все менее и менее приятными.  
+**[7230.00s] English:** At passport control.  
 **Translation:** 
 
-**[7241.46s] English:** Но я не придавал этому значения.  
+**[7232.78s] English:** We went south, and I noticed that the areas became less and less pleasant.  
 **Translation:** 
 
-**[7243.66s] English:** Приезжаю в отель. Обычное пятиэтажное кирпичное здание.  
+**[7241.46s] English:** But I did not give it much thought.  
 **Translation:** 
 
-**[7248.20s] English:** Но было кое-что еще.  
+**[7243.66s] English:** I arrive at the hotel. A typical five-story brick building.  
 **Translation:** 
 
-**[7251.54s] English:** Стойка регистрации защищена оргстеклом.  
+**[7248.20s] English:** But there was something else.  
 **Translation:** 
 
-**[7255.60s] English:** У меня тогда не было понимания,  
-**Translation:** 
+**[7251.54s] English:** The registration counter is protected with acrylic glass.  
+**Translation:** Vocabulary: acrylic: 有机玻璃
 
-**[7259.66s] English:** что это было.  
+**[7255.60s] English:** Then I didn't have an understanding,  
 **Translation:** 
 
-**[7260.00s] English:** Это было странно.  
+**[7259.66s] English:** What was that.  
 **Translation:** 
 
-**[7261.70s] English:** Я знал, что в США высокий уровень преступности, и подумал, что может так и везде.  
+**[7260.00s] English:** This was strange.  
 **Translation:** 
 
-**[7267.18s] English:** Поднялся в номер, открыл бутылку Джонни Окера Ред и выпил половину.  
+**[7261.70s] English:** I knew that the crime rate was high in the USA, and I thought it might be like that everywhere.  
 **Translation:** 
 
-**[7271.78s] English:** Как и полагается.  
+**[7267.18s] English:** I went to my room, opened a bottle of Johnny Walker Red, and drank half of it.  
 **Translation:** 
 
-**[7274.86s] English:** Просто я был на пределе и хотел вырубиться.  
-**Translation:** 
+**[7271.78s] English:** As expected.  
+**Translation:** Vocabulary: johnny: 约翰尼
 
-**[7277.84s] English:** Лечь в кому.  
+**[7274.86s] English:** I was on the verge of exhaustion and just wanted to crash.  
 **Translation:** 
 
-**[7280.10s] English:** И вырубился.  
-**Translation:** 
+**[7277.84s] English:** Lose consciousness completely.  
+**Translation:** Vocabulary: consciousness: 清醒; exhaustion: 疲惫; verge: 边缘
 
-**[7281.82s] English:** Наутро проснулся с таким похмельем, что казалось голова.  
+**[7280.10s] English:** He blacked out.  
 **Translation:** 
 
-**[7285.36s] English:** Вдвое больше обычного.  
-**Translation:** 
+**[7281.82s] English:** The next morning, I woke up with such a hangover that it seemed my head would split open.  
+**Translation:** Vocabulary: hangover: 宿醉
 
-**[7286.56s] English:** Но у меня был аспирин. Я выпил таблетку.  
+**[7285.36s] English:** Twice as much as usual.  
 **Translation:** 
 
-**[7290.00s] English:** И пошел искать, где бы поесть.  
-**Translation:** 
+**[7286.56s] English:** But I had aspirin. I took a tablet.  
+**Translation:** Vocabulary: aspirin: 阿司匹林
 
-**[7293.74s] English:** И только тогда понял, что нахожусь в самом сердце Южного Чикаго.  
+**[7290.00s] English:** He went off to look for somewhere to eat.  
 **Translation:** 
 
-**[7299.10s] English:** Я даже не знал о его существовании.  
+**[7293.74s] English:** Only then did he realize that he was in the very heart of South Chicago.  
 **Translation:** 
 
-**[7301.78s] English:** Потом уже разобрался, где я.  
+**[7299.10s] English:** I didn't even know it existed.  
 **Translation:** 
 
-**[7304.38s] English:** Но надо было убираться оттуда как можно скорее.  
+**[7301.78s] English:** Then I figured out where I was.  
 **Translation:** 
 
-**[7308.90s] English:** Я решил, что в следующем отеле заселюсь уже под именем Джека Барски.  
+**[7304.38s] English:** But we had to get out of there as soon as possible.  
 **Translation:** 
 
-**[7318.62s] English:** Угу.  
+**[7308.90s] English:** I decided that in the next hotel, I will check in under the name Jack Bar斯基.  
 **Translation:** 
 
-**[7319.12s] English:** Пошел.  
+**[7318.62s] English:** Ugh.  
 **Translation:** 
 
-**[7319.70s] English:** Пошел.  
+**[7319.12s] English:** Go.  
 **Translation:** 
 
-**[7320.00s] English:** Я вошел в ванну и попытался избавиться от мистера Дайсона, сжечь его паспорт.  
+**[7319.70s] English:** Go.  
 **Translation:** 
 
-**[7327.76s] English:** К сожалению, меня не обучили уничтожению документов.  
-**Translation:** 
+**[7320.00s] English:** I entered the bathtub and tried to get rid of Mr. Dyson by burning his passport.  
+**Translation:** Vocabulary: bathtub: 浴缸
 
-**[7335.60s] English:** Я попробовал его поджечь, а он оказывается огнеупорный.  
+**[7327.76s] English:** Unfortunately, I was not trained in document destruction.  
 **Translation:** 
 
-**[7341.60s] English:** Поднялся дым, и тут я поднимаю голову и вижу детектор дыма.  
+**[7335.60s] English:** I tried to set it on fire, but it turns out it's flame-resistant.  
 **Translation:** 
 
-**[7347.00s] English:** О нет.  
+**[7341.60s] English:** Smoke rose, and then I looked up and saw a smoke detector.  
 **Translation:** 
 
-**[7348.20s] English:** Я тут же швырнул паспорт в унитаз,  
-**Translation:** 
+**[7347.00s] English:** Oh no.  
+**Translation:** Vocabulary: detector: 火灾探测器
 
-**[7351.78s] English:** вытащил ножницы, разрезал его на куски и смыл.  
+**[7348.20s] English:** I threw the passport straight into the toilet,  
 **Translation:** 
 
-**[7356.48s] English:** Если бы сработала сигнализация, мне конец.  
+**[7351.78s] English:** He pulled out scissors, cut it into pieces, and washed it.  
 **Translation:** 
 
-**[7361.72s] English:** Плюс у меня было 6 тысяч долларов наличными.  
+**[7356.48s] English:** If the alarm had gone off, I would be in big trouble.  
 **Translation:** 
 
-**[7366.08s] English:** Если бы меня кто-то ограбил и забрал бы паспорт, деньги или то и другое,  
+**[7361.72s] English:** Plus, I had $6,000 in cash.  
 **Translation:** 
 
-**[7371.36s] English:** что тогда делать?  
+**[7366.08s] English:** If someone were to rob me and take my passport or money or both,  
 **Translation:** 
 
-**[7372.44s] English:** Вы же не могли бы обратиться в полицию?  
+**[7371.36s] English:** What then should we do?  
 **Translation:** 
 
-**[7374.66s] English:** В Чикаго не было советских агентов.  
+**[7372.44s] English:** Could you please call the police?  
 **Translation:** 
 
-**[7376.96s] English:** То есть у вас...  
+**[7374.66s] English:** In Chicago, there were no Soviet agents.  
 **Translation:** 
 
-**[7378.20s] English:** У вас вообще не было контактов в США?  
+**[7376.96s] English:** That is, you have...  
 **Translation:** 
 
-**[7381.58s] English:** В Чикаго вообще не было плана «Б».  
+**[7378.20s] English:** Did you have no contacts in the United States at all?  
 **Translation:** 
 
-**[7385.60s] English:** Это была ошибка.  
+**[7381.58s] English:** In Chicago, there was no Plan B.  
 **Translation:** 
 
-**[7387.28s] English:** Меня не стоило отправлять в Чикаго.  
+**[7385.60s] English:** This was an error.  
 **Translation:** 
 
-**[7389.50s] English:** Они должны были отправить в Сан-Франциско или в Вашингтон,  
+**[7387.28s] English:** I should not have been sent to Chicago.  
 **Translation:** 
 
-**[7394.34s] English:** где были советские агенты.  
+**[7389.50s] English:** They were supposed to send it to San Francisco or Washington.  
 **Translation:** 
 
-**[7397.48s] English:** Конечно, целью был Нью-Йорк.  
+**[7394.34s] English:** Where were the Soviet agents?  
 **Translation:** 
 
-**[7402.68s] English:** Но если бы я тогда вернулся в КГБ,  
+**[7397.48s] English:** Of course, the goal was New York.  
 **Translation:** 
 
-**[7405.82s] English:** я бы был опасным агентом,  
+**[7402.68s] English:** But if I had returned to the KGB then,  
 **Translation:** 
 
-**[7407.84s] English:** потому что...  
+**[7405.82s] English:** I would be a dangerous agent.  
 **Translation:** 
 
-**[7408.18s] English:** Потому что я бы мог рассказать им, как все сделать правильно.  
+**[7407.84s] English:** Because...  
 **Translation:** 
 
-**[7413.38s] English:** То есть, учитывая масштабы КГБ,  
+**[7408.18s] English:** Because I could have told them how to do it right.  
 **Translation:** 
 
-**[7418.96s] English:** они были несколько некомпетентны?  
+**[7413.38s] English:** That is, considering the规模 of the KGB,  
 **Translation:** 
 
-**[7421.24s] English:** Несколько?  
-**Translation:** 
+**[7418.96s] English:** They were somewhat incompetent?  
+**Translation:** Vocabulary: incompetent: 无能的
 
-**[7422.32s] English:** Очень некомпетентны.  
+**[7421.24s] English:** Several?  
 **Translation:** 
 
-**[7423.46s] English:** С точки зрения подготовки меня к жизни в США,  
+**[7422.32s] English:** Very incompetent.  
 **Translation:** 
 
-**[7425.92s] English:** абсолютно некомпетентны.  
+**[7423.46s] English:** From the perspective of preparing me for life in the U.S.,  
 **Translation:** 
 
-**[7427.76s] English:** Вы считаете это типично для их работы?  
+**[7425.92s] English:** Absolutely incompetent.  
 **Translation:** 
 
-**[7431.50s] English:** Неумение выстраивать логистику,  
+**[7427.76s] English:** Do you consider this typical of their work?  
 **Translation:** 
 
-**[7435.52s] English:** просчитывать стратегию,  
+**[7431.50s] English:** Lack of ability to build logistics,  
 **Translation:** 
 
-**[7438.18s] English:** и так далее?  
+**[7435.52s] English:** To plan the strategy,  
 **Translation:** 
 
-**[7439.44s] English:** Нет.  
+**[7438.18s] English:** And so on?  
 **Translation:** 
 
-**[7440.00s] English:** Да. Ни один из них не работал нелегалом.  
+**[7439.44s] English:** No.  
 **Translation:** 
 
-**[7444.12s] English:** Они были посторонними в американском обществе.  
+**[7440.00s] English:** Yes. None of them worked illegally.  
 **Translation:** 
 
-**[7447.66s] English:** Да, они общались с американцами, но жили в Нью-Йорке, в закрытом комплексе,  
+**[7444.12s] English:** They were outsiders in American society.  
 **Translation:** 
 
-**[7454.18s] English:** на севере Манхэттена, со своими семьями,  
-**Translation:** 
+**[7447.66s] English:** Yes, they communicated with Americans, but lived in New York in a closed complex,  
+**Translation:** Vocabulary: outsiders: 非主流群体
 
-**[7458.14s] English:** и большую часть времени проводили друг с другом, в кругу таких же сотрудников.  
+**[7454.18s] English:** In northern Manhattan, with their families,  
 **Translation:** 
 
-**[7464.56s] English:** Они не интегрировались.  
-**Translation:** 
+**[7458.14s] English:** And they spent most of their time together, among such colleagues.  
+**Translation:** Vocabulary: manhattan: 曼哈顿
 
-**[7466.06s] English:** Они не знали, что значит быть американцем, как они работают,  
+**[7464.56s] English:** They did not integrate.  
 **Translation:** 
 
-**[7471.90s] English:** как они живут, они этого не понимали.  
-**Translation:** 
+**[7466.06s] English:** They did not know what it meant to be an American, how they work,  
+**Translation:** Vocabulary: integrate: 融合
 
-**[7474.30s] English:** Странно, что КГБ не придавало значения интеграции.  
+**[7471.90s] English:** They didn't understand this as they lived.  
 **Translation:** 
 
-**[7478.52s] English:** Они даже не осознавали, чего не знают.  
-**Translation:** 
+**[7474.30s] English:** Strangely, the KGB did not seem to place much importance on integration.  
+**Translation:** Vocabulary: strangely: 奇怪地
 
-**[7480.72s] English:** Да.  
+**[7478.52s] English:** They even did not realize what they did not know.  
 **Translation:** 
 
-**[7481.68s] English:** И так у всех. Думаешь, ЦРУ хорошо понимало русскую культуру?  
+**[7480.72s] English:** Yes.  
 **Translation:** 
 
-**[7487.24s] English:** Нет.  
+**[7481.68s] English:** And so with everyone. Did you think the CIA had a good understanding of Russian culture?  
 **Translation:** 
 
-**[7487.98s] English:** То же самое.  
+**[7487.24s] English:** No.  
 **Translation:** 
 
-**[7488.68s] English:** В этом и была проблема.  
+**[7487.98s] English:** The same thing.  
 **Translation:** 
 
-**[7492.74s] English:** Возможно, хорошая разведка  
+**[7488.68s] English:** This was the problem.  
 **Translation:** 
 
-**[7494.44s] English:** помогла бы избежать накала в 80-х, когда мир едва не дошел до ядерной войны.  
+**[7492.74s] English:** Possible good reconnaissance.  
 **Translation:** 
 
-**[7503.74s] English:** То есть, хорошая разведка — это глубокая интеграция в общество.  
-**Translation:** 
+**[7494.44s] English:** Helped avoid the tensions in the 1980s, when the world was brinkling on a nuclear war.  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[7508.12s] English:** И понимание, что Рональд Рейган не был ястребом войны.  
+**[7503.74s] English:** That is, good intelligence is deep integration into society.  
 **Translation:** 
 
-**[7512.02s] English:** Он говорил о конце света, потому что был христианином.  
-**Translation:** 
+**[7508.12s] English:** Understanding that Ronald Reagan was not a war hawk.  
+**Translation:** Vocabulary: reagan: 里根; ronald: 里根
 
-**[7515.80s] English:** Но это может быть опасно, потому что человек начинает сомневаться в пропаганде,  
+**[7512.02s] English:** He talked about the end of the world because he was a Christian.  
 **Translation:** 
 
-**[7521.58s] English:** на которой строится КГБ,  
-**Translation:** 
+**[7515.80s] English:** But this may be dangerous because people begin to doubt propaganda.  
+**Translation:** Vocabulary: propaganda: 宣传
 
-**[7523.34s] English:** на которой строится ЦРУ.  
+**[7521.58s] English:** On which the KGB is built,  
 **Translation:** 
 
-**[7526.16s] English:** О, да.  
+**[7523.34s] English:** On which CIA is built.  
 **Translation:** 
 
-**[7527.18s] English:** И они всегда могли просто проигнорировать разведданные, которые получили.  
+**[7526.16s] English:** Oh, yes.  
 **Translation:** 
 
-**[7533.40s] English:** Давайте перескочим на другую тему.  
+**[7527.18s] English:** They could always simply ignore the intelligence data they received.  
 **Translation:** 
 
-**[7537.12s] English:** Сейчас много конспирологических теорий,  
+**[7533.40s] English:** Let's skip to another topic.  
 **Translation:** 
 
-**[7540.68s] English:** хотя они всегда были, но сейчас их особенно много.  
-**Translation:** 
+**[7537.12s] English:** Currently, there are many conspiracy theories.  
+**Translation:** Vocabulary: conspiracy: 阴谋论
 
-**[7545.32s] English:** Согласно конспирологам,  
+**[7540.68s] English:** Although they have always been around, but now there are especially many of them.  
 **Translation:** 
 
-**[7547.26s] English:** в руках разведслужб, таких как ЦРУ,  
-**Translation:** 
+**[7545.32s] English:** According to conspiracy theorists,  
+**Translation:** Vocabulary: theorists: 阴谋论者
 
-**[7552.74s] English:** ФСБ,  
+**[7547.26s] English:** In the hands of intelligence agencies such as the CIA,  
 **Translation:** 
 
-**[7553.34s] English:** МОСАД  
+**[7552.74s] English:** FSB,  
 **Translation:** 
 
-**[7554.66s] English:** и МИ-6,  
+**[7553.34s] English:** MOSAD  
 **Translation:** 
 
-**[7556.16s] English:** много власти.  
+**[7554.66s] English:** And MI-6,  
 **Translation:** 
 
-**[7557.74s] English:** Теория в том, что  
+**[7556.16s] English:** Much power.  
 **Translation:** 
 
-**[7560.00s] English:** Что они контролируют мировую элиту, могут манипулировать этой элитой, и благодаря этому они манипулируют обществом, продвигая определенные идеи и прочее.  
+**[7557.74s] English:** The theory is that,  
 **Translation:** 
 
-**[7575.98s] English:** Как вы смотрите на подобные теории, учитывая ваш опыт и принимая в расчет компетентность и злые умыслы этих служб?  
+**[7560.00s] English:** What they control the global elite, can manipulate this elite, and through this, manipulate society by promoting certain ideas and so on.  
 **Translation:** 
 
-**[7583.78s] English:** В этих теориях есть доля правды?  
-**Translation:** 
+**[7575.98s] English:** How do you view such theories, considering your experience and taking into account the competence and malicious intentions of these services?  
+**Translation:** Vocabulary: competence: 能力; malicious: 恶意; manipulate: 操控
 
-**[7586.56s] English:** Думаю, все не так однозначно.  
+**[7583.78s] English:** Is there an element of truth in these theories?  
 **Translation:** 
 
-**[7588.16s] English:** Конечно, сговор, сотрудничество имеют место быть, но скорее некоторых людей, ЦРУ и ФБР, используют те, кто действительно обладает властью.  
-**Translation:** 
+**[7586.56s] English:** I think it's not so straightforward.  
+**Translation:** Vocabulary: straightforward: 直接的
 
-**[7602.46s] English:** Власть это деньги, богатство.  
+**[7588.16s] English:** Of course, conspiracies and cooperation do exist, but rather those with real power use some people from the CIA and FBI.  
 **Translation:** 
 
-**[7607.08s] English:** По-разному может быть. Сначала можно разбогатеть и получить власть, а можно сначала добиться власти.  
+**[7602.46s] English:** Power is money, wealth.  
 **Translation:** 
 
-**[7614.88s] English:** Да, власть это еще и знание, мне это знакомо.  
+**[7607.08s] English:** It can be different. You can first get rich and then gain power, or you can first gain power and then get rich.  
 **Translation:** 
 
-**[7618.16s] English:** И статус в обществе, в военных и разведывательных структурах.  
+**[7614.88s] English:** Yes, power is also knowledge, and I am familiar with that.  
 **Translation:** 
 
-**[7623.56s] English:** Но я не думаю, что разведслужбы контролируют влиятельных людей в своих странах.  
+**[7618.16s] English:** And status in society, in military and intelligence structures.  
 **Translation:** 
 
-**[7629.74s] English:** Посмотри на Россию. Путин доминирует над своими спецслужбами.  
-**Translation:** 
+**[7623.56s] English:** But I don't think that intelligence agencies control influential people in their countries.  
+**Translation:** Vocabulary: influential: 有影响力的人
 
-**[7637.20s] English:** То есть, если вопрос в том, кто кем управляет, вы считаете, что власть не движется только в одну сторону?  
+**[7629.74s] English:** Look at Russia. Putin dominates his intelligence services.  
 **Translation:** 
 
-**[7645.34s] English:** Да.  
-**Translation:** 
+**[7637.20s] English:** So, if the question is about who controls whom, do you think power doesn't move in only one direction?  
+**Translation:** Vocabulary: dominates: 控制
 
-**[7648.16s] English:** Думаю, такое действительно существует, но не в таком масштабе, как в теориях заговоров.  
+**[7645.34s] English:** Yes.  
 **Translation:** 
 
-**[7654.92s] English:** Большинство из них просто слухи, но это не значит, что такого не бывает.  
-**Translation:** 
+**[7648.16s] English:** I think such things do exist, but not to the extent that conspiracy theories suggest.  
+**Translation:** Vocabulary: conspiracy: 阴谋论
 
-**[7661.72s] English:** Гарантирую, что есть договоренности, встречи, подготовка, если не конкретных действий, то скорее стратегии, как сохранить позиции, как укрепить их.  
+**[7654.92s] English:** Most of them are just rumors, but that doesn't mean it never happens.  
 **Translation:** 
 
-**[7678.16s] English:** Давайте про КГБ.  
+**[7661.72s] English:** Guarantee that there are agreements, meetings, and preparations, if not specific actions, then more so strategies on how to maintain positions and strengthen them.  
 **Translation:** 
 
-**[7679.76s] English:** Можно?  
+**[7678.16s] English:** Let's talk about the KGB.  
 **Translation:** 
 
-**[7680.00s] English:** обобщить до ФСБ и ЦРУ. Как думаете, мог бы агент КГБ убить кого-то по приказу, даже если это  
+**[7679.76s] English:** Can I?  
 **Translation:** 
 
-**[7687.16s] English:** нарушает международное право? Они убивали. Убивали. Был известный случай с Василием, кажется,  
+**[7680.00s] English:** Summarize to FSB and CIA. Do you think a KGB agent could kill someone on orders, even if this  
 **Translation:** 
 
-**[7701.12s] English:** Хохловом. Он дезертировал. Он был киллером, прошел подготовку, выполнял ликвидации за границей.  
+**[7687.16s] English:** Does it violate international law? They were killing. Killing. There was a known case with Vasili, I think.  
 **Translation:** 
 
-**[7711.54s] English:** Его отправляли в Западную Германию убить перебежчика из КГБ, но он отказался. Он встретился с целью  
+**[7701.12s] English:** Hokhlovom. He deserted. He was a killer, underwent training, and carried out assassinations abroad.  
 **Translation:** 
 
-**[7718.82s] English:** и сказал, я должен тебя убить, но не буду. В итоге он сбежал в США. И, кстати, я с ним встречался.  
-**Translation:** 
+**[7711.54s] English:** He was sent to West Germany to kill a KGB defector, but he refused. He met his target.  
+**Translation:** Vocabulary: assassinations: 暗杀; defector: 叛徒; underwent: 经历
 
-**[7727.24s] English:** КГБ однажды отправил меня в Калифорнию, проверить,  
+**[7718.82s] English:** He said he should kill me, but he wouldn't. In the end, he fled to the USA. And by the way, I met with him.  
 **Translation:** 
 
-**[7731.12s] English:** жив ли он, где работает.  
-**Translation:** 
+**[7727.24s] English:** The KGB once sent me to California to check,  
+**Translation:** Vocabulary: california: 加利福尼亚
 
-**[7733.52s] English:** Я его нашел.  
+**[7731.12s] English:** Is he alive? Where does he work?  
 **Translation:** 
 
-**[7735.44s] English:** И мы посмотрели друг на друга.  
+**[7733.52s] English:** I found him.  
 **Translation:** 
 
-**[7742.92s] English:** То есть активный агент КГБ смотрел на дезертира из КГБ.  
+**[7735.44s] English:** We looked at each other.  
 **Translation:** 
 
-**[7748.58s] English:** Хотя я тогда этого не знал.  
+**[7742.92s] English:** That is, an active KGB agent was watching a defector from the KGB.  
 **Translation:** 
 
-**[7749.96s] English:** Мы смотрели друг на друга, не зная, кто есть кто.  
+**[7748.58s] English:** Although I didn't know that then.  
 **Translation:** 
 
-**[7753.20s] English:** Позже я узнал правду.  
+**[7749.96s] English:** We looked at each other, not knowing who was who.  
 **Translation:** 
 
-**[7755.88s] English:** Но он смог выжить.  
+**[7753.20s] English:** Later, I found out the truth.  
 **Translation:** 
 
-**[7757.98s] English:** Да.  
+**[7755.88s] English:** But he was able to survive.  
 **Translation:** 
 
-**[7758.18s] English:** Да. Вообще убийства были, но не так много.  
+**[7757.98s] English:** Yes.  
 **Translation:** 
 
-**[7765.82s] English:** Ну, те, о которых мы знаем.  
-**Translation:** 
+**[7758.18s] English:** Yes. There were killings, but not many.  
+**Translation:** Vocabulary: killings: 杀人事件
 
-**[7767.94s] English:** Тоже верно.  
+**[7765.82s] English:** Nu, te, o kotorikh my znayem.  
 **Translation:** 
 
-**[7768.94s] English:** Это сложно.  
-**Translation:** 
+**[7767.94s] English:** Also correct.  
+**Translation:** Vocabulary: kotorikh: 其中的
 
-**[7772.04s] English:** Вопрос в том, насколько далеко могут...  
+**[7768.94s] English:** This is difficult.  
 **Translation:** 
 
-**[7775.26s] English:** готовы зайти разведслужбы ради...  
+**[7772.04s] English:** The question is, how far can they go...  
 **Translation:** 
 
-**[7779.56s] English:** ради достижения цели.  
+**[7775.26s] English:** Ready to go in for the reconnaissance services for...  
 **Translation:** 
 
-**[7783.24s] English:** Я думаю, что у него одного из этих агентств нет последней черты.  
-**Translation:** 
+**[7779.56s] English:** For the achievement of the goal.  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[7788.18s] English:** Я думаю, что у него одного из этих агентств нет последней черты.  
+**[7783.24s] English:** I think that none of these agencies has the final touch.  
 **Translation:** 
 
-**[7789.18s] English:** Если потребуются, они перейдут вообще любую черту.  
+**[7788.18s] English:** I think that none of these agencies has the final touch.  
 **Translation:** 
 
-**[7796.38s] English:** Можно оправдать что угодно, особенно в мире с ядерным оружием.  
+**[7789.18s] English:** If they deem it necessary, they will cross any line.  
 **Translation:** 
 
-**[7800.00s] English:** Можно сказать, что так ты буквально спас мир.  
-**Translation:** 
+**[7796.38s] English:** One can justify anything, especially in a world with nuclear weapons.  
+**Translation:** Vocabulary: justify: 辩解
 
-**[7804.52s] English:** Давайте я задам пару сложных вопросов, а потом вернемся к вашему времени в Америке.  
+**[7800.00s] English:** One could say that you literally saved the world.  
 **Translation:** 
 
-**[7809.50s] English:** Но Владимира Путина неоднократно обвиняли в организации отравлений и убийств,  
-**Translation:** 
+**[7804.52s] English:** Let's have me ask a couple of tricky questions, and then we'll get back to your time in America.  
+**Translation:** Vocabulary: tricky: 棘手的
 
-**[7817.86s] English:** начиная с Александра Литвиненко и заканчивая Алексеем Навальным.  
+**[7809.50s] English:** But Vladimir Putin has been accused multiple times of organizing poisonings and assassinations.  
 **Translation:** 
 
-**[7823.46s] English:** Как вы думаете, эти обвинения обоснованы?  
-**Translation:** 
+**[7817.86s] English:** Starting with Alexander Litvinenko and ending with Alexei Navalny.  
+**Translation:** Vocabulary: assassinations: 谋杀; litvinenko: 利特维年科; navalny: 纳瓦尔尼; poisonings: 毒害; vladimir: 弗拉基米尔
 
-**[7826.14s] English:** И еще задам несколько вопросов о его ранних годах в КГБ, это тоже интересно.  
+**[7823.46s] English:** How do you think these accusations are justified?  
 **Translation:** 
 
-**[7835.88s] English:** Мне очень нравится словосочетание «правдоподобное отрицание».  
-**Translation:** 
+**[7826.14s] English:** And I'll also ask a few questions about his early years in the KGB; this is also interesting.  
+**Translation:** Vocabulary: accusations: 指控
 
-**[7843.20s] English:** Не думаю, что Путин напрямую отдавал приказы.  
+**[7835.88s] English:** I really like the phrase "plausible denial.  
 **Translation:** 
 
-**[7846.70s] English:** Скорее он мог сказать что-то вроде «было бы неплохо, если бы вот так получилось»,  
-**Translation:** 
+**[7843.20s] English:** I don't think Putin gave direct orders directly.  
+**Translation:** Vocabulary: denial: 否认; plausible: 站得住脚的
 
-**[7850.72s] English:** а там уже кто-то подхватывает эту мысль.  
+**[7846.70s] English:** He might have said something like "it would be nice if it turned out this way,  
 **Translation:** 
 
-**[7854.64s] English:** Можно ли привести...  
+**[7850.72s] English:** There, someone already picks up on this idea.  
 **Translation:** 
 
-**[7856.14s] English:** Можно ли привести аргументы в пользу того, что Путин не был напрямую или косвенно причастен к этим случаям?  
+**[7854.64s] English:** Can we bring up...  
 **Translation:** 
 
-**[7863.92s] English:** Да кто знает.  
+**[7856.14s] English:** Can we bring arguments in favor of the fact that Putin was not directly or indirectly involved in these cases?  
 **Translation:** 
 
-**[7865.92s] English:** Но его международная репутация, которую он, пожалуй, сам же и сформировал,  
+**[7863.92s] English:** Da who knows.  
 **Translation:** 
 
-**[7875.82s] English:** говорит о том, что он как раз тот человек, который мог бы отдавать такие приказы, напрямую или нет,  
+**[7865.92s] English:** But his international reputation, which he may have formed himself,  
 **Translation:** 
 
-**[7882.36s] English:** что его нужно бояться, и поэтому...  
+**[7875.82s] English:** He says that he is exactly the person who could give such orders, directly or indirectly.  
 **Translation:** 
 
-**[7886.14s] English:** Да, конечно.  
+**[7882.36s] English:** That's something to be afraid of, and therefore...  
 **Translation:** 
 
-**[7888.66s] English:** Но сам факт...  
+**[7886.14s] English:** Yes, of course.  
 **Translation:** 
 
-**[7892.14s] English:** Отравление Литвиненко и убийство болгарина Маркова с помощью зонтика,  
+**[7888.66s] English:** But the fact itself...  
 **Translation:** 
 
-**[7903.88s] English:** все дороги ведут назад к советским спецслужбам.  
+**[7892.14s] English:** Poisoning of Litvinenko and the killing of Bulgarian Markov with a umbrella,  
 **Translation:** 
 
-**[7910.68s] English:** И уже этого достаточно, чтобы их боялись.  
-**Translation:** 
+**[7903.88s] English:** All roads lead back to Soviet intelligence agencies.  
+**Translation:** Vocabulary: bulgarian: 保加利亚人; litvinenko: 利特维年科; markov: 马卡洛夫; poisoning: 中毒
 
-**[7916.14s] English:** Мой ответ – это лишь обоснованное предположение.  
+**[7910.68s] English:** Already this is enough to make them fear.  
 **Translation:** 
 
-**[7919.66s] English:** Я не...  
-**Translation:** 
+**[7916.14s] English:** My answer is merely a justified assumption.  
+**Translation:** Vocabulary: assumption: 假定
 
-**[7920.00s] English:** Не могу утверждать наверняка, но...  
+**[7919.66s] English:** I don't...  
 **Translation:** 
 
-**[7922.86s] English:** Меня печалит, что многие слушатели этого подкаста  
+**[7920.00s] English:** I cannot state it with certainty, but...  
 **Translation:** 
 
-**[7926.68s] English:** посмеются над наивностью следующего вопроса,  
+**[7922.86s] English:** I am saddened that many listeners of this podcast  
 **Translation:** 
 
-**[7935.26s] English:** но нужно сохранять объективность и попробовать понять,  
-**Translation:** 
+**[7926.68s] English:** They will laugh at the naivety of the following question.  
+**Translation:** Vocabulary: listeners: 听众; naivety: 天真
 
-**[7938.60s] English:** как работают разведывательные службы.  
+**[7935.26s] English:** But we need to maintain objectivity and try to understand,  
 **Translation:** 
 
-**[7942.18s] English:** Возможно ли, чтобы глава разведки не отдавал таких приказов напрямую,  
-**Translation:** 
+**[7938.60s] English:** How do intelligence services work.  
+**Translation:** Vocabulary: objectivity: 客观性
 
-**[7947.94s] English:** а скорее...  
+**[7942.18s] English:** Is it possible for the head of intelligence to issue such orders directly?  
 **Translation:** 
 
-**[7950.82s] English:** Глава разведки, скорее всего, отдал бы приказ.  
+**[7947.94s] English:** Ah, rather...  
 **Translation:** 
 
-**[7954.64s] English:** Даже при разграничении отделов?  
+**[7950.82s] English:** The head of intelligence, most likely, would give the order.  
 **Translation:** 
 
-**[7956.52s] English:** Да, но глава государства нет.  
-**Translation:** 
+**[7954.64s] English:** Even with departmental boundaries?  
+**Translation:** Vocabulary: departmental: 部门的
 
-**[7959.86s] English:** А, возможно, не глава государства.  
+**[7956.52s] English:** Yes, but there is no head of state.  
 **Translation:** 
 
-**[7963.50s] English:** Хотя в США тоже такое бывает, и точно бывает в России.  
+**[7959.86s] English:** Ah, possibly not the head of the state.  
 **Translation:** 
 
-**[7970.08s] English:** У главы ФСБ и ГРУ есть личные связи, не только рабочие.  
+**[7963.50s] English:** Although it happens in the US too, and definitely happens in Russia.  
 **Translation:** 
 
-**[7976.02s] English:** Глава ФСБ, который сейчас...  
+**[7970.08s] English:** The head of the FSB and GRU has personal connections as well as professional ones.  
 **Translation:** 
 
-**[7977.92s] English:** В тюрьме?  
+**[7976.02s] English:** Head of the FSB, who is currently...  
 **Translation:** 
 
-**[7981.14s] English:** Да, сейчас там много интересного,  
+**[7977.92s] English:** In jail?  
 **Translation:** 
 
-**[7984.38s] English:** особенно после начала войны в Украине.  
+**[7981.14s] English:** Yes, there's a lot of interesting stuff going on right now,  
 **Translation:** 
 
-**[7988.70s] English:** Позвольте задать вопрос об этой войне.  
+**[7984.38s] English:** Especially after the start of the war in Ukraine.  
 **Translation:** 
 
-**[7993.50s] English:** Давай.  
+**[7988.70s] English:** Let me ask a question about this war.  
 **Translation:** 
 
-**[7994.64s] English:** Как вы смотрите на войну в Украине,  
+**[7993.50s] English:** Let's do it.  
 **Translation:** 
 
-**[7998.96s] English:** начиная с 2014-го до полномасштабного вторжения России в феврале 2022-го?  
+**[7994.64s] English:** How do you view the war in Ukraine?  
 **Translation:** 
 
-**[8005.40s] English:** Можно задать много вопросов.  
+**[7998.96s] English:** Starting from 2014 until Russia's full-scale invasion in February 2022?  
 **Translation:** 
 
-**[8010.58s] English:** Во-первых, какие ошибки совершили правительства?  
+**[8005.40s] English:** One can ask many questions.  
 **Translation:** 
 
-**[8017.64s] English:** В чем вина России, Украины, США, Китая?  
-**Translation:** 
+**[8010.58s] English:** Firstly, what errors did the governments make?  
+**Translation:** Vocabulary: firstly: 首先
 
-**[8025.84s] English:** Можно ли измерить их вину?  
+**[8017.64s] English:** What is the guilt of Russia, Ukraine, the United States, and China?  
 **Translation:** 
 
-**[8028.14s] English:** Кто здесь хороший, а кто плохие?  
+**[8025.84s] English:** Can their guilt be measured?  
 **Translation:** 
 
-**[8030.08s] English:** Тут больше одного вопроса.  
+**[8028.14s] English:** Who here is good, and who is bad?  
 **Translation:** 
 
-**[8033.58s] English:** Давай.  
+**[8030.08s] English:** Here is more than one question.  
 **Translation:** 
 
-**[8035.82s] English:** По порядку.  
+**[8033.58s] English:** Let's do it.  
 **Translation:** 
 
-**[8037.46s] English:** Внимательные аналитики.  
+**[8035.82s] English:** First, let's go in order.  
 **Translation:** 
 
-**[8045.50s] English:** Редактор субтитров А.Семкин Корректор А.Егорова  
+**[8037.46s] English:** Attentive analysts.  
 **Translation:** 
 
-**[8040.00s] English:** Знали об этом заранее, хотя их было немного.  
-**Translation:** 
+**[8040.00s] English:** They knew about it in advance, though there weren't many of them.  
+**Translation:** Vocabulary: analysts: 分析人士; attentive: 细心的
 
-**[8045.14s] English:** Владимир Путин с самого начала говорил,  
+**[8045.14s] English:** Vladimir Putin has been saying from the very beginning,  
 **Translation:** 
 
-**[8048.46s] English:** чего он хочет.  
-**Translation:** 
+**[8045.50s] English:** Editor of Subtitles: A.Semkin Corrector: A.Egorova  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[8050.42s] English:** Восстановить сильную Россию.  
+**[8048.46s] English:** What does he want.  
 **Translation:** 
 
-**[8055.02s] English:** Создать нечто вроде Российской империи.  
+**[8050.42s] English:** To restore a strong Russia.  
 **Translation:** 
 
-**[8058.52s] English:** Объединить всех русскоязычных в одном государстве.  
+**[8055.02s] English:** Create something like the Russian Empire.  
 **Translation:** 
 
-**[8064.34s] English:** Но его просто игнорировали.  
+**[8058.52s] English:** To unite all Russians in one state.  
 **Translation:** 
 
-**[8066.84s] English:** Он открыто говорил об этом на конференции во Франции,  
+**[8064.34s] English:** But he was simply ignored.  
 **Translation:** 
 
-**[8071.70s] English:** если я не ошибаюсь.  
-**Translation:** 
+**[8066.84s] English:** He openly spoke about it at a conference in France,  
+**Translation:** Vocabulary: openly: 公开地
 
-**[8073.82s] English:** Прямо так и сказал.  
+**[8071.70s] English:** If I am not mistaken.  
 **Translation:** 
 
-**[8076.30s] English:** А мы тут, в США, занимались самообманом.  
+**[8073.82s] English:** He said it right away.  
 **Translation:** 
 
-**[8082.44s] English:** Обама пытался перегрузить отношения с Россией,  
+**[8076.30s] English:** We here in the US were engaged in self-deception.  
 **Translation:** 
 
-**[8087.14s] English:** хотел подружиться.  
-**Translation:** 
+**[8082.44s] English:** Obama tried to reengage with Russia,  
+**Translation:** Vocabulary: obama: 奥巴马; reengage: 重新接触
 
-**[8088.08s] English:** И когда Путин захватил Крым, мы ничего не сделали.  
+**[8087.14s] English:** Wanted to be friends.  
 **Translation:** 
 
-**[8094.96s] English:** Дальше все развивалось.  
+**[8088.08s] English:** When Putin seized Crimea, we did nothing.  
 **Translation:** 
 
-**[8096.84s] English:** По нарастающей.  
+**[8094.96s] English:** Further developments followed.  
 **Translation:** 
 
-**[8101.74s] English:** Тут все очевидно.  
+**[8096.84s] English:** By the way it's increasing.  
 **Translation:** 
 
-**[8103.64s] English:** Два года назад вышло эссе за авторством Путина.  
+**[8101.74s] English:** Here it is all obvious.  
 **Translation:** 
 
-**[8109.18s] English:** Сам он его писал или нет, неважно.  
+**[8103.64s] English:** Two years ago, Putin authored an essay.  
 **Translation:** 
 
-**[8111.80s] English:** В нем он снова открыто заявил о своих намерениях.  
+**[8109.18s] English:** Whether he wrote it or not, it doesn't matter.  
 **Translation:** 
 
-**[8115.64s] English:** Как реализовать этот план?  
+**[8111.80s] English:** In it, he again openly declared his intentions.  
 **Translation:** 
 
-**[8118.40s] English:** Силой.  
+**[8115.64s] English:** How can we implement this plan?  
 **Translation:** 
 
-**[8121.80s] English:** Ошибкой США было то, что мы его проигнорировали.  
-**Translation:** 
+**[8118.40s] English:** By force.  
+**Translation:** Vocabulary: implement: 执行
 
-**[8126.04s] English:** Мы...  
+**[8121.80s] English:** The mistake of the United States was that we ignored it.  
 **Translation:** 
 
-**[8126.36s] English:** Мы...  
+**[8126.04s] English:** We...  
 **Translation:** 
 
-**[8126.62s] English:** Мы...  
+**[8126.36s] English:** We...  
 **Translation:** 
 
-**[8126.66s] English:** Мы...  
+**[8126.62s] English:** We...  
 **Translation:** 
 
-**[8126.72s] English:** Мы...  
+**[8126.66s] English:** We...  
 **Translation:** 
 
-**[8126.74s] English:** Мы...  
+**[8126.72s] English:** We...  
 **Translation:** 
 
-**[8126.84s] English:** Верили в иллюзии и не остановили его санкциями  
+**[8126.74s] English:** We...  
 **Translation:** 
 
-**[8130.64s] English:** еще до начала стрельбы.  
+**[8126.84s] English:** Believed in illusions and did not stop him with sanctions.  
 **Translation:** 
 
-**[8134.12s] English:** Позвольте возразить.  
+**[8130.64s] English:** Before the shooting began.  
 **Translation:** 
 
-**[8135.48s] English:** Думаю, вы не упомянули...  
+**[8134.12s] English:** Let me object.  
 **Translation:** 
 
-**[8138.68s] English:** Вы рассказали про грехи российского правительства  
+**[8135.48s] English:** I think you didn't mention...  
 **Translation:** 
 
-**[8141.90s] English:** и Путина, но не рассказали о грехах правительства США.  
+**[8138.68s] English:** You have talked about the sins of the Russian government.  
 **Translation:** 
 
-**[8148.34s] English:** Вы говорите о просчетах.  
+**[8141.90s] English:** And they mentioned Putin, but did not reveal the sins of the US government.  
 **Translation:** 
 
-**[8151.92s] English:** Дело не только в том, что они не оказали нужного давления санкциями.  
+**[8148.34s] English:** You are talking about mistakes.  
 **Translation:** 
 
-**[8156.32s] English:** Они не отреагировали на его заявления.  
+**[8151.92s] English:** The issue is not just that they did not apply sufficient pressure through sanctions.  
 **Translation:** 
 
-**[8159.96s] English:** Они не ответили на его ответы.  
-**Translation:** 
+**[8156.32s] English:** They did not react to his statements.  
+**Translation:** Vocabulary: sanctions: 制裁
 
-**[8160.00s] English:** И статьи...  
+**[8159.96s] English:** They did not respond to his answers.  
 **Translation:** 
 
-**[8162.00s] English:** Я знаю, куда ты клонишь, продолжай.  
+**[8160.00s] English:** And articles...  
 **Translation:** 
 
-**[8163.82s] English:** США не просто бездействовали, они еще и давили на Россию.  
+**[8162.00s] English:** I know where you're going with this, continue.  
 **Translation:** 
 
-**[8171.18s] English:** Как выразился сам Путин, говорил, они пытались загнать крысу в угол, расширяя НАТО.  
+**[8163.82s] English:** The United States not only failed to act, they also put pressure on Russia.  
 **Translation:** 
 
-**[8182.64s] English:** И вооружая Украину.  
+**[8171.18s] English:** As Putin expressed it, they tried to corner the mouse by expanding NATO.  
 **Translation:** 
 
-**[8183.96s] English:** Американский военно-промышленный комплекс — это механизм, который привел нас...  
+**[8182.64s] English:** And arming Ukraine.  
 **Translation:** 
 
-**[8193.82s] English:** Думаю, многие молодые люди...  
+**[8183.96s] English:** The American military-industrial complex is a mechanism that has led us...  
 **Translation:** 
 
-**[8197.82s] English:** Когда я приехал в эту страну, а я люблю эту страну...  
+**[8193.82s] English:** I think many young people...  
 **Translation:** 
 
-**[8203.50s] English:** Я видел 9 сентября, эмоционально прожил это событие.  
+**[8197.82s] English:** When I arrived in this country, and I love this country....  
 **Translation:** 
 
-**[8209.68s] English:** Ага.  
+**[8203.50s] English:** I saw it on September 9th and emotionally lived through this event.  
 **Translation:** 
 
-**[8211.38s] English:** Тогда, до и после, я говорил...  
+**[8209.68s] English:** Agreed.  
 **Translation:** 
 
-**[8213.94s] English:** Я не гордился быть американцем, но мне пришлось пройти через осознание, что нас обманули...  
+**[8211.38s] English:** Then, before and after, I was saying...  
 **Translation:** 
 
-**[8220.00s] English:** Насчет реальных целей войны в Ираке и даже в Афганистане.  
+**[8213.94s] English:** I was not proud to be an American, but I had to go through the realization that we were lied to....  
 **Translation:** 
 
-**[8227.56s] English:** Я своими глазами увидел, как работает военно-промышленный комплекс.  
-**Translation:** 
+**[8220.00s] English:** Regarding the real goals of the war in Iraq and even in Afghanistan.  
+**Translation:** Vocabulary: afghanistan: 阿富汗; realization: 觉悟
 
-**[8235.34s] English:** Как он служит расширению империи.  
+**[8227.56s] English:** I saw with my own eyes how the military-industrial complex works.  
 **Translation:** 
 
-**[8238.32s] English:** Как мы...  
+**[8235.34s] English:** How he serves the expansion of the empire.  
 **Translation:** 
 
-**[8239.32s] English:** Как люди убеждают...  
+**[8238.32s] English:** How we...  
 **Translation:** 
 
-**[8242.74s] English:** Что мы...  
+**[8239.32s] English:** How do people persuade...  
 **Translation:** 
 
-**[8243.94s] English:** Хорошие ребята.  
+**[8242.74s] English:** What we...  
 **Translation:** 
 
-**[8246.02s] English:** Что можно насаждать свои ценности.  
+**[8243.94s] English:** Good guys.  
 **Translation:** 
 
-**[8250.40s] English:** Демократию.  
+**[8246.02s] English:** What can be planted are our values.  
 **Translation:** 
 
-**[8252.00s] English:** Равные права.  
+**[8250.40s] English:** Democracy.  
 **Translation:** 
 
-**[8253.76s] English:** Стремление к счастью.  
+**[8252.00s] English:** Equal rights.  
 **Translation:** 
 
-**[8256.16s] English:** С помощью военной силы.  
-**Translation:** 
+**[8253.76s] English:** Strive for happiness.  
+**Translation:** Vocabulary: strive: 努力争取
 
-**[8259.40s] English:** Делать это с помощью дронов и оружия.  
+**[8256.16s] English:** With military force.  
 **Translation:** 
 
-**[8263.38s] English:** Причем без значительных затрат для самих американцев.  
-**Translation:** 
+**[8259.40s] English:** Doing this with drones and weapons.  
+**Translation:** Vocabulary: drones: 无人机
 
-**[8268.58s] English:** И этот механизм применим не только к Афганистану и Ираку.  
+**[8263.38s] English:** And yet, there were minimal costs for Americans.  
 **Translation:** 
 
-**[8274.74s] English:** Не только к Йемену и Сирии.  
-**Translation:** 
+**[8268.58s] English:** And this mechanism is applicable not only to Afghanistan and Iraq.  
+**Translation:** Vocabulary: minimal: 最小的
 
-**[8276.86s] English:** Не только к Китаю.  
+**[8274.74s] English:** Not only to Yemen and Syria.  
 **Translation:** 
 
-**[8278.58s] English:** Он применим и к Украине.  
-**Translation:** 
+**[8276.86s] English:** Not only to China.  
+**Translation:** Vocabulary: syria: 叙利亚; yemen: 也门
 
-**[8280.00s] English:** и применим к России.  
+**[8278.58s] English:** He is applicable to Ukraine as well.  
 **Translation:** 
 
-**[8281.78s] English:** Согласен. Две мысли.  
+**[8280.00s] English:** And we apply it to Russia.  
 **Translation:** 
 
-**[8284.62s] English:** Во-первых, сейчас в публичном дискурсе  
+**[8281.78s] English:** Agreed. Two thoughts.  
 **Translation:** 
 
-**[8289.08s] English:** вообще не звучит термин «военно-промышленный комплекс».  
-**Translation:** 
+**[8284.62s] English:** Firstly, currently in public discourse,  
+**Translation:** Vocabulary: discourse: 公开讨论; firstly: 首先
 
-**[8292.88s] English:** Хотя еще Эйзенхауэр о нем предупреждал.  
+**[8289.08s] English:** Generally, the term "military-industrial complex" does not sound right.  
 **Translation:** 
 
-**[8295.76s] English:** Эйзенхауэр, который был капиталистом и президентом США.  
-**Translation:** 
+**[8292.88s] English:** Although Eisenhower had warned him about it.  
+**Translation:** Vocabulary: eisenhower: 艾森豪威尔
 
-**[8300.26s] English:** ВПК существует, и он очень силен.  
+**[8295.76s] English:** Eisenhower, who was both a capitalist and the President of the United States.  
 **Translation:** 
 
-**[8304.12s] English:** Чем больше оружия продаешь, отправляешь куда-то,  
+**[8300.26s] English:** The defense sector exists, and it is very powerful.  
 **Translation:** 
 
-**[8307.08s] English:** тем больше его нужно восполнять.  
+**[8304.12s] English:** The more weapons you sell or send somewhere,  
 **Translation:** 
 
-**[8310.00s] English:** Во-вторых, американская внешняя политика  
+**[8307.08s] English:** The more it needs to be replenished.  
 **Translation:** 
 
-**[8315.96s] English:** всегда была с привкусом миссионизма.  
+**[8310.00s] English:** Secondly, American foreign policy  
 **Translation:** 
 
-**[8322.16s] English:** Мы пытаемся сделать мир похожим на нас.  
+**[8315.96s] English:** Always had a missionary taste.  
 **Translation:** 
 
-**[8325.48s] English:** Почему они не понимают? Потому что не хотят.  
+**[8322.16s] English:** We try to make the world resemble us.  
 **Translation:** 
 
-**[8328.32s] English:** Пусть это и не коммунизм, но задумка очень похожа.  
+**[8325.48s] English:** Why don't they understand? Because they don't want to.  
 **Translation:** 
 
-**[8332.78s] English:** Мы верим, что можем перекроить мир под себя.  
+**[8328.32s] English:** Let this be as it may not be communism, but the idea is very similar.  
 **Translation:** 
 
-**[8338.10s] English:** Это романтическая идея.  
-**Translation:** 
+**[8332.78s] English:** We believe that we can reshape the world to our liking.  
+**Translation:** Vocabulary: reshape: 重塑
 
-**[8339.74s] English:** И это честно.  
+**[8338.10s] English:** This is a romantic idea.  
 **Translation:** 
 
-**[8341.06s] English:** Но так не работает.  
+**[8339.74s] English:** And this is honestly.  
 **Translation:** 
 
-**[8343.84s] English:** Никогда не работало.  
+**[8341.06s] English:** But that doesn't work.  
 **Translation:** 
 
-**[8345.60s] English:** Афганистан.  
+**[8343.84s] English:** Never worked.  
 **Translation:** 
 
-**[8347.54s] English:** Хаос.  
+**[8345.60s] English:** Afghanistan.  
 **Translation:** 
 
-**[8348.58s] English:** Он никогда бы не стал демократией.  
-**Translation:** 
+**[8347.54s] English:** Chaos.  
+**Translation:** Vocabulary: afghanistan: 阿富汗
 
-**[8351.92s] English:** Не знаю, может ли Украина стать демократической.  
+**[8348.58s] English:** He would never have become a democracy.  
 **Translation:** 
 
-**[8356.92s] English:** Не знаю, поможет ли американское оружие Украине стать демократией.  
+**[8351.92s] English:** I don't know if Ukraine can become democratic.  
 **Translation:** 
 
-**[8364.58s] English:** Да, верно.  
+**[8356.92s] English:** I don't know if American weapons will help Ukraine become a democracy.  
 **Translation:** 
 
-**[8365.80s] English:** Людям нравится...  
+**[8364.58s] English:** Yes, correct.  
 **Translation:** 
 
-**[8369.74s] English:** видеть мир в черно-белых тонах, продавать очень простую историю.  
+**[8365.80s] English:** People like it...  
 **Translation:** 
 
-**[8374.18s] English:** Украина — символ демократии в Восточной Европе.  
+**[8369.74s] English:** To see the world in black-and-white tones, sell a very simple story.  
 **Translation:** 
 
-**[8382.54s] English:** А Россия — символ авторитарной диктатуры.  
+**[8374.18s] English:** Ukraine is a symbol of democracy in Eastern Europe.  
 **Translation:** 
 
-**[8386.54s] English:** Но все не так просто.  
-**Translation:** 
+**[8382.54s] English:** Russia is a symbol of authoritarian dictatorship.  
+**Translation:** Vocabulary: authoritarian: 独裁主义; dictatorship: 独裁统治
 
-**[8389.54s] English:** Если посмотреть на различные показатели, Украина и Россия — это страны номер один и номер два по уровню коррупции в Европе.  
+**[8386.54s] English:** But it's not that simple.  
 **Translation:** 
 
-**[8397.54s] English:** Да, два собака пара.  
-**Translation:** 
+**[8389.54s] English:** If we look at various indicators, Ukraine and Russia are the number one and number two most corrupt countries in Europe.  
+**Translation:** Vocabulary: corrupt: 贪污; indicators: 指标
 
-**[8399.04s] English:** Просто один...  
+**[8397.54s] English:** Yes, two dogs, a pair.  
 **Translation:** 
 
-**[8400.00s] English:** больше другого и в этой ситуации он агрессор конечно в конечном счете ответственность несет  
+**[8399.04s] English:** Just one...  
 **Translation:** 
 
-**[8408.06s] English:** агрессор тот кто наносит первый удар хотя тут многие не согласятся кто его нанес о да тут  
+**[8400.00s] English:** More than anything else, and in this situation, he is the aggressor, of course; ultimately, he bears the responsibility.  
 **Translation:** 
 
-**[8418.70s] English:** вопрос масштаба борьба украины за свою независимость тянется с начала двадцатого  
-**Translation:** 
+**[8408.06s] English:** Aggressor, that's who strikes first, though many won't agree on who struck first here.  
+**Translation:** Vocabulary: aggressor: 首先攻击的人
 
-**[8428.32s] English:** века если копнуть глубже то и раньше украинцы гордый народ и во многом власть в кремле двадцатом  
+**[8418.70s] English:** The question of scale, the struggle of Ukraine for its independence has stretched from the beginning of the twentieth century.  
 **Translation:** 
 
-**[8440.32s] English:** веке их просто пытала голодомор начале тридцатых средний и высшие классы никогда не страдают  
-**Translation:** 
+**[8428.32s] English:** In a century, if we dig deeper, then Ukrainians have been a proud people for much longer, and in many ways, power in the Kremlin began in the twentieth.  
+**Translation:** Vocabulary: kremlin: 克里姆林宫; twentieth: 二十; ukrainians: 乌克兰人
 
-**[8451.28s] English:** страдают простые люди крестьяне эта история длится веками и  
+**[8440.32s] English:** In the 1930s, they simply starved the middle and upper classes during the famine at the beginning of the decade.  
 **Translation:** 
 
-**[8458.22s] English:** и вошла и эта история длится веками и  
-**Translation:** 
+**[8451.28s] English:** Suffer the simple people, the peasants. This story has lasted for centuries and...  
+**Translation:** Vocabulary: famine: 饥荒; peasants: 农民; starved: 饿死
 
-**[8458.30s] English:** И нынешняя война лишь ее продолжение.  
+**[8458.22s] English:** And she entered, and this story has lasted for centuries and  
 **Translation:** 
 
-**[8462.22s] English:** А у многих свой интерес.  
-**Translation:** 
+**[8458.30s] English:** And the current war is merely its continuation.  
+**Translation:** Vocabulary: continuation: 延续
 
-**[8465.08s] English:** За ситуацией пристально следят Китай, Россия, наблюдает США.  
+**[8462.22s] English:** And for many, it has its own interest.  
 **Translation:** 
 
-**[8472.24s] English:** И в этой игре есть еще один фактор — ядерное оружие.  
+**[8465.08s] English:** China, Russia, and the United States are closely following the situation.  
 **Translation:** 
 
-**[8475.94s] English:** Именно.  
+**[8472.24s] English:** In this game, there is another factor—nuclear weapons.  
 **Translation:** 
 
-**[8478.42s] English:** Это, пожалуй, самый опасный кризис, который мне довелось видеть.  
+**[8475.94s] English:** Exactly.  
 **Translation:** 
 
-**[8486.60s] English:** Сейчас он еще не достиг точки максимальной эскалации, но я считаю, что это будет затяжной конфликт.  
+**[8478.42s] English:** This, I must say, is the most dangerous crisis I have ever witnessed.  
 **Translation:** 
 
-**[8496.92s] English:** И чем дольше он длится, тем выше риск случайности.  
-**Translation:** 
+**[8486.60s] English:** Currently he has not yet reached the point of maximum escalation, but I believe this will be a drawn-out conflict.  
+**Translation:** Vocabulary: escalation: 升级; witnessed: 目睹
 
-**[8502.64s] English:** Да, всего одна ракета.  
+**[8496.92s] English:** The longer it lasts, the higher the risk of randomness.  
 **Translation:** 
 
-**[8504.38s] English:** Ага.  
-**Translation:** 
+**[8502.64s] English:** Yes, just one rocket.  
+**Translation:** Vocabulary: randomness: 随机性
 
-**[8505.42s] English:** Кажется, есть сильная мотивация затянуть конфликт, взять страну в осаду на долгие годы.  
+**[8504.38s] English:** Agreed.  
 **Translation:** 
 
-**[8514.82s] English:** И это очень страшно.  
-**Translation:** 
+**[8505.42s] English:** It seems there is strong motivation to prolong the conflict and besiege the country for many years.  
+**Translation:** Vocabulary: besiege: 围困
 
-**[8516.60s] English:** Чем дольше это тянется, тем выше шанс...  
+**[8514.82s] English:** And this is very scary.  
 **Translation:** 
 
-**[8520.00s] English:** что какая-то одна ракета, один неверный шаг, все изменит,  
+**[8516.60s] English:** The longer it拖延下去，风险越高... (Note: The last part is in Chinese as the original Russian does not have a clear end, and I'm maintaining the instruction to not add new facts or translate.)  
 **Translation:** 
 
-**[8524.32s] English:** особенно если один из лидеров потеряет самообладание.  
+**[8520.00s] English:** What if just one rocket, one wrong step, would change everything?  
 **Translation:** 
 
-**[8529.18s] English:** Украина ведь не член НАТО.  
-**Translation:** 
+**[8524.32s] English:** Especially if one of the leaders loses their composure.  
+**Translation:** Vocabulary: composure: 镇定
 
-**[8531.24s] English:** Больше всего меня пугает мысль, что кто-то может решить,  
+**[8529.18s] English:** Ukraine is not a member of NATO.  
 **Translation:** 
 
-**[8536.38s] English:** что Россия лучше...  
-**Translation:** 
+**[8531.24s] English:** More than anything, what scares me is the thought that someone might decide,  
+**Translation:** Vocabulary: scares: 使我害怕
 
-**[8539.56s] English:** Путин может решить подать другим пример,  
+**[8536.38s] English:** What about Russia being better...  
 **Translation:** 
 
-**[8543.58s] English:** ударив ядерным оружием по Украине.  
+**[8539.56s] English:** Putin may decide to set a different example.  
 **Translation:** 
 
-**[8546.08s] English:** Украина не в НАТО, так что Запад, конечно, не ответит.  
+**[8543.58s] English:** Striking Ukraine with nuclear weapons.  
 **Translation:** 
 
-**[8551.42s] English:** Что сделает Запад, если Украина нанесет ответный удар по Украине?  
-**Translation:** 
+**[8546.08s] English:** Ukraine is not in NATO, so the West, of course, will not respond.  
+**Translation:** Vocabulary: striking: 打击
 
-**[8559.36s] English:** Мне кажется, никто не знает ответа на этот вопрос, но вопрос страшный.  
+**[8551.42s] English:** What will the West do if Ukraine retaliates with a strike on Ukrainian soil?  
 **Translation:** 
 
-**[8564.28s] English:** Я не знаю точный протокол, которому НАТО должна следовать,  
-**Translation:** 
+**[8559.36s] English:** It seems that nobody knows the answer to this question, but it is a scary one.  
+**Translation:** Vocabulary: retaliates: 报复
 
-**[8568.78s] English:** чтобы совершить ядерный удар.  
+**[8564.28s] English:** I don't know the exact protocol that NATO should follow.  
 **Translation:** 
 
-**[8574.08s] English:** У нескольких стран НАТО...  
+**[8568.78s] English:** To carry out a nuclear strike.  
 **Translation:** 
 
-**[8576.08s] English:** Это есть ядерное оружие.  
+**[8574.08s] English:** In several NATO countries,...  
 **Translation:** 
 
-**[8578.90s] English:** Нужно ли Франции получить согласие США на запуск ракеты?  
+**[8576.08s] English:** This is nuclear weapons.  
 **Translation:** 
 
-**[8584.38s] English:** Не знаю, как это работает.  
+**[8578.90s] English:** Does France need to obtain consent from the United States before launching a rocket?  
 **Translation:** 
 
-**[8585.92s] English:** Думаю, что никто не знает.  
+**[8584.38s] English:** I don't know how it works.  
 **Translation:** 
 
-**[8589.78s] English:** Именно.  
+**[8585.92s] English:** I think that nobody knows.  
 **Translation:** 
 
-**[8590.84s] English:** Меня беспокоит...  
+**[8589.78s] English:** Exactly.  
 **Translation:** 
 
-**[8592.40s] English:** До нас доходят разные точки зрения,  
+**[8590.84s] English:** Me worries...  
 **Translation:** 
 
-**[8596.12s] English:** но люди, с которыми я общался в Минобороне США,  
-**Translation:** 
+**[8592.40s] English:** Different viewpoints reach us,  
+**Translation:** Vocabulary: viewpoints: 观点
 
-**[8601.44s] English:** в армии,  
+**[8596.12s] English:** But people I spoke with at the US Department of Defense,  
 **Translation:** 
 
-**[8602.42s] English:** говорят, что там все очень бюрократизировано.  
+**[8601.44s] English:** In the army,  
 **Translation:** 
 
-**[8605.52s] English:** И завидуют.  
+**[8602.42s] English:** They say that it is very bureaucratic there.  
 **Translation:** 
 
-**[8606.02s] English:** И завидуют.  
-**Translation:** 
+**[8605.52s] English:** They envy.  
+**Translation:** Vocabulary: bureaucratic: 官僚主义的
 
-**[8606.06s] English:** И завидуют.  
+**[8606.02s] English:** They envy.  
 **Translation:** 
 
-**[8606.08s] English:** И завидуют всей этой огромной бюрократии и некомпетентность.  
+**[8606.06s] English:** They envy.  
 **Translation:** 
 
-**[8609.80s] English:** Нам хочется верить, что все хорошо организовано,  
+**[8606.08s] English:** And they envy all this enormous bureaucracy and incompetence.  
 **Translation:** 
 
-**[8615.90s] English:** что важнейшие решения относительно геополитики,  
-**Translation:** 
+**[8609.80s] English:** We hope that everything is well organized,  
+**Translation:** Vocabulary: bureaucracy: 官僚体系; incompetence: 无能
 
-**[8619.70s] English:** военного дела и тому подобного  
+**[8615.90s] English:** What are the most important decisions regarding geopolitics,  
 **Translation:** 
 
-**[8621.90s] English:** будут принимать самые выдающиеся мировые умы.  
-**Translation:** 
+**[8619.70s] English:** Of military affairs and the like.  
+**Translation:** Vocabulary: geopolitics: 国际政治
 
-**[8626.88s] English:** Но я видел достаточно, чтобы понять,  
+**[8621.90s] English:** Will be taking the most distinguished minds from around the world.  
 **Translation:** 
 
-**[8629.34s] English:** компетентность в правительстве или в армии на любом уровне далеко не гарантирована.  
-**Translation:** 
+**[8626.88s] English:** But I saw enough to understand,  
+**Translation:** Vocabulary: distinguished: 卓有成就的
 
-**[8634.56s] English:** Вернемся к закону Ираку.  
+**[8629.34s] English:** Competence in government or the army at any level is far from guaranteed.  
 **Translation:** 
 
-**[8636.06s] English:** reapply  
-**Translation:** 
+**[8634.56s] English:** Let's return to Iraque's law.  
+**Translation:** Vocabulary: guaranteed: 保证
 
-**[8637.22s] English:** Гос.  
+**[8636.06s] English:** Reapply.  
 **Translation:** 
 
-**[8638.08s] English:** Государство – это самая большая и россия с  
+**[8637.22s] English:** State,  
 **Translation:** 
 
-**[8640.00s] English:** И вверх пробиваются именно политики.  
+**[8638.08s] English:** State is the largest, and Russia with  
 **Translation:** 
 
-**[8646.28s] English:** Когда политики диктуют серьезные решения, они оказываются либо слабыми, либо ошибочными.  
+**[8640.00s] English:** And it is the politicians who are pushing upwards.  
 **Translation:** 
 
-**[8657.52s] English:** Иначе и быть не могло.  
+**[8646.28s] English:** When politicians dictate serious decisions, they turn out to be either weak or erroneous.  
 **Translation:** 
 
-**[8660.48s] English:** Прямо сейчас в американском правительстве есть несколько, скажем так, функциональных идиотов.  
-**Translation:** 
+**[8657.52s] English:** Otherwise, it could not have been.  
+**Translation:** Vocabulary: dictate: 命令; erroneous: 错误的
 
-**[8670.00s] English:** Вы где-то говорили, что Путин был посредственным агентом КГБ.  
+**[8660.48s] English:** Currently, in the American government, there are a few, shall we say, functional idiots.  
 **Translation:** 
 
-**[8676.08s] English:** Да.  
-**Translation:** 
+**[8670.00s] English:** You somewhere said that Putin was a mediocre KGB agent.  
+**Translation:** Vocabulary: functional: 起作用的; idiots: 白痴; mediocre: 平庸的
 
-**[8676.42s] English:** Средненьким. Но при этом он отличный политик.  
+**[8676.08s] English:** Yes.  
 **Translation:** 
 
-**[8679.18s] English:** Да. И хороший организатор. И очень эффективный управленец.  
+**[8676.42s] English:** Average, but he is a great politician.  
 **Translation:** 
 
-**[8682.96s] English:** Когда Ельцин назначил его премьер-министром, Путин быстро навел порядок.  
+**[8679.18s] English:** Yes. And a good organizer. And very effective manager.  
 **Translation:** 
 
-**[8694.06s] English:** Потому что при Ельцине Россия пришла в жуткий упадок.  
-**Translation:** 
+**[8682.96s] English:** When Yeltsin appointed him prime minister, Putin quickly put things in order.  
+**Translation:** Vocabulary: organizer: 组织者
 
-**[8699.04s] English:** Превратилась в хаотичную смесь олигархии и криминальных предприятий.  
+**[8694.06s] English:** Because Russia fell into a terrible decline under Yeltsin.  
 **Translation:** 
 
-**[8704.96s] English:** Был бардак.  
-**Translation:** 
+**[8699.04s] English:** It has turned into a chaotic mix of oligarchies and criminal enterprises.  
+**Translation:** Vocabulary: chaotic: 混乱; enterprises: 企业; oligarchies: 寡头
 
-**[8706.64s] English:** То есть он сильный управленец?  
+**[8704.96s] English:** There was a mess.  
 **Translation:** 
 
-**[8709.00s] English:** Безусловно.  
+**[8706.64s] English:** So, is he a strong manager?  
 **Translation:** 
 
-**[8709.78s] English:** А теперь вернемся к его карьере в КГБ.  
+**[8709.00s] English:** Certainly.  
 **Translation:** 
 
-**[8712.76s] English:** Он проработал агентом, кажется, около 16 лет.  
+**[8709.78s] English:** Now let's return to his career in the KGB.  
 **Translation:** 
 
-**[8718.48s] English:** Хотя он говорит, что бывших КГБшников не бывает.  
+**[8712.76s] English:** He worked as an agent for about 16 years.  
 **Translation:** 
 
-**[8725.70s] English:** Опираясь на свой опыт, что вы думаете?  
+**[8718.48s] English:** Although he says that there are no former KGB agents.  
 **Translation:** 
 
-**[8730.00s] English:** Вы же одного с ним возраста?  
+**[8725.70s] English:** Based on your experience, what do you think?  
 **Translation:** 
 
-**[8733.70s] English:** Примерно одного.  
+**[8730.00s] English:** Are you the same age as him?  
 **Translation:** 
 
-**[8734.74s] English:** Он немного младше.  
+**[8733.70s] English:** Approximately one.  
 **Translation:** 
 
-**[8735.94s] English:** Чуть младше.  
+**[8734.74s] English:** He is a bit younger.  
 **Translation:** 
 
-**[8737.96s] English:** Как по-вашему КГБ повлияло на его становление?  
+**[8735.94s] English:** Chуть младше.  
 **Translation:** 
 
-**[8744.36s] English:** Из вашего опыта.  
+**[8737.96s] English:** How do you think the KGB influenced his formation?  
 **Translation:** 
 
-**[8746.68s] English:** Как это определяет, что ты за человек?  
+**[8744.36s] English:** From your experience.  
 **Translation:** 
 
-**[8751.28s] English:** Как ты смотришь на мир?  
+**[8746.68s] English:** How does this define who you are?  
 **Translation:** 
 
-**[8753.76s] English:** Твой подход к геополитике, к человеческой природе?  
+**[8751.28s] English:** How do you see the world?  
 **Translation:** 
 
-**[8758.00s] English:** Хочу отметить...  
-**Translation:** 
+**[8753.76s] English:** Your approach to geopolitics, human nature?  
+**Translation:** Vocabulary: geopolitics: 地缘政治
 
-**[8759.04s] English:** Что его готовили...  
+**[8758.00s] English:** I want to note...  
 **Translation:** 
 
-**[8760.00s] English:** Иначе, чем меня. Я учился один на один, а он, можно сказать, в школу ходил.  
+**[8759.04s] English:** What had been preparing him...  
 **Translation:** 
 
-**[8767.50s] English:** Обучение в классе?  
+**[8760.00s] English:** Otherwise than me. I studied one-on-one, while he went to school.  
 **Translation:** 
 
-**[8768.80s] English:** Да.  
+**[8767.50s] English:** Training in class?  
 **Translation:** 
 
-**[8771.50s] English:** Но по факту он не был топовым агентом.  
+**[8768.80s] English:** Yes.  
 **Translation:** 
 
-**[8777.50s] English:** И доказательство этому очень простое.  
+**[8771.50s] English:** But in fact, he was not a top agent.  
 **Translation:** 
 
-**[8781.90s] English:** Он хорошо знает немецкий.  
+**[8777.50s] English:** And the proof of this is very simple.  
 **Translation:** 
 
-**[8784.58s] English:** И куда его отправили работать?  
+**[8781.90s] English:** He knows German well.  
 **Translation:** 
 
-**[8786.28s] English:** В Восточную Германию.  
+**[8784.58s] English:** Where did they send him to work?  
 **Translation:** 
 
-**[8788.30s] English:** Не в Западную Германию, не в Швейцарию, не в Австрию.  
+**[8786.28s] English:** To East Germany.  
 **Translation:** 
 
-**[8791.42s] English:** Туда отправляли лучших.  
+**[8788.30s] English:** Not to Western Germany, not to Switzerland, not to Austria.  
 **Translation:** 
 
-**[8793.00s] English:** Это очень логично.  
-**Translation:** 
+**[8791.42s] English:** There they sent the best.  
+**Translation:** Vocabulary: austria: 奥地利
 
-**[8795.68s] English:** Вот мы и узнали.  
+**[8793.00s] English:** This is very logical.  
 **Translation:** 
 
-**[8796.94s] English:** Ага.  
+**[8795.68s] English:** Here we have learned.  
 **Translation:** 
 
-**[8797.38s] English:** Вы классифицируете по локации.  
+**[8796.94s] English:** Agreed.  
 **Translation:** 
 
-**[8800.78s] English:** Люди вообще любят все классифицировать.  
-**Translation:** 
+**[8797.38s] English:** You classify by location.  
+**Translation:** Vocabulary: classify: 分类
 
-**[8803.80s] English:** Самый лучший университет, лучшая футбольная команда.  
+**[8800.78s] English:** People, in general, love to classify everything.  
 **Translation:** 
 
-**[8807.66s] English:** Со временем начинаешь понимать, что лучших спортсменов отправляют в...  
+**[8803.80s] English:** The best university, the best football team.  
 **Translation:** 
 
-**[8813.42s] English:** Ну, тут можно поспорить, какая команда самая сильная, но суть ясна.  
+**[8807.66s] English:** Over time, you begin to understand that the best athletes are sent to...  
 **Translation:** 
 
-**[8817.42s] English:** Вы говорите, что лучших агентов направляли на Запад?  
+**[8813.42s] English:** Nu, here one can argue about which team is the strongest, but the essence is clear.  
 **Translation:** 
 
-**[8820.04s] English:** Это логично.  
+**[8817.42s] English:** You say that the best agents were sent to the West?  
 **Translation:** 
 
-**[8820.74s] English:** Хотя это не железный аргумент, но...  
+**[8820.04s] English:** This is logical.  
 **Translation:** 
 
-**[8823.74s] English:** Мне это рассказал источник.  
+**[8820.74s] English:** Although this is not a铁质 argument, but...  
 **Translation:** 
 
-**[8828.74s] English:** Какой?  
+**[8823.74s] English:** I was told this by a source.  
 **Translation:** 
 
-**[8830.74s] English:** Откуда бьет этот источник?  
+**[8828.74s] English:** What?  
 **Translation:** 
 
-**[8832.74s] English:** Олег Калугин.  
+**[8830.74s] English:** From where does this source spring?  
 **Translation:** 
 
-**[8834.74s] English:** Ты же знаешь, кто такой Олег Калугин?  
+**[8832.74s] English:** Oleg Kalugin.  
 **Translation:** 
 
-**[8836.74s] English:** Он еще жив.  
+**[8834.74s] English:** You know who Oleg Kalugin is?  
 **Translation:** 
 
-**[8838.74s] English:** В свое время он возглавлял  
+**[8836.74s] English:** He is still alive.  
 **Translation:** 
 
-**[8840.74s] English:** контрразведку первого главного управления.  
+**[8838.74s] English:** At one time, he headed  
 **Translation:** 
 
-**[8843.74s] English:** Это внешняя разведка.  
+**[8840.74s] English:** Counterintelligence of the First Main Directorate.  
 **Translation:** 
 
-**[8845.74s] English:** А Путин работал в первом управлении.  
-**Translation:** 
+**[8843.74s] English:** This is external intelligence.  
+**Translation:** Vocabulary: counterintelligence: 反间谍
 
-**[8847.12s] English:** И какое-то время подчинялся Калугину.  
+**[8845.74s] English:** Putin worked in the first department.  
 **Translation:** 
 
-**[8850.62s] English:** И вот Олег мне лично сказал,  
-**Translation:** 
+**[8847.12s] English:** For a certain time, he was subordinate to Kalugin.  
+**Translation:** Vocabulary: subordinate: 下属
 
-**[8853.62s] English:** что Олег не был  
+**[8850.62s] English:** And here's what Oleg personally told me,  
 **Translation:** 
 
-**[8856.62s] English:** выдающимся агентом.  
+**[8853.62s] English:** What Oleg was not  
 **Translation:** 
 
-**[8858.62s] English:** Владимир Путин не был.  
+**[8856.62s] English:** A distinguished agent.  
 **Translation:** 
 
-**[8860.62s] English:** Верно, не выдающимся.  
-**Translation:** 
+**[8858.62s] English:** Vladimir Putin was not here.  
+**Translation:** Vocabulary: distinguished: 卓有成就的
 
-**[8862.62s] English:** Но Калугин предвзят, учитывая его положение.  
+**[8860.62s] English:** Correct, not outstanding.  
 **Translation:** 
 
-**[8866.62s] English:** Ну да, он мог бы это выдумать.  
-**Translation:** 
+**[8862.62s] English:** But Kalugin is biased, considering his position.  
+**Translation:** Vocabulary: biased: 有偏见的
 
-**[8869.12s] English:** У него же был конфликт с Путиным в парламенте, когда он  
+**[8866.62s] English:** Nu da, he could have come up with that.  
 **Translation:** 
 
-**[8873.12s] English:** назвал того военным преступником из-за войны в Сербии.  
+**[8869.12s] English:** He had a conflict with Putin in parliament when he  
 **Translation:** 
 
-**[8877.12s] English:** Да, мог и выдумать.  
+**[8873.12s] English:** He called him a war criminal due to the war in Serbia.  
 **Translation:** 
 
-**[8879.12s] English:** Я бы не думал.  
-**Translation:** 
+**[8877.12s] English:** Yes, I could have made it up.  
+**Translation:** Vocabulary: serbia: 塞尔维亚
 
-**[8880.00s] English:** Не стал доверять его мнению.  
+**[8879.12s] English:** I wouldn't think so.  
 **Translation:** 
 
-**[8882.94s] English:** Знаете, когда люди...  
+**[8880.00s] English:** Did not trust his opinion.  
 **Translation:** 
 
-**[8886.26s] English:** Еще до этой войны я очень старался объективно анализировать положение сторон.  
+**[8882.94s] English:** Know when people...  
 **Translation:** 
 
-**[8892.90s] English:** Нужно оставаться открытым, чтобы понять, как все устроено.  
-**Translation:** 
+**[8886.26s] English:** Before this war, I made a concerted effort to objectively analyze the situation of all sides.  
+**Translation:** Vocabulary: objectively: 客观地
 
-**[8896.16s] English:** Если хочешь хоть как-то помочь миру стать лучше,  
+**[8892.90s] English:** We need to remain open to understand how it all works.  
 **Translation:** 
 
-**[8903.22s] English:** остановить эту войну,  
+**[8896.16s] English:** If you want to help the world become a little better,  
 **Translation:** 
 
-**[8907.34s] English:** чтобы все ее участники процветали,  
+**[8903.22s] English:** Stop this war,  
 **Translation:** 
 
-**[8912.28s] English:** дать людям раскрыть свой потенциал, устранить коррупцию, жадность,  
-**Translation:** 
+**[8907.34s] English:** To ensure that all its participants thrive,  
+**Translation:** Vocabulary: thrive: 繁荣昌盛
 
-**[8917.12s] English:** разрушительное влияние власти.  
+**[8912.28s] English:** To give people the chance to fulfill their potential, eliminate corruption and greed.  
 **Translation:** 
 
-**[8918.92s] English:** Для этого нужно отстраниться от предвзятости,  
-**Translation:** 
+**[8917.12s] English:** The destructive influence of power.  
+**Translation:** Vocabulary: fulfill: 实现; greed: 贪婪
 
-**[8923.72s] English:** от всей этой политической грызни,  
+**[8918.92s] English:** For this, you need to step away from bias,  
 **Translation:** 
 
-**[8926.18s] English:** от... не знаю, от пристрастного отношения.  
-**Translation:** 
+**[8923.72s] English:** From all this political squabbling,  
+**Translation:** Vocabulary: squabbling: 争吵
 
-**[8934.10s] English:** Пропагандируется мнение,  
+**[8926.18s] English:** I don't know, from a biased perspective.  
 **Translation:** 
 
-**[8937.60s] English:** что Путин был хорошим агентом.  
-**Translation:** 
+**[8934.10s] English:** Propaganda promotes the notion that,  
+**Translation:** Vocabulary: propaganda: 宣传
 
-**[8942.30s] English:** Иначе как бы он поднялся по карьерной лестнице?  
+**[8937.60s] English:** That Putin was a good agent.  
 **Translation:** 
 
-**[8945.02s] English:** Потому что он был хорошим политиком  
+**[8942.30s] English:** Otherwise, how would he have climbed the career ladder?  
 **Translation:** 
 
-**[8948.98s] English:** и умел выстраивать связи внутри КГБ.  
+**[8945.02s] English:** Because he was a good politician.  
 **Translation:** 
 
-**[8954.40s] English:** Позволь сказать кое-что.  
-**Translation:** 
+**[8948.98s] English:** And he was skilled at building connections within the KGB.  
+**Translation:** Vocabulary: skilled: 熟练的
 
-**[8956.62s] English:** Ты только что преподал мне урок,  
+**[8954.40s] English:** Let me say something.  
 **Translation:** 
 
-**[8959.12s] English:** который, наверное, я и сам должен был понять.  
+**[8956.62s] English:** You have just taught me a lesson,  
 **Translation:** 
 
-**[8963.22s] English:** Я постоянно говорю, что в разведке  
+**[8959.12s] English:** Which, I suppose, I should have understood myself.  
 **Translation:** 
 
-**[8965.62s] English:** никогда нельзя быть уверенным на 100%.  
+**[8963.22s] English:** I constantly say that in intelligence gathering,  
 **Translation:** 
 
-**[8970.08s] English:** И когда ты сказал, что Калугин мог все выдумать, конечно, мог.  
+**[8965.62s] English:** Never can you be 100% certain.  
 **Translation:** 
 
-**[8973.72s] English:** Но в итоге ты всегда оказываешься в ситуации,  
+**[8970.08s] English:** When you said that Kalugin could have made it all up, of course, he could have.  
 **Translation:** 
 
-**[8976.26s] English:** когда нужно принять решение, сформировать мнение  
+**[8973.72s] English:** But in the end, you always find yourself in a situation,  
 **Translation:** 
 
-**[8979.58s] English:** или сделать обоснованное предположение.  
+**[8976.26s] English:** When you need to make a decision or form an opinion,  
 **Translation:** 
 
-**[8983.44s] English:** Так что я отзываю категоричность своего утверждения.  
+**[8979.58s] English:** Or make a reasonable assumption.  
 **Translation:** 
 
-**[8988.48s] English:** Ты вполне можешь быть прав.  
-**Translation:** 
+**[8983.44s] English:** So, I retract the absoluteness of my statement.  
+**Translation:** Vocabulary: absoluteness: 绝对性; assumption: 假设; retract: 收回
 
-**[8990.80s] English:** Я заметил, что у людей формируется угроза,  
+**[8988.48s] English:** You might be right.  
 **Translation:** 
 
-**[8993.22s] English:** устойчивое мнение относительно таких людей, как Путин или Трамп,  
+**[8990.80s] English:** I noticed that people are forming a threat.  
 **Translation:** 
 
-**[8997.32s] English:** или других спорных фигур.  
+**[8993.22s] English:** A stable opinion regarding people like Putin or Trump,  
 **Translation:** 
 
-**[9000.00s] English:** И по какой-то причине это мнение не меняется.  
-**Translation:** 
+**[8997.32s] English:** or other disputed figures.  
+**Translation:** Vocabulary: disputed: 有争议的
 
-**[9003.76s] English:** Если ты решил, что человек плохой,  
+**[9000.00s] English:** And for some reason, this opinion doesn't change.  
 **Translation:** 
 
-**[9009.12s] English:** он как будто попадает в черную дыру,  
+**[9003.76s] English:** If you decide that a person is bad,  
 **Translation:** 
 
-**[9011.46s] English:** и уже невозможно по отдельности объективно оценивать его поступки,  
+**[9009.12s] English:** He seems to be falling into a black hole,  
 **Translation:** 
 
-**[9015.58s] English:** не оправдывая его, не закрывая глаза на зло, которое он сделал,  
-**Translation:** 
+**[9011.46s] English:** And it is already impossible to objectively evaluate his actions separately.  
+**Translation:** Vocabulary: evaluate: 评估; objectively: 客观地; separately: 单独地
 
-**[9024.74s] English:** просто оценивая действия.  
+**[9015.58s] English:** Do not justify him, do not close your eyes to the evil he has done.  
 **Translation:** 
 
-**[9026.74s] English:** Мне, например, интересно, как именно он смог так продвинуться по карьерной лестнице.  
-**Translation:** 
+**[9024.74s] English:** Simply evaluating the actions.  
+**Translation:** Vocabulary: evaluating: 评估; justify: 为...辩护
 
-**[9032.96s] English:** Вы говорите, что агент КГБ должен обладать определенными навыками,  
+**[9026.74s] English:** For example, I am interested in how he managed to advance so far in his career.  
 **Translation:** 
 
-**[9039.86s] English:** но, возможно, чисто технические навыки шпионажа  
+**[9032.96s] English:** You say that a KGB agent should possess certain skills,  
 **Translation:** 
 
-**[9047.68s] English:** не так уж связаны со способностью делать карьеру.  
+**[9039.86s] English:** However, possibly, purely technical espionage skills  
 **Translation:** 
 
-**[9052.14s] English:** Верно.  
-**Translation:** 
+**[9047.68s] English:** Not so closely related to career success.  
+**Translation:** Vocabulary: espionage: 间谍活动
 
-**[9053.08s] English:** А вы говорите, что как политик он хорош.  
+**[9052.14s] English:** Correct.  
 **Translation:** 
 
-**[9056.74s] English:** Умение лгать, манипулировать — это очень важный навык,  
+**[9053.08s] English:** You say that as a politician he is good.  
 **Translation:** 
 
-**[9063.96s] English:** необходимый агенту.  
+**[9056.74s] English:** The ability to lie, manipulate—is a very important skill,  
 **Translation:** 
 
-**[9067.10s] English:** Он же помогает и в политике.  
-**Translation:** 
+**[9063.96s] English:** necessary agent.  
+**Translation:** Vocabulary: manipulate: 操控
 
-**[9070.94s] English:** Раз уж мы говорим о влиянии КГБ на сердце, мышление и душу Путина,  
+**[9067.10s] English:** He also helps in politics.  
 **Translation:** 
 
-**[9082.64s] English:** вернемся к Юрию Безменову.  
+**[9070.94s] English:** Now that we're discussing the impact of the KGB on Putin's heart, mind, and soul,  
 **Translation:** 
 
-**[9084.92s] English:** Он был советским агентом КГБ.  
+**[9082.64s] English:** Let's return to Yuri Bezmenov.  
 **Translation:** 
 
-**[9086.74s] English:** Он был советским агентом КГБ и описал методику идеологических диверсий Советского Союза  
-**Translation:** 
+**[9084.92s] English:** He was a Soviet KGB agent.  
+**Translation:** Vocabulary: bezmenov: 贝兹梅诺夫
 
-**[9091.54s] English:** на национальном уровне.  
+**[9086.74s] English:** He was a Soviet KGB agent and described the methodology of ideological subversions by the Soviet Union.  
 **Translation:** 
 
-**[9094.48s] English:** Есть четыре стадии.  
-**Translation:** 
+**[9091.54s] English:** At the national level.  
+**Translation:** Vocabulary: ideological: 思想的; methodology: 方法论; subversions: 颠覆
 
-**[9096.88s] English:** Деморализация, дестабилизация, кризис и нормализация.  
+**[9094.48s] English:** There are four stages.  
 **Translation:** 
 
-**[9101.82s] English:** И далее он подробно объясняет эти процессы.  
-**Translation:** 
+**[9096.88s] English:** Demoralization, destabilization, crisis, and normalization.  
+**Translation:** Vocabulary: demoralization: 士气低落; destabilization: 局势动荡
 
-**[9106.24s] English:** По вашему мнению, есть ли в этих идеях хоть толика правды?  
+**[9101.82s] English:** And he goes on to explain these processes in detail.  
 **Translation:** 
 
-**[9111.00s] English:** Как думаете?  
-**Translation:** 
+**[9106.24s] English:** According to your opinion, are there any grains of truth in these ideas?  
+**Translation:** Vocabulary: grains: 一丝真谛
 
-**[9113.94s] English:** Действительно ли КГБ применял системные методы,  
+**[9111.00s] English:** What do you think?  
 **Translation:** 
 
-**[9116.74s] English:** методы для идеологических диверсий?  
+**[9113.94s] English:** Did the KGB really apply systematic methods?  
 **Translation:** 
 
-**[9120.00s] English:** Да, но я, кажется, это уже говорил.  
+**[9116.74s] English:** Methods for ideological diversions?  
 **Translation:** 
 
-**[9124.14s] English:** Я считаю Безменова мошенником.  
-**Translation:** 
+**[9120.00s] English:** Yes, but I seem to have already said this.  
+**Translation:** Vocabulary: diversions: 转移注意力的方法
 
-**[9128.28s] English:** Опять же...  
+**[9124.14s] English:** I consider Bezmenov a scammer.  
 **Translation:** 
 
-**[9130.48s] English:** Можете пояснить?  
-**Translation:** 
+**[9128.28s] English:** Again,...  
+**Translation:** Vocabulary: scammer: 骗子
 
-**[9131.78s] English:** В его пользу говорит то, что, во-первых, мы знаем, что КГБ занимался так называемыми активными мероприятиями,  
+**[9130.48s] English:** Can you explain?  
 **Translation:** 
 
-**[9144.90s] English:** проще говоря, распространением фейков.  
+**[9131.78s] English:** In his favor is the fact that, first of all, we know that the KGB engaged in so-called active measures.  
 **Translation:** 
 
-**[9147.42s] English:** Распространял ложную информацию в странах-противниках.  
+**[9144.90s] English:** Simply put, it's the spread of fake news.  
 **Translation:** 
 
-**[9154.98s] English:** Россия и сейчас этим занимается, вмешиваясь в выборы, влияя на крайних радикалов на правую и левую сторону,  
+**[9147.42s] English:** Spread false information in enemy countries.  
 **Translation:** 
 
-**[9165.30s] English:** еще больше поляризуя их.  
+**[9154.98s] English:** Russia is still doing this, interfering in elections and influencing extremists on the right and left sides.  
 **Translation:** 
 
-**[9168.26s] English:** Василий Митрохин в одном из своих книг посвятил активным мероприятиям целую главу.  
-**Translation:** 
+**[9165.30s] English:** Even more polarizing them.  
+**Translation:** Vocabulary: extremists: 激进分子; influencing: 影响; interfering: 干涉; polarizing: 极化
 
-**[9177.42s] English:** Он пишет, что этот отдел, я забыл его название,  
+**[9168.26s] English:** Vasiliy Mitrokhin devoted an entire chapter in one of his books to active measures.  
 **Translation:** 
 
-**[9182.76s] English:** был наименее престижным отделом КГБ.  
-**Translation:** 
+**[9177.42s] English:** He writes that this department, I forgot its name,  
+**Translation:** Vocabulary: devoted: 献给
 
-**[9187.50s] English:** В нем работали офисные сотрудники, которые придумывали фейки  
+**[9182.76s] English:** Was the least prestigious department of the KGB.  
 **Translation:** 
 
-**[9193.42s] English:** про страны, о которых они толком ничего и не знали.  
-**Translation:** 
+**[9187.50s] English:** In it worked office employees who came up with fake news.  
+**Translation:** Vocabulary: prestigious: 有声望的
 
-**[9200.24s] English:** Но иногда у них получалось.  
+**[9193.42s] English:** About countries about which they knew nothing at all.  
 **Translation:** 
 
-**[9201.80s] English:** Вот, к примеру, два самых известных случая,  
+**[9200.24s] English:** But sometimes they managed to pull it off.  
 **Translation:** 
 
-**[9206.30s] English:** из тех, что я помню.  
+**[9201.80s] English:** Here are two of the most famous cases,  
 **Translation:** 
 
-**[9208.30s] English:** Первый — вброс, что вирус СПИДа был создан в лаборатории ЦРУ.  
+**[9206.30s] English:** Of those that I remember.  
 **Translation:** 
 
-**[9215.30s] English:** Многие в мире до сих пор в это верят.  
+**[9208.30s] English:** First — a claim that HIV was created in a CIA laboratory.  
 **Translation:** 
 
-**[9218.30s] English:** Второй — слух о том, что Джон Эдгар Гувер был кроссдрессором.  
+**[9215.30s] English:** Many in the world still believe in it to this day.  
 **Translation:** 
 
-**[9226.30s] English:** Этот миф до сих пор жив среди американцев определенного возраста.  
+**[9218.30s] English:** The second is a rumor that John Edgar Hoover was a crossdresser.  
 **Translation:** 
 
-**[9232.30s] English:** Митрохин проследил, что эта история впервые появилась,  
-**Translation:** 
+**[9226.30s] English:** This myth still lives among Americans of a certain age.  
+**Translation:** Vocabulary: crossdresser: 跨性别者; hoover: 霍华德
 
-**[9235.74s] English:** во французском журнале, симпатизирующем Левом,  
+**[9232.30s] English:** Mitrokhin traced that this story first appeared,  
 **Translation:** 
 
-**[9240.00s] English:** и умеренным, а затем она была подхвачена более крупными  
-**Translation:** 
+**[9235.74s] English:** In the French journal sympathetic to the Left,  
+**Translation:** Vocabulary: sympathetic: 同情的; traced: 追踪到
 
-**[9244.98s] English:** и более уважаемыми изданиями.  
+**[9240.00s] English:** And moderate, and then she was picked up by larger ones.  
 **Translation:** 
 
-**[9253.50s] English:** Так что да, какие-то успехи были.  
-**Translation:** 
+**[9244.98s] English:** and more respected publications.  
+**Translation:** Vocabulary: publications: 期刊; respected: 受尊重的
 
-**[9255.34s] English:** Но вот идея о каком-то масштабном плане по разрушению США изнутри,  
+**[9253.50s] English:** So, yes, there were some successes.  
 **Translation:** 
 
-**[9265.82s] English:** я не верю, что КГБ были на это способны.  
+**[9255.34s] English:** But here's the idea of some large-scale plan for destroying the United States from within,  
 **Translation:** 
 
-**[9271.04s] English:** И Митрохин, похоже, тоже.  
+**[9265.82s] English:** I don't believe that the KGB were capable of this.  
 **Translation:** 
 
-**[9273.56s] English:** Я прошел подготовку, и был для них, можно сказать, ценным агентом.  
+**[9271.04s] English:** And Mitrokhin, it seems, is also.  
 **Translation:** 
 
-**[9279.80s] English:** Казалось бы, они должны были подготовить меня к жизни в Америке лучше всех,  
+**[9273.56s] English:** I underwent training and, in a sense, was a valuable agent for them.  
 **Translation:** 
 
-**[9287.20s] English:** но они понятия не имели.  
-**Translation:** 
+**[9279.80s] English:** It seemed they should have prepared me better than anyone for life in America.  
+**Translation:** Vocabulary: underwent: 经历
 
-**[9289.06s] English:** Если ты не знаешь, как на самом деле устроена страна,  
+**[9287.20s] English:** They had no idea.  
 **Translation:** 
 
-**[9293.50s] English:** как ты распланируешь такую масштабную...  
+**[9289.06s] English:** If you don't know how the country is actually structured,  
 **Translation:** 
 
-**[9295.82s] English:** ...идеологическую диверсию,  
+**[9293.50s] English:** How will you plan such a large-scale...  
 **Translation:** 
 
-**[9298.84s] English:** еще с четкими сроками, два года на одно, год на другое.  
-**Translation:** 
+**[9295.82s] English:** ...ideological subversion,  
+**Translation:** Vocabulary: ideological: 意识形态的; subversion: 颠覆
 
-**[9303.16s] English:** Да, давайте уточним.  
+**[9298.84s] English:** Still with clear deadlines, two years for one, one year for another.  
 **Translation:** 
 
-**[9306.62s] English:** По его теории, на деморализацию уходит 15-20 лет,  
-**Translation:** 
+**[9303.16s] English:** Yes, let's clarify.  
+**Translation:** Vocabulary: clarify: 使清晰; deadlines: 截止日期
 
-**[9313.70s] English:** где ты внедряешься в страну, воздействуешь на людей с юных лет,  
+**[9306.62s] English:** According to his theory, demoralization takes 15-20 years.  
 **Translation:** 
 
-**[9321.92s] English:** формируешь их мышление, затем идет дестабилизация.  
-**Translation:** 
+**[9313.70s] English:** Where do you infiltrate a country, influence people from a young age?  
+**Translation:** Vocabulary: demoralization: 士气瓦解; infiltrate: 渗透
 
-**[9324.82s] English:** Дестабилизация.  
+**[9321.92s] English:** You are forming their thinking, then comes destabilization.  
 **Translation:** 
 
-**[9325.82s] English:** Дестабилизация занимает от двух до пяти лет.  
-**Translation:** 
+**[9324.82s] English:** Destabilization.  
+**Translation:** Vocabulary: destabilization: 局势动荡
 
-**[9327.96s] English:** Ты бьешь по международным отношениям, обороне, экономике,  
+**[9325.82s] English:** Destabilization takes from two to five years.  
 **Translation:** 
 
-**[9332.00s] English:** потом создаешь искусственный кризис и нормализуешь ситуацию, будто так всегда и было.  
+**[9327.96s] English:** You are touching on international relations, defense, and economics.  
 **Translation:** 
 
-**[9337.42s] English:** То есть утверждается, что КГБ, по сути, способен годами,  
+**[9332.00s] English:** Then you create an artificial crisis and normalize the situation as if it had always been that way.  
 **Translation:** 
 
-**[9344.18s] English:** масштабно и системно манипулировать целым обществом.  
+**[9337.42s] English:** That is to say, it is claimed that the KGB was capable of operating for years,  
 **Translation:** 
 
-**[9351.62s] English:** Ага.  
+**[9344.18s] English:** To systematically and extensively manipulate an entire society.  
 **Translation:** 
 
-**[9351.88s] English:** И это как бы...  
-**Translation:** 
+**[9351.62s] English:** Agreed.  
+**Translation:** Vocabulary: manipulate: 操控
 
-**[9355.82s] English:** Такие сторонники теории заговора...  
+**[9351.88s] English:** And this is kind of...  
 **Translation:** 
 
-**[9360.00s] English:** в эту историю. Но по моему опыту, вокруг слишком много некомпетентности, а провернуть что-то  
+**[9355.82s] English:** Such conspiracy theory supporters...  
 **Translation:** 
 
-**[9369.88s] English:** подобное невероятно сложно. Выйти на подобный уровень манипуляции очень тяжело. Во-первых,  
+**[9360.00s] English:** In this story, but from my experience, there is too much incompetence around, and it's hard to get anything done.  
 **Translation:** 
 
-**[9382.38s] English:** нужно исключить бюрократию, не затягивать процессы, выстроить мощную цифровую систему для  
-**Translation:** 
+**[9369.88s] English:** Such incredible complexity. Achieving such a level of manipulation is very difficult. Firstly,  
+**Translation:** Vocabulary: complexity: 复杂性; firstly: 首先; incompetence: 无能; manipulation: 操控
 
-**[9392.68s] English:** слежки и манипуляции, разработать скрытую стратегию и при этом задействовать огромное количество  
+**[9382.38s] English:** Need to eliminate bureaucracy, avoid拖延进程, and establish a robust digital system for  
 **Translation:** 
 
-**[9401.96s] English:** людей, причем необходимо нанять самых компетентных. А если ты изолируешь части системы,  
-**Translation:** 
+**[9392.68s] English:** Sleptki and manipulation, develop a covert strategy and yet engage an enormous number of  
+**Translation:** Vocabulary: bureaucracy: 官僚主义; covert: 秘密的; robust: 强大的
 
-**[9412.38s] English:** то выполнить задачу еще труднее, ведь тут требуется честное сотрудничество, тут нужно единое  
+**[9401.96s] English:** People, and it's necessary to hire the most competent ones. And if you isolate parts of the system,  
 **Translation:** 
 
-**[9421.98s] English:** видение. Координация. Координация между группами. Это очень сложно. Хотя современные технологии  
-**Translation:** 
+**[9412.38s] English:** To complete the task is even harder, for here genuine cooperation is required, and unity is needed.  
+**Translation:** Vocabulary: competent: 有能力的; isolate: 隔离
 
-**[9433.16s] English:** значительно упрощают задачу. Массовая слежка становится доступнее и проще. Массовая манипуляция  
+**[9421.98s] English:** Vision. Coordination. Coordination between groups. This is very difficult. Although modern technologies,  
 **Translation:** 
 
-**[9442.38s] English:** через цифровые платформы тоже. Мир все более взаимосвязан. В таких условиях подобные методы  
-**Translation:** 
+**[9433.16s] English:** Significantly simplify the task. Mass surveillance becomes more accessible and easier. Mass manipulation  
+**Translation:** Vocabulary: simplify: 简化; surveillance: 监视
 
-**[9450.36s] English:** становятся все реальнее. Но вы говорите, что разведка сама по себе это сложная штука. А выполнять  
+**[9442.38s] English:** Through digital platforms as well. The world is becoming increasingly interconnected. In such conditions, such methods...  
 **Translation:** 
 
-**[9459.92s] English:** ее эффективно еще и в таком масштабе и при этом не просто собирать информацию о людях,  
-**Translation:** 
+**[9450.36s] English:** Becomes more real. But you say that intelligence work itself is a complex thing. And to carry out  
+**Translation:** Vocabulary: interconnected: 相互连接
 
-**[9467.88s] English:** а управлять обществом, это уже невероятно сложно.  
+**[9459.92s] English:** It is effective on such a scale and, in addition, it's not just about collecting information about people.  
 **Translation:** 
 
-**[9472.38s] English:** Да. И вот еще один аргумент, почему я считаю безменного мошенником. Во-первых, мою точку зрения  
+**[9467.88s] English:** To manage society is already incredibly difficult.  
 **Translation:** 
 
-**[9480.00s] English:** поддерживает Митрохин. А во-вторых, мой личный опыт. Я видел, насколько они некомпетентны. Они  
+**[9472.38s] English:** Yes. And here is another argument why I consider him a scammer. First of all, my viewpoint  
 **Translation:** 
 
-**[9489.28s] English:** реально не понимали, сколько всего они не знают. Теперь про Безменова. Он служил в КГБ. Но где?  
-**Translation:** 
+**[9480.00s] English:** Mitrokhin supports this. Secondly, my personal experience. I have seen how incompetent they are. They  
+**Translation:** Vocabulary: incompetent: 无能; scammer: 骗子; viewpoint: 观点
 
-**[9497.10s] English:** В Индии. Он был мелким агентом в Индии. А я тебе уже говорил, единственное, что КГБ действительно  
+**[9489.28s] English:** Really didn't understand how much they don't know. Now about Bezmenov. He served in the KGB. But where?  
 **Translation:** 
 
-**[9508.18s] English:** умело делать — изолировать информацию. Откуда агент в Индии мог знать о каком-то глобальном  
-**Translation:** 
+**[9497.10s] English:** In India. He was a low-level agent in India. And I've already told you, the only thing the KGB really  
+**Translation:** Vocabulary: bezmenov: 贝祖诺夫
 
-**[9515.62s] English:** суперсекретном плане? Он просто его выдумал. Да. И знаешь, почему это сработало? Потому что  
+**[9508.18s] English:** Skilfully isolate information. From where an agent in India could know about some global  
 **Translation:** 
 
-**[9522.88s] English:** американцы обожают такие истории. Удобно же, это не мы виноваты, это коварные русские во всем  
-**Translation:** 
+**[9515.62s] English:** Supersecret plan?" He just made it up. Yes. And you know why it worked? Because  
+**Translation:** Vocabulary: isolate: 分离; skilfully: 熟练地
 
-**[9528.04s] English:** виноваты. Слово о коварных русских. Ты же слышал про агентство интернет-исследований? Вот они  
+**[9522.88s] English:** Americans love such stories. It's convenient; it's not us who are at fault, it's the cunning Russians in everything.  
 **Translation:** 
 
-**[9536.40s] English:** немало натворили.  
-**Translation:** 
+**[9528.04s] English:** Sorry. The Word on Cunning Russians. You've heard of Internet Research Agency, haven't you?  
+**Translation:** Vocabulary: cunning: 狡猾
 
-**[9538.18s] English:** Я теперь погрузился в тему цифровых аватаров. Это фейковые личности в соцсетях. В Фейсбук,  
+**[9536.40s] English:** They've caused quite a bit of trouble.  
 **Translation:** 
 
-**[9549.54s] English:** в Твиттер и так далее. Но выглядят они вполне реальными. Их очень много. У меня есть друг,  
-**Translation:** 
+**[9538.18s] English:** I have now delved into the topic of digital avatars. These are fake personalities on social media. In Facebook,  
+**Translation:** Vocabulary: avatars: 虚拟形象; delved: 深入研究
 
-**[9559.40s] English:** который профессионально ими занимается. Он использует распознавание лиц, если подозревает,  
+**[9549.54s] English:** In Twitter and so on. They look quite real, though. There are a lot of them. I have a friend,  
 **Translation:** 
 
-**[9568.18s] English:** аккаунт в LinkedIn или Фейсбук фейковый. И часто выясняется, что человек-то существует,  
-**Translation:** 
+**[9559.40s] English:** Which one does he professionally deal with? He uses facial recognition if he suspects,  
+**Translation:** Vocabulary: facial: 面部识别; suspects: 怀疑
 
-**[9578.70s] English:** и кто-то с этого профиля выдает себя за него. То есть он выявляет таких цифровых аватаров?  
+**[9568.18s] English:** An account on LinkedIn or Facebook is fake. And often it turns out that the person actually exists.  
 **Translation:** 
 
-**[9587.82s] English:** Да, но он их и создавать может. Думаешь... Ожидаемо.  
-**Translation:** 
+**[9578.70s] English:** And someone from that profile is claiming to be him. In other words, he identifies such digital avatars?  
+**Translation:** Vocabulary: identifies: 自称是
 
-**[9591.96s] English:** Думаешь, США этим не занимается? Занимается. Вот, это контраргумент насчет безменного.  
+**[9587.82s] English:** Yes, but he can create them too. Thinking about it... Expectedly.  
 **Translation:** 
 
-**[9598.18s] English:** Да, он мог быть мошенником.  
-**Translation:** 
+**[9591.96s] English:** Do you think the USA doesn't do this? It does. Here's a counterargument about it being immutable.  
+**Translation:** Vocabulary: counterargument: 反驳观点; immutable: 不可变的
 
-**[9600.00s] English:** Но в современном мире такая масштабная манипуляция становится все реальнее.  
+**[9598.18s] English:** Yes, he could have been a scammer.  
 **Translation:** 
 
-**[9607.88s] English:** Вы, как государство,  
-**Translation:** 
+**[9600.00s] English:** But in the modern world, such large-scale manipulation becomes all the more real.  
+**Translation:** Vocabulary: manipulation: 操控; scammer: 骗子
 
-**[9612.24s] English:** Это так.  
+**[9607.88s] English:** You, as a state,  
 **Translation:** 
 
-**[9614.10s] English:** вы вливаете миллиарды долларов в военные технологии,  
+**[9612.24s] English:** This is so.  
 **Translation:** 
 
-**[9621.24s] English:** в мире, который все очевиднее движется в сторону кибервойны,  
+**[9614.10s] English:** You are pouring billions of dollars into military technologies,  
 **Translation:** 
 
-**[9627.00s] English:** в противовес обычным боевым действиям.  
-**Translation:** 
+**[9621.24s] English:** In the world, which is increasingly moving towards cyberwar,  
+**Translation:** Vocabulary: cyberwar: 网络战争
 
-**[9630.94s] English:** Вы бы не стали проводить собрания и нанимать сотрудников,  
+**[9627.00s] English:** In contrast to conventional combat actions.  
 **Translation:** 
 
-**[9637.22s] English:** которые будут заниматься манипулированием информацией,  
-**Translation:** 
+**[9630.94s] English:** You would not conduct meetings and hire employees,  
+**Translation:** Vocabulary: combat: 战斗; conventional: 传统的
 
-**[9640.82s] English:** в управлении сознанием, формирование нужных нарративов?  
+**[9637.22s] English:** Which will be engaged in manipulating information,  
 **Translation:** 
 
-**[9646.64s] English:** Даже если Безменов просто рассказывал то, что людям хотелось услышать,  
+**[9640.82s] English:** In the management of consciousness, forming the right narratives?  
 **Translation:** 
 
-**[9652.08s] English:** может он случайно попал в точку?  
+**[9646.64s] English:** Even if Bezmenov simply told people what they wanted to hear,  
 **Translation:** 
 
-**[9655.66s] English:** Пусть это и не подтверждается.  
+**[9652.08s] English:** May he have hit the mark by chance?  
 **Translation:** 
 
-**[9657.00s] English:** Я согласен с вашим опытом в КГБ.  
+**[9655.66s] English:** Let this be unverified.  
 **Translation:** 
 
-**[9659.00s] English:** Абсолютно согласен.  
-**Translation:** 
+**[9657.00s] English:** I agree with your experience in the KGB.  
+**Translation:** Vocabulary: unverified: 未经验证的
 
-**[9661.00s] English:** Сейчас все гораздо проще.  
+**[9659.00s] English:** Absolutely agreed.  
 **Translation:** 
 
-**[9663.00s] English:** Нужна просто армия задротов.  
+**[9661.00s] English:** Now everything is much simpler.  
 **Translation:** 
 
-**[9667.00s] English:** Без обид.  
+**[9663.00s] English:** We just need an army of geeks.  
 **Translation:** 
 
-**[9669.00s] English:** Для задротов.  
-**Translation:** 
+**[9667.00s] English:** Without offense.  
+**Translation:** Vocabulary: geeks: 计算机爱好者
 
-**[9671.00s] English:** Это я любя, обожаю задротов.  
+**[9669.00s] English:** For geeks.  
 **Translation:** 
 
-**[9675.00s] English:** Я сам таким был.  
+**[9671.00s] English:** This is what I love, I adore geeks.  
 **Translation:** 
 
-**[9677.00s] English:** Бывших задротов не бывает.  
+**[9675.00s] English:** I was like that too.  
 **Translation:** 
 
-**[9681.00s] English:** Что я говорил?  
+**[9677.00s] English:** Former geeks never die.  
 **Translation:** 
 
-**[9683.00s] English:** Нужна только армия задротов.  
+**[9681.00s] English:** What did I say?  
 **Translation:** 
 
-**[9685.00s] English:** И...  
+**[9683.00s] English:** Only geeks are needed.  
 **Translation:** 
 
-**[9687.00s] English:** Но помимо этого,  
+**[9685.00s] English:** And...  
 **Translation:** 
 
-**[9689.00s] English:** нужны эксперты по культуре целевой страны.  
+**[9687.00s] English:** But besides this,  
 **Translation:** 
 
-**[9692.00s] English:** Мир сейчас другой.  
+**[9689.00s] English:** We need experts on the culture of the target country.  
 **Translation:** 
 
-**[9695.00s] English:** Все стало мобильнее.  
+**[9692.00s] English:** The world is different now.  
 **Translation:** 
 
-**[9697.00s] English:** Например, русские учатся в США.  
+**[9695.00s] English:** All became more mobile.  
 **Translation:** 
 
-**[9699.00s] English:** Китайцы тоже.  
+**[9697.00s] English:** For example, Russians study in the USA.  
 **Translation:** 
 
-**[9701.00s] English:** Их в Штатах очень много.  
+**[9699.00s] English:** The Chinese also.  
 **Translation:** 
 
-**[9704.00s] English:** Они лучше понимают, как устроены западные страны,  
+**[9701.00s] English:** They are very numerous in the States.  
 **Translation:** 
 
-**[9708.00s] English:** чем когда-то понимал КГБ.  
+**[9704.00s] English:** They better understand how Western countries are structured,  
 **Translation:** 
 
-**[9710.00s] English:** И наоборот.  
+**[9708.00s] English:** What he understood about the KGB, when it was once different.  
 **Translation:** 
 
-**[9712.00s] English:** В России не так много американцев.  
+**[9710.00s] English:** And conversely.  
 **Translation:** 
 
-**[9714.00s] English:** Но они есть.  
-**Translation:** 
+**[9712.00s] English:** In Russia, there aren't many Americans.  
+**Translation:** Vocabulary: conversely: 相反地
 
-**[9716.00s] English:** В этом плане у Китая и России есть преимущества.  
+**[9714.00s] English:** But they are there.  
 **Translation:** 
 
-**[9720.00s] English:** Можно задать вопрос, исходя из вашего опыта?  
+**[9716.00s] English:** In this regard, China and Russia have advantages.  
 **Translation:** 
 
-**[9724.16s] English:** Я общался со многими влиятельными людьми,  
+**[9720.00s] English:** Can I ask a question based on your experience?  
 **Translation:** 
 
-**[9731.10s] English:** в том числе с теми, у кого есть тесные связи с Украиной и Россией,  
-**Translation:** 
+**[9724.16s] English:** I have communicated with many influential people.  
+**Translation:** Vocabulary: influential: 有影响力的
 
-**[9736.54s] English:** а также с другими странами.  
+**[9731.10s] English:** Including those with close ties to both Ukraine and Russia,  
 **Translation:** 
 
-**[9738.92s] English:** Но, насколько мне известно,  
+**[9736.54s] English:** as well as with other countries.  
 **Translation:** 
 
-**[9742.60s] English:** со мной никогда не связывались представители разведки, ЦРУ, ФСБ, МИ-6, Массада.  
+**[9738.92s] English:** But, as far as I know,  
 **Translation:** 
 
-**[9748.72s] English:** Я не думаю, что я...  
+**[9742.60s] English:** I have never been contacted by intelligence representatives, such as the CIA, FSB, MI-6, or Mossad.  
 **Translation:** 
 
-**[9752.48s] English:** Ну, по крайней мере, официально точно нет.  
+**[9748.72s] English:** I don't think I...  
 **Translation:** 
 
-**[9755.76s] English:** Предполагаю, это была бы официальная беседа, потому что мне нечего скрывать.  
+**[9752.48s] English:** Nu, at least officially, there isn't.  
 **Translation:** 
 
-**[9760.28s] English:** Так зачем вести себя скрытно?  
+**[9755.76s] English:** I assume this would be an official conversation because I have nothing to hide.  
 **Translation:** 
 
-**[9763.58s] English:** И почему?  
+**[9760.28s] English:** So, why behave secretly?  
 **Translation:** 
 
-**[9765.86s] English:** Почему так?  
+**[9763.58s] English:** Why?  
 **Translation:** 
 
-**[9767.46s] English:** Я могу их заинтересовать?  
+**[9765.86s] English:** Why is that?  
 **Translation:** 
 
-**[9770.40s] English:** Как определить, представляешь ли ты интерес?  
+**[9767.46s] English:** Can I interest them?  
 **Translation:** 
 
-**[9774.32s] English:** Собственно, вопрос следующий.  
+**[9770.40s] English:** How can you determine if you are representing an interest?  
 **Translation:** 
 
-**[9777.10s] English:** Возможно, несколько в шутках.  
+**[9774.32s] English:** Sincerely, the question is as follows.  
 **Translation:** 
 
-**[9778.72s] English:** В шуточной форме, но в любой шутке есть доля правды.  
-**Translation:** 
+**[9777.10s] English:** Possible, a few in jest.  
+**Translation:** Vocabulary: sincerely: 诚挚地
 
-**[9783.12s] English:** А я бы вообще понял, что когда-то общался со шпионом разведагентства.  
+**[9778.72s] English:** In a humorous form, but there is an element of truth in any joke.  
 **Translation:** 
 
-**[9791.10s] English:** Ну, наверняка ты не можешь знать, что с тобой не связывались.  
-**Translation:** 
+**[9783.12s] English:** I would actually understand that at some point I communicated with a spy from an intelligence agency.  
+**Translation:** Vocabulary: humorous: 幽默的
 
-**[9799.20s] English:** Но, думаю, ты никогда не вел разговор, связанный с разведкой.  
+**[9791.10s] English:** Nu, naturally, you can't know that they haven't been in contact with you.  
 **Translation:** 
 
-**[9804.64s] English:** Да, в котором человек бы представился.  
-**Translation:** 
+**[9799.20s] English:** But, I think you have never had a conversation related to espionage.  
+**Translation:** Vocabulary: espionage: 间谍活动
 
-**[9806.90s] English:** Да.  
+**[9804.64s] English:** Yes, in which a person would introduce themselves.  
 **Translation:** 
 
-**[9807.42s] English:** Представился или пытался подружиться, а потом завел разговор на такие темы.  
+**[9806.90s] English:** Yes.  
 **Translation:** 
 
-**[9816.58s] English:** Да.  
+**[9807.42s] English:** He introduced himself or tried to befriend, and then brought up topics like that.  
 **Translation:** 
 
-**[9821.16s] English:** Но ведь среди людей, с которыми я общаюсь,  
-**Translation:** 
+**[9816.58s] English:** Yes.  
+**Translation:** Vocabulary: befriend: 结交
 
-**[9827.56s] English:** тот же Илон Маск,  
+**[9821.16s] English:** But among the people I interact with,  
 **Translation:** 
 
-**[9830.40s] English:** вокруг Маска крутится огромное количество людей.  
+**[9827.56s] English:** That same Elon Musk,  
 **Translation:** 
 
-**[9833.72s] English:** Они...  
+**[9830.40s] English:** Around Mask, an enormous number of people spin.  
 **Translation:** 
 
-**[9834.94s] English:** Они...  
+**[9833.72s] English:** They...  
 **Translation:** 
 
-**[9837.42s] English:** Участвуют в обсуждениях.  
+**[9834.94s] English:** They...  
 **Translation:** 
 
-**[9838.94s] English:** А я больше не проходил.  
+**[9837.42s] English:** Participate in discussions.  
 **Translation:** 
 
-**[9839.98s] English:** Это крепость.  
+**[9838.94s] English:** I never passed again.  
 **Translation:** 
 
-**[9840.60s] English:** — Да, я старается点ить.  
+**[9839.98s] English:** This is a fortress.  
 **Translation:** 
 
-**[9841.84s] English:** Стараюсь.  
+**[9840.00s] English:** Can everyone be trusted? All of them behave as if they are reliable people. After all, if this is being listened to,  
 **Translation:** 
 
-**[9842.54s] English:** — Д voit ли ты, может быть.  
+**[9840.60s] English:** — Yes, I try to.  
 **Translation:** 
 
-**[9843.42s] English:** — Вы знакомы с этим?  
+**[9841.84s] English:** I am trying.  
 **Translation:** 
 
-**[9844.30s] English:** — У меня есть bluetooth, когдаfolgие identification и так дано что-то, к чему рассматриваешься.  
+**[9842.54s] English:** — Do you see, perhaps.  
 **Translation:** 
 
-**[9845.86s] English:** — Давайте попробуем включить spezie Workshop.  
+**[9843.42s] English:** — Have you familiarized yourself with this?  
 **Translation:** 
+
+**[9844.30s] English:** — I have Bluetooth when following identification and then something to which you are connected is given.  
+**Translation:** Vocabulary: familiarized: 熟悉; identification: 身份验证
 
-**[9846.98s] English:** Понятно.  
+**[9845.86s] English:** Let's try to enable the Spe zie Workshop.  
 **Translation:** 
 
-**[9847.78s] English:** — Зaqu Приочка, вы зрители Coinet Tech, а какая вы checklist про баланс в банукшах?  
-**Translation:** Vocabulary: checklist: 检查清单
+**[9846.26s] English:** Some kind of reconnaissance, I have nothing to hide. I am the same in private as I am in public. I am honest and real.  
+**Translation:** Vocabulary: reconnaissance: 侦察
 
-**[9849.22s] English:** Это картинка, какую связываете ты сейчас?  
+**[9846.98s] English:** Ponятно.  
 **Translation:** 
 
-**[9850.34s] English:** Ты говоришь, к ней мне нужна биологическая iced piercing , если я иногда ещё не с быстрой щупей из polítики.  
-**Translation:** Vocabulary: piercing: 穿刺
+**[9847.78s] English:** — What kind of checklist do you have for balance in banks, KeepThePunctuationPriocha? And are you a viewer of Coinet Tech?  
+**Translation:** Vocabulary: checklist: 核查清单; viewer: 观看者
 
-**[9851.44s] English:** Как ты не хотел бы пожить?  
+**[9849.22s] English:** This is the picture you are currently associating with?  
 **Translation:** 
 
-**[9840.00s] English:** всем ли можно доверять. Все они ведут себя как надежные люди. Опять же, если вдруг это слушает  
-**Translation:** 
+**[9850.34s] English:** You say that I need a biological ice piercing for her, even if I haven't been fast enough with my political dealings sometimes.  
+**Translation:** Vocabulary: associating: 联想; piercing: 穿刺
 
-**[9846.26s] English:** какая-то разведка, мне нечего скрывать. Я наедине тот же, что и на публике. Я честен, реален,  
+**[9851.44s] English:** How would you not want to live?  
 **Translation:** 
 
-**[9854.80s] English:** за мной никто не стоит, у меня нет ужасных тайн, которыми можно меня шантажировать.  
-**Translation:** 
+**[9854.80s] English:** No one stands behind me, I have no terrible secrets that could be used to blackmail me.  
+**Translation:** Vocabulary: blackmail: 敲诈
 
-**[9860.44s] English:** Наркотики? Никаких наркотиков, никаких скелетов в шкафу, ничего такого. Не знаю.  
+**[9860.44s] English:** Narcotics? No narcotics, no skeletons in the closet, nothing like that. I don't know.  
 **Translation:** 
 
-**[9868.80s] English:** Просто даже во время таких разговоров я по умолчанию доверяю людям. Я тоже. Но иногда  
-**Translation:** 
+**[9868.80s] English:** Simply, even during such conversations, I default to trusting people. I do too. But sometimes...  
+**Translation:** Vocabulary: closet: 衣橱; narcotics: 毒品; skeletons: 秘密
 
-**[9879.64s] English:** начинаешь задумываться, особенно когда общаешься с определенными людьми, когда путешествуешь,  
+**[9879.64s] English:** You begin to wonder, especially when you talk to certain people or when you travel,  
 **Translation:** 
 
-**[9888.24s] English:** понимаешь, что в мире есть очень жесткие люди. Существует армия, вокруг много  
+**[9888.24s] English:** Understand that in the world there are very harsh people. There is an army, and there are many around.  
 **Translation:** 
 
-**[9896.92s] English:** стран.  
+**[9896.92s] English:** Strana.  
 **Translation:** 
 
-**[9898.80s] English:** Граждане, ведутся войны, есть люди, которые наносят серьезный вред, и поэтому нужно с  
-**Translation:** 
+**[9898.80s] English:** Citizens, wars are being waged, and there are people who inflict serious harm, and therefore we need to  
+**Translation:** Vocabulary: inflict: 施加
 
-**[9907.04s] English:** осторожностью решать, кому доверять. Если ко мне обратились с улыбкой и задали вопрос,  
+**[9907.04s] English:** Be cautious about whom to trust. If someone approached me with a smile and asked a question,  
 **Translation:** 
 
-**[9914.24s] English:** моя естественная реакция подумать, какой классный человек, ответить и завести дружеский разговор.  
-**Translation:** 
+**[9914.24s] English:** My natural reaction is to think what a great person they are, respond, and start a friendly conversation.  
+**Translation:** Vocabulary: approached: 靠近
 
-**[9920.74s] English:** Но потом осознаешь, что существуют агентства с тысячами сотрудников,  
+**[9920.74s] English:** But then you realize that there exist agencies with thousands of employees,  
 **Translation:** 
 
-**[9928.80s] English:** проводятся военные операции с десятками, сотнями тысяч солдат. Все это серьезно.  
-**Translation:** 
+**[9928.80s] English:** Conducts military operations with tens, hundreds of thousands of soldiers. All this is serious.  
+**Translation:** Vocabulary: conducts: 实施
 
-**[9937.04s] English:** Как вести себя в таком мире?  
+**[9937.04s] English:** How should one behave in such a world?  
 **Translation:** 
 
-**[9939.84s] English:** Люди, с которыми ты общаешься, несут ответственность за то, чтобы не рассказывать тебе то, что не должны.  
+**[9939.84s] English:** People with whom you communicate bear responsibility for not sharing with you what they should not.  
 **Translation:** 
 
-**[9948.32s] English:** Да.  
+**[9948.32s] English:** Yes.  
 **Translation:** 
 
-**[9949.32s] English:** И, скорее всего, они этого не сделают. Иногда, возможно, они просто скажут, я не могу об этом говорить.  
+**[9949.32s] English:** And, most likely, they will not do it. Sometimes, perhaps, they might just say, "I can't talk about that.  
 **Translation:** 
 
-**[9956.24s] English:** Да.  
+**[9956.24s] English:** Yes.  
 **Translation:** 
 
-**[9957.24s] English:** Да.  
+**[9957.24s] English:** Yes.  
 **Translation:** 
 
-**[9958.24s] English:** Но ты должен понимать, что ты не можешь сказать все, что ты хочешь сказать.  
+**[9958.24s] English:** But you should understand that you cannot say everything you want to say.  
 **Translation:** 
 
-**[9960.00s] English:** Ты знаешь, это публичная информация.  
-**Translation:** 
+**[9960.00s] English:** You know, this is public information.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[9965.00s] English:** Ты только собираешь ее,  
+**[9965.00s] English:** You only gather it.  
 **Translation:** 
 
-**[9967.94s] English:** каким-то образом ее редактируешь,  
+**[9967.94s] English:** Somehow you edit it,  
 **Translation:** 
 
-**[9974.10s] English:** но не меняешь формулировки.  
+**[9974.10s] English:** But you don't change the wording.  
 **Translation:** 
 
-**[9978.64s] English:** Ты просто передаешь то, что они говорят.  
-**Translation:** 
+**[9978.64s] English:** You are simply relaying what they say.  
+**Translation:** Vocabulary: relaying: 传达
 
-**[9982.72s] English:** У тебя нет доступа к настоящим секретам.  
+**[9982.72s] English:** You do not have access to the real secrets.  
 **Translation:** 
 
-**[9986.34s] English:** И единственное, что может представлять ценность,  
+**[9986.34s] English:** And the only thing that may be of value,  
 **Translation:** 
 
-**[9990.96s] English:** ты начинаешь понимать самих людей.  
+**[9990.96s] English:** You begin to understand people themselves.  
 **Translation:** 
 
-**[9996.34s] English:** Так что, если у тебя появится интервью в странах Востока,  
+**[9996.34s] English:** So, if you have an interview in Eastern countries,  
 **Translation:** 
 
-**[10002.24s] English:** возможно, кто-то действительно попробует к тебе обратиться и спросить твое мнение.  
+**[10002.24s] English:** Possibly, someone will really try to approach you and ask for your opinion.  
 **Translation:** 
 
-**[10007.50s] English:** Я просто надеюсь, что если они обратятся, то представятся честно.  
+**[10007.50s] English:** I simply hope that if they seek help, they will present themselves honestly.  
 **Translation:** 
 
-**[10012.02s] English:** Да.  
+**[10012.02s] English:** Yes.  
 **Translation:** 
 
-**[10012.86s] English:** Кстати,  
+**[10012.86s] English:** By the way,  
 **Translation:** 
 
-**[10015.32s] English:** сколько...  
+**[10015.32s] English:** How much...  
 **Translation:** 
 
-**[10016.34s] English:** Сколько русских шпионов сейчас в США  
+**[10016.34s] English:** How many Russian spies are there in the USA now?  
 **Translation:** 
 
-**[10019.20s] English:** и сколько американских в России?  
+**[10019.20s] English:** And how many Americans are in Russia?  
 **Translation:** 
 
-**[10022.22s] English:** Знаете хоть примерно?  
-**Translation:** 
+**[10022.22s] English:** Do you know at least an approximate date?  
+**Translation:** Vocabulary: approximate: 大致的
 
-**[10023.90s] English:** Без понятия.  
+**[10023.90s] English:** I have no idea.  
 **Translation:** 
 
-**[10024.66s] English:** Как с ГРУ?  
+**[10024.66s] English:** How is GRU?  
 **Translation:** 
 
-**[10026.18s] English:** Без понятия.  
+**[10026.18s] English:** I have no idea.  
 **Translation:** 
 
-**[10028.22s] English:** Ну, теоретически, тысячи?  
-**Translation:** 
+**[10028.22s] English:** Nu, theoretically, thousands?  
+**Translation:** Vocabulary: theoretically: 理论上
 
-**[10031.24s] English:** Или десятки тысяч?  
+**[10031.24s] English:** Or tens of thousands?  
 **Translation:** 
 
-**[10033.40s] English:** Нет, таких, как я, точно не тысячи.  
+**[10033.40s] English:** No, there aren't thousands like me.  
 **Translation:** 
 
-**[10036.08s] English:** Нас слишком долго обучают, и, если честно, мы не так уж успешны.  
+**[10036.08s] English:** We are taught for too long, and, to be honest, we are not that successful.  
 **Translation:** 
 
-**[10039.70s] English:** Но...  
+**[10039.70s] English:** But...  
 **Translation:** 
 
-**[10040.60s] English:** У России и Китая есть другая тактика.  
+**[10040.60s] English:** Russia and China have another tactic.  
 **Translation:** 
 
-**[10045.32s] English:** Их пространство...  
-**Translation:** 
+**[10045.32s] English:** Their space...  
+**Translation:** Vocabulary: tactic: 策略
 
-**[10046.34s] English:** Правительства знают, кто выезжает за границу.  
+**[10046.34s] English:** Governments know who is traveling abroad.  
 **Translation:** 
 
-**[10051.68s] English:** И я уверен, что у них много любительских шпионов.  
-**Translation:** 
+**[10051.68s] English:** I am sure they have many amateur spies.  
+**Translation:** Vocabulary: amateur: 业余的
 
-**[10055.90s] English:** Людей просят, помоги Родине, сделай то, сделай это.  
+**[10055.90s] English:** People are asked to help their country by doing this, by doing that.  
 **Translation:** 
 
-**[10060.54s] English:** Такой краудсорсинг шпионажа.  
-**Translation:** 
+**[10060.54s] English:** Such crowdsource spying.  
+**Translation:** Vocabulary: crowdsource: 众包
 
-**[10062.62s] English:** Что-то вроде.  
+**[10062.62s] English:** Something like that.  
 **Translation:** 
 
-**[10063.66s] English:** Без серьезной подготовки.  
+**[10063.66s] English:** Without serious preparation.  
 **Translation:** 
 
-**[10065.68s] English:** Да, например, та девушка, забыл как по имени, Бутина.  
+**[10065.68s] English:** Yes, for example, that girl I forgot her name, Butina.  
 **Translation:** 
 
-**[10070.80s] English:** Она была полным дилетантом.  
+**[10070.80s] English:** She was a complete amateur.  
 **Translation:** 
 
-**[10072.60s] English:** Она использовала соцсети, чтобы общаться с Москвой.  
+**[10072.60s] English:** She used social networks to communicate with Moscow.  
 **Translation:** 
 
-**[10076.34s] English:** У нее не было подготовки, но ей ...  
+**[10076.34s] English:** She had no preparation, but she...  
 **Translation:** 
 
-**[10080.00s] English:** Удалось многого добиться, она же...  
+**[10080.00s] English:** It was possible to achieve a lot, she is...  
 **Translation:** 
 
-**[10083.88s] English:** Разница между КГБ и нынешними российскими спецслужбами в том,  
+**[10083.88s] English:** The difference between the KGB and Russia's current intelligence services lies in that,  
 **Translation:** 
 
-**[10090.34s] English:** что Путин и его окружение не боятся, если кого-то поймают.  
+**[10090.34s] English:** What Putin and his circle are not afraid of is if someone gets caught.  
 **Translation:** 
 
-**[10101.14s] English:** Каждый раз, когда я выступаю, меня спрашивают,  
+**[10101.14s] English:** Every time I speak, I am asked,  
 **Translation:** 
 
-**[10104.74s] English:** «Как думаете, сколько русских шпионов в США?»  
+**[10104.74s] English:** How do you think how many Russian spies are in the USA?  
 **Translation:** 
 
-**[10111.02s] English:** Потому что это пугает людей.  
-**Translation:** 
+**[10111.02s] English:** Because it scares people.  
+**Translation:** Vocabulary: scares: 使害怕
 
-**[10113.32s] English:** А Путин любит, когда его боятся.  
+**[10113.32s] English:** Putin loves it when people fear him.  
 **Translation:** 
 
-**[10115.58s] English:** КГБ же оберегал своих агентов, делал все, чтобы их не поймали.  
+**[10115.58s] English:** The KGB protected its agents, doing everything to prevent their capture.  
 **Translation:** 
 
-**[10123.36s] English:** В этом большая разница.  
+**[10123.36s] English:** There is a big difference here.  
 **Translation:** 
 
-**[10127.88s] English:** То есть для ФСБ это способ показать, что их агенты везде?  
+**[10127.88s] English:** That is to say, for the FSB, this is a way to show that their agents are everywhere?  
 **Translation:** 
 
-**[10132.60s] English:** Да.  
+**[10132.60s] English:** Yes.  
 **Translation:** 
 
-**[10133.58s] English:** Их может быть гораздо больше.  
+**[10133.58s] English:** They may be much more.  
 **Translation:** 
 
-**[10134.74s] English:** Но...  
+**[10134.74s] English:** But...  
 **Translation:** 
 
-**[10136.10s] English:** Опять же, сейчас мир стал мобильнее, путешествий больше, бизнес, учеба за границей.  
+**[10136.10s] English:** Again, nowadays the world has become more mobile, travel is more frequent, and there's more business and study abroad.  
 **Translation:** 
 
-**[10150.18s] English:** Попытки шпионажа в США случаются, наверное, каждую минуту.  
+**[10150.18s] English:** Attempts at espionage in the United States probably occur every minute.  
 **Translation:** 
 
-**[10156.40s] English:** Это не значит, что они успешны.  
-**Translation:** 
+**[10156.40s] English:** This is not to say that they are successful.  
+**Translation:** Vocabulary: espionage: 间谍活动
 
-**[10159.74s] English:** Но теперь появилась целая индустрия,  
+**[10159.74s] English:** But now there has emerged a whole industry,  
 **Translation:** 
 
-**[10164.74s] English:** обучающая компании защищаться  
+**[10164.74s] English:** Training companies to defend themselves.  
 **Translation:** 
 
-**[10167.38s] English:** от промышленного шпионажа  
+**[10167.38s] English:** From industrial espionage  
 **Translation:** 
 
-**[10171.02s] English:** и слежки  
-**Translation:** 
+**[10171.02s] English:** And surveillance.  
+**Translation:** Vocabulary: surveillance: 监视
 
-**[10173.12s] English:** иностранных агентов.  
+**[10173.12s] English:** Foreign Agents.  
 **Translation:** 
 
-**[10177.46s] English:** Это повсеместно.  
+**[10177.46s] English:** This is everywhere.  
 **Translation:** 
 
-**[10178.70s] English:** Особенно, когда все оцифровывается.  
+**[10178.70s] English:** Especially when everything is digitized.  
 **Translation:** 
 
-**[10181.10s] English:** Да, да.  
-**Translation:** 
+**[10181.10s] English:** Yes, yes.  
+**Translation:** Vocabulary: digitized: 数字化
 
-**[10182.58s] English:** Это серьезная угроза.  
+**[10182.58s] English:** This is a serious threat.  
 **Translation:** 
 
-**[10184.78s] English:** Мы можем дойти до точки, когда никто не будет знать, где правда, а где ложь.  
-**Translation:** 
+**[10184.78s] English:** We may reach a point where nobody will know where the truth ends and where falsehood begins.  
+**Translation:** Vocabulary: falsehood: 谬误
 
-**[10190.90s] English:** Если бы я мог поговорить с Владимиром Путиным,  
+**[10190.90s] English:** If I could talk to Vladimir Putin,  
 **Translation:** 
 
-**[10194.74s] English:** или с Владимиром Зеленским,  
-**Translation:** 
+**[10194.74s] English:** Or with Vladimir Zelensky,  
+**Translation:** Vocabulary: zelensky: 泽连斯基
 
-**[10198.52s] English:** какой бы вопрос вызывал бы вы?  
+**[10198.52s] English:** Which question would raise the most concern?  
 **Translation:** 
 
-**[10200.00s] English:** Вы задали про прошлое, про КГБ.  
+**[10200.00s] English:** You asked about the past, about the KGB.  
 **Translation:** 
 
-**[10208.72s] English:** Ведь все мы, мужчины и женщины,  
+**[10208.72s] English:** Because all of us, men and women,  
 **Translation:** 
 
-**[10213.64s] English:** результат нашего жизненного опыта,  
+**[10213.64s] English:** Result of our life experience,  
 **Translation:** 
 
-**[10216.42s] English:** нашего детства и формирующего опыта наших побед и поражений.  
+**[10216.42s] English:** Of our childhood and shaping experiences, including both our victories and defeats.  
 **Translation:** 
 
-**[10223.14s] English:** Ты сам все сказал.  
-**Translation:** 
+**[10223.14s] English:** You said it yourself.  
+**Translation:** Vocabulary: defeats: 失败
 
-**[10224.96s] English:** Я бы спросил, без подробностей,  
+**[10224.96s] English:** I would ask, without going into details,  
 **Translation:** 
 
-**[10228.08s] English:** какая ваша самая большая победа и самое большое поражение?  
+**[10228.08s] English:** What is your biggest victory and biggest defeat?  
 **Translation:** 
 
-**[10233.34s] English:** Как политика или как агента КГБ?  
+**[10233.34s] English:** As a policy or as a KGB agent?  
 **Translation:** 
 
-**[10235.86s] English:** Мы же говорили именно про КГБ.  
+**[10235.86s] English:** We were talking specifically about the KGB.  
 **Translation:** 
 
-**[10240.16s] English:** Когда пала берлинская стена,  
+**[10240.16s] English:** When the Berlin Wall fell,  
 **Translation:** 
 
-**[10244.60s] English:** Путин работал в Дрезденском отделении КГБ.  
-**Translation:** 
+**[10244.60s] English:** Poutine worked in the Dresden branch of the KGB.  
+**Translation:** Vocabulary: dresden: 德累斯顿
 
-**[10248.22s] English:** В те дни восточные немцы громили штабы штази  
+**[10248.22s] English:** In those days, Eastern Germans stormed Stasi headquarters.  
 **Translation:** 
 
-**[10255.78s] English:** и в КГБ.  
+**[10255.78s] English:** And in the KGB.  
 **Translation:** 
 
-**[10258.08s] English:** В какой-то момент добрались до здания КГБ.  
+**[10258.08s] English:** At some point, we reached the KGB building.  
 **Translation:** 
 
-**[10263.64s] English:** Ситуация была опасной.  
+**[10263.64s] English:** The situation was dangerous.  
 **Translation:** 
 
-**[10266.40s] English:** Толпа могла ворваться внутрь и заполучить документы.  
+**[10266.40s] English:** The crowd could have stormed inside and obtained the documents.  
 **Translation:** 
 
-**[10272.66s] English:** Первых демонстрантов предупредили,  
-**Translation:** 
+**[10272.66s] English:** The first demonstrators were warned,  
+**Translation:** Vocabulary: demonstrators: 示威者
 
-**[10276.38s] English:** что если они подойдут ближе,  
+**[10276.38s] English:** What if they approach closer?  
 **Translation:** 
 
-**[10282.18s] English:** по ним откроют огонь.  
+**[10282.18s] English:** They will open fire on them.  
 **Translation:** 
 
-**[10285.34s] English:** Толпа разошлась, но вскоре вернулась.  
+**[10285.34s] English:** The crowd dispersed but soon returned.  
 **Translation:** 
 
-**[10288.08s] English:** Кто-то из офиса позвонил в Берлин.  
-**Translation:** 
+**[10288.08s] English:** Someone from the office called Berlin.  
+**Translation:** Vocabulary: dispersed: 四散离去
 
-**[10292.58s] English:** Спросил, что делать, можно ли применять силу.  
+**[10292.58s] English:** Asked what to do, whether force could be applied.  
 **Translation:** 
 
-**[10296.78s] English:** Горбачев ответил, абсолютно нет.  
+**[10296.78s] English:** Gorbachev replied, "Absolutely no.  
 **Translation:** 
 
-**[10300.88s] English:** И вот тут Путин осознал, что все, конец.  
+**[10300.88s] English:** Here, Putin realized that it was all over.  
 **Translation:** 
 
-**[10304.48s] English:** Он был частью самой могущественной разведки в мире,  
+**[10304.48s] English:** He was part of the most powerful intelligence agency in the world,  
 **Translation:** 
 
-**[10308.58s] English:** а теперь абсолютно бессилен.  
+**[10308.58s] English:** Now he is absolutely helpless.  
 **Translation:** 
 
-**[10312.58s] English:** Ему пришлось наблюдать.  
-**Translation:** 
+**[10312.58s] English:** He had to observe.  
+**Translation:** Vocabulary: helpless: 无计可施
 
-**[10316.48s] English:** Это было поражение.  
+**[10316.48s] English:** This was a loss.  
 **Translation:** 
 
-**[10317.48s] English:** Громадное.  
-**Translation:** 
+**[10317.48s] English:** Gigantic.  
+**Translation:** Vocabulary: gigantic: 巨大的
 
-**[10318.58s] English:** И...  
+**[10318.58s] English:** And...  
 **Translation:** 
 
 **[10319.58s] English:** .  
+**Translation:** 
+
+**[10320.00s] English:** And, seemingly all-powerful intelligence services are losing ground.  
 **Translation:** 
 
 **[10320.68s] English:** .  
@@ -7183,13 +7187,22 @@ Source file: Lex Fridman - Jack Barsky： KGB Spy ｜ Lex Fridman Podcast #301.o
 **[10325.68s] English:** .  
 **Translation:** 
 
+**[10325.92s] English:** Yes.  
+**Translation:** 
+
 **[10326.68s] English:** .  
+**Translation:** 
+
+**[10327.42s] English:** It turns out in a weak position.  
 **Translation:** 
 
 **[10327.68s] English:** .  
 **Translation:** 
 
 **[10328.68s] English:** .  
+**Translation:** 
+
+**[10329.46s] English:** He probably promised himself then, never again.  
 **Translation:** 
 
 **[10329.68s] English:** .  
@@ -7204,10 +7217,16 @@ Source file: Lex Fridman - Jack Barsky： KGB Spy ｜ Lex Fridman Podcast #301.o
 **[10332.68s] English:** .  
 **Translation:** 
 
+**[10332.94s] English:** Let Russia regain its former greatness.  
+**Translation:** Vocabulary: greatness: 伟大
+
 **[10333.68s] English:** .  
 **Translation:** 
 
 **[10334.68s] English:** .  
+**Translation:** 
+
+**[10335.64s] English:** KGB, FSB, Russia, Russian Empire, you should raise your heads.  
 **Translation:** 
 
 **[10335.68s] English:** .  
@@ -7231,6 +7250,9 @@ Source file: Lex Fridman - Jack Barsky： KGB Spy ｜ Lex Fridman Podcast #301.o
 **[10341.68s] English:** .  
 **Translation:** 
 
+**[10342.62s] English:** He clearly has that feeling.  
+**Translation:** 
+
 **[10342.68s] English:** .  
 **Translation:** 
 
@@ -7240,1966 +7262,1945 @@ Source file: Lex Fridman - Jack Barsky： KGB Spy ｜ Lex Fridman Podcast #301.o
 **[10344.68s] English:** .  
 **Translation:** 
 
-**[10345.78s] English:** .  
+**[10345.14s] English:** He said that the collapse of the USSR was an enormous tragedy.  
 **Translation:** 
+
+**[10345.78s] English:** .  
+**Translation:** Vocabulary: collapse: 崩溃
 
 **[10346.78s] English:** .  
 **Translation:** 
 
-**[10320.00s] English:** И, казалось бы, всесильная разведка сдаёт позиции.  
+**[10348.58s] English:** And as if he had given himself a promise,  
 **Translation:** 
 
-**[10325.92s] English:** Да.  
+**[10355.18s] English:** This will not happen again.  
 **Translation:** 
 
-**[10327.42s] English:** Оказывается в слабой позиции.  
+**[10358.14s] English:** Yes, and I think he has a firm conviction.  
 **Translation:** 
 
-**[10329.46s] English:** Он тогда, наверное, пообещал себе, больше никогда.  
+**[10365.36s] English:** I don't know how religious he is.  
 **Translation:** 
 
-**[10332.94s] English:** Вернём России былое величие.  
+**[10367.66s] English:** He is currently wearing a cross, but what it means is not clear.  
 **Translation:** 
 
-**[10335.64s] English:** КГБ, ФСБ, Россия, Российская империя должны поднять голову.  
+**[10372.80s] English:** But he feels that Russia's destiny is to be great.  
 **Translation:** 
 
-**[10342.62s] English:** У него явно есть это чувство.  
-**Translation:** 
-
-**[10345.14s] English:** Он говорил, что распад СССР — огромная трагедия.  
-**Translation:** 
-
-**[10348.58s] English:** И, как будто он дал себе обещание,  
-**Translation:** 
-
-**[10355.18s] English:** этого не повторится.  
-**Translation:** 
-
-**[10358.14s] English:** Да, и думаю, у него есть твёрдая убеждённость.  
-**Translation:** 
-
-**[10365.36s] English:** Не знаю, насколько он религиозен.  
-**Translation:** 
-
-**[10367.66s] English:** Он сейчас носит крест, но что это значит, не ясно.  
-**Translation:** 
-
-**[10372.80s] English:** Но у него есть ощущение, что судьба России — быть великой.  
-**Translation:** 
+**[10378.58s] English:** For him, this is extremely important.  
+**Translation:** Vocabulary: destiny: 命运
 
-**[10378.58s] English:** И для него это крайне важно.  
+**[10384.76s] English:** Whether it be the will of God or some other higher power.  
 **Translation:** 
 
-**[10384.76s] English:** Будь то воля Бога или другой высшей силы.  
+**[10389.50s] English:** Americans share a similar nationalism.  
 **Translation:** 
 
-**[10389.50s] English:** Американцы разделяют подобный национализм.  
+**[10395.78s] English:** He may help the country thrive.  
 **Translation:** 
 
-**[10395.78s] English:** Он может помочь стране процветать.  
-**Translation:** 
-
-**[10399.18s] English:** Это само по себе не обязательно что-то плохое.  
-**Translation:** 
+**[10399.18s] English:** This is not necessarily something bad in itself.  
+**Translation:** Vocabulary: thrive: 蓬勃发展
 
-**[10401.80s] English:** Согласен.  
+**[10401.80s] English:** Agreed.  
 **Translation:** 
 
-**[10402.36s] English:** Вопрос в том, как он проявляется.  
-**Translation:** 
+**[10402.36s] English:** The question is how it manifests.  
+**Translation:** Vocabulary: manifests: 显现
 
-**[10404.38s] English:** Согласен.  
+**[10404.38s] English:** Agreed.  
 **Translation:** 
 
-**[10404.96s] English:** А если бы я мог поговорить...  
+**[10404.96s] English:** If I could just talk...  
 **Translation:** 
 
-**[10408.58s] English:** С украинским президентом, я бы спросил,  
+**[10408.58s] English:** With the Ukrainian president, I would ask,  
 **Translation:** 
 
-**[10413.46s] English:** где баланс  
+**[10413.46s] English:** Where is the balance?  
 **Translation:** 
 
-**[10414.64s] English:** между  
+**[10414.64s] English:** Between the two of them,  
 **Translation:** 
 
-**[10417.54s] English:** территориями и человеческими жизнями?  
+**[10417.54s] English:** Territories and human lives?  
 **Translation:** 
 
-**[10424.12s] English:** Сколько жизней стоит эта земля?  
+**[10424.12s] English:** How many lives does this land cost?  
 **Translation:** 
 
-**[10429.74s] English:** Отличная постановка вопроса.  
-**Translation:** 
+**[10429.74s] English:** Excellent question setup.  
+**Translation:** Vocabulary: setup: 开场白
 
-**[10432.18s] English:** Хотя в Украине за такой вопрос можно поплатиться жизнью.  
+**[10432.18s] English:** Although in Ukraine, one could pay with their life for such a question.  
 **Translation:** 
 
-**[10436.04s] English:** Потому что тут есть ещё один аспект.  
+**[10436.04s] English:** Because there is another aspect here.  
 **Translation:** 
 
-**[10438.58s] English:** Это как из этого developments,  
+**[10438.58s] English:** This is how these developments,  
 **Translation:** 
 
-**[10459.10s] English:** который следует обратиться не только нашим последам,  
+**[10440.00s] English:** Not only in territory and lives.  
 **Translation:** 
 
-**[10461.82s] English:** но и всем июлем.  
+**[10442.82s] English:** This is a question of sovereignty, feeling of freedom, and self-determination.  
 **Translation:** 
 
-**[10463.68s] English:** Мы говорим, что это демократ grandparents,  
-**Translation:** 
+**[10450.76s] English:** The speech is not about the struggle for specific land,  
+**Translation:** Vocabulary: sovereignty: 独立自主权
 
-**[10466.50s] English:** которые едут на жизнь на территории.  
+**[10453.90s] English:** A About the right to say "Yes, we have problems, corruption, chaos,  
 **Translation:** 
 
-**[10440.00s] English:** не только в территории и жизнях.  
-**Translation:** 
+**[10459.10s] English:** Which should be addressed not only to our followers,  
+**Translation:** Vocabulary: followers: 支持者
 
-**[10442.82s] English:** Это вопрос суверенитета, ощущения свободы, самоопределения.  
+**[10461.82s] English:** But it was all of July.  
 **Translation:** 
 
-**[10450.76s] English:** Речь не о борьбе за конкретную землю,  
+**[10462.34s] English:** But this is our chaos, this is our country.  
 **Translation:** 
 
-**[10453.90s] English:** а о праве сказать «Да, у нас есть проблемы, коррупция, хаос,  
+**[10463.68s] English:** We say that they are democratic grandparents.  
 **Translation:** 
 
-**[10462.34s] English:** но это наш хаос, это наша страна».  
+**[10466.50s] English:** Which ones are living off the land in the territory.  
 **Translation:** 
 
-**[10466.90s] English:** У Стивена Крейна есть стихотворение про человека, который ел свое сердце.  
+**[10466.90s] English:** Stephen Krein has a poem about a man who ate his own heart.  
 **Translation:** 
 
-**[10472.94s] English:** Его спросили, какое оно на вкус.  
+**[10472.94s] English:** He was asked what it tastes like.  
 **Translation:** 
 
-**[10476.56s] English:** Он ответил «Горькое, но мне нравится, потому что оно горькое и потому что оно мое».  
+**[10476.56s] English:** He replied, "Bitter, but I like it because it is bitter and because it is mine.  
 **Translation:** 
 
-**[10481.28s] English:** В этом что-то есть.  
+**[10481.28s] English:** There's something in this.  
 **Translation:** 
 
-**[10483.70s] English:** Вопрос не только в территории, это наша нация.  
+**[10483.70s] English:** The question is not only about territory; it is our nation.  
 **Translation:** 
 
-**[10488.00s] English:** Я верю, что та же любовь к родине, что есть у Путина,  
+**[10488.00s] English:** I believe that the same love for the country that is present in Putin's heart,  
 **Translation:** 
 
-**[10492.22s] English:** его видение Великой России,  
+**[10492.22s] English:** His vision of Great Russia,  
 **Translation:** 
 
-**[10495.40s] English:** есть и у Украины.  
+**[10495.40s] English:** There is also some of it in Ukraine.  
 **Translation:** 
 
-**[10496.90s] English:** Уровень вовлеченности у всех разный,  
+**[10496.90s] English:** The level of engagement varies among all individuals.  
 **Translation:** 
 
-**[10500.90s] English:** но украинцы – один из самых гордых народов  
-**Translation:** 
+**[10500.90s] English:** But Ukrainians are one of the proudest peoples.  
+**Translation:** Vocabulary: proudest: 最自豪的; ukrainians: 乌克兰人
 
-**[10504.90s] English:** 20-го века, да и вообще, в истории, как и поляки.  
+**[10504.90s] English:** In the 20th century, and indeed in history in general, as with the Poles.  
 **Translation:** 
 
-**[10511.90s] English:** Вспомнить Вторую мировую.  
+**[10511.90s] English:** Remember World War II.  
 **Translation:** 
 
-**[10514.90s] English:** Были люди, которые сказали «Идите нахер! Вы нас не возьмете!  
+**[10514.90s] English:** There were people who said, "Go to hell! You won't get us!  
 **Translation:** 
 
-**[10519.90s] English:** Мы будем сражаться до последнего».  
+**[10519.90s] English:** We will fight until the end.  
 **Translation:** 
 
-**[10522.90s] English:** Есть народы, которые просто не отступают и уничтожают.  
+**[10522.90s] English:** There are peoples who simply do not yield and destroy.  
 **Translation:** 
 
-**[10526.90s] English:** И украинцы – одни из таких.  
+**[10526.90s] English:** And Ukrainians are among such people.  
 **Translation:** 
 
-**[10528.90s] English:** Знаешь, должен признаться, в этом плане я немного трус.  
+**[10528.90s] English:** Knows, I must admit, in this regard I am a bit of a coward.  
 **Translation:** 
 
-**[10532.90s] English:** Я бы не смог сделать то, что делает Зеленский.  
-**Translation:** 
+**[10532.90s] English:** I would not be able to do what Zelensky does.  
+**Translation:** Vocabulary: coward: 胆小鬼
 
-**[10539.90s] English:** Я бы попытался каким-то образом найти компромисс,  
+**[10539.90s] English:** I would try to find some way to reach a compromise,  
 **Translation:** 
 
-**[10547.90s] English:** с которым смог бы жить.  
-**Translation:** 
+**[10547.90s] English:** With which he could live.  
+**Translation:** Vocabulary: compromise: 妥协
 
-**[10550.90s] English:** Но если угроза дошла бы,  
+**[10550.90s] English:** But if the threat had reached us,  
 **Translation:** 
 
-**[10555.90s] English:** дошла бы до моей семьи.  
+**[10555.90s] English:** It would reach my family.  
 **Translation:** 
 
-**[10558.90s] English:** Есть черта…  
+**[10558.90s] English:** There is a trait...  
 **Translation:** 
 
-**[10560.00s] English:** Да.  
+**[10560.00s] English:** Yes.  
 **Translation:** 
 
-**[10562.60s] English:** Тогда даже самый осторожный человек становится самым храбрым.  
+**[10562.60s] English:** Then even the most cautious person becomes the bravest.  
 **Translation:** 
 
-**[10567.02s] English:** Да.  
+**[10567.02s] English:** Yes.  
 **Translation:** 
 
-**[10569.36s] English:** Вы говорили, что не возвращались в Москву, потому что для вас это может быть небезопасно.  
+**[10569.36s] English:** You said that you haven't returned to Moscow because it might be unsafe for you.  
 **Translation:** 
 
-**[10578.40s] English:** Верно.  
-**Translation:** 
+**[10578.40s] English:** Correct.  
+**Translation:** Vocabulary: moscow: 莫斯科; unsafe: 不安全
 
-**[10578.88s] English:** Расскажите, каково это, быть человеком, который сумел выйти из КГБ?  
+**[10578.88s] English:** Tell me, what is it like to be a person who managed to get out of the KGB?  
 **Translation:** 
 
-**[10591.60s] English:** Почему вы еще живы?  
+**[10591.60s] English:** Why are you still alive?  
 **Translation:** 
 
-**[10594.32s] English:** Тут несколько причин.  
+**[10594.32s] English:** Here are several reasons.  
 **Translation:** 
 
-**[10595.82s] English:** Во-первых, когда моя история стала публичной, это было шесть лет назад, я уже был довольно стар.  
+**[10595.82s] English:** First, when my story became public six years ago, I was already quite old.  
 **Translation:** 
 
-**[10604.62s] English:** А значит, большинство людей, которые хотели бы или могли...  
+**[10604.62s] English:** Therefore, most people who wanted to or could...  
 **Translation:** 
 
-**[10608.88s] English:** могли бы лично свести со мной счеты, уже нет живых.  
+**[10608.88s] English:** Could you personally settle accounts with me? Already no one is alive.  
 **Translation:** 
 
-**[10615.48s] English:** Во-вторых, я был наемником.  
+**[10615.48s] English:** Secondly, I was a mercenary.  
 **Translation:** 
 
-**[10620.04s] English:** Немцем, и не предавал родину.  
-**Translation:** 
+**[10620.04s] English:** German, and did not betray his country.  
+**Translation:** Vocabulary: mercenary: 雇佣兵
 
-**[10623.18s] English:** А предательство родины карается смертью.  
+**[10623.18s] English:** Betrayal of the motherland is punished by death.  
 **Translation:** 
 
-**[10629.58s] English:** Ты предатель родины.  
-**Translation:** 
+**[10629.58s] English:** You are a traitor to your country.  
+**Translation:** Vocabulary: betrayal: 出卖; traitor: 叛徒
 
-**[10632.18s] English:** И...  
+**[10632.18s] English:** And...  
 **Translation:** 
 
-**[10632.88s] English:** И...  
+**[10632.88s] English:** And...  
 **Translation:** 
 
-**[10636.92s] English:** Третий...  
+**[10636.92s] English:** Third,...  
 **Translation:** 
 
-**[10638.88s] English:** Такие операции, как убийства за границей, очень сложно спланировать и осуществить.  
-**Translation:** 
+**[10638.88s] English:** Such operations, such as killings abroad, are very difficult to plan and carry out.  
+**Translation:** Vocabulary: killings: 杀戮
 
-**[10650.04s] English:** Если у них есть список людей, которых они хотят устранить.  
+**[10650.04s] English:** If they have a list of people they want to eliminate.  
 **Translation:** 
 
-**[10654.16s] English:** Я, скорее всего, не на первом месте.  
+**[10654.16s] English:** I am probably not at the top of the list.  
 **Translation:** 
 
-**[10657.08s] English:** Но если я окажусь в Москве или в стране типа Турции, где с законом проблемы,  
+**[10657.08s] English:** But if I end up in Moscow or a country like Turkey, where there are problems with the law,  
 **Translation:** 
 
-**[10664.38s] English:** несчастный случай вполне можно организовать.  
+**[10664.38s] English:** A unfortunate accident can certainly be organized.  
 **Translation:** 
 
-**[10668.88s] English:** Это будет очередной сигнал.  
+**[10668.88s] English:** This will be another signal.  
 **Translation:** 
 
-**[10673.84s] English:** Мы на многое способны.  
+**[10673.84s] English:** We are capable of many things.  
 **Translation:** 
 
-**[10676.84s] English:** Показать силу.  
+**[10676.84s] English:** Show the force.  
 **Translation:** 
 
-**[10677.94s] English:** Да.  
+**[10677.94s] English:** Yes.  
 **Translation:** 
 
-**[10678.78s] English:** Как думаете, безопасно?  
+**[10678.78s] English:** Do you think it's safe?  
 **Translation:** 
 
-**[10680.00s] English:** Можно ли мне ехать в Россию или Украину?  
+**[10680.00s] English:** Can I travel to Russia or Ukraine?  
 **Translation:** 
 
-**[10683.90s] English:** Думаю, ты сумеешь правильно поговорить с людьми в обеих  
+**[10683.90s] English:** I think you'll be able to talk to people correctly in both  
 **Translation:** 
 
-**[10690.38s] English:** странах.  
+**[10690.38s] English:** Countries.  
 **Translation:** 
 
-**[10691.38s] English:** По тебе видно, что ты сопереживаешь людям, с которыми общаешься,  
+**[10691.38s] English:** By you, it is clear that you empathize with the people you interact with.  
 **Translation:** 
 
-**[10699.38s] English:** а эмпатия — это понимание собеседника.  
+**[10699.38s] English:** Empathy is understanding the person you are speaking with.  
 **Translation:** 
 
-**[10702.80s] English:** Главное — не пересекать определенную черту.  
+**[10702.80s] English:** The main thing is not to cross a certain threshold.  
 **Translation:** 
 
-**[10705.50s] English:** Например, тот вопрос, который я бы задал Зеленскому, ты  
-**Translation:** 
+**[10705.50s] English:** For example, one question I would ask Zelensky is, "You  
+**Translation:** Vocabulary: threshold: 临界点
 
-**[10708.38s] English:** не задашь.  
+**[10708.38s] English:** Do not ask.  
 **Translation:** 
 
-**[10709.38s] English:** Неправильно сделаешь.  
+**[10709.38s] English:** It will be done wrong.  
 **Translation:** 
 
-**[10710.76s] English:** Вот ведь странная штука, везде есть границы, даже  
+**[10710.76s] English:** Here's a strange thing: everywhere there are boundaries, even  
 **Translation:** 
 
-**[10714.60s] English:** в любви и в личных отношениях есть черта, которую нельзя  
+**[10714.60s] English:** In love and personal relationships, there is a trait that cannot  
 **Translation:** 
 
-**[10717.88s] English:** пересекать.  
+**[10717.88s] English:** To cross.  
 **Translation:** 
 
-**[10718.88s] English:** Да.  
+**[10718.88s] English:** Yes.  
 **Translation:** 
 
-**[10719.88s] English:** Как вас в итоге раскрыли?  
+**[10719.88s] English:** How did you eventually uncover them?  
 **Translation:** 
 
-**[10721.70s] English:** Я ушел в 1988 году.  
-**Translation:** 
+**[10721.70s] English:** I left in 1988.  
+**Translation:** Vocabulary: uncover: 揭露
 
-**[10724.62s] English:** Давайте разберем этот момент.  
+**[10724.62s] English:** Let's analyze this moment.  
 **Translation:** 
 
-**[10726.70s] English:** Ага.  
+**[10726.70s] English:** Agreed.  
 **Translation:** 
 
-**[10727.70s] English:** Уход, предупредительные сигналы, еще один выбор,  
+**[10727.70s] English:** Urgent care, warning signals, another option,  
 **Translation:** 
 
-**[10732.20s] English:** еще одна развилка.  
+**[10732.20s] English:** Another fork in the road.  
 **Translation:** 
 
-**[10733.20s] English:** Да.  
+**[10733.20s] English:** Yes.  
 **Translation:** 
 
-**[10734.20s] English:** Что думали, какой выбор перед вами стоял?  
+**[10734.20s] English:** What did you think was the choice before you?  
 **Translation:** 
 
-**[10737.78s] English:** История такая.  
+**[10737.78s] English:** History, such as it is.  
 **Translation:** 
 
-**[10738.78s] English:** Я был на дворе 1988 год, и я думал, что моя миссия в США  
-**Translation:** 
+**[10738.78s] English:** I was in the courtyard in 1988, and I thought my mission was in the United States.  
+**Translation:** Vocabulary: courtyard: 庭院
 
-**[10749.28s] English:** уже подходит к концу.  
+**[10749.28s] English:** It is already approaching the end.  
 **Translation:** 
 
-**[10751.84s] English:** Мне казалось, что она продлится лет 10-12, а прошло уже больше  
-**Translation:** 
+**[10751.84s] English:** It seemed like it would last for about 10-12 years, but more than that has already passed.  
+**Translation:** Vocabulary: approaching: 临近
 
-**[10756.14s] English:** десяти.  
+**[10756.14s] English:** Ten.  
 **Translation:** 
 
-**[10757.14s] English:** Мне не говорили напрямую, что пора возвращаться,  
+**[10757.14s] English:** I was not directly told that it was time to return.  
 **Translation:** 
 
-**[10760.80s] English:** но в декабре 1988 года я получил сигнал, который не хотел  
+**[10760.80s] English:** But in December 1988, I received a signal that I didn't want.  
 **Translation:** 
 
-**[10768.58s] English:** видеть меня.  
+**[10768.58s] English:** See me.  
 **Translation:** 
 
-**[10768.66s] English:** Я не хотел видеть себя.  
+**[10768.66s] English:** I did not want to see myself.  
 **Translation:** 
 
-**[10768.74s] English:** Я не хотел видеть себя.  
+**[10768.74s] English:** I did not want to see myself.  
 **Translation:** 
 
-**[10768.78s] English:** У нас была система сигналов.  
+**[10768.78s] English:** We had a signaling system.  
 **Translation:** 
 
-**[10771.86s] English:** Советские дипломаты-агенты могли оставить метку в заранее  
-**Translation:** 
+**[10771.86s] English:** Soviet diplomats-agents could leave a mark in事先安排好的地方。  
+**Translation:** Vocabulary: signaling: 信号系统
 
-**[10778.00s] English:** оговоренном месте, мимо которого я проходил каждый  
+**[10778.00s] English:** At the agreed place, which I passed by every  
 **Translation:** 
 
-**[10782.64s] English:** день.  
+**[10782.64s] English:** Day.  
 **Translation:** 
 
-**[10783.88s] English:** Или же я мог оставить метку, которую они бы увидели  
+**[10783.88s] English:** Or I could leave a tag that they would see.  
 **Translation:** 
 
-**[10787.96s] English:** по дороге из дома в ООН.  
+**[10787.96s] English:** On the way from home to the UN.  
 **Translation:** 
 
-**[10792.20s] English:** Мой сигнальный пункт находился на опорной балке эстакады  
+**[10792.20s] English:** My signal point was on the truss of the overpass.  
 **Translation:** 
 
-**[10797.78s] English:** линии А.  
-**Translation:** 
+**[10797.78s] English:** Lines A.  
+**Translation:** Vocabulary: truss: 桥拱支架
 
-**[10800.00s] English:** В Квинсе.  
+**[10800.00s] English:** In Queens.  
 **Translation:** 
 
-**[10803.20s] English:** И вот в одно декабрьское утро,  
+**[10803.20s] English:** And one December morning,  
 **Translation:** 
 
-**[10806.04s] English:** я, как обычно, прохожу мимо, бросаю взгляд, не ожидая ничего увидеть и тут,  
+**[10806.04s] English:** I, as usual, pass by, glance without expecting to see anything, and then,  
 **Translation:** 
 
-**[10811.82s] English:** вижу отметку размером с мой кулак.  
+**[10811.82s] English:** I see a mark the size of my fist.  
 **Translation:** 
 
-**[10815.28s] English:** Красной краской.  
+**[10815.28s] English:** Red paint.  
 **Translation:** 
 
-**[10818.92s] English:** И раз уж ты выругался, я тоже себе позволю так выразиться,  
+**[10818.92s] English:** And since you've sworn, I'll allow myself to do the same.  
 **Translation:** 
 
-**[10823.48s] English:** потому что только так можно описать мое состояние.  
+**[10823.48s] English:** Because only in this way can I describe my state.  
 **Translation:** 
 
-**[10828.08s] English:** Ох, бля.  
+**[10828.08s] English:** Oh, fuck.  
 **Translation:** 
 
-**[10828.72s] English:** Это был сигнал опасности.  
+**[10828.72s] English:** This was a danger signal.  
 **Translation:** 
 
-**[10831.50s] English:** Ты в большой опасности.  
+**[10831.50s] English:** You are in great danger.  
 **Translation:** 
 
-**[10835.24s] English:** Нужно как можно скорее покинуть страну.  
+**[10835.24s] English:** We need to leave the country as soon as possible.  
 **Translation:** 
 
-**[10839.16s] English:** Я должен был следовать протоколу.  
+**[10839.16s] English:** I had to follow the protocol.  
 **Translation:** 
 
-**[10844.42s] English:** Не заходить домой, забрать документы,  
+**[10844.42s] English:** Do not go home to retrieve the documents.  
 **Translation:** 
 
-**[10849.40s] English:** спрятанные в парке Бронксе,  
-**Translation:** 
+**[10849.40s] English:** Hidden in Bronx Park,  
+**Translation:** Vocabulary: bronx: 布朗克斯; retrieve: 取回
 
-**[10852.90s] English:** и сразу ехать границе с Канадой.  
+**[10852.90s] English:** And immediately head to the border with Canada.  
 **Translation:** 
 
-**[10857.46s] English:** Но я не был границей.  
+**[10857.46s] English:** But I was not a boundary.  
 **Translation:** 
 
-**[10858.72s] English:** Я не был готов.  
+**[10858.72s] English:** I was not prepared.  
 **Translation:** 
 
-**[10859.42s] English:** Я просто проигнорировал сигнал.  
+**[10859.42s] English:** I simply ignored the signal.  
 **Translation:** 
 
-**[10863.12s] English:** Конечно, я не мог его проигнорировать.  
+**[10863.12s] English:** Of course, I couldn't ignore him.  
 **Translation:** 
 
-**[10866.60s] English:** Но я пошел на работу.  
+**[10866.60s] English:** But I went to work.  
 **Translation:** 
 
-**[10868.34s] English:** Сел в метро, приехал в офис, сел на рабочее место и весь день смотрел в экран,  
+**[10868.34s] English:** I sat in the metro, got to the office, sat at my workspace, and spent the whole day staring at the screen.  
 **Translation:** 
 
-**[10872.98s] English:** думая только об одном.  
-**Translation:** 
+**[10872.98s] English:** Thinking only about one thing.  
+**Translation:** Vocabulary: metro: 地铁; workspace: 工位
 
-**[10874.22s] English:** Что делать? Что делать?  
+**[10874.22s] English:** What to do? What to do?  
 **Translation:** 
 
-**[10875.70s] English:** Причина этой нерешительности в том,  
-**Translation:** 
+**[10875.70s] English:** The reason for this hesitation is in that,  
+**Translation:** Vocabulary: hesitation: 犹豫
 
-**[10880.78s] English:** что я был отцом.  
+**[10880.78s] English:** That I was a father.  
 **Translation:** 
 
-**[10883.98s] English:** Моей дочке, Челси, было 18 месяцев.  
-**Translation:** 
+**[10883.98s] English:** My daughter Chelsea was 18 months old.  
+**Translation:** Vocabulary: chelsea: 雪莉丝
 
-**[10888.72s] English:** И я был рядом, когда она родилась.  
+**[10888.72s] English:** I was there when she was born.  
 **Translation:** 
 
-**[10893.66s] English:** Я привез ее домой.  
+**[10893.66s] English:** I brought her home.  
 **Translation:** 
 
-**[10897.56s] English:** Смотрел, как она растет,  
+**[10897.56s] English:** Watched as she grew,  
 **Translation:** 
 
-**[10901.06s] English:** как она делает первые шаги.  
+**[10901.06s] English:** How she takes her first steps.  
 **Translation:** 
 
-**[10904.82s] English:** Она глядела на меня этими огромными глазами,  
+**[10904.82s] English:** She looked at me with those enormous eyes,  
 **Translation:** 
 
-**[10909.98s] English:** полными любви, и именно тогда я снова  
+**[10909.98s] English:** With love, and only then did I again  
 **Translation:** 
 
-**[10913.98s] English:** стал человеком.  
+**[10913.98s] English:** Became a man.  
 **Translation:** 
 
-**[10916.42s] English:** Я просто влюбился в нее,  
+**[10916.42s] English:** I just fell in love with her.  
 **Translation:** 
 
-**[10918.42s] English:** в нее.  
+**[10918.42s] English:** In her.  
 **Translation:** 
 
-**[10918.92s] English:** Я просто влюбился в нее.  
+**[10918.92s] English:** I just fell in love with her.  
 **Translation:** 
 
-**[10921.00s] English:** Любовь вернулась совсем недавно.  
+**[10921.00s] English:** Love returned just recently.  
 **Translation:** 
 
-**[10926.98s] English:** Многие отцы, особенно отцы дочерей, поймут, о чем я говорю.  
+**[10926.98s] English:** Many fathers, especially those of daughters, will understand what I am saying.  
 **Translation:** 
 
-**[10934.70s] English:** И все же, я думал, что должен уехать, ведь, возможно, мне угрожает опасность.  
+**[10934.70s] English:** And yet, I thought I should leave, for perhaps there is danger to me.  
 **Translation:** 
 
-**[10942.74s] English:** Но я не знал, как о ней позаботиться, как ее оставить.  
+**[10942.74s] English:** But I didn't know how to take care of her, how to leave her.  
 **Translation:** 
 
-**[10946.28s] English:** Ей ведь нужно дать шанс на хорошее детство, на хорошую жизнь.  
+**[10946.28s] English:** She needs a chance for a good childhood, a good life.  
 **Translation:** 
 
-**[10953.14s] English:** А ее мать, она была из Южной Америки с образованием 4 класса.  
+**[10953.14s] English:** Her mother was from South America with a fourth-grade education.  
 **Translation:** 
 
-**[10958.50s] English:** Она бы одна не справилась.  
+**[10958.50s] English:** She would not have been able to do it alone.  
 **Translation:** 
 
-**[10961.26s] English:** Поэтому я тянул время.  
+**[10961.26s] English:** Therefore, I was dragging things out.  
 **Translation:** 
 
-**[10965.46s] English:** У меня были варианты.  
+**[10965.46s] English:** I had options.  
 **Translation:** 
 
-**[10967.16s] English:** Я мог заболеть, попасть в больницу.  
+**[10967.16s] English:** I could get sick and end up in the hospital.  
 **Translation:** 
 
-**[10970.08s] English:** Однажды я уже три недели не выходил на связь из-за болезни.  
+**[10970.08s] English:** Once I was already three weeks out of contact due to illness.  
 **Translation:** 
 
-**[10973.46s] English:** Так что такой прецедент был.  
-**Translation:** 
+**[10973.46s] English:** Such a precedent was set.  
+**Translation:** Vocabulary: precedent: 先例
 
-**[10974.82s] English:** Я решил, ничего.  
+**[10974.82s] English:** I decided, nothing.  
 **Translation:** 
 
-**[10976.28s] English:** Ничего не делать.  
+**[10976.28s] English:** Nothing to do.  
 **Translation:** 
 
-**[10979.58s] English:** Это было в понедельник.  
+**[10979.58s] English:** This was on Monday.  
 **Translation:** 
 
-**[10981.34s] English:** В четверг я включил коротковолновое радио, и у нас была регулярная передача.  
-**Translation:** 
+**[10981.34s] English:** On Thursday, I turned on the shortwave radio, and there was a regular broadcast.  
+**Translation:** Vocabulary: shortwave: 短波广播
 
-**[10986.72s] English:** Сообщение объяснили, мол, у нас есть основания полагать, что тобой занимается ФБР.  
+**[10986.72s] English:** Message explained: they say we have reasons to believe that the FBI is involved with you.  
 **Translation:** 
 
-**[10995.02s] English:** Ты должен немедленно следовать экстренному плану и вернуться домой.  
+**[10995.02s] English:** You must immediately follow the emergency plan and return home.  
 **Translation:** 
 
-**[11002.12s] English:** Но у меня все еще было время.  
+**[11002.12s] English:** But I still had time.  
 **Translation:** 
 
-**[11003.80s] English:** Радио могло сломаться.  
+**[11003.80s] English:** Radio could have broken.  
 **Translation:** 
 
-**[11005.74s] English:** Связь могла...  
+**[11005.74s] English:** Connection could have...  
 **Translation:** 
 
-**[11006.28s] English:** Быть плохой.  
+**[11006.28s] English:** To be bad.  
 **Translation:** 
 
-**[11008.14s] English:** Я все еще мог лежать в больнице.  
+**[11008.14s] English:** I was still able to lie in the hospital.  
 **Translation:** 
 
-**[11011.06s] English:** И я тянул время.  
+**[11011.06s] English:** And I was dragging out time.  
 **Translation:** 
 
-**[11014.32s] English:** Но вскоре...  
+**[11014.32s] English:** But soon...  
 **Translation:** 
 
-**[11016.46s] English:** Меня вынудили...  
+**[11016.46s] English:** Me尼亚迫使我...  
 **Translation:** 
 
-**[11020.20s] English:** Сделать...  
+**[11020.20s] English:** To make...  
 **Translation:** 
 
-**[11022.06s] English:** Выбор.  
+**[11022.06s] English:** Choice.  
 **Translation:** 
 
-**[11023.00s] English:** Советский агент впервые находился вблизи меня на территории США.  
+**[11023.00s] English:** A Soviet agent was first found in close proximity to me on U.S. territory.  
 **Translation:** 
 
-**[11029.90s] English:** И вот...  
-**Translation:** 
+**[11029.90s] English:** And here we are...  
+**Translation:** Vocabulary: proximity: 附近
 
-**[11030.76s] English:** Жду я на платформе...  
+**[11030.76s] English:** I am waiting on the platform....  
 **Translation:** 
 
-**[11034.28s] English:** Ранним утром...  
+**[11034.28s] English:** Early in the morning,...  
 **Translation:** 
 
-**[11035.28s] English:** Ранним утром...  
+**[11035.28s] English:** Early in the morning,...  
 **Translation:** 
 
-**[11036.90s] English:** В Куинсе.  
+**[11036.90s] English:** In Queens.  
 **Translation:** 
 
-**[11039.38s] English:** Был я.  
+**[11039.38s] English:** I was there.  
 **Translation:** 
 
-**[11040.00s] English:** Еще темно. Ко мне с правой стороны подошел невысокий мужчина в черном плаще и прошептал на ухо, «Ты должен вернуться, иначе тебе конец». Я не могу воспроизвести его говор, но у него был очень сильный русский акцент. «Тебе конец» может означать две вещи.  
-**Translation:** 
+**[11040.00s] English:** It's still dark. A short man in a black cloak approached from my right side and whispered into my ear, "You must return, or it's the end for you." I can't reproduce his exact words, but he had a very strong Russian accent. "The end" could mean two things.  
+**Translation:** Vocabulary: approached: 靠近; cloak: 斗篷; reproduce: 复制; whispered: 耳语
 
-**[11065.06s] English:** Американец сказал бы, «Иначе тебя поймают», или «Иначе тебя арестуют», а «Иначе тебе конец» — это сильно.  
+**[11065.06s] English:** An American would say, "Otherwise, you'll get caught," or "Otherwise, you'll be arrested," and "Otherwise, you're finished" is a bit strong.  
 **Translation:** 
 
-**[11073.64s] English:** И, конечно, я воспринял это серьезно, потому что знал, что в КГБ есть история устранения предателей, или как минимум попыток устранения.  
-**Translation:** 
+**[11073.64s] English:** And, of course, I took it seriously because I knew that the KGB had a history of eliminating traitors, or at least attempts to eliminate them.  
+**Translation:** Vocabulary: traitors: 叛徒
 
-**[11087.72s] English:** Ставки, конечно, выросли, но я сам себя убедил, что он просто...  
+**[11087.72s] English:** Stakes, of course, have risen, but I convinced myself that he simply...  
 **Translation:** 
 
-**[11095.06s] English:** неудачно выразился.  
-**Translation:** 
+**[11095.06s] English:** I poorly expressed myself.  
+**Translation:** Vocabulary: stakes: 利害关系
 
-**[11098.32s] English:** Но теперь и я знал, что они знали, что все все понимают.  
+**[11098.32s] English:** But now I knew that they knew that everyone understood.  
 **Translation:** 
 
-**[11103.70s] English:** Мы больше не играли в угадайку. Он меня нашел, он со мной заговорил.  
+**[11103.70s] English:** We no longer played guessing games. He found me, and he talked to me.  
 **Translation:** 
 
-**[11107.96s] English:** Теперь мой ход.  
+**[11107.96s] English:** Now it's my move.  
 **Translation:** 
 
-**[11109.36s] English:** На следующей передаче мне назначили операцию с закладкой.  
+**[11109.36s] English:** On the next episode, they scheduled me for an operation with implantation.  
 **Translation:** 
 
-**[11115.52s] English:** Для меня должны были оставить паспорт и деньги.  
+**[11115.52s] English:** For me, they were supposed to leave my passport and money.  
 **Translation:** 
 
-**[11121.54s] English:** В парке.  
+**[11121.54s] English:** In the park.  
 **Translation:** 
 
-**[11124.02s] English:** На Стейтон.  
+**[11124.02s] English:** On Staten Island.  
 **Translation:** 
 
-**[11125.06s] English:** На Стейтон-Айленде.  
-**Translation:** 
+**[11125.06s] English:** On Staten Island.  
+**Translation:** Vocabulary: staten: 斯塔滕岛
 
-**[11127.44s] English:** Я сам нашел это место и подробно им его описал.  
+**[11127.44s] English:** I discovered this place myself and provided a detailed description of it.  
 **Translation:** 
 
-**[11132.38s] English:** Меня всегда хвалили за то, как я прокладываю маршрут до удобных мест.  
-**Translation:** 
+**[11132.38s] English:** I was always praised for how I plotted routes to convenient spots.  
+**Translation:** Vocabulary: plotted: 规划; praised: 表扬; routes: 路线
 
-**[11141.50s] English:** Для тайников.  
+**[11141.50s] English:** For safes.  
 **Translation:** 
 
-**[11144.30s] English:** Но в этот раз была одна особенность.  
-**Translation:** 
+**[11144.30s] English:** But this time there was one peculiarity.  
+**Translation:** Vocabulary: peculiarity: 特殊性
 
-**[11147.58s] English:** Встречу назначили поздно вечером.  
+**[11147.58s] English:** The meeting was scheduled late in the evening.  
 **Translation:** 
 
-**[11151.40s] English:** Хотя тут...  
+**[11151.40s] English:** Although here...  
 **Translation:** 
 
-**[11155.06s] English:** совсем ничего сложного.  
+**[11155.06s] English:** Completely nothing complicated.  
 **Translation:** 
 
-**[11157.06s] English:** В парке.  
+**[11157.06s] English:** In the park.  
 **Translation:** 
 
-**[11158.30s] English:** Сотни метров от входа.  
+**[11158.30s] English:** Hundreds of meters from the entrance.  
 **Translation:** 
 
-**[11160.00s] English:** рядом с упавшим деревом, не промахнешься. Я приехал, нашел сигнальный знак, который означал,  
+**[11160.00s] English:** Near the fallen tree, you can't miss it. I arrived, found the signal marker which indicated,  
 **Translation:** 
 
-**[11171.04s] English:** закладка сделана. Это стандартный протокол. Человек, оставляющий контейнер,  
+**[11171.04s] English:** The bookmark has been made. This is a standard protocol. The person leaving the container,  
 **Translation:** 
 
-**[11179.26s] English:** должен поставить метку вблизи ТНК. Значит, мне оставалось только прийти и забрать его. Я пошел  
-**Translation:** 
+**[11179.26s] English:** He should put a mark near TNK. That meant I only had to come and take it. I went.  
+**Translation:** Vocabulary: bookmark: 书签
 
-**[11191.26s] English:** забирать этот контейнер, потому что в нем были деньги. Я мог еще повременить с решением,  
+**[11191.26s] English:** To take this container, because it had money in it. I could still delay my decision.  
 **Translation:** 
 
-**[11200.98s] English:** а паспорт просто выкинуть. Я тогда все еще пытался принять решение, что же мне делать. И вот прихожу  
+**[11200.98s] English:** A passport just to throw away. I was then still trying to decide what to do. And there I came in.  
 **Translation:** 
 
-**[11208.90s] English:** я на паспорт, и я вижу, что он не работает. Я не могу его выкинуть. Я не могу его выкинуть. Я не могу  
+**[11208.90s] English:** I have my passport, and I see that it's not working. I can't throw it away. I can't.  
 **Translation:** 
 
-**[11209.24s] English:** его выкинуть. А потом уходил на место, к дереву. У меня был фонарик. В парке никого не было. Даже  
-**Translation:** 
+**[11209.24s] English:** He should have been thrown out. And then he went back to his place by the tree. I had a flashlight. There was no one in the park. Even  
+**Translation:** Vocabulary: flashlight: 手电筒
 
-**[11215.36s] English:** днем там редко были люди. Парк был почти что маленький лес. А контейнера... Там нет. Он должен  
+**[11215.36s] English:** During the day, there were rarely any people there. The park was almost like a little forest. And the trash container... There wasn't one. He should  
 **Translation:** 
 
-**[11226.88s] English:** был быть с мятой жестянки из под масла. Достаточно крупной. Ее сложно пропустить.  
+**[11226.88s] English:** It was a large enough piece of mint from a can of oil. It's fairly easy to spot.  
 **Translation:** 
 
-**[11232.36s] English:** Я проверил еще раз. Посветил вокруг, обошел место. Может не туда  
+**[11232.36s] English:** I checked again. I shone my light around, circled the spot. Maybe I didn't look in the right place.  
 **Translation:** 
 
-**[11238.88s] English:** туда положили, а контейнера нет.  
+**[11238.88s] English:** There they were placed, but there is no container.  
 **Translation:** 
 
-**[11243.36s] English:** Впервые подобная операция прошла для меня неудачно.  
+**[11243.36s] English:** The first time such an operation went poorly for me.  
 **Translation:** 
 
-**[11246.70s] English:** Я не понимал, как такое возможно.  
+**[11246.70s] English:** I did not understand how this was possible.  
 **Translation:** 
 
-**[11253.64s] English:** Я уходил абсолютно опустошенный, и вдруг понял для себя — я  
+**[11253.64s] English:** I went home utterly drained, and suddenly realized to myself—I  
 **Translation:** 
 
-**[11262.12s] English:** остаюсь.  
-**Translation:** 
+**[11262.12s] English:** Stay.  
+**Translation:** Vocabulary: drained: 疲惫; utterly: 完全地
 
-**[11263.12s] English:** Да.  
+**[11263.12s] English:** Yes.  
 **Translation:** 
 
-**[11264.12s] English:** Это решение.  
+**[11264.12s] English:** This is the solution.  
 **Translation:** 
 
-**[11267.12s] English:** Это был сигнал.  
+**[11267.12s] English:** This was a signal.  
 **Translation:** 
 
-**[11268.12s] English:** На вас не зашло озарения.  
+**[11268.12s] English:** It did not give you an inspiration.  
 **Translation:** 
 
-**[11270.06s] English:** Решение приняли.  
+**[11270.06s] English:** Solution approved.  
 **Translation:** 
 
-**[11273.50s] English:** Ты знаешь, сейчас я верующий.  
-**Translation:** 
+**[11273.50s] English:** You know, now I am a believer.  
+**Translation:** Vocabulary: believer: 信教者
 
-**[11275.52s] English:** Думаю, это было Божье знамение.  
+**[11275.52s] English:** I think it was a sign from God.  
 **Translation:** 
 
-**[11280.00s] English:** Все встало на свои места.  
+**[11280.00s] English:** All fell into place.  
 **Translation:** 
 
-**[11282.78s] English:** Да, все.  
+**[11282.78s] English:** Yes, that's all.  
 **Translation:** 
 
-**[11283.68s] English:** Все.  
+**[11283.68s] English:** All.  
 **Translation:** 
 
-**[11284.32s] English:** Все.  
+**[11284.32s] English:** All.  
 **Translation:** 
 
-**[11284.58s] English:** После этого я...  
+**[11284.58s] English:** After this, I...  
 **Translation:** 
 
-**[11287.72s] English:** Ну, во-первых, силы свыше помогли мне найти хорошее объяснение.  
+**[11287.72s] English:** Nu, to begin with, forces above helped me find a good explanation.  
 **Translation:** 
 
-**[11297.16s] English:** Я отправил им последнее письмо, в котором секретными чернилами написал,  
+**[11297.16s] English:** I sent them the last letter, in which I wrote with secret ink,  
 **Translation:** 
 
-**[11304.92s] English:** я бы вернулся, но не могу, у меня ВИЧ спит.  
+**[11304.92s] English:** I would return, but I can't. I have HIV sleeping.  
 **Translation:** 
 
-**[11310.00s] English:** Лучшая ложь в моей жизни.  
+**[11310.00s] English:** The best lie in my life.  
 **Translation:** 
 
-**[11314.38s] English:** Никто не хотел принимать к себе больного спидом, тогда это был смертный приговор.  
+**[11314.38s] English:** No one wanted to take in the AIDS patient, then it was a death sentence.  
 **Translation:** 
 
-**[11319.78s] English:** Я знал, как в Москве к этому относились, мы это обсуждали.  
+**[11319.78s] English:** I knew how it was viewed in Moscow, we discussed it.  
 **Translation:** 
 
-**[11324.18s] English:** Они считали, что это гниль западной культуры, они высмеивали спид, говорили, вот и доигрались.  
+**[11324.18s] English:** They considered it decay of Western culture, they ridiculed AIDS, saying, "And here you have reaped what you sowed.  
 **Translation:** 
 
-**[11331.94s] English:** И ты стал частью этой развращенной культуры.  
-**Translation:** 
+**[11331.94s] English:** You became a part of this corrupt culture.  
+**Translation:** Vocabulary: corrupt: 败坏; reaped: 自食其果; ridiculed: 嘲笑; sowed: 种下的因
 
-**[11336.86s] English:** Да, я их убедил.  
+**[11336.86s] English:** Yes, I convinced them.  
 **Translation:** 
 
-**[11340.00s] English:** Даже привел объяснение, мол, я взаимодействовал с девушкой, о которой я уже однажды сообщал.  
-**Translation:** 
+**[11340.00s] English:** Even provided an explanation, saying that he had interacted with a girl about whom he had already reported once.  
+**Translation:** Vocabulary: interacted: 交往
 
-**[11348.56s] English:** У нее был парень-наркоман, он заразил ее, а она меня.  
+**[11348.56s] English:** She had a drug-addicted boyfriend who infected her, and she infected me.  
 **Translation:** 
 
-**[11356.78s] English:** И они поверили.  
+**[11356.78s] English:** And they believed.  
 **Translation:** 
 
-**[11359.08s] English:** Я попросил перевести мои сбережения моей немецкой семье.  
+**[11359.08s] English:** I asked to have my savings transferred to my German family.  
 **Translation:** 
 
-**[11365.86s] English:** Не все, конечно.  
+**[11365.86s] English:** Not all of course.  
 **Translation:** 
 
-**[11368.42s] English:** Моей семье сказали...  
+**[11368.42s] English:** My family was told....  
 **Translation:** 
 
-**[11370.00s] English:** Они сказали, что я умер.  
+**[11370.00s] English:** They said I was dead.  
 **Translation:** 
 
-**[11373.22s] English:** Они поверили на сто процентов.  
+**[11373.22s] English:** They believed completely.  
 **Translation:** 
 
-**[11375.48s] English:** А агент, который занимался переводом, явно оставил себе половину.  
+**[11375.48s] English:** The agent who handled the translation clearly kept half for himself.  
 **Translation:** 
 
-**[11381.64s] English:** И все.  
+**[11381.64s] English:** And that's it.  
 **Translation:** 
 
-**[11384.28s] English:** Следующие три месяца я старался менять график.  
+**[11384.28s] English:** The next three months, I tried to change my schedule.  
 **Translation:** 
 
-**[11392.30s] English:** Ездил на работу разными маршрутами, в разное время.  
+**[11392.30s] English:** I traveled to work by different routes at various times.  
 **Translation:** 
 
-**[11397.44s] English:** Это было своего рода...  
-**Translation:** 
+**[11397.44s] English:** This was sort of...  
+**Translation:** Vocabulary: routes: 多种路径
 
-**[11400.00s] English:** Мера безопасности, небольшая, но она помогла мне сохранить рассудок.  
+**[11400.00s] English:** Measure of safety, small but it helped me keep my sanity.  
 **Translation:** 
 
-**[11413.40s] English:** После отправки письма я выкинул коротковолновое радио в Гудзон и уничтожил одноразовую шифроблокнот.  
-**Translation:** 
+**[11413.40s] English:** After sending the email, I threw the shortwave radio into the Hudson and destroyed the one-time pad notebook.  
+**Translation:** Vocabulary: hudson: 哈德逊河; shortwave: 短波
 
-**[11423.72s] English:** Я был готов...  
+**[11423.72s] English:** I was ready...  
 **Translation:** 
 
-**[11428.00s] English:** Начать новую жизнь?  
+**[11428.00s] English:** Start a new life?  
 **Translation:** 
 
-**[11429.04s] English:** Да, прожить жизнь нераскрытым шпионом в США и шаг за шагом строить свою версию американской мечты.  
+**[11429.04s] English:** Yes, to live a life as an unrevealed spy in the USA and step by step build one's version of the American dream.  
 **Translation:** 
 
-**[11440.82s] English:** Ага.  
-**Translation:** 
+**[11440.82s] English:** Agreed.  
+**Translation:** Vocabulary: unrevealed: 未揭露的
 
-**[11442.14s] English:** Первым делом я сказал жене, матери моей дочери, она всегда мечтала о доме, и я сказал, знаешь, нам пора купить дом.  
+**[11442.14s] English:** First, I told my wife, who is also the mother of my daughter, that she always dreamed of having a home, and I said, "You know, we should buy a house.  
 **Translation:** 
 
-**[11457.70s] English:** А через год мы...  
+**[11457.70s] English:** Through the year, we...  
 **Translation:** 
 
-**[11459.02s] English:** Мы переехали в пригород, потом я сказал, нам нужен еще один ребенок, и у нас родился второй.  
+**[11459.02s] English:** We moved to the suburbs, then I said we needed another child, and we had our second.  
 **Translation:** 
 
-**[11465.20s] English:** У меня неплохо складывалась карьера, я несколько раз переезжал, и в итоге купил большой дом.  
-**Translation:** 
+**[11465.20s] English:** My career was going well, and I moved several times before eventually buying a large house.  
+**Translation:** Vocabulary: suburbs: 郊区
 
-**[11474.16s] English:** Но ФБР нашли меня еще до этого, в моем втором доме, в сельской местности, в Пенсильвании.  
+**[11474.16s] English:** But the FBI found me even before that, in my second home, in rural Pennsylvania.  
 **Translation:** 
 
-**[11485.70s] English:** Как они меня вычислили?  
+**[11485.70s] English:** How did they figure me out?  
 **Translation:** 
 
-**[11489.02s] English:** Если бы не перебежчик Василий Митрохин, он был архивариусом в КГБ.  
+**[11489.02s] English:** If not for defector Vasili Mitrokhin, he was an archivist in the KGB.  
 **Translation:** 
 
-**[11497.34s] English:** Занимал довольно высокий пост, руководил переносом архива из Лубянки в Ясенево.  
-**Translation:** 
+**[11497.34s] English:** He held a fairly high position and was in charge of moving the archive from Lubyanka to Yasenevo.  
+**Translation:** Vocabulary: archive: 档案; archivist: 档案管理员; defector: 叛徒; vasili: 瓦西里; yasenevo: 雅森诺沃
 
-**[11507.86s] English:** И он люто ненавидел советскую систему, у него были на то причины.  
+**[11507.86s] English:** He fiercely hated the Soviet system, and he had good reasons for it.  
 **Translation:** 
 
-**[11515.50s] English:** Насколько я помню, его сын был...  
-**Translation:** 
+**[11515.50s] English:** As I remember, his son was...  
+**Translation:** Vocabulary: fiercely: 猛烈地
 
-**[11519.02s] English:** Серьезно болен.  
+**[11519.02s] English:** Seriously ill.  
 **Translation:** 
 
-**[11520.00s] English:** В Англии его могли вылечить, но ему не разрешили туда поехать.  
+**[11520.00s] English:** In England, they could have treated him, but he was not allowed to go there.  
 **Translation:** 
 
-**[11525.56s] English:** Он так их ненавидел, что решил, что должен как-то навредить системе.  
+**[11525.56s] English:** He hated them so much that he decided he had to do something to harm the system.  
 **Translation:** 
 
-**[11532.44s] English:** Он начал копировать документы.  
+**[11532.44s] English:** He began copying the documents.  
 **Translation:** 
 
-**[11535.54s] English:** Годами записывал информацию на клочках бумаги,  
+**[11535.54s] English:** Years ago, I recorded information on scraps of paper,  
 **Translation:** 
 
-**[11538.92s] English:** прятал их в носках, в нижнее белье,  
-**Translation:** 
+**[11538.92s] English:** He hid them in socks, in underwear,  
+**Translation:** Vocabulary: scraps: 破纸片; underwear: 内裤
 
-**[11542.36s] English:** а потом перепечатывал на машинке.  
+**[11542.36s] English:** Then he retyped it on the typewriter.  
 **Translation:** 
 
-**[11545.86s] English:** Все эти документы он складывал в контейнер  
-**Translation:** 
+**[11545.86s] English:** He placed all these documents in a container.  
+**Translation:** Vocabulary: retyped: 重新打字; typewriter: 打字机
 
-**[11551.60s] English:** и закапывал на даче.  
+**[11551.60s] English:** And he buried something at the summer cottage.  
 **Translation:** 
 
-**[11557.50s] English:** Кажется, в 1992 году он пришел...  
-**Translation:** 
+**[11557.50s] English:** It seems he came in 1992...  
+**Translation:** Vocabulary: cottage: 夏屋
 
-**[11562.36s] English:** Советский Союз уже рухнул.  
+**[11562.36s] English:** The Soviet Union has already fallen.  
 **Translation:** 
 
-**[11565.64s] English:** Он пришел в посольство США в Москве и рассказал, что у него есть.  
-**Translation:** 
+**[11565.64s] English:** He came to the US Embassy in Moscow and told them that he had something.  
+**Translation:** Vocabulary: embassy: 大使馆; moscow: 莫斯科
 
-**[11570.60s] English:** Но был выходной день, дежурил какой-то младший сотрудник,  
+**[11570.60s] English:** But it was a weekend, and some junior staff member was on duty.  
 **Translation:** 
 
-**[11573.68s] English:** выслушал его и сказал,  
+**[11573.68s] English:** He listened to him and said,  
 **Translation:** 
 
-**[11575.34s] English:** «Знаете, нам...»  
+**[11575.34s] English:** Know what? We...  
 **Translation:** 
 
-**[11575.84s] English:** «Нам это неинтересно. Слишком старые данные».  
-**Translation:** 
+**[11575.84s] English:** Nam eto neinteresno. Slyshchyo starie dannye.  
+**Translation:** Vocabulary: dannye: 数据; neinteresno: 没意思; slyshchyo: 听说
 
-**[11579.66s] English:** Фатальная ошибка для карьеры,  
+**[11579.66s] English:** Fatal error for career,  
 **Translation:** 
 
-**[11582.68s] English:** потому что после этого Митрохин отправился в одну из прибалтийских республик,  
-**Translation:** 
+**[11582.68s] English:** Because after that, Mitrokhin went to one of the Baltic republics,  
+**Translation:** Vocabulary: baltic: 波罗的海国家; republics: 共和国
 
-**[11589.70s] English:** связался с Ми-6,  
+**[11589.70s] English:** Contacted Mi-6,  
 **Translation:** 
 
-**[11591.74s] English:** а там ему ответили,  
+**[11591.74s] English:** There, they answered him,  
 **Translation:** 
 
-**[11594.46s] English:** «Проходите, дружище, попьем чаю».  
+**[11594.46s] English:** Come in, friend, let's have some tea.  
 **Translation:** 
 
-**[11599.46s] English:** Они переправили материалы с дачи в Англию,  
-**Translation:** 
+**[11599.46s] English:** They transported the materials from the cottage to England.  
+**Translation:** Vocabulary: transported: 运送
 
-**[11604.62s] English:** а затем...  
+**[11604.62s] English:** Then,...  
 **Translation:** 
 
-**[11605.32s] English:** МИ-6 поделилась ими с ФБР.  
+**[11605.32s] English:** MI-6 shared them with the FBI.  
 **Translation:** 
 
-**[11609.14s] English:** У него мало было обо мне сведений,  
+**[11609.14s] English:** He had few details about me,  
 **Translation:** 
 
-**[11614.04s] English:** мол, есть человек по имени Джек Барски,  
+**[11614.04s] English:** Well, there is a person named Jack Bar斯基,  
 **Translation:** 
 
-**[11617.94s] English:** нелегал,  
+**[11617.94s] English:** Illegal,  
 **Translation:** 
 
-**[11619.60s] English:** работает на северо-востоке США.  
-**Translation:** 
+**[11619.60s] English:** Works in the northeastern United States.  
+**Translation:** Vocabulary: northeastern: 东北部的
 
-**[11622.14s] English:** Если бы я был Джимом Миллером, меня бы не нашли,  
+**[11622.14s] English:** If I were Jim Miller, they would never find me.  
 **Translation:** 
 
-**[11625.14s] English:** а Джека Барски найти было несложно.  
+**[11625.14s] English:** It was not difficult to find Jack Bar斯基.  
 **Translation:** 
 
-**[11627.60s] English:** ФБР проверили базу данных социального страхования,  
+**[11627.60s] English:** The FBI checked the Social Security database,  
 **Translation:** 
 
-**[11632.30s] English:** а Барски получил карту...  
+**[11632.30s] English:** Абаркин received the map,...  
 **Translation:** 
 
-**[11634.80s] English:** Тридцать три года.  
+**[11634.80s] English:** Thirty-three years.  
 **Translation:** 
 
-**[11636.80s] English:** Бинго!  
-**Translation:** 
+**[11636.80s] English:** Bingo!  
+**Translation:** Vocabulary: bingo: bingo
 
-**[11640.00s] English:** Они знали только, что я действительно нелегал, что я до сих пор в США, но не знали, активен я или уже отошел от дел.  
+**[11640.00s] English:** They knew only that I was indeed an illegal, that I was still in the US, but they didn't know if I was active or had already stepped back from my activities.  
 **Translation:** 
 
-**[11647.70s] English:** Знали только, что я хорошо обученный агент, раз до сих пор не попался.  
+**[11647.70s] English:** We only knew that I was a well-trained agent, as I hadn't been caught so far.  
 **Translation:** 
 
-**[11654.52s] English:** Они, кажется, почти три года за мной следили издалека, потому что если бы я все еще был активен, я бы заметил слежку.  
+**[11654.52s] English:** They, it seems, have been keeping a close eye on me from a distance for almost three years, because if I were still active, I would have noticed the surveillance.  
 **Translation:** 
 
-**[11670.00s] English:** То есть вы стали все меньше...  
-**Translation:** 
+**[11670.00s] English:** That is, you became less...  
+**Translation:** Vocabulary: surveillance: 监视
 
-**[11672.96s] English:** Я не шпионил.  
+**[11672.96s] English:** I did not spy.  
 **Translation:** 
 
-**[11674.28s] English:** Я имею в виду...  
+**[11674.28s] English:** I mean...  
 **Translation:** 
 
-**[11675.54s] English:** А, маршрут.  
+**[11675.54s] English:** Ah, the route.  
 **Translation:** 
 
-**[11676.96s] English:** Ослабили бдительность?  
+**[11676.96s] English:** Did they let their guard down?  
 **Translation:** 
 
-**[11678.44s] English:** Перестал через три месяца.  
+**[11678.44s] English:** Stopped after three months.  
 **Translation:** 
 
-**[11680.40s] English:** Хороший вопрос.  
+**[11680.40s] English:** Good question.  
 **Translation:** 
 
-**[11681.42s] English:** А ФБР осторожничали?  
+**[11681.42s] English:** Did the FBI exercise caution?  
 **Translation:** 
 
-**[11683.90s] English:** Да, осторожничали, они просто наблюдали.  
+**[11683.90s] English:** Yes, they were cautious, just observing.  
 **Translation:** 
 
-**[11687.00s] English:** У меня был сосед при городе, и в какой-то момент он выставил дом на продажу, и его купил ФБР.  
+**[11687.00s] English:** I had a neighbor in the city, and at some point he put his house up for sale, and it was bought by the FBI.  
 **Translation:** 
 
-**[11695.80s] English:** Они заселили туда агентов, чтобы те за мной следили.  
+**[11695.80s] English:** They sent agents there to keep an eye on me.  
 **Translation:** 
 
-**[11700.00s] English:** Не было причин полагать, что я активен, но на всякий случай они оставались на чеку.  
+**[11700.00s] English:** There was no reason to assume I was active, but just in case, they remained on alert.  
 **Translation:** 
 
-**[11709.18s] English:** И в какой-то момент смогли установить у меня в кухне жучок.  
+**[11709.18s] English:** In some moment, they were able to install a bug in my kitchen.  
 **Translation:** 
 
-**[11718.12s] English:** Мы с женой плохо ладили, постоянно ссорились, она постоянно на что-то жаловалась.  
+**[11718.12s] English:** We had serious problems in our marriage, constantly arguing and fighting, and she was always complaining about something.  
 **Translation:** 
 
-**[11728.24s] English:** Я уже устал от этого.  
+**[11728.24s] English:** I am already tired of this.  
 **Translation:** 
 
-**[11730.00s] English:** И в какой-то момент мы с ней ссорились на кухне.  
+**[11730.00s] English:** In some moment, we were arguing in the kitchen.  
 **Translation:** 
 
-**[11735.44s] English:** И я решил применить ядерное оружие.  
+**[11735.44s] English:** I decided to use nuclear weapons.  
 **Translation:** 
 
-**[11742.18s] English:** Объяснить, чем я пожертвовал ради нее, чтобы она поняла, что я на ее стороне.  
+**[11742.18s] English:** Explain to her what I gave up for her so that she understands I am on her side.  
 **Translation:** 
 
-**[11751.38s] English:** Я поддерживаю ее.  
+**[11751.38s] English:** I support her.  
 **Translation:** 
 
-**[11753.20s] English:** Что-то не клеится, и не потому, что я не люблю их обеих, Челси и Пенелопу.  
+**[11753.20s] English:** Something isn't clicking, and it's not because I don't love them both, Chelsea and Penelope.  
 **Translation:** 
 
-**[11758.66s] English:** Я...  
-**Translation:** 
+**[11758.66s] English:** I...  
+**Translation:** Vocabulary: chelsea: 切尔西; penelope: 佩内洛普
 
-**[11759.90s] English:** Я...  
+**[11759.90s] English:** I...  
 **Translation:** 
 
-**[11760.00s] English:** Рассказывал, а Жучок работал, и ФБР услышало мое признание.  
-**Translation:** 
+**[11760.00s] English:** He was telling it while Zhuchok worked, and the FBI heard my confession.  
+**Translation:** Vocabulary: confession: 坦白
 
-**[11768.38s] English:** Однажды я был агентом КГБ, я ушел и остался в США ради тебя и Челси.  
+**[11768.38s] English:** Once I was a KGB agent, I left and stayed in the U.S. for you and Chelsea.  
 **Translation:** 
 
-**[11779.10s] English:** И тогда ФБР поняли, что я больше не работаю на КГБ,  
+**[11779.10s] English:** Then the FBI realized that I am no longer working for the KGB.  
 **Translation:** 
 
-**[11787.10s] English:** а значит, вербовать меня не имело смысла.  
+**[11787.10s] English:** So, there was no point in trying to recruit me.  
 **Translation:** 
 
-**[11795.28s] English:** Вербуют только активных агентов.  
-**Translation:** 
+**[11795.28s] English:** Only active agents are recruited.  
+**Translation:** Vocabulary: recruit: 招募; recruited: 被招募
 
-**[11798.28s] English:** Но у меня было много полезных для ФБР сведений,  
+**[11798.28s] English:** But I had many useful pieces of information for the FBI,  
 **Translation:** 
 
-**[11803.78s] English:** пусть и устаревших, но все еще важных для бюро.  
-**Translation:** 
+**[11803.78s] English:** Let's hope they are still important for the bureau, even if they are outdated.  
+**Translation:** Vocabulary: outdated: 过时的
 
-**[11809.44s] English:** Поэтому они решили подойти ко мне мягко.  
+**[11809.44s] English:** Therefore, they decided to approach me gently.  
 **Translation:** 
 
-**[11816.16s] English:** Однажды я был в КГБ, и я был в КГБ.  
-**Translation:** 
+**[11816.16s] English:** Once I was in KGB, and I was in KGB.  
+**Translation:** Vocabulary: gently: 温和地
 
-**[11817.08s] English:** И я был в КГБ, и я был в КГБ.  
+**[11817.08s] English:** I was in the KGB, and I was in the KGB.  
 **Translation:** 
 
-**[11817.10s] English:** Однажды вечером в пятницу я ехал с работы домой,  
+**[11817.10s] English:** One evening on Friday, I was driving home from work,  
 **Translation:** 
 
-**[11826.86s] English:** и меня останавливает полиция штата на дорожном пункте оплаты.  
+**[11826.86s] English:** And I am stopped by state police at a roadside checkpoint.  
 **Translation:** 
 
-**[11838.18s] English:** Там нужно было заплатить перед мостом через Гудзон.  
-**Translation:** 
+**[11838.18s] English:** There, you needed to pay before crossing the Hudson Bridge.  
+**Translation:** Vocabulary: checkpoint: 检查站; hudson: 哈德逊河; roadside: 路边
 
-**[11843.34s] English:** Точнее, я уже остановился.  
+**[11843.34s] English:** More precisely, I have already stopped.  
 **Translation:** 
 
-**[11846.28s] English:** Полицейский махал.  
-**Translation:** 
+**[11846.28s] English:** The police officer waved.  
+**Translation:** Vocabulary: precisely: 准确地说
 
-**[11847.08s] English:** Он крикнул мне, мол, подъезжай на стандартную проверку.  
+**[11847.08s] English:** He shouted to me to pull over for a routine check.  
 **Translation:** 
 
-**[11850.60s] English:** Я ничего не заподозрил.  
+**[11850.60s] English:** I didn't suspect anything.  
 **Translation:** 
 
-**[11852.42s] English:** На тот момент я уже забыл, что когда-то был шпионом, будто ничего не было.  
+**[11852.42s] English:** At that moment, I had already forgotten that I had once been a spy, as if it never happened.  
 **Translation:** 
 
-**[11858.30s] English:** Но потом полицейский попросил меня выйти из машины,  
+**[11858.30s] English:** But then the police officer asked me to get out of the car.  
 **Translation:** 
 
-**[11863.08s] English:** что должно было меня насторожить, это необычно,  
+**[11863.08s] English:** What should have alarmed me was the unusual.  
 **Translation:** 
 
-**[11866.46s] English:** но я не придал этому значения.  
+**[11866.46s] English:** But I did not give it much thought.  
 **Translation:** 
 
-**[11870.48s] English:** И тут справа в поле зрения появился человек и показал удостоверение.  
+**[11870.48s] English:** Here, to the right in my field of vision appeared a person who showed an ID.  
 **Translation:** 
 
-**[11876.08s] English:** Я не мог его удостоверить.  
-**Translation:** 
+**[11876.08s] English:** I couldn't verify him.  
+**Translation:** Vocabulary: verify: 确认身份
 
-**[11877.08s] English:** Он сказал, что нам нужно с вами поговорить.  
+**[11877.08s] English:** He said that we need to talk to you.  
 **Translation:** 
 
-**[11880.00s] English:** Это был мой теперешний друг и крестный моей третьей  
-**Translation:** 
+**[11880.00s] English:** This was my current friend and godfather to my third  
+**Translation:** Vocabulary: godfather: 教父
 
-**[11887.52s] English:** дочери, Тринити, Джо Райли.  
+**[11887.52s] English:** Daughter, Trinity, Joe Riley.  
 **Translation:** 
 
-**[11890.68s] English:** Так вот, позже он рассказывал, что после этих слов кровь  
-**Translation:** 
+**[11890.68s] English:** So later he told me that after those words, his blood  
+**Translation:** Vocabulary: riley: 里利; trinity: 三一
 
-**[11898.90s] English:** отлила от моего лица, я побелел как полотно, но  
+**[11898.90s] English:** Oftentimes, when this happens to me, I pale as a sheet, but  
 **Translation:** 
 
-**[11904.28s] English:** я быстро взял себя в руки, и он тоже это заметил.  
-**Translation:** 
+**[11904.28s] English:** I quickly gathered myself together, and he also noticed it.  
+**Translation:** Vocabulary: oftentimes: 经常
 
-**[11907.40s] English:** Они усадили меня в машину.  
+**[11907.40s] English:** They seated me in the car.  
 **Translation:** 
 
-**[11909.88s] English:** Там был еще один агент с пистолетом на щиколотке.  
-**Translation:** 
+**[11909.88s] English:** There was another agent with a pistol on his ankle.  
+**Translation:** Vocabulary: pistol: 手枪
 
-**[11918.02s] English:** Все по-настоящему.  
+**[11918.02s] English:** All is truly true.  
 **Translation:** 
 
-**[11921.86s] English:** Первое, что я спросил, я арестован?  
+**[11921.86s] English:** First, I asked, "Am I arrested?  
 **Translation:** 
 
-**[11924.76s] English:** Он сказал, нет.  
+**[11924.76s] English:** He said, "No.  
 **Translation:** 
 
-**[11927.40s] English:** И тут у меня включился инстинкт.  
-**Translation:** 
+**[11927.40s] English:** Here, my instinct kicked in.  
+**Translation:** Vocabulary: instinct: 直觉
 
-**[11931.42s] English:** Я ведь отлично умею работать под давлением.  
+**[11931.42s] English:** I definitely know how to work under pressure.  
 **Translation:** 
 
-**[11936.42s] English:** Я посмотрел на него.  
+**[11936.42s] English:** I looked at him.  
 **Translation:** 
 
-**[11937.40s] English:** Я посмотрел на них и сказал, а вы что так долго?  
+**[11937.40s] English:** I looked at them and said, "And you guys took so long?  
 **Translation:** 
 
-**[11941.26s] English:** Этой фразой я просто хотел разрядить обстановку.  
-**Translation:** 
+**[11941.26s] English:** By this phrase, I simply wanted to relieve the tension.  
+**Translation:** Vocabulary: relieve: 缓解
 
-**[11951.94s] English:** Ага.  
+**[11951.94s] English:** Agreed.  
 **Translation:** 
 
-**[11952.36s] English:** И он улыбнулся.  
+**[11952.36s] English:** He smiled.  
 **Translation:** 
 
-**[11955.02s] English:** Мгновенно подружились.  
+**[11955.02s] English:** They became instant friends.  
 **Translation:** 
 
-**[11956.76s] English:** Ну, я понимал, что мне нужно им понравиться.  
+**[11956.76s] English:** Nu, I understood that I needed to impress them.  
 **Translation:** 
 
-**[11961.46s] English:** И я понял, что я должен быть таким, чтобы они меня любили.  
+**[11961.46s] English:** I realized that I had to be such a person that they loved me.  
 **Translation:** 
 
-**[11963.08s] English:** К тому моменту я знал, что я приятный человек.  
+**[11963.08s] English:** By that moment, I knew that I was a pleasant person.  
 **Translation:** 
 
-**[11968.16s] English:** Это точно.  
+**[11968.16s] English:** This is definitely true.  
 **Translation:** 
 
-**[11970.54s] English:** Меня отвезли в мотель, который они заранее арендовали.  
-**Translation:** 
+**[11970.54s] English:** They took me to a motel that they had rented in advance.  
+**Translation:** Vocabulary: motel: 汽车旅馆
 
-**[11975.68s] English:** Он был построен буквы «Г».  
+**[11975.68s] English:** He was built in the shape of "G".  
 **Translation:** 
 
-**[11979.50s] English:** Два крыла под прямым углом.  
+**[11979.50s] English:** Two wings at a right angle.  
 **Translation:** 
 
-**[11982.12s] English:** Они выкупили все номера в одном крыле.  
+**[11982.12s] English:** They bought out all the rooms in one wing.  
 **Translation:** 
 
-**[11985.94s] English:** Поставили охрану на обоих концах.  
+**[11985.94s] English:** They put security at both ends.  
 **Translation:** 
 
-**[11988.92s] English:** А меня завели в комнату посередине.  
+**[11988.92s] English:** They brought me into a room in the middle.  
 **Translation:** 
 
-**[11990.98s] English:** В номере были какие-то папки с наклейками.  
-**Translation:** 
+**[11990.98s] English:** In the room, there were some folders with stickers.  
+**Translation:** Vocabulary: stickers: 贴纸
 
-**[11996.42s] English:** И я...  
+**[11996.42s] English:** And I...  
 **Translation:** 
 
-**[11997.06s] English:** Сразу подумал, ну это глупо.  
+**[11997.06s] English:** I immediately thought, well, that's silly.  
 **Translation:** 
 
-**[11999.98s] English:** Я сразу подумал, что это глупо.  
+**[11999.98s] English:** I immediately thought it was silly.  
 **Translation:** 
 
-**[12000.00s] English:** потому что заметил, что все пометки касались только ранних лет моей работы.  
+**[12000.00s] English:** Because he noticed that all the notes referred only to the early years of my work.  
 **Translation:** 
 
-**[12007.72s] English:** Я понял, что они ничего не знают.  
+**[12007.72s] English:** I understood that they know nothing.  
 **Translation:** 
 
-**[12010.78s] English:** Потом я сказал об этом Джо, хотя это была не самая лучшая идея.  
+**[12010.78s] English:** Then I told Joe about it, although it was not the best idea.  
 **Translation:** 
 
-**[12018.84s] English:** Но я сам проявил инициативу.  
+**[12018.84s] English:** But I took the initiative myself.  
 **Translation:** 
 
-**[12021.92s] English:** Прежде чем начался допрос, я заявил,  
-**Translation:** 
+**[12021.92s] English:** Before the interrogation began, I declared,  
+**Translation:** Vocabulary: interrogation: 审问
 
-**[12024.90s] English:** я понимаю, что единственный способ для меня и моей семьи  
+**[12024.90s] English:** I understand that the only way for me and my family is  
 **Translation:** 
 
-**[12028.42s] English:** выйти из ситуации с минимальными потерями,  
-**Translation:** 
+**[12028.42s] English:** To exit the situation with minimal losses,  
+**Translation:** Vocabulary: minimal: 最小的
 
-**[12032.92s] English:** это полное стопроцентное сотрудничество,  
+**[12032.92s] English:** This is one hundred percent cooperation.  
 **Translation:** 
 
-**[12035.82s] English:** и я намерен именно так и поступить.  
+**[12035.82s] English:** And I intend to do exactly that.  
 **Translation:** 
 
-**[12040.42s] English:** Что ж, мы беседовали около двух часов.  
+**[12040.42s] English:** We talked for about two hours.  
 **Translation:** 
 
-**[12043.24s] English:** Мне позволили позвонить жене и сказать, что я задерживаюсь.  
+**[12043.24s] English:** I was allowed to call my wife and tell her that I would be delayed.  
 **Translation:** 
 
-**[12048.26s] English:** Я уже тогда понял, что меня отпустят.  
+**[12048.26s] English:** I already understood then that I would be released.  
 **Translation:** 
 
-**[12051.08s] English:** И через два часа меня отпустили.  
+**[12051.08s] English:** After two hours, I was released.  
 **Translation:** 
 
-**[12052.92s] English:** Но на тот момент они оцепили весь район.  
+**[12052.92s] English:** But at that moment, they had surrounded the entire area.  
 **Translation:** 
 
-**[12060.26s] English:** Начальник группы сказал мне,  
+**[12060.26s] English:** The group leader told me,  
 **Translation:** 
 
-**[12063.10s] English:** если думаешь сбежать, мы контролируем все перекрестки в округе, ты не скроешься.  
+**[12063.10s] English:** If you think of trying to escape, we control all the intersections in the area; you won't be able to hide.  
 **Translation:** 
 
-**[12071.20s] English:** Я ничего не ответил, но сбегать даже не собирался.  
-**Translation:** 
+**[12071.20s] English:** I didn't answer, but I wasn't even planning to run away.  
+**Translation:** Vocabulary: intersections: 路口
 
-**[12076.54s] English:** Так начался новый этап моей жизни,  
+**[12076.54s] English:** So began a new stage of my life.  
 **Translation:** 
 
-**[12081.94s] English:** сотрудничества с женщинами.  
+**[12081.94s] English:** Cooperation with women.  
 **Translation:** 
 
-**[12082.92s] English:** Я продолжал жить под прикрытием, пока мне не выдали настоящие документы.  
+**[12082.92s] English:** I continued to live under cover until they issued me real documents.  
 **Translation:** 
 
-**[12090.54s] English:** И семь лет назад я стал гражданином США.  
+**[12090.54s] English:** Seven years ago, I became a citizen of the United States.  
 **Translation:** 
 
-**[12094.88s] English:** Всего семь лет назад? То есть совсем недавно?  
+**[12094.88s] English:** Did it happen just seven years ago? That is to say, it was very recent?  
 **Translation:** 
 
-**[12097.90s] English:** Да, недавно.  
+**[12097.90s] English:** Yes, recently.  
 **Translation:** 
 
-**[12098.76s] English:** Ого.  
+**[12098.76s] English:** Oh.  
 **Translation:** 
 
-**[12099.66s] English:** Да, это же бюрократический вопрос.  
-**Translation:** 
+**[12099.66s] English:** Yes, this is a bureaucratic question.  
+**Translation:** Vocabulary: bureaucratic: 官僚主义的
 
-**[12102.94s] English:** Как легально меня оформить,  
+**[12102.94s] English:** How can I legally be processed?  
 **Translation:** 
 
-**[12105.94s] English:** и при этом не включать в программу защиту свидетелей,  
-**Translation:** 
+**[12105.94s] English:** And yet, do not include witness protection in the program.  
+**Translation:** Vocabulary: processed: 办理
 
-**[12109.92s] English:** и просто все.  
+**[12109.92s] English:** And just everything.  
 **Translation:** 
 
-**[12112.92s] English:** Узаконить.  
-**Translation:** 
+**[12112.92s] English:** To legalize.  
+**Translation:** Vocabulary: legalize: 使合法化
 
-**[12114.50s] English:** Чтобы оставить мне мое имя.  
+**[12114.50s] English:** To keep my name.  
 **Translation:** 
 
-**[12117.12s] English:** Например, мне пришлось изменить год рождения.  
+**[12117.12s] English:** For example, I had to change my birth year.  
 **Translation:** 
 
-**[12120.00s] English:** Потому что настоящий Джек Барски родился в 1944.  
+**[12120.00s] English:** Because the real Jack Bar斯基 was born in 1944.  
 **Translation:** 
 
-**[12125.30s] English:** Если бы мне оставили эту дату, ФБР фактически помогло бы мне совершить преступление.  
+**[12125.30s] English:** If this date had been left to me, the FBI would have effectively helped me commit a crime.  
 **Translation:** 
 
-**[12131.12s] English:** Ведь я бы начал получать социальные выплаты на 4 года раньше.  
+**[12131.12s] English:** Because I would start receiving social payments 4 years earlier.  
 **Translation:** 
 
-**[12135.72s] English:** Так что...  
+**[12135.72s] English:** So...  
 **Translation:** 
 
-**[12137.08s] English:** Из-за имени?  
+**[12137.08s] English:** Due to the name?  
 **Translation:** 
 
-**[12138.02s] English:** Да, все сильно затянулось.  
+**[12138.02s] English:** Yes, it has really拖长了。  
 **Translation:** 
 
-**[12139.98s] English:** Но однажды мне позвонили из Министерства внутренней безопасности.  
+**[12139.98s] English:** But one day I received a call from the Ministry of Internal Affairs.  
 **Translation:** 
 
-**[12145.02s] English:** Женщина говорит, «Это агент такая-то, можете подойти завтра в офис?»  
+**[12145.02s] English:** Woman says, "This is Agent Such-and-Such, can you come to the office tomorrow?  
 **Translation:** 
 
-**[12156.86s] English:** Я говорю, «Дайте я проверю расписание», а потом такой, «Погодите, какое к черту расписание? Во сколько мне быть?»  
+**[12156.86s] English:** I say, "Let me check the schedule," and then, "Wait, what the hell is this schedule about? At what time do I need to be there?  
 **Translation:** 
 
-**[12166.96s] English:** Я очень долго ждал этого момента.  
+**[12166.96s] English:** I have been waiting for this moment for a long time.  
 **Translation:** 
 
-**[12169.08s] English:** Я там же дал присягу.  
+**[12169.08s] English:** I took the oath there as well.  
 **Translation:** 
 
-**[12172.50s] English:** Это было приятное чувство, выйти оттуда.  
+**[12172.50s] English:** This was a pleasant feeling, to get out of there.  
 **Translation:** 
 
-**[12175.02s] English:** И снова иметь родину.  
+**[12175.02s] English:** To have a homeland again.  
 **Translation:** 
 
-**[12178.20s] English:** Я люблю эту страну, как ты говоришь,  
-**Translation:** 
+**[12178.20s] English:** I love this country, as you say.  
+**Translation:** Vocabulary: homeland: 祖国
 
-**[12181.70s] English:** со всеми ее недостатками и проблемами.  
+**[12181.70s] English:** With all its flaws and problems.  
 **Translation:** 
 
-**[12186.38s] English:** Но потом моя жизнь снова изменилась.  
+**[12186.38s] English:** But then my life changed again.  
 **Translation:** 
 
-**[12191.48s] English:** Не хочу рассказывать в подробностях, это сложная история.  
+**[12191.48s] English:** I do not want to go into details; it is a complicated story.  
 **Translation:** 
 
-**[12195.18s] English:** Я никогда не хотел быть публичной личностью.  
+**[12195.18s] English:** I never wanted to be a public figure.  
 **Translation:** 
 
-**[12198.24s] English:** Но меня нашли совершенно случайным образом  
+**[12198.24s] English:** But I was found completely by chance.  
 **Translation:** 
 
-**[12202.12s] English:** через цепочку невероятных...  
+**[12202.12s] English:** Through a chain of incredible...  
 **Translation:** 
 
-**[12205.56s] English:** совпадений.  
+**[12205.56s] English:** Coincidence.  
 **Translation:** 
 
-**[12206.82s] English:** Все началось со сводного брата моей жены,  
-**Translation:** 
+**[12206.82s] English:** All began with my wife's stepbrother,  
+**Translation:** Vocabulary: stepbrother: 继兄弟
 
-**[12210.32s] English:** который живет в Германии.  
+**[12210.32s] English:** Which one lives in Germany.  
 **Translation:** 
 
-**[12214.68s] English:** Его туда перевезла мать.  
-**Translation:** 
+**[12214.68s] English:** His mother transported him there.  
+**Translation:** Vocabulary: transported: 运送
 
-**[12217.70s] English:** Он переехал в США кого-то навестить.  
+**[12217.70s] English:** He moved to the US to visit someone.  
 **Translation:** 
 
-**[12220.48s] English:** Не нас, но эти люди жили в 50 милях от нашего дома.  
+**[12220.48s] English:** We didn't live that far away, but these people did, about 50 miles from our home.  
 **Translation:** 
 
-**[12225.74s] English:** Хотя они с моей женой никогда раньше не встречались лично.  
+**[12225.74s] English:** Although they never met my wife in person before.  
 **Translation:** 
 
-**[12230.36s] English:** Только знали друг о друге из соцсетей.  
+**[12230.36s] English:** Only knew each other through social networks.  
 **Translation:** 
 
-**[12234.06s] English:** Они были очень знакомы.  
+**[12234.06s] English:** They were very familiar.  
 **Translation:** 
 
-**[12234.54s] English:** Они были очень знакомы.  
+**[12234.54s] English:** They were very familiar.  
 **Translation:** 
 
-**[12234.78s] English:** Они были очень знакомы.  
+**[12234.78s] English:** They were very familiar.  
 **Translation:** 
 
-**[12234.82s] English:** Они были очень знакомы.  
+**[12234.82s] English:** They were very familiar.  
 **Translation:** 
 
-**[12234.84s] English:** Они были очень знакомы.  
+**[12234.84s] English:** They were very familiar.  
 **Translation:** 
 
-**[12235.02s] English:** Когда он узнал об моем прошлом, он, будучи тогда проводником на железной дороге,  
-**Translation:** 
+**[12235.02s] English:** When he learned about my past, he, being then a conductor on the railroad,  
+**Translation:** Vocabulary: conductor: 列车员
 
-**[12240.00s] English:** сказал о это же огромная история это будет бомба ага ну да у него был знакомый который  
+**[12240.00s] English:** He said it's such a huge story, this will be a bomb, huh? Yeah, he had a friend who  
 **Translation:** 
 
-**[12249.44s] English:** знал одну из ведущих журналисток дэр шпигель она что-то там поисследовала убедилась что я  
-**Translation:** 
+**[12249.44s] English:** Knew one of the leading journalists from Der Spiegel; she had researched something and was sure that I  
+**Translation:** Vocabulary: researched: 调查
 
-**[12259.74s] English:** настоящий и буквально села мне на хвост а то журналистка знала стива крофта и 60 минут  
+**[12259.74s] English:** It was actually Steve Croft and "60 Minutes" that the journalist knew, and he literally sat on my tail.  
 **Translation:** 
 
-**[12267.78s] English:** понимаешь я не причем такова жизнь иногда точки сами соединяются да но не с большинством просто  
-**Translation:** 
+**[12267.78s] English:** Do you understand? I'm not to blame; such is life, sometimes dots connect on their own, but not with most people, just.  
+**Translation:** Vocabulary: croft: 克罗夫特
 
-**[12275.60s] English:** бывает бывает вам повезло вам несколько раз в жизни повезло да видимо у меня есть ирландские  
+**[12275.60s] English:** Bывает, бывает. Вам повезло几次，您确实运气不错。看来我有点爱尔兰血统。  
 **Translation:** 
 
-**[12283.02s] English:** корни в общем это был интересный путь иногда я сам удивляюсь вспоминая сколько всего произошло  
+**[12283.02s] English:** Roots, in general, this was an interesting journey. Sometimes I am amazed when remembering how much has happened.  
 **Translation:** 
 
-**[12296.88s] English:** и  
+**[12296.88s] English:** And  
 **Translation:** 
 
-**[12297.28s] English:** интересный путь вы написали я рад что могу оставить после себя документальное свидетельство  
-**Translation:** 
+**[12297.28s] English:** An interesting path you've written. I'm glad I can leave behind a documentary testimony.  
+**Translation:** Vocabulary: testimony: 证词
 
-**[12303.70s] English:** своей необычной жизни я надеюсь что мое слово которым можно ее описать любовь давайте вернемся  
+**[12303.70s] English:** Of my unusual life, I hope that the word with which one could describe it is love. Let's return.  
 **Translation:** 
 
-**[12313.84s] English:** к тому с чего начали к любви какую роль играет любовь в человеческой жизни вашей жизни в нашем  
+**[12313.84s] English:** To that, from where we began, love and its role in human life, in our lives, in ours.  
 **Translation:** 
 
-**[12323.84s] English:** мире отвечу на этот вопрос  
+**[12323.84s] English:** In the world, I will answer this question.  
 **Translation:** 
 
-**[12327.28s] English:** истории однажды я выступал с лекции в штаб-квартире microsoft странное начало любовной истории но  
+**[12327.28s] English:** Histories, once I gave a lecture at Microsoft's headquarters. Strange beginning to a love story, but  
 **Translation:** 
 
-**[12339.70s] English:** давайте она не любовная там в зале сидела молодая женщина внимательно слушала позже я узнал что  
+**[12339.70s] English:** Let's see, she wasn't in love there. In the hall, a young woman was sitting and attentively listening. Later, I found out that  
 **Translation:** 
 
-**[12350.14s] English:** microsoft она работала стори тейлера что-то типа мягкого маркера  
-**Translation:** 
+**[12350.14s] English:** Microsoft, she worked as a story tailor, something like a soft marker.  
+**Translation:** Vocabulary: attentively: 专心地; tailor: 裁缝
 
-**[12357.28s] English:** тенге  
+**[12357.28s] English:** Tenge.  
 **Translation:** 
 
-**[12360.00s] English:** Ну да, можно так сказать.  
+**[12360.00s] English:** Nu da, can such be said.  
 **Translation:** 
 
-**[12361.74s] English:** Классно, если компания может позволить тебе такую должность.  
+**[12361.74s] English:** Classically, if a company can afford to give you such a position.  
 **Translation:** 
 
-**[12365.48s] English:** Ну так вот.  
+**[12365.48s] English:** Nu, so here it is.  
 **Translation:** 
 
-**[12367.24s] English:** В конце лекции был блок вопросов, и она спросила,  
+**[12367.24s] English:** At the end of the lecture, there was a question block, and she asked,  
 **Translation:** 
 
-**[12373.28s] English:** после всего, что с вами было,  
+**[12373.28s] English:** After all that has happened to you,  
 **Translation:** 
 
-**[12377.04s] English:** какой главный урок вы вынесли из своей жизни?  
+**[12377.04s] English:** What is the main lesson you have learned from your life?  
 **Translation:** 
 
-**[12383.00s] English:** Меня никогда раньше не спрашивали об этом.  
+**[12383.00s] English:** I have never been asked about this before.  
 **Translation:** 
 
-**[12386.80s] English:** Я задумался секунд на двадцать и сказал фразу, которую все знают.  
+**[12386.80s] English:** I paused for about twenty seconds and said a phrase that everyone knows.  
 **Translation:** 
 
-**[12394.42s] English:** Любовь побеждает все.  
-**Translation:** 
+**[12394.42s] English:** Love conquers all.  
+**Translation:** Vocabulary: conquers: 战胜; paused: 暂停
 
-**[12397.94s] English:** Потому что в моей жизни так и вышло.  
+**[12397.94s] English:** Because in my life, that's exactly how it happened.  
 **Translation:** 
 
-**[12402.26s] English:** Это самая сильная человеческая эмоция.  
+**[12402.26s] English:** This is the strongest human emotion.  
 **Translation:** 
 
-**[12407.76s] English:** Она делает нас людьми.  
+**[12407.76s] English:** She makes us human.  
 **Translation:** 
 
-**[12411.30s] English:** Когда мы с вами говорили вне камер,  
+**[12411.30s] English:** When we spoke outside the cameras,  
 **Translation:** 
 
-**[12413.38s] English:** я ясно ощутил, насколько сильно вас изменила любовь к детям.  
+**[12413.38s] English:** I clearly felt how much love for children changed you.  
 **Translation:** 
 
-**[12417.06s] English:** Каким человеком она вас сделала.  
+**[12417.06s] English:** How did she make you into a person like that.  
 **Translation:** 
 
-**[12421.60s] English:** Насколько глубоко вы любите своих дочерей.  
+**[12421.60s] English:** How deeply do you love your daughters.  
 **Translation:** 
 
-**[12424.84s] English:** Почему вы считаете жизнь прекрасной.  
+**[12424.84s] English:** Why do you consider life beautiful.  
 **Translation:** 
 
-**[12428.16s] English:** Почему считаете эту страну прекрасной.  
+**[12428.16s] English:** Why do you consider this country beautiful.  
 **Translation:** 
 
-**[12430.50s] English:** Теперь, когда я, мягко говоря, зрелый человек,  
-**Translation:** 
+**[12430.50s] English:** Now that I, to put it mildly, am a mature adult,  
+**Translation:** Vocabulary: mature: 成年; mildly: 温和地
 
-**[12435.58s] English:** я стал более любящим по отношению к другим людям.  
+**[12435.58s] English:** I became more loving towards other people.  
 **Translation:** 
 
-**[12442.70s] English:** Я стал чаще делать что-то хорошее для незнакомых.  
+**[12442.70s] English:** I have started doing something good for strangers more often.  
 **Translation:** 
 
-**[12446.80s] English:** Я стал искать такие возможности.  
+**[12446.80s] English:** I started looking for such opportunities.  
 **Translation:** 
 
-**[12449.20s] English:** И знаешь, мне это пошло на пользу.  
+**[12449.20s] English:** I know, it was good for me.  
 **Translation:** 
 
-**[12452.80s] English:** Добро пожаловать в Техас.  
+**[12452.80s] English:** Welcome to Texas.  
 **Translation:** 
 
-**[12454.56s] English:** Здесь доброта к незнакомцам — это стиль жизни.  
-**Translation:** 
+**[12454.56s] English:** Here, kindness to strangers is a way of life.  
+**Translation:** Vocabulary: texas: 德克萨斯州
 
-**[12460.56s] English:** Одна из причин, почему мне тут нравится.  
+**[12460.56s] English:** One of the reasons why I like it here.  
 **Translation:** 
 
-**[12463.56s] English:** Это напоминает мне, почему я люблю людей.  
+**[12463.56s] English:** This reminds me why I love people.  
 **Translation:** 
 
-**[12467.56s] English:** За тепло, за связь между ними.  
+**[12467.56s] English:** For warmth, for the connection between them.  
 **Translation:** 
 
-**[12469.56s] English:** Да. В Джорджии то же самое.  
+**[12469.56s] English:** Yes. The same is true in Georgia.  
 **Translation:** 
 
-**[12471.56s] English:** Да. Аминь.  
+**[12471.56s] English:** Yes. Amen.  
 **Translation:** 
 
-**[12474.56s] English:** У вас есть сожаления?  
+**[12474.56s] English:** Do you have any regrets?  
 **Translation:** 
 
-**[12476.80s] English:** Да. Оглядываясь назад,  
+**[12476.80s] English:** Yes. Looking back,  
 **Translation:** 
 
-**[12480.00s] English:** Хотели бы вы что-то изменить?  
+**[12480.00s] English:** Would you like to make any changes?  
 **Translation:** 
 
-**[12482.16s] English:** Я мог бы, но тогда пожалел бы о другом.  
+**[12482.16s] English:** I could have, but then I would have regretted it.  
 **Translation:** 
 
-**[12488.62s] English:** Я предал жену, немецкую жену, которую любил.  
-**Translation:** 
+**[12488.62s] English:** I betrayed my wife, the German wife I loved.  
+**Translation:** Vocabulary: betrayed: 背叛; regretted: 后悔
 
-**[12492.48s] English:** Правда любил.  
+**[12492.48s] English:** He did love it.  
 **Translation:** 
 
-**[12494.68s] English:** И я ее предал.  
+**[12494.68s] English:** I betrayed her.  
 **Translation:** 
 
-**[12496.52s] English:** Но если бы не предал ее, то предал бы дочь.  
+**[12496.52s] English:** But if I hadn't betrayed her, I would have betrayed her daughter.  
 **Translation:** 
 
-**[12504.12s] English:** А дочь стала источником огромной любви.  
+**[12504.12s] English:** The daughter became a source of enormous love.  
 **Translation:** 
 
-**[12507.16s] English:** Может, жизнь устроена так, что нам приходится выбирать, о чем сожалеть.  
+**[12507.16s] English:** Maybe life is arranged such that we have to choose what to regret.  
 **Translation:** 
 
-**[12515.98s] English:** Да, формулировка странная, но выбора действительно нет.  
+**[12515.98s] English:** Yes, that formulation is strange, but there really is no choice.  
 **Translation:** 
 
-**[12523.00s] English:** Но знаешь, о чем я точно не жалею?  
+**[12523.00s] English:** But you know what I definitely don't regret?  
 **Translation:** 
 
-**[12526.20s] English:** Думаю, теперь ты уже достаточно хорошо меня понимаешь.  
+**[12526.20s] English:** I think you now understand me well enough.  
 **Translation:** 
 
-**[12531.76s] English:** Я не жалею, что солгал своей матери.  
+**[12531.76s] English:** I do not regret lying to my mother.  
 **Translation:** 
 
-**[12535.32s] English:** У нас не было с ней.  
+**[12535.32s] English:** We didn't have it with her.  
 **Translation:** 
 
-**[12537.16s] English:** Эмоциональные связи.  
+**[12537.16s] English:** Emotional connections.  
 **Translation:** 
 
-**[12540.44s] English:** Она заботилась обо мне, гордилась мной, но мы не обнимались.  
-**Translation:** 
+**[12540.44s] English:** She cared for me, took pride in me, but we never hugged.  
+**Translation:** Vocabulary: hugged: 拥抱
 
-**[12546.66s] English:** Эмоционально мы никак не взаимодействовали.  
+**[12546.66s] English:** Emotionally, we hardly interacted at all.  
 **Translation:** 
 
-**[12550.60s] English:** То есть вы не чувствуете, что предали ту любовь?  
-**Translation:** 
+**[12550.60s] English:** So you don't feel like you betrayed that love?  
+**Translation:** Vocabulary: interacted: 交流
 
-**[12555.38s] English:** Я знаю, что она искала меня до самой своей смерти.  
+**[12555.38s] English:** I know that she searched for me until her very death.  
 **Translation:** 
 
-**[12563.36s] English:** Она писала письмо президенту Горбачеву,  
+**[12563.36s] English:** She wrote a letter to President Gorbachev,  
 **Translation:** 
 
-**[12566.20s] English:** с просьбой помочь найти меня.  
+**[12566.20s] English:** With a request to help find me.  
 **Translation:** 
 
-**[12569.42s] English:** Она обращалась в штазе.  
-**Translation:** 
+**[12569.42s] English:** She addressed the Gestapo.  
+**Translation:** Vocabulary: gestapo: 盖世太保
 
-**[12573.86s] English:** Она была одержима поисками.  
+**[12573.86s] English:** She was obsessed with the search.  
 **Translation:** 
 
-**[12578.32s] English:** Но так меня и не нашла.  
-**Translation:** 
+**[12578.32s] English:** But she never found me.  
+**Translation:** Vocabulary: obsessed: 着迷
 
-**[12580.88s] English:** Она умерла, так и не узнав,  
+**[12580.88s] English:** She died without ever learning,  
 **Translation:** 
 
-**[12583.84s] English:** что со мной случилось.  
+**[12583.84s] English:** What happened to me.  
 **Translation:** 
 
-**[12586.10s] English:** Правда, ходил один слух,  
+**[12586.10s] English:** Indeed, there was one rumor that circulated.  
 **Translation:** 
 
-**[12590.48s] English:** возможно, она в него поверила.  
-**Translation:** 
+**[12590.48s] English:** Possibly, she believed in it.  
+**Translation:** Vocabulary: circulated: 流传
 
-**[12593.34s] English:** Когда я уезжал в США,  
+**[12593.34s] English:** When I left for the USA,  
 **Translation:** 
 
-**[12595.22s] English:** у меня было прикрытие,  
+**[12595.22s] English:** I had cover.  
 **Translation:** 
 
-**[12598.00s] English:** будто я сменил профессию.  
+**[12598.00s] English:** It's as if I had changed professions.  
 **Translation:** 
 
-**[12600.00s] English:** И устроился в секретную организацию в Казахстане, которая занималась космическими исследованиями.  
-**Translation:** 
+**[12600.00s] English:** He settled into a secret organization in Kazakhstan, which conducted space research.  
+**Translation:** Vocabulary: kazakhstan: 哈萨克斯坦; professions: 职业
 
-**[12610.18s] English:** Интеркосмос, что-то такое.  
+**[12610.18s] English:** Interkosmos, something like that.  
 **Translation:** 
 
-**[12612.38s] English:** У меня даже был поддельный документ о приеме на работу.  
+**[12612.38s] English:** I even had a fake employment document.  
 **Translation:** 
 
-**[12618.46s] English:** На самом деле, Интеркосмос никогда не существовал.  
+**[12618.46s] English:** In fact, Interkosmos never existed.  
 **Translation:** 
 
-**[12623.30s] English:** Но люди знали, что в Казахстане есть засекреченные объекты.  
-**Translation:** 
+**[12623.30s] English:** But people knew that there were secret objects in Kazakhstan.  
+**Translation:** Vocabulary: interkosmos: 国际宇宙计划
 
-**[12630.00s] English:** Один из моих бывших одноклассников пустил слух, что я погиб при взрыве ракеты.  
+**[12630.00s] English:** One of my former classmates spread a rumor that I died in a rocket explosion.  
 **Translation:** 
 
-**[12640.76s] English:** Все в это поверили.  
+**[12640.76s] English:** Everyone believed in it.  
 **Translation:** 
 
-**[12643.22s] English:** Когда я вернулся в Германию, приехал в Германию,  
+**[12643.22s] English:** When I returned to Germany, I arrived in Germany.  
 **Translation:** 
 
-**[12647.54s] English:** я нашел телефон девушки, которая когда-то меня бросила.  
+**[12647.54s] English:** I found the girl's phone who once dumped me.  
 **Translation:** 
 
-**[12653.42s] English:** Звоню, говорю, угадай, кто?  
+**[12653.42s] English:** I'm calling, saying, guess who?  
 **Translation:** 
 
-**[12659.12s] English:** Лучше пристегнись.  
+**[12659.12s] English:** Better buckle up.  
 **Translation:** 
 
-**[12660.00s] English:** Она отвечает, да.  
+**[12660.00s] English:** She answers, "Yes.  
 **Translation:** 
 
-**[12663.14s] English:** Я говорю, это Альбрехт.  
-**Translation:** 
+**[12663.14s] English:** I say, this is Albrecht.  
+**Translation:** Vocabulary: albrecht: 阿尔布雷希特
 
-**[12668.18s] English:** Хорошая месть.  
+**[12668.18s] English:** Good revenge.  
 **Translation:** 
 
-**[12670.66s] English:** Мы даже встретились.  
-**Translation:** 
+**[12670.66s] English:** We even met.  
+**Translation:** Vocabulary: revenge: 报复
 
-**[12672.42s] English:** Два пожилых человека в возрасте за 60 встретились спустя столько лет.  
+**[12672.42s] English:** Two elderly people in their sixties met after so many years.  
 **Translation:** 
 
-**[12679.96s] English:** И первая фраза, с которой она начала разговор,  
+**[12679.96s] English:** The first phrase she began the conversation with,  
 **Translation:** 
 
-**[12685.36s] English:** она сказала, знаешь, я тогда совершила большую ошибку.  
+**[12685.36s] English:** She said, "You know, I then made a big mistake.  
 **Translation:** 
 
-**[12690.00s] English:** И у нее потекли слезы.  
+**[12690.00s] English:** And she began to cry.  
 **Translation:** 
 
-**[12693.58s] English:** Я этого не ждал, но, признаюсь, было приятно.  
+**[12693.58s] English:** I didn't expect this, but, to be honest, it was pleasant.  
 **Translation:** 
 
-**[12698.18s] English:** Потом я понял, почему она так сказала.  
+**[12698.18s] English:** Then I understood why she said it that way.  
 **Translation:** 
 
-**[12704.08s] English:** Я встретил ее мужа.  
+**[12704.08s] English:** I met her husband.  
 **Translation:** 
 
-**[12710.14s] English:** Да, у Тома Уэйдса есть песня Марта,  
-**Translation:** 
+**[12710.14s] English:** Yes, Tom Wade has a song Marta.  
+**Translation:** Vocabulary: marta: 玛塔
 
-**[12713.90s] English:** о том, как пожилой мужчина звонит женщине, которую поднимает.  
+**[12713.90s] English:** About how an elderly man calls a woman he's lifting.  
 **Translation:** 
 
-**[12718.18s] English:** Эта песня называется «Марта».  
+**[12718.18s] English:** This song is called "Marta".  
 **Translation:** 
 
-**[12719.24s] English:** Она говорит о том, как пожилой мужчина звонит женщине, которую поднимает.  
+**[12719.24s] English:** She talks about how an elderly man calls a woman he picks up.  
 **Translation:** 
 
-**[12719.76s] English:** Субтитры создавал DimaTorzok  
-**Translation:** 
+**[12719.76s] English:** Subtitles created by DimaTorzok  
+**Translation:** Vocabulary: subtitles: 字幕
 
-**[12720.00s] English:** когда-то любил. Они оба давно женаты.  
+**[12720.00s] English:** Once I loved. They have both been married for a long time.  
 **Translation:** 
 
-**[12723.48s] English:** Иногда встречаешься с людьми из прошлого,  
+**[12723.48s] English:** Sometimes you meet people from the past,  
 **Translation:** 
 
-**[12726.86s] English:** и можешь увидеть, какой могла бы быть твоя жизнь.  
+**[12726.86s] English:** And you can see what your life could have been like.  
 **Translation:** 
 
-**[12730.80s] English:** Да. И когда она сказала, «Я совершила ошибку»,  
+**[12730.80s] English:** Yes. And when she said, "I made a mistake",  
 **Translation:** 
 
-**[12735.66s] English:** я подумал, «Нет, не совершила.  
+**[12735.66s] English:** I thought, "No, she didn't do it.  
 **Translation:** 
 
-**[12739.46s] English:** Все уже ушло, чувств не осталось. Совсем».  
+**[12739.46s] English:** All has already gone, no feelings remain. "Completely.  
 **Translation:** 
 
-**[12744.12s] English:** Да и она сама, как личность, была не такой привлекательной,  
+**[12744.12s] English:** Da, and she herself, as a person, was not so attractive,  
 **Translation:** 
 
-**[12752.50s] English:** какой я ее помнил. Это была детская любовь.  
+**[12752.50s] English:** How I remembered her. It was a childhood love.  
 **Translation:** 
 
-**[12755.76s] English:** Но любовь же была.  
+**[12755.76s] English:** But love was there, too.  
 **Translation:** 
 
-**[12757.00s] English:** Конечно. Это была страстная любовь.  
-**Translation:** 
+**[12757.00s] English:** Of course. It was a passionate love.  
+**Translation:** Vocabulary: passionate: 热烈的
 
-**[12761.30s] English:** Я бы и под поезд ради нее бросился.  
+**[12761.30s] English:** I would have thrown myself in front of a train for her.  
 **Translation:** 
 
-**[12766.80s] English:** Так сильно ее любил, как сейчас люблю своих дочерей.  
+**[12766.80s] English:** He loved her so strongly, as I love my daughters now.  
 **Translation:** 
 
-**[12771.46s] English:** Да.  
+**[12771.46s] English:** Yes.  
 **Translation:** 
 
-**[12774.12s] English:** Жизнь полна таких моментов, таких всплесков любви.  
-**Translation:** 
+**[12774.12s] English:** Life is full of such moments, such surges of love.  
+**Translation:** Vocabulary: surges: 激情
 
-**[12778.34s] English:** В этом и есть вся ее красота.  
+**[12778.34s] English:** This is its entire beauty.  
 **Translation:** 
 
-**[12781.40s] English:** Но все когда-то заканчивается.  
+**[12781.40s] English:** But everything eventually comes to an end.  
 **Translation:** 
 
-**[12783.84s] English:** Как, видимо, и этот разговор.  
+**[12783.84s] English:** As seems to be the case with this conversation.  
 **Translation:** 
 
-**[12786.94s] English:** Нет, разговаривать мы будем еще долго, но да.  
+**[12786.94s] English:** No, we will be talking for a while longer, but yes.  
 **Translation:** 
 
-**[12789.94s] English:** Вы думаете о смерти?  
+**[12789.94s] English:** Do you think about death?  
 **Translation:** 
 
-**[12792.08s] English:** Думаете о смерти? О своей смерти?  
+**[12792.08s] English:** Do you think about death? Your own death?  
 **Translation:** 
 
-**[12794.90s] English:** Да.  
+**[12794.90s] English:** Yes.  
 **Translation:** 
 
-**[12796.06s] English:** Боитесь ее?  
+**[12796.06s] English:** Do you fear her?  
 **Translation:** 
 
-**[12797.52s] English:** Да. Даже несмотря на то, что я христианин.  
+**[12797.52s] English:** Yes. Even though I am a Christian.  
 **Translation:** 
 
-**[12803.46s] English:** У вас...  
+**[12803.46s] English:** You have...  
 **Translation:** 
 
-**[12804.12s] English:** У вас, как у христианина, есть понимание, что будет дальше, или остается неопределенность?  
+**[12804.12s] English:** Do you, as a Christian, have an understanding of what will happen next, or is there uncertainty?  
 **Translation:** 
 
-**[12808.60s] English:** У меня есть надежда. Надежда.  
+**[12808.60s] English:** I have hope. Hope.  
 **Translation:** 
 
-**[12812.24s] English:** Во многом...  
+**[12812.24s] English:** In many ways,...  
 **Translation:** 
 
-**[12813.94s] English:** Христианство логично.  
+**[12813.94s] English:** Christianity makes logical sense.  
 **Translation:** 
 
-**[12816.38s] English:** Во многом подтверждается  
+**[12816.38s] English:** In part confirmed,  
 **Translation:** 
 
-**[12818.18s] English:** истории жизни Христа.  
+**[12818.18s] English:** Histories of the life of Christ.  
 **Translation:** 
 
-**[12825.86s] English:** Знаешь...  
+**[12825.86s] English:** Knows...  
 **Translation:** 
 
-**[12826.62s] English:** Я пришел к вере  
+**[12826.62s] English:** I came to believe.  
 **Translation:** 
 
-**[12832.14s] English:** разума.  
+**[12832.14s] English:** Reason.  
 **Translation:** 
 
-**[12833.12s] English:** Я пришел к вере разума.  
+**[12833.12s] English:** I came to the faith of reason.  
 **Translation:** 
 
-**[12834.10s] English:** И...  
+**[12834.10s] English:** And...  
 **Translation:** 
 
-**[12836.10s] English:** Уже взрелом.  
-**Translation:** 
+**[12836.10s] English:** Already exploded.  
+**Translation:** Vocabulary: exploded: 爆炸
 
-**[12840.00s] English:** В возрасте.  
+**[12840.00s] English:** In age,  
 **Translation:** 
 
-**[12847.16s] English:** Если веру не вселяют в тебя с детства, принять ее сложнее.  
-**Translation:** 
+**[12847.16s] English:** If faith is not instilled in you from childhood, it is harder to accept it later.  
+**Translation:** Vocabulary: instilled: 灌输
 
-**[12856.98s] English:** Есть вещи, в которые мне трудно понять и в которые трудно поверить,  
+**[12856.98s] English:** There are things that it's hard for me to understand and hard for me to believe.  
 **Translation:** 
 
-**[12863.90s] English:** но есть и то, что я могу объяснить только существованием Бога,  
+**[12863.90s] English:** But there is also something that I can explain only by the existence of God,  
 **Translation:** 
 
-**[12868.90s] English:** позволит ли он нам жить в вечности.  
+**[12868.90s] English:** Will he allow us to live in eternity.?  
 **Translation:** 
 
-**[12875.08s] English:** Я на это надеюсь.  
+**[12875.08s] English:** I hope so.  
 **Translation:** 
 
-**[12877.46s] English:** Я не пытаюсь кого-то убедить, хотя это, наверное, плохо для христианина,  
+**[12877.46s] English:** I don't try to convince anyone, though this might be bad for a Christian.  
 **Translation:** 
 
-**[12883.44s] English:** ведь я должен проповедовать.  
-**Translation:** 
+**[12883.44s] English:** Because I must preach.  
+**Translation:** Vocabulary: preach: 布道
 
-**[12886.60s] English:** Но страх все равно остается.  
+**[12886.60s] English:** But fear still remains.  
 **Translation:** 
 
-**[12888.58s] English:** Да.  
+**[12888.58s] English:** Yes.  
 **Translation:** 
 
-**[12888.96s] English:** Значит, и страх, и надежда.  
+**[12888.96s] English:** Meaning, there is both fear and hope.  
 **Translation:** 
 
-**[12890.88s] English:** С другой стороны, я вот как подхожу к последним годам своей жизни.  
+**[12890.88s] English:** On the other hand, I approach my last years of life in this way.  
 **Translation:** 
 
-**[12898.90s] English:** Я не позволю себе дряхтеть ни умственно, ни физически.  
+**[12898.90s] English:** I will not allow myself to deteriorate mentally or physically.  
 **Translation:** 
 
-**[12908.58s] English:** Буду делать все, чтобы оставаться в своем уме и в хорошей форме.  
-**Translation:** 
+**[12908.58s] English:** I will do everything to stay sane and in good shape.  
+**Translation:** Vocabulary: deteriorate: 恶化
 
-**[12914.52s] English:** Я до сих пор бегаю 4-5 раз в неделю.  
+**[12914.52s] English:** I still run 4-5 times a week.  
 **Translation:** 
 
-**[12918.70s] English:** И снова начну тренироваться с весами.  
+**[12918.70s] English:** I will start training with weights again.  
 **Translation:** 
 
-**[12921.96s] English:** Отлично.  
+**[12921.96s] English:** Great.  
 **Translation:** 
 
-**[12922.86s] English:** И физически, и умственно в тонусе.  
+**[12922.86s] English:** Physically and mentally in top form.  
 **Translation:** 
 
-**[12925.02s] English:** Да.  
+**[12925.02s] English:** Yes.  
 **Translation:** 
 
-**[12926.58s] English:** Уходить надо с поднятым забралом.  
+**[12926.58s] English:** One must go forth with one's helmet raised.  
 **Translation:** 
 
-**[12928.90s] English:** Я как-то читал книгу «Врача».  
+**[12928.90s] English:** I once read a book called "Doctor.  
 **Translation:** 
 
-**[12932.62s] English:** В ней говорилось, что у большинства людей с возрастом начинается медленный упадок.  
+**[12932.62s] English:** It was stated that for most people, there begins a slow decline with age.  
 **Translation:** 
 
-**[12946.00s] English:** Но не у вас.  
+**[12946.00s] English:** But not with you.  
 **Translation:** 
 
-**[12947.70s] English:** Нет.  
+**[12947.70s] English:** No.  
 **Translation:** 
 
-**[12948.34s] English:** Последние годы у многих проходят тяжело.  
+**[12948.34s] English:** The last few years have been tough for many.  
 **Translation:** 
 
-**[12952.34s] English:** А он написал, нужно сделать так.  
+**[12952.34s] English:** He wrote, we need to do it that way.  
 **Translation:** 
 
-**[12956.02s] English:** Хороший совет от врача.  
+**[12956.02s] English:** A good piece of advice from a doctor.  
 **Translation:** 
 
-**[12958.90s] English:** И если нужно...  
+**[12958.90s] English:** If it needs to...  
 **Translation:** 
 
-**[12960.00s] English:** взять из христианства что-то одно то это любовь и вы жили с этим чувством  
+**[12960.00s] English:** Take something from Christianity, and that would be love, and you lived with this feeling.  
 **Translation:** 
 
-**[12968.94s] English:** задолго до бога задолго до всего что с вами было любовь была с вами с самого  
+**[12968.94s] English:** Long before God, long before anything was with you, love was with you from the very beginning.  
 **Translation:** 
 
-**[12974.78s] English:** начала и пронизывает всю вашу жизнь до библии есть короткая фраза бог есть  
+**[12974.78s] English:** At the beginning and permeates all of your life, there is a short phrase: "God is.  
 **Translation:** 
 
-**[12984.96s] English:** любовь а еще христианскую мораль я могу подписать своей кровью бог есть любовь  
-**Translation:** 
+**[12984.96s] English:** Love, and Christian morality, I can sign with my blood. God is love.  
+**Translation:** Vocabulary: morality: 道德; permeates: 渗透
 
-**[12997.92s] English:** аминь джек вы невероятный человек прожили невероятную жизнь спасибо за  
+**[12997.92s] English:** Amin, Jack, you are an incredible person. You've lived an incredible life. Thank you for  
 **Translation:** 
 
-**[13005.66s] English:** этот разговор и что рассказали свою историю спасибо за то кто вы есть за то  
+**[13005.66s] English:** This conversation and what you shared your story, thank you for being who you are and for that.  
 **Translation:** 
 
-**[13010.96s] English:** что несете любовь это была прекрасная беседа  
+**[13010.96s] English:** What you bring is love, this was a beautiful conversation.  
 **Translation:** 
 
-**[13014.96s] English:** для меня это честь я благодарен за сложные вопросы которые ты задал спасибо  
+**[13014.96s] English:** For me, this is an honor. I am grateful for the complex questions you have asked. Thank you.  
 **Translation:** 
 
-**[13021.14s] English:** что посмотрели разговор с джеком барски чтобы поддержать подкаст посмотрите  
+**[13021.14s] English:** What we watched was a conversation with Jack Barsky to support the podcast. Check it out!  
 **Translation:** 
 
-**[13025.44s] English:** спонсоров в описании а теперь позвольте оставить вас со словами эдварда сноудена  
-**Translation:** 
+**[13025.44s] English:** Sponsors in the description, and now let me leave you with Edward Snowden's words.  
+**Translation:** Vocabulary: barsky: 巴尔斯基; sponsors: 赞助商
 
-**[13030.80s] English:** нельзя противостоять самым могущественным разведагентством мира и  
+**[13030.80s] English:** Cannot oppose the most powerful intelligence agency in the world and  
 **Translation:** 
 
-**[13035.18s] English:** не осознавать риск если они захотят тебя достать рано или поздно они это сделают  
+**[13035.18s] English:** Not to realize the risk if they want to get you, they will do it sooner or later.  
 **Translation:** 
 
-**[13041.64s] English:** спасибо что послушали надеюсь увидеть вас  
+**[13041.64s] English:** Thank you for listening, I hope to see you.  
 **Translation:** 
 
-**[13044.60s] English:** следует  
+**[13044.60s] English:** It follows.  
 **Translation:** 
 
-**[13044.96s] English:** душе раз  
+**[13044.96s] English:** Dуshе, rаz.  
 **Translation:** 
 
 

@@ -1,1990 +1,1991 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Joe Rogan： Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom ｜ Lex Fridman Podcast #300.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** آگے ہے جو روگن کے ساتھ ہماری بات چیت جو اس پاڈکاسٹ پر دوسری بار آئے ہیں  
+**[0.00s] English:** Here is the transcript with natural English punctuation and capitalization: Ahead is a chat with our guest who has appeared on this podcast before.  
 **Translation:** 
 
-**[5.04s] English:** جو نے مجھے سالوں سے اپنی بات چیت سے ایک بہتر اور دیالو انسان بننے کے لیے انسپائر کیا ہے  
-**Translation:** 
+**[5.04s] English:** Joe has inspired me to improve my conversation skills and become a better human over the years.  
+**Translation:** Vocabulary: capitalization: 标点; transcript: 录音稿
 
-**[10.72s] English:** اور اب وہ ایسا میرے دوست کے طور پر بھی کر رہے ہیں  
+**[10.72s] English:** And they are doing it even as a friend would.  
 **Translation:** 
 
-**[14.28s] English:** اس لیے اس پاڈکاسٹ کے تین سوہے اپیسوڈ پر چار جولائی کو مجھے ان سے بہتر کوئی اور نہیں مل سکتا تھا  
+**[14.28s] English:** For that reason, on July 4th, I couldn't find anything better than the three hundred episodes of this podcast.  
 **Translation:** 
 
-**[22.56s] English:** یہ دن اس دیش کی انڈیپینڈنس کی انیورسری اور میری یو ایس مائیگریٹ کرنے کی انیورسری دونوں کو سیلیبریٹ کرنے کا ہے  
+**[22.56s] English:** This day celebrates both the independence spirit of this nation and my own immigrant spirit.  
 **Translation:** 
 
-**[30.96s] English:** ایک ایسا نادان بچہ جو انگلیش بول بھی نہیں پاتا تھا  
-**Translation:** 
+**[30.96s] English:** A child who didn't even know how to speak English.  
+**Translation:** Vocabulary: immigrant: 移民
 
-**[35.14s] English:** اور کبھی امیجن بھی نہیں کر سکتا تھا کہ وہ اتنا لکی ہوگا کہ ایسی زندگی جی پائے گا  
+**[35.14s] English:** Or he could never imagine that he would live such a hard life and be so thin.  
 **Translation:** 
 
-**[40.14s] English:** اور اتنے سارے بہترین لوگوں سے اس سفر میں اتنا زیادہ پیار ملے گا  
+**[40.14s] English:** And so many of the best people will make this trip even more loving.  
 **Translation:** 
 
-**[45.66s] English:** آپ سبھی کا دل سے شکریہ  
+**[45.66s] English:** Thank you very much.  
 **Translation:** 
 
-**[48.64s] English:** بہت بہت پیار  
+**[48.64s] English:** Very, very much loved.  
 **Translation:** 
 
-**[50.62s] English:** یہ ہے  
+**[50.62s] English:** This is it.  
 **Translation:** 
 
-**[52.54s] English:** لیکس فریڈمنٹ پاڈکاسٹ  
+**[52.54s] English:** Lex Fridman Podcast  
 **Translation:** 
 
-**[53.84s] English:** اسے سپورٹ کرنے کے لیے ڈسکرپشن میں سپانسرز کو چیک کریں  
+**[53.84s] English:** Check the sponsors in the description for support.  
 **Translation:** 
 
-**[57.54s] English:** اور اب پیارے دوستوں  
-**Translation:** 
+**[57.54s] English:** And now, dear friends.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[59.16s] English:** یہ رہے جو روگن  
+**[59.16s] English:** This is what remains of the roast.  
 **Translation:** 
 
-**[61.24s] English:** چارلز بکوسکی نے اپنی ایک قویتہ سٹائل میں آرٹ کے بارے میں کچھ کہا ہے  
-**Translation:** 
+**[61.24s] English:** Charles Bukowski has said something about art in his strong style.  
+**Translation:** Vocabulary: bukowski: Bukowski（作家）
 
-**[66.64s] English:** انہوں نے آرٹ کو ایسے ڈیفائن کیا ہے  
+**[66.64s] English:** He has defined art in such a way.  
 **Translation:** 
 
-**[69.14s] English:** سٹائل ہی سب کا جواب ہے  
+**[69.14s] English:** Style is the answer for everyone.  
 **Translation:** 
 
-**[71.10s] English:** کسی بورنگ یا خطرناک چیز کو نئے نظریے سے دیکھنا  
+**[71.10s] English:** Some things may appear boring or dangerous when viewed with new theories.  
 **Translation:** 
 
-**[74.24s] English:** بینہ سٹائل کے خطرناک کام کرنے سے اچھا ہے  
+**[74.24s] English:** It is better to avoid working on dangerous tasks in any style.  
 **Translation:** 
 
-**[76.92s] English:** سٹائل کے ساتھ بورنگ کام کرنا  
+**[76.92s] English:** To work on tasks with born style  
 **Translation:** 
 
-**[78.84s] English:** اور خطرناک چیز کو سٹائل سے کرنا  
+**[78.84s] English:** Or the dangerous thing is to do it without style.  
 **Translation:** 
 
-**[81.02s] English:** میرے حساب سے آرٹ ہے  
+**[81.02s] English:** My account has ART credits.  
 **Translation:** 
 
-**[82.54s] English:** آپ کا کیا کہنا ہے؟  
+**[82.54s] English:** What have you to say?  
 **Translation:** 
 
-**[84.62s] English:** آپ اس سے سہمت ہے؟  
+**[84.62s] English:** Do you have any interest in it?  
 **Translation:** 
 
-**[86.22s] English:** خطرناک چیز کو سٹائل سے کرنا ہی آرٹ ہے  
+**[86.22s] English:** Dangerous things can be art only when done with style.  
 **Translation:** 
 
-**[88.54s] English:** انہوں نے کہا بول فائٹنگ آرٹ ہو سکتی ہے  
+**[88.54s] English:** He said that bullfighting could be an art form.  
 **Translation:** 
 
-**[90.64s] English:** باکسنگ آرٹ ہو سکتی ہے  
-**Translation:** 
+**[90.64s] English:** A baksong art piece can be possible.  
+**Translation:** Vocabulary: baksong: 巴克松; bullfighting: 斗牛
 
-**[91.60s] English:** پیار کرنا بھی آرٹ ہو سکتا ہے  
+**[91.60s] English:** Pleasing can also be an art.  
 **Translation:** 
 
-**[92.96s] English:** کیا آپ نے کبھی پیار کیا ہے جو آرٹ جیسا لگا ہو؟  
+**[92.96s] English:** Have you ever fallen in love with something that feels like art?  
 **Translation:** 
 
-**[95.82s] English:** میرا پیار آرٹ ہی ہے  
+**[95.82s] English:** Mira's favorite art is painting.  
 **Translation:** 
 
-**[98.72s] English:** ٹائٹ بند ڈبے کو کھولنا بھی آرٹ ہو سکتا ہے  
+**[98.72s] English:** Opening a tie band can also be an art.  
 **Translation:** 
 
-**[101.76s] English:** اس میں کچھ تو بات ہے  
+**[101.76s] English:** There is something to talk about.  
 **Translation:** 
 
-**[103.40s] English:** ہاں میرے حساب سے لوگ جس طرح سے زندگی جیتے ہیں وہ بھی ایک آرٹ ہے  
+**[103.40s] English:** Yes, the way people live their lives from my account is also an art.  
 **Translation:** 
 
-**[108.30s] English:** میں نے اپنے دوست کیمرن ہنس کی کتاب کے لیے فورورڈ لکھا تھا  
+**[108.30s] English:** I had written a forward for Cameron Huns' book for my friend.  
 **Translation:** 
 
-**[112.34s] English:** اور وہ اب دنیا کی نمبر ون آудиو بک بن گئی ہے  
-**Translation:** 
+**[112.34s] English:** And he has become the number one audio book in the world.  
+**Translation:** Vocabulary: cameron: 卡梅隆
 
-**[115.60s] English:** اور میں نے اس میں یہ بھی لکھا کہ وہ ایک ایسی آرٹ میں ماہر ہیں  
+**[115.60s] English:** Or I have also written that they are experts in such art.  
 **Translation:** 
 
-**[120.00s] English:** जिसे बहुत कम लोग समझ पाते हैं  
+**[120.00s] English:** Jise bahut kam log samajh paye hain.  
 **Translation:** 
 
-**[122.78s] English:** वो maximized life की art है  
+**[122.78s] English:** It is the art of maximizing life.  
 **Translation:** 
 
-**[124.86s] English:** और वो  
-**Translation:** Vocabulary: maximized: 最大化
+**[124.86s] English:** And they  
+**Translation:** Vocabulary: maximizing: 最大化
 
-**[126.22s] English:** वो discipline जो वो अपनी life में  
+**[126.22s] English:** She needs discipline in her life,  
 **Translation:** 
 
-**[129.16s] English:** और अपनी practices में दिखाते हैं  
-**Translation:** 
+**[129.16s] English:** And they show their practices in doing so.  
+**Translation:** Vocabulary: discipline: 自律
 
-**[131.24s] English:** और जो कुछ भी वो करते हैं उसमें नजर आता है  
+**[131.24s] English:** And whatever they do, there is something to notice.  
 **Translation:** 
 
-**[133.62s] English:** वो जैसे जीते हैं  
+**[133.62s] English:** They win like that.  
 **Translation:** 
 
-**[136.14s] English:** वैसे जीना हद से ज्यादा मुश्किल है  
+**[136.14s] English:** It's very difficult to bear at times.  
 **Translation:** 
 
-**[138.36s] English:** मेरे जैसे इंसान के लिए  
+**[138.36s] English:** For someone like me,  
 **Translation:** 
 
-**[140.54s] English:** जो इसे समझता है कि वो क्या कर रहे हैं  
+**[140.54s] English:** Who understands what they are doing?  
 **Translation:** 
 
-**[142.78s] English:** और उनकी मेहनत को appreciate करता है  
+**[142.78s] English:** And he appreciates their hard work.  
 **Translation:** 
 
-**[144.56s] English:** और जो समझता है कि  
+**[144.56s] English:** And whoever understands that,  
 **Translation:** 
 
-**[146.68s] English:** एक full time job करना, ultra marathons  
-**Translation:** Vocabulary: marathons: 马拉松; ultra: 超长距离
+**[146.68s] English:** To keep, a full-time job, ultra marathons.  
+**Translation:** Vocabulary: marathons: 马拉松; ultra: 超长距离的
 
-**[148.92s] English:** run करना, सुबह 4 बजे  
+**[148.92s] English:** Run, at 4 a.m. in the morning.  
 **Translation:** 
 
-**[150.80s] English:** उठकर काम से पहले एक full marathon  
-**Translation:** 
+**[150.80s] English:** Get up before work for a full marathon.  
+**Translation:** Vocabulary: marathon: 长跑比赛
 
-**[152.64s] English:** दौड लेना, ये सब करना कोई  
+**[152.64s] English:** To run a race, you have to do all of these things.  
 **Translation:** 
 
-**[154.60s] English:** छोटी बात नहीं है  
+**[154.60s] English:** It is not a small matter.  
 **Translation:** 
 
-**[155.54s] English:** मतलब यही वो चीज़े हैं  
+**[155.54s] English:** Meaning, these are the very things.  
 **Translation:** 
 
-**[158.50s] English:** जो वो करते हैं जब वो  
+**[158.50s] English:** What they do when they  
 **Translation:** 
 
-**[159.86s] English:** 240 मील की दौड के लिए  
+**[159.86s] English:** For a 240-mile race  
 **Translation:** 
 
-**[162.34s] English:** training कर रहे होते हैं  
+**[162.34s] English:** Training, they are keeping up with it.  
 **Translation:** 
 
-**[164.88s] English:** और साथ ही साथ  
+**[164.88s] English:** And at the same time  
 **Translation:** 
 
-**[166.06s] English:** एक पिता पती की  
+**[166.06s] English:** A father for a husband,  
 **Translation:** 
 
-**[168.64s] English:** जिम्मेदारी भी निभाना  
+**[168.64s] English:** To fulfill the responsibility  
 **Translation:** 
 
-**[169.72s] English:** full time job के साथ साथ दुनिया का  
-**Translation:** 
+**[169.72s] English:** Full-time job, alongside the world of  
+**Translation:** Vocabulary: fulfill: 履行
 
-**[172.24s] English:** best bow hunter भी होना  
+**[172.24s] English:** Best bowhunter 也要成为  
 **Translation:** 
 
-**[173.62s] English:** weight lifting भी करना  
-**Translation:** 
+**[173.62s] English:** Weightlifting also to do.  
+**Translation:** Vocabulary: weightlifting: 举重
 
-**[175.52s] English:** कोई इतना कैसे कर सकता है  
+**[175.52s] English:** How can anyone do that?  
 **Translation:** 
 
-**[178.04s] English:** तो एक तरह से discipline भी एक art है  
+**[178.04s] English:** So, in a way, discipline is also an art.  
 **Translation:** 
 
-**[180.14s] English:** हाँ discipline भी एक art है बिल्कुल  
+**[180.14s] English:** Yes, discipline is also an art, completely.  
 **Translation:** 
 
-**[182.38s] English:** क्योंकि उसे देख कर बहुत अच्छा लगता है  
+**[182.38s] English:** Because it looks very good to him.  
 **Translation:** 
 
-**[184.70s] English:** जब मैं किसी ऐसे इंसान को देखता हूँ  
+**[184.70s] English:** When I see someone like that,  
 **Translation:** 
 
-**[186.84s] English:** जो सचमुच disciplined है जैसे David Goggins  
-**Translation:** Vocabulary: disciplined: 有纪律的
+**[186.84s] English:** Those who are truly disciplined, like David Goggins.  
+**Translation:** Vocabulary: disciplined: 自律
 
-**[189.10s] English:** जो अपने grind को  
+**[189.10s] English:** Which one of its grind does it keep?  
 **Translation:** 
 
-**[190.92s] English:** maximize करता है तो मुझे लगता है  
-**Translation:** Vocabulary: grind: 磨练; maximize: 最大化
+**[190.92s] English:** Maximizes, I think.  
+**Translation:** Vocabulary: grind: 研磨; maximizes: 最大化
 
-**[192.72s] English:** कि इसमें भी एक art है  
+**[192.72s] English:** In this too, there is an art.  
 **Translation:** 
 
-**[193.90s] English:** और kindness में भी एक art होती है  
+**[193.90s] English:** And there is also an art in kindness.  
 **Translation:** 
 
-**[196.44s] English:** कुछ लोग बहुत kind और प्यारे होते हैं  
+**[196.44s] English:** Some people are very kind and loving.  
 **Translation:** 
 
-**[198.44s] English:** उनके आसपास रहकर बहुत अच्छा लगता है  
+**[198.44s] English:** It feels very good to stay around them.  
 **Translation:** 
 
-**[200.00s] English:** उनमें एक अलग ही art होती है  
+**[200.00s] English:** They have a different kind of art as well.  
 **Translation:** 
 
-**[201.54s] English:** चाहे कुछ भी हो  
+**[201.54s] English:** No matter what happens.  
 **Translation:** 
 
-**[202.76s] English:** तो दुनिया से आप कितने भी परिशान हो  
+**[202.76s] English:** So, how upset are you with the world?  
 **Translation:** 
 
-**[205.26s] English:** लेकिन उस सब को जेलते हुए फिर भी आप  
+**[205.26s] English:** But even after keeping all that in jail, you  
 **Translation:** 
 
-**[207.30s] English:** कुछ लोग इसमें बहुत अच्छे होते हैं  
+**[207.30s] English:** Some people are very good at it.  
 **Translation:** 
 
-**[209.52s] English:** और ये एक ऐसी चीज है  
+**[209.52s] English:** And this is a thing.  
 **Translation:** 
 
-**[211.46s] English:** जिसे आप सीखते हैं  
+**[211.46s] English:** The one you are learning.  
 **Translation:** 
 
-**[213.56s] English:** और ये देखने में भी अच्छा लगता है  
+**[213.56s] English:** And it's also nice to see.  
 **Translation:** 
 
-**[215.48s] English:** और मुझे लगता है कि यही असल art है  
+**[215.48s] English:** And I think this is the real art.  
 **Translation:** 
 
-**[218.08s] English:** बुकोवस्की ने शायद यह भी कहा था  
+**[218.08s] English:** Bukovski apparently also said that.  
 **Translation:** 
 
-**[220.40s] English:** आज तो मैं  
+**[220.40s] English:** Today, I too.  
 **Translation:** 
 
-**[222.62s] English:** बुकोवस्की के quotes की machine बन गया हूँ  
-**Translation:** 
+**[222.62s] English:** Bukovski's quotes have made me a machine.  
+**Translation:** Vocabulary: quotes: 引用
 
-**[224.40s] English:** अच्छे लगते हैं  
+**[224.40s] English:** They feel good.  
 **Translation:** 
 
-**[225.22s] English:** मुझे भी लगते हैं  
+**[225.22s] English:** It also seems to me.  
 **Translation:** 
 
-**[227.10s] English:** Hunter S. Thompson की तरह अजीब और गरीब हैं  
+**[227.10s] English:** Hunter S. Thompson and are strange and poor like him.  
 **Translation:** 
 
-**[229.18s] English:** थोड़े dark थोड़े troubled पर बहुत interesting  
+**[229.18s] English:** A few dark, troubled ones, but very interesting.  
 **Translation:** 
 
-**[231.12s] English:** उन्होंने कहा  
+**[231.12s] English:** He said.  
 **Translation:** 
 
-**[232.28s] English:** सबसे ज्यादा मायने ये रखता है  
+**[232.28s] English:** This has the most meaning.  
 **Translation:** 
 
-**[234.06s] English:** कि आप मुश्किलों से कैसे गुजरते हैं  
+**[234.06s] English:** How do you pass through difficulties?  
 **Translation:** 
 
-**[236.70s] English:** इसमें थोड़ा सा Ken Haynes का असर भी है  
-**Translation:** 
+**[236.70s] English:** This segment also has a slight influence from Ken Haynes.  
+**Translation:** Vocabulary: segment: 部分; slight: 轻微
 
-**[238.42s] English:** और थोड़ा सा David Goggins का  
+**[238.42s] English:** And a little bit of David Goggins's  
 **Translation:** 
 
-**[240.00s] English:** आपके हिसाब से इनका क्या मतलब है  
+**[240.00s] English:** What does this mean according to your account?  
 **Translation:** 
 
-**[242.58s] English:** देखिए मुश्किलों से गुजरने का तरीका माइने रखता है  
+**[242.58s] English:** See, I have a way to pass through difficulties.  
 **Translation:** 
 
-**[246.76s] English:** आप रास्ते भर शिकायत करते हुए भी गुजर सकते हैं  
+**[246.76s] English:** You can pass on the road complaining all the way.  
 **Translation:** 
 
-**[250.12s] English:** या फिर आप इस तरह गुजर सकते हैं कि दूसरों के लिए एक मिसाल बन जाए  
+**[250.12s] English:** You can then pass through in such a way that you become an example for others.  
 **Translation:** 
 
-**[254.34s] English:** ताकि उनकी अपनी जिन्दगी की परेशानिया उन्हें छोटी लगने लगें  
+**[254.34s] English:** So that their life's troubles will seem smaller to them  
 **Translation:** 
 
-**[259.64s] English:** क्योंकि वो खुद की तुलना आप से कर रहे होंगे  
+**[259.64s] English:** Because they will be comparing themselves to you.  
 **Translation:** 
 
-**[262.14s] English:** या फिर आप चीजों को इतनी खुबसूरती और डिसिप्लिन से हैंडल करें  
-**Translation:** 
+**[262.14s] English:** This is why you should handle things with such beauty and discipline.  
+**Translation:** Vocabulary: discipline: 规矩
 
-**[267.76s] English:** कि दूसरे लोग सीख जाए कि वो भी अपनी जिन्दगी को ऐसे ही हैंडल कर सकते हैं  
+**[267.76s] English:** So that other people can learn to handle their lives in the same way.  
 **Translation:** 
 
-**[272.18s] English:** और इसमें एक खुबसूरती है और दूसरे लोगों से बहुत बहुत इंस्पिरेशन ली जा सकती है  
+**[272.18s] English:** And there is a beauty in it, and it can be greatly inspired from others.  
 **Translation:** 
 
-**[279.58s] English:** अगर आप चैरिटबल इंसान हैं अगर आप काइंड और कमपैशिनेट हैं  
+**[279.58s] English:** If you are a charitable person, if you are kind and compassionate.  
 **Translation:** 
 
-**[284.42s] English:** तो आप लोगों को समझ सकते हैं यहां तक कि उन लोगों को भी जिन्हें आप पसंद नहीं करते  
-**Translation:** 
+**[284.42s] English:** So you can understand this even for those people that you don't like.  
+**Translation:** Vocabulary: charitable: 乐于助人的; compassionate: 同情的
 
-**[291.68s] English:** मैं उनकी जिन्दगी के अच्छे पहलूओं को देखने की कोशिश करता हूँ उन्हें सराहता हूँ उन्हें क्रेडिट देता हूँ  
+**[291.68s] English:** I try to see the good parts of their life, I praise them, and I give them credit.  
 **Translation:** 
 
-**[299.54s] English:** दूसरे लोग अपनी जिन्दगी कैसे जीते हैं ये देखकर हम सब कुछ न कुछ सीख सकते हैं  
+**[299.54s] English:** How the other people live their lives, we can learn something from that.  
 **Translation:** 
 
-**[305.64s] English:** मैंने आपको भी मुश्किलों से गुजरते देखा है प्राइविटली और पब्लिकली दोनों तरह से  
+**[305.64s] English:** I have seen you go through difficulties both privately and publicly.  
 **Translation:** 
 
-**[310.34s] English:** इस साल जनवरी में जो हुआ मुझे इसके बारे में पूछना हुआ कैंसल कल्चर और इन सब चीजों के बारे में तो बातें होती रहती हैं  
-**Translation:** 
+**[310.34s] English:** This year in January, what happened is that I was asked about cancel culture and these kinds of things kept coming up.  
+**Translation:** Vocabulary: privately: 私下里
 
-**[319.66s] English:** लेकिन एक इंसान होने के नाते ये मेरे लिए बहुत दिल्चस्प है  
+**[319.66s] English:** But for me, being human is very exciting.  
 **Translation:** 
 
-**[323.46s] English:** कुछ हद तक एनवर्ड हाइलाइट वीडियो है अलग-अलग महमानों की क्रिटिसिजम है  
-**Translation:** 
+**[323.46s] English:** Some extent, EndNote Highlight Video has different critiques from various guests.  
+**Translation:** Vocabulary: critiques: 评论; highlight: 强调
 
-**[328.38s] English:** और कोविट पैंडेमिक पर जो भी अलग-अलग ओपिनियन्स हैं वो भी  
+**[328.38s] English:** And whatever different opinions there are about the Covit pandemic, they also exist.  
 **Translation:** 
 
-**[333.04s] English:** और आप, मतलब आप पर तो चारों तरफ से हमला हो रहा था  
-**Translation:** 
+**[333.04s] English:** And you, meaning you were under attack from all sides.  
+**Translation:** Vocabulary: pandemic: 流行病
 
-**[339.48s] English:** एक पब्लिक फिगर होने के अलावा, एक कॉमेडियन और पॉडकास्टर होने के अलावा  
+**[339.48s] English:** In addition to being a public figure and a comedian, he is also a podcaster.  
 **Translation:** 
 
-**[345.10s] English:** आप एक इंसान भी हैं, तो आपने इनका सामना कैसे किया?  
-**Translation:** 
+**[345.10s] English:** Do you being a human have to face them how did you handle it?  
+**Translation:** Vocabulary: podcaster: 播客
 
-**[349.32s] English:** मतलब आप इतनी सारी मुश्किलों से कैसे गुजरे?  
+**[349.32s] English:** What did you manage to go through so many difficulties?  
 **Translation:** 
 
-**[360.00s] English:** एक तरीका जो आजमाया  
+**[360.00s] English:** A way that can be tested.  
 **Translation:** 
 
-**[362.30s] English:** अच्छा  
+**[362.30s] English:** Good.  
 **Translation:** 
 
-**[363.08s] English:** वाकई  
+**[363.08s] English:** Well  
 **Translation:** 
 
-**[363.58s] English:** जैसे एंड्रिय हूबर मैन कहते हैं  
+**[363.58s] English:** As Andrew Huberman says  
 **Translation:** 
 
-**[365.58s] English:** आपका प्रोटोकॉल क्या था  
+**[365.58s] English:** What was your protocol?  
 **Translation:** 
 
-**[367.00s] English:** मैंने  
+**[367.00s] English:** I have  
 **Translation:** 
 
-**[368.20s] English:** हर दिन लगभगे एक ग्राम से कम लिया  
+**[368.20s] English:** Every day we take in almost one gram or less.  
 **Translation:** 
 
-**[371.74s] English:** हर दिन  
+**[371.74s] English:** Every day  
 **Translation:** 
 
-**[372.70s] English:** हाँ  
+**[372.70s] English:** Yes.  
 **Translation:** 
 
-**[373.34s] English:** और  
+**[373.34s] English:** And  
 **Translation:** 
 
-**[374.22s] English:** और मैंने  
+**[374.22s] English:** And I have  
 **Translation:** 
 
-**[377.66s] English:** बहुत मेहनत से कसरत की  
+**[377.66s] English:** Very hard work was put into it.  
 **Translation:** 
 
-**[379.28s] English:** लेकिन साथ ही  
+**[379.28s] English:** But also  
 **Translation:** 
 
-**[381.40s] English:** मेरा मतलब  
+**[381.40s] English:** My meaning  
 **Translation:** 
 
-**[383.50s] English:** मुश्किल हालात से  
+**[383.50s] English:** Difficult times.  
 **Translation:** 
 
-**[385.88s] English:** गुजरने का अपना एक बड़ा फायदा होता है  
+**[385.88s] English:** There is a big advantage in moving on.  
 **Translation:** 
 
-**[388.06s] English:** और अगर आपको  
+**[388.06s] English:** And if you need more information,  
 **Translation:** 
 
-**[390.38s] English:** पहले से पता है कि  
+**[390.38s] English:** We already know that  
 **Translation:** 
 
-**[391.78s] English:** कोई बहुत बड़ी  
+**[391.78s] English:** Koie bahut badi.  
 **Translation:** 
 
-**[392.76s] English:** प्रॉबलम आने वाली है जिससे आप  
+**[392.76s] English:** Problem will come from which you will be affected.  
 **Translation:** 
 
-**[395.88s] English:** बुरी तरह परेशान  
-**Translation:** 
+**[395.88s] English:** Buri tarah paréshán.  
+**Translation:** Vocabulary: tarah: 种类
 
-**[398.18s] English:** हो सकते हैं  
+**[398.18s] English:** They might be.  
 **Translation:** 
 
-**[399.78s] English:** उससे आपको ग्रो करने का मौका  
+**[399.78s] English:** From you, I get a chance to grow.  
 **Translation:** 
 
-**[401.78s] English:** भी मिलता है प्रेशर में  
+**[401.78s] English:** It also occurs under pressure.  
 **Translation:** 
 
-**[403.52s] English:** खुद को एक्सप्रेस करने का मौका मिलता है  
+**[403.52s] English:** The opportunity to express yourself comes up.  
 **Translation:** 
 
-**[405.58s] English:** अपना कैरेक्टर दिखाने का  
+**[405.58s] English:** To display my character,  
 **Translation:** 
 
-**[407.64s] English:** मौका मिलता है ये दिखाने का  
+**[407.64s] English:** The opportunity comes to show up.  
 **Translation:** 
 
-**[409.52s] English:** कि आप सचमुच क्या हो और ये भी  
+**[409.52s] English:** What are you really, and this too.  
 **Translation:** 
 
-**[411.46s] English:** देखने का मौका मिलता है कि आप  
+**[411.46s] English:** The opportunity to see comes when you  
 **Translation:** 
 
-**[413.38s] English:** मुश्किल सिचुएशन को कैसे हैंडल करते हैं  
+**[413.38s] English:** How do we handle difficult situations?  
 **Translation:** 
 
-**[415.52s] English:** और ये मीडिया में काम करने वाले इंसान के तौर पर देखना बहुत दिल्चस्प था  
-**Translation:** 
+**[415.52s] English:** And seeing it from the perspective of a person who works in media was very intriguing.  
+**Translation:** Vocabulary: intriguing: 引人入胜
 
-**[422.78s] English:** क्योंकि जो हम अभी कर रहे हैं वो मीडिया ही है भले ही पॉडकास्ट जैसा लगता है  
+**[422.78s] English:** Because what we are doing here is media, even though it may seem like a podcast.  
 **Translation:** 
 
-**[428.54s] English:** जैसे हम बस एक कॉंवर्सेशन कर रहे हैं और असल में वो है भी  
+**[428.54s] English:** Like we are having a conversation and in fact, it is also the same.  
 **Translation:** 
 
-**[432.46s] English:** इसी तरह ये मीडिया का सबसे प्यूरिस्ट फॉर्म माना जा सकता है  
+**[432.46s] English:** This can be considered the purest form of media.  
 **Translation:** 
 
-**[437.02s] English:** क्योंकि जो कुछ भी तुम कर रहे हो वो तुम इसे बिना किसी शोर शराबे के कर रहे हो  
-**Translation:** 
+**[437.02s] English:** Because whatever you are doing, you are doing it without any alcohol.  
+**Translation:** Vocabulary: purest: 最纯粹的
 
-**[444.08s] English:** और तुम इसे बिना किसी के कोई भी एक्जिक्यूटिव्स तुम्हारे उपर नहीं है  
+**[444.08s] English:** And you have no executives above you without anyone else's knowledge.  
 **Translation:** 
 
-**[449.12s] English:** या network या फिर ratings के बारे में बड़े meetings नहीं हो रहे हैं लेकिन ये media है लेकिन मुझे ये देखने का मौका मिला कि बाकी media मुझे कैसे खत्म करने की कोशिश कर रहा है और आप जानते हैं CNN वाले बार बार एक ही चीज दिखा रहे थे जिसे देखकर हैरानी हो रही थी और लोगों  
-**Translation:** 
+**[449.12s] English:** This network, or rather, meetings about ratings are not happening as before. But this is media. And I got a chance to see how the rest of the media is trying to end it, and you know, CNN kept showing the same thing over and over again, which was fascinating to watch, and the people...  
+**Translation:** Vocabulary: executives: 高层管理者
 
-**[479.12s] English:** बढ़ गए थे  
+**[479.12s] English:** Increased.  
 **Translation:** 
 
-**[480.00s] English:** मतलब podcast और भी बड़ा होता गया बड़ता ही गया  
+**[480.00s] English:** The podcast became bigger and bigger, constantly growing.  
 **Translation:** 
 
-**[484.32s] English:** और controversy के आखिर में पहले से भी ज्यादा बड़ा हो गया था  
+**[484.32s] English:** And the controversy had become even bigger than before.  
 **Translation:** 
 
-**[488.24s] English:** उससे बड़ा हो गया  
-**Translation:** 
+**[488.24s] English:** He has grown bigger than her.  
+**Translation:** Vocabulary: controversy: 争议
 
-**[490.54s] English:** और आखिर में अगर आपसे पहले कभी कोई गलती हुई है  
+**[490.54s] English:** And at the end, if anyone has made a mistake before you.  
 **Translation:** 
 
-**[495.82s] English:** या आपने कुछ गलत किया है  
+**[495.82s] English:** You have done something wrong.  
 **Translation:** 
 
-**[497.86s] English:** तो ये आपको उन चीज़ों के बारे में बात करने का  
+**[497.86s] English:** So these will allow you to talk about those things.  
 **Translation:** 
 
-**[502.32s] English:** और अगर जरूरत हो तो माफी मांगने का भी मौका देता है  
+**[502.32s] English:** And if necessary, he also gives an opportunity to ask for forgiveness.  
 **Translation:** 
 
-**[505.64s] English:** और उस चीज़ को address करने का भी  
+**[505.64s] English:** And also to address that thing as well.  
 **Translation:** 
 
-**[508.50s] English:** ऐसे pressure में रहने वाले लोगों के लिए ये एक मौका होता है  
+**[508.50s] English:** For those who live under such pressure, this is an opportunity.  
 **Translation:** 
 
-**[512.42s] English:** है यह समझने का कि आप चीजों के बारे में कैसे सोचते हैं सच में आप चीजों के बारे में कैसे सोचते  
+**[512.42s] English:** Is this an attempt to understand how you think about things? In truth, how do you think about things?  
 **Translation:** 
 
-**[518.84s] English:** हैं और जब कोई इंसान बहुत ज्यादा प्रेशर में होता है तभी उसकी सच्चाई सामने आती है मेरा मतलब अगर  
+**[518.84s] English:** When someone is under a lot of pressure, the truth comes out. My point is, if  
 **Translation:** 
 
-**[526.40s] English:** से सोचा जाए ये कहना बुरा लगता है कि जो हुआ वो अच्छा हुआ लेकिन हाँ इसका एक फायदा जरूर था लेकिन इससे कोई टूट भी सकता है मुझे चोटी चोटी चीजों का एक्सपीरियंस करने का मौका मिला है इधर उधर चोटे मोटे हमले जो की चीजों की गहर  
+**[526.40s] English:** It's often thought that saying what happened was good, even though it wasn't, has its benefits. But, there is a downside too. It gave me the opportunity to experience one thing after another. Here and there, bumps and bruises from which I learned valuable lessons.  
 **Translation:** 
 
-**[556.40s] English:** नहीं करते हां और आपके बारे में बातें कर रहे हैं यह शायद किसी वजह से मुझे अंदर तक चुबता है  
-**Translation:** 
+**[556.40s] English:** No, and I'm talking about you. It's somehow tickling me inside.  
+**Translation:** Vocabulary: bruises: 伤痕; downside: 缺点; tickling: 痒感
 
-**[564.12s] English:** समझ नहीं आता क्यों बस मेरी अपनी साइकॉलोजी है क्योंकि आप अपना बचाव नहीं कर सकते वह कुछ कर रहे होते  
+**[564.12s] English:** I don't understand why just because my psychology is like this, since you can't save yourself, you must be doing something.  
 **Translation:** 
 
-**[571.52s] English:** हैं और आप उस चर्चा में शामिल नहीं होते और बात का जवाब देने का मौका नहीं होता और अगर जवाब भी देना  
+**[571.52s] English:** He and you are not included in that discussion and have no opportunity to respond, and if a response is given,  
 **Translation:** 
 
-**[577.64s] English:** चाहो तो पब्लिकली देना पड़ता है और फिर पूरी दुनिया उस पर बोलती है और लोगों की नेगेटिविटी फैलाने की  
+**[577.64s] English:** Do you want to publish and then the entire world talks about it, spreading negativity among people?  
 **Translation:** 
 
-**[584.42s] English:** है एक आदत सी होती है जब वह ऑनलाइन किसी अंजान से बात कर रहे होते हैं खासकर किसी विवादित विषय पर और अगर  
-**Translation:** 
+**[584.42s] English:** It is a habit to have when they are online chatting with an unknown person, especially on controversial topics, and if  
+**Translation:** Vocabulary: negativity: 消极影响
 
-**[593.90s] English:** 10 प्रतिशत लोग भी ऐसे हो 10 में से एक तो भी वह बहुत होते हैं इसलिए नेगेटिविटी बढ़ जाती है जब आपको हजार  
+**[593.90s] English:** 10 percent of people are like that. Out of 10, at least one is very negative, so negativity increases when you deal with thousands.  
 **Translation:** 
 
-**[600.00s] English:** सारों ट्वीट का सामना करना पड़ता है और मुझे लगता है शायद मैं बहुत सेल्फ क्रिटिकल हूं लेकिन जब  
-**Translation:** 
+**[600.00s] English:** Sarons has to face tweets, and I think maybe I am quite self-critical. But when  
+**Translation:** Vocabulary: tweets: 推特帖子
 
-**[608.28s] English:** लोग ऐसा कहते हैं तो कहीं ना कहीं मुझे उनकी बातों में सच्चाई दिखाई देती है और इसलिए बुरा लगता है लेकिन  
+**[608.28s] English:** People say such things, and somewhere in their words, I see the truth, which makes it seem bad, but  
 **Translation:** 
 
-**[617.16s] English:** लेकिन यह तुम्हारा सिर्फ एक पहलू है लेकिन जब आप इसे पढ़ रहे होते हैं तो सब कुछ एक ही बात पर सिमट जाता है  
-**Translation:** 
+**[617.16s] English:** But this is just one aspect; but when you are reading it, everything seems to converge on one single point.  
+**Translation:** Vocabulary: converge: 汇聚
 
-**[625.50s] English:** जैसे कि बस वह एक ही बात आपको पूरी तरह से डिफाइन करती हो जैसे अगर आपने कोई गलती की है कुछ ऐसा कहा  
+**[625.50s] English:** Like when you define a single thing completely, as if you have made some mistake by saying something wrong.  
 **Translation:** 
 
-**[635.26s] English:** है जो नहीं कहना चाहिए था या कुछ ऐसा कहा है जिसे कहते वक्त शायद आपको स्थिति की गंभीरता को थोड़ा और ध्यान  
+**[635.26s] English:** It is what should not have been said, or something that was said which perhaps at the time did not give due attention to the seriousness of the situation.  
 **Translation:** 
 
-**[642.90s] English:** को सोचना चाहिए था देखिए यह इंसान होने का ही एक हिस्सा है लेकिन यह भी इंसान होने का हिस्सा है जहां  
+**[642.90s] English:** One should think about it; seeing this is a part of being human, but it is also a part of being human where  
 **Translation:** 
 
-**[649.74s] English:** आप चीजों को पब्लिकली कम्यूनिकेट करते हैं और अपनी सोच सबके सामने रख रहे होते हैं यह काफी कॉंप्लेक्स है  
+**[649.74s] English:** You communicate things publicly and expose your thoughts to everyone, which is quite complex.  
 **Translation:** 
 
-**[656.94s] English:** और ज्यादा तर लोग ये काम नहीं करते और फिर कुछ लोगों के hot text भी आते हैं  
+**[656.94s] English:** And generally, people don't do this work, and then some hot texts also appear.  
 **Translation:** 
 
-**[662.50s] English:** जो तुम्हारी बात सुनकर कहते हैं ये क्या बकवास है इस बेवकूफ को कुछ पता ही नहीं है  
+**[662.50s] English:** Those who say your words are nonsense have no clue what they're talking about.  
 **Translation:** 
 
-**[668.96s] English:** ये यूक्रेइन में रहता भी नहीं है ये ऐसा नहीं है वैसा नहीं है  
+**[668.96s] English:** These do not live in Ukraine either. This is not that.  
 **Translation:** 
 
-**[673.54s] English:** ऐसे लोग हमेशा होंगे जो उस पर अपनी राय इस तरह से रखेंगे और फिर कुछ ऐसे लोग भी होते हैं जो किसी भी controversial topic का इस्तिमाल अपने लिए clicks और views बटोरने के लिए करते हैं  
+**[673.54s] English:** There will always be people who express their opinion on any matter, and there are also people who use any controversial topic for gaining clicks and views.  
 **Translation:** 
 
-**[686.60s] English:** लेकिन उन लोगों की संख्या काफी बड़ी हो सकती है  
+**[686.60s] English:** But the number of those people could be quite large.  
 **Translation:** 
 
-**[689.10s] English:** काफी बड़ी  
+**[689.10s] English:** Quite big.  
 **Translation:** 
 
-**[690.54s] English:** तो क्या ये किसी इंसान को तोड़ सकता है क्योंकि मुझे इस बारे में थोड़ी चिंता होती है और आप कई माइनों में खासकर इस मामले में एक inspiration है क्योंकि ऐसा नहीं लगा कि इससे आप तूट जाएंगे आप तो अपना काम करते रहे  
+**[690.54s] English:** So, can it hurt a person because I am a bit worried about this, and you are, after all, in many mines, especially in this case, an inspiration because it doesn't seem likely that you will be hurt. You just keep doing your work.  
 **Translation:** 
 
-**[702.96s] English:** मैं shows करता रहा stand up करता रहा और मैंने सब कुछ ignore कर दिया मैंने कुछ भी नहीं पढ़ा तो ये संभव है कि आप बिलकुल है हाँ हाँ मैंने सब ignore कर दिया पता था कि बोला जा रहा है आपके परिवार ने कुछ नहीं बोला मेरा परिवार तो बहुत उन्हें इस बारे में प  
+**[702.96s] English:** I kept standing up and ignored everything. I hadn't read anything, so it's possible you didn't hear a thing. Yes, yes, I had ignored everything, knowing full well that no one in your family was speaking. My family did talk about it, though.  
 **Translation:** 
 
-**[720.00s] English:** था मेरी पत्नी को पता था बातचीत कैसी रही आपकी पत्नी को इस बारे में पता था तो क्या कोई रूल है ऐसा  
+**[720.00s] English:** Was my wife aware of how the conversation went? If your wife was aware this time, is there any rule against it?  
 **Translation:** 
 
-**[725.82s] English:** तो नहीं है कि आप यह दिखावा करते हैं कि कुछ हुआ ही नहीं मैं उससे कहता हूं टैबलॉइड मत पड़ो मैं उसे  
-**Translation:** 
+**[725.82s] English:** So, there is no point in showing me that nothing happened. I won't fall for tabloid tricks.  
+**Translation:** Vocabulary: tabloid: 小报
 
-**[733.20s] English:** कभी भी मेरे बारे में नेगेटिव आर्टिकल नहीं पढ़ने देता मुझे वह नहीं चाहिए मुझे परवाह नहीं है मैं  
+**[733.20s] English:** I have never read a negative article about me. I don't care, and I'm fine.  
 **Translation:** 
 
-**[739.08s] English:** कहता हूं यह तो बस किसी की राय है किसी की राय को लिख देने से उसे ज्यादा महत्व नहीं मिल जाता वह चुपचाब  
+**[739.08s] English:** I say this is just someone's opinion, and writing it down doesn't give it any more importance. Keep quiet.  
 **Translation:** 
 
-**[744.96s] English:** अपनी राय रख सकते थे, दोस्तों के साथ चाय पीते हुए, उन्हें मैं पसंद नहीं हूँ, कोई बात नहीं, मैं यह सब पढ़ना नहीं चाता, इसे absorb नहीं करना चाता, मैं उन्हें जानता तक नहीं,  
+**[744.96s] English:** You could have shared your opinion while sipping tea with friends. I don't like them, there's nothing to say, I don't want to read all of this, I don't want to absorb it, I don't know them well enough,  
 **Translation:** 
 
-**[752.82s] English:** खासकर अगर मैं वहाँ मौजूद नहीं हूँ और खासकर अगर ये किसी तरह का biased opinion है  
-**Translation:** 
+**[752.82s] English:** especially if I am not there and especially if this is any kind of biased opinion  
+**Translation:** Vocabulary: biased: 有偏见的; sipping: 小口喝
 
-**[758.06s] English:** मेरे बारे में कोई objective राय नहीं है ये मतलब उनके पास एक narrative होता है  
+**[758.06s] English:** There is no objective opinion about me; this means they have a narrative.  
 **Translation:** 
 
-**[764.82s] English:** और वो उसी पर अड़े रहते हैं एक article लिखते हैं सब कुछ जोड़ तोड़ कर आपको बुरा दिखाते हैं  
-**Translation:** 
+**[764.82s] English:** And they keep dwelling on it, writing an article and messing everything up by adding or removing things to make it look bad for you.  
+**Translation:** Vocabulary: dwelling: 居住; messing: 搞乱
 
-**[770.40s] English:** हाँ वो ऐसा कर सकते हैं उन्हें पूरी आजादी है लेकिन मुझे ये सब सुनने और पढ़ने की ज़रूरत नहीं है  
+**[770.40s] English:** Yes, they can do that. They have the full freedom to do so. But I don't need to hear or read all of this.  
 **Translation:** 
 
-**[775.98s] English:** आपको पूरी दुनिया की राय लेने की ज़रूरत नहीं है  
+**[775.98s] English:** You do not need to get the opinion of the entire world.  
 **Translation:** 
 
-**[780.10s] English:** हाँ आपको उन छोटे ग्रूप्स की opinions पर ध्यान देना चाहिए जिन से आप interact करते हैं ताकि आप समझ सकें कि आप उन्हें कैसा feel कराते हैं  
+**[780.10s] English:** Yes, you should pay attention to the opinions of those small groups that you interact with so that you can understand how you make them feel.  
 **Translation:** 
 
-**[790.70s] English:** फिर आप खुद से कह सकते हैं शायद मैं ज्यादा rude हूँ या शायद मैं insensitive हूँ या शायद मैं इस चीज में या उस चीज में बहतर कर सकता हूँ  
+**[790.70s] English:** Then you can say to yourself, perhaps I am too rude, or perhaps I am insensitive, or perhaps I could do better with this thing or that thing.  
 **Translation:** Vocabulary: insensitive: 不敏感
 
-**[801.22s] English:** ऐसे ही हम अपनी personality बनाते हैं और अपने social skills develop करते हैं  
+**[801.22s] English:** We create our personalities and develop our social skills in this way.  
 **Translation:** 
 
-**[806.74s] English:** लेकिन जब लोग आपको जानते नहीं हैं और उनके पास आपके बारे में गलत जानकारी है और लाखों लोग हैं इतने सारे लोग आप उन्हें बोलने से रोक ही नहीं सकते हैं  
+**[806.74s] English:** But when people don't know you and they have wrong information about you, and there are millions of people who can't stop so many from speaking about you.  
 **Translation:** 
 
-**[817.76s] English:** मुझे लगता है कि आप करोडो हैं  
+**[817.76s] English:** I think you are crores.  
 **Translation:** 
 
-**[819.40s] English:** मतलब लाखों लोग किसी चीज के बारे में बात कर रहे हैं, जैसे जब मुझे cancel करने की कोशिश हो रही थी, या जो भी हो रहा था, तो मुझे नहीं पता उसमें कितने लोग शामिल थे.  
+**[819.40s] English:** Meaning thousands of people were talking about something, like when I was trying to cancel something or whatever was happening, I had no idea how many people were involved.  
+**Translation:** Vocabulary: crores: 千万人
+
+**[829.78s] English:** People take these things seriously, but the problem is that wrong information spreads, then meetings are held, groups form, and  
 **Translation:** 
 
-**[829.78s] English:** लोग इस तरह की चीजों को seriously लेते हैं, लेकिन problem ये है कि गलत बातें फैल जाती हैं, फिर meetings होती हैं, groups बनते हैं और  
+**[840.00s] English:** Anger increases and then it affects you as well, and bad results may occur, but sometimes it doesn't happen, and in my case, it didn't happen. So, what did you learn from not doing this?  
+**Translation:** Vocabulary: spreads: 传播
+
+**[855.60s] English:** Magic Mushroom Exercise  
 **Translation:** 
 
-**[840.00s] English:** गुस्सा बढ़ता जाता है, फिर इसका असर आप पर भी होता है, और इसके बुरे नतीजे हो सकते हैं, हो सकते हैं, लेकिन कभी-कभी ऐसा नहीं होता है, और मेरे मामले में ऐसा नहीं हुआ, यह काम नहीं किया, तो इससे आपको क्या सीख मिली,  
+**[857.32s] English:** Magic mushroom.  
 **Translation:** 
 
-**[855.60s] English:** magic mushroom exercise  
+**[858.16s] English:** Magic mushrooms, and exercise.  
 **Translation:** 
 
-**[857.32s] English:** magic mushroom  
+**[859.38s] English:** Exercise is necessary.  
 **Translation:** 
 
-**[858.16s] English:** magic mushroom और exercise  
+**[860.46s] English:** I don't think it works just with mushrooms.  
 **Translation:** 
 
-**[859.38s] English:** exercise जरूरी है  
+**[862.84s] English:** But I do that for everything, though.  
 **Translation:** 
 
-**[860.46s] English:** मुझे नहीं लगता कि सिर्फ mushroom से काम बन जाता  
+**[865.44s] English:** Dangerous exercise  
 **Translation:** 
 
-**[862.84s] English:** लेकिन मैं तो हर चीज के लिए यही करता हूँ  
+**[866.58s] English:** Like my exercise routine is extremely difficult.  
 **Translation:** 
 
-**[865.44s] English:** खतरनाक exercise  
+**[869.58s] English:** And for this reason, everything else seems easy.  
 **Translation:** 
 
-**[866.58s] English:** जैसे कि मेरा exercise routine बहुत ही मुश्किल है  
+**[872.52s] English:** I create a strange and poor routine for myself.  
 **Translation:** 
 
-**[869.58s] English:** और इस वजह से बाकी सब कुछ आसान लगता है  
+**[874.84s] English:** And my routine is quite difficult.  
 **Translation:** 
 
-**[872.52s] English:** मैं खुद अजीबो गरीब routine बनाता हूँ  
+**[876.58s] English:** And that is not all.  
 **Translation:** 
 
-**[874.84s] English:** और मेरा routine बहुत मुश्किल होता है  
+**[878.50s] English:** Sauna is also available, as well as a cold plunge.  
 **Translation:** 
 
-**[876.58s] English:** और सिर्फ यह नहीं  
+**[880.48s] English:** And in these torture sessions afterwards,  
+**Translation:** Vocabulary: plunge: 冷水浸浴; sauna: 桑拿; torture: 折磨
+
+**[882.92s] English:** When they treat you with ignorance.  
 **Translation:** 
 
-**[878.50s] English:** sauna भी है, cold plunge भी है  
+**[885.16s] English:** After all this, from ignorance.  
+**Translation:** Vocabulary: ignorance: 无知
+
+**[887.64s] English:** The rest will become easy to handle once you know.  
 **Translation:** 
 
-**[880.48s] English:** और इन torture sessions के बाद  
-**Translation:** Vocabulary: plunge: 冷水浴; sauna: 桑拿
-
-**[882.92s] English:** जब इन्हें जहेल लेते हो  
+**[889.70s] English:** And it is also important to understand.  
 **Translation:** 
 
-**[885.16s] English:** इन सब को जहेलने के बाद  
+**[891.82s] English:** What is happening, anyway?  
 **Translation:** 
 
-**[887.64s] English:** बाकी चीज़ें जहेलना आसान हो जाता है  
+**[892.86s] English:** Like media needs to understand  
 **Translation:** 
 
-**[889.70s] English:** और यह भी समझना ज़रूरी है  
+**[895.02s] English:** This will need to be understood that  
 **Translation:** 
 
-**[891.82s] English:** कि हो क्या रहा है  
+**[896.68s] English:** A responsive video  
 **Translation:** 
 
-**[892.86s] English:** जैसे मीडिया को समझना होगा  
+**[898.96s] English:** YouTube, social media, podcast.  
 **Translation:** 
 
-**[895.02s] English:** यह समझना होगा कि  
+**[901.74s] English:** What is happening to all of this?  
 **Translation:** 
 
-**[896.68s] English:** किसी का जवाबी वीडियो  
+**[903.60s] English:** Like if they are saying that  
 **Translation:** 
 
-**[898.96s] English:** YouTube, Social Media, Podcast  
+**[906.04s] English:** Lex Friedman said this.  
+**Translation:** Vocabulary: friedman: 弗里德曼
+
+**[907.82s] English:** And we need to comment on this.  
 **Translation:** 
 
-**[901.74s] English:** इन सब पर क्या हो रहा है  
+**[910.08s] English:** And then in a YouTube clip,  
 **Translation:** 
 
-**[903.60s] English:** जैसे अगर वो कह रहे हैं कि  
+**[912.16s] English:** Lex cancelled.  
 **Translation:** 
 
-**[906.04s] English:** Lex Friedman ने यह कहा  
+**[914.24s] English:** If you see all of this,  
 **Translation:** 
 
-**[907.82s] English:** और हमें इस पर comment करना है  
+**[916.14s] English:** So you will go crazy.  
 **Translation:** 
 
-**[910.08s] English:** और फिर किसी YouTube क्लिप में  
-**Translation:** 
-
-**[912.16s] English:** Lex Cancelled लिखा है  
-**Translation:** 
-
-**[914.24s] English:** अगर आप यह सब देखोगे  
-**Translation:** 
-
-**[916.14s] English:** तो आप पागल हो जाओगे  
-**Translation:** 
-
-**[917.82s] English:** इतनी negativity आपके लिए अच्छी नहीं है  
+**[917.82s] English:** It's not good for you to have so much negativity.  
 **Translation:** Vocabulary: negativity: 消极
 
-**[920.56s] English:** आप खुद को जानते हो  
+**[920.56s] English:** You know yourself.  
 **Translation:** 
 
-**[922.02s] English:** और आपको पता है कि आपने कोई गलती की है या नहीं  
+**[922.02s] English:** And you know whether you have made a mistake or not.  
 **Translation:** 
 
-**[924.78s] English:** और आपको यह भी पता है कि  
+**[924.78s] English:** And you also know that  
 **Translation:** 
 
-**[926.06s] English:** लोग आपसे नाराज हैं या नहीं  
+**[926.06s] English:** Do people anger you or not?  
 **Translation:** 
 
-**[956.06s] English:** हाँ, बीस्वी सदी के दो विश्व युद्ध, ग्रेट डिप्रेशन  
+**[956.06s] English:** Yes, the two World Wars of the 20th century, and the Great Depression.  
 **Translation:** 
 
-**[960.00s] English:** स्पेनिश फ्लू सदी की शुरुआत में महामारी यह सब तो हमने देखा है यूनाइटेड स्टेट्स में हमने क्या देखा है 9-11 अगर उन घटनाओं के बारे में सोचें जिनसे हमारी दुनिया हिल गई तो 9-11 ने हमें दुनिया में अपनी जगह के बारे में सोचने पर मज�  
+**[960.00s] English:** Spanish flu in the early 14th century, we have seen that. In the United States, what have we seen? 9/11 - if we think about those events that shook our world, 9/11 made us think about our place in the world.  
 **Translation:** 
 
-**[990.00s] English:** कर जो लोग ज्यादा एक्टिव नहीं थे उनमें चिंता का स्तर बहुत ज्यादा था क्योंकि मुझे नहीं लगता कि वो अपने शरीर को वो दे रहे होते हैं जिसकी उसे जरूरत है  
+**[990.00s] English:** Do those who were less active have a higher level of concern? Because it doesn't seem to me that they are giving their bodies what they need.  
 **Translation:** 
 
-**[999.64s] English:** मुझे लगता है कि हमारे शरीर की कुछ basic requirements होती है movement के मामले में  
+**[999.64s] English:** I think our bodies have some basic requirements when it comes to movement.  
 **Translation:** 
 
-**[1004.38s] English:** और जब आप अपने शरीर को इन जरूरतों से वंचित करते हैं  
+**[1004.38s] English:** And when you deprive your body of these necessities,  
 **Translation:** 
 
-**[1008.18s] English:** तो एक general level की anxiety लगभग हर किसी में मौझूद रहती है  
-**Translation:** 
+**[1008.18s] English:** So, a general level of anxiety is present in almost everyone.  
+**Translation:** Vocabulary: deprive: 剥夺; necessities: 必需品
 
-**[1011.90s] English:** और फिर ऐसे लोग भी होते हैं जिनके पास मानसिक स्वास्थ्य समस्याएं होती है  
+**[1011.90s] English:** And then there are also people who have mental health issues.  
 **Translation:** 
 
-**[1015.96s] English:** ये चीज़ें चिंता को और भी बढ़ा देती है  
+**[1015.96s] English:** These things increase anxiety even more.  
 **Translation:** 
 
-**[1018.48s] English:** lockdown ने anxiety को बढ़ा दिया  
+**[1018.48s] English:** Lockdown has increased anxiety.  
 **Translation:** 
 
-**[1021.16s] English:** महामारी में अपनों को खोने से लोगों की चिंता बढ़ी  
-**Translation:** 
+**[1021.16s] English:** People's concern increased due to losing loved ones in the pandemic.  
+**Translation:** Vocabulary: pandemic: 全球大流行病
 
-**[1025.06s] English:** और उसके बाद division था, सोच में division था  
+**[1025.06s] English:** And after that, there was a division, a division in thought.  
 **Translation:** 
 
-**[1029.02s] English:** अलग अलग विचार धाराएं बनी  
+**[1029.02s] English:** Different streams of thought emerged.  
 **Translation:** 
 
-**[1031.02s] English:** कुछ लोग तो vaccine लगवाने को तयार ही नहीं थे चाहे कुछ भी हो जाए  
+**[1031.02s] English:** Some people were not even willing to get vaccinated, no matter what happened.  
 **Translation:** 
 
-**[1034.58s] English:** लोगों को उसपर भरोसा नहीं था  
-**Translation:** 
+**[1034.58s] English:** People did not trust it.  
+**Translation:** Vocabulary: vaccinated: 接种疫苗
 
-**[1036.62s] English:** कुछ लोगों को लगता था कि उसमें micro chips हैं  
+**[1036.62s] English:** Some people thought that it contained micro chips.  
 **Translation:** 
 
-**[1039.22s] English:** कुछ को लगता था कि Fauci शैतान है  
+**[1039.22s] English:** It seemed that Fauci was considered a devil by some.  
 **Translation:** 
 
-**[1041.04s] English:** और बहुत सारी चीज़ें थी  
+**[1041.04s] English:** And there were many things.  
 **Translation:** 
 
-**[1043.06s] English:** और साथ ही राजनीतिक जुकाओ भी था  
+**[1043.06s] English:** And there were also political tensions.  
 **Translation:** 
 
-**[1046.74s] English:** राइट विंग वाले लोग vaccine नहीं लगवाना चाहते थे  
+**[1046.74s] English:** Right-wing people did not want to get vaccinated.  
 **Translation:** 
 
-**[1050.24s] English:** जबकि लेफ्ट विंग वाले लोग पता नहीं क्यूं  
+**[1050.24s] English:** While left-wingers do not know why,  
 **Translation:** 
 
-**[1052.98s] English:** अचानक से फार्मा कंपनियों पर भरोसा करने लगे  
+**[1052.98s] English:** Suddenly, they began to trust pharmaceutical companies.  
 **Translation:** 
 
-**[1055.60s] English:** जो बिलकुल ही अजीब था  
-**Translation:** 
+**[1055.60s] English:** It was completely strange.  
+**Translation:** Vocabulary: pharmaceutical: 药品相关的
 
-**[1058.66s] English:** वो बेहद अजीब समय था  
+**[1058.66s] English:** That was a very strange time.  
 **Translation:** 
 
-**[1061.84s] English:** और मुझे लगता है कि समय के साथ  
+**[1061.84s] English:** And I think that with time,  
 **Translation:** 
 
-**[1064.30s] English:** जब इसको एनलाइज किया जाएगा  
+**[1064.30s] English:** When it will be analyzed,  
 **Translation:** 
 
-**[1066.58s] English:** तो ये मानव संस्कृति को आकार देने वाले अजीब पलों में से एक होगा  
+**[1066.58s] English:** So, this will be one of those strange moments that shape human culture.  
 **Translation:** 
 
-**[1071.10s] English:** और दुरभाग्य से उस लड़ाई में आग में घी का काम करेगा  
+**[1071.10s] English:** And by unfortunate luck, in that battle he will do the work of ghee in the fire.  
 **Translation:** 
 
-**[1075.48s] English:** जो इस देश में  
+**[1075.48s] English:** Which is in this country,  
 **Translation:** 
 
-**[1080.00s] English:** जो इस देश में विचारों के अलग-अलग गुटों के बीच चल रही है  
+**[1080.00s] English:** Which is traveling between the different groups of ideologies in this country.  
 **Translation:** 
 
-**[1087.40s] English:** ट्रम्प के बाद से ही अजीब समय चल रहा है  
-**Translation:** 
+**[1087.40s] English:** It has been a strange time since Trump.  
+**Translation:** Vocabulary: ideologies: 思想流派
 
-**[1091.82s] English:** जब लोग पीछे मुड़कर देखेंगे और इस देश में डिविजिन के दौर के बारे में सोचेंगे  
+**[1091.82s] English:** When people look back and think about the division era of this country,  
 **Translation:** 
 
-**[1097.64s] English:** तो ट्रम्प का दौर भी उन्हें एक अजीब समय लगेगा  
+**[1097.64s] English:** So Trump's term will also seem like an odd time to them.  
 **Translation:** 
 
-**[1101.54s] English:** वो इतने पोलराइजिंग फिगर है कि बहुत सारे लोग ऐसा महसूस करते हैं  
+**[1101.54s] English:** She is so polarizing that many people feel this way.  
 **Translation:** 
 
-**[1110.10s] English:** कि उसे और उसके सपोर्टर्स पर हमला करने के लिए वे अपनी एथिक्स, मॉरल्स और प्रिंसिपल्स तक छोड़ सकते हैं  
-**Translation:** 
+**[1110.10s] English:** They might have to abandon their ethics, morals, and principles in order to attack her and her supporters.  
+**Translation:** Vocabulary: polarizing: 极有争议的
 
-**[1118.46s] English:** क्योंकि वो खुद डेमाकरसी के लिए एक existential threat माने जाते हैं  
+**[1118.46s] English:** Because they are considered an existential threat to democracy.  
 **Translation:** 
 
-**[1123.28s] English:** लेकिन क्या आपको नहीं लगता कि ये कोई cause नहीं है बलकि एक symptom है  
-**Translation:** Vocabulary: existential: 存在的
+**[1123.28s] English:** But don't you think that this is not a cause but a symptom?  
+**Translation:** Vocabulary: existential: 根本的; symptom: 症状
 
-**[1126.60s] English:** जैसा कि आपने कहा कि चीज़ें बहुत अजीब हो गई थी ये और भी अजीब हो सकता है  
+**[1126.60s] English:** As you said, things have become very strange, and they could become even stranger.  
 **Translation:** 
 
-**[1130.98s] English:** हाँ ये और अजीब होने वाला है वो फिर से election लड़ेंगे  
+**[1130.98s] English:** Yes, this is and will be strange, as they will run for election again.  
 **Translation:** 
 
-**[1133.74s] English:** आखिर वो एक बेजान आदमी के खिलाफ लड़ेंगे  
+**[1133.74s] English:** Finally, they will fight against a useless man.  
 **Translation:** 
 
-**[1136.48s] English:** मेरा मतलब बाइडन स्टेज से उतरते समय हवा में ऐसे इंसान से हाथ मिलाने की कोशिश करते हैं जो वहाँ होता ही नहीं  
+**[1136.48s] English:** My meaning is that when Biden steps down from the stage, they try to shake hands with people in the air who are not even there.  
 **Translation:** 
 
-**[1141.92s] English:** लगता है उन्हें प्रेद दिख रहे हैं  
+**[1141.92s] English:** It seems they are seeing love approaching.  
 **Translation:** 
 
-**[1143.54s] English:** क्या जिमी की मेल पर आपने उन्हें देखा  
-**Translation:** 
+**[1143.54s] English:** Have you seen Jimmy at Mel's?  
+**Translation:** Vocabulary: approaching: 靠近; jimmy: 吉米
 
-**[1145.16s] English:** नहीं  
+**[1145.16s] English:** No.  
 **Translation:** 
 
-**[1145.78s] English:** वो कुछ भी बोल रहे थे  
+**[1145.78s] English:** They were saying nothing.  
 **Translation:** 
 
-**[1146.78s] English:** अगर वो कोई और होते अगर वो  
+**[1146.78s] English:** If he were someone else, if he were  
 **Translation:** 
 
-**[1150.24s] English:** रिपब्लिकन होते  
+**[1150.24s] English:** Republican, he is.  
 **Translation:** 
 
-**[1152.30s] English:** अगर ऐसा डोनाल्ड ट्रंप कर रहे होते  
+**[1152.30s] English:** If Donald Trump were doing that,  
 **Translation:** 
 
-**[1154.68s] English:** तो हर एक टॉक शो चिला चिला कर कहता  
+**[1154.68s] English:** So each talk show chirps and chirps while saying  
 **Translation:** 
 
-**[1157.38s] English:** कि उन्हें टीवी पर नहीं आने दिया जाए  
+**[1157.38s] English:** That they should not be allowed to appear on TV.  
 **Translation:** 
 
-**[1159.32s] English:** और वैसे मैं किसी भी तरह से  
+**[1159.32s] English:** And I would in no way  
 **Translation:** 
 
-**[1161.04s] English:** ट्रंप का सपोर्टर नहीं हूँ  
+**[1161.04s] English:** I am not a Trump supporter.  
 **Translation:** 
 
-**[1162.20s] English:** मुझे अपने शो में  
+**[1162.20s] English:** I am in my show.  
 **Translation:** 
 
-**[1163.68s] English:** उन्हें कई बार बुलाने का मौका मिला है  
+**[1163.68s] English:** He has been called several times.  
 **Translation:** 
 
-**[1165.58s] English:** और मैंने हर बार मना कर दिया  
+**[1165.58s] English:** And I have refused every time.  
 **Translation:** 
 
-**[1167.40s] English:** मैं मदद नहीं करना चाता  
+**[1167.40s] English:** I do not want to help.  
 **Translation:** 
 
-**[1197.40s] English:** जो कि आपका metric है  
-**Translation:** 
+**[1197.40s] English:** Which is your metric?  
+**Translation:** Vocabulary: metric: 衡量标准
 
-**[1198.80s] English:** आपको politics की  
+**[1198.80s] English:** Your politics,  
 **Translation:** 
 
-**[1200.22s] English:** बस क्या मैं एक अच्छी बातचीत कर सकता हूँ?  
+**[1200.22s] English:** Can I have a good conversation?  
 **Translation:** 
 
-**[1203.02s] English:** और आपने कानिय जैसे लोगों से भी बात की है,  
+**[1203.02s] English:** And you have also spoken with people like Kani.  
 **Translation:** 
 
-**[1205.18s] English:** और उनके साथ तो आपकी बहुत अच्छी बातचीत हुई.  
+**[1205.18s] English:** And a very good conversation was had with them.  
 **Translation:** 
 
-**[1207.68s] English:** मुझे लगता है कि आप, मुझे लगता है,  
+**[1207.68s] English:** I think you, I think,  
 **Translation:** 
 
-**[1210.06s] English:** हाँ, लेकिन कानिय एक आर्टिस्ट है,  
+**[1210.06s] English:** Yes, but Kani is an artist,  
 **Translation:** 
 
-**[1211.68s] English:** लेकिन कानिये का अच्छा करना या अच्छा ना करना हमारे देश की दिशा को नहीं बदलता  
+**[1211.68s] English:** But Kayye's good or bad actions do not change the direction of our country.  
 **Translation:** 
 
-**[1216.92s] English:** हाँ, लेकिन क्या सच में आपके उपर इतनी बड़ी जिम्मेदारी है  
+**[1216.92s] English:** Yes, but what really is that much responsibility on your side?  
 **Translation:** 
 
-**[1222.24s] English:** कि आपकी बातचीत से देश का भविष्य बदल जाएगा  
+**[1222.24s] English:** From your conversation, the future of the country will be changed.  
 **Translation:** 
 
-**[1225.58s] English:** वेल मैं ऐसा सोचता हूँ कि तुम किसी की इमेज को बहुत ही आसानी और शांदार तरीके से बदला जा सकता है जो काफी चौंकाने वाला हो सकता है  
+**[1225.58s] English:** Well, I think you can easily and beautifully change someone's image, which could be quite shocking.  
 **Translation:** 
 
-**[1236.24s] English:** देख लो अब एलेक्स जोन्स को कैसे देखा जाता है क्योंकि एलेक्स जोन्स मेरे पॉडकास्ट पर कई बार आ चुके हैं  
+**[1236.24s] English:** Look how Alex Jones is viewed now because Alex Jones has appeared on my podcast several times.  
 **Translation:** 
 
-**[1266.24s] English:** उसे एलकोहॉलिजम और सब्स्टेंस अब्यूज के गंभीर दौरों से गुजरना पड़ा है और इनका उसकी सोच पर बहुत ही नकारात्मक असर पड़ा है  
-**Translation:** 
+**[1266.24s] English:** He had to go through severe episodes of alcoholism and substance abuse, and these have had a highly negative impact on his thinking.  
+**Translation:** Vocabulary: alcoholism: 酒精成瘾; substance: 毒品
 
-**[1274.96s] English:** हाँ अगर तुम उसे जानते हो जैसे मैं जानता हूँ मैं उसे 20 साल से ज्यादा से जानता हूँ और अगर तुम उसे पॉडकास्ट पर सुनते हो तो तुम्हें पता चलता है कि वो सचमुझ कुछ ऐसी चीजों को खोजने की कोशिश कर रहा है जो ज्यादा तर लोगों के �  
+**[1274.96s] English:** Yes, if you know him like I do, I've known him for more than 20 years, and if you've listened to his podcast, you'll realize that he's always trying to uncover something that resonates with a lot of people.  
 **Translation:** 
 
-**[1304.96s] English:** जहां नामी गिरामी लोग आते हैं और नाबालिक लड़कियों से घिनौनी चीजें करते हैं और उसे रिकॉर्ड करते हैं सच में जैसे क्या बकवास बंद करो मतलब नहीं राष्ट्रपती क्लिंटन वहां गए हैं वहां सब गए हैं लेकिन ये बकवास जैसा लगता है और य  
-**Translation:** 
+**[1304.96s] English:** Where famous rappers come and engage in rhyming with young girls, recording it as if bandying about balderdash, meaning President Clinton was there too, but everything seems like a bunch of nonsense.  
+**Translation:** Vocabulary: balderdash: 无稽之谈; bandying: 争论; rhyming: 押韵; uncover: 揭露
 
-**[1320.00s] English:** में लोगों की हत्या हो रही है। क्या आपने देखा नया क्लिंटन का एडवाइजर जिसकी हत्या हुई है। हाँ। हाँ। वह एक एक्स्टेंशन कोड से लटक गया अपने घर से 30 मील दूर खुद के सीने में गोली मारी और वो इसे सुइसाइड कह रहे हैं। और अब तो ए  
+**[1320.00s] English:** Mengele's people are being killed. Have you seen the new Clinton advisor who was killed? Yes. Yes. He got stuck with an extension cord at his home 30 miles away and shot himself, and they're calling it a suicide. And now,  
 **Translation:** 
 
-**[1350.00s] English:** लेकिन इसके जवाब में कहूं तो आपने एलेक्स जोन्स से ये बातचीत की है। क्या आप डॉनल्ड ट्रम्प से इस तरह की बातचीत नहीं कर सकते।  
+**[1350.00s] English:** But in response, you have had this conversation with Alex Jones. Can you not have this type of conversation with Donald Trump.  
 **Translation:** 
 
-**[1359.46s] English:** यही तो प्रॉबलम है।  
+**[1359.46s] English:** This is the problem.  
 **Translation:** 
 
-**[1360.38s] English:** नहीं, ये problem नहीं है, आपने दिखाया कि Alex Jones भी एक इंसान है, उसने गलतियां की है, उसके दिमाग में अलग ही लड़ाई चल रही है, वो बिलकुल chaotic है, लेकिन फिर भी उसके नजरिये में एक समझदारी है, भले ही वो अकसर गलत होता है,  
-**Translation:** Vocabulary: jones: 琼斯
+**[1360.38s] English:** No, this is not a problem. You have shown that Alex Jones is also a human, he has made mistakes, there is a different battle going on in his mind, he is completely chaotic, but still, from his perspective, there is a wisdom, even though he is often wrong.  
+**Translation:** Vocabulary: chaotic: 混乱
 
-**[1376.86s] English:** वो कुछ ऐसी चीजों के बारे में पहले से ही बता देता है, जिनके बारे में कोई बात करना ही नहीं चाहता, तो क्या ट्रंप भी वैसे ही नहीं है, अजीब इंसान, इगो मेनियाक, उनकी personality को लेकर आप जो भी कहलो, क्या इसे सपश्ट करना उचित नहीं है,  
+**[1376.86s] English:** He talks about certain things that nobody wants to talk about in the first place, so is Trump any different? A strange man, Igor Menyuk. Is it not appropriate to clarify his personality?  
 **Translation:** 
 
-**[1392.32s] English:** जैसे कि अगर आप ट्रंप के interview सुने, तो उसके बकवास को कौन चुनौती देने की हिम्मत रखता है, अगर आप किसी से बहस कर रहे हो, तो किसी की बकवास को सामने लाना आसान है, लेकिन एक ऐसे इंसान के तौर पर, जो सचमुच दिल से समझने की कोशिश करता है, मु�  
-**Translation:** 
+**[1392.32s] English:** Like if you listen to Trump's interviews, who has the胆量to challenge his lies? If you are having a debate with someone, it's easy to bring up their lies. But for a person who genuinely tries to understand, it takes courage.  
+**Translation:** Vocabulary: clarify: 澄清; genuinely: 真诚地
 
-**[1422.32s] English:** कर देंगे, मुझे उससे ज्यादा समय चाहिए होगा, और वो बिलकुल भी नशा नहीं करते, एलेक्स की यही तो बात है, आप एलेक्स को नशा करा दो, शराब पिला दो, और वो इंटर डाइमेंशनल चाइल्ड मॉलेस्टर्स के बारे में बात करने लगता है, हाँ, है न  
+**[1422.32s] English:** They will do it, but I'll need even more time. And they don't get drunk at all, just like Alex. You should make Alex drunk and get him to drink alcohol; then he starts talking about interdimensional children and molesters, huh?  
 **Translation:** 
 
-**[1440.00s] English:** क्या उसले आए नहीं नहीं बात बस उसके और मेरे बीच होनी चाहिए उसमें मुझे बहुत फोकस करना होगा मैं वाकई ट्रंप के साथ आराम से बातचीत करना चाहूंगा लेकिन मुझे राजनीति की इतनी जानकारी नहीं है कि मैं सारे के सारे करप्शन के आरोपों को समझ  
-**Translation:** 
+**[1440.00s] English:** Does he really need to come? The talk should just be between him and me. I'll have to focus a lot on that. I'd like to chat easily with Trump, but I don't have enough political knowledge to understand all the charges against him.  
+**Translation:** Vocabulary: molesters: 猥亵者
 
-**[1470.00s] English:** है जो 2016 के चुनावों से पहले रश्या के साथ कम्यूनिकेशन में शामिल थी ये काफी साफ है कि क्लिंटन एडमिनिस्ट्रेशन भी शामिल था ये भी काफी साफ है कि ट्रंप एडमिनिस्ट्रेशन ने भी रश्या में कुछ लोगों से बात की है ये भी काफी साफ है कि हं�  
+**[1470.00s] English:** Here is the improved sentence with natural English punctuation and capitalization: It is quite clear that Clinton administration was also involved in communications before the 2016 elections. It is also quite clear that Trump administration had spoken to some people in Russia. This is also quite clear.  
 **Translation:** 
 
-**[1500.00s] English:** और खास कर इस बारे में कोई objective राय बनाना बहुत मुश्किल है, और फिर उसे publicly broadcast करना, ये बहुत बड़ा project है, और अगर आपको इसे वाकई सही से करना है, तो इसमें बहुत research करनी पड़ेगी, और मेरे पास इतना time नहीं है.  
-**Translation:** 
+**[1500.00s] English:** And it's very difficult to form an objective opinion on this matter, and then publicly broadcast it; this is a huge project, and if you really want to do it right, you'll need to do a lot of research, and I don't have that much time.  
+**Translation:** Vocabulary: capitalization: 大写
 
-**[1518.98s] English:** कुछ लोगों के लिए तो है, जिनके बारे में आपको सचमुझ जानना होता है, बॉब लजार के लिए आपने time निकाला था, लेकिन शायद डॉनल्ड ट्रंप के लिए नहीं, नहीं, ये अलग है, बॉब लजार जो बातें कर रहा था, मैं उनके बारे में जानना चाहता था  
+**[1518.98s] English:** For some people, like Bob LaJar, whom you spent time with and whose words I wanted to understand, but not for Donald Trump, that's different. Bob LaJar was saying things that I wanted to know about.  
 **Translation:** 
 
-**[1548.98s] English:** उसके सारे interviews देखे, उसने ज्यादा interviews तो नहीं दिये, लेकिन उतने काफी है, उसने ये सब पिछले 30 से ज्यादा सालों में किया है, हैरानी की बारे में,  
+**[1548.98s] English:** After reviewing all of his interviews, he hasn't given many, but that's enough. He has been doing this for more than 30 years, which is amazing.  
 **Translation:** 
 
-**[1560.00s] English:** बात है कि उसकी कहानी में कोई बदलाव नहीं आया यह सोचकर तो और भी अजीब लगता है क्योंकि वह एलियन  
+**[1560.00s] English:** It is strange to think that there has been no change in his story, especially since he is an alien.  
 **Translation:** 
 
-**[1566.72s] English:** स्पेसक्राफ्ट की बैक इंजीनियरिंग और किसी सीक्रेट गवर्नमेंट टेस्ट साइट की बात कर रहा है जो किसी पहाड़  
+**[1566.72s] English:** Spacecraft back engineering and some secret government test site, he is talking about a mountain.  
 **Translation:** 
 
-**[1573.98s] English:** अंदर बनी है ताकि सैटेलाइट से छिपी रहे यह बिल्कुल अजीब गरीब कहानी है लेकिन उसने सचमुच लॉस अलामोस  
+**[1573.98s] English:** It is hidden inside so that it can stay hidden from the satellite. This is a strange story of a poor man, but he has actually lost Los Alamos.  
 **Translation:** 
 
-**[1582.56s] English:** लैब्स में काम किया है वह सचमुच एक प्रोपोल्शन एक्सपर्ट है वह सचमुच एक साइंटिस्ट है क्या वह वास्तव में  
-**Translation:** 
+**[1582.56s] English:** He has worked in labs and is definitely a proposition expert. He is definitely a scientist, isn't he?  
+**Translation:** Vocabulary: alamos: 洛斯阿拉莫斯
 
-**[1590.06s] English:** यूएफो के बैक इंजीनियरिंग पर काम कर रहा था पता नहीं लेकिन जिस तरह से उसने उनके चलने का वर्णन किया है  
+**[1590.06s] English:** He was working on UFO back engineering, but in the manner he described their movements.  
 **Translation:** 
 
-**[1595.28s] English:** वह बिल्कुल वैसा ही है जैसा कुछ पाइलेटों ने देखा है जिनके पास यह वीडियो है जो उन्होंने कैप्चर किए हैं  
+**[1595.28s] English:** That is exactly the same as what some pilots have seen, who have captured this video.  
 **Translation:** 
 
-**[1601.04s] English:** मुझे नासा बहुत पसंद है मैंने बहुत से लोगों से सुना है जो वाकई में रिसर्च के लिए फंडिंग कर रहे हैं और लोग सचमुच इसे गंभीरता से ले रहे हैं यूएफो साइटिंग को लेकर जांच की जा रही है जैसे जैसे ज्यादा सेंसर जोड़े जा रहे  
+**[1601.04s] English:** I really like NASA. I've heard from many people who are actually funding research and take it very seriously, checking UFO sightings as more censorship is being added.  
 **Translation:** 
 
-**[1631.04s] English:** है या कम से कम लोगों को इस बारे में बातचीत करने के लिए मजबूर किया और शायद इन्हें जूठा साबित करने की कोशिश की क्योंकि ये इतना अजीब लगता था लेकिन फिर लोग इन सवालों में उलज जाते हैं और सोचने लगते हैं शायद ये सच हो सकता है और य  
+**[1631.04s] English:** Here is the transcript with natural English punctuation and capitalization: He had to talk to at least some people about it, and perhaps tried to convince them it was true because it seemed so strange. But then people got intrigued by these questions and started thinking maybe it could be true.  
 **Translation:** 
 
-**[1661.04s] English:** अगर आप सच में ब्रह्मांड के बारे में जो हम समझते हैं और अनंतता के कॉंसेप्ट के बारे में सोचें तो जैसे नील डीग्रास टाइसन ने मुझे समझाया है वो ये है कि वहां न केवल जीवन रूप है बलकि वहां आप भी हैं आप वहां से बाहर हैं अनंत इतना ब�  
+**[1661.04s] English:** If you really think about the universe and the concept of infinity, as Neil deGrasse Tyson explained to me, it is not just that there is life there but that you are also there, outside of infinity itself.  
 **Translation:** 
 
-**[1680.00s] English:** लेक्स फ्रीडमैन अस्तित्व में है और सिर्फ अस्तित्व में नहीं है बलकि अनंत बार अस्तित्व में है जैसे पृत्वी पर जो सेल्स और अनूओं के बीच इंटराक्शन्स हुए हैं वही इंटराक्शन्स ब्रह्मांड में अनगिनत बार बिल्कुल उसी क्रम में हुए  
-**Translation:** 
+**[1680.00s] English:** Lex Friedman exists and is not just in existence but infinitely in existence, like the interactions between cells and organisms on Earth which have occurred infinitely many times in exactly the same sequence in the universe.  
+**Translation:** Vocabulary: friedman: 弗里德曼; infinitely: 无限地; infinity: 无限; tyson: 泰森
 
-**[1710.00s] English:** मेकेनिक्स के एक interpretation के आधार पर यह बहुत संभव है कि ऐसे अंगिनत ब्रह्मांड हो लेकिन सवाल यह है कि क्या आप उन यूनिवर्स तक पहुंच सकते हैं वे कितनी दूर हैं ज्यादा specific practical question यह है कि यूनिवर्स का यह स्थानी हिस्सा हमारी गैलक्सी या हमारी पड़ोसी ग  
+**[1710.00s] English:** Based on one interpretation of mechanics, it is very possible that such specific anginal universes exist, but the question is whether you can reach them. How far they are away is a more specific practical question, such as whether this part of the universe is in our galaxy or our neighboring galaxy.  
 **Translation:** 
 
-**[1740.00s] English:** से डेडी सिविलाइजेशन जैसे समय बीद गया और बस कुछ एलियंस उसी समय पर लगा दिये जैसे प्रोमेथियस हां अलग-अलग पूरे गैलक्सी में और वो ही वो एलियंस हो सकते हैं जिनसे हम इंटरेक्ट कर रहे होंगे वो भी हम जैसे ही होंगे शायद उतने ही मू  
-**Translation:** 
+**[1740.00s] English:** Time has passed since the civil war, and just a few alliances formed around the same time, like Prometheus. They could be different alliances that we are interacting with, and they might be similar to us.  
+**Translation:** Vocabulary: alliances: 联盟; galaxy: 星系; interacting: 互动; interpretation: 解释; neighboring: 相邻的; prometheus: 普罗米修斯; universes: 宇宙
 
-**[1770.00s] English:** जाता है और आपके पास यह बड़ी एलियन सिविलाइजेशन हैं जो बहुत-बहुत तेजी से फैल रही है और दिल्चस्प बात यह है कि जब आप आकाश की ओर देखते हैं और सितारों को देखते हैं तो वह लाइट है  
+**[1770.00s] English:** It is said and you have this huge alien civilization that is spreading incredibly fast, and the surprising thing is that when you look towards the sky and at the stars, that light is there.  
 **Translation:** 
 
-**[1780.06s] English:** उन सितारों से हम शायद तब तक एलियन सिविलाइजेशन को नहीं देख पाएंगे जब तक वह यहां नहीं आ जाती मतलब ठीक है जैसे ही आप एक्सपांड करना शुरू करते हैं और जब आप इसमें अच्छे हो जाते हैं तो आप लाइट की स्पीड के करीब पहुंच �  
-**Translation:** 
+**[1780.06s] English:** From these stars, we probably won't see alien civilization until it gets here. That is, as soon as you start expanding and get good at it, you might reach light speed.  
+**Translation:** Vocabulary: alien: 外星的
 
-**[1800.00s] English:** हैंगे और सब जगह वही होंगे और वह हमारे पास होंगे सही है सही है क्योंकि लाइट को हम तक पहुंचने में  
+**[1800.00s] English:** Hang and there will be the same everywhere, and they will be with us the right ones are indeed the right ones because light for us to reach it will be.  
 **Translation:** 
 
-**[1807.86s] English:** समय लगता है ना और फिर वह चीज जिससे मैं वास्तव में फैसिनेट हो गया हूं वह यह ऑल्टरनेटिव ट्रांसपोर्टेशन  
-**Translation:** 
+**[1807.86s] English:** It takes time, and then there's that thing which has really fascinated me - alternative transportation.  
+**Translation:** Vocabulary: fascinated: 着迷
 
-**[1815.48s] English:** के कुछ फॉर्म है जिन पर वे चर्चा कर रहे हैं जैसे वॉर्म होल्स का यूज करने की क्षमता और वह चीजें जो  
+**[1815.48s] English:** They are discussing some forms, such as the ability to use Form Hols and the things related to that.  
 **Translation:** 
 
-**[1822.92s] English:** एक प्रकार की टाइप थ्री सिविलाइजेशन कर सकती है मेरे पॉड़कास्ट पर हाल ही में मिचियो काकू आए थे और वह  
+**[1822.92s] English:** One type of typ three civil engineering can do it. Recently, Michio Kakuyu came on my podcast and he  
 **Translation:** 
 
-**[1829.46s] English:** बहुत शांदार है मुझे वह व्यक्ति बहुत पसंद है वह इतनी जटिल चीजों को भी आसानी से समझाने में माहिर हैं  
+**[1829.46s] English:** It is very impressive. I really like that person. They are skilled in explaining even complex things so easily.  
 **Translation:** 
 
-**[1836.66s] English:** है और उन्हें इस तरीके से प्रस्तुत करने में माहिर है और उन्हें इस तरह से कहना कि दूसरे लोग उसकी  
-**Translation:** 
+**[1836.66s] English:** He is skilled in presenting it this way and can say it in such a manner that others will understand.  
+**Translation:** Vocabulary: skilled: 熟练的
 
-**[1843.14s] English:** और बहुत ही अजीब बागलपन से भरी बातें कहने में हिचकिचाना नहीं जो वास्तविकता में संभव है पर सही है  
+**[1843.14s] English:** And very strange things to say that do not hiccup, yet are true in reality.  
 **Translation:** 
 
-**[1850.76s] English:** हाँ अब वो इस UFO घटना में पूरी तरह से शामिल हो गया है वो कहता है कि अब ये लोगों की जिम्मेदारी है कि वो इन चीजों के लिए किसी Conventional Explanation के साथ आएं  
-**Translation:** 
+**[1850.76s] English:** Yes, now he is fully included in this UFO incident. He says that these people now have the responsibility to come with any conventional explanation for these things.  
+**Translation:** Vocabulary: conventional: 传统的; hiccup: 打嗝
 
-**[1861.44s] English:** क्योंकि ये चीजें उन सभी Physics के Concepts को चुनौती दे रही हैं जिन्हें हम वर्तमान में जानते हैं हमारी Capabilities, Propulsion Systems और इतनी अन्य चीजों के संदर्भ में कि आप जानते हैं Current Science क्या Reproduce करने में सक्षम है जितना हम जानते हैं  
+**[1861.44s] English:** Because these things challenge all the Physics concepts that we currently understand, including our capabilities, propulsion systems, and many other things, in terms of which current science is capable of reproducing as much as we know.  
 **Translation:** 
 
-**[1880.12s] English:** समस्या इन जैसे Military Projects जो Top Secret हैं उनके पास कितने पैसे हैं उनके पास बहुत सारे पैसे हैं लेकिन क्या ये संभव है और शायद आप इस बारे में बात कर सकते हैं क्या ये हो सकता है कि ये संभव हो कि कुछ Propulsion Systems विकसित किये गए हैं और लागू किये गए हैं जो सिर्फ Rocket Fuel �  
-**Translation:** 
+**[1880.12s] English:** The problem with projects like military ones that are top secret, they have a lot of money. But is it possible, and perhaps we can talk about whether it could be the case that some propulsion systems have been developed and implemented that only use rocket fuel.  
+**Translation:** Vocabulary: capabilities: 能力; implemented: 实施; propulsion: 推进; reproducing: 复制
 
-**[1910.12s] English:** आगे बढ़ता है ये कुछ ऐसा है जो Gravity को Harness करता है कुछ ऐसा जो Space और Time को Distort कर सकता है और ऐसा कुछ जो  
+**[1910.12s] English:** This goes beyond gravity, harnessing something that can distort space and time.  
 **Translation:** 
 
-**[1920.00s] English:** एक पॉइंट से दूसरे पॉइंट तक ट्रैवल को बहुत ज्यादा तेज बना सकता है  
-**Translation:** Vocabulary: distort: 扭曲; gravity: 引力
+**[1920.00s] English:** A point to another point travel can be made much faster.  
+**Translation:** Vocabulary: distort: 扭曲; harnessing: 利用
 
-**[1924.72s] English:** अच्छा ये न केवल संभव है बलकि ये संभव है कि इस तरह की चीजें सिक्रेट रखी जाएंगी  
+**[1924.72s] English:** Good. These not only are possible, but it is also possible that such things will be kept secret.  
 **Translation:** 
 
-**[1932.62s] English:** हाँ ये सब कुछ जो आप देखते हैं ठेकेदारों को जैसे लॉकीट मार्टिन या अगर ये रक्षा विभाग है वे पूरी गोपनियता में काम करते हैं  
-**Translation:** 
+**[1932.62s] English:** Yes, all of this is like the lockers at Lokieet Martin or if it's a security department, they work in full confidentiality.  
+**Translation:** Vocabulary: confidentiality: 保密
 
-**[1942.78s] English:** यहां तक कि स्टील्थ फाइटर के इतिहास को देखना स्टील्थ तक्नीक भी बहुत बहुत लंबे समय तक एक रहस्से बनी रही और जब तक आप इसे उप्योग करने के लिए तैयार नहीं हो जाते और इसकी आवश्यक्ता नहीं होती तब तक ये पबलिक नहीं होती और �  
+**[1942.78s] English:** Here is the transcript segment with improved punctuation and capitalization: This even kept stealth technology a secret for such a long time in fighter history, and it remained so until you were ready to use it and its need arose. And then it became public.  
 **Translation:** 
 
-**[1972.78s] English:** पर ये अगले बड़े युद्ध का इंतजार कर रहा है अगली बड़ी वजह है इसका यूज़ करना और हाँ अब निश्चित रूप से टेकनोलॉजीज है हो सकता है कि वहाँ प्रोपल्शन टेकनोलॉजीज नहों वहाँ AI सर्वेलन्स टेकनोलॉजीज हो सकती है वहाँ �  
-**Translation:** 
+**[1972.78s] English:** Part of the transcript seems to be in Hindi and part is in English with some technical terms. Here's the improved version: "However, it is waiting for the next big war. The next big reason is using this technology. Yes, now certainly technology could be propulsion technologies there, or AI serverless technologies could be there.  
+**Translation:** Vocabulary: capitalization: 标点; hindi: 印地语; propulsion: 推进; segment: 片段; serverless: 无服务器; transcript: 录音文本
 
-**[2002.78s] English:** मैं बहुत सारी चीजें संदेह से देखता हूँ और इसका कारण ये है कि सरकार इसके बारे में बात करती रहती है पेंटागन इसके बारे में बात करता रहता है नासा इसके बारे में बात करता रहता है आपके संदेह को खुल कर बताईए मुझे शक है कि वो उनके एलियन्  
+**[2002.78s] English:** I look at many things with suspicion, and the reason is that the government keeps talking about it, Pentagon keeps talking about it, NASA keeps talking about it. Open up their suspicions to me, I suspect they have aliens.  
 **Translation:** 
 
-**[2032.78s] English:** क्या फायदा उठाएगी जैसे उनके लिए इन चीजों को खुलियाम चर्चा करने का क्या लाब है ये आप जानते हैं  
-**Translation:** 
+**[2032.78s] English:** What benefit would be derived, as they know the value of openly discussing these things for themselves.  
+**Translation:** Vocabulary: aliens: 外星人; openly: 公开地; pentagon: 五角大楼; suspicions: 怀疑
 
-**[2040.00s] English:** का ख्रेंद्रे से उन्होंने से डिप्राइब किया ऑफ desafit जो इस धर्ती से नहीं बने है क्यों उन्होंने हमें  
+**[2040.00s] English:** Can they be decoupled from Desafit, which are not native to this earth? Why have they done this to us?  
 **Translation:** 
 
-**[2047.44s] English:** यह क्यों बताया होगा मेरा मतलब है जब तक कि यह हो सकता है कि वह हमें आक्रमण के ख़तरे से तैयार  
-**Translation:** 
+**[2047.44s] English:** Why was this said? My meaning is that until it can be that they keep us prepared for the invasion danger.  
+**Translation:** Vocabulary: decoupled: 脱离
 
-**[2056.00s] English:** कर रहे हो ताकि लोग ज्यादा घबराए नहीं शायद थोड़ी घबराहट पैदा करने के लिए ये बातें सार्वजनिक कर रहे हो जैसे न्यू यॉर्क टाइम्स का आर्टिकल और पेंटागन की चर्चा क्या आप पानी लेंगे हाँ खैर लोगों को ये बताएं कि ये एक च  
+**[2056.00s] English:** Do they keep it secret so that people don't get too worried? Perhaps they want to create a bit of worry by making these things public, like the New York Times article and Pentagon discussions. Will you take the water? Yes, rather tell the people that this is just a chat.  
 **Translation:** 
 
-**[2086.00s] English:** वे हमारी जानकारी की आवश्यक्ता के लिए अपमान रखते हैं और मुझे ये भी लगता है कि उन्हें लगता है कि वे हमें चला रहे हैं ऐसा नहीं है कि हम सब इसमें एक साथ हैं और सरकार लोगों के लिए काम करती है और सरकार लोगों की ही है मुझे नहीं लगता कि वे  
-**Translation:** 
+**[2086.00s] English:** They disdain our need for information, and I also think they believe that we are not moving forward together. I feel that all of us are united in this effort and work for the government, and that they are part of the government. I don't think so.  
+**Translation:** Vocabulary: disdain: 轻视
 
-**[2116.00s] English:** लगता है कि इतने बेवकूफ हैं कि यह एक वास्तविक समस्या बन जाती है अगर आप अपनी हर बात के बारे में पूरी तरह से इमानदार हैं और आप नहीं चाहेंगे कि हर कोई उन चीजों पर राय दे जो बेहत जटिल हैं और जिनके बारे में ज्यादा तर लोग अंजान  
+**[2116.00s] English:** It seems so careless that it becomes a real problem if you are completely honest about everything and do not want anyone to give an opinion on issues that are too complex and which most people are unaware of.  
 **Translation:** 
 
-**[2146.00s] English:** प्रैक्टिकल सवाल पूछने शुरू कर दिये ट्रैवल और बाकी सब मैंने के जीबी के बारे में बहुत पढ़ना शुरू किया जैक बार्सकी की इस पर एक किताब है मैंने उनसे बात की और फिर आपको लगता है शायद आपने इन में से कुछ  
-**Translation:** 
+**[2146.00s] English:** Practical questions started being asked, and I began reading a lot about GBI, Jack Barsky, who has written a book on this topic. I spoke to him, and perhaps you have read some of these?  
+**Translation:** Vocabulary: barsky: 巴尔斯基; careless: 粗心; unaware: 不知情
 
-**[2160.00s] English:** देखा होगा आपको निगरानी और हेर फेर के पैमाने का एहसास होने लगता है कई लोग संगठन की अक्षमता के बारे में भी बात करते हैं और सामान्य नौकरशाही भी होती है लेकिन बात ये है कि ऐसा लगता है कि खुफिया जानकारी जुटाने के लिए कोई भी सीमा पा  
+**[2160.00s] English:** You get a sense of scrutiny and inspection at the organizational level, and many people also talk about its inefficiency, along with general bureaucracy. However, what seems to be the case is that there are no limits in accessing confidential information.  
 **Translation:** 
 
-**[2190.00s] English:** FSB या GRU के बारे में ज्यादा जानकारी नहीं है लेकिन KGB के बारे में है  
-**Translation:** 
+**[2190.00s] English:** There is more information about the KGB, but not about the FSB or GRU.  
+**Translation:** Vocabulary: accessing: 获取信息; bureaucracy: 官僚主义; confidential: 机密的; inefficiency: 低效率; scrutiny: 审查
 
-**[2194.62s] English:** तो हम हमेशा असली जानकारी में 20 साल या उससे ज्यादा पीछे रहते हैं  
+**[2194.62s] English:** So we are always at least 20 years behind the real information.  
 **Translation:** 
 
-**[2199.92s] English:** इसलिए फिर मुझे हैरानी हुई  
+**[2199.92s] English:** Therefore, I was then amazed.  
 **Translation:** 
 
-**[2202.26s] English:** तो मुझे किसी खुफिया एजन्सी द्वारा आधिकारिक रूप से संपर्क नहीं किया गया है  
+**[2202.26s] English:** So, I have not been officially contacted by any intelligence agency.  
 **Translation:** 
 
-**[2209.20s] English:** लेकिन मैं सोचने लगता हूँ कि क्या मुझे कोई ऐसा जानता है जो CIA या FSB या कोई अन्य खुफिया एजन्सी के लिए गुप्त रूप से काम कर रहा है  
+**[2209.20s] English:** But I wonder if I know anyone secretly working for the CIA or FSB or any other secret agency.  
 **Translation:** 
 
-**[2219.68s] English:** हाँ हो सकता है  
+**[2219.68s] English:** Yes, it could be.  
 **Translation:** 
 
-**[2232.26s] English:** क्या आपको पता है  
+**[2232.26s] English:** Do you know?  
 **Translation:** 
 
-**[2233.72s] English:** मुझे शक है  
+**[2233.72s] English:** I doubt it.  
 **Translation:** 
 
-**[2235.74s] English:** क्या आपको परवाह है  
+**[2235.74s] English:** Does it matter to you?  
 **Translation:** 
 
-**[2237.18s] English:** मेरा मतलब यह इस बात पर निर्भर करता है कि वे क्या करने की कोशिश कर रहे हैं है ना  
+**[2237.18s] English:** My meaning depends on whether they are trying to do something or not.  
 **Translation:** 
 
-**[2245.16s] English:** जैसे अगर मुझे लगा कि इसमें कुछ धोखा शामिल है और वे लोगों को चीजों में फसाने के लिए पॉडकास्ट का उपयोग करके किसी कथा को धोखे से हेरफेर कर रहे होंगे तो हाँ मुझे फर्क पड़ेगा  
-**Translation:** 
+**[2245.16s] English:** If I feel that there is some deception involved and those people are using the podcast to distort a story for fraudulent purposes, then yes, it would stand out to me.  
+**Translation:** Vocabulary: deception: 欺骗; distort: 歪曲; fraudulent: 欺诈的
 
-**[2255.84s] English:** लेकिन यही वो चीजें हैं जो वे करते हैं वे जानबूज कर कहानिया पहलाते हैं हाँ मेरा मतलब है मैं कल्पना कर सकता हूँ अगर आपके पास दुनिया का नंबर एक पॉडकास्ट है तो लोग उसमें शामिल होना चाहेंगे हाँ शायद सभी मेजर इंटेलिजन्स एज  
+**[2255.84s] English:** But these are the things they do; they tell fantastical stories. My point is, I can imagine if you had the world's number one podcast, people would want to be included in it. Probably all major intelligences agencies would.  
 **Translation:** 
 
-**[2280.00s] English:** हाँ, मेरा मतलब है यही बात वास्तव में सामने आई जब हम मेरी cancellation के बारे में बात कर रहे थे कि mainstream के media में इसका कोई objective analysis नहीं है,  
-**Translation:** Vocabulary: cancellation: 取消; mainstream: 主流
+**[2280.00s] English:** Yes, my point is that this issue truly came to the forefront only when we were discussing our cancellation and there is no objective analysis in mainstream media about it.  
+**Translation:** Vocabulary: cancellation: 取消; fantastical: 离奇; forefront: 前沿; mainstream: 主流
 
-**[2291.84s] English:** वे स्पष्ट कहानिया हैं जिन्हें वे आगे बढ़ाने की कोशिश कर रहे हैं, चाहे वह कुछ विचारों को बढ़ावा देना हो, या मावेरिक लोगों की शक्ती और पहुँच को कम करना हो,  
+**[2291.84s] English:** They are clear stories that they are trying to advance, whether it be to promote certain ideas, or to reduce the power and reach of Maverick individuals.  
 **Translation:** 
 
-**[2305.78s] English:** या उन लोगों के लिए जो ऐसे system से जुड़े नहीं हैं जिसे आप समझवता नहीं कर सकते, वहीं ये खतरनाक हो जाता है, और ये खतरनाक तब हो जाता है, जब किसी के पास सबसे ज्यादा पहुँच हो, लेकिन वह पूरी तरह से अलग हो,  
+**[2305.78s] English:** For those who are not connected to such a system that you cannot understand, it becomes dangerous there. And it becomes dangerous when someone has the most access but is completely separate.  
 **Translation:** 
 
-**[2320.94s] English:** और पूरी तरह से हम स्वतंत्र है, स्वतंत्र सोच के सेंस में, जिसके साथ चाहे आप चाहे कोई भी हो सकते हैं, लेकिन फिर भी आपके दिमाग को प्रभावित किया जा सकता है, मुझे लगता है कि हर कोई एक निश्चित तरीके से प्रभावित हो सकता है, मैं निश्चि  
+**[2320.94s] English:** And we are completely free, in terms of a sense of independent thinking, which you can be with whoever you choose, but still, your mind can be influenced. I think that everyone can be affected in some way, I am certain.  
 **Translation:** 
 
-**[2350.94s] English:** गडबड लग रही है और फिर मैं सोच रहा हूं क्यों मेरे UFO वाली बात से ये मेरी समस्या है मैं चाहता हूं कि ये सच हो यही मेरी समस्या है मैं बहुत सरल इनसान हूं मैं चाहता हूं कि ये सच हो और ये मेरे लिए एक समस्या बन जाती है क्योंकि मुझे इस बारे में पूर  
+**[2350.94s] English:** There's a lot of noise going on and then I keep thinking why my UFO-related issue is mine. I want this to be true, this is my problem. I am a very simple person. I want this to be true and for it to become a problem for me because I have been wondering about this for a while now.  
 **Translation:** 
 
-**[2380.94s] English:** यह वही बात है तो मेरी एक गहरी इच्छा है कि यह सच हो तो मज़ा आएगा  
+**[2380.94s] English:** This is the same thing, so I really hope it's true; then it would be fun.  
 **Translation:** 
 
-**[2385.42s] English:** मेरा मतलब है मैंने इस बारे में बहुत से लोगों से बात की है इसलिए जिनका D.O.D. से संबंध है और वे उन लोगों के बीच रेखाएं खींचते हैं जो जूठे हैं और जो नहीं हैं  
+**[2385.42s] English:** My meaning is that I have talked to many people about this matter, and they draw lines between those who are connected and those who are not, in relation to D.O.D.  
 **Translation:** 
 
-**[2397.82s] English:** कई लोग public sphere में हैं जिनने लोग कहते हैं  
+**[2397.82s] English:** Many people are in the public sphere who say that others are.  
 **Translation:** 
 
-**[2400.00s] English:** बहते हैं कि वह बकवास से भरे हुए हैं हां जरूर और आपको फर्क बताना होगा हां हां CNN देखो वह बात कर  
+**[2400.00s] English:** They are full of nonsense, yes definitely. And you will have to tell the difference, yes indeed. Watch CNN; they talk about it.  
 **Translation:** 
 
-**[2408.64s] English:** रहे हैं खैर मेरा मतलब है वह तस्वीर भी कुछ लोग ऐसे होते हैं जो बस इसका इस्तेमाल कर रहे हैं वास्तव  
+**[2408.64s] English:** Rahye hai, khair merā matlab hain vah taseer bhi kuch log aisē hote haiṁ jo bas iska istemāl kar rahe haiṁ, vāstav.  
 **Translation:** 
 
-**[2418.06s] English:** हैं जो लोग बेकार की बातें नहीं करते वह अक्सर बहुत शांत होते हैं ठीक है इसलिए ही बॉब लजार की  
-**Translation:** 
+**[2418.06s] English:** Those who don't say useless things are often very calm. That's why Bob Lajar is.  
+**Translation:** Vocabulary: khair: 很好
 
-**[2424.00s] English:** कहानी दिलचस्प है क्योंकि वह लंबे समय तक चुप रहने की कोशिश कर रहे थे खैर बॉब के अनुसार वह अपनी जान को  
+**[2424.00s] English:** The story is fascinating because he had been trying to keep it a secret for a long time. According to Bob, he was risking his life.  
 **Translation:** 
 
-**[2430.84s] English:** बेकार चिंतित था और इसलिए उसने इसे सार्वजनिक कर दिया जॉर्ज नैप के साथ किए गए पहले वीडियो में उन्होंने  
-**Translation:** 
+**[2430.84s] English:** Bekar chintit tha and therefore he had made it public. In the first video George Nape had done with them, they had  
+**Translation:** Vocabulary: chintit: 猜想; risking: 冒险
 
-**[2436.72s] English:** अपनी पहचान छुपाई हां और फिर उसे लगा कि यह काफी नहीं था और उसे अपनी सुरक्षा के लिए अपनी पहचान  
+**[2436.72s] English:** Kept the same as original since it's in Hindi and doesn't require punctuation or capitalization adjustments in English. अपनी पहचान छुपाई हां, और फिर उसे लगा कि यह काफी नहीं था, और उसे अपनी सुरक्षा के लिए अपनी पहचान छुपाई हां.  
 **Translation:** 
 
-**[2443.20s] English:** एक्सपोज करनी पड़ी कि जो एक शानदार कहानी है तो आपको लगता है कि यह इतना मजेदार लगता है कि मैं इसमें  
+**[2443.20s] English:** To expose that which is a brilliant story, do you think it seems this much entertaining that I am in  
 **Translation:** 
 
-**[2450.96s] English:** कामिल होना चाहता हूं और वहीं पर मुझे घबराहट होती है आपको नहीं पता किस पर भरोसा करना है बिल्कुल सही आपको यह कैसे पता चलता है कि जीवन में किस पर भरोसा करना है आप जो रोगन है बहुत से लोग आपके करीब होना चाहते हैं CIA, Agent, FSB Agent, लोग जो मैं एक  
+**[2450.96s] English:** To work and yet I get scared there. And you don't know on whom to trust — it's exactly right. How do you know on whom to trust in life? You who are so cunning, many people want to be close to you: CIA agent, FSB agent, people who think I am one.  
 **Translation:** 
 
-**[2480.96s] English:** चीजों के काम करने के तरीके के बारे में बहुत ही बुद्धिमान और अच्छी जानकारी मिलती है  
-**Translation:** 
+**[2480.96s] English:** There is a very smart and good understanding about the ways things work.  
+**Translation:** Vocabulary: cunning: 狡猾
 
-**[2485.76s] English:** मुझे लगता है मुझे यकीन है कि वह मुझे हर बात के बारे में सब कुछ नहीं बताता  
+**[2485.76s] English:** I think I am certain that he does not tell me everything about anything.  
 **Translation:** 
 
-**[2493.38s] English:** लेकिन उसने मुझे इतना बताया है कि जहां तक मेरा मानना है  
+**[2493.38s] English:** But he told me so much about where I believe it to be.  
 **Translation:** 
 
-**[2496.38s] English:** मैं चीजों को बेहतर समझ सकता हूँ  
+**[2496.38s] English:** I can better understand things.  
 **Translation:** 
 
-**[2498.58s] English:** उससे बात करके आपको उस तरीके के बारे में पता चलता है  
+**[2498.58s] English:** By talking to her, you learn about that method.  
 **Translation:** 
 
-**[2501.92s] English:** कि कैसे वे elves मशीन के नीचे काम करते हैं  
+**[2501.92s] English:** How do they work under the machine as elves?  
 **Translation:** 
 
-**[2506.26s] English:** दोस्तों का क्या आप कैसे जानते हैं कि आप भरोसा कर सकते हैं  
+**[2506.26s] English:** Friends, how do you know that you can trust them?  
 **Translation:** Vocabulary: elves: 矮精灵
 
-**[2508.94s] English:** लेकिन मेरे ज्यादातर दोस्त पुराने हैं  
+**[2508.94s] English:** But my mostly friends are old.  
 **Translation:** 
 
-**[2511.06s] English:** समय लेकिन समय ही सब कुछ है  
+**[2511.06s] English:** Time, but time is everything.  
 **Translation:** 
 
-**[2512.74s] English:** हाँ  
+**[2512.74s] English:** Yes.  
 **Translation:** 
 
-**[2513.42s] English:** जैसे कि एक साथ कुछ चीजों से गुजर रहे हैं  
+**[2513.42s] English:** Like passing by something with a friend  
 **Translation:** 
 
-**[2516.54s] English:** खेर वो सबसे पहले तो comics के बारे में  
+**[2516.54s] English:** He then started with comics.  
 **Translation:** 
 
-**[2520.00s] English:** मैं जैसे कि क्या आप कॉमिक्स पर भरोसा कर सकते हैं क्या यह ऐसा ही होता है हां कॉमिक्स काफी भरोसेमंद होती  
+**[2520.00s] English:** Do I trust comics like I do? Yes, comics are quite trustworthy, aren't they?  
+**Translation:** Vocabulary: trustworthy: 可靠
+
+**[2526.36s] English:** He is especially good at comics, which are generally quite rare. If there were a thousand professional comics on Earth, he would be one of them.  
 **Translation:** 
 
-**[2526.36s] English:** हैं खासकर अच्छी वाली सच में अच्छी कॉमिक्स बहुत कम होती है अगर पृथ्वी पर हजार प्रोफेशनल कॉमिक्स हो तो  
+**[2534.40s] English:** Be amazed, I don't think there will be thousands of professionals who are always booked.  
 **Translation:** 
 
-**[2534.40s] English:** हैरान हो जाओ मुझे तो नहीं लगता कि हजार सच में प्रोफेशनल होंगे जो हमेशा बुक होते हैं  
+**[2540.08s] English:** They headline at clubs, theaters, and arenas on weekends, just like some artists who perform mid-acts.  
 **Translation:** 
 
-**[2540.08s] English:** क्लब्स थियेटर और एरीना में हेडलाइन करते हैं वीकेंड्स पर जैसे कुछ लोग जो मिडल एक्ट्स करते हैं  
+**[2547.06s] English:** And as we go along, we create more and more headlines. How many of them are actually fun headlines about which I could talk.  
+**Translation:** Vocabulary: arenas: 大型体育馆
+
+**[2555.26s] English:** If you say that you are in Cincinnati and this person plays for that club, do I need to go see them?  
 **Translation:** 
 
-**[2547.06s] English:** और जैसे तैसे घुजारा कर लेते हैं फिर कितने हेडलाइनर्स होते हैं कितने वास्तव में मज़ेदार हेडलाइनर्स होते हैं जिनके बारे में मैं कहूं  
+**[2562.54s] English:** You know how many people I will recommend and then how many of them sell theater tickets, how full the arenas are. There aren't that many at that level of comedy where you've been doing stand-up for 20 years.  
 **Translation:** 
 
-**[2555.26s] English:** अगर तुम कहते हो कि तुम सिंसिनेटी में हो और ये व्यक्ति इस क्लब में खेल रहा है तो क्या मुझे उन्हें देखने जाना चाहिए  
+**[2592.54s] English:** Exactly, you have taken so many insults that whether you are crazy or a criminal or on the streets or full of nonsense, underneath it all, there is a good person. You just say superficial nonsense.  
 **Translation:** 
 
-**[2562.54s] English:** आप जानते हैं जैसे मैं कितने लोगों को रिकमेंडेशन दूँगा और फिर कितने लोग थियेटर बेचते हैं कितने लोग एरेनास को पूरी तरह से भरते हैं इतने ज्यादा नहीं है तो ऐसे लोग कॉमेडी के उस लेवल्स पर जहां आप 20 साल से स्टैंड अप कर रहे हैं  
+**[2622.54s] English:** I have talked about comics this time, as with an island, you don't want to become one because some people are not connected to the rest of the community and doing well on their own. Typically, they have an opening act that they always perform.  
+**Translation:** Vocabulary: insults: 侮辱; superficial: 表面的; underneath: 本质
+
+**[2640.00s] English:** And they are sad because they cannot relate.  
 **Translation:** 
 
-**[2592.54s] English:** बिल्कुल बहुत समान तुमने इतनी गालियां खाई है कि किसी तरह भले ही तुम पागल हो भले ही तुम अराजक हो भले ही तुम रास्ते में हो भले ही तुम बकवास से भरे हो तुम बहुत जूट बोलते हो इस सब के नीचे एक अच्छा इंसान है तुम सतही बकवास करन  
+**[2643.24s] English:** Fame is often isolating.  
+**Translation:** Vocabulary: cannot: 不能; isolating: 使人隔离
+
+**[2645.10s] English:** Very  
 **Translation:** 
 
-**[2622.54s] English:** मैंने अन्य कॉमिक्स से इस बारे में बात की है जैसे आप एक द्वीप नहीं बनना चाहते क्योंकि कुछ लोग बाकी समुदाय से जुड़े नहीं हैं और वे अपने दम पर अच्छा कर रहे हैं आमतौर पर उनके साथ एक ओपनिंग एक्ट होता है जिसे वे हमेशा अपने स  
+**[2645.42s] English:** Therefore, you have to work very hard.  
 **Translation:** 
 
-**[2640.00s] English:** और वे लोग दुखी हैं क्योंकि वे relate नहीं कर सकते  
+**[2647.44s] English:** And it is important to ensure this.  
 **Translation:** 
 
-**[2643.24s] English:** अक्सर fame isolating होती है  
+**[2648.98s] English:** Is it that you are not isolating?  
 **Translation:** 
 
-**[2645.10s] English:** बहुत  
+**[2650.18s] English:** Because if you succeed,  
 **Translation:** 
 
-**[2645.42s] English:** इसलिए आपको बहुत काम करना होता है  
+**[2652.54s] English:** People start asking you for things.  
 **Translation:** 
 
-**[2647.44s] English:** और ये सुनिश्चित करना होता है  
+**[2654.50s] English:** Yes.  
 **Translation:** 
 
-**[2648.98s] English:** कि आप isolate ना हो  
+**[2654.94s] English:** And sometimes you want to be away from them for that reason.  
 **Translation:** 
 
-**[2650.18s] English:** क्योंकि अगर आप सफल हो जाते हैं  
+**[2657.82s] English:** Instead of joining with them.  
 **Translation:** 
 
-**[2652.54s] English:** लोग आपसे चीज़ें मांगने लगते हैं  
+**[2658.84s] English:** Yes.  
 **Translation:** 
 
-**[2654.50s] English:** हाँ  
+**[2659.74s] English:** Yes, I don't feel good when people want anything from me.  
 **Translation:** 
 
-**[2654.94s] English:** और फिर कभी कभी आप उनसे इसलिए दूर होना चाहते हैं  
+**[2662.22s] English:** These are not amusing.  
 **Translation:** 
 
-**[2657.82s] English:** बजाए कि उनसे जुड़ें  
+**[2663.26s] English:** You ignore it.  
 **Translation:** 
 
-**[2658.84s] English:** हाँ  
+**[2664.40s] English:** Yes, these are very troubling times.  
 **Translation:** 
 
-**[2659.74s] English:** हाँ मुझे अच्छा नहीं लगता जब लोग मुझसे कोई चाहते हैं  
+**[2665.76s] English:** They really want to.  
 **Translation:** 
 
-**[2662.22s] English:** ये मज़ेदार नहीं है  
+**[2695.76s] English:** We call protecting our parks an important thing that we should do.  
 **Translation:** 
 
-**[2663.26s] English:** आप इसे ignore कर देते हैं  
+**[2698.50s] English:** I am doing it with Erie Shapiro, Shen Gillis, and Mark Norton.  
 **Translation:** 
 
-**[2664.40s] English:** हाँ ये बहुत परिशानी बराए  
+**[2701.06s] English:** This is so fun because we get completely crazy.  
+**Translation:** Vocabulary: norton: 诺顿; shapiro: 沙皮罗
+
+**[2704.78s] English:** And we talk about a lot of things like after the podcast.  
 **Translation:** 
 
-**[2665.76s] English:** वे बहुत ज्यादा चाहते हैं  
+**[2707.62s] English:** The conversation is going like this: I am saying, hey friend, we will have to remove that part.  
 **Translation:** 
 
-**[2695.76s] English:** जिसे protect our parks कहते हैं यह एक चीज़ है जो मैं  
+**[2710.76s] English:** Because as Shen gets much farther ahead, he will become a lot crazier.  
 **Translation:** 
 
-**[2698.50s] English:** एरी शफीर, शेन गिलिस और मार्क नॉर्टन के साथ करता हूँ  
+**[2714.94s] English:** But we are just laughing at each other and that is merely fun.  
 **Translation:** 
 
-**[2701.06s] English:** यह इतना मज़ेदार है क्योंकि हम पूरी तरह crazy हो जाते हैं  
+**[2718.10s] English:** And the kind of friendship between real comics is very precious to me.  
 **Translation:** 
 
-**[2704.78s] English:** और हम बहुत सारी बातें करते हैं जैसे podcast के बाद  
+**[2722.16s] English:** I like Mark Norman's non sequitur stuff. You guys are so trash that you can't even understand it.  
+**Translation:** Vocabulary: sequitur: 逻辑连贯
+
+**[2727.48s] English:** But the listener becomes amused because he always stays on point.  
 **Translation:** 
 
-**[2707.62s] English:** बातचीत होती है मैं कहता हूँ अरे यार हमें वो हिस्सा हटाना होगा  
+**[2733.06s] English:** She is actually very quick-witted, and she has a Mitch Hedberg-like quality.  
+**Translation:** Vocabulary: listener: 听众; mitch: 米奇
+
+**[2737.40s] English:** Yes, he is a dedicated comic. He loves comedy so much.  
 **Translation:** 
 
-**[2710.76s] English:** क्योंकि जैसे शेन बहुत आगे बढ़ जाएगा वो बहुत crazy हो जाएगा  
+**[2740.90s] English:** This is the one thing I like about it.  
 **Translation:** 
 
-**[2714.94s] English:** लेकिन हम सिर्फ एक दूसरे को हंसा रहे हैं और यह सिर्फ मज़ेदार है  
+**[2743.38s] English:** She is like that; she gets excited and really enjoys it.  
 **Translation:** 
 
-**[2718.10s] English:** और असली comics के बीच उस तरह की दोस्ती मेरे लिए बहुत कीमती है  
-**Translation:** 
-
-**[2722.16s] English:** मुझे Mark Norman का non sequitur stuff पसंद है आप लोग इतना trash हो कि समझ नहीं पाते  
-**Translation:** Vocabulary: sequitur: 结论不当
-
-**[2727.48s] English:** लेकिन listener को वो हंसी का कारण बनता है क्योंकि वो हमेशा point पर रहता है  
-**Translation:** 
-
-**[2733.06s] English:** वो सच में बहुत तेज है उसके पास Mitch Hedberg जैसी quality है  
-**Translation:** Vocabulary: hedberg: 谐趣大师; listener: 听众; mitch: 米奇
-
-**[2737.40s] English:** हाँ खेर वो एक dedicated comic है वो comedy से इतना प्यार करता है  
-**Translation:** 
-
-**[2740.90s] English:** यही एक बात है जो मुझे उसके बारे में पसंद है  
-**Translation:** 
-
-**[2743.38s] English:** वो ऐसा है वो उत्साहित हो जाता है उसे ये बहुत पसंद है  
-**Translation:** 
-
-**[2748.14s] English:** Shane को भी और Aerie को भी उन्हें ये वास्तव में बहुत ही ज्यादा पसंद है  
+**[2748.14s] English:** Shane and Aerie both really like these a lot as well.  
 **Translation:** Vocabulary: aerie: 鹰巢
 
-**[2752.96s] English:** और ये उन दोस्तों की तरह है जो मेरे पास हैं  
+**[2752.96s] English:** And these are like my friends who are with me.  
 **Translation:** 
 
-**[2755.64s] English:** और मेरे पास martial arts दोस्त भी हैं जो कुछ ऐसे हैं  
-**Translation:** Vocabulary: martial: 军事的
+**[2755.64s] English:** And I have some martial arts friends who are like that.  
+**Translation:** Vocabulary: martial: 武术的
 
-**[2760.00s] English:** और एक और चीज है जो आपको विनम्र बनाती है, कैसे जियू जिट्सू जैसी चीजें आपको विनम्र बना सकती हैं, मार्शल आर्ट्स दोस्त भी जानते हैं, वे जानते हैं कि कौन इससे गुजरा है, वे जानते हैं कि वास्तव में कौन कठिनाईयों से गुजरा है और द�  
+**[2760.00s] English:** And there is another thing that makes you humble, how things like jiujitsu can make you humble, martial arts friends also know, they know who has gone through it, they know who has truly overcome difficulties and have seen the struggles of others.  
 **Translation:** 
 
-**[2790.00s] English:** कोई सबसे बड़ा कॉमिक ऑफ ऑल टाइम है क्या यह नॉर्म मैक्डनाल्ड्स है नॉर्म मैक्डनाल्ड्स निश्चित  
+**[2790.00s] English:** Is Norm McDonald the biggest comic of all time? Norm McDonald is certainly one possibility.  
+**Translation:** Vocabulary: humble: 谦逊; jiujitsu: 柔术; struggles: 挣扎
+
+**[2795.40s] English:** Rupesh was one of the great men. What do you think about that topic? I believe that a person's  
 **Translation:** 
 
-**[2795.40s] English:** रूप से महान लोगों में से एक थे वैसे उस टॉपिक पर आप क्या सोचते हैं मुझे रखता है कि एक व्यक्ति के  
+**[2801.04s] English:** Which is captivated by the form of death and the fear of death, keeps me from releasing anything special after your passing.  
+**Translation:** Vocabulary: captivated: 着迷于
+
+**[2807.22s] English:** A really talented thing was, I don't know how it works, I haven't got your special.  
 **Translation:** 
 
-**[2801.04s] English:** रूप में जो मौत और मौत के डर से मोहित है मुझे रखता है कि आपके मरने के बाद एक विशेष रिलीज करना  
+**[2812.44s] English:** Kept it that way, huh? They might call it nothing special, just normal, and this seems to fit.  
 **Translation:** 
 
-**[2807.22s] English:** एक वास्तव में प्रतिभारशाली चीज थी मुझे नहीं पता वह कैसे काम करता है मैंने तुम्हारा स्पेशल नहीं  
+**[2821.02s] English:** Basically, it's in front of them. My meaning is, I imagine they don't want to edit it in this way.  
 **Translation:** 
 
-**[2812.44s] English:** रखा है हां यह तो इसे शायद नथिंग स्पेशल कहते हैं जो कुछ नॉर्मंड कहेंगे ऐसा लगता है और यह  
+**[2827.68s] English:** Because it has been made more beautiful to see than I think he might like it. That is the same.  
 **Translation:** 
 
-**[2821.02s] English:** बेसिकली उनके सामने है मेरा मतलब है मैं कल्पना करता हूं कि वह इसे इस तरह एडिट नहीं करना चाहते होंगे  
+**[2834.16s] English:** As if joking during a Zoom call, the person in front of the screen is genuinely saying yes and in some way  
 **Translation:** 
 
-**[2827.68s] English:** क्योंकि यह देखने में अधिक सुंदर बनाया गया है जितना मुझे लगता है कि वह शायद इसे पसंद करता यह वही है  
+**[2844.24s] English:** Like if you like dry dark humor, this works because it's kind of self-parody.  
+**Translation:** Vocabulary: genuinely: 真诚地
+
+**[2852.42s] English:** Rahā hā̄ ṭhā ka lagbhaṅg mājakh udānā jismē ham akelē phanse thē aur kyōkī vah ābhī bhi aisē acting kara raha hā̄.  
 **Translation:** 
 
-**[2834.16s] English:** जो स्क्रीन के सामने होता है जैसे जूम कॉल पर मजाक करते हुए जैसे कोल जोक्स के बिना सच में हां और किसी तरह से  
+**[2859.36s] English:** As if he were standing in front of the audience and making a joke as though this is the thing that forced us to do it.  
 **Translation:** 
 
-**[2844.24s] English:** जैसे उसके लिए अगर आपको ड्राई डार्क ह्यूमर पसंद है तो यह काम करता है क्योंकि यह लगभग खुद का मजाक उड़ा  
+**[2864.94s] English:** Gaya hai matlab yah kafi samajhdari hai, yah acchi tarah se kiya gaya hai. Chutkule vaari acche hain, lakin yah aapko yaha bhi.  
 **Translation:** 
 
-**[2852.42s] English:** रहा है उस गढ़े का लगभग मजाक उड़ाना जिसमें हम अकेले फंसे थे और क्योंकि वह अभी भी ऐसे एक्टिंग कर रहा है  
+**[2871.00s] English:** Prashus says that laughter from the audience is important because it brings energy, but intimacy also plays a role because  
+**Translation:** Vocabulary: chutkule: 笑话; intimacy: 亲密; lakin: 但是; samajhdari: 理解; tarah: 方式
+
+**[2876.88s] English:** This is just between you two, that you are hearing it and you know.  
 **Translation:** 
 
-**[2859.36s] English:** जैसे वह ऑडियंस के सामने है और लगभग यह मजाक बना रहा है कि यह वह चीज है जो हमें करने के लिए मजबूर किया  
+**[2880.00s] English:** They say there is no audience, but I think that's quite ingenious and he certainly has something.  
+**Translation:** Vocabulary: ingenious: 巧妙的
+
+**[2886.60s] English:** Comics are not only entertaining but are also uniquely special and foster friendship and this kind of  
 **Translation:** 
 
-**[2864.94s] English:** गया है मतलब यह काफी समझदारी है यह अच्छी तरह से किया गया है चुटकुले वाकई अच्छे हैं लेकिन यह आपको यह भी  
+**[2896.14s] English:** In the context of comedy, he is an island, like Mike Hagberg, I suppose.  
+**Translation:** Vocabulary: entertaining: 有趣的; foster: 培养; uniquely: 独特地
+
+**[2903.64s] English:** That is for sure, and then many people start copying them, just like with Steven Raid and Steven Raid, mine.  
 **Translation:** 
 
-**[2871.00s] English:** प्रशुस कराता है कि ऑडियंस की हंसी ऑडियंस की एनर्जी कितनी इंपोर्टेंट है लेकिन इंटिमेसी भी है क्योंकि  
+**[2911.20s] English:** There are some people like Dave Chappelle who, perhaps, is a great comedian but he's the real joke, huh?  
+**Translation:** Vocabulary: chappelle: 查佩勒; steven: 史蒂文
+
+**[2919.72s] English:** No, it is not a island or natural. Yes, I know what you are saying; an exotic outside.  
 **Translation:** 
 
-**[2876.88s] English:** यह सिर्फ आप दोनों हैं कि आप इसे सुन रहे हैं आप जानते हैं  
+**[2925.00s] English:** Joḍāte hāṁ, ḝah bas mahān hai. Nōrm vākirī meṁ mahātā mein anokhe thē, jaise ki keval ek hi nōrm hā, āp jāntē.  
+**Translation:** Vocabulary: exotic: 异国的
+
+**[2932.60s] English:** Is there any reason why you guys weren't closer, given that you have such a specific style? It doesn't seem like you were close.  
 **Translation:** 
 
-**[2880.00s] English:** कहते हैं कि कोई दर्शक नहीं है मुझे लगता है यह काफी प्रतिभाशाली है और वह है निश्चित रूप से कुछ  
+**[2937.96s] English:** From where I used to like him, that was very good. Talking to him was always nice. We just worked well together.  
 **Translation:** 
 
-**[2886.60s] English:** कॉमिक्स होते हैं जैसे वे न केवल मज़ेदार हैं लेकिन वे वास्तव में यूनिक भी है और दोस्ती और इस तरह की  
+**[2945.22s] English:** We did not used to stay close to each other often. That was it, but still, I missed him.  
 **Translation:** 
 
-**[2896.14s] English:** चीजों के संदर्भ में नहीं बल्कि कॉमिडी के संदर्भ में वह एक द्वीप है हां जैसे मिच हेडबर्ग शायद  
+**[2950.38s] English:** He was a remarkable man, and we had an interesting story together. Twice, by random chance, I sat right next to him on a plane — once for the entire flight, and another time during the flight when we were discussing something.  
 **Translation:** 
 
-**[2903.64s] English:** वही है बेशक फिर बहुत से लोग उनकी नकल करना शुरू कर देते हैं और इसी तरह स्टीवन राइड स्टीवन राइड मेरा  
+**[2980.38s] English:** And he buys a cigarette, as reported, and when he goes outside, he lights it up. And I say, I thought you had quit smoking, and he says, Yes, I had, but talking so much about smoking, it made me start again.  
 **Translation:** 
 
-**[2911.20s] English:** तरफ है कुछ लोग जैसे डेव चैपल जो शायद महान कॉमिडियन में से एक है लेकिन वह असली मजाकियां है हां पता  
+**[3000.00s] English:** Yes, he couldn't wait to put that cigarette inside, he was just so crazy and impulsive, and he preferred playing games over falling in love, and in this way, he lived the joke like some people live a non sequitur, humorous and silly.  
+**Translation:** Vocabulary: humorous: 幽默; impulsive: 冲动
+
+**[3030.00s] English:** But his talent was his identity, his speciality, I understood that. However, he is one of the greats, the Godfather Lenny Bruce. My point is, I have several of Lenny Bruce's concerts, posters, and pictures framed at home, and Whitney Cummings has truly gifted me with some amazing ones.  
 **Translation:** 
 
-**[2919.72s] English:** नहीं कि वह एक द्वीप है या नहीं वह प्राकृतिक है हां मैं जानता हूं कि आप क्या कह रहे हैं एक बाहरी अनोखा  
-**Translation:** 
-
-**[2925.00s] English:** जोड़ती हां वह बस महान है नॉर्म वाकई में महानता में अनोखे थे जैसे कि केवल एक ही नॉर्म है आप जानते  
-**Translation:** 
-
-**[2932.60s] English:** हैं जिनका एक बहुत ही स्पेसिफिक स्टाइल है क्या कोई वजह है कि आप लोग करीब नहीं थे लगता नहीं कि आप एक दूसरे  
-**Translation:** 
-
-**[2937.96s] English:** जहां से मैं उसे पसंद करता था वह बहुत अच्छा था उसे बात करना हमेशा अच्छा लगता था हम बस एक साथ काम  
-**Translation:** 
-
-**[2945.22s] English:** नहीं करते थे हम अक्सर एक दूसरे के आसपास नहीं रहते थे बस इतना ही था लेकिन ऐसा नहीं था मैं फिर भी उसे  
-**Translation:** 
-
-**[2950.38s] English:** करता था वह एक शानदार आदमी था इनके साथ एक मज़ेदार किस्सा था दो बार बस रैंडम मैं हवाई जहाज पर उनके बगल में बैठा था बिलकुल उनके बगल में बस पूरी तरह से रैंडम और एक बार हम इस हवाई जहाज पर हैं और हम ये बात कर रहे हैं और मैंने  
-**Translation:** 
-
-**[2980.38s] English:** और सिगरेट खरीदता है, जैसे एरपोर्ट में, और बाहर निकलते समय इसे जलाने लगता है, और मैं कहता हूँ, मुझे लगा, तुमने स्मोकिंग छोड़ दी, वो कहता है, हाँ, मैंने छोड़ दिया था, लेकिन स्मोकिंग के बारे में इतनी बात करने से, मुझे फिर से स  
-**Translation:** 
-
-**[3000.00s] English:** हाँ, वो उस cigarette को उसके अंदर लगाने का इंतजार नहीं कर पा रहा था, वो बस इतना crazy और impulsive था, और जुआ खेलने से प्यार करता था, जुआ खेलना पसंद था, और इस तरह उसने joke को सच में जी लिया, जैसे कुछ लोग बस एक non sequitur, हास्यासपद और बेतुकी तरीके से  
-**Translation:** Vocabulary: impulsive: 冲动; sequitur: 结论
-
-**[3030.00s] English:** बस उसका talent ही, उसकी पहचान थी, वही उसकी खासियत थी, समझे, लेकिन ये महान लोगों में से एक है, इस सब के Godfather Lenny Bruce है, मेरा मतलब है, मेरे पास अपने घर पर Lenny Bruce के कई concert, poster और तस्वीरें हैं, जिनने मैंने frame करवाया है, और Whitney Cummings ने मुझे वास्तव में शानदार तस  
-**Translation:** 
-
-**[3060.00s] English:** मूल रूप से stand-up comedy के modern art रूप को जन्म दिया, उससे पहले यह कुछ लोग थे, जो जैसे show host करते थे, और वे चुटकुले सुनाते थे, वे बस केवल जैसे दो आदमी शराब पी रहे हैं, ऐसे ही जो, हाँ, लेकिन वह इसके बारे में बात करते थे, जैसे social issues, you know, वो life के �  
+**[3060.00s] English:** Originally, stand-up comedy gave birth to its modern art form. Before that, there were some people who hosted shows and told jokes, just like two guys drinking beer and talking about things like social issues, you know, stuff like that.  
 **Translation:** Vocabulary: cummings: 惠特尼; godfather: 教父; lenny: 伦尼; whitney: 惠特尼
 
-**[3090.00s] English:** पहले व्यक्ति, जिन्होंने modern stand-up किया, और जो बात दिल्चस्प है, यदि आप जाकर इसे देखने की कोशिश करते हैं, अगर आप आज लेनी ब्रूस को देखने की कोशिश करते हैं, तो ये काम नहीं करता, क्योंकि समाज विकसित हुआ है, कई तरीकों से, कला एक खिड�  
+**[3090.00s] English:** The first person who performed modern stand-up, and what's interesting is, if you try to see it, if you try to see today's Lena Waithe's stand-up, it doesn't work because society has evolved in many ways, art has become more inclusive.  
 **Translation:** 
 
-**[3120.00s] English:** एक खिड़की है यह थोड़ा बहुत टाइम मशीन है तो आपको ऐसा लगता है कि आपको अपने आपको रखना होगा कि  
+**[3120.00s] English:** There is a window, and this is sort of a little time machine so you feel like you need to keep yourself in place.  
+**Translation:** Vocabulary: evolved: 发展; inclusive: 包容的
+
+**[3125.88s] English:** In 1963, how was it to be there? Hearing about 1963, how did it feel when they said that the situation in 1963 was  
 **Translation:** 
 
-**[3125.88s] English:** 1963 में होना कैसा था 1963 में यह सुनकर कैसा लगता था जब वह ऐसा कहते थे कि जो सभिता 1963 में थी  
+**[3137.82s] English:** However, she appeared quite ordinary on the outside. People were walking around, wearing suits, and everything seemed rather commonplace.  
 **Translation:** 
 
-**[3137.82s] English:** आलांकि वह बाहरी तौर पर काफी समान दिखती थी लोग कार्ड चला रहे थे सूट पहन रहे थे और सब कुछ सामान्य सा  
+**[3143.58s] English:** It seemed like a whole different world, and the things he was saying were ones that were considered extremely taboo back then; today, they  
 **Translation:** 
 
-**[3143.58s] English:** लगता था फिर भी वह एक अलग दुनिया थी और जो बातें वह कह रहे थे जो तब बहुत ही टैबू मानी जाती थी आज वह  
+**[3150.72s] English:** It has become so ordinary that now it is not the four-o'clock talks and they are not as good as they used to be.  
+**Translation:** Vocabulary: taboo: 忌讳话题
+
+**[3156.90s] English:** It's amusing that you have to do the same task as if you were reading D.H. Lawrence's book Lady Chatterley.  
 **Translation:** 
 
-**[3150.72s] English:** इतनी सामान्य हो गई है कि हां अब बातें चौकाने वाली नहीं है और नहीं वह बातें उतनी अच्छी है नहीं उतनी  
+**[3164.28s] English:** Dow is going on, and maybe this will seem trivial, but it seemed to me that this was one of the early books of a century.  
+**Translation:** Vocabulary: chatterley: 柴尔德莱; trivial: 琐碎
+
+**[3171.28s] English:** The first edition of this book was highly controversial for its section content. It is considered one of the great books.  
 **Translation:** 
 
-**[3156.90s] English:** मज़ेदार है आपको वही काम करना पड़ता है जैसे कि आप डीएच लॉरेंस की किताब है जिसका नाम लेडी चैटरली  
+**[3177.36s] English:** Because it talked about a woman's courage regarding her husband being cheated on.  
+**Translation:** Vocabulary: cheated: 被 Cheat 的人
+
+**[3181.82s] English:** And this was done in the highest form.  
 **Translation:** 
 
-**[3164.28s] English:** दौर है और शायद यह बेतुका लगे लेकिन मुझे लगता है कि यह शुरुआती किताबों में से एक थी जो एक सदी  
+**[3184.14s] English:** And that is true of the goulag plague as well.  
+**Translation:** Vocabulary: plague: 瘟疫
+
+**[3186.78s] English:** Which speaks about some of the darkest aspects of human history.  
 **Translation:** 
 
-**[3171.28s] English:** पहले आई थी यह किताब अपने सेक्शन कॉंटेंट के लिए बहुत विवादित थी यह एक महान किताबों में से एक मान जाती  
+**[3190.54s] English:** Then all these talks were completely forbidden.  
 **Translation:** 
 
-**[3177.36s] English:** क्योंकि इसने साहसिक्ता से एक महिला के अपने पती को धोखा देने के बारे में बात की  
+**[3192.62s] English:** When these bans were in place.  
 **Translation:** 
 
-**[3181.82s] English:** और इसे सबसे उच्चतम रूप में किया  
+**[3194.72s] English:** Because you don't seem to understand, do you?  
 **Translation:** 
 
-**[3184.14s] English:** और वही बात गूलागार की प्लेगो के साथ भी है  
+**[3197.16s] English:** We all know this history.  
 **Translation:** 
 
-**[3186.78s] English:** जो मानव इतिहास के कुछ सबसे डार्केस्ट एस्पेक्स के बारे में बात करता है  
+**[3198.40s] English:** But when you are between them,  
 **Translation:** 
 
-**[3190.54s] English:** तब ये सब बातें पूरी तरह से मना थी  
+**[3200.36s] English:** When you put your life in danger,  
 **Translation:** 
 
-**[3192.62s] English:** जब ये बैन थी  
+**[3202.08s] English:** And when you place your book on the shelf,  
 **Translation:** 
 
-**[3194.72s] English:** क्योंकि आब ऐसा नहीं है समझ रहे हो ना  
+**[3204.04s] English:** They are keeping themselves free from being sent to jail or risking being caught in prison.  
 **Translation:** 
 
-**[3197.16s] English:** हम सब को ये इतिहास पता है  
+**[3207.46s] English:** Then it means that.  
+**Translation:** Vocabulary: risking: 冒风险
+
+**[3208.64s] English:** Yes, and no one has taken as much risk as Leni Bruce.  
 **Translation:** 
 
-**[3198.40s] English:** लेकिन जब आप इसके बीच में होते हैं  
+**[3212.24s] English:** Lena Bruce has been arrested several times.  
 **Translation:** 
 
-**[3200.36s] English:** जब आप अपनी जान को ख़तरे में डालते हैं  
+**[3215.08s] English:** And finally, it finally took its life.  
 **Translation:** 
 
-**[3202.08s] English:** और जब आप अपनी किताब के बैन  
+**[3218.80s] English:** My meaning is that he broke his stride while seeing heroin on the bathroom rug.  
+**Translation:** Vocabulary: heroin: 海洛因; stride: 步伐
+
+**[3222.14s] English:** And he was trying to deal with the cases that had remained in jail.  
 **Translation:** 
 
-**[3204.04s] English:** या जलाय जाने या खुद को जेल में पाए जाने का जोखिम उठा रहे होते हैं  
+**[3225.76s] English:** The man was continuously arrested, detained in jail.  
+**Translation:** Vocabulary: detained: 被拘留
+
+**[3229.24s] English:** And then his comedy had become quite bad.  
 **Translation:** 
 
-**[3207.46s] English:** तब यही मायने रखता है  
+**[3231.28s] English:** And there are some footage clips in which all of this is clearly visible.  
 **Translation:** 
 
-**[3208.64s] English:** हाँ और किसी ने भी लेनी ब्रूस से ज़्यादा जोखिम नहीं उठाया  
+**[3234.80s] English:** At the end of his career, he would go on stage to handle legal papers.  
 **Translation:** 
 
-**[3212.24s] English:** लेनी ब्रूस को कई बार गिरफतार किया गया था  
+**[3238.94s] English:** And he would talk about his case.  
 **Translation:** 
 
-**[3215.08s] English:** और आखिरकार इसने आखिरकार उसकी जान ले ली  
+**[3240.00s] English:** In those days, I used to watch the same shows. Then came Richard Pryor. Richard Pryr was the next great comedian, and when I was a child, his impact on me was profound. When I was 15 years old, my parents took me to see him live at the Sunset Strip.  
 **Translation:** 
 
-**[3218.80s] English:** मेरा मतलब है उसने बात्रूम के फर्ष पर हेरोइन लेते हुए दम तोड़ दिया  
+**[3270.00s] English:** But they were just going back and forth, and I was laughing loudly, and it seemed to me that this man was only doing this by talking, and memories of all those movies came to me which I had seen and which were funny comedies, and I felt I had watched enough.  
+**Translation:** Vocabulary: comedies: 喜剧; profound: 深刻; pryor: 普瑞尔
+
+**[3300.00s] English:** And then, lastly, inspired to do it himself.  
 **Translation:** 
 
-**[3222.14s] English:** और जो मुकदमे वह जेल रहा था उनसे निपटने की कोशिश कर रहा था  
+**[3330.00s] English:** Like only five people in the audience and jokes aren't working at all, but they keep trying anyway.  
+**Translation:** Vocabulary: lastly: 最后
+
+**[3339.70s] English:** I do not know, but it seems that emotionally such a situation could be quite difficult.  
 **Translation:** 
 
-**[3225.76s] English:** मतलब ये आदमी लगातार गिरफतार हो रहा था मुकदमे जेल रहा था  
+**[3344.66s] English:** This is hard. I still get a case of the Mondays, even today. And many comics say so too. I think Dan was the first person I heard this from publicly saying that if he had to start over from scratch, he wouldn't even consider doing it.  
+**Translation:** Vocabulary: scratch: 从头开始
+
+**[3360.00s] English:** He will overcome the difficulties of an open mic and eventually achieve success. And those who observe this and remain unsuccessful are much fewer in number compared to those who succeed. I don't know if there is any other art form where  
 **Translation:** 
 
-**[3229.24s] English:** और फिर उसकी कॉमेडी काफी खराब हो गई थी  
+**[3390.00s] English:** Word can learn and if you do, you can also climb the Online Language Reading Tower and lower it.  
+**Translation:** Vocabulary: unsuccessful: 不成功
+
+**[3396.78s] English:** But you can't teach someone to do comedy if you think they are funny or not, or what.  
 **Translation:** 
 
-**[3231.28s] English:** और उसके कुछ फुटेज भी है जिसमें ये सब साफ नजर आता है  
+**[3402.06s] English:** Can you still understand and learn this now?  
 **Translation:** 
 
-**[3234.80s] English:** अपने करियर के अंत में वह स्टेज पर लीगल पेपर्स लेकर जाता था  
+**[3405.48s] English:** You can understand it, I don't think so.  
 **Translation:** 
 
-**[3238.94s] English:** और अपने केस के बारे में जाता था  
+**[3407.26s] English:** Can you stop being boring and then actually become interesting?  
 **Translation:** 
 
-**[3240.00s] English:** में वही पड़ता था फिर इसके बाद आता है रिचर्ड प्रायर रिचर्ड प्रायर अगला महान कोमेडियन था और जब मैं बच्चा था तो मेरे पर उसका गहरा असर पड़ा था जब मैं 15 साल का था मेरे माता पिता मुझे लाइव एट दे संसेट स्ट्रीप दिखाने ले �  
+**[3411.70s] English:** Yes, this is possible, although it is not easy.  
 **Translation:** 
 
-**[3270.00s] English:** बस आगे पीछे जूल रहे थे और मैं भी जोर से हस रहा था और मुझे ऐसा लगा ये आदमी सिर्फ बात करके ये कर रहा है और मुझे उन सभी मूवीस की याद आई जिनने मैंने देखा था जो मज़ेदार कॉमेडी फिल्मे थी और मुझे लगा मैंने जितना भी देखा  
+**[3414.38s] English:** You will have to endure many hardships.  
+**Translation:** Vocabulary: hardships: 艰难困苦
+
+**[3416.34s] English:** You will have to drink a lot of bitter medicine.  
 **Translation:** 
 
-**[3300.00s] English:** और फिर लास्ट में इसे खुद से करने के लिए प्रेरित किया  
+**[3418.48s] English:** And you will have to see why you are not more amusing.  
 **Translation:** 
 
-**[3330.00s] English:** जैसे सिर्फ पांच लोग ओडियन्स में हो और जोक्स बिलकुल भी असर नहीं कर रहे होते और तब भी वे कोशिश करते रहते हैं  
+**[3420.82s] English:** And you will have to spend a lot of time with challenging ideas.  
 **Translation:** 
 
-**[3339.70s] English:** मुझे नहीं पता लेकिन ऐसा लगता है कि भावनात्मक रूप से ऐसी स्थिती से कठिन कुछ नहीं हो सकता  
+**[3424.24s] English:** And there will have to be an attempt to understand what this is.  
 **Translation:** 
 
-**[3344.66s] English:** यह कठिन है मुझे वो दिन आज भी आदिंग है कई कॉमिक्स यह कहते हैं और मुझे लगता है कि डेन को पहला व्यक्ति था जिसे मैंने इसे सारवजनिक रूप से कहते सुना था कि अगर उसे फिर से शुरुआत से सब कुछ करना पड़े तो वो नहीं सोचता कि वो इसे क  
+**[3426.88s] English:** What is the shortage like?  
 **Translation:** 
 
-**[3360.00s] English:** वो ओपन माइक की मुश्किलों को सेहन कर पाएगा और आखिरकार सफलता तक पहुँच पाएगा और जो लोग इसे आजमाते हैं और असफल होते हैं वे उन लोगों के मुकाबले बहुत ज्यादा हैं जो सफल होते हैं मुझे नहीं पता कि कोई और आर्ट फॉर्म होगा जिस  
+**[3428.22s] English:** Can you edit your things?  
 **Translation:** 
 
-**[3390.00s] English:** वर्ड सिखा सकता है और अगर आप इसे करेंगे तो आप ऑनल अलांग द वाच टावर भी गा सकते हैं आप इसे बजा सकते हैं  
+**[3430.64s] English:** And you can make it better.  
 **Translation:** 
 
-**[3396.78s] English:** है लेकिन आप किसी को कॉमेडी करना नहीं सिखा सकते कि आप सोचते हैं कि मजदार है या नहीं या क्या आप  
+**[3431.92s] English:** Maybe you should take drugs.  
 **Translation:** 
 
-**[3402.06s] English:** क्या आप अभी भी इसे समझ सकते हैं और सीख सकते हैं  
+**[3433.88s] English:** You might want to include psychedelic drugs.  
 **Translation:** 
 
-**[3405.48s] English:** आप इसे समझ सकते हैं मुझे नहीं लगता  
-**Translation:** 
-
-**[3407.26s] English:** क्या आप मज़ेदार होना बंद कर सकते हैं और फिर सच में मज़ेदार बन सकते हैं  
-**Translation:** 
-
-**[3411.70s] English:** हाँ ये संभव है हालांकि ये आसान नहीं है  
-**Translation:** 
-
-**[3414.38s] English:** तुम्हें बहुत सारी कठिनाईयां सहनी होगी  
-**Translation:** 
-
-**[3416.34s] English:** तुम्हें बहुत सारा कड़वा घूट पीना पड़ेगा  
-**Translation:** 
-
-**[3418.48s] English:** और यह देखना पड़ेगा कि तुम मज़ेदार क्यों नहीं हो  
-**Translation:** 
-
-**[3420.82s] English:** और तुम्हें बहुत समय असहज विचारों के साथ बिताना होगा  
-**Translation:** 
-
-**[3424.24s] English:** और यह समझने की कोशिश करनी होगी कि यह क्या है  
-**Translation:** 
-
-**[3426.88s] English:** जैसे क्या कमी है  
-**Translation:** 
-
-**[3428.22s] English:** क्या तुम अपनी चीजों को edit कर सकते हो  
-**Translation:** 
-
-**[3430.64s] English:** और इसे बहतर बना सकते हो  
-**Translation:** 
-
-**[3431.92s] English:** शायद तुम्हें drugs करना चाहिए  
-**Translation:** 
-
-**[3433.88s] English:** शायद तुम्हें psychedelic drugs में शामिल होना चाहिए  
-**Translation:** 
-
-**[3436.74s] English:** और यह सोचने की जरूरत है कि  
+**[3436.74s] English:** And there is a need to think about that.  
 **Translation:** Vocabulary: psychedelic: 迷幻的
 
-**[3438.14s] English:** तुम सच में वास्तविक्ता से कैसे जुड़ते हो  
+**[3438.14s] English:** How do you connect with reality in truth?  
 **Translation:** 
 
-**[3440.96s] English:** शायद तुम्हें हार्ट ब्रोक की ज़रूरत हो  
+**[3440.96s] English:** Maybe you need a heart bro.  
 **Translation:** 
 
-**[3443.20s] English:** शायद तुम्हें प्यार में होना चाहिए  
+**[3443.20s] English:** You should probably want to be in love.  
 **Translation:** 
 
-**[3445.02s] English:** शायद, वहाँ बहुत सारे शायद हैं  
+**[3445.02s] English:** Shādy, there are probably many shādy places.  
 **Translation:** 
 
-**[3447.04s] English:** शायद आपको सिर्फ अधिक जीवन अनुभव की आवश्यकता है  
+**[3447.04s] English:** Probably you just need more life experience.  
 **Translation:** 
 
-**[3450.08s] English:** लेकिन जब मैंने कॉमेडी शुरू की  
+**[3450.08s] English:** But when I started comedy,  
 **Translation:** 
 
-**[3452.14s] English:** तब मैं 21 साल का था और मेरे पास कोई जानकारी नहीं थी  
+**[3452.14s] English:** Then I was 21 years old, and I had no information.  
 **Translation:** 
 
-**[3454.96s] English:** बस मैं लोगों की नकल कर सकता था  
-**Translation:** 
+**[3454.96s] English:** But I could have mimicked the people.  
+**Translation:** Vocabulary: mimicked: 模仿
 
-**[3457.54s] English:** और मैं बस सेक्स के बारे में बात कर सकता था  
+**[3457.54s] English:** And I could have talked about sex.  
 **Translation:** 
 
-**[3459.62s] English:** ये वे चीज़ें थी जो मुझे तब दिल्चस्प लगती थी  
+**[3459.62s] English:** These were the things that used to interest me then.  
 **Translation:** 
 
-**[3462.84s] English:** मतलब अगर मैं फिलोसाफिकली वे में बात कर रहा था  
+**[3462.84s] English:** Meaning, if I was philosophically discussing them,  
 **Translation:** 
 
-**[3465.34s] English:** तो मुझे नहीं पता मेरे पास कोई फिलोसफी नहीं थी  
-**Translation:** 
+**[3465.34s] English:** So, I did not know that I had any philosophy.  
+**Translation:** Vocabulary: philosophically: 哲学地
 
-**[3467.20s] English:** मेरे पास जीवन पर एक अनोखा दृष्टिकोण नहीं था  
+**[3467.20s] English:** I did not have a unique perspective on life.  
 **Translation:** 
 
-**[3469.92s] English:** मैंने ज्यादा अनुभव नहीं किया था  
+**[3469.92s] English:** I had not experienced much more of it.  
 **Translation:** 
 
-**[3471.56s] English:** ये वो चीज़ें थी जो मुझे तब दिल्चस्प लगती थी  
+**[3471.56s] English:** These were the things that used to interest me then.  
 **Translation:** 
 
-**[3475.00s] English:** मतलब अगर मैं फिलोसाफिकली वे में बात कर रहा था  
+**[3475.00s] English:** Meaning, if I was philosophically discussing them,  
 **Translation:** 
 
-**[3477.72s] English:** तो मुझे नहीं पता  
+**[3477.72s] English:** So, I don't know.  
 **Translation:** 
 
-**[3478.78s] English:** हाँ वास्तव  
+**[3478.78s] English:** Yes, definitely.  
 **Translation:** 
 
-**[3480.00s] English:** तो मैं आप क्या मानते हैं आप सीखते हैं और मेरा मानना है कि आप पॉडकास्टिंग के बारे में भी ऐसा ही कह सकते हैं मैं बिल्कुल निश्चित रूप से सच में बातचीत करने में बहुत बहतर हूं जितना कि जब मैंने पहली बार कॉमेडी शुरू की थी ओ एक्स्क्य�  
+**[3480.00s] English:** So, what do you think? You learn and I believe you can say the same about podcasting. I am definitely sure that I am much better at having real conversations than when I first started comedy, oh excuse me.  
 **Translation:** 
 
-**[3510.00s] English:** हूं जिससे मुझे डर लगता है स्टैंड अप करो नहीं पर मैं करना चाहता हूं जैसे एक छोटा सा पांच मिनट का ओपन माइक तुम किल टोनी क्यों नहीं करते बताइए पांच मिनट करना कितना कठिन है ये मुश्किल है खैर ये इस पर निर्भर करता है कि आप कॉमे�  
-**Translation:** 
+**[3510.00s] English:** I'm scared to stand up and perform, but I want to do it, like a small 5-minute open mic. Why don't you try Kil Tony? It's only 5 minutes, how hard can it be? Well, it depends on how funny you are.  
+**Translation:** Vocabulary: podcasting: 播客制作
 
-**[3540.00s] English:** एक विशय अगले से जुड़ता नहीं है इसमें कोई फ्लो नहीं होता बस मैंने ये देखा मैंने ये नोटिस किया और फिर ये है और फिर वह है और इसे याद करके रखना काफी मुश्किल भरा होता है और घंटों तक नॉन सेक्वेटर जोड़ना सच में काफी मुश्किल  
+**[3540.00s] English:** One topic does not flow into the next; there is no connection between them. I have noticed this and then this, and then that, and remembering them takes a lot of effort and can be quite difficult for hours.  
 **Translation:** 
 
-**[3570.00s] English:** स्टीफन राइट या मिच हैटबर्ग की तरह रॉ जोक्स नहीं है तो तुम्हारा सब कुछ डिलिवरी पर निर्भर होता है या तो जबरदस्त प्रदर्शन करते हैं या पूरी तरह से फेल हो जाते हैं क्या ये रैंडम है चाहे वो हिट हो जाएं या फिर फ्लॉप खर मे  
-**Translation:** 
+**[3570.00s] English:** Stephen Right or Mitch Hatberg is not a roast joke, so everything depends on delivery. They either perform spectacularly or completely fail. Is this random? Whether they hit it big or flop.  
+**Translation:** Vocabulary: hatberg: 哈伯格; mitch: 米奇; spectacularly: 精彩地
 
-**[3600.00s] English:** और पोषण है, आपका दिल तूट गया है, आप कई दिनों से सोय नहीं है, आप हर समय एक अलग व्यक्ति होते हैं, और आप उस मंच पे कॉमेडी करने जाते हैं, तुम उस इलाके में हो, जहां लेक्स फ्रिड मैन है, तुम लेक्स फ्रिड मैन के इलाके में हो, तो अब मु�  
+**[3600.00s] English:** And nutrition is key, your heart has stopped beating, you haven't slept for days, and you are a different person at every moment. You go to perform comedy on that stage where Lex Fridman exists, and you are in the area where Lex Fridman resides. Now, let's move on.  
 **Translation:** 
 
-**[3630.00s] English:** दुनिया ऐसे देख सकती है, लेकिन ये कॉमेडी में सबसे महत्वपूर्ण शो में से एक है, ये कॉमेडी में सबसे महत्वपूर्ण शो है, क्योंकि सबसे पहले ये स्टैंड अप में स्थापित करता है, कि स्टैंड अप में खास कर उन लोगों के लिए जो ओपन माइक स  
-**Translation:** 
+**[3630.00s] English:** The world can see it this way, but in comedy, this is one of the most important shows, because first and foremost, it establishes that stand-up is special for those who are open mic enthusiasts.  
+**Translation:** Vocabulary: enthusiasts: 热心爱好者; foremost: 首要的; resides: 居住
 
-**[3660.00s] English:** यह तै करेंगे कि संदेश अधिक महत्वपूर्ण है और वे ऐसा दिखावा करेंगे कि आपको जैसे यह जरूरी है कि आ आप सामाजिक  
+**[3660.00s] English:** This we will ensure is a more important message, and they will present it in such a way that you feel as though it is necessary for you to engage socially.  
 **Translation:** 
 
-**[3670.24s] English:** कि रूप से जागरूक हो जाएं और यह कि आपको अपनी कॉमेडी में सकारात्मक चीजों को बढ़ावा देना चाहिए यह बकवास  
+**[3670.24s] English:** It is important to stay awake and that you should promote positive things in your comedy, not just nonsense.  
 **Translation:** 
 
-**[3679.32s] English:** है जो लोग ऐसा कहते हैं वह सभी खराब है वह सभी कॉमेडी में खराब है और यही उनकी असुरक्षा है ऐसा है कि  
+**[3679.32s] English:** Those who say such things are all bad. They are bad in comedy, and that is their vulnerability.  
 **Translation:** 
 
-**[3685.08s] English:** वह बस अच्छे से प्रदर्शन नहीं कर पाते तो उन्हें दिखावा करना पड़ता है कि वह सामाजिक रूप से जागरूक है और यह  
-**Translation:** 
+**[3685.08s] English:** He just doesn't perform well, so he has to show that he is socially active and that he  
+**Translation:** Vocabulary: vulnerability: 弱点
 
-**[3690.90s] English:** सामाजिक रूप से जागरूक होना समाज का एक महत्वपूर्ण हिस्सा है मुझे कुछ वास्तव में स्पष्ट रूप से समझाने  
+**[3690.90s] English:** Social awareness is an important part of society. I really need it explained to me clearly.  
 **Translation:** 
 
-**[3695.82s] English:** है धरती पर कोई भी इंसान जो की वजह से कभी अपनी जिंदगी नहीं बदलता है यह उनका उद्देश नहीं है उनका  
+**[3695.82s] English:** There is no human on Earth who, for any reason, never changes their life. That is not their purpose.  
 **Translation:** 
 
-**[3703.26s] English:** उद्देश तो जोक्स बनाना है जो लोग ऐसा कहते हैं वह कहते हैं कि सामाजिक रूप से महत्वपूर्ण कॉमेडी ही एक  
+**[3703.26s] English:** The goal is to make jokes that people say are socially important comedy.  
 **Translation:** 
 
-**[3708.60s] English:** बात्र जरूरी कॉमेडी है जो आपको करनी चाहिए असल में यह सिर्फ इसलिए कहते हैं क्योंकि वह खुद अच्छे नहीं होते  
+**[3708.60s] English:** Batra is definitely a necessary comedy that you should do. Actually, we say this only because they are not good at it themselves.  
 **Translation:** 
 
-**[3713.88s] English:** हां बस इतना ही ऐसा है जैसे एक आसान रास्ता अपनाते हैं क्योंकि वह असली कॉमेडी नहीं कर सकते ऐसा नहीं है कि कोई एक  
+**[3713.88s] English:** Yes, basically it is like they are taking an easy way because they can't actually do real comedy, that's not the case for anyone.  
 **Translation:** 
 
-**[3720.00s] English:** कॉमडी से दूसरे तरह की कॉमडी में बदल जाता है  
+**[3720.00s] English:** Comedy changes to another kind of comedy.  
 **Translation:** 
 
-**[3722.14s] English:** शेन गिलेस को लें  
+**[3722.14s] English:** Shen Giles's turn.  
 **Translation:** 
 
-**[3723.70s] English:** वह अभी उभरते हुए बहतरीन कॉमिक्स में से एक है  
+**[3723.70s] English:** He is currently one of the rising best comics.  
 **Translation:** 
 
-**[3726.18s] English:** वह वाकई शानदार है  
+**[3726.18s] English:** She is truly brilliant.  
 **Translation:** 
 
-**[3727.58s] English:** मैं आपको उस आदमी को लाइफ देखने की सिफारिश करता हूँ  
+**[3727.58s] English:** I recommend that you watch the man's life.  
 **Translation:** 
 
-**[3730.08s] English:** मैं उनके साथ इर्विन में काम करता हूँ  
+**[3730.08s] English:** I work with them in Irvine.  
 **Translation:** 
 
-**[3760.08s] English:** और बस बकवास की बात है जो वो अपने personal brand को उंचा दिखाने और virtue signal करने की कोशिश कर रहा है ऐसा कभी भी होने वाला नहीं है  
-**Translation:** 
+**[3760.08s] English:** And it's just nonsense they are trying to boost their personal brand and send virtue signals — that will never happen.  
+**Translation:** Vocabulary: irvine: 美国加利福尼亚州城市; virtue: 美德
 
-**[3767.36s] English:** kill tony के बारे में बात यह है कि बस आपके पास केवल एक minute है और क्योंकि ये live है और क्योंकि आप नहीं चाहेंगे कि tony या कोई और आप पर हसे  
+**[3767.36s] English:** Kill Tony: The thing is, you only have one minute, and since this is live, and you don't want anyone, including Tony, to laugh at you.  
 **Translation:** 
 
-**[3790.08s] English:** क्या आप funny है अगर आप मज़ेदार हैं तो आप अंदर हैं और हर कोई आपको पसंद करता है आप 80 के या 20 के हो सकते हैं किसी को कोई भी चीज से बिलकुल फर्क नहीं पड़ता आप महिला हो सकते हैं पुरुष हो सकते हैं या कोई भी हो सकते हैं किसी को कोई फर्क नहीं प  
+**[3790.08s] English:** Do you think you're funny? If you are, you're on the inside, and everyone likes you. You could be in your 80s or 20s; it makes no difference to anyone. You could be a woman, a man, or anything at all; it makes no difference to anyone.  
 **Translation:** 
 
-**[3820.08s] English:** सकता है कि सबसे मज़ेदार चीजों के नीचे  
+**[3820.08s] English:** It might be the most fascinating things underneath.  
 **Translation:** 
 
-**[3822.04s] English:** भी कुछ ग्यान छुपा होता है  
-**Translation:** 
+**[3822.04s] English:** Some gan is also kept hidden.  
+**Translation:** Vocabulary: underneath: 在...下面
 
-**[3823.68s] English:** जो अंत में बाहर निकलता है  
+**[3823.68s] English:** Which one finally ends up outside.  
 **Translation:** 
 
-**[3825.50s] English:** लेकिन इसका मुख्य उद्देश यह नहीं होता  
+**[3825.50s] English:** But this is not primarily about.  
 **Translation:** 
 
-**[3827.90s] English:** हाँ मेरा मतलब है कि यह प्रेरणादायक और मज़ेदार हो सकता है  
+**[3827.90s] English:** Yes, my meaning is that this can be inspiring and fun.  
 **Translation:** 
 
-**[3830.36s] English:** टिम डिलन इसका एक बहतरीन उदारण है  
+**[3830.36s] English:** Tim Delin is a great example of that.  
 **Translation:** 
 
-**[3832.16s] English:** हाँ उसकी कॉमेडी में कुछ अद्भुत यादे हैं  
+**[3832.16s] English:** Yes, there are some amazing memories in her comedy.  
 **Translation:** 
 
-**[3834.84s] English:** लेकिन यह अभी भी  
+**[3834.84s] English:** But this is still  
 **Translation:** 
 
-**[3835.80s] English:** यह सिर्फ मज़ाग के बारे में है  
+**[3835.80s] English:** This is just about fun.  
 **Translation:** 
 
-**[3837.38s] English:** मज़ेदार  
-**Translation:** 
+**[3837.38s] English:** Mazedaar  
+**Translation:** Vocabulary: mazedaar: 妙趣横生的
 
-**[3838.12s] English:** हाँ यह हमेशा मज़ेदार है  
+**[3838.12s] English:** Yes, it is always amusing.  
 **Translation:** 
 
-**[3840.00s] English:** वह इसे करने में सबसे अच्छा है, खासकर पॉडकास्ट के रूप में, जहां वह महत्वपूर्ण बिंदूओं को हसी के साथ बुनता है, ये साफ नजर आता है, बस जोक्स  
-**Translation:** 
+**[3840.00s] English:** He is the best at doing this, especially for podcasts, where he weaves important points with jokes, making it clear and just jokes.  
+**Translation:** Vocabulary: weaves: 编织
 
-**[3853.76s] English:** मैं आपसे टिम डिलन के बारे में पूछना चाहता हूँ, जो एक अस्तव्यस्त व्यक्ति है, क्या हम आपके बच्पन के बारे में बात कर सकते हैं, थोड़ा बहुत ही, तो आपके मम्मी और पापा का तलाग तब हुआ जब आप पांच साल के थे, एक छोटे दृष्टि को�  
+**[3853.76s] English:** I want to ask you about Tim Dalton, who is an enigmatic person. Can we talk about your childhood, just a little bit? Your mom and dad got divorced when you were five years old.  
 **Translation:** 
 
-**[3883.76s] English:** हीरो की तरह थे, वह मेरे पिता जी थे, मुझे लगता है कि हर बच्चा अपने पिता के बारे में ऐसा ही सोचता है, उसके पिता जैसे आपके पिता आपके रक्षक हैं, आपके पिता जैसे दुनिया के सबसे अच्छे व्यक्ति हैं, ये वही है जो आपको पसंद है, हाँ,  
-**Translation:** 
+**[3883.76s] English:** He was like a hero to me, my father. I think every child thinks their father is like a hero. Your father is like a protector, just like your father. Your father is like the best person in the world, and these are the ones we love, yes.  
+**Translation:** Vocabulary: dalton: 达顿; enigmatic: 神秘; protector: 保护者
 
-**[3913.76s] English:** मारपीट वाली लड़ाई?  
+**[3913.76s] English:** Maruti-vs-Mahindra battle?  
 **Translation:** 
 
-**[3914.52s] English:** ओ, मैंने उसे चेहरे पर घूंसा मारा.  
-**Translation:** 
+**[3914.52s] English:** Oh, I slapped him right on the face.  
+**Translation:** Vocabulary: slapped: 拍了
 
-**[3917.58s] English:** जब आप पाँच साल के थे?  
+**[3917.58s] English:** When you were five years old?  
 **Translation:** 
 
-**[3919.12s] English:** हाँ, और फिर...  
+**[3919.12s] English:** Yes, and then...  
 **Translation:** 
 
-**[3920.66s] English:** आप किस की साइट थे?  
+**[3920.66s] English:** What site were you at?  
 **Translation:** 
 
-**[3921.90s] English:** किंग और नी?  
+**[3921.90s] English:** King and Neil?  
 **Translation:** 
 
-**[3922.42s] English:** ओके.  
+**[3922.42s] English:** Okay.  
 **Translation:** 
 
-**[3923.42s] English:** मैं गलत था, गोर्जिला बहुत बड़ा है.  
-**Translation:** 
+**[3923.42s] English:** I was wrong; gorilla is much bigger.  
+**Translation:** Vocabulary: gorilla: 大猩猩
 
-**[3925.96s] English:** हाँ.  
+**[3925.96s] English:** Yes.  
 **Translation:** 
 
-**[3926.32s] English:** वो पाँच सौ फीट लंबा है, और उसके मुँँ से आग निकलती है.  
-**Translation:** 
+**[3926.32s] English:** It is five hundred feet long, and flames emerge from its mouth.  
+**Translation:** Vocabulary: flames: 火焰
 
-**[3930.28s] English:** हाँ, हाँ, क्या आप शौर हो?  
+**[3930.28s] English:** Yes, yes, are you shy?  
 **Translation:** 
 
-**[3932.78s] English:** मेरा मतलब, एक तरक तो है कि सब कुछ साइज पर निर्भर नहीं करता.  
+**[3932.78s] English:** My point is, one thing is that not everything depends on size.  
 **Translation:** 
 
-**[3937.48s] English:** कोई बहस नहीं.  
+**[3937.48s] English:** There is no debate.  
 **Translation:** 
 
-**[3938.38s] English:** पाँच सौ फीट उंचा वर्सस पचास फीट उंचा.  
+**[3938.38s] English:** Five hundred feet tall versus fifty feet tall.  
 **Translation:** 
 
-**[3941.14s] English:** एक बड़ा डाइनासोर है, दूसरा एक बेवकूफ बंदर है, जिसे प्लेइन से गिरा दिया जाता है.  
+**[3941.14s] English:** A big dinosaur is there, and the second one is a silly monkey that is dropped from the plane.  
 **Translation:** 
 
-**[3946.46s] English:** क्या बंदर गॉर्जिला की सवारी कर सकता है, जैसे उसकी पीट पर बैठ जाए?  
+**[3946.46s] English:** Can a monkey ride a gorilla, like sitting on its back?  
 **Translation:** 
 
-**[3949.88s] English:** नहीं.  
+**[3949.88s] English:** No.  
 **Translation:** 
 
-**[3950.58s] English:** तुम गॉर्जिला को हवाई जहाज से नहीं मार सकते?  
-**Translation:** 
+**[3950.58s] English:** Tum cannot kill a gorilla from a helicopter?  
+**Translation:** Vocabulary: cannot: 不能; helicopter: 直升机
 
-**[3952.60s] English:** नहीं मार सकते?  
+**[3952.60s] English:** No, I can't kill them?  
 **Translation:** 
 
-**[3960.00s] English:** आपको नहीं लगता कि जंगल में कोई छोटा जानवर बड़े जानवर को हरा सकता है  
+**[3960.00s] English:** It does not seem that any small animal can defeat a large one in the jungle.  
 **Translation:** 
 
-**[3985.20s] English:** आपके पास चलो देखते हैं, एक शेयर, बंदर वर्सस एक भालू, क्या, कौन जीतता है, एक बंदर वर्सस एक भालू, नहीं बंदर नहीं, वो बंदर नहीं है, सबसे ताकतवर एप कौन है, गोरिला, नहीं लेकिन गोरिला, ठीक है, गोरिला पीछे के टैक्स नहीं कर सकता  
+**[3985.20s] English:** Let's see, a share, a monkey versus a bear, who wins? Not the monkey, he isn't a gorilla either, but which is stronger, a gorilla, no, but a gorilla, okay, a gorilla can't pull a taxicab.  
 **Translation:** 
 
-**[4015.20s] English:** बिल्कुल स्पाइडर मंकी बिल्कुल सही यहां कुछ जानवर है जैसे कि एक बहतर उदाहरण एक वूल्वरिन वूल्वरिन भेडियों और भालुओं को उनके शिकार से दूर भगा देते हैं और वे बिल्कुल भी बड़े नहीं है वे बहुत ही भैंकर है और वे इतने मज�  
-**Translation:** 
+**[4015.20s] English:** Exactly like Spider-Man, there are some animals here such as a better example. Vulvarins, for instance, drive away the prey of wolf spiders and beetles, and they are not very big either. They are extremely fearful, and they are so small.  
+**Translation:** Vocabulary: beetles: 甲壳虫; fearful: 害怕的; gorilla: 大猩猩; taxicab: 出租车; vulvarins: 雌激素
 
-**[4045.20s] English:** बेहतरी नुदाहरण है, पिट बुल्स छोटे होते हैं, जैसे असली गेम ब्रीड पिट बुल्स का वजन लगभग 35 से 45 पाउंड होता है, और वे बहुत बड़े कुट्टों को भी मार देंगे।  
+**[4045.20s] English:** A better example is, pit bulls are smaller, like the actual game breed pit bulls weigh about 35 to 45 pounds and they can take down much larger dogs.  
 **Translation:** 
 
-**[4054.18s] English:** एनिवे, आप किंग कॉन की साइड थे, अपने कज़िन को मार रहे थे।  
+**[4054.18s] English:** No, you were on the King Kong side, beating up your casino.  
 **Translation:** 
 
-**[4075.20s] English:** हम दोनों का जगड़ा हो गया, हम किंग कॉन और गॉडजिला को लेकर बहस कर रहे हैं।  
+**[4075.20s] English:** We are both engaged in a debate, discussing King Kong and Godzilla.  
 **Translation:** 
 
-**[4080.00s] English:** कर रहे थे और मैंने उसे चेहरे पर मारा और उन्हें पूछा क्या तुम रोए मैंने कहा नहीं उन्हें का गुड कभी मत  
-**Translation:** 
+**[4080.00s] English:** They were crying, and I hit them on the face and asked if they were crying. I told them never to cry again.  
+**Translation:** Vocabulary: godzilla: 哥斯拉
 
-**[4086.76s] English:** रोना और और मुझे वह याद है कि वह ठीक है और मैंने सोचा कि ठीक है मैं बस लोगों को मारना शुरू कर दूंगा  
+**[4086.76s] English:** Rona, and I remember that he was okay. And I thought, well, I'll just start killing people.  
 **Translation:** 
 
-**[4094.76s] English:** क्योंकि जाहिर है मेरे पापा को लगता है कि अगर मैं लोगों को मारने जाओं तो ये एक अच्छा विचार है जब तक मैं रोँ नहीं  
+**[4094.76s] English:** Because it is obvious to my father that if I go and beat people, this is a good idea until I cry.  
 **Translation:** 
 
-**[4102.54s] English:** जैसे मुझे इसके बारे में कुछ बातें याद हैं और ये भी पसंद है कि क्या ये फिर से वैसा ही है जिसके बारे में हम बात कर रहे हैं।  
+**[4102.54s] English:** As I remember some things about it, and also like to check if this is the same as what we are talking about.  
 **Translation:** 
 
-**[4113.44s] English:** लैनी ब्रूस को देखकर और ये समझकर कि उस समय दुनिया कैसी थी ये एक बिलकुल अलग दुनिया है।  
+**[4113.44s] English:** Laini looked at Bruce and realized that the world back then was a completely different world.  
 **Translation:** 
 
-**[4119.88s] English:** हाँ, और आप जानते हैं 1972 में, वह एक अलग दुनिया थी उस समय, यार जैसे कि सच में एक बहुत अलग दुनिया,  
+**[4119.88s] English:** Yes, and you know in 1972, that was a different world back then, yaar like a really different world,  
 **Translation:** 
 
-**[4128.58s] English:** हाँ, तो कारल जंग ने छाया के बारे में बात की, यह unconscious है, जहां आपके पास अंधकारमाई चीज़ें होती हैं,  
-**Translation:** Vocabulary: unconscious: 无意识的
+**[4128.58s] English:** Yes, so Karl Jung talked about the shadow, which is unconscious, where you have dark aspects within yourself.  
+**Translation:** Vocabulary: unconscious: 潜意识
 
-**[4135.64s] English:** और अकसर आप उन चीज़ों को project करते हैं, जिनकी आप अपने बारे में बहुत आलोचना करते हैं, क्योंकि वो आपके अवचेतन में होती हैं, और आप उन्हें दूसरों पर डालने के लिए इस्तिमाल करते हैं, आप इसे दूसरों में कमियों के रूप में देखते हैं, और �  
+**[4135.64s] English:** And often you project onto those things that you criticize a lot about yourself, because they happen unconsciously, and you use them to put others down, seeing their shortcomings in them.  
 **Translation:** 
 
-**[4165.64s] English:** सवाल पूछना शुरू करते हैं और इस तरह आप इसे सथाह पर लाते हैं लेकिन फिर भी वहां से प्रारंभिक वर्ष है  
-**Translation:** 
+**[4165.64s] English:** We start by asking questions and in this way, we bring it to the context. However, it still remains a beginner's level.  
+**Translation:** Vocabulary: shortcomings: 缺点; unconsciously: 无意识地
 
-**[4172.48s] English:** कि उस समय से क्या आपके एनकॉंशियस में अभी भी ऐसी बातें हैं जिन्हें आप नहीं समझ पाए कुछ डॉक शिट मुझे  
+**[4172.48s] English:** Is there anything in your conscious mind from that time that you still cannot understand? Some doc shit, muhuhu.  
 **Translation:** 
 
-**[4179.20s] English:** लगता नहीं मुझे नहीं पता क्या यह इसलिए है क्योंकि मैंने देखा है जैसे अगर कोई कहे मैंने तुम्हारे घर  
-**Translation:** 
+**[4179.20s] English:** It doesn't seem to me that this is the case because I have seen it as if someone said I have been to your house.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[4186.82s] English:** पर कुछ छोड़ दिया है तो आप पूछो कहां छोड़ा और वह बोले पता नहीं तो आप कहो ठीक है मैं देखता हूं हां मैं पूरी  
+**[4186.82s] English:** Par, but something has been left out. Then you ask where it was left and he said he doesn't know. So you say okay, I'll check. Yes, I will look into it completely.  
 **Translation:** 
 
-**[4194.44s] English:** से जांच करवाने जा रहा हूं लेकिन मैं शूर हूं मैं शूर हूं कि यह वहां नहीं है मुझे नहीं पता मुझे लगता है कि मैंने देखा है  
+**[4194.44s] English:** I am going to check, but I am sure that it is not there. I am not sure if I have seen it.  
 **Translation:** 
 
-**[4200.00s] English:** मेरा मतलब, मुझे लगता है कि सकारात्मक प्रभाव तब भी बढ़ गया जब मेरी मा ने मेरे सौतेले पिता से शादी की, जो एक बहुत अच्छे व्यक्ति हैं, जो एक हिप्पी था बहुत अलग, हमने बहुत जगे घूमी और इसका बुरा पहलू ये था कि मैंने वास्त�  
+**[4200.00s] English:** My meaning is that I think the positive influence increased when my mother married my soulful father, who is a very good person and used to be quite different, a hippie. We traveled a lot, but the bad side of it was that I had to grow up fast.  
 **Translation:** 
 
-**[4230.00s] English:** मुझे लगबग हर चीज के बारे में अपने विचार और राय बनाने के लिए मजबूर किया गया था और इसने मुझे एक स्वतंत्र विचारक बना दिया, तो इसके अलावा तत्य ये है कि तुम्हें पता है बहुत जल्दी अपने तथा कथित हीरो को खो देना और फिर च  
-**Translation:** 
+**[4230.00s] English:** I was forced to form opinions and views about almost everything, and this made me into an independent thinker. Besides, you know how quickly you can lose your so-called hero and then continue on.  
+**Translation:** Vocabulary: hippie: 嬉皮士; soulful: 深情的; thinker: 思考者
 
-**[4260.00s] English:** मुझे दिल्चस्प लगीं जैसे मार्शल आर्ट्स और फिर कॉमेडी, अगर मैं इनमें रुची नहीं लेता तो मैं मुश्किल में होता क्यूंकि मैं सामान्य नौकरियों के लिए बहुत स्वतंत्र था, मैं स्कूल के लिए बहुत स्वतंत्र था, मैं बस लोगों की बात �  
+**[4260.00s] English:** I found martial arts and then comedy so delightful. If I didn't have an interest in them, I would have been in a tough spot because I was quite independent for regular jobs, independent for school, and just talking to people wasn't enough.  
 **Translation:** 
 
-**[4290.00s] English:** यह शायद आपके जीवन का सबसे अच्छा समय है आप जिस कहानी को जी रहे हैं वह सबसे अच्छी कहानियों में से एक है  
-**Translation:** 
+**[4290.00s] English:** This is probably the best time in your life. You are living in one of the best stories ever told.  
+**Translation:** Vocabulary: martial: 武术
 
-**[4301.14s] English:** मेरे जैसे किसी के लिए यह timeline सबसे अच्छी है  
+**[4301.14s] English:** For someone like me, this timeline is the best.  
 **Translation:** 
 
-**[4303.78s] English:** क्या आप लोगों को सलाह दे सकते हैं उन युवा बच्चों को जो किसी भी प्रकार की कठिन परिस्थिती से गुजर रहे हैं एक कठिन जीवन  
+**[4303.78s] English:** Can you advise the young people who are going through any kind of tough situation on how to cope with a difficult life?  
 **Translation:** 
 
-**[4314.12s] English:** अपनी पसंद की चीज खोजें एक ऐसी चीज खोजने की कोशिश करें जो आपको वास्तव में खुशी दे  
+**[4314.12s] English:** Find something you love. Try to discover a thing that really brings you joy.  
 **Translation:** 
 
-**[4320.00s] English:** एक्टिविटी हां शुरू में मेरे लिए यह ड्राइंग थी यह इल्लुस्ट्रेशन था यह कॉमिक किताबें थी मैं कॉमिक बुक  
-**Translation:** 
+**[4320.00s] English:** Activity: Yes, at the beginning, this was drawing for me, an illustration, comic books. I did comic books.  
+**Translation:** Vocabulary: illustration: 插图
 
-**[4325.82s] English:** इल्लुस्ट्रेटर बनना चाहता था और फिर यह कॉमिक बुक ड्राइंग और इल्लुस्ट्रेशन से मार्शल आर्ट्स की तरफ  
+**[4325.82s] English:** He wanted to become an illustrator and then shifted from comic book drawing and illustration towards martial arts.  
 **Translation:** 
 
-**[4333.14s] English:** आ गया लेकिन यह भी एक और चीज थी जिसके बारे में मैं बहुत ही ज्यादा पैशनेट था और मैं सोचता हूं कि वही  
-**Translation:** 
+**[4333.14s] English:** It went away, but there was also another thing that I was extremely passionate about, and I think that was  
+**Translation:** Vocabulary: illustrator: 插画家; passionate: 热情的; shifted: 转向
 
-**[4341.50s] English:** मेरा जरिया था मेरी डाइलेमा से बाहर निकलने का और वही तरीका था मेरी anxiety, trauma, मेरी खुद की  
+**[4341.50s] English:** My goal was to step outside of my dilemma, and that was the only way to get rid of my anxiety, trauma, and my own inner turmoil.  
 **Translation:** 
 
-**[4350.10s] English:** समस्याओं और insecurities से बाहर निकलने का कुछ खोजें कोई ऐसी चीज खोजें जो आपको वास्तव में पसंद हो क्योंकि उन चीजों में अच्छा होना जो आपको वास्तव में पसंद है यह युवाओं के लिए बेहद लाबकारी होता है क्योंकि यह आपको यह जानने देता है  
-**Translation:** Vocabulary: trauma: 创伤
+**[4350.10s] English:** To step away from problems and insecurities, find something to search for that you really like because being good at things you really like is extremely beneficial for young people as it teaches you that.  
+**Translation:** Vocabulary: beneficial: 有益的; dilemma: 困境; trauma: 创伤; turmoil: 混乱
 
-**[4380.10s] English:** मैं शुरू नहीं किया मार्शल आर्ट्स ने मुझे सिखाया कि मैं चीजों में बेहतर हो सकता हूं ऐसा नहीं था कि मैं लूजर था मैं बस एक अजीब सी स्थिति में फंसा हुआ व्यक्ति था लेकिन आप युवा होने के नाते जो सारी उर्जा है उसे किसी चीज में लग  
+**[4380.10s] English:** I didn't start martial arts to become better at things; I was just a strange person stuck in a situation. But because of my youth, all that energy had to go somewhere.  
 **Translation:** 
 
-**[4410.10s] English:** जिससे दूसरे लोग डरते थे और इससे मुझे बहुत आत्मविश्वास मिला और साथ ही एक वास्तविक समझ भी आई कड़ी मेहनत और सफलता के बीच प्रत्यक्ष संबंध और ये समझते हुए कि आप एक हारे हुए नहीं है ठीक है ये है कि कुछ डाइमंड कच्चे र  
-**Translation:** 
+**[4410.10s] English:** From what others were afraid of, and from this, I gained a lot of self-confidence, and also a real understanding. There was a clear connection between hard work and success, and realizing that you are not broken but just raw diamonds waiting to be polished.  
+**Translation:** Vocabulary: martial: 武术; polished: 打磨
 
-**[4440.00s] English:** आपको समझना होगा कि आप कौन है और फिर दूसरों की आलोचना के सामने  
+**[4440.00s] English:** You need to understand who you are and then face criticism from others.  
 **Translation:** 
 
-**[4445.96s] English:** आपकी सफल होने की क्षमता में विश्वास की कमी है फिर भी आप आगे बढ़ते हैं और इसमें बहुत लाब होता है  
+**[4445.96s] English:** There is a lack of confidence in your ability to succeed, yet you keep moving forward, and there is a lot to gain from this.  
 **Translation:** 
 
-**[4453.88s] English:** फिर आप महसूस करते हैं कि आप इसे जीवन की अन्य चीजों पर लागू कर सकते हैं आप इसे आलोचकों पर सोशल मीडिया कमेंटेटर्स पर लागू कर सकते हैं आप इसे कई चीजों पर लागू कर सकते हैं  
+**[4453.88s] English:** Then you will feel that you can apply it to other aspects of life. You can apply it to critics, social media commentators, and many other things.  
 **Translation:** 
 
-**[4464.86s] English:** ठीक है 50 की देशक वाले युवाओं के बारे में क्या ख्याल है आप उस व्यक्ति को क्या सलाह देंगे इमेजिन कि आप अपनी 90 की उम्र में यहां टेकसास में बैठे हैं पीछे मुड़ कर देख रहे हैं तो वह व्यक्ति आज आपको क्या सलाह देगा या लोगों की तरह त�  
-**Translation:** 
+**[4464.86s] English:** Okay, what do you think about 50-something country dwellers? If you were that person looking back at age 90 in Texas today, what advice would you give to them or a similar group of people?  
+**Translation:** Vocabulary: commentators: 评论员; dwellers: 居住者
 
-**[4494.86s] English:** रिलैक्स करने के लिए एक शानदार परिवार है शायद अभी भी अद्भूत काम करने का कुछ प्रत्साहन हो  
+**[4494.86s] English:** A wonderful family for relaxation, perhaps still providing some amazing support for incredible work.  
 **Translation:** 
 
-**[4500.86s] English:** मध्यरेकिस्तान में डेविड गोगिंस दोड़ रहे होंगे कैमरे में जोर जोर से बोलते हुए अगर आप डेविड गोगिंस हैं  
-**Translation:** 
+**[4500.86s] English:** In centralistan, David Gogins is running in the race, shouting loudly into the camera: "If you are David Gogins.  
+**Translation:** Vocabulary: relaxation: 放松
 
-**[4506.74s] English:** तो आपको डेविड गोगिंस ही होना पड़ेगा मुझे तो नहीं लगता कि उस आदमी के जीवन के इस स्टेज में उसके लिए और कोई रास्ता है  
+**[4506.74s] English:** So, you'll have to be David Göggens. I don't think there's any way for that man at this stage of his life.  
 **Translation:** 
 
-**[4514.18s] English:** आपको लगता है वो सत्तर साल का होकर भी चिलाता रहेगा हां ठीक है वन हंड्रेड परसेंट एक सौ प्रतिशत अगर डेविड और मैं जिंदा हैं जब हम दोनों सत्तर के हो जाएंगे वो मुझे फोन करेगा और कहेगा गेरंटीड गेरंटीड तो जो भी हो उसमें जी ज  
-**Translation:** 
+**[4514.18s] English:** It seems he'll keep chilling at seventy years old, huh?百分之一百，一百 percent. If David and I are still alive when we both turn七十岁，他会给我打电话说“保证，保证”，无论发生什么，我会活下来。  
+**Translation:** Vocabulary: chilling: 闲逛
 
-**[4544.18s] English:** पॉसिबल है अगर आप जीवित हैं तो आप बेहतर हो सकते हैं फर्क नहीं पड़ता चाहे कुछ भी हो अगर तुम जिंदा हो तो तुम चीजें शिफ्ट कर सकते हो मेरा मतलब है कि अगर आप 90 साल के हैं और जानते हैं कि आपके पास एक महीने का समय है तो आप उन चीजो  
+**[4544.18s] English:** Possible if you are alive, then you can be better. There is no difference whether anything happens as long as you are alive. My meaning is that if you are 90 years old and know you have only one month left, you can shift your focus to what truly matters.  
 **Translation:** 
 
-**[4560.00s] English:** कर सकते हैं और अपने आसपास की लोगों के साथ अपने रिष्टों को बेहतर बना सकते हैं ताकि आपके जाने के बाद वे आपके बारे में अलग महसूस करें।  
+**[4560.00s] English:** You can do it and improve your tips with the people around you so that after you're gone, they feel different about you.  
 **Translation:** 
 
-**[4566.76s] English:** हाँ मुझे हमेशा पसंद आता है जब सत्तर के लोग जो फिर से डेटिंग या ऐसी किसी चीज में इंटरेस्ट लेना शुरू कर देते हैं।  
+**[4566.76s] English:** Yes, I always like it when seventy-year-olds start dating or show interest in something again.  
 **Translation:** 
 
-**[4572.52s] English:** मैं एक वीडियो देख रहा था जिसमें एक साथ की उमर की महिला है जिसने अभी पावर लिफ्टिंग शुरू किया है।  
+**[4572.52s] English:** I was watching a video of an age-matched woman who has just started powerlifting.  
 **Translation:** 
 
-**[4577.56s] English:** अच्छा और जीव जिट्सू के साथ भी वही आप देखते हैं कि लोग जीव जिट्सू में कैसे शामिल होते हैं जैसे एक सफेद बेल्ट जो लगबख सत्तर का है।  
+**[4577.56s] English:** Good, and with life jackets as well, you see that people include themselves in life jackets like a white belt that wraps around seventy degrees.  
 **Translation:** 
 
-**[4607.56s] English:** मतलब ऐसी चीज़ें करना जो थोड़ी मुश्किल हों और ये सब कुछ दिमाग के लिए भी उतनी ही जरूरी है जितना की खाना खाना हमारे शरीर के लिए जरूरी होता है।  
+**[4607.56s] English:** Meaning, do things that are slightly difficult and all of this is as essential for the mind as food is necessary for our body.  
 **Translation:** 
 
-**[4618.94s] English:** मुझे लगता है कि तुम्हें ऐसी चीज़ें चहिए जो तुम्हारे लिए थोड़ी confusing हों जहां तुम्हें अपने human potential को समझना पड़े उस task की मुश्किल के बीच और अपने तरीके से उन चीज़ों को solve करना पड़े।  
+**[4618.94s] English:** I think you need things that are a bit confusing for you, where you have to understand your human potential between the difficulty of that task and learn to solve those things in your own way.  
 **Translation:** 
 
-**[4632.44s] English:** कम से कम मेरे लिए तो ये सही लगता है। मेरे लिए। मेरा मतलब है मैं सिर्फ अपने लिए बोल सकता हूँ क्योंकि मैं वही जिन्दगी जी रहा हूँ जो मुझे पता है और मेरी जिन्दगी में ये सौ प्रतिशत constant रहा है।  
-**Translation:** 
+**[4632.44s] English:** Here's the improved sentence with natural English punctuation and capitalization: For me, at least, this seems right. My meaning is that I can only speak for myself because I am living the life I know, and in my life, this has been 100% constant.  
+**Translation:** Vocabulary: capitalization: 大写
 
-**[4644.68s] English:** मैं एक बहुत खुश इनसान हूँ और कभी भी ऐसा moment नहीं आया जब मैं difficult काम नहीं कर रहा हूँ।  
+**[4644.68s] English:** I am a very happy person, and there has never been a moment when I was not doing difficult work.  
 **Translation:** 
 
-**[4651.58s] English:** हाँ। कभी भी।  
+**[4651.58s] English:** Yes. Always.  
 **Translation:** 
 
-**[4653.68s] English:** सबसे ज्यादा मायने रखता है कि तुम fires से कितनी अच्छी तरह से गुजरते हो। तुम अपने लिए बार-बार नए files शुरू करते जा रहे हो।  
+**[4653.68s] English:** The most important thing is that you handle fires as well as possible. You are starting new files for yourself repeatedly.  
 **Translation:** 
 
-**[4659.84s] English:** अच्छा, वो ज़रूरी नहीं है कि fires ही हों क्योंकि fires का मतलब होता है ऐसे tasks जो काफी out of control होते हैं।  
+**[4659.84s] English:** Good, it's not necessary that they be fires because the term "fires" refers to tasks that are quite out of control.  
 **Translation:** 
 
 **[4665.56s] English:** Lukewarm.  
@@ -1996,733 +1997,733 @@ Source file: Lex Fridman - Joe Rogan： Comedy, Controversy, Aliens, UFOs, Putin
 **[4667.90s] English:** Surfaces.  
 **Translation:** 
 
-**[4668.38s] English:** Tasks. तुम अपने आपको एक ऐसा मुश्किल काम दो जो तुम्हें challenge करे, जो तुम्हें mentally और physically दोनों तरीकों से challenge करे। एक बड़ी बात जो physical challenge के बारे में है, वो यह है कि  
+**[4668.38s] English:** Tasks. Give yourself a challenging task that will challenge you both mentally and physically. A big thing about a physical challenge is that it should be:  
 **Translation:** 
 
-**[4680.00s] English:** कि ये mental भी होता है। जो लोग ये बात नहीं समझते, उन्होंने शायद कभी physically अच्छे से challenge experience ही नहीं किया होगा। जो लोग सोचते हैं कि physical challenges बस physical होते हैं, उन्होंने उसका पूरा असर नहीं देखा। ये केवल कड़ी मेहनत है। ये emotional intelligence है। ये समझना है कि तुम्हारा quit करन  
+**[4680.00s] English:** That is also mental. Those who do not understand this, probably have never experienced a physical challenge well enough. Those who think that physical challenges are just physical have not fully seen its impact. This is only sheer hard work. It is emotional intelligence. It is understanding that you need to keep going.  
 **Translation:** 
 
-**[4710.00s] English:** जो तुम्हारे intellectual pursuits में काम आ सकती है। और जो लोग ऐसा नहीं सोचते, वो अक्सर वो लोग होते हैं जो कभी इन चीज़ों को attempt करते ही नहीं है। और उन लोगों में एक तरह का arrogance होता है। जो सिर्फ intellectual exercises या सिर्फ intellectual चीज़ें pursue करते हैं और कभी physical चीज़ें pursue नहीं करते है  
-**Translation:** Vocabulary: arrogance: 傲慢; pursuits: 追求
+**[4710.00s] English:** What can work in your intellectual pursuits, and those who don't think that way are often the people who never attempt such things. And there is a certain arrogance in them. Those who only pursue intellectual exercises or intellectual things and never pursue physical things.  
+**Translation:** Vocabulary: arrogance: 自以为是; pursuits: 追求
 
-**[4740.00s] English:** physical चीज़ें करने का कोई opportunity ही नहीं होती right। उसकी physical dilemma उसे या फिर उसका दिल धडड़काने में मदद कर रही थी। लेकिन ज्यादातर लोगों के लिए मुझे लगता है कि तुम physical struggle से सच में benefit कर सकते हो। और इसका फाइदा तुम्हें mentally भी होता है। और मुझे लगता है कि  
+**[4740.00s] English:** Physical things to do are rarely an option, right. Her physical dilemma was helping her heart beat faster or so it seemed. But for most people, I think you can truly benefit from physical struggle, and the payoff can be mental too. And I believe that  
 **Translation:** 
 
-**[4770.00s] English:** ये बात fat या उन सब चीज़ों के बारे में भी नहीं है। ये बात असल में उस physical challenge के बारे में है जो तुम्हारे लिए बहुत अच्छा होता है। खास कर अगर तुम academic हो या intellectual टाइप का काम करते हो। MIT के एक बहुत अच्छे roboticist है रस्टेड्रिक। हर दिन नंगे पैर MIT तक  
-**Translation:** Vocabulary: roboticist: 机器人学家
+**[4770.00s] English:** These are not about fat or those things. In fact, it's about a physical challenge that is really good for you, especially if you're academic or an intellectual type. There's a very good roboticist at MIT named Restrick. He walks naked to MIT every day.  
+**Translation:** Vocabulary: dilemma: 困境; payoff: 回报; roboticist: 机器人学家
 
-**[4800.00s] English:** करती है वह हर तरह के मूवमेंट में खूबसूर्थी देखता है उसके पैर कैसे दिखते हैं आप जानते हैं कैलस्ट  
+**[4800.00s] English:** She observes the beautiful movements in all kinds of dance, noticing how her feet and calves look.  
 **Translation:** 
 
-**[4805.58s] English:** डिस्ट्रॉइड राइट नहीं बस थोड़े कैलस्ट है पर वह अच्छे हैं वह एक अच्छा मतलब ऐसा नहीं है कि मैंने उनको  
-**Translation:** 
+**[4805.58s] English:** Distract Write is not just a few calories, but they are good. That's not a good way to say it, as I have consumed them.  
+**Translation:** Vocabulary: calves: 小腿; distract: 分心; observes: 观察
 
-**[4812.12s] English:** एक मसाज दिया पर मेरा मतलब है वह अच्छे लगते हैं है और मुझे कोई फुट फेटिश नहीं है इसलिए मैं दूसरे  
+**[4812.12s] English:** A massage is fine, but my meaning is that they feel good and I have no foot fetish, so I'll go for the other.  
 **Translation:** 
 
-**[4819.04s] English:** आदमी के पांव को ठीक से इनवेस्ट या इवेल्यूएट नहीं कर सकता इसके लिए माफी चाहता हूं पर यह फग्ड अप नहीं  
-**Translation:** 
+**[4819.04s] English:** I cannot invest or evaluate a person's foot properly, so I apologize, but this frog is not.  
+**Translation:** Vocabulary: cannot: 不能; evaluate: 评估; fetish: 癖好; massage: 按摩
 
-**[4825.24s] English:** रखते हैं क्या वह कंक्रीट पर दौड़ता है हां वह हर सरफेस पर दौड़ता है और वह सब कुछ पूरी तरह से नंगे  
+**[4825.24s] English:** Do they run on concrete? Yes, he runs on every surface, and he is completely naked.  
 **Translation:** 
 
-**[4831.42s] English:** पैर करता है काम पर जो रनिंग पार्ट है तो एक चीज जो उसे करनी पड़ती है वह है सोसाइटी में फिट होना इसका मतलब  
+**[4831.42s] English:** Pari kartha hai kama par jo running part hai, to ek cheezi ye ki usse karni padti hai, woh hai society mein fit hona. Iska matlab  
 **Translation:** 
 
-**[4838.20s] English:** है कि उसे अपने कपड़े बदलने पड़ेंगे और नॉर्मल दिखना होगा ठीक है तो क्या वह बिल्कुल जूते नहीं पहनता  
+**[4838.20s] English:** Is it that they will need to change their clothes and look normal? Okay, but does he not wear shoes at all?  
 **Translation:** 
 
-**[4843.76s] English:** हां वह नहीं है टाइप के शूज नहीं क्योंकि वह तो एकदम हैप्पी और वॉकी टाइप की बात लगती है नहीं जैसे वह  
+**[4843.76s] English:** ,Yes, that is not a type of shoe. It's happy and walkie-type talk, not like that at all.  
 **Translation:** 
 
-**[4850.86s] English:** करता वह बिना शूज के भागता है और फिर वह नॉर्मल दिखने वाली चीजें पहनता है जैसे ड्रेस शूज वह कैसे  
+**[4850.86s] English:** He removes the bandage and then puts on normal things like clothes. How does he remove the bandage?  
 **Translation:** 
 
-**[4856.62s] English:** काम करता था वह नंगे पांव दोड़ने के लिए कैसे तैयार हुआ तो वह काफी ओवरवेट था और उसका एडवाइजर जो एक  
-**Translation:** 
+**[4856.62s] English:** He had to prepare for running naked in a competition, but he was quite overweight, and his advisor, who was an  
+**Translation:** Vocabulary: bandage: 绷带
 
-**[4864.54s] English:** बहुत फेमस माइटी का रोबोटिसिस्ट था उसने अपनी लाइफ खत्म कर ली और इस घटना ने रस को अपनी खुद की  
+**[4864.54s] English:** A very famous Mythic robotist had ended their life, and this event turned the tide in his favor.  
 **Translation:** 
 
-**[4872.76s] English:** मॉर्टालिटी का सामना करने पर मजबूर कर दिया मुझे लगता है मेरा मतलब आप अपनी वेल बींग के बारे में बड़े सवाल  
-**Translation:** 
+**[4872.76s] English:** Making me face mortality seems to mean that you have big questions about your own well-being.  
+**Translation:** Vocabulary: mythic: 神话般的; robotist: 机器人专家
 
-**[4880.08s] English:** बचने लगते हो जैसे होली शिट यह राइट किसी भी पल खत्म हो सकती है और इसलिए उसने अपनी फिजिकल वेल  
+**[4880.08s] English:** It seems to drag on like Holi. The right moment could be over at any second, and that's why she kept her physical well-being in check.  
 **Translation:** 
 
-**[4887.52s] English:** बींग को सीरियसली लेना शुरू कर दिया लेकिन इसका नतीजा सिर्फ यह नहीं हुआ कि वह शेयर हो गया बल्कि उसने  
+**[4887.52s] English:** Bing began to take Sirius seriously, but the result was not that he became a share; rather, he  
 **Translation:** 
 
-**[4894.48s] English:** फिजिकल एक्सरसाइज की इंटेलेक्चुअल वैल्यू और हम लिंग वैल्यू को भी डिसकवर किया वह इस बारे में बिल्कुल  
+**[4894.48s] English:** Physical exercise has intellectual value and we have also discovered gender value in that regard completely.  
 **Translation:** 
 
-**[4902.46s] English:** भी प्रीची नहीं है मैं सच में बहुत ही कम उसे किसी को इसके बारे में एडवाइस करते हुए सुनता हूं वह इसे  
-**Translation:** 
+**[4902.46s] English:** He doesn't preach much. I honestly hear him advise others about it very rarely.  
+**Translation:** Vocabulary: preach: 布道
 
-**[4907.56s] English:** प्रेस ऐसे करता है जैसे मेडिटेशन या कुछ उस तरह का हो यह निश्चित रूप से एक तरह की मेडिटेशन है और तुम  
+**[4907.56s] English:** Press can be like meditation or something of that nature, and it is definitely a form of meditation, and you  
 **Translation:** 
 
-**[4913.86s] English:** इस बात की गवाही दे सकते हो है ना तुम काफी रनिंग करते हो इसमें कुछ खास बात है अ  
-**Translation:** 
+**[4913.86s] English:** Can you testify to that? You run quite a bit in this, and there's something special about it.  
+**Translation:** Vocabulary: testify: 作证
 
-**[4920.00s] English:** यह कुछ ऐसा होता है जैसे एक मंत्रा बन जाता है और तुम उसके अंदर चले जाते हो  
+**[4920.00s] English:** This is like a mantra that forms and you walk into it.  
 **Translation:** 
 
-**[4924.56s] English:** यहाँ आस्तिन की गर्मी में बहुत अच्छा लगा सौ डिग्री का मौसम  
-**Translation:** 
+**[4924.56s] English:** Here in Astin, it felt great in the warm weather of 100 degrees.  
+**Translation:** Vocabulary: mantra: 心咒
 
-**[4927.04s] English:** जो तुम्हें टेस्ट करता है  
+**[4927.04s] English:** Which tests you.  
 **Translation:** 
 
-**[4928.86s] English:** तुम्हें पता है मुझे बाहर जाकर स्लेट्स खींचना बहुत पसंद है  
+**[4928.86s] English:** You know that I really like going outside to pull the slats.  
 **Translation:** 
 
-**[4931.56s] English:** वो तो मेरा शौक है  
+**[4931.56s] English:** That's my cup of tea.  
 **Translation:** 
 
-**[4933.00s] English:** मुझे स्लेट्स को बाहर खींचना है  
-**Translation:** 
+**[4933.00s] English:** I need to pull the slats outside.  
+**Translation:** Vocabulary: slats: 百叶窗
 
-**[4935.50s] English:** धेर में?  
+**[4935.50s] English:** How much?  
 **Translation:** 
 
-**[4936.28s] English:** हाँ मैंने आज किया  
+**[4936.28s] English:** Yes, I have done it today.  
 **Translation:** 
 
-**[4937.38s] English:** हाँ  
+**[4937.38s] English:** Yes.  
 **Translation:** 
 
-**[4938.38s] English:** मुझे यह पसंद है  
+**[4938.38s] English:** I like this.  
 **Translation:** 
 
-**[4939.28s] English:** तो तुम और तुम्हारी वाइफ भी कमाल की है  
+**[4939.28s] English:** So, you and your wife are also great.  
 **Translation:** 
 
-**[4941.32s] English:** तुम रिलेशनशिप में हो  
+**[4941.32s] English:** You are in a relationship.  
 **Translation:** 
 
-**[4942.82s] English:** तुम शादी शुदा हो  
+**[4942.82s] English:** Tum shadi shuda ho.  
 **Translation:** 
 
-**[4944.22s] English:** तुम्हारा परिवार भी बहुत अच्छा है  
+**[4944.22s] English:** Your family is also very good.  
 **Translation:** 
 
-**[4945.98s] English:** तुम मुझे और मेरी तरह के बाकी लोगों को  
+**[4945.98s] English:** Tum mere se aur meri tarah ke baaki logon ko  
 **Translation:** 
 
-**[4948.42s] English:** जो अभी तक कोई रिलेशनशिप नहीं ढूंढ पाए हैं  
-**Translation:** 
+**[4948.42s] English:** Those who have not found any relationship yet.  
+**Translation:** Vocabulary: tarah: 类型
 
-**[4950.64s] English:** और थोड़े बेवकूफ हैं  
+**[4950.64s] English:** And they are a bit silly.  
 **Translation:** 
 
-**[4951.86s] English:** क्या अडवाइस दोगे  
+**[4951.86s] English:** What advice will you give?  
 **Translation:** 
 
-**[4981.86s] English:** शायद तुम दयालू नहीं हो  
+**[4981.86s] English:** You might not be compassionate.  
 **Translation:** 
 
-**[4984.44s] English:** ऐसा क्या है तुम्हारे अंदर  
-**Translation:** 
+**[4984.44s] English:** What is that in you?  
+**Translation:** Vocabulary: compassionate: 富有同情心的
 
-**[4986.12s] English:** कि लोग तुम्हारे आसपास रहना पसंद नहीं करते  
+**[4986.12s] English:** That people do not like to live near you.  
 **Translation:** 
 
-**[4989.00s] English:** या तुमसे बचते हैं  
+**[4989.00s] English:** This keeps you safe.  
 **Translation:** 
 
-**[4990.34s] English:** सबसे पहले तुम उसे ठीक करो  
+**[4990.34s] English:** First, you should fix it.  
 **Translation:** 
 
-**[4992.26s] English:** खैर ये मुझे पर भी लगू बता है  
-**Translation:** 
+**[4992.26s] English:** Khair, ye mujhe par bhi lagta hai batata hai.  
+**Translation:** Vocabulary: batata: 说话
 
-**[4994.42s] English:** आपने कुछ कहा था कैम हेंस के बारे में  
+**[4994.42s] English:** You said something about Cam Henes.  
 **Translation:** 
 
-**[4996.44s] English:** एक चीज जो आपको बहुत पसंद है  
+**[4996.44s] English:** One thing that you really like.  
 **Translation:** 
 
-**[4998.18s] English:** वह है वो डिसिप्लिन  
+**[4998.18s] English:** That is the discipline.  
 **Translation:** 
 
-**[5000.02s] English:** जो इतने सारे कामों को संभालने  
-**Translation:** 
+**[5000.02s] English:** Which can handle such a multitude of tasks,  
+**Translation:** Vocabulary: discipline: 规章; multitude: 众多
 
-**[5001.94s] English:** और उन्हें सफलता से करने के लिए चाहिए  
+**[5001.94s] English:** And they should do it for success.  
 **Translation:** 
 
-**[5003.90s] English:** मुझे नहीं लगता कि मैं इसमें बहुत अस्थारी  
+**[5003.90s] English:** I don't think I am very inconsistent in this.  
 **Translation:** 
 
-**[5006.40s] English:** मेहनत के साथ साथ एक रिष्टा भी संभालना  
+**[5006.40s] English:** Along with hard work, one must also manage a reward.  
 **Translation:** 
 
-**[5008.50s] English:** साथ ही रिष्टे, परिवार, प्रायोरिटीज भी होती है  
-**Translation:** 
+**[5008.50s] English:** Along with bribes, families, and priorities also play a role.  
+**Translation:** Vocabulary: bribes: 贿赂; priorities: 优先事项
 
-**[5011.48s] English:** मेरा मतलब है  
+**[5011.48s] English:** My meaning is  
 **Translation:** 
 
-**[5012.50s] English:** इसके लिए तुम्हें अपनी चीज़ें सही से ओर्गनाइस करनी पड़ती है  
+**[5012.50s] English:** For this, you need to organize your things correctly.  
 **Translation:** 
 
-**[5015.30s] English:** यह करता है, यह एक अलग बात है  
+**[5015.30s] English:** This does it, which is a different thing.  
 **Translation:** 
 
-**[5016.86s] English:** लेकिन आपको सही इंसान भी ढूंढना पड़ता है  
+**[5016.86s] English:** But you also need to find the right person.  
 **Translation:** 
 
-**[5019.18s] English:** बहुत से लोग सिर्फ सेक्सी के लिए समझवता कर लेते हैं  
+**[5019.18s] English:** Many people just assume it's for sex.  
 **Translation:** 
 
-**[5022.18s] English:** वे हॉट के लिए समझवता कर लेते हैं  
+**[5022.18s] English:** They understand it as hot.  
 **Translation:** 
 
-**[5023.94s] English:** वे गलत इंसान के लिए समझवता कर लेते हैं  
+**[5023.94s] English:** They understand and justify wrong actions for humans.  
 **Translation:** 
 
-**[5026.82s] English:** आप हॉट और अच्छा भी पा सकते हैं  
-**Translation:** 
+**[5026.82s] English:** You can also be hot and good.  
+**Translation:** Vocabulary: justify: 辩解
 
-**[5028.50s] English:** वे लोग बाहर हैं  
+**[5028.50s] English:** They are outside.  
 **Translation:** 
 
-**[5029.50s] English:** पर गुस्सा मत हो और मीन मत बनो  
+**[5029.50s] English:** But don't get angry and don't become bitter.  
 **Translation:** 
 
-**[5031.16s] English:** ये दोनों चीजे मजा नहीं देते  
+**[5031.16s] English:** These two things don't bring any joy.  
 **Translation:** 
 
-**[5032.56s] English:** फिर तुम एमबर हर्ड बन जाओगे  
-**Translation:** 
+**[5032.56s] English:** Then you will turn into Amber Hard.  
+**Translation:** Vocabulary: amber: 琥珀
 
-**[5033.96s] English:** और फिर तुम एक ट्रायल में फंस जाते हो  
+**[5033.96s] English:** And then you get stuck in a trial.  
 **Translation:** 
 
-**[5036.98s] English:** आपको परफेक्ट सिमेटरी से  
-**Translation:** 
+**[5036.98s] English:** From Perfect Symmetry,  
+**Translation:** Vocabulary: symmetry: 对称
 
-**[5040.00s] English:** धोखा भी मिल सकता है तो तुम नहीं सोचते कि यह अच्छा आइडिया है अपने पार्टनर को मेरा मानना है कि आपको सभी  
+**[5040.00s] English:** Deception can also happen, but you don't think it's a good idea to assume your partner will believe you if they don't know everything.  
 **Translation:** 
 
-**[5045.22s] English:** बातचीत रिकॉर्ड करनी चाहिए सीआईए इसे चाहे जो भी हो कर रहा है मैं मानता हूं कि मेरी हर बातचीत रिकॉर्ड  
-**Translation:** 
+**[5045.22s] English:** Recording of the conversation should be done by CII, I presume that every conversation of mine should be recorded.  
+**Translation:** Vocabulary: deception: 欺骗
 
-**[5050.56s] English:** की जाती है क्योंकि मुझे यकीन है कि ऐसा ही होता है जब हमने एलएक्स जोन्स के साथ डिनर किया तब भी वह  
+**[5050.56s] English:** Because I believe that's what happens when we had dinner with Alex Jones, even then.  
 **Translation:** 
 
-**[5056.08s] English:** रिकॉर्ड कर रहा है मुझे वह अभी भी याद है मुझे वह याद नहीं है मुझे पता नहीं था कि वह रिकॉर्ड हो रहा था तुम  
-**Translation:** 
+**[5056.08s] English:** Recording, I still remember that. I don't remember it at all. I didn't know it was being recorded, you.  
+**Translation:** Vocabulary: jones: 琼斯
 
-**[5061.84s] English:** जानते हो यह कितना मज़ेदार होगा अगर वह सीआईए में हो आप हो सकते हैं वह सबसे बड़ा मज़ाक होगा लेकिन  
+**[5061.84s] English:** Do you know how much fun it would be if you were in the C.I.A.? You could be the biggest joke of all, but  
 **Translation:** 
 
-**[5069.28s] English:** रिश्तों के बारे में मेरी सलाह है कि कुछ बनो और फिर जैसे ऐसा इंसान ढूंढो जिसके साथ तुम ग्रो कर सको ठीक  
-**Translation:** 
+**[5069.28s] English:** Here is the improved sentence with natural English punctuation and capitalization: My advice about relationships is to do something and then find a person like that with whom you can grow together.  
+**Translation:** Vocabulary: capitalization: 大写
 
-**[5077.32s] English:** है तुम किसी ऐसे इंसान के साथ नहीं रहना चाहोगे जो तुम्हारी वैल्यू शेयर नहीं करता हो किसी ऐसे इंसान  
+**[5077.32s] English:** Do you not want to be with someone who does not share your values?  
 **Translation:** 
 
-**[5082.66s] English:** के साथ नहीं रहना चाहोगे जो आप किसी ऐसे व्यक्ति के साथ नहीं रहना चाहते जो आलसी हो या बहुत जलता हो आप  
+**[5082.66s] English:** You won't want to keep company with those who do not want to stay away from someone as lazy or very angry as they are.  
 **Translation:** 
 
-**[5088.90s] English:** ऐसे व्यक्ति के साथ रहना चाहते हैं जो genuinely kind हो यह एक ऐसी चीज है जिसे मैं अपनी पत्नी में बहुत पसंद करता हूँ वो बहुत smart है और कड़ी मेहनत करती है वो एक dedicated disciplined person है लेकिन वो सच में अच्छी भी है यही कारण है कि मैं उसे सबसे ज्यादा पसंद करता हूँ वो ह  
+**[5088.90s] English:** To stay with such a person who is genuinely kind, that's something I really like about my wife. She is very smart and works hard. She is a dedicated and disciplined person, but she is also genuinely good. That's why I like her the most.  
 **Translation:** 
 
-**[5118.90s] English:** ऐसे लोगों का होना अच्छा है वो खुश है वो एक happy person है वो आपके आसपास रहने के लिए खुश है ऐसे लोग जिनका आप जीवन में दोस्त, co-workers, lover और जीवन साथी के रूप में स्वागत कर सकते हैं आप उन लोगों को पा सकते हैं वे real हैं और जब आपको वो लोग म  
-**Translation:** Vocabulary: disciplined: 有纪律的
+**[5118.90s] English:** It's good to have such people around; they are happy and glad to be in your life. You can welcome into your life friends, co-workers, lovers, and life partners—these are real people who will be there for you when you need them.  
+**Translation:** Vocabulary: disciplined: 有纪律; genuinely: 真正地
 
-**[5148.90s] English:** हैं तो है मेरे आसपास के लोग मेरे पास बहुत अच्छे दोस्त हैं और उनमें से एक आप भी हैं अपने आसपास अच्छे लोगों का होना बहुत वैलियोबल है क्योंकि यह आपको बेहतर करने  
+**[5148.90s] English:** Here are the people around me, and they are all very good friends. And one of them is you too. It's very valuable to have good people around because this improves you.  
 **Translation:** 
 
-**[5160.00s] English:** प्रेरणा देता है आप उन लोगों की मेहनत की प्रशंसा करते हैं जैसे camhands या gogins या मेरे कई दोस्त और लोग जो जेनरस हैं जो curious हैं और जो इमानदार हैं वो आपको ऐसा करने के लिए प्रेरित करते हैं और ये extremely valuable है.  
-**Translation:** Vocabulary: camhands: 榜样手
+**[5160.00s] English:** Inspiration comes from praising the hard work of people like CamHands or Gogins, or my many friends and colleagues who are generous, curious, and honest. They inspire you to do the same, and they are extremely valuable.  
+**Translation:** Vocabulary: colleagues: 同行; praising: 表扬
 
-**[5177.00s] English:** सबसे valuable चीजों में से एक है  
+**[5177.00s] English:** One of the most valuable things is  
 **Translation:** 
 
-**[5179.72s] English:** अपने आपको positive, healthy, friendly और generous लोगों के साथ घेरना  
+**[5179.72s] English:** Keep yourself surrounded by positive, healthy, friendly, and generous people.  
 **Translation:** 
 
-**[5185.32s] English:** यही वज़े है कि मैंने Tim Dillon को अपनी जिन्दगी से बाहर कर दिया  
+**[5185.32s] English:** This is how I removed Tim Dillon from my life.  
 **Translation:** 
 
-**[5188.82s] English:** मुझे लगा आप लोग शारी कर रहे थे  
+**[5188.82s] English:** I thought you were sharing something.  
 **Translation:** 
 
-**[5190.14s] English:** मैंने उससे रिष्टा तोड़ दिया  
+**[5190.14s] English:** I broke the truce with him.  
 **Translation:** 
 
-**[5190.96s] English:** नहीं, यह खत्म हो गया है  
-**Translation:** 
+**[5190.96s] English:** No, this has come to an end.  
+**Translation:** Vocabulary: truce: 休战
 
-**[5192.84s] English:** ऐसा कुछ भी नहीं है  
+**[5192.84s] English:** There is nothing like that.  
 **Translation:** 
 
-**[5194.16s] English:** टेकसास की non-stop बातें, non-stop शडियंतर की कहानिया  
+**[5194.16s] English:** Texas's Non-Stop Conversations, Non-Stop Decades of Stories  
 **Translation:** 
 
-**[5198.46s] English:** मेरे Eastern European origins का non-stop मजाक उडाना  
+**[5198.46s] English:** To improve the punctuation and capitalization in natural English, while keeping the same meaning: My non-stop joke flight from Eastern European origins.  
 **Translation:** 
 
-**[5201.94s] English:** यह मेरे लिए अच्छा नहीं है  
-**Translation:** 
+**[5201.94s] English:** This is not good for me.  
+**Translation:** Vocabulary: capitalization: 首字母大写
 
-**[5205.40s] English:** इसके अलावा वो physically abusive और एक towering figure है  
+**[5205.40s] English:** Besides, he is physically abusive and a towering figure.  
 **Translation:** 
 
-**[5209.36s] English:** वो physically एक बड़ा लड़का है  
+**[5209.36s] English:** He is physically a big boy.  
 **Translation:** Vocabulary: abusive: 虐待的
 
-**[5211.58s] English:** नहीं, मैं उससे प्यार करता हूँ  
+**[5211.58s] English:** No, I don't love her.  
 **Translation:** 
 
-**[5213.24s] English:** अगर वो workout करता, तो वो एक house बन जाता  
+**[5213.24s] English:** If he worked out, he would become a house.  
 **Translation:** 
 
-**[5215.26s] English:** यह एक बड़ा frame है, आपको पता है?  
+**[5215.26s] English:** This is a big frame, do you know?  
 **Translation:** 
 
-**[5219.26s] English:** तो अगर मैं पुतिन का interview लूँ, तो मुझे उनसे क्या पूछना चाहिए?  
+**[5219.26s] English:** So if I do an interview with Putin, what should I ask him?  
 **Translation:** 
 
-**[5223.38s] English:** Cancer कैसा है? कैसे हो दोस्त?  
+**[5223.38s] English:** What is cancer? How does it happen, friend?  
 **Translation:** 
 
-**[5227.34s] English:** यह Russian में question number one है  
+**[5227.34s] English:** This is question number one in Russian.  
 **Translation:** 
 
-**[5229.22s] English:** क्या आपको लगता है कि उसे cancer है?  
+**[5229.22s] English:** Does it seem like they have cancer?  
 **Translation:** 
 
-**[5231.74s] English:** मुझे ऐसा नहीं लगता  
+**[5231.74s] English:** It doesn't feel like that to me.  
 **Translation:** 
 
-**[5232.82s] English:** कहानी terrifying है, है न?  
+**[5232.82s] English:** The story is terrifying, isn't it?  
 **Translation:** 
 
-**[5234.60s] English:** दुनिया के largest nuclear arsenal का dictator  
+**[5234.60s] English:** The dictator of the country with the world's largest nuclear arsenal  
 **Translation:** Vocabulary: arsenal: 武器库; dictator: 独裁者; terrifying: 恐怖的
 
-**[5236.64s] English:** जिसे cancer है और उसने अभी अभी एक  
+**[5236.64s] English:** Cancer has been diagnosed, and he just had one  
 **Translation:** 
 
-**[5238.72s] English:** sovereign country पर attack किया है  
-**Translation:** Vocabulary: sovereign: 独立国家
+**[5238.72s] English:** So, a sovereign country has attacked.  
+**Translation:** Vocabulary: diagnosed: 确诊; sovereign: 独立国家
 
-**[5240.50s] English:** यह एक terrifying कहानी है क्योंकि यही वह है  
+**[5240.50s] English:** This is a terrifying story because that's exactly what it is.  
 **Translation:** 
 
-**[5243.18s] English:** जिससे हम सभी डरते हैं  
+**[5243.18s] English:** We are all afraid of that.  
 **Translation:** 
 
-**[5244.92s] English:** ऐसा व्यक्ति जिसके पास खोने के लिए कुछ नहीं है  
+**[5244.92s] English:** Such a person who has nothing to lose  
 **Translation:** 
 
-**[5246.96s] English:** जिसने अभी एक परमाणु बम छोड़ने का फैसला किया है  
+**[5246.96s] English:** Those who have just decided to drop an atomic bomb.  
 **Translation:** 
 
-**[5249.84s] English:** शायद यह मेरी सोच हो सकती है  
+**[5249.84s] English:** Maybe this is my imagination.  
 **Translation:** 
 
-**[5251.62s] English:** लेकिन अगर मुझे cancer होता  
+**[5251.62s] English:** But if I had cancer,  
 **Translation:** 
 
-**[5253.06s] English:** या अगर आप उन leaders के बारे में सोचते हैं  
+**[5253.06s] English:** If you are thinking about those leaders,  
 **Translation:** 
 
-**[5255.74s] English:** जिनने cancer है तो आप  
+**[5255.74s] English:** Those who have cancer should.  
 **Translation:** 
 
-**[5257.34s] English:** अपनी मौत का सामना कर रहे हैं  
+**[5257.34s] English:** They are facing their death.  
 **Translation:** 
 
-**[5258.88s] English:** मुझे लगता है कि आप अपनी legacy पर  
+**[5258.88s] English:** I think you are concerned about your legacy.  
 **Translation:** 
 
-**[5261.20s] English:** ज्यादा focus करेंगे और एक परमाणु बम  
+**[5261.20s] English:** Focus more on that and one atomic bomb.  
 **Translation:** 
 
-**[5263.60s] English:** गिराना legacy के लिए अच्छा नहीं है  
+**[5263.60s] English:** It is not good for Girana's legacy.  
 **Translation:** 
 
-**[5265.02s] English:** मुझे विश्वास है कि वो एक  
+**[5265.02s] English:** I believe that he is one  
 **Translation:** 
 
-**[5266.82s] English:** great leader के रूप में याद किया जाना चाहता है  
+**[5266.82s] English:** Great leader should be remembered.  
 **Translation:** 
 
-**[5269.72s] English:** जैसे कई leaders करते हैं  
+**[5269.72s] English:** Like many leaders do,  
 **Translation:** 
 
-**[5271.74s] English:** जैसे कई dictators भी करते हैं  
+**[5271.74s] English:** Like many dictators, they also do it.  
 **Translation:** Vocabulary: dictators: 独裁者
 
-**[5273.64s] English:** और मुझे लगता है कि वो  
+**[5273.64s] English:** And I think that they  
 **Translation:** 
 
-**[5275.28s] English:** एक रास्ता निकालना चाहता है जीत  
+**[5275.28s] English:** He wants to find a way out to win.  
 **Translation:** 
 
-**[5277.34s] English:** हासिल करने का ताकि वो कह सके  
+**[5277.34s] English:** He could say that he earned it.  
 **Translation:** 
 
-**[5280.00s] English:** यह जो भी चीज थी, यह invasion जो भी था, वो रश्या के लिए अच्छा था, nation के लिए अच्छा था, उसने ultimately इसे पहले से भी महान राष्टर बना दिया, और शायद वो युद्ध के बढ़ने को इसे साबित कर सके, लेकिन, और यह सिर्फ cancer की बात है, जो मुझे बहुत चिंति  
-**Translation:** 
+**[5280.00s] English:** This was whatever thing, invasion or whatever it was, that was good for Russia and good for the nation; he ultimately made it a great state, and perhaps he could prove the escalation of war through this, but, really, it's just a matter of cancer, which concerns me a lot.  
+**Translation:** Vocabulary: escalation: 升级
 
-**[5310.00s] English:** कर, dictators के बारे में, लेकिन आपके पास, वो Hillary Clinton के साथ भी था, और जाहिर तौर पर, Biden के साथ भी, वो कहानी ज्यादा sticky है, तो कुछ लोगों के लिए, यह ज्यादा sticky है, खेर, वो narrative transparent और obvious है, Biden के साथ एक सवाल है, जैसा कि हर किसी के साथ होता है, यह leader कितना healthy है, यह एक सवा  
+**[5310.00s] English:** Here is the improved sentence with natural English punctuation and capitalization: Kar, about dictators, but according to your narrative, they were also with Hillary Clinton, and of course, Biden as well. And, for some people, this story is stickier. However, that narrative is transparent and obvious. There's a question regarding Biden, just as there is with any leader: how healthy is the relationship?  
 **Translation:** 
-
-**[5340.00s] English:** वो बहुत फूले हुए दिखते हैं, उनका शरीर ज्यादा बड़ा नहीं दिखता, लेकिन उनका चेहरा फूला हुआ और सूजा हुआ दिखता है, मेरा एक दोस्त था, जिसे sarcoidosis था, और उनको prednisone prescribed किया गया था, जो की एक प्रकार का steroid है, और जब वो इसका इस्तिमाल  
-**Translation:** Vocabulary: hillary: 希拉里; prednisone: 泼尼松; prescribed: 开药; sarcoidosis: 萨科伊多斯; steroid: 类固醇; transparent: 透明
 
-**[5370.00s] English:** और जब मैं खाने की तरफ देखता हूँ, तो ऐसा ही लगता है, अगर आप उनके साथ बैठते हैं, तो एक सवाल health के बारे में होता है, क्या Biden से इस तरह का सवाल पूछा गया है, नहीं, बिना मजाग के, बिना किसी भी चीज के, तुम्हें Fox News पर जाना पड़ेगा, मुख  
+**[5340.00s] English:** They look very florid, their body doesn't appear much bigger, but their face looks florid and withered. I had a friend who had sarcoidosis and was prescribed prednisone, which is a type of steroid, and when they used it  
 **Translation:** 
 
-**[5400.00s] English:** मुझे लगता है कि इसमें अनिश्चितता है कि ये कितना गलत है मुझे सच में अच्छा लगेगा अगर उनके साथ एक serious conversation हो असल में मुझे अब देखना होगा क्योंकि जाहिर है Fox News उनकी गिरती mental health का मजाक उड़ाएगा और फिर मैं एक objective discussion पसंद करूँगा क्या आप इसके  
+**[5370.00s] English:** And when I look at the food, it's the same. If you sit with them, there's a health-related question: has such a question been asked of Biden on Fox News? No, without any humor or anything, you'll have to check Fox News.  
 **Translation:** 
 
-**[5430.00s] English:** forensic शमताओं में कमी आ रही हो जैसे आपको शुरू करना पड़ता है इस तरह की चीजों के बारे में जैसे आपके आसपास कौन है आपके advisors कौन है अगर एक दिन ऐसा हो कि आप दुनिया को साफ साफ देख न पाएं तो क्या होगा मैं ऐसी चीजों को लेकर पूरी तरह transparent रह�  
+**[5400.00s] English:** I think there is uncertainty about how wrong this is. I will genuinely feel better if there's a serious conversation about it. Honestly, now that I know, I'll have to watch because Fox News will likely make fun of their declining mental health, and then will an objective discussion be what I want?  
+**Translation:** Vocabulary: declining: 下降; genuinely: 真诚地
+
+**[5430.00s] English:** Forensic capacities are declining, as if you have to start figuring out things like who is around you and who your advisors are. If one day you couldn't clearly see the world, what would happen? I would be completely transparent about such matters.  
 **Translation:** 
 
-**[5460.00s] English:** मैं डिमाकरसी और उनके पास जो व्यवस्था है उसके बारे में सवाल पूछूंगा मेरा मतलब है रूस में जो कुछ भी हो रहा है उसका कोई अपमान जनक डिस्क्रिप्शन किये बिना ये क्लियरली डिमाकरसी नहीं है  
-**Translation:** Vocabulary: forensic: 法医的
+**[5460.00s] English:** I will ask about Dimitrov and the arrangement he has. My point is that in Russia, whatever is happening there should be clearly described without any disrespect, and then it would be clear whether this is Dimitrov or not.  
+**Translation:** Vocabulary: advisors: 顾问; capacities: 能力; dimitrov: 迪米特罗夫; disrespect: 不尊重; forensic: 法医的; transparent: 透明
 
-**[5477.92s] English:** ये मेरा मतलब है उन्होंने जिस तरह से इसे सेट अप किया है एलेक्शन्स मजाक बन गए है वो है वो पीछे हट जाता था ये क्लियरली डिमाकरसी नहीं है वो अभी भी बहुत पॉपिलर है इसलिए रश्या के अंदर ज्यादा तर लोग पुतिन के बड़े सपोर्टर्स  
+**[5477.92s] English:** This is my point: They set up the elections in such a way that the jokes are against them. It's clear they're backing off. This isn't clearly Demikaros; it's still very popular. Therefore, more people inside Russia support Putin.  
 **Translation:** 
 
-**[5507.92s] English:** अच्छा सवाल है डिक्टेटरशिप्स का महत्व अमेरिका की एक बात जो मुझे आकरशक लगती है वह ये है कि हर चार साल में जब तक कि ये चार से आठ साल ना हो है ना कोई दो टर्म्स करते हैं  
-**Translation:** 
+**[5507.92s] English:** Good question. Dictatorships' importance in America is a point that shocks me. The idea is that every four years, until it reaches eight or more years, or they serve two terms.  
+**Translation:** Vocabulary: dictatorships: 独裁; shocks: 震惊
 
-**[5520.00s] English:** करता है लेकिन हर चार साल में किसी के लिए नए और पूरी तरह से इन एक्सपीरियंस इनसान के लिए दुनिया की  
+**[5520.00s] English:** Does, but every four years for some people, new and entirely experiences like these are world-changing.  
 **Translation:** 
 
-**[5527.14s] English:** सबसे कठिन नौकरी करने का अवसर होता है जो रिडिक्यूलस है तो इंटरेस्टिंग बात यह है कि आठ साल बाद यह समझ  
+**[5527.14s] English:** The hardest job opportunity to take on is one that seems ridiculous, but an interesting thing is that eight years later, this was understood.  
 **Translation:** 
 
-**[5536.74s] English:** में आता है आपको ज्ञान प्राप्त होगा आगे बढ़ने के लिए आप सच में अच्छे नेता होंगे लेकिन कुछ समस्या है  
+**[5536.74s] English:** Here comes the knowledge that you will acquire. For advancement, you will truly be good leaders, but there is a problem.  
 **Translation:** 
 
-**[5542.68s] English:** जहां शक्ति आपके सिर में चढ़ने लगती है इसलिए पुतिन के परस्पेक्टिव से मुझे लगता है कि वह सच में रशिया  
-**Translation:** 
+**[5542.68s] English:** Where power begins to rise in your head, therefore, from Putin's perspective, it seems to me that he truly believes Russia  
+**Translation:** Vocabulary: advancement: 晋升
 
-**[5549.70s] English:** के लिए बेस्ट चाहते हैं मुझे नहीं लगता कि वह पागल हो गया है क्योंकि यह सब लालच के बारे में है  
+**[5549.70s] English:** I don't think he has gone crazy because all of this is about greed.  
 **Translation:** 
 
-**[5556.46s] English:** स्टालिन के जैसे मेरा मानना है कि स्टालिन अपने आखरी दिनों तक सोवियेट यूनियन के लिए सबसे अच्छा चाहते  
-**Translation:** 
+**[5556.46s] English:** I believe that Stalin, like Stalin, until his last days, wanted what was best for the Soviet Union.  
+**Translation:** Vocabulary: greed: 贪婪; stalin: 斯大林
 
-**[5563.26s] English:** हैं हिटलर के बारे में ऐसा नहीं कहा जा सकता जिन्होंने वॉर के दौरान अपनी समझ खो दी थी पुतिन मानते  
+**[5563.26s] English:** It cannot be said about Hitler that anyone lost their judgment during the war and believed in Putin.  
 **Translation:** 
 
-**[5570.26s] English:** हैं कि वह सच में सबसे अच्छे व्यक्ति हैं जो बेहतरीन परिणाम ला सकते हैं अपने देश के लिए अब समस्या यह  
+**[5570.26s] English:** They are indeed the best people who can bring the best results for their country now. The problem is that they are not doing it.  
 **Translation:** 
 
-**[5577.90s] English:** है कि शायद लंबे समय में लीडर को बदलना सच में सबसे अच्छी बात है जबकि हर नेता मानता है कि वह देश  
+**[5577.90s] English:** Is it that perhaps in the long run, changing the leader is truly the best thing, while every leader believes that they are the country's savior.  
 **Translation:** 
 
-**[5584.56s] English:** के लिए सबसे अच्छा जानते हैं हमारा कहना है कि इसे बदलते रहना चाहिए और यही डेमोक्रसी का मामला है यही  
-**Translation:** 
+**[5584.56s] English:** We know that the best way is to keep changing it, and this is the case for democracy as well.  
+**Translation:** Vocabulary: savior: 救世主
 
-**[5592.54s] English:** सिस्टम है जो हमारे पास है जो नैचुरल शायद एमर्जेंट बैलेंस ऑफ पावर को बनाता है मुझे लगता है कि यह  
+**[5592.54s] English:** The system we have is one that creates natural emergency power balance. I think this is  
 **Translation:** 
 
-**[5600.94s] English:** स्पष्ट करता है कि इसे करने का कोई क्लियर कट रियल राइट वे नहीं है और अगर आपके पास 12 से 20 साल तक  
+**[5600.94s] English:** It is clear that they do not have a clear cut right to do this, and if you are between 12 and 20 years old,  
 **Translation:** 
 
-**[5607.66s] English:** सफेक्ट परसन हो तो यह अमेजिंग होगा अगर आपके पास एक सही व्यक्ति हो एक बेनेवुलेंट लीडर जो क्लियरली  
+**[5607.66s] English:** If you have a safe person, it would be amazing if you had one a benevolent leader who clearly  
 **Translation:** 
 
-**[5613.96s] English:** सिर्फ लोगों की परवाह करता था अपनी पूरी कोशिश कर रहा था और कड़ी मेहनत कर रहा था और यह जानकर बड़ी  
-**Translation:** 
+**[5613.96s] English:** He only cared about the people and was making a great effort and putting in tough work, and it showed big time.  
+**Translation:** Vocabulary: benevolent: 慈祥的
 
-**[5620.38s] English:** संतुष्टि मिली कि वह एक डेडिकेटेड सिविल सर्वेंट है जो सिर्फ देश को इस तरह से लीड करना चाहता है  
+**[5620.38s] English:** Satisfaction was gained that he is a dedicated civil servant who only wants to lead the country in this manner.  
 **Translation:** 
 
-**[5626.62s] English:** जिससे ज्यादा से ज्यादा लोगों को सबसे प्रोफाउंड तरीके से फायदा हो लेकिन हमारा पॉलिटिकल सिस्टम गंदा  
-**Translation:** 
+**[5626.62s] English:** The one that benefits the most people in the deepest way, but our political system is corrupt.  
+**Translation:** Vocabulary: corrupt: 贪污腐败; servant: 公务员
 
-**[5635.74s] English:** यह पूरी तरह से पैसे और इन्फ्लुएंस से करप्ट हो चुका है  
+**[5635.74s] English:** This is completely covered up by money and influence.  
 **Translation:** 
 
-**[5640.00s] English:** फैक्ट यह है कि आप जानते हैं लॉबिस्ट मेरा मतलब है कि वाशिंग्टन डी सी के बाहर एक एरिया है जो देश के रिचस्ट एरिया में से एक है और यह वो जगह है जहां लॉबिस्ट रहते हैं लॉबिस्ट होने में बहुत सारा पैसा शामिल है स्पेशल इंटरेस्ट �  
-**Translation:** 
+**[5640.00s] English:** Fact is that a lobbyist means an area outside Washington D.C., which is one of the country's Richest areas, and it is the place where lobbyists reside. Being a lobbyist involves a lot of money and special interest.  
+**Translation:** Vocabulary: lobbyist: 说客; lobbyists: 说客; reside: 居住
 
-**[5670.00s] English:** द्वारा नहीं है यह सच नहीं है मेरा मतलब है यह देश सेल्फ गवर्नमेंट में एक एक्सपेरिमेंट है और अगर हमें सब कुछ फिर से करने का मौखा मिलता तो मैं कहता कि सबसे इंपोर्टेंट बात राजनीती से पैसे को दूर रखने के लिए कानून बनाए जाएं �  
+**[5670.00s] English:** Here is not true. My meaning is that this country is an experiment in self-governance, and if we are given the chance to do everything anew, I would say the most important thing is to enact laws to keep money away from politics.  
 **Translation:** 
 
-**[5700.00s] English:** जो किसी कैंडिडेट में इंवेस्ट कर रही है यह वाकई बेहत डेंजरस है और यह करप्ट है और उस करप्षन को स्वीकार किया गया है हमने बस यह एक्सप्ट कर लिया है कि यह करप्षन मौजूद है आप जानते हैं  
-**Translation:** 
+**[5700.00s] English:** Investing in any candidate is really dangerous and it's corrupt, and that corruption has been accepted. We have just acknowledged that the corruption is present. You know this.  
+**Translation:** Vocabulary: enact: 制定
 
-**[5713.00s] English:** लास्ट क्वेश्चन अगर पुतिन इस घड़ी को देखना चाहें तो मैं उन्हें क्या बताओ क्या आप इसे देंगे क्या मुझे उसे देखने देना चाहिए क्योंकि हम जानते हैं कि सुपर बाउल रिंग के साथ क्या होता है मुझे लगता है कि सुपर बाउल रिंग य�  
+**[5713.00s] English:** Last question: If Putin were to look at this clock, what would you tell him? Would you give it to him? Should I let him see it because we know what happens with the Super Bowl ring, I think the Super Bowl ring...  
 **Translation:** 
 
-**[5743.00s] English:** करता हूं और फिर वह इसे पहन कर कहता है कि आप भाग थे और तुम ना कहते हो घाटो मैं एसी घर हूं वहीं  
+**[5743.00s] English:** I do it and then he wears it, saying you were there and if you don't say anything, I'm just a guest there.  
 **Translation:** 
 
-**[5748.56s] English:** है भाई मैं ऐसे इतने सारे शब्द हैं कि मैं ट्रंउलेशन ढूंढने होंगे बढ़ी व्रॉ उन्हें लगता है कि ब्रो का  
+**[5748.56s] English:** Bro, I have so many words here that you might get lost trying to find the translation. They think it's funny, bro.  
 **Translation:** 
 
-**[5755.88s] English:** अगर वो तुम्हारी घड़ी ले लेता है तो मैं तुम्हें एक और खरीद दूँगा  
+**[5755.88s] English:** If he takes your watch, I'll buy you another one.  
 **Translation:** 
 
-**[5758.64s] English:** अगर क्वेंटिनेस से चुराता है  
+**[5758.64s] English:** If you steal from Quantes,  
 **Translation:** 
 
-**[5760.00s] English:** उन्हें आगे बढ़ाते रहें  
+**[5760.00s] English:** Keep going forward.  
 **Translation:** 
 
-**[5761.26s] English:** मैं तुम्हें सेम वही घड़ी दूँगा  
+**[5761.26s] English:** I will give you the same watch.  
 **Translation:** 
 
-**[5764.46s] English:** सबसे पहले इसके लिए धन्यवाद  
+**[5764.46s] English:** First, thank you for that.  
 **Translation:** 
 
-**[5766.54s] English:** मुझे खुशी है ब्रो  
+**[5766.54s] English:** I'm glad, bro.  
 **Translation:** 
 
-**[5767.30s] English:** मैं सच में चाहता था आपसे बात करने के लिए  
+**[5767.30s] English:** I truly wanted to talk to you.  
 **Translation:** 
 
-**[5770.14s] English:** क्योंकि कुछ दिनों में मैं यूक्रेन और रश्या जा रहा हूँ  
+**[5770.14s] English:** Because in a few days I am going to Ukraine and Russia.  
 **Translation:** 
 
-**[5774.12s] English:** और मुझे उम्मीद है कि मैं सही सलामत वापस आओंगा  
+**[5774.12s] English:** And I hope that I will return home safe.  
 **Translation:** 
 
-**[5778.52s] English:** और एक बार फिर आपके साथ विस्की पीओंगा  
+**[5778.52s] English:** And I'll have a whiskey with you again.  
 **Translation:** 
 
-**[5781.16s] English:** मुझे भी उम्मीद है  
-**Translation:** 
+**[5781.16s] English:** I also hope so.  
+**Translation:** Vocabulary: whiskey: 威士忌
 
-**[5782.30s] English:** मुझे चिंता है कि आप वहाँ जा रहे हैं  
+**[5782.30s] English:** I am worried that you are going there.  
 **Translation:** 
 
-**[5784.46s] English:** मैं जानता हूँ कि अब जर्नलिस्ट की हत्या कर दी गई है  
+**[5784.46s] English:** I know that the journalist has been killed now.  
 **Translation:** 
 
-**[5786.58s] English:** लेकिन उन्हें जिवजित्सु नहीं पता  
+**[5786.58s] English:** But they are not aware of natural resources.  
 **Translation:** 
 
-**[5789.30s] English:** आँ...  
+**[5789.30s] English:** Ah...  
 **Translation:** 
 
-**[5790.84s] English:** नहीं, मुझे लगता है कि ये ठीक रहेगा  
+**[5790.84s] English:** No, I think it will work out fine.  
 **Translation:** 
 
-**[5792.80s] English:** और मुझे लगता है कि जीवन में कुछ चीज़ें ऐसी होती हैं  
+**[5792.80s] English:** And I think that in life, some things just happen.  
 **Translation:** 
 
-**[5796.24s] English:** जिनकी ओर आपका दिल इतना खिंचता है  
+**[5796.24s] English:** Those whose hearts beat so fiercely for you  
 **Translation:** 
 
-**[5797.66s] English:** वहाँ आपका objective क्या है?  
-**Translation:** 
+**[5797.66s] English:** What is your objective there?  
+**Translation:** Vocabulary: fiercely: 猛烈地
 
-**[5799.72s] English:** मैं कोई ऐसा व्यक्ति नहीं हूँ  
+**[5799.72s] English:** I am not such a person.  
 **Translation:** 
 
-**[5801.44s] English:** जो objectives के बारे में clearly सोचता हो  
-**Translation:** 
+**[5801.44s] English:** Do you think clearly about the objectives?  
+**Translation:** Vocabulary: objectives: 目标
 
-**[5804.00s] English:** बस कुछ मेरे अंदर कहता है  
+**[5804.00s] English:** It just whispers something inside me.  
 **Translation:** 
 
-**[5806.28s] English:** कि मुझे वहाँ जाना चाहिए  
-**Translation:** 
+**[5806.28s] English:** Do I need to go there?  
+**Translation:** Vocabulary: whispers: 低语
 
-**[5807.68s] English:** लेकिन इसे loose words में रखना है  
+**[5807.68s] English:** But it should be kept in loose words.  
 **Translation:** 
 
-**[5810.10s] English:** कि ये समझने की कोशिश करना  
+**[5810.10s] English:** To understand this, try to make sense of it.  
 **Translation:** 
 
-**[5812.96s] English:** कि वह दुनिया अब क्या है  
+**[5812.96s] English:** What is the world like now?  
 **Translation:** 
 
-**[5814.64s] English:** ताकि मैं याद कर सकूँ  
+**[5814.64s] English:** So that I can remember  
 **Translation:** 
 
-**[5816.08s] English:** कि जब मैं वहाँ था तो ये कैसा था  
+**[5816.08s] English:** What was it like when I was there?  
 **Translation:** 
 
-**[5818.10s] English:** मैं अपने परिवार को जानता हूँ  
+**[5818.10s] English:** I know my family.  
 **Translation:** 
 
-**[5819.70s] English:** मुझे वहाँ उस land पर  
+**[5819.70s] English:** The transcript appears to be in Hindi, but it seems incomplete or missing some words. Here is an attempt at adding natural English punctuation and capitalization based on the given text: "I was there on that land.  
 **Translation:** 
 
-**[5821.70s] English:** Ukraine और Russia में  
-**Translation:** 
+**[5821.70s] English:** Ukraine and Russia in  
+**Translation:** Vocabulary: capitalization: 标点; hindi: 印地语; incomplete: 不完整; transcript: 录音稿
 
-**[5823.74s] English:** जो generations of family थे  
+**[5823.74s] English:** Joh generations of family were  
 **Translation:** 
 
-**[5825.46s] English:** उनको मैं जानता हूँ और वहाँ के लोगों की आत्मा को जानता हूँ  
+**[5825.46s] English:** I know them and the spirit of the people there.  
 **Translation:** 
 
-**[5828.76s] English:** जो प्यार वहाँ है  
+**[5828.76s] English:** Joy is there.  
 **Translation:** 
 
-**[5830.02s] English:** beauty of the culture  
+**[5830.02s] English:** The beauty of the culture.  
 **Translation:** 
 
-**[5831.64s] English:** और मैं देखना चाहता हूँ कि  
+**[5831.64s] English:** And I want to see that.  
 **Translation:** 
 
-**[5833.46s] English:** आज ये क्या है और इस युद्ध ने क्या बना दिया है  
+**[5833.46s] English:** Today is what, and what has this war made it into?  
 **Translation:** 
 
-**[5836.38s] English:** गुस्सा और प्यार  
+**[5836.38s] English:** Anger and Love  
 **Translation:** 
 
-**[5838.20s] English:** और लोग और बस उन्हें सुनना चाहता हूँ  
+**[5838.20s] English:** And I just want to hear them talk.  
 **Translation:** 
 
-**[5841.00s] English:** और उनसे बात करना चाहता हूँ  
+**[5841.00s] English:** And I want to talk to them.  
 **Translation:** 
 
-**[5842.62s] English:** कोई recording नहीं  
+**[5842.62s] English:** No recording available.  
 **Translation:** 
 
-**[5843.86s] English:** शायद थोड़ी बहुत यहां वहां  
+**[5843.86s] English:** Perhaps a little here and there.  
 **Translation:** 
 
-**[5845.42s] English:** लेकिन ज्यादातर सिर्फ मेरे लिए  
+**[5845.42s] English:** But mostly just for me.  
 **Translation:** 
 
-**[5848.24s] English:** हाँ और कभी-कभी ये ऐसा होता है कि कुछ आपको  
+**[5848.24s] English:** Yes, and sometimes it happens that something surprises you.  
 **Translation:** 
 
-**[5850.90s] English:** खींचता है  
+**[5850.90s] English:** Pulls it in  
 **Translation:** 
 
-**[5851.52s] English:** किसी जग़ा पर और मैं भी  
+**[5851.52s] English:** At any place, and I also do.  
 **Translation:** 
 
-**[5854.60s] English:** क्योंकि मैं रशन  
+**[5854.60s] English:** Because I am rational.  
 **Translation:** 
 
-**[5856.98s] English:** और कुछ युक्रेनियन बोलने में सक्षम हूँ  
+**[5856.98s] English:** And I am able to speak some Ukrainian.  
 **Translation:** 
 
-**[5858.94s] English:** मैं इन political leaders  
+**[5858.94s] English:** I am in these political leaders.  
 **Translation:** 
 
-**[5860.88s] English:** में से कुछ से बात करने की  
+**[5860.88s] English:** From some, I have nothing to talk.  
 **Translation:** 
 
-**[5862.80s] English:** कोशिश करना चाहता हूँ और  
+**[5862.80s] English:** I want to try and continue.  
 **Translation:** 
 
-**[5864.54s] English:** मेरे पास सभी right connections है  
+**[5864.54s] English:** My right connections are with me.  
 **Translation:** 
 
-**[5866.90s] English:** हर किसी ने हाँ कहा है  
+**[5866.90s] English:** Everyone has said yes, has he?  
 **Translation:** 
 
-**[5868.50s] English:** आपको नहीं पता कि ये finally होने की  
+**[5868.50s] English:** You do not know that these will finally be  
 **Translation:** 
 
-**[5870.80s] English:** कितनी possibility है लेकिन मैं कम से कम  
+**[5870.80s] English:** How many possibilities are there, but I at least  
 **Translation:** 
 
-**[5872.94s] English:** उस possibility को वहाँ रखना चाहता हूँ  
+**[5872.94s] English:** I want to keep that possibility there.  
 **Translation:** 
 
-**[5874.82s] English:** कभी-कभी आपको एक जग़ा पर जाने  
+**[5874.82s] English:** Sometimes you have to go to a place for a while.  
 **Translation:** 
 
-**[5876.98s] English:** की जरूरत होती है ताकि आप  
+**[5876.98s] English:** It is necessary so that you  
 **Translation:** 
 
-**[5879.16s] English:** इसे सच में समझ जाएगा  
+**[5879.16s] English:** This will be understood as truth.  
 **Translation:** 
 
-**[5880.00s] English:** मत सकें आप सिर्फ इसके बारे में पढ़ नहीं सकते आप सिर्फ वहां रहने वाले लोगों से बात नहीं कर सकते आपको वहां होना चाहिए और मैं कभी वार्ड जोन में नहीं गया हूं मैं कभी भी ऐसे देश में नहीं गया हूं जिसका नुकसान हुआ हो युद्ध के हतिय  
+**[5880.00s] English:** Do not assume you can only read about it; you cannot talk to the people who are there just by reading about it. You need to be there. I have never been to Ward Junction, and I have never gone to a country damaged by war.  
 **Translation:** 
 
-**[5910.00s] English:** स्ट्रगल बहुत था, लेकिन खुश थे, और अब लोग बेहत गुस्से में हैं, हर तरफ नफरत पहली हुई है, मैं देखना चाहता हूँ, मैं समझना चाहता हूँ, कभी-कभी ये आपको खींचता है, और आपको जाना होता है, इसलिए शायद ये कोई मतलब नहीं बनाता,  
+**[5910.00s] English:** Struggle was great, but they were happy, and now the people are very angry, hatred has spread everywhere, I want to see, I want to understand, sometimes it pulls you in, and you need to know, so perhaps it means nothing.  
 **Translation:** 
 
-**[5940.00s] English:** और बस clarify करने के लिए, मैं ऐसा इंसान नहीं हूँ, जो रिस्क की तलाश करता हो, और जैसे आप कोई ऐसे इंसान हैं, जो भालूओं और शार्क से डरते हैं, तो आप ऐसा मत करो, तो जैसे कि क्यों तैरने जाना, क्यों सर्फिंग करना, क्यों समुदर में तैरने जाना, इ  
+**[5940.00s] English:** And just to clarify, I am not the type of person who seeks out risk, and if you are someone who is afraid of bears and sharks, then don't do that, like why swim, why surf, why go swimming in the ocean.  
 **Translation:** 
 
-**[5970.00s] English:** करने के लिए तैयार, सच कहूं, तो यही असल में सब कुछ है, खुद को समझने की कोशिश करना, क्योंकि मुझ में से बहुत कुछ उस जगह से है, खैर, यही तो अमेरिका की खुबसूरती है, यह अलग-अलग cultures को एक साथ जोडने जैसा है, हर कोई कहीं और से आया है, औ  
-**Translation:** 
+**[5970.00s] English:** Ready to do it, to be honest, that's really all there is. Trying to understand yourself because so much of me comes from there. Well, that's America's beauty, bringing different cultures together like that, with everyone coming from somewhere else, and  
+**Translation:** Vocabulary: clarify: 说明; sharks: 鲨鱼
 
-**[6000.00s] English:** किसी भी जनता की आत्मा को सबसे बहतर युद्ध प्रकट करता है  
+**[6000.00s] English:** The spirit of any nation manifests the best in war.  
 **Translation:** 
 
-**[6005.18s] English:** ऐसा लगता है कि इस conflict में कुछ ऐसा है  
-**Translation:** 
+**[6005.18s] English:** It seems that there is something in this conflict.  
+**Translation:** Vocabulary: manifests: 显现
 
-**[6009.24s] English:** जो सच में सारी बकवास काट देता है  
+**[6009.24s] English:** Which truly cuts through all nonsense.  
 **Translation:** 
 
-**[6011.42s] English:** यही हम है, एक समूह के रूप में हम यही है  
+**[6011.42s] English:** This is us, as a group we are this.  
 **Translation:** 
 
-**[6014.66s] English:** इसलिए मैं इसे देखना चाहता हूँ, मैं इसे समझना चाहता हूँ  
+**[6014.66s] English:** Therefore, I want to see it and understand it.  
 **Translation:** 
 
-**[6019.36s] English:** और जब मैं वापस आओंगा, आपके साथ कुछ विस्की पियोंगा  
-**Translation:** 
+**[6019.36s] English:** And when I come back, I'll have a few whiskies with you.  
+**Translation:** Vocabulary: whiskies: 威士忌
 
-**[6023.50s] English:** मुझे उमीद है कि ऐसा हो, सच में  
+**[6023.50s] English:** I hope so, truly.  
 **Translation:** 
 
-**[6025.80s] English:** और मुझे उमीद है कि आप वहाँ सुरक्षित रहे  
+**[6025.80s] English:** And I hope you stay safe there.  
 **Translation:** 
 
-**[6028.30s] English:** और आप जो भी insight प्राप्त करने की कोशिश कर रहे है  
+**[6028.30s] English:** And you are trying to gain any insights.  
 **Translation:** 
 
-**[6030.94s] English:** उसके साथ वापस आए  
+**[6030.94s] English:** He came back with her.  
 **Translation:** 
 
-**[6033.22s] English:** इस बातचीत के लिए धन्यवाद  
+**[6033.22s] English:** Thank you for this conversation.  
 **Translation:** 
 
-**[6034.86s] English:** जो कुछ भी आपने मेरे लिए किया, आपके support, प्यार  
+**[6034.86s] English:** Whatever you have done for me, your support, love.  
 **Translation:** 
 
-**[6038.08s] English:** और आपके आसपास, सभी लोगों के लिए आपका आभार  
+**[6038.08s] English:** And around you, thank you for everyone's benefit.  
 **Translation:** 
 
-**[6040.76s] English:** हर किसी के लिए जो आप कर रहे हैं, उन्हें वापस देने के लिए  
+**[6040.76s] English:** For everyone you take from, give them back.  
 **Translation:** 
 
-**[6043.66s] English:** और बस सभी के लिए दयालू और उदार बने रहने के लिए धन्यवाद  
+**[6043.66s] English:** And be kind and generous for everyone. Thank you.  
 **Translation:** 
 
-**[6047.28s] English:** मैं तुमसे प्यार करता हूँ भाई  
+**[6047.28s] English:** I love you, brother.  
 **Translation:** 
 
-**[6048.90s] English:** I love you too, thank you  
+**[6048.90s] English:** I love you too, thank you.  
 **Translation:** 
 
-**[6050.50s] English:** जो रोगन के साथ इस बातचीत को सुनने के लिए धन्यवाद  
+**[6050.50s] English:** Thank you for listening to this conversation about the disease.  
 **Translation:** 
 
-**[6053.90s] English:** इस पॉडकास्ट को सपोर्ट करने के लिए डिस्क्रिप्शन में हमारे स्पांसर्स को देखें  
+**[6053.90s] English:** To support this podcast, check out our sponsors in the description.  
 **Translation:** 
 
-**[6058.28s] English:** मैं मियामोटो मुसार्शी के पसंदीदा क्वोर्ट्स में से एक से अलविदा लेता हूँ  
-**Translation:** 
+**[6058.28s] English:** I bid farewell to one of Miyamoto Musashi's favored quarts in my favorites.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[6063.40s] English:** जब आप रास्ते को बड़े पैमाने पर समझ लेते हैं  
+**[6063.40s] English:** When you understand the road on a large scale,  
 **Translation:** 
 
-**[6066.66s] English:** तो आप उसे हर चीज में देख पाएंगे  
+**[6066.66s] English:** So you will be able to see him in everything.  
 **Translation:** 
 
-**[6068.18s] English:** सुनने के लिए धन्यवाद  
+**[6068.18s] English:** Thank you for listening.  
 **Translation:** 
 
-**[6070.22s] English:** उमीद है कि आप से फिर मुलाकात होगी  
+**[6070.22s] English:** I hope we will meet again.  
 **Translation:** 
 
 

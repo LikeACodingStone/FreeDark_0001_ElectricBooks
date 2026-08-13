@@ -1,9011 +1,9012 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Paul Rosolie： Uncontacted Tribes in the Amazon Jungle ｜ Lex Fridman Podcast #489.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Мы стоим, все ждут, в любой момент тебе в шею может пролететь стрела, и у людей дробовики наготове.  
+**[0.00s] English:** We stand there, everyone waits, and at any moment an arrow could fly into your neck, with shotguns ready in people's hands.  
 **Translation:** 
 
-**[7.40s] English:** А вот антрополог, маленький такой мужик, стоит впереди и кричит «Намоле!», то есть «братья».  
+**[7.40s] English:** Here's the anthropologist, a small guy, stands in front and shouts "Namole!", which means "brothers".  
+**Translation:** Vocabulary: anthropologist: 人类学家; shotguns: 猎枪
+
+**[12.82s] English:** Here it began.  
 **Translation:** 
 
-**[12.82s] English:** И тут началось.  
+**[15.92s] English:** Cries of "Mashko, Mashko!" are heard.  
 **Translation:** 
 
-**[15.92s] English:** Слышны крики «Машко, Машко!».  
+**[19.42s] English:** People are shouting, women grab their children and run into huts, dogs and chickens go crazy.  
 **Translation:** 
 
-**[19.42s] English:** Народ орёт, женщины хватают детей, бегут в хижины, собаки с курами сходят с ума.  
+**[25.92s] English:** Fear.  
 **Translation:** 
 
-**[25.92s] English:** Страх.  
+**[26.72s] English:** Yes, fear.  
 **Translation:** 
 
-**[26.72s] English:** Да, страх.  
+**[27.64s] English:** He says, "Look, he has a bow.  
 **Translation:** 
 
-**[27.64s] English:** Он говорит «Гляди, у него лук».  
+**[29.74s] English:** And that's it.  
 **Translation:** 
 
-**[29.74s] English:** И у того.  
+**[31.10s] English:** We go along the shore and see a whole clan walking with bows about two meters long, haggard-looking, and pointing at us.  
 **Translation:** 
 
-**[31.10s] English:** Мы идём, смотрим на берег, а там целый клан идёт с луками метра по два, сгоробленные, и указывают на нас.  
+**[39.08s] English:** They say "Look over there, see the cannon?  
 **Translation:** 
 
-**[39.08s] English:** Говорят «Смотри вон, там пушка, видишь?».  
+**[41.58s] English:** It's clear how they are communicating with each other.  
+**Translation:** Vocabulary: cannon: 大炮
+
+**[43.48s] English:** From the sand, bumblebees take flight.  
 **Translation:** 
 
-**[41.58s] English:** Видно, как они переговариваются.  
+**[45.94s] English:** These people may climb to the top of a tree from the coata at 40 meters.  
+**Translation:** Vocabulary: bumblebees: 蜜蜂
+
+**[50.10s] English:** They will approach you so stealthily that you won't notice them at all.  
 **Translation:** 
 
-**[43.48s] English:** С песка взлетают аж бабочки.  
+**[52.62s] English:** When the arrow pierces through you, you will have but a moment to realize it before you fall.  
+**Translation:** Vocabulary: pierces: 穿透; stealthily: 悄悄地
+
+**[58.94s] English:** Just so you don't fall.  
 **Translation:** 
 
-**[45.94s] English:** Эти люди могут попасть в коату на вершине дерева с 40 метров.  
+**[59.74s] English:** You understood? I need to show you some clips.  
 **Translation:** 
 
-**[50.10s] English:** Подкрадутся так, что ты их не заметишь вовсе.  
+**[61.80s] English:** This shot has not been seen by anyone yet.  
 **Translation:** 
 
-**[52.62s] English:** Когда стрела пройдёт сквозь тебя, у тебя будет лишь мгновение, чтобы это осознать, прежде чем упадёшь.  
+**[65.16s] English:** World premiere.  
+**Translation:** Vocabulary: premiere: 世界首映
+
+**[68.20s] English:** This is a conversation with Paul Roseali.  
 **Translation:** 
 
-**[58.94s] English:** Просто чтобы ты не упал.  
+**[71.60s] English:** On this podcast for the third time.  
 **Translation:** 
 
-**[59.74s] English:** Ты понял? Мне нужно показать тебе кадры.  
+**[73.58s] English:** Pol — naturalist, researcher, writer, a man who dedicated his life to protecting Amazon rainforests and celebrating the beauty of wild nature.  
 **Translation:** 
 
-**[61.80s] English:** Эту съёмку ещё никто не видел.  
+**[84.82s] English:** After a few days, his new book "Keeper of the Jungle" is released.  
+**Translation:** Vocabulary: keeper: 守护者; naturalist: 自然学家; rainforests: 热带雨林
+
+**[88.74s] English:** I recommend placing a pre-order right now.  
 **Translation:** 
 
-**[65.16s] English:** Мировая премьера.  
+**[91.46s] English:** In the book, it is told about the time he spent in the jungles over the past few years, and about several epic events,  
+**Translation:** Vocabulary: jungles: 热带丛林
+
+**[99.54s] English:** Including a full meeting with a non-contact tribe, which we will discuss in this podcast.  
 **Translation:** 
 
-**[68.20s] English:** Это разговор с Полом Розали.  
+**[107.62s] English:** The book, and the audiobook are both great; I highly recommend them.  
+**Translation:** Vocabulary: audiobook: 有声书
+
+**[111.80s] English:** If you want to support Paul and his wonderful team in their mission to protect the jungles,  
 **Translation:** 
 
-**[71.60s] English:** В третий раз на этом подкасте.  
-**Translation:** 
-
-**[73.58s] English:** Пол — натуралист, исследователь, писатель, человек, который посвятил жизнь защите тропических лесов Амазонки и воспеванию красоты дикой природы.  
-**Translation:** 
-
-**[84.82s] English:** Через несколько дней выходит его новая книга «Хранитель джунглей».  
-**Translation:** 
-
-**[88.74s] English:** Советую оформить предзаказ прямо сейчас.  
-**Translation:** 
-
-**[91.46s] English:** В книге рассказывается о времени, которое он провёл в джунглях за последние годы, и о нескольких эпических событиях,  
-**Translation:** 
-
-**[99.54s] English:** включая полноценную встречу с неконтактным племенем, о которой мы поговорим в этом подкасте.  
-**Translation:** 
-
-**[107.62s] English:** И книга, и аудиокнига отличные, очень рекомендую.  
-**Translation:** 
-
-**[111.80s] English:** Если хотите поддержать Пола и его чудесную команду в их миссии по защите джунглей,  
-**Translation:** 
-
-**[117.80s] English:** заходите на junglekeepers.com  
+**[117.80s] English:** Visit junglekeepers.com  
 **Translation:** Vocabulary: junglekeepers: 丛林守护者
 
-**[120.98s] English:** Помочь можно пожертвованиями, распространением информации или посещением гала-ужина Пола в Нью-Йорке 22 января, буквально через несколько дней.  
+**[120.98s] English:** Help can be offered through donations, spreading information, or attending Paul's gala dinner in New York on January 22nd, just a few days away.  
 **Translation:** 
 
-**[131.70s] English:** Они делают все возможное, чтобы собрать средства на миссию, сохранить как можно больше тропического леса.  
-**Translation:** 
+**[131.70s] English:** They are doing everything possible to gather funds for the mission and preserve as much tropical forest as they can.  
+**Translation:** Vocabulary: donations: 捐款
 
-**[138.12s] English:** По-моему, за это стоит бороться.  
+**[138.12s] English:** In my opinion, this is worth fighting for.  
 **Translation:** 
 
-**[141.24s] English:** Джунгли Амазонки – одно из самых особенных и красивых мест на Земле.  
+**[141.24s] English:** Jungles of Amazon - one of the most special and beautiful places on Earth.  
 **Translation:** 
 
-**[145.76s] English:** К слову, я хотел бы вернуться назад и упомянуть кое-что, что вызывает у меня сомнения.  
+**[145.76s] English:** By the way, I would like to go back and mention something that causes me doubts.  
 **Translation:** 
 
-**[152.24s] English:** Какое-то время назад я путешествовал по тропическим лесам Амазонки с Полом.  
+**[152.24s] English:** Some time ago, I traveled through the tropical forests of the Amazon with Paul.  
 **Translation:** 
 
-**[156.84s] English:** Такое удивительное приключение случается раз в жизни.  
+**[156.84s] English:** Such an amazing adventure happens once in a lifetime.  
 **Translation:** 
 
-**[161.22s] English:** Мы даже записали подкаст прямо там, в джунглях, эпизод 429, посмотрите.  
+**[161.22s] English:** We even recorded a podcast right there in the jungles, episode 429. Check it out.  
 **Translation:** 
 
-**[169.56s] English:** Было круто.  
+**[169.56s] English:** It was cool.  
 **Translation:** 
 
-**[170.66s] English:** А еще мы записали кучу разрозненных кадров самого путешествия, просто так.  
+**[170.66s] English:** We also recorded a bunch of scattered footage from the trip just for fun.  
 **Translation:** 
 
-**[175.76s] English:** И я все еще мечтаю как-то собрать это все в связанное видео, вдруг кому интересно будет.  
+**[175.76s] English:** And I still dream of somehow putting all this together into a connected video; maybe someone will find it interesting.  
 **Translation:** 
 
-**[183.74s] English:** Но я понял, насколько сложно организовать и смонтировать кучу хаотично записанного материала.  
-**Translation:** 
+**[183.74s] English:** But I understood how difficult it is to organize and edit a bunch of chaotically recorded material.  
+**Translation:** Vocabulary: chaotically: 混乱地
 
-**[191.84s] English:** В общем, посмотрим, получится ли.  
+**[191.84s] English:** In general, let's see if we can make it work.  
 **Translation:** 
 
-**[194.78s] English:** Так или иначе, я бы хотел чаще выпускать подобные видео, влоги, показывать замечательных людей,  
-**Translation:** 
+**[194.78s] English:** Anyway, I would like to release more videos and vlogs showcasing wonderful people more often.  
+**Translation:** Vocabulary: showcasing: 展示
 
-**[201.62s] English:** таких как Пол и другие мои гости.  
+**[201.62s] English:** Such as Paul and other guests of mine.  
 **Translation:** 
 
-**[206.12s] English:** Включая обычных людей, которых встречаю в путешествиях.  
+**[206.12s] English:** Including ordinary people I meet on travels.  
 **Translation:** 
 
-**[210.14s] English:** Буду пробовать и дальше, возиться и учиться.  
+**[210.14s] English:** I will keep trying and working hard to learn more.  
 **Translation:** 
 
-**[214.32s] English:** Я очень прошу терпения и поддержки.  
+**[214.32s] English:** I very much request patience and support.  
 **Translation:** 
 
-**[218.32s] English:** А теперь вернемся к нашей обычной программе.  
+**[218.32s] English:** Now, let's return to our regular program.  
 **Translation:** 
 
-**[223.02s] English:** Это подкаст Лекса Фридмана.  
+**[223.02s] English:** This is the Lex Fridman Podcast.  
 **Translation:** 
 
-**[225.44s] English:** Чтобы поддержать, ознакомьтесь со спонсорами в описании.  
+**[225.44s] English:** To support, check out the sponsors in the description.  
 **Translation:** 
 
-**[228.56s] English:** Там же вы найдете ссылки, чтобы связаться со мной, задать вопросы и дать мне обратную связь.  
-**Translation:** 
+**[228.56s] English:** There you will find links to contact me, ask questions, and give me feedback.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[234.40s] English:** А теперь, дорогие друзья...  
+**[234.40s] English:** Now, dear friends,...  
 **Translation:** 
 
-**[236.26s] English:** Пол Розали.  
+**[236.26s] English:** Pol Rozali.  
 **Translation:** 
 
-**[239.22s] English:** Года прошли.  
+**[239.22s] English:** Years passed.  
 **Translation:** 
 
-**[240.00s] English:** Полтора назад мы с тобой выжили в суровых джунглях,  
-**Translation:** 
+**[240.00s] English:** A year and a half ago, we survived in harsh jungles together,  
+**Translation:** Vocabulary: jungles: 密林
 
-**[244.64s] English:** и с тех пор твоя жизнь стала значительно сложнее.  
+**[244.64s] English:** And since then, your life has become significantly more complicated.  
 **Translation:** 
 
-**[249.24s] English:** Ты добился невероятного, сохранил уже более 52 тысяч гектаров тропического леса,  
-**Translation:** 
+**[249.24s] English:** You have achieved the incredible, preserving over 52,000 hectares of tropical forest.  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[256.58s] English:** и стремишься защитить еще 80 тысяч.  
+**[256.58s] English:** And you strive to protect another 80,000.  
 **Translation:** 
 
-**[262.94s] English:** И все это на фоне опасности, которую представляют собой наркоторговцы,  
-**Translation:** 
+**[262.94s] English:** And all of this in the face of the danger posed by drug traffickers.  
+**Translation:** Vocabulary: strive: 努力; traffickers: 贩毒分子
 
-**[267.36s] English:** так называемая кокаиновая мафия и нарастающая нарковойна,  
+**[267.36s] English:** Such so-called cocaine mafia and escalating drug war,  
 **Translation:** 
 
-**[271.90s] English:** и это только недавние события.  
-**Translation:** 
+**[271.90s] English:** And these are only recent events.  
+**Translation:** Vocabulary: cocaine: 可卡因; escalating: 升级的; mafia: 黑帮
 
-**[274.42s] English:** Нелегальные лесорубы, их мы уже обсуждали,  
+**[274.42s] English:** Illegal loggers, we've already discussed them,  
 **Translation:** 
 
-**[278.16s] English:** золотоискатели и удивительная встреча с неконтактным племенем.  
-**Translation:** 
+**[278.16s] English:** Gold Prospectors and an Amazing Encounter with a Non-Contact Tribe.  
+**Translation:** Vocabulary: encounter: 相遇; loggers: 非法砍伐者; prospectors: 淘金者
 
-**[282.32s] English:** Мы об этом поговорим.  
+**[282.32s] English:** We will discuss this.  
 **Translation:** 
 
-**[284.56s] English:** Твоя новая книга «Хранитель джунглей» начинается с убийства двух лесорубов  
-**Translation:** 
+**[284.56s] English:** Your new book "Keeper of the Jungle" begins with the murder of two lumberjacks.  
+**Translation:** Vocabulary: keeper: 看守; lumberjacks: 伐木工
 
-**[290.60s] English:** воинами неконтактного племени Машко Пиро в августе 2024.  
+**[290.60s] English:** Warriors of the non-contact Machko Piro tribe in August 2024.  
 **Translation:** 
 
-**[297.36s] English:** А потом ты рассказываешь о своей напряженной встрече с племенем  
+**[297.36s] English:** Then you tell about your tense meeting with the tribe.  
 **Translation:** 
 
-**[300.96s] English:** два месяца спустя, в октябре 2024.  
+**[300.96s] English:** Two months later, in October 2024.  
 **Translation:** 
 
-**[304.10s] English:** Если позволишь, зачитаю начало книги.  
+**[304.10s] English:** If you allow me, I will read the beginning of the book.  
 **Translation:** 
 
-**[309.20s] English:** Далеко на западной окраине тропических лесов Амазонки,  
+**[309.20s] English:** Far to the western edge of the tropical forests of the Amazon,  
 **Translation:** 
 
-**[312.64s] English:** глубоко в перуанских джунглях,  
-**Translation:** 
+**[312.64s] English:** Deep in the Peruvian jungles,  
+**Translation:** Vocabulary: peruvian: 秘鲁的
 
-**[315.14s] English:** двое лесорубов вонзили бензопилы в досковидные корни древнего железного дерева.  
+**[315.14s] English:** Two lumberjacks inserted chainsaws into the wooden-like roots of an ancient iron tree.  
 **Translation:** 
 
-**[321.52s] English:** Диптерикс, или Шиуауако, это гигант среди гигантов,  
-**Translation:** 
+**[321.52s] English:** Dipterix, or Shiwauco, is a giant among giants,  
+**Translation:** Vocabulary: chainsaws: 链锯; shiwauco: 七武豪
 
-**[327.36s] English:** страж, который достигает высоты в 50 метров,  
+**[327.36s] English:** Stраж, which reaches a height of 50 meters,  
 **Translation:** 
 
-**[331.00s] English:** возвышаясь над остальным пологом леса.  
-**Translation:** 
+**[331.00s] English:** Rising above the rest of the forest canopy.  
+**Translation:** Vocabulary: canopy: 树冠
 
-**[333.64s] English:** Кстати, я читал, что многим больше тысячи лет,  
+**[333.64s] English:** By the way, I read that many of them are over a thousand years old.  
 **Translation:** 
 
-**[337.12s] English:** а ты находил деревья возрастом 1200 лет.  
+**[337.12s] English:** Did you find trees that are 1200 years old?  
 **Translation:** 
 
-**[341.72s] English:** Очень старый.  
+**[341.72s] English:** Very old.  
 **Translation:** 
 
-**[343.00s] English:** Ладно, продолжаю.  
+**[343.00s] English:** Okay, I'll continue.  
 **Translation:** 
 
-**[344.40s] English:** Это конкретное дерево начало жизнь крошечным саженцем в великих джунглях.  
+**[344.40s] English:** This specific tree began its life as a tiny sapling in the great jungles.  
 **Translation:** 
 
-**[349.28s] English:** Его история началась до того, как испанцы дошли до Перу,  
-**Translation:** 
+**[349.28s] English:** His story began before the Spanish reached Peru.  
+**Translation:** Vocabulary: jungles: 密林; sapling: 幼苗
 
-**[352.28s] English:** как появилась мечта о Соединенных Штатах,  
+**[352.28s] English:** How did the dream of the United States come about?  
 **Translation:** 
 
-**[355.12s] English:** в то время, когда Леонардо да Винчи,  
-**Translation:** 
+**[355.12s] English:** When Leonardo da Vinci,  
+**Translation:** Vocabulary: leonardo: 列奥纳多; vinci: 达·芬奇
 
-**[357.12s] English:** где-то далеко еще оттачивал свои мечты.  
+**[357.12s] English:** Somewhere far away, he was still polishing his dreams.  
 **Translation:** 
 
-**[360.00s] English:** Твои таланты, сквозь Ренессанс, Первую и Вторую мировую войны, рождение наших бабушек и дедушек.  
-**Translation:** 
+**[360.00s] English:** Your talents, through the Renaissance, the First and Second World Wars, and the birth of our grandparents.  
+**Translation:** Vocabulary: polishing: 打磨; renaissance: 文艺复兴
 
-**[367.18s] English:** Это дерево росло, медленно тянулось вверх, безымянное, всего лишь одна колонна среди миллиарда других.  
+**[367.18s] English:** This tree grew, slowly reaching upward, nameless, just one column among billions of others.  
 **Translation:** 
 
-**[374.10s] English:** Но в тот день, в августе 2024, руками двух лесорубов, этот свидетель веков, рухнул на полок леса, с такой катаклизмической силой, что земля затряслась.  
-**Translation:** 
+**[374.10s] English:** But on that day in August 2024, with the hands of two lumberjacks, this witness of centuries fell to the forest floor with such cataclysmic force that the earth trembled.  
+**Translation:** Vocabulary: cataclysmic: 巨大的; lumberjacks: 伐木工; nameless: 无名的; trembled: 颤抖
 
-**[386.98s] English:** А потом ты рассказываешь, как тряску земли почувствовала и услышала неконтактное племя.  
+**[386.98s] English:** Then you tell how you felt the tremor of the earth and heard a non-contact tribe.  
 **Translation:** 
 
-**[395.60s] English:** Дальше ты описываешь, как этих конкретных лесорубов убили воина неконтактного племени Машку Пиру.  
-**Translation:** 
+**[395.60s] English:** Further, you describe how these specific loggers were killed by the non-contact tribe warrior Mashku Piru.  
+**Translation:** Vocabulary: loggers: 伐木工; tremor: 震动
 
-**[404.28s] English:** Что мы знаем о воинах этого неконтактного племени?  
+**[404.28s] English:** What do we know about the warriors of this non-contact tribe?  
 **Translation:** 
 
-**[408.32s] English:** Мы знаем, что по всему бассейну Амазонки есть еще, возможно, тысячи кланов, так называемых неконтактных.  
-**Translation:** 
+**[408.32s] English:** We know that throughout the Amazon basin there are likely thousands of clans, so-called non-contacting ones.  
+**Translation:** Vocabulary: clans: 氏族
 
-**[416.98s] English:** Это люди, которые живут в изоляции в том, что осталось от нетронутого бассейна Амазонки, и хотят там оставаться.  
+**[416.98s] English:** This is a community that lives in isolation in what remains of the untouched Amazon basin, and they want to stay there.  
 **Translation:** 
 
-**[427.66s] English:** С лесорубами, ну, как получилось, местные им говорили, не ходите туда, не лезьте в эти территории.  
-**Translation:** 
+**[427.66s] English:** With the lumberjacks, well, how it turned out, the locals told them not to go there and not to venture into these territories.  
+**Translation:** Vocabulary: territories: 领地; venture: 探险
 
-**[435.38s] English:** Но дело в том, что не местные, с джунглями такая штука, люди не верят, что они настолько дикие, как гласят легенды.  
+**[435.38s] English:** But the thing is, non-locals don't believe that the jungles are as wild as legends say.  
 **Translation:** 
 
-**[444.32s] English:** Когда им говорят, что там калатос, дикие люди, лесорубы из другого региона, такие, да ладно, это все байки, все будет нормально.  
-**Translation:** 
+**[444.32s] English:** When they are told that there are kalatots, wild people, loggers from another region—such talk is all just stories; everything will be fine.  
+**Translation:** Vocabulary: jungles: 丛林; kalatots: 卡拉托; legends: 传说
 
-**[456.04s] English:** Пойдем, у нас дробовики.  
+**[456.04s] English:** Let's go; we have shotguns.  
 **Translation:** 
 
-**[457.70s] English:** Они не понимают, что имеют дело с цивилизацией людей, которая ведет кочевой образ жизни, еще использует стрелы с бамбуковыми наконечниками,  
-**Translation:** 
+**[457.70s] English:** They do not understand that they are dealing with a civilization of people who lead a nomadic lifestyle and still use arrows with bamboo points.  
+**Translation:** Vocabulary: bamboo: 竹制; nomadic: 游牧; shotguns: 猎枪
 
-**[465.78s] English:** живут галышом в тропическом лесу Амазонки, знают лекарства, с которыми мы еще не вталкивались, а может и не втолкнемся.  
+**[465.78s] English:** They live in the tropical rainforests of Amazonia, know remedies with which we have not yet come into contact and may never do so.  
 **Translation:** 
 
-**[472.60s] English:** Эти люди могут попасть в козу.  
-**Translation:** 
+**[472.60s] English:** These people may fall into a hole.  
+**Translation:** Vocabulary: amazonia: 亚马逊; rainforests: 雨林
 
-**[474.32s] English:** На вершине дерева, в 40 метрах.  
+**[474.32s] English:** At the top of the tree, 40 meters up.  
 **Translation:** 
 
-**[476.64s] English:** Пока ты работаешь с бензопилой, они подкрадутся так, что ты...  
+**[476.64s] English:** While you are working with the chainsaw, they will sneak up on you so closely that you...  
 **Translation:** 
 
-**[480.00s] English:** Ты и не заметишь вовсе.  
+**[480.00s] English:** You won't notice at all.  
 **Translation:** 
 
-**[481.66s] English:** Когда стрела пройдет сквозь тебя, у тебя будет лишь мгновение, чтобы это осознать, прежде чем упадешь.  
-**Translation:** 
+**[481.66s] English:** When the arrow pierces through you, you will have but a moment to realize it before you fall.  
+**Translation:** Vocabulary: pierces: 穿透
 
-**[487.64s] English:** Тут есть кадры из твоего инстаграма.  
+**[487.64s] English:** Here are some clips from your Instagram.  
 **Translation:** 
 
-**[490.22s] English:** Да.  
+**[490.22s] English:** Yes.  
 **Translation:** 
 
-**[491.00s] English:** Это стрелы, которыми они пользуются.  
+**[491.00s] English:** These are the arrows they use.  
 **Translation:** 
 
-**[494.14s] English:** Они больше тебя.  
+**[494.14s] English:** They are bigger than you.  
 **Translation:** 
 
-**[495.40s] English:** Около двух метров.  
+**[495.40s] English:** About two meters.  
 **Translation:** 
 
-**[496.88s] English:** Да, может и чуть больше двух.  
+**[496.88s] English:** Yes, it might be a bit more than two.  
 **Translation:** 
 
-**[499.08s] English:** Они очень острые, их закаляет на огне у них, свой способ их затачивать.  
+**[499.08s] English:** They are very sharp. They are hardened in fire and have their own way of sharpening them.  
 **Translation:** 
 
-**[503.30s] English:** Край бамбука становится острым, как нож.  
-**Translation:** 
+**[503.30s] English:** The edge of the bamboo becomes sharp like a knife.  
+**Translation:** Vocabulary: sharpening: 磨砺过程
 
-**[506.50s] English:** Можно спокойно резать мясо, я пробовал.  
+**[506.50s] English:** You can calmly cut meat; I have tried.  
 **Translation:** 
 
-**[508.64s] English:** Эти стрелы, гляди.  
-**Translation:** 
+**[508.64s] English:** These arrows, look.  
+**Translation:** Vocabulary: calmly: 镇静地
 
-**[510.66s] English:** Я как бы метр восемьдесят.  
+**[510.66s] English:** I am about 180 centimeters tall.  
 **Translation:** 
 
-**[512.54s] English:** Стрела больше двух.  
+**[512.54s] English:** Arrow more than two.  
 **Translation:** 
 
-**[514.66s] English:** Ага, для тех, кто нас слушает, эта стрела по сути копье.  
+**[514.66s] English:** Agreed, for those listening, this arrow is essentially a spear.  
 **Translation:** 
 
-**[518.56s] English:** Можно подумать, что это копье, но они стреляют ими из гигантского лука.  
-**Translation:** 
+**[518.56s] English:** It's as if it's a spear, but they shoot them from a giant bow.  
+**Translation:** Vocabulary: spear: 长矛
 
-**[523.58s] English:** Обалдеть.  
+**[523.58s] English:** Wow.  
 **Translation:** 
 
-**[525.38s] English:** Да, и держать такое.  
+**[525.38s] English:** Yes, and keep that up.  
 **Translation:** 
 
-**[527.26s] English:** Смотри, они закручивают оперение, чтобы стрела вращалась в воздухе.  
+**[527.26s] English:** Watch as they twist the feathers to make the arrow spin in the air.  
 **Translation:** 
 
-**[531.32s] English:** Невероятное мастерство.  
-**Translation:** 
+**[531.32s] English:** Incredible mastery.  
+**Translation:** Vocabulary: mastery: 精湛技艺
 
-**[533.52s] English:** Веревка — это растительные волокна, которые они слепили.  
+**[533.52s] English:** Rope is made of plant fibers that they twisted together.  
 **Translation:** 
 
-**[537.26s] English:** А это они сами.  
-**Translation:** 
+**[537.26s] English:** This is what they did themselves.  
+**Translation:** Vocabulary: fibers: 植物纤维; twisted: 拧合
 
-**[538.64s] English:** Да, это воины племени.  
+**[538.64s] English:** Yes, these are warriors from the tribe.  
 **Translation:** 
 
-**[543.22s] English:** Воины племени, да.  
+**[543.22s] English:** Warriors of the tribe, yes.  
 **Translation:** 
 
-**[545.26s] English:** Мы сидим тут, говорим в микрофоны, у нас тут есть самолеты, телефоны, все, что есть в современном мире.  
+**[545.26s] English:** We sit here, talking into microphones, we have planes, phones, everything that exists in the modern world.  
 **Translation:** 
 
-**[552.02s] English:** И в то же время, прямо сейчас, в джунглях живут люди, которые были там с доисторических времен.  
-**Translation:** 
+**[552.02s] English:** At the same time, right now, in the jungles live people who have been there since prehistoric times.  
+**Translation:** Vocabulary: jungles: 丛林; microphones: 麦克风; prehistoric: 史前的
 
-**[562.04s] English:** Поразительно.  
+**[562.04s] English:** Porphysingly. (Note: "Porphysingly" is a direct transliteration of "Поразительно" with proper capitalization and English punctuation, but there's no exact equivalent in English that conveys the same meaning directly. The closest would be "Incredibly" or "Remarkably".)  
 **Translation:** 
 
-**[564.18s] English:** Дай-ка посмотрю в Перплексити, какие технологии у нас есть.  
-**Translation:** 
+**[564.18s] English:** Let me check in Purpleicity, what technologies we have.  
+**Translation:** Vocabulary: porphysingly: 令人难以置信地
 
-**[569.60s] English:** Современных людей есть, а у Машку Пиро нет.  
+**[569.60s] English:** Contemporary people exist, but not for Mashku Piro.  
 **Translation:** 
 
-**[573.96s] English:** Интересно подумать о технологиях, что мы воспринимаем как обыденность.  
+**[573.96s] English:** It's interesting to think about the technologies we take for granted.  
 **Translation:** 
 
-**[579.12s] English:** Энергия и мощность очевидны.  
+**[579.12s] English:** Energy and power are obvious.  
 **Translation:** 
 
-**[581.10s] English:** Электричество, энергосети, батареи, солнечные панели, электромоторы, металлы и материалы, серийное литье, алюминий, продвинутые сплавы, пластик, композиты, стекло, бетон, инструменты, конечно, и машины.  
-**Translation:** 
+**[581.10s] English:** Electricity, energy grids, batteries, solar panels, electric motors, metals and materials, serial casting, aluminum, advanced alloys, plastic, composites, glass, concrete, of course, and machines.  
+**Translation:** Vocabulary: alloys: 合金; aluminum: 铝; casting: 铸造; composites: 复合材料; panels: 面板
 
-**[595.92s] English:** Инфраструктура дорог, мостов.  
+**[595.92s] English:** Infrastructure for roads and bridges.  
 **Translation:** 
 
-**[598.64s] English:** Зданий.  
+**[598.64s] English:** Here.  
 **Translation:** 
 
-**[599.34s] English:** Фließenся.  
+**[599.34s] English:** Fließt sich.  
 **Translation:** 
 
-**[600.20s] English:** Т�двий лет второй �amet.  
-**Translation:** 
+**[600.00s] English:** And the weapons of war. All except spears and arrows, which they have.  
+**Translation:** Vocabulary: spears: 长矛
 
-**[600.80s] English:** Однако гости не получить безточную сенсорную энергию нижней врагов, ни меди mods.  
+**[600.20s] English:** This year is the second year.  
 **Translation:** 
 
-**[601.30s] English:** Energyётся  
-**Translation:** 
+**[600.80s] English:** However, guests cannot obtain the precise sensory energy from either the lower enemies or the MEDS mods.  
+**Translation:** Vocabulary: sensory: 感觉的
 
-**[600.00s] English:** И оружие войны. Все, кроме копий и стрел, которые у них есть.  
+**[601.30s] English:** Energy flows.  
 **Translation:** 
 
-**[604.34s] English:** Еще медицина и биология.  
+**[604.34s] English:** Still medicine and biology.  
 **Translation:** 
 
-**[605.90s] English:** Конечно, у них, вероятно, есть сложные лекарства, которые они разработали для себя, доступные в джунглях.  
+**[605.90s] English:** Of course, they probably have complex medicines that they developed for themselves, available in the jungles.  
 **Translation:** 
 
-**[614.34s] English:** Так, на весь список ответ нет.  
+**[614.34s] English:** So, there's no answer on the whole list.  
 **Translation:** 
 
-**[616.56s] English:** Нет.  
+**[616.56s] English:** No.  
 **Translation:** 
 
-**[617.38s] English:** Смотри, металл нужно уметь добывать из земли и ковать его.  
-**Translation:** 
+**[617.38s] English:** Look, metal needs to be mined from the earth and forged.  
+**Translation:** Vocabulary: forged: 铸造
 
-**[623.86s] English:** Эти люди даже, как сказал мне перуанский антрополог,  
+**[623.86s] English:** These people, as said by the Peruvian anthropologist, even  
 **Translation:** 
 
-**[627.86s] English:** как, знаешь, люди думают о них, как о племенах каменного века.  
+**[627.86s] English:** How, you know, people think of them as stone-age tribes.  
 **Translation:** 
 
-**[632.92s] English:** И он такой, у них нет камней.  
+**[632.92s] English:** He is like that; they don't have stones.  
 **Translation:** 
 
-**[635.16s] English:** Они не знают, что вода...  
+**[635.16s] English:** They do not know that water...  
 **Translation:** 
 
-**[637.70s] English:** Они видят воду, которую пьют, но не знают, что она замерзает, они ее не видели.  
+**[637.70s] English:** They see the water they drink, but do not know that it freezes; they have never seen it.  
 **Translation:** 
 
-**[642.14s] English:** Не знают, кипит ли вода, ведь у них...  
+**[642.14s] English:** Do not know if the water is boiling, for they...  
 **Translation:** 
 
-**[644.04s] English:** Они глиняные горшки не делают.  
+**[644.04s] English:** They do not make clay pots.  
 **Translation:** 
 
-**[645.86s] English:** У них только бамбук и веревки.  
-**Translation:** 
+**[645.86s] English:** They have only bamboo and ropes.  
+**Translation:** Vocabulary: bamboo: 竹子
 
-**[648.16s] English:** Они живут невероятно простой жизнью.  
+**[648.16s] English:** They live an incredibly simple life.  
 **Translation:** 
 
-**[651.30s] English:** Все это, даже камера, для них чудо.  
+**[651.30s] English:** All of this, even the camera, is a wonder for them.  
 **Translation:** 
 
-**[655.24s] English:** Нужно постараться, чтобы понять, насколько...  
+**[655.24s] English:** We need to try to understand how much...  
 **Translation:** 
 
-**[657.86s] English:** Они отстали.  
+**[657.86s] English:** They have fallen behind.  
 **Translation:** 
 
-**[660.48s] English:** Вернуться на тысячи лет назад в каменный век.  
+**[660.48s] English:** Go back thousands of years to the Stone Age.  
 **Translation:** 
 
-**[663.90s] English:** Когда они слышат звуки бензопил, звуки машин вдали,  
-**Translation:** 
+**[663.90s] English:** When they hear the sounds of chainsaws, distant machine noises,  
+**Translation:** Vocabulary: chainsaws: 链锯
 
-**[669.02s] English:** интересно, могут ли они вообще понять, что это такое?  
+**[669.02s] English:** Interestingly, can they even understand what this is?  
 **Translation:** 
 
-**[672.60s] English:** Думаю, они воспринимают их как демоническую разрушительную силу.  
-**Translation:** 
+**[672.60s] English:** I think they perceive them as a demonic destructive force.  
+**Translation:** Vocabulary: demonic: 魔鬼般的; perceive: 感知
 
-**[677.54s] English:** Я покажу тебе нашу встречу.  
+**[677.54s] English:** I will show you our meeting.  
 **Translation:** 
 
-**[681.32s] English:** Что-то мы о них узнали, но у нас осталось больше вопросов, чем ответов.  
+**[681.32s] English:** Something we learned about them, but we have more questions than answers.  
 **Translation:** 
 
-**[686.18s] English:** Но что они смогли донести?  
+**[686.18s] English:** But what did they manage to convey?  
 **Translation:** 
 
-**[687.54s] English:** Если они смогли донести через языковой барьер, то это...  
-**Translation:** 
+**[687.54s] English:** If they were able to get through the language barrier, then this...  
+**Translation:** Vocabulary: barrier: 语言障碍
 
-**[690.54s] English:** Зачем вы рубите деревья?  
+**[690.54s] English:** Why are you cutting down trees?  
 **Translation:** 
 
-**[692.96s] English:** Им это не нравится.  
+**[692.96s] English:** They don't like it.  
 **Translation:** 
 
-**[694.34s] English:** Ага. Для них это олицетворяет опасность, которую несет внешний мир.  
+**[694.34s] English:** Agreed. For them, this embodies the danger that the external world poses.  
 **Translation:** 
 
-**[700.24s] English:** Разрушение, которое он несет.  
-**Translation:** 
+**[700.24s] English:** The destruction he brings.  
+**Translation:** Vocabulary: embodies: 体现
 
-**[702.12s] English:** Они видят в нас разрушителей миров.  
+**[702.12s] English:** They see us as world destroyers.  
 **Translation:** 
 
-**[705.78s] English:** Расскажи мне о встрече в октябре 2024.  
+**[705.78s] English:** Tell me about the meeting in October 2024.  
 **Translation:** 
 
-**[712.22s] English:** Чтобы рассказать тебе об этой встрече, нужно сориентировать людей о каком месте реки.  
+**[712.22s] English:** To tell you about this meeting, we need to orient people about which part of the river.  
 **Translation:** 
 
-**[717.54s] English:** Мы говорим о реке, которая...  
-**Translation:** 
+**[717.54s] English:** We are talking about a river which...  
+**Translation:** Vocabulary: orient: 使了解方向
 
-**[720.00s] English:** через западный край амазонских джунглей, которую ты теперь хорошо знаешь после нашего с тобой  
+**[720.00s] English:** Through the western edge of the Amazon jungles, which you now know well after our journey together,  
 **Translation:** 
 
-**[725.16s] English:** путешествия. Это приток амазонских джунглей. Там есть главное русло, а потом все меньше и меньше  
-**Translation:** 
+**[725.16s] English:** Travels. This is a tributary of the Amazon jungles. There is the main channel, and then it gets narrower and narrower.  
+**Translation:** Vocabulary: jungles: 热带雨林; narrower: 更窄; tributary: 支流
 
-**[732.60s] English:** притоки. Чем меньше, тем менее они проходили. Эта река веками становилась дикой. Даже в 90-е,  
+**[732.60s] English:** Pristines. The fewer they were, the less they passed. This river became wild for centuries. Even in the 90s,  
 **Translation:** 
 
-**[743.68s] English:** когда случился бум красного дерева и пошла вырубка Махагонии, очень мало кто поднимался по этой  
-**Translation:** 
+**[743.68s] English:** When the mahogany boom occurred and redwood logging began, very few people climbed this mountain.  
+**Translation:** Vocabulary: mahogany: 红木; redwood: 红杉
 
-**[750.62s] English:** речке. 20 лет назад, когда я впервые попал в регион, люди говорили мне, что там есть неконтактные  
+**[750.62s] English:** Реке. 20 лет назад, когда я впервые попал в регион, люди говорили мне, что там есть неконтактные.  
 **Translation:** 
 
-**[757.72s] English:** племена, но всегда казалось, что... Знаешь, как люди говорят, там йети или не ходи туда, там призраки,  
-**Translation:** 
+**[757.72s] English:** Plemena, no vsegda kazalos', chto... Znayu, kak lyudi govorят, tam yeti ili ne khodi tuda, tam prirogi,...  
+**Translation:** Vocabulary: kazalos: 似乎; plemena: 部落; prirogi: 野人
 
-**[765.12s] English:** почти что байка. В то время, когда я впервые приехал в Перу, это было 2006, даже перуанцы  
+**[765.12s] English:** Almost a legend. When I first arrived in Peru in 2006, even the Peruvians themselves  
 **Translation:** 
 
-**[773.66s] English:** правительства официально заявляли, что племена миф. Никаких племен не существует. Такая была  
-**Translation:** 
+**[773.66s] English:** Governments officially claimed that tribes were a myth. There are no such things as tribes. Such was  
+**Translation:** Vocabulary: peruvians: 秘鲁人; tribes: 部落
 
-**[778.56s] English:** официальная позиция. А ты слышал истории про людей, которых подстрелили. Встречаешь кого-то в четырех  
+**[778.56s] English:** Official position. Have you heard stories about people who were shot? You meet someone in four  
 **Translation:** 
 
-**[784.44s] English:** днях вверх по реке, глубоко в джунглях, а у него стрела. Смотришь на эту штуку, а она прям...  
-**Translation:** 
+**[784.44s] English:** Days upstream along the river, deep in the jungles, and he has an arrow. Look at this thing; it's straight...  
+**Translation:** Vocabulary: upstream: 顺流而上的
 
-**[790.86s] English:** Серьезная. И вот мы создали Jungle Keepers, и теперь мы защищаем 52 тысячи гектаров реки.  
+**[790.86s] English:** Serious. And here we created Jungle Keepers, and now we are protecting 52 thousand hectares of river.  
 **Translation:** 
 
-**[799.46s] English:** Защищаем растения, животных и древние деревья. Пытаемся сохранить экосистему.  
-**Translation:** 
+**[799.46s] English:** We protect plants, animals, and ancient trees. We try to preserve the ecosystem.  
+**Translation:** Vocabulary: hectares: 公顷; keepers: 守护者
 
-**[803.66s] English:** Считаем бабочек, проводим экологические исследования, непреднамеренно, но оказалось,  
+**[803.66s] English:** Counting butterflies, conducting ecological research, inadvertently, but it turned out,  
 **Translation:** 
 
-**[808.78s] English:** что мы заботимся и о людях. Чтобы существовать, они должны оставаться изолированными. Они хотят  
-**Translation:** 
+**[808.78s] English:** What we care about are people. To exist, they must remain isolated. They want  
+**Translation:** Vocabulary: conducting: 进行; inadvertently: 无意中; isolated: 隔离的
 
-**[817.72s] English:** жить в изоляции. Это их единственный мандат, как цивилизации. Племен Машка Перо.  
+**[817.72s] English:** To live in isolation. This is their sole mandate as a civilization. The Mashka Feather Tribes.  
 **Translation:** 
 
-**[824.48s] English:** И вот в октябре мы в Jungle Keepers работаем с коренными народами. Мы не...  
-**Translation:** 
+**[824.48s] English:** Here in October, we at Jungle Keepers work with indigenous communities. We don't...  
+**Translation:** Vocabulary: mandate: 指令
 
-**[833.66s] English:** Берем лесорубов и злотодобытчиков и устраиваем их рейнджерами. Даем им хорошую работу, пытаемся защитить лес.  
+**[833.66s] English:** We'll hire loggers and gold miners and turn them into rangers. We'll give them good work and try to protect the forest.  
 **Translation:** 
 
-**[840.00s] English:** Те люди, которые живут наверху, в отдаленном коренном поселении, позвонили нам по спутниковому телефону и сказали,  
-**Translation:** 
+**[840.00s] English:** The people who live up top, in the remote indigenous settlement, called us on their satellite phone and said,  
+**Translation:** Vocabulary: indigenous: 本地的; loggers: 伐木工; rangers: 护林员
 
-**[846.84s] English:** «Директора, вы работали с нами, говорили, что хотите помочь. Племена идут. Что делать?»  
+**[846.84s] English:** Directors, you worked with us and said that you want to help. The tribes are coming. What do we do?  
 **Translation:** 
 
-**[853.52s] English:** То есть даже они толком не знают, что делать, когда племена выходят из глубин джунглей?  
+**[853.52s] English:** So, even they don't know what to do when tribes emerge from the depths of the jungle?  
 **Translation:** 
 
-**[859.22s] English:** Они были в ужасе.  
+**[859.22s] English:** They were in horror.  
 **Translation:** 
 
-**[860.60s] English:** О чем ты думал, когда тебе позвонили?  
+**[860.60s] English:** What were you thinking when they called you?  
 **Translation:** 
 
-**[863.18s] English:** Когда мне позвонили, это была смесь, знаешь, мы ведь...  
+**[863.18s] English:** When I was called, it was a mix, you know, we were...  
 **Translation:** 
 
-**[866.86s] English:** Мы пытаемся получить концессии на землю, делаем важную работу, и отчасти я подумал,  
-**Translation:** 
+**[866.86s] English:** We are trying to obtain land concessions, and we are doing important work, and partly I thought,  
+**Translation:** Vocabulary: concessions: 特许权
 
-**[871.22s] English:** «Да такого быть не может, не будем высовываться».  
+**[871.22s] English:** Such a thing cannot be, let's not stick our necks out.  
 **Translation:** 
 
-**[874.10s] English:** Из леса выходят йети.  
+**[874.10s] English:** From the forest come the Yetis.  
 **Translation:** 
 
-**[876.10s] English:** Мы такие, «Да, да, да».  
+**[876.10s] English:** We are like "Yes, yes, yes.  
 **Translation:** 
 
-**[877.86s] English:** Повесили трубку и решили, «Ладно, может, завтра, если они не свалят».  
+**[877.86s] English:** hung up and decided, "Well, maybe tomorrow, if they don't bail out on us.  
 **Translation:** 
 
-**[882.36s] English:** Это было, наверное, около полудня, а у нас были важные дела,  
+**[882.36s] English:** This was probably around noon, and we had important matters to attend to.  
 **Translation:** 
 
-**[886.62s] English:** и встреча с полицией, с владельцем землей, мы пытались уладить все вопросы.  
-**Translation:** 
+**[886.62s] English:** And our meeting with the police and the landowner, we tried to resolve all the issues.  
+**Translation:** Vocabulary: landowner: 土地所有者
 
-**[892.12s] English:** А потом мы собрались с командой директоров, Джей Джейм, Моксином и Стефаном,  
+**[892.12s] English:** Then we gathered with the board team, Jay Jaym, Moksin, and Stefan,  
 **Translation:** 
 
-**[896.70s] English:** и позвонили.  
-**Translation:** 
+**[896.70s] English:** And they called.  
+**Translation:** Vocabulary: stefan: 斯蒂凡
 
-**[896.86s] English:** И мы подумали, «Но если это правда, нам нужно быть там прямо сейчас».  
+**[896.86s] English:** We thought, "But if this is true, we need to be there right now.  
 **Translation:** 
 
-**[901.06s] English:** Прямо сейчас.  
+**[901.06s] English:** Right now.  
 **Translation:** 
 
-**[902.48s] English:** Мы бросили все, чем занимались, отменили встречи, отправили на них других людей,  
+**[902.48s] English:** We abandoned everything we were doing, canceled meetings, and sent others in their place.  
 **Translation:** 
 
-**[907.62s] English:** взяли лодку и позвонили Игнасио, нашему самому суровому рейнджеру.  
-**Translation:** 
+**[907.62s] English:** They took the boat and called Ignacio, our toughest ranger.  
+**Translation:** Vocabulary: ranger: 护林员; toughest: 最坚强的
 
-**[912.92s] English:** Которого подстрелили.  
+**[912.92s] English:** Which one they shot down.  
 **Translation:** 
 
-**[914.58s] English:** Которого подстрелили в голову стрелой в 2019 году.  
-**Translation:** 
+**[914.58s] English:** Which was arrowshot in the head in 2019.  
+**Translation:** Vocabulary: arrowshot: 箭射
 
-**[918.48s] English:** У него до сих пор шрам, он еле выжил тогда.  
+**[918.48s] English:** He still has a scar, and he barely survived then.  
 **Translation:** 
 
-**[922.24s] English:** Мы сказали, «Там вот что творится», а он, «Я знаю, вся река уже знает».  
+**[922.24s] English:** We said, "There's what's going on," and he replied, "I know; the whole river knows.  
 **Translation:** 
 
-**[926.70s] English:** Мы говорим, «Можешь довезти нас туда к завтрашнему утру?»  
+**[926.70s] English:** We say, "Can you take us there by tomorrow morning?  
 **Translation:** 
 
-**[930.28s] English:** А он, «На лодке это займет два дня, так что нет».  
+**[930.28s] English:** He said, "On the boat, it will take two days, so no way.  
 **Translation:** 
 
-**[932.90s] English:** Мы такие, «Можешь как-то нас провести?»  
+**[932.90s] English:** We asked, "Can you trick us in any way?  
 **Translation:** 
 
-**[936.14s] English:** И он сказал, «Могу».  
+**[936.14s] English:** He said, "Can do.  
 **Translation:** 
 
-**[937.14s] English:** Мы взяли пару мешков риса, пару банок тунца, спальные мешки, палатки,  
+**[937.14s] English:** We took a couple of bags of rice, a couple of cans of tuna, sleeping bags, and tents.  
 **Translation:** 
 
-**[942.36s] English:** сели на лодку где-то в шесть вечера и начали подниматься по реке.  
+**[942.36s] English:** We got into the boat around six o'clock in the evening and started traveling up the river.  
 **Translation:** 
 
-**[946.72s] English:** Ночью?  
+**[946.72s] English:** At night?  
 **Translation:** 
 
-**[947.62s] English:** Ночью.  
+**[947.62s] English:** At night.  
 **Translation:** 
 
-**[948.52s] English:** Мы пытались втиснуть двухдневное путешествие в одну ночь.  
+**[948.52s] English:** We tried to squeeze a two-day trip into one night.  
 **Translation:** 
 
-**[952.08s] English:** Я сидел спереди с налобным фонарем, с факелом.  
-**Translation:** 
+**[952.08s] English:** I sat in front with a headlamp and a torch.  
+**Translation:** Vocabulary: headlamp: 头灯; squeeze: 压缩
 
-**[955.70s] English:** Первые несколько часов.  
+**[955.70s] English:** The first few hours.  
 **Translation:** 
 
-**[956.54s] English:** Первые несколько часов было ясно.  
+**[956.54s] English:** The first few hours were clear.  
 **Translation:** 
 
-**[958.06s] English:** И та комета, помнишь эту комету?  
+**[958.06s] English:** Do you remember that comet?  
 **Translation:** 
 
-**[960.00s] English:** В небе было видно комету, и я помню, смотрел на нее и думал, вот оно.  
+**[960.00s] English:** In the sky, I could see a comet, and I remember thinking, there it is.  
 **Translation:** 
 
-**[964.30s] English:** Я знал.  
+**[964.30s] English:** I knew.  
 **Translation:** 
 
-**[965.88s] English:** Первые пару часов было ясно, видны были звезды, красиво.  
+**[965.88s] English:** The first couple of hours were clear, with stars visible and it was beautiful.  
 **Translation:** 
 
-**[969.68s] English:** А потом небо затянулось тучами, началась гроза, и наступил апокалипсис.  
+**[969.68s] English:** Then the sky was covered with clouds, a storm began, and an apocalypse ensued.  
 **Translation:** 
 
-**[974.02s] English:** С полуночи до восьми утра было видно только нос лодки, и что-то из заставки «Звездных войн».  
-**Translation:** 
+**[974.02s] English:** From midnight to eight in the morning, all that could be seen was the bow of the boat, and something from the "Star Wars" teaser.  
+**Translation:** Vocabulary: apocalypse: 世界末日; ensued: 随之而来
 
-**[980.14s] English:** Капли дождя, галактики и мотыльки, летящие тебе в глаза.  
+**[980.14s] English:** Drops of rain, galaxies, and moths flying into your eyes.  
 **Translation:** 
 
-**[986.20s] English:** Люди не понимают, что в тропиках можно заработать переохлаждение.  
-**Translation:** 
+**[986.20s] English:** People do not understand that in the tropics, one can get hypothermia.  
+**Translation:** Vocabulary: galaxies: 星系; hypothermia: 低体温症; moths: 蛾; tropics: 热带
 
-**[990.00s] English:** Но ночью, даже если температура 27, когда идет дождь и ветрено, в грозу, ты замерзаешь.  
+**[990.00s] English:** But at night, even if the temperature is 27 degrees, when it's raining and windy, or during a thunderstorm, you'll freeze.  
 **Translation:** 
 
-**[997.60s] English:** К двум ночам мое тело сводит судорогами, и мы ориентируемся по глазам кайманов, по краям реки.  
-**Translation:** 
+**[997.60s] English:** By two o'clock in the morning, my body is convulsed by spasms, and we orient ourselves by the eyes of the caimans along the river's edge.  
+**Translation:** Vocabulary: caimans: 凯门鳄; convulsed: 抽搐; orient: 定位; spasms: 痉挛
 
-**[1004.56s] English:** Потому что было так темно, что мы не видели, куда движемся, а они отражали луч фонаря.  
+**[1004.56s] English:** Because it was so dark that we couldn't see where we were going, while they reflected the beam of the flashlight.  
 **Translation:** 
 
-**[1009.90s] English:** Я искал глаза кайманов и показывал Гнасио светом, куда плыть.  
-**Translation:** 
+**[1009.90s] English:** I searched for alligators' eyes and showed Gnasio where to swim with a light.  
+**Translation:** Vocabulary: alligators: 鳄鱼; flashlight: 手电筒
 
-**[1013.78s] English:** Он знал, как найти канал.  
+**[1013.78s] English:** He knew how to find the channel.  
 **Translation:** 
 
-**[1015.64s] English:** Нам пришлось перепрыгивать водопады.  
-**Translation:** 
+**[1015.64s] English:** We had to jump over waterfalls.  
+**Translation:** Vocabulary: waterfalls: 瀑布
 
-**[1018.14s] English:** Но мы преодолели двухдневный путь.  
+**[1018.14s] English:** But we overcame the two-day journey.  
 **Translation:** 
 
-**[1020.00s] English:** За одну ночь.  
-**Translation:** 
+**[1020.00s] English:** In one night.  
+**Translation:** Vocabulary: overcame: 克服了
 
-**[1021.56s] English:** Круто.  
+**[1021.56s] English:** Cool.  
 **Translation:** 
 
-**[1022.60s] English:** Добрались, приезжаем в поселение, уже утро,  
+**[1022.60s] English:** We made it. We're arriving in the settlement; it's already morning.  
 **Translation:** 
 
-**[1025.74s] English:** под джунглем разносится крик обезьян и ревунов,  
+**[1025.74s] English:** Under the jungle, the cries of monkeys and roarers echo.  
 **Translation:** 
 
-**[1029.16s] English:** маленькие голые дети кучкуются с краю, все напуганы.  
-**Translation:** 
+**[1029.16s] English:** Small naked children huddle at the edge, all terrified.  
+**Translation:** Vocabulary: huddle: 挤成一团; roarers: 吼叫的动物
 
-**[1033.46s] English:** Обнимаемся со знакомым парнем, батча нам говорит,  
+**[1033.46s] English:** We hug an old friend, and Batch tells us,  
 **Translation:** 
 
-**[1036.54s] English:** «Заходите, заходите».  
+**[1036.54s] English:** Come in, come in.  
 **Translation:** 
 
-**[1038.22s] English:** Племя вышло вчера, мы видели несколько у берега, но сейчас их нет.  
+**[1038.22s] English:** The tribe went out yesterday. We saw a few of them near the shore, but they are not there now.  
 **Translation:** 
 
-**[1044.56s] English:** Мы рухнули и заснули.  
+**[1044.56s] English:** We fell asleep after we had dinner.  
 **Translation:** 
 
-**[1047.08s] English:** Весь день шел дождь.  
+**[1047.08s] English:** All day it rained.  
 **Translation:** 
 
-**[1048.18s] English:** Той ночью мы вышли их искать.  
+**[1048.18s] English:** That night we went out to look for them.  
 **Translation:** 
 
-**[1050.00s] English:** И в какой-то момент мы стоим на берегу и видим их следы.  
+**[1050.00s] English:** In some moment, we stand on the shore and see their tracks.  
 **Translation:** 
 
-**[1057.52s] English:** С нами был местный коренной антрополог.  
-**Translation:** 
+**[1057.52s] English:** With us was a local anthropologist.  
+**Translation:** Vocabulary: anthropologist: 人类学家
 
-**[1059.74s] English:** Мы были прямо на берегу и смотрели в сторону Амазонки,  
+**[1059.74s] English:** We were right on the beach and looking towards the Amazon.  
 **Translation:** 
 
-**[1063.16s] English:** а там просто крах, что-то в стиле Кормака, Маккарти.  
-**Translation:** 
+**[1063.16s] English:** There was just a total collapse, something in the style of Cormac McCarthy.  
+**Translation:** Vocabulary: collapse: 崩溃
 
-**[1068.20s] English:** Темное небо, тяжелые тучи.  
+**[1068.20s] English:** Dark skies, heavy clouds.  
 **Translation:** 
 
-**[1071.94s] English:** В общем, мы стоим, все ждут.  
+**[1071.94s] English:** In general, we are standing still, and everyone is waiting.  
 **Translation:** 
 
-**[1074.40s] English:** В любой момент тебе в шею может прилететь стрела,  
+**[1074.40s] English:** At any moment, a arrow may fly into your neck,  
 **Translation:** 
 
-**[1077.18s] English:** и у людей дробовики наготове.  
-**Translation:** 
+**[1077.18s] English:** And people have shotguns ready.  
+**Translation:** Vocabulary: shotguns: 猎枪
 
-**[1079.06s] English:** И вот он.  
+**[1079.06s] English:** And there he is.  
 **Translation:** 
 
-**[1080.00s] English:** Антрополог, маленький такой мужик, стоит впереди и кричит «Намоли!», то есть «братья».  
+**[1080.00s] English:** An anthropologist, a small man, stands in front and shouts "Namoli!", which means "brothers.  
 **Translation:** 
 
-**[1085.02s] English:** У них в языках есть несколько общих слов.  
+**[1085.02s] English:** They have several common words in their languages.  
 **Translation:** 
 
-**[1088.36s] English:** Он говорит «братья, мы здесь не хотим вам набредить», на языке иины.  
-**Translation:** 
+**[1088.36s] English:** He says, "brothers, we are not here to impose on you," in the language of the Inu.  
+**Translation:** Vocabulary: impose: 强加
 
-**[1093.32s] English:** Он говорит «выходите».  
+**[1093.32s] English:** He says "exit".  
 **Translation:** 
 
-**[1094.56s] English:** По их следам было видно, нам трекеры объяснили, были лишь отпечатки подушек ног.  
-**Translation:** 
+**[1094.56s] English:** By their feet, it was clear to us that the trackers had only shown impressions of shoe soles.  
+**Translation:** Vocabulary: trackers: 追踪器
 
-**[1099.90s] English:** Когда мы подъехали к пляжу, они убежали.  
+**[1099.90s] English:** When we pulled up to the beach, they ran away.  
 **Translation:** 
 
-**[1102.14s] English:** Но они были там, и слушали нас.  
+**[1102.14s] English:** But they were there, and they listened to us.  
 **Translation:** 
 
-**[1104.48s] English:** И он кричит «Намоли!», «выходите!», «все окей, сложите оружие, мы сложим свое Намоли».  
+**[1104.48s] English:** He cries out "Namoli!", "Come out!", "Everything okay, lay down your weapons, we'll lay down ours, Namoli.  
 **Translation:** 
 
-**[1109.40s] English:** Постоянно говорил Намоли.  
+**[1109.40s] English:** Constantly, Namoli said.  
 **Translation:** 
 
-**[1111.34s] English:** Но тишина.  
+**[1111.34s] English:** But there is silence.  
 **Translation:** 
 
-**[1112.66s] English:** Мы вернулись в поселение спать, и просыпаемся следующим утром, время 5 утра.  
+**[1112.66s] English:** We returned to the settlement to sleep, and woke up the following morning at 5 AM.  
 **Translation:** 
 
-**[1118.12s] English:** Опять же, мы же пытаемся спасти джунгли, торопимся получить концессии на землю.  
+**[1118.12s] English:** Again, we are trying to save the jungles, rushing to obtain concessions on land.  
 **Translation:** 
 
-**[1124.98s] English:** А тут я, Максим и Стефан.  
-**Translation:** 
+**[1124.98s] English:** Here we are, Maxim and Steffen.  
+**Translation:** Vocabulary: concessions: 特许权; jungles: 丛林
 
-**[1127.70s] English:** Джей Джей не приехал, остался в городе, подписывал бумаги, опрашивал лесорубов и землевладельцев.  
+**[1127.70s] English:** Jay Jay didn't arrive; he stayed in the city, signing papers, interviewing loggers and landowners.  
 **Translation:** 
 
-**[1133.58s] English:** Плюс ко всему, он не верил, что все это взаправду, ведь за всю свою жизнь, лет за 50 с чем-то в Амазонке,  
-**Translation:** 
+**[1133.58s] English:** Plus, he didn't believe that any of it was really happening, since he had spent over 50 years in the Amazon and...  
+**Translation:** Vocabulary: landowners: 土地所有者; loggers: 伐木工
 
-**[1139.06s] English:** он нервничал.  
+**[1139.06s] English:** He was nervous.  
 **Translation:** 
 
-**[1139.40s] English:** Он ни разу не видел их.  
+**[1139.40s] English:** He has never seen them.  
 **Translation:** 
 
-**[1141.16s] English:** Утром мы собираемся уезжать, и уже палатки в лодку сложили.  
+**[1141.16s] English:** In the morning we are planning to leave, and already the tents have been put into the boat.  
 **Translation:** 
 
-**[1145.62s] English:** Игнатий подходит ко мне и говорит «Ты мой директор, да? Ты мой босс?»  
+**[1145.62s] English:** Igнатий approaches me and asks, "Are you my director? Are you my boss?  
 **Translation:** 
 
-**[1149.76s] English:** Я такой «Да».  
+**[1149.76s] English:** I am a "Yes.  
 **Translation:** 
 
-**[1150.76s] English:** А он «Нужно поговорить, как друзья».  
+**[1150.76s] English:** He said, "We need to talk as friends.  
 **Translation:** 
 
-**[1153.46s] English:** «Да, да, конечно, давай».  
+**[1153.46s] English:** Yes, yes, of course, let's do it.  
 **Translation:** 
 
-**[1155.20s] English:** Он говорит «Ты будешь дебилом, если уедешь».  
+**[1155.20s] English:** He says, "You'll be a fool if you leave.  
 **Translation:** 
 
-**[1157.84s] English:** Они идут.  
+**[1157.84s] English:** They are going.  
 **Translation:** 
 
-**[1159.40s] English:** Он убедил нас остаться, мы снимаем палатки с лодки,  
+**[1159.40s] English:** He convinced us to stay, we are taking down the tents from the boat,  
 **Translation:** 
 
-**[1163.02s] English:** Стефан и Максим уходят с камерами снимать наше поселение.  
+**[1163.02s] English:** Stefan and Maxim leave with cameras to film our settlement.  
 **Translation:** 
 
-**[1166.34s] English:** Там живут рыбаки и охотники на обезьян.  
+**[1166.34s] English:** There live fishermen and monkey hunters.  
 **Translation:** 
 
-**[1169.40s] English:** И все тихо.  
+**[1169.40s] English:** And everything is quiet.  
 **Translation:** 
 
-**[1172.28s] English:** Я открыл ноутбук, начал работать над книгой, и...  
-**Translation:** 
+**[1172.28s] English:** I opened my laptop, started working on the book, and...  
+**Translation:** Vocabulary: laptop: 笔记本电脑
 
-**[1176.32s] English:** Тут...  
+**[1176.32s] English:** Here...  
 **Translation:** 
 
-**[1178.50s] English:** Началось.  
+**[1178.50s] English:** It began.  
 **Translation:** 
 
-**[1180.18s] English:** Слышны крики «Машко, Машко!»  
+**[1180.18s] English:** We hear cries of "Mashko, Mashko!  
 **Translation:** 
 
-**[1183.98s] English:** Народ орет, женщины хватают детей и бегут в хижины.  
+**[1183.98s] English:** People are shouting, women grab their children and run into huts.  
 **Translation:** 
 
-**[1188.22s] English:** Собаки с курами сходят с ума.  
+**[1188.22s] English:** Dogs and chickens are going crazy.  
 **Translation:** 
 
-**[1190.32s] English:** Страх, страх, страх.  
+**[1190.32s] English:** Fear, fear, fear.  
 **Translation:** 
 
-**[1192.10s] English:** Скажу очевидное, из всех известных нам встреч,  
+**[1192.10s] English:** Say the obvious: among all the meetings we are familiar with,  
 **Translation:** 
 
-**[1195.12s] English:** из даже минимальных взаимодействий с этими племенами,  
-**Translation:** 
+**[1195.12s] English:** From even minimal interactions with these tribes,  
+**Translation:** Vocabulary: minimal: 少量的; tribes: 部落
 
-**[1199.40s] English:** Каждая за себя.  
+**[1199.40s] English:** Each for themselves.  
 **Translation:** 
 
-**[1200.00s] English:** заканчивалось насилием.  
+**[1200.00s] English:** It ended with violence.  
 **Translation:** 
 
-**[1202.18s] English:** Ужасно. Эти племена остались живых благодаря жестокости.  
+**[1202.18s] English:** Horrible. These tribes survived thanks to cruelty.  
 **Translation:** 
 
-**[1206.64s] English:** Как спартанцы или каманчи, они выбрали жестокость в качестве ответа на любую форму контакта.  
-**Translation:** 
+**[1206.64s] English:** As Spartans or Comanches, they chose brutality as a response to any form of contact.  
+**Translation:** Vocabulary: brutality: 野蛮; cruelty: 残忍; spartans: 斯巴达人
 
-**[1212.32s] English:** Я читал, может ты меня поправишь, что в конце 19 века и начале 20 века  
+**[1212.32s] English:** I read, maybe you can correct me, that in the late 19th century and early 20th century,  
 **Translation:** 
 
-**[1219.52s] English:** были задокументированы столкновения этих племен с частными армиями каучуковых баронов.  
-**Translation:** 
+**[1219.52s] English:** Documented were clashes between these tribes and private armies of rubber barons.  
+**Translation:** Vocabulary: barons: 橡胶大亨; clashes: 冲突
 
-**[1227.24s] English:** И с точки зрения армии каучуковых баронов, эти стычки были насильственными.  
+**[1227.24s] English:** From the standpoint of the rubber barons' army, these skirmishes were violent.  
 **Translation:** 
 
-**[1233.18s] English:** Может, неконтактные племена усвоили урок,  
-**Translation:** 
+**[1233.18s] English:** May be, non-contact tribes have learned the lesson,  
+**Translation:** Vocabulary: skirmishes: 小规模战斗; standpoint: 立场
 
-**[1236.26s] English:** любое взаимодействие с внешним миром заканчивается насилием,  
+**[1236.26s] English:** Any interaction with the external world ends in violence,  
 **Translation:** 
 
-**[1240.56s] English:** а значит, они должны защищаться.  
+**[1240.56s] English:** So, they should protect themselves.  
 **Translation:** 
 
-**[1243.16s] English:** Да. В 1600-х и в 1700-х были миссионеры-колонизаторы.  
+**[1243.16s] English:** Yes. In the 1600s and 1700s, there were missionary-colonizers.  
 **Translation:** 
 
-**[1247.62s] English:** Потом, в конце 1800-х и 1900-х, каучуковые бароны.  
+**[1247.62s] English:** Then, in the late 1800s and 1900s, the rubber barons.  
 **Translation:** 
 
-**[1251.56s] English:** Это периоды добычи, подчинения и жестокости.  
+**[1251.56s] English:** These are periods of extraction, subjugation, and cruelty.  
 **Translation:** 
 
-**[1253.98s] English:** Должно быть, в этих племенах дедушки говорят,  
-**Translation:** 
+**[1253.98s] English:** It must be that in these tribes, grandfathers tell stories,  
+**Translation:** Vocabulary: extraction: 开采; subjugation: 压迫
 
-**[1256.38s] English:** «Когда приходит внешний мир, стреляй первым. Лишь это поможет тебе выжить».  
+**[1256.38s] English:** When external forces arrive, shoot first. That is the only way to ensure your survival.  
 **Translation:** 
 
-**[1260.52s] English:** Думаешь, память о тех жестоких стычках определяет то, как они видят мир?  
+**[1260.52s] English:** Do you think memories of those harsh clashes define how they see the world?  
 **Translation:** 
 
-**[1266.88s] English:** Да. Потому что даже в мое время, за те 20 лет, что я провел в Амазонке,  
+**[1266.88s] English:** Yes. Because even in my time, over those 20 years I spent in the Amazon,  
 **Translation:** 
 
-**[1271.54s] English:** Игнасио получил выстрел в голову.  
-**Translation:** 
+**[1271.54s] English:** Ignacio received a gunshot wound to the head.  
+**Translation:** Vocabulary: gunshot: 枪伤
 
-**[1274.22s] English:** Мой друг Виктор выжил в стычке, где человека убили на берегу реки.  
+**[1274.22s] English:** My friend Victor survived a skirmish where a person was killed by the river.  
 **Translation:** 
 
-**[1279.36s] English:** Они подстрелили кучу людей, они стреляли даже в тех, кто пытался им помочь,  
-**Translation:** 
+**[1279.36s] English:** They shot a bunch of people; they even shot at those who tried to help them.  
+**Translation:** Vocabulary: skirmish: 小规模战斗; victor: 维克托
 
-**[1283.66s] English:** кто хотел дать им одежду и бананы.  
+**[1283.66s] English:** Who wanted to give them clothes and bananas.  
 **Translation:** 
 
-**[1286.38s] English:** Там это называется «дикообразить», когда на берегу находят тело с таким количеством стрел,  
-**Translation:** 
+**[1286.38s] English:** There, they call it "dikozubilir," when a body is found on the shore with such a number of arrows,  
+**Translation:** Vocabulary: dikozubilir: 遇箭身亡
 
-**[1290.82s] English:** что, когда оно лежит, стрелы торчат вверх.  
+**[1290.82s] English:** What's more, when it lies down, the arrows stick up.  
 **Translation:** 
 
-**[1293.42s] English:** А еще они так поступают из любопытства, типа, «Эй, на тебе костюм! Это странно!  
-**Translation:** 
+**[1293.42s] English:** They also do it out of curiosity, like, "Hey, you're wearing a costume! That's strange!  
+**Translation:** Vocabulary: costume: 服装
 
-**[1298.70s] English:** Мы не видели человека в костюме!»  
+**[1298.70s] English:** We haven't seen a man in a costume!  
 **Translation:** 
 
-**[1301.82s] English:** И забирают одежду, как Тедди Рузвельт стреляет птиц ради науки.  
-**Translation:** 
+**[1301.82s] English:** And they take clothes, like Teddy Roosevelt shooting birds for science.  
+**Translation:** Vocabulary: roosevelt: 罗斯福; teddy: 泰迪
 
-**[1305.70s] English:** Они хотят на тебя посмотреть.  
+**[1305.70s] English:** They want to look at you.  
 **Translation:** 
 
-**[1307.70s] English:** Они совершенно иначе живут, у них нет понятных нам моральных принципов.  
+**[1307.70s] English:** They live completely differently, they don't have moral principles that we can understand.  
 **Translation:** 
 
-**[1312.50s] English:** Они действительно дикие.  
+**[1312.50s] English:** They are truly wild.  
 **Translation:** 
 
-**[1316.38s] English:** Игнасио к ним относится. Они его чуть не убили.  
+**[1316.38s] English:** Ignacio relates to them. They almost killed him.  
 **Translation:** 
 
-**[1319.38s] English:** Да.  
+**[1319.38s] English:** Yes.  
 **Translation:** 
 
-**[1320.76s] English:** Зависит от настроения.  
+**[1320.76s] English:** It depends on my mood.  
 **Translation:** 
 
-**[1322.50s] English:** Однажды я спросил, если бы ты увидел тех, кто выстрелил тебе в голову,  
+**[1322.50s] English:** One day I asked if he would see who shot him in the head,  
 **Translation:** 
 
-**[1327.16s] English:** что бы ты им сказал?  
+**[1327.16s] English:** What would you tell them?  
 **Translation:** 
 
-**[1328.86s] English:** Он посмотрел на меня своим взглядом и говорит,  
+**[1328.86s] English:** He looked at me with his gaze and says,  
 **Translation:** 
 
-**[1331.70s] English:** «Ничего, убил бы столько, сколько бы смог».  
+**[1331.70s] English:** Nothing, I could have killed as many as I could.  
 **Translation:** 
 
-**[1334.80s] English:** Я такой, «Окей».  
+**[1334.80s] English:** I'm okay.  
 **Translation:** 
 
-**[1336.20s] English:** Был еще случай, когда он работал на удаленной сторожевой станции  
+**[1336.20s] English:** There was another case when he worked at a remote guard station.  
 **Translation:** 
 
-**[1339.74s] English:** на проекте Министерства культуры.  
+**[1339.74s] English:** On the project of the Ministry of Culture.  
 **Translation:** 
 
-**[1342.42s] English:** И они пришли.  
+**[1342.42s] English:** And they came.  
 **Translation:** 
 
-**[1344.28s] English:** Он знал, его убьют, и залез на самый верх этой маленькой конструкции.  
+**[1344.28s] English:** He knew he would be killed and climbed to the very top of this small structure.  
 **Translation:** 
 
-**[1348.10s] English:** А там прям как собака в машине.  
+**[1348.10s] English:** There, it's just like a dog in a car.  
 **Translation:** 
 
-**[1350.56s] English:** Наверху полдень, солнце жарит.  
+**[1350.56s] English:** At the top, it's noon, and the sun is blazing.  
 **Translation:** 
 
-**[1352.18s] English:** Прям парниковый эффект.  
-**Translation:** 
+**[1352.18s] English:** Direct greenhouse effect.  
+**Translation:** Vocabulary: blazing: 烈日当空
 
-**[1354.26s] English:** Он жался в клубок на матрасе, пока они ходили по настилу,  
+**[1354.26s] English:** He crouched in a ball on the mattress as they walked across the floor,  
 **Translation:** 
 
-**[1357.52s] English:** передвигали кастрюли, сковородки, рассматривали наши вещи и артефакты.  
-**Translation:** 
+**[1357.52s] English:** They moved pots and pans around, examined our things and artifacts.  
+**Translation:** Vocabulary: artifacts: 文物; crouched: 蜷缩; mattress: 床垫
 
-**[1362.92s] English:** Он знал, если его найдут, то убьют.  
+**[1362.92s] English:** He knew that if they found him, they would kill him.  
 **Translation:** 
 
-**[1366.12s] English:** Но если он останется, зажарится насмерть.  
+**[1366.12s] English:** But if he stays, he'll roast to death.  
 **Translation:** 
 
-**[1368.50s] English:** Говорил, помочил матрас.  
+**[1368.50s] English:** He said he would wet the mattress.  
 **Translation:** 
 
-**[1370.38s] English:** Чувствовал, как умирает.  
+**[1370.38s] English:** I felt as it was dying.  
 **Translation:** 
 
-**[1372.04s] English:** Два часа он там просидел.  
+**[1372.04s] English:** He sat there for two hours.  
 **Translation:** 
 
-**[1373.90s] English:** Перед ним стоял выбор.  
+**[1373.90s] English:** Before him stood a choice.  
 **Translation:** 
 
-**[1375.00s] English:** Если выйду, умру?  
+**[1375.00s] English:** If I go out, will I die?  
 **Translation:** 
 
-**[1376.92s] English:** Останусь, скорее всего.  
+**[1376.92s] English:** I will stay, most likely.  
 **Translation:** 
 
-**[1378.10s] English:** Умру.  
+**[1378.10s] English:** I will die.  
 **Translation:** 
 
-**[1378.90s] English:** Он решил, что скорее всего лучше, чем точно.  
+**[1378.90s] English:** He decided that it was probably better than certain failure.  
 **Translation:** 
 
-**[1381.08s] English:** Он был в ужасе.  
+**[1381.08s] English:** He was in horror.  
 **Translation:** 
 
-**[1382.72s] English:** И вот когда все орут Машку, разбегаются,  
-**Translation:** 
+**[1382.72s] English:** And here's when everyone starts yelling at Mashka, scattering in all directions.  
+**Translation:** Vocabulary: scattering: 四散跑开; yelling: 喊叫
 
-**[1385.34s] English:** женщины хватают детей, и Гнассио находит меня.  
+**[1385.34s] English:** Women grab the children, and Gnassio finds me.  
 **Translation:** 
 
-**[1388.14s] English:** А по глазам же видно, когда у человека диссоциативная реакция.  
-**Translation:** 
+**[1388.14s] English:** By the eyes, though, you can see when someone is having a dissociative reaction.  
+**Translation:** Vocabulary: dissociative: 解离的
 
-**[1391.56s] English:** Он тяжело дышит, прячется за деревьями.  
+**[1391.56s] English:** He is breathing heavily, hiding behind the trees.  
 **Translation:** 
 
-**[1396.30s] English:** Он меня держит и говорит,  
+**[1396.30s] English:** He holds me and says,  
 **Translation:** 
 
-**[1398.30s] English:** «Гляди, у него лук».  
+**[1398.30s] English:** Look, he has a bow.  
 **Translation:** 
 
-**[1399.94s] English:** И у того.  
+**[1399.94s] English:** And that's it.  
 **Translation:** 
 
-**[1401.14s] English:** Смотрим на берег, а там целый клан голых мужиков.  
+**[1401.14s] English:** We look at the shore, and there's an entire clan of naked men.  
 **Translation:** 
 
-**[1403.84s] English:** Идут с луками метры по два, сгорблены, и указывают на нас.  
+**[1403.84s] English:** They walk by with meters bent over, pointing at us.  
 **Translation:** 
 
-**[1408.10s] English:** Говорят, «Смотри, вон там пушка, видишь?»  
+**[1408.10s] English:** They say, "Look, see that cannon over there?  
 **Translation:** 
 
-**[1410.10s] English:** Видно, как они переговариваются.  
+**[1410.10s] English:** It's clear how they are communicating with each other.  
 **Translation:** 
 
-**[1412.10s] English:** С песка взлетают бабочки.  
+**[1412.10s] English:** Beneath the sand, butterflies take flight.  
 **Translation:** 
 
-**[1414.10s] English:** И вот в такие моменты думаешь,  
+**[1414.10s] English:** And at such moments you think,  
 **Translation:** 
 
-**[1416.10s] English:** «Я сейчас приближаюсь к точке невозврата?»  
+**[1416.10s] English:** Am I approaching a point of no return?  
 **Translation:** 
 
-**[1418.10s] English:** Это необратимое событие?  
-**Translation:** 
+**[1418.10s] English:** Is this an irreversible event?  
+**Translation:** Vocabulary: approaching: 临近; irreversible: 不可逆的
 
-**[1420.10s] English:** Ситуация развивается.  
+**[1420.10s] English:** The situation is developing.  
 **Translation:** 
 
-**[1422.10s] English:** Они идут к нам навстречу.  
+**[1422.10s] English:** They are coming towards us.  
 **Translation:** 
 
-**[1424.10s] English:** Нападут ли?  
+**[1424.10s] English:** Will they attack?  
 **Translation:** 
 
-**[1426.10s] English:** Чего они хотят?  
+**[1426.10s] English:** What do they want?  
 **Translation:** 
 
-**[1428.10s] English:** Меня прямо сейчас всего мурашками покрыло.  
+**[1428.10s] English:** I am covered in goosebumps right now.  
 **Translation:** 
 
-**[1430.10s] English:** Потому что я помню, как стоял перед ним,  
-**Translation:** 
+**[1430.10s] English:** Because I remember standing before him,  
+**Translation:** Vocabulary: goosebumps: 鸡皮疙瘩
 
-**[1432.10s] English:** и он сказал мне,  
+**[1432.10s] English:** He said to me,  
 **Translation:** 
 
-**[1434.10s] English:** «Я не хочу, чтобы ты меня убил.  
+**[1434.10s] English:** I do not want you to kill me.  
 **Translation:** 
 
-**[1436.10s] English:** Я не хочу, чтобы ты меня убил».  
+**[1436.10s] English:** I do not want you to kill me.  
 **Translation:** 
 
-**[1437.90s] English:** Я стоял там и думал,  
+**[1437.90s] English:** I stood there and thought,  
 **Translation:** 
 
-**[1439.90s] English:** «Не может быть».  
+**[1439.90s] English:** Impossible.  
 **Translation:** 
 
-**[1440.00s] English:** что это все реально.  
+**[1440.00s] English:** What is all this really about.  
 **Translation:** 
 
-**[1442.12s] English:** У меня в памяти прям выжжено, как они идут по пляжу с луками на нас.  
+**[1442.12s] English:** In my memory, it is burned in how they walk on the beach with bows aimed at us.  
 **Translation:** 
 
-**[1447.34s] English:** И, конечно, Стефан наверху щелкает фотки,  
+**[1447.34s] English:** And of course, Stefan is up top taking photos,  
 **Translation:** 
 
-**[1450.28s] English:** Максин снизу снимает видео,  
+**[1450.28s] English:** Maxine from below records a video,  
 **Translation:** 
 
-**[1452.76s] English:** и слышно, как в поселении, в котором мы были,  
-**Translation:** 
+**[1452.76s] English:** And we could hear how in the settlement where we were,  
+**Translation:** Vocabulary: maxine: 麦克斯琳
 
-**[1456.42s] English:** заряжают ружья.  
+**[1456.42s] English:** They load the guns.  
 **Translation:** 
 
-**[1459.78s] English:** Они готовятся.  
+**[1459.78s] English:** They are preparing.  
 **Translation:** 
 
-**[1462.36s] English:** Там был один парень, антрополог, по имени Рамо.  
+**[1462.36s] English:** There was a man there, an anthropologist named Ramo.  
 **Translation:** 
 
-**[1465.44s] English:** Единственный, кто общался с ними мирно.  
-**Translation:** 
+**[1465.44s] English:** The only one who communicated with them peacefully.  
+**Translation:** Vocabulary: anthropologist: 人类学家; peacefully: 和平地
 
-**[1470.00s] English:** Это было еще в 2013-м, он стоял на берегу, разговаривал с ними.  
+**[1470.00s] English:** This was in 2013, he stood on the shore, talking to them.  
 **Translation:** 
 
-**[1474.18s] English:** Он хорошо знал местный диалект, который пересекается с их языком, чтобы общаться.  
-**Translation:** 
+**[1474.18s] English:** He knew the local dialect well, which he used to communicate with them, intersecting with their language.  
+**Translation:** Vocabulary: dialect: 地方方言; intersecting: 交错使用
 
-**[1478.96s] English:** И вот они идут по берегу, бабочки взлетают, и мы все ждем.  
+**[1478.96s] English:** And there they go along the shore, butterflies take flight, and we all wait.  
 **Translation:** 
 
-**[1482.62s] English:** Опять же, дробовик это...  
-**Translation:** 
+**[1482.62s] English:** Again, a shotgun is...  
+**Translation:** Vocabulary: shotgun: 猎枪
 
-**[1484.52s] English:** Сколько? 30, 40 метров?  
+**[1484.52s] English:** How long? 30, 40 meters?  
 **Translation:** 
 
-**[1487.38s] English:** А на сколько он будет точный?  
+**[1487.38s] English:** How accurate will it be?  
 **Translation:** 
 
-**[1488.86s] English:** А двухметровая стрела, которая ничего не весит, это...  
+**[1488.86s] English:** A two-meter arrow that weighs nothing, this...  
 **Translation:** 
 
-**[1493.00s] English:** метров 300? Легко?  
+**[1493.00s] English:** Meters 300? Easy?  
 **Translation:** 
 
-**[1495.32s] English:** Они могут выстрелить с другого берега.  
+**[1495.32s] English:** They may shoot from the other shore.  
 **Translation:** 
 
-**[1497.78s] English:** Игнасио тянет меня вниз и говорит,  
-**Translation:** 
+**[1497.78s] English:** Ignacio pulls me down and says,  
+**Translation:** Vocabulary: ignacio: 伊格纳西奥
 
-**[1499.80s] English:** «Вниз!»  
+**[1499.80s] English:** Down!  
 **Translation:** 
 
-**[1500.00s] English:** «Вниз!»  
+**[1500.00s] English:** Down!  
 **Translation:** 
 
-**[1501.24s] English:** «За это дерево!»  
+**[1501.24s] English:** For this tree!  
 **Translation:** 
 
-**[1502.42s] English:** «Смотри оттуда, осторожно, у этого стрела!»  
+**[1502.42s] English:** Look from there, carefully, for this is an arrow!  
 **Translation:** 
 
-**[1504.96s] English:** Он следит за всеми, было понятно, он думал, вот так это происходит.  
+**[1504.96s] English:** He was keeping an eye on everyone; it was clear he thought this is how it happens.  
 **Translation:** 
 
-**[1508.88s] English:** Ты думал, что это может быть твой последний день на Земле?  
+**[1508.88s] English:** Did you think that this might have been your last day on Earth?  
 **Translation:** 
 
-**[1513.82s] English:** Боялся?  
+**[1513.82s] English:** Did you fear it?  
 **Translation:** 
 
-**[1515.02s] English:** Боялся, конечно, боялся.  
+**[1515.02s] English:** He, of course, was afraid.  
 **Translation:** 
 
-**[1517.16s] English:** Я с двумя лучшими друзьями и кучей людей, с которыми тесно работаю.  
+**[1517.16s] English:** I am with two best friends and a bunch of people I work closely with.  
 **Translation:** 
 
-**[1523.10s] English:** Мы у черта на куличиках, помощи не будет, нас 26, а их человек 50.  
+**[1523.10s] English:** We are in a tough situation; there will be no help. We have 26 people, while they have around 50.  
 **Translation:** 
 
-**[1527.46s] English:** Тех, что мы видим, и мы знаем, что...  
+**[1527.46s] English:** The ones we see, and we know that...  
 **Translation:** 
 
-**[1529.80s] English:** что нас окружают.  
-**Translation:** 
+**[1529.80s] English:** What surrounds us.  
+**Translation:** Vocabulary: surrounds: 四周的事物
 
-**[1533.00s] English:** На той стороне реки люди, а наши стволы направлены в джунгли,  
+**[1533.00s] English:** On the other side of the river, people, and our guns are aimed at the jungles,  
 **Translation:** 
 
-**[1536.68s] English:** потому что мы знали, что нас окружили.  
-**Translation:** 
+**[1536.68s] English:** Because we knew that we were surrounded.  
+**Translation:** Vocabulary: jungles: 密林
 
-**[1540.72s] English:** И, опять же, такие байки обычно рассказывают чей-то дяде, брат или кузена.  
+**[1540.72s] English:** And, again, such stories are usually told by an uncle, a brother, or a cousin.  
 **Translation:** 
 
-**[1545.72s] English:** Тут это происходит прямо с тобой.  
+**[1545.72s] English:** Here it happens right with you.  
 **Translation:** 
 
-**[1548.70s] English:** И не как-то там, под покровом ночи, а среди бела дня.  
+**[1548.70s] English:** And not somewhere under cover of night, but in broad daylight.  
 **Translation:** 
 
-**[1553.86s] English:** Они выходят на берег.  
+**[1553.86s] English:** They exit onto the shore.  
 **Translation:** 
 
-**[1555.74s] English:** А мы как люди, которые впервые увидели динозавров в парке юрского периода.  
+**[1555.74s] English:** We are like people who first saw dinosaurs in Jurassic Park.  
 **Translation:** 
 
-**[1559.80s] English:** А мы как люди, которые впервые увидели динозавров в парке юрского периода.  
-**Translation:** 
+**[1559.80s] English:** We are like people who first saw dinosaurs in Jurassic Park.  
+**Translation:** Vocabulary: jurassic: 侏罗纪的
 
-**[1560.64s] English:** Не может быть.  
+**[1560.64s] English:** It can't be.  
 **Translation:** 
 
-**[1562.02s] English:** Ты на лезвии ножа.  
+**[1562.02s] English:** You are on thin ice.  
 **Translation:** 
 
-**[1565.60s] English:** Забавно, что ты говоришь про фотографии.  
+**[1565.60s] English:** It's funny that you're talking about photos.  
 **Translation:** 
 
-**[1568.02s] English:** На эту ситуацию можно взглянуть по-разному.  
+**[1568.02s] English:** On this situation, one can look at it in different ways.  
 **Translation:** 
 
-**[1571.24s] English:** Она завораживает, но в то же время смертельно опасна.  
+**[1571.24s] English:** She fascinates, but at the same time is dangerously lethal.  
 **Translation:** 
 
-**[1574.72s] English:** Ты буквально ходишь по лезвию ножа.  
-**Translation:** 
+**[1574.72s] English:** You are literally walking on thin ice.  
+**Translation:** Vocabulary: dangerously: 极其危险; fascinates: 极具魅力; lethal: 致命的
 
-**[1576.72s] English:** И тут можно воспринимать это так, что если я умру, то умру, зато сделаю хорошие кадры.  
+**[1576.72s] English:** Here, one could interpret this as meaning that if I die, at least I will have made some good footage.  
 **Translation:** 
 
-**[1582.02s] English:** Но тут еще какой момент, это же тоже наша миссия, понимаешь?  
-**Translation:** 
+**[1582.02s] English:** But here's another point: this is also part of our mission, do you understand?  
+**Translation:** Vocabulary: interpret: 解释
 
-**[1585.38s] English:** Мы директора джангл-киперс, мы работаем с этим поселением, чтобы они сохранили свой образ жизни, а они...  
+**[1585.38s] English:** We are jungle keepers, we work with this settlement to help them preserve their way of life, and they...  
 **Translation:** 
 
-**[1592.46s] English:** Это здорово, но мы, как коренное поселение, имеем дело с племенами, что грабят наши вещи, пытаются украть женщин, убивают охотников, и вот они тут.  
-**Translation:** 
+**[1592.46s] English:** This is great, but as a native settlement, we are dealing with tribes that raid our things, try to steal women, kill hunters, and here they are.  
+**Translation:** Vocabulary: keepers: 守护者; tribes: 部落
 
-**[1600.68s] English:** Мы хотим, чтобы ты их видел.  
+**[1600.68s] English:** We want you to see them.  
 **Translation:** 
 
-**[1602.52s] English:** Документировать такое — часть работы.  
-**Translation:** 
+**[1602.52s] English:** Documenting such things is part of the work.  
+**Translation:** Vocabulary: documenting: 记录
 
-**[1604.48s] English:** Мы должны показать, что произошло в тот день.  
+**[1604.48s] English:** We should show what happened that day.  
 **Translation:** 
 
-**[1607.42s] English:** Так что ребята снимают.  
+**[1607.42s] English:** So, what are the guys filming?  
 **Translation:** 
 
-**[1610.40s] English:** И да, совершенно серьезно, мы с женой Максима всегда шутили.  
+**[1610.40s] English:** And, seriously, my wife and I used to always joke about it.  
 **Translation:** 
 
-**[1614.88s] English:** Я всегда шутил.  
+**[1614.88s] English:** I always joked around.  
 **Translation:** 
 
-**[1615.38s] English:** Если появится племя, ты встанешь перед ним и примешь стрелу.  
+**[1615.38s] English:** If a tribe appears, you will stand before it and accept the arrow.  
 **Translation:** 
 
-**[1618.70s] English:** У него дети.  
+**[1618.70s] English:** He has children.  
 **Translation:** 
 
-**[1621.30s] English:** Так что в тот день мы думали стратегически.  
+**[1621.30s] English:** So on that day, we thought strategically.  
 **Translation:** 
 
-**[1625.82s] English:** Ты вниз, тебе нельзя умирать.  
-**Translation:** 
+**[1625.82s] English:** You down there, you can't die.  
+**Translation:** Vocabulary: strategically: 有策略地
 
-**[1629.24s] English:** В такие моменты начинаешь думать, где я могу укрыться от стрел.  
+**[1629.24s] English:** At such moments, you begin to think where you can hide from arrows.  
 **Translation:** 
 
-**[1635.34s] English:** Смогу ли добежать до реки, если они подойдут?  
+**[1635.34s] English:** Can I make it to the river if they get close?  
 **Translation:** 
 
-**[1639.10s] English:** Начинаешь планировать.  
+**[1639.10s] English:** You begin planning.  
 **Translation:** 
 
-**[1640.64s] English:** Если я прыгну в реку, так, у меня рюкзак, банка тунца, фонарик.  
-**Translation:** 
+**[1640.64s] English:** If I jump into the river, I have a backpack, a can of tuna, and a flashlight.  
+**Translation:** Vocabulary: flashlight: 手电筒
 
-**[1644.16s] English:** Если я прыгну в реку...  
+**[1644.16s] English:** If I jump into the river...  
 **Translation:** 
 
-**[1644.88s] English:** Если я прыгну в речку, поплыву вниз и выживу, я все равно в днях пути вверх по реке.  
-**Translation:** 
+**[1644.88s] English:** If I jump into the river and swim downstream and survive, I will still be days' travel upstream from here.  
+**Translation:** Vocabulary: downstream: 顺流而下; upstream: 逆流而上
 
-**[1649.96s] English:** Начинаешь прокручивать, но...  
+**[1649.96s] English:** Begin scrolling, but...  
 **Translation:** 
 
-**[1652.20s] English:** И, конечно, люди Машку Пиру думают ровно так же.  
-**Translation:** 
+**[1652.20s] English:** And, of course, people think about Mashku Piru exactly the same way.  
+**Translation:** Vocabulary: scrolling: 滚动
 
-**[1656.88s] English:** Вероятно.  
+**[1656.88s] English:** Probably.  
 **Translation:** 
 
-**[1657.80s] English:** Интересный момент в том, что они инициируют контакт, так?  
-**Translation:** 
+**[1657.80s] English:** An interesting moment is that they initiate contact, isn't it?  
+**Translation:** Vocabulary: initiate: 开始
 
-**[1661.20s] English:** Это они выходят из джунглей и идут к нам.  
+**[1661.20s] English:** This is when they come out of the jungle and approach us.  
 **Translation:** 
 
-**[1664.80s] English:** И в основе этого контакта лежит попытка дать миру шанс?  
+**[1664.80s] English:** Is this contact based on an attempt to give the world a chance?  
 **Translation:** 
 
-**[1669.76s] English:** Они пытаются наладить мирный контакт?  
+**[1669.76s] English:** They are trying to establish a peaceful contact?  
 **Translation:** 
 
-**[1674.26s] English:** Верно?  
+**[1674.26s] English:** Verdict?  
 **Translation:** 
 
-**[1674.88s] English:** Или там был элемент насилия?  
+**[1674.88s] English:** Or was there an element of violence there?  
 **Translation:** 
 
-**[1677.02s] English:** Что ты почувствовал в той осторожности?  
+**[1677.02s] English:** What did you feel in that caution?  
 **Translation:** 
 
-**[1679.88s] English:** Верно.  
+**[1679.88s] English:** Correct.  
 **Translation:** 
 
-**[1680.00s] English:** С которой они выходили на берег.  
-**Translation:** 
+**[1680.00s] English:** With which they went ashore.  
+**Translation:** Vocabulary: ashore: 离岸
 
-**[1682.26s] English:** Страх.  
+**[1682.26s] English:** Fear.  
 **Translation:** 
 
-**[1683.42s] English:** Страх.  
+**[1683.42s] English:** Fear.  
 **Translation:** 
 
-**[1683.88s] English:** Когда они вышли, в них читался страх.  
+**[1683.88s] English:** When they emerged, fear was evident in them.  
 **Translation:** 
 
-**[1686.50s] English:** Потому как они были сгорблены, как держали луки наготове, они переживали.  
-**Translation:** 
+**[1686.50s] English:** Because they were hunched over and kept their bows ready, they were on edge.  
+**Translation:** Vocabulary: hunched: 驼背
 
-**[1693.18s] English:** Они вышли, а Рамо стоял ближе всех к краю реки, мы были как две команды противников.  
+**[1693.18s] English:** They went out, and Ramo stood closest to the river's edge. We were like two opposing teams.  
 **Translation:** 
 
-**[1700.66s] English:** Два племени смотрят друг на друга.  
-**Translation:** 
+**[1700.66s] English:** Two tribes stare at each other.  
+**Translation:** Vocabulary: tribes: 部落
 
-**[1702.92s] English:** А между нами тысячи лет цивилизации.  
+**[1702.92s] English:** Between us lie thousands of years of civilization.  
 **Translation:** 
 
-**[1705.52s] English:** И Рамо говорит, опустите луки.  
+**[1705.52s] English:** And Ramo says, lower the bows.  
 **Translation:** 
 
-**[1708.14s] English:** Опустите луки, мы поговорим.  
+**[1708.14s] English:** Lower your bows, we will talk.  
 **Translation:** 
 
-**[1710.86s] English:** Говорит, намоли, намоли.  
+**[1710.86s] English:** He says, "Namo, namo.  
 **Translation:** 
 
-**[1712.70s] English:** Постоянно, братья, братья, опустите.  
+**[1712.70s] English:** Constantly, brothers, brothers, lower.  
 **Translation:** 
 
-**[1714.96s] English:** То есть намоли означает брат, на языке, который они могут понять.  
+**[1714.96s] English:** That is, "namo" means brother in a language they can understand.  
 **Translation:** 
 
-**[1719.62s] English:** Намоли означает брат, на языке, который они понимают.  
+**[1719.62s] English:** Namo means brother in the language they understand.  
 **Translation:** 
 
-**[1723.14s] English:** И похоже, что они сами называют себя намоли.  
-**Translation:** 
+**[1723.14s] English:** It seems that they call themselves nomads.  
+**Translation:** Vocabulary: nomads: 游牧民族
 
-**[1727.96s] English:** Братья.  
+**[1727.96s] English:** Brothers.  
 **Translation:** 
 
-**[1728.86s] English:** То есть потенциально они называют себя племенномоли.  
-**Translation:** 
+**[1728.86s] English:** That is, they potentially call themselves nomadic tribes.  
+**Translation:** Vocabulary: nomadic: 游牧的
 
-**[1733.84s] English:** Именно.  
+**[1733.84s] English:** Exactly.  
 **Translation:** 
 
-**[1734.58s] English:** И вообще антропологи, с которыми мы говорили после этого события,  
-**Translation:** 
+**[1734.58s] English:** In general, the anthropologists we spoke to after this event,  
+**Translation:** Vocabulary: anthropologists: 人类学家
 
-**[1737.92s] English:** объясняют.  
+**[1737.92s] English:** Explains.  
 **Translation:** 
 
-**[1738.14s] English:** Они объясняли нам, что Машко-Пиро...  
+**[1738.14s] English:** They explained to us that Mashko-Piro...  
 **Translation:** 
 
-**[1741.36s] English:** Пиро — это группа, которой они принадлежат.  
+**[1741.36s] English:** Piro is a group to which they belong.  
 **Translation:** 
 
-**[1744.56s] English:** Это разные кочевые племена, а Машко, по сути, означает «дикая пира».  
+**[1744.56s] English:** This are different nomadic tribes, and Mashko, essentially, means "wild party.  
 **Translation:** 
 
-**[1749.02s] English:** Но, насколько нам известно, они называют себя намоли.  
+**[1749.02s] English:** But, as far as we know, they call themselves Namoli.  
 **Translation:** 
 
-**[1752.30s] English:** То есть в итоге имя племени может поменяться с Машко-Пиро на намоли.  
+**[1752.30s] English:** Thus, in the end, the name of the tribe may change from Mashko-Piro to Namoli.  
 **Translation:** 
 
-**[1757.26s] English:** Намоли, да.  
+**[1757.26s] English:** Namoli, yes.  
 **Translation:** 
 
-**[1758.40s] English:** Похоже, это самое актуальное.  
+**[1758.40s] English:** It seems this is the most relevant.  
 **Translation:** 
 
-**[1759.96s] English:** По крайней мере, их самоназвание — братья намоли.  
+**[1759.96s] English:** At least, their self-name is Brothern Molli.  
 **Translation:** 
 
-**[1764.20s] English:** В общем, по берегу идут накачанные воины.  
-**Translation:** 
+**[1764.20s] English:** In general, along the shore walk well-equipped soldiers.  
+**Translation:** Vocabulary: brothern: 兄弟; molli: 莫莉
 
-**[1767.14s] English:** Да.  
+**[1767.14s] English:** Yes.  
 **Translation:** 
 
-**[1768.14s] English:** Огромные.  
+**[1768.14s] English:** Huge.  
 **Translation:** 
 
-**[1768.94s] English:** С двухметровыми стрелами.  
+**[1768.94s] English:** With two-meter arrows.  
 **Translation:** 
 
-**[1771.10s] English:** И мы такие стоим.  
+**[1771.10s] English:** We are such tall trees.  
 **Translation:** 
 
-**[1773.18s] English:** Опять же, первое, о чем ты думаешь, — про трубку мира и старых историй.  
+**[1773.18s] English:** Again, the first thing you think of is the pipe and old stories.  
 **Translation:** 
 
-**[1779.62s] English:** Давайте сделаем им мирное подношение.  
+**[1779.62s] English:** Let's make a peaceful offering to them.  
 **Translation:** 
 
-**[1782.82s] English:** Мы взяли каноэ без мотора.  
+**[1782.82s] English:** We took a motorless canoe.  
 **Translation:** 
 
-**[1785.26s] English:** И до краев набили плантанами метров пять зеленых бананов.  
-**Translation:** 
+**[1785.26s] English:** They had filled five meters to the brim with green banana plants.  
+**Translation:** Vocabulary: canoe: 独木舟; motorless: 无动力的
 
-**[1793.38s] English:** И потом представь, какие яйца у этого парня-антрополога.  
+**[1793.38s] English:** Then imagine what eggs this guy anthropologist has.  
 **Translation:** 
 
-**[1796.42s] English:** Он заходит в реку, берет каноэ.  
-**Translation:** 
+**[1796.42s] English:** He walks into the river, grabs a canoe.  
+**Translation:** Vocabulary: anthropologist: 人类学家
 
-**[1798.14s] English:** И тогда был сухой сезон.  
+**[1798.14s] English:** Then there was a dry season.  
 **Translation:** 
 
-**[1800.72s] English:** Река в канале всего метра полтора глубины, и вот он выходит.  
-**Translation:** 
+**[1800.72s] English:** River in the channel is only a little over a meter deep, and here he emerges.  
+**Translation:** Vocabulary: emerges: 出现
 
-**[1804.60s] English:** Один человек перед кучей воинов.  
+**[1804.60s] English:** One person before a pile of warriors.  
 **Translation:** 
 
-**[1807.50s] English:** Берет лодку и толкает к ним.  
+**[1807.50s] English:** He grabs the boat and pushes it toward them.  
 **Translation:** 
 
-**[1812.84s] English:** И они бегут, начинают хватать бананы, и не в формате «Ладно, мы их разгрузим и используем позже».  
+**[1812.84s] English:** They run and start grabbing bananas, not in a format of "Let's load them up and use them later.  
 **Translation:** 
 
-**[1819.24s] English:** Они такие «Это мои бананы, ты хватай свои бананы».  
+**[1819.24s] English:** They are such "This is my banana, you take your own banana.  
 **Translation:** 
 
-**[1822.36s] English:** Они дерутся, орут, хватают что есть, а потом отталкивают лодку обратно, и он с ними немного поговорил.  
+**[1822.36s] English:** They fight, scream, grab whatever they can, and then push the boat back. He talked to them for a little while.  
 **Translation:** 
 
-**[1827.98s] English:** Опять же, перевод не идеальный, но он спрашивал «Откуда вы пришли? Чего хотите? Кто ваш лидер?»  
+**[1827.98s] English:** Again, the translation is not ideal, but it asked "Where did you come from? What do you want? Who is your leader?  
 **Translation:** 
 
-**[1836.06s] English:** Он пытается это выяснить, а они что-то говорят, но все отвечают одновременно, как стая птиц, то есть говорит не один человек.  
+**[1836.06s] English:** He is trying to figure it out, but they keep talking at once, like a flock of birds, meaning more than one person is speaking at the same time.  
 **Translation:** 
 
-**[1844.54s] English:** И женщин среди них не было, их вообще не видно было.  
+**[1844.54s] English:** There were no women among them; they were simply not visible.  
 **Translation:** 
 
-**[1849.46s] English:** В какой-то момент, пока мы готовили второе каное с бананами,  
+**[1849.46s] English:** At some point, while we were preparing the second canoe with bananas,  
 **Translation:** 
 
-**[1855.66s] English:** случился момент дикой паники.  
+**[1855.66s] English:** A moment of wild panic occurred.  
 **Translation:** 
 
-**[1857.98s] English:** Сзади раздался шум, и мы слышим, как позади нас поднимается куча дробовиков.  
+**[1857.98s] English:** Behind us, there was a noise, and we hear a bunch of shotguns being raised up behind us.  
 **Translation:** 
 
-**[1866.10s] English:** И Максим ложится.  
-**Translation:** 
+**[1866.10s] English:** And Maxim lies down.  
+**Translation:** Vocabulary: maxim: 自动步枪; shotguns: 猎枪
 
-**[1868.12s] English:** Я бегу от реки, потому что хочу видеть, если они нападут.  
+**[1868.12s] English:** I am running away from the river because I want to see if they will attack.  
 **Translation:** 
 
-**[1872.36s] English:** Мы с одним парнем прячемся за деревом, у него дробовик, он смотрит в лес и всматривается туда.  
-**Translation:** 
+**[1872.36s] English:** We are hiding behind a tree with one guy holding a shotgun. He is looking into the forest and scanning it carefully.  
+**Translation:** Vocabulary: scanning: 仔细查看; shotgun: 猎枪
 
-**[1880.18s] English:** А происходило вот что.  
+**[1880.18s] English:** This is what happened.  
 **Translation:** 
 
-**[1881.90s] English:** Женщины племени пришли бесшумно и просто выдергивали юки из земли,  
-**Translation:** 
+**[1881.90s] English:** Women from the tribe crept in silently and simply pulled up the yucca from the ground,  
+**Translation:** Vocabulary: crept: 悄悄进入; yucca: 芦荟根茎
 
-**[1885.78s] English:** забирали банановые растения.  
+**[1885.78s] English:** They took banana plants.  
 **Translation:** 
 
-**[1887.98s] English:** Короче, разоряли ферму.  
-**Translation:** 
+**[1887.98s] English:** Briefly, they plundered the farm.  
+**Translation:** Vocabulary: plundered: 抢劫
 
-**[1890.62s] English:** Грабили ферму у нас за спиной, пока мужики там разговаривали.  
+**[1890.62s] English:** They robbed the farm behind us while the men were talking there.  
 **Translation:** 
 
-**[1895.24s] English:** Опять же, они искали мирного контакта или решили,  
+**[1895.24s] English:** Again, they sought a peaceful contact or decided,  
 **Translation:** 
 
-**[1898.80s] English:** нам нужна еда, вы создаете отвлекающий маневр, а мы ее воруем.  
+**[1898.80s] English:** We need food, you create a diversion, and we'll steal it.  
 **Translation:** 
 
-**[1902.76s] English:** Вы реально были окружены?  
-**Translation:** 
+**[1902.76s] English:** Did you really get surrounded?  
+**Translation:** Vocabulary: diversion: 分散注意力
 
-**[1905.06s] English:** Абсолютно окружены.  
+**[1905.06s] English:** Absolutely surrounded.  
 **Translation:** 
 
-**[1906.70s] English:** То есть они, скорее всего, могли убить вас всех?  
+**[1906.70s] English:** So, they could have killed all of you, I suppose?  
 **Translation:** 
 
-**[1911.20s] English:** Легко, нас было меньше как минимум в пять раз.  
+**[1911.20s] English:** It was easy, as we were at least five times fewer.  
 **Translation:** 
 
-**[1914.90s] English:** Ага.  
+**[1914.90s] English:** Agreed.  
 **Translation:** 
 
-**[1915.22s] English:** И, наверное, будет логично предположить,  
+**[1915.22s] English:** And, naturally, it would be logical to assume,  
 **Translation:** 
 
-**[1917.98s] English:** что они этого не сделали отчасти потому,  
+**[1917.98s] English:** That they did not do this, at least partly because,  
 **Translation:** 
 
-**[1920.00s] English:** Ну, что хотели мира, а отчасти потому, что не знали, есть ли у вас подкрепление.  
+**[1920.00s] English:** Nu, that wanted peace, and partly because they didn't know if you had reinforcement.  
 **Translation:** 
 
-**[1924.62s] English:** Да, не знали. А еще у них были вопросы.  
-**Translation:** 
+**[1924.62s] English:** Yes, we didn't know. And they had questions too.  
+**Translation:** Vocabulary: reinforcement: 增援
 
-**[1928.70s] English:** Которые из этих вопросов были просто поразительны.  
+**[1928.70s] English:** Which of these questions were simply amazing.  
 **Translation:** 
 
-**[1934.08s] English:** Как нам понять, кто хорошие, а кто плохие?  
+**[1934.08s] English:** How do we understand who is good and who is bad?  
 **Translation:** 
 
-**[1937.58s] English:** Для них все вы чужаки, одинаковые.  
+**[1937.58s] English:** For them, you are all strangers, alike.  
 **Translation:** 
 
-**[1940.00s] English:** Кто те, что рубят деревья?  
+**[1940.00s] English:** Who are those who cut down trees?  
 **Translation:** 
 
-**[1942.18s] English:** Это те, кого они считают плохими?  
+**[1942.18s] English:** Is this the ones they consider bad?  
 **Translation:** 
 
-**[1945.54s] English:** Большие деревья, похоже, для них имеют огромное значение.  
+**[1945.54s] English:** Large trees, it seems, have enormous value for them.  
 **Translation:** 
 
-**[1948.74s] English:** Для нас они важны, но иначе.  
+**[1948.74s] English:** For us, they are important, but otherwise.  
 **Translation:** 
 
-**[1951.66s] English:** А для них рубка большого дерева оскорбительна почти на религиозном уровне.  
+**[1951.66s] English:** For them, felling a large tree is offensive almost on a religious level.  
 **Translation:** 
 
-**[1957.28s] English:** Ты как будто убиваешь их богов.  
+**[1957.28s] English:** You seem to be killing their gods.  
 **Translation:** 
 
-**[1960.72s] English:** Для них в деревьях есть духовность.  
-**Translation:** 
+**[1960.72s] English:** For them, there is spirituality in trees.  
+**Translation:** Vocabulary: spirituality: 精神内涵
 
-**[1963.32s] English:** Похоже на то.  
+**[1963.32s] English:** It seems that way.  
 **Translation:** 
 
-**[1964.02s] English:** И тот, кто их рубит, источник разрушения на духовном, экзистенциальном уровне.  
-**Translation:** 
+**[1964.02s] English:** And those who cut them down are sources of destruction on a spiritual and existential level.  
+**Translation:** Vocabulary: existential: 存在的
 
-**[1970.86s] English:** Да. Зачем вы разрушаете наш дом?  
+**[1970.86s] English:** Yes. Why are you destroying our home?  
 **Translation:** 
 
-**[1973.54s] English:** Думаю, они правы.  
+**[1973.54s] English:** I think they are right.  
 **Translation:** 
 
-**[1975.20s] English:** В каком-то смысле, неконтактные племена,  
+**[1975.20s] English:** In some sense, non-contact tribes,  
 **Translation:** 
 
-**[1978.50s] English:** а лицезрители...  
-**Translation:** 
+**[1978.50s] English:** The spectators...  
+**Translation:** Vocabulary: spectators: 观众; tribes: 部落
 
-**[1978.74s] English:** Затворяют глубокие джунгли.  
+**[1978.74s] English:** Deep jungles are closing in.  
 **Translation:** 
 
-**[1981.02s] English:** И если угрожают им, значит, угрожают самим джунглем.  
-**Translation:** 
+**[1981.02s] English:** If they are threatened, it means the jungle itself is being threatened.  
+**Translation:** Vocabulary: jungles: 密林
 
-**[1986.62s] English:** Да. Они человеческие голосы джунглей.  
+**[1986.62s] English:** Yes. They are human voices from the jungle.  
 **Translation:** 
 
-**[1990.98s] English:** Они задавали вопросы, требовали, хлопали в ладоши, махали, говорили,  
-**Translation:** 
+**[1990.98s] English:** They asked questions, demanded answers, clapped their hands, waved, and spoke.  
+**Translation:** Vocabulary: clapped: 拍手
 
-**[1995.92s] English:** «Шлите еще бананов, еще!»  
+**[1995.92s] English:** Send more bananas, please!  
 **Translation:** 
 
-**[1997.90s] English:** Мы загрузили еще одну лодку, вытолкнули, и в этот раз дали им веревку.  
+**[1997.90s] English:** We loaded another boat, pushed it off, and this time gave them a rope.  
 **Translation:** 
 
-**[2001.74s] English:** У всех у них вокруг талии была обмотанная веревка и подвязаны пенисы.  
+**[2001.74s] English:** Around their waists, they had ropes tied around them and their penises were bound.  
 **Translation:** 
 
-**[2006.12s] English:** Они обожают веревки.  
-**Translation:** 
+**[2006.12s] English:** They love ropes.  
+**Translation:** Vocabulary: waists: 腰部
 
-**[2007.56s] English:** У некоторых были самокатчики.  
+**[2007.56s] English:** Some had self-balancing scooters.  
 **Translation:** 
 
-**[2008.74s] English:** Самодельные веревки, коричневые или красноватые.  
-**Translation:** 
+**[2008.74s] English:** Self-made ropes, brown or reddish-brown.  
+**Translation:** Vocabulary: scooters: 电动平衡车
 
-**[2011.86s] English:** А у других были веревки, которые они явно награбили из лагерей лесорубов или поселений.  
+**[2011.86s] English:** Others had ropes which they clearly plundered from lumber camps or settlements.  
 **Translation:** 
 
-**[2017.26s] English:** Ведь это был современный нейлоновый паракорд, намотанный вокруг талии, как толстый пояс.  
-**Translation:** 
+**[2017.26s] English:** Because this was a modern nylon paracord wrapped around the waist like a thick belt.  
+**Translation:** Vocabulary: lumber: 木材; nylon: 尼龙; paracord: 多用途绳; plundered: 掠夺得来
 
-**[2023.14s] English:** Они забрали вторую лодку, там была веревка и плантаны.  
+**[2023.14s] English:** They took the second boat, which had a rope and plantains.  
 **Translation:** 
 
-**[2027.58s] English:** Так кто-то из этих парней мог быть убийцей лесорубов?  
-**Translation:** 
+**[2027.58s] English:** So, could one of these guys have been the lumberjack killer?  
+**Translation:** Vocabulary: lumberjack: 伐木工; plantains: 芭蕉
 
-**[2031.64s] English:** Да.  
+**[2031.64s] English:** Yes.  
 **Translation:** 
 
-**[2032.34s] English:** Парой месяцев раньше.  
+**[2032.34s] English:** A couple of months earlier.  
 **Translation:** 
 
-**[2033.90s] English:** Конечно.  
+**[2033.90s] English:** Of course.  
 **Translation:** 
 
-**[2035.28s] English:** Но пока Ромо с ними общался, он повернулся к нам и сказал,  
+**[2035.28s] English:** But while Romo was talking to them, he turned to us and said,  
 **Translation:** 
 
-**[2038.74s] English:** Эта группа...  
+**[2038.74s] English:** This group...  
 **Translation:** 
 
-**[2040.00s] English:** Другие группы называют меня дедушкой.  
+**[2040.00s] English:** Other groups call me grandfather.  
 **Translation:** 
 
-**[2042.82s] English:** А из этой группы я никого не знаю.  
+**[2042.82s] English:** From this group, I don't know anyone.  
 **Translation:** 
 
-**[2044.70s] English:** Это их первый контакт.  
+**[2044.70s] English:** This is their first contact.  
 **Translation:** 
 
-**[2046.36s] English:** Эта группа разговаривает с нами впервые.  
+**[2046.36s] English:** This group is talking to us for the first time.  
 **Translation:** 
 
-**[2049.46s] English:** Там были люди лет от 12 до лет эдак...  
+**[2049.46s] English:** There were people aged from 12 to around...  
 **Translation:** 
 
-**[2053.58s] English:** 40 на вид.  
+**[2053.58s] English:** 40 on view.  
 **Translation:** 
 
-**[2056.10s] English:** Таких, потрепанных 40.  
+**[2056.10s] English:** Such, well-worn 40s.  
 **Translation:** 
 
-**[2058.84s] English:** Стариков и женщин там не было.  
+**[2058.84s] English:** There were no old men or women there.  
 **Translation:** 
 
-**[2062.66s] English:** Конкретный клан неконтактного...  
+**[2062.66s] English:** Concrete clan non-contactual,...  
 **Translation:** 
 
-**[2064.90s] English:** Конкретный клан.  
+**[2064.90s] English:** Concrete clan.  
 **Translation:** 
 
-**[2066.54s] English:** ...племени.  
+**[2066.54s] English:** ...of the tribe.  
 **Translation:** 
 
-**[2067.04s] English:** А может вспомнишь, были ли интересные аспекты в том, как они пытались общаться?  
+**[2067.04s] English:** May be you can recall if there were any interesting aspects in how they tried to communicate?  
 **Translation:** 
 
-**[2073.28s] English:** Ты сказал, они хлопали.  
-**Translation:** 
+**[2073.28s] English:** You said they clapped.  
+**Translation:** Vocabulary: clapped: 拍手
 
-**[2074.78s] English:** Думаю, с антропологической точки зрения, да и с человеческой, это очень интересно.  
+**[2074.78s] English:** I think, from an anthropological and human perspective, this is very interesting.  
 **Translation:** 
 
-**[2080.50s] English:** Как общаться с людьми из неконтактного племени?  
-**Translation:** 
+**[2080.50s] English:** How do you communicate with people from a non-contact tribe?  
+**Translation:** Vocabulary: anthropological: 人类学的
 
-**[2083.36s] English:** Хлопками, криками.  
+**[2083.36s] English:** Hisses, cries.  
 **Translation:** 
 
-**[2085.28s] English:** Интересно, что у них нет иерархии, не было лидера, чтобы их представлял.  
-**Translation:** 
+**[2085.28s] English:** Interesting that they don't have a hierarchy; there was no leader to represent them.  
+**Translation:** Vocabulary: hierarchy: 等级制度; hisses: 嘘声
 
-**[2089.18s] English:** Или мы просто не знаем?  
+**[2089.18s] English:** Or do we simply not know?  
 **Translation:** 
 
-**[2091.14s] English:** Прежде чем я пришел к себе, мы пообщались с антропологами и моралистами.  
-**Translation:** 
+**[2091.14s] English:** Before I came to myself, we discussed with anthropologists and moralists.  
+**Translation:** Vocabulary: anthropologists: 人类学家; moralists: 道德家
 
-**[2095.74s] English:** Спросили у них, можно ли...  
+**[2095.74s] English:** They were asked if it was possible to...  
 **Translation:** 
 
-**[2097.02s] English:** ...и нам вообще об этом рассказывать?  
+**[2097.02s] English:** ...and are we supposed to tell them about this at all?  
 **Translation:** 
 
-**[2100.04s] English:** Ведь ты просвещаешь людей о неконтактных племенах, у них складываются ложные представления.  
+**[2100.04s] English:** Because you are enlightening people about non-contact tribes, they form false perceptions.  
 **Translation:** 
 
-**[2105.70s] English:** Мол, это последние свободные люди.  
-**Translation:** 
+**[2105.70s] English:** Mol, this are the last free people.  
+**Translation:** Vocabulary: enlightening: 启迪; perceptions: 认知; tribes: 部落
 
-**[2108.14s] English:** Они живут настоящей жизнью, нужно к ним.  
+**[2108.14s] English:** They live a real life, you need to keep up with them.  
 **Translation:** 
 
-**[2110.66s] English:** Мы хотим их увидеть, сфоткать.  
+**[2110.66s] English:** We want to see them and take pictures.  
 **Translation:** 
 
-**[2112.62s] English:** Это плохая идея.  
+**[2112.62s] English:** This is a bad idea.  
 **Translation:** 
 
-**[2114.16s] English:** Эти племена хотят быть одни.  
+**[2114.16s] English:** These tribes want to be alone.  
 **Translation:** 
 
-**[2115.80s] English:** А последнее, чего хотим мы, убить то, что пытаемся защитить, рассказав об этом миру.  
+**[2115.80s] English:** The last thing we want to do is kill what we're trying to protect by telling the world about it.  
 **Translation:** 
 
-**[2121.42s] English:** Но в то же время они высказываются.  
+**[2121.42s] English:** But at the same time, they express themselves.  
 **Translation:** 
 
-**[2124.02s] English:** Говорят, хватит рубить деревья, оставьте нас.  
+**[2124.02s] English:** They say, "Stop cutting down trees, leave us alone.  
 **Translation:** 
 
-**[2126.08s] English:** Если мы в Jungle Keepers не добьемся успеха в нашей миссии по защите реки,  
-**Translation:** 
+**[2126.08s] English:** If we don't succeed in our mission to protect the river at Jungle Keepers,  
+**Translation:** Vocabulary: keepers: 守护者
 
-**[2131.66s] English:** они перестанут существовать.  
+**[2131.66s] English:** They will cease to exist.  
 **Translation:** 
 
-**[2133.50s] English:** Так что нам необходимо высказываться в пользу этих людей.  
+**[2133.50s] English:** So, we need to speak in favor of these people.  
 **Translation:** 
 
-**[2138.08s] English:** Мы должны показать миру эти кадры, а потом оставить эти племена в покое.  
+**[2138.08s] English:** We should show these scenes to the world, and then leave these tribes in peace.  
 **Translation:** 
 
-**[2143.70s] English:** Просто чтобы ты понял, нужно показать тебе кадры.  
+**[2143.70s] English:** Simply to make you understand, we need to show you some clips.  
 **Translation:** 
 
-**[2146.70s] English:** Эту съемку еще никто не видел.  
+**[2146.70s] English:** This shot has not been seen by anyone yet.  
 **Translation:** 
 
-**[2149.98s] English:** Мировая премьера, и тут вот какое дело.  
-**Translation:** 
+**[2149.98s] English:** World premiere, and here's the thing.  
+**Translation:** Vocabulary: premiere: 世界首映
 
-**[2152.40s] English:** Мы были в гуще событий.  
+**[2152.40s] English:** We were in the thick of the events.  
 **Translation:** 
 
-**[2153.86s] English:** До сих пор все, что мы видели, это...  
+**[2153.86s] English:** Until now, all we have seen is...  
 **Translation:** 
 
-**[2156.08s] English:** Размытые заворожения с чего-то телефона с расстояния в 100 метров.  
+**[2156.08s] English:** Blurred enchantments from a phone at a distance of 100 meters.  
 **Translation:** 
 
-**[2160.00s] English:** А мы там были с 800-миллиметровыми объективами, с 2Х-телеконвертором и R5.  
-**Translation:** 
+**[2160.00s] English:** We were there with 800-millimeter lenses, a 2X teleconverter, and an R5.  
+**Translation:** Vocabulary: blurred: 模糊; enchantments: 魔幻; lenses: 镜头; millimeter: 毫米; teleconverter: 增距镜
 
-**[2167.30s] English:** Тут мы ходим по местности, ожидая племя.  
+**[2167.30s] English:** Here we move through the terrain, waiting for the tribe.  
 **Translation:** 
 
-**[2172.48s] English:** Сделаю звук погромче, чтобы было слышно.  
-**Translation:** 
+**[2172.48s] English:** I will turn up the volume to make it audible.  
+**Translation:** Vocabulary: audible: 能听见的; terrain: 地形
 
-**[2176.60s] English:** И вот тот самый момент.  
+**[2176.60s] English:** And here's that very moment.  
 **Translation:** 
 
-**[2179.12s] English:** Это мы бежим, когда узнали, что они вышли. Они идут по берегу.  
+**[2179.12s] English:** This is when we ran upon hearing that they had gone out. They are walking along the shore.  
 **Translation:** 
 
-**[2185.38s] English:** О, вау!  
+**[2185.38s] English:** Oh, wow!  
 **Translation:** 
 
-**[2187.90s] English:** О, вау!  
+**[2187.90s] English:** Oh, wow!  
 **Translation:** 
 
-**[2190.00s] English:** Видишь? Тысячи бабочек.  
+**[2190.00s] English:** Do you see? Thousands of butterflies.  
 **Translation:** 
 
-**[2195.52s] English:** Глянь, как они двигаются. Как указывают. Глянь на парня с луком.  
+**[2195.52s] English:** Look at how they move. As it indicates. Look at the boy with the bow.  
 **Translation:** 
 
-**[2199.82s] English:** Вау!  
+**[2199.82s] English:** Wow!  
 **Translation:** 
 
-**[2208.32s] English:** Они пытаются понять, на что смотрят.  
+**[2208.32s] English:** They are trying to understand what they are looking at.  
 **Translation:** 
 
-**[2213.88s] English:** Они не понимают, что такое камера.  
+**[2213.88s] English:** They do not understand what a camera is.  
 **Translation:** 
 
-**[2216.16s] English:** А тут мужики идут смотреть, что там сзади. Они что-то услышали.  
+**[2216.16s] English:** Here the guys are going to see what's behind. They heard something.  
 **Translation:** 
 
-**[2219.88s] English:** Это что-то.  
+**[2219.88s] English:** This is something.  
 **Translation:** 
 
-**[2219.98s] English:** Это что-то.  
+**[2219.98s] English:** This is something.  
 **Translation:** 
 
-**[2220.00s] English:** Это женщины грабили фермы.  
+**[2220.00s] English:** These women robbed the farms.  
 **Translation:** 
 
-**[2222.44s] English:** А я смотрю во все стороны и думаю, откуда прилетит стрела.  
+**[2222.44s] English:** I look around in all directions and wonder from where the arrow will come.  
 **Translation:** 
 
-**[2226.10s] English:** Видишь, у него дробовик. Обычный фермерский.  
+**[2226.10s] English:** You see, he has a shotgun. A普通的猎枪.  
 **Translation:** 
 
-**[2229.42s] English:** Даже если он выстрелит, нужно палкой выбивать гильзы.  
-**Translation:** 
+**[2229.42s] English:** Even if he shoots, we need to use a stick to knock out the shells.  
+**Translation:** Vocabulary: shotgun: 普通猎枪
 
-**[2232.44s] English:** Видишь, когда они подходят ближе, то он начинает складывать.  
+**[2232.44s] English:** You see, when they approach closer, he starts folding.  
 **Translation:** 
 
-**[2235.62s] English:** Смотри, он кладет лук и стрелы.  
-**Translation:** 
+**[2235.62s] English:** Look, he puts away the arrow and quiver.  
+**Translation:** Vocabulary: quiver: 箭袋
 
-**[2238.46s] English:** Они понимают, на моле.  
+**[2238.46s] English:** They understand on the mole.  
 **Translation:** 
 
-**[2242.00s] English:** То есть это воины, и поначалу они двигались так, будто были готовы к атаке.  
+**[2242.00s] English:** That is, these are warriors, and at first, they moved as if they were ready for an attack.  
 **Translation:** 
 
-**[2248.42s] English:** А теперь все стоят.  
+**[2248.42s] English:** Now everyone is standing.  
 **Translation:** 
 
-**[2249.98s] English:** Они расслаблены и улыбаются.  
+**[2249.98s] English:** They are relaxed and smiling.  
 **Translation:** 
 
-**[2253.20s] English:** Они улыбаются?  
+**[2253.20s] English:** They are smiling?  
 **Translation:** 
 
-**[2254.08s] English:** В какой-то момент они заулыбались.  
+**[2254.08s] English:** At some moment, they smiled.  
 **Translation:** 
 
-**[2256.24s] English:** Я предполагаю, что один из них занимает позицию лидера, и он больше всех разговаривал.  
+**[2256.24s] English:** I suppose that one of them takes the leader's position and he talked more than anyone else.  
 **Translation:** 
 
-**[2263.30s] English:** А что за жесты руками?  
-**Translation:** 
+**[2263.30s] English:** What gestures with the hands?  
+**Translation:** Vocabulary: gestures: 手势
 
-**[2267.14s] English:** Как они приставляют руку к лицу?  
+**[2267.14s] English:** How do they place their hand on their face?  
 **Translation:** 
 
-**[2269.76s] English:** Это все же что-то значит.  
+**[2269.76s] English:** This still means something.  
 **Translation:** 
 
-**[2271.50s] English:** Да, да, что-то значит.  
+**[2271.50s] English:** Yes, yes, it means something.  
 **Translation:** 
 
-**[2273.00s] English:** У одних лица раскрашены красным, а у других желтым.  
+**[2273.00s] English:** Some faces are colored red, while others are yellow.  
 **Translation:** 
 
-**[2275.92s] English:** Было ощущение иерархии.  
+**[2275.92s] English:** There was a sense of hierarchy.  
 **Translation:** 
 
-**[2277.66s] English:** Кто босс?  
+**[2277.66s] English:** Who is the boss?  
+**Translation:** Vocabulary: hierarchy: 等级制度
+
+**[2278.22s] English:** There were two dominant partners there.  
 **Translation:** 
+
+**[2279.96s] English:** And what about the others?  
+**Translation:** Vocabulary: dominant: 优势的
 
-**[2278.22s] English:** Там было два доминантных партнера.  
+**[2280.00s] English:** Here's this one and another one; they were similar, maybe he's his brother. There was a lot of hand gestures.  
 **Translation:** 
 
-**[2279.96s] English:** А у других?  
+**[2280.80s] English:** Yes.  
 **Translation:** 
 
-**[2280.80s] English:** Да.  
+**[2280.96s] English:** There is a horrible sauna there.  
 **Translation:** 
 
-**[2280.96s] English:** Там horrible sauna.  
+**[2281.92s] English:** There, fuck off.  
 **Translation:** Vocabulary: sauna: 蒸汽浴室
 
-**[2281.92s] English:** Там блядь.  
+**[2282.92s] English:** Fuck.  
 **Translation:** 
 
-**[2282.92s] English:** Блядь.  
-**Translation:** 
-
-**[2283.92s] English:** Там я Hackman, там ничего.  
-**Translation:** 
-
-**[2285.64s] English:** Там они сидят, с лепышками, с лапшами.  
-**Translation:** 
+**[2283.92s] English:** There, I was Hackman, and nothing happened.  
+**Translation:** Vocabulary: hackman: 哈克曼
 
-**[2288.10s] English:** И philosophy, поэтому я говорю.  
+**[2285.64s] English:** There they sit, with pancakes and noodles.  
 **Translation:** 
 
-**[2291.10s] English:** Да.  
-**Translation:** 
+**[2286.30s] English:** Pol, this is incredible.  
+**Translation:** Vocabulary: noodles: 面条; pancakes: 煎饼
 
-**[2292.10s] English:** И это просто твой домик.  
+**[2288.10s] English:** Therefore, I say.  
 **Translation:** 
 
-**[2293.38s] English:** Вон, ты сидишь здесь, а где ты?  
+**[2291.10s] English:** Yes.  
 **Translation:** 
 
-**[2295.50s] English:** Бедная лето.  
+**[2292.10s] English:** And this is just your little house.  
 **Translation:** 
 
-**[2296.50s] English:** Не...  
+**[2293.38s] English:** Here you are, sitting here, but where are you?  
 **Translation:** 
 
-**[2297.50s] English:** Я боюсь водой.  
+**[2295.50s] English:** Poor summer.  
 **Translation:** 
 
-**[2299.42s] English:** Если ты в этом домике ни один не следишь, то ты живешь вardе.  
+**[2296.50s] English:** Not...  
 **Translation:** 
 
-**[2303.14s] English:** Слушай, у тебя прямо сейчас додали эти добычки, не?  
+**[2297.50s] English:** I am afraid of water.  
 **Translation:** 
 
-**[2307.38s] English:** Да.  
-**Translation:** 
+**[2299.42s] English:** If you're not watching over any of these cottages, then you're living in wardere.  
+**Translation:** Vocabulary: cottages: 小屋
 
-**[2308.38s] English:** Вот так?  
+**[2302.28s] English:** There, see the rope? Someone even has a rope.  
 **Translation:** 
 
-**[2280.00s] English:** Вот этот и ещё один, они были похожи, может, он его брат. Много жестикуляции.  
+**[2303.14s] English:** Listen, you just got these drops, didn't you?  
 **Translation:** 
 
-**[2286.30s] English:** Пол, это невероятно.  
+**[2307.38s] English:** Yes.  
 **Translation:** 
 
-**[2302.28s] English:** Вон, видишь верёвку? У кого-то и верёвки.  
+**[2307.48s] English:** Overall, you can understand who the main one is. Say it.  
 **Translation:** 
 
-**[2307.48s] English:** В целом, можно понять, кто там главный. Скажи.  
+**[2308.38s] English:** Is that so?  
 **Translation:** 
 
-**[2314.44s] English:** Видишь, некоторые... И даже вот когда он указывает, на что ты указываешь?  
+**[2314.44s] English:** Do you see, some... And even when he points to what you're pointing at?  
 **Translation:** 
 
-**[2337.48s] English:** Да вы чокнутые. Чокнутые.  
+**[2337.48s] English:** You must be kidding. You must be kidding.  
 **Translation:** 
 
-**[2345.32s] English:** Видишь, как они бегут? Это отчаяние. Они голодные.  
-**Translation:** 
+**[2345.32s] English:** Do you see how they are running? It's desperation. They are hungry.  
+**Translation:** Vocabulary: desperation: 绝望
 
-**[2350.80s] English:** Этот человек в воде — это Рамо?  
+**[2350.80s] English:** Is this person in the water Ramo?  
 **Translation:** 
 
-**[2353.38s] English:** На этом конкретном видео — это парень по имени Элинор.  
+**[2353.38s] English:** On this specific video — this is a guy named Elinor.  
 **Translation:** 
 
-**[2357.04s] English:** Но ты посмотри, они толкаются, они не планируют делить добычу, а типа,  
+**[2357.04s] English:** But look, they push each other, they don't plan to share the catch, more like,  
 **Translation:** 
 
-**[2363.42s] English:** «я беру своё, ты берёшь своё». Что же это значит?  
+**[2363.42s] English:** Я беру своё, ты берёшь своё." What does this mean?  
 **Translation:** 
 
-**[2367.48s] English:** Ага. Но здесь они точно в мирном режиме.  
+**[2367.48s] English:** Agreed. But here they are definitely in peaceful mode.  
 **Translation:** 
 
-**[2371.34s] English:** После того, как мы дали им несколько лодок бананов, всё успокоилось.  
-**Translation:** 
+**[2371.34s] English:** After we gave them a few boats of bananas, everything calmed down.  
+**Translation:** Vocabulary: calmed: 平静下来
 
-**[2378.38s] English:** Рамо сказала, «Слушайте, мы дали вам, что могли.  
+**[2378.38s] English:** Ramo said, "Listen, we gave you what we could.  
 **Translation:** 
 
-**[2381.54s] English:** Дали сахарный тростник, дали лодки и плантанов».  
+**[2381.54s] English:** Dali sugar cane, dali boats and plantations.  
 **Translation:** 
 
-**[2387.16s] English:** И тут уже все расслабились. Они бродили рядом и...  
+**[2387.16s] English:** Here they all relaxed. They wandered nearby and...  
 **Translation:** 
 
-**[2392.08s] English:** Был крутой момент, когда мы уже раздали им плантаны.  
-**Translation:** 
+**[2392.08s] English:** There was a great moment when we had already given them plantains.  
+**Translation:** Vocabulary: plantains: 香蕉
 
-**[2397.32s] English:** Плантаны и бананы.  
+**[2397.32s] English:** Plants and bananas.  
 **Translation:** 
 
-**[2399.42s] English:** Он говорит...  
+**[2399.42s] English:** He says...  
 **Translation:** 
 
-**[2400.00s] English:** «Слушайте все. Мы дали вам то, что вы просили.  
+**[2400.00s] English:** Listen everyone. We have given you what you asked for.  
 **Translation:** 
 
-**[2404.20s] English:** Вы просили бананы.  
+**[2404.20s] English:** You asked for bananas.  
 **Translation:** 
 
-**[2406.18s] English:** Мы здесь не рубим деревья, мы не дробосеки.  
+**[2406.18s] English:** We are not tree-cutters, we are not drubosiki.  
 **Translation:** 
 
-**[2409.48s] English:** Мы коренной народ».  
-**Translation:** 
+**[2409.48s] English:** We are a indigenous people.  
+**Translation:** Vocabulary: indigenous: 本地的
 
-**[2411.02s] English:** Он не мог объяснить, откуда мы, но сказал, что мы не рубим деревья,  
+**[2411.02s] English:** He couldn't explain where we came from, but said that we don't cut down trees.  
 **Translation:** 
 
-**[2415.30s] English:** мы не лесорубы.  
-**Translation:** 
+**[2415.30s] English:** We are not loggers.  
+**Translation:** Vocabulary: loggers: 伐木工
 
-**[2416.58s] English:** И они такие «Окей».  
+**[2416.58s] English:** They are like "Okay".  
 **Translation:** 
 
-**[2418.04s] English:** В какой-то момент Игнатио вышел и начал типа делать вот так.  
+**[2418.04s] English:** At some point, Ignatio went out and began doing something like this.  
 **Translation:** 
 
-**[2423.44s] English:** И они отвечали.  
+**[2423.44s] English:** They answered.  
 **Translation:** 
 
-**[2424.62s] English:** Он начал пританцовывать, и они...  
+**[2424.62s] English:** He began to dance, and they...  
 **Translation:** 
 
-**[2427.20s] English:** Пробежал искра чего-то по-человечески забавного.  
+**[2427.20s] English:** An electric spark of something amusing ran humanly.  
 **Translation:** 
 
-**[2430.00s] English:** Даже Игнатио смягчился.  
+**[2430.00s] English:** Even Ignatio softened up.  
 **Translation:** 
 
-**[2431.76s] English:** Даже он смягчился.  
+**[2431.76s] English:** Even he has softened.  
 **Translation:** 
 
-**[2433.42s] English:** Когда мы поняли, что, похоже, сегодня никто не умрет,  
+**[2433.42s] English:** When we understood that, it seemed, today nobody would die,  
 **Translation:** 
 
-**[2435.96s] English:** все успокоились, но это было ложное чувство безопасности.  
+**[2435.96s] English:** All calmed down, but it was a false sense of security.  
 **Translation:** 
 
-**[2440.82s] English:** Вот, сейчас покажу.  
+**[2440.82s] English:** Here, I'll show you now.  
 **Translation:** 
 
-**[2442.66s] English:** Есть еще пара важных моментов.  
+**[2442.66s] English:** There are still a couple of important points.  
 **Translation:** 
 
-**[2446.50s] English:** Тут они взаимодействуют с лодкой.  
+**[2446.50s] English:** Here they interact with the boat.  
 **Translation:** 
 
-**[2448.36s] English:** Чувак, это потрясающе.  
+**[2448.36s] English:** Guy, this is amazing.  
 **Translation:** 
 
-**[2451.04s] English:** У них нет ни лодок, нет каменных орудий.  
-**Translation:** 
+**[2451.04s] English:** They have no boats, no stone implements.  
+**Translation:** Vocabulary: implements: 工具
 
-**[2454.86s] English:** Просто представь, если бы ты показал им лед, они бы...  
+**[2454.86s] English:** Just imagine, if you showed them ice, they would...  
 **Translation:** 
 
-**[2459.38s] English:** Исторически.  
-**Translation:** 
+**[2459.38s] English:** Historically.  
+**Translation:** Vocabulary: historically: 历史上
 
-**[2460.00s] English:** Историческое событие.  
+**[2460.00s] English:** Historical event.  
 **Translation:** 
 
-**[2463.26s] English:** Мы знаем, что Перси и Фоссет встречался с племенами, всякие истории ходили.  
-**Translation:** 
+**[2463.26s] English:** We know that Persi and Fossett met with tribes, and all sorts of stories circulated.  
+**Translation:** Vocabulary: circulated: 流传; tribes: 部落
 
-**[2470.54s] English:** Но это первый раз, когда племя засняли на видео, когда мы слышим их голоса, когда взаимодействие задокументировано.  
+**[2470.54s] English:** But this is the first time when the tribe has been filmed, when we hear their voices, when interaction is documented.  
 **Translation:** 
 
-**[2478.56s] English:** Гляди, как ему комфортно, как он близко.  
+**[2478.56s] English:** Look how comfortable he is, how close he is.  
 **Translation:** 
 
-**[2481.36s] English:** Они попросили у него футболку, и он ее отдал.  
+**[2481.36s] English:** They asked him for a T-shirt, and he gave it to them.  
 **Translation:** 
 
-**[2484.72s] English:** Вау.  
+**[2484.72s] English:** Wow.  
 **Translation:** 
 
-**[2485.42s] English:** Попросили штаны, и он отдал штаны.  
+**[2485.42s] English:** They asked for the pants, and he gave them the pants.  
 **Translation:** 
 
-**[2487.40s] English:** Остался в трусах.  
-**Translation:** 
+**[2487.40s] English:** He remained in his underwear.  
+**Translation:** Vocabulary: underwear: 内裤
 
-**[2489.34s] English:** Видишь?  
+**[2489.34s] English:** Do you see?  
 **Translation:** 
 
-**[2490.00s] English:** Видишь?  
+**[2490.00s] English:** Do you see?  
 **Translation:** 
 
-**[2491.32s] English:** У него футболка висит через плечо.  
+**[2491.32s] English:** He has a t-shirt hanging over his shoulder.  
 **Translation:** 
 
-**[2493.98s] English:** Игнасио снял свою футболку Джангл Кипперс и бросил антропологу, а антрополог потом кинул им.  
-**Translation:** 
+**[2493.98s] English:** Ignacio removed his Jungle Kippers football shirt and threw it to the anthropologist, who then tossed it back.  
+**Translation:** Vocabulary: anthropologist: 人类学家; kippers: 紧身裤
 
-**[2500.52s] English:** Вот.  
+**[2500.52s] English:** Here.  
 **Translation:** 
 
-**[2501.12s] English:** На плече у того неконтактного голого воина висит футболка Джангл Кипперс с нашим логотипом.  
+**[2501.12s] English:** On the shoulder of that non-contact naked warrior, a T-shirt with Jungle Kippers and our logo hangs.  
 **Translation:** 
 
-**[2507.14s] English:** Это их вторая футболка.  
+**[2507.14s] English:** This is their second football shirt.  
 **Translation:** 
 
-**[2509.24s] English:** Вы повысили статус этого парня в племени.  
+**[2509.24s] English:** You raised the status of this man in the tribe.  
 **Translation:** 
 
-**[2512.06s] English:** С футболкой он станет боссом.  
+**[2512.06s] English:** With a football shirt, he'll become the boss.  
 **Translation:** 
 
-**[2514.10s] English:** У него крутой поло.  
+**[2514.10s] English:** He has a cool polo.  
 **Translation:** 
 
-**[2516.74s] English:** Даже заказывать не пришлось.  
+**[2516.74s] English:** Even ordering wasn't necessary.  
 **Translation:** 
 
-**[2520.00s] English:** Это уже после, когда все было спокойно.  
-**Translation:** 
+**[2520.00s] English:** This was already later, when everything had calmed down.  
+**Translation:** Vocabulary: calmed: 平静下来
 
-**[2523.44s] English:** Мне вот такой момент запомнился.  
+**[2523.44s] English:** I remember a moment like that.  
 **Translation:** 
 
-**[2528.26s] English:** Ромо говорит, они про тебя спрашивают.  
+**[2528.26s] English:** Romo says they are asking about you.  
 **Translation:** 
 
-**[2532.82s] English:** А я такой, про меня? Что спрашивает?  
+**[2532.82s] English:** Do I sound like that? What are you asking?  
 **Translation:** 
 
-**[2535.86s] English:** А он, ага, про тебя спрашивает.  
+**[2535.86s] English:** He, uh-huh, is asking about you.  
 **Translation:** 
 
-**[2537.98s] English:** Опять же, я невысокий, но по сравнению с людьми в поселении довольно высокий, с широкими плечами.  
+**[2537.98s] English:** Again, I am not very tall, but in comparison to the people in the settlement, I am quite tall with broad shoulders.  
 **Translation:** 
 
-**[2543.70s] English:** Они говорят, ты выглядишь как воин.  
+**[2543.70s] English:** They say you look like a warrior.  
 **Translation:** 
 
-**[2545.70s] English:** Можешь выйти вперед.  
+**[2545.70s] English:** Can you step forward.?  
 **Translation:** 
 
-**[2546.92s] English:** И покажи, что не хочешь навредить, и покажи ладони.  
+**[2546.92s] English:** Show that you don't want to harm, and show your hands.  
 **Translation:** 
 
-**[2551.04s] English:** Он вывел меня на берег, и это было перед тем, как они ушли.  
+**[2551.04s] English:** He led me to the shore, and this was before they left.  
 **Translation:** 
 
-**[2555.92s] English:** Видишь, я поднимаю руки, слушай.  
+**[2555.92s] English:** See, I'm raising my hands, listen.  
 **Translation:** 
 
-**[2558.48s] English:** Они поют в ответ.  
+**[2558.48s] English:** They sing in response.  
 **Translation:** 
 
-**[2565.82s] English:** Эстанкантанте, они поют.  
-**Translation:** 
+**[2565.82s] English:** Estancamente, they sing.  
+**Translation:** Vocabulary: estancamente: 停滞地
 
-**[2568.34s] English:** Они подняли руки, я поднял.  
+**[2568.34s] English:** They raised their hands, I raised mine.  
 **Translation:** 
 
-**[2576.92s] English:** И мы остались наблюдать, как они уходят с берега в джунгли со всем, что мы им дали.  
+**[2576.92s] English:** We kept watching as they headed into the jungle with everything we had given them from the shore.  
 **Translation:** 
 
-**[2598.08s] English:** И все.  
+**[2598.08s] English:** And that's it.  
 **Translation:** 
 
-**[2598.58s] English:** На следующий день мы спустились вниз по реке, и в поселении нам сказали,  
-**Translation:** 
+**[2598.58s] English:** The next day we descended down the river, and in the settlement they told us,  
+**Translation:** Vocabulary: descended: 沿河而下
 
-**[2603.20s] English:** теперь вы понимаете, что это реально, и это страшно.  
+**[2603.20s] English:** Now you understand that it is real, and this is scary.  
 **Translation:** 
 
-**[2606.32s] English:** Вы почувствовали это.  
+**[2606.32s] English:** You have felt it.  
 **Translation:** 
 
-**[2606.92s] English:** Вы почувствовали страх.  
+**[2606.92s] English:** You have felt fear.  
 **Translation:** 
 
-**[2608.28s] English:** Если вы взяли на себя обязательство защищать эту реку,  
+**[2608.28s] English:** If you have taken on the responsibility to protect this river,  
 **Translation:** 
 
-**[2611.00s] English:** вы должны защитить нас и помочь понять,  
+**[2611.00s] English:** You should protect us and help us understand,  
 **Translation:** 
 
-**[2613.84s] English:** какого будущего они хотят.  
+**[2613.84s] English:** What future do they want.  
 **Translation:** 
 
-**[2615.80s] English:** Если они хотят прийти к нам и научиться фермерству,  
+**[2615.80s] English:** If they want to come to us and learn farming,  
 **Translation:** 
 
-**[2621.46s] English:** это нормально, но нам от вас, ребята, нужна защита.  
+**[2621.46s] English:** This is normal, but we need protection from you guys.  
 **Translation:** 
 
-**[2625.68s] English:** Я в этом видео вначале комментирую  
+**[2625.68s] English:** I'll start commenting on this video in the beginning.  
 **Translation:** 
 
-**[2628.70s] English:** что-то на камеру в тот момент,  
-**Translation:** 
+**[2628.70s] English:** Something on camera at that moment,  
+**Translation:** Vocabulary: commenting: 评论
 
-**[2632.14s] English:** когда они поднимаются по берегу.  
+**[2632.14s] English:** When they climb up the shore.  
 **Translation:** 
 
-**[2634.98s] English:** Видишь, парни, вон там.  
+**[2634.98s] English:** Do you see, guys, over there?  
 **Translation:** 
 
-**[2636.92s] English:** В синей футболке.  
+**[2636.92s] English:** In a blue shirt.  
 **Translation:** 
 
-**[2639.90s] English:** В синей футболке.  
+**[2639.90s] English:** In a blue shirt.  
 **Translation:** 
 
-**[2640.00s] English:** Вот. Это Джордж.  
+**[2640.00s] English:** Here. This is George.  
 **Translation:** 
 
-**[2641.92s] English:** Он был очень дружелюбен, очень уверен.  
+**[2641.92s] English:** He was very friendly, very confident.  
 **Translation:** 
 
-**[2644.46s] English:** Говорил, не бойтесь, они нам не навредят.  
+**[2644.46s] English:** He said, "Don't be afraid, they won't harm us.  
 **Translation:** 
 
-**[2646.92s] English:** На следующий день мы вернулись в город и проделали долгий путь обратно в город.  
+**[2646.92s] English:** The next day, we returned to the city and made a long journey back to the city.  
 **Translation:** 
 
-**[2651.70s] English:** Легли спать, просыпаемся утром, узнаем, что на следующий день, рано с утра, наши друзья в поселении решили, мол, племя ушло.  
+**[2651.70s] English:** Laid down to sleep, woke up in the morning, learned that early in the next day, our friends in the settlement decided that the tribe had left.  
 **Translation:** 
 
-**[2659.14s] English:** Мы дали им все, что они хотели. Дали сахарный тростник, бананы, сказали, возвращайтесь, вам всегда рады.  
+**[2659.14s] English:** We gave them everything they wanted. We gave sugar cane, bananas, and told them to come back, for they would always be welcome.  
 **Translation:** 
 
-**[2665.22s] English:** Джордж вел лодку с людьми, и когда они поднимались вверх по реке, 200 человек из племени выбежали, окружили лодку и начали стрелять.  
+**[2665.22s] English:** George steered the boat with people on board, and when they were traveling up the river, 200 members of the tribe burst out, surrounded the boat, and began shooting.  
 **Translation:** 
 
-**[2674.56s] English:** Остальные смогли упасть и залезть под скамейки, спрятаться за мешки риса.  
-**Translation:** 
+**[2674.56s] English:** Others were able to fall down and crawl under the benches, hide behind rice sacks.  
+**Translation:** Vocabulary: steered: 操控船只
 
-**[2681.00s] English:** А Джордж вел лодку, он откидывался назад и вел ее так быстро, как мог.  
+**[2681.00s] English:** George was steering the boat, leaning back and paddling as fast as he could.  
 **Translation:** 
 
-**[2684.94s] English:** Одна стрела вошла чуть выше лопатки и вышла у пупка.  
-**Translation:** 
+**[2684.94s] English:** One arrow entered slightly above the shoulder blade and exited at the navel.  
+**Translation:** Vocabulary: exited: 穿出; leaning: 倾斜; navel: 肚脐; paddling: 划水; steering: 掌舵
 
-**[2690.50s] English:** Двухметровая стрела.  
+**[2690.50s] English:** A two-meter arrow.  
 **Translation:** 
 
-**[2692.84s] English:** Прошла насквозь.  
+**[2692.84s] English:** Passed through completely.  
 **Translation:** 
 
-**[2694.14s] English:** Его вытащили.  
+**[2694.14s] English:** He was pulled out.  
 **Translation:** 
 
-**[2696.40s] English:** Я потом видел лодку, и в ней было ужасное количество крови.  
+**[2696.40s] English:** I then saw a boat, and in it was an awful amount of blood.  
 **Translation:** 
 
-**[2701.60s] English:** Его пришлось эвакуировать, и каким-то образом он выжил.  
+**[2701.60s] English:** He had to be evacuated, and somehow he survived.  
 **Translation:** 
 
-**[2704.92s] English:** Мы смогли помочь, вызвать вертолет, эвакуировать его и все такое.  
-**Translation:** 
+**[2704.92s] English:** We were able to help by calling for a helicopter, evacuating him, and all that.  
+**Translation:** Vocabulary: evacuated: 撤离; evacuating: 正在撤离; helicopter: 直升机
 
-**[2709.32s] English:** Но опять же, ты просто думаешь, что?  
+**[2709.32s] English:** But again, you just think that?  
 **Translation:** 
 
-**[2712.54s] English:** Эти люди вышли из джунглей, попросили бананы, мы дали им бананы.  
+**[2712.54s] English:** These people came out of the jungle, asked for bananas, and we gave them bananas.  
 **Translation:** 
 
-**[2718.76s] English:** Всеми возможными способами донесли, что хотим мира, хотим с вами дружить.  
+**[2718.76s] English:** We have conveyed in every possible way that we want peace and want to be friends with you.  
 **Translation:** 
 
-**[2722.88s] English:** А на следующий день они напали.  
-**Translation:** 
+**[2722.88s] English:** The next day, they attacked.  
+**Translation:** Vocabulary: conveyed: 传达
 
-**[2728.06s] English:** Что произошло? Почему у них так поменялось мнение?  
+**[2728.06s] English:** What happened? Why did their opinion change so much?  
 **Translation:** 
 
-**[2731.66s] English:** Или может это связано с ролью жестокости в их обществе?  
-**Translation:** 
+**[2731.66s] English:** Or could it be related to the role of cruelty in their society?  
+**Translation:** Vocabulary: cruelty: 残忍
 
-**[2739.04s] English:** Может она настолько интегрирована в то, как они взаимодействуют с миром,  
+**[2739.04s] English:** May she be so integrated into how they interact with the world,  
 **Translation:** 
 
-**[2744.58s] English:** что они даже не воспринимают это как фундаментальный сдвиг во взаимодействии?  
-**Translation:** 
+**[2744.58s] English:** What do they even perceive this as anything more than a fundamental shift in interaction?  
+**Translation:** Vocabulary: integrated: 融合; perceive: 感知
 
-**[2750.50s] English:** Не знаю, как это понять.  
+**[2750.50s] English:** I don't know how to understand this.  
 **Translation:** 
 
-**[2752.88s] English:** Единственное, они же скрывали от нас женщины, может, в этом дело.  
+**[2752.88s] English:** The only thing is, they were hiding something from us, maybe that's the reason.  
 **Translation:** 
 
-**[2757.14s] English:** Нам нельзя обидеть их женщин.  
+**[2757.14s] English:** We cannot offend their women.  
 **Translation:** 
 
-**[2759.26s] English:** Хотя мы...  
+**[2759.26s] English:** Although we...  
 **Translation:** 
 
-**[2760.00s] English:** Вы что еще поняли, когда лодка Джорджа и еще одна поднимались вверх по реке?  
+**[2760.00s] English:** What else did you understand when George's boat and another one were going up the river?  
 **Translation:** 
 
-**[2765.08s] English:** А они ведь так и живут, не то чтобы они делали что-то неправильно.  
+**[2765.08s] English:** They live like that, after all; it's not as if they're doing anything wrong.  
 **Translation:** 
 
-**[2769.32s] English:** Они сами живут в поселении, в днях пути по Амазонке.  
+**[2769.32s] English:** They live in a settlement, days' journey by Amazon river.  
 **Translation:** 
 
-**[2772.28s] English:** Они шли рыбачить.  
+**[2772.28s] English:** They went fishing.  
 **Translation:** 
 
-**[2773.66s] English:** Так вот, они появились из-за поворота и, наверное, напугали племя.  
+**[2773.66s] English:** So there they appeared around the bend and, no doubt, scared the tribe.  
 **Translation:** 
 
-**[2776.94s] English:** Это, наверное, защитная реакция.  
+**[2776.94s] English:** This, no doubt, is a protective reaction.  
 **Translation:** 
 
-**[2778.80s] English:** Они подумали, мы не знаем, кто это.  
+**[2778.80s] English:** They thought, we don't know who this is.  
 **Translation:** 
 
-**[2780.60s] English:** Может, их двигатели напугали, мы не знаем.  
+**[2780.60s] English:** May be, their engines scared them, we don't know.  
 **Translation:** 
 
-**[2783.04s] English:** Но они его подстрелили.  
+**[2783.04s] English:** But they shot him down.  
 **Translation:** 
 
-**[2785.64s] English:** А еще есть штука с ожерельем.  
+**[2785.64s] English:** There's also something with a necklace.  
 **Translation:** 
 
-**[2788.20s] English:** Я спросил антропологов, и они сказали, что на данном этапе у меня информации больше, чем у них.  
+**[2788.20s] English:** I asked the anthropologists, and they said that at this stage I have more information than they do.  
 **Translation:** 
 
-**[2796.50s] English:** Вот такое.  
-**Translation:** 
+**[2796.50s] English:** Here's such a thing.  
+**Translation:** Vocabulary: anthropologists: 人类学家
 
-**[2799.56s] English:** Ага.  
+**[2799.56s] English:** Agreed.  
 **Translation:** 
 
-**[2800.68s] English:** У двоих из них были одинаковые предметы на шеях.  
-**Translation:** 
+**[2800.68s] English:** Of the two, they had identical items around their necks.  
+**Translation:** Vocabulary: identical: 完全相同的
 
-**[2804.42s] English:** Похоже на бразильский орех с какой-то оболочкой вокруг.  
+**[2804.42s] English:** It looks like a Brazilian nut with some kind of shell around it.  
 **Translation:** 
 
-**[2809.24s] English:** И кажется, с зубами животных.  
+**[2809.24s] English:** It seems like with animal teeth.  
 **Translation:** 
 
-**[2813.12s] English:** Что ты в нем носишь?  
+**[2813.12s] English:** What are you wearing under it?  
 **Translation:** 
 
-**[2814.78s] English:** Там лекарства?  
+**[2814.78s] English:** Is there medicine there?  
 **Translation:** 
 
-**[2815.86s] English:** Какой-то тотем?  
+**[2815.86s] English:** What kind of totem?  
 **Translation:** 
 
-**[2817.92s] English:** Что ты в нем носишь?  
-**Translation:** 
+**[2817.92s] English:** What are you wearing under it?  
+**Translation:** Vocabulary: totem: 图腾
 
-**[2818.20s] English:** Такие штуки были у двоих, и их же неудобно носить на шее.  
+**[2818.20s] English:** Such things were worn by two people, and they are uncomfortable to carry around on their necks.  
 **Translation:** 
 
-**[2821.34s] English:** Они размером с грейпфрут.  
+**[2821.34s] English:** They are about the size of a grapefruit.  
 **Translation:** 
 
-**[2823.80s] English:** Ты думаешь, это контейнер?  
+**[2823.80s] English:** You think this is a container?  
 **Translation:** 
 
-**[2825.66s] English:** Или просто какой-то тотем?  
+**[2825.66s] English:** Or just some totem?  
 **Translation:** 
 
-**[2828.72s] English:** Похоже на контейнер.  
+**[2828.72s] English:** It looks like a container.  
 **Translation:** 
 
-**[2830.02s] English:** Они не дали ему намокнуть.  
+**[2830.02s] English:** They didn't let him get wet.  
 **Translation:** 
 
-**[2832.10s] English:** Заботились о нем.  
+**[2832.10s] English:** We took care of him.  
 **Translation:** 
 
-**[2833.66s] English:** У парня на фотке тут кусок древесного волокна.  
+**[2833.66s] English:** In the photo, there's a piece of wooden fiber.  
 **Translation:** 
 
-**[2837.46s] English:** А еще он добыл мешки от бразильского ореха.  
+**[2837.46s] English:** He also gathered bags of Brazilian nuts.  
 **Translation:** 
 
-**[2841.28s] English:** Пластиковые мешки с одной из сфер через реку.  
-**Translation:** 
+**[2841.28s] English:** Plastic bags with one of the spheres across the river.  
+**Translation:** Vocabulary: spheres: 球状物
 
-**[2844.64s] English:** Они просто берут, что видят.  
+**[2844.64s] English:** They simply take what they see.  
 **Translation:** 
 
-**[2846.46s] English:** Один из них забрал мачете.  
-**Translation:** 
+**[2846.46s] English:** One of them took a machete.  
+**Translation:** Vocabulary: machete: 大砍刀
 
-**[2848.20s] English:** Когда они уходили.  
+**[2848.20s] English:** When they were leaving.  
 **Translation:** 
 
-**[2850.00s] English:** Опять же, в тот период, когда все успокоились,  
-**Translation:** 
+**[2850.00s] English:** Again, during the period when everyone calmed down,  
+**Translation:** Vocabulary: calmed: 平静下来
 
-**[2852.70s] English:** он, уходя, играл с мачете, махал им на бабочек.  
+**[2852.70s] English:** He, as he was leaving, played with a machete, swinging it at butterflies.  
 **Translation:** 
 
-**[2856.28s] English:** Один из моих друзей, парень Бачо, говорит,  
-**Translation:** 
+**[2856.28s] English:** One of my friends, Bacho, says,  
+**Translation:** Vocabulary: swinging: 挥动
 
-**[2858.62s] English:** «Дыхай, мимачете!»  
+**[2858.62s] English:** Keep breathing, passerby!  
 **Translation:** 
 
-**[2860.06s] English:** Типа, брось мачете.  
-**Translation:** 
+**[2860.06s] English:** Type, just throw the machete.  
+**Translation:** Vocabulary: passerby: 路人
 
-**[2861.06s] English:** А парень посмотрел на него и типа, «Ага, иди забери».  
+**[2861.06s] English:** The boy looked at him and kinda said, "Yeah, go get it.  
 **Translation:** 
 
-**[2863.44s] English:** Типа, переплыви, посмотрим, что будет.  
+**[2863.44s] English:** Type, if you swim across, we'll see what will happen.  
 **Translation:** 
 
-**[2866.82s] English:** Думаешь, они потом разобрались, как пользоваться мачете?  
+**[2866.82s] English:** Do you think they figured out how to use the machete afterward?  
 **Translation:** 
 
-**[2871.34s] English:** Они знают мачете.  
+**[2871.34s] English:** They know the machete.  
 **Translation:** 
 
-**[2872.78s] English:** Знают?  
+**[2872.78s] English:** Do you know?  
 **Translation:** 
 
-**[2873.42s] English:** Они устраивают рейды за мачете.  
-**Translation:** 
+**[2873.42s] English:** They stage raids with machetes.  
+**Translation:** Vocabulary: machetes: 大砍刀; raids: 突袭
 
-**[2876.46s] English:** Понимают силу заточенного металла.  
+**[2876.46s] English:** They understand the power of imprisoned metal.  
 **Translation:** 
 
-**[2878.20s] English:** Да, для них.  
-**Translation:** 
+**[2878.20s] English:** Yes, for them.  
+**Translation:** Vocabulary: imprisoned: 被囚禁的
 
-**[2880.00s] English:** У них это экскалибр.  
+**[2880.00s] English:** They have this Excalibur.  
 **Translation:** 
 
-**[2883.02s] English:** Но вот это мне покоя не дает.  
+**[2883.02s] English:** But this keeps bothering me.  
 **Translation:** 
 
-**[2885.84s] English:** Что же они там носят?  
+**[2885.84s] English:** What do they wear there?  
 **Translation:** 
 
-**[2888.46s] English:** Какие вопросы тебя интересуют?  
+**[2888.46s] English:** What questions are you interested in?  
 **Translation:** 
 
-**[2891.46s] English:** Если бы ты мог узнать о них все,  
+**[2891.46s] English:** If you could know everything about them,  
 **Translation:** 
 
-**[2894.52s] English:** может, что-то из области коммуникации и языка,  
+**[2894.52s] English:** May be something from the area of communication and language,  
 **Translation:** 
 
-**[2897.32s] English:** ты упоминал, что у них есть всякие зовы.  
+**[2897.32s] English:** You mentioned that they have various calls.  
 **Translation:** 
 
-**[2901.54s] English:** Они, очевидно, знают, как имитировать зовы животных.  
-**Translation:** 
+**[2901.54s] English:** They, obviously, know how to imitate animal calls.  
+**Translation:** Vocabulary: imitate: 模仿
 
-**[2905.34s] English:** Да, они используют зовы животных на таком уровне,  
+**[2905.34s] English:** Yes, they use animal calls at such a level,  
 **Translation:** 
 
-**[2908.04s] English:** что могут давать базовые команды.  
+**[2908.04s] English:** What can basic commands give.  
 **Translation:** 
 
-**[2912.38s] English:** Говорят на языке капуцинов, используют зовы Тинамо.  
+**[2912.38s] English:** They speak in Capuchin language and use Tinamo calls.  
 **Translation:** 
 
-**[2916.08s] English:** Наши рейнджеры сплавлялись вверх по реке,  
-**Translation:** 
+**[2916.08s] English:** Our rangers floated up the river,  
+**Translation:** Vocabulary: capuchin: 凯普奇林; rangers: 巡逻员
 
-**[2918.32s] English:** это уже сильно позже встречи.  
+**[2918.32s] English:** This is already much later than the meeting.  
 **Translation:** 
 
-**[2921.52s] English:** Недавно было, они нашли тропу на Муле,  
+**[2921.52s] English:** Recently, they found a trail on Mu.  
 **Translation:** 
 
-**[2924.64s] English:** тропу Машко-Пиро.  
+**[2924.64s] English:** Tropu Mashko-Piro.  
 **Translation:** 
 
-**[2927.94s] English:** Конечно, это был Игнасио.  
+**[2927.94s] English:** Of course, it was Ignacio.  
 **Translation:** 
 
-**[2929.86s] English:** У них есть какой-то секретный свист,  
+**[2929.86s] English:** They have some secret whistle signal,  
 **Translation:** 
 
-**[2932.20s] English:** и он так свистанул в джунгле.  
-**Translation:** 
+**[2932.20s] English:** And he whistled so loud in the jungle.  
+**Translation:** Vocabulary: whistle: 哨声; whistled: 吹哨
 
-**[2935.66s] English:** Слушай-то, они свистят обратно.  
+**[2935.66s] English:** Listen, they are whistling back.  
 **Translation:** 
 
-**[2938.04s] English:** Он и вся команда просто побежали обратно к лодке и свалили оттуда.  
-**Translation:** 
+**[2938.04s] English:** He and the whole team simply ran back to the boat and bailed out from there.  
+**Translation:** Vocabulary: bailed: 舀水; whistling: 吹口哨
 
-**[2943.00s] English:** Но зато они ответили, не просто выстрелили.  
+**[2943.00s] English:** But instead, they responded by shooting back.  
 **Translation:** 
 
-**[2945.80s] English:** Он свистнул, они свистнули, типа «Вали!», и он свалил.  
-**Translation:** 
+**[2945.80s] English:** He whistled, they whistled, sort of like "Vali!", and he vanished.  
+**Translation:** Vocabulary: vanished: 消失
 
-**[2949.84s] English:** Мы не знаем, где их старики, они что, не выживают?  
+**[2949.84s] English:** We don't know where their elders are. Are they not surviving?  
 **Translation:** 
 
-**[2954.48s] English:** Какие у них брачные ритуалы, как происходит размножение?  
-**Translation:** 
+**[2954.48s] English:** What are their mating rituals, and how does reproduction occur?  
+**Translation:** Vocabulary: mating: 交配; rituals: 仪式
 
-**[2959.56s] English:** В Амазонке есть один или два ребенка, я их знаю,  
+**[2959.56s] English:** In the Amazon, there is one or two children that I know.  
 **Translation:** 
 
-**[2963.16s] English:** которые уплыли вниз по реке, на бревне.  
-**Translation:** 
+**[2963.16s] English:** Which ones floated downstream on a log.  
+**Translation:** Vocabulary: downstream: 顺流而下
 
-**[2965.44s] English:** Типа, их спасли поселение, и...  
+**[2965.44s] English:** Type of thing, they were saved from the settlement, and...  
 **Translation:** 
 
-**[2968.04s] English:** вырастили.  
+**[2968.04s] English:** Grew.  
 **Translation:** 
 
-**[2970.84s] English:** Они либо учат местный диалект, либо испанский,  
+**[2970.84s] English:** They either learn the local dialect or Spanish.  
 **Translation:** 
 
-**[2973.32s] English:** а потом кто-то неизбежно спрашивает,  
-**Translation:** 
+**[2973.32s] English:** Then someone inevitably asks,  
+**Translation:** Vocabulary: dialect: 地方方言; inevitably: 不可避免地
 
-**[2976.08s] English:** «каково это было жить с ними?»  
+**[2976.08s] English:** How was it living with them?  
 **Translation:** 
 
-**[2978.96s] English:** И ответ всегда один — «не помню».  
+**[2978.96s] English:** The answer is always "I don't remember.  
 **Translation:** 
 
-**[2983.08s] English:** Они не говорят об этом.  
+**[2983.08s] English:** They don't talk about it.  
 **Translation:** 
 
-**[2986.00s] English:** То есть можно предположить, что они ценят секретность.  
-**Translation:** 
+**[2986.00s] English:** Thus, one can assume that they value secrecy.  
+**Translation:** Vocabulary: secrecy: 秘密
 
-**[2990.16s] English:** Когда боишься внешнего мира,  
+**[2990.16s] English:** When you fear the external world,  
 **Translation:** 
 
-**[2994.00s] English:** конфиденциальность играет большую роль.  
-**Translation:** 
+**[2994.00s] English:** Confidentiality plays a big role.  
+**Translation:** Vocabulary: confidentiality: 保密性
 
-**[2996.00s] English:** Они все подписывают NDA.  
+**[2996.00s] English:** They all sign an NDA.  
 **Translation:** 
 
-**[2997.76s] English:** Очень жестокий NDA.  
+**[2997.76s] English:** Very harsh NDA.  
 **Translation:** 
 
-**[3000.00s] English:** Понятно, что за NDA.  
+**[3000.00s] English:** Ponятно, that's for an NDA.  
 **Translation:** 
 
-**[3003.30s] English:** Там нет адвокатов, есть только один способ  
+**[3003.30s] English:** There are no lawyers there; only one way.  
 **Translation:** 
 
-**[3006.24s] English:** исполнить закон.  
+**[3006.24s] English:** Execute the law.  
 **Translation:** 
 
-**[3008.30s] English:** Либо жесткий NDA, либо просто дикая жизнь.  
-**Translation:** 
+**[3008.30s] English:** Either a hard NDA, or just crazy life.  
+**Translation:** Vocabulary: execute: 实施
 
-**[3013.24s] English:** Дикая жизнь в джунглях.  
+**[3013.24s] English:** Wild life in the jungles.  
 **Translation:** 
 
-**[3015.32s] English:** Ты ешь обезьян и черепаха, голодаешь днями напролет.  
-**Translation:** 
+**[3015.32s] English:** You eat monkeys and turtles, starving day after day.  
+**Translation:** Vocabulary: jungles: 丛林; starving: 挨饿
 
-**[3019.46s] English:** Твою жену может украсть другое племя, ребенка могут выкрасть.  
+**[3019.46s] English:** Your wife could be kidnapped by another tribe, and a child could be abducted.  
 **Translation:** 
 
-**[3024.18s] English:** Представь ободов и все то, с чем им приходится мириться.  
-**Translation:** 
+**[3024.18s] English:** Imagine hoops and all that they have to endure.  
+**Translation:** Vocabulary: abducted: 被绑架; hoops: 障碍; kidnapped: 被绑架
 
-**[3028.32s] English:** Мы столько всего испытали за три дня жизни там,  
+**[3028.32s] English:** We experienced so much in just three days of living there,  
 **Translation:** 
 
-**[3032.70s] English:** с современным кемпинговым снаряжением, налобными фонарями и пониманием, где мы.  
-**Translation:** 
+**[3032.70s] English:** With modern camping gear, headlamps, and an understanding of where we are.  
+**Translation:** Vocabulary: headlamps: 头灯
 
-**[3037.48s] English:** А у них ничего этого нет.  
+**[3037.48s] English:** They don't have anything like that.  
 **Translation:** 
 
-**[3039.22s] English:** Выкинь нас там голыми, и это будет совсем другая история.  
+**[3039.22s] English:** Throw us there naked, and that would be a different story altogether.  
 **Translation:** 
 
-**[3042.96s] English:** Ага, жестокость природы.  
+**[3042.96s] English:** Agreed, the cruelty of nature.  
 **Translation:** 
 
-**[3044.80s] English:** На ум приходит Вернер Херцог.  
-**Translation:** 
+**[3044.80s] English:** The thought occurs of Werner Herzog.  
+**Translation:** Vocabulary: cruelty: 残酷
 
-**[3047.12s] English:** Вот в этом им приходится жить.  
+**[3047.12s] English:** Here's where they have to live.  
 **Translation:** 
 
-**[3049.24s] English:** Но тогда в джунглях должно быть что-то,  
+**[3049.24s] English:** But then there must be something in the jungles,  
 **Translation:** 
 
-**[3053.78s] English:** что служит катализатором духовности.  
+**[3053.78s] English:** What serves as a catalyst for spirituality.  
 **Translation:** 
 
-**[3055.32s] English:** У них должна быть религиозная составляющая,  
-**Translation:** 
+**[3055.32s] English:** They should have a religious component,  
+**Translation:** Vocabulary: catalyst: 催化剂; spirituality: 精神层面
 
-**[3058.32s] English:** духовная составляющая, которая их объединяет.  
+**[3058.32s] English:** The spiritual component that unites them.  
 **Translation:** 
 
-**[3063.58s] English:** Должна быть идеология, которая их направляет.  
-**Translation:** 
+**[3063.58s] English:** There should be an ideology that directs them.  
+**Translation:** Vocabulary: ideology: 思想体系; unites: 使团结
 
-**[3066.38s] English:** Наверняка.  
+**[3066.38s] English:** Certainly.  
 **Translation:** 
 
-**[3067.48s] English:** У них, вероятно, есть система верований.  
+**[3067.48s] English:** They, probably, have a system of beliefs.  
 **Translation:** 
 
-**[3071.74s] English:** Есть истории об их происхождении.  
+**[3071.74s] English:** There are stories about their origin.  
 **Translation:** 
 
-**[3074.38s] English:** Было бы круто узнать, что они правильно или неправильно поняли о нас,  
+**[3074.38s] English:** It would be cool to know if they understood us correctly or incorrectly.  
 **Translation:** 
 
-**[3081.98s] English:** о внешнем мире.  
+**[3081.98s] English:** About the external world.  
 **Translation:** 
 
-**[3082.92s] English:** Они никогда не слышали о стране, в которой живут,  
+**[3082.92s] English:** They never heard of the country in which they live.  
 **Translation:** 
 
-**[3086.94s] English:** или о Второй мировой войне,  
+**[3086.94s] English:** Or about World War II,  
 **Translation:** 
 
-**[3088.32s] English:** или о нашей истории.  
+**[3088.32s] English:** Or about our history.  
 **Translation:** 
 
-**[3089.32s] English:** Было так странно наблюдать за тем, как они переходят реку и как-будто окно в истории.  
+**[3089.32s] English:** It was so strange to watch as they crossed the river and it seemed like a window into history.  
 **Translation:** 
 
-**[3096.56s] English:** Кстати, у тебя довольно заметная внешность.  
+**[3096.56s] English:** By the way, you have quite a noticeable appearance.  
 **Translation:** 
 
-**[3098.56s] English:** Ты же понимаешь, что твое лицо уже вырезали на каком-нибудь дереве.  
+**[3098.56s] English:** You understand that your face has already been carved into some tree.  
 **Translation:** 
 
-**[3104.56s] English:** Они собираются вокруг него и поют о великом Гринго  
-**Translation:** 
+**[3104.56s] English:** They gather around him and sing about great Gringo.  
+**Translation:** Vocabulary: carved: 刻在
 
-**[3110.56s] English:** с густой бородой и большим носом.  
+**[3110.56s] English:** With a thick beard and a large nose.  
 **Translation:** 
 
-**[3112.56s] English:** Прикинь, как они меня нарисовали.  
+**[3112.56s] English:** Pretend, how they drew me.  
 **Translation:** 
 
-**[3114.56s] English:** Волосы по всему лицу и огромный нос, и говорят обо мне детям.  
+**[3114.56s] English:** Hair all over my face, and a huge nose, and the children are talking about me.  
 **Translation:** 
 
-**[3117.56s] English:** Ага, конечно.  
+**[3117.56s] English:** Agreed, of course.  
 **Translation:** 
 
-**[3118.32s] English:** И как угодно, может они говорят обо мне детям.  
+**[3118.32s] English:** And however it may be, they might be talking about me to the children.  
 **Translation:** 
 
-**[3120.00s] English:** Это монстр, которого нужно бояться, а может, представляют тебя самым красивым воплощением внешнего мира, а может, что-то среднее. Ты над мифом не властен.  
-**Translation:** 
+**[3120.00s] English:** This is a monster that you need to fear, but maybe it represents you as the most beautiful manifestation of the external world, or something in between. You are not in control of the myth.  
+**Translation:** Vocabulary: manifestation: 显现
 
-**[3133.06s] English:** Совершенно не властен. Черт его знает.  
+**[3133.06s] English:** Completely powerless. Who knows what will happen.  
 **Translation:** 
 
-**[3136.96s] English:** Так интересно.  
-**Translation:** 
+**[3136.96s] English:** So interesting.  
+**Translation:** Vocabulary: powerless: 无能为力
 
-**[3137.88s] English:** Так что теперь в наши охраняемые 52 тысячи гектаров входит еще и защита этих племен.  
+**[3137.88s] English:** So now, in our protected 52,000 hectares, we also include the protection of these tribes.  
 **Translation:** 
 
-**[3145.72s] English:** При этом, единственный способ их защитить, убедиться, что с ними не контактируют, не говоря уже о том, чтобы в них не стреляли из автоматов наркоторговцы, или чтобы чокнутые хиппи Гринга не поехали туда, думая, что теперь-то они присоединятся к самой крутой коммуне на Земле.  
-**Translation:** 
+**[3145.72s] English:** Meanwhile, the only way to protect them is to ensure they don't come into contact with anyone, let alone get shot at by drug dealers, or end up there thinking that now they'll join the coolest commune on Earth, like some crazy hippies named Gringa might do.  
+**Translation:** Vocabulary: commune: 公社; hectares: 公顷; hippies: 嬉皮士; tribes: 部落
 
-**[3167.14s] English:** Сколько земли, по которой они перемещаются, находится в пределах 52 тысяч гектаров тропического леса, который ты смог спасти?  
+**[3167.14s] English:** How much of the land they move through is within the 52,000 hectares of tropical forest that you were able to save?  
 **Translation:** 
 
-**[3175.72s] English:** А сколько нет?  
+**[3175.72s] English:** How long has it been?  
 **Translation:** 
 
-**[3177.22s] English:** Сколько в 80 тысячах гектаров, которые ты пытаешься спасти?  
+**[3177.22s] English:** How many hectares are you trying to save out of 80 thousand?  
 **Translation:** 
 
-**[3181.30s] English:** Большая часть тех 80 тысяч, которые мы все еще пытаемся защитить, это их территория.  
+**[3181.30s] English:** A large part of those 80,000 that we are still trying to protect is their territory.  
 **Translation:** 
 
-**[3188.46s] English:** Люди всегда спрашивают, типа, как можно купить Амазонку? Это же бред какой-то.  
+**[3188.46s] English:** People always ask how to buy Amazon. It's nonsense.  
 **Translation:** 
 
-**[3196.24s] English:** Но у меня плохие новости. Она уже чья-то. И нам нужно купить ее у них, чтобы ее они не вырубили.  
+**[3196.24s] English:** But I have some bad news. She is already someone's. And we need to buy her from them so they don't cut her down.  
 **Translation:** 
 
-**[3202.94s] English:** Землевладельцы хотят продать землю лесозаготовительным комплексом.  
+**[3202.94s] English:** Landowners want to sell land to logging companies.  
 **Translation:** 
 
-**[3205.72s] English:** Амазонка не может быть компанией, ведь владение 4000 гектаров Амазонки тебе не поможет, если ты человек джунглей в третьем поколении, а сам живешь в городе.  
+**[3205.72s] English:** Amazon cannot be a company, for owning 4,000 hectares of the Amazon will not help you if you are a third-generation jungle dweller living in the city.  
 **Translation:** 
 
-**[3216.28s] English:** Они просто дадут зеленый свет наркам, лесорубам или золотодобытчикам, и заработают немного денег.  
+**[3216.28s] English:** They will simply give a green light to drug dealers, loggers, or gold miners and make a little money.  
 **Translation:** 
 
-**[3222.72s] English:** А они, когда увидят племена, убьют их. Это точно.  
-**Translation:** 
+**[3222.72s] English:** They will kill the tribes when they see them. That is certain.  
+**Translation:** Vocabulary: loggers: 砍伐者
 
-**[3227.78s] English:** Дробовики и автоматы в итоге победят, не говоря уже о микробах.  
+**[3227.78s] English:** Rifles and automatic weapons will ultimately win, not to mention microbes.  
 **Translation:** 
 
-**[3232.76s] English:** Все деньги, которые вы пытаетесь привлечь, и всякая информация, которая вы получаете, это все.  
-**Translation:** 
+**[3232.76s] English:** All the money you are trying to attract, and all the information you receive, is it.  
+**Translation:** Vocabulary: microbes: 微生物; rifles: 步枪
 
-**[3235.72s] English:** А земля, которую вы стараетесь спасти, все ради одной цели.  
+**[3235.72s] English:** The land you strive to save, all for one goal.  
 **Translation:** 
 
-**[3240.00s] English:** защиты джунглей. Когда вы выкупаете джунгли, вы просто хотите оставить их в покое,  
-**Translation:** 
+**[3240.00s] English:** Protection of Jungles. When you buy jungles, you simply want to leave them alone,  
+**Translation:** Vocabulary: jungles: 热带雨林; strive: 努力
 
-**[3245.94s] English:** дать экосистеме восстановиться в тех местах, где был вырублен лес, и просто процветать,  
+**[3245.94s] English:** Give the ecosystem time to recover in those places where the forest was cut down, and simply let it thrive.  
 **Translation:** 
 
-**[3251.30s] English:** если его не трогали. Опять же, мы говорим о последних великих джунглях. Я всегда называл  
-**Translation:** 
+**[3251.30s] English:** If it hadn't been touched. Again, we're talking about the last great jungles. I always called them  
+**Translation:** Vocabulary: thrive: 繁荣生长
 
-**[3257.76s] English:** их последним бескрайним лесом, потому что это невероятно удаленное место. Еще один вопрос,  
+**[3257.76s] English:** Their last boundless forest, because it is an incredibly remote place. Another question,  
 **Translation:** 
 
-**[3263.10s] English:** который мне постоянно задают. Почему эта река так важна? За всю мою карьеру, 20 лет в Амазонии,  
-**Translation:** 
+**[3263.10s] English:** Which one I'm constantly asked: Why is this river so important? Throughout my 20-year career in the Amazon,  
+**Translation:** Vocabulary: boundless: 无边的
 
-**[3271.64s] English:** ключевым всегда было то, что здесь сохранился практически нетронутый лес. Древний лес,  
+**[3271.64s] English:** Key was that here remained a nearly untouched forest. Ancient forest,  
 **Translation:** 
 
-**[3277.24s] English:** где деревья не врубались. Он растет с начала времен. На одном дереве Шуауако могут существовать  
-**Translation:** 
+**[3277.24s] English:** Where trees do not grow, it has been growing since the beginning of time. On one tree, Shuauco may exist.  
+**Translation:** Vocabulary: shuauco: 一种植物
 
-**[3282.84s] English:** тысячи видов. Это аватар на земле. Ты видишь, как пот испаряется, превращается в дождь,  
+**[3282.84s] English:** Thousands of types. This is an avatar on Earth. You see how sweat evaporates and turns into rain,  
 **Translation:** 
 
-**[3288.34s] English:** и ты потом пьешь эту воду из реки. Ты становишься частью химической и физической реальности места.  
-**Translation:** 
+**[3288.34s] English:** And you then drink this water from the river. You become part of the chemical and physical reality of the place.  
+**Translation:** Vocabulary: avatar: 化身; evaporates: 蒸发
 
-**[3293.10s] English:** Это одно из последних по-настоящему нетронутых мест. Вот это изменило все, потому что мы поняли,  
+**[3293.10s] English:** This is one of the last truly untouched places. This changed everything, because we understood,  
 **Translation:** 
 
-**[3301.08s] English:** что наряду с бабочками, обезьянами, ягуарами, деревьями и экосистемой, есть еще и человеческая  
-**Translation:** 
+**[3301.08s] English:** That, alongside butterflies, monkeys, jaguars, trees, and ecosystems, are also humans.  
+**Translation:** Vocabulary: ecosystems: 生态系统; jaguars: 美洲豹
 
-**[3309.62s] English:** культура, которая в ближайшие годы перестанет существовать, будет истреблена, если мы их не  
+**[3309.62s] English:** Culture, which will cease to exist in the coming years, will be eradicated if we do not.  
 **Translation:** 
 
-**[3314.70s] English:** защитим. Посмотри, что произошло с коренными культурами по всему миру за последние несколько  
-**Translation:** 
+**[3314.70s] English:** Protect them. Look at what has happened to indigenous cultures around the world in the last few decades.  
+**Translation:** Vocabulary: eradicated: 根除; indigenous: 土著的
 
-**[3320.54s] English:** столетий. Их стерли с лица земли. Их стерли с лица земли. Их стерли с лица земли.  
+**[3320.54s] English:** Centuries. They were erased from the face of the earth. They were erased from the face of the earth. They were erased from the face of the earth.  
 **Translation:** 
 
-**[3323.10s] English:** Сейчас у нас есть шанс коллективно исправить всю эту несправедливость, сделав хоть что-то  
-**Translation:** 
+**[3323.10s] English:** Now we have a chance collectively to fix all this injustice and do something about it.  
+**Translation:** Vocabulary: erased: 抹去
 
-**[3332.54s] English:** правильное. Эти люди хотят одного, чтобы их просто оставили в покое. Представь,  
+**[3332.54s] English:** Correct. These people want just one thing: to be left alone. Imagine,  
 **Translation:** 
 
-**[3338.42s] English:** если мы сможем защитить реку. Они не просто не исчезнут, они смогут продолжать жить так,  
+**[3338.42s] English:** If we can protect the river, they won't simply disappear; they will be able to continue living as they do.  
 **Translation:** 
 
-**[3344.40s] English:** как хотят. Если они захотят выйти и связаться с нами, здорово, а если хотят продолжать жить,  
+**[3344.40s] English:** As they wish. If they want to go out and contact us, that's great, but if they prefer to continue living as they are, that's fine too.  
 **Translation:** 
 
-**[3351.30s] English:** как следующие десять тысяч лет...  
+**[3351.30s] English:** How the next ten thousand years...  
 **Translation:** 
 
-**[3353.10s] English:** Вот с чем мы сейчас работаем. Это стало гораздо важнее, чем попытка защитить окружающую среду.  
+**[3353.10s] English:** Here's what we're working on now. It has become much more important than just trying to protect the environment.  
 **Translation:** 
 
-**[3360.00s] English:** Мы защищаем Йеллоу Стоун, Есеницкий парк, Сиквой, которых больше на Земле нигде нет.  
-**Translation:** 
+**[3360.00s] English:** We protect Yellowstone, Yessincsky Park, Sikvy, which are found nowhere else on Earth.  
+**Translation:** Vocabulary: yellowstone: 黄石国家公园
 
-**[3368.84s] English:** Мы защищаем то, что уникально и особенно, драгоценности нашей Земли.  
+**[3368.84s] English:** We protect what is unique and special, the treasures of our Earth.  
 **Translation:** 
 
-**[3374.52s] English:** Теперь эта река получила большое историческое значение, и биологически, и антропоцентрически.  
-**Translation:** 
+**[3374.52s] English:** Now this river has gained significant historical value, both biologically and anthropocentrically.  
+**Translation:** Vocabulary: anthropocentrically: 以人为中心地; biologically: 从生物学角度看
 
-**[3381.16s] English:** И эта история разыграется в следующие 18 месяцев.  
+**[3381.16s] English:** And this story will play out over the next 18 months.  
 **Translation:** 
 
-**[3390.00s] English:** Ты пытаешься спасти все больше и больше тропического леса.  
+**[3390.00s] English:** You are trying to save more and more tropical forest.  
 **Translation:** 
 
-**[3395.52s] English:** Миссия ясна. Есть глубокие джунгли, и они населены восхитительной жизнью,  
+**[3395.52s] English:** Mission clear. There are deep jungles, and they are populated with wonderful life,  
 **Translation:** 
 
-**[3402.22s] English:** включая, как мы теперь знаем, неконтактные племена.  
-**Translation:** 
+**[3402.22s] English:** Including, as we now know, non-contacting tribes.  
+**Translation:** Vocabulary: jungles: 密林; tribes: 部落
 
-**[3405.48s] English:** Есть куча заинтересованных лиц, которым плевать на джунгли,  
+**[3405.48s] English:** There are a bunch of interested parties who couldn't care less about the jungles.  
 **Translation:** 
 
-**[3409.22s] English:** они хотят срубить их, хотят разрушить.  
+**[3409.22s] English:** They want to cut them down, they want to destroy them.  
 **Translation:** 
 
-**[3412.48s] English:** Твоя миссия вполне ясна. Ты хочешь сохранить эту территорию.  
+**[3412.48s] English:** Your mission is quite clear. You want to keep this territory.  
 **Translation:** 
 
-**[3416.82s] English:** Да, это удивительно красивое место.  
+**[3416.82s] English:** Yes, it is a wonderfully beautiful place.  
 **Translation:** 
 
-**[3420.00s] English:** Это драгоценность, подаренная нам Землей.  
+**[3420.00s] English:** This is a treasure gifted to us by Earth.  
 **Translation:** 
 
-**[3422.76s] English:** Это особое место, ставшее капсулой времени для природы,  
+**[3422.76s] English:** This is a special place, becoming a time capsule for nature.  
 **Translation:** 
 
-**[3426.64s] English:** для человеческой культуры, для биоразнообразия, для климата, для всего.  
+**[3426.64s] English:** For human culture, for biodiversity, for the climate, for everything.  
 **Translation:** 
 
-**[3432.98s] English:** Мне кажется, люди пугаются, когда говоришь,  
-**Translation:** 
+**[3432.98s] English:** It seems that people get scared when you start talking,  
+**Translation:** Vocabulary: biodiversity: 生物多样性
 
-**[3435.42s] English:** мы должны спасти окружающую среду, должны спасти океан.  
+**[3435.42s] English:** We should save the environment, we should save the ocean.  
 **Translation:** 
 
-**[3440.48s] English:** А тут всего один бассейн.  
+**[3440.48s] English:** Here, there is just one swimming pool.  
 **Translation:** 
 
-**[3442.66s] English:** 120 тысяч гектаров.  
+**[3442.66s] English:** 120 thousand hectares.  
 **Translation:** 
 
-**[3444.36s] English:** А у нас уже 52 тысячи.  
-**Translation:** 
+**[3444.36s] English:** Already we have 52 thousand.  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[3446.88s] English:** Мы доказали, что можем.  
+**[3446.88s] English:** We have proven that we can.  
 **Translation:** 
 
-**[3448.08s] English:** Лесорубы рады стать рейнджерами.  
-**Translation:** 
+**[3448.08s] English:** Loggers are happy to become rangers.  
+**Translation:** Vocabulary: loggers: 砍伐工人; rangers: 巡逻员
 
-**[3450.64s] English:** Люди по всему миру стали сторонниками Jungle Keepers.  
+**[3450.64s] English:** People all over the world have become supporters of Jungle Keepers.  
 **Translation:** 
 
-**[3453.72s] English:** Несколько тысяч человек каждый месяц жертвуют нам от 5 долларов до 1000.  
-**Translation:** 
+**[3453.72s] English:** Several thousand people each month donate to us from $5 to $1,000.  
+**Translation:** Vocabulary: donate: 捐款; keepers: 保护者
 
-**[3458.56s] English:** Рейнджеры получают зарплату, местные жители получают работу.  
+**[3458.56s] English:** Rangeiders receive payment, local residents get jobs.  
 **Translation:** 
 
-**[3462.72s] English:** Мы не просто провели линию, сделали парк и сказали, все, держитесь подальше.  
-**Translation:** 
+**[3462.72s] English:** We didn't just draw a line, create a park, and tell everyone to stay away.  
+**Translation:** Vocabulary: rangeiders: 放牧者
 
-**[3466.72s] English:** Там живут на моле и коренные люди.  
+**[3466.72s] English:** There live people on the mole and indigenous people.  
 **Translation:** 
 
-**[3469.72s] English:** У коренных жителей теперь есть будущее, в котором их детям не придется есть обезьян.  
-**Translation:** 
+**[3469.72s] English:** For the indigenous people, now there is a future in which their children won't have to eat monkeys.  
+**Translation:** Vocabulary: indigenous: 土著的
 
-**[3475.72s] English:** Они тоже могут стать рейнджерами.  
+**[3475.72s] English:** They too can become rangers.  
 **Translation:** 
 
-**[3478.08s] English:** Меня критикуют, когда я говорю,  
+**[3478.08s] English:** I am criticized when I say,  
 **Translation:** 
 
-**[3480.00s] English:** приехать посмотреть на джунгли в домике на дерево.  
+**[3480.00s] English:** To come and see the jungles in a treehouse.  
 **Translation:** 
 
-**[3482.80s] English:** Типа, ты приведешь туристов в самое дикое место на Земле?  
-**Translation:** 
+**[3482.80s] English:** Type, are you going to bring tourists to one of the most remote places on Earth?  
+**Translation:** Vocabulary: jungles: 热带丛林; treehouse: 树屋
 
-**[3486.56s] English:** Чувак, глянь на джунгли.  
+**[3486.56s] English:** Guy, check out the jungles.  
 **Translation:** 
 
-**[3488.04s] English:** Там 120 тысяч гектаров, а мы говорим о двух травинках на футбольном поле,  
+**[3488.04s] English:** There are 120 thousand hectares, while we are talking about two blades of grass on a football field.  
 **Translation:** 
 
-**[3493.44s] English:** к которым откроем доступ, чтобы люди могли увидеть сами.  
+**[3493.44s] English:** To which we will grant access so that people can see them.  
 **Translation:** 
 
-**[3497.36s] English:** А это многое поменяет.  
+**[3497.36s] English:** This will change a lot.  
 **Translation:** 
 
-**[3499.20s] English:** Мы можем делиться джунглями с людьми.  
+**[3499.20s] English:** We can share the jungles with humans.  
 **Translation:** 
 
-**[3502.28s] English:** Так много людей послушали.  
+**[3502.28s] English:** So many people have listened.  
 **Translation:** 
 
-**[3504.96s] English:** С того первого раза, как я пришел к тебе на подкаст,  
+**[3504.96s] English:** Since the first time I came to your podcast,  
 **Translation:** 
 
-**[3507.48s] English:** ты внес неоценимый вклад в нашу возможность защитить это место.  
-**Translation:** 
+**[3507.48s] English:** You have made an invaluable contribution to our ability to protect this place.  
+**Translation:** Vocabulary: invaluable: 极其珍贵
 
-**[3514.40s] English:** Защитить коад, ягуаров, гигантских муравьедов и древние тысячелетние деревья.  
+**[3514.40s] English:** Protect koa, jaguars, giant anteaters, and ancient thousand-year-old trees.  
 **Translation:** 
 
-**[3523.50s] English:** Спасибо, Брэй.  
-**Translation:** 
+**[3523.50s] English:** Thank you, Bry.  
+**Translation:** Vocabulary: anteaters: 巨蚁兽; jaguars: 美洲虎
 
-**[3524.62s] English:** Для меня это огромная честь наблюдать за тобой.  
+**[3524.62s] English:** For me, it is an enormous honor to watch you.  
 **Translation:** 
 
-**[3528.88s] English:** Я многим говорю, как я рад, что в мире существуют некоторые люди.  
+**[3528.88s] English:** I tell many people how glad I am that there are some people in the world.  
 **Translation:** 
 
-**[3535.08s] English:** Ты посвятил меня.  
+**[3535.08s] English:** You have initiated me.  
 **Translation:** 
 
-**[3537.48s] English:** И миллионы других в красоту джунглей.  
-**Translation:** 
+**[3537.48s] English:** And millions of others in the beauty of the jungles.  
+**Translation:** Vocabulary: initiated: 引入
 
-**[3541.30s] English:** И в то, насколько важна борьба за их спасение.  
+**[3541.30s] English:** And in how crucial the fight for their salvation is.  
 **Translation:** 
 
-**[3545.42s] English:** Так что, если ты слушаешь подкаст, пожалуйста, пожертвуй средства,  
-**Translation:** 
+**[3545.42s] English:** So, if you're listening to a podcast, please consider making a donation.  
+**Translation:** Vocabulary: crucial: 至关重要; donation: 捐款; salvation: 拯救
 
-**[3550.60s] English:** или поделись с друзьями ссылкой на junglekeepers.org.  
+**[3550.60s] English:** Or share the link to junglekeepers.org with your friends.  
 **Translation:** 
 
-**[3555.70s] English:** А еще ты проводишь галл-ужин в Нью-Йорке в конце января.  
+**[3555.70s] English:** You also host a gal-lunch in New York at the end of January.  
 **Translation:** Vocabulary: junglekeepers: 丛林守护者
 
-**[3559.94s] English:** Если можете, пожалуйста, пожертвуйте средства на спасение джунглей.  
+**[3559.94s] English:** If you can, please donate funds to save the jungles.  
 **Translation:** 
 
-**[3565.16s] English:** Да, пожалуйста.  
-**Translation:** 
+**[3565.16s] English:** Yes, please.  
+**Translation:** Vocabulary: donate: 捐款; jungles: 丛林
 
-**[3567.48s] English:** Эта беседа привела к изначальному всплеску интереса к джунгл-киперс,  
+**[3567.48s] English:** This conversation led to an initial surge of interest in jungle keepers.  
 **Translation:** 
 
-**[3571.10s] English:** а потом, из-за большого роста поддержки, мы смогли расширить деятельность,  
-**Translation:** 
+**[3571.10s] English:** Then, due to a large increase in support, we were able to expand our activities,  
+**Translation:** Vocabulary: keepers: 饲养员
 
-**[3575.92s] English:** защитить больше гектаров.  
+**[3575.92s] English:** Protect more hectares.  
 **Translation:** 
 
-**[3579.26s] English:** Многие крупные и мелкие доноры пришли из-за тебя.  
-**Translation:** 
+**[3579.26s] English:** Many large and small donors came because of you.  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[3583.20s] English:** Они говорят, если Лекс думает, что это хорошая идея, то и мы впишемся.  
+**[3583.20s] English:** They say that if Lex thinks this is a good idea, then we'll be in too.  
 **Translation:** 
 
-**[3588.06s] English:** Они пришли к нам, ведь доверяют тебе.  
+**[3588.06s] English:** They came to us, for they trust you.  
 **Translation:** 
 
-**[3590.20s] English:** Должен сказать, недостаточно говорить и доносить важность спасения тропического леса.  
+**[3590.20s] English:** I should say, it's not enough to just talk and convey the importance of saving the tropical forest.  
 **Translation:** 
 
-**[3597.48s] English:** Большая часть работы проводится...  
+**[3597.48s] English:** Most of the work is conducted....  
 **Translation:** 
 
-**[3600.00s] English:** людьми на местах. Мы говорили, и еще поговорим об опасностях и сложностях, связанных с такой  
+**[3600.00s] English:** By the people on the ground. We talked about, and we will still talk about, the dangers and complexities involved with such matters.  
 **Translation:** 
 
-**[3606.18s] English:** деятельностью. Но одна из причин кроется в том, что я познакомился с твоей командой, и это,  
+**[3606.18s] English:** Activity. But one of the reasons lies in the fact that I got to know your team, and this,  
 **Translation:** 
 
-**[3618.02s] English:** безусловно, очень компетентные люди. Стефан, ты его упоминал. Да, он любит фотографировать,  
+**[3618.02s] English:** Certainly, very competent people. Stephan, you mentioned him. Yes, he loves photography,  
 **Translation:** 
 
-**[3625.26s] English:** но в первую очередь его талант в том, чтобы всем управлять, организовывать работу так,  
-**Translation:** 
+**[3625.26s] English:** But first and foremost, his talent is in managing everyone and organizing work in such a way,  
+**Translation:** Vocabulary: competent: 有能力的; foremost: 首要的是
 
-**[3636.40s] English:** чтобы все получалось максимально быстро и эффективно. Делать все, что требуется для работы в  
+**[3636.40s] English:** To ensure everything happens as quickly and efficiently as possible. Do all that is required for work to proceed.  
 **Translation:** 
 
-**[3646.56s] English:** сложной среде, окружающей джунгли, а зачастую и беззаконии, которая там творится. Команда  
-**Translation:** 
+**[3646.56s] English:** In such a complex environment surrounding the jungles, and often amidst the lawlessness that prevails there, the team operates.  
+**Translation:** Vocabulary: amidst: 在...之中; efficiently: 高效地; jungles: 丛林; lawlessness: 无政府状态; prevails: 盛行
 
-**[3655.24s] English:** у вас невероятная. Когда появляются деньги, как деньги приводят к решению проблемы? Через команду.  
+**[3655.24s] English:** Keep the same language and meaning: You have an incredible idea. When money appears, how do the funds lead to solving the problem? Through the team.  
 **Translation:** 
 
-**[3665.86s] English:** Команда притворяет идеи в жизнь. Я не знал, что есть люди вроде Стефана. Ага, я тоже. Когда я его  
-**Translation:** 
+**[3665.86s] English:** The team turns ideas into reality. I didn't know there were people like Stefan. Agreed, me too. When I met him,...  
+**Translation:** Vocabulary: stefan: 斯蒂芬
 
-**[3672.66s] English:** встретил, он прекрасный, чудесный человек. Я вот, например, могу ловить рыбу с помощью мачете.  
+**[3672.66s] English:** I met a wonderful person. For example, I can catch fish with a machete.  
 **Translation:** 
 
-**[3681.58s] English:** У него есть понимание системы, способность.  
-**Translation:** 
+**[3681.58s] English:** He has an understanding of the system, as well as the ability.  
+**Translation:** Vocabulary: machete: 大砍刀
 
-**[3685.24s] English:** У него пропускная способность размером со страну. У него свой индекс. Джей Джей открыл нам дверь в  
+**[3685.24s] English:** He has a throughput capacity as big as a country. He even has his own index. Jay Jay opened the door for us in  
 **Translation:** 
 
-**[3692.68s] English:** Амазонку, показал нам ее с перспективы местных. Я рассказывал о местности и какие-то истории. Но  
-**Translation:** 
+**[3692.68s] English:** Amazonka, showed us her from the perspective of the locals. I was talking about the area and some stories. But  
+**Translation:** Vocabulary: amazonka: 亚马逊; throughput: 处理能力
 
-**[3698.66s] English:** когда появился Стефан, он сказал нам, ребят, идея у вас хорошая, но вы оба из джунглей. Вы друг  
+**[3698.66s] English:** When Stefan appeared, he told us, guys, that the idea is good, but you both come from jungles. You're different,  
 **Translation:** 
 
-**[3704.80s] English:** другу не помогаете. Он стал управлять системами, создал сайт, обеспечил связь между людьми,  
-**Translation:** 
+**[3704.80s] English:** Do not help your friend. He started managing systems, created a website, and ensured communication between people.  
+**Translation:** Vocabulary: ensured: 保证
 
-**[3710.12s] English:** с программой коренных рейнджеров. Сделал так, чтобы у рейнджеров была одежда и банки,  
+**[3710.12s] English:** With the program for indigenous rangers. I made sure they had clothing and food supplies.  
 **Translation:** 
 
-**[3715.24s] English:** нашел управленца для рейнджеров. Я бы не сделал это сам. Да что там.  
-**Translation:** 
+**[3715.24s] English:** I found a manager for the Rangers. I wouldn't have done it myself. Not to mention.  
+**Translation:** Vocabulary: indigenous: 本地的; rangers: 护林员
 
-**[3720.84s] English:** Я даже кровать не могу заправить.  
+**[3720.84s] English:** I even can't make my bed.  
 **Translation:** 
 
-**[3723.10s] English:** Я даже на это не способен.  
-**Translation:** 
+**[3723.10s] English:** I even cannot do that.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[3725.58s] English:** Пещерный человек хочет рыбу.  
+**[3725.58s] English:** Cave man wants fish.  
 **Translation:** 
 
-**[3727.80s] English:** Хочет рыбу.  
+**[3727.80s] English:** Wants fish.  
 **Translation:** 
 
-**[3729.14s] English:** Одно из моих самых классных впечатлений — наблюдать за тем, как ты ловишь рыбу мачете.  
+**[3729.14s] English:** One of my most awesome impressions is watching you catch fish with a machete.  
 **Translation:** 
 
-**[3736.14s] English:** Ты буквально используешь мачете для ловли.  
+**[3736.14s] English:** You are literally using a machete to catch them.  
 **Translation:** 
 
-**[3739.02s] English:** Это твой талант.  
+**[3739.02s] English:** This is your talent.  
 **Translation:** 
 
-**[3740.46s] English:** А Стефан хорош в остальном.  
+**[3740.46s] English:** Stefan is good in the rest.  
 **Translation:** 
 
-**[3741.86s] English:** Во всем.  
+**[3741.86s] English:** In everything.  
 **Translation:** 
 
-**[3743.40s] English:** Реклама — самый интересный человек в мире.  
+**[3743.40s] English:** Advertising is the most interesting person in the world.  
 **Translation:** 
 
-**[3746.02s] English:** Он в неловком положении, чтобы понять, каковы ты.  
+**[3746.02s] English:** He is in an awkward position to understand who you are.  
 **Translation:** 
 
-**[3748.34s] English:** У Стефана нет списка дел, он уже все сделал.  
+**[3748.34s] English:** Keep Stefan's to-do list empty; he's already done everything.  
 **Translation:** 
 
-**[3753.02s] English:** Он просто удивительный человек.  
+**[3753.02s] English:** He is simply an amazing person.  
 **Translation:** 
 
-**[3755.34s] English:** Перерыв на туалет.  
-**Translation:** 
+**[3755.34s] English:** Break for restroom.  
+**Translation:** Vocabulary: restroom: 洗手间
 
-**[3756.90s] English:** О, точно.  
+**[3756.90s] English:** Oh, exactly.  
 **Translation:** 
 
-**[3758.02s] English:** Я очень о том рад.  
+**[3758.02s] English:** I am very happy about that.  
 **Translation:** 
 
-**[3760.56s] English:** Мы вернулись.  
+**[3760.56s] English:** We returned.  
 **Translation:** 
 
-**[3762.70s] English:** Я вот что забыл спросить.  
+**[3762.70s] English:** I forgot to ask one thing.  
 **Translation:** 
 
-**[3765.40s] English:** Про рацион неконтактных племен.  
+**[3765.40s] English:** About the diet of non-contact tribes.  
 **Translation:** 
 
-**[3767.78s] English:** Ты упоминал потенциально обезьян и черепашьи яйца?  
-**Translation:** 
+**[3767.78s] English:** You mentioned potentially monkeys and turtle eggs?  
+**Translation:** Vocabulary: tribes: 部落
 
-**[3773.08s] English:** Да.  
+**[3773.08s] English:** Yes.  
 **Translation:** 
 
-**[3773.58s] English:** Что мы знаем об их рационе, источнике белка?  
+**[3773.58s] English:** What do we know about their diet, protein source?  
 **Translation:** 
 
-**[3776.88s] English:** Они едят обезьян?  
+**[3776.88s] English:** They eat monkeys?  
 **Translation:** 
 
-**[3779.04s] English:** О, да.  
+**[3779.04s] English:** Oh, yes.  
 **Translation:** 
 
-**[3779.68s] English:** Скажем так, их основные источники пищи — обезьяны, черепахи, черепашьи яйца и мелкая дичь типа пака большого грызуна размером с бигля.  
+**[3779.68s] English:** Let's say their main food sources are monkeys, turtles, turtle eggs, and small game like pacas, which are large rodents about the size of a fox.  
 **Translation:** 
 
-**[3790.48s] English:** Капибары, что можно подстрелить.  
-**Translation:** 
+**[3790.48s] English:** Capibaras: What can be hunted.  
+**Translation:** Vocabulary: capibaras: 水豚; hunted: 猎取; pacas: 猪鼠属动物
 
-**[3792.44s] English:** Они не особо рыбачат.  
+**[3792.44s] English:** They don't fish much.  
 **Translation:** 
 
-**[3794.08s] English:** Мы это все знаем, потому что наши коренные трекеры и рейнджеры находят их лагеря.  
-**Translation:** 
+**[3794.08s] English:** We know all of this because our native trackers and rangers find their camps.  
+**Translation:** Vocabulary: trackers: 追踪者
 
-**[3801.20s] English:** Маленькие соломенные структуры, которые ставят на берега.  
+**[3801.20s] English:** Small straw structures that are placed on the shores.  
 **Translation:** 
 
-**[3805.56s] English:** И там остается только лагерь.  
+**[3805.56s] English:** There is only a camp left there.  
 **Translation:** 
 
-**[3806.50s] English:** И там остается только лагерь.  
+**[3806.50s] English:** There is only a camp left there.  
 **Translation:** 
 
-**[3806.76s] English:** И там остается только лагерь.  
+**[3806.76s] English:** There is only a camp left there.  
 **Translation:** 
 
-**[3806.88s] English:** кости. Кости, тапиры, панцири черепах, они, похоже, самое близкое, что у них есть к миске. В день,  
+**[3806.88s] English:** Bones, tapirs, turtle shells—they seem to be the closest they have to a bowl. In a day,  
 **Translation:** 
 
-**[3814.70s] English:** когда мы с ними встретились, они нашли миску. Мы видели, как они уходили с ней с одной из  
+**[3814.70s] English:** When we met them, they found a bowl. We saw them leave with it and one of  
 **Translation:** 
 
-**[3820.50s] English:** ферм, и несколько дней спустя мы нашли ее разбитой. Похоже, они не нашли в ней особой  
+**[3820.50s] English:** Farms, and several days later we found it broken. It seems they did not find it particularly valuable.  
 **Translation:** 
 
-**[3826.14s] English:** пользы. Как временный инструмент. Ага. Убивают, разводят костер,  
+**[3826.14s] English:** No benefit. As a temporary tool. Agreed. They kill, start a fire,  
 **Translation:** 
 
-**[3832.44s] English:** должно быть мастерски. Не знаю, как у них это получается. Это сложно, потому что все влажное.  
+**[3832.44s] English:** It should be masterfully done. I don't know how they manage to pull it off. It's difficult because everything is wet.  
 **Translation:** 
 
-**[3838.56s] English:** Не знаю как.  
-**Translation:** 
+**[3838.56s] English:** I don't know how.  
+**Translation:** Vocabulary: masterfully: 技艺高超地
 
-**[3840.00s] English:** А я очень хорошо развожу огонь.  
+**[3840.00s] English:** I can light a fire very well.  
 **Translation:** 
 
-**[3842.42s] English:** В джунглях тяжко.  
-**Translation:** 
+**[3842.42s] English:** It's hard in the jungles.  
+**Translation:** Vocabulary: jungles: 丛林
 
-**[3843.80s] English:** Большую часть года это почти невозможно, потому что все промокает насквозь.  
+**[3843.80s] English:** Most of the year, this is almost impossible because everything gets soaked through.  
 **Translation:** 
 
-**[3849.54s] English:** Думаешь, они готовят мясо?  
-**Translation:** 
+**[3849.54s] English:** Do you think they are preparing meat?  
+**Translation:** Vocabulary: soaked: 湿透了
 
-**[3851.90s] English:** Наверняка готовят, хотя бы из-за паразитов и прочего.  
+**[3851.90s] English:** Certainly prepare, at least for parasites and other issues.  
 **Translation:** 
 
-**[3856.16s] English:** Мы знаем, что они его готовят, у нас есть тому доказательство.  
-**Translation:** 
+**[3856.16s] English:** We know that they are preparing it, we have evidence for it.  
+**Translation:** Vocabulary: parasites: 寄生虫
 
-**[3859.66s] English:** Там ведь не так много ягод.  
+**[3859.66s] English:** There aren't that many berries there.  
 **Translation:** 
 
-**[3862.18s] English:** До ягод, орехов и фруктов первыми добираются обезьяны, птицы и летучие мыши.  
-**Translation:** 
+**[3862.18s] English:** Until berries, nuts, and fruits are gathered, monkeys, birds, and bats get there first.  
+**Translation:** Vocabulary: berries: 浆果
 
-**[3867.90s] English:** Такова же функция фруктов.  
+**[3867.90s] English:** Such is the function of fruits.  
 **Translation:** 
 
-**[3870.00s] English:** Помидор зеленый, пока его семена не созрели.  
-**Translation:** 
+**[3870.00s] English:** A tomato is green until its seeds mature.  
+**Translation:** Vocabulary: mature: 成熟
 
-**[3872.32s] English:** Потом он краснеет, как бы декларируя «Съешь меня».  
+**[3872.32s] English:** Then he turns red, as if declaring "Eat me.  
 **Translation:** 
 
-**[3876.56s] English:** Ты ешь, и кишечник переносит его.  
-**Translation:** 
+**[3876.56s] English:** You eat, and the intestines transport it.  
+**Translation:** Vocabulary: intestines: 肠道
 
-**[3879.12s] English:** Семенам достался бесплатный транспорт.  
+**[3879.12s] English:** Semen received a free transport pass.  
 **Translation:** 
 
-**[3881.20s] English:** В джунглях это происходит так быстро, что и оглянуться не успеешь.  
+**[3881.20s] English:** In the jungles, this happens so quickly, you don't have time to look around.  
 **Translation:** 
 
-**[3885.44s] English:** В книге есть фотография местной девочки в Лос-Пьедрос.  
+**[3885.44s] English:** In the book, there is a photograph of a local girl in Los Píedros.  
 **Translation:** 
 
-**[3890.20s] English:** Она ест обезьяну на обед.  
+**[3890.20s] English:** She eats a monkey for lunch.  
 **Translation:** 
 
-**[3893.06s] English:** Да.  
+**[3893.06s] English:** Yes.  
 **Translation:** 
 
-**[3896.30s] English:** Выглядит довольно странно.  
+**[3896.30s] English:** It looks rather strange.  
 **Translation:** 
 
-**[3898.68s] English:** Поедание обезьян на...  
+**[3898.68s] English:** Eating monkeys in...  
 **Translation:** 
 
-**[3899.90s] English:** В части воспринимается как...  
-**Translation:** 
+**[3899.90s] English:** In part, it is perceived as...  
+**Translation:** Vocabulary: perceived: 被感知的
 
-**[3902.36s] English:** Как каннибализм, потому что они выглядят как маленькие люди.  
+**[3902.36s] English:** As if cannibalism, because they look like small people.  
 **Translation:** 
 
-**[3908.42s] English:** Не знаю, что в обезьянах такого.  
-**Translation:** 
+**[3908.42s] English:** I don't know what it is in monkeys.  
+**Translation:** Vocabulary: cannibalism: 食人行为
 
-**[3912.14s] English:** В них есть человеческий элемент.  
+**[3912.14s] English:** In them, there is a human element.  
 **Translation:** 
 
-**[3914.30s] English:** Он читается в их глазах,  
+**[3914.30s] English:** He is read in their eyes,  
 **Translation:** 
 
-**[3917.28s] English:** в теле,  
+**[3917.28s] English:** In the body,  
 **Translation:** 
 
-**[3918.48s] English:** и в теплоте, с которой они общаются.  
+**[3918.48s] English:** And in the warmth with which they communicate.  
 **Translation:** 
 
-**[3922.42s] English:** Да, за ней присматривал, и ей было шесть.  
+**[3922.42s] English:** Yes, I kept an eye on her, and she was six years old.  
 **Translation:** 
 
-**[3926.12s] English:** Дайра, ее родители ушли.  
+**[3926.12s] English:** Daira, her parents have gone.  
 **Translation:** 
 
-**[3927.92s] English:** А мы остались в лагере.  
+**[3927.92s] English:** We stayed in the camp.  
 **Translation:** 
 
-**[3930.84s] English:** Они сказали, смотри, чтобы ее ничто не съела.  
+**[3930.84s] English:** They said, "Watch out; make sure nothing eats her.  
 **Translation:** 
 
-**[3933.54s] English:** Конечно.  
+**[3933.54s] English:** Of course.  
 **Translation:** 
 
-**[3934.30s] English:** Она сказала, что хочет пообедать.  
+**[3934.30s] English:** She said that she wants to have lunch.  
 **Translation:** 
 
-**[3936.14s] English:** Я спросил, что у них есть.  
+**[3936.14s] English:** I asked what they had.  
 **Translation:** 
 
-**[3937.48s] English:** И тут она достает обезьяню голову и говорит,  
-**Translation:** 
+**[3937.48s] English:** Here she retrieves the monkey's head and says,  
+**Translation:** Vocabulary: retrieves: 取出
 
-**[3939.78s] English:** «Ну вот».  
+**[3939.78s] English:** Nu voit.  
 **Translation:** 
 
-**[3940.72s] English:** И пытается откусить ухо.  
+**[3940.72s] English:** He tries to bite off an ear.  
 **Translation:** 
 
-**[3943.88s] English:** Потом она говорит, «Не могу оторвать, можешь помочь?»  
+**[3943.88s] English:** Then she says, "I can't tear myself away, can you help?  
 **Translation:** 
 
-**[3946.88s] English:** Я оторвал ухо зубами, отдал ей, и мы передавали друг другу эту обезьяню голову.  
+**[3946.88s] English:** I tore off an ear with my teeth, gave it to her, and we passed the monkey's head back and forth between us.  
 **Translation:** 
 
-**[3951.62s] English:** Пока она кушала, я сделал фото и снял видео, на котором спрашиваю,  
+**[3951.62s] English:** While she was eating, I took a photo and recorded a video in which I ask,  
 **Translation:** 
 
-**[3955.16s] English:** «Какая твоя любимая еда?»  
+**[3955.16s] English:** What is your favorite food?  
 **Translation:** 
 
-**[3956.82s] English:** Она, «Обезьяна».  
+**[3956.82s] English:** She is "Monkey.  
 **Translation:** 
 
-**[3957.92s] English:** Я говорю, «Не торт?»  
+**[3957.92s] English:** I say, "Not a cake?  
 **Translation:** 
 
-**[3959.90s] English:** Я говорю, «Не торт?»  
+**[3959.90s] English:** I say, "Not a cake?  
 **Translation:** 
 
-**[3960.00s] English:** А она — обезьяны.  
+**[3960.00s] English:** She is — an ape.  
 **Translation:** 
 
-**[3962.48s] English:** Она кусала ее губами, ты прав.  
+**[3962.48s] English:** She bit her lips, you're right.  
 **Translation:** 
 
-**[3964.80s] English:** Видны зубы и глаза.  
+**[3964.80s] English:** Visible are teeth and eyes.  
 **Translation:** 
 
-**[3966.32s] English:** Морда зажарена застывшей агонией.  
+**[3966.32s] English:** The face was frozen in a grilled agony.  
 **Translation:** 
 
-**[3969.92s] English:** Как замученный человек, и она наслаждалась.  
+**[3969.92s] English:** As a worn-out person, and she enjoyed it.  
 **Translation:** 
 
-**[3972.40s] English:** Дай-ка поищу в Перплексите,  
+**[3972.40s] English:** Do let me search in Perplexity!  
 **Translation:** 
 
-**[3975.94s] English:** сколько людей в мире едят обезьян.  
-**Translation:** 
+**[3975.94s] English:** How many people in the world eat monkeys.  
+**Translation:** Vocabulary: perplexity: 困惑
 
-**[3982.04s] English:** А это вкусно?  
+**[3982.04s] English:** Is this tasty?  
 **Translation:** 
 
-**[3983.86s] English:** Если приготовить правильно, было бы вкусно,  
+**[3983.86s] English:** If prepared correctly, it would be tasty.  
 **Translation:** 
 
-**[3986.30s] English:** но они бросают их в огонь и едят.  
+**[3986.30s] English:** They throw them into the fire and eat them.  
 **Translation:** 
 
-**[3988.44s] English:** Возьми отличную курицу и брось в костер, вряд ли классно получится.  
+**[3988.44s] English:** Take an excellent chicken and throw it in the fire; it's unlikely to turn out well.  
 **Translation:** 
 
-**[3993.94s] English:** Нет надежного источника данных о том, сколько людей в мире едят обезьян,  
+**[3993.94s] English:** There is no reliable source of data on how many people in the world eat monkeys.  
 **Translation:** 
 
-**[3998.16s] English:** но согласно доступным данным,  
+**[3998.16s] English:** According to available data,  
 **Translation:** 
 
-**[4000.24s] English:** миллионы людей регулярно или от случая к случаю  
+**[4000.24s] English:** Millions of people regularly or occasionally.  
 **Translation:** 
 
-**[4003.02s] English:** употребляют мясо диких приматов,  
-**Translation:** 
+**[4003.02s] English:** They use meat from wild primates.  
+**Translation:** Vocabulary: primates: 猿猴
 
-**[4006.06s] English:** особенно в некоторых частях Африки, Латинской Америки и Азии.  
+**[4006.06s] English:** Especially in some parts of Africa, Latin America, and Asia.  
 **Translation:** 
 
-**[4009.50s] English:** Она и правда выглядит так, как будто ее любимая еда — обезьяна.  
+**[4009.50s] English:** She really does look like her favorite food is a monkey.  
 **Translation:** 
 
-**[4013.44s] English:** Да, мы круто провели время.  
+**[4013.44s] English:** Yes, we had a great time.  
 **Translation:** 
 
-**[4014.98s] English:** Не нам судить.  
+**[4014.98s] English:** It is not for us to judge.  
 **Translation:** 
 
-**[4016.82s] English:** Именно.  
+**[4016.82s] English:** Exactly.  
 **Translation:** 
 
-**[4017.22s] English:** Бутерброд с тунцом, обезьяна — какая разница?  
+**[4017.22s] English:** A tuna sandwich, a monkey—what's the difference?  
 **Translation:** 
 
-**[4022.86s] English:** Ей нравится.  
+**[4022.86s] English:** She likes it.  
 **Translation:** 
 
-**[4023.92s] English:** Круто.  
+**[4023.92s] English:** Cool.  
 **Translation:** 
 
-**[4024.42s] English:** Классная фотка.  
+**[4024.42s] English:** Classica photo.  
 **Translation:** 
 
-**[4025.42s] English:** Она милашка.  
-**Translation:** 
+**[4025.42s] English:** She is a cutie.  
+**Translation:** Vocabulary: classica: 经典; cutie: 可爱
 
-**[4026.42s] English:** Да.  
+**[4026.42s] English:** Yes.  
 **Translation:** 
 
-**[4028.22s] English:** Прошло время, если оглянуться назад  
+**[4028.22s] English:** Time has passed, if we look back.  
 **Translation:** 
 
-**[4032.22s] English:** на ту историческую встречу с неконтактным племенем,  
+**[4032.22s] English:** At that historical meeting with the non-contact tribe,  
 **Translation:** 
 
-**[4035.72s] English:** о чем ты думаешь?  
+**[4035.72s] English:** What are you thinking about?  
 **Translation:** 
 
-**[4037.72s] English:** Что тебя зацепило?  
+**[4037.72s] English:** What struck you?  
 **Translation:** 
 
-**[4039.72s] English:** Честно, я еще не перевариваю.  
+**[4039.72s] English:** Honestly, I haven't processed it yet.  
 **Translation:** 
 
-**[4041.22s] English:** Ловлю себя на том, что смотрю в никуда, вспоминаю или пересматриваю кадры.  
+**[4041.22s] English:** I find myself looking into nowhere, recalling or rewatching scenes.  
 **Translation:** 
 
-**[4047.22s] English:** Почему?  
-**Translation:** 
+**[4047.22s] English:** Why?  
+**Translation:** Vocabulary: recalling: 回忆; rewatching: 重看
 
-**[4049.02s] English:** Ощущение, будто джунгли с тобой заговорили.  
+**[4049.02s] English:** It feels as though the jungles are speaking to you.  
 **Translation:** 
 
-**[4054.02s] English:** Эти люди...  
-**Translation:** 
+**[4054.02s] English:** These people...  
+**Translation:** Vocabulary: jungles: 热带雨林
 
-**[4056.22s] English:** Мы разделяем людей и природу, говорим.  
+**[4056.22s] English:** We separate people from nature when we speak.  
 **Translation:** 
 
-**[4059.82s] English:** Нам нужно защитить природу.  
+**[4059.82s] English:** We need to protect the environment.  
 **Translation:** 
 
-**[4063.22s] English:** Как будто рыба объясняет рыбе, что такое вода.  
+**[4063.22s] English:** It's as if a fish explains to another fish what water is.  
 **Translation:** 
 
-**[4066.22s] English:** Мы — часть природы, зависим от нее.  
+**[4066.22s] English:** We are part of nature, dependent on it.  
 **Translation:** 
 
-**[4068.22s] English:** А эти люди зависят от нее на все 100%.  
+**[4068.22s] English:** These people depend on her for 100% of their needs.  
 **Translation:** 
 
-**[4070.22s] English:** Мы сидим тут, окруженные технологиями, бетоном, цивилизацией...  
+**[4070.22s] English:** We sit here surrounded by technologies, concrete, civilization,...  
 **Translation:** 
 
-**[4075.22s] English:** Они живут там прямо сейчас.  
+**[4075.22s] English:** They are living there right now.  
 **Translation:** 
 
-**[4080.76s] English:** Мы пытались защитить их дома даже, не зная толком, что они там живут, потому что они неуловимы.  
+**[4080.76s] English:** We tried to protect their homes even though we didn't really know what they lived in there because they are intangible.  
 **Translation:** 
 
-**[4089.00s] English:** Это дарит понимание, откуда мы пришли и что для этого потребовалось.  
+**[4089.00s] English:** This gives us an understanding of where we came from and what it took.  
 **Translation:** 
 
-**[4094.38s] English:** Я наблюдаю за самыми простыми вещами.  
+**[4094.38s] English:** I observe the simplest things.  
 **Translation:** 
 
-**[4097.58s] English:** Вот садишься в самолет, делаешь фотку и думаешь, это же чудо.  
+**[4097.58s] English:** Here you sit on a plane, take a photo, and think, this is a wonder.  
 **Translation:** 
 
-**[4102.24s] English:** После того, как ты с ними пообщался, появляется понимание.  
+**[4102.24s] English:** After you talk to them, there is an understanding.  
 **Translation:** 
 
-**[4105.74s] English:** А что вообще нужно, чтобы вот ручку сделать?  
+**[4105.74s] English:** What exactly is needed to make a pen?  
 **Translation:** 
 
-**[4112.94s] English:** Мы с тобой стоим в джунглях, и нам кто-то говорит, сделайте ручку.  
+**[4112.94s] English:** We are standing in the jungles, and someone tells us to make a pen.  
 **Translation:** 
 
-**[4117.06s] English:** Сколько лет пройдет, прежде чем мы поймем, как?  
+**[4117.06s] English:** How many years will it take before we understand how?  
 **Translation:** 
 
-**[4120.10s] English:** Сколько нужно каучуковых деревьев, где взять металл, чем красить, как сделать пружинный механизм, как вообще заставить ее работать?  
+**[4120.10s] English:** How many rubber trees are needed, where to get the metal, what to paint it with, how to make the spring mechanism, and how to make it work at all?  
 **Translation:** 
 
-**[4127.56s] English:** Я понятия не имею.  
+**[4127.56s] English:** I have no idea.  
 **Translation:** 
 
-**[4129.14s] English:** Они располагают только базовыми вещами.  
+**[4129.14s] English:** They have only basic things.  
 **Translation:** 
 
-**[4131.68s] English:** Это хорошая точка отсчета для понимания.  
+**[4131.68s] English:** This is a good starting point for understanding.  
 **Translation:** 
 
-**[4136.62s] English:** Нашего привилегированного положения.  
-**Translation:** 
+**[4136.62s] English:** Of our privileged position.  
+**Translation:** Vocabulary: privileged: 享有特权的
 
-**[4140.70s] English:** У нас есть письменность, разные виды текста, код, язык, музыка.  
+**[4140.70s] English:** We have writing, different types of text, code, language, and music.  
 **Translation:** 
 
-**[4145.92s] English:** У нас множество способов взаимодействия.  
+**[4145.92s] English:** We have numerous ways of interaction.  
 **Translation:** 
 
-**[4149.32s] English:** А у них только устная речь.  
+**[4149.32s] English:** They have only spoken language.  
 **Translation:** 
 
-**[4153.66s] English:** Устная традиция, и все.  
+**[4153.66s] English:** Oral tradition, and that's it.  
 **Translation:** 
 
-**[4156.24s] English:** Они живут точно так же, как жили наши далекие, далекие предки.  
+**[4156.24s] English:** They live just as our distant, distant ancestors did.  
 **Translation:** 
 
-**[4164.78s] English:** Но...  
+**[4164.78s] English:** But...  
 **Translation:** 
 
-**[4165.30s] English:** Это...  
+**[4165.30s] English:** This...  
 **Translation:** 
 
-**[4165.50s] English:** Это...  
+**[4165.50s] English:** This...  
 **Translation:** 
 
-**[4165.54s] English:** Это...  
+**[4165.54s] English:** This...  
 **Translation:** 
 
-**[4165.56s] English:** Это...  
+**[4165.56s] English:** This...  
 **Translation:** 
 
-**[4165.58s] English:** Это...  
+**[4165.58s] English:** This...  
 **Translation:** 
 
-**[4165.60s] English:** Это...  
+**[4165.60s] English:** This...  
 **Translation:** 
 
-**[4165.62s] English:** Это...  
+**[4165.62s] English:** This...  
 **Translation:** 
 
-**[4165.64s] English:** Это...  
+**[4165.64s] English:** This...  
 **Translation:** 
 
-**[4165.66s] English:** Это...  
+**[4165.66s] English:** This...  
 **Translation:** 
 
-**[4165.68s] English:** Это...  
+**[4165.68s] English:** This...  
 **Translation:** 
 
-**[4165.70s] English:** Это...  
+**[4165.70s] English:** This...  
 **Translation:** 
 
-**[4165.72s] English:** Это...  
+**[4165.72s] English:** This...  
 **Translation:** 
 
-**[4165.74s] English:** Это все в наше время.  
+**[4165.74s] English:** This is all in our time.  
 **Translation:** 
 
-**[4168.08s] English:** Я возвращаюсь в мир, и он движется очень быстро.  
+**[4168.08s] English:** I return to the world, and it moves very quickly.  
 **Translation:** 
 
-**[4171.36s] English:** А я все еще думаю о том, можно ли нам выпить из какой-то лужи или нет.  
+**[4171.36s] English:** I am still thinking whether we can drink from some puddle or not.  
 **Translation:** 
 
-**[4181.06s] English:** Да, вот о чем я думаю.  
+**[4181.06s] English:** Yes, that's what I'm thinking about.  
+**Translation:** Vocabulary: puddle: 小水坑
+
+**[4182.46s] English:** Main Questions of Life.  
 **Translation:** 
 
-**[4182.46s] English:** Главные вопросы жизни.  
+**[4184.14s] English:** Main Questions.  
 **Translation:** 
 
-**[4184.14s] English:** Главные вопросы.  
+**[4185.50s] English:** You're right.  
 **Translation:** 
 
-**[4185.50s] English:** Ты прав.  
+**[4186.66s] English:** From the perspective of the non-contact tribe, everything changes.  
 **Translation:** 
 
-**[4186.66s] English:** С точки зрения неконтактного племени все меняется.  
+**[4191.02s] English:** From the technological world, you enter the jungles,  
 **Translation:** 
 
-**[4191.02s] English:** Из технологического мира приходишь в джунгли,  
+**[4195.02s] English:** You cannot live in the jungles.  
 **Translation:** 
 
-**[4195.02s] English:** и ты не можешь жить в джунгли.  
+**[4195.58s] English:** I'm Mediatrin.  
 **Translation:** 
+
+**[4200.00s] English:** Of the jungles, of nature, but from their perspective, the technological world is also majestic and magical.  
+**Translation:** Vocabulary: jungles: 热带雨林; majestic: 宏伟的
 
-**[4195.58s] English:** Я Mediatrin.  
+**[4206.96s] English:** All the same, in the body.  
 **Translation:** 
 
-**[4206.96s] English:** Все-таки, в теле.  
-**Translation:** Vocabulary: mediatrin: 媒介人
+**[4207.52s] English:** I also, Southeast Saints.  
+**Translation:** 
 
-**[4207.52s] English:** Я тоже, Southeast Saints.  
+**[4209.02s] English:** The world created by humans, with pens, computers, and light bulbs, is also a wonder.  
 **Translation:** 
 
-**[4209.22s] English:** Я kunne nichts teach you.  
-**Translation:** Vocabulary: nichts: 没有东西
+**[4209.22s] English:** I could teach you nothing.  
+**Translation:** 
 
-**[4210.56s] English:** Только знала, что вас совершенно не придает.  
+**[4210.56s] English:** Only I knew that being with you doesn't add anything at all.  
 **Translation:** 
 
-**[4216.10s] English:** Если ты любишь, то тебя не будут Straße.  
+**[4216.10s] English:** If you love, then you will not be Straße.  
 **Translation:** 
 
-**[4217.64s] English:** Сознай why the fuck you doing that.  
+**[4217.64s] English:** Conscious of why the fuck you are doing that.  
 **Translation:** 
+
+**[4218.84s] English:** Sometimes we underestimate both sides, and the magic of technologies, all wonderful achievements of humanity, and the magic of nature.  
+**Translation:** Vocabulary: underestimate: 低估
 
-**[4219.12s] English:** I don't want to know the consequences, cause' of you want my quick killin'.  
+**[4219.12s] English:** I don't want to know the consequences because if you want my quick killing.  
 **Translation:** 
 
 **[4222.48s] English:** You thought the Vader killed him.  
-**Translation:** 
-
-**[4223.90s] English:** Oh God.  
-**Translation:** 
-
-**[4200.00s] English:** самих джунглей, природы, но с их точки зрения, технологический мир тоже величественный и волшебный.  
-**Translation:** 
-
-**[4209.02s] English:** Созданный человеком мир ручек, компьютеров и лампочек тоже чудо.  
-**Translation:** 
+**Translation:** Vocabulary: vader: Vader
 
-**[4218.84s] English:** Иногда мы недооцениваем обе стороны, и магию технологий, все прекрасные достижения человечества, и волшебство природы.  
+**[4223.90s] English:** Oh, God.  
 **Translation:** 
 
-**[4234.44s] English:** Думаю, мы с тобой и люди, которые проводят много времени в дикой местности,  
-**Translation:** 
+**[4234.44s] English:** I think we and people who spend a lot of time in wilderness areas,  
+**Translation:** Vocabulary: wilderness: 荒野
 
-**[4241.00s] English:** особенно в таких удаленных первобытных местах, как западная Амазонка,  
+**[4241.00s] English:** Especially in such remote primitive areas as western Amazonia,  
 **Translation:** 
 
-**[4247.46s] English:** все видят иначе.  
-**Translation:** 
+**[4247.46s] English:** People see it differently.  
+**Translation:** Vocabulary: amazonia: 亚马逊地区
 
-**[4248.84s] English:** Если ты родился в современном мире,  
+**[4248.84s] English:** If you were born in the modern world,  
 **Translation:** 
 
-**[4252.60s] English:** то не всегда понимаешь, как далеко мы зашли.  
+**[4252.60s] English:** You don't always understand how far we have gone.  
 **Translation:** 
 
-**[4256.84s] English:** Ты сел в поезд, проверил телефон, созвонился с мамой по видео, все это обыденно.  
+**[4256.84s] English:** You got on the train, checked your phone, had a video call with your mom, and found it all ordinary.  
 **Translation:** 
 
-**[4263.74s] English:** А ведь мы научились брать что-то из земли,  
+**[4263.74s] English:** Sure, here is the improved sentence with natural English punctuation and capitalization: "Indeed, we have learned to take something from the earth,  
 **Translation:** 
 
-**[4267.04s] English:** смешивать и создавать волшебные устройства, которые способны на что угодно.  
+**[4267.04s] English:** Mixing and creating magical devices that are capable of anything.  
 **Translation:** 
 
-**[4272.34s] English:** С ума можно сойти.  
+**[4272.34s] English:** It's enough to drive a person crazy.  
 **Translation:** 
 
-**[4273.94s] English:** Очень оптимистично.  
+**[4273.94s] English:** Very optimistically.  
 **Translation:** 
 
-**[4274.84s] English:** Мне очень понравилось, как ты написал в книге,  
-**Translation:** 
+**[4274.84s] English:** It really pleased me how you wrote in the book,  
+**Translation:** Vocabulary: optimistically: 乐观地
 
-**[4278.40s] English:** в начале кажется,  
+**[4278.40s] English:** At the beginning, it seems,  
 **Translation:** 
 
-**[4279.40s] English:** учитывая всю смерть и разрушение, что я наблюдал,  
-**Translation:** 
+**[4279.40s] English:** Considering all the death and destruction I have witnessed,  
+**Translation:** Vocabulary: witnessed: 目睹
 
-**[4282.40s] English:** легко было бы поддаться популярному мнению, что люди  
+**[4282.40s] English:** It would be easy to fall into the popular opinion that people  
 **Translation:** 
 
-**[4286.40s] English:** чума на лице земли,  
+**[4286.40s] English:** Chума на лице земли,  
 **Translation:** 
 
-**[4289.40s] English:** и уже ничего не изменить.  
+**[4289.40s] English:** And already nothing can be changed.  
 **Translation:** 
 
-**[4291.40s] English:** Но мой путь по защите природы дал мне возможность увидеть другую сторону.  
+**[4291.40s] English:** But my path in protecting nature gave me the opportunity to see another side.  
 **Translation:** 
 
-**[4296.40s] English:** Я встречал людей, которые раз за разом доказывают, что изменения возможны.  
+**[4296.40s] English:** I have met people who time and again prove that changes are possible.  
 **Translation:** 
 
-**[4301.40s] English:** Я говорю о настоящих героях,  
+**[4301.40s] English:** I am talking about real heroes,  
 **Translation:** 
 
-**[4303.40s] English:** людях, посвятивших жизни скуплению зла,  
+**[4303.40s] English:** For those who devoted their lives to collecting evil,  
 **Translation:** 
 
-**[4306.40s] English:** на которое способна человеческая сила.  
-**Translation:** 
+**[4306.40s] English:** To which human strength is capable.  
+**Translation:** Vocabulary: devoted: 献身的
 
-**[4307.40s] English:** Людях, блюдящих светоч посреди бури,  
+**[4307.40s] English:** People, keeping a light in the storm,  
 **Translation:** 
 
-**[4312.40s] English:** каждый день доказывающих то, что многие забыли,  
+**[4312.40s] English:** Each day proving what many have forgotten,  
 **Translation:** 
 
-**[4316.40s] English:** надежда еще теплится.  
+**[4316.40s] English:** Hope still flickers.  
 **Translation:** 
 
-**[4318.40s] English:** Ты выступаешь  
-**Translation:** 
+**[4318.40s] English:** You are performing.  
+**Translation:** Vocabulary: flickers: 微弱闪动
 
-**[4320.00s] English:** Против цинизма и апатии, а также против той идеи, что люди — это сила разрушения.  
+**[4320.00s] English:** Against cynicism and apathy, as well as the idea that people are a force of destruction.  
 **Translation:** 
 
-**[4330.54s] English:** Говоришь, что люди со всеми своими технологиями на самом деле способны творить добро.  
-**Translation:** 
+**[4330.54s] English:** You say that people with all their technologies are actually capable of doing good.  
+**Translation:** Vocabulary: apathy: 冷漠; cynicism: 悲观
 
-**[4339.00s] English:** Я записал цитату великой Джейн Гудл «Величайшая опасность для нашего будущего — апатия».  
+**[4339.00s] English:** I recorded a quote by the great Jane Goodall: "The greatest danger to our future is apathy.  
 **Translation:** 
 
-**[4348.06s] English:** Забота о мире, вера в него, надежда на лучшее — единственный способ повлиять на мир и спасти его.  
-**Translation:** 
+**[4348.06s] English:** Caring about the world, believing in it, hoping for the best — the only way to influence it and save it.  
+**Translation:** Vocabulary: caring: 关心
 
-**[4359.82s] English:** К слову, я обязан спросить тебя о Джейн.  
+**[4359.82s] English:** By the way, I must ask you about Jane.  
 **Translation:** 
 
-**[4362.30s] English:** Она умерла 1 октября.  
+**[4362.30s] English:** She died on October 1.  
 **Translation:** 
 
-**[4365.24s] English:** Бывает, цивилизации порождают таких людей, которые открывают нам глаза на красоту мира, и она — одна из лучших.  
+**[4365.24s] English:** It happens that civilizations produce individuals who open our eyes to the beauty of the world, and she is one of the best.  
 **Translation:** 
 
-**[4375.10s] English:** Джейн повлияла и на твою жизнь.  
-**Translation:** 
+**[4375.10s] English:** Jane has influenced your life as well.  
+**Translation:** Vocabulary: civilizations: 文明
 
-**[4378.06s] English:** Расскажешь мне о ее влиянии?  
+**[4378.06s] English:** Tell me about its influence?  
 **Translation:** 
 
-**[4383.06s] English:** У меня дислексия, и я долго не умел читать.  
-**Translation:** 
+**[4383.06s] English:** I have dyslexia, and I struggled with reading for a long time.  
+**Translation:** Vocabulary: dyslexia: 阅读障碍; struggled: 挣扎
 
-**[4390.26s] English:** Родители нам читали каждый вечер, это было круто, учитывая, как много они работали.  
+**[4390.26s] English:** Parents read to us every evening, which was great considering how much they worked.  
 **Translation:** 
 
-**[4396.04s] English:** Но они выделяли час на чтение каждый вечер, будь то «Властелин колец», «Шерлок Холмс» или «Джейн Гудл».  
-**Translation:** 
+**[4396.04s] English:** But they set aside an hour each evening for reading, whether it was "The Lord of the Rings," "Sherlock Holmes," or "Jane Goodall.  
+**Translation:** Vocabulary: goodall: 珍·古道尔; holmes: 福尔摩斯; sherlock: 夏洛克
 
-**[4402.98s] English:** Ярос воспринимает Джейн как центральную фигуру защиты природы, приключений.  
+**[4402.98s] English:** Yaros perceives Jane as the central figure in nature protection and adventure.  
 **Translation:** 
 
-**[4408.06s] English:** И вообще, живой легендой.  
-**Translation:** 
+**[4408.06s] English:** In general, a living legend.,.  
+**Translation:** Vocabulary: perceives: 认为
 
-**[4414.14s] English:** А потом, когда я уже несколько лет ездил в джунгли,  
+**[4414.14s] English:** Then, when I had been traveling to the jungles for several years,  
 **Translation:** 
 
-**[4419.08s] English:** я попал на ее выступление, кажется, в NYU.  
-**Translation:** 
+**[4419.08s] English:** I caught her performance, I think, at NYU.  
+**Translation:** Vocabulary: jungles: 热带雨林
 
-**[4422.96s] English:** Я сижу в толпе, гляжу на нее, и я был совершенно заворожен.  
+**[4422.96s] English:** I sit in the crowd, looking at her, and I was completely enchanted.  
 **Translation:** 
 
-**[4428.18s] English:** Мне тогда двоюродные братья говорили, что мне нужно начать записывать свои истории, как я выхаживал муравьеда или как ловил анаконду.  
-**Translation:** 
+**[4428.18s] English:** At that time, my second cousins told me that I should start recording my stories, like when I cared for the numbat or when I caught the anaconda.  
+**Translation:** Vocabulary: anaconda: 一种大型蟒蛇; enchanted: 着迷
 
-**[4435.38s] English:** Они подтолкнули меня записывать мои приключения.  
+**[4435.38s] English:** They encouraged me to record my adventures.  
 **Translation:** 
 
-**[4438.06s] English:** Классные, мол, истории.  
-**Translation:** 
+**[4438.06s] English:** Classy stories, they say.  
+**Translation:** Vocabulary: classy: 有品味的
 
-**[4440.00s] English:** Помню, она на сцене провела, наверное, часа.  
+**[4440.00s] English:** I remember she was on stage for about an hour.  
 **Translation:** 
 
-**[4444.70s] English:** После выступления перед ней в очереди выстроились сотни людей.  
+**[4444.70s] English:** After her speech, hundreds of people lined up in the queue.  
 **Translation:** 
 
-**[4449.90s] English:** Каждый из них хотел провести хоть секунду рядом с легендой.  
+**[4449.90s] English:** Each of them wanted to spend at least a second in the presence of a legend.  
 **Translation:** 
 
-**[4458.58s] English:** Сфоткаться, пожать руку, сказать, как много она для них значит.  
+**[4458.58s] English:** To take a photo, shake hands, and say how much she means to them.  
 **Translation:** 
 
-**[4462.60s] English:** Она всех благодарила.  
+**[4462.60s] English:** She thanked everyone.  
 **Translation:** 
 
-**[4463.84s] English:** Люди шли, им говорили, что им пришлют фотографии, окей?  
+**[4463.84s] English:** People went along, told they would receive photos, okay?  
 **Translation:** 
 
-**[4467.30s] English:** Наступил мой черед, мы долго стояли в очереди,  
+**[4467.30s] English:** It was my turn now, and we had stood in the queue for a long time.  
 **Translation:** 
 
-**[4469.70s] English:** и я дал ей конверт двумя главами.  
+**[4469.70s] English:** And I gave her a envelope with two chapters.  
 **Translation:** 
 
-**[4472.08s] English:** Первая, Лулу, гигантский муравьед из Божьей Матери.  
+**[4472.08s] English:** First, Lulu, the giant ant eater from Mother Nature.  
 **Translation:** 
 
-**[4475.36s] English:** Вторая, о том, как я, Джей Джей и Пика ловили в реке Анаконт.  
-**Translation:** 
+**[4475.36s] English:** Second, about how Jay Jay and I caught Pikka in the Anacont River.  
+**Translation:** Vocabulary: anacont: 安那康达河
 
-**[4479.80s] English:** О джунглях, в общем.  
+**[4479.80s] English:** About the jungles, in general.  
 **Translation:** 
 
-**[4482.24s] English:** Я сказал, порекомендуйте мою книгу, которая еще не написана.  
+**[4482.24s] English:** I said, recommend my book, which has yet to be written.  
 **Translation:** 
 
-**[4485.94s] English:** Я тогда почувствовал себя лохом.  
+**[4485.94s] English:** I then felt like a fool.  
 **Translation:** 
 
-**[4488.22s] English:** Мне было так стыдно, казалось, что у нее, наверное, все что-то просят,  
+**[4488.22s] English:** It was so embarrassing for me; it seemed that she must be asking for something.  
 **Translation:** 
 
-**[4491.44s] English:** плюс общение с большим количеством людей выматывает,  
+**[4491.44s] English:** Plus, communicating with a large number of people is exhausting.  
 **Translation:** 
 
-**[4494.86s] English:** даже если повод хороший.  
-**Translation:** 
+**[4494.86s] English:** Even if the reason is good.  
+**Translation:** Vocabulary: exhausting: 使人疲惫的
 
-**[4498.62s] English:** Через 48 часов...  
+**[4498.62s] English:** Through 48 hours...  
 **Translation:** 
 
-**[4499.70s] English:** Через 48 часов она ответила.  
+**[4499.70s] English:** After 48 hours, she responded.  
 **Translation:** 
 
-**[4501.80s] English:** Это прекрасно.  
+**[4501.80s] English:** This is wonderful.  
 **Translation:** 
 
-**[4503.68s] English:** С удовольствием напишу рекомендацию, когда вы найдете издателя.  
-**Translation:** 
+**[4503.68s] English:** I would be happy to write a recommendation when you find a publisher.  
+**Translation:** Vocabulary: recommendation: 推荐函
 
-**[4508.72s] English:** И вот какая штука.  
+**[4508.72s] English:** And here's the thing.  
 **Translation:** 
 
-**[4511.50s] English:** Я это так вижу.  
+**[4511.50s] English:** I see it that way.  
 **Translation:** 
 
-**[4513.08s] English:** Джейн взмахнула своей мощной волшебной палочкой в мою сторону.  
+**[4513.08s] English:** Jane waved her powerful magic wand in my direction.  
 **Translation:** 
 
-**[4518.18s] English:** У нее хватило сострадания и внимания после стольких выступлений.  
-**Translation:** 
+**[4518.18s] English:** She showed enough compassion and attention after so many performances.  
+**Translation:** Vocabulary: compassion: 同情
 
-**[4524.34s] English:** После трехсотдневного тура, будучи Джейн Гудл,  
+**[4524.34s] English:** After a three-hundred-day tour, as Jane Goodall,  
 **Translation:** 
 
-**[4527.68s] English:** я стал ученым.  
+**[4527.68s] English:** I became a scientist.  
 **Translation:** 
 
-**[4529.12s] English:** Живой легендарный.  
+**[4529.12s] English:** Live legendary.  
 **Translation:** 
 
-**[4529.70s] English:** Я стал ученым, чтобы сделать для какого-то парня нечто довольно обыденное.  
-**Translation:** 
+**[4529.70s] English:** I became a scientist to do something rather ordinary for some guy.  
+**Translation:** Vocabulary: legendary: 传奇的
 
-**[4536.78s] English:** Почитать его писанину.  
+**[4536.78s] English:** To read his writings.  
 **Translation:** 
 
-**[4538.50s] English:** И, конечно, когда я пошел к издателям, они сказали,  
+**[4538.50s] English:** And, of course, when I went to the publishers, they said,  
 **Translation:** 
 
-**[4541.02s] English:** «Джейн, кто сказал порекомендует?»  
+**[4541.02s] English:** Jane, who said they would recommend?  
 **Translation:** 
 
-**[4543.74s] English:** Мне тогда все отказали.  
+**[4543.74s] English:** I was refused by everyone then.  
 **Translation:** 
 
-**[4545.36s] English:** Каждый издатель в Нью-Йорке отказал.  
+**[4545.36s] English:** Each publisher in New York refused.  
 **Translation:** 
 
-**[4547.26s] English:** Но после этого Харпер Коллинз меня взял.  
-**Translation:** 
+**[4547.26s] English:** But after that, Harper Collins took me on.  
+**Translation:** Vocabulary: collins: 柯林斯; harper: 哈珀
 
-**[4549.66s] English:** Если Джейн Гудл считает это хорошей идеей, мы тоже.  
+**[4549.66s] English:** If Jane Goodall considers this a good idea, we do too.  
 **Translation:** 
 
-**[4553.32s] English:** Ну и...  
-**Translation:** 
+**[4553.32s] English:** Nu and...  
+**Translation:** Vocabulary: goodall: 戈德哈尓
 
-**[4554.34s] English:** Так появилась книга «Матерь Божья».  
+**[4554.34s] English:** So there appeared the book "Mother of God.  
 **Translation:** 
 
-**[4556.28s] English:** А дальше, благодаря этому, появились «Джангл Киперс»,  
-**Translation:** 
+**[4556.28s] English:** Further down the line, thanks to this, came the "Jungle Keepers,  
+**Translation:** Vocabulary: keepers: 看护者
 
-**[4559.28s] English:** «Дакси», и другие книги.  
+**[4559.28s] English:** Daixi," and other books.  
 **Translation:** 
 
-**[4559.70s] English:** Спасибо.  
+**[4559.70s] English:** Thank you.  
 **Translation:** 
 
-**[4560.00s] English:** и все остальное.  
+**[4560.00s] English:** And that's it for everything else.  
 **Translation:** 
 
-**[4562.40s] English:** Если бы Джейн не была абсолютно легендарной личностью,  
+**[4562.40s] English:** If Jane were not an absolutely legendary figure,  
 **Translation:** 
 
-**[4565.54s] English:** у меня бы не было карьеры.  
+**[4565.54s] English:** I would not have had a career.  
 **Translation:** 
 
-**[4567.40s] English:** Что в свою очередь и значит, что мы бы  
+**[4567.40s] English:** What this means in turn is that we would  
 **Translation:** 
 
-**[4570.10s] English:** не основали джангл-киперс и не охраняли бы тысячи гектаров леса  
+**[4570.10s] English:** Do not found the Jungle Keepers and not protect thousands of hectares of forest.  
 **Translation:** 
 
-**[4575.56s] English:** и тысячи бьющихся сердец в Амазонке.  
-**Translation:** 
+**[4575.56s] English:** And thousands of beating hearts in the Amazon.  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[4577.36s] English:** Она сделала это не потому, что ты особенный,  
+**[4577.36s] English:** She did it not because you are special,  
 **Translation:** 
 
-**[4579.86s] English:** она поступала так со всеми.  
+**[4579.86s] English:** She treated everyone that way.  
 **Translation:** 
 
-**[4582.38s] English:** Представь масштаб влияния,  
+**[4582.38s] English:** Imagine the scale of its influence,  
 **Translation:** 
 
-**[4585.42s] English:** которое она оказала.  
+**[4585.42s] English:** Which she provided.  
 **Translation:** 
 
-**[4586.86s] English:** И, знаешь что, на тебе теперь тоже лежит эта ответственность.  
+**[4586.86s] English:** And, you know what, now this responsibility also lies on you.  
 **Translation:** 
 
-**[4592.16s] English:** Молодые люди приходят к тебе,  
+**[4592.16s] English:** Young people come to you,  
 **Translation:** 
 
-**[4594.62s] English:** и на тебе лежит ответственность увидеть их, дать им шанс  
+**[4594.62s] English:** And on you lies the responsibility to see them and give them a chance.  
 **Translation:** 
 
-**[4598.76s] English:** рассмотреть потенциал в каждом из них.  
+**[4598.76s] English:** Examine the potential in each of them.  
 **Translation:** 
 
-**[4605.28s] English:** Точно.  
+**[4605.28s] English:** Exactly.  
 **Translation:** 
 
-**[4606.74s] English:** Мы могли бы часа четыре говорить лишь о Джейне,  
+**[4606.74s] English:** We could talk about Jane for four hours, if we wanted to.  
 **Translation:** 
 
-**[4609.58s] English:** о том, что она сделала для человечества, для науки,  
+**[4609.58s] English:** About what she did for humanity, for science,  
 **Translation:** 
 
-**[4613.46s] English:** для женщин, для дикой природы,  
+**[4613.46s] English:** For women, for wild nature,  
 **Translation:** 
 
-**[4615.56s] English:** скольких людей вдохновила,  
+**[4615.56s] English:** How many people has it inspired?  
 **Translation:** 
 
-**[4617.16s] English:** скольким дала карьеру, обо всем, что она сделала лично для меня.  
+**[4617.16s] English:** How many careers did she launch, and about everything she personally did for me.  
 **Translation:** 
 
-**[4621.16s] English:** Но самое главное, она не потеряла голову, когда достигла такого уровня.  
+**[4621.16s] English:** But most importantly, she didn't lose her head when she reached such a level.  
 **Translation:** 
 
-**[4625.92s] English:** Заботилась не только о себе, своих путешествиях, расписании и отдыхе,  
+**[4625.92s] English:** Cared not only about herself, her travels, schedule, and rest.  
 **Translation:** 
 
-**[4630.38s] English:** а прочитала чью-то работу.  
+**[4630.38s] English:** She read someone's work.  
 **Translation:** 
 
-**[4632.76s] English:** Она сформировала мое отношение к работе.  
+**[4632.76s] English:** She formed my attitude toward work.  
 **Translation:** 
 
-**[4635.78s] English:** Как ты и сказал, бывает, люди останавливают меня на улице  
+**[4635.78s] English:** As you said, people sometimes stop me on the street.  
 **Translation:** 
 
-**[4639.16s] English:** и говорят, что они каждый вечер смотрят мои видео с детьми,  
+**[4639.16s] English:** And they say that they watch my videos with children every evening,  
 **Translation:** 
 
-**[4642.66s] English:** или спрашивают, как им заняться той же деятельностью,  
+**[4642.66s] English:** Or they ask how they can engage in the same activity.  
 **Translation:** 
 
-**[4645.56s] English:** если кто-то скажет, как я получу вашу работу.  
+**[4645.56s] English:** If someone asks how I will get your job.  
 **Translation:** 
 
-**[4647.16s] English:** Я много лет вас смотрю, и хотел бы помочь с защитой природы.  
+**[4647.16s] English:** I have been watching you for many years, and I would like to help with nature protection.  
 **Translation:** 
 
-**[4651.44s] English:** Так что я иду по ее стопам, я останавливаюсь,  
-**Translation:** 
+**[4651.44s] English:** So I follow in her footsteps, I stop,  
+**Translation:** Vocabulary: footsteps: 她的脚步
 
-**[4656.54s] English:** и также обращаю внимание.  
+**[4656.54s] English:** And I also draw attention.  
 **Translation:** 
 
-**[4660.42s] English:** Никогда не знаешь, может, этот ребенок будет спасать реку,  
+**[4660.42s] English:** Never know, maybe this child will save the river,  
 **Translation:** 
 
-**[4663.56s] English:** может, он придумает, как ее очищать,  
+**[4663.56s] English:** May be, he will come up with how to clean her,  
 **Translation:** 
 
-**[4667.12s] English:** или что там у них за мечта.  
+**[4667.12s] English:** Or what is it that they dream of.  
 **Translation:** 
 
-**[4670.10s] English:** Джейн всегда говорила, что ее работа — создавать надежду.  
+**[4670.10s] English:** Jane always said that her work was to create hope.  
 **Translation:** 
 
-**[4673.52s] English:** Я не знаю, что это значит.  
+**[4673.52s] English:** I don't know what this means.  
 **Translation:** 
 
-**[4673.88s] English:** Ключ к вашей борьбе — это неизвестность,  
+**[4673.88s] English:** The key to your struggle is uncertainty,  
 **Translation:** 
 
-**[4675.56s] English:** не терять ее.  
+**[4675.56s] English:** Don't lose her.  
 **Translation:** 
 
-**[4678.34s] English:** Мы живем во времена, где...  
+**[4678.34s] English:** We live in times where...  
 **Translation:** 
 
-**[4680.00s] English:** но... Апатия — яд, которым торгует тьма. Нас пытаются дезориентировать, напугать,  
-**Translation:** 
+**[4680.00s] English:** But... Apathy is a poison that darkness trades in. They try to disorient and frighten us.  
+**Translation:** Vocabulary: apathy: 冷漠; disorient: 迷失方向; poison: 毒药
 
-**[4689.58s] English:** сделать апатичными. Единственный выход — бороться с этим, держаться за свои убеждения,  
+**[4689.58s] English:** Make them apathetic. The only way out is to fight against this and hold onto your beliefs.  
 **Translation:** 
 
-**[4695.72s] English:** излучать страсть, огонь и надежду. Она это понимала и провела всю жизнь, распространяя  
-**Translation:** 
+**[4695.72s] English:** To emit passion, fire, and hope. She understood this and spent her entire life spreading it.  
+**Translation:** Vocabulary: apathetic: 冷漠
 
-**[4703.16s] English:** свет, охраняя пламя от бури, зажигая свечи других от своей. В этом была вся ее суть.  
+**[4703.16s] English:** Light, protecting the flame from the storm, kindling candles for others from its own. This was the essence of her.  
 **Translation:** 
 
-**[4708.98s] English:** Что бы ты рекомендовал молодежи? Как жить так же? Какой совет дал бы молодым полам? У тебя  
-**Translation:** 
+**[4708.98s] English:** What would you recommend to the youth? How to live just as well? What advice would you give to the young gender? You  
+**Translation:** Vocabulary: kindling: 点燃
 
-**[4719.42s] English:** удивительная история. Ты выбрал жизнь приключений и неизвестности. Что бы ты порекомендовал?  
+**[4719.42s] English:** An amazing story. You chose a life of adventure and uncertainty. What would you recommend?  
 **Translation:** 
 
-**[4728.54s] English:** Я пытаюсь донести, что у меня вся почта забита письмами от людей из Финляндии, Испании, Грузии,  
-**Translation:** 
+**[4728.54s] English:** I'm trying to convey that my inbox is flooded with emails from people from Finland, Spain, and Georgia.  
+**Translation:** Vocabulary: finland: 芬兰
 
-**[4737.12s] English:** как мне заняться тем же, как уехать туда и работать? На самом деле все просто. Нужно прыгнуть  
+**[4737.12s] English:** How can I do the same thing and go there to work? Actually, it's simple. You just need to jump in.  
 **Translation:** 
 
-**[4744.26s] English:** головой вперед в приключения и заниматься делом. Помню, слышал, как люди говорят, если я смог,  
+**[4744.26s] English:** Head forward into adventures and get things done. I remember hearing how people say, if I could,  
 **Translation:** 
 
-**[4750.92s] English:** вы тоже сможете. Мне казалось, что это пустая болтовня. «Ага, ты сидишь на ток-шоу». Или «Только  
+**[4750.92s] English:** You'll be able to too. I thought it was just empty talk. "Yeah, you're on a talk show." Or "Just saying.  
 **Translation:** 
 
-**[4757.70s] English:** что написал книгу». Титаны индустрии, новаторы говорят, если я смог, кто угодно сможет. Но теперь,  
-**Translation:** 
+**[4757.70s] English:** What wrote the book." Titans of industry, innovators say, if I could do it, anyone can. But now,  
+**Translation:** Vocabulary: innovators: 行业创新者; titans: 行业巨头
 
-**[4767.12s] English:** мы защищаем лес. Когда я пожил с животными, встречал племена, когда все это превратилось  
+**[4767.12s] English:** We protect the forest. When I lived among animals, I met tribes where all this had turned into something else.  
 **Translation:** 
 
-**[4774.12s] English:** во всемирное движение, у меня же нет докторской степени. Есть цитата «Сейчас кто-то менее  
-**Translation:** 
+**[4774.12s] English:** In the worldwide movement, I don't have a doctorate. There's a quote: "Currently, someone less  
+**Translation:** Vocabulary: tribes: 部落
 
-**[4780.32s] English:** квалифицированный, чем ты, живет жизнью твоей мечты и работает в месте твоей мечты». Я тому  
+**[4780.32s] English:** Qualified, he lives the life you dream of and works at the place you dream of." I am there  
 **Translation:** 
 
-**[4785.72s] English:** яркое подтверждение. У меня в старших классах были ужасные оценки, я не поступал в университет,  
+**[4785.72s] English:** A bright confirmation. In high school, I had terrible grades and didn't get into university,  
 **Translation:** 
 
-**[4791.00s] English:** просто слушал лекции, поехал в джунгли с другом Джей-Джеем и годами двигался  
+**[4791.00s] English:** Just listened to lectures, went to the jungles with friend Jay-Jay, and moved for years.  
 **Translation:** 
 
-**[4797.12s] English:** чисто на энергии любви. Лет десять.  
-**Translation:** 
+**[4797.12s] English:** Cleanly on energy of love. Ten years.  
+**Translation:** Vocabulary: jungles: 热带雨林
 
-**[4800.00s] English:** не стрельнула. Перед нами не было приятного пути. Не было такого, что получи образование,  
+**[4800.00s] English:** Did not shoot. There was no pleasant path before us. There was none that could receive an education.  
 **Translation:** 
 
-**[4807.38s] English:** станешь тем-то. Я поехал, и мне сказали, ты не будешь специалистом по охране природы,  
+**[4807.38s] English:** You'll be something else. I left, and they told me you won't be a nature conservation specialist.  
 **Translation:** 
 
-**[4813.92s] English:** плохие оценки, у тебя нет докторской степени, ты не из богатой семьи, ты не сможешь защищать леса.  
+**[4813.92s] English:** Poor grades, you don't have a doctorate, you're not from a wealthy family, and you won't be able to protect the forests.  
 **Translation:** 
 
-**[4820.16s] English:** Я принял эгоистичное решение, я хочу их увидеть. В итоге меня обучали коренные жители, и как это  
-**Translation:** 
+**[4820.16s] English:** I made an egoistic decision; I want to see them. In the end, it was the indigenous people who trained me, and how they did it...  
+**Translation:** Vocabulary: egoistic: 自恋的; indigenous: 土著的; wealthy: 富有的
 
-**[4828.38s] English:** часто бывает, можно на примере ресторана, да, ты просто моешь посуду, но по крайней мере работаешь  
+**[4828.38s] English:** Often it happens, for example with a restaurant, you just wash the dishes, but at least you're working.  
 **Translation:** 
 
-**[4835.16s] English:** в ресторане. В какой-то момент менеджеру понадобится помощь с поставками. Через пару лет  
-**Translation:** 
+**[4835.16s] English:** In the restaurant. At some point, the manager will need help with deliveries. A few years later,  
+**Translation:** Vocabulary: deliveries: 送货
 
-**[4842.90s] English:** ты будешь обучать новичков, когда-нибудь станешь менеджером, а потом можешь оказаться в позиции,  
+**[4842.90s] English:** You will be training newbies at some point, when you become a manager, and then you might end up in a position,  
 **Translation:** 
 
-**[4849.02s] English:** когда откроешь свой ресторан. Это единственный способ. Тут нельзя что-то нагуглить, нужно  
-**Translation:** 
+**[4849.02s] English:** When you open your restaurant, this is the only way. There's no way to google it; you need to  
+**Translation:** Vocabulary: newbies: 新手
 
-**[4856.06s] English:** проливать пот и кровь.  
+**[4856.06s] English:** To shed blood and sweat.  
 **Translation:** 
 
-**[4858.38s] English:** Но при этом, если ты полюбил идти путем приключений, он будет полон трудностей. Ты, кажется,  
+**[4858.38s] English:** But at the same time, if you fell in love with the adventure path, it will be full of difficulties. You seem,  
 **Translation:** 
 
-**[4867.14s] English:** говорил как-то, что такова природа этого пути. В нем и боль, и страдания. Ты выложил классный пост,  
+**[4867.14s] English:** He once said that this path has its nature, with both pain and suffering. You posted something great,  
 **Translation:** 
 
-**[4876.74s] English:** рекомендую всем посмотреть. В тему того, что у тебя просят совета про трудности, про страдания,  
-**Translation:** 
+**[4876.74s] English:** I recommend everyone to watch it. It's relevant to the difficulties and sufferings you're seeking advice on.  
+**Translation:** Vocabulary: sufferings: 痛苦
 
-**[4888.38s] English:** ты включен. Видел... видел твое лицо. Когда ты находишь срубленное дерево, или наблюдаешь пожары,  
+**[4888.38s] English:** You are on. I saw... I saw your face. When you come across a felled tree, or witness fires,  
 **Translation:** 
 
-**[4897.68s] English:** я видел, что у тебя из-за этого болит сердце. Ты написал... Насколько честно ответить? Что  
+**[4897.68s] English:** I saw that this is hurting your heart. You wrote... How honest should I be in answering? What  
 **Translation:** 
 
-**[4908.82s] English:** сказать детям, которые спрашивают, как им заниматься тем же, что и  
+**[4908.82s] English:** To say to children who ask how they can do the same thing that and  
 **Translation:** 
 
-**[4912.46s] English:** я. Тут не Давид против Голиафа, нет Мича или Прощи, что остановят такого драматизма.  
-**Translation:** 
+**[4912.46s] English:** It's not David versus Goliath, and there's no Mich or Prosha that will stop such drama.  
+**Translation:** Vocabulary: goliath: 巨人
 
-**[4918.38s] English:** Ты плывешь против дракона.  
+**[4918.38s] English:** You are swimming against the dragon.  
 **Translation:** 
 
-**[4920.00s] English:** против течения экономической энтропии и человеческой апатии.  
-**Translation:** 
+**[4920.00s] English:** Against the current of economic entropy and human apathy.  
+**Translation:** Vocabulary: apathy: 冷漠; dragon: 逆流而上的龙; entropy: 无序
 
-**[4923.74s] English:** Плыть против течения утомительно.  
+**[4923.74s] English:** Plyting against the current is tiring.  
 **Translation:** 
 
-**[4925.82s] English:** Отличный способ утонуть.  
-**Translation:** 
+**[4925.82s] English:** A great way to drown.  
+**Translation:** Vocabulary: tiring: 费力的
 
-**[4928.84s] English:** Каждый день, когда мы не выиграли, мы проиграли,  
+**[4928.84s] English:** Every day, when we didn't win, we lost.  
 **Translation:** 
 
-**[4931.66s] English:** а когда мы проигрываем, горят миры.  
+**[4931.66s] English:** When we lose, entire worlds burn.  
 **Translation:** 
 
-**[4933.88s] English:** Больше знаешь, больше кровоточит.  
+**[4933.88s] English:** More you know, more it bleeds.  
 **Translation:** 
 
-**[4936.16s] English:** Сердцебиения замирают, когда приходит пламя.  
-**Translation:** 
+**[4936.16s] English:** Heartbeats pause when the flame arrives.  
+**Translation:** Vocabulary: bleeds: 流血; heartbeats: 心跳
 
-**[4939.24s] English:** Созвездия видов превращаются в призраков.  
+**[4939.24s] English:** Constellations transform into ghosts.  
 **Translation:** 
 
-**[4942.52s] English:** А мы единственные, кто их спасает.  
-**Translation:** 
+**[4942.52s] English:** We are the only ones who save them.  
+**Translation:** Vocabulary: constellations: 星宿
 
-**[4944.80s] English:** Мы сложили ладони вокруг свечи, вокруг воющая тьма.  
+**[4944.80s] English:** We placed our hands around the candle, surrounded by howling darkness.  
 **Translation:** 
 
-**[4948.86s] English:** А люди хотят вдохновляться.  
-**Translation:** 
+**[4948.86s] English:** People want to be inspired.  
+**Translation:** Vocabulary: howling: 狂叫的
 
-**[4951.66s] English:** Продолжай вести соцсети, давай.  
+**[4951.66s] English:** Continue running the social media accounts, let's do it.  
 **Translation:** 
 
-**[4954.16s] English:** Ты молодец.  
+**[4954.16s] English:** You did great.  
 **Translation:** 
 
-**[4955.74s] English:** Они хотят знать, что мы побеждаем, и мы много побеждали.  
+**[4955.74s] English:** They want to know that we are winning, and we have won many times.  
 **Translation:** 
 
-**[4959.76s] English:** Но не сейчас.  
+**[4959.76s] English:** But not now.  
 **Translation:** 
 
-**[4961.52s] English:** Нас режут.  
+**[4961.52s] English:** We are being cut.  
 **Translation:** 
 
-**[4963.20s] English:** Мы в другой части истории.  
+**[4963.20s] English:** We are in another part of the history.  
 **Translation:** 
 
-**[4965.42s] English:** Финал уже близко.  
+**[4965.42s] English:** The final is already close.  
 **Translation:** 
 
-**[4967.48s] English:** Мы, конечно, можем мыслить позитивно,  
+**[4967.48s] English:** We, of course, can think positively,  
 **Translation:** 
 
-**[4971.24s] English:** но мысли и молитвы не остановят бензопилу,  
+**[4971.24s] English:** But thoughts and prayers won't stop the chainsaw.  
 **Translation:** 
 
-**[4973.96s] English:** а двигатель, который несет нас против течения к прекрасной цели,  
-**Translation:** 
+**[4973.96s] English:** A engine, which carries us against the current toward a beautiful goal,  
+**Translation:** Vocabulary: chainsaw: 链锯
 
-**[4978.28s] English:** работает.  
+**[4978.28s] English:** Works.  
 **Translation:** 
 
-**[4978.86s] English:** Только когда в нем есть бензин.  
-**Translation:** 
+**[4978.86s] English:** Only when there is gasoline in it.  
+**Translation:** Vocabulary: gasoline: 汽油
 
-**[4980.86s] English:** Как он закончится, мы утонем.  
+**[4980.86s] English:** How it ends, we will drown.  
 **Translation:** 
 
-**[4982.86s] English:** Утонем.  
+**[4982.86s] English:** We will drown.  
 **Translation:** 
 
-**[4984.86s] English:** Мы можем согреться в теплом свете, всех, кто помогает,  
+**[4984.86s] English:** We can warm ourselves in the warm light of those who help us.  
 **Translation:** 
 
-**[4988.86s] English:** и не думать о том, что люди, что могли бы купить планеты, заявляют, что им не все равно.  
+**[4988.86s] English:** And do not think that people who could buy planets claim they don't care.  
 **Translation:** 
 
-**[4993.86s] English:** В какой-то момент ты понимаешь, что происходит.  
+**[4993.86s] English:** At some point, you understand what is happening.  
 **Translation:** 
 
-**[4997.86s] English:** Ребенком ты бы был ирагорным.  
-**Translation:** 
+**[4997.86s] English:** You would have been a child andragormic.  
+**Translation:** Vocabulary: andragormic: 成人般的
 
-**[5000.86s] English:** Ты на самом деле не захочешь нести кольцо, когда узнаешь, чего это стоит, даже если дойдешь до Мордора.  
+**[5000.86s] English:** You really won't want to bear the ring when you find out what it costs, even if you make it to Mordor.  
 **Translation:** 
 
-**[5007.86s] English:** Как объяснить Сэму, почему не можешь сесть на корабли?  
+**[5007.86s] English:** How do I explain to Sam why I can't sit on ships?  
 **Translation:** 
 
-**[5011.86s] English:** Чего бы это ни стоило.  
+**[5011.86s] English:** Whatever it may cost.  
 **Translation:** 
 
-**[5012.86s] English:** Чего бы это ни стоило.  
+**[5012.86s] English:** Whatever it may cost.  
 **Translation:** 
 
-**[5014.86s] English:** Снова пришло то самое время года.  
+**[5014.86s] English:** Again, it's that time of year.  
 **Translation:** 
 
-**[5016.86s] English:** Пламя надвигается.  
-**Translation:** 
+**[5016.86s] English:** Flame is advancing.  
+**Translation:** Vocabulary: advancing: 前进
 
-**[5018.86s] English:** Что бы ни случилось, оно придет.  
+**[5018.86s] English:** What happens, it will come.  
 **Translation:** 
 
-**[5020.86s] English:** Людям стоит посмотреть видео, что ты выложил.  
+**[5020.86s] English:** People should watch the video you uploaded.  
 **Translation:** 
 
-**[5023.86s] English:** Ты говоришь о боли, трудностях, вызовах и страданиях перед лицом разрушений.  
+**[5023.86s] English:** You speak of pain, difficulties, challenges, and suffering in the face of destruction.  
 **Translation:** 
 
-**[5032.86s] English:** Это другая сторона медали.  
+**[5032.86s] English:** This is the other side of the coin.  
 **Translation:** 
 
-**[5034.86s] English:** Плата за любовь.  
+**[5034.86s] English:** Payment for Love.  
 **Translation:** 
 
-**[5036.86s] English:** Да, мы видели сильнейшие пожары.  
+**[5036.86s] English:** Yes, we have seen the strongest fires.  
 **Translation:** 
 
-**[5040.00s] English:** Вытаскивали животных из пламени.  
+**[5040.00s] English:** They pulled animals from the flames.  
 **Translation:** 
 
-**[5043.82s] English:** Я написал текст, когда нас через мясорубку пропустили.  
-**Translation:** 
+**[5043.82s] English:** I wrote the text when we were put through the meat grinder.  
+**Translation:** Vocabulary: flames: 火; grinder: 磨肉机
 
-**[5048.38s] English:** Финансирования не было вокруг злотодобытчики.  
+**[5048.38s] English:** Funding was not around the zinc miners.  
 **Translation:** 
 
-**[5051.74s] English:** Я месяцами был в джунглях один.  
-**Translation:** 
+**[5051.74s] English:** I was in the jungles for months alone.  
+**Translation:** Vocabulary: jungles: 密林
 
-**[5054.14s] English:** А по кругу снова и снова крутил трек Тома Йорка «Было так ужасно».  
+**[5054.14s] English:** Around the room, Tom Yorke's track "It Was So Much Worse" played over and over again.  
 **Translation:** 
 
-**[5061.38s] English:** Тогда случилось еще одно вторжение, в котором сожгли всю сторону реки.  
+**[5061.38s] English:** Then another invasion occurred, in which they burned down the entire side of the river.  
 **Translation:** 
 
-**[5066.40s] English:** И она никогда не вернется.  
+**[5066.40s] English:** She will never return.  
 **Translation:** 
 
-**[5074.46s] English:** Часть леса, которую я любил, в которой знал всех животных, исчезла.  
+**[5074.46s] English:** Part of the forest, which I loved and knew all the animals in, has disappeared.  
 **Translation:** 
 
-**[5080.24s] English:** Мы каждую неделю, каждый день проживали нечто подобное.  
+**[5080.24s] English:** We lived through something similar every week, every day.  
 **Translation:** 
 
-**[5087.72s] English:** Когда возлагаешь на себя подобную ответственность,  
+**[5087.72s] English:** When you take on such responsibility,  
 **Translation:** 
 
-**[5091.82s] English:** засыпая, думаешь,  
+**[5091.82s] English:** As you fall asleep, you think,  
 **Translation:** 
 
-**[5093.98s] English:** если не мы, мир изгорит.  
+**[5093.98s] English:** If not us, the world will burn.  
 **Translation:** 
 
-**[5096.04s] English:** Если не спасем.  
+**[5096.04s] English:** If we don't save them.  
 **Translation:** 
 
-**[5098.26s] English:** Каждый счастливый момент окружает завеса грусти.  
-**Translation:** 
+**[5098.26s] English:** Every happy moment is shrouded in a veil of sadness.  
+**Translation:** Vocabulary: shrouded: 笼罩
 
-**[5102.64s] English:** Как я должен ходить на вечеринки, о чем-то с людьми общаться?  
+**[5102.64s] English:** How should I go to parties and talk to people about something?  
 **Translation:** 
 
-**[5106.48s] English:** Как мне вообще спать спокойно?  
-**Translation:** 
+**[5106.48s] English:** How can I sleep peacefully at all?  
+**Translation:** Vocabulary: peacefully: 安宁地
 
-**[5111.78s] English:** Если мы не добьемся цели, если не обгоним бензопилы и дороги,  
+**[5111.78s] English:** If we do not achieve our goal, if we cannot outpace the chainsaws and roads,  
 **Translation:** 
 
-**[5116.14s] English:** тысячелетние деревья погибнут, и мы единственные, кто их там защищает.  
+**[5116.14s] English:** Thousand-year-old trees will die, and we are the only ones who protect them there.  
 **Translation:** 
 
-**[5122.18s] English:** Ты видишь черную обугленную землю,  
+**[5122.18s] English:** You see black charred soil,  
 **Translation:** 
 
-**[5124.10s] English:** не травинку,  
-**Translation:** 
+**[5124.10s] English:** Not a blade of grass,  
+**Translation:** Vocabulary: charred: 烧焦的
 
-**[5126.04s] English:** один лишь пепел,  
+**[5126.04s] English:** One mere ash.  
 **Translation:** 
 
-**[5128.22s] English:** какофония жизни умолкла.  
-**Translation:** 
+**[5128.22s] English:** The cacophony of life fell silent.  
+**Translation:** Vocabulary: cacophony: 杂乱的声音
 
-**[5129.80s] English:** Осталась только жгучая, звенящая тишина.  
+**[5129.80s] English:** Only a burning, ringing silence remained.  
 **Translation:** 
 
-**[5135.96s] English:** Тошнотворное чувство.  
-**Translation:** 
+**[5135.96s] English:** A nauseating feeling.  
+**Translation:** Vocabulary: nauseating: 令人作呕的
 
-**[5138.12s] English:** Мы взвалили на себя большой груз, и несем его.  
+**[5138.12s] English:** We have taken on a heavy burden and are carrying it.  
 **Translation:** 
 
-**[5143.48s] English:** Не в теории.  
-**Translation:** 
+**[5143.48s] English:** Not in theory.  
+**Translation:** Vocabulary: burden: 重担
 
-**[5146.16s] English:** Мы тащим его на практике.  
+**[5146.16s] English:** We pull him into practice.  
 **Translation:** 
 
-**[5151.88s] English:** Другая сторона медали — совет молодежи.  
+**[5151.88s] English:** The other side of the coin is the Youth Council.  
 **Translation:** 
 
-**[5155.52s] English:** О, да.  
+**[5155.52s] English:** Oh, yes.  
 **Translation:** 
 
-**[5156.12s] English:** Легко не будет.  
+**[5156.12s] English:** It won't be easy.  
 **Translation:** 
 
-**[5158.04s] English:** Нет.  
+**[5158.04s] English:** No.  
 **Translation:** 
 
-**[5158.86s] English:** Когда спрашивают,  
+**[5158.86s] English:** When asked,  
 **Translation:** 
 
-**[5160.00s] English:** как заниматься тем же, я отвечаю, что вряд ли захочется. Не захочется оводов и лихорадки  
+**[5160.00s] English:** As for doing the same thing, I answer that it's unlikely one would want to. No one wants flies and fever.  
 **Translation:** 
 
-**[5165.76s] English:** Денге. Даже не спрашивай, как выглядит нормальная жизнь. Я 20 лет жил с одним рюкзаком. Знаешь,  
+**[5165.76s] English:** Denge. Even don't ask how normal life looks. I lived with one backpack for 20 years. Know that,  
 **Translation:** 
 
-**[5174.48s] English:** скольких обезьяньих морд я съел, ведь другой еды не было. Я серьезно. Посмотри на фото,  
+**[5174.48s] English:** How many monkey faces have I eaten? For there was no other food. I am serious. Check the photos.  
 **Translation:** 
 
-**[5181.60s] English:** ты один в лодке на реке. А сколько дней не работал двигатель? Пока ты спишь,  
+**[5181.60s] English:** You are alone in the boat on the river. How many days has the engine not worked? And while you're sleeping,  
 **Translation:** 
 
-**[5187.48s] English:** тебя заваливает дождем, нет укрытий, только несколько листов прикрывают лицо. А потом ты  
+**[5187.48s] English:** You are being drenched by rain, there is no shelter, just a few leaves covering your face. And then you  
 **Translation:** 
 
-**[5192.64s] English:** приезжаешь домой, у всех работа, у всех дети, все счастливы. И спрашивают, ты что там делаешь?  
-**Translation:** 
+**[5192.64s] English:** You arrive home, everyone has work, everyone has children, and everyone is happy. And they ask, "What are you doing there?  
+**Translation:** Vocabulary: drenched: 全身湿透
 
-**[5198.02s] English:** Пытаюсь спасти лес. И они такие, ну-ки. Теперь же мы находимся в точке, где мы очень много и  
+**[5198.02s] English:** I'm trying to save the forest. And they're like, nu-ki. Now we are at a point where we have to act quickly.  
 **Translation:** 
 
-**[5206.76s] English:** очень долго вкладывались, у нас были взлеты и падения, победы и провалы. Но в последние несколько  
+**[5206.76s] English:** We invested for a long time, and we had highs and lows, victories and failures. But in the last few  
 **Translation:** 
 
-**[5213.88s] English:** лет наш успех растет, люди узнают о нашей работе.  
+**[5213.88s] English:** As our success grows, people learn about our work.  
 **Translation:** 
 
-**[5217.48s] English:** Приходят к нам, начинают казаться, раз мы защитили 52 тысячи гектаров, может, все и получится.  
-**Translation:** 
+**[5217.48s] English:** They come to us and start to think that maybe everything will work out just because we have protected 52 thousand hectares.  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[5223.64s] English:** В фильме «300 спартанцев» есть момент, когда показывают Леонида и говорят, что даже царь  
+**[5223.64s] English:** In the film "300 Spartans," there is a moment when they show Leonidas and say that even the king  
 **Translation:** 
 
-**[5228.28s] English:** позволяет себе надеяться не только на смерть, но прямо перед тем, как их и вырезали.  
-**Translation:** 
+**[5228.28s] English:** Allows itself to hope not only for death but right before they were cut out.  
+**Translation:** Vocabulary: leonidas: 莱奥尼达斯; spartans: 斯巴达人
 
-**[5235.14s] English:** Один близкий мне человек недавно сказал, пока мы праздновали наши достижения,  
+**[5235.14s] English:** One close friend of mine recently said, while we were celebrating our achievements,  
 **Translation:** 
 
-**[5240.46s] English:** если бы все было сложнее, ты бы не выжил. Если бы легче, не было бы так божественно.  
+**[5240.46s] English:** If all were more complicated, you would not have survived. If it were easier, it would not be so divine.  
 **Translation:** 
 
-**[5247.48s] English:** Меня как ледяной водой облило. Ведь да, было тяжело, но посмотри, где мы. У нас, возможно, все получится.  
+**[5247.48s] English:** Me as if doused with icy water. After all, it was hard, but look where we are. Maybe, everything will work out.  
 **Translation:** 
 
-**[5260.68s] English:** Никак иначе. Кстати, еще об одном сложном аспекте. Ты пишешь в послесловии книги о наркоторговцах,  
-**Translation:** 
+**[5260.68s] English:** No other way. By the way, another complex aspect. You write in the afterword of the book about drug dealers,  
+**Translation:** Vocabulary: afterword: 书后的附言; doused: 浇泼
 
-**[5274.64s] English:** которые расположились...  
+**[5274.64s] English:** Which ones have settled in...  
 **Translation:** 
 
-**[5277.48s] English:** В бассейне реки.  
+**[5277.48s] English:** In the river basin.  
 **Translation:** 
 
-**[5280.00s] English:** Это уже не лесорубы, о которых мы говорили.  
+**[5280.00s] English:** This is no longer about loggers, as we discussed.  
 **Translation:** 
 
-**[5285.16s] English:** Они выращивают коку для кокаина, строят взлетные полосы.  
-**Translation:** 
+**[5285.16s] English:** They grow coca for cocaine, build runways.  
+**Translation:** Vocabulary: cocaine: 可卡因; runways: 跑道
 
-**[5292.18s] English:** Расскажи, как так вышло.  
+**[5292.18s] English:** Tell me how this happened.  
 **Translation:** 
 
-**[5294.28s] English:** Смотри, наша жизнь на реке выглядела так, когда приходили лесорубы,  
-**Translation:** 
+**[5294.28s] English:** Look, our life on the river looked different when the loggers came.  
+**Translation:** Vocabulary: loggers: 伐木工
 
-**[5298.40s] English:** мы с Джей-Джеем подходили к ним, спрашивали, как дела,  
+**[5298.40s] English:** We approached them, asked how they were doing,  
 **Translation:** 
 
-**[5301.84s] English:** присаживались, пили пиво или ужинали вместе,  
-**Translation:** 
+**[5301.84s] English:** They would sit down, have a beer, or eat dinner together.  
+**Translation:** Vocabulary: approached: 走近
 
-**[5305.32s] English:** разговаривали, спрашивали, не знаем ли мы их отцов, а потом нанимали их.  
+**[5305.32s] English:** They asked if we knew their fathers and then hired them.  
 **Translation:** 
 
-**[5309.02s] English:** Они дружелюбны.  
+**[5309.02s] English:** They are friendly.  
 **Translation:** 
 
-**[5312.12s] English:** И...  
+**[5312.12s] English:** And...  
 **Translation:** 
 
-**[5312.80s] English:** В каком-то смысле они с Джей-Джеем братья.  
+**[5312.80s] English:** In some ways, they are brothers with JJ.  
 **Translation:** 
 
-**[5316.28s] English:** Из одного...  
+**[5316.28s] English:** From one...  
 **Translation:** 
 
-**[5318.20s] English:** У них похожая история, обычные местные ребята, не злые.  
+**[5318.20s] English:** They have a similar story, ordinary local guys, not bad guys.  
 **Translation:** 
 
-**[5322.54s] English:** Люди, у которых есть жены, дети.  
+**[5322.54s] English:** People who have wives and children.  
 **Translation:** 
 
-**[5325.66s] English:** Они ищут работу и просто умеют управлять бензопилой.  
-**Translation:** 
+**[5325.66s] English:** They are looking for work and simply know how to operate a chainsaw.  
+**Translation:** Vocabulary: chainsaw: 油锯
 
-**[5330.16s] English:** Они работают за 30 долларов в день, в лучшем случае в очень тяжелых, суровых условиях.  
+**[5330.16s] English:** They work for $30 a day, in the best cases, under very harsh, tough conditions.  
 **Translation:** 
 
-**[5336.74s] English:** Когда мы видим прогалины,  
+**[5336.74s] English:** When we see openings,  
 **Translation:** 
 
-**[5339.02s] English:** я всегда запускаю дрон.  
+**[5339.02s] English:** I always launch the drone.  
 **Translation:** 
 
-**[5341.36s] English:** Мы собирали информацию и приносили ее в полицию.  
-**Translation:** 
+**[5341.36s] English:** We collected the information and brought it to the police.  
+**Translation:** Vocabulary: drone: 无人机
 
-**[5344.58s] English:** Джангл Кипперс поддерживает полицию, потому что Перуанскому правительству,  
+**[5344.58s] English:** Jungle Kippers supports the police because Peruvian government,  
 **Translation:** 
 
-**[5350.56s] English:** с ограниченными ресурсами, тяжело управлять Амазонией,  
-**Translation:** 
+**[5350.56s] English:** With limited resources, it's hard to manage Amazonia,  
+**Translation:** Vocabulary: amazonia: 亚马逊; kippers: 鲱鱼罐头; peruvian: 秘鲁的
 
-**[5356.66s] English:** нелегко вывести полицейских за три дня пути от цивилизации.  
+**[5356.66s] English:** It's hard to lure the police away for three days' journey from civilization.  
 **Translation:** 
 
-**[5360.92s] English:** Мы одалживаем им лодки или бензин, оказываем логистическую поддержку.  
-**Translation:** 
+**[5360.92s] English:** We lend them boats or gasoline, and provide logistic support.  
+**Translation:** Vocabulary: gasoline: 汽油; logistic: 后勤
 
-**[5366.12s] English:** В марте был момент, мы с Джей-Джеем плыли на лодки и оно было не очень удобно.  
+**[5366.12s] English:** In March, there was a moment when Jay-Jay and I were out on a boat, and it wasn't very comfortable.  
 **Translation:** 
 
-**[5369.02s] English:** лодке в нескольких часах от базы, вверх по реке.  
-**Translation:** 
+**[5369.02s] English:** On a boat several hours from base, upriver.  
+**Translation:** Vocabulary: upriver: 逆流而上
 
-**[5372.38s] English:** Я запустил дрон и вижу большую новую прогалину.  
+**[5372.38s] English:** I launched the drone, and I see a large new clearing.  
 **Translation:** 
 
-**[5376.42s] English:** Направляю дрон туда и снижаюсь.  
-**Translation:** 
+**[5376.42s] English:** I direct the drone there and descend.  
+**Translation:** Vocabulary: descend: 下降
 
-**[5378.50s] English:** Пару раз люди выбегали, махали дрону или говорили  
+**[5378.50s] English:** Paradoxically, a few times people would run out, wave at the drone, or speak to it.  
 **Translation:** 
 
-**[5381.50s] English:** «проваливай!»  
-**Translation:** 
+**[5381.50s] English:** Go away!  
+**Translation:** Vocabulary: paradoxically: 出乎意料地
 
-**[5382.56s] English:** И вот мы там, дрейфуем на реке, я опускаю дрон ниже  
+**[5382.56s] English:** Here we are, drifting on the river, I lower the drone lower.  
 **Translation:** 
 
-**[5387.80s] English:** и вижу маленькие хижины.  
-**Translation:** 
+**[5387.80s] English:** I see small huts.  
+**Translation:** Vocabulary: drifting: 随流而行
 
-**[5391.10s] English:** Мы видим, что поляна уже большая, я делаю снимки.  
+**[5391.10s] English:** We see that the clearing is already quite large, I am taking pictures.  
 **Translation:** 
 
-**[5394.98s] English:** С нами в лодке гости, которые к нам прилетели, и местная  
+**[5394.98s] English:** With us in the boat are guests who flew in, and some local residents.  
 **Translation:** 
 
-**[5398.00s] English:** команда.  
+**[5398.00s] English:** Team.  
 **Translation:** 
 
-**[5400.00s] English:** Вдруг из хижины выбегают люди и бегут прямо к лодке.  
+**[5400.00s] English:** Suddenly, people burst out of the hut and run straight towards the boat.  
 **Translation:** 
 
-**[5405.50s] English:** А мы уже впереди них.  
+**[5405.50s] English:** We are already ahead of them.  
 **Translation:** 
 
-**[5407.54s] English:** А дом внизу по реке.  
+**[5407.54s] English:** A house down by the river.  
 **Translation:** 
 
-**[5409.96s] English:** Они залезают в лодки и начинают гнаться.  
+**[5409.96s] English:** They climb into the boats and begin to chase.  
 **Translation:** 
 
-**[5413.06s] English:** И мы мчим на полной скорости.  
+**[5413.06s] English:** We are speeding at full speed.  
 **Translation:** 
 
-**[5416.28s] English:** У нас 60 лошадей, у них 40.  
+**[5416.28s] English:** We have 60 horses, they have 40.  
 **Translation:** 
 
-**[5419.24s] English:** За нами прям погоня.  
-**Translation:** 
+**[5419.24s] English:** There is a direct pursuit behind us.  
+**Translation:** Vocabulary: pursuit: 追击
 
-**[5422.32s] English:** А с нами гости, потенциальные меценаты.  
+**[5422.32s] English:** And with us are guests, potential patrons.  
 **Translation:** 
 
-**[5426.10s] English:** А вот отец семейства смотрит на меня и говорит,  
-**Translation:** 
+**[5426.10s] English:** Here's the father looking at me and saying,  
+**Translation:** Vocabulary: patrons: 顾客
 
-**[5428.60s] English:** «Эй, шоу с пиратами Карибского моря становится страшным.  
+**[5428.60s] English:** Hey, Pirates of the Caribbean is getting scary.  
 **Translation:** 
 
-**[5432.68s] English:** Вы нас пугаете».  
-**Translation:** 
+**[5432.68s] English:** You are scaring us.  
+**Translation:** Vocabulary: caribbean: 加勒比海; pirates: 海盗; scaring: 吓唬
 
-**[5434.54s] English:** Мол, может мы все-таки...  
+**[5434.54s] English:** Might we perhaps...  
 **Translation:** 
 
-**[5436.94s] English:** «Ты когда дрон опустишь?»  
-**Translation:** 
+**[5436.94s] English:** Are you going to lower the drone?  
+**Translation:** Vocabulary: drone: 无人驾驶飞行器
 
-**[5439.32s] English:** А я управляю дроном, чтобы угнаться за лодкой.  
+**[5439.32s] English:** I am controlling the drone to keep up with the boat.  
 **Translation:** 
 
-**[5441.70s] English:** В общем, я сделал аварийную посадку на берегу, у большого дерева.  
+**[5441.70s] English:** In general, I made an emergency landing on the shore, next to a large tree.  
 **Translation:** 
 
-**[5445.36s] English:** Покеру, потом заберу.  
+**[5445.36s] English:** Poker, then I'll take it.  
 **Translation:** 
 
-**[5446.76s] English:** И я говорю, «Да ничего, такое постоянно».  
-**Translation:** 
+**[5446.76s] English:** And I say, "Oh nothing, it's constant.  
+**Translation:** Vocabulary: poker: 纸牌游戏
 
-**[5449.44s] English:** Они злятся, гоняются за нами.  
+**[5449.44s] English:** They are angry and chase after us.  
 **Translation:** 
 
-**[5451.78s] English:** Пустяки.  
-**Translation:** 
+**[5451.78s] English:** Trivial matters.  
+**Translation:** Vocabulary: trivial: 琐事
 
-**[5452.72s] English:** Я улыбался, Джей Джей улыбается, говорит, «Все не так уж и плохо».  
+**[5452.72s] English:** I smiled, Jay Jay smiled and said, "It's not that bad after all.  
 **Translation:** 
 
-**[5456.16s] English:** А потом посмотрел на меня, улыбка слетела, как мать.  
+**[5456.16s] English:** Then he looked at me, and his smile slipped away, like a mother.  
 **Translation:** 
 
-**[5458.60s] English:** И он такой, «Это очень плохо».  
+**[5458.60s] English:** He said, "This is very bad.  
 **Translation:** 
 
-**[5463.22s] English:** Мы продолжили плыть вверх по реке, к счастью.  
-**Translation:** 
+**[5463.22s] English:** We continued to paddle up the river, fortunately.  
+**Translation:** Vocabulary: paddle: 用桨划
 
-**[5466.10s] English:** Там был лагерь полиции, с которым мы и много работали.  
+**[5466.10s] English:** There was a police camp there, with which we worked a lot.  
 **Translation:** 
 
-**[5470.20s] English:** Я помню, как подошел к другу, пожал ему руку, он спрашивал, «Что происходит?»  
-**Translation:** 
+**[5470.20s] English:** I remember how I approached my friend, shook his hand, and he asked, "What's happening?  
+**Translation:** Vocabulary: approached: 走近
 
-**[5476.52s] English:** А по реке летит лодка прямо в нашу сторону.  
+**[5476.52s] English:** A boat is flying down the river straight towards our direction.  
 **Translation:** 
 
-**[5480.02s] English:** Он сделал три вещи.  
+**[5480.02s] English:** He did three things.  
 **Translation:** 
 
-**[5482.78s] English:** Собрал остальных, они вооружились, сели в лодки с оружием.  
+**[5482.78s] English:** Gathered everyone else, they armed themselves, then boarded the boats with their weapons.  
 **Translation:** 
 
-**[5486.54s] English:** Надели балаклавы, приготовились.  
-**Translation:** 
+**[5486.54s] English:** Put on the balaclavas, get ready.  
+**Translation:** Vocabulary: balaclavas: 面罩
 
-**[5488.60s] English:** Они сказали нам подождать, включили спутниковую связь и вызвали подкрепление.  
+**[5488.60s] English:** They told us to wait, activated satellite communication, and called for reinforcement.  
 **Translation:** 
 
-**[5494.82s] English:** Мы развернули нашу лодку.  
-**Translation:** 
+**[5494.82s] English:** We launched our boat.  
+**Translation:** Vocabulary: reinforcement: 增援
 
-**[5496.74s] English:** И как только нарки, а мы тогда даже не поняли, что это они, думали, лесорубы.  
+**[5496.74s] English:** And as soon as the drug dealers arrived, we didn't even realize they were drug dealers; we thought they were loggers.  
 **Translation:** 
 
-**[5503.78s] English:** И как они увидели стволы и нас, повернутых к ним, они развернули лодки и поплыли обратно.  
-**Translation:** 
+**[5503.78s] English:** And as they saw the trees and us turned toward them, they turned their boats and paddled back.  
+**Translation:** Vocabulary: loggers: 伐木工; paddled: 划船
 
-**[5508.96s] English:** Нас проводили вниз по реке, и я помню, как пожал другую руку, поблагодарил его за то, что он нас сегодня спас.  
+**[5508.96s] English:** We were taken down the river, and I remember shaking another hand and thanking him for saving us today.  
 **Translation:** 
 
-**[5517.22s] English:** Я помню, как он сказал остальным, что он спас нас сегодня.  
+**[5517.22s] English:** I remember how he told everyone that he saved us today.  
 **Translation:** 
 
-**[5518.60s] English:** Я помню, что они молодцы.  
+**[5518.60s] English:** I remember that they are great.  
 **Translation:** 
 
-**[5520.00s] English:** Сказал им возвращаться, что мы дома.  
+**[5520.00s] English:** Said to them to return that we are home.  
 **Translation:** 
 
-**[5522.30s] English:** Прошло много часов.  
+**[5522.30s] English:** Many hours had passed.  
 **Translation:** 
 
-**[5523.54s] English:** Я им говорю, молодцы, спасибо вам.  
+**[5523.54s] English:** I tell them, "Good job, thank you.  
 **Translation:** 
 
-**[5527.10s] English:** Они поплыли обратно, я тем вечером сижу на станции, и мне поступает звонок.  
+**[5527.10s] English:** They paddled back. That evening, I was sitting at the station and received a call.  
 **Translation:** 
 
-**[5532.66s] English:** От Стефана.  
+**[5532.66s] English:** From Stefan.  
 **Translation:** 
 
-**[5534.60s] English:** Он пишет, возьми трубку, а я занят.  
+**[5534.60s] English:** He writes, "Pick up the phone, I'm busy.  
 **Translation:** 
 
-**[5537.32s] English:** Он настаивает, возьми трубку.  
+**[5537.32s] English:** He insists, pick up the phone.  
 **Translation:** 
 
-**[5541.62s] English:** Мой друг, руку которого я пожал всего пару часов назад, вернулся в лагерь,  
+**[5541.62s] English:** My friend, whose hand I shook just a few hours ago, has returned to the camp.  
 **Translation:** 
 
-**[5546.16s] English:** и пока они разгружали лодку и мылись в ручье,  
-**Translation:** 
+**[5546.16s] English:** And while they were unloading the boat and washing up in the stream,  
+**Translation:** Vocabulary: unloading: 卸货
 
-**[5550.00s] English:** нарки проехали мимо и выстрелили ему прямо в грудь, из дробовика.  
+**[5550.00s] English:** Narcos drove by and shot him straight in the chest with a shotgun.  
 **Translation:** 
 
-**[5556.30s] English:** Весь наш энтузиазм,  
+**[5556.30s] English:** Our entire enthusiasm,  
 **Translation:** 
 
-**[5558.96s] English:** вся эта защита, биоразнообразие, это круто.  
+**[5558.96s] English:** All this protection, biodiversity—it's cool.  
 **Translation:** 
 
-**[5562.80s] English:** Как сцена из фильма, нарезанные кадры успеха и побед.  
-**Translation:** 
+**[5562.80s] English:** As a scene from a movie, edited clips of success and victory.  
+**Translation:** Vocabulary: biodiversity: 生物多样性
 
-**[5568.02s] English:** А потом...  
+**[5568.02s] English:** Then...  
 **Translation:** 
 
-**[5571.06s] English:** выстрел из дробовика.  
-**Translation:** 
+**[5571.06s] English:** A shot from a shotgun.  
+**Translation:** Vocabulary: shotgun: 散弹枪
 
-**[5573.26s] English:** А я еще чувствовал его руку в своей, я только держал его за руку.  
+**[5573.26s] English:** I still felt his hand in mine; I only held him by the hand.  
 **Translation:** 
 
-**[5577.04s] English:** Я говорю, нет, не верю, он в порядке?  
+**[5577.04s] English:** I say, no, I don't believe he's in order?  
 **Translation:** 
 
-**[5579.12s] English:** А Стефан?  
+**[5579.12s] English:** Is Stefan there?  
 **Translation:** 
 
-**[5579.70s] English:** Ему из дробовика выстрелили в грудь.  
-**Translation:** 
+**[5579.70s] English:** He was shot in the chest with a shotgun.  
+**Translation:** Vocabulary: stefan: 斯蒂芬
 
-**[5582.66s] English:** Он мертв.  
+**[5582.66s] English:** He is dead.  
 **Translation:** 
 
-**[5584.24s] English:** Окей.  
+**[5584.24s] English:** Okay.  
 **Translation:** 
 
-**[5585.32s] English:** Мне пришлось пойти на ужин, не показывая гостям, что что-то случилось, просто.  
+**[5585.32s] English:** I had to go out for dinner, not showing the guests that something happened, just.  
 **Translation:** 
 
-**[5590.30s] English:** Улыбаться, смеяться, болтать с ними.  
+**[5590.30s] English:** To laugh, to smile, to chat with them.  
 **Translation:** 
 
-**[5593.94s] English:** И держать это в себе, что было очень сложно.  
+**[5593.94s] English:** To keep this in, it was very difficult.  
 **Translation:** 
 
-**[5600.56s] English:** Ты правильно сказал, уровень угрозы вырос, а мы и не знали.  
+**[5600.56s] English:** You were right; the threat level has risen, and we didn't even know.  
 **Translation:** 
 
-**[5605.80s] English:** Пришли наркоторговцы и поняли, что тут куча дикой территории,  
+**[5605.80s] English:** Priished narktorgovtsy and ponyalish that tukh tucha dikoy teritoryi,  
 **Translation:** 
 
-**[5609.70s] English:** они могут тут вольничать, полиции-то нет.  
-**Translation:** 
+**[5609.70s] English:** They can misbehave here with no police around.  
+**Translation:** Vocabulary: misbehave: 行为不当; narktorgovtsy: 毒贩; ponyalish: 明白; teritoryi: 领土
 
-**[5611.76s] English:** И тут мы запустили дрон, и они разозлились.  
+**[5611.76s] English:** Here, we launched a drone, and they got angry.  
 **Translation:** 
 
-**[5615.50s] English:** Мы связались с полицией, а нам сказали, а, да, это наркоторговцы.  
-**Translation:** 
+**[5615.50s] English:** We contacted the police, and they told us, yeah, these are drug dealers.  
+**Translation:** Vocabulary: drone: 无人驾驶飞机
 
-**[5623.10s] English:** Тогда мы поняли, что они часть серьезной наркомафии.  
+**[5623.10s] English:** Then we understood that they were part of a serious drug mafia.  
 **Translation:** 
 
-**[5628.50s] English:** Потом я уехал обратно в Нью-Йорк, это тот самый эпизод, который ты упомянул, из конца моей книги.  
-**Translation:** 
+**[5628.50s] English:** Then I went back to New York, which is the episode you mentioned from the end of my book.  
+**Translation:** Vocabulary: mafia: 黑帮
 
-**[5636.70s] English:** Я поехал встречаться с меценатами, чтобы попытаться проникнуть в Нью-Йорк.  
+**[5636.70s] English:** I went to meet with philanthropists to try to get into New York.  
 **Translation:** 
 
-**[5639.56s] English:** Мы продолжили.  
-**Translation:** 
+**[5639.56s] English:** We continued.  
+**Translation:** Vocabulary: philanthropists: 慈善家
 
-**[5640.00s] English:** всю работу. Ты знаешь, как там все устроено. Ты на станции, потом едешь в лесозаготовительный  
+**[5640.00s] English:** Here is the transcript with natural English punctuation and capitalization: Всю работу. Ты знаешь, как там всё устроено. Ты на станции, потом едешь в лесозаготовительный. Transcribed to English: All the work. You know how it's all set up. You're at the station, then you go to the logging site.  
 **Translation:** 
 
-**[5647.22s] English:** городок, а дальше дорога. Наш пикап приехал на базу, и Джей-Джей должен был спуститься,  
-**Translation:** 
+**[5647.22s] English:** A small town, and then the road. Our pickup truck arrived at the base, and JJ had to descend,  
+**Translation:** Vocabulary: descend: 下山; pickup: 皮卡; transcribed: 转录; transcript: 录音稿
 
-**[5652.72s] English:** сесть в грузовик и поехать обратно в город. Джей-Джей был на реке и вдруг понял, что что-то  
+**[5652.72s] English:** To sit in the truck and go back to the city. Jay-Jay was on the river and suddenly realized that something  
 **Translation:** 
 
-**[5661.40s] English:** там забыл, и решил поехать на следующий день. Он вернулся наверх и отправил водителя лодки вниз,  
+**[5661.40s] English:** There, I forgot something, and decided to go back the next day. He returned upstairs and sent the boat driver down,  
 **Translation:** 
 
-**[5667.84s] English:** чтобы тот сказал нашему водителю Перси, который ждал с пикапом, «Джей-Джей сегодня не придет,  
+**[5667.84s] English:** To say to our driver Percy, who was waiting with the pickup, "Jay-Jay won't be coming today,  
 **Translation:** 
 
-**[5673.66s] English:** езжай обратно, возвращайся завтра». Перси едет по дороге, и поперек нее лежит дерево. Это  
-**Translation:** 
+**[5673.66s] English:** Drive back, come back tomorrow." Percy drives down the road, and across it lies a tree. This  
+**Translation:** Vocabulary: percy: 佩里
 
-**[5681.38s] English:** однополосная дорога, не свернешь. Выбегают мужики с оружием, суют пистолеты в открытые окна,  
+**[5681.38s] English:** One-lane road, no way to swerve. Men with weapons emerge, sticking pistols into the open windows.  
 **Translation:** 
 
-**[5687.46s] English:** приставляют ствол к голове и вытаскивают его и говорят, «Где Джей-Джей, и этот мердогринго  
-**Translation:** 
+**[5687.46s] English:** They point a gun to his head, pull the trigger, and say, "Where's Jay-Jay, and this merdogrin?  
+**Translation:** Vocabulary: pistols: 手枪; sticking: 伸出; swerve: 避让
 
-**[5693.84s] English:** Болл Эльдро?» Типа, «Где этот говнюггринго, запустивший  
+**[5693.84s] English:** Ball Eldro?" Type of, "Where's this jerk who launched  
 **Translation:** 
 
-**[5697.82s] English:** дрон?» Если бы кто-то из нас был в машине в тот день, нас бы убили. Мы это знаем,  
+**[5697.82s] English:** Dron?" If any of us had been in the car that day, we would have been killed. We know this.  
 **Translation:** 
 
-**[5703.58s] English:** ведь они забрали у нашего водителя Перси кошелек и телефон. Слава Богу, его не тронули, но они  
+**[5703.58s] English:** They took our driver Percy's wallet and phone, but thankfully, he wasn't hurt.  
 **Translation:** 
 
-**[5710.36s] English:** отправили нам сообщение. Написали, «В этот раз повезло, но в следующий раз поймаем. Мы вас достанем».  
+**[5710.36s] English:** They sent us a message. "This time we were lucky, but next time we'll catch you. We'll get you.  
 **Translation:** 
 
-**[5716.60s] English:** Когда Джей-Джей мне позвонил, он был на адреналине и эмоциях.  
+**[5716.60s] English:** When Jay-Jay called me, he was on adrenaline and emotions.  
 **Translation:** 
 
-**[5727.82s] English:** От того, что почти случилось. Это изменило все. С тех пор мы занимаемся не подсчетом бабочек и  
-**Translation:** 
+**[5727.82s] English:** From what almost happened. This changed everything. Since then, we've been doing more than just counting butterflies and  
+**Translation:** Vocabulary: adrenaline: 肾上腺素
 
-**[5738.46s] English:** экологическими исследованиями. На нашей реке идет война с нарками. Теперь мы не можем просто выходить  
+**[5738.46s] English:** Ecological researches. On our river, there's a war with drug dealers. Now we can't just go outside.  
 **Translation:** 
 
-**[5746.70s] English:** и встречаться с людьми, потому что нас ищут, чтобы пристрелить. Они знают наши имена. И если могло  
-**Translation:** 
+**[5746.70s] English:** And meet with people because they are looking for us to kill us. They know our names. And if it could  
+**Translation:** Vocabulary: researches: 研究
 
-**[5756.72s] English:** показаться, что мы перестали, то мы не можем. Мы не можем. Мы не можем. Мы не можем. Мы не можем.  
+**[5756.72s] English:** It seems that we have stopped, but we can't. We can't. We can't. We can't. We can't.  
 **Translation:** 
 
-**[5757.82s] English:** Мы не страховываемся. Полиция перехватывала телефон.  
+**[5757.82s] English:** We do not insure ourselves. The police intercepted the phone.  
 **Translation:** 
 
-**[5760.00s] English:** на арестованного человека, а у него в чате, ватсап было,  
+**[5760.00s] English:** On the arrested person, and there was a chat on WhatsApp,  
 **Translation:** 
 
-**[5763.64s] English:** «Если увидите Джей Джей или Гринга, любой человек в сети, убейте.  
-**Translation:** 
+**[5763.64s] English:** If you see JJ or Gring, any person in the network, kill them.  
+**Translation:** Vocabulary: gring: 格林
 
-**[5767.84s] English:** Будете вознаграждены».  
+**[5767.84s] English:** You will be rewarded.  
 **Translation:** 
 
-**[5769.16s] English:** На нас обоих метка и жизнь на реке теперь изменилась.  
+**[5769.16s] English:** On both of us, the mark remains, and life on the river has now changed.  
 **Translation:** 
 
-**[5774.64s] English:** Мы не можем...  
+**[5774.64s] English:** We cannot...  
 **Translation:** 
 
-**[5776.34s] English:** Я не могу просто выйти погулять, поплавать, сесть в лодку.  
-**Translation:** 
+**[5776.34s] English:** I cannot just go for a walk, swim, or sit in a boat.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[5781.22s] English:** Приходится постоянно быть на чеку.  
+**[5781.22s] English:** We have to constantly be on our guard.  
 **Translation:** 
 
-**[5784.38s] English:** Можно сколько угодно упражняться в стрельбе,  
+**[5784.38s] English:** Can you practice shooting as much as you want,  
 **Translation:** 
 
-**[5786.78s] English:** спать с пистолетом под подушкой, но эти люди...  
+**[5786.78s] English:** Sleeping with a pistol under the pillow, but these people...  
 **Translation:** 
 
-**[5790.44s] English:** поймают тебя тогда, когда ты меньше всего ожидаешь.  
-**Translation:** 
+**[5790.44s] English:** They will catch you when you least expect it.  
+**Translation:** Vocabulary: pistol: 手枪
 
-**[5794.38s] English:** Дождутся, когда ты придешь в кафе в городе,  
+**[5794.38s] English:** They will wait until you come to the cafe in the city.  
 **Translation:** 
 
-**[5796.58s] English:** или когда на реке заглохнет двигатель.  
+**[5796.58s] English:** Or when the engine dies on the river.  
 **Translation:** 
 
-**[5799.46s] English:** Просто раз, и все.  
+**[5799.46s] English:** Just like that, and it's all over.  
 **Translation:** 
 
-**[5801.20s] English:** Все это легло на нас поверх времени защиты экосистемы и животных,  
-**Translation:** 
+**[5801.20s] English:** All of this fell upon us on top of the time dedicated to protecting ecosystems and animals.  
+**Translation:** Vocabulary: ecosystems: 生态系统
 
-**[5808.28s] English:** поверх просветительской деятельности.  
+**[5808.28s] English:** Of surface enlightenment activities.  
 **Translation:** 
 
-**[5810.78s] English:** Теперь на нас активно охотятся.  
-**Translation:** 
+**[5810.78s] English:** Now they are actively hunting for us.  
+**Translation:** Vocabulary: actively: 积极地; enlightenment: 启蒙
 
-**[5813.50s] English:** То есть, они ищут именно тебя и Джей Джея?  
+**[5813.50s] English:** So, they are looking for you and Jay Jay?  
 **Translation:** 
 
-**[5817.70s] English:** Да.  
+**[5817.70s] English:** Yes.  
 **Translation:** 
 
-**[5819.18s] English:** Им?  
+**[5819.18s] English:** Im?  
 **Translation:** 
 
-**[5820.42s] English:** Плевать на остальных.  
+**[5820.42s] English:** Plow through the others.  
 **Translation:** 
 
-**[5823.12s] English:** Они понимают.  
+**[5823.12s] English:** They understand.  
 **Translation:** 
 
-**[5826.46s] English:** Ты боишься?  
+**[5826.46s] English:** Are you afraid?  
 **Translation:** 
 
-**[5829.10s] English:** Каково это...  
+**[5829.10s] English:** What is it like...  
 **Translation:** 
 
-**[5833.78s] English:** жить со страхом,  
+**[5833.78s] English:** Live with fear,  
 **Translation:** 
 
-**[5837.38s] English:** что тебя в любой момент могут убить?  
+**[5837.38s] English:** What might kill you at any moment?  
 **Translation:** 
 
-**[5840.62s] English:** Хотел бы сказать, что справлюсь лучше, чем на самом деле, но...  
+**[5840.62s] English:** I wanted to say that I would do better than I actually will, but...  
 **Translation:** 
 
-**[5844.64s] English:** не знаю, как это переживают люди в зонах боевых действий.  
+**[5844.64s] English:** I don't know how people in conflict zones cope with this.  
 **Translation:** 
 
-**[5848.68s] English:** Не понимаю, как во время ссоры...  
+**[5848.68s] English:** I don't understand how to handle arguments...  
 **Translation:** 
 
-**[5850.00s] English:** Службы с этим справлялись мои друзья-солдаты, которых я безумно уважаю.  
+**[5850.00s] English:** Services like these were handled by my friends-soldiers, whom I immensely respect.  
 **Translation:** 
 
-**[5854.22s] English:** В тех пор, как это произошло, любой звонок для меня теперь...  
-**Translation:** 
+**[5854.22s] English:** Since then, any call for me now...  
+**Translation:** Vocabulary: immensely: 非常
 
-**[5858.28s] English:** С Джей Джеем что-то случилось?  
+**[5858.28s] English:** Is something wrong with JayJay?  
 **Translation:** 
 
-**[5860.74s] English:** Каждый раз, когда я ложусь спать,  
+**[5860.74s] English:** Every time I lie down to sleep,  
 **Translation:** 
 
-**[5863.32s] English:** мне снится, что...  
+**[5863.32s] English:** I dream that...  
 **Translation:** 
 
-**[5865.18s] English:** в меня стреляют.  
+**[5865.18s] English:** They are shooting at me.  
 **Translation:** 
 
-**[5868.54s] English:** На меня очень сильно это повлияло, по-настоящему.  
+**[5868.54s] English:** This greatly affected me, truly.  
 **Translation:** 
 
-**[5872.20s] English:** Когда Джей Джея позвонил, он кричал.  
+**[5872.20s] English:** When Jay called Jay, he was shouting.  
 **Translation:** 
 
-**[5875.88s] English:** Даже не помню, что он говорил, он орал.  
+**[5875.88s] English:** Even I don't remember what he said; he was shouting.  
 **Translation:** 
 
-**[5878.16s] English:** Они чуть нас не достали, чуть не достали.  
+**[5878.16s] English:** They just barely didn't reach us, didn't quite get to us.  
 **Translation:** 
 
-**[5880.00s] English:** он был так напуган и зол. Так что да, я недавно плавал в реке прямо перед ступенями станции,  
+**[5880.00s] English:** He was so scared and angry. That's why, yes, I recently swam in the river right before the station steps.  
 **Translation:** 
 
-**[5890.52s] English:** и из-за изгиба реки вышла лодка. Я помню, как думал, бежать, уйти под воду, спрятаться,  
+**[5890.52s] English:** And because of the bend in the river, a boat appeared. I remember thinking to run, dive under the water, and hide.  
 **Translation:** 
 
-**[5900.50s] English:** что, блин, делать мне? У меня не было ствола, а краники были наверху. Ты думаешь, черт. Это  
+**[5900.50s] English:** What the hell am I supposed to do? I didn't have a gun, but the valves were up top. You think, damn. This  
 **Translation:** 
 
-**[5909.16s] English:** никак, если прыгнешь на анаконду, она может тебя убить, или если залезешь куда-то, можешь упасть.  
-**Translation:** 
+**[5909.16s] English:** No, if you jump on an anaconda, it might kill you, or if you climb somewhere, you might fall.  
+**Translation:** Vocabulary: anaconda: 大boa蛇; valves: 阀门
 
-**[5914.38s] English:** Люди хотят тебя убить. Плюс ко всему, когда ты видишь, как выглядит твой друг после трех дней в  
+**[5914.38s] English:** People want to kill you. Plus, when you see how your friend looks after three days in  
 **Translation:** 
 
-**[5926.26s] English:** реке, как выглядит тело человека, которого ты знал, это катастрофически страшно. Это трагедия. Человек  
-**Translation:** 
+**[5926.26s] English:** River, as it looks like the body of someone you knew, this is catastrophically terrifying. It's a tragedy. Human,  
+**Translation:** Vocabulary: catastrophically: 灾难性地
 
-**[5939.06s] English:** потерял жизнь, а он был моложе меня. Еще ребенок, немного за 20. В таких обстоятельствах сложно  
+**[5939.06s] English:** Lost his life, and he was younger than me. Just a child, barely in his twenties. In such circumstances, it's so difficult.  
 **Translation:** 
 
-**[5948.00s] English:** что-либо делать. У меня сейчас руки вспотели, даже тут на меня это влияет. В нем можно сказать,  
+**[5948.00s] English:** That's something I'm doing. My hands are sweating even here, and this is affecting me. We can say that,  
 **Translation:** 
 
-**[5954.96s] English:** все нормально, ничего, это часть приключения, люди с таким сталкиваются по всему миру. Можно  
+**[5954.96s] English:** All is well, nothing to worry about, this is just part of the adventure. People face similar situations all over the world. Can  
 **Translation:** 
 
-**[5961.00s] English:** себя как-то настроить. А потом наступает тишина, и ты просыпаешься в 4 утра, весь в поту и думаешь,  
-**Translation:** 
+**[5961.00s] English:** To myself, I sometimes need to set a mindset. And then there comes a silence, and at 4 in the morning, you wake up drenched in sweat, thinking,  
+**Translation:** Vocabulary: drenched: 全身湿透; mindset: 心态
 
-**[5969.06s] English:** почему мне это снилось? Почему сердце так колотится? Страх проникает в подсознание. Мы же на это  
+**[5969.06s] English:** Why did I dream this? Why is my heart racing so fast? Fear penetrates the subconscious. We must be prepared for this.  
 **Translation:** 
 
-**[5979.08s] English:** не подписывались. Мы просто хотели защитить красивое место, а это угроза другого толка,  
-**Translation:** 
+**[5979.08s] English:** Did not sign up. We just wanted to protect a beautiful place, and this is a different kind of threat.  
+**Translation:** Vocabulary: penetrates: 穿透; subconscious: 潜意识
 
-**[5984.12s] English:** мы этому не обучены. Мы не полицейские, не военные, но теперь мы увидели насилие в масштабе,  
+**[5984.12s] English:** We are not trained for this. We are not police or soldiers, but now we have seen violence on a scale,  
 **Translation:** 
 
-**[5995.22s] English:** которому не были предназначены.  
+**[5995.22s] English:** Which were not intended for him.  
 **Translation:** 
 
-**[5999.06s] English:** Готовы.  
+**[5999.06s] English:** Ready.  
 **Translation:** 
 
-**[6000.00s] English:** Два дня назад я к тебе ехал, время девять вечера, у меня зазвонил телефон, это был Джей Джей.  
+**[6000.00s] English:** Two days ago, I was heading to you at nine o'clock in the evening when my phone rang. It was Jay Jay.  
 **Translation:** 
 
-**[6006.10s] English:** Сердце колотилось, пришлось остановиться.  
+**[6006.10s] English:** Heart pounding, I had to stop.  
 **Translation:** 
 
-**[6010.02s] English:** Я думал, какие новости, мы потеряли еще кучу гектаров?  
-**Translation:** 
+**[6010.02s] English:** I thought, what news? We've lost even more hectares?  
+**Translation:** Vocabulary: hectares: 公顷; pounding: 剧烈跳动
 
-**[6015.00s] English:** Там новая дорога, кто-то умер?  
+**[6015.00s] English:** There's a new road there, has someone died?  
 **Translation:** 
 
-**[6018.10s] English:** Это выбивает из колеи.  
+**[6018.10s] English:** This throws me off.  
 **Translation:** 
 
-**[6020.64s] English:** В каком-то смысле это поворот событий, о котором ты не просил.  
+**[6020.64s] English:** In some sense, this is a turn of events that you didn't ask for.  
 **Translation:** 
 
-**[6024.14s] English:** И он напрямую не связан с борьбой, которую ты ведешь, с защитой леса.  
+**[6024.14s] English:** He is not directly connected to the battle you are fighting to protect the forest.  
 **Translation:** 
 
-**[6029.14s] English:** Но из-за того, что лес девственный, тихий, вдали от цивилизации, он стал удачным местом для взлетной полосы.  
+**[6029.14s] English:** But because the forest is pristine, quiet, and remote from civilization, it became a suitable location for a runway.  
 **Translation:** 
 
-**[6041.70s] English:** В лесу начинает твориться беззаконие из-за удаленности от цивилизации.  
-**Translation:** 
+**[6041.70s] English:** In the forest, lawlessness begins due to its remoteness from civilization.  
+**Translation:** Vocabulary: lawlessness: 无法律约束; pristine: 原始未受污染; remoteness: 偏远
 
-**[6046.18s] English:** Да. Лишь там они могут работать безнаказанно.  
+**[6046.18s] English:** Yes. Only there can they work without fear of consequences.  
 **Translation:** 
 
-**[6050.12s] English:** Там нет полиции.  
+**[6050.12s] English:** There is no police there.  
 **Translation:** 
 
-**[6050.98s] English:** Они увидели, что мы помогаем полиции, и решили отрубить голову змея.  
+**[6050.98s] English:** They saw that we were helping the police and decided to cut off the snake's head.  
 **Translation:** 
 
-**[6057.82s] English:** Но, знаешь...  
+**[6057.82s] English:** But, you know...  
 **Translation:** 
 
-**[6059.14s] English:** Чико Мендес, Дороти Станг, в список защитников природы, убитых в Амазонке,  
+**[6059.14s] English:** Chico Mendes, Dorothy Stang, in the list of nature defenders killed in the Amazon,  
 **Translation:** 
 
-**[6066.66s] English:** каждый год только пополняется.  
-**Translation:** 
+**[6066.66s] English:** Each year, it only gets populated more.  
+**Translation:** Vocabulary: mendes: Mendes; stang: Stang
 
-**[6069.52s] English:** Примеров бесконечное множество.  
+**[6069.52s] English:** Examples are endless.  
 **Translation:** 
 
-**[6072.38s] English:** Не помню точную цифру, но мы каждый год теряем людей.  
+**[6072.38s] English:** I don't remember the exact number, but we lose people every year.  
 **Translation:** 
 
-**[6077.74s] English:** Иногда это местные лидеры, пытающиеся остановить нефтяную компанию или наркокартель, их убивают.  
+**[6077.74s] English:** Sometimes it is local leaders trying to stop an oil company or a drug cartel; they are killed.  
 **Translation:** 
 
-**[6083.00s] English:** Они знают, что если пристрелить человека, способного собрать поддержку, того, у кого есть голос,  
+**[6083.00s] English:** They know that if they shoot someone who is able to gather support, someone who has a voice,  
 **Translation:** 
 
-**[6089.14s] English:** то, как правило, все уляжется, и можно вернуться к своим делишкам.  
+**[6089.14s] English:** Typically, everything settles down, and one can return to their pursuits.  
 **Translation:** 
 
-**[6094.72s] English:** И сейчас мы очень тесно работаем с перуанским правительством.  
-**Translation:** 
+**[6094.72s] English:** Currently, we are working very closely with the Peruvian government.  
+**Translation:** Vocabulary: peruvian: 秘鲁的; pursuits: 追求; settles: 平静下来
 
-**[6099.12s] English:** Люди думают, что латиноамериканское правительство автоматически значит коррумпированные,  
+**[6099.12s] English:** People think that Latin American government automatically means corrupt,  
 **Translation:** 
 
-**[6103.82s] English:** но мы обнаружили, что они на самом деле хорошие люди,  
-**Translation:** 
+**[6103.82s] English:** We found that they are actually good people.  
+**Translation:** Vocabulary: corrupt: 贪污的
 
-**[6108.62s] English:** которые хотят помочь своим гражданам.  
+**[6108.62s] English:** Which ones want to help their citizens.  
 **Translation:** 
 
-**[6111.24s] English:** Полиция очень усердно работает, чтобы остановить нарков, защитить коренных жителей,  
-**Translation:** 
+**[6111.24s] English:** Police are very diligently working to stop the drug dealers and protect the indigenous residents.  
+**Translation:** Vocabulary: diligently: 勤奋地; indigenous: 土著的
 
-**[6116.66s] English:** потому что вместе с наркокартелями,  
+**[6116.66s] English:** Because together with drug cartels,  
 **Translation:** 
 
-**[6119.14s] English:** приходит и  
-**Translation:** 
+**[6119.14s] English:** It comes in and  
+**Translation:** Vocabulary: cartels: 垄断组织
 
-**[6120.00s] English:** торговли людьми. В команде мужиков-нарков, производящих наркотики в лесу, прилагаются и  
+**[6120.00s] English:** Trafficking in people. In the team of guy-narcotics producers operating in the forest, and  
 **Translation:** 
 
-**[6127.62s] English:** проститутки. Откуда они берутся? Они идут красть девчонок из коренных поселений, которые ничего  
-**Translation:** 
+**[6127.62s] English:** Prostitutes. Where do they come from? They go to steal girls from the indigenous settlements, which have no choice.  
+**Translation:** Vocabulary: prostitutes: 妓女; trafficking: 人口贩卖
 
-**[6133.66s] English:** не понимают. Я изданный, что наркоторговцы вступили в контакт с неконтактными племенами,  
+**[6133.66s] English:** They don't understand. I've been informed that drug dealers have made contact with non-contact tribes.  
 **Translation:** 
 
-**[6139.68s] English:** и они будут стрелять из автоматов. Не из дробовиков, тогда бы был бы честный бой.  
-**Translation:** 
+**[6139.68s] English:** And they will shoot with automatic weapons. Not shotguns; then it would be a fair fight.  
+**Translation:** Vocabulary: tribes: 部落
 
-**[6144.40s] English:** Скосят их как траву, а неконтактные племена даже не поймут, что произошло.  
+**[6144.40s] English:** They mow them down like grass, and the non-contact tribes won't even understand what happened.  
 **Translation:** 
 
-**[6148.16s] English:** Поэтому я выложил видео, где стою под дождем и говорю, это Энштейн. Потому что с севера нашей  
-**Translation:** 
+**[6148.16s] English:** Therefore, I posted a video where I stand in the rain and say, "This is Einstein." Because it's from the north of our  
+**Translation:** Vocabulary: einstein: 爱因斯坦
 
-**[6154.50s] English:** территории, над древним лесом, начали прокладывать новую дорогу. Они перепрыгнули дальше,  
+**[6154.50s] English:** Territory, over the ancient forest, they began to lay a new road. They leaped ahead.  
 **Translation:** 
 
-**[6161.38s] English:** мы же остановили их у леса. Теперь они зашли выше него и пытаются прорубиться к новой зоне.  
-**Translation:** 
+**[6161.38s] English:** We stopped them at the forest. Now they have gone higher and are trying to break through to a new zone.  
+**Translation:** Vocabulary: leaped: 跳跃
 
-**[6170.08s] English:** Вот так это выглядит.  
+**[6170.08s] English:** Here it looks like this.  
 **Translation:** 
 
-**[6174.88s] English:** Трансамазонская...  
-**Translation:** 
+**[6174.88s] English:** Transamazonskaya...  
+**Translation:** Vocabulary: transamazonskaya: 亚马孙河畔的
 
-**[6175.60s] English:** Стефан, конечно.  
+**[6175.60s] English:** Stefan, of course.  
 **Translation:** 
 
-**[6178.16s] English:** Сделал эту карту.  
-**Translation:** 
+**[6178.16s] English:** I made this map.  
+**Translation:** Vocabulary: stefan: 斯蒂芬
 
-**[6179.40s] English:** Здесь видно территорию, которую мы пытаемся защитить. Довольно условно, чтобы ничего не выдать,  
+**[6179.40s] English:** Here we can see the territory we are trying to protect. Rather loosely, to avoid giving anything away,  
 **Translation:** 
 
-**[6184.92s] English:** вот зона, которую мы защищаем. В светло-зеленом отмечено 52 тысячи гектаров. А эти метастазы,  
-**Translation:** 
+**[6184.92s] English:** Here is the zone we are protecting. In light green, it's marked at 52 thousand hectares. And these are the metastases,  
+**Translation:** Vocabulary: hectares: 公顷; loosely: 大致; metastases: 转移病灶
 
-**[6190.46s] English:** сеть дорог, что тянется во все стороны, и хочет прорваться внутрь. Они пытаются зайти с севера,  
+**[6190.46s] English:** A network of roads that stretches in all directions, and they want to penetrate inside. They are trying to get in from the north.  
 **Translation:** 
 
-**[6195.74s] English:** там, где стрелка пытается спуститься вниз. Полиция сейчас держит их вдоль этого направления,  
-**Translation:** 
+**[6195.74s] English:** There, where the arrow tries to descend down. The police are currently holding them along this direction.  
+**Translation:** Vocabulary: descend: 下降; penetrate: 渗透
 
-**[6201.66s] English:** там идет полноценная нарковойна. Нужно остановить их, укрепить северную границу.  
+**[6201.66s] English:** There is a full-scale drug war going on there. We need to stop them and reinforce the northern border.  
 **Translation:** 
 
-**[6208.16s] English:** Опять же, посмотри, как мы сильны.  
-**Translation:** 
+**[6208.16s] English:** Again, look how strong we are.  
+**Translation:** Vocabulary: reinforce: 加强
 
-**[6211.40s] English:** Я решил это выложить и попросить Стефана показать людям дорогу и куда она пойдет.  
+**[6211.40s] English:** I decided to post it and ask Stefan to show people the way and where it's going.  
 **Translation:** 
 
-**[6217.66s] English:** Мы выложили видео и сказали, мы должны защитить 40 тысяч гектаров.  
+**[6217.66s] English:** We posted the video and said we need to protect 40,000 hectares.  
 **Translation:** 
 
-**[6221.56s] English:** Вся эта территория — земли неконтактных племен.  
+**[6221.56s] English:** This entire territory is home to uncontacted tribes.  
 **Translation:** 
 
-**[6224.74s] English:** И только с одного поста мы собрали 150 тысяч долларов за 48 часов,  
-**Translation:** 
+**[6224.74s] English:** Only from one post, we collected $150,000 in 48 hours.  
+**Translation:** Vocabulary: tribes: 未接触的原住民
 
-**[6230.28s] English:** и выкупили концессию. Мы остановили эту дорогу.  
+**[6230.28s] English:** And we bought the concession. We stopped this road.  
 **Translation:** 
 
-**[6233.84s] English:** Но теперь они вот здесь и пытаются спуститься вниз.  
-**Translation:** 
+**[6233.84s] English:** But now they are here and are trying to descend down.  
+**Translation:** Vocabulary: concession: 让步
 
-**[6236.36s] English:** В этом вся сфера.  
+**[6236.36s] English:** This is the entire sphere.  
 **Translation:** 
 
-**[6237.40s] English:** Но теперь они здесь и пытаются спуститься вниз. В этом вся сфера.  
+**[6237.40s] English:** But now they are here and are trying to descend down. This is the whole sphere.  
 **Translation:** 
 
-**[6237.44s] English:** В этом вся сфера.  
+**[6237.44s] English:** This is the entire sphere.  
 **Translation:** 
 
-**[6238.04s] English:** Да, Соля, да. Кажется, здорово. Ты вроде...  
+**[6238.04s] English:** Yes, Solya, yes. It seems great. You seem...  
 **Translation:** 
 
-**[6240.00s] English:** как авантюристы, живёшь в джунглях.  
+**[6240.00s] English:** As an adventurer, you live in the jungles.  
 **Translation:** 
 
-**[6243.72s] English:** Но больше похоже на фильм «Миссия невыполнима»,  
-**Translation:** 
+**[6243.72s] English:** But it's more like the movie "Mission Impossible",  
+**Translation:** Vocabulary: adventurer: 探险家; jungles: 丛林
 
-**[6247.02s] English:** где тебе может повезёт провернуть безумную затею,  
+**[6247.02s] English:** Where you might just manage to pull off a疯狂的念头,  
 **Translation:** 
 
-**[6250.02s] English:** прыгнуть на мотоцикле с поезда,  
+**[6250.02s] English:** Jump off a train on a motorcycle,  
 **Translation:** 
 
-**[6251.84s] English:** спуститься на парашюте и остановить бомбу за секунду до взрыва.  
+**[6251.84s] English:** To parachute down and stop a bomb just one second before it explodes.  
 **Translation:** 
 
-**[6255.36s] English:** Круто, но сколько раз повезёт?  
-**Translation:** 
+**[6255.36s] English:** Cool, but how many times will I be lucky?  
+**Translation:** Vocabulary: explodes: 爆炸; parachute: 降落伞
 
-**[6258.26s] English:** Нам приходится делать это каждый месяц.  
+**[6258.26s] English:** We have to do this every month.  
 **Translation:** 
 
-**[6261.98s] English:** Вот в чём штука.  
+**[6261.98s] English:** Here's the thing.  
 **Translation:** 
 
-**[6263.40s] English:** Прекрасные люди, поддерживающие рейнджеров,  
+**[6263.40s] English:** Beautiful people supporting the rangers,  
 **Translation:** 
 
-**[6265.38s] English:** дают нам патрулировать и защищать территорию.  
-**Translation:** 
+**[6265.38s] English:** They give us the duty to patrol and protect the territory.  
+**Translation:** Vocabulary: rangers: 护林员
 
-**[6268.28s] English:** Ведь как земля становится защищённой, что интересно,  
+**[6268.28s] English:** Well, how the earth becomes protected, interestingly,  
 **Translation:** 
 
-**[6271.64s] English:** полиция может заходить на любую из светло-зелёных зон.  
+**[6271.64s] English:** Police may enter any of the light green zones.  
 **Translation:** 
 
-**[6274.84s] English:** Если там кто-то есть, их арестовывают.  
+**[6274.84s] English:** If there is anyone there, they are arrested.  
 **Translation:** 
 
-**[6277.64s] English:** Они находятся на земле джангл-киперс, всё.  
-**Translation:** 
+**[6277.64s] English:** They are on the jungle keepers' land, that's all.  
+**Translation:** Vocabulary: keepers: 看守者
 
-**[6280.20s] English:** И если будет успех, территория станет национальным парком.  
+**[6280.20s] English:** If there is success, the territory will become a national park.  
 **Translation:** 
 
-**[6283.74s] English:** Проблема с землёй, что не защищена, в том, что это серая зона.  
+**[6283.74s] English:** The problem with land that is not protected is that it's a gray zone.  
 **Translation:** 
 
-**[6287.40s] English:** Середина Амазонии. Имеют ли они право тут быть?  
+**[6287.40s] English:** Mid Amazonia. Do they have the right to be here?  
 **Translation:** 
 
-**[6290.12s] English:** Есть ли у них кокаин?  
-**Translation:** 
+**[6290.12s] English:** Is there cocaine with them?  
+**Translation:** Vocabulary: amazonia: 亚马逊; cocaine: 可卡因
 
-**[6291.08s] English:** Они сажают гектары папайи и где-нибудь за ней прячут немного коки.  
+**[6291.08s] English:** They plant hectares of papaya and hide a bit of coca somewhere nearby.  
 **Translation:** 
 
-**[6297.16s] English:** Они хитрые.  
-**Translation:** 
+**[6297.16s] English:** They are sly.  
+**Translation:** Vocabulary: hectares: 公顷; papaya: 木瓜
 
-**[6298.66s] English:** Полиции нужно собирать доказательства, что долго,  
+**[6298.66s] English:** Police need to gather evidence that it was long,  
 **Translation:** 
 
-**[6301.42s] English:** пока появляется ещё дорога, или они убивают полицейского.  
+**[6301.42s] English:** While they either kill a police officer or there's still a way out.  
 **Translation:** 
 
-**[6306.12s] English:** Если бы мы смогли завтра оформить права на землю,  
+**[6306.12s] English:** If we could manage to register the land rights tomorrow,  
 **Translation:** 
 
-**[6309.80s] English:** проблема была бы решена.  
+**[6309.80s] English:** The problem would have been solved.  
 **Translation:** 
 
-**[6312.38s] English:** Мы бы дали полиции ещё две лодки,  
+**[6312.38s] English:** We would give the police two more boats.  
 **Translation:** 
 
-**[6315.22s] English:** и они патрулировали сколько угодно.  
-**Translation:** 
+**[6315.22s] English:** And they patrolled as much as needed.  
+**Translation:** Vocabulary: patrolled: 巡逻
 
-**[6317.40s] English:** Миссия ясна.  
+**[6317.40s] English:** The mission is clear.  
 **Translation:** 
 
-**[6318.96s] English:** Абсолютно ясна.  
+**[6318.96s] English:** Absolutely clear.  
 **Translation:** 
 
-**[6319.96s] English:** Проблема в том, что сейчас мы обороняемся и несём потери.  
+**[6319.96s] English:** The problem is that right now we are on the defensive and suffering losses.  
 **Translation:** 
 
-**[6324.94s] English:** Либо нам нужно вдохновить достаточное количество людей,  
+**[6324.94s] English:** Either we need to inspire a sufficient number of people,  
 **Translation:** 
 
-**[6328.28s] English:** чтобы программа пожертвований разрослась,  
+**[6328.28s] English:** To allow the donation program to grow,  
 **Translation:** 
 
-**[6330.42s] English:** и вместо нескольких тысяч человек нам бы донатили 50 тысяч.  
-**Translation:** 
+**[6330.42s] English:** And instead of a few thousand people, we would receive donations from 50 thousand.  
+**Translation:** Vocabulary: donation: 捐款; donations: 捐款
 
-**[6335.00s] English:** Тогда бы мы собрали бы, нужно 20 миллионов, чтобы спасти остальное.  
+**[6335.00s] English:** Then we would have gathered the necessary 20 million to save the rest.  
 **Translation:** 
 
-**[6339.90s] English:** При достаточной поддержке мы бы собрали 20 миллионов за ночь.  
+**[6339.90s] English:** With sufficient support, we would gather twenty million in a night.  
 **Translation:** 
 
-**[6344.00s] English:** Либо нужен кто-то с ресурсами, кто придёт, как Бэтмен, и скажет,  
+**[6344.00s] English:** Either we need someone with resources who will come in like Batman and say,  
 **Translation:** 
 
-**[6349.46s] English:** «Я хочу, чтобы парк назвали в мою честь, и просто дам вам 20 миллионов».  
+**[6349.46s] English:** I want the park named after me, and I'll give you 20 million.  
 **Translation:** 
 
-**[6354.16s] English:** Тогда мы сделаем это завтра и снимем документальный фильм о том,  
+**[6354.16s] English:** Then we will do it tomorrow and shoot a documentary film about that.  
 **Translation:** 
 
-**[6357.42s] English:** как спасли реку, племя и обезьян.  
+**[6357.42s] English:** How they saved the river, the tribe, and the monkeys.  
 **Translation:** 
 
-**[6360.00s] English:** Но прямо сейчас мы...  
+**[6360.00s] English:** But right now we...  
 **Translation:** 
 
-**[6362.92s] English:** Прямо сейчас мы буквально стоим с протянутой рукой у обочины,  
-**Translation:** 
+**[6362.92s] English:** Right now we are literally standing with outstretched hands by the side of the road,  
+**Translation:** Vocabulary: outstretched: 张开的
 
-**[6367.94s] English:** выпрашивая мелочь, чтобы купить патроны и остаться в живых.  
+**[6367.94s] English:** Asking for scraps to buy ammunition and stay alive.  
 **Translation:** 
 
-**[6372.12s] English:** То есть эти нарки — это распределенная сеть, в которой многие притворяются фермерами?  
-**Translation:** 
+**[6372.12s] English:** So these narcs are a distributed network in which many pretend to be farmers?  
+**Translation:** Vocabulary: ammunition: 弹药; narcs: 警察; scraps: 残余
 
-**[6379.90s] English:** Удерживают землю,  
+**[6379.90s] English:** Holds the earth back,  
 **Translation:** 
 
-**[6382.72s] English:** а потом постепенно начинают выращивать коку  
+**[6382.72s] English:** Then gradually coca is开始输入文本，请稍候... 然后逐渐开始种植古柯。  
 **Translation:** 
 
-**[6386.98s] English:** и строить взлетные полосы?  
+**[6386.98s] English:** And build runways?  
 **Translation:** 
 
-**[6390.80s] English:** И когда ее строят, стараются оставаться под пологом леса?  
-**Translation:** 
+**[6390.80s] English:** When they are being built, do they try to remain under the forest canopy?  
+**Translation:** Vocabulary: canopy: 树冠; runways: 跑道
 
-**[6394.06s] English:** Гениально. Сначала они субсидируют самых бедных и говорят,  
+**[6394.06s] English:** Genially. First, they subsidize the poorest and say,  
 **Translation:** 
 
-**[6399.68s] English:** «Поднимайся по этой реке у того дерева, поверни налево и начинай там».  
-**Translation:** 
+**[6399.68s] English:** Go up this river next to that tree, turn left, and start there.  
+**Translation:** Vocabulary: subsidize: 补贴
 
-**[6406.48s] English:** И дают им пару тысяч долларов.  
+**[6406.48s] English:** They are given a couple of thousand dollars.  
 **Translation:** 
 
-**[6408.32s] English:** А для людей это огромные деньги.  
+**[6408.32s] English:** For people, these are enormous amounts of money.  
 **Translation:** 
 
-**[6410.72s] English:** Им говорят, купи бензин, водбензопила, расчисти участок.  
+**[6410.72s] English:** They are told to buy gasoline, a gas chainsaw, and clear the plot.  
 **Translation:** 
 
-**[6413.74s] English:** Они отправляют людей, а через год возвращаются и видят,  
-**Translation:** 
+**[6413.74s] English:** They send people, and after a year come back and see,  
+**Translation:** Vocabulary: chainsaw: 汽油链锯; gasoline: 汽油
 
-**[6416.82s] English:** что те сделали в джунглях нелегальную ферму,  
+**[6416.82s] English:** What they did in the jungles was set up an illegal farm.  
 **Translation:** 
 
-**[6419.44s] English:** и говорят,  
-**Translation:** 
+**[6419.44s] English:** And they say,  
+**Translation:** Vocabulary: jungles: 热带雨林
 
-**[6420.00s] English:** «Нам нужен безопасный дом.  
+**[6420.00s] English:** We need a safe home.  
 **Translation:** 
 
-**[6421.80s] English:** Помнишь, как мы дали бензин, а теперь ты тут живешь?  
+**[6421.80s] English:** Do you remember how we gave you gas, and now you're living here?  
 **Translation:** 
 
-**[6424.28s] English:** Ты работаешь на нас».  
+**[6424.28s] English:** You are working for us.  
 **Translation:** 
 
-**[6425.76s] English:** Так они становятся для местных вроде как и друзьями.  
+**[6425.76s] English:** So they become kind of friends for the locals.  
 **Translation:** 
 
-**[6429.18s] English:** У них убежище по всем джунглям.  
+**[6429.18s] English:** They have shelters in all the jungles.  
 **Translation:** 
 
-**[6431.20s] English:** А потом за тем, что там выращивают, приезжают боссы.  
-**Translation:** 
+**[6431.20s] English:** Then, after that, the bosses come to check on what they are growing.  
+**Translation:** Vocabulary: shelters: 避难所
 
-**[6434.74s] English:** Полиция, например, накрыла нарколабораторию прямо посреди джунглей.  
+**[6434.74s] English:** Police, for example, raided a drug lab right in the middle of the jungle.  
 **Translation:** 
 
-**[6439.36s] English:** Буквально в днях пешим ходом от древнего леса.  
-**Translation:** 
+**[6439.36s] English:** Literally days' walk from the ancient forest.  
+**Translation:** Vocabulary: raided: 突袭
 
-**[6444.04s] English:** Люди все несут на себе мешками.  
+**[6444.04s] English:** People all carry burdens like sacks.  
 **Translation:** 
 
-**[6447.46s] English:** А взлетные полосы они делают так.  
-**Translation:** 
+**[6447.46s] English:** They construct runways like this.  
+**Translation:** Vocabulary: burdens: 负担
 
-**[6449.24s] English:** Полок тропического леса, метров 45-50, высотой.  
+**[6449.24s] English:** Poles of the tropical forest, 45-50 meters high.  
 **Translation:** 
 
-**[6454.40s] English:** Если расчистить внутреннюю часть полосы, деревья все равно сходятся на ней.  
-**Translation:** 
+**[6454.40s] English:** If the internal part of the strip is cleared, the trees will still converge on it.  
+**Translation:** Vocabulary: converge: 汇聚
 
-**[6459.86s] English:** Сверху ты ничего не увидишь.  
+**[6459.86s] English:** From above, you will see nothing.  
 **Translation:** 
 
-**[6462.54s] English:** По той же причине мы не знали о дороге, ведущей к древнему лесу.  
-**Translation:** 
+**[6462.54s] English:** By the same token, we did not know about the road leading to the ancient forest.  
+**Translation:** Vocabulary: token: 凭证
 
-**[6466.28s] English:** Сверху кроны смыкаются, и ты не увидишь ее ни на спутнике, ни с самолета.  
+**[6466.28s] English:** Above the tree canopies converge, and you will not see it from either satellite or airplane.  
 **Translation:** 
 
-**[6470.44s] English:** Эти пилоты просто ныряют под полок и садятся,  
-**Translation:** 
+**[6470.44s] English:** These pilots simply dive under the shelf and sit down.  
+**Translation:** Vocabulary: canopies: 树冠
 
-**[6474.58s] English:** загружаются и улетают.  
+**[6474.58s] English:** They load up and take off.  
 **Translation:** 
 
-**[6478.44s] English:** Пилоты...  
+**[6478.44s] English:** Pilots...  
 **Translation:** 
 
-**[6479.24s] English:** Высочайшие пилоты.  
+**[6479.24s] English:** Highest pilots.  
 **Translation:** 
 
-**[6480.00s] English:** уровня. Обнаружить невозможно. Почти невозможно. Мы работаем с разными людьми, там настоящая гонка  
-**Translation:** 
+**[6480.00s] English:** Level. It is impossible to detect. Almost impossible. We work with different people; there's a real race.  
+**Translation:** Vocabulary: detect: 察觉
 
-**[6488.10s] English:** вооружений. Есть программы с дронами, я общался с человеком, у которого пятиметровый дрон, и он  
+**[6488.10s] English:** Weapons. There are programs with drones; I spoke with a person who has a five-meter drone, and he  
 **Translation:** 
 
-**[6494.52s] English:** использует термики для набора высоты. У него на крыльях солнечные панели, и он проводит в воздухе  
-**Translation:** 
+**[6494.52s] English:** Uses terms for altitude gain. It has solar panels on its wings and it spends time in the air.  
+**Translation:** Vocabulary: altitude: 高度; drone: 无人机; drones: 无人机; panels: 面板
 
-**[6499.76s] English:** по две недели подряд. По сути планер, который сам себя подзаряжает. Он постоянно ведет съемку,  
+**[6499.76s] English:** For two weeks in a row. Essentially, it's a drone that recharges itself. It constantly records footage,  
 **Translation:** 
 
-**[6505.68s] English:** так что мы почти в реальном времени будем видеть любые изменения эполога. Это станет  
-**Translation:** 
+**[6505.68s] English:** So we will almost see any changes to the epigraph in real time. This will become  
+**Translation:** Vocabulary: recharges: 充电
 
-**[6511.08s] English:** системой раннего оповещения. Затем нужно доставить туда полицию, а это, как ты понимаешь,  
+**[6511.08s] English:** System of early warning. Then we need to call the police there, which, as you understand,  
 **Translation:** 
 
-**[6518.00s] English:** двухдневная экспедиция на лодке, по-другому никак. Даже если полиция мотивирована отправлять  
-**Translation:** 
+**[6518.00s] English:** A two-day expedition by boat—it has to be that way. Even if the police are motivated to send someone, it can only be done by boat.  
+**Translation:** Vocabulary: expedition: 考察队; motivated: 愿意的
 
-**[6523.40s] English:** людей в многодневный поход, где по ним могут стрелять, никому не кажется классным  
+**[6523.40s] English:** People in a multi-day hiking trip where they might be shot at don't seem to find very appealing.  
 **Translation:** 
 
-**[6527.62s] English:** времяпрепровождением. Ты вообще погружался в этот параллельный мир наркотрафика, торговли  
-**Translation:** 
+**[6527.62s] English:** Time spent in that parallel world of drug trafficking and trade. You really immersed yourself in it.  
+**Translation:** Vocabulary: appealing: 有吸引力; immersed: 沉浸; parallel: 平行的; trafficking: 走私
 
-**[6535.38s] English:** коктейлями? Да.  
+**[6535.38s] English:** Cocktails? Yes.  
 **Translation:** 
 
-**[6535.64s] English:** Ты вообще погружался в этот параллельный мир наркотрафика, торговли коктейлями? Да.  
-**Translation:** 
+**[6535.64s] English:** Did you actually dive into that parallel world of drug trafficking and cocktail trading? Yes.  
+**Translation:** Vocabulary: cocktail: 鸡尾酒; cocktails: 鸡尾酒
 
-**[6535.66s] English:** Какой масштаб операции? Если верить перплексити, речь про тысячи тонн, многомиллиардную глобальную  
+**[6535.66s] English:** What is the scale of the operation? If Perplexity is to be believed, it's about thousands of tons and a multi-billion dollar global affair.  
 **Translation:** 
 
-**[6543.28s] English:** индустрию. В глобальном масштабе это монстр. Колумбия, Перу, Боливия, они двигают продукт на север и  
-**Translation:** 
+**[6543.28s] English:** Industry. On a global scale, it's a monster. Colombia, Peru, Bolivia, they move the product north and  
+**Translation:** Vocabulary: bolivia: 玻利维亚; colombia: 哥伦比亚; perplexity: 困惑
 
-**[6552.20s] English:** восток, через Америку, Карибы и Атлантику к основным рынкам сбыта. Да, это машина,  
+**[6552.20s] English:** East, through America, the Caribbean, and the Atlantic to the main markets. Yes, this is a machine.  
 **Translation:** 
 
-**[6562.02s] English:** питаемая огромными деньгами и жестокостью.  
-**Translation:** 
+**[6562.02s] English:** Pitied by enormous sums of money and cruelty.  
+**Translation:** Vocabulary: caribbean: 加勒比海; cruelty: 残忍
 
-**[6565.62s] English:** Число потребителей кокаина в мире около 25 миллионов человек.  
+**[6565.62s] English:** The number of cocaine consumers in the world is approximately 25 million people.  
 **Translation:** 
 
-**[6572.10s] English:** Потребители? Да. Есть рынок, а когда есть рынок, путь найдется.  
-**Translation:** 
+**[6572.10s] English:** Users? Yes. There is a market, and when there is a market, a path will be found.  
+**Translation:** Vocabulary: cocaine: 可卡因
 
-**[6578.18s] English:** Пауза, перерыв на уборную. Так, мы вернулись. Я человек, который боится высоты и при этом,  
+**[6578.18s] English:** Pause. Break for bathroom. Okay, we're back. I'm a person who fears heights and yet,  
 **Translation:** 
 
-**[6592.32s] English:** общаясь с тобой, я вижу, что ты в каком-то смысле  
+**[6592.32s] English:** Discussing with you, I see that you are in some way  
 **Translation:** 
 
-**[6595.08s] English:** бесстрашен. Я видел, как ты лазишь по деревьям,  
+**[6595.08s] English:** Brave. I saw you climbing trees.  
 **Translation:** 
 
-**[6600.00s] English:** Ты даже помог мне залезть на дерево.  
+**[6600.00s] English:** You even helped me climb a tree.  
 **Translation:** 
 
-**[6603.02s] English:** В книге есть потрясающий эпизод, где ты рассказываешь, как нашел самое высокое дерево в лесу, насколько тебе известно.  
+**[6603.02s] English:** In the book, there is a fantastic episode where you tell how you found the tallest tree in the forest, as far as you know.  
 **Translation:** 
 
-**[6610.24s] English:** Дерево, на которое ты раньше смотрел и думал, что на него не залезть.  
+**[6610.24s] English:** The tree, on which you used to look and think that you couldn't climb.  
 **Translation:** 
 
-**[6614.16s] English:** Ты рассказываешь, как все-таки его покорил, и увидел, как туман парит над рекой на рассвете.  
+**[6614.16s] English:** You tell how you finally subdued him and saw how mist hovered over the river at dawn.  
 **Translation:** 
 
-**[6624.30s] English:** Можешь рассказать нам эту историю?  
-**Translation:** 
+**[6624.30s] English:** Can you tell us this story?  
+**Translation:** Vocabulary: hovered: 悬浮; subdued: 制服
 
-**[6626.24s] English:** Да. И для меня в свое время, и, возможно, для тебя, это должно быть страшно.  
+**[6626.24s] English:** Yes. And for me at one time, and, possibly, for you, this should have been scary.  
 **Translation:** 
 
-**[6634.08s] English:** Ты впервые карабкаешься на такое дерево, а внутри тебя подбадривает Джей-Джей.  
+**[6634.08s] English:** You're climbing such a tall tree for the first time, and inside you, JJ is cheering you on.  
 **Translation:** 
 
-**[6640.94s] English:** Что ты почувствовал, когда увидел туманную реку?  
+**[6640.94s] English:** What did you feel when you saw the misty river?  
 **Translation:** 
 
-**[6644.58s] English:** Это дерево, ты с ней знаком, она хорошая.  
+**[6644.58s] English:** This tree, you are familiar with her, she is good.  
 **Translation:** 
 
-**[6648.70s] English:** Основание у нее размером как минимум с эту комнату, а высота метров пятьдесят.  
+**[6648.70s] English:** The foundation is at least as large as this room, and it is fifty meters high.  
 **Translation:** 
 
-**[6655.30s] English:** Когда смотрел...  
+**[6655.30s] English:** When I watched...  
 **Translation:** 
 
-**[6656.22s] English:** Ты смотришь на ее гигантские досковидные корни, уходящие вверх, а к тому моменту, я на них смотрел уже восемнадцать лет.  
+**[6656.22s] English:** You look at her giant tree-like roots going upwards, and by that time, I had been looking at them for eighteen years.  
 **Translation:** 
 
-**[6663.54s] English:** Думаешь, если бы я только смог забраться...  
+**[6663.54s] English:** Do you think that if I could just climb up...  
 **Translation:** 
 
-**[6665.96s] English:** Но моих навыков было недостаточно.  
+**[6665.96s] English:** But my skills were not sufficient.  
 **Translation:** 
 
-**[6669.00s] English:** Я развивался как скалолаз, работал над силой, специально тренировался.  
-**Translation:** 
+**[6669.00s] English:** I developed like a rock climber, working on strength and specifically trained.  
+**Translation:** Vocabulary: climber: 攀岩者
 
-**[6673.20s] English:** Как и со многим в этой жизни, нельзя просто взять и залезть.  
+**[6673.20s] English:** As with many things in life, you can't just jump in.  
 **Translation:** 
 
-**[6676.86s] English:** Я поднимался метров на девять, и дальше никак.  
+**[6676.86s] English:** I climbed up about nine meters, and then it was impossible to go any further.  
 **Translation:** 
 
-**[6679.62s] English:** Ствол у этого дерева идет вертикально, метров двадцать, прежде чем появляются хоть какие-то ветки.  
+**[6679.62s] English:** The trunk of this tree goes vertically for about twenty meters before any branches appear.  
 **Translation:** 
 
-**[6685.24s] English:** По сути, там...  
-**Translation:** 
+**[6685.24s] English:** In essence, there...  
+**Translation:** Vocabulary: vertically: 垂直地
 
-**[6686.22s] English:** Одна огромная лиана.  
+**[6686.22s] English:** One huge liana.  
 **Translation:** 
 
-**[6688.84s] English:** Мы с Джей-Джеем пошли туда.  
-**Translation:** 
+**[6688.84s] English:** We went there with Jay-Jay.  
+**Translation:** Vocabulary: liana: 藤本植物
 
-**[6691.46s] English:** Кажется, часа в четыре утра, совсем рано.  
+**[6691.46s] English:** It seems around four o'clock in the morning, quite early.  
 **Translation:** 
 
-**[6694.44s] English:** Ревуны только начали орать.  
-**Translation:** 
+**[6694.44s] English:** Ravens only began to roar.  
+**Translation:** Vocabulary: ravens: 乌鸦
 
-**[6698.76s] English:** Ты поднимаешься по веревке вдоль одной лианы, и тебе приходится...  
+**[6698.76s] English:** You climb up a rope along one liana, and you have to...  
 **Translation:** 
 
-**[6702.78s] English:** Это не технический подъем, а силовой.  
+**[6702.78s] English:** This is not a technical lift, but a power lift.  
 **Translation:** 
 
-**[6705.94s] English:** Нужно буквально по горилле лезть вверх по лиане, вся нагрузка на спину.  
+**[6705.94s] English:** We need to literally climb up the vine by gripping it with our hands and arms, putting all the load on our back.  
 **Translation:** 
 
-**[6710.00s] English:** Я лез без майки, без обуви, просто вверх, а у Джей-Джея была страховка.  
-**Translation:** 
+**[6710.00s] English:** I climbed without a shirt, without shoes, just straight up, while Jay-Jay had the safety rope.  
+**Translation:** Vocabulary: gripping: 抓紧
 
-**[6714.90s] English:** Примерно каждые десять метров...  
+**[6714.90s] English:** Approximately every ten meters,...  
 **Translation:** 
 
-**[6716.74s] English:** Ставил точку защиты.  
-**Translation:** 
+**[6716.74s] English:** Set a breakpoint.  
+**Translation:** Vocabulary: breakpoint: 断点
 
-**[6719.92s] English:** Вот.  
+**[6719.92s] English:** Here.  
 **Translation:** 
 
-**[6720.00s] English:** Потом еще 10 метров, еще одна точка, ты не знаешь, что тебя там ждет.  
-**Translation:** 
+**[6720.00s] English:** Then another 10 meters, another checkpoint, you don't know what awaits you there.  
+**Translation:** Vocabulary: awaits: 等待; checkpoint: 检查点
 
-**[6724.04s] English:** Ты лезешь в темноте.  
+**[6724.04s] English:** You're reaching into the darkness.  
 **Translation:** 
 
-**[6725.74s] English:** И когда ты говоришь, что нужен силовой подход, мест для отдыха почти нет.  
-**Translation:** 
+**[6725.74s] English:** When you say a forceful approach is needed, there are almost no places for rest.  
+**Translation:** Vocabulary: forceful: 强硬的
 
-**[6730.04s] English:** Ты фактически все время подтягиваешься.  
+**[6730.04s] English:** You are practically always doing pull-ups.  
 **Translation:** 
 
-**[6732.94s] English:** Это изматывает.  
-**Translation:** 
+**[6732.94s] English:** This is exhausting.  
+**Translation:** Vocabulary: exhausting: 令人疲惫; practically: 几乎
 
-**[6734.04s] English:** Крайне сильно.  
+**[6734.04s] English:** Extremely strong.  
 **Translation:** 
 
-**[6735.06s] English:** Я реально долго тренировался, и передохнуть там негде.  
+**[6735.06s] English:** I really trained a lot, and there's nowhere to rest there.  
 **Translation:** 
 
-**[6738.82s] English:** Единственный отдых болезненный.  
+**[6738.82s] English:** The only rest is painful.  
 **Translation:** 
 
-**[6740.44s] English:** Прижимаешься к стволу, ступни скользят по коре, держишься, если вообще получается, пальцами ног.  
+**[6740.44s] English:** Pressing against the trunk, your feet slip on the bark, and you hold on with your toes if you can at all.  
 **Translation:** 
 
-**[6746.02s] English:** А если сорвешься...  
+**[6746.02s] English:** If you slip up...  
 **Translation:** 
 
-**[6749.08s] English:** Смотри, когда ледешь вверх, это, по сути, традиционная скалолаза.  
-**Translation:** 
+**[6749.08s] English:** Look, when you place it upside down, this is essentially traditional rock climbing.  
+**Translation:** Vocabulary: upside: 反面
 
-**[6753.80s] English:** Ты ставишь точку защиты, клипуешь оттяжку с карабинами и защелкиваешь в нижнюю основную веревку.  
+**[6753.80s] English:** You set up the protection point, clip the slack with carabiners, and lock it into the lower main rope.  
 **Translation:** 
 
-**[6759.04s] English:** Даже в этот момент опасно, ведь если сорвешься, увы.  
-**Translation:** 
+**[6759.04s] English:** Even at this moment, it is dangerous, for if you slip, alas.  
+**Translation:** Vocabulary: carabiners: 锁扣
 
-**[6762.42s] English:** Потом ты ледешь дальше, и прежде чем поставить еще, если упадешь, пролетишь так, пролез 10 метров, упадешь на 20.  
+**[6762.42s] English:** Then you slide further, and before you place another, if you fall, you'll glide so much that you'll slide 10 meters and then fall 20 meters.  
 **Translation:** 
 
-**[6769.58s] English:** А значит, голова ударится от ствола.  
+**[6769.58s] English:** Therefore, the head will hit the trunk.  
 **Translation:** 
 
-**[6771.84s] English:** И пока ледешь, не знаешь, не встретишь ли осиное гнездо или ядовитую змею.  
+**[6771.84s] English:** As you cut the ice, you never know whether you might encounter an wasp's nest or a venomous snake.  
 **Translation:** 
 
-**[6776.82s] English:** А в таких деревьях их полно.  
-**Translation:** 
+**[6776.82s] English:** In such trees, there are plenty of them.  
+**Translation:** Vocabulary: encounter: 遇到; venomous: 有毒的
 
-**[6778.96s] English:** Полно.  
+**[6778.96s] English:** Full.  
 **Translation:** 
 
-**[6780.14s] English:** В первый раз ушло больше часа, чтобы добраться до веток.  
+**[6780.14s] English:** It took more than an hour the first time to reach the branches.  
 **Translation:** 
 
-**[6783.76s] English:** Я был в ужасном напряжении, отдал на это все силы.  
+**[6783.76s] English:** I was in terrible tension, I gave it everything I had.  
 **Translation:** 
 
-**[6786.34s] English:** А потом ты видишь над собой ветки, и каждая из них размером со взрослый дуб.  
-**Translation:** 
+**[6786.34s] English:** Then you see branches above you, and each one is as big as a mature oak tree.  
+**Translation:** Vocabulary: mature: 成熟的
 
-**[6792.04s] English:** Огромные, толщиной с минивэн.  
+**[6792.04s] English:** Huge, as thick as a minivan.  
 **Translation:** 
 
-**[6795.82s] English:** Ты ледешь по прямому стволу, как по всемирному торговому центру.  
+**[6795.82s] English:** You drive down the straight aisle like a shopping mall.  
 **Translation:** 
 
-**[6799.90s] English:** Он просто гигантский.  
+**[6799.90s] English:** He is simply gigantic.  
 **Translation:** 
 
-**[6801.22s] English:** Потом мне пришлось пролезть вокруг ствола, полянам, и, наконец, я оказался в кроне.  
-**Translation:** 
+**[6801.22s] English:** Then I had to squeeze around the trunk, through the understory, and finally ended up in the canopy.  
+**Translation:** Vocabulary: canopy: 树冠; gigantic: 巨大的; squeeze: 挤过; understory: 下层灌木
 
-**[6806.78s] English:** Оттуда я крикнул вниз Джей-Джей и увидел лишь маленькую точку света, где-то в 25 метрах под собой.  
+**[6806.78s] English:** From there, I shouted down to JJ and saw only a small point of light about 25 meters below me.  
 **Translation:** 
 
-**[6813.38s] English:** Потом я поднялся примерно на 36 метров, вот тут.  
+**[6813.38s] English:** Then I rose about 36 meters here.  
 **Translation:** 
 
-**[6817.66s] English:** И сел там.  
+**[6817.66s] English:** He sat down there.  
 **Translation:** 
 
-**[6819.16s] English:** И все это в темноте?  
+**[6819.16s] English:** Is all of this in the darkness?  
 **Translation:** 
 
-**[6821.94s] English:** На утренней заре.  
+**[6821.94s] English:** At dawn.  
 **Translation:** 
 
-**[6824.90s] English:** Когда я, наконец, долез, реваны уже вовсю орали.  
-**Translation:** 
+**[6824.90s] English:** When I finally made it, the revans were already roaring loudly.  
+**Translation:** Vocabulary: roaring: 大声吼叫
 
-**[6829.06s] English:** Джунгли начали вибрировать.  
+**[6829.06s] English:** Jungles began to vibrate.  
 **Translation:** 
 
-**[6830.58s] English:** Слышно было, как первые ары начинают перекликаться, все вокруг просыпается.  
-**Translation:** 
+**[6830.58s] English:** We could hear the first arys beginning to echo back and forth, and everything around them was waking up.  
+**Translation:** Vocabulary: jungles: 热带雨林; vibrate: 震动
 
-**[6835.38s] English:** А на востоке...  
+**[6835.38s] English:** In the east,...  
 **Translation:** 
 
-**[6835.58s] English:** На востоке солнце поднималось над джунглями.  
+**[6835.58s] English:** The sun rose over the jungles in the east.  
 **Translation:** 
 
-**[6838.26s] English:** Когда первые лучи...  
+**[6838.26s] English:** When the first rays...  
 **Translation:** 
 
-**[6840.00s] English:** Падают на полок, туман начинает подниматься.  
+**[6840.00s] English:** Pads onto the shelf, mist begins to rise.  
 **Translation:** 
 
-**[6844.22s] English:** Вся влага поднимается вверх.  
+**[6844.22s] English:** All the moisture rises up.  
 **Translation:** 
 
-**[6846.12s] English:** А я сижу на ветке где-то в 40 метрах над землей,  
+**[6846.12s] English:** I am sitting on a branch, about 40 meters above the ground,  
 **Translation:** 
 
-**[6849.30s] English:** и подо мной темные джунгли.  
+**[6849.30s] English:** And beneath me, dark jungles.  
 **Translation:** 
 
-**[6852.66s] English:** И вдруг я вижу реку.  
+**[6852.66s] English:** Suddenly, I see a river.  
 **Translation:** 
 
-**[6855.12s] English:** Я вижу реку, о которой лишь слышал.  
+**[6855.12s] English:** I see a river about which I had only heard.  
 **Translation:** 
 
-**[6858.22s] English:** Говорят, что над Амазонкой течет река, невидимая река,  
-**Translation:** 
+**[6858.22s] English:** They say that above the Amazon flows an invisible river.  
+**Translation:** Vocabulary: invisible: 看不见的
 
-**[6861.72s] English:** в которой влаги и воды больше, чем в самой Амазонке.  
+**[6861.72s] English:** In which there is more moisture and water than in the Amazon.  
 **Translation:** 
 
-**[6867.04s] English:** Я слышал об этом всю жизнь, но это из разряда  
+**[6867.04s] English:** I've heard about this my whole life, but this is in a different category.  
 **Translation:** 
 
-**[6869.52s] English:** «Да, у земли есть расслабленное ядро, или черные дыры теоретически есть».  
+**[6869.52s] English:** Yes, the Earth has a relaxed core, or theoretically black holes could exist.  
 **Translation:** 
 
-**[6874.12s] English:** Что-то такое, что ты никогда не увидишь.  
-**Translation:** 
+**[6874.12s] English:** Something that you'll never see.  
+**Translation:** Vocabulary: theoretically: 理论上
 
-**[6876.12s] English:** И вот в тот момент на дереве, весь потух,  
+**[6876.12s] English:** And at that moment, all the fire on the tree had died down.  
 **Translation:** 
 
-**[6879.56s] English:** и сцарапанный, в крови, я вижу туманную реку.  
-**Translation:** 
+**[6879.56s] English:** And scratched, in blood, I see a hazy river.  
+**Translation:** Vocabulary: scratched: 用指甲划
 
-**[6883.70s] English:** Она течет над пологом, в золотых утренних лучах.  
+**[6883.70s] English:** She flows over the curtain, in golden morning light.  
 **Translation:** 
 
-**[6887.40s] English:** Ары взлетают, обезьяны смотрят снизу вверх.  
+**[6887.40s] English:** Ary take off, and monkeys look up from below.  
 **Translation:** 
 
-**[6892.24s] English:** Видно они в замешательстве, смотрят и думают «Это что?».  
+**[6892.24s] English:** It's clear they are bewildered, looking and thinking "What is this?".  
 **Translation:** 
 
-**[6896.22s] English:** Совершенно умопомрачительный момент.  
-**Translation:** 
+**[6896.22s] English:** Completely mind-blowing moment.  
+**Translation:** Vocabulary: bewildered: 困惑
 
-**[6899.52s] English:** Казалось, будто я вижу Бога.  
+**[6899.52s] English:** It seemed as though I was seeing God.  
 **Translation:** 
 
-**[6902.20s] English:** Мне хотелось поделиться этим со всеми.  
+**[6902.20s] English:** I wanted to share this with everyone.  
 **Translation:** 
 
-**[6905.20s] English:** Я потом даже чувствовал вину за то, что пережил нечто подобное.  
+**[6905.20s] English:** I then even felt guilt for having gone through something similar.  
 **Translation:** 
 
-**[6910.20s] English:** Казалось, что я пошел на безумный риск.  
+**[6910.20s] English:** It seemed that I had taken a疯狂的risk. (Note: The last word "Казалось" is translated as it appears to be a typo or non-English word in the original Russian text. If it's supposed to remain in Russian, please provide the correct spelling.) To adhere strictly to the instruction and keep the same language and meaning without translation, here is the improved sentence with natural English punctuation and capitalization: It seemed that I had taken a crazy risk.  
 **Translation:** 
 
-**[6914.20s] English:** Риск сорваться, риск запутаться в веревках.  
+**[6914.20s] English:** Risk of slipping, risk of getting tangled in the ropes.  
 **Translation:** 
 
-**[6919.20s] English:** И мы там были вдвоем, я и Джей-Джей.  
-**Translation:** 
+**[6919.20s] English:** We were there together, Jay-Jay and me.  
+**Translation:** Vocabulary: slipping: 滑倒; tangled: 缠绕
 
-**[6921.20s] English:** Если что-то пошло бы не так, помочь некому.  
+**[6921.20s] English:** If something went wrong, there would be no one to help.  
 **Translation:** 
 
-**[6924.20s] English:** Сидеть на той ветке казалось самоубийством, потому что, если бы я упал, я бы улетел в ствол, как Майкл Джейнс.  
+**[6924.20s] English:** To sit on that branch seemed like suicide, because if I fell, I would crash into the trunk, like Michael Janz.  
 **Translation:** 
 
-**[6929.52s] English:** Но красота, которую я там увидел,  
+**[6929.52s] English:** But the beauty that I saw there,  
 **Translation:** 
 
-**[6934.52s] English:** была настолько глубокой, что у меня буквально  
+**[6934.52s] English:** It was so deep that it literally  
 **Translation:** 
 
-**[6938.52s] English:** перехватило дыхание.  
+**[6938.52s] English:** took my breath away.  
 **Translation:** 
 
-**[6940.52s] English:** У меня слезы наворачивались, и я просто наблюдал, как эта чудесная речка течет над землей.  
+**[6940.52s] English:** Tears welled up in my eyes as I simply watched this beautiful stream flow over the land.  
 **Translation:** 
 
-**[6945.52s] English:** Легендарное событие, о котором я раньше только слышал, и которое описывали ученые, и теперь это я увидел своими глазами.  
+**[6945.52s] English:** Legendary events, about which I had only heard before and which scientists described, and now I have seen them with my own eyes.  
 **Translation:** 
 
-**[6953.52s] English:** Будто дерево подарило мне подарок.  
-**Translation:** 
+**[6953.52s] English:** It's as if the tree gave me a gift.  
+**Translation:** Vocabulary: legendary: 传说中的
 
-**[6955.52s] English:** Ты пишешь «Теперь в ветвях величайшего дерева Джо Джейнс».  
+**[6955.52s] English:** You write: "Now in the branches of the greatest tree, Joe Jeans.  
 **Translation:** 
 
-**[6957.52s] English:** Ты пишешь «Теперь в ветвях величайшего дерева Джо Джейнс».  
+**[6957.52s] English:** You write: "Now in the branches of the greatest tree, Joe Jeans.  
 **Translation:** 
 
-**[6959.52s] English:** Текста в гунгле.  
+**[6959.52s] English:** Text in Google.  
 **Translation:** 
 
-**[6960.52s] English:** Реальный мессенджер караоке.  
-**Translation:** 
+**[6960.00s] English:** I watched as the misty river caught the morning rays, illuminating golden currents, swirling and streaming over the gentle slope, like a stream from heaven.  
+**Translation:** Vocabulary: currents: 水流; illuminating: 照亮; swirling: 旋涡
 
-**[6961.52s] English:** Не забудьте подписаться на канал, и остановитесь на новом видео.  
+**[6960.52s] English:** Real karaoke messenger.  
 **Translation:** 
 
-**[6962.52s] English:** Не забудьте поставить лайк.  
-**Translation:** 
+**[6961.52s] English:** Do not forget to subscribe to the channel, and pause on the new video.  
+**Translation:** Vocabulary: karaoke: 卡拉OK; messenger: 消息; subscribe: 订阅
 
-**[6963.52s] English:** Смотрите видео до конца.  
+**[6962.52s] English:** Do not forget to put a like.  
 **Translation:** 
 
-**[6964.52s] English:** И поделитесь всеми своими впечатлениями.  
+**[6963.52s] English:** Watch the video until the end.  
 **Translation:** 
 
-**[6965.52s] English:** Я буду рад, если вы попытаетесь.  
+**[6964.52s] English:** Please share all of your impressions.  
 **Translation:** 
 
-**[6966.52s] English:** На этом все.  
+**[6965.52s] English:** I will be glad if you try.  
 **Translation:** 
 
-**[6967.52s] English:** До новых встречи!  
+**[6966.52s] English:** That's it for now.  
 **Translation:** 
 
-**[6968.52s] English:** Субтитры делал DimaTorzok  
-**Translation:** 
+**[6967.52s] English:** Goodbye for now!  
+**Translation:** Vocabulary: goodbye: 再见
 
-**[6960.00s] English:** Я наблюдал, как туманная река ловит утренние лучи, озаряя золотые течения, закручиваясь и устремляясь над пологом, словно поток с небес.  
+**[6968.52s] English:** Subtitles were done by DimaTorzok.  
 **Translation:** 
 
-**[6969.28s] English:** Во впадинах, бассейнах и низинах река была темно-синей.  
-**Translation:** 
+**[6969.28s] English:** In the valleys, basins, and depressions, the river was dark blue.  
+**Translation:** Vocabulary: basins: 盆地; depressions: 洼地; subtitles: 字幕
 
-**[6973.52s] English:** Но затем, поднимаясь и перетекая сквозь высокие деревья, медленными порогами омывая полог, туманная река вспыхивала, загоралась, электризуясь в золотом великолепии солнечного света.  
+**[6973.52s] English:** But then, rising and flowing through the high trees, the misty river washed over the dappled ground in slow, golden stages, flickering and electrifying itself in the splendor of sunlight.  
 **Translation:** 
 
-**[6985.40s] English:** Десятки птиц взмывали вверх, влетая и вылетая из бурлящих потоков.  
-**Translation:** 
+**[6985.40s] English:** Hundreds of birds rose up, flying in and out of the boiling streams.  
+**Translation:** Vocabulary: boiling: 沸腾; dappled: 斑驳; electrifying: 令人兴奋; flickering: 闪烁; splendor: 辉煌
 
-**[6991.00s] English:** Жизни дыхания Амазонии текли с севера на юг вдоль бассейнов Лас-Пьедрос над джунглями.  
+**[6991.00s] English:** Life's breath in the Amazon flowed from north to south along the Las Piedras river basins among the jungles.  
 **Translation:** 
 
-**[6998.06s] English:** Боже мой. Боже мой.  
-**Translation:** 
+**[6998.06s] English:** Oh my God. Oh my God.  
+**Translation:** Vocabulary: flowed: 流动; jungles: 丛林; piedras: 皮德拉斯河
 
-**[7000.82s] English:** Я думал обо всех, кого люблю, о каждом существе, скрытом в лиственной дали.  
+**[7000.82s] English:** I thought of all whom I love, of every creature hidden in the leafy distance.  
 **Translation:** 
 
-**[7006.04s] English:** Сами джунгли были словно великое существо, чудовищный левиафан теплой зеленой мощи.  
-**Translation:** 
+**[7006.04s] English:** The jungles themselves were like a great creature, a monstrous Leviathan of warm green power.  
+**Translation:** Vocabulary: leafy: 多叶的; leviathan: 巨物; monstrous: 巨大的
 
-**[7012.24s] English:** Я хотел крикнуть Джей-Джею вниз, чтобы он нашел.  
+**[7012.24s] English:** I wanted to yell down to Jay-Jay to find it.  
 **Translation:** 
 
-**[7015.40s] English:** Я нашел способ подняться.  
+**[7015.40s] English:** I found a way to rise up.  
 **Translation:** 
 
-**[7016.98s] English:** Хотелось, чтобы это увидела моя мама, весь мир.  
+**[7016.98s] English:** I wanted my mom and the whole world to see this.  
 **Translation:** 
 
-**[7020.16s] English:** Свет заполнил мои глаза, и я поймал себя на том, что утираю слезы.  
-**Translation:** 
+**[7020.16s] English:** Light filled my eyes, and I caught myself wiping away tears.  
+**Translation:** Vocabulary: wiping: 擦掉眼泪
 
-**[7025.58s] English:** Сделаю небольшое отступление и скажу очевидное, но это стоит озвучить.  
+**[7025.58s] English:** I will make a small detour and say something obvious, but it's worth voicing.  
 **Translation:** 
 
-**[7033.82s] English:** Ты, черт возьми, отличный писатель.  
+**[7033.82s] English:** You, for heaven's sake, are a terrific writer.  
 **Translation:** 
 
-**[7035.94s] English:** Спасибо, но реально я описываю то, что произошло.  
+**[7035.94s] English:** Thank you, but really I am describing what happened.  
 **Translation:** 
 
-**[7040.12s] English:** Хорошо.  
+**[7040.12s] English:** Good.  
 **Translation:** 
 
-**[7040.62s] English:** Ты упомянул попугая Фара как часть процесса пробуждения джунглей.  
+**[7040.62s] English:** You mentioned the parrot Farah as part of the jungle awakening process.  
 **Translation:** 
 
-**[7045.96s] English:** Я читал, что когда ты только начинал работать, твоя задача была их изучать.  
-**Translation:** 
+**[7045.96s] English:** I read that when you first started working, your task was to study them.  
+**Translation:** Vocabulary: awakening: 苏醒; parrot: 鹦鹉
 
-**[7051.86s] English:** А я поклонник моногамии и птиц.  
+**[7051.86s] English:** I am a fan of monogamy and birds.  
 **Translation:** 
 
-**[7056.00s] English:** Фары прекрасны, они моногамные существа.  
-**Translation:** 
+**[7056.00s] English:** Faries are beautiful; they are monogamous creatures.  
+**Translation:** Vocabulary: monogamous: 一夫一妻的; monogamy: 一夫一妻制
 
-**[7059.88s] English:** Они громко орут друг на друга.  
+**[7059.88s] English:** They are yelling at each other loudly.  
 **Translation:** 
 
-**[7062.22s] English:** Что в них такого интересного?  
-**Translation:** 
+**[7062.22s] English:** What is so interesting about them?  
+**Translation:** Vocabulary: yelling: 大声喊叫
 
-**[7065.00s] English:** Ты, кстати, в том числе пишешь, насколько важны железные деревья для их благополучия, их жизни.  
+**[7065.00s] English:** By the way, you also write about how important iron trees are for their well-being and life.  
 **Translation:** 
 
-**[7073.52s] English:** Да, я когда туда приехал...  
+**[7073.52s] English:** Yes, when I first arrived there...  
 **Translation:** 
 
-**[7075.84s] English:** Как я говорил, совет для молодых.  
+**[7075.84s] English:** As I said, advice for young people.  
 **Translation:** 
 
-**[7077.76s] English:** Хотите в джунгли, езжайте заняться есть чем.  
+**[7077.76s] English:** Want to go to the jungles, drive somewhere there is something.  
 **Translation:** 
 
-**[7083.00s] English:** Спасибо.  
+**[7080.00s] English:** I agreed to stay at the station, and every morning I spent six hours researching ar.  
 **Translation:** 
 
-**[7080.00s] English:** Я согласился остаться на станции, и каждое утро по шесть часов занимался исследованием ар.  
-**Translation:** 
+**[7083.00s] English:** Thank you.  
+**Translation:** Vocabulary: researching: 研究
 
-**[7085.22s] English:** Ты просыпаешься до рассвета и сидишь, уставившись на берег реки.  
+**[7085.22s] English:** You wake up before dawn and sit, staring at the riverbank.  
 **Translation:** 
 
-**[7089.16s] English:** Пролетает попугай, и начинают кричать и ругаться друг с другом.  
-**Translation:** 
+**[7089.16s] English:** A parrot flies by, and they start yelling and cursing at each other.  
+**Translation:** Vocabulary: riverbank: 河岸
 
-**[7094.40s] English:** Так они общаются.  
+**[7094.40s] English:** They communicate like that.  
 **Translation:** 
 
-**[7096.22s] English:** Очень, очень громко и очень резко.  
-**Translation:** 
+**[7096.22s] English:** Very, very loudly and very abruptly.  
+**Translation:** Vocabulary: abruptly: 突然地
 
-**[7099.34s] English:** Но они любят друг друга.  
+**[7099.34s] English:** But they love each other.  
 **Translation:** 
 
-**[7101.40s] English:** На самом деле, когда я иду по лесу, то по звуку могу понять, когда ары проявляют нежность.  
-**Translation:** 
+**[7101.40s] English:** In fact, when I walk through the forest, I can tell when the arys show tenderness by their sounds.  
+**Translation:** Vocabulary: tenderness: 温柔
 
-**[7107.10s] English:** У них есть особый звук, когда они чистят друг другу перья, заботятся друг о друге, просто труцоклюваны.  
+**[7107.10s] English:** They have a special sound when they preen each other, care for each other, just truclykuny.  
 **Translation:** 
 
-**[7114.92s] English:** А есть совсем другой крик, когда они орут на других ары и зовут типа «полетели», ты начинаешь понимать язык ар.  
-**Translation:** 
+**[7114.92s] English:** There is another cry altogether, when they shout at each other and call out "flying," you begin to understand the language of the ar.  
+**Translation:** Vocabulary: preen: 梳理
 
-**[7122.22s] English:** Чему ты научился в взаимоотношениях и успешном браке, слушая, как ары орут друг на друга, зная все эти нюансы?  
+**[7122.22s] English:** What did you learn about relationships and a successful marriage by listening to how couples yell at each other, knowing all these nuances?  
 **Translation:** 
 
-**[7132.46s] English:** Ну, наверное.  
-**Translation:** 
+**[7132.46s] English:** Nu, probably.  
+**Translation:** Vocabulary: nuances: 细微差别
 
-**[7134.52s] English:** Можно пропустить вопрос.  
+**[7134.52s] English:** Can we skip the question?  
 **Translation:** 
 
-**[7137.10s] English:** Интересно наблюдать, как животные держатся вместе, пока выращивают птенцов.  
-**Translation:** 
+**[7137.10s] English:** It's interesting to observe how animals stay together while raising chicks.  
+**Translation:** Vocabulary: chicks: 小鸡
 
-**[7141.72s] English:** В железном дереве у подножия лестницы на станции есть гнездо ары.  
+**[7141.72s] English:** In the iron tree at the base of the staircase at the station, there is a arby's nest.  
 **Translation:** 
 
-**[7146.72s] English:** Проблема в том, что в джунгле Харам доступно ограниченное количество недвижимости.  
-**Translation:** 
+**[7146.72s] English:** The problem is that there is limited real estate available in the Haram jungle.  
+**Translation:** Vocabulary: staircase: 楼梯
 
-**[7152.14s] English:** Только древние железные деревья, минимум по 500 лет и старше.  
+**[7152.14s] English:** Only ancient iron trees, at least 500 years and older.  
 **Translation:** 
 
-**[7157.22s] English:** Они должны быть толстыми, опять же, толщиной с машиной или больше.  
+**[7157.22s] English:** They should be thick, again, as thick as a car or more.  
 **Translation:** 
 
-**[7162.70s] English:** Когда отваливается ветка, образуется дупло, и ары используют его для размножения.  
+**[7162.70s] English:** When a branch falls off, a hollow is formed, and arboreal animals use it for reproduction.  
 **Translation:** 
 
-**[7167.10s] English:** А поскольку мест для гнезд в лесу немного, каждый год размножается от 17% до 20% популяции ар.  
-**Translation:** 
+**[7167.10s] English:** Since there are few nesting places in the forest, each year the population of ar breeds by 17% to 20%.  
+**Translation:** Vocabulary: arboreal: 树栖的; breeds: 繁殖; hollow: 空洞; nesting: 筑巢
 
-**[7175.34s] English:** У них медленный темп восполнения.  
+**[7175.34s] English:** They have a slow rate of recovery.  
 **Translation:** 
 
-**[7177.72s] English:** При этом ары — одна из причин, по которой люди приезжают в джунгли.  
-**Translation:** 
+**[7177.72s] English:** Meanwhile, pythons are one of the reasons why people visit the jungles.  
+**Translation:** Vocabulary: jungles: 热带雨林; pythons: 蟒蛇
 
-**[7182.42s] English:** Поэтому наряду с золотодобычей, вырубкой леса и прочими добывающими отраслями, в нашем регионе экотуризм оказался очень важным.  
+**[7182.42s] English:** Therefore, alongside gold mining, logging, and other extractive industries, eco-tourism has become very important in our region.  
 **Translation:** 
 
-**[7189.42s] English:** Он обеспечил местным людям работу гидами, поварами, шефами, плотниками.  
-**Translation:** 
+**[7189.42s] English:** He ensured that local people worked as guides, chefs, supervisors, and carpenters.  
+**Translation:** Vocabulary: carpenters: 木匠; ensured: 确保; extractive: 开采的; supervisors: 监督员
 
-**[7194.72s] English:** Ары — огромная движущая сила, ведь...  
+**[7194.72s] English:** Ary — an enormous driving force, for surely...  
 **Translation:** 
 
-**[7197.10s] English:** Это одно из последних мест, где можно увидеть летающие ары.  
-**Translation:** 
+**[7197.10s] English:** This is one of the last places where you can see flying squirrels.  
+**Translation:** Vocabulary: squirrels: 松鼠
 
-**[7200.00s] English:** радуги над пологом леса. Или ты сидишь на ветке одного из таких деревьев, а ары пролетают под  
+**[7200.00s] English:** Rainbow over the forest canopy. Or you are sitting on a branch of one of those trees, and arrows fly past below.  
 **Translation:** 
 
-**[7205.88s] English:** тобой. Они пролетают, а ты слышишь только шум ветра в их перьях. Они бросают на тебя взгляд  
-**Translation:** 
+**[7205.88s] English:** They fly by, and you hear only the rustling of the wind in their feathers. They cast a glance at you.  
+**Translation:** Vocabulary: canopy: 树冠; rainbow: 彩虹; rustling: 沙沙声
 
-**[7215.90s] English:** через плечо, типа «чего тебе?» и летят дальше. Громкие такие. Потом они присоединяются к другим  
+**[7215.90s] English:** Over their shoulders, type "what's up with you?" and they fly on. Loud ones. Then they join the others.  
 **Translation:** 
 
-**[7223.00s] English:** арам и летят вдоль горизонта. Возникает ощущение, будто видишь что-то из эры динозавров.  
+**[7223.00s] English:** Арам and they fly along the horizon. It feels as though you are seeing something from the age of dinosaurs.  
 **Translation:** 
 
-**[7228.62s] English:** Перед тобой дикие джунгли, без единого следа человека. До горизонта тянется суровый полог,  
+**[7228.62s] English:** Before you lie wild jungles, without a single sign of human presence. Beyond the horizon stretches a harsh canopy.  
 **Translation:** 
 
-**[7236.68s] English:** и над ним летят эти прекрасные птицы. Абсолютно волшебно.  
+**[7236.68s] English:** And above him, these beautiful birds fly. Absolutely magical.  
 **Translation:** 
 
-**[7241.34s] English:** У тебя есть видео в Инстаграм, где вокруг шеи обвилась анаконда. Вопросов миллион. Может,  
+**[7241.34s] English:** Keep the same video on Instagram where an anaconda coils around your neck. Questions abound. Maybe,  
 **Translation:** 
 
-**[7249.48s] English:** расскажешь об этом опыте и вообще, как ты не умер?  
-**Translation:** 
+**[7249.48s] English:** Could you tell me about this experience and, more generally, how you didn't die?  
+**Translation:** Vocabulary: abound: 众多; anaconda: boa蟒蛇
 
-**[7253.04s] English:** Ты знаешь, что мы довольно давно изучаем  
+**[7253.04s] English:** You know that we have been studying this for quite some time.  
 **Translation:** 
 
-**[7258.60s] English:** повадки Нектус мурренус, зеленая анаконда, самая крупная и тяжелая змея на Земле. Я много лет к  
-**Translation:** 
+**[7258.60s] English:** Behavior of Natrix murinus, the green anaconda, which is the largest and heaviest snake on Earth. I have studied this for many years.  
+**Translation:** Vocabulary: murinus: 墨瑞纳; natrix: 水蛇
 
-**[7268.84s] English:** этому готовился. Это была самая большая анаконда из тех, что мы ловили. Чуть меньше шести метров,  
+**[7268.84s] English:** This was prepared for that. This was the biggest anaconda we had caught—just a hair under six meters.  
 **Translation:** 
 
-**[7275.92s] English:** пять и восемь. Видно, что она была в процессе линки. И еще одна интересная деталь. У нее были  
+**[7275.92s] English:** Five and eight. It's clear that she was in the linking process. And another interesting detail. She had  
 **Translation:** 
 
-**[7284.88s] English:** голубые глаза, потому что чешуя на глазах перед линкой становится  
+**[7284.88s] English:** Blue eyes, because the scales on the eyes in front of the link become  
 **Translation:** 
 
-**[7288.60s] English:** голубоватой, прямо перед тем, как сойти с головы. Я еще не ловил такую анаконду. Но если посмотреть  
-**Translation:** 
+**[7288.60s] English:** Golubovatoy, directly before it slips off my head. I've never caught an anaconda like this. But if we look  
+**Translation:** Vocabulary: golubovatoy: 蓝色的
 
-**[7296.16s] English:** на размер моей головы и моей руки, становится понятно, что голова у нее больше, чем у немецкого  
+**[7296.16s] English:** It becomes clear that her head is larger than a German's, given the size of her head and her hand.  
 **Translation:** 
 
-**[7301.14s] English:** дога. Она огромная. И силы у нее колоссальны. Мы попытались поднять ее, чтобы измерить. Хотели  
-**Translation:** 
+**[7301.14s] English:** Dog. She is enormous. And she has colossal strength. We tried to lift her to measure her. Wanted  
+**Translation:** Vocabulary: colossal: 巨大的
 
-**[7308.16s] English:** вытащить ее из ручья, уложить ровно и снять размеры. Просто собрать основные данные и отпустить. И в  
+**[7308.16s] English:** To pull her out of the stream, lay her flat and take measurements. Just gather the basic data and release her. And  
 **Translation:** 
 
-**[7318.60s] English:** итоге мы получили, что она была в процессе линки. Она была в процессе линка. Она была в процессе линка.  
+**[7318.60s] English:** In the end, we received that she was in the linking process. She was in the link process. She was in the link process.  
 **Translation:** 
 
-**[7320.00s] English:** одну сторону, она напряглась и столько же вылетела в другую. Каждый раз, когда она открывала пасть,  
+**[7320.00s] English:** On one side, she tightened and shot out just as much on the other. Every time she opened her mouth,  
 **Translation:** 
 
-**[7325.00s] English:** было ощущение, будто она говорит «просто дайте мне это сделать». И ты при этом понимаешь,  
+**[7325.00s] English:** It was as if she were saying "just let me do this," and you understand that.  
 **Translation:** 
 
-**[7330.60s] English:** если она зацепится, как только она в тебя вцепится, то молниеносно вьется вокруг тебя,  
+**[7330.60s] English:** If she gets a hold of you, as soon as she grabs you, she twirls around you like lightning.  
 **Translation:** 
 
-**[7335.26s] English:** и выдавит из тебя жизнь, сожмет, как пачку чипсов. Видел когда-нибудь мышь в мышеловке? Когда  
-**Translation:** 
+**[7335.26s] English:** And it will squeeze the life out of you, like a bag of chips. Have you ever seen a mouse in a mousetrap? When  
+**Translation:** Vocabulary: mousetrap: 鼠夹; squeeze: 挤压; twirls: 旋转
 
-**[7341.72s] English:** пружина срабатывает, глаза вылезают наружу. Все, у кого были змеи, кто кормил их мышами,  
+**[7341.72s] English:** Pruzhina springs, eyes bulge out. All those who had snakes and fed them mice,  
 **Translation:** 
 
-**[7347.36s] English:** знают, если захват получился удачный, внутренности выходят либо сзади, либо спереди. Я предполагаю,  
-**Translation:** 
+**[7347.36s] English:** They know that if the grab is successful, the insides will either come out from behind or in front. I presume,  
+**Translation:** Vocabulary: bulge: 突出; insides: 内脏
 
-**[7353.56s] English:** что с такой змеей произойдет то же самое. Она ведь толще меня.  
+**[7353.56s] English:** What will happen to such a snake? She is thicker than me.  
 **Translation:** 
 
-**[7359.20s] English:** Такой процесс, ты говоришь захват, им нужен укус, чтобы зафиксироваться и... окей.  
+**[7359.20s] English:** Such a process, you say infection; they need a bite to attach and... okay.  
 **Translation:** 
 
-**[7364.86s] English:** Но честно говоря, все, чего она хотела, чтобы ее отпустили, скажу в защиту этой огромной змеи,  
+**[7364.86s] English:** But honestly, all she wanted was to be let go, and I'll speak in defense of this enormous snake.  
 **Translation:** 
 
-**[7370.92s] English:** мы назвали ее Милли, для учета данных. Она просто хотела дальше плыть по ручью.  
-**Translation:** 
+**[7370.92s] English:** We named her Millie for data tracking. She just wanted to keep flowing downstream.  
+**Translation:** Vocabulary: downstream: 顺流而下; millie: 米莉
 
-**[7377.36s] English:** Комментарий под этим постом умора. Люди пишут, это худший пример развлечений для белых.  
+**[7377.36s] English:** Comment under this post is hilarious. People are writing that it's the worst example of white entertainment.  
 **Translation:** 
 
-**[7384.76s] English:** Снупдог репостнул. Один чувак написал, поздравляю, ты потрогал достаточно травы, иди домой.  
-**Translation:** 
+**[7384.76s] English:** Snoopdog reposted. One guy wrote, "Pozdravlyayu, ty potrogal dostatochno travy, idi domoi.  
+**Translation:** Vocabulary: dostatochno: 足够; hilarious: 好笑; potrogal: 抽了; pozdravlyayu: 祝贺; reposted: 转发
 
-**[7391.54s] English:** Кто-то написал, интересное применение свободы воли.  
+**[7391.54s] English:** Someone wrote, "An interesting application of free will.  
 **Translation:** 
 
-**[7396.88s] English:** Я видел комментарий от killpopper007, скажи, правильно ли он написал ситуацию, анаконды зашли в пустыню?  
-**Translation:** 
+**[7396.88s] English:** I saw a comment from killpopper007. Did he write the situation correctly: anacondas went into the desert?  
+**Translation:** Vocabulary: anacondas: 蟒蛇
 
-**[7405.40s] English:** Я писал ситуацию «Анаконды – засадные хищники».  
+**[7405.40s] English:** I wrote the situation "Anacondas - Ambush Predators.  
 **Translation:** 
 
-**[7408.96s] English:** Если ты подходишь к ним, они попытаются уйти и не воспринимают тебя как добычу.  
-**Translation:** 
+**[7408.96s] English:** If you approach them, they will try to escape and do not perceive you as prey.  
+**Translation:** Vocabulary: ambush: 伏击; perceive: 察觉; predators: 食肉动物
 
-**[7414.18s] English:** Есть и другие причины.  
+**[7414.18s] English:** There are other reasons as well.  
 **Translation:** 
 
-**[7415.74s] English:** Это в ответ на вопрос, как Пол не умер.  
+**[7415.74s] English:** This is in response to the question of how Paul didn't die.  
 **Translation:** 
 
-**[7419.86s] English:** Есть и другие причины, но это основная.  
+**[7419.86s] English:** There are other reasons as well, but this is the main one.  
 **Translation:** 
 
-**[7422.92s] English:** При таком размере они считай вершины пищевой цепи, и страх у них выражен меньше.  
+**[7422.92s] English:** Pри таком размере они, практически, вершина пищевой цепи, и страх у них выражен меньше.  
 **Translation:** 
 
-**[7427.92s] English:** Он был спокоен, и змея была спокойна.  
+**[7427.92s] English:** He was calm, and the snake was calm.  
 **Translation:** 
 
-**[7430.78s] English:** Делать такое безумно и рискованно.  
+**[7430.78s] English:** To do such things is incredibly risky.  
 **Translation:** 
 
-**[7434.00s] English:** Но возможно он самый квалифицированный хендлер-анаконд на свете.  
+**[7434.00s] English:** But he might be the most qualified handler of anacondas in the world.  
 **Translation:** 
 
-**[7438.86s] English:** Пол тот еще.  
+**[7438.86s] English:** Pol is totally crazy.  
 **Translation:** 
 
-**[7440.00s] English:** Еще персонаж.  
+**[7440.00s] English:** Another character.  
 **Translation:** 
 
-**[7441.74s] English:** Эмоции с объятием.  
+**[7441.74s] English:** Emotions with a hug.  
 **Translation:** 
 
-**[7443.66s] English:** Это так?  
+**[7443.66s] English:** Is this so?  
 **Translation:** 
 
-**[7445.02s] English:** Да.  
+**[7445.02s] English:** Yes.  
 **Translation:** 
 
-**[7445.72s] English:** При таком размере они вершина цепи, им не нужно заботиться об обороне.  
+**[7445.72s] English:** At this size, they are at the top of the food chain and do not need to worry about defense.  
 **Translation:** 
 
-**[7449.98s] English:** Они думают, убери руки.  
+**[7449.98s] English:** They think, put your hands up.  
 **Translation:** 
 
-**[7451.28s] English:** Да.  
+**[7451.28s] English:** Yes.  
 **Translation:** 
 
-**[7451.94s] English:** Если бы я причинил ей боль, условно, если бы я уколол тебя иглой в руку, ты бы отреагировал.  
-**Translation:** 
+**[7451.94s] English:** If I caused her pain, for instance, if I pricked you with a needle on your hand, you would react.  
+**Translation:** Vocabulary: pricked: 刺痛
 
-**[7457.12s] English:** Если бы я сделал ей больно, чего я не делаю,  
+**[7457.12s] English:** If I had hurt her, which I don't,  
 **Translation:** 
 
-**[7459.88s] English:** она бы развернулась и укусила меня, сказала бы, отвали.  
+**[7459.88s] English:** She would have turned around and bitten me, told me to get lost.  
 **Translation:** 
 
-**[7463.08s] English:** Но они не склонны кусать, потому что загнутые зубы сильно затрудняют расцепку.  
+**[7463.08s] English:** But they are not prone to bite because curved teeth greatly impair the process of opening their mouth.  
 **Translation:** 
 
-**[7468.08s] English:** К тому же они подставляют голову прямо под источник опасности, а это плохая идея.  
-**Translation:** 
+**[7468.08s] English:** Moreover, they put their heads right under the source of danger, which is a bad idea.  
+**Translation:** Vocabulary: impair: 损害; prone: 容易
 
-**[7473.74s] English:** Поэтому эти гиганты, а мне довелось взаимодействовать с четырьмя или пятью анакондами в диапазоне от шести до восьми метров,  
+**[7473.74s] English:** Therefore, these giants, and I had the opportunity to interact with four or five anacondas ranging from six to eight meters in length,  
 **Translation:** 
 
-**[7481.04s] English:** все они были очень Лефианоподобны.  
-**Translation:** 
+**[7481.04s] English:** All of them were very Leptian-like.  
+**Translation:** Vocabulary: anacondas: 绿 Anaconda
 
-**[7486.06s] English:** Им просто не хочется двигаться.  
+**[7486.06s] English:** They simply don't want to move.  
 **Translation:** 
 
-**[7488.98s] English:** Они хотят идти своим путем.  
+**[7488.98s] English:** They want to go their own way.  
 **Translation:** 
 
-**[7490.96s] English:** И тот комментатор на сто процентов прав.  
+**[7490.96s] English:** The commentator is one hundred percent right.  
 **Translation:** 
 
-**[7494.72s] English:** На данный момент я поймал уже больше девяносто анаконд,  
+**[7494.72s] English:** At the moment, I have caught more than ninety anacondas.  
 **Translation:** 
 
-**[7497.32s] English:** и многие из них были огромными.  
+**[7497.32s] English:** And many of them were enormous.  
 **Translation:** 
 
-**[7500.00s] English:** Была еще одна, которую мы с Джей-Джеем не смогли поймать в плавающем лесу,  
-**Translation:** 
+**[7500.00s] English:** There was another one that Jay-Jay and I couldn't catch in the drifting forest,  
+**Translation:** Vocabulary: drifting: 飘动
 
-**[7503.58s] English:** ведь она была большая, больше моей руки, и я не мог сомкнуть пальцы.  
+**[7503.58s] English:** Because she was big, bigger than my hand, and I couldn't close my fingers around her.  
 **Translation:** 
 
-**[7507.70s] English:** Но каждая из них выбирала бежать, а не бить.  
+**[7507.70s] English:** But each of them chose to run away, not to hit.  
 **Translation:** 
 
-**[7511.94s] English:** Только малыши и мелкие самцы бывают агрессивными.  
+**[7511.94s] English:** Only babies and small males are aggressive.  
 **Translation:** 
 
-**[7515.34s] English:** Как обычные змеи, схватишь за хвост, попробуют укусить и сбежать.  
+**[7515.34s] English:** As with ordinary snakes, if you grab them by the tail, they will try to bite and escape.  
 **Translation:** 
 
-**[7519.12s] English:** А крупные самки, они как драконы.  
+**[7519.12s] English:** Large females are like dragons.  
 **Translation:** 
 
-**[7522.52s] English:** Огромные, легендарные существа, живущие в балуках.  
-**Translation:** 
+**[7522.52s] English:** Giant, legendary creatures living in bogs.  
+**Translation:** Vocabulary: dragons: 传说中的巨龙; legendary: 传奇的
 
-**[7525.76s] English:** Они смогли стать такими большими.  
+**[7525.76s] English:** They were able to become so big.  
 **Translation:** 
 
-**[7527.26s] English:** Небольшими, потому что у них был стабильный источник добычи в уединенном месте,  
-**Translation:** 
+**[7527.26s] English:** Small, because they had a stable source of supply in a secluded place.  
+**Translation:** Vocabulary: secluded: 偏僻的
 
-**[7531.44s] English:** вдали от людей, и они десятилетиями просто утаскивали еду в преисподнюю и пожирали ее.  
+**[7531.44s] English:** Far from people, and they simply dragged food to the underworld and devoured it for decades.  
 **Translation:** 
 
-**[7538.50s] English:** И еще момент, со мной же целая команда.  
-**Translation:** 
+**[7538.50s] English:** And another point, I have a whole team with me.  
+**Translation:** Vocabulary: devoured: 吞噬; underworld: 阴间
 
-**[7543.02s] English:** То есть люди держат...  
+**[7543.02s] English:** That is, people hold...  
 **Translation:** 
 
-**[7544.74s] English:** Да, давай честно.  
+**[7544.74s] English:** Yes, let's be honest.  
 **Translation:** 
 
-**[7546.22s] English:** Я бы не стал.  
+**[7546.22s] English:** I would not do that.  
 **Translation:** 
 
-**[7547.62s] English:** Будь я в джунглях в одиночку ночью,  
+**[7547.62s] English:** If I were in the jungle alone at night,  
 **Translation:** 
 
-**[7550.14s] English:** и попробовал бы такое провернуть, это было бы самоубийство.  
+**[7550.14s] English:** And if someone tried to pull off something like that, it would be suicide.  
 **Translation:** 
 
-**[7553.98s] English:** Каждую секунду, пока я находился в воде, и она была у меня на шее,  
+**[7553.98s] English:** Every second I was in the water, and it was around my neck,  
 **Translation:** 
 
-**[7557.26s] English:** если бы рядом не было Джей-Джея, который бы...  
+**[7557.26s] English:** If it weren't for Jay-Jay being nearby to...  
 **Translation:** 
 
-**[7560.00s] English:** Если бы я прыгнул и начал бы их разматывать, я бы умер.  
-**Translation:** 
+**[7560.00s] English:** If I had jumped and started unraveling them, I would have died.  
+**Translation:** Vocabulary: unraveling: 拆解
 
 **[7563.04s] English:** 100%.  
 **Translation:** 
 
-**[7563.64s] English:** Потому что она продолжает обвиваться.  
-**Translation:** 
+**[7563.64s] English:** Because it continues to缠绕. (Note: The last word "обвиваться" translates to "twine" or "entwine" in English, but there seems to be a typo as the Russian word is used in the translation. I've kept it close to the original meaning while ensuring proper English punctuation and capitalization.)  
+**Translation:** Vocabulary: capitalization: 大写; entwine: 缠绕; translates: 翻译
 
-**[7566.54s] English:** Она лежит на спине и как бы говорит,  
+**[7566.54s] English:** She lies on her back and seems to be saying,  
 **Translation:** 
 
-**[7570.06s] English:** «Ну давай, заходи, посмотришь, что такое болевой захват.  
-**Translation:** 
+**[7570.06s] English:** Nu davydi, zahodi, posmotrysh chto takoye bolovy zavt.  
+**Translation:** Vocabulary: posmotrysh: 看看
 
-**[7573.54s] English:** Я выжму из тебя все кишки.  
+**[7573.54s] English:** I will squeeze all your guts out of you.  
 **Translation:** 
 
-**[7575.68s] English:** Только попробуй».  
-**Translation:** 
+**[7575.68s] English:** Only try,  
+**Translation:** Vocabulary: squeeze: 挤出
 
-**[7577.34s] English:** И при этом медленно.  
+**[7577.34s] English:** And yet, slowly.  
 **Translation:** 
 
-**[7579.24s] English:** Очень.  
+**[7579.24s] English:** Very.  
 **Translation:** 
 
-**[7580.12s] English:** Она уверена в своей силе, ей не нужно спешить.  
+**[7580.12s] English:** She is confident in her strength; she doesn't need to hurry.  
 **Translation:** 
 
-**[7584.00s] English:** Она тебя достанет.  
+**[7584.00s] English:** She will get you.  
 **Translation:** 
 
-**[7585.32s] English:** Хотя хотелось бы возразить, я тебя знаю достаточно давно.  
+**[7585.32s] English:** Although I would like to argue, I have known you for quite some time.  
 **Translation:** 
 
-**[7589.10s] English:** Но...  
+**[7589.10s] English:** But...  
 **Translation:** 
 
-**[7589.86s] English:** И давай честно.  
+**[7589.86s] English:** Let's be honest.  
 **Translation:** 
 
-**[7591.02s] English:** Ты говоришь, я бы не был настолько безумен, но я думаю, что был бы.  
+**[7591.02s] English:** You say I wouldn't be so insane, but I think I would.  
 **Translation:** 
 
-**[7598.80s] English:** Есть грань безумия, и ты, мой друг, пока мастерски балансируешь на ней.  
+**[7598.80s] English:** There is a line between sanity and madness, and you, my friend, are currently masterfully balancing on it.  
 **Translation:** 
 
-**[7607.80s] English:** Мне кажется, когда ты умеешь чувствовать животное,  
-**Translation:** 
+**[7607.80s] English:** It seems that when you can feel an animal,  
+**Translation:** Vocabulary: balancing: 保持平衡; madness: 疯狂; masterfully: 熟练地
 
-**[7611.50s] English:** будь то крокодилы, кайманы или анаконды,  
+**[7611.50s] English:** Whether it be crocodiles, caimans, or anacondas,  
 **Translation:** 
 
-**[7616.58s] English:** ты как будто излучаешь спокойствие.  
-**Translation:** 
+**[7616.58s] English:** You seem to emit calmness.  
+**Translation:** Vocabulary: anacondas: 水蟒; caimans: 短吻鳄; calmness: 镇静; crocodiles: 鳄鱼
 
-**[7619.10s] English:** Я видел, как ты врываешься в опасные по моим меркам ситуации  
+**[7619.10s] English:** I saw how you rush into dangerous situations by my standards.  
 **Translation:** 
 
-**[7626.04s] English:** и создаешь видимость, будто они совсем не опасны.  
-**Translation:** 
+**[7626.04s] English:** And you create a visibility that they are completely harmless.  
+**Translation:** Vocabulary: harmless: 无害的; visibility: 可见性
 
-**[7629.98s] English:** Может быть, когда ты становишься частью экосистемы,  
+**[7629.98s] English:** May be, when you become part of an ecosystem,  
 **Translation:** 
 
-**[7633.68s] English:** ты перестаешь быть для нее угрозой,  
+**[7633.68s] English:** You stop being a threat to her.  
 **Translation:** 
 
-**[7637.28s] English:** и поэтому выживаешь.  
+**[7637.28s] English:** And therefore, you survive.  
 **Translation:** 
 
-**[7639.14s] English:** Я так до конца и не понял.  
+**[7639.14s] English:** I never really understood that completely.  
 **Translation:** 
 
-**[7642.02s] English:** Скажу так.  
+**[7642.02s] English:** I'll say it this way.  
 **Translation:** 
 
-**[7643.02s] English:** В случае со слонами, если мы когда-нибудь окажемся вместе в Африке,  
+**[7643.02s] English:** In the case of elephants, if we ever find ourselves together in Africa,  
 **Translation:** 
 
-**[7648.90s] English:** я...  
+**[7648.90s] English:** I...  
 **Translation:** 
 
-**[7649.10s] English:** Я могу подойти к ним очень близко, потому что достаточно времени провел с ними.  
+**[7649.10s] English:** I can get very close to them because I spent enough time with them.  
 **Translation:** 
 
-**[7654.26s] English:** Пока что все их атаки были ложными.  
+**[7654.26s] English:** So far, all their attacks have been false.  
 **Translation:** 
 
-**[7659.42s] English:** Ты сможешь стать единым со слоном и выучить его язык настолько,  
+**[7659.42s] English:** You can become one with the elephant and learn its language to such an extent,  
 **Translation:** 
 
-**[7663.00s] English:** чтобы уважать его границы и одновременно дать ему понять,  
+**[7663.00s] English:** To respect his boundaries and simultaneously give him an understanding of them,  
 **Translation:** 
 
-**[7667.56s] English:** мы тут не шутки шутим.  
+**[7667.56s] English:** We here are not joking around.  
 **Translation:** 
 
-**[7670.34s] English:** Либо ты меня убиваешь, либо разворачиваешься и ешь.  
+**[7670.34s] English:** Either you kill me, or you turn around and eat.  
 **Translation:** 
 
-**[7674.06s] English:** Между вами может быть такой диалог.  
+**[7674.06s] English:** Between you, there could be such a dialogue.  
 **Translation:** 
 
-**[7675.98s] English:** С мелкими змеями я, конечно, осторожен,  
+**[7675.98s] English:** I am, of course, careful with small snakes.  
 **Translation:** 
 
-**[7679.10s] English:** но я могу...  
+**[7679.10s] English:** But I can...  
 **Translation:** 
 
-**[7679.62s] English:** Нет.  
+**[7679.62s] English:** No.  
 **Translation:** 
 
-**[7680.00s] English:** В данном случае, когда обе твои руки на шее анаконды.  
+**[7680.00s] English:** In this case, when both of your hands are on the anaconda's neck.  
 **Translation:** 
 
-**[7685.26s] English:** Да, я иногда сам себя удивляю своими решениями.  
+**[7685.26s] English:** Yes, I sometimes surprise myself with my own decisions.  
 **Translation:** 
 
-**[7690.52s] English:** Но вот такое, и в одиночку, стопроцентная смерть.  
-**Translation:** 
+**[7690.52s] English:** But here's one that's a sure death—even in solitude.  
+**Translation:** Vocabulary: solitude: 独处
 
-**[7695.98s] English:** Это как лечь перед грузовиком с прицепом на нейтрале.  
+**[7695.98s] English:** This is like lying in front of a truck with the trailer in neutral.  
 **Translation:** 
 
-**[7699.20s] English:** Он тебя просто раскатает.  
+**[7699.20s] English:** He will just roll you over.  
 **Translation:** 
 
-**[7701.68s] English:** Вот это превратится в наручники из анаконды.  
+**[7701.68s] English:** This will turn into anaconda handcuffs.  
 **Translation:** 
 
-**[7704.50s] English:** Вот такой толщины.  
-**Translation:** 
+**[7704.50s] English:** Here is such a thickness.  
+**Translation:** Vocabulary: anaconda: 大蟒蛇; handcuffs: 手铐; thickness: 厚度
 
-**[7705.98s] English:** А потом она сделает еще шесть таких же витков вокруг тела,  
+**[7705.98s] English:** Then she will make six more such coils around the body.  
 **Translation:** 
 
-**[7711.18s] English:** тебя сожмут, и ты превратишься в кашу.  
-**Translation:** 
+**[7711.18s] English:** You will be squeezed, and you will turn into a pulp.  
+**Translation:** Vocabulary: squeezed: 被挤压
 
-**[7715.90s] English:** Тот парень верно сказал, она не в режиме обороны, или поиска еды, а в режиме защиты.  
+**[7715.90s] English:** That guy was right; she wasn't in a mode of defense or searching for food, but in a mode of protection.  
 **Translation:** 
 
-**[7720.94s] English:** Она нейтрализует угрозу и снова уснет.  
-**Translation:** 
+**[7720.94s] English:** She neutralizes the threat and will again fall asleep.  
+**Translation:** Vocabulary: neutralizes: 中和
 
-**[7726.82s] English:** Я обязан спросить про плавающий лес.  
+**[7726.82s] English:** I must ask about the floating forest.  
 **Translation:** 
 
-**[7731.50s] English:** В книге ты опять же невероятно красиво пишешь  
+**[7731.50s] English:** In the book, you write again incredibly beautifully.  
 **Translation:** 
 
-**[7734.76s] English:** о Сантьяне.  
+**[7734.76s] English:** About San Diego.  
 **Translation:** 
 
-**[7735.98s] English:** О Сантьяго, о тех временах, когда он рассказывал тебе истории,  
-**Translation:** 
+**[7735.98s] English:** Oh Santiago, oh those times when he would tell you stories,  
+**Translation:** Vocabulary: diego: 迭戈; santiago: 桑蒂亚哥
 
-**[7739.06s] English:** когда твой ум и взгляд еще были свежими,  
+**[7739.06s] English:** When your mind and gaze were still fresh,  
 **Translation:** 
 
-**[7742.22s] English:** скептичными, и скорее западными, чем джунглевыми.  
-**Translation:** 
+**[7742.22s] English:** Skeptical, and more Western than jungle-like.  
+**Translation:** Vocabulary: skeptical: 怀疑的
 
-**[7748.22s] English:** Глаза Сантьяго светились в темноте.  
+**[7748.22s] English:** Eyes glowing, Santiago's eyes shone in the darkness.  
 **Translation:** 
 
-**[7751.22s] English:** Он смотрел, как оранжевый уголек взлетает вверх и присоединяется к небесной реке из звезд,  
-**Translation:** 
+**[7751.22s] English:** He watched as the orange ember rose up and joined the celestial river of stars.  
+**Translation:** Vocabulary: celestial: 天上的; ember: 余烬; glowing: 发光的
 
-**[7756.22s] English:** раскинувшейся над ночным небом, словно воспоминания хранятся там.  
+**[7756.22s] English:** Spread out over the night sky, as if memories are stored there.  
 **Translation:** 
 
-**[7760.22s] English:** Он щурился, и его лицо морщинистое и выветренное было похоже на старую карту Мерседеса.  
-**Translation:** 
+**[7760.22s] English:** He squinted, and his weathered face was like an old Mercedes map.  
+**Translation:** Vocabulary: mercedes: 奔驰; squinted: 眯眼
 
-**[7765.98s] English:** Огромный опыт шептал в свете костра,  
+**[7765.98s] English:** A huge experience whispered in the light of the campfire,  
 **Translation:** 
 
-**[7767.98s] English:** эфемерный как дыхание, произносившее слова,  
-**Translation:** 
+**[7767.98s] English:** Ephemeral as breath, uttering words,  
+**Translation:** Vocabulary: campfire: 篝火; ephemeral: 短暂的; uttering: 发出; whispered: 低语
 
-**[7771.98s] English:** но достаточно мощный, чтобы зацепиться и осесть где-то глубоко внутри меня.  
+**[7771.98s] English:** But it's powerful enough to stick and settle somewhere deep inside me.  
 **Translation:** 
 
-**[7777.98s] English:** Пико говорит, папа, расскажи мне про анаконду в черной воде.  
+**[7777.98s] English:** Pico says, Dad, tell me about the anaconda in black water.  
 **Translation:** 
 
-**[7782.98s] English:** И он рассказывает историю, что она была огромной и с рогами.  
+**[7782.98s] English:** He tells a story that she was enormous and had horns.  
 **Translation:** 
 
-**[7789.98s] English:** И ты пишешь, опять же блестяще, о своих тогдашних сомнениях.  
-**Translation:** 
+**[7789.98s] English:** You write again brilliantly about your doubts at the time.  
+**Translation:** Vocabulary: brilliantly: 非常出色地
 
-**[7795.98s] English:** Всё это звучит как чушь, но теперь чем больше  
+**[7795.98s] English:** All this sounds like nonsense, but now the more  
 **Translation:** 
 
-**[7800.00s] English:** Если ты занимаешься с джунглями, и чем больше осознаешь, что многого еще не видел, тем правдивее кажутся эти истории.  
-**Translation:** 
+**[7800.00s] English:** If you are working with jungles, and the more you realize there is still much you have not seen, the truer these stories seem.  
+**Translation:** Vocabulary: jungles: 热带雨林
 
-**[7811.24s] English:** Та, о которой он говорил, могла быть 11 метров длиной. Вот такой.  
+**[7811.24s] English:** That one he was talking about could have been 11 meters long. Here's how it looked.  
 **Translation:** 
 
-**[7817.26s] English:** Он говорит, плавающий лес — это место, куда тебе, Гринго, нужно пойти, если хочешь избавиться от сомнений и скепсиса.  
-**Translation:** 
+**[7817.26s] English:** He says, "Plywood Forest is the place you, Ginggo, need to go if you want to get rid of your doubts and skepticism.  
+**Translation:** Vocabulary: plywood: 胶合板; skepticism: 怀疑主义
 
-**[7825.94s] English:** Гринго, расскажи мне об анакондах, которых ты встречал в плавающем лесу.  
+**[7825.94s] English:** Gringo, tell me about the anacondas you encountered in the floating forest.  
 **Translation:** 
 
-**[7831.94s] English:** Он тут рассказывал, что они нашли анаконду с рогами.  
-**Translation:** 
+**[7831.94s] English:** He here told about finding an anaconda with horns.  
+**Translation:** Vocabulary: anaconda: 蟒蛇; anacondas: 蟒蛇; encountered: 遇到
 
-**[7837.76s] English:** В тот момент мы все сидели у реки, и я сказал, хватит.  
+**[7837.76s] English:** At that moment, we were all sitting by the river, and I said, "That's enough.  
 **Translation:** 
 
-**[7842.68s] English:** Встал и говорю, да не бывает анаконд с рогами.  
+**[7842.68s] English:** I got up and said, "There are no anacondas with horns.  
 **Translation:** 
 
-**[7846.40s] English:** Но если я чему-то и научился за 20 лет жизни с коренными народами Амазонии, так это тому, что они не ошибаются.  
+**[7846.40s] English:** But if I learned anything in 20 years of living with indigenous Amazonian peoples, it is that they never err.  
 **Translation:** 
 
-**[7852.52s] English:** Если они говорят, что где-то в лесу есть голые люди с луками,  
-**Translation:** 
+**[7852.52s] English:** If they say that there are naked people with bows somewhere in the forest,  
+**Translation:** Vocabulary: amazonian: 亚马逊地区的; indigenous: 土著的
 
-**[7855.74s] English:** значит, они там есть.  
+**[7855.74s] English:** Meaning, they are there.  
 **Translation:** 
 
-**[7857.54s] English:** И они уж точно знают, как выглядит анаконда.  
+**[7857.54s] English:** They are definitely aware of what an anaconda looks like.  
 **Translation:** 
 
-**[7861.48s] English:** И если он говорит, что видел анаконду с рогами, значит, он что-то видел, и это не обычная анаконда.  
+**[7861.48s] English:** If he says he saw an anaconda with horns, that means he saw something, and it's not a regular anaconda.  
 **Translation:** 
 
-**[7867.56s] English:** Недавно произошла похожая история, но в меньшем масштабе.  
+**[7867.56s] English:** Recently, a similar incident occurred, but on a smaller scale.  
 **Translation:** 
 
-**[7871.00s] English:** Один из ребят, который работает у нас в домике на деревне, пришел и сказал,  
+**[7871.00s] English:** One of the guys who works in our cottage in the village came and said,  
 **Translation:** 
 
-**[7875.76s] English:** «Слушайте, ребята, я нашел змею в баке с водой.  
-**Translation:** 
+**[7875.76s] English:** Listen, guys, I found a snake in the water bucket.  
+**Translation:** Vocabulary: cottage: 小屋
 
-**[7880.32s] English:** У нее были зеленые шипы».  
+**[7880.32s] English:** She had green thorns.  
 **Translation:** 
 
-**[7882.62s] English:** А я ему, «Змеи с зелеными шипами нет».  
-**Translation:** 
+**[7882.62s] English:** I said to him, "No snakes with green spines.  
+**Translation:** Vocabulary: spines: 刺; thorns: 刺
 
-**[7885.74s] English:** «Нет, поздравляю, ты идиот».  
+**[7885.74s] English:** No, congratulations, you idiot.  
 **Translation:** 
 
-**[7887.78s] English:** Я посмеялся и сказал, «Я знаю все виды змей, что здесь водится».  
-**Translation:** 
+**[7887.78s] English:** I laughed and said, "I know all the types of snakes that are found here.  
+**Translation:** Vocabulary: congratulations: 祝贺
 
-**[7891.72s] English:** «Ни одной нет шипов, таких змей не существует».  
+**[7891.72s] English:** None of them have spines, such snakes do not exist.  
 **Translation:** 
 
-**[7894.96s] English:** А он, «Нет, были длинные шипы.  
+**[7894.96s] English:** He said, "No, there were long spines.  
 **Translation:** 
 
-**[7896.94s] English:** Змея вот такая, а шипы вот такие».  
+**[7896.94s] English:** Zmeya votsaya, a shipy votaki.  
 **Translation:** 
 
-**[7899.54s] English:** Я, «Не бывает змей с шипами».  
-**Translation:** 
+**[7899.54s] English:** I don't have snakes with spines.  
+**Translation:** Vocabulary: votsaya: 舰船
 
-**[7902.42s] English:** В итоге он пришел за мной ночью и говорит,  
+**[7902.42s] English:** In the end, he came for me at night and said,  
 **Translation:** 
 
-**[7904.94s] English:** «Змея с шипами вон там».  
-**Translation:** 
+**[7904.94s] English:** Snake with spikes over there.  
+**Translation:** Vocabulary: spikes: 尖刺
 
-**[7906.72s] English:** Я сказал, «Ладно, ради этого я встал».  
+**[7906.72s] English:** I said, "Alright, I got up for this.  
 **Translation:** 
 
-**[7909.66s] English:** И добавил, «Когда мы придем, ее не будет».  
+**[7909.66s] English:** He added, "When we come, she will not be here.  
 **Translation:** 
 
-**[7912.54s] English:** Мы подошли к баку, я посветил фонариком вниз,  
+**[7912.54s] English:** We approached the bucket, I shone the flashlight down inside,  
 **Translation:** 
 
-**[7915.38s] English:** и, «Черт!»  
-**Translation:** 
+**[7915.38s] English:** Chерт!  
+**Translation:** Vocabulary: approached: 靠近; flashlight: 手电筒
 
-**[7915.74s] English:** «Черт возьми, там действительно змея».  
+**[7915.74s] English:** Good heavens, there is indeed a snake there.  
 **Translation:** 
 
-**[7920.00s] English:** В нее торчат тысячи зеленых шипов.  
-**Translation:** 
+**[7920.00s] English:** It is pierced by thousands of green spines.  
+**Translation:** Vocabulary: pierced: 刺穿
 
-**[7922.60s] English:** Я видел ее голову.  
+**[7922.60s] English:** I saw her head.  
 **Translation:** 
 
-**[7925.54s] English:** Шипы торчали перпендикулярно телу.  
-**Translation:** 
+**[7925.54s] English:** Spikes protruded perpendicularly from the body.  
+**Translation:** Vocabulary: perpendicularly: 垂直; protruded: 突出
 
-**[7929.56s] English:** На секунду я подумал, что смотрю на нас со стороны.  
+**[7929.56s] English:** For a second, I thought I was looking at us from the outside.  
 **Translation:** 
 
-**[7932.68s] English:** А потом змея нас увидела, испугалась, поплыла, и все шипы сложились к телу, и она стала гладкой.  
-**Translation:** 
+**[7932.68s] English:** Then the snake saw us, became frightened, slithered away, and all its spines folded against its body, making it smooth.  
+**Translation:** Vocabulary: slithered: 滑行
 
-**[7940.14s] English:** И тут я понял, что змея какое-то время жила в стоячей воде, и на ней выросли водоросли.  
+**[7940.14s] English:** Here, I realized that the snake had lived in standing water for some time, and algae had grown on it.  
 **Translation:** 
 
-**[7945.70s] English:** Когда она неподвижна, водоросли торчат.  
-**Translation:** 
+**[7945.70s] English:** When she is motionless, seaweed protrudes.  
+**Translation:** Vocabulary: algae: 水生植物; motionless: 静止; protrudes: 伸出; seaweed: 海藻
 
-**[7950.00s] English:** Но если смотреть сверху, реально кажется, что у змеи шипы, хотя это были водоросли.  
+**[7950.00s] English:** But if you look from above, it really seems that the snake has spines, although they were just seaweed.  
 **Translation:** 
 
-**[7957.54s] English:** Не то чтобы он был неправ.  
+**[7957.54s] English:** It's not that he was wrong.  
 **Translation:** 
 
-**[7959.54s] English:** Это была водяная змея, какой-то уж.  
+**[7959.54s] English:** This was a water snake, some kind of snake.  
 **Translation:** 
 
-**[7963.40s] English:** Объяснение всегда есть.  
+**[7963.40s] English:** Explanation is always available.  
 **Translation:** 
 
-**[7966.02s] English:** Они не ошибаются.  
+**[7966.02s] English:** They never make mistakes.  
 **Translation:** 
 
-**[7967.36s] English:** Поэтому, когда они говорят, там есть анаконда с рогами, и это видели несколько человек,  
-**Translation:** 
+**[7967.36s] English:** Therefore, when they say there's a horned anaconda and several people have seen it,  
+**Translation:** Vocabulary: anaconda: 蟒蛇; horned: 有角的
 
-**[7972.52s] English:** ты собираешь экспедицию.  
+**[7972.52s] English:** You are gathering an expedition.  
 **Translation:** 
 
-**[7974.46s] English:** Если бы сказали, что в долине гигантские ленивцы, я бы не сказал, они вымерли.  
-**Translation:** 
+**[7974.46s] English:** If someone had told me that there were giant sloths in the valley, I would not have said they had gone extinct.  
+**Translation:** Vocabulary: expedition: 考察队; extinct: 灭绝; sloths: 树懒
 
-**[7978.24s] English:** Я бы сказал, где?  
+**[7978.24s] English:** I would say, where?  
 **Translation:** 
 
-**[7980.00s] English:** Нужно их слушать.  
+**[7980.00s] English:** We need to listen to them.  
 **Translation:** 
 
-**[7981.50s] English:** После того, как племя вышло из леса,  
+**[7981.50s] English:** After the tribe emerged from the forest,  
 **Translation:** 
 
-**[7985.22s] English:** в тот день, если бы за ними вышел пиранозавр, я бы сказал, ну, логично.  
-**Translation:** 
+**[7985.22s] English:** On that day, if a pteranodron had followed them, I would have said, "Well, logically.  
+**Translation:** Vocabulary: logically: 合逻辑地
 
-**[7990.16s] English:** Вернемся к плавающему лесу.  
+**[7990.16s] English:** Let's return to the floating forest.  
 **Translation:** 
 
-**[7991.98s] English:** Ты думаешь о том, какие там могут быть существа?  
+**[7991.98s] English:** You are thinking about what kind of creatures might be there?  
 **Translation:** 
 
-**[7995.54s] English:** Я недавно разговаривал с Майклом Левиным из Университета Тавца.  
+**[7995.54s] English:** I recently spoke with Michael Levin from Tufts University.  
 **Translation:** 
 
-**[8000.40s] English:** Он биолог, создает формы жизни в лаборатории и изучает всякие странные нетипичные формы интеллекта.  
-**Translation:** 
+**[8000.40s] English:** He is a biologist, creating forms of life in the laboratory and studying various strange and atypical forms of intelligence.  
+**Translation:** Vocabulary: atypical: 非典型的; biologist: 生物学家; tufts: 塔夫茨大学
 
-**[8010.00s] English:** Он говорит об этом с точки зрения понимания всех странностей и нюансов биологических систем.  
+**[8010.00s] English:** He speaks about this from the perspective of understanding all the quirks and nuances of biological systems.  
 **Translation:** 
 
-**[8022.24s] English:** В плавающем лесу, наверное, сварился очень интересный суп из организмов.  
-**Translation:** 
+**[8022.24s] English:** In the floating forest, it's likely that a very interesting soup made from organisms was cooked up.  
+**Translation:** Vocabulary: nuances: 细微差别; quirks: 怪癖
 
-**[8029.54s] English:** Ты представлял, какие странные существа там могут быть?  
+**[8029.54s] English:** Did you imagine what strange creatures might be there?  
 **Translation:** 
 
-**[8034.04s] English:** Да.  
+**[8034.04s] English:** Yes.  
 **Translation:** 
 
-**[8034.28s] English:** Помимо гигантских змей, там есть животные.  
+**[8034.28s] English:** Besides giant snakes, there are other animals as well.  
 **Translation:** 
 
-**[8040.00s] English:** живущие в изолированной экосистеме.  
+**[8040.00s] English:** Living in an isolated ecosystem.  
 **Translation:** 
 
-**[8043.32s] English:** Есть Тепуи, как в мультике «Верх»,  
+**[8043.32s] English:** There are tepui mountains, like in the cartoon "Up".  
 **Translation:** 
 
-**[8045.52s] English:** венесуэльское плато с отвесными склонами, как водопад Ангель.  
-**Translation:** 
+**[8045.52s] English:** Venezuelan plateau with vertical slopes, like Angel Falls.  
+**Translation:** Vocabulary: plateau: 高原; vertical: 垂直的
 
-**[8050.44s] English:** Там происходит аллопатрическое водообразование,  
+**[8050.44s] English:** There occurs allopatric water formation there.  
 **Translation:** 
 
-**[8053.24s] English:** и изолированные сообщества начинают эволюционировать отдельно от всего остального.  
-**Translation:** 
+**[8053.24s] English:** And isolated communities begin to evolve separately from the rest.  
+**Translation:** Vocabulary: allopatric: 地理隔离的; evolve: 进化; isolated: 孤立的; separately: 单独地
 
-**[8058.36s] English:** В плавающем лесу очень особая экосистема,  
+**[8058.36s] English:** In the floating forest, there is a very special ecosystem,  
 **Translation:** 
 
-**[8061.32s] English:** и животные живут в травяных островах, в коронах пальм.  
-**Translation:** 
+**[8061.32s] English:** And animals live in grassy islands, in the crowns of palm trees.  
+**Translation:** Vocabulary: grassy: 草地的
 
-**[8067.00s] English:** И под этими плавучими матами — кошмарность.  
+**[8067.00s] English:** And under these floating mats—nightmare.  
 **Translation:** 
 
-**[8071.72s] English:** Там, наверное, есть насекомые.  
-**Translation:** 
+**[8071.72s] English:** There, no doubt, are insects.  
+**Translation:** Vocabulary: nightmare: 噩梦
 
-**[8074.74s] English:** Я видел там яхерец, мы не смогли их идентифицировать.  
+**[8074.74s] English:** I saw some creatures there, we were unable to identify them.  
 **Translation:** 
 
-**[8078.16s] English:** Что-то еще даже представить сложно.  
+**[8078.16s] English:** Something else, even imagining it is difficult.  
 **Translation:** 
 
-**[8080.82s] English:** Я не думаю, что разложения кислорода в воде, скорее всего, почти нет.  
+**[8080.82s] English:** I don't think there will be much decomposition of oxygen in water.  
 **Translation:** 
 
-**[8087.38s] English:** Я приводил туда ученых, и все они говорили это...  
-**Translation:** 
+**[8087.38s] English:** I brought scientists there, and they all said it was...  
+**Translation:** Vocabulary: decomposition: 分解
 
-**[8091.22s] English:** Да что это? Как это сформулировать?  
+**[8091.22s] English:** What is this? How do I formulate it?  
 **Translation:** 
 
-**[8094.30s] English:** Мы привозили гидрологов, и они спрашивали,  
-**Translation:** 
+**[8094.30s] English:** We brought in hydrologists, and they asked,  
+**Translation:** Vocabulary: hydrologists: 水文学家
 
-**[8096.64s] English:** «Как это сформулировать?»  
+**[8096.64s] English:** How should I formulate this?  
 **Translation:** 
 
-**[8096.98s] English:** И все это возникло.  
+**[8096.98s] English:** And all of this arose.  
 **Translation:** 
 
-**[8098.60s] English:** Очень интересно попытаться понять, какие существа там обитают.  
+**[8098.60s] English:** It is very interesting to try to understand what creatures inhabit those places.  
 **Translation:** 
 
-**[8104.80s] English:** Большие анаконды — интересный фрукт.  
-**Translation:** 
+**[8104.80s] English:** Big anacondas are interesting creatures.  
+**Translation:** Vocabulary: anacondas: 大boa蛇; inhabit: 栖息
 
-**[8108.10s] English:** Они ведь и вправду вершины пищевой цепи, им на все пофигу.  
+**[8108.10s] English:** They are indeed at the top of the food chain; they couldn't care less about anything.  
 **Translation:** 
 
-**[8111.54s] English:** Они не используют свою силу.  
+**[8111.54s] English:** They do not use their power.  
 **Translation:** 
 
-**[8113.96s] English:** Да, но укуси я ее, она бы меня убила.  
+**[8113.96s] English:** Yes, but if I bit her, she would kill me.  
 **Translation:** 
 
-**[8117.00s] English:** Но как будто бы скорее из скуки.  
-**Translation:** 
+**[8117.00s] English:** But it seemed more out of boredom.  
+**Translation:** Vocabulary: boredom: 无聊
 
-**[8121.16s] English:** Медленно.  
+**[8121.16s] English:** Slowly.  
 **Translation:** 
 
-**[8122.26s] English:** Интересно, после того, как она убила бы меня,  
+**[8122.26s] English:** Interesting, after she killed me,  
 **Translation:** 
 
-**[8124.42s] English:** я бы подумал, что это не скука.  
+**[8124.42s] English:** I would think that it's not boredom.  
 **Translation:** 
 
-**[8126.54s] English:** Подумала бы она...  
+**[8126.54s] English:** She would have thought about it...  
 **Translation:** 
 
-**[8127.32s] English:** Я вкушу кусочек.  
+**[8127.32s] English:** I will taste a piece.  
 **Translation:** 
 
-**[8128.54s] English:** Даже не укус, они же глотают целиком.  
+**[8128.54s] English:** Even not a bite; they swallow their prey whole.  
 **Translation:** 
 
-**[8131.94s] English:** Как только ломают тебе плечи.  
+**[8131.94s] English:** As soon as they break your wings.  
 **Translation:** 
 
-**[8134.16s] English:** Вот, убил ты отличный бургер, и он лежит у тебя в руках.  
+**[8134.16s] English:** Here, you've killed a great burger, and it lies in your hands.  
 **Translation:** 
 
-**[8138.82s] English:** Ты же наверняка подумаешь, ну может попробую?  
+**[8138.82s] English:** You'll probably think, well, maybe I'll give it a try?  
 **Translation:** 
 
-**[8141.76s] English:** Им нужны калории.  
+**[8141.76s] English:** They need calories.  
 **Translation:** 
 
-**[8143.24s] English:** Да, потом полгода сна.  
+**[8143.24s] English:** Yes, then six months of sleep.  
 **Translation:** 
 
-**[8147.20s] English:** Да, да.  
+**[8147.20s] English:** Yes, yes.  
 **Translation:** 
 
-**[8148.78s] English:** По-настоящему величественные существа.  
+**[8148.78s] English:** Truly majestic creatures.  
 **Translation:** 
 
-**[8151.60s] English:** Да, мне нравится эта фотография.  
-**Translation:** 
+**[8151.60s] English:** Yes, I like this photograph.  
+**Translation:** Vocabulary: majestic: 雄伟的
 
-**[8153.26s] English:** Просто...  
+**[8153.26s] English:** Just...  
 **Translation:** 
 
-**[8154.42s] English:** Просто посмотри на ее размер.  
+**[8154.42s] English:** Just look at her size.  
 **Translation:** 
 
-**[8158.04s] English:** Я хочу, чтобы ты когда-нибудь их почувствовал.  
+**[8158.04s] English:** I want you to feel them someday.  
 **Translation:** 
 
-**[8160.00s] English:** потому что дикие змеи не такие, как в неволе.  
-**Translation:** 
+**[8160.00s] English:** Because wild snakes are not like those in captivity.  
+**Translation:** Vocabulary: captivity: 笼中状态
 
-**[8163.90s] English:** Те мягкие всю жизнь сидели в клетке, а эти напрягаются каждый день.  
+**[8163.90s] English:** Those that have always sat in a cage are soft, while these ones tense up every day.  
 **Translation:** 
 
-**[8168.98s] English:** Они как стальные тросы.  
-**Translation:** 
+**[8168.98s] English:** They are like steel cables.  
+**Translation:** Vocabulary: cables: 钢缆
 
-**[8171.84s] English:** Дико.  
+**[8171.84s] English:** Dico.  
 **Translation:** 
 
-**[8172.96s] English:** Даже когда она спокойна, ты, наверное, чувствуешь, на что она способна.  
+**[8172.96s] English:** Even when she is calm, you probably sense what she is capable of.  
 **Translation:** 
 
-**[8178.24s] English:** С очень большими особями вот какой прикол.  
+**[8178.24s] English:** Here's the transcript with added natural English punctuation and capitalization: Keep in mind that very large specimens have a peculiar characteristic.  
 **Translation:** 
 
-**[8181.80s] English:** Когда они бьют, ты как будто в драке с огромным мужиком.  
+**[8181.80s] English:** When they hit you, it's like you're in a fight with a huge guy.  
 **Translation:** 
 
-**[8185.54s] English:** Замах идёт откуда-то оттуда, и ты такой,  
+**[8185.54s] English:** The attack is coming from over there, and you're like,  
 **Translation:** 
 
-**[8187.96s] English:** «А, ясно. Ща опрягнусь».  
+**[8187.96s] English:** Ah, clear. I'll get going.  
 **Translation:** 
 
-**[8191.16s] English:** Они открывают пасть и начинают разгоняться.  
+**[8191.16s] English:** They open their mouths and begin to accelerate.  
 **Translation:** 
 
-**[8197.10s] English:** Обычно довольно легко либо уклониться, либо перехватить удар прямо перед лицом.  
-**Translation:** 
+**[8197.10s] English:** Usually, it is fairly easy to either dodge or block an attack right in front of you.  
+**Translation:** Vocabulary: accelerate: 加速; dodge: 闪避
 
-**[8203.40s] English:** Обычно.  
+**[8203.40s] English:** Usually.  
 **Translation:** 
 
-**[8204.46s] English:** Если ошибёшься, точно так же, как с ударом.  
+**[8204.46s] English:** If you make a mistake, it will be just as painful as being struck.  
 **Translation:** 
 
-**[8208.22s] English:** Тебе конец.  
+**[8208.22s] English:** You are finished.  
 **Translation:** 
 
-**[8209.36s] English:** У тебя такой уровень знаний и спокойствия в плане змей.  
-**Translation:** 
+**[8209.36s] English:** You have such a level of knowledge and calmness regarding snakes.  
+**Translation:** Vocabulary: calmness: 镇静
 
-**[8212.96s] English:** Кажется, они это чувствуют.  
+**[8212.96s] English:** It seems they are feeling it.  
 **Translation:** 
 
-**[8214.46s] English:** Я видел, как ты с ними обращаешься.  
+**[8214.46s] English:** I saw how you treat them.  
 **Translation:** 
 
-**[8217.96s] English:** И создаётся ощущение какой-то дружбы, что ли.  
+**[8217.96s] English:** There is a feeling of some kind of friendship, I suppose.  
 **Translation:** 
 
-**[8223.74s] English:** Ты с животными и о животных так говоришь, что кажется, будто опасности нет.  
+**[8223.74s] English:** You talk about animals and seem to suggest there's no danger, as if danger doesn't exist.  
 **Translation:** 
 
-**[8230.40s] English:** Хотя со стороны кажется, что опасность есть всегда,  
+**[8230.40s] English:** Although it may seem that danger is always present,  
 **Translation:** 
 
-**[8235.78s] English:** если неправильно с ними разговаривать.  
+**[8235.78s] English:** If you don't talk to them properly.  
 **Translation:** 
 
-**[8238.42s] English:** Со змеями скорее как с дорогой.  
+**[8238.42s] English:** With snakes, it's better to treat them like a highway.  
 **Translation:** 
 
-**[8243.64s] English:** На шоссе опасно, но можно ехать безопасно.  
+**[8243.64s] English:** On the highway, it's dangerous, but you can drive safely.  
 **Translation:** 
 
-**[8247.96s] English:** Я знаю, что делаю.  
+**[8247.96s] English:** I know what I'm doing.  
 **Translation:** 
 
-**[8249.24s] English:** Если змея не ядовитая и небольшая,  
-**Translation:** 
+**[8249.24s] English:** If the snake is not venomous and small,  
+**Translation:** Vocabulary: venomous: 有毒的
 
-**[8252.68s] English:** я могу позволить ей паниковать.  
+**[8252.68s] English:** I can afford for her to panic.  
 **Translation:** 
 
-**[8255.08s] English:** Потом беру её в руки, она согревается и думает «О, тут неплохо».  
+**[8255.08s] English:** Then I take it in my hands, and it warms up and thinks, "Oh, this is comfortable.  
 **Translation:** 
 
-**[8258.96s] English:** Как ты заметил, я не боюсь, а змеи чувствительны, и они думают «А, ну, это нормально».  
+**[8258.96s] English:** As you noticed, I am not afraid, and snakes are sensitive; they think, "Ah, this is normal.  
 **Translation:** 
 
-**[8265.52s] English:** Они успокаиваются.  
+**[8265.52s] English:** They calm down.  
 **Translation:** 
 
-**[8266.84s] English:** Но я не думаю, что у змея есть чувство товарищества.  
+**[8266.84s] English:** But I don't think that snakes have a sense of companionship.  
 **Translation:** 
 
-**[8269.08s] English:** Вот у китов, обезьян, слонов, да,  
-**Translation:** 
+**[8269.08s] English:** Here with whales, monkeys, elephants, and so on.  
+**Translation:** Vocabulary: companionship: 同伴的情感
 
-**[8272.16s] English:** они могут понять, этот человек пытается помочь мне выбраться из сети, так что я расслаблюсь и не могу уйти из сети.  
+**[8272.16s] English:** They may understand that this person is trying to help me get out of the network, so I will relax and cannot escape from the network.  
 **Translation:** 
 
-**[8276.84s] English:** Так что я расслаблюсь и не могу уйти из сети.  
-**Translation:** 
+**[8276.84s] English:** So I'll relax and I can't stay away from the net.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[8277.78s] English:** Не буду его убивать.  
+**[8277.78s] English:** I will not kill him.  
 **Translation:** 
 
-**[8280.00s] English:** Кстати, о товариществе. У тебя есть потрясающее видео в Инстаграм, зрители,  
-**Translation:** 
+**[8280.00s] English:** By the way, about the club. You have an amazing video on Instagram, viewers.  
+**Translation:** Vocabulary: viewers: 观看者
 
-**[8287.44s] English:** вам тоже стоит взглянуть, в котором ты спас тонущего кита.  
+**[8287.44s] English:** You too should take a look at the one in which you saved the drowning whale.  
 **Translation:** 
 
-**[8291.38s] English:** Да. Мы спускались по реке, было 7 утра, мне холодно, мне всегда холодно. Я сижу в лодке,  
-**Translation:** 
+**[8291.38s] English:** Yes. We were descending the river at seven in the morning, and I'm cold, I'm always cold. I'm sitting in the boat,  
+**Translation:** Vocabulary: descending: 下行
 
-**[8298.54s] English:** завернулся во что-то, а Джей Джей говорит «смотри, коат». А я говорю «ну и ладно,  
+**[8298.54s] English:** Wrapping himself in something, and Jay Jay says, "look, coat." And I say, "well, whatever,  
 **Translation:** 
 
-**[8304.00s] English:** коат в реке, как будто это нормально». А он «нет, она в беде». Я в какой беде,  
-**Translation:** 
+**[8304.00s] English:** Коат在河里，好像这是正常的一样”。但他说是她在困境中。我到底在哪种困境中？”  
+**Translation:** Vocabulary: wrapping: 包裹
 
-**[8309.34s] English:** они же отлично плавают. А он «нет, тебе нужно помочь». Мы разворачиваем лодку, и я понимаю,  
+**[8309.34s] English:** They swim so well. But he says, "No, you need to help." We launch the boat, and I understand,  
 **Translation:** 
 
-**[8314.96s] English:** что на видео это непонятно, что река разлилась. Там воронки и в течение, и оно пытается выбраться  
-**Translation:** 
+**[8314.96s] English:** What's happening in the video is unclear. It seems like a river has overflowed, with pits and currents, and it's trying to escape.  
+**Translation:** Vocabulary: currents: 水流; overflowed: 溢出
 
-**[8320.20s] English:** к берегу. В комментариях всегда найдутся защитники «пусть природа сама разберется,  
+**[8320.20s] English:** To the shore. In the comments, there are always defenders of the idea that "let nature sort it out,  
 **Translation:** 
 
-**[8324.84s] English:** пусть обезьяна утонет, ей помощь не нужна, вы мешаетесь». Ну да, конечно. Если бы вы были там,  
-**Translation:** 
+**[8324.84s] English:** Puсть обезьяна утонет, ей помощь не нужна, вы мешаетесь." Nu da, konskoy. If you had been there,  
+**Translation:** Vocabulary: konskoy: 马的
 
-**[8331.84s] English:** вы бы поняли. Ей нужна была помощь, она тонула, голова все время уходила под воду. Я понял,  
+**[8331.84s] English:** You would have understood. She needed help; she was drowning, her head kept going under the water. I realized,  
 **Translation:** 
 
-**[8337.30s] English:** что Джей Джей прав.  
+**[8337.30s] English:** That Jay Jay is right.  
 **Translation:** 
 
-**[8339.34s] English:** Мы подплыли, я скинул все лишнее и прыгнул в воду с веслом. Опять же, я доверяю обезьянам. Но не  
+**[8339.34s] English:** We paddled close, I threw off all the extra gear and jumped into the water with the paddle. Again, I trust the monkeys. But not  
 **Translation:** 
 
-**[8347.80s] English:** хочу, чтобы она меня укусила. Она в панике. Я подумал, что у меня два варианта, можно схватить  
-**Translation:** 
+**[8347.80s] English:** I want her to bite me. She's in panic. I thought I had two options: to grab  
+**Translation:** Vocabulary: paddle: 划桨; paddled: 划桨
 
-**[8354.76s] English:** ее за шею, как это делают службы отлопы, схватить за шею и хвост и вытащить из реки, но ей будет  
+**[8354.76s] English:** She grabs it by the neck, as skinners do, seizing it by the neck and tail to pull it out of the river, but she will be  
 **Translation:** 
 
-**[8360.64s] English:** страшно. А я очень хорошо знаю коатов, я многих вырастил. Осиротевший из-за браконьеров коатов,  
-**Translation:** 
+**[8360.64s] English:** Scary. And I know coatis very well; I've raised many of them. Coatis that have become orphaned due to poachers,  
+**Translation:** Vocabulary: poachers: 偷猎者; seizing: 抓住; skinners: 剥皮者
 
-**[8369.34s] English:** за которыми мы ухаживаем до тех пор, пока не отдадим экспертам по реабилитации животных.  
+**[8369.34s] English:** Which we care for until we hand them over to animal rehabilitation experts.  
 **Translation:** 
 
-**[8374.14s] English:** Обычно сворачиваются у тебя на шее и говорят тебе что-то типа...  
+**[8374.14s] English:** Usually they fold up on your neck and tell you something like...  
 **Translation:** 
 
-**[8380.32s] English:** Так что я немного говорю. На языке напуганных коат. Я подплыл и протянул ей весло. Мы мчались по  
+**[8380.32s] English:** So I said something. In the language of scared coatis. I paddled over and extended a paddle to her. We were speeding along,  
 **Translation:** 
 
-**[8393.70s] English:** реке со скоростью километров 15 в час. Я пытаюсь дать ей весло, а она его отталкивает.  
-**Translation:** 
+**[8393.70s] English:** River downstream at a speed of 15 kilometers per hour. I try to give her a paddle, but she pushes it away.  
+**Translation:** Vocabulary: downstream: 顺流而下
 
-**[8399.34s] English:** Это не отоценивает.  
+**[8399.34s] English:** This does not undervalue.  
 **Translation:** 
 
-**[8400.00s] English:** «Стань, я не знаю, кто ты».  
-**Translation:** 
+**[8400.00s] English:** Stand," I don't know who you are.  
+**Translation:** Vocabulary: undervalue: 低估
 
-**[8401.76s] English:** Она снова ушла под воду.  
+**[8401.76s] English:** She went under the water again.  
 **Translation:** 
 
-**[8404.28s] English:** Я снова дал весло, нет, но, наконец, она схватилась.  
+**[8404.28s] English:** I again gave the oar, no, but finally, she grabbed it.  
 **Translation:** 
 
-**[8407.64s] English:** Вот в этот момент, на котором ты остановил, она остановилась.  
+**[8407.64s] English:** At this moment, on which you stopped, she stopped.  
 **Translation:** 
 
-**[8411.82s] English:** Посмотрела на меня.  
+**[8411.82s] English:** She looked at me.  
 **Translation:** 
 
-**[8413.28s] English:** Да, вот тут.  
+**[8413.28s] English:** Yes, right here.  
 **Translation:** 
 
-**[8414.26s] English:** Она посмотрела и поняла.  
+**[8414.26s] English:** She looked and understood.  
 **Translation:** 
 
-**[8415.86s] English:** «А, это другое животное, с лицом».  
+**[8415.86s] English:** Ah, this is another animal with a face.  
 **Translation:** 
 
-**[8418.52s] English:** Если вы просто слушаете, посмотрите видео,  
+**[8418.52s] English:** If you are just listening or watching the video,  
 **Translation:** 
 
-**[8421.94s] English:** вы просто смотрите друг на друга, ты и она.  
+**[8421.94s] English:** You just look at each other, you and her.  
 **Translation:** 
 
-**[8425.04s] English:** Невозможно круто.  
-**Translation:** 
+**[8425.04s] English:** Impossible to crank it up.  
+**Translation:** Vocabulary: crank: 拧紧
 
-**[8426.12s] English:** Она посмотрела прямо на меня, а потом такая «нет».  
+**[8426.12s] English:** She looked right at me, and then said "no.  
 **Translation:** 
 
-**[8429.12s] English:** Типа «кто бы ты ни был, нет».  
+**[8429.12s] English:** Type "who you are makes no difference.  
 **Translation:** 
 
-**[8431.36s] English:** Я опять ее накрыл, а типа «я лучше утону в реке».  
+**[8431.36s] English:** I covered her again, and she's like, "I'd rather drown in the river.  
 **Translation:** 
 
-**[8434.36s] English:** Мне так страшно, и я тону.  
+**[8434.36s] English:** I am so scared, and I am sinking.  
 **Translation:** 
 
-**[8435.92s] English:** Она посмотрела на меня, испугался, нырнула.  
+**[8435.92s] English:** She looked at me, seemed scared, and then dove in.  
 **Translation:** 
 
-**[8438.18s] English:** А потом я приподнял ее такой и говорил с ней на языке куа.  
+**[8438.18s] English:** Then I lifted her up a bit and spoke to her in the Kuwa language.  
 **Translation:** 
 
-**[8441.98s] English:** И в следующий момент, смотри, она типа такая…  
+**[8441.98s] English:** In the next moment, look, she's like this...  
 **Translation:** 
 
-**[8446.98s] English:** Ладно.  
+**[8446.98s] English:** Okay.  
 **Translation:** 
 
-**[8447.96s] English:** Она обивает хвостом весло, а видно, как хвост цепляется за край и кладет руку.  
+**[8447.96s] English:** She strokes the oar with her tail, and it's clear how the tail grabs the edge as she places her hand.  
 **Translation:** 
 
-**[8452.60s] English:** Я поднимаю ее, потому что я выше, и вытаскиваю ее из воды,  
-**Translation:** 
+**[8452.60s] English:** I lift her because I am higher, and pull her out of the water.  
+**Translation:** Vocabulary: strokes: 划动
 
-**[8456.24s] English:** вместо того, чтобы грубо хватать ее, как еноту за шею.  
+**[8456.24s] English:** Instead of roughly grabbing her, like you would an opossum by the neck.  
 **Translation:** 
 
-**[8459.12s] English:** Она держится за весну по-своему, по обезьяне, и оглядывается через плечо.  
-**Translation:** 
+**[8459.12s] English:** She holds onto spring in her own monkey way and looks over her shoulder.  
+**Translation:** Vocabulary: opossum: 臭袋鼠
 
-**[8467.82s] English:** Смотрит на меня, я иду, и продолжаю с ней говорить.  
+**[8467.82s] English:** She looks at me as I go on, and I continue to speak with her.  
 **Translation:** 
 
-**[8472.14s] English:** Она смотрит на меня, и она издает звук.  
+**[8472.14s] English:** She looks at me, and she makes a sound.  
 **Translation:** 
 
-**[8474.58s] English:** Я не могу его воспроизвести, но это такой звук кота, типа…  
+**[8474.58s] English:** I can't reproduce it, but it's a sound like that of a cat, sort of...  
 **Translation:** 
 
-**[8479.88s] English:** Как будто говорит «ладно».  
-**Translation:** 
+**[8479.88s] English:** It's as if he says "okay".  
+**Translation:** Vocabulary: reproduce: 复制
 
-**[8481.76s] English:** Она смотрит вперед, в сторону джунглей, потом снова на меня, и по ее виду понятно.  
+**[8481.76s] English:** She looks forward towards the jungles, then back at me, and by her expression it is clear.  
 **Translation:** 
 
-**[8486.04s] English:** Я вообще не понимаю, что сейчас происходит.  
-**Translation:** 
+**[8486.04s] English:** I don't understand what is happening right now.  
+**Translation:** Vocabulary: jungles: 丛林
 
-**[8488.02s] English:** Но она принимает.  
+**[8488.02s] English:** But she accepts it.  
 **Translation:** 
 
-**[8489.12s] English:** Она приняла помощь.  
+**[8489.12s] English:** She accepted the help.  
 **Translation:** 
 
-**[8489.74s] English:** И это произошло потому, что в тот момент я говорил на ее языке.  
+**[8489.74s] English:** And this happened because at that moment I was speaking her language.  
 **Translation:** 
 
-**[8493.90s] English:** И я знаю, если бы этого никто не снял, меня бы за эту историю распяли.  
-**Translation:** 
+**[8493.90s] English:** I know if no one had filmed this, I would have been crucified for this story.  
+**Translation:** Vocabulary: crucified: 遭受严厉批评
 
-**[8499.22s] English:** Но на видео видно момент, когда она устанавливает со мной зрительный контакт, и такая «Окей».  
+**[8499.22s] English:** But in the video, you can see a moment when she makes eye contact with me, and it's like "Okay.  
 **Translation:** 
 
-**[8505.40s] English:** И мы добрались до берега, она спрыгнула и убежала без.  
+**[8505.40s] English:** We made it to the shore, she jumped out and ran away without.  
 **Translation:** 
 
-**[8509.00s] English:** Невероятно, правда.  
+**[8509.00s] English:** Unbelievable, isn't it.  
 **Translation:** 
 
-**[8510.48s] English:** Когда смотришь видео, видно, как она смотрит, по-настоящему.  
+**[8510.48s] English:** When you watch the video, you can see that she is truly looking.  
 **Translation:** 
 
-**[8514.42s] English:** Видно, что между вами есть реальная связь.  
+**[8514.42s] English:** It's clear that there is a real connection between you.  
 **Translation:** 
 
-**[8517.20s] English:** О, да.  
+**[8517.20s] English:** Oh, yes.  
 **Translation:** 
 
-**[8519.12s] English:** Реальная коммуникация.  
+**[8519.12s] English:** Real communication.  
 **Translation:** 
 
-**[8520.00s] English:** Это социальный контакт, почти как между людьми, когда, например, спасаешь тонущего человека.  
+**[8520.00s] English:** This is a social contact, almost like when, for example, you rescue a drowning person among humans.  
 **Translation:** 
 
-**[8528.58s] English:** Связь, связь, это красиво.  
+**[8528.58s] English:** Connection, connection, that's beautiful.  
 **Translation:** 
 
-**[8531.94s] English:** Я потом читал, что Коаты очень умные, и в частности, социально продвинутые.  
+**[8531.94s] English:** I later read that Coatis are very intelligent, and in particular, socially advanced.  
 **Translation:** 
 
-**[8539.10s] English:** У них сложные социальные связи, они понимают, что такое другой объект.  
+**[8539.10s] English:** They have complex social connections and understand what another object is.  
 **Translation:** 
 
-**[8545.90s] English:** И то, что ты говорил с ней на ломаном Коатском, наверное, было критически важно.  
-**Translation:** 
+**[8545.90s] English:** That which you spoke to her in broken Coatian, no doubt, was critically important.  
+**Translation:** Vocabulary: coatian: 科塔尼亚语; critically: 至关重要地
 
-**[8554.98s] English:** Ты дал ей сигнал, что ты часть ее сети.  
+**[8554.98s] English:** You gave her a signal that you are part of her network.  
 **Translation:** 
 
-**[8559.60s] English:** Ты чужак, но...  
+**[8559.60s] English:** You are a stranger, but...  
 **Translation:** 
 
-**[8562.28s] English:** Будто ты в чужой стране, и тебе говорят, помощь, помощь.  
+**[8562.28s] English:** It's as if you're in a foreign country and someone keeps saying, "Help, help.  
 **Translation:** 
 
-**[8566.78s] English:** И ты такой, ну ладно, ты меня не грабишь, ты помогаешь.  
+**[8566.78s] English:** And you're okay, I guess, you're not robbing me, you're helping.  
 **Translation:** 
 
-**[8571.44s] English:** Но да, не очень реально.  
+**[8571.44s] English:** But, no, not very realistic.  
 **Translation:** 
 
-**[8574.44s] English:** У меня было столько осиротевших куриц.  
+**[8574.44s] English:** I had so many orphaned chickens.  
 **Translation:** 
 
-**[8575.90s] English:** Коат, они обивают хвостом твою шею и обнимают тебя.  
+**[8575.90s] English:** Coat, they brush your neck with their tail and hug you.  
 **Translation:** 
 
-**[8580.98s] English:** И ты понимаешь, какая связь рождается между ними и их матерями, когда они держатся за них в крови.  
-**Translation:** 
+**[8580.98s] English:** And you understand the bond that is born between them and their mothers when they cling to them in blood.  
+**Translation:** Vocabulary: cling: 依附
 
-**[8586.90s] English:** Когда лесорубы убивают мать, и я забираю детеныша, он цепляется за меня.  
+**[8586.90s] English:** When the loggers kill the mother, and I take the cub, he clings to me.  
 **Translation:** 
 
-**[8591.88s] English:** Им эта любовь и связь нужна больше, чем еда.  
-**Translation:** 
+**[8591.88s] English:** They need this love and connection more than food.  
+**Translation:** Vocabulary: clings: 依附
 
-**[8596.34s] English:** Если поставить их перед выбором еда или тепло тела, они выберут контакт, а не питание.  
+**[8596.34s] English:** If presented with a choice between food or warmth for their bodies, they will choose contact over nutrition.  
 **Translation:** 
 
-**[8602.62s] English:** Им очень важен тактильный контакт, близость.  
-**Translation:** 
+**[8602.62s] English:** They place a great deal of importance on tactile contact and closeness.  
+**Translation:** Vocabulary: tactile: 触觉的
 
-**[8605.90s] English:** Очень, они ласковые.  
+**[8605.90s] English:** They are very affectionate.  
 **Translation:** 
 
-**[8608.20s] English:** Они обвивают друг друга своими длинными руками.  
-**Translation:** 
+**[8608.20s] English:** They wrap around each other with their long arms.  
+**Translation:** Vocabulary: affectionate: 深情的
 
-**[8611.76s] English:** И похожи на нас, они держат своих детенышей.  
+**[8611.76s] English:** They are similar to us; they hold their young ones.  
 **Translation:** 
 
-**[8614.36s] English:** Когда идет дождь, все коаты собираются вместе, прижимаются друг к другу, тянут листья и укрываются.  
+**[8614.36s] English:** When it rains, all coatimundis gather together, huddle close to each other, stretch out leaves, and shelter under them.  
 **Translation:** 
 
-**[8622.18s] English:** Когда холодно, одни сближаются.  
+**[8622.18s] English:** When it's cold, people tend to huddle together.  
 **Translation:** 
 
-**[8624.44s] English:** Очень мило.  
-**Translation:** 
+**[8624.44s] English:** Very nice.  
+**Translation:** Vocabulary: huddle: 挤在一起
 
-**[8625.66s] English:** Да, такое поведение прослеживается у многих наших родственников.  
+**[8625.66s] English:** Yes, such behavior is observed in many of our relatives.  
 **Translation:** 
 
-**[8630.86s] English:** Человекообразные обезьяны, шимпанзе, у них сложная социальная структура.  
-**Translation:** 
+**[8630.86s] English:** Human-like primates, such as chimpanzees, have a complex social structure.  
+**Translation:** Vocabulary: primates: 类人猿
 
-**[8634.92s] English:** Да.  
+**[8634.92s] English:** Yes.  
 **Translation:** 
 
-**[8635.90s] English:** Более жестокие, иногда более любящие, но все же это круто.  
-**Translation:** 
+**[8635.90s] English:** More brutal, sometimes even more loving, but it's still awesome.  
+**Translation:** Vocabulary: brutal: 残忍的
 
-**[8638.98s] English:** Очень круто.  
+**[8638.98s] English:** Very cool.  
 **Translation:** 
 
-**[8639.84s] English:** Да.  
+**[8639.84s] English:** Yes.  
 **Translation:** 
 
-**[8640.00s] English:** Да, от них такого можно ожидать, они почти как мы.  
+**[8640.00s] English:** Yes, one can expect that from them; they are almost like us.  
 **Translation:** 
 
-**[8644.00s] English:** А вот когда это проявляют другие животные...  
-**Translation:** 
+**[8644.00s] English:** Here's when other animals exhibit this behavior....  
+**Translation:** Vocabulary: exhibit: 表现
 
-**[8646.80s] English:** Я как-то шёл по тропе, и мимо прошёл ягуар, и просто такой,  
+**[8646.80s] English:** I was walking on a trail when a jaguar went by, and it was just such,  
 **Translation:** 
 
-**[8650.10s] English:** «М? Чё, кого?»  
-**Translation:** 
+**[8650.10s] English:** Who? What, whom?  
+**Translation:** Vocabulary: jaguar: 美洲虎
 
-**[8651.24s] English:** Я пошёл дальше.  
+**[8651.24s] English:** I went further.  
 **Translation:** 
 
-**[8652.78s] English:** И ты такой, «Ну, спасибо, что не съёл меня. Я это ценю».  
+**[8652.78s] English:** And you're such a "Nice one, for not eating me. I appreciate that.  
 **Translation:** 
 
-**[8656.78s] English:** С тобой такое было?  
+**[8656.78s] English:** Did you ever have something like that happen to you?  
 **Translation:** 
 
-**[8658.54s] English:** Да, я оставил фотоловушку, думал, кто-то сзади.  
+**[8658.54s] English:** Yes, I left a photo trap, thinking someone was behind me.  
 **Translation:** 
 
-**[8661.88s] English:** Я поднял палец, хотел сказать, «Можно идти потише?»  
+**[8661.88s] English:** I raised my hand, wanting to say, "Can we walk a little quieter?  
 **Translation:** 
 
-**[8665.12s] English:** Я был на корточках, палец поднят вверх, и мимо проходит ягуар.  
+**[8665.12s] English:** I was on my knees, finger raised up, and a jaguar walked past me.  
 **Translation:** 
 
-**[8670.00s] English:** Он просто шёл, шуршал листьями, рот приоткрыт, кайфует.  
+**[8670.00s] English:** He just walked along, rustling the leaves, his mouth open, clearly enjoying himself.  
 **Translation:** 
 
-**[8675.16s] English:** Прошёл мимо, посмотрел на меня и такой, «Чё, как?»  
-**Translation:** 
+**[8675.16s] English:** Passed by, looked at me and said, "What's up?  
+**Translation:** Vocabulary: rustling: 沙沙作响
 
-**[8678.20s] English:** Даже шаг не сбавил.  
+**[8678.20s] English:** Even a step did not slow down.  
 **Translation:** 
 
-**[8679.52s] English:** Прямой зрительный контакт, нижние клыки видны,  
-**Translation:** 
+**[8679.52s] English:** Direct eye contact, lower canines visible,  
+**Translation:** Vocabulary: canines: 犬齿
 
-**[8682.24s] English:** классический ягуарский взгляд.  
+**[8682.24s] English:** A classic Jaguar perspective.  
 **Translation:** 
 
-**[8683.90s] English:** Типа, «Эй!»  
+**[8683.90s] English:** Type of "Hey!  
 **Translation:** 
 
-**[8685.26s] English:** А я такой, «Ладно».  
+**[8685.26s] English:** I said, "Okay.  
 **Translation:** 
 
-**[8687.42s] English:** И тут меня охватила паника.  
+**[8687.42s] English:** Here, I was suddenly overcome by panic.  
 **Translation:** 
 
-**[8689.48s] English:** Пот прошиблый.  
+**[8689.48s] English:** Pot profited.  
 **Translation:** 
 
-**[8691.16s] English:** Обалдеть.  
-**Translation:** 
+**[8691.16s] English:** Wow.  
+**Translation:** Vocabulary: profited: 获利
 
-**[8691.88s] English:** Они же ещё невозможно красивые.  
+**[8691.88s] English:** They are simply impossible to be more beautiful.  
 **Translation:** 
 
-**[8694.98s] English:** Представь ягуар, этот ярко-жёлтый цвет, зубы, мышцы.  
+**[8694.98s] English:** Imagine the jaguar, this bright yellow color, its teeth, its muscles.  
 **Translation:** 
 
-**[8699.50s] English:** Это новое.  
+**[8699.50s] English:** This is new.  
 **Translation:** 
 
-**[8700.80s] English:** Как ты думаешь, что ты ему сообщил, что он тебя не тронул?  
+**[8700.80s] English:** How do you think what you told him didn't upset him?  
 **Translation:** 
 
-**[8704.74s] English:** Ничего, решение принимал ягуар.  
+**[8704.74s] English:** Nothing, the Jaguar made the decision.  
 **Translation:** 
 
-**[8706.84s] English:** Я не сделал ничего.  
+**[8706.84s] English:** I did nothing.  
 **Translation:** 
 
-**[8709.24s] English:** Он шёл по своим делам.  
+**[8709.24s] English:** He was going about his business.  
 **Translation:** 
 
-**[8710.88s] English:** И поскольку он там король, он просто такой...  
+**[8710.88s] English:** Since he's the king there, he just acts like...  
 **Translation:** 
 
-**[8715.24s] English:** А?  
+**[8715.24s] English:** Ah?  
 **Translation:** 
 
-**[8716.64s] English:** Наверное, это ему не угроза.  
+**[8716.64s] English:** Probably, this is not a threat to him.  
 **Translation:** 
 
-**[8718.60s] English:** Да.  
+**[8718.60s] English:** Yes.  
 **Translation:** 
 
-**[8719.42s] English:** Я всё равно думаю, что в тебе что-то есть.  
+**[8719.42s] English:** I still think there's something in you.  
 **Translation:** 
 
-**[8722.92s] English:** Ты не замечаешь, что транслируешь в мир.  
+**[8722.92s] English:** You don't notice what you are broadcasting into the world.  
 **Translation:** 
 
-**[8725.44s] English:** Возможно, ты излучаешь спокойствие.  
-**Translation:** 
+**[8725.44s] English:** Possible, you are emitting calmness.  
+**Translation:** Vocabulary: broadcasting: 广播; calmness: 镇静; emitting: 释放
 
-**[8728.52s] English:** Или скорее отсутствие...  
+**[8728.52s] English:** Or rather, the absence of...  
 **Translation:** 
 
-**[8730.00s] English:** Отсутствие угрозы.  
+**[8730.00s] English:** Absence of threat.  
 **Translation:** 
 
-**[8730.84s] English:** Отсутствие угрозы, плюс я пахну, как животное, когда живу в джунглях.  
+**[8730.84s] English:** Absence of threat, plus I smell like an animal when I live in the jungles.  
 **Translation:** 
 
-**[8735.36s] English:** Я моюсь в реке, не пользуюсь дезодорантами, шампунями.  
-**Translation:** 
+**[8735.36s] English:** I wash in the river and don't use deodorant or shampoo.  
+**Translation:** Vocabulary: deodorant: 除臭剂; jungles: 丛林
 
-**[8740.24s] English:** Я не пахну.  
+**[8740.24s] English:** I do not smell.  
 **Translation:** 
 
-**[8742.24s] English:** Но представь, для животных с обонянием в четыре раза сильнее нашего.  
+**[8742.24s] English:** But imagine for animals with four times our sense of smell.  
 **Translation:** 
 
-**[8747.36s] English:** Твой дезодорант, кондиционер, любой продукт, стиральный порошок на вещах.  
+**[8747.36s] English:** Your deodorant, conditioner, any product, detergent on the clothes.  
 **Translation:** 
 
-**[8754.84s] English:** Мы для них пахнем, как Таймс-сквер, как пожарная сигнализация.  
-**Translation:** 
+**[8754.84s] English:** We smell like Times Square, like a fire alarm to them.  
+**Translation:** Vocabulary: detergent: 洗衣液
 
-**[8758.80s] English:** Они такие...  
+**[8758.80s] English:** They are such...  
 **Translation:** 
 
-**[8759.80s] English:** Мы для них пахнем, как дезодорант.  
+**[8759.80s] English:** We smell like deodorant to them.  
 **Translation:** 
 
-**[8760.00s] English:** что еще такое? Пахнет чуждо и страшно. Все страшно. Кстати о страшном. Тот ягуар был почти  
+**[8760.00s] English:** What else is there? It smells foreign and frightening. Everything is frightening. By the way, about the frightening thing. That jaguar was almost  
 **Translation:** 
 
-**[8766.18s] English:** дружелюбным, чё как. Как будто видел меня раньше на тропе. А опять ты. А вот однажды в Индии я стоял  
-**Translation:** 
+**[8766.18s] English:** Druzhel'nym, ché kak. As though he had seen me before on the trail. And there you are again. And one time in India, I stood  
+**Translation:** Vocabulary: jaguar: 美洲豹
 
-**[8774.44s] English:** в лесу лицом к лицу с диким тигром, и никого больше рядом не было. И самое жуткое было то,  
+**[8774.44s] English:** In the forest, face to face with a wild tiger, and there was no one else around. And the most terrifying thing was that,  
 **Translation:** 
 
-**[8780.16s] English:** что тигр... Спина у тигра... Они гораздо больше, они как четыре ягуара, они огромные. Она на меня  
-**Translation:** 
+**[8780.16s] English:** What about the tiger's spine... They are much larger, they are like four jaguars, they are enormous. She is on me.  
+**Translation:** Vocabulary: jaguars: 美洲虎; terrifying: 可怕的
 
-**[8790.66s] English:** не смотрела, это было жутко. Давай покажу. Она смотрела туда, потом вот так, потом туда,  
+**[8790.66s] English:** I didn't watch, it was horrific. Let me show you. She looked there, then like this, then there,  
 **Translation:** 
 
-**[8798.22s] English:** но ни разу не встретилась со мной взглядом. Будто говорила, ты для меня не важнее палки. Знаешь,  
-**Translation:** 
+**[8798.22s] English:** But never met my gaze. As if she was saying, "You're not more important to me than a stick." Knows that,  
+**Translation:** Vocabulary: horrific: 恐怖的
 
-**[8804.70s] English:** когда два бойца сходятся, все строится на взгляде. А когда смотришь сквозь человека,  
+**[8804.70s] English:** When two fighters meet, it all comes down to the gaze. And when you look through a person,...  
 **Translation:** 
 
-**[8810.14s] English:** и притворяешься, что его вообще нет. Этот тигр унизил меня на каком-то глубинном,  
-**Translation:** 
+**[8810.14s] English:** And you pretend he's not even there. This tiger humiliated me on some deep,  
+**Translation:** Vocabulary: humiliated: 羞辱
 
-**[8816.26s] English:** обезоруживающем уровне, что я до сих пор это чувствую. Типа, ты для меня простой воробей. Ты  
+**[8816.26s] English:** At such an unarmed level, that's how I still feel. You're just a simple sparrow to me.  
 **Translation:** 
 
-**[8824.60s] English:** просто не входишь в круг того, что меня волнует. Она осмотрелась и продолжала заниматься своими  
-**Translation:** 
+**[8824.60s] English:** Simply, you're not part of what worries me. She looked around and continued to occupy herself with her own tasks.  
+**Translation:** Vocabulary: sparrow: 普通麻雀
 
-**[8830.72s] English:** делами. Такая, я пойду туда. А я стою и думаю, вот черт, а я побегу. Ощущение абсолютной  
+**[8830.72s] English:** Deals. Such a thing, I'll go there. And I stand and think, damn, I'll run. The feeling of absolute  
 **Translation:** 
 
-**[8836.84s] English:** незначительности перед Богом-животным, с лапами размером стоя.  
+**[8836.84s] English:** Of insignificance before God-the-animal, with paws standing tall.  
 **Translation:** 
 
-**[8840.12s] English:** Я такой, если она посмотрит, я этого не хочу. Если она повернется, мне скорее всего конец.  
+**[8840.12s] English:** I don't want her to see me like this. If she turns around, it's probably over.  
 **Translation:** 
 
-**[8847.56s] English:** Вот насколько она сильнее. Тигры, наверное, самый страшный хищник на земле.  
-**Translation:** 
+**[8847.56s] English:** Here's how much stronger she is. Tigers, I suppose, are probably the most terrifying predator on earth.  
+**Translation:** Vocabulary: predator: 捕食者
 
-**[8856.40s] English:** Да. Камень-ножница-бумага среди наземных хищников. Полярный медведь и тигр,  
+**[8856.40s] English:** Yes. Rock-paper-scissors among terrestrial predators. Polar bear and tiger.  
 **Translation:** 
 
-**[8861.90s] English:** наверное, самые жуткие. Да, полярный медведь.  
-**Translation:** 
+**[8861.90s] English:** Probably the scariest ones. Yes, the polar bear.  
+**Translation:** Vocabulary: polar: 北极的; predators: 捕食者; scariest: 最可怕的; terrestrial: 陆地的
 
-**[8865.74s] English:** Жесть. С ним не шутят.  
+**[8865.74s] English:** Wow. You don't mess around with him.  
 **Translation:** 
 
-**[8867.36s] English:** Он может и не такой быстрый, как тигр, но по льду,  
+**[8867.36s] English:** He may not be as fast as a tiger, but on ice,  
 **Translation:** 
 
-**[8870.12s] English:** и ты далеко не убежишь. Да.  
+**[8870.12s] English:** And you are far from escaping. Yes.  
 **Translation:** 
 
-**[8872.10s] English:** А тигр, от него не убежишь. По деревьям он лазает лучше. В машину сядешь, дверь вынесет. Если он  
-**Translation:** 
+**[8872.10s] English:** A tiger, from him there is no escape. He climbs trees better than you can imagine. Get in a car, and he'll knock the door off its hinges. If he  
+**Translation:** Vocabulary: hinges: 门轴
 
-**[8880.00s] English:** решит тебя убить, ты ничего не сделаешь. Даже если у тебя девятимиллиметровый пистолет,  
+**[8880.00s] English:** If they decide to kill you, you won't do anything. Even if you have a nine-millimeter pistol,  
 **Translation:** 
 
-**[8884.44s] English:** если тигр решит, что ты его добыча, это его не остановит. А в джунглях ты когда-нибудь  
-**Translation:** 
+**[8884.44s] English:** If a tiger decides you're its prey, it won't stop. And in the jungles, you'll eventually find out.  
+**Translation:** Vocabulary: jungles: 丛林; pistol: 手枪
 
-**[8890.14s] English:** чувствовал реальную опасность, если не учитывать людей? Ты часто говоришь, мы с тобой обсуждали,  
+**[8890.14s] English:** Did he feel a real danger if people were not considered? You often say; we have discussed this frequently.  
 **Translation:** 
 
-**[8898.30s] English:** что люди главный источник угрозы. Про животных ты обычно говоришь как про источник красоты,  
+**[8898.30s] English:** What people are the main source of threats. You usually talk about animals as sources of beauty,  
 **Translation:** 
 
-**[8908.48s] English:** чудес, элегантности и изящества. Но я уверен, что ты чувствовал опасность.  
+**[8908.48s] English:** 奇跡、 elegance 和 grace。 但我确信你感到了危险。  
 **Translation:** 
 
-**[8918.26s] English:** Да. Я знаю, что осиное гнездо может тебя убить.  
-**Translation:** 
+**[8918.26s] English:** Yes. I know that an wasp nest can kill you.  
+**Translation:** Vocabulary: elegance: 优雅
 
-**[8922.76s] English:** Мелочь страшнее. Мелкие, самые мерзкие. Помнишь,  
+**[8922.76s] English:** Trifles are worse. The smallest, the most disgusting. Remember,  
 **Translation:** 
 
-**[8928.04s] English:** как мы шли по джунглям? Один удар мачете, а люди не понимают, как там все плотно растет.  
-**Translation:** 
+**[8928.04s] English:** How did we walk through the jungles? One swing of the machete, and people don't understand how tightly everything grows there.  
+**Translation:** Vocabulary: machete: 砍刀; trifles: 琐事
 
-**[8933.14s] English:** Попытаешься сбежать, запутаешься в лианах, упадешь, напоришься на дерево с черными шипами.  
+**[8933.14s] English:** You'll get tangled in the lianas if you try to escape, fall down, and bump into a tree with black thorns.  
 **Translation:** 
 
-**[8938.24s] English:** Лежишь и стекаешь кровью, а в этот момент тебя начинают жалить. Анафилактический шок,  
-**Translation:** 
+**[8938.24s] English:** Lying there bleeding, and at this moment you begin to be bitten. Anaphylactic shock,  
+**Translation:** Vocabulary: anaphylactic: 过敏性休克; lianas: 藤蔓; tangled: 缠绕; thorns: 刺
 
-**[8943.52s] English:** все, ты моментально мертв. Умереть можно крайне быстро.  
+**[8943.52s] English:** All right, you are momentaneously dead. One can die extremely quickly.  
 **Translation:** 
 
-**[8947.42s] English:** Ты прав. Кстати, о шипах. Самое страшное даже не сами шипы. Просто у тебя появляются открытые раны,  
-**Translation:** 
+**[8947.42s] English:** You're right. By the way, about the thorns. The worst part isn't the thorns themselves. It's just that you end up with open wounds.  
+**Translation:** Vocabulary: momentaneously: 瞬间; wounds: 伤口
 
-**[8955.58s] English:** а дальше... Инфекция.  
+**[8955.58s] English:** A further infection....  
 **Translation:** 
 
-**[8957.14s] English:** Да. И вот это уже самое опасное. Да. Опять же, ни разу не слышал,  
+**[8957.14s] English:** Yes. And this is already the most dangerous. Yes. Again, I've never heard of it.  
 **Translation:** 
 
-**[8962.78s] English:** чтобы Ягуар целенаправленно нападал на человека в нашем регионе. Они не нападают.  
+**[8962.78s] English:** To have Jaguar intentionally attack a person in our region. They don't attack.  
 **Translation:** 
 
-**[8968.24s] English:** А вот комары за тобой прямо ходятся. Змеи хотят быть в покое. Даже ядовитые.  
-**Translation:** 
+**[8968.24s] English:** Here come the mosquitoes following you around. Snakes want to be left alone, even the venomous ones.  
+**Translation:** Vocabulary: jaguar: 美洲豹; mosquitoes: 蚊子; venomous: 有毒的
 
-**[8974.66s] English:** Те же бушмейстеры. Я схватил трехметрового бушмейстера за хвост. Он развернулся,  
+**[8974.66s] English:** The same bushmaster. I grabbed a three-meter bushmaster by the tail. He turned around,  
 **Translation:** 
 
-**[8980.48s] English:** приподнялся над землей вот так, и, если бы можно было перевести, он сказал,  
-**Translation:** 
+**[8980.48s] English:** He lifted himself off the ground like this, and if it were possible to translate, he said,  
+**Translation:** Vocabulary: bushmaster: 森蚺
 
-**[8985.58s] English:** «Не заставляй меня это делать». Типа, ну и денек у меня.  
+**[8985.58s] English:** Don't make me do this." Type of day it's been for me.  
 **Translation:** 
 
-**[8990.20s] English:** Ну вот же, ты говоришь на змеином. Я отпустил хвост, и я такой, ладно,  
-**Translation:** 
+**[8990.20s] English:** Nu, voila, you're speaking snake. I let out my tail, and I'm like, okay,  
+**Translation:** Vocabulary: voila: 看
 
-**[8995.48s] English:** мне достаточно страшно.  
+**[8995.48s] English:** I am sufficiently scared.  
 **Translation:** 
 
-**[8996.56s] English:** Проблемы начинаются, когда не понимаешь, что происходит.  
-**Translation:** 
+**[8996.56s] English:** Problems begin when you don't understand what is happening.  
+**Translation:** Vocabulary: sufficiently: 足够地
 
-**[9000.00s] English:** что делаешь. Приведу пример. Историю про опасное животное. Иду я и пытаюсь вести себя хорошо.  
+**[9000.00s] English:** What are you doing? Let me give an example. A story about a dangerous animal. I was walking and trying to behave well.  
 **Translation:** 
 
-**[9007.40s] English:** Всегда так, я когда так себя веду, тут же пропадаю в неприятности. Вроде осторожничаешь и раз,  
-**Translation:** 
+**[9007.40s] English:** Always like this, I when I behave like this, I end up in trouble right away. It seems like I'm being cautious, and then, whoosh,  
+**Translation:** Vocabulary: whoosh: 呼啸声
 
-**[9012.88s] English:** упал. Так вот, я иду вдоль ручья, а на другой стороне слон. Я в Индии, там такой обрыв,  
+**[9012.88s] English:** fell. To be precise, I was walking along a stream when I saw an elephant on the other side. I am in India, where there is such a cliff.  
 **Translation:** 
 
-**[9018.84s] English:** метра четыре потом ручей, а дальше слоны. Я иду и думаю, сяду на дерево и спокойно понаблюдаю за  
-**Translation:** 
+**[9018.84s] English:** Meter four, then a stream, and then elephants. I keep walking and thinking, I'll find a tree to sit on and calmly observe.  
+**Translation:** Vocabulary: calmly: 镇静地
 
-**[9025.36s] English:** слонами. Сделаю заметки в блокноте, как Джейн Гудл. И тут я упираюсь в стену из цемента. А это  
+**[9025.36s] English:** Elephants. I'll make notes in my notebook like Jane Goodall. And then I hit a cement wall. And this  
 **Translation:** 
 
-**[9033.86s] English:** задница самца слона. А в Индии самцы часто бывают травмированы, их гоняют, бросаются в них огнем,  
-**Translation:** 
+**[9033.86s] English:** The hindquarters of a male elephant. And in India, male elephants are often injured; they are chased and doused with fire.  
+**Translation:** Vocabulary: cement: 水泥; chased: 追逐; doused: 浇淋; hindquarters: 后肢
 
-**[9040.12s] English:** бог знает, что еще с ними было. Он оборачивается, и если перевести его взгляд, это было что-то в  
+**[9040.12s] English:** God knows what else was with them. He turns around, and if we translate his gaze, it was something in  
 **Translation:** 
 
-**[9045.56s] English:** духе. Какого хрена, ты что себе позволяешь? И он такой... и разносит дерево. Разворачивается. Он  
+**[9045.56s] English:** Dухе. What the fuck, what are you allowing yourself to do? And he's like... and he rips the tree apart. He  
 **Translation:** 
 
-**[9053.64s] English:** реально пытался меня убить.  
+**[9053.64s] English:** He really tried to kill me.  
 **Translation:** 
 
-**[9055.36s] English:** Это было не для виду. Я бросил рюкзак, зигзагом не побежал через лес. Он ломал деревья. Если бы у  
-**Translation:** 
+**[9055.36s] English:** This was no show. I dropped my backpack and zigzagged through the forest without hesitation. He was breaking the trees. If only  
+**Translation:** Vocabulary: hesitation: 犹豫; zigzagged: 曲折前进
 
-**[9061.68s] English:** меня за спиной была GoPro, ты бы увидел, что видел я. Щепки, хаос, это чудовище просто проламывалось  
+**[9061.68s] English:** In front of me was a GoPro, you would have seen what I saw: splinters, chaos, this monster just tearing through everything.  
 **Translation:** 
 
-**[9067.82s] English:** сквозь лес. И опять же, каждый курс на пути, шанс споткнуться. Каждая лиана, шанс зацепиться. Если  
-**Translation:** 
+**[9067.82s] English:** Through the forest. And again, with each step on the path, a chance to trip. Every vine, a chance to catch. If  
+**Translation:** Vocabulary: splinters: 木屑
 
-**[9074.80s] English:** он тебя догонит, он просто наступит на тебя и раздавит. Я бросился с обрыва, скатился в ручей,  
+**[9074.80s] English:** He will catch up with you; he will just step on you and crush you. I jumped off the cliff and slid into the stream.  
 **Translation:** 
 
-**[9080.32s] English:** а слон добежал до края и чуть...  
-**Translation:** 
+**[9080.32s] English:** A sloth ran to the edge and barely...  
+**Translation:** Vocabulary: sloth: 树懒
 
-**[9082.32s] English:** ...чуть не рухнулся на меня. Он подошел к краю и сделал вот так. Потом отпрянул назад, на задние  
+**[9082.32s] English:** ...chuck almost fell on me. He approached the edge and did this. Then he jumped back, onto his hind legs.  
 **Translation:** 
 
-**[9090.20s] English:** ноги. Схватил палку и бросил меня. Палка шлепнулась в воде рядом со мной, и я помню, как показал ему  
-**Translation:** 
+**[9090.20s] English:** Legs. He grabbed a stick and threw it at me. The stick splashed in the water next to me, and I remember how I showed him.  
+**Translation:** Vocabulary: approached: 靠近; chuck: 查克; splashed: 溅起
 
-**[9097.56s] English:** средний палец, типа я жив. И он просто ушел в джунгли. С ним ничто не сравнится. Ничто и нигде.  
+**[9097.56s] English:** Middle finger, type I'm alive. And he just went into the jungles. Nothing compares to him. Nowhere and never again.  
 **Translation:** 
 
-**[9103.94s] English:** Мне очень понравился твой подкаст с чуваком про динозавров. Я очень ждал этот выпуск. Про то,  
-**Translation:** 
+**[9103.94s] English:** Me very much liked your podcast with the guy about dinosaurs. I was very excited for this episode. Pro то,  
+**Translation:** Vocabulary: jungles: 丛林
 
-**[9110.82s] English:** что когда ребенок рождается... Не раздавляй их. Главное его развести. Главное его развести. Главное, чтобы нельзя было  
+**[9110.82s] English:** What when a child is born... Don't stifle them. The main thing is to encourage them. The main thing is to encourage them. The main thing is to ensure that they can.  
 **Translation:** 
 
-**[9111.88s] English:** рождается, он учит слон, жираф, тираннозавр. Я такой, ни хрена себе.  
-**Translation:** 
+**[9111.88s] English:** Rozhdается, он учит слона, жирафа, тираннозавра. Я такой, ни хрена себе.  
+**Translation:** Vocabulary: stifle: 压制
 
-**[9120.00s] English:** Наряду с бананом, водой и тем, что небо голубое,  
+**[9120.00s] English:** Along with bananas, water, and the fact that the sky is blue,  
 **Translation:** 
 
-**[9123.38s] English:** ты в первые месяцы жизни узнаешь этих персонажей.  
+**[9123.38s] English:** You learn about these characters in the first months of life.  
 **Translation:** 
 
-**[9127.48s] English:** И как вообще в этот список попал Тиракс?  
+**[9127.48s] English:** How did Tira克斯 even end up on this list?  
 **Translation:** 
 
-**[9129.94s] English:** Его же давно не существует.  
+**[9129.94s] English:** He has existed for a long time.  
 **Translation:** 
 
-**[9132.54s] English:** Это было так круто.  
+**[9132.54s] English:** This was so cool.  
 **Translation:** 
 
-**[9134.64s] English:** Я слышал, как ты улыбаешься в микрофон, и подумал,  
-**Translation:** 
+**[9134.64s] English:** I heard you smiling into the microphone, and I thought,  
+**Translation:** Vocabulary: microphone: 话筒
 
-**[9137.06s] English:** «О, это будет хороший выпуск».  
+**[9137.06s] English:** Oh, this will be a good episode.  
 **Translation:** 
 
-**[9139.06s] English:** Да, мир динозавров очень интересный.  
+**[9139.06s] English:** Yes, the world of dinosaurs is very interesting.  
 **Translation:** 
 
-**[9142.76s] English:** Прикинь, как странно, что эволюция создала хищника  
+**[9142.76s] English:** Pretend how strangely evolution created a predator.  
 **Translation:** 
 
-**[9145.78s] English:** с такой огромной челюстью и разрушительной силой.  
-**Translation:** 
+**[9145.78s] English:** With such a huge jaw and destructive power.  
+**Translation:** Vocabulary: predator: 捕食者; strangely: 奇怪地
 
-**[9150.00s] English:** А потом он разбил мое сердце, когда сказал, что Тиракс и Стигазавра,  
+**[9150.00s] English:** Then he broke my heart when he said that Tira克斯 and Stigazavra,  
 **Translation:** 
 
-**[9155.66s] English:** что во всех книгах их противопоставляют,  
+**[9155.66s] English:** That in all books they are contrasted,  
 **Translation:** 
 
-**[9158.02s] English:** а оказалось, что они и близко в одно время не жили.  
+**[9158.02s] English:** It turned out that they never lived at the same time.  
 **Translation:** 
 
-**[9160.90s] English:** И я такой...  
+**[9160.90s] English:** And I was like...  
 **Translation:** 
 
-**[9162.50s] English:** Хочу, чтобы они дрались.  
+**[9162.50s] English:** I want them to fight.  
 **Translation:** 
 
-**[9164.42s] English:** Да.  
+**[9164.42s] English:** Yes.  
 **Translation:** 
 
-**[9165.96s] English:** Кстати, о слонах.  
+**[9165.96s] English:** By the way, about elephants.  
 **Translation:** 
 
-**[9167.92s] English:** Мне кажется, нас еще ждет совместное приключение,  
+**[9167.92s] English:** It seems that we still have a joint adventure ahead of us.  
 **Translation:** 
 
-**[9171.02s] English:** когда весь этот хаос закончится.  
+**[9171.02s] English:** When will all this chaos end?  
 **Translation:** 
 
-**[9173.34s] English:** Снова в джунгли?  
+**[9173.34s] English:** Again in the jungles?  
 **Translation:** 
 
-**[9175.78s] English:** В Африку?  
+**[9175.78s] English:** To Africa?  
 **Translation:** 
 
-**[9177.52s] English:** Индию?  
+**[9177.52s] English:** India?  
 **Translation:** 
 
-**[9178.44s] English:** Я бы очень хотел...  
+**[9178.44s] English:** I would very much like to...  
 **Translation:** 
 
-**[9179.98s] English:** Я бы не хотел показать тебе стадо диких слонов в африканских джунглях.  
+**[9179.98s] English:** I would not want to show you a herd of wild elephants in African jungles.  
 **Translation:** 
 
-**[9185.30s] English:** Или отправимся в путешествие по...  
+**[9185.30s] English:** Or we can embark on a journey to...  
 **Translation:** 
 
-**[9187.66s] English:** Амазонке на лодке.  
-**Translation:** 
+**[9187.66s] English:** On a boat in the Amazon.  
+**Translation:** Vocabulary: embark: 登船
 
-**[9190.58s] English:** Только не пешком.  
+**[9190.58s] English:** Only not on foot.  
 **Translation:** 
 
-**[9192.30s] English:** Есть места, куда можно получить разрешение на въезд там,  
+**[9192.30s] English:** There are places where you can obtain an entry permit there.  
 **Translation:** 
 
-**[9195.32s] English:** полностью охраняемая территория, куда никто не заходит.  
+**[9195.32s] English:** A fully protected area where no one goes.  
 **Translation:** 
 
-**[9200.40s] English:** Ты неделю плывешь по региону, где животные вообще не знают, что такое человек.  
+**[9200.40s] English:** You swim for a week in a region where animals haven't even heard of what a human is.  
 **Translation:** 
 
-**[9205.20s] English:** Можно такое устроить, и это...  
+**[9205.20s] English:** Can we arrange something like this, and this...  
 **Translation:** 
 
-**[9207.98s] English:** будет скорее проудовольствие.  
+**[9207.98s] English:** It will be more of a pleasure.  
 **Translation:** 
 
-**[9209.98s] English:** А не про выживание.  
+**[9209.98s] English:** It's not about survival.  
 **Translation:** 
 
-**[9212.08s] English:** Поедем с Джей Джейм на лодке, поплаваем по Амазонке,  
-**Translation:** 
+**[9212.08s] English:** Let's go boating with Jay Jay and paddle down the Amazon.  
+**Translation:** Vocabulary: paddle: 划桨
 
-**[9215.14s] English:** может, защитим эту реку.  
+**[9215.14s] English:** May be, let's protect this river.  
 **Translation:** 
 
-**[9217.90s] English:** Она...  
+**[9217.90s] English:** She...  
 **Translation:** 
 
-**[9218.64s] English:** размечена с севера на юг, а мы просто сплавляемся на лодках.  
+**[9218.64s] English:** Marked from north to south, and we simply float down on boats.  
 **Translation:** 
 
-**[9225.18s] English:** Как здорово, что...  
+**[9225.18s] English:** How wonderful that...  
 **Translation:** 
 
-**[9227.10s] English:** все связано.  
+**[9227.10s] English:** All is connected.  
 **Translation:** 
 
-**[9228.22s] English:** Река — это нить, которая связывает историю.  
+**[9228.22s] English:** A river is a thread that connects history.  
 **Translation:** 
 
-**[9231.76s] English:** Здорово, что все переплетено.  
+**[9231.76s] English:** Great that it's all intertwined.  
 **Translation:** 
 
-**[9234.80s] English:** Поэтому так классно, что мы начали в горах,  
-**Translation:** 
+**[9234.80s] English:** Therefore, it's so great that we started in the mountains,  
+**Translation:** Vocabulary: intertwined: 交织在一起
 
-**[9237.26s] English:** увидели, откуда все начинается.  
+**[9237.26s] English:** We saw where it all begins.  
 **Translation:** 
 
-**[9239.04s] English:** Но история...  
+**[9239.04s] English:** But history...  
 **Translation:** 
 
-**[9239.98s] English:** ЯẳМОThat'smToward.net  
+**[9239.98s] English:** That's toward.net  
 **Translation:** 
 
-**[9240.90s] English:** Судебный проект самовыгодный.ру  
+**[9240.00s] English:** Continues.  
 **Translation:** 
 
-**[9241.72s] English:** ММС  
+**[9240.90s] English:** Judicial project self-profitable.ru  
 **Translation:** 
 
-**[9242.34s] English:** Как выживать  
+**[9241.06s] English:** Continues.  
 **Translation:** 
 
-**[9243.14s] English:** Человек  
+**[9241.72s] English:** MMSC  
 **Translation:** 
 
-**[9243.98s] English:** Прокачивать  
+**[9241.96s] English:** Yes, we did start with the mountains.  
 **Translation:** 
 
-**[9244.48s] English:** Убийства  
+**[9242.34s] English:** How to survive  
 **Translation:** 
 
-**[9245.08s] English:** Домовой  
+**[9243.14s] English:** Human  
 **Translation:** 
 
-**[9245.58s] English:** Доучение  
+**[9243.98s] English:** To improve the sentence with natural English punctuation and capitalization, it would be: "Prokachivat  
 **Translation:** 
 
-**[9246.10s] English:** Рекламы  
-**Translation:** 
+**[9244.46s] English:** An epic first day for us!  
+**Translation:** Vocabulary: capitalization: 大写; prokachivat: 处理
 
-**[9246.60s] English:** Домовая  
+**[9244.48s] English:** Killings  
 **Translation:** 
 
-**[9247.06s] English:** Домовая  
-**Translation:** 
+**[9245.08s] English:** Domovoi  
+**Translation:** Vocabulary: domovoi: 家庭精灵; killings: 杀人事件
 
-**[9247.56s] English:** Библия  
+**[9245.58s] English:** Duoctaining  
 **Translation:** 
 
-**[9248.06s] English:** Энергия  
+**[9246.10s] English:** Ads  
 **Translation:** 
 
-**[9248.78s] English:** Объекты  
+**[9246.60s] English:** Domovaunce  
 **Translation:** 
 
-**[9249.28s] English:** Односельмонизация  
+**[9247.06s] English:** Domovaunce  
 **Translation:** 
 
-**[9250.08s] English:** Длительный  
+**[9247.56s] English:** Bible  
 **Translation:** 
 
-**[9250.76s] English:** Урок  
+**[9248.06s] English:** Energy  
 **Translation:** 
 
-**[9251.26s] English:** Домовой  
+**[9248.64s] English:** I hope that people will watch these videos.  
 **Translation:** 
 
-**[9251.78s] English:** Рекламный  
+**[9248.78s] English:** Objects  
 **Translation:** 
 
-**[9252.34s] English:** Объект  
+**[9249.28s] English:** Odesmolonization  
 **Translation:** 
 
-**[9253.04s] English:** Уровень  
-**Translation:** 
+**[9250.08s] English:** Long-duration  
+**Translation:** Vocabulary: odesmolonization: 脱酯化
 
-**[9253.74s] English:** Домовой  
+**[9250.76s] English:** Lesson  
 **Translation:** 
 
-**[9254.24s] English:** Домовая  
+**[9251.26s] English:** Domovoi  
 **Translation:** 
 
-**[9254.74s] English:** Выгода  
+**[9251.78s] English:** Advertising  
 **Translation:** 
 
-**[9255.24s] English:** Урок  
+**[9252.34s] English:** Object  
 **Translation:** 
 
-**[9255.54s] English:** Домовая  
+**[9252.80s] English:** I should ask you about writing.  
 **Translation:** 
 
-**[9256.08s] English:** Школа  
+**[9253.04s] English:** Level:  
 **Translation:** 
 
-**[9256.58s] English:** Грузовка  
+**[9253.74s] English:** Domovoi  
 **Translation:** 
 
-**[9257.26s] English:** Энергия  
+**[9254.24s] English:** Domovaunce  
 **Translation:** 
 
-**[9258.02s] English:** Энергия  
+**[9254.74s] English:** Benefit  
 **Translation:** 
 
-**[9258.52s] English:** Домовой  
+**[9255.08s] English:** I said that you are terrific at writing.  
 **Translation:** 
 
-**[9258.60s] English:** Домовой  
+**[9255.24s] English:** Lesson  
 **Translation:** 
 
-**[9259.14s] English:** Урок  
+**[9255.54s] English:** Domovaunce  
 **Translation:** 
 
-**[9259.84s] English:** Домовая  
+**[9256.08s] English:** School  
 **Translation:** 
 
-**[9260.54s] English:** Домовая  
+**[9256.58s] English:** Loading...  
 **Translation:** 
 
-**[9240.00s] English:** Продолжается.  
+**[9257.26s] English:** Energy  
 **Translation:** 
 
-**[9241.06s] English:** Продолжается.  
-**Translation:** 
+**[9257.38s] English:** How you wrote "Keeper of the Jungle," "Mother Mary,  
+**Translation:** Vocabulary: keeper: 看守
 
-**[9241.96s] English:** Да, мы же начали с гор.  
+**[9258.02s] English:** Energy  
 **Translation:** 
 
-**[9244.46s] English:** Эпичный первый день у нас вышел.  
+**[9258.52s] English:** Domovoi  
 **Translation:** 
 
-**[9248.64s] English:** Надеюсь, что люди посмотрят эти видео.  
+**[9258.60s] English:** Domovoi  
 **Translation:** 
 
-**[9252.80s] English:** Я должен спросить тебя о писательстве.  
+**[9259.14s] English:** Lesson  
 **Translation:** 
 
-**[9255.08s] English:** Я говорил, что ты потрясающе пишешь.  
+**[9259.84s] English:** Domovaunce  
 **Translation:** 
 
-**[9257.38s] English:** Как ты написал «Хранитель джунглей», «Матерь Божья»,  
+**[9260.54s] English:** Domovaunce  
 **Translation:** 
 
-**[9264.80s] English:** как планируешь писать будущие книги?  
+**[9264.80s] English:** How do you plan to write future books?  
 **Translation:** 
 
-**[9267.96s] English:** Ты как Стивен Кинг?  
+**[9267.96s] English:** You are like Stephen King?  
 **Translation:** 
 
-**[9269.14s] English:** У тебя есть какой-то ритуал?  
+**[9269.14s] English:** Do you have any ritual?  
 **Translation:** 
 
-**[9271.30s] English:** Ты уходишь в подвал, пьешь и пишешь?  
-**Translation:** 
+**[9271.30s] English:** You go down to the basement, drink, and write?  
+**Translation:** Vocabulary: ritual: 仪式
 
-**[9273.90s] English:** Ты пишешь каждый день?  
+**[9273.90s] English:** You write every day?  
 **Translation:** 
 
-**[9275.64s] English:** Или делаешь заметки на ходу?  
+**[9275.64s] English:** Or do you make notes on the go?  
 **Translation:** 
 
-**[9278.54s] English:** Может, у тебя в блокноте куча каракулей и заметок?  
+**[9278.54s] English:** May be, in your notebook, there are lots of scribbles and notes?  
 **Translation:** 
 
-**[9282.64s] English:** Как это у тебя все устроено?  
-**Translation:** 
+**[9282.64s] English:** How is everything organized for you?  
+**Translation:** Vocabulary: scribbles: 杂乱的字迹
 
-**[9284.28s] English:** Я стараюсь каждый день вести дневник по нескольким причинам.  
+**[9284.28s] English:** I try to keep a diary every day for several reasons.  
 **Translation:** 
 
-**[9288.62s] English:** Это дисциплинирует, помогает отслеживать.  
-**Translation:** 
+**[9288.62s] English:** This disciplines and helps track.  
+**Translation:** Vocabulary: disciplines: 约束
 
-**[9291.78s] English:** Приятно видеть свои надежды и мечты.  
+**[9291.78s] English:** It's nice to see my hopes and dreams come true.  
 **Translation:** 
 
-**[9295.52s] English:** Классно записывать бытовые моменты, которые мы забываем.  
+**[9295.52s] English:** It's great to record everyday moments that we tend to forget.  
 **Translation:** 
 
-**[9299.14s] English:** Как готовишь с мамой на кухне, или как гуляешь с собакой.  
+**[9299.14s] English:** How do you cook with your mom in the kitchen, or how you take your dog for a walk?  
 **Translation:** 
 
-**[9302.88s] English:** Кажется, что ты все запомнишь, но это не так.  
+**[9302.88s] English:** It seems that you'll remember everything, but that's not true.  
 **Translation:** 
 
-**[9306.92s] English:** У меня в комнате стопка блокнотов.  
+**[9306.92s] English:** In my room, there is a stack of notebooks.  
 **Translation:** 
 
-**[9309.40s] English:** Просто огромная куча стопок.  
-**Translation:** 
+**[9309.40s] English:** Just an enormous pile of stacks.  
+**Translation:** Vocabulary: stacks: 一堆
 
-**[9313.10s] English:** Я записываю все, что происходит.  
+**[9313.10s] English:** I am recording everything that happens.  
 **Translation:** 
 
-**[9318.56s] English:** Если получается классная история, я ее записываю.  
+**[9318.56s] English:** If it turns out to be a great story, I record it.  
 **Translation:** 
 
-**[9322.42s] English:** Если нахожу лист с исчезнувшего дерева, делаю оттиск.  
+**[9322.42s] English:** If I find a leaf from a missing tree, I make an impression.  
 **Translation:** 
 
-**[9327.30s] English:** В общем, все, что мне кажется, хочется.  
+**[9327.30s] English:** In general, everything that I seem to want.  
 **Translation:** 
 
-**[9329.14s] English:** Я записываю, чтобы самому помнить, и для книг.  
+**[9329.14s] English:** I record it to remember for myself, and for the books.  
 **Translation:** 
 
-**[9338.52s] English:** Я позже возвращаюсь к заметкам, и, во-первых, там классные воспоминания, а во-вторых, все факты.  
+**[9338.52s] English:** I return to my notes later, and, first of all, there are awesome memories, and secondly, all the facts.  
 **Translation:** 
 
-**[9345.98s] English:** Когда случается что-то вроде спасения кота, или просто важный момент в жизни,  
+**[9345.98s] English:** When something like saving a cat happens, or just an important moment in life,  
 **Translation:** 
 
-**[9350.58s] English:** например, встреча с человеком, с которым давно не виделся, и ты такой...  
+**[9350.58s] English:** For example, a meeting with someone you haven't seen in a long time, and you're such...  
 **Translation:** 
 
-**[9356.92s] English:** А вот почему мы так общаемся.  
+**[9356.92s] English:** Here's why we communicate in this way.  
 **Translation:** 
 
-**[9358.92s] English:** Мы так хорошо дружим.  
+**[9358.92s] English:** We have such a great friendship.  
 **Translation:** 
 
-**[9360.00s] English:** Ты всё записываешь, и оно навсегда остаётся с тобой.  
+**[9360.00s] English:** You write it all down, and it stays with you forever.  
 **Translation:** 
 
-**[9364.74s] English:** Когда я не веду дневник, мне кажется, что я теряю способность сохранять свою жизнь и воспоминания.  
+**[9364.74s] English:** When I don't keep a journal, it seems as though I lose my ability to preserve my life and memories.  
 **Translation:** 
 
-**[9371.90s] English:** Вот это вот кинговский стиль, как он говорит.  
+**[9371.90s] English:** Here is King's style as he speaks.  
 **Translation:** 
 
-**[9376.02s] English:** Любители ждут вдохновения, профессионалы работают каждый день.  
+**[9376.02s] English:** Lovers wait for inspiration, professionals work every day.  
 **Translation:** 
 
-**[9380.10s] English:** Я пишу по 10 страниц в день.  
+**[9380.10s] English:** I write ten pages every day.  
 **Translation:** 
 
-**[9383.00s] English:** Это не про меня.  
+**[9383.00s] English:** This is not about me.  
 **Translation:** 
 
-**[9385.78s] English:** Я пишу, когда мне хочется.  
+**[9385.78s] English:** I write when I feel like it.  
 **Translation:** 
 
-**[9387.72s] English:** И иногда вдруг думаешь, о, это идеальное начало для сцены,  
+**[9387.72s] English:** Sometimes suddenly you think, oh, this is an ideal beginning for a scene.  
 **Translation:** 
 
-**[9393.42s] English:** потому что в этот момент ты что-то очень остро чувствуешь.  
+**[9393.42s] English:** Because at that moment, you are experiencing something very intensely.  
 **Translation:** 
 
-**[9398.64s] English:** Я могу ехать на машине или плыть на лодке, и приходит какая-то мысль, и я такой,  
-**Translation:** 
+**[9398.64s] English:** I can go by car or boat, and then some idea comes to me, and I'm like,  
+**Translation:** Vocabulary: intensely: 非常强烈地
 
-**[9403.84s] English:** вот оно, нужно ловить момент.  
+**[9403.84s] English:** Here it is; you need to catch the moment.  
 **Translation:** 
 
-**[9406.54s] English:** Я думаю, так, где это было, открываю нужную страницу и смотрю, что именно произошло.  
+**[9406.54s] English:** I think I remember where it was; I open the relevant page and see what exactly happened.  
 **Translation:** 
 
-**[9412.38s] English:** А потом беру ноутбук.  
+**[9412.38s] English:** Then I take the laptop.  
 **Translation:** 
 
-**[9414.10s] English:** То есть мозг, бумага, ноутбук.  
-**Translation:** 
+**[9414.10s] English:** That is, the brain, paper, notebook.  
+**Translation:** Vocabulary: laptop: 便携电脑
 
-**[9416.10s] English:** Но я пишу на бумаге.  
+**[9416.10s] English:** But I write on paper.  
 **Translation:** 
 
-**[9417.54s] English:** Окей.  
+**[9417.54s] English:** Okay.  
 **Translation:** 
 
-**[9417.72s] English:** Как ты переходишь от разрозненных заметок к финальному тексту?  
+**[9417.72s] English:** How do you transition from scattered notes to the final text?  
 **Translation:** 
 
-**[9421.88s] English:** Передать опыт словами очень сложно.  
+**[9421.88s] English:** To convey experience in words is very difficult.  
 **Translation:** 
 
-**[9427.82s] English:** А у тебя это получается.  
+**[9427.82s] English:** It's working for you, too.  
 **Translation:** 
 
-**[9429.88s] English:** Ты много редактируешь, переписываешь.  
-**Translation:** 
+**[9429.88s] English:** You edit and rewrite a lot.  
+**Translation:** Vocabulary: rewrite: 重写
 
-**[9433.94s] English:** Вот тут Стивен Кинг был прав.  
+**[9433.94s] English:** Here, Stephen King was right.  
 **Translation:** 
 
-**[9436.20s] English:** Я вижу писательство как лепку скульптуры.  
-**Translation:** 
+**[9436.20s] English:** I see writing as sculpting.  
+**Translation:** Vocabulary: sculpting: 雕刻
 
-**[9439.16s] English:** Должно быть что-то, из чего ты лепишь.  
+**[9439.16s] English:** There must be something from which you mold it.  
 **Translation:** 
 
-**[9442.36s] English:** Когда ты думаешь об истории...  
+**[9442.36s] English:** When you think about history,...  
 **Translation:** 
 
-**[9445.36s] English:** Я обожаю слушать хороших рассказчиков.  
+**[9445.36s] English:** I love listening to good storytellers.  
 **Translation:** 
 
-**[9447.72s] English:** И я люблю слушать плохие истории, смотреть плохие фильмы, и хочу понять, что сделал не так.  
-**Translation:** 
+**[9447.72s] English:** And I love listening to bad stories, watching bad movies, and want to understand what I did wrong.  
+**Translation:** Vocabulary: storytellers: 讲故事的人
 
-**[9453.56s] English:** Когда человек начинает рассказывать, и с первой секунды тебя цепляет, ты думаешь,  
+**[9453.56s] English:** When a person begins to speak, and from the first second you are hooked, you think,  
 **Translation:** 
 
-**[9457.88s] English:** погоди, а как это произошло?  
-**Translation:** 
+**[9457.88s] English:** Hold on, how did this happen?  
+**Translation:** Vocabulary: hooked: 着迷
 
-**[9459.76s] English:** Почему? Что было дальше?  
+**[9459.76s] English:** Why? What happened next?  
 **Translation:** 
 
-**[9461.76s] English:** И он идеально дозирует информацию.  
+**[9461.76s] English:** He idealistically doses the information.  
 **Translation:** 
 
-**[9464.76s] English:** Иногда в момент вдохновения ты вдруг осознаешь, как это сделать.  
+**[9464.76s] English:** Sometimes in a moment of inspiration, you suddenly realize how to do it.  
 **Translation:** 
 
-**[9468.32s] English:** А факты у меня записаны здесь.  
+**[9468.32s] English:** The facts are written down here.  
 **Translation:** 
 
-**[9470.92s] English:** Я прописываю какой-то план на листе, а дальше мне нужно выгрузить все из себя, написать от руки.  
+**[9470.92s] English:** I write down a plan on a sheet of paper, and then I need to empty my thoughts by writing them all out by hand.  
 **Translation:** 
 
-**[9477.72s] English:** И только потом я могу...  
+**[9477.72s] English:** And only then can I...  
 **Translation:** 
 
-**[9480.00s] English:** Закрываю глаза и...  
+**[9480.00s] English:** Closing my eyes and...  
 **Translation:** 
 
-**[9481.36s] English:** Я закрываю глаза и пишу историю.  
+**[9481.36s] English:** I close my eyes and write a story.  
 **Translation:** 
 
-**[9483.82s] English:** Это буквально похоже на работу с глиной.  
+**[9483.82s] English:** This is literally like working with clay.  
 **Translation:** 
 
-**[9486.60s] English:** Я как бы создаю форму.  
+**[9486.60s] English:** I kind of create a form.  
 **Translation:** 
 
-**[9491.28s] English:** А редактирование — это уже про детали.  
+**[9491.28s] English:** Editing is already about the details.  
 **Translation:** 
 
-**[9495.04s] English:** Работа в несколько проходов?  
-**Translation:** 
+**[9495.04s] English:** Work in several passes?  
+**Translation:** Vocabulary: editing: 编辑
 
-**[9497.40s] English:** Боже, да.  
+**[9497.40s] English:** God, yes.  
 **Translation:** 
 
-**[9498.74s] English:** Десятки подходов.  
-**Translation:** 
+**[9498.74s] English:** Hundreds of approaches.  
+**Translation:** Vocabulary: approaches: 方法
 
-**[9500.40s] English:** Тогда я ненавижу писать.  
+**[9500.40s] English:** Then I hate writing.  
 **Translation:** 
 
-**[9502.24s] English:** Когда заканчиваешь книгу.  
+**[9502.24s] English:** When you finish the book.  
 **Translation:** 
 
-**[9503.70s] English:** И я так делать больше не буду.  
+**[9503.70s] English:** I will not do that again.  
 **Translation:** 
 
-**[9506.96s] English:** С последней книгой, как вышла,  
+**[9506.96s] English:** With the last book, as it came out,  
 **Translation:** 
 
-**[9508.56s] English:** там много чего нужно было охватить, и я был в джунглях.  
+**[9508.56s] English:** There was a lot to cover, and I was in the jungles.  
 **Translation:** 
 
-**[9512.08s] English:** Походы по десять часов в день, наркоторговцы, весь этот ад,  
-**Translation:** 
+**[9512.08s] English:** Hikes for ten hours a day, drug dealers, all of this hell,  
+**Translation:** Vocabulary: jungles: 热带丛林
 
-**[9515.92s] English:** и потом ночью еще садишься редактировать.  
+**[9515.92s] English:** And then at night, you sit down to edit again.  
 **Translation:** 
 
-**[9518.56s] English:** Ужасная жизнь.  
+**[9518.56s] English:** Horrible life.  
 **Translation:** 
 
-**[9520.10s] English:** Поэтому сейчас я пишу главы тогда, когда мне очень хочется писать.  
+**[9520.10s] English:** Therefore, I am writing chapters now when I really feel like writing.  
 **Translation:** 
 
-**[9526.38s] English:** Когда бывает что-то сильное или необычное, я говорю,  
+**[9526.38s] English:** When something strong or unusual happens, I say,  
 **Translation:** 
 
-**[9529.14s] English:** это будет отдельная глава.  
+**[9529.14s] English:** This will be a separate chapter.  
 **Translation:** 
 
-**[9530.44s] English:** Я ее пишу, редактирую и отправляю сестре.  
+**[9530.44s] English:** I write it, edit it, and send it to my sister.  
 **Translation:** 
 
-**[9533.98s] English:** Она профессиональный редактор и прожила в литературе больше,  
+**[9533.98s] English:** She is a professional editor and has lived in literature for longer,  
 **Translation:** 
 
-**[9537.26s] English:** чем большинство людей в реальной.  
+**[9537.26s] English:** What is true for most people in real life.  
 **Translation:** 
 
-**[9538.56s] English:** Она говорит, хорошо получилось или плохо, что нужно подкрутить или ускорить,  
+**[9538.56s] English:** She says, "It's good or bad, what needs to be fine-tuned or sped up.  
 **Translation:** 
 
-**[9543.56s] English:** и присылает текст в пометках.  
+**[9543.56s] English:** And sends a text in the notes.  
 **Translation:** 
 
-**[9546.56s] English:** Я его просто откладываю.  
+**[9546.56s] English:** I simply put it off.  
 **Translation:** 
 
-**[9549.56s] English:** Потом, когда я решу писать новую книгу, я не буду начинать с нуля,  
-**Translation:** 
+**[9549.56s] English:** Then, when I decide to write a new book, I won't start from scratch,  
+**Translation:** Vocabulary: scratch: 从头开始
 
-**[9552.56s] English:** когда нужно написать 300 тысяч слов.  
+**[9552.56s] English:** When do I need to write 300,000 words?  
 **Translation:** 
 
-**[9555.56s] English:** Все уже готово.  
+**[9555.56s] English:** All is ready.  
 **Translation:** 
 
-**[9558.56s] English:** Гораздо проще.  
+**[9558.56s] English:** Much simpler.  
 **Translation:** 
 
-**[9559.56s] English:** Какие книги ты планируешь писать в будущем?  
+**[9559.56s] English:** What books do you plan to write in the future?  
 **Translation:** 
 
-**[9562.56s] English:** Ну, была «Матерь Божья», теперь «Хранитель джунглей»,  
+**[9562.56s] English:** Nu, there was "Mother of God," now it's "Guardian of the Jungle,  
 **Translation:** 
 
-**[9565.56s] English:** а теперь я работаю над «Эд Шпилем».  
+**[9565.56s] English:** Now I am working on "Ed Schile".  
 **Translation:** 
 
-**[9567.56s] English:** Хорошо.  
+**[9567.56s] English:** Good.  
 **Translation:** 
 
-**[9568.56s] English:** Потому что слишком много чего произошло.  
+**[9568.56s] English:** Because too much has happened.  
 **Translation:** 
 
-**[9572.56s] English:** Кажется, я тебе рассказывал, когда ты у нас был.  
+**[9572.56s] English:** It seems I told you about it when you were here before.  
 **Translation:** 
 
-**[9575.56s] English:** Прямо перед твоим приездом мы с Джей-Джеем отправились за нашу речку  
+**[9575.56s] English:** Right before your arrival, Jay-Jay and I went to our creek.  
 **Translation:** 
 
-**[9579.56s] English:** в жуткую часть Амазонки,  
+**[9579.56s] English:** To the horrific part of the Amazon,  
 **Translation:** 
 
-**[9581.56s] English:** где в 10 раз больше беззакония, чем там, где мы живем.  
-**Translation:** 
+**[9581.56s] English:** Where there is ten times more lawlessness than where we live.  
+**Translation:** Vocabulary: horrific: 恐怖的; lawlessness: 无序状态
 
-**[9585.56s] English:** У нас безлюдно, а там наоборот.  
+**[9585.56s] English:** We are deserted here, while over there, it's the opposite.  
 **Translation:** 
 
-**[9587.56s] English:** Если говорить об амазонской версии «старикам тот не место», это оно.  
+**[9587.56s] English:** If we talk about the Amazon version of "it's no place for old men," that's it.  
 **Translation:** 
 
-**[9591.56s] English:** Нефтяные компании, миссионеры и племена, с которыми недавно установили контакт.  
+**[9591.56s] English:** Oil companies, missionaries, and tribes with which contact was recently established.  
 **Translation:** 
 
-**[9595.56s] English:** Есть такое племя на ООО,  
-**Translation:** 
+**[9595.56s] English:** There is such a tribe on OOO.  
+**Translation:** Vocabulary: tribes: 部落
 
-**[9597.56s] English:** с которыми контакт установили совсем недавно.  
+**[9597.56s] English:** With which contact was established very recently.  
 **Translation:** 
 
-**[9600.00s] English:** Их буквально вырвали из леса.  
+**[9600.00s] English:** They were literally dragged out of the forest.  
 **Translation:** 
 
-**[9602.24s] English:** И они стоят с маленькими луками и стрелами.  
+**[9602.24s] English:** They stand with small bows and arrows.  
 **Translation:** 
 
-**[9604.62s] English:** И сами маленькие.  
+**[9604.62s] English:** And they are so small.  
 **Translation:** 
 
-**[9605.92s] English:** На моле высокие, а на уа — низенькие.  
+**[9605.92s] English:** On the mole, they are high, and on the wa, they are low.  
 **Translation:** 
 
-**[9610.30s] English:** Мы увидели жестокость и непроходимый кошмар.  
-**Translation:** 
+**[9610.30s] English:** We saw brutality and an unfathomable nightmare.  
+**Translation:** Vocabulary: brutality: 残忍; nightmare: 噩梦; unfathomable: 深不可测
 
-**[9614.34s] English:** Там наемники и абсолютное беззаконие.  
+**[9614.34s] English:** There are mercenaries and absolute chaos there.  
 **Translation:** 
 
-**[9617.84s] English:** Я помню момент, когда Джей Джей посмотрел на меня и сказал...  
-**Translation:** 
+**[9617.84s] English:** I remember the moment when Jay-Jay looked at me and said...  
+**Translation:** Vocabulary: mercenaries: 雇佣兵
 
-**[9622.26s] English:** «Мы считаем себя крепкими ребятами, пока не попадем в скользкие ситуации».  
+**[9622.26s] English:** We consider ourselves tough guys until we find ourselves in slippery situations.  
 **Translation:** 
 
-**[9626.10s] English:** Он посмотрел на меня и сказал...  
-**Translation:** 
+**[9626.10s] English:** He looked at me and said....  
+**Translation:** Vocabulary: slippery: 易滑的
 
-**[9628.02s] English:** «Мы не в безопасности».  
+**[9628.02s] English:** We are not safe.  
 **Translation:** 
 
-**[9629.98s] English:** Мы смотрели на людей вокруг в речном порту, в восьми днях пути вверх по реке,  
-**Translation:** 
+**[9629.98s] English:** We looked at the people around us at the river port, eight days' journey upstream,  
+**Translation:** Vocabulary: upstream: 逆流而上
 
-**[9634.64s] English:** и было понятно, каждый из них смотрит на нас и прикидывает,  
+**[9634.64s] English:** And it was clear that each of them was looking at us and trying to figure us out.  
 **Translation:** 
 
-**[9637.98s] English:** насколько неудобно было бы убить нас прямо сейчас,  
-**Translation:** 
+**[9637.98s] English:** How inconvenient it would be to kill us right now,  
+**Translation:** Vocabulary: inconvenient: 不方便
 
-**[9641.48s] English:** и сколько денег можно с нас получить.  
+**[9641.48s] English:** And how much money can we be expected to pay.  
 **Translation:** 
 
-**[9644.90s] English:** Камера, часы, одежда, рюкзак.  
+**[9644.90s] English:** Camera, watch, clothing, backpack.  
 **Translation:** 
 
-**[9649.90s] English:** О, хороший рюкзак.  
+**[9649.90s] English:** Oh, a good backpack.  
 **Translation:** 
 
-**[9651.82s] English:** Они выбрались на шоппинг.  
+**[9651.82s] English:** They went shopping.  
 **Translation:** 
 
-**[9654.20s] English:** Мы с Джей Джейом переглянулись, типа...  
+**[9654.20s] English:** We exchanged glances with Jay-Jay, kinda like...  
 **Translation:** 
 
-**[9656.12s] English:** «Ну и где нам сегодня ставить палатку?»  
-**Translation:** 
+**[9656.12s] English:** Nu i gde nam segodnya stavit' palatku?  
+**Translation:** Vocabulary: glances: 眼神; segodnya: 今天
 
-**[9658.86s] English:** Я такой...  
+**[9658.86s] English:** I am such...  
 **Translation:** 
 
-**[9659.58s] English:** «Мы здесь».  
+**[9659.58s] English:** We are here.  
 **Translation:** 
 
-**[9659.98s] English:** «Мы здесь не остаемся».  
+**[9659.98s] English:** We are not staying here.  
 **Translation:** 
 
-**[9660.96s] English:** Хотя, может, и стоит остаться, я не знал, что делать.  
+**[9660.96s] English:** Although I might have stayed, I didn't know what to do.  
 **Translation:** 
 
-**[9664.24s] English:** И один из нового подошел к Джей Джей и попросил еды, а Джей Джей совершил ошибку.  
+**[9664.24s] English:** One of them approached Jay Jay and asked for food, and Jay Jay made a mistake.  
 **Translation:** 
 
-**[9668.96s] English:** Он начал объяснять, что такое деньги.  
-**Translation:** 
+**[9668.96s] English:** He began explaining what money is.  
+**Translation:** Vocabulary: approached: 靠近
 
-**[9670.76s] English:** Они раньше не видели деньги.  
+**[9670.76s] English:** They had never seen money before.  
 **Translation:** 
 
-**[9672.44s] English:** Он дал им купюру, пару монет.  
+**[9672.44s] English:** He gave them a bill, a couple of coins.  
 **Translation:** 
 
-**[9674.82s] English:** Сказал, если пойдешь туда, там человек, который тебе что-то продаст, и ты сможешь поесть.  
+**[9674.82s] English:** He said if you go there, there will be a person who will sell you something to eat.  
 **Translation:** 
 
-**[9679.58s] English:** Он спрашивает, лук и стрелы?  
+**[9679.58s] English:** He asks about bows and arrows?  
 **Translation:** 
 
-**[9681.16s] English:** Джей Джей...  
+**[9681.16s] English:** JJ...  
 **Translation:** 
 
-**[9681.64s] English:** «Нет, нет, нет, дай ему это, и он отдаст тебе еду».  
+**[9681.64s] English:** No, no, no, give him this, and he will give you food.  
 **Translation:** 
 
-**[9683.78s] English:** И сработало.  
+**[9683.78s] English:** And it worked.  
 **Translation:** 
 
-**[9684.74s] English:** А потом Джей Джей окружили человек шестьдесят, все с луками и стрелами, и протянули руки.  
+**[9684.74s] English:** Then Jay Jay was surrounded by about sixty people, all with bows and arrows, and they reached out their hands.  
 **Translation:** 
 
-**[9690.66s] English:** Джей Джей бежит, а за ним толпа полуголых людей.  
+**[9690.66s] English:** Jay Jay runs, followed by a crowd of half-naked people.  
 **Translation:** 
 
-**[9695.60s] English:** Вся эта история...  
+**[9695.60s] English:** This entire story...  
 **Translation:** 
 
-**[9697.88s] English:** Эта глава будет называться «Река дельфинаемов».  
+**[9697.88s] English:** This chapter will be called "River of Dolphin Dreams".  
 **Translation:** 
 
-**[9702.16s] English:** Потому что все, кого мы встречали, говорили...  
-**Translation:** 
+**[9702.16s] English:** Because everyone we met kept saying...  
+**Translation:** Vocabulary: dolphin: 海豚
 
-**[9705.78s] English:** Я доставал камеру и...  
+**[9705.78s] English:** I fetched the camera and...  
 **Translation:** 
 
-**[9707.46s] English:** и спрашивал, «А тут есть дельфины?»  
-**Translation:** 
+**[9707.46s] English:** He asked, "Are there any dolphins here?  
+**Translation:** Vocabulary: fetched: 取来
 
-**[9711.88s] English:** Они отвечали, «Да, есть».  
+**[9711.88s] English:** They replied, "Yes, there are.  
 **Translation:** 
 
-**[9713.14s] English:** Но если будешь трахать, осторожнее, могут уточить под воду.  
+**[9713.14s] English:** But if you're going to do it, be careful, they might check under the water.  
 **Translation:** 
 
-**[9717.04s] English:** Я первому сказал, «Окей, затянем».  
+**[9717.04s] English:** I was the first to say, "Okay, let's tighten it up.  
 **Translation:** 
 
-**[9719.14s] English:** Потом число...  
-**Translation:** 
+**[9719.14s] English:** Then the number...  
+**Translation:** Vocabulary: tighten: 收紧
 
-**[9719.58s] English:** Потом число...  
+**[9719.58s] English:** Then the number...  
 **Translation:** 
 
-**[9719.88s] English:** Потом число...  
+**[9719.88s] English:** Then the number...  
 **Translation:** 
 
-**[9719.94s] English:** Потом число...  
+**[9719.94s] English:** Then the number...  
 **Translation:** 
 
-**[9719.96s] English:** Потом число...  
+**[9719.96s] English:** Then the number...  
 **Translation:** 
 
-**[9719.98s] English:** Потом число...  
+**[9719.98s] English:** Then the number...  
 **Translation:** 
 
-**[9720.00s] English:** Часов через восемь вверх по реке мы встречаем следующего.  
-**Translation:** 
+**[9720.00s] English:** Eight hours upstream, we meet the next one.  
+**Translation:** Vocabulary: upstream: 逆流而上
 
-**[9723.32s] English:** Я опять с камерой, тут есть дельфины?  
+**[9723.32s] English:** I'm back with the camera. Are there any dolphins here?  
 **Translation:** 
 
-**[9725.16s] English:** А он, да.  
+**[9725.16s] English:** He did, yes.  
 **Translation:** 
 
-**[9726.02s] English:** Только еби их поосторожнее, а то схватят тебя и утянут.  
+**[9726.02s] English:** Only fuck with them carefully, or they'll catch you and drag you in.  
 **Translation:** 
 
-**[9729.48s] English:** Я такой, что?  
+**[9729.48s] English:** What am I like that?  
 **Translation:** 
 
-**[9730.68s] English:** И еще четверо сказали то же самое.  
+**[9730.68s] English:** And another four said the same thing.  
 **Translation:** 
 
-**[9732.82s] English:** Ну что ж.  
+**[9732.82s] English:** Nu, what ж.  
 **Translation:** 
 
-**[9734.10s] English:** Урок, который мы усвоили.  
+**[9734.10s] English:** The lesson we have learned.  
 **Translation:** 
 
-**[9735.62s] English:** Если люди в джунглях говорят про рогатых анаконд, верь.  
+**[9735.62s] English:** If people in the jungles say there are horned anacondas, believe them.  
 **Translation:** 
 
-**[9738.78s] English:** Поверим.  
+**[9738.78s] English:** Let's believe.  
 **Translation:** 
 
-**[9739.56s] English:** Видимо, люди на этой реке пытались быть добрыми самаритянами  
-**Translation:** 
+**[9739.56s] English:** Visibly, people on this river tried to be good Samaritans.  
+**Translation:** Vocabulary: samaritans: 见义勇为者; visibly: 明显地
 
-**[9742.50s] English:** и предупреждали меня о вполне реальных опасностях  
+**[9742.50s] English:** And warned me of very real dangers.  
 **Translation:** 
 
-**[9745.16s] English:** любовных похождений с дельфинами.  
+**[9745.16s] English:** Love affairs with dolphins.  
 **Translation:** 
 
-**[9747.76s] English:** По стилю очень похоже на Кормака Маккарти.  
+**[9747.76s] English:** By style, it very much resembles Cormac McCarthy.  
 **Translation:** 
 
-**[9752.42s] English:** О, ему бы понравилось.  
-**Translation:** 
+**[9752.42s] English:** Oh, he would have liked it.  
+**Translation:** Vocabulary: cormac: 科马克·麦卡锡
 
-**[9754.00s] English:** А вообще, есть писатели, которые тебя вдохновляют?  
+**[9754.00s] English:** Generally, are there any writers who inspire you?  
 **Translation:** 
 
-**[9757.80s] English:** Ты иногда очень близок к нему по стилю,  
+**[9757.80s] English:** You are sometimes very close to him in style,  
 **Translation:** 
 
-**[9762.40s] English:** хотя ты вообще скачешь между стилями.  
+**[9762.40s] English:** Although you generally switch between styles.  
 **Translation:** 
 
-**[9765.42s] English:** Да.  
+**[9765.42s] English:** Yes.  
 **Translation:** 
 
-**[9766.18s] English:** Зависит от настроения.  
+**[9766.18s] English:** It depends on my mood.  
 **Translation:** 
 
-**[9767.98s] English:** Иногда хочется немного поиграть мышцами,  
+**[9767.98s] English:** Sometimes it's nice to flex a little muscle.  
 **Translation:** 
 
-**[9770.58s] English:** использовать всякие витиеватые слова и красивые метафоры.  
+**[9770.58s] English:** Use all sorts of flowery words and beautiful metaphors.  
 **Translation:** 
 
-**[9775.46s] English:** Мне это нравится, хотя читателям,  
-**Translation:** 
+**[9775.46s] English:** I like it, although readers,  
+**Translation:** Vocabulary: flowery: 华丽; metaphors: 比喻
 
-**[9777.82s] English:** думаю, не очень.  
+**[9777.82s] English:** I think, not very.  
 **Translation:** 
 
-**[9779.76s] English:** Я все больше понимаю, что современный читатель  
+**[9779.76s] English:** I am understanding more and more that modern readers  
 **Translation:** 
 
-**[9782.20s] English:** этого вовсе не ищет.  
+**[9782.20s] English:** This absolutely does not seek it.  
 **Translation:** 
 
-**[9787.98s] English:** Им нужен легкий текст.  
+**[9787.98s] English:** They need a light text.  
 **Translation:** 
 
-**[9791.04s] English:** В моих историях людям больше всего заходит стиль Энтони Бурдена.  
+**[9791.04s] English:** In my stories, people most often enjoy Anthony Bourdain's style.  
 **Translation:** 
 
-**[9796.22s] English:** Мы оказались на берегу реки  
-**Translation:** 
+**[9796.22s] English:** We found ourselves on the riverbank.  
+**Translation:** Vocabulary: riverbank: 河岸
 
-**[9798.04s] English:** и поняли, что в опасности.  
+**[9798.04s] English:** And they understood that they were in danger.  
 **Translation:** 
 
-**[9801.26s] English:** Опасность была ведь...  
+**[9801.26s] English:** The danger was, after all,...  
 **Translation:** 
 
-**[9802.80s] English:** И ты рассказываешь историю.  
+**[9802.80s] English:** And you are telling a story.  
 **Translation:** 
 
-**[9804.44s] English:** Забудь про позерство.  
-**Translation:** 
+**[9804.44s] English:** Forget about posing.  
+**Translation:** Vocabulary: posing: 摆姿势
 
-**[9805.72s] English:** Раз пару страниц можно вернуть,  
+**[9805.72s] English:** If a few pages can be returned,  
 **Translation:** 
 
-**[9807.58s] English:** но никто не хочет смотреть, как ты красуешься.  
+**[9807.58s] English:** No one wants to watch you炫耀自己.  
 **Translation:** 
 
-**[9810.98s] English:** Но иногда ты идешь еще дальше,  
+**[9810.98s] English:** But sometimes you go even further,  
 **Translation:** 
 
-**[9813.60s] English:** почти по-хемингуэевски минималистично.  
-**Translation:** 
+**[9813.60s] English:** Almost Hemingwayesque, minimalistically.  
+**Translation:** Vocabulary: hemingwayesque: 海明威式的; minimalistically: 极简地
 
-**[9818.30s] English:** Слово, точка, слово.  
+**[9818.30s] English:** Word, dot, word.  
 **Translation:** 
 
-**[9820.74s] English:** В этом тоже есть сила.  
+**[9820.74s] English:** In this, there is also power.  
 **Translation:** 
 
-**[9823.42s] English:** Она заключается в паузах, в тишине.  
+**[9823.42s] English:** It lies in the pauses, in the silence.  
 **Translation:** 
 
-**[9829.04s] English:** Мне такое нравится.  
-**Translation:** 
+**[9829.04s] English:** I like this one.  
+**Translation:** Vocabulary: pauses: 停顿
 
-**[9830.64s] English:** Недосказанное тянет вперед.  
+**[9830.64s] English:** Unspoken things pull us forward.  
 **Translation:** 
 
-**[9833.28s] English:** В этом и есть магия.  
+**[9833.28s] English:** This is the magic.  
 **Translation:** 
 
-**[9835.26s] English:** Читаешь, по кому звонит колокол.  
+**[9835.26s] English:** You read, who the bell is ringing for.  
 **Translation:** 
 
-**[9837.52s] English:** И ты не можешь не говорить.  
+**[9837.52s] English:** And you can't help but speak.  
 **Translation:** 
 
-**[9837.58s] English:** Воздух был свеж.  
+**[9837.58s] English:** The air was fresh.  
 **Translation:** 
 
-**[9839.78s] English:** Вода была свежей.  
+**[9839.78s] English:** The water was fresh.  
 **Translation:** 
 
-**[9840.00s] English:** сладка, вино хорошее, а день теплый. И ты думаешь, я знаю, каково это. Предложения простые,  
+**[9840.00s] English:** Sweet, the wine is good, and the day is warm. And you think, I know what that feels like. The sentences are simple,  
 **Translation:** 
 
-**[9849.80s] English:** но вместе они вызывают желание пить вино из бурдюка и лежать у ручья. Это так красиво. Иногда  
-**Translation:** 
+**[9849.80s] English:** No matter how different they are, together they create a desire to drink wine from a wineskin and lie by the stream. It is so beautiful. Sometimes,...  
+**Translation:** Vocabulary: wineskin: 皮酒囊
 
-**[9857.56s] English:** это единственный путь. Ты только посмотри на огонь, пляшущий на горизонте. Иногда нужны  
+**[9857.56s] English:** This is the only way. Just look at the fire dancing on the horizon. Sometimes you need  
 **Translation:** 
 
-**[9864.62s] English:** простые утверждения. Все это очень красиво. Я и читать, и писать люблю.  
+**[9864.62s] English:** Simple statements. All of this is very beautiful. I love to read and write.  
 **Translation:** 
 
-**[9870.64s] English:** Ты взаимодействовал с языковыми моделями? С ИИ, вроде Чаджи Пити? В том, что они умеют  
+**[9870.64s] English:** Did you interact with language models? Like ChatJi PiTi? What they can do?  
 **Translation:** 
 
-**[9878.44s] English:** хорошо генерировать язык, есть что-то пугающее и печальное. Но чего-то не хватает,  
+**[9878.44s] English:** Good generating language can be somewhat frightening and sad, but something is missing.  
 **Translation:** 
 
-**[9888.24s] English:** хотя трудно понять, чего именно. У меня вопрос.  
+**[9888.24s] English:** Although it's hard to understand exactly what, I have a question.  
 **Translation:** 
 
-**[9893.58s] English:** Я с поразительной точкой.  
+**[9893.58s] English:** I have a remarkable point.  
 **Translation:** 
 
-**[9894.62s] English:** Точностью чувствую, когда мне присылают сообщение, пропущенное через Чаджи Пити. Я знаю. Не могу  
+**[9894.62s] English:** I feel the accuracy when a message is filtered through Chadji Piti. I know. Cannot  
 **Translation:** 
 
-**[9904.28s] English:** объяснить, как, но я это понимаю. С изображениями мы почти дошли до точки, где их уже не отличить.  
-**Translation:** 
+**[9904.28s] English:** Explain how, but I understand. With images, we are almost at the point where they can no longer be distinguished.  
+**Translation:** Vocabulary: cannot: 不能; distinguished: 分辨; filtered: 过滤
 
-**[9913.40s] English:** Не знаю, исчезнет ли это ощущение. Есть что-то... Фит Джеральд, например,  
+**[9913.40s] English:** I don't know if this feeling will disappear. There is something... like Fitz Gerald, for example.  
 **Translation:** 
 
-**[9918.80s] English:** описывает сугубо человеческие моменты. С такой кристальной точкой...  
-**Translation:** 
+**[9918.80s] English:** Describes purely human moments. With such a crystal-clear focus....  
+**Translation:** Vocabulary: gerald: 费茨吉erald
 
-**[9924.62s] English:** Он описывает эти невероятно человеческие моменты с такой кристальной точкой, что ты думаешь, ты небось месяц это обдумывал. Ты так внимательно изучал жизнь, чтобы собрать слово в такое предложение. В одном месте он пишет о крике таком отчаянном, что на самой высокой ноте голос начинает дрожать и ломаться. И ты думаешь, боже, я знаю, как это звучит. Вот ты говоришь, ИИ, напиши книгу джунглей.  
+**[9924.62s] English:** He describes these incredibly human moments with such crystal clarity that you think you must have spent a month mulling it over. You studied life so closely to craft that sentence. In one place, he writes of a cry so desperate that on the highest note, the voice begins to shake and break. And you think, God, I know how that sounds. Here you go, AI, write a book about the jungle.  
 **Translation:** 
 
-**[9954.62s] English:** Как если бы ее написал Гормак Маккарти.  
-**Translation:** 
+**[9954.62s] English:** As if written by Cormac McCarthy.  
+**Translation:** Vocabulary: clarity: 清晰; mulling: 深思
 
-**[9960.00s] English:** И отвечает, джунгли были темными и суровыми, а мальчик был...  
+**[9960.00s] English:** Jungles were dark and harsh, and the boy was...  
 **Translation:** 
 
-**[9964.80s] English:** Понимаешь, и справится, и получится хорошо, но я все думаю, что именно мы улавливаем даже в простом тексте, по крайней мере, сейчас.  
-**Translation:** 
+**[9964.80s] English:** Ponimayesh, i spravishchis', i poluchitsya khorosho, no ya vse dumayu, chto eya my ulavlivayem eveni v prostochem tekste, po krayney meste, sейчас.  
+**Translation:** Vocabulary: jungles: 密林; khorosho: 好; krayney: 极; poluchitsya: 能; ponimayesh: 明白; prostochem: 简单; spravishchis: 挺得住; ulavlivayem: 捕捉到
 
-**[9972.50s] English:** Это очень трудно описать.  
+**[9972.50s] English:** This is very hard to describe.  
 **Translation:** 
 
-**[9974.50s] English:** Но об этом важно думать, потому что...  
+**[9974.50s] English:** But it's important to think about this because...  
 **Translation:** 
 
-**[9976.64s] English:** Что вообще делает нас людьми?  
+**[9976.64s] English:** What does it actually make us human?  
 **Translation:** 
 
-**[9979.36s] English:** Ты меня недавно успокоил, я тебе позвонил и сказал,  
-**Translation:** 
+**[9979.36s] English:** You recently calmed me down; I called you and told you so.  
+**Translation:** Vocabulary: calmed: 安抚
 
-**[9982.92s] English:** я выхожу из джунглей, и все вокруг говорят только об ИИ.  
+**[9982.92s] English:** I step out of the jungle, and everyone around me is talking only about AI.  
 **Translation:** 
 
-**[9986.50s] English:** И люди будто сами заходят в матрицу и просят их подключить.  
-**Translation:** 
+**[9986.50s] English:** And people seem to walk right into the matrix and ask them to plug in.  
+**Translation:** Vocabulary: matrix: 模拟现实的虚拟世界
 
-**[9991.86s] English:** Все одержимы этой темой.  
+**[9991.86s] English:** All are obsessed with this topic.  
 **Translation:** 
 
-**[9995.42s] English:** Ты как-то сказал, что...  
-**Translation:** 
+**[9995.42s] English:** You said something like that...  
+**Translation:** Vocabulary: obsessed: 着迷的
 
-**[9997.72s] English:** Настоящее человеческое искусство и литература станут только ценнее.  
+**[9997.72s] English:** True human art and literature will become even more valuable.  
 **Translation:** 
 
-**[10005.72s] English:** Хотя я ожидал, что ты скажешь, да, все, проехали, все меняется.  
+**[10005.72s] English:** Although I expected you to say, "Yes, that's it, we're done, everything changes.  
 **Translation:** 
 
-**[10010.90s] English:** А ты сказал, что настоящих мастеров станут ценить сильнее.  
+**[10010.90s] English:** You said that true masters will be valued more highly.  
 **Translation:** 
 
-**[10017.18s] English:** Чем больше в интернете будет убедительных и эффективных ботов, тем меньше мы будем их ценить.  
+**[10017.18s] English:** The more convincing and effective bots there are on the internet, the less we will value them.  
 **Translation:** 
 
-**[10024.84s] English:** И тем более будем ценить живое общение.  
+**[10024.84s] English:** And we will value live communication all the more.  
 **Translation:** 
 
-**[10029.08s] English:** Художников, которые выставляют свои работы в галереях, а не в интернете, встречи вживую.  
-**Translation:** 
+**[10029.08s] English:** Artists who exhibit their works in galleries, rather than online, meet in person.  
+**Translation:** Vocabulary: exhibit: 展出
 
-**[10035.96s] English:** Это заставит людей показывать себя настоящих, уязвимых.  
+**[10035.96s] English:** This will make people show their true, vulnerable selves.  
 **Translation:** 
 
-**[10041.82s] English:** Вот что станет ценным ресурсом.  
-**Translation:** 
+**[10041.82s] English:** Here is what will become a valuable resource.  
+**Translation:** Vocabulary: vulnerable: 易受伤的
 
-**[10045.32s] English:** Мне кажется...  
+**[10045.32s] English:** It seems...  
 **Translation:** 
 
-**[10046.50s] English:** И без ИИ сегодня все слишком вылезло.  
+**[10046.50s] English:** Without AI, today everything has gone too far.  
 **Translation:** 
 
-**[10050.78s] English:** Фильмы стали стерильными.  
+**[10050.78s] English:** Films have become sterile.  
 **Translation:** 
 
-**[10053.52s] English:** Нет ничего странного, никто не идет на риск.  
-**Translation:** 
+**[10053.52s] English:** There is nothing strange, nobody goes for risk.  
+**Translation:** Vocabulary: sterile: 无生机
 
-**[10056.48s] English:** Все так тщательно выверено.  
+**[10056.48s] English:** All has been carefully planned.  
 **Translation:** 
 
-**[10059.50s] English:** Я почти перестал смотреть кино, а раньше обожал это.  
+**[10059.50s] English:** I almost stopped watching movies, but I used to love it.  
 **Translation:** 
 
-**[10063.92s] English:** Классно, когда люди идут на риск, когда фильмы грязные, настоящие.  
+**[10063.92s] English:** Classically, it's great when people go for the risk, when films are dirty and real.  
 **Translation:** 
 
-**[10069.78s] English:** Да, поэтому Голливуд и звездное кино теряют свою популярность.  
-**Translation:** 
+**[10069.78s] English:** Yes, therefore Hollywood and star cinema are losing their popularity.  
+**Translation:** Vocabulary: popularity: 受欢迎程度
 
-**[10075.90s] English:** Потому что...  
+**[10075.90s] English:** Because...  
 **Translation:** 
 
-**[10076.50s] English:** Я...  
+**[10076.50s] English:** I...  
 **Translation:** 
 
-**[10077.08s] English:** Я жду, когда кино переизобретут.  
+**[10077.08s] English:** I'm waiting for when they reinvent the movie.  
 **Translation:** 
 
-**[10079.90s] English:** А?  
+**[10079.90s] English:** Ah?  
 **Translation:** 
 
-**[10080.00s] English:** Я жду, когда кино переизобретут.  
+**[10080.00s] English:** I'm waiting for when they reinvent the movie.  
 **Translation:** 
 
-**[10080.00s] English:** О, я тоже.  
+**[10080.00s] English:** Oh, I do too.  
 **Translation:** 
 
-**[10080.78s] English:** Независимое кино.  
+**[10080.78s] English:** Independent Cinema.  
 **Translation:** 
 
-**[10081.92s] English:** Сырое, дерзкое, опасное.  
+**[10081.92s] English:** Raw, bold, dangerous.  
 **Translation:** 
 
-**[10083.82s] English:** Все актеры, которых мы любим, теперь в сериалах на стримингах.  
+**[10083.82s] English:** All of the actors we love are now in streaming series.  
 **Translation:** 
 
-**[10087.70s] English:** Будто все разошлись по домам.  
+**[10087.70s] English:** It seemed as though everyone had gone home.  
 **Translation:** 
 
-**[10089.68s] English:** Я недавно подумал, что скучаю по кино.  
+**[10089.68s] English:** I recently thought that I miss going to the movies.  
 **Translation:** 
 
-**[10092.48s] English:** Что с ними случилось?  
+**[10092.48s] English:** What happened to them?  
 **Translation:** 
 
-**[10094.44s] English:** Пересматриваю старые фильмы и думаю...  
+**[10094.44s] English:** Revising old movies and thinking...  
 **Translation:** 
 
-**[10098.72s] English:** А где все?  
+**[10098.72s] English:** Where is everyone?  
 **Translation:** 
 
-**[10100.90s] English:** Они чем заняты?  
+**[10100.90s] English:** What are they doing?  
 **Translation:** 
 
-**[10102.88s] English:** У всех теперь сериал на Хуэтфликсе или где-нибудь еще?  
-**Translation:** 
+**[10102.88s] English:** Is there a serial on Huetflix or somewhere else for everyone now?  
+**Translation:** Vocabulary: huetflix: 胡特flix; serial: 连续剧
 
-**[10107.08s] English:** Блядь.  
+**[10107.08s] English:** Fuck.  
 **Translation:** 
 
-**[10108.20s] English:** Все вернется.  
+**[10108.20s] English:** All will return.  
 **Translation:** 
 
-**[10109.32s] English:** Это грубое, опасное, дерзкое...  
+**[10109.32s] English:** This is rough, dangerous, bold,...  
 **Translation:** 
 
-**[10112.36s] English:** То, что мы описали, один в один сцена из «Общества мертвых поэтов».  
+**[10112.36s] English:** That, which we described, is one-for-one a scene from "The Society of Dead Poets.  
 **Translation:** 
 
-**[10115.98s] English:** Там Робин Уильямс заставляет открыть учебники по поэзии,  
+**[10115.98s] English:** There, Robin Williams forces them to open poetry books.  
 **Translation:** 
 
-**[10119.48s] English:** а на первой странице «Как определить хороший стих?»  
+**[10119.48s] English:** On the first page, "How to Determine a Good Poem?  
 **Translation:** 
 
-**[10122.60s] English:** И там целый график.  
+**[10122.60s] English:** There is a whole graph there.  
 **Translation:** 
 
-**[10124.82s] English:** По одной оси тема, по другой — точность описания.  
+**[10124.82s] English:** On one axis, the topic; on the other, the accuracy of description.  
 **Translation:** 
 
-**[10128.86s] English:** Мол, так можно определить хороший стих.  
+**[10128.86s] English:** Mol, such can define a good poem.  
 **Translation:** 
 
-**[10130.92s] English:** Он читает, а класс скучает.  
+**[10130.92s] English:** He reads, while the class is bored.  
 **Translation:** 
 
-**[10133.54s] English:** И он говорит, вырвите эту страницу.  
+**[10133.54s] English:** He says, tear out this page.  
 **Translation:** 
 
-**[10136.16s] English:** Они вырывают,  
+**[10136.16s] English:** They pull out,  
 **Translation:** 
 
-**[10137.06s] English:** а потом он заставляет их встать,  
+**[10137.06s] English:** Then he makes them stand up.  
 **Translation:** 
 
-**[10139.38s] English:** кричать, мычать, что-то описывать.  
+**[10139.38s] English:** To scream,低吟，描述omething.  
 **Translation:** 
 
-**[10142.42s] English:** Это ровно то, о чем мы сейчас говорим.  
+**[10142.42s] English:** This is exactly what we are talking about now.  
 **Translation:** 
 
-**[10144.80s] English:** Да, можно превратить искусство в график, если хочешь.  
+**[10144.80s] English:** Yes, you can turn art into a graph if you want.  
 **Translation:** 
 
-**[10147.92s] English:** Но на деле все куда неряшливее.  
+**[10147.92s] English:** But in reality, it's much messier.  
 **Translation:** 
 
-**[10150.74s] English:** Ага, да и сам Робин Уильямс —  
-**Translation:** 
+**[10150.74s] English:** Agreed, and Robin Williams himself—  
+**Translation:** Vocabulary: messier: 更混乱
 
-**[10153.24s] English:** идеальный пример сложного, красивого человека.  
+**[10153.24s] English:** An ideal example of a complex, beautiful person.  
 **Translation:** 
 
-**[10159.38s] English:** Я по нему скучаю.  
+**[10159.38s] English:** I miss him.  
 **Translation:** 
 
-**[10160.96s] English:** Каждый раз, когда мне попадаются старые видео с ним,  
+**[10160.96s] English:** Every time I come across old videos of him,  
 **Translation:** 
 
-**[10165.24s] English:** мне до сих пор трудно принять, что человек,  
+**[10165.24s] English:** It is still difficult for me to accept that a person,  
 **Translation:** 
 
-**[10169.32s] English:** у которого столько радости, этому миру,  
+**[10169.32s] English:** Of which there is so much joy, to this world,  
 **Translation:** 
 
-**[10172.72s] English:** мог покончить с собой.  
+**[10172.72s] English:** He might have committed suicide.  
 **Translation:** 
 
-**[10177.42s] English:** Это пугает.  
+**[10177.42s] English:** This is scary.  
 **Translation:** 
 
-**[10179.42s] English:** Меня пугает мой собственный разум.  
+**[10179.42s] English:** Me fears my own mind.  
 **Translation:** 
 
-**[10182.42s] English:** Знаешь?  
+**[10182.42s] English:** Do you know?  
 **Translation:** 
 
-**[10184.42s] English:** Человек не может быть на вершине мира.  
+**[10184.42s] English:** A person cannot be at the top of the world.  
 **Translation:** 
 
-**[10187.42s] English:** Да.  
+**[10187.42s] English:** Yes.  
 **Translation:** 
 
-**[10188.42s] English:** Да, у него была болезнь.  
+**[10188.42s] English:** Yes, he had a disease.  
 **Translation:** 
 
-**[10190.42s] English:** Да, я это понимаю.  
+**[10190.42s] English:** Yes, I understand that.  
 **Translation:** 
 
-**[10192.42s] English:** Чувак, жизнь — это американские горки.  
-**Translation:** 
+**[10192.42s] English:** Guy, life is like a roller coaster.  
+**Translation:** Vocabulary: roller: 过山车
 
-**[10196.42s] English:** И ты на них катаешься.  
+**[10196.42s] English:** And you skate on them.  
 **Translation:** 
 
-**[10198.42s] English:** Как бы не пугало мой собственный разум.  
-**Translation:** 
+**[10198.42s] English:** How terrifying it may be to my own mind.  
+**Translation:** Vocabulary: terrifying: 可怕的
 
-**[10200.00s] English:** Если что, можно свалиться в ту же яму, что и Робин Уильямс, я скажу.  
+**[10200.00s] English:** If needed, we could fall into the same hole that Robin Williams fell into, I'll say.  
 **Translation:** 
 
-**[10204.12s] English:** У моего очень близкого друга, Глеба, есть история.  
-**Translation:** 
+**[10204.12s] English:** Here is the improved sentence with natural English punctuation and capitalization: Keep the sentence structure: "My very close friend, Gleb, has a story.  
+**Translation:** Vocabulary: capitalization: 大写规则
 
-**[10207.44s] English:** В детстве он был в Нью-Йорке и увидел, как по улице идет Робин Уильямс.  
+**[10207.44s] English:** In childhood, he was in New York and saw Robin Williams walking down the street.  
 **Translation:** 
 
-**[10211.64s] English:** Он подошел и сказал, «О боже, вы же Робин Уильямс?»  
+**[10211.64s] English:** He approached and said, "Oh my God, you're Robin Williams?  
 **Translation:** 
 
-**[10215.24s] English:** Тот ответил, «Да».  
+**[10215.24s] English:** He replied, "Yes".  
 **Translation:** 
 
-**[10216.08s] English:** «Глеб, можно автограф?»  
+**[10216.08s] English:** Glеб, можно автограф?  
 **Translation:** 
 
-**[10217.72s] English:** «А, Робин, есть бумага?»  
+**[10217.72s] English:** Ah, Robin, is there any paper?  
 **Translation:** 
 
-**[10219.06s] English:** А он такой, «Нет, мне 11».  
+**[10219.06s] English:** He said, "No, I'm 11.  
 **Translation:** 
 
-**[10221.56s] English:** А Робин говорит, «Тогда сходи и возьми».  
+**[10221.56s] English:** Robin says, "Then go and get it.  
 **Translation:** 
 
-**[10224.26s] English:** Менеджер Робина стоял рядом и говорит,  
+**[10224.26s] English:** Manager Robin stood nearby and was saying,  
 **Translation:** 
 
-**[10226.10s] English:** «Робин, у нас нет времени, нам нужно идти».  
+**[10226.10s] English:** Robin, we don't have time; we need to go.  
 **Translation:** 
 
-**[10229.40s] English:** А тот, «Подожди».  
+**[10229.40s] English:** He said, "Wait a moment.  
 **Translation:** 
 
-**[10230.38s] English:** Я сказал ребенку, что дам автограф, он вернется.  
+**[10230.38s] English:** I said to the child that I would give an autograph, he will return.  
 **Translation:** 
 
-**[10233.32s] English:** Глеб слышит это и думает, «Пожалуйста, только не уходи, пожалуйста».  
-**Translation:** 
+**[10233.32s] English:** Gleb hears this and thinks, "Please, don't go, please.  
+**Translation:** Vocabulary: autograph: 签名
 
-**[10237.20s] English:** Как будто от этого зависела вся его жизнь.  
+**[10237.20s] English:** As if the fate of his entire life depended on it.  
 **Translation:** 
 
-**[10239.98s] English:** Он забежал в закусочную, схватил салфетку и выбежал обратно.  
-**Translation:** 
+**[10239.98s] English:** He dashed into the convenience store, grabbed a napkin, and ran back out.  
+**Translation:** Vocabulary: dashed: 奔跑
 
-**[10244.82s] English:** Прошло несколько минут, Робин Уильямс его ждал,  
+**[10244.82s] English:** Several minutes passed, Robin Williams was waiting for him.  
 **Translation:** 
 
-**[10247.18s] English:** а раздраженный менеджер его торопил.  
+**[10247.18s] English:** A frustrated manager was hurried him along.  
 **Translation:** 
 
-**[10249.16s] English:** «Ну пойдем, пойдем уже».  
+**[10249.16s] English:** Nu poydemy, poydemy uzi.  
 **Translation:** 
 
-**[10251.56s] English:** Робин дождался, подписал салфетку,  
+**[10251.56s] English:** Robin waited, signed the napkin,  
 **Translation:** 
 
-**[10255.78s] English:** улыбнулся и подмигнул ему.  
+**[10255.78s] English:** He smiled and winked at him.  
 **Translation:** 
 
-**[10259.40s] English:** «Да, чувак, ты можешь принести в мир столько радости, не забывай.  
-**Translation:** 
+**[10259.40s] English:** Yes, dude, you can bring so much joy to the world, don't forget.  
+**Translation:** Vocabulary: winked: 眨眼
 
-**[10264.82s] English:** Я такие моменты обожаю».  
+**[10264.82s] English:** I love moments like these.  
 **Translation:** 
 
-**[10266.90s] English:** Правда.  
+**[10266.90s] English:** True.  
 **Translation:** 
 
-**[10267.44s] English:** Это, кстати, еще одна потрясающая мысль Джейн,  
+**[10267.44s] English:** This, by the way, is another fantastic idea from Jane.  
 **Translation:** 
 
-**[10270.10s] English:** которую я не смогу точно воспроизвести.  
-**Translation:** 
+**[10270.10s] English:** Which I cannot exactly reproduce.  
+**Translation:** Vocabulary: cannot: 不能; reproduce: 复制
 
-**[10272.54s] English:** Ты не осознаешь, насколько важно то, что ты делаешь каждый день.  
+**[10272.54s] English:** You do not realize how important what you do every day is.  
 **Translation:** 
 
-**[10278.00s] English:** Даже если только для ближнего окружения.  
+**[10278.00s] English:** Even just for the nearby environment.  
 **Translation:** 
 
-**[10280.86s] English:** Для них-то и есть весь их жизненный опыт.  
+**[10280.86s] English:** For that is their entire life experience.  
 **Translation:** 
 
-**[10283.82s] English:** Если это твои дети, родители, партнер.  
+**[10283.82s] English:** If these are your children, parents, or partner.  
 **Translation:** 
 
-**[10288.32s] English:** Да.  
+**[10288.32s] English:** Yes.  
 **Translation:** 
 
-**[10289.40s] English:** Что ты делаешь, имеет значение.  
+**[10289.40s] English:** What you are doing matters.  
 **Translation:** 
 
-**[10291.54s] English:** И если ты можешь вложить чуть больше энергии, добавить немного магии,  
+**[10291.54s] English:** If you can invest a bit more energy and add a touch of magic,  
 **Translation:** 
 
-**[10295.50s] English:** придумать игру, прийти домой с чем-то неожиданным,  
+**[10295.50s] English:** Come up with a game, come home with something unexpected,  
 **Translation:** 
 
-**[10299.14s] English:** поиграть с детьми так, чтобы их удивить...  
+**[10299.14s] English:** To play with children in a way that surprises them,...  
 **Translation:** 
 
-**[10302.40s] English:** У меня есть один хороший друг, парень Винни.  
-**Translation:** 
+**[10302.40s] English:** I have one good friend, a guy named Winnie.  
+**Translation:** Vocabulary: winnie: 维尼熊
 
-**[10305.70s] English:** Я позвонил, спросил, что делаешь?  
+**[10305.70s] English:** I called and asked what you were doing?  
 **Translation:** 
 
-**[10307.46s] English:** А он говорит, у меня все распланировано.  
+**[10307.46s] English:** He says, "It's all planned out.  
 **Translation:** 
 
-**[10311.04s] English:** Сегодня ночью будет чистое небо.  
+**[10311.04s] English:** Today night will have a clear sky.  
 **Translation:** 
 
-**[10312.62s] English:** Я уложу детей спать, уложу дочку,  
+**[10312.62s] English:** I will put the children to bed, tuck in my daughter,  
 **Translation:** 
 
-**[10315.16s] English:** а потом разбужу ее среди ночи.  
+**[10315.16s] English:** Then I will wake her up in the middle of the night.  
 **Translation:** 
 
-**[10317.90s] English:** Возьму свечу и отведу ее к дому.  
+**[10317.90s] English:** I will take a candle and bring it to the house.  
 **Translation:** 
 
-**[10319.40s] English:** И я на крыше сплю.  
+**[10319.40s] English:** I sleep on the roof.  
 **Translation:** 
 
-**[10320.00s] English:** смотреть на звезды. Она никогда такого не видела. Но я хочу, чтобы она поспала. Помнишь,  
+**[10320.00s] English:** To look at the stars. She has never seen anything like it. But I want her to get some sleep. Do you remember?  
 **Translation:** 
 
-**[10325.04s] English:** как в детстве тебя будили? Он буквально создавал для нее волшебный опыт. Звезды, теплый чай,  
+**[10325.04s] English:** How did they wake you up as a child? He literally created a magical experience for her. Stars, warm tea,  
 **Translation:** 
 
-**[10333.68s] English:** все такое. Жизнь можно сделать прекрасной. Благодаря Джейн Гудл ты познакомился с ним.  
-**Translation:** 
+**[10333.68s] English:** All of it. Life can be made beautiful. Thanks to Jane Goodall, you got to know him.  
+**Translation:** Vocabulary: goodall: 珍·古道尔
 
-**[10341.10s] English:** Да. Ты всегда очень тепло о нем отзывался. Он подарил мне книгу, которую недавно написал,  
+**[10341.10s] English:** Yes. You always spoke very warmly about him. He gave me a book that he wrote recently,  
 **Translation:** 
 
-**[10348.24s] English:** Эхо Рая, с автографом. Да. Дакс, во-первых, спас мне жизнь, а во-вторых, он воплощение того,  
-**Translation:** 
+**[10348.24s] English:** Echo of Paradise, with an autograph. Yes. Dax, first, saved my life, and second, he embodies that,  
+**Translation:** Vocabulary: autograph: 签名; embodies: 体现; warmly: 亲切地
 
-**[10356.06s] English:** кем все хотят быть. Он построил крутую компанию, заработал огромное состояние и сказал,  
+**[10356.06s] English:** What everyone wants to be. He built a cool company, made a huge fortune, and said,  
 **Translation:** 
 
-**[10361.46s] English:** я использую его во благо. Он вложил много ресурсов, любви и усилий в помощь Амазонии и природе  
+**[10361.46s] English:** I use it for the benefit. He invested many resources, love, and effort in helping Amazonia and nature.  
 **Translation:** 
 
-**[10371.80s] English:** в целом. И он единственный известный мне человек, у кого борода сексуальнее твоей.  
+**[10371.80s] English:** In general. He is the only person I know whose beard is sexier than yours.  
 **Translation:** 
 
-**[10378.84s] English:** Да, тут он меня уделал. Он написал, спасибо тебе, брат, за твою любовь к дикой природе.  
-**Translation:** 
+**[10378.84s] English:** Yes, he beat me here. He wrote, thanks to you, brother, for your love of wild nature.  
+**Translation:** Vocabulary: sexier: 更性感
 
-**[10384.98s] English:** Эта книга о героях, которые сражаются за природу на передовой. Вместе мы сможем защитить последние  
+**[10384.98s] English:** This book is about heroes who fight for nature on the front lines. Together, we can protect what remains.  
 **Translation:** 
 
-**[10391.26s] English:** дикие места на Земле. На связи, Дакс. Он поддержал кучу инициатив. Ездил в Амазонию с Джейн,  
-**Translation:** 
+**[10391.26s] English:** Wild places on Earth. On air, Dax. He supported a bunch of initiatives. He went to the Amazon with Jane,  
+**Translation:** Vocabulary: initiatives: 行动计划
 
-**[10399.18s] English:** поддержал Джангл Кипперс, поддержал Си Шепард. Он задумался, какие экологические проекты  
+**[10399.18s] English:** Jangl Kippers supported, and so did Si Shepard. He pondered what ecological projects  
 **Translation:** 
 
-**[10405.22s] English:** приносят наибольшую пользу и куда он хочет направить свои инициативы.  
-**Translation:** 
+**[10405.22s] English:** Bringing the greatest benefit and where he wants to direct his initiatives.  
+**Translation:** Vocabulary: kippers: 鲱鱼; pondered: 思考; shepard: 谢帕德
 
-**[10408.24s] English:** Все постоянно ноют, почему богатые ничего не делают. А он взял и сделал. И сделал очень много.  
+**[10408.24s] English:** All constantly complain why the wealthy do nothing. And he took and did something. And he did a lot.  
 **Translation:** 
 
-**[10416.44s] English:** Он потом лично посетил все эти проекты. И морских черепах, и орангутанов в Индонезии. Работал  
-**Translation:** 
+**[10416.44s] English:** He then personally visited all these projects, including sea turtles and orangutans in Indonesia. He worked  
+**Translation:** Vocabulary: indonesia: 印度尼西亚; orangutans: 猩猩; wealthy: 富人
 
-**[10423.10s] English:** с Джейн. Эта книга своего рода отчет о состоянии природоохраняемой деятельности и глубокое  
+**[10423.10s] English:** With Jane. This book is, in a sense, a report on the state of conservation activities and goes deep into  
 **Translation:** 
 
-**[10429.62s] English:** понимание разных стратегий. Защищать яйца морских черепах совсем не то же самое, что спасать реку  
+**[10429.62s] English:** Understanding different strategies. Protecting sea turtle eggs is quite different from saving a river.  
 **Translation:** 
 
-**[10436.84s] English:** Амазонии.  
+**[10436.84s] English:** Amazonie.  
 **Translation:** 
 
-**[10438.24s] English:** Послание надежды на весь мир.  
+**[10438.24s] English:** Message of hope to the whole world.  
 **Translation:** 
 
-**[10440.00s] English:** Джейн. Есть парень, который пытается спасти конкретный регион, кажется, на Суматре. Это  
+**[10440.00s] English:** Jane. There's a guy trying to save a specific region, it seems on Sumatra. This  
 **Translation:** 
 
-**[10446.32s] English:** просто невероятно. Конго. Конго. Он нашел время, чтобы лично побывать во всех этих местах.  
-**Translation:** 
+**[10446.32s] English:** Simply incredible. Congo. Congo. He found time to personally visit all these places.  
+**Translation:** Vocabulary: congo: 刚果; sumatra: 苏门答腊岛
 
-**[10454.62s] English:** Ты все еще работаешь с ним? Да. Но вообще вот как все получилось. Единственный раз,  
+**[10454.62s] English:** You are still working with him? Yes. But basically, here's how it all happened. Only once,  
 **Translation:** 
 
-**[10461.92s] English:** когда я ушел из природоохраны, был примерно в начале ковида, я тогда разводился.  
+**[10461.92s] English:** When I left wildlife conservation, which was around the beginning of COVID, I was also going through a divorce.  
 **Translation:** 
 
-**[10470.80s] English:** Мне было 32, и у меня не было работы. У меня не было ничего. У мамы Джей-Джея был ковид. У Дона  
+**[10470.80s] English:** I was 32 and I didn't have a job. I didn't have anything. Jay-Jay's mom had COVID. Don,...  
 **Translation:** 
 
-**[10480.60s] English:** Игнасио был ковид. У Пика отваривалась нога. Все рушилось, никто никуда не мог поехать. Я  
-**Translation:** 
+**[10480.60s] English:** Ignacio was sick with COVID. Pica's foot was swelling. Everything was falling apart, and nobody could go anywhere. I  
+**Translation:** Vocabulary: ignacio: Ignacio生病了; swelling: 肿胀
 
-**[10486.60s] English:** позвонил Максину и сказал, я ухожу. Мы больше не вернемся в джунгли. Пришли лесорубы и начали  
+**[10486.60s] English:** Called Maxine and said I'm leaving. We're not going back to the jungles. The loggers have arrived and started  
 **Translation:** 
 
-**[10493.78s] English:** все сносить. У меня не было больше сил. Я был в абсолютно черной депрессии. Позвонил  
-**Translation:** 
+**[10493.78s] English:** All to demolish. I had no more strength. I was in absolutely black depression. Called,  
+**Translation:** Vocabulary: demolish: 摧毁; jungles: 丛林; loggers: 伐木工
 
-**[10499.98s] English:** ему и сказал, я пойду искать обычную работу. Наверное, я просто был каким-то Питером Пеном  
+**[10499.98s] English:** He said to me, I'll go find a regular job. Probably, I was just some sort of Peter Pan.  
 **Translation:** 
 
-**[10507.84s] English:** из джунглей. Пора взрослеть. Мне тогда было ужасно стыдно. Я четыре дня просто лежал в кровати,  
+**[10507.84s] English:** From the jungle. It was time to grow up. I was terribly ashamed then. I just lay in bed for four days,  
 **Translation:** 
 
-**[10516.74s] English:** не понимая, что делать. Это единственное, что я умею. И за пару месяцев до этого я говорил с Даксом,  
+**[10516.74s] English:** Not understanding what to do, this is the only thing I know. And a couple of months before this, I was talking to Dax.  
 **Translation:** 
 
-**[10525.12s] English:** рассказывал план по защите реки, по созданию команды рейнджеров. Он смотрел бюджет,  
-**Translation:** 
+**[10525.12s] English:** He told us about a plan to protect the river and creating a ranger team. He looked at the budget,  
+**Translation:** Vocabulary: ranger: 护林员
 
-**[10529.78s] English:** и таблицы, проверял, реально ли все. Он тогда формировал Age of Union. Через четыре дня после  
+**[10529.78s] English:** And he checked the tables to see if everything was real. He then formed Age of Union. Four days after,  
 **Translation:** 
 
-**[10536.86s] English:** того, как я ушел, звонит Дакс и говорит, слушай, я посмотрел бюджет и хочу финансировать Jungle  
+**[10536.86s] English:** After I left, Dax called and said, listen, I looked at the budget and want to finance Jungle.  
 **Translation:** 
 
-**[10542.32s] English:** Keepers 10 лет. Погнали. Он и не знал, что у меня там. Просто сказал, погнали. От такого резкого  
+**[10542.32s] English:** Keepers is 10 years old. Let's go. He didn't know what was there. He just said, "Let's go." From such a sudden  
 **Translation:** 
 
-**[10551.50s] English:** перехода от глубокого отчаяния к истинному вдохновению всего за один разговор можно  
-**Translation:** 
+**[10551.50s] English:** Transition from deep despair to genuine inspiration in just one conversation can  
+**Translation:** Vocabulary: keepers: 看守者
 
-**[10555.64s] English:** киссоную болезнь всхлопнуть. Да, и дело не только в деньгах. Тебя  
+**[10555.64s] English:** Cissonne disease? Popping blisters. Yes, and it's not just about money. You  
 **Translation:** 
 
-**[10559.64s] English:** же кто-то обманывает. Я не знаю, что ты думаешь. Я не знаю, что ты думаешь. Я не знаю, что ты думаешь.  
-**Translation:** 
+**[10559.64s] English:** It seems someone is lying. I don't know what you think. I don't know what you think. I don't know what you think.  
+**Translation:** Vocabulary: blisters: 水泡
 
-**[10560.00s] English:** Кто-то верит?  
+**[10560.00s] English:** Who believes?  
 **Translation:** 
 
-**[10560.86s] English:** Да, в том, что он верит в нас.  
+**[10560.86s] English:** Yes, in that he believes in us.  
 **Translation:** 
 
-**[10564.90s] English:** Деньги — это консервы, бензин, возможность купить обувь.  
+**[10564.90s] English:** Money is canned food, gasoline, the ability to buy shoes.  
 **Translation:** 
 
-**[10571.24s] English:** У нас раньше этого не было.  
-**Translation:** 
+**[10571.24s] English:** We didn't have this before.  
+**Translation:** Vocabulary: canned: 罐头; gasoline: 汽油
 
-**[10574.16s] English:** Мы жили в джунглях и видели, как разлагаются наши тела.  
+**[10574.16s] English:** We lived in the jungles and saw how our bodies decomposed.  
 **Translation:** 
 
-**[10577.58s] English:** А он сказал, «Я знаю, как управлять компанией.  
-**Translation:** 
+**[10577.58s] English:** He said, "I know how to manage a company.  
+**Translation:** Vocabulary: decomposed: 腐烂; jungles: 丛林
 
-**[10580.62s] English:** Я понимаю, что вам нужно для работы».  
+**[10580.62s] English:** I understand that you need something for work.  
 **Translation:** 
 
-**[10584.14s] English:** Он это сделал и остался с нами.  
+**[10584.14s] English:** He did it and stayed with us.  
 **Translation:** 
 
-**[10586.38s] English:** Он не так давно приезжал к нам, мы его возили, показывали там все.  
+**[10586.38s] English:** He hasn't been here for a while recently, we took him around and showed him everything.  
 **Translation:** 
 
-**[10593.02s] English:** И он сказал, «Я никогда не видел, чтобы люди...»  
+**[10593.02s] English:** He said, "I have never seen people...  
 **Translation:** 
 
-**[10596.10s] English:** Вначале он говорил, «Вы как стартап».  
+**[10596.10s] English:** At first, he said, "You're like a startup.  
 **Translation:** 
 
-**[10598.72s] English:** Полный хаос.  
+**[10598.72s] English:** Complete chaos.  
 **Translation:** 
 
-**[10599.74s] English:** Это было незадолго до прихода Стефаны.  
+**[10599.74s] English:** This was shortly before Stephanie's arrival.  
 **Translation:** 
 
-**[10603.02s] English:** А теперь он видит команды рейнджеров, лодки, которые ходят по реке.  
-**Translation:** 
+**[10603.02s] English:** Now he sees teams of rangers, boats that travel along the river.  
+**Translation:** Vocabulary: rangers: 巡林员队伍
 
-**[10607.50s] English:** У нас сложные системы, донорская программа, и все работает.  
+**[10607.50s] English:** We have complex systems, a donor program, and everything is working.  
 **Translation:** 
 
-**[10611.12s] English:** Мы реально двигаемся вперед, у нас годовые отчеты, данные.  
+**[10611.12s] English:** We are really moving forward, we have annual reports and data.  
 **Translation:** 
 
-**[10615.44s] English:** Он говорит, что...  
+**[10615.44s] English:** He says that...  
 **Translation:** 
 
-**[10616.38s] English:** Что существует такая штука, как усталость от пожертвований.  
-**Translation:** 
+**[10616.38s] English:** What exists is a thing called burnout from sacrifices.  
+**Translation:** Vocabulary: burnout: 职业倦怠
 
-**[10619.50s] English:** Люди донатят деньги и не понимают, куда они уходят.  
+**[10619.50s] English:** People donate money and do not understand where it goes.  
 **Translation:** 
 
-**[10622.30s] English:** А здесь они видят результат.  
-**Translation:** 
+**[10622.30s] English:** Here they see the results.  
+**Translation:** Vocabulary: donate: 捐款
 
-**[10624.82s] English:** Когда тебя поддерживает такой человек, как Дакс, это...  
+**[10624.82s] English:** When you have someone like Dax supporting you, it's...  
 **Translation:** 
 
-**[10628.18s] English:** Настоящее чудо.  
+**[10628.18s] English:** This is a true miracle.  
 **Translation:** 
 
-**[10630.92s] English:** В книге это прозвучит, как и многое в моей жизни, покажется плохим сценарным ходом.  
+**[10630.92s] English:** In the book, this will sound like, and much of my life seems to consist of, a bad plot twist.  
 **Translation:** 
 
-**[10636.00s] English:** Знаешь моменты в кино, когда герой лежит, и к его голове приставлен пистолет, и ты думаешь, ему конец.  
+**[10636.00s] English:** You know those moments in movies when the hero lies there and a gun is aimed at his head, and you think it's over for him.  
 **Translation:** 
 
-**[10641.50s] English:** А потом кто-то врывается и спасает его.  
+**[10641.50s] English:** Then someone bursts in and saves him.  
 **Translation:** 
 
-**[10643.36s] English:** Со мной так было часто.  
-**Translation:** 
+**[10643.36s] English:** With me, it happens often.  
+**Translation:** Vocabulary: bursts: 突然闯入
 
-**[10644.64s] English:** Похоже на плохую драматургию, но жизнь получается хорошей.  
+**[10644.64s] English:** It seems like bad drama, but life turns out to be good.  
 **Translation:** 
 
-**[10650.98s] English:** Раз уж ты снова упомянул Стефана, я забыл сказать, но один из самых счастливых моментов в моей жизни,  
-**Translation:** 
+**[10650.98s] English:** Since you mentioned Stefan again, I forgot to say, but one of the happiest moments in my life,  
+**Translation:** Vocabulary: stefan: 斯蒂芬
 
-**[10658.44s] English:** а их с тобой в джунглях было много,  
+**[10658.44s] English:** They had many adventures in the jungles with you.  
 **Translation:** 
 
-**[10662.32s] English:** это разговоры поздно ночью после айауаски, как ни странно.  
+**[10662.32s] English:** This is late-night talk after ayahuasca, strangely enough.  
 **Translation:** 
 
-**[10668.06s] English:** Мы болтали с тобой, Дэном и Стефаном, хихикали, говорили о жизни.  
+**[10668.06s] English:** We talked with you, Dan, and Stephen, laughed, and spoke about life.  
 **Translation:** 
 
-**[10672.60s] English:** Дэна, кстати, отдельно стоит.  
+**[10672.60s] English:** Dana, by the way, is separate.  
 **Translation:** 
 
-**[10674.64s] English:** Подпишитесь на него в инстаграм, lifewithden.  
+**[10674.64s] English:** Subscribe to him on Instagram, @lifewithden.  
 **Translation:** 
 
-**[10678.56s] English:** Он потрясающий фанат.  
-**Translation:** Vocabulary: lifewithden: 生活与丹尼
+**[10678.56s] English:** He is a fantastic fan.  
+**Translation:** Vocabulary: lifewithden: 生活中的丹; subscribe: 订阅
 
-**[10680.00s] English:** Фотограф дикой природы.  
+**[10680.00s] English:** Photograph of wild nature.  
 **Translation:** 
 
-**[10681.82s] English:** Я много его работ видел.  
+**[10681.82s] English:** I have seen many of his works.  
 **Translation:** 
 
-**[10683.76s] English:** Он с тобой часто работает.  
+**[10683.76s] English:** He works with you often.  
 **Translation:** 
 
-**[10685.06s] English:** В нем живет огромная любовь к природе, к дикой среде, к красоте.  
+**[10685.06s] English:** In him lives enormous love for nature, for the wild environment, for beauty.  
 **Translation:** 
 
-**[10690.90s] English:** И при этом он безумно хорошо снимает и идет с тобой до конца.  
+**[10690.90s] English:** And yet, he is incredibly good at it and goes all the way with you.  
 **Translation:** 
 
-**[10698.22s] English:** Он единственный, кто готов следовать за тобой в темноту с двумя огромными камерами наперебес.  
+**[10698.22s] English:** He is the only one who is willing to follow you into the darkness with two huge cameras hanging from his neck.  
 **Translation:** 
 
-**[10704.38s] English:** Да.  
+**[10704.38s] English:** Yes.  
 **Translation:** 
 
-**[10705.78s] English:** Во-первых, тот снимок, где я на дереве.  
+**[10705.78s] English:** First, the photo where I am in the tree.  
 **Translation:** 
 
-**[10708.50s] English:** Я рассказывал историю про Джей-Джея, как я залез на огромное дерево.  
+**[10708.50s] English:** I told a story about Jay-Jay, how I climbed that huge tree.  
 **Translation:** 
 
-**[10712.24s] English:** Так вот, вот это было уже много лет спустя, мы туда пошли вместе с Дэном.  
+**[10712.24s] English:** So this was already many years later when we went there with Dan.  
 **Translation:** 
 
-**[10717.16s] English:** Дэн запустил дрон, чтобы снять меня в кроне.  
+**[10717.16s] English:** Dan launched a drone to film me in the tree crown.  
 **Translation:** 
 
-**[10719.82s] English:** Но вообще, Дэн, очень хороший пример твоего вопроса.  
-**Translation:** 
+**[10719.82s] English:** But generally, Dan, this is a very good example of your question.  
+**Translation:** Vocabulary: drone: 无人驾驶飞行器
 
-**[10722.32s] English:** Что бы ты сказал детям?  
+**[10722.32s] English:** What would you say to children?  
 **Translation:** 
 
-**[10724.12s] English:** Дэн послушал наш с тобой первый подкаст,  
+**[10724.12s] English:** Dan listened to our first podcast together,  
 **Translation:** 
 
-**[10728.98s] English:** когда жил в Сингапуре, молодой киношник.  
+**[10728.98s] English:** When I lived in Singapore, a young filmmaker.  
 **Translation:** 
 
-**[10733.30s] English:** Он сам записался, просто взял и поехал на экспедицию.  
-**Translation:** 
+**[10733.30s] English:** He signed up for the expedition and simply went along.  
+**Translation:** Vocabulary: expedition: 考察; filmmaker: 电影制作人
 
-**[10736.74s] English:** Тамадуэ Экспедишн, с моей компанией, приехал, и, конечно же, у них сломалась лодка.  
+**[10736.74s] English:** Tamadue Expedition, with my company, arrived, and, of course, their boat broke down.  
 **Translation:** 
 
-**[10744.24s] English:** Я тогда был занят Jungle Keepers.  
-**Translation:** 
+**[10744.24s] English:** I was then busy with Jungle Keepers.  
+**Translation:** Vocabulary: keepers: 看守
 
-**[10745.94s] English:** Кто-то говорит, эй, у них лодка встала.  
+**[10745.94s] English:** Someone says, "Hey, their boat is stuck.  
 **Translation:** 
 
-**[10747.94s] English:** Мы приезжаем, я буксирую лодку, он подходит и говорит,  
-**Translation:** 
+**[10747.94s] English:** We arrive, I tow the boat, he approaches and says,  
+**Translation:** Vocabulary: approaches: 走近
 
-**[10750.94s] English:** я ваш поклонник, хотел поздороваться.  
+**[10750.94s] English:** I am your fan, wanted to say hello.  
 **Translation:** 
 
-**[10752.94s] English:** Я отвечаю, отлично, привет, давай вернем тебя на реку.  
+**[10752.94s] English:** I respond, "Great, hello, let's get you back on the river.  
 **Translation:** 
 
-**[10756.94s] English:** Потом кто-то подходит и говорит, знаешь, он очень хороший фотограф.  
+**[10756.94s] English:** Then someone approaches and says, "You know, he is a very good photographer.  
 **Translation:** 
 
-**[10760.94s] English:** А я такой, да сейчас все хорошие, супер, класс.  
+**[10760.94s] English:** I am such a good one now, everything is super, class, yeah.  
 **Translation:** 
 
-**[10764.94s] English:** У нас есть Стефан, Дэн.  
+**[10764.94s] English:** We have Stefan, Dan.  
 **Translation:** 
 
-**[10766.30s] English:** У нас есть Стефан и Максин, кто нам еще нужен?  
-**Translation:** 
+**[10766.30s] English:** Do we need anyone else besides Stefan and Maxin?  
+**Translation:** Vocabulary: stefan: 斯蒂凡
 
-**[10770.30s] English:** И тут человек, которому я доверяю, говорит, посмотри, его работает, он непрост.  
+**[10770.30s] English:** Here, the person I trust says, "Check it out, it works, and he's not ordinary.  
 **Translation:** 
 
-**[10775.30s] English:** Я посмотрел несколько его видео и подумал, черт возьми.  
+**[10775.30s] English:** I watched a few of his videos and thought, damn it.  
 **Translation:** 
 
-**[10779.30s] English:** Я говорю, ты бы не хотел приехать на пару недель поснимать?  
+**[10779.30s] English:** I say, would you not want to come for a couple of weeks to shoot?  
 **Translation:** 
 
-**[10783.30s] English:** Он был просто в шоке, да ну.  
+**[10783.30s] English:** He was simply shocked, come on.  
 **Translation:** 
 
-**[10786.30s] English:** Не может быть.  
+**[10786.30s] English:** It can't be.  
 **Translation:** 
 
-**[10789.30s] English:** А теперь мы братья, постоянно снимаем вместе.  
+**[10789.30s] English:** Now we are brothers, constantly filming together.  
 **Translation:** 
 
-**[10792.30s] English:** Он сам сделал так, чтобы оказаться в нужном месте,  
+**[10792.30s] English:** He himself made sure to be in the right place.  
 **Translation:** 
 
-**[10794.30s] English:** и при этом обладал сумасшедшим талантом.  
-**Translation:** 
+**[10794.30s] English:** And yet, he possessed a疯狂的 talent. Note: The word " сумасшедшим" (sumasheedyshim) translates to "crazy" or "mad," but in the context of talent, it's often used figuratively to mean "amazing" or "outstanding." For natural English, we might say "And yet, he possessed a疯狂的 talent." However, if you want to keep the exact meaning, it would be better to translate " сумасшедшим талантом" as "mad talent," but this is not common in English. Therefore, a more natural translation would be: "And yet, he possessed an amazing talent.  
+**Translation:** Vocabulary: possessed: 拥有; sumasheedyshim: 疯狂的; translates: 翻译
 
-**[10796.30s] English:** Он снимает, например, кадры полета белокрылой птицы,  
+**[10796.30s] English:** He, for example, films the flight of a white-winged bird.  
 **Translation:** 
 
-**[10800.00s] English:** водой, сидя в лодке с 800-миллиметровым объективом. Что же он творит? Я никогда не видел такого  
-**Translation:** 
+**[10800.00s] English:** Water, sitting in a boat with an 800-millimeter lens. What is he creating? I have never seen anything like it.  
+**Translation:** Vocabulary: millimeter: 毫米
 
-**[10810.36s] English:** таланта к съемке. Фотография дикой природы и документалистика в целом не только про техническое  
+**[10810.36s] English:** Talents for filming. Photography of wild nature and documentary in general are not only about technical skills.  
 **Translation:** 
 
-**[10817.68s] English:** умение сделать сложный кадр, она про терпение и дисциплину, умение просто сидеть и ждать. Когда  
-**Translation:** 
+**[10817.68s] English:** The ability to make a complex shot requires patience and discipline; it's about sitting and waiting. When  
+**Translation:** Vocabulary: discipline: 自律
 
-**[10828.60s] English:** мы были в джунглях, он ждал. Да. Посмотри вот на эту съемку, какой крутой кадр собакоголового  
+**[10828.60s] English:** We were in the jungles, and he was waiting. Yes. Take a look at this shot—what a cool shot of the dog-headed one.  
 **Translation:** 
 
-**[10836.22s] English:** удава. Он встал до рассвета, чтобы дождаться бокового света, потому что он представил,  
-**Translation:** 
+**[10836.22s] English:** Snake. He got up before dawn to wait for the side light because he envisioned,  
+**Translation:** Vocabulary: envisioned: 想象; jungles: 丛林
 
-**[10841.04s] English:** как свет будет падать на змею сбоку. А еще ара, вылетающее солнце. Сколько дней он сидел у  
+**[10841.04s] English:** How will the light fall on the snake from the side? And then there's Ara, the flying sun. How many days he sat by it.  
 **Translation:** 
 
-**[10847.92s] English:** глиняного салонца, пока не поймал шквал попугаев? Я сижу на дереве, а он говорит по рации. А еще  
-**Translation:** 
+**[10847.92s] English:** Does he catch a flock of parrots in a clay pot salon while I sit on the tree and talk on the radio? And even more,  
+**Translation:** Vocabulary: parrots: 鹦鹉
 
-**[10854.06s] English:** объективы запотевают, нужно быть готовым к сложному хайку, делать все, что делает.  
+**[10854.06s] English:** Objectives fog up; you need to be ready for a tricky haiku, doing whatever it takes.  
 **Translation:** 
 
-**[10858.60s] English:** Делают остальные, и при этом еще выполнять свою работу. Этот парень, просто. Ты притягиваешь  
-**Translation:** 
+**[10858.60s] English:** They do it, and at the same time, they still manage to fulfill their work duties. This guy, simply. You attract.  
+**Translation:** Vocabulary: fulfill: 完成; haiku: 短诗; objectives: 目标; tricky: 棘手的
 
-**[10865.14s] English:** удивительных людей, потому что миссия понятна, и во всем этом бьет ключом энергия и жизнь,  
+**[10865.14s] English:** Surprising people because the mission is clear, and there is a palpable energy and life in all of this.  
 **Translation:** 
 
-**[10873.02s] English:** это захватывает. Поэтому лучшие приходят работать с тобой и быть рядом. У нас крутая команда.  
-**Translation:** 
+**[10873.02s] English:** This is exciting. Therefore, the best ones come to work with you and be nearby. We have a great team.  
+**Translation:** Vocabulary: palpable: 可以感知的
 
-**[10879.64s] English:** Иногда я думаю, как вообще так вышло? Но все становится сложнее и опаснее. Должен спросить,  
+**[10879.64s] English:** Sometimes I wonder how it all ended up this way? But things are getting more complicated and dangerous. I should ask myself,  
 **Translation:** 
 
-**[10888.60s] English:** хоть мы это и обсуждали уже? Что думаешь делать, когда станешь старше? Все это сложная работа. Где ты  
+**[10888.60s] English:** Have we discussed this already? What do you think you'll do when you get older? All of this is complex work. Where are you?  
 **Translation:** 
 
-**[10895.98s] English:** видишь себя через много лет? Я хочу защищать эту реку. Мы должны защитить ее в ближайшие полтора  
+**[10895.98s] English:** Do you see yourself in many years? I want to protect this river. We should protect it in the next one and a half years.  
 **Translation:** 
 
-**[10903.76s] English:** года, иначе упустим свой шанс. Либо я, в первой книге я приехал в Амазонию, она была дикой. Во второй  
-**Translation:** 
+**[10903.76s] English:** Goda, and otherwise we'll miss our chance. Either way, in the first book I arrived in Amazonia; it was wild. In the second,  
+**Translation:** Vocabulary: amazonia: 亚马逊丛林
 
-**[10911.46s] English:** мы построили прекрасную организацию и подошли к цели так близко. Все может случиться как в фильмах,  
+**[10911.46s] English:** We have built a wonderful organization and are so close to our goal. Everything can happen like in movies.  
 **Translation:** 
 
-**[10916.40s] English:** как в кокаине. Какое-то время все было прекрасно.  
-**Translation:** 
+**[10916.40s] English:** Like in cocaine. For some time everything was wonderful.  
+**Translation:** Vocabulary: cocaine: 兴奋剂
 
-**[10918.60s] English:** Прекрасно, а потом?  
+**[10918.60s] English:** Perfect, and then what?  
 **Translation:** 
 
-**[10920.00s] English:** Отличный фильм.  
+**[10920.00s] English:** Great film.  
 **Translation:** 
 
-**[10921.44s] English:** Отличный фильм.  
+**[10921.44s] English:** Great film.  
 **Translation:** 
 
-**[10922.94s] English:** Но я пишу эту историю по ходу дела,  
+**[10922.94s] English:** But I am writing this story as it happens,  
 **Translation:** 
 
-**[10925.12s] English:** а Энн Шпиль, возможно, напишет и кто-то другой.  
+**[10925.12s] English:** Anne Spilley, possibly, and someone else will write as well.  
 **Translation:** 
 
-**[10931.48s] English:** Или мы просто подошли очень близко, и все развалилось.  
+**[10931.48s] English:** Or we just got very close, and everything fell apart.  
 **Translation:** 
 
-**[10935.00s] English:** Но сейчас у нас уже 52 тысячи гектаров.  
+**[10935.00s] English:** But now we already have 52 thousand hectares.  
 **Translation:** 
 
-**[10939.30s] English:** Если дойдем до 120 тысяч, я думаю, даже так, я уверен,  
-**Translation:** 
+**[10939.30s] English:** If we reach 120 thousand, I think even then, I am sure,  
+**Translation:** Vocabulary: hectares: 公顷
 
-**[10942.84s] English:** что уже достаточно людей узнают об этом, и пойдет волна.  
+**[10942.84s] English:** What is already sufficient for many people to have become aware of this, and a wave will follow.  
 **Translation:** 
 
-**[10945.86s] English:** И мы снимем прекрасный документальный фильм о том,  
+**[10945.86s] English:** And we will shoot a beautiful documentary film about that,  
 **Translation:** 
 
-**[10950.42s] English:** как защитили самое дикое место на Земле.  
+**[10950.42s] English:** How they protected the most remote place on Earth.  
 **Translation:** 
 
-**[10952.54s] English:** А потом я бы хотел завести детей, получить докторскую степень,  
+**[10952.54s] English:** Then I would like to have children and obtain a doctoral degree.  
 **Translation:** 
 
-**[10957.38s] English:** учить других охранять природу по всему миру и спасать дикие места.  
+**[10957.38s] English:** Teach others to protect nature around the world and save wild places.  
 **Translation:** 
 
-**[10962.70s] English:** Продолжать вдохновлять людей, писать книги и ездить в экспедиции.  
-**Translation:** 
+**[10962.70s] English:** Continue inspiring people, writing books, and going on expeditions.  
+**Translation:** Vocabulary: expeditions: 考察之旅
 
-**[10967.38s] English:** Вот этого я и хочу.  
+**[10967.38s] English:** Here's what I want.  
 **Translation:** 
 
-**[10968.90s] English:** Конкретно этим заниматься я долго не смогу.  
+**[10968.90s] English:** Specifically, I won't be able to do this for long.  
 **Translation:** 
 
-**[10973.20s] English:** Я уже истратил запас выдержки.  
+**[10973.20s] English:** I have already exhausted my supply of patience.  
 **Translation:** 
 
-**[10975.86s] English:** Переживая, что получится у нас или нет,  
-**Translation:** 
+**[10975.86s] English:** Pondering whether it will work out or not,  
+**Translation:** Vocabulary: pondering: 思考
 
-**[10980.10s] English:** приведу параллель с ластелином колец.  
+**[10980.10s] English:** Let me draw a parallel with the rings of Saturn.  
 **Translation:** 
 
-**[10981.94s] English:** Нельзя постоянно нести кольцо.  
-**Translation:** 
+**[10981.94s] English:** Cannot constantly carry the ring.  
+**Translation:** Vocabulary: cannot: 不能; parallel: 类比; saturn: 土星
 
-**[10984.14s] English:** Я очень жду, что...  
+**[10984.14s] English:** I very much look forward to what...  
 **Translation:** 
 
-**[10986.36s] English:** Нужно знать, что все в безопасности.  
+**[10986.36s] English:** We need to know that everyone is safe.  
 **Translation:** 
 
-**[10988.84s] English:** Та обезьяна, которую я вытащил из реки,  
+**[10988.84s] English:** The monkey that I pulled out of the river,  
 **Translation:** 
 
-**[10992.74s] English:** тукан Лукас, который прилетел к нам в гости,  
+**[10992.74s] English:** Tucan Lucas, who flew to visit us as a guest,  
 **Translation:** 
 
-**[10997.32s] English:** гигантский муравьед, которого мы недавно видели с Даксом.  
+**[10997.32s] English:** Giant anteater, which we saw recently with Dax.  
 **Translation:** 
 
-**[11002.42s] English:** Я знаю этих животных, и я ответственен за их дом.  
-**Translation:** 
+**[11002.42s] English:** I know these animals, and I am responsible for their home.  
+**Translation:** Vocabulary: anteater: 蚁驼
 
-**[11005.86s] English:** Было бы круто привезти людей в домик на дереве,  
+**[11005.86s] English:** It would be cool to bring people to a treehouse.  
 **Translation:** 
 
-**[11008.36s] English:** показать им это место, выпускать документальные фильмы.  
-**Translation:** 
+**[11008.36s] English:** Show them this place, making documentary films.  
+**Translation:** Vocabulary: treehouse: 树屋
 
-**[11011.24s] English:** Я легко представляю переходный период.  
+**[11011.24s] English:** I easily imagine the transitional period.  
 **Translation:** 
 
-**[11015.24s] English:** Я бы хотел перейти от режима кровавых халманов  
-**Translation:** 
+**[11015.24s] English:** I would like to move from the era of bloody tyrants.  
+**Translation:** Vocabulary: bloody: 流血的; transitional: 过渡的; tyrants: 暴君
 
-**[11020.24s] English:** в более профессорскую роль.  
+**[11020.24s] English:** In a more professorial role.  
 **Translation:** 
 
-**[11025.24s] English:** Профессор типа Индианы Джонсон?  
-**Translation:** 
+**[11025.24s] English:** Professor like Indiana Johnson?  
+**Translation:** Vocabulary: professorial: 教授般的
 
-**[11028.24s] English:** Да.  
+**[11028.24s] English:** Yes.  
 **Translation:** 
 
-**[11029.24s] English:** Убегать от племен.  
-**Translation:** 
+**[11029.24s] English:** To flee from tribes.  
+**Translation:** Vocabulary: tribes: 部落
 
-**[11032.24s] English:** Главное, без сверхъестественной фигни в конце.  
+**[11032.24s] English:** The main thing is, no supernatural nonsense at the end.  
 **Translation:** 
 
-**[11035.86s] English:** Это навсегда меня разочаровывало.  
-**Translation:** 
+**[11035.86s] English:** This forever disappointed me.  
+**Translation:** Vocabulary: supernatural: 超自然的
 
-**[11038.36s] English:** Ну, спасибо.  
+**[11038.36s] English:** Nu, thanks.  
 **Translation:** 
 
-**[11040.00s] English:** Спасибо тебе за то, что ты отдаешь этой миссии буквально всего себя.  
+**[11040.00s] English:** Thank you for giving this mission literally everything you have.  
 **Translation:** 
 
-**[11046.66s] English:** И спасибо за то, какой ты есть.  
+**[11046.66s] English:** Thank you for being who you are.  
 **Translation:** 
 
-**[11051.22s] English:** Для меня честь называть тебя другом и общаться с тобой, брат.  
+**[11051.22s] English:** For me, it is an honor to call you my friend and to communicate with you, brother.  
 **Translation:** 
 
-**[11056.96s] English:** Это наш третий подкаст.  
+**[11056.96s] English:** This is our third podcast.  
 **Translation:** 
 
-**[11058.84s] English:** Думаю, их будет еще минимум десять.  
+**[11058.84s] English:** I think there will be at least ten.  
 **Translation:** 
 
-**[11061.72s] English:** От лица многих я хочу сказать тебе спасибо.  
+**[11061.72s] English:** On behalf of many, I want to say thank you to you.  
 **Translation:** 
 
-**[11064.48s] English:** И, пожалуйста, не умри, пытаясь спасти дождевой лес.  
-**Translation:** 
+**[11064.48s] English:** Please, don't die trying to save the rainforest.  
+**Translation:** Vocabulary: rainforest: 热带雨林
 
-**[11070.00s] English:** Я хочу сказать спасибо тебе,  
+**[11070.00s] English:** I want to say thanks to you,  
 **Translation:** 
 
-**[11073.52s] English:** потому что наш первый разговор изменил все.  
+**[11073.52s] English:** Because our first conversation changed everything.  
 **Translation:** 
 
-**[11078.44s] English:** Это правда.  
+**[11078.44s] English:** This is true.  
 **Translation:** 
 
-**[11079.26s] English:** Он привлек внимание огромного количества людей к нашей миссии.  
+**[11079.26s] English:** He drew the attention of a huge number of people to our mission.  
 **Translation:** 
 
-**[11085.22s] English:** Этот разговор очень поддержал меня, потому что это тяжелая ноша, и мы все это признаем.  
+**[11085.22s] English:** This conversation really supported me because it's a heavy burden, and we all recognize that.  
 **Translation:** 
 
-**[11092.32s] English:** Я часто теряю надежду.  
-**Translation:** 
+**[11092.32s] English:** I often lose hope.  
+**Translation:** Vocabulary: burden: 负担
 
-**[11094.52s] English:** А потом случаются вот такие моменты, когда человек,  
+**[11094.52s] English:** Then there are moments when a person,  
 **Translation:** 
 
-**[11098.62s] English:** которым я восхищаюсь,  
+**[11098.62s] English:** Which I admire,  
 **Translation:** 
 
-**[11100.00s] English:** и которого очень уважаю, пишет мне и говорит,  
+**[11100.00s] English:** And whom I respect very much writes to me and says,  
 **Translation:** 
 
-**[11102.64s] English:** «Хочешь прилететь в Осин на мой подкаст?»  
+**[11102.64s] English:** Would you like to come on my podcast in Osin?  
 **Translation:** 
 
-**[11105.84s] English:** И я отвечаю, «На подкаст Лекса, блядь, Фридмана?»  
+**[11105.84s] English:** Keep the same transcript segment with proper punctuation and capitalization: "I answer, 'On Lex Fridman's podcast, you fucking idiot?  
 **Translation:** 
 
-**[11109.70s] English:** Ты поменял нашу траекторию и позволил всему этому свершиться.  
-**Translation:** 
+**[11109.70s] English:** You changed our trajectory and allowed all of this to happen.  
+**Translation:** Vocabulary: capitalization: 标点符号; segment: 片段; trajectory: 轨迹; transcript: 录音文本
 
-**[11118.56s] English:** Друзья, оформляйте предзаказ на книгу «Хранитель джунглей».  
+**[11118.56s] English:** Friends, order the pre-release of the book "Keeper of the Jungle.  
 **Translation:** 
 
-**[11124.10s] English:** Она доступна везде.  
-**Translation:** 
+**[11124.10s] English:** She is available everywhere.  
+**Translation:** Vocabulary: keeper: 看守
 
-**[11125.22s] English:** Если можете, поддержите junglekeepers.org финансово.  
+**[11125.22s] English:** If you can, support junglekeepers.org financially.  
 **Translation:** 
-
-**[11130.00s] English:** Это важная миссия, крайне компетентная команда  
-**Translation:** Vocabulary: junglekeepers: 丛林守护者
 
-**[11133.70s] English:** и удивительно красивое место, которое, я очень надеюсь, мы сохраним.  
+**[11130.00s] English:** This is an important mission, a highly competent team.  
 **Translation:** 
 
-**[11141.40s] English:** Спасибо за разговор.  
+**[11133.70s] English:** And an incredibly beautiful place, which I very hope we will preserve.  
 **Translation:** 
 
-**[11142.90s] English:** А теперь пойдем поедим.  
+**[11141.40s] English:** Thank you for the conversation.  
 **Translation:** 
 
-**[11144.90s] English:** Спасибо, брат.  
+**[11142.90s] English:** Now let's go and eat.  
 **Translation:** 
 
-**[11147.40s] English:** Спасибо, что послушали разговор с Полом Розелли.  
+**[11144.90s] English:** Thanks, brother.  
 **Translation:** 
 
-**[11149.90s] English:** Чтобы поддержать подкаст, загляните к спонсорам в описании.  
+**[11147.40s] English:** Thank you for listening to the conversation with Paul Roselli.  
 **Translation:** 
 
-**[11152.90s] English:** Там же вы найдете мои контакты, если хотите задать вопрос или поделиться мнением.  
-**Translation:** 
+**[11149.90s] English:** To support the podcast, check out the sponsors in the description.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[11159.20s] English:** Позвольте.  
+**[11152.90s] English:** There you will also find my contacts if you want to ask a question or share your opinion.  
 **Translation:** 
 
-**[11159.70s] English:** Позвольте.  
+**[11159.20s] English:** Please.  
 **Translation:** 
 
-**[11160.00s] English:** еще раз сказать спасибо за поддержку за любовь и за то что послушали до встречи в следующий раз  
+**[11159.70s] English:** Please.  
 **Translation:** 
+
+**[11160.00s] English:** To reiterate, thank you for the support, love, and for listening. See you next time.  
+**Translation:** Vocabulary: reiterate: 重复说明
 
 
 <!-- TRANSCRIPTION_COMPLETE -->

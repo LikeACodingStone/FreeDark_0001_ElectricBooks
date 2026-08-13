@@ -1,5638 +1,5639 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths ｜ Lex Fridman Podcast #487.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** Это разговор с Ирвингом Финкелем, ученым, изучающим древние языки, более 45 лет являющимся куратором Британского музея и весьма уважаемым и почитаемым экспертом по клинописи.  
+**[0.00s] English:** This is a conversation with Irving Finkel, a scientist studying ancient languages, who has been the curator of the British Museum for more than 45 years and is a highly respected and revered expert in cuneiform.  
 **Translation:** 
 
-**[14.80s] English:** Говоря шире, он эксперт по древним языкам, шумерскому, агатскому и вавилонскому, а также по древним настольным играм, месопотамской магии, медицине, литературе и культуре.  
-**Translation:** 
+**[14.80s] English:** Speaking more broadly, he is an expert in ancient languages such as Sumerian, Akkadian, and Babylonian, as well as in ancient board games, Mesopotamian magic, medicine, literature, and culture.  
+**Translation:** Vocabulary: akkadian: 阿卡德语; babylonian: 巴比伦语; broadly: 广泛地; cuneiform: 楔形文字; curator: 馆长; mesopotamian: 美索不达米亚的; respected: 尊敬的; revered: 崇敬的
 
-**[27.80s] English:** Также стоит упомянуть, что и в эфире, и вне его, Ирвинг был невероятно добрым и интересным собеседником.  
+**[27.80s] English:** Also worth mentioning is that Irving was incredibly kind and interesting as both an on-air and off-air interlocutor.  
 **Translation:** 
 
-**[35.78s] English:** Он заражает энтузиазмом к древней истории, которую я, конечно, уже любил, но теперь влюбился еще сильнее.  
-**Translation:** 
+**[35.78s] English:** He infects me with a passion for ancient history, which I, of course, already loved but am now infatuated with even more.  
+**Translation:** Vocabulary: infatuated: 迷恋; infects: 感染; interlocutor: 对话者
 
-**[43.10s] English:** Это подкаст Лекса Фридмана. Для поддержки ознакомьтесь со спонсорами в описании.  
+**[43.10s] English:** This is the Lex Fridman Podcast. For support, check out the sponsors in the description.  
 **Translation:** 
 
-**[48.32s] English:** Там же есть ссылки, чтобы связаться со мной, задать вопросы и дать мне обратную связь.  
-**Translation:** 
+**[48.32s] English:** There are also links there to contact me, ask questions, and give me feedback.  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[53.58s] English:** А теперь, дорогие друзья, Ирвинг Финкель.  
+**[53.58s] English:** Now, dear friends, Irving Finkelman.  
 **Translation:** 
 
-**[57.80s] English:** Где и когда в истории цивилизации возникла письменность? Давай вернемся на пару тысяч лет назад.  
+**[57.80s] English:** Where and when in the history of civilization did writing arise? Let's go back a few thousand years.  
 **Translation:** 
 
-**[65.22s] English:** Первые попытки письменности, которые мы могли бы назвать письменностью, восходят к середине четвертого тысячелетия, что-то около 3500 года до нашей эры.  
+**[65.22s] English:** The first writing systems, which we could call writing, date back to the middle of the fourth millennium, around 3500 BCE.  
 **Translation:** 
 
-**[75.68s] English:** На Ближнем Востоке были люди, которые проживали между реками Ефрат и Тигр. Они использовали глину как материал для строительства и прочих целей, и в итоге как основу для письма.  
-**Translation:** 
+**[75.68s] English:** In the Middle East, there were people who lived between the Euphrates and Tigris rivers. They used clay as a material for construction and other purposes, and eventually as a basis for writing.  
+**Translation:** Vocabulary: euphrates: 幼发拉底河; millennium: 千年; tigris: 底格里斯河
 
-**[87.80s] English:** Они развили идею основы письменности, то есть начертания общепринятых знаков на поверхности, чтобы другой человек, введя их, знал, какой звук они порождают.  
+**[87.80s] English:** They developed the idea of writing, that is, the creation of generally accepted signs on a surface, so that another person, by introducing them, would know which sound they produce.  
 **Translation:** 
 
-**[100.86s] English:** В этом вся суть письма.  
+**[100.86s] English:** This is the essence of the letter.  
 **Translation:** 
 
-**[102.92s] English:** Существование согласованной системы символов, которую А может использовать, а Б может затем воспроизвести, либо в голове, либо буквально голосом, и это похоже на грамм пластинку.  
+**[102.92s] English:** Existence of a coordinated system of symbols, which A can use and B can then reproduce either mentally or literally as voice, is like a gramophone record.  
 **Translation:** 
 
-**[114.08s] English:** Вопрос о том, когда появилась письменность, для нас ужасно.  
-**Translation:** 
+**[114.08s] English:** The question of when writing appeared is horrific for us.  
+**Translation:** Vocabulary: coordinated: 协调的; gramophone: 留声机; horrific: 可怕的; reproduce: 复制
 
-**[117.80s] English:** Ужасно неудобный.  
+**[117.80s] English:** Horribly uncomfortable.  
 **Translation:** 
 
-**[119.42s] English:** Правда в том, что...  
-**Translation:** 
+**[119.42s] English:** The truth is that...  
+**Translation:** Vocabulary: horribly: 极其不适
 
-**[120.00s] English:** что мы понятия не имеем, когда что-либо появилось. Все, что мы можем сказать, это что самое старое  
+**[120.00s] English:** What we have no idea about is when something appeared. All we can say is that the oldest  
 **Translation:** 
 
-**[126.14s] English:** свидетельство, которое у нас есть, около 3500 года до нашей эры. Но было ли это близко к тому  
-**Translation:** 
+**[126.14s] English:** The certificate we have is around 3500 B.C., but was it close to that time?  
+**Translation:** Vocabulary: certificate: 证明文件
 
-**[134.80s] English:** времени, когда письменность зародилась, мне кажется, очень-очень маловероятным. Но получается,  
+**[134.80s] English:** It seems very unlikely to me that writing emerged during a time when there was no writing at all. But it turns out,  
 **Translation:** 
 
-**[141.80s] English:** что около 3500 года месопотамцы начали писать. Они придумали знаки, которые все понимали и могли  
-**Translation:** 
+**[141.80s] English:** What is around 3,500 BCE, Mesopotamians began writing. They invented signs that everyone understood and could use.  
+**Translation:** Vocabulary: mesopotamians: 美索不达米亚人
 
-**[148.92s] English:** писать простые пиктографические сообщения. Ступня — это ступня, нога — это нога, а ячмень — это  
+**[148.92s] English:** Write simple pictographic messages. The foot is a foot, the leg is a leg, and the grain is grain.  
 **Translation:** 
 
-**[156.14s] English:** ячмень. А затем, очень-очень постепенно, у них родилась идея, как обозначать цифры, а затем они  
-**Translation:** 
+**[156.14s] English:** Ячмень. А затем, очень-очень постепенно, у них родилась идея, как обозначать цифры, а затем они.  
+**Translation:** Vocabulary: pictographic: 象形的
 
-**[162.14s] English:** поняли, что картинки также могут обозначать знаки. И как только у них появилась мысль, что можно  
+**[162.14s] English:** They understood that pictures could also represent signs. And as soon as they had the idea that it was possible,  
 **Translation:** 
 
-**[167.58s] English:** обозначать звуки картинками, вот это решающая вещь, что картинка ноги означала не только ногу,  
+**[167.58s] English:** To represent sounds with pictures, this is the key point; a picture of a foot meant not just a foot.  
 **Translation:** 
 
-**[174.08s] English:** но и звук слова для ноги. Как это случилось?  
+**[174.08s] English:** But also the sound of the word for foot. How did this happen?  
 **Translation:** 
 
-**[178.92s] English:** Которым, вероятно, очень-очень изобретательным и умным людям пришло своего рода озарение. Они  
-**Translation:** 
+**[178.92s] English:** To which, apparently, very ingenious and smart people had a sort of epiphany. They  
+**Translation:** Vocabulary: epiphany: 顿悟; ingenious: 聪明
 
-**[184.26s] English:** поняли, что они могут развить целую композицию знаков, которые будут передавать звук. И на этой  
+**[184.26s] English:** They realized that they could develop an entire composition of signs that would convey sound. And on this  
 **Translation:** 
 
-**[193.06s] English:** стадии ты, наконец-то, освобожден от пиктографического письма. И теперь ты можешь записывать  
+**[193.06s] English:** At last, you are free from pictographic writing. Now you can record  
 **Translation:** 
 
-**[200.18s] English:** язык, язык, грамматику и все остальное. А вскоре были записаны и пословицы, и литература, и все  
+**[200.18s] English:** Language, language, grammar and everything else. Soon proverbs, literature, and all were recorded.  
 **Translation:** 
 
-**[208.92s] English:** остальное. Когда бы не был сделан этот шаг, он был огромен, но мы понятия не имеем, когда его сделали  
-**Translation:** 
+**[208.92s] English:** The rest. No matter when this step was taken, it was enormous, but we have no idea when it was done.  
+**Translation:** Vocabulary: proverbs: 谚语
 
-**[214.86s] English:** впервые. Но первое свидетельство, которое есть, представляет собой более-менее ясную картину.  
+**[214.86s] English:** For the first time. But the first piece of evidence we have presents a fairly clear picture.  
 **Translation:** 
 
-**[220.20s] English:** Письменность была простая, затем стала сложнее, а потом великолепной. Благодаря этим знакам,  
+**[220.20s] English:** Writing was simple at first, then became more complex, and eventually magnificent. Thanks to these signs,  
 **Translation:** 
 
-**[226.20s] English:** свободно владеющий ими и хорошо обученный писец мог записать не только шумерский язык,  
+**[226.20s] English:** A scribe who was freely proficient in them could record not only the Sumerian language,  
 **Translation:** 
 
-**[231.72s] English:** один из основных языков Ирака, или вавилонский язык, основной второй язык, ну и любой другой  
-**Translation:** 
+**[231.72s] English:** One of the main languages of Iraq, or Babylonian, is the primary second language, and any other.  
+**Translation:** Vocabulary: babylonian: 巴比伦的; proficient: 熟练的; scribe: 书记员
 
-**[238.92s] English:** язык. Который он, по крайней мере, не знал и не понимал, что это такое. Он не знал, что это такое,  
+**[238.92s] English:** Language, which he at least did not know and understand what it was. He did not know what it was.  
 **Translation:** 
 
-**[240.00s] English:** услышит. Так что если бы он встретил кого-то раньше времени, говорящего по-французски вслух,  
-**Translation:** 
+**[240.00s] English:** He would have heard it. So if he had encountered someone speaking French aloud earlier than expected,  
+**Translation:** Vocabulary: encountered: 遇见
 
-**[247.00s] English:** он мог бы записать этими знаками звук французского. У нас есть примеры забавных языков бронзового  
+**[247.00s] English:** He could record the sounds of French with these signs. We have examples of amusing Bronze Age languages.  
 **Translation:** 
 
-**[254.00s] English:** века, которые были записаны клинописью чисто на слух. Часто писцы, которые записывали под диктовку  
-**Translation:** 
+**[254.00s] English:** Of those from earlier centuries, which were written in cuneiform purely by ear. Often, scribes who recorded dictation  
+**Translation:** Vocabulary: cuneiform: 楔形文字; dictation: 口述记录; scribes: 抄写员
 
-**[260.86s] English:** или еще как-то писали то, что они сами не могли понять, но кто-то другой прочитать мог. Эта  
+**[260.86s] English:** Or they wrote something that they themselves couldn't understand, but someone else could read it. This  
 **Translation:** 
 
-**[268.22s] English:** система появилась задолго до алфавита, когда алфавит еще даже не снился. Это была сложная,  
+**[268.22s] English:** System appeared long before the alphabet, when the alphabet hadn't even dreamt of existing. It was a complex,  
 **Translation:** 
 
-**[274.98s] English:** сбивающая с толку, отталкивающая система письма, но на деле она была очень красивой, гибкой,  
+**[274.98s] English:** Confusing and off-putting, but in reality it was very beautiful and flexible.  
 **Translation:** 
 
-**[280.58s] English:** и просуществовала более трех тысячелетий, а то ближе и к четырем тысячелетиям. И алфавиту,  
-**Translation:** 
+**[280.58s] English:** And it existed for more than three thousand years, or closer to four millennia. And the alphabet,  
+**Translation:** Vocabulary: flexible: 有弹性的; millennia: 千年
 
-**[286.14s] English:** который, как сказал бы, был полезнее и разумнее, потребовалось много времени, чтобы ее вытеснить.  
+**[286.14s] English:** Which, as they say, was more useful and reasonable, took a long time to displace her.  
 **Translation:** 
 
-**[291.46s] English:** Это одна из основных стадий человеческого интеллекта, потому что довольно скоро после  
-**Translation:** 
+**[291.46s] English:** This is one of the main stages of human intelligence because quite soon after  
+**Translation:** Vocabulary: displace: 取代
 
-**[297.98s] English:** того, как он будет вытеснен, он будет вытеснен. И он будет вытеснен. И он будет вытеснен.  
+**[297.98s] English:** Of how he will be displaced, he will be displaced. And he will be displaced. And he will be displaced.  
 **Translation:** 
 
-**[298.20s] English:** После того, как письменность впервые стала популярной, знаки начали плодиться, и кто-то сказал,  
-**Translation:** 
+**[298.20s] English:** After written communication first became popular, signs began to multiply, and someone said,  
+**Translation:** Vocabulary: displaced: 被替换; multiply: 增多
 
-**[305.40s] English:** у нас нет знака для этого звука, или у нас нет знака для этой идеи. Знаков появилось огромное,  
+**[305.40s] English:** We don't have a sign for this sound, or we don't have a sign for this idea. There are enormous amounts of signs, but...  
 **Translation:** 
 
-**[313.68s] English:** множество, и на какой-то чрезвычайно примечательной стадии, один, вероятно, один человек внезапно  
+**[313.68s] English:** A set, and at some extremely remarkable stage, one, probably one person suddenly  
 **Translation:** 
 
-**[320.64s] English:** понял, что без контроля они будут расти экспоненциально, пока не станут бессмыслицы, и у каждого не будет  
+**[320.64s] English:** I understood that without control, they would grow exponentially until they became nonsense, and there wouldn't be  
 **Translation:** 
 
-**[327.96s] English:** своей письменности. И второе, никто не мог запомнить знаки, если они не были записаны доступным  
-**Translation:** 
+**[327.96s] English:** Of their writing system. And secondly, nobody could remember the signs if they were not recorded in a accessible  
+**Translation:** Vocabulary: exponentially: 成倍增长
 
-**[333.68s] English:** способом. Так что они изобрели не только письменность, но и лексикографию. В начале  
+**[333.68s] English:** A way. So they invented not only writing but also lexicography. At the beginning,  
 **Translation:** 
 
-**[339.36s] English:** третьего тысячелетия они записали все вещи, которые были сделаны из дерева, и все вещи,  
-**Translation:** 
+**[339.36s] English:** In the third millennium, they recorded all things made of wood, and all things,  
+**Translation:** Vocabulary: lexicography: 词典编纂; millennium: 千年
 
-**[345.50s] English:** которые были сделаны из тростника, все названия цветов, стран, всех богов и прочее. Они попытались  
+**[345.50s] English:** Which were made from reed, all the flower names, countries, all the gods and so on. They tried to  
 **Translation:** 
 
-**[351.22s] English:** все систематизировать, сделать знаки стандартизированными, сделать их доступными,  
-**Translation:** 
+**[351.22s] English:** All systems should be standardized, make the signs standardized, and make them accessible.  
+**Translation:** Vocabulary: standardized: 规范
 
-**[357.96s] English:** и, конечно, обучать им, сделать их доступными.  
+**[357.96s] English:** And, of course, to train them and make them accessible.  
 **Translation:** 
 
-**[360.00s] English:** Это с самого начала они оптимизировали систему, и она оставалась более-менее статичной на протяжении всего своего существования в течение трех тысячелетий или более, потому что печать, наложенная на нее первыми визионерами и теми, кто придумал систему, и как она будет работать, и теми, кто придумал, как ее сохранить и защитить, была фантастически эффективной.  
-**Translation:** 
+**[360.00s] English:** This is something they optimized from the very beginning, and it remained more or less static throughout its entire existence for three thousand years or more because the printing that was laid down by the visionaries who first conceived of the system, and how it would work, and those who figured out how to preserve and protect it, was fantastically effective.  
+**Translation:** Vocabulary: conceived: 构思; fantastically: 极其; optimized: 优化; visionaries: 先驱者
 
-**[386.02s] English:** Например, в третьем или во втором веке, например, во время Александра были ученые, и если бы кто-то откопал табличку с ранней письменностью, они бы поняли, что она означает, они бы узнали знаки, хоть они и были древними, они бы увидели соотношение.  
+**[386.02s] English:** For example, in the third or second century, during Alexander's time, there were scholars who could have understood an inscription if someone had discovered a clay tablet with early writing; they would have recognized the signs, even though they were ancient, and seen their relationship.  
 **Translation:** 
 
-**[402.84s] English:** Это была фантастически сильная система, структура которой основывалась на обычной лексикографической системе.  
-**Translation:** 
+**[402.84s] English:** This was a fantastically strong system, whose structure was based on a standard lexicographic system.  
+**Translation:** Vocabulary: inscription: 铭文; lexicographic: 词典编纂的
 
-**[414.36s] English:** Так что лексикография...  
+**[414.36s] English:** So, lexicography,...  
 **Translation:** 
 
-**[416.02s] English:** И знаки, которые были, ревностно охранялись и защищались, и поэтому система прекрасно сохранилась.  
-**Translation:** 
+**[416.02s] English:** And the signs, which were few, were zealously guarded and protected, and therefore the system is in excellent condition.  
+**Translation:** Vocabulary: guarded: 谨慎守护; zealously: 热情地
 
-**[424.82s] English:** Мы должны сказать, что система, которая просуществовала три тысячи лет, называется клинопись.  
+**[424.82s] English:** We should say that the system, which has existed for three thousand years, is called cuneiform.  
 **Translation:** 
 
-**[430.30s] English:** Да. В девятнадцатом веке, около сороковых-пятидесятых годов, на раскопках в Ираке, в больших ассирийских городах, иногда дальше на юге, в Вавилонских городах, обнаружились находки.  
-**Translation:** 
+**[430.30s] English:** Yes. In the nineteenth century, around the 1840s-1850s, excavations in Iraq, in large Assyrian cities, sometimes further south in Babylonian cities, yielded findings.  
+**Translation:** Vocabulary: assyrian: 亚述的; babylonian: 巴比伦的; cuneiform: 楔形文字; excavations: 挖掘; nineteenth: 十九世纪; yielded: 出土
 
-**[443.60s] English:** Глиняные таблички, которые пролежали...  
+**[443.60s] English:** Clay tablets, which lay...  
 **Translation:** 
 
-**[446.02s] English:** ...в земле, невообразимые промежутки времени, и все они были написаны тем, что мы называем клинописью.  
-**Translation:** 
+**[446.02s] English:** ...in the ground, unimaginable periods of time, and all of them were written in what we call cuneiform.  
+**Translation:** Vocabulary: unimaginable: 难以想象的
 
-**[453.10s] English:** Мы говорим «клинопись», потому что письмо, клинообразное, «cuneus» на латыни означает «клин».  
+**[453.10s] English:** We say "cuneiform" because the writing is wedge-shaped, with "cuneus" meaning "wedge" in Latin.  
 **Translation:** 
 
-**[459.94s] English:** И когда эти знаки впервые увидели, стало понятно, что скопление этих меток распадается на различные расположения треугольных форм.  
-**Translation:** Vocabulary: cuneus: 楔形
+**[459.94s] English:** When these signs were first seen, it became clear that the clustering of these markers breaks down into various triangular arrangements.  
+**Translation:** Vocabulary: clustering: 聚类; cuneus: 楔形; triangular: 三角形的; wedge: 楔子
 
-**[470.70s] English:** И это наиболее очевидно на ассирийских рельефах, где письменность крупная.  
+**[470.70s] English:** This is most evident on Assyrian reliefs, where the writing is large.  
 **Translation:** 
 
-**[476.02s] English:** И легко можно сказать, какой они были формы.  
-**Translation:** 
+**[476.02s] English:** It is easy to say what shapes they were.  
+**Translation:** Vocabulary: reliefs: 浮雕
 
-**[478.02s] English:** На табличке «клин» не та же форма, как на табличке «клин».  
+**[478.02s] English:** On the sign "клин," the shape is not the same as on the sign "клин.  
 **Translation:** 
 
-**[480.00s] English:** очевиден систему поначалу стали называть клинообразной формы или клинописью и слово  
+**[480.00s] English:** Obvious, at first, the system was called cuneiform or wedge writing, and the word  
 **Translation:** 
 
-**[486.30s] English:** прижилось конечно когда растешь британском музее когда эта система твоя работа ты всю свою жизнь  
+**[486.30s] English:** Of course, when you grow up, working at the British Museum when this system is your job and you dedicate your entire life to it.  
 **Translation:** 
 
-**[492.84s] English:** посвящаешь тому чтобы все стране знали что такое клинопись иногда встречаются люди которые этого  
-**Translation:** 
+**[492.84s] English:** Pосвящаешь тому, чтобы все в стране знали, что такое клинопись. Иногда встречаются люди, которые этого не знают.  
+**Translation:** Vocabulary: dedicate: 奉献给
 
-**[499.62s] English:** слова не слышали и это ужасно люди продолжают жить это важная миссия потому что множество  
+**[499.62s] English:** Words we haven't heard, and that's awful. People continue to live, this is an important mission because many  
 **Translation:** 
 
-**[507.26s] English:** достижений человечества и очень много знаний было заложено в этих кусках глины их ведь  
-**Translation:** 
+**[507.26s] English:** Achievements of humanity, and a great deal of knowledge was encoded in these clay fragments; they were  
+**Translation:** Vocabulary: encoded: 编码
 
-**[515.36s] English:** использовали для повседневных вещей письма деловых документов контрактов и цари писали  
+**[515.36s] English:** They used letters for everyday things, business documents, contracts, and even kings wrote.  
 **Translation:** 
 
-**[521.72s] English:** длинные детальные отчеты о своих компаниях и военной деятельности но было и настоящая  
+**[521.72s] English:** Long detailed reports about their companies and military activities, but there was also genuine  
 **Translation:** 
 
-**[528.44s] English:** литература билетристика и магия и медицина и все прочие жанры которые мы бы перечисляли на  
+**[528.44s] English:** Literature, poetry, magic, and medicine, and all other genres we would list here, and...  
 **Translation:** 
 
-**[536.58s] English:** листе бумаги  
-**Translation:** 
+**[536.58s] English:** The paper leaves.  
+**Translation:** Vocabulary: genres: 类型
 
-**[537.26s] English:** в контексте алфавитной письменности и для чего мы ее используем они делали также у глиняных  
+**[537.26s] English:** In the context of alphabetic writing and for what we use it for, they also made clay tablets.  
 **Translation:** 
 
-**[543.26s] English:** табличек оказалось неожиданное качество способность просуществовать земле до сих пор так что сколько  
-**Translation:** 
+**[543.26s] English:** Tablets proved to have unexpected quality, the ability to survive on Earth until now, so how many?  
+**Translation:** Vocabulary: alphabetic: 字母的
 
-**[550.52s] English:** бы сотен тысяч табличек не хранилось музеях и коллекциях должно быть земле их еще миллионы и  
+**[550.52s] English:** There should be hundreds of thousands of signboards stored in museums and collections, and there could be millions more on the ground.  
 **Translation:** 
 
-**[557.78s] English:** они ждут пока их найдут в каком-то смысле это утешительная мысль потому что там они безопасности  
-**Translation:** 
+**[557.78s] English:** They are waiting to be found, in a way that's comforting because there is safety there.  
+**Translation:** Vocabulary: comforting: 令人安心; signboards: 指示牌
 
-**[565.36s] English:** ты сказал что  
+**[565.36s] English:** You said that  
 **Translation:** 
 
-**[567.26s] English:** развитие клинописи этих табличек письменного языка это одно из величайших вероятно величайшее  
-**Translation:** 
+**[567.26s] English:** Development of cuneiform writing on these tablets is one of, if not the greatest, achievements.  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[574.74s] English:** изобретение в истории человечества как ты думаешь насколько трудно было это придумать и нам стоит  
+**[574.74s] English:** In history, do you think it was difficult to invent this, and is it something we should consider?  
 **Translation:** 
 
-**[581.58s] English:** это прояснить что вот этот конкретный элемент кодирование звука на табличке это гениальное  
-**Translation:** 
+**[581.58s] English:** This will clarify that this particular element on the chart, coding sound, is genius.  
+**Translation:** Vocabulary: clarify: 阐明
 
-**[590.76s] English:** изобретение рисовать картинку это понятно вот скажем ячмень вот  
+**[590.76s] English:** Invention of drawing a picture is understandable. For example, let's say wheat.  
 **Translation:** 
 
-**[597.26s] English:** солнце вот что-то еще некий ряд  
-**Translation:** 
+**[597.26s] English:** Sun, something else, some kind of row.  
+**Translation:** Vocabulary: understandable: 容易理解的
 
-**[600.00s] English:** Гениальный объект.  
+**[600.00s] English:** Genial Object.  
 **Translation:** 
 
-**[600.56s] English:** Именно.  
-**Translation:** 
+**[600.56s] English:** Exactly.  
+**Translation:** Vocabulary: genial: 和蔼可亲的
 
-**[601.22s] English:** А вот записывать звук, и это гениальное изобретение.  
+**[601.22s] English:** Here's the transcript with natural English punctuation and capitalization: Keep the sound recording, and this is a brilliant invention.  
 **Translation:** 
 
-**[605.58s] English:** Думаю, это довольно парадоксально.  
-**Translation:** 
+**[605.58s] English:** I think this is rather paradoxical.  
+**Translation:** Vocabulary: capitalization: 首字母大写; paradoxical: 矛盾的; transcript: 录音稿
 
-**[608.20s] English:** Потому что первое поколение табличек, которые у нас есть,  
+**[608.20s] English:** Because the first generation of stickers we have,  
 **Translation:** 
 
-**[611.52s] English:** написаны пиктографическими знаками,  
-**Translation:** 
+**[611.52s] English:** Written in pictographic symbols,  
+**Translation:** Vocabulary: pictographic: 象形的; stickers: 贴纸
 
-**[614.18s] English:** где каждый знак означает то, на что он похож.  
+**[614.18s] English:** Where each sign means what it resembles.  
 **Translation:** 
 
-**[616.68s] English:** Это очень ограниченный метод записи сообщений.  
+**[616.68s] English:** This is a very limited method of recording messages.  
 **Translation:** 
 
-**[619.84s] English:** И не подходит для записи грамматики.  
+**[619.84s] English:** It does not work for recording grammar.  
 **Translation:** 
 
-**[623.44s] English:** А вторая фаза, как мы видим из археологии, это понимание,  
-**Translation:** 
+**[623.44s] English:** The second phase, as we see from archaeology, is understanding,  
+**Translation:** Vocabulary: archaeology: 考古学
 
-**[626.98s] English:** что можно взять эти знаки, все еще означающие то, на что они похожи,  
+**[626.98s] English:** What can be taken are these signs, still resembling what they stand for.  
 **Translation:** 
 
-**[632.26s] English:** но также и то, как звучали слова.  
-**Translation:** 
+**[632.26s] English:** But also how the words sounded.  
+**Translation:** Vocabulary: resembling: 像
 
-**[634.88s] English:** Так появляются замечательные строительные кубики,  
+**[634.88s] English:** So there appear wonderful building blocks,  
 **Translation:** 
 
-**[638.26s] English:** выражающие все звуки языка, из которых можно записать слова,  
+**[638.26s] English:** Expressing all sounds of the language from which words can be recorded,  
 **Translation:** 
 
-**[642.74s] English:** и грамматику, и прочее.  
+**[642.74s] English:** And grammar, and other things.  
 **Translation:** 
 
-**[645.20s] English:** Согласно ассериологии, все было именно так.  
-**Translation:** 
+**[645.20s] English:** According to archaeology, all was exactly as asserted.  
+**Translation:** Vocabulary: asserted: 声明
 
-**[649.56s] English:** Сначала были картинки, а уже потом появился звук.  
+**[649.56s] English:** First came the pictures, and then the sound appeared.  
 **Translation:** 
 
-**[654.84s] English:** Хотя, должен сказать,  
+**[654.84s] English:** Although, I should say,  
 **Translation:** 
 
-**[657.84s] English:** мне очень трудно в это поверить,  
+**[657.84s] English:** It's very hard for me to believe this.  
 **Translation:** 
 
-**[660.18s] English:** потому что если группе людей в собственной среде  
+**[660.18s] English:** Because if a group of people in their own environment  
 **Translation:** 
 
-**[664.08s] English:** настоятельно необходимо сделать систему меток на поверхности,  
+**[664.08s] English:** Strongly recommend making labels on the surface.  
 **Translation:** 
 
-**[670.52s] English:** которые все могли бы понять и использовать,  
-**Translation:** 
+**[670.52s] English:** Which ones could be understood and used by all?  
+**Translation:** Vocabulary: labels: 标签
 
-**[673.64s] English:** почему сразу не начать со знаков, которые издают звуки?  
+**[673.64s] English:** Why don't we start with the signs that make sounds?  
 **Translation:** 
 
-**[678.50s] English:** Они же говорят на одном языке, так?  
+**[678.50s] English:** They speak the same language, don't they?  
 **Translation:** 
 
-**[681.18s] English:** Так что у них не было А, Б, В, Г, Д, Е, Ж,  
+**[681.18s] English:** So they didn't have A, B, C, D, E, F, G, H.  
 **Translation:** 
 
-**[683.98s] English:** но они легко могли вычленить все гласные звуки.  
-**Translation:** 
+**[683.98s] English:** They easily could have distinguished all vowel sounds.  
+**Translation:** Vocabulary: distinguished: 区分
 
-**[686.98s] English:** Согласные, пусть и не называя их гласными и согласными,  
+**[686.98s] English:** Consonants, though not calling them consonants and vowels,  
 **Translation:** 
 
-**[690.12s] English:** ну, компонентные части.  
-**Translation:** 
+**[690.12s] English:** Nu, component parts.  
+**Translation:** Vocabulary: consonants: 辅音; vowels: 元音
 
-**[691.72s] English:** У них могли быть такие знаки с самого начала.  
+**[691.72s] English:** They could have had such signs from the beginning.  
 **Translation:** 
 
-**[694.72s] English:** Если бы ты решил, что у тебя...  
+**[694.72s] English:** If you decide that you have...  
 **Translation:** 
 
-**[696.52s] English:** У нас 26, у них, скажем, 50 знаков, которые обозначали бы звук.  
+**[696.52s] English:** In our system, there are 26 signs, which denote sounds, while they have, say, 50.  
 **Translation:** 
 
-**[700.80s] English:** Так они могли бы писать что угодно, без каких-либо проблем.  
+**[700.80s] English:** So they could write anything without any problems.  
 **Translation:** 
 
-**[703.72s] English:** И меня крайне озадачивает, что они начали с наименее гибкой  
+**[703.72s] English:** This greatly puzzles me that they started with the least flexible  
 **Translation:** 
 
-**[708.22s] English:** и наименее адаптируемой системы пиктограмм,  
-**Translation:** 
+**[708.22s] English:** And the least adaptable system of pictograms,  
+**Translation:** Vocabulary: adaptable: 易适应; flexible: 灵活; pictograms: 象形文字; puzzles: 困惑
 
-**[711.52s] English:** а затем они перешли к звуку.  
+**[711.52s] English:** Then they moved on to sound.  
 **Translation:** 
 
-**[714.56s] English:** Я не знаю, зачем они с ними возились.  
-**Translation:** 
+**[714.56s] English:** I don't know why they were fiddling with them.  
+**Translation:** Vocabulary: fiddling: 胡乱调整
 
-**[716.84s] English:** Я предполагаю, что доступные нам археологи  
+**[716.84s] English:** I presume that the available archaeologists  
 **Translation:** 
 
-**[720.00s] English:** Теоретические свидетельства вводят в заблуждение, потому что, я думаю, было так.  
-**Translation:** 
+**[720.00s] English:** Theoretical evidence is misleading because, I think, it was just that way.  
+**Translation:** Vocabulary: archaeologists: 考古学家; misleading: 误导的
 
-**[726.04s] English:** Вероятно, очень-очень задолго до шумеров люди в мире, которые мы называем Ближним Востоком,  
+**[726.04s] English:** Probably, very, very long before the Sumerians, people in the world we call the Middle East,  
 **Translation:** 
 
-**[732.20s] English:** контактировали друг с другом, они торговали, вероятно, даже воевали и общались между собой.  
-**Translation:** 
+**[732.20s] English:** They contacted each other, traded, and likely even fought and communicated with one another.  
+**Translation:** Vocabulary: sumerians: 苏美尔人
 
-**[738.40s] English:** И я думаю, что тогда была работающая система коммуникации между людьми, которые не разделяли язык,  
+**[738.40s] English:** I think that there was then a working system of communication between people who did not share a language.  
 **Translation:** 
 
-**[747.42s] English:** для которых картинок было бы достаточно, если приходят торговцы, и у них три овцы на продажу.  
-**Translation:** 
+**[747.42s] English:** For which there would be enough pictures if traders came, and they had three sheep for sale.  
+**Translation:** Vocabulary: traders: 商人
 
-**[753.86s] English:** Они рисуют три маленькие овечки, сколько они стоят, и так далее.  
+**[753.86s] English:** They draw three little sheep, how much they cost, and so on.  
 **Translation:** 
 
-**[758.80s] English:** И я думаю, что с шумерами и их пиктограммами было так.  
+**[758.80s] English:** I think it was the same with the Sumerians and their pictograms.  
 **Translation:** 
 
-**[765.80s] English:** В самом конце очень-очень-очень долгого периода существования таких знаков кто-то подумал,  
+**[765.80s] English:** At the very end of a very, very long period of existence for such signs, someone thought about it.  
 **Translation:** 
 
-**[772.96s] English:** мы же можем взять эти глупые ограниченные знаки,  
+**[772.96s] English:** We can take these silly limited signs,  
 **Translation:** 
 
-**[777.48s] English:** не курить и записать весь язык.  
+**[777.48s] English:** Do not smoke and write down the entire phrase.  
 **Translation:** 
 
-**[780.70s] English:** Я думаю, все так и было.  
+**[780.70s] English:** I think that was exactly how it was.  
 **Translation:** 
 
-**[782.74s] English:** Все так и произошло.  
+**[782.74s] English:** All that happened just as it did.  
 **Translation:** 
 
-**[784.22s] English:** Это спорно?  
+**[784.22s] English:** Is this disputable?  
 **Translation:** 
 
-**[785.66s] English:** Очень.  
+**[785.66s] English:** Very.  
 **Translation:** 
 
-**[787.34s] English:** Очень.  
+**[787.34s] English:** Very.  
 **Translation:** 
 
-**[788.26s] English:** Многие ассериологи дверью бы хлопнули.  
+**[788.26s] English:** Many assertiologists would slam the door.  
 **Translation:** 
 
-**[791.06s] English:** Ага.  
+**[791.06s] English:** Agreed.  
 **Translation:** 
 
-**[792.24s] English:** Но я не боюсь споров, потому что это естественно.  
+**[792.24s] English:** But I don't fear debates because they are natural.  
 **Translation:** 
 
-**[795.52s] English:** Если подумать, это естественно, ведь, чтобы разделить слово на звуки,  
+**[795.52s] English:** If we think about it, this is natural, since to divide a word into sounds,  
 **Translation:** 
 
-**[801.56s] English:** алфавит не нужен.  
+**[801.56s] English:** Alphabet is not needed.  
 **Translation:** 
 
-**[804.16s] English:** Например, в шумерском языке  
+**[804.16s] English:** For example, in Sumerian language,  
 **Translation:** 
 
-**[805.76s] English:** Забавная система. Есть корень, например, «ду», что значит «идти».  
+**[805.76s] English:** A funny system. For example, "ду" means "to go.  
 **Translation:** 
 
-**[811.52s] English:** Есть префиксы, как «и» или «му» или «ба».  
-**Translation:** 
+**[811.52s] English:** There are prefixes like "и" or "му" or "ба".  
+**Translation:** Vocabulary: prefixes: 前缀
 
-**[816.00s] English:** Один пассивный, один активный.  
+**[816.00s] English:** One passive, one active.  
 **Translation:** 
 
-**[818.64s] English:** В предложении сначала идет один из префиксов «му», «ба» или «и»,  
+**[818.64s] English:** In the sentence, first comes one of the prefixes "mu," "ba," or "yi,  
 **Translation:** 
 
-**[822.56s] English:** а потом идет корень, а затем всякое там в конце.  
+**[822.56s] English:** Then comes the root, and then all sorts of things at the end.  
 **Translation:** 
 
-**[825.92s] English:** Люди, что представляют вещи более важными, называют это агглютинативным языком.  
-**Translation:** 
+**[825.92s] English:** People who represent things as more important call it an agglutinative language.  
+**Translation:** Vocabulary: agglutinative: 粘着语
 
-**[830.24s] English:** Есть центральная часть, ты добавил что-то в начало, что-то в конец, и каждая частица создает кусочек в конце.  
+**[830.24s] English:** There is a central part, you added something at the beginning, something at the end, and each particle creates a piece at the end.  
 **Translation:** 
 
-**[834.98s] English:** Есть длинный глагол, который говорит «Он бы сделал это, если бы мог, но он не мог сделать это».  
-**Translation:** 
+**[834.98s] English:** There is a long verb that says, "He would do it if he could, but he couldn't do it.  
+**Translation:** Vocabulary: particle: 微粒
 
-**[840.00s] English:** но не мог. Вот такое, в форме глагола.  
+**[840.00s] English:** But he couldn't. There you have it, in the form of a verb.  
 **Translation:** 
 
-**[842.54s] English:** Но если бы ты решил это записать, мы бы с тобой решили это записать,  
+**[842.54s] English:** But if you had decided to record it, we would have recorded it together.  
 **Translation:** 
 
-**[845.76s] English:** то первым делом взяли бы звук «му», а потом знак «ба»,  
+**[845.76s] English:** First, they would take the sound "mu," and then the sign "ba.  
 **Translation:** 
 
-**[849.80s] English:** и потом знак «и», потому что каждые пять минут люди бы делали эти звуки.  
+**[849.80s] English:** And then a dot "and," because every five minutes people would make these sounds.  
 **Translation:** 
 
-**[855.44s] English:** Понимаешь, о чем я?  
+**[855.44s] English:** Do you understand what I mean?  
 **Translation:** 
 
-**[856.24s] English:** Да, конечно. Думаешь, возможно, что мы найдем гораздо более старые таблички с клинописью?  
-**Translation:** 
+**[856.24s] English:** Yes, of course. Do you think we might find much older clay tablets with cuneiform writing?  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[866.06s] English:** Или таблички с пиктограммами, предшествующие клинописи.  
+**[866.06s] English:** Or pictograms preceding cuneiform tablets.  
 **Translation:** 
 
-**[870.00s] English:** Рисунки, я скажу тебе почему.  
-**Translation:** 
+**[870.00s] English:** Drawings, I will tell you why.  
+**Translation:** Vocabulary: pictograms: 象形文字; preceding: 在前面
 
-**[872.50s] English:** Есть чудесное место в Турции, называется Гебекли-Тепе.  
+**[872.50s] English:** There is a wonderful place in Turkey called Göbekli Tepe.  
 **Translation:** 
 
-**[876.02s] English:** О, да.  
+**[876.02s] English:** Oh, yes.  
 **Translation:** 
 
-**[876.62s] English:** Ты о нем знаешь?  
+**[876.62s] English:** Do you know about him?  
 **Translation:** 
 
-**[877.38s] English:** Да.  
+**[877.38s] English:** Yes.  
 **Translation:** 
 
-**[877.78s] English:** Все знают о зданиях и архитектуре.  
+**[877.78s] English:** All know about buildings and architecture.  
 **Translation:** 
 
-**[881.92s] English:** Все об этом знают.  
+**[881.92s] English:** All about this is known.  
 **Translation:** 
 
-**[884.20s] English:** Если ты посмотришь на фотографии, которые археологи неразумно выложили в интернет,  
+**[884.20s] English:** If you look at the photos that archaeologists foolishly posted online,  
 **Translation:** 
 
-**[890.32s] English:** ты найдешь посреди одной цветной пластины со множеством других элементов  
+**[890.32s] English:** You will find it among many other elements on one colorful plate.  
 **Translation:** 
 
-**[895.02s] English:** круглый зеленый камень, похожий на скоробея из Египта.  
+**[895.02s] English:** A round green stone, similar to a carob seed from Egypt.  
 **Translation:** 
 
-**[898.84s] English:** То есть у него выпуклое...  
+**[898.84s] English:** That is, it has a凸出的... (The translation of "凸出的" to English is "protruding," but since the original text seems to be a mix of languages, I'll keep it as "凸出的" for accuracy.) For natural English punctuation and capitalization: That is, it has a protruding...  
 **Translation:** 
 
-**[900.00s] English:** Плоская спинка и плоское дно.  
+**[900.00s] English:** Flat back and flat bottom.  
 **Translation:** 
 
-**[902.36s] English:** На плоском дне камня вырезаны иероглифические знаки.  
-**Translation:** 
+**[902.36s] English:** On the flat bottom of the stone, hieroglyphic signs have been carved.  
+**Translation:** Vocabulary: carved: 雕刻; hieroglyphic: 象形文字
 
-**[905.98s] English:** Никто об этом слово не сказал, но для меня совершенно очевидно.  
+**[905.98s] English:** No one said that word, but for me, it is absolutely obvious.  
 **Translation:** 
 
-**[911.72s] English:** Это была печать Заверения, где вырезанные знаки,  
-**Translation:** 
+**[911.72s] English:** This was a Certification Seal, where engraved symbols,  
+**Translation:** Vocabulary: certification: 认证; engraved: 雕刻
 
-**[915.88s] English:** прижатые глине или какому-то другому материалу для отиска,  
+**[915.88s] English:** Pressed into clay or some other material for printing,  
 **Translation:** 
 
-**[919.74s] English:** оставляли бы отпечаток.  
+**[919.74s] English:** Would leave a mark.  
 **Translation:** 
 
-**[921.28s] English:** Иначе быть не может.  
+**[921.28s] English:** Otherwise, it cannot be.  
 **Translation:** 
 
-**[923.56s] English:** А это 9000 лет до нашей эры.  
+**[923.56s] English:** This is 9000 years before our era.  
 **Translation:** 
 
-**[926.50s] English:** Когда я был парнишкой в университете, мой профессор сказал,  
+**[926.50s] English:** When I was a college student, my professor said,  
 **Translation:** 
 
-**[930.00s] English:** что письменность эволюционировала в Месопотамии,  
-**Translation:** 
+**[930.00s] English:** What writing evolved in Mesopotamia,  
+**Translation:** Vocabulary: evolved: 发展; mesopotamia: 美索不达米亚
 
-**[933.72s] English:** ведь у них были сложные города с декуратами и большими зданиями,  
+**[933.72s] English:** Because they had complex cities with decurias and large buildings.  
 **Translation:** 
 
-**[938.16s] English:** и куча людей, им нужно было все организовывать,  
+**[938.16s] English:** And a bunch of people needed everything organized.  
 **Translation:** 
 
-**[940.60s] English:** и поэтому они изобрели письменность.  
+**[940.60s] English:** And therefore, they invented writing.  
 **Translation:** 
 
-**[943.00s] English:** Так если им пришлось с этим столкнуться в Шумере,  
+**[943.00s] English:** So if they had to deal with it in Sumer,  
 **Translation:** 
 
-**[946.04s] English:** в 3000 году до нашей эры,  
+**[946.04s] English:** In 3000 BCE,  
 **Translation:** 
 
-**[949.24s] English:** Гебекли ТП наверняка тоже, там вообще едва ли приступили к завершению раскопок комплекса.  
-**Translation:** 
+**[949.24s] English:** Gebekli Tepe, no doubt, is also in a similar situation, as excavation of the complex has barely begun.  
+**Translation:** Vocabulary: excavation: 挖掘
 
-**[954.80s] English:** Они продолжаются, как Манчестер и Нью-Касл Юнайтед.  
+**[954.80s] English:** They continue, like Manchester and Newcastle United.  
 **Translation:** 
 
-**[958.96s] English:** И действительно,  
-**Translation:** 
+**[958.96s] English:** Indeed,  
+**Translation:** Vocabulary: manchester: 曼彻斯特; newcastle: 纽卡斯尔
 
-**[960.00s] English:** В Южном Ираке правило было такое.  
+**[960.00s] English:** In Southern Iraq, there was such a rule.  
 **Translation:** 
 
-**[962.98s] English:** Невозможно создать такую архитектуру.  
+**[962.98s] English:** It is impossible to create such an architecture.  
 **Translation:** 
 
-**[967.38s] English:** Спланировать и построить согласно всем принципам,  
+**[967.38s] English:** Plan and construct according to all principles,  
 **Translation:** 
 
-**[970.20s] English:** задействовать множество людей и сделать это все без письменности.  
+**[970.20s] English:** To involve many people and do this all without writing.  
 **Translation:** 
 
-**[974.82s] English:** Так как же тогда, на 7000 лет раньше, они вдруг там справились?  
+**[974.82s] English:** So how did they manage to do it 7,000 years earlier then?  
 **Translation:** 
 
-**[979.20s] English:** Это и этот зеленый камень показывает, что у них была письменность.  
+**[979.20s] English:** This and this green stone show that they had a writing system.  
 **Translation:** 
 
-**[983.90s] English:** Был чиновник, который поставил печать.  
+**[983.90s] English:** There was a bureaucrat who put a seal on it.  
 **Translation:** 
 
-**[986.42s] English:** Что-то получил или оставил.  
-**Translation:** 
+**[986.42s] English:** Something received or left.  
+**Translation:** Vocabulary: bureaucrat: 官僚
 
-**[987.72s] English:** Или это было имя его отца, оставил там какую-то извилистую змею или линию.  
+**[987.72s] English:** Or was it his father's name, leaving behind some winding snake or line?  
 **Translation:** 
 
-**[992.52s] English:** Это пиктографическое письмо.  
-**Translation:** 
+**[992.52s] English:** This is pictographic writing.  
+**Translation:** Vocabulary: pictographic: 象形文字; winding: 蜿蜒的
 
-**[994.54s] English:** Может быть, даже фонетическая письменность, я не знаю,  
+**[994.54s] English:** May be even a phonetic script, I don't know,  
 **Translation:** 
 
-**[997.16s] English:** но это была письменность за тысячи лет до той, что на юге.  
-**Translation:** 
+**[997.16s] English:** But this was a writing system thousands of years before that in the south.  
+**Translation:** Vocabulary: phonetic: 音素化的
 
-**[1001.88s] English:** Я так думаю.  
+**[1001.88s] English:** I think so.  
 **Translation:** 
 
-**[1003.68s] English:** Люди приходили с металлом или драгоценными камнями из Антолии.  
-**Translation:** 
+**[1003.68s] English:** People came with metal or precious gems from Antolia.  
+**Translation:** Vocabulary: antolia: 安纳托利亚
 
-**[1008.06s] English:** Они знали, что на юге много чего, и хотели торговаться, им нужно было коммуницировать.  
+**[1008.06s] English:** They knew there was much to be had in the south and wanted to bargain; they needed to communicate.  
 **Translation:** 
 
-**[1012.98s] English:** По сути, это как сигарета с Х посередине.  
+**[1012.98s] English:** In essence, it's like a cigarette with an H in the middle.  
 **Translation:** 
 
-**[1016.96s] English:** Все в мире знают, что это означает.  
+**[1016.96s] English:** All in the world know what this means.  
 **Translation:** 
 
-**[1019.46s] English:** Они не знают слова, обозначающие сигарету на этом языке, или рак, или фильтр, или табак, неважно.  
-**Translation:** 
+**[1019.46s] English:** They don't know the word for cigarette in this language, or cancer, or filter, or tobacco, whichever it may be.  
+**Translation:** Vocabulary: whichever: 任一
 
-**[1025.76s] English:** Это пиктографическое письмо.  
+**[1025.76s] English:** This is pictographic writing.  
 **Translation:** 
 
-**[1027.94s] English:** Мы все еще его используем, и оно выше прочего беспорядка.  
+**[1027.94s] English:** We are still using it, and it is above all the chaos.  
 **Translation:** 
 
-**[1032.80s] English:** Думаю, это была преобладающая система,  
+**[1032.80s] English:** I think this was the prevailing system,  
 **Translation:** 
 
-**[1035.10s] English:** потому что я искренне верю, что люди в то время не были глупыми.  
-**Translation:** 
+**[1035.10s] English:** Because I sincerely believe that people back then were not stupid.  
+**Translation:** Vocabulary: prevailing: 盛行的; sincerely: 真诚地
 
-**[1039.46s] English:** Они не были гориллами, они не были менее продвинутыми, чем мы.  
+**[1039.46s] English:** They were not gorillas; they were not less advanced than we are.  
 **Translation:** 
 
-**[1043.16s] English:** Они, вероятно, были неотличимы от нас.  
-**Translation:** 
+**[1043.16s] English:** They were probably indistinguishable from us.  
+**Translation:** Vocabulary: gorillas: 大猩猩
 
-**[1045.46s] English:** Были торговцы и странники.  
+**[1045.46s] English:** There were traders and travelers.  
 **Translation:** 
 
-**[1046.66s] English:** И люди, которые говорили «Давай спустимся по реке и посмотрим, где окажемся».  
-**Translation:** 
+**[1046.66s] English:** And people who said, "Let's float down the river and see where we end up.  
+**Translation:** Vocabulary: traders: 商人
 
-**[1051.96s] English:** Люди искали деньги, женщин, что угодно.  
+**[1051.96s] English:** People searched for money, women, whatever.  
 **Translation:** 
 
-**[1054.76s] English:** Наверняка так и было.  
+**[1054.76s] English:** Certainly it was that way.  
 **Translation:** 
 
-**[1056.76s] English:** Но если ты взглянешь на сооружения по Гебекли со скепсисом,  
+**[1056.76s] English:** But if you look at the Göbekli Tepe structures with skepticism,  
 **Translation:** 
 
-**[1061.36s] English:** то как все могло быть?  
-**Translation:** 
+**[1061.36s] English:** How could it all have been?  
+**Translation:** Vocabulary: skepticism: 怀疑主义
 
-**[1062.96s] English:** Там потрясающая отделка, а также структура, видение,  
+**[1062.96s] English:** There is amazing finishing, as well as structure and vision.  
 **Translation:** 
 
-**[1067.76s] English:** как иначе организовать рабочую силу и инструменты.  
+**[1067.76s] English:** How else can we organize labor and tools.  
 **Translation:** 
 
-**[1071.96s] English:** При помощи мегафона?  
+**[1071.96s] English:** With a megaphone?  
 **Translation:** 
 
-**[1073.86s] English:** «Ваш завтрак!» и так далее.  
-**Translation:** 
+**[1073.86s] English:** Your breakfast!" and so on.  
+**Translation:** Vocabulary: megaphone: 扩音器
 
-**[1075.76s] English:** Да нет.  
+**[1075.76s] English:** No, not at all.  
 **Translation:** 
 
-**[1076.66s] English:** Не может быть.  
-**Translation:** 
+**[1076.66s] English:** It cannot be.  
+**Translation:** Vocabulary: cannot: 不能
 
-**[1077.66s] English:** Да, спорное заявление.  
+**[1077.66s] English:** Yes, a contentious statement.  
 **Translation:** 
 
-**[1079.46s] English:** Да.  
-**Translation:** 
+**[1079.46s] English:** Yes.  
+**Translation:** Vocabulary: contentious: 争执的
 
-**[1080.00s] English:** Что во время Гебер-Клитепе, может, уже была система письменности?  
+**[1080.00s] English:** What during Göbekli Tepe might have already been a writing system?  
 **Translation:** 
 
-**[1084.12s] English:** Была. Потому что дело в том, что это печать для заверения, а не просто закорючка на горшке, от которой можно отмахнуться.  
-**Translation:** 
+**[1084.12s] English:** It was because the stamp is for authentication, not just some doodle on a pot that can be dismissed easily.  
+**Translation:** Vocabulary: authentication: 验证; dismissed: 忽视; doodle: 涂鸦
 
-**[1093.62s] English:** Это цельная вещь с плоской поверхностью, ее можно прижать.  
+**[1093.62s] English:** This is a whole piece with a flat surface; you can press it.  
 **Translation:** 
 
-**[1097.04s] English:** Вот есть у тебя контракт или договоренность по строительству, мол, ты платишь за эти кирпичи.  
+**[1097.04s] English:** Here is an agreement or contract regarding construction, for instance, you pay for these bricks.  
 **Translation:** 
 
-**[1103.10s] English:** И официальное лицо должно было придавить печать, оставить отпечаток.  
+**[1103.10s] English:** An official person should have pressed the seal and left an impression.  
 **Translation:** 
 
-**[1106.94s] English:** Я вообще большой поклонник Шерлока Холмса.  
+**[1106.94s] English:** I am a big fan of Sherlock Holmes.  
 **Translation:** 
 
-**[1110.00s] English:** В контексте системы обучения интеллекту, иррациональности, и логики в мышлении.  
+**[1110.00s] English:** In the context of a system of intellectual training, irrationality, and logic in thinking.  
 **Translation:** 
 
-**[1116.82s] English:** Я про него читал истории миллион раз, когда был ребенком, и больше всего меня впечатляет фраза, Холмсом не сказанная, а процитированная, что теоретически возможно вывести Ниагарский водопад из капли дождя.  
-**Translation:** 
+**[1116.82s] English:** I read stories about him a million times when I was a child, and what impresses me the most is the phrase not spoken by Holmes but quoted, which states that theoretically it's possible to derive Niagara Falls from a drop of rain.  
+**Translation:** Vocabulary: derive: 从...推导出; irrationality: 非理性; niagara: 尼加拉瓜瀑布; quoted: 引用的; theoretically: 理论上
 
-**[1132.44s] English:** Это мощное заявление.  
+**[1132.44s] English:** This is a powerful statement.  
 **Translation:** 
 
-**[1134.58s] English:** Мощное.  
+**[1134.58s] English:** Powerful.  
 **Translation:** 
 
-**[1135.30s] English:** Это печать из Гебер-Клитепе, это капля дождя,  
+**[1135.30s] English:** This is a stamp from Gebert Rücker, this is a drop of rain,  
 **Translation:** 
 
-**[1138.30s] English:** из которой я делаю вывод о письменности.  
+**[1138.30s] English:** From which I make a conclusion about literacy.  
 **Translation:** 
 
-**[1140.30s] English:** И вполне возможно, что все они писали на листьях.  
+**[1140.30s] English:** It is quite possible that they all wrote on leaves.  
 **Translation:** 
 
-**[1142.30s] English:** В конце концов, во многих частях света так и было.  
+**[1142.30s] English:** In the end, it was like that in many parts of the world.  
 **Translation:** 
 
-**[1144.30s] English:** Например, в Долине Инда.  
+**[1144.30s] English:** For example, in the Indus Valley.  
 **Translation:** 
 
-**[1146.30s] English:** Люди пишут самую жалкую чушь о системе письма Долины Инды.  
-**Translation:** 
+**[1146.30s] English:** People write the most pathetic nonsense about the Indus Valley writing system.  
+**Translation:** Vocabulary: indus: 印度河; pathetic: 可悲的
 
-**[1148.30s] English:** Ведь все, что у нас есть, это печати.  
+**[1148.30s] English:** Well, all we have are stamps.  
 **Translation:** 
 
-**[1150.30s] English:** Они также использовались в целях ратификации.  
+**[1150.30s] English:** They were also used for ratification purposes.  
 **Translation:** 
 
-**[1152.30s] English:** На них обозначено имя владельца в трех, четырех или, может быть, пяти знаках.  
+**[1152.30s] English:** On them, the owner's name is indicated in three, four, or possibly five characters.  
 **Translation:** 
 
-**[1154.30s] English:** Что-то вроде «Это я сын моего отца».  
+**[1154.30s] English:** Something like "This is my father's son.  
 **Translation:** 
 
-**[1156.30s] English:** Или «молочник».  
+**[1156.30s] English:** Or "milkman.  
 **Translation:** 
 
-**[1158.30s] English:** Или «молочник».  
-**Translation:** 
+**[1158.30s] English:** Or "milkman.  
+**Translation:** Vocabulary: milkman: 送奶工
 
-**[1160.30s] English:** Или «молочник».  
+**[1160.30s] English:** Or "milkman.  
 **Translation:** 
 
-**[1162.30s] English:** Или «молочник».  
+**[1162.30s] English:** Or "milkman.  
 **Translation:** 
 
-**[1164.30s] English:** Или «молочник».  
+**[1164.30s] English:** Or "milkman.  
 **Translation:** 
 
-**[1166.30s] English:** Или «молочник».  
+**[1166.30s] English:** Or "milkman.  
 **Translation:** 
 
-**[1168.30s] English:** Что угодно.  
+**[1168.30s] English:** Whatever.  
 **Translation:** 
 
-**[1170.30s] English:** Очевидно, очевидно, что у них была письменность  
+**[1170.30s] English:** Obviously, obviously, they had a writing system.  
 **Translation:** 
 
-**[1172.30s] English:** на тленном материале.  
+**[1172.30s] English:** On decomposed material.  
 **Translation:** 
 
-**[1174.30s] English:** Иначе к чему им  
-**Translation:** 
+**[1174.30s] English:** Otherwise, what is the point for them?  
+**Translation:** Vocabulary: decomposed: 腐烂的
 
-**[1176.30s] English:** каменные печати с подписями?  
+**[1176.30s] English:** Stone seals with inscriptions?  
 **Translation:** 
 
-**[1178.30s] English:** Во многих частях Индии  
-**Translation:** 
+**[1178.30s] English:** In many parts of India  
+**Translation:** Vocabulary: inscriptions: 铭文
 
-**[1180.30s] English:** сегодня  
+**[1180.30s] English:** Today.  
 **Translation:** 
 
-**[1182.30s] English:** пишут на пальмовом листе.  
+**[1182.30s] English:** They write on palm leaves.  
 **Translation:** 
 
-**[1184.30s] English:** Почему тут иначе?  
+**[1184.30s] English:** Why is it different here?  
 **Translation:** 
 
-**[1186.30s] English:** Люди думают, раз сейчас так, раньше было иначе.  
+**[1186.30s] English:** People think that since things are this way now, they were different in the past.  
 **Translation:** 
 
-**[1188.30s] English:** Но на самом деле,  
+**[1188.30s] English:** But in reality,  
 **Translation:** 
 
-**[1190.30s] English:** этот аргумент абсолютно, абсолютно  
+**[1190.30s] English:** This argument is absolutely, absolutely.  
 **Translation:** 
 
-**[1192.30s] English:** несостоятелен.  
+**[1192.30s] English:** Unsubstantiated.  
 **Translation:** 
 
-**[1194.30s] English:** Потому что процесс эволюции  
+**[1194.30s] English:** Because the process of evolution  
 **Translation:** 
 
-**[1196.30s] English:** со всех сторон тормозится  
+**[1196.30s] English:** From all sides, it is being stalled.  
 **Translation:** 
 
-**[1198.30s] English:** по-другому.  
-**Translation:** 
+**[1198.30s] English:** Otherwise.  
+**Translation:** Vocabulary: stalled: 受阻
 
-**[1200.30s] English:** Энерция почти так,  
+**[1200.00s] English:** It is as strong as evolution. And here we have those who preach about the progress of ideas,  
 **Translation:** 
 
-**[1202.30s] English:** что  
-**Translation:** 
+**[1200.30s] English:** Energy is almost like,  
+**Translation:** Vocabulary: preach: 布道
 
-**[1204.30s] English:** если  
+**[1202.30s] English:** What?  
 **Translation:** 
 
-**[1206.30s] English:** вы  
+**[1204.30s] English:** If  
 **Translation:** 
 
-**[1208.30s] English:** будете  
+**[1205.80s] English:** They have no idea at all. Firstly, I am beginning to understand,  
 **Translation:** 
 
-**[1210.30s] English:** заниматься  
-**Translation:** 
+**[1206.30s] English:** You  
+**Translation:** Vocabulary: firstly: 首先
 
-**[1212.30s] English:** тем,  
+**[1208.30s] English:** You will be  
 **Translation:** 
 
-**[1214.30s] English:** что  
+**[1210.30s] English:** To engage in  
 **Translation:** 
 
-**[1216.30s] English:** вы  
+**[1210.40s] English:** What is akin to Sherlock Holmes's work in your entire job is language decoding and archaeology.  
 **Translation:** 
 
-**[1218.30s] English:** будете  
-**Translation:** 
+**[1212.30s] English:** Tem,  
+**Translation:** Vocabulary: archaeology: 考古学; sherlock: 福尔摩斯
 
-**[1220.30s] English:** заниматься  
+**[1214.30s] English:** What?  
 **Translation:** 
 
-**[1222.30s] English:** тем,  
+**[1216.30s] English:** You  
 **Translation:** 
 
-**[1224.30s] English:** что  
+**[1218.30s] English:** You will be  
 **Translation:** 
 
-**[1200.00s] English:** же сильна, как эволюция. И вот об этом люди, которые разглагольствуют о прогрессе идеи,  
-**Translation:** 
+**[1218.78s] English:** The study of evidence and attempts to reconstruct an image of that world. You are making me understand,  
+**Translation:** Vocabulary: reconstruct: 重建
 
-**[1205.80s] English:** их вообще не имеют представления. Прежде всего, я начинаю понимать,  
+**[1220.30s] English:** To engage in  
 **Translation:** 
 
-**[1210.40s] English:** что вся твоя работа сродни процессу деятельности Шерлока Холмса. Расшифровка языка, археология,  
+**[1222.30s] English:** Tem,  
 **Translation:** 
 
-**[1218.78s] English:** изучение доказательств и попытки реконструировать образ того мира. Ты заставляешь меня понимать,  
+**[1224.30s] English:** What?  
 **Translation:** 
 
-**[1225.34s] English:** что даже все таблички с клинописью, которые у нас есть, это просто капля по сравнению с водопадом  
-**Translation:** 
+**[1225.34s] English:** What even our clay tablet inscriptions are just a drop in comparison to the waterfall.  
+**Translation:** Vocabulary: waterfall: 瀑布
 
-**[1235.78s] English:** тысячелетней истории людей. У нас много чего есть, но это ничто по сравнению с тем, что было. Более  
+**[1235.78s] English:** Thousand-year history of people. We have many things, but this is nothing compared to what was. More...  
 **Translation:** 
 
-**[1243.70s] English:** того, нам больше не нужно расшифровывать. Мы довольно бегло можем читать Акадский,  
-**Translation:** 
+**[1243.70s] English:** That's good; we no longer need to decode it. We can read Akadian fairly quickly.  
+**Translation:** Vocabulary: akadian: 阿卡德语
 
-**[1249.18s] English:** Вавилонский или Шумерский, это не проблема. Мы можем получить очень существенную информацию,  
+**[1249.18s] English:** Vavilonskiy or Shumer斯基, this is not a problem. We can obtain very substantial information,  
 **Translation:** 
 
-**[1255.34s] English:** из источников, охватывающих три тысячелетия. Очень существенную. Но это также значит,  
-**Translation:** 
+**[1255.34s] English:** From sources spanning three millennia. Very significant. But this also means,  
+**Translation:** Vocabulary: millennia: 千年; spanning: 跨越; vavilonskiy: 瓦维洛夫
 
-**[1262.56s] English:** что ассериологи убеждены, будто то, что у нас есть, это все, что когда-либо существовало. А это  
+**[1262.56s] English:** That archaeologists are convinced that what we have is all that ever existed. And this  
 **Translation:** 
 
-**[1270.22s] English:** абсурдно. Например, был период, называемый Ур-3, когда люди жили в городах-государствах. Тогда  
+**[1270.22s] English:** Absurdly, for example, there was a period called Ur-III when people lived in city-states. Then  
 **Translation:** 
 
-**[1278.08s] English:** было два или три основных города. Люди там жили и писали тысячи очень маленьких учетных табличек.  
+**[1278.08s] English:** There were two or three main cities. People lived there and wrote thousands of very small accounting tablets.  
 **Translation:** 
 
-**[1285.34s] English:** Жители должны были приносить десятиные подношения, и всему этому вели учет те,  
-**Translation:** 
+**[1285.34s] English:** Residents were required to bring tithe offerings, and all of this was accounted for by them.  
+**Translation:** Vocabulary: tithe: 十分之一奉献
 
-**[1290.82s] English:** кого я всегда называю предками налоговой службы, и люди им сочувствуют. Все нужно было записывать,  
+**[1290.82s] English:** Who I always call the ancestors of the tax service, and people empathize with them. All needed to be recorded,  
 **Translation:** 
 
-**[1296.52s] English:** чтобы один простофили мог это проверить и заполнить грозбу, а другой с должностью повыше его одобрил,  
-**Translation:** 
+**[1296.52s] English:** To have one simpleton check and fill out the form, while another with a higher position approved it.  
+**Translation:** Vocabulary: simpleton: 愚笨的人
 
-**[1302.30s] English:** чтобы не было подделок или ошибок. Дело в том, что существует тысячи таких табличек,  
+**[1302.30s] English:** To avoid counterfeits or errors, it should be noted that there are thousands of such signs.  
 **Translation:** 
 
-**[1307.90s] English:** написанных примерно с 2100 по 2000 год до нашей эры. Тысячи! Размером примерно с коробку спичек.  
+**[1307.90s] English:** Written approximately between 2100 and 2000 BCE. Thousands! About the size of a matchbox.  
 **Translation:** 
 
-**[1315.34s] English:** Люди любят обобщать историю шумеров.  
+**[1315.34s] English:** People love to generalize about the history of the Sumerians.  
 **Translation:** 
 
-**[1320.00s] English:** Но все эти таблички, вероятно, хранились в паре комнат.  
-**Translation:** 
+**[1320.00s] English:** But all these signs, probably, were stored in a couple of rooms.  
+**Translation:** Vocabulary: generalize: 泛化; sumerians: 苏美尔人
 
-**[1326.56s] English:** Когда они стали не нужны, их просто свезли в какое-то помещение.  
+**[1326.56s] English:** When they became unnecessary, they were simply transported to some kind of room.  
 **Translation:** 
 
-**[1331.46s] English:** Археологи в 19 веке на них наткнулись, а потом пришли местные, выкопали их и начали продавать.  
-**Translation:** 
+**[1331.46s] English:** Archaeologists in the 19th century stumbled upon them, and then locals came and dug them up, starting to sell them.  
+**Translation:** Vocabulary: archaeologists: 考古学家; stumbled: 偶然发现; transported: 搬运
 
-**[1337.40s] English:** Таблички разошлись по всему миру.  
+**[1337.40s] English:** Signs have spread all over the world.  
 **Translation:** 
 
-**[1339.34s] English:** Тысячи, тысячи табличек из каких-то двух складских комнат.  
+**[1339.34s] English:** Thousands upon thousands of signs from just two storage rooms.  
 **Translation:** 
 
-**[1343.08s] English:** Они не отображают всю культуру, или целую страну, или всю их историю и систему верований.  
+**[1343.08s] English:** They do not represent the entire culture, or an entire country, or their entire history and system of beliefs.  
 **Translation:** 
 
-**[1350.82s] English:** Так что наш взгляд искажен природой материала.  
-**Translation:** 
+**[1350.82s] English:** So our perspective is distorted by the nature of the material.  
+**Translation:** Vocabulary: distorted: 扭曲
 
-**[1356.02s] English:** Но иногда материал богатый и разный, но не всегда.  
+**[1356.02s] English:** But sometimes the material is rich and varied, but not always.  
 **Translation:** 
 
-**[1360.90s] English:** Иногда люди, которые работают с искаженным материалом, даже не осознают, насколько он искажен.  
-**Translation:** 
+**[1360.90s] English:** Sometimes people who work with distorted material do not even realize how much it is distorted.  
+**Translation:** Vocabulary: varied: 多样化的
 
-**[1368.80s] English:** Это очень интересно.  
+**[1368.80s] English:** This is very interesting.  
 **Translation:** 
 
-**[1369.80s] English:** За все время изучения клинописных табличек, бывает, что ты по ночам замечаешь проблеск водопада?  
+**[1369.80s] English:** During all this time studying cuneiform tablets, have you ever noticed a flicker of a waterfall at night?  
 **Translation:** 
 
-**[1379.72s] English:** Представляешь?  
+**[1379.72s] English:** Do you realize?  
 **Translation:** 
 
-**[1380.00s] English:** Представляешь его?  
+**[1380.00s] English:** Do you imagine him?  
 **Translation:** 
 
-**[1381.74s] English:** Да, я могу.  
+**[1381.74s] English:** Yes, I can.  
 **Translation:** 
 
-**[1383.02s] English:** Легко могу.  
+**[1383.02s] English:** I can do it easily.  
 **Translation:** 
 
-**[1384.46s] English:** Время от времени мы находим библиотеки.  
+**[1384.46s] English:** From time to time, we find libraries.  
 **Translation:** 
 
-**[1387.34s] English:** В 1850-х в Ниневе, ассирийской столице, был толстый царь, царь мира, по имени Ашур Бонапал.  
-**Translation:** 
+**[1387.34s] English:** In the 1850s in Nineveh, the Assyrian capital, there was a thick-sets king, King of the World, named Ashur-Banipal.  
+**Translation:** Vocabulary: assyrian: 亚述的; nineveh: 尼尼微
 
-**[1395.34s] English:** И у него была потрясающая библиотека, которую он продвигал.  
+**[1395.34s] English:** And he had a fantastic library, which he promoted.  
 **Translation:** 
 
-**[1398.82s] English:** Он конфисковывал таблички и привозил в Ниневию.  
-**Translation:** 
+**[1398.82s] English:** He confiscated signs and brought them to Nineveh.  
+**Translation:** Vocabulary: confiscated: 没收
 
-**[1401.68s] English:** Он хотел, чтобы все знания и вся история прошлого были под одной крышей.  
+**[1401.68s] English:** He wanted all knowledge and every piece of history to be under one roof.  
 **Translation:** 
 
-**[1406.18s] English:** Это была своего рода александрийская библиотека.  
-**Translation:** 
+**[1406.18s] English:** This was, in a sense, an Alexandrian library.  
+**Translation:** Vocabulary: alexandrian: 亚历山大式的
 
-**[1409.02s] English:** Он был образован.  
+**[1409.02s] English:** He was educated.  
 **Translation:** 
 
-**[1409.90s] English:** Он и пополнял библиотеку.  
-**Translation:** 
+**[1409.90s] English:** He also replenished the library.  
+**Translation:** Vocabulary: educated: 受过教育; replenished: 补充
 
-**[1412.02s] English:** Ее нашли в 19 веке.  
+**[1412.02s] English:** It was found in the 19th century.  
 **Translation:** 
 
-**[1414.60s] English:** Ее откопал Леард и команда.  
-**Translation:** 
+**[1414.60s] English:** She was discovered by Leonard and the team.  
+**Translation:** Vocabulary: leonard: 伦纳德
 
-**[1416.80s] English:** И что они нашли?  
+**[1416.80s] English:** What did they find?  
 **Translation:** 
 
-**[1417.96s] English:** Они нашли таблички, разбросанные по всему полу, в огромной комнате и в коридорах.  
-**Translation:** 
+**[1417.96s] English:** They found signs scattered all over the floor in the huge room and in the corridors.  
+**Translation:** Vocabulary: corridors: 走廊
 
-**[1423.44s] English:** Многие из них были сломаны, многие сгорели.  
+**[1423.44s] English:** Many of them were broken, many were burned.  
 **Translation:** 
 
-**[1427.92s] English:** С тех пор до совсем недавнего времени ассириологи тратили все свое...  
-**Translation:** 
+**[1427.92s] English:** Since then, Assyriologists have spent all their...  
+**Translation:** Vocabulary: assyriologists: 研究古代亚述历史的学者
 
-**[1433.36s] English:** Люди, работавшие над ниневийскими табличками, тратили все время, соединяя кусочки.  
+**[1433.36s] English:** People working on the Niniveh tablets spent all their time joining pieces together.  
 **Translation:** 
 
-**[1438.70s] English:** Вот история о Гильгамеше.  
-**Translation:** 
+**[1438.70s] English:** Here is the story of Gilgamesh.  
+**Translation:** Vocabulary: niniveh: 尼尼微
 
-**[1439.90s] English:** Редактор субтитров А.Семкин Корректор А.Егорова  
+**[1439.90s] English:** Editor of Subtitles: A.Semkin Corrector: A.Egorova  
 **Translation:** 
 
-**[1440.00s] English:** что влюбляется в него и хочет его соблазнить. И... ноготочие. Не можешь найти кусочек. И вот  
-**Translation:** 
+**[1440.00s] English:** That falls in love with him and wants to seduce him. And... fingernail polish. Can't find a piece. And here...  
+**Translation:** Vocabulary: fingernail: 指甲; polish: 指甲油; seduce: 诱惑; subtitles: 字幕
 
-**[1445.96s] English:** и ищешь другой. Потом еще... И так они собирали литературу. Предполагалось, что если снова собрать  
+**[1445.96s] English:** And you look for another. Then there's still... And so they gathered literature. It was supposed to be that if they gathered again,...  
 **Translation:** 
 
-**[1451.28s] English:** их вместе, будет вся библиотека. Но случилось противоположное. Вот что, по-моему, произошло.  
+**[1451.28s] English:** Here together, will be the whole library. But the opposite happened. This is what I think occurred.  
 **Translation:** 
 
-**[1457.34s] English:** Павелоняне с юга работали рукообраку с эламитами из Ирана. Они захватили Осирию в тиски, побили ее  
+**[1457.34s] English:** Pavoniani from the south worked hand in hand with Elamites from Iran. They brought Assyria under their control and defeated her.  
 **Translation:** 
 
-**[1466.62s] English:** и завоевали. Прошли через столицу и подожгли все. Прихватили всех женщин, взяли все украшения и все  
-**Translation:** 
+**[1466.62s] English:** And they conquered. They went through the capital and set everything on fire. They took all the women, seized all the jewelry, and everything else.  
+**Translation:** Vocabulary: assyria: 亚述; conquered: 征服; defeated: 击败; elamites: 埃兰人; pavoniani: 帕弗尼人
 
-**[1473.12s] English:** золото. Люди говорят, что в приступе гнева они уничтожили библиотеку. Но они не уничтожили бы  
+**[1473.12s] English:** Gold. People say that in a fit of rage they destroyed the library. But they wouldn't have  
 **Translation:** 
 
-**[1479.10s] English:** библиотеку, ведь это был гигантский мозг, из которого осирийцы управляли мировой империей.  
-**Translation:** 
+**[1479.10s] English:** The library, for it was a giant brain from which the Osirians controlled the world empire.  
+**Translation:** Vocabulary: osirians: 奥西里斯人
 
-**[1484.14s] English:** Там хранились все знания мира. И они их уничтожили? Они говорили на том же языке,  
+**[1484.14s] English:** There were all the world's knowledge stored there. Did they destroy it? They spoke the same language,  
 **Translation:** 
 
-**[1489.84s] English:** у них была та же система письма. Они бы забрали их и отвезли домой. Телега за телегой,  
+**[1489.84s] English:** They had the same writing system. They would have taken them and brought them home. Wagon after wagon.  
 **Translation:** 
 
-**[1496.02s] English:** за телегой, за телегой. Думаю, то, что осталось там, это дубликаты и поломанные таблички,  
+**[1496.02s] English:** Pulling the cart, pulling the cart. I think what's left there are duplicates and broken signs.  
 **Translation:** 
 
-**[1501.92s] English:** которые просто оставались. Хотя все считают, что это и есть библиотека. Так что тут тоже спорный  
-**Translation:** 
+**[1501.92s] English:** Which simply remained. Although everyone believes that this is indeed the library. So, it's also a contentious issue.  
+**Translation:** Vocabulary: contentious: 有争议的; duplicates: 重复的
 
-**[1508.08s] English:** момент. Ты без остановки наводишь суету. Это здравый смысл! Здравый!  
+**[1508.08s] English:** Moment. You keep creating chaos without stopping. This is common sense! Common sense!  
 **Translation:** 
 
-**[1513.22s] English:** Нас с тобой вдвоем отменят. Видишь ли, шутка в том, что все основано на  
+**[1513.22s] English:** We'll be the ones canceled, you see. The joke is that everything is based on  
 **Translation:** 
 
-**[1518.46s] English:** предположении, будто то, что у нас есть, это все, что когда-либо было. Но это большая ошибка. И с  
+**[1518.46s] English:** In the assumption that what we have is all that has ever been, but this is a great mistake. And with  
 **Translation:** 
 
-**[1525.80s] English:** ней не сойдется. И с ней не сойдется. И с ней не сойдется. И с ней не сойдется.  
-**Translation:** 
+**[1525.80s] English:** It doesn't work with her. And it doesn't work with her. And it doesn't work with her. And it doesn't work with her.  
+**Translation:** Vocabulary: assumption: 假设
 
-**[1526.00s] English:** Ненепременно нужно бороться. В общем, много клинописи уже расшифровали.  
+**[1526.00s] English:** Certainly. Necessarily, we need to fight. In general, a lot of cuneiform has already been deciphered.  
 **Translation:** 
 
-**[1533.52s] English:** Да. Можешь рассказать о процессе расшифровки? Насколько это трудно? Может быть,  
-**Translation:** 
+**[1533.52s] English:** Yes. Can you tell me about the process of transcription? How difficult is it? Maybe,  
+**Translation:** Vocabulary: cuneiform: 楔形文字; deciphered: 破译; transcription: 转写
 
-**[1540.36s] English:** ты проведешь нас своим путем, это изучение языка, решение головоломки, как это ощущается,  
+**[1540.36s] English:** You will guide us on your path, this language study, solving the puzzle, how it feels.  
 **Translation:** 
 
-**[1548.50s] English:** как это понять мозгом, не погруженным в контекст, и как все собрать воедино. Может быть,  
-**Translation:** 
+**[1548.50s] English:** How is this understood by a mind not immersed in the context, and how can all the pieces be put together? Maybe,  
+**Translation:** Vocabulary: immersed: 沉浸其中
 
-**[1555.78s] English:** расскажешь о ранних днях расшифровки, о розетском кармане.  
+**[1555.78s] English:** Tell me about the early days of decoding, and the Rosetta pouch.  
 **Translation:** 
 
-**[1560.00s] English:** мне клинописи? Это важно. Во-первых, как работает система клинописи. Ведь это важная точка. И как  
+**[1560.00s] English:** Is it cuneiform? This is important. First, how the cuneiform system works. It's a crucial point. And how  
 **Translation:** 
 
-**[1568.58s] English:** только ты ее поймешь, многое становится явным. Они писали слогами. Если взять английский алфавит,  
+**[1568.58s] English:** Only you will understand it, and much becomes clear. They wrote in syllables. If we take the English alphabet,  
 **Translation:** 
 
-**[1575.66s] English:** которого, конечно, у них не было, есть буквы B, G, D, P, H и так далее. Они не могли написать  
-**Translation:** 
+**[1575.66s] English:** Which they didn't have, of course, are letters like B, G, D, P, H, and so on. They couldn't write  
+**Translation:** Vocabulary: syllables: 音节
 
-**[1583.90s] English:** согласную. Просто не могли. Вот как они поступали. У них была гласная перед согласной или после.  
+**[1583.90s] English:** A consonant. Simply couldn't. That's how they acted. They had a vowel before a consonant or after one.  
 **Translation:** 
 
-**[1591.82s] English:** Скажем, у тебя есть АП и БА. Но поскольку у них было четыре гласных, были АП и БА, ИП и БИ,  
-**Translation:** 
+**[1591.82s] English:** Let's say you have AP and BA. But since they had four vowels, there were also IP and BI,  
+**Translation:** Vocabulary: consonant: 辅音; vowels: 元音
 
-**[1600.04s] English:** УП и БУ, ЭП и БЭ. Был диапазон гласных, сгруппированных вокруг того, что мы называем  
+**[1600.04s] English:** UP and BU, EP and BE. There was a range of vowels grouped around what we call  
 **Translation:** 
 
-**[1606.30s] English:** согласной. Такой диапазон был для всех букв, что дало им базовую систему. Вообще все было сложнее,  
+**[1606.30s] English:** Agreed. Such a range was assigned to all letters, which gave them a basic system. In general, it was much more complicated.  
 **Translation:** 
 
-**[1613.44s] English:** но нам не стоит вдаваться в подробности. В целом, если ты вавилонянин и хочешь написать слово  
+**[1613.44s] English:** But we shouldn't get into details. In general, if you are a Babylonian and want to write a word  
 **Translation:** 
 
-**[1620.12s] English:** «музей», а это, конечно, одно из самых важных слов в английском языке и в других языках тоже,  
-**Translation:** 
+**[1620.12s] English:** museum," and this, of course, is one of the most important words in the English language and in other languages as well.  
+**Translation:** Vocabulary: babylonian: 巴比伦的
 
-**[1626.60s] English:** ты бы делал так. Написал бы слог МУ, затем слог ЗЕ, а затем знак И. Ты бы разделял слово на  
+**[1626.60s] English:** You would do it this way. You would write the syllable MU, then the syllable ZE, and then the mark I. You would divide the word into  
 **Translation:** 
 
-**[1635.14s] English:** составляющие слоги. А когда читаешь, то собирал бы их вместе в музей. Это базовая система. У них  
-**Translation:** 
+**[1635.14s] English:** Syllables make up words. And when you read, you would gather them together in a museum. This is the basic system. They  
+**Translation:** Vocabulary: syllable: 音节
 
-**[1642.84s] English:** были и другие.  
+**[1642.84s] English:** There were others as well.  
 **Translation:** 
 
-**[1643.44s] English:** Знаки, которые давали подсказку о значении, написанное по краям, но в основном это слоговое  
-**Translation:** 
+**[1643.44s] English:** Signs, which gave a clue to the meaning, were written along the edges, but mostly this was syllabic.  
+**Translation:** Vocabulary: syllabic: 音节的
 
-**[1649.88s] English:** письмо. Так что, когда ты идешь в университет изучать клинопись, ты должен выучить все знаки и все  
+**[1649.88s] English:** Letter. So, when you go to university to study cuneiform, you should learn all the signs and everything.  
 **Translation:** 
 
-**[1659.06s] English:** их значения. Потому что, к сожалению, у них было не одно значение для каждого, их было множество.  
-**Translation:** 
+**[1659.06s] English:** Their values. Because, unfortunately, they had more than one value for each; there were many.  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[1666.90s] English:** И причина не в том, что они были безумны или хотели превратить жизнь в ад, а в том,  
+**[1666.90s] English:** And the reason is not that they were insane or wanted to turn life into hell, but in the fact that  
 **Translation:** 
 
-**[1673.44s] English:** что слоги происходят от письма шумерских слов.  
-**Translation:** 
+**[1673.44s] English:** What syllables originate from the writing of Sumerian words.  
+**Translation:** Vocabulary: originate: 源自; syllables: 音节
 
-**[1680.00s] English:** словаре было много слов, которые, вероятно, различались по тону. Может быть «ба», а восходящий  
+**[1680.00s] English:** In the dictionary were many words that, probably, differed in tone. Perhaps "ba," and the rising tone.  
 **Translation:** 
 
-**[1689.44s] English:** «а», а затем нисходящий. И все эти знаки сохраняют значение «ба», хотя тонов не было. Если  
-**Translation:** 
+**[1689.44s] English:** а," and then descending. And all these marks still have the value "ba," though there were no tones. If  
+**Translation:** Vocabulary: descending: 下降; differed: 不同
 
-**[1696.84s] English:** посмотреть на список знаков, их там множество. Есть «ба» номер один, обычный, есть «ба» номер два,  
+**[1696.84s] English:** Let's look at the list of signs; there are many of them. There's "ba" number one, the regular one, and there's "ba" number two,  
 **Translation:** 
 
-**[1702.80s] English:** есть «ба» номер три. Ты должен их все выучить. Нужно научиться правильно читать. В современном  
+**[1702.80s] English:** There is "ba" number three. You should learn them all. You need to learn how to read correctly. In modern  
 **Translation:** 
 
-**[1709.78s] English:** мире, если ты идешь в университет изучать ассериологию, чем, я надеюсь, ты и все твои подписчики  
+**[1709.78s] English:** In the world, if you are going to university to study Assyriology, which I hope you and all your subscribers will do,  
 **Translation:** 
 
-**[1715.66s] English:** займутся как можно скорее, ты будешь иметь дело с двумя языками, шумерским и вавилонским.  
-**Translation:** 
+**[1715.66s] English:** They will get to work as soon as possible. You will be dealing with two languages: Sumerian and Babylonian.  
+**Translation:** Vocabulary: assyriology: 亚述学; babylonian: 巴比伦语; subscribers: 订阅者
 
-**[1721.84s] English:** Первый момент. Вавилонский язык — это семитский язык, который, хоть он и вымер, связан с или  
+**[1721.84s] English:** First moment. The Babylonian language is a Semitic language, which, although it has died out, is related to or  
 **Translation:** 
 
-**[1731.50s] English:** родственен евриту, арамейскому, арабскому, эфиопскому, сирийскому, всем живым семитским языкам.  
-**Translation:** 
+**[1731.50s] English:** Related to Hebrew, Aramaic, Arabic, Ethiopian, Syriac, and all other living Semitic languages.  
+**Translation:** Vocabulary: aramaic: 亚拉姆语; ethiopian: 埃塞俄比亚语; hebrew: 希伯来语; semitic: 闪语的; syriac: 叙利亚语
 
-**[1739.78s] English:** Вавилонский — просто ранний пример. Когда появилась расшифровка, ученые обратились к семитскому  
+**[1739.78s] English:** Babylonian — simply an early example. When decipherment appeared, scientists turned to Semitic.  
 **Translation:** 
 
-**[1747.24s] English:** словарю, чтобы идентифицировать слова, существительные и корни. Другой язык, шумерский, тот,  
-**Translation:** 
+**[1747.24s] English:** To identify words, nouns, and roots in a dictionary. Another language, Sumerian, that,  
+**Translation:** Vocabulary: decipherment: 破译
 
-**[1754.90s] English:** где ты вставляешь кусочки в начало и вставляешь кусочки в конец, не только не семитский. Он вообще  
+**[1754.90s] English:** Where you insert pieces at the beginning and at the end, this is not exclusively Semitic. It's generally  
 **Translation:** 
 
-**[1762.46s] English:** не связан ни с каким другим известным языком. О, нет. Это завораживающая штука. Завораживающая.  
-**Translation:** 
+**[1762.46s] English:** It is not related to any other known language. Oh, no. It's a fascinating thing. Fascinating.  
+**Translation:** Vocabulary: insert: 插入
 
-**[1769.78s] English:** И вот как ее понять. Языки, которые мы сегодня изучаем, которые изучают лингвисты, они все более-менее  
+**[1769.78s] English:** Here's how to understand it. The languages we study today, which linguists study, are all more or less  
 **Translation:** 
 
-**[1778.02s] English:** попадают в языковую группу. Есть индоевропейский, испанский, итальянский, латынь, хетский и так  
-**Translation:** 
+**[1778.02s] English:** Populate in a language group. There is Indo-European, Spanish, Italian, Latin, Hittite, and so on.  
+**Translation:** Vocabulary: hittite: 赫梯语; linguists: 语言学家
 
-**[1785.68s] English:** далее. Французский — это одна группа. Есть германские, есть славянские. Большинство языков,  
+**[1785.68s] English:** Next, French is one group. There are Germanic and Slavic languages as well. Most languages,  
 **Translation:** 
 
-**[1793.22s] English:** пусть и отдаленно, но попадает в то, что можно назвать большой группой, языковой семьей.  
-**Translation:** 
+**[1793.22s] English:** пусть и отдаленно, но попадает в то, что можно назвать большой группой языковой семьей.  
+**Translation:** Vocabulary: slavic: 斯拉夫语族的
 
-**[1799.78s] English:** Продолжение следует.  
+**[1799.78s] English:** Continues next.  
 **Translation:** 
 
-**[1800.00s] English:** У шумерского семьи нет.  
+**[1800.00s] English:** The Sumerian family doesn't have it.  
 **Translation:** 
 
-**[1802.86s] English:** Что это означает?  
+**[1802.86s] English:** What does this mean?  
 **Translation:** 
 
-**[1804.22s] English:** Правда в том, что языки не существуют в вакууме, они часть большой семьи.  
-**Translation:** 
+**[1804.22s] English:** The truth is that languages don't exist in a vacuum; they are part of a large family.  
+**Translation:** Vocabulary: vacuum: 真空
 
-**[1809.50s] English:** И так должно было быть всегда.  
+**[1809.50s] English:** And so it should have been always.  
 **Translation:** 
 
-**[1811.98s] English:** Когда около 3000 года до нашей эры появляется письменность,  
+**[1811.98s] English:** When around 3000 BCE writing appears,  
 **Translation:** 
 
-**[1817.18s] English:** позволяющая записать язык,  
+**[1817.18s] English:** Allowing the recording of the language,  
 **Translation:** 
 
-**[1818.88s] English:** это означает, что шумерский был записан как раз вовремя.  
+**[1818.88s] English:** This means that Sumerian was recorded just in time.  
 **Translation:** 
 
-**[1825.06s] English:** А большие языки, может быть, в Китае, в России, где-то еще в Азии,  
+**[1825.06s] English:** Here are the natural English punctuation and capitalization additions: Transcript: And the big languages, perhaps, in China, in Russia, somewhere else in Asia.  
 **Translation:** 
 
-**[1830.50s] English:** которые были связаны с шумерским,  
-**Translation:** 
+**[1830.50s] English:** Which were associated with Sumerian,  
+**Translation:** Vocabulary: capitalization: 标点符号; transcript: 录音脚本
 
-**[1833.74s] English:** ушли, исчезли.  
+**[1833.74s] English:** Left, disappeared.  
 **Translation:** 
 
-**[1835.32s] English:** Навсегда, если только не случится что-то удивительное.  
+**[1835.32s] English:** Forever, unless something amazing happens.  
 **Translation:** 
 
-**[1839.14s] English:** Итак, у нас есть один представитель этой причудливой семьи.  
+**[1839.14s] English:** So, we have one representative of this peculiar family.  
 **Translation:** 
 
-**[1843.78s] English:** Потрясающе.  
-**Translation:** 
+**[1843.78s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to use natural English punctuation and capitalization while keeping the same meaning without translating, and considering "Потрясающе" is Russian for "Amazing," the improved sentence would be: Amazing.  
+**Translation:** Vocabulary: peculiar: 奇怪; translating: 翻译
 
-**[1844.50s] English:** Да, и это очень стимулирующее осознание.  
+**[1844.50s] English:** Yes, and this is a very stimulating realization.  
 **Translation:** 
 
-**[1848.14s] English:** Я лично верю, что у неандертальцев и ранних хомо-сапиенс точно был язык.  
-**Translation:** 
+**[1848.14s] English:** I personally believe that Neanderthals and early Homo sapiens definitely had a language.  
+**Translation:** Vocabulary: neanderthals: 尼安德特人; realization: 领悟; sapiens: 智人; stimulating: 令人兴奋的
 
-**[1854.22s] English:** Они точно разговаривали друг с другом.  
+**[1854.22s] English:** They definitely talked to each other.  
 **Translation:** 
 
-**[1857.30s] English:** Иначе невозможно.  
+**[1857.30s] English:** Otherwise, it is impossible.  
 **Translation:** 
 
-**[1859.14s] English:** Наступил момент, когда они начали общаться.  
+**[1859.14s] English:** The moment had arrived when they began to communicate.  
 **Translation:** 
 
-**[1862.34s] English:** Сто тысяч лет жизни они жили в Европе, выжили в ледниковый период,  
+**[1862.34s] English:** They lived in Europe for one hundred thousand years, surviving the ice age.  
 **Translation:** 
 
-**[1866.96s] English:** все жили вместе, растили детей.  
+**[1866.96s] English:** All lived together, raising children.  
 **Translation:** 
 
-**[1870.22s] English:** Ты думаешь, они не могли говорить?  
+**[1870.22s] English:** You think they couldn't talk?  
 **Translation:** 
 
-**[1872.06s] English:** У них такой же аппарат.  
+**[1872.06s] English:** They have the same apparatus.  
 **Translation:** 
 
-**[1873.84s] English:** Если у тебя человеческий мозг, то он реагирует на стимулы.  
-**Translation:** 
+**[1873.84s] English:** If you have a human brain, it reacts to stimuli.  
+**Translation:** Vocabulary: reacts: 反应; stimuli: 刺激
 
-**[1877.74s] English:** А чем больше стимулов для коммуникации...  
+**[1877.74s] English:** What the more communication stimuli there are,...  
 **Translation:** 
 
-**[1880.58s] English:** Представь, что ты и я охотимся на носорога.  
-**Translation:** 
+**[1880.58s] English:** Imagine that you and I are hunting a rhino.  
+**Translation:** Vocabulary: rhino: 犀牛
 
-**[1883.24s] English:** И ты говоришь...  
+**[1883.24s] English:** Do you say...  
 **Translation:** 
 
-**[1884.22s] English:** Лекс!  
+**[1884.22s] English:** Lex!  
 **Translation:** 
 
-**[1886.88s] English:** Заткнись, я концентрируюсь.  
+**[1886.88s] English:** Zatnisi, ya koncentriuszhuemyasya.  
 **Translation:** 
 
-**[1888.56s] English:** Лекс!  
-**Translation:** 
+**[1888.56s] English:** Lex!  
+**Translation:** Vocabulary: zatnisi: 会议
 
-**[1889.44s] English:** Лекс!  
+**[1889.44s] English:** Lex!  
 **Translation:** 
 
-**[1890.24s] English:** И я вдруг думаю...  
+**[1890.24s] English:** And I suddenly think...  
 **Translation:** 
 
-**[1891.54s] English:** О, я понял!  
+**[1891.54s] English:** Oh, I got it!  
 **Translation:** 
 
-**[1893.40s] English:** Ты!  
+**[1893.40s] English:** You!  
 **Translation:** 
 
-**[1894.30s] English:** Лекс!  
+**[1894.30s] English:** Lex!  
 **Translation:** 
 
-**[1895.56s] English:** Тебе лишь нужно представиться, ну и ты знаешь, кто я.  
+**[1895.56s] English:** You just need to introduce yourself, and you know who I am.  
 **Translation:** 
 
-**[1898.22s] English:** Получается, я знаю, что я это я, а ты это ты.  
+**[1898.22s] English:** It turns out, I know that I am me, and you are you.  
 **Translation:** 
 
-**[1901.40s] English:** Люди говорят, что у них не было понятия эго.  
+**[1901.40s] English:** People say that they had no concept of ego.  
 **Translation:** 
 
-**[1904.08s] English:** Это же ужасно глупо.  
+**[1904.08s] English:** This is just horribly stupid.  
 **Translation:** 
 
-**[1906.04s] English:** Если ты порежешь свою руку ножом, ты точно испытаешь.  
-**Translation:** 
+**[1906.04s] English:** If you cut your hand with a knife, you will definitely feel it.  
+**Translation:** Vocabulary: horribly: 极其地
 
-**[1911.62s] English:** Это переживание.  
+**[1911.62s] English:** This is an experience.  
 **Translation:** 
 
-**[1912.70s] English:** Это больно.  
+**[1912.70s] English:** This is painful.  
 **Translation:** 
 
-**[1914.22s] English:** Очень.  
+**[1914.22s] English:** Very.  
 **Translation:** 
 
-**[1914.74s] English:** Ты можешь истечь кровью.  
+**[1914.74s] English:** You can bleed.  
 **Translation:** 
 
-**[1916.32s] English:** Это не чья-то рука.  
+**[1916.32s] English:** This is not anyone's hand.  
 **Translation:** 
 
-**[1919.00s] English:** Это твоя рука.  
+**[1919.00s] English:** This is your hand.  
 **Translation:** 
 
-**[1919.90s] English:** Это твоя рука.  
+**[1919.90s] English:** This is your hand.  
 **Translation:** 
 
-**[1920.00s] English:** Твое существование и твоя жизнь под угрозой.  
+**[1920.00s] English:** Your existence and life are under threat.  
 **Translation:** 
 
-**[1922.64s] English:** Ты думаешь, люди не осознавали, что они сущность?  
+**[1922.64s] English:** You think that people didn't realize they are essences?  
 **Translation:** 
 
-**[1925.28s] English:** Я в это не верю.  
-**Translation:** 
+**[1925.28s] English:** I don't believe in that.  
+**Translation:** Vocabulary: essences: 本质
 
-**[1926.74s] English:** И у них, вероятно, был способ выразить это звуками.  
+**[1926.74s] English:** And they probably had a way to express this through sounds.  
 **Translation:** 
 
-**[1930.78s] English:** В итоге, да. Название.  
+**[1930.78s] English:** In the end, yes. Title.  
 **Translation:** 
 
-**[1933.40s] English:** Название?  
+**[1933.40s] English:** Title?  
 **Translation:** 
 
-**[1934.30s] English:** Название вещей.  
+**[1934.30s] English:** Title of Things.  
 **Translation:** 
 
-**[1935.76s] English:** Появляется идея, что метку можно чем-то присвоить.  
+**[1935.76s] English:** The idea arises that a tag can be assigned something.  
 **Translation:** 
 
-**[1938.78s] English:** Загорается лампочка, и в следующую минуту появляется носорог.  
-**Translation:** 
+**[1938.78s] English:** A lamp lights up, and in the next minute, a rhinoceros appears.  
+**Translation:** Vocabulary: rhinoceros: 犀牛
 
-**[1942.00s] English:** У тебя есть кожа, младенцы.  
+**[1942.00s] English:** You have skin, babies.  
 **Translation:** 
 
-**[1944.02s] English:** Я думаю, появляется идея.  
+**[1944.02s] English:** I think an idea is forming.  
 **Translation:** 
 
-**[1945.76s] English:** Идея затем управляет мозгом, и у мозга появляется другая идея.  
+**[1945.76s] English:** The idea then controls the mind, and the mind comes up with another idea.  
 **Translation:** 
 
-**[1949.44s] English:** Некая плодовитость.  
+**[1949.44s] English:** Certain productivity.  
 **Translation:** 
 
-**[1951.60s] English:** Какая мотивация — основной фактор развития письменного языка?  
+**[1951.60s] English:** What is the motivation — the main factor in the development of written language?  
 **Translation:** 
 
-**[1955.70s] English:** Идет ли он рука об руку с цивилизацией?  
+**[1955.70s] English:** Does he go hand in hand with civilization?  
 **Translation:** 
 
-**[1960.08s] English:** Думаю, он появляется, когда много людей живут в городской среде.  
+**[1960.08s] English:** I think he appears when many people live in urban environments.  
 **Translation:** 
 
-**[1967.48s] English:** С соперничающими институтами, царем или правительством, или подобными штуками.  
-**Translation:** 
+**[1967.48s] English:** With competing institutions, a king or government, or similar entities.  
+**Translation:** Vocabulary: environments: 环境
 
-**[1974.74s] English:** Поэтому я думаю, что в Гиппи Глитэпе было то же самое.  
+**[1974.74s] English:** Therefore, I think that there was the same thing in Hippie Glitter as well.  
 **Translation:** 
 
-**[1977.96s] English:** Я читал где-то, мол, они все были кочевниками, и приходили в Гиппи Глитэпе лишь три месяца в году.  
-**Translation:** 
+**[1977.96s] English:** I read somewhere that they were all nomads and would only visit Ghippi Glitepe for three months a year.  
+**Translation:** Vocabulary: glitepe: 吉比特; glitter: 闪光; hippie: 嬉皮士; nomads: 游牧民
 
-**[1985.20s] English:** Но не может быть так, чтобы они были кочевниками.  
+**[1985.20s] English:** But it cannot be that they were nomads.  
 **Translation:** 
 
-**[1989.02s] English:** Просто не может быть.  
+**[1989.02s] English:** Simply cannot be.  
 **Translation:** 
 
-**[1990.72s] English:** Нужно где-то взять камень.  
+**[1990.72s] English:** We need to get a stone from somewhere.  
 **Translation:** 
 
-**[1992.10s] English:** Кто-то должен нарисовать на земле план здания.  
+**[1992.10s] English:** Someone should draw a plan of the building on the ground.  
 **Translation:** 
 
-**[1995.30s] English:** Нужно высчитать, насколько она будет широкая, высокая.  
+**[1995.30s] English:** We need to calculate how wide and how tall it will be.  
 **Translation:** 
 
-**[1999.30s] English:** Это невозможно, если...  
+**[1999.30s] English:** This is impossible if...  
 **Translation:** 
 
-**[2000.96s] English:** Если вы как горилла.  
+**[2000.96s] English:** If you are like a gorilla.  
 **Translation:** 
 
-**[2006.04s] English:** Ладно.  
-**Translation:** 
+**[2006.04s] English:** Okay.  
+**Translation:** Vocabulary: gorilla: 类人猿
 
-**[2006.52s] English:** Итак, расшифровка.  
+**[2006.52s] English:** So, the transcription.  
 **Translation:** 
 
-**[2007.88s] English:** Процесс расшифровки.  
-**Translation:** 
+**[2007.88s] English:** Process of decoding.  
+**Translation:** Vocabulary: transcription: 录音转写
 
-**[2008.88s] English:** Когда я начал, была грамматика, и ученые, и словари.  
+**[2008.88s] English:** When I began, there was grammar, scientists, and dictionaries.  
 **Translation:** 
 
-**[2012.88s] English:** Все было замечательно.  
+**[2012.88s] English:** All was wonderful.  
 **Translation:** 
 
-**[2013.88s] English:** Все было расшифровано.  
+**[2013.88s] English:** All was deciphered.  
 **Translation:** 
 
-**[2014.88s] English:** Нужно лишь изучить.  
-**Translation:** 
+**[2014.88s] English:** It simply requires studying.  
+**Translation:** Vocabulary: deciphered: 破译
 
-**[2016.88s] English:** Но в начале, когда только обнаружили первые таблички и кирпичи с клинописью, никто не смог их прочесть.  
+**[2016.88s] English:** But at first, when the first tablets and bricks with cuneiform were discovered, nobody was able to read them.  
 **Translation:** 
 
-**[2024.88s] English:** Они знали, что это письменность, но не знали, как ее читать.  
-**Translation:** 
+**[2024.88s] English:** They knew it was writing, but they didn't know how to read it.  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[2027.88s] English:** Вот что произошло.  
+**[2027.88s] English:** Here's what happened.  
 **Translation:** 
 
-**[2029.88s] English:** Ты упомянул розетский камень, и тут было нечто сопоставимое.  
+**[2029.88s] English:** You mentioned the Rosetta stone, and there was something comparable there.  
 **Translation:** 
 
-**[2034.88s] English:** Существовала надпись одного из названий.  
+**[2034.88s] English:** There existed a inscription of one of the names.  
 **Translation:** 
 
-**[2037.88s] English:** Гроза Его,downing or the Green Gables.  
-**Translation:** Vocabulary: gables: 山墙
+**[2037.88s] English:** Groz'a His, downing, or the Green Gables.  
+**Translation:** Vocabulary: gables: 山墙; inscription: 铭文
 
-**[2039.88s] English:** Это прозвучал текстом Меркурия, который был заставлен им это указывать.  
+**[2039.88s] English:** This was Mercury's text, which he insisted on including.  
 **Translation:** 
 
-**[2041.88s] English:** Существовали там тексты, прозвучавшие на религиозные слова.  
-**Translation:** 
+**[2040.00s] English:** Paths up the mountain at a place called Behistun,  
+**Translation:** Vocabulary: behistun: 比辛图恩岩刻
 
-**[2043.88s] English:** А теперь, которые переводят эти слова?  
+**[2041.88s] English:** There were texts there that sounded like religious words.  
 **Translation:** 
 
-**[2044.88s] English:** Да.  
-**Translation:** 
+**[2043.88s] English:** Now, which of you are translating these words?  
+**Translation:** Vocabulary: translating: 翻译
 
-**[2045.88s] English:** То есть, у нас на примере письма было смешано все это, что было написано в письме первого ритма.  
+**[2044.08s] English:** Where did this king Darius write a report about his successes on?  
 **Translation:** 
 
-**[2049.88s] English:** И это было конкретное словарьство.  
+**[2044.88s] English:** Yes.  
 **Translation:** 
 
-**[2051.88s] English:** Это было чёрно-белое, оно не было новое.  
+**[2045.88s] English:** So, in our example of the letter, it was all mixed up with what was written in the first rhythm.  
 **Translation:** 
 
-**[2053.88s] English:** И было разнообразное.  
-**Translation:** 
+**[2049.88s] English:** And that was specific lexicography.  
+**Translation:** Vocabulary: lexicography: 辞书编纂
 
-**[2055.88s] English:** Но из этого переведения было выражено сочное наполнение телей.  
+**[2050.20s] English:** In Ilam, on Babylonian, and on Ancient Persian.  
 **Translation:** 
 
-**[2059.88s] English:** Это было столь ажиотажное, что было понятное, что было неожиданное, что было неожиданное.  
-**Translation:** 
+**[2051.88s] English:** This was black and white, it was not new.  
+**Translation:** Vocabulary: babylonian: 巴比伦的; persian: 波斯的
 
-**[2064.88s] English:** Мне не понравилось.  
+**[2053.88s] English:** And it was diverse.  
 **Translation:** 
 
-**[2040.00s] English:** пути вверх по горе в месте под названием Бехистун,  
+**[2055.88s] English:** But from this translation, the rich filling of the pies was expressed.  
 **Translation:** 
 
-**[2044.08s] English:** где этот царь Дарий написал отчет о своих успехах на  
+**[2056.34s] English:** This is a three-language phrase.  
 **Translation:** 
 
-**[2050.20s] English:** Иламском, на Вавилонском и на Древнеперсидском.  
-**Translation:** 
+**[2058.92s] English:** Draconic, though this is obviously archaic.  
+**Translation:** Vocabulary: archaic: 古董的; draconic: 严厉的
 
-**[2056.34s] English:** Это трехязычная фраза.  
+**[2059.88s] English:** This was so sensational that what was expected was unexpected, and what was unexpected was even more unexpected.  
 **Translation:** 
 
-**[2058.92s] English:** Древнеперсидский, хотя это очевидно архаичная  
-**Translation:** 
+**[2061.24s] English:** Form of the language, Persian is still alive; it is still  
+**Translation:** Vocabulary: sensational: 惊人的
 
-**[2061.24s] English:** форма языка, персидский все еще жив, он все еще  
+**[2064.20s] English:** Was alive in the 19th century.  
 **Translation:** 
 
-**[2064.20s] English:** был жив в 19 веке.  
+**[2064.88s] English:** I did not like it.  
 **Translation:** 
 
-**[2065.76s] English:** И поскольку Древнеперсидский был написан в очень простой  
+**[2065.76s] English:** Since Ancient Persian was written in very simple  
 **Translation:** 
 
-**[2070.00s] English:** том стиле клинописи, они поняли, что это за язык,  
+**[2070.00s] English:** In cuneiform style, they understood what this language was.  
 **Translation:** 
 
-**[2075.22s] English:** расшифровали его, прочитали имя Дарая Вауш.  
+**[2075.22s] English:** They deciphered it, reading the name Daria Vaush.  
 **Translation:** 
 
-**[2078.70s] English:** И потом кто-то резко понял, что две другие колонки  
-**Translation:** 
+**[2078.70s] English:** Then someone suddenly realized that there were two other columns.  
+**Translation:** Vocabulary: daria: 达丽亚
 
-**[2081.34s] English:** были примерно той же длины.  
+**[2081.34s] English:** They were approximately the same length.  
 **Translation:** 
 
-**[2083.98s] English:** Блянь-поглянь, там было сказано «Я Дарий, великий  
-**Translation:** 
+**[2083.98s] English:** Blyany-pglyany, there it said "I am Darius, the great,  
+**Translation:** Vocabulary: darius: 大流士
 
-**[2087.26s] English:** царь, царь мира, царь-сын, бла-бла-бла, внук бла-бла-бла».  
+**[2087.26s] English:** King, King of the World, Son-King, blabla, grandson blabla.  
 **Translation:** 
 
-**[2090.56s] English:** Там целый абзац с повторяющимися словами на персидском,  
+**[2090.56s] English:** There is an entire paragraph with repeated words in Persian,  
 **Translation:** 
 
-**[2095.28s] English:** которые они могли понять.  
+**[2095.28s] English:** Which they could understand.  
 **Translation:** 
 
-**[2097.84s] English:** И что же, эти отрывки?  
-**Translation:** 
+**[2097.84s] English:** What are these excerpts, then?  
+**Translation:** Vocabulary: excerpts: 节选
 
-**[2099.50s] English:** Повторяли?  
+**[2099.50s] English:** Did you repeat it?  
 **Translation:** 
 
-**[2100.00s] English:** Они оказались на двух других языках.  
+**[2100.00s] English:** They turned out to be in two other languages.  
 **Translation:** 
 
-**[2102.10s] English:** Это был ключ своего рода.  
+**[2102.10s] English:** This was a key of sorts.  
 **Translation:** 
 
-**[2105.84s] English:** Далато, которая взломала клинопись.  
-**Translation:** 
+**[2105.84s] English:** Dalato, who deciphered the clay tablet script.  
+**Translation:** Vocabulary: deciphered: 破译
 
-**[2109.66s] English:** Более того, вскоре они поняли, что вавилонский был семитским  
+**[2109.66s] English:** Furthermore, they soon realized that Babylonian was Semitic.  
 **Translation:** 
 
-**[2114.92s] English:** языком.  
-**Translation:** 
+**[2114.92s] English:** Language.  
+**Translation:** Vocabulary: semitic: 闪含语系的
 
-**[2116.06s] English:** Это было очень важно.  
+**[2116.06s] English:** This was very important.  
 **Translation:** 
 
-**[2117.30s] English:** Кажется, первое слово, которое они обнаружили, было слово  
+**[2117.30s] English:** It seems that the first word they discovered was the word  
 **Translation:** 
 
-**[2120.44s] English:** «река».  
+**[2120.44s] English:** River.  
 **Translation:** 
 
-**[2121.58s] English:** Это «нару» на аккадском и «нахар» на арабском и арамейском.  
-**Translation:** 
+**[2121.58s] English:** This is "naru" in Akkadian and "nahar" in Arabic and Aramaic.  
+**Translation:** Vocabulary: akkadian: 阿卡德语; aramaic: 亚拉姆语
 
-**[2127.70s] English:** Когда они поняли, что слово «река» было «нару» на аккадском  
+**[2127.70s] English:** When they understood that the word "river" was "naru" in Akkadian,  
 **Translation:** 
 
-**[2130.00s] English:** языке, и слово, которое соответствовало персидскому,  
-**Translation:** 
+**[2130.00s] English:** In the language, and the word which corresponded to Persian,  
+**Translation:** Vocabulary: corresponded: 相符
 
-**[2132.56s] English:** имело такую форму, это был подарок.  
+**[2132.56s] English:** It had such a form; it was a gift.  
 **Translation:** 
 
-**[2135.72s] English:** Чистое золото.  
+**[2135.72s] English:** Pure gold.  
 **Translation:** 
 
-**[2136.72s] English:** Ведь все немедленно схватили арабские и еврейские словари  
+**[2136.72s] English:** Because everyone immediately grabbed the Arabic and Jewish dictionaries.  
 **Translation:** 
 
-**[2139.18s] English:** и начали листать, ища слова, которые подошли бы в контексте.  
-**Translation:** 
+**[2139.18s] English:** And we started scrolling, looking for words that would fit in the context.  
+**Translation:** Vocabulary: scrolling: 浏览
 
-**[2142.92s] English:** По сути, они расшифровали эту надпись таким способом.  
+**[2142.92s] English:** In essence, they decoded this inscription in such a way.  
 **Translation:** 
 
-**[2147.10s] English:** Конечно, все другие надписи расшифровали по порядку,  
-**Translation:** 
+**[2147.10s] English:** Of course, all other inscriptions were decoded in order,  
+**Translation:** Vocabulary: decoded: 破译; inscription: 铭文; inscriptions: 铭文
 
-**[2151.22s] English:** и было много, много трудностей, которые нужно было решить.  
+**[2151.22s] English:** And there were many, many difficulties that needed to be solved.  
 **Translation:** 
 
-**[2155.10s] English:** Но вкратце так.  
+**[2155.10s] English:** But in brief, that's it.  
 **Translation:** 
 
-**[2156.10s] English:** Без этой трехъязычной надписи я не знаю, что было.  
+**[2156.10s] English:** Without this trilingual inscription, I do not know what it was.  
 **Translation:** 
 
-**[2157.10s] English:** Я не знаю, что было.  
-**Translation:** 
+**[2157.10s] English:** I do not know what happened.  
+**Translation:** Vocabulary: trilingual: 三语的
 
-**[2158.10s] English:** Я не знаю, что было.  
+**[2158.10s] English:** I do not know what happened.  
 **Translation:** 
 
-**[2159.10s] English:** Я не знаю, что было.  
+**[2159.10s] English:** I do not know what happened.  
 **Translation:** 
 
-**[2160.00s] English:** бы.  
+**[2160.00s] English:** By.  
 **Translation:** 
 
-**[2161.00s] English:** Полагаю, можно представить, что в очень современном  
+**[2161.00s] English:** I believe we can imagine that in a very modern  
 **Translation:** 
 
-**[2163.46s] English:** мире что-то могло бы произойти.  
+**[2163.46s] English:** In the world, something could happen.  
 **Translation:** 
 
-**[2167.48s] English:** Так или иначе, это результат работы чистого разума очень-очень  
+**[2167.48s] English:** Tак или иначе, это результат работы чистого разума, очень-очень  
 **Translation:** 
 
-**[2171.00s] English:** умных людей, взломавших код языка.  
+**[2171.00s] English:** Intelligent people, who have cracked the code of language.  
 **Translation:** 
 
-**[2174.76s] English:** Эламайский язык гораздо сложнее, но они и с ним  
-**Translation:** 
+**[2174.76s] English:** The Elamite language is much more complex, but they manage with it.  
+**Translation:** Vocabulary: cracked: 破解; elamite: 埃兰语
 
-**[2177.26s] English:** справились.  
+**[2177.26s] English:** They managed.  
 **Translation:** 
 
-**[2178.26s] English:** Это очень романтическая история, потому что надпись  
+**[2178.26s] English:** This is a very romantic story because the inscription  
 **Translation:** 
 
-**[2181.40s] English:** была вырезана на горном склоне, высоко над равниной.  
+**[2181.40s] English:** Was carved on a mountain slope, high above the plain.  
 **Translation:** 
 
-**[2185.56s] English:** Генри Роулисон, благородный молодой британский офицер,  
-**Translation:** 
+**[2185.56s] English:** Henry Row利son, a noble young British officer,  
+**Translation:** Vocabulary: carved: 雕刻
 
-**[2189.76s] English:** который совсем неоправданно претендовал на расшифровку  
+**[2189.76s] English:** Which completely unjustifiably claimed to decode  
 **Translation:** 
 
-**[2192.26s] English:** клинописи, поднялся туда с каким-то несчастным ребенком  
+**[2192.26s] English:** Clay tablets, he went up there with some unfortunate child.  
 **Translation:** 
 
-**[2195.62s] English:** и сделал оттиски надписи с видом на равнину, в тысячи  
+**[2195.62s] English:** And he made impressions of the inscription with a view of the plain, in thousands.  
 **Translation:** 
 
-**[2199.72s] English:** футов над землей.  
+**[2199.72s] English:** feet above the ground.  
 **Translation:** 
 
-**[2201.88s] English:** Он принес их обратно, и их использовали в расшифровке.  
+**[2201.88s] English:** He brought them back, and they were used in the decryption.  
 **Translation:** 
 
-**[2205.00s] English:** Романтично.  
-**Translation:** 
+**[2205.00s] English:** Romantically.  
+**Translation:** Vocabulary: decryption: 解密; romantically: 浪漫地
 
-**[2206.00s] English:** Погоди-ка, еще одно спорное заявление.  
+**[2206.00s] English:** Hold on, another contentious statement.  
 **Translation:** 
 
-**[2210.04s] English:** Генри Роулинсон не заслуживает лавров?  
-**Translation:** 
+**[2210.04s] English:** Does Henry Rowlinson not deserve the laurels?  
+**Translation:** Vocabulary: contentious: 有争议的; laurels: 荣誉桂冠
 
-**[2212.76s] English:** Нет, не думаю.  
+**[2212.76s] English:** No, I don't think so.  
 **Translation:** 
 
-**[2214.00s] English:** Его называют отцом ассериологии, но думаю, что он отчим ассериологии,  
-**Translation:** 
+**[2214.00s] English:** He is called the father of asseriology, but I think he is more of an stepfather to it.  
+**Translation:** Vocabulary: stepfather: 继父
 
-**[2218.80s] English:** ведь когда он впервые  
+**[2218.80s] English:** Well, when he first  
 **Translation:** 
 
-**[2219.68s] English:** занялся этими надписями, он написал об этом большую  
+**[2219.68s] English:** He became interested in these inscriptions and wrote about them at length.  
 **Translation:** 
 
-**[2222.24s] English:** книгу, и она почти вся была неверна.  
+**[2222.24s] English:** The book, and it was almost entirely incorrect.  
 **Translation:** 
 
-**[2224.24s] English:** В Северной Ирландии был священник по имени Эдвард  
+**[2224.24s] English:** In Northern Ireland, there was a priest named Edward.  
 **Translation:** 
 
-**[2228.20s] English:** Хинкс.  
+**[2228.20s] English:** Hincks.  
 **Translation:** 
 
-**[2229.20s] English:** Он жил в месте под названием Киллели, у него было пять  
-**Translation:** 
+**[2229.20s] English:** He lived in a place called Killelli, and he had five.  
+**Translation:** Vocabulary: killelli: 基勒利
 
-**[2233.36s] English:** дочерей.  
+**[2233.36s] English:** Daughters.  
 **Translation:** 
 
-**[2234.36s] English:** Он был пасторем, и вот он, возможно, был настоящим  
+**[2234.36s] English:** He was a pastor, and here he possibly was indeed.  
 **Translation:** 
 
-**[2238.16s] English:** гением.  
+**[2238.16s] English:** Genius.  
 **Translation:** 
 
-**[2239.16s] English:** Ну или очень близок к гению.  
+**[2239.16s] English:** Nu, or very close to a genius.  
 **Translation:** 
 
-**[2241.68s] English:** Вот что с ним случилось.  
+**[2241.68s] English:** Here's what happened to him.  
 **Translation:** 
 
-**[2243.76s] English:** Существовало соревнование, такой вызов, расшифровать  
-**Translation:** 
+**[2243.76s] English:** There existed a competition, a challenge to decipher,  
+**Translation:** Vocabulary: decipher: 破译
 
-**[2247.28s] English:** иероглифическую письменность, за которую  
+**[2247.28s] English:** Hieroglyphic writing, for which  
 **Translation:** 
 
-**[2249.60s] English:** Шампальон обычно получает лавры.  
-**Translation:** 
+**[2249.60s] English:** Shaumpyon usually receives the laurels.  
+**Translation:** Vocabulary: hieroglyphic: 象形文字
 
-**[2252.40s] English:** И Хинкс был очень заинтересован попытаться расшифровать  
+**[2252.40s] English:** And Hinx was very interested in trying to decipher  
 **Translation:** 
 
-**[2256.32s] English:** иероглифы раньше французов.  
-**Translation:** 
+**[2256.32s] English:** Hieroglyphs were discovered before the French.  
+**Translation:** Vocabulary: hieroglyphs: 象形文字
 
-**[2258.00s] English:** Он попал в тупик на одной из стадий и подумал, что  
+**[2258.00s] English:** He hit a roadblock at one of the stages and thought that  
 **Translation:** 
 
-**[2261.92s] English:** посмотрит на клинопись, мол, вдруг это будет полезно.  
-**Translation:** 
+**[2261.92s] English:** He looks at the cuneiform, just in case it might be useful.  
+**Translation:** Vocabulary: cuneiform: 楔形文字; roadblock: 障碍
 
-**[2265.00s] English:** И одновременно взломал и этот шифр.  
+**[2265.00s] English:** And at the same time, he cracked this cipher as well.  
 **Translation:** 
 
-**[2269.36s] English:** Он выяснил, как она работала.  
-**Translation:** 
+**[2269.36s] English:** He found out how she worked.  
+**Translation:** Vocabulary: cipher: 密码; cracked: 破解
 
-**[2271.96s] English:** Он понял, что один знак может иметь более одного значения  
+**[2271.96s] English:** He understood that one sign may have more than one meaning.  
 **Translation:** 
 
-**[2275.20s] English:** — звука и смысла, что они многозначны.  
-**Translation:** 
+**[2275.20s] English:** — There is no single sound or meaning; they are often multivalent.  
+**Translation:** Vocabulary: multivalent: 一物多用
 
-**[2278.36s] English:** Я пытался.  
+**[2278.36s] English:** I tried.  
 **Translation:** 
 
-**[2279.44s] English:** Спасти тебя  
+**[2279.44s] English:** To save you.  
 **Translation:** 
 
-**[2280.00s] English:** ужасных новостей но на деле это это тебе не сахар это занимает около пяти лет ты вероятно сделал бы  
+**[2280.00s] English:** Here are the improvements with natural English punctuation and capitalization: Unpleasant news, but in reality, this isn't easy; it takes about five years. You probably wouldn't have done it.  
 **Translation:** 
 
-**[2290.12s] English:** это примерно за 4 это комплимент думаю ты сделал мне комплимент спасибо большое спасибо так один  
-**Translation:** 
+**[2290.12s] English:** This is a compliment, I think you gave me a compliment. Thanks a lot. Thanks so much.  
+**Translation:** Vocabulary: capitalization: 标点符号
 
-**[2300.00s] English:** знак что выглядит идентично может означать разные звуки в зависимости от контекста да и нужно  
+**[2300.00s] English:** Signs that look identical may indicate different sounds depending on the context, and indeed should.  
 **Translation:** 
 
-**[2305.68s] English:** выбрать правильный звук и еще разное значение потому что например у тебя есть знак для слова  
-**Translation:** 
+**[2305.68s] English:** Select the correct sound and another different value because, for example, you have a sign for the word  
+**Translation:** Vocabulary: identical: 完全相同的
 
-**[2313.48s] English:** горячий ты не можешь нарисовать горячей картинкой это бессмысленно они же сделали рисунок сложные  
+**[2313.48s] English:** Hot, you can't draw a hot picture; it's meaningless. They've already made a complex drawing.  
 **Translation:** 
 
-**[2322.80s] English:** штуки к жаровне внутри другого знака который означал горячий знак существовал но он также  
-**Translation:** 
+**[2322.80s] English:** Pieces for the furnace inside another sign which meant a hot sign existed, but he also  
+**Translation:** Vocabulary: furnace: 炉子; meaningless: 无意义
 
-**[2330.82s] English:** означало и другие вещи и нужно выбрать что подходит контексту контекст имеет значение  
+**[2330.82s] English:** This meant other things, and we need to choose what fits the context, as the context matters.  
 **Translation:** 
 
-**[2335.68s] English:** когда начинаешь работать с клинописью стоишь перед бездной отчаяния ведь до вершине остального  
+**[2335.68s] English:** When you start working with cuneiform, you stand before a sea of despair, for there is so much more to learn.  
 **Translation:** 
 
-**[2341.74s] English:** они не оставляли пробелов между словами все слитно это подло когда начинаешь нужно начать с первого  
+**[2341.74s] English:** They did not leave spaces between words, all merged together. This is so wrong; when it starts, you need to begin with the first.  
 **Translation:** 
 
-**[2349.86s] English:** знака думаешь о нем вспоминаешь значение в голове а потом следующий знак если один ба а следующий  
-**Translation:** 
+**[2349.86s] English:** You think about him, remember his value in your head, and then the next sign if one ba and then the next.  
+**Translation:** Vocabulary: merged: 合并
 
-**[2359.92s] English:** об среди всего прочего бааб звучит как слоговая структура в слове и ты так идешь дальше  
+**[2359.92s] English:** Among other things, it sounds like a syllable structure in a word, and you just keep going.  
 **Translation:** 
 
-**[2365.68s] English:** тут есть два момента первое если ты хочешь ты можешь это освоить вторая количество переменных  
-**Translation:** 
+**[2365.68s] English:** Here are two points: first, if you want to, you can master this; second, the number of variables.  
+**Translation:** Vocabulary: syllable: 音节
 
-**[2373.20s] English:** ограничено они их контролировали чтобы совсем с ума не сойти другими словами если ты выучишь  
+**[2373.20s] English:** Limited, they controlled them to keep their minds from completely breaking, in other words, if you learn  
 **Translation:** 
 
-**[2380.38s] English:** свод выучишь как составлены знаки и выучишь их разные значения если ты все запомнил то вперед  
-**Translation:** 
+**[2380.38s] English:** Svod, you'll learn how the signs are composed and their various meanings. If you've memorized everything, forward you go.  
+**Translation:** Vocabulary: memorized: 记住
 
-**[2386.92s] English:** думаю это очень красиво это чудесно можешь рассказать про время когда начал изучать язык  
+**[2386.92s] English:** I think this is very beautiful, this is wonderful. Could you tell me about the time when you started learning the language?  
 **Translation:** 
 
-**[2395.68s] English:** как проходит процесс но у меня было довольно  
+**[2395.68s] English:** How is the process going? I had quite a bit of experience with it.  
 **Translation:** 
 
-**[2400.00s] English:** Необычное воспитание. За три года до того, как я поступил в университет, я хотел быть египтологом. Так что я читал грамматику Гардинера и с нетерпением ждал изучения древнеегипетского. И вышло так, что я пошел учиться в университет Бирмингема.  
+**[2400.00s] English:** Unusual Upbringing. Three years before I entered university, I wanted to be an Egyptologist. So I read Gardiner's grammar and eagerly looked forward to studying ancient Egyptian. And it turned out that I went to study at the University of Birmingham.  
 **Translation:** 
 
-**[2419.86s] English:** Там преподавал человек по имени Рандал Кларк. Он был египтологом. Рандал Кларк пришел в понедельник, прочитал одну лекцию о египетской скульптуре или что-то вроде того, и на следующий день умер. Бац.  
-**Translation:** 
+**[2419.86s] English:** There was a man named Randall Clark who taught there. He was an Egyptologist. Randall Clark came on Monday, gave a lecture on Egyptian sculpture or something like that, and the next day he died. Bam.  
+**Translation:** Vocabulary: birmingham: 布里斯托大学; eagerly: 热切地; egyptologist: 埃及学家; randall: 兰德尔; upbringing: 养育方式
 
-**[2438.32s] English:** Профессор позвал меня в свой кабинет и сказал, слушай, мне понадобится какое-то время достать египтолога. Они на дороге не валяются.  
+**[2438.32s] English:** Professor called me into his office and said, "Listen, I'll need some time to get an Egyptologist. They don't just lie around.  
 **Translation:** 
 
-**[2448.18s] English:** Но на этом факультете есть человек по имени Ламберт, который преподает другой древний язык, клинопись. Я предлагаю тебе пойти и поучиться клинописи с профессором Ламбертом, а потом, когда я найду египтолога, ты можешь перейти обратно.  
-**Translation:** 
+**[2448.18s] English:** But on this faculty, there is a person named Lambert who teaches another ancient language, cuneiform. I suggest you go and study cuneiform with Professor Lambert, and then, when I find an Egyptologist, you can switch back.  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[2463.78s] English:** Я постучал в дверь.  
+**[2463.78s] English:** I knocked on the door.  
 **Translation:** 
 
-**[2466.24s] English:** Да?  
+**[2466.24s] English:** Yes?  
 **Translation:** 
 
-**[2467.62s] English:** Вошел и сказал, я хочу учить клинопись.  
+**[2467.62s] English:** He entered and said, "I want to learn cuneiform writing.  
 **Translation:** 
 
-**[2470.94s] English:** Профессор Ламберт был скорее фигурой вроде Шерлока Холмса, эстетичный, костлявый, саркастичный.  
-**Translation:** 
+**[2470.94s] English:** Professor Lambert was more like a Sherlock Holmes figure, elegant, bony, and sarcastic.  
+**Translation:** Vocabulary: elegant: 风度翩翩; holmes: 福尔摩斯; sarcastic: 讽刺的; sherlock: 夏洛克
 
-**[2478.74s] English:** Жестокий.  
+**[2478.74s] English:** Brutal.  
 **Translation:** 
 
-**[2479.90s] English:** Жестокий.  
-**Translation:** 
+**[2479.90s] English:** Brutal.  
+**Translation:** Vocabulary: brutal: 残忍的
 
-**[2480.72s] English:** Жестокий. Совершенно устрашающий.  
+**[2480.72s] English:** Brutal. Absolutely terrifying.  
 **Translation:** 
 
-**[2483.24s] English:** Я сказал, что хочу учить клинопись.  
-**Translation:** 
+**[2483.24s] English:** I said that I want to learn cuneiform writing.  
+**Translation:** Vocabulary: terrifying: 极其可怕的
 
-**[2486.12s] English:** Он был крайне недоволен, потому что тогда в Британии профессора обижались, что им приходится учить студентов, это мешало их исследовательской работе.  
+**[2486.12s] English:** He was extremely dissatisfied because at the time in Britain, professors resented having to teach students, as it interfered with their research work.  
 **Translation:** 
 
-**[2499.06s] English:** Ну вот так тогда было.  
-**Translation:** 
+**[2499.06s] English:** Nu, voilà how it was then.  
+**Translation:** Vocabulary: dissatisfied: 不满意的; interfered: 干扰
 
-**[2500.54s] English:** Так или иначе, я остался и после одного или двух занятий понял, что это станет делом моей жизни.  
+**[2500.54s] English:** Ultimately, I stayed, and after one or two lessons, I realized that this would become my life's work.  
 **Translation:** 
 
-**[2508.18s] English:** Вот так все сложилось.  
+**[2508.18s] English:** Here's how it all turned out.  
 **Translation:** 
 
-**[2509.86s] English:** Удивительно, правда?  
+**[2509.86s] English:** Amazing, isn't it?  
 **Translation:** 
 
-**[2510.70s] English:** Да, в общем он дал мне список базовых знаков, чтобы я их выучил за следующие несколько дней.  
+**[2510.70s] English:** Yes, in general, he gave me a list of basic signs to learn over the next few days.  
 **Translation:** 
 
-**[2518.74s] English:** И потом мы сели и начали.  
+**[2518.74s] English:** Then we sat down and started.  
 **Translation:** 
 
-**[2520.00s] English:** Мы начали читать.  
+**[2520.00s] English:** We started reading.  
 **Translation:** 
 
-**[2522.38s] English:** Учитывая сложность знаков,  
+**[2522.38s] English:** Considering the complexity of the signs,  
 **Translation:** 
 
-**[2525.58s] English:** почему клинопись просуществовала 3000 лет?  
+**[2525.58s] English:** Why did cuneiform survive for 3,000 years?  
 **Translation:** 
 
-**[2529.86s] English:** Самая успешная система письма.  
+**[2529.86s] English:** The most successful writing system.  
 **Translation:** 
 
-**[2532.46s] English:** Резонный вопрос.  
+**[2532.46s] English:** A reasonable question.  
 **Translation:** 
 
-**[2533.82s] English:** Есть пара факторов.  
+**[2533.82s] English:** There are a couple of factors.  
 **Translation:** 
 
-**[2535.16s] English:** Первый — это знаменитый фактор инерции.  
-**Translation:** 
+**[2535.16s] English:** The first is the famous inertia factor.  
+**Translation:** Vocabulary: inertia: 惯性
 
-**[2539.54s] English:** Второй — это тот факт,  
+**[2539.54s] English:** The second is that fact,  
 **Translation:** 
 
-**[2541.32s] English:** что люди, которые могли читать и писать,  
+**[2541.32s] English:** What people who could read and write,  
 **Translation:** 
 
-**[2547.14s] English:** заведовали архивами, были писарями,  
+**[2547.14s] English:** Managed archives, were scribes,  
 **Translation:** 
 
-**[2550.00s] English:** в храме и писателями для царя.  
-**Translation:** 
+**[2550.00s] English:** In the temple, and for the king, by writers.  
+**Translation:** Vocabulary: archives: 文献档案; scribes: 抄写员
 
-**[2552.96s] English:** Обладали очень большой властью,  
+**[2552.96s] English:** Possessed a very great power,  
 **Translation:** 
 
-**[2555.66s] English:** потому что большинство людей этого не умели.  
-**Translation:** 
+**[2555.66s] English:** Because most people didn't know how to do it.  
+**Translation:** Vocabulary: possessed: 拥有
 
-**[2559.70s] English:** Они были превратниками знаний,  
+**[2559.70s] English:** They were transformers of knowledge,  
 **Translation:** 
 
-**[2562.40s] English:** понимания, философских исследований.  
-**Translation:** 
+**[2562.40s] English:** Understanding, philosophical research.  
+**Translation:** Vocabulary: philosophical: 哲学的
 
-**[2566.20s] English:** Без сомнения, информация передавалась и иначе,  
+**[2566.20s] English:** Without doubt, information was transmitted in other ways as well.  
 **Translation:** 
 
-**[2568.86s] English:** но они были главными, они заведовали всем.  
-**Translation:** 
+**[2568.86s] English:** But they were the main ones, they oversaw everything.  
+**Translation:** Vocabulary: transmitted: 传递
 
-**[2572.28s] English:** И еще, выпускники писарских школ делились на клики.  
+**[2572.28s] English:** And additionally, graduates of scribes' schools were divided into cliques.  
 **Translation:** 
 
-**[2577.42s] English:** Это было примерно как соперничество  
-**Translation:** 
+**[2577.42s] English:** This was kind of like competition.  
+**Translation:** Vocabulary: cliques: 派系
 
-**[2580.00s] English:** Оксфорда и Кембриджа, что-то похожее.  
+**[2580.00s] English:** Oxford and Cambridge, something similar.  
 **Translation:** 
 
-**[2583.84s] English:** И совершенно никого, совершенно никого не интересовала идея  
+**[2583.84s] English:** And completely nobody was interested in the idea.  
 **Translation:** 
 
-**[2588.24s] English:** продвигать грамотность, внести ее в массы.  
+**[2588.24s] English:** Promote literacy, bring it to the masses.  
 **Translation:** 
 
-**[2592.32s] English:** Это было...  
-**Translation:** 
+**[2592.32s] English:** This was...  
+**Translation:** Vocabulary: masses: 广大民众
 
-**[2594.16s] English:** Об этом бы никогда не подумали, предали бы анафеме.  
+**[2594.16s] English:** About this, they would never have thought, it would have been condemned to anathema.  
 **Translation:** 
 
-**[2597.72s] English:** Думаю, если бы ты пошел митинговать в субботу  
-**Translation:** 
+**[2597.72s] English:** I think if you went protesting on Saturday.  
+**Translation:** Vocabulary: anathema: 诅咒; condemned: 谴责; protesting: 抗议
 
-**[2599.92s] English:** и требовать образования для детей,  
+**[2599.92s] English:** And require education for children,  
 **Translation:** 
 
-**[2604.00s] English:** от тебя бы избавились.  
+**[2604.00s] English:** They would get rid of you.  
 **Translation:** 
 
-**[2606.16s] English:** То есть, эти таблички — это продукт деятелей,  
+**[2606.16s] English:** That is, these signs are a product of the activities of  
 **Translation:** 
 
-**[2609.96s] English:** деятельности, интеллигенции, очень небольшой доли  
-**Translation:** 
+**[2609.96s] English:** activity, intelligentsia, very small portions  
+**Translation:** Vocabulary: intelligentsia: 知识分子; portions: 部分
 
-**[2613.28s] English:** выпускников Оксфорда и Кембриджа.  
+**[2613.28s] English:** Graduates of Oxford and Cambridge.  
 **Translation:** 
 
-**[2615.76s] English:** Да, за исключением того, что когда ты шел в писарскую школу,  
-**Translation:** 
+**[2615.76s] English:** Yes, except that when you went to scribe school,  
+**Translation:** Vocabulary: scribe: 抄写员
 
-**[2620.08s] English:** ты должен был выучить и шумерский, и аккадский, как положено,  
+**[2620.08s] English:** You should have studied Sumerian and Akkadian as required.  
 **Translation:** 
 
-**[2623.28s] English:** весь словарь, и грамматику.  
-**Translation:** 
+**[2623.28s] English:** The entire dictionary and grammar.  
+**Translation:** Vocabulary: akkadian: 阿卡德语
 
-**[2625.72s] English:** Так что некоторым мальчикам, наверное, это тяжело давалось.  
+**[2625.72s] English:** So, some boys, no doubt, found it hard to do.  
 **Translation:** 
 
-**[2634.20s] English:** Они справлялись, но гениями они не стали бы.  
-**Translation:** 
+**[2634.20s] English:** They managed, but they wouldn't have become geniuses.  
+**Translation:** Vocabulary: geniuses: 天才
 
-**[2637.08s] English:** Думаю, ситуация в школе была такой, что учителя, которые учились в школе,  
+**[2637.08s] English:** I think the situation at the school was such that teachers who were educated in school,  
 **Translation:** 
 
-**[2639.80s] English:** начали учиться в школе.  
+**[2639.80s] English:** Began studying in school.  
 **Translation:** 
 
-**[2640.00s] English:** отделяли детей, которые предпочли бы играть в футбол на улице,  
+**[2640.00s] English:** Separated were children who preferred to play football outside.  
 **Translation:** 
 
-**[2645.34s] English:** но могли читать и писать,  
+**[2645.34s] English:** But they could read and write.  
 **Translation:** 
 
-**[2647.12s] English:** зарабатывать на жизнь низкоуровневым чтением и письмом.  
+**[2647.12s] English:** To make a living through low-level reading and writing.  
 **Translation:** 
 
-**[2651.40s] English:** То есть писали контракты, письма, повседневные вещи для людей,  
+**[2651.40s] English:** So we wrote contracts, letters, everyday things for people,  
 **Translation:** 
 
-**[2657.06s] English:** потому что никто не мог читать и писать.  
+**[2657.06s] English:** Because nobody could read or write.  
 **Translation:** 
 
-**[2659.12s] English:** А тебе нужен был писец, если ты, например, собираешься выдать дочь замуж.  
+**[2659.12s] English:** And you needed a scribe if, for example, you were planning to marry off your daughter.  
 **Translation:** 
 
-**[2663.36s] English:** Собираешь свидетелей.  
+**[2663.36s] English:** Gather the witnesses.  
 **Translation:** 
 
-**[2664.92s] English:** Это все занимало четыре дня.  
-**Translation:** 
+**[2664.92s] English:** This took four days.  
+**Translation:** Vocabulary: witnesses: 目击者
 
-**[2667.22s] English:** Писец приходил и делал.  
+**[2667.22s] English:** Pissed off, he came and did it.  
 **Translation:** 
 
-**[2670.28s] English:** Писцы среднего уровня обслуживали эту потребность.  
-**Translation:** 
+**[2670.28s] English:** Scribes of medium level serviced this need.  
+**Translation:** Vocabulary: pissed: 生气; scribes: 书记员; serviced: 满足
 
-**[2675.28s] English:** А очень талантливых или умных, или высокоинтеллектуальных учеников  
+**[2675.28s] English:** Very talented or intelligent or highly intellectual students  
 **Translation:** 
 
-**[2679.98s] English:** поощряли идти в одну из, так сказать, литературных профессий,  
-**Translation:** 
+**[2679.98s] English:** They encouraged going into one of, as it were, literary professions.  
+**Translation:** Vocabulary: professions: 职业
 
-**[2684.26s] English:** а именно медицина, право,  
+**[2684.26s] English:** Specifically, medicine, law,  
 **Translation:** 
 
-**[2688.74s] English:** работа на царя, работа на церковь,  
+**[2688.74s] English:** Work for the king, work for the church,  
 **Translation:** 
 
-**[2692.42s] English:** то есть жречество.  
+**[2692.42s] English:** That is, the priesthood.  
 **Translation:** 
 
-**[2694.28s] English:** Все то, что опиралось на архивы и письмо.  
-**Translation:** 
+**[2694.28s] English:** All that relied on the archives and the letter.  
+**Translation:** Vocabulary: archives: 文献; priesthood: 祭司制度
 
-**[2697.22s] English:** Ученики выбирали свою стезю.  
+**[2697.22s] English:** Students chose their path.  
 **Translation:** 
 
-**[2699.02s] English:** А еще архитектура, потому что, если нужно построить большое здание,  
-**Translation:** 
+**[2699.02s] English:** Architectural design, because if you need to build a large building,  
+**Translation:** Vocabulary: architectural: 建筑相关的
 
-**[2703.82s] English:** кто-то должен был знать о несущих конструкциях и размерах кирпичей.  
+**[2703.82s] English:** Someone should have known about the bearing structures and brick dimensions.  
 **Translation:** 
 
-**[2708.80s] English:** Некоторые из них шли в эту сферу.  
-**Translation:** 
+**[2708.80s] English:** Some of them went into this field.  
+**Translation:** Vocabulary: bearing: 支撑; dimensions: 尺寸
 
-**[2710.74s] English:** А еще, вероятно, некоторые шли работать в армии.  
+**[2710.74s] English:** And, possibly, some went to work in the army.  
 **Translation:** 
 
-**[2714.70s] English:** Нужно было перемещать запасы и животных.  
+**[2714.70s] English:** We needed to move the supplies and animals.  
 **Translation:** 
 
-**[2717.14s] English:** Они находили свою стезю.  
+**[2717.14s] English:** They found their path.  
 **Translation:** 
 
-**[2719.46s] English:** И некоторые из них, у кого были большие интеллектуальные способности,  
+**[2719.46s] English:** And some of them, who had great intellectual abilities,  
 **Translation:** 
 
-**[2725.70s] English:** шли в дисциплины вроде...  
+**[2725.70s] English:** Sheduled to go into disciplines like...  
 **Translation:** 
 
-**[2727.22s] English:** астрологии и, еще более серьезные, в астрономию  
-**Translation:** 
+**[2727.22s] English:** Astrology and, even more seriously, astronomy.  
+**Translation:** Vocabulary: astrology: 占星术; astronomy: 天文学; disciplines: 学科; sheduled: 计划
 
-**[2732.18s] English:** и теоретическую грамматику.  
+**[2732.18s] English:** And theoretical grammar.  
 **Translation:** 
 
-**[2734.26s] English:** Они писали трактаты о взаимоотношениях  
-**Translation:** 
+**[2734.26s] English:** They wrote treatises on relationships.  
+**Translation:** Vocabulary: treatises: 论著
 
-**[2736.94s] English:** между двумя языками и как они работают,  
+**[2736.94s] English:** Between two languages and how they work,  
 **Translation:** 
 
-**[2739.94s] English:** о разных частях речи,  
+**[2739.94s] English:** About different parts of speech,  
 **Translation:** 
 
-**[2741.66s] English:** и они писали комментарии о том,  
+**[2741.66s] English:** And they wrote comments about that,  
 **Translation:** 
 
-**[2744.14s] English:** что означали слова.  
+**[2744.14s] English:** What did the words mean.  
 **Translation:** 
 
-**[2745.58s] English:** Была интеллектуальная верхушка высокого уровня,  
+**[2745.58s] English:** There was an intellectually elite upper class,  
 **Translation:** 
 
-**[2749.66s] English:** а затем множество профессиональных писцов,  
-**Translation:** 
+**[2749.66s] English:** Then a multitude of professional scribes,  
+**Translation:** Vocabulary: intellectually: 富有思想; multitude: 众多人群
 
-**[2752.30s] English:** а потом дети, которые ушли из школы как можно скорее.  
+**[2752.30s] English:** Then the children who left school as soon as possible.  
 **Translation:** 
 
-**[2755.58s] English:** Прям как сейчас.  
+**[2755.58s] English:** Just like now.  
 **Translation:** 
 
-**[2757.22s] English:** Прошу прощения за философский подход, но...  
+**[2757.22s] English:** Sorry for the philosophical approach, but...  
 **Translation:** 
 
-**[2760.00s] English:** Ведь Генштейн, философ, сказал, «Граница нашего языка — это граница нашего мира».  
-**Translation:** 
+**[2760.00s] English:** Because Genstein, the philosopher, said, "The boundary of our language is the boundary of our world.  
+**Translation:** Vocabulary: philosophical: 哲学的
 
-**[2765.90s] English:** По-твоему, в какой степени языки, которые были закодированы в клинописи,  
+**[2765.90s] English:** According to you, in what degree were the languages encoded in cuneiform?  
 **Translation:** 
 
-**[2772.02s] English:** определяли человеческую цивилизацию?  
+**[2772.02s] English:** Did they define human civilization?  
 **Translation:** 
 
-**[2774.20s] English:** Какие вещи было сложно выразить, и именно поэтому их часто не выражали?  
+**[2774.20s] English:** What things were difficult to express, and that is why they were often not expressed?  
 **Translation:** 
 
-**[2781.62s] English:** Это очень интересный вопрос.  
+**[2781.62s] English:** This is a very interesting question.  
 **Translation:** 
 
-**[2784.86s] English:** С точки зрения богатства словаря и богатства словесной тонкости,  
+**[2784.86s] English:** From the standpoint of vocabulary richness and verbal subtlety,  
 **Translation:** 
 
-**[2790.00s] English:** я думаю, что вавилонский соперничает с арабским и, конечно, английским.  
-**Translation:** 
+**[2790.00s] English:** I think Babylonian competes with Arabic and, of course, English.  
+**Translation:** Vocabulary: babylonian: 巴比伦; competes: 匹敌; standpoint: 视角; subtlety: 微妙; verbal: 口头的
 
-**[2798.78s] English:** Ты можешь сказать что угодно на английском.  
+**[2798.78s] English:** You can say anything in English.  
 **Translation:** 
 
-**[2801.28s] English:** Какой бы тонкой ни была мысль, даже если люди не понимают тонкости,  
-**Translation:** 
+**[2801.28s] English:** How delicate an idea may be, even if people do not understand its subtleties,  
+**Translation:** Vocabulary: subtleties: 细微之处
 
-**[2805.46s] English:** ведь инструменты фантастические.  
+**[2805.46s] English:** Because the tools are fantastic.  
 **Translation:** 
 
-**[2807.66s] English:** А в арабском много синонимов и многие средства выражения.  
-**Translation:** 
+**[2807.66s] English:** In Arabic, there are many synonyms and numerous expressive means.  
+**Translation:** Vocabulary: expressive: 富有表现力; synonyms: 同义词
 
-**[2811.88s] English:** И в вавилонском так. Это был полноценный литературный язык.  
+**[2811.88s] English:** In Babylonian, it was the same. This was a full-fledged literary language.  
 **Translation:** 
 
-**[2816.76s] English:** Вопрос в том, останавливал ли язык,  
+**[2816.76s] English:** The question is whether the language has stopped.  
 **Translation:** 
 
-**[2819.90s] English:** да и как он выражался, в том числе и в английском.  
+**[2819.90s] English:** And as he expressed it, including in English.  
 **Translation:** 
 
-**[2820.00s] English:** Какое дальнейшее развитие, ты же это спрашиваешь,  
+**[2820.00s] English:** What further development, you are asking about this?  
 **Translation:** 
 
-**[2825.48s] English:** ответить крайне сложно.  
+**[2825.48s] English:** It is extremely difficult to answer.  
 **Translation:** 
 
-**[2828.24s] English:** Но вот что мне кажется актуальным,  
+**[2828.24s] English:** But what I consider relevant is  
 **Translation:** 
 
-**[2830.76s] English:** это огромная часть научной литературы Месопотамии  
+**[2830.76s] English:** This is an enormous part of Mesopotamian scientific literature.  
 **Translation:** 
 
-**[2835.36s] English:** принимает форму предзнаменований,  
-**Translation:** 
+**[2835.36s] English:** Takes the form of omens,  
+**Translation:** Vocabulary: mesopotamian: 美索不达米亚的
 
-**[2841.14s] English:** потому что они верили, что события,  
+**[2841.14s] English:** Because they believed that events,  
 **Translation:** 
 
-**[2843.90s] English:** случайные или намеренные, влияли на то, что произойдет.  
-**Translation:** 
+**[2843.90s] English:** Random or intentional, these factors influenced what would happen.  
+**Translation:** Vocabulary: intentional: 有意图的
 
-**[2848.32s] English:** Они видели предзнаменования в небе, на улице, и в каждой отдельной вещи.  
+**[2848.32s] English:** They saw omens in the sky, on the street, and in each individual thing.  
 **Translation:** 
 
-**[2856.00s] English:** Если ты высококвалифицированный прорицатель, ты в них видел знаки.  
-**Translation:** 
+**[2856.00s] English:** If you are a highly qualified seer, you would have seen signs in them.  
+**Translation:** Vocabulary: omens: 预兆
 
-**[2860.60s] English:** Существуют тысячи строк предзнаменований, совершенно разных видов.  
+**[2860.60s] English:** There are thousands of omens in various forms.  
 **Translation:** 
 
-**[2868.80s] English:** На аккадском написано, если ящерица пробежит через стол за завтраком, королева умрет.  
-**Translation:** 
+**[2868.80s] English:** On Akkadian, it says if a lizard crosses the table during breakfast, the queen will die.  
+**Translation:** Vocabulary: lizard: 蜥蜴
 
-**[2877.02s] English:** С аккадского кинематографа.  
+**[2877.02s] English:** From Akkadian cinema.  
 **Translation:** 
 
-**[2878.22s] English:** Но переводят именно так.  
-**Translation:** 
+**[2878.22s] English:** But it is translated exactly like that.  
+**Translation:** Vocabulary: akkadian: 阿卡德语
 
-**[2880.00s] English:** Слово «если» и глагол «если то, то тогда это».  
+**[2880.00s] English:** The word "if" and the phrase "if this, then that.  
 **Translation:** 
 
-**[2883.88s] English:** Переведено уже тысячи строк.  
+**[2883.88s] English:** Translated already thousands of lines.  
 **Translation:** 
 
-**[2885.62s] English:** Огромное множество предзнаменований, типа «если случилось А, случится Б».  
+**[2885.62s] English:** A huge multitude of omens, like "if A happens, B will follow.  
 **Translation:** 
 
-**[2891.42s] English:** Мои коллеги так это трактуют.  
-**Translation:** 
+**[2891.42s] English:** My colleagues interpret it that way.  
+**Translation:** Vocabulary: colleagues: 同事; interpret: 解释; multitude: 众多
 
-**[2895.32s] English:** Но это совершенно невозможно.  
+**[2895.32s] English:** But this is completely impossible.  
 **Translation:** 
 
-**[2898.58s] English:** Ведь если ты главный прорицатель, и ты убил овцу,  
-**Translation:** 
+**[2898.58s] English:** Because if you are the main prophet and you killed the sheep,  
+**Translation:** Vocabulary: prophet: 先知
 
-**[2902.72s] English:** вырезал ей печень и исследуешь ее, мол, ну, вот это значит королева умрет,  
+**[2902.72s] English:** He carved out her liver and examined it, saying, "Well, this means the queen will die,  
 **Translation:** 
 
-**[2908.22s] English:** а тут царь, ты же не скажешь «королева умрет».  
-**Translation:** 
+**[2908.22s] English:** Here, the king; you wouldn't say "the queen will die," would you?  
+**Translation:** Vocabulary: carved: 雕刻
 
-**[2912.66s] English:** Ты выставишь себя жутким идиотом, если она не умрет.  
+**[2912.66s] English:** You will come across as a terrible idiot if she doesn't die.  
 **Translation:** 
 
-**[2916.08s] English:** А если умрет, ты будешь ответственным.  
+**[2916.08s] English:** If he dies, you will be responsible.  
 **Translation:** 
 
-**[2918.84s] English:** Все, что ты можешь сделать, что когда-либо мог бы сделать,  
+**[2918.84s] English:** All that you can do, or have ever been able to do,  
 **Translation:** 
 
-**[2922.24s] English:** это сказать «здесь знак, который гласит, что королева может умереть».  
-**Translation:** 
+**[2922.24s] English:** This translates to: "to say 'here is a sign that declares the queen may die'". Improved with punctuation and capitalization: "This translates to: 'Here is a sign that declares the queen may die.  
+**Translation:** Vocabulary: capitalization: 标点符号; translates: 翻译
 
-**[2927.48s] English:** То есть может умереть, а не умрет.  
+**[2927.48s] English:** That is, it might die or it might not die.  
 **Translation:** 
 
-**[2930.54s] English:** А значит требуется ритуал или магия,  
-**Translation:** 
+**[2930.54s] English:** Therefore, a ritual or magic is required.  
+**Translation:** Vocabulary: ritual: 仪式
 
-**[2932.88s] English:** которые необходимо выполнить, чтобы отвести опасность.  
+**[2932.88s] English:** Which ones are necessary to carry out in order to mitigate the danger.  
 **Translation:** 
 
-**[2937.10s] English:** Так что...  
-**Translation:** 
+**[2937.10s] English:** So...  
+**Translation:** Vocabulary: mitigate: 减轻
 
-**[2938.22s] English:** Суть в том, что А равно Б, это никогда не правда.  
+**[2938.22s] English:** The essence is that A equals B is never true.  
 **Translation:** 
 
-**[2942.62s] English:** То есть скорее, если А, Б возможно, может быть, должно быть,  
-**Translation:** 
+**[2942.62s] English:** That is, if A and B are possible, they should be, may be,  
+**Translation:** Vocabulary: equals: 等于
 
-**[2948.28s] English:** следует быть, могло бы быть правдой.  
+**[2948.28s] English:** It should be, could be true.  
 **Translation:** 
 
-**[2950.62s] English:** Это такие тонкости.  
-**Translation:** 
+**[2950.62s] English:** These are such nuances.  
+**Translation:** Vocabulary: nuances: 细微差别
 
-**[2953.06s] English:** Прорицатель, который работает на царя,  
+**[2953.06s] English:** Oracle who works for the king,  
 **Translation:** 
 
-**[2955.96s] English:** должен был быть философом, который смотрит на царя  
+**[2955.96s] English:** He should have been a philosopher who looks at the king.  
 **Translation:** 
 
-**[2959.72s] English:** и знает, что царь хочет, чтобы он сказал.  
+**[2959.72s] English:** And he knows what the king wants him to say.  
 **Translation:** 
 
-**[2964.52s] English:** Он должен сказать царю то, что он хочет услышать.  
+**[2964.52s] English:** He should tell the king what he wants to hear.  
 **Translation:** 
 
-**[2968.22s] English:** Должен сообщить плохие новости так, чтобы тот не беспокоился.  
+**[2968.22s] English:** I should deliver the bad news in such a way that he does not worry.  
 **Translation:** 
 
-**[2972.44s] English:** Это прекраснейшая вещь.  
+**[2972.44s] English:** This is the most beautiful thing.  
 **Translation:** 
 
-**[2974.76s] English:** Так тонко.  
+**[2974.76s] English:** So delicate.  
 **Translation:** 
 
-**[2976.10s] English:** Это как скрипичный концерт.  
+**[2976.10s] English:** This is like a violin concert.  
 **Translation:** 
 
-**[2979.74s] English:** Никогда не могло быть так, что А равно Б.  
+**[2979.74s] English:** Never could it be that A equals B.  
 **Translation:** 
 
-**[2983.94s] English:** Медицинские тесты гласят.  
+**[2983.94s] English:** Medical tests state.  
 **Translation:** 
 
-**[2986.00s] English:** Если ты делаешь, если у человека это, то бла-бла-бла, дай выпить это, он вылечится.  
+**[2986.00s] English:** If you do this for a person, and they drink it, they will get better.  
 **Translation:** 
 
-**[2990.50s] English:** Он вылечится.  
+**[2990.50s] English:** He will get better.  
 **Translation:** 
 
-**[2992.24s] English:** Ты видел доктора, который говорит,  
+**[2992.24s] English:** You have seen the doctor who says,  
 **Translation:** 
 
-**[2994.48s] English:** «Сделай так и вылечишься».  
+**[2994.48s] English:** Make it and you'll be cured.  
 **Translation:** 
 
-**[2996.68s] English:** Нет.  
+**[2996.68s] English:** No.  
 **Translation:** 
 
-**[2997.02s] English:** Нет.  
+**[2997.02s] English:** No.  
 **Translation:** 
 
-**[2998.22s] English:** Все пойдет хорошо, встанешь на ночь.  
+**[2998.22s] English:** All will go well, get up at night.  
 **Translation:** 
 
-**[3000.00s] English:** Или «Я много раз такое видел, все должно пройти хорошо».  
+**[3000.00s] English:** Or "I've seen it all before, everything will pass well.  
 **Translation:** 
 
-**[3004.00s] English:** «Тебе скоро должно стать лучше».  
+**[3004.00s] English:** Тебе скоро должно стать лучше.  
 **Translation:** 
 
-**[3005.98s] English:** «Никогда не «тебе станет лучше», ведь что будет, если ты умрешь?»  
+**[3005.98s] English:** Never 'it will get better,' because what will happen if you die?  
 **Translation:** 
 
-**[3009.84s] English:** «Что тогда?»  
+**[3009.84s] English:** What then?  
 **Translation:** 
 
-**[3010.82s] English:** «Придут юристы».  
+**[3010.82s] English:** Придут юристы.  
 **Translation:** 
 
-**[3012.14s] English:** Именно!  
+**[3012.14s] English:** Exactly!  
 **Translation:** 
 
-**[3013.18s] English:** То есть получается, что в аккадской грамматике не выражаются модальные глаголы.  
-**Translation:** 
+**[3013.18s] English:** Thus, it turns out that in Akkadian grammar, modal verbs are not expressed.  
+**Translation:** Vocabulary: akkadian: 阿卡德语
 
-**[3021.32s] English:** Мог бы, может быть, должен следовать.  
+**[3021.32s] English:** Could, perhaps, should follow.  
 **Translation:** 
 
-**[3023.40s] English:** Их нельзя выразить грамматически.  
+**[3023.40s] English:** They cannot be expressed grammatically.  
 **Translation:** 
 
-**[3025.18s] English:** Но невозможно, чтобы в таком великолепном литературном языке не было этих тонкостей.  
+**[3025.18s] English:** But it is impossible that such a magnificent literary language should lack these subtleties.  
 **Translation:** 
 
-**[3034.94s] English:** Совершенно невозможно.  
-**Translation:** 
+**[3034.94s] English:** Completely impossible.  
+**Translation:** Vocabulary: subtleties: 细微之处
 
-**[3036.62s] English:** Если в литературном тексте ты переводишь «он будет»,  
+**[3036.62s] English:** If in a literary text you translate "he will,  
 **Translation:** 
 
-**[3039.50s] English:** хотя на самом деле он мог бы,  
+**[3039.50s] English:** Although he could have,  
 **Translation:** 
 
-**[3042.18s] English:** то весь текст меняется.  
+**[3042.18s] English:** That's how the entire text changes.  
 **Translation:** 
 
-**[3044.40s] English:** Весь текст.  
+**[3044.40s] English:** The entire text.  
 **Translation:** 
 
-**[3045.32s] English:** Да, точно.  
+**[3045.32s] English:** Yes, definitely.  
 **Translation:** 
 
-**[3046.26s] English:** И они не...  
+**[3046.26s] English:** And they didn't...  
 **Translation:** 
 
-**[3046.76s] English:** Мои коллеги переводят...  
+**[3046.76s] English:** My colleagues are translating....  
 **Translation:** 
 
-**[3048.86s] English:** В книге написано «бла-бла-бла-бла», значит «бла-бла-бла» автоматически.  
-**Translation:** 
+**[3048.86s] English:** In the book it is written "bla-bla-bla," which means "bla-bla" automatically.  
+**Translation:** Vocabulary: colleagues: 同事; translating: 翻译
 
-**[3052.22s] English:** Нет никакого осознания, что это просто глупость.  
+**[3052.22s] English:** There is no awareness that this is simply foolishness.  
 **Translation:** 
 
-**[3055.18s] English:** Ты сказал «перевод» — это смесь археологии, детективной работы и поэзии.  
+**[3055.18s] English:** You said "translation" is a mix of archaeology, detective work, and poetry.  
 **Translation:** 
 
-**[3061.96s] English:** Можем чуть подробнее обсудить искусство перевода?  
+**[3061.96s] English:** Can we discuss the art of translation in a bit more detail?  
 **Translation:** 
 
-**[3065.22s] English:** Да.  
+**[3065.22s] English:** Yes.  
 **Translation:** 
 
-**[3066.16s] English:** Ну то есть, это же такая удивительная дисциплина.  
+**[3066.16s] English:** Nu, that is such a remarkable discipline.  
 **Translation:** 
 
-**[3070.16s] English:** Как ты и говоришь,  
-**Translation:** 
+**[3070.16s] English:** As you said,  
+**Translation:** Vocabulary: discipline: 科目
 
-**[3072.72s] English:** небольшая разница в одном слове может все поменять.  
+**[3072.72s] English:** A small difference in one word can change everything.  
 **Translation:** 
 
-**[3076.84s] English:** Правда перевода такова, что  
+**[3076.84s] English:** The translation is as follows:  
 **Translation:** 
 
-**[3078.74s] English:** в одном языке никогда не будет слова, которое точно  
+**[3078.74s] English:** In one language, there will never be a word that exactly  
 **Translation:** 
 
-**[3084.70s] English:** соответствует...  
-**Translation:** 
+**[3084.70s] English:** Corresponds...  
+**Translation:** Vocabulary: corresponds: 相符
 
-**[3085.18s] English:** ...к слову в другом.  
+**[3085.18s] English:** ..., to speak of something else.  
 **Translation:** 
 
-**[3086.90s] English:** Никогда.  
+**[3086.90s] English:** Never.  
 **Translation:** 
 
-**[3087.90s] English:** Они всегда отчасти...  
+**[3087.90s] English:** They are always partly...  
 **Translation:** 
 
-**[3089.80s] English:** ...ты делаешь, что можешь.  
+**[3089.80s] English:** ...you can.  
 **Translation:** 
 
-**[3091.56s] English:** Иногда это не имеет значения, а иногда это довольно сильно вводит в заблуждение.  
+**[3091.56s] English:** Sometimes it doesn't matter, while at other times it can be quite misleading.  
 **Translation:** 
 
-**[3096.90s] English:** Когда люди изучают аккадский, они изучают аккадское слово и его английский перевод.  
-**Translation:** 
+**[3096.90s] English:** When people study Akkadian, they learn the Akkadian word and its English translation.  
+**Translation:** Vocabulary: akkadian: 阿卡德语; misleading: 误导的
 
-**[3101.94s] English:** Так?  
+**[3101.94s] English:** So?  
 **Translation:** 
 
-**[3102.94s] English:** Есть слово «парасум» — делить.  
+**[3102.94s] English:** There is a word "парасум" — it means "divide.  
 **Translation:** 
 
-**[3105.02s] English:** Если тебе встречается слово «парасум», это форма деления или разделения.  
+**[3105.02s] English:** If you come across the word "parasum," it is a form of division or separation.  
 **Translation:** 
 
-**[3109.48s] English:** Но на самом деле нет, потому что «делить» — это первичный корень.  
+**[3109.48s] English:** But in fact, no, because "divide" is the primary root.  
 **Translation:** 
 
-**[3113.56s] English:** Но есть еще куча нюансов.  
+**[3113.56s] English:** But there are still a lot of nuances.  
 **Translation:** 
 
-**[3114.96s] English:** если речь идет о значении на английском. Вряд ли поймешь, что верхний  
-**Translation:** 
+**[3114.96s] English:** If it's about the meaning in English, you're unlikely to understand what "верхний" refers to.  
+**Translation:** Vocabulary: nuances: 细微差别
 
-**[3120.00s] English:** и нижние переводы связаны.  
+**[3120.00s] English:** And the lower translations are connected.  
 **Translation:** 
 
-**[3122.12s] English:** Есть чикагский словарь, великолепная вещь.  
-**Translation:** 
+**[3122.12s] English:** There is a Chicago dictionary, a wonderful thing.  
+**Translation:** Vocabulary: translations: 翻译
 
-**[3125.32s] English:** Когда придешь ко мне в музей, я тебе его покажу.  
+**[3125.32s] English:** When you come to my museum, I will show it to you.  
 **Translation:** 
 
-**[3129.28s] English:** Это самая выдающаяся и важная вещь,  
+**[3129.28s] English:** This is the most outstanding and important thing,  
 **Translation:** 
 
-**[3131.70s] English:** которую создали в Америке за всю ее историю.  
+**[3131.70s] English:** Which was created in America throughout its entire history.  
 **Translation:** 
 
-**[3134.78s] English:** Чикагский ассирийский словарь, вот такой длины.  
-**Translation:** 
+**[3134.78s] English:** Chicago Assyrian Dictionary, such a length.  
+**Translation:** Vocabulary: assyrian: 阿卡德的
 
-**[3138.14s] English:** Что касается культурной важности,  
+**[3138.14s] English:** Regarding cultural importance,  
 **Translation:** 
 
-**[3139.92s] English:** у него есть лишь один соперник, это электрогитара.  
+**[3139.92s] English:** He has only one competitor, and that is the electric guitar.  
 **Translation:** 
 
-**[3143.70s] English:** Словарь электрогитара?  
+**[3143.70s] English:** Dictionary for electric guitar?  
 **Translation:** 
 
-**[3146.28s] English:** Величайшее достижение твоих соотечественников.  
-**Translation:** 
+**[3146.28s] English:** The greatest achievement of your fellow countrymen.  
+**Translation:** Vocabulary: countrymen: 同乡
 
-**[3148.96s] English:** Это гордость нашей нации.  
+**[3148.96s] English:** This is the pride of our nation.  
 **Translation:** 
 
-**[3152.28s] English:** Именно так.  
+**[3152.28s] English:** Exactly so.  
 **Translation:** 
 
-**[3153.82s] English:** Чикагский словарь, прости, что перебиваю, что это такое?  
+**[3153.82s] English:** Chicago Dictionary, sorry for interrupting, what is this?  
 **Translation:** 
 
-**[3157.64s] English:** Его начали писать в 20-х годах.  
-**Translation:** 
+**[3157.64s] English:** He began writing in the 1920s.  
+**Translation:** Vocabulary: interrupting: 打断
 
-**[3160.34s] English:** Это словарь вавилонского языка.  
+**[3160.34s] English:** This is a Babylonian language dictionary.  
 **Translation:** 
 
-**[3162.42s] English:** От А до Я, так сказать.  
-**Translation:** 
+**[3162.42s] English:** From A to Z, so to speak.  
+**Translation:** Vocabulary: babylonian: 巴比伦的
 
-**[3164.10s] English:** Словарь длинный, с этот стол.  
+**[3164.10s] English:** The dictionary is long, on this table.  
 **Translation:** 
 
-**[3166.30s] English:** Умопомрачительная вещь такого размера.  
+**[3166.30s] English:** An incredible thing of such size.  
 **Translation:** 
 
-**[3168.56s] English:** Люди, которые работали над ним, были настоящими переводчиками.  
+**[3168.56s] English:** People who worked on it were true translators.  
 **Translation:** 
 
-**[3172.82s] English:** Они знали, что лексически А не означает Б.  
-**Translation:** 
+**[3172.82s] English:** They knew that lexically A does not mean B.  
+**Translation:** Vocabulary: lexically: 从词义上; translators: 翻译者
 
-**[3175.24s] English:** У них было...  
+**[3175.24s] English:** They had...  
 **Translation:** 
 
-**[3176.28s] English:** Если слово используется пословице,  
+**[3176.28s] English:** If the word is used in a proverb,  
 **Translation:** 
 
-**[3178.96s] English:** значение будет немного отличаться от значения в корреспонденции.  
+**[3178.96s] English:** The value will be slightly different from the value in the correspondence.  
 **Translation:** 
 
-**[3182.96s] English:** Люди правда понимают Аккадский, реально его понимают.  
-**Translation:** 
+**[3182.96s] English:** People really understand Akkadian; they actually understand it.  
+**Translation:** Vocabulary: akkadian: 阿卡德语; correspondence: 对照文本
 
-**[3187.28s] English:** Но вот эта загвоздка с модальными глаголами — это интересная загадка,  
+**[3187.28s] English:** But this puzzle with modal verbs is an interesting mystery,  
 **Translation:** 
 
-**[3191.28s] English:** потому что она никак не отражается в письменности.  
+**[3191.28s] English:** Because it doesn't reflect in writing.  
 **Translation:** 
 
-**[3195.28s] English:** Я могу только предположить, что было какое-то протягивание гласной в глаголе.  
+**[3195.28s] English:** I can only speculate that there was some vowel stretching in the verb.  
 **Translation:** 
 
-**[3201.28s] English:** Типа «мог бы...», что-то такое.  
-**Translation:** 
+**[3201.28s] English:** Type "could have...," something like that.  
+**Translation:** Vocabulary: speculate: 猜测
 
-**[3206.28s] English:** Так или иначе, сегодня мы не делаем расшифровки.  
+**[3206.28s] English:** Anyway, today we are not doing transcriptions.  
 **Translation:** 
 
-**[3208.72s] English:** Мы просто читаем.  
-**Translation:** 
+**[3208.72s] English:** We are just reading.  
+**Translation:** Vocabulary: transcriptions: 文字记录
 
-**[3210.72s] English:** Если у тебя много табличек, например, на раскопках, то прям...  
+**[3210.72s] English:** If you have many labels, for example, on excavations, then they can...  
 **Translation:** 
 
-**[3214.72s] English:** Дух захватывает. Ты достаёшь их, никто их не видел — шикарная работа.  
-**Translation:** 
+**[3214.72s] English:** Duh zaхватывает. Ты достаешь их, никто их не видел — шикарная работа.  
+**Translation:** Vocabulary: excavations: 挖掘现场; labels: 标签
 
-**[3219.72s] English:** Если ты компетентный ассериолог, ты должен уметь бегло читать с листа.  
+**[3219.72s] English:** If you are a competent asseriologist, you should be able to read fluently from a sheet of paper.  
 **Translation:** 
 
-**[3226.72s] English:** За исключением большинства...  
-**Translation:** 
+**[3226.72s] English:** Except for most of them,...  
+**Translation:** Vocabulary: competent: 熟练; fluently: 流利地
 
-**[3228.72s] English:** Письма-то ладно.  
+**[3228.72s] English:** Letters are fine.  
 **Translation:** 
 
-**[3229.72s] English:** А вот у большинства документов есть повреждения, и нужно уметь их интерпретировать.  
-**Translation:** 
+**[3229.72s] English:** Here is a caveat: Most documents have damages, and one needs to know how to interpret them.  
+**Translation:** Vocabulary: caveat: 警告; interpret: 解释
 
-**[3234.72s] English:** А ещё есть ложные...  
+**[3234.72s] English:** And there are also false ones...  
 **Translation:** 
 
-**[3236.72s] English:** Из-за технической ошибки.  
+**[3236.72s] English:** Due to a technical error.  
 **Translation:** 
 
-**[3237.72s] English:** Из-за технической ошибки.  
+**[3237.72s] English:** Due to a technical error.  
 **Translation:** 
 
-**[3238.72s] English:** Из-за технической ошибки.  
+**[3238.72s] English:** Due to a technical error.  
 **Translation:** 
 
-**[3240.00s] English:** В них была техническая лексика и необычные слова.  
+**[3240.00s] English:** In them were technical terminology and unusual words.  
 **Translation:** 
 
-**[3243.16s] English:** И ты все это умеешь?  
-**Translation:** 
+**[3243.16s] English:** Did you manage to do all of that?  
+**Translation:** Vocabulary: terminology: 术语
 
-**[3247.00s] English:** Можешь разобраться в технических сложностях?  
+**[3247.00s] English:** Can you understand the technical complexities?  
 **Translation:** 
 
-**[3250.14s] English:** Конечно.  
-**Translation:** 
+**[3250.14s] English:** Of course.  
+**Translation:** Vocabulary: complexities: 复杂性
 
-**[3250.44s] English:** Найти нужное в шуме, заполнить отсутствующие части?  
+**[3250.44s] English:** Find what's needed in the noise, fill in the missing parts?  
 **Translation:** 
 
-**[3254.50s] English:** Да. Иногда можно рассчитывать, что это должно быть, сделать предположение.  
-**Translation:** 
+**[3254.50s] English:** Yes. Sometimes you can expect it to be, make an assumption.  
+**Translation:** Vocabulary: assumption: 假设
 
-**[3259.92s] English:** Словарь, о котором я тебе говорил, просто фантастический предмет,  
+**[3259.92s] English:** The dictionary I told you about is simply fantastic.  
 **Translation:** 
 
-**[3263.66s] English:** потому что над ним трудилось много людей.  
+**[3263.66s] English:** Because it was worked on by many people.  
 **Translation:** 
 
-**[3267.04s] English:** За ним стоит Национальный фонд гуманитарных наук.  
+**[3267.04s] English:** Behind him stands the National Fund for Humanities Research.  
 **Translation:** 
 
-**[3271.44s] English:** На него ушли десятилетия.  
-**Translation:** 
+**[3271.44s] English:** Decades have passed on him.  
+**Translation:** Vocabulary: humanities: 人文学科
 
-**[3273.48s] English:** Большинство лучших ассериологов мира вместе над ним работали.  
+**[3273.48s] English:** Most of the world's best assemblers worked on it together.  
 **Translation:** 
 
-**[3277.22s] English:** И качество перевода и понимания на высочайшем уровне.  
-**Translation:** 
+**[3277.22s] English:** The quality of the translation and understanding is at the highest level.  
+**Translation:** Vocabulary: assemblers: 组装者
 
-**[3281.62s] English:** Расскажи про то, что ты читал.  
+**[3281.62s] English:** Tell me about what you have read.  
 **Translation:** 
 
-**[3285.14s] English:** Были классные шутки? Или любовные письма?  
+**[3285.14s] English:** Were there any great jokes? Or love letters?  
 **Translation:** 
 
-**[3287.98s] English:** Есть одно или два письма.  
+**[3287.98s] English:** There is one or two letters.  
 **Translation:** 
 
-**[3290.04s] English:** От парня девушки, мол, ты очень красивая.  
+**[3290.04s] English:** From the guy, the girl said, "You are very beautiful.  
 **Translation:** 
 
-**[3293.92s] English:** Твои губы как редиски, а твои уши как морозы.  
+**[3293.92s] English:** Your lips are like radishes, and your ears are like frost.  
 **Translation:** 
 
-**[3297.30s] English:** Такого вот рода.  
-**Translation:** 
+**[3297.30s] English:** Such a type.  
+**Translation:** Vocabulary: radishes: 红萝卜
 
-**[3300.04s] English:** А еще в Бавилоне примерно в четвертом веке до нашей эры поставили драму.  
+**[3300.04s] English:** In Babylon, around the fourth century BCE, they put on a drama.  
 **Translation:** 
 
-**[3305.90s] English:** Были какие-то актеры, выступающие на улице.  
-**Translation:** 
+**[3305.90s] English:** There were some actors performing on the street.  
+**Translation:** Vocabulary: babylon: 巴比伦
 
-**[3310.44s] English:** Это был Мардук и Сарпанитум, его жена.  
+**[3310.44s] English:** This was Marduk and Sarpanitu, his wife.  
 **Translation:** 
 
-**[3316.72s] English:** А еще другая женщина.  
-**Translation:** 
+**[3316.72s] English:** Another woman, too.  
+**Translation:** Vocabulary: marduk: 马尔杜克; sarpanitu: 萨帕尼图
 
-**[3318.90s] English:** Мардук крутил роман с этой и другой.  
+**[3318.90s] English:** Marduk had romances with this woman and another.  
 **Translation:** 
 
-**[3321.04s] English:** О нет.  
+**[3321.04s] English:** Oh no.  
 **Translation:** 
 
-**[3321.98s] English:** Богиней.  
+**[3321.98s] English:** Goddess.  
 **Translation:** 
 
-**[3322.90s] English:** А Сарпанитум ревнует, и эти женщины дерутся на улице.  
-**Translation:** 
+**[3322.90s] English:** As Sarpanitum suspects, these women are fighting in the street.  
+**Translation:** Vocabulary: suspects: 怀疑
 
-**[3325.84s] English:** Вбросаются оскорблениями.  
+**[3325.84s] English:** They hurl insults.  
 **Translation:** 
 
-**[3327.60s] English:** Ведро помоев.  
-**Translation:** 
+**[3327.60s] English:** Bucket of tomatoes.  
+**Translation:** Vocabulary: insults: 侮辱
 
-**[3328.84s] English:** Вот это все.  
+**[3328.84s] English:** This is all of it.  
 **Translation:** 
 
-**[3330.12s] English:** Это уморительно.  
-**Translation:** 
+**[3330.12s] English:** This is hilarious.  
+**Translation:** Vocabulary: hilarious: 非常好笑
 
-**[3331.42s] English:** И, полагаю, должно было быть немного похоже на оперу Верди без музыки.  
+**[3331.42s] English:** And, I suppose, it must have been a bit like a Verdi opera without music.  
 **Translation:** 
 
-**[3337.02s] English:** В общем, все начинается с того, что Сарпанитум в комнате,  
-**Translation:** 
+**[3337.02s] English:** In general, it all starts with Sarpanitum being in the room.  
+**Translation:** Vocabulary: sarpanitum: 萨尔班努; verdi: 威尔第
 
-**[3342.82s] English:** а Мардук в постели с этой другой богиней на крыше, и жена их слышит.  
+**[3342.82s] English:** Marduk in bed with this other goddess on the roof, and their wife hears.  
 **Translation:** 
 
-**[3347.22s] English:** Можно сказать, что это величайшая человеческая проблема.  
+**[3347.22s] English:** It can be said that this is humanity's greatest problem.  
 **Translation:** 
 
-**[3350.44s] English:** Ага, любовь, разбитое сердце, ревность.  
+**[3350.44s] English:** Agreed, love, broken heart, jealousy.  
 **Translation:** 
 
-**[3353.56s] English:** Среди божеств тоже.  
-**Translation:** 
+**[3353.56s] English:** Among the deities as well.  
+**Translation:** Vocabulary: deities: 神灵; jealousy: 嫉妒
 
-**[3354.60s] English:** В конце концов, божества списаны.  
+**[3354.60s] English:** In the end, the deities have been copied.  
 **Translation:** 
 
-**[3357.04s] English:** Для людей!  
+**[3357.04s] English:** For people!  
 **Translation:** 
 
-**[3358.22s] English:** Да, божество — это пафосная суть.  
+**[3358.22s] English:** Yes, a deity is a rather dramatic essence.  
 **Translation:** 
 
-**[3360.00s] English:** Способ отобразить человеческие дела, человеческое поведение, повадки, да.  
-**Translation:** 
+**[3360.00s] English:** A way to depict human affairs, human behavior, mannerisms, yes.  
+**Translation:** Vocabulary: deity: 神灵; depict: 描绘
 
-**[3365.70s] English:** Верно.  
+**[3365.70s] English:** Correct.  
 **Translation:** 
 
-**[3366.74s] English:** Какое у них было отношение к божественному?  
+**[3366.74s] English:** What was their attitude toward the divine?  
 **Translation:** 
 
-**[3370.20s] English:** Отношение к божественному?  
+**[3370.20s] English:** Attitude toward the divine?  
 **Translation:** 
 
-**[3372.46s] English:** Ну, во-первых, скажу, у них был большой пантеон богов.  
+**[3372.46s] English:** Nu, to begin with, I'll say that they had a large pantheon of gods.  
 **Translation:** 
 
-**[3378.14s] English:** Итак, было три главных бога, иногда их называли Ану, Энлиль и Эа.  
+**[3378.14s] English:** So there were three main gods, sometimes referred to as Anu, Enlil, and Ea.  
 **Translation:** 
 
-**[3383.16s] English:** Три главных бога и сотни других богов и богинь.  
-**Translation:** 
+**[3383.16s] English:** Three main gods and hundreds of other gods and goddesses.  
+**Translation:** Vocabulary: enlil: 阿尔腊尔; goddesses: 女神们
 
-**[3388.16s] English:** Сложилось так, что у маленьких деревень и городов были свои старые, древние боги.  
+**[3388.16s] English:** It so happened that small villages and towns had their own ancient gods.  
 **Translation:** 
 
-**[3395.50s] English:** И в конечном счете их всех собрали своего рода теологическую систему, как справочник.  
-**Translation:** 
+**[3395.50s] English:** In the end, they gathered all of them into a sort of theological system, as a reference.  
+**Translation:** Vocabulary: theological: 神学的
 
-**[3401.66s] English:** Младших богов объединили, выделили им должности в хозяйствах старших богов.  
+**[3401.66s] English:** Youths were united, and positions were assigned to them in the households of the elder gods.  
 **Translation:** 
 
-**[3407.22s] English:** То есть у них как бы была структура.  
+**[3407.22s] English:** That is, they had a structure of some kind.  
 **Translation:** 
 
-**[3411.04s] English:** Большая размашистая теологическая ветка, как сегодня в некоторых частях света.  
+**[3411.04s] English:** A large theological branch, as today in some parts of the world.  
 **Translation:** 
 
-**[3417.08s] English:** Это была основа.  
+**[3417.08s] English:** This was the basis.  
 **Translation:** 
 
-**[3418.16s] English:** Основная система.  
+**[3418.16s] English:** Main system.  
 **Translation:** 
 
-**[3419.92s] English:** Главные боги были озабочены правителем и судьбой страны.  
+**[3419.92s] English:** The main gods were concerned about the ruler and the fate of the country.  
 **Translation:** 
 
-**[3424.14s] English:** И другой бог отвечал за болезни и мертвых, и что с ними происходит.  
+**[3424.14s] English:** Another god was responsible for diseases and the dead, and what happens to them.  
 **Translation:** 
 
-**[3432.76s] English:** Были и другие специализации, и у всех были свои храмы.  
+**[3432.76s] English:** There were other specializations as well, and each had its own temples.  
 **Translation:** 
 
-**[3435.82s] English:** И когда младенец приходил в мир, должно быть так было везде.  
+**[3435.82s] English:** And when the child came into the world, it must have been the same everywhere.  
 **Translation:** 
 
-**[3442.40s] English:** Его отдавали под опеку какого-нибудь бога.  
-**Translation:** 
+**[3442.40s] English:** He was entrusted to the guardianship of some god.  
+**Translation:** Vocabulary: entrusted: 托付; guardianship: 监护
 
-**[3447.12s] English:** У королевской...  
+**[3447.12s] English:** In the royal...  
 **Translation:** 
 
-**[3448.16s] English:** Семьи были боги большими шишками.  
+**[3448.16s] English:** Families were considered big shots.  
 **Translation:** 
 
-**[3451.42s] English:** Боги опекали целые семьи.  
+**[3451.42s] English:** The gods protected entire families.  
 **Translation:** 
 
-**[3454.38s] English:** Люди росли с мыслью, что среди богов были те, что были важны в семье.  
+**[3454.38s] English:** People grew up with the idea that among the gods were those who were important in the family.  
 **Translation:** 
 
-**[3459.34s] English:** И особый бог, который должен был заботиться о них.  
+**[3459.34s] English:** And a special god who was supposed to take care of them.  
 **Translation:** 
 
-**[3465.44s] English:** Как-то так.  
+**[3465.44s] English:** It's like that sometimes.  
 **Translation:** 
 
-**[3466.68s] English:** Но проблема в том, что поскольку боги, как ты говоришь, это люди в большом масштабе,  
+**[3466.68s] English:** But the problem is that, as you say, since gods are just people on a larger scale,  
 **Translation:** 
 
-**[3472.20s] English:** они могут быть забывчивыми, или незаинтересованными, или в отпуске, и есть...  
+**[3472.20s] English:** They may be forgetful, disinterested, or on vacation, and there are...  
 **Translation:** 
 
-**[3477.42s] English:** Много спорта.  
+**[3477.42s] English:** Many sports.  
 **Translation:** 
 
-**[3478.16s] English:** Много способов, которыми ты должен им оси...  
+**[3478.16s] English:** Many ways you should use them.  
 **Translation:** 
 
-**[3480.00s] English:** напомнить приносить маленькие жертвы и взятки чтобы они делали свою работу и присматривали  
+**[3480.00s] English:** To remind them to bring small sacrifices and bribes so that they do their work and keep an eye.  
 **Translation:** 
 
-**[3485.94s] English:** за тобой у них был довольно практичный взгляд на богов что они были немного непредсказуемы здорово  
-**Translation:** 
+**[3485.94s] English:** They had a rather practical view of the gods, that they were a bit unpredictable. Great.  
+**Translation:** Vocabulary: bribes: 贿赂; unpredictable: 不可预测
 
-**[3494.76s] English:** когда они рядом но они рядом не всегда я верю что многие в сегодняшнем мире если им повезло  
+**[3494.76s] English:** When they are around, but they are not always around. I believe that many in today's world, if they are lucky,  
 **Translation:** 
 
-**[3502.26s] English:** не расти в удушающих тисках религии начинают сильнее интересоваться богом когда приходит  
-**Translation:** 
+**[3502.26s] English:** Do not rise in the suffocating grip of religion begin to show greater interest in God when it comes  
+**Translation:** Vocabulary: suffocating: 窒息的
 
-**[3511.88s] English:** болезнь или какая-то катастрофа внезапно бог или боги кажутся гораздо более важными чем обычно не  
+**[3511.88s] English:** Disease or some kind of catastrophe suddenly makes God or gods seem much more important than usual.  
 **Translation:** 
 
-**[3523.30s] English:** многие существуют состоянии религиозного трепета в том числе и многие священники которых я встречал  
-**Translation:** 
+**[3523.30s] English:** Many exist in a state of religious awe, including many priests whom I have met.  
+**Translation:** Vocabulary: catastrophe: 灾难
 
-**[3531.90s] English:** и  
+**[3531.90s] English:** And  
 **Translation:** 
 
-**[3532.08s] English:** и  
+**[3532.08s] English:** And  
 **Translation:** 
 
-**[3532.24s] English:** , эта концепция не основана на реальности реакция человека на религиозные стимулы  
+**[3532.24s] English:** This concept is not based on reality regarding human reaction to religious stimuli.  
 **Translation:** 
 
-**[3539.64s] English:** колеблется и разнообразно и часто приходит с потребностью она не возникает из ниоткуда люди  
-**Translation:** 
+**[3539.64s] English:** It fluctuates and is diverse, and often comes with a sense of need. It doesn't arise out of nowhere; people experience it.  
+**Translation:** Vocabulary: fluctuates: 波动; stimuli: 刺激
 
-**[3549.04s] English:** не чувствуют в себе внезапного желания поблагодарить господа за радугу сегодня это  
+**[3549.04s] English:** They don't feel a sudden desire to thank God for the rainbow today, this is  
 **Translation:** 
 
-**[3554.80s] English:** особенно актуально взгляни на последние исследования религия христианство в этой стране  
-**Translation:** 
+**[3554.80s] English:** Especially relevant, take a look at the latest research on Christianity in this country.  
+**Translation:** Vocabulary: rainbow: 彩虹
 
-**[3561.58s] English:** в упадке потому что люди которые должны быть христианами говорят что они теперь атеисты а людей  
+**[3561.58s] English:** In decline because people who should be Christians say they are now atheists, and people  
 **Translation:** 
 
-**[3567.88s] English:** что говорят я хожу церковь и я верю очень небольшое количество такова вот ситуация  
-**Translation:** 
+**[3567.88s] English:** What I say is that I go to church and I believe, though it's a very small amount.  
+**Translation:** Vocabulary: atheists: 无神论者
 
-**[3573.64s] English:** есть о чем подумать кто знает каковы будут последствия для человеческой расы придет ли  
+**[3573.64s] English:** There is something to think about. Who knows what consequences there will be for the human race; will it come to pass?  
 **Translation:** 
 
-**[3580.66s] English:** вера баланс или религия умрет кто знает это древняя технология которая на протяжении тысячелетий до  
-**Translation:** 
+**[3580.66s] English:** Veracity, balance, or religion—will any of them die? Who knows? This is an ancient technology that has been around for millennia, and...  
+**Translation:** Vocabulary: millennia: 千年; veracity: 真实性
 
-**[3591.38s] English:** Доказывала, что дает людям набор инструментов, чтобы справиться, как ты сказал, со страданием.  
+**[3591.38s] English:** She argued that she gives people a set of tools to cope with suffering, as you said.  
 **Translation:** 
 
-**[3597.02s] English:** Это часть жизни.  
+**[3597.02s] English:** This is part of life.  
 **Translation:** 
 
-**[3598.26s] English:** Когда приходят...  
+**[3598.26s] English:** When they come...  
 **Translation:** 
 
-**[3600.00s] English:** Эти редкие моменты, и ты сталкиваешься с глубокой болью, потерей, страданием, разбитым сердцем.  
-**Translation:** 
+**[3600.00s] English:** These rare moments, and you are confronted with deep pain, loss, suffering, a broken heart.  
+**Translation:** Vocabulary: confronted: 面对
 
-**[3608.02s] English:** Мы смотрим в небо, задаем вопросы, и пытаемся найти ответы в беседе с Божественным.  
+**[3608.02s] English:** We look to the sky, ask questions, and try to find answers in our dialogue with the Divine.  
 **Translation:** 
 
-**[3615.40s] English:** Да, но думаю, что Месопотамии, что касается Божественной силы и непосредственности, было иначе.  
-**Translation:** 
+**[3615.40s] English:** Yes, but I think that when it comes to divine power and immediacy, Mesopotamia was different.  
+**Translation:** Vocabulary: immediacy: 即时性; mesopotamia: 美索不达米亚
 
-**[3622.22s] English:** В Ираке нет небоскребов.  
+**[3622.22s] English:** In Iraq, there are no skyscrapers.  
 **Translation:** 
 
-**[3624.66s] English:** Если живешь в Южном Ираке и спишь на крыше, ночью нет огней.  
-**Translation:** 
+**[3624.66s] English:** If you live in Southern Iraq and sleep on the roof, there are no lights at night.  
+**Translation:** Vocabulary: skyscrapers: 高楼大厦
 
-**[3631.66s] English:** Ты лежишь под звездами, и хорошо видно, ведь смога нет.  
+**[3631.66s] English:** You lie under the stars, and it's well visible, for there is no smog.  
 **Translation:** 
 
-**[3636.02s] English:** Так что мысль, что боги наблюдают за нами, не такая уж странная, как кажется здесь.  
+**[3636.02s] English:** The idea that gods are watching us is not as strange as it seems here.  
 **Translation:** 
 
-**[3643.34s] English:** Здесь она не звучит правдиво.  
+**[3643.34s] English:** Here she does not sound truthful.  
 **Translation:** 
 
-**[3644.98s] English:** Тут сложно к этому прийти и по-настоящему в это поверить, так как тем людям не нужно было верить, оно просто было.  
-**Translation:** 
+**[3644.98s] English:** Here it's hard to come to terms and truly believe in it, as those people didn't need to believe; it was just there.  
+**Translation:** Vocabulary: truthful: 诚实的
 
-**[3652.52s] English:** Это практическая часть жизни.  
+**[3652.52s] English:** This is a practical part of life.  
 **Translation:** 
 
-**[3655.52s] English:** Они там есть.  
+**[3655.52s] English:** They are there.  
 **Translation:** 
 
-**[3657.42s] English:** Да.  
+**[3657.42s] English:** Yes.  
 **Translation:** 
 
-**[3658.58s] English:** Они не верили в призраков.  
+**[3658.58s] English:** They did not believe in ghosts.  
 **Translation:** 
 
-**[3660.66s] English:** Они принимали их как должное.  
+**[3660.66s] English:** They took them for granted.  
 **Translation:** 
 
-**[3662.38s] English:** Они не верили в богов.  
+**[3662.38s] English:** They did not believe in gods.  
 **Translation:** 
 
-**[3664.26s] English:** Они принимали их как должное.  
+**[3664.26s] English:** They took them for granted.  
 **Translation:** 
 
-**[3665.80s] English:** Другой механизм.  
+**[3665.80s] English:** Another mechanism.  
 **Translation:** 
 
-**[3667.24s] English:** В сегодняшнем мире никто не принимает их как должное, скорее наоборот.  
+**[3667.24s] English:** In today's world, nobody takes them for granted; rather, the opposite is true.  
 **Translation:** 
 
-**[3671.72s] English:** Я думаю, было так.  
+**[3671.72s] English:** I think it was like that.  
 **Translation:** 
 
-**[3673.42s] English:** Не было людей, борющихся с идеей существования богов или с тем, заботятся ли они о них.  
+**[3673.42s] English:** There were no people fighting the idea of the existence of gods or whether they cared about them.  
 **Translation:** 
 
-**[3679.56s] English:** Они давали им толчок, когда это было необходимо.  
+**[3679.56s] English:** They gave them a push when it was necessary.  
 **Translation:** 
 
-**[3682.90s] English:** Могли предложить одно или другое.  
+**[3682.90s] English:** Could offer one or the other.  
 **Translation:** 
 
-**[3684.66s] English:** Это была система, преобладающая система, и в этом вся разница.  
-**Translation:** 
+**[3684.66s] English:** This was the prevailing system, and that's the whole difference.  
+**Translation:** Vocabulary: prevailing: 盛行的
 
-**[3692.52s] English:** Те же призраки из надписей.  
+**[3692.52s] English:** The same ghosts from inscriptions.  
 **Translation:** 
 
-**[3694.52s] English:** Всех, которые мне удалось найти, ясно, что никто никогда не спрашивал себя, существует ли он или нет, или правда ли я их видел.  
-**Translation:** 
+**[3694.52s] English:** Of those whom I was able to find, it is clear that nobody has ever asked themselves whether he exists or not, or whether I really saw them.  
+**Translation:** Vocabulary: inscriptions: 碑文
 
-**[3706.52s] English:** Нет, они просто принимали их как должное.  
+**[3706.52s] English:** No, they simply took them for granted.  
 **Translation:** 
 
-**[3709.52s] English:** Что такое призраки?  
+**[3709.52s] English:** What are ghosts?  
 **Translation:** 
 
-**[3711.52s] English:** Как правило, предки?  
+**[3711.52s] English:** Typically, the ancestors?  
 **Translation:** 
 
-**[3713.52s] English:** Те, кто умер впервые.  
+**[3713.52s] English:** Those who died for the first time.  
 **Translation:** 
 
-**[3714.42s] English:** Те, кто умер в постели, естественным образом или мирно, и то, что мы называем их призраком,  
+**[3714.42s] English:** Those who died in their beds, naturally or peacefully, and what we call their ghost,  
 **Translation:** 
 
-**[3720.00s] English:** спускается в загробный мир и существует там.  
-**Translation:** 
+**[3720.00s] English:** Descends into the afterlife and exists there.  
+**Translation:** Vocabulary: afterlife: 死后世界; descends: 降落; peacefully: 平静地
 
-**[3725.50s] English:** По очевидным причинам они хоронили людей очень быстро,  
+**[3725.50s] English:** Due to obvious reasons, they buried people very quickly.  
 **Translation:** 
 
-**[3730.04s] English:** точно так же, как в исламе и иудаизме.  
-**Translation:** 
+**[3730.04s] English:** Exactly the same way as in Islam and Judaism.  
+**Translation:** Vocabulary: islam: 伊斯兰; judaism: 犹太教
 
-**[3733.16s] English:** Принцип тот же.  
+**[3733.16s] English:** The principle is the same.  
 **Translation:** 
 
-**[3735.32s] English:** Дух человека спускался через врата загробного мира и оставался там.  
-**Translation:** 
+**[3735.32s] English:** The spirit of a person descended through the gates of the afterworld and remained there.  
+**Translation:** Vocabulary: afterworld: 阴间; descended: 降临
 
-**[3743.82s] English:** Это стандартная ситуация.  
+**[3743.82s] English:** This is a standard situation.  
 **Translation:** 
 
-**[3746.02s] English:** У людей во дворах домов были захоронения,  
-**Translation:** 
+**[3746.02s] English:** In the courtyards of people's homes were burials,  
+**Translation:** Vocabulary: burials: 葬礼; courtyards: 庭院
 
-**[3750.06s] English:** и через отверстия они лили вниз жидкость и еду.  
+**[3750.06s] English:** And through the holes, they poured liquid and food down.  
 **Translation:** 
 
-**[3756.10s] English:** Своего рода символическое подношение.  
+**[3756.10s] English:** A sort of symbolic offering.  
 **Translation:** 
 
-**[3759.76s] English:** Так это способ снизить влияние смертности?  
+**[3759.76s] English:** Is this a way to reduce the impact of mortality?  
 **Translation:** 
 
-**[3764.62s] English:** Не знаю.  
+**[3764.62s] English:** I don't know.  
 **Translation:** 
 
-**[3765.80s] English:** Ведь ты уже понимаешь, что все умрут.  
+**[3765.80s] English:** Because you already understand that everyone will die.  
 **Translation:** 
 
-**[3769.54s] English:** Плохо было бы, если бы не должны были умирать.  
+**[3769.54s] English:** It would be bad if they were not meant to die.  
 **Translation:** 
 
-**[3773.36s] English:** Вот это была бы трагедия.  
+**[3773.36s] English:** This would be a tragedy.  
 **Translation:** 
 
-**[3775.06s] English:** Но каждый...  
+**[3775.06s] English:** But each...  
 **Translation:** 
 
-**[3776.00s] English:** Каждый человек умрет.  
+**[3776.00s] English:** Each person will die.  
 **Translation:** 
 
-**[3779.46s] English:** Во всех отношениях есть конечная остановка.  
+**[3779.46s] English:** In all respects, there is a final stop.  
 **Translation:** 
 
-**[3785.30s] English:** Если тебе кто-то очень дорог, если ты кого-то любишь, и они умирают,  
+**[3785.30s] English:** If someone is very dear to you, if you love them, and they die,  
 **Translation:** 
 
-**[3790.00s] English:** довольно инфантильно ныть об этом до конца жизни.  
-**Translation:** 
+**[3790.00s] English:** It's quite infantile to complain about this for the rest of your life.  
+**Translation:** Vocabulary: infantile: 幼稚
 
-**[3795.58s] English:** А как ты думал будет?  
+**[3795.58s] English:** How did you think it would be?  
 **Translation:** 
 
-**[3797.38s] English:** Либо ты, либо они.  
+**[3797.38s] English:** Either you, or they.  
 **Translation:** 
 
-**[3799.28s] English:** Понимаешь, я так это вижу.  
+**[3799.28s] English:** I understand it this way.  
 **Translation:** 
 
-**[3801.50s] English:** Я не чувствую горя, когда люди умирают.  
+**[3801.50s] English:** I do not feel sorrow when people die.  
 **Translation:** 
 
-**[3803.78s] English:** Это инфантильно, но должен тебе...  
+**[3803.78s] English:** This is infantile, but I owe you...  
 **Translation:** 
 
-**[3806.00s] English:** Кое-что сказать о людях.  
+**[3806.00s] English:** Something to say about people.  
 **Translation:** 
 
-**[3808.00s] English:** Мы все чуть инфантильны на протяжении всей жизни.  
+**[3808.00s] English:** We are all slightly infantile throughout our entire lives.  
 **Translation:** 
 
-**[3811.00s] English:** Мы не перестаем быть такими после младенчества.  
-**Translation:** 
+**[3811.00s] English:** We do not cease to be who we are after infancy.  
+**Translation:** Vocabulary: infancy: 幼年期
 
-**[3814.00s] English:** Одно дело знать теоретически и совсем другое знать по-настоящему, что все заканчивается, что путь заканчивается.  
+**[3814.00s] English:** One thing is to know theoretically and quite another to know for sure that everything ends, that the path comes to an end.  
 **Translation:** 
 
-**[3825.00s] English:** В этом и боль.  
-**Translation:** 
+**[3825.00s] English:** In this, there is pain.  
+**Translation:** Vocabulary: theoretically: 理论上
 
-**[3827.00s] English:** В том, что вообще все заканчивается.  
+**[3827.00s] English:** In that everything ultimately ends.  
 **Translation:** 
 
-**[3829.00s] English:** Когда люди уходят за край, они уходят навсегда.  
+**[3829.00s] English:** When people go over the edge, they are gone forever.  
 **Translation:** 
 
-**[3833.00s] English:** Да.  
+**[3833.00s] English:** Yes.  
 **Translation:** 
 
-**[3834.00s] English:** Понимание, что все закончится.  
+**[3834.00s] English:** Understanding that everything will end.  
 **Translation:** 
 
-**[3836.00s] English:** Больно.  
+**[3836.00s] English:** It hurts.  
 **Translation:** 
 
-**[3837.00s] English:** А не сам момент конца.  
+**[3837.00s] English:** Isn't it the moment of the end?  
 **Translation:** 
 
-**[3838.00s] English:** Да.  
+**[3838.00s] English:** Yes.  
 **Translation:** 
 
-**[3839.00s] English:** Часто именно то, что...  
-**Translation:** 
+**[3839.00s] English:** Often, it is precisely that...  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[3840.00s] English:** что моменты не вечны, делает их по-настоящему ценными.  
+**[3840.00s] English:** That moments are not eternal makes them truly valuable.  
 **Translation:** 
 
-**[3843.48s] English:** Я думаю, что нам, людям, не просто с этим справиться.  
+**[3843.48s] English:** I think that we, as humans, simply cannot deal with it.  
 **Translation:** 
 
-**[3847.76s] English:** Думаю, религия, религиозная мысль, божественная, нам в этом помогают.  
+**[3847.76s] English:** I think religion, religious thought, divine beings help us with this.  
 **Translation:** 
 
-**[3852.88s] English:** Думаю, главная ошибка человечества — это создание монотеистических религий.  
-**Translation:** 
+**[3852.88s] English:** I think the main mistake of humanity is creating monotheistic religions.  
+**Translation:** Vocabulary: monotheistic: 单一神教的
 
-**[3858.74s] English:** Они принесли в мир зло.  
+**[3858.74s] English:** They brought evil into the world.  
 **Translation:** 
 
-**[3861.52s] English:** Ведь если я верю в монотеистическую религию,  
+**[3861.52s] English:** Because if I believe in a monotheistic religion,  
 **Translation:** 
 
-**[3864.74s] English:** это значит, что я прав, а ты нет, если ты не веришь.  
+**[3864.74s] English:** This means that I am right, and you are wrong, if you don't believe.  
 **Translation:** 
 
-**[3868.66s] English:** В них это заложено.  
-**Translation:** 
+**[3868.66s] English:** In them, this is embedded.  
+**Translation:** Vocabulary: embedded: 植入的
 
-**[3871.18s] English:** Очень догматично.  
+**[3871.18s] English:** Very dogmatic.  
 **Translation:** 
 
-**[3872.68s] English:** Да, и все это привело к инквизициям и прочему, понимаешь?  
-**Translation:** 
+**[3872.68s] English:** Yes, and all of this led to inquisitions and other such things, do you understand?  
+**Translation:** Vocabulary: dogmatic: 固执教条; inquisitions: 宗教裁判所
 
-**[3876.74s] English:** Все это результат того, что одна религия превосходит другие,  
+**[3876.74s] English:** All this is a result of one religion surpassing others,  
 **Translation:** 
 
-**[3880.56s] English:** а остальные нужно искоренить.  
-**Translation:** 
+**[3880.56s] English:** The rest need to be eradicated.  
+**Translation:** Vocabulary: eradicated: 根除; surpassing: 超越
 
-**[3883.52s] English:** По-моему, монотеистическая религия породила поразительное количество нерелигиозных чувств.  
+**[3883.52s] English:** In my opinion, monotheistic religion has generated an amazing number of non-religious feelings.  
 **Translation:** 
 
-**[3891.38s] English:** Могут же быть разные боги с разными специализациями,  
+**[3891.38s] English:** Might there be different gods with different specializations?  
 **Translation:** 
 
-**[3895.78s] English:** те, что тебе нравятся, и те, что нравятся вообще всем.  
+**[3895.78s] English:** That's what you like, and that's what everyone likes in general.  
 **Translation:** 
 
-**[3898.66s] English:** У них свои храмы и подношения.  
+**[3898.66s] English:** They have their own temples and offerings.  
 **Translation:** 
 
-**[3900.54s] English:** Мне было очень интересно зайти в храм в Калькутте, когда я был там с женой Джоанной.  
+**[3900.54s] English:** It was very interesting to visit the temple in Calcutta when I was there with my wife Joanne.  
 **Translation:** 
 
-**[3906.88s] English:** Мы заходили в храм и смотрели, как они устроены,  
-**Translation:** 
+**[3906.88s] English:** We went into the temples and looked at how they were constructed,  
+**Translation:** Vocabulary: calcutta: 加尔各答
 
-**[3909.88s] English:** и думаю, они должны быть очень похожи на те, что были в Месопотамии.  
+**[3909.88s] English:** And I think they should be very similar to those from Mesopotamia.  
 **Translation:** 
 
-**[3913.58s] English:** В них никогда не было ничего, что бы оскорбляло индивидуальность людей,  
-**Translation:** 
+**[3913.58s] English:** In them, there was never anything that would offend individuality.  
+**Translation:** Vocabulary: individuality: 个性; offend: 冒犯
 
-**[3918.48s] English:** или древности не было религиозных предрассудков или даже расовых предрассудков.  
+**[3918.48s] English:** Or there were no religious or even racial prejudices in antiquity.  
 **Translation:** 
 
-**[3924.90s] English:** Все это современное, наносящее ущерб мнению.  
-**Translation:** 
+**[3924.90s] English:** All of this is modern and damaging to opinion.  
+**Translation:** Vocabulary: antiquity: 古代; prejudices: 偏见
 
-**[3928.66s] English:** Просто подумай, что делается во имя религии.  
+**[3928.66s] English:** Just think what is being done in the name of religion.  
 **Translation:** 
 
-**[3931.42s] English:** Просто поразительно.  
+**[3931.42s] English:** Simply remarkable.  
 **Translation:** 
 
-**[3933.42s] English:** Давай перейдем к литературе, ведь мы не особо ее коснулись.  
+**[3933.42s] English:** Let's move on to literature, since we haven't really touched on it much.  
 **Translation:** 
 
-**[3938.42s] English:** Ты лишь вкратце упомянул эпос о Гильгамеше.  
-**Translation:** 
+**[3938.42s] English:** You merely mentioned the epic of Gilgamesh briefly.  
+**Translation:** Vocabulary: gilgamesh: 吉尔伽美什史诗
 
-**[3941.42s] English:** Он был написан клинописью, одно из ранних произведений.  
+**[3941.42s] English:** He was written in cuneiform, one of the earliest works.  
 **Translation:** 
 
-**[3945.42s] English:** Да.  
+**[3945.42s] English:** Yes.  
 **Translation:** 
 
-**[3946.42s] English:** Расскажешь мне о нем?  
+**[3946.42s] English:** Tell me about him?  
 **Translation:** 
 
-**[3947.42s] English:** Да.  
+**[3947.42s] English:** Yes.  
 **Translation:** 
 
-**[3948.42s] English:** Мы его знаем по табличкам из ассирийской библиотеки.  
+**[3948.42s] English:** We know him from the tablets of the Assyrian library.  
 **Translation:** 
 
-**[3951.42s] English:** Их двенадцать.  
-**Translation:** 
+**[3951.42s] English:** They are twelve.  
+**Translation:** Vocabulary: assyrian: 亚述的
 
-**[3952.42s] English:** Это произведение на двенадцати табличках, довольно длинное.  
+**[3952.42s] English:** This piece is on twelve tablets, quite long.  
 **Translation:** 
 
-**[3955.42s] English:** И Гильгамеш — его герой.  
+**[3955.42s] English:** And Gilgamesh — his hero.  
 **Translation:** 
 
-**[3957.42s] English:** Да.  
+**[3957.42s] English:** Yes.  
 **Translation:** 
 
-**[3958.66s] English:** Но есть и более.  
+**[3958.66s] English:** But there is more.  
 **Translation:** 
 
-**[3960.00s] English:** ранние литературные тексты. Мы знаем, что Гильгамеш жил. Он был реальным человеком. Он был царем  
+**[3960.00s] English:** Early literary texts. We know that Gilgamesh lived; he was a real person and a king.  
 **Translation:** 
 
-**[3966.26s] English:** Буруки и был одним из тех людей, которые жили после своей смерти, как, например, Александр.  
+**[3966.26s] English:** Buruki was one of those people who lived after their death, like Alexander.  
 **Translation:** 
 
-**[3975.42s] English:** Были истории о Гильгамеше, когда он был жив. Были истории о нем после. Сначала это были устные  
+**[3975.42s] English:** There were stories about Gilgamesh when he was alive. There were stories about him after. At first, these were oral  
 **Translation:** 
 
-**[3981.28s] English:** сказания. Их не записывали, а затем около 1800-х годов люди начали их записывать на шумерском  
-**Translation:** 
+**[3981.28s] English:** Mythologies. They were not recorded until around the 1800s when people began writing them down in Sumerian.  
+**Translation:** Vocabulary: mythologies: 神话
 
-**[3989.94s] English:** или вавилонском. Было собрание сочинений, которые в конце концов сплели в длинное  
+**[3989.94s] English:** Or in Babylonian. There was a collection of writings that eventually were woven into a long  
 **Translation:** 
 
-**[3995.56s] English:** гомеровского типа произведения «Приключения Гильгамеша» на 12 табличках. Это литература о  
-**Translation:** 
+**[3995.56s] English:** Homer-like works such as "The Epic of Gilgamesh" on 12 tablets. This is literature about  
+**Translation:** Vocabulary: babylonian: 巴比伦的
 
-**[4002.00s] English:** человечности бессмертии, человеке в руках богов. И включает множество интересных и захватывающих  
+**[4002.00s] English:** Of humanity's immortality, man in the hands of gods. And it includes a multitude of interesting and captivating  
 **Translation:** 
 
-**[4009.90s] English:** историй. Очень голливудская штука. Даже в изощренной ниневейской версии можно заметить,  
-**Translation:** 
+**[4009.90s] English:** Stories. Very Hollywood stuff. Even in the refined Ninevite version, you can notice,  
+**Translation:** Vocabulary: captivating: 引人入胜; immortality: 永生; multitude: 众多; refined: 精致
 
-**[4018.02s] English:** что история...  
+**[4018.02s] English:** What history...  
 **Translation:** 
 
-**[4019.94s] English:** ...завелась из устных сказаний. Потому что когда кто-то говорит, там написано «Гильгамеш открыл рот,  
+**[4019.94s] English:** ...it arose from oral traditions. Because when someone says, "Gilgamesh opened his mouth,  
 **Translation:** 
 
-**[4026.48s] English:** чтобы обратиться к своему другу Энкиду», и дальше речь. А затем Энкиду открыл рот и обратился к  
+**[4026.48s] English:** To address his friend Enkidu," and the conversation continued. Then, Enkidu opened his mouth and addressed to  
 **Translation:** 
 
-**[4032.42s] English:** своему другу Гильгамешу. Когда ты читаешь историю, тебе это не нужно, и наверняка это потому, что  
-**Translation:** 
+**[4032.42s] English:** To my friend Gilgamesh. When you read the story, you don't need this, and no doubt it is because  
+**Translation:** Vocabulary: enkidu: 恩基杜; gilgamesh: 吉尔伽美什
 
-**[4040.78s] English:** история жила в устном исполнении, и слова рассказчика застыли в тексте. Это очень странно,  
+**[4040.78s] English:** History lived in oral performance, and the storyteller's words froze in the text. This is very strange.  
 **Translation:** 
 
-**[4049.94s] English:** ведь когда ты читаешь, очевидно, что один человек говорит, а другой отвечает, а у них в тексте вот  
+**[4049.94s] English:** Well, when you read, it's obvious that one person is speaking, and another is responding, and they have this in the text.  
 **Translation:** 
 
-**[4056.26s] English:** такие «конструкции». Должно быть это отголосок того, что были главные герои, разыгрывающие свой вечный  
+**[4056.26s] English:** Such "constructions." It should be an echo of there being main heroes playing out their eternal  
 **Translation:** 
 
-**[4065.74s] English:** диалог, и человек, который записывал, говорил. А потом Гильгамеш сказал, понимаешь, как в сценарии.  
-**Translation:** 
+**[4065.74s] English:** Dialogue, and the person who was recording said. Then Gilgamesh said, understand, as in the script.  
+**Translation:** Vocabulary: constructions: 建筑
 
-**[4074.10s] English:** А что ты можешь сказать... сказать об историях?  
+**[4074.10s] English:** What can you say about the stories?  
 **Translation:** 
 
-**[4079.94s] English:** Продолжение следует...  
+**[4079.94s] English:** To be continued...  
 **Translation:** 
 
-**[4080.00s] English:** в письменной форме в то время.  
+**[4080.00s] English:** In written form at the time.  
 **Translation:** 
 
-**[4082.66s] English:** Думаешь, они тоже уходят корнями в прошлое?  
+**[4082.66s] English:** Do you think they also have roots in the past?  
 **Translation:** 
 
-**[4086.60s] English:** Да.  
+**[4086.60s] English:** Yes.  
 **Translation:** 
 
-**[4087.52s] English:** Я думаю, что важны истории у костра.  
-**Translation:** 
+**[4087.52s] English:** I think that campfire stories are important.  
+**Translation:** Vocabulary: campfire: 篝火
 
-**[4091.44s] English:** Когда мы были детьми, это были пацаны с гитарой,  
+**[4091.44s] English:** When we were children, this was about guys with guitars.  
 **Translation:** 
 
-**[4095.26s] English:** сидящие у костра на отдыхе.  
+**[4095.26s] English:** Sitting by the campfire for a break.  
 **Translation:** 
 
-**[4097.76s] English:** Но вот этот механизм, когда люди собираются после наступления темноты у огня  
+**[4097.76s] English:** But here is the mechanism when people gather after darkness falls by the fire.  
 **Translation:** 
 
-**[4102.66s] English:** и разговаривают, это та среда,  
+**[4102.66s] English:** And they talk; this is the environment,  
 **Translation:** 
 
-**[4105.08s] English:** в которой повествовательные рассказы процветают естественным образом.  
+**[4105.08s] English:** In which narrative stories thrive naturally.  
 **Translation:** 
 
-**[4110.22s] English:** Истории, рассказы, они не должны быть прагматичными, могут быть литературными?  
-**Translation:** 
+**[4110.22s] English:** Stories, tales, should they not be pragmatic? Could they be literary?  
+**Translation:** Vocabulary: pragmatic: 实用; thrive: 繁荣
 
-**[4115.22s] English:** Да.  
+**[4115.22s] English:** Yes.  
 **Translation:** 
 
-**[4116.18s] English:** Либо реальный человек, вроде Гильгамеша,  
-**Translation:** 
+**[4116.18s] English:** Either a real person like Gilgamesh,  
+**Translation:** Vocabulary: gilgamesh: 吉尔伽美什
 
-**[4119.04s] English:** либо истории о богах.  
+**[4119.04s] English:** Neither myths nor stories about gods.  
 **Translation:** 
 
-**[4121.14s] English:** Кто-то видит Млечный Путь и думает,  
-**Translation:** 
+**[4121.14s] English:** Someone sees the Milky Way and thinks,  
+**Translation:** Vocabulary: milky: 牛奶般的
 
-**[4122.96s] English:** вот бог едет на колеснице, и так рождается история.  
+**[4122.96s] English:** Here comes God in a chariot, and that's how history is born.  
 **Translation:** 
 
-**[4127.20s] English:** Вдохновляет что угодно.  
-**Translation:** 
+**[4127.20s] English:** Inspiration can come from anything.  
+**Translation:** Vocabulary: chariot: 战车
 
-**[4129.86s] English:** Но я думаю, что, пожалуй, стоит учитывать  
+**[4129.86s] English:** But I think it's worth considering.  
 **Translation:** 
 
-**[4133.82s] English:** сильный творческий порыв,  
+**[4133.82s] English:** A strong creative surge,  
 **Translation:** 
 
-**[4137.16s] English:** довольно рано проявившийся у Хомо Сапиенс.  
+**[4137.16s] English:** Rather early in Homo Sapiens.  
 **Translation:** 
 
-**[4141.60s] English:** К примеру, рисунки на стенах пещер.  
-**Translation:** 
+**[4141.60s] English:** For example, cave wall paintings.  
+**Translation:** Vocabulary: sapiens: 智人
 
-**[4144.82s] English:** Попробуй нарисовать на стене бегущую антилопу в цвете.  
+**[4144.82s] English:** Try drawing a running antelope on the wall in color.  
 **Translation:** 
 
-**[4148.72s] English:** Качество работы и художественные способности просто  
-**Translation:** 
+**[4148.72s] English:** Quality of work and artistic abilities are simply  
+**Translation:** Vocabulary: antelope: 羚羊
 
-**[4152.72s] English:** непревзойденные.  
+**[4152.72s] English:** Unmatched.  
 **Translation:** 
 
-**[4156.42s] English:** Это больше, чем просто хорошо.  
+**[4156.42s] English:** This is more than just good.  
 **Translation:** 
 
-**[4158.48s] English:** Как вообще это объяснить в такую раннюю эпоху?  
+**[4158.48s] English:** How could this be explained in such an early era?  
 **Translation:** 
 
-**[4163.12s] English:** Значит,  
+**[4163.12s] English:** Meaning,  
 **Translation:** 
 
-**[4163.82s] English:** среди всего населения есть  
+**[4163.82s] English:** Among the entire population, there is  
 **Translation:** 
 
-**[4165.82s] English:** имбецилы и Эйнштейны, и где-то  
-**Translation:** 
+**[4165.82s] English:** Imbeciles and Einsteins, and somewhere,  
+**Translation:** Vocabulary: einsteins: 天才; imbeciles: 白痴
 
-**[4168.82s] English:** на этой линии есть и эребранты.  
+**[4168.82s] English:** On this line, there are also eberrants.  
 **Translation:** 
 
-**[4171.82s] English:** Я  
-**Translation:** 
+**[4171.82s] English:** Ya.  
+**Translation:** Vocabulary: eberrants: 异变者
 
-**[4172.82s] English:** представляю,  
+**[4172.82s] English:** I present,  
 **Translation:** 
 
-**[4173.82s] English:** что половину пещерных рисунков в Европе сделал один человек.  
+**[4173.82s] English:** That one person created half of the cave paintings in Europe.  
 **Translation:** 
 
-**[4177.82s] English:** Кажется, будто в каждой семье был гениальный художник.  
+**[4177.82s] English:** It seems that every family has had a genius artist.  
 **Translation:** 
 
-**[4180.82s] English:** Невозможно.  
+**[4180.82s] English:** Impossible.  
 **Translation:** 
 
-**[4181.82s] English:** Вероятно, был человек, который бродил от места к месту и делал рисунки,  
+**[4181.82s] English:** Probably, there was a person who wandered from place to place and made drawings.  
 **Translation:** 
 
-**[4186.82s] English:** потому что рисовал сразу и четко.  
-**Translation:** 
+**[4186.82s] English:** Because he drew clearly and precisely.  
+**Translation:** Vocabulary: precisely: 准确地
 
-**[4189.82s] English:** Концентрация творческих художественных способностей,  
+**[4189.82s] English:** Concentration of creative artistic abilities,  
 **Translation:** 
 
-**[4193.82s] English:** способностей плюс мастерство.  
-**Translation:** 
+**[4193.82s] English:** Abilities plus mastery.  
+**Translation:** Vocabulary: mastery: 精通
 
-**[4196.82s] English:** Все эти рисунки в пещерах появлялись в очень ранних временах.  
+**[4196.82s] English:** All these cave drawings appeared in very early times.  
 **Translation:** 
 
-**[4199.82s] English:** Я не знаю,  
+**[4199.82s] English:** I don't know,  
 **Translation:** 
 
-**[4200.00s] English:** Мы находимся на довольно ранней стадии.  
+**[4200.00s] English:** We are at an early stage.  
 **Translation:** 
 
-**[4203.54s] English:** Если рассмотреть запас человеческих историй, он навсегда заключает в себе идеи.  
-**Translation:** 
+**[4203.54s] English:** If we consider the reservoir of human stories, they are forever imbued with ideas.  
+**Translation:** Vocabulary: imbued: 充满; reservoir: 储藏库
 
-**[4210.66s] English:** И нужно с этим считаться. Нужно считаться.  
+**[4210.66s] English:** And we need to take this into consideration. We need to consider it.  
 **Translation:** 
 
-**[4213.54s] English:** Очень творческие, очень творческие люди.  
+**[4213.54s] English:** Very creative, very creative people.  
 **Translation:** 
 
-**[4216.90s] English:** Функция истории — рассказывать молодым о том, что произошло,  
+**[4216.90s] English:** The function of history is to tell young people what happened,  
 **Translation:** 
 
-**[4223.26s] English:** о знаменитых битвах, о потопе, о том, как люди научились добывать огонь или изобрели колесо.  
+**[4223.26s] English:** About famous battles, the flood, and how people learned to obtain fire or invented the wheel.  
 **Translation:** 
 
-**[4234.24s] English:** Все такое записывают, но предположительно так именно и было.  
+**[4234.24s] English:** All of it was recorded, but presumably that's exactly what happened.  
 **Translation:** 
 
-**[4239.62s] English:** Люди склонны обожать и уважать тех людей, кто обладает потрясающими способностями.  
-**Translation:** 
+**[4239.62s] English:** People tend to admire and respect those who possess amazing abilities.  
+**Translation:** Vocabulary: presumably: 大概
 
-**[4247.22s] English:** Наверняка были невероятно быстрые охотники, которые боролись с бомбами.  
+**[4247.22s] English:** Certainly were incredibly swift hunters who battled bombs.  
 **Translation:** 
 
-**[4253.26s] English:** Белыми медведями.  
-**Translation:** 
+**[4253.26s] English:** White Bears.  
+**Translation:** Vocabulary: battled: 对抗
 
-**[4255.18s] English:** И они становились вдохновением для рассказчика.  
+**[4255.18s] English:** And they became inspiration for the storyteller.  
 **Translation:** 
 
-**[4258.80s] English:** По мере того, как все становится сложнее и изощреннее,  
-**Translation:** 
+**[4258.80s] English:** As everything becomes more complex and sophisticated,  
+**Translation:** Vocabulary: sophisticated: 复杂精妙; storyteller: 讲故事的人
 
-**[4262.70s] English:** в истории могли включаться уроки, или урок можно было вынести непреднамеренно.  
+**[4262.70s] English:** In history, lessons could be included intentionally, or they could be drawn unintentionally.  
 **Translation:** 
 
-**[4267.48s] English:** Ведь даже если ты рассказываешь историю без морали,  
-**Translation:** 
+**[4267.48s] English:** Well, even if you tell a story without a moral,  
+**Translation:** Vocabulary: unintentionally: 无意中
 
-**[4270.98s] English:** если подумать, она в ней все же присутствует.  
+**[4270.98s] English:** If we think about it, she does have a presence in it.  
 **Translation:** 
 
-**[4273.44s] English:** И многие из этих историй, к сожалению, потеряны или еще не найдены.  
+**[4273.44s] English:** And many of these stories, unfortunately, have been lost or have yet to be found.  
 **Translation:** 
 
-**[4279.56s] English:** Ты упомянул потопы, и раз мы говорим об историях,  
+**[4279.56s] English:** You mentioned floods, and since we're talking about stories,  
 **Translation:** 
 
-**[4283.26s] English:** которые были потеряны и найдены, ты широко известен многими работами,  
+**[4283.26s] English:** Which were lost and found, you are widely known for many works,  
 **Translation:** 
 
-**[4286.84s] English:** и одна из них — расшифровка таблички Ковчега.  
+**[4286.84s] English:** And one of them — the decoding of the Ark tablet.  
 **Translation:** 
 
-**[4289.64s] English:** Да.  
+**[4289.64s] English:** Yes.  
 **Translation:** 
 
-**[4290.14s] English:** Ее было очень трудно читать.  
+**[4290.14s] English:** It was very difficult for her to read.  
 **Translation:** 
 
-**[4292.14s] English:** Ты должен рассказать эту историю.  
+**[4292.14s] English:** You should tell this story.  
 **Translation:** 
 
-**[4294.76s] English:** Эта вавилонская глиняная табличка, датированная 1700 годом до нашей эры,  
+**[4294.76s] English:** This Babylonian clay tablet, dated to 1700 BCE,  
 **Translation:** 
 
-**[4300.04s] English:** содержит повествование о потопе, предшествующем библейской истории о Ноэ на тысячу лет.  
-**Translation:** 
+**[4300.04s] English:** Contains a narrative of a flood that precedes the Biblical story of Noah by one thousand years.  
+**Translation:** Vocabulary: babylonian: 巴比伦的; biblical: 圣经的; precedes: 早于
 
-**[4305.50s] English:** Минимум.  
+**[4305.50s] English:** Minimum.  
 **Translation:** 
 
-**[4306.00s] English:** Минимум.  
+**[4306.00s] English:** Minimum.  
 **Translation:** 
 
-**[4306.50s] English:** Да.  
+**[4306.50s] English:** Yes.  
 **Translation:** 
 
-**[4307.00s] English:** Ладно.  
+**[4307.00s] English:** Okay.  
 **Translation:** 
 
-**[4307.50s] English:** Ты должен рассказать историю.  
+**[4307.50s] English:** You should tell a story.  
 **Translation:** 
 
-**[4310.14s] English:** История такая.  
+**[4310.14s] English:** History, such as it is.  
 **Translation:** 
 
-**[4311.34s] English:** Посетители приходили у моря.  
+**[4311.34s] English:** Visitors came to the sea.  
 **Translation:** 
 
-**[4312.06s] English:** Посетители приходили у моря.  
+**[4312.06s] English:** Visitors came to the sea.  
 **Translation:** 
 
-**[4312.76s] English:** Посетители приходили у моря.  
+**[4312.76s] English:** Visitors came to the sea.  
 **Translation:** 
 
-**[4313.26s] English:** Они приходили в музей задавать вопросы экспертам, которые там работали.  
+**[4313.26s] English:** They came to the museum to ask questions of the experts who worked there.  
 **Translation:** 
 
-**[4317.98s] English:** Периодически кто-то дежурил, иногда работал.  
+**[4317.98s] English:** Periodically someone would duty, sometimes worked.  
 **Translation:** 
 
-**[4320.00s] English:** Иногда люди приносили объекты, иногда задавали вопросы.  
+**[4320.00s] English:** Sometimes people brought objects, sometimes they asked questions.  
 **Translation:** 
 
-**[4324.24s] English:** И однажды кто-то пришел с целой кучей объектов, включая эту табличку, которую, если вкратце, я почти сразу опознал как часть истории о потопе.  
+**[4324.24s] English:** And one day someone came with a whole bunch of objects, including this plaque, which, if I may be brief, I almost immediately recognized as part of the flood history.  
 **Translation:** 
 
-**[4334.78s] English:** Табличка была около 8 дюймов на 3.  
-**Translation:** 
+**[4334.78s] English:** The sign was about 8 inches by 3.  
+**Translation:** Vocabulary: plaque: 铭牌
 
-**[4337.74s] English:** Не вся история о потопе, там сложное повествование, которое позже завершилось в повести о Гильгамеше.  
+**[4337.74s] English:** Not all the story is about the flood; there is a complex narrative that later concluded in the epic of Gilgamesh.  
 **Translation:** 
 
-**[4343.90s] English:** Это была ранняя повесть, в которой рассказывалось, что боги на небесах решили уничтожить население Месопотамии, потому что они были очень шумные.  
-**Translation:** 
+**[4343.90s] English:** This was an early tale in which it was said that the gods in heaven decided to destroy the population of Mesopotamia because they were very noisy.  
+**Translation:** Vocabulary: gilgamesh: 吉尔伽美什; mesopotamia: 美索不达米亚
 
-**[4360.68s] English:** Такая была причина.  
+**[4360.68s] English:** Such was the reason.  
 **Translation:** 
 
-**[4362.20s] English:** И они мешали дневному сону богов.  
+**[4362.20s] English:** And they disturbed the gods' daytime sleep.  
 **Translation:** 
 
-**[4365.82s] English:** Боги решили, что уничтожат их и создадут кого-то потише и поусерднее.  
+**[4365.82s] English:** The gods decided that they would destroy them and create something quieter and more obedient.  
 **Translation:** 
 
-**[4372.28s] English:** Суть была такая.  
-**Translation:** 
+**[4372.28s] English:** The essence was such.  
+**Translation:** Vocabulary: obedient: 顺从的
 
-**[4374.00s] English:** И у них были разные инструменты.  
+**[4374.00s] English:** And they had different tools.  
 **Translation:** 
 
-**[4376.70s] English:** Самый эффективный – наслать потоп и уничтожить их всех.  
+**[4376.70s] English:** The most effective way is to flood them and destroy them all.  
 **Translation:** 
 
-**[4380.18s] English:** Один из богов, третий в Триумвирате, считал, что это отвратительная идея.  
+**[4380.18s] English:** One of the gods, third in the Triumvirate, considered it an awful idea.  
 **Translation:** 
 
-**[4385.32s] English:** Он решил предупредить человека по имени Атрахасис, который жил в Месопотамии, чтобы тот построил лодку и сохранил жизнь, когда придет вода.  
-**Translation:** 
+**[4385.32s] English:** He decided to warn a man named Atrahasis who lived in Mesopotamia to build a boat and save his life when the water would come.  
+**Translation:** Vocabulary: atrahasis: 阿特拉哈西斯; triumvirate: 三神执政团
 
-**[4397.14s] English:** Он подсказывал ему форму и материалы, которые ему понадобятся, и сколько нужно будет материалов,  
+**[4397.14s] English:** He suggested to him the form and materials he would need, as well as how much of each material was required.  
 **Translation:** 
 
-**[4403.90s] English:** и все, что он сделал, правильно.  
+**[4403.90s] English:** And everything he did was right.  
 **Translation:** 
 
-**[4406.46s] English:** И все это описывалось в 60 строках таблицы, что-то типа чертежа для постройки лодки.  
+**[4406.46s] English:** And all of this was described in 60 table rows, something like a blueprint for building a boat.  
 **Translation:** 
 
-**[4412.22s] English:** Она была необычной, круглой по форме.  
-**Translation:** 
+**[4412.22s] English:** She was unusual, round in shape.  
+**Translation:** Vocabulary: blueprint: 设计图纸
 
-**[4416.22s] English:** А все, кто знает Библию, в курсе, что ковчег по форме больше похож на гроб.  
+**[4416.22s] English:** All who know the Bible are aware that the ark is more in the shape of a coffin.  
 **Translation:** 
 
-**[4423.90s] English:** Никто не думал, что лодка может быть круглой.  
+**[4423.90s] English:** No one thought that a boat could be round.  
 **Translation:** 
 
-**[4427.50s] English:** Дело в том, что для транспортировки вещей Месопотамии,  
+**[4427.50s] English:** The thing is that for transporting goods in Mesopotamia,  
 **Translation:** 
 
-**[4432.70s] English:** Месопотамии использовали круглые лодки, кураклы, они никогда не тонули.  
-**Translation:** 
+**[4432.70s] English:** Mesopotamia used round boats, kūrāklī, and they never sank.  
+**Translation:** Vocabulary: transporting: 运输
 
-**[4440.00s] English:** Были очень удобные.  
+**[4440.00s] English:** They were very convenient.  
 **Translation:** 
 
-**[4443.50s] English:** И вот, согласно этой истории, было решено построить очень большой, гигантский каракол, который никогда не утонет.  
-**Translation:** 
+**[4443.50s] English:** And according to this story, it was decided to build a very large, giant carrack that would never sink.  
+**Translation:** Vocabulary: carrack: 大帆船
 
-**[4453.18s] English:** Там будут и самцы, и самки животных, и жена Атрахасиса, и трое его сыновей и прочие, все они поместятся и будут плавать на воде.  
+**[4453.18s] English:** There will be both male and female animals, Atrahasis's wife, and his three sons, and all of them will be able to board and swim on the water.  
 **Translation:** 
 
-**[4463.24s] English:** Когда вода уйдет, они все начнут заново.  
+**[4463.24s] English:** When the water has gone, they will all have to start over.  
 **Translation:** 
 
-**[4465.58s] English:** В общем, там очень много общего с описанием потопа в бытии, как и с тем, что в Гильгамеше.  
+**[4465.58s] English:** In general, there is a lot in common with the description of the flood in both existence and in Gilgamesh.  
 **Translation:** 
 
-**[4474.10s] English:** В 1872 году в Британском музее был ассериолог по имени Джордж Смит, и он был очень, очень талантливым чтецом.  
-**Translation:** 
+**[4474.10s] English:** In 1872, in the British Museum, there was an Assyriologist named George Smith, and he was a very, very talented reader.  
+**Translation:** Vocabulary: assyriologist: 研究苏美尔文明的学者; gilgamesh: 吉尔伽美什
 
-**[4486.16s] English:** В том же году он обнаружил, что одна из табличек из Ниневийской библиотеки, о которой мы говорили, содержала отрывок,  
+**[4486.16s] English:** In the same year, he discovered that one of the tablets from the Ninveh Library, which we had mentioned, contained a fragment,  
 **Translation:** 
 
-**[4495.58s] English:** который шел параллельно с Гильгамешем, о приходе вод, о лодке и о том, как все плывут.  
-**Translation:** 
+**[4495.58s] English:** Which was parallel to Gilgamesh's journey, about the coming of the waters, about the boat, and how everyone is sailing.  
+**Translation:** Vocabulary: fragment: 残片; parallel: 相似
 
-**[4502.70s] English:** Когда дождь прекратился, и ковчег остановился на горе, герой этой истории, Гильгамеша, которого звали Утнапишти,  
+**[4502.70s] English:** When the rain stopped and the ark rested on a mountain, the hero of this story, Utnapishthim, who was also known as Gilgamesh,  
 **Translation:** 
 
-**[4513.44s] English:** выпустил птицу три раза, чтобы посмотреть, есть ли деревья.  
-**Translation:** 
+**[4513.44s] English:** He released the bird three times to see if there were any trees.  
+**Translation:** Vocabulary: rested: 停靠
 
-**[4519.32s] English:** Первая вернулась, вторая, а третья нет.  
+**[4519.32s] English:** The first one returned, the second one, but the third one is still absent.  
 **Translation:** 
 
-**[4522.08s] English:** Так что он понял, это было не только...  
+**[4522.08s] English:** So he understood that it was not only...  
 **Translation:** 
 
-**[4525.58s] English:** в эпосе о Гильгамеше, но и в книге «Бытия».  
+**[4525.58s] English:** In the Epic of Gilgamesh, but also in the Book of Genesis.  
 **Translation:** 
 
-**[4529.82s] English:** Так что это значит, что не было...  
+**[4529.82s] English:** So what does that mean, there was...  
 **Translation:** 
 
-**[4532.62s] English:** не могло быть двух историй.  
+**[4532.62s] English:** It could not be two stories.  
 **Translation:** 
 
-**[4535.04s] English:** Это были не две истории об одном и том же.  
+**[4535.04s] English:** This was not two stories about the same thing.  
 **Translation:** 
 
-**[4538.00s] English:** Тут литературная зависимость.  
+**[4538.00s] English:** Here is a literary dependency.  
 **Translation:** 
 
-**[4540.52s] English:** Прямая зависимость, одна замкнутая на другую.  
+**[4540.52s] English:** Direct dependence, one circling the other.  
 **Translation:** 
 
-**[4543.44s] English:** Текст еврейской библии, когда бы он не был записан, конечно, никто не знает точно когда, но когда бы это ни было,  
+**[4543.44s] English:** Text of the Jewish Bible, when it was written, no one knows exactly when, but whenever that may have been,  
 **Translation:** 
 
-**[4549.16s] English:** это было примерно в то же время, что и тот из Ниневии, около 7 века, 6 века, что-то вроде этого.  
+**[4549.16s] English:** This was approximately at the same time as that from Nineveh, around the 7th or 6th century, something like this.  
 **Translation:** 
 
-**[4555.58s] English:** Там небольшой временной промежуток между...  
+**[4555.58s] English:** There is a small temporary interval between...  
 **Translation:** 
 
-**[4560.00s] English:** версии Гильгамеша из Ниневии и еврейской Библии. Так что о них велись некоторые споры. Но затем  
-**Translation:** 
+**[4560.00s] English:** Versions of Gilgamesh from Nineveh and the Jewish Bible. So there were some disputes about them. But then  
+**Translation:** Vocabulary: disputes: 争端
 
-**[4567.84s] English:** появилась эта табличка, а она на тысячу лет старше, и никто не верит, что Библия была написана в  
+**[4567.84s] English:** This sign appeared, and it's a thousand years older than that, and nobody believes that the Bible was written in  
 **Translation:** 
 
-**[4573.62s] English:** 1700 году до нашей эры. Так что было установлено первенство месопотамского материала. И это важно,  
-**Translation:** 
+**[4573.62s] English:** In 1700 B.C., so it was established the primacy of Mesopotamian material. And this is important.  
+**Translation:** Vocabulary: mesopotamian: 美索不达米亚的; primacy: 优先权
 
-**[4582.92s] English:** потому что в Иерусалиме никогда не бывает потопов. Просто не бывает. Но в Месопотаме потопы были.  
+**[4582.92s] English:** Because it never rains in Jerusalem. It just doesn't. But there were floods in Mesopotamia.  
 **Translation:** 
 
-**[4590.72s] English:** Реки иногда пересыхали, а иногда в них было слишком много воды. Так что механизм, в котором  
-**Translation:** 
+**[4590.72s] English:** Rivers sometimes dried up, and at other times there was too much water in them. So the mechanism, in which  
+**Translation:** Vocabulary: mesopotamia: 两河流域
 
-**[4598.86s] English:** воды могли быть использованы высшими силами в качестве разрушительной силы, это правдоподобный  
+**[4598.86s] English:** Water could have been used by higher powers as a destructive force, this is plausible.  
 **Translation:** 
 
-**[4604.80s] English:** месопотамский механизм. И в каком-то смысле, по-моему, он основан на реальности. Должно быть  
-**Translation:** 
+**[4604.80s] English:** Mesopotamian mechanism. And in some sense, as I understand it, it is based on reality. It must be  
+**Translation:** Vocabulary: plausible: 合情合理的
 
-**[4610.50s] English:** какой-то цунами, в котором мы не сможем выжить, в котором мы не сможем выжить, в котором мы не сможем  
+**[4610.50s] English:** Some kind of tsunami, in which we won't survive, in which we won't survive, in which we won't survive.  
 **Translation:** 
 
-**[4612.90s] English:** выжить. А те, кто выжил, очевидно, были в лодках. И потом об этом не забывали. И так и рассказывали  
-**Translation:** 
+**[4612.90s] English:** Survive. And those who survived obviously were in boats. And then they never forgot about it. And they kept telling the story.  
+**Translation:** Vocabulary: tsunami: 海啸
 
-**[4620.88s] English:** историю. Могло произойти катастрофическое крупное событие? Да, не по всему миру, ведь люди были...  
+**[4620.88s] English:** History. Could a catastrophic event have occurred? Yes, not worldwide, for people were...  
 **Translation:** 
 
-**[4627.60s] English:** Ну, довольно большое. Да, прошедшие вниз к Персидскому заливу. Там плоские равнины. Цунами бы  
-**Translation:** 
+**[4627.60s] English:** Nu, quite a large area. Yes, those that went down to the Persian Gulf. There are flat plains there. A tsunami would  
+**Translation:** Vocabulary: catastrophic: 灾难性的; persian: 波斯的
 
-**[4632.82s] English:** все уничтожило, разрушило дома. Животные бы утонули. Невероятное открытие. Ты думаешь,  
+**[4632.82s] English:** All was destroyed, homes ruined. Animals would have drowned. Incredible discovery. You think,  
 **Translation:** 
 
-**[4639.46s] English:** это оригинал? В многих культурах есть...  
+**[4639.46s] English:** Is this the original? In many cultures, there are...  
 **Translation:** 
 
-**[4642.90s] English:** Мифы о потопе. Я в это верю. У месопотамцев был глубоко укоренившийся ужас перед зависимостью от  
+**[4642.90s] English:** Myths about the flood. I believe in them. The Mesopotamians had a deeply ingrained fear of dependence on  
 **Translation:** 
 
-**[4651.42s] English:** воды, когда они не могли ее контролировать. Они ее боялись. В Вавилоне была радуга, как в Библии,  
-**Translation:** 
+**[4651.42s] English:** Water, when they could not control it. They feared it. In Babylon, there was a rainbow, as in the Bible.  
+**Translation:** Vocabulary: babylon: 巴比伦; ingrained: 根深蒂固; mesopotamians: 美索不达米亚人; rainbow: 彩虹
 
-**[4658.82s] English:** как доказательство того, что катастрофический потоп больше никогда не случится. Думаю,  
+**[4658.82s] English:** As proof that the catastrophic flood will never happen again. I think,  
 **Translation:** 
 
-**[4664.50s] English:** должен был быть один эпизод такого рода. Может быть, за пять тысяч лет, до таблички,  
+**[4664.50s] English:** There should have been an episode of this kind. Perhaps, five thousand years ago, before the tablet,  
 **Translation:** 
 
-**[4670.32s] English:** десять тысяч лет, неважно. Ведь с течением времени в той части мира ничего не происходит.  
+**[4670.32s] English:** Ten thousand years, never mind. For in that part of the world, nothing happens with the passage of time.  
 **Translation:** 
 
-**[4676.44s] English:** Предание будет жить от дедушки к внуку.  
+**[4676.44s] English:** The tradition will live from grandfather to grandson.  
 **Translation:** 
 
-**[4680.00s] English:** рассказывающего перед сном «Помни, мальчик мой, тебе нужно быть осторожным,  
+**[4680.00s] English:** Rasskazyvayushchego pered snom: "Pomni, malysh moy, tebe nuzhno byt' ostarozhnym,  
 **Translation:** 
 
-**[4685.46s] English:** иначе сказки про бабайку».  
-**Translation:** 
+**[4685.46s] English:** Otherwise, fairy tales about Babayka.  
+**Translation:** Vocabulary: babayka: 老妇人; ostarozhnym: 谨慎; rasskazyvayushchego: 讲故事的
 
-**[4688.84s] English:** Предание так и жило в их сознании.  
+**[4688.84s] English:** Pride lived on in their consciousness.  
 **Translation:** 
 
-**[4692.60s] English:** Так что я думаю, что иудеи из Иерусалима,  
-**Translation:** 
+**[4692.60s] English:** So I think that the Jews from Jerusalem,  
+**Translation:** Vocabulary: consciousness: 觉悟
 
-**[4696.84s] English:** после разрушения храма вавилонянами и разгрома жречества и всего остального,  
+**[4696.84s] English:** After the destruction of the temple by the Babylonians and the overthrow of the priesthood and everything else,  
 **Translation:** 
 
-**[4704.14s] English:** царь и прочие отправились по суше в Вавилон как беженцы.  
+**[4704.14s] English:** The czar and the others traveled by land to Babylon as refugees.  
 **Translation:** 
 
-**[4707.66s] English:** Им пришлось жить там три поколения при правлении Навуходоносора.  
+**[4707.66s] English:** They had to live there for three generations under Nebuchadnezzar's rule.  
 **Translation:** 
 
-**[4713.06s] English:** Я полагаю, что текст Библии был написан тогда,  
+**[4713.06s] English:** I believe that the text of the Bible was written then.  
 **Translation:** 
 
-**[4716.24s] English:** потому что если читать Библию внимательно,  
+**[4716.24s] English:** Because if you read the Bible attentively,  
 **Translation:** 
 
-**[4719.92s] English:** и хотя я не могу сказать, что делаю это регулярно,  
-**Translation:** 
+**[4719.92s] English:** And although I cannot say that I do this regularly,  
+**Translation:** Vocabulary: attentively: 专心地; cannot: 不能
 
-**[4723.50s] English:** но если читать ее беспристрастно,  
+**[4723.50s] English:** But if read her objectively,  
 **Translation:** 
 
-**[4725.86s] English:** очевидно, что в Библии объясняют читателю,  
-**Translation:** 
+**[4725.86s] English:** Obviously, the Bible explains to the reader,  
+**Translation:** Vocabulary: objectively: 客观地
 
-**[4729.34s] English:** как получилось так, что эти люди в такой беде,  
+**[4729.34s] English:** How did these people end up in such trouble?  
 **Translation:** 
 
-**[4733.70s] English:** потому что они должны быть избранным,  
+**[4733.70s] English:** Because they should be chosen.  
 **Translation:** 
 
-**[4737.66s] English:** народом, у них нет храма, у них нет страны.  
+**[4737.66s] English:** In their country, they have no temple, and they have no homeland.  
 **Translation:** 
 
-**[4741.46s] English:** Они выдохлись.  
-**Translation:** 
+**[4741.46s] English:** They ran out of steam.  
+**Translation:** Vocabulary: homeland: 祖国
 
-**[4742.90s] English:** Я думаю, то, что произошло, это сложная штука.  
+**[4742.90s] English:** I think what happened is a complicated thing.  
 **Translation:** 
 
-**[4749.58s] English:** Иудеи из Иерусалима говорили не только на иврите, но и на арамейском, так?  
-**Translation:** 
+**[4749.58s] English:** The Jews from Jerusalem spoke not only Hebrew but also Aramaic, didn't they?  
+**Translation:** Vocabulary: aramaic: 阿拉摩语; hebrew: 希伯来语
 
-**[4755.54s] English:** Это два родственных языка.  
+**[4755.54s] English:** These are two related languages.  
 **Translation:** 
 
-**[4758.04s] English:** Вавилоняне же говорили на вавилонском и на арамейском.  
-**Translation:** 
+**[4758.04s] English:** The Babylonians spoke Babylonian and Aramaic.  
+**Translation:** Vocabulary: babylonian: 巴比伦语; babylonians: 巴比伦人
 
-**[4762.04s] English:** Они все носили одинаковую одежду, у них у всех была коричневая кожа.  
+**[4762.04s] English:** They all wore the same clothing, and they all had brown skin.  
 **Translation:** 
 
-**[4765.60s] English:** Пока все эти беженцы из Иерусалима,  
+**[4765.60s] English:** Preliminary: The given text is in Russian. It seems to be incomplete or part of a larger context as it doesn't form a complete English sentence. Here's an attempt at punctuating and capitalizing the start of a potential English translation: While all these refugees from Jerusalem,  
 **Translation:** 
 
-**[4767.66s] English:** кучковались в Вавилонии,  
+**[4767.66s] English:** Clustered in Babylon,  
 **Translation:** 
 
-**[4769.66s] English:** случалась бы куча смешанных браков, и они бы исчезли в мгновение ока.  
-**Translation:** 
+**[4769.66s] English:** If a lot of mixed marriages had occurred, they would have vanished in no time.  
+**Translation:** Vocabulary: babylon: 巴比伦; clustered: 聚集; vanished: 消失
 
-**[4775.66s] English:** Тогдашние власти предотвратили это,  
+**[4775.66s] English:** Then the authorities prevented it.  
 **Translation:** 
 
-**[4778.66s] English:** составив своего рода хартию их истории,  
-**Translation:** 
+**[4778.66s] English:** Casting a sort of charter for their history,  
+**Translation:** Vocabulary: casting: 铸造
 
-**[4781.66s] English:** объясняющую, что происходило  
+**[4781.66s] English:** Explaining what was happening,  
 **Translation:** 
 
-**[4784.66s] English:** от начала времен и до того момента.  
+**[4784.66s] English:** From the beginning of time until that moment.  
 **Translation:** 
 
-**[4788.66s] English:** Как и что именно произошло, все было сделано намеренно.  
+**[4788.66s] English:** What exactly happened, it was all done deliberately.  
 **Translation:** 
 
-**[4792.66s] English:** Это, по-моему, движущая сила, стоящая за еврейскими текстами.  
-**Translation:** 
+**[4792.66s] English:** This, in my opinion, is the driving force behind Jewish texts.  
+**Translation:** Vocabulary: deliberately: 故意
 
-**[4796.66s] English:** Это, по-моему, движущая сила, стоящая за еврейскими текстами.  
+**[4796.66s] English:** This, in my opinion, is the driving force behind Jewish texts.  
 **Translation:** 
 
-**[4797.66s] English:** Дело в том, что  
+**[4797.66s] English:** The thing is that  
 **Translation:** 
 
-**[4798.66s] English:** Дело в том, что  
+**[4798.66s] English:** The thing is that  
 **Translation:** 
 
-**[4799.66s] English:** Дело в том, что  
+**[4799.66s] English:** The thing is that  
 **Translation:** 
 
-**[4800.00s] English:** В еврейской, философской традиции не было ничего о сотворении и начале мира.  
+**[4800.00s] English:** In Jewish philosophical tradition, there was nothing about creation and the beginning of the world.  
 **Translation:** 
 
-**[4807.72s] English:** Они взяли вавилонские идеи, которые узнали, пока жили там, и переработали их.  
-**Translation:** 
+**[4807.72s] English:** They took Babylonian ideas, which they learned while living there, and processed them.  
+**Translation:** Vocabulary: philosophical: 哲学的; processed: 加工
 
-**[4816.16s] English:** Боги вавилонян собирались уничтожить шумных людей,  
+**[4816.16s] English:** Gods of Babylon planned to destroy the noisy people,  
 **Translation:** 
 
-**[4820.92s] English:** а еврейским философам нужно было переработать повесть в историю о мстительном всемогущем.  
-**Translation:** 
+**[4820.92s] English:** For Jewish philosophers, it needed to be rewritten as a story about avengeful and all-powerful figure.  
+**Translation:** Vocabulary: avengeful: 报复心强的; philosophers: 哲学家; rewritten: 改写
 
-**[4828.32s] English:** Он в Ветхом Завете был неприятной мстительной личностью, и все случилось из-за греха.  
+**[4828.32s] English:** He was an unpleasant vengeful person in the Old Testament, and all of it happened because of sin.  
 **Translation:** 
 
-**[4834.92s] English:** Это было не из-за шума и громких игр, а из-за греха.  
-**Translation:** 
+**[4834.92s] English:** This was not due to noise and loud games, but due to sin.  
+**Translation:** Vocabulary: testament: 遗约; vengeful: 报复的
 
-**[4838.28s] English:** Они взяли рассказ и переработали его в своих целях.  
+**[4838.28s] English:** They took the story and rewrote it for their purposes.  
 **Translation:** 
 
-**[4844.04s] English:** Потоп — это полезный инструмент, чтобы наказать людей за что угодно?  
-**Translation:** 
+**[4844.04s] English:** Is a flood a useful tool to punish people for anything?  
+**Translation:** Vocabulary: rewrote: 改写
 
-**[4849.20s] English:** Да, верно. И смотри еще вот что. Вот что.  
+**[4849.20s] English:** Yes, correct. And look at this as well. Here it is.  
 **Translation:** 
 
-**[4853.06s] English:** Так, у тебя есть пять дней, чтобы построить ковчег.  
+**[4853.06s] English:** So, you have five days to build an ark.  
 **Translation:** 
 
-**[4855.88s] English:** Или сколько там, две недели, так что отчет пошел.  
+**[4855.88s] English:** Or however many days that is, two weeks, so the report has gone.  
 **Translation:** 
 
-**[4858.32s] English:** Тик-так, тик-так, тик-так.  
+**[4858.32s] English:** Tic-tac, tic-tac, tic-tac.  
 **Translation:** 
 
-**[4860.12s] English:** Около трети фильмов, которые выходят из Голливуда, про то, что мир уничтожат инопланетяне.  
+**[4860.12s] English:** About a third of Hollywood films are about aliens destroying the world.  
 **Translation:** 
 
-**[4865.28s] English:** И у тебя есть 24 часа, чтобы найти лекарство.  
-**Translation:** 
+**[4865.28s] English:** You have 24 hours to find the cure.  
+**Translation:** Vocabulary: aliens: 外星人
 
-**[4868.84s] English:** Тик-так, тик-так, тик-так, тик-так.  
+**[4868.84s] English:** Tic-tac, tic-tac, tic-tac, tic-tac.  
 **Translation:** 
 
-**[4871.40s] English:** И сюжет слишком захватывающий.  
-**Translation:** 
+**[4871.40s] English:** The plot is too captivating.  
+**Translation:** Vocabulary: captivating: 引人入胜
 
-**[4874.00s] English:** Если повезет, то один человек может успеть спасти мир от катастрофы.  
+**[4874.00s] English:** If lucky enough, one person may manage to save the world from catastrophe.  
 **Translation:** 
 
-**[4879.84s] English:** Все начинается с Утнопишти, переходит к Ною, а потом в Голливуд.  
-**Translation:** 
+**[4879.84s] English:** All begins with Utnopishchi, then moves to Noah, and finally ends up in Hollywood.  
+**Translation:** Vocabulary: catastrophe: 灾难
 
-**[4886.84s] English:** Как ты думаешь,  
+**[4886.84s] English:** How do you think?  
 **Translation:** 
 
-**[4888.32s] English:** ковчег с таблички реально существовал?  
-**Translation:** 
+**[4888.32s] English:** Did the ark with the plaque really exist?  
+**Translation:** Vocabulary: plaque: 铭牌
 
-**[4892.88s] English:** Ты построил реплику в три раза меньше.  
+**[4892.88s] English:** You built a replica that is three times smaller.  
 **Translation:** 
 
-**[4896.44s] English:** Людям стоит увидеть. Ты замечательно рассказываешь эту историю.  
-**Translation:** 
+**[4896.44s] English:** People should see it. You are telling this story wonderfully.  
+**Translation:** Vocabulary: replica: 缩小模型
 
-**[4900.40s] English:** Что ты понял, пока строил эту реплику?  
+**[4900.40s] English:** What did you understand while building this reply?  
 **Translation:** 
 
-**[4902.80s] English:** И как думаешь, настоящий ковчег был?  
+**[4902.80s] English:** How do you think the real ark was?  
 **Translation:** 
 
-**[4905.96s] English:** Нет, не думаю.  
+**[4905.96s] English:** No, I don't think so.  
 **Translation:** 
 
-**[4907.40s] English:** Это художественный вымысел, основанный на реальности.  
+**[4907.40s] English:** This is a work of artistic fiction based on reality.  
 **Translation:** 
 
-**[4909.80s] English:** Что люди, которые выжили, были на лодках.  
+**[4909.80s] English:** What people who survived were on boats.  
 **Translation:** 
 
-**[4914.00s] English:** У них точно были лодки.  
+**[4914.00s] English:** They definitely had boats.  
 **Translation:** 
 
-**[4916.40s] English:** Они могли проснуться в Персидском заливе,  
+**[4916.40s] English:** They could wake up in the Persian Gulf,  
 **Translation:** 
 
-**[4918.20s] English:** и так и не узнать, что произошло.  
-**Translation:** 
+**[4918.20s] English:** And we will never know what happened.  
+**Translation:** Vocabulary: persian: 波斯的
 
-**[4920.00s] English:** То есть это просто литературное произведение.  
+**[4920.00s] English:** That is, this is simply a literary work.  
 **Translation:** 
 
-**[4925.56s] English:** Такой способ научить.  
+**[4925.56s] English:** Such a way to teach.  
 **Translation:** 
 
-**[4927.36s] English:** А миссионеры разносят этот миф по всему миру.  
+**[4927.36s] English:** Missionaries spread this myth around the world.  
 **Translation:** 
 
-**[4930.32s] English:** Видишь, в этом же и соль.  
+**[4930.32s] English:** You see, there's even salt in this.  
 **Translation:** 
 
-**[4931.80s] English:** История о потопе есть везде.  
+**[4931.80s] English:** The story of the flood is everywhere.  
 **Translation:** 
 
-**[4934.16s] English:** И некоторые из них пошли от назойливых миссионеров,  
-**Translation:** 
+**[4934.16s] English:** Some of them were influenced by persistent missionaries.  
+**Translation:** Vocabulary: persistent: 坚持不懈的
 
-**[4938.42s] English:** которые сажали перед собой невинных малышей и говорили им,  
+**[4938.42s] English:** Which they planted before themselves innocent children and told them,  
 **Translation:** 
 
-**[4941.48s] English:** «Я расскажу вам историю!»  
+**[4941.48s] English:** Let me tell you a story!  
 **Translation:** 
 
-**[4944.26s] English:** Вот так.  
+**[4944.26s] English:** Here it is.  
 **Translation:** 
 
-**[4945.24s] English:** Миф попадает в сознание, перерабатывается и перерабатывается.  
-**Translation:** 
+**[4945.24s] English:** Myth enters the consciousness, is processed, and reprocessed.  
+**Translation:** Vocabulary: consciousness: 清醒; processed: 加工; reprocessed: 再加工
 
-**[4948.64s] English:** Это во-первых.  
+**[4948.64s] English:** This is first of all.  
 **Translation:** 
 
-**[4949.60s] English:** А во-вторых, есть и спонтанные идеи, ведь история не такая уж сложная.  
-**Translation:** 
+**[4949.60s] English:** And secondly, there are also spontaneous ideas; after all, history is not that complicated.  
+**Translation:** Vocabulary: spontaneous: 突发的
 
-**[4955.70s] English:** Или удивительная.  
+**[4955.70s] English:** Or amazing.  
 **Translation:** 
 
-**[4957.16s] English:** Миф мог родиться у людей независимо друг от друга.  
-**Translation:** 
+**[4957.16s] English:** Myth could have arisen independently among people.  
+**Translation:** Vocabulary: arisen: 产生; independently: 独立地
 
-**[4960.26s] English:** В итоге Великая река в Китае тоже разливалась, так что это совсем неудивительно.  
+**[4960.26s] English:** In the end, the Great River in China also overflowed, so this is not at all surprising.  
 **Translation:** 
 
-**[4965.40s] English:** Но это такая штука.  
-**Translation:** 
+**[4965.40s] English:** But it's such a thing.  
+**Translation:** Vocabulary: overflowed: 泛滥
 
-**[4967.12s] English:** Джордж Смит, он был очень умным человеком,  
+**[4967.12s] English:** George Smith, he was a very smart man,  
 **Translation:** 
 
-**[4970.38s] English:** очень удивился, впервые прочитав на табличке из Ниневи,  
-**Translation:** 
+**[4970.38s] English:** He was very surprised, first reading it on a sign in Niniveh.  
+**Translation:** Vocabulary: niniveh: 尼尼微
 
-**[4974.18s] English:** задолго до той, что я обнаружил о трех птицах,  
+**[4974.18s] English:** Long before I discovered the story of three birds,  
 **Translation:** 
 
-**[4978.26s] English:** выпущенных одна...  
+**[4978.26s] English:** Released one...  
 **Translation:** 
 
-**[4980.10s] English:** за другой.  
+**[4980.10s] English:** For another.  
 **Translation:** 
 
-**[4981.50s] English:** Это стало решающим доказательством, что две истории были связаны.  
-**Translation:** 
+**[4981.50s] English:** This became the decisive evidence that two stories were connected.  
+**Translation:** Vocabulary: decisive: 决定性的
 
-**[4986.00s] English:** Многие священники очень расстроились и не знали, что с этим делать.  
+**[4986.00s] English:** Many priests were very upset and did not know what to do about it.  
 **Translation:** 
 
-**[4990.60s] English:** То есть это четкое доказательство,  
+**[4990.60s] English:** That is a clear proof,  
 **Translation:** 
 
-**[4993.60s] English:** что тут присутствует литературная связь.  
+**[4993.60s] English:** What literary connection is present here.  
 **Translation:** 
 
-**[4997.10s] English:** Думаю так.  
+**[4997.10s] English:** I think so.  
 **Translation:** 
 
-**[4998.10s] English:** И...  
+**[4998.10s] English:** And...  
 **Translation:** 
 
-**[4999.10s] English:** получается, что головоломки связаны, но ты обнаружил ковчег  
-**Translation:** 
+**[4999.10s] English:** It turns out that the puzzles are connected, but you discovered the ark.  
+**Translation:** Vocabulary: puzzles: 谜题
 
-**[5004.60s] English:** на тысячу лет старше.  
+**[5004.60s] English:** A thousand years older.  
 **Translation:** 
 
-**[5007.60s] English:** Это значит, что история...  
+**[5007.60s] English:** This means that the history...  
 **Translation:** 
 
-**[5009.60s] English:** о потопе...  
+**[5009.60s] English:** About the flood...  
 **Translation:** 
 
-**[5011.60s] English:** рассказывалась много-много раз за это время, чтобы люди...  
+**[5011.60s] English:** Was told many times over this period to make sure people...  
 **Translation:** 
 
-**[5015.60s] English:** готовились.  
+**[5015.60s] English:** They prepared.  
 **Translation:** 
 
-**[5016.60s] English:** Да.  
+**[5016.60s] English:** Yes.  
 **Translation:** 
 
-**[5017.60s] English:** Делай домашку, или будет потоп.  
+**[5017.60s] English:** Do your homework, or there will be a flood.  
 **Translation:** 
 
-**[5019.60s] English:** Да.  
+**[5019.60s] English:** Yes.  
 **Translation:** 
 
-**[5020.60s] English:** Делай все.  
+**[5020.60s] English:** Do it all.  
 **Translation:** 
 
-**[5021.60s] English:** Именно.  
+**[5021.60s] English:** Exactly.  
 **Translation:** 
 
-**[5022.60s] English:** Каждый раз, когда ты строишь каракул...  
+**[5022.60s] English:** Each time you build a karakul...,  
 **Translation:** 
 
-**[5025.60s] English:** и лажаешь с гидроизоляцией...  
-**Translation:** 
+**[5025.60s] English:** And you messed up with the waterproofing....  
+**Translation:** Vocabulary: karakul: 卡拉库尔羊; messed: 搞砸了; waterproofing: 防水处理
 
-**[5027.60s] English:** Знаешь, что будет?  
+**[5027.60s] English:** Do you know what will happen?  
 **Translation:** 
 
-**[5030.60s] English:** Ты спустишься на воду и будешь ждать участи.  
-**Translation:** 
+**[5030.60s] English:** You will descend into the water and await your fate.  
+**Translation:** Vocabulary: descend: 下潜
 
-**[5032.60s] English:** Думаю, все было так.  
+**[5032.60s] English:** I think it was all like that.  
 **Translation:** 
 
-**[5034.60s] English:** Есть некоторые свидетельства, что...  
+**[5034.60s] English:** There are some evidence that...  
 **Translation:** 
 
-**[5037.60s] English:** в месопотамском обществе люди...  
+**[5037.60s] English:** In Mesopotamian society, people...  
 **Translation:** 
 
-**[5040.00s] English:** Люди говорили о времени до потопа и после потопа.  
-**Translation:** 
+**[5040.00s] English:** People spoke about time before the flood and after the flood.  
+**Translation:** Vocabulary: mesopotamian: 两河流域的
 
-**[5047.74s] English:** Примерно так же, как когда я был мальчиком, люди говорили «до войны мы…»  
+**[5047.74s] English:** Approximately in the same way as when I was a boy, people would say "before the war we...  
 **Translation:** 
 
-**[5054.94s] English:** А теперь «мы…»  
+**[5054.94s] English:** Now, "we...  
 **Translation:** 
 
-**[5058.56s] English:** Это своего рода катаклизмитический разрез истории, который проводит линию,  
+**[5058.56s] English:** This is a kind of cataclysmic slice of history that draws the line,  
 **Translation:** 
 
-**[5064.58s] English:** и теперь все, что происходит, это либо до, либо после нее.  
-**Translation:** 
+**[5064.58s] English:** And now, whatever is happening, is either before or after her.  
+**Translation:** Vocabulary: cataclysmic: 灾难性的
 
-**[5067.88s] English:** Потому что есть список царей, они записывали имена всех царей с самого начала,  
+**[5067.88s] English:** Because there is a list of kings, they recorded the names of all the kings from the very beginning.  
 **Translation:** 
 
-**[5073.46s] English:** включая царей до потопа, они обо всем знали.  
+**[5073.46s] English:** Including kings before the flood, they knew it all.  
 **Translation:** 
 
-**[5077.32s] English:** У них были записаны их имена, годы правления, тысячелетиями.  
+**[5077.32s] English:** They had recorded their names, years of reign, millennia by millennia.  
 **Translation:** 
 
-**[5081.18s] English:** Завораживающе.  
-**Translation:** 
+**[5081.18s] English:** Wow.  
+**Translation:** Vocabulary: millennia: 千年; reign: 统治
 
-**[5082.28s] English:** Есть человек по имени Грэм Хэнкок, который говорит о гипотезе младшего Дриаса,  
+**[5082.28s] English:** There is a man named Graham Hancock who speaks about the hypothesis of the younger Dryas.  
 **Translation:** 
 
-**[5087.20s] English:** десятитысячный год до нашей эры.  
-**Translation:** 
+**[5087.20s] English:** Ten thousand years before our era.  
+**Translation:** Vocabulary: dryas: YoungerDryas; hypothesis: 冰河假说
 
-**[5089.38s] English:** Мол, был астероид, который ударил по земле и растопил ледяные щиты,  
+**[5089.38s] English:** Mol, was an asteroid that struck the Earth and melted the ice shields,  
 **Translation:** 
 
-**[5094.74s] English:** и в Северной Америке случился потоп.  
-**Translation:** 
+**[5094.74s] English:** And in North America, a flood occurred.  
+**Translation:** Vocabulary: asteroid: 小行星; shields: 防护盾
 
-**[5097.04s] English:** А это значит, что…  
+**[5097.04s] English:** This means that...  
 **Translation:** 
 
-**[5097.88s] English:** Он говорит, что это был реальный катаклизм глобального масштаба,  
-**Translation:** 
+**[5097.88s] English:** He says that it was a real global cataclysm.  
+**Translation:** Vocabulary: cataclysm: 灾难
 
-**[5101.02s] English:** и потом, когда возникли различные цивилизации,  
+**[5101.02s] English:** And then, when various civilizations arose,  
 **Translation:** 
 
-**[5105.26s] English:** они все несли это знание, эту память.  
-**Translation:** 
+**[5105.26s] English:** They all carried this knowledge, this memory.  
+**Translation:** Vocabulary: civilizations: 文明
 
-**[5110.02s] English:** Он так думает.  
+**[5110.02s] English:** He thinks so.  
 **Translation:** 
 
-**[5111.16s] English:** Какова вероятность его объяснения?  
+**[5111.16s] English:** What is the likelihood of his explanation?  
 **Translation:** 
 
-**[5113.30s] English:** Ничтожная.  
+**[5113.30s] English:** Nichtthing.  
 **Translation:** 
 
-**[5114.54s] English:** Потому что я рассматриваю это как литературное произведение,  
+**[5114.54s] English:** Because I consider it as a literary work,  
 **Translation:** 
 
-**[5118.14s] English:** которое не предполагает существование потопа в умах людей.  
+**[5118.14s] English:** Which does not presuppose the existence of a flood in people's minds.  
 **Translation:** 
 
-**[5122.02s] English:** Но я верю, что история Месопотамии обязана своим началом катастрофическому потопу,  
-**Translation:** 
+**[5122.02s] English:** But I believe that the history of Mesopotamia owes its beginning to a catastrophic flood.  
+**Translation:** Vocabulary: catastrophic: 灾难性的; presuppose: 假定
 
-**[5127.88s] English:** но ничему глобальному, ничего, что затронуло бы Америку, или Китай, или Бирмингем.  
+**[5127.88s] English:** But nothing global, nothing that would affect America, China, or Birmingham.  
 **Translation:** 
 
-**[5133.74s] English:** Так что я тут не могу согласиться.  
-**Translation:** 
+**[5133.74s] English:** So, I can't agree here.  
+**Translation:** Vocabulary: birmingham: 英国伯明翰
 
-**[5136.34s] English:** Люди даже бурили Керна, и потом они…  
+**[5136.34s] English:** People even drilled Kern, and then they...  
 **Translation:** 
 
-**[5139.34s] English:** Меня все это не интересует.  
+**[5139.34s] English:** This is not interesting to me.  
 **Translation:** 
 
-**[5141.34s] English:** По-моему, это литературное клише великой мощи, неотразимой, ведь все идентифицируют себя  
+**[5141.34s] English:** According to me, this is a literary cliché of great power, irresistible, for all identify with it.  
 **Translation:** 
 
-**[5150.74s] English:** с идеей, что лежат в постели, как кто-то стучит и говорит «Вставай, нужно построить лодку, такие нужны материалы, и живо, дружок!»  
-**Translation:** 
+**[5150.74s] English:** With the idea that they are lying in bed, as someone is knocking and saying, "Get up, we need to build a boat. Such materials are needed, and hurry up, buddy!  
+**Translation:** Vocabulary: irresistible: 无法抗拒
 
-**[5157.02s] English:** Или мы все утонем.  
+**[5157.02s] English:** Or we will all drown.  
 **Translation:** 
 
-**[5159.02s] English:** Что ты имеешь в виду?  
+**[5159.02s] English:** What do you have in mind?  
 **Translation:** 
 
-**[5160.00s] English:** ты будешь делать? Самая интересная штука — этот Атрахасис в тексте 1700 года не был царем,  
+**[5160.00s] English:** What will you be doing? The most interesting thing is that Atrahasis in the text from 1700 BCE was not a king.  
 **Translation:** 
 
-**[5167.08s] English:** не был моряком или строителем лодок. Так как получилось, что умный бог, что хочет найти кого-то,  
-**Translation:** 
+**[5167.08s] English:** He was neither a sailor nor a boat builder. As it turned out, the wise god wanted to find someone,  
+**Translation:** Vocabulary: atrahasis: 阿特拉哈西斯
 
-**[5175.50s] English:** чтобы... Разве ты не пойдешь искать компанию по строительству лодок? Справочники, мол,  
+**[5175.50s] English:** To find a company for boat construction?Directories, maybe?  
 **Translation:** 
 
-**[5180.30s] English:** у меня к вам предложение. Нет. Он должен был сказать ему, вот чертеж, форма, что потребуется,  
-**Translation:** 
+**[5180.30s] English:** Here is the transcript with natural English punctuation and capitalization: Keep the suggestion? No. He should have told him: here are the blueprint, shape, what will be needed.  
+**Translation:** Vocabulary: blueprint: 设计图纸; transcript: 录音文本
 
-**[5186.34s] English:** что нужно измерить. Очень интересная штука. Да, отличная история, что ты идешь не к великому  
+**[5186.34s] English:** What needs to be measured. Very interesting. Yes, a great story that you are not going to the great.  
 **Translation:** 
 
-**[5193.92s] English:** строителю лодок, а... К таксисту. К таксисту, да, и перед тобой путь героя. Модель великих мифов,  
+**[5193.92s] English:** Builder of boats, ah... To the taxi driver. To the taxi driver, yes, and before you lies the path of a hero. A model of great myths,  
 **Translation:** 
 
-**[5202.90s] English:** да? Да, это великий миф. Но вообще очень круто, что вы сделали реплику. Ковчега? Ковчега,  
+**[5202.90s] English:** Da? Yes, this is a great myth. But it's really cool that you made a replica of the Ark.  
 **Translation:** 
 
-**[5210.66s] English:** в меньшем масштабе. Ух, что было. Три парня, которые его сделали,  
-**Translation:** 
+**[5210.66s] English:** In a smaller scale. Oh, what it was. Three guys who did it,  
+**Translation:** Vocabulary: replica: 缩小的复制品
 
-**[5216.34s] English:** это специалисты по реконструкции средневековых арабских лодок. Их часто находят в грязи или по  
+**[5216.34s] English:** These are specialists in the reconstruction of medieval Arab ships. They are often found in mud or sediment.  
 **Translation:** 
 
-**[5224.80s] English:** частям, или есть информация, и они их реконструируют. В общем, они разбираются. Мы построили ковчег  
-**Translation:** 
+**[5224.80s] English:** Parts of it, or there is information, and they reconstruct them. In general, they figure it out. We built the ark.  
+**Translation:** Vocabulary: medieval: 中世纪的
 
-**[5231.36s] English:** в небольшой лагуне, в Кирале. Получилось невероятно, ведь они использовали инструкции из таблички,  
+**[5231.36s] English:** In a small lagoon in Kerala, it turned out incredibly well, as they followed the instructions on the signboard.  
 **Translation:** 
 
-**[5238.58s] English:** хотя ковчег был в три раза меньше оригинала, но все равно довольно большой. У него были деревянные  
-**Translation:** 
+**[5238.58s] English:** Although the ark was three times smaller than the original, it was still quite large. It had wooden  
+**Translation:** Vocabulary: kerala: Kerala; lagoon: 咸淡水交汇水域; signboard: 标示牌
 
-**[5246.18s] English:** ребра. И пришлось сделать такие же. Они просчитали на компьютере максимальный размер, при котором  
+**[5246.18s] English:** Ribs. And we had to make them the same way. They calculated on the computer the maximum size at which  
 **Translation:** 
 
-**[5253.34s] English:** все будет работать. Больше ковчег было бы сделать невозможно, потому что помимо изогнутых ребер и  
+**[5253.34s] English:** All will work. There would be no point in making another ark, because beyond the curved beams and  
 **Translation:** 
 
-**[5260.62s] English:** оплетки, ковчег нужно было покрыть битумом для водонепроницаемости, а он очень тяжелый. В общем,  
+**[5260.62s] English:** Wrapping, the ark needed to be coated with bitumen for water-proofing, but it is very heavy. In general,  
 **Translation:** 
 
-**[5267.20s] English:** они рассчитали размеры и все получилось. Они поставили лодку на роликовые лыжементы и выкатили ее.  
-**Translation:** 
+**[5267.20s] English:** They calculated the sizes and it all worked out. They placed the boat on roller skis and rolled it out.  
+**Translation:** Vocabulary: bitumen: 沥青; roller: 滚轮; wrapping: 包裹
 
-**[5276.18s] English:** Я приехал туда с женой на последние пару дней и участвовал в первом плане.  
+**[5276.18s] English:** I came there with my wife for the last few days and participated in the first plan.  
 **Translation:** 
 
-**[5280.00s] English:** плавание. У них были проблемы с битумом, ведь индийский битум не на высшем уровне,  
+**[5280.00s] English:** Swimming. They had problems with bitumen, since Indian bitumen is not of the highest quality,  
 **Translation:** 
 
-**[5284.72s] English:** и не могли достать иракский, так как это культурная собственность, он канцерогенный. Они бы не  
+**[5284.72s] English:** And they couldn't obtain Iraqi, as it is cultural property, and it's carcinogenic. They would not  
 **Translation:** 
 
-**[5291.04s] English:** экспортировали бы танкер иракского битума. Оставался индийский. Но дело в том, что битум,  
-**Translation:** 
+**[5291.04s] English:** Exported would be a tanker of Iraqi bitumen. The Indian one remained. But the issue is that bitumen,  
+**Translation:** Vocabulary: carcinogenic: 致癌的; exported: 出口; tanker: 油轮
 
-**[5296.64s] English:** которым они ее покрыли, был нормальный, но не идеальный, так что когда лодку спустили на воду,  
+**[5296.64s] English:** Which they covered her with was normal but not ideal, so when the boat was lowered into the water,  
 **Translation:** 
 
-**[5302.56s] English:** случилась небольшая течь, и воду приходилось вычерпывать. И началось. А вот видите? А я говорю  
-**Translation:** 
+**[5302.56s] English:** A small leak occurred, and we had to keep draining the water. And that's when it started. Look? And I said,  
+**Translation:** Vocabulary: draining: 排水; lowered: 放低
 
-**[5309.04s] English:** продюсеру. Слушай сюда, дружок, ты когда-нибудь видел, чтобы в гребаной лодке воды на дне не было?  
+**[5309.04s] English:** Producer. Listen here, buddy, have you ever seen a damn boat with water only on top?  
 **Translation:** 
 
-**[5314.48s] English:** Соберись! А, это фича, а не бак. Именно, это фича, именно так и предполагалось. Аутентично.  
-**Translation:** 
+**[5314.48s] English:** Sobers up! Ah, this is a feature, not a bug. Exactly, this was intended. Authentic.  
+**Translation:** Vocabulary: authentic: 真正的; sobers: 提神的
 
-**[5323.24s] English:** Абсолютно верно. Какое получилось приключение. Даже сняли документальный фильм. На разных языках.  
+**[5323.24s] English:** Absolutely correct. What an adventure. Even a documentary film was made, in different languages.  
 **Translation:** 
 
-**[5332.28s] English:** И знаешь, что они сделали? У меня экранного времени немного, и люди говорили, я не думаю,  
+**[5332.28s] English:** Do you know what they did? I have a little screen time left, and people were saying, I don't think,  
 **Translation:** 
 
-**[5337.28s] English:** что это было так или это.  
+**[5337.28s] English:** What was it, or is it.  
 **Translation:** 
 
-**[5339.04s] English:** Мне не дали сказать, черт, о чем ты? Я это сделал. Я так клинопись читать умею. А ты?  
-**Translation:** 
+**[5339.04s] English:** Me neither, damn, about what you said? I can read cuneiform. Can you?  
+**Translation:** Vocabulary: cuneiform: 楔形文字
 
-**[5344.66s] English:** Мне не дали прокомментировать. Я был раздосадован. Прямо в ярости.  
+**[5344.66s] English:** I was not allowed to comment, and I was thoroughly annoyed.  
 **Translation:** 
 
-**[5350.20s] English:** Так ты говоришь, что в фильме есть неточности.  
-**Translation:** 
+**[5350.20s] English:** So you're saying that there are inaccuracies in the movie.  
+**Translation:** Vocabulary: inaccuracies: 不准确之处; thoroughly: 非常
 
-**[5353.44s] English:** Так и есть. В нем были неточности. Тот и в Ираке сказал, о, этого не могло быть. Было много связанных каракулов.  
+**[5353.44s] English:** So it is true. There were inaccuracies. Even in Iraq, he said, oh, this could not have happened. There were many related discrepancies.  
 **Translation:** 
 
-**[5360.72s] English:** Хрена с два! Он вообще клинопись не умеет читать. Это ужасно, ужасно раздражает.  
-**Translation:** 
+**[5360.72s] English:** Hreya s dvya! He doesn't even know how to read cuneiform. That's awful, it really irritates me.  
+**Translation:** Vocabulary: discrepancies: 不一致; irritates: 使生气
 
-**[5366.82s] English:** Если вы устраиваете фехтовальный пульт,  
+**[5366.82s] English:** If you are setting up a fencing foil,  
 **Translation:** 
 
-**[5369.04s] English:** то у обоих должна быть рапира, разве нет?  
-**Translation:** 
+**[5369.04s] English:** So, both should have a rapier, right?  
+**Translation:** Vocabulary: rapier: 剑
 
-**[5372.14s] English:** И ты был первым. Человек, который расшифровал табличку.  
+**[5372.14s] English:** And you were the first. The person who deciphered the tablet.  
 **Translation:** 
 
-**[5375.98s] English:** Я умею читать. Но дело в том, что пропорции материала были точны. Это важнейший пункт.  
-**Translation:** 
+**[5375.98s] English:** I can read. But the thing is, the proportions of the material were accurate. This is the most important point.  
+**Translation:** Vocabulary: deciphered: 破译; proportions: 比例
 
-**[5386.94s] English:** Они прикинули, как делать настоящий каракул, в который обычно помещаются два человека.  
+**[5386.94s] English:** They figured out how to make a real karakul, which is usually large enough to fit two people.  
 **Translation:** 
 
-**[5392.96s] English:** Несколько овец и козы.  
-**Translation:** 
+**[5392.96s] English:** Several sheep and goats.  
+**Translation:** Vocabulary: karakul: 卡尔库羊皮
 
-**[5394.30s] English:** А-а-а.  
+**[5394.30s] English:** A-a-a.  
 **Translation:** 
 
-**[5396.28s] English:** И умножили, чтобы влезли все.  
+**[5396.28s] English:** And they multiplied, so that all might fit in.  
 **Translation:** 
 
-**[5399.04s] English:** «Я умею читать»  
+**[5399.04s] English:** I can read.  
 **Translation:** 
 
-**[5400.00s] English:** И я знаю, почему так.  
+**[5400.00s] English:** I know why it is like that.  
 **Translation:** 
 
-**[5402.86s] English:** Вернемся к твоему вопросу о преданиях, передающихся из уст в уста.  
+**[5402.86s] English:** Let's return to your question about oral traditions passed from one generation to another.  
 **Translation:** 
 
-**[5406.64s] English:** Потому что были времена, когда люди приходили в деревни и рассказывали им о потопе.  
+**[5406.64s] English:** Because there were times when people came to villages and told them about the flood.  
 **Translation:** 
 
-**[5413.66s] English:** И когда доходили до места про лодку, они говорили что-то типа,  
+**[5413.66s] English:** When they reached the place where the boat was, they said something like,  
 **Translation:** 
 
-**[5418.34s] English:** «Энки сказал, ты должен построить самый большой каракл, который ты видел!»  
+**[5418.34s] English:** Enki said, 'You should build the biggest karakl you've ever seen!  
 **Translation:** 
 
-**[5422.86s] English:** Примерно так.  
+**[5422.86s] English:** Approximately like that.  
 **Translation:** 
 
-**[5424.16s] English:** Конечно, если ты скажешь такое в кинотеатре в Гилфорде, люди скажут, ну, нормально.  
+**[5424.16s] English:** Of course, if you say something like that in a cinema in Guilford, people will just say, "Oh, okay.  
 **Translation:** 
 
-**[5429.16s] English:** А когда рассказываешь историю морякам, которые используют и строят караклы,  
+**[5429.16s] English:** When you tell a story to sailors who use and build carracks,  
 **Translation:** 
 
-**[5434.28s] English:** их просто так не проведешь.  
-**Translation:** 
+**[5434.28s] English:** They simply won't fall for that.  
+**Translation:** Vocabulary: carracks: 大帆船
 
-**[5436.28s] English:** Они скажут, «Ну и насколько он был большой?»  
+**[5436.28s] English:** They'll ask, "Well, how big was he?  
 **Translation:** 
 
-**[5439.54s] English:** И что они сделали? Они пошли на верфь, посчитали материал, высчитали пропорции и умножили.  
-**Translation:** 
+**[5439.54s] English:** What did they do? They went to the shipyard, calculated the material, figured out the proportions, and multiplied.  
+**Translation:** Vocabulary: multiplied: 乘法; shipyard: 造船厂
 
-**[5446.94s] English:** Первые несколько раз актер носил с собой шпаргалку,  
+**[5446.94s] English:** The first few times, the actor carried a cheat sheet with him.  
 **Translation:** 
 
-**[5450.48s] English:** а через какое-то время уже знал историю наизусть.  
+**[5450.48s] English:** After a while, he already knew the history by heart.  
 **Translation:** 
 
-**[5454.88s] English:** И никто на них не злился, не говорил, «Ты думаешь, что мы в это поверим?  
+**[5454.88s] English:** No one was angry with them, or said, "You think we'll believe that?  
 **Translation:** 
 
-**[5459.16s] English:** Он говорил, он собрал все материалы и потом сделал вот так, и вот так, и люди были загипнотизированы рассказом».  
-**Translation:** 
+**[5459.16s] English:** He said he gathered all the materials and then did it this way, and that way, and people were hypnotized by the story.  
+**Translation:** Vocabulary: hypnotized: 被催眠
 
-**[5467.88s] English:** Снова вернусь к твоему вопросу.  
+**[5467.88s] English:** Again, I will return to your question.  
 **Translation:** 
 
-**[5470.24s] English:** Я думаю, что это было прямо на границе между чисто устной литературой и письменной.  
+**[5470.24s] English:** I think this was right on the border between purely oral literature and written literature.  
 **Translation:** 
 
-**[5478.76s] English:** Это так, потому что видно, что рассказ родился в среде, когда люди еще просто разговаривали.  
+**[5478.76s] English:** This is so because it's clear that the story emerged in a time when people simply talked to each other.  
 **Translation:** 
 
-**[5486.30s] English:** Нужны были подробности, чтобы достучаться.  
+**[5486.30s] English:** Details were needed to get through.  
 **Translation:** 
 
-**[5489.16s] English:** Да, их водить за нос не получилось бы.  
+**[5489.16s] English:** Yes, they wouldn't have been able to keep them fooled.  
 **Translation:** 
 
-**[5492.10s] English:** Вот бы нынешние голливудские фильмы проходили такой же строгий контроль.  
+**[5492.10s] English:** It would be nice if Hollywood movies were subject to such a strict control these days.  
 **Translation:** 
 
-**[5497.26s] English:** Строгости в мире вообще не хватает.  
+**[5497.26s] English:** Strictness in the world, generally, is lacking.  
 **Translation:** 
 
-**[5500.20s] English:** Кстати, забыл спросить, почему миф о потопе был про шумных людей?  
+**[5500.20s] English:** By the way, I forgot to ask why the flood myth was about noisy people?  
 **Translation:** 
 
-**[5505.78s] English:** Дело вообще было не в шуме.  
+**[5505.78s] English:** The matter was actually not about the noise.  
 **Translation:** 
 
-**[5507.64s] English:** Я скажу тебе, как это объясняется.  
+**[5507.64s] English:** I will tell you how this is explained.  
 **Translation:** 
 
-**[5511.46s] English:** До потопа боги не создавали смерть.  
+**[5511.46s] English:** Before the flood, gods did not create death.  
 **Translation:** 
 
-**[5519.16s] English:** Ум был отражен.  
+**[5519.16s] English:** The mind was reflected.  
 **Translation:** 
 
-**[5520.00s] English:** возражением того, что стало слишком много животных и слишком много людей,  
+**[5520.00s] English:** An objection was raised that there were too many animals and too many people.  
 **Translation:** 
 
-**[5526.02s] English:** и нужно было что-то с этим сделать.  
+**[5526.02s] English:** And something needed to be done about it.  
 **Translation:** 
 
-**[5528.50s] English:** Это своего рода эфемизм, потому что после потопа в конце таблички,  
+**[5528.50s] English:** This is somewhat of an euphemism, because after the flood at the end of the tablet,  
 **Translation:** 
 
-**[5534.34s] English:** не моей таблички, других, сломанных табличек,  
-**Translation:** 
+**[5534.34s] English:** Not my sign, but broken signs,  
+**Translation:** Vocabulary: euphemism: 委婉说法
 
-**[5537.64s] English:** написано, что они создают бесплодных женщин,  
+**[5537.64s] English:** Written that they create barren women,  
 **Translation:** 
 
-**[5542.48s] English:** которые не могут иметь детей,  
-**Translation:** 
+**[5542.48s] English:** Which cannot have children,  
+**Translation:** Vocabulary: barren: 不能生育的; cannot: 不能
 
-**[5544.40s] English:** и мужчин, которые не могут иметь детей,  
+**[5544.40s] English:** And men who cannot have children,  
 **Translation:** 
 
-**[5546.58s] English:** и принцесс, которые не рожают детей.  
+**[5546.58s] English:** And princesses who do not bear children.  
 **Translation:** 
 
-**[5549.34s] English:** В обществе учреждают фигуры, которые не будут воспроизводиться.  
+**[5549.34s] English:** In society, figures are established that will not be reproduced.  
 **Translation:** 
 
-**[5555.86s] English:** Это на самом деле довольно изощренная мальтузианская и философская позиция.  
-**Translation:** 
+**[5555.86s] English:** This is, in fact, a rather ingenious Malthusian and philosophical position.  
+**Translation:** Vocabulary: ingenious: 巧妙的; malthusian: 马尔萨斯的; philosophical: 哲学性的; reproduced: 复制
 
-**[5561.50s] English:** Удивительно.  
+**[5561.50s] English:** Remarkably.  
 **Translation:** 
 
-**[5562.56s] English:** Шум значит, что людей просто очень много,  
-**Translation:** 
+**[5562.56s] English:** Noise means that there are simply a lot of people.  
+**Translation:** Vocabulary: remarkably: 非常地
 
-**[5565.90s] English:** а не что они просто такие шумные, что боги сами себя не слышат.  
+**[5565.90s] English:** It's not that they are just so noisy that the gods don't hear themselves.  
 **Translation:** 
 
-**[5570.52s] English:** Ты должен рассказать мне о мире древних игр.  
+**[5570.52s] English:** You should tell me about the world of ancient games.  
 **Translation:** 
 
-**[5575.30s] English:** Может быть, начнем с древней царской игры Ура?  
+**[5575.30s] English:** May be, let's start with the ancient royal game Ura?  
 **Translation:** 
 
-**[5579.00s] English:** Что это?  
+**[5579.00s] English:** What is this?  
 **Translation:** 
 
-**[5579.34s] English:** Что это такое, и как ты смог разгадать ее правила?  
+**[5579.34s] English:** What is this, and how did you manage to decipher its rules?  
 **Translation:** 
 
-**[5585.38s] English:** Царская игра Ура — это доска из 20 квадратов в довольно идиосинкразической форме.  
-**Translation:** 
+**[5585.38s] English:** Ura, a royal game, is played on a board consisting of 20 rather idiosyncratic squares.  
+**Translation:** Vocabulary: decipher: 破解; idiosyncratic: 特异的
 
-**[5594.34s] English:** Она была практически неизвестна до 1920-х годов,  
+**[5594.34s] English:** She was virtually unknown until the 1920s.  
 **Translation:** 
 
-**[5599.34s] English:** когда сэр Леонард Вулли проводил раскопки в Уре в могилах королевской семьи шумерских правителей.  
-**Translation:** 
+**[5599.34s] English:** When Sir Leonard Woolley conducted excavations at Ur in the graves of the royal family of Sumerian rulers.  
+**Translation:** Vocabulary: excavations: 挖掘; virtually: 实际上; woolley: 伍利
 
-**[5607.34s] English:** Они нашли четыре или пять досок,  
+**[5607.34s] English:** They found four or five boards,  
 **Translation:** 
 
-**[5609.00s] English:** с таким узором,  
+**[5609.00s] English:** With this pattern,  
 **Translation:** 
 
-**[5611.00s] English:** вместе с костями и фигурами,  
+**[5611.00s] English:** Together with bones and figures,  
 **Translation:** 
 
-**[5614.00s] English:** что говорит о том,  
+**[5614.00s] English:** What it says about that,  
 **Translation:** 
 
-**[5616.00s] English:** что игра была популярна в то время,  
+**[5616.00s] English:** That the game was popular at the time,  
 **Translation:** 
 
-**[5618.00s] English:** и что куда бы они не отправились в мире грядущем, они хотели бы в нее играть.  
-**Translation:** 
+**[5618.00s] English:** And whatever they might venture into in the world to come, they would want to play in it.  
+**Translation:** Vocabulary: venture: 尝试
 
-**[5624.00s] English:** Так что это первое.  
+**[5624.00s] English:** So, this is the first thing.  
 **Translation:** 
 
-**[5626.00s] English:** Плюс у нас было количество фигур и несколько костей.  
+**[5626.00s] English:** Plus, we had a number of figures and several bones.  
 **Translation:** 
 
-**[5630.00s] English:** Многие люди делали предположения о правилах, и мы долго это обсуждали, а потом доски.  
+**[5630.00s] English:** Many people made assumptions about the rules, and we discussed this for a long time before getting to the boards.  
 **Translation:** 
 
-**[5638.00s] English:** Для этой игры обоснованы разные варианты.  
-**Translation:** 
+**[5638.00s] English:** For this game, there are different variants that are justified.  
+**Translation:** Vocabulary: assumptions: 假设
 
-**[5640.00s] English:** Субтитры сделали по всей стране.  
+**[5640.00s] English:** Subtitles were made throughout the country.  
 **Translation:** 
 
-**[5640.00s] English:** обнаружились в большинстве стран Ближнего Востока, иногда в больших количествах.  
-**Translation:** 
+**[5640.00s] English:** Detected in most countries of the Middle East, sometimes in large quantities.  
+**Translation:** Vocabulary: detected: 发现; subtitles: 字幕
 
-**[5647.36s] English:** Доскаура датируется примерно 2600 годом до н.э.  
+**[5647.36s] English:** Dosauro is dated to approximately 2600 B.C.  
 **Translation:** 
 
-**[5653.64s] English:** И с тех пор до конца первого тысячелетия были доски самой Месопотамии.  
-**Translation:** 
+**[5653.64s] English:** And since then, until the end of the first millennium, there were tablets from Mesopotamia.  
+**Translation:** Vocabulary: mesopotamia: 美索不达米亚; millennium: 千年
 
-**[5661.08s] English:** Из Египта, Сирии, Ливана, Йордании, Турции, Греции, Крита, повсюду.  
+**[5661.08s] English:** From Egypt, Syria, Lebanon, Jordan, Turkey, Greece, and Crete, everywhere.  
 **Translation:** 
 
-**[5672.04s] English:** Когда видишь все эти доски, ты понимаешь, что имеешь дело с настольной игрой,  
-**Translation:** 
+**[5672.04s] English:** When you see all these boards, you understand that you are dealing with a tabletop game.  
+**Translation:** Vocabulary: crete: 克里特岛; lebanon: 黎巴嫩; syria: 叙利亚; tabletop: 桌面
 
-**[5679.06s] English:** которая была чрезвычайно распространенной и чрезвычайно популярной.  
+**[5679.06s] English:** Which was extremely popular and widely spread.  
 **Translation:** 
 
-**[5685.06s] English:** И прошла через...  
+**[5685.06s] English:** Do not proceed through...  
 **Translation:** 
 
-**[5686.52s] English:** Через пространство и время.  
+**[5686.52s] English:** Through space and time.  
 **Translation:** 
 
-**[5688.08s] English:** Она просуществовала почти 3000 лет.  
+**[5688.08s] English:** She existed for nearly 3,000 years.  
 **Translation:** 
 
-**[5691.08s] English:** И в нее играли повсюду.  
+**[5691.08s] English:** And they played everywhere.  
 **Translation:** 
 
-**[5693.70s] English:** Так что это одна из тех игр, как шахматы или нарды,  
-**Translation:** 
+**[5693.70s] English:** So this is one of those games like chess or backgammon.  
+**Translation:** Vocabulary: backgammon: 双陆棋
 
-**[5699.88s] English:** которую можно назвать «Завоевавший мир».  
+**[5699.88s] English:** Which can be called "Conquering the World".  
 **Translation:** 
 
-**[5703.88s] English:** Потому что я так себе это представляю,  
-**Translation:** 
+**[5703.88s] English:** Because I can't really imagine it.  
+**Translation:** Vocabulary: conquering: 征服
 
-**[5709.98s] English:** что люди на протяжении очень долгого времени жаждали найти себе какое-то занятие.  
+**[5709.98s] English:** What people have longed for over a very long time is some kind of occupation.  
 **Translation:** 
 
-**[5719.98s] English:** Потому что...  
+**[5719.98s] English:** Because...  
 **Translation:** 
 
-**[5720.44s] English:** На протяжении...  
+**[5720.44s] English:** During...  
 **Translation:** 
 
-**[5721.08s] English:** На протяжении всего Бронзового века и Железного века, телевидения не было.  
+**[5721.08s] English:** During the entire Bronze Age and Iron Age, there was no television.  
 **Translation:** 
 
-**[5726.08s] English:** Ничего не было.  
+**[5726.08s] English:** Nothing was there.  
 **Translation:** 
 
-**[5728.08s] English:** Дети играли с игрушками на веревочке.  
+**[5728.08s] English:** Children played with toys on a rope.  
 **Translation:** 
 
-**[5732.08s] English:** А у взрослых были настольные игры.  
+**[5732.08s] English:** Adults had table games as well.  
 **Translation:** 
 
-**[5734.08s] English:** И они с ранних времен стали встраиваться в культуру.  
-**Translation:** 
+**[5734.08s] English:** And they have been embedded in culture from early times.  
+**Translation:** Vocabulary: embedded: 根深蒂固的
 
-**[5739.08s] English:** Эта игра была настолько распространена,  
+**[5739.08s] English:** This game was so widely spread,  
 **Translation:** 
 
-**[5742.08s] English:** что даже у Тутанхамона в гробнице нашли две или три доски с фигурами.  
+**[5742.08s] English:** That even in Tutankhamun's tomb, they found two or three boards with figures.  
 **Translation:** 
 
-**[5748.08s] English:** Игра появилась в Египте в середине второго века.  
+**[5748.08s] English:** The game appeared in Egypt in the middle of the second century.  
 **Translation:** 
 
-**[5750.08s] English:** Игра появилась в Египте в середине второго века.  
+**[5750.08s] English:** The game appeared in Egypt in the middle of the second century.  
 **Translation:** 
 
-**[5750.78s] English:** Игра появилась в Египте в середине второго века.  
+**[5750.78s] English:** The game appeared in Egypt in the middle of the second century.  
 **Translation:** 
 
-**[5751.78s] English:** И даже фараон в неё играл.  
-**Translation:** 
+**[5751.78s] English:** And even the pharaoh played in it.  
+**Translation:** Vocabulary: pharaoh: 法老
 
-**[5753.78s] English:** И вот какой есть...  
+**[5753.78s] English:** And here's what there is...  
 **Translation:** 
 
-**[5755.78s] English:** интересный момент...  
+**[5755.78s] English:** An interesting moment....  
 **Translation:** 
 
-**[5757.78s] English:** про эту игру.  
+**[5757.78s] English:** About this game.  
 **Translation:** 
 
-**[5759.78s] English:** Она...  
+**[5759.78s] English:** She...  
 **Translation:** 
 
-**[5761.78s] English:** Она...  
+**[5760.00s] English:** Spread around the world without written rules, and it was obviously unnecessary for people even to have them.  
 **Translation:** 
 
-**[5763.78s] English:** Она...  
+**[5761.78s] English:** She...  
 **Translation:** 
 
-**[5765.78s] English:** Она...  
+**[5763.78s] English:** She...  
 **Translation:** 
 
-**[5767.78s] English:** Она...  
+**[5765.78s] English:** She...  
 **Translation:** 
 
-**[5769.78s] English:** Она...  
+**[5767.78s] English:** She...  
 **Translation:** 
 
-**[5771.78s] English:** Она...  
-**Translation:** 
+**[5768.46s] English:** The trader from India or anywhere else would find himself in some  
+**Translation:** Vocabulary: trader: 商人
 
-**[5773.78s] English:** Она...  
+**[5769.78s] English:** She...  
 **Translation:** 
 
-**[5775.78s] English:** Она...  
+**[5771.78s] English:** She...  
 **Translation:** 
 
-**[5777.78s] English:** Она...  
+**[5773.78s] English:** She...  
 **Translation:** 
 
-**[5760.00s] English:** распространилась по всему миру без записанных правил и людям очевидно даже не нужно было  
+**[5775.78s] English:** She...  
 **Translation:** 
 
-**[5768.46s] English:** говорить на одном языке торговец из индии или откуда угодно оказывался в каком-нибудь  
+**[5777.62s] English:** I've never seen how people play, but I tried it myself and it seemed to please him; he would come home and try.  
 **Translation:** 
 
-**[5777.62s] English:** баре видел как люди играют пробовал сам ему нравилось он возвращался домой и пытался  
+**[5777.78s] English:** She...  
 **Translation:** 
 
-**[5785.60s] English:** вспомнить как выглядела игра и как в нее играть и так ты видишь что у доски 20 квадратов есть блок  
+**[5785.60s] English:** Recall how the game looked and how to play it, and you'll see that there are 20 squares on the board with a block.  
 **Translation:** 
 
-**[5794.48s] English:** 4 на 3 потом мостик из 2 и 2 блок 3 на 2 трудно описать реальную форму после примерно двух тысяч  
+**[5794.48s] English:** 4 on 3, then a bridge from 2 and 2 blocks. It's hard to describe the actual shape after about two thousand.  
 **Translation:** 
 
-**[5806.84s] English:** лет до нашей эры квадраты в дальнем конце где два на одном фланге и два на другом переместили  
+**[5806.84s] English:** Before our era, in the squares at the far end where two were on one flank and two on the other, they moved.  
 **Translation:** 
 
-**[5815.48s] English:** в конец центральной аллее получается 12 квадратов по центру у всех досок после периода ура 12  
-**Translation:** 
+**[5815.48s] English:** At the end of the central alley, it results in 12 squares in the center of all boards after the period of "ura," 12.  
+**Translation:** Vocabulary: alley: 小巷; flank: 侧翼
 
-**[5825.36s] English:** квадратов по центру и по четыре с каждой стороны на конце то есть когда ты играешь в игру у тебя  
+**[5825.36s] English:** Squares in the center and four on each side at the end; that is, when you play the game, you have  
 **Translation:** 
 
-**[5831.38s] English:** есть кости чтобы двигать фигуры и все фигуры одинаковы ты ставишь фигуры в первый угол  
+**[5831.38s] English:** There are bones to move the figures, and all the figures are the same. You place the figures in the first corner.  
 **Translation:** 
 
-**[5838.28s] English:** заворачиваешь за угол и идешь вверх по лестнице и до конца это типа гонки такой тип игр все знают  
+**[5838.28s] English:** You turn around the corner and go up the stairs. And at the end, it's kind of like a race, this type of game. Everyone knows.  
 **Translation:** 
 
-**[5845.48s] English:** в детстве некоторые квадраты на которых были розетки были либо безопасными либо давали еще  
-**Translation:** 
+**[5845.48s] English:** In childhood, some square outlets were either safe or provided additional features.  
+**Translation:** Vocabulary: outlets: 插座
 
-**[5851.18s] English:** бросок может можно было поставить две фигуры на один квадрат блокировать оппонентом ходы в любом  
+**[5851.18s] English:** A throw could have placed two figures on one square, blocking the opponent's moves in any direction.  
 **Translation:** 
 
-**[5857.60s] English:** случае главный аспект игры это то что широкое распространение этой идиосинкратической формы  
-**Translation:** 
+**[5857.60s] English:** In the case of this game, the main aspect is that widespread adoption of this idiosyncratic form...  
+**Translation:** Vocabulary: adoption: 采纳; idiosyncratic: 特异的
 
-**[5864.36s] English:** это что она так долго просуществовала показывают что это была очень хорошая игра и люди плюс-минус  
+**[5864.36s] English:** This shows that it was a very good game and people plus or minus.  
 **Translation:** 
 
-**[5872.26s] English:** одинаково играли повсюду может это было  
+**[5872.26s] English:** One equally played everywhere, may it have been.  
 **Translation:** 
 
-**[5875.48s] English:** совсем разные игры но скорее всего нет заставляет задуматься  
+**[5875.48s] English:** Completely different games, but most likely there isn't one that makes you think.  
 **Translation:** 
 
-**[5880.00s] English:** Что в ней было такого, что так хорошо подошло  
+**[5880.00s] English:** What was in her that it suited so well?  
 **Translation:** 
 
-**[5883.20s] English:** к широкому кругу интересов разных людей, разных типов людей?  
+**[5883.20s] English:** To a wide range of different people's interests, different types of people?  
 **Translation:** 
 
-**[5888.74s] English:** Суть в том, что хоть это и гонка, где ты во власти костей  
+**[5888.74s] English:** The essence is that although this is a race where you are at the mercy of the bones.  
 **Translation:** 
 
-**[5894.78s] English:** и счастливых и несчастливых квадратов,  
+**[5894.78s] English:** And happy and unhappy squares,  
 **Translation:** 
 
-**[5899.22s] English:** процесс входа и выхода фигур на и из доски —  
-**Translation:** 
+**[5899.22s] English:** The process of entering and exiting pieces on and from the board —  
+**Translation:** Vocabulary: exiting: 离开
 
-**[5904.08s] English:** это прежде всего случайность.  
+**[5904.08s] English:** This is primarily just a matter of chance.  
 **Translation:** 
 
-**[5907.14s] English:** Но, насколько я понимаю, в игру уже заложена некая  
+**[5907.14s] English:** But, as I understand it, there is already some sort of  
 **Translation:** 
 
-**[5912.88s] English:** измеримая доля стратегии.  
+**[5912.88s] English:** A measurable portion of the strategy.  
 **Translation:** 
 
-**[5917.10s] English:** То есть смесь вероятностей и стратегии?  
-**Translation:** 
+**[5917.10s] English:** So, a mix of probabilities and strategy?  
+**Translation:** Vocabulary: measurable: 可衡量的; probabilities: 概率
 
-**[5919.76s] English:** Да.  
+**[5919.76s] English:** Yes.  
 **Translation:** 
 
-**[5921.02s] English:** Большинство игр — игры на удачу, типа «Змеи и лестницы»  
-**Translation:** 
+**[5921.02s] English:** Most games are luck-based, like Snakes and Ladders.  
+**Translation:** Vocabulary: ladders: 阶梯
 
-**[5925.02s] English:** или «Жёлоба и лестницы».  
+**[5925.02s] English:** Or "Chutes and Ladders".  
 **Translation:** 
 
-**[5928.02s] English:** Есть такие игры, как шахматы, где чистая стратегия.  
+**[5928.02s] English:** There are such games as chess where pure strategy is involved.  
 **Translation:** 
 
-**[5931.60s] English:** А тут смесь.  
+**[5931.60s] English:** Here is a mix.  
 **Translation:** 
 
-**[5932.32s] English:** В современном мире хорошо сбалансированная игра для взрослых,  
+**[5932.32s] English:** In modern times, a well-balanced game for adults,  
 **Translation:** 
 
-**[5936.84s] English:** где заменены...  
+**[5936.84s] English:** Where have they been replaced...  
 **Translation:** 
 
-**[5937.14s] English:** Смешанная удача и стратегия — это нарды.  
-**Translation:** 
+**[5937.14s] English:** Mixed luck and strategy are backgammon.  
+**Translation:** Vocabulary: backgammon: 背投棋
 
-**[5940.38s] English:** Это своего рода взрослая версия такого типа игры.  
+**[5940.38s] English:** This is a sort of grown-up version of this type of game.  
 **Translation:** 
 
-**[5944.00s] English:** Тем не менее, если ты играешь согласно самой рациональной интерпретации,  
-**Translation:** 
+**[5944.00s] English:** Nevertheless, if you play according to the most rational interpretation,  
+**Translation:** Vocabulary: interpretation: 解释
 
-**[5949.04s] English:** стратегия тут главный фактор.  
+**[5949.04s] English:** Strategy here is the main factor.  
 **Translation:** 
 
-**[5951.10s] English:** Было так.  
+**[5951.10s] English:** It was like that.  
 **Translation:** 
 
-**[5952.64s] English:** У многих было представление о правилах игры Ура, и у меня тоже.  
+**[5952.64s] English:** In many cases, people had an idea about the rules of the game Ur, and I did too.  
 **Translation:** 
 
-**[5956.62s] English:** А потом я обнаружил в Британском музее табличку,  
+**[5956.62s] English:** Then I discovered a tablet at the British Museum,  
 **Translation:** 
 
-**[5960.08s] English:** которая была написана в очень поздний период, во II веке до н.э.  
+**[5960.08s] English:** Which was written in a very late period, in the 2nd century BCE.  
 **Translation:** 
 
-**[5964.58s] English:** Игра.  
+**[5964.58s] English:** Game.  
 **Translation:** 
 
-**[5965.58s] English:** Через 2300 лет после того, как этот объект появился,  
+**[5965.58s] English:** Through 2300 years after this object appeared,  
 **Translation:** 
 
-**[5971.18s] English:** и на ней были названия фигур,  
+**[5971.18s] English:** And on it were the names of the figures,  
 **Translation:** 
 
-**[5973.66s] English:** их описание, подробности о бросках,  
+**[5973.66s] English:** Their description, details about the throws,  
 **Translation:** 
 
-**[5977.18s] English:** было очевидно, что эти правила имели отношение к игре,  
+**[5977.18s] English:** It was obvious that these rules applied to the game.  
 **Translation:** 
 
-**[5982.28s] English:** которая произошла от той простой, ранней версии.  
+**[5982.28s] English:** Which evolved from that simple, early version.  
 **Translation:** 
 
-**[5986.36s] English:** Идя в обратном направлении,  
-**Translation:** 
+**[5986.36s] English:** Going in the opposite direction,  
+**Translation:** Vocabulary: evolved: 发展出来
 
-**[5988.54s] English:** можно было реконструировать правила игры в соответствии с её более поздним воплощением.  
+**[5988.54s] English:** It was possible to reconstruct the rules of the game according to its later incarnation.  
 **Translation:** 
 
-**[5994.58s] English:** И чёрт возьми, оказалось, что всё это работает,  
-**Translation:** 
+**[5994.58s] English:** Oh dear, it turned out that all of this works.  
+**Translation:** Vocabulary: incarnation: 化身; reconstruct: 重建
 
-**[5996.94s] English:** потому что люди теперь играют в неё по всему миру.  
+**[5996.94s] English:** Because people now play it all over the world.  
 **Translation:** 
 
-**[6000.00s] English:** Люди играют даже в кафешках в Ираке.  
+**[6000.00s] English:** People play even in cafes in Iraq.  
 **Translation:** 
 
-**[6003.80s] English:** Стоп, сейчас?  
+**[6003.80s] English:** Stop, now?  
 **Translation:** 
 
-**[6004.84s] English:** Да.  
+**[6004.84s] English:** Yes.  
 **Translation:** 
 
-**[6005.46s] English:** Ого.  
+**[6005.46s] English:** Oh.  
 **Translation:** 
 
-**[6006.56s] English:** Как правило, попали в интернет, стали играть.  
+**[6006.56s] English:** Typically, once they got online, they started playing.  
 **Translation:** 
 
-**[6010.18s] English:** Потрясающе.  
+**[6010.18s] English:** Potentially amazing, but I'll keep it: POTRAZIUJESKO. Given the instruction to use natural English punctuation and capitalization while keeping the same meaning without translating, and considering "Потрясающе" is Russian for "Amazing," the improved sentence would be: Amazing.  
 **Translation:** 
 
-**[6011.08s] English:** Те, что я изобрел, довольно простые.  
-**Translation:** 
+**[6011.08s] English:** Those that I invented are quite simple.  
+**Translation:** Vocabulary: capitalization: 大写; translating: 翻译
 
-**[6013.94s] English:** Между шансом и стратегией хороший баланс.  
+**[6013.94s] English:** Between chance and strategy, a good balance is essential.  
 **Translation:** 
 
-**[6017.94s] English:** Это честная игра, и она не занимает 4 дня, как современные настольные игры.  
-**Translation:** 
+**[6017.94s] English:** This is a fair game, and it doesn't take 4 days like modern tabletop games.  
+**Translation:** Vocabulary: tabletop: 桌面游戏
 
-**[6023.70s] English:** Можно сыграть, и если повезет и быстро выиграешь, можешь попытать удачу еще раз.  
+**[6023.70s] English:** Can you play, and if you're lucky and win quickly, you can try your luck again.  
 **Translation:** 
 
-**[6028.30s] English:** Или играть на две победы из трех.  
+**[6028.30s] English:** Or play for two wins out of three.  
 **Translation:** 
 
-**[6030.98s] English:** Довольно весело получается.  
+**[6030.98s] English:** It's fairly amusing.  
 **Translation:** 
 
-**[6033.06s] English:** Однажды я был в Калифорнии, в Гетти, и мне нужно было дать лекцию об игре, поделиться всей информацией.  
-**Translation:** 
+**[6033.06s] English:** One day, I was in California at Getty and I needed to give a lecture on gaming, sharing all the information.  
+**Translation:** Vocabulary: california: 加利福尼亚; getty: 盖蒂
 
-**[6040.76s] English:** Я много что хотел рассказать.  
+**[6040.76s] English:** I have a lot to tell.  
 **Translation:** 
 
-**[6043.54s] English:** Там была дама, которая управляла друзьями Гетти, и у нее родилась блестящая идея.  
+**[6043.54s] English:** There was a lady who managed Getty's friends, and she came up with a brilliant idea.  
 **Translation:** 
 
-**[6049.18s] English:** Она принесла 20 коммерческих копий этой игры.  
+**[6049.18s] English:** She brought 20 commercial copies of this game.  
 **Translation:** 
 
-**[6052.72s] English:** У них были маленькие столы со стульями.  
+**[6052.72s] English:** They had small tables with chairs.  
 **Translation:** 
 
-**[6056.18s] English:** И после лекции я должен был сказать,  
+**[6056.18s] English:** After the lecture, I had to say,  
 **Translation:** 
 
-**[6058.30s] English:** «Правила такие, садитесь. Их можно усвоить за три минуты».  
+**[6058.30s] English:** Rules are simple, sit down. They can be learned in three minutes.  
 **Translation:** 
 
-**[6063.16s] English:** Я сказал сначала, «Делайте вот так, потом вот так, вперед».  
+**[6063.16s] English:** I said at first, "Do it this way, then that way, forward.  
 **Translation:** 
 
-**[6067.60s] English:** Сначала была тишина.  
+**[6067.60s] English:** First there was silence.  
 **Translation:** 
 
-**[6069.80s] English:** А через какое-то время кто-то выкрикнул,  
+**[6069.80s] English:** After a while, someone shouted out,  
 **Translation:** 
 
-**[6072.44s] English:** «Я тебя ненавижу! Я с тобой больше играть не буду!»  
+**[6072.44s] English:** I hate you! I won't play with you anymore!  
 **Translation:** 
 
-**[6076.10s] English:** Они никогда раньше в нее не играли.  
+**[6076.10s] English:** They never played in her before.  
 **Translation:** 
 
-**[6078.34s] English:** И кто-то в последний момент все прибрал к рукам,  
+**[6078.34s] English:** And someone cleaned up all the mess at the last moment,  
 **Translation:** 
 
-**[6081.26s] English:** когда оппонент уже потирал ручки.  
+**[6081.26s] English:** When the opponent was already rubbing his hands.  
 **Translation:** 
 
-**[6083.48s] English:** И, ур, провоцирует.  
-**Translation:** 
+**[6083.48s] English:** And, oh, it provokes.  
+**Translation:** Vocabulary: opponent: 对手; provokes: 激怒; rubbing: 搓手
 
-**[6086.02s] English:** Тут целительную, благожелательную,  
+**[6086.02s] English:** Here, healing, benevolent,  
 **Translation:** 
 
-**[6088.30s] English:** ярость и гнев в игроках,  
-**Translation:** 
+**[6088.30s] English:** Fury and rage in the players,  
+**Translation:** Vocabulary: benevolent: 仁慈的
 
-**[6090.18s] English:** как делают все хорошие настольные игры.  
+**[6090.18s] English:** How do all good tabletop games get made.  
 **Translation:** 
 
-**[6093.50s] English:** А это были счастливы женатые пары,  
+**[6093.50s] English:** This were happy married couples,  
 **Translation:** 
 
-**[6095.30s] English:** которые к концу дня звонили юристам,  
+**[6095.30s] English:** Which ones called lawyers by the end of the day,  
 **Translation:** 
 
-**[6097.62s] English:** чтобы обсудить будущее их брака.  
+**[6097.62s] English:** To discuss the future of their marriage.  
 **Translation:** 
 
-**[6100.42s] English:** Прекрасно.  
+**[6100.42s] English:** Perfectly.  
 **Translation:** 
 
-**[6101.48s] English:** Думаешь, игры,  
+**[6101.48s] English:** Do you think games,  
 **Translation:** 
 
-**[6104.24s] English:** наше желание играть в игры,  
+**[6104.24s] English:** Our desire to play games,  
 **Translation:** 
 
-**[6107.74s] English:** смесь случайностей, смесь стратегий,  
-**Translation:** 
+**[6107.74s] English:** A mix of coincidences, a mix of strategies,  
+**Translation:** Vocabulary: coincidences: 巧合
 
-**[6110.10s] English:** это часть человеческой природы,  
+**[6110.10s] English:** This is part of human nature,  
 **Translation:** 
 
-**[6111.90s] English:** всегда было там?  
+**[6111.90s] English:** Was it always there?  
 **Translation:** 
 
-**[6113.02s] English:** Да.  
+**[6113.02s] English:** Yes.  
 **Translation:** 
 
-**[6114.44s] English:** Думаю, да.  
+**[6114.44s] English:** I think, yes.  
 **Translation:** 
 
-**[6116.28s] English:** Можно сказать,  
+**[6116.28s] English:** Can be said,  
 **Translation:** 
 
-**[6119.18s] English:** что в сообществе  
+**[6119.18s] English:** What in the community  
 **Translation:** 
 
-**[6120.08s] English:** линейных игроков  
+**[6120.00s] English:** There exists competition, hostility, who is the best, who is the fastest, who is the strongest.  
 **Translation:** 
 
-**[6121.16s] English:** без статистических графов  
-**Translation:** 
+**[6120.08s] English:** Linear players  
+**Translation:** Vocabulary: hostility: 敌对; linear: 线性
 
-**[6147.06s] English:** уже много,  
+**[6121.16s] English:** Without statistical graphs  
 **Translation:** 
 
-**[6120.00s] English:** Существах есть соперничество, враждебность, кто лучший, кто быстрейший, кто сильнейший.  
-**Translation:** 
+**[6127.18s] English:** If you play such a tabletop game, all reality is sublimated into a safe territory.  
+**Translation:** Vocabulary: graphs: 图表; tabletop: 桌面
 
-**[6127.18s] English:** А если ты играешь такую настольную игру, вся реальность сублимирована в безопасной территории.  
+**[6133.60s] English:** You, of course, can be angry, but nonetheless, this is, first of all.  
 **Translation:** 
 
-**[6133.60s] English:** Ты, конечно, можешь злиться, но все же это, во-первых.  
+**[6137.92s] English:** Secondly, and what is even more important, I believe that this is about what Indians call "time spent.  
 **Translation:** 
 
-**[6137.92s] English:** Во-вторых, что даже важнее, я верю, что это вопрос того, что в Индии люди называют «время препровождения».  
+**[6147.06s] English:** Already much.  
 **Translation:** 
 
-**[6147.92s] English:** Это не то же самое, что прошедшее время.  
+**[6147.92s] English:** This is not the same as the past tense.  
 **Translation:** 
 
-**[6151.58s] English:** Время пропровождения — это то, что ты делаешь, когда слишком жарко что-то делать.  
+**[6151.58s] English:** Time spent is what you do when it's too hot to do anything.  
 **Translation:** 
 
-**[6157.00s] English:** А это же большая часть дня и большая часть года.  
+**[6157.00s] English:** This is indeed a large part of the day and a large part of the year.  
 **Translation:** 
 
-**[6161.12s] English:** Бабульки сидят под деревьями с внуками, рассказывают истории, чем-то занимаются.  
+**[6161.12s] English:** Grandmothers sit under the trees with their grandchildren, telling stories and doing something together.  
 **Translation:** 
 
-**[6167.00s] English:** Время пропровождения — это полезная всеобъемлющая фраза, объясняющая существование настольных игр.  
-**Translation:** 
+**[6167.00s] English:** Time spent is a useful overarching phrase explaining the existence of tabletop games.  
+**Translation:** Vocabulary: overarching: 总体的
 
-**[6174.32s] English:** В Индии много настольных игр.  
+**[6174.32s] English:** In India, there are many tabletop games.  
 **Translation:** 
 
-**[6176.38s] English:** Шахматы, конечно, знаменитые, но есть довольно много игр, типа «Три в ряд» или «Лисы против гусей» и «Волки против овец» и тому подобное.  
-**Translation:** 
+**[6176.38s] English:** Chess, of course, is famous, but there are quite a few other games like Tic-Tac-Toe or Foxes and Geese, Wolves and Sheep, and the like.  
+**Translation:** Vocabulary: geese: 鹅; wolves: 狼
 
-**[6187.80s] English:** Небольшие игры, в которые играли ради удовольствия.  
+**[6187.80s] English:** Small games played for enjoyment.  
 **Translation:** 
 
-**[6192.46s] English:** В каком-то смысле, не имеет значения, кто выигрывает, потому что игра идет по кругу, в конце концов, кто-то выигрывает, и игра начинается заново.  
+**[6192.46s] English:** In some sense, it doesn't matter who wins, because the game goes in a circle; eventually, someone wins, and the game starts all over again.  
 **Translation:** 
 
-**[6203.38s] English:** Это довольно грациозный.  
+**[6203.38s] English:** This is rather graceful.  
 **Translation:** 
 
-**[6205.86s] English:** Приятно.  
-**Translation:** 
+**[6205.86s] English:** Pleasantly.  
+**Translation:** Vocabulary: graceful: 优雅; pleasantly: 令人愉快地
 
-**[6206.38s] English:** Это невероятный способ тратить время впустую, заниматься чем-то стимулирующим и полезным, и при этом во всех смыслах простым.  
+**[6206.38s] English:** This is an incredible way to waste time, doing something stimulating and beneficial, and at the same time, incredibly simple.  
 **Translation:** 
 
-**[6219.00s] English:** Очень человеческая штука.  
-**Translation:** 
+**[6219.00s] English:** Very human thing.  
+**Translation:** Vocabulary: beneficial: 有益的; stimulating: 激发兴趣的
 
-**[6222.02s] English:** Конечно, мы, люди, склонны повсюду примешивать азартные игры, делать ставки.  
+**[6222.02s] English:** Of course, we humans are prone to adding gambling and making bets everywhere.  
 **Translation:** 
 
-**[6229.32s] English:** Уверен, тут тоже такое было.  
-**Translation:** 
+**[6229.32s] English:** I am confident that there was something similar here too.  
+**Translation:** Vocabulary: gambling: 赌博; prone: 容易
 
-**[6232.40s] English:** Думаю, да, но, вероятно, только позднее, потому что деньги...  
+**[6232.40s] English:** I think, yes, but probably later, because of the money....  
 **Translation:** 
 
-**[6236.38s] English:** Таковые появляются довольно поздно.  
+**[6236.38s] English:** Such appear quite late.  
 **Translation:** 
 
-**[6240.00s] English:** Но есть… вот интересно, у нас есть школьная табличка из Месопотамии с тремя или четверя строчками, процитированными из одного литературного произведения и тремя или четырьмя из другого.  
+**[6240.00s] English:** But there is... interestingly enough, we have a school tablet from Mesopotamia with three or four lines cited from one literary work and three or four from another.  
 **Translation:** 
 
-**[6255.58s] English:** В одном из них есть слова «О, мой астрогал! О, мой астрогал! Горе мне! Горе мне!»  
-**Translation:** 
+**[6255.58s] English:** In one of them are the words, "O, my astragal! O, my astragal! Woe is me! Woe is me!  
+**Translation:** Vocabulary: astragal: 小腿骨; cited: 引用; mesopotamia: 美索不达米亚
 
-**[6268.00s] English:** Это все, что у нас есть. Я думаю, что это пример жанра литературы, называемого «плач игрока».  
+**[6268.00s] English:** This is all we have. I think this is an example of a genre of literature called "player's lament.  
 **Translation:** 
 
-**[6276.34s] English:** Когда использовали таранные кости астрогалы в качестве игральных, я уверен, были люди, которые ставили мешок товара или целую комнату вещей на бросок костей.  
-**Translation:** 
+**[6276.34s] English:** When tarantula bones were used as gaming dice, I am sure there were people who staked a bag of goods or an entire room's worth of possessions on the throw of the bones.  
+**Translation:** Vocabulary: lament: 哀诉; staked: 押注; tarantula: 狼蛛
 
-**[6288.32s] English:** Этот отрывок из школьного текста, вероятно, из литературной таблички, где герой истории все потерял.  
+**[6288.32s] English:** This excerpt from a school text, likely from a literary chart, where the hero of the story has lost everything.  
 **Translation:** 
 
-**[6297.52s] English:** Хотя монета…  
-**Translation:** 
+**[6297.52s] English:** Although the coin...  
+**Translation:** Vocabulary: excerpt: 节选
 
-**[6298.00s] English:** Это тогда даже не было.  
+**[6298.00s] English:** This then was not even.  
 **Translation:** 
 
-**[6299.48s] English:** Думаю, ты прав, что это совершенно естественное поведение.  
+**[6299.48s] English:** I think you're right that this is completely natural behavior.  
 **Translation:** 
 
-**[6305.94s] English:** Может быть, мужчины и женщины играли по-разному, потому что есть игры, которые игрались в гаремах среди девушек, в жаркий день, где никто ничего не собирался выигрывать.  
+**[6305.94s] English:** Maybe men and women played differently because there were games played among girls in the harem on a hot day, where nobody was planning to win anything.  
 **Translation:** 
 
-**[6318.76s] English:** А табличка с правилами, которая дает нам косвенную информацию, сформулирована таким образом, что подразумевает,  
-**Translation:** 
+**[6318.76s] English:** A sign with rules, which gives us indirect information, is formulated in such a way that it implies,  
+**Translation:** Vocabulary: harem: 后宫; implies: 暗示
 
-**[6327.00s] English:** что люди играют в баре, потому что движение фигура рассчитывается в терминах еды, питья и женщин, что ты выигрываешь.  
+**[6327.00s] English:** What people play in the bar is because the movement of the figure is calculated in terms of food, drink, and women, that you win.  
 **Translation:** 
 
-**[6340.86s] English:** Получается, что правила игры были сформулированы именно в таком ключе.  
+**[6340.86s] English:** It turns out that the rules were formulated in exactly this key.  
 **Translation:** 
 
-**[6349.02s] English:** Ты уже говорил, что трудишься куратором в, возможно, величайшем месте на Земле, Британском музее.  
+**[6349.02s] English:** You have already mentioned that you work as a curator in what might be the greatest place on Earth, the British Museum.  
 **Translation:** 
 
-**[6357.14s] English:** О, да.  
-**Translation:** 
+**[6357.14s] English:** Oh, yes.  
+**Translation:** Vocabulary: curator: 博物馆馆长
 
-**[6358.60s] English:** Можешь рассказать о нем?  
+**[6358.60s] English:** Can you tell me about him?  
 **Translation:** 
 
-**[6360.00s] English:** невероятных, магических аспектах Британского музея.  
+**[6360.00s] English:** In the incredible, magical aspects of the British Museum.  
 **Translation:** 
 
-**[6364.22s] English:** Ну, Британский музей – это волшебное место.  
+**[6364.22s] English:** Nu, the British Museum is a magical place.  
 **Translation:** 
 
-**[6368.22s] English:** И особый случай, потому что сейчас много суматохи и споров о том,  
-**Translation:** 
+**[6368.22s] English:** Here is the improved sentence with natural English punctuation and capitalization: Keep in mind that this is a special case because there is currently a lot of chaos and debates about it.  
+**Translation:** Vocabulary: capitalization: 大写规则
 
-**[6375.56s] English:** что такое музеи, для чего и почему они существуют,  
+**[6375.56s] English:** What are museums, for what purpose and why do they exist?  
 **Translation:** 
 
-**[6378.46s] English:** должны ли они вообще существовать и прочее.  
+**[6378.46s] English:** Should they even exist, and other matters.  
 **Translation:** 
 
-**[6381.30s] English:** Люди о многом говорят.  
+**[6381.30s] English:** People talk about many things.  
 **Translation:** 
 
-**[6383.20s] English:** Но Британский музей не похож почти на все музеи в мире,  
+**[6383.20s] English:** But the British Museum is unlike almost any other museum in the world.  
 **Translation:** 
 
-**[6386.52s] English:** потому что в нем хранятся достижения человечества с самого его начала.  
+**[6386.52s] English:** Because it contains the achievements of humanity from its very beginning.  
 **Translation:** 
 
-**[6394.12s] English:** Это своего рода празднование искусства.  
+**[6394.12s] English:** This is a celebration of art.  
 **Translation:** 
 
-**[6396.60s] English:** И не только.  
+**[6396.60s] English:** And not just.  
 **Translation:** 
 
-**[6397.86s] English:** Все же это не музей искусств.  
+**[6397.86s] English:** All the same, this is not an art museum.  
 **Translation:** 
 
-**[6400.04s] English:** Это музей о борьбе человеческой расы  
+**[6400.04s] English:** This is a museum about the struggle of the human race.  
 **Translation:** 
 
-**[6403.06s] English:** против всего, что на нее покушалось, и о том, как она восторжествовала,  
-**Translation:** 
+**[6403.06s] English:** Against everything that attacked her, and how she triumphed,  
+**Translation:** Vocabulary: triumphed: 取得胜利
 
-**[6407.52s] English:** как чудесна она, и о том, что с нами произошло.  
+**[6407.52s] English:** How wonderful she is, and about what has happened to us.  
 **Translation:** 
 
-**[6410.92s] English:** Мы не закрываем глаза на все ужасы, которые происходили.  
+**[6410.92s] English:** We do not close our eyes to all the horrors that occurred.  
 **Translation:** 
 
-**[6414.84s] English:** Как я это вижу?  
+**[6414.84s] English:** How do I see this?  
 **Translation:** 
 
-**[6416.34s] English:** Это просто повествование о человеческой расе,  
+**[6416.34s] English:** This is simply a narrative about the human race,  
 **Translation:** 
 
-**[6419.32s] English:** описанное в объектах.  
+**[6419.32s] English:** Described in the objects.  
 **Translation:** 
 
-**[6422.32s] English:** Это означает, что мы служим двум очень важным горизонтам.  
-**Translation:** 
+**[6422.32s] English:** This means that we serve two very important horizons.  
+**Translation:** Vocabulary: horizons: 视野
 
-**[6429.20s] English:** Первый, мы насколько это возможно, описываем весь мир  
+**[6429.20s] English:** First, we describe the entire world to the extent that is possible.  
 **Translation:** 
 
-**[6433.46s] English:** без неблагоразумного внимания по отношению к той или иной культуре.  
+**[6433.46s] English:** Without undue attention to any particular culture.  
 **Translation:** 
 
-**[6439.76s] English:** Они все для нас едины.  
+**[6439.76s] English:** They are all one for us.  
 **Translation:** 
 
-**[6442.96s] English:** Мы не отдаем предпочтения.  
+**[6442.96s] English:** We do not show any preference.  
 **Translation:** 
 
-**[6445.94s] English:** Какое дело?  
+**[6445.94s] English:** What's the matter?  
 **Translation:** 
 
-**[6446.20s] English:** Какое дело?  
+**[6446.20s] English:** What's the matter?  
 **Translation:** 
 
-**[6446.26s] English:** Какое дело?  
+**[6446.26s] English:** What's the matter?  
 **Translation:** 
 
-**[6446.34s] English:** Мы не говорим о какой-либо религиозной группе, какой-либо стране и так далее.  
+**[6446.34s] English:** We are not talking about any religious group, country, and so on.  
 **Translation:** 
 
-**[6450.36s] English:** Мы говорим про человека.  
+**[6450.36s] English:** We are talking about a person.  
 **Translation:** 
 
-**[6452.64s] English:** Пытаемся рассказать истории.  
+**[6452.64s] English:** We are trying to tell stories.  
 **Translation:** 
 
-**[6456.06s] English:** То, как они пересекаются с историями новых соседей.  
+**[6456.06s] English:** How they intersect with the stories of the new neighbors.  
 **Translation:** 
 
-**[6460.68s] English:** И что происходит до них.  
-**Translation:** 
+**[6460.68s] English:** What happens to them.  
+**Translation:** Vocabulary: intersect: 交汇
 
-**[6464.62s] English:** Музей инкапсулирует все вышеперечисленные аспекты.  
+**[6464.62s] English:** The museum encapsulates all of the aforementioned aspects.  
 **Translation:** 
 
-**[6469.58s] English:** И, конечно, мы собираем все, что можем,  
-**Translation:** 
+**[6469.58s] English:** And of course, we collect everything that we can.  
+**Translation:** Vocabulary: encapsulates: 概括
 
-**[6473.08s] English:** чтобы эти истории рассказывать,  
+**[6473.08s] English:** To tell these stories,  
 **Translation:** 
 
-**[6475.72s] English:** и хранить их согласно научным мыслям.  
+**[6475.72s] English:** And store them according to scientific thoughts.  
 **Translation:** 
 
-**[6479.98s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6479.98s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.02s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.00s] English:** Principles. So all of this is the British Museum's task. The second horizon on which he serves,  
 **Translation:** 
 
-**[6480.04s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.02s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.10s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.04s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.18s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.10s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.24s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.18s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.28s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.24s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.30s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.28s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.34s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.30s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.38s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.34s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.44s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.38s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.50s] English:** И, конечно, мы собираем все, что мы можем.  
+**[6480.44s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6480.00s] English:** принципам. Так что все это задача Британского музея. Второй горизонт, по которому он служит,  
+**[6480.50s] English:** And, of course, we collect everything we can.  
 **Translation:** 
 
-**[6489.34s] English:** это еще нерожденные дети. Младенцы, которым еще предстоит родиться, и их дети, и их дети,  
-**Translation:** 
+**[6489.34s] English:** These are yet unborn children — infants who have yet to be born, and their children, and their children.  
+**Translation:** Vocabulary: infants: 未出生的婴儿
 
-**[6497.94s] English:** и их дети. Мне кажется, что задачи музея имеют огромное культурное значение,  
+**[6497.94s] English:** And their children. I believe that the tasks of the museum have enormous cultural significance.  
 **Translation:** 
 
-**[6503.76s] English:** так сказать, священную валидность. И он не должен мириться с тем, что люди придираются к чему-то,  
-**Translation:** 
+**[6503.76s] English:** Such is the sacred validity. And he should not tolerate people nitpicking about something.  
+**Translation:** Vocabulary: nitpicking: 吹毛求疵; tolerate: 容忍; validity: 有效性
 
-**[6512.28s] English:** или говорят, музеи греховны и порочны, и их нужно снести. Потому что люди, которые так говорят,  
+**[6512.28s] English:** Or they say that museums are sinful and corrupt, and their existence should be abolished. Because people who say this,  
 **Translation:** 
 
-**[6520.12s] English:** на самом деле не имеют ни малейшего представления о его деятельности. Это своего рода маяк во  
-**Translation:** 
+**[6520.12s] English:** In fact, they have no idea about its activities. This is somewhat of a beacon in  
+**Translation:** Vocabulary: abolished: 废除; beacon: 灯塔; corrupt: 腐败; sinful: 罪恶
 
-**[6526.36s] English:** вселенной, в которой мы окружены тьмой, невежеством, глупостью, и мы не можем  
+**[6526.36s] English:** In the universe, where we are surrounded by darkness, ignorance, and stupidity, and we cannot  
 **Translation:** 
 
-**[6533.76s] English:** быть глупостью, незаинтересованностью, безразличием, скептицизмом и невежеством в контексте  
-**Translation:** 
+**[6533.76s] English:** To be stupidity, indifference, apathy, skepticism, and ignorance in context,  
+**Translation:** Vocabulary: apathy: 冷漠; ignorance: 无知; indifference: 漠不关心; skepticism: 怀疑; stupidity: 愚蠢
 
-**[6541.86s] English:** вопросов, которые нас интересуют. Это одно из таких мест, где можно говорить об истине,  
+**[6541.86s] English:** Questions that interest us. This is one of those places where we can speak about truth.  
 **Translation:** 
 
-**[6550.18s] English:** красоте, элегантности и интеллекте, не рискуя оскорбить людей, у которых нет ни одного из этих  
-**Translation:** 
+**[6550.18s] English:** Beauty, elegance, and intelligence, without risking to offend people who lack any one of these.  
+**Translation:** Vocabulary: elegance: 优雅; offend: 冒犯; risking: 冒险
 
-**[6557.64s] English:** качеств, и не боясь сказать то, от чего люди содрогнутся или сочтут себя наивным. Это,  
+**[6557.64s] English:** This, and not fearing to say what will shock people or make them feel naive.  
 **Translation:** 
 
-**[6563.76s] English:** конечно, важнейший аспект. Что касается религии, мы не предпочитаем одну религию другой,  
+**[6563.76s] English:** Of course, an important aspect. As for religion, we do not prefer one religion over another.  
 **Translation:** 
 
-**[6570.00s] English:** и не спонсируем их. Мы пытаемся смотреть на них такими, какие они есть, оценивать их отношения,  
+**[6570.00s] English:** And we do not sponsor them. We try to look at them as they are and evaluate their relationships.  
 **Translation:** 
 
-**[6578.66s] English:** и что они предлагают. Возможно, с меньшей язвительностью и критикой, чем если бы я был  
-**Translation:** 
+**[6578.66s] English:** And what they offer. Perhaps with less satire and criticism than if I were  
+**Translation:** Vocabulary: evaluate: 评估; satire: 讽刺; sponsor: 赞助
 
-**[6586.16s] English:** директором. Я бы рассмотрел их под микроскопом, взглянул на них такими, какие они есть,  
+**[6586.16s] English:** Director. I would examine them under a microscope, looking at them as they truly are.  
 **Translation:** 
 
-**[6591.08s] English:** что они сделали, что было сделано.  
-**Translation:** 
+**[6591.08s] English:** What they did, was done.  
+**Translation:** Vocabulary: microscope: 显微镜
 
-**[6593.76s] English:** Сейчас, скорее, такое провернуть не получилось бы, но может однажды получится.  
+**[6593.76s] English:** Now, it's much less likely to pull off, but maybe someday it will.  
 **Translation:** 
 
-**[6600.00s] English:** Ведь религия внесла важный вклад в то, что произошло с человеческой расой.  
+**[6600.00s] English:** Because religion has made a significant contribution to what happened to the human race.  
 **Translation:** 
 
-**[6604.90s] English:** И никто ни разу не смог четко сформулировать, что именно религия с нами сделала, и где бы мы без нее были.  
+**[6604.90s] English:** And nobody has ever been able to clearly formulate what religion has done to us, and where we would be without it.  
 **Translation:** 
 
-**[6612.52s] English:** Ведь отсутствие религии не означает отсутствие закона или морали, или чувствительности, внимания, или любви, чего угодно.  
-**Translation:** 
+**[6612.52s] English:** Ведь absence of religion does not mean the absence of law or morality, or sensitivity, attention, or love, whatever it may be.  
+**Translation:** Vocabulary: morality: 伦理
 
-**[6622.36s] English:** Ничто из этого не зависит от религии.  
+**[6622.36s] English:** None of this depends on religion.  
 **Translation:** 
 
-**[6625.84s] English:** А это как раз то, что важно.  
+**[6625.84s] English:** This is exactly what's important.  
 **Translation:** 
 
-**[6628.08s] English:** Люди говорят, конечно, ты говоришь, что Британский музей — особенное место.  
+**[6628.08s] English:** People say, of course, that the British Museum is a special place.  
 **Translation:** 
 
-**[6633.74s] English:** Ты ведь работаешь там куратором.  
-**Translation:** 
+**[6633.74s] English:** You work there as a curator, don't you?  
+**Translation:** Vocabulary: curator: 博物馆管理员
 
-**[6637.02s] English:** Но это не связанные вещи.  
+**[6637.02s] English:** But these are not related things.  
 **Translation:** 
 
-**[6638.44s] English:** Музей и правда — особенное место, потому что нет в мире других музеев с такой же целью.  
+**[6638.44s] English:** Museum and truly is a special place because there are no other museums with such a goal in the world.  
 **Translation:** 
 
-**[6646.80s] English:** Например, Лувр — это по сути музей искусств, по большей части.  
+**[6646.80s] English:** For example, the Louvre is essentially a museum of art, mostly.  
 **Translation:** 
 
-**[6650.90s] English:** Это музей искусства, а не музей идей.  
-**Translation:** 
+**[6650.90s] English:** This is a museum of art, not a museum of ideas.  
+**Translation:** Vocabulary: louvre: 卢浮宫
 
-**[6655.00s] English:** Мед точно музей искусства.  
+**[6655.00s] English:** Museums are definitely art museums.  
 **Translation:** 
 
-**[6657.48s] English:** Он буквально...  
+**[6657.48s] English:** He literally...  
 **Translation:** 
 
-**[6658.08s] English:** Мед буквально называется музей искусства, и это их приоритет.  
+**[6658.08s] English:** Mead is literally called a museum of art, and this is their priority.  
 **Translation:** 
 
-**[6661.00s] English:** Дизайн, цвет, форма.  
+**[6661.00s] English:** Design, color, shape.  
 **Translation:** 
 
-**[6663.32s] English:** Британский музей — иной.  
+**[6663.32s] English:** The British Museum — it's different.  
 **Translation:** 
 
-**[6665.40s] English:** И это всего лишь один из факторов.  
+**[6665.40s] English:** And this is just one of the factors.  
 **Translation:** 
 
-**[6668.38s] English:** Мы не музей искусства, не местечковый музей, не музей истории велосипеда, не музей, восхваляющий зло.  
+**[6668.38s] English:** We are not an art museum, not a local museum, not a bicycle history museum, not a museum glorifying evil.  
 **Translation:** 
 
-**[6677.64s] English:** Я как все вижу, мы делаем все, что можем на случай, если, например, куча марсиан сядет в большом дворе.  
-**Translation:** 
+**[6677.64s] English:** I see everything, we do all we can in case, for example, a bunch of Martians sit in the big courtyard.  
+**Translation:** Vocabulary: courtyard: 庭院; glorifying: 美化; martians: 火星人
 
-**[6688.08s] English:** Ворвется через парадную дверь, и скажет нам — расскажите нам все об этом месте, расскажите о мире, но быстро, нам нужно улетать.  
+**[6688.08s] English:** It will burst through the main door and tell us: "Tell us everything about this place, tell us about the world, but quickly, we need to leave.  
 **Translation:** 
 
-**[6699.92s] English:** Их можно было бы провести по музею, показать экспонаты, и у них появилось бы понимание общей, небезумной картины.  
-**Translation:** 
+**[6699.92s] English:** They could be taken through the museum, showing them the exhibits, and they would gain an understanding of the overall, nonsensical picture.  
+**Translation:** Vocabulary: exhibits: 展品; nonsensical: 不合逻辑的
 
-**[6707.30s] English:** Единственное, чего у нас нет — это запись Джонни Бигут, Чака Берри, но ее вроде планируют отправить в космос.  
+**[6707.30s] English:** The only thing we don't have is a recording of Johnny Bigutt and Chuck Berry, but it seems they plan to send that into space.  
 **Translation:** 
 
-**[6715.10s] English:** Я слышал.  
-**Translation:** 
+**[6715.10s] English:** I heard.  
+**Translation:** Vocabulary: chuck: 投掷; johnny: 约翰尼
 
-**[6716.70s] English:** Это, конечно, радует.  
+**[6716.70s] English:** This, of course, is reassuring.  
 **Translation:** 
 
-**[6718.08s] English:** Так задача музея — сделать это.  
-**Translation:** 
+**[6718.08s] English:** The task of the museum is to do this.  
+**Translation:** Vocabulary: reassuring: 令人安心的
 
-**[6720.00s] English:** Человекоподобное, но в контексте человеческой истории.  
+**[6720.00s] English:** Human-like, but in the context of human history.  
 **Translation:** 
 
-**[6722.90s] English:** Да.  
+**[6722.90s] English:** Yes.  
 **Translation:** 
 
-**[6723.44s] English:** Это хранилище артефактов, такие капли дождя, из которых можно реконструировать водопады.  
+**[6723.44s] English:** This is a storage of artifacts such as these raindrops from which waterfalls can be reconstructed.  
 **Translation:** 
 
-**[6729.74s] English:** Именно так. И несправедливо критиковать нас, мол, большая часть артефактов не выставлена.  
-**Translation:** 
+**[6729.74s] English:** Exactly so. It is unfair to criticize us for not displaying most of the artifacts.  
+**Translation:** Vocabulary: artifacts: 文物; raindrops: 雨滴; reconstructed: 重建; waterfalls: 瀑布
 
-**[6737.36s] English:** Все говорят, этот артефакт должен быть тут, этот там, а вы их не выставили.  
+**[6737.36s] English:** All are saying that this artifact should be here, and that one should be there, but you haven't displayed them.  
 **Translation:** 
 
-**[6743.64s] English:** Мы собираем предметы культуры для будущих исследований.  
-**Translation:** 
+**[6743.64s] English:** We collect cultural items for future research.  
+**Translation:** Vocabulary: artifact: 文物
 
-**[6748.38s] English:** Такую перспективу никто не рассматривает.  
+**[6748.38s] English:** Such a perspective is not considered.  
 **Translation:** 
 
-**[6753.16s] English:** Дело в том, что когда у тебя оказывается что-то современное,  
+**[6753.16s] English:** The thing is, when you have something modern,  
 **Translation:** 
 
-**[6757.86s] English:** если ты умный журналист или мыслитель,  
+**[6757.86s] English:** If you are a smart journalist or thinker,  
 **Translation:** 
 
-**[6760.68s] English:** ты можешь написать эссе, можешь говорить, увидеть,  
-**Translation:** 
+**[6760.68s] English:** You can write an essay, you can speak, see,  
+**Translation:** Vocabulary: thinker: 思考者
 
-**[6763.46s] English:** но ты смотришь на объект только с той перспективы, с которой работаешь.  
+**[6763.46s] English:** But you look at the object only from the perspective of your work.  
 **Translation:** 
 
-**[6768.62s] English:** А с течением времени значимость объектов,  
+**[6768.62s] English:** As time went on, the significance of the objects,  
 **Translation:** 
 
-**[6771.48s] English:** то, что они представляют, что они означали, и что они могут означать в будущем, меняется.  
+**[6771.48s] English:** That which they represent, what they meant, and what they may mean in the future, changes.  
 **Translation:** 
 
-**[6777.08s] English:** Чем дальше назад ты идешь...  
+**[6777.08s] English:** The further back you go,...  
 **Translation:** 
 
-**[6778.38s] English:** тем острее ты все воспринимаешь, особенно с позиции прецедента и современных параллелей.  
+**[6778.38s] English:** The more acute your perception is, especially in terms of precedent and contemporary parallels.  
 **Translation:** 
 
-**[6786.62s] English:** Так что польза расстояния, сохранения и созерцания неоценима.  
-**Translation:** 
+**[6786.62s] English:** So the benefit of distance, preservation, and contemplation of the unmeasured is invaluable.  
+**Translation:** Vocabulary: contemplation: 深思; invaluable: 无价的; perception: 洞察力; precedent: 先例; unmeasured: 未衡量
 
-**[6793.86s] English:** Я очень много вопросов хочу задать.  
+**[6793.86s] English:** I have many questions I want to ask.  
 **Translation:** 
 
-**[6796.90s] English:** Как ты думаешь,  
+**[6796.90s] English:** How do you think?  
 **Translation:** 
 
-**[6800.34s] English:** какую мудрость несли люди, от которых пришли эти артефакты,  
+**[6800.34s] English:** What wisdom did the people who created these artifacts pass on?  
 **Translation:** 
 
-**[6803.80s] English:** которую мы, современные люди, возможно, потеряли,  
+**[6803.80s] English:** Which we, modern people, may have lost,  
 **Translation:** 
 
-**[6808.38s] English:** частично или полностью?  
+**[6808.38s] English:** Partially or completely?  
 **Translation:** 
 
-**[6811.52s] English:** Ты вот упоминал, что мы часто воспринимаем древних людей так,  
-**Translation:** 
+**[6811.52s] English:** You mentioned that we often perceive ancient people in a certain way,  
+**Translation:** Vocabulary: perceive: 感知
 
-**[6816.02s] English:** будто они были хуже нас, глупее и более примитивные.  
+**[6816.02s] English:** It was as if they were worse off than us, stupider, and more primitive.  
 **Translation:** 
 
-**[6822.40s] English:** Ты же говоришь, что они, по сути, такие же.  
-**Translation:** 
+**[6822.40s] English:** You say that they are essentially the same.  
+**Translation:** Vocabulary: stupider: 更愚蠢
 
-**[6826.12s] English:** Думаю, посадит их в автобус, в одежде, как у нас, ты бы их не различил.  
+**[6826.12s] English:** I think they will put them in a bus dressed like we are, and you wouldn't be able to tell them apart.  
 **Translation:** 
 
-**[6831.32s] English:** Но есть некая... я уверен, что у них была некая мудрость, как и у нас,  
+**[6831.32s] English:** But there is some kind of... I am sure that they had some kind of wisdom, as we do,  
 **Translation:** 
 
-**[6838.38s] English:** в чем-то ином.  
+**[6838.38s] English:** In something else.  
 **Translation:** 
 
-**[6840.00s] English:** Мы, благодаря Эйнштейну, узнали о кривизне пространства-времени.  
-**Translation:** 
+**[6840.00s] English:** We, thanks to Einstein, learned about the curvature of spacetime.  
+**Translation:** Vocabulary: curvature: 时空曲率; spacetime: 时空
 
-**[6845.18s] English:** Да.  
+**[6845.18s] English:** Yes.  
 **Translation:** 
 
-**[6845.46s] English:** А они не знали.  
+**[6845.46s] English:** They didn't know.  
 **Translation:** 
 
-**[6847.28s] English:** Но...  
+**[6847.28s] English:** But...  
 **Translation:** 
 
-**[6847.72s] English:** Но они довольно много знали об астрономии, к слову.  
-**Translation:** 
+**[6847.72s] English:** But they knew quite a lot about astronomy, by the way.  
+**Translation:** Vocabulary: astronomy: 天文学
 
-**[6851.24s] English:** Они смотрели на звезды.  
+**[6851.24s] English:** They looked at the stars.  
 **Translation:** 
 
-**[6852.78s] English:** Да, и они изменяли их, и делали вычисления.  
+**[6852.78s] English:** Yes, and they changed them and did calculations.  
 **Translation:** 
 
-**[6855.94s] English:** Когда греки пришли в Вавилон, они подумали,  
+**[6855.94s] English:** When the Greeks arrived in Babylon, they thought,  
 **Translation:** 
 
-**[6858.66s] English:** «О, нифига себе, как круто!»  
-**Translation:** 
+**[6858.66s] English:** Oh, wow, how cool!  
+**Translation:** Vocabulary: babylon: 巴比伦
 
-**[6861.14s] English:** Они все записали и пошли домой.  
+**[6861.14s] English:** They all recorded it and went home.  
 **Translation:** 
 
-**[6863.70s] English:** Да, определенно.  
+**[6863.70s] English:** Yes, definitely.  
 **Translation:** 
 
-**[6865.42s] English:** Определенно.  
+**[6865.42s] English:** Definitely.  
 **Translation:** 
 
-**[6866.02s] English:** Вообще, на этот вопрос трудно ответить.  
+**[6866.02s] English:** Generally, it's hard to answer this question.  
 **Translation:** 
 
-**[6870.00s] English:** Но вот какой момент.  
+**[6870.00s] English:** But here's a point.  
 **Translation:** 
 
-**[6871.92s] English:** Им не пришлось иметь дело с тем,  
+**[6871.92s] English:** They didn't have to deal with that.  
 **Translation:** 
 
-**[6875.16s] English:** что затемнило суть человечности.  
+**[6875.16s] English:** What then darkened the essence of humanity.  
 **Translation:** 
 
-**[6879.46s] English:** Современная приверженность электронной Вселенной  
+**[6879.46s] English:** Contemporary devotion to the electronic universe.  
 **Translation:** 
 
-**[6882.58s] English:** катастрофична для людей,  
+**[6882.58s] English:** Catastrophic for people,  
 **Translation:** 
 
-**[6886.42s] English:** потому что она сокращает жизненную силу человеческого компонента.  
-**Translation:** 
+**[6886.42s] English:** Because it reduces the life force of the human component.  
+**Translation:** Vocabulary: catastrophic: 灾难性的
 
-**[6893.14s] English:** Она ограничивает нас таким образом,  
+**[6893.14s] English:** She limits us in this way,  
 **Translation:** 
 
-**[6896.14s] English:** который люди не осознают, пока не станет слишком поздно.  
+**[6896.14s] English:** Which people do not realize until it is too late.  
 **Translation:** 
 
-**[6900.00s] English:** Как наркотики.  
+**[6900.00s] English:** How drugs work.  
 **Translation:** 
 
-**[6901.26s] English:** Если ты принимаешь, ты думаешь, «Я в порядке»,  
+**[6901.26s] English:** If you take it, you think, "I'm okay,  
 **Translation:** 
 
-**[6903.46s] English:** а потом осознаешь, что зависим от героина.  
+**[6903.46s] English:** Then you realize that you are dependent on heroin.  
 **Translation:** 
 
-**[6905.70s] English:** Типа того.  
-**Translation:** 
+**[6905.70s] English:** Type of that.  
+**Translation:** Vocabulary: heroin: 海洛因
 
-**[6906.88s] English:** Люди используют цифровой мир как наркотик,  
+**[6906.88s] English:** People use the digital world as a narcotic,  
 **Translation:** 
 
-**[6909.26s] English:** и они не могут без него обойтись.  
-**Translation:** 
+**[6909.26s] English:** And they cannot do without him.  
+**Translation:** Vocabulary: cannot: 不能; narcotic: 麻醉品
 
-**[6911.98s] English:** Это очень новая штука, но, полагаю, я не лудит,  
+**[6911.98s] English:** This is a very new thing, but, I suppose, I am not cheating.  
 **Translation:** 
 
-**[6916.26s] English:** и не говорю, что нам не нужны двигатели и чайники.  
-**Translation:** 
+**[6916.26s] English:** And I'm not saying that we don't need engines and kettles.  
+**Translation:** Vocabulary: cheating: 作弊; kettles: 水壶
 
-**[6920.44s] English:** Но в древнем мире люди никогда никуда не ходили,  
+**[6920.44s] English:** But in ancient times, people never went anywhere,  
 **Translation:** 
 
-**[6925.64s] English:** если только не были торговцами или солдатами.  
-**Translation:** 
+**[6925.64s] English:** If they were not traders or soldiers.  
+**Translation:** Vocabulary: traders: 商人
 
-**[6930.00s] English:** Они никуда не уходили.  
+**[6930.00s] English:** They had nowhere to go.  
 **Translation:** 
 
-**[6932.66s] English:** Вероятно, люди рождались и умирали в деревне,  
-**Translation:** 
+**[6932.66s] English:** Veritably, people were born and died in the village,  
+**Translation:** Vocabulary: veritably: 确实
 
-**[6934.98s] English:** их дети рождались и умирали в деревне,  
+**[6934.98s] English:** Their children were born and died in the village,  
 **Translation:** 
 
-**[6937.42s] English:** и они ничего не знали о внешнем мире.  
+**[6937.42s] English:** And they knew nothing about the external world.  
 **Translation:** 
 
-**[6939.72s] English:** Или, может, знали, очень мало.  
+**[6939.72s] English:** Or, perhaps, they knew very little.  
 **Translation:** 
 
-**[6941.90s] English:** Новости же доходили.  
+**[6941.90s] English:** News did reach us.  
 **Translation:** 
 
-**[6943.30s] English:** Но в целом у них не было представления о других странах,  
+**[6943.30s] English:** But in general, they had no conception of other countries,  
 **Translation:** 
 
-**[6946.70s] English:** других языках, или о том, насколько они большие.  
-**Translation:** 
+**[6946.70s] English:** In other languages, or how big they are.  
+**Translation:** Vocabulary: conception: 概念
 
-**[6950.36s] English:** Не думаю, что их мудрость можно было бы собрать свод правил,  
+**[6950.36s] English:** I don't think their wisdom could be gathered into a set of rules.  
 **Translation:** 
 
-**[6953.66s] English:** которые сделают жизнь лучше, записать их и распечатать.  
+**[6953.66s] English:** Which ones will make life better, record them and print them out.  
 **Translation:** 
 
-**[6957.16s] English:** Они лгали.  
+**[6957.16s] English:** They lied.  
 **Translation:** 
 
-**[6960.00s] English:** Они ценили истину.  
+**[6960.00s] English:** They valued truth.  
 **Translation:** 
 
-**[6961.78s] English:** Они влюблялись и совершали прелюбодеяния, и они убивали.  
+**[6961.78s] English:** They fell in love and committed adultery, and they killed.  
 **Translation:** 
 
-**[6967.56s] English:** Они много чего делали.  
-**Translation:** 
+**[6967.56s] English:** They did a lot of things.  
+**Translation:** Vocabulary: adultery: 通奸
 
-**[6969.90s] English:** Думаю, в каком-то смысле древний мир позволял людям вести себя более естественно,  
+**[6969.90s] English:** I think in some sense, the ancient world allowed people to behave more naturally,  
 **Translation:** 
 
-**[6977.30s] English:** чем мир, в котором мы живем сейчас.  
+**[6977.30s] English:** What we live in now is a world.  
 **Translation:** 
 
-**[6980.88s] English:** В смысле, если ты живешь в деревенской среде или у моря,  
+**[6980.88s] English:** In other words, if you live in a rural area or by the sea,  
 **Translation:** 
 
-**[6984.90s] English:** если ты рыбак или ты...  
+**[6984.90s] English:** If you are a fisherman or you...  
 **Translation:** 
 
-**[6986.88s] English:** Я про все нормальные реальные штуки, то, вероятно, все в порядке.  
+**[6986.88s] English:** I'm talking about all normal real things, so, probably, everything is okay.  
 **Translation:** 
 
-**[6991.80s] English:** Но большинство людей, которые живут в городах,  
+**[6991.80s] English:** But most people who live in cities,  
 **Translation:** 
 
-**[6994.56s] English:** они живут очень искусственной жизнью,  
+**[6994.56s] English:** They live a very artificial life,  
 **Translation:** 
 
-**[6997.06s] English:** где принципы, которые они считают главными, таковыми не являются.  
+**[6997.06s] English:** Where the principles they consider most important are not actually so.  
 **Translation:** 
 
-**[7002.34s] English:** Все не так.  
+**[7002.34s] English:** All is not as it seems.  
 **Translation:** 
 
-**[7003.42s] English:** Есть один пример.  
+**[7003.42s] English:** There is one example.  
 **Translation:** 
 
-**[7004.30s] English:** Это ужасная штука на мобильных,  
+**[7004.30s] English:** This is an awful thing on mobiles,  
 **Translation:** 
 
-**[7006.32s] English:** когда тебе показывают короткий отрывок из целой программы.  
-**Translation:** 
+**[7006.32s] English:** When you are shown a short excerpt from an entire program.  
+**Translation:** Vocabulary: excerpt: 节选
 
-**[7010.26s] English:** Да, ага.  
+**[7010.26s] English:** Yes, okay.  
 **Translation:** 
 
-**[7010.88s] English:** Это ужасно. Совершенно порочно.  
-**Translation:** 
+**[7010.88s] English:** This is awful. Completely reprehensible.  
+**Translation:** Vocabulary: reprehensible: 可谴责的
 
-**[7014.24s] English:** Дети по всему миру не могут артикулировать, писать.  
+**[7014.24s] English:** Children around the world cannot articulate or write.  
 **Translation:** 
 
-**[7016.88s] English:** Или доносить смысл, используя лучший, самый литературный  
+**[7016.88s] English:** Or convey the meaning using the best, most literary  
 **Translation:** 
 
-**[7021.62s] English:** и самый полезный язык из когда-либо созданных, английский.  
+**[7021.62s] English:** And the most beneficial language ever created is English.  
 **Translation:** 
 
-**[7027.14s] English:** Они используют слово...  
+**[7027.14s] English:** They use the word...  
 **Translation:** 
 
-**[7031.52s] English:** Я дам тебе пример.  
+**[7031.52s] English:** I will give you an example.  
 **Translation:** 
 
-**[7033.40s] English:** Ага.  
+**[7033.40s] English:** Agreed.  
 **Translation:** 
 
-**[7034.26s] English:** Типа, я такой.  
+**[7034.26s] English:** Type of, I'm such.  
 **Translation:** 
 
-**[7036.92s] English:** Так.  
+**[7036.92s] English:** So.  
 **Translation:** 
 
-**[7037.46s] English:** Типа, я такой.  
+**[7037.46s] English:** Type of, I'm such.  
 **Translation:** 
 
-**[7039.24s] English:** Трудно описать грамматически.  
+**[7039.24s] English:** It's difficult to describe grammatically.  
 **Translation:** 
 
-**[7041.64s] English:** Трудно. Типа, надо было такой.  
+**[7041.64s] English:** It's difficult. Kind of like, it should have been that way.  
 **Translation:** 
 
-**[7044.30s] English:** Причем, я такой означает...  
+**[7044.30s] English:** By the way, "я такой" means...  
 **Translation:** 
 
-**[7046.88s] English:** Говорю.  
+**[7046.88s] English:** I say.  
 **Translation:** 
 
-**[7049.14s] English:** Теперь представь, что мы видим слово «такой» на шумерском,  
+**[7049.14s] English:** Now imagine that we see the word "such" in Sumerian,  
 **Translation:** 
 
-**[7053.92s] English:** и оно на самом деле означает «говорю».  
+**[7053.92s] English:** And it really means "I speak.  
 **Translation:** 
 
-**[7057.84s] English:** Что бы тогда было?  
+**[7057.84s] English:** What would then be?  
 **Translation:** 
 
-**[7059.48s] English:** Ну, наверное, стоит уточнить, что даже в то время, вероятно, был сленг, так же?  
+**[7059.48s] English:** Nu, probably it's worth clarifying that even back then, there was likely slangs, wasn't there?  
 **Translation:** 
 
-**[7064.98s] English:** И его не записывали.  
-**Translation:** 
+**[7064.98s] English:** And his name was not recorded.  
+**Translation:** Vocabulary: clarifying: 澄清; slangs: 俚语
 
-**[7066.06s] English:** Были диалекты.  
+**[7066.06s] English:** There were dialects.  
 **Translation:** 
 
-**[7067.36s] English:** Слова, что использовали моряки.  
-**Translation:** 
+**[7067.36s] English:** Words that sailors used.  
+**Translation:** Vocabulary: dialects: 地方方言
 
-**[7068.96s] English:** Это точно было.  
+**[7068.96s] English:** This was definitely it.  
 **Translation:** 
 
-**[7070.46s] English:** Но их не записывали.  
+**[7070.46s] English:** But they were not recorded.  
 **Translation:** 
 
-**[7072.66s] English:** Не, бывало.  
+**[7072.66s] English:** No, it has happened.  
 **Translation:** 
 
-**[7073.44s] English:** Стоит помнить, что в Кембридже и Оксфорде,  
+**[7073.44s] English:** It's worth remembering that in Cambridge and Oxford,  
 **Translation:** 
 
-**[7076.52s] English:** говорят определенным образом, правильно, формально.  
+**[7076.52s] English:** They say it in a certain way, correctly, formally.  
 **Translation:** 
 
-**[7080.00s] English:** Реально, очень умно, но большинство людей в барах, моряки, говорят по-другому.  
+**[7080.00s] English:** Really, very smart, but most people in bars, sailors, talk differently.  
 **Translation:** 
 
-**[7086.72s] English:** Они, вероятно, сказали бы «А я ей такой…» и у них были бы эмодзи.  
+**[7086.72s] English:** They would probably say "And I'm such a...," and they would have emojis.  
 **Translation:** 
 
-**[7093.02s] English:** Но дело в том, что ты должен контролировать свою речь, если говоришь с людьми определенного возраста,  
+**[7093.02s] English:** But the thing is, you should control your speech if you are talking to people of a certain age.  
 **Translation:** 
 
-**[7099.16s] English:** потому что они не знают, о чем ты, черт возьми, говоришь.  
+**[7099.16s] English:** Because they don't know what the hell you're talking about.  
 **Translation:** 
 
-**[7103.66s] English:** Именно в этом сила английского.  
+**[7103.66s] English:** Exactly in this lies the power of English.  
 **Translation:** 
 
-**[7105.18s] English:** То так же, как в работе адвоката, можно собрать совершенно прекрасное дело,  
+**[7105.18s] English:** To be just like in the work of an attorney, one can gather a perfectly wonderful case,  
 **Translation:** 
 
-**[7112.20s] English:** ведь в нем все разложено по полочкам и нет смысла для маневра.  
-**Translation:** 
+**[7112.20s] English:** Because it is all laid out on the shelves, and there is no room for maneuver.  
+**Translation:** Vocabulary: maneuver: 腾挪余地
 
-**[7116.20s] English:** Диалог должен быть таким, без места для маневра.  
+**[7116.20s] English:** The dialogue should be such that there is no room for maneuver.  
 **Translation:** 
 
-**[7120.24s] English:** Тут не вопрос орфографии, а словарного запаса.  
+**[7120.24s] English:** Here it's not a question of spelling, but of vocabulary.  
 **Translation:** 
 
-**[7123.54s] English:** Интересно, что люди говорят, мол, они знают английский, или говорят по-английски.  
+**[7123.54s] English:** Interesting that people say they know English or speak it.  
 **Translation:** 
 
-**[7127.90s] English:** Ты когда-нибудь открывал полноразмерный том оксфордского словаря английского языка?  
+**[7127.90s] English:** Have you ever opened a full-size Oxford English Dictionary tome?  
 **Translation:** 
 
-**[7133.26s] English:** Он вот такой толстый.  
+**[7133.26s] English:** He is such a fatty.  
 **Translation:** 
 
-**[7135.18s] English:** У меня полный набор словарей, обожаю их.  
-**Translation:** 
+**[7135.18s] English:** I have a full set of dictionaries and I love them.  
+**Translation:** Vocabulary: fatty: 胖子
 
-**[7138.50s] English:** Вот берешь ты том с полки, открываешь книгу,  
+**[7138.50s] English:** Here you take a book from the shelf, open it up,  
 **Translation:** 
 
-**[7142.74s] English:** проводишь указательным пальцем по различным столбцам,  
+**[7142.74s] English:** You run your index finger across different columns,  
 **Translation:** 
 
-**[7146.44s] English:** тебе, возможно, придется пролистать несколько страниц,  
+**[7146.44s] English:** You might have to scroll through several pages.  
 **Translation:** 
 
-**[7149.30s] English:** прежде чем ты найдешь хоть одно знакомое слово,  
-**Translation:** 
+**[7149.30s] English:** Before you find even one familiar word,  
+**Translation:** Vocabulary: scroll: 滚动查看
 
-**[7152.56s] English:** потому что английский язык невообразимо богат.  
+**[7152.56s] English:** Because the English language is unimaginably rich.  
 **Translation:** 
 
-**[7156.38s] English:** Я вырос в доме, где все время читали книги.  
-**Translation:** 
+**[7156.38s] English:** I grew up in a house where books were always being read.  
+**Translation:** Vocabulary: unimaginably: 难以想象地
 
-**[7160.36s] English:** У меня было три сестры и брат, и мы все читали литературу.  
+**[7160.36s] English:** I had three sisters and a brother, and we all read literature.  
 **Translation:** 
 
-**[7165.18s] English:** Мы каждую неделю шли в библиотеку и читали много книг.  
+**[7165.18s] English:** We went to the library every week and read many books.  
 **Translation:** 
 
-**[7168.40s] English:** У нас был у всех хороший словарный запас.  
+**[7168.40s] English:** We had a good vocabulary for everyone.  
 **Translation:** 
 
-**[7172.60s] English:** Так он и нарабатывается.  
+**[7172.60s] English:** So it is developed over time.  
 **Translation:** 
 
-**[7175.60s] English:** Иначе не получится, потому что в разговоре «Хочешь еще чаю?»  
+**[7175.60s] English:** Otherwise, it won't work because in the conversation "Want some more tea?  
 **Translation:** 
 
-**[7179.26s] English:** ничего нового ты не узнаешь.  
+**[7179.26s] English:** Nothing new, you won't learn.  
 **Translation:** 
 
-**[7181.56s] English:** Словарный запас растет за счет чтения и слушания правильной речи.  
+**[7181.56s] English:** The vocabulary grows through reading and listening to correct speech.  
 **Translation:** 
 
-**[7186.42s] English:** Словарный запас — очень важный аспект.  
+**[7186.42s] English:** Dictionary skills are a very important aspect.  
 **Translation:** 
 
-**[7189.10s] English:** Важно знать много слов и выражаться ясно, потому что слова определяют качество текста.  
+**[7189.10s] English:** It is important to know many words and express clearly because words define the quality of the text.  
 **Translation:** 
 
-**[7194.50s] English:** Качество твоих мыслей?  
+**[7194.50s] English:** Quality of your thoughts?  
 **Translation:** 
 
-**[7196.26s] English:** Да, по итогу.  
+**[7196.26s] English:** Yes, in the end.  
 **Translation:** 
 
-**[7197.62s] English:** Совершенно верно.  
+**[7197.62s] English:** Completely correct.  
 **Translation:** 
 
-**[7199.62s] English:** Должен быть.  
+**[7199.62s] English:** There should be.  
 **Translation:** 
 
-**[7200.00s] English:** сказать мне жаль что мы создали столько замечательных языков а их использование  
+**[7200.00s] English:** To say that I regret that we have created so many wonderful languages but their use...  
 **Translation:** 
 
-**[7206.60s] English:** так ограничено стоит подходить к этому вопросу как британский музей и так ты комментируешь  
+**[7206.60s] English:** Such a limited approach should be taken to this issue, as the British Museum does, and that's how you comment.  
 **Translation:** 
 
-**[7214.58s] English:** нечто эфемерное что происходит в данный момент но реальность такова что лишь несколько избранных  
-**Translation:** 
+**[7214.58s] English:** Something ethereal that is happening right now, but reality is such that only a few chosen ones  
+**Translation:** Vocabulary: ethereal: 飘渺
 
-**[7224.00s] English:** вещей проживут еще сто-двести лет так что мы должны видеть большую картину и осознавать  
+**[7224.00s] English:** Things will last for another hundred or two hundred years, so we should see the big picture and be aware.  
 **Translation:** 
 
-**[7236.90s] English:** течение времени да сейчас мы наблюдаем катастрофы изменение языка это как технология разрывает ткань  
-**Translation:** 
+**[7236.90s] English:** Over time, we now observe catastrophes as language changes, like technology tearing the fabric.  
+**Translation:** Vocabulary: catastrophes: 灾难; fabric: 织物
 
-**[7246.24s] English:** общества но если отдалиться мы будем думать о великих идеях энштейна битве идеологиями  
+**[7246.24s] English:** Societies, but if we step back, we will think about great ideas like Einstein's and the battle of ideologies.  
 **Translation:** 
 
-**[7253.90s] English:** между коммунизмом и нацизмом в двадцатом веке о плохом и триумфальном о запуске ракет люди  
-**Translation:** 
+**[7253.90s] English:** Between communism and Nazism in the twentieth century, there was much about the horrors of war and triumphalism about rocket launches.  
+**Translation:** Vocabulary: communism: 共产主义; ideologies: 思想体系; nazism: 纳粹主义; triumphalism: 胜利主义; twentieth: 二十世纪
 
-**[7262.84s] English:** запускали ракеты попали на луну и может попадут на марс мы не будем думать об эмодзи и прочих  
+**[7262.84s] English:** We launched rockets that landed on the moon and may land on Mars. We won't be thinking about emojis and other things.  
 **Translation:** 
 
-**[7269.26s] English:** глупостях в каком-то смысле то же самое происходит в твоей работе с клинописью  
-**Translation:** 
+**[7269.26s] English:** In a sense, the same thing happens in your work with cuneiform writing.  
+**Translation:** Vocabulary: cuneiform: 楔形文字; rockets: 火箭
 
-**[7275.68s] English:** ты видишь то что выдержало испытание временем  
+**[7275.68s] English:** You see what has stood the test of time.  
 **Translation:** 
 
-**[7283.24s] English:** это  
+**[7283.24s] English:** This  
 **Translation:** 
 
-**[7283.88s] English:** правда но думаю что корректно используемый язык это важнейший инструмент для коммуникации да  
+**[7283.88s] English:** True, but I think that correctly used language is the most important tool for communication, yes.  
 **Translation:** 
 
-**[7292.40s] English:** согласен кстати я обязан задать еще пару вопросов о клинописных табличках в британском музее когда  
+**[7292.40s] English:** Agreed, by the way, I should ask a couple more questions about the cuneiform tablets in the British Museum when.  
 **Translation:** 
 
-**[7300.12s] English:** вокруг их столько кстати сколько у вас табличек около 130 тысяч как круто ага круто какие тебе  
+**[7300.12s] English:** Around them, there are so many signs, about 130 thousand, as it happens. That's awesome, yeah, awesome. What kind of signs?  
 **Translation:** 
 
-**[7310.62s] English:** кажутся самыми красивыми может те оказываются самые красивые таблички может те оказываются самыми красивыми может те  
+**[7310.62s] English:** They seem to be the most beautiful signs, but those might turn out to be the most beautiful ones, or maybe those.  
 **Translation:** 
 
-**[7313.88s] English:** оказываются самыми красивыми может те оказываются самыми красивыми может те оказываются самые красивые таблички которых мы не знаем которые заставляют тебя  
+**[7313.88s] English:** It appears that some of these can be the most beautiful, as they might be the most beautiful signs we don't know about, which can make you  
 **Translation:** 
 
-**[7316.66s] English:** таблички которых мы не знаем которые заставляют тебя  
+**[7316.66s] English:** Table signs which we don't know that make you  
 **Translation:** 
 
-**[7316.68s] English:** таблички которых мы не знаем которые заставляют тебя улыбаться ты упоминал шут  
+**[7316.68s] English:** Tablets, which we don't know, which make you smile—you mentioned a joke.  
 **Translation:** 
 
-**[7320.00s] English:** улыбаться ты упоминал шут  
+**[7320.00s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7320.02s] English:** улыбаться ты упоминал шут  
+**[7320.00s] English:** They don't have a sense of humor, and it doesn't get transmitted in cuneiform. I remember one joke: "Why did the fly?  
 **Translation:** 
 
-**[7322.02s] English:** улыбаться ты упоминал шут  
-**Translation:** 
+**[7320.02s] English:** You mentioned smiling, you joked about it.  
+**Translation:** Vocabulary: transmitted: 传递
 
-**[7324.02s] English:** улыбаться ты упоминал шут  
+**[7322.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7326.02s] English:** улыбаться ты упоминал шут  
+**[7324.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7328.02s] English:** улыбаться ты упоминал шут  
+**[7326.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7330.02s] English:** улыбаться ты упоминал шут  
+**[7328.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7332.02s] English:** улыбаться ты упоминал шут  
+**[7330.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7334.02s] English:** улыбаться ты упоминал шут  
+**[7331.58s] English:** A mosquito sits on an elephant's back and says, "I'm too heavy for you," or something like that.  
 **Translation:** 
 
-**[7340.02s] English:** улыбаться ты упоминал шут  
+**[7332.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7320.00s] English:** их мало чувство юмора не передается в клинописи да нет было юмор припоминаю одну шутку муха ли  
+**[7334.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7331.58s] English:** комар садится на спину слона и говорит я слишком тяжелый для тебя или что-то вроде того вот такая  
+**[7338.70s] English:** Vavilov's joke! You wouldn't have joked like that in a pub, yeah? Yeah, it's funny in the moment; you like it, Tom Lera.  
 **Translation:** 
 
-**[7338.70s] English:** вавилонская шутка ты бы не пошутил так в пабе да да смешно в моменте тебе нравится том лера  
+**[7340.02s] English:** You mentioned smiling, you joked about it.  
 **Translation:** 
 
-**[7345.72s] English:** конечно это хорошо хорошо я однажды поехал в америку с лекциями я оказался в городе где осел  
+**[7345.72s] English:** Of course, that's good. I once went to America for lectures and ended up in a city where I settled.  
 **Translation:** 
 
-**[7357.54s] English:** доктор вернер фон браун он был управляющим американской ракетной индустрии кого волнует  
-**Translation:** 
+**[7357.54s] English:** Dr. Werner von Braun, he was the head of American rocketry; who cares?  
+**Translation:** Vocabulary: braun: 棕色; rocketry: 火箭技术; werner: 维尔纳
 
-**[7369.46s] English:** если ракеты взлетят плевать куда упадут это не мой отдел говорил вернер фон браун теперь  
+**[7369.46s] English:** If the rockets take off, hell if I care where they fall, it's not my department, Werner von Braun said.  
 **Translation:** 
 
-**[7375.66s] English:** понимаю откуда взялось твои остроумие ты знаешь что мы лера он такой а как он играет фантастика  
-**Translation:** 
+**[7375.66s] English:** I understand where your wit comes from. You know what, we're Lera; he's like that, and how he plays, it's fantastic!  
+**Translation:** Vocabulary: rockets: 火箭
 
-**[7383.34s] English:** мой отец записал его с радио на катушечный магнитофон и я выучил все песни наизусть они  
+**[7383.34s] English:** My father recorded it from the radio onto a tape recorder, and I learned all the songs by heart. They  
 **Translation:** 
 
-**[7388.80s] English:** были потрясающе я знал профессор из гарварда у которого однажды остановился он был шумерологом  
-**Translation:** 
+**[7388.80s] English:** They were amazing. I knew a professor from Harvard who once stopped by. He was a Sumerologist.  
+**Translation:** Vocabulary: sumerologist: 苏美尔学学者
 
-**[7394.92s] English:** его жена знала тома лера когда он обучался математике у них были вечеринки он всегда  
+**[7394.92s] English:** His wife knew Tom Ler when he studied mathematics. They had parties, and he always  
 **Translation:** 
 
-**[7401.10s] English:** играл на пианино в углу комнаты он потрясающий о  
+**[7401.10s] English:** He played piano in the corner of the room; he is terrific!  
 **Translation:** 
 
-**[7404.52s] English:** да  
+**[7404.52s] English:** No  
 **Translation:** 
 
-**[7405.66s] English:** он обладал у тебя тоже это есть я много тебя смотрел твой способ бытия твое остроумие есть  
+**[7405.66s] English:** He had it too; you also have it. I've watched you a lot, your way of being, your wit is there.  
 **Translation:** 
 
-**[7413.58s] English:** что-то в этом едком остроумие немного юмора немного грусти ты быстро приходишь к сложности  
+**[7413.58s] English:** Something in this biting wit has a hint of humor and a touch of sadness. You quickly arrive at complexity.  
 **Translation:** 
 
-**[7425.88s] English:** бытия человеком наверное однако парадоксально вот что когда том лера говорит о бомбах обуздал  
-**Translation:** 
+**[7425.88s] English:** Certainly. By being a person, it's paradoxical, I suppose, that when Tom Lera talks about bombs, he tames them.  
+**Translation:** Vocabulary: complexity: 复杂性; paradoxical: 矛盾的
 
-**[7435.66s] English:** устройствах о международных проблемах  
+**[7435.66s] English:** Devices about international problems.  
 **Translation:** 
 
-**[7440.00s] English:** Ничего с тех самых пор так и не изменилось.  
+**[7440.00s] English:** Nothing has changed since then.  
 **Translation:** 
 
-**[7446.30s] English:** Ага.  
+**[7446.30s] English:** Agreed.  
 **Translation:** 
 
-**[7447.30s] English:** То же самое с доктором Стрэйншловом.  
-**Translation:** 
+**[7447.30s] English:** The same is true of Dr. Strangelove.  
+**Translation:** Vocabulary: strangelove: 疯狂的爱
 
-**[7451.18s] English:** Удивительно.  
+**[7451.18s] English:** Remarkably.  
 **Translation:** 
 
-**[7452.18s] English:** Короче, в следующий раз, когда приедешь, приходи  
-**Translation:** 
+**[7452.18s] English:** Correspondingly, next time you come, drop by.  
+**Translation:** Vocabulary: correspondingly: 相应地; remarkably: 令人惊讶地
 
-**[7455.66s] English:** ко мне в музей, и я покажу тебе всякие удивительные  
+**[7455.66s] English:** Come to my museum, and I will show you all sorts of amazing things.  
 **Translation:** 
 
-**[7459.90s] English:** штуки.  
+**[7459.90s] English:** Pieces.  
 **Translation:** 
 
-**[7460.90s] English:** Покажу тебе чикагский словарь.  
+**[7460.90s] English:** Show you the Chicago dictionary.  
 **Translation:** 
 
-**[7463.44s] English:** Дам учебник грамматики, будешь учиться.  
+**[7463.44s] English:** Give me the grammar book, you'll be learning.  
 **Translation:** 
 
-**[7466.32s] English:** Ирвинг, ты потрясающий.  
+**[7466.32s] English:** Irving, you are amazing.  
 **Translation:** 
 
-**[7468.40s] English:** Рад встрече.  
+**[7468.40s] English:** I'm glad to meet you.  
 **Translation:** 
 
-**[7469.88s] English:** Пообщаться с тобой — честь.  
+**[7469.88s] English:** To converse with you is an honor.  
 **Translation:** 
 
-**[7471.66s] English:** Взаимно.  
-**Translation:** 
+**[7471.66s] English:** Mutually.  
+**Translation:** Vocabulary: converse: 交谈; mutually: 互相
 
-**[7472.66s] English:** Спасибо.  
+**[7472.66s] English:** Thank you.  
 **Translation:** 
 
-**[7473.66s] English:** Ирвинг, спасибо.  
+**[7473.66s] English:** Irving, thanks.  
 **Translation:** 
 
-**[7474.66s] English:** Одно удовольствие, Лекс.  
+**[7474.66s] English:** One pleasure, Lex.  
 **Translation:** 
 
-**[7476.58s] English:** Будь здоров.  
+**[7476.58s] English:** Be healthy.  
 **Translation:** 
 
-**[7477.58s] English:** Спасибо, что послушали разговор с Ирвингом Финкелем.  
+**[7477.58s] English:** Thank you for listening to the conversation with Irving Finkel.  
 **Translation:** 
 
-**[7481.76s] English:** Чтобы поддержать подкаст, загляните к спонсорам в  
-**Translation:** 
+**[7481.76s] English:** To support the podcast, check out the sponsors at  
+**Translation:** Vocabulary: sponsors: 赞助商
 
-**[7484.56s] English:** описании.  
+**[7484.56s] English:** In description.  
 **Translation:** 
 
-**[7485.56s] English:** Там же мои контакты, если хотите задать вопрос или  
+**[7485.56s] English:** There are also my contacts if you want to ask a question or  
 **Translation:** 
 
-**[7489.06s] English:** поделиться мнением.  
+**[7489.06s] English:** Share your opinion.  
 **Translation:** 
 
-**[7490.64s] English:** А теперь оставлю вас со словами Людвига Витгенштейна.  
-**Translation:** 
+**[7490.64s] English:** Now I will leave you with the words of Ludwig Wittgenstein.  
+**Translation:** Vocabulary: wittgenstein: 维特根斯坦
 
-**[7493.82s] English:** «Граница моего языка есть граница моего мира».  
+**[7493.82s] English:** The boundary of my language is the boundary of my world.  
 **Translation:** 
 
-**[7499.64s] English:** Спасибо, что послушали и до следующего раза.  
+**[7499.64s] English:** Thank you for listening, and see you next time.  
 **Translation:** 
 
 

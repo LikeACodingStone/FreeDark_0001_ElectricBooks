@@ -1,53 +1,54 @@
 # Podcast vocabulary notes
 Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman Podcast #175.opus
+Improved subtitle: punctuation and vocabulary regenerated from current config.
 
-**[0.00s] English:** The following is a conversation with Yanis Pappas, a comedian who co-hosted the podcast History Hyenas that I came across when I was researching the Battle of Crete from World War II.  
+**[0.00s] English:** The following is a conversation with Yanis Pappas, a comedian who co-hosted the podcast "History Hyenas." I came across him when I was researching the Battle of Crete from World War II.  
 **Translation:** 
 
 **[11.98s] English:** He and his co-hosts were hilarious in their rants about history and about life.  
-**Translation:** Vocabulary: crete: 克里特岛; hyenas: 土狼; rants: 狂言
-
-**[18.70s] English:** The chemistry they have is probably the best of any co-hosted comedy podcast or even podcast in general that I've ever heard.  
 **Translation:** 
 
-**[25.68s] English:** As of a few weeks ago, unfortunately, History Hyenas is no more, at least for now, because all good things must come to an end.  
+**[18.70s] English:** The chemistry they have is probably the best of any co-hosted comedy podcast—or even any podcast in general—that I've ever heard.  
 **Translation:** 
 
-**[35.48s] English:** But Yanis hosts a new podcast called Long Days with Yanis Pappas, plus he has a comedy special on YouTube for free.  
+**[25.68s] English:** As of a few weeks ago, unfortunately, History Hyenas is no more—at least for now—because all good things must come to an end.  
+**Translation:** Vocabulary: hyenas: 鬣狗
+
+**[35.48s] English:** But Yanis hosts a new podcast called "Long Days with Yanis Pappas," plus he has a comedy special on YouTube for free.  
 **Translation:** 
 
-**[44.96s] English:** Quick mention of our sponsors, Wine Access, Blinkist, Magic Spoon, and Indeed.  
+**[44.96s] English:** Quick mention of our sponsors: Wine Access, Blinkist, Magic Spoon, and Indeed.  
 **Translation:** Vocabulary: blinkist: Blinkist; sponsors: 赞助商
 
 **[50.80s] English:** Check them out in the description to support this podcast.  
 **Translation:** 
 
-**[54.30s] English:** As a side note, let me say this.  
+**[54.30s] English:** As a side note, let me say this:  
 **Translation:** 
 
 **[55.68s] English:** I want to say that some of you have noticed that I have not spoken with too many computer scientists, physicists, biologists, or engineers recently.  
 **Translation:** 
 
-**[63.84s] English:** The reason has to do mostly with the risk aversion of many of these folks in the time of COVID, especially as they get closer to taking the vaccine.  
-**Translation:** Vocabulary: aversion: 风险厌恶; biologists: 生物学家; physicists: 物理学家
+**[63.84s] English:** The reason has to do mostly with the risk aversion of many of these folks during the time of COVID, especially as they get closer to taking the vaccine.  
+**Translation:** Vocabulary: aversion: 厌恶
 
 **[72.34s] English:** I'm tested several times a week, and still, some people are just more willing than others to have an in-person conversation in these times.  
 **Translation:** 
 
-**[80.56s] English:** I only do these podcasts in person because I look for the possibility of a genuine healing.  
+**[80.56s] English:** I only do these podcasts in person because I look for the possibility of genuine healing.  
 **Translation:** 
 
 **[85.68s] English:** I'm willing to sacrifice a lot for that.  
 **Translation:** 
 
-**[90.02s] English:** Maybe it's silly, but I look for the magic that Charles Bukowski writes about in his poem Nirvana.  
+**[90.02s] English:** Maybe it's silly, but I look for the magic that Charles Bukowski writes about in his poem "Nirvana.  
 **Translation:** 
 
-**[96.74s] English:** The magic that is somehow in the air on those rare occasions when two people meet, talk, and you notice that while on the surface you may be worlds apart, you're still somehow woven from the same fabric.  
+**[96.74s] English:** The magic that is somehow in the air on those rare occasions when two people meet, talk, and you notice that, while on the surface you may be worlds apart, you're still somehow woven from the same fabric.  
 **Translation:** 
 
 **[110.80s] English:** I've had that with many guests.  
-**Translation:** 
+**Translation:** Vocabulary: fabric: 布料
 
 **[112.16s] English:** Jim Keller comes to mind, but many others as well.  
 **Translation:** 
@@ -55,61 +56,61 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[115.68s] English:** I'm an AI person.  
 **Translation:** 
 
-**[117.52s] English:** Machine learning, robotics, computer science is my...  
+**[117.52s] English:** Machine learning, robotics, and computer science are my...  
 **Translation:** 
 
-**[120.00s] English:** passion. Trust me, I can't wait to be having more technical conversations again, but I will also  
+**[120.00s] English:** Passion. Trust me; I can't wait to have more technical conversations again, but I will also  
+**Translation:** Vocabulary: robotics: 机器人学
+
+**[125.72s] English:** Continue to mix in comedians, musicians, historians, and, of course, wise, all-seeing sages like:  
 **Translation:** 
 
-**[125.72s] English:** continue to mix in comedians, musicians, historians, and of course, wise all-seeing sages like  
+**[132.32s] English:** Giannis Pappas and Tim Dillon, just to keep it, as Tim likes to say, "fun." This is the Lex Friedman.  
+**Translation:** Vocabulary: comedians: 喜剧演员; dillon: 迪龙; friedman: 弗里德曼; giannis: 吉安尼斯; pappas: 帕帕斯
+
+**[141.10s] English:** Podcast, and here is my conversation with Giannis Pappas. You've co-hosted, until recently, an  
 **Translation:** 
 
-**[132.32s] English:** Giannis Pappas and Tim Dillon, just to keep it, as Tim likes to say, fun. This is the Lex Friedman  
-**Translation:** Vocabulary: dillon: 迪龙; friedman: 弗里德曼; pappas: 帕帕斯
-
-**[141.10s] English:** podcast, and here is my conversation with Giannis Pappas. You've co-hosted, until recently, an  
-**Translation:** 
-
-**[148.44s] English:** amazing history comedy podcast called The History Hyenas, so you're a bit of a student of history.  
+**[148.44s] English:** Amazing history comedy podcast called The History Hyenas; so you're a bit of a student of history.  
 **Translation:** Vocabulary: hyenas: 鬣狗
 
-**[156.30s] English:** Yeah, an F student of history. F student, okay, I thought it was more like a D minus. D minus,  
+**[156.30s] English:** Yeah, an F student of history. F student, okay—I thought it was more like a D minus. D minus,  
 **Translation:** 
 
-**[161.30s] English:** yeah. Okay. Still got to repeat the grade if you get all D minuses. I actually had a 0.67 GPA  
+**[161.30s] English:** Yeah. Okay. You still have to repeat the grade if you get all D minuses. I actually had a 0.67 GPA.  
+**Translation:** Vocabulary: minuses: 减分项
+
+**[166.34s] English:** Average my freshman year, and I had to do it again. This podcast is going to be the spectrum.  
 **Translation:** 
 
-**[166.34s] English:** average my freshman year, and I had to do it again. This podcast is going to be the spectrum  
+**[171.44s] English:** Of human intelligence, it runs the gamut from there to here. So, this is going to set the low.  
+**Translation:** Vocabulary: gamut: 全部范围
+
+**[176.28s] English:** Bar. I'm barely sliding into it.  
 **Translation:** 
 
-**[171.44s] English:** of human intelligence. It runs the gamut from there to here. So this is going to set the low  
-**Translation:** Vocabulary: gamut: 范围广泛
-
-**[176.28s] English:** bar. I'm barely sliding into it.  
-**Translation:** 
-
-**[178.44s] English:** Into human. I'm closer to chimp.  
+**[178.44s] English:** Into human, I'm closer to a chimp.  
 **Translation:** Vocabulary: chimp: 猩猩
 
-**[180.54s] English:** And I bring that up that you're also friends with the great, the powerful Tim Dillon. So  
+**[180.54s] English:** And I bring that up because you're also friends with the great, the powerful Tim Dillon. So  
 **Translation:** 
 
-**[188.72s] English:** let's talk about power and the corrupting effects of power. Sometimes I look at Tim  
-**Translation:** Vocabulary: corrupting: 腐蚀作用
+**[188.72s] English:** Let's talk about power and the corrupting effects of power. Sometimes, I look at Tim.  
+**Translation:** Vocabulary: corrupting: 腐蚀的
 
-**[195.58s] English:** Dillon as he grows in power.  
+**[195.58s] English:** Dillon, as he grows in power.  
 **Translation:** 
 
-**[197.40s] English:** I thought you meant he's in size.  
+**[197.40s] English:** I thought you meant he's in size?  
 **Translation:** 
 
-**[199.54s] English:** Well, size, I think they're correlated.  
+**[199.54s] English:** Well, size, I think they are correlated.  
 **Translation:** 
 
-**[201.80s] English:** Yeah. I saw him. I've been in Austin a couple days. I saw him once. We had eight meals in one  
-**Translation:** Vocabulary: correlated: 相关
+**[201.80s] English:** Yeah. I saw him. I've been in Austin for a couple of days. I saw him once. We had eight meals in one  
+**Translation:** Vocabulary: correlated: 相关的
 
-**[206.46s] English:** day.  
+**[206.46s] English:** Day.  
 **Translation:** 
 
 **[206.98s] English:** Eight meals.  
@@ -118,7 +119,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[207.46s] English:** Yeah.  
 **Translation:** 
 
-**[208.44s] English:** I feel like I've been here longer than I have just because of the meals with Dillon.  
+**[208.44s] English:** I feel like I've been here longer than I have, just because of the meals with Dillon.  
 **Translation:** 
 
 **[212.02s] English:** Kid likes biscuits and barbecue.  
@@ -136,16 +137,16 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[220.96s] English:** All right.  
 **Translation:** 
 
-**[221.96s] English:** They'd get along great, those two.  
+**[221.96s] English:** They'd get along great; those two.  
 **Translation:** 
 
 **[223.94s] English:** Yeah.  
 **Translation:** 
 
-**[224.34s] English:** They would get, I mean, Tim Dillon and King John Um would be like, they could make like a buddy  
-**Translation:** 
+**[224.34s] English:** They would get, I mean, Tim Dillon and King John Um would be like—they could make, like, a buddy movie.  
+**Translation:** Vocabulary: dillon: 迪伦
 
-**[228.04s] English:** cop movie. They would get along like Lethal Weapon. That would be a good pitch movie.  
+**[228.04s] English:** Cop movie. They would get along like Lethal Weapon. That would be a good pitch for a movie.  
 **Translation:** 
 
 **[232.00s] English:** Great podcast.  
@@ -157,13 +158,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[235.58s] English:** So much to talk about. So many similar ideas about the world.  
 **Translation:** 
 
-**[238.42s] English:** So what's your take on that?  
+**[238.42s] English:** So, what's your take on that?  
 **Translation:** 
 
-**[240.00s] English:** What do you think the world would look like if Tim Dillon was given absolute power?  
+**[240.00s] English:** What do you think the world would look like if Tim Dillon were given absolute power?  
 **Translation:** 
 
-**[245.12s] English:** He seems like a person that's an interesting study of the corrupting effects of power.  
+**[245.12s] English:** He seems like a person that's an interesting study in the corrupting effects of power.  
 **Translation:** 
 
 **[250.90s] English:** Yeah.  
@@ -175,11 +176,11 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[252.74s] English:** I don't even want him wearing a suit.  
 **Translation:** 
 
-**[255.48s] English:** I want a guy who's as thoughtful and educated as you wearing a suit because suits corrupt you.  
+**[255.48s] English:** I want a guy who's as thoughtful and educated as you, wearing a suit, because suits corrupt you.  
 **Translation:** 
 
 **[261.24s] English:** You put that suit on.  
-**Translation:** Vocabulary: thoughtful: 细心
+**Translation:** Vocabulary: corrupt: 败坏; educated: 受教育的; thoughtful: 体贴的
 
 **[261.94s] English:** You start feeling that power.  
 **Translation:** 
@@ -187,43 +188,43 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[263.04s] English:** Definitely.  
 **Translation:** 
 
-**[263.68s] English:** It's like – yeah, I don't even want Tim Dillon in a suit.  
+**[263.68s] English:** It's like—yeah, I don't even want Tim Dillon in a suit.  
 **Translation:** 
 
-**[266.26s] English:** Power would – he would kill people.  
-**Translation:** Vocabulary: dillon: 迪伦
+**[266.26s] English:** Power would—he would kill people.  
+**Translation:** 
 
-**[267.92s] English:** He'd get rid of anything that he deemed – I mean if you made a lobster roll and it wasn't up to Tim Dillon's standard, he would have you executed.  
+**[267.92s] English:** He'd get rid of anything that he deemed unacceptable. I mean, if you made a lobster roll and it wasn't up to Tim Dillon's standard, he would have you executed.  
 **Translation:** 
 
 **[275.42s] English:** The entire restaurant staff is just gone.  
-**Translation:** Vocabulary: lobster: 龙虾
+**Translation:** Vocabulary: deemed: 认为; executed: 执行; lobster: 龙虾; unacceptable: 不可接受
 
 **[278.32s] English:** He would have people below his food standard executed.  
 **Translation:** 
 
 **[281.44s] English:** There would be pogroms, not of people who are political dissidents, but of people who don't meet his food standard.  
-**Translation:** Vocabulary: dissidents: 政治異見人士; pogroms: 暴行
+**Translation:** Vocabulary: dissidents: 政治异见人士; pogroms: 迫害行动
 
-**[287.22s] English:** His cuisine standard is high, and he's usually right.  
+**[287.22s] English:** His cuisine standards are high, and he's usually right.  
 **Translation:** 
 
 **[290.44s] English:** Do you think power does corrupt people?  
-**Translation:** Vocabulary: cuisine: 烹饪水平
+**Translation:** Vocabulary: cuisine: 烹饪水准
 
 **[292.52s] English:** Yes.  
 **Translation:** 
 
-**[292.80s] English:** One of the reasons we mentioned offline Joe Rogan, he's been an inspiration to me because he gets –  
+**[292.80s] English:** One of the reasons we mentioned offline was Joe Rogan, who has been an inspiration to me because he gets –  
 **Translation:** 
 
-**[297.92s] English:** he gets – forget power, just more famous and famous, and yes, probably a bit of power in terms of influence, and he's still pretty much the same guy.  
+**[297.92s] English:** He gets -- forget about power; he's just more famous and famous. And, yes, probably a bit of power in terms of influence, and he's still pretty much the same guy.  
 **Translation:** 
 
 **[307.34s] English:** I'm not sure that's going to be true for everybody.  
 **Translation:** 
 
-**[309.52s] English:** Do you ever think – ask yourself that question?  
+**[309.52s] English:** Do you ever think—ask yourself that question?  
 **Translation:** 
 
 **[311.52s] English:** Yeah.  
@@ -233,33 +234,33 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **Translation:** 
 
 **[313.16s] English:** He's like a benign king.  
-**Translation:** Vocabulary: benign: 仁慈的
+**Translation:** Vocabulary: benign: 温和无害
 
-**[315.06s] English:** Most people I meet who are like really powerful are like douchebags, and that's how they got there.  
+**[315.06s] English:** Most people I meet who are really powerful are like douchebags, and that's how they got there.  
 **Translation:** 
 
-**[319.30s] English:** I think that's – psychopaths have the advantage because they don't have feelings, and Joe's a rare example.  
-**Translation:** Vocabulary: douchebags: 混蛋; psychopaths: 反社会者
+**[319.30s] English:** I think that's why psychopaths have the advantage because they don't have feelings, and Joe is a rare example.  
+**Translation:** Vocabulary: psychopaths: 冷血的人
 
 **[324.78s] English:** He's just a powerhouse of will.  
 **Translation:** 
 
 **[327.92s] English:** I do think about that, yeah.  
-**Translation:** Vocabulary: powerhouse: 实力派人物
+**Translation:** Vocabulary: powerhouse: 强大的人
 
 **[329.94s] English:** I think I should be stopped right now.  
 **Translation:** 
 
-**[332.52s] English:** Just stop me right now because, yeah, power for me, I would – when people get power, they indulge.  
-**Translation:** 
+**[332.52s] English:** Just stop me right now, because, yeah, power for me, I would — when people get power, they indulge.  
+**Translation:** Vocabulary: indulge: 放纵自己
 
 **[337.68s] English:** I don't think it changes anyone.  
 **Translation:** 
 
-**[338.94s] English:** It just reveals your darkest – people aren't supposed to have anything they want.  
-**Translation:** 
+**[338.94s] English:** It just reveals your darkest desires—people aren't supposed to have everything they want.  
+**Translation:** Vocabulary: desires: 欲望
 
-**[344.06s] English:** You got to be able to struggle for everything, so I would have a harem.  
+**[344.06s] English:** You've got to struggle for everything, so I'd have a harem.  
 **Translation:** 
 
 **[347.02s] English:** I'd be like a Roman dictator.  
@@ -268,7 +269,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[348.56s] English:** Yeah, I'd be like a Roman emperor.  
 **Translation:** 
 
-**[349.80s] English:** I mean people called them emperors.  
+**[349.80s] English:** I mean, people called them emperors.  
 **Translation:** Vocabulary: emperors: 皇帝
 
 **[350.72s] English:** They were dictators.  
@@ -283,94 +284,94 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[354.78s] English:** Democracy hasn't worked.  
 **Translation:** 
 
-**[356.18s] English:** I'm ready for a secession of Caesars.  
+**[356.18s] English:** I'm ready for a succession of Caesars.  
 **Translation:** 
 
 **[357.92s] English:** I want to start with AOC.  
-**Translation:** Vocabulary: caesars: 凯撒; secession: 分裂
+**Translation:** Vocabulary: caesars: 凯撒
 
-**[360.00s] English:** that's true dictators get the job done they do they do at certain point you got that's why social  
+**[360.00s] English:** That's true; dictators get the job done, they do. At a certain point, you've got to admit that's why social...  
 **Translation:** 
 
-**[366.02s] English:** workers can only get you so far you need action i was a social worker for five years and all you do  
+**[366.02s] English:** Workers can only get you so far; you need action. I was a social worker for five years, and all you do...  
 **Translation:** 
 
-**[371.40s] English:** is ask about medications and you don't solve anything i do ask myself of that like because  
+**[371.40s] English:** Is it about medications, and you don't solve anything? I do ask myself about that, because...  
 **Translation:** 
 
-**[377.46s] English:** i'm more in the tech space of constructing systems that prevent me from being corrupt  
-**Translation:** Vocabulary: medications: 药品
+**[377.46s] English:** I'm more in the tech space of constructing systems that prevent me from being corrupt.  
+**Translation:** Vocabulary: constructing: 构建; corrupt: 腐败; medications: 药物
 
-**[383.60s] English:** because right now i'm all about love and all about those kinds of things but i wonder you said like  
+**[383.60s] English:** Because right now, I'm all about love and all about those kinds of things, but I wonder — you said like  
 **Translation:** 
 
-**[389.50s] English:** it just reveals the darkness the the problem is we might not be aware of our own darkness  
+**[389.50s] English:** It just reveals the darkness. The problem is, we might not be aware of our own darkness.  
 **Translation:** 
 
-**[394.78s] English:** i have the same feeling about money actually i've been avoiding thinking about money like  
+**[394.78s] English:** I have the same feeling about money actually. I've been avoiding thinking about money, like  
 **Translation:** 
 
-**[401.42s] English:** basically constructing my moral system my moral compass around money it's like the moment i feel  
-**Translation:** Vocabulary: compass: 道德准则
+**[401.42s] English:** Basically, I'm constructing my moral system or "moral compass" around money. It's like the moment I feel  
+**Translation:** Vocabulary: compass: 道德指南针
 
-**[407.86s] English:** a little too happy but about the idea of owning some cool shiny thing i started to think okay i'm  
+**[407.86s] English:** A little too happy, but about the idea of owning some cool, shiny thing, I started to think, "Okay, I'm  
 **Translation:** 
 
-**[416.04s] English:** not going to own that shiny thing because i'm afraid of the slippery slope  
+**[416.04s] English:** Not going to own that shiny thing because I'm afraid of the slippery slope.  
 **Translation:** 
 
-**[419.50s] English:** of it yeah you ever think about that kind of stuff yeah the funny thing about our the capitalist  
+**[419.50s] English:** Of it, yeah. You ever think about that kind of stuff? Yeah, the funny thing about our capitalist system...  
 **Translation:** 
 
-**[424.34s] English:** system is it's uh it's um it puts sort of uh profit motive above beauty and you notice when  
+**[424.34s] English:** The system is, uh, it's kind of putting a profit motive above beauty, and you notice when  
 **Translation:** Vocabulary: capitalist: 资本主义的
 
-**[431.72s] English:** you see certain cities especially in the old days where like buildings used to be beautiful  
+**[431.72s] English:** You see, certain cities, especially in the old days, where buildings used to be beautiful.  
 **Translation:** 
 
-**[436.72s] English:** yeah and uh now they're just like boxes they throw a kid up and it's just for all profit margin  
+**[436.72s] English:** Yeah, and now they're just like boxes; they throw a kid up, and it's just for all the profit margin.  
+**Translation:** Vocabulary: margin: 利润
+
+**[441.86s] English:** It's the illusion of permanence, you know, like oh, let me get as much money as possible.  
 **Translation:** 
 
-**[441.86s] English:** it's um it's the illusion of permanence that uh you know it's like oh let me get as much money as  
+**[449.50s] English:** You know, my dad used to say that everyone says it's a cliché, but you can't take it with you, so  
+**Translation:** Vocabulary: permanence: 持久性
+
+**[452.96s] English:** It's kind of comical to me that we're here trying to get this infinite amount, like they say.  
 **Translation:** 
 
-**[449.50s] English:** you know my dad used to say you know everyone it's a cliche but you can't take it with you so  
-**Translation:** Vocabulary: cliche: 陈词滥调; permanence: 持久性
+**[457.86s] English:** We were climbing; it's like Sisyphus. We're all trying to climb this hill, but I mean, the rock's gonna...  
+**Translation:** Vocabulary: comical: 滑稽; infinite: 无限; sisyphus: 西西弗斯
 
-**[452.96s] English:** it's kind of it's it's comical to me that we're here trying to get this infinite amount like they  
+**[461.82s] English:** Fall on us, so I think that's a healthy outlook. Yeah, my dad always used to say before he passed.  
 **Translation:** 
 
-**[457.86s] English:** were climbing it's like sisyphus we're all trying to climb this hill but i mean the rock's gonna  
-**Translation:** Vocabulary: sisyphus: 徒劳努力
+**[466.04s] English:** You know, he would say you can't just survive physically; you have to survive emotionally too.  
+**Translation:** Vocabulary: outlook: 看法
 
-**[461.82s] English:** fall on us so i think that's a healthy outlook yeah my dad always used to say before he passed  
+**[470.88s] English:** Survive emotionally—I think a lot of people forget about the emotional part of survival, you know?  
 **Translation:** 
 
-**[466.04s] English:** you know he would say you can't you have to survive not only physically but you have to  
+**[476.26s] English:** To survive emotionally, and humor, and  
 **Translation:** 
 
-**[470.88s] English:** survive emotionally i think a lot of people forget about the emotional part of uh survival you have  
-**Translation:** 
-
-**[476.26s] English:** to survive emotionally and humor and and  
-**Translation:** 
-
-**[479.50s] English:** and uh  
+**[479.50s] English:** And uh,...  
 **Translation:** 
 
 **[480.00s] English:** Understanding reality in its objective context helps with that.  
 **Translation:** 
 
-**[483.70s] English:** Accepting reality as this ephemeral thing that you're really just a part of but not as significant as your ego wants you to believe is a start.  
+**[483.70s] English:** Accepting reality as this ephemeral thing, that you're really just a part of, but not as significant as your ego wants you to believe, is a start.  
 **Translation:** 
 
 **[494.98s] English:** That's a good foundation for surviving emotionally.  
 **Translation:** Vocabulary: ephemeral: 短暂的
 
-**[497.88s] English:** What's that mean, surviving emotionally?  
+**[497.88s] English:** What does "surviving emotionally" mean?  
 **Translation:** 
 
-**[499.90s] English:** Like what's an ideal life look like where you're thriving?  
+**[499.90s] English:** Like, what does an ideal life look like where you're thriving?  
 **Translation:** Vocabulary: thriving: 生机勃勃
 
 **[503.34s] English:** You can't take things too seriously because they're ephemeral.  
@@ -400,7 +401,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[516.36s] English:** Your dick getting hard is not permanent.  
 **Translation:** 
 
-**[518.06s] English:** Can I curse on this or is this going to go out to jail?  
+**[518.06s] English:** Can I curse on this, or is this going to go to jail?  
 **Translation:** 
 
 **[520.82s] English:** You can curse to your heart's content.  
@@ -409,25 +410,25 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[523.16s] English:** Okay, yeah.  
 **Translation:** 
 
-**[523.98s] English:** I mean gender is not even permanent anymore.  
+**[523.98s] English:** I mean, gender is not even permanently fixed anymore.  
 **Translation:** 
 
-**[525.58s] English:** I think I'm going to change maybe and live my second half as another gender just to have – I'm bored with this gender.  
+**[525.58s] English:** I think I'm going to change, maybe, and live my second half as another gender just to have— I'm bored with this gender.  
 **Translation:** 
 
-**[530.82s] English:** So it's like nothing is permanent and so accepting that emotionally is a good start to being –  
+**[530.82s] English:** So, it's like nothing is permanent, and so accepting that emotionally is a good start to being...  
 **Translation:** 
 
 **[538.74s] English:** You've got to be more flexible.  
-**Translation:** 
+**Translation:** Vocabulary: flexible: 有弹性的
 
 **[539.48s] English:** You've got to be flexible.  
 **Translation:** 
 
-**[540.68s] English:** Like my dad used to say, anything too stiff snaps.  
+**[540.68s] English:** Like my dad used to say, "anything too stiff snaps.  
 **Translation:** 
 
-**[543.28s] English:** You've got to – it's a cliche and people have said it a bunch of different ways.  
+**[543.28s] English:** You've got to—it's a cliché, and people have said it in a bunch of different ways.  
 **Translation:** 
 
 **[546.98s] English:** But Bruce Lee is right, man.  
@@ -442,13 +443,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[551.20s] English:** Yeah.  
 **Translation:** 
 
-**[552.34s] English:** Bukowski has this quote about love that love is a fog that fades with the first light of reality.  
+**[552.34s] English:** Bukowski has this quote about love: "Love is a fog that fades with the first light of reality.  
 **Translation:** Vocabulary: bukowski: 博凯西
 
 **[559.22s] English:** So he's a romantic, that guy.  
 **Translation:** 
 
-**[561.52s] English:** But that even love is a thing that just doesn't last very long.  
+**[561.52s] English:** But, that even love is a thing that just doesn't last very long.  
 **Translation:** 
 
 **[565.14s] English:** No.  
@@ -461,12 +462,12 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **Translation:** 
 
 **[568.74s] English:** It morphs like water.  
-**Translation:** Vocabulary: morphs: 变化
+**Translation:** 
 
 **[571.20s] English:** It changes, right?  
 **Translation:** 
 
-**[572.22s] English:** It might not be this – because he's mostly just loved like prostitutes, I think.  
+**[572.22s] English:** It might not be this, because he's mostly just been loved like a prostitute, I think.  
 **Translation:** 
 
 **[578.32s] English:** The best kind of love, yeah.  
@@ -485,7 +486,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **Translation:** 
 
 **[587.86s] English:** You mentioned your dad.  
-**Translation:** 
+**Translation:** Vocabulary: ephemeral: 短暂的
 
 **[589.82s] English:** He passed away a year and a half ago.  
 **Translation:** 
@@ -502,97 +503,97 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[597.56s] English:** My dad.  
 **Translation:** 
 
-**[598.12s] English:** I would say my dad was my –  
+**[598.12s] English:** I would say my dad was my—  
 **Translation:** 
 
-**[600.00s] English:** my hero he was just uh my dad really embodied those values and i think um for better or worse  
+**[600.00s] English:** My hero, he was just like my dad. He really embodied those values, and I think, for better or worse.  
 **Translation:** 
 
-**[605.70s] English:** it's made me who i am he's he uh my dad was was a painter he was a lawyer he was uh he was uh you  
+**[605.70s] English:** It's made me who I am. He's—he, my dad was a painter, he was a lawyer, he was—uh.  
 **Translation:** Vocabulary: embodied: 体现
 
-**[613.38s] English:** know a lieutenant in the military new yorker new yorker born and bred brooklyn his dad his dad you  
+**[613.38s] English:** Know a Lieutenant in the military, a New Yorker, born and bred in Brooklyn. His dad, his dad, you  
 **Translation:** 
 
-**[619.28s] English:** know surprise owned a diner so that's that's sort of the greek passport that's the immigration  
-**Translation:** Vocabulary: diner: 餐馆
+**[619.28s] English:** Know, surprise, he owned a diner, so that's that's sort of the Greek passport—that's the immigration.  
+**Translation:** Vocabulary: brooklyn: 布鲁克林; diner: 小餐馆
 
-**[624.78s] English:** passport for greeks into america and um yeah my dad played football he just my dad did what he  
+**[624.78s] English:** Passport for Greeks into America, and um, yeah, my dad played football; he just did what he could.  
 **Translation:** 
 
-**[630.92s] English:** wanted he lived as he wanted at all costs and i think i got that from him for better or worse i  
+**[630.92s] English:** Wanted, he lived as he wanted at all costs, and I think I got that from him, for better or worse. I  
 **Translation:** 
 
-**[635.40s] English:** think it's hurt me in my pursuits uh if you consider money and fame uh to be paramount you  
+**[635.40s] English:** I think it's hurt me in my pursuits, if you consider money and fame to be paramount.  
 **Translation:** 
 
-**[643.92s] English:** know i i've always done what i wanted if i stopped wanting to do it i just stopped doing and i think  
-**Translation:** Vocabulary: paramount: 至高无上; pursuits: 追求
+**[643.92s] English:** Know, I've always done what I wanted. If I stopped wanting to do it, I just stopped doing it, and I think.  
+**Translation:** Vocabulary: paramount: 至高无上的; pursuits: 追求
 
-**[648.02s] English:** i got that from my dad so maybe for better or worse that's what i learned from him but that's  
+**[648.02s] English:** I got that from my dad, so maybe for better or worse, that's what I learned from him, but that's  
 **Translation:** 
 
-**[652.30s] English:** a real currency you know feeling like you're  
+**[652.30s] English:** A real currency, you know, feeling like you're  
 **Translation:** 
 
-**[654.78s] English:** in love with what you're doing when you're doing it maybe perhaps that's worth more than money i  
+**[654.78s] English:** In love with what you're doing when you're doing it, maybe, perhaps that's worth more than money. I  
 **Translation:** 
 
-**[659.58s] English:** don't know you miss him yeah every day every day but i'm happy that uh he he got 91 years  
+**[659.58s] English:** Don't know you miss him, yeah, every day. Every day, but I'm happy that he got 91 years.  
 **Translation:** 
 
-**[668.16s] English:** it's very rare i mean he smoked for 60 years talk about like a guy who was an outlier i mean he  
+**[668.16s] English:** It's very rare. I mean, he smoked for 60 years — talk about a guy who was an outlier. I mean, he  
 **Translation:** 
 
-**[674.30s] English:** smoked like 60 years like packs i mean yeah and he didn't die from that he died he had a prostate  
+**[674.30s] English:** Smoked like 60 years, like packs a day. I mean, yeah, and he didn't die from that; he died of prostate cancer.  
 **Translation:** 
 
-**[679.84s] English:** cancer which is the way men should go your dick should give out it should start from the dick  
+**[679.84s] English:** Cancer, which is the way men should go; your dick should give out; it should start from the dick.  
 **Translation:** 
 
-**[683.74s] English:** i mean we  
+**[683.74s] English:** I mean, we  
 **Translation:** 
 
-**[684.78s] English:** so much of our life on the dick yeah that that's the way that's a successful life and that's why  
+**[684.78s] English:** So much of our life depends on the dick, yeah. That's the way; that's a successful life, and that's why.  
 **Translation:** 
 
-**[690.14s] English:** every man eventually gets prostate cancer because that is the universe's way of saying like the  
+**[690.14s] English:** Every man eventually gets prostate cancer, because that is the universe's way of saying, "Life.  
 **Translation:** 
 
-**[694.76s] English:** thing you focused on the most is you put the most energy into is the thing that's spent and it's  
+**[694.76s] English:** The thing you focused on the most is what you put the most energy into, and it's  
 **Translation:** 
 
-**[700.04s] English:** gonna your your rotting is gonna start there so that's a successful life and it just spread all  
-**Translation:** Vocabulary: rotting: 腐烂
+**[700.04s] English:** Gonna, your rotting is gonna start there. So, that's a successful life, and it just spreads all.  
+**Translation:** Vocabulary: rotting: 腐烂; spreads: 蔓延
 
-**[706.16s] English:** over his body and he slowly died i was with him when he died and that meant a lot to me because  
+**[706.16s] English:** Over his body, and he slowly died. I was with him when he died, and that meant a lot to me because.  
 **Translation:** 
 
-**[709.88s] English:** me and my brother weren't talking at the time because we're greeks uh we're talking again but  
+**[709.88s] English:** Me and my brother weren't talking at the time because we're Greeks. Uh, we're talking again but...  
 **Translation:** 
 
-**[714.78s] English:** it is you got a few brothers right i got two brothers but i wanted to make sure i was with him  
+**[714.78s] English:** It is, you've got a few brothers, right? I've got two brothers, but I just wanted to make sure I was with him.  
 **Translation:** 
 
-**[720.00s] English:** when he died, and I got lucky, and I was in the room with him when he died.  
+**[720.00s] English:** When he died, and I got lucky—I was in the room with him when he died.  
 **Translation:** 
 
 **[723.64s] English:** You were in the room with your brother, and you weren't?  
 **Translation:** 
 
-**[726.46s] English:** No, my brother wasn't there. We were kind of doing shifts. I was there. I spent the night  
+**[726.46s] English:** No, my brother wasn't there. We were kind of doing shifts. I was there, and I spent the night.  
+**Translation:** Vocabulary: shifts: 轮班
+
+**[730.44s] English:** My dad died. He died early in the morning, and I heard the death rattle and the last breath.  
 **Translation:** 
 
-**[730.44s] English:** my dad died. He died early in the morning, and I heard the death rattle, the last breath,  
+**[736.12s] English:** And it was just, I think it was; he knew I was there, and I think that just probably  
+**Translation:** Vocabulary: rattle: 死亡时的响声
+
+**[742.12s] English:** It meant something to him, and I'm just glad I was there.  
 **Translation:** 
 
-**[736.12s] English:** and it was just, I think it was, he knew I was there, and I think that just probably  
-**Translation:** 
-
-**[742.12s] English:** meant something to him, and I'm just glad I was there.  
-**Translation:** 
-
-**[745.02s] English:** Does that make you sad that life is ephemeral, like you said?  
+**[745.02s] English:** Does that make you sad that life is ephemeral, as you said?  
 **Translation:** Vocabulary: ephemeral: 短暂的
 
 **[749.02s] English:** Yeah.  
@@ -607,13 +608,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[751.04s] English:** What do you think about your own death? Do you meditate on that?  
 **Translation:** Vocabulary: meditate: 静思
 
-**[753.88s] English:** I think the actual, if there is a point to life, it's to hopefully not fear death,  
+**[753.88s] English:** I think that, if there is a point to life, it's to hopefully not fear death.  
 **Translation:** 
 
-**[761.90s] English:** to accept reality. I think that's important. I think so much goes awry in the human condition  
+**[761.90s] English:** To accept reality is important. I think so much goes awry in the human condition.  
 **Translation:** 
 
-**[767.16s] English:** when we lose touch with reality. Every political system that's led to mass murder and everything,  
+**[767.16s] English:** When we lose touch with reality, every political system that has led to mass murder and everything,  
 **Translation:** 
 
 **[773.82s] English:** I think it's because the tenants of those...  
@@ -622,43 +623,43 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[779.20s] English:** Right.  
 **Translation:** 
 
-**[780.20s] English:** ...political philosophies ended up being utopian. They were detached from reality,  
+**[780.20s] English:** ...political philosophies ended up being utopian. They were detached from reality.  
 **Translation:** Vocabulary: detached: 脱离实际; philosophies: 哲学; utopian: 乌托邦
 
-**[784.20s] English:** detached from nature, and so I think it's very important to accept and acknowledge your own  
+**[784.20s] English:** Detached from nature, and so I think it's very important to accept and acknowledge your own.  
 **Translation:** 
 
-**[790.48s] English:** mortality. I think it's the foundation for what makes a good person, a moral person,  
+**[790.48s] English:** Mortality. I think it's the foundation for what makes a good person, a moral person.  
 **Translation:** 
 
-**[795.04s] English:** a contributing member of society, because it's true. True things should be the foundation of  
+**[795.04s] English:** A contributing member of society, because it's true. True things should be the foundation of.  
 **Translation:** 
 
-**[800.40s] English:** all things. If what you believe is based on illusion, you're going to end up doing destruction.  
+**[800.40s] English:** All things. If what you believe is based on illusion, you're going to end up doing destruction.  
 **Translation:** 
 
-**[805.74s] English:** Whether that destruction's on a scale of one to ten,  
+**[805.74s] English:** Whether that destruction is on a scale of one to ten,  
 **Translation:** 
 
-**[808.08s] English:** you are going to end up doing destruction.  
+**[808.08s] English:** You are going to end up doing destruction.  
 **Translation:** 
 
-**[809.18s] English:** You're going to be destructed because it's not real. It's a fantasy. It doesn't exist.  
+**[809.18s] English:** You're going to be destroyed because it's not real. It's a fantasy. It doesn't exist.  
 **Translation:** 
 
 **[813.06s] English:** See, the thing is, though, truth is about... I don't think you can ever reach truth. Truth is  
-**Translation:** Vocabulary: destructed: 毁灭
-
-**[817.16s] English:** about constantly digging. To push back on your idea that you should accept death, I think the  
 **Translation:** 
 
-**[822.38s] English:** more honest response to death... The least honest is to run away from it, create illusions that help  
+**[817.16s] English:** About constantly digging. To push back on your idea that you should accept death, I think the  
 **Translation:** 
 
-**[829.06s] English:** you imagine that there's not a death. The next is to accept it, but the real honest one is to fear  
+**[822.38s] English:** More honest responses to death... The least honest is to run away from it and create illusions that help.  
 **Translation:** 
 
-**[836.48s] English:** it because...  
+**[829.06s] English:** You imagine that there's not a death. The next is to accept it, but the real, honest one is to fear.  
+**Translation:** 
+
+**[836.48s] English:** It's because...  
 **Translation:** 
 
 **[839.18s] English:** I mean, I'm...  
@@ -670,28 +671,28 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[841.26s] English:** He's a philosopher.  
 **Translation:** 
 
-**[842.88s] English:** He wrote a book called Denial of Death.  
+**[842.88s] English:** He wrote a book called "Denial of Death.  
+**Translation:** Vocabulary: denial: 否认
+
+**[844.92s] English:** He says that much of the human condition is based on the fear of mortality.  
 **Translation:** 
 
-**[844.92s] English:** He says that much of the human condition is based in the fear of mortality.  
+**[851.58s] English:** That's the creative force of human energy.  
 **Translation:** 
 
-**[851.58s] English:** That's the creative force of the human energy.  
+**[855.12s] English:** Freud said, "Do you want to sleep with your mother?  
 **Translation:** 
 
-**[855.12s] English:** Freud said, do you want to sleep with your mother?  
-**Translation:** 
-
-**[857.22s] English:** He said, no, that's not what motivates you.  
+**[857.22s] English:** He said, "No, that's not what motivates you.  
 **Translation:** Vocabulary: motivates: 激励
 
 **[860.10s] English:** Maybe his mom wasn't hot, though.  
 **Translation:** 
 
-**[862.48s] English:** Or he wasn't Greek because apparently Oedipal.  
-**Translation:** Vocabulary: oedipal: 恋母情结
+**[862.48s] English:** Or he wasn't Greek, because apparently it was Oedipal.  
+**Translation:** Vocabulary: oedipal: 恋母的
 
-**[864.98s] English:** We found that all things good and bad.  
+**[864.98s] English:** We found that all things, both good and bad.  
 **Translation:** 
 
 **[867.86s] English:** Thanks.  
@@ -700,7 +701,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[868.64s] English:** Thanks for that.  
 **Translation:** 
 
-**[870.00s] English:** I just don't know if his mom was a looker or not.  
+**[870.00s] English:** I just don't know if his mom was a looker, or not.  
 **Translation:** 
 
 **[872.04s] English:** I'd have to Google it.  
@@ -709,19 +710,19 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[873.14s] English:** All right.  
 **Translation:** 
 
-**[875.28s] English:** I'll look up on Google Images.  
+**[875.28s] English:** I'll look it up on Google Images.  
 **Translation:** 
 
-**[877.54s] English:** I think that on us, as he says, the thing that we run away from is that there's a terror.  
+**[877.54s] English:** I think that, as he says, the thing we run away from is that there's a terror.  
 **Translation:** 
 
 **[884.42s] English:** He calls it terror.  
 **Translation:** 
 
-**[886.28s] English:** There's something called terror management theory that some philosophers after him followed on  
-**Translation:** 
+**[886.28s] English:** There's something called Terror Management Theory, which some philosophers followed up on.  
+**Translation:** Vocabulary: philosophers: 哲学家
 
-**[891.72s] English:** that we're basically trying to run away from this fear.  
+**[891.72s] English:** That we're basically trying to run away from this fear.  
 **Translation:** 
 
 **[896.26s] English:** Acceptance is actually creating an illusion for yourself.  
@@ -730,8 +731,8 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[900.00s] English:** You can actually accept something as terrifying as this.  
 **Translation:** 
 
-**[903.80s] English:** He's more with the Stoics.  
-**Translation:** Vocabulary: stoics: 坚忍的人; terrifying: 可怕的
+**[903.80s] English:** He's more aligned with the Stoics.  
+**Translation:** Vocabulary: aligned: 一致; stoics: 斯多葛派; terrifying: 恐怖的
 
 **[905.36s] English:** The Stoics constantly meditate on their death.  
 **Translation:** 
@@ -739,16 +740,16 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[908.02s] English:** What does that mean?  
 **Translation:** Vocabulary: meditate: 静思
 
-**[912.40s] English:** Acceptance of death isn't a thing you do on a Monday and then you're done.  
+**[912.40s] English:** Acceptance of death isn't something you do on a Monday and then you're done.  
 **Translation:** 
 
-**[917.04s] English:** It's a thing you constantly have to meditate on, reminding yourself this ride is over.  
+**[917.04s] English:** It's a thing you constantly have to meditate on, reminding yourself that this ride is over.  
 **Translation:** 
 
 **[923.68s] English:** It could be over today.  
 **Translation:** 
 
-**[925.26s] English:** That's something if you think about every single day.  
+**[925.26s] English:** That's something—if you think about it every single day.  
 **Translation:** 
 
 **[928.32s] English:** It gives you an appreciation of Woody Allen.  
@@ -757,16 +758,16 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[930.00s] English:** Woody Allen movies, at least.  
 **Translation:** Vocabulary: woody: 木质的
 
-**[931.78s] English:** It gives you appreciation of basically everything, including Woody Allen movies,  
+**[931.78s] English:** It gives you an appreciation of basically everything, including Woody Allen movies.  
 **Translation:** 
 
-**[935.82s] English:** which shows you how deep your appreciation for life could be.  
+**[935.82s] English:** Which shows you how deep your appreciation for life could be.  
 **Translation:** 
 
-**[940.18s] English:** I actually haven't been following much of Woody Allen,  
+**[940.18s] English:** I actually haven't been following much of Woody Allen.  
 **Translation:** 
 
-**[942.86s] English:** but apparently he's been a troublemaker for most of his life.  
+**[942.86s] English:** But apparently, he's been a troublemaker for most of his life.  
 **Translation:** Vocabulary: troublemaker: 捣蛋鬼
 
 **[946.92s] English:** Yeah, he's caused a little bit of strife.  
@@ -784,76 +785,76 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[958.96s] English:** The guy's...  
 **Translation:** 
 
-**[960.00s] English:** go down in history as the greatest he's made i mean a movie a year and they're all you can always  
+**[960.00s] English:** Go down in history as the greatest. He's made a movie a year, and they're all you can always  
 **Translation:** 
 
-**[964.96s] English:** find something good about each movie like the dialogue or whatever um i love what you're saying  
+**[964.96s] English:** Find something good about each movie, like the dialogue or whatever. Um, I love what you're saying.  
 **Translation:** 
 
-**[969.72s] English:** it's interesting but the only thing i would say to push back a little bit since we're playing a  
+**[969.72s] English:** It's interesting, but the only thing I would say to push back a little bit since we're playing a  
 **Translation:** 
 
-**[972.82s] English:** little table tennis here yeah is um i don't know if it's a choice to fear death that's more of an  
+**[972.82s] English:** Little table tennis here, yeah. Is um, I don't know if it's a choice to fear death—that's more of an  
 **Translation:** 
 
-**[978.00s] English:** it seems more instinctual it seems like something that nature wants you to do because i've been in  
-**Translation:** Vocabulary: instinctual: 本能的
+**[978.00s] English:** It seems more instinctual; it seems like something that nature wants you to do, because I've been in  
+**Translation:** Vocabulary: instinctual: 天性使然
 
-**[983.86s] English:** positions where i thought i was going to die like i've been shot and i had those moments and then  
+**[983.86s] English:** Positions where I thought I was going to die—like, I've been shot—and I had those moments, and then...  
 **Translation:** 
 
-**[988.68s] English:** nature also uh you know kicks in an instinct which is acceptance where you kind of i don't  
+**[988.68s] English:** Nature also, uh, you know, kicks in an instinct which is acceptance, where you kind of just go with it.  
 **Translation:** Vocabulary: instinct: 本能
 
-**[995.62s] English:** know it's a chemical release or whatever i don't know you know we're all we're robots basically so  
+**[995.62s] English:** Know, it's a chemical release or whatever; I don't know. You know, we're all basically robots, so.  
 **Translation:** 
 
-**[1000.06s] English:** some sort of chemical is released that protects you but there is an acceptance i don't know how  
+**[1000.06s] English:** Some sort of chemical is released that protects you, but there is an acceptance; I don't know how.  
 **Translation:** 
 
-**[1004.76s] English:** much uh of it was a conscious choice probably very little um and that's the point i'm making  
+**[1004.76s] English:** Much of it was a conscious choice, probably very little—and that's the point I'm making.  
 **Translation:** 
 
-**[1010.34s] English:** is it's it's instinctual we don't really have a choice in fearing death otherwise there would be  
+**[1010.34s] English:** Is it instinctual? We don't really have a choice in fearing death; otherwise, there would be.  
+**Translation:** Vocabulary: fearing: 害怕
+
+**[1014.74s] English:** No progression; we wouldn't all life seems to want to.  
 **Translation:** 
 
-**[1014.74s] English:** no progression we wouldn't all life seems to want to  
+**[1018.18s] English:** You.  
+**Translation:** Vocabulary: progression: 发展
+
+**[1018.66s] English:** Survive, uh, not by choice but by instinct. So, he argues that the fear is not the instinctual.  
 **Translation:** 
 
-**[1018.18s] English:** you  
-**Translation:** Vocabulary: progression: 进展
+**[1025.84s] English:** It's not the animalistic stuff that's the thing that makes us special; it's what humans are able  
+**Translation:** Vocabulary: animalistic: 动物本能的
 
-**[1018.66s] English:** survive uh not by choice but by instinct so he he argues that the fear is not the instinctual  
+**[1031.06s] English:** To do is to have the knowledge that we're going to die one day, whereas animals don't have that and therefore fear it less.  
 **Translation:** 
 
-**[1025.84s] English:** it's not the animalistic stuff that's the thing that makes us special is the what humans are able  
-**Translation:** Vocabulary: animalistic: 动物本能
-
-**[1031.06s] English:** to do is to have a knowledge that we're going to die one day animals don't have that animals fear  
+**[1035.80s] English:** Is it instinctual? It's like, "Holy shit, what's that sound over there!" He says, "We're actually able to.  
 **Translation:** 
 
-**[1035.80s] English:** is instinctual it's like holy shit what's that sound over there he says we're actually able to  
+**[1041.14s] English:** Contemplate the fact that this ride ends, and that kind of cognitive construct is difficult for.  
 **Translation:** 
 
-**[1041.14s] English:** contemplate the fact that this ride ends and that that kind of cognitive construct is difficult for  
-**Translation:** 
-
-**[1048.66s] English:** us to deal with like what the hell does that mean like just to just to think about it's going to be  
+**[1048.66s] English:** Us to deal with, like, what the hell does that mean? Like, just to think about it's going to be.  
 **Translation:** Vocabulary: cognitive: 认知; contemplate: 深思
 
-**[1054.90s] English:** over at a certain point it's just over lights out like it it's very difficult to kind of load that  
+**[1054.90s] English:** At a certain point, it's just like when the lights go out; it's very difficult to kind of load that.  
 **Translation:** 
 
-**[1062.96s] English:** into whatever this like little brain we got like what does that actually mean maybe that's what  
+**[1062.96s] English:** Into whatever this little brain of ours, what does that actually mean? Maybe that's what.  
 **Translation:** 
 
-**[1069.82s] English:** gives everything meaning yeah because if everything lasted forever if uh if this went  
+**[1069.82s] English:** Gives everything meaning, yeah, because if everything lasted forever—if uh—this went on forever,  
 **Translation:** 
 
-**[1075.34s] English:** on ad infinitum there would be no meaning to it i'd be like hey if i don't see it i'm going to  
-**Translation:** Vocabulary: infinitum: 无穷尽
+**[1075.34s] English:** On ad infinitum, there would be no meaning to it; I'd be like, "Hey, if I don't see it, I'm going to...  
+**Translation:** 
 
-**[1078.66s] English:** tomorrow i'll see in a million years  
+**[1078.66s] English:** Tomorrow, I'll see in a million years.  
 **Translation:** 
 
 **[1080.00s] English:** There would be no meaning.  
@@ -868,56 +869,56 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1083.52s] English:** There would be nothing of magnitude or superficiality.  
 **Translation:** 
 
-**[1087.80s] English:** It would all just be this kind of – it would be torture.  
-**Translation:** Vocabulary: superficiality: 表面性
+**[1087.80s] English:** It would all just be this kind of thing— it would be torture.  
+**Translation:** Vocabulary: superficiality: 表面性; torture: 折磨
 
 **[1091.20s] English:** That would actually be torture to be here forever.  
 **Translation:** 
 
-**[1094.04s] English:** I mean I'm already sick of this place, and I'm just in my 40s.  
+**[1094.04s] English:** I mean, I'm already sick of this place, and I'm just in my 40s.  
 **Translation:** 
 
-**[1097.64s] English:** Like I'm done.  
+**[1097.64s] English:** Like, I'm done.  
 **Translation:** 
 
-**[1098.80s] English:** I'm sick of me.  
+**[1098.80s] English:** I'm sick of myself.  
 **Translation:** 
 
 **[1099.66s] English:** I'm sick of everything.  
 **Translation:** 
 
-**[1101.58s] English:** A lot of people, when they talk about mortality, they consider mortality appealing  
+**[1101.58s] English:** A lot of people, when they talk about mortality, they consider it appealing.  
 **Translation:** Vocabulary: appealing: 有吸引力的
 
-**[1108.36s] English:** because you get a chance to do basically all these things you might not get a chance to do otherwise,  
+**[1108.36s] English:** Because you get a chance to do basically all these things you might not get a chance to do otherwise.  
 **Translation:** 
 
-**[1115.66s] English:** like all the kinds of travel broadly, read every book, explore every idea, do every hobby,  
+**[1115.66s] English:** Like all kinds of travel broadly, read every book, explore every idea, and do every hobby.  
+**Translation:** Vocabulary: broadly: 广泛地
+
+**[1121.48s] English:** All those kinds of things.  
 **Translation:** 
 
-**[1121.48s] English:** all those kinds of things.  
+**[1122.60s] English:** Somebody I was talking to mentioned that the reality of being immortal would be more likely –  
+**Translation:** Vocabulary: immortal: 永生的
+
+**[1130.72s] English:** I like this idea; more likely, you'd just sit there doing nothing.  
 **Translation:** 
 
-**[1122.60s] English:** Somebody I was talking to mentioned the reality of being immortal would be more likely –  
-**Translation:** Vocabulary: immortal: 长生不老
-
-**[1130.72s] English:** I like this idea – more likely would be you just sitting there doing nothing  
-**Translation:** 
-
-**[1135.74s] English:** and putting off.  
+**[1135.74s] English:** And putting it off.  
 **Translation:** 
 
 **[1138.36s] English:** Putting off all that travel and exploration until later because you'll always have time.  
 **Translation:** 
 
-**[1143.26s] English:** And so what you're going to have, what actual immortality will look like for a bunch of humans  
+**[1143.26s] English:** And so, what you're going to have is what actual immortality will look like for a bunch of humans.  
 **Translation:** Vocabulary: immortality: 永生
 
-**[1147.52s] English:** is people sitting there doing nothing.  
+**[1147.52s] English:** Is there anyone sitting there doing nothing?  
 **Translation:** 
 
-**[1149.90s] English:** It would be like a Greek caffeinia, just sitting around drinking coffee, watching.  
-**Translation:** Vocabulary: caffeinia: 咖啡馆
+**[1149.90s] English:** It would be like a Greek cafēnia, just sitting around drinking coffee, watching.  
+**Translation:** 
 
 **[1152.90s] English:** I love it.  
 **Translation:** 
@@ -925,28 +926,28 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1153.76s] English:** Yeah.  
 **Translation:** 
 
-**[1154.20s] English:** I mean it's a lazy man's paradise.  
+**[1154.20s] English:** I mean, it's a lazy man's paradise.  
 **Translation:** 
 
 **[1156.26s] English:** Yeah.  
 **Translation:** 
 
-**[1157.04s] English:** But it's so interesting because that rings true to me for what humans are like  
+**[1157.04s] English:** But it's so interesting because that rings true to me about what humans are like.  
 **Translation:** 
 
-**[1161.72s] English:** is we'll basically just put off all those exciting adventures and just be lazy,  
+**[1161.72s] English:** Is it that we'll basically just put off all those exciting adventures and just be lazy?  
 **Translation:** 
 
-**[1166.62s] English:** become lazier and lazier and lazier.  
+**[1166.62s] English:** Became lazier and lazier and laziest.  
 **Translation:** 
 
 **[1168.50s] English:** Because you'll always have a chance to do all the exciting things.  
 **Translation:** 
 
-**[1171.54s] English:** And we'll just get – we'll basically become Tim Dillon.  
+**[1171.54s] English:** And we'll basically become Tim Dillon.  
 **Translation:** 
 
-**[1173.78s] English:** We'll just sit there and have a podcast and that's it.  
+**[1173.78s] English:** We'll just sit there and have a podcast, and that's it.  
 **Translation:** Vocabulary: dillon: 迪伦
 
 **[1176.64s] English:** He works hard.  
@@ -955,13 +956,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1178.06s] English:** Yeah.  
 **Translation:** 
 
-**[1178.48s] English:** I mean that sounds actually like heaven, dude.  
+**[1178.48s] English:** I mean, that sounds actually like heaven, dude.  
 **Translation:** 
 
-**[1180.36s] English:** That's speaking of my heart really.  
+**[1180.36s] English:** That's speaking from my heart, really.  
 **Translation:** 
 
-**[1181.72s] English:** I mean I'm at heart.  
+**[1181.72s] English:** I mean, I'm at heart.  
 **Translation:** 
 
 **[1183.02s] English:** I'm a very lazy person.  
@@ -970,10 +971,10 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1184.74s] English:** I always try to find ways to lie down.  
 **Translation:** 
 
-**[1187.64s] English:** Like if I'm sitting, I'll figure out a way to kind of contort myself to lay down.  
+**[1187.64s] English:** Like, if I'm sitting, I'll figure out a way to kind of contort myself to lay down.  
 **Translation:** Vocabulary: contort: 扭曲
 
-**[1191.12s] English:** That's an interesting thing to like – yeah.  
+**[1191.12s] English:** That's an interesting thing to like — yeah.  
 **Translation:** 
 
 **[1193.80s] English:** If you can always push something off, yeah.  
@@ -982,85 +983,85 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1197.88s] English:** Yeah, I like that.  
 **Translation:** 
 
-**[1199.46s] English:** I think –  
+**[1199.46s] English:** I think—  
 **Translation:** 
 
-**[1200.00s] English:** that's heaven and um see we just changed your mind you kind of like the immortality yeah i kind of  
+**[1200.00s] English:** That's heaven, and um, see, we just changed your mind—you kind of like the immortality, yeah, I kind of thought so.  
 **Translation:** 
 
-**[1205.44s] English:** like it no so there'll be no thirsts no you can always put it off hey i wanna i wanna i wanna have  
-**Translation:** Vocabulary: wanna: 想要
+**[1205.44s] English:** Like it or not, there will be no more thirsts. No, you can always put it off. Hey, I wanna do it, I wanna do it, I wanna do it!  
+**Translation:** Vocabulary: thirsts: 口渴; wanna: 想要
 
-**[1210.40s] English:** i wanna bang this girl you're like i'll put it off but now i'm thinking about muslim heaven and they  
+**[1210.40s] English:** I want to bang this girl. You know, I'll put it off, but now I'm thinking about Muslim heaven and they...  
 **Translation:** 
 
-**[1215.36s] English:** may be offering the best deal i mean if it was an expo and they had a booth i may go with them  
-**Translation:** Vocabulary: muslim: 伊斯兰教的
+**[1215.36s] English:** May be offering the best deal, I mean, if it was an expo and they had a booth, I may go with them.  
+**Translation:** Vocabulary: muslim: 穆斯林
 
-**[1221.12s] English:** because they offer they offer 62 or 72 but then i'd get sick of them i'd want to i don't know i  
+**[1221.12s] English:** Because they offer 62 or 72, but then I'd get sick of them; I'd want to, I don't know, I  
 **Translation:** 
 
-**[1228.08s] English:** always wondered like are you given the 62 virgins or you choose can you create them like an avatar  
-**Translation:** Vocabulary: avatar: 化身
+**[1228.08s] English:** Always wondered: Are you given the 62 virgins, or do you choose? Can you create them, like an avatar?  
+**Translation:** Vocabulary: avatar: 化身; virgins: 处女
 
-**[1234.00s] English:** like a video game or are you just given i don't know what the number why it's important to have  
+**[1234.00s] English:** Like a video game, or are you just given I don't know what the number? Why is it important to have?  
 **Translation:** 
 
-**[1238.32s] English:** that high number first of all i think it's a mistranslation about the virgins but outside of  
+**[1238.32s] English:** That high number, first of all, I think it's a mistranslation about the virgins, but outside of that,...  
 **Translation:** Vocabulary: mistranslation: 误译
 
-**[1242.96s] English:** that outside of that i feel like the conversation is really important i i don't think they ever  
+**[1242.96s] English:** That outside of that, I feel like the conversation is really important; I don't think they ever.  
 **Translation:** 
 
-**[1248.80s] English:** specify like what kind of books these girls read like what are they what are they into like  
+**[1248.80s] English:** Specify, like, what kind of books these girls read. Like, what are they into?  
+**Translation:** Vocabulary: specify: 详细说明
+
+**[1255.76s] English:** The quality of the conversation, I think, if you're talking about it.  
 **Translation:** 
 
-**[1255.76s] English:** the quality of the conversation i think if you're talking about it  
-**Translation:** 
-
-**[1258.08s] English:** the quality of the intellect and the conversation and the personalities  
+**[1258.08s] English:** The quality of the intellect, and the conversation, and the personalities,...  
 **Translation:** Vocabulary: intellect: 智力
 
-**[1261.84s] English:** is way more important and the greeks have an ancient uh ancient expression pad metro  
+**[1261.84s] English:** Is way more important, and the Greeks have an ancient, ancient expression: "pad metro.  
 **Translation:** 
 
-**[1265.92s] English:** not a stone which my mother always used to say which is everything in moderation nothing in  
-**Translation:** Vocabulary: metro: 地铁; moderation: 适度
+**[1265.92s] English:** Not a stone, which my mother always used to say, is everything in moderation; nothing in excess.  
+**Translation:** Vocabulary: metro: 地铁; moderation: 中庸之道
 
-**[1269.44s] English:** excess so try and always get the status quo and uh yeah that many women eventually it's like  
+**[1269.44s] English:** Excess, so try and always get the status quo, and, uh, yeah, that many women eventually it's like.  
 **Translation:** 
 
-**[1276.88s] English:** the magic johnson effect isaiah thomas effect it's just too much and you're gonna end up you're gonna  
-**Translation:** Vocabulary: isaiah: 例子
+**[1276.88s] English:** The Magic Johnson Effect, Isaiah Thomas Effect — it's just too much, and you're gonna end up...  
+**Translation:** Vocabulary: isaiah: 以赛亚
 
-**[1281.68s] English:** end up banging a dude is what i'm saying you're gonna get sick of it because it's too much  
+**[1281.68s] English:** End up banging a dude is what I'm saying; you're gonna get sick of it because it's too much.  
 **Translation:** 
 
-**[1285.28s] English:** and what there's going to be a eunuch that's going to be a eunuch that's going to be a eunuch that's  
+**[1285.28s] English:** And what, there's going to be a eunuch that's going to be a eunuch.  
+**Translation:** Vocabulary: banging: 频繁发生性行为; eunuch: 太监
+
+**[1287.76s] English:** Going to be a eunuch that finds its way into your harem—that's been proven throughout history, every...  
 **Translation:** 
 
-**[1287.76s] English:** going to be a eunuch that finds its way into your harem that's been proven throughout history every  
+**[1291.60s] English:** Empire: When you have all that power, and again, this goes back to power corrupting—if you have...  
+**Translation:** Vocabulary: corrupting: 腐化; harem: 后宫
+
+**[1296.88s] English:** There's no struggle, there's no meaning; the value is in the journey and the working.  
 **Translation:** 
 
-**[1291.60s] English:** empire when you have all that power and again this goes back to power corrupting if you have if  
-**Translation:** Vocabulary: corrupting: 腐蚀; eunuch: 太监; harem: 后宫
-
-**[1296.88s] English:** there's no struggle there's no meaning there's the value is from the journey the the working  
-**Translation:** 
-
-**[1302.08s] English:** hard to struggle and if it's just given to you because you're a sultan or you're alexander the  
+**[1302.08s] English:** Hard to struggle and if it's just given to you, because you're a Sultan or Alexander the  
 **Translation:** Vocabulary: sultan: 苏丹
 
-**[1306.80s] English:** great or whatever you're gonna get bored and you're gonna bang a dude that's it's i think  
+**[1306.80s] English:** Great, or whatever; you're gonna get bored, and you're gonna bang a dude—that's it. I think.  
 **Translation:** 
 
-**[1311.60s] English:** that's a scientific axiom actually eventually you'll get bored and bang a dude yeah but i think  
+**[1311.60s] English:** That's a scientific axiom, actually. Eventually, you'll get bored and bang a dude, yeah, but I think.  
 **Translation:** Vocabulary: axiom: 公理
 
-**[1317.76s] English:** that's a scientific axiom actually eventually you'll get bored and bang a dude yeah but i think  
+**[1317.76s] English:** That's a scientific axiom, actually. Eventually, you'll get bored and bang a dude, yeah, but I think.  
 **Translation:** 
 
-**[1320.00s] English:** It all ends up in robots, and then the robots rebel, and then the humans will be destroyed.  
+**[1320.00s] English:** It all ends up with robots, and then the robots rebel, and then the humans will be destroyed.  
 **Translation:** 
 
 **[1323.82s] English:** Yeah.  
@@ -1069,7 +1070,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1324.70s] English:** I'm sorry.  
 **Translation:** 
 
-**[1325.18s] English:** If we're speaking truth, you said the value of life, one of the highest ideals is to seek truth, I think, if we're being honest.  
+**[1325.18s] English:** If we're speaking the truth, you said that the value of life is one of the highest ideals—to seek truth. I think, if we're being honest.  
 **Translation:** 
 
 **[1334.00s] English:** Can I ask you a quick question?  
@@ -1081,25 +1082,25 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1335.74s] English:** I come from small islands, right?  
 **Translation:** 
 
-**[1338.12s] English:** And so there's a stereotype that that's where they bang animals.  
+**[1338.12s] English:** And so, there's a stereotype that they bang animals there.  
 **Translation:** 
 
-**[1340.30s] English:** But if you come from a very small community, an island or something, and you have the choice of banging a family member or an animal, which one is worse on the moral scale?  
-**Translation:** Vocabulary: stereotype: 刻板印象
+**[1340.30s] English:** But if you come from a very small community—an island, for example—and you have the choice of harming a family member or an animal, which one is worse on the moral scale?  
+**Translation:** Vocabulary: harming: 伤害; stereotype: 刻板印象
 
 **[1348.40s] English:** Because you're technically not related to the animal.  
 **Translation:** 
 
 **[1351.84s] English:** Right.  
-**Translation:** 
+**Translation:** Vocabulary: technically: 实际上
 
 **[1352.30s] English:** This is interesting.  
 **Translation:** 
 
-**[1353.06s] English:** I mean, all of these are human constructs, these ideas.  
-**Translation:** Vocabulary: constructs: 人为构建
+**[1353.06s] English:** I mean, all of these are human constructs; these ideas.  
+**Translation:** Vocabulary: constructs: 人为构建的概念
 
-**[1355.40s] English:** But for me personally, taboo would be more taboo to have sex with a family member.  
+**[1355.40s] English:** But, for me personally, taboo would be even more taboo to have sex with a family member.  
 **Translation:** 
 
 **[1361.40s] English:** I mean, animal?  
@@ -1108,10 +1109,10 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1362.34s] English:** It's good to know where you stand on that.  
 **Translation:** 
 
-**[1363.94s] English:** I think your viewers, if they didn't know they had that question, they just learned a little bit about you, and now I know.  
-**Translation:** 
+**[1363.94s] English:** I think your viewers, if they didn't know they had that question, just learned a little bit about you, and now I know.  
+**Translation:** Vocabulary: viewers: 观众
 
-**[1370.54s] English:** I look forward to the internet clipping that out.  
+**[1370.54s] English:** I look forward to the Internet clipping that out.  
 **Translation:** 
 
 **[1376.02s] English:** Yeah.  
@@ -1123,265 +1124,265 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1377.22s] English:** Listen.  
 **Translation:** 
 
-**[1377.58s] English:** Outside of that, I do think about that a lot.  
+**[1377.58s] English:** Outside of that, I do think about it a lot.  
 **Translation:** 
 
-**[1381.96s] English:** It sounds ridiculous about morality connected to animals in terms of all the factory farming and so on.  
+**[1381.96s] English:** It sounds ridiculous when it comes to connecting morality to animals, especially in terms of all the factory farming and so on.  
 **Translation:** Vocabulary: morality: 道德
 
-**[1389.82s] English:** It seems like that's one of the things we'll look, because I love meat, but I kind of feel bad about it.  
+**[1389.82s] English:** It seems like that's one of the things we'll look into, because I love meat, but I kind of feel bad about it.  
 **Translation:** 
 
-**[1395.96s] English:** And bad in a way where I think if we look like 100 years from now, we'll look back at this time as like one of the great like tortures and injustices.  
+**[1395.96s] English:** And bad in a way where I think, if we look 100 years from now, we'll look back at this time as one of the great tortures and injustices.  
 **Translation:** Vocabulary: tortures: 折磨
 
 **[1407.58s] English:** That we humans have committed.  
 **Translation:** 
 
-**[1410.44s] English:** And I mean, all that has to do with the sex with the animal has to do with consent and about the experience of suffering of animals.  
+**[1410.44s] English:** And I mean, all that has to do with sex with an animal has to do with consent and the experience of suffering of animals.  
 **Translation:** 
 
 **[1417.46s] English:** The reason I think about that personally a lot, because I think about robotics.  
 **Translation:** 
 
-**[1421.88s] English:** I think about creating artificial consciousnesses, artificial beings that have some elements of the human nature.  
-**Translation:** Vocabulary: consciousnesses: 人工意识
+**[1421.88s] English:** I think about creating artificial consciousnesses—artificial beings that have some elements of human nature.  
+**Translation:** Vocabulary: consciousnesses: 人工意识; robotics: 机器人技术
 
-**[1432.00s] English:** And then you start to think like, well, what does it mean to suffer?  
+**[1432.00s] English:** And then you start to think: well, what does it mean to suffer?  
 **Translation:** 
 
-**[1435.46s] English:** What does it mean for?  
+**[1435.46s] English:** What does it mean?  
 **Translation:** 
 
-**[1437.58s] English:** Entity to exist such that it deserves.  
+**[1437.58s] English:** An entity must exist such that it deserves.  
 **Translation:** 
 
-**[1440.00s] English:** rights this is something that the founding fathers were thinking about like you know all  
+**[1440.00s] English:** Rights, this is something that the founding fathers were thinking about, like you know, all.  
 **Translation:** Vocabulary: founding: 创立
 
-**[1444.96s] English:** men are created equal what is it which who is included in the men who who's not in that in that  
+**[1444.96s] English:** Men are created equal. What is it that is included in the "men" who are referred to, and who is not?  
 **Translation:** 
 
-**[1450.56s] English:** sentence and our animals included in that are robots i honestly think that there will be a  
+**[1450.56s] English:** Sentence and our animals, including those that are robots, I honestly think that there will be a  
 **Translation:** 
 
-**[1456.00s] English:** civil rights movement for robots in the future i don't i don't know is that the turing test the  
+**[1456.00s] English:** Civil rights movement for robots in the future? I don't know if that's the Turing test, but...  
 **Translation:** 
 
-**[1461.00s] English:** way you try to is that what they call it where you're trying to the uh and see if a i can think  
+**[1461.00s] English:** The way you try to do it is that what they call it, where you're trying to see if... I can think.  
 **Translation:** Vocabulary: turing: 图灵测试
 
-**[1466.60s] English:** like a human or whatever or feel like a human well it's uh the turing test closely defined is  
+**[1466.60s] English:** Like a human, or whatever, or feel like a human? Well, it's uh, the Turing test, closely defined, is  
 **Translation:** 
 
-**[1471.88s] English:** more about talk like a human so you can you can imagine systems they're able to you can have a  
+**[1471.88s] English:** More about talking like a human, so you can imagine how systems they're able to interact in a way that's more natural and intuitive.  
+**Translation:** Vocabulary: intuitive: 直觉的
+
+**[1479.20s] English:** Conversation like this, and I would be a robot, for example, but that doesn't mean I would. In  
 **Translation:** 
 
-**[1479.20s] English:** conversation like this and i would be a robot for example but that doesn't mean i would in the in  
+**[1485.60s] English:** Society, that doesn't mean I deserve rights or that doesn't mean I would be conscious; it doesn't mean  
 **Translation:** 
 
-**[1485.60s] English:** society that doesn't mean i deserve rights or that doesn't mean i would be conscious it doesn't mean  
+**[1491.34s] English:** That I would be able to suffer and to experience pleasure, dream, and all those kinds of human experiences.  
 **Translation:** 
 
-**[1491.34s] English:** that i would be able to suffer and to uh experience pleasure and dream and all those kinds of human  
+**[1496.58s] English:** Things: the question isn't whether you're able to talk, which is passing the Turing Test; the question is...  
 **Translation:** 
 
-**[1496.58s] English:** things the question isn't whether you're able to talk which is passing the turing test the question  
+**[1501.66s] English:** Is it whether you're able to feel, to be — I mean, I go back to suffering; the thing is that our  
 **Translation:** 
 
-**[1501.66s] English:** is whether you're able to feel to be uh i mean i go back to suffering the thing that the that our  
+**[1510.40s] English:** Documents protect us against suffering, like we don't want humans to suffer, and if a robot can.  
 **Translation:** 
 
-**[1510.40s] English:** documents protect us against is uh suffering like we don't want humans to suffer and if a robot can  
+**[1519.32s] English:** Suffer that discussion starts being about, like, shouldn't we protect them?  
 **Translation:** 
 
-**[1519.32s] English:** suffer that discussion starts being about like well shouldn't we protect them  
+**[1526.58s] English:** Currently, we don't protect animals; we protect that dog. There are laws, and there's actual legislation.  
 **Translation:** 
 
-**[1526.58s] English:** currently we don't protect animals we protect that dog there's laws there's actual legislation  
+**[1532.04s] English:** That protects dogs from torture, places? Yeah, and you know what—dogs are something I don't think  
 **Translation:** 
 
-**[1532.04s] English:** that protects dogs for torture places yeah and you know what dogs is something i don't think  
+**[1536.94s] English:** People really understand enough about it; it's one of my obsessions, so um, they my dad always used.  
+**Translation:** Vocabulary: obsessions: 痴迷; torture: 折磨
+
+**[1543.74s] English:** To say, though, he goes; those things are basically human, and I mean, they dream.  
 **Translation:** 
 
-**[1536.94s] English:** people really understand enough about it's one of my obsessions so um they they my dad always used  
-**Translation:** Vocabulary: obsessions: 痴迷
+**[1548.74s] English:** Have anxiety, uh, and what people often overlook about dogs is that without dogs, we wouldn't be here.  
+**Translation:** Vocabulary: overlook: 忽视
 
-**[1543.74s] English:** to say though he goes those things those things are basically human and i mean they dream they  
+**[1554.84s] English:** We would not have.  
 **Translation:** 
 
-**[1548.74s] English:** have anxiety uh and what people often overlook about dogs is without dogs we wouldn't be here  
-**Translation:** Vocabulary: overlook: 忽略
-
-**[1554.84s] English:** we would not have  
+**[1556.58s] English:** Ever evolved from hunter-gatherers,  
 **Translation:** 
 
-**[1556.58s] English:** ever evolved from hunter-gatherer  
+**[1560.00s] English:** To agrarian, to civilization. We wouldn't have cities. We wouldn't have anything. I mean,  
 **Translation:** 
 
-**[1560.00s] English:** to agrarian, to civilization. We wouldn't have cities. We wouldn't have anything. I mean,  
-**Translation:** 
-
-**[1566.46s] English:** they are our partner in survival and they are a magical animal. There's no animal that was,  
+**[1566.46s] English:** They are our partners in survival, and they are a magical animal. There's no animal that was,  
 **Translation:** Vocabulary: agrarian: 农业的
 
-**[1572.98s] English:** it was like destiny almost. I mean, a malleable animal. There's no animal that's that malleable  
+**[1572.98s] English:** It was like destiny almost. I mean, a malleable animal—there's no animal that's that malleable.  
 **Translation:** 
 
-**[1577.34s] English:** that in a few generations you can tailor to a specific job that you need. And without that  
-**Translation:** Vocabulary: malleable: 可塑的
+**[1577.34s] English:** That, in a few generations, you can tailor it to a specific job that you need. And without that,...  
+**Translation:** Vocabulary: destiny: 命运; malleable: 可塑的; tailor: 定制
 
-**[1583.76s] English:** animal, without dogs doing that animal, protecting our crops from scavengers and stuff,  
+**[1583.76s] English:** Animal, without dogs doing that, protecting our crops from scavengers and stuff,  
 **Translation:** 
 
-**[1590.00s] English:** you know, the list goes on, we wouldn't be here. So we, that's an often overlooked fact that human  
-**Translation:** Vocabulary: overlooked: 忽视; scavengers: 腐食动物
+**[1590.00s] English:** You know, the list goes on, and we wouldn't be here. So, that's an often overlooked fact about humans.  
+**Translation:** Vocabulary: overlooked: 被忽视; scavengers: 腐食动物
 
-**[1598.12s] English:** evolution was not done in a vacuum just with humans. I mean, without dogs, we would have  
+**[1598.12s] English:** Evolution was not done in a vacuum just with humans. I mean, without dogs, we would have  
 **Translation:** 
 
-**[1603.68s] English:** never evolved. I mean, we weren't the apex predator for most of our existence. We weren't  
-**Translation:** Vocabulary: predator: 顶级捕食者; vacuum: 真空
+**[1603.68s] English:** Never evolved. I mean, we weren't the apex predator for most of our existence. We weren't.  
+**Translation:** Vocabulary: evolved: 进化; predator: 捕食者; vacuum: 真空
 
-**[1606.68s] English:** even the apex predator. I mean, we're getting eaten by hyenas, which is my favorite animal.  
+**[1606.68s] English:** Even the apex predator. I mean, we're getting eaten by hyenas, which is my favorite animal.  
 **Translation:** 
 
-**[1610.86s] English:** And, you know, that's kind of an injustice to, I mean, I'm kind of mad at dogs. We deserve to  
+**[1610.86s] English:** And, you know, that's kind of an injustice. I mean, I'm kind of mad at dogs. We deserve to.  
 **Translation:** Vocabulary: hyenas: 鬣狗
 
-**[1614.92s] English:** get eaten by hyenas, but without dogs, we wouldn't be here. And dogs, dogs deserve  
+**[1614.92s] English:** Get eaten by hyenas, but without dogs, we wouldn't be here. And dogs—dogs deserve  
 **Translation:** 
 
-**[1619.98s] English:** the protection. So do horses. They fucking lugged us around for thousands of years. And now these  
+**[1619.98s] English:** The protection. So do horses. They fucking lugged us around for thousands of years, and now these  
 **Translation:** Vocabulary: lugged: 背负
 
-**[1624.70s] English:** fucking German psychopaths are eating them or whatever. We should not eat horse meat just on  
+**[1624.70s] English:** Fucking German psychopaths are eating them, or whatever. We should not eat horse meat, just on  
 **Translation:** 
 
-**[1629.84s] English:** like, be a good dude, man. These things lugged us around for generations. They're beautiful,  
+**[1629.84s] English:** Like, be a good dude, man. These things have lugged us around for generations. They're beautiful.  
+**Translation:** Vocabulary: psychopaths: 心理变态
+
+**[1634.56s] English:** You know, I'd rather ride them, or I don't know. I don't know. But it rubs me the wrong way that we eat horses.  
 **Translation:** 
 
-**[1634.56s] English:** you know, ride them or I don't know. I don't know. But it rubs me the wrong way that we eat horses.  
-**Translation:** 
-
-**[1640.12s] English:** Yeah. The horses one is interesting. And one of my favorite books is Animal Farm by Orwell. And  
+**[1640.12s] English:** Yeah. The horse scene is interesting. And one of my favorite books is *Animal Farm* by Orwell. And  
 **Translation:** Vocabulary: orwell: 乔治·奥威尔
 
-**[1645.02s] English:** the horses don't get a good ending in that. I kind of,  
+**[1645.02s] English:** The horses don't get a good ending in that. I kind of,  
 **Translation:** 
 
-**[1649.98s] English:** my spirit animal, I suppose, is the horse from Animal Farm, Boxer, where he says,  
+**[1649.98s] English:** My spirit animal, I suppose, is the horse from Animal Farm, Boxer, where he says,  
 **Translation:** 
 
 **[1655.08s] English:** I will work harder. That's his motto. I work really hard at stupid things. That's basically  
 **Translation:** 
 
-**[1661.96s] English:** what I did. I just hit my head against the wall for no reason whatsoever.  
+**[1661.96s] English:** What I did. I just hit my head against the wall for no reason whatsoever.  
 **Translation:** Vocabulary: whatsoever: 毫无理由
 
-**[1665.22s] English:** But that probably fulfills, you have a big brain. You were probably born with a big brain. That  
+**[1665.22s] English:** But that probably fulfills; you have a big brain. You were probably born with a big brain. That  
 **Translation:** 
 
-**[1668.12s] English:** kind of fulfills. It's killing neurons.  
+**[1668.12s] English:** Kind of fulfills, it's killing neurons.  
 **Translation:** Vocabulary: fulfills: 满足; neurons: 神经元
 
-**[1670.14s] English:** It's exercise for you.  
+**[1670.14s] English:** It's an exercise for you.  
 **Translation:** 
 
 **[1671.60s] English:** Yeah.  
 **Translation:** 
 
-**[1672.46s] English:** Don't you think some animals deserve to be eaten though? Kind of like...  
+**[1672.46s] English:** Don't you think some animals deserve to be eaten, though? Kind of like...  
 **Translation:** 
 
 **[1675.70s] English:** Hyenas?  
 **Translation:** 
 
-**[1677.00s] English:** Come on, dude. I mean, you got to respect the hyenas.  
+**[1677.00s] English:** Come on, dude. I mean, you've got to respect the hyenas.  
 **Translation:** 
 
-**[1679.98s] English:** You got to respect the hyenas.  
+**[1679.98s] English:** You've got to respect the hyenas.  
 **Translation:** 
 
-**[1680.00s] English:** okay so let's look first of all let me just comment on the dog thing there is like conferences  
+**[1680.00s] English:** Okay, so let's look first of all. Let me just comment on the dog thing; there are like conferences.  
 **Translation:** 
 
-**[1683.92s] English:** on dog cognition from a perspective of people that study psychology cognitive science neuroscience  
+**[1683.92s] English:** On Dog Cognition from the Perspective of People Who Study Psychology, Cognitive Science, and Neuroscience.  
 **Translation:** Vocabulary: cognition: 认知; cognitive: 认知的; conferences: 会议; neuroscience: 神经科学
 
-**[1690.40s] English:** dogs are fascinating the way they move their eyes they're able to they're the only other animal  
+**[1690.40s] English:** Dogs are fascinating in the way they move their eyes; they're able to do things that no other animal can.  
 **Translation:** 
 
-**[1695.52s] English:** besides humans they're able to communicate with their eyes they can look at a thing and look back  
+**[1695.52s] English:** Besides humans, they're able to communicate with their eyes; they can look at a thing and look back.  
 **Translation:** 
 
-**[1700.64s] English:** at you and look back at the thing to communicate that we're all like through our eyes communicate  
+**[1700.64s] English:** At you, and look back at the thing to communicate that we're all like communicating through our eyes.  
 **Translation:** 
 
-**[1705.92s] English:** that we're collaborating so every other animal uses their eyes to actually look at things  
+**[1705.92s] English:** That we're collaborating, so every other animal uses their eyes to actually look at things.  
+**Translation:** Vocabulary: collaborating: 合作
+
+**[1711.36s] English:** The dogs use it to like communicate with you, with us humans. It's fascinating; there's a lot.  
 **Translation:** 
 
-**[1711.36s] English:** the dogs use it to like communicate with you with us humans it's fascinating there's a lot  
+**[1716.32s] English:** Of other elements of dogs that are amazing, yeah. I mean, if it wasn't for them, they're the ones they  
 **Translation:** 
 
-**[1716.32s] English:** of other elements of dogs that are amazing yeah i mean if it wasn't for them they're the ones they  
+**[1721.60s] English:** Were our first alarm system for predators, they would defend us. I mean, the Basenji is one of the  
 **Translation:** 
 
-**[1721.60s] English:** were our first alarm system for predators they would defend us i mean the basenji is one of the  
-**Translation:** 
-
-**[1725.44s] English:** most ancient dogs i mean they're tiny but they're fearless yeah and they would chase off lions like  
+**[1725.44s] English:** Most ancient dogs, I mean, they're tiny but they're fearless. Yeah, and they would chase off lions like.  
 **Translation:** Vocabulary: basenji: 巴塞吉; fearless: 无畏; predators: 捕食者
 
-**[1729.76s] English:** you know there'd be packs of them they'd chase off lions and protect the tribes it's it's it's  
+**[1729.76s] English:** You know, there'd be packs of them chasing off lions and protecting the tribes; it's like that.  
 **Translation:** 
 
-**[1734.48s] English:** i even get tingles like  
-**Translation:** Vocabulary: tingles: 麻酥酥
+**[1734.48s] English:** I even get tingles like.  
+**Translation:** Vocabulary: chasing: 追赶; tingles: 麻酥酥; tribes: 部落
 
-**[1735.92s] English:** thinking about dogs because i have a dog i love my dog it's just and there's something about when  
+**[1735.92s] English:** Thinking about dogs because I have one, and I love my dog. It's just, and there's something about when  
 **Translation:** 
 
-**[1739.92s] English:** you're walking with your dog off leash in the woods it like there's something about it that's  
+**[1739.92s] English:** You're walking with your dog off-leash in the woods, and it's like there's something about it that's  
 **Translation:** 
 
-**[1744.16s] English:** like that that tugs at that uh millions of years of evolution like that gut you know it's like  
+**[1744.16s] English:** Like that, that tugs at millions of years of evolution—like that gut. You know, it's like  
 **Translation:** 
 
-**[1750.88s] English:** i had a finnish friend of mine he's a comic tommy valamis once told me  
-**Translation:** Vocabulary: finnish: 芬兰的; tommy: 汤米
+**[1750.88s] English:** I had a Finnish friend of mine, he's a comic named Tommy Valamis, once told me.  
+**Translation:** Vocabulary: finnish: 芬兰的; valamis: 瓦拉马يس
 
-**[1754.80s] English:** he was like uh he was like the gut he's like i believe in it like that gut you know when you  
+**[1754.80s] English:** He was like, uh, he was like the gut; he's like, "I believe in it like that gut, you know?  
 **Translation:** 
 
-**[1759.20s] English:** have that feeling he's like always trust that because that is million those are all your  
+**[1759.20s] English:** Have that feeling; he's always trustworthy. Because that is, after all, your intuition.  
+**Translation:** Vocabulary: intuition: 直觉; trustworthy: 可靠
+
+**[1764.64s] English:** Ancestors, that's  
 **Translation:** 
 
-**[1764.64s] English:** ancestors that's  
+**[1765.92s] English:** The survival instinct of all your ancestors, from the beginning of time, is telling you, "Know.  
+**Translation:** Vocabulary: instinct: 本能
+
+**[1771.04s] English:** Hey, something's off here. Something's you know, so don't get in the car with Ted Bundy, is what.  
 **Translation:** 
 
-**[1765.92s] English:** the survival instinct of all your ancestors beginning of time you know telling you like  
-**Translation:** Vocabulary: instinct: 生存本能
+**[1774.48s] English:** I'm saying, ladies, how stupid. How could you fall for that? You know, he's got  
+**Translation:** Vocabulary: bundy: 变态
 
-**[1771.04s] English:** hey something's off here something's you know so don't get in the car with ted bundy is what  
+**[1778.80s] English:** Sling on, don't get in. Yeah, follow the gut. My question to you: Are psychopaths?  
 **Translation:** 
 
-**[1774.48s] English:** i'm saying ladies how stupid how who how can you fall for that you know he's got a  
-**Translation:** Vocabulary: bundy: 泰德·邦迪
-
-**[1778.80s] English:** sling on don't get in yeah follow the gut my question to you are psychopaths  
+**[1784.64s] English:** Essentially, robots: so, first of all, let's not use the word "robot" in a derogatory way.  
 **Translation:** 
 
-**[1784.64s] English:** essentially robots so first of all let's not you're using the word robot in a derogatory way  
-**Translation:** Vocabulary: derogatory: 侮辱性的; psychopaths: 反社会者; sling: 乱说
-
-**[1790.00s] English:** that i feel i'm i'm i'm triggered by okay yeah and you should have offended you should be because you  
+**[1790.00s] English:** That I feel I'm triggered, okay, yeah, and you should have been offended; you should be.  
 **Translation:** 
 
-**[1795.60s] English:** You know what? People are always scared of robots, but I actually – I have –  
-**Translation:** Vocabulary: offended: 冒犯
+**[1795.60s] English:** You know what? People are always scared of robots, but I actually have never been afraid of them.  
+**Translation:** Vocabulary: offended: 受冒犯
 
-**[1800.00s] English:** I've made the sort of – I've made a decision.  
+**[1800.00s] English:** I've made the sort of decision.  
 **Translation:** 
 
 **[1804.06s] English:** Hey, I thought about it.  
@@ -1393,25 +1394,25 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1807.58s] English:** It's the people we should be scared of.  
 **Translation:** 
 
-**[1809.56s] English:** Again, we're kind of missing the most destructive thing is us because it's – but robots are helpful.  
+**[1809.56s] English:** Again, we're kind of missing the most destructive thing is us because it's — but robots are helpful.  
 **Translation:** 
 
-**[1815.26s] English:** I mean this is a fucking robot.  
+**[1815.26s] English:** I mean, this is a fucking robot.  
 **Translation:** 
 
-**[1816.98s] English:** I went on Hotel Tonight.  
+**[1816.98s] English:** I went on HotelTonight.  
 **Translation:** 
 
 **[1818.22s] English:** I'm already booked up.  
 **Translation:** 
 
-**[1819.44s] English:** I got my – I can change my flight if this barbecue with Rogan goes 16 hours, which whatever Rogan wants to do, I'll do.  
+**[1819.44s] English:** I got my flight, but if this barbecue with Rogan goes on for 16 hours, which ever way Rogan wants to do it, I'll follow.  
 **Translation:** 
 
-**[1825.08s] English:** If he wants to kick me in the chest, I'll let him kick me in the chest, whatever.  
+**[1825.08s] English:** If he wants to kick me in the chest, I'll let him kick me in the chest; whatever.  
 **Translation:** 
 
-**[1827.20s] English:** Robots are helpful, no?  
+**[1827.20s] English:** Robots are helpful, aren't they?  
 **Translation:** 
 
 **[1831.36s] English:** Yeah.  
@@ -1426,7 +1427,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1835.70s] English:** People kill people, yeah.  
 **Translation:** 
 
-**[1836.42s] English:** Yeah, that's –  
+**[1836.42s] English:** Yeah, that's -  
 **Translation:** 
 
 **[1837.74s] English:** Yeah, the NRA is about to click that for you.  
@@ -1438,10 +1439,10 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1844.44s] English:** I appreciate it very much.  
 **Translation:** 
 
-**[1845.52s] English:** At the same time, you have the other thing that people seem to have love for, which is cats.  
+**[1845.52s] English:** At the same time, you have the other thing that people seem to love, which is cats.  
 **Translation:** 
 
-**[1850.44s] English:** And on the flip side of everything you've said, I'm trying to understand what have cats ever done for human civilization?  
+**[1850.44s] English:** And on the flip side of everything you've said, I'm trying to understand: what have cats ever done for human civilization?  
 **Translation:** 
 
 **[1857.92s] English:** They keep rodents away.  
@@ -1451,42 +1452,42 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **Translation:** 
 
 **[1861.20s] English:** Keeps rodents away.  
-**Translation:** Vocabulary: domesticated: 圈养的
+**Translation:** Vocabulary: domesticated: 家养的
 
 **[1862.12s] English:** Yeah, that's what they were domesticated for.  
 **Translation:** 
 
-**[1863.54s] English:** I mean there are psychopathic killers who end up killing innocent neighborhood chipmunks and birds.  
-**Translation:** Vocabulary: chipmunks: 松鼠; psychopathic: 病态的
+**[1863.54s] English:** I mean, there are psychopathic killers who end up killing innocent neighborhood chipmunks and birds.  
+**Translation:** Vocabulary: chipmunks: 松鼠; psychopathic: 心理病态的
 
 **[1872.80s] English:** They really affect the balance of the local ecosystem.  
 **Translation:** 
 
-**[1878.22s] English:** So you have love for cats too?  
+**[1878.22s] English:** So, you have a love for cats too?  
 **Translation:** 
 
 **[1879.88s] English:** Not as much as dogs.  
 **Translation:** 
 
-**[1881.32s] English:** I mean dogs are – like you said, they look at humans.  
+**[1881.32s] English:** I mean, dogs are like you said—they look at humans.  
 **Translation:** 
 
 **[1883.60s] English:** I actually read an article there.  
 **Translation:** 
 
-**[1884.96s] English:** Some people were theorizing they're smarter than chimps.  
+**[1884.96s] English:** Some people were theorizing that they are smarter than chimps.  
 **Translation:** Vocabulary: chimps: 黑猩猩
 
 **[1887.20s] English:** Because of the way they can work with humans.  
 **Translation:** 
 
-**[1889.06s] English:** And there was one border collie that spoke like 300 words, like a quarter, like almost part of the language.  
+**[1889.06s] English:** And there was one border collie that spoke like 300 words—like a quarter, like almost part of the language.  
+**Translation:** Vocabulary: collie: 柯利牧羊犬
+
+**[1895.38s] English:** And their nose is like a — I mean, that's like magic, dude.  
 **Translation:** 
 
-**[1895.38s] English:** And their nose is like a – I mean that's like magic, dude.  
-**Translation:** 
-
-**[1898.30s] English:** If you can smell in my ass to what I had for breakfast from miles away.  
+**[1898.30s] English:** If you can smell what I had for breakfast in my ass from miles away.  
 **Translation:** 
 
 **[1902.48s] English:** That's intelligence.  
@@ -1495,724 +1496,724 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[1903.12s] English:** That's intelligence.  
 **Translation:** 
 
-**[1904.20s] English:** I mean in some ways that their nose, if you were to put it on a scale, maybe their nose is more intelligent than our brain for what it does.  
+**[1904.20s] English:** I mean, in some ways, that their nose, if you were to put it on a scale, maybe their nose is more intelligent than our brain for what it does.  
 **Translation:** 
 
-**[1912.04s] English:** It's like – I mean dude, they can smell you from miles away.  
+**[1912.04s] English:** It's like—I mean, dude, they can smell you from miles away.  
 **Translation:** 
 
-**[1914.94s] English:** You ever see a dog just like sniffing, catching?  
+**[1914.94s] English:** Have you ever seen a dog just sniffing and catching?  
 **Translation:** 
 
-**[1917.20s] English:** I mean it's smelling like – I don't remember the –  
+**[1917.20s] English:** I mean, it's smelling like — I don't remember the —  
 **Translation:** Vocabulary: sniffing: 嗅探
 
-**[1920.00s] English:** the the data on it but it's like they have like millions of receptors or something where we only  
+**[1920.00s] English:** The data on it, but it's like they have millions of receptors or something where we only...  
 **Translation:** 
 
-**[1924.48s] English:** you know thank god we we don't have their nose that would be that would make sex weird  
+**[1924.48s] English:** You know, thank God we don't have their noses—that would make sex weird.  
 **Translation:** Vocabulary: receptors: 感受器
 
-**[1929.20s] English:** be a little too intense i think you mentioned when you were talking about woody allen separating the  
+**[1929.20s] English:** Be a little too intense, I think. You mentioned when you were talking about Woody Allen separating.  
 **Translation:** 
 
-**[1936.80s] English:** the art from the artist so that brings to mind vladimir putin  
-**Translation:** Vocabulary: woody: 伍迪
+**[1936.80s] English:** The art from the artist, so that brings to mind Vladimir Putin.  
+**Translation:** Vocabulary: separating: 分手; woody: Woody Allen
 
-**[1941.04s] English:** how about that transition i don't know i'm so sorry but if you if you look at just powerful  
+**[1941.04s] English:** How about that transition? I don't know, I'm so sorry, but if you look at it, it's just powerful.  
 **Translation:** 
 
-**[1952.32s] English:** leaders throughout history stalin hitler but uh even model ones like putin and we're talking about  
+**[1952.32s] English:** Leaders throughout history, such as Stalin and Hitler, but even "model" ones like Putin, and we're talking about...  
+**Translation:** Vocabulary: hitler: 希特勒; stalin: 斯大林
+
+**[1958.40s] English:** Power: How do you explain them? You said, uh, that power reveals, not corrupts, but do you think?  
 **Translation:** 
 
-**[1958.40s] English:** power how do you explain them you said uh that power reveals not corrupts but do you think  
+**[1968.78s] English:** There's an element to which power corrupts.  
 **Translation:** 
 
-**[1968.78s] English:** there's some element to which power corrupts  
-**Translation:** Vocabulary: corrupts: 败坏
-
-**[1971.04s] English:** hitler power corrupted stalin after he gained power and the same with putin when putin gained  
+**[1971.04s] English:** Hitler's power corrupted Stalin after he gained power, and the same with Putin when Putin gained power.  
 **Translation:** 
 
-**[1977.48s] English:** power in 2000 do you think the amount of power that he was in possession with for many years  
-**Translation:** Vocabulary: corrupted: 使堕落; stalin: 斯大林
+**[1977.48s] English:** In 2000, do you think the amount of power that he was in possession of for many years?  
+**Translation:** Vocabulary: corrupted: 使堕落
 
-**[1982.80s] English:** do you think that corrupted him i mean we're joking about dictators get the job done  
+**[1982.80s] English:** Do you think that corruption got to him? I mean, we're joking that dictators get the job done.  
 **Translation:** 
 
-**[1986.96s] English:** there is some sense in certain countries where a dictator is um  
-**Translation:** Vocabulary: dictator: 独裁者; dictators: 独裁者
+**[1986.96s] English:** There is some sense in certain countries where a dictator is, um,...  
+**Translation:** Vocabulary: dictator: 独裁者; dictators: 独裁者们
 
-**[1992.66s] English:** the only thing that can stabilize a nation  
+**[1992.66s] English:** The only thing that can stabilize a nation is...  
 **Translation:** 
 
-**[1997.18s] English:** the the connor argument to that  
+**[1997.18s] English:** The Connor argument to that.  
 **Translation:** Vocabulary: stabilize: 稳定
 
-**[2001.04s] English:** for democracies is like yeah but that's a short-term solution for a long-term problem  
+**[2001.04s] English:** For democracies, it's like yeah, but that's a short-term solution for a long-term problem.  
 **Translation:** 
 
-**[2005.90s] English:** so you want to embrace chaos of democracy that might be violent there might be a lot of uh  
-**Translation:** Vocabulary: democracies: 民主国家
+**[2005.90s] English:** So, you want to embrace the chaos of democracy, which might be violent, and there might be a lot of that.  
+**Translation:** Vocabulary: democracies: 民主国家; embrace: 接受
 
-**[2012.12s] English:** just constant changing of leadership there might be a lot of corruption in the short term but  
+**[2012.12s] English:** Just constant changes in leadership; there might be a lot of corruption in the short term, but  
 **Translation:** 
 
-**[2017.38s] English:** if you stay strong with um with the ideals of democracy then you'll be uh ultimately create  
+**[2017.38s] English:** If you stay strong with the ideals of democracy, then you'll ultimately create.  
 **Translation:** 
 
-**[2025.54s] English:** something that as beautiful and stable as the united states  
+**[2025.54s] English:** Something as beautiful and stable as the United States.  
 **Translation:** 
 
-**[2031.04s] English:** the the sad thing is is i don't know if that if history tells that story it's like i said you  
+**[2031.04s] English:** The sad thing is, I don't know if that story is told in history. It's like I said, you  
 **Translation:** 
 
-**[2036.68s] English:** look at greece you look at rome democracy kind of failed the majority  
+**[2036.68s] English:** Look at Greece; you look at Rome: democracy kind of failed the majority.  
 **Translation:** 
 
-**[2040.00s] English:** of rome the the most successful empire uh that we've had um was a dictatorship for most of its  
+**[2040.00s] English:** Of Rome, the most successful empire that we've had was a dictatorship for most of its history.  
+**Translation:** Vocabulary: dictatorship: 独裁统治
+
+**[2048.26s] English:** Run so, um, but I do believe in a republic which is sort of a limited democracy, I do believe.  
 **Translation:** 
 
-**[2048.26s] English:** run so um but i do believe in a republic which is sort of a limited democracy i do believe  
+**[2055.08s] English:** In what we have here, I believe in common law, and I believe in individual rights, um.  
 **Translation:** 
 
-**[2055.08s] English:** in in what we have here i believe in common law i believe um you know in individual rights um  
+**[2062.52s] English:** But, yeah, I think you said it. I couldn't have said it better. Yeah, it's a  
 **Translation:** 
 
-**[2062.52s] English:** but yeah i think you said it i i couldn't nobody could have said it better yeah it's a it's a  
-**Translation:** 
-
-**[2068.14s] English:** short-term solution you look at saddam hussein he kind of you know when when we took took him out  
+**[2068.14s] English:** A short-term solution was to look at Saddam Hussein; he kind of knew, when we took him out.  
 **Translation:** Vocabulary: hussein: 萨达姆
 
-**[2074.46s] English:** then there was a lot of infighting that that happened that he was kind of keeping at bay  
+**[2074.46s] English:** Then there was a lot of infighting that he was kind of keeping at bay.  
 **Translation:** 
 
-**[2078.68s] English:** um because uh he was a strong man dictator well he's an interesting one sorry to interrupt no  
+**[2078.68s] English:** Um, because he was a strongman dictator, well, he's an interesting one. Sorry to interrupt, no.  
+**Translation:** Vocabulary: dictator: 独裁者; interrupt: 打断; strongman: 强人
+
+**[2085.46s] English:** From my understanding, I'm sure people will correct me, but when Saddam Hussein first  
 **Translation:** 
 
-**[2085.46s] English:** from my understanding i'm sure people will correct me but when uh saddam hussein first  
+**[2090.14s] English:** Came to power, he was, uh, quite progressive, so, like, the Dick... As far as I  
 **Translation:** 
 
-**[2090.14s] English:** came to power he was uh he's quite progressive so like the dick the as far as i  
+**[2098.14s] English:** Understand, the signs of an evil dictator weren't exactly there, so again, I don't know if...  
 **Translation:** 
 
-**[2098.14s] English:** understand the signs of an evil dictator weren't exactly there so again there's i don't know if  
+**[2104.74s] English:** Power revealed: a power corrupted, or that could have been the initial subterfuge to kind of get.  
+**Translation:** Vocabulary: corrupted: 堕落; subterfuge: 诡计
+
+**[2109.72s] English:** Everybody, you know, Hitler also claimed to be a champion of the people and built some new roads.  
 **Translation:** 
 
-**[2104.74s] English:** power revealed a power corrupted or that could have been the initial subterfuge to kind of get  
-**Translation:** Vocabulary: corrupted: 败坏; subterfuge: 诡计
+**[2114.24s] English:** It's what psychopaths do, and that's why it's interesting to me. I'm not sure if power corrupts.  
+**Translation:** Vocabulary: corrupts: 权力使腐败; psychopaths: 心理变态者
 
-**[2109.72s] English:** everybody you know hitler also is a you know champion of the people it's built some new roads  
+**[2119.04s] English:** Psychopaths, and now that we know we can do these CAT scans and brain scans, again, we know  
 **Translation:** 
 
-**[2114.24s] English:** it's what psychopaths do and that's why it's interesting to me i'm not sure if power corrupts  
-**Translation:** Vocabulary: corrupts: 权力腐化; psychopaths: 心理病患者
-
-**[2119.04s] English:** psychopaths and now that we know that we can do these cat scans and brain scans again we know  
-**Translation:** 
-
-**[2128.14s] English:** have the capacity uh to feel and for empathy power i'm not sure i don't think power corrupts  
+**[2128.14s] English:** Have the capacity, uh, to feel and for empathy; I'm not sure, I don't think power corrupts.  
 **Translation:** Vocabulary: empathy: 共情能力
 
-**[2136.22s] English:** people who were born uh psychopathic with that condition or sociopaths who had who you know who  
+**[2136.22s] English:** People who were born with that condition, such as psychopaths, or sociopaths who, you know,  
 **Translation:** 
 
-**[2143.14s] English:** were closer to psychopath and then had some traumatic life you know i just think um you  
-**Translation:** Vocabulary: psychopath: 心理变态; psychopathic: 心理变态的; sociopaths: 反社会人格; traumatic: 创伤性的
+**[2143.14s] English:** We were closer to psychopath, and then had some traumatic life experiences. You know, I just think that led to this.  
+**Translation:** Vocabulary: psychopath: 心理变态; sociopaths: 反社会人格; traumatic: 创伤性的
 
-**[2148.06s] English:** know the best way to get away with whatever nefarious thing you want to do to feel i guess  
+**[2148.06s] English:** Know the best way to get away with whatever nefarious thing you want to do, to feel, I guess.  
 **Translation:** 
 
-**[2153.54s] English:** the only thing psychopaths can feel is that excitement is to pretend to be the opposite  
-**Translation:** Vocabulary: nefarious: 罪恶的
+**[2153.54s] English:** The only thing psychopaths can feel is excitement; it's to pretend to be the opposite.  
+**Translation:** Vocabulary: nefarious: 邪恶的
 
-**[2157.58s] English:** of what you are  
+**[2157.58s] English:** Of what you are.  
 **Translation:** 
 
-**[2158.14s] English:** yeah  
+**[2158.14s] English:** Yeah.  
 **Translation:** 
 
-**[2158.66s] English:** that's what that's what  
+**[2158.66s] English:** That's what, that's what.  
 **Translation:** 
 
-**[2160.00s] English:** Killers do. That's what the worst people do. Look at Bill Cosby. I mean, he was, what better way  
-**Translation:** Vocabulary: cosby: 典型例子
-
-**[2164.94s] English:** to hide, you know? It's like what wokeness is now. It's like, I'm such a great person. And  
+**[2160.00s] English:** Killers do. That's what the worst people do. Look at Bill Cosby. I mean, he was—what a better way?  
 **Translation:** 
 
-**[2170.14s] English:** you're like, are you? It's a great, the best way to hide is to pretend to be the opposite of what  
-**Translation:** Vocabulary: wokeness: 觉醒主义
-
-**[2175.70s] English:** you are. Just like Ted Bundy. I'm just an innocent, helpful guy. And then boom, next thing you know,  
+**[2164.94s] English:** To hide, you know? It's like what woke-ness is now: I'm such a great person, and  
 **Translation:** 
 
-**[2179.74s] English:** you're getting your titbit off. It's really well said. It's actually kind of funny because I talk  
+**[2170.14s] English:** You're like, "Are you?" It's a great way to hide is to pretend to be the opposite of what.  
+**Translation:** 
+
+**[2175.70s] English:** You are just like Ted Bundy. I'm just an innocent, helpful guy. And then, boom—next thing you know,  
+**Translation:** 
+
+**[2179.74s] English:** You're getting your titbit off. It's really well said. It's actually kind of funny because I talk  
 **Translation:** Vocabulary: bundy: Bundy; titbit: 小便宜
 
-**[2184.06s] English:** about love a lot. And I think the people that kind of look at me with squinty eyes, they wonder  
+**[2184.06s] English:** About love a lot. And I think the people who kind of look at me with squinty eyes wonder,...  
 **Translation:** 
 
-**[2190.80s] English:** how many bodies are in that closet? You know what I mean? There's something about the duality of  
-**Translation:** Vocabulary: closet: 衣橱; squinty: 眯眼的
+**[2190.80s] English:** How many bodies are in that closet? You know what I mean? There's something about the duality of...  
+**Translation:** Vocabulary: closet: 衣橱; duality: 二元性; squinty: 眯着眼的
 
-**[2197.70s] English:** we're so skeptical as a culture. If somebody just seems to be kind of sort of, I don't know,  
+**[2197.70s] English:** We're so skeptical as a culture. If somebody just seems to be kind of, sort of...  
 **Translation:** 
 
-**[2206.56s] English:** positive and all that kind of, how do I put it? Just simple. Simple-minded in the positivity  
+**[2206.56s] English:** Positive and all that kind of thing. How do I put it? Just simple, simple-minded in the positivity.  
 **Translation:** Vocabulary: positivity: 积极; skeptical: 怀疑
 
-**[2213.96s] English:** world.  
+**[2213.96s] English:** World.  
 **Translation:** 
 
-**[2214.06s] English:** They express, they think like, okay, there's some demons in there.  
+**[2214.06s] English:** They express that they think like, okay, there are some demons in there.  
 **Translation:** Vocabulary: demons: 恶魔
 
-**[2218.04s] English:** Yeah. Especially if you're a New Yorker, we don't trust any, the nicer you are,  
+**[2218.04s] English:** Yeah. Especially if you're a New Yorker, we don't trust anyone, the nicer you are,  
 **Translation:** 
 
-**[2220.92s] English:** the more skeptical we are. I've struggled with that down here. I've been like, what's your angle?  
+**[2220.92s] English:** The more skeptical we are. I've struggled with that down here. I've been like, "What's your angle?  
 **Translation:** Vocabulary: struggled: 挣扎
 
-**[2224.52s] English:** And they're like, nah, dude, just, I wanted to show you the best tacos, man. And I'm like,  
+**[2224.52s] English:** And they're like, "nah, dude, just, I wanted to show you the best tacos, man." And I'm like,  
 **Translation:** 
 
-**[2228.04s] English:** did you really, what do you want? Because in New York, it's like, if anyone's nice to you,  
+**[2228.04s] English:** Did you really mean what you said? What do you want? Because in New York, it's like—if anyone's nice to you,  
 **Translation:** Vocabulary: tacos: 玉米壳馅饼
 
-**[2231.64s] English:** they want something. And that's, the pro side to that is it makes you very street smart. The  
+**[2231.64s] English:** They want something. And that's the pros: it makes you very street-smart. The  
 **Translation:** 
 
-**[2238.12s] English:** downside to that is it makes you way too cynical.  
+**[2238.12s] English:** The downside to that is it makes you way too cynical.  
 **Translation:** Vocabulary: cynical: 怀疑一切; downside: 缺点
 
 **[2240.76s] English:** Yeah. I've definitely experienced that here in Texas, where people are,  
 **Translation:** 
 
-**[2243.90s] English:** super, super nice. And they're like, do all this cool shit for you. And you wonder,  
+**[2243.90s] English:** Super, super nice. And they're like, doing all this cool shit for you. And you wonder,...  
 **Translation:** Vocabulary: texas: 德克萨斯州
 
-**[2249.62s] English:** what's the angle? What are we doing here? You mentioned hyenas is your favorite animal. I  
+**[2249.62s] English:** What's the angle? What are we doing here? You mentioned that hyenas are your favorite animal. I  
 **Translation:** 
 
-**[2255.86s] English:** forgot to ask you, what the hell were you thinking? Why is hyenas your favorite animal?  
+**[2255.86s] English:** Forgot to ask you: What the hell were you thinking? Why are hyenas your favorite animal?  
 **Translation:** Vocabulary: hyenas: 鬣狗
 
 **[2261.44s] English:** Yeah. It's a fascinating animal.  
 **Translation:** 
 
-**[2265.22s] English:** Let's look at the whole animal kingdom. Like why is that? Where do you put, so you like dogs.  
+**[2265.22s] English:** Let's look at the whole animal kingdom. Why is that? Where do you put them, so you like dogs.  
 **Translation:** 
 
 **[2270.34s] English:** Love, my favorite.  
 **Translation:** 
 
-**[2271.10s] English:** Your favorite is dogs. But they're kind of outside.  
+**[2271.10s] English:** Your favorite is dogs, but they're kind of outside.  
 **Translation:** 
 
-**[2273.90s] English:** Animal kingdom, because you're thinking about wolves. So the animal kingdom is in nature. Dogs,  
+**[2273.90s] English:** Animal kingdom, because you're thinking about wolves. So, the animal kingdom is in nature. Dogs,  
 **Translation:** 
 
-**[2280.00s] English:** escaped nature they kind of did yeah uh together with humans like in a collaborative way exactly  
-**Translation:** Vocabulary: collaborative: 合作的
+**[2280.00s] English:** Escaped nature, they kind of did, yeah, uh, together with humans like in a collaborative way, exactly.  
+**Translation:** Vocabulary: collaborative: 合作的; wolves: 狼
 
-**[2285.28s] English:** so within nature within the animal kingdom what who's uh why not lions because lions are  
+**[2285.28s] English:** So, within the animal kingdom, why not lions because lions are  
 **Translation:** 
 
-**[2292.62s] English:** predictable lions you just you know they're regal and kind of they bore me it's like the hot chick  
-**Translation:** Vocabulary: chick: 女生; predictable: 可预测的
+**[2292.62s] English:** Predictable lions, you just know—they're regal and kind of boring. It's like the hot chick.  
+**Translation:** Vocabulary: chick: 热门女孩; predictable: 可预测的
 
-**[2298.02s] English:** it's like we get it you were born the best yeah you know i like a scrappy by any means necessary  
+**[2298.02s] English:** It's like, we get it — you were born the best, yeah? You know, I like a scrappy by any means necessary.  
 **Translation:** 
 
-**[2306.24s] English:** intelligent and cunning uh but aren't they dishonest yeah and that's why i like them  
+**[2306.24s] English:** Intelligent and cunning, uh, but aren't they also dishonest? Yeah, and that's why I like them.  
 **Translation:** Vocabulary: cunning: 狡猾; scrappy: 顽强
 
-**[2312.54s] English:** yes they're dishonest they employ chicanery they uh they're and that's just a sign of how  
+**[2312.54s] English:** Yes, they're dishonest. They employ chicanery, and that's just a sign of how  
 **Translation:** 
 
-**[2319.88s] English:** intelligent they are and how self-reliant they are and how brutal they are um they're brutally  
-**Translation:** Vocabulary: brutal: 残忍; brutally: 残忍地; chicanery: 诡计
+**[2319.88s] English:** Intelligent, they are, and how self-reliant they are, and how brutal they are. Um, they're brutally.  
+**Translation:** Vocabulary: brutal: 残忍; brutally: 残忍地; chicanery: 诡计; employ: 使用
 
-**[2325.76s] English:** honest in how much they lie yeah you know because it's just they're trying to get the job done  
+**[2325.76s] English:** Honest about how much they lie, yeah, you know, because it's just that they're trying to get the job done.  
 **Translation:** 
 
-**[2331.48s] English:** you know lions are just like they're they're too gifted everyone hates the  
+**[2331.48s] English:** You know, lions are just like they're too gifted; everyone hates them.  
 **Translation:** 
 
-**[2336.22s] English:** fucking you know if i went to school with you i'd be like of course lex knows the fucking answer  
+**[2336.22s] English:** Fucking, you know, if I went to school with you, I'd be like, "Of course, Lex knows the fucking answer.  
 **Translation:** 
 
-**[2340.50s] English:** yeah lex was born smarter than me yeah you know and you'd probably hate me because i was the kid  
+**[2340.50s] English:** Yeah, Lex was born smarter than me. Yeah, you know, and you'd probably hate me because I was the kid.  
 **Translation:** 
 
-**[2345.48s] English:** always seeking attention and making people it's like that's not interesting the guy that claws  
+**[2345.48s] English:** Always seeking attention, and making people think it's like that's not interesting; the guy who claws.  
 **Translation:** 
 
-**[2350.18s] English:** his way to the top and those are hyenas they're also fascinating just by uh merely who they are  
-**Translation:** Vocabulary: claws: 爪牙
+**[2350.18s] English:** His way to the top, and those are hyenas. They're also fascinating, just by who they are.  
+**Translation:** Vocabulary: claws: 爪; hyenas: 土狼
 
-**[2356.24s] English:** i mean they're not related to any other animal they're more closely related to cats than they  
+**[2356.24s] English:** I mean, they're not related to any other animal; they're more closely related to cats than they are.  
 **Translation:** 
 
-**[2362.16s] English:** are dogs even though they look like a dog yeah they're but they're very like  
+**[2362.16s] English:** Are dogs, even though they look like a dog, yeah? They're but they're very much so.  
 **Translation:** 
 
-**[2366.22s] English:** very tangentially related even to cats so they're their own kind of thing which is kind of mysterious  
+**[2366.22s] English:** Very tangentially related, even to cats; so they're their own kind of thing, which is kind of mysterious.  
 **Translation:** 
 
-**[2371.72s] English:** i don't think they fully figured out and uh they this pseudo penis thing is the is the i mean  
-**Translation:** Vocabulary: pseudo: 假的; tangentially: 间接地
+**[2371.72s] English:** I don't think they fully figured it out, and that "pseudo penis" thing is... I mean,  
+**Translation:** Vocabulary: pseudo: 似是而非; tangentially: 间接地
 
-**[2376.88s] English:** can you explain the pseudo penis uh yeah so the it's a matriarchal society by the way so that's  
+**[2376.88s] English:** Can you explain the pseudo-penis? Uh, yeah, so the it's a matriarchal society, by the way, so that's  
 **Translation:** 
 
-**[2382.50s] English:** unique in and of itself that this we're talking about an apex predator that is uh matriarchal  
-**Translation:** Vocabulary: matriarchal: 母系社会; predator: 顶级捕食者
-
-**[2387.94s] English:** much like uh you know the praying mantis it's very rare though and they are fucking brutal  
+**[2382.50s] English:** Unique in and of itself, what we're talking about is an apex predator that is matriarchal.  
 **Translation:** 
 
-**[2392.64s] English:** and vicious and the women are bigger and they let their cubs fight  
+**[2387.94s] English:** Much like, you know, the praying mantis, it's very rare though, and they are fucking brutal.  
+**Translation:** 
+
+**[2392.64s] English:** And they are vicious and the women are bigger, and they let their cubs fight.  
 **Translation:** Vocabulary: mantis: 螳螂; vicious: 凶残
 
-**[2396.22s] English:** a lot of fratricide and they do that because they're like hey you're weaker  
+**[2396.22s] English:** A lot of fratricide, and they do that because they're like, "Hey, you're weaker.  
 **Translation:** 
 
-**[2400.00s] English:** your brother kill you and uh the women have penises the women have pseudo penises that they  
+**[2400.00s] English:** Your brother killed you, and uh, the women have pseudo-penises that they  
 **Translation:** Vocabulary: fratricide: 兄弟相残
 
-**[2405.24s] English:** give birth out of and the birth is violent but they they roll around with just huge pieces their  
+**[2405.24s] English:** Give birth out of, and the birth is violent, but they roll around with just huge pieces of something.  
 **Translation:** 
 
-**[2410.66s] English:** glue guns are just fucking swinging you know and the women are just run the show and uh it's just  
-**Translation:** Vocabulary: swinging: 摇摆
+**[2410.66s] English:** Glue guns are just fucking swinging, you know, and the women are just running the show, and it's just  
+**Translation:** Vocabulary: swinging: 挥动
 
-**[2417.32s] English:** cool that they have these pseudo penises uh it's almost romantic the way you describe they have  
+**[2417.32s] English:** Cool that they have these pseudo penises. Uh, it's almost romantic the way you describe them.  
 **Translation:** 
 
-**[2423.70s] English:** the strongest bite force they they pulverize bone like when they eat an animal the animal's gone  
+**[2423.70s] English:** The strongest bite force allows them to pulverize bone, like when they eat an animal; the animal's bones are completely crushed.  
 **Translation:** Vocabulary: pulverize: 粉碎
 
-**[2429.14s] English:** there's no bones they eat everything they can pulverize their bite is so powerful they pulverize  
+**[2429.14s] English:** There are no bones; they eat everything they can. They have such a powerful bite that they can pulverize anything.  
 **Translation:** 
 
-**[2435.20s] English:** bone and eat it so if they consume an animal it the animal was there and then the animal's gone  
+**[2435.20s] English:** Bone and eat it, so if they consume an animal, it's there and then the animal is gone.  
 **Translation:** 
 
-**[2440.14s] English:** there's no nothing for the vultures there to uh to to to grab yeah i'm gonna have to revisit the  
+**[2440.14s] English:** There's nothing for the vultures there to grab, yeah. I'm gonna have to revisit this.  
 **Translation:** 
 
-**[2445.94s] English:** hyenas because my experience with the hyenas was from uh first of all history of hanging is your  
+**[2445.94s] English:** Hyenas, because my experience with the hyenas was from, um, first of all, history of hanging is your  
 **Translation:** Vocabulary: hyenas: 鬣狗; vultures: 秃鹰
 
-**[2451.86s] English:** show uh has rebranded them for me but uh the lion king which is uh  
+**[2451.86s] English:** Show has rebranded them for me, but "The Lion King," which is  
 **Translation:** 
 
-**[2459.14s] English:** a cartoon i guess that uh i get emotional at every time i i hope i probably have father issues  
+**[2459.14s] English:** A cartoon, I guess, that makes me emotional every time. I hope I probably have some father issues.  
 **Translation:** Vocabulary: rebranded: 重新定位
 
-**[2466.22s] English:** every every guy probably just you just have feelings you're a good guy i mean everyone  
+**[2466.22s] English:** Every guy probably just has feelings. You're a good guy, I mean, everyone.  
 **Translation:** 
 
-**[2470.72s] English:** yeah you have feelings that one gets everybody i don't know i get i get every father son movie  
+**[2470.72s] English:** Yeah, you have feelings that one gets—everyone, I don't know—I get every father-son movie.  
 **Translation:** 
 
-**[2476.12s] English:** like blow with johnny depp uh and uh ray leota damn that's a good movie and whenever there's like  
+**[2476.12s] English:** Like, blow with Johnny Depp and uh-Ray Leota; damn, that's a good movie, and whenever there's like  
 **Translation:** 
 
-**[2483.22s] English:** um like the disappointment in the father that his son has become like  
-**Translation:** Vocabulary: johnny: 约翰尼; leota: 雷欧塔
+**[2483.22s] English:** Um, like the disappointment in the father that his son has become like.  
+**Translation:** Vocabulary: johnny: 强尼; leota: 雷欧
 
-**[2489.14s] English:** this incredibly successful drug lord that then ends up with nothing in in in prison  
+**[2489.14s] English:** This incredibly successful drug lord ends up with nothing in prison.  
 **Translation:** 
 
-**[2495.54s] English:** uh just the sadness of them communicating through letters man that gets me every time  
+**[2495.54s] English:** Uh, just the sadness of them communicating through letters—man, that gets me every time.  
 **Translation:** 
 
-**[2500.10s] English:** but just but you know uh they're the hyenas are not presented that well in that um no they're  
+**[2500.10s] English:** But just you know, they're not presented that well in that movie, and um, no they're  
 **Translation:** 
 
-**[2507.96s] English:** usually portrayed as like uh it's really sad that they're portrayed that way as lions like  
-**Translation:** Vocabulary: portrayed: 描绘
+**[2507.96s] English:** Usually portrayed as, like, uh, it's really sad that they're portrayed that way, as lions.  
+**Translation:** Vocabulary: portrayed: 表现
 
-**[2513.46s] English:** lions aren't dicks lions are dicks they the the the the alpha  
+**[2513.46s] English:** Lions aren't dicks. Lions are dicks—they, the alpha.  
 **Translation:** 
 
-**[2519.14s] English:** lions will kill the  
+**[2519.14s] English:** Lions will kill the  
 **Translation:** Vocabulary: alpha: 首领
 
-**[2520.00s] English:** of another rival they do all types of dick shit yeah and um yeah it's the hyenas are more  
+**[2520.00s] English:** Of another rival, they do all types of "dick shit," yeah, and um, yeah, it's the hyenas are more.  
 **Translation:** 
 
-**[2525.70s] English:** interesting like they'll just roll in like a hyena will like like you said the lie you know  
+**[2525.70s] English:** Interesting, like they'll just roll in like a hyena, will, like you said, the lie, you know.  
 **Translation:** Vocabulary: hyena: 斑马犬
 
-**[2529.80s] English:** because when you watch the serengeti you know animals will hang out with each other they're  
+**[2529.80s] English:** Because, when you watch the Serengeti, you know animals will hang out with each other; they're  
 **Translation:** 
 
-**[2533.98s] English:** like by water so one hyena will just kind of roll in and pretend like it's not hungry and then  
+**[2533.98s] English:** Like by water, so one hyena will just kind of roll in and pretend like it's not hungry, and then  
 **Translation:** Vocabulary: serengeti: 塞伦盖蒂平原
 
-**[2539.34s] English:** bang they'll use any means necessary to take an animal down like lions will just use brute  
+**[2539.34s] English:** Bang, they'll use any means necessary to take an animal down, like lions will just use brute.  
 **Translation:** 
 
-**[2545.42s] English:** strength hyenas use cunning and you can even go on the internet and find uh memes of this where  
-**Translation:** Vocabulary: brute: 野蛮; cunning: 狡猾
+**[2545.42s] English:** Strength hyenas use cunning, and you can even go online and find memes of this.  
+**Translation:** Vocabulary: brute: 野蛮; cunning: 狡猾; hyenas: 土狼
 
-**[2551.14s] English:** hyenas will grab the big animal by the balls and just like will sneak up behind it and bite its  
+**[2551.14s] English:** Hyenas will grab the big animal by the balls and just like will sneak up behind it and bite its tail.  
 **Translation:** 
 
-**[2556.28s] English:** balls and you'll watch an animal 10 size 10 times the size of the hyena just slowly go down it's  
+**[2556.28s] English:** Balls, and you'll watch an animal 10 times the size of the hyena just slowly go down it's.  
 **Translation:** 
 
-**[2562.16s] English:** brutal but it's fucking hilarious so i i think that's uh i don't know if you uh follow the the  
+**[2562.16s] English:** Brutal, but it's fucking hilarious. So, I think that's — uh, I don't know if you uh follow the, the  
 **Translation:** 
 
-**[2570.02s] English:** the channel um nature's metal that's that one weighs heavy on me  
-**Translation:** Vocabulary: brutal: 残酷的
+**[2570.02s] English:** The channel, "Nature's Metal," that one weighs heavily on me.  
+**Translation:** Vocabulary: brutal: 残酷; hilarious: 好笑
 
-**[2575.40s] English:** and with the hyenas and the balls i it's tough to to intellectualize it it's tough to think that  
+**[2575.40s] English:** And with the hyenas and the balls, it's tough to intellectualize it; it's tough to think that.  
 **Translation:** 
 
-**[2584.76s] English:** the entirety of life on earth has this history of uh predators being violent just like just the  
-**Translation:** Vocabulary: entirety: 全部; hyenas: 土狼; intellectualize: 抽象思考; predators: 捕食者
+**[2584.76s] English:** The entirety of life on Earth has this history of predators being violent, just like.  
+**Translation:** Vocabulary: entirety: 全部; intellectualize: 理性思考; predators: 捕食者
 
-**[2594.24s] English:** murder that we come from yeah it's crazy i it uh just like we're talking about meditating on death  
+**[2594.24s] English:** Murder that we come from, yeah; it's crazy. I mean, just like we're talking about meditating on death.  
 **Translation:** 
 
-**[2601.48s] English:** i actually i keep following and unfollowing that  
+**[2601.48s] English:** I actually keep following and unfollowing that.  
 **Translation:** Vocabulary: meditating: 冥想; unfollowing: 取消关注
 
-**[2605.40s] English:** and i'm not gonna lie i'm not gonna lie i'm not gonna lie i'm not gonna lie i'm not gonna lie  
+**[2605.40s] English:** And I'm not gonna lie, I'm not gonna lie, I'm not gonna lie, I'm not gonna lie, I'm not gonna lie.  
 **Translation:** 
 
-**[2607.80s] English:** like i can't i can't continue with the day after like seeing the brutality the honest brutality of  
+**[2607.80s] English:** Like, I can't continue with the day after seeing the honest brutality of  
 **Translation:** Vocabulary: brutality: 残忍
 
-**[2613.70s] English:** that i don't know how to make sense of it it's important to acknowledge i think because that  
+**[2613.70s] English:** That I don't know how to make sense of it; it's important to acknowledge, I think, because that.  
 **Translation:** 
 
-**[2618.06s] English:** it's real that we do come from that we are we evolve from that it's important we still do that  
+**[2618.06s] English:** It's real that we do come from what we evolve from, and it's important that we still do that.  
+**Translation:** Vocabulary: evolve: 进化
+
+**[2623.96s] English:** We're just hidden from it, you know. When you go to the supermarket and get your slab of meat, you know.  
 **Translation:** 
 
-**[2623.96s] English:** we're just hidden from it you know when you go to the supermarket and get your slab of meat you know  
+**[2627.92s] English:** You're so disconnected from where that meat came from; it came from that, and often that's uglier to  
+**Translation:** Vocabulary: disconnected: 不相连
+
+**[2634.42s] English:** Watch what you're eating, and it's just, it's just, it's just, it's just, it's just, it's just.  
 **Translation:** 
 
-**[2627.92s] English:** you're so disconnected from where that meat came from it came from that and often that's uglier to  
+**[2635.40s] English:** It's just because there's a little bit of honesty.  
 **Translation:** 
 
-**[2634.42s] English:** watch than the meat that you're eating and it's just it's just it's just it's just it's just it's just  
+**[2640.00s] English:** Show, uh, that's why we have so much sympathy with the prey, and this is where I think the same thing applies.  
 **Translation:** 
 
-**[2635.40s] English:** it's just it's just it's it's just it's just it's just because there's some honesty  
+**[2644.80s] English:** With mafia movies, they don't show what the mafia really does; they glorify the good parts.  
+**Translation:** Vocabulary: glorify: 美化
+
+**[2648.46s] English:** Why I like State of Grace because it's really just shaking down old people and fucking with them.  
 **Translation:** 
 
-**[2640.00s] English:** show uh that's why we have so much sympathy with the prey and this is where i think the same thing  
+**[2652.30s] English:** It's not about driving nice cars and being like, you know, so fancy. Animal channels do the same thing, they  
 **Translation:** 
 
-**[2644.80s] English:** with mafia movies they don't show what the mafia really does they glorify the good parts that's  
+**[2657.02s] English:** Only show when the cheetah gets it, because that's the exciting part. But what most people  
 **Translation:** 
 
-**[2648.46s] English:** why i like state of grace because it's really just shaking down old people and fucking being dicks  
+**[2662.82s] English:** Don't know is that those predators strike out almost always, at least a majority of the time, the prey.  
+**Translation:** Vocabulary: cheetah: 猎豹
+
+**[2668.78s] English:** Wins, and so if you saw that and put it in context, you might not hate it as much when the predator.  
 **Translation:** 
 
-**[2652.30s] English:** it's not driving nice cars and being like you know so and and animal channels do the same thing they  
-**Translation:** 
-
-**[2657.02s] English:** only show when the cheetah gets it because that's that's the exciting part but what most people  
-**Translation:** 
-
-**[2662.82s] English:** don't know is that those predators strike out almost always a majority of the time the prey  
-**Translation:** 
-
-**[2668.78s] English:** wins and so if you saw that and put in context you might not hate it as much when the predator  
-**Translation:** 
-
-**[2675.38s] English:** actually gets the little fawn or whatever because it's so many fawns got away it's so hard to capture  
+**[2675.38s] English:** Actually, it gets the little fawn or whatever, because there are so many fawns and it's so hard to capture them.  
 **Translation:** Vocabulary: fawns: 小鹿; predator: 捕食者
 
-**[2681.22s] English:** your prey and you know we we don't have the the they no no documentary is going to sit around and  
+**[2681.22s] English:** Your prey, and you know, we don't have the time for any documentary to sit around and  
 **Translation:** 
 
-**[2687.14s] English:** show you the 99 times the cheetah uh didn't catch thank you for this perspective this murder is  
+**[2687.14s] English:** Show you the 99 times the cheetah didn't catch. Thank you for this perspective, this murder is.  
 **Translation:** 
 
-**[2693.48s] English:** difficult so like this is the they never talk about for people who murder  
+**[2693.48s] English:** Difficult, so like this is the thing they never talk about for people who murder.  
 **Translation:** 
 
-**[2698.78s] English:** how difficult it is like this to trap somebody to convince them to come back to your place give it  
+**[2698.78s] English:** How difficult it is, like this, to trap somebody to convince them to come back to your place? Give it.  
 **Translation:** 
 
-**[2704.36s] English:** some respect put some respect on ted bundy's name yeah it's not easy to convince somebody getting  
+**[2704.36s] English:** Some respect should be put on Ted Bundy's name, yeah. It's not easy to convince someone getting.  
 **Translation:** 
 
-**[2708.24s] English:** your volkswagen beagle and the cleanup and then you have to kind of plan ahead because you want  
-**Translation:** Vocabulary: cleanup: 清理; volkswagen: 大众汽车
+**[2708.24s] English:** Your Volkswagen, beagle, and the cleanup, and then you have to kind of plan ahead because you want.  
+**Translation:** Vocabulary: beagle: 小型猎犬; cleanup: 清理; volkswagen: 大众汽车
 
-**[2713.54s] English:** to keep doing the murder mass murder you got to learn how to saw him up put him in duffel bags  
+**[2713.54s] English:** To keep doing the murder, mass murder, you've got to learn how to saw him up, put him in duffel bags.  
 **Translation:** 
 
-**[2717.60s] English:** bury you got to learn a dig you got to learn how to hide you got to learn a lie i mean it's a lot  
+**[2717.60s] English:** You've got to learn to dig, you've got to learn how to hide, you've got to learn to lie. I mean, it's a lot.  
+**Translation:** Vocabulary: duffel: 毛毯袋
+
+**[2721.98s] English:** That goes into it, yeah. We need to put a little respect in, yeah, yeah, and you have to figure out  
 **Translation:** 
 
-**[2721.98s] English:** that goes into it yeah that we need to put a little respect on yeah yeah and you have to figure out  
+**[2726.74s] English:** Which tools work the best for this?  
 **Translation:** 
 
-**[2726.74s] English:** which tools work the best for this  
+**[2728.78s] English:** Um, so thank you for the perspective—that's exactly what I was hoping we would bring to this.  
 **Translation:** 
 
-**[2728.78s] English:** um so thank you for the perspective that's that's what i was hoping we would bring to this  
+**[2736.10s] English:** Table, uh, before, yeah, so you, uh, got a little bit Greek in you, uh, one of the episodes on.  
 **Translation:** 
 
-**[2736.10s] English:** table uh before yeah so you uh you got a little bit greek in you uh one of the episodes on  
+**[2744.66s] English:** On history, you talked about the Battle of Crete, where the Greeks, your people, were involved.  
 **Translation:** 
 
-**[2744.66s] English:** on uh history hyenas you talked about the battle of crete where the greeks your people in uh  
+**[2754.14s] English:** Uh, in 1941, I guess, at the early stages of the  
+**Translation:** Vocabulary: crete: 克里特岛
+
+**[2758.78s] English:** World War II  
 **Translation:** 
 
-**[2754.14s] English:** uh in 19 i guess 41 at the early stages of the  
-**Translation:** Vocabulary: crete: 克里特岛; hyenas: 土狼
+**[2760.00s] English:** Is one of the most epic battles of the war; in fact, in 1941, in a speech made at the Reichstag.  
+**Translation:** Vocabulary: reichstag: 德国议会
 
-**[2758.78s] English:** world war ii  
+**[2767.44s] English:** Hitler paid tribute to the bravery of the Greeks, saying "it must be said for the sake of historical.  
 **Translation:** 
 
-**[2760.00s] English:** is one of the most epic battles of the war in fact in 1941 in a speech made at the reichstag  
-**Translation:** Vocabulary: reichstag: 国会大厦
+**[2774.08s] English:** The truth is that, among all our opponents, only the Greeks fought with endless courage.  
+**Translation:** Vocabulary: bravery: 勇敢; opponents: 对手; tribute: 致敬
 
-**[2767.44s] English:** hitler paid tribute to the bravery of the greeks saying it must be said for the sake of historical  
+**[2780.56s] English:** And defiance of death, so okay, what do you make of this battle? What do you make of the spirit of the?  
 **Translation:** 
 
-**[2774.08s] English:** truth that amongst all our opponents only the greeks fought with the endless courage  
+**[2786.08s] English:** Greek people, this is one of the closest things to me because my mother was actually on the island.  
 **Translation:** 
 
-**[2780.56s] English:** and defiance of death so okay what do you make of this battle what do you make of the spirit of the  
+**[2792.64s] English:** Of Crete during this the first aerial invasion in history, a lot of people don't know that. So,  
 **Translation:** 
 
-**[2786.08s] English:** greek people this is one of the closest things to me because my mother was actually on the island  
-**Translation:** Vocabulary: defiance: 反抗
+**[2797.28s] English:** This is a very significant battle, um, first time there was an invasion from the sky, um,  
+**Translation:** Vocabulary: aerial: 空中的
 
-**[2792.64s] English:** of crete during this the first aerial invasion in history a lot of people don't know that so  
+**[2803.60s] English:** And, uh, my mother was a little girl when she lived through four years of Nazi occupation there.  
 **Translation:** 
 
-**[2797.28s] English:** this is a very significant battle um first time there was an invasion from the sky um  
-**Translation:** Vocabulary: aerial: 空袭
-
-**[2803.60s] English:** and uh my mother was a little girl and she lived through four years of uh nazi occupation there so  
+**[2808.24s] English:** My mother was a human rights lawyer, and everything — but she just always hated Germans; it's just what  
 **Translation:** 
 
-**[2808.24s] English:** my mother was a human rights lawyer and everything but she just always hated germans it's just what  
+**[2812.16s] English:** It is she who hated Germans, and she never got over it. So the most  
 **Translation:** 
 
-**[2812.16s] English:** it is she hated germans and she never got over it so the most  
+**[2816.08s] English:** Progressive, open-minded woman just could not get over this. It's a monumental battle that a lot  
+**Translation:** Vocabulary: monumental: 巨大的
+
+**[2821.92s] English:** Of historians, in retrospect, have now looked back on and said: "Because the Nazis, first off, you got...  
 **Translation:** 
 
-**[2816.08s] English:** progressive open-minded woman just could not get over this um it's a monumental battle that a lot  
+**[2827.92s] English:** To take it back to when Hitler instructed Mussolini, because let's be honest, Mussolini was Hitler's  
+**Translation:** Vocabulary: hitler: 希特勒; instructed: 指示; mussolini: 墨索里尼; nazis: 纳粹; retrospect: 回顾
+
+**[2832.24s] English:** You know what I mean? It was like, if it was Fantasy Island, Hitler was the guest.  
 **Translation:** 
 
-**[2821.92s] English:** of historians in retrospect have now looked back on and said because the nazis first off you got  
+**[2836.88s] English:** And Mussolini was boss, but the plane Mussolini ever said no to Hitler.  
 **Translation:** 
 
-**[2827.92s] English:** to take it back to when hitler instructed mussolini because let's be honest mussolini was hitler's  
-**Translation:** Vocabulary: instructed: 指示; nazis: 纳粹; retrospect: 回顾
-
-**[2832.24s] English:** you know what i mean it was like if it you know if it was fantasy island hitler was the  
+**[2841.20s] English:** Or, even maybe it's always like, "Yes, yes, yes, we'll do it.  
 **Translation:** 
 
-**[2836.88s] English:** and the and mussolini was boss the plane mussolini ever say no to hitler  
+**[2846.08s] English:** And, uh, it's like, yeah, it takes you have to take Greece and so, um, yeah, Italy being  
 **Translation:** 
 
-**[2841.20s] English:** or even maybe it's always like yes yes yes we will do it  
+**[2854.40s] English:** Much bigger, Greece is a tiny country with nine to ten million people, so Italy invaded Greece, um.  
 **Translation:** 
 
-**[2846.08s] English:** and uh it's like yeah it takes you have to take greece and so um yeah so italy being  
+**[2860.88s] English:** You know, um, and Hockey Day is a big holiday for Greeks, and this speaks to the spirit.  
 **Translation:** 
 
-**[2854.40s] English:** much bigger than greek greece is a tiny country nine ten million so italy invaded greece um  
+**[2867.68s] English:** Greeks, in fight, until we have a common enemy and then we unite—you see, it throughout history, Sparta.  
 **Translation:** 
 
-**[2860.88s] English:** you know um and hockey day is a big it's a big holiday for greeks and this speaks to the spirit  
+**[2876.08s] English:** See it in Greek families, where the brothers will fight, but then as soon as we have a  
 **Translation:** 
 
-**[2867.68s] English:** greeks in fight until we have a common enemy and then we unite you see it throughout history sparta  
+**[2880.00s] English:** A common enemy, we unite. And maybe it's an overactive brain; we think too much. Our traditions.  
 **Translation:** 
 
-**[2876.08s] English:** see it in greek families where the brothers will fight but then as soon as we have a  
-**Translation:** Vocabulary: sparta: 斯巴达
-
-**[2880.00s] English:** a common enemy we unite and maybe it's an overactive brain we think too much our traditions  
+**[2885.48s] English:** Philosophy and we often overthink things, and we fight with each other, taking things personally. We're  
 **Translation:** 
 
-**[2885.48s] English:** philosophy and we overthink things and we fight with each other and take things personally we're  
+**[2889.28s] English:** Also, passionate, but when Italy said, "We're going to move troops through," you know, Greek territory,...  
 **Translation:** 
 
-**[2889.28s] English:** also passionate but when italy said hey we're going to move troops through you know uh greek  
+**[2896.86s] English:** Said Aukey, which means "no," and that was um... And then Italy attacked, and uh, we beat the shit out.  
+**Translation:** Vocabulary: passionate: 热情的
+
+**[2903.52s] English:** Of them, a much bigger country, much better-equipped, Greece beat the shit out of them.  
 **Translation:** 
 
-**[2896.86s] English:** said aukey which means no and that was um and then italy attacked and uh we beat the shit out  
+**[2909.24s] English:** They kicked them back into Albania. Actually, not only did they repel them, but they also conquered some.  
+**Translation:** Vocabulary: albania: 阿尔巴尼亚; conquered: 征服; repel: 抵御
+
+**[2914.48s] English:** Ground in Albania pushed them back, and then Hitler was like, "Fuck, I knew this wasn't going to be easy," as he planned his march.  
 **Translation:** 
 
-**[2903.52s] English:** of them a much bigger country much uh more well-equipped country greece beat the shit of  
+**[2919.82s] English:** Russia, uh, but I have to go down because he basically said to Mussolini, "you know,  
+**Translation:** Vocabulary: hitler: 希特勒; mussolini: 墨索里尼
+
+**[2924.32s] English:** Basically, he got bitch-slapped like Fredo; I gotta do this myself because you're such a fuckingFuckwit.  
 **Translation:** 
 
-**[2909.24s] English:** them kicked them back into albania actually not only repelled them actually like conquered some  
-**Translation:** Vocabulary: albania: 阿尔巴尼亚; repelled: 击退
+**[2928.64s] English:** Bitch, yeah! So then the Nazis invaded Greece. Obviously, they took the mainland with a fight.  
+**Translation:** Vocabulary: mainland: 大陆; nazis: 纳粹
 
-**[2914.48s] English:** ground in albania pushed them back and then hitler was like fuck you know i was planning my march to  
+**[2933.00s] English:** And shout out the Greeks never give credit to the British, and New Zealand, and Australian troops that.  
 **Translation:** 
 
-**[2919.82s] English:** russia uh but i have to go down because he basically said to mussolini like you know you  
+**[2937.26s] English:** Were there, you know, they were uh  
 **Translation:** 
 
-**[2924.32s] English:** basically bitch slapped him like fredo like i gotta do this myself because you're such a fucking  
+**[2939.24s] English:** A large part of this, the majority of it, but the Greeks fought—dude, civilians, I mean, they fought.  
 **Translation:** 
 
-**[2928.64s] English:** bitch yeah so then the nazis invaded greece obviously they took the mainland with fight  
-**Translation:** Vocabulary: mainland: 大陆
-
-**[2933.00s] English:** and shout out the greeks never give credit to the british and new zealand and australian troops that  
-**Translation:** 
-
-**[2937.26s] English:** were there you know they were uh  
-**Translation:** 
-
-**[2939.24s] English:** a large part of this the majority of it but the greeks fight dude civilians i mean they fought  
-**Translation:** 
-
-**[2944.80s] English:** you know the ottomans were there 400 years you go to greece now there's no evidence there's  
+**[2944.80s] English:** You know, the Ottomans were there for 400 years. You go to Greece now, and there's no evidence.  
 **Translation:** Vocabulary: ottomans: 奥斯曼帝国
 
-**[2949.66s] English:** virtually no evidence of them ever being there that's the greek spirit kick them out and we  
+**[2949.66s] English:** Virtually no evidence of them ever being there; that's the Greek spirit. Kick them out, and we...  
 **Translation:** 
 
-**[2955.66s] English:** kicked out hummus too so it's like their culture's gone you're gone because greeks are uh it's  
-**Translation:** Vocabulary: hummus: 鹰嘴豆泥
+**[2955.66s] English:** Kicked out hummus, too, so it's like, "their culture's gone; you're gone" because Greeks are, uh, it's  
+**Translation:** Vocabulary: hummus: 鹰嘴豆泥; virtually: 几乎不
 
-**[2961.38s] English:** philoptimo it's called philoptimo it's a real thing philoptimo is uh there's very little  
+**[2961.38s] English:** Philoptimo; it's called Philoptimo, and it's a real thing. Philoptimo is, uh, there's very little  
 **Translation:** 
 
-**[2969.24s] English:** loyalty friendship uh altruism it's uh it's you can't define it but greeks know it and we're taught  
-**Translation:** Vocabulary: altruism: 无私
+**[2969.24s] English:** Loyalty, friendship, and altruism—it's hard to define, but the Greeks knew it well, and we try to teach it.  
+**Translation:** Vocabulary: altruism: 利他主义; philoptimo: 希腊式的善意
 
-**[2975.76s] English:** it from our from our uh families it's a vibe man it's a greek cultural thing and we're an old  
+**[2975.76s] English:** It's something from our families, man. It's a Greek cultural thing, and we're an old school kind of place.  
 **Translation:** 
 
-**[2981.88s] English:** culture and philoptimo is what it's called philoptimo and it's um it's love it's passion  
-**Translation:** Vocabulary: philoptimo: 父愛精神
-
-**[2987.78s] English:** and it comes out and it comes out and so um so hitler had to postpone his invasion of um of  
+**[2981.88s] English:** Culture and philoptimo is what it's called: philoptimo, and it's a form of love and passion.  
 **Translation:** 
 
-**[2995.28s] English:** russia went down the island of crete  
+**[2987.78s] English:** And it came out, and it came out, and so, um, Hitler had to postpone his invasion of...  
+**Translation:** 
+
+**[2995.28s] English:** Russia went down the island of Crete.  
 **Translation:** Vocabulary: crete: 克里特岛; postpone: 推迟
 
-**[2999.24s] English:** 10 days  
+**[2999.24s] English:** 10 Days  
 **Translation:** 
 
-**[3000.00s] English:** to conquer it's an island to put that in perspective the country of france fell in  
+**[3000.00s] English:** To conquer, it's an island. To put that in perspective, the country of France fell in.  
 **Translation:** 
 
-**[3006.64s] English:** three or four days i can't even remember because they fucking just rolled over so what is what  
+**[3006.64s] English:** Three or four days, I can't even remember because they fucking just rolled over, so what is what?  
 **Translation:** 
 
-**[3009.90s] English:** what does a couple hours matter when you're that much of a fucking pussy yeah okay what is a couple  
+**[3009.90s] English:** What does a couple of hours matter when you're that much of a fucking pussy? Yeah, okay, what is a couple?  
 **Translation:** 
 
-**[3014.88s] English:** out in 12 hours three or four days the island of crete yeah took the germans 10 days to conquer  
+**[3014.88s] English:** Out in 12 hours, three or four days later, the island of Crete: yes, it took the Germans 10 days to conquer.  
 **Translation:** 
 
-**[3021.60s] English:** and because of that and because of the greek resistance hitler had to postpone his invasion  
+**[3021.60s] English:** And because of that, and because of the Greek resistance, Hitler had to postpone his invasion.  
+**Translation:** Vocabulary: hitler: 希特勒
+
+**[3027.64s] English:** Of Russia to winner, and of course, that was his downfall, just as it was.  
 **Translation:** 
 
-**[3027.64s] English:** of russia to winner and of course that was you know that was his downfall just as it was  
-**Translation:** 
-
-**[3033.32s] English:** napoleons and uh never dude never try to invade russia they got millions of people to throw at  
+**[3033.32s] English:** Napoleons and, uh, never, dude—never try to invade Russia; they got millions of people to throw at.  
 **Translation:** Vocabulary: downfall: 失败; napoleons: 拿破仑
 
-**[3038.34s] English:** death every time you read about russians in history books like and a million died i mean  
+**[3038.34s] English:** Death, every time you read about Russians in history books: "like, and a million died," I mean.  
 **Translation:** 
 
-**[3042.52s] English:** so you just guys throw millions of people at the problem and don't fuck with that russian winner  
+**[3042.52s] English:** So, you just guys throw millions of people at the problem and don't f**k with that Russian winner.  
 **Translation:** 
 
-**[3047.02s] English:** and don't fuck with russian people dude they're tough people in new york know that you don't go  
+**[3047.02s] English:** And don't fuck with Russian people, dude. They're tough people in New York; know that you don't go.  
 **Translation:** 
 
-**[3051.64s] English:** to fucking sheep's head bay and start talking shit you'll end up in a fucking car trunk and  
+**[3051.64s] English:** To fucking sheep's head Bay and start talking shit, you'll end up in a fucking car trunk and...  
 **Translation:** 
 
-**[3055.48s] English:** they'll brutally murder you i do not fuck with russia  
+**[3055.48s] English:** They'll brutally murder you. I do not fuck with Russia.  
 **Translation:** 
 
-**[3057.64s] English:** amen and then there's i mean there's a lot of people a lot of historians argue that that battle  
+**[3057.64s] English:** Amen, and then there's; I mean, there are a lot of people, a lot of historians, who argue that that battle...  
 **Translation:** Vocabulary: brutally: 残忍地
 
-**[3063.88s] English:** was because of the russian winter because of delaying the russian invasion but also  
+**[3063.88s] English:** It was because of the Russian winter, which delayed the Russian invasion, but also,...  
 **Translation:** 
 
-**[3067.96s] English:** psychologically delaying the invasion it was the first time i think it was the first time the  
-**Translation:** Vocabulary: delaying: 推迟; psychologically: 心理上
+**[3067.96s] English:** Psychologically delaying the invasion; it was the first time, I think, it was the first time the  
+**Translation:** Vocabulary: delaying: 拖延; psychologically: 心理上
 
-**[3073.44s] English:** germans failed not or didn't succeed like they wanted to early in the war which is a little like  
+**[3073.44s] English:** Germans failed, or didn't succeed, like they wanted to early in the war, which is a little like  
 **Translation:** 
 
-**[3081.66s] English:** psychologically the impact of that i think is immeasurable and also a lot of people  
-**Translation:** Vocabulary: immeasurable: 无法衡量
+**[3081.66s] English:** Psychologically, the impact of that I think is immeasurable, and also a lot of people.  
+**Translation:** Vocabulary: immeasurable: 无法衡量的
 
-**[3087.62s] English:** argue from a military strategy perspective that the just like you said it was an aerial attack and  
+**[3087.62s] English:** Argue from a military strategy perspective that, just like you said, it was an aerial attack and  
 **Translation:** 
 
-**[3094.58s] English:** that hitler didn't think that the that kind of attack would then be useful for the rest of the  
+**[3094.58s] English:** That Hitler didn't think that kind of attack would then be useful for the rest of the  
 **Translation:** Vocabulary: aerial: 空袭
 
-**[3101.06s] English:** war so that's that's a really part where whereas it might have been very useful so it's uh it's  
+**[3101.06s] English:** War, so that's really a part where it might have been very useful, so it's...  
 **Translation:** 
 
-**[3107.86s] English:** really interesting how these little battles can steer the directions of war of course  
+**[3107.86s] English:** Really interesting how these little battles can steer the direction of war, of course.  
 **Translation:** 
 
-**[3112.18s] English:** me growing up in the soviet union we didn't hear much about this battle  
+**[3112.18s] English:** Growing up in the Soviet Union, we didn't hear much about this battle.  
 **Translation:** 
 
-**[3117.62s] English:** just like you said millions of soviets died  
-**Translation:** 
+**[3117.62s] English:** Just like you said, millions of Soviets died.  
+**Translation:** Vocabulary: soviets: 苏联人
 
-**[3120.00s] English:** All those people in history that you read about dying, those are all civilians.  
+**[3120.00s] English:** All those people in history that you read about dying—those are all civilians.  
 **Translation:** 
 
 **[3123.80s] English:** But I mean, not all, but a very large number of them are civilians.  
 **Translation:** 
 
-**[3127.34s] English:** And their stories, obviously, that's the rooted, the literature, the poetry, the music, just  
+**[3127.34s] English:** And their stories—obviously—that's the root of the literature, the poetry, the music, just  
 **Translation:** 
 
-**[3133.66s] English:** the way people talk, the way they drink vodka, the way they love, the way they hate, the  
+**[3133.66s] English:** The way people talk, the way they drink vodka, the way they love, the way they hate, the  
 **Translation:** Vocabulary: vodka: 伏特加
 
-**[3138.94s] English:** way they fear, that's all like rooted in World War II and World War I.  
+**[3138.94s] English:** They fear, way they do, is all rooted in World War II and World War I.  
 **Translation:** 
 
-**[3144.28s] English:** And so, but we never kind of think about Europe.  
+**[3144.28s] English:** And so, but we never really think about Europe.  
 **Translation:** 
 
 **[3148.94s] English:** And we certainly, growing up, didn't think about the role of the United States.  
 **Translation:** 
 
-**[3154.14s] English:** There's plenty of stories of heroism in the Soviet Union, enough for many lifetimes.  
+**[3154.14s] English:** There are plenty of stories of heroism in the Soviet Union; enough for many lifetimes.  
 **Translation:** Vocabulary: lifetimes: 一生
 
-**[3160.38s] English:** But it was fascinating to read from a Greek perspective, because I don't have many Greek  
+**[3160.38s] English:** But it was fascinating to read from a Greek perspective, because I don't have many Greek sources available to me.  
 **Translation:** 
 
-**[3166.44s] English:** friends.  
+**[3166.44s] English:** Friends.  
 **Translation:** 
 
 **[3167.52s] English:** I'm hoping to change that.  
 **Translation:** 
 
-**[3170.38s] English:** This is the beginning of a love affair of your people.  
+**[3170.38s] English:** This is the beginning of a love affair for your people.  
 **Translation:** 
 
 **[3175.80s] English:** Likewise, the Americans don't hear about the Soviet contribution.  
@@ -2221,31 +2222,31 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3178.94s] English:** To the end of World War II, because obviously, we became enemies after that because of the  
 **Translation:** Vocabulary: likewise: 同样地
 
-**[3183.90s] English:** two systems.  
+**[3183.90s] English:** Two systems.  
 **Translation:** 
 
-**[3184.84s] English:** But yeah, without the Russians, World War II wouldn't have been won either.  
+**[3184.84s] English:** But, yeah, without the Russians, World War II wouldn't have been won either.  
 **Translation:** 
 
 **[3188.70s] English:** Yeah, the stories are written by the victors.  
 **Translation:** 
 
 **[3190.28s] English:** That's really interesting.  
-**Translation:** 
+**Translation:** Vocabulary: victors: 胜利者
 
 **[3191.58s] English:** Just looking at history, you wonder what's missing.  
 **Translation:** 
 
-**[3196.30s] English:** I'll tell you what's missing that I know for a fact.  
+**[3196.30s] English:** I'll tell you what's missing—that I know for a fact.  
 **Translation:** 
 
-**[3198.86s] English:** Because my dad told me combat's hell, and he would tell me the reality of what it's  
+**[3198.86s] English:** Because my dad told me that combat's hell, and he would tell me the reality of what it's like.  
 **Translation:** 
 
-**[3203.22s] English:** really like.  
+**[3203.22s] English:** Really like.  
 **Translation:** 
 
-**[3203.62s] English:** Guys pissing themselves, calling for their mother, the fog of war, obviously.  
+**[3203.62s] English:** Guys pissing themselves, calling for their mothers—the fog of war, obviously.  
 **Translation:** 
 
 **[3207.68s] English:** Fratricide happens all the time.  
@@ -2260,115 +2261,115 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3213.46s] English:** It's just luck.  
 **Translation:** 
 
-**[3214.10s] English:** My dad said, my dad won three.  
+**[3214.10s] English:** My dad said, "My dad won three.  
 **Translation:** 
 
-**[3216.22s] English:** He got, you know, medals, purple hearts, all that shit.  
+**[3216.22s] English:** He got, you know, medals, purple hearts, and all that stuff.  
 **Translation:** 
 
-**[3219.70s] English:** And he said the reason was because he can't, he always said, this is another thing he told  
+**[3219.70s] English:** And he said the reason was because he can't; he always said, "this is another thing he told.  
 **Translation:** 
 
-**[3222.44s] English:** me, you can't pin a medal on a dead guy.  
+**[3222.44s] English:** You can't pin a medal on a dead guy.  
 **Translation:** 
 
-**[3224.66s] English:** So it's like, those are the guys who deserve it, but you can't pin a medal.  
+**[3224.66s] English:** So, it's like those are the guys who deserve it, but you can't pin a medal on them.  
 **Translation:** 
 
-**[3227.82s] English:** You can't do the pomp and I'll tell you one thing is that it is written by the victors  
+**[3227.82s] English:** You can't do the pomp, and I'll tell you one thing: it is written by the victors.  
 **Translation:** 
 
-**[3234.86s] English:** and all these leaders, they say we're in the front.  
+**[3234.86s] English:** And all these leaders say we're in the front.  
 **Translation:** 
 
 **[3237.44s] English:** We're not in the front.  
 **Translation:** 
 
-**[3238.34s] English:** We're not, whenever the history.  
+**[3238.34s] English:** We're not whenever the history.  
 **Translation:** 
 
-**[3240.00s] English:** books say he led his troops into battle it's like did he really did he so then how did he live  
+**[3240.00s] English:** Books say he led his troops into battle. It's like, did he really do that? So then, how did he live?  
 **Translation:** 
 
-**[3245.54s] English:** because they put like kids in the front you know it's like nobody limps back from the front with  
+**[3245.54s] English:** Because they put like kids in the front, you know, it's like nobody limps back from the front with.  
 **Translation:** 
 
-**[3249.86s] English:** like a injury you know that's that's army pr you know whenever you read uh you know 27 soldiers  
+**[3249.86s] English:** Like an injury, you know, that's that's Army PR. You know, whenever you read, uh, you know, 27 soldiers.  
 **Translation:** 
 
-**[3257.76s] English:** died 14 were injured the the word injured is pr that's like injured was he did he sprain his ankle  
-**Translation:** Vocabulary: sprain: 扭伤
+**[3257.76s] English:** Died, 14 were injured. The word "injured" is used, but that's like saying he sprained his ankle; did he?  
+**Translation:** Vocabulary: sprained: 扭伤
 
-**[3264.16s] English:** did he need yeah did he get carried off the court or you know he was maimed i mean he was like his  
+**[3264.16s] English:** Did he need to be carried off the court, or you know, he was maimed? I mean, he was like that.  
 **Translation:** 
 
-**[3270.42s] English:** leg was blown off you know it's like so uh i think that you know alexander the great was just kind of  
+**[3270.42s] English:** Leg was blown off, you know? It's like, so... I think that Alexander the Great was just kind of  
 **Translation:** Vocabulary: maimed: 残疾
 
-**[3275.58s] English:** in the back on his horse and just kind of he had his eunuch blown a few times and he was like is  
+**[3275.58s] English:** In the back, on his horse, and just kind of had his eunuch blow a few times; he was like, "Is  
 **Translation:** 
 
-**[3279.48s] English:** it bad up there and then like after that he was like okay with my scribe give me my scribe okay  
-**Translation:** Vocabulary: eunuch: 太监; scribe: 书记
+**[3279.48s] English:** It was bad up there, and then, like, after that, he was like, "Okay, with my scribe, give me my scribe, okay.  
+**Translation:** Vocabulary: eunuch: 太监; scribe: 书记员
 
-**[3284.12s] English:** when you write this down can you put me in the front yeah and i was just make me a big hero  
+**[3284.12s] English:** When you write this down, can you put me in the front? Yeah, and I was just making me a big hero.  
 **Translation:** 
 
-**[3288.22s] English:** and i was in there and then he you know he just blew his you know he had sex with his eunuch and  
+**[3288.22s] English:** And I was in there, and then he, you know, he just blew his... He had sex with his eunuch, and...  
 **Translation:** 
 
-**[3294.16s] English:** and i was in there and then he just blew his you know he had sex with his eunuch and  
+**[3294.16s] English:** And I was in there, and then he just blew his... You know, he had sex with his eunuch, and...  
 **Translation:** 
 
-**[3296.22s] English:** i was in there and then he just blew his you know he had sex with his eunuch and  
+**[3296.22s] English:** I was in there, and then he just blew his... You know, he had sex with his eunuch and...  
 **Translation:** 
 
-**[3298.66s] English:** then again you have like uh jengis khan the sense i got that he was a little bit  
+**[3298.66s] English:** Then again, you have someone like Genghis Khan; the sense I got is that he was a little bit ruthless.  
 **Translation:** 
 
-**[3304.86s] English:** up on the front at least the first yeah or is that also is he a little bit  
+**[3304.86s] English:** Up on the front, at least the first, yeah, or is that also? Is he a little bit?  
+**Translation:** Vocabulary: genghis: 成吉思汗; ruthless: 残忍
+
+**[3309.44s] English:** Give me my scribe, yeah. It's all lore, I mean. You ever play the game of telephone?  
 **Translation:** 
 
-**[3309.44s] English:** give me my scribe yeah it's all lore i mean you ever play the game of telephone  
+**[3312.88s] English:** You know, it's like you know, there were no video cameras back then, so shit just got done.  
 **Translation:** 
 
-**[3312.88s] English:** you know it's like you know there's no video cameras back then so shit just get  
+**[3317.60s] English:** Turns into myth, you know, and there's no way he was in the front; there's no way he wouldn't.  
 **Translation:** 
 
-**[3317.60s] English:** turns into myth you know and uh there's no way he was in the front there's no way he wouldn't  
+**[3322.44s] English:** Have lived, you know, he was.  
 **Translation:** 
 
-**[3322.44s] English:** have lived you know he was  
+**[3324.12s] English:** You know, he was.  
 **Translation:** 
 
-**[3324.12s] English:** you know he was  
+**[3324.16s] English:** Probably good on horseback because those dudes were good on horseback, but  
+**Translation:** Vocabulary: horseback: 马背
+
+**[3328.58s] English:** It was like Game of Thrones back then; you had all these different people, and they kind of  
 **Translation:** 
 
-**[3324.16s] English:** probably good on horseback because those those dudes were good on horseback but  
+**[3331.84s] English:** Yeah, the Mongols were wild, dude. They are actually said to have started out as nomadic tribes.  
 **Translation:** 
 
-**[3328.58s] English:** it was like game of thrones back then you had all these different people and they kind of  
+**[3337.72s] English:** More adaptable to the horse because they were so good on horseback that kids started to be born.  
 **Translation:** 
 
-**[3331.84s] English:** yeah the the the mongols were wild dude they are actually said like um they started like they were  
+**[3342.34s] English:** Like, kind of bow-legged, like to fit the horse; it's wild, and they would stretch their heads and.  
+**Translation:** Vocabulary: adaptable: 易于适应的
+
+**[3346.50s] English:** Shit like that, they'd wrap them and stretch their heads, so they find Mongol skulls and they  
 **Translation:** 
 
-**[3337.72s] English:** more adaptable to the horse because they were so good on horseback that kids started to be born  
+**[3351.42s] English:** Look like cone heads, and they were.  
+**Translation:** Vocabulary: skulls: 头骨
+
+**[3354.16s] English:** Brutal and vicious, and they would maraud and rape—and all the fun stuff that you know.  
 **Translation:** 
 
-**[3342.34s] English:** like kind of bow-legged like to fit the horse it's wild and they would stretch their heads and  
-**Translation:** Vocabulary: adaptable: 灵活适应; horseback: 骑马
-
-**[3346.50s] English:** shit like that they'd wrap them and stretch their heads so they find like mongol skulls and they  
-**Translation:** 
-
-**[3351.42s] English:** look like cone heads and they were  
-**Translation:** 
-
-**[3354.16s] English:** brutal and vicious and they would maraud and rape and all the fun stuff that you know  
-**Translation:** 
-
-**[3360.00s] English:** When you visit other places back then, there's no tchotchke stops and souvenir shops.  
+**[3360.00s] English:** When you visited other places back then, there were no tchotchke stops or souvenir shops.  
 **Translation:** Vocabulary: brutal: 残忍; souvenir: 纪念品; vicious: 凶残
 
 **[3364.24s] English:** What you do is you take women, and those are the tokens.  
@@ -2398,19 +2399,19 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3388.36s] English:** The United States is a shining example of that.  
 **Translation:** 
 
-**[3391.38s] English:** But do you think also that it's that effect that we were—a lot of good things had to happen, too, or else we wouldn't be here.  
+**[3391.38s] English:** But do you think that, as well, there had to be a lot of good things that happened for us to be here?  
 **Translation:** 
 
-**[3397.96s] English:** So do we just focus—isn't it like a car crash effect?  
+**[3397.96s] English:** So, do we just focus—isn't it like a car crash effect?  
 **Translation:** 
 
-**[3401.30s] English:** The rubberneck, everyone pulls over to see a car crash.  
+**[3401.30s] English:** The rubberneck: Everyone pulls over to see a car crash.  
 **Translation:** Vocabulary: rubberneck: 围观者
 
-**[3404.54s] English:** Are we just only focusing on the negative things of history because they're just more exciting to us?  
+**[3404.54s] English:** Are we just focusing on the negative things of history because they're just more exciting to us?  
 **Translation:** 
 
-**[3408.64s] English:** It's just not—it's boring to be like, yeah, and then there was a bunch of villagers, and they ate every day and danced and—  
+**[3408.64s] English:** It's just not— it's boring to be like, "Yeah, and then there was a bunch of villagers who ate every day and danced—and—  
 **Translation:** 
 
 **[3414.30s] English:** And loved.  
@@ -2419,31 +2420,31 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3414.84s] English:** I wonder how different those people were.  
 **Translation:** 
 
-**[3418.36s] English:** They might have had the same exact loves and fears, and they perhaps had the same kind of brilliant ideas in their head, if not more brilliant.  
+**[3418.36s] English:** They might have had the same exact loves and fears, and they perhaps had even more brilliant ideas in their heads, if not as many.  
 **Translation:** 
 
 **[3431.88s] English:** And we kind of think about this moment in history as the most special moment.  
 **Translation:** 
 
-**[3436.34s] English:** We're doing the coolest shit.  
+**[3436.34s] English:** We're doing the coolest shit!  
 **Translation:** 
 
-**[3438.18s] English:** We're doing the most amazing—building the most amazing things.  
+**[3438.18s] English:** We're doing the most amazing things—building the most amazing things.  
 **Translation:** 
 
-**[3440.68s] English:** But maybe they were building amazing things in their different way, with less technological, but in the space of ideas, in the space of just—  
+**[3440.68s] English:** But maybe they were building amazing things in their different way, with less technology, but in the space of ideas, in the space of just—  
 **Translation:** 
 
-**[3448.36s] English:** All the different—the camaraderie, in the space of, like, concepts, mathematics, all those kinds of things.  
-**Translation:** Vocabulary: camaraderie: 同甘共苦
+**[3448.36s] English:** All the different—like, the camaraderie, in the space of concepts and mathematics, and all those kinds of things.  
+**Translation:** Vocabulary: camaraderie: 同伴情谊
 
-**[3455.56s] English:** Yeah, I mean, Greece, you look at the architecture, it still stands up.  
+**[3455.56s] English:** Yeah, I mean, Greece: you look at the architecture; it still stands up.  
 **Translation:** 
 
-**[3457.96s] English:** I mean, all the government—it's still arguably, I mean, as far as objective beauty, it's hard to argue that Greco-Roman—  
+**[3457.96s] English:** I mean, all the government—it's still, arguably, as far as objective beauty is concerned, it's hard to argue that Greco-Roman—is  
 **Translation:** Vocabulary: arguably: 可以说
 
-**[3464.88s] English:** It's just something about it, with the columns, it's just—it's powerful, it's—I don't know, even Ayn Rand would probably appreciate it.  
+**[3464.88s] English:** It's just something about it, with the columns; it's just — it's powerful, it's — I don't know, even Ayn Rand would probably appreciate it.  
 **Translation:** 
 
 **[3473.96s] English:** She doesn't, no.  
@@ -2455,17 +2456,17 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3475.96s] English:** No.  
 **Translation:** 
 
-**[3478.36s] English:** So in your—  
+**[3478.36s] English:** So, in your—  
 **Translation:** 
 
-**[3480.00s] English:** History hyenas that unfortunately has come to an end.  
-**Translation:** Vocabulary: hyenas: 遗骸
+**[3480.00s] English:** History of hyenas that unfortunately has come to an end.  
+**Translation:** Vocabulary: hyenas: 鬣狗
 
 **[3483.26s] English:** We're talking about empires coming to an end.  
 **Translation:** 
 
 **[3485.24s] English:** All empires fall.  
-**Translation:** 
+**Translation:** Vocabulary: empires: 帝国
 
 **[3487.86s] English:** That one, it may rise again.  
 **Translation:** 
@@ -2479,13 +2480,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3493.00s] English:** Who knows?  
 **Translation:** 
 
-**[3493.98s] English:** I'm obviously a fan, so I hope it does rise again.  
+**[3493.98s] English:** I'm obviously a fan, so I hope it rises again.  
 **Translation:** 
 
 **[3497.94s] English:** But you've seemed to develop your own language.  
 **Translation:** 
 
-**[3502.40s] English:** Can you, you know, it's what it is.  
+**[3502.40s] English:** Can you, you know? It's what it is.  
 **Translation:** 
 
 **[3506.10s] English:** What is that?  
@@ -2497,64 +2498,64 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3509.68s] English:** Is this some kind of medical condition?  
 **Translation:** 
 
-**[3511.84s] English:** Can you explain, like, the linguistic essentials that catch us up to the linguistic essentials that people need to know to understand the way you speak?  
+**[3511.84s] English:** Can you explain, like, the linguistic essentials that we need to know to understand the way you speak?  
 **Translation:** 
 
 **[3522.78s] English:** You know Leopold and Loeb?  
-**Translation:** Vocabulary: linguistic: 语言的
+**Translation:** Vocabulary: essentials: 必备知识; linguistic: 语言的
 
 **[3524.18s] English:** You know the story of those two?  
 **Translation:** 
 
-**[3525.78s] English:** They murdered that kid and they had this weird relationship.  
+**[3525.78s] English:** They murdered that kid, and they had this weird relationship.  
 **Translation:** 
 
-**[3529.68s] English:** Anyway, it's an interesting thing to Google, Leopold and Loeb, these two guys who ended up murdering a kid because they developed their own language with each other.  
+**[3529.68s] English:** Anyway, it's an interesting thing to Google "Leopold and Loeb." These two guys ended up murdering a kid because they developed their own language with each other.  
 **Translation:** 
 
-**[3536.74s] English:** And this own reality and this weird thing.  
+**[3536.74s] English:** And this own reality, and this weird thing.  
+**Translation:** Vocabulary: leopold: 勒罗伊
+
+**[3539.56s] English:** And they wanted to know what it's like to murder a kid, and they murdered a kid.  
 **Translation:** 
 
-**[3539.56s] English:** And they wanted to know what it's like to murder a kid and they murdered a kid.  
-**Translation:** 
-
-**[3541.66s] English:** It's a famous story in American lore and history or whatever.  
+**[3541.66s] English:** It's a famous story in American lore and history, or so they say.  
 **Translation:** 
 
 **[3545.30s] English:** Famous case.  
 **Translation:** 
 
-**[3546.98s] English:** But this phenomenon, yeah, me and Chris got together.  
+**[3546.98s] English:** But this phenomenon, yeah, Chris and I got together.  
 **Translation:** 
 
 **[3550.14s] English:** It wasn't as dark as Leopold and Loeb.  
 **Translation:** 
 
 **[3551.90s] English:** We didn't murder a kid.  
-**Translation:** Vocabulary: leopold: 勒罗伊案件
+**Translation:** 
 
 **[3553.20s] English:** But we murdered a podcast.  
 **Translation:** 
 
-**[3556.84s] English:** Or at least stabbed it a few times.  
+**[3556.84s] English:** Or, at least, stab it a few times.  
 **Translation:** 
 
 **[3558.26s] English:** Yeah, it was something in the organic chemistry of me and Chris that I think we'll both end up.  
 **Translation:** 
 
-**[3566.12s] English:** Uh, appreciating even probably more than we do now that, uh, it's mysterious.  
+**[3566.12s] English:** Uh, appreciating, even probably more than we do now, that it's mysterious.  
 **Translation:** 
 
-**[3571.94s] English:** I gotta be honest with you.  
+**[3571.94s] English:** I've got to be honest with you.  
 **Translation:** 
 
-**[3573.02s] English:** It's, um, it was the thing that, uh, it wasn't conscious, uh, wasn't intentional.  
-**Translation:** Vocabulary: intentional: 有意图的
+**[3573.02s] English:** It's, um, it was the thing that; uh, it wasn't conscious and wasn't intentional.  
+**Translation:** Vocabulary: intentional: 有意的
 
 **[3579.80s] English:** It was something that happened in the music of our energies that just went fascinating.  
 **Translation:** 
 
-**[3585.74s] English:** Like when you hear someone saying, or when a jazz band hits a rhythm or even when I'm on stage and I just catch a rhythm, it's like, dude, I didn't make a choice there.  
+**[3585.74s] English:** Like when you hear someone saying, or when a jazz band hits a rhythm, or even when I'm on stage and I just catch a rhythm, it's like, "Dude, I didn't make a choice there.  
 **Translation:** Vocabulary: energies: 能量
 
 **[3594.16s] English:** I don't know what that is.  
@@ -2563,439 +2564,439 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[3595.12s] English:** I don't know how to explain it.  
 **Translation:** 
 
-**[3596.12s] English:** But it comes from somewhere else and, uh, I don't know what.  
+**[3596.12s] English:** But it comes from somewhere else, and I don't know what.  
 **Translation:** 
 
-**[3600.00s] English:** it is it's beyond my comprehension but with chris uh there was this magical chemistry that uh you  
-**Translation:** Vocabulary: comprehension: 理解能力
+**[3600.00s] English:** It is beyond my comprehension, but with Chris, there was this magical chemistry that just clicked.  
+**Translation:** Vocabulary: comprehension: 理解
 
-**[3606.92s] English:** know i have chemistry with a lot of people and uh it can be funny and i feel zero chemistry here  
+**[3606.92s] English:** I know I have chemistry with a lot of people, and it can be funny, but I feel zero chemistry here.  
 **Translation:** 
 
-**[3611.46s] English:** this is great yeah it's a little bit more intelligent than what me and chris did uh  
+**[3611.46s] English:** This is great, yeah. It's a little bit more intelligent than what me and Chris did, uh.  
 **Translation:** 
 
-**[3616.36s] English:** but you know uh me and chris uh i think we connected in on the funny bone like i he i  
+**[3616.36s] English:** But you know, uh, me and Chris — I think we connected on the funny bone.  
 **Translation:** 
 
-**[3622.88s] English:** found him so funny and we found the same things funny and from that these organic expressions  
+**[3622.88s] English:** Found him so funny, and we found the same things funny, and from that, these organic expressions.  
 **Translation:** 
 
-**[3628.96s] English:** came from the some part of our brains that was created from this chemistry and yeah we just  
+**[3628.96s] English:** Came from the some part of our brains that was created by this chemistry, and yeah, we just  
 **Translation:** 
 
-**[3634.96s] English:** developed this in language in this cult following and people were really upset when we ended but it  
+**[3634.96s] English:** Developed this in a language with this cult following, and people were really upset when we ended, but it  
 **Translation:** 
 
-**[3640.44s] English:** was the right thing to end because like all things that end it was kind of done a few episodes even  
+**[3640.44s] English:** It was the right thing to end, because like all things that end, it was kind of done in a few episodes, even.  
 **Translation:** 
 
-**[3645.48s] English:** before we finished and i think we pulled the plug before it started rolling downhill like all uh you  
+**[3645.48s] English:** Before we finished, and I think we pulled the plug before it started rolling downhill like all of that.  
 **Translation:** Vocabulary: downhill: 下滑
 
-**[3651.96s] English:** know like all great flings you know there's your long relation long marriages are boring and  
+**[3651.96s] English:** Know, like all great flings, you know, there's your long relations and long marriages are boring, and  
 **Translation:** 
 
-**[3657.04s] English:** comfortable  
+**[3657.04s] English:** Comfortable.  
 **Translation:** 
 
-**[3658.96s] English:** the one you really like always ends abruptly and sadly and uh but you always look back and  
+**[3658.96s] English:** The one you really like always ends abruptly and sadly, and uh, but you always look back.  
 **Translation:** 
 
-**[3665.84s] English:** you jerk off to it and uh but so you guys made love we may yeah so it's like it was like a hot  
-**Translation:** Vocabulary: abruptly: 突然中断
+**[3665.84s] English:** You jerk off to it, and uh, but so you guys made love, we may, yeah, so it's like it was like a hot.  
+**Translation:** Vocabulary: abruptly: 突然地
 
-**[3671.84s] English:** fling with me and him and it was intense and we burned the candle at both ends and it was  
+**[3671.84s] English:** Fling with me and him, and it was intense. We burned the candle at both ends, and it was  
 **Translation:** 
 
-**[3678.40s] English:** i think that podcast was meant to be three years and um maybe people will go back and appreciate  
+**[3678.40s] English:** I think that podcast was meant to be three years, and maybe people will go back and appreciate it.  
 **Translation:** 
 
-**[3684.96s] English:** it and listen to it over and over again and i think the new things we do people will love it  
+**[3684.96s] English:** It and listen to it over and over again, and I think the new things we do people will love it.  
 **Translation:** 
 
-**[3688.96s] English:** i'm doing long days now that podcast and people seem to enjoy really enjoying the long days yeah  
+**[3688.96s] English:** I'm doing long days now, especially for the podcast, and people seem to enjoy them—really enjoying the long days, yeah.  
 **Translation:** 
 
-**[3693.84s] English:** yeah on youtube i just found myself just like staring at you uh ranting for same with tim  
+**[3693.84s] English:** Yeah, on YouTube, I just found myself just like staring at you, uh, ranting for the same reason as Tim.  
 **Translation:** 
 
-**[3700.78s] English:** dylan i really enjoyed the whatever those rants are the genius of just one thing after the other  
-**Translation:** Vocabulary: dylan: 迪伦; ranting: 长篇大论; rants: 长篇大论
+**[3700.78s] English:** Dylan, I really enjoyed the rants you did; the genius is in one thing after another.  
+**Translation:** Vocabulary: dylan: 迪伦; ranting: 吐槽; rants: 吐槽
 
-**[3705.20s] English:** but definitely the chemistry almost as a study i remember the reason i first started listening to  
+**[3705.20s] English:** But definitely, the chemistry — almost as a study, I remember the reason I first started listening to.  
 **Translation:** 
 
-**[3711.36s] English:** it i was trying to get an a perspective on certain historical moments like it was interesting i tuned  
+**[3711.36s] English:** It's interesting; I was trying to get a perspective on certain historical moments.  
 **Translation:** 
 
-**[3718.96s] English:** in to learn history  
+**[3718.96s] English:** To Learn History  
 **Translation:** 
 
-**[3720.00s] English:** yeah i came for the history and like stayed for the the chaos and the crack open and clean out  
+**[3720.00s] English:** Yeah, I came for the history and liked staying for the chaos, the crack-open, and clean-out.  
 **Translation:** 
 
-**[3727.22s] English:** and yeah this it was almost i listened to rogan like this sometimes i'll i'll re-listen to an  
+**[3727.22s] English:** And yeah, this is it. It was almost like I listened to Rogan; sometimes I'll re-listen to an.  
 **Translation:** 
 
-**[3735.72s] English:** episode uh just to try to understand why was this so fun to listen to it's almost like trying to  
+**[3735.72s] English:** Episode: Uh, just to try to understand why this was so fun to listen to, it's almost like trying to  
 **Translation:** 
 
-**[3744.80s] English:** analyze humor or something like that but it's nice from from a conversational perspective like  
+**[3744.80s] English:** Analyze humor, or something like that, but it's nice from a conversational perspective, like  
 **Translation:** 
 
-**[3749.48s] English:** why was this so easy to listen to and then and uh with history hyena's like why is the chemistry so  
-**Translation:** Vocabulary: conversational: 谈话式的
+**[3749.48s] English:** Why was this so easy to listen to, and then, with history, hyenas—like, why is the chemistry so?  
+**Translation:** Vocabulary: conversational: 对话的; hyenas: 土狼
 
-**[3755.68s] English:** good it's it's so it's weird it's weird uh because there's not many podcasts like that i don't know  
+**[3755.68s] English:** Good, it's so weird because there aren't many podcasts like that, I don't know.  
 **Translation:** 
 
-**[3762.48s] English:** any with the chemistry like that yeah it's interesting and it's kind of sad that uh that  
+**[3762.48s] English:** Any with the chemistry like that, yeah, it's interesting and it's kind of sad that, uh, that.  
 **Translation:** 
 
-**[3767.28s] English:** that uh the the fling with the prostitute in vegas has to end you know like that but that's  
+**[3767.28s] English:** That, uh, the fling with the prostitute in Vegas has to end, you know, like that, but that's  
 **Translation:** 
 
-**[3774.52s] English:** what makes it special it's the bukowski thing with the fog the the british office one of my  
-**Translation:** Vocabulary: prostitute: 青楼女子; vegas: 拉斯维加斯
+**[3774.52s] English:** What makes it special is the Bukowski thing with the fog, the British office—one of my favorites.  
+**Translation:** Vocabulary: bukowski: Bukowski风格; prostitute: 鸡头; vegas: 拉斯维加斯
 
-**[3779.46s] English:** favorite shows was was that it ended very quick you know it's only a couple seasons or something  
+**[3779.46s] English:** My favorite show was that it ended very quickly, you know—it's only a couple of seasons or something.  
 **Translation:** 
 
-**[3784.66s] English:** like that and that was tragic but that took guts to just end it given all the money you could have  
+**[3784.66s] English:** Like that, and that was tragic. But that took some real guts to just end it, given all the money you could have.  
 **Translation:** 
 
-**[3790.66s] English:** given all the you just end it and that's what makes it like truly special yeah and i'll tell  
+**[3790.66s] English:** Given all that, you just end it, and that's what makes it truly special, yeah, and I'll tell.  
 **Translation:** 
 
-**[3796.00s] English:** you man i'll just emphasize it because i marvel at it too um because as a guy who tries to always  
-**Translation:** Vocabulary: marvel: 惊叹
+**[3796.00s] English:** You know, I'll just emphasize it because I marvel at it too. Um, because as a guy who tries to always  
+**Translation:** Vocabulary: emphasize: 强调; marvel: 惊叹
 
-**[3801.20s] English:** figure out uh what the causes of things i gotta be honest man looking back on that even with  
+**[3801.20s] English:** Figure out, uh, what the causes of things. I've got to be honest; man, looking back on that, even with  
 **Translation:** 
 
-**[3809.46s] English:** we've been done a couple months now it's um it's something that i can't explain yeah it's something  
+**[3809.46s] English:** We've been doing this for a couple of months now. It's something that I can't explain, yeah. It's something...  
 **Translation:** 
 
-**[3816.02s] English:** that i don't know how you quantify it i don't know how you describe it it's it's musical it's  
+**[3816.02s] English:** That I don't know how you quantify it, I don't know how you describe it; it's musical, it's...  
 **Translation:** 
 
-**[3821.66s] English:** really kind of rhythmic so maybe uh maybe like a netflix show about history that's that's in the  
+**[3821.66s] English:** Really kind of rhythmic, so maybe, uh, maybe like a Netflix show about history that's that's in the  
 **Translation:** Vocabulary: quantify: 量化; rhythmic: 有节奏的
 
-**[3828.04s] English:** that that's in the future that maybe with the two of you yeah who knows you you guys will meet like  
+**[3828.04s] English:** That's in the future, that maybe with the two of you, yeah. Who knows? You guys will meet like  
 **Translation:** 
 
-**[3833.60s] English:** uh with that the way you meet with the fling like a decade from now at a diner  
+**[3833.60s] English:** Uh, with that, the way you meet up with an old friend like a decade from now at a diner.  
 **Translation:** Vocabulary: diner: 餐馆
 
-**[3839.46s] English:** and uh  
+**[3839.46s] English:** And uh,...  
 **Translation:** 
 
-**[3840.00s] English:** you're both way fatter and uglier and and then you just reminisce over some cigarettes and coffee  
+**[3840.00s] English:** You're both way fatter and uglier, and then you just reminisce over some cigarettes and coffee.  
 **Translation:** Vocabulary: reminisce: 回忆
 
-**[3846.42s] English:** it could be yeah it could be yeah but uh it's definitely a classic podcast that people can  
+**[3846.42s] English:** It could be, yeah, it could be, yeah, but it's definitely a classic podcast that people can  
 **Translation:** 
 
-**[3851.90s] English:** go back and appreciate it's fast-paced and it was unique what was it like to research for uh  
+**[3851.90s] English:** Go back and appreciate how fast-paced and unique it was. What was it like to research for that?  
 **Translation:** 
 
-**[3857.84s] English:** i mean it was really scholarly the the depth of research that you performed  
+**[3857.84s] English:** I mean, it was really scholarly—the depth of research that you performed.  
 **Translation:** 
 
-**[3861.74s] English:** uh it uh sometimes felt like you almost read an entire wikipedia article beforehand  
-**Translation:** Vocabulary: beforehand: 事先
+**[3861.74s] English:** Uh, it sometimes felt like you almost read an entire Wikipedia article beforehand.  
+**Translation:** Vocabulary: beforehand: 事先; scholarly: 学术的
 
-**[3866.98s] English:** or like exactly true uh we were we were uh one uh fan we attracted such funny people to that  
+**[3866.98s] English:** Or, like, exactly true. We were attracting such funny people to that, weren't we?  
 **Translation:** 
 
-**[3877.26s] English:** podcast and the fans were so funny and one fan called us nicknamed as wikipedia sluts  
-**Translation:** Vocabulary: nicknamed: 起绰号; sluts: 妓女
+**[3877.26s] English:** Podcast, and the fans were so funny. One fan even called us "nicknamed Wikipedia sluts.  
+**Translation:** Vocabulary: attracting: 吸引; nicknamed: 起绰号; sluts: 妓女
 
-**[3882.60s] English:** and so it just stuck yeah we just would read wikipedia i would do a lot more research than  
+**[3882.60s] English:** And so it just stuck; yeah, we would just read Wikipedia. I would do a lot more research than that.  
 **Translation:** 
 
-**[3887.58s] English:** chris yeah and uh so i would actually uh you know once in a while he'd get into it too but  
+**[3887.58s] English:** Chris, yeah, and uh, so I would actually, you know, once in a while he'd get into it too, but  
 **Translation:** 
 
-**[3892.60s] English:** for very interesting episodes i got i got some some some  
+**[3892.60s] English:** For very interesting episodes, I got some, some, some.  
 **Translation:** 
 
-**[3896.98s] English:** just pull me in like bernie madoff just to think of one that was recent it was one of our last ones  
+**[3896.98s] English:** Just pull me in, like Bernie Madoff—just to think of one that was recent; it was one of our last ones.  
 **Translation:** 
 
-**[3901.46s] English:** and i think one of our better episodes and i'm glad that uh it kind of ended after that because  
+**[3901.46s] English:** And I think one of our better episodes, and I'm glad that it kind of ended after that because  
 **Translation:** 
 
-**[3906.40s] English:** it was rare to i think we started to slip a little bit um i got fascinated and i got i did a lot of  
-**Translation:** Vocabulary: fascinated: 着迷
+**[3906.40s] English:** It was rare to think that we started to slip a little bit. I got fascinated, and I did a lot of  
+**Translation:** Vocabulary: fascinated: 着迷的
 
-**[3911.80s] English:** research for bernie madoff but usually yeah we'd pull up wikipedia and we'd have fun we were sort  
+**[3911.80s] English:** Research for Bernie Madoff, but usually, yeah, we'd pull up Wikipedia and we'd have fun; we were sort of nerds that way.  
 **Translation:** 
 
-**[3916.04s] English:** of the antithesis of dan carlin i mean you went to dan carlin for uh accuracy and thoughtfulness  
-**Translation:** Vocabulary: antithesis: 对立面
+**[3916.04s] English:** Of the antithesis of Dan Carlin, I mean, you went to Dan Carlin for accuracy and thoughtfulness.  
+**Translation:** Vocabulary: antithesis: 对立面; nerds: 书呆子
 
-**[3922.58s] English:** and you went to us for it was a hang with history that's why history hyena  
+**[3922.58s] English:** And you went to us because it was a hangout with history, that's why history hyena.  
 **Translation:** 
 
-**[3926.98s] English:** was such an appropriate name because it was it was a little bit of his some some episodes were  
-**Translation:** Vocabulary: hyena: 鬣狗
+**[3926.98s] English:** It was such an appropriate name because it was a little bit of him, and some episodes were  
+**Translation:** Vocabulary: hangout: 常去的地方; hyena: 鬣狗
 
-**[3932.02s] English:** more hyena more wild and a little history and some were a little more dense like the battle  
+**[3932.02s] English:** More hyenas, more wild, and a little history; and some were a bit more dense, like the battle.  
 **Translation:** 
 
-**[3936.60s] English:** of crete and less hyena so you were you were always going to get both you're either going  
-**Translation:** Vocabulary: crete: 克里特岛之战
+**[3936.60s] English:** Of Crete, and less hyena. So, you were always going to get both; you're either going...  
+**Translation:** Vocabulary: crete: 克里特岛; hyenas: 土狼
 
-**[3941.02s] English:** to get a majority of one or the other yeah and dan carlin's the lion i guess yeah and uh you guys  
+**[3941.02s] English:** To get a majority of one or the other, yeah, and Dan Carlin's The Lion, I guess, yeah, and uh, you guys.  
 **Translation:** 
 
-**[3946.26s] English:** predictably good uh i mean what what are your thoughts about i mean he's a storyteller too  
+**[3946.26s] English:** Predictably, good. Uh, I mean, what are your thoughts about it? I mean, he's a storyteller, too.  
 **Translation:** Vocabulary: storyteller: 讲故事的人
 
-**[3953.24s] English:** he gets a lot of criticism for the from the historians quote unquote  
+**[3953.24s] English:** He gets a lot of criticism from historians, quote-unquote.  
 **Translation:** 
 
-**[3956.98s] English:** that's why he likes to knock he keeps saying he's not  
-**Translation:** Vocabulary: unquote: 引用结束
-
-**[3960.00s] English:** historian but what's your um what are your thoughts about uh hardcore history with dan carlin  
+**[3956.98s] English:** That's why he likes to knock. He keeps saying he's not.  
 **Translation:** 
 
-**[3966.06s] English:** like was he an inspiration to the podcast you were doing uh or or like an account like uh  
-**Translation:** Vocabulary: carlin: 卡尔林; hardcore: Hardcore
-
-**[3975.44s] English:** almost like reverse psychology inspiration where you wanted to do some kind of opposing type of  
+**[3960.00s] English:** Historian, but what's your thoughts about hardcore history with Dan Carlin?  
 **Translation:** 
 
-**[3980.58s] English:** podcast in history or was history always just like a a launching pad to just talk shit about  
+**[3966.06s] English:** Like, was he an inspiration for the podcast you were doing, or was it more of an account like...  
+**Translation:** Vocabulary: carlin: 丹·卡尔林; hardcore: 严谨的历史
+
+**[3975.44s] English:** Almost like reverse psychology, inspiration where you wanted to do some kind of opposing type of  
 **Translation:** 
 
-**[3988.62s] English:** human nature more of the latter i wasn't even aware of his podcast when we started oh interesting  
+**[3980.58s] English:** Podcast: In history, or was history always just like a launching pad to talk shit about?  
 **Translation:** 
 
-**[3993.88s] English:** yeah and uh so we it was just very organic again like the chemistry me and chris became very good  
+**[3988.62s] English:** Human nature, more of the latter. I wasn't even aware of his podcast when we started; oh, interesting.  
 **Translation:** 
 
-**[3999.18s] English:** friends we started the podcast first we did a web series called bay ridge boys which has its sort of  
+**[3993.88s] English:** Yeah, and uh, so we kind of fell into it organically again. Like the chemistry between me and Chris became very good.  
+**Translation:** Vocabulary: organically: 自然地
+
+**[3999.18s] English:** Friends, we started the podcast. First, we did a web series called Bay Ridge Boys, which has its own sort of  
 **Translation:** 
 
-**[4005.12s] English:** little cult following we did like five episodes and ended it um and then we did the podcast and  
+**[4005.12s] English:** Little cult following; we did like five episodes and ended it, um, and then we did the podcast.  
 **Translation:** 
 
-**[4009.82s] English:** uh hit hyenas were my favorite animal and i talked about them passionately and i told chris about  
+**[4009.82s] English:** Uh, hit hyenas were my favorite animal, and I talked about them passionately, and I told Chris about it.  
 **Translation:** 
 
-**[4014.68s] English:** them and then he started appreciating them and we both love history i majored in history  
-**Translation:** Vocabulary: hyenas: 土狼; passionately: 热情地
+**[4014.68s] English:** They and then he started appreciating them, and we both love history; I majored in history.  
+**Translation:** Vocabulary: majored: 主修; passionately: 热情地
 
-**[4018.62s] English:** it's one of the things i love i go to museums all the time i go to his i do history tours so does  
+**[4018.62s] English:** It's one of the things I love; I go to museums all the time. I do history tours, so does [the other person].  
 **Translation:** 
 
-**[4022.70s] English:** he and so it was just sort of a natural let's do a history podcast and it gave us something to talk  
+**[4022.70s] English:** He and so it was just sort of a natural, "let's do a history podcast," and it gave us something to talk about.  
 **Translation:** 
 
-**[4027.90s] English:** about each episode to sort of lean our you know hang our hats on and and riff off of so it had  
+**[4027.90s] English:** About each episode, to sort of lean our hats on and riff off of, so it had  
 **Translation:** 
 
-**[4034.54s] English:** nothing to do with dance what i think about dance i think it's great i think even if he's inaccurate  
+**[4034.54s] English:** Nothing to do with dance. What I think about dance, I think it's great. I think, even if he's inaccurate.  
 **Translation:** Vocabulary: inaccurate: 不准确
 
-**[4039.12s] English:** uh in the opinions uh of the historical community it starts conversations which is good it's like  
+**[4039.12s] English:** In the opinions of the historical community, it starts conversations, which is good; it's like  
 **Translation:** 
 
-**[4045.94s] English:** this thing where people go oh it's dangerous rhetoric it's like  
+**[4045.94s] English:** This thing where people go, "Oh, it's dangerous" rhetoric—it's like,  
 **Translation:** Vocabulary: rhetoric: 修辞
 
-**[4048.62s] English:** no rhetoric only becomes dangerous when education fails what's going on in america is education has  
+**[4048.62s] English:** No rhetoric only becomes dangerous when education fails. What's going on in America is that education has  
 **Translation:** 
 
-**[4054.52s] English:** failed so if you call someone online dangerous it's not him that's dangerous it's the fucking  
+**[4054.52s] English:** Failed. So, if you call someone online "dangerous," it's not him that's dangerous; it's the fucking  
 **Translation:** 
 
-**[4060.00s] English:** stupid people that's dangerous and it's the fault of this country we didn't listen to aristotle  
+**[4060.00s] English:** Stupid people, that's dangerous, and it's the fault of this country—we didn't listen to Aristotle.  
 **Translation:** 
 
-**[4063.94s] English:** the future of a civilization depends on public education yeah and we failed education has failed  
+**[4063.94s] English:** The future of a civilization depends on public education, yeah, and we've failed; education has failed.  
 **Translation:** Vocabulary: aristotle: 亚里士多德
 
-**[4070.48s] English:** kids are kids are not interested in shit and um so in some sense those uh like dan's podcast and  
+**[4070.48s] English:** Kids are kids, and they're not interested in shit. And, in some sense, those, like Dan's podcast,  
 **Translation:** 
 
-**[4076.94s] English:** podcasts can be  
+**[4076.94s] English:** Podcasts can be  
 **Translation:** 
 
-**[4078.62s] English:** incredibly educational that's  
+**[4078.62s] English:** Incredibly educational, that's  
 **Translation:** 
 
-**[4080.00s] English:** he's uh the storytelling that pulls you in ultimately leads to you internalizing these  
-**Translation:** Vocabulary: internalizing: 内化; storytelling: 讲故事
+**[4080.00s] English:** He's the storytelling that pulls you in, ultimately leading to you internalizing these.  
+**Translation:** Vocabulary: internalizing: 吸收; storytelling: 讲故事
 
-**[4088.02s] English:** stories and like remembering them and thinking through them and all those kinds of things that  
+**[4088.02s] English:** Stories, and like remembering them, thinking through them, and all those kinds of things that.  
 **Translation:** 
 
-**[4092.14s] English:** is much more powerful than you book on history that's accurate i think often it inspires you  
+**[4092.14s] English:** Is much more powerful than your book on history, which is accurate, I think, and often inspires you.  
 **Translation:** Vocabulary: inspires: 启发
 
-**[4097.64s] English:** to go learn more so it's like i know we did that i mean you know i people would go hey i went and  
+**[4097.64s] English:** To go learn more, so it's like, I know we did that—I mean, you know, people would go, "Hey, I went and...  
 **Translation:** 
 
-**[4102.00s] English:** learned about this because they knew with us there was no pretense which was great that we had no  
+**[4102.00s] English:** Learned about this because they knew with us there was no pretense, which was great that we had none.  
 **Translation:** Vocabulary: pretense: 虚伪
 
-**[4106.30s] English:** standard so it's like nobody came to us for historical accuracy but i was kind of turned  
+**[4106.30s] English:** Standard, so it's like nobody came to us for historical accuracy, but I was kind of turned.  
 **Translation:** 
 
-**[4111.74s] English:** on by the fact that it inspired people to go learn about this stuff or to at least know like battle  
+**[4111.74s] English:** On the fact that it inspired people to go learn about this stuff, or at least know about battles.  
 **Translation:** 
 
-**[4117.66s] English:** of crete like you said a very underappreciated battle um even winston churchill said uh from  
+**[4117.66s] English:** Of Crete, like you said, a very underappreciated battle. Um, even Winston Churchill said, "from  
 **Translation:** 
 
-**[4123.72s] English:** here on we will no longer say that uh greeks fight like heroes but heroes fight like greeks  
-**Translation:** Vocabulary: churchill: 丘吉尔; crete: 克里特岛; underappreciated: 被低估的; winston: 温斯顿
-
-**[4129.48s] English:** i mean it was a monumental battle and um you know not talked about enough and i  
+**[4123.72s] English:** Hereon, we will no longer say that Greeks fight like heroes; instead, heroes fight like Greeks.  
 **Translation:** 
 
-**[4135.08s] English:** our  
+**[4129.48s] English:** I mean, it was a monumental battle, and, you know, not talked about enough, and I.  
 **Translation:** 
 
-**[4136.28s] English:** our podcast would inspire people to go actually learn more to go listen to dan carlin or to go  
+**[4135.08s] English:** Our  
+**Translation:** Vocabulary: monumental: 巨大的
+
+**[4136.28s] English:** Our podcast would inspire people to go actually learn more, to go listen to Dan Carlin or to go  
 **Translation:** 
 
-**[4141.52s] English:** pick up a book or to do research on their own and so i think podcast dan carlin's obviously much more  
+**[4141.52s] English:** Pick up a book or do research on their own, and so I think podcast Dan Carlin's obviously much more.  
 **Translation:** Vocabulary: carlin: 卡林
 
-**[4148.10s] English:** accurate than us but it's good that people are going to podcasts like yours and to learn shit  
+**[4148.10s] English:** Accurate than us, but it's good that people are going to podcasts like yours and to learn shit.  
 **Translation:** 
 
-**[4153.26s] English:** joe was is really like the progenitor of that i mean you know having intellectuals on and getting  
-**Translation:** Vocabulary: intellectuals: 思想家; progenitor: 始祖
+**[4153.26s] English:** Joe was really like the progenitor of that. I mean, you know, having intellectuals on and getting  
+**Translation:** Vocabulary: intellectuals: 思想家; progenitor: 先驱
 
-**[4159.88s] English:** the public interested with this new medium um in in people who are  
+**[4159.88s] English:** The public is interested in this new medium, especially in people who are  
 **Translation:** 
 
-**[4166.26s] English:** intelligent it's nice because you know what the mainstream press pushes out is horseshit  
+**[4166.26s] English:** Intelligent, it's nice because you know what, the mainstream press pushes out a lot of horseshit.  
 **Translation:** Vocabulary: horseshit: 废话; mainstream: 主流
 
-**[4170.98s] English:** gorgeous horseshit it's got a beautiful veneer but no substance and so this this is a nice pushback  
+**[4170.98s] English:** Gorgeous horseshit! It's got a beautiful veneer, but no substance, and so this is a nice pushback.  
 **Translation:** 
 
-**[4179.14s] English:** yeah the authenticity of joe's show i mean i'm through i started listening from the very  
-**Translation:** Vocabulary: authenticity: 真实性; pushback: 反对意见; veneer: 表面功夫
+**[4179.14s] English:** Yeah, the authenticity of Joe's show—I mean, I'm through; I started listening from the very  
+**Translation:** Vocabulary: authenticity: 真实性; pushback: 反对; substance: 实质; veneer: 表面功夫
 
-**[4184.38s] English:** beginning you know doing my in grad school you know i like a technical person and he just pulled  
+**[4184.38s] English:** Beginning, you know, doing my graduate school, I liked a technical person, and he just pulled.  
 **Translation:** 
 
-**[4191.32s] English:** me in and made me curious to learn about all kinds of things and use my own  
+**[4191.32s] English:** Me, in and made me curious to learn about all kinds of things and use my own.  
 **Translation:** 
 
-**[4196.26s] English:** critical reasoning skills on some of the bullshit guests  
+**[4196.26s] English:** Critical reasoning skills on some of the bullsh*t guests.  
 **Translation:** 
 
-**[4200.00s] English:** he's had and some of the most inspiring guests he's had so i'll teach you to think can you uh  
-**Translation:** Vocabulary: bullshit: 胡说八道
-
-**[4206.14s] English:** i don't know much about bernie madoff as a small tangent can you can you tell me who the hell is  
+**[4200.00s] English:** He's had some of the most inspiring guests, so I'll teach you to think. Can you, uh,...  
 **Translation:** 
 
-**[4210.28s] English:** bernie madoff bernie madoff is the goat the greatest thief of all time dude um hedge fund  
-**Translation:** Vocabulary: tangent: 插曲
-
-**[4217.20s] English:** guy ran a hedge fund and uh pulled uh stole the most money in the history of america i mean a con  
+**[4206.14s] English:** I don't know much about Bernie Madoff. As a small tangent, can you tell me who the hell he is?  
 **Translation:** 
 
-**[4222.86s] English:** artist and um he does people obviously he's become he's a household name because of the  
+**[4210.28s] English:** Bernie Madoff is the goat—the greatest thief of all time, dude—um, hedge fund.  
+**Translation:** Vocabulary: tangent: 附带提及
+
+**[4217.20s] English:** Guy ran a hedge fund and, uh, stole the most money in the history of America. I mean, a con.  
 **Translation:** 
 
-**[4229.44s] English:** magnitude of his crime but you got to appreciate again you got to appreciate what went into this  
+**[4222.86s] English:** Artist, and um, he does people; obviously, he's become a household name because of the  
 **Translation:** 
 
-**[4234.64s] English:** how long he was able to pull it off uh by tricking the smartest and richest people in the world  
+**[4229.44s] English:** Magnitude of his crime, but you've got to appreciate — again, you've got to appreciate what went into this.  
+**Translation:** 
+
+**[4234.64s] English:** How long was he able to pull it off, by tricking the smartest and richest people in the world?  
 **Translation:** Vocabulary: tricking: 欺骗
 
-**[4241.04s] English:** and a brilliant scam the con man uh con man is short for confidence man and it came from  
+**[4241.04s] English:** And a brilliant scam. The con man — also known as a confidence man — and it came from:  
 **Translation:** 
 
-**[4248.62s] English:** yeah a con man basically they they exude confidence and they trick people by playing  
-**Translation:** Vocabulary: exude: 散发
+**[4248.62s] English:** Yeah, a con man basically exudes confidence and tricks people by playing  
+**Translation:** Vocabulary: exudes: 洋溢
 
-**[4253.68s] English:** on their ego and blind spots and the the word comes from a guy i can't remember where but  
+**[4253.68s] English:** On their ego and blind spots, and the word comes from a guy I can't remember where, but...  
 **Translation:** 
 
-**[4258.78s] English:** what do you  
+**[4258.78s] English:** What do you do?  
 **Translation:** 
 
-**[4259.44s] English:** used to do i can't remember the guy's name you know whatever you can google it con man but it's  
+**[4259.44s] English:** Used to do? I can't remember the guy's name, you know. Whatever, you can Google it — con man, but it's  
 **Translation:** 
 
-**[4264.00s] English:** very interesting the the first con man that is on record what he would do is go to very rich people  
+**[4264.00s] English:** Very interesting; the first con man on record would go to very rich people.  
 **Translation:** 
 
-**[4268.38s] English:** and he'd be very well dressed right and he'd go he's i bet you you don't have the confidence  
+**[4268.38s] English:** And he'd be very well-dressed, right? And he'd go, I bet you you don't have the confidence.  
 **Translation:** 
 
-**[4273.84s] English:** to give me your watch and he would plan the egos these very powerful and rich people and they would  
+**[4273.84s] English:** To give me your watch, and he would plan to approach these very powerful and rich people, and they would...  
 **Translation:** 
 
-**[4279.58s] English:** give him the watch for some reason some sort of reverse psychology bullshit and he'd take the  
+**[4279.58s] English:** Give him the watch for some reason, some sort of reverse psychology bullshit, and he'd take it.  
 **Translation:** 
 
-**[4283.78s] English:** watch and he would just steal it because basically saying like i don't you don't have the confidence  
+**[4283.78s] English:** Watch, and he would just steal it because, basically, saying that you don't have the confidence.  
+**Translation:** Vocabulary: bullshit: 胡说八道
+
+**[4288.02s] English:** Give me the watch because you don't know.  
 **Translation:** 
 
-**[4288.02s] English:** give me the watch because you don't i don't know  
+**[4289.44s] English:** You don't think I'm gonna give it back, and he would just take it, yeah? So Bernie made off with it.  
 **Translation:** 
 
-**[4289.44s] English:** you don't think i'm gonna give it back and he would just take it yeah so bernie made off was a  
+**[4292.80s] English:** Very sophisticated con man, and again we were talking about people pretending to be the  
 **Translation:** 
 
-**[4292.80s] English:** very sophisticated sophisticated con man and again we were talking about people pretending to be the  
+**[4297.36s] English:** Opposite of what they are, Bernie hid his thievery by making himself very available to his clients.  
+**Translation:** Vocabulary: sophisticated: 老练; thievery: 偷盗
+
+**[4305.58s] English:** How he would show up at every bar mitzvah, every birthday; he was always available for their phone calls.  
 **Translation:** 
 
-**[4297.36s] English:** opposite of what they are bernie hid his uh thievery in how available he was to his clients  
-**Translation:** Vocabulary: sophisticated: 深谙世故; thievery: 偷盗
+**[4308.94s] English:** Calls, and he uh played on their egos; he made it so people were wanted to invest in him, like they...  
+**Translation:** Vocabulary: mitzvah: 犹太男孩的成年礼
 
-**[4305.58s] English:** how he would show up at every bar mitzvah every birthday he was always available for their phone  
+**[4315.68s] English:** Were competing, he made it very exclusive; he wouldn't just take anyone.  
 **Translation:** 
 
-**[4308.94s] English:** calls and he uh played on their egos he made it so people were wanted to invest in him like they  
-**Translation:** Vocabulary: mitzvah: 成人礼
-
-**[4315.68s] English:** were competing he made it very exclusive he wouldn't just take anyone  
+**[4319.44s] English:** And  
 **Translation:** 
 
-**[4319.44s] English:** and  
+**[4320.00s] English:** And there was a method behind that madness, because he wanted the whales that wouldn't.  
 **Translation:** 
 
-**[4320.00s] English:** And there was a method behind that madness because he wanted the whales that wouldn't  
+**[4324.18s] English:** Notice that he was—he had this pyramid scheme going.  
+**Translation:** Vocabulary: madness: 疯狂; pyramid: 金字塔方案
+
+**[4328.10s] English:** So, what he would do is just rob from the richer, and he just kept — it was like,  
 **Translation:** 
 
-**[4324.18s] English:** notice that he was – he had this pyramid scheme going.  
+**[4331.74s] English:** He'd pay back the richer with the guy who was a little less — and it was a pyramid.  
 **Translation:** 
 
-**[4328.10s] English:** So what he would do is he would just rob from the richer and he just kept – it was like  
+**[4334.68s] English:** Scheme, and he was able to do it for so long and steal so much money, and he would win people.  
 **Translation:** 
 
-**[4331.74s] English:** he'd pay back the richer with the guy who was a little less – and it was a pyramid  
-**Translation:** Vocabulary: pyramid: 金字塔
-
-**[4334.68s] English:** scheme and he was able to do it for so long and steal so much money and he would win people  
+**[4341.42s] English:** Over with the scheme because, with that scheme, he was the only guy who could provide —  
 **Translation:** 
 
-**[4341.42s] English:** over with the scheme because with that scheme, he was the only guy who could provide – who  
+**[4345.88s] English:** Could guarantee a 1% return, even during times of recession, and because he was such  
 **Translation:** 
 
-**[4345.88s] English:** could guarantee like a 1% return even during times of recession and because he was such  
-**Translation:** 
-
-**[4351.24s] English:** a good con man, he hijacked people's reasoning with his charm and that's what con artists  
+**[4351.24s] English:** A good con man, he hijacked people's reasoning with his charm, and that's what con artists do.  
 **Translation:** Vocabulary: hijacked: 劫持; recession: 经济衰退
 
-**[4356.48s] English:** do.  
+**[4356.48s] English:** Do.  
 **Translation:** 
 
 **[4357.48s] English:** That's what psychopaths do.  
@@ -3004,10 +3005,10 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4358.48s] English:** They're so fucking charming.  
 **Translation:** 
 
-**[4359.48s] English:** They get you in that Volkswagen Beetle because if they use their reasoning for one second,  
+**[4359.48s] English:** They get you in that Volkswagen Beetle because, if they use their reasoning for just one second,  
 **Translation:** Vocabulary: beetle: 甲壳虫; charming: 迷人; volkswagen: 大众
 
-**[4363.00s] English:** they go, hey, nobody can provide 1% returns during recessions.  
+**[4363.00s] English:** They go, "Hey, nobody can provide 1% returns during recessions.  
 **Translation:** 
 
 **[4366.90s] English:** How the fuck is this guy doing it?  
@@ -3022,31 +3023,31 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4371.76s] English:** You fucking idiot.  
 **Translation:** 
 
-**[4372.76s] English:** So charisma is essential to that.  
+**[4372.76s] English:** So, charisma is essential to that.  
 **Translation:** Vocabulary: charisma: 魅力
 
-**[4374.92s] English:** Maybe you can –  
+**[4374.92s] English:** Maybe you can.  
 **Translation:** 
 
-**[4375.84s] English:** Help.  
+**[4375.84s] English:** Help!  
 **Translation:** 
 
 **[4376.84s] English:** Explain something to me.  
 **Translation:** 
 
-**[4377.84s] English:** Something I have been affected by –  
+**[4377.84s] English:** Something I have been affected by:  
 **Translation:** 
 
 **[4380.40s] English:** I'm going to be way too loud for your listeners.  
 **Translation:** 
 
-**[4381.40s] English:** There's going to be comments like, tell this guy to calm down.  
+**[4381.40s] English:** There's going to be comments like, "Tell this guy to calm down.  
 **Translation:** Vocabulary: listeners: 听众
 
 **[4383.52s] English:** I'm sorry.  
 **Translation:** 
 
-**[4384.52s] English:** I'm Greek Apostolate.  
+**[4384.52s] English:** I'm from the Greek Apostolate.  
 **Translation:** Vocabulary: apostolate: 使徒事务
 
 **[4385.52s] English:** No, that's beautiful.  
@@ -3055,22 +3056,22 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4386.52s] English:** I love it.  
 **Translation:** 
 
-**[4387.52s] English:** This is something that I have been thinking about and have encountered indirectly is  
+**[4387.52s] English:** This is something that I have been thinking about, and have encountered indirectly.  
 **Translation:** 
 
-**[4394.72s] English:** Jeffrey Epstein and I have a sense because of MIT, because of all the other people that  
-**Translation:** Vocabulary: encountered: 遇见; jeffrey: 杰弗里
+**[4394.72s] English:** Jeffrey Epstein and I have a sense, because of MIT, and because of all the other people that  
+**Translation:** Vocabulary: encountered: 遇到; jeffrey: 杰弗里
 
-**[4402.20s] English:** have been touched, the wrong term, by Jeffrey Epstein.  
+**[4402.20s] English:** Have been touched, the wrong term, by Jeffrey Epstein.  
 **Translation:** 
 
-**[4405.84s] English:** I mean, in the sense that –  
+**[4405.84s] English:** I mean, in the sense that —  
 **Translation:** 
 
-**[4406.84s] English:** Literally touched.  
+**[4406.84s] English:** Literally, touched.  
 **Translation:** 
 
-**[4407.84s] English:** Literally and figuratively.  
+**[4407.84s] English:** Literally, and figuratively.  
 **Translation:** 
 
 **[4408.84s] English:** Yeah.  
@@ -3083,18 +3084,18 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **Translation:** 
 
 **[4414.96s] English:** I don't know.  
-**Translation:** 
+**Translation:** Vocabulary: conspiracy: 阴谋
 
 **[4415.96s] English:** I don't know.  
 **Translation:** 
 
-**[4416.96s] English:** But it felt to me like it's not some deeply rooted conspiracy where like Eric Weinstein  
-**Translation:** Vocabulary: weinstein: 温斯坦
+**[4416.96s] English:** But it felt to me like it's not some deeply rooted conspiracy, where like Eric Weinstein  
+**Translation:** Vocabulary: weinstein: 韦斯廷
 
-**[4422.60s] English:** thinks that there's some probability that Jeffrey Epstein is a front for like an intelligence  
+**[4422.60s] English:** Thinks that there's some probability that Jeffrey Epstein is a front for, like, an intelligence agency.  
 **Translation:** 
 
-**[4429.92s] English:** agency, whether it's Israeli or the CIA.  
+**[4429.92s] English:** Agency, whether it's Israeli or the CIA.  
 **Translation:** Vocabulary: epstein: 埃普斯坦
 
 **[4432.84s] English:** I don't know.  
@@ -3103,23 +3104,23 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4433.84s] English:** I don't know.  
 **Translation:** 
 
-**[4434.84s] English:** There's a front for something much, much bigger and then I always thought that he's  
+**[4434.84s] English:** There's a front for something much, much bigger, and then I always thought that he's  
 **Translation:** 
 
-**[4440.00s] English:** Maybe you can correct me, but more of the Bernie Madoff variety, where he's just a charismatic guy who may be a psychopathic in some sense, also a pedophile, but just charismatic and is able to convince people of that 1% of any idea that, in the case of scientists, is able to convince these people that their ideas matter.  
-**Translation:** Vocabulary: charismatic: 魅力无穷; pedophile: 恋童癖; psychopathic: 反社会的
+**[4440.00s] English:** Maybe you can correct me, but more of the Bernie Madoff variety, where he's just a charismatic guy who may be psychopathic in some sense, also a pedophile, but just charismatic and is able to convince people of 1% of any idea—that, in the case of scientists, is able to convince these people that their ideas matter.  
+**Translation:** Vocabulary: charismatic: 有魅力的; pedophile: 恋童癖; psychopathic: 反社会的
 
-**[4464.32s] English:** So one thing, scientists don't really, despite what people say, I don't think they care about money as much as people think.  
+**[4464.32s] English:** So, one thing: Scientists don't really care about money as much as people think, despite what people say, I don't think.  
 **Translation:** 
 
 **[4472.24s] English:** People are ridiculous when they think that.  
 **Translation:** 
 
-**[4473.76s] English:** Yeah, that's why people get into science, for the money.  
+**[4473.76s] English:** Yeah, that's why people get into science for the money.  
 **Translation:** 
 
-**[4476.08s] English:** The personalities that get into science are obsessed with minutia, and they do the scientific method.  
-**Translation:** Vocabulary: minutia: 细节
+**[4476.08s] English:** The personalities that get into science are obsessed with minutiae, and they do the scientific method.  
+**Translation:** Vocabulary: minutiae: 琐碎细节; obsessed: 着迷
 
 **[4481.48s] English:** You know how boring that is?  
 **Translation:** 
@@ -3127,25 +3128,25 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4483.10s] English:** You have to have a love for it in order to do it.  
 **Translation:** 
 
-**[4486.44s] English:** But the thing, what drives you is for your ideas to be then heard.  
+**[4486.44s] English:** But the thing that drives you is for your ideas to be heard.  
 **Translation:** 
 
-**[4491.20s] English:** And when a rich guy comes over, probably super charismatic, is going to tell you that your ideas, especially for some of these outsiders at MIT, at Harvard, at Caltech, at all these big physics, biology, artificial intelligence, computing fields, to hear somebody say that your ideas are brilliant, that ideas matter, it's pretty powerful, especially when you've been an outsider.  
-**Translation:** Vocabulary: caltech: 加州理工; computing: 计算; outsider: 局外人; outsiders: 局外人
+**[4491.20s] English:** And when a rich guy comes over — probably super charismatic — is going to tell you that your ideas, especially for some of these outsiders at MIT, Harvard, Caltech, and all these big physics, biology, artificial intelligence, computing fields, to hear somebody say that your ideas are brilliant, that ideas matter, it's pretty powerful, especially when you've been an outsider.  
+**Translation:** Vocabulary: caltech: 加州理工学院; computing: 计算; outsider: 局外人; outsiders: 局外人
 
 **[4521.34s] English:** He's talked to a bunch of people who had outsider ideas.  
 **Translation:** 
 
-**[4526.96s] English:** The big negative for me of modern academia is that most people, actually most communities, most people think the same, and there's just these brilliant outsiders.  
+**[4526.96s] English:** The big negative for me in modern academia is that most people, actually most communities, think the same way, and there are just these brilliant outsiders.  
 **Translation:** Vocabulary: academia: 学术界
 
 **[4538.70s] English:** And the outsiders are just derided.  
 **Translation:** 
 
-**[4541.16s] English:** And so when you have Jeffrey Epstein, like a hyena, sorry, sorry, sorry, going on the outside and picking off these brilliant minds that are the outsiders,  
-**Translation:** Vocabulary: hyena: 狼吞虎咽
+**[4541.16s] English:** And so, when you have Jeffrey Epstein, like a hyena, going on the outside and picking off these brilliant minds that are the outsiders,...  
+**Translation:** Vocabulary: derided: 被嘲笑; hyena: 鬣狗
 
-**[4550.84s] English:** he can use that as a way to get people to think differently.  
+**[4550.84s] English:** He can use that as a way to get people to think differently.  
 **Translation:** 
 
 **[4551.18s] English:** He can use that as a way to get people to think differently.  
@@ -3154,58 +3155,58 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4551.20s] English:** He can use charisma to convince them to collaborate with him, to take his funding, and then thereby he builds a reputation.  
 **Translation:** 
 
-**[4560.00s] English:** reputation, like slowly accumulates these people that actually results in a network of like some  
-**Translation:** Vocabulary: accumulates: 积累; charisma: 魅力; collaborate: 合作
+**[4560.00s] English:** Reputation, like, slowly accumulates; these people that actually result in a network of, like, some.  
+**Translation:** Vocabulary: accumulates: 逐渐积累; charisma: 魅力; collaborate: 合作
 
-**[4568.12s] English:** of the most brilliant people in the world, you know, and then pulls in people like Bill Gates  
+**[4568.12s] English:** Of the most brilliant people in the world, you know, and then pulls in people like Bill Gates.  
 **Translation:** 
 
-**[4572.98s] English:** and I don't know, political figures. I tend to believe that one person can do that.  
+**[4572.98s] English:** And I don't know; I tend to believe that one person can do that.  
 **Translation:** 
 
 **[4579.46s] English:** Yeah. I mean, look at Hitler. Charisma is blinding. I think that's what con men,  
 **Translation:** 
 
-**[4583.98s] English:** speaking of Bernie Madoff, that's one of their major tools is flattery, glib, superficial charm.  
-**Translation:** Vocabulary: blinding: 令人眩晕; flattery: 奉承; superficial: 表面的
+**[4583.98s] English:** Speaking of Bernie Madoff, that's one of their major tools: flattery, glib, superficial charm.  
+**Translation:** Vocabulary: blinding: 使人眩晕; flattery: 奉承; superficial: 表面的
 
-**[4591.44s] English:** It creates those blind spots. People want to hear how great they are. They want to  
+**[4591.44s] English:** It creates those blind spots. People want to hear how great they are. They want to believe it.  
 **Translation:** 
 
-**[4594.94s] English:** be flattered. It takes your defenses down, plays to our ego, how much we're all just pieces of  
-**Translation:** Vocabulary: flattered: 受到恭维
+**[4594.94s] English:** Be flattered. It takes your defenses down, plays to our ego—how much we're all just pieces of  
+**Translation:** Vocabulary: flattered: 受恭维的
 
-**[4602.02s] English:** garbage and want to hear how great we are. We want that love from our mother and our father.  
+**[4602.02s] English:** Garbage, and we want to hear how great we are. We want that love from our mother and our father.  
 **Translation:** 
 
-**[4606.26s] English:** It's Freudian. And they know because they're not burdened with that need, they're not burdened with  
+**[4606.26s] English:** It's Freudian. And they know because they're not burdened with that need, they're not burdened with it.  
 **Translation:** Vocabulary: burdened: 负担; freudian: 弗洛伊德的
 
-**[4612.70s] English:** that.  
+**[4612.70s] English:** That.  
 **Translation:** 
 
-**[4613.98s] English:** And empathy or emotions, and they just see things very calculatively. They play, they know that  
-**Translation:** Vocabulary: calculatively: 权衡利弊; empathy: 共情
+**[4613.98s] English:** And empathy or emotions, and they just see things very calculatively. They play; they know that.  
+**Translation:** Vocabulary: calculatively: 计算地; empathy: 共情
 
-**[4620.38s] English:** we're prey in their game and they use that against us. And that is why someone who is not that  
+**[4620.38s] English:** We're prey in their game, and they use that against us. And that is why someone who is not that  
 **Translation:** 
 
-**[4626.48s] English:** intelligent, like Hitler, can probably convince a lot more intelligent people, you know, and that's  
+**[4626.48s] English:** Intelligent, like Hitler, can probably convince a lot more intelligent people, you know, and that's.  
+**Translation:** Vocabulary: hitler: 希特勒
+
+**[4632.06s] English:** Why can't we give Tim Dillon power because, you know, he already stands on a stage. I mean, if we  
 **Translation:** 
 
-**[4632.06s] English:** why we can't give Tim Dillon power because, you know, he already stands on a stage. I mean, if we  
-**Translation:** 
-
-**[4636.32s] English:** let that guy, I mean, he will just take over a country and everyone who can't cook well will be  
+**[4636.32s] English:** Let that guy, I mean, he will just take over a country, and everyone who can't cook well will be  
 **Translation:** Vocabulary: dillon: 迪龙
 
-**[4640.56s] English:** eliminated.  
+**[4640.56s] English:** Eliminated.  
 **Translation:** 
 
 **[4641.36s] English:** Yeah.  
 **Translation:** 
 
-**[4641.58s] English:** So it's like-  
+**[4641.58s] English:** So, it's like-  
 **Translation:** 
 
 **[4642.36s] English:** I wonder why he keeps complimenting me.  
@@ -3214,116 +3215,116 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4643.98s] English:** Exactly. Be careful.  
 **Translation:** 
 
-**[4645.92s] English:** He looks at me, just, I like your suit. I like the cut of your jib. Yeah, definitely.  
+**[4645.92s] English:** He looks at me, just like, "I like your suit. I like the cut of your jib." Yeah, definitely.  
 **Translation:** 
 
-**[4651.22s] English:** Yeah, you gotta be careful of that kid. He's Hitler. But it's crazy to think about-  
+**[4651.22s] English:** Yeah, you've really got to be careful of that kid. He's like Hitler. But it's crazy to think about—  
 **Translation:** 
 
-**[4655.84s] English:** Clip that, please, internet.  
+**[4655.84s] English:** Clip that, please, Internet.  
 **Translation:** 
 
-**[4657.22s] English:** I mean, Quentin Tarantino said it to bed. I mean, in his script, personality goes a long way, dude.  
+**[4657.22s] English:** I mean, Quentin Tarantino said it best. I mean, in his script, personality goes a long way, dude.  
 **Translation:** 
 
 **[4661.52s] English:** Yeah.  
-**Translation:** Vocabulary: tarantino: 昆汀·塔伦蒂诺
+**Translation:** Vocabulary: quentin: 昆汀; tarantino: 塔伦蒂诺
 
-**[4661.78s] English:** I mean, personality can usurp common sense and reason of the smartest people. These absolute  
+**[4661.78s] English:** I mean, personality can usurp common sense and reason even in the smartest people. These absolute  
 **Translation:** 
 
-**[4669.26s] English:** smartest people can be hypnotized. It's sort of like a-  
+**[4669.26s] English:** Smartest people can be hypnotized. It's sort of like a—  
 **Translation:** Vocabulary: hypnotized: 被催眠; usurp: 篡夺
 
-**[4673.98s] English:** Sexy woman. It's like you can be tricked because we have such a blind spot for-  
+**[4673.98s] English:** Sexy woman. It's like you can be tricked, because we have such a blind spot for—  
 **Translation:** 
 
-**[4680.00s] English:** you know for uh for flattery yeah i wonder i think there's a bbc documentary on uh i think  
+**[4680.00s] English:** You know, for flattery, yeah, I wonder if there's a BBC documentary on that topic, huh?  
+**Translation:** Vocabulary: flattery: 奉承; tricked: 被骗
+
+**[4686.70s] English:** It's called something like "charisma," or Hitler's charisma, or something like that, and it does quite.  
 **Translation:** 
 
-**[4686.70s] English:** it's called something like charisma hitler's charisma or something like that does quite  
-**Translation:** 
-
-**[4691.20s] English:** i mean that one focused more about the power of the speeches but i wonder if most of the success  
+**[4691.20s] English:** I mean, that one focused more on the power of the speeches, but I wonder if most of the success  
 **Translation:** Vocabulary: charisma: 魅力
 
-**[4697.90s] English:** or the rise of hitler and the third reich had to do with the charisma of hitler when he's alone  
+**[4697.90s] English:** Or, the rise of Hitler and the Third Reich had to do with Hitler's charisma when he's alone.  
 **Translation:** 
 
-**[4704.92s] English:** in a room with somebody with the generals just one-on-one like i wonder i wonder if that's the  
+**[4704.92s] English:** In a room with someone, with the generals just one-on-one, I wonder if that's the way it is.  
 **Translation:** Vocabulary: reich: 帝国
 
-**[4711.36s] English:** essential element of just being able to just look into a person's eyes like flatter them or whatever  
+**[4711.36s] English:** An essential element of just being able to look into a person's eyes, like flattering them or whatever.  
 **Translation:** 
 
-**[4717.78s] English:** is needed right to earn their trust and then convince them of anything you want right yeah  
+**[4717.78s] English:** Is needed, right, to earn their trust and then convince them of anything you want, right? Yes.  
+**Translation:** Vocabulary: flattering: 奉承
+
+**[4724.96s] English:** I mean, you're right because that's the one piece of history we don't have. I don't know.  
 **Translation:** 
 
-**[4724.96s] English:** i mean you're right because that's that's the one piece of history we don't have i don't know  
+**[4729.50s] English:** We don't know, but we do know that the kid crushed; I mean, he was a headliner.  
 **Translation:** 
 
-**[4729.50s] English:** we don't know we do know that the kid crushed i mean he was a headliner  
+**[4734.82s] English:** You.  
 **Translation:** 
 
-**[4734.82s] English:** you  
+**[4734.92s] English:** He got up there, and his hair would flop around. I mean, he crushed it—yeah, there are certain elements.  
 **Translation:** 
 
-**[4734.92s] English:** he got up there and his hair would flop around i mean he crushed it yeah there's certain elements  
+**[4741.74s] English:** About nationalism and pride, that are really powerful — like a lot of us, humans, I think.  
 **Translation:** 
 
-**[4741.74s] English:** about nationalism and pride that are really powerful like a lot of us uh humans i think  
+**[4747.42s] English:** Long for that feeling of belonging, and when a charismatic leader makes us feel like  
+**Translation:** Vocabulary: charismatic: 有魅力的
+
+**[4753.44s] English:** We belong to a group, the amount of evil we can do to other humans because of that.  
 **Translation:** 
 
-**[4747.42s] English:** long for that for the feeling of belonging and when some charismatic leader makes us feel like  
-**Translation:** Vocabulary: charismatic: 魅力十足的
-
-**[4753.44s] English:** we belong to a group the uh the amount of evil we can do to other humans because of that  
-**Translation:** 
-
-**[4760.92s] English:** especially when you give people a scapegoat nobody wants to look and nobody wants to  
+**[4760.92s] English:** Especially when you give people a scapegoat, nobody wants to look and nobody wants to.  
 **Translation:** Vocabulary: scapegoat: 替罪羊
 
-**[4764.82s] English:** do the work to be better or look at where they messed up why does it always have to be the jews  
+**[4764.82s] English:** Do the work to be better, or look at where they messed up. Why does it always have to be the Jews?  
 **Translation:** 
 
-**[4768.62s] English:** that are you know it's like get over it guys i mean it's like they killed jesus you get over it  
+**[4768.62s] English:** That's you know, it's like, get over it, guys. I mean, it's like they killed Jesus; you get over it.  
+**Translation:** Vocabulary: messed: 搞砸了
+
+**[4775.58s] English:** Yeah, okay, it's a long time ago. I mean, move on. I'm Jewish; I understand because we do run the center.  
 **Translation:** 
 
-**[4775.58s] English:** yeah okay it's a long time ago i mean move on i'm jewish i understand because we do run the central  
+**[4780.64s] English:** Banks and the weather — and the weather, yeah — don't forget about the weather; that's a big one.  
 **Translation:** 
 
-**[4780.64s] English:** banks and and the weather and the weather yeah don't forget about the weather that's a big one  
+**[4785.82s] English:** That's a funny one. People created it: "Who gives a shit? What's the weather like?  
 **Translation:** 
 
-**[4785.82s] English:** that's a funny one that people created like who gives a shit what is the weather like what's the  
+**[4789.88s] English:** Importance of the weather, all right? Jews made it rain outside; good, you know they could.  
 **Translation:** 
 
-**[4789.88s] English:** importance of the weather all right jews made it rain outside good you gotta fuck you know they  
+**[4792.64s] English:** Made it snow, okay? You get a day off. Thank you, Jews. Yeah, it's a funny one that people created.  
 **Translation:** 
 
-**[4792.64s] English:** made it snow okay you get a day off thank you jews yeah it's a funny one that people created  
-**Translation:** 
-
-**[4794.82s] English:** it's like yeah there's certain conspiracies that make me like flat earth like what what's the  
+**[4794.82s] English:** It's like, yeah, there are certain conspiracies that make me think about flat Earth. Like, what's the deal?  
 **Translation:** Vocabulary: conspiracies: 阴谋论
 
-**[4800.00s] English:** Like what – what's the motivation for lying that the earth is round?  
+**[4800.00s] English:** Like what: What's the motivation for lying about the Earth being round?  
 **Translation:** 
 
-**[4804.34s] English:** Like what's the conspiracy?  
+**[4804.34s] English:** What's the conspiracy, like?  
 **Translation:** 
 
 **[4805.48s] English:** Yeah, what does anyone get out of that?  
 **Translation:** 
 
-**[4806.72s] English:** Yeah, what is exactly the profit?  
+**[4806.72s] English:** Yeah, what is the exact profit?  
 **Translation:** 
 
-**[4809.62s] English:** What's the – yeah, what's the strategy?  
+**[4809.62s] English:** What's the strategy? Yeah, what's the strategy?  
 **Translation:** 
 
-**[4811.34s] English:** Do you have any, from a historical perspective or just a human perspective, conspiracy theories you connect with?  
-**Translation:** 
+**[4811.34s] English:** Do you have any, from a historical perspective or just a human perspective, conspiracy theories that you connect with?  
+**Translation:** Vocabulary: conspiracy: 阴谋论
 
 **[4818.56s] English:** Or you're not necessarily conspiratorial?  
 **Translation:** 
@@ -3334,7 +3335,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4825.56s] English:** Nobody cares that much.  
 **Translation:** 
 
-**[4826.96s] English:** But then what happens is you find out this one or this two.  
+**[4826.96s] English:** But then, what happens is that you find out this one—or these two.  
 **Translation:** 
 
 **[4835.62s] English:** And you start questioning everything.  
@@ -3352,37 +3353,37 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4842.20s] English:** That was a false flag.  
 **Translation:** 
 
-**[4843.56s] English:** And then next thing you know, everything is a false flag.  
+**[4843.56s] English:** And then, next thing you know, everything is a false flag.  
 **Translation:** 
 
-**[4845.90s] English:** There are some strange things on 9-11.  
+**[4845.90s] English:** There are some strange things on 9/11.  
 **Translation:** 
 
-**[4849.92s] English:** There's some strange things from a scientific perspective.  
+**[4849.92s] English:** There are some strange things from a scientific perspective.  
 **Translation:** 
 
 **[4852.14s] English:** I'm no scientist, but it's like, yeah, three steel-framed skyscrapers.  
 **Translation:** 
 
-**[4856.96s] English:** The skyscrapers falling on the same day in the same way.  
-**Translation:** Vocabulary: skyscrapers: 高楼大厦
+**[4856.96s] English:** The skyscrapers were falling on the same day, in the same way.  
+**Translation:** Vocabulary: skyscrapers: 超高层建筑
 
-**[4860.60s] English:** A lot of people say, oh, it was – they were hit by planes.  
+**[4860.60s] English:** A lot of people say, "Oh, it was—they were hit by planes.  
 **Translation:** 
 
-**[4863.52s] English:** It's like, yeah, but that's not why they fell.  
+**[4863.52s] English:** It's like, "Yeah, but that's not why they fell.  
 **Translation:** 
 
 **[4864.72s] English:** They fell because of fires.  
 **Translation:** 
 
-**[4866.94s] English:** And usually – not usually – all the time except for three times.  
+**[4866.94s] English:** And usually, not usually—all the time, except for three times.  
 **Translation:** 
 
-**[4873.06s] English:** And there was buildings that have burned for longer than that.  
+**[4873.06s] English:** And there were buildings that had burned for longer than that.  
 **Translation:** 
 
-**[4876.92s] English:** And there might be good explanations, but the lack of transparency, it's like I feel like government –  
+**[4876.92s] English:** And there might be good explanations, but the lack of transparency is like feeling like the government—  
 **Translation:** 
 
 **[4882.16s] English:** And Building 7 is weird.  
@@ -3391,7 +3392,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4883.44s] English:** I mean the way it cut down.  
 **Translation:** 
 
-**[4884.44s] English:** Just a neat – just a neat –  
+**[4884.44s] English:** Just a neat, just a neat,  
 **Translation:** 
 
 **[4886.54s] English:** Yeah.  
@@ -3400,13 +3401,13 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4886.78s] English:** Yeah.  
 **Translation:** 
 
-**[4886.96s] English:** Just a physical – I mean you're a scientist.  
+**[4886.96s] English:** Just a physical, I mean, you're a scientist.  
 **Translation:** 
 
-**[4888.32s] English:** Is that –  
+**[4888.32s] English:** Is that?  
 **Translation:** 
 
-**[4889.00s] English:** Well, I don't –  
+**[4889.00s] English:** Well, I don't.  
 **Translation:** 
 
 **[4889.54s] English:** Is there resistance from the steel?  
@@ -3436,874 +3437,874 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[4901.92s] English:** I don't understand the melting point of steel.  
 **Translation:** 
 
-**[4904.06s] English:** I don't – but I'm just a common-sense human that looks at government and institutions when they try to communicate.  
+**[4904.06s] English:** I don't, but I'm just a common-sense human who looks at government and institutions when they try to communicate.  
 **Translation:** 
 
 **[4911.06s] English:** And there's a certain human element where you can sense that there's dishonesty going on.  
 **Translation:** 
 
-**[4916.44s] English:** And that dishonesty might not be deeply rooted in a conspiracy theory and something –  
-**Translation:** Vocabulary: dishonesty: 不诚实
+**[4916.44s] English:** And that dishonesty might not be deeply rooted in a conspiracy theory, and something —  
+**Translation:** Vocabulary: conspiracy: 阴谋; dishonesty: 不诚实
 
-**[4920.00s] English:** malevolent it might just be rooted more likely to me in a basic fear of losing your job right  
+**[4920.00s] English:** Malevolent, it might just be rooted more likely in a basic fear of losing your job, right?  
 **Translation:** 
 
-**[4926.58s] English:** so when you have a bunch of people that are afraid of losing their job you know and they just don't  
+**[4926.58s] English:** So, when you have a bunch of people who are afraid of losing their jobs, you know, and they just don't  
+**Translation:** Vocabulary: malevolent: 恶意
+
+**[4931.80s] English:** Want to, uh, like, the origins of the virus—whether it came from a lab or not—you know, that's a pretty  
 **Translation:** 
 
-**[4931.80s] English:** want to uh like the origins of the virus whether it came from a lab or not you know that's a pretty  
+**[4938.16s] English:** I know a lot of biologists behind closed doors that say it's very likely it was leaked from.  
+**Translation:** Vocabulary: biologists: 生物学家; leaked: 泄露
+
+**[4944.02s] English:** The lab, right? But like, they don't want to talk about it because there's not good evidence either.  
 **Translation:** 
 
-**[4938.16s] English:** i know a lot of biologists behind closed doors that that say it's very likely it was leaked from  
+**[4948.90s] English:** The way it's mostly just using common sense, so they're waiting for good evidence to come out.  
 **Translation:** 
 
-**[4944.02s] English:** the lab right but like they don't want to talk about it because there's not good evidence either  
+**[4953.78s] English:** In either direction, but just like nobody in positions of institutional or centralized power...  
 **Translation:** 
 
-**[4948.90s] English:** way it's mostly you're just using common sense so they're waiting for good evidence to come out  
-**Translation:** 
-
-**[4953.78s] English:** in either direction but just like nobody in positions of uh institutional like centralized  
-**Translation:** 
-
-**[4959.20s] English:** power wants to just honestly say we don't know or on the point of masks or all those kinds of  
+**[4959.20s] English:** Power wants to just honestly say, "We don't know" or on the point of masks, or all those kinds of.  
 **Translation:** Vocabulary: institutional: 机构的
 
-**[4964.70s] English:** things to say you know here's the best evidence we have we're not sure we're trying to figure  
+**[4964.70s] English:** Things to say, you know, here's the best evidence we have: we're not sure; we're trying to figure it out.  
 **Translation:** 
 
-**[4968.82s] English:** that we're desperately trying to figure that out or just like honesty uh especially in the modern  
+**[4968.82s] English:** That we're desperately trying to figure that out, or just like honesty, especially in the modern world.  
 **Translation:** Vocabulary: desperately: 拼命地
 
-**[4973.60s] English:** day that's the hope i have for the 21st centuries people seem to detect bullshit much much better  
+**[4973.60s] English:** Day, that's the hope I have for the 21st century. People seem to detect bullshit much, much better.  
 **Translation:** 
 
-**[4978.90s] English:** because the internet internet yeah yeah and we they also believe crazy shit too there's no yang  
-**Translation:** Vocabulary: bullshit: 胡说八道
+**[4978.90s] English:** Because the Internet is full of both useful information and crazy beliefs as well. There's no Yang.  
+**Translation:** Vocabulary: bullshit: 胡说八道; detect: 察觉
 
-**[4984.52s] English:** without a yang i guess but uh i think the conspiracy theories arise only when the people  
+**[4984.52s] English:** Without a Yang, I guess, but I think that conspiracy theories arise only when the people  
 **Translation:** 
 
-**[4991.04s] English:** in positions of power and government and institutions are full of shit like the air  
+**[4991.04s] English:** In positions of power, and in government and institutions, are full of shit like the air.  
 **Translation:** 
 
-**[4996.18s] English:** will be taken out of the conspiracy theories if the people in elected power would be much more  
+**[4996.18s] English:** Will be taken out of the conspiracy theories if the people in elected power would be much more  
 **Translation:** 
 
-**[5000.16s] English:** honest like just like real you have people like andrew yang whatever you think about him just  
-**Translation:** 
-
-**[5005.02s] English:** more honest he he just like says whatever the hell uh  
-**Translation:** 
-
-**[5008.90s] English:** comes to my by the way he's running for new york mayor yeah do you have opinions yeah it's no good  
-**Translation:** 
-
-**[5015.78s] English:** i like andrew yang and it's no good i i'd be honest with you i'm a lifelong new yorker i mean  
-**Translation:** 
-
-**[5020.80s] English:** i'm a new yorker well you're a new yorker so nothing's good well something is good okay and  
-**Translation:** 
-
-**[5026.26s] English:** talking on let's be honest about new york it's a very socially liberal place it is the head of the  
-**Translation:** 
-
-**[5032.36s] English:** snake new york is the country if new york when new york's not doing good country's not doing good  
-**Translation:** 
-
-**[5037.20s] English:** um it's the most important thing to do it's the most important thing to do it's the most important  
-**Translation:** 
-
-**[5038.90s] English:** city dc  
-**Translation:** 
-
-**[5040.00s] English:** new york it's really rome be honest it's it's uh maybe i'm biased i don't know no  
-**Translation:** 
-
-**[5045.78s] English:** we just did new yorkers we walk around everywhere and we go this is just like new york but not new  
-**Translation:** 
-
-**[5051.28s] English:** york it's um but and new york needs and i'm a guy who leans left uh you know i just i lean left  
-**Translation:** 
-
-**[5058.88s] English:** and that's just what it is a dictator is that where you're going no we need we need it's a  
-**Translation:** 
-
-**[5064.00s] English:** money town let's be come on man i mean new york is a money town and uh wall street and then when  
-**Translation:** 
-
-**[5071.54s] English:** aoc and her cronies um at the local level rejected that amazon thing you're going like  
-**Translation:** Vocabulary: cronies: 同伙
-
-**[5077.18s] English:** what do you think makes cities and what what's going to create jobs in the 21st century what  
-**Translation:** 
-
-**[5082.34s] English:** do we need more nail salons more pizza places i mean we're living in the tech revolution and  
-**Translation:** 
-
-**[5087.54s] English:** you know whatever your opinions are about jeff bezos that's the world tech and they want to  
-**Translation:** 
-
-**[5093.98s] English:** come here of course you give them tax breaks that's why any companies go anywhere she's so  
-**Translation:** 
-
-**[5098.62s] English:** fucking utopian and that that progressive wing is so utopian and that always ends in disaster  
-**Translation:** 
-
-**[5104.78s] English:** because it's not rooted in reality it doesn't accept the reality that people are self-interested  
-**Translation:** Vocabulary: utopian: 空想的
-
-**[5109.20s] English:** now they're going to do this 14 15 tax hike on people making a million dollars more in new york  
-**Translation:** 
-
-**[5114.20s] English:** city a million dollars is not that much so people are going to flee new york the tax base is going  
-**Translation:** 
-
-**[5118.90s] English:** to flee new york's going to fall to shit like it did before so you're saying it basically needs  
-**Translation:** 
-
-**[5123.14s] English:** a more capitalized  
-**Translation:** Vocabulary: capitalized: 资金充足
-
-**[5123.98s] English:** front like capitalistic type of thinker that loonberg giuliani when he was still sane  
-**Translation:** 
-
-**[5128.28s] English:** and his hair wasn't melting off his face prosecutor you need a top i mean i don't know what's  
-**Translation:** Vocabulary: capitalistic: 资本主义; prosecutor: 检察官
-
-**[5134.06s] English:** happened that guy's lost it but it's fun yeah it's fun to watch yeah it's fun to watch him be  
-**Translation:** 
-
-**[5138.38s] English:** just like uh trump's lackey like yeah boy whatever you want boss i'll just say whatever you want boss  
-**Translation:** Vocabulary: lackey: 跟班
-
-**[5142.78s] English:** but new york is a money town that needs a money guy and sort of more of a republican i have to  
-**Translation:** 
-
-**[5149.68s] English:** say on the local 11 as more of a guy who leans left i'll just be honest it it's a  
-**Translation:** 
-
-**[5153.98s] English:** tough city that needs a tough mayor not some guy who's going like i understand we all need free  
-**Translation:** 
-
-**[5158.78s] English:** money you know  
-**Translation:** 
-
-**[5160.00s] English:** andrew yang i think is right in the big picture because all the real jobs are somewhere else and  
-**Translation:** 
-
-**[5164.58s] English:** you look at those asian cities you go like oh that's what our cities used to look like at the  
-**Translation:** 
-
-**[5168.10s] English:** industrial revolution you know there was like there was jobs and people were making things here  
-**Translation:** 
-
-**[5172.14s] English:** and now you look at those cities in asia and you're going like wow and then you go to detroit  
-**Translation:** 
-
-**[5175.92s] English:** and you're like yeah we're done you go to cleveland you go we we're done so i i don't actually it's  
-**Translation:** 
-
-**[5181.02s] English:** it's funny the the reason i really like andrew yang is i've learned a lot every time he talks  
-**Translation:** Vocabulary: cleveland: 克利夫兰
-
-**[5186.90s] English:** like it's not his opinions he's just giving a lot of data yeah like information which i just  
-**Translation:** 
-
-**[5192.28s] English:** start a podcast don't run from air well yeah that's true he already has a podcast i think  
-**Translation:** 
-
-**[5196.10s] English:** yang speaks who doesn't who doesn't fucking who doesn't know that's the way we communicate  
-**Translation:** 
-
-**[5201.16s] English:** i don't even talk to people unless it's on a podcast well listen man i'm a i'm not going to  
-**Translation:** 
-
-**[5206.22s] English:** criticize that because there is something like i talked to my dad on a podcast in for four hours  
-**Translation:** 
-
-**[5212.16s] English:** and i'm not sure i would i would ever talk to him in the way we talked  
-**Translation:** 
-
-**[5216.90s] English:** the podcast what does he do uh physicist oh shit but like yeah it's uh episode 100 and  
-**Translation:** 
-
-**[5225.12s] English:** you know  
-**Translation:** 
-
-**[5227.30s] English:** i uh the way i recorded that podcast is i tried to put my ego aside it's actually really tough  
-**Translation:** 
-
-**[5235.48s] English:** to talk to your dad especially because you're giving him a platform uh especially so at that  
-**Translation:** 
-
-**[5241.36s] English:** time this is already a bit of a platform for this podcast and so there's this as a son  
-**Translation:** 
-
-**[5246.90s] English:** you think like oh here it goes with this bullshit again like that's the natural son thought  
-**Translation:** Vocabulary: bullshit: 胡说八道
-
-**[5252.16s] English:** you have but at the same time i wanted to the way i thought about it is in 20 years when i look back  
-**Translation:** 
-
-**[5259.64s] English:** like i want to do a conversation where i'm happy with it you know so i want to make him shine  
-**Translation:** 
-
-**[5264.70s] English:** but i also called him out on like why were you so distant like like all that kind of stuff yeah  
-**Translation:** 
-
-**[5272.00s] English:** it was very difficult to do but it was really important to do and i don't think i'd be able  
-**Translation:** 
-
-**[5275.48s] English:** to do without a without a  
-**Translation:** 
-
-**[5276.90s] English:** a microphone  
-**Translation:** Vocabulary: microphone: 麦克风
-
-**[5277.60s] English:** right  
-**Translation:** 
-
-**[5277.94s] English:** listen how often  
-**Translation:** 
-
-**[5279.66s] English:** do we  
-**Translation:** 
-
-**[5280.00s] English:** sit there and just focus our attention just look at the other person i i don't know man this is not  
-**Translation:** 
-
-**[5286.14s] English:** even recording right now i just invited you over just so we could actually you're right the podcast  
-**Translation:** 
-
-**[5292.28s] English:** does make like i listen i've been listening to every word you've been saying and if we weren't  
-**Translation:** 
-
-**[5296.20s] English:** doing a podcast i might be looking at my phone or being self-conscious about something else or  
-**Translation:** 
-
-**[5300.66s] English:** nervous or anxious and then especially with people close to you i mean that was i recommend that  
-**Translation:** 
-
-**[5305.44s] English:** actually for people uh to talk to their family on a podcast like it or like a fake or not that's  
-**Translation:** 
-
-**[5311.34s] English:** really powerful uh it made me realize that there's a clear distinction between the conversations we  
-**Translation:** 
-
-**[5316.44s] English:** usually have with humans and those we have when the podcast is being recorded um what the fuck  
-**Translation:** 
-
-**[5323.68s] English:** were we talking on before that uh i knew you were going to lose your train of thought on that one  
-**Translation:** 
-
-**[5327.92s] English:** because that's a big one there's emotion behind that one the podcast with dad is going to take  
-**Translation:** 
-
-**[5332.18s] English:** that's going to take you to a place i took you to a place  
-**Translation:** 
-
-**[5334.48s] English:** it took  
-**Translation:** 
-
-**[5335.36s] English:** outside of interviewer new york i went to a place in new york and yang uh so the data one  
-**Translation:** 
-
-**[5341.82s] English:** of the things that really surprised me about i like the psychoanalysis you just threw in there  
-**Translation:** 
-
-**[5347.32s] English:** yeah i took you that took you to a place so uh uh angie yang mentioned respect me now dad  
-**Translation:** Vocabulary: psychoanalysis: 心理分析
-
-**[5353.92s] English:** mit is it enough fucking million people listening to this i've got 14 rogans is it enough dad i'm  
-**Translation:** 
-
-**[5361.90s] English:** creating robots is it enough for you that's what you're doing  
-**Translation:** 
-
-**[5365.34s] English:** drives you probably that probably what drives me that's what gives meaning to life is it's never  
-**Translation:** 
-
-**[5369.10s] English:** enough and uh i hope to pass that on to my kids one day uh that nothing's ever enough whether  
-**Translation:** 
-
-**[5374.84s] English:** they're robot or human right your kids most likely let's be honest you might call one of your robot  
-**Translation:** 
-
-**[5379.68s] English:** you love your road are you starting to love your is it going to be like that pygmalion thing you  
-**Translation:** Vocabulary: pygmalion: 皮格马利翁效应
-
-**[5383.30s] English:** create them and then they kill you but even while they're killing you you got a tear the tear a slow  
-**Translation:** 
-
-**[5386.94s] English:** one one tear one tear and just yeah why are you doing this frankenstein why why but i loved you  
-**Translation:** 
-
-**[5393.76s] English:** those would be the last words out of my mind i'm not going to lie to you i'm not going to lie to you  
-**Translation:** 
+**[5000.16s] English:** Honest, like just like real — you have people like Andrew Yang, whatever you think about him, just  
+**Translation:** Vocabulary: conspiracy: 阴谋论
 
-**[5395.34s] English:** uh but andrew yang mentioned something on um that it  
+**[5005.02s] English:** More honest, he just likes to say whatever the hell, uh  
 **Translation:** 
 
-**[5400.00s] English:** cost uh four hundred thousand dollars over four hundred thousand dollars per year to support  
+**[5008.90s] English:** Comes to my mind, by the way, he's running for New York mayor. Yeah, do you have any opinions? Yeah, it's no good.  
 **Translation:** 
 
-**[5406.60s] English:** one person in prison in new york like when i heard that number it was really confusing to me  
+**[5015.78s] English:** I like Andrew Yang, and it's no good—I'd be honest with you; I'm a lifelong New Yorker, I mean.  
 **Translation:** 
 
-**[5414.54s] English:** like that it cost that much 400k per person uh and it was really refreshing to hear a politician  
+**[5020.80s] English:** I'm a New Yorker. Well, you're a New Yorker, so nothing's good, right? Well, something is good, okay?  
 **Translation:** 
 
-**[5423.18s] English:** describe a particular problem with data that this is this prison industrial complex whatever the  
+**[5026.26s] English:** Talking, on the other hand, New York is a very socially liberal place; it's the head of the  
 **Translation:** 
 
-**[5429.72s] English:** hell it is and whether the solution it's unclear what the solution is i think he has solutions but  
+**[5032.36s] English:** Snake New York is the country if New York isn't doing well, the country's not doing well.  
 **Translation:** 
 
-**[5435.42s] English:** just the honesty of presenting that information was refreshing and i'm not sure a capitalistic  
+**[5037.20s] English:** Um, it's the most important thing to do. It's the most important thing to do. It's the most important.  
 **Translation:** 
 
-**[5441.18s] English:** person would solve that those kinds of problems he might make worse and i'm not you know i'm a  
+**[5038.90s] English:** City DC.  
 **Translation:** 
-
-**[5447.36s] English:** huge fan of capitalism i think i think the free market is is the way we make progress in this  
-**Translation:** Vocabulary: capitalism: 资本主义
-
-**[5453.88s] English:** world but it seems to go wrong in certain directions like the military industrial complex  
-**Translation:** 
-
-**[5459.72s] English:** the prison anything that ends with industrial complex and so i'm i'm not sure i'm not sure if  
-**Translation:** 
-
-**[5467.40s] English:** all of the problems you're basically saying let's put new york's problems aside  
-**Translation:** 
-
-**[5474.84s] English:** we need to have new york shine first to do what it does best essentially yeah and then the problems  
-**Translation:** 
-
-**[5482.52s] English:** will fix them well and then we can focus on the problems but if you just say like here's a problem  
-**Translation:** 
-
-**[5487.68s] English:** here's a problem here's a problem let's make sure we fix it and then we can fix it and then we can  
-**Translation:** 
-
-**[5489.72s] English:** fix it we have the safety net that protects against all these kinds of problems that's not  
-**Translation:** 
-
-**[5492.98s] English:** going to that's going to kill the city the spirit of the uh of the city that is in your biased  
-**Translation:** 
-
-**[5498.86s] English:** opinion the rome of the world yeah that said a lot of people are fleeing new york yeah that that's  
-**Translation:** 
-
-**[5505.30s] English:** why i say it i that's the reality of the situation is you know um i i'm all for the public good but  
-**Translation:** 
-
-**[5511.44s] English:** yeah there needs to be back to that greek expression pan metronaristan i i also think  
-**Translation:** 
-
-**[5516.46s] English:** the free market is responsible for progress i think it's the most natural  
-**Translation:** Vocabulary: metronaristan: 度量衡
-
-**[5519.72s] English:** thing  
-**Translation:** 
-
-**[5520.00s] English:** the thing that's most aligned with human nature which is self-interest and um which i believe  
-**Translation:** Vocabulary: aligned: 一致
-
-**[5524.96s] English:** not to the extent that ayn rand would but i do believe people are mostly self-interested  
-**Translation:** 
-
-**[5528.50s] English:** especially with one gun to the head um morals are out the window you know it's about survival  
-**Translation:** 
-
-**[5533.70s] English:** so you know create a system that respects that and acknowledges that but socialism works very  
-**Translation:** 
-
-**[5539.66s] English:** well at least right now as a check as to temper uh the excesses of capitalism and in certain  
-**Translation:** Vocabulary: excesses: 过度
-
-**[5546.18s] English:** scenarios is uh the more appropriate system you know in a vacuum so one being prisons or  
-**Translation:** 
-
-**[5553.46s] English:** you know uh you know governance uh you know uh maybe even well and this is a difficult one but  
-**Translation:** Vocabulary: governance: 治理; scenarios: 情景; vacuum: 真空
-
-**[5561.26s] English:** in health care health care it's unclear what's right there's a lot of debates there yeah doctors  
-**Translation:** 
-
-**[5566.12s] English:** want votes yeah so i guess you're voting for aoc you're saying no i'm not voting for aoc but i do  
-**Translation:** 
-
-**[5573.08s] English:** it's just a tough one that's a tough one but  
-**Translation:** 
-
-**[5575.88s] English:** ultimately the hippocratic oath it's like how do you turn people away man how do you do that to  
-**Translation:** Vocabulary: hippocratic: 希波克拉底
-
-**[5582.48s] English:** people it's like it's it's a tough thing to uh to reconcile helping people curing people with  
-**Translation:** 
-
-**[5591.36s] English:** the uh the marketplace it's just i can understand why that one's so tough and then you got  
-**Translation:** Vocabulary: marketplace: 交易场所; reconcile: 协调
-
-**[5597.06s] English:** hypochondriacs of course who drain the system you know like people who are having anxiety like me  
-**Translation:** 
-
-**[5601.58s] English:** who had covet and called 14 uh you know i called 14 ambulances  
-**Translation:** Vocabulary: ambulances: 救护车; hypochondriacs: 疑病患者
-
-**[5605.88s] English:** so and then of course we're fat and the free market made us fat because it played the marketing  
-**Translation:** 
-
-**[5611.38s] English:** made us want all this junk food and that's a burden on the health care system so we got to do  
-**Translation:** 
-
-**[5614.88s] English:** something about that we got to get creative we need new thinkers i'll be one of them when you  
-**Translation:** 
-
-**[5618.52s] English:** go to a fast food restaurant you stand on a scale if you're over a certain thing you can't be served  
-**Translation:** Vocabulary: thinkers: 思考者
-
-**[5623.20s] English:** it's good for the health care system you know you just handed a salad and say sorry this burger's  
-**Translation:** 
-
-**[5628.00s] English:** illegal for right now if you achieve these certain oh uh bmi goals then you can you can have this  
-**Translation:** 
-
-**[5635.88s] English:** but right now you can that's where the state's important yeah okay to regulate  
-**Translation:** 
-
-**[5640.00s] English:** freedoms no slurpees i'm with you bloomberg well i'm with you to go along i think the salads are  
-**Translation:** Vocabulary: regulate: 管控; slurpees: slurpee
-
-**[5645.62s] English:** too expensive they should be subsidized if you if you go to like a fast food joint uh the burger is  
-**Translation:** 
-
-**[5651.06s] English:** always going to be cheaper than the salad yeah and this does not make sense we should run on this  
-**Translation:** Vocabulary: subsidized: 补贴
-
-**[5654.46s] English:** platform i'll be your vice president we'll ban burgers for uh for people over a certain weight  
-**Translation:** 
-
-**[5659.08s] English:** and make salads cheap three-day work weeks why has that wait wait okay where are you going with  
-**Translation:** 
-
-**[5664.26s] English:** this one dude good for the economy stimulates the economy right more shifts creates more jobs  
-**Translation:** 
-
-**[5669.94s] English:** more people spending because they have more leisure time boosts the leisure economy you know  
-**Translation:** 
-
-**[5674.22s] English:** why are we still doing the five-day work week that that was that was tempered from the seven-day work  
-**Translation:** 
-
-**[5679.30s] English:** week that was so the seven it used to be seven-day work it used to be like and people who are just  
-**Translation:** 
-
-**[5683.84s] English:** these libertarians like come on dude what is this fresh are we freshmen in college yeah you're gonna  
-**Translation:** 
-
-**[5688.62s] English:** we're gonna talk about ayn rand next like let's talk about reality okay and human nature people  
-**Translation:** Vocabulary: freshmen: 大学新生; libertarians: 自由主义者
-
-**[5693.00s] English:** are fucking greedy  
-**Translation:** 
-
-**[5693.80s] English:** they're they lie they you know there's no end to up which is one of my favorite expressions  
-**Translation:** 
-
-**[5698.44s] English:** um no end to up no end to up there's no end to up can we dissect that yeah from a randian  
-**Translation:** 
-
-**[5703.98s] English:** perspective there's no end to up which is uh you just keep going it's never enough the human never  
-**Translation:** 
-
-**[5710.02s] English:** it's never enough no end to up more more more and you know you have to reconcile your fact that  
-**Translation:** 
-
-**[5715.28s] English:** you're gonna die so like there's no end to up thing is that balance is is just as valuable as  
-**Translation:** 
-
-**[5723.48s] English:** you  
-**Translation:** 
-
-**[5723.80s] English:** progress so we have to reconcile those two things and put them on a seesaw and figure out how to get  
-**Translation:** Vocabulary: reconcile: 调和
-
-**[5731.00s] English:** two people who have the equal weight to to keep it like that and that's the goal and it constantly  
-**Translation:** 
-
-**[5735.56s] English:** vacillates uh according to the time you sometimes you need a little more socialism sometimes you  
-**Translation:** Vocabulary: vacillates: 摇摆不定
-
-**[5739.78s] English:** need a little more capitalism you gotta you gotta you gotta fly the plane man you gotta fly the  
-**Translation:** 
-
-**[5743.98s] English:** plane dude what's your um looking back at history is there a moment time period in history a person  
-**Translation:** Vocabulary: capitalism: 资本主义
-
-**[5752.68s] English:** in history that's  
-**Translation:** 
-
-**[5753.64s] English:** most fascinating to you you mentioned birdie made up maybe second to birdie made up is there in a  
-**Translation:** Vocabulary: birdie: 小鸟洞
-
-**[5758.76s] English:** battle of crete is there  
-**Translation:** 
-
-**[5760.00s] English:** something that you've always been curious about even if it's something you haven't actually  
-**Translation:** Vocabulary: crete: 克里特岛
-
-**[5762.64s] English:** researched that well yet just something that pulled your curiosity that uh instructed the  
-**Translation:** 
-
-**[5767.52s] English:** way you think about the world an individual or an event or event individual uh you know  
-**Translation:** Vocabulary: instructed: 引导思考
-
-**[5774.96s] English:** yeah moment in history or a person in history um there's a few but uh you know queen elizabeth  
-**Translation:** 
-
-**[5783.84s] English:** uh the elizabethan era you know the sun never sets in the british empire very successful empire  
-**Translation:** Vocabulary: elizabethan: 伊丽莎白时代的
-
-**[5790.80s] English:** uh what an absolute success story that is for a leader and a woman um can you tell a little bit  
-**Translation:** 
-
-**[5799.92s] English:** about her story well i actually don't know much about the bridge she had a good run i think it's  
-**Translation:** 
-
-**[5803.68s] English:** like 70 years you know shakespeare they you know the oh i guess what's the word pax romana the the  
-**Translation:** 
-
-**[5809.92s] English:** period of rome that was at peace and they flourished like a couple of emperor's like trajan  
-**Translation:** Vocabulary: flourished: 繁荣; trajan: 图拉真
-
-**[5815.20s] English:** or some good ones and i think he was part of the pax romana that sort of just a peace and a  
-**Translation:** 
-
-**[5820.00s] English:** little bit of crew element you know but that wasn't it didn't flee in any way  
-**Translation:** 
-
-**[5833.92s] English:** it just got diving started they just had to do more and more and more and  
-**Translation:** 
-
-**[5837.92s] English:** i mean they did just that they took the golden era which was french you know we were running  
-**Translation:** 
-
-**[5842.80s] English:** St  
-**Translation:** 
-
-**[5848.32s] English:** pae  
-**Translation:** 
-
-**[5848.96s] English:** for England  
-**Translation:** 
-
-**[5849.36s] English:** was sort of that in the empire under her successful reign she murdered her cousin she you know the  
-**Translation:** Vocabulary: reign: 统治时期
-
-**[5849.76s] English:** she was just so and here's the thing she she never got married she was a she was so um astute  
-**Translation:** 
-
-**[5858.32s] English:** at public relations and and and imagine how strong you got to be as a woman to lead the greatest  
-**Translation:** Vocabulary: astute: 精明
-
-**[5865.52s] English:** empire maybe known to man at the time and to do so so successfully how machiavellian you have to be  
-**Translation:** 
-
-**[5871.84s] English:** how idealist you have to be how much of a good marketer you have to be propaganda machine was  
-**Translation:** Vocabulary: idealist: 理想主义者; machiavellian: 权谋家
-
-**[5875.68s] English:** on point she was married to england she was adored the way she  
-**Translation:** 
-
-**[5880.00s] English:** adorned herself you walked in you're like holy man god just walked in here and of course she  
-**Translation:** 
-
-**[5885.42s] English:** got fucked i mean who doesn't fuck we all fuck even robots one day will fuck yeah but she was  
-**Translation:** 
-
-**[5891.22s] English:** she she did that propaganda thing and historians aren't uh haven't they haven't decided this but  
-**Translation:** 
-
-**[5898.10s] English:** i believe she fucked and i believe she did that as a tool of propaganda i'm married to england  
-**Translation:** 
-
-**[5906.02s] English:** so you oh you're directly referring to like using sex as a way to manipulate people  
-**Translation:** Vocabulary: manipulate: 操控
-
-**[5910.80s] English:** well she her she was known as like the the virgin queen and uh and her thing was like i'm married to  
-**Translation:** 
-
-**[5917.46s] English:** england like i can't be distracted by man or woman blah blah she never had any kids nothing  
-**Translation:** Vocabulary: distracted: 分心; virgin: 处女
 
-**[5922.16s] English:** i think she did that as a tool of manipulation yes what you need rulers need to you know obama  
+**[5040.00s] English:** New York, it's really like Rome, be honest. It's, I guess, maybe I'm biased, I don't know. No.  
 **Translation:** 
 
-**[5930.88s] English:** made you feel good and then he went and bought carpet bombed everywhere you need to feel good  
-**Translation:** Vocabulary: manipulation: 操控
+**[5045.78s] English:** We just did New Yorkers. We walk around everywhere, and we go, "This is just like New York, but not New.  
+**Translation:** Vocabulary: biased: 有偏见的
 
-**[5935.50s] English:** about  
+**[5051.28s] English:** York, it's um, but and New York needs. I'm a guy who leans left; uh, you know, I just lean left.  
 **Translation:** 
 
-**[5936.00s] English:** your guy no matter how evil they are and she was fucking a dictator but when you look back at her  
+**[5058.88s] English:** And that's just what it is: a dictator is where you're going. No, we need to figure this out.  
 **Translation:** Vocabulary: dictator: 独裁者
 
-**[5941.80s] English:** everyone's like oh my god she was so great the horror and the shit that she had to do she didn't  
+**[5064.00s] English:** Money Town, let's be come on, man. I mean, New York is a money town, and then Wall Street...  
 **Translation:** 
 
-**[5946.74s] English:** put that in the history books but that's what probably was part of what made her successful  
+**[5071.54s] English:** AOC and her cronies, um, at the local level rejected that Amazon thing. You're going to like this.  
+**Translation:** Vocabulary: cronies: 同伙
+
+**[5077.18s] English:** What do you think makes cities thrive, and what will create jobs in the 21st century?  
 **Translation:** 
 
-**[5950.96s] English:** and um she's a fascinating character to to ponder because she was so successful and and and england  
+**[5082.34s] English:** Do we need more nail salons or more pizza places? I mean, we're living in the tech revolution and...  
+**Translation:** Vocabulary: salons: 美容院; thrive: 繁荣
+
+**[5087.54s] English:** You know, whatever your opinions are about Jeff Bezos, that's the world of tech, and they want to  
 **Translation:** 
 
-**[5957.74s] English:** flourished so much and uh it's just fascinating to me because she was the great virgin queen and  
-**Translation:** Vocabulary: flourished: 繁荣昌盛
-
-**[5963.52s] English:** can you think of a there's no other woman who was that i mean angela merkel i mean come on yeah  
+**[5093.98s] English:** Come here, of course, you give them tax breaks—that's why any company would go anywhere. She's so  
 **Translation:** 
 
-**[5969.30s] English:** i mean there's nobody who comes close and defeating the spanish armada i think that  
+**[5098.62s] English:** Fucking utopian, and that progressive wing is so utopian that it always ends in disaster.  
+**Translation:** 
+
+**[5104.78s] English:** Because it's not rooted in reality, it doesn't accept the reality that people are self-interested.  
+**Translation:** Vocabulary: utopian: 空想主义
+
+**[5109.20s] English:** Now, they're going to do this 14-15% tax hike on people making a million dollars more in New York.  
+**Translation:** 
+
+**[5114.20s] English:** City A million dollars is not that much, so people are going to flee New York; the tax base is going...  
+**Translation:** 
+
+**[5118.90s] English:** To flee, New York's going to fall to shit like it did before, so you're saying it basically needs...  
+**Translation:** 
+
+**[5123.14s] English:** A More Capitalized  
+**Translation:** Vocabulary: capitalized: 提高地位
+
+**[5123.98s] English:** Front like a capitalist-type thinker, Loebenberg Giuliani when he was still sane.  
+**Translation:** 
+
+**[5128.28s] English:** And his hair wasn't melting off his face, prosecutor. You need a top, I mean, I don't know what's  
+**Translation:** Vocabulary: giuliani: 吉安尼; loebenberg: 洛恩伯格; prosecutor: 检察官; thinker: 思想家
+
+**[5134.06s] English:** Happened that he's lost it, but it's fun, yeah. It's fun to watch, yeah, it's fun to watch him be.  
+**Translation:** 
+
+**[5138.38s] English:** Just like Trump's lackey, like, yeah, boy, whatever you want, boss. I'll just say whatever you want, boss.  
+**Translation:** Vocabulary: lackey: 马屁精
+
+**[5142.78s] English:** But New York is a money town that needs a money guy, and sort of more of a Republican, I have to.  
+**Translation:** 
+
+**[5149.68s] English:** Say, on the local 11, as more of a guy who leans left, I'll just be honest: it's a  
+**Translation:** 
+
+**[5153.98s] English:** Tough city that needs a tough mayor, not some guy who's going to say, "I understand—we all need free...  
+**Translation:** 
+
+**[5158.78s] English:** Money, you know.  
+**Translation:** 
+
+**[5160.00s] English:** Andrew Yang is right in the big picture because all the real jobs are somewhere else, and  
+**Translation:** 
+
+**[5164.58s] English:** You look at those Asian cities, you go, "Oh, that's what our cities used to look like.  
+**Translation:** 
+
+**[5168.10s] English:** During the Industrial Revolution, you know, there were jobs and people were making things here.  
+**Translation:** 
+
+**[5172.14s] English:** And now, you look at those cities in Asia and you're going, "Wow!" And then you go to Detroit.  
+**Translation:** 
+
+**[5175.92s] English:** And you're like, "Yeah, we're done." You go to Cleveland; you go. We're done. So I don't actually...  
+**Translation:** 
+
+**[5181.02s] English:** It's funny, the reason I really like Andrew Yang is I've learned a lot every time he talks.  
+**Translation:** Vocabulary: cleveland: 克利夫兰
+
+**[5186.90s] English:** Like it's not his opinion; he's just giving a lot of data, yeah, like information, which I just  
+**Translation:** 
+
+**[5192.28s] English:** Start a podcast; don't run from air. Well, that's true. He already has a podcast, I think.  
+**Translation:** 
+
+**[5196.10s] English:** Yang speaks: "Who doesn't? Who doesn't fucking know that's the way we communicate?  
+**Translation:** 
+
+**[5201.16s] English:** I don't even talk to people unless it's on a podcast. Well, listen, man; I'm not going to.  
+**Translation:** 
+
+**[5206.22s] English:** Criticize that, because there is something like I talked to my dad on a podcast for four hours.  
+**Translation:** 
+
+**[5212.16s] English:** And I'm not sure I would ever talk to him in the way we talked.  
+**Translation:** 
+
+**[5216.90s] English:** The podcast, "What Does He Do?" — uh, physicist? Oh, shit, but like, yeah, it's uh, episode 100 and  
+**Translation:** 
+
+**[5225.12s] English:** You know,  
+**Translation:** Vocabulary: physicist: 物理学家
+
+**[5227.30s] English:** I, uh, the way I recorded that podcast is that I tried to put my ego aside—it's actually really tough.  
+**Translation:** 
+
+**[5235.48s] English:** To talk to your dad, especially because you're giving him a platform, uh, especially so at that.  
+**Translation:** 
+
+**[5241.36s] English:** Time; this is already a bit of a platform for this podcast, and so there's this as a son.  
+**Translation:** 
+
+**[5246.90s] English:** You think, like, "Oh, here it goes with this bullshit again." That's the natural son's thought.  
+**Translation:** Vocabulary: bullshit: 胡说八道
+
+**[5252.16s] English:** You have, but at the same time, I wanted to think about it this way: in 20 years, when I look back,...  
+**Translation:** 
+
+**[5259.64s] English:** Like, I want to do a conversation where I'm happy with it, you know, so I want to make him shine.  
+**Translation:** 
+
+**[5264.70s] English:** But I also called him out on, like, why you were so distant, and all that kind of stuff, yeah.  
+**Translation:** 
+
+**[5272.00s] English:** It was very difficult to do, but it was really important to do, and I don't think I'd be able  
+**Translation:** 
+
+**[5275.48s] English:** To do without, without,  
+**Translation:** 
+
+**[5276.90s] English:** A microphone.  
+**Translation:** Vocabulary: microphone: 话筒
+
+**[5277.60s] English:** Right.  
+**Translation:** 
+
+**[5277.94s] English:** Listen: How often?  
+**Translation:** 
+
+**[5279.66s] English:** Do we?  
+**Translation:** 
+
+**[5280.00s] English:** Sit there and just focus our attention, just look at the other person. I don't know; man, this is not.  
+**Translation:** 
+
+**[5286.14s] English:** Even recording right now, I just invited you over just so we could actually talk about the podcast.  
+**Translation:** 
+
+**[5292.28s] English:** Does it make sense that I've been listening to every word you've been saying, and if we weren't  
+**Translation:** 
+
+**[5296.20s] English:** Doing a podcast, I might be looking at my phone or being self-conscious about something else, or  
+**Translation:** 
+
+**[5300.66s] English:** Nervous or anxious, and then especially with people close to you: I mean, that's why I recommend that.  
+**Translation:** 
+
+**[5305.44s] English:** Actually, for people to talk to their family on a podcast, like it or not, that's  
+**Translation:** 
+
+**[5311.34s] English:** Really powerful; it made me realize that there's a clear distinction between the conversations we  
+**Translation:** 
+
+**[5316.44s] English:** Usually, we have a different dynamic with humans, and those we have when the podcast is being recorded—um, what the fuck?  
+**Translation:** 
+
+**[5323.68s] English:** Were we talking about before? That's when I knew you were going to lose your train of thought on that one.  
+**Translation:** 
+
+**[5327.92s] English:** Because that's a big one; there's emotion behind that one. The podcast with Dad is going to take  
+**Translation:** 
+
+**[5332.18s] English:** That's going to take you to a place I took you to a place.  
+**Translation:** 
+
+**[5334.48s] English:** It took  
+**Translation:** 
+
+**[5335.36s] English:** Outside of New York, I went to a place in New York, and Yang... uh, so the data one.  
+**Translation:** 
+
+**[5341.82s] English:** Of the things that really surprised me, I like the psychoanalysis you just threw in there.  
+**Translation:** 
+
+**[5347.32s] English:** Yeah, I took you to a place. So, uh, Angie Yang mentioned "respect me, now, Dad.  
+**Translation:** 
+
+**[5353.92s] English:** Is it enough, 14 million people listening to this? I've got 14 Rogans, Dad. I'm  
+**Translation:** 
+
+**[5361.90s] English:** Creating robots, is it enough for you? That's what you're doing.  
+**Translation:** 
+
+**[5365.34s] English:** Drives you, probably. That probably what drives me: that's what gives meaning to life; it's never.  
+**Translation:** 
+
+**[5369.10s] English:** Enough, and uh, I hope to pass that on to my kids one day. Uh, that nothing's ever enough.  
+**Translation:** 
+
+**[5374.84s] English:** They're robots or humans — right? Your kids, most likely, let's be honest, you might call one a robot.  
+**Translation:** 
+
+**[5379.68s] English:** You love your road? Are you starting to love it? Is it going to be like that Pygmalion thing?  
+**Translation:** Vocabulary: pygmalion: 皮格马利翁效应
+
+**[5383.30s] English:** Create them, and then they kill you. But even while they're killing you, you've got a tear—a slow...  
+**Translation:** 
+
+**[5386.94s] English:** One tear, one tear, and just... Yeah, why are you doing this, Frankenstein? Why, why, but I loved you.  
+**Translation:** 
+
+**[5393.76s] English:** Those would be the last words out of my mouth. I'm not going to lie to you. I'm not going to lie to you.  
+**Translation:** 
+
+**[5395.34s] English:** Uh, but Andrew Yang mentioned something on that it  
+**Translation:** 
+
+**[5400.00s] English:** Costs amounted to four hundred thousand dollars, or $400,000 per year, to support.  
+**Translation:** 
+
+**[5406.60s] English:** One person in prison in New York—like, when I heard that number, it was really confusing to me.  
+**Translation:** Vocabulary: amounted: 总计为
+
+**[5414.54s] English:** Like that, it cost that much—$400K per person. Uh, and it was really refreshing to hear a politician  
+**Translation:** 
+
+**[5423.18s] English:** Describe a particular problem with data in this prison-industrial complex, whatever it may be.  
+**Translation:** 
+
+**[5429.72s] English:** Hell, it is, and whether the solution—it's unclear what the solution is. I think he has solutions, but...  
+**Translation:** 
+
+**[5435.42s] English:** Just the honesty of presenting that information was refreshing, and I'm not sure a capitalist approach could match it.  
+**Translation:** Vocabulary: capitalist: 资本主义的
+
+**[5441.18s] English:** A person would solve those kinds of problems, and he might make them worse. I'm not, you know, I'm just saying.  
+**Translation:** 
+
+**[5447.36s] English:** A huge fan of capitalism, I think. I think the free market is the way we make progress, isn't it?  
+**Translation:** Vocabulary: capitalism: 资本主义
+
+**[5453.88s] English:** World, but it seems to go wrong in certain directions, like the military-industrial complex.  
+**Translation:** 
+
+**[5459.72s] English:** The prison, anything that ends with "industrial complex," and so I'm not sure; I'm not sure if  
+**Translation:** 
+
+**[5467.40s] English:** All of the problems you're basically saying, let's put New York's problems aside.  
+**Translation:** 
+
+**[5474.84s] English:** We need to have New York shine first, to do what it does best, essentially, yeah, and then the problems.  
+**Translation:** 
+
+**[5482.52s] English:** Will fix them well, and then we can focus on the problems, but if you just say, "here's a problem,  
+**Translation:** 
+
+**[5487.68s] English:** Here's a problem. Let's make sure we fix it, and then we can move on.  
+**Translation:** 
+
+**[5489.72s] English:** Fix it; we have the safety net that protects against all these kinds of problems, that's not  
+**Translation:** 
+
+**[5492.98s] English:** Going to that's going to kill the city's spirit, the one that is in your bias.  
+**Translation:** 
+
+**[5498.86s] English:** Opinion: The Rome of the world, yeah. That said, a lot of people are fleeing New York, yeah. That's  
+**Translation:** 
+
+**[5505.30s] English:** Why I say it, I think that's the reality of the situation: you know, I'm all for the public good, but  
+**Translation:** Vocabulary: fleeing: 逃离
+
+**[5511.44s] English:** Yeah, there needs to be a return to that Greek expression "pan metron aristan," and I also think.  
+**Translation:** 
+
+**[5516.46s] English:** The free market is responsible for progress, I think it's the most natural.  
+**Translation:** Vocabulary: aristan: 最佳; metron: 尺度
+
+**[5519.72s] English:** Thing.  
+**Translation:** 
+
+**[5520.00s] English:** The thing that's most aligned with human nature, which is self-interest, and I believe,...  
+**Translation:** Vocabulary: aligned: 一致
+
+**[5524.96s] English:** Not to the extent that Ayn Rand would, but I do believe people are mostly self-interested.  
+**Translation:** 
+
+**[5528.50s] English:** Especially with one gun to the head, morals are out the window; you know, it's about survival.  
+**Translation:** Vocabulary: morals: 道德
+
+**[5533.70s] English:** So, you know, create a system that respects that and acknowledges it, but socialism works very  
+**Translation:** 
+
+**[5539.66s] English:** Well, at least right now, as a check on the excesses of capitalism, and in certain  
+**Translation:** Vocabulary: acknowledges: 承认; capitalism: 资本主义; excesses: 过度
+
+**[5546.18s] English:** Scenarios is, uh, the more appropriate system you know, in a vacuum, so one being prisons or  
+**Translation:** 
+
+**[5553.46s] English:** You know, uh, you know, governance, uh, you know, maybe even—well, and this is a difficult one, but  
+**Translation:** Vocabulary: governance: 治理; scenarios: 情景; vacuum: 真空
+
+**[5561.26s] English:** In healthcare, it's unclear what's right; there are a lot of debates, and yes, doctors.  
+**Translation:** 
+
+**[5566.12s] English:** Want votes, yeah? So I guess you're voting for AOC. You're saying no, I'm not voting for AOC, but I do  
+**Translation:** Vocabulary: healthcare: 医疗卫生
+
+**[5573.08s] English:** It's just a tough one. That's a tough one, but...  
+**Translation:** 
+
+**[5575.88s] English:** Ultimately, the Hippocratic Oath—it's like, how do you turn people away? Man, how do you do that to them?  
+**Translation:** Vocabulary: hippocratic: 希波克拉底誓言
+
+**[5582.48s] English:** People, it's like it's a tough thing to reconcile helping people and curing people with.  
+**Translation:** 
+
+**[5591.36s] English:** The marketplace—it's just, I can understand why that one's so tough, and then you've got...  
+**Translation:** Vocabulary: curing: 治疗; marketplace: 市场; reconcile: 调和
+
+**[5597.06s] English:** Hypochondriacs, of course, who drain the system — you know, like people who are having anxiety, like me.  
+**Translation:** 
+
+**[5601.58s] English:** Who had covet and called 14? Uh, you know, I called 14 ambulances.  
+**Translation:** Vocabulary: ambulances: 救护车; covet: 羡慕; hypochondriacs: 疑病者
+
+**[5605.88s] English:** So, and then of course we're fat, and the free market made us fat because it played the marketing.  
+**Translation:** 
+
+**[5611.38s] English:** Made us want all this junk food, and that's a burden on the health care system, so we've got to do something about it.  
+**Translation:** 
+
+**[5614.88s] English:** Something about that—we've got to get creative. We need new thinkers, and I'll be one of them.  
+**Translation:** 
+
+**[5618.52s] English:** Go to a fast-food restaurant, you stand on a scale. If you're over a certain weight, you can't be served.  
+**Translation:** Vocabulary: thinkers: 思考者
+
+**[5623.20s] English:** It's good for the health care system, you know, you just handed a salad and said, "Sorry, this is the best we can do.  
+**Translation:** 
+
+**[5628.00s] English:** Illegal for right now, if you achieve these certain BMI goals, then you can have this.  
+**Translation:** 
+
+**[5635.88s] English:** But right now, you can see that's where the state's important, yeah? Okay, to regulate.  
+**Translation:** 
+
+**[5640.00s] English:** Freedoms, no Slurpees? I'm with you, Bloomberg. Well, I'm with you to go along; I think the salads are.  
+**Translation:** Vocabulary: regulate: 管理; slurpees: slurpee
+
+**[5645.62s] English:** Too expensive; they should be subsidized. If you go to a fast-food joint, the burger is  
+**Translation:** 
+
+**[5651.06s] English:** Always going to be cheaper than the salad, yeah. And this doesn't make sense; we should run on this.  
+**Translation:** Vocabulary: subsidized: 补贴的
+
+**[5654.46s] English:** Platform, I'll be your Vice President. We'll ban burgers for people over a certain weight.  
+**Translation:** 
+
+**[5659.08s] English:** And make salads cheap, three-day workweeks. Why has that wait? Wait, okay, where are you going with this?  
+**Translation:** Vocabulary: workweeks: 工作周
+
+**[5664.26s] English:** This one dude is good for the economy, stimulating it by creating more job shifts.  
+**Translation:** 
+
+**[5669.94s] English:** More people spending because they have more leisure time boosts the leisure economy, you know.  
+**Translation:** Vocabulary: boosts: 提升; shifts: 变换; stimulating: 刺激
+
+**[5674.22s] English:** Why are we still doing the five-day workweek, which was tempered from the seven-day workweek?  
+**Translation:** 
+
+**[5679.30s] English:** The week that was, so the seven-day workweek used to be like, and people who are just...  
+**Translation:** Vocabulary: tempered: 调和; workweek: 工作周
+
+**[5683.84s] English:** These libertarians, like, come on, dude! What is this? Are we freshmen in college? Yeah, you're gonna...  
+**Translation:** 
+
+**[5688.62s] English:** We're gonna talk about Ayn Rand next. Let's talk about reality, okay, and human nature, people.  
+**Translation:** Vocabulary: freshmen: 大一学生; libertarians: 自由主义者
+
+**[5693.00s] English:** Are they fucking greedy?  
+**Translation:** 
+
+**[5693.80s] English:** They're they lie, they you know, there's no end to it, which is one of my favorite expressions.  
+**Translation:** 
+
+**[5698.44s] English:** Um, no end to up; no end to up. There's no end to up. Can we dissect that? Yeah, from a Radian's perspective.  
+**Translation:** 
+
+**[5703.98s] English:** Perspective: There's no end to "up" which is, uh, you just keep going; it's never enough—the human never.  
+**Translation:** Vocabulary: dissect: 剖析
+
+**[5710.02s] English:** It's never enough; no end to wanting more, more, more, and you know you have to reconcile your fact that.  
+**Translation:** 
+
+**[5715.28s] English:** You're gonna die, so, like, there's no end to it. The thing is that balance is just as valuable as...  
+**Translation:** Vocabulary: reconcile: 调和
+
+**[5723.48s] English:** You.  
+**Translation:** 
+
+**[5723.80s] English:** Progress, so we have to reconcile those two things and put them on a seesaw and figure out how to get.  
+**Translation:** Vocabulary: seesaw: 跷跷板
+
+**[5731.00s] English:** Two people who have the equal weight to keep it like that, and that's the goal. It constantly needs to be maintained.  
+**Translation:** 
+
+**[5735.56s] English:** Vacillates, uh, according to the time. You sometimes need a little more socialism, sometimes you  
+**Translation:** Vocabulary: vacillates: 摇摆
+
+**[5739.78s] English:** Need a little more capitalism, you gotta, you gotta, you gotta fly the plane, man! You gotta fly the plane.  
+**Translation:** 
+
+**[5743.98s] English:** Plane dude, what's your um, looking back at history, is there a moment, time period, or a person that stands out to you?  
+**Translation:** Vocabulary: capitalism: 资本主义
+
+**[5752.68s] English:** In history, that's  
+**Translation:** 
+
+**[5753.64s] English:** Most fascinating to you, you mentioned Birdie. Made up, maybe second to Birdie, made up: is there anything in a  
+**Translation:** Vocabulary: birdie: 小鸟洞
+
+**[5758.76s] English:** The Battle of Crete is there.  
+**Translation:** 
+
+**[5760.00s] English:** Something that you've always been curious about, even if it's something you haven't actually  
+**Translation:** Vocabulary: crete: 克里特岛
+
+**[5762.64s] English:** Researching that well yet, just something that pulled your curiosity, that instructed the  
+**Translation:** 
+
+**[5767.52s] English:** The way you think about the world, an individual, or an event — or any combination of these — you know.  
+**Translation:** Vocabulary: instructed: 启发; researching: 研究
+
+**[5774.96s] English:** Yeah, there's a moment in history or a person in history, and there are a few, but you know, Queen Elizabeth.  
+**Translation:** 
+
+**[5783.84s] English:** Uh, during the Elizabethan era, you know, the sun never set on the British Empire—it was a very successful empire.  
+**Translation:** Vocabulary: elizabethan: 伊丽莎白时代的
+
+**[5790.80s] English:** Uh, what an absolute success story that is for a leader and a woman. Um, can you tell a little bit more?  
+**Translation:** 
+
+**[5799.92s] English:** About her story, well, I actually don't know much about the bridge. She had a good run, I think.  
+**Translation:** 
+
+**[5803.68s] English:** Like, 70 years, you know, Shakespeare. They call it the Pax Romana, you know, the era of Roman peace. I guess that's the word.  
+**Translation:** 
+
+**[5809.92s] English:** A period of Rome that was at peace, and they flourished like emperors such as Trajan.  
+**Translation:** Vocabulary: emperors: 皇帝; flourished: 繁荣; trajan: 图拉真
+
+**[5815.20s] English:** Or, some good ones, and I think he was part of the Pax Romana, that sort of just means a peace and a  
+**Translation:** 
+
+**[5820.00s] English:** A little bit of crew element, you know, but that wasn't it; it didn't flee in any way.  
+**Translation:** 
+
+**[5833.92s] English:** It just got diving started; they just had to do more and more and more.  
+**Translation:** 
+
+**[5837.92s] English:** I mean, they did just that—they took the golden era, which was French, you know, and we were running.  
+**Translation:** 
+
+**[5842.80s] English:** St.  
+**Translation:** 
+
+**[5848.32s] English:** PAE  
+**Translation:** 
+
+**[5848.96s] English:** For England.  
+**Translation:** 
+
+**[5849.36s] English:** It was sort of like, in the empire under her successful reign, she murdered her cousin, you know.  
+**Translation:** Vocabulary: reign: 统治
+
+**[5849.76s] English:** She was just so, and here's the thing: she never got married; she was a she was so um astute.  
+**Translation:** 
+
+**[5858.32s] English:** At public relations, and imagine how strong you have to be as a woman to lead the greatest.  
+**Translation:** Vocabulary: astute: 精明的
+
+**[5865.52s] English:** Empire, maybe known to man at the time, and to do so so successfully, you have to be Machiavellian.  
+**Translation:** 
+
+**[5871.84s] English:** How idealistic you have to be! How much of a good marketer you have to be! Propaganda machine, was it?  
+**Translation:** Vocabulary: idealistic: 理想主义; machiavellian: 权谋; propaganda: 宣传
+
+**[5875.68s] English:** On point, she was married to England; she was adored in the way she  
+**Translation:** 
+
+**[5880.00s] English:** Adorned herself; you walked in—you're like a holy man, God just walked in here—and of course she.  
+**Translation:** Vocabulary: adored: 受崇拜; adorned: 装饰
+
+**[5885.42s] English:** Got fucked. I mean, who doesn't? We all do. Even robots will one day do it, yeah, but she was.  
+**Translation:** 
+
+**[5891.22s] English:** She did that propaganda thing, and historians aren't sure about this yet.  
+**Translation:** 
+
+**[5898.10s] English:** I believe she fucked, and I believe she did that as a tool of propaganda. I'm married to England.  
+**Translation:** 
+
+**[5906.02s] English:** So, you're directly referring to using sex as a way to manipulate people.  
+**Translation:** Vocabulary: manipulate: 操控
+
+**[5910.80s] English:** Well, she was known as the "Virgin Queen," and her thing was that she was married to her country.  
+**Translation:** 
+
+**[5917.46s] English:** England, like, I can't be distracted by man or woman—blah, blah. She never had any kids, nothing.  
+**Translation:** Vocabulary: distracted: 分心; virgin: 处女
+
+**[5922.16s] English:** I think she did that as a tool of manipulation, yes. What you need rulers need to, you know, Obama.  
+**Translation:** 
+
+**[5930.88s] English:** Made you feel good, and then he went and carpet-bombed everywhere you need to feel good.  
+**Translation:** Vocabulary: manipulation: 操控
+
+**[5935.50s] English:** About  
+**Translation:** 
+
+**[5936.00s] English:** Your guys, no matter how evil they are, and she was fucking a dictator, but when you look back at her,...  
+**Translation:** Vocabulary: dictator: 独裁者
+
+**[5941.80s] English:** Everyone's like, "Oh my god, she was so great! The horror and the shit that she had to do... She didn't.  
+**Translation:** 
+
+**[5946.74s] English:** Put that in the history books, but that's what probably was part of what made her successful.  
+**Translation:** 
+
+**[5950.96s] English:** And, um, she's a fascinating character to ponder because she was so successful and England.  
+**Translation:** 
+
+**[5957.74s] English:** Flourished so much, and it's just fascinating to me because she was the Great Virgin Queen, and  
+**Translation:** Vocabulary: flourished: 繁荣; ponder: 思考
+
+**[5963.52s] English:** Can you think of a woman who was like Angela Merkel? I mean, come on, yeah.  
+**Translation:** 
+
+**[5969.30s] English:** I mean, there's nobody who comes close to defeating the Spanish Armada. I think that.  
 **Translation:** Vocabulary: armada: 舰队; defeating: 击败; merkel: 默克尔
 
-**[5974.00s] English:** happened under her i mean i'm no professional history but i mean the woman crushed and uh  
+**[5974.00s] English:** Happened under her, I mean. I'm no professional historian, but I mean the woman crushed, and uh,...  
 **Translation:** 
 
-**[5979.88s] English:** do you think it's more effective to lead by love which it sounds like what she did  
+**[5979.88s] English:** Do you think it's more effective to lead by love, which it sounds like what she did?  
 **Translation:** 
 
-**[5984.06s] English:** from the pr perspective or by fear where did where do you land on that  
+**[5984.06s] English:** From a PR perspective, or by fear, where do you land on that?  
 **Translation:** 
 
-**[5987.98s] English:** that's a great question um i'm not we gotta ask joe  
+**[5987.98s] English:** That's a great question. Um, I'm not sure, but we should ask Joe.  
 **Translation:** 
 
-**[5991.90s] English:** you  
+**[5991.90s] English:** You.  
 **Translation:** 
 
-**[5993.52s] English:** well yeah this is interesting because i think leading in the 21st century in whatever ways  
+**[5993.52s] English:** Well, yeah, this is interesting because I think leading in the 21st century in whatever ways...  
 **Translation:** 
 
-**[5997.98s] English:** is different i think it's very  
+**[5997.98s] English:** Is different, I think it's very.  
 **Translation:** 
 
-**[6000.00s] English:** very difficult to lead by fear i mean i'm that's why i find putin fascinating and  
+**[6000.00s] English:** Very difficult to lead by fear. I mean, I'm that's why I find Putin fascinating, and  
 **Translation:** 
 
-**[6005.92s] English:** like really fascinating like is he a relic of another era or is he something that will still  
+**[6005.92s] English:** Like, really fascinating: is he a relic of another era, or is he something that will still  
 **Translation:** 
 
-**[6013.38s] English:** be necessary in the coming decades for certain nations i think he's a i don't think he's a relic  
+**[6013.38s] English:** It will be necessary in the coming decades for certain nations, I think he's not a relic.  
 **Translation:** 
 
-**[6019.24s] English:** from another era i think his background i think he is who you think he is because his background  
+**[6019.24s] English:** From another era, I think his background; I think he is who you think he is, because of his background.  
 **Translation:** 
 
-**[6023.78s] English:** was in espionage his background was in subterfuge and espionage i think i've said the word subterfuge  
+**[6023.78s] English:** Was he in espionage? His background was in subterfuge and espionage. I think I've said the word subterfuge.  
 **Translation:** Vocabulary: espionage: 间谍活动; subterfuge: 欺诈手段
 
-**[6029.72s] English:** maybe 10 times now but he uh you like big words yeah intellectuals i just i'm sitting here with  
+**[6029.72s] English:** Maybe ten times now, but he, uh, you know, likes big words, yeah? Intellectuals, I just sit here with...  
 **Translation:** 
 
-**[6035.72s] English:** you it's my it's time to flex um but he um he's very good at that right like uh controlling people  
+**[6035.72s] English:** You, it's my time to flex, um, but he's very good at that, right? Like, uh, controlling people.  
 **Translation:** Vocabulary: intellectuals: 知识分子
 
-**[6042.92s] English:** with psychology and even if you look at the way he sort of used the internet and um has sort of  
+**[6042.92s] English:** With psychology, and even if you look at the way he sort of used the Internet and um has sort of  
 **Translation:** 
 
-**[6048.92s] English:** you know gotten into the citizens of other countries opinions and it's very kgb he also  
+**[6048.92s] English:** You know, we've gotten into the citizens of other countries' opinions, and it's very KGB-like. He also  
 **Translation:** 
 
-**[6056.88s] English:** looks great without a shirt on a pony on a horse  
+**[6056.88s] English:** It looks great without a shirt, on a pony on a horse.  
 **Translation:** 
 
-**[6059.72s] English:** on a horse yeah yeah i thought he would choose a pony because a pony's smaller makes him would uh  
+**[6059.72s] English:** On a horse, yeah. Yeah, I thought he would choose a pony because a pony is smaller and would make him more comfortable.  
 **Translation:** 
 
-**[6065.72s] English:** would you would you put queen elizabeth as the greatest leader of all time probably yeah i think  
+**[6065.72s] English:** Would you put Queen Elizabeth as the greatest leader of all time? Probably, yeah. I think  
 **Translation:** 
 
-**[6071.26s] English:** as a woman and you look at uh you look at the the length of the reign i think it's like 70  
+**[6071.26s] English:** As a woman, and you look at the length of the reign, I think it's like 70 years.  
 **Translation:** Vocabulary: reign: 统治时期
 
-**[6077.60s] English:** something years or something like that that she reigned success man success she used the church  
+**[6077.60s] English:** Something years, or something like that, she reigned successfully and used the church.  
 **Translation:** 
 
-**[6084.16s] English:** she used public psychology shakespeare the greatest playwright of all time  
-**Translation:** Vocabulary: playwright: 戏剧作家
+**[6084.16s] English:** She used public psychology, Shakespeare, the greatest playwright of all time.  
+**Translation:** Vocabulary: playwright: 剧作家; reigned: 执政
 
-**[6089.72s] English:** uh under her reign you know people were going to plays and and uh it was a it was a success front  
+**[6089.72s] English:** Uh, under her reign, you know, people were going to plays, and it was a success, front.  
 **Translation:** 
 
-**[6095.42s] English:** and she was marauding everywhere else marauding and and culling resources for the empire and  
+**[6095.42s] English:** And she was marauding everywhere else, marauding and culling resources for the empire, and  
 **Translation:** Vocabulary: culling: 搜刮; marauding: 劫掠
 
-**[6101.14s] English:** just say a absolute successful it's even uh a token of her success we don't consider her a  
+**[6101.14s] English:** Just say that an absolute success is even a token of her success, and we don't consider her  
 **Translation:** 
 
-**[6107.82s] English:** dictator yeah she's a dictator you know she was queen i this my thing i love about the feudal  
+**[6107.82s] English:** Dictator, yeah, she's a dictator. You know, she was queen. I this my thing—I love about the feudal.  
 **Translation:** Vocabulary: dictator: 独裁者; feudal: 封建的; token: 象征
 
-**[6113.70s] English:** system that these fucking countries still have feudal systems they're celebrating a horrible  
+**[6113.70s] English:** System that these fucking countries still have feudal systems; they're celebrating a horrible.  
 **Translation:** 
 
-**[6117.90s] English:** thing divine right of kingdom and they're celebrating a horrible thing divine right of  
+**[6117.90s] English:** Thing with Divine Right of Kingdom, and they're celebrating a horrible thing with Divine Right of  
 **Translation:** 
 
-**[6119.72s] English:** kings  
+**[6119.72s] English:** Kings.  
 **Translation:** 
 
-**[6120.00s] English:** oppression kings were dictators and now they have fucking ceremonial why don't we have a ceremonial  
+**[6120.00s] English:** Oppression: Kings were dictators, and now they have fucking ceremonial. Why don't we have a ceremonial?  
 **Translation:** Vocabulary: ceremonial: 仪式; dictators: 独裁者
 
-**[6126.74s] English:** furor what isn't german he doesn't do any of the bad stuff he just rolls around and does  
+**[6126.74s] English:** Furor: What isn't German? He doesn't do any of the bad stuff; he just rolls around and does.  
 **Translation:** 
 
-**[6130.64s] English:** i mean it's like what the fuck there's no difference between a hitler and a fucking  
+**[6130.64s] English:** I mean, it's like, what the fuck? There's no difference between Hitler and a fucking  
 **Translation:** 
 
-**[6135.44s] English:** king they did the same horrible shit why not a fucking ceremonial conqueror alexander the great  
+**[6135.44s] English:** King, they did the same horrible shit. Why not a fucking ceremonial conqueror, Alexander the Great?  
 **Translation:** 
 
-**[6140.56s] English:** walks in rapes a little bit but it's all fun it's for ceremony he represents the country  
+**[6140.56s] English:** Walks in, rapes a little bit, but it's all fun—it's for ceremony; he represents the country.  
 **Translation:** 
 
-**[6144.66s] English:** macedonia it's greek it's interesting to see that uh some you're starting to see a bit of that  
+**[6144.66s] English:** Macedonia: It's Greek, it's interesting to see that; you're starting to see a bit of that.  
 **Translation:** 
 
-**[6151.88s] English:** in russia with stalin actually the celebration of a of a man that helped win the great patriotic war  
+**[6151.88s] English:** In Russia, with Stalin, the celebration of a man who helped win the Great Patriotic War.  
 **Translation:** Vocabulary: macedonia: 马其顿; patriotic: 爱国的; stalin: 斯大林
 
-**[6159.62s] English:** yeah right so like you you're already starting to see that it's very possible in history books  
+**[6159.62s] English:** Yeah, right. So, like, you're already starting to see that it's very possible in history books.  
 **Translation:** 
 
-**[6164.72s] English:** he'll be seen as maybe like a jengis khan type of character and you forget the millions that  
+**[6164.72s] English:** He'll be seen as maybe a Genghis Khan-type character, and you forget the millions that died.  
+**Translation:** Vocabulary: genghis: 成吉思汗
+
+**[6170.24s] English:** He tortured, so you're one of the most successful and brilliant people.  
 **Translation:** 
 
-**[6170.24s] English:** he tortured so you're one of the most successful and brilliant people  
+**[6174.66s] English:** The world has ever seen, so you're the good person to ask, uh, for advice. You know, there's a lot of  
+**Translation:** Vocabulary: tortured: 受折磨的
+
+**[6180.38s] English:** Young people that look up to you, God bless their souls and hearts, made the right choice. What advice?  
 **Translation:** 
 
-**[6174.66s] English:** the world has ever seen so you're the good person to ask uh for advice you know there's a lot of  
-**Translation:** Vocabulary: tortured: 折磨
-
-**[6180.38s] English:** young people that look up to you god bless their souls and hearts made the right choice what advice  
+**[6187.04s] English:** Would you give to a young person, maybe even to yourself or a young version of yourself, you know, just how?  
 **Translation:** 
 
-**[6187.04s] English:** would you give to a young person maybe to yourself to a young version of yourself you know just how  
+**[6192.74s] English:** To live a successful and good life, be doggedly committed. I think that's when the magic happens when you are  
 **Translation:** 
 
-**[6192.74s] English:** to live a successful a good life be doggedly you i think uh the magic happens when you are  
-**Translation:** 
-
-**[6201.90s] English:** stubbornly doggedly you and you meet other people  
+**[6201.90s] English:** Stubbornly, doggedly, you and you meet other people.  
 **Translation:** Vocabulary: stubbornly: 固执地
 
-**[6204.66s] English:** who are doing the same and um the real magic of life the real true currency in this ephemeral life  
+**[6204.66s] English:** Who are doing the same, and the real magic of life—the real true currency in this ephemeral life.  
 **Translation:** 
 
-**[6210.84s] English:** is sort of the communication that happens between people uh that's the real currency friendships  
+**[6210.84s] English:** Is sort of the communication that happens between people, uh, that's the real currency of friendships.  
 **Translation:** Vocabulary: ephemeral: 短暂的
 
-**[6217.72s] English:** love it's it's cliche but it's uh i think the meaning of life is to experience to experience  
+**[6217.72s] English:** Love; it's cliché, but I think the meaning of life is to experience, to experience.  
 **Translation:** 
 
-**[6224.62s] English:** love and uh i think uh people often mistake maybe it's because of hollywood films and things like  
-**Translation:** Vocabulary: cliche: 陈词滥调
-
-**[6229.56s] English:** that that love is a feeling but it's not it's an action it's an action it's an action it's an action  
+**[6224.62s] English:** Love, and I think people often mistake it perhaps because of Hollywood films and things like that.  
 **Translation:** 
 
-**[6234.66s] English:** so uh that took me a while to learn and i think that's why i've made decisions since that i think  
+**[6229.56s] English:** That love is a feeling, but it's not; it's an action. It's an action. It's an action. It's an action.  
 **Translation:** 
 
-**[6239.72s] English:** i've been  
+**[6234.66s] English:** So, uh, that took me a while to learn, and I think that's why I've made decisions since then.  
 **Translation:** 
 
-**[6240.00s] English:** good for me and healthy for me love is an action and people can say things you can feel things  
+**[6239.72s] English:** I've been  
 **Translation:** 
 
-**[6245.80s] English:** um that doesn't mean they're necessarily real it's all chemical reactions it's all uh tied to  
+**[6240.00s] English:** Good for me, and healthy for me. Love is an action, and people can say things, you can feel things.  
 **Translation:** 
 
-**[6252.00s] English:** our immaturity and uh psychological issues and uh survival but action when some when you do things  
-**Translation:** Vocabulary: immaturity: 不成熟
-
-**[6259.46s] English:** when you act out of love and you that's that's what it's about is there uh times when you're  
+**[6245.80s] English:** Um, that doesn't mean they're necessarily real; it's all chemical reactions, it's all uh tied to.  
 **Translation:** 
 
-**[6266.90s] English:** younger where you were kind of dishonest with who you are to yourself yeah in terms of like what  
+**[6252.00s] English:** Our immaturity and psychological issues, and survival—but action when you actually do things.  
+**Translation:** Vocabulary: immaturity: 不成熟; reactions: 反应
+
+**[6259.46s] English:** When you act out of love, and that's what it's about. Is there ever a time when you're  
 **Translation:** 
 
-**[6274.06s] English:** what kind of things did you have to do to to shake yourself up and be like okay i thought um i thought  
+**[6266.90s] English:** You were younger, where you were kind of dishonest with who you are to yourself, yeah, in terms of like what.  
 **Translation:** 
 
-**[6280.86s] English:** i'm going to be a scientist but instead i i realized i'm going to do this yeah my parents  
+**[6274.06s] English:** What kind of things did you have to do to shake yourself up and be like, "Okay, I thought...?  
 **Translation:** 
 
-**[6285.02s] English:** make funny yeah my my comedy is a hard hard thing to explain to uh you know an immigrant mother who  
+**[6280.86s] English:** I'm going to be a scientist, but instead, I realized I'm going to do this. Yeah, my parents.  
 **Translation:** 
 
-**[6290.54s] English:** came here and under nazi occupied creed and became a human rights lawyer and lawyer and  
-**Translation:** Vocabulary: creed: 信仰; immigrant: 移民
-
-**[6295.58s] English:** my brother's  
+**[6285.02s] English:** Make funny, yeah. My comedy is a hard thing to explain to, uh, you know, an immigrant mother who.  
 **Translation:** 
 
-**[6296.90s] English:** lawyer my father was a lawyer you know clawed his way up his dad was a was a um so your  
-**Translation:** Vocabulary: clawed: 奋力争取
+**[6290.54s] English:** Came here and, under Nazi-occupied Creed, became a human rights lawyer and lawyer.  
+**Translation:** Vocabulary: creed: 信条; immigrant: 移民
 
-**[6302.08s] English:** disappointment i'm the black sheep yeah my brother went to oxford georgetown law brown  
+**[6295.58s] English:** My brother's  
 **Translation:** 
 
-**[6307.36s] English:** you know has a master's in you know law degrees my mother has four law degrees uh  
+**[6296.90s] English:** Lawyer: My father was a lawyer, you know, clawed his way up. His dad was a, um, so your?  
+**Translation:** Vocabulary: clawed: 艰难奋斗
+
+**[6302.08s] English:** Disappointment. I'm the black sheep. Yeah, my brother went to Oxford, Georgetown Law, Brown.  
+**Translation:** 
+
+**[6307.36s] English:** You know, she has a master's in law, and my mother has four law degrees, uh  
 **Translation:** Vocabulary: georgetown: 乔治敦大学
 
-**[6315.34s] English:** you know uh she was on the human rights commission new york up for a judgeship under dinkins  
+**[6315.34s] English:** You know, uh, she was on the Human Rights Commission in New York, up for a judgeship under Dinkins.  
 **Translation:** 
 
-**[6319.82s] English:** um wrote a you know uh she was the editor of unitard she she wrote a seminal piece on the  
-**Translation:** Vocabulary: judgeship: 法官职位; seminal: 开创性文章
+**[6319.82s] English:** Um, she wrote a you know, uh, she was the editor of Unitard and she wrote a seminal piece on the  
+**Translation:** Vocabulary: dinkins: 迪金斯; judgeship: 法官职位; seminal: 开创性; unitard: 紧身上衣
 
-**[6325.86s] English:** human rights of children for the united nations um and uh yeah i was a comedian i was always a  
+**[6325.86s] English:** Human rights of children for the United Nations, um, and uh, yeah, I was a comedian; I was always a  
 **Translation:** 
 
-**[6330.76s] English:** fuck up and uh the the thing that i was best at the only thing i was ever decent at was just like  
+**[6330.76s] English:** Fuck up, and the thing that I was best at — the only thing I was ever decent at — was just like  
 **Translation:** 
 
-**[6335.52s] English:** making people laugh i don't know why i don't know where that comes from but uh was there a question  
+**[6335.52s] English:** Making people laugh, I don't know why. I don't know where that comes from, but uh, was there a question?  
 **Translation:** 
 
-**[6340.74s] English:** or did was there a moment where you decided this is what i'm gonna do there was a moment after i  
+**[6340.74s] English:** Or, did there come a moment where you decided this is what I'm gonna do? There was a moment after I  
 **Translation:** 
 
-**[6344.90s] English:** graduated college yeah but i was thinking about all types of stuff that other people imposed on  
+**[6344.90s] English:** Graduated from college, yeah, but I was thinking about all sorts of stuff that other people imposed on me.  
 **Translation:** 
 
-**[6350.56s] English:** me and um i was honest with myself and once i figured out it was an actual career path i wasn't  
-**Translation:** 
+**[6350.56s] English:** Me and um, I was honest with myself, and once I figured out it was an actual career path, I wasn't  
+**Translation:** Vocabulary: imposed: 强加的
 
-**[6355.86s] English:** aware back then the internet wasn't huge you know in late 99 2000  
+**[6355.86s] English:** Aware back then, the Internet wasn't huge, you know, in late '99 to 2000.  
 **Translation:** 
 
 **[6360.00s] English:** It wasn't big yet.  
 **Translation:** 
 
-**[6360.76s] English:** So I thought Robin Williams was just like an actor.  
+**[6360.76s] English:** So, I thought Robin Williams was just like an actor.  
 **Translation:** 
 
-**[6363.00s] English:** I didn't know there was comedy clubs and all.  
+**[6363.00s] English:** I didn't know there were comedy clubs, and all.  
 **Translation:** 
 
-**[6364.88s] English:** So once I learned that, I was just like – I tried it.  
+**[6364.88s] English:** So, once I learned that, I was just like— I tried it.  
 **Translation:** 
 
 **[6367.84s] English:** I suffered from massive anxiety.  
 **Translation:** 
 
-**[6369.94s] English:** I remember the first time I did comedy, my arms went numb.  
+**[6369.94s] English:** I remember the first time I did comedy; my arms went numb.  
 **Translation:** 
 
 **[6372.36s] English:** I started having a massive panic attack.  
@@ -4315,7 +4316,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6375.32s] English:** I can show it to you.  
 **Translation:** 
 
-**[6376.04s] English:** It's like I just –  
+**[6376.04s] English:** It's like I just—  
 **Translation:** 
 
 **[6377.32s] English:** On video.  
@@ -4324,25 +4325,25 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6377.98s] English:** Yeah, on video.  
 **Translation:** 
 
-**[6378.46s] English:** Oh, nice.  
+**[6378.46s] English:** Oh, nice!  
 **Translation:** 
 
 **[6379.16s] English:** Thank you, thank you, thank you.  
 **Translation:** 
 
-**[6380.26s] English:** And the reason why I kept saying thank you is because I forgot my whole joke because I was so scared.  
+**[6380.26s] English:** And the reason why I kept saying "thank you" is because I forgot my whole joke because I was so scared.  
 **Translation:** 
 
-**[6383.62s] English:** And then they laughed because of the amount of times I said thank you.  
+**[6383.62s] English:** And then they laughed because of the amount of times I said "thank you.  
 **Translation:** 
 
-**[6386.44s] English:** And then once they laughed, I remembered the whole thing.  
+**[6386.44s] English:** And then, once they laughed, I remembered the whole thing.  
 **Translation:** 
 
 **[6389.72s] English:** And I did the five minutes, and I remember getting off.  
 **Translation:** 
 
-**[6392.52s] English:** And for a person who never felt like he had a place anywhere, nothing ever felt right, that felt like, okay, I found it.  
+**[6392.52s] English:** And for a person who never felt like he had a place anywhere, nothing ever felt right—that felt like, okay, I found it.  
 **Translation:** 
 
 **[6399.50s] English:** This is what I'm supposed to do.  
@@ -4351,7 +4352,7 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6401.08s] English:** This is it.  
 **Translation:** 
 
-**[6401.72s] English:** It was the only time in my life I felt that.  
+**[6401.72s] English:** It was the only time in my life that I felt that.  
 **Translation:** 
 
 **[6403.96s] English:** I haven't felt it since.  
@@ -4360,34 +4361,34 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6405.06s] English:** Never felt it before.  
 **Translation:** 
 
-**[6406.50s] English:** So it's the only thing I can do.  
+**[6406.50s] English:** So, it's the only thing I can do.  
 **Translation:** 
 
 **[6409.04s] English:** Yeah, I had that.  
 **Translation:** 
 
-**[6410.06s] English:** You know, it's funny because there's – I have a similar experience, like immigrant family.  
-**Translation:** 
+**[6410.06s] English:** You know, it's funny because there's— I have a similar experience with an immigrant family.  
+**Translation:** Vocabulary: immigrant: 移民
 
 **[6414.70s] English:** And the world tells you to do certain things, and you think that's right.  
 **Translation:** 
 
-**[6418.88s] English:** But then –  
+**[6418.88s] English:** But then -  
 **Translation:** 
 
-**[6420.34s] English:** You put yourself in situations, by luck probably, where it's like, oh, this feels right.  
+**[6420.34s] English:** You put yourself in situations, by luck probably, where it's like, "Oh, this feels right.  
 **Translation:** 
 
 **[6428.90s] English:** I don't know what this means, but this feels right.  
 **Translation:** 
 
-**[6430.72s] English:** I think the biggest moment like that for me was – I don't know what to make of it exactly.  
+**[6430.72s] English:** I think the biggest moment like that for me was—I don't know what to make of it exactly.  
 **Translation:** 
 
-**[6437.20s] English:** But when I met Spot, the robot, the legged robot, it was like five years ago.  
+**[6437.20s] English:** But when I met Spot, the legged robot, it was about five years ago.  
 **Translation:** 
 
-**[6443.16s] English:** It felt like this – the depth of fascinating ideas that are yet to be –  
+**[6443.16s] English:** It felt like this: the depth of fascinating ideas that are yet to be explored.  
 **Translation:** 
 
 **[6449.70s] English:** Explored with this thing.  
@@ -4399,11 +4400,11 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6452.38s] English:** It was like a door that opened.  
 **Translation:** 
 
-**[6454.58s] English:** And I was like, I don't want to be a professor.  
+**[6454.58s] English:** And I was like, "I don't want to be a professor.  
 **Translation:** 
 
 **[6457.50s] English:** At that point, I realized I don't want to do sort of generic stuff.  
-**Translation:** 
+**Translation:** Vocabulary: generic: 普通的
 
 **[6463.32s] English:** I want to do something crazy.  
 **Translation:** 
@@ -4432,107 +4433,107 @@ Source file: Lex Fridman - Yannis Pappas： History and Comedy ｜ Lex Fridman P
 **[6478.26s] English:** That sounds like you're following.  
 **Translation:** 
 
-**[6479.36s] English:** That sounds like you're following what's doggedly.  
+**[6479.36s] English:** That sounds like you're following it doggedly.  
 **Translation:** 
 
-**[6480.00s] English:** you and also i think uh just to just to piggyback off it i think that means no matter what it is  
+**[6480.00s] English:** You and I think, just to piggyback off of it, I think that means no matter what it is.  
 **Translation:** 
 
-**[6487.12s] English:** because i think our the american dream is sold like hey if you're not beyonce or if you're not  
-**Translation:** Vocabulary: piggyback: 搭车
+**[6487.12s] English:** Because I think the American dream is sold like, "Hey, if you're not Beyoncé or  
+**Translation:** Vocabulary: piggyback: 搭便车
 
-**[6492.52s] English:** famous you're not worth it i hate that and that's what i love so much about certain countries like  
+**[6492.52s] English:** Famous? You're not worth it. I hate that, and that's what I love so much about certain countries like.  
 **Translation:** 
 
-**[6497.02s] English:** sweden it's a it's like um where everyone has health care and stuff like that because everyone's  
+**[6497.02s] English:** Sweden is like where everyone has healthcare and stuff like that, because everyone's  
+**Translation:** Vocabulary: healthcare: 医疗体系
+
+**[6501.04s] English:** A little is valued more; it's like, whatever. If you want to be a doorman, do it like it's all the same.  
 **Translation:** 
 
-**[6501.04s] English:** a little is valued more it's like whatever if you want to be a doorman do it like it's all the same  
+**[6506.36s] English:** Prince was not happy. There's no excuse; just because you're rich or famous, you're still the same guy.  
+**Translation:** Vocabulary: doorman: 门童
+
+**[6511.38s] English:** Whether your possessions are a lot or a little, you know, it's like I've met some doormen I have.  
 **Translation:** 
 
-**[6506.36s] English:** prince was not happy there's no just because you're rich or famous you're still the same guy  
-**Translation:** Vocabulary: doorman: 门房
+**[6517.64s] English:** Met some tax protesters that I, in fact, find more fascinating than comedians, which are horrible.  
+**Translation:** Vocabulary: comedians: 喜剧演员; doormen: 门童
 
-**[6511.38s] English:** whether your possessions are a lot little you know it's like i i have met some doorman i have  
+**[6524.22s] English:** People, some I want to get away from all of them. I have very few friends: Paul Verzi, Tim Dillon, and who.  
 **Translation:** 
 
-**[6517.64s] English:** met some tax gabbers that i i lie to you not are more fascinating i have comedians are horrible  
-**Translation:** 
-
-**[6524.22s] English:** people some i want to get away from all of them i have very few friends paul verzi tim dillon who  
-**Translation:** 
-
-**[6530.56s] English:** are comedians because they're awful awful people some of the people who you know the most who are  
+**[6530.56s] English:** Are comedians because they're awful, awful people? Some of the people who you know the most are.  
 **Translation:** Vocabulary: dillon: 迪龙
 
-**[6535.94s] English:** the most famous are the most famous people who are the most famous people who are the most famous  
+**[6535.94s] English:** The most famous are the most famous people, who are the most famous people.  
 **Translation:** 
 
-**[6536.36s] English:** are not who they say they are usually that's the case they're putting on that public facade because  
+**[6536.36s] English:** Are not who they say they are. Usually, that's the case; they're putting on that public facade because.  
 **Translation:** Vocabulary: facade: 表面形象
 
-**[6541.82s] English:** they're fucking sociopaths yeah they're horrible people and some of the most beautiful people i've  
+**[6541.82s] English:** They're fucking sociopaths. Yeah, they're horrible people, and some of the most beautiful people I've  
 **Translation:** 
 
-**[6546.88s] English:** met in the most interesting people i've met have regular jobs there's no shame in any fucking job  
-**Translation:** Vocabulary: sociopaths: 反社会者
+**[6546.88s] English:** Met in the most interesting people I've met have regular jobs. There's no shame in any fucking job.  
+**Translation:** Vocabulary: sociopaths: 反社会的人
 
-**[6552.56s] English:** we don't all have to be rappers with like rims it's just a weird thing yeah famous fame is a  
+**[6552.56s] English:** We don't all have to be rappers with like rims; it's just a weird thing, yeah. Famous fame is a  
 **Translation:** 
 
-**[6558.84s] English:** drug and yeah comedians i agree with you there's some part of me that knows that there'll be a  
+**[6558.84s] English:** Drug, and yeah, comedians—I agree with you. There's some part of me that knows that there will be a  
 **Translation:** 
 
-**[6565.92s] English:** moment in my life where i'm going to be a doorman and i'm going to be a doorman and i'm going to be  
+**[6565.92s] English:** A moment in my life where I'm going to be a doorman, and I'm going to be a doorman, and I'm going to be.  
 **Translation:** 
 
-**[6566.34s] English:** a doorman and i'm going to be a doorman and i'm going to be a doorman and i'm going to be a doorman  
+**[6566.34s] English:** A doorman, and I'm going to be a doorman, and I'm going to be a doorman, and I'm going to be a doorman.  
 **Translation:** 
 
-**[6566.70s] English:** when i'm standing there with like a sword or a knife in my stomach and looking at tim dillon's  
+**[6566.70s] English:** When I'm standing there with a sword or a knife in my stomach, looking at Tim Dillon's...  
 **Translation:** 
 
-**[6573.40s] English:** smiling face saying uh uh you shouldn't have trusted me you stupid fuck so on that note  
+**[6573.40s] English:** Smiling face, saying, "Uh, uh, you shouldn't have trusted me. You stupid fuck." So, on that note.  
 **Translation:** 
 
-**[6582.44s] English:** you're honest i've been a huge fan of yours i love what you're doing long days now your new  
+**[6582.44s] English:** You're honest; I've been a huge fan of yours. I love what you're doing, especially during these long days. Now your new...  
 **Translation:** 
 
-**[6588.44s] English:** podcast and um i obviously love all the stuff you've done before with history hyenas the chemistry  
+**[6588.44s] English:** Podcast, and um, I obviously love all the stuff you've done before with history, hyenas, and the chemistry.  
 **Translation:** Vocabulary: hyenas: 鬣狗
 
-**[6594.10s] English:** the the chemistry you have with yourself and i love the chemistry you have with yourself and i  
+**[6594.10s] English:** The chemistry you have with yourself, and I love it.  
 **Translation:** 
 
-**[6596.34s] English:** love the chemistry you have with yourself it's also fun to watch so man i'm a huge fan it's a  
+**[6596.34s] English:** Love the chemistry you have with yourself; it's also fun to watch. So, man, I'm a huge fan! It's a  
 **Translation:** 
 
-**[6599.04s] English:** huge honor that you come down  
+**[6599.04s] English:** Huge honor that you came down.  
 **Translation:** 
 
-**[6600.00s] English:** on here thanks so much for talking to me it means so much to me to hear you say that i really  
+**[6600.00s] English:** On here, thanks so much for talking to me. It means so much to me to hear you say that. I really  
 **Translation:** 
 
-**[6603.58s] English:** appreciate i'm a big fan of yours and having me on has been amazing and just thank you man thank  
+**[6603.58s] English:** Appreciate; I'm a big fan of yours, and having me on has been amazing. Just thank you, man!  
 **Translation:** 
 
-**[6607.46s] English:** you for having me on and people if they want to watch my special it's called blowing the light  
+**[6607.46s] English:** You for having me on, and if people want to watch my special, it's called "Blowing the Light.  
 **Translation:** 
 
-**[6611.44s] English:** it's on youtube and please come listen to long days of podcast and let's go eat some barbecue  
+**[6611.44s] English:** It's on YouTube, and please come listen to "Long Days" podcast. Let's go eat some barbecue!  
 **Translation:** 
 
-**[6615.54s] English:** let's do it thanks for listening to this conversation with yannis papas and thank you  
-**Translation:** Vocabulary: papas: 帕帕斯
-
-**[6620.52s] English:** to wine access blinkist magic spoon and indeed check them out in the description to support  
+**[6615.54s] English:** Let's do it! Thanks for listening to this conversation with Yannis Papas, and thank you.  
 **Translation:** 
 
-**[6627.52s] English:** this podcast and now let me leave you with some words from karl marx revolutions are the  
-**Translation:** Vocabulary: blinkist: 速读精华; revolutions: 革命
+**[6620.52s] English:** To get wine access, Blinkist, Magic Spoon, and indeed, check them out in the description to support.  
+**Translation:** 
 
-**[6634.26s] English:** locomotives of history thank you for listening and hope to see you next time  
-**Translation:** Vocabulary: locomotives: 历史火车
+**[6627.52s] English:** This podcast, and now let me leave you with some words from Karl Marx: revolutions are the  
+**Translation:** Vocabulary: blinkist: Blinkist; revolutions: 革命
+
+**[6634.26s] English:** Locomotives of History, thank you for listening, and hope to see you next time.  
+**Translation:** Vocabulary: locomotives: 火车头
 
 
 <!-- TRANSCRIPTION_COMPLETE -->
